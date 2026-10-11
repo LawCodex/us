@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—COOPERATIVE RESEARCH PROGRAM
 
-### § 4601. Findings, purposes, and definitions
+### § 4601. Findings, purposes, and definitions
 
 **(a) Findings**
 
@@ -39,7 +39,7 @@ The Congress finds that it is in the national economic and security interests of
 
 **(2)** The term “Sematech” means a consortium of firms in the United States semiconductor industry established for the purposes of (A) conducting research concerning advanced semiconductor manufacturing techniques, and (B) developing techniques to adapt manufacturing expertise to a variety of semiconductor products.
 
-(Pub. L. 100–180, div. A, title II, § 271, Dec. 4, 1987, 101 Stat. 1068; Pub. L. 103–160, div. A, title II, § 263(c)(1), Nov. 30, 1993, 107 Stat. 1610.)
+(Pub. L. 100–180, div. A, title II, § 271, Dec. 4, 1987, 101 Stat. 1068; Pub. L. 103–160, div. A, title II, § 263(c)(1), Nov. 30, 1993, 107 Stat. 1610.)
 
 **Editorial Notes**
 
@@ -47,7 +47,7 @@ The Congress finds that it is in the national economic and security interests of
 
 1993—Subsec. (c)(1). Pub. L. 103–160 substituted “Semiconductor Technology Council” for “Advisory Council on Federal Participation in Sematech”.
 
-### § 4602. Grants to Sematech
+### § 4602. Grants to Sematech
 
 **(a) Authority to make grants**
 
@@ -75,7 +75,7 @@ The Secretary of Defense shall make grants, in accordance with section 6304 of t
 
 The memorandum of understanding entered into under subsection (b) shall not be considered to be a contract for the purpose of any law or regulation relating to the formation, content, and administration of contracts awarded by the Federal Government and subcontracts under such contracts, including chapter 271 of title 10, section 719 of the Defense Production Act of 1950 (50 U.S.C. App. 2168),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and the Federal Acquisition Regulations, and such provisions of law and regulation shall not apply with respect to the memorandum of understanding.
 
@@ -83,13 +83,13 @@ and the Federal Acquisition Regulations, and such provisions of law and regulati
 
 Of the amounts appropriated to the Defense Agencies for fiscal year 1988 for research, development, test, and evaluation, $100,000,000 may be obligated only to make grants under this section.
 
-(Pub. L. 100–180, div. A, title II, § 272, Dec. 4, 1987, 101 Stat. 1068; Pub. L. 103–160, div. A, title II, § 263(c)(2), Nov. 30, 1993, 107 Stat. 1610; Pub. L. 117–81, div. A, title XVII, § 1702(e)(7), Dec. 27, 2021, 135 Stat. 2157.)
+(Pub. L. 100–180, div. A, title II, § 272, Dec. 4, 1987, 101 Stat. 1068; Pub. L. 103–160, div. A, title II, § 263(c)(2), Nov. 30, 1993, 107 Stat. 1610; Pub. L. 117–81, div. A, title XVII, § 1702(e)(7), Dec. 27, 2021, 135 Stat. 2157.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 719 of the Defense Production Act of 1950, referred to in subsec. (c), is section 719 of act Sept. 8, 1950, ch. 932, title VII, as added Pub. L. 91–379, title I, § 103, Aug. 15, 1970, 84 Stat. 796, which was formerly classified to section 2168 of the former Appendix to Title 50, War and National Defense, prior to repeal by Pub. L. 100–679, § 5(b), Nov. 17, 1988, 102 Stat. 4063.
+Section 719 of the Defense Production Act of 1950, referred to in subsec. (c), is section 719 of act Sept. 8, 1950, ch. 932, title VII, as added Pub. L. 91–379, title I, § 103, Aug. 15, 1970, 84 Stat. 796, which was formerly classified to section 2168 of the former Appendix to Title 50, War and National Defense, prior to repeal by Pub. L. 100–679, § 5(b), Nov. 17, 1988, 102 Stat. 4063.
 
 **Amendments**
 
@@ -97,7 +97,7 @@ Section 719 of the Defense Production Act of 1950, referred to in subsec. (c), i
 
 1993—Subsec. (b)(1)(B). Pub. L. 103–160 substituted “Semiconductor Technology Council” for “Advisory Council on Federal Participation in Sematech”.
 
-### § 4603. Semiconductor Technology Council
+### § 4603. Semiconductor Technology Council
 
 **(a) Establishment**
 
@@ -187,7 +187,7 @@ Section 1013 of title 5 shall not apply to the Council.
 
 The Council shall use Federal funds made available to Sematech as needed for general and administrative support in accomplishing the Council’s purposes.
 
-(Pub. L. 100–180, div. A, title II, § 273, Dec. 4, 1987, 101 Stat. 1070; Pub. L. 102–245, title I, § 103(e), Feb. 14, 1992, 106 Stat. 9; Pub. L. 103–160, div. A, title II, § 263(b), (c)(3)–(e), Nov. 30, 1993, 107 Stat. 1608, 1610; Pub. L. 103–337, div. A, title II, § 251, Oct. 5, 1994, 108 Stat. 2702; Pub. L. 106–65, div. A, title IX, § 911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 117–286, § 4(a)(72), Dec. 27, 2022, 136 Stat. 4313.)
+(Pub. L. 100–180, div. A, title II, § 273, Dec. 4, 1987, 101 Stat. 1070; Pub. L. 102–245, title I, § 103(e), Feb. 14, 1992, 106 Stat. 9; Pub. L. 103–160, div. A, title II, § 263(b), (c)(3)–(e), Nov. 30, 1993, 107 Stat. 1608, 1610; Pub. L. 103–337, div. A, title II, § 251, Oct. 5, 1994, 108 Stat. 2702; Pub. L. 106–65, div. A, title IX, § 911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 117–286, § 4(a)(72), Dec. 27, 2022, 136 Stat. 4313.)
 
 **Editorial Notes**
 
@@ -199,23 +199,23 @@ The Council shall use Federal funds made available to Sematech as needed for gen
 
 1994—Subsec. (b)(2)(I). Pub. L. 103–337 inserted “and submit to Congress by March 31 of each year” after “Publish”.
 
-1993—Pub. L. 103–160, § 263(b), substituted “Semiconductor Technology Council” for “Advisory Council” in section catchline.
+1993—Pub. L. 103–160, § 263(b), substituted “Semiconductor Technology Council” for “Advisory Council” in section catchline.
 
-Subsec. (a). Pub. L. 103–160, § 263(b), added subsec. (a) and struck out former subsec. (a) which read as follows: “There is established the Advisory Council on Federal Participation in Sematech.”
+Subsec. (a). Pub. L. 103–160, § 263(b), added subsec. (a) and struck out former subsec. (a) which read as follows: “There is established the Advisory Council on Federal Participation in Sematech.”
 
-Subsec. (b). Pub. L. 103–160, § 263(b), added subsec. (b) and struck out former subsec. (b) which related to the functions of the Advisory Council of Federal Participation in Sematech.
+Subsec. (b). Pub. L. 103–160, § 263(b), added subsec. (b) and struck out former subsec. (b) which related to the functions of the Advisory Council of Federal Participation in Sematech.
 
-Subsec. (c). Pub. L. 103–160, § 263(b), added subsec. (c) and struck out former subsec. (c) which related to the membership of the Advisory Council on Federal Participation in Sematech.
+Subsec. (c). Pub. L. 103–160, § 263(b), added subsec. (c) and struck out former subsec. (c) which related to the membership of the Advisory Council on Federal Participation in Sematech.
 
-Subsec. (d). Pub. L. 103–160, § 263(c)(3)(A), substituted “subsection (c)(7)” for “subsection (c)(6)” and “five shall be appointed for a term of two years” for “two shall be appointed for a term of two years”.
+Subsec. (d). Pub. L. 103–160, § 263(c)(3)(A), substituted “subsection (c)(7)” for “subsection (c)(6)” and “five shall be appointed for a term of two years” for “two shall be appointed for a term of two years”.
 
-Subsec. (e). Pub. L. 103–160, § 263(c)(3)(B), substituted “subsection (c)(7)” for “subsection (c)(6)”.
+Subsec. (e). Pub. L. 103–160, § 263(c)(3)(B), substituted “subsection (c)(7)” for “subsection (c)(6)”.
 
-Subsec. (f). Pub. L. 103–160, § 263(c)(3)(C), substituted “Eleven members” for “Seven members”.
+Subsec. (f). Pub. L. 103–160, § 263(c)(3)(C), substituted “Eleven members” for “Seven members”.
 
-Subsec. (g). Pub. L. 103–160, § 263(d), substituted “a Cochairman” for “the Chairman or a majority of its members”.
+Subsec. (g). Pub. L. 103–160, § 263(d), substituted “a Cochairman” for “the Chairman or a majority of its members”.
 
-Subsec. (j). Pub. L. 103–160, § 263(e), added subsec. (j).
+Subsec. (j). Pub. L. 103–160, § 263(e), added subsec. (j).
 
 1992—Subsec. (c)(4). Pub. L. 102–245 substituted “Technology” for “Economic Affairs”.
 
@@ -223,17 +223,17 @@ Subsec. (j). Pub. L. 103–160, § 263(e), added subsec. (j).
 
 **Termination of Advisory Council on Federal Participation in Sematech**
 
-Pub. L. 103–160, div. A, title II, § 263(a), Nov. 30, 1993, 107 Stat. 1608, provided that: “The advisory council known as the Advisory Council on Federal Participation in Sematech, established by section 273 of the National Defense Authorization Act for Fiscal Years 1988 and 1989 (15 U.S.C. 4603), is hereby terminated.”
+Pub. L. 103–160, div. A, title II, § 263(a), Nov. 30, 1993, 107 Stat. 1608, provided that: “The advisory council known as the Advisory Council on Federal Participation in Sematech, established by section 273 of the National Defense Authorization Act for Fiscal Years 1988 and 1989 (15 U.S.C. 4603), is hereby terminated.”
 
 **First Meeting of Semiconductor Technology Council**
 
-Pub. L. 103–160, div. A, title II, § 263(f), Nov. 30, 1993, 107 Stat. 1610, provided that: “The first meeting of the Semiconductor Technology Council shall be held not later than 45 days after the date of the enactment of this Act [Nov. 30, 1993].”
+Pub. L. 103–160, div. A, title II, § 263(f), Nov. 30, 1993, 107 Stat. 1610, provided that: “The first meeting of the Semiconductor Technology Council shall be held not later than 45 days after the date of the enactment of this Act [Nov. 30, 1993].”
 
 **References to Terminated Council**
 
-Pub. L. 103–160, div. A, title II, § 263(g), Nov. 30, 1993, 107 Stat. 1610, provided that: “A reference in any provision of law to the Advisory Council on Federal Participation in Sematech shall be deemed to refer to the Semiconductor Technology Council established by section 273 of the National Defense Authorization Act for Fiscal Years 1988 and 1989 [15 U.S.C. 4603], as amended by subsection (b).”
+Pub. L. 103–160, div. A, title II, § 263(g), Nov. 30, 1993, 107 Stat. 1610, provided that: “A reference in any provision of law to the Advisory Council on Federal Participation in Sematech shall be deemed to refer to the Semiconductor Technology Council established by section 273 of the National Defense Authorization Act for Fiscal Years 1988 and 1989 [15 U.S.C. 4603], as amended by subsection (b).”
 
-### § 4603a. Study and report by Semiconductor Technology Council
+### § 4603a. Study and report by Semiconductor Technology Council
 
 **(a) Study and report**
 
@@ -249,7 +249,7 @@ Not later than February 1, 1989, and annually thereafter for each fiscal year in
 
 **(4)** any other issues and questions the Council deems appropriate shall be considered.
 
-(Pub. L. 100–418, title V, § 5422, Aug. 23, 1988, 102 Stat. 1468; Pub. L. 102–245, title I, § 103(e), Feb. 14, 1992, 106 Stat. 9; Pub. L. 103–160, div. A, title II, § 263(g), Nov. 30, 1993, 107 Stat. 1610.)
+(Pub. L. 100–418, title V, § 5422, Aug. 23, 1988, 102 Stat. 1468; Pub. L. 102–245, title I, § 103(e), Feb. 14, 1992, 106 Stat. 9; Pub. L. 103–160, div. A, title II, § 263(g), Nov. 30, 1993, 107 Stat. 1610.)
 
 **Editorial Notes**
 
@@ -269,29 +269,29 @@ Section was enacted as part of the Omnibus Trade and Competitiveness Act of 1988
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-### § 4604. Repealed. Pub. L. 104–66, title I, § 1031(a)(2), Dec. 21, 1995, 109 Stat. 714
+### § 4604. Repealed. Pub. L. 104–66, title I, § 1031(a)(2), Dec. 21, 1995, 109 Stat. 714
 
-Section, Pub. L. 100–180, div. A, title II, § 274, Dec. 4, 1987, 101 Stat. 1071, directed Comptroller General to review annual reports submitted by auditor on Sematech funding and transmit comments to Congress.
+Section, Pub. L. 100–180, div. A, title II, § 274, Dec. 4, 1987, 101 Stat. 1071, directed Comptroller General to review annual reports submitted by auditor on Sematech funding and transmit comments to Congress.
 
-### § 4605. Export of semiconductor manufacturing
+### § 4605. Export of semiconductor manufacturing
 
-Any export of materials, equipment, and technology developed by Sematech in whole or in part with financial assistance provided under section 4602(a) of this title shall be subject to the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) 1
+Any export of materials, equipment, and technology developed by Sematech in whole or in part with financial assistance provided under section 4602(a) of this title shall be subject to the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and shall not be subject to the Arms Export Control Act [22 U.S.C. 2751 et seq.].
 
-(Pub. L. 100–180, div. A, title II, § 275, Dec. 4, 1987, 101 Stat. 1071.)
+(Pub. L. 100–180, div. A, title II, § 275, Dec. 4, 1987, 101 Stat. 1071.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Export Administration Act of 1979, referred to in text, is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
+The Export Administration Act of 1979, referred to in text, is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
 
-The Arms Export Control Act, referred to in text, is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
+The Arms Export Control Act, referred to in text, is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
-### § 4606. Protection of information
+### § 4606. Protection of information
 
 **(a) Freedom of Information Act**
 
@@ -301,11 +301,11 @@ Section 552 of title 5 shall not apply to information obtained by the Federal Go
 
 Notwithstanding any other provision of law, intellectual property, trade secrets, and technical data owned and developed by Sematech or any of the participants in Sematech may not be disclosed by any officer or employee of the Department of Defense except as provided in the provision included in the memorandum of understanding pursuant to section 4602(b)(5) of this title.
 
-(Pub. L. 100–180, div. A, title II, § 276, Dec. 4, 1987, 101 Stat. 1071.)
+(Pub. L. 100–180, div. A, title II, § 276, Dec. 4, 1987, 101 Stat. 1071.)
 
 ## SUBCHAPTER II—DEPARTMENT OF ENERGY SEMICONDUCTOR TECHNOLOGY RESEARCH EXCELLENCE INITIATIVE
 
-### § 4621. Findings
+### § 4621. Findings
 
 Congress makes the following findings:
 
@@ -331,13 +331,13 @@ Congress makes the following findings:
 
 **(11)** The national laboratories of the Department of Energy are a major national research resource, and the extensive involvement of such laboratories in the semiconductor research initiatives of the Federal Government and private industry would be an effective use of such laboratories and would help insure the success of such initiatives.
 
-(Pub. L. 100–180, div. C, title I, § 3141, Dec. 4, 1987, 101 Stat. 1241.)
+(Pub. L. 100–180, div. C, title I, § 3141, Dec. 4, 1987, 101 Stat. 1241.)
 
-### § 4622. Establishment of semiconductor manufacturing technology research initiative
+### § 4622. Establishment of semiconductor manufacturing technology research initiative
 
 The Secretary of Energy shall initiate and carry out a program (hereinafter in this subchapter referred to as the “Initiative”) of research on semiconductor manufacturing technology and on the practical applications of such technology. The Secretary may carry out the Initiative in a way that complements the activities of a consortium of United States semiconductor manufacturers, materials manufacturers, and equipment manufacturers, established for the purpose of conducting research concerning advanced semiconductor manufacturing techniques and developing techniques to adopt manufacturing expertise to a variety of semiconductor products.
 
-(Pub. L. 100–180, div. C, title I, § 3142, Dec. 4, 1987, 101 Stat. 1242.)
+(Pub. L. 100–180, div. C, title I, § 3142, Dec. 4, 1987, 101 Stat. 1242.)
 
 **Editorial Notes**
 
@@ -345,7 +345,7 @@ The Secretary of Energy shall initiate and carry out a program (hereinafter in t
 
 This subchapter, referred to in text, was in the original “this subtitle” and was translated as reading “this part” meaning part D of title I of division C of Pub. L. 100–180 which enacted this subchapter, to reflect the probable intent of Congress because title I did not contain subtitles.
 
-### § 4623. Participation of national laboratories of Department of Energy
+### § 4623. Participation of national laboratories of Department of Energy
 
 **(a) Mission of national laboratories**
 
@@ -359,15 +359,15 @@ The Secretary of Energy may enter into such agreements with the Secretary of Def
 
 One or more national laboratories of the Department of Energy shall participate in the Initiative by conducting research and development activities relating to research on the development of semiconductor manufacturing technologies. Such activities may include research and development relating to materials fabrication, materials characterization, design and modeling of devices, and new processing equipment.
 
-(Pub. L. 100–180, div. C, title I, § 3143, Dec. 4, 1987, 101 Stat. 1243.)
+(Pub. L. 100–180, div. C, title I, § 3143, Dec. 4, 1987, 101 Stat. 1243.)
 
-### § 4624. Personnel exchanges
+### § 4624. Personnel exchanges
 
 The Secretary of Energy may authorize temporary exchanges of personnel between the national laboratories of the Department of Energy and any domestic firm or any consortium referred to in section 4622 of this title that is participating in the Initiative. The exchange of personnel shall be subject to such restrictions, limitations, terms, and conditions that the Secretary of Energy considers necessary in the interest of national security.
 
-(Pub. L. 100–180, div. C, title I, § 3144, Dec. 4, 1987, 101 Stat. 1243.)
+(Pub. L. 100–180, div. C, title I, § 3144, Dec. 4, 1987, 101 Stat. 1243.)
 
-### § 4625. Other Department of Energy resources
+### § 4625. Other Department of Energy resources
 
 **(a) Availability of resources**
 
@@ -377,9 +377,9 @@ Subject to subsection (b), the Secretary of Energy may make available to the Dep
 
 The Secretary may make facilities available under this section only to the extent that the cost of the use of such facilities is reimbursed by the user.
 
-(Pub. L. 100–180, div. C, title I, § 3145, Dec. 4, 1987, 101 Stat. 1243.)
+(Pub. L. 100–180, div. C, title I, § 3145, Dec. 4, 1987, 101 Stat. 1243.)
 
-### § 4626. Budgeting for semiconductor manufacturing technology research
+### § 4626. Budgeting for semiconductor manufacturing technology research
 
 **(a) Budget submission**
 
@@ -389,9 +389,9 @@ To the extent the Secretary considers appropriate and necessary, the Secretary o
 
 The programs, projects, and activities described in subsection (a) shall be included in the budget for general science and research activities of the Department of Energy, except that any programs, projects, and activities that directly support and directly benefit the defense activities of the Department shall be included in the budget for atomic energy defense activities of the Department of Energy.
 
-(Pub. L. 100–180, div. C, title I, § 3146, Dec. 4, 1987, 101 Stat. 1243.)
+(Pub. L. 100–180, div. C, title I, § 3146, Dec. 4, 1987, 101 Stat. 1243.)
 
-### § 4627. Cost-sharing agreements
+### § 4627. Cost-sharing agreements
 
 **(a) Permitted provisions**
 
@@ -403,9 +403,9 @@ The director of each national laboratory of the Department of Energy that is par
 
 **(2)** No Department of Energy national laboratory may receive more than $10,000,000 of nonappropriated funds under any cooperative research and development agreement entered into under this subsection in connection with the Initiative, except to the extent approved in advance by the Secretary of Energy.
 
-(Pub. L. 100–180, div. C, title I, § 3147, Dec. 4, 1987, 101 Stat. 1244.)
+(Pub. L. 100–180, div. C, title I, § 3147, Dec. 4, 1987, 101 Stat. 1244.)
 
-### § 4628. Department of Energy oversight of cooperative agreements relating to Initiative
+### § 4628. Department of Energy oversight of cooperative agreements relating to Initiative
 
 **(a) Provisions relating to disapproval and modification of agreements**
 
@@ -415,21 +415,21 @@ If the Secretary of Energy desires an opportunity to disapprove or require the m
 
 Each national laboratory shall maintain a record of all agreements entered into under this section.
 
-(Pub. L. 100–180, div. C, title I, § 3148, Dec. 4, 1987, 101 Stat. 1244.)
+(Pub. L. 100–180, div. C, title I, § 3148, Dec. 4, 1987, 101 Stat. 1244.)
 
-### § 4629. Avoidance of duplication
+### § 4629. Avoidance of duplication
 
 In carrying out the Initiative, the Secretary of Energy shall ensure that unnecessary duplicative research is not performed at the research facilities (including the national laboratories of the Department of Energy) that are participating in the Initiative.
 
-(Pub. L. 100–180, div. C, title I, § 3149, Dec. 4, 1987, 101 Stat. 1244.)
+(Pub. L. 100–180, div. C, title I, § 3149, Dec. 4, 1987, 101 Stat. 1244.)
 
-### § 4630. Authorization of appropriations
+### § 4630. Authorization of appropriations
 
 There is authorized to be appropriated to the Department of Energy for fiscal year 1988 the sum of $25,000,000 for general science and research activities of the Department of Energy under the Initiative.
 
-(Pub. L. 100–180, div. C, title I, § 3150, Dec. 4, 1987, 101 Stat. 1244.)
+(Pub. L. 100–180, div. C, title I, § 3150, Dec. 4, 1987, 101 Stat. 1244.)
 
-### § 4631. Technology transfer
+### § 4631. Technology transfer
 
 **(a) In general**
 
@@ -441,7 +441,7 @@ The Secretary of Energy shall adopt procedures to provide for timely and efficie
 
 **(2)** The committees of Congress referred to in paragraph (1) are the Committees on Armed Services of the Senate and House of Representatives, the Committee on Energy and Natural Resources of the Senate, and the Committee on Science, Space, and Technology of the House of Representatives.
 
-(Pub. L. 100–180, div. C, title I, § 3151, Dec. 4, 1987, 101 Stat. 1244; Pub. L. 103–437, § 5(b)(6), Nov. 2, 1994, 108 Stat. 4582.)
+(Pub. L. 100–180, div. C, title I, § 3151, Dec. 4, 1987, 101 Stat. 1244; Pub. L. 103–437, § 5(b)(6), Nov. 2, 1994, 108 Stat. 4582.)
 
 **Editorial Notes**
 
@@ -449,7 +449,7 @@ The Secretary of Energy shall adopt procedures to provide for timely and efficie
 
 1994—Subsec. (b)(2). Pub. L. 103–437 substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology”.
 
-### § 4632. Semiconductor research and development
+### § 4632. Semiconductor research and development
 
 **(a) Short title**
 
@@ -527,7 +527,7 @@ There is hereby created in the executive branch of the Government an independent
 
 There are authorized to be appropriated to carry out the purposes of this section such sums as may be necessary for the fiscal years 1988, 1989, 1990, 1991, 1992, and 1993.
 
-(Pub. L. 100–418, title V, § 5142, Aug. 23, 1988, 102 Stat. 1444; Pub. L. 102–245, title I, § 105(f), Feb. 14, 1992, 106 Stat. 12.)
+(Pub. L. 100–418, title V, § 5142, Aug. 23, 1988, 102 Stat. 1444; Pub. L. 102–245, title I, § 105(f), Feb. 14, 1992, 106 Stat. 12.)
 
 **Editorial Notes**
 

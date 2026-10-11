@@ -13,19 +13,19 @@ retrieved: 2026-10-11
 
 # Title 40—PUBLIC BUILDINGS, PROPERTY, AND WORKS
 
-This title was enacted by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062
+This title was enacted by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062
 
-Current through 119-102not101
+Current through 119-102not101
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Pub. L. 110–234, title XIV, § 14217(b), May 22, 2008, 122 Stat. 1482, and Pub. L. 110–246, title XIV, § 14217(b), June 18, 2008, 122 Stat. 2244, which directed identical amendments to the table of subtitles for “chapter 40, United States Code” by adding items for subtitles V and VI and striking out item for subtitle V, was executed by amending the table of subtitles for this title, to reflect the probable intent of Congress. Prior to amendment, the item for subtitle V read “Miscellaneous”. The amendment by Pub. L. 110–234 was repealed by Pub. L. 110–246, § 4(a), June 18, 2008, 122 Stat. 1664.
+2008—Pub. L. 110–234, title XIV, § 14217(b), May 22, 2008, 122 Stat. 1482, and Pub. L. 110–246, title XIV, § 14217(b), June 18, 2008, 122 Stat. 2244, which directed identical amendments to the table of subtitles for “chapter 40, United States Code” by adding items for subtitles V and VI and striking out item for subtitle V, was executed by amending the table of subtitles for this title, to reflect the probable intent of Congress. Prior to amendment, the item for subtitle V read “Miscellaneous”. The amendment by Pub. L. 110–234 was repealed by Pub. L. 110–246, § 4(a), June 18, 2008, 122 Stat. 1664.
 
 **Table Showing Disposition of All Sections of Former Title 40**
 
-| *Title 40* *Former Sections* | *Title 40* *New Sections* |
+| *Title 40* *Former Sections* | *Title 40* *New Sections* |
 |---|---|
 | 1, 1a | Rep. |
 | 2 | Rep. |
@@ -202,128 +202,128 @@ Current through 119-102not101
 | 135 | 8301 |
 | 136(a) | 8501 |
 | 136(b), (c) | 8502 |
-| 136(d) | (See § 49–103 of the D.C. Official Code) |
+| 136(d) | (See § 49–103 of the D.C. Official Code) |
 | 136(e) | Rep. |
 | 136(f) | 8501 |
 | 136(g)(1), (2) | Rep. |
 | 136(h)–(j) | 8501 |
 | 137 | 8102 |
 | 138 | Rep. |
-| 161 | T. 2 § 1801 note |
+| 161 | T. 2 § 1801 note |
 | 161a | Rep. |
-| 162 | T. 2 § 1811 |
-| 162–1 | T. 2 § 1801 |
-| 162a | T. 2 § 1802 |
-| 162b | T. 2 § 1868 |
-| 163 | T. 2 § 1812 |
-| 163a | T. 2 § 1813 |
-| 163b | T. 2 § 1803 |
+| 162 | T. 2 § 1811 |
+| 162–1 | T. 2 § 1801 |
+| 162a | T. 2 § 1802 |
+| 162b | T. 2 § 1868 |
+| 163 | T. 2 § 1812 |
+| 163a | T. 2 § 1813 |
+| 163b | T. 2 § 1803 |
 | 164 | Rep. |
-| 164a | T. 2 § 1804 |
+| 164a | T. 2 § 1804 |
 | 165 | Rep. |
-| 166 | T. 2 § 1814 |
+| 166 | T. 2 § 1814 |
 | 166a | Rep. |
-| 166a–1 | T. 2 § 1861 |
+| 166a–1 | T. 2 § 1861 |
 | 166b | Rep. |
 | 166b–1 | Rep. |
-| 166b–1a | T. 2 § 1841 |
-| 166b–1b | T. 2 § 1842 |
-| 166b–1c | T. 2 § 1843 |
-| 166b–1d | T. 2 § 1844 |
-| 166b–1e | T. 2 § 1845 |
-| 166b–1f | T. 2 § 1846 |
-| 166b–2 | T. 2 § 1850 |
-| 166b–3 | T. 2 § 1847 |
-| 166b–3a | T. 2 § 1848 |
-| 166b–3b | T. 2 § 1849 |
-| 166b–4 | T. 2 § 1851 |
-| 166b–5 | T. 2 § 1852 |
-| 166b–6 | T. 2 § 1832 |
-| 166b–7 | T. 2 § 1831 |
+| 166b–1a | T. 2 § 1841 |
+| 166b–1b | T. 2 § 1842 |
+| 166b–1c | T. 2 § 1843 |
+| 166b–1d | T. 2 § 1844 |
+| 166b–1e | T. 2 § 1845 |
+| 166b–1f | T. 2 § 1846 |
+| 166b–2 | T. 2 § 1850 |
+| 166b–3 | T. 2 § 1847 |
+| 166b–3a | T. 2 § 1848 |
+| 166b–3b | T. 2 § 1849 |
+| 166b–4 | T. 2 § 1851 |
+| 166b–5 | T. 2 § 1852 |
+| 166b–6 | T. 2 § 1832 |
+| 166b–7 | T. 2 § 1831 |
 | 166c | Elim. |
-| 166d | T. 2 § 1818 |
-| 166e | T. 2 § 1863 |
-| 166f | T. 2 § 1864 |
-| 166g | T. 2 § 1867 |
-| 166h | T. 2 § 1862 |
-| 166i | T. 2 § 1815 |
-| 166j | T. 2 § 1816 |
-| 166k | T. 2 § 1819 |
-| 166*l* | T. 2 § 1865 |
-| 166m | T. 2 § 1820 |
-| 167 | T. 2 § 1833 |
+| 166d | T. 2 § 1818 |
+| 166e | T. 2 § 1863 |
+| 166f | T. 2 § 1864 |
+| 166g | T. 2 § 1867 |
+| 166h | T. 2 § 1862 |
+| 166i | T. 2 § 1815 |
+| 166j | T. 2 § 1816 |
+| 166k | T. 2 § 1819 |
+| 166*l* | T. 2 § 1865 |
+| 166m | T. 2 § 1820 |
+| 167 | T. 2 § 1833 |
 | 167a | Rep. |
-| 168 | T. 2 § 1834 |
+| 168 | T. 2 § 1834 |
 | 168a | Rep. |
-| 169 | T. 2 § 2012 |
-| 170 | T. 2 § 2184 |
-| 170a | (Previously transferred to T. 2 § 117b–1) |
-| 171 | T. 2 § 1817 |
+| 169 | T. 2 § 2012 |
+| 170 | T. 2 § 2184 |
+| 170a | (Previously transferred to T. 2 § 117b–1) |
+| 171 | T. 2 § 1817 |
 | 172 | Rep. |
-| 173 | T. 2 § 2185 |
+| 173 | T. 2 § 2185 |
 | 174 | Rep. |
 | 174a | Rep. |
 | 174b | Elim. |
-| 174b–1 | T. 2 § 2021 |
-| 174b–2 | T. 2 § 2022 |
-| 174c | T. 2 § 2023 |
-| 174d | T. 2 § 2024 |
-| 174d–1 | T. 2 § 2181 |
-| 174e | T. 2 § 1866 |
+| 174b–1 | T. 2 § 2021 |
+| 174b–2 | T. 2 § 2022 |
+| 174c | T. 2 § 2023 |
+| 174d | T. 2 § 2024 |
+| 174d–1 | T. 2 § 2181 |
+| 174e | T. 2 § 1866 |
 | 174f–174j | Rep. |
-| 174j–1 | T. 2 § 2042 |
+| 174j–1 | T. 2 § 2042 |
 | 174j–2 | Rep. |
-| 174j–3 | T. 2 § 2043 |
-| 174j–4 | T. 2 § 2044 |
-| 174j–5 | T. 2 § 2045 |
-| 174j–6 | T. 2 § 2046 |
-| 174j–7 | T. 2 § 2047 |
-| 174j–8 | T. 2 § 2048 |
-| 174j–9 | T. 2 § 2049 |
-| 174j–10 | T. 2 § 2050 |
-| 174k | T. 2 § 2041 |
-| 175 | T. 2 § 2001 |
-| 175a | T. 2 § 2002 |
-| 176 | T. 2 § 2003 |
-| 177 | T. 2 § 2004 |
-| 178 | T. 2 § 2005 |
-| 179 | T. 2 § 2006 |
-| 180 | T. 2 § 2007 |
-| 181 | T. 2 § 2008 |
-| 182 | T. 2 § 2009 |
-| 183 | T. 2 § 2010 |
-| 184 | T. 2 § 2011 |
-| 184a | T. 2 § 2161 |
+| 174j–3 | T. 2 § 2043 |
+| 174j–4 | T. 2 § 2044 |
+| 174j–5 | T. 2 § 2045 |
+| 174j–6 | T. 2 § 2046 |
+| 174j–7 | T. 2 § 2047 |
+| 174j–8 | T. 2 § 2048 |
+| 174j–9 | T. 2 § 2049 |
+| 174j–10 | T. 2 § 2050 |
+| 174k | T. 2 § 2041 |
+| 175 | T. 2 § 2001 |
+| 175a | T. 2 § 2002 |
+| 176 | T. 2 § 2003 |
+| 177 | T. 2 § 2004 |
+| 178 | T. 2 § 2005 |
+| 179 | T. 2 § 2006 |
+| 180 | T. 2 § 2007 |
+| 181 | T. 2 § 2008 |
+| 182 | T. 2 § 2009 |
+| 183 | T. 2 § 2010 |
+| 184 | T. 2 § 2011 |
+| 184a | T. 2 § 2161 |
 | 184b–184f | Rep. |
-| 184g | T. 2 § 2062 |
-| 185 | T. 2 § 2162 |
-| 185a | T. 2 § 2025 |
-| 186 | T. 10 § 4689 |
-| 187 | T. 2 § 2131 |
-| 187a | T. 2 § 2132 |
-| 188 | T. 2 § 2133 |
-| 188a | T. 2 § 2081 |
-| 188a–1 | T. 2 § 2082 |
-| 188a–2 | T. 2 § 2083 |
-| 188a–3 | T. 2 § 2084 |
-| 188a–4 | T. 2 § 2085 |
-| 188a–5 | T. 2 § 2086 |
-| 188b | T. 2 § 2101 |
-| 188b–1 | T. 2 § 2102 |
-| 188b–2 | T. 2 § 2103 |
-| 188b–3 | T. 2 § 2104 |
-| 188b–4 | T. 2 § 2105 |
-| 188b–5 | T. 2 § 2106 |
-| 188b–6 | T. 2 § 2107 |
-| 188c | T. 2 § 2121 |
-| 188c–1 | T. 2 § 2122 |
-| 189 | T. 2 § 2134 |
-| 190 | T. 2 § 2135 |
+| 184g | T. 2 § 2062 |
+| 185 | T. 2 § 2162 |
+| 185a | T. 2 § 2025 |
+| 186 | T. 10 § 4689 |
+| 187 | T. 2 § 2131 |
+| 187a | T. 2 § 2132 |
+| 188 | T. 2 § 2133 |
+| 188a | T. 2 § 2081 |
+| 188a–1 | T. 2 § 2082 |
+| 188a–2 | T. 2 § 2083 |
+| 188a–3 | T. 2 § 2084 |
+| 188a–4 | T. 2 § 2085 |
+| 188a–5 | T. 2 § 2086 |
+| 188b | T. 2 § 2101 |
+| 188b–1 | T. 2 § 2102 |
+| 188b–2 | T. 2 § 2103 |
+| 188b–3 | T. 2 § 2104 |
+| 188b–4 | T. 2 § 2105 |
+| 188b–5 | T. 2 § 2106 |
+| 188b–6 | T. 2 § 2107 |
+| 188c | T. 2 § 2121 |
+| 188c–1 | T. 2 § 2122 |
+| 189 | T. 2 § 2134 |
+| 190 | T. 2 § 2135 |
 | 190a | Rep. |
-| 190b | T. 2 § 2182 |
+| 190b | T. 2 § 2182 |
 | 191 | Rep. |
 | 192 | Rep. |
-| 193 | T. 2 § 2183 |
+| 193 | T. 2 § 2183 |
 | 193a | 5102 |
 | 193b | 5103 |
 | 193c–193g | 5104 |
@@ -345,66 +345,66 @@ Current through 119-102not101
 | 193w | Rep. |
 | 193x | 6306 |
 | 194–205 | Rep. |
-| 206 | T. 2 § 1901 |
-| 206–1 | T. 2 § 1902 |
+| 206 | T. 2 § 1901 |
+| 206–1 | T. 2 § 1902 |
 | 206a—206a–8 | Elim. (Previously transferred to former 206 notes) |
-| 206a–9 | T. 2 § 1903 |
-| 206b | T. 2 § 1924 |
-| 206c | T. 2 § 1925 |
-| 206d | T. 2 § 1971 |
-| 206d–1 | T. 2 § 1972 |
-| 206e | T. 2 § 1973 |
-| 207 | T. 2 § 1921 |
-| 207a | T. 2 § 1922 |
-| 207b | T. 2 § 1923 |
-| 207b–1 | T. 2 § 1926 |
-| 206b–2 | T. 2 § 1927 |
-| 207c | T. 2 § 1951 |
-| 207c–1 | T. 2 § 1952 |
-| 207c–2 | T. 2 § 1953 |
-| 207c–3 | T. 2 § 1954 |
-| 207d | T. 2 § 1904 |
-| 207e | T. 2 § 1905 |
-| 208 | T. 2 § 1928 |
-| 209 | T. 2 § 1929 |
-| 210 | T. 2 § 1941 |
-| 210a | T. 2 § 1942 |
-| 211 | T. 2 § 1943 |
-| 212 | T. 2 § 1944, 1944 notes |
-| 212a | T. 2 § 1961 |
-| 212a–1 | T. 2 § 1962, 1962 notes |
-| 212a–2 | T. 2 § 1966 |
-| 212a–3 | T. 2 § 1967 |
-| 212a–4 | T. 2 § 1964 |
-| 212a–4a | T. 2 § 1965 |
-| 212a–5 | T. 2 § 1968 |
-| 212b | T. 2 § 1969 |
-| 212c | T. 2 § 1970 |
+| 206a–9 | T. 2 § 1903 |
+| 206b | T. 2 § 1924 |
+| 206c | T. 2 § 1925 |
+| 206d | T. 2 § 1971 |
+| 206d–1 | T. 2 § 1972 |
+| 206e | T. 2 § 1973 |
+| 207 | T. 2 § 1921 |
+| 207a | T. 2 § 1922 |
+| 207b | T. 2 § 1923 |
+| 207b–1 | T. 2 § 1926 |
+| 206b–2 | T. 2 § 1927 |
+| 207c | T. 2 § 1951 |
+| 207c–1 | T. 2 § 1952 |
+| 207c–2 | T. 2 § 1953 |
+| 207c–3 | T. 2 § 1954 |
+| 207d | T. 2 § 1904 |
+| 207e | T. 2 § 1905 |
+| 208 | T. 2 § 1928 |
+| 209 | T. 2 § 1929 |
+| 210 | T. 2 § 1941 |
+| 210a | T. 2 § 1942 |
+| 211 | T. 2 § 1943 |
+| 212 | T. 2 § 1944, 1944 notes |
+| 212a | T. 2 § 1961 |
+| 212a–1 | T. 2 § 1962, 1962 notes |
+| 212a–2 | T. 2 § 1966 |
+| 212a–3 | T. 2 § 1967 |
+| 212a–4 | T. 2 § 1964 |
+| 212a–4a | T. 2 § 1965 |
+| 212a–5 | T. 2 § 1968 |
+| 212b | T. 2 § 1969 |
+| 212c | T. 2 § 1970 |
 | 213 | Rep. |
 | 213a | Elim. |
-| 214 | T. 2 § 1963 |
+| 214 | T. 2 § 1963 |
 | 214a | Rep. |
-| 214b | T. 2 § 2061 |
-| 214c | T. 2 § 2063 |
-| 214d | T. 2 § 2064 |
-| 214e | T. 2 § 2065 |
-| 215 | T. 2 § 2141 |
-| 216 | T. 2 § 2142 |
-| 216a | T. 2 § 2145 |
-| 216b | T. 2 § 2143 |
-| 216c | T. 2 § 2146 |
-| 216d | T. 2 § 2144 |
+| 214b | T. 2 § 2061 |
+| 214c | T. 2 § 2063 |
+| 214d | T. 2 § 2064 |
+| 214e | T. 2 § 2065 |
+| 215 | T. 2 § 2141 |
+| 216 | T. 2 § 2142 |
+| 216a | T. 2 § 2145 |
+| 216b | T. 2 § 2143 |
+| 216c | T. 2 § 2146 |
+| 216d | T. 2 § 2144 |
 | 217 | Rep. |
-| 217a | T. 2 § 2147 |
+| 217a | T. 2 § 2147 |
 | 217b | Rep. |
-| 217c | T. 2 § 2167 |
+| 217c | T. 2 § 2167 |
 | 218–220 | Rep. |
 | 221 | Rep. |
 | 222 | Rep. |
-| 223 | T. 2 § 2163 |
-| 224 | T. 2 § 2164 |
-| 231 | (Previously transferred to former T. 44 § 300 prior to repeal) |
-| 232, 232a | (Previously transferred to former T. 44 § 300a prior to repeal) |
+| 223 | T. 2 § 2163 |
+| 224 | T. 2 § 2164 |
+| 231 | (Previously transferred to former T. 44 § 300 prior to repeal) |
+| 232, 232a | (Previously transferred to former T. 44 § 300a prior to repeal) |
 | 232b | Rep. |
 | 233–241 | (Previously transferred to former T. 44:300c–300k prior to repeal) |
 | 251 | Rep. |
@@ -484,7 +484,7 @@ Current through 119-102not101
 | 301 | 1301 |
 | 302–303a | Rep. |
 | 303b | 1302 |
-| 303c | T. 16 § 3b |
+| 303c | T. 16 § 3b |
 | 304 | 1305 |
 | 304a–304e | 1303 |
 | 304f–304m | 1306 |
@@ -574,7 +574,7 @@ Current through 119-102not101
 | 472 | 102 |
 | 473 | 112 |
 | 474(a) | Rep. |
-| 474(b) | (See T. 5 § 901 note) |
+| 474(b) | (See T. 5 § 901 note) |
 | 474(c)–(e) | 113 |
 | 475(a) | 125 |
 | 475(b) | 124 |
@@ -608,10 +608,10 @@ Current through 119-102not101
 | 484(i) | 548 |
 | 484(j) | 549 |
 | 484(k) | 550 |
-| 484(*l* ) | 551 |
+| 484(*l* ) | 551 |
 | 484(m) | 552 |
 | 484(n) | 549 |
-| 484(*o* ) | Rep. |
+| 484(*o* ) | Rep. |
 | 484(p) | 553 |
 | 484(q) | 554 |
 | 484(r) | 555 |
@@ -640,7 +640,7 @@ Current through 119-102not101
 | 490(h) | 585 |
 | 490(i) | 589 |
 | 490(j), (k) | 586 |
-| 490(*l* ) | 587 |
+| 490(*l* ) | 587 |
 | 490 notes | 587, 591 |
 | 490a, 490a–1 | 592 |
 | 490b, 490b note, 490b–1 | 590 |
@@ -661,7 +661,7 @@ Current through 119-102not101
 | 491(i) | 608 |
 | 491(j) | 606 |
 | 491(k) | 609 |
-| 491(*l* ) | 611 |
+| 491(*l* ) | 611 |
 | 492 | 126 |
 | 493 | Rep. |
 | 511 | 701 |
@@ -794,8 +794,8 @@ Current through 119-102not101
 | 822(b) | 6923 |
 | 822(c) | 6922 |
 | 823 | 6924 |
-| 831 | T. 2 § 2165 |
-| 851 | T. 2 § 2166 |
+| 831 | T. 2 § 2165 |
+| 851 | T. 2 § 2166 |
 | 871 | 6711 |
 | 872 | Rep. |
 | 872 notes | 6701, 6702 |
@@ -898,7 +898,7 @@ Current through 119-102not101
 | 1422 | 11312 |
 | 1423 | 11313 |
 | 1424 | 11314 |
-| 1425(a) | (See T. 44 § 3506) |
+| 1425(a) | (See T. 44 § 3506) |
 | 1425(b)–(d) | 11315 |
 | 1426 | 11316 |
 | 1427 | 11317 |
@@ -918,46 +918,46 @@ Current through 119-102not101
 | 1501 | 11701 |
 | 1502 | 11702 |
 | 1503 | 11703 |
-| T. 40 App. § 1 | Rep. |
-| T. 40 App. § 2 | 14101 |
-| T. 40 App. § 101(a)(1) | 14301 |
-| T. 40 App. § 101(a)(2) | 14307 |
-| T. 40 App. § 101(b) | 14302 |
-| T. 40 App. § 101(c), (d) | 14301 |
-| T. 40 App. § 102 | 14303 |
-| T. 40 App. § 103 | 14304 |
-| T. 40 App. § 104 | 14305 |
-| T. 40 App. § 105, 106(1), (2) (1st sentence) | 14306 |
-| T. 40 App. § 106(2) (2d, last sentences) | 14301 |
-| T. 40 App. § 106(3)–(9) | 14306 |
-| T. 40 App. § 107 | 14308 |
-| T. 40 App. § 108 | 14309 |
-| T. 40 App. § 109 | (See T. 5 § 5334) |
-| T. 40 App. § 201 | 14501 |
-| T. 40 App. § 202 | 14502 |
-| T. 40 App. § 203 | 14504 |
-| T. 40 App. § 204 | 14505 |
-| T. 40 App. § 205 | 14506 |
-| T. 40 App. § 206 | Rep. |
-| T. 40 App. § 207 | 14503 |
-| T. 40 App. § 208, 211–213 | Rep. |
-| T. 40 App. § 214 | 14507 |
-| T. 40 App. § 221 | 14521 |
-| T. 40 App. § 222 | 14522 |
-| T. 40 App. § 223 | 14523 |
-| T. 40 App. § 223 note | 14702 |
-| T. 40 App. § 224 | 14524 |
-| T. 40 App. § 225 | 14525 |
-| T. 40 App. § 226 | 14526 |
-| T. 40 App. § 301 | 14102 |
-| T. 40 App. § 302 | 14321 |
-| T. 40 App. § 303 | 14322 |
-| T. 40 App. § 304 | 14310 |
-| T. 40 App. § 401 | 14703 |
-| T. 40 App. § 402 | 14701 |
-| T. 40 App. § 403 | 14102 |
-| T. 40 App. § 404 | Rep. |
-| T. 40 App. § 405 | 14704 |
+| T. 40 App. § 1 | Rep. |
+| T. 40 App. § 2 | 14101 |
+| T. 40 App. § 101(a)(1) | 14301 |
+| T. 40 App. § 101(a)(2) | 14307 |
+| T. 40 App. § 101(b) | 14302 |
+| T. 40 App. § 101(c), (d) | 14301 |
+| T. 40 App. § 102 | 14303 |
+| T. 40 App. § 103 | 14304 |
+| T. 40 App. § 104 | 14305 |
+| T. 40 App. § 105, 106(1), (2) (1st sentence) | 14306 |
+| T. 40 App. § 106(2) (2d, last sentences) | 14301 |
+| T. 40 App. § 106(3)–(9) | 14306 |
+| T. 40 App. § 107 | 14308 |
+| T. 40 App. § 108 | 14309 |
+| T. 40 App. § 109 | (See T. 5 § 5334) |
+| T. 40 App. § 201 | 14501 |
+| T. 40 App. § 202 | 14502 |
+| T. 40 App. § 203 | 14504 |
+| T. 40 App. § 204 | 14505 |
+| T. 40 App. § 205 | 14506 |
+| T. 40 App. § 206 | Rep. |
+| T. 40 App. § 207 | 14503 |
+| T. 40 App. § 208, 211–213 | Rep. |
+| T. 40 App. § 214 | 14507 |
+| T. 40 App. § 221 | 14521 |
+| T. 40 App. § 222 | 14522 |
+| T. 40 App. § 223 | 14523 |
+| T. 40 App. § 223 note | 14702 |
+| T. 40 App. § 224 | 14524 |
+| T. 40 App. § 225 | 14525 |
+| T. 40 App. § 226 | 14526 |
+| T. 40 App. § 301 | 14102 |
+| T. 40 App. § 302 | 14321 |
+| T. 40 App. § 303 | 14322 |
+| T. 40 App. § 304 | 14310 |
+| T. 40 App. § 401 | 14703 |
+| T. 40 App. § 402 | 14701 |
+| T. 40 App. § 403 | 14102 |
+| T. 40 App. § 404 | Rep. |
+| T. 40 App. § 405 | 14704 |
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -967,11 +967,11 @@ Pub. L. 108–178, enacting and amending notes set out below, effective Aug. 21,
 
 **Enacting Clause**
 
-Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062, provided in part that: “Certain general and permanent laws of the United States, related to public buildings, property, and works, are revised, codified, and enacted as title 40, United States Code, ‘Public Buildings, Property, and Works’ ”.
+Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062, provided in part that: “Certain general and permanent laws of the United States, related to public buildings, property, and works, are revised, codified, and enacted as title 40, United States Code, ‘Public Buildings, Property, and Works’ ”.
 
 **Legislative Purpose and Construction**
 
-Pub. L. 108–178, § 1, Dec. 15, 2003, 117 Stat. 2637, provided that:
+Pub. L. 108–178, § 1, Dec. 15, 2003, 117 Stat. 2637, provided that:
 
 > **“(a) Purpose.—** The purpose of this Act [see Tables for classification] is to improve the United States Code by making necessary technical changes.
 
@@ -979,7 +979,7 @@ Pub. L. 108–178, § 1, Dec. 15, 2003, 117 Stat. 2637, provided that:
 
 > **“(c) Severability.—** If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
-Pub. L. 107–217, § 5, Aug. 21, 2002, 116 Stat. 1303, provided that:
+Pub. L. 107–217, § 5, Aug. 21, 2002, 116 Stat. 1303, provided that:
 
 > **“(a) Purpose.—** The purpose of this Act is to revise, codify, and enact without substantive change the general and permanent laws of the United States related to public buildings, property, and works, in order to remove ambiguities, contradictions, and other imperfections and to repeal obsolete, superfluous, and superseded provisions.
 
@@ -1003,7 +1003,7 @@ Pub. L. 107–217, § 5, Aug. 21, 2002, 116 Stat. 1303, provided that:
 
 **Repeals**
 
-Pub. L. 108–178, § 2(b), Dec. 15, 2003, 117 Stat. 2640, provided that:
+Pub. L. 108–178, § 2(b), Dec. 15, 2003, 117 Stat. 2640, provided that:
 
 > “Section 6(b) of Public Law 107–217 (116 Stat. 1304) [see below] is repealed insofar as it relates to the provisions listed below, and the provisions listed below are revived to read as if section 6(b) had not been enacted:
 
@@ -1015,9 +1015,9 @@ Pub. L. 108–178, § 2(b), Dec. 15, 2003, 117 Stat. 2640, provided that:
 
 > **“(4)** Section 7306 of the Federal Acquisition Streamlining Act of 1994 (Public Law 103–355, 108 Stat. 3384).”
 
-Pub. L. 107–217, § 6(a), Aug. 21, 2002, 116 Stat. 1304, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+Pub. L. 107–217, § 6(a), Aug. 21, 2002, 116 Stat. 1304, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304, as amended by Pub. L. 108–178, § 2, Dec. 15, 2003, 117 Stat. 2637, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Aug. 21, 2002.
+Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304, as amended by Pub. L. 108–178, § 2, Dec. 15, 2003, 117 Stat. 2637, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Aug. 21, 2002.
 
 ## SUBTITLE I—FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
 
@@ -1087,7 +1087,7 @@ Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304, as amended by Pub. 
 
 **Amendments**
 
-2002—Pub. L. 107–314, div. A, title VIII, § 825(b)(3)(G), Dec. 2, 2002, 116 Stat. 2616, and Pub. L. 107–347, title II, § 210(h)(3)(H), Dec. 17, 2002, 116 Stat. 2939, amended item for chapter 115 identically, substituting “PROGRAM” for “PROGRAMS”.
+2002—Pub. L. 107–314, div. A, title VIII, § 825(b)(3)(G), Dec. 2, 2002, 116 Stat. 2616, and Pub. L. 107–347, title II, § 210(h)(3)(H), Dec. 17, 2002, 116 Stat. 2939, amended item for chapter 115 identically, substituting “PROGRAM” for “PROGRAMS”.
 
 - [CHAPTER 111—GENERAL](chapter-111-general.md)
 
@@ -1109,7 +1109,7 @@ Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304, as amended by Pub. 
 
 ## SUBTITLE V—REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
 
-2025—Pub. L. 118–272, div. B, title II, § 2248(c), Jan. 4, 2025, 138 Stat. 3209, added item for chapter 159.
+2025—Pub. L. 118–272, div. B, title II, § 2248(c), Jan. 4, 2025, 138 Stat. 3209, added item for chapter 159.
 
 - [CHAPTER 151—GENERAL PROVISIONS](chapter-151-general-provisions.md)
 
@@ -1123,7 +1123,7 @@ Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304, as amended by Pub. 
 
 ## SUBTITLE VI—MISCELLANEOUS
 
-2008—Pub. L. 110–234, title XIV, § 14217(a)(1), May 22, 2008, 122 Stat. 1467, and Pub. L. 110–246, title XIV, § 14217(a)(1), June 18, 2008, 122 Stat. 2229, made identical amendments, redesignating subtitle V of this title as subtitle VI. The amendment by Pub. L. 110–234 was repealed by Pub. L. 110–246, § 4(a), June 18, 2008, 122 Stat. 1664.
+2008—Pub. L. 110–234, title XIV, § 14217(a)(1), May 22, 2008, 122 Stat. 1467, and Pub. L. 110–246, title XIV, § 14217(a)(1), June 18, 2008, 122 Stat. 2229, made identical amendments, redesignating subtitle V of this title as subtitle VI. The amendment by Pub. L. 110–234 was repealed by Pub. L. 110–246, § 4(a), June 18, 2008, 122 Stat. 1664.
 
 - [CHAPTER 171—SAFETY STANDARDS FOR MOTOR VEHICLES](chapter-171-safety-standards-for-motor-vehicles.md)
 

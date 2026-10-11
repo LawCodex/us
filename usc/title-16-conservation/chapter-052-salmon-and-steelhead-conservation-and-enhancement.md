@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 3301. Congressional findings and declaration of purpose
+### § 3301. Congressional findings and declaration of purpose
 
 **(a)** The Congress finds and declares the following:
 
@@ -45,17 +45,17 @@ retrieved: 2026-10-11
 
 **(2)** improve the quality of, and maintain the opportunities for, salmon and steelhead recreational fishing.
 
-(Pub. L. 96–561, title I, § 102, Dec. 22, 1980, 94 Stat. 3275.)
+(Pub. L. 96–561, title I, § 102, Dec. 22, 1980, 94 Stat. 3275.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 96–561, title I, § 101, Dec. 22, 1980, 94 Stat. 3275, provided that: “This title [enacting this chapter and provisions set out as a note under section 1823 of this title] may be cited as the ‘Salmon and Steelhead Conservation and Enhancement Act of 1980’.”
+Pub. L. 96–561, title I, § 101, Dec. 22, 1980, 94 Stat. 3275, provided that: “This title [enacting this chapter and provisions set out as a note under section 1823 of this title] may be cited as the ‘Salmon and Steelhead Conservation and Enhancement Act of 1980’.”
 
 **Research and Development Program To Improve Salmon Survival**
 
-Pub. L. 104–303, title V, § 511, Oct. 12, 1996, 110 Stat. 3761, as amended by Pub. L. 106–53, title V, § 582, Aug. 17, 1999, 113 Stat. 375; Pub. L. 110–114, title V, § 5025, Nov. 8, 2007, 121 Stat. 1203; Pub. L. 113–235, div. D, title I, § 104, Dec. 16, 2014, 128 Stat. 2307, provided that:
+Pub. L. 104–303, title V, § 511, Oct. 12, 1996, 110 Stat. 3761, as amended by Pub. L. 106–53, title V, § 582, Aug. 17, 1999, 113 Stat. 375; Pub. L. 110–114, title V, § 5025, Nov. 8, 2007, 121 Stat. 1203; Pub. L. 113–235, div. D, title I, § 104, Dec. 16, 2014, 128 Stat. 2307, provided that:
 
 > **“(a) Salmon Survival Activities.—**
 
@@ -151,7 +151,7 @@ Sec. 5. *Publication*. The Chair is hereby authorized and directed to publish th
 
 J.R. Biden, Jr.
 
-### § 3302. Definitions
+### § 3302. Definitions
 
 As used in this chapter—
 
@@ -171,9 +171,9 @@ As used in this chapter—
 
 **(ii)** the territorial seas of Oregon and Washington,
 
-in which one or more stocks that originate in the habitat describe 1
+in which one or more stocks that originate in the habitat describe 1
 
-<sup>1</sup>  So in original. Probably should be “described”.
+<sup>1</sup> So in original. Probably should be “described”.
 
 in subparagraph (A) migrate.
 
@@ -205,7 +205,7 @@ in subparagraph (A) migrate.
 
 **(18)** The term “Washington tribal coordinating body” means the organization duly authorized by the treaty tribes of the Washington conservation area to coordinate their activities for them for the purposes of this chapter.
 
-(Pub. L. 96–561, title I § 103, Dec. 22, 1980, 94 Stat. 3276.)
+(Pub. L. 96–561, title I § 103, Dec. 22, 1980, 94 Stat. 3276.)
 
 **Editorial Notes**
 
@@ -215,7 +215,7 @@ The Pacific Fishery Management Council, referred to in par. (4)(B)(i), was estab
 
 ## SUBCHAPTER II—COORDINATED MANAGEMENT OF SALMON AND STEELHEAD
 
-### § 3311. Salmon and Steelhead Advisory Commission
+### § 3311. Salmon and Steelhead Advisory Commission
 
 **(a) Establishment** Within 90 days after December 22, 1980, the Secretary of Commerce (hereinafter in this subchapter referred to as the “Secretary”) shall establish the Salmon and Steelhead Advisory Commission (hereinafter referred to in this chapter as the “Commission”), which shall consist of one voting member from each of the following:
 
@@ -279,9 +279,9 @@ The Secretary shall provide such clerical and technical support as may be necess
 
 Unless otherwise agreed to by the voting members of the Commission and approved by the Secretary, the Commission shall terminate upon the Secretary’s approval of the Commission’s report pursuant to subsection (e).
 
-(Pub. L. 96–561, title I, § 110, Dec. 22, 1980, 94 Stat. 3277.)
+(Pub. L. 96–561, title I, § 110, Dec. 22, 1980, 94 Stat. 3277.)
 
-### § 3312. Eligibility for financial assistance under approved enhancement plans
+### § 3312. Eligibility for financial assistance under approved enhancement plans
 
 Upon approval by the Secretary of the Commission’s report under section 3311 of this title, a State represented by a voting member on the Commission and any treaty tribe represented by a tribal coordinating body shall be eligible for financial assistance under subchapter III if the State or treaty tribe enters into an agreement with the Secretary under which that State or treaty tribe obligates itself—
 
@@ -289,29 +289,29 @@ Upon approval by the Secretary of the Commission’s report under section 3311 o
 
 **(2)** to engage in such coordination and consultation as may be necessary or appropriate to ensure, to the maximum extent practicable, that the report and revisions thereto are fully and effectively implemented.
 
-(Pub. L. 96–561, title I, § 111, Dec. 22, 1980, 94 Stat. 3279.)
+(Pub. L. 96–561, title I, § 111, Dec. 22, 1980, 94 Stat. 3279.)
 
-### § 3313. Grants for reports and plans for coordinated research, enforcement, etc.
+### § 3313. Grants for reports and plans for coordinated research, enforcement, etc.
 
 The Secretary, in consultation with the Secretary of the Interior, is authorized to establish a program to provide grants to prepare reports and plans provided for in this subchapter and subchapter III in order to promote coordinated research, enforcement, enhancement, and management of the salmon and steelhead resources within the Washington and Columbia River conservation areas consistent with the purposes of this chapter. Such grants shall be available for use by the State of Washington, the State of Oregon, appropriate tribal coordinating bodies, or any joint governmental entity established for undertaking research, or providing advice on or mechanisms for coordinating management or enforcement, or preparing the reports and plans described in this subchapter and subchapter III.
 
-(Pub. L. 96–561, title I, § 112, Dec. 22, 1980, 94 Stat. 3279.)
+(Pub. L. 96–561, title I, § 112, Dec. 22, 1980, 94 Stat. 3279.)
 
-### § 3314. Discontinuance of funding
+### § 3314. Discontinuance of funding
 
 If the Secretary finds that as of the close of the 18th month after secretarial approval of the Commission report under section 3311(e) of this title, the number of parties which have adopted and implemented the Commission’s management program in accordance with the provisions of this chapter and the report is insufficient to ensure that the management structure is effective and consistent with the standards and objectives in section 3311(c) of this title, he shall discontinue any further funding under this subchapter or subchapter III of this chapter.
 
-(Pub. L. 96–561, title I, § 113, Dec. 22, 1980, 94 Stat. 3279.)
+(Pub. L. 96–561, title I, § 113, Dec. 22, 1980, 94 Stat. 3279.)
 
-### § 3315. Authorization of appropriations
+### § 3315. Authorization of appropriations
 
 There are authorized to be appropriated to the Secretary for the purposes of carrying out the provisions of this subchapter in fiscal years commencing after September 30, 1981, an aggregate amount of $3,000,000. Funds appropriated pursuant to this section remain available to the Secretary until expended.
 
-(Pub. L. 96–561, title I, § 114, Dec. 22, 1980, 94 Stat. 3280.)
+(Pub. L. 96–561, title I, § 114, Dec. 22, 1980, 94 Stat. 3280.)
 
 ## SUBCHAPTER III—RESOURCE ENHANCEMENT
 
-### § 3321. Grants for projects under approved enhancement plans
+### § 3321. Grants for projects under approved enhancement plans
 
 **(a) Authority**
 
@@ -329,9 +329,9 @@ Each comprehensive enhancement plan, and any revisions, or modifications of such
 
 **(1)** assure that all commercial and recreational fishermen and the treaty tribes shall have a reasonable opportunity to participate in the benefits, considered as a whole, of the salmon and steelhead resources development;
 
-**(2)** minimize, to the extent practicable, significant adverse interaction between naturally spawning and artifically 1
+**(2)** minimize, to the extent practicable, significant adverse interaction between naturally spawning and artifically 1
 
-<sup>1</sup>  So in original. Probably should be “artificially”.
+<sup>1</sup> So in original. Probably should be “artificially”.
 
 propagated stocks;
 
@@ -369,9 +369,9 @@ propagated stocks;
 
 Each comprehensive enhancement plan shall be reviewed periodically. The Secretary, the Secretary of Commerce, the State of Washington, the State of Oregon, or the appropriate tribal coordinating body may request a review, modification, or revision of a plan at any time. Any revision or modification of a plan, developed and agreed to by the State of Washington or the State of Oregon, as appropriate, and the appropriate tribal coordinating body, shall be approved by the Secretary, in consultation with the Secretary of Commerce, within 45 days of receipt of the proposed revision or modification, if such revision or modification is in conformity with this chapter and other applicable law. The Secretary, in consultation with the Secretary of Commerce, may withdraw approval of a plan if he finds that (1) the plan or its implementation is not consistent with this chapter, and (2) no modification or revision has been agreed to by the State of Washington or the State of Oregon, as appropriate, and the appropriate tribal coordinating body to correct any such inconsistencies.
 
-(Pub. L. 96–561, title I, § 120, Dec. 22, 1980, 94 Stat. 3280.)
+(Pub. L. 96–561, title I, § 120, Dec. 22, 1980, 94 Stat. 3280.)
 
-### § 3322. Enhancement project proposals
+### § 3322. Enhancement project proposals
 
 After the approval of a comprehensive enhancement plan, the State of Washington, the State of Oregon, or a treaty tribe acting through the appropriate tribal coordinating body may submit project proposals to the Secretary in such manner and form as the Secretary shall prescribe. Such application shall include, but not be limited to—
 
@@ -393,9 +393,9 @@ After the approval of a comprehensive enhancement plan, the State of Washington,
 
 **(6)** after approval of the Commission’s report pursuant to section 3311 of this title, documentation that the appropriate State or treaty tribe submitting or undertaking the project proposal has adopted and begun all necessary implementation of the Commission’s management program.
 
-(Pub. L. 96–561, title I, § 121, Dec. 22, 1980, 94 Stat. 3282.)
+(Pub. L. 96–561, title I, § 121, Dec. 22, 1980, 94 Stat. 3282.)
 
-### § 3323. Approval and funding of projects
+### § 3323. Approval and funding of projects
 
 **(a) In general**
 
@@ -405,15 +405,15 @@ The Secretary, in consultation with the Secretary of Commerce, may approve any p
 
 The total Federal share of all enhancement projects funded annually by this section shall not exceed 50 percent of the total amount expended for such projects, except that this limitation shall not apply to projects proposed by treaty tribes acting through the appropriate tribal coordinating body. A State share may include both real and personal property. Title to, or other interest in, such property shall remain within the State. The State of Washington shall be treated on December 22, 1980, as having expended $32,000,000 (reduced by the amount treated as expended by the State under section 3336 of this title) on enhancement proj­ects set forth in the plan which are eligible for assistance under this chapter. The Federal share shall be paid in such amounts and at such times as the Secretary deems appropriate, consistent with this chapter and the goals of the comprehensive plan.
 
-(Pub. L. 96–561, title I, § 122, Dec. 22, 1980, 94 Stat. 3282.)
+(Pub. L. 96–561, title I, § 122, Dec. 22, 1980, 94 Stat. 3282.)
 
-### § 3324. Monitoring and evaluation of enhancement projects
+### § 3324. Monitoring and evaluation of enhancement projects
 
 The Secretary, in cooperation with the Secretary of Commerce, shall establish, in consultation with the State of Washington, the State of Oregon, and the appropriate tribal coordinating body, a system to monitor and evaluate on a continuing basis all enhancement projects for which funds have been distributed under this subchapter, and may discontinue or suspend distribution of all or part of the funds if any project is not being carried out in a manner consistent with the comprehensive enhancement plan concerned and this chapter. Each recipient of a grant under this subchapter shall make available to the Secretary and to the Comptroller General of the United States for purposes of audit and examination, any book, document, paper, and record that is pertinent to the funds received under the grant.
 
-(Pub. L. 96–561, title I, § 123, Dec. 22, 1980, 94 Stat. 3283.)
+(Pub. L. 96–561, title I, § 123, Dec. 22, 1980, 94 Stat. 3283.)
 
-### § 3325. Authorization of appropriations
+### § 3325. Authorization of appropriations
 
 **(a) Salmon enhancement**
 
@@ -427,11 +427,11 @@ In addition to the amounts authorized under subsection (a), there are authorized
 
 No moneys appropriated pursuant to subsection (a) or (b) may be used for the operation and maintenance of enhancement programs and related facilities as they existed on or before the date of the approval by the Secretary under section 3321 of this title of the enhancement plan for the conservation area concerned.
 
-(Pub. L. 96–561, title I, § 124, Dec. 22, 1980, 94 Stat. 3283.)
+(Pub. L. 96–561, title I, § 124, Dec. 22, 1980, 94 Stat. 3283.)
 
 ## SUBCHAPTER IV—COMMERCIAL FISHING FLEET ADJUSTMENT
 
-### § 3331. Fleet adjustment program
+### § 3331. Fleet adjustment program
 
 **(a) In general**
 
@@ -441,9 +441,9 @@ The Secretary of Commerce (hereinafter referred to in this subchapter as the “
 
 Title to any vessel or other personal property purchased under a State program approved by the Secretary in accordance with the provisions of this subchapter shall vest upon purchase in the State. If the State sells such vessels or other property, title may pass in accordance with such sale.
 
-(Pub. L. 96–561, title I, § 130, Dec. 22, 1980, 94 Stat. 3283.)
+(Pub. L. 96–561, title I, § 130, Dec. 22, 1980, 94 Stat. 3283.)
 
-### § 3332. State program for reduction of overall fishing capacity
+### § 3332. State program for reduction of overall fishing capacity
 
 The State shall submit to the Secretary a program within three months of December 22, 1980, designed to—
 
@@ -455,9 +455,9 @@ The State shall submit to the Secretary a program within three months of Decembe
 
 **(4)** provide State funding for 25 per centum of the total cost of the program.
 
-(Pub. L. 96–561, title I, § 131, Dec. 22, 1980, 94 Stat. 3284.)
+(Pub. L. 96–561, title I, § 131, Dec. 22, 1980, 94 Stat. 3284.)
 
-### § 3333. Program approval
+### § 3333. Program approval
 
 **(a) Submission for approval**
 
@@ -483,9 +483,9 @@ The State shall submit its program and submit revisions, modifications, or amend
 
 **(A)** secure an early retirement from the salmon fishery;
 
-**(B)** recognize productiveness if the commercial harvesters using a gear type wish 1
+**(B)** recognize productiveness if the commercial harvesters using a gear type wish 1
 
-<sup>1</sup>  So in original. Probably should be “with”.
+<sup>1</sup> So in original. Probably should be “with”.
 
 that gear type’s specific allocation of funds to recognize productiveness; and
 
@@ -501,9 +501,9 @@ that gear type’s specific allocation of funds to recognize productiveness; and
 
 The Secretary shall approve such program within ninety days of the date of receipt of the program if found to be consistent with this chapter and other applicable law. If the Secretary finds that such program is not in conformity with the provisions of this chapter or other applicable law, he shall return such program to the State with recommendations. Any revision, modification, or amendment to the program shall be approved within thirty days of receipt unless found to be inconsistent with this chapter or other applicable law.
 
-(Pub. L. 96–561, title I, § 132, Dec. 22, 1980, 94 Stat. 3284.)
+(Pub. L. 96–561, title I, § 132, Dec. 22, 1980, 94 Stat. 3284.)
 
-### § 3334. Review of State program by Secretary
+### § 3334. Review of State program by Secretary
 
 **(a) In general**
 
@@ -517,29 +517,29 @@ If the Secretary finds that the program or the administration thereof is no long
 
 If the Secretary finds that any money provided to the State or obtained by the State from the resale of any fishing or charter vessel purchased under the program is not being used in accordance with the provisions of this subchapter, the Secretary shall recover from the fund, and place in the United States Treasury, such moneys.
 
-(Pub. L. 96–561, title I, § 133, Dec. 22, 1980, 94 Stat. 3285.)
+(Pub. L. 96–561, title I, § 133, Dec. 22, 1980, 94 Stat. 3285.)
 
-### § 3335. Authorization of appropriations
+### § 3335. Authorization of appropriations
 
 There are authorized to be appropriated to the Secretary, for the purposes of carrying out the provisions of this subchapter, $37,500,000 for the 5-year period beginning October 1, 1981.
 
-(Pub. L. 96–561, title I, § 134, Dec. 22, 1980, 94 Stat. 3285.)
+(Pub. L. 96–561, title I, § 134, Dec. 22, 1980, 94 Stat. 3285.)
 
-### § 3336. Special provision
+### § 3336. Special provision
 
 On the date the Secretary approves the program under section 3333 of this title, the State shall be treated as having expended such portion of $32,000,000 as the State deems appropriate for purposes of implementing the program.
 
-(Pub. L. 96–561, title I, § 135, Dec. 22, 1980, 94 Stat. 3285.)
+(Pub. L. 96–561, title I, § 135, Dec. 22, 1980, 94 Stat. 3285.)
 
 ## SUBCHAPTER V—MISCELLANEOUS
 
-### § 3341. Regulations
+### § 3341. Regulations
 
 The Secretary of Commerce and the Secretary of the Interior may each promulgate such regulations, in accordance with section 553 of title 5, as may be necessary to carry out his functions under this chapter.
 
-(Pub. L. 96–561, title I, § 140, Dec. 22, 1980, 94 Stat. 3286.)
+(Pub. L. 96–561, title I, § 140, Dec. 22, 1980, 94 Stat. 3286.)
 
-### § 3342. Annual status reports on programs; monitoring
+### § 3342. Annual status reports on programs; monitoring
 
 **(a) Reports**
 
@@ -553,9 +553,9 @@ The State of Washington, the State of Oregon, and the appropriate tribal coordin
 
 the Secretary shall immediately discontinue any further funding under subchapter III.
 
-(Pub. L. 96–561, title I, § 141, Dec. 22, 1980, 94 Stat. 3286.)
+(Pub. L. 96–561, title I, § 141, Dec. 22, 1980, 94 Stat. 3286.)
 
-### § 3343. Construction with fishery conservation and management provisions
+### § 3343. Construction with fishery conservation and management provisions
 
 **(a) Consistency**
 
@@ -565,31 +565,31 @@ Nothing in this chapter shall be construed as affecting the provisions of title 
 
 The Secretary of Commerce in coordination with the Pacific Fishery Management Council in its salmon management plan shall ensure that the fishing effort reduction that results from the fleet adjustment program of subchapter IV and the license moratorium of the State of Washington is not replaced by new fishing effort from outside such State.
 
-(Pub. L. 96–561, title I, § 142, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3286, 3300; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+(Pub. L. 96–561, title I, § 142, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3286, 3300; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331. Title III of the Act is classified generally to subchapter IV (§ 1851 et seq.) of chapter 38 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331. Title III of the Act is classified generally to subchapter IV (§ 1851 et seq.) of chapter 38 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 **Amendments**
 
 1996—Subsec. (a). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
-1980—Subsec. (a). Pub. L. 96–561, § 238(b), substituted “Magnuson Fishery Conservation and Management Act” for “Fishery Conservation and Management Act of 1976”.
+1980—Subsec. (a). Pub. L. 96–561, § 238(b), substituted “Magnuson Fishery Conservation and Management Act” for “Fishery Conservation and Management Act of 1976”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
-### § 3344. Construction with other laws
+### § 3344. Construction with other laws
 
 Nothing in this chapter shall be construed—
 
@@ -597,16 +597,16 @@ Nothing in this chapter shall be construed—
 
 **(2)** as superseding, modifying, or repealing any existing applicable law, except as provided for in this section.
 
-(Pub. L. 96–561, title I, § 143, Dec. 22, 1980, 94 Stat. 3286.)
+(Pub. L. 96–561, title I, § 143, Dec. 22, 1980, 94 Stat. 3286.)
 
-### § 3345. Authorization of additional appropriations
+### § 3345. Authorization of additional appropriations
 
 In addition to other authorizations of appropriations contained in this chapter, there are authorized to be appropriated to the Secretary of Commerce beginning October 1, 1981, an amount not to exceed $5,000,000 for the purpose of developing fisheries port facilities in the State of Oregon. The Secretary shall obligate such funds for projects proposed by units of State or local government, Indian tribes, or private nonprofit entities, and approved by the State of Oregon in consultation with the National Marine Fisheries Service and the Economic Development Administration. To the extent practicable, the Secretary shall assure that projects under this section are integrated with planning and assistance under the Public Works and Economic Development Act [42 U.S.C. 3121 et seq.] Funds available under this section shall not be used for any navigational improvement or other modification of the navigable waters of the United States. Funds appropriated pursuant to this section shall remain available until expended.
 
-(Pub. L. 96–561, title I, § 144, Dec. 22, 1980, 94 Stat. 3286.)
+(Pub. L. 96–561, title I, § 144, Dec. 22, 1980, 94 Stat. 3286.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Public Works and Economic Development Act, referred to in text, probably means the Public Works and Economic Development Act of 1965, Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, which is classified generally to chapter 38 (§ 3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
+The Public Works and Economic Development Act, referred to in text, probably means the Public Works and Economic Development Act of 1965, Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, which is classified generally to chapter 38 (§ 3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.

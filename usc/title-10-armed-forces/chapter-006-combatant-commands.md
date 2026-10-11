@@ -23,25 +23,25 @@ Prior to enactment of this chapter by Pub. L. 99–433, provisions relating to c
 
 **Amendments**
 
-2019—Pub. L. 116–92, div. A, title XVI, § 1601(b)(1), title XVII, § 1731(a)(9), Dec. 20, 2019, 133 Stat. 1722, 1812, inserted period at end of item 169 “Subordinate unified command of the United States Strategic Command” and then struck it out.
+2019—Pub. L. 116–92, div. A, title XVI, § 1601(b)(1), title XVII, § 1731(a)(9), Dec. 20, 2019, 133 Stat. 1722, 1812, inserted period at end of item 169 “Subordinate unified command of the United States Strategic Command” and then struck it out.
 
-2018—Pub. L. 115–232, div. A, title VIII, § 812(a)(1)(B), title XVI, § 1601(a)(2), Aug. 13, 2018, 132 Stat. 1846, 2103, struck out item 167a “Unified combatant command for joint warfighting experimentation: acquisition authority” and added item 169.
+2018—Pub. L. 115–232, div. A, title VIII, § 812(a)(1)(B), title XVI, § 1601(a)(2), Aug. 13, 2018, 132 Stat. 1846, 2103, struck out item 167a “Unified combatant command for joint warfighting experimentation: acquisition authority” and added item 169.
 
-2016—Pub. L. 114–328, div. A, title IX, § 923(b), title XII, § 1253(a)(2)(A), Dec. 23, 2016, 130 Stat. 2358, 2532, added item 167b and struck out item 168 “Military-to-military contacts and comparable activities”.
+2016—Pub. L. 114–328, div. A, title IX, § 923(b), title XII, § 1253(a)(2)(A), Dec. 23, 2016, 130 Stat. 2358, 2532, added item 167b and struck out item 168 “Military-to-military contacts and comparable activities”.
 
-2003—Pub. L. 108–136, div. A, title VIII, § 848(a)(2), Nov. 24, 2003, 117 Stat. 1555, added item 167a.
+2003—Pub. L. 108–136, div. A, title VIII, § 848(a)(2), Nov. 24, 2003, 117 Stat. 1555, added item 167a.
 
-2001—Pub. L. 107–107, div. A, title XV, § 1512(b), Dec. 28, 2001, 115 Stat. 1273, added item 166b.
+2001—Pub. L. 107–107, div. A, title XV, § 1512(b), Dec. 28, 2001, 115 Stat. 1273, added item 166b.
 
-1994—Pub. L. 103–337, div. A, title XIII, § 1316(a)(2), Oct. 5, 1994, 108 Stat. 2899, added item 168.
+1994—Pub. L. 103–337, div. A, title XIII, § 1316(a)(2), Oct. 5, 1994, 108 Stat. 2899, added item 168.
 
-1991—Pub. L. 102–190, div. A, title IX, § 902(b), Dec. 5, 1991, 105 Stat. 1451, added item 166a.
+1991—Pub. L. 102–190, div. A, title IX, § 902(b), Dec. 5, 1991, 105 Stat. 1451, added item 166a.
 
-1986—Pub. L. 99–500, § 101(c) [title IX, § 9115(b)(2)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–124, and Pub. L. 99–591, § 101(c) [title IX, § 9115(b)(2)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–124; Pub. L. 99–661, div. A, title XIII, § 1311(b)(2), Nov. 14, 1986, 100 Stat. 3985, amended analysis identically adding item 167.
+1986—Pub. L. 99–500, § 101(c) [title IX, § 9115(b)(2)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–124, and Pub. L. 99–591, § 101(c) [title IX, § 9115(b)(2)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–124; Pub. L. 99–661, div. A, title XIII, § 1311(b)(2), Nov. 14, 1986, 100 Stat. 3985, amended analysis identically adding item 167.
 
-Pub. L. 99–433, title II, § 211(a), Oct. 1, 1986, 100 Stat. 1012, added chapter 6 heading and analysis.
+Pub. L. 99–433, title II, § 211(a), Oct. 1, 1986, 100 Stat. 1012, added chapter 6 heading and analysis.
 
-## § 161. Combatant commands: establishment
+## § 161. Combatant commands: establishment
 
 **(a) Unified and Specified Combatant Commands.—** With the advice and assistance of the Chairman of the Joint Chiefs of Staff, the President, through the Secretary of Defense, shall—
 
@@ -79,7 +79,7 @@ Pub. L. 99–433, title II, § 211(a), Oct. 1, 1986, 100 Stat. 1012, added cha
 
 **(3)** The term “combatant command” means a unified combatant command or a specified combatant command.
 
-(Added Pub. L. 99–433, title II, § 211(a), Oct. 1, 1986, 100 Stat. 1012; amended Pub. L. 117–263, div. A, title IX, § 912, Dec. 23, 2022, 136 Stat. 2751.)
+(Added Pub. L. 99–433, title II, § 211(a), Oct. 1, 1986, 100 Stat. 1012; amended Pub. L. 117–263, div. A, title IX, § 912, Dec. 23, 2022, 136 Stat. 2751.)
 
 **Editorial Notes**
 
@@ -95,11 +95,11 @@ Pub. L. 99–433, title II, § 211(a), Oct. 1, 1986, 100 Stat. 1012, added cha
 
 **Change of Name**
 
-Pub. L. 115–232, div. A, title XII, § 1251(a), Aug. 13, 2018, 132 Stat. 2053, provided that: “The combatant command known as the United States Pacific Command shall be known as the ‘United States Indo-Pacific Command’. Any reference to the United States Pacific Command in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to the United States Indo-Pacific Command.”
+Pub. L. 115–232, div. A, title XII, § 1251(a), Aug. 13, 2018, 132 Stat. 2053, provided that: “The combatant command known as the United States Pacific Command shall be known as the ‘United States Indo-Pacific Command’. Any reference to the United States Pacific Command in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to the United States Indo-Pacific Command.”
 
 **Establishment of Joint Force Headquarters in Area of Operations of United States Indo-Pacific Command**
 
-Pub. L. 117–263, div. A, title X, § 1087, Dec. 23, 2022, 136 Stat. 2802, provided that:
+Pub. L. 117–263, div. A, title X, § 1087, Dec. 23, 2022, 136 Stat. 2802, provided that:
 
 > **“(a) Establishment.—** Not later than October 1, 2024, the Secretary of Defense shall establish a joint force headquarters in the area of operations of United States Indo-Pacific Command, in accordance with the implementation plan required under subsection (b).
 
@@ -151,11 +151,11 @@ Pub. L. 117–263, div. A, title X, § 1087, Dec. 23, 2022, 136 Stat. 2802, pr
 
 **Matters To Be Considered in Next Assessment of Current Missions, Responsibilities, and Force Structure of Unified Combatant Commands**
 
-Pub. L. 104–201, div. A, title IX, § 905, Sept. 23, 1996, 110 Stat. 2619, required the Chairman of the Joint Chiefs of Staff to consider, as part of the next periodic review after Sept. 23, 1996, pursuant to subsec. (b) of this section: (1) whether there was an adequate distribution of responsibilities among the regional unified combatant commands; (2) whether fewer or differently configured commands would permit the United States to better execute warfighting plans; (3) whether any assets or activities were redundant; (4) whether warfighting requirements were adequate to justify current commands; (5) whether exclusion of certain nations from the Areas of Responsibility presented difficulties with respect to national security objectives in those areas; and (6) whether the boundary between the United States Central and European Commands could create command conflicts in the context of a major regional conflict in the Middle East.
+Pub. L. 104–201, div. A, title IX, § 905, Sept. 23, 1996, 110 Stat. 2619, required the Chairman of the Joint Chiefs of Staff to consider, as part of the next periodic review after Sept. 23, 1996, pursuant to subsec. (b) of this section: (1) whether there was an adequate distribution of responsibilities among the regional unified combatant commands; (2) whether fewer or differently configured commands would permit the United States to better execute warfighting plans; (3) whether any assets or activities were redundant; (4) whether warfighting requirements were adequate to justify current commands; (5) whether exclusion of certain nations from the Areas of Responsibility presented difficulties with respect to national security objectives in those areas; and (6) whether the boundary between the United States Central and European Commands could create command conflicts in the context of a major regional conflict in the Middle East.
 
 **Initial Review of Combatant Commands**
 
-Pub. L. 99–433, title II, § 212, Oct. 1, 1986, 100 Stat. 1017, set out 10 areas to be covered in first review of missions, responsibilities, and force structure of unified combatant commands under subsec. (b) of this section, and directed that first report to President be made not later than Oct. 1, 1987.
+Pub. L. 99–433, title II, § 212, Oct. 1, 1986, 100 Stat. 1017, set out 10 areas to be covered in first review of missions, responsibilities, and force structure of unified combatant commands under subsec. (b) of this section, and directed that first report to President be made not later than Oct. 1, 1987.
 
 **Executive Documents**
 
@@ -201,7 +201,7 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 Donald J. Trump.
 
-## § 162. Combatant commands: assigned forces; chain of command
+## § 162. Combatant commands: assigned forces; chain of command
 
 **(a) Assignment of Forces.—**
 
@@ -223,7 +223,7 @@ Donald J. Trump.
 
 **(2)** from the Secretary of Defense to the commander of the combatant command.
 
-(Added Pub. L. 99–433, title II, § 211(a), Oct. 1, 1986, 100 Stat. 1012; amended Pub. L. 100–180, div. A, title XIII, § 1313, Dec. 4, 1987, 101 Stat. 1175; Pub. L. 100–456, div. A, title VII, § 711, Sept. 29, 1988, 102 Stat. 1997; Pub. L. 104–201, div. A, title X, § 1073(a), Sept. 23, 1996, 110 Stat. 2657; Pub. L. 114–328, div. A, title IX, § 924, Dec. 23, 2016, 130 Stat. 2358; Pub. L. 115–91, div. A, title X, § 1081(a)(9), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840.)
+(Added Pub. L. 99–433, title II, § 211(a), Oct. 1, 1986, 100 Stat. 1012; amended Pub. L. 100–180, div. A, title XIII, § 1313, Dec. 4, 1987, 101 Stat. 1175; Pub. L. 100–456, div. A, title VII, § 711, Sept. 29, 1988, 102 Stat. 1997; Pub. L. 104–201, div. A, title X, § 1073(a), Sept. 23, 1996, 110 Stat. 2657; Pub. L. 114–328, div. A, title IX, § 924, Dec. 23, 2016, 130 Stat. 2358; Pub. L. 115–91, div. A, title X, § 1081(a)(9), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
 **Editorial Notes**
 
@@ -233,13 +233,13 @@ Donald J. Trump.
 
 2017—Subsec. (a)(4). Pub. L. 115–91 struck out comma after “command of”.
 
-2016—Subsec. (a)(1). Pub. L. 114–328, § 924(1), substituted “As directed by the Secretary of Defense” for “Except as provided in paragraph (2)” and “specified forces” for “all forces” and struck out “Such assignments shall be made as directed by the Secretary of Defense, including direction as to the command to which forces are to be assigned.” before “The Secretary of Defense”.
+2016—Subsec. (a)(1). Pub. L. 114–328, § 924(1), substituted “As directed by the Secretary of Defense” for “Except as provided in paragraph (2)” and “specified forces” for “all forces” and struck out “Such assignments shall be made as directed by the Secretary of Defense, including direction as to the command to which forces are to be assigned.” before “The Secretary of Defense”.
 
-Subsec. (a)(2). Pub. L. 114–328, § 924(2), added par. (2) and struck out former par. (2) which read as follows: “Except as otherwise directed by the Secretary of Defense, forces to be assigned by the Secretaries of the military departments to the combatant commands or to the United States element of the North American Aerospace Defense Command under paragraph (1) do not include forces assigned to carry out functions of the Secretary of a military department listed in sections 3013(b), 5013(b), and 8013(b) of this title or forces assigned to multinational peacekeeping organizations.”
+Subsec. (a)(2). Pub. L. 114–328, § 924(2), added par. (2) and struck out former par. (2) which read as follows: “Except as otherwise directed by the Secretary of Defense, forces to be assigned by the Secretaries of the military departments to the combatant commands or to the United States element of the North American Aerospace Defense Command under paragraph (1) do not include forces assigned to carry out functions of the Secretary of a military department listed in sections 3013(b), 5013(b), and 8013(b) of this title or forces assigned to multinational peacekeeping organizations.”
 
-Subsec. (a)(4). Pub. L. 114–328, § 924(3)(B), struck out “assigned to, and” before “under the command”.
+Subsec. (a)(4). Pub. L. 114–328, § 924(3)(B), struck out “assigned to, and” before “under the command”.
 
-Pub. L. 114–328, § 924(3)(A), which directed striking out “operating with the geographic area”, was executed by striking out “operating within the geographic area” after “all forces” to reflect the probable intent of Congress.
+Pub. L. 114–328, § 924(3)(A), which directed striking out “operating with the geographic area”, was executed by striking out “operating within the geographic area” after “all forces” to reflect the probable intent of Congress.
 
 1996—Subsec. (a)(1) to (3). Pub. L. 104–201 substituted “North American Aerospace Defense Command” for “North American Air Defense Command”.
 
@@ -255,9 +255,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Implementation of Assignment of Forces to Combatant Commands**
 
-Pub. L. 99–433, title II, § 214(a), Oct. 1, 1986, 100 Stat. 1018, provided that section 162(a) of this title shall be implemented not later than 90 days after Oct. 1, 1986.
+Pub. L. 99–433, title II, § 214(a), Oct. 1, 1986, 100 Stat. 1018, provided that section 162(a) of this title shall be implemented not later than 90 days after Oct. 1, 1986.
 
-## § 163. Role of Chairman of Joint Chiefs of Staff
+## § 163. Role of Chairman of Joint Chiefs of Staff
 
 **(a) Communications Through Chairman of JCS; Assignment of Duties.—** Subject to the limitations in section 152(c) of this title, the President may—
 
@@ -279,9 +279,9 @@ Pub. L. 99–433, title II, § 214(a), Oct. 1, 1986, 100 Stat. 1018, provided 
 
 **(D)** communicate, as appropriate, the requirements of the combatant commands to other elements of the Department of Defense.
 
-(Added Pub. L. 99–433, title II, § 211(a), Oct. 1, 1986, 100 Stat. 1013.)
+(Added Pub. L. 99–433, title II, § 211(a), Oct. 1, 1986, 100 Stat. 1013.)
 
-## § 164. Commanders of combatant commands: assignment; powers and duties
+## § 164. Commanders of combatant commands: assignment; powers and duties
 
 **(a) Assignment as Combatant Commander.—**
 
@@ -395,7 +395,7 @@ Pub. L. 99–433, title II, § 214(a), Oct. 1, 1986, 100 Stat. 1018, provided 
 
 **(h) Support to Chairman of the Joint Chiefs of Staff.—** The commander of a combatant command shall provide such information to the Chairman of the Joint Chiefs of Staff as may be necessary for the Chairman to perform the duties of the Chairman under section 153 of this title.
 
-(Added Pub. L. 99–433, title II, § 211(a), Oct. 1, 1986, 100 Stat. 1013; amended Pub. L. 100–456, div. A, title V, § 519(a)(2), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 110–181, div. A, title XVIII, § 1824(b), Jan. 28, 2008, 122 Stat. 501; Pub. L. 114–328, div. A, title V, § 516, title IX, § 921(e), Dec. 23, 2016, 130 Stat. 2113, 2354; Pub. L. 115–91, div. A, title X, § 1081(a)(10), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 118–31, div. A, title XVII, § 1722(a)(3), Dec. 22, 2023, 137 Stat. 667; Pub. L. 119–60, div. A, title IX, § 911(b), Dec. 18, 2025, 139 Stat. 1015.)
+(Added Pub. L. 99–433, title II, § 211(a), Oct. 1, 1986, 100 Stat. 1013; amended Pub. L. 100–456, div. A, title V, § 519(a)(2), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 110–181, div. A, title XVIII, § 1824(b), Jan. 28, 2008, 122 Stat. 501; Pub. L. 114–328, div. A, title V, § 516, title IX, § 921(e), Dec. 23, 2016, 130 Stat. 2113, 2354; Pub. L. 115–91, div. A, title X, § 1081(a)(10), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 118–31, div. A, title XVII, § 1722(a)(3), Dec. 22, 2023, 137 Stat. 667; Pub. L. 119–60, div. A, title IX, § 911(b), Dec. 18, 2025, 139 Stat. 1015.)
 
 **Editorial Notes**
 
@@ -407,11 +407,11 @@ Pub. L. 99–433, title II, § 214(a), Oct. 1, 1986, 100 Stat. 1018, provided 
 
 2017—Subsec. (a)(1)(B). Pub. L. 115–91 substituted “section 664(d)” for “section 664(f)”.
 
-2016—Subsec. (b)(3). Pub. L. 114–328, § 921(e)(1), added par. (3).
+2016—Subsec. (b)(3). Pub. L. 114–328, § 921(e)(1), added par. (3).
 
-Subsec. (e)(4). Pub. L. 114–328, § 516, substituted “a reserve component of the armed forces” for “the National Guard” and “a reserve component officer” for “a National Guard officer”.
+Subsec. (e)(4). Pub. L. 114–328, § 516, substituted “a reserve component of the armed forces” for “the National Guard” and “a reserve component officer” for “a National Guard officer”.
 
-Subsec. (h). Pub. L. 114–328, § 921(e)(2), added subsec. (h).
+Subsec. (h). Pub. L. 114–328, § 921(e)(2), added subsec. (h).
 
 2008—Subsec. (e)(4). Pub. L. 110–181 added par. (4).
 
@@ -421,21 +421,21 @@ Subsec. (h). Pub. L. 114–328, § 921(e)(2), added subsec. (h).
 
 **Effective Date**
 
-Pub. L. 99–433, title II, § 214(c), Oct. 1, 1986, 100 Stat. 1019, provided that: “Subsections (e), (f), and (g) of section 164 of title 10, United States Code (as added by section 211 of this Act), shall take effect at the end of the 90-day period beginning on the date of the enactment of this Act [Oct. 1, 1986], or on such earlier date as may be prescribed by the Secretary of Defense.”
+Pub. L. 99–433, title II, § 214(c), Oct. 1, 1986, 100 Stat. 1019, provided that: “Subsections (e), (f), and (g) of section 164 of title 10, United States Code (as added by section 211 of this Act), shall take effect at the end of the 90-day period beginning on the date of the enactment of this Act [Oct. 1, 1986], or on such earlier date as may be prescribed by the Secretary of Defense.”
 
 **Consideration of Reserve Component Officers for Appointment to Certain Command Positions**
 
-Pub. L. 112–81, div. A, title V, § 518, Dec. 31, 2011, 125 Stat. 1397, provided that: “Whenever officers of the Armed Forces are considered for appointment to the position of Commander, Army North Command or Commander, Air Force North Command, fully qualified officers of the National Guard and the Reserves shall be considered for appointment to such position.”
+Pub. L. 112–81, div. A, title V, § 518, Dec. 31, 2011, 125 Stat. 1397, provided that: “Whenever officers of the Armed Forces are considered for appointment to the position of Commander, Army North Command or Commander, Air Force North Command, fully qualified officers of the National Guard and the Reserves shall be considered for appointment to such position.”
 
 **Sense of Congress**
 
-Pub. L. 110–181, div. A, title XVIII, § 1824(a), Jan. 28, 2008, 122 Stat. 501, provided that: “It is the sense of Congress that, whenever officers of the Armed Forces are considered for promotion to the grade of lieutenant general, or vice admiral in the case of the Navy, on the active duty list, officers in the reserve components of the Armed Forces who are eligible for promotion to such grade should be considered for promotion to such grade.”
+Pub. L. 110–181, div. A, title XVIII, § 1824(a), Jan. 28, 2008, 122 Stat. 501, provided that: “It is the sense of Congress that, whenever officers of the Armed Forces are considered for promotion to the grade of lieutenant general, or vice admiral in the case of the Navy, on the active duty list, officers in the reserve components of the Armed Forces who are eligible for promotion to such grade should be considered for promotion to such grade.”
 
 **Waiver of Qualifications for Assignment as Combatant Commander**
 
-Pub. L. 99–433, title II, § 214(b), Oct. 1, 1986, 100 Stat. 1018, authorized President, until Oct. 1, 1990, to waive, on a case-by-case basis, certain requirements provided for in subsec. (a) of this section relating to assignment of commanders of combatant commands.
+Pub. L. 99–433, title II, § 214(b), Oct. 1, 1986, 100 Stat. 1018, authorized President, until Oct. 1, 1990, to waive, on a case-by-case basis, certain requirements provided for in subsec. (a) of this section relating to assignment of commanders of combatant commands.
 
-## § 165. Combatant commands: administration and support
+## § 165. Combatant commands: administration and support
 
 **(a) In General.—** The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall provide for the administration and support of forces assigned to each combatant command.
 
@@ -443,9 +443,9 @@ Pub. L. 99–433, title II, § 214(b), Oct. 1, 1986, 100 Stat. 1018, authorize
 
 **(c) Assignment of Responsibility to Other Components of DOD.—** After consultation with the Secretaries of the military departments, the Secretary of Defense may assign the responsibility (or any part of the responsibility) for the administration and support of forces assigned to the combatant commands to other components of the Department of Defense (including Defense Agencies and combatant commands). A component assigned such a responsibility shall discharge that responsibility subject to the authority, direction, and control of the Secretary of Defense and subject to the authority of commanders of the combatant commands under section 164(c) of this title.
 
-(Added Pub. L. 99–433, title II, § 211(a), Oct. 1, 1986, 100 Stat. 1016.)
+(Added Pub. L. 99–433, title II, § 211(a), Oct. 1, 1986, 100 Stat. 1016.)
 
-## § 166. Combatant commands: budget proposals
+## § 166. Combatant commands: budget proposals
 
 **(a) Combatant Command Budgets.—** The Secretary of Defense shall include in the annual budget of the Department of Defense submitted to Congress a separate budget proposal for such activities of each of the unified and specified combatant commands as may be determined under subsection (b).
 
@@ -461,7 +461,7 @@ Pub. L. 99–433, title II, § 214(b), Oct. 1, 1986, 100 Stat. 1018, authorize
 
 **(c) SOF Training With Foreign Forces.—** A funding proposal for force training under subsection (b)(2) may include amounts for training expense payments authorized in section 322 of this title.
 
-(Added Pub. L. 99–433, title II, § 211(a), Oct. 1, 1986, 100 Stat. 1016; amended Pub. L. 102–190, div. A, title X, § 1052(b), Dec. 5, 1991, 105 Stat. 1471; Pub. L. 115–91, div. A, title X, § 1081(a)(11), Dec. 12, 2017, 131 Stat. 1594.)
+(Added Pub. L. 99–433, title II, § 211(a), Oct. 1, 1986, 100 Stat. 1016; amended Pub. L. 102–190, div. A, title X, § 1052(b), Dec. 5, 1991, 105 Stat. 1471; Pub. L. 115–91, div. A, title X, § 1081(a)(11), Dec. 12, 2017, 131 Stat. 1594.)
 
 **Editorial Notes**
 
@@ -475,9 +475,9 @@ Pub. L. 99–433, title II, § 214(b), Oct. 1, 1986, 100 Stat. 1018, authorize
 
 **Effective Date**
 
-Pub. L. 99–433, title II, § 214(d), Oct. 1, 1986, 100 Stat. 1019, provided that: “Section 166 of title 10, United States Code (as added by section 211 of this Act), shall take effect with budget proposals for fiscal year 1989.”
+Pub. L. 99–433, title II, § 214(d), Oct. 1, 1986, 100 Stat. 1019, provided that: “Section 166 of title 10, United States Code (as added by section 211 of this Act), shall take effect with budget proposals for fiscal year 1989.”
 
-## § 166a. Combatant commands: funding through the Chairman of Joint Chiefs of Staff
+## § 166a. Combatant commands: funding through the Chairman of Joint Chiefs of Staff
 
 **(a) Combatant Commander Initiative Fund.—** From funds made available in any fiscal year for the budget account in the Department of Defense known as the “Combatant Commander Initiative Fund”, the Chairman of the Joint Chiefs of Staff may provide funds to the commander of a combatant command, upon the request of the commander, or, with respect to a geographic area or areas not within the area of responsibility of a commander of a combatant command, to an officer designated by the Chairman of the Joint Chiefs of Staff for such purpose. The Chairman may provide such funds for any of the activities named in subsection (b).
 
@@ -531,83 +531,83 @@ Pub. L. 99–433, title II, § 214(d), Oct. 1, 1986, 100 Stat. 1019, provided 
 
 **(f) Inclusion of NORAD.—** For purposes of this section, the Commander, United States Element, North American Aerospace Defense Command shall be considered to be a commander of a combatant command.
 
-(Added Pub. L. 102–190, div. A, title IX, § 902(a), Dec. 5, 1991, 105 Stat. 1450; amended Pub. L. 102–396, title IX, § 9128, Oct. 6, 1992, 106 Stat. 1935; Pub. L. 102–484, div. A, title IX, § 934, Oct. 23, 1992, 106 Stat. 2477; Pub. L. 103–35, title II, § 201(a), May 31, 1993, 107 Stat. 97; Pub. L. 105–85, div. A, title IX, § 902, Nov. 18, 1997, 111 Stat. 1854; Pub. L. 108–136, div. A, title IX, § 902(a)(2), (b), (c), Nov. 24, 2003, 117 Stat. 1558; Pub. L. 109–364, div. A, title IX, § 902, Oct. 17, 2006, 120 Stat. 2351; Pub. L. 111–84, div. A, title IX, § 904, Oct. 28, 2009, 123 Stat. 2424; Pub. L. 114–328, div. A, title VIII, § 833(b)(1)(C), Dec. 23, 2016, 130 Stat. 2284; Pub. L. 117–81, div. A, title X, § 1002, Dec. 27, 2021, 135 Stat. 1883; Pub. L. 118–31, div. A, title XII, § 1202(a), Dec. 22, 2023, 137 Stat. 441.)
+(Added Pub. L. 102–190, div. A, title IX, § 902(a), Dec. 5, 1991, 105 Stat. 1450; amended Pub. L. 102–396, title IX, § 9128, Oct. 6, 1992, 106 Stat. 1935; Pub. L. 102–484, div. A, title IX, § 934, Oct. 23, 1992, 106 Stat. 2477; Pub. L. 103–35, title II, § 201(a), May 31, 1993, 107 Stat. 97; Pub. L. 105–85, div. A, title IX, § 902, Nov. 18, 1997, 111 Stat. 1854; Pub. L. 108–136, div. A, title IX, § 902(a)(2), (b), (c), Nov. 24, 2003, 117 Stat. 1558; Pub. L. 109–364, div. A, title IX, § 902, Oct. 17, 2006, 120 Stat. 2351; Pub. L. 111–84, div. A, title IX, § 904, Oct. 28, 2009, 123 Stat. 2424; Pub. L. 114–328, div. A, title VIII, § 833(b)(1)(C), Dec. 23, 2016, 130 Stat. 2284; Pub. L. 117–81, div. A, title X, § 1002, Dec. 27, 2021, 135 Stat. 1883; Pub. L. 118–31, div. A, title XII, § 1202(a), Dec. 22, 2023, 137 Stat. 441.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2023—Subsec. (b)(11). Pub. L. 118–31, § 1202(a)(1), added par. (11).
+2023—Subsec. (b)(11). Pub. L. 118–31, § 1202(a)(1), added par. (11).
 
-Subsec. (c)(4). Pub. L. 118–31, § 1202(a)(2), added par. (4).
+Subsec. (c)(4). Pub. L. 118–31, § 1202(a)(2), added par. (4).
 
-2021—Subsec. (e)(1)(A). Pub. L. 117–81, § 1002(1), substituted “$25,000,000” for “$20,000,000” and “$300,000” for “$250,000”.
+2021—Subsec. (e)(1)(A). Pub. L. 117–81, § 1002(1), substituted “$25,000,000” for “$20,000,000” and “$300,000” for “$250,000”.
 
-Subsec. (e)(1)(B). Pub. L. 117–81, § 1002(2), substituted “$15,000,000” for “$10,000,000”.
+Subsec. (e)(1)(B). Pub. L. 117–81, § 1002(2), substituted “$15,000,000” for “$10,000,000”.
 
-Subsec. (e)(1)(C). Pub. L. 117–81, § 1002(3), substituted “$10,000,000” for “$5,000,000”.
+Subsec. (e)(1)(C). Pub. L. 117–81, § 1002(3), substituted “$10,000,000” for “$5,000,000”.
 
 2016—Subsec. (e)(1)(A). Pub. L. 114–328 substituted “$250,000” for “the investment unit cost threshold in effect under section 2245a of this title”.
 
-2009—Subsec. (b)(6). Pub. L. 111–84, § 904(b), inserted “in coordination with the relevant chief of mission to the extent practicable,” after “assistance,”.
+2009—Subsec. (b)(6). Pub. L. 111–84, § 904(b), inserted “in coordination with the relevant chief of mission to the extent practicable,” after “assistance,”.
 
-Subsec. (e)(1)(A). Pub. L. 111–84, § 904(a), substituted “$20,000,000” for “$10,000,000” and “the investment unit cost threshold in effect under section 2245a of this title” for “$15,000”.
+Subsec. (e)(1)(A). Pub. L. 111–84, § 904(a), substituted “$20,000,000” for “$10,000,000” and “the investment unit cost threshold in effect under section 2245a of this title” for “$15,000”.
 
-2006—Subsec. (b)(6). Pub. L. 109–364, § 902(a), substituted “civic assistance, to include urgent and unanticipated humanitarian relief and reconstruction assistance” for “civil assistance”.
+2006—Subsec. (b)(6). Pub. L. 109–364, § 902(a), substituted “civic assistance, to include urgent and unanticipated humanitarian relief and reconstruction assistance” for “civil assistance”.
 
-Subsec. (c)(3). Pub. L. 109–364, § 902(b), added par. (3).
+Subsec. (c)(3). Pub. L. 109–364, § 902(b), added par. (3).
 
-2003—Subsec. (a). Pub. L. 108–136, § 902(a)(2), substituted “Combatant Commander Initiative Fund” for “CINC Initiative Fund” in heading and “Combatant Commander Initiative Fund” for “CINC Initiative Fund” in first sentence.
+2003—Subsec. (a). Pub. L. 108–136, § 902(a)(2), substituted “Combatant Commander Initiative Fund” for “CINC Initiative Fund” in heading and “Combatant Commander Initiative Fund” for “CINC Initiative Fund” in first sentence.
 
-Subsec. (b)(10). Pub. L. 108–136, § 902(b), added par. (10).
+Subsec. (b)(10). Pub. L. 108–136, § 902(b), added par. (10).
 
-Subsecs. (c), (d). Pub. L. 108–136, § 902(a)(2)(B), substituted “Combatant Commander Initiative Fund” for “CINC Initiative Fund”.
+Subsecs. (c), (d). Pub. L. 108–136, § 902(a)(2)(B), substituted “Combatant Commander Initiative Fund” for “CINC Initiative Fund”.
 
-Subsec. (e)(1)(A). Pub. L. 108–136, § 902(c)(1), substituted “$10,000,000” for “$7,000,000”.
+Subsec. (e)(1)(A). Pub. L. 108–136, § 902(c)(1), substituted “$10,000,000” for “$7,000,000”.
 
-Subsec. (e)(1)(B). Pub. L. 108–136, § 902(c)(2), substituted “$10,000,000” for “$1,000,000”.
+Subsec. (e)(1)(B). Pub. L. 108–136, § 902(c)(2), substituted “$10,000,000” for “$1,000,000”.
 
-Subsec. (e)(1)(C). Pub. L. 108–136, § 902(c)(3), substituted “$5,000,000” for “$2,000,000”.
+Subsec. (e)(1)(C). Pub. L. 108–136, § 902(c)(3), substituted “$5,000,000” for “$2,000,000”.
 
 1997—Subsec. (b)(9). Pub. L. 105–85 added par. (9).
 
-1993—Subsec. (a). Pub. L. 103–35, § 201(a)(1), substituted “the Chairman of the Joint Chiefs of Staff may provide funds to the commander of a combatant command, upon the request of the commander, or, with respect to a geographic area or areas not within the area of responsibility of a commander of a combatant command, to an officer designated by the Chairman of the Joint Chiefs of Staff for such purpose” for “the Chairman of the Joint Chiefs of Staff may provide funds to the commander of a combatant command, upon the request of the commander, or to the Director of the Joint Staff with respect to an area or areas not within the area of responsibility of a commander of a combatant command.”
+1993—Subsec. (a). Pub. L. 103–35, § 201(a)(1), substituted “the Chairman of the Joint Chiefs of Staff may provide funds to the commander of a combatant command, upon the request of the commander, or, with respect to a geographic area or areas not within the area of responsibility of a commander of a combatant command, to an officer designated by the Chairman of the Joint Chiefs of Staff for such purpose” for “the Chairman of the Joint Chiefs of Staff may provide funds to the commander of a combatant command, upon the request of the commander, or to the Director of the Joint Staff with respect to an area or areas not within the area of responsibility of a commander of a combatant command.”
 
-Subsec. (b)(7). Pub. L. 103–35, § 201(a)(2), struck out second of two identical parenthetical phrases at end of par. (7) which read as follows: “(including transportation, translation, and administrative expenses)”.
+Subsec. (b)(7). Pub. L. 103–35, § 201(a)(2), struck out second of two identical parenthetical phrases at end of par. (7) which read as follows: “(including transportation, translation, and administrative expenses)”.
 
-1992—Subsec. (a). Pub. L. 102–484, § 934(a), which directed substitution of “funds to the commander of a combatant command, upon the request of the commander, or, with respect to a geographic area or areas not within the area of responsibility of a commander of a combatant command, to an officer designated by the Chairman of the Joint Chiefs of Staff for such purpose.” for “funds, upon request,” and all that follows through the period, could not be executed because the words did not appear subsequent to the amendment by Pub. L. 102–396, § 9128(a). See below.
+1992—Subsec. (a). Pub. L. 102–484, § 934(a), which directed substitution of “funds to the commander of a combatant command, upon the request of the commander, or, with respect to a geographic area or areas not within the area of responsibility of a commander of a combatant command, to an officer designated by the Chairman of the Joint Chiefs of Staff for such purpose.” for “funds, upon request,” and all that follows through the period, could not be executed because the words did not appear subsequent to the amendment by Pub. L. 102–396, § 9128(a). See below.
 
-Pub. L. 102–396, § 9128(a), substituted “funds to the commander of a combatant command, upon the request of the commander, or to the Director of the Joint Staff with respect to an area or areas not within the area of responsibility of a commander of a combatant command.” for “funds, upon request, to the commanders of the combatant commands.”
+Pub. L. 102–396, § 9128(a), substituted “funds to the commander of a combatant command, upon the request of the commander, or to the Director of the Joint Staff with respect to an area or areas not within the area of responsibility of a commander of a combatant command.” for “funds, upon request, to the commanders of the combatant commands.”
 
-Subsec. (b)(7). Pub. L. 102–396, § 9128(b), and Pub. L. 102–484, § 934(b), both inserted before period at end “(including transportation, translation, and administrative expenses)”.
+Subsec. (b)(7). Pub. L. 102–396, § 9128(b), and Pub. L. 102–484, § 934(b), both inserted before period at end “(including transportation, translation, and administrative expenses)”.
 
-Subsec. (c). Pub. L. 102–484, § 934(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Chairman of the Joint Chiefs of Staff, in considering requests for funds in the CINC Initiative Fund, should give priority consideration to requests for funds to be used for activities that would enhance the war fighting capability, readiness, and sustainability of the forces assigned to the commander requesting the funds (c) Priority.—The Chairman of the Joint Chiefs of Staff, in considering requests for funds in the CINC Initiative Fund or the provision of funds to the Director of the Joint Staff under subsection (a), should give priority consideration to—
+Subsec. (c). Pub. L. 102–484, § 934(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Chairman of the Joint Chiefs of Staff, in considering requests for funds in the CINC Initiative Fund, should give priority consideration to requests for funds to be used for activities that would enhance the war fighting capability, readiness, and sustainability of the forces assigned to the commander requesting the funds (c) Priority.—The Chairman of the Joint Chiefs of Staff, in considering requests for funds in the CINC Initiative Fund or the provision of funds to the Director of the Joint Staff under subsection (a), should give priority consideration to—
 
 “(1) requests for funds to be used for activities that would enhance the war fighting capability, readiness, and sustainability of the forces assigned to the commander requesting the funds; and
 
 “(2) the provision of funds to be used for activities with respect to an area or areas not within the area of responsibility of a commander of a combatant command that would reduce the threat to, or otherwise increase, the national security of the United States..[sic]”
 
-Pub. L. 102–396, § 9128(c), inserted before period at end “(c) Priority.—The Chairman of the Joint Chiefs of Staff, in considering requests for funds in the CINC Initiative Fund or the provision of funds to the Director of the Joint Staff under subsection (a), should give priority consideration to—
+Pub. L. 102–396, § 9128(c), inserted before period at end “(c) Priority.—The Chairman of the Joint Chiefs of Staff, in considering requests for funds in the CINC Initiative Fund or the provision of funds to the Director of the Joint Staff under subsection (a), should give priority consideration to—
 
 “(1) requests for funds to be used for activities that would enhance the war fighting capability, readiness, and sustainability of the forces assigned to the commander requesting the funds; and
 
 “(2) the provision of funds to be used for activities with respect to an area or areas not within the area of responsibility of a commander of a combatant command that would reduce the threat to, or otherwise increase, the national security of the United States.”
 
-Subsec. (e)(1)(C). Pub. L. 102–484, § 934(d), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “not more than $5,000,000 may be used to provide military education and training (including transportation, translation, and administrative expenses) to military and related civilian personnel of foreign countries as authorized by subsection (b)(7).”
+Subsec. (e)(1)(C). Pub. L. 102–484, § 934(d), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “not more than $5,000,000 may be used to provide military education and training (including transportation, translation, and administrative expenses) to military and related civilian personnel of foreign countries as authorized by subsection (b)(7).”
 
-Pub. L. 102–396, § 9128(d), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “not more than $500,000 may be used to provide military education and training to military and related civilian personnel of foreign countries as authorized by subsection (b)(7).”
+Pub. L. 102–396, § 9128(d), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “not more than $500,000 may be used to provide military education and training to military and related civilian personnel of foreign countries as authorized by subsection (b)(7).”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Redesignation of CINC Initiative Fund**
 
-Pub. L. 108–136, div. A, title IX, § 902(a)(1), (3), Nov. 24, 2003, 117 Stat. 1558, provided that:
+Pub. L. 108–136, div. A, title IX, § 902(a)(1), (3), Nov. 24, 2003, 117 Stat. 1558, provided that:
 
 > **“(1)** The CINC Initiative Fund administered under section 166a of title 10, United States Code, is redesignated as the ‘Combatant Commander Initiative Fund’.
 
 > **“(3)** Any reference to the CINC Initiative Fund in any other provision of law or in any regulation, document, record, or other paper of the United States shall be considered to be a reference to the Combatant Commander Initiative Fund.”
 
-## § 166b. Combatant commands: funding for combating terrorism readiness initiatives
+## § 166b. Combatant commands: funding for combating terrorism readiness initiatives
 
 **(a) Combating Terrorism Readiness Initiatives Fund.—** From funds made available in any fiscal year for the budget account in the Department of Defense known as the “Combating Terrorism Readiness Initiatives Fund”, the Chairman of the Joint Chiefs of Staff may provide funds to the commander of a combatant command, upon the request of the commander, or, with respect to a geographic area or areas not within the area of responsibility of a commander of a combatant command, to an officer designated by the Chairman of the Joint Chiefs of Staff for such purpose. The Chairman may provide such funds for initiating any activity named in subsection (b) and for maintaining and sustaining the activity for the fiscal year in which initiated and one additional fiscal year.
 
@@ -633,9 +633,9 @@ Pub. L. 108–136, div. A, title IX, § 902(a)(1), (3), Nov. 24, 2003, 117 Sta
 
 **(e) Limitation.—** Funds may not be provided under this section for any activity that has been denied authorization by Congress.
 
-(Added Pub. L. 107–107, div. A, title XV, § 1512(a), Dec. 28, 2001, 115 Stat. 1272.)
+(Added Pub. L. 107–107, div. A, title XV, § 1512(a), Dec. 28, 2001, 115 Stat. 1272.)
 
-## § 167. Unified combatant command for special operations forces
+## § 167. Unified combatant command for special operations forces
 
 **(a) Establishment.—** With the advice and assistance of the Chairman of the Joint Chiefs of Staff, the President, through the Secretary of Defense, shall establish under section 161 of this title a unified combatant command for special operations forces (hereinafter in this section referred to as the “special operations command”). The principal function of the command is to prepare special operations forces to carry out assigned missions.
 
@@ -693,9 +693,9 @@ Pub. L. 108–136, div. A, title IX, § 902(a)(1), (3), Nov. 24, 2003, 117 Sta
 
 **(ii)** Acquisition of special operations-peculiar material, supplies, and services.
 
-**(B)** Subject to the authority, direction, and control of the Secretary of Defense, the commander of the command, in carrying out his functions under subparagraph (A), shall have authority to exercise the functions of the head of an agency under chapter 137 1
+**(B)** Subject to the authority, direction, and control of the Secretary of Defense, the commander of the command, in carrying out his functions under subparagraph (A), shall have authority to exercise the functions of the head of an agency under chapter 137 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -777,15 +777,15 @@ of this title.
 
 **(2)** Before the budget proposal for a military department for any fiscal year is submitted to the Secretary of Defense, the Secretary of that military department shall consult with the commander of the special operations command concerning funding for special operations forces in the military personnel budget for a reserve component in that military department. If the commander of that command does not concur in the recommended level of funding with respect to reserve component special operations units, the Secretary shall include with the budget proposal submitted to the Secretary of Defense the views of the commander of that command.
 
-(Added Pub. L. 99–500, § 101(c) [title IX, § 9115(b)(1)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–122, and Pub. L. 99–591, § 101(c) [title IX, § 9115(b)(1)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–122; Pub. L. 99–661, div. A, title XIII, § 1311(b)(1), Nov. 14, 1986, 100 Stat. 3983; amended Pub. L. 100–180, div. A, title XII, § 1211(d), Dec. 4, 1987, 101 Stat. 1156; Pub. L. 100–456, div. A, title VII, § 712, Sept. 29, 1988, 102 Stat. 1997; Pub. L. 102–88, title VI, § 602(c)(3), Aug. 14, 1991, 105 Stat. 444; Pub. L. 103–337, div. A, title IX, § 925, Oct. 5, 1994, 108 Stat. 2832; Pub. L. 110–181, div. A, title VIII, § 810, Jan. 28, 2008, 122 Stat. 217; Pub. L. 112–81, div. A, title X, § 1086(1), Dec. 31, 2011, 125 Stat. 1603; Pub. L. 113–66, div. A, title IX, § 903, Dec. 26, 2013, 127 Stat. 816; Pub. L. 113–291, div. A, title X, § 1071(c)(3), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–328, div. A, title IX, § 922(c), Dec. 23, 2016, 130 Stat. 2356.)
+(Added Pub. L. 99–500, § 101(c) [title IX, § 9115(b)(1)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–122, and Pub. L. 99–591, § 101(c) [title IX, § 9115(b)(1)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–122; Pub. L. 99–661, div. A, title XIII, § 1311(b)(1), Nov. 14, 1986, 100 Stat. 3983; amended Pub. L. 100–180, div. A, title XII, § 1211(d), Dec. 4, 1987, 101 Stat. 1156; Pub. L. 100–456, div. A, title VII, § 712, Sept. 29, 1988, 102 Stat. 1997; Pub. L. 102–88, title VI, § 602(c)(3), Aug. 14, 1991, 105 Stat. 444; Pub. L. 103–337, div. A, title IX, § 925, Oct. 5, 1994, 108 Stat. 2832; Pub. L. 110–181, div. A, title VIII, § 810, Jan. 28, 2008, 122 Stat. 217; Pub. L. 112–81, div. A, title X, § 1086(1), Dec. 31, 2011, 125 Stat. 1603; Pub. L. 113–66, div. A, title IX, § 903, Dec. 26, 2013, 127 Stat. 816; Pub. L. 113–291, div. A, title X, § 1071(c)(3), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–328, div. A, title IX, § 922(c), Dec. 23, 2016, 130 Stat. 2356.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 137 of this title, referred to in subsec. (e)(4)(B), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of “chapter 137 legacy provisions”, see section 3016 of this title.
+Chapter 137 of this title, referred to in subsec. (e)(4)(B), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of “chapter 137 legacy provisions”, see section 3016 of this title.
 
-The National Security Act of 1947, referred to in subsec. (h), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (h), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 **Codification**
 
@@ -795,11 +795,11 @@ Pub. L. 99–661 and Pub. L. 99–500 added identical sections.
 
 **Amendments**
 
-2016—Subsec. (e)(2). Pub. L. 114–328, § 922(c)(1)(A), substituted “Subject to the authority, direction, and control of the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, the commander” for “The commander” in introductory provisions.
+2016—Subsec. (e)(2). Pub. L. 114–328, § 922(c)(1)(A), substituted “Subject to the authority, direction, and control of the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, the commander” for “The commander” in introductory provisions.
 
-Subsec. (e)(2)(J). Pub. L. 114–328, § 922(c)(1)(B), added subpar. (J) and struck out former subpar. (J) which read as follows: “Monitoring the promotions, assignments, retention, training, and professional military education of special operations forces officers.”
+Subsec. (e)(2)(J). Pub. L. 114–328, § 922(c)(1)(B), added subpar. (J) and struck out former subpar. (J) which read as follows: “Monitoring the promotions, assignments, retention, training, and professional military education of special operations forces officers.”
 
-Subsecs. (f) to (*l*). Pub. L. 114–328, § 922(c)(2), added subsec. (f) and redesignated former subsecs. (f) to (k) as (g) to (*l*), respectively.
+Subsecs. (f) to (*l*). Pub. L. 114–328, § 922(c)(2), added subsec. (f) and redesignated former subsecs. (f) to (k) as (g) to (*l*), respectively.
 
 2014—Subsec. (g). Pub. L. 113–291 substituted “(50 U.S.C. 3091 et seq.)” for “(50 U.S.C. 413 et seq.)”.
 
@@ -851,11 +851,11 @@ Subsecs. (f) to (*l*). Pub. L. 114–328, § 922(c)(2), added subsec. (f) and 
 
 **Effective Date**
 
-Pub. L. 99–500, § 101(c) [title IX, § 9115(i)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, Pub. L. 99–591, § 101(c) [title IX, § 9115(i)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125, and Pub. L. 99–661, div. A, title XIII, § 1311(i), Nov. 14, 1986, 100 Stat. 3986, provided that: “Section 167 of title 10, United States Code (as added by subsection (b)), shall be implemented not later than 180 days after the date of the enactment of this Act [Oct. 18, 1986].”
+Pub. L. 99–500, § 101(c) [title IX, § 9115(i)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, Pub. L. 99–591, § 101(c) [title IX, § 9115(i)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125, and Pub. L. 99–661, div. A, title XIII, § 1311(i), Nov. 14, 1986, 100 Stat. 3986, provided that: “Section 167 of title 10, United States Code (as added by subsection (b)), shall be implemented not later than 180 days after the date of the enactment of this Act [Oct. 18, 1986].”
 
 **Review of Certain Personnel Policies of Special Operations Forces**
 
-Pub. L. 117–263, div. A, title V, § 538, Dec. 23, 2022, 136 Stat. 2577, provided that:
+Pub. L. 117–263, div. A, title V, § 538, Dec. 23, 2022, 136 Stat. 2577, provided that:
 
 > **“(a) Review Required.—** The Secretary of Defense shall direct the covered officials to review (and, if a covered official determines it necessary, update guidance and processes) matters described in section 167(e)(2)(J) of title 10, United States Code. The covered officials shall complete such review (and update) not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022].
 
@@ -889,7 +889,7 @@ Pub. L. 117–263, div. A, title V, § 538, Dec. 23, 2022, 136 Stat. 2577, pro
 
 **Processes and Procedures for Notifications Regarding Special Operations Forces**
 
-Pub. L. 116–92, div. A, title XVII, § 1745, Dec. 20, 2019, 133 Stat. 1842, provided that:
+Pub. L. 116–92, div. A, title XVII, § 1745, Dec. 20, 2019, 133 Stat. 1842, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall establish and submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] processes and procedures for providing notifications to the committees regarding members of special operations forces, as identified in section 167(j) of title 10, United States Code.
 
@@ -909,7 +909,7 @@ Pub. L. 116–92, div. A, title XVII, § 1745, Dec. 20, 2019, 133 Stat. 1842, 
 
 **Memoranda of Agreement on Identification and Dedication of Enabling Capabilities of General Purpose Forces to Fulfill Certain Requirements of Special Operations Forces**
 
-Pub. L. 112–81, div. A, title IX, § 904, Dec. 31, 2011, 125 Stat. 1533, provided that:
+Pub. L. 112–81, div. A, title IX, § 904, Dec. 31, 2011, 125 Stat. 1533, provided that:
 
 > **“(a) Requirement.—** By not later than 180 days after the date of the enactment of this Act [Dec. 31, 2011] and annually thereafter, each Secretary of a military department shall enter into a memorandum of agreement with the Commander of the United States Special Operations Command that identifies or establishes processes and associated milestones by which numbers and types of enabling capabilities of the general purpose forces of the Armed Forces under the jurisdiction of such Secretary can be identified and dedicated to fulfill the training and operational requirements of special operations forces under the United States Special Operations Command.
 
@@ -917,11 +917,11 @@ Pub. L. 112–81, div. A, title IX, § 904, Dec. 31, 2011, 125 Stat. 1533, pro
 
 **Counterterrorism Operational Briefing Requirement**
 
-Pub. L. 112–81, div. A, title X, § 1031, Dec. 31, 2011, 125 Stat. 1570, required the Secretary of Defense, beginning not later than March 1, 2012, to provide to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives quarterly briefings outlining Department of Defense counterterrorism operations and related activities involving special operations forces, prior to repeal by Pub. L. 113–66, div. A, title X, § 1042(b), Dec. 26, 2013, 127 Stat. 857.
+Pub. L. 112–81, div. A, title X, § 1031, Dec. 31, 2011, 125 Stat. 1570, required the Secretary of Defense, beginning not later than March 1, 2012, to provide to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives quarterly briefings outlining Department of Defense counterterrorism operations and related activities involving special operations forces, prior to repeal by Pub. L. 113–66, div. A, title X, § 1042(b), Dec. 26, 2013, 127 Stat. 857.
 
 **Annual Reports on Use of Combat Mission Requirements Funds**
 
-Pub. L. 111–383, div. A, title I, § 123, Jan. 7, 2011, 124 Stat. 4158, as amended by Pub. L. 112–81, div. A, title I, § 145, Dec. 31, 2011, 125 Stat. 1326; Pub. L. 114–328, div. A, title I, § 145, Dec. 23, 2016, 130 Stat. 2042, provided that:
+Pub. L. 111–383, div. A, title I, § 123, Jan. 7, 2011, 124 Stat. 4158, as amended by Pub. L. 112–81, div. A, title I, § 145, Dec. 31, 2011, 125 Stat. 1326; Pub. L. 114–328, div. A, title I, § 145, Dec. 23, 2016, 130 Stat. 2042, provided that:
 
 > **“(a) Annual Reports Required.—**
 
@@ -961,7 +961,7 @@ Pub. L. 111–383, div. A, title I, § 123, Jan. 7, 2011, 124 Stat. 4158, as a
 
 **Resources for CINCSOF**
 
-Pub. L. 100–180, div. A, title XII, § 1211(b), Dec. 4, 1987, 101 Stat. 1155, as amended by Pub. L. 104–106, div. A, title IX, § 903(f)(5), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617, provided that:
+Pub. L. 100–180, div. A, title XII, § 1211(b), Dec. 4, 1987, 101 Stat. 1155, as amended by Pub. L. 104–106, div. A, title IX, § 903(f)(5), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617, provided that:
 
 > “The Secretary of Defense shall provide sufficient resources for the commander of the unified combatant command for special operations forces established pursuant to section 167 of title 10, United States Code, to carry out his duties and responsibilities, including particularly his duties and responsibilities relating to the following functions:
 
@@ -973,11 +973,11 @@ Pub. L. 100–180, div. A, title XII, § 1211(b), Dec. 4, 1987, 101 Stat. 1155
 
 **Major Force Program Category; Program and Budget Execution; Grade for Commanders of Certain Area Special Operations Commands**
 
-Pub. L. 102–484, div. A, title IX, § 936(a), (b), Oct. 23, 1992, 106 Stat. 2479, provided that, during the period beginning on Feb. 1, 1993, and ending on Feb. 1, 1995, the provisions of Pub. L. 99–661, § 1311(e), set out below, would apply as if the Secretary of Defense had designated the United States Southern Command and the United States Central Command for the purposes of that section, and required the Secretary of Defense to submit to Congress a report setting forth the Secretary’s recommendations for the grade structure for the special operations forces component commander for each unified command not later than Mar. 1, 1994.
+Pub. L. 102–484, div. A, title IX, § 936(a), (b), Oct. 23, 1992, 106 Stat. 2479, provided that, during the period beginning on Feb. 1, 1993, and ending on Feb. 1, 1995, the provisions of Pub. L. 99–661, § 1311(e), set out below, would apply as if the Secretary of Defense had designated the United States Southern Command and the United States Central Command for the purposes of that section, and required the Secretary of Defense to submit to Congress a report setting forth the Secretary’s recommendations for the grade structure for the special operations forces component commander for each unified command not later than Mar. 1, 1994.
 
-Pub. L. 100–180, div. A, title XII, § 1211(e), Dec. 4, 1987, 101 Stat. 1156, directed that the major force program category for special operations forces of the Five-Year Defense Plan of the Department of Defense created pursuant to Pub. L. 99–661, § 1311(c), set out below, was to be created not later than 30 days after Dec. 4, 1987, and required the Secretary of Defense to submit to committees of Congress on such date a report explaining the program recommendations and budget proposals included in such category and a certification that all program recommendations and budget proposals for special operations forces had been included.
+Pub. L. 100–180, div. A, title XII, § 1211(e), Dec. 4, 1987, 101 Stat. 1156, directed that the major force program category for special operations forces of the Five-Year Defense Plan of the Department of Defense created pursuant to Pub. L. 99–661, § 1311(c), set out below, was to be created not later than 30 days after Dec. 4, 1987, and required the Secretary of Defense to submit to committees of Congress on such date a report explaining the program recommendations and budget proposals included in such category and a certification that all program recommendations and budget proposals for special operations forces had been included.
 
-Pub. L. 99–661, div. A, title XIII, § 1311(c)–(e), Nov. 14, 1986, 100 Stat. 3985, 3986, provided that:
+Pub. L. 99–661, div. A, title XIII, § 1311(c)–(e), Nov. 14, 1986, 100 Stat. 3985, 3986, provided that:
 
 > **“(c) Major Force Program Category.—** The Secretary of Defense shall create for the special operations forces a major force program category for the Five-Year Defense Plan of the Department of Defense. The Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, with the advice and assistance of the commander of the special operations command, shall provide overall supervision of the preparation and justification of program recommendations and budget proposals to be included in such major force program category.
 
@@ -985,17 +985,17 @@ Pub. L. 99–661, div. A, title XIII, § 1311(c)–(e), Nov. 14, 1986, 100 Sta
 
 > **“(e) Grade for Commanders of Certain Area Special Operations Commands.—** The commander of the special operations command of the United States European Command, the United States Pacific Command [now United States Indo-Pacific Command], and any other unified combatant command that the Secretary of Defense may designate for the purposes of this section shall be of general or flag officer grade.”
 
-[Identical provisions were contained in section 101(c) [§ 9115(c)–(e)] of Pub. L. 99–500 and Pub. L. 99–591, which was repealed by Pub. L. 102–484, div. A, title IX, § 936(c), Oct. 23, 1992, 106 Stat. 2479.]
+[Identical provisions were contained in section 101(c) [§ 9115(c)–(e)] of Pub. L. 99–500 and Pub. L. 99–591, which was repealed by Pub. L. 102–484, div. A, title IX, § 936(c), Oct. 23, 1992, 106 Stat. 2479.]
 
 **Report on Capabilities of United States To Conduct Special Operations and Engage in Low Intensity Conflicts**
 
-Pub. L. 99–500, § 101(c) [title IX, § 9115(h)(2)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, Pub. L. 99–591, § 101(c) [title IX, § 9115(h)(2)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125, and Pub. L. 99–661, div. A, title XIII, § 1311(h)(2), Nov. 14, 1986, 100 Stat. 3986, required President, not later than one year after the date of enactment, to transmit to Congress a report on capabilities of United States to conduct special operations and engage in low intensity conflicts, the report to include a description of deficiencies in such capabilities, actions being taken throughout executive branch to correct such deficiencies, the principal low intensity conflict threats to interests of United States, and the actions taken and to be taken to implement this section.
+Pub. L. 99–500, § 101(c) [title IX, § 9115(h)(2)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, Pub. L. 99–591, § 101(c) [title IX, § 9115(h)(2)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125, and Pub. L. 99–661, div. A, title XIII, § 1311(h)(2), Nov. 14, 1986, 100 Stat. 3986, required President, not later than one year after the date of enactment, to transmit to Congress a report on capabilities of United States to conduct special operations and engage in low intensity conflicts, the report to include a description of deficiencies in such capabilities, actions being taken throughout executive branch to correct such deficiencies, the principal low intensity conflict threats to interests of United States, and the actions taken and to be taken to implement this section.
 
-## [§ 167a. Repealed. Pub. L. 115–232, div. A, title VIII, § 812(a)(1)(A), Aug. 13, 2018, 132 Stat. 1846]
+## [§ 167a. Repealed. Pub. L. 115–232, div. A, title VIII, § 812(a)(1)(A), Aug. 13, 2018, 132 Stat. 1846]
 
-Section, added Pub. L. 108–136, div. A, title VIII, § 848(a)(1), Nov. 24, 2003, 117 Stat. 1554; amended Pub. L. 109–163, div. A, title VIII, § 846(a), Jan. 6, 2006, 119 Stat. 3391; Pub. L. 110–181, div. A, title VIII, § 825, Jan. 28, 2008, 122 Stat. 227, provided for delegation of limited acquisition authority to the commander of the unified combatant command for joint warfighting experimentation.
+Section, added Pub. L. 108–136, div. A, title VIII, § 848(a)(1), Nov. 24, 2003, 117 Stat. 1554; amended Pub. L. 109–163, div. A, title VIII, § 846(a), Jan. 6, 2006, 119 Stat. 3391; Pub. L. 110–181, div. A, title VIII, § 825, Jan. 28, 2008, 122 Stat. 227, provided for delegation of limited acquisition authority to the commander of the unified combatant command for joint warfighting experimentation.
 
-## § 167b. Unified combatant command for cyber operations
+## § 167b. Unified combatant command for cyber operations
 
 **(a) Establishment.—**
 
@@ -1073,47 +1073,47 @@ Section, added Pub. L. 108–136, div. A, title VIII, § 848(a)(1), Nov. 24, 2
 
 **(B)** Funding for facility support that is provided by the military departments.
 
-(Added Pub. L. 114–328, div. A, title IX, § 923(a), Dec. 23, 2016, 130 Stat. 2357; amended Pub. L. 115–91, div. A, title X, § 1081(a)(12), title XVI, § 1635, Dec. 12, 2017, 131 Stat. 1595, 1741; Pub. L. 116–283, div. A, title XVII, § 1701(1), Jan. 1, 2021, 134 Stat. 4079; Pub. L. 117–263, div. A, title XV, § 1501(c)(1), Dec. 23, 2022, 136 Stat. 2878; Pub. L. 118–159, div. A, title XVII, § 1701(a)(4), Dec. 23, 2024, 138 Stat. 2203; Pub. L. 119–60, div. A, title XV, § 1501(a), Dec. 18, 2025, 139 Stat. 1137.)
+(Added Pub. L. 114–328, div. A, title IX, § 923(a), Dec. 23, 2016, 130 Stat. 2357; amended Pub. L. 115–91, div. A, title X, § 1081(a)(12), title XVI, § 1635, Dec. 12, 2017, 131 Stat. 1595, 1741; Pub. L. 116–283, div. A, title XVII, § 1701(1), Jan. 1, 2021, 134 Stat. 4079; Pub. L. 117–263, div. A, title XV, § 1501(c)(1), Dec. 23, 2022, 136 Stat. 2878; Pub. L. 118–159, div. A, title XVII, § 1701(a)(4), Dec. 23, 2024, 138 Stat. 2203; Pub. L. 119–60, div. A, title XV, § 1501(a), Dec. 18, 2025, 139 Stat. 1137.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Security Act of 1947, referred to in subsec. (e), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (e), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
 2025—Subsec. (f). Pub. L. 119–60 added subsec. (f).
 
-2024—Subsec. (a)(1). Pub. L. 118–159, § 1701(a)(4)(A)(i), substituted “referred to as the ‘United States Cyber Command’ ” for “referred to as the ‘cyber command’ ”.
+2024—Subsec. (a)(1). Pub. L. 118–159, § 1701(a)(4)(A)(i), substituted “referred to as the ‘United States Cyber Command’ ” for “referred to as the ‘cyber command’ ”.
 
-Subsec. (a)(2). Pub. L. 118–159, § 1701(a)(4)(A)(ii), substituted “United States Cyber Command” for “Cyber Command”.
+Subsec. (a)(2). Pub. L. 118–159, § 1701(a)(4)(A)(ii), substituted “United States Cyber Command” for “Cyber Command”.
 
-Subsec. (b). Pub. L. 118–159, § 1701(a)(4)(B), substituted “United States Cyber Command” for “Cyber Command” in pars. (1) and (2).
+Subsec. (b). Pub. L. 118–159, § 1701(a)(4)(B), substituted “United States Cyber Command” for “Cyber Command” in pars. (1) and (2).
 
-Subsec. (c). Pub. L. 118–159, § 1701(a)(4)(C), substituted “Commander” for “commander” in two places, “United States Cyber Command” for “cyber command”, and “such Command” for “such command”.
+Subsec. (c). Pub. L. 118–159, § 1701(a)(4)(C), substituted “Commander” for “commander” in two places, “United States Cyber Command” for “cyber command”, and “such Command” for “such command”.
 
-Subsec. (d). Pub. L. 118–159, § 1701(a)(4)(C), substituted “Commander” for “commander” and “United States Cyber Command” for “cyber command” wherever appearing and “such Command” for “such command” in two places.
+Subsec. (d). Pub. L. 118–159, § 1701(a)(4)(C), substituted “Commander” for “commander” and “United States Cyber Command” for “cyber command” wherever appearing and “such Command” for “such command” in two places.
 
 2022—Subsec. (d)(2)(A). Pub. L. 117–263 inserted “to the Secretary of Defense under section 392a(a) of this title” after “Principal Cyber Advisor” in introductory provisions.
 
-2021—Subsec. (a). Pub. L. 116–283, § 1701(1)(A), designated existing provisions as par. (1), struck out at end “The principal function of the command is to prepare cyber operations forces to carry out assigned missions.”, and added par. (2).
+2021—Subsec. (a). Pub. L. 116–283, § 1701(1)(A), designated existing provisions as par. (1), struck out at end “The principal function of the command is to prepare cyber operations forces to carry out assigned missions.”, and added par. (2).
 
-Subsec. (b). Pub. L. 116–283, § 1701(1)(B), amended subsec. (b) generally. Prior to amendment, text read as follows: “Unless otherwise directed by the Secretary of Defense, all active and reserve cyber operations forces of the armed forces stationed in the United States shall be assigned to the cyber command.”
+Subsec. (b). Pub. L. 116–283, § 1701(1)(B), amended subsec. (b) generally. Prior to amendment, text read as follows: “Unless otherwise directed by the Secretary of Defense, all active and reserve cyber operations forces of the armed forces stationed in the United States shall be assigned to the cyber command.”
 
-2017—Subsec. (d). Pub. L. 115–91, § 1635, redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to command of activity or mission.
+2017—Subsec. (d). Pub. L. 115–91, § 1635, redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to command of activity or mission.
 
-Subsec. (e). Pub. L. 115–91, § 1635(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+Subsec. (e). Pub. L. 115–91, § 1635(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-Subsec. (e)(2)(A)(iii)(II). Pub. L. 115–91, § 1081(a)(12), substituted “Fiscal Year 2016” for “Fiscal Year 2014”.
+Subsec. (e)(2)(A)(iii)(II). Pub. L. 115–91, § 1081(a)(12), substituted “Fiscal Year 2016” for “Fiscal Year 2014”.
 
-Subsec. (f). Pub. L. 115–91, § 1635(2), redesignated subsec. (f) as (e).
+Subsec. (f). Pub. L. 115–91, § 1635(2), redesignated subsec. (f) as (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Occupational Resiliency of the Cyber Mission Force**
 
-Pub. L. 119–60, div. A, title XV, § 1506, Dec. 18, 2025, 139 Stat. 1144, provided that:
+Pub. L. 119–60, div. A, title XV, § 1506, Dec. 18, 2025, 139 Stat. 1144, provided that:
 
 > **“(a) Requirement.—** Beginning not later than one year after the date of the enactment of this Act [Dec. 18, 2025], the Under Secretary of Defense for Personnel and Readiness and the Under Secretary of Defense for Policy, in coordination with the Principal Cyber Advisors of the military departments and the Commander of the United States Cyber Command, shall jointly carry out an initiative to understand and address occupational resiliency challenges at the duty locations of the Cyber Mission Force by ensuring that—
 
@@ -1139,7 +1139,7 @@ Pub. L. 119–60, div. A, title XV, § 1506, Dec. 18, 2025, 139 Stat. 1144, pr
 
 **Department of Defense Information Network Subordinate Unified Command**
 
-Pub. L. 118–159, div. A, title XV, § 1502, Dec. 23, 2024, 138 Stat. 2131, provided that:
+Pub. L. 118–159, div. A, title XV, § 1502, Dec. 23, 2024, 138 Stat. 2131, provided that:
 
 > **“(a) In General.—** Not later than 120 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall designate the Joint Force Headquarters-Department of Defense Information Network as a subordinate unified command under the United States Cyber Command.
 
@@ -1151,7 +1151,7 @@ Pub. L. 118–159, div. A, title XV, § 1502, Dec. 23, 2024, 138 Stat. 2131, p
 
 **Development of Cyber Support Mechanisms for Geographic Combatant Commands**
 
-Pub. L. 118–31, div. A, title XV, § 1506, Dec. 22, 2023, 137 Stat. 540, provided that:
+Pub. L. 118–31, div. A, title XV, § 1506, Dec. 22, 2023, 137 Stat. 540, provided that:
 
 > **“(a) Development of Mechanisms Required.—** Not later than 270 days after the date of the enactment of this Act [Dec. 22, 2023], each commander of a geographic combatant command, in coordination with the Commander of the United States Cyber Command, shall develop a cyber support mechanism to support the operations of that geographic combatant command.
 
@@ -1169,7 +1169,7 @@ Pub. L. 118–31, div. A, title XV, § 1506, Dec. 22, 2023, 137 Stat. 540, pro
 
 **Pilot Program and Other Measures To Enhance Readiness and Effectiveness of Cyber Mission Force**
 
-Pub. L. 118–31, div. A, title XV, § 1535, Dec. 22, 2023, 137 Stat. 566, provided that:
+Pub. L. 118–31, div. A, title XV, § 1535, Dec. 22, 2023, 137 Stat. 566, provided that:
 
 > **“(a) Personnel Requirements and Training for Critical Work Roles.—** Not later than 270 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall—
 
@@ -1217,7 +1217,7 @@ Pub. L. 118–31, div. A, title XV, § 1535, Dec. 22, 2023, 137 Stat. 566, pro
 
 **Management and Oversight of Joint Cyber Warfighting Architecture**
 
-Pub. L. 117–263, div. A, title XV, § 1509, Dec. 23, 2022, 136 Stat. 2886, provided that:
+Pub. L. 117–263, div. A, title XV, § 1509, Dec. 23, 2022, 136 Stat. 2886, provided that:
 
 > **“(a) Establishment of Offices.—**
 
@@ -1357,7 +1357,7 @@ Pub. L. 117–263, div. A, title XV, § 1509, Dec. 23, 2022, 136 Stat. 2886, p
 
 **Total Force Generation for the Cyberspace Operations Forces**
 
-Pub. L. 117–263, div. A, title XV, § 1533, Dec. 23, 2022, 136 Stat. 2903, provided that:
+Pub. L. 117–263, div. A, title XV, § 1533, Dec. 23, 2022, 136 Stat. 2903, provided that:
 
 > **“(a) Study.—**
 
@@ -1435,7 +1435,7 @@ Pub. L. 117–263, div. A, title XV, § 1533, Dec. 23, 2022, 136 Stat. 2903, p
 
 **Correcting Cyber Mission Force Readiness Shortfalls**
 
-Pub. L. 117–263, div. A, title XV, § 1534, Dec. 23, 2022, 136 Stat. 2906, provided that:
+Pub. L. 117–263, div. A, title XV, § 1534, Dec. 23, 2022, 136 Stat. 2906, provided that:
 
 > **“(a) Plan and Briefing Required.—** Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense, the Chairman of the Joint Chiefs of Staff, and the Secretaries of the military departments shall jointly—
 
@@ -1481,7 +1481,7 @@ Pub. L. 117–263, div. A, title XV, § 1534, Dec. 23, 2022, 136 Stat. 2906, p
 
 **Review of Definitions Associated With Cyberspace Operations Forces**
 
-Pub. L. 117–263, div. A, title XV, § 1557, Dec. 23, 2022, 136 Stat. 2924, provided that:
+Pub. L. 117–263, div. A, title XV, § 1557, Dec. 23, 2022, 136 Stat. 2924, provided that:
 
 > **“(a) Review.—** Not later than 120 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense, acting through the Principal Cyber Advisor of the Department of Defense and the Principal Cyber Advisors of the military departments, shall—
 
@@ -1507,7 +1507,7 @@ Pub. L. 117–263, div. A, title XV, § 1557, Dec. 23, 2022, 136 Stat. 2924, p
 
 **Assignment of Certain Budget Control Responsibilities to Commander of United States Cyber Command**
 
-Pub. L. 117–81, div. A, title XV, § 1507, Dec. 27, 2021, 135 Stat. 2030, which related to assignment of certain budget control responsibilities to Commander of United States Cyber Command, was repealed by Pub. L. 119–60, div. A, title XV, § 1501(b), Dec. 18, 2025, 139 Stat. 1138.
+Pub. L. 117–81, div. A, title XV, § 1507, Dec. 27, 2021, 135 Stat. 2030, which related to assignment of certain budget control responsibilities to Commander of United States Cyber Command, was repealed by Pub. L. 119–60, div. A, title XV, § 1501(b), Dec. 18, 2025, 139 Stat. 1138.
 
 **Executive Documents**
 
@@ -1529,30 +1529,30 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 Donald J. Trump.
 
-## [§ 168. Repealed. Pub. L. 114–328, div. A, title XII, § 1253(a)(1)(A), Dec. 23, 2016, 130 Stat. 2532]
+## [§ 168. Repealed. Pub. L. 114–328, div. A, title XII, § 1253(a)(1)(A), Dec. 23, 2016, 130 Stat. 2532]
 
-Section, added Pub. L. 103–337, div. A, title XIII, § 1316(a)(1), Oct. 5, 1994, 108 Stat. 2898; amended Pub. L. 104–106, div. A, title IV, § 416, Feb. 10, 1996, 110 Stat. 289; Pub. L. 108–375, div. A, title IV, § 416(e), Oct. 28, 2004, 118 Stat. 1868; Pub. L. 110–181, div. A, title XII, § 1201, Jan. 28, 2008, 122 Stat. 363; Pub. L. 110–417, [div. A], title XII, § 1202(a), Oct. 14, 2008, 122 Stat. 4622, related to military-to-military contacts and comparable activities.
+Section, added Pub. L. 103–337, div. A, title XIII, § 1316(a)(1), Oct. 5, 1994, 108 Stat. 2898; amended Pub. L. 104–106, div. A, title IV, § 416, Feb. 10, 1996, 110 Stat. 289; Pub. L. 108–375, div. A, title IV, § 416(e), Oct. 28, 2004, 118 Stat. 1868; Pub. L. 110–181, div. A, title XII, § 1201, Jan. 28, 2008, 122 Stat. 363; Pub. L. 110–417, [div. A], title XII, § 1202(a), Oct. 14, 2008, 122 Stat. 4622, related to military-to-military contacts and comparable activities.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Update of Policy Guidance on Authority for Assignment of Civilian Employees of the Department of Defense as Advisors to Foreign Ministries of Defense and Regional Organizations**
 
-Pub. L. 113–291, div. A, title X, § 1047(b), Dec. 19, 2014, 128 Stat. 3495, required the Under Secretary of Defense for Policy to issue an update of the policy of the Department of Defense for assignment of civilian employees of the Department as advisors to foreign ministries of defense and regional organizations under the authority in section 1081 of Pub. L. 112–81, formerly set out as a note under this section.
+Pub. L. 113–291, div. A, title X, § 1047(b), Dec. 19, 2014, 128 Stat. 3495, required the Under Secretary of Defense for Policy to issue an update of the policy of the Department of Defense for assignment of civilian employees of the Department as advisors to foreign ministries of defense and regional organizations under the authority in section 1081 of Pub. L. 112–81, formerly set out as a note under this section.
 
-Pub. L. 113–66, div. A, title X, § 1094(a)(2), Dec. 26, 2013, 127 Stat. 878, required the Under Secretary of Defense for Policy to issue an update of the policy of the Department of Defense for assignment of civilian employees of the Department as advisors to foreign ministries of defense under the authority in section 1081 of Pub. L. 112–81, formerly set out as a note under this section.
+Pub. L. 113–66, div. A, title X, § 1094(a)(2), Dec. 26, 2013, 127 Stat. 878, required the Under Secretary of Defense for Policy to issue an update of the policy of the Department of Defense for assignment of civilian employees of the Department as advisors to foreign ministries of defense under the authority in section 1081 of Pub. L. 112–81, formerly set out as a note under this section.
 
 **Defense Institution Capacity Building Program**
 
-Pub. L. 112–81, div. A, title X, § 1081, Dec. 31, 2011, 125 Stat. 1599, as amended by Pub. L. 113–66, div. A, title X, § 1094(a)(1), (3)–(5), Dec. 26, 2013, 127 Stat. 878; Pub. L. 113–291, div. A, title X, § 1047(a), (c), Dec. 19, 2014, 128 Stat. 3494, 3495; Pub. L. 114–92, div. A, title X, § 1055(a)–(d)(1), Nov. 25, 2015, 129 Stat. 982, 983, which related to the Defense Institution Capacity Building Program, was repealed by Pub. L. 114–328, div. A, title XII, § 1241(c)(3), Dec. 23, 2016, 130 Stat. 2500.
+Pub. L. 112–81, div. A, title X, § 1081, Dec. 31, 2011, 125 Stat. 1599, as amended by Pub. L. 113–66, div. A, title X, § 1094(a)(1), (3)–(5), Dec. 26, 2013, 127 Stat. 878; Pub. L. 113–291, div. A, title X, § 1047(a), (c), Dec. 19, 2014, 128 Stat. 3494, 3495; Pub. L. 114–92, div. A, title X, § 1055(a)–(d)(1), Nov. 25, 2015, 129 Stat. 982, 983, which related to the Defense Institution Capacity Building Program, was repealed by Pub. L. 114–328, div. A, title XII, § 1241(c)(3), Dec. 23, 2016, 130 Stat. 2500.
 
 **Authority for Non-Reciprocal Exchanges of Defense Personnel Between the United States and Foreign Countries**
 
-Pub. L. 111–84, div. A, title XII, § 1207, Oct. 28, 2009, 123 Stat. 2514, as amended by Pub. L. 112–239, div. A, title XII, § 1202, Jan. 2, 2013, 126 Stat. 1980; Pub. L. 114–92, div. A, title XII, § 1204, Nov. 25, 2015, 129 Stat. 1039, which related to authority for non-reciprocal exchanges of defense personnel between the United States and foreign countries, was repealed by Pub. L. 114–328, div. A, title XII, § 1242(c)(2), Dec. 23, 2016, 130 Stat. 2513.
+Pub. L. 111–84, div. A, title XII, § 1207, Oct. 28, 2009, 123 Stat. 2514, as amended by Pub. L. 112–239, div. A, title XII, § 1202, Jan. 2, 2013, 126 Stat. 1980; Pub. L. 114–92, div. A, title XII, § 1204, Nov. 25, 2015, 129 Stat. 1039, which related to authority for non-reciprocal exchanges of defense personnel between the United States and foreign countries, was repealed by Pub. L. 114–328, div. A, title XII, § 1242(c)(2), Dec. 23, 2016, 130 Stat. 2513.
 
 **Agreements for Exchange of Defense Personnel Between United States and Foreign Countries**
 
-Pub. L. 104–201, div. A, title X, § 1082, Sept. 23, 1996, 110 Stat. 2672, which related to agreements for exchange of defense personnel between the United States and foreign countries, was repealed by Pub. L. 114–328, div. A, title XII, § 1242(c)(1), Dec. 23, 2016, 130 Stat. 2513. See section 311 of this title.
+Pub. L. 104–201, div. A, title X, § 1082, Sept. 23, 1996, 110 Stat. 2672, which related to agreements for exchange of defense personnel between the United States and foreign countries, was repealed by Pub. L. 114–328, div. A, title XII, § 1242(c)(1), Dec. 23, 2016, 130 Stat. 2513. See section 311 of this title.
 
-## [§ 169. Repealed. Pub. L. 116–92, div. A, title XVI, § 1601(a), Dec. 20, 2019, 133 Stat. 1722]
+## [§ 169. Repealed. Pub. L. 116–92, div. A, title XVI, § 1601(a), Dec. 20, 2019, 133 Stat. 1722]
 
-Section, added Pub. L. 115–232, div. A, title XVI, § 1601(a)(1), Aug. 13, 2018, 132 Stat. 2101, related to United States Space Command for carrying out joint space warfighting operations. See chapter 908 of this title.
+Section, added Pub. L. 115–232, div. A, title XVI, § 1601(a)(1), Aug. 13, 2018, 132 Stat. 2101, related to United States Space Command for carrying out joint space warfighting operations. See chapter 908 of this title.

@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle I—Patriotic and National Observances and Ceremonies / Part A—Observances and Ceremonies / CHAPTER 5—PRESIDENTIAL INAUGURAL CEREMONIES"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle I—Patriotic and National Observances and Ceremonies / Part A—Observances and Ceremonies / CHAPTER 5—PRESIDENTIAL INAUGURAL CEREMONIES"
 identifier: "/us/usc/t36/stI/ptA/ch5"
 type: code
 jurisdiction: us
@@ -11,7 +11,7 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle I—Patriotic and National Observances and Ceremonies › Part A—Observances and Ceremonies*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle I—Patriotic and National Observances and Ceremonies › Part A—Observances and Ceremonies*
 
 # CHAPTER 5—PRESIDENTIAL INAUGURAL CEREMONIES
 
@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2006—Pub. L. 109–284, § 5(1), (2), Sept. 27, 2006, 120 Stat. 1211, added item 510 and redesignated former item 510 as 511.
+2006—Pub. L. 109–284, § 5(1), (2), Sept. 27, 2006, 120 Stat. 1211, added item 510 and redesignated former item 510 as 511.
 
-## § 501. Definitions
+## § 501. Definitions
 
 For purposes of this chapter—
 
@@ -35,14 +35,14 @@ For purposes of this chapter—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 501 | 36:721(b). | Aug. 6, 1956, ch. 974, § 1(b), 70 Stat. 1049. |
-|  | 36:730. | Aug. 6, 1956, ch. 974, § 10, as added Jan. 30, 1968, Pub. L. 90–251, § 4, 82 Stat. 4. |
+| 501 | 36:721(b). | Aug. 6, 1956, ch. 974, § 1(b), 70 Stat. 1049. |
+|  | 36:730. | Aug. 6, 1956, ch. 974, § 10, as added Jan. 30, 1968, Pub. L. 90–251, § 4, 82 Stat. 4. |
 
 In this chapter, the word “Mayor” is substituted for “Commissioners” in the Presidential Inaugural Ceremonies Act (ch. 974, 70 Stat. 1049) [subsequently changed to “Commissioner” in 36:ch. 30 because section 401 of Reorganization Plan No. 3 of 1967 (5 App. U.S.C.) transferred the functions of the Board of Commissioners of the District of Columbia to the Commissioner of the District of Columbia and because of 36:730] because of sections 421 and 711 of the District of Columbia Self-Government and Governmental Reorganization Act (Public Law 93–198, 87 Stat. 789, 818), which abolished the office of Commissioner of the District of Columbia and replaced it with the office of Mayor of the District of Columbia.
 
 In this section, the text of 36:721(b)(3)–(5) is omitted because the complete names of the Mayor of the District of Columbia and the Secretaries of Defense and of the Interior are used the first time the terms appear in a section.
 
-## § 502. Regulations, licenses, and registration tags
+## § 502. Regulations, licenses, and registration tags
 
 **(a) Regulations and Licenses.—** For each inaugural period, the Council of the District of Columbia shall—
 
@@ -60,8 +60,8 @@ In this section, the text of 36:721(b)(3)–(5) is omitted because the complete 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 502(a) | 36:722(a). | Aug. 6, 1956, ch. 974, § 2, 70 Stat. 1049; Jan. 30, 1968, Pub. L. 90–251, § 1, 82 Stat. 4. |
-| 502(b) | 36:722(b). 36:730. | Aug. 6, 1956, ch. 974, § 10, as added Jan. 30, 1968, Pub. L. 90–251, § 4, 82 Stat. 4. |
+| 502(a) | 36:722(a). | Aug. 6, 1956, ch. 974, § 2, 70 Stat. 1049; Jan. 30, 1968, Pub. L. 90–251, § 1, 82 Stat. 4. |
+| 502(b) | 36:722(b). 36:730. | Aug. 6, 1956, ch. 974, § 10, as added Jan. 30, 1968, Pub. L. 90–251, § 4, 82 Stat. 4. |
 
 In this chapter, the words “Council of the District of Columbia” are substituted for “District of Columbia Council” because of sections 401 and 711 of the District of Columbia Self-Government and Governmental Reorganization Act (Public Law 93–198, 87 Stat. 785, 818).
 
@@ -69,9 +69,9 @@ In subsection (a)(2), the words “of whatever character or kind during such per
 
 In subsection (a)(3), the words “the privilege of”, “goods, wares, and”, and “in the District of Columbia” are omitted as unnecessary.
 
-In subsection (b), the words “both duly registered . . . and unregistered”, “a period”, and “the occasion of” are omitted as unnecessary.
+In subsection (b), the words “both duly registered . . . and unregistered”, “a period”, and “the occasion of” are omitted as unnecessary.
 
-## § 503. Use of reservations, grounds, and public spaces
+## § 503. Use of reservations, grounds, and public spaces
 
 **(a) Permit for Use.—** With the approval of the officer having jurisdiction over any of the Federal reservations or grounds in the District of Columbia, the Secretary of the Interior may grant to the Inaugural Committee a permit to use the reservations or grounds during the inaugural period, including a reasonable time before and after the inaugural period. The Mayor of the District of Columbia may grant a similar permit to use public space under the Mayor’s jurisdiction. Each permit granted under this subsection is subject to conditions the grantor of the permit prescribes.
 
@@ -87,8 +87,8 @@ In subsection (b), the words “both duly registered . . . and unregistered�
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 503(a) | 36:724 (1st, 2d sentences). | Aug. 6, 1956, ch. 974, § 4, 70 Stat. 1049. |
-|  | 36:730. | Aug. 6, 1956, ch. 974, § 10, as added Jan. 30, 1968, Pub. L. 90–251, § 4, 82 Stat. 4. |
+| 503(a) | 36:724 (1st, 2d sentences). | Aug. 6, 1956, ch. 974, § 4, 70 Stat. 1049. |
+|  | 36:730. | Aug. 6, 1956, ch. 974, § 10, as added Jan. 30, 1968, Pub. L. 90–251, § 4, 82 Stat. 4. |
 | 503(b) | 36:724 (3d sentence). 36:730. |  |
 | 503(c) | 36:724 (4th sentence). |  |
 | 503(d) | 36:724 (last sentence). |  |
@@ -99,7 +99,7 @@ In subsection (b), the words “With respect to public space”, “goods, wares
 
 In subsection (d), the words “department, agency, or instrumentality” are substituted for “agency” for consistency in the revised title and with other titles of the United States Code. The words “or agencies” are omitted because of 1:1.
 
-## § 504. Installation and removal of electrical facilities
+## § 504. Installation and removal of electrical facilities
 
 **(a) Installation.—** The Mayor of the District of Columbia may allow the Inaugural Committee to install suitable overhead conductors and electrical facilities, with adequate supports. The official in charge of a park or reservation in the District of Columbia in which it is necessary to place wires shall supervise the placing and removal of those wires.
 
@@ -113,8 +113,8 @@ In subsection (d), the words “department, agency, or instrumentality” are su
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 504(a) | 36:725 (1st, 2d sentences). | Aug. 6, 1956, ch. 974, § 5 (1st–3d, last sentences), 70 Stat. 1050. |
-|  | 36:730. | Aug. 6, 1956, ch. 974, § 10, as added Jan. 30, 1968, Pub. L. 90–251, § 4, 82 Stat. 4. |
+| 504(a) | 36:725 (1st, 2d sentences). | Aug. 6, 1956, ch. 974, § 5 (1st–3d, last sentences), 70 Stat. 1050. |
+|  | 36:730. | Aug. 6, 1956, ch. 974, § 10, as added Jan. 30, 1968, Pub. L. 90–251, § 4, 82 Stat. 4. |
 | 504(b) | 36:725 (3d sentence). |  |
 | 504(c) | 36:725 (last sentence). |  |
 
@@ -122,7 +122,7 @@ In subsection (a), the words “lighting or other” and “for illumination or 
 
 In subsection (c), the words “illumination or other” are omitted as unnecessary. The words “department, agency, or instrumentality” are substituted for “agency” for consistency in the revised title and with other titles of the United States Code. The words “or agencies” are omitted because of 1:1. The words “in connection with the installation, operation, or removal of a temporary overhead conductor or electrical facility” are added for clarity.
 
-## § 505. Extension of wires along parade routes
+## § 505. Extension of wires along parade routes
 
 The Mayor of the District of Columbia, the Secretary of the Interior, and the Inaugural Committee may allow communications companies to extend overhead wires to places along a parade route that are considered convenient for use in connection with the parade and other inaugural purposes. The wires shall be removed not later than 10 days after the inaugural period ends.
 
@@ -132,12 +132,12 @@ The Mayor of the District of Columbia, the Secretary of the Interior, and the In
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 505 | 36:727. | Aug. 6, 1956, ch. 974, § 7, 70 Stat. 1050. |
-|  | 36:730. | Aug. 6, 1956, ch. 974, § 10, as added Jan. 30, 1968, Pub. L. 90–251, § 4, 82 Stat. 4. |
+| 505 | 36:727. | Aug. 6, 1956, ch. 974, § 7, 70 Stat. 1050. |
+|  | 36:730. | Aug. 6, 1956, ch. 974, § 10, as added Jan. 30, 1968, Pub. L. 90–251, § 4, 82 Stat. 4. |
 
 The words “communications companies” are substituted for “telegraph, telephone, radio-broadcasting, and television companies” to eliminate unnecessary words.
 
-## § 506. Duration of regulations and licenses and publication of regulations
+## § 506. Duration of regulations and licenses and publication of regulations
 
 Regulations prescribed and licenses authorized under this chapter are effective only during the inaugural period. The regulations shall be published in at least one daily newspaper published in the District of Columbia. A penalty prescribed for violating such a regulation may not be enforced until 5 days after publication.
 
@@ -147,11 +147,11 @@ Regulations prescribed and licenses authorized under this chapter are effective 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 506 | 36:728 (1st, 2d sentences). | Aug. 6, 1956, ch. 974, § 8 (1st, 2d sentences), 70 Stat. 1051. |
+| 506 | 36:728 (1st, 2d sentences). | Aug. 6, 1956, ch. 974, § 8 (1st, 2d sentences), 70 Stat. 1051. |
 
 The words “full force and” are omitted as unnecessary.
 
-## § 507. Application to other property
+## § 507. Application to other property
 
 This chapter does not apply to the United States Capitol Buildings or Grounds or other property under the jurisdiction of Congress or a committee, commission, or officer of Congress. A service or facility authorized by or under this chapter is available for the property on request or approval of the joint committee of the Senate and House of Representatives appointed by the President of the Senate and the Speaker of the House of Representatives to arrange for the inauguration of the President-elect and the Vice President-elect.
 
@@ -161,9 +161,9 @@ This chapter does not apply to the United States Capitol Buildings or Grounds or
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 507 | 36:729. | Aug. 6, 1956, ch. 974, § 9, 70 Stat. 1051. |
+| 507 | 36:729. | Aug. 6, 1956, ch. 974, § 9, 70 Stat. 1051. |
 
-## § 508. Enforcement
+## § 508. Enforcement
 
 The Mayor of the District of Columbia, or other official having jurisdiction in the premises, shall enforce this chapter, take necessary precautions to protect the public, and ensure that the pavement of any street, sidewalk, avenue, or alley disturbed or damaged is restored to its prior condition.
 
@@ -173,10 +173,10 @@ The Mayor of the District of Columbia, or other official having jurisdiction in 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 508 | 36:725 (4th sentence). | Aug. 6, 1956, ch. 974, § 5 (4th sentence), 70 Stat. 1050. |
-|  | 36:730. | Aug. 6, 1956, ch. 974, § 10, as added Jan. 30, 1968, Pub. L. 90–251, § 4, 82 Stat. 4. |
+| 508 | 36:725 (4th sentence). | Aug. 6, 1956, ch. 974, § 5 (4th sentence), 70 Stat. 1050. |
+|  | 36:730. | Aug. 6, 1956, ch. 974, § 10, as added Jan. 30, 1968, Pub. L. 90–251, § 4, 82 Stat. 4. |
 
-## § 509. Penalty
+## § 509. Penalty
 
 A person violating a regulation prescribed under this chapter shall be fined under title 18 or imprisoned for not more than 30 days. A separate violation occurs under this section for each day the violation continues.
 
@@ -186,11 +186,11 @@ A person violating a regulation prescribed under this chapter shall be fined und
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 509 | 36:728 (3d, last sentences). | Aug. 6, 1956, ch. 974, § 8 (3d, last sentences), 70 Stat. 1051; Jan. 30, 1968, Pub. L. 90–251, § 3, 82 Stat. 4. |
+| 509 | 36:728 (3d, last sentences). | Aug. 6, 1956, ch. 974, § 8 (3d, last sentences), 70 Stat. 1051; Jan. 30, 1968, Pub. L. 90–251, § 3, 82 Stat. 4. |
 
 The words “by the Council of the District of Columbia” and “the authority of” are omitted as unnecessary. The words “under title 18” are substituted for “not more than $100” for consistency with title 18. The words “A separate violation occurs under this section for each day the violation continues” are substituted for 36:728 (last sentence) for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words.
 
-## § 510. Disclosure of and prohibition on certain donations
+## § 510. Disclosure of and prohibition on certain donations
 
 **(a) In General.—** A committee shall not be considered to be the Inaugural Committee for purposes of this chapter unless the committee agrees to, and meets, the requirements of subsections (b) and (c).
 
@@ -208,15 +208,15 @@ The words “by the Council of the District of Columbia” and “the authority 
 
 **(c) Limitation.—** The committee shall not accept any donation from a foreign national (as defined in section 319(b) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441e(b))).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Added Pub. L. 107–155, title III, § 308(a)(2), Mar. 27, 2002, 116 Stat. 103.)
+(Added Pub. L. 107–155, title III, § 308(a)(2), Mar. 27, 2002, 116 Stat. 103.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Election Campaign Act of 1971, referred to in subsec. (c), is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, which was formerly classified principally to chapter 14 (§ 431 et seq.) of Title 2, The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 301 (§ 30101 et seq.) of Title 52. Section 319 of this Act is classified to section 30121 of Title 52. For complete classification of this Act to the Code, see Tables.
+The Federal Election Campaign Act of 1971, referred to in subsec. (c), is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, which was formerly classified principally to chapter 14 (§ 431 et seq.) of Title 2, The Congress, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 301 (§ 30101 et seq.) of Title 52. Section 319 of this Act is classified to section 30121 of Title 52. For complete classification of this Act to the Code, see Tables.
 
 **Prior Provisions**
 
@@ -228,7 +228,7 @@ A prior section 510 was renumbered section 511 of this title.
 
 Section effective Nov. 6, 2002, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 30101 of Title 52, Voting and Elections.
 
-## § 511. Authorization of appropriations
+## § 511. Authorization of appropriations
 
 **(a) Authorization.—** Necessary amounts are authorized to be appropriated—
 
@@ -254,14 +254,14 @@ Section effective Nov. 6, 2002, see section 402 of Pub. L. 107–155, set out as
 
 **(2)** subsection (a)(2) of this section are payable in the same way as other appropriations for the expenses of the Department of the Interior.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1265, § 510; renumbered § 511, Pub. L. 107–155, title III, § 308(a)(1), Mar. 27, 2002, 116 Stat. 103.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1265, § 510; renumbered § 511, Pub. L. 107–155, title III, § 308(a)(1), Mar. 27, 2002, 116 Stat. 103.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 510(a) | 36:723 (less words between 1st and 2d commas and between next-to-last and last commas). | Aug. 6, 1956, ch. 974, § 3, 70 Stat. 1049; Jan. 30, 1968, Pub. L. 90–251, § 2, 82 Stat. 4. |
-|  | 36:730. | Aug. 6, 1956, ch. 974, § 10, as added Jan. 30, 1968, Pub. L. 90–251, § 4, 82 Stat. 4. |
+| 510(a) | 36:723 (less words between 1st and 2d commas and between next-to-last and last commas). | Aug. 6, 1956, ch. 974, § 3, 70 Stat. 1049; Jan. 30, 1968, Pub. L. 90–251, § 2, 82 Stat. 4. |
+|  | 36:730. | Aug. 6, 1956, ch. 974, § 10, as added Jan. 30, 1968, Pub. L. 90–251, § 4, 82 Stat. 4. |
 | 510(b) | 36:723 (words between 1st and 2d commas and between next-to-last and last commas). |  |
 
 In subsection (a)(1)(A), the words “chapters 33 and 51 and subchapter III of chapter 53 of title 5” are substituted for “the civil-service and classification laws” for clarity and consistency in the revised title and with other titles of the United States Code.

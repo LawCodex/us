@@ -15,23 +15,23 @@ retrieved: 2026-10-11
 
 # CHAPTER 24—VESSEL BRIDGE-TO-BRIDGE COMMUNICATION
 
-## § 1201. Statement of purpose
+## § 1201. Statement of purpose
 
 It is the purpose of this chapter to provide a positive means whereby the operators of approaching vessels can communicate their intentions to one another through voice radio, located convenient to the operator’s navigation station. To effectively accomplish this, there is need for a specific frequency or frequencies dedicated to the exchange of navigational information, on navigable waters of the United States.
 
-(Pub. L. 92–63, § 2, Aug. 4, 1971, 85 Stat. 164.)
+(Pub. L. 92–63, § 2, Aug. 4, 1971, 85 Stat. 164.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 92–63, § 1, Aug. 4, 1971, 85 Stat. 164, provided: “That this Act [enacting this chapter] may be cited as the ‘Vessel Bridge-to-Bridge Radiotelephone Act’.”
+Pub. L. 92–63, § 1, Aug. 4, 1971, 85 Stat. 164, provided: “That this Act [enacting this chapter] may be cited as the ‘Vessel Bridge-to-Bridge Radiotelephone Act’.”
 
 **Effective Date**
 
-Pub. L. 92–63, § 10, Aug. 4, 1971, 85 Stat. 165, provided that: “This Act [enacting this chapter] shall become effective May 1, 1971, or six months after the promulgation of regulations which would implement its provisions, whichever is later.” See 47 CFR 83.701 et seq.
+Pub. L. 92–63, § 10, Aug. 4, 1971, 85 Stat. 165, provided that: “This Act [enacting this chapter] shall become effective May 1, 1971, or six months after the promulgation of regulations which would implement its provisions, whichever is later.” See 47 CFR 83.701 et seq.
 
-## § 1202. Definitions
+## § 1202. Definitions
 
 For the purpose of this chapter—
 
@@ -41,7 +41,7 @@ For the purpose of this chapter—
 
 **(3)** “towing vessel” means any commercial vessel engaged in towing another vessel astern, alongside, or by pushing ahead.
 
-(Pub. L. 92–63, § 3, Aug. 4, 1971, 85 Stat. 164.)
+(Pub. L. 92–63, § 3, Aug. 4, 1971, 85 Stat. 164.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -53,7 +53,7 @@ Section effective May 1, 1971, or six months after the promulgation of regulatio
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 1203. Radiotelephone requirement
+## § 1203. Radiotelephone requirement
 
 **(a) Vessel coverage; exchange of navigational information** Except as provided in section 1206 of this title—
 
@@ -71,7 +71,7 @@ shall have a radiotelephone capable of operation from its navigational bridge or
 
 The radiotelephone required by subsection (a) shall be carried on board the described vessels, dredges, and floating plants upon the navigable waters of the United States, which includes all waters of the territorial sea of the United States as described in Presidential Proclamation 5928 of December 27, 1988.
 
-(Pub. L. 92–63, § 4, Aug. 4, 1971, 85 Stat. 164; Pub. L. 102–241, § 16, Dec. 19, 1991, 105 Stat. 2213; Pub. L. 104–324, title VII, § 704, Oct. 19, 1996, 110 Stat. 3933; Pub. L. 107–295, title III, § 321, Nov. 25, 2002, 116 Stat. 2103.)
+(Pub. L. 92–63, § 4, Aug. 4, 1971, 85 Stat. 164; Pub. L. 102–241, § 16, Dec. 19, 1991, 105 Stat. 2213; Pub. L. 104–324, title VII, § 704, Oct. 19, 1996, 110 Stat. 3933; Pub. L. 107–295, title III, § 321, Nov. 25, 2002, 116 Stat. 2103.)
 
 **Editorial Notes**
 
@@ -95,7 +95,7 @@ Section effective May 1, 1971, or six months after the promulgation of regulatio
 
 **Vessel Communication Equipment Regulations**
 
-Pub. L. 101–380, title IV, § 4118, Aug. 18, 1990, 104 Stat. 523, provided that:
+Pub. L. 101–380, title IV, § 4118, Aug. 18, 1990, 104 Stat. 523, provided that:
 
 > “The Secretary shall, not later than one year after the date of the enactment of this Act [Aug. 18, 1990], issue regulations necessary to ensure that vessels subject to the Vessel Bridge-to-Bridge Radiotelephone Act of 1971 (33 U.S.C. 1203) are also equipped as necessary to—
 
@@ -103,11 +103,11 @@ Pub. L. 101–380, title IV, § 4118, Aug. 18, 1990, 104 Stat. 523, provided t
 
 > **“(2)** engage in radio communications on designated frequencies with the Coast Guard, and such other vessels and stations as may be specified by the Secretary.”
 
-## § 1204. Radiotelephone for exclusive use of master, person in charge, or pilot; frequency listening watch; portable radiotelephone equipment
+## § 1204. Radiotelephone for exclusive use of master, person in charge, or pilot; frequency listening watch; portable radiotelephone equipment
 
 The radiotelephone required by this chapter is for the exclusive use of the master or person in charge of the vessel, or the person designated by the master or person in charge to pilot or direct the movement of the vessel, who shall maintain a listening watch on the designated frequency. Nothing contained herein shall be interpreted as precluding the use of portable radiotelephone equipment to satisfy the requirements of this chapter.
 
-(Pub. L. 92–63, § 5, Aug. 4, 1971, 85 Stat. 165.)
+(Pub. L. 92–63, § 5, Aug. 4, 1971, 85 Stat. 165.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -115,11 +115,11 @@ The radiotelephone required by this chapter is for the exclusive use of the mast
 
 Section effective May 1, 1971, or six months after the promulgation of regulations which would implement its provisions, whichever is later, see section 10 of Pub. L. 92–63, set out as a note under section 1201 of this title.
 
-## § 1205. Radiotelephone capability; maintenance; restoration; consequences of loss: navigation of vessel
+## § 1205. Radiotelephone capability; maintenance; restoration; consequences of loss: navigation of vessel
 
 Whenever radiotelephone capability is required by this chapter, a vessel’s radiotelephone equipment shall be maintained in effective operating condition. If the radiotelephone equipment carried aboard a vessel ceases to operate, the master shall exercise due diligence to restore it or cause it to be restored to effective operating condition at the earliest practicable time. The failure of a vessel’s radiotelephone equipment shall not, in itself, constitute a violation of this chapter, nor shall it obligate the master of any vessel to moor or anchor his vessel; however, the loss of radiotelephone capability shall be given consideration in the navigation of the vessel.
 
-(Pub. L. 92–63, § 6, Aug. 4, 1971, 85 Stat. 165.)
+(Pub. L. 92–63, § 6, Aug. 4, 1971, 85 Stat. 165.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -127,11 +127,11 @@ Whenever radiotelephone capability is required by this chapter, a vessel’s rad
 
 Section effective May 1, 1971, or six months after the promulgation of regulations which would implement its provisions, whichever is later, see section 10 of Pub. L. 92–63, set out as a note under section 1201 of this title.
 
-## § 1206. Exemptions; terms and conditions
+## § 1206. Exemptions; terms and conditions
 
 The Secretary may, if he considers that marine navigational safety will not be adversely affected or where a local communication system fully complies with the intent of this concept but does not conform in detail, issue exemptions from any provisions of this chapter, on such terms and conditions as he considers appropriate.
 
-(Pub. L. 92–63, § 7, Aug. 4, 1971, 85 Stat. 165.)
+(Pub. L. 92–63, § 7, Aug. 4, 1971, 85 Stat. 165.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -139,7 +139,7 @@ The Secretary may, if he considers that marine navigational safety will not be a
 
 Section effective May 1, 1971, or six months after the promulgation of regulations which would implement its provisions, whichever is later, see section 10 of Pub. L. 92–63, set out as a note under section 1201 of this title.
 
-## § 1207. Regulations
+## § 1207. Regulations
 
 **(a) Operating and technical conditions and characteristics; frequencies, emission, and power of radiotelephone equipment**
 
@@ -149,7 +149,7 @@ The Federal Communications Commission shall, after consultation with other cogni
 
 The Secretary shall, subject to the concurrence of the Federal Communications Commission, prescribe regulations for the enforcement of this chapter.
 
-(Pub. L. 92–63, § 8, Aug. 4, 1971, 85 Stat. 165.)
+(Pub. L. 92–63, § 8, Aug. 4, 1971, 85 Stat. 165.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -157,7 +157,7 @@ The Secretary shall, subject to the concurrence of the Federal Communications Co
 
 Section effective May 1, 1971, or six months after the promulgation of regulations which would implement its provisions, whichever is later, see section 10 of Pub. L. 92–63, set out as a note under section 1201 of this title.
 
-## § 1208. Penalties
+## § 1208. Penalties
 
 **(a) Master, person in charge, or pilot subject to penalty**
 
@@ -175,7 +175,7 @@ Every vessel navigating in violation of this chapter or the regulations hereunde
 
 Any penalty assessed under this section may be remitted or mitigated by the Secretary upon such terms as he may deem proper.
 
-(Pub. L. 92–63, § 9, Aug. 4, 1971, 85 Stat. 165.)
+(Pub. L. 92–63, § 9, Aug. 4, 1971, 85 Stat. 165.)
 
 **Statutory Notes and Related Subsidiaries**
 

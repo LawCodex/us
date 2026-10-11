@@ -21,29 +21,29 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2004—Pub. L. 108–357, title VIII, § 867(b)(2), Oct. 22, 2004, 118 Stat. 1622, struck out item 6156 “Installment payments of tax on use of highway motor vehicles”.
+2004—Pub. L. 108–357, title VIII, § 867(b)(2), Oct. 22, 2004, 118 Stat. 1622, struck out item 6156 “Installment payments of tax on use of highway motor vehicles”.
 
-1990—Pub. L. 101–508, title XI, § 11801(b)(13), Nov. 5, 1990, 104 Stat. 1388–522, struck out item 6158 “Installment payment of tax attributable to divestitures pursuant to Bank Holding Company Act Amendments of 1970”.
+1990—Pub. L. 101–508, title XI, § 11801(b)(13), Nov. 5, 1990, 104 Stat. 1388–522, struck out item 6158 “Installment payment of tax attributable to divestitures pursuant to Bank Holding Company Act Amendments of 1970”.
 
-1988—Pub. L. 100–647, title VI, § 6234(b)(2), Nov. 10, 1988, 102 Stat. 3736, added item 6159.
+1988—Pub. L. 100–647, title VI, § 6234(b)(2), Nov. 10, 1988, 102 Stat. 3736, added item 6159.
 
-1987—Pub. L. 100–203, title X, § 10301(b)(7), Dec. 22, 1987, 101 Stat. 1330–429, struck out item 6154 “Installment payments of estimated income tax by corporations”.
+1987—Pub. L. 100–203, title X, § 10301(b)(7), Dec. 22, 1987, 101 Stat. 1330–429, struck out item 6154 “Installment payments of estimated income tax by corporations”.
 
-1986—Pub. L. 99–514, title XIV, § 1404(c)(4), Oct. 22, 1986, 100 Stat. 2714, struck out item 6152 “Installment payments”.
+1986—Pub. L. 99–514, title XIV, § 1404(c)(4), Oct. 22, 1986, 100 Stat. 2714, struck out item 6152 “Installment payments”.
 
-1984—Pub. L. 98–369, div. A, title IV, § 412(c)(3), July 18, 1984, 98 Stat. 793, struck out item 6153 “Installment payments of estimated income tax by individuals”.
+1984—Pub. L. 98–369, div. A, title IV, § 412(c)(3), July 18, 1984, 98 Stat. 793, struck out item 6153 “Installment payments of estimated income tax by individuals”.
 
-1982—Pub. L. 97–248, title II, § 280(c)(2)(F), Sept. 3, 1982, 96 Stat. 564, struck out “and civil aircraft” after “motor vehicles” in item 6156.
+1982—Pub. L. 97–248, title II, § 280(c)(2)(F), Sept. 3, 1982, 96 Stat. 564, struck out “and civil aircraft” after “motor vehicles” in item 6156.
 
-1976—Pub. L. 94–452, § 3(c)(1), Oct. 2, 1976, 90 Stat. 1514, added item 6158.
+1976—Pub. L. 94–452, § 3(c)(1), Oct. 2, 1976, 90 Stat. 1514, added item 6158.
 
-1970—Pub. L. 91–258, title II, § 206(d)(3), May 21, 1970, 84 Stat. 246, inserted “and civil aircraft” in item 6156.
+1970—Pub. L. 91–258, title II, § 206(d)(3), May 21, 1970, 84 Stat. 246, inserted “and civil aircraft” in item 6156.
 
-1969—Pub. L. 91–53, § 2(f)(1), Aug. 7, 1969, 83 Stat. 93, substituted “Payment of Federal unemployment tax on quarterly or other time period basis” for “Payment of taxes under provisions of the Tariff Act” in item 6157.
+1969—Pub. L. 91–53, § 2(f)(1), Aug. 7, 1969, 83 Stat. 93, substituted “Payment of Federal unemployment tax on quarterly or other time period basis” for “Payment of taxes under provisions of the Tariff Act” in item 6157.
 
-1961—Pub. L. 87–61, title II, § 203(c)(3), June 29, 1961, 75 Stat. 126, added item 6156 and redesignated former item 6156 as 6157.
+1961—Pub. L. 87–61, title II, § 203(c)(3), June 29, 1961, 75 Stat. 126, added item 6156 and redesignated former item 6156 as 6157.
 
-### § 6151. Time and place for paying tax shown on returns
+### § 6151. Time and place for paying tax shown on returns
 
 **(a) General rule**
 
@@ -63,7 +63,7 @@ For authority of the Secretary to require payments to Government depositaries, s
 
 In any case in which a tax is required to be paid on or before a certain date, or within a certain period, any reference in this title to the date fixed for payment of such tax shall be deemed a reference to the last day fixed for such payment (determined without regard to any extension of time for paying the tax).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 757; Pub. L. 89–713, § 1(b), Nov. 2, 1966, 80 Stat. 1108; Pub. L. 94–452, § 3(c)(2), Oct. 2, 1976, 90 Stat. 1514; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 757; Pub. L. 89–713, § 1(b), Nov. 2, 1966, 80 Stat. 1108; Pub. L. 94–452, § 3(c)(2), Oct. 2, 1976, 90 Stat. 1514; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -79,7 +79,7 @@ Subsec. (a). Pub. L. 94–452 substituted “subchapter,” for “section,”.
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–452, § 3(e), Oct. 2, 1976, 90 Stat. 1514, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–452, § 3(e), Oct. 2, 1976, 90 Stat. 1514, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) In general.—** The amendments made by this section [enacting section 6158 of this title and amending this section and sections 6503 and 6601 of this title] shall take effect on October 1, 1977, with respect to sales after July 7, 1970, in taxable years ending after July 7, 1970, but only in the case of qualified bank holding corporations (within the meaning of section 1103(b) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], as amended by section 2(a) of this Act).
 
@@ -103,9 +103,9 @@ Pub. L. 94–452, § 3(e), Oct. 2, 1976, 90 Stat. 1514, as amended by Pub. L. 
 
 Amendment by Pub. L. 89–713 effective Nov. 2, 1966, see section 6 of Pub. L. 89–713, set out as a note under section 6091 of this title.
 
-### [§ 6152. Repealed. Pub. L. 99–514, title XIV, § 1404(c)(1), Oct. 22, 1986, 100 Stat. 2714]
+### [§ 6152. Repealed. Pub. L. 99–514, title XIV, § 1404(c)(1), Oct. 22, 1986, 100 Stat. 2714]
 
-Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 757; Sept. 1, 1954, ch. 1212, § 3, 68 Stat. 1130; Oct. 4, 1976, Pub. L. 94–455, title XIX, § 1906(a)(9), (b)(13)(A), 90 Stat. 1824, 1834; Sept. 3, 1982, Pub. L. 97–248, title II, § 234(b)(1), 96 Stat. 503, related to installment payments of taxes.
+Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 757; Sept. 1, 1954, ch. 1212, § 3, 68 Stat. 1130; Oct. 4, 1976, Pub. L. 94–455, title XIX, § 1906(a)(9), (b)(13)(A), 90 Stat. 1824, 1834; Sept. 3, 1982, Pub. L. 97–248, title II, § 234(b)(1), 96 Stat. 503, related to installment payments of taxes.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -113,9 +113,9 @@ Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 757; Sept. 1, 1954, ch. 1212, §
 
 Repeal applicable to taxable years beginning after Dec. 31, 1986, see section 1404(d) of Pub. L. 99–514, set out as an Effective Date of 1986 Amendment note under section 643 of this title.
 
-### [§ 6153. Repealed. Pub. L. 98–369, div. A, title IV, § 412(a)(3), July 18, 1984, 98 Stat. 792]
+### [§ 6153. Repealed. Pub. L. 98–369, div. A, title IV, § 412(a)(3), July 18, 1984, 98 Stat. 792]
 
-Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 758; Sept. 25, 1962, Pub. L. 87–682, § 1(a)(3), (c), 76 Stat. 575; Dec. 23, 1975, Pub. L. 94–164, § 5(b), 89 Stat. 975; June 30, 1976, Pub. L. 94–331, § 3(b), 90 Stat. 782; Sept. 3, 1976, Pub. L. 94–396, § 2(a)(2), 90 Stat. 1201; Sept. 17, 1976, Pub. L. 94–414, § 3(b), 90 Stat. 1273; Oct. 4, 1976, Pub. L. 94–455, title XIX, § 1906(b)(13)(A), 90 Stat. 1834; Aug. 13, 1981, Pub. L. 97–34, title VII, § 725(c)(3), 95 Stat. 346; Sept. 3, 1982, Pub. L. 97–248, title III, § 328(b)(3), 96 Stat. 618, related to installment payments of estimated income tax by individuals.
+Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 758; Sept. 25, 1962, Pub. L. 87–682, § 1(a)(3), (c), 76 Stat. 575; Dec. 23, 1975, Pub. L. 94–164, § 5(b), 89 Stat. 975; June 30, 1976, Pub. L. 94–331, § 3(b), 90 Stat. 782; Sept. 3, 1976, Pub. L. 94–396, § 2(a)(2), 90 Stat. 1201; Sept. 17, 1976, Pub. L. 94–414, § 3(b), 90 Stat. 1273; Oct. 4, 1976, Pub. L. 94–455, title XIX, § 1906(b)(13)(A), 90 Stat. 1834; Aug. 13, 1981, Pub. L. 97–34, title VII, § 725(c)(3), 95 Stat. 346; Sept. 3, 1982, Pub. L. 97–248, title III, § 328(b)(3), 96 Stat. 618, related to installment payments of estimated income tax by individuals.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -123,9 +123,9 @@ Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 758; Sept. 25, 1962, Pub. L. 87�
 
 Repeal applicable with respect to taxable years beginning after Dec. 31, 1984, see section 414(a)(1) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 6654 of this title.
 
-### [§ 6154. Repealed. Pub. L. 100–203, title X, § 10301(b)(1), Dec. 22, 1987, 101 Stat. 1330–429]
+### [§ 6154. Repealed. Pub. L. 100–203, title X, § 10301(b)(1), Dec. 22, 1987, 101 Stat. 1330–429]
 
-Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 760; Feb. 26, 1964, Pub. L. 88–272, title I, § 122(a), 78 Stat. 25; Mar. 15, 1966, Pub. L. 89–368, title I, § 104(a), 80 Stat. 64; June 28, 1968, Pub. L. 90–364, title I, § 103(b), 82 Stat. 260; Dec. 23, 1975, Pub. L. 94–164, § 5(c), 89 Stat. 975; June 30, 1976, Pub. L. 94–331, § 3(c), 90 Stat. 782; Sept. 3, 1976, Pub. L. 94–396, § 2(a)(3), 90 Stat. 1201; Sept. 17, 1976, Pub. L. 94–414, § 3(c), 90 Stat. 1273; Oct. 4, 1976, Pub. L. 94–455, title IX, § 901(c)(3), title XIX, § 1906(a)(10), (b)(13)(A), 90 Stat. 1607, 1825, 1834; Nov. 6, 1978, Pub. L. 95–600, title III, § 301(b)(20)(A), 92 Stat. 2823; Jan. 12, 1983, Pub. L. 97–448, title II, § 201(j)(2), 96 Stat. 2396; Oct. 17, 1986, Pub. L. 99–499, title V, § 516(b)(4)(A), 100 Stat. 1771; Oct. 22, 1986, Pub. L. 99–514, title VII, § 701(d)(1), title XV, § 1542(a), 100 Stat. 2341, 2751; Nov. 10, 1988, Pub. L. 100–647, title I, §§ 1007(g)(10), 1015(h), 102 Stat. 3435, 3571, related to installment payments of estimated income tax by corporations.
+Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 760; Feb. 26, 1964, Pub. L. 88–272, title I, § 122(a), 78 Stat. 25; Mar. 15, 1966, Pub. L. 89–368, title I, § 104(a), 80 Stat. 64; June 28, 1968, Pub. L. 90–364, title I, § 103(b), 82 Stat. 260; Dec. 23, 1975, Pub. L. 94–164, § 5(c), 89 Stat. 975; June 30, 1976, Pub. L. 94–331, § 3(c), 90 Stat. 782; Sept. 3, 1976, Pub. L. 94–396, § 2(a)(3), 90 Stat. 1201; Sept. 17, 1976, Pub. L. 94–414, § 3(c), 90 Stat. 1273; Oct. 4, 1976, Pub. L. 94–455, title IX, § 901(c)(3), title XIX, § 1906(a)(10), (b)(13)(A), 90 Stat. 1607, 1825, 1834; Nov. 6, 1978, Pub. L. 95–600, title III, § 301(b)(20)(A), 92 Stat. 2823; Jan. 12, 1983, Pub. L. 97–448, title II, § 201(j)(2), 96 Stat. 2396; Oct. 17, 1986, Pub. L. 99–499, title V, § 516(b)(4)(A), 100 Stat. 1771; Oct. 22, 1986, Pub. L. 99–514, title VII, § 701(d)(1), title XV, § 1542(a), 100 Stat. 2341, 2751; Nov. 10, 1988, Pub. L. 100–647, title I, §§ 1007(g)(10), 1015(h), 102 Stat. 3435, 3571, related to installment payments of estimated income tax by corporations.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -133,7 +133,7 @@ Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 760; Feb. 26, 1964, Pub. L. 88�
 
 Repeal applicable to taxable years beginning after Dec. 31, 1987, see section 10301(c) of Pub. L. 100–203, set out as an Effective Date of 1987 Amendment note under section 585 of this title.
 
-### § 6155. Payment on notice and demand
+### § 6155. Payment on notice and demand
 
 **(a) General rule**
 
@@ -147,7 +147,7 @@ Upon receipt of notice and demand from the Secretary, there shall be paid at the
 
 **(3)** For provisions relating to jeopardy assessments, see subchapter A of chapter 70.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 760; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, § 6(i)(7), Dec. 24, 1980, 94 Stat. 3410.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 760; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, § 6(i)(7), Dec. 24, 1980, 94 Stat. 3410.)
 
 **Editorial Notes**
 
@@ -163,11 +163,11 @@ Upon receipt of notice and demand from the Secretary, there shall be paid at the
 
 Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedings under Title 11, Bankruptcy, commenced before Oct. 1, 1979, see section 7(e) of Pub. L. 96–589, set out as a note under section 108 of this title.
 
-### [§ 6156. Repealed. Pub. L. 108–357, title VIII, § 867(b)(1), Oct. 22, 2004, 118 Stat. 1622]
+### [§ 6156. Repealed. Pub. L. 108–357, title VIII, § 867(b)(1), Oct. 22, 2004, 118 Stat. 1622]
 
-Section, added Pub. L. 87–61, title II, § 203(c)(1), June 29, 1961, 75 Stat. 125; amended Pub. L. 91–258, title II, § 206(b), (d)(2), May 21, 1970, 84 Stat. 245, 246; Pub. L. 91–605, title III, § 303(a)(10), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, § 303(a)(10), May 5, 1976, 90 Stat. 456; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–599, title V, § 502(a)(9), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 97–248, title II, § 280(c)(2)(C)–(E), Sept. 3, 1982, 96 Stat. 564; Pub. L. 97–424, title V, § 516(a)(6), Jan. 6, 1983, 96 Stat. 2183; Pub. L. 100–17, title V, § 502(d)(2), Apr. 2, 1987, 101 Stat. 257; Pub. L. 101–508, title XI, § 11211(f)(2), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, § 8002(c)(2), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–178, title IX, § 9002(a)(2)(B), June 9, 1998, 112 Stat. 500, related to installment payments of tax on use of highway motor vehicles.
+Section, added Pub. L. 87–61, title II, § 203(c)(1), June 29, 1961, 75 Stat. 125; amended Pub. L. 91–258, title II, § 206(b), (d)(2), May 21, 1970, 84 Stat. 245, 246; Pub. L. 91–605, title III, § 303(a)(10), Dec. 31, 1970, 84 Stat. 1744; Pub. L. 94–280, title III, § 303(a)(10), May 5, 1976, 90 Stat. 456; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–599, title V, § 502(a)(9), Nov. 6, 1978, 92 Stat. 2756; Pub. L. 97–248, title II, § 280(c)(2)(C)–(E), Sept. 3, 1982, 96 Stat. 564; Pub. L. 97–424, title V, § 516(a)(6), Jan. 6, 1983, 96 Stat. 2183; Pub. L. 100–17, title V, § 502(d)(2), Apr. 2, 1987, 101 Stat. 257; Pub. L. 101–508, title XI, § 11211(f)(2), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, § 8002(c)(2), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 105–178, title IX, § 9002(a)(2)(B), June 9, 1998, 112 Stat. 500, related to installment payments of tax on use of highway motor vehicles.
 
-A prior section 6156 was renumbered section 6157 of this title, prior to repeal by Pub. L. 91–53, § 2(a), Aug. 7, 1969, 83 Stat. 91.
+A prior section 6156 was renumbered section 6157 of this title, prior to repeal by Pub. L. 91–53, § 2(a), Aug. 7, 1969, 83 Stat. 91.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -175,7 +175,7 @@ A prior section 6156 was renumbered section 6157 of this title, prior to repeal 
 
 Repeal applicable to taxable periods beginning after Oct. 22, 2004, see section 867(e) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendment note under section 4481 of this title.
 
-### § 6157. Payment of Federal unemployment tax on quarterly or other time period basis
+### § 6157. Payment of Federal unemployment tax on quarterly or other time period basis
 
 **(a) General rule** Every person who for the calendar year is an employer (as defined in section 3306(a)) shall—
 
@@ -197,13 +197,13 @@ The tax for any calendar quarter or other period referred to in paragraph (1) or
 
 Nothing in this section shall require the payment of tax with respect to any calendar quarter or other period if the tax under section 3301 for such period, plus any unpaid amounts for prior periods in the calendar year, does not exceed $100.
 
-(Added Pub. L. 91–53, § 2(a), Aug. 7, 1969, 83 Stat. 91; amended Pub. L. 91–373, title I, § 101(b)(1), (2), Aug. 10, 1970, 84 Stat. 696; Pub. L. 92–329, § 2(b), June 30, 1972, 86 Stat. 398; Pub. L. 94–455, title XIX, § 1906(a)(11), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1825, 1834; Pub. L. 94–566, title I, § 114(b), title II, § 211(e)(3) [(c)(3)], Oct. 20, 1976, 90 Stat. 2669, 2677; Pub. L. 97–248, title II, § 271(b)(2)(C), (c)(3)(C), Sept. 3, 1982, 96 Stat. 555; Pub. L. 98–76, title II, § 231(b)(1), Aug. 12, 1983, 97 Stat. 428; Pub. L. 100–647, title VII, § 7106(c)(1), Nov. 10, 1988, 102 Stat. 3773; Pub. L. 101–239, title VII, § 7841(d)(12), Dec. 19, 1989, 103 Stat. 2428.)
+(Added Pub. L. 91–53, § 2(a), Aug. 7, 1969, 83 Stat. 91; amended Pub. L. 91–373, title I, § 101(b)(1), (2), Aug. 10, 1970, 84 Stat. 696; Pub. L. 92–329, § 2(b), June 30, 1972, 86 Stat. 398; Pub. L. 94–455, title XIX, § 1906(a)(11), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1825, 1834; Pub. L. 94–566, title I, § 114(b), title II, § 211(e)(3) [(c)(3)], Oct. 20, 1976, 90 Stat. 2669, 2677; Pub. L. 97–248, title II, § 271(b)(2)(C), (c)(3)(C), Sept. 3, 1982, 96 Stat. 555; Pub. L. 98–76, title II, § 231(b)(1), Aug. 12, 1983, 97 Stat. 428; Pub. L. 100–647, title VII, § 7106(c)(1), Nov. 10, 1988, 102 Stat. 3773; Pub. L. 101–239, title VII, § 7841(d)(12), Dec. 19, 1989, 103 Stat. 2428.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 6157, act Aug. 16, 1954, ch. 736, 68A Stat. 761, § 6156; renumbered § 6157, June 29, 1961, Pub. L. 87–61, title II, § 203(c)(1), 75 Stat. 125, made a cross reference provision for payment of taxes under provisions of the Tariff Act, prior to repeal by Pub. L. 91–53, § 2(a), Aug. 7, 1969, 83 Stat. 91.
+A prior section 6157, act Aug. 16, 1954, ch. 736, 68A Stat. 761, § 6156; renumbered § 6157, June 29, 1961, Pub. L. 87–61, title II, § 203(c)(1), 75 Stat. 125, made a cross reference provision for payment of taxes under provisions of the Tariff Act, prior to repeal by Pub. L. 91–53, § 2(a), Aug. 7, 1969, 83 Stat. 91.
 
 **Amendments**
 
@@ -213,23 +213,23 @@ A prior section 6157, act Aug. 16, 1954, ch. 736, 68A Stat. 761, § 6156; renu
 
 1983—Subsec. (d). Pub. L. 98–76 added subsec. (d).
 
-1982—Subsec. (b). Pub. L. 97–248, § 271(c)(3)(C), substituted “0.6” for “0.5” in two places.
+1982—Subsec. (b). Pub. L. 97–248, § 271(c)(3)(C), substituted “0.6” for “0.5” in two places.
 
-Pub. L. 97–248, § 271(b)(2)(C), substituted “0.8” for “0.7”.
+Pub. L. 97–248, § 271(b)(2)(C), substituted “0.8” for “0.7”.
 
-1976—Subsec. (a). Pub. L. 94–566, § 114(b), amended subsec. (a) generally, changing the general rule covering payment of Federal unemployment tax on a quarterly or other time period basis to conform to the altered definitions of employment and wages pertaining to domestic and agricultural service in section 3306 of this title.
+1976—Subsec. (a). Pub. L. 94–566, § 114(b), amended subsec. (a) generally, changing the general rule covering payment of Federal unemployment tax on a quarterly or other time period basis to conform to the altered definitions of employment and wages pertaining to domestic and agricultural service in section 3306 of this title.
 
-Pub. L. 94–455, § 1906(a)(11)(B), (b)(13)(A), substituted “subsection (c)” for “subsections (c) and (d)” and struck out “or his delegate” after “Secretary”.
+Pub. L. 94–455, § 1906(a)(11)(B), (b)(13)(A), substituted “subsection (c)” for “subsections (c) and (d)” and struck out “or his delegate” after “Secretary”.
 
-Subsec. (b). Pub. L. 94–566, § 211(e)(3) [(c)(3)], substituted “In the case of wages paid in any calendar quarter or other period during a calendar year to which paragraph (1) of section 3301 applies, the amount of such wages shall be multiplied by 0.7 percent in lieu of 0.5 percent” for “In the case of wages paid in any calendar quarter or other period during 1973, the amount of such wages shall be multiplied by 0.58 percent in lieu of 0.5 percent”.
+Subsec. (b). Pub. L. 94–566, § 211(e)(3) [(c)(3)], substituted “In the case of wages paid in any calendar quarter or other period during a calendar year to which paragraph (1) of section 3301 applies, the amount of such wages shall be multiplied by 0.7 percent in lieu of 0.5 percent” for “In the case of wages paid in any calendar quarter or other period during 1973, the amount of such wages shall be multiplied by 0.58 percent in lieu of 0.5 percent”.
 
-Subsecs. (c), (d). Pub. L. 94–455, § 1906(a)(11)(A), redesignated subsec. (d) as (c). Former subsec. (c), which related to the percentage reduction for 1970 and 1971 of the tax computed in subsec. (b), was struck out.
+Subsecs. (c), (d). Pub. L. 94–455, § 1906(a)(11)(A), redesignated subsec. (d) as (c). Former subsec. (c), which related to the percentage reduction for 1970 and 1971 of the tax computed in subsec. (b), was struck out.
 
 1972—Subsec. (b). Pub. L. 92–329 inserted provisions setting forth the computation of tax in the case of wages paid in any calendar quarter or other period during 1973.
 
-1970—Subsec. (a)(1). Pub. L. 91–373, § 101(b)(1), reduced from 4 to 1 the number of individuals which a person had to employ on each of some 20 days during the preceding calendar year and inserted provision covering persons who, during any calendar quarter in the preceding calendar year, paid wages of $1,500 or more.
+1970—Subsec. (a)(1). Pub. L. 91–373, § 101(b)(1), reduced from 4 to 1 the number of individuals which a person had to employ on each of some 20 days during the preceding calendar year and inserted provision covering persons who, during any calendar quarter in the preceding calendar year, paid wages of $1,500 or more.
 
-Subsec. (b). Pub. L. 91–373, § 101(b)(2), substituted “0.5 percent” for “the number of percentage points (including fractional points) by which the rate of tax specified in section 3301 exceeds .7 percent”. be the date on which payment would have been required if such remainder had been the tax.
+Subsec. (b). Pub. L. 91–373, § 101(b)(2), substituted “0.5 percent” for “the number of percentage points (including fractional points) by which the rate of tax specified in section 3301 exceeds .7 percent”. be the date on which payment would have been required if such remainder had been the tax.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -257,15 +257,15 @@ Amendment by section 211(e)(3) of Pub. L. 94–566 effective Oct. 20, 1976, see 
 
 Amendment by section 101(b)(1) of Pub. L. 91–373 applicable with respect to calendar years beginning after Dec. 31, 1971, see section 101(c)(1) of Pub. L. 91–373, set out as a note under section 3306 of this title.
 
-Pub. L. 91–373, title I, § 101(c)(2), Aug. 10, 1970, 84 Stat. 696, provided that: “The amendment made by subsection (b)(2) [amending this section] shall apply with respect to calendar years beginning after December 31, 1969.”
+Pub. L. 91–373, title I, § 101(c)(2), Aug. 10, 1970, 84 Stat. 696, provided that: “The amendment made by subsection (b)(2) [amending this section] shall apply with respect to calendar years beginning after December 31, 1969.”
 
 **Effective Date**
 
-Pub. L. 91–53, § 4(a), Aug. 7, 1969, 83 Stat. 93, provided that: “The amendments made by the first two sections of this Act [enacting section 6317 and amending this section and sections 3306, 6201, 6513, and 6601 of this title] shall apply with respect to calendar years beginning after December 31, 1969.”
+Pub. L. 91–53, § 4(a), Aug. 7, 1969, 83 Stat. 93, provided that: “The amendments made by the first two sections of this Act [enacting section 6317 and amending this section and sections 3306, 6201, 6513, and 6601 of this title] shall apply with respect to calendar years beginning after December 31, 1969.”
 
 **Extension of Time for Payment of Additional FUTA Taxes**
 
-Pub. L. 102–244, § 4, Feb. 7, 1992, 106 Stat. 4, provided that:
+Pub. L. 102–244, § 4, Feb. 7, 1992, 106 Stat. 4, provided that:
 
 > **“(a) In General.—** Notwithstanding any other provision of law, if a qualified taxpayer is required to pay additional taxes for taxable years beginning in 1991 with respect to any employment in any State by reason of such State being declared a credit reduction State, such taxpayer may elect to defer the filing and payment of such additional taxes to a date no later than June 30, 1992.
 
@@ -285,11 +285,11 @@ Pub. L. 102–244, § 4, Feb. 7, 1992, 106 Stat. 4, provided that:
 
 **Wages Paid in 1970 Calendar Quarters Ending Before August 10, 1970**
 
-Pub. L. 91–373, title III, § 301(b), Aug. 10, 1970, 84 Stat. 713, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of section 6157 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to payment of Federal unemployment tax on quarterly or other time period basis), in computing tax as required by subsections (a)(1) and (2) of such section, the percentage contained in subsection (b) of such section applicable with respect to wages paid in any calendar quarter in 1970 ending before the date of the enactment of this Act [Aug. 10, 1970] shall be treated as being 0.4 percent.”
+Pub. L. 91–373, title III, § 301(b), Aug. 10, 1970, 84 Stat. 713, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of section 6157 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to payment of Federal unemployment tax on quarterly or other time period basis), in computing tax as required by subsections (a)(1) and (2) of such section, the percentage contained in subsection (b) of such section applicable with respect to wages paid in any calendar quarter in 1970 ending before the date of the enactment of this Act [Aug. 10, 1970] shall be treated as being 0.4 percent.”
 
-### [§ 6158. Repealed. Pub. L. 101–508, title XI, § 11801(a)(44), Nov. 5, 1990, 104 Stat. 1388–521]
+### [§ 6158. Repealed. Pub. L. 101–508, title XI, § 11801(a)(44), Nov. 5, 1990, 104 Stat. 1388–521]
 
-Section, added Pub. L. 94–452, § 3(a), Oct. 2, 1976, 90 Stat. 1512; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to installment payment of tax attributable to divestitures pursuant to Bank Holding Company Act Amendments of 1970.
+Section, added Pub. L. 94–452, § 3(a), Oct. 2, 1976, 90 Stat. 1512; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to installment payment of tax attributable to divestitures pursuant to Bank Holding Company Act Amendments of 1970.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -297,7 +297,7 @@ Section, added Pub. L. 94–452, § 3(a), Oct. 2, 1976, 90 Stat. 1512; amended
 
 For provisions that nothing in repeal by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
-### § 6159. Agreements for payment of tax liability in installments
+### § 6159. Agreements for payment of tax liability in installments
 
 **(a) Authorization of agreements**
 
@@ -377,7 +377,7 @@ The amount of any fee imposed on an installment agreement under this section may
 
 For rights to administrative review and appeal, see section 7122(e).
 
-(Added Pub. L. 100–647, title VI, § 6234(a), Nov. 10, 1988, 102 Stat. 3735; amended Pub. L. 104–168, title II, §§ 201(a), (b), 202(a), July 30, 1996, 110 Stat. 1456, 1457; Pub. L. 105–206, title III, §§ 3462(c)(2), 3467(a), July 22, 1998, 112 Stat. 766, 769; Pub. L. 105–277, div. J, title IV, § 4002(g), Oct. 21, 1998, 112 Stat. 2681–907; Pub. L. 108–357, title VIII, § 843(a), (b), Oct. 22, 2004, 118 Stat. 1600; Pub. L. 109–222, title V, § 509(c), May 17, 2006, 120 Stat. 363; Pub. L. 115–123, div. D, title II, § 41105(a), Feb. 9, 2018, 132 Stat. 157.)
+(Added Pub. L. 100–647, title VI, § 6234(a), Nov. 10, 1988, 102 Stat. 3735; amended Pub. L. 104–168, title II, §§ 201(a), (b), 202(a), July 30, 1996, 110 Stat. 1456, 1457; Pub. L. 105–206, title III, §§ 3462(c)(2), 3467(a), July 22, 1998, 112 Stat. 766, 769; Pub. L. 105–277, div. J, title IV, § 4002(g), Oct. 21, 1998, 112 Stat. 2681–907; Pub. L. 108–357, title VIII, § 843(a), (b), Oct. 22, 2004, 118 Stat. 1600; Pub. L. 109–222, title V, § 509(c), May 17, 2006, 120 Stat. 363; Pub. L. 115–123, div. D, title II, § 41105(a), Feb. 9, 2018, 132 Stat. 157.)
 
 **Editorial Notes**
 
@@ -391,23 +391,23 @@ The date of the enactment of this subsection, referred to in subsec. (f)(1), is 
 
 2006—Subsec. (f). Pub. L. 109–222 substituted “section 7122(e)” for “section 7122(d)”.
 
-2004—Subsec. (a). Pub. L. 108–357, § 843(a)(1), substituted “make payment on” for “satisfy liability for payment of” and inserted “full or partial” after “facilitate”.
+2004—Subsec. (a). Pub. L. 108–357, § 843(a)(1), substituted “make payment on” for “satisfy liability for payment of” and inserted “full or partial” after “facilitate”.
 
-Subsec. (c). Pub. L. 108–357, § 843(a)(2), inserted “full” before “payment” in introductory provisions.
+Subsec. (c). Pub. L. 108–357, § 843(a)(2), inserted “full” before “payment” in introductory provisions.
 
-Subsecs. (d) to (f). Pub. L. 108–357, § 843(b), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+Subsecs. (d) to (f). Pub. L. 108–357, § 843(b), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
-1998—Subsec. (c). Pub. L. 105–206, § 3467(a), added subsec. (c). Former subsec. (c) redesignated (d).
+1998—Subsec. (c). Pub. L. 105–206, § 3467(a), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 105–277 redesignated subsec. (d), relating to cross reference, as (e).
 
-Pub. L. 105–206, § 3467(a), redesignated former subsec. (c), relating to administrative review, as (d).
+Pub. L. 105–206, § 3467(a), redesignated former subsec. (c), relating to administrative review, as (d).
 
-Pub. L. 105–206, § 3462(c)(2), added subsec. (d), relating to cross reference.
+Pub. L. 105–206, § 3462(c)(2), added subsec. (d), relating to cross reference.
 
 Subsec. (e). Pub. L. 105–277 redesignated subsec. (d), relating to cross reference, as (e).
 
-1996—Subsec. (b)(3). Pub. L. 104–168, § 201(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows:
+1996—Subsec. (b)(3). Pub. L. 104–168, § 201(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows:
 
 “(A) In general.—If the Secretary makes a determination that the financial condition of a taxpayer with whom the Secretary has entered into an agreement under subsection (a) has significantly changed, the Secretary may alter, modify, or terminate such agreement.
 
@@ -417,23 +417,23 @@ Subsec. (e). Pub. L. 105–277 redesignated subsec. (d), relating to cross refer
 
 “(ii) such notice includes the reasons why the Secretary believes a significant change in the financial condition of the taxpayer has occurred.”
 
-Subsec. (b)(5). Pub. L. 104–168, § 201(a), added par. (5).
+Subsec. (b)(5). Pub. L. 104–168, § 201(a), added par. (5).
 
-Subsec. (c). Pub. L. 104–168, § 202(a), added subsec. (c).
+Subsec. (c). Pub. L. 104–168, § 202(a), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–123, div. D, title II, § 41105(b), Feb. 9, 2018, 132 Stat. 157, provided that: “The amendments made by this section [amending this section] shall apply to agreements entered into on or after the date which is 60 days after the date of the enactment of this Act [Feb. 9, 2018].”
+Pub. L. 115–123, div. D, title II, § 41105(b), Feb. 9, 2018, 132 Stat. 157, provided that: “The amendments made by this section [amending this section] shall apply to agreements entered into on or after the date which is 60 days after the date of the enactment of this Act [Feb. 9, 2018].”
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–222, title V, § 509(d), May 17, 2006, 120 Stat. 364, provided that: “The amendments made by this section [amending this section and section 7122 of this title] shall apply to offers-in-compromise submitted on and after the date which is 60 days after the date of the enactment of this Act [May 17, 2006].”
+Pub. L. 109–222, title V, § 509(d), May 17, 2006, 120 Stat. 364, provided that: “The amendments made by this section [amending this section and section 7122 of this title] shall apply to offers-in-compromise submitted on and after the date which is 60 days after the date of the enactment of this Act [May 17, 2006].”
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title VIII, § 843(c), Oct. 22, 2004, 118 Stat. 1600, provided that: “The amendments made by this section [amending this section] shall apply to agreements entered into on or after the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title VIII, § 843(c), Oct. 22, 2004, 118 Stat. 1600, provided that: “The amendments made by this section [amending this section] shall apply to agreements entered into on or after the date of the enactment of this Act [Oct. 22, 2004].”
 
 **Effective Date of 1998 Amendments**
 
@@ -441,21 +441,21 @@ Amendment by Pub. L. 105–277 effective as if included in the provision of the 
 
 Amendment by section 3462(c)(2) of Pub. L. 105–206 applicable to proposed offers-in-compromise and installment agreements submitted after July 22, 1998, see section 3462(e)(1) of Pub. L. 105–206, set out as a note under section 6331 of this title.
 
-Pub. L. 105–206, title III, § 3467(b), July 22, 1998, 112 Stat. 770, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [July 22, 1998].”
+Pub. L. 105–206, title III, § 3467(b), July 22, 1998, 112 Stat. 770, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [July 22, 1998].”
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–168, title II, § 201(c), July 30, 1996, 110 Stat. 1457, provided that: “The amendments made by this section [amending this section] shall take effect on the date 6 months after the date of the enactment of this Act [July 30, 1996].”
+Pub. L. 104–168, title II, § 201(c), July 30, 1996, 110 Stat. 1457, provided that: “The amendments made by this section [amending this section] shall take effect on the date 6 months after the date of the enactment of this Act [July 30, 1996].”
 
-Pub. L. 104–168, title II, § 202(b), July 30, 1996, 110 Stat. 1457, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 1997.”
+Pub. L. 104–168, title II, § 202(b), July 30, 1996, 110 Stat. 1457, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 1997.”
 
 **Effective Date**
 
-Pub. L. 100–647, title VI, § 6234(c), Nov. 10, 1988, 102 Stat. 3736, provided that: “The amendments made by this section [enacting this section and amending section 6601 of this title] shall apply to agreements entered into after the date of the enactment of this Act [Nov. 10, 1988].”
+Pub. L. 100–647, title VI, § 6234(c), Nov. 10, 1988, 102 Stat. 3736, provided that: “The amendments made by this section [enacting this section and amending section 6601 of this title] shall apply to agreements entered into after the date of the enactment of this Act [Nov. 10, 1988].”
 
 **Statements Regarding Installment Agreements**
 
-Pub. L. 105–206, title III, § 3506, July 22, 1998, 112 Stat. 771, as amended by Pub. L. 106–554, § 1(a)(7) [title III, § 302(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–632, provided that: “The Secretary of the Treasury or the Secretary’s delegate shall, beginning not later than September 1, 2001, provide each taxpayer who has an installment agreement in effect under section 6159 of the Internal Revenue Code of 1986 an annual statement setting forth the initial balance at the beginning of the year, the payments made during the year, and the remaining balance as of the end of the year.”
+Pub. L. 105–206, title III, § 3506, July 22, 1998, 112 Stat. 771, as amended by Pub. L. 106–554, § 1(a)(7) [title III, § 302(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–632, provided that: “The Secretary of the Treasury or the Secretary’s delegate shall, beginning not later than September 1, 2001, provide each taxpayer who has an installment agreement in effect under section 6159 of the Internal Revenue Code of 1986 an annual statement setting forth the initial balance at the beginning of the year, the payments made during the year, and the remaining balance as of the end of the year.”
 
 ## Subchapter B—Extensions of Time for Payment
 
@@ -463,15 +463,15 @@ Pub. L. 105–206, title III, § 3506, July 22, 1998, 112 Stat. 771, as amende
 
 **Amendments**
 
-1981—Pub. L. 97–34, title IV, § 422(e)(5)(C), Aug. 13, 1981, 95 Stat. 316, substituted in item 6166 “Extension of time” for “Alternate extension of time” and struck out item 6166A “Extension of time for payment of estate tax where estate consists largely of interest in closely held business”.
+1981—Pub. L. 97–34, title IV, § 422(e)(5)(C), Aug. 13, 1981, 95 Stat. 316, substituted in item 6166 “Extension of time” for “Alternate extension of time” and struck out item 6166A “Extension of time for payment of estate tax where estate consists largely of interest in closely held business”.
 
-1976—Pub. L. 94–455, title XIX, § 1906(b)(4), title XX, § 2004(f)(5), Oct. 4, 1976, 90 Stat. 1833, 1872, struck out item 6162 “Extension of time for payment of tax on gain attributable to liquidation of personal holding companies”, added item 6166, and renumbered former item 6166 as 6166A.
+1976—Pub. L. 94–455, title XIX, § 1906(b)(4), title XX, § 2004(f)(5), Oct. 4, 1976, 90 Stat. 1833, 1872, struck out item 6162 “Extension of time for payment of tax on gain attributable to liquidation of personal holding companies”, added item 6166, and renumbered former item 6166 as 6166A.
 
-1966—Pub. L. 89–384, § 1(g)(2), Apr. 8, 1966, 80 Stat. 104, added item 6167.
+1966—Pub. L. 89–384, § 1(g)(2), Apr. 8, 1966, 80 Stat. 104, added item 6167.
 
-1958—Pub. L. 85–866, title II, § 206(b), Sept. 2, 1958, 72 Stat. 1684, added item 6166.
+1958—Pub. L. 85–866, title II, § 206(b), Sept. 2, 1958, 72 Stat. 1684, added item 6166.
 
-### § 6161. Extension of time for paying tax
+### § 6161. Extension of time for paying tax
 
 **(a) Amount determined by taxpayer on return**
 
@@ -519,7 +519,7 @@ For authority of the Secretary to require security in case of an extension under
 
 For time for performing certain acts postponed by reason of war, see section 7508, and by reason of Presidentially declared disaster or terroristic or military action, see section 7508A.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 762; Pub. L. 85–866, title II, § 206(c), Sept. 2, 1958, 72 Stat. 1684; Pub. L. 91–172, title I, § 101(j)(37), Dec. 30, 1969, 83 Stat. 530; Pub. L. 91–614, title I, § 101(h), Dec. 31, 1970, 84 Stat. 1838; Pub. L. 93–406, title II, § 1016(a)(7), Sept. 2, 1974, 88 Stat. 929; Pub. L. 94–455, title XIII, § 1307(d)(2)(C), title XVI, § 1605(b)(3), title XIX, § 1906(b)(13)(A), title XX, § 2004(c)(1), (2), Oct. 4, 1976, 90 Stat. 1727, 1754, 1834, 1867, 1868; Pub. L. 96–223, title I, § 101(f)(1)(H), Apr. 2, 1980, 94 Stat. 252; Pub. L. 96–589, § 6(i)(8), Dec. 24, 1980, 94 Stat. 3410; Pub. L. 97–34, title IV, § 422(e)(1), Aug. 13, 1981, 95 Stat. 316; Pub. L. 100–418, title I, § 1941(b)(2)(B)(viii), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 107–134, title I, § 112(d)(3), Jan. 23, 2002, 115 Stat. 2435.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 762; Pub. L. 85–866, title II, § 206(c), Sept. 2, 1958, 72 Stat. 1684; Pub. L. 91–172, title I, § 101(j)(37), Dec. 30, 1969, 83 Stat. 530; Pub. L. 91–614, title I, § 101(h), Dec. 31, 1970, 84 Stat. 1838; Pub. L. 93–406, title II, § 1016(a)(7), Sept. 2, 1974, 88 Stat. 929; Pub. L. 94–455, title XIII, § 1307(d)(2)(C), title XVI, § 1605(b)(3), title XIX, § 1906(b)(13)(A), title XX, § 2004(c)(1), (2), Oct. 4, 1976, 90 Stat. 1727, 1754, 1834, 1867, 1868; Pub. L. 96–223, title I, § 101(f)(1)(H), Apr. 2, 1980, 94 Stat. 252; Pub. L. 96–589, § 6(i)(8), Dec. 24, 1980, 94 Stat. 3410; Pub. L. 97–34, title IV, § 422(e)(1), Aug. 13, 1981, 95 Stat. 316; Pub. L. 100–418, title I, § 1941(b)(2)(B)(viii), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 107–134, title I, § 112(d)(3), Jan. 23, 2002, 115 Stat. 2435.)
 
 **Editorial Notes**
 
@@ -535,13 +535,13 @@ For time for performing certain acts postponed by reason of war, see section 750
 
 Subsec. (c). Pub. L. 96–589 substituted “Claims in cases under title 11 of the United States Code or in receivership proceedings” for “Claims in bankruptcy or receivership proceedings” in heading, and substituted reference to cases under title 11 of the United States Code, for reference to bankruptcy proceedings in text.
 
-1976—Subsec. (a)(1). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsec. (a)(1). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (a)(2). Pub. L. 94–455, § 2004(c)(1), struck out in subpar. (A) “that the payment, on the due date, of” before “any part of the amount”, in subpar. (B) provisions relating to payment, on the date fixed for payment of any installment, and subpar. (C) which related to payment upon notice and demand of a deficiency prorated under the provisions of section 6161, inserted in subpar. (B) “or 6166A” after “section 6166”, substituted in subpar. (B) “under such section” for “the date for payment for which had not arrived”, and inserted in text following subpar. (B) provisions relating to extension of time for payment in the case of an amount referred to in subpar. (B).
+Subsec. (a)(2). Pub. L. 94–455, § 2004(c)(1), struck out in subpar. (A) “that the payment, on the due date, of” before “any part of the amount”, in subpar. (B) provisions relating to payment, on the date fixed for payment of any installment, and subpar. (C) which related to payment upon notice and demand of a deficiency prorated under the provisions of section 6161, inserted in subpar. (B) “or 6166A” after “section 6166”, substituted in subpar. (B) “under such section” for “the date for payment for which had not arrived”, and inserted in text following subpar. (B) provisions relating to extension of time for payment in the case of an amount referred to in subpar. (B).
 
-Subsec. (b). Pub. L. 94–455, §§ 1307(d)(2)(C), 1605(b)(3), 2004(c)(2), among other changes, inserted reference to chapter 41, effective on or after Oct. 4, 1976, and reference to chapter 44, applicable to taxable years of real estate investment trusts beginning after Oct. 4, 1976, and struck out provisions relating to grant of extensions with respect to hardships to taxpayers, applicable to the estates of decedents dying after Dec. 31, 1976.
+Subsec. (b). Pub. L. 94–455, §§ 1307(d)(2)(C), 1605(b)(3), 2004(c)(2), among other changes, inserted reference to chapter 41, effective on or after Oct. 4, 1976, and reference to chapter 44, applicable to taxable years of real estate investment trusts beginning after Oct. 4, 1976, and struck out provisions relating to grant of extensions with respect to hardships to taxpayers, applicable to the estates of decedents dying after Dec. 31, 1976.
 
-Subsec. (d)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (d)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 1974—Subsec. (b). Pub. L. 93–406 inserted references to chapter 43.
 
@@ -569,7 +569,7 @@ Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec.
 
 Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedings under Title 11, Bankruptcy, commenced before Oct. 1, 1979, see section 7(e) of Pub. L. 96–589, set out as a note under section 108 of this title.
 
-Pub. L. 96–223, title I, § 101(i), Apr. 2, 1980, 94 Stat. 254, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 96–223, title I, § 101(i), Apr. 2, 1980, 94 Stat. 254, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) In general.—** The amendments made by this section [enacting sections 4986 to 4998, 6050C, 6076, and 7241 of this title and amending this section and sections 164, 6211, 6212, 6213, 6214, 6302, 6344, 6501, 6511, 6512, 6601, 6611, 6652, 6653, 6862, 7422, and 7512 of this title] shall apply to periods after February 29, 1980.
 
@@ -597,9 +597,9 @@ Amendment by Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of P
 
 **Effective Date of 1958 Amendment**
 
-Pub. L. 85–866, title II, § 206(f), Sept. 2, 1958, 72 Stat. 1685, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section [enacting section 6166 of this title and amending this section and sections 6503 and 6601 of this title] shall apply to estates of decedents with respect to which the date for the filing of the estate tax return (including extensions thereof) prescribed by section 6075(a) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] is after the date of the enactment of this Act [Sept. 2, 1958]; except that (1) section 6166(i) of such Code as added by this section shall apply to estates of decedents dying after August 16, 1954, but only if the date for the filing of the estate tax return (including extensions thereof) expired on or before the date of the enactment of this Act [Sept. 2, 1958], and (2) notwithstanding section 6166(a) of such Code, if an election under such section is required to be made before the sixtieth day after the date of the enactment of this Act [Sept. 2, 1958] such an election shall be considered timely if made on or before such sixtieth day.”
+Pub. L. 85–866, title II, § 206(f), Sept. 2, 1958, 72 Stat. 1685, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section [enacting section 6166 of this title and amending this section and sections 6503 and 6601 of this title] shall apply to estates of decedents with respect to which the date for the filing of the estate tax return (including extensions thereof) prescribed by section 6075(a) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] is after the date of the enactment of this Act [Sept. 2, 1958]; except that (1) section 6166(i) of such Code as added by this section shall apply to estates of decedents dying after August 16, 1954, but only if the date for the filing of the estate tax return (including extensions thereof) expired on or before the date of the enactment of this Act [Sept. 2, 1958], and (2) notwithstanding section 6166(a) of such Code, if an election under such section is required to be made before the sixtieth day after the date of the enactment of this Act [Sept. 2, 1958] such an election shall be considered timely if made on or before such sixtieth day.”
 
-### [§ 6162. Repealed. Pub. L. 94–455, title XIX, § 1906(a)(12), Oct. 4, 1976, 90 Stat. 1825]
+### [§ 6162. Repealed. Pub. L. 94–455, title XIX, § 1906(a)(12), Oct. 4, 1976, 90 Stat. 1825]
 
 Section, act Aug. 16, 1954, ch. 736, 68A Stat. 763, provided for an extension of time for payment of tax on gain attributable to liquidation of personal holding companies.
 
@@ -609,7 +609,7 @@ Section, act Aug. 16, 1954, ch. 736, 68A Stat. 763, provided for an extension of
 
 Repeal effective on first day of month which begins more than 90 days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 6013 of this title.
 
-### § 6163. Extension of time for payment of estate tax on value of reversionary or remainder interest in property
+### § 6163. Extension of time for payment of estate tax on value of reversionary or remainder interest in property
 
 **(a) Extension permitted**
 
@@ -623,17 +623,17 @@ At the expiration of the period of postponement provided for in subsection (a), 
 
 For authority of the Secretary to require security in the case of an extension under this section, see section 6165.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 763; Pub. L. 85–866, title I, § 66(b)(1), Sept. 2, 1958, 72 Stat. 1658; Pub. L. 88–272, title II, § 240(a), Feb. 26, 1964, 78 Stat. 129; Pub. L. 93–625, § 7(d)(1), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), title XX, § 2004(c)(3), Oct. 4, 1976, 90 Stat. 1834, 1868.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 763; Pub. L. 85–866, title I, § 66(b)(1), Sept. 2, 1958, 72 Stat. 1658; Pub. L. 88–272, title II, § 240(a), Feb. 26, 1964, 78 Stat. 129; Pub. L. 93–625, § 7(d)(1), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), title XX, § 2004(c)(3), Oct. 4, 1976, 90 Stat. 1834, 1868.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (b). Pub. L. 94–455, § 2004(c)(3), substituted provisions relating to extension of time for payment for a reasonable cause for provisions relating to extension of time for payment for undue hardship to the estate.
+Subsec. (b). Pub. L. 94–455, § 2004(c)(3), substituted provisions relating to extension of time for payment for a reasonable cause for provisions relating to extension of time for payment for undue hardship to the estate.
 
-Subsec. (c). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (c). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 1975—Subsec. (c). Pub. L. 93–625 struck out par. (1) cross reference to interest provisions of section 6601(b) of this title and struck out par. (2) designation of cross reference to security, now incorporated in present subsec. (c) provision.
 
@@ -653,7 +653,7 @@ Amendment by Pub. L. 93–625 effective on July 1, 1975, and applicable to amoun
 
 **Effective Date of 1964 Amendment**
 
-Pub. L. 88–272, title II, § 240(c), Feb. 26, 1964, 78 Stat. 129, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 88–272, title II, § 240(c), Feb. 26, 1964, 78 Stat. 129, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1)** The amendment made by subsection (a) [amending this section] shall apply in the case of any reversionary or remainder interest only if the time for payment of the tax under chapter 11 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] attributable to such interest, including any extensions thereof, has not expired on the date of the enactment of this Act [Feb. 26, 1964].
 
@@ -661,9 +661,9 @@ Pub. L. 88–272, title II, § 240(c), Feb. 26, 1964, 78 Stat. 129, as amended
 
 **Effective Date of 1958 Amendment**
 
-Pub. L. 85–866, title I, § 66(b)(3), Sept. 2, 1958, 72 Stat. 1658, provided that: “The amendments made by paragraphs (1) and (2) [amending this section and sections 925 and 926 of I.R.C. 1939] shall apply in the case of any reversionary or remainder interest only if the precedent interest or interests in the property did not terminate before the beginning of the 6-month period which ends on the date of the enactment of this Act [Sept. 2, 1958].”
+Pub. L. 85–866, title I, § 66(b)(3), Sept. 2, 1958, 72 Stat. 1658, provided that: “The amendments made by paragraphs (1) and (2) [amending this section and sections 925 and 926 of I.R.C. 1939] shall apply in the case of any reversionary or remainder interest only if the precedent interest or interests in the property did not terminate before the beginning of the 6-month period which ends on the date of the enactment of this Act [Sept. 2, 1958].”
 
-### § 6164. Extension of time for payment of taxes by corporations expecting carrybacks
+### § 6164. Extension of time for payment of taxes by corporations expecting carrybacks
 
 **(a) In general**
 
@@ -715,15 +715,15 @@ If the Secretary believes that collection of the amount to which an extension un
 
 If the corporation seeking an extension of time under this section made or was required to make a consolidated return, either for the taxable year within which the net operating loss arises or for the preceding taxable year affected by such loss, the provisions of such section shall apply only to such extent and subject to such conditions, limitations, and exceptions as the Secretary may by regulations prescribe.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 764; Pub. L. 85–866, title I, § 89(b), Sept. 2, 1958, 72 Stat. 1665; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title II, § 234(b)(2)(C), Sept. 3, 1982, 96 Stat. 503.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 764; Pub. L. 85–866, title I, § 89(b), Sept. 2, 1958, 72 Stat. 1665; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title II, § 234(b)(2)(C), Sept. 3, 1982, 96 Stat. 503.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1982—Subsec. (c). Pub. L. 97–248, § 234(b)(2)(C)(i), substituted “shall be the date on which payment would have been required if such remainder had been the tax” for “shall be considered to be the dates on which payments would have been required if such remainder had been the tax and the taxpayer had elected to pay the tax in installments as provided in section 6152” in last sentence.
+1982—Subsec. (c). Pub. L. 97–248, § 234(b)(2)(C)(i), substituted “shall be the date on which payment would have been required if such remainder had been the tax” for “shall be considered to be the dates on which payments would have been required if such remainder had been the tax and the taxpayer had elected to pay the tax in installments as provided in section 6152” in last sentence.
 
-Subsec. (g)(2). Pub. L. 97–248, § 234(b)(2)(C)(ii), substituted “date on which payment would have been required if there had been no extension with respect to such amount” for “dates on which payments would have been required if there had been no extension with respect to such amount and the taxpayer had elected to pay the tax in installments as provided in section 6152”.
+Subsec. (g)(2). Pub. L. 97–248, § 234(b)(2)(C)(ii), substituted “date on which payment would have been required if there had been no extension with respect to such amount” for “dates on which payments would have been required if there had been no extension with respect to such amount and the taxpayer had elected to pay the tax in installments as provided in section 6152”.
 
 1976—Subsecs. (a), (b), (d), (f), (h), (i). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
@@ -739,11 +739,11 @@ Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 3
 
 Amendment by Pub. L. 85–866 applicable only if mailing occurs after Sept. 2, 1958, see section 89(d) of Pub. L. 85–866, set out as a note under section 7502 of this title.
 
-### § 6165. Bonds where time to pay tax or deficiency has been extended
+### § 6165. Bonds where time to pay tax or deficiency has been extended
 
 In the event the Secretary grants any extension of time within which to pay any tax or any deficiency therein, the Secretary may require the taxpayer to furnish a bond in such amount (not exceeding double the amount with respect to which the extension is granted) conditioned upon the payment of the amount extended in accordance with the terms of such extension.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 766; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 766; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -751,7 +751,7 @@ In the event the Secretary grants any extension of time within which to pay any 
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-### § 6166. Extension of time for payment of estate tax where estate consists largely of interest in closely held business
+### § 6166. Extension of time for payment of estate tax where estate consists largely of interest in closely held business
 
 **(a) 5-year deferral; 10-year installment payment**
 
@@ -1103,29 +1103,29 @@ For provisions relating to interest on tax payable in installments under this se
 
 For special rule for qualifying an estate under this section where property has been transferred within 3 years of decedent’s death, see section 2035(c)(2).
 
-(Added Pub. L. 94–455, title XX, § 2004(a), Oct. 4, 1976, 90 Stat. 1862; amended Pub. L. 95–600, title V, § 512(a), (b), Nov. 6, 1978, 92 Stat. 2882, 2883; Pub. L. 97–34, title IV, § 422(a), (c), (e)(5)(A), (B), Aug. 13, 1981, 95 Stat. 314–316; Pub. L. 97–448, title I, § 104(c), (d)(1)(B), Jan. 12, 1983, 96 Stat. 2382, 2383; Pub. L. 98–369, div. A, title V, § 544(b)(4), title X, § 1021(a)–(d), July 18, 1984, 98 Stat. 894, 1024–1026; Pub. L. 99–514, title XIV, § 1432(e), Oct. 22, 1986, 100 Stat. 2730; Pub. L. 104–188, title I, § 1704(t)(15), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title V, § 503(c)(1), Aug. 5, 1997, 111 Stat. 853; Pub. L. 105–206, title VI, § 6007(c), July 22, 1998, 112 Stat. 809; Pub. L. 106–554, § 1(a)(7) [title III, § 319(18)], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 107–16, title V, §§ 571(a), 572(a), 573(a), June 7, 2001, 115 Stat. 92, 93.)
+(Added Pub. L. 94–455, title XX, § 2004(a), Oct. 4, 1976, 90 Stat. 1862; amended Pub. L. 95–600, title V, § 512(a), (b), Nov. 6, 1978, 92 Stat. 2882, 2883; Pub. L. 97–34, title IV, § 422(a), (c), (e)(5)(A), (B), Aug. 13, 1981, 95 Stat. 314–316; Pub. L. 97–448, title I, § 104(c), (d)(1)(B), Jan. 12, 1983, 96 Stat. 2382, 2383; Pub. L. 98–369, div. A, title V, § 544(b)(4), title X, § 1021(a)–(d), July 18, 1984, 98 Stat. 894, 1024–1026; Pub. L. 99–514, title XIV, § 1432(e), Oct. 22, 1986, 100 Stat. 2730; Pub. L. 104–188, title I, § 1704(t)(15), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title V, § 503(c)(1), Aug. 5, 1997, 111 Stat. 853; Pub. L. 105–206, title VI, § 6007(c), July 22, 1998, 112 Stat. 809; Pub. L. 106–554, § 1(a)(7) [title III, § 319(18)], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 107–16, title V, §§ 571(a), 572(a), 573(a), June 7, 2001, 115 Stat. 92, 93.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 6166 was renumbered section 6166A of this title and later repealed by Pub. L. 97–34, title IV, § 422(d), Aug. 13, 1981, 95 Stat. 315.
+A prior section 6166 was renumbered section 6166A of this title and later repealed by Pub. L. 97–34, title IV, § 422(d), Aug. 13, 1981, 95 Stat. 315.
 
 **Amendments**
 
-2001—Subsec. (b)(1)(B)(ii), (C)(ii). Pub. L. 107–16, § 571(a), substituted “45” for “15”.
+2001—Subsec. (b)(1)(B)(ii), (C)(ii). Pub. L. 107–16, § 571(a), substituted “45” for “15”.
 
-Subsec. (b)(8)(B). Pub. L. 107–16, § 573(a), reenacted heading without change and amended text of subpar. (B) generally. Prior to amendment, text read as follows: “No stock shall be taken into account for purposes of applying this paragraph unless it is non-readily-tradable stock (within the meaning of paragraph (7)(B)).”
+Subsec. (b)(8)(B). Pub. L. 107–16, § 573(a), reenacted heading without change and amended text of subpar. (B) generally. Prior to amendment, text read as follows: “No stock shall be taken into account for purposes of applying this paragraph unless it is non-readily-tradable stock (within the meaning of paragraph (7)(B)).”
 
-Subsec. (b)(9)(B)(iii)(I). Pub. L. 107–16, § 571(a), substituted “45” for “15”.
+Subsec. (b)(9)(B)(iii)(I). Pub. L. 107–16, § 571(a), substituted “45” for “15”.
 
-Subsec. (b)(10). Pub. L. 107–16, § 572(a), added par. (10).
+Subsec. (b)(10). Pub. L. 107–16, § 572(a), added par. (10).
 
 2000—Subsec. (k)(5). Pub. L. 106–554 substituted “2035(c)(2)” for “2035(d)(4)”.
 
-1998—Subsec. (b)(7)(A)(iii). Pub. L. 105–206, § 6007(c)(1), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “section 6601(j) (relating to 2-percent rate of interest) shall not apply.”
+1998—Subsec. (b)(7)(A)(iii). Pub. L. 105–206, § 6007(c)(1), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “section 6601(j) (relating to 2-percent rate of interest) shall not apply.”
 
-Subsec. (b)(8)(A)(iii). Pub. L. 105–206, § 6007(c)(2), reenacted heading without change and amended text of cl. (iii) generally. Prior to amendment, text read as follows: “Section 6601(j) (relating to 2-percent rate of interest) shall not apply.”
+Subsec. (b)(8)(A)(iii). Pub. L. 105–206, § 6007(c)(2), reenacted heading without change and amended text of cl. (iii) generally. Prior to amendment, text read as follows: “Section 6601(j) (relating to 2-percent rate of interest) shall not apply.”
 
 1997—Subsec. (b)(7)(A)(iii). Pub. L. 105–34 substituted “2-percent” for “4-percent”.
 
@@ -1135,49 +1135,49 @@ Subsec. (b)(8)(A)(iii). Pub. L. 105–34 substituted “2-percent” for “4-pe
 
 1986—Subsecs. (i) to (k). Pub. L. 99–514 added subsec. (i) and redesignated former subsecs. (i) and (j) as (j) and (k), respectively.
 
-1984—Subsec. (b)(8). Pub. L. 98–369, § 1021(a), added par. (8).
+1984—Subsec. (b)(8). Pub. L. 98–369, § 1021(a), added par. (8).
 
-Subsec. (b)(9). Pub. L. 98–369, § 1021(b), added par. (9).
+Subsec. (b)(9). Pub. L. 98–369, § 1021(b), added par. (9).
 
-Subsec. (g)(1)(E), (F). Pub. L. 98–369, § 1021(c), added subpars. (E) and (F).
+Subsec. (g)(1)(E), (F). Pub. L. 98–369, § 1021(c), added subpars. (E) and (F).
 
-Subsec. (g)(2)(C). Pub. L. 98–369, § 1021(d), added subpar. (C).
+Subsec. (g)(2)(C). Pub. L. 98–369, § 1021(d), added subpar. (C).
 
-Subsec. (j)(6). Pub. L. 98–369, § 544(b)(4), added par. (6).
+Subsec. (j)(6). Pub. L. 98–369, § 544(b)(4), added par. (6).
 
-1983—Subsec. (b)(3). Pub. L. 97–448, § 104(c)(1), substituted “35-percent requirement” for “65-percent requirement”.
+1983—Subsec. (b)(3). Pub. L. 97–448, § 104(c)(1), substituted “35-percent requirement” for “65-percent requirement”.
 
-Subsec. (g)(1)(B)(i). Pub. L. 97–448, § 104(c)(2), substituted “the redemption of such stock, and the withdrawal of money or other property distributed in such redemption, shall not be treated as a distribution or withdrawal for purposes of subparagraph (A), and” for “subparagraph (A)(i) does not apply with respect to the stock redeemed; and for purposes of such subparagraph the interest in the closely held business shall be considered to be such interest reduced by the value of the stock redeemed, and”.
+Subsec. (g)(1)(B)(i). Pub. L. 97–448, § 104(c)(2), substituted “the redemption of such stock, and the withdrawal of money or other property distributed in such redemption, shall not be treated as a distribution or withdrawal for purposes of subparagraph (A), and” for “subparagraph (A)(i) does not apply with respect to the stock redeemed; and for purposes of such subparagraph the interest in the closely held business shall be considered to be such interest reduced by the value of the stock redeemed, and”.
 
-Subsec. (g)(1)(B)(ii). Pub. L. 97–448, § 104(c)(2), substituted “for purposes of subparagraph (A), the value of the interest in the closely held business shall be considered to be such value reduced by the value of the stock redeemed” for “subparagraph (A)(ii) does not apply with respect to withdrawals of money and other property distributed; and for purposes of such subparagraph the value of the trade or business shall be considered to be such value reduced by the amount of money and other property distributed”.
+Subsec. (g)(1)(B)(ii). Pub. L. 97–448, § 104(c)(2), substituted “for purposes of subparagraph (A), the value of the interest in the closely held business shall be considered to be such value reduced by the value of the stock redeemed” for “subparagraph (A)(ii) does not apply with respect to withdrawals of money and other property distributed; and for purposes of such subparagraph the value of the trade or business shall be considered to be such value reduced by the amount of money and other property distributed”.
 
-Subsec. (j)(5). Pub. L. 97–448, § 104(d)(1)(B), added par. (5).
+Subsec. (j)(5). Pub. L. 97–448, § 104(d)(1)(B), added par. (5).
 
-1981—Pub. L. 97–34, § 422(e)(5)(B), substituted “Extension of time” for “Alternate extension of time” in section catchline.
+1981—Pub. L. 97–34, § 422(e)(5)(B), substituted “Extension of time” for “Alternate extension of time” in section catchline.
 
-Subsec. (a). Pub. L. 97–34, § 422(a)(1), (e)(5)(A), substituted in par. (1) “35 percent” for “65 percent” and struck out par. (4) which provided that no election be made under this section by the executor of the estate of any decedent if an election under section 6166A applies with respect to the estate of such decedent.
+Subsec. (a). Pub. L. 97–34, § 422(a)(1), (e)(5)(A), substituted in par. (1) “35 percent” for “65 percent” and struck out par. (4) which provided that no election be made under this section by the executor of the estate of any decedent if an election under section 6166A applies with respect to the estate of such decedent.
 
-Subsec. (c). Pub. L. 97–34, § 422(a)(2), substituted “20 percent or more” for “more than 20 percent”.
+Subsec. (c). Pub. L. 97–34, § 422(a)(2), substituted “20 percent or more” for “more than 20 percent”.
 
-Subsec. (g)(1)(A). Pub. L. 97–34, § 422(c)(1), redesignated cl. (i) as cl. (i)(I), substituted “any portion” for “one-third or more in value”, added cl. (i)(II), substituted in cl. (ii) “the aggregate of such distributions, sales, exchanges, or other dispositions and withdrawals equals or exceeds 50 percent of the value of such interest” for “aggregate withdrawals of money and other property from the trade or business, an interest in which qualifies under subsection (a)(1), made with respect to such interest, equal or exceed one-third of the value of such trade or business” and in provision following cl. (ii) substituted “the unpaid portion” for “any unpaid portion”.
+Subsec. (g)(1)(A). Pub. L. 97–34, § 422(c)(1), redesignated cl. (i) as cl. (i)(I), substituted “any portion” for “one-third or more in value”, added cl. (i)(II), substituted in cl. (ii) “the aggregate of such distributions, sales, exchanges, or other dispositions and withdrawals equals or exceeds 50 percent of the value of such interest” for “aggregate withdrawals of money and other property from the trade or business, an interest in which qualifies under subsection (a)(1), made with respect to such interest, equal or exceed one-third of the value of such trade or business” and in provision following cl. (ii) substituted “the unpaid portion” for “any unpaid portion”.
 
-Subsec. (g)(1)(D). Pub. L. 97–34, § 422(c)(3), inserted provision for application of a similar rule in the case of a series of subsequent transfers of the property by reason of death so long as each transfer is to a member of the family of the transferor in such transfer.
+Subsec. (g)(1)(D). Pub. L. 97–34, § 422(c)(3), inserted provision for application of a similar rule in the case of a series of subsequent transfers of the property by reason of death so long as each transfer is to a member of the family of the transferor in such transfer.
 
-Subsec. (g)(3). Pub. L. 97–34, § 422(c)(2), substituted as heading “Failure to make payment of principal or interest” for “Failure to pay installment”, designated existing provisions as subpar. (A), and in subpar. (A) as so designated, substituted “Except as provided in subparagraph (B), if any payment of principal or interest” for “If any installment” and “extension of time” for “extension of time for the payment of such installment”, and added subpar. (B).
+Subsec. (g)(3). Pub. L. 97–34, § 422(c)(2), substituted as heading “Failure to make payment of principal or interest” for “Failure to pay installment”, designated existing provisions as subpar. (A), and in subpar. (A) as so designated, substituted “Except as provided in subparagraph (B), if any payment of principal or interest” for “If any installment” and “extension of time” for “extension of time for the payment of such installment”, and added subpar. (B).
 
-1978—Subsec. (b)(2)(D). Pub. L. 95–600, § 512(a), added subpar. (D).
+1978—Subsec. (b)(2)(D). Pub. L. 95–600, § 512(a), added subpar. (D).
 
-Subsec. (b)(7). Pub. L. 95–600, § 512(b), added par. (7).
+Subsec. (b)(7). Pub. L. 95–600, § 512(b), added par. (7).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–16, title V, § 571(b), June 7, 2001, 115 Stat. 92, provided that: “The amendments made by this section [amending this section] shall apply to estates of decedents dying after December 31, 2001.”
+Pub. L. 107–16, title V, § 571(b), June 7, 2001, 115 Stat. 92, provided that: “The amendments made by this section [amending this section] shall apply to estates of decedents dying after December 31, 2001.”
 
-Pub. L. 107–16, title V, § 572(b), June 7, 2001, 115 Stat. 93, provided that: “The amendment made by this section [amending this section] shall apply to estates of decedents dying after December 31, 2001.”
+Pub. L. 107–16, title V, § 572(b), June 7, 2001, 115 Stat. 93, provided that: “The amendment made by this section [amending this section] shall apply to estates of decedents dying after December 31, 2001.”
 
-Pub. L. 107–16, title V, § 573(b), June 7, 2001, 115 Stat. 93, provided that: “The amendment made by this section [amending this section] shall apply to estates of decedents dying after December 31, 2001.”
+Pub. L. 107–16, title V, § 573(b), June 7, 2001, 115 Stat. 93, provided that: “The amendment made by this section [amending this section] shall apply to estates of decedents dying after December 31, 2001.”
 
 **Effective Date of 1998 Amendment**
 
@@ -1195,7 +1195,7 @@ Amendment by Pub. L. 99–514 applicable to generation-skipping transfers (withi
 
 Amendment by section 544(b)(4) of Pub. L. 98–369 applicable to estates of decedents which are required to file returns on a date (including any extensions) after July 18, 1984, see section 544(d) of Pub. L. 98–369, set out as a note under section 2002 of this title.
 
-Pub. L. 98–369, div. A, title X, § 1021(e), July 18, 1984, 98 Stat. 1026, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title X, § 1021(e), July 18, 1984, 98 Stat. 1026, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section] shall apply with respect to estates of decedents dying after the date of the enactment of this Act [July 18, 1984].
 
@@ -1217,7 +1217,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–34, title IV, § 422(f), Aug. 13, 1981, 95 Stat. 316, provided that:
+Pub. L. 97–34, title IV, § 422(f), Aug. 13, 1981, 95 Stat. 316, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [amending this section and sections 303, 2011, 2204, 2621, 6161, 6324A, 6503, and 7403 of this title and repealing section 6166A of this title] shall apply to the estates of decedents dying after December 31, 1981.
 
@@ -1225,19 +1225,19 @@ Pub. L. 97–34, title IV, § 422(f), Aug. 13, 1981, 95 Stat. 316, provided th
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–600, title V, § 512(c), Nov. 6, 1978, 92 Stat. 2883, provided that: “The amendments made by this section [amending this section] shall apply with respect to the estates of decedents dying after the date of the enactment of this Act [Nov. 6, 1978].”
+Pub. L. 95–600, title V, § 512(c), Nov. 6, 1978, 92 Stat. 2883, provided that: “The amendments made by this section [amending this section] shall apply with respect to the estates of decedents dying after the date of the enactment of this Act [Nov. 6, 1978].”
 
 **Effective Date**
 
-Pub. L. 94–455, title XX, § 2004(g), Oct. 4, 1976, 90 Stat. 1872, provided that: “The amendments made by this section [enacting this section and section 6324A of this title and amending sections 303, 2011, 2204, 6136, 6161, 6503, 6601, and 7403 of this title] shall apply to the estates of decedents dying after December 31, 1976.”
+Pub. L. 94–455, title XX, § 2004(g), Oct. 4, 1976, 90 Stat. 1872, provided that: “The amendments made by this section [enacting this section and section 6324A of this title and amending sections 303, 2011, 2204, 6136, 6161, 6503, 6601, and 7403 of this title] shall apply to the estates of decedents dying after December 31, 1976.”
 
 **Land Diverted Under 1983 Payment-in-Kind Program**
 
 Land diverted from production of agricultural commodities under a 1983 payment-in-kind program to be treated, for purposes of this section, as used during the 1983 crop year by qualified taxpayers in the active conduct of the trade or business of farming, with qualified taxpayers who materially participate in the diversion and devotion to conservation uses under a 1983 payment-in-kind program to be treated as materially participating in the operation of such land during the 1983 crop year, see section 3 of Pub. L. 98–4, set out as a note under section 61 of this title.
 
-### [§ 6166A. Repealed. Pub. L. 97–34, title IV, § 422(d), Aug. 13, 1981, 95 Stat. 315]
+### [§ 6166A. Repealed. Pub. L. 97–34, title IV, § 422(d), Aug. 13, 1981, 95 Stat. 315]
 
-Section, added Pub. L. 85–866, title II, § 206(a), Sept. 2, 1958, 72 Stat. 1681, § 6166; amended Pub. L. 93–625, § 7(d)(2), (3), Jan. 3, 1975, 88 Stat. 2115; renumbered § 6166A and amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), title XX, § 2004(a), Oct. 4, 1976, 90 Stat. 1834, 1862, provided for an extension of time for payment of estate tax where estate consists largely of interest in closely held business.
+Section, added Pub. L. 85–866, title II, § 206(a), Sept. 2, 1958, 72 Stat. 1681, § 6166; amended Pub. L. 93–625, § 7(d)(2), (3), Jan. 3, 1975, 88 Stat. 2115; renumbered § 6166A and amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), title XX, § 2004(a), Oct. 4, 1976, 90 Stat. 1834, 1862, provided for an extension of time for payment of estate tax where estate consists largely of interest in closely held business.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1245,7 +1245,7 @@ Section, added Pub. L. 85–866, title II, § 206(a), Sept. 2, 1958, 72 Stat. 
 
 Repeal applicable to estates of decedents dying after Dec. 31, 1981, see section 422(f)(1) of Pub. L. 97–34, set out as an Effective Date of 1981 Amendment note under section 6166 of this title.
 
-### § 6167. Extension of time for payment of tax attributable to recovery of foreign expropriation losses
+### § 6167. Extension of time for payment of tax attributable to recovery of foreign expropriation losses
 
 **(a) Extension allowed by election** If—
 
@@ -1303,7 +1303,7 @@ If any installment under this section is not paid on or before the date fixed fo
 
 **(2) Period of limitation.—** For extension of the period of limitation in the case of an extension under this section, see section 6503(e).
 
-(Added Pub. L. 89–384, § 1(d), Apr. 8, 1966, 80 Stat. 102; amended Pub. L. 93–625, § 7(d)(2), (3), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §§ 1902(b)(2)(B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1806, 1834; Pub. L. 114–41, title II, § 2006(a)(2)(D), July 31, 2015, 129 Stat. 457.)
+(Added Pub. L. 89–384, § 1(d), Apr. 8, 1966, 80 Stat. 102; amended Pub. L. 93–625, § 7(d)(2), (3), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, §§ 1902(b)(2)(B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1806, 1834; Pub. L. 114–41, title II, § 2006(a)(2)(D), July 31, 2015, 129 Stat. 457.)
 
 **Editorial Notes**
 
@@ -1311,13 +1311,13 @@ If any installment under this section is not paid on or before the date fixed fo
 
 2015—Subsecs. (a), (c). Pub. L. 114–41 substituted “fourth month” for “third month” in concluding provisions.
 
-1976—Subsecs. (a), (b), (d), (e), (g). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsecs. (a), (b), (d), (e), (g). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (h). Pub. L. 94–455, §§ 1902(b)(2)(B), 1906(b)(13)(A), substituted “section 6503(e)” for “section 6503(f)”, and struck out “or his delegate” after “Secretary”.
+Subsec. (h). Pub. L. 94–455, §§ 1902(b)(2)(B), 1906(b)(13)(A), substituted “section 6503(e)” for “section 6503(f)”, and struck out “or his delegate” after “Secretary”.
 
-1975—Subsec. (e). Pub. L. 93–625, § 7(d)(2), struck out provision that in applying section 6601(j) (relating to the application of the 4-percent interest rate in the case of recoveries of foreign expropriation losses to which this section applies) in the case of a deficiency, the entire amount which was prorated to installments under this section shall be treated as an amount of tax the payment of which was extended under this section.
+1975—Subsec. (e). Pub. L. 93–625, § 7(d)(2), struck out provision that in applying section 6601(j) (relating to the application of the 4-percent interest rate in the case of recoveries of foreign expropriation losses to which this section applies) in the case of a deficiency, the entire amount which was prorated to installments under this section shall be treated as an amount of tax the payment of which was extended under this section.
 
-Subsec. (h). Pub. L. 93–625, § 7(d)(3), struck out par. (1) providing a cross reference for payment of interest at 4 percent per annum for period of an extension under section 6601(j) of this title, and redesignated pars. (2) and (3) as (1) and (2), respectively.
+Subsec. (h). Pub. L. 93–625, § 7(d)(3), struck out par. (1) providing a cross reference for payment of interest at 4 percent per annum for period of an extension under section 6601(j) of this title, and redesignated pars. (2) and (3) as (1) and (2), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 

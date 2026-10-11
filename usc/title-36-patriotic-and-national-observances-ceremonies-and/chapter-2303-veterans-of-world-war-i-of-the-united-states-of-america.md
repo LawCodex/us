@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 2303—VETERANS OF WORLD WAR I OF THE UNITED STATES OF AMERICA, INCORPORATED"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 2303—VETERANS OF WORLD WAR I OF THE UNITED STATES OF AMERICA, INCORPORATED"
 identifier: "/us/usc/t36/stII/ptB/ch2303"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 2303—VETERANS OF WORLD WAR I OF THE UNITED STATES OF AMERICA, INCORPORATED
 
-## § 230301. Organization
+## § 230301. Organization
 
 **(a) Federal Charter.—** Veterans of World War I of the United States of America, Incorporated (in this chapter, the “corporation”), is a federally chartered corporation.
 
@@ -29,12 +29,12 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 230301 | 36:761. | July 18, 1958, Pub. L. 85–530, §§ 1, 2, 4(1), 72 Stat. 370, 371. |
+| 230301 | 36:761. | July 18, 1958, Pub. L. 85–530, §§ 1, 2, 4(1), 72 Stat. 370, 371. |
 |  | 36:762. 36:764(1). |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate unnecessary and executed words.
 
-## § 230302. Purposes
+## § 230302. Purposes
 
 The purposes of the corporation are patriotic, fraternal, historical, and educational, in the service and for the benefit of veterans of World War I, and are—
 
@@ -60,9 +60,9 @@ The purposes of the corporation are patriotic, fraternal, historical, and educat
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 230302 | 36:763. | July 18, 1958, Pub. L. 85–530, § 3, 72 Stat. 371. |
+| 230302 | 36:763. | July 18, 1958, Pub. L. 85–530, § 3, 72 Stat. 371. |
 
-## § 230303. Membership
+## § 230303. Membership
 
 **(a) Eligibility.—** Eligibility for membership in the corporation and the rights, privileges, and designation of classes of members are as provided in the constitution and bylaws of the corporation. However, an individual who did not serve honorably in the Armed Forces of the United States during the period beginning April 6, 1917, and ending November 11, 1918, is not eligible for all classes of membership.
 
@@ -74,12 +74,12 @@ The purposes of the corporation are patriotic, fraternal, historical, and educat
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 230303(a) | 36:765. | July 18, 1958, Pub. L. 85–530, §§ 5, 6(b), 72 Stat. 372. |
+| 230303(a) | 36:765. | July 18, 1958, Pub. L. 85–530, §§ 5, 6(b), 72 Stat. 372. |
 | 230303(b) | 36:766(b). |  |
 
 In subsection (a), the words “is not eligible for all classes of membership” are substituted for “in no case shall eligibility for all classes of membership include” to eliminate unnecessary words.
 
-## § 230304. Governing body
+## § 230304. Governing body
 
 **(a) National Convention.—**
 
@@ -107,7 +107,7 @@ In subsection (a), the words “is not eligible for all classes of membership”
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 230304(a) | 36:766(a). | July 18, 1958, Pub. L. 85–530, §§ 6(a), 7, 8, 72 Stat. 372. |
+| 230304(a) | 36:766(a). | July 18, 1958, Pub. L. 85–530, §§ 6(a), 7, 8, 72 Stat. 372. |
 | 230304(b)(1) | 36:767(a). |  |
 | 230304(b)(2) | 36:767(b), (c). |  |
 | 230304(c) | 36:768. |  |
@@ -118,7 +118,7 @@ In subsection (a)(3), the words “State, territory, or possession of the United
 
 In subsection (b)(2), the text of 36:767(b) is omitted as executed and obsolete.
 
-## § 230305. Powers
+## § 230305. Powers
 
 The corporation may—
 
@@ -144,7 +144,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 230305 | 36:764(2)–(10). | July 18, 1958, Pub. L. 85–530, §§ 4(2)–(10), 18, 72 Stat. 371, 375. |
+| 230305 | 36:764(2)–(10). | July 18, 1958, Pub. L. 85–530, §§ 4(2)–(10), 18, 72 Stat. 371, 375. |
 |  | 36:778. |  |
 
 In this section, the text of 36:778 is omitted as executed and obsolete.
@@ -163,7 +163,7 @@ In clause (7), the words “complain and defend in any court of competent jurisd
 
 In clause (8), the words “any other act” are substituted for “any and all acts and things” for consistency in the revised title and to eliminate unnecessary words. The word “objects” is omitted as included in “purposes”.
 
-## § 230306. Exclusive right to name, seals, emblems, and badges
+## § 230306. Exclusive right to name, seals, emblems, and badges
 
 The corporation and its subordinate divisions have the exclusive right to use the name “Veterans of World War I of the United States of America, Incorporated”. The corporation has the exclusive right to use, and to allow others to use, seals, emblems, and badges the corporation adopts.
 
@@ -173,11 +173,11 @@ The corporation and its subordinate divisions have the exclusive right to use th
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 230306 | 36:777. | July 18, 1958, Pub. L. 85–530, § 17, 72 Stat. 374. |
+| 230306 | 36:777. | July 18, 1958, Pub. L. 85–530, § 17, 72 Stat. 374. |
 
 The words “sole”, “or refuse”, and “and such emblems, seals, and badges as have heretofore been used by the Ohio corporation described in section 778 of this title” are omitted as unnecessary. The words “and the right to which may be lawfully transferred to the corporation” are omitted as executed.
 
-## § 230307. Restrictions
+## § 230307. Restrictions
 
 **(a) Stocks and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -193,7 +193,7 @@ The words “sole”, “or refuse”, and “and such emblems, seals, and badge
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 230307(a) | 36:773. | July 18, 1958, Pub. L. 85–530, §§ 10, 11, 13, 72 Stat. 373, 374. |
+| 230307(a) | 36:773. | July 18, 1958, Pub. L. 85–530, §§ 10, 11, 13, 72 Stat. 373, 374. |
 | 230307(b) | 36:771. |  |
 | 230307(c) | 36:770(a). |  |
 | 230307(d) | 36:770(b). |  |
@@ -204,7 +204,7 @@ In subsection (c), the words “inure to the benefit of” are substituted for �
 
 In subsection (d), the words “or advance” are added in 2 places for consistency in the subsection.
 
-## § 230308. Principal office
+## § 230308. Principal office
 
 The principal office of the corporation shall be in the District of Columbia or another place decided by the board of administration. However, the activities of the corporation are not confined to the place where the principal office is located but may be conducted in the District of Columbia and throughout the States, territories, and possessions of the United States.
 
@@ -214,11 +214,11 @@ The principal office of the corporation shall be in the District of Columbia or 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 230308 | 36:769(a). | July 18, 1958, Pub. L. 85–530, § 9(a), 72 Stat. 373. |
+| 230308 | 36:769(a). | July 18, 1958, Pub. L. 85–530, § 9(a), 72 Stat. 373. |
 
 The word “various” is omitted as unnecessary.
 
-## § 230309. Records and inspection
+## § 230309. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -234,11 +234,11 @@ The word “various” is omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 230309 | 36:774. | July 18, 1958, Pub. L. 85–530, § 14, 72 Stat. 374. |
+| 230309 | 36:774. | July 18, 1958, Pub. L. 85–530, § 14, 72 Stat. 374. |
 
 In this section, the word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
 
-## § 230310. Service of process
+## § 230310. Service of process
 
 The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Notice to or service on the agent, or mailed to the business address of the agent, is notice to or service on the corporation.
 
@@ -248,11 +248,11 @@ The corporation shall have a designated agent in the District of Columbia to rec
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 230310 | 36:769(b). | July 18, 1958, Pub. L. 85–530, § 9(b), 72 Stat. 373. |
+| 230310 | 36:769(b). | July 18, 1958, Pub. L. 85–530, § 9(b), 72 Stat. 373. |
 
 The words “at all times” are omitted as unnecessary. The words “to receive” are substituted for “authorized to accept”, and the word “is” is substituted for “will be deemed”, for consistency in the revised title.
 
-## § 230311. Liability for acts of officers and agents
+## § 230311. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -262,9 +262,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 230311 | 36:772. | July 18, 1958, Pub. L. 85–530, § 12, 72 Stat. 374. |
+| 230311 | 36:772. | July 18, 1958, Pub. L. 85–530, § 12, 72 Stat. 374. |
 
-## § 230312. Annual report
+## § 230312. Annual report
 
 Not later than March 1 of each year, the corporation shall submit a report to Congress on the activities of the corporation during the prior fiscal year. The report may consist of a report on the proceedings of the national convention.
 
@@ -274,7 +274,7 @@ Not later than March 1 of each year, the corporation shall submit a report to Co
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 230312 | 36:776. | July 18, 1958, Pub. L. 85–530, § 16, 72 Stat. 374; Aug. 27, 1963, Pub. L. 88–105, § 2, 77 Stat. 130. |
+| 230312 | 36:776. | July 18, 1958, Pub. L. 85–530, § 16, 72 Stat. 374; Aug. 27, 1963, Pub. L. 88–105, § 2, 77 Stat. 130. |
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -282,7 +282,7 @@ Not later than March 1 of each year, the corporation shall submit a report to Co
 
 For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 207 of House Document No. 103–7.
 
-## § 230313. Termination of existence and distribution of assets
+## § 230313. Termination of existence and distribution of assets
 
 **(a) Authority To Make Contingent Provisions.—** The national convention, by resolution, may declare that the corporate existence will terminate on the occurrence of a specified event and provide for the disposition of any property remaining after the discharge of all liabilities.
 
@@ -304,7 +304,7 @@ For termination, effective May 15, 2000, of reporting provisions in this section
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 230313 | 36:779. | July 18, 1958, Pub. L. 85–530, § 19, 72 Stat. 375. |
+| 230313 | 36:779. | July 18, 1958, Pub. L. 85–530, § 19, 72 Stat. 375. |
 
 In subsection (a), the words “declare that the corporate existence will terminate on the occurrence of a specified event” are substituted for “declare the event upon which the corporate existence of the organization is to terminate” for clarity. The word “satisfaction” is omitted as included in “discharge”, and the word “obligations” is omitted as included in “liabilities”. The word “outstanding” is omitted as unnecessary.
 

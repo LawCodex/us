@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 49—INTEGRATED COASTAL AND OCEAN OBSERVATION SYSTEM
 
-## § 3601. Purposes
+## § 3601. Purposes
 
 The purposes of this chapter are—
 
@@ -43,7 +43,7 @@ The purposes of this chapter are—
 
 **(B)** to conserve healthy and restore degraded coastal ecosystems.
 
-(Pub. L. 111–11, title XII, § 12302, Mar. 30, 2009, 123 Stat. 1427; Pub. L. 116–271, title I, § 101, Dec. 31, 2020, 134 Stat. 3331.)
+(Pub. L. 111–11, title XII, § 12302, Mar. 30, 2009, 123 Stat. 1427; Pub. L. 116–271, title I, § 101, Dec. 31, 2020, 134 Stat. 3331.)
 
 **Editorial Notes**
 
@@ -55,13 +55,13 @@ The purposes of this chapter are—
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–271, § 1(a), Dec. 31, 2020, 134 Stat. 3331, provided that: “This Act [enacting section 10371 of Title 42, The Public Health and Welfare, amending this section, sections 3602 to 3604, 3606, 3607, 3610, 3611, and 3703 to 3706 of this title, and section 4057 of Title 42, repealing section 3608 of this title, and enacting provisions set out as a note under section 3704 of this title] may be cited as the ‘Coordinated Ocean Observations and Research Act of 2020’.”
+Pub. L. 116–271, § 1(a), Dec. 31, 2020, 134 Stat. 3331, provided that: “This Act [enacting section 10371 of Title 42, The Public Health and Welfare, amending this section, sections 3602 to 3604, 3606, 3607, 3610, 3611, and 3703 to 3706 of this title, and section 4057 of Title 42, repealing section 3608 of this title, and enacting provisions set out as a note under section 3704 of this title] may be cited as the ‘Coordinated Ocean Observations and Research Act of 2020’.”
 
 **Short Title**
 
-Pub. L. 111–11, title XII, § 12301, Mar. 30, 2009, 123 Stat. 1427, provided that: “This subtitle [subtitle C (§§ 12301–12312) of title XII of Pub. L. 111–11, enacting this chapter] may be cited as the ‘Integrated Coastal and Ocean Observation System Act of 2009’.”
+Pub. L. 111–11, title XII, § 12301, Mar. 30, 2009, 123 Stat. 1427, provided that: “This subtitle [subtitle C (§§ 12301–12312) of title XII of Pub. L. 111–11, enacting this chapter] may be cited as the ‘Integrated Coastal and Ocean Observation System Act of 2009’.”
 
-## § 3602. Definitions
+## § 3602. Definitions
 
 In this chapter:
 
@@ -73,7 +73,7 @@ The term “Administrator” means the Under Secretary of Commerce for Oceans an
 
 The term “Council” means the National Ocean Research Leadership Council established by section 8932 of title 10.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(3) Federal assets**
 
@@ -103,7 +103,7 @@ The term “System” means the National Integrated Coastal and Ocean Observatio
 
 The term “System Plan” means the plan contained in the document entitled “Ocean. US Publication No. 9, The First Integrated Ocean Observing System (IOOS) Development Plan”, as updated by the Council under this chapter.
 
-(Pub. L. 111–11, title XII, § 12303, Mar. 30, 2009, 123 Stat. 1428; Pub. L. 116–271, title I, § 102, Dec. 31, 2020, 134 Stat. 3333.)
+(Pub. L. 111–11, title XII, § 12303, Mar. 30, 2009, 123 Stat. 1428; Pub. L. 116–271, title I, § 102, Dec. 31, 2020, 134 Stat. 3333.)
 
 **Editorial Notes**
 
@@ -113,15 +113,15 @@ The reference to the National Ocean Research Leadership Council established by s
 
 **Amendments**
 
-2020—Par. (2). Pub. L. 116–271, § 102(1), substituted “section 8932” for “section 7902”.
+2020—Par. (2). Pub. L. 116–271, § 102(1), substituted “section 8932” for “section 7902”.
 
-Par. (5). Pub. L. 116–271, § 102(2), substituted “managed through States, regional organizations, universities, nongovernmental organizations, or the private sector and integrated into the System by a regional coastal observing system, the National Oceanic and Atmospheric Administration, or the agencies participating in the Interagency Ocean Observation Committee” for “integrated into the System and are managed through States, regional organizations, universities, nongovernmental organizations, or the private sector”.
+Par. (5). Pub. L. 116–271, § 102(2), substituted “managed through States, regional organizations, universities, nongovernmental organizations, or the private sector and integrated into the System by a regional coastal observing system, the National Oceanic and Atmospheric Administration, or the agencies participating in the Interagency Ocean Observation Committee” for “integrated into the System and are managed through States, regional organizations, universities, nongovernmental organizations, or the private sector”.
 
-Par. (6). Pub. L. 116–271, § 102(3), amended par. (6) generally. Prior to amendment, par. (6) related to regional information coordination entities.
+Par. (6). Pub. L. 116–271, § 102(3), amended par. (6) generally. Prior to amendment, par. (6) related to regional information coordination entities.
 
-Par. (7). Pub. L. 116–271, § 102(4), substituted “Administrator” for “National Oceanic and Atmospheric Administration”.
+Par. (7). Pub. L. 116–271, § 102(4), substituted “Administrator” for “National Oceanic and Atmospheric Administration”.
 
-## § 3603. Integrated Coastal and Ocean Observing System
+## § 3603. Integrated Coastal and Ocean Observing System
 
 **(a) Establishment**
 
@@ -313,9 +313,9 @@ For the purposes of this chapter, employees of Federal agencies are permitted to
 
 **(1) In general**
 
-The Administrator shall establish or designate a System advisory committee, which shall provide advice as may be requested by the Administrator or the Council under this chapter 1
+The Administrator shall establish or designate a System advisory committee, which shall provide advice as may be requested by the Administrator or the Council under this chapter 1
 
-<sup>1</sup>  So in original. Probably should be followed by a period.
+<sup>1</sup> So in original. Probably should be followed by a period.
 
 **(2) Purpose** The purpose of the System advisory committee is to advise the Administrator and the Interagency Ocean Observing Committee on—
 
@@ -399,7 +399,7 @@ For purposes of determining liability arising from the dissemination and use of 
 
 Nothing in this chapter shall be construed to invalidate existing certifications, contracts, or agreements between regional coastal observing systems and other elements of the System.
 
-(Pub. L. 111–11, title XII, § 12304, Mar. 30, 2009, 123 Stat. 1429; Pub. L. 116–271, title I, § 103, Dec. 31, 2020, 134 Stat. 3333; Pub. L. 117–286, § 4(a)(209), Dec. 27, 2022, 136 Stat. 4329.)
+(Pub. L. 111–11, title XII, § 12304, Mar. 30, 2009, 123 Stat. 1429; Pub. L. 116–271, title I, § 103, Dec. 31, 2020, 134 Stat. 3333; Pub. L. 117–286, § 4(a)(209), Dec. 27, 2022, 136 Stat. 4329.)
 
 **Editorial Notes**
 
@@ -407,31 +407,31 @@ Nothing in this chapter shall be construed to invalidate existing certifications
 
 2022—Subsec. (d)(4)(E). Pub. L. 117–286 substituted “Section 1013 of title 5” for “Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)”.
 
-2020—Subsec. (b)(1). Pub. L. 116–271, § 103(a)(1), added par. (1) and struck out former par. (1) which related to the general elements of the System.
+2020—Subsec. (b)(1). Pub. L. 116–271, § 103(a)(1), added par. (1) and struck out former par. (1) which related to the general elements of the System.
 
-Subsec. (b)(3). Pub. L. 116–271, § 103(a)(2), inserted “for research and for use in the development of products to address societal needs” before period at end.
+Subsec. (b)(3). Pub. L. 116–271, § 103(a)(2), inserted “for research and for use in the development of products to address societal needs” before period at end.
 
-Subsec. (b)(4). Pub. L. 116–271, § 103(e), substituted “regional coastal observing systems” for “regional information coordination entities”.
+Subsec. (b)(4). Pub. L. 116–271, § 103(e), substituted “regional coastal observing systems” for “regional information coordination entities”.
 
-Subsec. (c)(2) to (4). Pub. L. 116–271, § 103(b), added pars. (2) to (4) and struck out former pars. (2) to (4) which related, respectively, to the Interagency Ocean Observation Committee, the National Oceanic and Atmospheric Administration as the lead agency, and regional information coordination entities.
+Subsec. (c)(2) to (4). Pub. L. 116–271, § 103(b), added pars. (2) to (4) and struck out former pars. (2) to (4) which related, respectively, to the Interagency Ocean Observation Committee, the National Oceanic and Atmospheric Administration as the lead agency, and regional information coordination entities.
 
-Subsec. (d)(1). Pub. L. 116–271, § 103(c)(1), substituted “or the Council under this chapter” for “or the Interagency Ocean Observing Committee.”
+Subsec. (d)(1). Pub. L. 116–271, § 103(c)(1), substituted “or the Council under this chapter” for “or the Interagency Ocean Observing Committee.”
 
-Subsec. (d)(2)(A). Pub. L. 116–271, § 103(c)(2)(A), inserted “, data sharing,” after “data management”.
+Subsec. (d)(2)(A). Pub. L. 116–271, § 103(c)(2)(A), inserted “, data sharing,” after “data management”.
 
-Subsec. (d)(2)(D), (E). Pub. L. 116–271, § 103(c)(2)(B), (C), added subpars. (D) and (E) and struck out former subpar. (D) which read as follows: “any other purpose identified by the Administrator or the Interagency Ocean Observing Committee.”
+Subsec. (d)(2)(D), (E). Pub. L. 116–271, § 103(c)(2)(B), (C), added subpars. (D) and (E) and struck out former subpar. (D) which read as follows: “any other purpose identified by the Administrator or the Interagency Ocean Observing Committee.”
 
-Subsec. (d)(3)(B). Pub. L. 116–271, § 103(c)(2)(D), inserted “The Administrator may stagger the terms of the System advisory committee members.” before “Members”.
+Subsec. (d)(3)(B). Pub. L. 116–271, § 103(c)(2)(D), inserted “The Administrator may stagger the terms of the System advisory committee members.” before “Members”.
 
-Subsec. (d)(4)(A). Pub. L. 116–271, § 103(c)(2)(E)(i), struck out “and the Interagency Ocean Observing Committee” after “Administrator”.
+Subsec. (d)(4)(A). Pub. L. 116–271, § 103(c)(2)(E)(i), struck out “and the Interagency Ocean Observing Committee” after “Administrator”.
 
-Subsec. (d)(4)(C). Pub. L. 116–271, § 103(c)(2)(E)(ii), substituted “Observation” for “Observing”.
+Subsec. (d)(4)(C). Pub. L. 116–271, § 103(c)(2)(E)(ii), substituted “Observation” for “Observing”.
 
-Subsec. (e). Pub. L. 116–271, § 103(d), substituted “coastal observing system” for “information coordination entity” in two places and “a memorandum of agreement of certification under subsection (c)(3)(C)(iii)” for “contract, lease, grant, or cooperative agreement under subsection (c)(3)(D)”.
+Subsec. (e). Pub. L. 116–271, § 103(d), substituted “coastal observing system” for “information coordination entity” in two places and “a memorandum of agreement of certification under subsection (c)(3)(C)(iii)” for “contract, lease, grant, or cooperative agreement under subsection (c)(3)(D)”.
 
-Subsec. (f). Pub. L. 116–271, § 103(e), substituted “regional coastal observing systems” for “regional information coordination entities”.
+Subsec. (f). Pub. L. 116–271, § 103(e), substituted “regional coastal observing systems” for “regional information coordination entities”.
 
-## § 3604. Interagency financing and agreements
+## § 3604. Interagency financing and agreements
 
 **(a) In general**
 
@@ -441,7 +441,7 @@ The Secretary of Commerce may execute an agreement, on a reimbursable or nonreim
 
 Member Departments and agencies of the Council shall have the authority to create, support, and maintain joint centers, and to enter into and perform such contracts, leases, grants, and cooperative agreements as may be necessary to carry out the purposes of this chapter and fulfillment of the System Plan.
 
-(Pub. L. 111–11, title XII, § 12305, Mar. 30, 2009, 123 Stat. 1434; Pub. L. 116–271, title I, § 104, Dec. 31, 2020, 134 Stat. 3339.)
+(Pub. L. 111–11, title XII, § 12305, Mar. 30, 2009, 123 Stat. 1434; Pub. L. 116–271, title I, § 104, Dec. 31, 2020, 134 Stat. 3339.)
 
 **Editorial Notes**
 
@@ -449,13 +449,13 @@ Member Departments and agencies of the Council shall have the authority to creat
 
 2020—Subsec. (a). Pub. L. 116–271 amended subsec. (a) generally. Prior to amendment, text read as follows: “To carry out interagency activities under this chapter, the Secretary of Commerce may execute cooperative agreements, or any other agreements, with, and receive and expend funds made available by, any State or subdivision thereof, any Federal agency, or any public or private organization, or individual.”
 
-## § 3605. Application with other laws
+## § 3605. Application with other laws
 
 Nothing in this chapter supersedes or limits the authority of any agency to carry out its responsibilities and missions under other laws.
 
-(Pub. L. 111–11, title XII, § 12306, Mar. 30, 2009, 123 Stat. 1435.)
+(Pub. L. 111–11, title XII, § 12306, Mar. 30, 2009, 123 Stat. 1435.)
 
-## § 3606. Report to Congress
+## § 3606. Report to Congress
 
 **(a) Requirement**
 
@@ -497,7 +497,7 @@ Not later than March 30, 2022, and every 5 years thereafter, the Administrator s
 
 **(9)** the results of a periodic external independent programmatic audit of the System.
 
-(Pub. L. 111–11, title XII, § 12307, Mar. 30, 2009, 123 Stat. 1435; Pub. L. 116–271, title I, § 105, Dec. 31, 2020, 134 Stat. 3339.)
+(Pub. L. 111–11, title XII, § 12307, Mar. 30, 2009, 123 Stat. 1435; Pub. L. 116–271, title I, § 105, Dec. 31, 2020, 134 Stat. 3339.)
 
 **Editorial Notes**
 
@@ -505,11 +505,11 @@ Not later than March 30, 2022, and every 5 years thereafter, the Administrator s
 
 2020—Pub. L. 116–271 amended section generally. Prior to amendment, section required that no later than 2 years after March 30, 2009, and every 2 years thereafter, the Administrator was to prepare and the President acting through the Council was to approve and transmit to Congress a report on progress made in implementing this chapter.
 
-## § 3607. Public-private use policy
+## § 3607. Public-private use policy
 
 The Council shall maintain a policy that defines processes for making decisions about the roles of the Federal Government, the States, regional coastal observing systems, the academic community, and the private sector in providing to end-user communities environmental information, products, technologies, and services related to the System. The Administrator shall ensure that the National Oceanic and Atmospheric Administration adheres to the decision making process developed by the Council regarding the roles of the Federal Government, the States, the regional coastal observing systems, the academic community, and the private sector in providing end-user communities environmental information, data products, technologies, and services related to the System.
 
-(Pub. L. 111–11, title XII, § 12308, Mar. 30, 2009, 123 Stat. 1435; Pub. L. 116–271, title I, § 106, Dec. 31, 2020, 134 Stat. 3340.)
+(Pub. L. 111–11, title XII, § 12308, Mar. 30, 2009, 123 Stat. 1435; Pub. L. 116–271, title I, § 106, Dec. 31, 2020, 134 Stat. 3340.)
 
 **Editorial Notes**
 
@@ -517,17 +517,17 @@ The Council shall maintain a policy that defines processes for making decisions 
 
 2020—Pub. L. 116–271 amended section generally. Prior to amendment, section required the Council to develop a public-private use policy within 6 months after March 30, 2009.
 
-## § 3608. Repealed. Pub. L. 116–271, title I, § 107(a), Dec. 31, 2020, 134 Stat. 3341
+## § 3608. Repealed. Pub. L. 116–271, title I, § 107(a), Dec. 31, 2020, 134 Stat. 3341
 
-Section, Pub. L. 111–11, title XII, § 12309, Mar. 30, 2009, 123 Stat. 1436, related to independent cost estimates to be sent to Congress within 1 year after Mar. 30, 2009.
+Section, Pub. L. 111–11, title XII, § 12309, Mar. 30, 2009, 123 Stat. 1436, related to independent cost estimates to be sent to Congress within 1 year after Mar. 30, 2009.
 
-## § 3609. Intent of Congress
+## § 3609. Intent of Congress
 
 It is the intent of Congress that funding provided to agencies of the Council to implement this chapter shall supplement, and not replace, existing sources of funding for other programs. It is the further intent of Congress that agencies of the Council shall not enter into contracts or agreements for the development or procurement of new Federal assets for the System that are estimated to be in excess of $250,000,000 in life-cycle costs without first providing adequate notice to Congress and opportunity for review and comment.
 
-(Pub. L. 111–11, title XII, § 12310, Mar. 30, 2009, 123 Stat. 1436.)
+(Pub. L. 111–11, title XII, § 12310, Mar. 30, 2009, 123 Stat. 1436.)
 
-## § 3610. Authorization of appropriations
+## § 3610. Authorization of appropriations
 
 There are authorized to be appropriated to the Secretary of Commerce to support the integrated oceans observations under this chapter—
 
@@ -541,7 +541,7 @@ There are authorized to be appropriated to the Secretary of Commerce to support 
 
 **(5)** $56,000,000 for fiscal year 2025.
 
-(Pub. L. 111–11, title XII, § 12311, Mar. 30, 2009, 123 Stat. 1436; Pub. L. 116–271, title I, § 108, Dec. 31, 2020, 134 Stat. 3341.)
+(Pub. L. 111–11, title XII, § 12311, Mar. 30, 2009, 123 Stat. 1436; Pub. L. 116–271, title I, § 108, Dec. 31, 2020, 134 Stat. 3341.)
 
 **Editorial Notes**
 
@@ -549,7 +549,7 @@ There are authorized to be appropriated to the Secretary of Commerce to support 
 
 2020—Pub. L. 116–271 amended section generally. Prior to amendment, section related to authorization of appropriations for fiscal years 2009 to 2013.
 
-## § 3611. Assessing and modeling named storms over coastal States
+## § 3611. Assessing and modeling named storms over coastal States
 
 **(a) Definitions** In this section:
 
@@ -787,53 +787,53 @@ The database established under paragraph (1) shall be known as the “Coastal Wi
 
 **(B)** determine the cost effectiveness of such efforts; and
 
-**(2)** submit to the Committee on Banking, Housing, and Urban Affairs and the 1
+**(2)** submit to the Committee on Banking, Housing, and Urban Affairs and the 1
 
-<sup>1</sup>  So in original. Probably should be followed by “Committee on”.
+<sup>1</sup> So in original. Probably should be followed by “Committee on”.
 
 Commerce, Science, and Transportation of the Senate and the Committee on Financial Services and the Committee on Science, Space, and Technology of the House of Representatives a report on the findings of the Comptroller General with respect to the audit completed under paragraph (1).
 
-(Pub. L. 111–11, title XII, § 12312, as added Pub. L. 112–141, div. F, title II, § 100252, July 6, 2012, 126 Stat. 969; amended Pub. L. 116–271, title II, § 201(a), Dec. 31, 2020, 134 Stat. 3344.)
+(Pub. L. 111–11, title XII, § 12312, as added Pub. L. 112–141, div. F, title II, § 100252, July 6, 2012, 126 Stat. 969; amended Pub. L. 116–271, title II, § 201(a), Dec. 31, 2020, 134 Stat. 3344.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Consumer Option for an Alternative System to Allocate Losses Act of 2012, referred to in subsec. (g)(1), is subtitle B (§§ 100251–100253) of title II of div. F of Pub. L 112–141, which enacted this section, section 4057 of Title 42, the Public Health and Welfare, and provisions set out as a note under section 4001 of Title 42. For complete classification of this Act to the Code, see Short Title of 2012 Amendment note set out under section 4001 of Title 42 and Tables.
+The Consumer Option for an Alternative System to Allocate Losses Act of 2012, referred to in subsec. (g)(1), is subtitle B (§§ 100251–100253) of title II of div. F of Pub. L 112–141, which enacted this section, section 4057 of Title 42, the Public Health and Welfare, and provisions set out as a note under section 4001 of Title 42. For complete classification of this Act to the Code, see Short Title of 2012 Amendment note set out under section 4001 of Title 42 and Tables.
 
 **Amendments**
 
-2020—Subsec. (a)(2). Pub. L. 116–271, § 201(a)(1)(A), inserted “, except that the term shall not apply with respect to a State or territory that has an operational wind and flood loss allocation system” before period at end.
+2020—Subsec. (a)(2). Pub. L. 116–271, § 201(a)(1)(A), inserted “, except that the term shall not apply with respect to a State or territory that has an operational wind and flood loss allocation system” before period at end.
 
-Subsec. (a)(6). Pub. L. 116–271, § 201(a)(1)(B), inserted “sustained” before “winds”.
+Subsec. (a)(6). Pub. L. 116–271, § 201(a)(1)(B), inserted “sustained” before “winds”.
 
-Subsec. (a)(7). Pub. L. 116–271, § 201(a)(1)(C), substituted “for which post-storm assessments are conducted” for “that threaten any portion of a coastal State”.
+Subsec. (a)(7). Pub. L. 116–271, § 201(a)(1)(C), substituted “for which post-storm assessments are conducted” for “that threaten any portion of a coastal State”.
 
-Subsec. (b)(1)(A). Pub. L. 116–271, § 201(a)(2)(A)(i), substituted “December 31, 2020” for “540 days after July 6, 2012” and struck out “by regulation” after “Administrator shall develop”.
+Subsec. (b)(1)(A). Pub. L. 116–271, § 201(a)(2)(A)(i), substituted “December 31, 2020” for “540 days after July 6, 2012” and struck out “by regulation” after “Administrator shall develop”.
 
-Subsec. (b)(1)(B). Pub. L. 116–271, § 201(a)(2)(A)(ii), substituted “an indeterminate loss” for “every indeterminate loss”.
+Subsec. (b)(1)(B). Pub. L. 116–271, § 201(a)(2)(A)(ii), substituted “an indeterminate loss” for “every indeterminate loss”.
 
-Subsec. (b)(1)(C). Pub. L. 116–271, § 201(a)(2)(A)(iii), added subpar. (C).
+Subsec. (b)(1)(C). Pub. L. 116–271, § 201(a)(2)(A)(iii), added subpar. (C).
 
-Subsec. (b)(2)(B), (C). Pub. L. 116–271, § 201(a)(2)(B)(ii), added subpars. (B) and (C). Former subpars. (B) and (C) redesignated (D) and (E), respectively.
+Subsec. (b)(2)(B), (C). Pub. L. 116–271, § 201(a)(2)(B)(ii), added subpars. (B) and (C). Former subpars. (B) and (C) redesignated (D) and (E), respectively.
 
-Subsec. (b)(2)(D). Pub. L. 116–271, § 201(a)(2)(B)(iii), substituted “confirmation of indeterminate losses identified under subparagraph (C) with respect to a named storm” for “identification of a named storm under subparagraph (A)” and “assessment for each coastal State that suffered such indeterminate losses as a result of the named storm” for “assessment for such named storm”.
+Subsec. (b)(2)(D). Pub. L. 116–271, § 201(a)(2)(B)(iii), substituted “confirmation of indeterminate losses identified under subparagraph (C) with respect to a named storm” for “identification of a named storm under subparagraph (A)” and “assessment for each coastal State that suffered such indeterminate losses as a result of the named storm” for “assessment for such named storm”.
 
-Pub. L. 116–271, § 201(a)(2)(B)(i), redesignated subpar. (B) as (D).
+Pub. L. 116–271, § 201(a)(2)(B)(i), redesignated subpar. (B) as (D).
 
-Subsec. (b)(2)(E). Pub. L. 116–271, § 201(a)(2)(B)(iv), substituted “any indeterminate losses are identified under subparagraph (C)” for “an identification of a named storm is made under subparagraph (A)” and “under subparagraph (D) for any coastal State that suffered such indeterminate losses” for “for such storm under subparagraph (B)”.
+Subsec. (b)(2)(E). Pub. L. 116–271, § 201(a)(2)(B)(iv), substituted “any indeterminate losses are identified under subparagraph (C)” for “an identification of a named storm is made under subparagraph (A)” and “under subparagraph (D) for any coastal State that suffered such indeterminate losses” for “for such storm under subparagraph (B)”.
 
-Pub. L. 116–271, § 201(a)(2)(B)(i), redesignated subpar. (C) as (E).
+Pub. L. 116–271, § 201(a)(2)(B)(i), redesignated subpar. (C) as (E).
 
-Subsec. (b)(2)(F). Pub. L. 116–271, § 201(a)(2)(B)(v), added subpar. (F).
+Subsec. (b)(2)(F). Pub. L. 116–271, § 201(a)(2)(B)(v), added subpar. (F).
 
-Subsec. (c)(1). Pub. L. 116–271, § 201(a)(3)(A), substituted “December 31, 2020” for “540 days after July 6, 2012”.
+Subsec. (c)(1). Pub. L. 116–271, § 201(a)(3)(A), substituted “December 31, 2020” for “540 days after July 6, 2012”.
 
-Subsec. (c)(2). Pub. L. 116–271, § 201(a)(3)(B), inserted “, in the discretion of the Administrator,” after “of sensors as may”.
+Subsec. (c)(2). Pub. L. 116–271, § 201(a)(3)(B), inserted “, in the discretion of the Administrator,” after “of sensors as may”.
 
-Subsec. (c)(4)(B). Pub. L. 116–271, § 201(a)(3)(C), inserted “and expend” after “receive”.
+Subsec. (c)(4)(B). Pub. L. 116–271, § 201(a)(3)(C), inserted “and expend” after “receive”.
 
-## § 3612. Accelerating innovation at Cooperative Institutes
+## § 3612. Accelerating innovation at Cooperative Institutes
 
 **(a) Focus on emerging technologies** The Administrator shall consider evaluating the goals of 1 or more Cooperative Institutes of the Administration to include focusing on advancing or applying emerging technologies, which may include—
 
@@ -847,7 +847,7 @@ Subsec. (c)(4)(B). Pub. L. 116–271, § 201(a)(3)(C), inserted “and expend�
 
 The Cooperative Institutes shall work with the Interagency Ocean Observation Committee, the regional associations of the Integrated Ocean Observing System, and other ocean observing programs to coordinate technology needs and the transition of new technologies from research to operations.
 
-(Pub. L. 117–263, div. J, title CI, § 10104, Dec. 23, 2022, 136 Stat. 3958.)
+(Pub. L. 117–263, div. J, title CI, § 10104, Dec. 23, 2022, 136 Stat. 3958.)
 
 **Editorial Notes**
 
@@ -859,7 +859,7 @@ Section was enacted as part of the James M. Inhofe National Defense Authorizatio
 
 **Purpose**
 
-Pub. L. 117–263, div. J, title CI, § 10101, Dec. 23, 2022, 136 Stat. 3957, provided that:
+Pub. L. 117–263, div. J, title CI, § 10101, Dec. 23, 2022, 136 Stat. 3957, provided that:
 
 > “The purpose of this title [enacting this section and section 3613 of this title, amending section 893c of this title, and enacting provisions set out as notes under this section] is to promote and support—
 
@@ -869,11 +869,11 @@ Pub. L. 117–263, div. J, title CI, § 10101, Dec. 23, 2022, 136 Stat. 3957, 
 
 **No Additional Funds Authorized**
 
-Pub. L. 117–263, div. J, title CI, § 10106, Dec. 23, 2022, 136 Stat. 3961, provided that: “Funds to carry out this title [enacting this section and section 3613 of this title, amending section 893c of this title, and enacting provisions set out as notes under this section] may, as provided in advance in appropriations Acts, only come from within amounts authorized to be appropriated to the National Oceanic and Atmospheric Administration.”
+Pub. L. 117–263, div. J, title CI, § 10106, Dec. 23, 2022, 136 Stat. 3961, provided that: “Funds to carry out this title [enacting this section and section 3613 of this title, amending section 893c of this title, and enacting provisions set out as notes under this section] may, as provided in advance in appropriations Acts, only come from within amounts authorized to be appropriated to the National Oceanic and Atmospheric Administration.”
 
 **Definitions**
 
-Pub. L. 117–263, div. J, title CI, § 10102, Dec. 23, 2022, 136 Stat. 3957, provided that:
+Pub. L. 117–263, div. J, title CI, § 10102, Dec. 23, 2022, 136 Stat. 3957, provided that:
 
 > “In this title [enacting this section and section 3613 of this title, amending section 893c of this title, and enacting provisions set out as notes under this section]:
 
@@ -883,7 +883,7 @@ Pub. L. 117–263, div. J, title CI, § 10102, Dec. 23, 2022, 136 Stat. 3957, 
 
 > **“(3) Indian tribe.—** The term ‘Indian Tribe’ has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).”
 
-## § 3613. Blue Economy valuation
+## § 3613. Blue Economy valuation
 
 **(a) Measurement of industries**
 
@@ -953,7 +953,7 @@ The term “Historically Black Colleges and Universities” has the meaning give
 
 The term “Tribal College or University” has the meaning given the term in section 1059c of title 20.
 
-(Pub. L. 117–263, div. J, title CI, § 10105, Dec. 23, 2022, 136 Stat. 3959.)
+(Pub. L. 117–263, div. J, title CI, § 10105, Dec. 23, 2022, 136 Stat. 3959.)
 
 **Editorial Notes**
 

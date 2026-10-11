@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2014—Pub. L. 113–291, div. A, title IX, § 916(f)(2), Dec. 19, 2014, 128 Stat. 3479, added item 1501a and substituted “Program to resolve missing person cases” for “Program to resolve preenactment missing person cases” in item 1509.
+2014—Pub. L. 113–291, div. A, title IX, § 916(f)(2), Dec. 19, 2014, 128 Stat. 3479, added item 1501a and substituted “Program to resolve missing person cases” for “Program to resolve preenactment missing person cases” in item 1509.
 
-2009—Pub. L. 111–84, div. A, title V, § 541(b), Oct. 28, 2009, 123 Stat. 2298, substituted “Program to resolve preenactment missing person cases” for “Preenactment cases” in item 1509.
+2009—Pub. L. 111–84, div. A, title V, § 541(b), Oct. 28, 2009, 123 Stat. 2298, substituted “Program to resolve preenactment missing person cases” for “Preenactment cases” in item 1509.
 
-1996—Pub. L. 104–201, div. A, title V, § 578(f)(2)(B), Sept. 23, 1996, 110 Stat. 2537, struck out “, special interest” after “Preenactment” in item 1509.
+1996—Pub. L. 104–201, div. A, title V, § 578(f)(2)(B), Sept. 23, 1996, 110 Stat. 2537, struck out “, special interest” after “Preenactment” in item 1509.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Determination and Reporting of Members Missing, Absent Unknown, Absent Without Leave, and Duty Status-Whereabouts Unknown**
 
-Pub. L. 117–81, div. A, title V, § 548, Dec. 27, 2021, 135 Stat. 1714, provided that:
+Pub. L. 117–81, div. A, title V, § 548, Dec. 27, 2021, 135 Stat. 1714, provided that:
 
 > **“(a) Comprehensive Review of Missing Persons Reporting.—** The Secretary of Defense shall instruct each Secretary of a military department to perform a comprehensive review of the policies and procedures of the military department concerned to determine and report a member of an Armed Force under the jurisdiction of such Secretary of a military department as missing, absent unknown, absent without leave, or duty status-whereabouts unknown.
 
@@ -47,7 +47,7 @@ Pub. L. 117–81, div. A, title V, § 548, Dec. 27, 2021, 135 Stat. 1714, prov
 
 > **“(d) Report Regarding National Guard.—** Not later than June 1, 2022, the Secretary of Defense shall submit, to the Committees on Armed Services of the Senate and House of Representatives, a report on the feasibility of implementing subsections (a), (b), and (c), with regards to facilities of the National Guard. Such report shall include recommendations of the Secretary, including a proposed timeline for implementing the provisions of such subsections that the Secretary determines feasible.”
 
-## § 1501. System for accounting for missing persons
+## § 1501. System for accounting for missing persons
 
 **(a) Responsibility for Missing Persons.—**
 
@@ -111,75 +111,75 @@ Pub. L. 117–81, div. A, title V, § 548, Dec. 27, 2021, 135 Stat. 1714, prov
 
 **(f) Secretary Concerned.—** In this chapter, the term “Secretary concerned” includes, in the case of a civilian officer or employee of the Department of Defense or an employee of a contractor of the Department of Defense, the Secretary of the military department or head of the element of the Department of Defense employing the officer or employee or contracting with the contractor, as the case may be.
 
-(Added Pub. L. 104–106, div. A, title V, § 569(b)(1), Feb. 10, 1996, 110 Stat. 336; amended Pub. L. 104–201, div. A, title V, § 578(a)(1), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, § 599(a)(1), Nov. 18, 1997, 111 Stat. 1766; Pub. L. 106–65, div. A, title X, § 1066(a)(13), Oct. 5, 1999, 113 Stat. 771; Pub. L. 107–314, div. A, title V, § 551, Dec. 2, 2002, 116 Stat. 2551; Pub. L. 108–375, div. A, title V, § 582(a), Oct. 28, 2004, 118 Stat. 1928; Pub. L. 111–383, div. A, title IX, § 901(g), Jan. 7, 2011, 124 Stat. 4322; Pub. L. 113–66, div. A, title V, § 581(a), Dec. 26, 2013, 127 Stat. 773; Pub. L. 113–291, div. A, title IX, § 916(a), Dec. 19, 2014, 128 Stat. 3476; Pub. L. 114–328, div. A, title IX, § 953(a), Dec. 23, 2016, 130 Stat. 2376.)
+(Added Pub. L. 104–106, div. A, title V, § 569(b)(1), Feb. 10, 1996, 110 Stat. 336; amended Pub. L. 104–201, div. A, title V, § 578(a)(1), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, § 599(a)(1), Nov. 18, 1997, 111 Stat. 1766; Pub. L. 106–65, div. A, title X, § 1066(a)(13), Oct. 5, 1999, 113 Stat. 771; Pub. L. 107–314, div. A, title V, § 551, Dec. 2, 2002, 116 Stat. 2551; Pub. L. 108–375, div. A, title V, § 582(a), Oct. 28, 2004, 118 Stat. 1928; Pub. L. 111–383, div. A, title IX, § 901(g), Jan. 7, 2011, 124 Stat. 4322; Pub. L. 113–66, div. A, title V, § 581(a), Dec. 26, 2013, 127 Stat. 773; Pub. L. 113–291, div. A, title IX, § 916(a), Dec. 19, 2014, 128 Stat. 3476; Pub. L. 114–328, div. A, title IX, § 953(a), Dec. 23, 2016, 130 Stat. 2376.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Subsec. (a)(1)(A). Pub. L. 114–328, § 953(a)(1), inserted “from past conflicts” after “matters relating to missing persons”.
+2016—Subsec. (a)(1)(A). Pub. L. 114–328, § 953(a)(1), inserted “from past conflicts” after “matters relating to missing persons”.
 
-Subsec. (a)(2)(A). Pub. L. 114–328, § 953(a)(2)(A), (B), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “Policy, control, and oversight within the Department of Defense of the entire process for investigation and recovery related to missing persons, including matters related to search, rescue, escape, and evasion.”
+Subsec. (a)(2)(A). Pub. L. 114–328, § 953(a)(2)(A), (B), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “Policy, control, and oversight within the Department of Defense of the entire process for investigation and recovery related to missing persons, including matters related to search, rescue, escape, and evasion.”
 
-Subsec. (a)(2)(B). Pub. L. 114–328, § 953(a)(2)(B), (C), redesignated subpar. (C) as (B) and inserted “from past conflicts” after “missing persons” in two places. Former subpar. (B) redesignated (A).
+Subsec. (a)(2)(B). Pub. L. 114–328, § 953(a)(2)(B), (C), redesignated subpar. (C) as (B) and inserted “from past conflicts” after “missing persons” in two places. Former subpar. (B) redesignated (A).
 
-Subsec. (a)(2)(C), (D). Pub. L. 114–328, § 953(a)(2)(B), redesignated subpars. (D) and (E) as (C) and (D), respectively. Former subpar. (C) redesignated (B).
+Subsec. (a)(2)(C), (D). Pub. L. 114–328, § 953(a)(2)(B), redesignated subpars. (D) and (E) as (C) and (D), respectively. Former subpar. (C) redesignated (B).
 
-Subsec. (a)(2)(E), (F). Pub. L. 114–328, § 953(a)(2)(B), (C), redesignated subpar. (F) as (E) and inserted “from past conflicts” after “missing persons” in two places.
+Subsec. (a)(2)(E), (F). Pub. L. 114–328, § 953(a)(2)(B), (C), redesignated subpar. (F) as (E) and inserted “from past conflicts” after “missing persons” in two places.
 
-Subsec. (a)(4). Pub. L. 114–328, § 953(a)(3)(B), inserted “from past conflicts” after “missing persons”.
+Subsec. (a)(4). Pub. L. 114–328, § 953(a)(3)(B), inserted “from past conflicts” after “missing persons”.
 
-Pub. L. 114–328, § 953(a)(3)(A), which directed striking out “for personal recovery (including search, rescue, escape, and evasion) and” was executed by striking out “for personnel recovery (including search, rescue, escape, and evasion) and” after “Department of Defense,”, to reflect the probable intent of Congress.
+Pub. L. 114–328, § 953(a)(3)(A), which directed striking out “for personal recovery (including search, rescue, escape, and evasion) and” was executed by striking out “for personnel recovery (including search, rescue, escape, and evasion) and” after “Department of Defense,”, to reflect the probable intent of Congress.
 
-Subsec. (a)(5). Pub. L. 114–328, § 953(a)(4), struck out par. (5) which read as follows: “The designated Agency Director shall establish procedures to be followed by Department of Defense boards of inquiry, and by officials reviewing the reports of such boards, under this chapter.”
+Subsec. (a)(5). Pub. L. 114–328, § 953(a)(4), struck out par. (5) which read as follows: “The designated Agency Director shall establish procedures to be followed by Department of Defense boards of inquiry, and by officials reviewing the reports of such boards, under this chapter.”
 
 2014—Subsec. (a). Pub. L. 113–291 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to responsibility for missing personnel, consisting of pars. (1) to (6).
 
 2013—Subsec. (a)(1)(D). Pub. L. 113–66 added subpar. (D).
 
-2011—Subsec. (a). Pub. L. 111–383, § 901(g)(1), substituted “Responsibility for Missing Personnel” for “Office for Missing Personnel” in heading.
+2011—Subsec. (a). Pub. L. 111–383, § 901(g)(1), substituted “Responsibility for Missing Personnel” for “Office for Missing Personnel” in heading.
 
-Subsec. (a)(1). Pub. L. 111–383, § 901(g)(2)(A)–(C), in introductory provisions, substituted “designate within the Office of the Secretary of Defense an official as the Deputy Assistant Secretary of Defense for Prisoner of War/Missing Personnel Affairs to have responsibility for Department of Defense matters” for “establish within the Office of the Secretary of Defense an office to have responsibility for Department of Defense policy”, struck out “Such office shall be known as the Defense Prisoner of War/Missing Personnel Office.” after “persons.”, and substituted “of the official designated under this paragraph” for “of the office”.
+Subsec. (a)(1). Pub. L. 111–383, § 901(g)(2)(A)–(C), in introductory provisions, substituted “designate within the Office of the Secretary of Defense an official as the Deputy Assistant Secretary of Defense for Prisoner of War/Missing Personnel Affairs to have responsibility for Department of Defense matters” for “establish within the Office of the Secretary of Defense an office to have responsibility for Department of Defense policy”, struck out “Such office shall be known as the Defense Prisoner of War/Missing Personnel Office.” after “persons.”, and substituted “of the official designated under this paragraph” for “of the office”.
 
-Subsec. (a)(1)(B), (C). Pub. L. 111–383, § 901(g)(2)(D)–(F), added subpar. (B) and redesignated former subpar. (B) as (C).
+Subsec. (a)(1)(B), (C). Pub. L. 111–383, § 901(g)(2)(D)–(F), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Subsec. (a)(2). Pub. L. 111–383, § 901(g)(4), added par. (2). Former par. (2) redesignated (3).
+Subsec. (a)(2). Pub. L. 111–383, § 901(g)(4), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (a)(3). Pub. L. 111–383, § 901(g)(3), (5), redesignated par. (2) as (3), struck out “of the office” after “responsibilities”, and substituted “official designated under paragraph (1) and (2)” for “head of the office”. Former par. (3) redesignated (4).
+Subsec. (a)(3). Pub. L. 111–383, § 901(g)(3), (5), redesignated par. (2) as (3), struck out “of the office” after “responsibilities”, and substituted “official designated under paragraph (1) and (2)” for “head of the office”. Former par. (3) redesignated (4).
 
-Subsec. (a)(4). Pub. L. 111–383, § 901(g)(3), (6), redesignated par. (3) as (4), substituted “designated official” for “office”, and inserted “and for personnel accounting (including locating, recovering, and identifying missing persons or their remains after hostilities have ceased)” after “evasion)”. Former par. (4) redesignated (5).
+Subsec. (a)(4). Pub. L. 111–383, § 901(g)(3), (6), redesignated par. (3) as (4), substituted “designated official” for “office”, and inserted “and for personnel accounting (including locating, recovering, and identifying missing persons or their remains after hostilities have ceased)” after “evasion)”. Former par. (4) redesignated (5).
 
-Subsec. (a)(5). Pub. L. 111–383, § 901(g)(3), (7), redesignated par. (4) as (5) and substituted “designated official” for “office”. Former par. (5) redesignated (6).
+Subsec. (a)(5). Pub. L. 111–383, § 901(g)(3), (7), redesignated par. (4) as (5) and substituted “designated official” for “office”. Former par. (5) redesignated (6).
 
-Subsec. (a)(6). Pub. L. 111–383, § 901(g)(3), redesignated par. (5) as (6).
+Subsec. (a)(6). Pub. L. 111–383, § 901(g)(3), redesignated par. (5) as (6).
 
-Subsec. (a)(6)(A). Pub. L. 111–383, § 901(g)(8)(A)(ii), which directed the substitution of “activity” for “office” both places appearing, was executed by making the substitution in three places to reflect the probable intent of Congress.
+Subsec. (a)(6)(A). Pub. L. 111–383, § 901(g)(8)(A)(ii), which directed the substitution of “activity” for “office” both places appearing, was executed by making the substitution in three places to reflect the probable intent of Congress.
 
-Pub. L. 111–383, § 901(g)(8)(A)(i), inserted “The Secretary of Defense shall establish an activity to account for personnel who are missing or whose remains have not been recovered from the conflict in which they were lost. This activity shall be known as the Defense Prisoner of War/Missing Personnel Office.” after “(A)”.
+Pub. L. 111–383, § 901(g)(8)(A)(i), inserted “The Secretary of Defense shall establish an activity to account for personnel who are missing or whose remains have not been recovered from the conflict in which they were lost. This activity shall be known as the Defense Prisoner of War/Missing Personnel Office.” after “(A)”.
 
-Subsec. (a)(6)(B)(i). Pub. L. 111–383, § 901(g)(8)(B), substituted “activity” for “to the office”.
+Subsec. (a)(6)(B)(i). Pub. L. 111–383, § 901(g)(8)(B), substituted “activity” for “to the office”.
 
-Subsec. (a)(6)(B)(ii). Pub. L. 111–383, § 901(g)(8)(C), substituted “activity” for “to the office” and “of the activity” for “of the office”.
+Subsec. (a)(6)(B)(ii). Pub. L. 111–383, § 901(g)(8)(C), substituted “activity” for “to the office” and “of the activity” for “of the office”.
 
-Subsec. (a)(6)(C). Pub. L. 111–383, § 901(g)(8)(D), substituted “activity” for “office”.
+Subsec. (a)(6)(C). Pub. L. 111–383, § 901(g)(8)(D), substituted “activity” for “office”.
 
-2004—Subsec. (a)(5)(B). Pub. L. 108–375 designated existing provisions as cl. (i), inserted “, whether temporary or permanent,” after “civilian personnel”, and added cl. (ii).
+2004—Subsec. (a)(5)(B). Pub. L. 108–375 designated existing provisions as cl. (i), inserted “, whether temporary or permanent,” after “civilian personnel”, and added cl. (ii).
 
-2002—Subsec. (a)(1). Pub. L. 107–314, § 551(b), inserted “Such office shall be known as the Defense Prisoner of War/Missing Personnel Office.” after first sentence.
+2002—Subsec. (a)(1). Pub. L. 107–314, § 551(b), inserted “Such office shall be known as the Defense Prisoner of War/Missing Personnel Office.” after first sentence.
 
-Subsec. (a)(5). Pub. L. 107–314, § 551(a), added par. (5).
+Subsec. (a)(5). Pub. L. 107–314, § 551(a), added par. (5).
 
 1999—Subsec. (d). Pub. L. 106–65 substituted “described” for “prescribed” in first sentence.
 
-1997—Subsec. (c). Pub. L. 105–85, § 599(a)(1)(A), added subsec. (c) and struck out former subsec. (c) which read as follows:
+1997—Subsec. (c). Pub. L. 105–85, § 599(a)(1)(A), added subsec. (c) and struck out former subsec. (c) which read as follows:
 
 “(c) Covered Persons.—Section 1502 of this title applies in the case of any member of the armed forces on active duty who becomes involuntarily absent as a result of a hostile action, or under circumstances suggesting that the involuntary absence is a result of a hostile action, and whose status is undetermined or who is unaccounted for.”
 
-Subsec. (f). Pub. L. 105–85, § 599(a)(1)(B), added subsec. (f).
+Subsec. (f). Pub. L. 105–85, § 599(a)(1)(B), added subsec. (f).
 
-1996—Subsec. (c). Pub. L. 104–201, § 578(a)(1)(A), substituted “applies in the case of” for “applies in the case of the following persons:” and “any member” for “(1) Any member” and struck out par. (2) which read as follows: “Any civilian employee of the Department of Defense, and any employee of a contractor of the Department of Defense, who serves with or accompanies the armed forces in the field under orders who becomes involuntarily absent as a result of a hostile action, or under circumstances suggesting that the involuntary absence is a result of a hostile action, and whose status is undetermined or who is unaccounted for.”
+1996—Subsec. (c). Pub. L. 104–201, § 578(a)(1)(A), substituted “applies in the case of” for “applies in the case of the following persons:” and “any member” for “(1) Any member” and struck out par. (2) which read as follows: “Any civilian employee of the Department of Defense, and any employee of a contractor of the Department of Defense, who serves with or accompanies the armed forces in the field under orders who becomes involuntarily absent as a result of a hostile action, or under circumstances suggesting that the involuntary absence is a result of a hostile action, and whose status is undetermined or who is unaccounted for.”
 
-Subsec. (f). Pub. L. 104–201, § 578(a)(1)(B), struck out subsec. (f) which read as follows:
+Subsec. (f). Pub. L. 104–201, § 578(a)(1)(B), struck out subsec. (f) which read as follows:
 
 “(f) Secretary Concerned.—In this chapter, the term ‘Secretary concerned’ includes, in the case of a civilian employee of the Department of Defense or contractor of the Department of Defense, the Secretary of the military department or head of the element of the Department of Defense employing the employee or contracting with the contractor, as the case may be.”
 
@@ -191,11 +191,11 @@ Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub
 
 **Authority To Enter Into Agreements**
 
-Pub. L. 118–31, div. A, title X, § 1063(b), Dec. 22, 2023, 137 Stat. 401, provided that: “The Director of the Defense POW/MIA Accounting Agency may enter into agreements with universities or research organizations under which such universities or research organizations agree to provide additional capabilities for specialized missions or research requirements relating to expanding accounting for persons missing from designated past conflicts.”
+Pub. L. 118–31, div. A, title X, § 1063(b), Dec. 22, 2023, 137 Stat. 401, provided that: “The Director of the Defense POW/MIA Accounting Agency may enter into agreements with universities or research organizations under which such universities or research organizations agree to provide additional capabilities for specialized missions or research requirements relating to expanding accounting for persons missing from designated past conflicts.”
 
 **Recovery and Identification of Remains of Certain World War II Servicemen Lost in Pacific Theater of Operations**
 
-Pub. L. 106–65, div. A, title V, § 576, Oct. 5, 1999, 113 Stat. 624, as amended by Pub. L. 107–107, div. A, title X, § 1048(g)(3), Dec. 28, 2001, 115 Stat. 1228, provided that:
+Pub. L. 106–65, div. A, title V, § 576, Oct. 5, 1999, 113 Stat. 624, as amended by Pub. L. 107–107, div. A, title X, § 1048(g)(3), Dec. 28, 2001, 115 Stat. 1228, provided that:
 
 > **“(a) Recovery of Remains.—**
 
@@ -209,7 +209,7 @@ Pub. L. 106–65, div. A, title V, § 576, Oct. 5, 1999, 113 Stat. 624, as ame
 
 **POW/MIA Intelligence Analysis**
 
-Pub. L. 105–85, div. A, title IX, § 934, Nov. 18, 1997, 111 Stat. 1866, as amended by Pub. L. 106–65, div. A, title X, § 1066(c)(4), Oct. 5, 1999, 113 Stat. 773, provided that:
+Pub. L. 105–85, div. A, title IX, § 934, Nov. 18, 1997, 111 Stat. 1866, as amended by Pub. L. 106–65, div. A, title X, § 1066(c)(4), Oct. 5, 1999, 113 Stat. 773, provided that:
 
 > **“(a) Intelligence Analysis.—** The Director of Central Intelligence, in consultation with the Secretary of Defense, shall provide intelligence analysis on matters concerning prisoners of war and missing persons (as defined in chapter 76 of title 10, United States Code) to all departments and agencies of the Federal Government involved in such matters.
 
@@ -219,9 +219,9 @@ Pub. L. 105–85, div. A, title IX, § 934, Nov. 18, 1997, 111 Stat. 1866, as 
 
 **Congressional Statement of Purpose**
 
-Pub. L. 104–106, div. A, title V, § 569(a), Feb. 10, 1996, 110 Stat. 336, provided that: “The purpose of this section [enacting this chapter and section 655 of this title, amending sections 552, 553, 555, and 556 of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as a note under section 5561 of Title 5, Government Organization and Employees] is to ensure that any member of the Armed Forces (and any Department of Defense civilian employee or contractor employee who serves with or accompanies the Armed Forces in the field under orders) who becomes missing or unaccounted for is ultimately accounted for by the United States and, as a general rule, is not declared dead solely because of the passage of time.”
+Pub. L. 104–106, div. A, title V, § 569(a), Feb. 10, 1996, 110 Stat. 336, provided that: “The purpose of this section [enacting this chapter and section 655 of this title, amending sections 552, 553, 555, and 556 of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as a note under section 5561 of Title 5, Government Organization and Employees] is to ensure that any member of the Armed Forces (and any Department of Defense civilian employee or contractor employee who serves with or accompanies the Armed Forces in the field under orders) who becomes missing or unaccounted for is ultimately accounted for by the United States and, as a general rule, is not declared dead solely because of the passage of time.”
 
-## § 1501a. Public-private partnerships; other forms of support
+## § 1501a. Public-private partnerships; other forms of support
 
 **(a) Public-private Partnerships.—** The Secretary of Defense may enter into arrangements known as public-private partnerships with appropriate entities outside the Government for the purposes of facilitating the activities of the designated Defense Agency. The Secretary may only partner with foreign governments or foreign entities with the concurrence of the Secretary of State. Any such arrangement shall be entered into in accordance with authorities provided under this section or any other authority otherwise available to the Secretary. Regulations prescribed under subsection (f)(1) shall include provisions for the establishment and implementation of such partnerships. An employee of an entity outside the Government that has entered into a public-private partnership, cooperative agreement, or a grant arrangement with, or in direct support of, the designated Defense Agency under this section shall be considered to be an employee of the Federal Government by reason of participation in such partnership, cooperative agreement, or grant, only for the purposes of section 552a of title 5 (relating to maintenance of records on individuals).
 
@@ -261,7 +261,7 @@ Pub. L. 104–106, div. A, title V, § 569(a), Feb. 10, 1996, 110 Stat. 336, p
 
 **(3) Gift.—** The term “gift” includes a devise or bequest.
 
-(Added Pub. L. 113–291, div. A, title IX, § 916(b), Dec. 19, 2014, 128 Stat. 3477; amended Pub. L. 115–232, div. A, title V, § 523, Aug. 13, 2018, 132 Stat. 1756; Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
+(Added Pub. L. 113–291, div. A, title IX, § 916(b), Dec. 19, 2014, 128 Stat. 3477; amended Pub. L. 115–232, div. A, title V, § 523, Aug. 13, 2018, 132 Stat. 1756; Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
 
 **Editorial Notes**
 
@@ -269,11 +269,11 @@ Pub. L. 104–106, div. A, title V, § 569(a), Feb. 10, 1996, 110 Stat. 336, p
 
 2021—Subsec. (c)(2). Pub. L. 116–283 substituted “3201(e) of this title” for “2304(k) of this title” and “3204(a)(5) of this title” for “2304(c)(5) of this title”.
 
-2018—Subsec. (a). Pub. L. 115–232, § 523(a), (c), substituted “subsection (f)(1)” for “subsection (e)(1)” and inserted at end “An employee of an entity outside the Government that has entered into a public-private partnership, cooperative agreement, or a grant arrangement with, or in direct support of, the designated Defense Agency under this section shall be considered to be an employee of the Federal Government by reason of participation in such partnership, cooperative agreement, or grant, only for the purposes of section 552a of title 5 (relating to maintenance of records on individuals).”
+2018—Subsec. (a). Pub. L. 115–232, § 523(a), (c), substituted “subsection (f)(1)” for “subsection (e)(1)” and inserted at end “An employee of an entity outside the Government that has entered into a public-private partnership, cooperative agreement, or a grant arrangement with, or in direct support of, the designated Defense Agency under this section shall be considered to be an employee of the Federal Government by reason of participation in such partnership, cooperative agreement, or grant, only for the purposes of section 552a of title 5 (relating to maintenance of records on individuals).”
 
-Subsecs. (e), (f). Pub. L. 115–232, § 523(b)(1), (2), added subsec. (e) and redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
+Subsecs. (e), (f). Pub. L. 115–232, § 523(b)(1), (2), added subsec. (e) and redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 115–232, § 523(b)(1), (3), redesignated subsec. (f) as (g) and added par. (3).
+Subsec. (g). Pub. L. 115–232, § 523(b)(1), (3), redesignated subsec. (f) as (g) and added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -281,7 +281,7 @@ Subsec. (g). Pub. L. 115–232, § 523(b)(1), (3), redesignated subsec. (f) as
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-## § 1502. Missing persons: initial report
+## § 1502. Missing persons: initial report
 
 **(a) Preliminary Assessment and Recommendation by Commander.—** After receiving information that the whereabouts and status of a person described in section 1501(c) of this title is uncertain and that the absence of the person may be involuntary, the commander of the unit, facility, or area to or in which the person is assigned shall make a preliminary assessment of the circumstances. If, as a result of that assessment, the commander concludes that the person is missing, the commander shall—
 
@@ -293,7 +293,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **(c) Safeguarding and Forwarding of Records.—** A commander making a preliminary assessment under subsection (a) with respect to a missing person shall (in accordance with procedures prescribed under section 1501 of this title) safeguard and forward for official use any information relating to the whereabouts and status of the missing person that results from the preliminary assessment or from actions taken to locate the person.
 
-(Added Pub. L. 104–106, div. A, title V, § 569(b)(1), Feb. 10, 1996, 110 Stat. 338; amended Pub. L. 104–201, div. A, title V, § 578(b)(1), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, § 599(b)(1), Nov. 18, 1997, 111 Stat. 1768.)
+(Added Pub. L. 104–106, div. A, title V, § 569(b)(1), Feb. 10, 1996, 110 Stat. 338; amended Pub. L. 104–201, div. A, title V, § 578(b)(1), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, § 599(b)(1), Nov. 18, 1997, 111 Stat. 1768.)
 
 **Editorial Notes**
 
@@ -301,15 +301,15 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 1997—Subsecs. (b), (c). Pub. L. 105–85 added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1996—Subsec. (a)(2). Pub. L. 104–201, § 578(b)(1)(A), substituted “10 days” for “48 hours” and “Secretary concerned” for “theater component commander with jurisdiction over the missing person”.
+1996—Subsec. (a)(2). Pub. L. 104–201, § 578(b)(1)(A), substituted “10 days” for “48 hours” and “Secretary concerned” for “theater component commander with jurisdiction over the missing person”.
 
-Subsec. (b). Pub. L. 104–201, § 578(b)(1)(D), struck out at end “The theater component commander through whom the report with respect to the missing person is transmitted under subsection (b) shall ensure that all pertinent information relating to the whereabouts and status of the missing person that results from the preliminary assessment or from actions taken to locate the person is properly safeguarded to avoid loss, damage, or modification.”
+Subsec. (b). Pub. L. 104–201, § 578(b)(1)(D), struck out at end “The theater component commander through whom the report with respect to the missing person is transmitted under subsection (b) shall ensure that all pertinent information relating to the whereabouts and status of the missing person that results from the preliminary assessment or from actions taken to locate the person is properly safeguarded to avoid loss, damage, or modification.”
 
-Pub. L. 104–201, § 578(b)(1)(B), (C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Transmission Through Theater Component Commander.—Upon reviewing a report under subsection (a) recommending that a person be placed in a missing status, the theater component commander shall ensure that all necessary actions are being taken, and all appropriate assets are being used, to resolve the status of the missing person. Not later than 14 days after receiving the report, the theater component commander shall forward the report to the Secretary of Defense or the Secretary concerned in accordance with procedures prescribed under section 1501(b) of this title. The theater component commander shall include with such report a certification that all necessary actions are being taken, and all appropriate assets are being used, to resolve the status of the missing person.”
+Pub. L. 104–201, § 578(b)(1)(B), (C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Transmission Through Theater Component Commander.—Upon reviewing a report under subsection (a) recommending that a person be placed in a missing status, the theater component commander shall ensure that all necessary actions are being taken, and all appropriate assets are being used, to resolve the status of the missing person. Not later than 14 days after receiving the report, the theater component commander shall forward the report to the Secretary of Defense or the Secretary concerned in accordance with procedures prescribed under section 1501(b) of this title. The theater component commander shall include with such report a certification that all necessary actions are being taken, and all appropriate assets are being used, to resolve the status of the missing person.”
 
-Subsec. (c). Pub. L. 104–201, § 578(b)(1)(C), redesignated subsec. (c) as (b).
+Subsec. (c). Pub. L. 104–201, § 578(b)(1)(C), redesignated subsec. (c) as (b).
 
-## § 1503. Actions of Secretary concerned; initial board inquiry
+## § 1503. Actions of Secretary concerned; initial board inquiry
 
 **(a) Determination by Secretary.—** Upon receiving a recommendation under section 1502(a) of this title that a person be placed in a missing status, the Secretary receiving the recommendation shall review the recommendation and, not later than 10 days after receiving such recommendation, shall appoint a board under this section to conduct an inquiry into the whereabouts and status of the person.
 
@@ -421,31 +421,31 @@ Subsec. (c). Pub. L. 104–201, § 578(b)(1)(C), redesignated subsec. (c) as (
 
 **(k) Treatment of Determination.—** Any determination of the status of a missing person under subsection (i) shall be treated as the determination of the status of the person by all departments and agencies of the United States.
 
-(Added Pub. L. 104–106, div. A, title V, § 569(b)(1), Feb. 10, 1996, 110 Stat. 338; amended Pub. L. 104–201, div. A, title V, § 578(a)(2), (b)(2), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, § 599(a)(2), (d), Nov. 18, 1997, 111 Stat. 1767, 1769.)
+(Added Pub. L. 104–106, div. A, title V, § 569(b)(1), Feb. 10, 1996, 110 Stat. 338; amended Pub. L. 104–201, div. A, title V, § 578(a)(2), (b)(2), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, § 599(a)(2), (d), Nov. 18, 1997, 111 Stat. 1767, 1769.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1997—Subsec. (c)(1). Pub. L. 105–85, § 599(a)(2)(A), substituted “one individual described in paragraph (2)” for “one military officer”.
+1997—Subsec. (c)(1). Pub. L. 105–85, § 599(a)(2)(A), substituted “one individual described in paragraph (2)” for “one military officer”.
 
-Subsec. (c)(2) to (4). Pub. L. 105–85, § 599(a)(2)(B), (C), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+Subsec. (c)(2) to (4). Pub. L. 105–85, § 599(a)(2)(B), (C), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-Subsec. (f)(1). Pub. L. 105–85, § 599(d)(1), inserted at end “The identity of counsel appointed under this paragraph for a missing person shall be made known to the missing person’s primary next of kin and any other previously designated person of the person.”
+Subsec. (f)(1). Pub. L. 105–85, § 599(d)(1), inserted at end “The identity of counsel appointed under this paragraph for a missing person shall be made known to the missing person’s primary next of kin and any other previously designated person of the person.”
 
-Subsec. (f)(4). Pub. L. 105–85, § 599(d)(2), inserted at end “The primary next of kin of a missing person and any other previously designated person of the missing person shall have the right to submit information to the missing person’s counsel relative to the disappearance or status of the missing person.”
+Subsec. (f)(4). Pub. L. 105–85, § 599(d)(2), inserted at end “The primary next of kin of a missing person and any other previously designated person of the missing person shall have the right to submit information to the missing person’s counsel relative to the disappearance or status of the missing person.”
 
-1996—Subsec. (a). Pub. L. 104–201, § 578(b)(2), substituted “section 1502(a)” for “section 1502(b)”.
+1996—Subsec. (a). Pub. L. 104–201, § 578(b)(2), substituted “section 1502(a)” for “section 1502(b)”.
 
-Subsec. (c)(1). Pub. L. 104–201, § 578(a)(2)(A), substituted “one military officer” for “one individual described in paragraph (2)”.
+Subsec. (c)(1). Pub. L. 104–201, § 578(a)(2)(A), substituted “one military officer” for “one individual described in paragraph (2)”.
 
-Subsec. (c)(2) to (4). Pub. L. 104–201, § 578(a)(2)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “An individual referred to in paragraph (1) is the following:
+Subsec. (c)(2) to (4). Pub. L. 104–201, § 578(a)(2)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “An individual referred to in paragraph (1) is the following:
 
 “(A) A military officer, in the case of an inquiry with respect to a member of the armed forces.
 
 “(B) A civilian, in the case of an inquiry with respect to a civilian employee of the Department of Defense or of a contractor of the Department of Defense.”
 
-## § 1504. Subsequent board of inquiry
+## § 1504. Subsequent board of inquiry
 
 **(a) Additional Board.—** If information that may result in a change of status of a person covered by a determination under section 1503(i) of this title becomes available within one year after the date of the transmission of a report with respect to the person under section 1502(a)(2) of this title, the Secretary concerned shall appoint a board under this section to conduct an inquiry into the information.
 
@@ -577,21 +577,21 @@ Subsec. (c)(2) to (4). Pub. L. 104–201, § 578(a)(2)(B), (C), redesignated p
 
 **(m) Treatment of Determination.—** Any determination of the status of a missing person under subsection (k) shall supersede the determination of the status of the person under section 1503 of this title and shall be treated as the determination of the status of the person by all departments and agencies of the United States.
 
-(Added Pub. L. 104–106, div. A, title V, § 569(b)(1), Feb. 10, 1996, 110 Stat. 341; amended Pub. L. 104–201, div. A, title V, § 578(a)(3), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, § 599(a)(3), (d)(1), title X, § 1073(a)(30), Nov. 18, 1997, 111 Stat. 1767, 1769, 1902.)
+(Added Pub. L. 104–106, div. A, title V, § 569(b)(1), Feb. 10, 1996, 110 Stat. 341; amended Pub. L. 104–201, div. A, title V, § 578(a)(3), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, § 599(a)(3), (d)(1), title X, § 1073(a)(30), Nov. 18, 1997, 111 Stat. 1767, 1769, 1902.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1997—Subsec. (d)(1). Pub. L. 105–85, § 599(a)(3)(A), substituted “as follows:” and subpars. (A) to (C) for “who are officers having the grade of major or lieutenant commander or above.”
+1997—Subsec. (d)(1). Pub. L. 105–85, § 599(a)(3)(A), substituted “as follows:” and subpars. (A) to (C) for “who are officers having the grade of major or lieutenant commander or above.”
 
-Subsec. (d)(4). Pub. L. 105–85, § 599(a)(3)(B), substituted “section 1503(c)(4)” for “section 1503(c)(3)”.
+Subsec. (d)(4). Pub. L. 105–85, § 599(a)(3)(B), substituted “section 1503(c)(4)” for “section 1503(c)(3)”.
 
-Subsec. (f)(1). Pub. L. 105–85, § 599(d)(1), inserted at end “The identity of counsel appointed under this paragraph for a missing person shall be made known to the missing person’s primary next of kin and any other previously designated person of the person.”
+Subsec. (f)(1). Pub. L. 105–85, § 599(d)(1), inserted at end “The identity of counsel appointed under this paragraph for a missing person shall be made known to the missing person’s primary next of kin and any other previously designated person of the person.”
 
-Subsec. (i)(1). Pub. L. 105–85, § 1073(a)(30), substituted “this section” for “this subsection”.
+Subsec. (i)(1). Pub. L. 105–85, § 1073(a)(30), substituted “this section” for “this subsection”.
 
-1996—Subsec. (d)(1). Pub. L. 104–201, § 578(a)(3)(A), added text of par. (1) and struck out former text of par. (1) which read as follows: “A board appointed under this section shall be composed of at least three members as follows:
+1996—Subsec. (d)(1). Pub. L. 104–201, § 578(a)(3)(A), added text of par. (1) and struck out former text of par. (1) which read as follows: “A board appointed under this section shall be composed of at least three members as follows:
 
 “(A) In the case of a board that will inquire into the whereabouts and status of one or more members of the armed forces (and no civilians described in subparagraph (B)), the board shall be composed of officers having the grade of major or lieutenant commander or above.
 
@@ -607,9 +607,9 @@ Subsec. (i)(1). Pub. L. 105–85, § 1073(a)(30), substituted “this section�
 
 “(ii) the ratio of such officers to such employees on the board shall be roughly proportional to the ratio of the number of members of the armed forces who are subjects of the board’s inquiry to the number of civilians who are subjects of the board’s inquiry.”
 
-Subsec. (d)(4). Pub. L. 104–201, § 578(a)(3)(B), substituted “section 1503(c)(3)” for “section 1503(c)(4)”.
+Subsec. (d)(4). Pub. L. 104–201, § 578(a)(3)(B), substituted “section 1503(c)(3)” for “section 1503(c)(4)”.
 
-## § 1505. Further review
+## § 1505. Further review
 
 **(a) Subsequent Review.—** The Secretary concerned shall conduct subsequent inquiries into the whereabouts and status of any person determined by the Secretary under section 1504 of this title to be in a missing status.
 
@@ -625,7 +625,7 @@ Subsec. (d)(4). Pub. L. 104–201, § 578(a)(3)(B), substituted “section 150
 
 **(d) Conduct of Proceedings.—** If it is determined that such a board should be appointed, the appointment of, and activities before, a board appointed under this section shall be governed by the provisions of section 1504 of this title with respect to a board appointed under that section.
 
-(Added Pub. L. 104–106, div. A, title V, § 569(b)(1), Feb. 10, 1996, 110 Stat. 345; amended Pub. L. 104–201, div. A, title V, § 578(c), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 113–291, div. A, title IX, § 916(c), Dec. 19, 2014, 128 Stat. 3478; Pub. L. 114–328, div. A, title IX, § 953(b), Dec. 23, 2016, 130 Stat. 2376.)
+(Added Pub. L. 104–106, div. A, title V, § 569(b)(1), Feb. 10, 1996, 110 Stat. 345; amended Pub. L. 104–201, div. A, title V, § 578(c), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 113–291, div. A, title IX, § 916(c), Dec. 19, 2014, 128 Stat. 3478; Pub. L. 114–328, div. A, title IX, § 953(b), Dec. 23, 2016, 130 Stat. 2376.)
 
 **Editorial Notes**
 
@@ -633,9 +633,9 @@ Subsec. (d)(4). Pub. L. 104–201, § 578(a)(3)(B), substituted “section 150
 
 2016—Subsec. (c). Pub. L. 114–328 substituted “Secretary of Defense” for “designated Agency Director” in pars. (1), (2), and (3).
 
-2014—Subsec. (c)(1). Pub. L. 113–291, § 916(c)(1), substituted “the designated Agency Director” for “the office established under section 1501 of this title”.
+2014—Subsec. (c)(1). Pub. L. 113–291, § 916(c)(1), substituted “the designated Agency Director” for “the office established under section 1501 of this title”.
 
-Subsec. (c)(2), (3). Pub. L. 113–291, § 916(c)(2), substituted “designated Agency Director” for “head of the office established under section 1501 of this title”.
+Subsec. (c)(2), (3). Pub. L. 113–291, § 916(c)(2), substituted “designated Agency Director” for “head of the office established under section 1501 of this title”.
 
 1996—Subsec. (b). Pub. L. 104–201 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
@@ -653,7 +653,7 @@ Subsec. (c)(2), (3). Pub. L. 113–291, § 916(c)(2), substituted “designate
 
 “(B) if, before the end of such 30-year period, the missing person is accounted for.”
 
-## § 1506. Personnel files
+## § 1506. Personnel files
 
 **(a) Information in Files.—** Except as provided in subsections (b), (c), and (d), the Secretary concerned shall, to the maximum extent practicable, ensure that the personnel file of a missing person contains all information in the possession of the United States relating to the disappearance and whereabouts and status of the person.
 
@@ -687,29 +687,29 @@ Subsec. (c)(2), (3). Pub. L. 113–291, § 916(c)(2), substituted “designate
 
 **(f) Nondisclosure of Certain Information.—** A record of the content of a debriefing of a missing person returned to United States control during the period beginning on July 8, 1959, and ending on February 10, 1996, that was conducted by an official of the United States authorized to conduct the debriefing is privileged information and, notwithstanding sections 552 and 552a of title 5, may not be disclosed, in whole or in part, under either such section. However, this subsection does not limit the responsibility of the Secretary concerned under paragraphs (3) and (4) of subsection (d) to place extracts of non-derogatory information, or a notice of the existence of such information, in the personnel file of a missing person.
 
-(Added Pub. L. 104–106, div. A, title V, § 569(b)(1), Feb. 10, 1996, 110 Stat. 346; amended Pub. L. 104–201, div. A, title V, § 578(d), Sept. 23, 1996, 110 Stat. 2537; Pub. L. 105–85, div. A, title V, § 599(f), (g), Nov. 18, 1997, 111 Stat. 1770; Pub. L. 106–65, div. A, title V, § 575, Oct. 5, 1999, 113 Stat. 624; Pub. L. 107–107, div. A, title V, § 573, Dec. 28, 2001, 115 Stat. 1122; Pub. L. 113–66, div. A, title V, § 582(a), Dec. 26, 2013, 127 Stat. 776.)
+(Added Pub. L. 104–106, div. A, title V, § 569(b)(1), Feb. 10, 1996, 110 Stat. 346; amended Pub. L. 104–201, div. A, title V, § 578(d), Sept. 23, 1996, 110 Stat. 2537; Pub. L. 105–85, div. A, title V, § 599(f), (g), Nov. 18, 1997, 111 Stat. 1770; Pub. L. 106–65, div. A, title V, § 575, Oct. 5, 1999, 113 Stat. 624; Pub. L. 107–107, div. A, title V, § 573, Dec. 28, 2001, 115 Stat. 1122; Pub. L. 113–66, div. A, title V, § 582(a), Dec. 26, 2013, 127 Stat. 776.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2013—Subsec. (d)(2) to (4). Pub. L. 113–66, § 582(a)(1), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+2013—Subsec. (d)(2) to (4). Pub. L. 113–66, § 582(a)(1), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-Subsec. (f). Pub. L. 113–66, § 582(a)(2), substituted “paragraphs (3) and (4)” for “paragraphs (2) and (3)”.
+Subsec. (f). Pub. L. 113–66, § 582(a)(2), substituted “paragraphs (3) and (4)” for “paragraphs (2) and (3)”.
 
 2001—Subsec. (b)(2). Pub. L. 107–107 designated existing provisions as subpar. (A), inserted “of all missing persons from the conflict or period of war to which the classified information pertains” before period at end, and added subpar. (B).
 
 1999—Subsec. (f). Pub. L. 106–65 added subsec. (f).
 
-1997—Subsec. (b). Pub. L. 105–85, § 599(f), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+1997—Subsec. (b). Pub. L. 105–85, § 599(f), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
-Subsec. (d)(2). Pub. L. 105–85, § 599(g)(1), inserted “or about unnamed missing persons” after “the debriefing report” in first sentence, substituted “each missing person named in the debriefing report” for “the missing person” in second sentence, and inserted at end “Any information contained in the extract of the debriefing report that pertains to unnamed missing persons shall be made reasonably accessible to the primary next of kin, members of the immediate family, and the previously designated person.”
+Subsec. (d)(2). Pub. L. 105–85, § 599(g)(1), inserted “or about unnamed missing persons” after “the debriefing report” in first sentence, substituted “each missing person named in the debriefing report” for “the missing person” in second sentence, and inserted at end “Any information contained in the extract of the debriefing report that pertains to unnamed missing persons shall be made reasonably accessible to the primary next of kin, members of the immediate family, and the previously designated person.”
 
-Subsec. (d)(3). Pub. L. 105–85, § 599(g)(2), inserted “, or part of a debriefing report,” after “a debriefing report”.
+Subsec. (d)(3). Pub. L. 105–85, § 599(g)(2), inserted “, or part of a debriefing report,” after “a debriefing report”.
 
 1996—Subsecs. (e), (f). Pub. L. 104–201 redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: “Wrongful Withholding.—Except as provided in subsections (a) through (d), any person who knowingly and willfully withholds from the personnel file of a missing person any information relating to the disappearance or whereabouts and status of a missing person shall be fined as provided in title 18 or imprisoned not more than one year, or both.”
 
-## § 1507. Recommendation of status of death
+## § 1507. Recommendation of status of death
 
 **(a) Requirements Relating to Recommendation.—** A board appointed under section 1503, 1504, or 1505 of this title may not recommend that a person be declared dead unless—
 
@@ -733,7 +733,7 @@ Subsec. (d)(3). Pub. L. 105–85, § 599(g)(2), inserted “, or part of a d
 
 **(4)** If the body has been recovered and is not identifiable through visual means, a certification by a forensic pathologist that the body recovered is that of the missing person. In determining whether to make such a certification, the forensic pathologist shall consider, as determined necessary by the Secretary of the military department concerned, additional evidence and information provided by appropriate specialists in forensic medicine or other appropriate medical sciences.
 
-(Added Pub. L. 104–106, div. A, title V, § 569(b)(1), Feb. 10, 1996, 110 Stat. 347; amended Pub. L. 104–201, div. A, title V, § 578(e), Sept. 23, 1996, 110 Stat. 2537; Pub. L. 105–85, div. A, title V, § 599(c), Nov. 18, 1997, 111 Stat. 1768.)
+(Added Pub. L. 104–106, div. A, title V, § 569(b)(1), Feb. 10, 1996, 110 Stat. 347; amended Pub. L. 104–201, div. A, title V, § 578(e), Sept. 23, 1996, 110 Stat. 2537; Pub. L. 105–85, div. A, title V, § 599(c), Nov. 18, 1997, 111 Stat. 1768.)
 
 **Editorial Notes**
 
@@ -747,7 +747,7 @@ Subsec. (d)(3). Pub. L. 105–85, § 599(g)(2), inserted “, or part of a d
 
 “(4) If the body has been recovered and is not identifiable through visual means, a certification by a practitioner of an appropriate forensic science that the body recovered is that of the missing person.”
 
-## § 1508. Judicial review
+## § 1508. Judicial review
 
 **(a) Right of Review.—** A person who is the primary next of kin (or the previously designated person) of a person who is the subject of a finding described in subsection (b) may obtain judicial review in a United States district court of that finding, but only on the basis of a claim that there is information that could affect the status of the missing person’s case that was not adequately considered during the administrative review process under this chapter. Any such review shall be as provided in section 706 of title 5.
 
@@ -759,9 +759,9 @@ Subsec. (d)(3). Pub. L. 105–85, § 599(g)(2), inserted “, or part of a d
 
 **(c) Subsequent Review.—** Appeals from a decision of the district court shall be taken to the appropriate United States court of appeals and to the Supreme Court as provided by law.
 
-(Added Pub. L. 104–106, div. A, title V, § 569(b)(1), Feb. 10, 1996, 110 Stat. 348.)
+(Added Pub. L. 104–106, div. A, title V, § 569(b)(1), Feb. 10, 1996, 110 Stat. 348.)
 
-## § 1509. Program to resolve missing person cases
+## § 1509. Program to resolve missing person cases
 
 **(a) Program Required; Covered Conflicts.—** The Secretary of Defense shall implement a comprehensive, coordinated, integrated, and fully resourced program to account for persons described in subparagraph (A) or (B) of section 1513(1) of this title who are unaccounted for from the following conflicts:
 
@@ -837,43 +837,43 @@ Subsec. (d)(3). Pub. L. 105–85, § 599(g)(2), inserted “, or part of a d
 
 **(3)** In carrying out the program, the designated Agency Director shall coordinate all external communications and events associated with the program.
 
-(Added Pub. L. 104–106, div. A, title V, § 569(b)(1), Feb. 10, 1996, 110 Stat. 348; amended Pub. L. 104–201, div. A, title V, § 578(f)(1), (2)(A), Sept. 23, 1996, 110 Stat. 2537; Pub. L. 105–85, div. A, title V, § 599(e), Nov. 18, 1997, 111 Stat. 1769; Pub. L. 106–65, div. A, title X, § 1066(a)(14), Oct. 5, 1999, 113 Stat. 771; Pub. L. 111–84, div. A, title V, § 541(a), Oct. 28, 2009, 123 Stat. 2296; Pub. L. 113–291, div. A, title IX, § 916(d), (f)(1), Dec. 19, 2014, 128 Stat. 3478, 3479.)
+(Added Pub. L. 104–106, div. A, title V, § 569(b)(1), Feb. 10, 1996, 110 Stat. 348; amended Pub. L. 104–201, div. A, title V, § 578(f)(1), (2)(A), Sept. 23, 1996, 110 Stat. 2537; Pub. L. 105–85, div. A, title V, § 599(e), Nov. 18, 1997, 111 Stat. 1769; Pub. L. 106–65, div. A, title X, § 1066(a)(14), Oct. 5, 1999, 113 Stat. 771; Pub. L. 111–84, div. A, title V, § 541(a), Oct. 28, 2009, 123 Stat. 2296; Pub. L. 113–291, div. A, title IX, § 916(d), (f)(1), Dec. 19, 2014, 128 Stat. 3478, 3479.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2014—Pub. L. 113–291, § 916(f)(1), substituted “Program to resolve missing person cases” for “Program to resolve preenactment missing person cases” in section catchline.
+2014—Pub. L. 113–291, § 916(f)(1), substituted “Program to resolve missing person cases” for “Program to resolve preenactment missing person cases” in section catchline.
 
-Subsec. (b). Pub. L. 113–291, § 916(d)(1)(A), struck out “Process” after “Implementation” in heading.
+Subsec. (b). Pub. L. 113–291, § 916(d)(1)(A), struck out “Process” after “Implementation” in heading.
 
-Subsec. (b)(1). Pub. L. 113–291, § 916(d)(1)(B), substituted “through the designated Agency Director” for “POW/MIA accounting community”.
+Subsec. (b)(1). Pub. L. 113–291, § 916(d)(1)(B), substituted “through the designated Agency Director” for “POW/MIA accounting community”.
 
-Subsec. (b)(2). Pub. L. 113–291, § 916(d)(1)(C), added par. (2) and struck out former par. (2) which defined “POW/MIA accounting community”.
+Subsec. (b)(2). Pub. L. 113–291, § 916(d)(1)(C), added par. (2) and struck out former par. (2) which defined “POW/MIA accounting community”.
 
-Subsec. (d). Pub. L. 113–291, § 916(d)(2)(A), inserted “; Centralized Database” after “Files” in heading.
+Subsec. (d). Pub. L. 113–291, § 916(d)(2)(A), inserted “; Centralized Database” after “Files” in heading.
 
-Subsec. (d)(4). Pub. L. 113–291, § 916(d)(2)(B), added par. (4).
+Subsec. (d)(4). Pub. L. 113–291, § 916(d)(2)(B), added par. (4).
 
-Subsec. (f)(1). Pub. L. 113–291, § 916(d)(3)(A), substituted “In carrying out the program, the designated Agency Director shall ensure coordination” for “In establishing and carrying out the program, the Secretary of Defense shall coordinate”.
+Subsec. (f)(1). Pub. L. 113–291, § 916(d)(3)(A), substituted “In carrying out the program, the designated Agency Director shall ensure coordination” for “In establishing and carrying out the program, the Secretary of Defense shall coordinate”.
 
-Subsec. (f)(2). Pub. L. 113–291, § 916(d)(3)(B), inserted “staff” after “National Security Council” and struck out “POW/MIA accounting community” after “Department of Defense”.
+Subsec. (f)(2). Pub. L. 113–291, § 916(d)(3)(B), inserted “staff” after “National Security Council” and struck out “POW/MIA accounting community” after “Department of Defense”.
 
-Subsec. (f)(3). Pub. L. 113–291, § 916(d)(3)(C), added par. (3).
+Subsec. (f)(3). Pub. L. 113–291, § 916(d)(3)(C), added par. (3).
 
 2009—Pub. L. 111–84 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to review of status of missing person cases arising before enactment of this chapter.
 
 1999—Subsec. (a)(2)(A), (B). Pub. L. 106–65 substituted “November 18, 1997,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998”.
 
-1997—Subsec. (a). Pub. L. 105–85, § 599(e)(1), added subsec. (a) and struck out former subsec. (a) which read as follows:
+1997—Subsec. (a). Pub. L. 105–85, § 599(e)(1), added subsec. (a) and struck out former subsec. (a) which read as follows:
 
 “(a) Review of Status.—In the case of an unaccounted for person covered by section 1501(c) of this title who is described in subsection (b), if new information that could change the status of that person is found or received by a United States intelligence agency, by a Department of Defense agency, or by a person specified in section 1504(g) of this title, that information shall be provided to the Secretary of Defense with a request that the Secretary evaluate the information in accordance with sections 1505(c) and 1505(d) of this title.”
 
-Subsec. (d). Pub. L. 105–85, § 599(e)(2), added subsec. (d).
+Subsec. (d). Pub. L. 105–85, § 599(e)(2), added subsec. (d).
 
-1996—Pub. L. 104–201, § 578(f)(2)(A), struck out “, special interest” after “Preenactment” in section catchline.
+1996—Pub. L. 104–201, § 578(f)(2)(A), struck out “, special interest” after “Preenactment” in section catchline.
 
-Subsecs. (c), (d). Pub. L. 104–201, § 578(f)(1), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows:
+Subsecs. (c), (d). Pub. L. 104–201, § 578(f)(1), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows:
 
 “(c) Special Rule for Persons Classified as ‘KIA/BNR’.—In the case of a person described in subsection (b) who was classified as ‘killed in action/body not recovered’, the case of that person may be reviewed under this section only if the new information referred to in subsection (a) is compelling.”
 
@@ -881,7 +881,7 @@ Subsecs. (c), (d). Pub. L. 104–201, § 578(f)(1), redesignated subsec. (d) a
 
 **Implementation**
 
-Pub. L. 111–84, div. A, title V, § 541(d), Oct. 28, 2009, 123 Stat. 2298, provided that:
+Pub. L. 111–84, div. A, title V, § 541(d), Oct. 28, 2009, 123 Stat. 2298, provided that:
 
 > **“(1) Priority.—** A priority of the program required by section 1509 of title 10, United States Code, as amended by subsection (a), to resolve missing person cases arising before the enactment of chapter 76 of such title by section 569 of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 110 Stat. 336) [approved Feb. 10, 1996] shall be the return of missing persons to United States control alive.
 
@@ -893,13 +893,13 @@ Pub. L. 111–84, div. A, title V, § 541(d), Oct. 28, 2009, 123 Stat. 2298, p
 
 > **“(B)** The term ‘POW/MIA accounting community’ has the meaning given such term in section 1509(b)(2) of such title.”
 
-## § 1510. Applicability to Coast Guard
+## § 1510. Applicability to Coast Guard
 
 **(a) Designated Officer To Have Responsibility.—** The Secretary of Homeland Security shall designate an officer of the Department of Homeland Security to have responsibility within the Department of Homeland Security for matters relating to missing persons who are members of the Coast Guard.
 
 **(b) Procedures.—** The Secretary of Homeland Security shall prescribe procedures for the determination of the status of persons described in section 1501(c) of this title who are members of the Coast Guard and for the collection, analysis, review, and update of information on such persons. To the maximum extent practicable, the procedures prescribed under this section shall be similar to the procedures prescribed by the Secretary of Defense under section 1501(b) of this title.
 
-(Added Pub. L. 104–106, div. A, title V, § 569(b)(1), Feb. 10, 1996, 110 Stat. 349; amended Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 104–106, div. A, title V, § 569(b)(1), Feb. 10, 1996, 110 Stat. 349; amended Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 **Editorial Notes**
 
@@ -913,13 +913,13 @@ Pub. L. 111–84, div. A, title V, § 541(d), Oct. 28, 2009, 123 Stat. 2298, p
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
-## § 1511. Return alive of person declared missing or dead
+## § 1511. Return alive of person declared missing or dead
 
 **(a) Pay and Allowances.—** Any person (except for a person subsequently determined to have been absent without leave or a deserter) in a missing status or declared dead under subchapter VII of chapter 55 of title 5 or chapter 10 of title 37 or by a board appointed under this chapter who is found alive and returned to the control of the United States shall be paid for the full time of the absence of the person while given that status or declared dead under the law and regulations relating to the pay and allowances of persons returning from a missing status.
 
 **(b) Effect on Gratuities Paid as a Result of Status.—** Subsection (a) shall not be interpreted to invalidate or otherwise affect the receipt by any person of a death gratuity or other payment from the United States on behalf of a person referred to in subsection (a) before February 10, 1996.
 
-(Added Pub. L. 104–106, div. A, title V, § 569(b)(1), Feb. 10, 1996, 110 Stat. 349; amended Pub. L. 107–107, div. A, title X, § 1048(c)(10), Dec. 28, 2001, 115 Stat. 1226.)
+(Added Pub. L. 104–106, div. A, title V, § 569(b)(1), Feb. 10, 1996, 110 Stat. 349; amended Pub. L. 107–107, div. A, title X, § 1048(c)(10), Dec. 28, 2001, 115 Stat. 1226.)
 
 **Editorial Notes**
 
@@ -927,15 +927,15 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 2001—Subsec. (b). Pub. L. 107–107 substituted “February 10, 1996” for “the date of the enactment of this chapter”.
 
-## § 1512. Effect on State law
+## § 1512. Effect on State law
 
 **(a) Nonpreemption of State Authority.—** Nothing in this chapter shall be construed to invalidate or limit the power of any State court or administrative entity, or the power of any court or administrative entity of any political subdivision thereof, to find or declare a person dead for purposes of such State or political subdivision.
 
 **(b) State Defined.—** In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
-(Added Pub. L. 104–106, div. A, title V, § 569(b)(1), Feb. 10, 1996, 110 Stat. 349.)
+(Added Pub. L. 104–106, div. A, title V, § 569(b)(1), Feb. 10, 1996, 110 Stat. 349.)
 
-## § 1513. Definitions
+## § 1513. Definitions
 
 In this chapter:
 
@@ -993,7 +993,7 @@ Such term includes an unaccounted for person described in subsection (a) of sect
 
 **(9)** The term “survival, evasion, resistance, and escape debriefing” means an interview conducted with a person described in section 1501(c) of this title who is returned to United States control in order to record the person’s experiences while surviving, evading, resisting interrogation or exploitation, or escaping.
 
-(Added Pub. L. 104–106, div. A, title V, § 569(b)(1), Feb. 10, 1996, 110 Stat. 350; amended Pub. L. 104–201, div. A, title V, § 578(a)(4), (b)(3), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, § 599(a)(4), (b)(2), Nov. 18, 1997, 111 Stat. 1768; Pub. L. 106–65, div. A, title X, § 1066(a)(15), Oct. 5, 1999, 113 Stat. 771; Pub. L. 111–84, div. A, title V, § 541(c), Oct. 28, 2009, 123 Stat. 2298; Pub. L. 113–66, div. A, title V, § 582(b), Dec. 26, 2013, 127 Stat. 776; Pub. L. 113–291, div. A, title X, § 1071(f)(15), Dec. 19, 2014, 128 Stat. 3510; Pub. L. 114–328, div. A, title IX, § 953(c), Dec. 23, 2016, 130 Stat. 2376.)
+(Added Pub. L. 104–106, div. A, title V, § 569(b)(1), Feb. 10, 1996, 110 Stat. 350; amended Pub. L. 104–201, div. A, title V, § 578(a)(4), (b)(3), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, § 599(a)(4), (b)(2), Nov. 18, 1997, 111 Stat. 1768; Pub. L. 106–65, div. A, title X, § 1066(a)(15), Oct. 5, 1999, 113 Stat. 771; Pub. L. 111–84, div. A, title V, § 541(c), Oct. 28, 2009, 123 Stat. 2298; Pub. L. 113–66, div. A, title V, § 582(b), Dec. 26, 2013, 127 Stat. 776; Pub. L. 113–291, div. A, title X, § 1071(f)(15), Dec. 19, 2014, 128 Stat. 3510; Pub. L. 114–328, div. A, title IX, § 953(c), Dec. 23, 2016, 130 Stat. 2376.)
 
 **Editorial Notes**
 
@@ -1007,16 +1007,16 @@ Such term includes an unaccounted for person described in subsection (a) of sect
 
 2009—Par. (1). Pub. L. 111–84 substituted “subsection (a) of section 1509 of this title who is required by subsection (b) of such section” for “section 1509(b) of this title who is required by section 1509(a)(1) of this title” in concluding provisions.
 
-1999—Par. (1). Pub. L. 106–65 substituted “who is required by section 1509(a)(1) of this title to be considered a missing person” for “, under the circumstances specified in the last sentence of section 1509(a) of this title” in concluding provisions.
+1999—Par. (1). Pub. L. 106–65 substituted “who is required by section 1509(a)(1) of this title to be considered a missing person” for “, under the circumstances specified in the last sentence of section 1509(a) of this title” in concluding provisions.
 
-1997—Par. (1). Pub. L. 105–85, § 599(a)(4), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘missing person’ means a member of the armed forces on active duty who is in a missing status.”
+1997—Par. (1). Pub. L. 105–85, § 599(a)(4), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘missing person’ means a member of the armed forces on active duty who is in a missing status.”
 
-Par. (8). Pub. L. 105–85, § 599(b)(2), added par. (8).
+Par. (8). Pub. L. 105–85, § 599(b)(2), added par. (8).
 
-1996—Par. (1). Pub. L. 104–201, § 578(a)(4), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘missing person’ means—
+1996—Par. (1). Pub. L. 104–201, § 578(a)(4), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘missing person’ means—
 
 “(A) a member of the Armed Forces on active duty who is in a missing status; or
 
 “(B) a civilian employee of the Department of Defense or an employee of a contractor of the Department of Defense who serves with or accompanies the Armed Forces in the field under orders and who is in a missing status.”
 
-Par. (8). Pub. L. 104–201, § 578(b)(3), struck out par. (8) which read as follows: “The term ‘theater component commander’ means, with respect to any of the combatant commands, an officer of any of the armed forces who (A) is commander of all forces of that armed force assigned to that combatant command, and (B) is directly subordinate to the commander of the combatant command.”
+Par. (8). Pub. L. 104–201, § 578(b)(3), struck out par. (8) which read as follows: “The term ‘theater component commander’ means, with respect to any of the combatant commands, an officer of any of the armed forces who (A) is commander of all forces of that armed force assigned to that combatant command, and (B) is directly subordinate to the commander of the combatant command.”

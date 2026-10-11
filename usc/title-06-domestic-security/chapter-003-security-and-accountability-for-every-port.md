@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 3—SECURITY AND ACCOUNTABILITY FOR EVERY PORT
 
-## § 901. Definitions
+## § 901. Definitions
 
 In this Act:
 
@@ -41,9 +41,9 @@ In this Act:
 
 **(2) Commercial Operations Advisory Committee**
 
-The term “Commercial Operations Advisory Committee” means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 (19 U.S.C. 2071 note) 1
+The term “Commercial Operations Advisory Committee” means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 (19 U.S.C. 2071 note) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or any successor committee.
 
@@ -101,13 +101,13 @@ The term “Secretary” means the Secretary of Homeland Security.
 
 **(16) Transportation disruption**
 
-The term “transportation disruption” means any significant delay, interruption, or stoppage in the flow of trade caused by a natural disaster, heightened threat level, an act of terrorism, or any transportation security incident (as defined in section 70101(6) <sup>1</sup> of title 46).
+The term “transportation disruption” means any significant delay, interruption, or stoppage in the flow of trade caused by a natural disaster, heightened threat level, an act of terrorism, or any transportation security incident (as defined in section 70101(6) <sup>1</sup> of title 46).
 
 **(17) Transportation security incident**
 
-The term “transportation security incident” has the meaning given the term in section 70101(6) <sup>1</sup> of title 46.
+The term “transportation security incident” has the meaning given the term in section 70101(6) <sup>1</sup> of title 46.
 
-(Pub. L. 109–347, § 2, Oct. 13, 2006, 120 Stat. 1886.)
+(Pub. L. 109–347, § 2, Oct. 13, 2006, 120 Stat. 1886.)
 
 **Editorial Notes**
 
@@ -115,25 +115,25 @@ The term “transportation security incident” has the meaning given the term i
 
 This Act, referred to in text, is Pub. L. 109–347, Oct. 13, 2006, 120 Stat. 1884, known as the Security and Accountability For Every Port Act of 2006 or the SAFE Port Act. For complete classification of this Act to the Code, see Tables.
 
-Section 9503(c) of the Omnibus Budget Reconciliation Act of 1987, referred to in par. (2), is section 9503(c) of title IX of Pub. L. 100–203, which was set out as a note under section 2071 of Title 19, Customs Duties, prior to repeal by Pub. L. 114–125, title I, § 109(g)(1), Feb. 24, 2016, 130 Stat. 137. For establishment of successor committee, see section 4316(a) of Title 19.
+Section 9503(c) of the Omnibus Budget Reconciliation Act of 1987, referred to in par. (2), is section 9503(c) of title IX of Pub. L. 100–203, which was set out as a note under section 2071 of Title 19, Customs Duties, prior to repeal by Pub. L. 114–125, title I, § 109(g)(1), Feb. 24, 2016, 130 Stat. 137. For establishment of successor committee, see section 4316(a) of Title 19.
 
-Section 70101(6) of title 46, referred to in pars. (16) and (17), was redesignated section 70101(7) of title 46 by Pub. L. 115–254, div. J, § 1805(b)(1), Oct. 5, 2018, 132 Stat. 3534.
+Section 70101(6) of title 46, referred to in pars. (16) and (17), was redesignated section 70101(7) of title 46 by Pub. L. 115–254, div. J, § 1805(b)(1), Oct. 5, 2018, 132 Stat. 3534.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 109–347, § 1(a), Oct. 13, 2006, 120 Stat. 1884, provided that: “This Act [see Tables for classification] may be cited as the ‘Security and Accountability For Every Port Act of 2006’ or the ‘SAFE Port Act’.”
+Pub. L. 109–347, § 1(a), Oct. 13, 2006, 120 Stat. 1884, provided that: “This Act [see Tables for classification] may be cited as the ‘Security and Accountability For Every Port Act of 2006’ or the ‘SAFE Port Act’.”
 
 ## SUBCHAPTER I—SECURITY OF UNITED STATES SEAPORTS
 
 ### Part A—Port Security Grants; Training and Exercise Programs
 
-#### § 911. Repealed. Pub. L. 111–281, title VIII, § 821(b), Oct. 15, 2010, 124 Stat. 3003
+#### § 911. Repealed. Pub. L. 111–281, title VIII, § 821(b), Oct. 15, 2010, 124 Stat. 3003
 
-Section, Pub. L. 109–347, title I, § 113, Oct. 13, 2006, 120 Stat. 1895, established the Port Security Training Program and its requirements.
+Section, Pub. L. 109–347, title I, § 113, Oct. 13, 2006, 120 Stat. 1895, established the Port Security Training Program and its requirements.
 
-#### § 912. Port Security Exercise Program
+#### § 912. Port Security Exercise Program
 
 **(a) In general**
 
@@ -173,17 +173,17 @@ The Secretary, acting through the Under Secretary for Preparedness and in coordi
 
 **(4)** conduct remedial action tracking and long-term trend analysis.
 
-(Pub. L. 109–347, title I, § 114, Oct. 13, 2006, 120 Stat. 1896.)
+(Pub. L. 109–347, title I, § 114, Oct. 13, 2006, 120 Stat. 1896.)
 
-#### § 913. Facility exercise requirements
+#### § 913. Facility exercise requirements
 
 The Secretary of the Department in which the Coast Guard is operating shall require each high risk facility to conduct live or full-scale exercises described in section 105.220(c) of title 33, Code of Federal Regulations, not less frequently than once every 2 years, in accordance with the facility security plan required under section 70103(c) of title 46.
 
-(Pub. L. 109–347, title I, § 115, Oct. 13, 2006, 120 Stat. 1897.)
+(Pub. L. 109–347, title I, § 115, Oct. 13, 2006, 120 Stat. 1897.)
 
 ### Part B—Port Operations
 
-#### § 921. Domestic radiation detection and imaging
+#### § 921. Domestic radiation detection and imaging
 
 **(a) Scanning containers**
 
@@ -211,9 +211,9 @@ Subject to section 1318 of title 19, not later than December 31, 2007, all conta
 
 **(B)** outlines the risk-based prioritization of ports of entry identified under paragraph (1).
 
-**(c) Standards** The Secretary, acting through the Director for Domestic Nuclear Detection 1
+**(c) Standards** The Secretary, acting through the Director for Domestic Nuclear Detection 1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 and in collaboration with the National Institute of Standards and Technology, shall publish technical capability standards and recommended standard operating procedures for the use of nonintrusive imaging and radiation detection equipment in the United States. Such standards and procedures—
 
@@ -253,13 +253,13 @@ The Secretary shall conduct multiple, concurrent projects at the Test Center to 
 
 The Test Center shall be located within a public port facility at which a majority of the containerized cargo is directly laden from (or unladen to) on-dock, intermodal rail.
 
-(Pub. L. 109–347, title I, § 121, Oct. 13, 2006, 120 Stat. 1898; Pub. L. 115–254, div. J, § 1816(b), Oct. 5, 2018, 132 Stat. 3541.)
+(Pub. L. 109–347, title I, § 121, Oct. 13, 2006, 120 Stat. 1898; Pub. L. 115–254, div. J, § 1816(b), Oct. 5, 2018, 132 Stat. 3541.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsecs. (c) to (e). Pub. L. 115–254, § 1816(b)(1), (2), redesignated subsecs. (f) to (h) as (c) to (e), respectively, and struck out former subsecs. (c) to (e). Prior to amendment, subsecs. (c) to (e) read as follows:
+2018—Subsecs. (c) to (e). Pub. L. 115–254, § 1816(b)(1), (2), redesignated subsecs. (f) to (h) as (c) to (e), respectively, and struck out former subsecs. (c) to (e). Prior to amendment, subsecs. (c) to (e) read as follows:
 
 “(c) Report.—Not later than 90 days after October 13, 2006, the Secretary shall submit the strategy developed under subsection (b) to the appropriate congressional committees.
 
@@ -267,9 +267,9 @@ The Test Center shall be located within a public port facility at which a majori
 
 “(e) Other weapons of mass destruction threats.—Not later than 180 days after October 13, 2006, the Secretary shall submit to the appropriate congressional committees a report on the feasibility of, and a strategy for, the development of equipment to detect and prevent shielded nuclear and radiological threat material and chemical, biological, and other weapons of mass destruction from entering the United States.”
 
-Subsec. (e)(1)(B). Pub. L. 115–254, § 1816(b)(3), struck out “(and updating, if any, of that strategy under subsection (c))” after “under subsection (b)”.
+Subsec. (e)(1)(B). Pub. L. 115–254, § 1816(b)(3), struck out “(and updating, if any, of that strategy under subsection (c))” after “under subsection (b)”.
 
-Subsecs. (f) to (i). Pub. L. 115–254, § 1816(b)(2), redesignated subsecs. (f) to (i) as (c) to (f), respectively.
+Subsecs. (f) to (i). Pub. L. 115–254, § 1816(b)(2), redesignated subsecs. (f) to (i) as (c) to (f), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -277,7 +277,7 @@ Subsecs. (f) to (i). Pub. L. 115–254, § 1816(b)(2), redesignated subsecs. (
 
 Reference to the Director for Domestic Nuclear Detection deemed to be a reference to the Assistant Secretary for the Countering Weapons of Mass Destruction Office, see section 2(b)(1)(B) of Pub. L. 115–387, set out as a note under section 591 of this title.
 
-#### § 921a. Integration of detection equipment and technologies
+#### § 921a. Integration of detection equipment and technologies
 
 **(a) Responsibility of Secretary**
 
@@ -287,7 +287,7 @@ The Secretary of Homeland Security shall have responsibility for ensuring that d
 
 Not later than 6 months after August 3, 2007, the Secretary shall submit a report to Congress that contains a plan to develop a departmental technology assessment process to determine and certify the technology readiness levels of chemical, biological, radiological, and nuclear detection technologies before the full deployment of such technologies within the United States.
 
-(Pub. L. 110–53, title XI, § 1104, Aug. 3, 2007, 121 Stat. 380.)
+(Pub. L. 110–53, title XI, § 1104, Aug. 3, 2007, 121 Stat. 380.)
 
 **Editorial Notes**
 
@@ -295,27 +295,27 @@ Not later than 6 months after August 3, 2007, the Secretary shall submit a repor
 
 Section was enacted as part of the Implementing Recommendations of the 9/11 Commission Act of 2007, and not as part of the Security and Accountability For Every Port Act of 2006, also known as the SAFE Port Act, which comprises this chapter.
 
-#### § 922. Repealed. Pub. L. 115–254, div. J, § 1816(c), Oct. 5, 2018, 132 Stat. 3541
+#### § 922. Repealed. Pub. L. 115–254, div. J, § 1816(c), Oct. 5, 2018, 132 Stat. 3541
 
-Section, Pub. L. 109–347, title I, § 122, Oct. 13, 2006, 120 Stat. 1899, related to inspection of car ferries entering from abroad.
+Section, Pub. L. 109–347, title I, § 122, Oct. 13, 2006, 120 Stat. 1899, related to inspection of car ferries entering from abroad.
 
-#### § 923. Random searches of containers
+#### § 923. Random searches of containers
 
 Not later than 1 year after October 13, 2006, the Secretary, acting through the Commissioner, shall develop and implement a plan, utilizing best practices for empirical scientific research design and random sampling, to conduct random searches of containers in addition to any targeted or preshipment inspection of such containers required by law or regulation or conducted under any other program conducted by the Secretary. Nothing in this section shall be construed to mean that implementation of the random sampling plan precludes additional searches of containers not inspected pursuant to the plan.
 
-(Pub. L. 109–347, title I, § 123, Oct. 13, 2006, 120 Stat. 1899.)
+(Pub. L. 109–347, title I, § 123, Oct. 13, 2006, 120 Stat. 1899.)
 
-#### § 924. Threat assessment screening of port truck drivers
+#### § 924. Threat assessment screening of port truck drivers
 
-Not later than 90 days after October 13, 2006, the Secretary shall implement a threat assessment screening, including name-based checks against terrorist watch lists and immigration status check, for all port truck drivers with access to secure areas of a port who have a commercial driver’s license but do not have a current and valid hazardous materials endorsement issued in accordance with section 1572 1
+Not later than 90 days after October 13, 2006, the Secretary shall implement a threat assessment screening, including name-based checks against terrorist watch lists and immigration status check, for all port truck drivers with access to secure areas of a port who have a commercial driver’s license but do not have a current and valid hazardous materials endorsement issued in accordance with section 1572 1
 
-<sup>1</sup>  So in original. Probably should be “part 1572”.
+<sup>1</sup> So in original. Probably should be “part 1572”.
 
 of title 49, Code of Federal Regulations, that is the same as the threat assessment screening required for facility employees and longshoremen by the Commandant of the Coast Guard under Coast Guard Notice USCG–2006–24189 (Federal Register, Vol. 71, No. 82, Friday, April 28, 2006).
 
-(Pub. L. 109–347, title I, § 125, Oct. 13, 2006, 120 Stat. 1900.)
+(Pub. L. 109–347, title I, § 125, Oct. 13, 2006, 120 Stat. 1900.)
 
-#### § 925. Border Patrol unit for United States Virgin Islands
+#### § 925. Border Patrol unit for United States Virgin Islands
 
 **(a) In general**
 
@@ -325,9 +325,9 @@ The Secretary may establish at least 1 Border Patrol unit for the United States 
 
 Not later than 180 days after October 13, 2006, the Secretary shall submit a report to the appropriate congressional committees that includes the schedule, if any, for carrying out subsection (a).
 
-(Pub. L. 109–347, title I, § 126, Oct. 13, 2006, 120 Stat. 1900.)
+(Pub. L. 109–347, title I, § 126, Oct. 13, 2006, 120 Stat. 1900.)
 
-#### § 926. Center of Excellence for Maritime Domain Awareness
+#### § 926. Center of Excellence for Maritime Domain Awareness
 
 **(a) Establishment**
 
@@ -343,13 +343,13 @@ The Secretary shall establish a university-based Center for Excellence for Marit
 
 **(4)** provide educational, technical, and analytical assistance to Federal agencies with responsibilities for maritime domain awareness, including the Coast Guard, to focus on the need for interoperability, information sharing, and common information technology standards and architecture.
 
-(Pub. L. 109–347, title I, § 128, Oct. 13, 2006, 120 Stat. 1900.)
+(Pub. L. 109–347, title I, § 128, Oct. 13, 2006, 120 Stat. 1900.)
 
 ## SUBCHAPTER II—SECURITY OF THE INTERNATIONAL SUPPLY CHAIN
 
 ### Part A—General Provisions
 
-#### § 941. Strategic plan to enhance the security of the international supply chain
+#### § 941. Strategic plan to enhance the security of the international supply chain
 
 **(a) Strategic plan**
 
@@ -407,19 +407,19 @@ Not later than 270 days after October 13, 2006, the Secretary shall submit to th
 
 Not later than 270 days after October 5, 2018, and triennially thereafter, the Secretary shall submit to the appropriate congressional committees a report that contains any updates to the strategic plan under subsection (a) since the prior report.
 
-(Pub. L. 109–347, title II, § 201, Oct. 13, 2006, 120 Stat. 1901; Pub. L. 115–254, div. J, § 1804, Oct. 5, 2018, 132 Stat. 3533.)
+(Pub. L. 109–347, title II, § 201, Oct. 13, 2006, 120 Stat. 1901; Pub. L. 115–254, div. J, § 1804, Oct. 5, 2018, 132 Stat. 3533.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–254, § 1804(1), substituted “triennially” for “as appropriate”.
+2018—Subsec. (a). Pub. L. 115–254, § 1804(1), substituted “triennially” for “as appropriate”.
 
-Subsec. (g). Pub. L. 115–254, § 1804(2)(A), substituted “Reports” for “Report” in heading.
+Subsec. (g). Pub. L. 115–254, § 1804(2)(A), substituted “Reports” for “Report” in heading.
 
-Subsec. (g)(2). Pub. L. 115–254, § 1804(2)(B), amended par. (2) generally. Prior to amendment, text read as follows: “Not later than 3 years after the date on which the strategic plan is submitted under paragraph (1), the Secretary shall submit a report to the appropriate congressional committees that contains an update of the strategic plan.”
+Subsec. (g)(2). Pub. L. 115–254, § 1804(2)(B), amended par. (2) generally. Prior to amendment, text read as follows: “Not later than 3 years after the date on which the strategic plan is submitted under paragraph (1), the Secretary shall submit a report to the appropriate congressional committees that contains an update of the strategic plan.”
 
-#### § 942. Post-incident resumption of trade
+#### § 942. Post-incident resumption of trade
 
 **(a) In general** The Secretary shall develop and update, as necessary, protocols for the resumption of trade in accordance with section 941(b)(10) of this title in the event of a transportation disruption or a transportation security incident. The protocols shall include—
 
@@ -461,9 +461,9 @@ The Secretary shall ensure that there is appropriate coordination among the Comm
 
 Consistent with section 941 of this title, the Commandant of the Coast Guard, Commissioner, and other appropriate Federal officials, shall promptly communicate any revised procedures or instructions intended for the private sector following a maritime disruption or maritime transportation security incident.
 
-(Pub. L. 109–347, title II, § 202, Oct. 13, 2006, 120 Stat. 1903.)
+(Pub. L. 109–347, title II, § 202, Oct. 13, 2006, 120 Stat. 1903.)
 
-#### § 943. Automated Targeting System
+#### § 943. Automated Targeting System
 
 **(a) In general** The Secretary, acting through the Commissioner, shall—
 
@@ -493,7 +493,7 @@ The Secretary, acting through the Commissioner, shall require the electronic tra
 
 The Secretary shall promulgate regulations to carry out this section. In promulgating such regulations, the Secretary shall adhere to the parameters applicable to the development of regulations under section 343(a) of the Trade Act of 2002 (19 U.S.C. 2071 note),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 including provisions relating to consultation, technology, analysis, use of information, confidentiality, and timing requirements.
 
@@ -521,7 +521,7 @@ All information required by the Department from supply chain partners shall be t
 
 **(3)** $37,485,000 for fiscal year 2010.
 
-(Pub. L. 109–347, title II, § 203, Oct. 13, 2006, 120 Stat. 1904.)
+(Pub. L. 109–347, title II, § 203, Oct. 13, 2006, 120 Stat. 1904.)
 
 **Editorial Notes**
 
@@ -529,7 +529,7 @@ All information required by the Department from supply chain partners shall be t
 
 Section 343(a) of the Trade Act of 2002, referred to in subsec. (d), is section 343(a) of Pub. L. 107–210, which was set out as a note under section 2071 of Title 19, Customs Duties, prior to editorial transfer to section 1415(a) of Title 19.
 
-#### § 944. Container security standards and procedures
+#### § 944. Container security standards and procedures
 
 **(a) Establishment**
 
@@ -569,7 +569,7 @@ The Secretary, in consultation with the Secretary of State, the Secretary of Ene
 
 In carrying out this section, the Secretary shall consult with appropriate Federal departments and agencies and private sector stakeholders and ensure that actions under this section do not violate international trade obligations or other international obligations of the United States.
 
-(Pub. L. 109–347, title II, § 204, Oct. 13, 2006, 120 Stat. 1905; Pub. L. 110–53, title XVII, § 1701(b), Aug. 3, 2007, 121 Stat. 491.)
+(Pub. L. 109–347, title II, § 204, Oct. 13, 2006, 120 Stat. 1905; Pub. L. 110–53, title XVII, § 1701(b), Aug. 3, 2007, 121 Stat. 491.)
 
 **Editorial Notes**
 
@@ -577,9 +577,9 @@ In carrying out this section, the Secretary shall consult with appropriate Feder
 
 2007—Subsec. (a)(4). Pub. L. 110–53, which directed amendment of par. (4) by substituting “(1) Deadline for enforcement” and subpar. (A) designation and heading for “(1) Deadline for enforcement”, was executed by inserting the subpar. (A) designation and heading before “Not later than” and making no change in the par. designation or heading, to reflect the probable intent of Congress.
 
-Subsec. (a)(4)(B). Pub. L. 110–53, § 1701(b)(2), added subpar. (B).
+Subsec. (a)(4)(B). Pub. L. 110–53, § 1701(b)(2), added subpar. (B).
 
-#### § 945. Container Security Initiative
+#### § 945. Container Security Initiative
 
 **(a) Establishment**
 
@@ -687,7 +687,7 @@ Nothing in this subsection shall be construed to interfere with the ability of t
 
 **(3)** $153,300,000 for fiscal year 2010.
 
-(Pub. L. 109–347, title II, § 205, Oct. 13, 2006, 120 Stat. 1906; Pub. L. 115–254, div. J, § 1812, Oct. 5, 2018, 132 Stat. 3539.)
+(Pub. L. 109–347, title II, § 205, Oct. 13, 2006, 120 Stat. 1906; Pub. L. 115–254, div. J, § 1812, Oct. 5, 2018, 132 Stat. 3539.)
 
 **Editorial Notes**
 
@@ -699,7 +699,7 @@ Nothing in this subsection shall be construed to interfere with the ability of t
 
 **International Port and Facility Inspection Coordination**
 
-Pub. L. 111–281, title VIII, § 825, Oct. 15, 2010, 124 Stat. 3004, as amended by Pub. L. 114–120, title III, § 320, Feb. 8, 2016, 130 Stat. 66, provided that:
+Pub. L. 111–281, title VIII, § 825, Oct. 15, 2010, 124 Stat. 3004, as amended by Pub. L. 114–120, title III, § 320, Feb. 8, 2016, 130 Stat. 66, provided that:
 
 > **“(a) Coordination.—** The Secretary of Homeland Security shall, to the extent practicable, conduct the assessments required by the following provisions of law concurrently, or develop a process by which the assessments are coordinated between the Coast Guard and Customs and Border Protection:
 
@@ -721,7 +721,7 @@ Pub. L. 111–281, title VIII, § 825, Oct. 15, 2010, 124 Stat. 3004, as amend
 
 ### Part B—Customs–Trade Partnership Against Terrorism
 
-#### § 961. Establishment
+#### § 961. Establishment
 
 **(a) Establishment**
 
@@ -731,7 +731,7 @@ The Secretary, acting through the Commissioner, is authorized to establish a vol
 
 The Secretary, acting through the Commissioner, shall review the minimum security requirements of C–TPAT at least once every year and update such requirements as necessary.
 
-(Pub. L. 109–347, title II, § 211, Oct. 13, 2006, 120 Stat. 1909.)
+(Pub. L. 109–347, title II, § 211, Oct. 13, 2006, 120 Stat. 1909.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -817,13 +817,13 @@ Pub. L. 118–98, Oct. 1, 2024, 138 Stat. 1575, provided that:
 
 > “No additional funds are authorized to be appropriated for the purpose of carrying out this Act.”
 
-#### § 962. Eligible entities
+#### § 962. Eligible entities
 
 Importers, customs brokers, forwarders, air, sea, land carriers, contract logistics providers, and other entities in the international supply chain and intermodal transportation system are eligible to apply to voluntarily enter into partnerships with the Department under C–TPAT.
 
-(Pub. L. 109–347, title II, § 212, Oct. 13, 2006, 120 Stat. 1909.)
+(Pub. L. 109–347, title II, § 212, Oct. 13, 2006, 120 Stat. 1909.)
 
-#### § 963. Minimum requirements
+#### § 963. Minimum requirements
 
 An applicant seeking to participate in C–TPAT shall—
 
@@ -849,9 +849,9 @@ An applicant seeking to participate in C–TPAT shall—
 
 **(4)** meet all other requirements established by the Commissioner, in consultation with the Commercial Operations Advisory Committee.
 
-(Pub. L. 109–347, title II, § 213, Oct. 13, 2006, 120 Stat. 1909.)
+(Pub. L. 109–347, title II, § 213, Oct. 13, 2006, 120 Stat. 1909.)
 
-#### § 964. Tier 1 participants in C–TPAT
+#### § 964. Tier 1 participants in C–TPAT
 
 **(a) Benefits**
 
@@ -865,9 +865,9 @@ Not later than 180 days after October 13, 2006, the Secretary, acting through th
 
 To the extent practicable, the Secretary, acting through the Commissioner, shall complete the Tier 1 certification process within 90 days of receipt of an application for participation in C–TPAT.
 
-(Pub. L. 109–347, title II, § 214, Oct. 13, 2006, 120 Stat. 1910.)
+(Pub. L. 109–347, title II, § 214, Oct. 13, 2006, 120 Stat. 1910.)
 
-#### § 965. Tier 2 participants in C–TPAT
+#### § 965. Tier 2 participants in C–TPAT
 
 **(a) Validation**
 
@@ -885,9 +885,9 @@ The Secretary, acting through the Commissioner, shall validate the security meas
 
 Not later than 180 days after October 13, 2006, the Secretary, acting through the Commissioner, shall develop a schedule and update the guidelines for validating a participant’s security measures and supply chain security practices under this section.
 
-(Pub. L. 109–347, title II, § 215, Oct. 13, 2006, 120 Stat. 1910.)
+(Pub. L. 109–347, title II, § 215, Oct. 13, 2006, 120 Stat. 1910.)
 
-#### § 966. Tier 3 participants in C–TPAT
+#### § 966. Tier 3 participants in C–TPAT
 
 **(a) In general**
 
@@ -919,9 +919,9 @@ The Secretary, acting through the Commissioner, shall establish a third tier of 
 
 Not later than 2 years after October 13, 2006, the Secretary, acting through the Commissioner, shall designate appropriate criteria pursuant to subsection (b) and provide benefits to validated Tier 3 participants pursuant to subsection (c).
 
-(Pub. L. 109–347, title II, § 216, Oct. 13, 2006, 120 Stat. 1910.)
+(Pub. L. 109–347, title II, § 216, Oct. 13, 2006, 120 Stat. 1910.)
 
-#### § 967. Consequences for lack of compliance
+#### § 967. Consequences for lack of compliance
 
 **(a) In general**
 
@@ -941,9 +941,9 @@ A C–TPAT participant may appeal a decision of the Commissioner pursuant to sub
 
 A C–TPAT participant may appeal a decision of the Commissioner pursuant to subsection (b). Such appeal shall be filed with the Secretary not later than 30 days after the date of the decision, and the Secretary shall issue a determination not later than 180 days after the appeal is filed.
 
-(Pub. L. 109–347, title II, § 217, Oct. 13, 2006, 120 Stat. 1911.)
+(Pub. L. 109–347, title II, § 217, Oct. 13, 2006, 120 Stat. 1911.)
 
-#### § 968. Third party validations
+#### § 968. Third party validations
 
 **(a) Plan**
 
@@ -1017,7 +1017,7 @@ The Secretary may only grant a C–TPAT validation by a third party entity pursu
 
 **(5)** any recommendations by the Secretary based upon the results of the pilot program.
 
-(Pub. L. 109–347, title II, § 218, Oct. 13, 2006, 120 Stat. 1912.)
+(Pub. L. 109–347, title II, § 218, Oct. 13, 2006, 120 Stat. 1912.)
 
 **Editorial Notes**
 
@@ -1025,7 +1025,7 @@ The Secretary may only grant a C–TPAT validation by a third party entity pursu
 
 This Act, referred to in subsec. (e), is Pub. L. 109–347, Oct. 13, 2006, 120 Stat. 1884, known as the Security and Accountability For Every Port Act of 2006 or the SAFE Port Act. For complete classification of this Act to the Code, see Tables.
 
-#### § 969. Revalidation
+#### § 969. Revalidation
 
 The Secretary, acting through the Commissioner, shall develop and implement—
 
@@ -1041,15 +1041,15 @@ The Secretary, acting through the Commissioner, shall develop and implement—
 
 **(C)** the number of participants that will be revalidated during the following year.
 
-(Pub. L. 109–347, title II, § 219, Oct. 13, 2006, 120 Stat. 1913.)
+(Pub. L. 109–347, title II, § 219, Oct. 13, 2006, 120 Stat. 1913.)
 
-#### § 970. Noncontainerized cargo
+#### § 970. Noncontainerized cargo
 
 The Secretary, acting through the Commissioner, shall consider the potential for participation in C–TPAT by importers of noncontainerized cargoes that otherwise meet the requirements under this part.
 
-(Pub. L. 109–347, title II, § 220, Oct. 13, 2006, 120 Stat. 1914.)
+(Pub. L. 109–347, title II, § 220, Oct. 13, 2006, 120 Stat. 1914.)
 
-#### § 971. C–TPAT program management
+#### § 971. C–TPAT program management
 
 **(a) In general** The Secretary, acting through the Commissioner, shall establish sufficient internal quality controls and record management to support the management systems of C–TPAT. In managing the program, the Secretary shall ensure that the program includes:
 
@@ -1083,15 +1083,15 @@ In consultation with the Commercial Operations Advisory Committee, the Secretary
 
 In connection with the President’s annual budget submission for the Department, the Secretary shall report to the appropriate congressional committees on the progress made by the Commissioner to certify, validate, and revalidate C–TPAT participants. Such report shall be due on the same date that the President’s budget is submitted to the Congress.
 
-(Pub. L. 109–347, title II, § 221, Oct. 13, 2006, 120 Stat. 1914.)
+(Pub. L. 109–347, title II, § 221, Oct. 13, 2006, 120 Stat. 1914.)
 
-#### § 972. Additional personnel
+#### § 972. Additional personnel
 
 For fiscal years 2008 and 2009, the Commissioner shall increase by not less than 50 the number of full-time personnel engaged in the validation and revalidation of C–TPAT participants (over the number of such personnel on the last day of the previous fiscal year), and shall provide appropriate training and support to such additional personnel.
 
-(Pub. L. 109–347, title II, § 222, Oct. 13, 2006, 120 Stat. 1914.)
+(Pub. L. 109–347, title II, § 222, Oct. 13, 2006, 120 Stat. 1914.)
 
-#### § 973. Authorization of appropriations
+#### § 973. Authorization of appropriations
 
 **(a) C–TPAT** There are authorized to be appropriated to the United States Customs and Border Protection to carry out the provisions of sections 961 through 971 of this title to remain available until expended—
 
@@ -1113,11 +1113,11 @@ For fiscal years 2008 and 2009, the Commissioner shall increase by not less than
 
 **(5)** $21,000,000 for fiscal year 2012.
 
-(Pub. L. 109–347, title II, § 223, Oct. 13, 2006, 120 Stat. 1915.)
+(Pub. L. 109–347, title II, § 223, Oct. 13, 2006, 120 Stat. 1915.)
 
 ### Part C—Miscellaneous Provisions
 
-#### § 981. Pilot integrated scanning system
+#### § 981. Pilot integrated scanning system
 
 **(a) Designations**
 
@@ -1171,9 +1171,9 @@ Not later than 90 days after October 13, 2006, the Secretary shall designate 3 f
 
 **(H)** an assessment of the reliability of currently available technology to implement an integrated scanning system.
 
-(Pub. L. 109–347, title II, § 231, Oct. 13, 2006, 120 Stat. 1915.)
+(Pub. L. 109–347, title II, § 231, Oct. 13, 2006, 120 Stat. 1915.)
 
-#### § 981a. Pilot integrated scanning system
+#### § 981a. Pilot integrated scanning system
 
 **(a) Designations**
 
@@ -1223,7 +1223,7 @@ The Secretary shall collaborate with the Secretary of Energy and cooperate with 
 
 If the Secretary determines the available technology meets the criteria outlined in subsection (c), the Secretary, in cooperation with the Secretary of State, shall seek to secure the cooperation of foreign governments to initiate and maximize the use of such technology at foreign ports to scan all cargo bound for the United States as quickly as possible.
 
-(Pub. L. 109–295, title V, § 558, Oct. 4, 2006, 120 Stat. 1392.)
+(Pub. L. 109–295, title V, § 558, Oct. 4, 2006, 120 Stat. 1392.)
 
 **Editorial Notes**
 
@@ -1231,7 +1231,7 @@ If the Secretary determines the available technology meets the criteria outlined
 
 Section was enacted as part of the Department of Homeland Security Appropriations Act, 2007, and not as part of the Security and Accountability For Every Port Act of 2006, also known as the SAFE Port Act, which comprises this chapter.
 
-#### § 982. Screening and scanning of cargo containers
+#### § 982. Screening and scanning of cargo containers
 
 **(a) One hundred percent screening of cargo containers and 100 percent scanning of high-risk containers**
 
@@ -1257,9 +1257,9 @@ A container that was loaded on a vessel in a foreign port shall not enter the Un
 
 **(3) Establishment of earlier deadline**
 
-The Secretary shall establish a date under (2)(B) 1
+The Secretary shall establish a date under (2)(B) 1
 
-<sup>1</sup>  So in original. Probably should be “paragraph (2)(B)”.
+<sup>1</sup> So in original. Probably should be “paragraph (2)(B)”.
 
 pursuant to the lessons learned through the pilot integrated scanning systems established under section 981 of this title.
 
@@ -1309,13 +1309,13 @@ In carrying out this subsection, the Secretary shall consult with appropriate Fe
 
 Not later than 6 months after the submission of a report under section 981(d) of this title, and every 6 months thereafter, the Secretary shall submit a report to the appropriate congressional committees describing the status of full-scale deployment under subsection (b) and the cost of deploying the system at each foreign port at which the integrated scanning systems are deployed.
 
-(Pub. L. 109–347, title II, § 232, Oct. 13, 2006, 120 Stat. 1916; Pub. L. 110–53, title XVII, § 1701(a), Aug. 3, 2007, 121 Stat. 489.)
+(Pub. L. 109–347, title II, § 232, Oct. 13, 2006, 120 Stat. 1916; Pub. L. 110–53, title XVII, § 1701(a), Aug. 3, 2007, 121 Stat. 489.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Homeland Security Act of 2002, referred to in subsec. (b)(8)(B), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter 1 (§ 101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+The Homeland Security Act of 2002, referred to in subsec. (b)(8)(B), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter 1 (§ 101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 **Amendments**
 
@@ -1325,7 +1325,7 @@ The Homeland Security Act of 2002, referred to in subsec. (b)(8)(B), is Pub. L. 
 
 **Cargo Container Scanning Technology Review**
 
-Pub. L. 115–254, div. K, title I, § 1979, Oct. 5, 2018, 132 Stat. 3618, provided that:
+Pub. L. 115–254, div. K, title I, § 1979, Oct. 5, 2018, 132 Stat. 3618, provided that:
 
 > **“(a) Designations.—**
 
@@ -1365,7 +1365,7 @@ Pub. L. 115–254, div. K, title I, § 1979, Oct. 5, 2018, 132 Stat. 3618, pro
 
 > **“(4) Sharing pilot program testing results.—** The results of the pilot testing of advanced cargo scanning technologies shall be shared, as appropriate, with government agencies and private stakeholders whose responsibilities encompass the secure transport of cargo.”
 
-#### § 983. Inspection technology and training
+#### § 983. Inspection technology and training
 
 **(a) In general**
 
@@ -1377,7 +1377,7 @@ The Secretary, in coordination with the Secretary of State, the Secretary of Ene
 
 **(2)** provide training and technical assistance for domestic or foreign personnel responsible for operating or maintaining such equipment.
 
-(Pub. L. 109–347, title II, § 233(a), Oct. 13, 2006, 120 Stat. 1917; Pub. L. 115–254, div. J, § 1816(e)(1), Oct. 5, 2018, 132 Stat. 3541.)
+(Pub. L. 109–347, title II, § 233(a), Oct. 13, 2006, 120 Stat. 1917; Pub. L. 115–254, div. J, § 1816(e)(1), Oct. 5, 2018, 132 Stat. 3541.)
 
 **Editorial Notes**
 
@@ -1393,11 +1393,11 @@ The Secretary, in coordination with the Secretary of State, the Secretary of Ene
 
 “(B) provide training and technical assistance for domestic or foreign personnel responsible for operating or maintaining such equipment.”
 
-#### § 984. Repealed. Pub. L. 115–254, div. J, § 1816(f), Oct. 5, 2018, 132 Stat. 3541
+#### § 984. Repealed. Pub. L. 115–254, div. J, § 1816(f), Oct. 5, 2018, 132 Stat. 3541
 
-Section, Pub. L. 109–347, title II, § 235, Oct. 13, 2006, 120 Stat. 1919, related to pilot program to improve the security of empty containers.
+Section, Pub. L. 109–347, title II, § 235, Oct. 13, 2006, 120 Stat. 1919, related to pilot program to improve the security of empty containers.
 
-#### § 985. Information sharing relating to supply chain security cooperation
+#### § 985. Information sharing relating to supply chain security cooperation
 
 **(a) Purposes** The purposes of this section are—
 
@@ -1423,15 +1423,15 @@ Nothing in this section shall be construed to limit or otherwise affect the abil
 
 **(2)** information that is proprietary, business sensitive, relates specifically to the submitting person or entity, or is otherwise not appropriately in the public domain.
 
-(Pub. L. 109–347, title II, § 236, Oct. 13, 2006, 120 Stat. 1919.)
+(Pub. L. 109–347, title II, § 236, Oct. 13, 2006, 120 Stat. 1919.)
 
 ## SUBCHAPTER III—ADMINISTRATION
 
-### § 1001. Designation of liaison office of Department of State
+### § 1001. Designation of liaison office of Department of State
 
 The Secretary of State shall designate a liaison office within the Department of State to assist the Secretary, as appropriate, in negotiating cargo security-related international agreements.
 
-(Pub. L. 109–347, title III, § 301(b), Oct. 13, 2006, 120 Stat. 1920.)
+(Pub. L. 109–347, title III, § 301(b), Oct. 13, 2006, 120 Stat. 1920.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1439,13 +1439,13 @@ The Secretary of State shall designate a liaison office within the Department of
 
 Nothing in this section to be construed to affect the authorities, functions, or capabilities of the Coast Guard to perform its missions or the requirement under section 468 of this title that those authorities, functions, and capabilities be maintained intact, see section 301(c) of Pub. L. 109–347, set out as a note under section 239 of this title.
 
-### § 1002. Homeland Security Science and Technology Advisory Committee
+### § 1002. Homeland Security Science and Technology Advisory Committee
 
 The Under Secretary for Science and Technology shall utilize the Homeland Security Science and Technology Advisory Committee, as appropriate, to provide outside expertise in advancing cargo security technology.
 
-(Pub. L. 109–347, title III, § 302(c), Oct. 13, 2006, 120 Stat. 1921.)
+(Pub. L. 109–347, title III, § 302(c), Oct. 13, 2006, 120 Stat. 1921.)
 
-### § 1003. Research, development, test, and evaluation efforts in furtherance of maritime and cargo security
+### § 1003. Research, development, test, and evaluation efforts in furtherance of maritime and cargo security
 
 **(a) In general** The Secretary shall—
 
@@ -1457,7 +1457,7 @@ The Under Secretary for Science and Technology shall utilize the Homeland Securi
 
 **(b) Coordination** The Secretary, in coordination with the Under Secretary for Science and Technology, the Assistant Secretary for Policy, the Commandant of the Coast Guard, the Director for Domestic Nuclear Detection,1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 the Chief Financial Officer, and the heads of other appropriate offices or entities of the Department, shall ensure that—
 
@@ -1465,7 +1465,7 @@ the Chief Financial Officer, and the heads of other appropriate offices or entit
 
 **(2)** the results of such efforts are shared throughout the Department and with other Federal, State, and local agencies, as appropriate.
 
-(Pub. L. 109–347, title III, § 303, Oct. 13, 2006, 120 Stat. 1921.)
+(Pub. L. 109–347, title III, § 303, Oct. 13, 2006, 120 Stat. 1921.)
 
 **Statutory Notes and Related Subsidiaries**
 

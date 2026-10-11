@@ -83,7 +83,7 @@ Sec. 7. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-## § 3301. Definitions
+## § 3301. Definitions
 
 In this chapter, the following definitions apply:
 
@@ -231,35 +231,35 @@ The term “State levee safety agency” means the agency of a State that has re
 
 The term “United States”, when used in a geographical sense, means all of the States.
 
-(Pub. L. 110–114, title IX, § 9002, Nov. 8, 2007, 121 Stat. 1288; Pub. L. 113–121, title III, § 3016(b), June 10, 2014, 128 Stat. 1289; Pub. L. 114–322, title I, § 1130(a), Dec. 16, 2016, 130 Stat. 1650; Pub. L. 117–263, div. H, title LXXXI, § 8387(a), Dec. 23, 2022, 136 Stat. 3830.)
+(Pub. L. 110–114, title IX, § 9002, Nov. 8, 2007, 121 Stat. 1288; Pub. L. 113–121, title III, § 3016(b), June 10, 2014, 128 Stat. 1289; Pub. L. 114–322, title I, § 1130(a), Dec. 16, 2016, 130 Stat. 1650; Pub. L. 117–263, div. H, title LXXXI, § 8387(a), Dec. 23, 2022, 136 Stat. 3830.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Par. (13). Pub. L. 117–263 designated existing provisions as subpar. (A) and inserted heading, inserted “, increase resiliency to extreme weather events,” after “flood risk”, and added subpar. (B).
+2022—Par. (13). Pub. L. 117–263 designated existing provisions as subpar. (A) and inserted heading, inserted “, increase resiliency to extreme weather events,” after “flood risk”, and added subpar. (B).
 
-2016—Par. (11). Pub. L. 114–322, § 1130(a)(1), substituted “State, regional district, or Indian tribe” for “State or Indian tribe”.
+2016—Par. (11). Pub. L. 114–322, § 1130(a)(1), substituted “State, regional district, or Indian tribe” for “State or Indian tribe”.
 
-Pars. (12) to (17). Pub. L. 114–322, § 1130(a)(2), (3), added par. (12) and redesignated former pars. (12) to (16) as (13) to (17), respectively.
+Pars. (12) to (17). Pub. L. 114–322, § 1130(a)(2), (3), added par. (12) and redesignated former pars. (12) to (16) as (13) to (17), respectively.
 
-2014—Pars. (1) to (6). Pub. L. 113–121, § 3016(b)(1)–(3), added pars. (1), (2), (4), and (5), and redesignated former pars. (1) and (2) as (3) and (6), respectively. Former pars. (3), (4), (5), and (6) redesignated (7), (14), (15), and (16), respectively.
+2014—Pars. (1) to (6). Pub. L. 113–121, § 3016(b)(1)–(3), added pars. (1), (2), (4), and (5), and redesignated former pars. (1) and (2) as (3) and (6), respectively. Former pars. (3), (4), (5), and (6) redesignated (7), (14), (15), and (16), respectively.
 
-Par. (7). Pub. L. 113–121, § 3016(b)(4), added par. (7) and struck out former par. (7) which defined “levee”.
+Par. (7). Pub. L. 113–121, § 3016(b)(4), added par. (7) and struck out former par. (7) which defined “levee”.
 
-Pub. L. 113–121, § 3016(b)(1), redesignated par. (3) as (7).
+Pub. L. 113–121, § 3016(b)(1), redesignated par. (3) as (7).
 
-Pars. (8) to (16). Pub. L. 113–121, § 3016(b)(1), (4), added pars. (8) to (13) and redesignated pars. (4) to (6) as (14) to (16), respectively.
+Pars. (8) to (16). Pub. L. 113–121, § 3016(b)(1), (4), added pars. (8) to (13) and redesignated pars. (4) to (6) as (14) to (16), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 110–114, title IX, § 9001(a), formerly § 9001, Nov. 8, 2007, 121 Stat. 1288, renumbered § 9001(a) and amended by Pub. L. 113–121, title III, § 3016(a)(1), (2), June 10, 2014, 128 Stat. 1289, provided that: “This title [enacting this chapter] may be cited as the ‘National Levee Safety Act of 2007’.”
+Pub. L. 110–114, title IX, § 9001(a), formerly § 9001, Nov. 8, 2007, 121 Stat. 1288, renumbered § 9001(a) and amended by Pub. L. 113–121, title III, § 3016(a)(1), (2), June 10, 2014, 128 Stat. 1289, provided that: “This title [enacting this chapter] may be cited as the ‘National Levee Safety Act of 2007’.”
 
 **Purposes of the Safety Program**
 
-Pub. L. 110–114, title IX, § 9001(b), as added Pub. L. 113–121, title III, § 3016(a)(3), June 10, 2014, 128 Stat. 1289, provided that:
+Pub. L. 110–114, title IX, § 9001(b), as added Pub. L. 113–121, title III, § 3016(a)(3), June 10, 2014, 128 Stat. 1289, provided that:
 
 > “The purposes of this title [enacting this chapter] are—
 
@@ -275,7 +275,7 @@ Pub. L. 110–114, title IX, § 9001(b), as added Pub. L. 113–121, title III
 
 > **“(6)** to encourage the establishment of effective State and tribal levee safety programs.”
 
-## § 3302. Committee on Levee Safety
+## § 3302. Committee on Levee Safety
 
 **(a) Establishment**
 
@@ -369,7 +369,7 @@ Each member of a standing committee shall serve in a voluntary capacity.
 
 Chapter 10 of title 5 shall not apply to the committee.
 
-(Pub. L. 110–114, title IX, § 9003, Nov. 8, 2007, 121 Stat. 1288; Pub. L. 110–274, § 1, July 15, 2008, 122 Stat. 2493; Pub. L. 113–121, title III, § 3016(c), June 10, 2014, 128 Stat. 1291; Pub. L. 117–286, § 4(a)(207), Dec. 27, 2022, 136 Stat. 4328.)
+(Pub. L. 110–114, title IX, § 9003, Nov. 8, 2007, 121 Stat. 1288; Pub. L. 110–274, § 1, July 15, 2008, 122 Stat. 2493; Pub. L. 113–121, title III, § 3016(c), June 10, 2014, 128 Stat. 1291; Pub. L. 117–286, § 4(a)(207), Dec. 27, 2022, 136 Stat. 4328.)
 
 **Editorial Notes**
 
@@ -377,13 +377,13 @@ Chapter 10 of title 5 shall not apply to the committee.
 
 2022—Subsec. (h). Pub. L. 117–286 substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
-2014—Subsec. (b). Pub. L. 113–121, § 3016(c)(1), added par. (1), redesignated par. (3) as (2), inserted “voting” after “14” in introductory provisions of par. (2), and struck out former pars. (1) and (2) which read as follows:
+2014—Subsec. (b). Pub. L. 113–121, § 3016(c)(1), added par. (1), redesignated par. (3) as (2), inserted “voting” after “14” in introductory provisions of par. (2), and struck out former pars. (1) and (2) which read as follows:
 
 “(1) The Secretary (or the Secretary’s designee), who shall serve as the chairperson of the Committee.
 
 “(2) The Administrator of the Federal Emergency Management Agency (or the Administrator’s designee).”
 
-Subsecs. (c) to (h). Pub. L. 113–121, § 3016(c)(2), (3), added subsecs. (c) to (g), redesignated former subsec. (g) as (h), and struck out former subsecs. (c) to (f) which related to duties, purposes, compensation of members, and travel expenses, respectively.
+Subsecs. (c) to (h). Pub. L. 113–121, § 3016(c)(2), (3), added subsecs. (c) to (g), redesignated former subsec. (g) as (h), and struck out former subsecs. (c) to (f) which related to duties, purposes, compensation of members, and travel expenses, respectively.
 
 2008—Subsec. (f). Pub. L. 110–274 substituted “Subject to the availability of appropriations,” for “To the extent amounts are made available in advance in appropriations Acts,”.
 
@@ -393,7 +393,7 @@ Subsecs. (c) to (h). Pub. L. 113–121, § 3016(c)(2), (3), added subsecs. (c)
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 
-## § 3303. Inventory and inspection of levees
+## § 3303. Inventory and inspection of levees
 
 **(a) Levee database**
 
@@ -469,7 +469,7 @@ In carrying out the inventory and review under this subsection, the Secretary sh
 
 In identifying deficiencies and describing remedies for a levee under paragraph (1), the Secretary shall consult with relevant non-Federal interests, including by providing an opportunity for comment by those non-Federal interests.
 
-(Pub. L. 110–114, title IX, § 9004, Nov. 8, 2007, 121 Stat. 1290; Pub. L. 113–121, title III, § 3016(d), June 10, 2014, 128 Stat. 1292; Pub. L. 114–322, title I, § 1130(b), Dec. 16, 2016, 130 Stat. 1650; Pub. L. 116–260, div. AA, title I, § 131, Dec. 27, 2020, 134 Stat. 2644.)
+(Pub. L. 110–114, title IX, § 9004, Nov. 8, 2007, 121 Stat. 1290; Pub. L. 113–121, title III, § 3016(d), June 10, 2014, 128 Stat. 1292; Pub. L. 114–322, title I, § 1130(b), Dec. 16, 2016, 130 Stat. 1650; Pub. L. 116–260, div. AA, title I, § 131, Dec. 27, 2020, 134 Stat. 2644.)
 
 **Editorial Notes**
 
@@ -477,19 +477,19 @@ In identifying deficiencies and describing remedies for a levee under paragraph 
 
 2020—Subsec. (d). Pub. L. 116–260 added subsec. (d).
 
-2016—Subsec. (a)(1). Pub. L. 114–322, § 1130(b)(1)(A), substituted “1 year after December 16, 2016,” for “one year after November 8, 2007,”.
+2016—Subsec. (a)(1). Pub. L. 114–322, § 1130(b)(1)(A), substituted “1 year after December 16, 2016,” for “one year after November 8, 2007,”.
 
-Subsec. (a)(2)(A). Pub. L. 114–322, § 1130(b)(1)(B), substituted “States, regional districts, Indian tribes, Federal agencies, and other entities” for “States, Indian tribes, Federal agencies, and other entities”.
+Subsec. (a)(2)(A). Pub. L. 114–322, § 1130(b)(1)(B), substituted “States, regional districts, Indian tribes, Federal agencies, and other entities” for “States, Indian tribes, Federal agencies, and other entities”.
 
-Subsec. (a)(3)(A). Pub. L. 114–322, § 1130(b)(1)(C), substituted “Federal, State, regional, tribal, and local” for “Federal, State, and local” in heading and text.
+Subsec. (a)(3)(A). Pub. L. 114–322, § 1130(b)(1)(C), substituted “Federal, State, regional, tribal, and local” for “Federal, State, and local” in heading and text.
 
-Subsec. (c)(4). Pub. L. 114–322, § 1130(b)(2)(A), substituted “State, regional, and tribal” for “State and tribal” in heading and “State, regional district, or Indian tribe” for “State or Indian tribe” wherever appearing in text.
+Subsec. (c)(4). Pub. L. 114–322, § 1130(b)(2)(A), substituted “State, regional, and tribal” for “State and tribal” in heading and “State, regional district, or Indian tribe” for “State or Indian tribe” wherever appearing in text.
 
-Subsec. (c)(5). Pub. L. 114–322, § 1130(b)(2)(B), substituted “State, regional district, or Indian tribe” for “State or Indian tribe” and “chief executive of the regional district or tribal government” for “chief executive of the tribal government”.
+Subsec. (c)(5). Pub. L. 114–322, § 1130(b)(2)(B), substituted “State, regional district, or Indian tribe” for “State or Indian tribe” and “chief executive of the regional district or tribal government” for “chief executive of the tribal government”.
 
-2014—Subsec. (a)(2)(A). Pub. L. 113–121, § 3016(d)(1), substituted “and updated levee information provided by States, Indian tribes, Federal agencies, and other entities” for “and, for non-Federal levees, such information on levee location as is provided to the Secretary by State and local governmental agencies”.
+2014—Subsec. (a)(2)(A). Pub. L. 113–121, § 3016(d)(1), substituted “and updated levee information provided by States, Indian tribes, Federal agencies, and other entities” for “and, for non-Federal levees, such information on levee location as is provided to the Secretary by State and local governmental agencies”.
 
-Subsec. (c). Pub. L. 113–121, § 3016(d)(2), added subsec. (c).
+Subsec. (c). Pub. L. 113–121, § 3016(d)(2), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -497,7 +497,7 @@ Subsec. (c). Pub. L. 113–121, § 3016(d)(2), added subsec. (c).
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 
-## § 3303a. Levee safety initiative
+## § 3303a. Levee safety initiative
 
 **(a) Establishment**
 
@@ -781,25 +781,25 @@ To the maximum extent practicable, the Secretary shall prioritize the provision 
 
 **(A)** the Secretary; or
 
-**(B)** the Administrator, including for the purpose of setting premium rates under the national flood insurance program established under chapter 1 1
+**(B)** the Administrator, including for the purpose of setting premium rates under the national flood insurance program established under chapter 1 1
 
-<sup>1</sup>  So in original. Probably should be “chapter I”.
+<sup>1</sup> So in original. Probably should be “chapter I”.
 
 of the National Flood Insurance Act of 1968 (42 U.S.C. 4011 et seq.).
 
-(Pub. L. 110–114, title IX, § 9005, as added Pub. L. 113–121, title III, § 3016(e)(2), June 10, 2014, 128 Stat. 1293; Pub. L. 114–322, title I, § 1130(c), Dec. 16, 2016, 130 Stat. 1650; Pub. L. 115–270, title I, § 1144(1), Oct. 23, 2018, 132 Stat. 3785; Pub. L. 117–263, div. H, title LXXXI, § 8387(b), (c), Dec. 23, 2022, 136 Stat. 3830, 3831; Pub. L. 118–272, div. A, title III, § 1303(d), Jan. 4, 2025, 138 Stat. 3114.)
+(Pub. L. 110–114, title IX, § 9005, as added Pub. L. 113–121, title III, § 3016(e)(2), June 10, 2014, 128 Stat. 1293; Pub. L. 114–322, title I, § 1130(c), Dec. 16, 2016, 130 Stat. 1650; Pub. L. 115–270, title I, § 1144(1), Oct. 23, 2018, 132 Stat. 3785; Pub. L. 117–263, div. H, title LXXXI, § 8387(b), (c), Dec. 23, 2022, 136 Stat. 3830, 3831; Pub. L. 118–272, div. A, title III, § 1303(d), Jan. 4, 2025, 138 Stat. 3114.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (g)(2)(B)(iv), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (g)(2)(B)(iv), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 The Disaster Mitigation Act of 2000, referred to in subsec. (h)(2)(B)(ii), is Pub. L. 106–390, Oct. 30, 2000, 114 Stat. 1552. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 5121 of Title 42, The Public Health and Welfare, and Tables.
 
 Section 160 of the Water Resources Development Act of 2020, referred to in subsec. (h)(11), is section 160 of div. AA of Pub. L. 116–260, which is set out as a note under section 2201 of this title.
 
-The National Flood Insurance Act of 1968, referred to in subsec. (i)(2)(B), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to chapter 50 (§ 4001 et seq.) of Title 42, The Public Health and Welfare. Chapter I of the Act is classified principally to subchapter I (§ 4011 et seq.) of chapter 50 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
+The National Flood Insurance Act of 1968, referred to in subsec. (i)(2)(B), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to chapter 50 (§ 4001 et seq.) of Title 42, The Public Health and Welfare. Chapter I of the Act is classified principally to subchapter I (§ 4011 et seq.) of chapter 50 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
 
 **Prior Provisions**
 
@@ -809,73 +809,73 @@ A prior section 9005 of Pub. L. 110–114 was renumbered section 9007, and is cl
 
 2025—Subsec. (g)(2)(E)(i). Pub. L. 118–272 substituted “2030” for “2028”.
 
-2022—Subsec. (g)(2)(E)(i). Pub. L. 117–263, § 8387(b), substituted “2028” for “2023”.
+2022—Subsec. (g)(2)(E)(i). Pub. L. 117–263, § 8387(b), substituted “2028” for “2023”.
 
-Subsec. (h)(1). Pub. L. 117–263, § 8387(c)(1), inserted “and levee rehabilitation” after “mitigation”.
+Subsec. (h)(1). Pub. L. 117–263, § 8387(c)(1), inserted “and levee rehabilitation” after “mitigation”.
 
-Subsec. (h)(7). Pub. L. 117–263, § 8387(c)(2), substituted “$25,000,000” for “$10,000,000”.
+Subsec. (h)(7). Pub. L. 117–263, § 8387(c)(2), substituted “$25,000,000” for “$10,000,000”.
 
-Subsec. (h)(11). Pub. L. 117–263, § 8387(c)(3), added par. (11).
+Subsec. (h)(11). Pub. L. 117–263, § 8387(c)(3), added par. (11).
 
 2018—Subsec. (g)(2)(E)(i). Pub. L. 115–270 substituted “2019 through 2023” for “2015 through 2019”.
 
-2016—Subsec. (c)(1). Pub. L. 114–322, § 1130(c)(1)(A)(i), substituted “1 year after December 16, 2016,” for “1 year after June 10, 2014,” and “State, regional, local, and tribal governments and organizations” for “State, local, and tribal governments and organizations” in introductory provisions.
+2016—Subsec. (c)(1). Pub. L. 114–322, § 1130(c)(1)(A)(i), substituted “1 year after December 16, 2016,” for “1 year after June 10, 2014,” and “State, regional, local, and tribal governments and organizations” for “State, local, and tribal governments and organizations” in introductory provisions.
 
-Subsec. (c)(1)(A). Pub. L. 114–322, § 1130(c)(1)(A)(ii), substituted “Federal, State, regional, local, and tribal agencies” for “Federal, State, tribal, and local agencies”.
+Subsec. (c)(1)(A). Pub. L. 114–322, § 1130(c)(1)(A)(ii), substituted “Federal, State, regional, local, and tribal agencies” for “Federal, State, tribal, and local agencies”.
 
-Subsec. (c)(3)(A). Pub. L. 114–322, § 1130(c)(1)(B)(i), substituted “State, regional, local, and tribal governments” for “State, local, and tribal governments,”.
+Subsec. (c)(3)(A). Pub. L. 114–322, § 1130(c)(1)(B)(i), substituted “State, regional, local, and tribal governments” for “State, local, and tribal governments,”.
 
-Subsec. (c)(3)(B). Pub. L. 114–322, § 1130(c)(1)(B)(ii), inserted “, regional, or tribal” after “State” in two places.
+Subsec. (c)(3)(B). Pub. L. 114–322, § 1130(c)(1)(B)(ii), inserted “, regional, or tribal” after “State” in two places.
 
-Subsec. (c)(5)(A). Pub. L. 114–322, § 1130(c)(1)(C), substituted “States, regional districts, Indian tribes, non-Federal interests, and other appropriate stakeholders” for “States, non-Federal interests, and other appropriate stakeholders”.
+Subsec. (c)(5)(A). Pub. L. 114–322, § 1130(c)(1)(C), substituted “States, regional districts, Indian tribes, non-Federal interests, and other appropriate stakeholders” for “States, non-Federal interests, and other appropriate stakeholders”.
 
-Subsec. (e)(1). Pub. L. 114–322, § 1130(c)(2), substituted “States, regional districts, Indian tribes, communities, and levee owners” for “States, communities, and levee owners” in introductory provisions.
+Subsec. (e)(1). Pub. L. 114–322, § 1130(c)(2), substituted “States, regional districts, Indian tribes, communities, and levee owners” for “States, communities, and levee owners” in introductory provisions.
 
-Subsec. (g). Pub. L. 114–322, § 1130(c)(3)(A), substituted “State, regional, and tribal” for “State and tribal” in heading.
+Subsec. (g). Pub. L. 114–322, § 1130(c)(3)(A), substituted “State, regional, and tribal” for “State and tribal” in heading.
 
-Subsec. (g)(1)(A). Pub. L. 114–322, § 1130(c)(3)(B)(i), substituted “1 year after December 16, 2016,” for “1 year after June 10, 2014,” and “State, regional, or tribal” for “State or tribal”.
+Subsec. (g)(1)(A). Pub. L. 114–322, § 1130(c)(3)(B)(i), substituted “1 year after December 16, 2016,” for “1 year after June 10, 2014,” and “State, regional, or tribal” for “State or tribal”.
 
-Subsec. (g)(1)(B). Pub. L. 114–322, § 1130(c)(3)(B)(ii), substituted “State, regional district, and Indian tribe” for “State and Indian tribe” and “State, regional district, or Indian tribe” for “State or Indian tribe” in introductory provisions.
+Subsec. (g)(1)(B). Pub. L. 114–322, § 1130(c)(3)(B)(ii), substituted “State, regional district, and Indian tribe” for “State and Indian tribe” and “State, regional district, or Indian tribe” for “State or Indian tribe” in introductory provisions.
 
-Subsec. (g)(2). Pub. L. 114–322, § 1130(c)(3)(C)(i), substituted “States, regional districts, and Indian tribes” for “States” in heading.
+Subsec. (g)(2). Pub. L. 114–322, § 1130(c)(3)(C)(i), substituted “States, regional districts, and Indian tribes” for “States” in heading.
 
-Subsec. (g)(2)(A). Pub. L. 114–322, § 1130(c)(3)(C)(ii), substituted “States, regional districts, and Indian tribes” for “States and Indian tribes”.
+Subsec. (g)(2)(A). Pub. L. 114–322, § 1130(c)(3)(C)(ii), substituted “States, regional districts, and Indian tribes” for “States and Indian tribes”.
 
-Subsec. (g)(2)(B). Pub. L. 114–322, § 1130(c)(3)(C)(iii)(I), substituted “State, regional district, or Indian tribe” for “State or Indian tribe” in introductory provisions.
+Subsec. (g)(2)(B). Pub. L. 114–322, § 1130(c)(3)(C)(iii)(I), substituted “State, regional district, or Indian tribe” for “State or Indian tribe” in introductory provisions.
 
-Subsec. (g)(2)(B)(ii). Pub. L. 114–322, § 1130(c)(3)(C)(iii)(II), substituted “levees within the State or regional district” for “levees within the State”.
+Subsec. (g)(2)(B)(ii). Pub. L. 114–322, § 1130(c)(3)(C)(iii)(II), substituted “levees within the State or regional district” for “levees within the State”.
 
-Subsec. (g)(2)(B)(iii). Pub. L. 114–322, § 1130(c)(3)(C)(iii)(III), substituted “State, regional district, or Indian tribe” for “State or Indian tribe”.
+Subsec. (g)(2)(B)(iii). Pub. L. 114–322, § 1130(c)(3)(C)(iii)(III), substituted “State, regional district, or Indian tribe” for “State or Indian tribe”.
 
-Subsec. (g)(2)(C)(ii). Pub. L. 114–322, § 1130(c)(3)(C)(iv), substituted “State, regional, or tribal” for “State or tribal” in introductory provisions.
+Subsec. (g)(2)(C)(ii). Pub. L. 114–322, § 1130(c)(3)(C)(iv), substituted “State, regional, or tribal” for “State or tribal” in introductory provisions.
 
-Subsec. (g)(2)(E)(ii). Pub. L. 114–322, § 1130(c)(3)(C)(v)(I), substituted “States, regional districts, and Indian tribes” for “States and Indian tribes” wherever appearing.
+Subsec. (g)(2)(E)(ii). Pub. L. 114–322, § 1130(c)(3)(C)(v)(I), substituted “States, regional districts, and Indian tribes” for “States and Indian tribes” wherever appearing.
 
-Subsec. (g)(2)(E)(ii)(II). Pub. L. 114–322, § 1130(c)(3)(C)(v)(II)(aa), substituted “State, regional district, or Indian tribe” for “State or Indian tribe” in introductory provisions.
+Subsec. (g)(2)(E)(ii)(II). Pub. L. 114–322, § 1130(c)(3)(C)(v)(II)(aa), substituted “State, regional district, or Indian tribe” for “State or Indian tribe” in introductory provisions.
 
-Subsec. (g)(2)(E)(ii)(II)(aa). Pub. L. 114–322, § 1130(c)(3)(C)(v)(II)(bb), substituted “miles of levees in the State or regional district” for “miles of levees in the State”.
+Subsec. (g)(2)(E)(ii)(II)(aa). Pub. L. 114–322, § 1130(c)(3)(C)(v)(II)(bb), substituted “miles of levees in the State or regional district” for “miles of levees in the State”.
 
-Subsec. (g)(2)(E)(ii)(II)(bb). Pub. L. 114–322, § 1130(c)(3)(C)(v)(II)(cc), substituted “miles of levees in all States and regional districts” for “miles of levees in all States”.
+Subsec. (g)(2)(E)(ii)(II)(bb). Pub. L. 114–322, § 1130(c)(3)(C)(v)(II)(cc), substituted “miles of levees in all States and regional districts” for “miles of levees in all States”.
 
-Subsec. (g)(2)(E)(iii). Pub. L. 114–322, § 1130(c)(3)(C)(v)(III), substituted “State, regional district, or Indian tribe” for “State or Indian tribe” and “State, regional, or tribal” for “State or tribal”.
+Subsec. (g)(2)(E)(iii). Pub. L. 114–322, § 1130(c)(3)(C)(v)(III), substituted “State, regional district, or Indian tribe” for “State or Indian tribe” and “State, regional, or tribal” for “State or tribal”.
 
-Subsec. (h)(1). Pub. L. 114–322, § 1130(c)(4)(A), substituted “States, regional districts, Indian tribes, and local governments” for “States, Indian tribes, and local governments”.
+Subsec. (h)(1). Pub. L. 114–322, § 1130(c)(4)(A), substituted “States, regional districts, Indian tribes, and local governments” for “States, Indian tribes, and local governments”.
 
-Subsec. (h)(2). Pub. L. 114–322, § 1130(c)(4)(B)(i), substituted “State, regional district, Indian tribe, or local government” for “State, Indian tribe, or local government” in introductory provisions.
+Subsec. (h)(2). Pub. L. 114–322, § 1130(c)(4)(B)(i), substituted “State, regional district, Indian tribe, or local government” for “State, Indian tribe, or local government” in introductory provisions.
 
-Subsec. (h)(2)(E). Pub. L. 114–322, § 1130(c)(4)(B)(ii), substituted “State, regional, or tribal” for “State or tribal” in introductory provisions.
+Subsec. (h)(2)(E). Pub. L. 114–322, § 1130(c)(4)(B)(ii), substituted “State, regional, or tribal” for “State or tribal” in introductory provisions.
 
-Subsec. (h)(3)(A). Pub. L. 114–322, § 1130(c)(4)(C)(i), substituted “State, regional district, Indian tribe, or local government” for “State, Indian tribe, or local government”.
+Subsec. (h)(3)(A). Pub. L. 114–322, § 1130(c)(4)(C)(i), substituted “State, regional district, Indian tribe, or local government” for “State, Indian tribe, or local government”.
 
-Subsec. (h)(3)(D). Pub. L. 114–322, § 1130(c)(4)(C)(ii), substituted “180 days after December 16, 2016” for “180 days after June 10, 2014”.
+Subsec. (h)(3)(D). Pub. L. 114–322, § 1130(c)(4)(C)(ii), substituted “180 days after December 16, 2016” for “180 days after June 10, 2014”.
 
-Subsec. (h)(4)(A)(i). Pub. L. 114–322, § 1130(c)(4)(D), substituted “State, regional, or tribal” for “State or tribal”.
+Subsec. (h)(4)(A)(i). Pub. L. 114–322, § 1130(c)(4)(D), substituted “State, regional, or tribal” for “State or tribal”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Rehabilitation of Existing Levees**
 
-Pub. L. 113–121, title III, § 3017, June 10, 2014, 128 Stat. 1300, as amended by Pub. L. 117–263, div. H, title LXXXI, § 8382(a), Dec. 23, 2022, 136 Stat. 3828; Pub. L. 118–272, div. A, title III, § 1303(i), Jan. 4, 2025, 138 Stat. 3115, provided that:
+Pub. L. 113–121, title III, § 3017, June 10, 2014, 128 Stat. 1300, as amended by Pub. L. 117–263, div. H, title LXXXI, § 8382(a), Dec. 23, 2022, 136 Stat. 3828; Pub. L. 118–272, div. A, title III, § 1303(i), Jan. 4, 2025, 138 Stat. 3115, provided that:
 
 > **“(a) In General.—** The Secretary [of the Army] shall carry out measures that address consolidation, settlement, subsidence, sea level rise, and new datum to restore federally authorized hurricane and storm damage reduction projects that were constructed as of the date of enactment of this Act [June 10, 2014] to the authorized levels of protection of the projects if the Secretary determines the necessary work is technically feasible, environmentally acceptable, and economically justified.
 
@@ -903,7 +903,7 @@ Pub. L. 113–121, title III, § 3017, June 10, 2014, 128 Stat. 1300, as amend
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 
-## § 3303b. Reports
+## § 3303b. Reports
 
 **(a) State of levees**
 
@@ -945,7 +945,7 @@ Not later than 3 years after June 10, 2014, to the maximum extent practicable, t
 
 **(2)** development and implementation of a State, regional, or tribal levee safety program.
 
-(Pub. L. 110–114, title IX, § 9006, as added Pub. L. 113–121, title III, § 3016(e)(2), June 10, 2014, 128 Stat. 1299; amended Pub. L. 114–322, title I, § 1130(d), Dec. 16, 2016, 130 Stat. 1652.)
+(Pub. L. 110–114, title IX, § 9006, as added Pub. L. 113–121, title III, § 3016(e)(2), June 10, 2014, 128 Stat. 1299; amended Pub. L. 114–322, title I, § 1130(d), Dec. 16, 2016, 130 Stat. 1652.)
 
 **Editorial Notes**
 
@@ -955,19 +955,19 @@ A prior section 9006 of Pub. L. 110–114 was renumbered section 9008, and is cl
 
 **Amendments**
 
-2016—Subsec. (a)(1). Pub. L. 114–322, § 1130(d)(1)(A), substituted “1 year after December 16, 2016” for “1 year after June 10, 2014” in introductory provisions.
+2016—Subsec. (a)(1). Pub. L. 114–322, § 1130(d)(1)(A), substituted “1 year after December 16, 2016” for “1 year after June 10, 2014” in introductory provisions.
 
-Subsec. (a)(1)(B). Pub. L. 114–322, § 1130(d)(1)(B), substituted “State, regional, and tribal” for “State and tribal”.
+Subsec. (a)(1)(B). Pub. L. 114–322, § 1130(d)(1)(B), substituted “State, regional, and tribal” for “State and tribal”.
 
-Subsec. (c). Pub. L. 114–322, § 1130(d)(2)(A), in introductory provisions, substituted “2 years after December 16, 2016” for “2 years after June 10, 2014” and “State, regional, tribal, and local” for “State, tribal, and local”.
+Subsec. (c). Pub. L. 114–322, § 1130(d)(2)(A), in introductory provisions, substituted “2 years after December 16, 2016” for “2 years after June 10, 2014” and “State, regional, tribal, and local” for “State, tribal, and local”.
 
-Subsec. (c)(2). Pub. L. 114–322, § 1130(d)(2)(B), substituted “State, regional, and tribal” for “State and tribal”.
+Subsec. (c)(2). Pub. L. 114–322, § 1130(d)(2)(B), substituted “State, regional, and tribal” for “State and tribal”.
 
-Subsec. (c)(4). Pub. L. 114–322, § 1130(d)(2)(C), substituted “State, regional, tribal, and local” for “State and local”.
+Subsec. (c)(4). Pub. L. 114–322, § 1130(d)(2)(C), substituted “State, regional, tribal, and local” for “State and local”.
 
-Subsec. (d). Pub. L. 114–322, § 1130(d)(3)(A), substituted “1 year after December 16, 2016” for “1 year after June 10, 2014” in introductory provisions.
+Subsec. (d). Pub. L. 114–322, § 1130(d)(3)(A), substituted “1 year after December 16, 2016” for “1 year after June 10, 2014” in introductory provisions.
 
-Subsec. (d)(2). Pub. L. 114–322, § 1130(d)(3)(B), substituted “State, regional, or tribal” for “State or tribal”.
+Subsec. (d)(2). Pub. L. 114–322, § 1130(d)(3)(B), substituted “State, regional, or tribal” for “State or tribal”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -975,7 +975,7 @@ Subsec. (d)(2). Pub. L. 114–322, § 1130(d)(3)(B), substituted “State, reg
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 
-## § 3304. Limitations on statutory construction
+## § 3304. Limitations on statutory construction
 
 Nothing in this chapter shall be construed as—
 
@@ -983,9 +983,9 @@ Nothing in this chapter shall be construed as—
 
 **(2)** relieving an owner or operator of a levee of a legal duty, obligation, or liability incident to the ownership or operation of a levee.
 
-(Pub. L. 110–114, title IX, § 9007, formerly § 9005, Nov. 8, 2007, 121 Stat. 1290; renumbered § 9007, Pub. L. 113–121, title III, § 3016(e)(1), June 10, 2014, 128 Stat. 1293.)
+(Pub. L. 110–114, title IX, § 9007, formerly § 9005, Nov. 8, 2007, 121 Stat. 1290; renumbered § 9007, Pub. L. 113–121, title III, § 3016(e)(1), June 10, 2014, 128 Stat. 1293.)
 
-## § 3305. Authorization of appropriations
+## § 3305. Authorization of appropriations
 
 There is authorized to be appropriated to the Secretary—
 
@@ -995,7 +995,7 @@ There is authorized to be appropriated to the Secretary—
 
 **(3)** to carry out section 3303a(h) of this title, $30,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 110–114, title IX, § 9008, formerly § 9006, Nov. 8, 2007, 121 Stat. 1291; renumbered § 9008 and amended Pub. L. 113–121, title III, § 3016(e)(1), (f), June 10, 2014, 128 Stat. 1293, 1300; Pub. L. 115–270, title I, § 1144(2), Oct. 23, 2018, 132 Stat. 3785.)
+(Pub. L. 110–114, title IX, § 9008, formerly § 9006, Nov. 8, 2007, 121 Stat. 1291; renumbered § 9008 and amended Pub. L. 113–121, title III, § 3016(e)(1), (f), June 10, 2014, 128 Stat. 1293, 1300; Pub. L. 115–270, title I, § 1144(2), Oct. 23, 2018, 132 Stat. 3785.)
 
 **Editorial Notes**
 
@@ -1003,9 +1003,9 @@ There is authorized to be appropriated to the Secretary—
 
 2018—Pub. L. 115–270 substituted “2019 through 2023” for “2015 through 2019” in pars. (1) to (3).
 
-2014—Pub. L. 113–121, § 3016(f)(2), substituted “Secretary—” for “Secretary to carry out this chapter $20,000,000 for each of fiscal years 2008 through 2013.” and added pars. (1) to (3).
+2014—Pub. L. 113–121, § 3016(f)(2), substituted “Secretary—” for “Secretary to carry out this chapter $20,000,000 for each of fiscal years 2008 through 2013.” and added pars. (1) to (3).
 
-Pub. L. 113–121, § 3016(f)(1), which directed the substitution of “is” for “are”, could not be executed because “are” does not appear in text.
+Pub. L. 113–121, § 3016(f)(1), which directed the substitution of “is” for “are”, could not be executed because “are” does not appear in text.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1013,7 +1013,7 @@ Pub. L. 113–121, § 3016(f)(1), which directed the substitution of “is” 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 
-## § 3306. Certain levee improvements
+## § 3306. Certain levee improvements
 
 **(a) In general**
 
@@ -1029,7 +1029,7 @@ In carrying out this section, in a case in which a levee owned and operated by t
 
 **(2)** obligates the Secretary to expend additional Federal resources on levees owned and operated by the Secretary.
 
-(Pub. L. 115–270, title I, § 1123, Oct. 23, 2018, 132 Stat. 3779.)
+(Pub. L. 115–270, title I, § 1123, Oct. 23, 2018, 132 Stat. 3779.)
 
 **Editorial Notes**
 
@@ -1047,7 +1047,7 @@ Section was enacted as part of the Water Resources Development Act of 2018, and 
 
 Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270, set out as a note under section 2201 of this title.
 
-## § 3307. Assessment of Corps of Engineers levees
+## § 3307. Assessment of Corps of Engineers levees
 
 **(a) In general** The Secretary shall periodically conduct assessments of federally authorized levees under the jurisdiction of the Corps of Engineers, to evaluate the potential Federal interest in the modification (including realignment or incorporation of natural features and nature-based features, as such terms are defined in section 2289a(a) of this title) of levee systems to meet one or more of the following objectives:
 
@@ -1119,7 +1119,7 @@ In this section, the term “levee system” has the meaning given that term in 
 
 There is authorized to be appropriated to carry out this section $10,000,000, to remain available until expended.
 
-(Pub. L. 117–263, div. H, title LXXXI, § 8121, Dec. 23, 2022, 136 Stat. 3712.)
+(Pub. L. 117–263, div. H, title LXXXI, § 8121, Dec. 23, 2022, 136 Stat. 3712.)
 
 **Editorial Notes**
 

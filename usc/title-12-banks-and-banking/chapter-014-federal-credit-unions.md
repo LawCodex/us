@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 14—FEDERAL CREDIT UNIONS
 
-## § 1751. Short title
+## § 1751. Short title
 
 This chapter may be cited as the “Federal Credit Union Act”.
 
-(June 26, 1934, ch. 750, § 1, 48 Stat. 1216; Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 628.)
+(June 26, 1934, ch. 750, § 1, 48 Stat. 1216; Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 628.)
 
 **Editorial Notes**
 
@@ -31,27 +31,27 @@ This chapter may be cited as the “Federal Credit Union Act”.
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–103, div. T, § 101, Mar. 15, 2022, 136 Stat. 823, provided that: “This division [amending section 1764 of this title] may be cited as the ‘Credit Union Governance Modernization Act of 2022’.”
+Pub. L. 117–103, div. T, § 101, Mar. 15, 2022, 136 Stat. 823, provided that: “This division [amending section 1764 of this title] may be cited as the ‘Credit Union Governance Modernization Act of 2022’.”
 
 **Short Title of 2014 Amendment**
 
-Pub. L. 113–252, § 1, Dec. 18, 2014, 128 Stat. 2893, provided that: “This Act [amending section 1787 of this title] may be cited as the ‘Credit Union Share Insurance Fund Parity Act’.”
+Pub. L. 113–252, § 1, Dec. 18, 2014, 128 Stat. 2893, provided that: “This Act [amending section 1787 of this title] may be cited as the ‘Credit Union Share Insurance Fund Parity Act’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–219, § 1(a), Aug. 7, 1998, 112 Stat. 913, provided that: “This Act [enacting sections 1757a and 1790d of this title, amending sections 1752a, 1759, 1782, and 1784 to 1787 of this title, repealing section 1762 of this title, and enacting provisions set out as notes under this section and sections 1752a, 1757a, 1759, 1790d, 4801, and 4803 of this title] may be cited as the ‘Credit Union Membership Access Act’.”
+Pub. L. 105–219, § 1(a), Aug. 7, 1998, 112 Stat. 913, provided that: “This Act [enacting sections 1757a and 1790d of this title, amending sections 1752a, 1759, 1782, and 1784 to 1787 of this title, repealing section 1762 of this title, and enacting provisions set out as notes under this section and sections 1752a, 1757a, 1759, 1790d, 4801, and 4803 of this title] may be cited as the ‘Credit Union Membership Access Act’.”
 
 **Short Title of 1987 Amendment**
 
-Pub. L. 100–86, title VII, § 701, Aug. 10, 1987, 101 Stat. 652, provided that: “This title [enacting section 1772c of this title and amending sections 1757, 1761a, 1761b, 1764, 1766, 1767, and 1786 to 1788 of this title and sections 45, 46, and 57a of Title 15, Commerce and Trade] may be cited as the ‘Credit Union Amendments of 1987’.”
+Pub. L. 100–86, title VII, § 701, Aug. 10, 1987, 101 Stat. 652, provided that: “This title [enacting section 1772c of this title and amending sections 1757, 1761a, 1761b, 1764, 1766, 1767, and 1786 to 1788 of this title and sections 45, 46, and 57a of Title 15, Commerce and Trade] may be cited as the ‘Credit Union Amendments of 1987’.”
 
 **Short Title of 1978 Amendment**
 
-Pub. L. 95–630, title XVIII, § 1801, Nov. 10, 1978, 92 Stat. 3719, provided that: “This title [enacting subchapter III of this chapter and amending section 1757 of this title, section 709 of Title 18, Crimes and Criminal Procedure, and section 856 of former Title 31, Money and Finance] may be cited as the ‘National Credit Union Central Liquidity Facility Act’.”
+Pub. L. 95–630, title XVIII, § 1801, Nov. 10, 1978, 92 Stat. 3719, provided that: “This title [enacting subchapter III of this chapter and amending section 1757 of this title, section 709 of Title 18, Crimes and Criminal Procedure, and section 856 of former Title 31, Money and Finance] may be cited as the ‘National Credit Union Central Liquidity Facility Act’.”
 
 **Congressional Findings**
 
-Pub. L. 105–219, § 2, Aug. 7, 1998, 112 Stat. 913, provided that:
+Pub. L. 105–219, § 2, Aug. 7, 1998, 112 Stat. 913, provided that:
 
 > “The Congress finds the following:
 
@@ -73,23 +73,23 @@ Secretary and Department of Health, Education, and Welfare redesignated Secretar
 
 **Transfer of Functions**
 
-Transfer of functions of Farm Credit Administration and Governor thereof to Bureau of Farm Credit Unions and Director thereof under jurisdiction of Federal Security Agency by act June 29, 1948, ch. 711, §§ 1, 2, 62 Stat. 1091, and abolishment of Agency and transfer of its functions to Department of Health, Education, and Welfare by Reorg. Plan No. 1 of 1953, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 632, see section 1752a of this title, and notes thereunder.
+Transfer of functions of Farm Credit Administration and Governor thereof to Bureau of Farm Credit Unions and Director thereof under jurisdiction of Federal Security Agency by act June 29, 1948, ch. 711, §§ 1, 2, 62 Stat. 1091, and abolishment of Agency and transfer of its functions to Department of Health, Education, and Welfare by Reorg. Plan No. 1 of 1953, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 632, see section 1752a of this title, and notes thereunder.
 
-Functions of Farm Credit Administration and Governor thereof under this chapter, together with functions of Secretary of Agriculture with respect thereto, transferred to Federal Deposit Insurance Corporation by Reorg. Plan No. 1 of 1947, § 401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952, set out in the Appendix to Title 5, Government Organization and Employees. A similar transfer of functions for duration of World War II was effected by Ex. Ord. No. 9148, Apr. 27, 1942, 7 F.R. 3145.
+Functions of Farm Credit Administration and Governor thereof under this chapter, together with functions of Secretary of Agriculture with respect thereto, transferred to Federal Deposit Insurance Corporation by Reorg. Plan No. 1 of 1947, § 401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952, set out in the Appendix to Title 5, Government Organization and Employees. A similar transfer of functions for duration of World War II was effected by Ex. Ord. No. 9148, Apr. 27, 1942, 7 F.R. 3145.
 
-Farm Credit Administration transferred to Department of Agriculture by Reorg. Plan No. I of 1939, § 401, eff. July 1, 1939, 4 F.R. 2730, 53 Stat. 1429, set out in the Appendix to Title 5.
+Farm Credit Administration transferred to Department of Agriculture by Reorg. Plan No. I of 1939, § 401, eff. July 1, 1939, 4 F.R. 2730, 53 Stat. 1429, set out in the Appendix to Title 5.
 
-## § 1751a. Omitted
+## § 1751a. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act June 29, 1948, ch. 711, § 2, 62 Stat. 1091, related to establishment of Bureau of Federal Credit Unions. See section 1752a of this title.
+Section, act June 29, 1948, ch. 711, § 2, 62 Stat. 1091, related to establishment of Bureau of Federal Credit Unions. See section 1752a of this title.
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 1752. Definitions
+### § 1752. Definitions
 
 As used in this chapter—
 
@@ -111,7 +111,7 @@ As used in this chapter—
 
 **(9)** The term “branch” includes any branch credit union, branch office, branch agency, additional office, or any branch place of business located in any State of the United States, the District of Columbia, the several territories, including the trust territories, and possessions of the United States, the Panama Canal Zone, or the Commonwealth of Puerto Rico, at which member accounts are established or money lent. The term “branch” also includes a suboffice, operated by a Federal credit union or by a credit union authorized by the Department of Defense, located on an American military installation in a foreign country or in the trust territories of the United States.
 
-(June 26, 1934, ch. 750, title I, § 101, formerly § 2, 48 Stat. 1216; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§ 1, 2, 62 Stat. 1091; Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 628; Pub. L. 91–206, § 1, Mar. 10, 1970, 84 Stat. 49, renumbered title I, § 101, and amended Pub. L. 91–468, §§ 1(2), 2, Oct. 19, 1970, 84 Stat. 994, 1015; Pub. L. 95–22, title III, § 308, Apr. 19, 1977, 91 Stat. 52; Pub. L. 95–630, title V, §§ 502(a), (b), 503, Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–161, title I, § 103(a), Dec. 28, 1979, 93 Stat. 1233; Pub. L. 96–221, title III, §§ 305(a), 307, Mar. 31, 1980, 94 Stat. 146, 147; Pub. L. 97–320, title V, § 501, Oct. 15, 1982, 96 Stat. 1528; Pub. L. 109–351, title VII, § 726(1), (2), Oct. 13, 2006, 120 Stat. 2002.)
+(June 26, 1934, ch. 750, title I, § 101, formerly § 2, 48 Stat. 1216; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§ 1, 2, 62 Stat. 1091; Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 628; Pub. L. 91–206, § 1, Mar. 10, 1970, 84 Stat. 49, renumbered title I, § 101, and amended Pub. L. 91–468, §§ 1(2), 2, Oct. 19, 1970, 84 Stat. 994, 1015; Pub. L. 95–22, title III, § 308, Apr. 19, 1977, 91 Stat. 52; Pub. L. 95–630, title V, §§ 502(a), (b), 503, Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–161, title I, § 103(a), Dec. 28, 1979, 93 Stat. 1233; Pub. L. 96–221, title III, §§ 305(a), 307, Mar. 31, 1980, 94 Stat. 146, 147; Pub. L. 97–320, title V, § 501, Oct. 15, 1982, 96 Stat. 1528; Pub. L. 109–351, title VII, § 726(1), (2), Oct. 13, 2006, 120 Stat. 2002.)
 
 **Editorial Notes**
 
@@ -121,29 +121,29 @@ For definition of Canal Zone, referred to in text, see section 3602(b) of Title 
 
 **Amendments**
 
-2006—Par. (3). Pub. L. 109–351, § 726(1), struck out “and” after semicolon.
+2006—Par. (3). Pub. L. 109–351, § 726(1), struck out “and” after semicolon.
 
-Par. (5). Pub. L. 109–351, § 726(2), substituted “share draft account” for “share draft account account” in two places and for “share draft account accounts” before “of nonmember”.
+Par. (5). Pub. L. 109–351, § 726(2), substituted “share draft account” for “share draft account account” in two places and for “share draft account accounts” before “of nonmember”.
 
-1982—Par. (5). Pub. L. 97–320 inserted “, and such terms mean custodial accounts established for loans sold in whole or in part pursuant to section 1757(13) of this title” after “section 1787 of this title”.
+1982—Par. (5). Pub. L. 97–320 inserted “, and such terms mean custodial accounts established for loans sold in whole or in part pursuant to section 1757(13) of this title” after “section 1787 of this title”.
 
-1980—Par. (5). Pub. L. 96–221, §§ 305(a), 307, inserted provisions respecting applicability to share draft accounts substantially similar to provisions added by Pub. L. 96–161, and repealed the amendment made by Pub. L. 96–161. See Repeals and Effective Date of 1980 Amendment notes below.
+1980—Par. (5). Pub. L. 96–221, §§ 305(a), 307, inserted provisions respecting applicability to share draft accounts substantially similar to provisions added by Pub. L. 96–161, and repealed the amendment made by Pub. L. 96–161. See Repeals and Effective Date of 1980 Amendment notes below.
 
-Par. (10). Pub. L. 96–221, § 307, struck out par. (10) which defined “share draft account”. See Repeals and Effective Date of 1980 Amendment notes below.
+Par. (10). Pub. L. 96–221, § 307, struck out par. (10) which defined “share draft account”. See Repeals and Effective Date of 1980 Amendment notes below.
 
-1979—Par. (5). Pub. L. 96–161, § 103(a)(1), inserted “, and such term also includes a share draft account” after “the equivalent of such accounts under State law”.
+1979—Par. (5). Pub. L. 96–161, § 103(a)(1), inserted “, and such term also includes a share draft account” after “the equivalent of such accounts under State law”.
 
-Par. (10). Pub. L. 96–161, § 103(a)(2)–(4), added par. (10).
+Par. (10). Pub. L. 96–161, § 103(a)(2)–(4), added par. (10).
 
-1978—Par. (2). Pub. L. 95–630, § 502(a)(1), substituted provisions defining “Chairman” for provisions defining “Administrator”.
+1978—Par. (2). Pub. L. 95–630, § 502(a)(1), substituted provisions defining “Chairman” for provisions defining “Administrator”.
 
-Par. (4). Pub. L. 95–630, § 502(a)(2), inserted “Administration” after “National Credit Union”.
+Par. (4). Pub. L. 95–630, § 502(a)(2), inserted “Administration” after “National Credit Union”.
 
-Par. (5). Pub. L. 95–630, §§ 502(b), 503(a), (b), redesignated par. (4), defining “member account” and “account”, as (5) and substituted “share or share certificate” for “share, share certificate, or share deposit” in two places; “Board” for “Administrator” wherever appearing; “share or share certificate accounts” for “those accounts”; and “enumerated in section 1787 of this title: *Provided*, That for purposes of State credit unions, reference in this paragraph to ‘share’ or ‘share certificate’ accounts includes, as determined by the Board, the equivalent of such accounts under State law;” for “in which payments are received by a credit union pursuant to section 1757(6) of this title;”.
+Par. (5). Pub. L. 95–630, §§ 502(b), 503(a), (b), redesignated par. (4), defining “member account” and “account”, as (5) and substituted “share or share certificate” for “share, share certificate, or share deposit” in two places; “Board” for “Administrator” wherever appearing; “share or share certificate accounts” for “those accounts”; and “enumerated in section 1787 of this title: *Provided*, That for purposes of State credit unions, reference in this paragraph to ‘share’ or ‘share certificate’ accounts includes, as determined by the Board, the equivalent of such accounts under State law;” for “in which payments are received by a credit union pursuant to section 1757(6) of this title;”.
 
-Pars. (6) to (8). Pub. L. 95–630, § 503(a), redesignated former pars. (5) to (7) as (6) to (8). Former par. (8) redesignated (9).
+Pars. (6) to (8). Pub. L. 95–630, § 503(a), redesignated former pars. (5) to (7) as (6) to (8). Former par. (8) redesignated (9).
 
-Par. (9). Pub. L. 95–630, § 503(a), (c), redesignated former par. (8) as (9), inserted “, including the trust territories,” after “several territories”, and inserted provision that term “branch” also includes a suboffice, operated by a Federal credit union or by a credit union authorized by the Department of Defense, located on an American military installation in a foreign country or in the trust territories of the United States.
+Par. (9). Pub. L. 95–630, § 503(a), (c), redesignated former par. (8) as (9), inserted “, including the trust territories,” after “several territories”, and inserted provision that term “branch” also includes a suboffice, operated by a Federal credit union or by a credit union authorized by the Department of Defense, located on an American military installation in a foreign country or in the trust territories of the United States.
 
 1977—Par. (4). Pub. L. 95–22 inserted provision that such terms mean those accounts of nonmember credit unions and nonmember units of Federal, State, or local governments and political subdivisions thereof in which payments are received by a credit union pursuant to section 1757(6) of this title.
 
@@ -153,7 +153,7 @@ Par. (3). Pub. L. 91–206 substituted “Administration” as meaning the Natio
 
 Par. (4). Pub. L. 91–206 added par. (4).
 
-Pars. (4) to (8). Pub. L. 91–468, § 2, added pars. (4) to (8).
+Pars. (4) to (8). Pub. L. 91–468, § 2, added pars. (4) to (8).
 
 1959—Pub. L. 86–354 designated the terms defined as subsecs. (1) to (3).
 
@@ -169,7 +169,7 @@ Amendment by Pub. L. 96–161 effective Dec. 31, 1979, with that amendment to re
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–630, title V, § 509, Nov. 10, 1978, 92 Stat. 3683, provided that: “The amendments made by this title [amending this section, sections 1753 to 1756, 1757 to 1759, 1761 to 1763, 1766, 1767, 1771, 1772a, and 1781 to 1789 of this title, and sections 5108, 5314, and 5315 of Title 5, Government Organization and Employees] take effect upon the effective date of this Act [see Effective Date note under section 375b of this title], except that the functions of the Administrator of the National Credit Union Administration under the provisions of the Federal Credit Union Act [this chapter], as in effect on the date preceding the date of enactment of this title [Nov. 10, 1978], shall continue to be performed by him in accordance with such provisions until such time as all the members of the National Credit Union Administration Board, established under the amendments made by this title, take office. All rules, regulations, policies, and procedures of the Administrator in effect on the date of enactment of this title shall remain in effect until amended, superseded, or repealed.”
+Pub. L. 95–630, title V, § 509, Nov. 10, 1978, 92 Stat. 3683, provided that: “The amendments made by this title [amending this section, sections 1753 to 1756, 1757 to 1759, 1761 to 1763, 1766, 1767, 1771, 1772a, and 1781 to 1789 of this title, and sections 5108, 5314, and 5315 of Title 5, Government Organization and Employees] take effect upon the effective date of this Act [see Effective Date note under section 375b of this title], except that the functions of the Administrator of the National Credit Union Administration under the provisions of the Federal Credit Union Act [this chapter], as in effect on the date preceding the date of enactment of this title [Nov. 10, 1978], shall continue to be performed by him in accordance with such provisions until such time as all the members of the National Credit Union Administration Board, established under the amendments made by this title, take office. All rules, regulations, policies, and procedures of the Administrator in effect on the date of enactment of this title shall remain in effect until amended, superseded, or repealed.”
 
 **Repeals**
 
@@ -213,7 +213,7 @@ Sec. 3. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-### § 1752a. National Credit Union Administration
+### § 1752a. National Credit Union Administration
 
 **(a) Establishment; management under National Credit Union Administration Board**
 
@@ -251,7 +251,7 @@ The Chairman of the Board shall be the spokesman for the Board and shall represe
 
 The financial transactions of the Administration shall be subject to audit by the Government Accountability Office in accordance with the principles and procedures applicable to commercial corporate transactions and under such rules and regulations as may be prescribed by the Comptroller General of the United States. The audit shall be conducted at the place or places where the accounts of the Administration are kept.
 
-(June 26, 1934, ch. 750, title I, § 102, formerly § 3, as added Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 628; amended Pub. L. 91–206, § 3, Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 102, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, § 501, Nov. 10, 1978, 92 Stat. 3680; Pub. L. 97–320, title V, § 502, Oct. 15, 1982, 96 Stat. 1528; Pub. L. 105–219, title II, § 204, Aug. 7, 1998, 112 Stat. 922; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(June 26, 1934, ch. 750, title I, § 102, formerly § 3, as added Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 628; amended Pub. L. 91–206, § 3, Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 102, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, § 501, Nov. 10, 1978, 92 Stat. 3680; Pub. L. 97–320, title V, § 502, Oct. 15, 1982, 96 Stat. 1528; Pub. L. 105–219, title II, § 204, Aug. 7, 1998, 112 Stat. 922; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -287,7 +287,7 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
 **Transfer of Functions**
 
-Pub. L. 91–206, § 6, Mar. 10, 1970, 84 Stat. 51, provided that:
+Pub. L. 91–206, § 6, Mar. 10, 1970, 84 Stat. 51, provided that:
 
 > **“(a)** All functions, property, records, and personnel of the Bureau of Federal Credit Unions are transferred to the National Credit Union Administration created by this Act [which generally amended this chapter].
 
@@ -295,21 +295,21 @@ Pub. L. 91–206, § 6, Mar. 10, 1970, 84 Stat. 51, provided that:
 
 **Study and Report on Differing Regulatory Treatment**
 
-Pub. L. 105–219, title IV, § 401, Aug. 7, 1998, 112 Stat. 934, required the Secretary to conduct a study of the differences between credit unions and other federally insured financial institutions, and the potential effects of the application of Federal laws, including Federal tax laws, on credit unions in the same manner as those laws are applied to other federally insured financial institutions, and to report to Congress on the results of the study by 1 year after Aug. 7, 1998.
+Pub. L. 105–219, title IV, § 401, Aug. 7, 1998, 112 Stat. 934, required the Secretary to conduct a study of the differences between credit unions and other federally insured financial institutions, and the potential effects of the application of Federal laws, including Federal tax laws, on credit unions in the same manner as those laws are applied to other federally insured financial institutions, and to report to Congress on the results of the study by 1 year after Aug. 7, 1998.
 
 **Study of Corporate Credit Unions**
 
-Pub. L. 104–208, div. A, title II, § 2606, Sept. 30, 1996, 110 Stat. 3009–473, directed the Secretary of the Treasury to conduct a study and evaluation of the oversight and supervisory practices of the National Credit Union Administration concerning the National Credit Union Share Insurance Fund, including analysis of expenses, Fund administration, the 10 largest U.S. corporate credit unions, and Administration supervision and regulations, and required the Secretary, not later than 12 months after Sept. 30, 1996, to submit to Congress a report that includes the results of the study and recommendations.
+Pub. L. 104–208, div. A, title II, § 2606, Sept. 30, 1996, 110 Stat. 3009–473, directed the Secretary of the Treasury to conduct a study and evaluation of the oversight and supervisory practices of the National Credit Union Administration concerning the National Credit Union Share Insurance Fund, including analysis of expenses, Fund administration, the 10 largest U.S. corporate credit unions, and Administration supervision and regulations, and required the Secretary, not later than 12 months after Sept. 30, 1996, to submit to Congress a report that includes the results of the study and recommendations.
 
 **Study of Credit Union System by GAO**
 
-Pub. L. 101–73, title XII, § 1201, Aug. 9, 1989, 103 Stat. 519, directed Comptroller General of the United States to conduct a comprehensive study of Nation’s credit union system and before the close of the 18-month period beginning on Aug. 9, 1989, to submit to Committee on Banking, Finance and Urban Affairs of House of Representatives and Committee on Banking, Housing, and Urban Affairs of Senate a final report containing a detailed statement of findings and conclusions, including recommendations for such administrative and legislative action as Comptroller General deemed advisable.
+Pub. L. 101–73, title XII, § 1201, Aug. 9, 1989, 103 Stat. 519, directed Comptroller General of the United States to conduct a comprehensive study of Nation’s credit union system and before the close of the 18-month period beginning on Aug. 9, 1989, to submit to Committee on Banking, Finance and Urban Affairs of House of Representatives and Committee on Banking, Housing, and Urban Affairs of Senate a final report containing a detailed statement of findings and conclusions, including recommendations for such administrative and legislative action as Comptroller General deemed advisable.
 
 **Federally Chartered Central Credit Unions; Report to Congress**
 
-Pub. L. 86–354, § 3, Sept. 22, 1959, 73 Stat. 639, directed Director of Bureau of Federal Credit Unions to make a study of desirability of providing for federally chartered central credit unions and to submit to Secretary of Health, Education, and Welfare, for transmission to Congress on or before Apr. 15, 1960, a report of results thereof and such recommendations for legislation thereon as Director deemed appropriate.
+Pub. L. 86–354, § 3, Sept. 22, 1959, 73 Stat. 639, directed Director of Bureau of Federal Credit Unions to make a study of desirability of providing for federally chartered central credit unions and to submit to Secretary of Health, Education, and Welfare, for transmission to Congress on or before Apr. 15, 1960, a report of results thereof and such recommendations for legislation thereon as Director deemed appropriate.
 
-### § 1753. Federal credit union organization
+### § 1753. Federal credit union organization
 
 Any seven or more natural persons who desire to form a Federal credit union shall each subscribe either individually or collectively before some officer competent to administer oaths an organization certificate in duplicate which shall specifically state:
 
@@ -329,15 +329,15 @@ Any seven or more natural persons who desire to form a Federal credit union shal
 
 Such organization certificate may also contain any provisions approved by the Board for the management of the business of the association and for the conduct of its affairs and relative to the powers of its directors, officers, or stockholders.
 
-(June 26, 1934, ch. 750, title I, § 103, formerly § 3, 48 Stat. 1217; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§ 1, 2, 62 Stat. 1091; renumbered § 4 and amended Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 628; Pub. L. 91–206, § 2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 103, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, §§ 503, 504, Oct. 15, 1982, 96 Stat. 1528.)
+(June 26, 1934, ch. 750, title I, § 103, formerly § 3, 48 Stat. 1217; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§ 1, 2, 62 Stat. 1091; renumbered § 4 and amended Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 628; Pub. L. 91–206, § 2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 103, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, §§ 503, 504, Oct. 15, 1982, 96 Stat. 1528.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1982—Pub. L. 97–320, § 503, substituted “each subscribe either individually or collectively” for “subscribe”.
+1982—Pub. L. 97–320, § 503, substituted “each subscribe either individually or collectively” for “subscribe”.
 
-Par. (4). Pub. L. 97–320, § 504, substituted “the initial par value of the shares” for “the par value of the shares, which shall be $5 each”.
+Par. (4). Pub. L. 97–320, § 504, substituted “the initial par value of the shares” for “the par value of the shares, which shall be $5 each”.
 
 1978—Pub. L. 95–630 substituted “Board” for “Administrator”.
 
@@ -359,11 +359,11 @@ Transfer of functions of Farm Credit Administration and Governor thereof, genera
 
 Functions of Governor of Farm Credit Administration under this section transferred to Federal Deposit Insurance Corporation by Reorg. Plan No. 1 of 1947.
 
-### § 1754. Approval of organization certificate
+### § 1754. Approval of organization certificate
 
 The organization certificate shall be presented to the Board for approval. Before any organization certificate is approved, an appropriate investigation shall be made for the purpose of determining (1) whether the organization certificate conforms to the provisions of this chapter; (2) the general character and fitness of the subscribers thereto; and (3) the economic advisability of establishing the proposed Federal credit union. Upon approval of such organization certificate by the Board it shall be the charter of the corporation, and one of the originals thereof shall be delivered to the corporation after the payment of the fee required therefor. Upon such approval the Federal credit union shall be a body corporate and as such, subject to the limitations herein contained, shall be vested with all of the powers and charged with all of the liabilities conferred and imposed by this chapter upon corporations organized hereunder.
 
-(June 26, 1934, ch. 750, title I, § 104, formerly § 4, 48 Stat. 1217; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§ 1, 2, 62 Stat. 1091; renumbered § 5 and amended Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 629; Pub. L. 91–206, § 2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 104, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681.)
+(June 26, 1934, ch. 750, title I, § 104, formerly § 4, 48 Stat. 1217; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§ 1, 2, 62 Stat. 1091; renumbered § 5 and amended Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 629; Pub. L. 91–206, § 2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 104, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681.)
 
 **Editorial Notes**
 
@@ -389,7 +389,7 @@ Transfer of functions of Farm Credit Administration and Governor thereof, genera
 
 Functions of Governor of Farm Credit Administration under this section transferred to Federal Deposit Insurance Corporation by Reorg. Plan No. 1 of 1947.
 
-### § 1755. Fees
+### § 1755. Fees
 
 **(a) Payment by Federal credit union to Administration**
 
@@ -415,7 +415,7 @@ All operating fees shall be deposited with the Treasurer of the United States fo
 
 **(3)** All income derived from such investments and reinvestments shall be deposited to the account of the Administration described in subsection (d).
 
-(June 26, 1934, ch. 750, title I, § 105, formerly § 5, 48 Stat. 1217; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§ 1, 2, 62 Stat. 1091; Apr. 17, 1952, ch. 214, § 1, 66 Stat. 63; renumbered § 6 and amended Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 629; Pub. L. 91–206, § 2(1), (3), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 105, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, § 507, Nov. 10, 1978, 92 Stat. 3682; Pub. L. 97–320, title V, § 505, Oct. 15, 1982, 96 Stat. 1528.)
+(June 26, 1934, ch. 750, title I, § 105, formerly § 5, 48 Stat. 1217; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§ 1, 2, 62 Stat. 1091; Apr. 17, 1952, ch. 214, § 1, 66 Stat. 63; renumbered § 6 and amended Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 629; Pub. L. 91–206, § 2(1), (3), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 105, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, § 507, Nov. 10, 1978, 92 Stat. 3682; Pub. L. 97–320, title V, § 505, Oct. 15, 1982, 96 Stat. 1528.)
 
 **Editorial Notes**
 
@@ -439,7 +439,7 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
 **Effective Date of 1952 Amendment**
 
-Act Apr. 17, 1952, ch. 214, § 2, 66 Stat. 63, provided that: “The amendment by section 1 of this Act [amending this section] shall apply to supervision fees payable with respect to the calendar year 1952 and subsequent calendar years.”
+Act Apr. 17, 1952, ch. 214, § 2, 66 Stat. 63, provided that: “The amendment by section 1 of this Act [amending this section] shall apply to supervision fees payable with respect to the calendar year 1952 and subsequent calendar years.”
 
 **Executive Documents**
 
@@ -449,11 +449,11 @@ Transfer of functions of Farm Credit Administration and Governor thereof, genera
 
 Functions of Governor of Farm Credit Administration under this section transferred to Federal Deposit Insurance Corporation by Reorg. Plan No. 1 of 1947.
 
-### § 1756. Reports and examinations
+### § 1756. Reports and examinations
 
 Federal credit unions shall be under the supervision of the Board, and shall make financial reports to it as and when it may require, but at least annually. Each Federal credit union shall be subject to examination by, and for this purpose shall make its books and records accessible to, any person designated by the Board.
 
-(June 26, 1934, ch. 750, title I, § 106, formerly § 6, 48 Stat. 1218; Dec. 6, 1937, ch. 3, § 1, 51 Stat. 4; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§ 1, 2, 62 Stat. 1091; renumbered § 7 and amended Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 629; Pub. L. 91–206, § 2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 106, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, § 508, Nov. 10, 1978, 92 Stat. 3683.)
+(June 26, 1934, ch. 750, title I, § 106, formerly § 6, 48 Stat. 1218; Dec. 6, 1937, ch. 3, § 1, 51 Stat. 4; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§ 1, 2, 62 Stat. 1091; renumbered § 7 and amended Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 629; Pub. L. 91–206, § 2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 106, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, § 508, Nov. 10, 1978, 92 Stat. 3683.)
 
 **Editorial Notes**
 
@@ -481,7 +481,7 @@ Transfer of functions of Farm Credit Administration and Governor thereof, genera
 
 Functions of Governor of Farm Credit Administration under this section transferred to Federal Deposit Insurance Corporation by Reorg. Plan No. 1 of 1947.
 
-### § 1756a. Omitted
+### § 1756a. Omitted
 
 **Editorial Notes**
 
@@ -489,7 +489,7 @@ Functions of Governor of Farm Credit Administration under this section transferr
 
 Section, act July 22, 1942, ch. 516, 56 Stat. 700, which authorized reimbursement of Farm Credit Administration personnel for use of private automobiles for examining, supervising, and servicing Federal credit unions, was from the Department of Agriculture Appropriation Act, 1943, and was not repeated in subsequent appropriation acts. Similar provisions were contained in act July 1, 1941, ch. 267, 55 Stat. 444, the Department of Agriculture Appropriation Act, 1942.
 
-### § 1757. Powers
+### § 1757. Powers
 
 A Federal credit union shall have succession in its corporate name during its existence and shall have power—
 
@@ -525,9 +525,9 @@ A Federal credit union shall have succession in its corporate name during its ex
 
 **(viii)** a borrower may repay his loan, prior to maturity in whole or in part on any business day without penalty, except that on a first or second mortgage loan a Federal credit union may require that any partial prepayments (I) be made on the date monthly installments are due, and (II) be in the amount of that part of one or more monthly installments which would be applicable to principal;
 
-**(ix)** loans shall be paid or amortized in accordance with rules and regulations prescribed by the Board after taking into account the needs or conditions of the borrowers, the amounts and duration of the loans, the interests of the members and the credit unions, and such other factors as the Board deems relevant; 1
+**(ix)** loans shall be paid or amortized in accordance with rules and regulations prescribed by the Board after taking into account the needs or conditions of the borrowers, the amounts and duration of the loans, the interests of the members and the credit unions, and such other factors as the Board deems relevant; 1
 
-<sup>1</sup>  So in original. Probably should be followed by “and”.
+<sup>1</sup> So in original. Probably should be followed by “and”.
 
 **(x)** loans must be approved by the credit committee or a loan officer, but no loan may be made to any member if, upon the making of that loan, the member would be indebted to the Federal credit union upon loans made to him in an aggregate amount which would exceed 10 per centum of the credit union’s unimpaired capital and surplus.
 
@@ -571,9 +571,9 @@ subject to such terms, rates, and conditions as may be established by the board 
 
 **(15)** to invest in securities that—
 
-**(A)** are offered and sold pursuant to section 77d(5) of title 15; 2
+**(A)** are offered and sold pursuant to section 77d(5) of title 15; 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 **(B)** are mortgage related securities (as that term is defined in section 78c(a)(41) of title 15), subject to such regulations as the Board may prescribe, including regulations prescribing minimum size of the issue (at the time of initial distribution) or minimum aggregate sales prices, or both; or
 
@@ -583,45 +583,45 @@ subject to such terms, rates, and conditions as may be established by the board 
 
 **(17)** to exercise such incidental powers as shall be necessary or requisite to enable it to carry on effectively the business for which it is incorporated.
 
-(June 26, 1934, ch. 750, title I, § 107, formerly § 7, 48 Stat. 1218; Dec. 6, 1937, ch. 3, § 2, 51 Stat. 4; July 31, 1946, ch. 711, § 1, 60 Stat. 744; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§ 1, 2, 62 Stat. 1091; Oct. 25, 1949, ch. 713, § 1, 63 Stat. 890; May 13, 1952, ch. 264, 66 Stat. 70; renumbered § 8 and amended Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 630; Pub. L. 88–353, § 1, July 2, 1964, 78 Stat. 269; Pub. L. 89–429, § 7, May 24, 1966, 80 Stat. 167; Pub. L. 90–44, §§ 2, 3, July 3, 1967, 81 Stat. 110, 111; Pub. L. 90–375, § 1(1)–(3), July 5, 1968, 82 Stat. 284; Pub. L. 90–448, title VIII, § 807(n), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–206, § 2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 107, and amended Pub. L. 91–468, §§ 1(2), 10, Oct. 19, 1970, 84 Stat. 994, 1017; Pub. L. 92–318, title I, § 133(c)(4), June 23, 1972, 86 Stat. 270; Pub. L. 93–383, title VII, § 721, title VIII, § 805(c)(5), Aug. 22, 1974, 88 Stat. 719, 727; Pub. L. 93–495, title I, § 101(d), Oct. 28, 1974, 88 Stat. 1502; Pub. L. 93–569, § 6, Dec. 31, 1974, 88 Stat. 1866; Pub. L. 95–22, title III, §§ 302, 303, Apr. 19, 1977, 91 Stat. 49, 51; Pub. L. 95–630, title V, § 502(b), title XVIII, § 1803, Nov. 10, 1978, 92 Stat. 3681, 3723; Pub. L. 96–153, title III, § 323(d), Dec. 21, 1979, 93 Stat. 1120; Pub. L. 96–161, title I, § 103(b), Dec. 28, 1979, 93 Stat. 1234; Pub. L. 96–221, title III, §§ 305(b), 307, 309(a)(1), 310, Mar. 31, 1980, 94 Stat. 146–149; Pub. L. 97–320, title V, §§ 506–514, 516–518, Oct. 15, 1982, 96 Stat. 1528–1530; Pub. L. 97–457, §§ 25, 26, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 98–440, title I, § 105(b), Oct. 3, 1984, 98 Stat. 1691; Pub. L. 98–479, title II, § 206, Oct. 17, 1984, 98 Stat. 2234; Pub. L. 100–86, title VII, §§ 702, 703, Aug. 10, 1987, 101 Stat. 652; Pub. L. 101–179, title II, § 206(b), Nov. 28, 1989, 103 Stat. 1311; Pub. L. 103–325, title II, § 206(b), Sept. 23, 1994, 108 Stat. 2199; Pub. L. 104–208, div. A, title II, § 2306, Sept. 30, 1996, 110 Stat. 3009–426; Pub. L. 109–351, title V, §§ 502, 503, title VII, § 726(3)–(8), Oct. 13, 2006, 120 Stat. 1975, 2002; Pub. L. 111–203, title III, § 362(1), title X, § 1073(d), July 21, 2010, 124 Stat. 1549, 2066.)
+(June 26, 1934, ch. 750, title I, § 107, formerly § 7, 48 Stat. 1218; Dec. 6, 1937, ch. 3, § 2, 51 Stat. 4; July 31, 1946, ch. 711, § 1, 60 Stat. 744; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§ 1, 2, 62 Stat. 1091; Oct. 25, 1949, ch. 713, § 1, 63 Stat. 890; May 13, 1952, ch. 264, 66 Stat. 70; renumbered § 8 and amended Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 630; Pub. L. 88–353, § 1, July 2, 1964, 78 Stat. 269; Pub. L. 89–429, § 7, May 24, 1966, 80 Stat. 167; Pub. L. 90–44, §§ 2, 3, July 3, 1967, 81 Stat. 110, 111; Pub. L. 90–375, § 1(1)–(3), July 5, 1968, 82 Stat. 284; Pub. L. 90–448, title VIII, § 807(n), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–206, § 2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 107, and amended Pub. L. 91–468, §§ 1(2), 10, Oct. 19, 1970, 84 Stat. 994, 1017; Pub. L. 92–318, title I, § 133(c)(4), June 23, 1972, 86 Stat. 270; Pub. L. 93–383, title VII, § 721, title VIII, § 805(c)(5), Aug. 22, 1974, 88 Stat. 719, 727; Pub. L. 93–495, title I, § 101(d), Oct. 28, 1974, 88 Stat. 1502; Pub. L. 93–569, § 6, Dec. 31, 1974, 88 Stat. 1866; Pub. L. 95–22, title III, §§ 302, 303, Apr. 19, 1977, 91 Stat. 49, 51; Pub. L. 95–630, title V, § 502(b), title XVIII, § 1803, Nov. 10, 1978, 92 Stat. 3681, 3723; Pub. L. 96–153, title III, § 323(d), Dec. 21, 1979, 93 Stat. 1120; Pub. L. 96–161, title I, § 103(b), Dec. 28, 1979, 93 Stat. 1234; Pub. L. 96–221, title III, §§ 305(b), 307, 309(a)(1), 310, Mar. 31, 1980, 94 Stat. 146–149; Pub. L. 97–320, title V, §§ 506–514, 516–518, Oct. 15, 1982, 96 Stat. 1528–1530; Pub. L. 97–457, §§ 25, 26, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 98–440, title I, § 105(b), Oct. 3, 1984, 98 Stat. 1691; Pub. L. 98–479, title II, § 206, Oct. 17, 1984, 98 Stat. 2234; Pub. L. 100–86, title VII, §§ 702, 703, Aug. 10, 1987, 101 Stat. 652; Pub. L. 101–179, title II, § 206(b), Nov. 28, 1989, 103 Stat. 1311; Pub. L. 103–325, title II, § 206(b), Sept. 23, 1994, 108 Stat. 2199; Pub. L. 104–208, div. A, title II, § 2306, Sept. 30, 1996, 110 Stat. 3009–426; Pub. L. 109–351, title V, §§ 502, 503, title VII, § 726(3)–(8), Oct. 13, 2006, 120 Stat. 1975, 2002; Pub. L. 111–203, title III, § 362(1), title X, § 1073(d), July 21, 2010, 124 Stat. 1549, 2066.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 77d(5) of title 15, referred to in par. (15)(A), was redesignated section 77d(a)(5) of Title 15, Commerce and Trade, by Pub. L. 112–106, title II, § 201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314.
+Section 77d(5) of title 15, referred to in par. (15)(A), was redesignated section 77d(a)(5) of Title 15, Commerce and Trade, by Pub. L. 112–106, title II, § 201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314.
 
 **Codification**
 
-In par. (7), “section 9101(3) of title 31” substituted for “section 101 of the Government Corporation Control Act [31 U.S.C. 846]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In par. (7), “section 9101(3) of title 31” substituted for “section 101 of the Government Corporation Control Act [31 U.S.C. 846]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
-2010—Par. (8). Pub. L. 111–203, § 362(1), struck out “or the Federal Savings and Loan Insurance Corporation” after “Federal Deposit Insurance Corporation”.
+2010—Par. (8). Pub. L. 111–203, § 362(1), struck out “or the Federal Savings and Loan Insurance Corporation” after “Federal Deposit Insurance Corporation”.
 
-Par. (12). Pub. L. 111–203, § 1073(d), amended par. (12) generally. Prior to amendment, par. (12) read as follows: “in accordance with regulations prescribed by the Board—
+Par. (12). Pub. L. 111–203, § 1073(d), amended par. (12) generally. Prior to amendment, par. (12) read as follows: “in accordance with regulations prescribed by the Board—
 
 “(A) to sell, to persons in the field of membership, negotiable checks (including travelers checks), money orders, and other similar money transfer instruments (including international and domestic electronic fund transfers); and
 
 “(B) to cash checks and money orders and receive international and domestic electronic fund transfers for persons in the field of membership for a fee;”.
 
-2006—Par. (5). Pub. L. 109–351, § 502, substituted “to make loans, the maturities of which shall not exceed 15 years,” for “to make loans, the maturities of which shall not exceed twelve years” in introductory provisions.
+2006—Par. (5). Pub. L. 109–351, § 502, substituted “to make loans, the maturities of which shall not exceed 15 years,” for “to make loans, the maturities of which shall not exceed twelve years” in introductory provisions.
 
-Par. (5)(E). Pub. L. 109–351, § 726(3), substituted semicolon for period at end.
+Par. (5)(E). Pub. L. 109–351, § 726(3), substituted semicolon for period at end.
 
-Par. (6). Pub. L. 109–351, § 726(4), substituted semicolon for period at end.
+Par. (6). Pub. L. 109–351, § 726(4), substituted semicolon for period at end.
 
-Par. (7). Pub. L. 109–351, § 726(4), substituted semicolon for period at end.
+Par. (7). Pub. L. 109–351, § 726(4), substituted semicolon for period at end.
 
-Par. (7)(D). Pub. L. 109–351, § 726(5), struck out “the Federal Savings and Loan Insurance Corporation or” before “the Federal Deposit Insurance Corporation”.
+Par. (7)(D). Pub. L. 109–351, § 726(5), struck out “the Federal Savings and Loan Insurance Corporation or” before “the Federal Deposit Insurance Corporation”.
 
-Par. (7)(E). Pub. L. 109–351, § 726(6), substituted “the Federal Housing Finance Board,” for “the Federal Home Loan Bank Board,”.
+Par. (7)(E). Pub. L. 109–351, § 726(6), substituted “the Federal Housing Finance Board,” for “the Federal Home Loan Bank Board,”.
 
-Par. (9). Pub. L. 109–351, § 726(7), made technical amendment to reference in original act which appears in text as reference to subchapter III.
+Par. (9). Pub. L. 109–351, § 726(7), made technical amendment to reference in original act which appears in text as reference to subchapter III.
 
-Par. (12). Pub. L. 109–351, § 503, amended par. (12) generally. Prior to amendment, par. (12) read as follows: “in accordance with rules and regulations prescribed by the Board, to sell to members negotiable checks (including travelers checks), money orders, and other similar money transfer instruments, and to cash checks and money orders for members, for a fee;”.
+Par. (12). Pub. L. 109–351, § 503, amended par. (12) generally. Prior to amendment, par. (12) read as follows: “in accordance with rules and regulations prescribed by the Board, to sell to members negotiable checks (including travelers checks), money orders, and other similar money transfer instruments, and to cash checks and money orders for members, for a fee;”.
 
-Par. (13). Pub. L. 109–351, § 726(8), struck out “and” after semicolon at end.
+Par. (13). Pub. L. 109–351, § 726(8), struck out “and” after semicolon at end.
 
 1996—Par. (5)(A)(iv), (v). Pub. L. 104–208 substituted “$20,000” for “$10,000”.
 
@@ -629,103 +629,103 @@ Par. (13). Pub. L. 109–351, § 726(8), struck out “and” after semicolon 
 
 1989—Pars. (16), (17). Pub. L. 101–179 added par. (16) and redesignated former par. (16) as (17).
 
-1987—Par. (5)(A)(ii). Pub. L. 100–86, § 702, substituted “15 years or any longer term which the Board may allow” for “fifteen years unless such loan is insured or guaranteed as provided in subparagraph (iii)”.
+1987—Par. (5)(A)(ii). Pub. L. 100–86, § 702, substituted “15 years or any longer term which the Board may allow” for “fifteen years unless such loan is insured or guaranteed as provided in subparagraph (iii)”.
 
-Par. (6). Pub. L. 100–86, § 703, inserted “, representing equity,” after “payments”.
+Par. (6). Pub. L. 100–86, § 703, inserted “, representing equity,” after “payments”.
 
 1984—Par. (5)(A)(ii). Pub. L. 98–479 inserted “a loan for the repair, alteration, or improvement of a residential dwelling which is the residence of a credit union member,”.
 
-Pars. (15), (16). Pub. L. 98–440, § 105(b), added par. (15) and redesignated former par. (15) as (16).
+Pars. (15), (16). Pub. L. 98–440, § 105(b), added par. (15) and redesignated former par. (15) as (16).
 
-1983—Par. (5)(A)(i). Pub. L. 97–457, § 25, substituted “Administration” for “Association” after “National Credit Union”.
+1983—Par. (5)(A)(i). Pub. L. 97–457, § 25, substituted “Administration” for “Association” after “National Credit Union”.
 
-Par. (7)(K). Pub. L. 97–457, § 26, redesignated cl. (L) as (K) and substituted a period for “; and” at end.
+Par. (7)(K). Pub. L. 97–457, § 26, redesignated cl. (L) as (K) and substituted a period for “; and” at end.
 
-1982—Par. (5)(A)(i). Pub. L. 97–320, §§ 507–509, substituted “on” for “which is made to finance the acquisition of” after “real estate loan” and “that is or will be” for “for” after “cooperative unit,”, struck out “the sales price of which is not more than 150 per centum of the median sales price of residential real property situated in the geographical area (as determined by the board of directors) in which the property is located,” after “credit union member”, and inserted “or such other limits as shall be set by the National Credit Union Association Board” after “not exceeding thirty years”.
+1982—Par. (5)(A)(i). Pub. L. 97–320, §§ 507–509, substituted “on” for “which is made to finance the acquisition of” after “real estate loan” and “that is or will be” for “for” after “cooperative unit,”, struck out “the sales price of which is not more than 150 per centum of the median sales price of residential real property situated in the geographical area (as determined by the board of directors) in which the property is located,” after “credit union member”, and inserted “or such other limits as shall be set by the National Credit Union Association Board” after “not exceeding thirty years”.
 
-Par. (5)(A)(ii). Pub. L. 97–320, § 510, substituted “or a second mortgage loan secured by a residential dwelling” for “or for the repair, alteration, or improvement of a residential dwelling”.
+Par. (5)(A)(ii). Pub. L. 97–320, § 510, substituted “or a second mortgage loan secured by a residential dwelling” for “or for the repair, alteration, or improvement of a residential dwelling”.
 
-Par. (5)(A)(iii). Pub. L. 97–320, § 511, inserted “, or with advance commitment to purchase the loan by,” and substituted “insurance, guarantee, or commitment” for “insurance or guarantee”.
+Par. (5)(A)(iii). Pub. L. 97–320, § 511, inserted “, or with advance commitment to purchase the loan by,” and substituted “insurance, guarantee, or commitment” for “insurance or guarantee”.
 
-Par. (5)(A)(iv), (v). Pub. L. 97–320, § 512, substituted “$10,000” for “$5,000”.
+Par. (5)(A)(iv), (v). Pub. L. 97–320, § 512, substituted “$10,000” for “$5,000”.
 
-Par. (5)(A)(viii). Pub. L. 97–320, § 513, inserted condition relating to partial prepayments of first or second mortgage loans.
+Par. (5)(A)(viii). Pub. L. 97–320, § 513, inserted condition relating to partial prepayments of first or second mortgage loans.
 
-Par. (5)(A)(x). Pub. L. 97–320, § 506, added cl. (x).
+Par. (5)(A)(x). Pub. L. 97–320, § 506, added cl. (x).
 
-Par. (7)(E). Pub. L. 97–320, § 516, inserted provisions relating to instruments issued or guaranteed by any other agency of the United States, and that a Federal Credit Union may issue and sell securities which are guaranteed pursuant to section 1721(g) of this title.
+Par. (7)(E). Pub. L. 97–320, § 516, inserted provisions relating to instruments issued or guaranteed by any other agency of the United States, and that a Federal Credit Union may issue and sell securities which are guaranteed pursuant to section 1721(g) of this title.
 
-Par. (7)(L). Pub. L. 97–320, § 514, added cl. (L).
+Par. (7)(L). Pub. L. 97–320, § 514, added cl. (L).
 
-Par. (8). Pub. L. 97–320, § 517, inserted “or in banks or institutions the accounts of which are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation,” after “in which the Federal Credit Union does business,”.
+Par. (8). Pub. L. 97–320, § 517, inserted “or in banks or institutions the accounts of which are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation,” after “in which the Federal Credit Union does business,”.
 
-Par. (12). Pub. L. 97–320, § 518, substituted “, money orders, and other similar money transfer instruments” for “and money orders”, and struck out “which does not exceed the direct and indirect costs incident to providing such service” after “for a fee”.
+Par. (12). Pub. L. 97–320, § 518, substituted “, money orders, and other similar money transfer instruments” for “and money orders”, and struck out “which does not exceed the direct and indirect costs incident to providing such service” after “for a fee”.
 
-1980—Par. (5)(A)(i). Pub. L. 96–221, § 309(a)(1), inserted provisions relating to an individual cooperative unit.
+1980—Par. (5)(A)(i). Pub. L. 96–221, § 309(a)(1), inserted provisions relating to an individual cooperative unit.
 
-Par. (5)(A)(vi). Pub. L. 96–221, § 310, substituted provisions setting forth maximum interest rate of 15 per centum per annum, subject to specified exceptions, for provisions setting forth a maximum interest rate of 1 per centum per month.
+Par. (5)(A)(vi). Pub. L. 96–221, § 310, substituted provisions setting forth maximum interest rate of 15 per centum per annum, subject to specified exceptions, for provisions setting forth a maximum interest rate of 1 per centum per month.
 
-Par. (6). Pub. L. 96–221, §§ 305(b), 307, revised existing provisions respecting credit unions serving predominately low-income members including provisions added by Pub. L. 96–161, and repealed the amendment made by Pub. L. 96–161. See Repeals and Effective Date of 1980 Amendment notes below.
+Par. (6). Pub. L. 96–221, §§ 305(b), 307, revised existing provisions respecting credit unions serving predominately low-income members including provisions added by Pub. L. 96–161, and repealed the amendment made by Pub. L. 96–161. See Repeals and Effective Date of 1980 Amendment notes below.
 
-1979—Par. (6). Pub. L. 96–161 inserted “, and to issue, deal in, and accept share drafts as orders of withdrawal against shares, subject to such terms, rates, and conditions as may be prescribed by the Board” after “within limitations prescribed by the Board”.
+1979—Par. (6). Pub. L. 96–161 inserted “, and to issue, deal in, and accept share drafts as orders of withdrawal against shares, subject to such terms, rates, and conditions as may be prescribed by the Board” after “within limitations prescribed by the Board”.
 
 Pub. L. 96–153 substituted “Federal, Indian tribal, State” for “Federal, State”.
 
-1978—Par. (5). Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” wherever appearing.
+1978—Par. (5). Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” wherever appearing.
 
-Par. (6). Pub. L. 95–630, §§ 502(b), 1803(a), inserted “from the Central Liquidity Facility,” after “in the manner so prescribed,” and substituted “Board” for “Administrator” in two places.
+Par. (6). Pub. L. 95–630, §§ 502(b), 1803(a), inserted “from the Central Liquidity Facility,” after “in the manner so prescribed,” and substituted “Board” for “Administrator” in two places.
 
-Par. (7). Pub. L. 95–630, §§ 502(b), 1803(b), substituted “Board” for “Administrator” wherever appearing and added cl. (J).
+Par. (7). Pub. L. 95–630, §§ 502(b), 1803(b), substituted “Board” for “Administrator” wherever appearing and added cl. (J).
 
-Par. (8). Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator”.
+Par. (8). Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator”.
 
-Par. (9). Pub. L. 95–630, §§ 502(b), 1803(c), substituted “Board” for “Administrator” and inserted “, except as authorized by the Board in carrying out the provisions of subchapter III,” after “amount not exceeding”.
+Par. (9). Pub. L. 95–630, §§ 502(b), 1803(c), substituted “Board” for “Administrator” and inserted “, except as authorized by the Board in carrying out the provisions of subchapter III,” after “amount not exceeding”.
 
-Pars. (12) to (14). Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” wherever appearing.
+Pars. (12) to (14). Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” wherever appearing.
 
-1977—Par. (5). Pub. L. 95–22, § 302(a), among other changes, inserted provisions permitting Federal credit unions to establish lines of credit for their members, to raise the maximum loan maturity for most loans to twelve years, and to make loans secured by a first lien and made for the purchase of a one-to-four-family dwelling for the principal residence of a credit union member.
+1977—Par. (5). Pub. L. 95–22, § 302(a), among other changes, inserted provisions permitting Federal credit unions to establish lines of credit for their members, to raise the maximum loan maturity for most loans to twelve years, and to make loans secured by a first lien and made for the purchase of a one-to-four-family dwelling for the principal residence of a credit union member.
 
-Par. (6). Pub. L. 95–22, §§ 302(b), 303(a), redesignated par. (7) as (6) and substituted reference to payments on shares which may be issued at varying dividend rates and payments on share certificates which may be issued at varying dividend rates and maturities, subject to such terms, rates, and conditions as may be established by the board of directors, within limitations prescribed by the Administrator for reference to payments on shares, share certificates, or share deposits. Former par. (6), relating to the power of Federal credit unions to make loans to its own directors and to its own supervisory credit committee, was struck out.
+Par. (6). Pub. L. 95–22, §§ 302(b), 303(a), redesignated par. (7) as (6) and substituted reference to payments on shares which may be issued at varying dividend rates and payments on share certificates which may be issued at varying dividend rates and maturities, subject to such terms, rates, and conditions as may be established by the board of directors, within limitations prescribed by the Administrator for reference to payments on shares, share certificates, or share deposits. Former par. (6), relating to the power of Federal credit unions to make loans to its own directors and to its own supervisory credit committee, was struck out.
 
-Par. (7). Pub. L. 95–22, § 303(b), redesignated par. (8) as (7) and added subpar. (I). Former par. (7) redesignated (6).
+Par. (7). Pub. L. 95–22, § 303(b), redesignated par. (8) as (7) and added subpar. (I). Former par. (7) redesignated (6).
 
-Pars. (8) to (12). Pub. L. 95–22, § 303(c), redesignated pars. (9) to (13) as (8) to (12), respectively. Former par. (8) redesignated (7).
+Pars. (8) to (12). Pub. L. 95–22, § 303(c), redesignated pars. (9) to (13) as (8) to (12), respectively. Former par. (8) redesignated (7).
 
-Par. (13). Pub. L. 95–22, § 303(c), (d), redesignated par. (14) as (13) and inserted reference to purchase, sell, pledge, or discount or otherwise receive or dispose of, in whole or in part, any eligible obligations (as defined by the Administrator) of its members. Former par. (13) redesignated (12).
+Par. (13). Pub. L. 95–22, § 303(c), (d), redesignated par. (14) as (13) and inserted reference to purchase, sell, pledge, or discount or otherwise receive or dispose of, in whole or in part, any eligible obligations (as defined by the Administrator) of its members. Former par. (13) redesignated (12).
 
-Par. (14). Pub. L. 95–22, § 303(e), added par. (14).
+Par. (14). Pub. L. 95–22, § 303(e), added par. (14).
 
 1974—Par. (5). Pub. L. 93–569 inserted “except that loans made in accordance with section 1703(b) of this title and section 1819 of title 38, may be for the maturities specified therein,” after “ten years”.
 
-Par. (6). Pub. L. 93–383, § 721(a), substituted provisions relating to approval of loans by the board of directors for provisions requiring annual reports to the Administrator with respect to loans and setting forth conditions for the making of loans.
+Par. (6). Pub. L. 93–383, § 721(a), substituted provisions relating to approval of loans by the board of directors for provisions requiring annual reports to the Administrator with respect to loans and setting forth conditions for the making of loans.
 
 Par. (7). Pub. L. 93–495 inserted provisions relating to receipt of payments of shares, etc., from officers, employees, or agents of nonmember units of Federal, State, or local governments and political subdivisions enumerated in section 1787 of this title.
 
-Par. (8)(E). Pub. L. 93–383, § 805(c)(5), inserted reference to mortgages, obligations, or other securities sold by the Federal Home Loan Mortgage Corporation pursuant to section 1454 or 1455 of this title.
+Par. (8)(E). Pub. L. 93–383, § 805(c)(5), inserted reference to mortgages, obligations, or other securities sold by the Federal Home Loan Mortgage Corporation pursuant to section 1454 or 1455 of this title.
 
-Par. (9). Pub. L. 93–383, § 721(b), inserted provisions relating to Federal credit unions or credit unions authorized by the Department of Defense.
+Par. (9). Pub. L. 93–383, § 721(b), inserted provisions relating to Federal credit unions or credit unions authorized by the Department of Defense.
 
 1972—Par. (8)(E). Pub. L. 92–318 authorized investments in obligations or other instruments or securities of the Student Loan Marketing Association.
 
 1970—Pars. (5), (6), (8), (10), (13), (14), Pub. L. 91–206 substituted “Administrator” for “Director” wherever appearing.
 
-Par. (7). Pub. L. 91–468, § 10(1), permitted a Federal credit union to not only receive from members but also from other federally insured credit unions, payments on shares as well as share certificates or share deposits and, in the case of credit unions serving predominantly low-income members, to receive payments on shares, share certificates or share deposits from nonmembers.
+Par. (7). Pub. L. 91–468, § 10(1), permitted a Federal credit union to not only receive from members but also from other federally insured credit unions, payments on shares as well as share certificates or share deposits and, in the case of credit unions serving predominantly low-income members, to receive payments on shares, share certificates or share deposits from nonmembers.
 
-Par. (8). Pub. L. 91–468, § 10(2), authorized a Federal credit union to invest in shares, share certificates or share deposits of federally insured credit unions.
+Par. (8). Pub. L. 91–468, § 10(2), authorized a Federal credit union to invest in shares, share certificates or share deposits of federally insured credit unions.
 
-1968—Par. (5). Pub. L. 90–375, § 1(1), substituted provisions authorizing Federal credit unions to make unsecured loans with maturities not exceeding five years, and secured loans with maturities not exceeding ten years for provisions authorizing federal credit unions to make loans with maturities not exceeding five years.
+1968—Par. (5). Pub. L. 90–375, § 1(1), substituted provisions authorizing Federal credit unions to make unsecured loans with maturities not exceeding five years, and secured loans with maturities not exceeding ten years for provisions authorizing federal credit unions to make loans with maturities not exceeding five years.
 
 Par. (8). Pub. L. 90–448 authorized investments in obligations, participations, or other instruments of or issued by, or guaranteed as to principal and interest by, the Government National Mortgage Association.
 
-Pub. L. 90–375, § 1(2), added cl. (G).
+Pub. L. 90–375, § 1(2), added cl. (G).
 
-Pars. (14), (15). Pub. L. 90–375, § 1(3), added par. (14) and redesignated former par. (14) as (15).
+Pars. (14), (15). Pub. L. 90–375, § 1(3), added par. (14) and redesignated former par. (14) as (15).
 
-1967—Par. (5). Pub. L. 90–44, § 2(1), substituted “may be made except as authorized under paragraph (6) of this section” for “shall exceed the amount of his holdings in the Federal Credit Union as represented by shares thereof plus the total unencumbered and unpledged shareholdings in the Federal Credit Union of any member pledged as security for the obligation of such director or committee member”.
+1967—Par. (5). Pub. L. 90–44, § 2(1), substituted “may be made except as authorized under paragraph (6) of this section” for “shall exceed the amount of his holdings in the Federal Credit Union as represented by shares thereof plus the total unencumbered and unpledged shareholdings in the Federal Credit Union of any member pledged as security for the obligation of such director or committee member”.
 
-Pars. (6), (7). Pub. L. 90–44, § 2(3), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
+Pars. (6), (7). Pub. L. 90–44, § 2(3), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
-Pars. (8) to (14). Pub. L. 90–44, §§ 2(2), (3), redesignated former par. (7) as (8), authorized in cl. (D) investment of funds in shares or accounts of mutual savings banks, the accounts of which are insured by the Federal Deposit Insurance Corporation, and redesignated former pars. (8) to (13) as (9) to (14), respectively.
+Pars. (8) to (14). Pub. L. 90–44, §§ 2(2), (3), redesignated former par. (7) as (8), authorized in cl. (D) investment of funds in shares or accounts of mutual savings banks, the accounts of which are insured by the Federal Deposit Insurance Corporation, and redesignated former pars. (8) to (13) as (9) to (14), respectively.
 
 1966—Par. (7). Pub. L. 89–429 expanded list of possible areas of investment of funds by Federal credit unions to include obligations, participations, or other instruments of or issued by, or fully guaranteed as to principal and interest by, the Federal National Mortgage Association and participation certificates evidencing beneficial interests in obligations, or in the right to receive interest and principal collections therefrom, which obligations have been subjected by one or more Government agencies to a trust or trusts for which any executive department, agency, or instrumentality of the United States (or the head thereof) has been named to act as trustee.
 
@@ -757,7 +757,7 @@ Amendment by section 305(b) of Pub. L. 96–221 effective at close of Mar. 31, 1
 
 Amendment by Pub. L. 96–161 effective Dec. 31, 1979, with that amendment to remain in effect until the close of Mar. 31, 1980, see section 104 of Pub. L. 96–161, formerly set out as a note under section 371a of this title.
 
-Pub. L. 96–153, title III, § 323(e), Dec. 21, 1979, 93 Stat. 1120, provided that: “The amendments made by subsections (a) through (d) [amending this section and sections 1728, 1787, and 1821 of this title] are not applicable to any claim arising out of the closing of a bank, savings and loan association, or credit union prior to the date of enactment of this Act [Dec. 21, 1979], but shall be applicable to any such claim arising on or after such date.”
+Pub. L. 96–153, title III, § 323(e), Dec. 21, 1979, 93 Stat. 1120, provided that: “The amendments made by subsections (a) through (d) [amending this section and sections 1728, 1787, and 1821 of this title] are not applicable to any claim arising out of the closing of a bank, savings and loan association, or credit union prior to the date of enactment of this Act [Dec. 21, 1979], but shall be applicable to any such claim arising on or after such date.”
 
 **Effective Date of 1978 Amendment**
 
@@ -779,7 +779,7 @@ For effective date of amendment by title VIII of Pub. L. 90–448, see section 8
 
 Amendment by section 103 of Pub. L. 96–161, cited as a credit to this section, was repealed at the close of Mar. 31, 1980, by section 307 of Pub. L. 96–221, and substantially identical provisions were enacted by section 305 of Pub. L. 96–221, such amendments to take effect at the close of Mar. 31, 1980.
 
-### § 1757a. Limitation on member business loans
+### § 1757a. Limitation on member business loans
 
 **(a) In general** On and after August 7, 1998, no insured credit union may make any member business loan that would result in a total amount of such loans outstanding at that credit union at any one time equal to more than the lesser of—
 
@@ -835,7 +835,7 @@ An insured credit union that has, on August 7, 1998, a total amount of outstandi
 
 In implementing this section, the Board shall consult and seek to work cooperatively with State officials having jurisdiction over State-chartered insured credit unions.
 
-(June 26, 1934, ch. 750, title I, § 107A, as added Pub. L. 105–219, title II, § 203(a), Aug. 7, 1998, 112 Stat. 920; amended Pub. L. 115–174, title I, § 105(a), May 24, 2018, 132 Stat. 1301.)
+(June 26, 1934, ch. 750, title I, § 107A, as added Pub. L. 105–219, title II, § 203(a), Aug. 7, 1998, 112 Stat. 920; amended Pub. L. 115–174, title I, § 105(a), May 24, 2018, 132 Stat. 1301.)
 
 **Editorial Notes**
 
@@ -847,17 +847,17 @@ In implementing this section, the Board shall consult and seek to work cooperati
 
 **Rule of Construction**
 
-Pub. L. 115–174, title I, § 105(b), May 24, 2018, 132 Stat. 1301, provided that: “Nothing in this section [amending this section] or the amendment made by this section shall preclude the National Credit Union Administration from treating an extension of credit that is fully secured by a lien on a 1- to 4-family dwelling that is not the primary residence of a member as a member business loan for purposes other than the member business loan limitation requirements under section 107A of the Federal Credit Union Act (12 U.S.C. 1757a).”
+Pub. L. 115–174, title I, § 105(b), May 24, 2018, 132 Stat. 1301, provided that: “Nothing in this section [amending this section] or the amendment made by this section shall preclude the National Credit Union Administration from treating an extension of credit that is fully secured by a lien on a 1- to 4-family dwelling that is not the primary residence of a member as a member business loan for purposes other than the member business loan limitation requirements under section 107A of the Federal Credit Union Act (12 U.S.C. 1757a).”
 
 **Study and Report**
 
-Pub. L. 105–219, title II, § 203(b), Aug. 7, 1998, 112 Stat. 922, required the Secretary to conduct a study of member business lending by insured credit unions, with a final report to be sent to Congress not later than 12 months after Aug. 7, 1998.
+Pub. L. 105–219, title II, § 203(b), Aug. 7, 1998, 112 Stat. 922, required the Secretary to conduct a study of member business lending by insured credit unions, with a final report to be sent to Congress not later than 12 months after Aug. 7, 1998.
 
-### § 1758. Bylaws
+### § 1758. Bylaws
 
 In order to simplify the organization of Federal credit unions the Board shall from time to time cause to be prepared a form of organization certificate and a form of bylaws, consistent with this chapter, which shall be used by Federal credit union incorporators, and shall be supplied to them on request. At the time of presenting the organization certificate the incorporators shall also submit proposed bylaws to the Board for its approval.
 
-(June 26, 1934, ch. 750, title I, § 108, formerly § 8, 48 Stat. 1219; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§ 1, 2, 62 Stat. 1091; renumbered § 9 and amended Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 631; Pub. L. 91–206, § 2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 108, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681.)
+(June 26, 1934, ch. 750, title I, § 108, formerly § 8, 48 Stat. 1219; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§ 1, 2, 62 Stat. 1091; renumbered § 9 and amended Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 631; Pub. L. 91–206, § 2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 108, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681.)
 
 **Editorial Notes**
 
@@ -883,7 +883,7 @@ Transfer of functions of Farm Credit Administration and Governor thereof, genera
 
 Functions of Governor of Farm Credit Administration under this section transferred to Federal Deposit Insurance Corporation by Reorg. Plan No. 1 of 1947.
 
-### § 1759. Membership
+### § 1759. Membership
 
 **(a) In general**
 
@@ -999,7 +999,7 @@ Except as provided in section 1764 of this title, once a person becomes a member
 
 The definition prescribed by the Board under paragraph (1) shall apply with respect to any application to form a new credit union, or to alter or expand the field of membership of an existing credit union, that is filed with the Board after August 7, 1998.
 
-(June 26, 1934, ch. 750, title I, § 109, formerly § 9, 48 Stat. 1219; July 31, 1946, ch. 711, § 2, 60 Stat. 744; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§ 1, 2, 62 Stat. 1091; renumbered § 10 and amended Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 631; Pub. L. 91–206, § 2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 109, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 93–383, title VII, § 722, Aug. 22, 1974, 88 Stat. 719; Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 105–219, title I, §§ 101–103, Aug. 7, 1998, 112 Stat. 914–917; Pub. L. 109–351, title VII, § 726(9), Oct. 13, 2006, 120 Stat. 2002.)
+(June 26, 1934, ch. 750, title I, § 109, formerly § 9, 48 Stat. 1219; July 31, 1946, ch. 711, § 2, 60 Stat. 744; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§ 1, 2, 62 Stat. 1091; renumbered § 10 and amended Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 631; Pub. L. 91–206, § 2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 109, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 93–383, title VII, § 722, Aug. 22, 1974, 88 Stat. 719; Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 105–219, title I, §§ 101–103, Aug. 7, 1998, 112 Stat. 914–917; Pub. L. 109–351, title VII, § 726(9), Oct. 13, 2006, 120 Stat. 2002.)
 
 **Editorial Notes**
 
@@ -1007,15 +1007,15 @@ The definition prescribed by the Board under paragraph (1) shall apply with resp
 
 2006—Subsec. (c)(2)(A)(i). Pub. L. 109–351 made technical amendment to reference in original act which appears in text as reference to section 4702(16) of this title.
 
-1998—Subsec. (a). Pub. L. 105–219, § 101(1)(A), designated existing provisions as subsec. (a) and inserted heading and “Subject to subsection (b),” before “Federal credit union membership shall consist of”.
+1998—Subsec. (a). Pub. L. 105–219, § 101(1)(A), designated existing provisions as subsec. (a) and inserted heading and “Subject to subsection (b),” before “Federal credit union membership shall consist of”.
 
-Pub. L. 105–219, § 101(1)(B), which directed the amendment of subsec. (a) by striking out “, except that Federal credit union membership shall be limited to groups having a common bond of occupation or association, or to groups within a well-defined neighborhood, community, or rural district” after “directors”, was executed by striking out such language which began with a semicolon rather than a comma after “directors” to reflect the probable intent of Congress.
+Pub. L. 105–219, § 101(1)(B), which directed the amendment of subsec. (a) by striking out “, except that Federal credit union membership shall be limited to groups having a common bond of occupation or association, or to groups within a well-defined neighborhood, community, or rural district” after “directors”, was executed by striking out such language which began with a semicolon rather than a comma after “directors” to reflect the probable intent of Congress.
 
-Subsecs. (b) to (e). Pub. L. 105–219, § 101(2), added subsecs. (b) to (e).
+Subsecs. (b) to (e). Pub. L. 105–219, § 101(2), added subsecs. (b) to (e).
 
-Subsec. (f). Pub. L. 105–219, § 102, added subsec. (f).
+Subsec. (f). Pub. L. 105–219, § 102, added subsec. (f).
 
-Subsec. (g). Pub. L. 105–219, § 103, added subsec. (g).
+Subsec. (g). Pub. L. 105–219, § 103, added subsec. (g).
 
 1978—Pub. L. 95–630 substituted “Board” for “Administrator”.
 
@@ -1035,7 +1035,7 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
 **Report and Congressional Review Requirement for Certain Regulations**
 
-Pub. L. 105–219, title II, § 205, Aug. 7, 1998, 112 Stat. 923, provided that:
+Pub. L. 105–219, title II, § 205, Aug. 7, 1998, 112 Stat. 923, provided that:
 
 > “A regulation prescribed by the Board [National Credit Union Administration Board] shall be treated as a major rule for purposes of chapter 8 of title 5, United States Code, if the regulation defines, or amends the definition of—
 
@@ -1043,11 +1043,11 @@ Pub. L. 105–219, title II, § 205, Aug. 7, 1998, 112 Stat. 923, provided tha
 
 > **“(2)** the term ‘well-defined local community, neighborhood, or rural district’ for purposes of section 109(g) of the Federal Credit Union Act (as added by section 103 of this Act).”
 
-### § 1760. Members’ meetings
+### § 1760. Members’ meetings
 
 The fiscal year of all Federal credit unions shall end December 31. The annual meeting of each Federal credit union shall be held at such place as its bylaws shall prescribe. Special meetings may be held in the manner indicated in the bylaws. No member shall be entitled to vote by proxy, but a member other than a natural person may vote through an agent designated for the purpose. Irrespective of the number of shares held, no member shall have more than one vote.
 
-(June 26, 1934, ch. 750, title I, § 110, formerly § 10, 48 Stat. 1219; renumbered § 11, Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 631; amended Pub. L. 88–150, § 1, Oct. 17, 1963, 77 Stat. 270; renumbered title I, § 110, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 97–320, title V, § 519, Oct. 15, 1982, 96 Stat. 1531.)
+(June 26, 1934, ch. 750, title I, § 110, formerly § 10, 48 Stat. 1219; renumbered § 11, Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 631; amended Pub. L. 88–150, § 1, Oct. 17, 1963, 77 Stat. 270; renumbered title I, § 110, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 97–320, title V, § 519, Oct. 15, 1982, 96 Stat. 1531.)
 
 **Editorial Notes**
 
@@ -1057,7 +1057,7 @@ The fiscal year of all Federal credit unions shall end December 31. The annual m
 
 1963—Pub. L. 88–150 substituted “during the following January, February, or March” for “during the month of the following January”.
 
-### § 1761. Management
+### § 1761. Management
 
 **(a) Board of directors, credit committee, and supervisory committee; election to board**
 
@@ -1071,7 +1071,7 @@ The supervisory committee shall be appointed by the board of directors and shall
 
 No member of the board or of any other committee shall, as such, be compensated, except that reasonable health, accident, similar insurance protection, and the reimbursement of reasonable expenses incurred in the execution of the duties of the position shall not be considered compensation.
 
-(June 26, 1934, ch. 750, title I, § 111, formerly § 11, 48 Stat. 1219; June 15, 1940, ch. 366, 54 Stat. 398; July 31, 1946, ch. 711, §§ 3–6, 60 Stat. 745; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§ 1, 2, 62 Stat. 1091; Oct. 25, 1949, ch. 713, § 2, 63 Stat. 890; June 30, 1954, ch. 426, § 1, 68 Stat. 335; Aug. 24, 1954, ch. 905, §§ 1, 2, 68 Stat. 792; renumbered § 12 and amended Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 632; Pub. L. 88–353, § 2, July 2, 1964, 78 Stat. 269; Pub. L. 91–206, § 2(3), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 111, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 93–495, title I, § 116, Oct. 28, 1974, 88 Stat. 1507; Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, § 520, Oct. 15, 1982, 96 Stat. 1531.)
+(June 26, 1934, ch. 750, title I, § 111, formerly § 11, 48 Stat. 1219; June 15, 1940, ch. 366, 54 Stat. 398; July 31, 1946, ch. 711, §§ 3–6, 60 Stat. 745; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§ 1, 2, 62 Stat. 1091; Oct. 25, 1949, ch. 713, § 2, 63 Stat. 890; June 30, 1954, ch. 426, § 1, 68 Stat. 335; Aug. 24, 1954, ch. 905, §§ 1, 2, 68 Stat. 792; renumbered § 12 and amended Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 632; Pub. L. 88–353, § 2, July 2, 1964, 78 Stat. 269; Pub. L. 91–206, § 2(3), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 111, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 93–495, title I, § 116, Oct. 28, 1974, 88 Stat. 1507; Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, § 520, Oct. 15, 1982, 96 Stat. 1531.)
 
 **Editorial Notes**
 
@@ -1117,11 +1117,11 @@ Transfer of functions of Farm Credit Administration and Governor thereof, genera
 
 Functions of Governor of Farm Credit Administration under this section transferred to Federal Deposit Insurance Corporation by Reorg. Plan No. 1 of 1947.
 
-### § 1761a. Officers of the board
+### § 1761a. Officers of the board
 
 At their first meeting after the annual meeting of the members, the directors shall elect from their number the board officers specified in the bylaws. Only one board officer may be compensated as an officer of the board and the bylaws shall specify such position as well as the specific duties of each of the board officers. The board shall elect from their number a financial officer who shall give adequate fidelity coverage in accordance with section 1761b(2) of this title.
 
-(June 26, 1934, ch. 750, title I, § 112, formerly § 13, as added Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 632; amended Pub. L. 88–150, § 2, Oct. 17, 1963, 77 Stat. 270; Pub. L. 91–206, § 2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 112, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, § 521, Oct. 15, 1982, 96 Stat. 1531; Pub. L. 100–86, title VII, § 704(a), Aug. 10, 1987, 101 Stat. 652.)
+(June 26, 1934, ch. 750, title I, § 112, formerly § 13, as added Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 632; amended Pub. L. 88–150, § 2, Oct. 17, 1963, 77 Stat. 270; Pub. L. 91–206, § 2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 112, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, § 521, Oct. 15, 1982, 96 Stat. 1531; Pub. L. 100–86, title VII, § 704(a), Aug. 10, 1987, 101 Stat. 652.)
 
 **Editorial Notes**
 
@@ -1139,7 +1139,7 @@ Provisions similar to those comprising this section were contained in section 11
 
 1970—Pub. L. 91–206 substituted “Administrator” for “Director”.
 
-1963—Pub. L. 88–150 struck out “, except that the treasurer shall be the general manager of the corporation” after “bylaws” in fourth sentence.
+1963—Pub. L. 88–150 struck out “, except that the treasurer shall be the general manager of the corporation” after “bylaws” in fourth sentence.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1147,7 +1147,7 @@ Provisions similar to those comprising this section were contained in section 11
 
 Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
 
-### § 1761b. Board of directors; meetings; powers and duties; executive committee; membership officers; membership application
+### § 1761b. Board of directors; meetings; powers and duties; executive committee; membership officers; membership application
 
 The board of directors shall meet at least once a month and shall have the general direction and control of the affairs of the Federal credit union. Minutes of all meetings shall be kept. Among other things, the board of directors shall—
 
@@ -1167,7 +1167,7 @@ The board of directors shall meet at least once a month and shall have the gener
 
 **(8)** subject to any limitations of this subchapter,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 determine the interest rates on loans, the security, and the maximum amount which may be loaned and provided in lines of credit;
 
@@ -1197,7 +1197,7 @@ determine the interest rates on loans, the security, and the maximum amount whic
 
 **(21)** do all other things that are necessary and proper to carry out all the purposes and powers of the Federal credit union, subject to regulations issued by the Board.
 
-(June 26, 1934, ch. 750, title I, § 113, formerly § 14, as added Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 632; amended Pub. L. 88–353, § 3, July 2, 1964, 78 Stat. 269; Pub. L. 90–375, § 1(4), July 5, 1968, 82 Stat. 284; Pub. L. 91–206, § 2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 113, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 93–383, title VII, § 723, Aug. 22, 1974, 88 Stat. 719; Pub. L. 95–22, title III, § 309, Apr. 19, 1977, 91 Stat. 53; Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, § 522, Oct. 15, 1982, 96 Stat. 1532; Pub. L. 97–457, § 28, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 100–86, title VII, §§ 704(b), 705, Aug. 10, 1987, 101 Stat. 652.)
+(June 26, 1934, ch. 750, title I, § 113, formerly § 14, as added Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 632; amended Pub. L. 88–353, § 3, July 2, 1964, 78 Stat. 269; Pub. L. 90–375, § 1(4), July 5, 1968, 82 Stat. 284; Pub. L. 91–206, § 2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 113, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 93–383, title VII, § 723, Aug. 22, 1974, 88 Stat. 719; Pub. L. 95–22, title III, § 309, Apr. 19, 1977, 91 Stat. 53; Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, § 522, Oct. 15, 1982, 96 Stat. 1532; Pub. L. 97–457, § 28, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 100–86, title VII, §§ 704(b), 705, Aug. 10, 1987, 101 Stat. 652.)
 
 **Editorial Notes**
 
@@ -1211,19 +1211,19 @@ Provisions similar to those comprising this section were contained in section 11
 
 **Amendments**
 
-1987—Par. (1). Pub. L. 100–86, § 705, substituted “of the credit union” for “of the board of directors”.
+1987—Par. (1). Pub. L. 100–86, § 705, substituted “of the credit union” for “of the board of directors”.
 
-Par. (2). Pub. L. 100–86, § 704(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “require any officer or employee having custody of or handling funds to give bond with good and sufficient surety in an amount and character in compliance with regulations of the Board, and authorize the payment of the premium or premiums therefor from the funds of the Federal credit union;”.
+Par. (2). Pub. L. 100–86, § 704(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “require any officer or employee having custody of or handling funds to give bond with good and sufficient surety in an amount and character in compliance with regulations of the Board, and authorize the payment of the premium or premiums therefor from the funds of the Federal credit union;”.
 
-1983—Pub. L. 97–457, § 28(1), substituted “direction” for “directions” after “shall have the general”.
+1983—Pub. L. 97–457, § 28(1), substituted “direction” for “directions” after “shall have the general”.
 
-Par. (2). Pub. L. 97–457, § 28(2), substituted “union” for “unions” after “Federal credit”.
+Par. (2). Pub. L. 97–457, § 28(2), substituted “union” for “unions” after “Federal credit”.
 
-Par. (9). Pub. L. 97–457, § 28(3), inserted “by” after “interest paid”.
+Par. (9). Pub. L. 97–457, § 28(3), inserted “by” after “interest paid”.
 
-Par. (15). Pub. L. 97–457, § 28(4), substituted “meeting” for “meetings” after “previous monthly”.
+Par. (15). Pub. L. 97–457, § 28(4), substituted “meeting” for “meetings” after “previous monthly”.
 
-1982—Pub. L. 97–320, § 522, substituted provisions relating to the board of directors, its meetings, powers, and duties, membership officers and membership applications, for provisions which read as follows: “The board of directors shall meet at least once a month and shall have the general direction and control of the affairs of the corporation. Minutes of all such meetings shall be kept. Among other things they shall act upon applications for membership; require any officer or employee having custody of or handling funds to give bond with good and sufficient surety in an amount and character to be determined by the board of directors in compliance with regulations prescribed from time to time by the Board, and authorize the payment of the premium or premiums therefor from the funds of the Federal credit union; fill vacancies in the board and in the credit committee until successors elected at the next annual meeting have qualified; have charge of investments other than loans to members, except that the board may designate a committee of not less than two to act as an investment committee, such investment committee to have charge of making investments under rules and procedures established by the board of directors; determine from time to time the maximum number of shares and share certificates and the classes of shares and share certificates that may be held; subject to the limitations of this chapter, determine the interest rates on loans, the security, and the maximum amount which may be loaned or provided in lines of credit; subject to such regulations as may be issued by the Board, authorized an interest refund to members of record at the close of business on the last day of any dividend period in proportion to the interest paid by them during that dividend period; and provide for compensation of necessary clerical and auditing assistance requested by the supervisory committee, and of loan officers appointed by the credit committee. The board may appoint an executive committee of not less than three directors to exercise such authority as may be delegated to it subject to such conditions and limitations as may be prescribed by the board. Such executive committee or one or more membership officers appointed by the board from among the members of the credit union, other than the treasurer, an assistant treasurer, or a loan officer, may be authorized by the board to approve applications for membership under such conditions as the board may prescribe; except that such committee or membership officer so authorized shall submit to the board at each monthly meeting a list of approved or pending applications for membership received since the previous monthly meeting, together with such other related information as the bylaws or the board may require. If a membership application is denied, the reasons therefor shall be furnished in writing to the person whose application is denied, upon written request.”
+1982—Pub. L. 97–320, § 522, substituted provisions relating to the board of directors, its meetings, powers, and duties, membership officers and membership applications, for provisions which read as follows: “The board of directors shall meet at least once a month and shall have the general direction and control of the affairs of the corporation. Minutes of all such meetings shall be kept. Among other things they shall act upon applications for membership; require any officer or employee having custody of or handling funds to give bond with good and sufficient surety in an amount and character to be determined by the board of directors in compliance with regulations prescribed from time to time by the Board, and authorize the payment of the premium or premiums therefor from the funds of the Federal credit union; fill vacancies in the board and in the credit committee until successors elected at the next annual meeting have qualified; have charge of investments other than loans to members, except that the board may designate a committee of not less than two to act as an investment committee, such investment committee to have charge of making investments under rules and procedures established by the board of directors; determine from time to time the maximum number of shares and share certificates and the classes of shares and share certificates that may be held; subject to the limitations of this chapter, determine the interest rates on loans, the security, and the maximum amount which may be loaned or provided in lines of credit; subject to such regulations as may be issued by the Board, authorized an interest refund to members of record at the close of business on the last day of any dividend period in proportion to the interest paid by them during that dividend period; and provide for compensation of necessary clerical and auditing assistance requested by the supervisory committee, and of loan officers appointed by the credit committee. The board may appoint an executive committee of not less than three directors to exercise such authority as may be delegated to it subject to such conditions and limitations as may be prescribed by the board. Such executive committee or one or more membership officers appointed by the board from among the members of the credit union, other than the treasurer, an assistant treasurer, or a loan officer, may be authorized by the board to approve applications for membership under such conditions as the board may prescribe; except that such committee or membership officer so authorized shall submit to the board at each monthly meeting a list of approved or pending applications for membership received since the previous monthly meeting, together with such other related information as the bylaws or the board may require. If a membership application is denied, the reasons therefor shall be furnished in writing to the person whose application is denied, upon written request.”
 
 1978—Pub. L. 95–630 substituted “Board” for “Administrator” in two places.
 
@@ -1243,7 +1243,7 @@ Par. (15). Pub. L. 97–457, § 28(4), substituted “meeting” for “meetin
 
 Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
 
-### § 1761c. Credit committee
+### § 1761c. Credit committee
 
 **(a) Members; meetings; lines of credit and approval of loans; delegation to loan officers**
 
@@ -1253,7 +1253,7 @@ If the bylaws provide for a credit committee, then pursuant to the provisions of
 
 If the bylaws provide for a credit committee, all applications not approved by the loan officer shall be reviewed by the credit committee, and the approval of a majority of the members who are present at the meeting when such review is undertaken shall be required to reverse the loan officer’s decision provided a majority of the full committee is present. If there is not a credit committee, a member shall have the right upon written request of review by the board of directors of a loan application which has been denied. No individual shall have authority to disburse funds of the Federal credit union with respect to any loan or line of credit for which the application has been approved by him in his capacity as a loan officer.
 
-(June 26, 1934, ch. 750, title I, § 114, formerly § 15, as added Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 633; amended Pub. L. 88–353, § 4, July 2, 1964, 78 Stat. 269; Pub. L. 90–188, § 1, Dec. 13, 1967, 81 Stat. 567; Pub. L. 90–375, § 1(5), July 5, 1968, 82 Stat. 284; Pub. L. 91–206, § 2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 114, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–22, title III, § 304, Apr. 19, 1977, 91 Stat. 51; Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, § 523, Oct. 15, 1982, 96 Stat. 1533.)
+(June 26, 1934, ch. 750, title I, § 114, formerly § 15, as added Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 633; amended Pub. L. 88–353, § 4, July 2, 1964, 78 Stat. 269; Pub. L. 90–188, § 1, Dec. 13, 1967, 81 Stat. 567; Pub. L. 90–375, § 1(5), July 5, 1968, 82 Stat. 284; Pub. L. 91–206, § 2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 114, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–22, title III, § 304, Apr. 19, 1977, 91 Stat. 51; Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, § 523, Oct. 15, 1982, 96 Stat. 1533.)
 
 **Editorial Notes**
 
@@ -1283,11 +1283,11 @@ Provisions similar to those comprising this section were contained in section 11
 
 Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630 set out as a note under section 1752 of this title.
 
-### § 1761d. Supervisory committee; powers and duties; suspension of members; passbook
+### § 1761d. Supervisory committee; powers and duties; suspension of members; passbook
 
 The supervisory committee shall make or cause to be made an annual audit and shall submit a report of that audit to the board of directors and a summary of the report to the members at the next annual meeting of the credit union; shall make or cause to be made such supplementary audits as it deems necessary or as may be ordered by the Board, and submit reports of the supplementary audits to the board of directors; may by a unanimous vote suspend any officer of the credit union or any member of the credit committee or of the board of directors, until the next members’ meeting, which shall be held not less than seven or more than fourteen days after any such suspension, at which meeting any such suspension shall be acted upon by the members; and may call by a majority vote a special meeting of the members to consider any violations of this chapter, the charter, or the bylaws, or any practice of the credit union deemed by the supervisory committee to be unsafe or unauthorized. Any member of the supervisory committee may be suspended by a majority vote of the board of directors. The members shall decide, at a meeting held not less than seven nor more than fourteen days after any such suspension, whether the suspended committee member shall be removed from or restored to the supervisory committee. The supervisory committee shall cause the passbooks and accounts of the members to be verified with the records of the treasurer from time to time, and not less frequently than once every two years. As used in this section, the term “passbook” shall include any book, statement of account, or other record approved by the Board for use by Federal credit unions.
 
-(June 26, 1934, ch. 750, title I, § 115, formerly § 16, as added Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 633; amended Pub. L. 90–375, § 1(6), (7), July 5, 1968, 82 Stat. 284, 285; Pub. L. 91–206, § 2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 115, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 93–383, title VII, § 724, Aug. 22, 1974, 88 Stat. 719; Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681.)
+(June 26, 1934, ch. 750, title I, § 115, formerly § 16, as added Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 633; amended Pub. L. 90–375, § 1(6), (7), July 5, 1968, 82 Stat. 284, 285; Pub. L. 91–206, § 2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 115, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 93–383, title VII, § 724, Aug. 22, 1974, 88 Stat. 719; Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681.)
 
 **Editorial Notes**
 
@@ -1311,15 +1311,15 @@ Provisions similar to those comprising this section were contained in section 11
 
 Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
 
-### § 1762. Repealed. Pub. L. 105–219, title III, § 301(g)(3), Aug. 7, 1998, 112 Stat. 931
+### § 1762. Repealed. Pub. L. 105–219, title III, § 301(g)(3), Aug. 7, 1998, 112 Stat. 931
 
-Section, acts June 26, 1934, ch. 750, title I, § 116, formerly § 12, 48 Stat. 1221; Oct. 25, 1949, ch. 713, § 3, 63 Stat. 890; renumbered § 17 and amended Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 634; Pub. L. 91–206, § 2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 116, and amended Pub. L. 91–468, §§ 1(2), 9, Oct. 19, 1970, 84 Stat. 994, 1017; Pub. L. 95–22, title III, § 305, Apr. 19, 1977, 91 Stat. 52; Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681, related to requirement of reserves against losses and authorization of Board to decrease reserve requirement or to require special reserves. See section 1790d(e) of this title.
+Section, acts June 26, 1934, ch. 750, title I, § 116, formerly § 12, 48 Stat. 1221; Oct. 25, 1949, ch. 713, § 3, 63 Stat. 890; renumbered § 17 and amended Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 634; Pub. L. 91–206, § 2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 116, and amended Pub. L. 91–468, §§ 1(2), 9, Oct. 19, 1970, 84 Stat. 994, 1017; Pub. L. 95–22, title III, § 305, Apr. 19, 1977, 91 Stat. 52; Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681, related to requirement of reserves against losses and authorization of Board to decrease reserve requirement or to require special reserves. See section 1790d(e) of this title.
 
-### § 1763. Dividends
+### § 1763. Dividends
 
 At such intervals as the board of directors may authorize, and after provision for required reserves, the board of directors may declare a dividend to be paid at different rates on different types of shares, at different rates and maturity dates in the case of share certificates, and at different rates on different types of share draft accounts. Dividends credited may be accrued on various types of shares, share certificates, and share draft accounts as authorized by the board of directors. If the par value of a share exceeds $5, dividends shall be paid on all funds in the regular share account once a full share has been purchased.
 
-(June 26, 1934, ch. 750, title I, § 117, formerly § 13, 48 Stat. 1221; renumbered § 18 and amended Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 634; Pub. L. 90–188, § 2, Dec. 13, 1967, 81 Stat. 567; renumbered title I, § 117, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 93–383, title VII, § 725, Aug. 22, 1974, 88 Stat. 720; Pub. L. 95–22, title III, § 310, Apr. 19, 1977, 91 Stat. 53; Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–221, title II, § 207(b)(10), title III, § 305(c), Mar. 31, 1980, 94 Stat. 144, 147; Pub. L. 97–320, title V, § 524, Oct. 15, 1982, 96 Stat. 1534.)
+(June 26, 1934, ch. 750, title I, § 117, formerly § 13, 48 Stat. 1221; renumbered § 18 and amended Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 634; Pub. L. 90–188, § 2, Dec. 13, 1967, 81 Stat. 567; renumbered title I, § 117, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 93–383, title VII, § 725, Aug. 22, 1974, 88 Stat. 720; Pub. L. 95–22, title III, § 310, Apr. 19, 1977, 91 Stat. 53; Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–221, title II, § 207(b)(10), title III, § 305(c), Mar. 31, 1980, 94 Stat. 144, 147; Pub. L. 97–320, title V, § 524, Oct. 15, 1982, 96 Stat. 1534.)
 
 **Editorial Notes**
 
@@ -1327,9 +1327,9 @@ At such intervals as the board of directors may authorize, and after provision f
 
 1982—Pub. L. 97–320 substituted “the board of directors may declare” for “the board may declare” and “Dividends credited” for “Dividend credit”, and inserted provision that if the par value of a share exceeds $5, dividends shall be paid on all funds in the regular share account once a full share has been published.
 
-1980—Pub. L. 96–221, § 207(b)(10), struck out “, pursuant to such regulations as may be issued by the Board,” after “declare”.
+1980—Pub. L. 96–221, § 207(b)(10), struck out “, pursuant to such regulations as may be issued by the Board,” after “declare”.
 
-Pub. L. 96–221, § 305(c), inserted provisions relating to share draft accounts.
+Pub. L. 96–221, § 305(c), inserted provisions relating to share draft accounts.
 
 1978—Pub. L. 95–630 substituted “Board” for “Administrator”.
 
@@ -1345,7 +1345,7 @@ Pub. L. 96–221, § 305(c), inserted provisions relating to share draft accou
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–221, title II, § 207(b), Mar. 31, 1980, 94 Stat. 144, provided in part that the amendment made by that section is effective 6 years after Mar. 31, 1980.
+Pub. L. 96–221, title II, § 207(b), Mar. 31, 1980, 94 Stat. 144, provided in part that the amendment made by that section is effective 6 years after Mar. 31, 1980.
 
 Amendment by section 305(c) of Pub. L. 96–221 effective at close of Mar. 31, 1980, see section 306 of Pub. L. 96–221, set out as a note under section 1464 of this title.
 
@@ -1353,7 +1353,7 @@ Amendment by section 305(c) of Pub. L. 96–221 effective at close of Mar. 31, 1
 
 Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
 
-### § 1764. Expulsion and withdrawal
+### § 1764. Expulsion and withdrawal
 
 **(a) Expulsion by two-thirds vote**
 
@@ -1431,31 +1431,31 @@ Withdrawal or expulsion of a member pursuant to subsection (a), (b), or (c) of t
 
 An expulsion of a member pursuant to this section shall be done individually, on a case-by-case basis, and neither the Board nor any Federal credit union may expel a class of members.
 
-(June 26, 1934, ch. 750, title I, § 118, formerly § 14, 48 Stat. 1221; renumbered § 19, Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 634; renumbered title I, § 118, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 97–320, title V, § 525, Oct. 15, 1982, 96 Stat. 1534; Pub. L. 100–86, title VII, § 706, Aug. 10, 1987, 101 Stat. 653; Pub. L. 117–103, div. T, § 102, Mar. 15, 2022, 136 Stat. 824.)
+(June 26, 1934, ch. 750, title I, § 118, formerly § 14, 48 Stat. 1221; renumbered § 19, Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 634; renumbered title I, § 118, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 97–320, title V, § 525, Oct. 15, 1982, 96 Stat. 1534; Pub. L. 100–86, title VII, § 706, Aug. 10, 1987, 101 Stat. 653; Pub. L. 117–103, div. T, § 102, Mar. 15, 2022, 136 Stat. 824.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–103, § 102(1), substituted “subsections (b) and (c)” for “subsection (b)” and “to the member” for “him”.
+2022—Subsec. (a). Pub. L. 117–103, § 102(1), substituted “subsections (b) and (c)” for “subsection (b)” and “to the member” for “him”.
 
-Subsec. (c). Pub. L. 117–103, § 102(3), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 117–103, § 102(3), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 117–103, § 102(2), (4), redesignated subsec. (c) as (d) and substituted “subsection (a), (b), or (c)” for “either subsection (a) or (b)” and “the member” for “him”.
+Subsec. (d). Pub. L. 117–103, § 102(2), (4), redesignated subsec. (c) as (d) and substituted “subsection (a), (b), or (c)” for “either subsection (a) or (b)” and “the member” for “him”.
 
-Subsec. (e). Pub. L. 117–103, § 102(5), added subsec. (e).
+Subsec. (e). Pub. L. 117–103, § 102(5), added subsec. (e).
 
-1987—Subsec. (a). Pub. L. 100–86, § 706(1), substituted “Except as provided in” for “Subject to”.
+1987—Subsec. (a). Pub. L. 100–86, § 706(1), substituted “Except as provided in” for “Subject to”.
 
-Subsec. (b). Pub. L. 100–86, § 706(2), inserted “and enforce” after “adopt”.
+Subsec. (b). Pub. L. 100–86, § 706(2), inserted “and enforce” after “adopt”.
 
 1982—Pub. L. 97–320 designated existing provisions as subsecs. (a) and (c) and added subsec. (b).
 
-### § 1765. Minors
+### § 1765. Minors
 
 Shares may be issued in the name of a minor or in trust, subject to such conditions as may be prescribed by the bylaws. When shares are issued in trust, the name of the beneficiary shall be disclosed to the Federal credit union.
 
-(June 26, 1934, ch. 750, title I, § 119, formerly § 15, 48 Stat. 1221; renumbered § 20, and amended Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 634; renumbered title I, § 119, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994.)
+(June 26, 1934, ch. 750, title I, § 119, formerly § 15, 48 Stat. 1221; renumbered § 20, and amended Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 634; renumbered title I, § 119, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994.)
 
 **Editorial Notes**
 
@@ -1463,7 +1463,7 @@ Shares may be issued in the name of a minor or in trust, subject to such conditi
 
 1959—Pub. L. 86–354 substituted “When shares are issued in trust, the” for “The” in second sentence.
 
-### § 1766. Powers of Board
+### § 1766. Powers of Board
 
 **(a)** The Board may prescribe rules and regulations for the administration of this chapter (including, but not by way of limitation, the merger, consolidation, and dissolution of corporations organized under this chapter). Any central credit union chartered by the Board shall be subject to such rules, regulations, and orders as the Board deems appropriate and, except as otherwise specifically provided in such rules, regulations, or orders, shall be vested with or subject to the same rights, privileges, duties, restrictions, penalties, liabilities, conditions, and limitations that would apply to all Federal credit unions under this chapter.
 
@@ -1517,13 +1517,13 @@ Shares may be issued in the name of a minor or in trust, subject to such conditi
 
 **(3) Funding.—** The salaries and expenses of the Board and employees of the Board shall be paid from fees and assessments (including income earned on insurance deposits) levied on insured credit unions under this chapter.
 
-(June 26, 1934, ch. 750, title I, § 120, formerly § 16, 48 Stat. 1221; Dec. 6, 1937, ch. 3, § 3, 51 Stat. 4; July 31, 1946, ch. 711, § 8, 60 Stat. 745; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§ 1, 2, 62 Stat. 1091; June 30, 1954, ch. 426, § 2, 68 Stat. 336; Aug. 24, 1954, ch. 905, § 3, 68 Stat. 792; renumbered § 21 and amended Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 635; Pub. L. 90–375, § 2(a), July 5, 1968, 82 Stat. 285; Pub. L. 91–206, §§ 2(1), (3), 4, Mar. 10, 1970, 84 Stat. 49, 50; renumbered title I, § 120, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–22, title III, § 306, Apr. 19, 1977, 91 Stat. 52; Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, § 526, Oct. 15, 1982, 96 Stat. 1535; Pub. L. 100–86, title VII, § 707, Aug. 10, 1987, 101 Stat. 653; Pub. L. 101–73, title XII, § 1203, Aug. 9, 1989, 103 Stat. 520; Pub. L. 101–144, title III, Nov. 9, 1989, 103 Stat. 864; Pub. L. 103–325, title I, § 120(a), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 109–351, title VII, § 726(10), Oct. 13, 2006, 120 Stat. 2002.)
+(June 26, 1934, ch. 750, title I, § 120, formerly § 16, 48 Stat. 1221; Dec. 6, 1937, ch. 3, § 3, 51 Stat. 4; July 31, 1946, ch. 711, § 8, 60 Stat. 745; 1947 Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§ 1, 2, 62 Stat. 1091; June 30, 1954, ch. 426, § 2, 68 Stat. 336; Aug. 24, 1954, ch. 905, § 3, 68 Stat. 792; renumbered § 21 and amended Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 635; Pub. L. 90–375, § 2(a), July 5, 1968, 82 Stat. 285; Pub. L. 91–206, §§ 2(1), (3), 4, Mar. 10, 1970, 84 Stat. 49, 50; renumbered title I, § 120, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–22, title III, § 306, Apr. 19, 1977, 91 Stat. 52; Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, § 526, Oct. 15, 1982, 96 Stat. 1535; Pub. L. 100–86, title VII, § 707, Aug. 10, 1987, 101 Stat. 653; Pub. L. 101–73, title XII, § 1203, Aug. 9, 1989, 103 Stat. 520; Pub. L. 101–144, title III, Nov. 9, 1989, 103 Stat. 864; Pub. L. 103–325, title I, § 120(a), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 109–351, title VII, § 726(10), Oct. 13, 2006, 120 Stat. 2002.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Economic Opportunity Act of 1964, referred to in subsec. (f)(2)(B), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, which was classified generally to chapter 34 (§ 2701 et seq.) of Title 42, The Public Health and Welfare, prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§ 2991 et seq.) and X (§ 2996 et seq.) of chapter 34 of Title 42. For complete classification of this Act to the Code, see Tables.
+The Economic Opportunity Act of 1964, referred to in subsec. (f)(2)(B), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, which was classified generally to chapter 34 (§ 2701 et seq.) of Title 42, The Public Health and Welfare, prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§ 2991 et seq.) and X (§ 2996 et seq.) of chapter 34 of Title 42. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
@@ -1535,7 +1535,7 @@ The Economic Opportunity Act of 1964, referred to in subsec. (f)(2)(B), is Pub. 
 
 Subsec. (k). Pub. L. 101–144 added subsec. (k).
 
-1987—Subsec. (i)(2). Pub. L. 100–86 inserted “acquire and dispose of, by lease or purchase, real or personal property, without regard to the provisions of any other law applicable to executive or independent agencies of the United States,” after “reimbursement,” and “, in accordance with the rules and regulations or policies established by the Board not inconsistent with this chapter” after “this chapter”.
+1987—Subsec. (i)(2). Pub. L. 100–86 inserted “acquire and dispose of, by lease or purchase, real or personal property, without regard to the provisions of any other law applicable to executive or independent agencies of the United States,” after “reimbursement,” and “, in accordance with the rules and regulations or policies established by the Board not inconsistent with this chapter” after “this chapter”.
 
 1982—Subsec. (a). Pub. L. 97–320 inserted provisions relating to the special authority of the Board over a central credit union, and such a union’s general prerogatives and liabilities.
 
@@ -1543,9 +1543,9 @@ Subsec. (k). Pub. L. 101–144 added subsec. (k).
 
 1977—Subsec. (b)(3)(B). Pub. L. 95–22 substituted “member accounts” for “shares”.
 
-1970—Subsecs. (a) to (h). Pub. L. 91–206, § 2(1), (3), substituted “Administrator” for “Director” and “Administration” for “Bureau” wherever appearing.
+1970—Subsecs. (a) to (h). Pub. L. 91–206, § 2(1), (3), substituted “Administrator” for “Director” and “Administration” for “Bureau” wherever appearing.
 
-Subsec. (i). Pub. L. 91–206, § 4, added subsec. (i).
+Subsec. (i). Pub. L. 91–206, § 4, added subsec. (i).
 
 1968—Subsec. (f). Pub. L. 90–375 redesignated existing provisions as par. (1) and added par. (2).
 
@@ -1567,15 +1567,15 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
 **Effective Date of 1968 Amendment**
 
-Pub. L. 90–375, § 2(b), July 5, 1968, 82 Stat. 285, provided that: “The amendments made by subsection (a) [amending this section] shall become effective July 1, 1968.”
+Pub. L. 90–375, § 2(b), July 5, 1968, 82 Stat. 285, provided that: “The amendments made by subsection (a) [amending this section] shall become effective July 1, 1968.”
 
-### § 1767. Fiscal agents and depositories; authorization to secure deposits by governmental bodies
+### § 1767. Fiscal agents and depositories; authorization to secure deposits by governmental bodies
 
 **(a)** Each Federal credit union organized under this chapter, when requested by the Secretary of the Treasury, shall act as fiscal agent of the United States and shall perform such services as the Secretary of the Treasury may require in connection with the collection of taxes and other obligations due the United States and the lending, borrowing, and repayment of money by the United States, including the issue, sale, redemption, or repurchase of bonds, notes, Treasury certificates of indebtedness, or other obligations of the United States; and to facilitate such purposes the Board shall furnish to the Secretary of the Treasury from time to time the names and addresses of all Federal credit unions with such other available information concerning them as may be requested by the Secretary of the Treasury. Any Federal credit union organized under this chapter, when designated for that purpose by the Secretary of the Treasury, shall be a depository of public money, except receipts from customs, under such regulations as may be prescribed by the Secretary of the Treasury.
 
 **(b)** Any Federal credit union, upon the deposit with it of any funds by the Federal Government, an Indian tribe, or any State or local government or political subdivision thereof as otherwise authorized by this chapter, is authorized to pledge any of its assets securing the payment of the funds so deposited.
 
-(June 26, 1934, ch. 750, title I, § 121, formerly § 17, 48 Stat. 1222; 1947, Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§ 1, 2, 62 Stat. 1091; renumbered § 22, Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 637; amended Pub. L. 91–206, § 2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 121, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 100–86, title VII, § 716, Aug. 10, 1987, 101 Stat. 656.)
+(June 26, 1934, ch. 750, title I, § 121, formerly § 17, 48 Stat. 1222; 1947, Reorg. Plan No. 1, § 401, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952; June 29, 1948, ch. 711, §§ 1, 2, 62 Stat. 1091; renumbered § 22, Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 637; amended Pub. L. 91–206, § 2(1), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 121, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 100–86, title VII, § 716, Aug. 10, 1987, 101 Stat. 656.)
 
 **Editorial Notes**
 
@@ -1601,11 +1601,11 @@ Transfer of functions of Farm Credit Administration and Governor thereof, genera
 
 Functions of Governor of Farm Credit Administration under this section transferred to Federal Deposit Insurance Corporation by Reorg. Plan No. 1 of 1947.
 
-### § 1768. Taxation
+### § 1768. Taxation
 
 The Federal credit unions organized hereunder, their property, their franchises, capital, reserves, surpluses, and other funds, and their income shall be exempt from all taxation now or hereafter imposed by the United States or by any State, Territorial, or local taxing authority; except that any real property and any tangible personal property of such Federal credit unions shall be subject to Federal, State, Territorial, and local taxation to the same extent as other similar property is taxed. Nothing herein contained shall prevent holdings in any Federal credit union organized hereunder from being included in the valuation of the personal property of the owners or holders thereof in assessing taxes imposed by authority of the State or political subdivision thereof in which the Federal credit union is located; but the duty or burden of collecting or enforcing the payment of such a tax shall not be imposed upon any such Federal credit union and the tax shall not exceed the rate of taxes imposed upon holdings in domestic credit unions.
 
-(June 26, 1934, ch. 750, title I, § 122, formerly § 18, 48 Stat. 1222; Dec. 6, 1937, ch. 3, § 4, 51 Stat. 4; renumbered § 23 and amended Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 637; renumbered title I, § 122, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994.)
+(June 26, 1934, ch. 750, title I, § 122, formerly § 18, 48 Stat. 1222; Dec. 6, 1937, ch. 3, § 4, 51 Stat. 4; renumbered § 23 and amended Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 637; renumbered title I, § 122, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994.)
 
 **Editorial Notes**
 
@@ -1615,33 +1615,33 @@ The Federal credit unions organized hereunder, their property, their franchises,
 
 1937—Act Dec. 6, 1937, inserted tax exemption provision, the real and tangible personal property proviso, provided that responsibility of tax collection would not be imposed upon Federal credit unions, and that tax rate would not exceed that of domestic credit unions.
 
-### § 1769. Separability; right to alter, amend, or repeal chapter
+### § 1769. Separability; right to alter, amend, or repeal chapter
 
 **(a)** If any provision of this chapter, or the application thereof to any person or circumstance, is held invalid, the remainder of the chapter, and the application of such provision to other persons or circumstances, shall not be affected thereby.
 
 **(b)** The right to alter, amend, or repeal this chapter or any part thereof, or any charter issued pursuant to the provisions of this chapter, is expressly reserved.
 
-(June 26, 1934, ch. 750, title I, § 123, formerly § 24, as added Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 637; renumbered title I, § 123, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994.)
+(June 26, 1934, ch. 750, title I, § 123, formerly § 24, as added Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 637; renumbered title I, § 123, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1769, act June 26, 1934, ch. 750, § 19, 48 Stat. 1222, made available not more than $50,000 of the funds available to the Governor of the Farm Credit Administration, under former section 1404 of this title, for administrative expenses in administering this chapter, prior to the amendment of act June 26, 1934, by Pub. L. 86–354.
+A prior section 1769, act June 26, 1934, ch. 750, § 19, 48 Stat. 1222, made available not more than $50,000 of the funds available to the Governor of the Farm Credit Administration, under former section 1404 of this title, for administrative expenses in administering this chapter, prior to the amendment of act June 26, 1934, by Pub. L. 86–354.
 
 Provisions similar to those comprising this section were contained in section 20 of act June 26, 1934, ch. 750, 48 Stat. 1222 (formerly classified to section 1770 of this title), prior to the amendment and renumbering of act June 26, 1934, by Pub. L. 86–354.
 
-### § 1770. Allotment of space in Federal buildings or Federal land
+### § 1770. Allotment of space in Federal buildings or Federal land
 
 Notwithstanding any other provision of law, upon application by any credit union organized under State law or by any Federal credit union organized in accordance with the terms of this chapter, which application shall be addressed to the officer or agency of the United States charged with the allotment of space on lands reserved for the use of, and under the exclusive or concurrent jurisdiction of, the United States or in the Federal buildings in the community or district in which such credit union does business, such officer or agency may in his or its discretion lease land or allot space to such credit union without charge for rent or services if at least 95 percent of the membership of the credit union to be served by the allotment of space or the facility built on the lease land is composed of persons who either are presently Federal employees or were Federal employees at the time of admission into the credit union, and members of their families, and if space is available. For the purpose of this section, the term “services” includes, but is not limited to, the providing of lighting, heating, cooling, electricity, office furniture, office machines and equipment, telephone service (including installation of lines and equipment and other expenses associated with telephone service), and security systems (including installation and other expenses associated with security systems). Where there is an agreement for the payment of costs associated with the provision of space or services, nothing in title 31 or any other provision of law, shall be construed to prohibit or restrict payment by reimbursement to the miscellaneous receipts or other appropriate account of the Treasury.
 
-(June 26, 1934, ch. 750, title I, § 124, formerly § 25, as added Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 638; renumbered title I, § 124, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 97–320, title V, § 515, Oct. 15, 1982, 96 Stat. 1530; Pub. L. 97–457, § 27, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 103–160, div. B, title XXVIII, § 2854, Nov. 30, 1993, 107 Stat. 1908; Pub. L. 103–337, div. A, title X, § 1070(b)(12), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 109–351, title V, § 501, Oct. 13, 2006, 120 Stat. 1974.)
+(June 26, 1934, ch. 750, title I, § 124, formerly § 25, as added Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 638; renumbered title I, § 124, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 97–320, title V, § 515, Oct. 15, 1982, 96 Stat. 1530; Pub. L. 97–457, § 27, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 103–160, div. B, title XXVIII, § 2854, Nov. 30, 1993, 107 Stat. 1908; Pub. L. 103–337, div. A, title X, § 1070(b)(12), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 109–351, title V, § 501, Oct. 13, 2006, 120 Stat. 1974.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1770, act June 26, 1934, ch. 750, § 20, 48 Stat. 1222, related to separability of provisions and right to alter, amend, or repeal chapter, prior to the amendment of act June 26, 1934, by Pub. L. 86–354. See section 1769 of this title.
+A prior section 1770, act June 26, 1934, ch. 750, § 20, 48 Stat. 1222, related to separability of provisions and right to alter, amend, or repeal chapter, prior to the amendment of act June 26, 1934, by Pub. L. 86–354. See section 1769 of this title.
 
 Provisions similar to those comprising this section were contained in section 21 of act June 26, 1934, ch. 750, as added July 9, 1937, ch. 471, 50 Stat. 487 (formerly classified to section 1771 of this title), prior to the amendment and renumbering of act June 26, 1934, by Pub. L. 86–354.
 
@@ -1649,11 +1649,11 @@ Provisions similar to those comprising this section were contained in section 21
 
 2006—Pub. L. 109–351, in section catchline, inserted “or Federal land” after “buildings” and, in text, substituted “Notwithstanding any other provision of law, upon application by any credit union” for “Upon application by any credit union” and inserted “on lands reserved for the use of, and under the exclusive or concurrent jurisdiction of, the United States or” after “officer or agency of the United States charged with the allotment of space”, “lease land or” after “such officer or agency may in his or its discretion”, and “or the facility built on the lease land” after “credit union to be served by the allotment of space”.
 
-1994—Pub. L. 103–337 made technical correction to Pub. L. 103–160, § 2854(1). See 1993 Amendment note below.
+1994—Pub. L. 103–337 made technical correction to Pub. L. 103–160, § 2854(1). See 1993 Amendment note below.
 
-1993—Pub. L. 103–160, § 2854(2), substituted “allot space to such credit union without charge for rent or services if at least 95 percent of the membership of the credit union to be served by the allotment of space is composed of persons who either are presently Federal employees or were Federal employees at the time of admission into the credit union, and members of their families, and if space is available.” for “allot space to such credit union if space is available without charge for rent or services.”
+1993—Pub. L. 103–160, § 2854(2), substituted “allot space to such credit union without charge for rent or services if at least 95 percent of the membership of the credit union to be served by the allotment of space is composed of persons who either are presently Federal employees or were Federal employees at the time of admission into the credit union, and members of their families, and if space is available.” for “allot space to such credit union if space is available without charge for rent or services.”
 
-Pub. L. 103–160, § 2854(1), as amended by Pub. L. 103–337, struck out “at least 95 per centum of the membership of which is composed of persons who either are presently Federal employees or were Federal employees at the time of admission into the credit union, and members of their families,” after “terms of this chapter”.
+Pub. L. 103–160, § 2854(1), as amended by Pub. L. 103–337, struck out “at least 95 per centum of the membership of which is composed of persons who either are presently Federal employees or were Federal employees at the time of admission into the credit union, and members of their families,” after “terms of this chapter”.
 
 1983—Pub. L. 97–457 inserted “of” after “including installation”.
 
@@ -1663,9 +1663,9 @@ Pub. L. 103–160, § 2854(1), as amended by Pub. L. 103–337, struck out “
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–337, div. A, title X, § 1070(b), Oct. 5, 1994, 108 Stat. 2856, provided that the amendment made by that section is effective as of Nov. 30, 1993, and as if included in the National Defense Authorization Act for Fiscal Year 1994, Pub. L. 103–160, as enacted.
+Pub. L. 103–337, div. A, title X, § 1070(b), Oct. 5, 1994, 108 Stat. 2856, provided that the amendment made by that section is effective as of Nov. 30, 1993, and as if included in the National Defense Authorization Act for Fiscal Year 1994, Pub. L. 103–160, as enacted.
 
-### § 1771. Conversion from Federal to State credit union and from State to Federal credit union
+### § 1771. Conversion from Federal to State credit union and from State to Federal credit union
 
 **(a)** A Federal credit union may be converted into a State credit union under the laws of any State, the District of Columbia, the several Territories and possessions of the United States, the Panama Canal Zone, or the Commonwealth of Puerto Rico, by complying with the following requirements:
 
@@ -1683,7 +1683,7 @@ Pub. L. 103–337, div. A, title X, § 1070(b), Oct. 5, 1994, 108 Stat. 2856, 
 
 **(2)** When the Board has been satisfied that all of such requirements, and all other requirements of this chapter, have been complied with, the Board shall approve the organization certificate. Upon such approval, the State credit union shall become a Federal credit union as of the date it ceases to be a State credit union. The Federal credit union shall be vested with all of the assets and shall continue responsible for all of the obligations of the State credit union to the same extent as though the conversion had not taken place.
 
-(June 26, 1934, ch. 750, title I, § 125, formerly § 26, as added Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 638; amended Pub. L. 91–206, § 2(1), (3), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 125, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, § 527, Oct. 15, 1982, 96 Stat. 1535.)
+(June 26, 1934, ch. 750, title I, § 125, formerly § 26, as added Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 638; amended Pub. L. 91–206, § 2(1), (3), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 125, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, § 527, Oct. 15, 1982, 96 Stat. 1535.)
 
 **Editorial Notes**
 
@@ -1693,11 +1693,11 @@ For definition of Canal Zone, referred to in text, see section 3602(b) of Title 
 
 **Prior Provisions**
 
-A prior section 1771, act June 26, 1934, ch. 750, § 21, as added July 9, 1937, ch. 471, 50 Stat. 487, related to allotment of space in Federal buildings, prior to the amendment of act June 26, 1934, by Pub. L. 86–354. See section 1770 of this title.
+A prior section 1771, act June 26, 1934, ch. 750, § 21, as added July 9, 1937, ch. 471, 50 Stat. 487, related to allotment of space in Federal buildings, prior to the amendment of act June 26, 1934, by Pub. L. 86–354. See section 1770 of this title.
 
 **Amendments**
 
-1982—Subsec. (a)(1). Pub. L. 97–320 substituted “of the credit union who vote on the proposal” for “, in person or in writing”, and inserted provision that the written notice of the proposition shall in boldface type state that the issue will be decided by a majority of the members who vote.
+1982—Subsec. (a)(1). Pub. L. 97–320 substituted “of the credit union who vote on the proposal” for “, in person or in writing”, and inserted provision that the written notice of the proposition shall in boldface type state that the issue will be decided by a majority of the members who vote.
 
 1978—Subsec. (b). Pub. L. 95–630 substituted “Board” for “Administrator” in two places.
 
@@ -1709,11 +1709,11 @@ A prior section 1771, act June 26, 1934, ch. 750, § 21, as added July 9, 1937
 
 Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
 
-### § 1772. Territorial application of chapter
+### § 1772. Territorial application of chapter
 
 The provisions of this chapter shall apply to the several States, the District of Columbia, the several Territories, including the trust territories, and possessions of the United States, the Panama Canal Zone, and the Commonwealth of Puerto Rico.
 
-(June 26, 1934, ch. 750, title I, § 126, formerly § 22, as added July 31, 1946, ch. 711, § 7, 60 Stat. 745; amended May 8, 1952, ch. 245, 66 Stat. 66, renumbered § 27 and amended Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 638; renumbered title I, § 126, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 93–383, title VII, § 726, Aug. 22, 1974, 88 Stat. 720.)
+(June 26, 1934, ch. 750, title I, § 126, formerly § 22, as added July 31, 1946, ch. 711, § 7, 60 Stat. 745; amended May 8, 1952, ch. 245, 66 Stat. 66, renumbered § 27 and amended Pub. L. 86–354, § 1, Sept. 22, 1959, 73 Stat. 638; renumbered title I, § 126, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 93–383, title VII, § 726, Aug. 22, 1974, 88 Stat. 720.)
 
 **Editorial Notes**
 
@@ -1729,11 +1729,11 @@ For definition of Canal Zone, referred to in text, see section 3602(b) of Title 
 
 1952—Act May 8, 1952, amended section to extend provisions of this chapter to the Virgin Islands.
 
-### § 1772a. Gifts; acceptance of conditional gifts; deposit
+### § 1772a. Gifts; acceptance of conditional gifts; deposit
 
 The Board is authorized to accept gifts of money made unconditionally by will or otherwise for the carrying out of any of the functions under this chapter. A conditional gift of money made by will or otherwise for such purposes may be accepted and used in accordance with its conditions, but no such gift shall be accepted which is conditioned upon any expenditure not to be met therefrom or from income thereof unless the Board determines that supplementation of such gift from the fees it may expend pursuant to sections 1755 and 1756 of this title or from any funds appropriated pursuant to section 1766(f)(2)(C) of this title for the purpose of making such expenditure will not adversely affect the sound administration of this chapter. Any such gift shall be deposited in the Treasury of the United States for the account of the Administration and may be expended in accordance with section 1755 of this title or as provided in the preceding sentence.
 
-(June 26, 1934, ch. 750, title I, § 127, formerly § 28, as added Pub. L. 90–375, § 3, July 5, 1968, 82 Stat. 285; amended Pub. L. 91–206, § 2(1), (3), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 127, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681.)
+(June 26, 1934, ch. 750, title I, § 127, formerly § 28, as added Pub. L. 90–375, § 3, July 5, 1968, 82 Stat. 285; amended Pub. L. 91–206, § 2(1), (3), Mar. 10, 1970, 84 Stat. 49; renumbered title I, § 127, Pub. L. 91–468, § 1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681.)
 
 **Editorial Notes**
 
@@ -1749,29 +1749,29 @@ The Board is authorized to accept gifts of money made unconditionally by will or
 
 Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
 
-### § 1772b. Apportionment
+### § 1772b. Apportionment
 
 Notwithstanding any other provision of law, funds received by the Board pursuant to any method provided by this chapter, and interest, dividend, or other income thereon, shall not be subject to apportionment for the purpose of chapter 15 of title 31 or under any other authority.
 
-(June 26, 1934, ch. 750, title I, § 128, as added Pub. L. 100–86, title V, § 505(e), Aug. 10, 1987, 101 Stat. 633.)
+(June 26, 1934, ch. 750, title I, § 128, as added Pub. L. 100–86, title V, § 505(e), Aug. 10, 1987, 101 Stat. 633.)
 
-### § 1772c. Trust fund
+### § 1772c. Trust fund
 
-Notwithstanding any other provision of law, all moneys of the Board shall be treated as trust funds for the purpose of section 906(a)(2) 1
+Notwithstanding any other provision of law, all moneys of the Board shall be treated as trust funds for the purpose of section 906(a)(2) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 2. This section is effective for fiscal year 1986 and every fiscal year thereafter.
 
-(June 26, 1934, ch. 750, title I, § 129, as added Pub. L. 100–86, title VII, § 708, Aug. 10, 1987, 101 Stat. 653.)
+(June 26, 1934, ch. 750, title I, § 129, as added Pub. L. 100–86, title VII, § 708, Aug. 10, 1987, 101 Stat. 653.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 906(a) of title 2, referred to in text, was amended generally by Pub. L. 101–508, title XIII, § 13101(d)(1), Nov. 5, 1990, 104 Stat. 1388–589, and subsequently repealed by Pub. L. 111–139, title I, § 10(a), Feb. 12, 2010, 124 Stat. 21. Provisions similar to those formerly appearing in section 906(a)(2) are now contained in section 906(k)(6) of Title 2, The Congress.
+Section 906(a) of title 2, referred to in text, was amended generally by Pub. L. 101–508, title XIII, § 13101(d)(1), Nov. 5, 1990, 104 Stat. 1388–589, and subsequently repealed by Pub. L. 111–139, title I, § 10(a), Feb. 12, 2010, 124 Stat. 21. Provisions similar to those formerly appearing in section 906(a)(2) are now contained in section 906(k)(6) of Title 2, The Congress.
 
-### § 1772c–1. Community development revolving loan fund for credit unions
+### § 1772c–1. Community development revolving loan fund for credit unions
 
 **(a) In general**
 
@@ -1793,7 +1793,7 @@ Interest earned by the Fund may be allocated by the Board for technical assistan
 
 As used in this section, the term “Fund” means the Community Development Credit Union Revolving Loan Fund.
 
-(June 26, 1934, ch. 750, title I, § 130, as added Pub. L. 103–325, title I, § 120(b), Sept. 23, 1994, 108 Stat. 2188.)
+(June 26, 1934, ch. 750, title I, § 130, as added Pub. L. 103–325, title I, § 120(b), Sept. 23, 1994, 108 Stat. 2188.)
 
 **Editorial Notes**
 
@@ -1801,7 +1801,7 @@ As used in this section, the term “Fund” means the Community Development Cre
 
 The Community Development Credit Union Revolving Loan Fund Transfer Act, referred to in subsec. (a), is Pub. L. 99–609, Nov. 6, 1986, 100 Stat. 3475, which is set out as a note under section 9822 of Title 42, The Public Health and Welfare.
 
-### § 1772d. Forfeiture of organization certificate for money laundering or cash transaction reporting offenses
+### § 1772d. Forfeiture of organization certificate for money laundering or cash transaction reporting offenses
 
 **(a) Forfeiture of franchise for money laundering or cash transaction reporting offenses**
 
@@ -1839,7 +1839,7 @@ Section 1786(j) of this title shall apply to any proceeding under this section.
 
 This section shall not apply to a successor to the interests of, or a person who acquires, a credit union that violated a provision of law described in subsection (a), if the successor succeeds to the interests of the violator, or the acquisition is made, in good faith and not for purposes of evading this section or regulations prescribed under this section.
 
-(June 26, 1934, ch. 750, title I, § 131, as added Pub. L. 102–550, title XV, § 1502(c), Oct. 28, 1992, 106 Stat. 4047; amended Pub. L. 103–325, title IV, § 411(c)(2)(B), Sept. 23, 1994, 108 Stat. 2253.)
+(June 26, 1934, ch. 750, title I, § 131, as added Pub. L. 102–550, title XV, § 1502(c), Oct. 28, 1992, 106 Stat. 4047; amended Pub. L. 103–325, title IV, § 411(c)(2)(B), Sept. 23, 1994, 108 Stat. 2253.)
 
 **Editorial Notes**
 
@@ -1847,7 +1847,7 @@ This section shall not apply to a successor to the interests of, or a person who
 
 1994—Subsec. (a)(2). Pub. L. 103–325 substituted “section 5322 or 5324 of title 31” for “section 5322 of title 31”.
 
-### § 1772e. Data standards
+### § 1772e. Data standards
 
 **(a) Requirement**
 
@@ -1857,15 +1857,15 @@ The Board shall, by rule, adopt data standards for all collections of informatio
 
 The data standards required under subsection (a) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of this title, including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
 
-(June 26, 1934, ch. 750, title I, § 132, as added Pub. L. 117–263, div. E, title LVIII, § 5871, Dec. 23, 2022, 136 Stat. 3436.)
+(June 26, 1934, ch. 750, title I, § 132, as added Pub. L. 117–263, div. E, title LVIII, § 5871, Dec. 23, 2022, 136 Stat. 3436.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Rulemaking**
 
-Pub. L. 117–263, div. E, title LVIII, § 5873, Dec. 23, 2022, 136 Stat. 3436, provided that:
+Pub. L. 117–263, div. E, title LVIII, § 5873, Dec. 23, 2022, 136 Stat. 3436, provided that:
 
-> **“(a) In General.—** The National Credit Union Administration Board shall issue rules to carry out the amendments made by this subtitle [subtitle G (§§ 5871–5874) of title LVIII of div. E of Pub. L. 117–263, enacting this section and section 1772f of this title], which shall take effect not later than 2 years after the date on which final rules are promulgated under section 124(b)(2) of the Financial Stability Act of 2010 [12 U.S.C. 5334(b)(2)], as added by section 5811(a) of this title.
+> **“(a) In General.—** The National Credit Union Administration Board shall issue rules to carry out the amendments made by this subtitle [subtitle G (§§ 5871–5874) of title LVIII of div. E of Pub. L. 117–263, enacting this section and section 1772f of this title], which shall take effect not later than 2 years after the date on which final rules are promulgated under section 124(b)(2) of the Financial Stability Act of 2010 [12 U.S.C. 5334(b)(2)], as added by section 5811(a) of this title.
 
 > **“(b) Scaling of Regulatory Requirements; Minimizing Disruption.—** In issuing the rules required under subsection (a), the National Credit Union Administration Board—
 
@@ -1875,9 +1875,9 @@ Pub. L. 117–263, div. E, title LVIII, § 5873, Dec. 23, 2022, 136 Stat. 3436
 
 **Rule of Construction Regarding No New Disclosure Requirements**
 
-Pub. L. 117–263, div. E, title LVIII, § 5874, Dec. 23, 2022, 136 Stat. 3437, provided that: “Nothing in this subtitle [subtitle G (§§ 5871–5874) of title LVIII of div. E of Pub. L. 117–263, enacting this section, section 1772f of this title, and provisions set out as a note under this section], or the amendments made by this subtitle, shall be construed to require the National Credit Union Administration Board to collect or make publicly available additional information under the Federal Credit Union Act (12 U.S.C. 1751 et seq.), beyond information that was collected or made publicly available under that Act, as of the day before the date of enactment of this Act [Dec. 23, 2022].”
+Pub. L. 117–263, div. E, title LVIII, § 5874, Dec. 23, 2022, 136 Stat. 3437, provided that: “Nothing in this subtitle [subtitle G (§§ 5871–5874) of title LVIII of div. E of Pub. L. 117–263, enacting this section, section 1772f of this title, and provisions set out as a note under this section], or the amendments made by this subtitle, shall be construed to require the National Credit Union Administration Board to collect or make publicly available additional information under the Federal Credit Union Act (12 U.S.C. 1751 et seq.), beyond information that was collected or made publicly available under that Act, as of the day before the date of enactment of this Act [Dec. 23, 2022].”
 
-### § 1772f. Open data publication
+### § 1772f. Open data publication
 
 All public data assets published by the Administration under this subchapter shall be—
 
@@ -1889,7 +1889,7 @@ All public data assets published by the Administration under this subchapter sha
 
 **(4)** accessible via application programming interface where appropriate.
 
-(June 26, 1934, ch. 750, title I, § 133, as added Pub. L. 117–263, div. E, title LVIII, § 5872, Dec. 23, 2022, 136 Stat. 3436.)
+(June 26, 1934, ch. 750, title I, § 133, as added Pub. L. 117–263, div. E, title LVIII, § 5872, Dec. 23, 2022, 136 Stat. 3436.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1897,17 +1897,17 @@ All public data assets published by the Administration under this subchapter sha
 
 Enactment of section not to be construed to require certain additional information to be collected or disclosed, see section 5874 of Pub. L. 117–263, set out as a note under section 1772e of this title.
 
-### § 1773. District of Columbia credit unions; conversion to Federal status
+### § 1773. District of Columbia credit unions; conversion to Federal status
 
 Any credit union organized under the District of Columbia Credit Unions Act, as amended, may apply for conversion into a Federal credit union by filing with the National Credit Union Administration Board (in sections 1773 to 1775 of this title referred to as the Board), pursuant to a resolution adopted by a majority of its directors, an organization certificate meeting the requirements of section 1753 of this title.
 
-(Pub. L. 88–395, § 1, Aug. 1, 1964, 78 Stat. 377; Pub. L. 91–206, § 3, Mar. 10, 1970, 84 Stat. 49; Pub. L. 95–630, title V, § 501, Nov. 10, 1978, 92 Stat. 3680.)
+(Pub. L. 88–395, § 1, Aug. 1, 1964, 78 Stat. 377; Pub. L. 91–206, § 3, Mar. 10, 1970, 84 Stat. 49; Pub. L. 95–630, title V, § 501, Nov. 10, 1978, 92 Stat. 3680.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The District of Columbia Credit Unions Act, referred to in text, was repealed by Pub. L. 88–395, § 4, Aug. 1, 1964, 78 Stat. 377.
+The District of Columbia Credit Unions Act, referred to in text, was repealed by Pub. L. 88–395, § 4, Aug. 1, 1964, 78 Stat. 377.
 
 **Codification**
 
@@ -1921,13 +1921,13 @@ Section was not enacted as part of the Federal Credit Union Act which comprises 
 
 **Repeals; Revocation of Organization Certificates Issued Under District of Columbia Credit Unions Act**
 
-Pub. L. 88–395, § 4, Aug. 1, 1964, 78 Stat. 377, provided that: “Effective thirty days after enactment of this Act [Aug. 1, 1964], the District of Columbia Credit Unions Act (47 Stat. 326), as amended, is repealed and all organization certificates issued thereunder and still in force are revoked.”
+Pub. L. 88–395, § 4, Aug. 1, 1964, 78 Stat. 377, provided that: “Effective thirty days after enactment of this Act [Aug. 1, 1964], the District of Columbia Credit Unions Act (47 Stat. 326), as amended, is repealed and all organization certificates issued thereunder and still in force are revoked.”
 
-### § 1774. Approval of certificate; assets and obligations of applicant credit union
+### § 1774. Approval of certificate; assets and obligations of applicant credit union
 
 The Board shall approve any such organization certificate meeting such requirements. Upon such approval, the applicant credit union shall become a Federal credit union, and shall be vested with all of the assets and shall continue responsible for all of the obligations of such applicant credit union to the same extent as though the conversion had not taken place.
 
-(Pub. L. 88–395, § 2, Aug. 1, 1964, 78 Stat. 377; Pub. L. 91–206, § 3, Mar. 10, 1970, 84 Stat. 49; Pub. L. 95–630, title V, § 501, Nov. 10, 1978, 92 Stat. 3680.)
+(Pub. L. 88–395, § 2, Aug. 1, 1964, 78 Stat. 377; Pub. L. 91–206, § 3, Mar. 10, 1970, 84 Stat. 49; Pub. L. 95–630, title V, § 501, Nov. 10, 1978, 92 Stat. 3680.)
 
 **Editorial Notes**
 
@@ -1941,7 +1941,7 @@ Section was not enacted as part of the Federal Credit Union Act which comprises 
 
 “Board”, meaning the National Credit Union Administration Board, substituted in text for “Director”, meaning Director of Bureau of Federal Credit Unions, pursuant to section 3 of Pub. L. 91–206 and section 501 of Pub. L. 95–630 [12 U.S.C. 1752a] which transferred functions of Bureau of Federal Credit Unions, and Director thereof, to National Credit Union Administration and vested authority for management of Administration in National Credit Union Administration Board.
 
-### § 1775. Conditions upon conversion to Federal status
+### § 1775. Conditions upon conversion to Federal status
 
 Any District of Columbia credit union converting into a Federal credit union in accordance with sections 1773 to 1775 of this title shall thereupon be subject to the limitations, vested with the powers, and charged with the liabilities conferred and imposed by the Federal Credit Union Act [12 U.S.C. 1751 et seq.] upon credit unions organized thereunder, except that—
 
@@ -1951,7 +1951,7 @@ Any District of Columbia credit union converting into a Federal credit union in 
 
 **(3)** a credit union converting pursuant to sections 1773 to 1775 of this title shall submit proposed bylaws to the Board for the Board’s approval after its conversion, but not later than thirty days following its next annual meeting or six months after August 1, 1964, whichever is later: *Provided*, That any existing bylaw inconsistent with any other requirements of the Federal Credit Union Act shall be deemed null and void.
 
-(Pub. L. 88–395, § 3, Aug. 1, 1964, 78 Stat. 377; Pub. L. 91–206, § 3, Mar. 10, 1970, 84 Stat. 49; Pub. L. 95–630, title V, § 501, Nov. 10, 1978, 92 Stat. 3680.)
+(Pub. L. 88–395, § 3, Aug. 1, 1964, 78 Stat. 377; Pub. L. 91–206, § 3, Mar. 10, 1970, 84 Stat. 49; Pub. L. 95–630, title V, § 501, Nov. 10, 1978, 92 Stat. 3680.)
 
 **Editorial Notes**
 
@@ -1959,7 +1959,7 @@ Any District of Columbia credit union converting into a Federal credit union in 
 
 The Federal Credit Union Act, referred to in text, is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
 
-The District of Columbia Credit Unions Act, referred to in par. (2), was act June 23, 1932, ch. 272, 47 Stat. 326, and was repealed by Pub. L. 88–395, § 4, Aug. 1, 1964, 78 Stat. 377.
+The District of Columbia Credit Unions Act, referred to in par. (2), was act June 23, 1932, ch. 272, 47 Stat. 326, and was repealed by Pub. L. 88–395, § 4, Aug. 1, 1964, 78 Stat. 377.
 
 **Codification**
 
@@ -1973,7 +1973,7 @@ Section was not enacted as part of the Federal Credit Union Act which comprises 
 
 ## SUBCHAPTER II—SHARE INSURANCE
 
-### § 1781. Insurance of member accounts
+### § 1781. Insurance of member accounts
 
 **(a) Eligibility**
 
@@ -2015,7 +2015,7 @@ The Board, as hereinafter provided, shall insure the member accounts of all Fede
 
 **(2)** The Board shall disapprove the application of any credit union for insurance of its member accounts if it finds that its reserves are inadequate, that its financial condition and policies are unsafe or unsound, that its management is unfit, that insurance of its member accounts would otherwise involve undue risk to the fund, or that its powers and purposes are inconsistent with the promotion of thrift among its members and the creation of a source of credit for provident or productive purposes.
 
-**(3)** Repealed. Pub. L. 95–22, title III, § 301, Apr. 19, 1977, 91 Stat. 49.
+**(3)** Repealed. Pub. L. 95–22, title III, § 301, Apr. 19, 1977, 91 Stat. 49.
 
 **(d) Certificate of insurance**
 
@@ -2039,7 +2039,7 @@ For purposes of this subsection, the term “Government-sponsored enterprise” 
 
 No provision of this subsection shall be construed as prohibiting any employee of a Government-sponsored enterprise from becoming a member of a credit union whose field of membership is the employees of such enterprise.
 
-(June 26, 1934, ch. 750, title II, § 201, as added Pub. L. 91–468, § 1(3), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 92–221, §§ 1, 2, Dec. 23, 1971, 85 Stat. 796, 797; Pub. L. 95–22, title III, § 301, Apr. 19, 1977, 91 Stat. 49; Pub. L. 95–630, title V, §§ 502(b), 504, Nov. 10, 1978, 92 Stat. 3681, 3682; Pub. L. 98–369, div. B, title VIII, § 2801, July 18, 1984, 98 Stat. 1203; Pub. L. 104–208, div. A, title II, § 2615(a), Sept. 30, 1996, 110 Stat. 3009–478; Pub. L. 109–351, title VII, § 726(11), Oct. 13, 2006, 120 Stat. 2002.)
+(June 26, 1934, ch. 750, title II, § 201, as added Pub. L. 91–468, § 1(3), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 92–221, §§ 1, 2, Dec. 23, 1971, 85 Stat. 796, 797; Pub. L. 95–22, title III, § 301, Apr. 19, 1977, 91 Stat. 49; Pub. L. 95–630, title V, §§ 502(b), 504, Nov. 10, 1978, 92 Stat. 3681, 3682; Pub. L. 98–369, div. B, title VIII, § 2801, July 18, 1984, 98 Stat. 1203; Pub. L. 104–208, div. A, title II, § 2615(a), Sept. 30, 1996, 110 Stat. 3009–478; Pub. L. 109–351, title VII, § 726(11), Oct. 13, 2006, 120 Stat. 2002.)
 
 **Editorial Notes**
 
@@ -2057,33 +2057,33 @@ Section 1404(e)(1)(A) of the Financial Institutions Reform, Recovery, and Enforc
 
 1984—Subsec. (b)(8). Pub. L. 98–369 inserted provisions relating to payment and maintenance of the deposit.
 
-1978—Subsec. (a). Pub. L. 95–630, §§ 502(b), 504(a), substituted “Board” for “Administrator” and “it” for “he”, and inserted “, including the trust territories,” after “the several territories”.
+1978—Subsec. (a). Pub. L. 95–630, §§ 502(b), 504(a), substituted “Board” for “Administrator” and “it” for “he”, and inserted “, including the trust territories,” after “the several territories”.
 
-Subsec. (b). Pub. L. 95–630, §§ 502(b), 504(b), substituted “Board” for “Administrator” wherever appearing and inserted in par. (7) “except for accounts authorized by State law for State credit unions” after “by the Board”.
+Subsec. (b). Pub. L. 95–630, §§ 502(b), 504(b), substituted “Board” for “Administrator” wherever appearing and inserted in par. (7) “except for accounts authorized by State law for State credit unions” after “by the Board”.
 
-Subsec. (c). Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” wherever appearing, and in par. (2) substituted “it” for “he” before “finds”.
+Subsec. (c). Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” wherever appearing, and in par. (2) substituted “it” for “he” before “finds”.
 
-Subsecs. (d), (e). Pub. L. 95–630, §§ 502(b), 504(c), struck out subsec. (d), redesignated subsec. (e) as (d) and substituted “Board” for “Administrator”.
+Subsecs. (d), (e). Pub. L. 95–630, §§ 502(b), 504(c), struck out subsec. (d), redesignated subsec. (e) as (d) and substituted “Board” for “Administrator”.
 
 1977—Subsec. (c)(3). Pub. L. 95–22 struck out par. (3) which provided for approval by Administrator of applications of State credit unions for insurance of its member accounts where credit union meets requirements of this chapter and where in the event of liquidation of the credit union, the claims with respect to demand deposit accounts shall be subordinate to the claims with respect to member accounts.
 
-1971—Subsec. (c)(2). Pub. L. 92–221, § 1(a), substituted “disapproved” for “reject”.
+1971—Subsec. (c)(2). Pub. L. 92–221, § 1(a), substituted “disapproved” for “reject”.
 
-Subsec. (c)(3). Pub. L. 92–221, § 2, added par. (3).
+Subsec. (c)(3). Pub. L. 92–221, § 2, added par. (3).
 
-Subsec. (d). Pub. L. 92–221, § 1(b), substituted provisions allowing, in certain cases, a two–year period to meet the requirements for insurance following the disapproval of an application for insurance by a Federal credit union, for provisions mandating the suspension or revocation of the charter of a Federal credit union unless the credit union met the requirements for insurance and became an insured credit union within one year of the rejection of its application for insurance.
+Subsec. (d). Pub. L. 92–221, § 1(b), substituted provisions allowing, in certain cases, a two–year period to meet the requirements for insurance following the disapproval of an application for insurance by a Federal credit union, for provisions mandating the suspension or revocation of the charter of a Federal credit union unless the credit union met the requirements for insurance and became an insured credit union within one year of the rejection of its application for insurance.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title II, § 2615(c), Sept. 30, 1996, 110 Stat. 3009–479, provided that: “The amendments made by this section [amending this section and section 1828 of this title] shall apply on and after January 1, 1996.”
+Pub. L. 104–208, div. A, title II, § 2615(c), Sept. 30, 1996, 110 Stat. 3009–479, provided that: “The amendments made by this section [amending this section and section 1828 of this title] shall apply on and after January 1, 1996.”
 
 **Effective Date of 1978 Amendment**
 
 Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
 
-### § 1782. Administration of insurance fund
+### § 1782. Administration of insurance fund
 
 **(a) Reports of condition**
 
@@ -2115,7 +2115,7 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
 **(ii) Board determination.—** If the Board determines that the application of any generally accepted accounting principle to any insured credit union is not appropriate, the Board may prescribe an accounting principle for application to the credit union that is no less stringent than generally accepted accounting principles.
 
-**(iii) De minimus 1 [footnote: 1 So in original. Probably should be “De minimis”.] exception.—** This subparagraph shall not apply to any insured credit union, the total assets of which are less than $10,000,000, unless prescribed by the Board or an appropriate State credit union supervisor.
+**(iii) De minimus 1 [footnote: 1 So in original. Probably should be “De minimis”.] exception.—** This subparagraph shall not apply to any insured credit union, the total assets of which are less than $10,000,000, unless prescribed by the Board or an appropriate State credit union supervisor.
 
 **(D) Large credit union audit requirement.—**
 
@@ -2311,7 +2311,7 @@ The term “insured shares”, when applied to this section, includes share, sha
 
 The term “normal operating level”, when applied to the Fund, means an equity ratio specified by the Board, which shall be not less than 1.2 percent and not more than 1.5 percent.
 
-(June 26, 1934, ch. 750, title II, § 202, as added Pub. L. 91–468, § 1(3), Oct. 19, 1970, 84 Stat. 995; amended Pub. L. 93–383, title VII, § 727, Aug. 22, 1974, 88 Stat. 720; Pub. L. 95–630, title V, §§ 502(b), 505, Nov. 10, 1978, 92 Stat. 3681, 3682; Pub. L. 97–320, title V, §§ 528, 529, Oct. 15, 1982, 96 Stat. 1535; Pub. L. 97–457, § 29, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 98–369, div. B, title VIII, §§ 2802–2810, July 18, 1984, 98 Stat. 1204, 1205; Pub. L. 101–73, title IX, §§ 911(f), 919, 931(b), Aug. 9, 1989, 103 Stat. 482, 488, 493; Pub. L. 102–242, title III, § 313(b), Dec. 19, 1991, 105 Stat. 2369; Pub. L. 102–550, title XVI, § 1605(b)(3), Oct. 28, 1992, 106 Stat. 4087; Pub. L. 105–219, title II, § 201, title III, § 302(a), Aug. 7, 1998, 112 Stat. 918, 931; Pub. L. 109–351, title VII, §§ 707(b), 726(12), Oct. 13, 2006, 120 Stat. 1987, 2002; Pub. L. 111–22, div. A, title II, § 204(e), (f)(2), May 20, 2009, 123 Stat. 1651, 1653; Pub. L. 111–382, § 2, Jan. 4, 2011, 124 Stat. 4135.)
+(June 26, 1934, ch. 750, title II, § 202, as added Pub. L. 91–468, § 1(3), Oct. 19, 1970, 84 Stat. 995; amended Pub. L. 93–383, title VII, § 727, Aug. 22, 1974, 88 Stat. 720; Pub. L. 95–630, title V, §§ 502(b), 505, Nov. 10, 1978, 92 Stat. 3681, 3682; Pub. L. 97–320, title V, §§ 528, 529, Oct. 15, 1982, 96 Stat. 1535; Pub. L. 97–457, § 29, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 98–369, div. B, title VIII, §§ 2802–2810, July 18, 1984, 98 Stat. 1204, 1205; Pub. L. 101–73, title IX, §§ 911(f), 919, 931(b), Aug. 9, 1989, 103 Stat. 482, 488, 493; Pub. L. 102–242, title III, § 313(b), Dec. 19, 1991, 105 Stat. 2369; Pub. L. 102–550, title XVI, § 1605(b)(3), Oct. 28, 1992, 106 Stat. 4087; Pub. L. 105–219, title II, § 201, title III, § 302(a), Aug. 7, 1998, 112 Stat. 918, 931; Pub. L. 109–351, title VII, §§ 707(b), 726(12), Oct. 13, 2006, 120 Stat. 1987, 2002; Pub. L. 111–22, div. A, title II, § 204(e), (f)(2), May 20, 2009, 123 Stat. 1651, 1653; Pub. L. 111–382, § 2, Jan. 4, 2011, 124 Stat. 4135.)
 
 **Editorial Notes**
 
@@ -2319,17 +2319,17 @@ The term “normal operating level”, when applied to the Fund, means an equity
 
 2011—Subsec. (h)(2). Pub. L. 111–382 substituted “which shall be calculated using the financial statements of the Fund alone, without any consolidation or combination with the financial statements of any other fund or entity,” for “when applied to the Fund,” in introductory provisions.
 
-2009—Subsec. (c)(2)(D). Pub. L. 111–22, § 204(e), added subpar. (D).
+2009—Subsec. (c)(2)(D). Pub. L. 111–22, § 204(e), added subpar. (D).
 
-Subsec. (c)(3)(A). Pub. L. 111–22, § 204(f)(2), inserted “, subject to the requirements of section 1790e(e) of this title,” after “The Board shall” in introductory provisions.
+Subsec. (c)(3)(A). Pub. L. 111–22, § 204(f)(2), inserted “, subject to the requirements of section 1790e(e) of this title,” after “The Board shall” in introductory provisions.
 
-2006—Subsec. (a)(8). Pub. L. 109–351, § 707(b), added par. (8).
+2006—Subsec. (a)(8). Pub. L. 109–351, § 707(b), added par. (8).
 
-Subsec. (h)(3). Pub. L. 109–351, § 726(12), substituted “section 1787(k)(1) of this title” for “section 1787(c)(1) of this title”.
+Subsec. (h)(3). Pub. L. 109–351, § 726(12), substituted “section 1787(k)(1) of this title” for “section 1787(c)(1) of this title”.
 
-1998—Subsec. (a)(6). Pub. L. 105–219, § 201, substituted “subparagraph (A) or (D)” for “subparagraph (A)” in subpar. (B) and added subpars. (C) and (D).
+1998—Subsec. (a)(6). Pub. L. 105–219, § 201, substituted “subparagraph (A) or (D)” for “subparagraph (A)” in subpar. (B) and added subpars. (C) and (D).
 
-Subsec. (b). Pub. L. 105–219, § 302(a)(1), added subsec. (b) and struck out former subsec. (b) which read as follows:
+Subsec. (b). Pub. L. 105–219, § 302(a)(1), added subsec. (b) and struck out former subsec. (b) which read as follows:
 
 “(b)(1) For each insurance year, each insured credit union which became insured prior to the beginning of that year shall file with the Board, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the preceding insurance year and both the amount of its deposit or adjustment thereof and the amount of the premium charge for insurance due to the fund for that year, both as computed under subsection (c) of this section.
 
@@ -2337,17 +2337,17 @@ Subsec. (b). Pub. L. 105–219, § 302(a)(1), added subsec. (b) and struck out
 
 “(3) Each such statement shall be certified by the president of the credit union, or by any officer of the credit union designated by its board of directors, that to the best of his knowledge and belief that statement is true, correct, and complete and in accordance with this subchapter and regulations issued thereunder.”
 
-Subsec. (c)(1)(A)(iii). Pub. L. 105–219, § 302(a)(2), added cl. (iii) and struck out former cl. (iii) which read as follows: “The amount of each insured credit union’s deposit shall be adjusted annually, in accordance with procedures determined by the Board, to reflect changes in the credit union’s insured shares.”
+Subsec. (c)(1)(A)(iii). Pub. L. 105–219, § 302(a)(2), added cl. (iii) and struck out former cl. (iii) which read as follows: “The amount of each insured credit union’s deposit shall be adjusted annually, in accordance with procedures determined by the Board, to reflect changes in the credit union’s insured shares.”
 
-Subsec. (c)(2), (3). Pub. L. 105–219, § 302(a)(3), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
+Subsec. (c)(2), (3). Pub. L. 105–219, § 302(a)(3), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
 “(2) Each insured credit union, at such time as the Board prescribes, shall pay to the fund a premium charge for insurance equal to one–twelfth of 1 per centum of the total amount of the insured shares in such credit union at the close of the preceding insurance year.
 
 “(3) When, at the end of a given insurance year, any loans to the fund from the Federal Government and the interest thereon have been repaid and the equity of the fund exceeds the normal operating level, the Board shall effect for that insurance year a pro rata distribution to insured credit unions of an amount sufficient to reduce the equity in the fund to its normal operating level.”
 
-Subsec. (c)(4). Pub. L. 105–219, § 302(a)(4), added par. (4).
+Subsec. (c)(4). Pub. L. 105–219, § 302(a)(4), added par. (4).
 
-Subsec. (h). Pub. L. 105–219, § 302(a)(5), added subsec. (h) and struck out former subsec. (h) which read as follows: “For the purposes of this section—
+Subsec. (h). Pub. L. 105–219, § 302(a)(5), added subsec. (h) and struck out former subsec. (h) which read as follows: “For the purposes of this section—
 
 “(1) the term ‘insurance year’ means the period beginning on January 1 and ending on the following December 31, both dates inclusive, unless otherwise prescribed by the Board;
 
@@ -2359,55 +2359,55 @@ Subsec. (h). Pub. L. 105–219, § 302(a)(5), added subsec. (h) and struck out
 
 1991—Subsec. (d)(2). Pub. L. 102–242 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any insured credit union which willfully fails or refuses to file any certified statement or to pay its deposit or any premium charge for insurance required under this subchapter shall be subject to a penalty of not more than $100 for each day that such violation continues, which penalty the Board may recover for its use. The provisions of this paragraph shall not be applicable in any case in which the refusal to pay its deposit or the premium charge for insurance is due to a dispute between the insured credit union and the Board over the amount of its deposit or the premium charge due to the fund if the credit union deposits security satisfactory to the Board for payment of its deposit or the premium charge upon final determination of the issue.”
 
-1989—Subsec. (a)(3). Pub. L. 101–73, § 911(f), inserted provisions relating to penalties and agency hearings and struck out at end: “Every insured credit union which willfully fails to make or publish any such report within ten days shall be subject to a penalty of not more than $100 for each day of such failure, recoverable by the Board for its use.”
+1989—Subsec. (a)(3). Pub. L. 101–73, § 911(f), inserted provisions relating to penalties and agency hearings and struck out at end: “Every insured credit union which willfully fails to make or publish any such report within ten days shall be subject to a penalty of not more than $100 for each day of such failure, recoverable by the Board for its use.”
 
-Subsec. (a)(6). Pub. L. 101–73, § 919, added par. (6).
+Subsec. (a)(6). Pub. L. 101–73, § 919, added par. (6).
 
-Subsec. (a)(7). Pub. L. 101–73, § 931(b), added par. (7).
+Subsec. (a)(7). Pub. L. 101–73, § 931(b), added par. (7).
 
-1984—Subsec. (b). Pub. L. 98–369, § 2802, in amending subsec. (b) generally, revised existing provisions into numbered pars. (1) to (3) and in par. (1) substituted “For each insurance year, each insured credit union which became insured prior to the beginning of that year shall file with the Board, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the preceding insurance year and both the amount of its deposit or adjustment thereof and the amount of the premium charge for insurance due to the fund for that year, both as computed under subsection (c) of this section.” for “On or before January 31 of each insurance year, each insured credit union which became insured prior to the beginning of that year shall file with the Board a certified statement showing the total amount of the member accounts in the credit union at the close of the preceding insurance year and the amount of the premium charge for insurance due to the fund for that year, as computed under subsection (c) of this section.”
+1984—Subsec. (b). Pub. L. 98–369, § 2802, in amending subsec. (b) generally, revised existing provisions into numbered pars. (1) to (3) and in par. (1) substituted “For each insurance year, each insured credit union which became insured prior to the beginning of that year shall file with the Board, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the preceding insurance year and both the amount of its deposit or adjustment thereof and the amount of the premium charge for insurance due to the fund for that year, both as computed under subsection (c) of this section.” for “On or before January 31 of each insurance year, each insured credit union which became insured prior to the beginning of that year shall file with the Board a certified statement showing the total amount of the member accounts in the credit union at the close of the preceding insurance year and the amount of the premium charge for insurance due to the fund for that year, as computed under subsection (c) of this section.”
 
-Subsec. (c)(1). Pub. L. 98–369, § 2803(6), added par. (1). Former par. (1) redesignated (2).
+Subsec. (c)(1). Pub. L. 98–369, § 2803(6), added par. (1). Former par. (1) redesignated (2).
 
-Subsec. (c)(2). Pub. L. 98–369, § 2803(3)–(5), substituted “Each insured credit union, at such time as the Board prescribes” for “Except as provided in paragraph (2) of this subsection, each insured credit union, on or before January 31 of each insurance year” and “insured shares” for “member accounts”.
+Subsec. (c)(2). Pub. L. 98–369, § 2803(3)–(5), substituted “Each insured credit union, at such time as the Board prescribes” for “Except as provided in paragraph (2) of this subsection, each insured credit union, on or before January 31 of each insurance year” and “insured shares” for “member accounts”.
 
-Pub. L. 98–369, § 2803(1), (2), redesignated par. (1) as (2). Former par. (2), which related to payment of a premium charge for insurance by each credit union in existence prior to Oct. 19, 1970, and insured under this subchapter after January 1 of any insurance, was struck out.
+Pub. L. 98–369, § 2803(1), (2), redesignated par. (1) as (2). Former par. (2), which related to payment of a premium charge for insurance by each credit union in existence prior to Oct. 19, 1970, and insured under this subchapter after January 1 of any insurance, was struck out.
 
-Subsec. (c)(3). Pub. L. 98–369, § 2804, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “When any loans to the fund from the Federal Government and the interest thereon have been repaid and the amount in the fund equals or exceeds the normal operating level, the Board may reduce the premium charge for insurance, but not below the amount necessary, in its judgment, to maintain the fund at the normal operating level. Any such reduction shall be effective only so long as the amount in the fund equals or exceeds the normal operating level and no loan to the fund from the Federal Government is outstanding.”
+Subsec. (c)(3). Pub. L. 98–369, § 2804, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “When any loans to the fund from the Federal Government and the interest thereon have been repaid and the amount in the fund equals or exceeds the normal operating level, the Board may reduce the premium charge for insurance, but not below the amount necessary, in its judgment, to maintain the fund at the normal operating level. Any such reduction shall be effective only so long as the amount in the fund equals or exceeds the normal operating level and no loan to the fund from the Federal Government is outstanding.”
 
-Subsec. (c)(4). Pub. L. 98–369, § 2805, struck out par. (4) which provided that “If in any year expenditures from the fund exceed the income of the fund, the Board may require each insured credit union to pay to the fund for such year, in addition to the regular premium charge for insurance payable under paragraph (1), (2), or (3) of this subsection, a special premium charge which shall not exceed an amount equal to the amount of the regular premium charge”.
+Subsec. (c)(4). Pub. L. 98–369, § 2805, struck out par. (4) which provided that “If in any year expenditures from the fund exceed the income of the fund, the Board may require each insured credit union to pay to the fund for such year, in addition to the regular premium charge for insurance payable under paragraph (1), (2), or (3) of this subsection, a special premium charge which shall not exceed an amount equal to the amount of the regular premium charge”.
 
-Subsec. (d)(1), (2). Pub. L. 98–369, § 2806(a)(1), inserted “its deposit or” wherever appearing.
+Subsec. (d)(1), (2). Pub. L. 98–369, § 2806(a)(1), inserted “its deposit or” wherever appearing.
 
-Subsec. (d)(3). Pub. L. 98–369, § 2806(a), inserted “its deposit or” wherever appearing and substituted “insured shares” for “member accounts”.
+Subsec. (d)(3). Pub. L. 98–369, § 2806(a), inserted “its deposit or” wherever appearing and substituted “insured shares” for “member accounts”.
 
-Subsec. (e). Pub. L. 98–369, § 2806(a)(1), (b)(1), (2), inserted “its deposit or” and “deposit or” wherever appearing.
+Subsec. (e). Pub. L. 98–369, § 2806(a)(1), (b)(1), (2), inserted “its deposit or” and “deposit or” wherever appearing.
 
-Subsec. (f). Pub. L. 98–369, § 2806(a)(1), (b)(3), inserted “its deposit or” and “deposit or”.
+Subsec. (f). Pub. L. 98–369, § 2806(a)(1), (b)(3), inserted “its deposit or” and “deposit or”.
 
-Subsec. (g). Pub. L. 98–369, § 2807, inserted “and deposit” and “deposit or adjustment thereof or any” in two places.
+Subsec. (g). Pub. L. 98–369, § 2807, inserted “and deposit” and “deposit or adjustment thereof or any” in two places.
 
-Subsec. (h)(1). Pub. L. 98–369, § 2808, inserted “, unless otherwise prescribed by the Board”.
+Subsec. (h)(1). Pub. L. 98–369, § 2808, inserted “, unless otherwise prescribed by the Board”.
 
-Subsec. (h)(2). Pub. L. 98–369, § 2809, in amending par. (2) generally, substituted “fund, means an amount equal to 1.3 per centum of the aggregate amount of the insured shares in all insured credit unions, or such lower level as the Board may determine” for “Fund, means an amount equal to 1 per centum of the aggregate amount of the member accounts in all insured credit unions”.
+Subsec. (h)(2). Pub. L. 98–369, § 2809, in amending par. (2) generally, substituted “fund, means an amount equal to 1.3 per centum of the aggregate amount of the insured shares in all insured credit unions, or such lower level as the Board may determine” for “Fund, means an amount equal to 1 per centum of the aggregate amount of the member accounts in all insured credit unions”.
 
-Subsec. (h)(3). Pub. L. 98–369, § 2810, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the term ‘members accounts’ when applied to the premium charge for insurance of accounts shall not include amounts received from other credit unions, the accounts of which are federally insured or insured or guaranteed by a fund established under State law or regulation for this purpose, in excess of the insured account limit set forth in section 1787(c)(1) of this title;”.
+Subsec. (h)(3). Pub. L. 98–369, § 2810, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the term ‘members accounts’ when applied to the premium charge for insurance of accounts shall not include amounts received from other credit unions, the accounts of which are federally insured or insured or guaranteed by a fund established under State law or regulation for this purpose, in excess of the insured account limit set forth in section 1787(c)(1) of this title;”.
 
 1983—Subsec. (c)(1). Pub. L. 97–457 substituted “paragraph (2)” for “paragraphs (2) and (3)” after “except as provided in”.
 
-1982—Subsec. (c)(3). Pub. L. 97–320, § 529, redesignated par. (4) as (3). Former (3), which set forth rules for computing the insurance premiums due from credit unions chartered after Oct. 19, 1970, that became insured in the insurance year of their charter, was struck out.
+1982—Subsec. (c)(3). Pub. L. 97–320, § 529, redesignated par. (4) as (3). Former (3), which set forth rules for computing the insurance premiums due from credit unions chartered after Oct. 19, 1970, that became insured in the insurance year of their charter, was struck out.
 
-Subsec. (c)(4), (5). Pub. L. 97–320, § 529, redesignated par. (5) as (4). Former par. (4) redesignated (3).
+Subsec. (c)(4), (5). Pub. L. 97–320, § 529, redesignated par. (5) as (4). Former par. (4) redesignated (3).
 
-Subsec. (c)(6). Pub. L. 97–320, § 529, struck out par. (6) which set forth rules for payment of insurance rebates to insured credit unions closed for liquidation because of insolvency or otherwise.
+Subsec. (c)(6). Pub. L. 97–320, § 529, struck out par. (6) which set forth rules for payment of insurance rebates to insured credit unions closed for liquidation because of insolvency or otherwise.
 
-Subsec. (h)(3). Pub. L. 97–320, § 528, substituted “ ‘members accounts’ ” for “ ‘member account’ ”, struck out “federally insured” after “received from other”, and inserted “, the accounts of which are federally insured or insured or guaranteed by a fund established under State law or regulation for this purpose,” after “credit unions”.
+Subsec. (h)(3). Pub. L. 97–320, § 528, substituted “ ‘members accounts’ ” for “ ‘member account’ ”, struck out “federally insured” after “received from other”, and inserted “, the accounts of which are federally insured or insured or guaranteed by a fund established under State law or regulation for this purpose,” after “credit unions”.
 
-1978—Subsec. (a). Pub. L. 95–630, §§ 502(b), 505(a), substituted “Board” for “Administrator” wherever appearing; “it” for “him” and “such officer’s knowledge” for “his knowledge” in par. (1); “reports as it” for “reports as he” in par. (2); and “it may direct” for “he may direct” and “for its use” for “for his use” in par. (3).
+1978—Subsec. (a). Pub. L. 95–630, §§ 502(b), 505(a), substituted “Board” for “Administrator” wherever appearing; “it” for “him” and “such officer’s knowledge” for “his knowledge” in par. (1); “reports as it” for “reports as he” in par. (2); and “it may direct” for “he may direct” and “for its use” for “for his use” in par. (3).
 
-Subsecs. (b) to (g). Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” wherever appearing, and “its” for “his” where appropriate.
+Subsecs. (b) to (g). Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” wherever appearing, and “its” for “his” where appropriate.
 
-Subsec. (h)(3). Pub. L. 95–630, § 505(b), substituted “The term ‘member account’ when” for “the term ‘members accounts’ when”, struck out “of federally insured credit unions” after “of accounts”, and inserted “received from other federally insured credit unions” after “not include amounts”.
+Subsec. (h)(3). Pub. L. 95–630, § 505(b), substituted “The term ‘member account’ when” for “the term ‘members accounts’ when”, struck out “of federally insured credit unions” after “of accounts”, and inserted “received from other federally insured credit unions” after “not include amounts”.
 
 1974—Subsec. (h)(3). Pub. L. 93–383 added par. (3).
 
@@ -2415,7 +2415,7 @@ Subsec. (h)(3). Pub. L. 95–630, § 505(b), substituted “The term ‘member
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–219, title III, § 302(b), Aug. 7, 1998, 112 Stat. 934, provided that: “This section [amending this section] and the amendments made by this section shall become effective on January 1 of the first calendar year beginning more than 180 days after the date of enactment of this Act [Aug. 7, 1998].”
+Pub. L. 105–219, title III, § 302(b), Aug. 7, 1998, 112 Stat. 934, provided that: “This section [amending this section] and the amendments made by this section shall become effective on January 1 of the first calendar year beginning more than 180 days after the date of enactment of this Act [Aug. 7, 1998].”
 
 **Effective Date of 1992 Amendment**
 
@@ -2429,7 +2429,7 @@ Amendment by section 911(f) of Pub. L. 101–73 applicable with respect to repor
 
 Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
 
-### § 1783. National Credit Union Share Insurance Fund
+### § 1783. National Credit Union Share Insurance Fund
 
 **(a) Creation; use of fund**
 
@@ -2447,7 +2447,7 @@ The Board may authorize the Secretary of the Treasury to invest and reinvest suc
 
 **(1)** If, in the judgment of the Board, a loan to the insurance fund, or to the stabilization fund described in section 1790e of this title, is required at any time for purposes of this subchapter,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the Secretary of the Treasury shall make the loan, but loans under this paragraph shall not exceed in the aggregate $6,000,000,000 outstanding at any one time. Except as otherwise provided in this subsection, section 1790e of this title, and in subsection (e) of this section, each loan under this paragraph shall be made on such terms as may be fixed by agreement between the Board and the Secretary of the Treasury.
 
@@ -2469,7 +2469,7 @@ So long as any loans to the fund are outstanding, the Board shall from time to t
 
 In addition to the authority to borrow from the Secretary of the Treasury provided in subsection (d), if in the judgment of the Board, a loan to the fund is required at any time for carrying out the purposes of this subchapter, the fund is authorized to borrow from the National Credit Union Administration Central Liquidity Facility.
 
-(June 26, 1934, ch. 750, title II, § 203, as added Pub. L. 91–468, § 1(3), Oct. 19, 1970, 84 Stat. 999; amended Pub. L. 94–273, § 2(4), Apr. 21, 1976, 90 Stat. 375; Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, § 530, Oct. 15, 1982, 96 Stat. 1535; Pub. L. 98–369, div. B, title VIII, § 2811, July 18, 1984, 98 Stat. 1206; Pub. L. 111–22, div. A, title II, § 204(c)(2), (3), May 20, 2009, 123 Stat. 1650.)
+(June 26, 1934, ch. 750, title II, § 203, as added Pub. L. 91–468, § 1(3), Oct. 19, 1970, 84 Stat. 999; amended Pub. L. 94–273, § 2(4), Apr. 21, 1976, 90 Stat. 375; Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 97–320, title V, § 530, Oct. 15, 1982, 96 Stat. 1535; Pub. L. 98–369, div. B, title VIII, § 2811, July 18, 1984, 98 Stat. 1206; Pub. L. 111–22, div. A, title II, § 204(c)(2), (3), May 20, 2009, 123 Stat. 1650.)
 
 **Editorial Notes**
 
@@ -2479,13 +2479,13 @@ This subchapter, referred to in subsec. (d)(1), probably should have been a refe
 
 **Codification**
 
-In subsec. (d)(3), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (d)(3), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
-2009—Subsec. (d)(1). Pub. L. 111–22, § 204(c)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “If, in the judgment of the Board, a loan to the fund is required at any time for carrying out the purposes of this subchapter, the Secretary of the Treasury shall make the loan, but loans under this paragraph shall not exceed in the aggregate $100,000,000 outstanding at any one time. Except as otherwise provided in this subsection and in subsection (e) of this section, each loan under this paragraph shall be made on such terms as may be fixed by agreement between the Board and the Secretary of the Treasury.”
+2009—Subsec. (d)(1). Pub. L. 111–22, § 204(c)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “If, in the judgment of the Board, a loan to the fund is required at any time for carrying out the purposes of this subchapter, the Secretary of the Treasury shall make the loan, but loans under this paragraph shall not exceed in the aggregate $100,000,000 outstanding at any one time. Except as otherwise provided in this subsection and in subsection (e) of this section, each loan under this paragraph shall be made on such terms as may be fixed by agreement between the Board and the Secretary of the Treasury.”
 
-Subsec. (d)(4). Pub. L. 111–22, § 204(c)(3), added par. (4).
+Subsec. (d)(4). Pub. L. 111–22, § 204(c)(3), added par. (4).
 
 1984—Subsec. (b). Pub. L. 98–369 inserted “deposits and” and provisions relating to annual reporting requirements by the Board.
 
@@ -2505,7 +2505,7 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 
 Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
 
-### § 1784. Examination of insured credit unions
+### § 1784. Examination of insured credit unions
 
 **(a) Examiners and claim agents; powers; report by examiner; jurisdiction of court**
 
@@ -2549,7 +2549,7 @@ The report shall include a description of the methods used to determine complian
 
 The Board shall, for the purpose of facilitating insured credit unions’ access to liquidity, make available to the Federal reserve banks (subject to appropriate assurances of confidentiality) information relevant to making advances to such credit unions, including the Board’s reports of examination.
 
-(June 26, 1934, ch. 750, title II, § 204, as added Pub. L. 91–468, § 1(3), Oct. 19, 1970, 84 Stat. 1001; amended Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 101–73, title IX, § 915(a), Aug. 9, 1989, 103 Stat. 486; Pub. L. 103–325, title V, § 529(b), Sept. 23, 1994, 108 Stat. 2266; Pub. L. 105–219, title III, § 303, Aug. 7, 1998, 112 Stat. 934; Pub. L. 109–351, title VII, § 726(13), Oct. 13, 2006, 120 Stat. 2002.)
+(June 26, 1934, ch. 750, title II, § 204, as added Pub. L. 91–468, § 1(3), Oct. 19, 1970, 84 Stat. 1001; amended Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 101–73, title IX, § 915(a), Aug. 9, 1989, 103 Stat. 486; Pub. L. 103–325, title V, § 529(b), Sept. 23, 1994, 108 Stat. 2266; Pub. L. 105–219, title III, § 303, Aug. 7, 1998, 112 Stat. 934; Pub. L. 109–351, title VII, § 726(13), Oct. 13, 2006, 120 Stat. 2002.)
 
 **Editorial Notes**
 
@@ -2561,9 +2561,9 @@ The Board shall, for the purpose of facilitating insured credit unions’ access
 
 1994—Subsec. (e). Pub. L. 103–325 added subsec. (e).
 
-1989—Subsec. (b). Pub. L. 101–73, § 915(a)(1), inserted “or with other types of investigations to determine compliance with applicable law and regulations,” after “insured credit unions,”.
+1989—Subsec. (b). Pub. L. 101–73, § 915(a)(1), inserted “or with other types of investigations to determine compliance with applicable law and regulations,” after “insured credit unions,”.
 
-Pub. L. 101–73, § 915(a)(2), which directed the insertion of “and to exercise such others powers as are set forth in section 1786(p) of this title” after “subpena duces tecum”, was executed by making the insertion after “subpenas duces tecum”, as the probable intent of Congress.
+Pub. L. 101–73, § 915(a)(2), which directed the insertion of “and to exercise such others powers as are set forth in section 1786(p) of this title” after “subpena duces tecum”, was executed by making the insertion after “subpenas duces tecum”, as the probable intent of Congress.
 
 1978—Pub. L. 95–630 substituted “Board” for “Administrator” wherever appearing, and “it” and “its” for “him” and “his”, respectively, where appropriate.
 
@@ -2573,7 +2573,7 @@ Pub. L. 101–73, § 915(a)(2), which directed the insertion of “and to exer
 
 Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
 
-### § 1785. Requirements governing insured credit unions
+### § 1785. Requirements governing insured credit unions
 
 **(a) Insurance logo**
 
@@ -2677,7 +2677,7 @@ For each day that an insured credit union continues to violate this subsection o
 
 **(I)** section 215, 656, 657, 1005, 1006, 1007, 1008,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 1014, 1032, 1344, 1517, 1956, or 1957 of title 18; or
 
@@ -2765,7 +2765,7 @@ The Board shall accept consent applications from an individual and from an insur
 
 **(ii)** may be approved or denied by such office, if such authority has been delegated to such office by the Board, except with respect to—
 
-**(I)** cases involving an offense described under paragraph (1)(B); <sup>1</sup> and
+**(I)** cases involving an offense described under paragraph (1)(B); <sup>1</sup> and
 
 **(II)** such other high-level security cases as may be designated by the Board.
 
@@ -2799,9 +2799,9 @@ The Board may not require an applicant to provide certified copies of criminal h
 
 **(G) Consideration of rehabilitation** Consistent with title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.), the Board shall—
 
-**(i)** conduct an individualized assessment when evaluating consent applications that takes into account evidence of rehabilitation, the applicant’s age at the time of the conviction or program entry, the time that has elapsed since conviction or program entry, and the relationship of individual’s 2
+**(i)** conduct an individualized assessment when evaluating consent applications that takes into account evidence of rehabilitation, the applicant’s age at the time of the conviction or program entry, the time that has elapsed since conviction or program entry, and the relationship of individual’s 2
 
-<sup>2</sup>  So in original. Probably should be preceded by “the”.
+<sup>2</sup> So in original. Probably should be preceded by “the”.
 
 offense to the responsibilities of the applicable position;
 
@@ -2821,7 +2821,7 @@ In carrying out this subsection, the Board shall consult and coordinate with the
 
 **(A) Consent application**
 
-The term “consent application” means an application filed with Board <sup>2</sup> by an individual (or by an insured credit union on behalf of an individual) seeking the written consent of the Board under paragraph (1)(A).
+The term “consent application” means an application filed with Board <sup>2</sup> by an individual (or by an insured credit union on behalf of an individual) seeking the written consent of the Board under paragraph (1)(A).
 
 **(B) Criminal offense involving dishonesty** The term “criminal offense involving dishonesty”—
 
@@ -2889,33 +2889,33 @@ The submission by any person of any information to the Administration, any State
 
 **(B)** any person would waive any privilege applicable to any information by submitting the information to the Administration, any State credit union supervisor, or foreign banking authority, but for this subsection.
 
-(June 26, 1934, ch. 750, title II, § 205, as added Pub. L. 91–468, § 1(3), Oct. 19, 1970, 84 Stat. 1002; amended Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–221, title III, § 305(d), title V, § 523, Mar. 31, 1980, 94 Stat. 147, 166; Pub. L. 97–320, title I, § 131, 141(a)(8), title VII, § 706(b), Oct. 15, 1982, 96 Stat. 1486, 1489, 1540; Pub. L. 100–86, title V, § 509(a), Aug. 10, 1987, 101 Stat. 635; Pub. L. 101–73, title IX, § 910(b), Aug. 9, 1989, 103 Stat. 478; Pub. L. 103–322, title XXXII, § 320606, Sept. 13, 1994, 108 Stat. 2119; Pub. L. 105–219, title II, § 202, Aug. 7, 1998, 112 Stat. 919; Pub. L. 109–173, § 2(d)(3), Feb. 15, 2006, 119 Stat. 3604; Pub. L. 109–351, title VI, § 607(b), Oct. 13, 2006, 120 Stat. 1982; Pub. L. 111–203, title III, § 362(2), July 21, 2010, 124 Stat. 1549; Pub. L. 117–263, div. E, title LVII, § 5705(b), Dec. 23, 2022, 136 Stat. 3414.)
+(June 26, 1934, ch. 750, title II, § 205, as added Pub. L. 91–468, § 1(3), Oct. 19, 1970, 84 Stat. 1002; amended Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–221, title III, § 305(d), title V, § 523, Mar. 31, 1980, 94 Stat. 147, 166; Pub. L. 97–320, title I, § 131, 141(a)(8), title VII, § 706(b), Oct. 15, 1982, 96 Stat. 1486, 1489, 1540; Pub. L. 100–86, title V, § 509(a), Aug. 10, 1987, 101 Stat. 635; Pub. L. 101–73, title IX, § 910(b), Aug. 9, 1989, 103 Stat. 478; Pub. L. 103–322, title XXXII, § 320606, Sept. 13, 1994, 108 Stat. 2119; Pub. L. 105–219, title II, § 202, Aug. 7, 1998, 112 Stat. 919; Pub. L. 109–173, § 2(d)(3), Feb. 15, 2006, 119 Stat. 3604; Pub. L. 109–351, title VI, § 607(b), Oct. 13, 2006, 120 Stat. 1982; Pub. L. 111–203, title III, § 362(2), July 21, 2010, 124 Stat. 1549; Pub. L. 117–263, div. E, title LVII, § 5705(b), Dec. 23, 2022, 136 Stat. 3414.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1008 of title 18, referred to in subsec. (d)(2)(A)(i)(I), was repealed by Pub. L. 101–73, title IX, § 961(g)(1), Aug. 9, 1989, 103 Stat. 500.
+Section 1008 of title 18, referred to in subsec. (d)(2)(A)(i)(I), was repealed by Pub. L. 101–73, title IX, § 961(g)(1), Aug. 9, 1989, 103 Stat. 500.
 
 Paragraph (1)(B), referred to in subsec. (d)(4)(A)(iii), (5)(C)(ii)(I), probably should be a reference to “paragraph (2)”, meaning par. (2) of subsec. (d). See similar provisions in section 1829(c)(1)(C) and (f)(3)(B)(i) of this title, which refer to offenses described in subsec. (a)(2) of that section, which correspond to those listed in subsec. (d)(2) of this section.
 
-The Civil Rights Act of 1964, referred to in subsec. (d)(5)(G), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VII of the Act is classified generally to subchapter VI (§ 2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (d)(5)(G), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VII of the Act is classified generally to subchapter VI (§ 2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 **Amendments**
 
 2022—Subsec. (d)(4) to (6). Pub. L. 117–263 added pars. (4) to (6).
 
-2010—Subsec. (b)(2)(G)(i). Pub. L. 111–203, § 362(2)(A), struck out “the Office of Thrift Supervision and” before “the Office of the Comptroller”.
+2010—Subsec. (b)(2)(G)(i). Pub. L. 111–203, § 362(2)(A), struck out “the Office of Thrift Supervision and” before “the Office of the Comptroller”.
 
-Subsec. (i)(1). Pub. L. 111–203, § 362(2)(B), struck out “or the Federal Savings and Loan Insurance Corporation” before “to purchase”.
+Subsec. (i)(1). Pub. L. 111–203, § 362(2)(B), struck out “or the Federal Savings and Loan Insurance Corporation” before “to purchase”.
 
 2006—Subsec. (a). Pub. L. 109–173 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Every insured credit union shall display at each place of business maintained by it a sign or signs indicating that its member accounts are insured by the Board and shall include in all of its advertisements a statement to the effect that its member accounts are insured by the Board. The Board may exempt from this requirement advertisements which do not relate to member accounts or advertisements in which it is impractical to include such a statement. The Board shall prescribe by regulation the forms of such signs, the manner of display, the substance of any such statement, and the manner of use.”
 
 Subsec. (j). Pub. L. 109–351 added subsec. (j).
 
-1998—Subsec. (b)(1). Pub. L. 105–219, § 202(1), substituted “Except as provided in paragraph (2), no insured credit union shall, without the prior approval of the Board” for “Except with the prior written approval of the Board, no insured credit union shall”.
+1998—Subsec. (b)(1). Pub. L. 105–219, § 202(1), substituted “Except as provided in paragraph (2), no insured credit union shall, without the prior approval of the Board” for “Except with the prior written approval of the Board, no insured credit union shall”.
 
-Subsec. (b)(2), (3). Pub. L. 105–219, § 202(2), (3), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (b)(2), (3). Pub. L. 105–219, § 202(2), (3), added par. (2) and redesignated former par. (2) as (3).
 
 1994—Subsec. (d). Pub. L. 103–322 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
 
@@ -2929,17 +2929,17 @@ Subsec. (b)(2), (3). Pub. L. 105–219, § 202(2), (3), added par. (2) and red
 
 1989—Subsec. (d). Pub. L. 101–73 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Except with the written consent of the Board, no person shall serve as a director, officer, committee member, or employee of an insured credit union who has been convicted, or who is hereafter convicted, of any criminal offense involving dishonesty or a breach of trust. For each willful violation of this prohibition, the credit union involved shall be subject to a penalty of not more than $100 for each day this prohibition is violated, which the Board may recover for its use.”
 
-1987—Pub. L. 100–86 repealed Pub. L. 97–320, § 141. See 1982 Amendment note below.
+1987—Pub. L. 100–86 repealed Pub. L. 97–320, § 141. See 1982 Amendment note below.
 
-1982—Subsec. (f)(2). Pub. L. 97–320, § 706(b), inserted provisions relating to deposits of public funds.
+1982—Subsec. (f)(2). Pub. L. 97–320, § 706(b), inserted provisions relating to deposits of public funds.
 
-Subsecs. (h), (i). Pub. L. 97–320, § 131, added subsecs. (h) and (i).
+Subsecs. (h), (i). Pub. L. 97–320, § 131, added subsecs. (h) and (i).
 
-Pub. L. 97–320, § 141(a)(8), which directed that, effective Oct. 13, 1986, the provisions of law amended by section 131 of Pub. L. 97–320 shall be amended to read as they would without such amendment, was repealed by Pub. L. 100–86, § 509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320 note set out under section 1464 of this title.
+Pub. L. 97–320, § 141(a)(8), which directed that, effective Oct. 13, 1986, the provisions of law amended by section 131 of Pub. L. 97–320 shall be amended to read as they would without such amendment, was repealed by Pub. L. 100–86, § 509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320 note set out under section 1464 of this title.
 
-1980—Subsec. (f). Pub. L. 96–221, § 305(d), added subsec. (f).
+1980—Subsec. (f). Pub. L. 96–221, § 305(d), added subsec. (f).
 
-Subsec. (g). Pub. L. 96–221, § 523, added subsec. (g).
+Subsec. (g). Pub. L. 96–221, § 523, added subsec. (g).
 
 1978—Pub. L. 95–630 substituted “Board” for “Administrator” wherever appearing, and “its” for “his” where appropriate.
 
@@ -2951,13 +2951,13 @@ Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 o
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–173, § 2(e), Feb. 15, 2006, 119 Stat. 3605, provided that: “This section [amending this section and sections 1787, 1817, 1821, 1828, 1831t, and 3104 of this title] and the amendments made by this section shall take effect on the date on which the final regulations required under section 2109(a)(2) of the Federal Deposit Insurance Reform Act of 2005 [Pub. L. 109–171, set out as a Regulations note under section 1817 of this title] take effect [Apr. 1, 2006, see 71 F.R. 14629].”
+Pub. L. 109–173, § 2(e), Feb. 15, 2006, 119 Stat. 3605, provided that: “This section [amending this section and sections 1787, 1817, 1821, 1828, 1831t, and 3104 of this title] and the amendments made by this section shall take effect on the date on which the final regulations required under section 2109(a)(2) of the Federal Deposit Insurance Reform Act of 2005 [Pub. L. 109–171, set out as a Regulations note under section 1817 of this title] take effect [Apr. 1, 2006, see 71 F.R. 14629].”
 
 **Effective Date of 1980 Amendment**
 
 Enactment of subsec. (f) by Pub. L. 96–221 effective at the close of Mar. 31, 1980, see section 306 of Pub. L. 96–221, set out as a note under section 1464 of this title.
 
-Pub. L. 96–221, title V, § 525, Mar. 31, 1980, 94 Stat. 167, provided that: “The amendments made by sections 521 through 523 of this title [amending this section and enacting sections 1730g and 1831d of this title] shall apply only with respect to loans made in any State during the period beginning on April 1, 1980, and ending on the date, on or after April 1, 1980, on which such State adopts a law or certifies that the voters of such State have voted in favor of any provision, constitutional or otherwise, which states explicitly and by its terms that such State does not want the amendments made by such sections to apply with respect to loans made in such State, except that such amendments shall apply to a loan made on or after the date such law is adopted or such certification is made if such loan is made pursuant to a commitment to make such loan which was entered into on or after April 1, 1980, and prior to the date on which such law is adopted or such certification is made.”
+Pub. L. 96–221, title V, § 525, Mar. 31, 1980, 94 Stat. 167, provided that: “The amendments made by sections 521 through 523 of this title [amending this section and enacting sections 1730g and 1831d of this title] shall apply only with respect to loans made in any State during the period beginning on April 1, 1980, and ending on the date, on or after April 1, 1980, on which such State adopts a law or certifies that the voters of such State have voted in favor of any provision, constitutional or otherwise, which states explicitly and by its terms that such State does not want the amendments made by such sections to apply with respect to loans made in such State, except that such amendments shall apply to a loan made on or after the date such law is adopted or such certification is made if such loan is made pursuant to a commitment to make such loan which was entered into on or after April 1, 1980, and prior to the date on which such law is adopted or such certification is made.”
 
 **Effective Date of 1978 Amendment**
 
@@ -2979,7 +2979,7 @@ For purposes of subsec. (g) of this section, the term “State” to include the
 
 In any case in which one or more provisions of, or amendments made by, title V of Pub. L. 96–221, section 1735f–7 of this title, or any other provisions of law, including section 85 of this title, apply with respect to the same loan, mortgage, credit sale, or advance, such loan, mortgage, credit sale, or advance may be made at the highest applicable rate, see section 528 of Pub. L. 96–221, set out as a note under section 1735f–7a of this title.
 
-### § 1786. Termination of insured credit union status; cease and desist orders; removal or suspension from office; procedure
+### § 1786. Termination of insured credit union status; cease and desist orders; removal or suspension from office; procedure
 
 **(a) Termination of insurance**
 
@@ -2989,9 +2989,9 @@ In any case in which one or more provisions of, or amendments made by, title V o
 
 **(b) Unsound condition of credit union; notice to correct condition; hearing; judicial review**
 
-**(1)** Whenever, in the opinion of the Board, any insured credit union is engaging or has engaged in unsafe or unsound practices in conducting the business of such credit union, or is in an unsafe or unsound condition to continue operations as an insured credit union, or is violating or has violated an applicable law, rule, regulation, order, or any condition imposed in writing by the Board in connection with any action on any application, notice, or other request by the credit union or institution-affiliated party,, 1
+**(1)** Whenever, in the opinion of the Board, any insured credit union is engaging or has engaged in unsafe or unsound practices in conducting the business of such credit union, or is in an unsafe or unsound condition to continue operations as an insured credit union, or is violating or has violated an applicable law, rule, regulation, order, or any condition imposed in writing by the Board in connection with any action on any application, notice, or other request by the credit union or institution-affiliated party,, 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 or is violating or has violated any written agreement entered into with the Board, the Board shall serve upon the credit union a statement with respect to such practices or conditions or violations for the purpose of securing the correction thereof. In the case of an insured State-chartered credit union, the Board shall send a copy of such statement to the commission, board, or authority, if any, having supervision of such credit union. Unless such correction shall be made within one hundred and twenty days after service of such statement, or within such shorter period of not less than twenty days after such service as the Board shall require in any case where it determines that the insurance risk with respect to such credit union could be unduly jeopardized by further delay in the correction of such practices or conditions or violations, or as the commission, board, or authority having supervision of such credit union, if any, shall require in the case of an insured State-chartered credit union, the Board, if it shall determine to proceed further, shall give to the credit union not less than thirty days’ written notice of its intention to terminate the status of the credit union as an insured credit union. Such notice shall contain a statement of the facts constituting the alleged unsafe and unsound practices or conditions or violations and shall fix a time and place for a hearing thereon. Such hearing shall be fixed for a date not earlier than thirty days nor later than sixty days after service of such notice unless an earlier or a later date is set by the Board at the request of the credit union. Unless the credit union shall appear at the hearing by a duly authorized representative, it shall be deemed to have consented to the termination of its status as an insured credit union. In the event of such consent, or if upon the record made at any such hearing the Board shall find that any unsafe or unsound practice or condition or violation specified in the notice has been established and has not been corrected within the time above-prescribed in which to make such correction, the Board may issue and serve upon the credit union an order terminating its status as an insured credit union on a date subsequent to the date of such finding and subsequent to the expiration of the time specified in the notice.
 
@@ -3179,9 +3179,9 @@ subparagraph (A) shall, to the extent of such consent, cease to apply to such pa
 
 **(iii)** the National Credit Union Administration Board, in the case of an insured credit union (as defined in section 1752(7) of this title); and
 
-**(iv)** the Secretary of the Treasury, in the case of the Federal Housing Finance Agency and any Federal home loan bank; 2
+**(iv)** the Secretary of the Treasury, in the case of the Federal Housing Finance Agency and any Federal home loan bank; 2
 
-<sup>2</sup>  So in original. The semicolon probably should be a period.
+<sup>2</sup> So in original. The semicolon probably should be a period.
 
 **(E) Consultation between agencies.—** The agencies referred to in clauses (i) and (ii) of subparagraph (B) shall consult with each other before providing any written consent described in subparagraph (B).
 
@@ -3341,9 +3341,9 @@ shall forfeit and pay a civil penalty in an amount not to exceed the applicable 
 
 **(D) Maximum amounts of penalties for any violation described in subparagraph (c).—** The maximum daily amount of any civil penalty which may be assessed pursuant to subparagraph (C) for any violation, practice, or breach described in such subparagraph is—
 
-**(i)** in the case of any person other than an insured credit union, an amount to not 3
+**(i)** in the case of any person other than an insured credit union, an amount to not 3
 
-<sup>3</sup>  So in original. Probably should be “not to”.
+<sup>3</sup> So in original. Probably should be “not to”.
 
 exceed $1,000,000; and
 
@@ -3735,93 +3735,93 @@ The Board may, in an administrative proceeding or civil action in an appropriate
 
 Any person subject to an order issued under this subparagraph (A)(i) shall be subject to paragraphs (5) and (7) of subsection (g) in the same manner and to the same extent as a person subject to an order issued under subsection (g).
 
-(June 26, 1934, ch. 750, title II, § 206, as added Pub. L. 91–468, § 1(3), Oct. 19, 1970, 84 Stat. 1003; amended Pub. L. 93–383, title VII, § 728, Aug. 22, 1974, 88 Stat. 720; Pub. L. 95–22, title III, § 307, Apr. 19, 1977, 91 Stat. 52; Pub. L. 95–630, title I, §§ 107(a)(4), (c)(4), (d)(4), (e)(4), 111(d), title V, § 502(b), Nov. 10, 1978, 92 Stat. 3652, 3656, 3659, 3663, 3670, 3681; Pub. L. 97–320, title I, §§ 132, 141(a)(8), title IV, §§ 424(a), (d)(9), (e), 427(c), Oct. 15, 1982, 96 Stat. 1487, 1489, 1522, 1523, 1525; Pub. L. 98–369, div. B, title VIII, § 2812, July 18, 1984, 98 Stat. 1206; Pub. L. 99–570, title I, § 1359(d), Oct. 27, 1986, 100 Stat. 3207–29; Pub. L. 100–86, title V, § 509(a), title VII, §§ 709–713, Aug. 10, 1987, 101 Stat. 635, 653, 654; Pub. L. 101–73, title IX, §§ 901(a), (b)(2), 902(b), 903(b), 904(b), 905(b), 906(b), 907(b), 908(b), 913(b), 915(b), 920(b), title XII, § 1217(b), Aug. 9, 1989, 103 Stat. 446, 448, 451, 455, 458, 460, 462, 464, 477, 484, 486, 488, 546; Pub. L. 101–647, title XXV, §§ 2523(b), 2532(c), 2547(b), Nov. 29, 1990, 104 Stat. 4870, 4881, 4887; Pub. L. 102–233, title III, § 302(a), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–550, title XV, §§ 1501(b), 1503(b), 1504(b), Oct. 28, 1992, 106 Stat. 4044, 4050, 4053; Pub. L. 103–325, title IV, § 411(c)(2)(B), Sept. 23, 1994, 108 Stat. 2253; Pub. L. 105–219, title III, § 301(b)(1), (g)(1), (2), Aug. 7, 1998, 112 Stat. 930, 931; Pub. L. 108–458, title VI, § 6303(c), Dec. 17, 2004, 118 Stat. 3753; Pub. L. 109–351, title VII, §§ 708(b), 715(b), 716(b), 723(b), 726(14)–(19), Oct. 13, 2006, 120 Stat. 1989, 1995, 1996, 2000, 2002, 2003; Pub. L. 111–203, title III, § 362(3), July 21, 2010, 124 Stat. 1549.)
+(June 26, 1934, ch. 750, title II, § 206, as added Pub. L. 91–468, § 1(3), Oct. 19, 1970, 84 Stat. 1003; amended Pub. L. 93–383, title VII, § 728, Aug. 22, 1974, 88 Stat. 720; Pub. L. 95–22, title III, § 307, Apr. 19, 1977, 91 Stat. 52; Pub. L. 95–630, title I, §§ 107(a)(4), (c)(4), (d)(4), (e)(4), 111(d), title V, § 502(b), Nov. 10, 1978, 92 Stat. 3652, 3656, 3659, 3663, 3670, 3681; Pub. L. 97–320, title I, §§ 132, 141(a)(8), title IV, §§ 424(a), (d)(9), (e), 427(c), Oct. 15, 1982, 96 Stat. 1487, 1489, 1522, 1523, 1525; Pub. L. 98–369, div. B, title VIII, § 2812, July 18, 1984, 98 Stat. 1206; Pub. L. 99–570, title I, § 1359(d), Oct. 27, 1986, 100 Stat. 3207–29; Pub. L. 100–86, title V, § 509(a), title VII, §§ 709–713, Aug. 10, 1987, 101 Stat. 635, 653, 654; Pub. L. 101–73, title IX, §§ 901(a), (b)(2), 902(b), 903(b), 904(b), 905(b), 906(b), 907(b), 908(b), 913(b), 915(b), 920(b), title XII, § 1217(b), Aug. 9, 1989, 103 Stat. 446, 448, 451, 455, 458, 460, 462, 464, 477, 484, 486, 488, 546; Pub. L. 101–647, title XXV, §§ 2523(b), 2532(c), 2547(b), Nov. 29, 1990, 104 Stat. 4870, 4881, 4887; Pub. L. 102–233, title III, § 302(a), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–550, title XV, §§ 1501(b), 1503(b), 1504(b), Oct. 28, 1992, 106 Stat. 4044, 4050, 4053; Pub. L. 103–325, title IV, § 411(c)(2)(B), Sept. 23, 1994, 108 Stat. 2253; Pub. L. 105–219, title III, § 301(b)(1), (g)(1), (2), Aug. 7, 1998, 112 Stat. 930, 931; Pub. L. 108–458, title VI, § 6303(c), Dec. 17, 2004, 118 Stat. 3753; Pub. L. 109–351, title VII, §§ 708(b), 715(b), 716(b), 723(b), 726(14)–(19), Oct. 13, 2006, 120 Stat. 1989, 1995, 1996, 2000, 2002, 2003; Pub. L. 111–203, title III, § 362(3), July 21, 2010, 124 Stat. 1549.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Depository Institution Management Interlocks Act, referred to in subsec. (g)(2)(A)(iii), is title II of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3672, which is classified principally to chapter 33 (§ 3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
+The Depository Institution Management Interlocks Act, referred to in subsec. (g)(2)(A)(iii), is title II of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3672, which is classified principally to chapter 33 (§ 3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
 
-The Farm Credit Act of 1971, referred to in subsec. (g)(7)(A)(iv), (D)(ii), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified generally to chapter 23 (§ 2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
+The Farm Credit Act of 1971, referred to in subsec. (g)(7)(A)(iv), (D)(ii), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified generally to chapter 23 (§ 2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
 
 **Amendments**
 
-2010—Subsec. (g)(7)(A)(ii). Pub. L. 111–203, § 362(3)(A)(i), substituted “(b)(9)” for “(b)(8)”.
+2010—Subsec. (g)(7)(A)(ii). Pub. L. 111–203, § 362(3)(A)(i), substituted “(b)(9)” for “(b)(8)”.
 
-Subsec. (g)(7)(A)(v). Pub. L. 111–203, § 362(3)(A)(ii), substituted “financial” for “depository” and inserted “and” at end.
+Subsec. (g)(7)(A)(v). Pub. L. 111–203, § 362(3)(A)(ii), substituted “financial” for “depository” and inserted “and” at end.
 
-Subsec. (g)(7)(A)(vi). Pub. L. 111–203, § 362(3)(A)(iii), substituted “Agency” for “Board” and a period for “; and” at end.
+Subsec. (g)(7)(A)(vi). Pub. L. 111–203, § 362(3)(A)(iii), substituted “Agency” for “Board” and a period for “; and” at end.
 
-Subsec. (g)(7)(A)(vii). Pub. L. 111–203, § 362(3)(A)(iv), struck out cl. (vii) which read as follows: “the Resolution Trust Corporation.”
+Subsec. (g)(7)(A)(vii). Pub. L. 111–203, § 362(3)(A)(iv), struck out cl. (vii) which read as follows: “the Resolution Trust Corporation.”
 
-Subsec. (g)(7)(D)(iii). Pub. L. 111–203, § 362(3)(B)(i), inserted “and” at end.
+Subsec. (g)(7)(D)(iii). Pub. L. 111–203, § 362(3)(B)(i), inserted “and” at end.
 
-Subsec. (g)(7)(D)(iv). Pub. L. 111–203, § 362(3)(B)(ii), substituted “Agency” for “Board” and struck out “and” at end.
+Subsec. (g)(7)(D)(iv). Pub. L. 111–203, § 362(3)(B)(ii), substituted “Agency” for “Board” and struck out “and” at end.
 
-Subsec. (g)(7)(D)(v). Pub. L. 111–203, § 362(3)(B)(iii), struck out cl. (v) which read as follows: “the Thrift Depositor Protection Oversight Board, in the case of the Resolution Trust Corporation.”
+Subsec. (g)(7)(D)(v). Pub. L. 111–203, § 362(3)(B)(iii), struck out cl. (v) which read as follows: “the Thrift Depositor Protection Oversight Board, in the case of the Resolution Trust Corporation.”
 
-2006—Subsec. (b)(1). Pub. L. 109–351, § 716(b)(1), substituted “any action on any application, notice, or other request by the credit union or institution-affiliated party,” for “the granting of any application or other request by the credit union” in first sentence.
+2006—Subsec. (b)(1). Pub. L. 109–351, § 716(b)(1), substituted “any action on any application, notice, or other request by the credit union or institution-affiliated party,” for “the granting of any application or other request by the credit union” in first sentence.
 
-Subsec. (e)(3)(D). Pub. L. 109–351, § 726(14), struck out “and” after semicolon.
+Subsec. (e)(3)(D). Pub. L. 109–351, § 726(14), struck out “and” after semicolon.
 
-Subsec. (f)(1). Pub. L. 109–351, § 726(15), substituted “subsection (e)(3)” for “subsection (e)(3)(B)”.
+Subsec. (f)(1). Pub. L. 109–351, § 726(15), substituted “subsection (e)(3)” for “subsection (e)(3)(B)”.
 
-Subsec. (g)(1)(A)(i)(III). Pub. L. 109–351, § 716(b)(2), substituted “any action on any application, notice, or request by such credit union or institution-affiliated party” for “the grant of any application or other request by such credit union”.
+Subsec. (g)(1)(A)(i)(III). Pub. L. 109–351, § 716(b)(2), substituted “any action on any application, notice, or request by such credit union or institution-affiliated party” for “the grant of any application or other request by such credit union”.
 
-Subsec. (g)(7)(D). Pub. L. 109–351, § 726(16), struck out “and subsection (1)” after “For purposes of this paragraph” in introductory provisions.
+Subsec. (g)(7)(D). Pub. L. 109–351, § 726(16), struck out “and subsection (1)” after “For purposes of this paragraph” in introductory provisions.
 
-Subsec. (i). Pub. L. 109–351, § 708(b)(2), inserted heading.
+Subsec. (i). Pub. L. 109–351, § 708(b)(2), inserted heading.
 
-Subsec. (i)(1)(A). Pub. L. 109–351, § 708(b)(1)(A), substituted “any credit union” for “the credit union” in two places.
+Subsec. (i)(1)(A). Pub. L. 109–351, § 708(b)(1)(A), substituted “any credit union” for “the credit union” in two places.
 
-Subsec. (i)(1)(B)(i). Pub. L. 109–351, § 708(b)(1)(B), inserted “of which the subject of the order is, or most recently was, an institution-affiliated party” before period at end.
+Subsec. (i)(1)(B)(i). Pub. L. 109–351, § 708(b)(1)(B), inserted “of which the subject of the order is, or most recently was, an institution-affiliated party” before period at end.
 
-Subsec. (i)(1)(C). Pub. L. 109–351, § 708(b)(1)(C), substituted “any credit union’s” for “the credit union’s” in cl. (i) and “any credit union” for “the credit union” wherever appearing.
+Subsec. (i)(1)(C). Pub. L. 109–351, § 708(b)(1)(C), substituted “any credit union’s” for “the credit union’s” in cl. (i) and “any credit union” for “the credit union” wherever appearing.
 
-Subsec. (i)(1)(D)(i). Pub. L. 109–351, § 708(b)(1)(D), substituted “upon the credit union of which the subject of the order is, or most recently was, an institution-affiliated party” for “upon such credit union”.
+Subsec. (i)(1)(D)(i). Pub. L. 109–351, § 708(b)(1)(D), substituted “upon the credit union of which the subject of the order is, or most recently was, an institution-affiliated party” for “upon such credit union”.
 
-Subsec. (i)(1)(E). Pub. L. 109–351, § 708(b)(1)(E), added subpar. (E).
+Subsec. (i)(1)(E). Pub. L. 109–351, § 708(b)(1)(E), added subpar. (E).
 
-Subsec. (k)(2)(A)(iii). Pub. L. 109–351, § 716(b)(3), substituted “any action on any application, notice, or other request by the credit union or institution-affiliated party” for “the grant of any application or other request by such credit union”.
+Subsec. (k)(2)(A)(iii). Pub. L. 109–351, § 716(b)(3), substituted “any action on any application, notice, or other request by the credit union or institution-affiliated party” for “the grant of any application or other request by such credit union”.
 
-Subsec. (k)(3). Pub. L. 109–351, § 715(b), inserted “or order” after “notice” in two places.
+Subsec. (k)(3). Pub. L. 109–351, § 715(b), inserted “or order” after “notice” in two places.
 
-Subsec. (s)(9). Pub. L. 109–351, § 723(b), added par. (9).
+Subsec. (s)(9). Pub. L. 109–351, § 723(b), added par. (9).
 
-Subsec. (t)(2)(B). Pub. L. 109–351, § 726(17), inserted “regulations” after “(as defined in”.
+Subsec. (t)(2)(B). Pub. L. 109–351, § 726(17), inserted “regulations” after “(as defined in”.
 
-Subsec. (t)(2)(C). Pub. L. 109–351, § 726(18), substituted “material effect” for “material affect”.
+Subsec. (t)(2)(C). Pub. L. 109–351, § 726(18), substituted “material effect” for “material affect”.
 
-Subsec. (t)(4)(A)(ii)(II). Pub. L. 109–351, § 726(19), struck out “or” after semicolon at end.
+Subsec. (t)(4)(A)(ii)(II). Pub. L. 109–351, § 726(19), struck out “or” after semicolon at end.
 
 2004—Subsec. (w). Pub. L. 108–458 added subsec. (w).
 
-1998—Subsec. (h)(1). Pub. L. 105–219, § 301(g)(2), inserted “or another (including, in the case of a State-chartered insured credit union, the State official having jurisdiction over the credit union)” after “appoint itself” in introductory provisions.
+1998—Subsec. (h)(1). Pub. L. 105–219, § 301(g)(2), inserted “or another (including, in the case of a State-chartered insured credit union, the State official having jurisdiction over the credit union)” after “appoint itself” in introductory provisions.
 
-Subsec. (h)(1)(F), (G). Pub. L. 105–219, § 301(b)(1)(A), added subpars. (F) and (G).
+Subsec. (h)(1)(F), (G). Pub. L. 105–219, § 301(b)(1)(A), added subpars. (F) and (G).
 
-Subsec. (h)(2)(A). Pub. L. 105–219, § 301(b)(1)(B)(i), substituted “Except as provided in subparagraph (C), in the case” for “In the case”.
+Subsec. (h)(2)(A). Pub. L. 105–219, § 301(b)(1)(B)(i), substituted “Except as provided in subparagraph (C), in the case” for “In the case”.
 
-Subsec. (h)(2)(C). Pub. L. 105–219, § 301(b)(1)(B)(ii), added subpar. (C).
+Subsec. (h)(2)(C). Pub. L. 105–219, § 301(b)(1)(B)(ii), added subpar. (C).
 
-Subsec. (k)(1). Pub. L. 105–219, § 301(g)(1)(A), inserted “or section 1790d of this title” after “this section” in three places.
+Subsec. (k)(1). Pub. L. 105–219, § 301(g)(1)(A), inserted “or section 1790d of this title” after “this section” in three places.
 
-Subsec. (k)(2)(A)(ii). Pub. L. 105–219, § 301(g)(1)(B), inserted “, or any final order under section 1790d of this title” before semicolon at end.
+Subsec. (k)(2)(A)(ii). Pub. L. 105–219, § 301(g)(1)(B), inserted “, or any final order under section 1790d of this title” before semicolon at end.
 
 1994—Subsecs. (h)(1)(C), (i)(1)(A)(ii), (v)(1)(B). Pub. L. 103–325 substituted “section 5322 or 5324 of title 31” for “section 5322 of title 31”.
 
-1992—Subsec. (g)(2). Pub. L. 102–550, § 1504(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Whenever, in the opinion of the Board, any director, officer, or committee member of an insured credit union has committed any violation of the Depository Institution Management Interlocks Act, the Board may serve upon such director, officer, or committee member a written notice of its intention to remove him from office.”
+1992—Subsec. (g)(2). Pub. L. 102–550, § 1504(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Whenever, in the opinion of the Board, any director, officer, or committee member of an insured credit union has committed any violation of the Depository Institution Management Interlocks Act, the Board may serve upon such director, officer, or committee member a written notice of its intention to remove him from office.”
 
-Subsec. (h)(1)(C) to (E). Pub. L. 102–550, § 1501(b), added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
+Subsec. (h)(1)(C) to (E). Pub. L. 102–550, § 1501(b), added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
 
-Subsec. (i)(1). Pub. L. 102–550, § 1504(b)(2), amended par. (1) generally, subdividing existing provisions into subpars. (A) to (D), and, in subpar. (A), including violations under section 1956, 1957, or 1960 of title 18 or section 5322 of title 31 as reason for suspension of any violator from further participation in the affairs of the credit union.
+Subsec. (i)(1). Pub. L. 102–550, § 1504(b)(2), amended par. (1) generally, subdividing existing provisions into subpars. (A) to (D), and, in subpar. (A), including violations under section 1956, 1957, or 1960 of title 18 or section 5322 of title 31 as reason for suspension of any violator from further participation in the affairs of the credit union.
 
-Subsec. (v). Pub. L. 102–550, § 1503(b), added subsec. (v).
+Subsec. (v). Pub. L. 102–550, § 1503(b), added subsec. (v).
 
-1990—Subsec. (j)(1). Pub. L. 101–647, § 2547(b)(2), which directed amendment of par. (1) by striking out after first sentence “Such hearing shall be private, unless the Board, in its discretion, after fully considering the views of the party afforded the hearing, determines that a public hearing is necessary to protect the public interest.” was executed by striking out “Such hearing shall be private unless the Board, in its discretion, after fully considering the views of the party afforded the hearing, determines that a public hearing is necessary to protect the public interest.” as the probable intent of Congress.
+1990—Subsec. (j)(1). Pub. L. 101–647, § 2547(b)(2), which directed amendment of par. (1) by striking out after first sentence “Such hearing shall be private, unless the Board, in its discretion, after fully considering the views of the party afforded the hearing, determines that a public hearing is necessary to protect the public interest.” was executed by striking out “Such hearing shall be private unless the Board, in its discretion, after fully considering the views of the party afforded the hearing, determines that a public hearing is necessary to protect the public interest.” as the probable intent of Congress.
 
-Subsec. (s). Pub. L. 101–647, § 2547(b)(1), amended subsec. (s) generally. Prior to amendment, subsec. (s) read as follows:
+Subsec. (s). Pub. L. 101–647, § 2547(b)(1), amended subsec. (s) generally. Prior to amendment, subsec. (s) read as follows:
 
 “(1) In general.—The Board shall publish and make available to the public—
 
@@ -3831,145 +3831,145 @@ Subsec. (s). Pub. L. 101–647, § 2547(b)(1), amended subsec. (s) generally. 
 
 “(2) Delay of publication under exceptional circumstances.—If the Board makes a determination in writing that the publication of any final order pursuant to paragraph (1) would seriously threaten the safety or soundness of an insured credit union or other federally regulated depository institution, the Board may delay the publication of such order for a reasonable time.”
 
-Subsec. (t). Pub. L. 101–647, § 2523(b), added subsec. (t).
+Subsec. (t). Pub. L. 101–647, § 2523(b), added subsec. (t).
 
-Subsec. (u). Pub. L. 101–647, § 2532(c), added subsec. (u).
+Subsec. (u). Pub. L. 101–647, § 2532(c), added subsec. (u).
 
-1989—Subsec. (e)(1). Pub. L. 101–73, § 901(b)(2)(A), (B), substituted references to institution-affiliated parties for references to directors, officers, committee members, agents, or other persons participating in the conduct of the affairs of credit unions. Substitution by section 901(b)(2)(A)(ii) was executed to reflect the probable intent of Congress, notwithstanding an error in the directory language.
+1989—Subsec. (e)(1). Pub. L. 101–73, § 901(b)(2)(A), (B), substituted references to institution-affiliated parties for references to directors, officers, committee members, agents, or other persons participating in the conduct of the affairs of credit unions. Substitution by section 901(b)(2)(A)(ii) was executed to reflect the probable intent of Congress, notwithstanding an error in the directory language.
 
-Subsec. (e)(3), (4). Pub. L. 101–73, § 902(b)(1), added pars. (3) and (4).
+Subsec. (e)(3), (4). Pub. L. 101–73, § 902(b)(1), added pars. (3) and (4).
 
-Subsec. (f)(1). Pub. L. 101–73, § 902(b)(2)(B), substituted “significant” for “substantial”, struck out “seriously” before “weaken the condition of” and before “prejudice the interests of”, and inserted after first sentence “Such order may include any requirement authorized under subsection (e)(3)(B).”
+Subsec. (f)(1). Pub. L. 101–73, § 902(b)(2)(B), substituted “significant” for “substantial”, struck out “seriously” before “weaken the condition of” and before “prejudice the interests of”, and inserted after first sentence “Such order may include any requirement authorized under subsection (e)(3)(B).”
 
-Pub. L. 101–73, § 901(b)(2)(B), (C), substituted references to institution-affiliated parties for references to directors, officers, committee members, employees, agents, or other persons participating in the conduct of the affairs of credit unions.
+Pub. L. 101–73, § 901(b)(2)(B), (C), substituted references to institution-affiliated parties for references to directors, officers, committee members, employees, agents, or other persons participating in the conduct of the affairs of credit unions.
 
-Subsec. (f)(2). Pub. L. 101–73, § 901(b)(2)(B), substituted references to institution-affiliated parties for references to directors, officers, committee members, employees, agents, or other persons participating in the conduct of the affairs of credit unions.
+Subsec. (f)(2). Pub. L. 101–73, § 901(b)(2)(B), substituted references to institution-affiliated parties for references to directors, officers, committee members, employees, agents, or other persons participating in the conduct of the affairs of credit unions.
 
-Subsec. (f)(3), (4). Pub. L. 101–73, § 902(b)(2)(A), (C), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (f)(3), (4). Pub. L. 101–73, § 902(b)(2)(A), (C), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (g)(1). Pub. L. 101–73, § 903(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Whenever, in the opinion of the Board, any director, officer, committee member, or employee of an insured credit union has committed any violation of law, rule, or regulation, or of a cease-and-desist order which has become final, or has engaged or participated in any unsafe or unsound practice in connection with the credit union, or has committed or engaged in any act, omission, or practice which constitutes a breach of his fiduciary duty as such director, officer, committee member, or employee and the Board determines that the credit union has suffered or will probably suffer substantial financial loss or other damage or that the interests of its insured members could be seriously prejudiced by reason of such violation or practice or breach of fiduciary duty, the Board may serve upon such director, officer, committee member, or employee a written notice of its intention to remove him from office.”
+Subsec. (g)(1). Pub. L. 101–73, § 903(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Whenever, in the opinion of the Board, any director, officer, committee member, or employee of an insured credit union has committed any violation of law, rule, or regulation, or of a cease-and-desist order which has become final, or has engaged or participated in any unsafe or unsound practice in connection with the credit union, or has committed or engaged in any act, omission, or practice which constitutes a breach of his fiduciary duty as such director, officer, committee member, or employee and the Board determines that the credit union has suffered or will probably suffer substantial financial loss or other damage or that the interests of its insured members could be seriously prejudiced by reason of such violation or practice or breach of fiduciary duty, the Board may serve upon such director, officer, committee member, or employee a written notice of its intention to remove him from office.”
 
-Subsec. (g)(2). Pub. L. 101–73, § 903(b)(2), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Whenever, in the opinion of the Board, any director, officer, committee member, or employee of an insured credit union, by conduct or practice with respect to another insured credit union or other business institution which resulted in substantial financial loss or other damage, has evidenced his personal dishonesty or unfitness to continue as a director, officer, committee member, or employee, and, whenever, in the opinion of the Board, any agent or other person participating in the conduct of the affairs of an insured credit union, by conduct or practice with respect to such credit union or other insured credit union or other business institution which resulted in substantial financial loss or other damage, has evidenced his personal dishonesty or unfitness to participate in the conduct of the affairs of such insured credit union, the Board may serve upon such director, officer, committee member, employee, agent, or other person a written notice of its intention to remove him from office and/or to prohibit his further participation in any manner in the conduct of the affairs of such credit union.”
+Subsec. (g)(2). Pub. L. 101–73, § 903(b)(2), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Whenever, in the opinion of the Board, any director, officer, committee member, or employee of an insured credit union, by conduct or practice with respect to another insured credit union or other business institution which resulted in substantial financial loss or other damage, has evidenced his personal dishonesty or unfitness to continue as a director, officer, committee member, or employee, and, whenever, in the opinion of the Board, any agent or other person participating in the conduct of the affairs of an insured credit union, by conduct or practice with respect to such credit union or other insured credit union or other business institution which resulted in substantial financial loss or other damage, has evidenced his personal dishonesty or unfitness to participate in the conduct of the affairs of such insured credit union, the Board may serve upon such director, officer, committee member, employee, agent, or other person a written notice of its intention to remove him from office and/or to prohibit his further participation in any manner in the conduct of the affairs of such credit union.”
 
-Subsec. (g)(3). Pub. L. 101–73, § 903(b)(2), added par. (3). Former par. (3) redesignated (2).
+Subsec. (g)(3). Pub. L. 101–73, § 903(b)(2), added par. (3). Former par. (3) redesignated (2).
 
-Subsec. (g)(4). Pub. L. 101–73, § 903(b)(2), redesignated par. (5) as (4) and struck out former par. (4) which provided for temporary suspension from office or prohibition from further participation in credit union activities.
+Subsec. (g)(4). Pub. L. 101–73, § 903(b)(2), redesignated par. (5) as (4) and struck out former par. (4) which provided for temporary suspension from office or prohibition from further participation in credit union activities.
 
-Subsec. (g)(5). Pub. L. 101–73, § 903(b)(2), (3), added par. (5). Former par. (5) redesignated (4).
+Subsec. (g)(5). Pub. L. 101–73, § 903(b)(2), (3), added par. (5). Former par. (5) redesignated (4).
 
-Subsec. (g)(6). Pub. L. 101–73, § 903(b)(4), substituted “credit union under paragraph (3)” for “credit union under paragraph (4)” and “person under paragraph (1) or (2)” for “person under paragraph (1), (2), or (3)”.
+Subsec. (g)(6). Pub. L. 101–73, § 903(b)(4), substituted “credit union under paragraph (3)” for “credit union under paragraph (4)” and “person under paragraph (1) or (2)” for “person under paragraph (1), (2), or (3)”.
 
-Subsec. (g)(7). Pub. L. 101–73, § 904(b), amended par. (7) generally, revising and restating as subpars. (A) to (F) provisions of former subpars. (A) and (B).
+Subsec. (g)(7). Pub. L. 101–73, § 904(b), amended par. (7) generally, revising and restating as subpars. (A) to (F) provisions of former subpars. (A) and (B).
 
-Subsec. (h)(3). Pub. L. 101–73, § 1217(b), inserted at end “Except as provided in this paragraph, no court may take any action, except at the request of the Board by regulation or order, to restrain or affect the exercise of powers or functions of the Board as conservator.”
+Subsec. (h)(3). Pub. L. 101–73, § 1217(b), inserted at end “Except as provided in this paragraph, no court may take any action, except at the request of the Board by regulation or order, to restrain or affect the exercise of powers or functions of the Board as conservator.”
 
-Subsec. (i)(1). Pub. L. 101–73, § 906(b), struck out “authorized by a United States attorney” after “is charged in any information, indictment, or complaint”, and substituted “or an agreement to enter a pre-trial diversion or other similar program” for “with respect to such crime” after “judgment of conviction”.
+Subsec. (i)(1). Pub. L. 101–73, § 906(b), struck out “authorized by a United States attorney” after “is charged in any information, indictment, or complaint”, and substituted “or an agreement to enter a pre-trial diversion or other similar program” for “with respect to such crime” after “judgment of conviction”.
 
-Pub. L. 101–73, § 901(b)(2)(D)(i)–(iv), (vi), substituted references to institution-affiliated parties for references to directors, committee members, or officers of insured credit unions, or other persons participating in the conduct of the affairs of credit unions, and substituted “whereupon such party (if a director, a committee member, or an officer)” for “whereupon such director, committee member, or officer”.
+Pub. L. 101–73, § 901(b)(2)(D)(i)–(iv), (vi), substituted references to institution-affiliated parties for references to directors, committee members, or officers of insured credit unions, or other persons participating in the conduct of the affairs of credit unions, and substituted “whereupon such party (if a director, a committee member, or an officer)” for “whereupon such director, committee member, or officer”.
 
-Pub. L. 101–73, § 901(b)(2)(D)(v), which directed the substitution of “party” for “director, officer or other person” could not be executed because “director, officer or other person” does not appear in par. (1).
+Pub. L. 101–73, § 901(b)(2)(D)(v), which directed the substitution of “party” for “director, officer or other person” could not be executed because “director, officer or other person” does not appear in par. (1).
 
-Subsec. (i)(3). Pub. L. 101–73, § 901(b)(2)(E)(i)–(iv), substituted references to institution-affiliated parties for references to directors, committee members, officers, or other persons.
+Subsec. (i)(3). Pub. L. 101–73, § 901(b)(2)(E)(i)–(iv), substituted references to institution-affiliated parties for references to directors, committee members, officers, or other persons.
 
-Pub. L. 101–73, § 901(b)(2)(E)(v), which directed the substitution of “such party” for “said director, committee member, officer or other person” was executed by making the substitution for “said director, committee member, officer, or other person” after “whether the order removing” in third sentence to reflect the probable intent of Congress.
+Pub. L. 101–73, § 901(b)(2)(E)(v), which directed the substitution of “such party” for “said director, committee member, officer or other person” was executed by making the substitution for “said director, committee member, officer, or other person” after “whether the order removing” in third sentence to reflect the probable intent of Congress.
 
-Subsec. (j)(2). Pub. L. 101–73, § 920(b), substituted “Any party to any proceeding under paragraph (1)” for “Any party to the proceeding, or any person required by an order issued under this section to cease and desist from any of the practices or violations stated therein,”.
+Subsec. (j)(2). Pub. L. 101–73, § 920(b), substituted “Any party to any proceeding under paragraph (1)” for “Any party to the proceeding, or any person required by an order issued under this section to cease and desist from any of the practices or violations stated therein,”.
 
-Pub. L. 101–73, § 901(b)(2)(F), substituted “institution-affiliated party” for “director, officer, committee member, or other person”.
+Pub. L. 101–73, § 901(b)(2)(F), substituted “institution-affiliated party” for “director, officer, committee member, or other person”.
 
-Subsec. (k)(2). Pub. L. 101–73, § 907(b), in amending par. (2) generally, designated existing provisions as cls. (i) to (iv), substituted provisions imposing a fine of $5,000 per day for violation of any law or regulation, a final or temporary order, any condition imposed in writing, or any written agreement for provisions imposing a fine of $1,000 per day for violation of any final order, authorizing the penalizing agency to compromise or modify such penalty, providing for assessment and collection of such penalty by written notice, and defining “violates”, and added subpars. (B) to (L).
+Subsec. (k)(2). Pub. L. 101–73, § 907(b), in amending par. (2) generally, designated existing provisions as cls. (i) to (iv), substituted provisions imposing a fine of $5,000 per day for violation of any law or regulation, a final or temporary order, any condition imposed in writing, or any written agreement for provisions imposing a fine of $1,000 per day for violation of any final order, authorizing the penalizing agency to compromise or modify such penalty, providing for assessment and collection of such penalty by written notice, and defining “violates”, and added subpars. (B) to (L).
 
-Subsec. (k)(3). Pub. L. 101–73, § 905(b), added par. (3).
+Subsec. (k)(3). Pub. L. 101–73, § 905(b), added par. (3).
 
-Subsec. (*l*). Pub. L. 101–73, § 908(b), amended subsec. (*l*) generally. Prior to amendment, subsec. (*l*) read as follows: “Any director, officer, or committee member, or former director, officer, or committee member, of an insured credit union or of a credit union any of the member accounts of which are insured, or any other person against whom there is outstanding and effective any notice or order (which is an order which has become final) served upon such director, officer, committee member, or other person under subsections (g)(4), (g)(5), or (i) of this section and who (i) participates in any manner in the conduct of the affairs of the credit union involved, or directly or indirectly solicits or procures, or transfers or attempts to transfer, or votes or attempts to vote, any proxies, consents, or authorizations in respect of any voting rights in such credit union, or (ii) without the prior written approval of the Board votes for a director, serves or acts as a director, officer, committee member, or employee of any credit union, shall upon conviction be fined not more than $5,000 or imprisoned for not more than one year, or both.”
+Subsec. (*l*). Pub. L. 101–73, § 908(b), amended subsec. (*l*) generally. Prior to amendment, subsec. (*l*) read as follows: “Any director, officer, or committee member, or former director, officer, or committee member, of an insured credit union or of a credit union any of the member accounts of which are insured, or any other person against whom there is outstanding and effective any notice or order (which is an order which has become final) served upon such director, officer, committee member, or other person under subsections (g)(4), (g)(5), or (i) of this section and who (i) participates in any manner in the conduct of the affairs of the credit union involved, or directly or indirectly solicits or procures, or transfers or attempts to transfer, or votes or attempts to vote, any proxies, consents, or authorizations in respect of any voting rights in such credit union, or (ii) without the prior written approval of the Board votes for a director, serves or acts as a director, officer, committee member, or employee of any credit union, shall upon conviction be fined not more than $5,000 or imprisoned for not more than one year, or both.”
 
-Subsec. (*o*). Pub. L. 101–73, § 901(b)(2)(G), substituted “institution-affiliated party” for “director, officer, committee member or other person participating in the conduct of its affairs”.
+Subsec. (*o*). Pub. L. 101–73, § 901(b)(2)(G), substituted “institution-affiliated party” for “director, officer, committee member or other person participating in the conduct of its affairs”.
 
-Subsec. (p). Pub. L. 101–73, § 915(b), in first sentence, inserted “or in connection with any claim for insured deposits or any examination or investigation under section 1784(b) of this title” after “any proceeding under this section”, “, in conducting the proceeding, examination, or investigation or considering the claim for insured deposits,” after “section, the Board”, and “, claims, examinations, or investigations” before period at end.
+Subsec. (p). Pub. L. 101–73, § 915(b), in first sentence, inserted “or in connection with any claim for insured deposits or any examination or investigation under section 1784(b) of this title” after “any proceeding under this section”, “, in conducting the proceeding, examination, or investigation or considering the claim for insured deposits,” after “section, the Board”, and “, claims, examinations, or investigations” before period at end.
 
-Subsec. (r). Pub. L. 101–73, § 901(a), added subsec. (r).
+Subsec. (r). Pub. L. 101–73, § 901(a), added subsec. (r).
 
-Subsec. (s). Pub. L. 101–73, § 913(b), added subsec. (s).
+Subsec. (s). Pub. L. 101–73, § 913(b), added subsec. (s).
 
-1987—Pub. L. 100–86, § 509(a), repealed Pub. L. 97–320, § 141. See 1982 Amendment notes below.
+1987—Pub. L. 100–86, § 509(a), repealed Pub. L. 97–320, § 141. See 1982 Amendment notes below.
 
-Subsec. (g)(1). Pub. L. 100–86, § 709(1), substituted “committee member, or employee” for “or committee member” in three places.
+Subsec. (g)(1). Pub. L. 100–86, § 709(1), substituted “committee member, or employee” for “or committee member” in three places.
 
-Subsec. (g)(2). Pub. L. 100–86, § 709(2)–(4), substituted “committee member, or employee” for “or committee member” in two places, substituted “any agent or other person” for “any other person”, and inserted “employee, agent,” before “or other person”.
+Subsec. (g)(2). Pub. L. 100–86, § 709(2)–(4), substituted “committee member, or employee” for “or committee member” in two places, substituted “any agent or other person” for “any other person”, and inserted “employee, agent,” before “or other person”.
 
-Subsec. (g)(7). Pub. L. 100–86, § 710, added par. (7).
+Subsec. (g)(7). Pub. L. 100–86, § 710, added par. (7).
 
-Subsec. (h)(1)(C), (D). Pub. L. 100–86, § 711, added subpars. (C) and (D).
+Subsec. (h)(1)(C), (D). Pub. L. 100–86, § 711, added subpars. (C) and (D).
 
-Subsec. (h)(2)(B). Pub. L. 100–86, § 712, substituted “30” for “ninety”.
+Subsec. (h)(2)(B). Pub. L. 100–86, § 712, substituted “30” for “ninety”.
 
-Subsec. (h)(8), (9). Pub. L. 100–86, § 713, added par. (8) and redesignated former par. (8) as (9).
+Subsec. (h)(8), (9). Pub. L. 100–86, § 713, added par. (8) and redesignated former par. (8) as (9).
 
-1986—Subsec. (k)(2)(A). Pub. L. 99–570, § 1359(d)(2), inserted reference to subsec. (q) of this section.
+1986—Subsec. (k)(2)(A). Pub. L. 99–570, § 1359(d)(2), inserted reference to subsec. (q) of this section.
 
-Subsec. (q). Pub. L. 99–570, § 1359(d)(1), added subsec. (q).
+Subsec. (q). Pub. L. 99–570, § 1359(d)(1), added subsec. (q).
 
 1984—Subsec. (d)(1). Pub. L. 98–369 inserted “(1)” after “subsection (a)”, “maintain its deposit with and”, and provisions relating to termination of insured status and the obtaining of comparable insurance coverage from another source.
 
-1982—Subsec. (b)(2). Pub. L. 97–320, § 132(b), substituted “subsection (j)” for “subsection (i)”.
+1982—Subsec. (b)(2). Pub. L. 97–320, § 132(b), substituted “subsection (j)” for “subsection (i)”.
 
-Pub. L. 97–320, § 141(a)(8), which directed that, effective Oct. 13, 1986, the provisions of law amended by section 132 of Pub. L. 97–320 shall be amended to read as they would without such amendment, was repealed by Pub. L. 100–86, § 509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320 note set out under section 1464 of this title.
+Pub. L. 97–320, § 141(a)(8), which directed that, effective Oct. 13, 1986, the provisions of law amended by section 132 of Pub. L. 97–320 shall be amended to read as they would without such amendment, was repealed by Pub. L. 100–86, § 509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320 note set out under section 1464 of this title.
 
-Subsec. (g)(3) to (6). Pub. L. 97–320, § 427(c)(1), added par. (3); redesignated former pars. (3) to (5) as (4) to (6), respectively; inserted reference to par. (3) in two places and substituted reference to par. (6) for par. (5) in par. (4); and inserted reference to par. (3) and substituted reference to par. (4) for par. (3) in par. (6).
+Subsec. (g)(3) to (6). Pub. L. 97–320, § 427(c)(1), added par. (3); redesignated former pars. (3) to (5) as (4) to (6), respectively; inserted reference to par. (3) in two places and substituted reference to par. (6) for par. (5) in par. (4); and inserted reference to par. (3) and substituted reference to par. (4) for par. (3) in par. (6).
 
-Subsecs. (h), (i). Pub. L. 97–320, § 132(a), added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
+Subsecs. (h), (i). Pub. L. 97–320, § 132(a), added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 
-Pub. L. 97–320, § 141(a)(8), which directed that, effective Oct. 13, 1986, the provisions of law amended by section 132 of Pub. L. 97–320 shall be amended to read as they would without such amendment, was repealed by Pub. L. 100–86, § 509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320 note set out under section 1464 of this title.
+Pub. L. 97–320, § 141(a)(8), which directed that, effective Oct. 13, 1986, the provisions of law amended by section 132 of Pub. L. 97–320 shall be amended to read as they would without such amendment, was repealed by Pub. L. 100–86, § 509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320 note set out under section 1464 of this title.
 
-Subsec. (j). Pub. L. 97–320, § 132(a), (c), (d), redesignated former subsec. (i) as (j), substituted “subsection (i)(3)” for “subsection (h)(3)” in first sentence and “subsection (j)” for “subsection (i)” in fourth sentence of par. (1), and substituted “subsection (i)(1)” for “subsection (h)(1)” after “an order issued under” in par. (2). Former subsec. (j) redesignated (k).
+Subsec. (j). Pub. L. 97–320, § 132(a), (c), (d), redesignated former subsec. (i) as (j), substituted “subsection (i)(3)” for “subsection (h)(3)” in first sentence and “subsection (j)” for “subsection (i)” in fourth sentence of par. (1), and substituted “subsection (i)(1)” for “subsection (h)(1)” after “an order issued under” in par. (2). Former subsec. (j) redesignated (k).
 
-Pub. L. 97–320, § 141(a)(8), which directed that, effective Oct. 13, 1986, the provisions of law amended by section 132 of Pub. L. 97–320 shall be amended to read as they would without such amendment, was repealed by Pub. L. 100–86, § 509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320 note set out under section 1464 of this title.
+Pub. L. 97–320, § 141(a)(8), which directed that, effective Oct. 13, 1986, the provisions of law amended by section 132 of Pub. L. 97–320 shall be amended to read as they would without such amendment, was repealed by Pub. L. 100–86, § 509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320 note set out under section 1464 of this title.
 
-Subsec. (k). Pub. L. 97–320, § 132(a)(1), redesignated former subsec. (j) as (k). Former subsec. (k) redesignated (*l*).
+Subsec. (k). Pub. L. 97–320, § 132(a)(1), redesignated former subsec. (j) as (k). Former subsec. (k) redesignated (*l*).
 
-Pub. L. 97–320, § 141(a)(8), which directed that, effective Oct. 13, 1986, the provisions of law amended by section 132 of Pub. L. 97–320 shall be amended to read as they would without such amendment, was repealed by Pub. L. 100–86, § 509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320 note set out under section 1464 of this title.
+Pub. L. 97–320, § 141(a)(8), which directed that, effective Oct. 13, 1986, the provisions of law amended by section 132 of Pub. L. 97–320 shall be amended to read as they would without such amendment, was repealed by Pub. L. 100–86, § 509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320 note set out under section 1464 of this title.
 
-Subsec. (k)(2)(A), (D). Pub. L. 97–320, § 424(a), (d)(9), (e), which directed insertion of proviso giving Board authority to compromise, etc., any civil money penalty imposed under this subsection and substitution of “may be assessed” for “shall be assessed” in subsec. (j)(2)(A), and substitution of “twenty days from the service” for “ten days from the date” in subsection (j)(2)(D), was executed to subsec. (k)(2)(A), (D) to reflect the probable intent of Congress and the redesignation of subsec. (j) as (k) by section 132(a)(1) of Pub. L. 97–320.
+Subsec. (k)(2)(A), (D). Pub. L. 97–320, § 424(a), (d)(9), (e), which directed insertion of proviso giving Board authority to compromise, etc., any civil money penalty imposed under this subsection and substitution of “may be assessed” for “shall be assessed” in subsec. (j)(2)(A), and substitution of “twenty days from the service” for “ten days from the date” in subsection (j)(2)(D), was executed to subsec. (k)(2)(A), (D) to reflect the probable intent of Congress and the redesignation of subsec. (j) as (k) by section 132(a)(1) of Pub. L. 97–320.
 
-Subsec. (*l*). Pub. L. 97–320, § 132(a)(1), (e), redesignated former subsec. (k) as (*l*) and substituted “(i)” for “(h)” after “(g)(3), (g)(4), or”. Former subsec. (*l*) redesignated (m).
+Subsec. (*l*). Pub. L. 97–320, § 132(a)(1), (e), redesignated former subsec. (k) as (*l*) and substituted “(i)” for “(h)” after “(g)(3), (g)(4), or”. Former subsec. (*l*) redesignated (m).
 
-Pub. L. 97–320, § 141(a)(8), which directed that, effective Oct. 13, 1986, the provisions of law amended by section 132 of Pub. L. 97–320 shall be amended to read as they would without such amendment, was repealed by Pub. L. 100–86, § 509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320 note set out under section 1464 of this title.
+Pub. L. 97–320, § 141(a)(8), which directed that, effective Oct. 13, 1986, the provisions of law amended by section 132 of Pub. L. 97–320 shall be amended to read as they would without such amendment, was repealed by Pub. L. 100–86, § 509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320 note set out under section 1464 of this title.
 
-Pub. L. 97–320, § 427(c)(2), which directed substitution of reference to subsec. (g)(5) for subsec. (g)(3) in subsec. (k), was executed to subsec. (*l*) to reflect the probable intent of Congress and the redesignation of subsec. (k) as (*l*) by section 132(a)(1) of Pub. L. 97–320.
+Pub. L. 97–320, § 427(c)(2), which directed substitution of reference to subsec. (g)(5) for subsec. (g)(3) in subsec. (k), was executed to subsec. (*l*) to reflect the probable intent of Congress and the redesignation of subsec. (k) as (*l*) by section 132(a)(1) of Pub. L. 97–320.
 
-Subsec. (m). Pub. L. 97–320, § 132(a)(1), (f), redesignated former subsec. (*l*) as (m) and substituted “subjection (j)” for “subsection (i)” after “paragraph (2) of” and “subsection (i)” for “subsection (h)” after “an order issued under”. Former subsec. (m) redesignated (n).
+Subsec. (m). Pub. L. 97–320, § 132(a)(1), (f), redesignated former subsec. (*l*) as (m) and substituted “subjection (j)” for “subsection (i)” after “paragraph (2) of” and “subsection (i)” for “subsection (h)” after “an order issued under”. Former subsec. (m) redesignated (n).
 
-Pub. L. 97–320, § 141(a)(8), which directed that, effective Oct. 13, 1986, the provisions of law amended by section 132 of Pub. L. 97–320 shall be amended to read as they would without such amendment, was repealed by Pub. L. 100–86, § 509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320 note set out under section 1464 of this title.
+Pub. L. 97–320, § 141(a)(8), which directed that, effective Oct. 13, 1986, the provisions of law amended by section 132 of Pub. L. 97–320 shall be amended to read as they would without such amendment, was repealed by Pub. L. 100–86, § 509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320 note set out under section 1464 of this title.
 
-Subsecs. (n) to (p). Pub. L. 97–320, § 132(a)(1), redesignated former subsecs. (m) to (*o*) as (n) to (p), respectively.
+Subsecs. (n) to (p). Pub. L. 97–320, § 132(a)(1), redesignated former subsecs. (m) to (*o*) as (n) to (p), respectively.
 
-Pub. L. 97–320, § 141(a)(8), which directed that, effective Oct. 13, 1986, the provisions of law amended by section 132 of Pub. L. 97–320 shall be amended to read as they would without such amendment, was repealed by Pub. L. 100–86, § 509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320 note set out under section 1464 of this title.
+Pub. L. 97–320, § 141(a)(8), which directed that, effective Oct. 13, 1986, the provisions of law amended by section 132 of Pub. L. 97–320 shall be amended to read as they would without such amendment, was repealed by Pub. L. 100–86, § 509(a). See Effective and Termination Dates of 1982 Amendment note and Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320 note set out under section 1464 of this title.
 
-1978—Subsecs. (a) to (d). Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” wherever appearing, and “it” and “its” for “he” and “his”, respectively, where appropriate.
+1978—Subsecs. (a) to (d). Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” wherever appearing, and “it” and “its” for “he” and “his”, respectively, where appropriate.
 
-Subsec. (e). Pub. L. 95–630, §§ 107(a)(4), 502(b), substituted “Board” for “Administrator” wherever appearing, and in par. (1) extended coverage of provisions to include directors, officers, committee members, employees, agents, or other persons participating in the conduct of the affairs of any insured credit union or credit union which has insured accounts.
+Subsec. (e). Pub. L. 95–630, §§ 107(a)(4), 502(b), substituted “Board” for “Administrator” wherever appearing, and in par. (1) extended coverage of provisions to include directors, officers, committee members, employees, agents, or other persons participating in the conduct of the affairs of any insured credit union or credit union which has insured accounts.
 
-Subsec. (f). Pub. L. 95–630, §§ 107(c)(4), 502(b), substituted “Board” for “Administrator” wherever appearing, inserted references to any director, officer, committee member, employee, agent, or other person participating in the conduct of the affairs of the credit union, and inserted in par. (1) “prior to the completion of the proceedings conducted pursuant to paragraph (1) of subsection (e) of this section” after “its insured members” and “and to take affirmative action to prevent such insolvency, dissipation, condition, or prejudice pending completion of such proceedings” after “violation or practice”.
+Subsec. (f). Pub. L. 95–630, §§ 107(c)(4), 502(b), substituted “Board” for “Administrator” wherever appearing, inserted references to any director, officer, committee member, employee, agent, or other person participating in the conduct of the affairs of the credit union, and inserted in par. (1) “prior to the completion of the proceedings conducted pursuant to paragraph (1) of subsection (e) of this section” after “its insured members” and “and to take affirmative action to prevent such insolvency, dissipation, condition, or prejudice pending completion of such proceedings” after “violation or practice”.
 
-Subsec. (g). Pub. L. 95–630, §§ 107(d)(4), 502(b), substituted “Board” for “Administrator” wherever appearing, in pars. (1), (2) “its” for “his”, in par. (3) “it” for “he”, “or prohibit him” for “and/or prohibit him”, “suspension or prohibition” for “suspension and/or prohibition”, and “removal and prohibition” for “removal and/or prohibition”, and in par. (4) “or to prohibit” for “and/or to prohibit”, “removal or prohibition” for “removal and/or prohibition”, and “or prohibition” for “and/or prohibition”.
+Subsec. (g). Pub. L. 95–630, §§ 107(d)(4), 502(b), substituted “Board” for “Administrator” wherever appearing, in pars. (1), (2) “its” for “his”, in par. (3) “it” for “he”, “or prohibit him” for “and/or prohibit him”, “suspension or prohibition” for “suspension and/or prohibition”, and “removal and prohibition” for “removal and/or prohibition”, and in par. (4) “or to prohibit” for “and/or to prohibit”, “removal or prohibition” for “removal and/or prohibition”, and “or prohibition” for “and/or prohibition”.
 
-Subsec. (h). Pub. L. 95–630, §§ 111(d)(1), 502(b), among other changes, substituted “Board” for “Administrator” wherever appearing, in par. (1) substituted “Crime” for “felony” in two places and “subsection (g) of this section” for “paragraph (1) or (2) of subsection (g) of this section”, inserted “which is punishable by imprisonment for a term exceeding one year under State or Federal law” after “or breach of trust” and “, if continued service or participation by the individual may pose a threat to the interests of the credit union’s members or may threaten to impair public confidence in the credit union” after “the Board may” in two places, and inserted provision that any notice of suspension or order of removal issued under this paragraph remain effective and outstanding until the completion of any hearing or appeal authorized under paragraph (3) hereof unless terminated by the Board, and added par. (3).
+Subsec. (h). Pub. L. 95–630, §§ 111(d)(1), 502(b), among other changes, substituted “Board” for “Administrator” wherever appearing, in par. (1) substituted “Crime” for “felony” in two places and “subsection (g) of this section” for “paragraph (1) or (2) of subsection (g) of this section”, inserted “which is punishable by imprisonment for a term exceeding one year under State or Federal law” after “or breach of trust” and “, if continued service or participation by the individual may pose a threat to the interests of the credit union’s members or may threaten to impair public confidence in the credit union” after “the Board may” in two places, and inserted provision that any notice of suspension or order of removal issued under this paragraph remain effective and outstanding until the completion of any hearing or appeal authorized under paragraph (3) hereof unless terminated by the Board, and added par. (3).
 
-Subsec. (i). Pub. L. 95–630, §§ 111(d)(2), (3), 502(b), substituted “Board” for “Administrator” wherever appearing, in par. (1) substituted “its” for “his” and “it” for “he” and “him” and inserted “(other than the hearing provided for in subsection (h)(3) of this section)” after “provided for in this section”, and in par. (2) substituted “subsection (h)(1)” for “subsection (h)”.
+Subsec. (i). Pub. L. 95–630, §§ 111(d)(2), (3), 502(b), substituted “Board” for “Administrator” wherever appearing, in par. (1) substituted “its” for “his” and “it” for “he” and “him” and inserted “(other than the hearing provided for in subsection (h)(3) of this section)” after “provided for in this section”, and in par. (2) substituted “subsection (h)(1)” for “subsection (h)”.
 
-Subsec. (j). Pub. L. 95–630, §§ 107(e)(4), 502(b), designated existing provisions as par. (1), added par. (2), and substituted “Board” for “Administrator” wherever appearing and “its” for “his” in par. (1).
+Subsec. (j). Pub. L. 95–630, §§ 107(e)(4), 502(b), designated existing provisions as par. (1), added par. (2), and substituted “Board” for “Administrator” wherever appearing and “its” for “his” in par. (1).
 
-Subsecs. (k) to (*o*). Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” wherever appearing.
+Subsecs. (k) to (*o*). Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” wherever appearing.
 
-1977—Subsec. (g)(1). Pub. L. 95–22, § 307(a), struck out “and that such violation or practice or breach of fiduciary duty is one involving personal dishonesty on the part of such director, officer, or committee member” after “or breach of fiduciary duty”.
+1977—Subsec. (g)(1). Pub. L. 95–22, § 307(a), struck out “and that such violation or practice or breach of fiduciary duty is one involving personal dishonesty on the part of such director, officer, or committee member” after “or breach of fiduciary duty”.
 
-Subsec. (g)(2). Pub. L. 95–22, § 307(b), substituted “dishonesty or unfitness” for “dishonesty and unfitness” wherever appearing.
+Subsec. (g)(2). Pub. L. 95–22, § 307(b), substituted “dishonesty or unfitness” for “dishonesty and unfitness” wherever appearing.
 
-1974—Subsec. (a). Pub. L. 93–383, § 728(a), designated existing provisions as par. (1) and added par. (2).
+1974—Subsec. (a). Pub. L. 93–383, § 728(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (c). Pub. L. 93–383, § 728(b), inserted “(1)” after “(a)”.
+Subsec. (c). Pub. L. 93–383, § 728(b), inserted “(1)” after “(a)”.
 
-Subsec. (d). Pub. L. 93–383, § 728(c), designated existing provisions as par. (1) and added pars. (2) and (3).
+Subsec. (d). Pub. L. 93–383, § 728(c), designated existing provisions as par. (1) and added pars. (2) and (3).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3983,15 +3983,15 @@ Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 o
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–458, title VI, § 6303(d), Dec. 17, 2004, 118 Stat. 3754, provided that: “Notwithstanding any other effective date established pursuant to this Act [see Tables for classification], subsection (a) shall become effective on the date of enactment of this Act [Dec. 17, 2004], and the amendments made by subsections (b) and (c) [amending this section and section 1820 of this title] shall become effective at the end of the 12-month period beginning on the date of enactment of this Act [Dec. 17, 2004], whether or not final regulations are issued in accordance with the amendments made by this section [amending this section and section 1820 of this title] as of that date of enactment.”
+Pub. L. 108–458, title VI, § 6303(d), Dec. 17, 2004, 118 Stat. 3754, provided that: “Notwithstanding any other effective date established pursuant to this Act [see Tables for classification], subsection (a) shall become effective on the date of enactment of this Act [Dec. 17, 2004], and the amendments made by subsections (b) and (c) [amending this section and section 1820 of this title] shall become effective at the end of the 12-month period beginning on the date of enactment of this Act [Dec. 17, 2004], whether or not final regulations are issued in accordance with the amendments made by this section [amending this section and section 1820 of this title] as of that date of enactment.”
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–550, title XV, § 1501(c), Oct. 28, 1992, 106 Stat. 4045, provided that: “The amendments made by this section [amending this section and section 1821 of this title] shall take effect on December 20, 1992.”
+Pub. L. 102–550, title XV, § 1501(c), Oct. 28, 1992, 106 Stat. 4045, provided that: “The amendments made by this section [amending this section and section 1821 of this title] shall take effect on December 20, 1992.”
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–73, title IX, § 903(e), Aug. 9, 1989, 103 Stat. 457, provided that: “The amendments made by this section [amending this section and section 1818 of this title] shall apply with respect to violations committed and activities engaged in after the date of the enactment of this Act [Aug. 9, 1989].”
+Pub. L. 101–73, title IX, § 903(e), Aug. 9, 1989, 103 Stat. 457, provided that: “The amendments made by this section [amending this section and section 1818 of this title] shall apply with respect to violations committed and activities engaged in after the date of the enactment of this Act [Aug. 9, 1989].”
 
 **Effective Date of 1978 Amendment**
 
@@ -4013,15 +4013,15 @@ No amendment made by section 141(a) of Pub. L. 97–320, set out as a note under
 
 Section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this title, as in effect on the day after Aug. 27, 1986, applicable as if included in Pub. L. 97–320 on Oct. 15, 1982, with no amendment made by such section to any other provision of law to be deemed to have taken effect before Aug. 27, 1986, and any such provision of law to be in effect as if no such amendment had taken effect before Aug. 27, 1986, see section 1(c) of Pub. L. 99–400, set out as a note under section 1464 of this title.
 
-### § 1786a. Omitted
+### § 1786a. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act June 26, 1934, ch. 750, title II, § 206A, as added Pub. L. 105–164, § 3(b), Mar. 20, 1998, 112 Stat. 35; amended Pub. L. 109–351, title VII, § 726(20), Oct. 13, 2006, 120 Stat. 2003, which related to regulation and examination of credit union organizations and service providers by the National Credit Union Administration Board, ceased to be effective as of Dec. 31, 2001, pursuant to subsec. (f) of the section.
+Section, act June 26, 1934, ch. 750, title II, § 206A, as added Pub. L. 105–164, § 3(b), Mar. 20, 1998, 112 Stat. 35; amended Pub. L. 109–351, title VII, § 726(20), Oct. 13, 2006, 120 Stat. 2003, which related to regulation and examination of credit union organizations and service providers by the National Credit Union Administration Board, ceased to be effective as of Dec. 31, 2001, pursuant to subsec. (f) of the section.
 
-### § 1787. Payment of insurance
+### § 1787. Payment of insurance
 
 **(a) Liquidation by Board; bond; appointment of agent; fees to be fixed by Board**
 
@@ -4559,9 +4559,9 @@ The acceptance by any conservator or liquidating agent of services referred to i
 
 **(i)** any right such person has to cause the termination, liquidation, or acceleration of any qualified financial contract with an insured credit union which arises upon the appointment of the Board as liquidating agent for such credit union at any time after such appointment;
 
-**(ii)** any right under any security agreement or arrangement or other credit enhancement related to 1 or more qualified financial contracts described in clause (i); 1
+**(ii)** any right under any security agreement or arrangement or other credit enhancement related to 1 or more qualified financial contracts described in clause (i); 1
 
-<sup>1</sup>  So in original. Probably should be followed by “or”.
+<sup>1</sup> So in original. Probably should be followed by “or”.
 
 **(iii)** any right to offset or net out any termination value, payment amount, or other transfer obligation arising under or in connection with 1 or more contracts and agreements described in clause (i), including any master agreement for such contracts or agreements.
 
@@ -4637,7 +4637,7 @@ The term “qualified financial contract” means any securities contract, forwa
 
 **(I)** a contract (other than a commodity contract) for the purchase, sale, or transfer of a commodity or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade, or product or byproduct thereof, with a maturity date more than 2 days after the date the contract is entered into, including,2
 
-<sup>2</sup>  So in original. The comma probably should not appear.
+<sup>2</sup> So in original. The comma probably should not appear.
 
 a repurchase or reverse repurchase transaction (whether or not such repurchase or reverse repurchase transaction is a “repurchase agreement”, as defined in clause (v)), consignment, lease, swap, hedge transaction, deposit, loan, option, allocated transaction, unallocated transaction, or any other similar agreement;
 
@@ -4697,7 +4697,7 @@ The term “person” includes any governmental entity in addition to any entity
 
 **(i)** any right such person has to cause the termination, liquidation, or acceleration of any qualified financial contract with a credit union in a conservatorship based upon a default under such financial contract which is enforceable under applicable noninsolvency law;
 
-**(ii)** any right under any security agreement or arrangement or other credit enhancement related to 1 or more qualified financial contracts described in clause (i); <sup>1</sup>
+**(ii)** any right under any security agreement or arrangement or other credit enhancement related to 1 or more qualified financial contracts described in clause (i); <sup>1</sup>
 
 **(iii)** any right to offset or net out any termination values, payment amounts, or other transfer obligations arising under or in connection with such qualified financial contracts.
 
@@ -4775,9 +4775,9 @@ the conservator or liquidating agent shall notify any person who is a party to a
 
 **(ii) Conservatorship**
 
-A person who is a party to a qualified financial contract with an insured credit union may not exercise any right that such person has to terminate, liquidate, or net such contract under paragraph (8)(E) of this subsection or section 4403 or 4404 of this title, solely by reason of or incidental to the appointment of a conservator for the credit union or 3
+A person who is a party to a qualified financial contract with an insured credit union may not exercise any right that such person has to terminate, liquidate, or net such contract under paragraph (8)(E) of this subsection or section 4403 or 4404 of this title, solely by reason of or incidental to the appointment of a conservator for the credit union or 3
 
-<sup>3</sup>  So in original. Probably should read “(or”.
+<sup>3</sup> So in original. Probably should read “(or”.
 
 the insolvency or financial condition of the credit union for which the conservator has been appointed).
 
@@ -4785,7 +4785,7 @@ the insolvency or financial condition of the credit union for which the conserva
 
 For purposes of this paragraph, the Board as conservator or liquidating agent of an insured credit union shall be deemed to have notified a person who is a party to a qualified financial contract with such credit union if the Board has taken steps reasonably calculated to provide notice to such person by the time specified in subparagraph (A).
 
-**(C) Treatment of bridge banks 4 [footnote: 4 So in original. Probably should be “bridge depository institutions”.]** The following institutions shall not be considered to be a financial institution for which a conservator, receiver, trustee in bankruptcy, or other legal custodian has been appointed or which is otherwise the subject of a bankruptcy or insolvency proceeding for purposes of paragraph (9):
+**(C) Treatment of bridge banks 4 [footnote: 4 So in original. Probably should be “bridge depository institutions”.]** The following institutions shall not be considered to be a financial institution for which a conservator, receiver, trustee in bankruptcy, or other legal custodian has been appointed or which is otherwise the subject of a bankruptcy or insolvency proceeding for purposes of paragraph (9):
 
 **(i)** A bridge depository institution.
 
@@ -4845,9 +4845,9 @@ Nothing in this subparagraph shall be construed to limit or otherwise affect the
 
 **(15) Savings clause**
 
-The meanings of terms used in this subsection are applicable for purposes of this subsection only, and shall not be construed or applied so as to challenge or affect the characterization, definition, or treatment of any similar terms under any other statute, regulation, or rule, including the Gramm-Leach-Bliley Act, the Legal Certainty for Bank Products Act of 2000 [7 U.S.C. 27 to 27f], the securities laws (as that term is defined in section (a)(47) 5
+The meanings of terms used in this subsection are applicable for purposes of this subsection only, and shall not be construed or applied so as to challenge or affect the characterization, definition, or treatment of any similar terms under any other statute, regulation, or rule, including the Gramm-Leach-Bliley Act, the Legal Certainty for Bank Products Act of 2000 [7 U.S.C. 27 to 27f], the securities laws (as that term is defined in section (a)(47) 5
 
-<sup>5</sup>  So in original. Probably should be section “3(a)(47)”.
+<sup>5</sup> So in original. Probably should be section “3(a)(47)”.
 
 of the Securities Exchange Act of 1934), and the Commodity Exchange Act [7 U.S.C. 1 et seq.].
 
@@ -4959,15 +4959,15 @@ Notwithstanding any limitation in this chapter or in any other provision of law 
 
 The Board may limit the aggregate amount of funds that may be invested or deposited in any credit union insured in accordance with this subchapter by any government depositor or member on the basis of the size of any such credit union in terms of its assets.
 
-**(3)** Notwithstanding any limitation in this subchapter or in any other provision of law relating to the amount of insurance available for the account of any one depositor or member, funds invested in a credit union insured in accordance with this subchapter pursuant to a pension or profit-sharing plan described in section 401(d) of title 26, and funds invested in such an insured credit union in the form of individual retirement accounts as described in section 408(a) of title 26, shall be insured in the amount of “$250,000 6
+**(3)** Notwithstanding any limitation in this subchapter or in any other provision of law relating to the amount of insurance available for the account of any one depositor or member, funds invested in a credit union insured in accordance with this subchapter pursuant to a pension or profit-sharing plan described in section 401(d) of title 26, and funds invested in such an insured credit union in the form of individual retirement accounts as described in section 408(a) of title 26, shall be insured in the amount of “$250,000 6
 
-<sup>6</sup>  So in original. Quotation marks probably should not appear.
+<sup>6</sup> So in original. Quotation marks probably should not appear.
 
-(which amount shall be subject to inflation adjustments as provided under section 1821(a)(1)(F) of this title, except that $250,000 7
+(which amount shall be subject to inflation adjustments as provided under section 1821(a)(1)(F) of this title, except that $250,000 7
 
-<sup>7</sup>  So in original. Probably should be set off by quotation marks.
+<sup>7</sup> So in original. Probably should be set off by quotation marks.
 
-shall be substituted for $100,000 7 wherever such term appears in such section)” 6 per account. As to any plan qualifying under section 401(d) or section 408(a) of title 26, the term “per account” means the present vested and ascertainable interest of each beneficiary under the plan, excluding any remainder interest created by, or as a result of, the plan.
+shall be substituted for $100,000 7 wherever such term appears in such section)” 6 per account. As to any plan qualifying under section 401(d) or section 408(a) of title 26, the term “per account” means the present vested and ascertainable interest of each beneficiary under the plan, excluding any remainder interest created by, or as a result of, the plan.
 
 **(4) Coverage for certain employee benefit plan deposits**
 
@@ -5087,7 +5087,7 @@ may not purchase any asset of such credit union from the conservator or liquidat
 
 **(2)** may maintain an office to coordinate foreign investigations or investigations on behalf of foreign banking authorities.
 
-(June 26, 1934, ch. 750, title II, § 207, as added Pub. L. 91–468, § 1(3), Oct. 19, 1970, 84 Stat. 1010; amended Pub. L. 93–495, title I, §§ 101(c), 104(a), Oct. 28, 1974, 88 Stat. 1501, 1503; Pub. L. 95–630, title V, § 502(b), title XIV, § 1401(c), Nov. 10, 1978, 92 Stat. 3681, 3712; Pub. L. 96–153, title III, § 323(c), Dec. 21, 1979, 93 Stat. 1120; Pub. L. 96–221, title III, § 308(c)(1), Mar. 31, 1980, 94 Stat. 148; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title VII, § 714(a), (b), Aug. 10, 1987, 101 Stat. 654, 655; Pub. L. 101–73, title IX, § 915(c), title XII, § 1217(a), Aug. 9, 1989, 103 Stat. 486, 530; Pub. L. 101–647, title XXV, §§ 2521(a)(2), 2526(b), 2528(b), 2532(d), 2534(b), Nov. 29, 1990, 104 Stat. 4864, 4876, 4878, 4882, 4883; Pub. L. 103–394, title V, § 501(c)(1), Oct. 22, 1994, 108 Stat. 4143; Pub. L. 105–219, title III, § 301(b)(2), Aug. 7, 1998, 112 Stat. 930; Pub. L. 109–8, title IX, §§ 901(a)(2), (b)(2), (c)(2), (d)(2), (e)(2), (f)(2), (g)(2), (h)(2), (i)(2), 902(b), 903(b), 904(b), 905(b), 908(b), Apr. 20, 2005, 119 Stat. 147, 148, 150, 152, 154, 156–159, 162, 166, 183; Pub. L. 109–173, § 2(d)(1), (2), Feb. 15, 2006, 119 Stat. 3602, 3604; Pub. L. 109–351, title VII, §§ 718(b), 720(b), 721(b), 722(b), 726(21)–(23), Oct. 13, 2006, 120 Stat. 1997–1999, 2003; Pub. L. 109–390, §§ 2(a)(2), (b)(2), (c)(2), 3(b), 6(b), Dec. 12, 2006, 120 Stat. 2693–2695, 2699; Pub. L. 110–289, div. A, title VI, § 1604(b)(2), July 30, 2008, 122 Stat. 2829; Pub. L. 111–203, title III, §§ 335(b), 343(b)(1), (3), July 21, 2010, 124 Stat. 1540, 1545; Pub. L. 113–252, § 2, Dec. 18, 2014, 128 Stat. 2893.)
+(June 26, 1934, ch. 750, title II, § 207, as added Pub. L. 91–468, § 1(3), Oct. 19, 1970, 84 Stat. 1010; amended Pub. L. 93–495, title I, §§ 101(c), 104(a), Oct. 28, 1974, 88 Stat. 1501, 1503; Pub. L. 95–630, title V, § 502(b), title XIV, § 1401(c), Nov. 10, 1978, 92 Stat. 3681, 3712; Pub. L. 96–153, title III, § 323(c), Dec. 21, 1979, 93 Stat. 1120; Pub. L. 96–221, title III, § 308(c)(1), Mar. 31, 1980, 94 Stat. 148; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title VII, § 714(a), (b), Aug. 10, 1987, 101 Stat. 654, 655; Pub. L. 101–73, title IX, § 915(c), title XII, § 1217(a), Aug. 9, 1989, 103 Stat. 486, 530; Pub. L. 101–647, title XXV, §§ 2521(a)(2), 2526(b), 2528(b), 2532(d), 2534(b), Nov. 29, 1990, 104 Stat. 4864, 4876, 4878, 4882, 4883; Pub. L. 103–394, title V, § 501(c)(1), Oct. 22, 1994, 108 Stat. 4143; Pub. L. 105–219, title III, § 301(b)(2), Aug. 7, 1998, 112 Stat. 930; Pub. L. 109–8, title IX, §§ 901(a)(2), (b)(2), (c)(2), (d)(2), (e)(2), (f)(2), (g)(2), (h)(2), (i)(2), 902(b), 903(b), 904(b), 905(b), 908(b), Apr. 20, 2005, 119 Stat. 147, 148, 150, 152, 154, 156–159, 162, 166, 183; Pub. L. 109–173, § 2(d)(1), (2), Feb. 15, 2006, 119 Stat. 3602, 3604; Pub. L. 109–351, title VII, §§ 718(b), 720(b), 721(b), 722(b), 726(21)–(23), Oct. 13, 2006, 120 Stat. 1997–1999, 2003; Pub. L. 109–390, §§ 2(a)(2), (b)(2), (c)(2), 3(b), 6(b), Dec. 12, 2006, 120 Stat. 2693–2695, 2699; Pub. L. 110–289, div. A, title VI, § 1604(b)(2), July 30, 2008, 122 Stat. 2829; Pub. L. 111–203, title III, §§ 335(b), 343(b)(1), (3), July 21, 2010, 124 Stat. 1540, 1545; Pub. L. 113–252, § 2, Dec. 18, 2014, 128 Stat. 2893.)
 
 **Editorial Notes**
 
@@ -5095,187 +5095,187 @@ may not purchase any asset of such credit union from the conservator or liquidat
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(2)(G), (H), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-The Securities Exchange Act of 1934, referred to in subsec. (c)(8)(D)(v)(I), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. Section 3(a)(47) of the Act is classified to section 78c of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (c)(8)(D)(v)(I), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. Section 3(a)(47) of the Act is classified to section 78c of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 The Gramm-Leach-Bliley Act, referred to in subsec. (c)(8)(D)(vi), (15), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
 
-The Legal Certainty for Bank Products Act of 2000, referred to in subsec. (c)(8)(D)(vi), (15), is title IV of H.R. 5660, as enacted by Pub. L. 106–554, § 1(a)(5), Dec. 21, 2000, 114 Stat. 2763, 2763A–457, which is classified to sections 27 to 27f of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1 of Title 7 and Tables.
+The Legal Certainty for Bank Products Act of 2000, referred to in subsec. (c)(8)(D)(vi), (15), is title IV of H.R. 5660, as enacted by Pub. L. 106–554, § 1(a)(5), Dec. 21, 2000, 114 Stat. 2763, 2763A–457, which is classified to sections 27 to 27f of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1 of Title 7 and Tables.
 
-The Commodity Exchange Act, referred to in subsec. (c)(8)(D)(vi), (15), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in subsec. (c)(8)(D)(vi), (15), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 For definition of Canal Zone, referred to in subsec. (k)(2)(B)(iv), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
 **Amendments**
 
-2014—Subsec. (k)(1)(A). Pub. L. 113–252, § 2(1), inserted “, or to any person with funds lawfully held in a member account,” after “payable to any member” and struck out “and paragraphs (5) and (6)” after “this paragraph”.
+2014—Subsec. (k)(1)(A). Pub. L. 113–252, § 2(1), inserted “, or to any person with funds lawfully held in a member account,” after “payable to any member” and struck out “and paragraphs (5) and (6)” after “this paragraph”.
 
-Subsec. (k)(2)(A). Pub. L. 113–252, § 2(2), struck out “(as determined under paragraph (5))” after “insurance amount”.
+Subsec. (k)(2)(A). Pub. L. 113–252, § 2(2), struck out “(as determined under paragraph (5))” after “insurance amount”.
 
-Subsec. (k)(5), (6). Pub. L. 113–252, § 2(3), (4), added par. (5) and redesignated former par. (5) as (6).
+Subsec. (k)(5), (6). Pub. L. 113–252, § 2(3), (4), added par. (5) and redesignated former par. (5) as (6).
 
-2010—Subsec. (k)(1)(A). Pub. L. 111–203, § 343(b)(3)(A), struck out cl. (i) designation and heading, substituted “Subject to the provisions of paragraph (2), the net amount” for “Subject to clause (ii) and the provisions of paragraph (2), the net amount”, and struck out cls. (ii) and (iii) which related to insurance for noninterest-bearing transaction accounts and defined “noninterest-bearing transaction account”, respectively.
+2010—Subsec. (k)(1)(A). Pub. L. 111–203, § 343(b)(3)(A), struck out cl. (i) designation and heading, substituted “Subject to the provisions of paragraph (2), the net amount” for “Subject to clause (ii) and the provisions of paragraph (2), the net amount”, and struck out cls. (ii) and (iii) which related to insurance for noninterest-bearing transaction accounts and defined “noninterest-bearing transaction account”, respectively.
 
-Pub. L. 111–203, § 343(b)(1)(A), designated existing provisions as cl. (i), inserted heading, substituted “Subject to clause (ii) and the provisions of paragraph (2), the net amount” for “Subject to the provisions of paragraph (2), the net amount”, and added cls. (ii) and (iii).
+Pub. L. 111–203, § 343(b)(1)(A), designated existing provisions as cl. (i), inserted heading, substituted “Subject to clause (ii) and the provisions of paragraph (2), the net amount” for “Subject to the provisions of paragraph (2), the net amount”, and added cls. (ii) and (iii).
 
-Subsec. (k)(1)(B). Pub. L. 111–203, § 343(b)(3)(B), substituted “subparagraph (A)” for “subparagraph (A)(i)”.
+Subsec. (k)(1)(B). Pub. L. 111–203, § 343(b)(3)(B), substituted “subparagraph (A)” for “subparagraph (A)(i)”.
 
-Pub. L. 111–203, § 343(b)(1)(B), substituted “subparagraph (A)(i)” for “subparagraph (A)”.
+Pub. L. 111–203, § 343(b)(1)(B), substituted “subparagraph (A)(i)” for “subparagraph (A)”.
 
-Subsec. (k)(5). Pub. L. 111–203, § 335(b), substituted “$250,000” for “$100,000”.
+Subsec. (k)(5). Pub. L. 111–203, § 335(b), substituted “$250,000” for “$100,000”.
 
 2008—Subsec. (c)(10)(C)(i). Pub. L. 110–289 substituted “bridge depository institution” for “bridge bank”.
 
-2006—Subsec. (b)(2)(K). Pub. L. 109–351, § 720(b), added subpar. (K).
+2006—Subsec. (b)(2)(K). Pub. L. 109–351, § 720(b), added subpar. (K).
 
-Subsec. (b)(15)(D). Pub. L. 109–351, § 722(b), designated existing provisions as cl. (i), inserted cl. heading, substituted “Except as provided in clause (ii), after the end of the 6-year period” for “After the end of the 6-year period”, and added cl. (ii).
+Subsec. (b)(15)(D). Pub. L. 109–351, § 722(b), designated existing provisions as cl. (i), inserted cl. heading, substituted “Except as provided in clause (ii), after the end of the 6-year period” for “After the end of the 6-year period”, and added cl. (ii).
 
-Subsec. (c)(5)(B)(i)(I). Pub. L. 109–351, § 726(21), inserted “and” after semicolon.
+Subsec. (c)(5)(B)(i)(I). Pub. L. 109–351, § 726(21), inserted “and” after semicolon.
 
-Subsec. (c)(8)(D)(ii)(I). Pub. L. 109–390, § 2(a)(2)(A), substituted “a mortgage loan,” for “a mortgage loan, or” after “certificate of deposit,” and inserted before semicolon at end “(whether or not such repurchase or reverse repurchase transaction is a ‘repurchase agreement’, as defined in clause (v))”.
+Subsec. (c)(8)(D)(ii)(I). Pub. L. 109–390, § 2(a)(2)(A), substituted “a mortgage loan,” for “a mortgage loan, or” after “certificate of deposit,” and inserted before semicolon at end “(whether or not such repurchase or reverse repurchase transaction is a ‘repurchase agreement’, as defined in clause (v))”.
 
-Subsec. (c)(8)(D)(ii)(IV). Pub. L. 109–390, § 2(a)(2)(B), inserted “(including by novation)” after “the guarantee” and “(whether or not such settlement is in connection with any agreement or transaction referred to in subclauses (I) through (XII) (other than subclause (II))” before semicolon at end.
+Subsec. (c)(8)(D)(ii)(IV). Pub. L. 109–390, § 2(a)(2)(B), inserted “(including by novation)” after “the guarantee” and “(whether or not such settlement is in connection with any agreement or transaction referred to in subclauses (I) through (XII) (other than subclause (II))” before semicolon at end.
 
-Subsec. (c)(8)(D)(ii)(VI) to (VIII). Pub. L. 109–390, § 2(a)(2)(D), (E), added subcls. (VI) and (VII) and redesignated former subcl. (VI) as (VIII). Former subcl. (VIII) redesignated (X).
+Subsec. (c)(8)(D)(ii)(VI) to (VIII). Pub. L. 109–390, § 2(a)(2)(D), (E), added subcls. (VI) and (VII) and redesignated former subcl. (VI) as (VIII). Former subcl. (VIII) redesignated (X).
 
-Subsec. (c)(8)(D)(ii)(IX). Pub. L. 109–390, § 2(a)(2)(D), redesignated subcl. (VII) as (IX). Former subcl. (IX) redesignated (XI).
+Subsec. (c)(8)(D)(ii)(IX). Pub. L. 109–390, § 2(a)(2)(D), redesignated subcl. (VII) as (IX). Former subcl. (IX) redesignated (XI).
 
-Pub. L. 109–390, § 2(a)(2)(C), substituted “(VIII), (IX), or (X)” for “or (VIII)” in two places.
+Pub. L. 109–390, § 2(a)(2)(C), substituted “(VIII), (IX), or (X)” for “or (VIII)” in two places.
 
-Subsec. (c)(8)(D)(ii)(X) to (XII). Pub. L. 109–390, § 2(a)(2)(D), redesignated subcls. (VIII) to (X) as (X) to (XII), respectively.
+Subsec. (c)(8)(D)(ii)(X) to (XII). Pub. L. 109–390, § 2(a)(2)(D), redesignated subcls. (VIII) to (X) as (X) to (XII), respectively.
 
-Subsec. (c)(8)(D)(iv)(I). Pub. L. 109–390, § 2(b)(2), substituted “or reverse repurchase transaction (whether or not such repurchase or reverse repurchase transaction is a ‘repurchase agreement’, as defined in clause (v))” for “transaction, reverse repurchase transaction”.
+Subsec. (c)(8)(D)(iv)(I). Pub. L. 109–390, § 2(b)(2), substituted “or reverse repurchase transaction (whether or not such repurchase or reverse repurchase transaction is a ‘repurchase agreement’, as defined in clause (v))” for “transaction, reverse repurchase transaction”.
 
-Subsec. (c)(8)(D)(vi). Pub. L. 109–390, § 2(c)(2)(C), substituted in concluding provisions “the Gramm-Leach-Bliley Act, the Legal Certainty for Bank Products Act of 2000, the securities laws (as such term is defined in section 3(a)(47) of the Securities Exchange Act of 1934) and the Commodity Exchange Act” for “the Securities Act of 1933, the Securities Exchange Act of 1934, the Public Utility Holding Company Act of 1935, the Trust Indenture Act of 1939, the Investment Company Act of 1940, the Investment Advisers Act of 1940, the Securities Investor Protection Act of 1970, the Commodity Exchange Act, the Gramm-Leach-Bliley Act, and the Legal Certainty for Bank Products Act of 2000”.
+Subsec. (c)(8)(D)(vi). Pub. L. 109–390, § 2(c)(2)(C), substituted in concluding provisions “the Gramm-Leach-Bliley Act, the Legal Certainty for Bank Products Act of 2000, the securities laws (as such term is defined in section 3(a)(47) of the Securities Exchange Act of 1934) and the Commodity Exchange Act” for “the Securities Act of 1933, the Securities Exchange Act of 1934, the Public Utility Holding Company Act of 1935, the Trust Indenture Act of 1939, the Investment Company Act of 1940, the Investment Advisers Act of 1940, the Securities Investor Protection Act of 1970, the Commodity Exchange Act, the Gramm-Leach-Bliley Act, and the Legal Certainty for Bank Products Act of 2000”.
 
-Subsec. (c)(8)(D)(vi)(I). Pub. L. 109–390, § 2(c)(2)(A), substituted “, precious metals, or other commodity” for “or precious metals” and “weather swap, option, future, or forward agreement; an emissions swap, option, future, or forward agreement; or an inflation swap, option, future, or forward agreement” for “or a weather swap, weather derivative, or weather option”.
+Subsec. (c)(8)(D)(vi)(I). Pub. L. 109–390, § 2(c)(2)(A), substituted “, precious metals, or other commodity” for “or precious metals” and “weather swap, option, future, or forward agreement; an emissions swap, option, future, or forward agreement; or an inflation swap, option, future, or forward agreement” for “or a weather swap, weather derivative, or weather option”.
 
-Subsec. (c)(8)(D)(vi)(II). Pub. L. 109–390, § 2(c)(2)(B), inserted “or other derivatives” after “dealings in the swap” and substituted “future, option, or spot transaction” for “future, or option”.
+Subsec. (c)(8)(D)(vi)(II). Pub. L. 109–390, § 2(c)(2)(B), inserted “or other derivatives” after “dealings in the swap” and substituted “future, option, or spot transaction” for “future, or option”.
 
-Subsec. (c)(8)(D)(ix). Pub. L. 109–390, § 3(b), added cl. (ix).
+Subsec. (c)(8)(D)(ix). Pub. L. 109–390, § 3(b), added cl. (ix).
 
-Subsec. (c)(8)(G)(ii), (iii). Pub. L. 109–390, § 6(b), added cls. (ii) and (iii) and struck out former cl. (ii) which defined walkaway clause.
+Subsec. (c)(8)(G)(ii), (iii). Pub. L. 109–390, § 6(b), added cls. (ii) and (iii) and struck out former cl. (ii) which defined walkaway clause.
 
-Subsec. (c)(13)(C). Pub. L. 109–351, § 718(b), which directed addition of subpar. (C) to subsec. (c)(12), was executed to par. (13) to reflect the probable intent of Congress because par. (12) does not contain subpars. and par. (12) was redesignated (13) by Pub. L. 109–8, § 904(b)(1). See 2005 Amendment note below.
+Subsec. (c)(13)(C). Pub. L. 109–351, § 718(b), which directed addition of subpar. (C) to subsec. (c)(12), was executed to par. (13) to reflect the probable intent of Congress because par. (12) does not contain subpars. and par. (12) was redesignated (13) by Pub. L. 109–8, § 904(b)(1). See 2005 Amendment note below.
 
-Subsec. (d)(3). Pub. L. 109–351, § 721(b), added par. (3) and struck out former par. (3) which related to resolution of dispute and adjudication of claims.
+Subsec. (d)(3). Pub. L. 109–351, § 721(b), added par. (3) and struck out former par. (3) which related to resolution of dispute and adjudication of claims.
 
-Subsec. (d)(3)(A). Pub. L. 109–351, § 726(22), which directed substitution of “with” for “to” in heading, could not be executed because there is no subpar. (A) heading after the amendment by Pub. L. 109–351, § 721(b). See above.
+Subsec. (d)(3)(A). Pub. L. 109–351, § 726(22), which directed substitution of “with” for “to” in heading, could not be executed because there is no subpar. (A) heading after the amendment by Pub. L. 109–351, § 721(b). See above.
 
-Subsec. (d)(4), (5). Pub. L. 109–351, § 721(b), added par. (4) and struck out former pars. (4) and (5) which related to review of the Board’s final determination and the statute of limitations.
+Subsec. (d)(4), (5). Pub. L. 109–351, § 721(b), added par. (4) and struck out former pars. (4) and (5) which related to review of the Board’s final determination and the statute of limitations.
 
-Subsec. (f)(3)(A). Pub. L. 109–351, § 726(23), substituted “category of claimants.” for “category or claimants.” in last sentence.
+Subsec. (f)(3)(A). Pub. L. 109–351, § 726(23), substituted “category of claimants.” for “category or claimants.” in last sentence.
 
-Subsec. (k). Pub. L. 109–173, § 2(d)(1)(A), inserted subsec. heading.
+Subsec. (k). Pub. L. 109–173, § 2(d)(1)(A), inserted subsec. heading.
 
-Subsec. (k)(1). Pub. L. 109–173, § 2(d)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “Subject to the provisions of paragraph (2), for the purposes of this subsection, the term ‘insured account’ means the total amount of the account in the member’s name (after deducting offsets) less any part thereof which is in excess of $100,000. Such amount shall be determined according to such regulations as the Board may prescribe, and, in determining the amount due to any member, there shall be added together all accounts in the credit union maintained by him for his own benefit either in his own name or in the names of others. The Board may define, with such classifications and exceptions as it may prescribe, the extent of the insurance coverage provided for member accounts, including member accounts in the name of a minor, in trust, or in joint tenancy.”
+Subsec. (k)(1). Pub. L. 109–173, § 2(d)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “Subject to the provisions of paragraph (2), for the purposes of this subsection, the term ‘insured account’ means the total amount of the account in the member’s name (after deducting offsets) less any part thereof which is in excess of $100,000. Such amount shall be determined according to such regulations as the Board may prescribe, and, in determining the amount due to any member, there shall be added together all accounts in the credit union maintained by him for his own benefit either in his own name or in the names of others. The Board may define, with such classifications and exceptions as it may prescribe, the extent of the insurance coverage provided for member accounts, including member accounts in the name of a minor, in trust, or in joint tenancy.”
 
-Subsec. (k)(2). Pub. L. 109–173, § 2(d)(1)(B)(ii)–(iv), inserted par. heading, added subpar. (A), substituted subpar. (B) designation, heading, and introductory provisions for former subpar. (A) designation and introductory provisions which read “Notwithstanding any limitation in this chapter or in any other provision of law relating to the amount of insurance available for the account of any one depositor or member, in the case of a depositor or member who is—”, redesignated former subpar. (B) as (C), inserted heading, and substituted “government depositor or member” for “depositor or member referred to in subparagraph (A)”.
+Subsec. (k)(2). Pub. L. 109–173, § 2(d)(1)(B)(ii)–(iv), inserted par. heading, added subpar. (A), substituted subpar. (B) designation, heading, and introductory provisions for former subpar. (A) designation and introductory provisions which read “Notwithstanding any limitation in this chapter or in any other provision of law relating to the amount of insurance available for the account of any one depositor or member, in the case of a depositor or member who is—”, redesignated former subpar. (B) as (C), inserted heading, and substituted “government depositor or member” for “depositor or member referred to in subparagraph (A)”.
 
-Subsec. (k)(2)(A). Pub. L. 109–173, § 2(d)(1)(B)(i), substituted period for semicolon at end of cl. (v), realigned margins of cls. (i) to (v), and struck out concluding provisions which read as follows: “his account shall be insured in an amount not to exceed $100,000 per account.”
+Subsec. (k)(2)(A). Pub. L. 109–173, § 2(d)(1)(B)(i), substituted period for semicolon at end of cl. (v), realigned margins of cls. (i) to (v), and struck out concluding provisions which read as follows: “his account shall be insured in an amount not to exceed $100,000 per account.”
 
-Subsec. (k)(3). Pub. L. 109–173, § 2(d)(2), substituted “ ‘$250,000 (which amount shall be subject to inflation adjustments as provided under section 1821(a)(1)(F) of this title, except that $250,000 shall be substituted for $100,000 wherever such term appears in such section)’ ” for “$100,000”.
+Subsec. (k)(3). Pub. L. 109–173, § 2(d)(2), substituted “ ‘$250,000 (which amount shall be subject to inflation adjustments as provided under section 1821(a)(1)(F) of this title, except that $250,000 shall be substituted for $100,000 wherever such term appears in such section)’ ” for “$100,000”.
 
-Subsec. (k)(4), (5). Pub. L. 109–173, § 2(d)(1)(C), added pars. (4) and (5).
+Subsec. (k)(4), (5). Pub. L. 109–173, § 2(d)(1)(C), added pars. (4) and (5).
 
-2005—Subsec. (c)(8)(A). Pub. L. 109–8, § 901(h)(2)(A)(i), substituted “paragraphs (9) and (10)” for “paragraph (12)” in introductory provisions.
+2005—Subsec. (c)(8)(A). Pub. L. 109–8, § 901(h)(2)(A)(i), substituted “paragraphs (9) and (10)” for “paragraph (12)” in introductory provisions.
 
-Subsec. (c)(8)(A)(i). Pub. L. 109–8, § 901(h)(2)(A)(ii), substituted “such person has to cause the termination, liquidation, or acceleration” for “to cause the termination or liquidation”.
+Subsec. (c)(8)(A)(i). Pub. L. 109–8, § 901(h)(2)(A)(ii), substituted “such person has to cause the termination, liquidation, or acceleration” for “to cause the termination or liquidation”.
 
-Subsec. (c)(8)(A)(ii). Pub. L. 109–8, § 901(h)(2)(A)(iii), added cl. (ii) and struck out former cl. (ii) which read as follows: “any right under any security arrangement relating to any contract or agreement described in clause (i); or”.
+Subsec. (c)(8)(A)(ii). Pub. L. 109–8, § 901(h)(2)(A)(iii), added cl. (ii) and struck out former cl. (ii) which read as follows: “any right under any security arrangement relating to any contract or agreement described in clause (i); or”.
 
-Subsec. (c)(8)(C)(i). Pub. L. 109–8, § 901(i)(2), inserted “section 91 of this title or any other Federal or State law relating to the avoidance of preferential or fraudulent transfers,” before “the Board”.
+Subsec. (c)(8)(C)(i). Pub. L. 109–8, § 901(i)(2), inserted “section 91 of this title or any other Federal or State law relating to the avoidance of preferential or fraudulent transfers,” before “the Board”.
 
-Subsec. (c)(8)(D). Pub. L. 109–8, § 901(a)(2)(A), substituted “subsection, the following definitions shall apply:” for “subsection—” in introductory provisions.
+Subsec. (c)(8)(D). Pub. L. 109–8, § 901(a)(2)(A), substituted “subsection, the following definitions shall apply:” for “subsection—” in introductory provisions.
 
-Subsec. (c)(8)(D)(i). Pub. L. 109–8, § 901(a)(2)(B), inserted “, resolution, or order” after “any similar agreement that the Board determines by regulation”.
+Subsec. (c)(8)(D)(i). Pub. L. 109–8, § 901(a)(2)(B), inserted “, resolution, or order” after “any similar agreement that the Board determines by regulation”.
 
-Subsec. (c)(8)(D)(ii). Pub. L. 109–8, § 901(b)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘securities contract’—
+Subsec. (c)(8)(D)(ii). Pub. L. 109–8, § 901(b)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘securities contract’—
 
 “(I) has the meaning given to such term in section 741 of title 11, except that the term ‘security’ (as used in such section) shall be deemed to include any mortgage loan, any mortgage-related security (as defined in section 78c(a)(41) of title 15), and any interest in any mortgage loan or mortgage-related security; and
 
 “(II) does not include any participation in a commercial mortgage loan unless the Board determines by regulation, resolution, or order to include any such participation within the meaning of such term.”
 
-Subsec. (c)(8)(D)(iii). Pub. L. 109–8, § 901(c)(2), amended heading and text of cl. (iii) generally. Prior to amendment, text read as follows: “The term ‘forward contract’ has the meaning given to such term in section 101 of title 11.”
+Subsec. (c)(8)(D)(iii). Pub. L. 109–8, § 901(c)(2), amended heading and text of cl. (iii) generally. Prior to amendment, text read as follows: “The term ‘forward contract’ has the meaning given to such term in section 101 of title 11.”
 
-Subsec. (c)(8)(D)(iv). Pub. L. 109–8, § 901(d)(2), amended heading and text of cl. (iv) generally. Prior to amendment, text read as follows: “The term ‘repurchase agreement’—
+Subsec. (c)(8)(D)(iv). Pub. L. 109–8, § 901(d)(2), amended heading and text of cl. (iv) generally. Prior to amendment, text read as follows: “The term ‘repurchase agreement’—
 
 “(I) has the meaning given to such term in section 101 of title 11, except that the items (as described in such section) which may be subject to any such agreement shall be deemed to include mortgage-related securities (as such term is defined in section 78c(a)(41) of title 15, any mortgage loan, and any interest in any mortgage loan; and
 
 “(II) does not include any participation in a commercial mortgage loan unless the Board determines by regulation, resolution, or order to include any such participation within the meaning of such term.”
 
-Subsec. (c)(8)(D)(v). Pub. L. 109–8, § 901(e)(2), amended heading and text of cl. (v) generally. Prior to amendment, text read as follows: “The term ‘transfer’ has the meaning given to such term in section 101 of title 11.”
+Subsec. (c)(8)(D)(v). Pub. L. 109–8, § 901(e)(2), amended heading and text of cl. (v) generally. Prior to amendment, text read as follows: “The term ‘transfer’ has the meaning given to such term in section 101 of title 11.”
 
-Subsec. (c)(8)(D)(vi). Pub. L. 109–8, § 901(f)(2), added cl. (vi).
+Subsec. (c)(8)(D)(vi). Pub. L. 109–8, § 901(f)(2), added cl. (vi).
 
-Subsec. (c)(8)(D)(vii). Pub. L. 109–8, § 905(b), added cl. (vii).
+Subsec. (c)(8)(D)(vii). Pub. L. 109–8, § 905(b), added cl. (vii).
 
-Subsec. (c)(8)(D)(viii). Pub. L. 109–8, § 901(g)(2), added cl. (viii).
+Subsec. (c)(8)(D)(viii). Pub. L. 109–8, § 901(g)(2), added cl. (viii).
 
-Subsec. (c)(8)(E). Pub. L. 109–8, § 902(b)(1)(A), substituted “other than subsections (b)(9) and (c)(10)” for “other than paragraph (12) of this subsection, subsection (b)(9)” in introductory provisions.
+Subsec. (c)(8)(E). Pub. L. 109–8, § 902(b)(1)(A), substituted “other than subsections (b)(9) and (c)(10)” for “other than paragraph (12) of this subsection, subsection (b)(9)” in introductory provisions.
 
-Subsec. (c)(8)(E)(ii). Pub. L. 109–8, § 901(h)(2)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: “any right under any security arrangement relating to such qualified financial contracts; or”.
+Subsec. (c)(8)(E)(ii). Pub. L. 109–8, § 901(h)(2)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: “any right under any security arrangement relating to such qualified financial contracts; or”.
 
-Subsec. (c)(8)(F), (G). Pub. L. 109–8, § 902(b)(1)(B), added subpars. (F) and (G).
+Subsec. (c)(8)(F), (G). Pub. L. 109–8, § 902(b)(1)(B), added subpars. (F) and (G).
 
-Subsec. (c)(8)(H). Pub. L. 109–8, § 908(b), added subpar. (H).
+Subsec. (c)(8)(H). Pub. L. 109–8, § 908(b), added subpar. (H).
 
-Subsec. (c)(9). Pub. L. 109–8, § 903(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text related to the transfer of qualified financial contracts, claims, and property of a credit union in default.
+Subsec. (c)(9). Pub. L. 109–8, § 903(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text related to the transfer of qualified financial contracts, claims, and property of a credit union in default.
 
-Subsec. (c)(10)(A). Pub. L. 109–8, § 903(b)(2), substituted concluding provisions for former concluding provisions which read as follows: “the conservator or liquidating agent shall use such conservator’s or liquidating agent’s best efforts to notify any person who is a party to any such contract of such transfer by 12:00, noon (local time), on the business day following such transfer.”
+Subsec. (c)(10)(A). Pub. L. 109–8, § 903(b)(2), substituted concluding provisions for former concluding provisions which read as follows: “the conservator or liquidating agent shall use such conservator’s or liquidating agent’s best efforts to notify any person who is a party to any such contract of such transfer by 12:00, noon (local time), on the business day following such transfer.”
 
-Subsec. (c)(10)(B) to (D). Pub. L. 109–8, § 903(b)(3), added subpars. (B) and (C) and redesignated former subpar. (B) as (D).
+Subsec. (c)(10)(B) to (D). Pub. L. 109–8, § 903(b)(3), added subpars. (B) and (C) and redesignated former subpar. (B) as (D).
 
-Subsec. (c)(11). Pub. L. 109–8, § 904(b)(2), added par. (11). Former par. (11) redesignated (12).
+Subsec. (c)(11). Pub. L. 109–8, § 904(b)(2), added par. (11). Former par. (11) redesignated (12).
 
-Subsec. (c)(12). Pub. L. 109–8, § 904(b)(1), redesignated par. (11) as (12). Former par. (12) redesignated (13).
+Subsec. (c)(12). Pub. L. 109–8, § 904(b)(1), redesignated par. (11) as (12). Former par. (12) redesignated (13).
 
-Subsec. (c)(12)(A). Pub. L. 109–8, § 902(b)(2), inserted “or the exercise of rights or powers by” after “the appointment of”.
+Subsec. (c)(12)(A). Pub. L. 109–8, § 902(b)(2), inserted “or the exercise of rights or powers by” after “the appointment of”.
 
-Subsec. (c)(13), (14). Pub. L. 109–8, § 904(b)(1), redesignated pars. (12) and (13) as (13) and (14), respectively.
+Subsec. (c)(13), (14). Pub. L. 109–8, § 904(b)(1), redesignated pars. (12) and (13) as (13) and (14), respectively.
 
-Subsec. (c)(15). Pub. L. 109–8, § 904(b)(3), added par. (15).
+Subsec. (c)(15). Pub. L. 109–8, § 904(b)(3), added par. (15).
 
-1998—Subsec. (a)(1)(A). Pub. L. 105–219, § 301(b)(2)(A), substituted “itself” for “himself”.
+1998—Subsec. (a)(1)(A). Pub. L. 105–219, § 301(b)(2)(A), substituted “itself” for “himself”.
 
-Subsec. (a)(3). Pub. L. 105–219, § 301(b)(2)(B), added par. (3).
+Subsec. (a)(3). Pub. L. 105–219, § 301(b)(2)(B), added par. (3).
 
 1994—Subsec. (c)(8)(D). Pub. L. 103–394 substituted “section 741” for “section 741(7)” in cl. (ii)(I), “section 101” for “section 101(24)” in cl. (iii), “section 101” for “section 101(41)” in cl. (iv)(I), and “section 101” for “section 101(50)” in cl. (v).
 
-1990—Subsec. (b)(2)(G), (H). Pub. L. 101–647, § 2521(a)(2), added subpars. (G) and (H). Former subpar. (G) redesignated (I).
+1990—Subsec. (b)(2)(G), (H). Pub. L. 101–647, § 2521(a)(2), added subpars. (G) and (H). Former subpar. (G) redesignated (I).
 
-Subsec. (b)(2)(I). Pub. L. 101–647, § 2534(b), added subpar. (I). Former subpar. (I) redesignated (J).
+Subsec. (b)(2)(I). Pub. L. 101–647, § 2534(b), added subpar. (I). Former subpar. (I) redesignated (J).
 
-Pub. L. 101–647, § 2521(a)(2), redesignated subpar. (G) as (I).
+Pub. L. 101–647, § 2521(a)(2), redesignated subpar. (G) as (I).
 
-Subsec. (b)(2)(J). Pub. L. 101–647, § 2534(b), redesignated subpar. (I) as (J).
+Subsec. (b)(2)(J). Pub. L. 101–647, § 2534(b), redesignated subpar. (I) as (J).
 
-Subsec. (b)(16). Pub. L. 101–647, § 2528(b), added par. (16).
+Subsec. (b)(16). Pub. L. 101–647, § 2528(b), added par. (16).
 
-Subsec. (q). Pub. L. 101–647, § 2526(b), added subsec. (q).
+Subsec. (q). Pub. L. 101–647, § 2526(b), added subsec. (q).
 
-Subsec. (r). Pub. L. 101–647, § 2532(d), added subsec. (r).
+Subsec. (r). Pub. L. 101–647, § 2532(d), added subsec. (r).
 
-1989—Subsec. (a)(2), (3). Pub. L. 101–73, § 1217(a)(1), redesignated par. (3) as (2) and struck out former par. (2) which detailed the duties of the Board in serving as liquidating agent for bankrupt or insolvent credit unions.
+1989—Subsec. (a)(2), (3). Pub. L. 101–73, § 1217(a)(1), redesignated par. (3) as (2) and struck out former par. (2) which detailed the duties of the Board in serving as liquidating agent for bankrupt or insolvent credit unions.
 
-Subsec. (b). Pub. L. 101–73, § 1217(a)(3), (4), added subsec. (b) and redesignated former subsec. (b) as (j).
+Subsec. (b). Pub. L. 101–73, § 1217(a)(3), (4), added subsec. (b) and redesignated former subsec. (b) as (j).
 
-Subsec. (c). Pub. L. 101–73, § 1217(a)(3), (4), added subsec. (c) and redesignated former subsec. (c) as (k).
+Subsec. (c). Pub. L. 101–73, § 1217(a)(3), (4), added subsec. (c) and redesignated former subsec. (c) as (k).
 
-Subsec. (d). Pub. L. 101–73, § 1217(a)(2), (4), added subsec. (d) and struck out former subsec. (d) which provided for subrogation by the Board to all rights of a member against a closed credit union to the extent of the Board’s payment to the member.
+Subsec. (d). Pub. L. 101–73, § 1217(a)(2), (4), added subsec. (d) and struck out former subsec. (d) which provided for subrogation by the Board to all rights of a member against a closed credit union to the extent of the Board’s payment to the member.
 
-Subsecs. (e) to (i). Pub. L. 101–73, § 1217(a)(3), (4), added subsecs. (e) to (i) and redesignated former subsecs. (e) to (i) as (*l*) to (p), respectively.
+Subsecs. (e) to (i). Pub. L. 101–73, § 1217(a)(3), (4), added subsecs. (e) to (i) and redesignated former subsecs. (e) to (i) as (*l*) to (p), respectively.
 
-Subsec. (j). Pub. L. 101–73, § 1217(a)(2), (3), redesignated former subsec. (b) as (j) and struck out former subsec. (j) which provided that the power of the Board respecting liquidations was subject to the Board’s own regulations or to regulations of other public authorities.
+Subsec. (j). Pub. L. 101–73, § 1217(a)(2), (3), redesignated former subsec. (b) as (j) and struck out former subsec. (j) which provided that the power of the Board respecting liquidations was subject to the Board’s own regulations or to regulations of other public authorities.
 
-Subsec. (k). Pub. L. 101–73, § 1217(a)(3), (5), redesignated former subsec. (c) as (k) and in par. (1), struck out first and fifth sentences which provided that, whenever an insured credit union was closed for liquidation on account of bankruptcy or insolvency, the Board was to pay insured accounts as soon as possible, and that in such cases the Board could investigate claims, require proof of them, and require determination by a court.
+Subsec. (k). Pub. L. 101–73, § 1217(a)(3), (5), redesignated former subsec. (c) as (k) and in par. (1), struck out first and fifth sentences which provided that, whenever an insured credit union was closed for liquidation on account of bankruptcy or insolvency, the Board was to pay insured accounts as soon as possible, and that in such cases the Board could investigate claims, require proof of them, and require determination by a court.
 
-Subsec. (k)(1). Pub. L. 101–73, § 915(c), inserted “may investigate said claims under section 1786(p) of this title,” after “before paying the insured accounts,” in last sentence.
+Subsec. (k)(1). Pub. L. 101–73, § 915(c), inserted “may investigate said claims under section 1786(p) of this title,” after “before paying the insured accounts,” in last sentence.
 
-Subsecs. (*l*) to (p). Pub. L. 101–73, § 1217(a)(3), redesignated former subsecs. (e) to (i) as (*l*) to (p), respectively.
+Subsecs. (*l*) to (p). Pub. L. 101–73, § 1217(a)(3), redesignated former subsecs. (e) to (i) as (*l*) to (p), respectively.
 
-1987—Subsec. (a)(1). Pub. L. 100–86, § 714(a), designated existing provisions as subpar. (A) and added subpar. (B).
+1987—Subsec. (a)(1). Pub. L. 100–86, § 714(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (j). Pub. L. 100–86, § 714(b), redesignated former section 1788(c) of this title as subsec. (j) of this section and substituted “subject only to the regulation of the Board, or, in cases where the Board has been appointed liquidating agent solely by a public authority having jurisdiction over the matter other than said Board, subject only to the regulation of such public authority” for “subject to the regulation of the court or other public body having jurisdiction over the matter”.
+Subsec. (j). Pub. L. 100–86, § 714(b), redesignated former section 1788(c) of this title as subsec. (j) of this section and substituted “subject only to the regulation of the Board, or, in cases where the Board has been appointed liquidating agent solely by a public authority having jurisdiction over the matter other than said Board, subject only to the regulation of such public authority” for “subject to the regulation of the court or other public body having jurisdiction over the matter”.
 
 1986—Subsec. (c)(3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -5283,15 +5283,15 @@ Subsec. (j). Pub. L. 100–86, § 714(b), redesignated former section 1788(c) 
 
 1979—Subsec. (c)(2)(A)(v). Pub. L. 96–153 added cl. (v).
 
-1978—Subsecs. (a), (b). Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” wherever appearing, “it” for “he” and “him”, and “its” for “his”, where appropriate.
+1978—Subsecs. (a), (b). Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” wherever appearing, “it” for “he” and “him”, and “its” for “his”, where appropriate.
 
-Subsec. (c). Pub. L. 95–630, §§ 502(b), 1401(c), substituted in pars. (1) and (2) “Board” for “Administrator” wherever appearing and “it” and “its” for “he” and “his”, respectively, where appropriate, and added par. (3).
+Subsec. (c). Pub. L. 95–630, §§ 502(b), 1401(c), substituted in pars. (1) and (2) “Board” for “Administrator” wherever appearing and “it” and “its” for “he” and “his”, respectively, where appropriate, and added par. (3).
 
-Subsecs. (d) to (i). Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” wherever appearing, and “it” and “its” for “him” and “his”, respectively, where appropriate.
+Subsecs. (d) to (i). Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” wherever appearing, and “it” and “its” for “him” and “his”, respectively, where appropriate.
 
-1974—Subsec. (c)(1). Pub. L. 93–495, §§ 101(c)(1), (2), 104(a), redesignated existing provisions as par. (1), substituted “Subject to the provisions of paragraph (2), for the purposes of this subsection” for “For the purposes of this subsection”, and substituted “$40,000” for “$20,000”. As enacted section 104(a) of Pub. L. 93–495 amended the first sentence; however the amendment was executed to the second sentence editorially since this would appear to be the probable intent of Congress.
+1974—Subsec. (c)(1). Pub. L. 93–495, §§ 101(c)(1), (2), 104(a), redesignated existing provisions as par. (1), substituted “Subject to the provisions of paragraph (2), for the purposes of this subsection” for “For the purposes of this subsection”, and substituted “$40,000” for “$20,000”. As enacted section 104(a) of Pub. L. 93–495 amended the first sentence; however the amendment was executed to the second sentence editorially since this would appear to be the probable intent of Congress.
 
-Subsec. (c)(2). Pub. L. 93–495, § 101(c)(3), added par. (2).
+Subsec. (c)(2). Pub. L. 93–495, § 101(c)(3), added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5299,9 +5299,9 @@ Subsec. (c)(2). Pub. L. 93–495, § 101(c)(3), added par. (2).
 
 Amendment by section 335(b) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
 
-Pub. L. 111–203, title III, § 343(b)(2), July 21, 2010, 124 Stat. 1545, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect upon the date of the enactment of this Act [July 21, 2010]”.
+Pub. L. 111–203, title III, § 343(b)(2), July 21, 2010, 124 Stat. 1545, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect upon the date of the enactment of this Act [July 21, 2010]”.
 
-Pub. L. 111–203, title III, § 343(b)(3), July 21, 2010, 124 Stat. 1545, provided that the amendment made by section 343(b)(3) is effective Jan. 1, 2013.
+Pub. L. 111–203, title III, § 343(b)(3), July 21, 2010, 124 Stat. 1545, provided that the amendment made by section 343(b)(3) is effective Jan. 1, 2013.
 
 **Effective Date of 2006 Amendment**
 
@@ -5323,7 +5323,7 @@ Amendment by Pub. L. 96–221 effective on Mar. 31, 1980, see section 308(e) of 
 
 **Applicability of 1980 Amendment**
 
-Pub. L. 96–221, title III, § 308(c)(2), Mar. 31, 1980, 94 Stat. 148, provided that: “The amendment made by this subsection [amending this section] is not applicable to any claim arising out of the closing of a credit union for liquidation on account of bankruptcy or insolvency pursuant to section 207 of the Federal Credit Union Act (12 U.S.C. 1787) prior to the effective date of this section [see section 308(e) of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 1817 of this title].”
+Pub. L. 96–221, title III, § 308(c)(2), Mar. 31, 1980, 94 Stat. 148, provided that: “The amendment made by this subsection [amending this section] is not applicable to any claim arising out of the closing of a credit union for liquidation on account of bankruptcy or insolvency pursuant to section 207 of the Federal Credit Union Act (12 U.S.C. 1787) prior to the effective date of this section [see section 308(e) of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 1817 of this title].”
 
 **Effective Date of 1979 Amendment**
 
@@ -5333,13 +5333,13 @@ Amendment by Pub. L. 96–153 applicable only to claims arising after Dec. 21, 1
 
 Amendment by section 502(b) of Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
 
-Pub. L. 95–630, title XIV, § 1402, Nov. 10, 1978, 92 Stat. 3713, provided that: “This title [amending this section and sections 1728 and 1821 of this title] shall take effect upon enactment [Nov. 10, 1978].”
+Pub. L. 95–630, title XIV, § 1402, Nov. 10, 1978, 92 Stat. 3713, provided that: “This title [amending this section and sections 1728 and 1821 of this title] shall take effect upon enactment [Nov. 10, 1978].”
 
 **Effective Date of 1974 Amendment**
 
 For effective date of amendment by section 101(c)(1), (2) of Pub. L. 93–495 see section 101(g) of Pub. L. 93–495, set out as a note under section 1813 of this title.
 
-Pub. L. 93–495, title I, § 104(b), (c), Oct. 28, 1974, 88 Stat. 1503, provided that:
+Pub. L. 93–495, title I, § 104(b), (c), Oct. 28, 1974, 88 Stat. 1503, provided that:
 
 > **“(b)** The amendment made by this section [amending this section] is not applicable to any claim arising out of the closing of a credit union for liquidation on account of bankruptcy or insolvency pursuant to section 207 of title II of the Federal Credit Union Act (12 U.S.C. 1787) prior to the effective date of this section.
 
@@ -5349,7 +5349,7 @@ Pub. L. 93–495, title I, § 104(b), (c), Oct. 28, 1974, 88 Stat. 1503, provi
 
 Subsec. (k)(5) of this section to apply with “$250,000” substituted for “$100,000” during period beginning on Oct. 3, 2008, and ending on Dec. 31, 2009, see section 5241(b)(1) of this title.
 
-### § 1788. Special assistance to avoid liquidation
+### § 1788. Special assistance to avoid liquidation
 
 **(a) Loans; purchase of assets; accounts; agreements affecting interest of Board in any asset acquired by it**
 
@@ -5379,13 +5379,13 @@ Section 6101 of title 41 shall not apply to any purchase or contract for service
 
 Money received by the Board in carrying out this section shall be paid into the Fund.
 
-(June 26, 1934, ch. 750, title II, § 208, as added Pub. L. 91–468, § 1(3), Oct. 19, 1970, 84 Stat. 1013; amended Pub. L. 92–221, § 3, Dec. 23, 1971, 85 Stat. 797; Pub. L. 93–383, title VII, § 729, Aug. 22, 1974, 88 Stat. 721; Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 100–86, title VII, § 714(b), (c), Aug. 10, 1987, 101 Stat. 655.)
+(June 26, 1934, ch. 750, title II, § 208, as added Pub. L. 91–468, § 1(3), Oct. 19, 1970, 84 Stat. 1013; amended Pub. L. 92–221, § 3, Dec. 23, 1971, 85 Stat. 797; Pub. L. 93–383, title VII, § 729, Aug. 22, 1974, 88 Stat. 721; Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 100–86, title VII, § 714(b), (c), Aug. 10, 1987, 101 Stat. 655.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (b), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” and “Section 6101 of title 41” substituted for “Section 3709 of the Revised Statutes of the United States” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” and “Section 6101 of title 41” substituted for “Section 3709 of the Revised Statutes of the United States” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
@@ -5403,7 +5403,7 @@ In subsec. (b), “chapters 1 to 11 of title 40 and division C (except sections 
 
 Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
 
-### § 1789. Administrative provisions
+### § 1789. Administrative provisions
 
 **(a)** In carrying out the purposes of this subchapter, the Board may—
 
@@ -5439,29 +5439,29 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
 **(2)** prepare annually and submit a detailed business-type budget as provided for wholly owned Government corporations by chapter 91 of title 31, which shall address any comment submitted by the public under paragraph (1)(B); and
 
-**(3)** maintain an integral set of accounts, which shall be audited by the Government Accountability Office in accordance with principles and procedures applicable to commercial corporate transactions, as provided by section 9105 1
+**(3)** maintain an integral set of accounts, which shall be audited by the Government Accountability Office in accordance with principles and procedures applicable to commercial corporate transactions, as provided by section 9105 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 31.
 
-(June 26, 1934, ch. 750, title II, § 209, as added Pub. L. 91–468, § 1(3), Oct. 19, 1970, 84 Stat. 1014; amended Pub. L. 93–604, title VII, § 706, Jan. 2, 1975, 88 Stat. 1964; Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–351, title VII, § 726(24), Oct. 13, 2006, 120 Stat. 2003; Pub. L. 115–174, title II, § 212, May 24, 2018, 132 Stat. 1319.)
+(June 26, 1934, ch. 750, title II, § 209, as added Pub. L. 91–468, § 1(3), Oct. 19, 1970, 84 Stat. 1014; amended Pub. L. 93–604, title VII, § 706, Jan. 2, 1975, 88 Stat. 1964; Pub. L. 95–630, title V, § 502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–351, title VII, § 726(24), Oct. 13, 2006, 120 Stat. 2003; Pub. L. 115–174, title II, § 212, May 24, 2018, 132 Stat. 1319.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 9105 of title 31, referred to in subsec. (b)(3), was amended generally by Pub. L. 101–576, title III, § 305, Nov. 15, 1990, 104 Stat. 2853, and as so amended no longer directs audits to be conducted in accordance with principles and procedures applicable to commercial corporate transactions.
+Section 9105 of title 31, referred to in subsec. (b)(3), was amended generally by Pub. L. 101–576, title III, § 305, Nov. 15, 1990, 104 Stat. 2853, and as so amended no longer directs audits to be conducted in accordance with principles and procedures applicable to commercial corporate transactions.
 
 **Codification**
 
-In subsec. (a)(5), “section 3109 of title 5” substituted for “section 15 of the Administrative Expenses Act of 1946 (5 U.S.C. 55a)” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (a)(5), “section 3109 of title 5” substituted for “section 15 of the Administrative Expenses Act of 1946 (5 U.S.C. 55a)” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-In subsec. (b)(2), (3), “chapter 91 of title 31” and “section 9105 of title 31” substituted for “the Government Corporation Control Act [31 U.S.C. 841 et seq.]” and “section 105 of the Government Corporation Control Act [31 U.S.C. 850]”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b)(2), (3), “chapter 91 of title 31” and “section 9105 of title 31” substituted for “the Government Corporation Control Act [31 U.S.C. 841 et seq.]” and “section 105 of the Government Corporation Control Act [31 U.S.C. 850]”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
-2018—Subsec. (b). Pub. L. 115–174 added par. (1), redesignated former pars. (1) and (2) as (2) and (3), respectively, and, in par. (2), inserted “detailed” after “submit a” and “, which shall address any comment submitted by the public under paragraph (1)(B)” after “title 31”.
+2018—Subsec. (b). Pub. L. 115–174 added par. (1), redesignated former pars. (1) and (2) as (2) and (3), respectively, and, in par. (2), inserted “detailed” after “submit a” and “, which shall address any comment submitted by the public under paragraph (1)(B)” after “title 31”.
 
 2006—Subsec. (a)(8). Pub. L. 109–351 substituted a semicolon for period at end.
 
@@ -5477,11 +5477,11 @@ In subsec. (b)(2), (3), “chapter 91 of title 31” and “section 9105 of titl
 
 Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10, 1978, and transitional provisions, see section 509 of Pub. L. 95–630, set out as a note under section 1752 of this title.
 
-### § 1789a. Credit unions as depositaries of public money; fiscal agents; duties
+### § 1789a. Credit unions as depositaries of public money; fiscal agents; duties
 
 Any credit union the accounts of which are insured under this subchapter shall be a depositary of public money and may be employed as fiscal agent of the United States. The Secretary of the Treasury is authorized to deposit public money in any such insured credit union, and shall prescribe such regulations as may be necessary to enable such credit unions to become depositaries of public money and fiscal agents of the United States. Each credit union shall perform all such reasonable duties as depositaries of public money and fiscal agent of the United States as may be required of it including services in connection with the collection of taxes and other obligations owed the United States.
 
-(June 26, 1934, ch. 750, title II, § 210, as added Pub. L. 95–147, § 2(c)(1), Oct. 28, 1977, 91 Stat. 1227.)
+(June 26, 1934, ch. 750, title II, § 210, as added Pub. L. 95–147, § 2(c)(1), Oct. 28, 1977, 91 Stat. 1227.)
 
 **Editorial Notes**
 
@@ -5489,13 +5489,13 @@ Any credit union the accounts of which are insured under this subchapter shall b
 
 A prior section 210 of act June 26, 1934, ch. 750, was renumbered section 211 and is classified to section 1790 of this title.
 
-### § 1790. Nondiscriminatory provision
+### § 1790. Nondiscriminatory provision
 
 It is not the purpose of this subchapter to discriminate in any manner against State-chartered credit unions and in favor of Federal credit unions, but it is the purpose of this subchapter to provide all credit unions with the same opportunity to obtain and enjoy the benefits of this subchapter.
 
-(June 26, 1934, ch. 750, title II, § 211, formerly § 210, as added Pub. L. 91–468, § 1(3), Oct. 19, 1970, 84 Stat. 1015; renumbered § 211, Pub. L. 95–147, § 2(c)(2), Oct. 28, 1977, 91 Stat. 1228.)
+(June 26, 1934, ch. 750, title II, § 211, formerly § 210, as added Pub. L. 91–468, § 1(3), Oct. 19, 1970, 84 Stat. 1015; renumbered § 211, Pub. L. 95–147, § 2(c)(2), Oct. 28, 1977, 91 Stat. 1228.)
 
-### § 1790a. Board disapproval of directors, committee members, and senior executive officers of insured credit unions
+### § 1790a. Board disapproval of directors, committee members, and senior executive officers of insured credit unions
 
 **(a) Prior notice required** An insured credit union shall notify the Board of the proposed addition of any individual to the board of directors or committee or the employment of any individual as a senior executive officer of such credit union at least 30 days before such addition or employment becomes effective, if the insured credit union—
 
@@ -5531,7 +5531,7 @@ The Board shall issue a notice of disapproval with respect to a notice submitted
 
 The Board shall prescribe by regulation a definition for the terms “troubled condition” and “senior executive officer” for purposes of subsection (a).
 
-(June 26, 1934, ch. 750, title II, § 212, as added Pub. L. 101–73, title IX, § 914(b), Aug. 9, 1989, 103 Stat. 485.)
+(June 26, 1934, ch. 750, title II, § 212, as added Pub. L. 101–73, title IX, § 914(b), Aug. 9, 1989, 103 Stat. 485.)
 
 **Editorial Notes**
 
@@ -5539,7 +5539,7 @@ The Board shall prescribe by regulation a definition for the terms “troubled c
 
 Section 914(b) of Pub. L. 101–73, which directed that this section be added to title II of “the Federal Credit Union Insurance Act (12 U.S.C. 1781 et seq.)” was executed by adding this section to the Federal Credit Union Act, which comprises this chapter, as the probable intent of Congress.
 
-### § 1790b. Credit union employee protection remedy
+### § 1790b. Credit union employee protection remedy
 
 **(a) In general**
 
@@ -5573,7 +5573,7 @@ Any employee or former employee who believes he has been discharged or discrimin
 
 **(2)** knowingly or recklessly provides substantially false information to such an agency or the Attorney General.
 
-(June 26, 1934, ch. 750, title II, § 213, as added Pub. L. 101–73, title IX, § 932(b), Aug. 9, 1989, 103 Stat. 494; amended Pub. L. 102–242, title II, § 251(b)(1), (2), Dec. 19, 1991, 105 Stat. 2332, 2333; Pub. L. 102–550, title XVI, § 1604(d), Oct. 28, 1992, 106 Stat. 4084.)
+(June 26, 1934, ch. 750, title II, § 213, as added Pub. L. 101–73, title IX, § 932(b), Aug. 9, 1989, 103 Stat. 494; amended Pub. L. 102–242, title II, § 251(b)(1), (2), Dec. 19, 1991, 105 Stat. 2332, 2333; Pub. L. 102–550, title XVI, § 1604(d), Oct. 28, 1992, 106 Stat. 4084.)
 
 **Editorial Notes**
 
@@ -5581,9 +5581,9 @@ Any employee or former employee who believes he has been discharged or discrimin
 
 1992—Subsec. (a)(2). Pub. L. 102–550 substituted, in subpar. (A), “union or the” for “union the” and in subpar. (B), “committee member, or employee of any credit union” for “or employee of any depository institution or any such bank”.
 
-1991—Subsec. (a). Pub. L. 102–242, § 251(b)(1), substituted “In general” for “Prohibition against discrimination against whistleblowers” in heading and amended text generally. Prior to amendment, text read as follows: “No federally insured credit union may discharge or otherwise discriminate against any employee with respect to compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to the request of the employee) provided information to the Board or to the Attorney General regarding a possible violation of any law or regulation by the credit union or any of its officers, directors, or employees.”
+1991—Subsec. (a). Pub. L. 102–242, § 251(b)(1), substituted “In general” for “Prohibition against discrimination against whistleblowers” in heading and amended text generally. Prior to amendment, text read as follows: “No federally insured credit union may discharge or otherwise discriminate against any employee with respect to compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to the request of the employee) provided information to the Board or to the Attorney General regarding a possible violation of any law or regulation by the credit union or any of its officers, directors, or employees.”
 
-Subsec. (c). Pub. L. 102–242, § 251(b)(2), inserted “or the Administration” after “the credit union”.
+Subsec. (c). Pub. L. 102–242, § 251(b)(2), inserted “or the Administration” after “the credit union”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5593,15 +5593,15 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–242, title II, § 251(b)(3), Dec. 19, 1991, 105 Stat. 2333, provided that: “Paragraph (2) of section 213(a) of the Federal Credit Union Act [12 U.S.C. 1790b(a)(2)] (as added under the amendment made by paragraph (1)) shall be treated as having taken effect on January 1, 1987, and for purposes of any cause of action arising under such paragraph (as so effective) before the date of the enactment of this Act [Dec. 19, 1991], the 2-year period referred to in section 213(b) of such Act shall be deemed to begin on such date of enactment.”
+Pub. L. 102–242, title II, § 251(b)(3), Dec. 19, 1991, 105 Stat. 2333, provided that: “Paragraph (2) of section 213(a) of the Federal Credit Union Act [12 U.S.C. 1790b(a)(2)] (as added under the amendment made by paragraph (1)) shall be treated as having taken effect on January 1, 1987, and for purposes of any cause of action arising under such paragraph (as so effective) before the date of the enactment of this Act [Dec. 19, 1991], the 2-year period referred to in section 213(b) of such Act shall be deemed to begin on such date of enactment.”
 
-### § 1790c. Reward for information leading to recoveries or civil penalties
+### § 1790c. Reward for information leading to recoveries or civil penalties
 
 The Board may pay rewards in connection with an offense affecting an insured credit union, under the same circumstances and subject to the same limitations that a Federal banking agency may pay rewards under section 1831j of this title in connection with an offense affecting a depository institution insured by the Federal Deposit Insurance Corporation.
 
-(June 26, 1934, ch. 750, title II, § 214, as added Pub. L. 101–73, title IX, § 933(b), Aug. 9, 1989, 103 Stat. 496.)
+(June 26, 1934, ch. 750, title II, § 214, as added Pub. L. 101–73, title IX, § 933(b), Aug. 9, 1989, 103 Stat. 496.)
 
-### § 1790d. Prompt corrective action
+### § 1790d. Prompt corrective action
 
 **(a) Resolving problems to protect Fund**
 
@@ -5975,7 +5975,7 @@ The term “net worth ratio” means, with respect to a credit union, the ratio 
 
 **(B)** has not more than $10,000,000 in total assets.
 
-(June 26, 1934, ch. 750, title II, § 216, as added Pub. L. 105–219, title III, § 301(a), Aug. 7, 1998, 112 Stat. 923; amended Pub. L. 109–351, title V, § 504, title VII, § 726(25), Oct. 13, 2006, 120 Stat. 1975, 2003; Pub. L. 111–203, title IX, § 988(a), July 21, 2010, 124 Stat. 1938; Pub. L. 111–382, § 3, Jan. 4, 2011, 124 Stat. 4135; Pub. L. 117–286, § 4(b)(33), Dec. 27, 2022, 136 Stat. 4346.)
+(June 26, 1934, ch. 750, title II, § 216, as added Pub. L. 105–219, title III, § 301(a), Aug. 7, 1998, 112 Stat. 923; amended Pub. L. 109–351, title V, § 504, title VII, § 726(25), Oct. 13, 2006, 120 Stat. 1975, 2003; Pub. L. 111–203, title IX, § 988(a), July 21, 2010, 124 Stat. 1938; Pub. L. 111–382, § 3, Jan. 4, 2011, 124 Stat. 4135; Pub. L. 117–286, § 4(b)(33), Dec. 27, 2022, 136 Stat. 4346.)
 
 **Editorial Notes**
 
@@ -5999,9 +5999,9 @@ The term “net worth ratio” means, with respect to a credit union, the ratio 
 
 “(2) an amount equal to 10 percent of the total assets of the credit union at the time at which the Board initiated assistance under section 1788 of this title or was appointed liquidating agent.”
 
-2006—Subsec. (n). Pub. L. 109–351, § 726(25), inserted “any action” before “that is required”.
+2006—Subsec. (n). Pub. L. 109–351, § 726(25), inserted “any action” before “that is required”.
 
-Subsec. (*o*)(2)(A). Pub. L. 109–351, § 504, inserted “the” before “retained earnings balance” and “, together with any amounts that were previously retained earnings of any other credit union with which the credit union has combined” before semicolon.
+Subsec. (*o*)(2)(A). Pub. L. 109–351, § 504, inserted “the” before “retained earnings balance” and “, together with any amounts that were previously retained earnings of any other credit union with which the credit union has combined” before semicolon.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6011,7 +6011,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 **Effective Date**
 
-Pub. L. 105–219, title III, § 301(e), Aug. 7, 1998, 112 Stat. 931, provided that:
+Pub. L. 105–219, title III, § 301(e), Aug. 7, 1998, 112 Stat. 931, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), section 216 of the Federal Credit Union Act [12 U.S.C. 1790d] (as added by this section) shall become effective 2 years after the date of enactment of this Act [Aug. 7, 1998].
 
@@ -6019,7 +6019,7 @@ Pub. L. 105–219, title III, § 301(e), Aug. 7, 1998, 112 Stat. 931, provided
 
 **Regulations**
 
-Pub. L. 105–219, title III, § 301(d), Aug. 7, 1998, 112 Stat. 930, provided that:
+Pub. L. 105–219, title III, § 301(d), Aug. 7, 1998, 112 Stat. 930, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the Board shall—
 
@@ -6035,11 +6035,11 @@ Pub. L. 105–219, title III, § 301(d), Aug. 7, 1998, 112 Stat. 930, provided
 
 **Consultation Required**
 
-Pub. L. 105–219, title III, § 301(c), Aug. 7, 1998, 112 Stat. 930, provided that: “In developing regulations to implement section 216 of the Federal Credit Union Act [12 U.S.C. 1790d] (as added by subsection (a) of this section), the Board shall consult with the Secretary, the Federal banking agencies, and the State officials having jurisdiction over State-chartered insured credit unions.”
+Pub. L. 105–219, title III, § 301(c), Aug. 7, 1998, 112 Stat. 930, provided that: “In developing regulations to implement section 216 of the Federal Credit Union Act [12 U.S.C. 1790d] (as added by subsection (a) of this section), the Board shall consult with the Secretary, the Federal banking agencies, and the State officials having jurisdiction over State-chartered insured credit unions.”
 
 **Report to Congress**
 
-Pub. L. 105–219, title III, § 301(f), Aug. 7, 1998, 112 Stat. 931, provided that:
+Pub. L. 105–219, title III, § 301(f), Aug. 7, 1998, 112 Stat. 931, provided that:
 
 > “When the Board publishes proposed regulations pursuant to subsection (d)(1)(A) [set out above], or promulgates final regulations pursuant to subsection (d)(1)(B) [set out above], the Board shall submit to the Congress a report that specifically explains—
 
@@ -6049,7 +6049,7 @@ Pub. L. 105–219, title III, § 301(f), Aug. 7, 1998, 112 Stat. 931, provided
 
 **Definitions**
 
-Pub. L. 105–219, § 3, Aug. 7, 1998, 112 Stat. 914, provided that:
+Pub. L. 105–219, § 3, Aug. 7, 1998, 112 Stat. 914, provided that:
 
 > “As used in this Act [see Short Title of 1998 Amendment note set out under section 1751 of this title]—
 
@@ -6063,7 +6063,7 @@ Pub. L. 105–219, § 3, Aug. 7, 1998, 112 Stat. 914, provided that:
 
 > **“(5)** the term ‘Secretary’ means the Secretary of the Treasury.”
 
-### § 1790e. Temporary Corporate Credit Union Stabilization Fund
+### § 1790e. Temporary Corporate Credit Union Stabilization Fund
 
 **(a) Establishment of Stabilization Fund**
 
@@ -6129,25 +6129,25 @@ The Board shall submit an annual report to Congress on the financial condition a
 
 Within 90 days following the seventh anniversary of the initial Stabilization Fund advance, or earlier at the Board’s discretion, the Board shall distribute any funds, property, or other assets remaining in the Stabilization Fund to the Insurance Fund and shall close the Stabilization Fund. If the Board extends the final repayment date as permitted under subsection (c)(3), the mandatory date for closing the Stabilization Fund shall be extended by the same number of days.
 
-(June 26, 1934, ch. 750, title II, § 217, as added Pub. L. 111–22, div. A, title II, § 204(f)(1), May 20, 2009, 123 Stat. 1651; amended Pub. L. 111–382, § 1, Jan. 4, 2011, 124 Stat. 4134.)
+(June 26, 1934, ch. 750, title II, § 217, as added Pub. L. 111–22, div. A, title II, § 204(f)(1), May 20, 2009, 123 Stat. 1651; amended Pub. L. 111–382, § 1, Jan. 4, 2011, 124 Stat. 4134.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2011—Subsec. (c)(3). Pub. L. 111–382, § 1(a), inserted “and any additional advances” before period at end.
+2011—Subsec. (c)(3). Pub. L. 111–382, § 1(a), inserted “and any additional advances” before period at end.
 
-Subsec. (d). Pub. L. 111–382, § 1(b), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows:
+Subsec. (d). Pub. L. 111–382, § 1(b), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows:
 
 “At least 90 days prior to each repayment described in subsection (c)(3), the Board shall set the amount of the upcoming repayment and determine if the Stabilization Fund will have sufficient funds to make the repayment. If the Stabilization Fund might not have sufficient funds to make the repayment, the Board shall assess each federally insured credit union a special premium due and payable within 60 days in an aggregate amount calculated to ensure the Stabilization Fund is able to make the repayment. The premium charge for each credit union shall be stated as a percentage of its insured shares as represented on the credit union’s previous call report. The percentage shall be identical for each credit union. Any credit union that fails to make timely payment of the special premium is subject to the procedures and penalties described under subsections (d), (e), and (f) of section 1782 of this title.”
 
 ## SUBCHAPTER III—CENTRAL LIQUIDITY FACILITY
 
-### § 1795. Congressional findings
+### § 1795. Congressional findings
 
 The Congress finds that the establishment of a National Credit Union Central Liquidity Facility is needed to improve general financial stability by meeting the liquidity needs of credit unions and thereby encourage savings, support consumer and mortgage lending, and provide basic financial resources to all segments of the economy.
 
-(June 26, 1934, ch. 750, title III, formerly subch. III, § 301, as added Pub. L. 95–630, title XVIII, § 1802, Nov. 10, 1978, 92 Stat. 3719; amended Pub. L. 96–221, title III, § 309(b)(1), Mar. 31, 1980, 94 Stat. 149.)
+(June 26, 1934, ch. 750, title III, formerly subch. III, § 301, as added Pub. L. 95–630, title XVIII, § 1802, Nov. 10, 1978, 92 Stat. 3719; amended Pub. L. 96–221, title III, § 309(b)(1), Mar. 31, 1980, 94 Stat. 149.)
 
 **Editorial Notes**
 
@@ -6159,13 +6159,13 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 
 **Effective Date**
 
-Pub. L. 95–630, title XVIII, § 1806, Nov. 10, 1978, 92 Stat. 3724, provided that: “This title [enacting this subchapter and amending section 1757 of this title, section 709 of Title 18, Crimes and Criminal Procedure, and section 856 of former Title 31, Money and Finance] shall take effect on October 1, 1979.”
+Pub. L. 95–630, title XVIII, § 1806, Nov. 10, 1978, 92 Stat. 3724, provided that: “This title [enacting this subchapter and amending section 1757 of this title, section 709 of Title 18, Crimes and Criminal Procedure, and section 856 of former Title 31, Money and Finance] shall take effect on October 1, 1979.”
 
 **Short Title**
 
 For short title of title XVIII of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3719, as the “National Credit Union Central Liquidity Facility Act”, see section 1801 of Pub. L. 95–630, set out as a Short Title of 1978 Amendment note under section 1751 of this title.
 
-### § 1795a. Definitions
+### § 1795a. Definitions
 
 As used in this subchapter, the term—
 
@@ -6177,19 +6177,19 @@ As used in this subchapter, the term—
 
 **(C)** protracted adjustment credit available in the event of unusual or emergency circumstances of a longer term nature resulting from national, regional or local difficulties.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(2)** “Central Liquidity Facility” or “Facility” means the National Credit Union Central Liquidity Facility;
 
 **(3)** “paid-in and unimpaired capital and surplus” means the balance of the paid-in share accounts and deposits as of a given date, less any loss that may have been incurred for which there is no reserve or which has not been charged against undivided earnings, plus the credit balance (or less the debit balance) of the undivided earnings account as of a given date, after all losses have been provided for and net earnings or net losses have been added thereto or deducted therefrom. Reserves shall not be considered as part of surplus,2
 
-<sup>2</sup>  So in original. The comma probably should be a semicolon.
+<sup>2</sup> So in original. The comma probably should be a semicolon.
 
 and
 
 **(4)** “member” means a Regular or an Agent member of the Facility.
 
-(June 26, 1934, ch. 750, title III, formerly subch. III, § 302, as added Pub. L. 95–630, title XVIII, § 1802, Nov. 10, 1978, 92 Stat. 3719; amended Pub. L. 96–221, title III, § 309(b)(1), (2), Mar. 31, 1980, 94 Stat. 149; Pub. L. 116–136, div. A, title IV, § 4016(a)(1), (b)(1)(A), Mar. 27, 2020, 134 Stat. 481, 482.)
+(June 26, 1934, ch. 750, title III, formerly subch. III, § 302, as added Pub. L. 95–630, title XVIII, § 1802, Nov. 10, 1978, 92 Stat. 3719; amended Pub. L. 96–221, title III, § 309(b)(1), (2), Mar. 31, 1980, 94 Stat. 149; Pub. L. 116–136, div. A, title IV, § 4016(a)(1), (b)(1)(A), Mar. 27, 2020, 134 Stat. 481, 482.)
 
 **Editorial Notes**
 
@@ -6199,27 +6199,27 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 
 **Amendments**
 
-2020—Par. (1). Pub. L. 116–136, § 4016(b)(1)(A), inserted “primarily serving natural persons” after “credit unions” in introductory provisions.
+2020—Par. (1). Pub. L. 116–136, § 4016(b)(1)(A), inserted “primarily serving natural persons” after “credit unions” in introductory provisions.
 
-Pub. L. 116–136, § 4016(a)(1), struck out “primarily serving natural persons” after “credit unions” in introductory provisions.
+Pub. L. 116–136, § 4016(a)(1), struck out “primarily serving natural persons” after “credit unions” in introductory provisions.
 
-1980—Pub. L. 96–221, § 309(b)(2), substituted “title” for “subchapter”, which for purposes of codification has been editorially translated as “subchapter”, thereby requiring no further change in text.
+1980—Pub. L. 96–221, § 309(b)(2), substituted “title” for “subchapter”, which for purposes of codification has been editorially translated as “subchapter”, thereby requiring no further change in text.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–136, div. A, title IV, § 4016(b)(2), Mar. 27, 2020, 134 Stat. 482, as amended by Pub. L. 116–260, div. N, title V, § 540(a)(2), Dec. 27, 2020, 134 Stat. 2090, provided that: “The amendments made by paragraph (1) [amending this section and sections 1795c and 1795e of this title] shall take effect on December 31, 2021.”
+Pub. L. 116–136, div. A, title IV, § 4016(b)(2), Mar. 27, 2020, 134 Stat. 482, as amended by Pub. L. 116–260, div. N, title V, § 540(a)(2), Dec. 27, 2020, 134 Stat. 2090, provided that: “The amendments made by paragraph (1) [amending this section and sections 1795c and 1795e of this title] shall take effect on December 31, 2021.”
 
 **Effective Date**
 
 Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as a note under section 1795 of this title.
 
-### § 1795b. National Credit Union Administration Central Liquidity Facility; establishment; management; jurisdiction
+### § 1795b. National Credit Union Administration Central Liquidity Facility; establishment; management; jurisdiction
 
 There is created the National Credit Union Administration Central Liquidity Facility. The Central Liquidity Facility, an instrumentality of the United States, shall exist within the National Credit Union Administration and be managed by the Board. The United States district court shall have original jurisdiction over any case to which the Board on behalf of the Facility is a party, without regard to the amount in controversy.
 
-(June 26, 1934, ch. 750, title III, formerly subch. III, § 303, as added and amended Pub. L. 95–630, title V, § 502(b), title XVIII, § 1802, Nov. 10, 1978, 92 Stat. 3681, 3720; Pub. L. 96–221, title III, § 309(a)(4), (b)(1), Mar. 31, 1980, 94 Stat. 149; Pub. L. 98–369, div. B, title VIII, § 2813(a)(1), July 18, 1984, 98 Stat. 1206.)
+(June 26, 1934, ch. 750, title III, formerly subch. III, § 303, as added and amended Pub. L. 95–630, title V, § 502(b), title XVIII, § 1802, Nov. 10, 1978, 92 Stat. 3681, 3720; Pub. L. 96–221, title III, § 309(a)(4), (b)(1), Mar. 31, 1980, 94 Stat. 149; Pub. L. 98–369, div. B, title VIII, § 2813(a)(1), July 18, 1984, 98 Stat. 1206.)
 
 **Editorial Notes**
 
@@ -6229,11 +6229,11 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 
 **Amendments**
 
-1984—Pub. L. 98–369 inserted “, an instrumentality of the United States,”.
+1984—Pub. L. 98–369 inserted “, an instrumentality of the United States,”.
 
-1980—Pub. L. 96–221, § 309(a)(4), substituted “Board” for “Administrator” in two places, such change having been made previously by Pub. L. 95–630.
+1980—Pub. L. 96–221, § 309(a)(4), substituted “Board” for “Administrator” in two places, such change having been made previously by Pub. L. 95–630.
 
-1978—Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” in two places.
+1978—Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” in two places.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6249,7 +6249,7 @@ Amendment effective on expiration of 120 days after Nov. 10, 1978, and transitio
 
 Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as a note under section 1795 of this title.
 
-### § 1795c. Membership
+### § 1795c. Membership
 
 **(a) Credit unions serving natural persons**
 
@@ -6283,7 +6283,7 @@ An Agent member of the Facility shall perform for its member credit unions those
 
 **(3)** The Board may terminate membership in the Facility if, after opportunity for a hearing, the Board determines a member has failed to comply with any provision of this subchapter or regulation issued pursuant thereto.
 
-(June 26, 1934, ch. 750, title III, formerly subch. III, § 304, as added and amended Pub. L. 95–630, title V, § 502(b), title XVIII, § 1802, Nov. 10, 1978, 92 Stat. 3681, 3720; Pub. L. 96–221, title III, § 309(a)(4), (b)(1), (2), Mar. 31, 1980, 94 Stat. 149; Pub. L. 109–351, title VII, § 726(26), Oct. 13, 2006, 120 Stat. 2003; Pub. L. 116–136, div. A, title IV, § 4016(a)(2), (b)(1)(B), Mar. 27, 2020, 134 Stat. 481, 482.)
+(June 26, 1934, ch. 750, title III, formerly subch. III, § 304, as added and amended Pub. L. 95–630, title V, § 502(b), title XVIII, § 1802, Nov. 10, 1978, 92 Stat. 3681, 3720; Pub. L. 96–221, title III, § 309(a)(4), (b)(1), (2), Mar. 31, 1980, 94 Stat. 149; Pub. L. 109–351, title VII, § 726(26), Oct. 13, 2006, 120 Stat. 2003; Pub. L. 116–136, div. A, title IV, § 4016(a)(2), (b)(1)(B), Mar. 27, 2020, 134 Stat. 481, 482.)
 
 **Editorial Notes**
 
@@ -6293,17 +6293,17 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 
 **Amendments**
 
-2020—Subsec. (b)(2). Pub. L. 116–136, § 4016(b)(1)(B), substituted “all those credit unions” for “such credit unions as the Board may in its discretion determine”.
+2020—Subsec. (b)(2). Pub. L. 116–136, § 4016(b)(1)(B), substituted “all those credit unions” for “such credit unions as the Board may in its discretion determine”.
 
-Pub. L. 116–136, § 4016(a)(2), substituted “such credit unions as the Board may in its discretion determine” for “all those credit unions”.
+Pub. L. 116–136, § 4016(a)(2), substituted “such credit unions as the Board may in its discretion determine” for “all those credit unions”.
 
 2006—Subsec. (b)(3). Pub. L. 109–351 substituted “the affairs of such credit union” for “the affairs or such credit union”.
 
-1980—Subsecs. (b), (c). Pub. L. 96–221, § 309(a)(4), substituted “Board” for “Administrator” wherever appearing, such change having been made previously by Pub. L. 95–630.
+1980—Subsecs. (b), (c). Pub. L. 96–221, § 309(a)(4), substituted “Board” for “Administrator” wherever appearing, such change having been made previously by Pub. L. 95–630.
 
-Subsecs. (d), (e). Pub. L. 96–221, § 309(a)(4), (b)(2), substituted “Board” for “Administrator” wherever appearing, such change having been made previously by Pub. L. 95–630, and “title” for “subchapter” wherever appearing, which for purposes of codification has been editorially translated as “subchapter”, thereby requiring no further change in text.
+Subsecs. (d), (e). Pub. L. 96–221, § 309(a)(4), (b)(2), substituted “Board” for “Administrator” wherever appearing, such change having been made previously by Pub. L. 95–630, and “title” for “subchapter” wherever appearing, which for purposes of codification has been editorially translated as “subchapter”, thereby requiring no further change in text.
 
-1978—Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” wherever appearing.
+1978—Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6319,7 +6319,7 @@ Amendment effective on expiration of 120 days after Nov. 10, 1978, and transitio
 
 Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as a note under section 1795 of this title.
 
-### § 1795d. Capital stock
+### § 1795d. Capital stock
 
 **(a) Opening of books; minimum subscription**
 
@@ -6347,7 +6347,7 @@ At least one-half of the payment for the subscription amount required for member
 
 A credit union or credit union group that becomes a member of the Facility later than six months after the date the Board opens books for capital stock subscriptions, may not borrow or receive advances from the Facility without approval by the Board for a period of six months after becoming a member.
 
-(June 26, 1934, ch. 750, title III, formerly subch. III, § 305, as added and amended Pub. L. 95–630, title V, § 502(b), title XVIII, § 1802, Nov. 10, 1978, 92 Stat. 3681, 3721; Pub. L. 96–221, title III, § 309(a)(2), (4), (b)(1), Mar. 31, 1980, 94 Stat. 148, 149.)
+(June 26, 1934, ch. 750, title III, formerly subch. III, § 305, as added and amended Pub. L. 95–630, title V, § 502(b), title XVIII, § 1802, Nov. 10, 1978, 92 Stat. 3681, 3721; Pub. L. 96–221, title III, § 309(a)(2), (4), (b)(1), Mar. 31, 1980, 94 Stat. 148, 149.)
 
 **Editorial Notes**
 
@@ -6357,13 +6357,13 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 
 **Amendments**
 
-1980—Subsec. (a). Pub. L. 96–221, § 309(a)(4), substituted “Board” for “Administrator”, such change having been previously made by Pub. L. 95–630.
+1980—Subsec. (a). Pub. L. 96–221, § 309(a)(4), substituted “Board” for “Administrator”, such change having been previously made by Pub. L. 95–630.
 
-Subsec. (b). Pub. L. 96–221, § 309(a)(2), (4), substituted “Board” for “Administrator” wherever appearing, such change having been previously made by Pub. L. 95–630, and in par. (3) inserted specific requirement that rates on required capital stock be without preference.
+Subsec. (b). Pub. L. 96–221, § 309(a)(2), (4), substituted “Board” for “Administrator” wherever appearing, such change having been previously made by Pub. L. 95–630, and in par. (3) inserted specific requirement that rates on required capital stock be without preference.
 
-Subsecs. (c) to (e). Pub. L. 96–221, § 309(a)(4), substituted “Board” for “Administrator” wherever appearing, such change having been previously made by Pub. L. 95–630.
+Subsecs. (c) to (e). Pub. L. 96–221, § 309(a)(4), substituted “Board” for “Administrator” wherever appearing, such change having been previously made by Pub. L. 95–630.
 
-1978—Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” wherever appearing.
+1978—Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6375,7 +6375,7 @@ Amendment effective on expiration of 120 days after Nov. 10, 1978, and transitio
 
 Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as a note under section 1795 of this title.
 
-### § 1795e. Extensions of credit
+### § 1795e. Extensions of credit
 
 **(a)**
 
@@ -6387,7 +6387,7 @@ Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as
 
 **(b)** The Secretary of the Treasury is authorized to lend to the Facility up to $500,000,000, in the event the Board certifies to the Secretary that the Facility does not have sufficient funds to meet liquidity needs of credit unions. Any such loan shall bear an interest rate not greater than one-eighth of 1 per centum above the current average market yield on outstanding obligations of the United States with remaining time to maturity comparable to the maturity of such loan. The authority of the Secretary to lend under this subsection shall be limited to such extent or in such amounts as are provided in advance in appropriation Acts.
 
-(June 26, 1934, ch. 750, title III, formerly subch. III, § 306, as added and amended Pub. L. 95–630, title V, § 502(b), title XVIII, § 1802, Nov. 10, 1978, 92 Stat. 3681, 3721; Pub. L. 96–221, title III, § 309(a)(4), (b)(1), Mar. 31, 1980, 94 Stat. 149; Pub. L. 116–136, div. A, title IV, § 4016(a)(3), (b)(1)(C), Mar. 27, 2020, 134 Stat. 482.)
+(June 26, 1934, ch. 750, title III, formerly subch. III, § 306, as added and amended Pub. L. 95–630, title V, § 502(b), title XVIII, § 1802, Nov. 10, 1978, 92 Stat. 3681, 3721; Pub. L. 96–221, title III, § 309(a)(4), (b)(1), Mar. 31, 1980, 94 Stat. 149; Pub. L. 116–136, div. A, title IV, § 4016(a)(3), (b)(1)(C), Mar. 27, 2020, 134 Stat. 482.)
 
 **Editorial Notes**
 
@@ -6397,13 +6397,13 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 
 **Amendments**
 
-2020—Subsec. (a)(1). Pub. L. 116–136, § 4016(b)(1)(C), which directed substitution of “the intent of which is to expand credit union portfolios” for “without first having obtained evidence from the applicant that the applicant has made reasonable efforts to first use primary sources of liquidity of the applicant, including balance sheet and market funding sources, to address the liquidity needs of the applicant” in the second sentence, was executed by making the substitution in the third sentence, to reflect the probable intent of Congress.
+2020—Subsec. (a)(1). Pub. L. 116–136, § 4016(b)(1)(C), which directed substitution of “the intent of which is to expand credit union portfolios” for “without first having obtained evidence from the applicant that the applicant has made reasonable efforts to first use primary sources of liquidity of the applicant, including balance sheet and market funding sources, to address the liquidity needs of the applicant” in the second sentence, was executed by making the substitution in the third sentence, to reflect the probable intent of Congress.
 
-Pub. L. 116–136, § 4016(a)(3), which directed substitution of “without first having obtained evidence from the applicant that the applicant has made reasonable efforts to first use primary sources of liquidity of the applicant, including balance sheet and market funding sources, to address the liquidity needs of the applicant” for “the intent of which is to expand credit union portfolios” in the second sentence, was executed by making the substitution in the third sentence, to reflect the probable intent of Congress.
+Pub. L. 116–136, § 4016(a)(3), which directed substitution of “without first having obtained evidence from the applicant that the applicant has made reasonable efforts to first use primary sources of liquidity of the applicant, including balance sheet and market funding sources, to address the liquidity needs of the applicant” for “the intent of which is to expand credit union portfolios” in the second sentence, was executed by making the substitution in the third sentence, to reflect the probable intent of Congress.
 
-1980—Subsecs. (a), (b). Pub. L. 96–221, § 309(a)(4), substituted “Board” for “Administrator” wherever appearing, such change having been previously made by Pub. L. 95–630.
+1980—Subsecs. (a), (b). Pub. L. 96–221, § 309(a)(4), substituted “Board” for “Administrator” wherever appearing, such change having been previously made by Pub. L. 95–630.
 
-1978—Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” wherever appearing.
+1978—Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6419,7 +6419,7 @@ Amendment effective on expiration of 120 days after Nov. 10, 1978, and transitio
 
 Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as a note under section 1795 of this title.
 
-### § 1795f. Powers of Board
+### § 1795f. Powers of Board
 
 **(a) General authorities** The Board on behalf of the Facility shall have the ability to—
 
@@ -6471,7 +6471,7 @@ Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as
 
 **(3)** The Board is authorized, with respect to participation in the collection and settlement of any items by the Central Liquidity Facility or by its Agent members, and with respect to the collection and settlement (including payment by the payor institution) of items payable by members of the Central Liquidity Facility or of any of its Agent members, to prescribe rules and regulations regarding the rights, powers, responsibilities, duties, and liabilities, including standards relating thereto, of such entities and other parties to any such items or their collection and settlement. In prescribing such rules and regulations, the Board may adopt or apply, in whole or in part, general banking usage and practices, and, in instances or respects in which they would otherwise not be applicable, Federal Reserve regulations and operating letters, the Uniform Commercial Code, and clearinghouse rules.
 
-(June 26, 1934, ch. 750, title III, formerly subch. III, § 307, as added and amended Pub. L. 95–630, title V, § 502(b), title XVIII, § 1802, Nov. 10, 1978, 92 Stat. 3681, 3722; Pub. L. 96–221, title III, §§ 309(a)(3), (4), (b), 312, Mar. 31, 1980, 94 Stat. 149, 150; Pub. L. 97–320, title V, § 531, Oct. 15, 1982, 96 Stat. 1536; Pub. L. 116–136, div. A, title IV, § 4016(a)(4), Mar. 27, 2020, 134 Stat. 482; Pub. L. 116–260, div. N, title V, § 540(b), Dec. 27, 2020, 134 Stat. 2090.)
+(June 26, 1934, ch. 750, title III, formerly subch. III, § 307, as added and amended Pub. L. 95–630, title V, § 502(b), title XVIII, § 1802, Nov. 10, 1978, 92 Stat. 3681, 3722; Pub. L. 96–221, title III, §§ 309(a)(3), (4), (b), 312, Mar. 31, 1980, 94 Stat. 149, 150; Pub. L. 97–320, title V, § 531, Oct. 15, 1982, 96 Stat. 1536; Pub. L. 116–136, div. A, title IV, § 4016(a)(4), Mar. 27, 2020, 134 Stat. 482; Pub. L. 116–260, div. N, title V, § 540(b), Dec. 27, 2020, 134 Stat. 2090.)
 
 **Editorial Notes**
 
@@ -6483,13 +6483,13 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 
 2020—Subsec. (a)(4)(A). Pub. L. 116–260 substituted “December 31, 2021” for “December 31, 2020”.
 
-Pub. L. 116–136 inserted before semicolon “, provided that, the total face value of such obligations shall not exceed 16 times the subscribed capital stock and surplus of the Facility for the period beginning on March 27, 2020, and ending on December 31, 2020”.
+Pub. L. 116–136 inserted before semicolon “, provided that, the total face value of such obligations shall not exceed 16 times the subscribed capital stock and surplus of the Facility for the period beginning on March 27, 2020, and ending on December 31, 2020”.
 
 1982—Subsec. (a)(17), (18). Pub. L. 97–320 added pars. (17) and (18).
 
-1980—Pub. L. 96–221, §§ 309(a)(3), (4), (b)(2), (3), 312, designated existing provisions as subsec. (a) substituted “Board” for “Administrator”, such change having been made previously by Pub. L. 95–630, and “title” and “titles” for “subchapter” and “subchapters”, which for purposes of codification has been editorially translated as “subchapter” or “subchapters” thereby requiring no further change in text, in par. (15) struck out requirement respecting advance appropriation of amounts, and added subsec. (b).
+1980—Pub. L. 96–221, §§ 309(a)(3), (4), (b)(2), (3), 312, designated existing provisions as subsec. (a) substituted “Board” for “Administrator”, such change having been made previously by Pub. L. 95–630, and “title” and “titles” for “subchapter” and “subchapters”, which for purposes of codification has been editorially translated as “subchapter” or “subchapters” thereby requiring no further change in text, in par. (15) struck out requirement respecting advance appropriation of amounts, and added subsec. (b).
 
-1978—Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator”.
+1978—Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6501,11 +6501,11 @@ Amendment effective on expiration of 120 days after Nov. 10, 1978, and transitio
 
 Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as a note under section 1795 of this title.
 
-### § 1795g. Depositories, custodians, and fiscal agents
+### § 1795g. Depositories, custodians, and fiscal agents
 
 The Federal Reserve Banks are authorized to act as depositories, custodians and/or fiscal agents for the Central Liquidity Facility in the general performance of its powers conferred by this subchapter. Each Federal Reserve Bank when designated by the Board as fiscal agent for the Central Liquidity Facility, shall be entitled to be reimbursed for all expenses incurred as such fiscal agent.
 
-(June 26, 1934, ch. 750, title III, formerly subch. III, § 308, as added and amended Pub. L. 95–630, title V, § 502(b), title XVIII, § 1802, Nov. 10, 1978, 92 Stat. 3681, 3723; Pub. L. 96–221, title III, § 309(a)(4), (b)(1), (2), Mar. 31, 1980, 94 Stat. 149.)
+(June 26, 1934, ch. 750, title III, formerly subch. III, § 308, as added and amended Pub. L. 95–630, title V, § 502(b), title XVIII, § 1802, Nov. 10, 1978, 92 Stat. 3681, 3723; Pub. L. 96–221, title III, § 309(a)(4), (b)(1), (2), Mar. 31, 1980, 94 Stat. 149.)
 
 **Editorial Notes**
 
@@ -6515,9 +6515,9 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 
 **Amendments**
 
-1980—Pub. L. 96–221, § 309(a)(4), (b)(2), substituted “Board” for “Administrator”, such change having been made previously by Pub. L. 95–630, and “title” for “subchapter”, which for purposes of codification has been editorially translated as “subchapter”, thereby requiring no further change in text.
+1980—Pub. L. 96–221, § 309(a)(4), (b)(2), substituted “Board” for “Administrator”, such change having been made previously by Pub. L. 95–630, and “title” for “subchapter”, which for purposes of codification has been editorially translated as “subchapter”, thereby requiring no further change in text.
 
-1978—Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator”.
+1978—Pub. L. 95–630, § 502(b), substituted “Board” for “Administrator”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6529,11 +6529,11 @@ Amendment effective on expiration of 120 days after Nov. 10, 1978, and transitio
 
 Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as a note under section 1795 of this title.
 
-### § 1795h. Audit of financial transactions
+### § 1795h. Audit of financial transactions
 
 The Comptroller General of the United States shall audit the Central Liquidity Facility under such rules and regulations as the Comptroller may prescribe.
 
-(June 26, 1934, ch. 750, title III, formerly subch. III, § 309, as added Pub. L. 95–630, title XVIII, § 1802, Nov. 10, 1978, 92 Stat. 3723; amended Pub. L. 96–221, title III, § 309(b)(1), Mar. 31, 1980, 94 Stat. 149.)
+(June 26, 1934, ch. 750, title III, formerly subch. III, § 309, as added Pub. L. 95–630, title XVIII, § 1802, Nov. 10, 1978, 92 Stat. 3723; amended Pub. L. 96–221, title III, § 309(b)(1), Mar. 31, 1980, 94 Stat. 149.)
 
 **Editorial Notes**
 
@@ -6547,11 +6547,11 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 
 Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as a note under section 1795 of this title.
 
-### § 1795i. Annual report
+### § 1795i. Annual report
 
 The annual report required by section 1752a(d) of this title shall include a full report of the activities of the Facility.
 
-(June 26, 1934, ch. 750, title III, formerly subch. III, § 310, as added Pub. L. 95–630, title XVIII, § 1802, Nov. 10, 1978, 92 Stat. 3723; amended Pub. L. 96–221, title III, § 309(b)(1), Mar. 31, 1980, 94 Stat. 149; Pub. L. 109–351, title VII, § 726(27), Oct. 13, 2006, 120 Stat. 2003.)
+(June 26, 1934, ch. 750, title III, formerly subch. III, § 310, as added Pub. L. 95–630, title XVIII, § 1802, Nov. 10, 1978, 92 Stat. 3723; amended Pub. L. 96–221, title III, § 309(b)(1), Mar. 31, 1980, 94 Stat. 149; Pub. L. 109–351, title VII, § 726(27), Oct. 13, 2006, 120 Stat. 2003.)
 
 **Editorial Notes**
 
@@ -6569,13 +6569,13 @@ Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of ac
 
 Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as a note under section 1795 of this title.
 
-### § 1795j. Agent of Federal Reserve System
+### § 1795j. Agent of Federal Reserve System
 
 The facility is authorized to act upon the request of the Board of Governors of the Federal Reserve System as an agent of the Federal Reserve System in matters pertaining to credit unions under such terms and conditions as may be established by the Board of Governors of the Federal Reserve System.
 
-(June 26, 1934, ch. 750, title III, § 311, as added Pub. L. 97–320, title V, § 532, Oct. 15, 1982, 96 Stat. 1536.)
+(June 26, 1934, ch. 750, title III, § 311, as added Pub. L. 97–320, title V, § 532, Oct. 15, 1982, 96 Stat. 1536.)
 
-### § 1795k. State and local tax exemption
+### § 1795k. State and local tax exemption
 
 **(a) Franchise, activities, etc., of Central Liquidity Facility; exception**
 
@@ -6593,10 +6593,10 @@ The Central Liquidity Facility, and its franchise, activities, capital reserves,
 
 **(2)** taxes imposed by counties or municipalities, or any territory, dependency, or possession of the United States shall be treated as local taxes.
 
-(June 26, 1934, ch. 750, title III, § 312, as added Pub. L. 98–369, div. B, title VIII, § 2813(a)(2), July 18, 1984, 98 Stat. 1206.)
+(June 26, 1934, ch. 750, title III, § 312, as added Pub. L. 98–369, div. B, title VIII, § 2813(a)(2), July 18, 1984, 98 Stat. 1206.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 98–369, div. B, title VIII, § 2813(c), July 18, 1984, 98 Stat. 1207, provided that: “The amendments made by this section [enacting this section and amending section 1795b of this title and section 501 of Title 26, Internal Revenue Code] shall take effect on October 1, 1979.”
+Pub. L. 98–369, div. B, title VIII, § 2813(c), July 18, 1984, 98 Stat. 1207, provided that: “The amendments made by this section [enacting this section and amending section 1795b of this title and section 501 of Title 26, Internal Revenue Code] shall take effect on October 1, 1979.”

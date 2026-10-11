@@ -13,7 +13,7 @@ retrieved: 2026-10-11
 
 # Title 7—AGRICULTURE
 
-Current through 119-102not101
+Current through 119-102not101
 
 **Disposition Table**
 
@@ -66,7 +66,7 @@ Current through 119-102not101
 | 7:411b note (Pub. L. 96–528, title I, Dec. 15, 1980, 95 Stat. 3101) | 7:590a note |
 | 7:411b note (Pub. L. 97–103, title I, Dec. 23, 1981, 95 Stat. 1473) | 7:590a note |
 | 7:411b note (Pub. L. 97–370, title I, Dec. 18, 1982, 96 Stat. 1794) | 7:590a note |
-| 7:411b note (Pub. L. 99–190, § 101(a) [H.R. 3037, title I], Dec. 19, 1985, 99 Stat. 1185) | 7:590a note |
+| 7:411b note (Pub. L. 99–190, § 101(a) [H.R. 3037, title I], Dec. 19, 1985, 99 Stat. 1185) | 7:590a note |
 | 7:414a | 7:1436a |
 | 7:415 | 7:2241b |
 | 7:415b | omitted |
@@ -89,29 +89,29 @@ Current through 119-102not101
 | 7:424 | 7:2121 |
 | 7:425 | 7:2122 |
 | 7:426 | 7:8351 |
-| 7:426 note (Pub. L. 99–190, § 101(a) [H.R. 3037, title I, § 101], Dec. 19, 1985, 99 Stat. 1185) | 7:8351 note |
+| 7:426 note (Pub. L. 99–190, § 101(a) [H.R. 3037, title I, § 101], Dec. 19, 1985, 99 Stat. 1185) | 7:8351 note |
 | 7:426 note (Pub. L. 111–11, title VI, subtitle C, Mar. 30, 2009, 123 Stat. 1170) | 7:8351 note |
 | 7:426b | 7:8352 |
 | 7:426c | 7:8353 |
 | 7:426d | 7:8354 |
-| 7:426d note (Pub. L. 108–199, div. A, title VII, § 776, Jan. 23, 2004, 118 Stat. 41) | 7:8354 note |
-| 7:426d note (Pub. L. 108–447, div. A, title VII, § 758, Dec. 8, 2004, 118 Stat. 2846) | 7:8354 note |
+| 7:426d note (Pub. L. 108–199, div. A, title VII, § 776, Jan. 23, 2004, 118 Stat. 41) | 7:8354 note |
+| 7:426d note (Pub. L. 108–447, div. A, title VII, § 758, Dec. 8, 2004, 118 Stat. 2846) | 7:8354 note |
 | 7:427 | 7:3104 |
 | 7:427 note (Ex. Ord. No. 9310, Mar. 6, 1943, 8 F.R. 2913) | 7:3104 note |
 | 7:427i | 7:3105 |
 | 7:428a | 7:2268a |
 | 7:428b | 7:5942 |
 | 7:428c | 7:5943 |
-| 7:428c note (Pub. L. 94–214, § 1, Feb. 16, 1976, 90 Stat. 181) | 7:5801 note |
+| 7:428c note (Pub. L. 94–214, § 1, Feb. 16, 1976, 90 Stat. 181) | 7:5801 note |
 | 7:430 | 7:398 |
 | 7:431 | 21:626 |
 | 7:432 | 7:5941 |
 | 7:433 | 7:399 |
-| 7:433 note (Apr. 30, 1946, ch. 242, § 3, 60 Stat. 128) | 7:399 note |
+| 7:433 note (Apr. 30, 1946, ch. 242, § 3, 60 Stat. 128) | 7:399 note |
 | 7:434 | 7:399 note |
 | 7:436 | omitted |
 | 7:437 | omitted |
-| 7:437 note (Apr. 21, 1948, ch. 224, § 4, 62 Stat. 198) | omitted |
+| 7:437 note (Apr. 21, 1948, ch. 224, § 4, 62 Stat. 198) | omitted |
 | 7:439 | omitted |
 | 7:439a | omitted |
 | 7:439b | omitted |
@@ -135,27 +135,27 @@ Current through 119-102not101
 | 7:450f | 7:2204–4 |
 | 7:450g | 7:2204–5 |
 | 7:450i | 7:3157 |
-| 7:450i note (Pub. L. 99–198, title XIV, § 1409(a)(3), Dec. 23, 1985, 99 Stat. 1547) | 7:3157 note |
-| 7:450i note (Pub. L. 99–198, title XIV, § 1409(b)(2), Dec. 23, 1985, 99 Stat. 1547) | 7:3157 note |
-| 7:450i note (Pub. L. 110–234, title VII, § 7406(c), May 22, 2008, 122 Stat. 1251, and Pub. L. 110–246, § 4(a), title VII, § 7406(c), June 18, 2008, 122 Stat. 1664, 2013) | 7:3157 note |
+| 7:450i note (Pub. L. 99–198, title XIV, § 1409(a)(3), Dec. 23, 1985, 99 Stat. 1547) | 7:3157 note |
+| 7:450i note (Pub. L. 99–198, title XIV, § 1409(b)(2), Dec. 23, 1985, 99 Stat. 1547) | 7:3157 note |
+| 7:450i note (Pub. L. 110–234, title VII, § 7406(c), May 22, 2008, 122 Stat. 1251, and Pub. L. 110–246, § 4(a), title VII, § 7406(c), June 18, 2008, 122 Stat. 1664, 2013) | 7:3157 note |
 | 7:450j | 7:4551 |
-| 7:450j note (Pub. L. 88–452, title III, § 331, Aug. 20, 1964, 78 Stat. 525) | 7:4551 note |
-| 7:450j note (Pub. L. 89–16, title III, § 303, Apr. 30. 1965, 79 Stat. 108) | 7:4551 note |
-| 7:450j note (Pub. L. 89–253, § 24, Oct. 9, 1965, 79 Stat. 977) | 7:4551 note |
-| 7:450j note (Pub. L. 89–794, title III, § 301(c), Nov. 8, 1966, 80 Stat. 1465) | 7:4551 note |
-| 7:450j note (Pub. L. 90–95, § 1, Sept. 28, 1967, 81 Stat. 231) | 7:4551 note |
+| 7:450j note (Pub. L. 88–452, title III, § 331, Aug. 20, 1964, 78 Stat. 525) | 7:4551 note |
+| 7:450j note (Pub. L. 89–16, title III, § 303, Apr. 30. 1965, 79 Stat. 108) | 7:4551 note |
+| 7:450j note (Pub. L. 89–253, § 24, Oct. 9, 1965, 79 Stat. 977) | 7:4551 note |
+| 7:450j note (Pub. L. 89–794, title III, § 301(c), Nov. 8, 1966, 80 Stat. 1465) | 7:4551 note |
+| 7:450j note (Pub. L. 90–95, § 1, Sept. 28, 1967, 81 Stat. 231) | 7:4551 note |
 | 7:450k | 7:4552 |
-| 7:450k note (Pub. L. 88–452, title III, § 331, Aug. 20, 1964, 78 Stat. 525) | 7:4552 note |
-| 7:450k note (Pub. L. 89–16, title III, § 303, Apr. 30, 1965, 79 Stat. 108) | 7:4552 note |
-| 7:450k note (Pub. L. 89–253, § 24, Oct. 9, 1965, 79 Stat. 977) | 7:4552 note |
-| 7:450k note (Pub. L. 89–794, title III, § 301(c), Nov. 8, 1966, 80 Stat. 1465) | 7:4552 note |
-| 7:450k note (Pub. L. 90–95, § 2, Sept. 28, 1967, 81 Stat. 231) | 7:4552 note |
+| 7:450k note (Pub. L. 88–452, title III, § 331, Aug. 20, 1964, 78 Stat. 525) | 7:4552 note |
+| 7:450k note (Pub. L. 89–16, title III, § 303, Apr. 30, 1965, 79 Stat. 108) | 7:4552 note |
+| 7:450k note (Pub. L. 89–253, § 24, Oct. 9, 1965, 79 Stat. 977) | 7:4552 note |
+| 7:450k note (Pub. L. 89–794, title III, § 301(c), Nov. 8, 1966, 80 Stat. 1465) | 7:4552 note |
+| 7:450k note (Pub. L. 90–95, § 2, Sept. 28, 1967, 81 Stat. 231) | 7:4552 note |
 | 7:450*l* | 7:4553 |
-| 7:450*l* note (Pub. L. 88–452, title III, § 331, Aug. 20, 1964, 78 Stat. 525) | 7:4553 note |
-| 7:450*l* note (Pub. L. 89–16, title III, § 303, Apr. 30, 1965, 79 Stat. 108) | 7:4553 note |
-| 7:450*l* note (Pub. L. 89–253, § 24, Oct. 9, 1965, 79 Stat. 977) | 7:4553 note |
-| 7:450*l* note (Pub. L. 89–794, title III, § 301(c), Nov. 8, 1966, 80 Stat. 1465) | 7:4553 note |
-| 7:450*l* note (Pub. L. 90–95, § 3, Sept. 28, 1967, 81 Stat. 231) | 7:4553 note |
+| 7:450*l* note (Pub. L. 88–452, title III, § 331, Aug. 20, 1964, 78 Stat. 525) | 7:4553 note |
+| 7:450*l* note (Pub. L. 89–16, title III, § 303, Apr. 30, 1965, 79 Stat. 108) | 7:4553 note |
+| 7:450*l* note (Pub. L. 89–253, § 24, Oct. 9, 1965, 79 Stat. 977) | 7:4553 note |
+| 7:450*l* note (Pub. L. 89–794, title III, § 301(c), Nov. 8, 1966, 80 Stat. 1465) | 7:4553 note |
+| 7:450*l* note (Pub. L. 90–95, § 3, Sept. 28, 1967, 81 Stat. 231) | 7:4553 note |
 
 - [CHAPTER 1—COMMODITY EXCHANGES](chapter-001-commodity-exchanges.md)
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 93—UNITED STATES-ISRAEL COOPERATION
 
-## § 8601. Findings
+## § 8601. Findings
 
 Congress makes the following findings:
 
@@ -35,17 +35,17 @@ Congress makes the following findings:
 
 **(8)** Pursuant to chapter 5 of title 1 of the Emergency Wartime Supplemental Appropriations Act, 2003 (Public Law 108–11; 117 Stat. 576), the authority to make available loan guarantees to Israel is currently set to expire on September 30, 2012.
 
-(Pub. L. 112–150, § 2, July 27, 2012, 126 Stat. 1146.)
+(Pub. L. 112–150, § 2, July 27, 2012, 126 Stat. 1146.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2014 Amendment**
 
-Pub. L. 113–296, § 1, Dec. 19, 2014, 128 Stat. 4075, provided that: “This Act [enacting section 8606 of this title, amending sections 2321h and 2776 of this title and section 17337 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8602, 8603, and 8606 of this title, and amending provisions set out as a note under section 2776 of this title] may be cited as the ‘United States-Israel Strategic Partnership Act of 2014’.”
+Pub. L. 113–296, § 1, Dec. 19, 2014, 128 Stat. 4075, provided that: “This Act [enacting section 8606 of this title, amending sections 2321h and 2776 of this title and section 17337 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8602, 8603, and 8606 of this title, and amending provisions set out as a note under section 2776 of this title] may be cited as the ‘United States-Israel Strategic Partnership Act of 2014’.”
 
 **Short Title**
 
-Pub. L. 112–150, § 1, July 27, 2012, 126 Stat. 1146, provided that: “This Act [enacting this chapter and amending section 2321h of this title] may be cited as the ‘United States-Israel Enhanced Security Cooperation Act of 2012’.”
+Pub. L. 112–150, § 1, July 27, 2012, 126 Stat. 1146, provided that: “This Act [enacting this chapter and amending section 2321h of this title] may be cited as the ‘United States-Israel Enhanced Security Cooperation Act of 2012’.”
 
 **Israel Relations Normalization**
 
@@ -171,7 +171,7 @@ Pub. L. 117–103, div. Z, Mar. 15, 2022, 136 Stat. 1059, provided that:
 
 **Findings**
 
-Pub. L. 113–296, § 2, Dec. 19, 2014, 128 Stat. 4075, provided that:
+Pub. L. 113–296, § 2, Dec. 19, 2014, 128 Stat. 4075, provided that:
 
 > “Congress makes the following findings:
 
@@ -187,7 +187,7 @@ Pub. L. 113–296, § 2, Dec. 19, 2014, 128 Stat. 4075, provided that:
 
 > **“(6)** Given these challenges, it is imperative that the United States continues to deepen cooperation with allies like Israel in pursuit of shared policy objectives.”
 
-## § 8602. Statement of policy
+## § 8602. Statement of policy
 
 It is the policy of the United States:
 
@@ -205,17 +205,17 @@ It is the policy of the United States:
 
 **(7)** To encourage further development of advanced technology programs between the United States and Israel given current trends and instability in the region.
 
-(Pub. L. 112–150, § 3, July 27, 2012, 126 Stat. 1147.)
+(Pub. L. 112–150, § 3, July 27, 2012, 126 Stat. 1147.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Statement of Policy Ensuring Israel’s Defense**
 
-Pub. L. 118–159, div. A, title XII, § 1211, Dec. 23, 2024, 138 Stat. 2099, provided that: “It is the policy of the United States to work with Israel to ensure adequate stocks of interceptors and weapons system components to defend Israel against air and missile threats from Iran and Iranian military proxies, such as Hamas, Hezbollah, the Houthis, and the Palestinian Islamic Jihad, if the transfer of such interceptors and weapons system components are in the national security interests of the United States.”
+Pub. L. 118–159, div. A, title XII, § 1211, Dec. 23, 2024, 138 Stat. 2099, provided that: “It is the policy of the United States to work with Israel to ensure adequate stocks of interceptors and weapons system components to defend Israel against air and missile threats from Iran and Iranian military proxies, such as Hamas, Hezbollah, the Houthis, and the Palestinian Islamic Jihad, if the transfer of such interceptors and weapons system components are in the national security interests of the United States.”
 
 **Statement of Policy Regarding United States-Israel Strategic Partnership**
 
-Pub. L. 113–296, § 3, Dec. 19, 2014, 128 Stat. 4075, provided that:
+Pub. L. 113–296, § 3, Dec. 19, 2014, 128 Stat. 4075, provided that:
 
 > “It is the policy of the United States—
 
@@ -233,9 +233,9 @@ Pub. L. 113–296, § 3, Dec. 19, 2014, 128 Stat. 4075, provided that:
 
 **Statement of Policy Regarding the Visa Waiver Program**
 
-Pub. L. 113–296, § 9, Dec. 19, 2014, 128 Stat. 4077, provided that: “It shall be the policy of the United States to include Israel in the list of countries that participate in the visa waiver program under section 217 of the Immigration and Nationality Act (8 U.S.C. 1187) when Israel satisfies, and as long as Israel continues to satisfy, the requirements for inclusion in such program specified in such section.”
+Pub. L. 113–296, § 9, Dec. 19, 2014, 128 Stat. 4077, provided that: “It shall be the policy of the United States to include Israel in the list of countries that participate in the visa waiver program under section 217 of the Immigration and Nationality Act (8 U.S.C. 1187) when Israel satisfies, and as long as Israel continues to satisfy, the requirements for inclusion in such program specified in such section.”
 
-## § 8603. United States actions to assist in the defense of Israel and protect United States interests
+## § 8603. United States actions to assist in the defense of Israel and protect United States interests
 
 It is the sense of Congress that the United States Government should take the following actions to assist in the defense of Israel:
 
@@ -257,17 +257,17 @@ It is the sense of Congress that the United States Government should take the fo
 
 **(9)** Expand already-close intelligence cooperation, including satellite intelligence, with Israel.
 
-(Pub. L. 112–150, § 4, July 27, 2012, 126 Stat. 1147.)
+(Pub. L. 112–150, § 4, July 27, 2012, 126 Stat. 1147.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Continual Assessment of Impact of International State Arms Embargoes on Israel and Actions To Address Defense Capability Gaps**
 
-Pub. L. 119–60, div. A, title XVII, § 1706, Dec. 18, 2025, 139 Stat. 1214, provided that: (a) Requirement for Continuous Assessment.—(1) In general.—The Secretary of Defense, in consultation with the Secretary of State and the Director of National Intelligence, shall conduct a continual assessment of—(A) the scope, nature, and impact on Israel’s defense capabilities of current and emerging arms embargoes, sanctions, restrictions, or limitations imposed by foreign countries or by international organizations; and(B) the resulting gaps or vulnerabilities in Israel’s security posture against shared regional adversaries, such as Iran and Iranian-backed terrorist groups such as Hamas, Palestinian Islamic Jihad, and Hezbollah, and its ability to maintain its qualitative military edge.(2) Frequency.—The assessment required under paragraph (1) shall be updated not less than once every 180 days.(b) Potential United States Mitigation.—(1) Identification of needs.—Each assessment required under subsection (a) shall also include a determination of specific defensive capabilities, systems, or technologies that Israel is unable to procure, sustain, or modernize due to arms embargoes or restrictions.(2) United states actions.—The Secretary of Defense, in coordination with the Secretary of State, shall identify potential actions the United States may take to mitigate such gaps in defensive capabilities, including—(A) addressing barriers to the delivery of defense articles or services under the foreign military sales program;(B) to the extent possible without undermining United States requirements or readiness, leveraging United States industrial base capacity to provide substitute defensive capabilities;(C) expanding joint research, development, and production of defense technologies; and(D) enhancing cooperative training, prepositioning, and logistics support.(c) Reports to Congress.—(1) In general.—Not later than 120 days after the date of enactment of this section, and annually thereafter, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the findings of the most recent assessment conducted under subsection (a).(2) Form.—The report required by paragraph (1) shall be submitted in unclassified form and may contain a classified annex.(d) Sunset.—The requirement to conduct continual assessments under this section shall terminate 5 years after the date of enactment of this section [Dec. 18, 2025].
+Pub. L. 119–60, div. A, title XVII, § 1706, Dec. 18, 2025, 139 Stat. 1214, provided that: (a) Requirement for Continuous Assessment.—(1) In general.—The Secretary of Defense, in consultation with the Secretary of State and the Director of National Intelligence, shall conduct a continual assessment of—(A) the scope, nature, and impact on Israel’s defense capabilities of current and emerging arms embargoes, sanctions, restrictions, or limitations imposed by foreign countries or by international organizations; and(B) the resulting gaps or vulnerabilities in Israel’s security posture against shared regional adversaries, such as Iran and Iranian-backed terrorist groups such as Hamas, Palestinian Islamic Jihad, and Hezbollah, and its ability to maintain its qualitative military edge.(2) Frequency.—The assessment required under paragraph (1) shall be updated not less than once every 180 days.(b) Potential United States Mitigation.—(1) Identification of needs.—Each assessment required under subsection (a) shall also include a determination of specific defensive capabilities, systems, or technologies that Israel is unable to procure, sustain, or modernize due to arms embargoes or restrictions.(2) United states actions.—The Secretary of Defense, in coordination with the Secretary of State, shall identify potential actions the United States may take to mitigate such gaps in defensive capabilities, including—(A) addressing barriers to the delivery of defense articles or services under the foreign military sales program;(B) to the extent possible without undermining United States requirements or readiness, leveraging United States industrial base capacity to provide substitute defensive capabilities;(C) expanding joint research, development, and production of defense technologies; and(D) enhancing cooperative training, prepositioning, and logistics support.(c) Reports to Congress.—(1) In general.—Not later than 120 days after the date of enactment of this section, and annually thereafter, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the findings of the most recent assessment conducted under subsection (a).(2) Form.—The report required by paragraph (1) shall be submitted in unclassified form and may contain a classified annex.(d) Sunset.—The requirement to conduct continual assessments under this section shall terminate 5 years after the date of enactment of this section [Dec. 18, 2025].
 
 **Eligibility of Israel for the Strategic Trade Authorization Exception to Certain Export Control Licensing Requirements**
 
-Pub. L. 113–296, § 6, Dec. 19, 2014, 128 Stat. 4076, provided that:
+Pub. L. 113–296, § 6, Dec. 19, 2014, 128 Stat. 4076, provided that:
 
 > **“(a) Findings.—** Congress finds that Israel—
 
@@ -285,7 +285,7 @@ Pub. L. 113–296, § 6, Dec. 19, 2014, 128 Stat. 4076, provided that:
 
 > **“(b) Eligibility for Strategic Trade Authorization Exception.—** The President, consistent with the commitments of the United States under international arrangements, shall take steps so that Israel may be included in the list of countries eligible for the strategic trade authorization exception under section 740.20(c)(1) of title 15, Code of Federal Regulations, to the requirement for a license for the export, reexport, or in-country transfer of an item subject to controls under the Export Administration Regulations.”
 
-## § 8604. Reports required
+## § 8604. Reports required
 
 **(a) Report on Israel’s qualitative military edge (QME)**
 
@@ -305,7 +305,7 @@ If submitted within one year of the date that the first quadrennial report requi
 
 **(3)** Actions to integrate Israel into the defense of the Eastern Mediterranean.
 
-(Pub. L. 112–150, § 6, July 27, 2012, 126 Stat. 1148.)
+(Pub. L. 112–150, § 6, July 27, 2012, 126 Stat. 1148.)
 
 **Executive Documents**
 
@@ -321,7 +321,7 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 Barack Obama.
 
-## § 8605. Definitions
+## § 8605. Definitions
 
 In this chapter:
 
@@ -333,13 +333,13 @@ In this chapter:
 
 **(2) Qualitative military edge**
 
-The term “qualitative military edge” has the meaning given the term in section 2776(h)(2) 1
+The term “qualitative military edge” has the meaning given the term in section 2776(h)(2) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
-(Pub. L. 112–150, § 7, July 27, 2012, 126 Stat. 1149.)
+(Pub. L. 112–150, § 7, July 27, 2012, 126 Stat. 1149.)
 
 **Editorial Notes**
 
@@ -347,9 +347,9 @@ of this title.
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 112–150, July 27, 2012, 126 Stat. 1146, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8601 of this title and Tables.
 
-Section 2776(h)(2) of this title, referred to in par. (2), was redesignated section 2776(h)(3) of this title by Pub. L. 113–296, § 11(b)(1), Dec. 19, 2014, 128 Stat. 4078.
+Section 2776(h)(2) of this title, referred to in par. (2), was redesignated section 2776(h)(3) of this title by Pub. L. 113–296, § 11(b)(1), Dec. 19, 2014, 128 Stat. 4078.
 
-## § 8606. United States-Israel cooperation on energy, water, homeland security, agriculture, and alternative fuel technologies
+## § 8606. United States-Israel cooperation on energy, water, homeland security, agriculture, and alternative fuel technologies
 
 **(a) In general** The President is authorized, subject to existing law—
 
@@ -377,7 +377,7 @@ Section 2776(h)(2) of this title, referred to in par. (2), was redesignated sect
 
 There is authorized to be appropriated to carry out this section $2,000,000 for fiscal year 2021.
 
-(Pub. L. 113–296, § 7, Dec. 19, 2014, 128 Stat. 4077; Pub. L. 114–304, § 2(b), Dec. 16, 2016, 130 Stat. 1520; Pub. L. 116–283, div. A, title XII, § 1280A(g), Jan. 1, 2021, 134 Stat. 3984.)
+(Pub. L. 113–296, § 7, Dec. 19, 2014, 128 Stat. 4077; Pub. L. 114–304, § 2(b), Dec. 16, 2016, 130 Stat. 1520; Pub. L. 116–283, div. A, title XII, § 1280A(g), Jan. 1, 2021, 134 Stat. 3984.)
 
 **Editorial Notes**
 
@@ -389,15 +389,15 @@ Section was enacted as part of the United States-Israel Strategic Partnership Ac
 
 2021—Subsec. (d). Pub. L. 116–283 added subsec. (d).
 
-2016—Subsec. (c). Pub. L. 114–304, § 2(b)(1), (2), struck out “pilot” before “programs” in heading and in introductory provisions.
+2016—Subsec. (c). Pub. L. 114–304, § 2(b)(1), (2), struck out “pilot” before “programs” in heading and in introductory provisions.
 
-Subsec. (c)(4). Pub. L. 114–304, § 2(b)(3)–(5), added par. (4).
+Subsec. (c)(4). Pub. L. 114–304, § 2(b)(3)–(5), added par. (4).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Strategic Partnership on Defense Industrial Priorities Between the United States and Israel**
 
-Pub. L. 118–159, div. A, title XII, § 1214, Dec. 23, 2024, 138 Stat. 2100, provided that:
+Pub. L. 118–159, div. A, title XII, § 1214, Dec. 23, 2024, 138 Stat. 2100, provided that:
 
 > “The Secretary of Defense shall seek to establish a partnership between the Defense Innovation Unit of the Department of Defense and appropriate counterparts of Israel in order to—
 
@@ -421,7 +421,7 @@ Pub. L. 118–159, div. A, title XII, § 1214, Dec. 23, 2024, 138 Stat. 2100, 
 
 **Establishment of Program Between the United States and Israel for Military Trauma Education and Training**
 
-Pub. L. 118–159, div. A, title XII, § 1215, Dec. 23, 2024, 138 Stat. 2100, provided that:
+Pub. L. 118–159, div. A, title XII, § 1215, Dec. 23, 2024, 138 Stat. 2100, provided that:
 
 > **“(a) In General.—** The Secretary of Defense, in consultation with the Secretary of State, may establish a joint education and training program with appropriate personnel of the Medical Corps of the Israel Defense Forces.
 
@@ -451,7 +451,7 @@ Pub. L. 118–159, div. A, title XII, § 1215, Dec. 23, 2024, 138 Stat. 2100, 
 
 **United States-Israel Cybersecurity Cooperation**
 
-Pub. L. 117–81, div. A, title XV, § 1551, Dec. 27, 2021, 135 Stat. 2068, provided that:
+Pub. L. 117–81, div. A, title XV, § 1551, Dec. 27, 2021, 135 Stat. 2068, provided that:
 
 > **“(a) Grant Program.—**
 
@@ -547,11 +547,11 @@ Pub. L. 117–81, div. A, title XV, § 1551, Dec. 27, 2021, 135 Stat. 2068, pr
 
 **United States Agency for International Development Memoranda of Understanding To Enhance Cooperation With Israel**
 
-Pub. L. 116–283, div. A, title XII, § 1277, Jan. 1, 2021, 134 Stat. 3981, provided that: “The Secretary of State, acting through the Administrator of the United States Agency for International Development, may enter into memoranda of understanding with Israel to advance common goals on energy, agriculture, food security, democracy, human rights, governance, economic growth, trade, education, environment, global health, water, and sanitation, with a focus on strengthening mutual ties and cooperation with nations throughout the world.”
+Pub. L. 116–283, div. A, title XII, § 1277, Jan. 1, 2021, 134 Stat. 3981, provided that: “The Secretary of State, acting through the Administrator of the United States Agency for International Development, may enter into memoranda of understanding with Israel to advance common goals on energy, agriculture, food security, democracy, human rights, governance, economic growth, trade, education, environment, global health, water, and sanitation, with a focus on strengthening mutual ties and cooperation with nations throughout the world.”
 
 **Cooperation on Directed Energy Capabilities**
 
-Pub. L. 116–283, div. A, title XII, § 1280, Jan. 1, 2021, 134 Stat. 3982, as amended by Pub. L. 118–31, div. A, title XII, § 1254, Dec. 22, 2023, 137 Stat. 468, provided that:
+Pub. L. 116–283, div. A, title XII, § 1280, Jan. 1, 2021, 134 Stat. 3982, as amended by Pub. L. 118–31, div. A, title XII, § 1254, Dec. 22, 2023, 137 Stat. 468, provided that:
 
 > **“(a) Report.—** Not later than March 15, 2021, the Secretary of Defense, with the concurrence of the Secretary of State, shall submit to the appropriate congressional committees [Committees on Foreign Relations and Armed Services of the Senate and Committees on Foreign Affairs and Armed Services of the House of Representatives] a report on potential areas for directed energy cooperation.
 
@@ -589,9 +589,9 @@ Pub. L. 116–283, div. A, title XII, § 1280, Jan. 1, 2021, 134 Stat. 3982, a
 
 **United States-Israel Cooperation To Counter Unmanned Systems in all Warfighting Domains**
 
-Pub. L. 119–60, div. A, title XII, § 1232(b), Dec. 18, 2025, 139 Stat. 1096, provided that: “The Secretary of Defense shall continue to carry out the activities authorized by section 1278 of the National Defense Authorization Act for Fiscal Year 2020 [set out below], as such section was in effect on the day before the date of the enactment of this Act, until such time as the Secretary submits to the appropriate committees of Congress the report required by subsection (a)(3) of such section, as amended by subsection (a) of this section, for purposes of carrying of the activities required by such section 1278.”
+Pub. L. 119–60, div. A, title XII, § 1232(b), Dec. 18, 2025, 139 Stat. 1096, provided that: “The Secretary of Defense shall continue to carry out the activities authorized by section 1278 of the National Defense Authorization Act for Fiscal Year 2020 [set out below], as such section was in effect on the day before the date of the enactment of this Act, until such time as the Secretary submits to the appropriate committees of Congress the report required by subsection (a)(3) of such section, as amended by subsection (a) of this section, for purposes of carrying of the activities required by such section 1278.”
 
-Pub. L. 116–92, div. A, title XII, § 1278, Dec. 20, 2019, 133 Stat. 1702, as amended by Pub. L. 117–263, div. A, title XII, § 1277, Dec. 23, 2022, 136 Stat. 2867; Pub. L. 118–31, div. A, title XII, § 1253, Dec. 22, 2023, 137 Stat. 467; Pub. L. 119–60, div. A, title XII, § 1232(a), Dec. 18, 2025, 139 Stat. 1095, provided that:
+Pub. L. 116–92, div. A, title XII, § 1278, Dec. 20, 2019, 133 Stat. 1702, as amended by Pub. L. 117–263, div. A, title XII, § 1277, Dec. 23, 2022, 136 Stat. 2867; Pub. L. 118–31, div. A, title XII, § 1253, Dec. 22, 2023, 137 Stat. 467; Pub. L. 119–60, div. A, title XII, § 1232(a), Dec. 18, 2025, 139 Stat. 1095, provided that:
 
 > **“(a) United States-Israel Program on Countering Unmanned Systems.—**
 
@@ -661,7 +661,7 @@ Pub. L. 116–92, div. A, title XII, § 1278, Dec. 20, 2019, 133 Stat. 1702, a
 
 **United States-Israel Anti-Tunnel Cooperation**
 
-Pub. L. 114–92, div. A, title XII, § 1279, Nov. 25, 2015, 129 Stat. 1079, as amended by Pub. L. 114–328, div. A, title XII, § 1295(a), (b), Dec. 23, 2016, 130 Stat. 2562; Pub. L. 115–91, div. A, title XII, § 1278(a), Dec. 12, 2017, 131 Stat. 1700; Pub. L. 115–232, div. A, title XII, § 1272(a), Aug. 13, 2018, 132 Stat. 2066; Pub. L. 116–92, div. A, title XII, § 1279, Dec. 20, 2019, 133 Stat. 1703; Pub. L. 118–31, div. A, title XII, § 1252, Dec. 22, 2023, 137 Stat. 467; Pub. L. 118–159, div. A, title XII, § 1212, Dec. 23, 2024, 138 Stat. 2099; Pub. L. 119–60, div. A, title XII, § 1231, Dec. 18, 2025, 139 Stat. 1095, provided that:
+Pub. L. 114–92, div. A, title XII, § 1279, Nov. 25, 2015, 129 Stat. 1079, as amended by Pub. L. 114–328, div. A, title XII, § 1295(a), (b), Dec. 23, 2016, 130 Stat. 2562; Pub. L. 115–91, div. A, title XII, § 1278(a), Dec. 12, 2017, 131 Stat. 1700; Pub. L. 115–232, div. A, title XII, § 1272(a), Aug. 13, 2018, 132 Stat. 2066; Pub. L. 116–92, div. A, title XII, § 1279, Dec. 20, 2019, 133 Stat. 1703; Pub. L. 118–31, div. A, title XII, § 1252, Dec. 22, 2023, 137 Stat. 467; Pub. L. 118–159, div. A, title XII, § 1212, Dec. 23, 2024, 138 Stat. 2099; Pub. L. 119–60, div. A, title XII, § 1231, Dec. 18, 2025, 139 Stat. 1095, provided that:
 
 > **“(a) Authority To Establish Anti-tunnel Capabilities Program With Israel.—**
 
@@ -709,7 +709,7 @@ Pub. L. 114–92, div. A, title XII, § 1279, Nov. 25, 2015, 129 Stat. 1079, a
 
 **Constructive Regional Energy Cooperation**
 
-Pub. L. 113–296, § 12(c)(2), Dec. 19, 2014, 128 Stat. 4081, provided that:
+Pub. L. 113–296, § 12(c)(2), Dec. 19, 2014, 128 Stat. 4081, provided that:
 
 > “The Secretary of State shall continue the ongoing diplomacy efforts of the Secretary of State in—
 
@@ -717,7 +717,7 @@ Pub. L. 113–296, § 12(c)(2), Dec. 19, 2014, 128 Stat. 4081, provided that:
 
 > **“(B)** promoting constructive regional energy cooperation in the Eastern Mediterranean.”
 
-## § 8607. Other matters of cooperation
+## § 8607. Other matters of cooperation
 
 **(a) In general**
 
@@ -805,7 +805,7 @@ The Administrator of the National Aeronautics and Space Administration shall con
 
 It is the sense of Congress that the Secretary of Veterans Affairs should seek to explore collaboration between the Mental Illness Research, Education and Clinical Centers of Excellence and Israeli institutions with expertise in researching and treating posttraumatic stress disorder.
 
-(Pub. L. 116–283, div. A, title XII, § 1280A, Jan. 1, 2021, 134 Stat. 3982.)
+(Pub. L. 116–283, div. A, title XII, § 1280A, Jan. 1, 2021, 134 Stat. 3982.)
 
 **Editorial Notes**
 

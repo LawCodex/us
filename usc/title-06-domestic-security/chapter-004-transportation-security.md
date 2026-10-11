@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—TRANSPORTATION SECURITY PLANNING AND INFORMATION SHARING
 
-### § 1101. Definitions
+### § 1101. Definitions
 
 For purposes of this subchapter, the following terms apply:
 
@@ -29,7 +29,7 @@ The term “Department” means the Department of Homeland Security.
 
 The term “Secretary” means the Secretary of Homeland Security.
 
-(Pub. L. 110–53, title XII, § 1201, Aug. 3, 2007, 121 Stat. 381.)
+(Pub. L. 110–53, title XII, § 1201, Aug. 3, 2007, 121 Stat. 381.)
 
 **Editorial Notes**
 
@@ -41,7 +41,7 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 **Short Title**
 
-Pub. L. 110–53, title XIV, § 1401, Aug. 3, 2007, 121 Stat. 400, provided that: “This title [enacting subchapter III of this chapter] may be cited as the ‘National Transit Systems Security Act of 2007’.”
+Pub. L. 110–53, title XIV, § 1401, Aug. 3, 2007, 121 Stat. 400, provided that: “This title [enacting subchapter III of this chapter] may be cited as the ‘National Transit Systems Security Act of 2007’.”
 
 **Executive Documents**
 
@@ -105,7 +105,7 @@ Sec. 5. *General Provisions*. This order:
 
 George W. Bush.
 
-### § 1102. National Domestic Preparedness Consortium
+### § 1102. National Domestic Preparedness Consortium
 
 **(a) In general**
 
@@ -165,9 +165,9 @@ The National Domestic Preparedness Consortium shall identify, develop, test, and
 
 **(5)** the National Exercise, Test, and Training Center, Nevada Test Site.
 
-(Pub. L. 110–53, title XII, § 1204, Aug. 3, 2007, 121 Stat. 386.)
+(Pub. L. 110–53, title XII, § 1204, Aug. 3, 2007, 121 Stat. 386.)
 
-### § 1103. National Transportation Security Center of Excellence
+### § 1103. National Transportation Security Center of Excellence
 
 **(a) Establishment**
 
@@ -213,9 +213,9 @@ To the extent practicable, the Secretary shall ensure that an appropriate number
 
 **(4)** $18,000,000 for fiscal year 2011.
 
-(Pub. L. 110–53, title XII, § 1205, Aug. 3, 2007, 121 Stat. 387.)
+(Pub. L. 110–53, title XII, § 1205, Aug. 3, 2007, 121 Stat. 387.)
 
-### § 1104. Immunity for reports of suspected terrorist activity or suspicious behavior and response
+### § 1104. Immunity for reports of suspected terrorist activity or suspicious behavior and response
 
 **(a) Immunity for reports of suspected terrorist activity or suspicious behavior**
 
@@ -263,17 +263,17 @@ Any person or authorized official found to be immune from civil liability under 
 
 **(B)** over-the-road bus transportation, as defined in subchapter IV, and school bus transportation;
 
-**(C)** intercity passenger rail 1
+**(C)** intercity passenger rail 1
 
-<sup>1</sup>  So in original. Probably should be “intercity rail passenger”.
+<sup>1</sup> So in original. Probably should be “intercity rail passenger”.
 
-transportation 2
+transportation 2
 
-<sup>2</sup>  So in original. Probably should be followed by a comma.
+<sup>2</sup> So in original. Probably should be followed by a comma.
 
 as defined in section 24102 of title 49;
 
-**(D)** the transportation of passengers onboard a passenger vessel <sup>2</sup> as defined in section 2101 of title 46;
+**(D)** the transportation of passengers onboard a passenger vessel <sup>2</sup> as defined in section 2101 of title 46;
 
 **(E)** other regularly scheduled waterborne transportation service of passengers by vessel of at least 20 gross tons; and
 
@@ -285,9 +285,9 @@ The term “passenger transportation system” means an entity or entities organ
 
 **(5) Vehicle**
 
-The term “vehicle” has the meaning given to that term in section 1992(16) 3
+The term “vehicle” has the meaning given to that term in section 1992(16) 3
 
-<sup>3</sup>  So in original. Probably should be section “1992(d)(16)”.
+<sup>3</sup> So in original. Probably should be section “1992(d)(16)”.
 
 of title 18.
 
@@ -295,17 +295,17 @@ of title 18.
 
 This section shall take effect on October 1, 2006, and shall apply to all activities and claims occurring on or after such date.
 
-(Pub. L. 110–53, title XII, § 1206, Aug. 3, 2007, 121 Stat. 388.)
+(Pub. L. 110–53, title XII, § 1206, Aug. 3, 2007, 121 Stat. 388.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subchapter IV, referred to in subsec. (d)(3)(B), was in the original “title XV of this Act”, meaning title XV of Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 422, which is classified principally to subchapter IV (§ 1151 et seq.) of this chapter. For complete classification of title XV to the Code, see References in Text note set out under section 1151 of this title and Tables.
+Subchapter IV, referred to in subsec. (d)(3)(B), was in the original “title XV of this Act”, meaning title XV of Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 422, which is classified principally to subchapter IV (§ 1151 et seq.) of this chapter. For complete classification of title XV to the Code, see References in Text note set out under section 1151 of this title and Tables.
 
 ## SUBCHAPTER II—TRANSPORTATION SECURITY ENHANCEMENTS
 
-### § 1111. Definitions
+### § 1111. Definitions
 
 For purposes of this subchapter, the following terms apply:
 
@@ -333,7 +333,7 @@ The term “terrorism” has the meaning that term has in section 101 of this ti
 
 The term “United States” means the 50 States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, the Virgin Islands, Guam, American Samoa, and any other territory or possession of the United States.
 
-(Pub. L. 110–53, title XIII, § 1301, Aug. 3, 2007, 121 Stat. 389.)
+(Pub. L. 110–53, title XIII, § 1301, Aug. 3, 2007, 121 Stat. 389.)
 
 **Editorial Notes**
 
@@ -341,7 +341,7 @@ The term “United States” means the 50 States, the District of Columbia, Puer
 
 This subchapter, referred to in text, was in the original “this title”, meaning title XIII of Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 389, which enacted this subchapter and amended section 70105 of Title 46, Shipping, and sections 114 and 46301 of Title 49, Transportation. For complete classification of title XIII to the Code, see Tables.
 
-### § 1112. Authorization of Visible Intermodal Prevention and Response teams
+### § 1112. Authorization of Visible Intermodal Prevention and Response teams
 
 **(a) In general** The Secretary, acting through the Administrator of the Transportation Security Administration, may develop Visible Intermodal Prevention and Response (referred to in this section as “VIPR”) teams to augment the security of any mode of transportation at any location within the United States. In forming a VIPR team, the Secretary—
 
@@ -367,29 +367,29 @@ Not later than 1 year after October 5, 2018, the Administrator shall develop and
 
 Not later than 1 year after October 5, 2018, the Administrator shall develop and implement a plan for ensuring the interoperability of communications among VIPR team participants and between VIPR teams and any transportation entities with systems or facilities that are involved in VIPR team operations. Such plan shall include an analysis of the costs and resources required to carry out such plan.
 
-(Pub. L. 110–53, title XIII, § 1303, Aug. 3, 2007, 121 Stat. 392; Pub. L. 114–190, title III, § 3601, July 15, 2016, 130 Stat. 664; Pub. L. 115–254, div. K, title I, §§ 1930(b), 1968(b), Oct. 5, 2018, 132 Stat. 3569, 3608.)
+(Pub. L. 110–53, title XIII, § 1303, Aug. 3, 2007, 121 Stat. 392; Pub. L. 114–190, title III, § 3601, July 15, 2016, 130 Stat. 664; Pub. L. 115–254, div. K, title I, §§ 1930(b), 1968(b), Oct. 5, 2018, 132 Stat. 3569, 3608.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a)(4). Pub. L. 115–254, § 1968(b)(1), substituted “team as to specific locations and times within the facilities of such entities at which VIPR teams are to be deployed to maximize the effectiveness of such deployment,” for “team,”.
+2018—Subsec. (a)(4). Pub. L. 115–254, § 1968(b)(1), substituted “team as to specific locations and times within the facilities of such entities at which VIPR teams are to be deployed to maximize the effectiveness of such deployment,” for “team,”.
 
-Subsec. (b). Pub. L. 115–254, § 1968(b)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “There are authorized to be appropriated to the Secretary to carry out this section such sums as necessary, including funds to develop not more than 60 VIPR teams, for fiscal years 2016 through 2018.”
+Subsec. (b). Pub. L. 115–254, § 1968(b)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “There are authorized to be appropriated to the Secretary to carry out this section such sums as necessary, including funds to develop not more than 60 VIPR teams, for fiscal years 2016 through 2018.”
 
-Pub. L. 115–254, § 1930(b), which directed amendment of “section 1303(b) of the National Transit Systems Security Act of 2007 (6 U.S.C. 1112(b))” by substituting “such sums as necessary, including funds to develop at least 30, but not more than 60, VIPR teams, for fiscal years 2019 through 2021” for “to the extent appropriated, including funds to develop not more than 60 VIPR teams, for fiscal years 2016 through 2018”, could not be executed to this section, which is section 1303(b) of the Implementing Recommendations of the 9/11 Commission Act of 2007, because the words to be substituted for did not appear.
+Pub. L. 115–254, § 1930(b), which directed amendment of “section 1303(b) of the National Transit Systems Security Act of 2007 (6 U.S.C. 1112(b))” by substituting “such sums as necessary, including funds to develop at least 30, but not more than 60, VIPR teams, for fiscal years 2019 through 2021” for “to the extent appropriated, including funds to develop not more than 60 VIPR teams, for fiscal years 2016 through 2018”, could not be executed to this section, which is section 1303(b) of the Implementing Recommendations of the 9/11 Commission Act of 2007, because the words to be substituted for did not appear.
 
-Subsec. (c). Pub. L. 115–254, § 1968(b)(2), added subsec. (c).
+Subsec. (c). Pub. L. 115–254, § 1968(b)(2), added subsec. (c).
 
-2016—Subsec. (a)(5). Pub. L. 114–190, § 3601(1), added par. (5).
+2016—Subsec. (a)(5). Pub. L. 114–190, § 3601(1), added par. (5).
 
-Subsec. (b). Pub. L. 114–190, § 3601(2), substituted “such sums as necessary, including funds to develop not more than 60 VIPR teams, for fiscal years 2016 through 2018” for “such sums as necessary for fiscal years 2007 through 2011”.
+Subsec. (b). Pub. L. 114–190, § 3601(2), substituted “such sums as necessary, including funds to develop not more than 60 VIPR teams, for fiscal years 2016 through 2018” for “such sums as necessary for fiscal years 2007 through 2011”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **VIPR Team Statistics**
 
-Pub. L. 115–254, div. K, title I, § 1930(a), Oct. 5, 2018, 132 Stat. 3568, provided that:
+Pub. L. 115–254, div. K, title I, § 1930(a), Oct. 5, 2018, 132 Stat. 3568, provided that:
 
 > **“(1) In general.—** Not later than 90 days after the date of enactment of this Act [Oct. 5, 2018], and annually thereafter, the Administrator [of the Transportation Security Administration] shall notify the appropriate committees of Congress [Committees on Commerce, Science and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives] of the number of VIPR teams available for deployment at transportation facilities, including—
 
@@ -403,7 +403,7 @@ Pub. L. 115–254, div. K, title I, § 1930(a), Oct. 5, 2018, 132 Stat. 3568, 
 
 [For definition of “explosive detection canine teams” as used in section 1930(a) of Pub. L. 115–254, set out above, see section 1902 of Pub. L. 115–254, set out as a note under section 101 of Title 49, Transportation.]
 
-### § 1113. Surface transportation security inspectors
+### § 1113. Surface transportation security inspectors
 
 **(a) In general**
 
@@ -449,9 +449,9 @@ The Secretary shall not initiate civil enforcement actions for violations of adm
 
 **(g) Coordination**
 
-The Secretary shall ensure that the mission of the surface transportation security inspectors is consistent with any relevant risk assessments required by this Act or completed by the Department, the modal plans required under section 114(t) 1
+The Secretary shall ensure that the mission of the surface transportation security inspectors is consistent with any relevant risk assessments required by this Act or completed by the Department, the modal plans required under section 114(t) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 49, the Memorandum of Understanding between the Department and the Department of Transportation on Roles and Responsibilities, dated September 28, 2004, and any and all subsequent annexes to this Memorandum of Understanding, and other relevant documents setting forth the Department’s transportation security strategy, as appropriate.
 
@@ -477,7 +477,7 @@ Not later than September 30, 2008, the Department of Homeland Security Inspector
 
 **(5)** $22,800,000 for fiscal year 2011.
 
-(Pub. L. 110–53, title XIII, § 1304, Aug. 3, 2007, 121 Stat. 393.)
+(Pub. L. 110–53, title XIII, § 1304, Aug. 3, 2007, 121 Stat. 393.)
 
 **Editorial Notes**
 
@@ -485,9 +485,9 @@ Not later than September 30, 2008, the Department of Homeland Security Inspector
 
 This Act, referred to in subsecs. (e)(3) and (g), is Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 266, known as the Implementing Recommendations of the 9/11 Commission Act of 2007, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under section 101 of this title and Tables.
 
-Section 114(t) of title 49, referred to in subsec. (g), was redesignated section 114(s) of title 49 by Pub. L. 110–161, div. E, title V, § 568(a), Dec. 26, 2007, 121 Stat. 2092.
+Section 114(t) of title 49, referred to in subsec. (g), was redesignated section 114(s) of title 49 by Pub. L. 110–161, div. E, title V, § 568(a), Dec. 26, 2007, 121 Stat. 2092.
 
-### § 1114. Surface transportation security technology information sharing
+### § 1114. Surface transportation security technology information sharing
 
 **(a) In general**
 
@@ -507,21 +507,21 @@ The purpose of the program is to assist eligible grant recipients under this Act
 
 The Secretary shall ensure that the program established under this section makes use of and is consistent with other Department technology testing, information sharing, evaluation, and standards-setting programs, as appropriate.
 
-(Pub. L. 110–53, title XIII, § 1305, Aug. 3, 2007, 121 Stat. 394.)
+(Pub. L. 110–53, title XIII, § 1305, Aug. 3, 2007, 121 Stat. 394.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Support Anti-Terrorism by Fostering Effective Technologies Act of 2002, referred to in subsec. (a)(2), is subtitle G (§§ 861–865) of title VIII of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2238, also known as the SAFETY Act, which is classified generally to part G (§ 441 et seq.) of subchapter VIII of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+The Support Anti-Terrorism by Fostering Effective Technologies Act of 2002, referred to in subsec. (a)(2), is subtitle G (§§ 861–865) of title VIII of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2238, also known as the SAFETY Act, which is classified generally to part G (§ 441 et seq.) of subchapter VIII of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 This Act, referred to in subsec. (b), is Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 266, known as the Implementing Recommendations of the 9/11 Commission Act of 2007, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under section 101 of this title and Tables.
 
-### § 1115. TSA personnel limitations
+### § 1115. TSA personnel limitations
 
 Any statutory limitation on the number of employees in the Transportation Security Administration does not apply to employees carrying out this chapter.
 
-(Pub. L. 110–53, title XIII, § 1306, Aug. 3, 2007, 121 Stat. 395.)
+(Pub. L. 110–53, title XIII, § 1306, Aug. 3, 2007, 121 Stat. 395.)
 
 **Editorial Notes**
 
@@ -529,7 +529,7 @@ Any statutory limitation on the number of employees in the Transportation Securi
 
 This chapter, referred to in text, was in the original a reference to titles XII, XIII, XIV, and XV of Pub. L. 110–53, which enacted this chapter, amended section 1992 of Title 18, Crimes and Criminal Procedure, section 70105 of Title 46, Shipping, and sections 114, 5103a, 14504, 20106, 20109, 24301, 28101, 31105, and 46301 of Title 49, Transportation, enacted provisions set out as notes under section 1101 of this title and sections 114, 13908, and 14504 of Title 49, and amended provisions set out as a note under section 14504 of Title 49. For complete classification of titles XII to XV to the Code, see Tables.
 
-### § 1116. National explosives detection canine team training program
+### § 1116. National explosives detection canine team training program
 
 **(a) Definitions**
 
@@ -625,7 +625,7 @@ The term “foreign air carrier” has the meaning given the term in section 401
 
 The term “third party explosives detection canine asset” means any explosives detection canine or handler not owned or employed, respectively, by the Transportation Security Administration.
 
-(Pub. L. 110–53, title XIII, § 1307, Aug. 3, 2007, 121 Stat. 395; Pub. L. 115–254, div. K, title I, § 1941, Oct. 5, 2018, 132 Stat. 3582.)
+(Pub. L. 110–53, title XIII, § 1307, Aug. 3, 2007, 121 Stat. 395; Pub. L. 115–254, div. K, title I, § 1941, Oct. 5, 2018, 132 Stat. 3582.)
 
 **Editorial Notes**
 
@@ -637,11 +637,11 @@ The term “third party explosives detection canine asset” means any explosive
 
 **Public Area Security**
 
-Pub. L. 115–254, div. K, title I, §§ 1926–1929, Oct. 5, 2018, 132 Stat. 3564–3568, provided that:
+Pub. L. 115–254, div. K, title I, §§ 1926–1929, Oct. 5, 2018, 132 Stat. 3564–3568, provided that:
 
 > **“SEC. 1926. DEFINITIONS.**
 
-> “In this subtitle [subtitle C (§§ 1926–1936) of title I of div. K of Pub. L. 115–254, amending section 1112 of this title and enacting provisions set out as notes under section 1112 of this title and sections 114 and 44903 of Title 49, Transportation]:
+> “In this subtitle [subtitle C (§§ 1926–1936) of title I of div. K of Pub. L. 115–254, amending section 1112 of this title and enacting provisions set out as notes under section 1112 of this title and sections 114 and 44903 of Title 49, Transportation]:
 
 > **“(1) Behavioral standards.—** The term ‘behavioral standards’ means standards for the evaluation of explosives detection working canines for certain factors, including canine temperament, work drive, suitability for training, environmental factors used in evaluations, and canine familiarity with natural or man-made surfaces or working conditions relevant to the canine’s expected work area.
 
@@ -771,7 +771,7 @@ Pub. L. 115–254, div. K, title I, §§ 1926–1929, Oct. 5, 2018, 132 Stat. 
 
 **Expansion of National Explosives Detection Canine Team Program**
 
-Pub. L. 115–254, div. K, title I, § 1971, Oct. 5, 2018, 132 Stat. 3613, provided that:
+Pub. L. 115–254, div. K, title I, § 1971, Oct. 5, 2018, 132 Stat. 3613, provided that:
 
 > **“(a) In General.—** The Secretary [of Homeland Security], where appropriate, shall encourage State, local, and tribal governments and private owners of high-risk transportation facilities to strengthen security through the use of explosives detection canine teams.
 
@@ -795,15 +795,15 @@ Pub. L. 115–254, div. K, title I, § 1971, Oct. 5, 2018, 132 Stat. 3613, pro
 
 [For definition of “explosives detection canine teams” as used in section 1971 of Pub. L. 115–254, set out above, see section 1902 of Pub. L. 115–254, set out as a note under section 101 of Title 49, Transportation.]
 
-### § 1117. Roles of the Department of Homeland Security and the Department of Transportation
+### § 1117. Roles of the Department of Homeland Security and the Department of Transportation
 
-The Secretary of Homeland Security is the principal Federal official responsible for transportation security. The roles and responsibilities of the Department of Homeland Security and the Department of Transportation in carrying out this chapter are the roles and responsibilities of such Departments pursuant to the Aviation and Transportation Security Act (Public Law 107–71); the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458); the National Infrastructure Protection Plan required by Homeland Security Presidential Directive–7; The 1
+The Secretary of Homeland Security is the principal Federal official responsible for transportation security. The roles and responsibilities of the Department of Homeland Security and the Department of Transportation in carrying out this chapter are the roles and responsibilities of such Departments pursuant to the Aviation and Transportation Security Act (Public Law 107–71); the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458); the National Infrastructure Protection Plan required by Homeland Security Presidential Directive–7; The 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
-Homeland Security Act of 2002 [6 U.S.C. 101 et seq.]; The 1 National Response Plan; Executive Order No. 13416: Strengthening Surface Transportation Security, dated December 5, 2006; the Memorandum of Understanding between the Department and the Department of Transportation on Roles and Responsibilities, dated September 28, 2004, and any and all subsequent annexes to this Memorandum of Understanding; and any other relevant agreements between the two Departments.
+Homeland Security Act of 2002 [6 U.S.C. 101 et seq.]; The 1 National Response Plan; Executive Order No. 13416: Strengthening Surface Transportation Security, dated December 5, 2006; the Memorandum of Understanding between the Department and the Department of Transportation on Roles and Responsibilities, dated September 28, 2004, and any and all subsequent annexes to this Memorandum of Understanding; and any other relevant agreements between the two Departments.
 
-(Pub. L. 110–53, title XIII, § 1310, Aug. 3, 2007, 121 Stat. 400.)
+(Pub. L. 110–53, title XIII, § 1310, Aug. 3, 2007, 121 Stat. 400.)
 
 **Editorial Notes**
 
@@ -815,11 +815,11 @@ The Aviation and Transportation Security Act, referred to in text, is Pub. L. 10
 
 The Intelligence Reform and Terrorism Prevention Act of 2004, referred to in text, is Pub. L. 108–458, Dec. 17, 2004, 118 Stat. 3638. For complete classification of this Act to the Code, see Tables.
 
-The Homeland Security Act of 2002, referred to in text, is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter 1 (§ 101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+The Homeland Security Act of 2002, referred to in text, is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter 1 (§ 101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 Executive Order No. 13416, referred to in text, is set out as a note under section 1101 of this title.
 
-### § 1118. Biometrics expansion
+### § 1118. Biometrics expansion
 
 **(a) In general**
 
@@ -835,9 +835,9 @@ Nothing in this section shall be construed to permit the Commissioner of U.S. Cu
 
 **(2)** The potential effects on privacy of the expansion of the use of biometric technology under paragraph (1), including methods proposed or implemented to mitigate any risks to privacy identified by the Administrator or the Commissioner related to the active or passive collection of biometric data.
 
-**(3)** Methods to analyze and address any matching performance errors related to race, gender, or age identified by the Administrator with respect to the use of biometric technology, including the deployment of facial recognition technology; 1
+**(3)** Methods to analyze and address any matching performance errors related to race, gender, or age identified by the Administrator with respect to the use of biometric technology, including the deployment of facial recognition technology; 1
 
-<sup>1</sup>  So in original. The semicolon probably should be a period.
+<sup>1</sup> So in original. The semicolon probably should be a period.
 
 **(4)** With respect to the biometric entry-exit program, the following:
 
@@ -883,7 +883,7 @@ Nothing in this section shall be construed to permit the Commissioner of U.S. Cu
 
 The Secretary, the Administrator, and the Commissioner shall, if practicable, publish a public version of the assessment required by subsection (c)(2) on the Internet website of the TSA and of the U.S. Customs and Border Protection.
 
-(Pub. L. 115–254, div. K, title I, § 1919, Oct. 5, 2018, 132 Stat. 3559.)
+(Pub. L. 115–254, div. K, title I, § 1919, Oct. 5, 2018, 132 Stat. 3559.)
 
 **Editorial Notes**
 
@@ -903,7 +903,7 @@ Section was enacted as part of the TSA Modernization Act and also as part of the
 
 For definitions of “Administrator”, “appropriate committees of Congress”, “Department”, “Secretary”, and “TSA” as used in this section, see section 1902 of Pub. L. 115–254, set out as a note under section 101 of Title 49, Transportation.
 
-### § 1119. Voluntary use of credentialing
+### § 1119. Voluntary use of credentialing
 
 **(a) In general**
 
@@ -925,9 +925,9 @@ The Administrator shall develop and implement a plan to utilize, in addition to 
 
 **(A)** because of employment is regulated by the Transportation Security Administration, Department of Transportation, or Coast Guard and is required to have a background records check to obtain a hazardous materials endorsement on a commercial driver’s license issued by a State under section 5103a of title 49; or
 
-**(B)** is required to have a credential and background records check under section 622(d)(2) 1
+**(B)** is required to have a credential and background records check under section 622(d)(2) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title at a facility with activities that are regulated by the Transportation Security Administration, Department of Transportation, or Coast Guard.
 
@@ -937,15 +937,15 @@ of this title at a facility with activities that are regulated by the Transporta
 
 **(B)** not expired;
 
-**(C)** shows 2
+**(C)** shows 2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 no signs of tampering; and
 
-**(D)** bears <sup>2</sup> a photograph of the individual representing such card.
+**(D)** bears <sup>2</sup> a photograph of the individual representing such card.
 
-(Pub. L. 115–254, div. K, title I, § 1977, Oct. 5, 2018, 132 Stat. 3617.)
+(Pub. L. 115–254, div. K, title I, § 1977, Oct. 5, 2018, 132 Stat. 3617.)
 
 **Editorial Notes**
 
@@ -965,7 +965,7 @@ For definition of “Administrator” as used in this section, see section 1902 
 
 ## SUBCHAPTER III—PUBLIC TRANSPORTATION SECURITY
 
-### § 1131. Definitions
+### § 1131. Definitions
 
 For purposes of this subchapter, the following terms apply:
 
@@ -979,9 +979,9 @@ The term “Department” means the Department of Homeland Security.
 
 **(3) Disadvantaged businesses concerns**
 
-The term “disadvantaged business concerns” means small businesses that are owned and controlled by socially and economically disadvantaged individuals as defined in section 1
+The term “disadvantaged business concerns” means small businesses that are owned and controlled by socially and economically disadvantaged individuals as defined in section 1
 
-<sup>1</sup>  So in original. Probably should be “part”.
+<sup>1</sup> So in original. Probably should be “part”.
 
 124, title 13, Code of Federal Regulations.
 
@@ -997,7 +997,7 @@ The term “public transportation agency” means a publicly owned operator of p
 
 The term “Secretary” means the Secretary of Homeland Security.
 
-(Pub. L. 110–53, title XIV, § 1402, Aug. 3, 2007, 121 Stat. 400.)
+(Pub. L. 110–53, title XIV, § 1402, Aug. 3, 2007, 121 Stat. 400.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1005,7 +1005,7 @@ The term “Secretary” means the Secretary of Homeland Security.
 
 For short title of this subchapter as the “National Transit Systems Security Act of 2007”, see section 1401 of Pub. L. 110–53, set out as a note under section 1101 of this title.
 
-### § 1132. Findings
+### § 1132. Findings
 
 Congress finds that—
 
@@ -1021,15 +1021,15 @@ Congress finds that—
 
 **(6)** greater Federal investment in transit security improvements per passenger boarding is necessary to better protect the American people, given transit’s vital importance in creating mobility and promoting our Nation’s economy.
 
-(Pub. L. 110–53, title XIV, § 1403, Aug. 3, 2007, 121 Stat. 401.)
+(Pub. L. 110–53, title XIV, § 1403, Aug. 3, 2007, 121 Stat. 401.)
 
-### § 1133. National Strategy for Public Transportation Security
+### § 1133. National Strategy for Public Transportation Security
 
 **(a) National Strategy**
 
-Not later than 9 months after August 3, 2007, and based upon the previous and ongoing security assessments conducted by the Department and the Department of Transportation, the Secretary, consistent with and as required by section 114(t) 1
+Not later than 9 months after August 3, 2007, and based upon the previous and ongoing security assessments conducted by the Department and the Department of Transportation, the Secretary, consistent with and as required by section 114(t) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 49, shall develop and implement the modal plan for public transportation, entitled the “National Strategy for Public Transportation Security”.
 
@@ -1059,23 +1059,23 @@ In the National Strategy for Public Transportation Security, the Secretary shall
 
 **(e) Adequacy of existing plans and strategies**
 
-In developing the National Strategy for Public Transportation Security, the Secretary shall use relevant existing risk assessments and strategies developed by the Department or other Federal agencies, including those developed or implemented pursuant to section 114(t) <sup>1</sup> of title 49 or Homeland Security Presidential Directive–7.
+In developing the National Strategy for Public Transportation Security, the Secretary shall use relevant existing risk assessments and strategies developed by the Department or other Federal agencies, including those developed or implemented pursuant to section 114(t) <sup>1</sup> of title 49 or Homeland Security Presidential Directive–7.
 
 **(f) Funding**
 
 There is authorized to be appropriated to the Secretary to carry out this section $2,000,000 for fiscal year 2008.
 
-(Pub. L. 110–53, title XIV, § 1404, Aug. 3, 2007, 121 Stat. 401.)
+(Pub. L. 110–53, title XIV, § 1404, Aug. 3, 2007, 121 Stat. 401.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 114(t) of title 49, referred to in subsecs. (a) and (e), was redesignated section 114(s) of title 49 by Pub. L. 110–161, div. E, title V, § 568(a), Dec. 26, 2007, 121 Stat. 2092.
+Section 114(t) of title 49, referred to in subsecs. (a) and (e), was redesignated section 114(s) of title 49 by Pub. L. 110–161, div. E, title V, § 568(a), Dec. 26, 2007, 121 Stat. 2092.
 
 Executive Order No. 13416, referred to in subsec. (d)(2), is set out as a note under section 1101 of this title.
 
-### § 1134. Security assessments and plans
+### § 1134. Security assessments and plans
 
 **(a) Public transportation security assessments**
 
@@ -1193,9 +1193,9 @@ Nothing in this section shall be construed as affecting any authority or obligat
 
 In response to a petition by a public transportation agency or at the discretion of the Secretary, the Secretary may recognize existing procedures, protocols, and standards of a public transportation agency that the Secretary determines meet all or part of the requirements of this section regarding security assessments or security plans.
 
-(Pub. L. 110–53, title XIV, § 1405, Aug. 3, 2007, 121 Stat. 402.)
+(Pub. L. 110–53, title XIV, § 1405, Aug. 3, 2007, 121 Stat. 402.)
 
-### § 1135. Public transportation security assistance
+### § 1135. Public transportation security assistance
 
 **(a) Security assistance program**
 
@@ -1335,7 +1335,7 @@ Funds provided pursuant to a grant awarded under this section for a use specifie
 
 **(4) Effective date.—** Funds provided for fiscal year 2007 transit security grants under Public Law 110–28 shall be allocated based on security assessments that are in existence as of August 3, 2007.
 
-(Pub. L. 110–53, title XIV, § 1406, Aug. 3, 2007, 121 Stat. 405; Pub. L. 117–81, div. F, title LXIV, §§ 6420, 6421, Dec. 27, 2021, 135 Stat. 2418.)
+(Pub. L. 110–53, title XIV, § 1406, Aug. 3, 2007, 121 Stat. 405; Pub. L. 117–81, div. F, title LXIV, §§ 6420, 6421, Dec. 27, 2021, 135 Stat. 2418.)
 
 **Editorial Notes**
 
@@ -1345,11 +1345,11 @@ Public Law 110–28, referred to in subsec. (n)(4), is Pub. L. 110–28, May 25,
 
 **Amendments**
 
-2021—Subsec. (b)(2)(A). Pub. L. 117–81, § 6420, inserted “and associated backfill” after “security training”.
+2021—Subsec. (b)(2)(A). Pub. L. 117–81, § 6420, inserted “and associated backfill” after “security training”.
 
-Subsecs. (m), (n). Pub. L. 117–81, § 6421, added subsec. (m) and redesignated former subsec. (m) as (n).
+Subsecs. (m), (n). Pub. L. 117–81, § 6421, added subsec. (m) and redesignated former subsec. (m) as (n).
 
-### § 1136. Security exercises
+### § 1136. Security exercises
 
 **(a) In general**
 
@@ -1401,9 +1401,9 @@ The Secretary shall ensure that the exercise program developed under subsection 
 
 This section does not apply to any ferry system for which drills are required to be conducted pursuant to section 70103 of title 46.
 
-(Pub. L. 110–53, title XIV, § 1407, Aug. 3, 2007, 121 Stat. 408.)
+(Pub. L. 110–53, title XIV, § 1407, Aug. 3, 2007, 121 Stat. 408.)
 
-### § 1137. Public transportation security training program
+### § 1137. Public transportation security training program
 
 **(a) In general**
 
@@ -1479,9 +1479,9 @@ This section shall not apply to any ferry system for which training is required 
 
 Not later than 2 years after the date of issuance of the final regulation, the Comptroller General shall review implementation of the training program, including interviewing a representative sample of public transportation agencies and employees, and report to the appropriate congressional committees, on the number of reviews conducted and the results. The Comptroller General may submit the report in both classified and redacted formats as necessary.
 
-(Pub. L. 110–53, title XIV, § 1408, Aug. 3, 2007, 121 Stat. 409.)
+(Pub. L. 110–53, title XIV, § 1408, Aug. 3, 2007, 121 Stat. 409.)
 
-### § 1137a. Local law enforcement security training
+### § 1137a. Local law enforcement security training
 
 **(a) In general**
 
@@ -1493,11 +1493,11 @@ The Secretary of Homeland Security, in consultation with public and private sect
 
 **(2)** include tactical instruction tailored to the diverse nature of the surface transportation asset operational environment; and
 
-**(3)** prioritize training officers from law enforcement agencies that are eligible for or receive grants under sections 1
+**(3)** prioritize training officers from law enforcement agencies that are eligible for or receive grants under sections 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
-2003 or 1 2004 of the Homeland Security Act of 2002 (6 U.S.C. 604 and 1 605) and officers employed by railroad carriers that operate passenger service, including interstate passenger service.
+2003 or 1 2004 of the Homeland Security Act of 2002 (6 U.S.C. 604 and 1 605) and officers employed by railroad carriers that operate passenger service, including interstate passenger service.
 
 **(c) Report** If the Secretary of Homeland Security develops the training program described in subsection (a), not later than one year after the date on which the Secretary first implements the program, and annually thereafter during each year the Secretary carries out the program, the Secretary shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the program. Each such report shall include, for the year covered by the report—
 
@@ -1511,9 +1511,9 @@ The Secretary of Homeland Security, in consultation with public and private sect
 
 **(d) Definitions** In this section:
 
-**(1)** The term “public and private sector stakeholders” has the meaning given such term in section 114(t)(1)(c) 2
+**(1)** The term “public and private sector stakeholders” has the meaning given such term in section 114(t)(1)(c) 2
 
-<sup>2</sup>  So in original. Probably should be “114(t)(1)(C)”.
+<sup>2</sup> So in original. Probably should be “114(t)(1)(C)”.
 
 of title 49.
 
@@ -1539,7 +1539,7 @@ of title 49.
 
 **(B)** international terrorism (as such term is defined in section 2331(1) of title 18).
 
-(Pub. L. 117–81, div. F, title LXIV, § 6419, Dec. 27, 2021, 135 Stat. 2417.)
+(Pub. L. 117–81, div. F, title LXIV, § 6419, Dec. 27, 2021, 135 Stat. 2417.)
 
 **Editorial Notes**
 
@@ -1547,7 +1547,7 @@ of title 49.
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2022, and not as part of the National Transit Systems Security Act of 2007 which comprises this subchapter.
 
-### § 1138. Public transportation research and development
+### § 1138. Public transportation research and development
 
 **(a) Establishment of research and development program**
 
@@ -1611,9 +1611,9 @@ If the Secretary determines that a grantee or contractor used any portion of the
 
 **(5)** $25,000,000 for fiscal year 2011.
 
-(Pub. L. 110–53, title XIV, § 1409, Aug. 3, 2007, 121 Stat. 411.)
+(Pub. L. 110–53, title XIV, § 1409, Aug. 3, 2007, 121 Stat. 411.)
 
-### § 1139. Information sharing
+### § 1139. Information sharing
 
 **(a) Intelligence sharing**
 
@@ -1639,7 +1639,7 @@ The Secretary shall provide for the reasonable costs of the Information Sharing 
 
 The Comptroller General shall report, not less than 3 years after August 3, 2007, to the appropriate congressional committees, as to the value and efficacy of the ISAC along with any other public transportation information-sharing programs ongoing at the Department. The report shall include an analysis of the user satisfaction of public transportation agencies on the state of information-sharing and the value that each system provides the user, the costs and benefits of all centers and programs, the coordination among centers and programs, how each center or program contributes to implementing the information sharing plan under section 1203,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and analysis of the extent to which the ISAC is duplicative with the Department’s information-sharing program.
 
@@ -1659,7 +1659,7 @@ and analysis of the extent to which the ISAC is duplicative with the Department�
 
 Such sums shall remain available until expended.
 
-(Pub. L. 110–53, title XIV, § 1410, Aug. 3, 2007, 121 Stat. 412.)
+(Pub. L. 110–53, title XIV, § 1410, Aug. 3, 2007, 121 Stat. 412.)
 
 **Editorial Notes**
 
@@ -1667,13 +1667,13 @@ Such sums shall remain available until expended.
 
 Section 1203, referred to in subsec. (c), is section 1203 of title XII of Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 383, which amended section 114 of Title 49, Transportation, and enacted provisions set out as a note under section 114 of Title 49.
 
-### § 1140. Threat assessments
+### § 1140. Threat assessments
 
 Not later than 1 year after August 3, 2007, the Secretary shall complete a name-based security background check against the consolidated terrorist watchlist and an immigration status check for all public transportation frontline employees, similar to the threat assessment screening program required for facility employees and longshoremen by the Commandant of the Coast Guard under Coast Guard Notice USCG–2006–24189 (71 Fed. Reg. 25066 (April 8, 2006)).
 
-(Pub. L. 110–53, title XIV, § 1411, Aug. 3, 2007, 121 Stat. 413.)
+(Pub. L. 110–53, title XIV, § 1411, Aug. 3, 2007, 121 Stat. 413.)
 
-### § 1141. Reporting requirements
+### § 1141. Reporting requirements
 
 **(a) Annual report to Congress**
 
@@ -1709,7 +1709,7 @@ Not later than March 31 of each year, the Secretary shall submit a report to the
 
 **(B)** the use of such grant funds.
 
-(Pub. L. 110–53, title XIV, § 1412, Aug. 3, 2007, 121 Stat. 413.)
+(Pub. L. 110–53, title XIV, § 1412, Aug. 3, 2007, 121 Stat. 413.)
 
 **Editorial Notes**
 
@@ -1717,15 +1717,15 @@ Not later than March 31 of each year, the Secretary shall submit a report to the
 
 This Act, referred to in subsec. (b)(1), is Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 266, known as the Implementing Recommendations of the 9/11 Commission Act of 2007, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under section 101 of this title and Tables.
 
-### § 1142. Public transportation employee protections
+### § 1142. Public transportation employee protections
 
 **(a) In general** A public transportation agency, a contractor or a subcontractor of such agency, or an officer or employee of such agency, shall not discharge, demote, suspend, reprimand, or in any other way discriminate against an employee if such discrimination is due, in whole or in part, to the employee’s lawful, good faith act done, or perceived by the employer to have been done or about to be done—
 
 **(1)** to provide information, directly cause information to be provided, or otherwise directly assist in any investigation regarding any conduct which the employee reasonably believes constitutes a violation of any Federal law, rule, or regulation relating to public transportation safety or security, or fraud, waste, or abuse of Federal grants or other public funds intended to be used for public transportation safety or security, if the information or assistance is provided to or an investigation stemming from the provided information is conducted by—
 
-**(A)** a Federal, State, or local regulatory or law enforcement agency (including an office of the Inspector General under chapter 4 of title 5; 1
+**(A)** a Federal, State, or local regulatory or law enforcement agency (including an office of the Inspector General under chapter 4 of title 5; 1
 
-<sup>1</sup>  So in original. The semicolon probably should be preceded by a closing parenthesis.
+<sup>1</sup> So in original. The semicolon probably should be preceded by a closing parenthesis.
 
 **(B)** any Member of Congress, any Committee of Congress, or the Government Accountability Office; or
 
@@ -1847,9 +1847,9 @@ With respect to a complaint under paragraph (1), if the Secretary of Labor has n
 
 An employee prevailing in any action under subsection (c) shall be entitled to all relief necessary to make the employee whole.
 
-**(2) Damages** Relief in an action under subsection (c) (including an action described in (c)(7)) 2
+**(2) Damages** Relief in an action under subsection (c) (including an action described in (c)(7)) 2
 
-<sup>2</sup>  So in original. Probably should be “subsection (c)(7))”.
+<sup>2</sup> So in original. Probably should be “subsection (c)(7))”.
 
 shall include—
 
@@ -1895,7 +1895,7 @@ If a report submitted under paragraph (1) identifies the person making the repor
 
 The Secretary shall review and consider the information provided in any report submitted under paragraph (1) and shall take appropriate steps to address any problems or deficiencies identified.
 
-(Pub. L. 110–53, title XIV, § 1413, Aug. 3, 2007, 121 Stat. 414; Pub. L. 117–286, § 4(b)(22), Dec. 27, 2022, 136 Stat. 4345.)
+(Pub. L. 110–53, title XIV, § 1413, Aug. 3, 2007, 121 Stat. 414; Pub. L. 117–286, § 4(b)(22), Dec. 27, 2022, 136 Stat. 4345.)
 
 **Editorial Notes**
 
@@ -1903,7 +1903,7 @@ The Secretary shall review and consider the information provided in any report s
 
 2022—Subsec. (a)(1)(A). Pub. L. 117–286 substituted “chapter 4 of title 5;” for “the Inspector General Act of 1978 (5 U.S.C. App.; Public Law 95–452);”.
 
-### § 1143. Security background checks of covered individuals for public transportation
+### § 1143. Security background checks of covered individuals for public transportation
 
 **(a) Definitions** In this section, the following definitions apply:
 
@@ -1937,9 +1937,9 @@ The term “covered individual” means an employee of a public transportation a
 
 **(d) Redress process** If the Secretary issues a rule, regulation, or directive requiring a public transportation agency or contractor or subcontractor of a public transportation agency to perform a security background check of a covered individual, the Secretary shall—
 
-**(1)** provide an adequate redress process for a covered individual subjected to an adverse employment decision, including removal or suspension of the employee, due to such rule, regulation, or directive that is consistent with the appeals and waiver process established for applicants for commercial motor vehicle hazardous materials endorsements and transportation workers at ports, as required by section 70105(c) of title 49; 1
+**(1)** provide an adequate redress process for a covered individual subjected to an adverse employment decision, including removal or suspension of the employee, due to such rule, regulation, or directive that is consistent with the appeals and waiver process established for applicants for commercial motor vehicle hazardous materials endorsements and transportation workers at ports, as required by section 70105(c) of title 49; 1
 
-<sup>1</sup>  So in original. Probably should be title “46;”.
+<sup>1</sup> So in original. Probably should be title “46;”.
 
 and
 
@@ -1951,9 +1951,9 @@ A public transportation agency or a contractor or subcontractor of a public tran
 
 **(f) Rights and responsibilities**
 
-Nothing in this section shall be construed to abridge a public transportation agency’s or a contractor or subcontractor of a public transportation agency’s rights or responsibilities to make adverse employment decisions permitted by other Federal, State, or local laws. Nothing in the 2
+Nothing in this section shall be construed to abridge a public transportation agency’s or a contractor or subcontractor of a public transportation agency’s rights or responsibilities to make adverse employment decisions permitted by other Federal, State, or local laws. Nothing in the 2
 
-<sup>2</sup>  So in original. Probably should be “this”.
+<sup>2</sup> So in original. Probably should be “this”.
 
 section shall be construed to abridge rights and responsibilities of covered individuals, a public transportation agency, or a contractor or subcontractor of a public transportation agency under any other Federal, State, or local laws or collective bargaining agreement.
 
@@ -1965,9 +1965,9 @@ Nothing in this section shall be construed to preempt a Federal, State, or local
 
 Nothing in this section shall be construed to affect the process for review established under section 70105(c) of title 46, including regulations issued pursuant to such section.
 
-(Pub. L. 110–53, title XIV, § 1414, Aug. 3, 2007, 121 Stat. 419.)
+(Pub. L. 110–53, title XIV, § 1414, Aug. 3, 2007, 121 Stat. 419.)
 
-### § 1144. Limitation on fines and civil penalties
+### § 1144. Limitation on fines and civil penalties
 
 **(a) Inspectors**
 
@@ -1983,13 +1983,13 @@ Surface transportation inspectors shall be prohibited from issuing fines to publ
 
 The Secretary shall not initiate civil enforcement actions for violations of administrative and procedural requirements pertaining to the application for and expenditure of funds awarded under transportation security grant programs under this subchapter.
 
-(Pub. L. 110–53, title XIV, § 1415, Aug. 3, 2007, 121 Stat. 422.)
+(Pub. L. 110–53, title XIV, § 1415, Aug. 3, 2007, 121 Stat. 422.)
 
 ## SUBCHAPTER IV—SURFACE TRANSPORTATION SECURITY
 
 ### Part A—General Provisions
 
-#### § 1151. Definitions
+#### § 1151. Definitions
 
 In this subchapter, the following definitions apply:
 
@@ -2013,7 +2013,7 @@ The term “over-the-road bus” means a bus characterized by an elevated passen
 
 In this section,1
 
-<sup>1</sup>  So in original. “In this section,” probably should not appear.
+<sup>1</sup> So in original. “In this section,” probably should not appear.
 
 the term “over-the-road bus frontline employees” means over-the-road bus drivers, security personnel, dispatchers, maintenance and maintenance support personnel, ticket agents, other terminal employees, and other employees of an over-the-road bus operator or terminal owner or operator that the Secretary determines should receive security training under this subchapter.
 
@@ -2061,7 +2061,7 @@ The term “United States” means the 50 States, the District of Columbia, Puer
 
 The term “disadvantaged business concerns” means small businesses that are owned and controlled by socially and economically disadvantaged individuals as defined in section 124,2
 
-<sup>2</sup>  So in original. Probably should be “part 124,”.
+<sup>2</sup> So in original. Probably should be “part 124,”.
 
 of title 13, Code of Federal Regulations.
 
@@ -2069,7 +2069,7 @@ of title 13, Code of Federal Regulations.
 
 The term “Amtrak” means the National Railroad Passenger Corporation.
 
-(Pub. L. 110–53, title XV, § 1501, Aug. 3, 2007, 121 Stat. 422.)
+(Pub. L. 110–53, title XV, § 1501, Aug. 3, 2007, 121 Stat. 422.)
 
 **Editorial Notes**
 
@@ -2077,13 +2077,13 @@ The term “Amtrak” means the National Railroad Passenger Corporation.
 
 This subchapter, referred to in text, was in the original “this title”, meaning title XV of Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 422, which enacted this subchapter, amended section 1992 of Title 18, Crimes and Criminal Procedure, and sections 114, 5103a, 14504, 20106, 20109, 24301, 28101, and 31105 of Title 49, Transportation, enacted provisions set out as notes under sections 13908 and 14504 of Title 49, and amended provisions set out as a note under section 14504 of Title 49. For complete classification of title XV to the Code, see Tables.
 
-#### § 1152. Oversight and grant procedures
+#### § 1152. Oversight and grant procedures
 
 **(a) Secretarial oversight**
 
-The Secretary, in coordination with 1
+The Secretary, in coordination with 1
 
-<sup>1</sup>  So in original. The word “the” probably should appear.
+<sup>1</sup> So in original. The word “the” probably should appear.
 
 Secretary of Transportation for grants awarded to Amtrak, shall establish necessary procedures, including monitoring and audits, to ensure that grants made under this subchapter are expended in accordance with the purposes of this subchapter and the priorities and other criteria developed by the Secretary.
 
@@ -2129,7 +2129,7 @@ Not later than 5 days before the award of any grant is made under this subchapte
 
 The Secretary shall ensure, to the extent practicable, that grant recipients under this subchapter who use contractors or subcontractors use small, minority, women-owned, or disadvantaged business concerns as contractors or subcontractors when appropriate.
 
-(Pub. L. 110–53, title XV, § 1502, Aug. 3, 2007, 121 Stat. 424.)
+(Pub. L. 110–53, title XV, § 1502, Aug. 3, 2007, 121 Stat. 424.)
 
 **Editorial Notes**
 
@@ -2137,7 +2137,7 @@ The Secretary shall ensure, to the extent practicable, that grant recipients und
 
 This subchapter, referred to in text, was in the original “this title”, meaning title XV of Pub. L. 110–53, which is classified principally to this subchapter. For complete classification of title XV to the Code, see References in Text note under section 1151 of this title and Tables.
 
-#### § 1153. Authorization of appropriations
+#### § 1153. Authorization of appropriations
 
 There are authorized to be appropriated to the Secretary of Transportation to carry out section 1165 of this title—
 
@@ -2149,15 +2149,15 @@ There are authorized to be appropriated to the Secretary of Transportation to ca
 
 **(4)** $70,000,000 for fiscal year 2011.
 
-(Pub. L. 110–53, title XV, § 1503(b), Aug. 3, 2007, 121 Stat. 425.)
+(Pub. L. 110–53, title XV, § 1503(b), Aug. 3, 2007, 121 Stat. 425.)
 
-#### § 1154. Public awareness
+#### § 1154. Public awareness
 
 Not later than 180 days after August 3, 2007, the Secretary shall develop a national plan for railroad and over-the-road bus security public outreach and awareness. Such a plan shall be designed to increase awareness of measures that the general public, passengers, and employees of railroad carriers and over-the-road bus operators can take to increase the security of the national railroad and over-the-road bus transportation systems. Such a plan shall also provide outreach to railroad carriers and over-the-road bus operators and their employees to improve their awareness of available technologies, ongoing research and development efforts, and available Federal funding sources to improve security. Not later than 9 months after August 3, 2007, the Secretary shall implement the plan developed under this section.
 
-(Pub. L. 110–53, title XV, § 1504, Aug. 3, 2007, 121 Stat. 425.)
+(Pub. L. 110–53, title XV, § 1504, Aug. 3, 2007, 121 Stat. 425.)
 
-#### § 1155. Security awareness program
+#### § 1155. Security awareness program
 
 **(a) Establishment**
 
@@ -2213,7 +2213,7 @@ The Secretary shall maintain a national telephone number for an individual to us
 
 **(3)** security personnel, dispatchers, locomotive engineers, conductors, trainmen, other onboard employees, maintenance and maintenance support personnel, bridge tenders, and any other employees of railroad carriers that the Administrator determines should receive security training under this section or that is receiving security training under other law.
 
-(Pub. L. 115–254, div. K, title I, § 1976, Oct. 5, 2018, 132 Stat. 3616.)
+(Pub. L. 115–254, div. K, title I, § 1976, Oct. 5, 2018, 132 Stat. 3616.)
 
 **Editorial Notes**
 
@@ -2227,11 +2227,11 @@ Section was enacted as part of the TSA Modernization Act and also as part of the
 
 For definitions of “Administrator” and “Secretary” as used in this section, see section 1902 of Pub. L. 115–254, set out as a note under section 101 of Title 49, Transportation.
 
-#### § 1156. Nuclear material and explosive detection technology
+#### § 1156. Nuclear material and explosive detection technology
 
 The Secretary, in coordination with the Director of the National Institute of Standards and Technology and the head of each relevant Federal department or agency researching nuclear material detection systems or explosive detection systems, shall research, facilitate, and, to the extent practicable, deploy next generation technologies, including active neutron interrogation, to detect nuclear material and explosives in transportation systems and transportation facilities.
 
-(Pub. L. 115–254, div. K, title I, § 1984, Oct. 5, 2018, 132 Stat. 3621.)
+(Pub. L. 115–254, div. K, title I, § 1984, Oct. 5, 2018, 132 Stat. 3621.)
 
 **Editorial Notes**
 
@@ -2247,7 +2247,7 @@ For definition of “Secretary” as used in this section, see section 1902 of P
 
 ### Part B—Railroad Security
 
-#### § 1161. Railroad transportation security risk assessment and National Strategy
+#### § 1161. Railroad transportation security risk assessment and National Strategy
 
 **(a) Risk assessment** The Secretary shall establish a Federal task force, including the Transportation Security Administration and other agencies within the Department, the Department of Transportation, and other appropriate Federal agencies, to complete, within 6 months of August 3, 2007, a nationwide risk assessment of a terrorist attack on railroad carriers. The assessment shall include—
 
@@ -2271,9 +2271,9 @@ For definition of “Secretary” as used in this section, see section 1902 of P
 
 **(1) Requirement**
 
-Not later than 9 months after August 3, 2007, and based upon the assessment conducted under subsection (a), the Secretary, consistent with and as required by section 114(t) 1
+Not later than 9 months after August 3, 2007, and based upon the assessment conducted under subsection (a), the Secretary, consistent with and as required by section 114(t) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 49, shall develop and implement the modal plan for railroad transportation, entitled the “National Strategy for Railroad Transportation Security”.
 
@@ -2321,7 +2321,7 @@ In developing the National Strategy required under this section, the Secretary s
 
 **(d) Adequacy of existing plans and strategies**
 
-In developing the risk assessment and National Strategy required under this section, the Secretary shall utilize relevant existing plans, strategies, and risk assessments developed by the Department or other Federal agencies, including those developed or implemented pursuant to section 114(t) <sup>1</sup> of title 49 or Homeland Security Presidential Directive–7, and, as appropriate, assessments developed by other public and private stakeholders.
+In developing the risk assessment and National Strategy required under this section, the Secretary shall utilize relevant existing plans, strategies, and risk assessments developed by the Department or other Federal agencies, including those developed or implemented pursuant to section 114(t) <sup>1</sup> of title 49 or Homeland Security Presidential Directive–7, and, as appropriate, assessments developed by other public and private stakeholders.
 
 **(e) Report**
 
@@ -2337,25 +2337,25 @@ The Secretary may submit the report in both classified and redacted formats if t
 
 **(f) Annual updates**
 
-Consistent with the requirements of section 114(t) <sup>1</sup> of title 49, the Secretary shall update the assessment and National Strategy each year and transmit a report, which may be submitted in both classified and redacted formats, to the appropriate congressional committees containing the updated assessment and recommendations.
+Consistent with the requirements of section 114(t) <sup>1</sup> of title 49, the Secretary shall update the assessment and National Strategy each year and transmit a report, which may be submitted in both classified and redacted formats, to the appropriate congressional committees containing the updated assessment and recommendations.
 
 **(g) Funding**
 
-Out of funds appropriated pursuant to section 114(w) <sup>1</sup> of title 49, there shall be made available to the Secretary to carry out this section $5,000,000 for fiscal year 2008.
+Out of funds appropriated pursuant to section 114(w) <sup>1</sup> of title 49, there shall be made available to the Secretary to carry out this section $5,000,000 for fiscal year 2008.
 
-(Pub. L. 110–53, title XV, § 1511, Aug. 3, 2007, 121 Stat. 426.)
+(Pub. L. 110–53, title XV, § 1511, Aug. 3, 2007, 121 Stat. 426.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 114(t) of title 49, referred to in subsecs. (b)(1), (d), and (f), was redesignated section 114(s) of title 49 by Pub. L. 110–161, div. E, title V, § 568(a), Dec. 26, 2007, 121 Stat. 2092.
+Section 114(t) of title 49, referred to in subsecs. (b)(1), (d), and (f), was redesignated section 114(s) of title 49 by Pub. L. 110–161, div. E, title V, § 568(a), Dec. 26, 2007, 121 Stat. 2092.
 
 Executive Order No. 13416, referred to in subsec. (b)(3)(E), is set out as a note under section 1101 of this title.
 
-Section 114(w) of title 49, referred to in subsec. (g), was redesignated section 114(v) of title 49 by Pub. L. 115–254, div. K, § 1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
+Section 114(w) of title 49, referred to in subsec. (g), was redesignated section 114(v) of title 49 by Pub. L. 115–254, div. K, § 1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
 
-#### § 1162. Railroad carrier assessments and plans
+#### § 1162. Railroad carrier assessments and plans
 
 **(a) In general** Not later than 12 months after August 3, 2007, the Secretary shall issue regulations that—
 
@@ -2363,9 +2363,9 @@ Section 114(w) of title 49, referred to in subsec. (g), was redesignated section
 
 **(A)** conduct a vulnerability assessment in accordance with subsections (c) and (d); and
 
-**(B)** to 1
+**(B)** to 1
 
-<sup>1</sup>  So in original. The word “to” probably should not appear.
+<sup>1</sup> So in original. The word “to” probably should not appear.
 
 prepare, submit to the Secretary for approval, and implement a security plan in accordance with this section that addresses security performance requirements; and
 
@@ -2531,9 +2531,9 @@ The Secretary may permit under this section the development and implementation o
 
 In carrying out this section, the Secretary shall consult with railroad carriers, nonprofit employee labor organizations representation railroad employees, and public safety and law enforcement officials.
 
-(Pub. L. 110–53, title XV, § 1512, Aug. 3, 2007, 121 Stat. 429.)
+(Pub. L. 110–53, title XV, § 1512, Aug. 3, 2007, 121 Stat. 429.)
 
-#### § 1163. Railroad security assistance
+#### § 1163. Railroad security assistance
 
 **(a) Security improvement grants**
 
@@ -2633,9 +2633,9 @@ A recipient of a grant under this section and sections 1164 and 1165 of this tit
 
 **(i) Authorization of appropriations**
 
-**(1) In general** Out of funds appropriated pursuant to section 114(w) 1
+**(1) In general** Out of funds appropriated pursuant to section 114(w) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 49, there shall be made available to the Secretary to carry out this section—
 
@@ -2651,25 +2651,25 @@ of title 49, there shall be made available to the Secretary to carry out this se
 
 Sums appropriated to carry out this section shall remain available until expended.
 
-(Pub. L. 110–53, title XV, § 1513, Aug. 3, 2007, 121 Stat. 433; Pub. L. 115–254, div. K, title I, § 1973(a), Oct. 5, 2018, 132 Stat. 3614.)
+(Pub. L. 110–53, title XV, § 1513, Aug. 3, 2007, 121 Stat. 433; Pub. L. 115–254, div. K, title I, § 1973(a), Oct. 5, 2018, 132 Stat. 3614.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 114(w) of title 49, referred to in subsec. (i)(1), was redesignated section 114(v) of title 49 by Pub. L. 115–254, div. K, § 1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
+Section 114(w) of title 49, referred to in subsec. (i)(1), was redesignated section 114(v) of title 49 by Pub. L. 115–254, div. K, § 1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
 
 **Amendments**
 
-2018—Subsec. (b)(1). Pub. L. 115–254, § 1973(a)(1), substituted “, including communications interoperability where appropriate with relevant outside agencies and entities.” for period at end.
+2018—Subsec. (b)(1). Pub. L. 115–254, § 1973(a)(1), substituted “, including communications interoperability where appropriate with relevant outside agencies and entities.” for period at end.
 
-Subsec. (b)(5). Pub. L. 115–254, § 1973(a)(2), substituted “security and preparedness of” for “security of”.
+Subsec. (b)(5). Pub. L. 115–254, § 1973(a)(2), substituted “security and preparedness of” for “security of”.
 
-Subsec. (b)(7). Pub. L. 115–254, § 1973(a)(3), substituted “security threats and preparedness, including connectivity to the National Terrorist Screening Center” for “security threats”.
+Subsec. (b)(7). Pub. L. 115–254, § 1973(a)(3), substituted “security threats and preparedness, including connectivity to the National Terrorist Screening Center” for “security threats”.
 
-Subsec. (b)(9). Pub. L. 115–254, § 1973(a)(4), substituted “, security, and preparedness officers” for “and security officers”.
+Subsec. (b)(9). Pub. L. 115–254, § 1973(a)(4), substituted “, security, and preparedness officers” for “and security officers”.
 
-#### § 1164. Systemwide Amtrak security upgrades
+#### § 1164. Systemwide Amtrak security upgrades
 
 **(a) In general**
 
@@ -2723,9 +2723,9 @@ The Secretary shall ensure that, subject to meeting the highest security needs o
 
 **(d) Availability of funds**
 
-**(1) In general** Out of funds appropriated pursuant to section 114(w) 1
+**(1) In general** Out of funds appropriated pursuant to section 114(w) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 49, there shall be made available to the Secretary and the Administrator of the Transportation Security Administration to carry out this section—
 
@@ -2741,25 +2741,25 @@ of title 49, there shall be made available to the Secretary and the Administrato
 
 Amounts appropriated pursuant to paragraph (1) shall remain available until expended.
 
-(Pub. L. 110–53, title XV, § 1514, Aug. 3, 2007, 121 Stat. 435; Pub. L. 115–254, div. K, title I, § 1973(b), Oct. 5, 2018, 132 Stat. 3614.)
+(Pub. L. 110–53, title XV, § 1514, Aug. 3, 2007, 121 Stat. 435; Pub. L. 115–254, div. K, title I, § 1973(b), Oct. 5, 2018, 132 Stat. 3614.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 114(w) of title 49, referred to in subsec. (d)(1), was redesignated section 114(v) of title 49 by Pub. L. 115–254, div. K, § 1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
+Section 114(w) of title 49, referred to in subsec. (d)(1), was redesignated section 114(v) of title 49 by Pub. L. 115–254, div. K, § 1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
 
 **Amendments**
 
-2018—Subsec. (a)(3)(D). Pub. L. 115–254, § 1973(b)(1), inserted “, or to connect to the National Terrorism Screening Center watchlist” after “Secretary”.
+2018—Subsec. (a)(3)(D). Pub. L. 115–254, § 1973(b)(1), inserted “, or to connect to the National Terrorism Screening Center watchlist” after “Secretary”.
 
-Subsec. (a)(3)(I) to (K). Pub. L. 115–254, § 1973(b)(2)–(4), added subpars. (I) to (K).
+Subsec. (a)(3)(I) to (K). Pub. L. 115–254, § 1973(b)(2)–(4), added subpars. (I) to (K).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Passenger Rail Vetting**
 
-Pub. L. 115–254, div. K, title I, § 1974, Oct. 5, 2018, 132 Stat. 3615, provided that:
+Pub. L. 115–254, div. K, title I, § 1974, Oct. 5, 2018, 132 Stat. 3615, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date on which the Amtrak Board of Directors submits a request to the Administrator [of the Transportation Security Administration], the Administrator shall issue a decision on the use by Amtrak of the Transportation Security Administration’s Secure Flight Program or a similar passenger vetting system to enhance passenger rail security.
 
@@ -2779,7 +2779,7 @@ Pub. L. 115–254, div. K, title I, § 1974, Oct. 5, 2018, 132 Stat. 3615, pro
 
 > **“(e) Rule of Construction.—** Nothing in this section shall be construed to limit the Administrator’s authority to set the access to, or terms and conditions of using, the Secure Flight Program or a similar passenger vetting system.”
 
-#### § 1165. Fire and life safety improvements
+#### § 1165. Fire and life safety improvements
 
 **(a) Life-safety needs** There are authorized to be appropriated to the Secretary of Transportation for making grants to Amtrak for the purpose of carrying out projects to make fire and life safety improvements to Amtrak tunnels on the Northeast Corridor the following amounts:
 
@@ -2855,9 +2855,9 @@ If the Secretary of Transportation determines that a plan is incomplete or defic
 
 **(3)** obtain financial contributions or commitments from such other railroad carriers at levels reflecting the extent of their use or planned use of the tunnels, if feasible.
 
-(Pub. L. 110–53, title XV, § 1515, Aug. 3, 2007, 121 Stat. 437.)
+(Pub. L. 110–53, title XV, § 1515, Aug. 3, 2007, 121 Stat. 437.)
 
-#### § 1166. Railroad carrier exercises
+#### § 1166. Railroad carrier exercises
 
 **(a) In general**
 
@@ -2901,9 +2901,9 @@ The Secretary shall establish a program for conducting security exercises for ra
 
 **(4)** allows for proper advanced notification of communities and local governments in which exercises are held, as appropriate; and
 
-**(5)** assists State, local, and tribal governments and railroad carriers in designing, implementing, and evaluating additional exercises that conform to the requirements of paragraph (1) 1
+**(5)** assists State, local, and tribal governments and railroad carriers in designing, implementing, and evaluating additional exercises that conform to the requirements of paragraph (1) 1
 
-<sup>1</sup>  So in original. Probably should be “(2)”.
+<sup>1</sup> So in original. Probably should be “(2)”.
 
 .
 
@@ -2911,9 +2911,9 @@ The Secretary shall establish a program for conducting security exercises for ra
 
 The Secretary shall ensure that the exercise program developed under subsection (c) is a component of the National Exercise Program established under section 748 of this title.
 
-(Pub. L. 110–53, title XV, § 1516, Aug. 3, 2007, 121 Stat. 438.)
+(Pub. L. 110–53, title XV, § 1516, Aug. 3, 2007, 121 Stat. 438.)
 
-#### § 1167. Railroad security training program
+#### § 1167. Railroad security training program
 
 **(a) In general**
 
@@ -2985,9 +2985,9 @@ Not later than 2 years after the date of regulation issuance, the Secretary shal
 
 The Secretary shall issue guidance and best practices for a railroad shipper employee security program containing the elements listed under subsection (c).
 
-(Pub. L. 110–53, title XV, § 1517, Aug. 3, 2007, 121 Stat. 439.)
+(Pub. L. 110–53, title XV, § 1517, Aug. 3, 2007, 121 Stat. 439.)
 
-#### § 1168. Railroad security research and development
+#### § 1168. Railroad security research and development
 
 **(a) Establishment of research and development program**
 
@@ -3059,9 +3059,9 @@ In accordance with sections 142 and 345 of this title, the Chief Privacy Officer
 
 **(e) Authorization of appropriations**
 
-**(1) In general** Out of funds appropriated pursuant to section 114(w) 1
+**(1) In general** Out of funds appropriated pursuant to section 114(w) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 49, there shall be made available to the Secretary to carry out this section—
 
@@ -3077,7 +3077,7 @@ of title 49, there shall be made available to the Secretary to carry out this se
 
 Such sums shall remain available until expended.
 
-(Pub. L. 110–53, title XV, § 1518, Aug. 3, 2007, 121 Stat. 441.)
+(Pub. L. 110–53, title XV, § 1518, Aug. 3, 2007, 121 Stat. 441.)
 
 **Editorial Notes**
 
@@ -3085,9 +3085,9 @@ Such sums shall remain available until expended.
 
 This Act, referred to in subsec. (c)(1), is Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 266, known as the Implementing Recommendations of the 9/11 Commission Act of 2007, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under section 101 of this title and Tables.
 
-Section 114(w) of title 49, referred to in subsec. (e)(1), was redesignated section 114(v) of title 49 by Pub. L. 115–254, div. K, § 1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
+Section 114(w) of title 49, referred to in subsec. (e)(1), was redesignated section 114(v) of title 49 by Pub. L. 115–254, div. K, § 1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
 
-#### § 1169. Railroad tank car security testing
+#### § 1169. Railroad tank car security testing
 
 **(a) Railroad tank car vulnerability assessment**
 
@@ -3143,9 +3143,9 @@ Upon completion of the analysis required under paragraph (1), the Secretary shal
 
 Not later than 30 days after completion of all dispersion analyses under paragraph (1), the Secretary shall submit to the appropriate congressional committees a report detailing the Secretary’s conclusions and findings in an appropriate format.
 
-(Pub. L. 110–53, title XV, § 1519, Aug. 3, 2007, 121 Stat. 443.)
+(Pub. L. 110–53, title XV, § 1519, Aug. 3, 2007, 121 Stat. 443.)
 
-#### § 1170. Security background checks of covered individuals
+#### § 1170. Security background checks of covered individuals
 
 **(a) Definitions** In this section, the following definitions apply:
 
@@ -3155,7 +3155,7 @@ Not later than 30 days after completion of all dispersion analyses under paragra
 
 **(B)** in the case of an alien (as defined in the Immigration and Nationality Act (8 U.S.C. 1101(a)(3)),1
 
-<sup>1</sup>  So in original. Another closing parenthesis probably should precede the comma.
+<sup>1</sup> So in original. Another closing parenthesis probably should precede the comma.
 
 the relevant databases to determine the status of the alien under the immigration laws of the United States; and
 
@@ -3203,15 +3203,15 @@ Nothing in this section shall be construed to preempt a Federal, State, or local
 
 Nothing in this section shall be construed to affect the process for review established under section 70105(c) of title 46, including regulations issued pursuant to such section.
 
-(Pub. L. 110–53, title XV, § 1522, Aug. 3, 2007, 121 Stat. 448.)
+(Pub. L. 110–53, title XV, § 1522, Aug. 3, 2007, 121 Stat. 448.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Immigration and Nationality Act, referred to in subsec. (a)(1)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. The term “alien” is defined in section 101(a)(3) of the Act which is classified to section 1101(a)(3) of Title 8. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (a)(1)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. The term “alien” is defined in section 101(a)(3) of the Act which is classified to section 1101(a)(3) of Title 8. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
-#### § 1171. International railroad security program
+#### § 1171. International railroad security program
 
 **(a) In general**
 
@@ -3219,7 +3219,7 @@ The Immigration and Nationality Act, referred to in subsec. (a)(1)(B), is act Ju
 
 **(2) System requirements.—** In developing the system under paragraph (1), the Secretary may, in consultation with the Domestic Nuclear Detection Office,1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 Customs and Border Protection, and the Transportation Security Administration—
 
@@ -3261,7 +3261,7 @@ The term “radiation detection equipment” means any technology that is capabl
 
 The term “inspection” means the comprehensive process used by Customs and Border Protection to assess goods entering the United States to appraise them for duty purposes, to detect the presence of restricted or prohibited items, and to ensure compliance with all applicable laws.
 
-(Pub. L. 110–53, title XV, § 1524, Aug. 3, 2007, 121 Stat. 451.)
+(Pub. L. 110–53, title XV, § 1524, Aug. 3, 2007, 121 Stat. 451.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3269,15 +3269,15 @@ The term “inspection” means the comprehensive process used by Customs and Bo
 
 Reference to the Domestic Nuclear Detection Office deemed to be a reference to the Countering Weapons of Mass Destruction Office, see section 2(b)(1)(A) of Pub. L. 115–387, set out as a note under section 591 of this title.
 
-#### § 1172. Railroad security enhancements; Model State legislation
+#### § 1172. Railroad security enhancements; Model State legislation
 
 Not later than November 2, 2007, the Secretary of Transportation shall develop and make available to States model legislation to address the problem of entities that claim to be railroad carriers in order to establish and run a police force when the entities do not in fact provide railroad transportation. In developing the model State legislation the Secretary shall solicit the input of the States, railroads carriers, and railroad carrier employees. The Secretary shall review and, if necessary, revise such model State legislation periodically.
 
-(Pub. L. 110–53, title XV, § 1526(b), Aug. 3, 2007, 121 Stat. 452.)
+(Pub. L. 110–53, title XV, § 1526(b), Aug. 3, 2007, 121 Stat. 452.)
 
 ### Part C—Over-the-Road Bus and Trucking Security
 
-#### § 1181. Over-the-road bus security assessments and plans
+#### § 1181. Over-the-road bus security assessments and plans
 
 **(a) In general** Not later than 18 months after August 3, 2007, the Secretary shall issue regulations that—
 
@@ -3437,9 +3437,9 @@ Nothing in this section shall be construed as authorizing the withholding of any
 
 Nothing in this section shall be construed as affecting any authority or obligation of a Federal agency to disclose any record or information that the Federal agency obtains from an over-the-road bus operator under any other Federal law.
 
-(Pub. L. 110–53, title XV, § 1531, Aug. 3, 2007, 121 Stat. 454.)
+(Pub. L. 110–53, title XV, § 1531, Aug. 3, 2007, 121 Stat. 454.)
 
-#### § 1182. Over-the-road bus security assistance
+#### § 1182. Over-the-road bus security assistance
 
 **(a) In general**
 
@@ -3519,9 +3519,9 @@ In carrying out this section, the Secretary shall consult with over-the-road bus
 
 **(k) Authorization**
 
-**(1) In general** From the amounts appropriated pursuant to section 114(w) 1
+**(1) In general** From the amounts appropriated pursuant to section 114(w) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 49, there shall be made available to the Secretary to make grants under this section—
 
@@ -3537,15 +3537,15 @@ of title 49, there shall be made available to the Secretary to make grants under
 
 Sums appropriated to carry out this section shall remain available until expended.
 
-(Pub. L. 110–53, title XV, § 1532, Aug. 3, 2007, 121 Stat. 457.)
+(Pub. L. 110–53, title XV, § 1532, Aug. 3, 2007, 121 Stat. 457.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 114(w) of title 49, referred to in subsec. (k)(1), was redesignated section 114(v) of title 49 by Pub. L. 115–254, div. K, § 1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
+Section 114(w) of title 49, referred to in subsec. (k)(1), was redesignated section 114(v) of title 49 by Pub. L. 115–254, div. K, § 1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
 
-#### § 1183. Over-the-road bus exercises
+#### § 1183. Over-the-road bus exercises
 
 **(a) In general**
 
@@ -3595,9 +3595,9 @@ The Secretary shall establish a program for conducting security exercises for ov
 
 The Secretary shall ensure that the exercise program developed under subsection (c) is consistent with the National Exercise Program established under section 748 of this title.
 
-(Pub. L. 110–53, title XV, § 1533, Aug. 3, 2007, 121 Stat. 460.)
+(Pub. L. 110–53, title XV, § 1533, Aug. 3, 2007, 121 Stat. 460.)
 
-#### § 1184. Over-the-road bus security training program
+#### § 1184. Over-the-road bus security training program
 
 **(a) In general**
 
@@ -3663,9 +3663,9 @@ The Secretary shall ensure that the training program developed under subsection 
 
 Not later than 2 years after the date of regulation issuance, the Secretary shall review implementation of the training program of a representative sample of over-the-road bus operators and over-the-road bus frontline employees, and report to the appropriate congressional committees of such reviews. The Secretary may submit the report in both classified and redacted formats as necessary.
 
-(Pub. L. 110–53, title XV, § 1534, Aug. 3, 2007, 121 Stat. 461.)
+(Pub. L. 110–53, title XV, § 1534, Aug. 3, 2007, 121 Stat. 461.)
 
-#### § 1185. Over-the-road bus security research and development
+#### § 1185. Over-the-road bus security research and development
 
 **(a) Establishment of research and development program**
 
@@ -3723,9 +3723,9 @@ In accordance with sections 142 and 345 of this title, the Chief Privacy Officer
 
 **(e) Authorization of appropriations**
 
-**(1) In general** From the amounts appropriated pursuant to section 114(w) 1
+**(1) In general** From the amounts appropriated pursuant to section 114(w) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 49, there shall be made available to the Secretary to carry out this section—
 
@@ -3741,7 +3741,7 @@ of title 49, there shall be made available to the Secretary to carry out this se
 
 Such sums shall remain available until expended.
 
-(Pub. L. 110–53, title XV, § 1535, Aug. 3, 2007, 121 Stat. 462.)
+(Pub. L. 110–53, title XV, § 1535, Aug. 3, 2007, 121 Stat. 462.)
 
 **Editorial Notes**
 
@@ -3749,17 +3749,17 @@ Such sums shall remain available until expended.
 
 This Act, referred to in subsec. (c)(1), is Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 266, known as the Implementing Recommendations of the 9/11 Commission Act of 2007, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under section 101 of this title and Tables.
 
-Section 114(w) of title 49, referred to in subsec. (e)(1), was redesignated section 114(v) of title 49 by Pub. L. 115–254, div. K, § 1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
+Section 114(w) of title 49, referred to in subsec. (e)(1), was redesignated section 114(v) of title 49 by Pub. L. 115–254, div. K, § 1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
 
-#### § 1186. Memorandum of Understanding annex
+#### § 1186. Memorandum of Understanding annex
 
 Not later than 1 year after August 3, 2007, the Secretary of Transportation and the Secretary shall execute and develop an annex to the Memorandum of Understanding between the two departments signed on September 28, 2004, governing the specific roles, delineations of responsibilities, resources, and commitments of the Department of Transportation and the Department of Homeland Security, respectively, in addressing motor carrier transportation security matters, including over-the-road bus security matters, and shall cover the processes the Departments will follow to promote communications, efficiency, and nonduplication of effort.
 
-(Pub. L. 110–53, title XV, § 1541, Aug. 3, 2007, 121 Stat. 469.)
+(Pub. L. 110–53, title XV, § 1541, Aug. 3, 2007, 121 Stat. 469.)
 
 ### Part D—Hazardous Material and Pipeline Security
 
-#### § 1201. Railroad routing of security-sensitive materials
+#### § 1201. Railroad routing of security-sensitive materials
 
 **(a) In general**
 
@@ -3821,9 +3821,9 @@ In carrying out subsection (c), railroad carriers transporting security-sensitiv
 
 **(C)** national economic harm.
 
-(Pub. L. 110–53, title XV, § 1551, Aug. 3, 2007, 121 Stat. 469.)
+(Pub. L. 110–53, title XV, § 1551, Aug. 3, 2007, 121 Stat. 469.)
 
-#### § 1202. Railroad security-sensitive material tracking
+#### § 1202. Railroad security-sensitive material tracking
 
 **(a) Communications**
 
@@ -3839,13 +3839,13 @@ In carrying out subsection (c), railroad carriers transporting security-sensitiv
 
 **(B)** ensure that the program is consistent with recommendations and findings of the Department of Homeland Security’s hazardous material railroad tank car tracking pilot programs.
 
-**(b) Funding** From the amounts appropriated pursuant to 1
+**(b) Funding** From the amounts appropriated pursuant to 1
 
-<sup>1</sup>  So in original. Probably should be followed by “section”.
+<sup>1</sup> So in original. Probably should be followed by “section”.
 
-114(w) 2
+114(w) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of title 49, there shall be made available to the Secretary to carry out this section—
 
@@ -3855,15 +3855,15 @@ of title 49, there shall be made available to the Secretary to carry out this se
 
 **(3)** $3,000,000 for fiscal year 2010.
 
-(Pub. L. 110–53, title XV, § 1552, Aug. 3, 2007, 121 Stat. 471.)
+(Pub. L. 110–53, title XV, § 1552, Aug. 3, 2007, 121 Stat. 471.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 114(w) of title 49, referred to in subsec. (b), was redesignated section 114(v) of title 49 by Pub. L. 115–254, div. K, § 1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
+Section 114(w) of title 49, referred to in subsec. (b), was redesignated section 114(v) of title 49 by Pub. L. 115–254, div. K, § 1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
 
-#### § 1203. Hazardous materials highway routing
+#### § 1203. Hazardous materials highway routing
 
 **(a) Route plan guidance** Not later than 1 year after August 3, 2007, the Secretary of Transportation, in consultation with the Secretary, shall—
 
@@ -3897,9 +3897,9 @@ Not later than 1 year after August 3, 2007, the Secretary of Transportation shal
 
 The Secretary shall require motor carriers that have a hazardous material safety permit under part 385 of title 49, Code of Federal Regulations, to maintain, follow, and carry a route plan, in written or electronic format, that meets the requirements of section 397.101 of that title when transporting the type and quantity of hazardous materials described in section 385.403 if the Secretary determines, under the assessment required in subsection (b), that such a requirement would enhance security and safety without imposing unreasonable costs or burdens upon motor carriers.
 
-(Pub. L. 110–53, title XV, § 1553, Aug. 3, 2007, 121 Stat. 472.)
+(Pub. L. 110–53, title XV, § 1553, Aug. 3, 2007, 121 Stat. 472.)
 
-#### § 1204. Motor carrier security-sensitive material tracking
+#### § 1204. Motor carrier security-sensitive material tracking
 
 **(a) Communications**
 
@@ -3935,9 +3935,9 @@ The Secretary shall require motor carriers that have a hazardous material safety
 
 **(viii)** other systems and information the Secretary determines appropriate.
 
-**(b) Funding** From the amounts appropriated pursuant to section 114(w) 1
+**(b) Funding** From the amounts appropriated pursuant to section 114(w) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 49, there shall be made available to the Secretary to carry out this section—
 
@@ -3955,15 +3955,15 @@ Not later than 1 year after the issuance of regulations under subsection (a), th
 
 The Secretary may not mandate the installation or utilization of a technology described under this section without additional congressional authority provided after August 3, 2007.
 
-(Pub. L. 110–53, title XV, § 1554, Aug. 3, 2007, 121 Stat. 473.)
+(Pub. L. 110–53, title XV, § 1554, Aug. 3, 2007, 121 Stat. 473.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 114(w) of title 49, referred to in subsec. (b)(1), was redesignated section 114(v) of title 49 by Pub. L. 115–254, div. K, § 1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
+Section 114(w) of title 49, referred to in subsec. (b)(1), was redesignated section 114(v) of title 49 by Pub. L. 115–254, div. K, § 1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
 
-#### § 1205. Hazardous materials security inspections and study
+#### § 1205. Hazardous materials security inspections and study
 
 **(a) In general**
 
@@ -3973,9 +3973,9 @@ The Secretary of Transportation shall consult with the Secretary to limit, to th
 
 Within 1 year after August 3, 2007, the Secretary of Transportation, in conjunction with the Secretary, shall study to what extent the insurance, security, and safety costs borne by railroad carriers, motor carriers, pipeline carriers, air carriers, and maritime carriers associated with the transportation of hazardous materials are reflected in the rates paid by offerors of such commodities as compared to the costs and rates, respectively, for the transportation of nonhazardous materials.
 
-(Pub. L. 110–53, title XV, § 1555, Aug. 3, 2007, 121 Stat. 475.)
+(Pub. L. 110–53, title XV, § 1555, Aug. 3, 2007, 121 Stat. 475.)
 
-#### § 1206. Use of transportation security card in hazmat licensing
+#### § 1206. Use of transportation security card in hazmat licensing
 
 **(1) Background check**
 
@@ -3985,9 +3985,9 @@ An individual who has a valid transportation employee identification card issued
 
 Nothing in this section prevents or preempts a State from conducting a criminal records check of an individual that has applied for a license to operate a motor vehicle transporting in commerce a hazardous material.
 
-(Pub. L. 110–53, title XV, § 1556(b), Aug. 3, 2007, 121 Stat. 475.)
+(Pub. L. 110–53, title XV, § 1556(b), Aug. 3, 2007, 121 Stat. 475.)
 
-#### § 1207. Pipeline security inspections and enforcement
+#### § 1207. Pipeline security inspections and enforcement
 
 **(a) In general**
 
@@ -4005,9 +4005,9 @@ In reviewing pipeline operator compliance under subsections (a) and (b), risk as
 
 Not later than 18 months after August 3, 2007, the Secretary and the Secretary of Transportation shall develop and transmit to pipeline operators security recommendations for natural gas and hazardous liquid pipelines and pipeline facilities. If the Secretary determines that regulations are appropriate, the Secretary shall consult with the Secretary of Transportation on the extent of risk and appropriate mitigation measures, and the Secretary or the Secretary of Transportation, consistent with the Annex to the Memorandum of Understanding executed on August 9, 2006, shall promulgate such regulations and carry out necessary inspection and enforcement actions. Any regulations shall incorporate the guidance provided to pipeline operators by the September 5, 2002, Department of Transportation Research and Special Programs Administration’s Pipeline Security Information Circular and contain additional requirements as necessary based upon the results of the inspections performed under subsection (b). The regulations shall include the imposition of civil penalties for noncompliance.
 
-**(e) Funding** From the amounts appropriated pursuant to section 114(w) 1
+**(e) Funding** From the amounts appropriated pursuant to section 114(w) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 49, there shall be made available to the Secretary to carry out this section—
 
@@ -4017,15 +4017,15 @@ of title 49, there shall be made available to the Secretary to carry out this se
 
 **(3)** $2,000,000 for fiscal year 2010.
 
-(Pub. L. 110–53, title XV, § 1557, Aug. 3, 2007, 121 Stat. 475.)
+(Pub. L. 110–53, title XV, § 1557, Aug. 3, 2007, 121 Stat. 475.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 114(w) of title 49, referred to in subsec. (e)(1), was redesignated section 114(v) of title 49 by Pub. L. 115–254, div. K, § 1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
+Section 114(w) of title 49, referred to in subsec. (e)(1), was redesignated section 114(v) of title 49 by Pub. L. 115–254, div. K, § 1904(b)(1)(I), Oct. 5, 2018, 132 Stat. 3545.
 
-#### § 1208. Pipeline security and incident recovery plan
+#### § 1208. Pipeline security and incident recovery plan
 
 **(a) In general** The Secretary, in consultation with the Secretary of Transportation and the Administrator of the Pipeline and Hazardous Materials Safety Administration, and in accordance with the Annex to the Memorandum of Understanding executed on August 9, 2006, the National Strategy for Transportation Security, and Homeland Security Presidential Directive–7, shall develop a pipeline security and incident recovery protocols plan. The plan shall include—
 
@@ -4055,4 +4055,4 @@ Not later than 2 years after August 3, 2007, the Secretary shall transmit to the
 
 The Secretary may submit the report in both classified and redacted formats if the Secretary determines that such action is appropriate or necessary.
 
-(Pub. L. 110–53, title XV, § 1558, Aug. 3, 2007, 121 Stat. 476.)
+(Pub. L. 110–53, title XV, § 1558, Aug. 3, 2007, 121 Stat. 476.)

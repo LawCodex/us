@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 65—INTERNATIONAL FORESTRY COOPERATION
 
-## § 4501. Forestry and related natural resource assistance
+## § 4501. Forestry and related natural resource assistance
 
 **(a) Focus of activities**
 
@@ -53,7 +53,7 @@ To achieve the maximum impact from activities undertaken under the authority of 
 
 The Secretary shall undertake the activities described in subsection (b), in countries that receive assistance from the Agency for International Development only at the request, or with the concurrence, of the Administrator of the Agency for International Development.
 
-(Pub. L. 101–513, title VI, § 602, Nov. 5, 1990, 104 Stat. 2070; Pub. L. 102–574, § 2(b)(1), Oct. 29, 1992, 106 Stat. 4596.)
+(Pub. L. 101–513, title VI, § 602, Nov. 5, 1990, 104 Stat. 2070; Pub. L. 102–574, § 2(b)(1), Oct. 29, 1992, 106 Stat. 4596.)
 
 **Editorial Notes**
 
@@ -69,13 +69,13 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this t
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–574, § 1, Oct. 29, 1992, 106 Stat. 4593, provided that: “This Act [enacting sections 4502a and 4503a to 4503d of this title, amending this section and section 4503 of this title, and enacting provisions set out as notes under sections 4502a and 4503a of this title] may be cited as the ‘Hawaii Tropical Forest Recovery Act’.”
+Pub. L. 102–574, § 1, Oct. 29, 1992, 106 Stat. 4593, provided that: “This Act [enacting sections 4502a and 4503a to 4503d of this title, amending this section and section 4503 of this title, and enacting provisions set out as notes under sections 4502a and 4503a of this title] may be cited as the ‘Hawaii Tropical Forest Recovery Act’.”
 
 **Short Title**
 
-Pub. L. 101–513, title VI, § 601, Nov. 5, 1990, 104 Stat. 2070, provided that: “This title [enacting this chapter and amending sections 1641, 1643, 2101, and 2109 of this title] may be cited as the ‘International Forestry Cooperation Act of 1990’.”
+Pub. L. 101–513, title VI, § 601, Nov. 5, 1990, 104 Stat. 2070, provided that: “This title [enacting this chapter and amending sections 1641, 1643, 2101, and 2109 of this title] may be cited as the ‘International Forestry Cooperation Act of 1990’.”
 
-## § 4502. Tropical deforestation assessment and assistance
+## § 4502. Tropical deforestation assessment and assistance
 
 In support of the Tropical Forestry Action Plan and to specifically address tropical deforestation and degradation, the Secretary may—
 
@@ -83,15 +83,15 @@ In support of the Tropical Forestry Action Plan and to specifically address trop
 
 **(2)** together with the United States Agency for International Development,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 and other Federal agencies, provide technical assistance to tropical countries for the formulation of national forestry sector development strategies; and
 
 **(3)** cooperate with tropical countries on research, training, and technical programs aimed at implementing national forestry sector development strategies.
 
-(Pub. L. 101–513, title VI, § 603, Nov. 5, 1990, 104 Stat. 2071.)
+(Pub. L. 101–513, title VI, § 603, Nov. 5, 1990, 104 Stat. 2071.)
 
-## § 4502a. Tropical forestry research and assistance
+## § 4502a. Tropical forestry research and assistance
 
 **(a) Assistance** To promote sound management and conservation of tropical forests of the United States and to promote the development and transfer of technical, managerial, educational, and administrative skills to managers of tropical forests within or outside the United States, the Secretary of Agriculture is authorized to provide assistance through the Forest Service to eligible entities in States with tropical forests to—
 
@@ -125,7 +125,7 @@ The term “eligible entity” means a State forester or equivalent State offici
 
 The term “State” means each of the 50 States, Guam, American Samoa, the Republic of Palau (until the Compact of Free Association enters into effect), Puerto Rico, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
-(Pub. L. 102–574, § 3, Oct. 29, 1992, 106 Stat. 4596.)
+(Pub. L. 102–574, § 3, Oct. 29, 1992, 106 Stat. 4596.)
 
 **Editorial Notes**
 
@@ -141,9 +141,9 @@ Section was enacted as part of the Hawaii Tropical Forest Recovery Act, and not 
 
 **Authorization of Appropriations**
 
-Pub. L. 102–574, § 5, Oct. 29, 1992, 106 Stat. 4599, provided that: “There are authorized to be appropriated such sums as are necessary to carry out sections 3 and 4 [enacting this section and provisions set out as a note under 4503a of this title].”
+Pub. L. 102–574, § 5, Oct. 29, 1992, 106 Stat. 4599, provided that: “There are authorized to be appropriated such sums as are necessary to carry out sections 3 and 4 [enacting this section and provisions set out as a note under 4503a of this title].”
 
-## § 4503. Institute of Tropical Forestry in Puerto Rico
+## § 4503. Institute of Tropical Forestry in Puerto Rico
 
 **(a) Expansion**
 
@@ -157,7 +157,7 @@ The Secretary shall expand the capabilities of and construct additional faciliti
 
 **(3)** the acquisition or construction of facilities for the study and recovery of endangered tropical wildlife, fish and plant species.
 
-(Pub. L. 101–513, title VI, § 604, Nov. 5, 1990, 104 Stat. 2071; Pub. L. 102–574, § 2(b)(2), Oct. 29, 1992, 106 Stat. 4596.)
+(Pub. L. 101–513, title VI, § 604, Nov. 5, 1990, 104 Stat. 2071; Pub. L. 102–574, § 2(b)(2), Oct. 29, 1992, 106 Stat. 4596.)
 
 **Editorial Notes**
 
@@ -171,7 +171,7 @@ The Secretary shall expand the capabilities of and construct additional faciliti
 
 Ex. Ord. No. 13428, Apr. 2, 2007, 72 F.R. 16693, provided that the Caribbean National Forest in the Commonwealth of Puerto Rico, referred to in subsecs. (a) and (b)(2), is renamed the “El Yunque National Forest”.
 
-## § 4503a. Institute of Pacific Islands Forestry
+## § 4503a. Institute of Pacific Islands Forestry
 
 **(a) Expansion** The Secretary shall expand the capabilities of and construct additional facilities, as funds are appropriated for the expansion and construction, at—
 
@@ -183,9 +183,9 @@ Ex. Ord. No. 13428, Apr. 2, 2007, 72 F.R. 16693, provided that the Caribbean Nat
 
 **(1) In general**
 
-Not later than 1 year after the date of receipt by the Secretary of the action plan required by section 5(b) 1
+Not later than 1 year after the date of receipt by the Secretary of the action plan required by section 5(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Hawaii Tropical Forest Recovery Act, the Secretary shall prepare and submit to the Committee on Agriculture and the Committee on Natural Resources of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry of the Senate, and to the Committees on Appropriations of the House of Representatives and Senate, a tropical forestry plan to expand the capabilities of and construct additional facilities under subsection (a).
 
@@ -217,7 +217,7 @@ of the Hawaii Tropical Forest Recovery Act, the Secretary shall prepare and subm
 
 **(E)** to develop new methods of reclaiming and restoring degraded lands.
 
-(Pub. L. 101–513, title VI, § 605, as added Pub. L. 102–574, § 2(a)(2), Oct. 29, 1992, 106 Stat. 4593; amended Pub. L. 103–437, § 6(d)(42), Nov. 2, 1994, 108 Stat. 4585.)
+(Pub. L. 101–513, title VI, § 605, as added Pub. L. 102–574, § 2(a)(2), Oct. 29, 1992, 106 Stat. 4593; amended Pub. L. 103–437, § 6(d)(42), Nov. 2, 1994, 108 Stat. 4585.)
 
 **Editorial Notes**
 
@@ -237,9 +237,9 @@ A prior section 605 of Pub. L. 101–513 was renumbered section 609 and is class
 
 **Hawaii Tropical Forest Recovery Task Force**
 
-Pub. L. 102–574, § 4, Oct. 29, 1992, 106 Stat. 4597, established the Hawaii Tropical Forest Recovery Task Force to study Hawaii’s tropical forests, required the Task Force to submit an action plan for rejuvenating the forests one year after its first meeting, and terminated the Task Force 180 days after submission of the action plan.
+Pub. L. 102–574, § 4, Oct. 29, 1992, 106 Stat. 4597, established the Hawaii Tropical Forest Recovery Task Force to study Hawaii’s tropical forests, required the Task Force to submit an action plan for rejuvenating the forests one year after its first meeting, and terminated the Task Force 180 days after submission of the action plan.
 
-## § 4503b. Hawaii Experimental Tropical Forest
+## § 4503b. Hawaii Experimental Tropical Forest
 
 **(a) Definitions** As used in this section:
 
@@ -303,7 +303,7 @@ The authority in section 1643 of this title shall be available to the Secretary 
 
 Nothing in this section is intended to affect the jurisdiction of the State, both civil and criminal, over any person within the Forest by reason of the establishment of the Forest under this section, except in the case of a penalty for an offense against the United States.
 
-(Pub. L. 101–513, title VI, § 606, as added Pub. L. 102–574, § 2(a)(2), Oct. 29, 1992, 106 Stat. 4594.)
+(Pub. L. 101–513, title VI, § 606, as added Pub. L. 102–574, § 2(a)(2), Oct. 29, 1992, 106 Stat. 4594.)
 
 **Editorial Notes**
 
@@ -311,17 +311,17 @@ Nothing in this section is intended to affect the jurisdiction of the State, bot
 
 A prior section 606 of Pub. L. 101–513 was renumbered section 610 and is classified to section 4505 of this title.
 
-## § 4503c. Omitted
+## § 4503c. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 101–513, title VI, § 607, as added Pub. L. 102–574, § 2(a)(2), Oct. 29, 1992, 106 Stat. 4595, which required the Secretary of Agriculture to make annual reports to Congress, submitting the reports pursuant to section 1606(c) of this title, on the progress, needs, and long-range plans of the Institutes of Tropical Forestry in meeting the requirements of section 6706 of Title 7, Agriculture, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 45 of House Document No. 103–7.
+Section, Pub. L. 101–513, title VI, § 607, as added Pub. L. 102–574, § 2(a)(2), Oct. 29, 1992, 106 Stat. 4595, which required the Secretary of Agriculture to make annual reports to Congress, submitting the reports pursuant to section 1606(c) of this title, on the progress, needs, and long-range plans of the Institutes of Tropical Forestry in meeting the requirements of section 6706 of Title 7, Agriculture, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 45 of House Document No. 103–7.
 
 A prior section 607 of Pub. L. 101–513, which amended sections 1641, 1643, 2101, and 2109 of this title, was renumbered section 611.
 
-## § 4503d. Definitions
+## § 4503d. Definitions
 
 As used in this chapter (unless the context otherwise requires):
 
@@ -337,7 +337,7 @@ The term “Secretary” means the Secretary of Agriculture.
 
 The term “State” means each of the 50 States, Guam, American Samoa, the Republic of Palau (until the Compact of Free Association enters into effect), Puerto Rico, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
-(Pub. L. 101–513, title VI, § 608, as added Pub. L. 102–574, § 2(a)(2), Oct. 29, 1992, 106 Stat. 4595.)
+(Pub. L. 101–513, title VI, § 608, as added Pub. L. 102–574, § 2(a)(2), Oct. 29, 1992, 106 Stat. 4595.)
 
 **Editorial Notes**
 
@@ -345,7 +345,7 @@ The term “State” means each of the 50 States, Guam, American Samoa, the Repu
 
 For Oct. 1, 1994, as the date the Compact of Free Association with the Republic of Palau enters into effect, referred to in par. (3), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
 
-## § 4504. Administrative provisions
+## § 4504. Administrative provisions
 
 **(a) Coordination of activities**
 
@@ -355,10 +355,10 @@ The Secretary shall coordinate all activities outside of the United States under
 
 The Secretary may provide assistance, as determined appropriate by the Secretary to carry out this chapter, including technical and financial assistance, equipment, and facilities without reimbursement.
 
-(Pub. L. 101–513, title VI, § 609, formerly § 605, Nov. 5, 1990, 104 Stat. 2072; renumbered § 609, Pub. L. 102–574, § 2(a)(1), Oct. 29, 1992, 106 Stat. 4593.)
+(Pub. L. 101–513, title VI, § 609, formerly § 605, Nov. 5, 1990, 104 Stat. 2072; renumbered § 609, Pub. L. 102–574, § 2(a)(1), Oct. 29, 1992, 106 Stat. 4593.)
 
-## § 4505. Authorization of appropriations
+## § 4505. Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary to carry out this chapter.
 
-(Pub. L. 101–513, title VI, § 610, formerly § 606, Nov. 5, 1990, 104 Stat. 2072; renumbered § 610, Pub. L. 102–574, § 2(a)(1), Oct. 29, 1992, 106 Stat. 4593.)
+(Pub. L. 101–513, title VI, § 610, formerly § 606, Nov. 5, 1990, 104 Stat. 2072; renumbered § 610, Pub. L. 102–574, § 2(a)(1), Oct. 29, 1992, 106 Stat. 4593.)

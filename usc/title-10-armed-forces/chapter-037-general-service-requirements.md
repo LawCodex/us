@@ -19,43 +19,43 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title V, § 533, title IX, § 901(c), Dec. 18, 2025, 139 Stat. 870, 1007, struck out item 656 “Diversity in military leadership: plan; mentoring and career counseling program” and added item 658. Amendments were made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title V, § 533, title IX, § 901(c), Dec. 18, 2025, 139 Stat. 870, 1007, struck out item 656 “Diversity in military leadership: plan; mentoring and career counseling program” and added item 658. Amendments were made pursuant to operation of section 102 of this title.
 
-2023—Pub. L. 118–31, div. A, title V, § 509(b), Dec. 22, 2023, 137 Stat. 243, added item 654. Amendment was made pursuant to operation of section 102 of this title.
+2023—Pub. L. 118–31, div. A, title V, § 509(b), Dec. 22, 2023, 137 Stat. 243, added item 654. Amendment was made pursuant to operation of section 102 of this title.
 
-2021—Pub. L. 116–283, div. A, title V, § 571(a)(3)(B), Jan. 1, 2021, 134 Stat. 3643, added item 656 and struck out former item 656 “Diversity in military leadership: plan”.
+2021—Pub. L. 116–283, div. A, title V, § 571(a)(3)(B), Jan. 1, 2021, 134 Stat. 3643, added item 656 and struck out former item 656 “Diversity in military leadership: plan”.
 
-2013—Pub. L. 113–66, div. A, title XVII, § 1711(a)(2), Dec. 26, 2013, 127 Stat. 963, added item 657.
+2013—Pub. L. 113–66, div. A, title XVII, § 1711(a)(2), Dec. 26, 2013, 127 Stat. 963, added item 657.
 
-Pub. L. 112–239, div. A, title V, § 519(a)(2), Jan. 2, 2013, 126 Stat. 1721, added item 656.
+Pub. L. 112–239, div. A, title V, § 519(a)(2), Jan. 2, 2013, 126 Stat. 1721, added item 656.
 
-2010—Pub. L. 111–321, § 2(f)(1)(B), Dec. 22, 2010, 124 Stat. 3516, struck out item 654 “Policy concerning homosexuality in the armed forces”.
+2010—Pub. L. 111–321, § 2(f)(1)(B), Dec. 22, 2010, 124 Stat. 3516, struck out item 654 “Policy concerning homosexuality in the armed forces”.
 
-2006—Pub. L. 109–163, div. A, title V, § 541(a)(2), Jan. 6, 2006, 119 Stat. 3252, added item 652.
+2006—Pub. L. 109–163, div. A, title V, § 541(a)(2), Jan. 6, 2006, 119 Stat. 3252, added item 652.
 
-1996—Pub. L. 104–106, div. A, title V, § 569(d)(2), Feb. 10, 1996, 110 Stat. 352, added item 655.
+1996—Pub. L. 104–106, div. A, title V, § 569(d)(2), Feb. 10, 1996, 110 Stat. 352, added item 655.
 
-1994—Pub. L. 103–337, div. A, title XVI, § 1671(b)(6), Oct. 5, 1994, 108 Stat. 3013, struck out item 652 “Ready Reserves: requirement of notification of change of status”.
+1994—Pub. L. 103–337, div. A, title XVI, § 1671(b)(6), Oct. 5, 1994, 108 Stat. 3013, struck out item 652 “Ready Reserves: requirement of notification of change of status”.
 
-1993—Pub. L. 103–160, div. A, title V, § 571(a)(2), Nov. 30, 1993, 107 Stat. 1673, added item 654.
+1993—Pub. L. 103–160, div. A, title V, § 571(a)(2), Nov. 30, 1993, 107 Stat. 1673, added item 654.
 
-1989—Pub. L. 101–189, div. A, title VI, § 634(a)(2), Nov. 29, 1989, 103 Stat. 1454, added item 653.
+1989—Pub. L. 101–189, div. A, title VI, § 634(a)(2), Nov. 29, 1989, 103 Stat. 1454, added item 653.
 
-1978—Pub. L. 95–485, title IV, § 405(d)(2), Oct. 20, 1978, 92 Stat. 1616, added item 652.
+1978—Pub. L. 95–485, title IV, § 405(d)(2), Oct. 20, 1978, 92 Stat. 1616, added item 652.
 
-1958—Pub. L. 85–861, § 33(a)(4)(A), Sept. 2, 1958, 72 Stat. 1564, substituted “GENERAL SERVICE REQUIREMENTS” for “SERVICE REQUIREMENTS FOR RESERVES” in chapter heading.
+1958—Pub. L. 85–861, § 33(a)(4)(A), Sept. 2, 1958, 72 Stat. 1564, substituted “GENERAL SERVICE REQUIREMENTS” for “SERVICE REQUIREMENTS FOR RESERVES” in chapter heading.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Prohibition Against Members of the Armed Forces Participating in Criminal Street Gangs**
 
-Pub. L. 110–181, div. A, title V, § 544, Jan. 28, 2008, 122 Stat. 116, provided that: “The Secretary of Defense shall prescribe regulations to prohibit the active participation by members of the Armed Forces in a criminal street gang.”
+Pub. L. 110–181, div. A, title V, § 544, Jan. 28, 2008, 122 Stat. 116, provided that: “The Secretary of Defense shall prescribe regulations to prohibit the active participation by members of the Armed Forces in a criminal street gang.”
 
 **Executive Documents**
 
 **Executive Order No. 14004**
 
-Ex. Ord. No. 14004, Jan. 25, 2021, 86 F.R. 7471, enabling all qualified Americans to serve their country in uniform regardless of gender identity, was revoked by Ex. Ord. No. 14148, § 2(p), Jan. 20, 2025, 90 F.R. 8238, and Ex. Ord. No. 14168, § 7(b), Jan. 20, 2025, 90 F.R. 8617.
+Ex. Ord. No. 14004, Jan. 25, 2021, 86 F.R. 7471, enabling all qualified Americans to serve their country in uniform regardless of gender identity, was revoked by Ex. Ord. No. 14148, § 2(p), Jan. 20, 2025, 90 F.R. 8238, and Ex. Ord. No. 14168, § 7(b), Jan. 20, 2025, 90 F.R. 8617.
 
 **Ex. Ord. No. 14183. Prioritizing Military Excellence and Readiness**
 
@@ -111,11 +111,11 @@ Donald J. Trump.
 
 **Military Service by Transgender Individuals**
 
-Memorandum of President of the United States, Aug. 25, 2017, 82 F.R. 41319, which related to transgender military personnel, was revoked by Memorandum of President of the United States, § 1, Mar. 23, 2018, 83 F.R. 13367, formerly set out below.
+Memorandum of President of the United States, Aug. 25, 2017, 82 F.R. 41319, which related to transgender military personnel, was revoked by Memorandum of President of the United States, § 1, Mar. 23, 2018, 83 F.R. 13367, formerly set out below.
 
-Memorandum of President of the United States, Mar. 23, 2018, 83 F.R. 13367, which related to military service by transgender individuals, was revoked by Ex. Ord. No. 14004, § 2, Jan. 25, 2021, 86 F.R. 7472, set out above.
+Memorandum of President of the United States, Mar. 23, 2018, 83 F.R. 13367, which related to military service by transgender individuals, was revoked by Ex. Ord. No. 14004, § 2, Jan. 25, 2021, 86 F.R. 7472, set out above.
 
-## § 651. Members: required service
+## § 651. Members: required service
 
 **(a)** Each person who becomes a member of an armed force, other than a person deferred under the next to the last sentence of section 6(d)(1) of the Military Selective Service Act (50 U.S.C. 3806(d)(1)), shall serve in the armed forces for a total initial period of not less than six years nor more than eight years, as provided in regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when it is not operating as service in the Navy, unless such person is sooner discharged under such regulations because of personal hardship. Any part of such service that is not active duty or that is active duty for training shall be performed in a reserve component.
 
@@ -133,7 +133,7 @@ Memorandum of President of the United States, Mar. 23, 2018, 83 F.R. 13367, whic
 
 **(C)** in the case of an unrestricted officer designated within a cyberspace occupational specialty, the period of obligated service specified in the enlistment agreement of such officer.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 27; Pub. L. 85–861, §§ 1(12), 36B(3), Sept. 2, 1958, 72 Stat. 1440, 1570; Pub. L. 89–718, § 5, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 95–79, title VIII, § 803(a), July 30, 1977, 91 Stat. 333; Pub. L. 96–107, title VIII, § 805(b), Nov. 9, 1979, 93 Stat. 813; Pub. L. 96–513, title V, § 511(18), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 98–94, title X, § 1022(b)(1), Sept. 24, 1983, 97 Stat. 670; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title V, § 505, Jan. 28, 2008, 122 Stat. 96; Pub. L. 114–328, div. A, title X, § 1081(b)(1)(A)(iv), Dec. 23, 2016, 130 Stat. 2418; Pub. L. 116–92, div. A, title XVII, § 1731(a)(19), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 116–283, div. A, title IX, § 924(b)(17), Jan. 1, 2021, 134 Stat. 3823; Pub. L. 117–81, div. A, title X, § 1081(a)(11), Dec. 27, 2021, 135 Stat. 1920; Pub. L. 118–31, div. A, title V, § 509(a), Dec. 22, 2023, 137 Stat. 243.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 27; Pub. L. 85–861, §§ 1(12), 36B(3), Sept. 2, 1958, 72 Stat. 1440, 1570; Pub. L. 89–718, § 5, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 95–79, title VIII, § 803(a), July 30, 1977, 91 Stat. 333; Pub. L. 96–107, title VIII, § 805(b), Nov. 9, 1979, 93 Stat. 813; Pub. L. 96–513, title V, § 511(18), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 98–94, title X, § 1022(b)(1), Sept. 24, 1983, 97 Stat. 670; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title V, § 505, Jan. 28, 2008, 122 Stat. 96; Pub. L. 114–328, div. A, title X, § 1081(b)(1)(A)(iv), Dec. 23, 2016, 130 Stat. 2418; Pub. L. 116–92, div. A, title XVII, § 1731(a)(19), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 116–283, div. A, title IX, § 924(b)(17), Jan. 1, 2021, 134 Stat. 3823; Pub. L. 117–81, div. A, title X, § 1081(a)(11), Dec. 27, 2021, 135 Stat. 1920; Pub. L. 118–31, div. A, title V, § 509(a), Dec. 22, 2023, 137 Stat. 243.)
 
 **Historical and Revision Notes**
 
@@ -141,9 +141,9 @@ Memorandum of President of the United States, Mar. 23, 2018, 83 F.R. 13367, whic
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 651(a)         651(b)         651(c) | 50 App.:454(d)(3) (1st sentence, and less applicability to members of National Security Training Corps). 50 App.:454(d)(3) (2d sentence, and less applicability to members of National Security Training Corps). 50 App.:454(d)(3) (3d and last sentences). | June 24, 1948, ch. 625, § 4(d)(3) (less 4th sentence, and less applicability to members of National Security Training Corps); added June 19, 1951, ch. 144, § 1(g) (last par., less 4th sentence, and less applicability to members of National Security Training Corps), 65 Stat. 79; July 9, 1952, ch. 608, § 813, 66 Stat. 509. |
+| 651(a) 651(b) 651(c) | 50 App.:454(d)(3) (1st sentence, and less applicability to members of National Security Training Corps). 50 App.:454(d)(3) (2d sentence, and less applicability to members of National Security Training Corps). 50 App.:454(d)(3) (3d and last sentences). | June 24, 1948, ch. 625, § 4(d)(3) (less 4th sentence, and less applicability to members of National Security Training Corps); added June 19, 1951, ch. 144, § 1(g) (last par., less 4th sentence, and less applicability to members of National Security Training Corps), 65 Stat. 79; July 9, 1952, ch. 608, § 813, 66 Stat. 509. |
 
-In subsection (a), the word “male” is inserted, since the source statute (Universal Military Training and Service Act (50 U.S.C. App. 451 et seq.)) applies only to male persons. The words “subsequent to the date of enactment of this paragraph [June 19, 1951]” are omitted as executed. The words “becomes a member” are substituted for the words “is inducted, enlisted, or appointed \* \* \* in”. The words “in the armed forces” are substituted for the words “on active training and service in the Armed Forces \* \* \* and in a reserve component”. The last sentence is substituted for the words “or in training in the National Security Training Corps”. The words “under any provision of law” and “including the reserve components thereof” are omitted as surplusage.
+In subsection (a), the word “male” is inserted, since the source statute (Universal Military Training and Service Act (50 U.S.C. App. 451 et seq.)) applies only to male persons. The words “subsequent to the date of enactment of this paragraph [June 19, 1951]” are omitted as executed. The words “becomes a member” are substituted for the words “is inducted, enlisted, or appointed \* \* \* in”. The words “in the armed forces” are substituted for the words “on active training and service in the Armed Forces \* \* \* and in a reserve component”. The last sentence is substituted for the words “or in training in the National Security Training Corps”. The words “under any provision of law” and “including the reserve components thereof” are omitted as surplusage.
 
 In subsection (b), the words “who is not a Reserve” are inserted, since the eight year obligation for Reserves is covered by subsection (a). The words “active duty” are substituted for the words “active training and service”. The last eight words are substituted for the words “and shall serve therein for the remainder of the period which he is required to serve under this paragraph”. The words “physically and mentally” and 50 App.:454(d)(3) (last 15 words of 2d sentence) are omitted as surplusage.
 
@@ -153,17 +153,17 @@ In [former] subsection (c), the words “who is released from active duty” are
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 651(a) | 50 App.:454(d)(3) (2d sentence). | Aug. 9, 1955, ch. 665, § 3(a) (last sentence), 69 Stat. 603. |
+| 651(a) | 50 App.:454(d)(3) (2d sentence). | Aug. 9, 1955, ch. 665, § 3(a) (last sentence), 69 Stat. 603. |
 
-In subsection (a), the word “male” is inserted, since the source statute applies only to male persons. The words “subsequent to the date of enactment of the Reserve Forces Act of 1955” are omitted as executed. The words “becomes a member” are substituted for the words “is inducted, enlisted, or appointed . . . in”. The last sentence is substituted for the words “on active training and service . . . and in a reserve component”. The requirement of transfer to and service in a reserve component, after active training and service is covered by subsection (b) of this section. The words “under any provision of law” and “including the reserve components thereof” are omitted as surplusage.
+In subsection (a), the word “male” is inserted, since the source statute applies only to male persons. The words “subsequent to the date of enactment of the Reserve Forces Act of 1955” are omitted as executed. The words “becomes a member” are substituted for the words “is inducted, enlisted, or appointed . . . in”. The last sentence is substituted for the words “on active training and service . . . and in a reserve component”. The requirement of transfer to and service in a reserve component, after active training and service is covered by subsection (b) of this section. The words “under any provision of law” and “including the reserve components thereof” are omitted as surplusage.
 
 **Editorial Notes**
 
 **Amendments**
 
-2023—Subsec. (c)(1). Pub. L. 118–31, § 509(a)(1), inserted before period at end “or in the case of an unrestricted officer designated within a cyberspace occupational specialty”.
+2023—Subsec. (c)(1). Pub. L. 118–31, § 509(a)(1), inserted before period at end “or in the case of an unrestricted officer designated within a cyberspace occupational specialty”.
 
-Subsec. (c)(2)(C). Pub. L. 118–31, § 509(a)(2), added subpar. (C).
+Subsec. (c)(2)(C). Pub. L. 118–31, § 509(a)(2), added subpar. (C).
 
 2021—Subsec. (a). Pub. L. 117–81 inserted comma after “3806(d)(1))”.
 
@@ -187,9 +187,9 @@ Subsec. (b). Pub. L. 116–283 struck out “of his armed force” after “rese
 
 1966—Subsec. (a). Pub. L. 89–718 struck out reference to persons who enlisted under section 1013 of title 50 in the description of persons not required to serve in the armed forces for a total of six years.
 
-1958—Subsec. (a). Pub. L. 85–861, § 1(12), restricted section to male persons who became members of the armed forces after Aug. 9, 1955, excluded persons enlisted under section 1013 of Title 50 or deferred under the next to last sentence of section 456(d)(1) of Title 50, Appendix, reduced from eight to six years the required period of service, required any part of such service that is not active duty or is active duty for training to be performed in a reserve component, and struck out provisions which permitted members of the armed forces to count service in the National Security Training Corps as if it were service in the armed forces for the purposes of this subsection.
+1958—Subsec. (a). Pub. L. 85–861, § 1(12), restricted section to male persons who became members of the armed forces after Aug. 9, 1955, excluded persons enlisted under section 1013 of Title 50 or deferred under the next to last sentence of section 456(d)(1) of Title 50, Appendix, reduced from eight to six years the required period of service, required any part of such service that is not active duty or is active duty for training to be performed in a reserve component, and struck out provisions which permitted members of the armed forces to count service in the National Security Training Corps as if it were service in the armed forces for the purposes of this subsection.
 
-Subsec. (c). Pub. L. 85–861, § 36B(3), repealed subsec. (c) which required members released from active duty to become members of an organized unit of a reserve component of an officers’ training program.
+Subsec. (c). Pub. L. 85–861, § 36B(3), repealed subsec. (c) which required members released from active duty to become members of an organized unit of a reserve component of an officers’ training program.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -199,7 +199,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–94, title X, § 1022(b)(2), Sept. 24, 1983, 97 Stat. 671, provided that: “The amendment made by paragraph (1) [amending this section] shall apply only with respect to persons who enter the Armed Forces 60 or more days after the date of the enactment of this Act [Sept. 24, 1983].”
+Pub. L. 98–94, title X, § 1022(b)(2), Sept. 24, 1983, 97 Stat. 671, provided that: “The amendment made by paragraph (1) [amending this section] shall apply only with respect to persons who enter the Armed Forces 60 or more days after the date of the enactment of this Act [Sept. 24, 1983].”
 
 **Effective Date of 1980 Amendment**
 
@@ -211,9 +211,9 @@ Amendment by Pub. L. 96–107 applicable to individuals who become members of an
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–79, title VIII, § 803(b), July 30, 1977, 91 Stat. 333, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the first day of the seventh calendar month beginning after the month in which this Act is enacted [July 1977] and shall apply to any female person who becomes a member of an Armed Force on or after such day.”
+Pub. L. 95–79, title VIII, § 803(b), July 30, 1977, 91 Stat. 333, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the first day of the seventh calendar month beginning after the month in which this Act is enacted [July 1977] and shall apply to any female person who becomes a member of an Armed Force on or after such day.”
 
-## § 652. Notice to Congress of proposed changes in units, assignments, etc. to which female members may be assigned
+## § 652. Notice to Congress of proposed changes in units, assignments, etc. to which female members may be assigned
 
 **(a) Rule for Ground Combat Personnel Policy.—**
 
@@ -231,15 +231,15 @@ Pub. L. 95–79, title VIII, § 803(b), July 30, 1977, 91 Stat. 333, provided 
 
 **(A)** a detailed description of, and justification for, the proposed change; and
 
-**(B)** a detailed analysis of legal implication of the proposed change with respect to the constitutionality of the application of the Military Selective Service Act (50 App. U.S.C. 451 et seq.) 1
+**(B)** a detailed analysis of legal implication of the proposed change with respect to the constitutionality of the application of the Military Selective Service Act (50 App. U.S.C. 451 et seq.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 to males only.
 
 **(4)** In this subsection, the term “ground combat exclusion policy” means the military personnel policies of the Department of Defense and the military departments, as in effect on October 1, 1994, by which female members of the armed forces are restricted from assignment to units and positions below brigade level whose primary mission is to engage in direct combat on the ground.
 
-**[(5)** Repealed. Pub. L. 114–92, div. A, title V, § 524(a)(2), Nov. 25, 2015, 129 Stat. 813.]
+**[(5)** Repealed. Pub. L. 114–92, div. A, title V, § 524(a)(2), Nov. 25, 2015, 129 Stat. 813.]
 
 **(6)** For purposes of this subsection, a military career designator is one that is related to military operations on the ground as of May 18, 2005, and applies—
 
@@ -259,29 +259,29 @@ to males only.
 
 **(C)** Any type of combat platform.
 
-(Added Pub. L. 109–163, div. A, title V, § 541(a)(1), Jan. 6, 2006, 119 Stat. 3251; amended Pub. L. 114–92, div. A, title V, § 524, Nov. 25, 2015, 129 Stat. 813; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840.)
+(Added Pub. L. 109–163, div. A, title V, § 541(a)(1), Jan. 6, 2006, 119 Stat. 3251; amended Pub. L. 114–92, div. A, title V, § 524, Nov. 25, 2015, 129 Stat. 813; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Military Selective Service Act, referred to in subsec. (a)(3)(B), is act June 24, 1948, ch. 625, 62 Stat. 604, which was classified principally to section 451 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 49 (§ 3801 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The Military Selective Service Act, referred to in subsec. (a)(3)(B), is act June 24, 1948, ch. 625, 62 Stat. 604, which was classified principally to section 451 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 49 (§ 3801 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 **Prior Provisions**
 
-A prior section 652, added Pub. L. 95–485, title IV, § 405(d)(1), Oct. 20, 1978, 92 Stat. 1616, related to Ready Reserve requirement of notification of change of status, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(3)(A), 1691, Oct. 5, 1994, 108 Stat. 2980, 3026, effective Dec. 1, 1994. See section 10205 of this title.
+A prior section 652, added Pub. L. 95–485, title IV, § 405(d)(1), Oct. 20, 1978, 92 Stat. 1616, related to Ready Reserve requirement of notification of change of status, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(3)(A), 1691, Oct. 5, 1994, 108 Stat. 2980, 3026, effective Dec. 1, 1994. See section 10205 of this title.
 
-Provisions similar to those in this section were contained in Pub. L. 103–160, div. A, title V, § 542, Nov. 30, 1993, 107 Stat. 1659, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 109–163, § 541(c).
+Provisions similar to those in this section were contained in Pub. L. 103–160, div. A, title V, § 542, Nov. 30, 1993, 107 Stat. 1659, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 109–163, § 541(c).
 
 **Amendments**
 
 2018—Subsec. (b). Pub. L. 115–232 substituted “section 8225” for “section 6035”.
 
-2015—Subsec. (a)(1). Pub. L. 114–92, § 524(a)(1), substituted “not less than 30 calendar days before such change is implemented” for “before any such change is implemented” and struck out at end “Such a change may then be implemented only after the end of a period of 30 days of continuous session of Congress (excluding any day on which either House of Congress is not in session) following the date on which the report is received.”
+2015—Subsec. (a)(1). Pub. L. 114–92, § 524(a)(1), substituted “not less than 30 calendar days before such change is implemented” for “before any such change is implemented” and struck out at end “Such a change may then be implemented only after the end of a period of 30 days of continuous session of Congress (excluding any day on which either House of Congress is not in session) following the date on which the report is received.”
 
-Subsec. (a)(5). Pub. L. 114–92, § 524(a)(2), struck out par. (5) which read as follows: “For purposes of this subsection, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die.”
+Subsec. (a)(5). Pub. L. 114–92, § 524(a)(2), struck out par. (5) which read as follows: “For purposes of this subsection, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die.”
 
-Subsec. (b)(1). Pub. L. 114–92, § 524(b), inserted “calendar” before “days”.
+Subsec. (b)(1). Pub. L. 114–92, § 524(b), inserted “calendar” before “days”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -289,7 +289,7 @@ Subsec. (b)(1). Pub. L. 114–92, § 524(b), inserted “calendar” before �
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 653. Minimum service requirement for certain flight crew positions
+## § 653. Minimum service requirement for certain flight crew positions
 
 **(a) Pilots.—** The minimum service obligation of any member who successfully completes training in the armed forces as a pilot shall be 8 years, if the member is trained to fly fixed-wing jet aircraft, or 6 years, if the member is trained to fly any other type of aircraft.
 
@@ -303,29 +303,29 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(3)** completion of undergraduate training as a naval flight officer, in the case of training as a naval flight officer.
 
-(Added Pub. L. 101–189, div. A, title VI, § 634(a)(1), Nov. 29, 1989, 103 Stat. 1454; amended Pub. L. 101–510, div. A, title XIV, § 1484(k)(3), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–484, div. A, title V, § 506(a), Oct. 23, 1992, 106 Stat. 2404.)
+(Added Pub. L. 101–189, div. A, title VI, § 634(a)(1), Nov. 29, 1989, 103 Stat. 1454; amended Pub. L. 101–510, div. A, title XIV, § 1484(k)(3), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–484, div. A, title V, § 506(a), Oct. 23, 1992, 106 Stat. 2404.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Subsecs. (a), (b). Pub. L. 102–484, § 506(a)(1), substituted “service obligation” for “active duty obligation”.
+1992—Subsecs. (a), (b). Pub. L. 102–484, § 506(a)(1), substituted “service obligation” for “active duty obligation”.
 
-Subsec. (c). Pub. L. 102–484, § 506(a)(2), substituted “the term ‘service obligation’ means the period of active duty or, in the case of a member of a reserve component who completed flight training in an active duty for training status as a member of a reserve component, the period of service in an active status in the Selected Reserve” for “the term ‘active duty obligation’ means the period of active duty”.
+Subsec. (c). Pub. L. 102–484, § 506(a)(2), substituted “the term ‘service obligation’ means the period of active duty or, in the case of a member of a reserve component who completed flight training in an active duty for training status as a member of a reserve component, the period of service in an active status in the Selected Reserve” for “the term ‘active duty obligation’ means the period of active duty”.
 
-1990—Subsec. (a). Pub. L. 101–510, § 1484(k)(3)(A), substituted “or” for “and” before “6 years”.
+1990—Subsec. (a). Pub. L. 101–510, § 1484(k)(3)(A), substituted “or” for “and” before “6 years”.
 
-Subsec. (c). Pub. L. 101–510, § 1484(k)(3)(B), inserted a comma after first reference to “training” in pars. (1) and (2) and after first reference to “naval flight officer” in par. (3).
+Subsec. (c). Pub. L. 101–510, § 1484(k)(3)(B), inserted a comma after first reference to “training” in pars. (1) and (2) and after first reference to “naval flight officer” in par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–484, div. A, title V, § 506(b), Oct. 23, 1992, 106 Stat. 2405, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as of November 29, 1989.”
+Pub. L. 102–484, div. A, title V, § 506(b), Oct. 23, 1992, 106 Stat. 2405, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as of November 29, 1989.”
 
 **Effective Date**
 
-Pub. L. 101–189, div. A, title VI, § 634(b), Nov. 29, 1989, 103 Stat. 1454, provided that:
+Pub. L. 101–189, div. A, title VI, § 634(b), Nov. 29, 1989, 103 Stat. 1454, provided that:
 
 > **“(1)** Except as provided in paragraphs (2) and (3), section 653 of title 10, United States Code, as added by subsection (a)(1), shall apply to persons who begin undergraduate pilot training, undergraduate navigator training, or undergraduate naval flight officer training, as the case may be, after September 30, 1990.
 
@@ -337,19 +337,19 @@ Pub. L. 101–189, div. A, title VI, § 634(b), Nov. 29, 1989, 103 Stat. 1454,
 
 [For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.]
 
-## § 654. Minimum service requirement for certain cyberspace occupational specialties
+## § 654. Minimum service requirement for certain cyberspace occupational specialties
 
 **(a) Cyberspace Operations Officer.—** The minimum service obligation for any member who successfully completes training in the armed forces in direct accession to the cyberspace operations officer occupational specialty of the Marine Corps shall be eight years.
 
 **(b) Service Obligation Defined.—** In this section, the term “service obligation” means the period of active duty or, in the case of a member of a reserve component who completed cyberspace operations training in an active duty for training status as a member of a reserve component, the period of service in an active status in the Selected Reserve, required to be served after completion of cyberspace operations training.
 
-(Added Pub. L. 118–31, div. A, title V, § 509(b), Dec. 22, 2023, 137 Stat. 243.)
+(Added Pub. L. 118–31, div. A, title V, § 509(b), Dec. 22, 2023, 137 Stat. 243.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 654, added Pub. L. 103–160, div. A, title V, § 571(a)(1), Nov. 30, 1993, 107 Stat. 1670, related to policy concerning homosexuality in the armed forces, prior to repeal by Pub. L. 111–321, § 2(f)(1)(A), Dec. 22, 2010, 124 Stat. 3516.
+A prior section 654, added Pub. L. 103–160, div. A, title V, § 571(a)(1), Nov. 30, 1993, 107 Stat. 1670, related to policy concerning homosexuality in the armed forces, prior to repeal by Pub. L. 111–321, § 2(f)(1)(A), Dec. 22, 2010, 124 Stat. 3516.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -357,25 +357,25 @@ A prior section 654, added Pub. L. 103–160, div. A, title V, § 571(a)(1), N
 
 Pub. L. 111–321, Dec. 22, 2010, 124 Stat. 3515, repealed former section 654 of this title effective 60 days after the later of the Secretary of Defense receiving a report, which was released Nov. 30, 2010, and the President transmitting to the congressional defense committees a written certification, which was transmitted July 22, 2011.
 
-## § 655. Designation of persons having interest in status of a missing member
+## § 655. Designation of persons having interest in status of a missing member
 
 **(a)** The Secretary concerned shall, upon the enlistment or appointment of a person in the armed forces, require that the person specify in writing the person or persons, if any, other than that person’s primary next of kin or immediate family, to whom information on the whereabouts and status of the member shall be provided if such whereabouts and status are investigated under chapter 76 of this title. The Secretary shall periodically, and whenever the member is deployed as part of a contingency operation or in other circumstances specified by the Secretary, require that such designation be reconfirmed, or modified, by the member.
 
 **(b)** The Secretary concerned shall, upon the request of a member, permit the member to revise the person or persons specified by the member under subsection (a) at any time. Any such revision shall be in writing.
 
-(Added Pub. L. 104–106, div. A, title V, § 569(d)(1), Feb. 10, 1996, 110 Stat. 352.)
+(Added Pub. L. 104–106, div. A, title V, § 569(d)(1), Feb. 10, 1996, 110 Stat. 352.)
 
-## [§ 656. Repealed. Pub. L. 119–60, div. A, title IX, § 901(c), Dec. 18, 2025, 139 Stat. 1007]
+## [§ 656. Repealed. Pub. L. 119–60, div. A, title IX, § 901(c), Dec. 18, 2025, 139 Stat. 1007]
 
-Section, added Pub. L. 112–239, div. A, title V, § 519(a)(1), Jan. 2, 2013, 126 Stat. 1720; amended Pub. L. 116–283, div. A, title V, § 571(a)(1)–(3)(A), Jan. 1, 2021, 134 Stat. 3642, 3643, related to diversity in military leadership.
+Section, added Pub. L. 112–239, div. A, title V, § 519(a)(1), Jan. 2, 2013, 126 Stat. 1720; amended Pub. L. 116–283, div. A, title V, § 571(a)(1)–(3)(A), Jan. 1, 2021, 134 Stat. 3642, 3643, related to diversity in military leadership.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Strategic Plan for Diversity and Inclusion**
 
-Pub. L. 116–92, div. A, title V, § 529, Dec. 20, 2019, 133 Stat. 1358, required Secretary of Defense to design and implement five-year strategic plan for diversity and inclusion in Department of Defense, with implementation to begin not later than one year after Dec. 20, 2019.
+Pub. L. 116–92, div. A, title V, § 529, Dec. 20, 2019, 133 Stat. 1358, required Secretary of Defense to design and implement five-year strategic plan for diversity and inclusion in Department of Defense, with implementation to begin not later than one year after Dec. 20, 2019.
 
-## § 657. Prohibition on service in the armed forces by individuals convicted of certain sexual offenses
+## § 657. Prohibition on service in the armed forces by individuals convicted of certain sexual offenses
 
 **(a) Prohibition on Commissioning or Enlistment.—** A person who has been convicted of an offense specified in subsection (b) under Federal or State law may not be processed for commissioning or permitted to enlist in the armed forces.
 
@@ -389,9 +389,9 @@ Pub. L. 116–92, div. A, title V, § 529, Dec. 20, 2019, 133 Stat. 1358, requ
 
 **(4)** An attempt to commit an offense specified in paragraph (1) through (3), as punishable under applicable Federal or State law.
 
-(Added Pub. L. 113–66, div. A, title XVII, § 1711(a)(1), Dec. 26, 2013, 127 Stat. 962.)
+(Added Pub. L. 113–66, div. A, title XVII, § 1711(a)(1), Dec. 26, 2013, 127 Stat. 962.)
 
-## § 658. Medical accession standards for members of the armed forces
+## § 658. Medical accession standards for members of the armed forces
 
 **(a) Establishment of Standards.—**
 
@@ -417,4 +417,4 @@ Pub. L. 116–92, div. A, title V, § 529, Dec. 20, 2019, 133 Stat. 1358, requ
 
 **(2)** In any fiscal year in which the accession of a person into the Coast Guard is approved under the process established under subsection (b), the Secretary of the department in which the Coast Guard is operating shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report identifying the information required under paragraph (1)(B) with respect to such member.
 
-(Added Pub. L. 119–60, div. A, title V, § 533, Dec. 18, 2025, 139 Stat. 870.)
+(Added Pub. L. 119–60, div. A, title V, § 533, Dec. 18, 2025, 139 Stat. 870.)

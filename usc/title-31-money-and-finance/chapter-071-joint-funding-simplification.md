@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 71—JOINT FUNDING SIMPLIFICATION
 
-## § 7101. Purposes
+## § 7101. Purposes
 
 The purposes of this chapter are to—
 
@@ -31,13 +31,13 @@ The purposes of this chapter are to—
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7101 | 42:4251. | Dec. 5, 1974, Pub. L. 93–510, § 2, 88 Stat. 1604. |
+| 7101 | 42:4251. | Dec. 5, 1974, Pub. L. 93–510, § 2, 88 Stat. 1604. |
 
 In the chapter, the words “executive agency” are substituted for “Federal agency” because of the definition in section 102 of the revised title. The words “assistance program” are substituted for “Federal assistance programs” because of the definition in section 7102 of the revised title.
 
 In the section, the words “resources available from” and “It is the further purpose of this chapter” are omitted as unnecessary because of the restatement.
 
-## § 7102. Definitions
+## § 7102. Definitions
 
 In this chapter—
 
@@ -55,13 +55,13 @@ In this chapter—
 
 **(5)** “State” means a State of the United States, the District of Columbia, a territory or possession of the United States, an agency or instrumentality of a State, and a tribe as defined in section 3(c) of the Indian Financing Act of 1974 (25 U.S.C. 1452(c)).
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1035; Pub. L. 103–272, § 4(f)(1)(V), July 5, 1994, 108 Stat. 1363.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1035; Pub. L. 103–272, § 4(f)(1)(V), July 5, 1994, 108 Stat. 1363.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7102(1) | 42:4261(2), (4). | Dec. 5, 1974, Pub. L. 93–510, § 12, 88 Stat. 1608. |
+| 7102(1) | 42:4261(2), (4). | Dec. 5, 1974, Pub. L. 93–510, § 12, 88 Stat. 1608. |
 | 7102(2) | 42:4261(1). |  |
 | 7102(3) | 42:4261(6). |  |
 | 7102(4) | 42:4261(3). |  |
@@ -83,7 +83,7 @@ In clause (5), the words “any of the several” are omitted as unnecessary. Th
 
 1994—Par. (3). Pub. L. 103–272 substituted “political” for “politicial” after “other general purpose”.
 
-## § 7103. Authority of the President and heads of executive agencies
+## § 7103. Authority of the President and heads of executive agencies
 
 **(a)** The President shall prescribe necessary regulations to carry out section 7101 of this title and to ensure that this chapter is applied by all executive agencies consistently. The regulations may require executive agencies to adopt or prescribe procedures requiring applicants for assistance for a project to be jointly financed under this chapter to take steps to—
 
@@ -127,7 +127,7 @@ In clause (5), the words “any of the several” are omitted as unnecessary. Th
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7103(a) | 42:4252(a). | Dec. 5, 1974, Pub. L. 93–510, § 3, 88 Stat. 1604. |
+| 7103(a) | 42:4252(a). | Dec. 5, 1974, Pub. L. 93–510, § 3, 88 Stat. 1604. |
 | 7103(b) | 42:4252(b). |  |
 | 7103(c) | 42:4252(c). |  |
 
@@ -163,7 +163,7 @@ Sec. 6. This order shall be effective as of December 31, 1975.
 
 Gerald R. Ford.
 
-## § 7104. Processing project requests to be financed by at least 2 assistance programs
+## § 7104. Processing project requests to be financed by at least 2 assistance programs
 
 In processing an application or request for assistance for a project to be financed by at least 2 assistance programs, the head of an executive agency shall take action that will ensure that—
 
@@ -183,11 +183,11 @@ In processing an application or request for assistance for a project to be finan
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7104 | 42:4253. | Dec. 5, 1974, Pub. L. 93–510, § 4, 88 Stat. 1605. |
+| 7104 | 42:4253. | Dec. 5, 1974, Pub. L. 93–510, § 4, 88 Stat. 1605. |
 
 In the section, before clause (1), the words “for a project to be financed by at least 2 assistance programs” are substituted for “under two or more Federal programs in support of any project” for consistency in the revised chapter. The words “shall take action” are substituted for “Actions taken by Federal agency heads pursuant to this chapter that relate to”, and the words “that will ensure” are substituted for “shall be designed to assure”, to eliminate unnecessary words. The words “so far as reasonably possible” are omitted as surplus. In clause (4), the word “impediments” is omitted as surplus. The word “providing” is substituted for “Federal provision of”, and the words “joint assistance under the application” are substituted for “on a joint basis”, to eliminate unnecessary words. Clause (5) is substituted for 42:4253(5) because of the restatement.
 
-## § 7105. Prescribing uniform technical and administrative provisions
+## § 7105. Prescribing uniform technical and administrative provisions
 
 **(a)** To make participation in a project easier than would be possible because of varying or conflicting technical or administrative regulations and procedures not required by law, the head of an executive agency may prescribe uniform provisions about inconsistent or conflicting requirements on—
 
@@ -217,17 +217,17 @@ In the section, before clause (1), the words “for a project to be financed by 
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7105(a) | 42:4255(a). | Dec. 5, 1974, Pub. L. 93–510, § 6, 88 Stat. 1606. |
+| 7105(a) | 42:4255(a). | Dec. 5, 1974, Pub. L. 93–510, § 6, 88 Stat. 1606. |
 | 7105(b) | 42:4255(b). |  |
 | 7105(c) | 42:4255(c). |  |
 
 In subsection (a), before clause (1), the words “To make participation in a project easier than would be possible” are substituted for “In order to provide for projects” for clarity. The words “because of” are substituted for “that would otherwise be subject to” to eliminate unnecessary words. The word “prescribe” is substituted for “adopt”, and the word “about” is substituted for “with respect to”, for consistency in the revised title. In clause (2), the words “payments by the United States Government” are substituted for “Federal payments” for consistency in the revised title. In clause (3), the words “providing assistance by” are substituted for “that assistance be extended in the form of” to eliminate unnecessary words. The word “procurement” is added for consistency with chapter 63 of the revised title. In clause (4), the words “assistance from the Government” are substituted for “Federal assistance” for consistency.
 
-In subsection (b), the words “To make easier” are substituted for “In order to permit”, and the words “applications for assistance” are substituted for “applications in accordance with the purposes of this chapter”, for clarity. The words “where . . . are not” are substituted for “except when such review is” because of the restatement.
+In subsection (b), the words “To make easier” are substituted for “In order to permit”, and the words “applications for assistance” are substituted for “applications in accordance with the purposes of this chapter”, for clarity. The words “where . . . are not” are substituted for “except when such review is” because of the restatement.
 
 Subsection (c) is substituted for 42:4255(c) for consistency in subtitle V of the revised title.
 
-## § 7106. Delegation of supervision of assistance
+## § 7106. Delegation of supervision of assistance
 
 With the approval of the President, the head of an executive agency may delegate or otherwise arrange to have another executive agency carry out or supervise a project or class of projects jointly financed under this chapter. A delegation—
 
@@ -241,11 +241,11 @@ With the approval of the President, the head of an executive agency may delegate
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7106 | 42:4256. | Dec. 5, 1974, Pub. L. 93–510, § 7, 88 Stat. 1606. |
+| 7106 | 42:4256. | Dec. 5, 1974, Pub. L. 93–510, § 7, 88 Stat. 1606. |
 
 In the section, before clause (1), the words “to have another executive agency carry out or supervise” are substituted for “to other Federal agencies powers and functions relating to the supervision or administration” to eliminate unnecessary words. In clause (1), the words “under conditions ensuring” are substituted for “only on such conditions as may be appropriate to assure”, the word “consistent” is substituted for “in full conformity”, and the word “law” is substituted for “applicable statutory provisions and policies”, to eliminate unnecessary words. In clause (2), the words “for which the agency provides assistance” are substituted for “funded by their agencies”, for clarity because the source provisions do not provide for funding. The words “of Federal assistance”, “for other agencies to perform”, “such activities with respect to”, and “under this section” are omitted as unnecessary.
 
-## § 7107. Joint management funds
+## § 7107. Joint management funds
 
 **(a)** In supporting a project, a joint management fund may be established to administer more effectively amounts received from more than one assistance program or appropriation. A proportional share of the amount required to pay a grantee shall be transferred periodically to the fund from each program or appropriation. When a project is completed, the grantee shall return to the fund an amount not expended.
 
@@ -281,7 +281,7 @@ In the section, before clause (1), the words “to have another executive agency
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7107(a) | 42:4257(a). | Dec. 5, 1974, Pub. L. 93–510, § 8, 88 Stat. 1606. |
+| 7107(a) | 42:4257(a). | Dec. 5, 1974, Pub. L. 93–510, § 8, 88 Stat. 1606. |
 | 7107(b) | 42:4257(b). |  |
 | 7107(c) | 42:4257(c). |  |
 | 7107(d) | 42:4257(d). |  |
@@ -293,11 +293,11 @@ In subsection (b), before clause (1), the words “made by the heads of executiv
 
 In subsection (c), before clause (1), the words “established pursuant to this section” are omitted as unnecessary. The words “amount from” are substituted for “moneys drawn from” for consistency. The word “include” is substituted for “as a minimum, fully disclose” to eliminate unnecessary words. In clause (4), the words “to carry out” are added for clarity. The word “effective” is omitted as unnecessary.
 
-In subsection (d), the word “Records” is substituted for “books, documents, papers, and records”, and the words “shall be made available . . . for inspection and audit” are substituted for “shall have access for the purpose of audit and examination to”, to eliminate unnecessary words and for consistency in the revised title and with other titles of the United States Code. The word “related” is substituted for “that are pertinent”, and the words “an amount” are substituted for the word “money”, for consistency. The words “of the United States”, and “or any of their duly authorized representatives” are omitted as unnecessary.
+In subsection (d), the word “Records” is substituted for “books, documents, papers, and records”, and the words “shall be made available . . . for inspection and audit” are substituted for “shall have access for the purpose of audit and examination to”, to eliminate unnecessary words and for consistency in the revised title and with other titles of the United States Code. The word “related” is substituted for “that are pertinent”, and the words “an amount” are substituted for the word “money”, for consistency. The words “of the United States”, and “or any of their duly authorized representatives” are omitted as unnecessary.
 
 In subsection (e), the word “For” is substituted for “in the case of” to eliminate unnecessary words. The words “proportional shares” are substituted for “federal share ratios” for clarity.
 
-## § 7108. Limitation on authority under sections 7105–7107
+## § 7108. Limitation on authority under sections 7105–7107
 
 Under regulations prescribed by the President, the head of an executive agency may act under sections 7105–7107 of this title for a project assisted under at least 2 assistance programs. The regulations shall ensure that the head of an executive agency acts under those sections only—
 
@@ -313,11 +313,11 @@ Under regulations prescribed by the President, the head of an executive agency m
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7108 | 42:4254. | Dec. 5, 1974, Pub. L. 93–510, § 5, 88 Stat. 1605. |
+| 7108 | 42:4254. | Dec. 5, 1974, Pub. L. 93–510, § 5, 88 Stat. 1605. |
 
 In the section, the words “act under” are substituted for “use the authorities described in”, and the words “when necessary” are substituted for “that they are applied only as necessary”, to eliminate unnecessary words. The words “head of an executive agency acts under those sections only” are substituted for “the authorities are limited in use to” for clarity. The words “These authorities shall be exercised only”, “Where appropriate to further the purposes of this chapter, and subject to the conditions prescribed in this section”, “(relating to the establishment of uniform technical or administrative requirements, delegation of powers and responsibilities, and establishment of joint management funds)”, “include criteria or procedures to”, and “that they are applied”, are omitted as unnecessary because of the restatement.
 
-## § 7109. Appropriations available for joint financing
+## § 7109. Appropriations available for joint financing
 
 An appropriation available for technical assistance or personnel training under an assistance program is available for technical assistance and training for a project proposed or approved for joint financing involving the program and another assistance program.
 
@@ -327,11 +327,11 @@ An appropriation available for technical assistance or personnel training under 
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7109 | 42:4258. | Dec. 5, 1974, Pub. L. 93–510, § 9, 88 Stat. 1607. |
+| 7109 | 42:4258. | Dec. 5, 1974, Pub. L. 93–510, § 9, 88 Stat. 1607. |
 
 In this section, the words “the provision of” are omitted as surplus and the word “for” is substituted for “in connection with” for consistency.
 
-## § 7110. Use of joint financing provisions for Federal-State assisted projects
+## § 7110. Use of joint financing provisions for Federal-State assisted projects
 
 Under regulations prescribed by the President, the head of an executive agency may make an agreement with a State to extend the benefits of this chapter to a project involving assistance from at least one executive agency and at least one State agency. The agreement may include arrangements to process requests or administer assistance on a joint basis.
 
@@ -341,11 +341,11 @@ Under regulations prescribed by the President, the head of an executive agency m
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7110 | 42:4259. | Dec. 5, 1974, Pub. L. 93–510, § 10, 88 Stat. 1607. |
+| 7110 | 42:4259. | Dec. 5, 1974, Pub. L. 93–510, § 10, 88 Stat. 1607. |
 
 In this section, the words “as appropriate” are omitted as surplus. The words “to process requests or administer assistance” are substituted for “for the processing of requests for, or the administration of, assistance to such projects” to eliminate unnecessary words.
 
-## § 7111. Report to Congress
+## § 7111. Report to Congress
 
 By February 3, 1984, the President shall submit to Congress a report on actions taken under this chapter and make recommendations for its continuation, amendment, or termination. The report shall include a detailed evaluation of the operation of the chapter, including information on the benefits and costs of jointly financed projects that accrue to participating States, local governments, private nonprofit organizations, and the United States Government.
 
@@ -355,11 +355,11 @@ By February 3, 1984, the President shall submit to Congress a report on actions 
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7111 | 42:4260. | Dec. 5, 1974, Pub. L. 93–510, § 11, 88 Stat. 1608. |
+| 7111 | 42:4260. | Dec. 5, 1974, Pub. L. 93–510, § 11, 88 Stat. 1608. |
 
 The words “By February 3, 1984” are substituted for “at least one year prior to the expiration of this chapter” for clarity and to reflect the 5-year extension granted the joint funding simplification program by the Act of December 16, 1980 (Pub. L. 96–534, 94 Stat. 3164). The word “comprehensive” is omitted as unnecessary. The word “amendment” is substituted for “modification” for clarity. The word “include” is substituted for “provide”, and the word “operation” is substituted for “functioning”, for consistency in the chapter.
 
-## § 7112. Expiration date
+## § 7112. Expiration date
 
 This chapter expires on February 3, 1985.
 
@@ -369,4 +369,4 @@ This chapter expires on February 3, 1985.
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7112 | 42:4251(note). | Dec. 5, 1974, Pub. L. 93–510, § 13, 88 Stat. 1608; Dec. 16, 1980, Pub. L. 96–534, 94 Stat. 3164. |
+| 7112 | 42:4251(note). | Dec. 5, 1974, Pub. L. 93–510, § 13, 88 Stat. 1608; Dec. 16, 1980, Pub. L. 96–534, 94 Stat. 3164. |

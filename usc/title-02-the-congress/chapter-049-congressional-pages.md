@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL
 
-### § 4901. Congressional pages
+### § 4901. Congressional pages
 
 **(a) Appointment conditions** A person shall not be appointed as a page of the Senate or House of Representatives—
 
@@ -31,7 +31,7 @@ retrieved: 2026-10-11
 
 **(2)** of the House of Representatives before he has attained the age of sixteen years.
 
-(Pub. L. 91–510, title IV, § 491(a)–(d), Oct. 26, 1970, 84 Stat. 1198; Pub. L. 97–51, §§ 101(c), 123, Oct. 1, 1981, 95 Stat. 959, 965; Pub. L. 104–186, title II, § 204(36), Aug. 20, 1996, 110 Stat. 1735; Pub. L. 108–447, div. G, title I, § 9, Dec. 8, 2004, 118 Stat. 3170.)
+(Pub. L. 91–510, title IV, § 491(a)–(d), Oct. 26, 1970, 84 Stat. 1198; Pub. L. 97–51, §§ 101(c), 123, Oct. 1, 1981, 95 Stat. 959, 965; Pub. L. 104–186, title II, § 204(36), Aug. 20, 1996, 110 Stat. 1735; Pub. L. 108–447, div. G, title I, § 9, Dec. 8, 2004, 118 Stat. 3170.)
 
 **Editorial Notes**
 
@@ -45,9 +45,9 @@ Repeal of subsecs. (c) and (d) of this section is based on section 304(a) of H.R
 
 2004—Subsec. (b)(1). Pub. L. 108–447 substituted “sixteen” for “fourteen”.
 
-1996—Subsec. (a)(1). Pub. L. 104–186, § 204(36)(A), substituted “the period specified in writing at the time of the appointment” for “a period of not less than two months”.
+1996—Subsec. (a)(1). Pub. L. 104–186, § 204(36)(A), substituted “the period specified in writing at the time of the appointment” for “a period of not less than two months”.
 
-Subsec. (b). Pub. L. 104–186, § 204(36)(B), substituted a period for “; or” at end of par. (2) and struck out concluding provisions which read as follows: “(except in the case of a chief page, telephone page, or riding page) during any session of the Congress which begins after he has attained the age of eighteen years.”
+Subsec. (b). Pub. L. 104–186, § 204(36)(B), substituted a period for “; or” at end of par. (2) and struck out concluding provisions which read as follows: “(except in the case of a chief page, telephone page, or riding page) during any session of the Congress which begins after he has attained the age of eighteen years.”
 
 1981—Subsecs. (c), (d). Pub. L. 97–51 struck out subsecs. (c) and (d) which had provided, respectively, that pay of pages of the Senate began not more than five days before the convening or reconvening of a session of the Congress or of the Senate and continued until the end of the month during which the Congress or the Senate adjourned or recessed or until the fourteenth day after such adjournment or recess, whichever was the later date, except that, in any case in which the Congress or the Senate adjourned or recessed on or before the last day of July for a period of at least thirty days but not more than forty-five days, such pay would continue until the end of such period of adjournment or recess, and that the pay of pages of the House of Representatives began not more than five days before the convening of a session of the Congress and continued until the end of the month during which the Congress adjourned sine die or recessed or until the fourteenth day after such adjournment or recess, whichever was the later date, except that, in any case in which the House adjourned or recessed on or before the last day of July in any year for a period of at least thirty days but not more than forty-five days, such pay would continue until the end of such period of adjournment or recess.
 
@@ -57,7 +57,7 @@ Subsec. (b). Pub. L. 104–186, § 204(36)(B), substituted a period for “;�
 
 Subsecs. (a), (c), and (d) of this section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under section 4301 of this title.
 
-Pub. L. 91–510, title IV, § 491(f), Oct. 26, 1970, 84 Stat. 1198, provided that: “Subsection (b) of this section shall become effective on January 3, 1971, but the provisions of such subsection limiting service as a page to persons who have attained the age of sixteen years shall not be construed to prohibit the continued service of any page appointed prior to the date of enactment of this Act [Oct. 26, 1970].”
+Pub. L. 91–510, title IV, § 491(f), Oct. 26, 1970, 84 Stat. 1198, provided that: “Subsection (b) of this section shall become effective on January 3, 1971, but the provisions of such subsection limiting service as a page to persons who have attained the age of sixteen years shall not be construed to prohibit the continued service of any page appointed prior to the date of enactment of this Act [Oct. 26, 1970].”
 
 **Pay of Pages Between Recess or Adjournment**
 
@@ -65,13 +65,13 @@ Prior to the repeal of subsecs. (c) and (d) of section 88b–1 (now 4901) of thi
 
 Pub. L. 97–12, title I, June 5, 1981, 95 Stat. 65.
 
-Pub. L. 96–536, § 101(c), Dec. 16, 1980, 94 Stat. 3167.
+Pub. L. 96–536, § 101(c), Dec. 16, 1980, 94 Stat. 3167.
 
-Pub. L. 96–38, title III, § 303, July 25, 1979, 93 Stat. 142. Subsequently repealed by Pub. L. 97–51, §§ 101(c), 123, Oct. 1, 1981, 95 Stat. 965.
+Pub. L. 96–38, title III, § 303, July 25, 1979, 93 Stat. 142. Subsequently repealed by Pub. L. 97–51, §§ 101(c), 123, Oct. 1, 1981, 95 Stat. 965.
 
-Pub. L. 95–391, title III, § 305, Sept. 30, 1978, 92 Stat. 789.
+Pub. L. 95–391, title III, § 305, Sept. 30, 1978, 92 Stat. 789.
 
-### § 4902. John W. McCormack Residential Page School
+### § 4902. John W. McCormack Residential Page School
 
 **(a) Construction authorization for dormitory and classroom facilities complex**
 
@@ -115,19 +115,19 @@ Such officers, subject to the approval of the Speaker and the President pro temp
 
 Nothing in this part shall affect the operation of section 4903 of this title, relating to educational facilities of pages and other minors who are congressional employees.
 
-(Pub. L. 91–510, title IV, § 492, Oct. 26, 1970, 84 Stat. 1199; Pub. L. 93–198, title IV, § 421, Dec. 24, 1973, 87 Stat. 789; Pub. L. 104–186, title II, § 204(34)(C), Aug. 20, 1996, 110 Stat. 1734.)
+(Pub. L. 91–510, title IV, § 492, Oct. 26, 1970, 84 Stat. 1199; Pub. L. 93–198, title IV, § 421, Dec. 24, 1973, 87 Stat. 789; Pub. L. 104–186, title II, § 204(34)(C), Aug. 20, 1996, 110 Stat. 1734.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40, referred to in subsec. (f), was in the original a reference to the Act entitled “An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes”, approved July 31, 1946, which is act July 31, 1946, ch. 707, 60 Stat. 718. Sections 9, 9A, 9B, 9C, and 14 of the Act are classified, respectively, to sections 1961, 1966, 1967, 1922, and 1969 of this title, and section 16(b) of the Act is set out as a note under section 1961 of this title. Sections 1 to 8, 10 to 13, and 16(a) of the Act, which were classified to sections 193a to 193m of former Title 40, Public Buildings, Property, and Works, were repealed and reenacted as sections 5101 to 5107 and 5109 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1312, the first section of which enacted Title 40. Section 5(c) of Pub. L. 107–217, set out as a note preceding section 101 of Title 40, provides that a reference to a law replaced by section 1 of Pub. L. 107–217 is deemed to refer to the corresponding provision enacted by Pub. L. 107–217. For complete classification of the act of July 31, 1946, to the Code, see Tables. For disposition of sections of former Title 40, see table at the beginning of Title 40.
+Sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40, referred to in subsec. (f), was in the original a reference to the Act entitled “An Act to define the area of the United States Capitol Grounds, to regulate the use thereof, and for other purposes”, approved July 31, 1946, which is act July 31, 1946, ch. 707, 60 Stat. 718. Sections 9, 9A, 9B, 9C, and 14 of the Act are classified, respectively, to sections 1961, 1966, 1967, 1922, and 1969 of this title, and section 16(b) of the Act is set out as a note under section 1961 of this title. Sections 1 to 8, 10 to 13, and 16(a) of the Act, which were classified to sections 193a to 193m of former Title 40, Public Buildings, Property, and Works, were repealed and reenacted as sections 5101 to 5107 and 5109 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1312, the first section of which enacted Title 40. Section 5(c) of Pub. L. 107–217, set out as a note preceding section 101 of Title 40, provides that a reference to a law replaced by section 1 of Pub. L. 107–217 is deemed to refer to the corresponding provision enacted by Pub. L. 107–217. For complete classification of the act of July 31, 1946, to the Code, see Tables. For disposition of sections of former Title 40, see table at the beginning of Title 40.
 
 This part, referred to in subsec. (i), means part 9 of title IV of Pub. L. 91–510, Oct. 26, 1970, 84 Stat. 1199, which enacted this section and section 4901 of this title, repealed section 88c of this title, and enacted provisions set out as a note under section 4901 of this title.
 
 **Codification**
 
-Section was formerly classified to section 2161 of this title prior to editorial reclassification and renumbering as this section, and to section 184a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+Section was formerly classified to section 2161 of this title prior to editorial reclassification and renumbering as this section, and to section 184a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 **Amendments**
 
@@ -141,17 +141,17 @@ Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) 
 
 **Transfer of Functions**
 
-Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, § 711, Dec. 24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198. Accordingly, “Mayor” substituted in subsec. (e) for “commissioners”.
+Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, § 711, Dec. 24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198. Accordingly, “Mayor” substituted in subsec. (e) for “commissioners”.
 
 **Acquisition of Property as Site for John W. McCormack Residential Page School**
 
 Pub. L. 92–607, ch. V, Oct. 31, 1972, 86 Stat. 1512, authorized Architect of the Capitol to acquire certain specified real estate for use as a green park area pending its development for permanent use as site of John W. McCormack Residential Page School.
 
-### § 4903. Education of other minors who are Senate employees
+### § 4903. Education of other minors who are Senate employees
 
 The facilities provided for the education of Congressional and Supreme Court pages shall be available from and after January 2, 1947, also for the education of such other minors who are Senate employees as may be certified by the Secretary of the Senate to receive such education.
 
-(Mar. 22, 1947, ch. 20, title I, 61 Stat. 16; Pub. L. 98–367, title I, § 103, July 17, 1984, 98 Stat. 479; Pub. L. 104–186, title II, § 204(35), Aug. 20, 1996, 110 Stat. 1735.)
+(Mar. 22, 1947, ch. 20, title I, 61 Stat. 16; Pub. L. 98–367, title I, § 103, July 17, 1984, 98 Stat. 479; Pub. L. 104–186, title II, § 204(35), Aug. 20, 1996, 110 Stat. 1735.)
 
 **Editorial Notes**
 
@@ -169,13 +169,13 @@ The second paragraph was based on H. Res. No. 279, Ninety-eighth Congress, July 
 
 ## SUBCHAPTER II—HOUSE OF REPRESENTATIVES
 
-### § 4911. House of Representatives Page Board; establishment and purpose
+### § 4911. House of Representatives Page Board; establishment and purpose
 
 **(a)** Until otherwise provided by law, there is hereby established a board to be known as the House of Representatives Page Board to ensure that the page program is conducted in a manner that is consistent with the efficient functioning of the House and the welfare of the pages.
 
 **(b)** The Page Board shall meet regularly, in accordance with a schedule established jointly by the Speaker and minority leader of the House of Representatives.
 
-(Pub. L. 97–377, title I, § 127, Dec. 21, 1982, 96 Stat. 1914; Pub. L. 110–2, § 3, Feb. 2, 2007, 121 Stat. 5.)
+(Pub. L. 97–377, title I, § 127, Dec. 21, 1982, 96 Stat. 1914; Pub. L. 110–2, § 3, Feb. 2, 2007, 121 Stat. 5.)
 
 **Editorial Notes**
 
@@ -193,13 +193,13 @@ Section is based on section 1 of House Resolution No. 611, Ninety-seventh Congre
 
 **Effective Date of 2007 Amendment**
 
-Pub. L. 110–2, § 4, Feb. 2, 2007, 121 Stat. 5, provided that: “The amendments made by this Act [amending this section and section 4912 of this title] shall apply with respect to the portion of the One Hundred Tenth Congress which begins after the date of the enactment of this Act [Feb. 2, 2007] and each succeeding Congress.”
+Pub. L. 110–2, § 4, Feb. 2, 2007, 121 Stat. 5, provided that: “The amendments made by this Act [amending this section and section 4912 of this title] shall apply with respect to the portion of the One Hundred Tenth Congress which begins after the date of the enactment of this Act [Feb. 2, 2007] and each succeeding Congress.”
 
 **Short Title of 2007 Amendment**
 
-Pub. L . 110–2, § 1, Feb. 2, 2007, 121 Stat. 4, provided that: “This Act [see Tables for classification] may be cited as the ‘House Page Board Revision Act of 2007’.”
+Pub. L . 110–2, § 1, Feb. 2, 2007, 121 Stat. 4, provided that: “This Act [see Tables for classification] may be cited as the ‘House Page Board Revision Act of 2007’.”
 
-### § 4912. Membership of Page Board
+### § 4912. Membership of Page Board
 
 **(a) Appointed and designated members** The Page Board shall consist of—
 
@@ -225,7 +225,7 @@ Pub. L . 110–2, § 1, Feb. 2, 2007, 121 Stat. 4, provided that: “This Act 
 
 As used in sections 4911 to 4913 of this title, the term “Member of the House” means a Representative in, and a Delegate or Resident Commissioner to, the Congress.
 
-(Pub. L. 97–377, title I, § 127, Dec. 21, 1982, 96 Stat. 1914; Pub. L. 104–186, title II, § 204(37), Aug. 20, 1996, 110 Stat. 1735; Pub. L. 105–275, title I, § 101(a), Oct. 21, 1998, 112 Stat. 2438; Pub. L. 110–2, § 2, Feb. 2, 2007, 121 Stat. 4.)
+(Pub. L. 97–377, title I, § 127, Dec. 21, 1982, 96 Stat. 1914; Pub. L. 104–186, title II, § 204(37), Aug. 20, 1996, 110 Stat. 1735; Pub. L. 105–275, title I, § 101(a), Oct. 21, 1998, 112 Stat. 2438; Pub. L. 110–2, § 2, Feb. 2, 2007, 121 Stat. 4.)
 
 **Editorial Notes**
 
@@ -237,13 +237,13 @@ Section is based on section 2 of House Resolution No. 611, Ninety-seventh Congre
 
 **Amendments**
 
-2007—Subsec. (a)(1). Pub. L. 110–2, § 2(a)(1), substituted “and two Members” for “and one Member”.
+2007—Subsec. (a)(1). Pub. L. 110–2, § 2(a)(1), substituted “and two Members” for “and one Member”.
 
-Subsec. (a)(2) to (4). Pub. L. 110–2, § 2(a)(2)–(4), added pars. (2) and (3) and redesignated former par. (2) as (4).
+Subsec. (a)(2) to (4). Pub. L. 110–2, § 2(a)(2)–(4), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
-Subsecs. (b), (c). Pub. L. 110–2, § 2(b), added subsec. (b) and redesignated former subsec. (b) as (c).
+Subsecs. (b), (c). Pub. L. 110–2, § 2(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1998—Subsec. (a)(3). Pub. L. 105–275 inserted “and” at end of par. (1), substituted a period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “the Architect of the Capitol.”
+1998—Subsec. (a)(3). Pub. L. 105–275 inserted “and” at end of par. (1), substituted a period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “the Architect of the Capitol.”
 
 1996—Subsec. (a)(2). Pub. L. 104–186 substituted “Clerk and the Sergeant” for “Clerk, Doorkeeper, and Sergeant”.
 
@@ -255,13 +255,13 @@ Amendment by Pub. L. 110–2 applicable with respect to the portion of the One H
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–275, title I, § 101(b), Oct. 21, 1998, 112 Stat. 2438, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to the One Hundred Sixth Congress and each succeeding Congress.”
+Pub. L. 105–275, title I, § 101(b), Oct. 21, 1998, 112 Stat. 2438, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to the One Hundred Sixth Congress and each succeeding Congress.”
 
-### § 4913. Regulations of Page Board
+### § 4913. Regulations of Page Board
 
 The Page Board shall have authority to prescribe such regulations as may be necessary to carry out sections 4911 to 4913 of this title.
 
-(Pub. L. 97–377, title I, § 127, Dec. 21, 1982, 96 Stat. 1914.)
+(Pub. L. 97–377, title I, § 127, Dec. 21, 1982, 96 Stat. 1914.)
 
 **Editorial Notes**
 
@@ -271,11 +271,11 @@ Section was formerly classified to section 88b–4 of this title prior to editor
 
 Section is based on section 3 of House Resolution No. 611, Ninety-seventh Congress, Nov. 30, 1982, which was enacted into permanent law by Pub. L. 97–377.
 
-### § 4914. Academic year and summer term for page program
+### § 4914. Academic year and summer term for page program
 
 The page program shall consist of the two semesters of the academic year, plus a non-academic summer term.
 
-(Pub. L. 98–367, title I, § 103, July 17, 1984, 98 Stat. 479; Pub. L. 104–186, title II, § 204(40)(B), Aug. 20, 1996, 110 Stat. 1736.)
+(Pub. L. 98–367, title I, § 103, July 17, 1984, 98 Stat. 479; Pub. L. 104–186, title II, § 204(40)(B), Aug. 20, 1996, 110 Stat. 1736.)
 
 **Editorial Notes**
 
@@ -293,9 +293,9 @@ Section is based on section 2 of House Resolution No. 234, Ninety-eighth Congres
 
 **Effective Date**
 
-Section 5 of House Resolution No. 234, Ninety-eighth Congress, June 29, 1983, as enacted into permanent law by Pub. L. 98–367, title I, § 103, July 17, 1984, 98 Stat. 479, provided that: “This resolution [enacting this section, sections 4915 and 4916, and former section 88c–1 of this title] shall take effect on the date on which this resolution is agreed to [June 29, 1983], except that section 3(a)(1)(A) and section 3(b)(2) [section 4915(a)(1)(A), (b)(2) of this title] shall apply to terms beginning after November 30, 1983.”
+Section 5 of House Resolution No. 234, Ninety-eighth Congress, June 29, 1983, as enacted into permanent law by Pub. L. 98–367, title I, § 103, July 17, 1984, 98 Stat. 479, provided that: “This resolution [enacting this section, sections 4915 and 4916, and former section 88c–1 of this title] shall take effect on the date on which this resolution is agreed to [June 29, 1983], except that section 3(a)(1)(A) and section 3(b)(2) [section 4915(a)(1)(A), (b)(2) of this title] shall apply to terms beginning after November 30, 1983.”
 
-### § 4915. Service of page during academic year and summer term; filling of vacancies; eligibility
+### § 4915. Service of page during academic year and summer term; filling of vacancies; eligibility
 
 **(a)**
 
@@ -317,7 +317,7 @@ Section 5 of House Resolution No. 234, Ninety-eighth Congress, June 29, 1983, as
 
 **(2)** An individual who has served as a congressional page at any time during each of any three semesters or terms, as the case may be, shall not be eligible to serve as a page.
 
-(Pub. L. 98–367, title I, § 103, July 17, 1984, 98 Stat. 479; Pub. L. 104–186, title II, § 204(40)(C)–(E), Aug. 20, 1996, 110 Stat. 1736.)
+(Pub. L. 98–367, title I, § 103, July 17, 1984, 98 Stat. 479; Pub. L. 104–186, title II, § 204(40)(C)–(E), Aug. 20, 1996, 110 Stat. 1736.)
 
 **Editorial Notes**
 
@@ -329,11 +329,11 @@ Section is based on section 3 of House Resolution No. 234, Ninety-eighth Congres
 
 **Amendments**
 
-1996—Subsec. (a)(1)(B). Pub. L. 104–186, § 204(40)(C), substituted “semester or two full semesters” for “term or two full terms”.
+1996—Subsec. (a)(1)(B). Pub. L. 104–186, § 204(40)(C), substituted “semester or two full semesters” for “term or two full terms”.
 
-Subsec. (b)(1). Pub. L. 104–186, § 204(40)(D), substituted “except that no appointment may be made under this paragraph for service to begin on or after October 1 with respect to the first semester or on or after March 1 with respect to the second semester” for “but no appointment to fill that vacancy shall be for a period of less than two months”.
+Subsec. (b)(1). Pub. L. 104–186, § 204(40)(D), substituted “except that no appointment may be made under this paragraph for service to begin on or after October 1 with respect to the first semester or on or after March 1 with respect to the second semester” for “but no appointment to fill that vacancy shall be for a period of less than two months”.
 
-Subsec. (b)(2). Pub. L. 104–186, § 204(40)(E), substituted “semesters or terms, as the case may be,” for “terms”.
+Subsec. (b)(2). Pub. L. 104–186, § 204(40)(E), substituted “semesters or terms, as the case may be,” for “terms”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -341,7 +341,7 @@ Subsec. (b)(2). Pub. L. 104–186, § 204(40)(E), substituted “semesters or 
 
 Section effective June 29, 1983, except that subsecs. (a)(1)(A) and (b)(2) applicable to terms beginning after Nov. 30, 1983, see note set out under section 4914 of this title.
 
-### § 4916. Definitions
+### § 4916. Definitions
 
 As used in sections 4914 to 4916 of this title, the term—
 
@@ -351,7 +351,7 @@ As used in sections 4914 to 4916 of this title, the term—
 
 **(3)** “congressional page” means a page of the House of Representatives or the Senate.
 
-(Pub. L. 98–367, title I, § 103, July 17, 1984, 98 Stat. 479; Pub. L. 104–186, title II, § 204(40)(F), Aug. 20, 1996, 110 Stat. 1736.)
+(Pub. L. 98–367, title I, § 103, July 17, 1984, 98 Stat. 479; Pub. L. 104–186, title II, § 204(40)(F), Aug. 20, 1996, 110 Stat. 1736.)
 
 **Editorial Notes**
 
@@ -371,7 +371,7 @@ Section is based on section 4 of House Resolution No. 234, Ninety-eighth Congres
 
 Section effective June 29, 1983, see note set out under section 4914 of this title.
 
-### § 4917. Page residence hall and page meal plan
+### § 4917. Page residence hall and page meal plan
 
 **(a) Revolving fund; establishment within House contingent fund**
 
@@ -385,7 +385,7 @@ There shall be deposited in the revolving fund such amounts as may be received b
 
 The House of Representatives Page Board shall prescribe such regulations as may be necessary to carry out this section.
 
-(Pub. L. 98–51, title I, § 110, July 14, 1983, 97 Stat. 269; Pub. L. 104–186, title II, § 204(38), Aug. 20, 1996, 110 Stat. 1735.)
+(Pub. L. 98–51, title I, § 110, July 14, 1983, 97 Stat. 269; Pub. L. 104–186, title II, § 204(38), Aug. 20, 1996, 110 Stat. 1735.)
 
 **Editorial Notes**
 
@@ -403,13 +403,13 @@ Sections 1 to 4 of House Resolution No. 64 have been redesignated subsecs. (a) t
 
 **Amendments**
 
-1996—Subsec. (b). Pub. L. 104–186, § 204(38)(A), (B), substituted “Chief Administrative Officer of the House of Representatives” for “Clerk” in first sentence and “Chief Administrative Officer of the House of Representatives, as determined by the Clerk of the House of Representatives,” for “Clerk” in second sentence.
+1996—Subsec. (b). Pub. L. 104–186, § 204(38)(A), (B), substituted “Chief Administrative Officer of the House of Representatives” for “Clerk” in first sentence and “Chief Administrative Officer of the House of Representatives, as determined by the Clerk of the House of Representatives,” for “Clerk” in second sentence.
 
-Subsecs. (c), (d). Pub. L. 104–186, § 204(38)(C), (D), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “As used in this section, the term ‘Clerk’ means the Clerk of the House of Representatives.”
+Subsecs. (c), (d). Pub. L. 104–186, § 204(38)(C), (D), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “As used in this section, the term ‘Clerk’ means the Clerk of the House of Representatives.”
 
 ## SUBCHAPTER III—SENATE
 
-### § 4931. Daniel Webster Senate Page Residence Revolving Fund
+### § 4931. Daniel Webster Senate Page Residence Revolving Fund
 
 **(a) Establishment**
 
@@ -427,7 +427,7 @@ Disbursements from the fund shall be made upon vouchers approved by the Sergeant
 
 The Sergeant at Arms is authorized to prescribe such regulations as may be necessary to carry out the provisions of this section and to provide for the operations of the Daniel Webster Senate Page Residence.
 
-(Pub. L. 103–283, title I, § 4, July 22, 1994, 108 Stat. 1427; Pub. L. 104–53, title I, § 6, Nov. 19, 1995, 109 Stat. 518.)
+(Pub. L. 103–283, title I, § 4, July 22, 1994, 108 Stat. 1427; Pub. L. 104–53, title I, § 6, Nov. 19, 1995, 109 Stat. 518.)
 
 **Editorial Notes**
 

@@ -15,45 +15,45 @@ retrieved: 2026-10-11
 
 # CHAPTER 8—FALSELY STAMPED GOLD OR SILVER OR GOODS MANUFACTURED THEREFROM
 
-## § 291. Stamping with words “United States assay”, etc., unlawful
+## § 291. Stamping with words “United States assay”, etc., unlawful
 
 It shall be unlawful for any person, partnership, association, or corporation engaged in commerce among the several States, Territories, District of Columbia, and possessions of the United States, or with any foreign country, to stamp any gold, silver, or goods manufactured therefrom, and which are intended and used in such commerce, with the words “United States assay”, or with any words, phrases, or devices calculated to convey the impression that the United States Government has certified to the fineness or quality of such gold or silver, or of the gold or silver contained in any of the goods manufactured therefrom. Each and every such stamp shall constitute a separate offense.
 
-(Feb. 21, 1905, ch. 720, § 1, 33 Stat. 732.)
+(Feb. 21, 1905, ch. 720, § 1, 33 Stat. 732.)
 
-## § 292. Forfeiture
+## § 292. Forfeiture
 
 Any gold, silver, or goods manufactured therefrom after February 21, 1905, bearing any of the stamps, words, phrases, or devices prohibited to be used under section 291 of this title, and being in the course of transportation from one State to another, or to or from a Territory, the District of Columbia, or possessions of the United States, shall be forfeited to the United States, and may be seized and condemned by like proceedings as those provided by law for the forfeiture, seizure, and condemnation of property imported into the United States contrary to law.
 
-(Feb. 21, 1905, ch. 720, § 3, 33 Stat. 732.)
+(Feb. 21, 1905, ch. 720, § 3, 33 Stat. 732.)
 
-## § 293. Penalty for infraction
+## § 293. Penalty for infraction
 
 Every person, partnership, association, or corporation violating the provisions of sections 291 to 293 of this title, and every officer, director, or managing agent of such partnership, association, or corporation having knowledge of such violation and directly participating in such violation or consenting thereto, shall be deemed guilty of a misdemeanor, and, upon conviction, be punished with a fine of not more than $5,000 or imprisonment for not more than one year, or both, at the discretion of the court.
 
-(Feb. 21, 1905, ch. 720, § 2, 33 Stat. 732.)
+(Feb. 21, 1905, ch. 720, § 2, 33 Stat. 732.)
 
-## § 294. Importation or transportation of falsely marked gold or silver ware prohibited
+## § 294. Importation or transportation of falsely marked gold or silver ware prohibited
 
 It shall be unlawful for any person, firm, corporation, or association, being a manufacturer of or wholesale or retail dealer in gold or silver jewelry or gold ware, silver goods or silverware, or for any officer, manager, director, or agent of such firm, corporation, or association to import or export or cause to be imported into or exported from the United States for the purpose of selling or disposing of the same, or to deposit or cause to be deposited in the United States mails for transmission thereby, or to deliver or cause to be delivered to any common carrier for transportation from one State, Territory, or possession of the United States, or the District of Columbia, to any other State, Territory, or possession of the United States, or to said District, in interstate commerce, or to transport or cause to be transported from one State, Territory, or possession of the United States, or from the District of Columbia, to any other State, Territory, or possession of the United States, or to said District, in interstate commerce, any article of merchandise manufactured after June 13, 1907, and made in whole or in part of gold or silver, or any alloy of either of said metals, and having stamped, branded, engraved, or printed thereon, or upon any tag, card, or label attached thereto, or upon any box, package, cover, or wrapper in which said article is incased or inclosed, any mark or word indicating or designed or intended to indicate that the gold or silver or alloy of either of said metals in such article is of a greater degree of fineness than the actual fineness or quality of such gold, silver, or alloy, according to the standards and subject to the qualifications set forth in sections 295 and 296 of this title.
 
-(June 13, 1906, ch. 3289, § 1, 34 Stat. 260.)
+(June 13, 1906, ch. 3289, § 1, 34 Stat. 260.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1976 Amendment**
 
-Pub. L. 94–450, § 1, Oct. 1, 1976, 90 Stat. 1501, provided: “That this Act [amending section 295 of this title and enacting provisions set out as a note under section 295 of this title] may be cited as the ‘Gold Labeling Act of 1976’.”
+Pub. L. 94–450, § 1, Oct. 1, 1976, 90 Stat. 1501, provided: “That this Act [amending section 295 of this title and enacting provisions set out as a note under section 295 of this title] may be cited as the ‘Gold Labeling Act of 1976’.”
 
 **Short Title**
 
 Act June 13, 1906, ch. 3289, which enacted this section and sections 295 to 300 of this title, is popularly known as the “Jewelers’ Liability Act (Gold and Silver Articles)” and also as the “National Gold and Silver Stamping Act of 1906”.
 
-## § 295. Standard of fineness of gold articles; deviation
+## § 295. Standard of fineness of gold articles; deviation
 
 In the case of articles of merchandise made in whole or in part of gold or of any of its alloys so imported into or exported from the United States, or so deposited in the United States mails for transmission, or so delivered for transportation to any common carrier, or so transported or caused to be transported as specified in section 294 of this title, the actual fineness of such gold or alloy shall not be less by more than three one-thousandth parts than the fineness indicated by the mark stamped, branded, engraved, or printed upon any part of such article, or upon any tag, card, or label attached thereto, or upon any box, package, cover, or wrapper in which such article is incased or inclosed: *Provided*, That in any test for the ascertainment of the fineness of any article mentioned in this section, according to the foregoing standards, the part of the article taken for the test, analysis, or assay shall be such part or portion as does not contain or have attached thereto any solder or alloy of inferior fineness used for brazing or uniting the parts of said article: *Provided further*, That, in addition to the foregoing tests and standards, the actual fineness of the entire quantity of gold or of its alloys contained in an article mentioned in this section, including all solder and alloy of inferior fineness used for brazing or uniting the parts of such article (all such gold, alloys, and solder being assayed as one piece), shall not be less by more than three one-thousandth parts, in the case of a watchcase or flatware, or than seven one-thousandth parts, in the case of any other such article, than the fineness indicated by the mark stamped, branded, engraved, or imprinted upon such article, or upon any tag, card, or label attached thereto, or upon any box, package, cover, or wrapper in which such article is incased or inclosed, it being intended that the standards of fineness and the tests or methods for ascertaining the same provided in this section for articles mentioned therein shall be concurrent and not alternative.
 
-(June 13, 1906, ch. 3289, § 2, 34 Stat. 260; Pub. L. 94–450, § 2, Oct. 1, 1976, 90 Stat. 1501.)
+(June 13, 1906, ch. 3289, § 2, 34 Stat. 260; Pub. L. 94–450, § 2, Oct. 1, 1976, 90 Stat. 1501.)
 
 **Editorial Notes**
 
@@ -65,15 +65,15 @@ In the case of articles of merchandise made in whole or in part of gold or of an
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–450, § 3, Oct. 1, 1976, 90 Stat. 1501, provided that: “The amendments made by section 2 of this Act [amending this section] shall take effect five years after the date of enactment of this Act [Oct. 1, 1976] and shall not apply with respect to any article of merchandise which is sold by any manufacturer or importer before the effective date of such amendments.”
+Pub. L. 94–450, § 3, Oct. 1, 1976, 90 Stat. 1501, provided that: “The amendments made by section 2 of this Act [amending this section] shall take effect five years after the date of enactment of this Act [Oct. 1, 1976] and shall not apply with respect to any article of merchandise which is sold by any manufacturer or importer before the effective date of such amendments.”
 
-## § 296. Standard of fineness of silver articles; deviation
+## § 296. Standard of fineness of silver articles; deviation
 
 In the case of articles of merchandise made in whole or in part of silver or any of its alloys so imported into or exported from the United States, or so deposited in the United States mails for transmission, or so delivered for transportation to any common carrier, or so transported or caused to be transported as specified in section 294 of this title, the actual fineness of the silver or alloy thereof of which such article is wholly or partly composed shall not be less by more than four one-thousandth parts than the actual fineness indicated by any mark (other than the word “sterling” or the word “coin”) stamped, branded, engraved, or printed upon any part of such article, or upon any tag, card, or label attached thereto, or upon any box, package, cover, or wrapper in which such article is incased or inclosed; and that no such article or tag, card, or label attached thereto, or box, package, cover, or wrapper in which such article is incased or inclosed shall be marked, stamped, branded, engraved, or printed with the word “sterling” or “sterling silver” or any colorable imitation thereof, unless such article or parts thereof purporting to be silver contains nine hundred and twenty-five one-thousandth parts pure silver; and that no such article, tag, card, label, box, package, cover, or wrapper shall be marked, stamped, branded, engraved, or printed with the words “coin” or “coin silver” or colorable imitation thereof unless such article or parts thereof purporting to be silver contains nine hundred one-thousandth parts pure silver: *Provided*, That in the case of all such articles whose fineness is indicated by the word “sterling” or the word “coin” there shall be allowed a divergence in the fineness of four one-thousandth parts from the foregoing standards: *Provided*, That in any test for the ascertainment of the fineness of any such article mentioned in this section according to the foregoing standards the part of the article taken for the test, analysis, or assay shall be such part or portion as does not contain or have attached thereto any solder or alloy of inferior fineness used for brazing or uniting the parts of such article: *Provided further*, That in the case of any article mentioned in this section, in addition to the foregoing tests and standards, the actual fineness of the entire quantity of silver or of its alloys contained in such article, including all solder and alloy of inferior fineness used for brazing or uniting the parts of such article (all such silver, alloys, and solder being assayed as one piece), shall not be less by more than ten one-thousandth parts than the fineness indicated by the mark stamped, branded, engraved, or imprinted upon such article, or upon any tag, card, or label attached thereto, or upon any box, package, cover, or wrapper in which such article is incased or inclosed, it being intended that the standards of fineness and the tests or methods for ascertaining the same provided in this section for articles mentioned therein shall be concurrent and not alternative.
 
-(June 13, 1906, ch. 3289, § 3, 34 Stat. 261.)
+(June 13, 1906, ch. 3289, § 3, 34 Stat. 261.)
 
-## § 297. Stamping plated articles
+## § 297. Stamping plated articles
 
 **(a) Words “sterling” or “coin” forbidden**
 
@@ -93,7 +93,7 @@ such person, firm, corporation, or association, before depositing any such artic
 
 Each identifying trademark or name applied to any article of merchandise in compliance with clause (A) of this subsection shall be applied to that article by the same means as that used in applying the quality mark or stamp appearing thereon, in type or lettering at least as large as that used in such quality mark or stamp, and in a position as close as possible to that quality mark or stamp. For the purposes of this subsection, the term “State” includes the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the District of Columbia.
 
-(June 13, 1906, ch. 3289, § 4, 34 Stat. 261; Pub. L. 87–354, § 1, Oct. 4, 1961, 75 Stat. 775; Pub. L. 91–366, § 1(e), July 31, 1970, 84 Stat. 691.)
+(June 13, 1906, ch. 3289, § 4, 34 Stat. 261; Pub. L. 87–354, § 1, Oct. 4, 1961, 75 Stat. 775; Pub. L. 91–366, § 1(e), July 31, 1970, 84 Stat. 691.)
 
 **Editorial Notes**
 
@@ -111,21 +111,21 @@ The effective date of this Act, referred to in subsec. (b), as the first day of 
 
 **Effective Date of 1970 Amendment**
 
-Pub. L. 91–366, § 4, July 31, 1970, 84 Stat. 691, provided that: “This Act [amending this section and sections 298 and 299 of this title and enacting provisions set out below] shall take effect three months after enactment [July 31, 1970].”
+Pub. L. 91–366, § 4, July 31, 1970, 84 Stat. 691, provided that: “This Act [amending this section and sections 298 and 299 of this title and enacting provisions set out below] shall take effect three months after enactment [July 31, 1970].”
 
 **Effective Date of 1961 Amendment**
 
-Pub. L. 87–354, § 2, Oct. 4, 1961, 75 Stat. 776, provided that: “The amendments made by this Act [amending this section] shall take effect on the first day of the third month beginning after the date of enactment of this Act [Oct. 4, 1961].”
+Pub. L. 87–354, § 2, Oct. 4, 1961, 75 Stat. 776, provided that: “The amendments made by this Act [amending this section] shall take effect on the first day of the third month beginning after the date of enactment of this Act [Oct. 4, 1961].”
 
 **Separability**
 
-Pub. L. 91–366, § 2, July 31, 1970, 84 Stat. 691, provided that: “If any provision of this Act [see Effective Date of 1970 Amendment note above] or any amendment made thereby, or the application thereof to any person, as that term is herein defined, is held invalid, the remainder of the Act or amendment and the application of the remaining provisions of the Act or amendment to any person shall not be affected thereby.”
+Pub. L. 91–366, § 2, July 31, 1970, 84 Stat. 691, provided that: “If any provision of this Act [see Effective Date of 1970 Amendment note above] or any amendment made thereby, or the application thereof to any person, as that term is herein defined, is held invalid, the remainder of the Act or amendment and the application of the remaining provisions of the Act or amendment to any person shall not be affected thereby.”
 
 **Construction of 1970 Amendment**
 
-Pub. L. 91–366, § 3, July 31, 1970, 84 Stat. 691, provided that: “The provisions of this Act [see Effective Date of 1970 Amendment note above] and amendments made thereby shall be held to be in addition to, and not in substitution for or limitation of, the provisions of any other Act of the United States.”
+Pub. L. 91–366, § 3, July 31, 1970, 84 Stat. 691, provided that: “The provisions of this Act [see Effective Date of 1970 Amendment note above] and amendments made thereby shall be held to be in addition to, and not in substitution for or limitation of, the provisions of any other Act of the United States.”
 
-## § 298. Violations of law
+## § 298. Violations of law
 
 **(a) Criminal prosecutions; penalties; jurisdiction**
 
@@ -147,7 +147,7 @@ Any defendant against whom a civil action is brought under the provisions of sec
 
 The district courts shall have exclusive original jurisdiction of any civil action arising under the provisions of sections 294 to 300 of this title.
 
-(June 13, 1906, ch. 3289, § 5, 34 Stat. 262; Pub. L. 91–366, § 1(a), (b), July 31, 1970, 84 Stat. 690.)
+(June 13, 1906, ch. 3289, § 5, 34 Stat. 262; Pub. L. 91–366, § 1(a), (b), July 31, 1970, 84 Stat. 690.)
 
 **Editorial Notes**
 
@@ -169,7 +169,7 @@ For separability provision of Pub. L. 91–366, see section 2 of Pub. L. 91–36
 
 Amendment by Pub. L. 91–366 to be held to be in addition to and not in substitution for or limitation of the provisions of any other Act of the United States, see section 3 of Pub. L. 91–366, set out as a note under section 297 of this title.
 
-## § 299. Definitions
+## § 299. Definitions
 
 **(a)** The expression “article of merchandise” as used in sections 294 to 300 of this title shall signify any goods, wares, works of art, commodity, or other thing which may be lawfully kept or offered for sale.
 
@@ -177,7 +177,7 @@ Amendment by Pub. L. 91–366 to be held to be in addition to and not in substit
 
 **(c)** The term “jewelry trade association” means an organization, consisting primarily of persons actively engaged in the jewelry or a related business, the purposes and activities of which are primarily directed to the improvement of business conditions in the jewelry or related businesses.
 
-(June 13, 1906, ch. 3289, § 6, 34 Stat. 262; Pub. L. 91–366, § 1(c), (d), July 31, 1970, 84 Stat. 690.)
+(June 13, 1906, ch. 3289, § 6, 34 Stat. 262; Pub. L. 91–366, § 1(c), (d), July 31, 1970, 84 Stat. 690.)
 
 **Editorial Notes**
 
@@ -199,8 +199,8 @@ For separability provision of Pub. L. 91–366, see section 2 of Pub. L. 91–36
 
 Amendment by Pub. L. 91–366 to be held to be in addition to and not in substitution for or limitation of the provisions of any other Act of the United States, see section 3 of Pub. L. 91–366, set out as a note under section 297 of this title.
 
-## § 300. Application of State laws
+## § 300. Application of State laws
 
 All articles of merchandise to which sections 294 to 300 of this title apply which shall have been transported into any State, Territory, District, or possession of the United States, and shall remain therein for use, sale, or storage, shall, upon arrival in such State, Territory, District, or possession, be subject to the operation of all the laws of such State, Territory, District, or possession of the United States to the same extent and in the same manner as though such articles of merchandise had been produced in such State, Territory, District, or possession, and shall not be exempt therefrom by reason of being introduced therein in original packages or otherwise.
 
-(June 13, 1906, ch. 3289, § 7, 34 Stat. 262.)
+(June 13, 1906, ch. 3289, § 7, 34 Stat. 262.)

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 13—PROTECTION OF ORIGINAL DESIGNS
 
-## § 1301. Designs protected
+## § 1301. Designs protected
 
 **(a) Designs Protected.—**
 
@@ -45,7 +45,7 @@ retrieved: 2026-10-11
 
 **(7)** A “deck” is the horizontal surface of a vessel that covers the hull, including exterior cabin and cockpit surfaces, and exclusive of masts, sails, yards, rigging, hardware, fixtures, and other attachments.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2905; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title V, § 5005(a)(3)], Nov. 29, 1999, 113 Stat. 1536, 1501A–593; Pub. L. 110–434, § 1(b)–(d), Oct. 16, 2008, 122 Stat. 4972; Pub. L. 117–81, div. A, title XVII, § 1702(*l*)(2), Dec. 27, 2021, 135 Stat. 2160.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2905; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title V, § 5005(a)(3)], Nov. 29, 1999, 113 Stat. 1536, 1501A–593; Pub. L. 110–434, § 1(b)–(d), Oct. 16, 2008, 122 Stat. 4972; Pub. L. 117–81, div. A, title XVII, § 1702(*l*)(2), Dec. 27, 2021, 135 Stat. 2160.)
 
 **Editorial Notes**
 
@@ -53,15 +53,15 @@ retrieved: 2026-10-11
 
 2021—Subsec. (a)(3). Pub. L. 117–81 substituted “subchapter I of chapter 275” for “section 2320”.
 
-2008—Subsec. (a)(2). Pub. L. 110–434, § 1(b), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The design of a vessel hull, including a plug or mold, is subject to protection under this chapter, notwithstanding section 1302(4).”
+2008—Subsec. (a)(2). Pub. L. 110–434, § 1(b), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The design of a vessel hull, including a plug or mold, is subject to protection under this chapter, notwithstanding section 1302(4).”
 
-Subsec. (a)(3). Pub. L. 110–434, § 1(c), added par. (3).
+Subsec. (a)(3). Pub. L. 110–434, § 1(c), added par. (3).
 
-Subsec. (b)(2). Pub. L. 110–434, § 1(d)(1), substituted “vessel hull or deck, including a plug or mold,” for “vessel hull, including a plug or mold,”.
+Subsec. (b)(2). Pub. L. 110–434, § 1(d)(1), substituted “vessel hull or deck, including a plug or mold,” for “vessel hull, including a plug or mold,”.
 
-Subsec. (b)(4). Pub. L. 110–434, § 1(d)(2), added par. (4) and struck out former par. (4) which read as follows: “A ‘hull’ is the frame or body of a vessel, including the deck of a vessel, exclusive of masts, sails, yards, and rigging.”
+Subsec. (b)(4). Pub. L. 110–434, § 1(d)(2), added par. (4) and struck out former par. (4) which read as follows: “A ‘hull’ is the frame or body of a vessel, including the deck of a vessel, exclusive of masts, sails, yards, and rigging.”
 
-Subsec. (b)(7). Pub. L. 110–434, § 1(d)(3), added par. (7).
+Subsec. (b)(7). Pub. L. 110–434, § 1(d)(3), added par. (7).
 
 1999—Subsec. (b)(3). Pub. L. 106–113 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “A ‘vessel’ is a craft, especially one larger than a rowboat, designed to navigate on water, but does not include any such craft that exceeds 200 feet in length.”
 
@@ -69,11 +69,11 @@ Subsec. (b)(7). Pub. L. 110–434, § 1(d)(3), added par. (7).
 
 **Effective Date**
 
-Pub. L. 105–304, title V, § 505, Oct. 28, 1998, 112 Stat. 2918, as amended by Pub. L. 106–113, div. B, § 1000(a)(9) [title V, § 5005(a)(2)], Nov. 29, 1999, 113 Stat. 1536, 1501A–593, provided that: “The amendments made by sections 502 and 503 [enacting this chapter and amending sections 1338, 1400, and 1498 of Title 28, Judiciary and Judicial Procedure] shall take effect on the date of the enactment of this Act [Oct. 28, 1998].”
+Pub. L. 105–304, title V, § 505, Oct. 28, 1998, 112 Stat. 2918, as amended by Pub. L. 106–113, div. B, § 1000(a)(9) [title V, § 5005(a)(2)], Nov. 29, 1999, 113 Stat. 1536, 1501A–593, provided that: “The amendments made by sections 502 and 503 [enacting this chapter and amending sections 1338, 1400, and 1498 of Title 28, Judiciary and Judicial Procedure] shall take effect on the date of the enactment of this Act [Oct. 28, 1998].”
 
 **Joint Study of Effect of This Chapter**
 
-Pub. L. 105–304, title V, § 504, Oct. 28, 1998, 112 Stat. 2917, as amended by Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4741(b)(1), title V, § 5005(a)(1)], Nov. 29, 1999, 113 Stat. 1536, 1501A–586, 1501A–593, provided that:
+Pub. L. 105–304, title V, § 504, Oct. 28, 1998, 112 Stat. 2917, as amended by Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4741(b)(1), title V, § 5005(a)(1)], Nov. 29, 1999, 113 Stat. 1536, 1501A–586, 1501A–593, provided that:
 
 > **“(a) In General.—** Not later than November 1, 2003, the Register of Copyrights and the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall submit to the Committees on the Judiciary of the Senate and the House of Representatives a joint report evaluating the effect of the amendments made by this title [enacting this chapter and amending sections 1338, 1400, and 1498 of Title 28, Judiciary and Judicial Procedure].
 
@@ -89,7 +89,7 @@ Pub. L. 105–304, title V, § 504, Oct. 28, 1998, 112 Stat. 2917, as amended 
 
 > **“(5)** such other considerations as the Register and the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office may deem relevant to accomplish the purposes of the evaluation conducted under subsection (a).”
 
-## § 1302. Designs not subject to protection
+## § 1302. Designs not subject to protection
 
 Protection under this chapter shall not be available for a design that is—
 
@@ -103,7 +103,7 @@ Protection under this chapter shall not be available for a design that is—
 
 **(5)** embodied in a useful article that was made public by the designer or owner in the United States or a foreign country more than 2 years before the date of the application for registration under this chapter.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2906; amended Pub. L. 106–44, § 1(f)(1), Aug. 5, 1999, 113 Stat. 222.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2906; amended Pub. L. 106–44, § 1(f)(1), Aug. 5, 1999, 113 Stat. 222.)
 
 **Editorial Notes**
 
@@ -111,19 +111,19 @@ Protection under this chapter shall not be available for a design that is—
 
 1999—Par. (5). Pub. L. 106–44 substituted “2 years” for “1 year”.
 
-## § 1303. Revisions, adaptations, and rearrangements
+## § 1303. Revisions, adaptations, and rearrangements
 
 Protection for a design under this chapter shall be available notwithstanding the employment in the design of subject matter excluded from protection under section 1302 if the design is a substantial revision, adaptation, or rearrangement of such subject matter. Such protection shall be independent of any subsisting protection in subject matter employed in the design, and shall not be construed as securing any right to subject matter excluded from protection under this chapter or as extending any subsisting protection under this chapter.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2906.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2906.)
 
-## § 1304. Commencement of protection
+## § 1304. Commencement of protection
 
 The protection provided for a design under this chapter shall commence upon the earlier of the date of publication of the registration under section 1313(a) or the date the design is first made public as defined by section 1310(b).
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2907.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2907.)
 
-## § 1305. Term of protection
+## § 1305. Term of protection
 
 **(a) In General.—** Subject to subsection (b), the protection provided under this chapter for a design shall continue for a term of 10 years beginning on the date of the commencement of protection under section 1304.
 
@@ -131,9 +131,9 @@ The protection provided for a design under this chapter shall commence upon the 
 
 **(c) Termination of Rights.—** Upon expiration or termination of protection in a particular design under this chapter, all rights under this chapter in the design shall terminate, regardless of the number of different articles in which the design may have been used during the term of its protection.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2907.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2907.)
 
-## § 1306. Design notice
+## § 1306. Design notice
 
 **(a) Contents of Design Notice.—**
 
@@ -153,17 +153,17 @@ Any distinctive identification of the owner may be used for purposes of subparag
 
 **(c) Subsequent Removal of Notice.—** When the owner of a design has complied with the provisions of this section, protection under this chapter shall not be affected by the removal, destruction, or obliteration by others of the design notice on an article.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2907.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2907.)
 
-## § 1307. Effect of omission of notice
+## § 1307. Effect of omission of notice
 
 **(a) Actions With Notice.—** Except as provided in subsection (b), the omission of the notice prescribed in section 1306 shall not cause loss of the protection under this chapter or prevent recovery for infringement under this chapter against any person who, after receiving written notice of the design protection, begins an undertaking leading to infringement under this chapter.
 
 **(b) Actions Without Notice.—** The omission of the notice prescribed in section 1306 shall prevent any recovery under section 1323 against a person who began an undertaking leading to infringement under this chapter before receiving written notice of the design protection. No injunction shall be issued under this chapter with respect to such undertaking unless the owner of the design reimburses that person for any reasonable expenditure or contractual obligation in connection with such undertaking that was incurred before receiving written notice of the design protection, as the court in its discretion directs. The burden of providing written notice of design protection shall be on the owner of the design.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2907.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2907.)
 
-## § 1308. Exclusive rights
+## § 1308. Exclusive rights
 
 The owner of a design protected under this chapter has the exclusive right to—
 
@@ -171,9 +171,9 @@ The owner of a design protected under this chapter has the exclusive right to—
 
 **(2)** sell or distribute for sale or for use in trade any useful article embodying that design.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2908.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2908.)
 
-## § 1309. Infringement
+## § 1309. Infringement
 
 **(a) Acts of Infringement.—** Except as provided in subsection (b), it shall be infringement of the exclusive rights in a design protected under this chapter for any person, without the consent of the owner of the design, within the United States and during the term of such protection, to—
 
@@ -197,9 +197,9 @@ The owner of a design protected under this chapter has the exclusive right to—
 
 **(g) Reproduction for Teaching or Analysis.—** It is not an infringement of the exclusive rights of a design owner for a person to reproduce the design in a useful article or in any other form solely for the purpose of teaching, analyzing, or evaluating the appearance, concepts, or techniques embodied in the design, or the function of the useful article embodying the design.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2908.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2908.)
 
-## § 1310. Application for registration
+## § 1310. Application for registration
 
 **(a) Time Limit for Application for Registration.—** Protection under this chapter shall be lost if application for registration of the design is not made within 2 years after the date on which the design is first made public.
 
@@ -247,15 +247,15 @@ If the design has been made public with the design notice prescribed in section 
 
 **(j) Application for More Than One Design.—** More than one design may be included in the same application under such conditions as may be prescribed by the Administrator. For each design included in an application the fee prescribed for a single design shall be paid.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2909.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2909.)
 
-## § 1311. Benefit of earlier filing date in foreign country
+## § 1311. Benefit of earlier filing date in foreign country
 
 An application for registration of a design filed in the United States by any person who has, or whose legal representative or predecessor or successor in title has, previously filed an application for registration of the same design in a foreign country which extends to designs of owners who are citizens of the United States, or to applications filed under this chapter, similar protection to that provided under this chapter shall have that same effect as if filed in the United States on the date on which the application was first filed in such foreign country, if the application in the United States is filed within 6 months after the earliest date on which any such foreign application was filed.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2910.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2910.)
 
-## § 1312. Oaths and acknowledgments
+## § 1312. Oaths and acknowledgments
 
 **(a) In General.—** Oaths and acknowledgments required by this chapter—
 
@@ -273,9 +273,9 @@ An application for registration of a design filed in the United States by any pe
 
 **(2)** Whenever a written declaration under paragraph (1) is used, the document containing the declaration shall state that willful false statements are punishable by fine or imprisonment, or both, pursuant to section 1001 of title 18, and may jeopardize the validity of the application or document or a registration resulting therefrom.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2911.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2911.)
 
-## § 1313. Examination of application and issue or refusal of registration
+## § 1313. Examination of application and issue or refusal of registration
 
 **(a) Determination of Registrability of Design; Registration.—** Upon the filing of an application for registration in proper form under section 1310, and upon payment of the fee prescribed under section 1316, the Administrator shall determine whether or not the application relates to a design which on its face appears to be subject to protection under this chapter, and, if so, the Register shall register the design. Registration under this subsection shall be announced by publication. The date of registration shall be the date of publication.
 
@@ -283,7 +283,7 @@ An application for registration of a design filed in the United States by any pe
 
 **(c) Application To Cancel Registration.—** Any person who believes he or she is or will be damaged by a registration under this chapter may, upon payment of the prescribed fee, apply to the Administrator at any time to cancel the registration on the ground that the design is not subject to protection under this chapter, stating the reasons for the request. Upon receipt of an application for cancellation, the Administrator shall send to the owner of the design, as shown in the records of the Office of the Administrator, a notice of the application, and the owner shall have a period of 3 months after the date on which such notice is mailed in which to present arguments to the Administrator for support of the validity of the registration. The Administrator shall also have the authority to establish, by regulation, conditions under which the opposing parties may appear and be heard in support of their arguments. If, after the periods provided for the presentation of arguments have expired, the Administrator determines that the applicant for cancellation has established that the design is not subject to protection under this chapter, the Administrator shall order the registration stricken from the record. Cancellation under this subsection shall be announced by publication, and notice of the Administrator’s final determination with respect to any application for cancellation shall be sent to the applicant and to the owner of record. Costs of the cancellation procedure under this subsection shall be borne by the nonprevailing party or parties, and the Administrator shall have the authority to assess and collect such costs.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2911; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title V, § 5005(a)(4)], Nov. 29, 1999, 113 Stat. 1536, 1501A–594.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2911; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title V, § 5005(a)(4)], Nov. 29, 1999, 113 Stat. 1536, 1501A–594.)
 
 **Editorial Notes**
 
@@ -291,45 +291,45 @@ An application for registration of a design filed in the United States by any pe
 
 1999—Subsec. (c). Pub. L. 106–113 inserted at end “Costs of the cancellation procedure under this subsection shall be borne by the nonprevailing party or parties, and the Administrator shall have the authority to assess and collect such costs.”
 
-## § 1314. Certification of registration
+## § 1314. Certification of registration
 
 Certificates of registration shall be issued in the name of the United States under the seal of the Office of the Administrator and shall be recorded in the official records of the Office. The certificate shall state the name of the useful article, the date of filing of the application, the date of registration, and the date the design was made public, if earlier than the date of filing of the application, and shall contain a reproduction of the drawing or other pictorial representation of the design. If a description of the salient features of the design appears in the application, the description shall also appear in the certificate. A certificate of registration shall be admitted in any court as prima facie evidence of the facts stated in the certificate.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2912.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2912.)
 
-## § 1315. Publication of announcements and indexes
+## § 1315. Publication of announcements and indexes
 
 **(a) Publications of the Administrator.—** The Administrator shall publish lists and indexes of registered designs and cancellations of designs and may also publish the drawings or other pictorial representations of registered designs for sale or other distribution.
 
 **(b) File of Representatives of Registered Designs.—** The Administrator shall establish and maintain a file of the drawings or other pictorial representations of registered designs. The file shall be available for use by the public under such conditions as the Administrator may prescribe.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2912.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2912.)
 
-## § 1316. Fees
+## § 1316. Fees
 
 The Administrator shall by regulation set reasonable fees for the filing of applications to register designs under this chapter and for other services relating to the administration of this chapter, taking into consideration the cost of providing these services and the benefit of a public record.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2912.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2912.)
 
-## § 1317. Regulations
+## § 1317. Regulations
 
 The Administrator may establish regulations for the administration of this chapter.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2912.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2912.)
 
-## § 1318. Copies of records
+## § 1318. Copies of records
 
 Upon payment of the prescribed fee, any person may obtain a certified copy of any official record of the Office of the Administrator that relates to this chapter. That copy shall be admissible in evidence with the same effect as the original.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2913.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2913.)
 
-## § 1319. Correction of errors in certificates
+## § 1319. Correction of errors in certificates
 
 The Administrator may, by a certificate of correction under seal, correct any error in a registration incurred through the fault of the Office, or, upon payment of the required fee, any error of a clerical or typographical nature occurring in good faith but not through the fault of the Office. Such registration, together with the certificate, shall thereafter have the same effect as if it had been originally issued in such corrected form.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2913.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2913.)
 
-## § 1320. Ownership and transfer
+## § 1320. Ownership and transfer
 
 **(a) Property Right in Design.—** The property right in a design subject to protection under this chapter shall vest in the designer, the legal representatives of a deceased designer or of one under legal incapacity, the employer for whom the designer created the design in the case of a design made within the regular scope of the designer’s employment, or a person to whom the rights of the designer or of such employer have been transferred. The person in whom the property right is vested shall be considered the owner of the design.
 
@@ -339,7 +339,7 @@ The Administrator may, by a certificate of correction under seal, correct any er
 
 **(d) Recordation of Transfer.—** An assignment, grant, conveyance, or mortgage under subsection (b) shall be void as against any subsequent purchaser or mortgagee for a valuable consideration, unless it is recorded in the Office of the Administrator within 3 months after its date of execution or before the date of such subsequent purchase or mortgage.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2913; amended Pub. L. 106–44, § 1(f)(2), Aug. 5, 1999, 113 Stat. 222.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2913; amended Pub. L. 106–44, § 1(f)(2), Aug. 5, 1999, 113 Stat. 222.)
 
 **Editorial Notes**
 
@@ -347,7 +347,7 @@ The Administrator may, by a certificate of correction under seal, correct any er
 
 1999—Subsec. (c). Pub. L. 106–44 substituted “Acknowledgment” for “Acknowledgement” in heading.
 
-## § 1321. Remedy for infringement
+## § 1321. Remedy for infringement
 
 **(a) In General.—** The owner of a design is entitled, after issuance of a certificate of registration of the design under this chapter, to institute an action for any infringement of the design.
 
@@ -367,17 +367,17 @@ The Administrator may, by a certificate of correction under seal, correct any er
 
 **(d) Use of Arbitration To Resolve Dispute.—** The parties to an infringement dispute under this chapter, within such time as may be specified by the Administrator by regulation, may determine the dispute, or any aspect of the dispute, by arbitration. Arbitration shall be governed by title 9. The parties shall give notice of any arbitration award to the Administrator, and such award shall, as between the parties to the arbitration, be dispositive of the issues to which it relates. The arbitration award shall be unenforceable until such notice is given. Nothing in this subsection shall preclude the Administrator from determining whether a design is subject to registration in a cancellation proceeding under section 1313(c).
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2913.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2913.)
 
-## § 1322. Injunctions
+## § 1322. Injunctions
 
 **(a) In General.—** A court having jurisdiction over actions under this chapter may grant injunctions in accordance with the principles of equity to prevent infringement of a design under this chapter, including, in its discretion, prompt relief by temporary restraining orders and preliminary injunctions.
 
 **(b) Damages for Injunctive Relief Wrongfully Obtained.—** A seller or distributor who suffers damage by reason of injunctive relief wrongfully obtained under this section has a cause of action against the applicant for such injunctive relief and may recover such relief as may be appropriate, including damages for lost profits, cost of materials, loss of good will, and punitive damages in instances where the injunctive relief was sought in bad faith, and, unless the court finds extenuating circumstances, reasonable attorney’s fees.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2914.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2914.)
 
-## § 1323. Recovery for infringement
+## § 1323. Recovery for infringement
 
 **(a) Damages.—** Upon a finding for the claimant in an action for infringement under this chapter, the court shall award the claimant damages adequate to compensate for the infringement. In addition, the court may increase the damages to such amount, not exceeding $50,000 or $1 per copy, whichever is greater, as the court determines to be just. The damages awarded shall constitute compensation and not a penalty. The court may receive expert testimony as an aid to the determination of damages.
 
@@ -389,35 +389,35 @@ The Administrator may, by a certificate of correction under seal, correct any er
 
 **(e) Disposition of Infringing and Other Articles.—** The court may order that all infringing articles, and any plates, molds, patterns, models, or other means specifically adapted for making the articles, be delivered up for destruction or other disposition as the court may direct.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2914.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2914.)
 
-## § 1324. Power of court over registration
+## § 1324. Power of court over registration
 
 In any action involving the protection of a design under this chapter, the court, when appropriate, may order registration of a design under this chapter or the cancellation of such a registration. Any such order shall be certified by the court to the Administrator, who shall make an appropriate entry upon the record.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2915.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2915.)
 
-## § 1325. Liability for action on registration fraudulently obtained
+## § 1325. Liability for action on registration fraudulently obtained
 
 Any person who brings an action for infringement knowing that registration of the design was obtained by a false or fraudulent representation materially affecting the rights under this chapter, shall be liable in the sum of $10,000, or such part of that amount as the court may determine. That amount shall be to compensate the defendant and shall be charged against the plaintiff and paid to the defendant, in addition to such costs and attorney’s fees of the defendant as may be assessed by the court.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2915.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2915.)
 
-## § 1326. Penalty for false marking
+## § 1326. Penalty for false marking
 
 **(a) In General.—** Whoever, for the purpose of deceiving the public, marks upon, applies to, or uses in advertising in connection with an article made, used, distributed, or sold, a design which is not protected under this chapter, a design notice specified in section 1306, or any other words or symbols importing that the design is protected under this chapter, knowing that the design is not so protected, shall pay a civil fine of not more than $500 for each such offense.
 
 **(b) Suit by Private Persons.—** Any person may sue for the penalty established by subsection (a), in which event one-half of the penalty shall be awarded to the person suing and the remainder shall be awarded to the United States.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2915.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2915.)
 
-## § 1327. Penalty for false representation
+## § 1327. Penalty for false representation
 
 Whoever knowingly makes a false representation materially affecting the rights obtainable under this chapter for the purpose of obtaining registration of a design under this chapter shall pay a penalty of not less than $500 and not more than $1,000, and any rights or privileges that individual may have in the design under this chapter shall be forfeited.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2915.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2915.)
 
-## § 1328. Enforcement by Treasury and Postal Service
+## § 1328. Enforcement by Treasury and Postal Service
 
 **(a) Regulations.—** The Secretary of the Treasury and the United States Postal Service shall separately or jointly issue regulations for the enforcement of the rights set forth in section 1308 with respect to importation. Such regulations may require, as a condition for the exclusion of articles from the United States, that the person seeking exclusion take any one or more of the following actions:
 
@@ -429,7 +429,7 @@ Whoever knowingly makes a false representation materially affecting the rights o
 
 **(b) Seizure and Forfeiture.—** Articles imported in violation of the rights set forth in section 1308 are subject to seizure and forfeiture in the same manner as property imported in violation of the customs laws. Any such forfeited articles shall be destroyed as directed by the Secretary of the Treasury or the court, as the case may be, except that the articles may be returned to the country of export whenever it is shown to the satisfaction of the Secretary of the Treasury that the importer had no reasonable grounds for believing that his or her acts constituted a violation of the law.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2916.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2916.)
 
 **Editorial Notes**
 
@@ -437,13 +437,13 @@ Whoever knowingly makes a false representation materially affecting the rights o
 
 Section 337 of the Tariff Act of 1930, referred to in subsec. (a)(1), is classified to section 1337 of Title 19, Customs Duties.
 
-## § 1329. Relation to design patent law
+## § 1329. Relation to design patent law
 
 The issuance of a design patent under title 35, United States Code, for an original design for an article of manufacture shall terminate any protection of the original design under this chapter.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2916.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2916.)
 
-## § 1330. Common law and other rights unaffected
+## § 1330. Common law and other rights unaffected
 
 Nothing in this chapter shall annul or limit—
 
@@ -451,19 +451,19 @@ Nothing in this chapter shall annul or limit—
 
 **(2)** any right under the trademark laws or any right protected against unfair competition.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2916.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2916.)
 
-## § 1331. Administrator; Office of the Administrator
+## § 1331. Administrator; Office of the Administrator
 
 In this chapter, the “Administrator” is the Register of Copyrights, and the “Office of the Administrator” and the “Office” refer to the Copyright Office of the Library of Congress.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2916.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2916.)
 
-## § 1332. No retroactive effect
+## § 1332. No retroactive effect
 
 Protection under this chapter shall not be available for any design that has been made public under section 1310(b) before the effective date of this chapter.
 
-(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2916.)
+(Added Pub. L. 105–304, title V, § 502, Oct. 28, 1998, 112 Stat. 2916.)
 
 **Editorial Notes**
 

@@ -19,7 +19,7 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1997—Pub. L. 105–34, title XV, § 1531(a)(1), Aug. 5, 1997, 111 Stat. 1080, struck out “PORTABILITY, ACCESS, AND RENEWABILITY” in chapter heading and added analysis for chapter.
+1997—Pub. L. 105–34, title XV, § 1531(a)(1), Aug. 5, 1997, 111 Stat. 1080, struck out “PORTABILITY, ACCESS, AND RENEWABILITY” in chapter heading and added analysis for chapter.
 
 ## Subchapter A—Requirements Relating to Portability, Access, and Renewability
 
@@ -27,9 +27,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1997—Pub. L. 105–34, title XV, § 1531(a)(1), Aug. 5, 1997, 111 Stat. 1081, added subchapter heading and items 9801 to 9803 and struck out former items 9801 “Increased portability through limitation on preexisting condition exclusions”, 9802 “Prohibiting discrimination against individual participants and beneficiaries based on health status”, 9803 “Guaranteed renewability in multiemployer plans and certain multiple employer welfare arrangements”, 9804 “General exceptions”, 9805 “Definitions”, and 9806 “Regulations”.
+1997—Pub. L. 105–34, title XV, § 1531(a)(1), Aug. 5, 1997, 111 Stat. 1081, added subchapter heading and items 9801 to 9803 and struck out former items 9801 “Increased portability through limitation on preexisting condition exclusions”, 9802 “Prohibiting discrimination against individual participants and beneficiaries based on health status”, 9803 “Guaranteed renewability in multiemployer plans and certain multiple employer welfare arrangements”, 9804 “General exceptions”, 9805 “Definitions”, and 9806 “Regulations”.
 
-### § 9801. Increased portability through limitation on preexisting condition exclusions
+### § 9801. Increased portability through limitation on preexisting condition exclusions
 
 **(a) Limitation on preexisting condition exclusion period; crediting for periods of previous coverage** Subject to subsection (d), a group health plan may, with respect to a participant or beneficiary, impose a preexisting condition exclusion only if—
 
@@ -269,13 +269,13 @@ An employer may provide the model notice applicable to the State in which an emp
 
 In the case of a participant or beneficiary of a group health plan who is covered under a Medicaid plan of a State under title XIX of the Social Security Act or under a State child health plan under title XXI of such Act, the plan administrator of the group health plan shall disclose to the State, upon request, information about the benefits available under the group health plan in sufficient specificity, as determined under regulations of the Secretary of Health and Human Services in consultation with the Secretary that require use of the model coverage coordination disclosure form developed under section 311(b)(1)(C) of the Children’s Health Insurance Program Reauthorization Act of 2009, so as to permit the State to make a determination (under paragraph (2)(B), (3), or (10) of section 2105(c) of the Social Security Act or otherwise) concerning the cost-effectiveness of the State providing medical or child health assistance through premium assistance for the purchase of coverage under such group health plan and in order for the State to provide supplemental benefits required under paragraph (10)(E) of such section or other authority.
 
-(Added Pub. L. 104–191, title IV, § 401(a), Aug. 21, 1996, 110 Stat. 2073; amended Pub. L. 105–34, title XV, § 1531(b)(1)(A), Aug. 5, 1997, 111 Stat. 1084; Pub. L. 111–3, title III, § 311(a), Feb. 4, 2009, 123 Stat. 64; Pub. L. 111–5, div. B, title I, § 1899D(a), Feb. 17, 2009, 123 Stat. 425; Pub. L. 111–344, title I, § 114(a), Dec. 29, 2010, 124 Stat. 3615; Pub. L. 112–40, title II, § 242(a)(1), Oct. 21, 2011, 125 Stat. 419.)
+(Added Pub. L. 104–191, title IV, § 401(a), Aug. 21, 1996, 110 Stat. 2073; amended Pub. L. 105–34, title XV, § 1531(b)(1)(A), Aug. 5, 1997, 111 Stat. 1084; Pub. L. 111–3, title III, § 311(a), Feb. 4, 2009, 123 Stat. 64; Pub. L. 111–5, div. B, title I, § 1899D(a), Feb. 17, 2009, 123 Stat. 425; Pub. L. 111–344, title I, § 114(a), Dec. 29, 2010, 124 Stat. 3615; Pub. L. 112–40, title II, § 242(a)(1), Oct. 21, 2011, 125 Stat. 419.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsecs. (c)(1)(C), (D) and (f)(3)(A)(i), (B)(i)(I), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§ 1395c et seq.) and B (§ 1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§ 1396 et seq.) and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42. Sections 1928 and 2105 of the Act are classified to sections 1396s and 1397ee, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c)(1)(C), (D) and (f)(3)(A)(i), (B)(i)(I), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§ 1395c et seq.) and B (§ 1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§ 1396 et seq.) and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42. Sections 1928 and 2105 of the Act are classified to sections 1396s and 1397ee, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 311(b)(1)(C) of the Children’s Health Insurance Program Reauthorization Act of 2009, referred to in subsec. (f)(3)(B)(ii), is section 311(b)(1)(C) of Pub. L. 111–3, which is set out as a note under section 1181 of Title 29, Labor.
 
@@ -295,7 +295,7 @@ Subsec. (f)(3). Pub. L. 111–3 added par. (3).
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–40, title II, § 242(b), Oct. 21, 2011, 125 Stat. 419, provided that:
+Pub. L. 112–40, title II, § 242(b), Oct. 21, 2011, 125 Stat. 419, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section, section 1181 of Title 29, Labor, and sections 300gg and 300gg–3 of Title 42, The Public Health and Welfare] shall apply to plan years beginning after February 12, 2011.
 
@@ -309,13 +309,13 @@ Pub. L. 112–40, title II, § 242(b), Oct. 21, 2011, 125 Stat. 419, provided 
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–344, title I, § 114(d), Dec. 29, 2010, 124 Stat. 3615, provided that: “The amendments made by this section [amending this section, section 1181 of Title 29, Labor, and section 300gg of Title 42, The Public Health and Welfare] shall apply to plan years beginning after December 31, 2010.”
+Pub. L. 111–344, title I, § 114(d), Dec. 29, 2010, 124 Stat. 3615, provided that: “The amendments made by this section [amending this section, section 1181 of Title 29, Labor, and section 300gg of Title 42, The Public Health and Welfare] shall apply to plan years beginning after December 31, 2010.”
 
 **Effective Date of 2009 Amendment**
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of Title 19, Customs Duties.
 
-Pub. L. 111–5, div. B, title I, § 1899D(d), Feb. 17, 2009, 123 Stat. 426, provided that: “The amendments made by this section [amending this section, section 1181 of Title 29, Labor, and section 300gg of Title 42, The Public Health and Welfare] shall apply to plan years beginning after the date of the enactment of this Act [Feb. 17, 2009].”
+Pub. L. 111–5, div. B, title I, § 1899D(d), Feb. 17, 2009, 123 Stat. 426, provided that: “The amendments made by this section [amending this section, section 1181 of Title 29, Labor, and section 300gg of Title 42, The Public Health and Welfare] shall apply to plan years beginning after the date of the enactment of this Act [Feb. 17, 2009].”
 
 Amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as an Effective Date note under section 1396 of Title 42, The Public Health and Welfare.
 
@@ -325,7 +325,7 @@ Amendment by Pub. L. 105–34 applicable with respect to group health plans for 
 
 **Effective Date**
 
-Pub. L. 104–191, title IV, § 401(c), Aug. 21, 1996, 110 Stat. 2082, provided that:
+Pub. L. 104–191, title IV, § 401(c), Aug. 21, 1996, 110 Stat. 2082, provided that:
 
 > **“(1) In general.—** The amendments made by this section [enacting this subtitle] shall apply to plan years beginning after June 30, 1997.
 
@@ -363,7 +363,7 @@ Pub. L. 104–191, title IV, § 401(c), Aug. 21, 1996, 110 Stat. 2082, provide
 
 > **“(5) Limitation on actions.—** No enforcement action shall be taken, pursuant to the amendments made by this section, against a group health plan or health insurance issuer with respect to a violation of a requirement imposed by such amendments before January 1, 1998, or, if later, the date of issuance of regulations referred to in paragraph (4), if the plan or issuer has sought to comply in good faith with such requirements.”
 
-### § 9802. Prohibiting discrimination against individual participants and beneficiaries based on health status
+### § 9802. Prohibiting discrimination against individual participants and beneficiaries based on health status
 
 **(a) In eligibility to enroll**
 
@@ -485,13 +485,13 @@ This subsection shall apply to a plan for any year only if the plan included the
 
 **(2)** with respect to an individual or family member utilizing an assisted reproductive technology, include genetic information of any embryo legally held by the individual or family member.
 
-(Added Pub. L. 104–191, title IV, § 401(a), Aug. 21, 1996, 110 Stat. 2078; amended Pub. L. 105–34, title XV, § 1532(a), Aug. 5, 1997, 111 Stat. 1085; Pub. L. 110–233, title I, § 103(a)–(c), May 21, 2008, 122 Stat. 896, 897; Pub. L. 113–295, div. A, title II, § 220(aa), Dec. 19, 2014, 128 Stat. 4037.)
+(Added Pub. L. 104–191, title IV, § 401(a), Aug. 21, 1996, 110 Stat. 2078; amended Pub. L. 105–34, title XV, § 1532(a), Aug. 5, 1997, 111 Stat. 1085; Pub. L. 110–233, title I, § 103(a)–(c), May 21, 2008, 122 Stat. 896, 897; Pub. L. 113–295, div. A, title II, § 220(aa), Dec. 19, 2014, 128 Stat. 4037.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (c)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part C of title XI of the Act is classified generally to part C (§ 1320d et seq.) of subchapter XI of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part C of title XI of the Act is classified generally to part C (§ 1320d et seq.) of subchapter XI of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 264 of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (c)(3)(A), is section 264 of Pub. L. 104–191, which is set out as a note under section 1320d–2 of Title 42, The Public Health and Welfare.
 
@@ -499,15 +499,15 @@ Section 264 of the Health Insurance Portability and Accountability Act of 1996, 
 
 2014—Subsecs. (f), (g). Pub. L. 113–295 redesignated subsec. (f) relating to genetic information of a fetus or embryo as (g).
 
-2008—Subsec. (b)(2)(A). Pub. L. 110–233, § 103(a)(1), inserted “except as provided in paragraph (3)” before semicolon.
+2008—Subsec. (b)(2)(A). Pub. L. 110–233, § 103(a)(1), inserted “except as provided in paragraph (3)” before semicolon.
 
-Subsec. (b)(3). Pub. L. 110–233, § 103(a)(2), added par. (3).
+Subsec. (b)(3). Pub. L. 110–233, § 103(a)(2), added par. (3).
 
-Subsecs. (c) to (e). Pub. L. 110–233, § 103(b), added subsecs. (c) to (e). Former subsec. (c) redesignated (f) relating to special rules for church plans.
+Subsecs. (c) to (e). Pub. L. 110–233, § 103(b), added subsecs. (c) to (e). Former subsec. (c) redesignated (f) relating to special rules for church plans.
 
-Subsec. (f). Pub. L. 110–233, § 103(c), added subsec. (f) relating to genetic information of a fetus or embryo.
+Subsec. (f). Pub. L. 110–233, § 103(c), added subsec. (f) relating to genetic information of a fetus or embryo.
 
-Pub. L. 110–233, § 103(b), redesignated subsec. (c) as (f) relating to special rules for church plans.
+Pub. L. 110–233, § 103(b), redesignated subsec. (c) as (f) relating to special rules for church plans.
 
 1997—Subsec. (c). Pub. L. 105–34 added subsec. (c).
 
@@ -515,21 +515,21 @@ Pub. L. 110–233, § 103(b), redesignated subsec. (c) as (f) relating to spec
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–233, title I, § 103(f)(2), May 21, 2008, 122 Stat. 899, provided that: “The amendments made by this section [enacting section 9834 of this title and amending this section and section 9832 of this title] shall apply with respect to group health plans for plan years beginning after the date that is 1 year after the date of the enactment of this Act [May 21, 2008].”
+Pub. L. 110–233, title I, § 103(f)(2), May 21, 2008, 122 Stat. 899, provided that: “The amendments made by this section [enacting section 9834 of this title and amending this section and section 9832 of this title] shall apply with respect to group health plans for plan years beginning after the date that is 1 year after the date of the enactment of this Act [May 21, 2008].”
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title XV, § 1532(b), Aug. 5, 1997, 111 Stat. 1085, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as if included in the amendments made by section 401(a) of the Health Insurance Portability and Accountability Act of 1996 [Pub. L. 104–191].”
+Pub. L. 105–34, title XV, § 1532(b), Aug. 5, 1997, 111 Stat. 1085, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as if included in the amendments made by section 401(a) of the Health Insurance Portability and Accountability Act of 1996 [Pub. L. 104–191].”
 
 **Regulations**
 
-Pub. L. 110–233, title I, § 103(f)(1), May 21, 2008, 122 Stat. 899, provided that: “The Secretary of the Treasury shall issue final regulations or other guidance not later than 12 months after the date of the enactment of this Act [May 21, 2008] to carry out the amendments made by this section [enacting section 9834 of this title and amending this section and section 9832 of this title].”
+Pub. L. 110–233, title I, § 103(f)(1), May 21, 2008, 122 Stat. 899, provided that: “The Secretary of the Treasury shall issue final regulations or other guidance not later than 12 months after the date of the enactment of this Act [May 21, 2008] to carry out the amendments made by this section [enacting section 9834 of this title and amending this section and section 9832 of this title].”
 
 **Effective Date**
 
 Section applicable to plan years beginning after June 30, 1997, see section 401(c) of Pub. L. 104–191, set out as a note under section 9801 of this title.
 
-### § 9803. Guaranteed renewability in multi­employer plans and certain multiple employer welfare arrangements
+### § 9803. Guaranteed renewability in multi­employer plans and certain multiple employer welfare arrangements
 
 **(a) In general** A group health plan which is a multiemployer plan (as defined in section 414(f)) or which is a multiple employer welfare arrangement may not deny an employer continued access to the same or different coverage under such plan, other than—
 
@@ -549,7 +549,7 @@ Section applicable to plan years beginning after June 30, 1997, see section 401(
 
 For purposes of subsection (a), the term “multiple employer welfare arrangement” has the meaning given such term by section 3(40) of the Employee Retirement Income Security Act of 1974, as in effect on the date of the enactment of this section.
 
-(Added Pub. L. 104–191, title IV, § 401(a), Aug. 21, 1996, 110 Stat. 2079.)
+(Added Pub. L. 104–191, title IV, § 401(a), Aug. 21, 1996, 110 Stat. 2079.)
 
 **Editorial Notes**
 
@@ -565,11 +565,11 @@ The date of the enactment of this section, referred to in subsec. (b), is the da
 
 Section applicable to plan years beginning after June 30, 1997, see section 401(c) of Pub. L. 104–191, set out as a note under section 9801 of this title.
 
-### [§ 9804. Renumbered § 9831]
+### [§ 9804. Renumbered § 9831]
 
-### [§ 9805. Renumbered § 9832]
+### [§ 9805. Renumbered § 9832]
 
-### [§ 9806. Renumbered § 9833]
+### [§ 9806. Renumbered § 9833]
 
 ## Subchapter B—Other Requirements
 
@@ -577,17 +577,17 @@ Section applicable to plan years beginning after June 30, 1997, see section 401(
 
 **Amendments**
 
-2026—Pub. L. 119–75, div. J, title VII, § 6701(c)(4), Feb. 3, 2026, 140 Stat. 733, added item 9826.
+2026—Pub. L. 119–75, div. J, title VII, § 6701(c)(4), Feb. 3, 2026, 140 Stat. 733, added item 9826.
 
-2020—Pub. L. 116–260, div. BB, title I, §§ 102(c)(3), 105(a)(3)(B), 106(b)(3)(B), 113(b)(2), 114(b)(2), 116(d)(2), title II, §§ 201(d)(2), 204(d)(2), Dec. 27, 2020, 134 Stat. 2796, 2851, 2855, 2871, 2874, 2887, 2894, 2922, added items 9815 to 9820 and 9822 to 9825.
+2020—Pub. L. 116–260, div. BB, title I, §§ 102(c)(3), 105(a)(3)(B), 106(b)(3)(B), 113(b)(2), 114(b)(2), 116(d)(2), title II, §§ 201(d)(2), 204(d)(2), Dec. 27, 2020, 134 Stat. 2796, 2851, 2855, 2871, 2874, 2887, 2894, 2922, added items 9815 to 9820 and 9822 to 9825.
 
-2008—Pub. L. 110–381, § 2(c)(2), Oct. 9, 2008, 122 Stat. 4086, added item 9813.
+2008—Pub. L. 110–381, § 2(c)(2), Oct. 9, 2008, 122 Stat. 4086, added item 9813.
 
-Pub. L. 110–343, div. C, title V, § 512(g)(3)(B), Oct. 3, 2008, 122 Stat. 3892, added item 9812 and struck out former item 9812 “Parity in the application of certain limits to mental health benefits”.
+Pub. L. 110–343, div. C, title V, § 512(g)(3)(B), Oct. 3, 2008, 122 Stat. 3892, added item 9812 and struck out former item 9812 “Parity in the application of certain limits to mental health benefits”.
 
-1997—Pub. L. 105–34, title XV, § 1531(a)(4), Aug. 5, 1997, 111 Stat. 1081, added subchapter heading and analysis.
+1997—Pub. L. 105–34, title XV, § 1531(a)(4), Aug. 5, 1997, 111 Stat. 1081, added subchapter heading and analysis.
 
-### § 9811. Standards relating to benefits for mothers and newborns
+### § 9811. Standards relating to benefits for mothers and newborns
 
 **(a) Requirements for minimum hospital stay following birth**
 
@@ -641,7 +641,7 @@ Nothing in this section shall be construed to prevent a group health plan from n
 
 **(3)** Such State law requires, in connection with such coverage for maternity care, that the hospital length of stay for such care is left to the decision of (or required to be made by) the attending provider in consultation with the mother.
 
-(Added Pub. L. 105–34, title XV, § 1531(a)(4), Aug. 5, 1997, 111 Stat. 1081; amended Pub. L. 105–206, title VI, § 6015(e), July 22, 1998, 112 Stat. 821.)
+(Added Pub. L. 105–34, title XV, § 1531(a)(4), Aug. 5, 1997, 111 Stat. 1081; amended Pub. L. 105–206, title VI, § 6015(e), July 22, 1998, 112 Stat. 821.)
 
 **Editorial Notes**
 
@@ -659,7 +659,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 Section applicable with respect to group health plans for plan years beginning on or after Jan. 1, 1998, see section 1531(c) of Pub. L. 105–34, set out as an Effective Date of 1997 Amendment note under section 4980D of this title.
 
-### § 9812. Parity in mental health and substance use disorder benefits
+### § 9812. Parity in mental health and substance use disorder benefits
 
 **(a) In general**
 
@@ -961,7 +961,7 @@ The term “mental health benefits” means benefits with respect to services fo
 
 The term “substance use disorder benefits” means benefits with respect to services for substance use disorders, as defined under the terms of the plan and in accordance with applicable Federal and State law.
 
-(Added Pub. L. 105–34, title XV, § 1531(a)(4), Aug. 5, 1997, 111 Stat. 1083; amended Pub. L. 107–116, title VII, § 701(c), Jan. 10, 2002, 115 Stat. 2228; Pub. L. 107–147, title VI, § 610(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, § 302(a), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–151, § 1(c), Dec. 30, 2005, 119 Stat. 2886; Pub. L. 109–432, div. A, title I, § 115(a), Dec. 20, 2006, 120 Stat. 2941; Pub. L. 110–245, title IV, § 401(a), June 17, 2008, 122 Stat. 1649; Pub. L. 110–343, div. C, title V, § 512(c), (g)(3)(A), Oct. 3, 2008, 122 Stat. 3888, 3892; Pub. L. 115–141, div. U, title IV, § 401(a)(349), Mar. 23, 2018, 132 Stat. 1201; Pub. L. 116–260, div. BB, title II, § 203(a)(3), Dec. 27, 2020, 134 Stat. 2910.)
+(Added Pub. L. 105–34, title XV, § 1531(a)(4), Aug. 5, 1997, 111 Stat. 1083; amended Pub. L. 107–116, title VII, § 701(c), Jan. 10, 2002, 115 Stat. 2228; Pub. L. 107–147, title VI, § 610(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, § 302(a), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–151, § 1(c), Dec. 30, 2005, 119 Stat. 2886; Pub. L. 109–432, div. A, title I, § 115(a), Dec. 20, 2006, 120 Stat. 2941; Pub. L. 110–245, title IV, § 401(a), June 17, 2008, 122 Stat. 1649; Pub. L. 110–343, div. C, title V, § 512(c), (g)(3)(A), Oct. 3, 2008, 122 Stat. 3888, 3892; Pub. L. 115–141, div. U, title IV, § 401(a)(349), Mar. 23, 2018, 132 Stat. 1201; Pub. L. 116–260, div. BB, title II, § 203(a)(3), Dec. 27, 2020, 134 Stat. 2910.)
 
 **Editorial Notes**
 
@@ -979,31 +979,31 @@ The date of enactment of the Consolidated Appropriations Act, 2021, and the date
 
 2018—Subsec. (a)(3)(B)(i). Pub. L. 115–141 substituted period for comma at end.
 
-2008—Pub. L. 110–343, § 512(g)(3)(A), substituted “Parity in mental health and substance use disorder benefits” for “Parity in the application of certain limits to mental health benefits” in section catchline.
+2008—Pub. L. 110–343, § 512(g)(3)(A), substituted “Parity in mental health and substance use disorder benefits” for “Parity in the application of certain limits to mental health benefits” in section catchline.
 
-Subsec. (a)(1), (2). Pub. L. 110–343, § 512(c)(7), substituted “mental health or substance use disorder benefits” for “mental health benefits” wherever appearing in pars. (1)(introductory provisions), (A), and (B)(ii) and (2)(introductory provisions), (A), and (B)(ii).
+Subsec. (a)(1), (2). Pub. L. 110–343, § 512(c)(7), substituted “mental health or substance use disorder benefits” for “mental health benefits” wherever appearing in pars. (1)(introductory provisions), (A), and (B)(ii) and (2)(introductory provisions), (A), and (B)(ii).
 
-Pub. L. 110–343, § 512(c)(6), substituted “mental health and substance use disorder benefits” for “mental health benefits” wherever appearing in pars. (1)(B)(i) and (C) and (2)(B)(i) and (C).
+Pub. L. 110–343, § 512(c)(6), substituted “mental health and substance use disorder benefits” for “mental health benefits” wherever appearing in pars. (1)(B)(i) and (C) and (2)(B)(i) and (C).
 
-Subsec. (a)(3) to (5). Pub. L. 110–343, § 512(c)(1), added pars. (3) to (5).
+Subsec. (a)(3) to (5). Pub. L. 110–343, § 512(c)(1), added pars. (3) to (5).
 
-Subsec. (b)(1). Pub. L. 110–343, § 512(c)(7), substituted “mental health or substance use disorder benefits” for “mental health benefits”.
+Subsec. (b)(1). Pub. L. 110–343, § 512(c)(7), substituted “mental health or substance use disorder benefits” for “mental health benefits”.
 
-Subsec. (b)(2). Pub. L. 110–343, § 512(c)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “in the case of a group health plan that provides mental health benefits, as affecting the terms and conditions (including cost sharing, limits on numbers of visits or days of coverage, and requirements relating to medical necessity) relating to the amount, duration, or scope of mental health benefits under the plan, except as specifically provided in subsection (a) (in regard to parity in the imposition of aggregate lifetime limits and annual limits for mental health benefits).”
+Subsec. (b)(2). Pub. L. 110–343, § 512(c)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “in the case of a group health plan that provides mental health benefits, as affecting the terms and conditions (including cost sharing, limits on numbers of visits or days of coverage, and requirements relating to medical necessity) relating to the amount, duration, or scope of mental health benefits under the plan, except as specifically provided in subsection (a) (in regard to parity in the imposition of aggregate lifetime limits and annual limits for mental health benefits).”
 
-Subsec. (c)(1). Pub. L. 110–343, § 512(c)(3)(A), amended par. (1) generally. Prior to amendment, text read as follows: “This section shall not apply to any group health plan for any plan year of a small employer (as defined in section 4980D(d)(2)).”
+Subsec. (c)(1). Pub. L. 110–343, § 512(c)(3)(A), amended par. (1) generally. Prior to amendment, text read as follows: “This section shall not apply to any group health plan for any plan year of a small employer (as defined in section 4980D(d)(2)).”
 
-Subsec. (c)(2). Pub. L. 110–343, § 512(c)(3)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “This section shall not apply with respect to a group health plan if the application of this section to such plan results in an increase in the cost under the plan of at least 1 percent.”
+Subsec. (c)(2). Pub. L. 110–343, § 512(c)(3)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “This section shall not apply with respect to a group health plan if the application of this section to such plan results in an increase in the cost under the plan of at least 1 percent.”
 
-Subsec. (e)(3). Pub. L. 110–343, § 512(c)(7), substituted “mental health or substance use disorder benefits” for “mental health benefits”.
+Subsec. (e)(3). Pub. L. 110–343, § 512(c)(7), substituted “mental health or substance use disorder benefits” for “mental health benefits”.
 
-Subsec. (e)(4). Pub. L. 110–343, § 512(c)(7), which directed substitution of “mental health or substance use disorder benefits” for “mental health benefits” wherever appearing in this section (other than in any provision amended by section 512(c)(6) of Pub. L. 110–343), was not executed to par. (4) as added by Pub. L. 110–343, § 512(c)(4), to reflect the probable intent of Congress. See below.
+Subsec. (e)(4). Pub. L. 110–343, § 512(c)(7), which directed substitution of “mental health or substance use disorder benefits” for “mental health benefits” wherever appearing in this section (other than in any provision amended by section 512(c)(6) of Pub. L. 110–343), was not executed to par. (4) as added by Pub. L. 110–343, § 512(c)(4), to reflect the probable intent of Congress. See below.
 
-Subsec. (e)(4). Pub. L. 110–343, § 512(c)(4), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “The term ‘mental health benefits’ means benefits with respect to mental health services, as defined under the terms of the plan, but does not include benefits with respect to treatment of substance abuse or chemical dependency.”
+Subsec. (e)(4). Pub. L. 110–343, § 512(c)(4), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “The term ‘mental health benefits’ means benefits with respect to mental health services, as defined under the terms of the plan, but does not include benefits with respect to treatment of substance abuse or chemical dependency.”
 
-Subsec. (e)(5). Pub. L. 110–343, § 512(c)(4), added par. (5).
+Subsec. (e)(5). Pub. L. 110–343, § 512(c)(4), added par. (5).
 
-Subsec. (f). Pub. L. 110–343, § 512(c)(5), struck out subsec. (f). Text read as follows: “This section shall not apply to benefits for services furnished—
+Subsec. (f). Pub. L. 110–343, § 512(c)(5), struck out subsec. (f). Text read as follows: “This section shall not apply to benefits for services furnished—
 
 “(1) on or after September 30, 2001, and before January 10, 2002,
 
@@ -1033,11 +1033,11 @@ Amendment by Pub. L. 110–343 applicable with respect to group health plans for
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–311, title III, § 302(d), Oct. 4, 2004, 118 Stat. 1179, provided that: “The amendments made by this section [amending this section, section 1185a of Title 29, Labor, and section 300gg–5 of Title 42, The Public Health and Welfare] shall take effect on the date of the enactment of this Act [Oct. 4, 2004].”
+Pub. L. 108–311, title III, § 302(d), Oct. 4, 2004, 118 Stat. 1179, provided that: “The amendments made by this section [amending this section, section 1185a of Title 29, Labor, and section 300gg–5 of Title 42, The Public Health and Welfare] shall take effect on the date of the enactment of this Act [Oct. 4, 2004].”
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–147, title VI, § 610(b), Mar. 9, 2002, 116 Stat. 60, provided that: “The amendment made by subsection (a) [amending this section] shall apply to plan years beginning after December 31, 2000.”
+Pub. L. 107–147, title VI, § 610(b), Mar. 9, 2002, 116 Stat. 60, provided that: “The amendment made by subsection (a) [amending this section] shall apply to plan years beginning after December 31, 2000.”
 
 **Effective Date**
 
@@ -1045,9 +1045,9 @@ Section applicable with respect to group health plans for plan years beginning o
 
 **Guidance**
 
-Pub. L. 116–260, div. BB, title II, § 203(b), Dec. 27, 2020, 134 Stat. 2918, provided that: “The Secretary of Health and Human Services, jointly with the Secretary of Labor and the Secretary of the Treasury, shall issue guidance to carry out the amendments made by paragraphs (1), (2), and (3) of subsection (a) [amending this section, section 1185a of Title 29, Labor, and section 300gg–26 of Title 42, The Public Health and Welfare].”
+Pub. L. 116–260, div. BB, title II, § 203(b), Dec. 27, 2020, 134 Stat. 2918, provided that: “The Secretary of Health and Human Services, jointly with the Secretary of Labor and the Secretary of the Treasury, shall issue guidance to carry out the amendments made by paragraphs (1), (2), and (3) of subsection (a) [amending this section, section 1185a of Title 29, Labor, and section 300gg–26 of Title 42, The Public Health and Welfare].”
 
-### § 9813. Coverage of dependent students on medically necessary leave of absence
+### § 9813. Coverage of dependent students on medically necessary leave of absence
 
 **(a) Medically necessary leave of absence** In this section, the term “medically necessary leave of absence” means, with respect to a dependent child described in subsection (b)(2) in connection with a group health plan, a leave of absence of such child from a postsecondary educational institution (including an institution of higher education as defined in section 102 of the Higher Education Act of 1965), or any other change in enrollment of such child at such an institution, that—
 
@@ -1093,7 +1093,7 @@ A dependent child whose benefits are continued under this section shall be entit
 
 this section shall apply to coverage of the child under the changed coverage for the remainder of the period of the medically necessary leave of absence of the dependent child under the plan in the same manner as it would have applied if the changed coverage had been the previous coverage.
 
-(Added Pub. L. 110–381, § 2(c)(1), Oct. 9, 2008, 122 Stat. 4084.)
+(Added Pub. L. 110–381, § 2(c)(1), Oct. 9, 2008, 122 Stat. 4084.)
 
 **Editorial Notes**
 
@@ -1105,9 +1105,9 @@ Section 102 of the Higher Education Act of 1965, referred to in subsec. (a), is 
 
 **Effective Date**
 
-Pub. L. 110–381, § 2(d), Oct. 9, 2008, 122 Stat. 4086, provided that: “The amendments made by this Act [enacting this section, section 1185c of Title 29, Labor, and sections 300gg–7 and 300gg–54 of Title 42, The Public Health and Welfare] shall apply with respect to plan years beginning on or after the date that is one year after the date of the enactment of this Act [Oct. 9, 2008] and to medically necessary leaves of absence beginning during such plan years.”
+Pub. L. 110–381, § 2(d), Oct. 9, 2008, 122 Stat. 4086, provided that: “The amendments made by this Act [enacting this section, section 1185c of Title 29, Labor, and sections 300gg–7 and 300gg–54 of Title 42, The Public Health and Welfare] shall apply with respect to plan years beginning on or after the date that is one year after the date of the enactment of this Act [Oct. 9, 2008] and to medically necessary leaves of absence beginning during such plan years.”
 
-### § 9815.1 [footnote: 1 So in original. No section 9814 has been enacted.] Additional market reforms
+### § 9815.1 [footnote: 1 So in original. No section 9814 has been enacted.] Additional market reforms
 
 **(a) General rule** Except as provided in subsection (b)—
 
@@ -1119,17 +1119,17 @@ Pub. L. 110–381, § 2(d), Oct. 9, 2008, 122 Stat. 4086, provided that: “Th
 
 Notwithstanding subsection (a), the provisions of sections 2716 and 2718 of title XXVII of the Public Health Service Act (as amended by the Patient Protection and Affordable Care Act) shall not apply with respect to self-insured group health plans, and the provisions of this subchapter shall continue to apply to such plans as if such sections of the Public Health Service Act (as so amended) had not been enacted.
 
-(Added Pub. L. 111–148, title I, § 1563(f), formerly § 1562(f), title X, § 10107(b)(1), Mar. 23, 2010, 124 Stat. 270, 911.)
+(Added Pub. L. 111–148, title I, § 1563(f), formerly § 1562(f), title X, § 10107(b)(1), Mar. 23, 2010, 124 Stat. 270, 911.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373, 58 Stat. 682. Part A of title XXVII of the Act is classified generally to part A (§ 300gg et seq.) of subchapter XXV of chapter 6A of Title 42, The Public Health and Welfare. Sections 2716 and 2718 of title XXVII of the Act are classified to sections 300gg–16 and 300gg–18, respectively, of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373, 58 Stat. 682. Part A of title XXVII of the Act is classified generally to part A (§ 300gg et seq.) of subchapter XXV of chapter 6A of Title 42, The Public Health and Welfare. Sections 2716 and 2718 of title XXVII of the Act are classified to sections 300gg–16 and 300gg–18, respectively, of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 The Patient Protection and Affordable Care Act, referred to in text, is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of Title 42, The Public Health and Welfare, and Tables.
 
-### § 9816. Preventing surprise medical bills
+### § 9816. Preventing surprise medical bills
 
 **(a) Coverage of emergency services**
 
@@ -1219,13 +1219,13 @@ The term “emergency medical condition” means a medical condition manifesting
 
 **(aa)** Such provider or facility determines such individual is able to travel using nonmedical transportation or nonemergency medical transportation.
 
-**(bb)** Such provider furnishing such additional items and services satisfies the notice and consent criteria of section 2799B–2(d) 1
+**(bb)** Such provider furnishing such additional items and services satisfies the notice and consent criteria of section 2799B–2(d) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 with respect to such items and services.
 
-**(cc)** Such individual is in a condition to receive (as determined in accordance with guidelines issued by the Secretary pursuant to rulemaking) the information described in section 2799B–2 <sup>1</sup> and to provide informed consent under such section, in accordance with applicable State law.
+**(cc)** Such individual is in a condition to receive (as determined in accordance with guidelines issued by the Secretary pursuant to rulemaking) the information described in section 2799B–2 <sup>1</sup> and to provide informed consent under such section, in accordance with applicable State law.
 
 **(dd)** Such other conditions, as specified by the Secretary, such as conditions relating to coordinating care transitions to participating providers and facilities.
 
@@ -1307,23 +1307,23 @@ The term “participating provider” means, with respect to an item or service 
 
 **(i)** subject to clause (iii), in the case of such item or service furnished in a State that has in effect a specified State law with respect to such plan; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount determined in accordance with such law;
 
-**(ii)** subject to clause (iii), in the case of such item or service furnished in a State that does not have in effect a specified State law, with respect to such plan; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount that is the qualifying payment amount (as defined in subparagraph (E)) 2
+**(ii)** subject to clause (iii), in the case of such item or service furnished in a State that does not have in effect a specified State law, with respect to such plan; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount that is the qualifying payment amount (as defined in subparagraph (E)) 2
 
-<sup>2</sup>  Closing parentheses so in original.
+<sup>2</sup> Closing parentheses so in original.
 
-for such year and determined in accordance with rulemaking described in paragraph (2)(B)) 2 for such item or service; or
+for such year and determined in accordance with rulemaking described in paragraph (2)(B)) 2 for such item or service; or
 
 **(iii)** in the case of such item or service furnished in a State with an All-Payer Model Agreement under section 1115A of the Social Security Act, the amount that the State approves under such system for such item or service so furnished.
 
 **(I) Specified State law**
 
-The term “specified State law” means, with respect to a State, an item or service furnished by a nonparticipating provider or nonparticipating emergency facility during a year and a group health plan, a State law that provides for a method for determining the total amount payable under such a plan (to the extent such State law applies to such plan, subject to section 514 <sup>1</sup> ) in the case of a participant or beneficiary covered under such plan and receiving such item or service from such a nonparticipating provider or nonparticipating emergency facility.
+The term “specified State law” means, with respect to a State, an item or service furnished by a nonparticipating provider or nonparticipating emergency facility during a year and a group health plan, a State law that provides for a method for determining the total amount payable under such a plan (to the extent such State law applies to such plan, subject to section 514 <sup>1</sup> ) in the case of a participant or beneficiary covered under such plan and receiving such item or service from such a nonparticipating provider or nonparticipating emergency facility.
 
 **(J) Stabilize**
 
-The term “to stabilize”, with respect to an emergency medical condition (as defined in subparagraph (B)), has the meaning give 3
+The term “to stabilize”, with respect to an emergency medical condition (as defined in subparagraph (B)), has the meaning give 3
 
-<sup>3</sup>  So in original. Probably should be “given”.
+<sup>3</sup> So in original. Probably should be “given”.
 
 in section 1867(e)(3) of the Social Security Act (42 U.S.C. 1395dd(e)(3)).
 
@@ -1417,9 +1417,9 @@ A nonparticipating provider may not, with respect to an item or service furnishe
 
 **(iii)** such items and services are related to the treatment of a similar condition; and
 
-**(iv)** such items and services were furnished during the 30 day 4
+**(iv)** such items and services were furnished during the 30 day 4
 
-<sup>4</sup>  So in original. Probably should be “30-day”.
+<sup>4</sup> So in original. Probably should be “30-day”.
 
 period following the date on which the first item or service included with respect to such determination was furnished or an alternative period as determined by the Secretary, for use in limited situations, such as by the consent of the parties or in the case of low-volume items and services, to encourage procedural efficiency and minimize health plan and provider administrative costs.
 
@@ -1609,9 +1609,9 @@ The Secretary shall ensure the public reporting under this paragraph does not co
 
 **(A) In general**
 
-Each party to a determination under paragraph (5) to which an entity is selected under paragraph (3) 5
+Each party to a determination under paragraph (5) to which an entity is selected under paragraph (3) 5
 
-<sup>5</sup>  So in original. Probably should be “paragraph (4)”.
+<sup>5</sup> So in original. Probably should be “paragraph (4)”.
 
 in a year shall pay to the Secretary, at such time and in such manner as specified by the Secretary, a fee for participating in the IDR process with respect to such determination in an amount described in subparagraph (B) for such year.
 
@@ -1669,7 +1669,7 @@ In the case of a participant or beneficiary scheduled to receive an item or serv
 
 For purposes of subparagraph (A), the term “specified item or service” means an item or service that has low utilization or significant variation in costs (such as when furnished as part of a complex treatment), as specified by the Secretary.
 
-(Added and amended Pub. L. 116–260, div. BB, title I, §§ 102(c)(1), 103(c), 107(c), 111(b), Dec. 27, 2020, 134 Stat. 2784, 2815, 2859, 2863.)
+(Added and amended Pub. L. 116–260, div. BB, title I, §§ 102(c)(1), 103(c), 107(c), 111(b), Dec. 27, 2020, 134 Stat. 2784, 2815, 2859, 2863.)
 
 **Editorial Notes**
 
@@ -1685,7 +1685,7 @@ Section 332 of the Public Health Service Act, referred to in subsec. (a)(2)(B)(i
 
 Section 109(a) of the No Surprises Act, referred to in subsec. (a)(2)(B), is section 109(a) of Pub. L. 116–260, div. BB, title I, Dec. 27, 2020, 134 Stat. 2859, which is not classified to the Code.
 
-The Social Security Act, referred to in subsecs. (a)(3)(B), (C)(i), (H)(iii), (K)(iii), (b)(2)(A)(ii), and (c)(5)(C)(ii)(I), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Sections 1115A, 1833, 1861, 1867, and 1890 are classified to sections 1315a, 1395*l*, 1395x, 1395dd, and 1395aaa, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a)(3)(B), (C)(i), (H)(iii), (K)(iii), (b)(2)(A)(ii), and (c)(5)(C)(ii)(I), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Sections 1115A, 1833, 1861, 1867, and 1890 are classified to sections 1315a, 1395*l*, 1395x, 1395dd, and 1395aaa, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 2799B–1 of the Public Health Service Act, referred to in subsecs. (a)(3)(C)(ii)(I) and (c)(5)(D), is classified to section 300gg–131 of Title 42, The Public Health and Welfare.
 
@@ -1699,23 +1699,23 @@ Section 2799B–6 of the Public Health Service Act, referred to in subsec. (f)(1
 
 **Amendments**
 
-2020—Subsecs. (c), (d). Pub. L. 116–260, § 103(c), added subsec. (c) and redesignated former subsec. (c) as (d).
+2020—Subsecs. (c), (d). Pub. L. 116–260, § 103(c), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-Subsec. (e). Pub. L. 116–260, § 107(c), added subsec. (e).
+Subsec. (e). Pub. L. 116–260, § 107(c), added subsec. (e).
 
-Subsec. (f). Pub. L. 116–260, § 111(b), added subsec. (f).
+Subsec. (f). Pub. L. 116–260, § 111(b), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. BB, title I, § 107(d), Dec. 27, 2020, 134 Stat. 2859, provided that: “The amendments made by this subsection [probably means “this section”, amending this section, section 1185e of Title 29, Labor, and section 300gg–111 of Title 42, The Public Health and Welfare] shall apply with respect to plan years beginning on or after January 1, 2022.”
+Pub. L. 116–260, div. BB, title I, § 107(d), Dec. 27, 2020, 134 Stat. 2859, provided that: “The amendments made by this subsection [probably means “this section”, amending this section, section 1185e of Title 29, Labor, and section 300gg–111 of Title 42, The Public Health and Welfare] shall apply with respect to plan years beginning on or after January 1, 2022.”
 
 **Effective Date**
 
 Section applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 102(e) of div. BB of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under section 8902 of Title 5, Government Organization and Employees.
 
-### § 9817. Ending surprise air ambulance bills
+### § 9817. Ending surprise air ambulance bills
 
 **(a) In general** In the case of a participant or beneficiary in a group health plan who receives air ambulance services from a nonparticipating provider (as defined in section 9816(a)(3)(G)) with respect to such plan, if such services would be covered if provided by a participating provider (as defined in such section) with respect to such plan—
 
@@ -1815,9 +1815,9 @@ In determining which offer is the payment amount to be applied with respect to q
 
 **(D) Effects of determination**
 
-The provisions of section 9816(c)(5)(E)) 1
+The provisions of section 9816(c)(5)(E)) 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 shall apply with respect to a determination of a certified IDR entity under subparagraph (A), the notification submitted with respect to such determination, the services with respect to such notification, and the parties to such notification in the same manner as such provisions apply with respect to a determination of a certified IDR entity under section 9816(c)(5)(E), the notification submitted with respect to such determination, the items and services with respect to such notification, and the parties to such notification.
 
@@ -1839,7 +1839,7 @@ The total plan payment required pursuant to subsection (a)(3), with respect to q
 
 **(iii)** the information described in subparagraph (B) with respect to each notification with respect to which such a determination was so made.2
 
-<sup>2</sup>  So in original. The period probably should be a semicolon.
+<sup>2</sup> So in original. The period probably should be a semicolon.
 
 **(iv)** the number of times the payment amount determined (or agreed to) under this subsection exceeds the qualifying payment amount;
 
@@ -1905,7 +1905,7 @@ The term “qualifying payment amount” has the meaning given such term in sect
 
 The term “nonparticipating provider” has the meaning given such term in section 9816(a)(3).
 
-(Added Pub. L. 116–260, div. BB, title I, § 105(a)(3)(A), Dec. 27, 2020, 134 Stat. 2844.)
+(Added Pub. L. 116–260, div. BB, title I, § 105(a)(3)(A), Dec. 27, 2020, 134 Stat. 2844.)
 
 **Editorial Notes**
 
@@ -1917,15 +1917,15 @@ Section 2799B–2 of the Public Health Service Act, referred to in subsec. (b)(2
 
 Section 2799B–5 of the Public Health Service Act, referred to in subsec. (b)(5)(C)(iii), is classified to section 300gg–135 of Title 42, The Public Health and Welfare.
 
-The Social Security Act, referred to in subsec. (b)(5)(C)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(5)(C)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 116–260, div. BB, title I, § 105(a)(4), Dec. 27, 2020, 134 Stat. 2851, provided that: “The amendments made by this subsection [enacting this section, section 1185f of Title 29, Labor, and section 300gg–112 of Title 42, The Public Health and Welfare] shall apply with respect to plan years beginning on or after January 1, 2022.”
+Pub. L. 116–260, div. BB, title I, § 105(a)(4), Dec. 27, 2020, 134 Stat. 2851, provided that: “The amendments made by this subsection [enacting this section, section 1185f of Title 29, Labor, and section 300gg–112 of Title 42, The Public Health and Welfare] shall apply with respect to plan years beginning on or after January 1, 2022.”
 
-### § 9818. Continuity of care
+### § 9818. Continuity of care
 
 **(a) Ensuring continuity of care with respect to terminations of certain contractual relationships resulting in changes in provider network status**
 
@@ -1979,7 +1979,7 @@ the plan shall meet the requirements of paragraph (2) with respect to such indiv
 
 The term “terminated” includes, with respect to a contract, the expiration or nonrenewal of the contract, but does not include a termination of the contract for failure to meet applicable quality standards or for fraud.
 
-(Added Pub. L. 116–260, div. BB, title I, § 113(b)(1), Dec. 27, 2020, 134 Stat. 2870.)
+(Added Pub. L. 116–260, div. BB, title I, § 113(b)(1), Dec. 27, 2020, 134 Stat. 2870.)
 
 **Editorial Notes**
 
@@ -1991,21 +1991,21 @@ Section 1861(dd)(3)(A) of the Social Security Act, referred to in subsec. (b)(1)
 
 **Effective Date**
 
-Pub. L. 116–260, div. BB, title I, § 113(e), Dec. 27, 2020, 134 Stat. 2873, provided that: “The amendments made by subsections (a), (b), and (c) [enacting this section, section 1185g of Title 29, Labor, and section 300gg–113 of Title 42, The Public Health and Welfare] shall apply with respect to plan years beginning on or after January 1, 2022.”
+Pub. L. 116–260, div. BB, title I, § 113(e), Dec. 27, 2020, 134 Stat. 2873, provided that: “The amendments made by subsections (a), (b), and (c) [enacting this section, section 1185g of Title 29, Labor, and section 300gg–113 of Title 42, The Public Health and Welfare] shall apply with respect to plan years beginning on or after January 1, 2022.”
 
-### § 9819. Maintenance of price comparison tool
+### § 9819. Maintenance of price comparison tool
 
 A group health plan shall offer price comparison guidance by telephone and make available on the Internet website of the plan or issuer a price comparison tool that (to the extent practicable) allows an individual enrolled under such plan, with respect to such plan year, such geographic region, and participating providers with respect to such plan or coverage, to compare the amount of cost-sharing that the individual would be responsible for paying under such plan with respect to the furnishing of a specific item or service by any such provider.
 
-(Added Pub. L. 116–260, div. BB, title I, § 114(b)(1), Dec. 27, 2020, 134 Stat. 2874.)
+(Added Pub. L. 116–260, div. BB, title I, § 114(b)(1), Dec. 27, 2020, 134 Stat. 2874.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 116–260, div. BB, title I, § 114(d), Dec. 27, 2020, 134 Stat. 2875, provided that: “The amendments made by this section [enacting this section, section 1185h of Title 29, Labor, and section 300gg–114 of Title 42, The Public Health and Welfare] shall apply with respect to plan years beginning on or after January 1, 2022.”
+Pub. L. 116–260, div. BB, title I, § 114(d), Dec. 27, 2020, 134 Stat. 2875, provided that: “The amendments made by this section [enacting this section, section 1185h of Title 29, Labor, and section 300gg–114 of Title 42, The Public Health and Welfare] shall apply with respect to plan years beginning on or after January 1, 2022.”
 
-### § 9820. Protecting patients and improving the accuracy of provider directory information
+### § 9820. Protecting patients and improving the accuracy of provider directory information
 
 **(a) Provider directory information requirements**
 
@@ -2077,7 +2077,7 @@ Nothing in this section shall be construed to preempt any provision of State law
 
 **(2)** information on contacting appropriate State and Federal agencies in the case that an individual believes that such a provider or facility has violated any requirement described in paragraph (1) with respect to such individual.
 
-(Added Pub. L. 116–260, div. BB, title I, § 116(c), Dec. 27, 2020, 134 Stat. 2884.)
+(Added Pub. L. 116–260, div. BB, title I, § 116(c), Dec. 27, 2020, 134 Stat. 2884.)
 
 **Editorial Notes**
 
@@ -2087,7 +2087,7 @@ Section 2799B–9 of the Public Health Service Act, referred to in subsec. (a)(2
 
 Sections 2799B–1 and 2799B–2 of the Public Health Service Act, referred to in subsec. (c)(1)(A), are classified to sections 300gg–131 and 300gg–132, respectively, of Title 42, The Public Health and Welfare.
 
-### § 9822.1 [footnote: 1 So in original. No section 9821 has been enacted.] Other patient protections
+### § 9822.1 [footnote: 1 So in original. No section 9821 has been enacted.] Other patient protections
 
 **(a) Choice of health care professional**
 
@@ -2127,7 +2127,7 @@ A group health plan described in paragraph (2) shall treat the provision of obst
 
 **(B)** preclude the group health plan involved from requiring that the obstetrical or gynecological provider notify the primary care health care professional or the plan or issuer of treatment decisions.
 
-(Added Pub. L. 116–260, div. BB, title I, § 102(c)(2), Dec. 27, 2020, 134 Stat. 2795.)
+(Added Pub. L. 116–260, div. BB, title I, § 102(c)(2), Dec. 27, 2020, 134 Stat. 2795.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2135,7 +2135,7 @@ A group health plan described in paragraph (2) shall treat the provision of obst
 
 Section applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 102(e) of div. BB of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under section 8902 of Title 5, Government Organization and Employees.
 
-### § 9823. Air ambulance report requirements
+### § 9823. Air ambulance report requirements
 
 **(a) In general** Each group health plan shall submit to the Secretary, jointly with the Secretary of Labor and the Secretary of Health and Human Services—
 
@@ -2159,7 +2159,7 @@ Section applicable with respect to plan years beginning on or after Jan. 1, 2022
 
 **(2)** Such other information regarding providers of air ambulance services as the Secretary may specify.
 
-(Added Pub. L. 116–260, div. BB, title I, § 106(b)(3)(A), Dec. 27, 2020, 134 Stat. 2854.)
+(Added Pub. L. 116–260, div. BB, title I, § 106(b)(3)(A), Dec. 27, 2020, 134 Stat. 2854.)
 
 **Editorial Notes**
 
@@ -2167,9 +2167,9 @@ Section applicable with respect to plan years beginning on or after Jan. 1, 2022
 
 Section 106(d) of the No Surprises Act, referred to in subsec. (a)(1), is section 106(d) of div. BB of Pub. L. 116–260, which is set out as a note under section 300gg–118 of Title 42, The Public Health and Welfare.
 
-### § 9824. Increasing transparency by removing gag clauses on price and quality information
+### § 9824. Increasing transparency by removing gag clauses on price and quality information
 
-**(a) 1 [footnote: 1 So in original. There is no subsec. (b).] Increasing price and quality transparency for plan sponsors and consumers**
+**(a) 1 [footnote: 1 So in original. There is no subsec. (b).] Increasing price and quality transparency for plan sponsors and consumers**
 
 **(1) In general** A group health plan may not enter into an agreement with a health care provider, network or association of providers, third-party administrator, or other service provider offering access to a network of providers that would directly or indirectly restrict a group health plan from—
 
@@ -2199,7 +2199,7 @@ A group health plan shall annually submit to the Secretary an attestation that s
 
 Nothing in this section shall be construed to modify or eliminate existing privacy protections and standards under State and Federal law. Nothing in this subsection shall be construed to otherwise limit access by a group health plan or plan sponsor to data as permitted under the privacy regulations promulgated pursuant to section 264(c) of the Health Insurance Portability and Accountability Act of 1996, the amendments made by the Genetic Information Nondiscrimination Act of 2008, and the Americans with Disabilities Act of 1990.
 
-(Added Pub. L. 116–260, div. BB, title II, § 201(c), Dec. 27, 2020, 134 Stat. 2893.)
+(Added Pub. L. 116–260, div. BB, title II, § 201(c), Dec. 27, 2020, 134 Stat. 2893.)
 
 **Editorial Notes**
 
@@ -2209,9 +2209,9 @@ Section 264(c) of the Health Insurance Portability and Accountability Act of 199
 
 The Genetic Information Nondiscrimination Act of 2008, referred to in subsec. (a)(1)(B), (C), (4), is Pub. L. 110–233, May 21, 2008, 122 Stat. 881. For complete classification of this Act to the Code, see Short Title note set out under section 2000ff of Title 42, The Public Health and Welfare, and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (a)(1)(B), (C), (4), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (a)(1)(B), (C), (4), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-### § 9825. Reporting on pharmacy benefits and drug costs
+### § 9825. Reporting on pharmacy benefits and drug costs
 
 **(a) In general** Not later than 1 year after the date of enactment of the Consolidated Appropriations Act, 2021, and not later than June 1 of each year thereafter, a group health plan shall submit to the Secretary, the Secretary of Health and Human Services, and the Secretary of Labor the following information with respect to the health plan in the previous plan year:
 
@@ -2267,7 +2267,7 @@ Not later than 18 months after the date on which the first report is required un
 
 No confidential or trade secret information submitted to the Secretary under subsection (a) shall be included in the report under subsection (b).
 
-(Added Pub. L. 116–260, div. BB, title II, § 204(c), Dec. 27, 2020, 134 Stat. 2920.)
+(Added Pub. L. 116–260, div. BB, title II, § 204(c), Dec. 27, 2020, 134 Stat. 2920.)
 
 **Editorial Notes**
 
@@ -2275,7 +2275,7 @@ No confidential or trade secret information submitted to the Secretary under sub
 
 The date of enactment of the Consolidated Appropriations Act, 2021, referred to in subsec. (a), is the date of enactment of Pub. L. 116–260, which was approved Dec. 27, 2020.
 
-### § 9826. Oversight of entities that provide pharmacy benefit management services
+### § 9826. Oversight of entities that provide pharmacy benefit management services
 
 **(a) In general** For plan years beginning on or after the date that is 30 months after the date of enactment of this section (referred to in this subsection and subsection (b) as the “effective date”), a group health plan, or an entity providing pharmacy benefit management services on behalf of such a plan, shall not enter into a contract, including an extension or renewal of a contract, entered into on or after the effective date, with an applicable entity unless such applicable entity agrees to—
 
@@ -2403,9 +2403,9 @@ For plan years beginning on or after the effective date, in the case of any cont
 
 **(III)** to the extent feasible, information on the total amount of remuneration for such drugs, including copayment assistance dollars paid, copayment cards applied, or other discounts provided by each drug manufacturer (or entity administering copayment assistance on behalf of such drug manufacturer) to participants and beneficiaries;
 
-**(iv)** amounts paid directly or indirectly in rebates, fees, or any other type of compensation (as defined in section 408(b)(2)(B)(ii)(dd)(AA) of the Employee Retirement Income Security Act 1
+**(iv)** amounts paid directly or indirectly in rebates, fees, or any other type of compensation (as defined in section 408(b)(2)(B)(ii)(dd)(AA) of the Employee Retirement Income Security Act 1
 
-<sup>1</sup>  So in original. Probably should be followed by “of 1974”.
+<sup>1</sup> So in original. Probably should be followed by “of 1974”.
 
 (29 U.S.C. 1108(b)(2)(B)(ii)(dd)(AA)) to brokerage firms, brokers, consultants, advisors, or any other individual or firm, for—
 
@@ -2443,11 +2443,11 @@ In carrying out this subsection, a group health plan shall comply with section 1
 
 **(i)** Nothing in this section shall be construed to modify the requirements for the creation, receipt, maintenance, or transmission of protected health information under the HIPAA privacy regulations.
 
-**(ii)** Nothing in this section shall be construed to affect the application of any Federal or State privacy or civil rights law, including the HIPAA privacy regulations, the Genetic Information Nondiscrimination Act of 2008 (Public Law 110–233) (including the amendments made by such Act), the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794), section 1557 of the Patient Protection and Affordable Care Act (42 U.S.C. 18116), title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d 2
+**(ii)** Nothing in this section shall be construed to affect the application of any Federal or State privacy or civil rights law, including the HIPAA privacy regulations, the Genetic Information Nondiscrimination Act of 2008 (Public Law 110–233) (including the amendments made by such Act), the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794), section 1557 of the Patient Protection and Affordable Care Act (42 U.S.C. 18116), title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d 2
 
-<sup>2</sup>  So in original. Probably should be followed by “et seq.”
+<sup>2</sup> So in original. Probably should be followed by “et seq.”
 
-), and title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e 2 ).
+), and title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e 2 ).
 
 **(D) Written notice**
 
@@ -2533,7 +2533,7 @@ The term “specified large plan” means a group health plan established or mai
 
 The term “wholesale acquisition cost” has the meaning given such term in section 1847A(c)(6)(B) of the Social Security Act (42 U.S.C. 1395w–3a(c)(6)(B)).
 
-(Added Pub. L. 119–75, div. J, title VII, § 6701(c)(1)(A), Feb. 3, 2026, 140 Stat. 723.)
+(Added Pub. L. 119–75, div. J, title VII, § 6701(c)(1)(A), Feb. 3, 2026, 140 Stat. 723.)
 
 **Editorial Notes**
 
@@ -2545,9 +2545,9 @@ The Health Insurance Portability and Accountability Act of 1996, referred to in 
 
 The Genetic Information Nondiscrimination Act of 2008, referred to in subsec. (b)(4)(C)(ii), is Pub. L. 110–233, May 21, 2008, 122 Stat. 881. For complete classification of this Act to the Code, see Short Title note set out under section 2000ff of Title 42, The Public Health and Welfare, and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b)(4)(C)(ii), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(4)(C)(ii), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (b)(4)(C)(ii), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. Title VII of the Act is classified generally to subchapter VI (§ 2000e et seq.) of chapter 21 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (b)(4)(C)(ii), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. Title VII of the Act is classified generally to subchapter VI (§ 2000e et seq.) of chapter 21 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 ## Subchapter C—General Provisions
 
@@ -2555,11 +2555,11 @@ The Civil Rights Act of 1964, referred to in subsec. (b)(4)(C)(ii), is Pub. L. 8
 
 **Amendments**
 
-2008—Pub. L. 110–233, title I, § 103(e)(2), May 21, 2008, 122 Stat. 899, added item 9834.
+2008—Pub. L. 110–233, title I, § 103(e)(2), May 21, 2008, 122 Stat. 899, added item 9834.
 
-1997—Pub. L. 105–34, title XV, § 1531(a)(3), Aug. 5, 1997, 111 Stat. 1081, added subchapter heading and analysis.
+1997—Pub. L. 105–34, title XV, § 1531(a)(3), Aug. 5, 1997, 111 Stat. 1081, added subchapter heading and analysis.
 
-### § 9831. General exceptions
+### § 9831. General exceptions
 
 **(a) Exception for certain plans** The requirements of this chapter shall not apply to—
 
@@ -2665,7 +2665,7 @@ An employer funding a qualified small employer health reimbursement arrangement 
 
 **(iii)** A statement that if the employee is not covered under minimum essential coverage for any month the employee may be subject to tax under section 5000A for such month and reimbursements under the arrangement may be includible in gross income.
 
-(Added Pub. L. 104–191, title IV, § 401(a), Aug. 21, 1996, 110 Stat. 2080, § 9804; renumbered § 9831 and amended Pub. L. 105–34, title XV, § 1531(a)(2), (b)(1)(B)–(E), Aug. 5, 1997, 111 Stat. 1081, 1084, 1085; Pub. L. 114–255, div. C, title XVIII, § 18001(a)(1), Dec. 13, 2016, 130 Stat. 1338; Pub. L. 115–97, title I, § 11002(d)(1)(TT), Dec. 22, 2017, 131 Stat. 2061; Pub. L. 116–94, div. N, title I, § 503(b)(2), Dec. 20, 2019, 133 Stat. 3119; Pub. L. 119–75, div. J, title VII, § 6701(c)(2), Feb. 3, 2026, 140 Stat. 732.)
+(Added Pub. L. 104–191, title IV, § 401(a), Aug. 21, 1996, 110 Stat. 2080, § 9804; renumbered § 9831 and amended Pub. L. 105–34, title XV, § 1531(a)(2), (b)(1)(B)–(E), Aug. 5, 1997, 111 Stat. 1081, 1084, 1085; Pub. L. 114–255, div. C, title XVIII, § 18001(a)(1), Dec. 13, 2016, 130 Stat. 1338; Pub. L. 115–97, title I, § 11002(d)(1)(TT), Dec. 22, 2017, 131 Stat. 2061; Pub. L. 116–94, div. N, title I, § 503(b)(2), Dec. 20, 2019, 133 Stat. 3119; Pub. L. 119–75, div. J, title VII, § 6701(c)(2), Feb. 3, 2026, 140 Stat. 732.)
 
 **Inflation Adjusted Items for Certain Years**
 
@@ -2707,7 +2707,7 @@ Amendment by Pub. L. 105–34 applicable with respect to group health plans for 
 
 Section applicable to plan years beginning after June 30, 1997, see section 401(c) of Pub. L. 104–191, set out as a note under section 9801 of this title.
 
-### § 9832. Definitions
+### § 9832. Definitions
 
 **(a) Group health plan**
 
@@ -2857,19 +2857,19 @@ The term “genetic test” means an analysis of human DNA, RNA, chromosomes, pr
 
 **(D)** other activities related to the creation, renewal, or replacement of a contract of health insurance or health benefits.
 
-(Added Pub. L. 104–191, title IV, § 401(a), Aug. 21, 1996, 110 Stat. 2080, § 9805; renumbered § 9832, Pub. L. 105–34, title XV, § 1531(a)(2), Aug. 5, 1997, 111 Stat. 1081; amended Pub. L. 110–233, title I, § 103(d), May 21, 2008, 122 Stat. 898.)
+(Added Pub. L. 104–191, title IV, § 401(a), Aug. 21, 1996, 110 Stat. 2080, § 9805; renumbered § 9832, Pub. L. 105–34, title XV, § 1531(a)(2), Aug. 5, 1997, 111 Stat. 1081; amended Pub. L. 110–233, title I, § 103(d), May 21, 2008, 122 Stat. 898.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(2) and (d)(1)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832. Section 514(b)(2) of the Act is classified to section 1144(b)(2) of Title 29, Labor. Section 609 of the Act is classified to section 1169 of Title 29. Part 6 of subtitle B of title I of the Act is classified generally to part 6 (§ 1161 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(2) and (d)(1)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832. Section 514(b)(2) of the Act is classified to section 1144(b)(2) of Title 29, Labor. Section 609 of the Act is classified to section 1169 of Title 29. Part 6 of subtitle B of title I of the Act is classified generally to part 6 (§ 1161 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The date of the enactment of this section, referred to in subsec. (b)(2), is the date of enactment of Pub. L. 104–191, which was approved Aug. 21, 1996.
 
 Section 1882(g)(1) of the Social Security Act, referred to in subsec. (c)(4), is classified to section 1395ss(g)(1) of Title 42, The Public Health and Welfare.
 
-The Public Health Service Act, referred to in subsec. (d)(1)(C), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXII of the Act is classified generally to subchapter XX (§ 300bb–1 et seq.) of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (d)(1)(C), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXII of the Act is classified generally to subchapter XX (§ 300bb–1 et seq.) of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 **Amendments**
 
@@ -2887,11 +2887,11 @@ Amendment by Pub. L. 110–233 applicable with respect to group health plans for
 
 Section applicable to plan years beginning after June 30, 1997, see section 401(c) of Pub. L. 104–191, set out as a note under section 9801 of this title.
 
-### § 9833. Regulations
+### § 9833. Regulations
 
 The Secretary, consistent with section 104 of the Health Care Portability and Accountability Act of 1996, may promulgate such regulations as may be necessary or appropriate to carry out the provisions of this chapter. The Secretary may promulgate any interim final rules as the Secretary determines are appropriate to carry out this chapter.
 
-(Added Pub. L. 104–191, title IV, § 401(a), Aug. 21, 1996, 110 Stat. 2082; § 9806; renumbered § 9833, Pub. L. 105–34, title XV, § 1531(a)(2), Aug. 5, 1997, 111 Stat. 1081.)
+(Added Pub. L. 104–191, title IV, § 401(a), Aug. 21, 1996, 110 Stat. 2082; § 9806; renumbered § 9833, Pub. L. 105–34, title XV, § 1531(a)(2), Aug. 5, 1997, 111 Stat. 1081.)
 
 **Editorial Notes**
 
@@ -2909,11 +2909,11 @@ Section 104 of the Health Care Portability and Accountability Act of 1996, refer
 
 Section applicable to plan years beginning after June 30, 1997, see section 401(c) of Pub. L. 104–191, set out as a note under section 9801 of this title.
 
-### § 9834. Enforcement
+### § 9834. Enforcement
 
 For the imposition of tax on any failure of a group health plan to meet the requirements of this chapter, see section 4980D.
 
-(Added Pub. L. 110–233, title I, § 103(e)(1), May 21, 2008, 122 Stat. 899.)
+(Added Pub. L. 110–233, title I, § 103(e)(1), May 21, 2008, 122 Stat. 899.)
 
 **Statutory Notes and Related Subsidiaries**
 

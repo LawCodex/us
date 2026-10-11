@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 107—PROTECTION OF INTELLECTUAL PROPERTY RIGHTS
 
-## § 8101. Definition
+## § 8101. Definition
 
 In this Act, the term “United States person” means—
 
@@ -27,7 +27,7 @@ In this Act, the term “United States person” means—
 
 except that such term does not include an individual who resides outside the United States and is employed by an individual or entity other than an individual or entity described in paragraph (1), (2), or (3).
 
-(Pub. L. 110–403, § 3, Oct. 13, 2008, 122 Stat. 4257.)
+(Pub. L. 110–403, § 3, Oct. 13, 2008, 122 Stat. 4257.)
 
 **Editorial Notes**
 
@@ -39,11 +39,11 @@ This Act, referred to in text, is Pub. L. 110–403, Oct. 13, 2008, 122 Stat. 42
 
 **Short Title**
 
-Pub. L. 110–403, § 1(a), Oct. 13, 2008, 122 Stat. 4256, provided that: “This Act [enacting this chapter, section 2323 of Title 18, Crimes and Criminal Procedure, and sections 3713a to 3713d of Title 42, The Public Health and Welfare, amending sections 1116 and 1117 of this title, sections 109, 111, 115, 119, 122, 411, 412, 503, 506, 601, and 602 of Title 17, Copyrights, sections 1834 and 2318 to 2320 of Title 18, section 1595a of Title 19, Customs Duties, and section 3713 of Title 42, and repealing section 1128 of this title and section 509 of Title 17] may be cited as the ‘Prioritizing Resources and Organization for Intellectual Property Act of 2008’.”
+Pub. L. 110–403, § 1(a), Oct. 13, 2008, 122 Stat. 4256, provided that: “This Act [enacting this chapter, section 2323 of Title 18, Crimes and Criminal Procedure, and sections 3713a to 3713d of Title 42, The Public Health and Welfare, amending sections 1116 and 1117 of this title, sections 109, 111, 115, 119, 122, 411, 412, 503, 506, 601, and 602 of Title 17, Copyrights, sections 1834 and 2318 to 2320 of Title 18, section 1595a of Title 19, Customs Duties, and section 3713 of Title 42, and repealing section 1128 of this title and section 509 of Title 17] may be cited as the ‘Prioritizing Resources and Organization for Intellectual Property Act of 2008’.”
 
 ## SUBCHAPTER I—COORDINATION AND STRATEGIC PLANNING OF FEDERAL EFFORT AGAINST COUNTERFEITING AND INFRINGEMENT
 
-### § 8111. Intellectual Property Enforcement Coordinator
+### § 8111. Intellectual Property Enforcement Coordinator
 
 **(a) Intellectual Property Enforcement Coordinator**
 
@@ -101,7 +101,7 @@ The IPEC may not control or direct any law enforcement agency, including the Dep
 
 The advisory committee established under subparagraph (A) shall develop the Joint Strategic Plan against counterfeiting and infringement under section 8113 of this title.
 
-(Pub. L. 110–403, title III, § 301, Oct. 13, 2008, 122 Stat. 4264.)
+(Pub. L. 110–403, title III, § 301, Oct. 13, 2008, 122 Stat. 4264.)
 
 **Editorial Notes**
 
@@ -207,11 +207,11 @@ Sec. 3. *General Provisions*.
 
 Barack Obama.
 
-### § 8112. Definition
+### § 8112. Definition
 
 For purposes of this subchapter, the term “intellectual property enforcement” means matters relating to the enforcement of laws protecting copyrights, patents, trademarks, other forms of intellectual property, and trade secrets, both in the United States and abroad, including in particular matters relating to combating counterfeit and infringing goods.
 
-(Pub. L. 110–403, title III, § 302, Oct. 13, 2008, 122 Stat. 4266.)
+(Pub. L. 110–403, title III, § 302, Oct. 13, 2008, 122 Stat. 4266.)
 
 **Editorial Notes**
 
@@ -219,7 +219,7 @@ For purposes of this subchapter, the term “intellectual property enforcement�
 
 This subchapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 110–403, Oct. 13, 2008, 122 Stat. 4264, which is classified principally to this subchapter. For complete classification of title III to the Code, see Tables.
 
-### § 8113. Joint Strategic Plan
+### § 8113. Joint Strategic Plan
 
 **(a) Purpose** The objectives of the Joint Strategic Plan against counterfeiting and infringement that is referred to in section 8111(b)(1)(B) of this title (in this section referred to as the “joint strategic plan”) are the following:
 
@@ -291,9 +291,9 @@ Not later than 12 months after October 13, 2008, and not later than December 31 
 
 The joint strategic plan shall be posted for public access on the website of the White House, and shall be disseminated to the public through such other means as the IPEC may identify.
 
-(Pub. L. 110–403, title III, § 303, Oct. 13, 2008, 122 Stat. 4266.)
+(Pub. L. 110–403, title III, § 303, Oct. 13, 2008, 122 Stat. 4266.)
 
-### § 8114. Reporting
+### § 8114. Reporting
 
 **(a) Annual report**
 
@@ -323,9 +323,9 @@ Not later than December 31 of each calendar year beginning in 2009, the IPEC sha
 
 **(11)** Recommendations, if any and as appropriate, on how to enhance the efficiency and consistency with which Federal funds and resources are expended to enforce, investigate, or prosecute intellectual property crimes, including the extent to which the agencies and Departments responsible for the enforcement, investigation, or prosecution of intellectual property crimes have utilized existing personnel, materials, technologies, and facilities.
 
-(Pub. L. 110–403, title III, § 304, Oct. 13, 2008, 122 Stat. 4269.)
+(Pub. L. 110–403, title III, § 304, Oct. 13, 2008, 122 Stat. 4269.)
 
-### § 8115. Savings and repeals
+### § 8115. Savings and repeals
 
 **(a) Transition from NIPLECC to IPEC**
 
@@ -349,7 +349,7 @@ Upon confirmation by the Senate, and notwithstanding paragraph (1), the IPEC may
 
 **(2)** shall be construed to transfer authority regarding the control, use, or allocation of law enforcement resources, or the initiation or prosecution of individual cases or types of cases, from the responsible law enforcement department or agency.
 
-(Pub. L. 110–403, title III, § 305, Oct. 13, 2008, 122 Stat. 4270.)
+(Pub. L. 110–403, title III, § 305, Oct. 13, 2008, 122 Stat. 4270.)
 
 **Editorial Notes**
 
@@ -363,13 +363,13 @@ This subchapter, referred to in subsecs. (b) and (c), was in the original “thi
 
 Section is comprised of section 305 of Pub. L. 110–403. Subsec. (a)(1) of section 305 of Pub. L. 110–403 repealed section 1128 of this title.
 
-### § 8116. Authorization of appropriations
+### § 8116. Authorization of appropriations
 
-**(a) 1 [footnote: 1 So in original. No subsec. (b) has been enacted.] In general**
+**(a) 1 [footnote: 1 So in original. No subsec. (b) has been enacted.] In general**
 
 There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out this subchapter.
 
-(Pub. L. 110–403, title III, § 306, Oct. 13, 2008, 122 Stat. 4270.)
+(Pub. L. 110–403, title III, § 306, Oct. 13, 2008, 122 Stat. 4270.)
 
 **Editorial Notes**
 
@@ -379,7 +379,7 @@ This subchapter, referred to in subsec. (a), was in the original “this title�
 
 ## SUBCHAPTER II—CYBERSQUATTING PROTECTION
 
-### § 8131. Cyberpiracy protections for individuals
+### § 8131. Cyberpiracy protections for individuals
 
 **(1) In general**
 
@@ -403,13 +403,13 @@ In this section, the term “domain name” has the meaning given that term in s
 
 This section shall apply to domain names registered on or after November 29, 1999.
 
-(Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3002(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–548.)
+(Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3002(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–548.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Trademark Act of 1946, referred to in par. (1)(B), is act July 5, 1946, ch. 540, 60 Stat. 427, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§ 1051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of this title and Tables.
+The Trademark Act of 1946, referred to in par. (1)(B), is act July 5, 1946, ch. 540, 60 Stat. 427, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§ 1051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of this title and Tables.
 
 **Codification**
 

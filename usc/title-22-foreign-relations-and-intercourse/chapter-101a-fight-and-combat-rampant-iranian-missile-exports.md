@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 101A—FIGHT AND COMBAT RAMPANT IRANIAN MISSILE EXPORTS
 
-## § 9421. Findings
+## § 9421. Findings
 
 Congress makes the following findings:
 
@@ -25,15 +25,15 @@ Congress makes the following findings:
 
 **(3)** Certain missile-related restrictions in Annex B to United Nations Security Council Resolution 2231 expired in October 2023, removing international legal restrictions on missile-related activities and transfers to and from Iran.
 
-(Pub. L. 118–50, div. K, § 2, Apr. 24, 2024, 138 Stat. 970.)
+(Pub. L. 118–50, div. K, § 2, Apr. 24, 2024, 138 Stat. 970.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 118–50, div. K, § 1, Apr. 24, 2024, 138 Stat. 970, provided that: “This division [enacting this chapter] may be cited as the ‘Fight and Combat Rampant Iranian Missile Exports Act’ or the ‘Fight CRIME Act’.”
+Pub. L. 118–50, div. K, § 1, Apr. 24, 2024, 138 Stat. 970, provided that: “This division [enacting this chapter] may be cited as the ‘Fight and Combat Rampant Iranian Missile Exports Act’ or the ‘Fight CRIME Act’.”
 
-## § 9422. Statement of policy
+## § 9422. Statement of policy
 
 It is the policy of the United States—
 
@@ -45,9 +45,9 @@ It is the policy of the United States—
 
 **(4)** to ensure countries, individuals, and entities engaged in, or attempting to engage in, the acquisition, facilitation, or development of arms and related components and technology subject to restrictions under Annex B to United Nations Security Council Resolution 2231 are held to account under United States and international law, including through the application and enforcement of sanctions and use of export controls, regardless of whether the restrictions under Annex B to United Nations Security Council Resolution 2231 remain in effect following their anticipated expiration in October 2023.
 
-(Pub. L. 118–50, div. K, § 3, Apr. 24, 2024, 138 Stat. 970.)
+(Pub. L. 118–50, div. K, § 3, Apr. 24, 2024, 138 Stat. 970.)
 
-## § 9423. Sanctions to combat the proliferation of Iranian missiles
+## § 9423. Sanctions to combat the proliferation of Iranian missiles
 
 **(a) In general** The sanctions described in subsection (b) shall apply to any foreign person the President determines, on or after April 24, 2024—
 
@@ -77,9 +77,9 @@ The President shall exercise all authorities granted under the International Eme
 
 **(ii)** ineligible to receive a visa or other documentation to enter the United States; and
 
-**(iii)** otherwise ineligible to be admitted or paroled into the United States or to receive any other benefit under the Immigration and Nationality Act (8 U.S.C. 1101 et 16 1
+**(iii)** otherwise ineligible to be admitted or paroled into the United States or to receive any other benefit under the Immigration and Nationality Act (8 U.S.C. 1101 et 16 1
 
-<sup>1</sup>  So in original. The number “16” probably should not appear.
+<sup>1</sup> So in original. The number “16” probably should not appear.
 
 seq.).
 
@@ -97,9 +97,9 @@ The visa or other entry documentation of any alien described in subsection (a) i
 
 **(c) Penalties**
 
-Any person that violates, or attempts to violate, subsection (b) or any regulation, license, or order issued pursuant to that subsection, shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Economic 2
+Any person that violates, or attempts to violate, subsection (b) or any regulation, license, or order issued pursuant to that subsection, shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Economic 2
 
-<sup>2</sup>  So in original. Probably should be preceded by “Emergency”.
+<sup>2</sup> So in original. Probably should be preceded by “Emergency”.
 
 Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
 
@@ -147,25 +147,25 @@ Sanctions under this section shall not apply to any activity subject to the repo
 
 **(2)** Iran has ceased the pursuit, acquisition, and development of, and verifiably dismantled its, nuclear, biological, and chemical weapons and ballistic missiles and ballistic missile launch technology.
 
-(Pub. L. 118–50, div. K, § 5, Apr. 24, 2024, 138 Stat. 972.)
+(Pub. L. 118–50, div. K, § 5, Apr. 24, 2024, 138 Stat. 972.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsec. (b)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (b)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-The Immigration and Nationality Act, referred to in subsec. (b)(2)(iii), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (b)(2)(iii), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 This division, referred to in subsec. (f), is div. K of Pub. L. 118–50, Apr. 24, 2024, 138 Stat. 970, known as the Fight and Combat Rampant Iranian Missile Exports Act and also as the Fight CRIME Act, which enacted this chapter. Division K did not make any amendments.
 
-The National Security Act of 1947, referred to in subsec. (g)(1), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (g)(1), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 **Executive Documents**
 
 **Delegation of Functions**
 
-Memorandum of President of the United States, § 2, Sept. 13, 2024, 89 F.R. 77757, provided:
+Memorandum of President of the United States, § 2, Sept. 13, 2024, 89 F.R. 77757, provided:
 
 (a) I hereby delegate to the Secretary of State, in consultation with the Secretary of the Treasury, the functions and authorities vested in the President by sections 5(a)(1), 5(a)(2), 5(a)(3), and 5(a)(4) of the Fight and Combat Rampant Iranian Missile Exports Act (Division K of Public Law 118–50) (the “Fight CRIME Act”) [22 U.S.C. 9423(a)(1) to (4)].
 
@@ -177,7 +177,7 @@ Memorandum of President of the United States, § 2, Sept. 13, 2024, 89 F.R. 77
 
 J.R. Biden, Jr.
 
-## § 9424. Definitions
+## § 9424. Definitions
 
 In this chapter:
 
@@ -237,7 +237,7 @@ The term “Missile Technology Control Regime” means the policy statement, bet
 
 The term “Missile Technology Control Regime Annex” means the Guidelines and Equipment and Technology Annex of the Missile Technology Control Regime, and any amendments thereto or updates thereof, as in effect on the day before April 24, 2024.
 
-(Pub. L. 118–50, div. K, § 7, Apr. 24, 2024, 138 Stat. 975.)
+(Pub. L. 118–50, div. K, § 7, Apr. 24, 2024, 138 Stat. 975.)
 
 **Editorial Notes**
 

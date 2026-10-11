@@ -19,83 +19,83 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2022—Pub. L. 117–328, div. U, title I, § 182(b), Dec. 29, 2022, 136 Stat. 5436, added item for subchapter V and items 7381 and 7382.
+2022—Pub. L. 117–328, div. U, title I, § 182(b), Dec. 29, 2022, 136 Stat. 5436, added item for subchapter V and items 7381 and 7382.
 
-Pub. L. 117–328, div. U, title I, § 181(b), Dec. 29, 2022, 136 Stat. 5435, which directed amendment of subchapter analysis for this chapter by adding item 7330D, was executed by making the amendment to the analysis for this chapter, to reflect the probable intent of Congress. Item was editorially conformed to the style used in this title.
+Pub. L. 117–328, div. U, title I, § 181(b), Dec. 29, 2022, 136 Stat. 5435, which directed amendment of subchapter analysis for this chapter by adding item 7330D, was executed by making the amendment to the analysis for this chapter, to reflect the probable intent of Congress. Item was editorially conformed to the style used in this title.
 
-2021—Pub. L. 116–315, title V, § 5101(b)(3), Jan. 5, 2021, 134 Stat. 5026, added items 7310 and 7310A.
+2021—Pub. L. 116–315, title V, § 5101(b)(3), Jan. 5, 2021, 134 Stat. 5026, added items 7310 and 7310A.
 
-2018—Pub. L. 115–182, title I, § 106(b), June 6, 2018, 132 Stat. 1415, added item 7330C.
+2018—Pub. L. 115–182, title I, § 106(b), June 6, 2018, 132 Stat. 1415, added item 7330C.
 
-2016—Pub. L. 114–315, title VI, § 612(b), Dec. 16, 2016, 130 Stat. 1576, added item 7330B.
+2016—Pub. L. 114–315, title VI, § 612(b), Dec. 16, 2016, 130 Stat. 1576, added item 7330B.
 
-Pub. L. 114–198, title IX, § 924(b), July 22, 2016, 130 Stat. 769, added item 7309A.
+Pub. L. 114–198, title IX, § 924(b), July 22, 2016, 130 Stat. 769, added item 7309A.
 
-2013—Pub. L. 112–239, div. A, title VII, § 728(b), Jan. 2, 2013, 126 Stat. 1813, added item 7309.
+2013—Pub. L. 112–239, div. A, title VII, § 728(b), Jan. 2, 2013, 126 Stat. 1813, added item 7309.
 
-2010—Pub. L. 111–275, title X, § 1001(n)(1), Oct. 13, 2010, 124 Stat. 2897, substituted “the human immunodeficiency virus” for “human immunodeficiency virus” in item 7333.
+2010—Pub. L. 111–275, title X, § 1001(n)(1), Oct. 13, 2010, 124 Stat. 2897, substituted “the human immunodeficiency virus” for “human immunodeficiency virus” in item 7333.
 
-Pub. L. 111–163, title V, §§ 505(a)(2), 515(b), title VIII, § 805(b), May 5, 2010, 124 Stat. 1159, 1166, 1179, added items 7311A, 7321A, and 7365 and struck out former items 7364A “Coverage of employees under certain Federal tort claims laws” and 7365 “Applicable State law”.
+Pub. L. 111–163, title V, §§ 505(a)(2), 515(b), title VIII, § 805(b), May 5, 2010, 124 Stat. 1159, 1166, 1179, added items 7311A, 7321A, and 7365 and struck out former items 7364A “Coverage of employees under certain Federal tort claims laws” and 7365 “Applicable State law”.
 
-2008—Pub. L. 110–387, title IV, § 404(b), title VIII, § 806(b), Oct. 10, 2008, 122 Stat. 4129, 4141, added item 7330A and struck out item 7368 “Expiration of authority”.
+2008—Pub. L. 110–387, title IV, § 404(b), title VIII, § 806(b), Oct. 10, 2008, 122 Stat. 4129, 4141, added item 7330A and struck out item 7368 “Expiration of authority”.
 
-2006—Pub. L. 109–461, title X, § 1006(b), Dec. 22, 2006, 120 Stat. 3468, provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+2006—Pub. L. 109–461, title X, § 1006(b), Dec. 22, 2006, 120 Stat. 3468, provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
-Pub. L. 109–461, title II, §§ 209(a)(2), 212(a)(2), Dec. 22, 2006, 120 Stat. 3418, 3422, added items 7308, 7329, and 7330.
+Pub. L. 109–461, title II, §§ 209(a)(2), 212(a)(2), Dec. 22, 2006, 120 Stat. 3418, 3422, added items 7308, 7329, and 7330.
 
-Pub. L. 109–444, § 6(a)(2), Dec. 21, 2006, 120 Stat. 3312, which added items 7329 and 7330, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 6(a)(2), Dec. 21, 2006, 120 Stat. 3312, which added items 7329 and 7330, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-2004—Pub. L. 108–422, title III, §§ 302(a)(2), 303(c)(2), Nov. 30, 2004, 118 Stat. 2385, 2387, added items 7327 and 7328.
+2004—Pub. L. 108–422, title III, §§ 302(a)(2), 303(c)(2), Nov. 30, 2004, 118 Stat. 2385, 2387, added items 7327 and 7328.
 
-2003—Pub. L. 108–170, title IV, §§ 401(a)(2), 402(a)(2), Dec. 6, 2003, 117 Stat. 2061, 2062, added items 7307 and 7364A.
+2003—Pub. L. 108–170, title IV, §§ 401(a)(2), 402(a)(2), Dec. 6, 2003, 117 Stat. 2061, 2062, added items 7307 and 7364A.
 
-2002—Pub. L. 107–287, §§ 2(a)(2), 3(a)(2), Nov. 7, 2002, 116 Stat. 2027, 2028, added items 7325 and 7326.
+2002—Pub. L. 107–287, §§ 2(a)(2), 3(a)(2), Nov. 7, 2002, 116 Stat. 2027, 2028, added items 7325 and 7326.
 
-Pub. L. 107–135, title I, § 125(a)(2), Jan. 23, 2002, 115 Stat. 2453, added item 7324.
+Pub. L. 107–135, title I, § 125(a)(2), Jan. 23, 2002, 115 Stat. 2453, added item 7324.
 
-2001—Pub. L. 107–14, § 8(a)(14)(B), June 5, 2001, 115 Stat. 35, struck out item 7367 “Report to Congress”.
+2001—Pub. L. 107–14, § 8(a)(14)(B), June 5, 2001, 115 Stat. 35, struck out item 7367 “Report to Congress”.
 
-2000—Pub. L. 106–419, title II, § 201(b)(2), Nov. 1, 2000, 114 Stat. 1840, added item 7323.
+2000—Pub. L. 106–419, title II, § 201(b)(2), Nov. 1, 2000, 114 Stat. 1840, added item 7323.
 
-1997—Pub. L. 105–114, title II, § 208(a)(2), Nov. 21, 1997, 111 Stat. 2289, added item 7322.
+1997—Pub. L. 105–114, title II, § 208(a)(2), Nov. 21, 1997, 111 Stat. 2289, added item 7322.
 
-1996—Pub. L. 104–262, title III, §§ 321(a)(2), 334(a)(2), 335(b), Oct. 9, 1996, 110 Stat. 3195, 3203, 3205, added items 7319 to 7321.
+1996—Pub. L. 104–262, title III, §§ 321(a)(2), 334(a)(2), 335(b), Oct. 9, 1996, 110 Stat. 3195, 3203, 3205, added items 7319 to 7321.
 
-1994—Pub. L. 103–446, title XII, § 1201(h)(3), Nov. 2, 1994, 108 Stat. 4688, inserted “PROTECTION OF” before “PATIENT” in heading for subchapter III.
+1994—Pub. L. 103–446, title XII, § 1201(h)(3), Nov. 2, 1994, 108 Stat. 4688, inserted “PROTECTION OF” before “PATIENT” in heading for subchapter III.
 
-1992—Pub. L. 102–585, title V, § 511(a)(2), Nov. 4, 1992, 106 Stat. 4956, added item 7318.
+1992—Pub. L. 102–585, title V, § 511(a)(2), Nov. 4, 1992, 106 Stat. 4956, added item 7318.
 
-Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984, substituted “Under Secretary for Health” for “Chief Medical Director” in item 7306.
+Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984, substituted “Under Secretary for Health” for “Chief Medical Director” in item 7306.
 
-1991—Pub. L. 102–40, title IV, § 401(a)(1), (3), May 7, 1991, 105 Stat. 210, substituted “VETERANS HEALTH ADMINISTRATION—ORGANIZATION AND FUNCTIONS” for “DEPARTMENT OF MEDICINE AND SURGERY” as chapter heading, added analysis for subchapters I to IV, and struck out former analysis consisting of subchapter I containing items 4101 to 4119 and 4210, subchapter II containing items 4121 to 4124, subchapter III containing items 4131 to 4134, subchapter IV containing items 4141 and 4142, subchapter V containing items 4151 and 4152, and subchapter VI containing items 4161 to 4168.
+1991—Pub. L. 102–40, title IV, § 401(a)(1), (3), May 7, 1991, 105 Stat. 210, substituted “VETERANS HEALTH ADMINISTRATION—ORGANIZATION AND FUNCTIONS” for “DEPARTMENT OF MEDICINE AND SURGERY” as chapter heading, added analysis for subchapters I to IV, and struck out former analysis consisting of subchapter I containing items 4101 to 4119 and 4210, subchapter II containing items 4121 to 4124, subchapter III containing items 4131 to 4134, subchapter IV containing items 4141 and 4142, subchapter V containing items 4151 and 4152, and subchapter VI containing items 4161 to 4168.
 
-1990—Pub. L. 101–366, title I, § 102(d), Aug. 15, 1990, 104 Stat. 436, added heading for subchapter IV and items 4141 and 4142.
+1990—Pub. L. 101–366, title I, § 102(d), Aug. 15, 1990, 104 Stat. 436, added heading for subchapter IV and items 4141 and 4142.
 
-1988—Pub. L. 100–322, title I, § 122(b), title II, §§ 204(b), 212(a)(2), 216(e)(1), May 20, 1988, 102 Stat. 504, 512, 516, 530, added item 4210 [4120] after item 4119, substituted “Nondiscrimination against alcohol and drug abusers and persons infected with human immunodeficiency virus” for “Nondiscrimination in the admission of alcohol and drug abusers to Veterans’ Administration health care facilities” in item 4133, substituted “Regulations” for “Coordination; reports” in item 4134, struck out heading for Subchapter IV, “VETERANS’ ADMINISTRATION HEALTH PROFESSIONAL SCHOLARSHIP PROGRAM” and items 4141 “Establishment of program; purpose; duration”, 4142 “Eligibility; application; written contract”, 4143 “Obligated service”, 4144 “Breach of contract; liability; waiver”, 4145 “Exemption of scholarship payments from taxation”, and 4146 “Program subject to availability of appropriations”, and added heading for subchapter VI and items 4161 to 4168.
+1988—Pub. L. 100–322, title I, § 122(b), title II, §§ 204(b), 212(a)(2), 216(e)(1), May 20, 1988, 102 Stat. 504, 512, 516, 530, added item 4210 [4120] after item 4119, substituted “Nondiscrimination against alcohol and drug abusers and persons infected with human immunodeficiency virus” for “Nondiscrimination in the admission of alcohol and drug abusers to Veterans’ Administration health care facilities” in item 4133, substituted “Regulations” for “Coordination; reports” in item 4134, struck out heading for Subchapter IV, “VETERANS’ ADMINISTRATION HEALTH PROFESSIONAL SCHOLARSHIP PROGRAM” and items 4141 “Establishment of program; purpose; duration”, 4142 “Eligibility; application; written contract”, 4143 “Obligated service”, 4144 “Breach of contract; liability; waiver”, 4145 “Exemption of scholarship payments from taxation”, and 4146 “Program subject to availability of appropriations”, and added heading for subchapter VI and items 4161 to 4168.
 
-1986—Pub. L. 99–576, title VII, § 702(12), Oct. 28, 1986, 100 Stat. 3302, substituted “appointments” for “appointment” in item 4106.
+1986—Pub. L. 99–576, title VII, § 702(12), Oct. 28, 1986, 100 Stat. 3302, substituted “appointments” for “appointment” in item 4106.
 
-1985—Pub. L. 99–166, title II, § 204(a)(2), Dec. 3, 1985, 99 Stat. 952, added heading for subchapter V and items 4151 and 4152.
+1985—Pub. L. 99–166, title II, § 204(a)(2), Dec. 3, 1985, 99 Stat. 952, added heading for subchapter V and items 4151 and 4152.
 
-1980—Pub. L. 96–330, title I, § 116(a)(2), title II, § 201(a)(2), Aug. 26, 1980, 94 Stat. 1039, 1047, added item 4119, heading for subchapter IV and items 4141 to 4146.
+1980—Pub. L. 96–330, title I, § 116(a)(2), title II, § 201(a)(2), Aug. 26, 1980, 94 Stat. 1039, 1047, added item 4119, heading for subchapter IV and items 4141 to 4146.
 
-1976—Pub. L. 94–581, title I, § 111(a)(2), Oct. 21, 1976, 90 Stat. 2852, added analysis for subchapter III consisting of items 4131 to 4134.
+1976—Pub. L. 94–581, title I, § 111(a)(2), Oct. 21, 1976, 90 Stat. 2852, added analysis for subchapter III consisting of items 4131 to 4134.
 
-1975—Pub. L. 94–123, § 2(d)(2), Oct. 22, 1975, 89 Stat. 673, added item 4118.
+1975—Pub. L. 94–123, § 2(d)(2), Oct. 22, 1975, 89 Stat. 673, added item 4118.
 
-1973—Pub. L. 93–82, title II, § 204(b), Aug. 2, 1973, 87 Stat. 192, substituted “Personnel administration” for “Administration” in item 4108.
+1973—Pub. L. 93–82, title II, § 204(b), Aug. 2, 1973, 87 Stat. 192, substituted “Personnel administration” for “Administration” in item 4108.
 
-1972—Pub. L. 92–541, § 3(b), Oct. 24, 1972, 86 Stat. 1108, designated existing sections as subchapter I and added subchapter II.
+1972—Pub. L. 92–541, § 3(b), Oct. 24, 1972, 86 Stat. 1108, designated existing sections as subchapter I and added subchapter II.
 
-1966—Pub. L. 89–785, title I, §§ 109(b), 111(d), 112(b), Nov. 7, 1966, 80 Stat. 1371, 1372, substituted “Special Medical Advisory group; other advisory bodies” for “Medical advisory Group” in item 4112, and “Temporary full-time, part-time, and without compensation appointments” for “Temporary and part-time appointments” in item 4114, and added item 4117.
+1966—Pub. L. 89–785, title I, §§ 109(b), 111(d), 112(b), Nov. 7, 1966, 80 Stat. 1371, 1372, substituted “Special Medical Advisory group; other advisory bodies” for “Medical advisory Group” in item 4112, and “Temporary full-time, part-time, and without compensation appointments” for “Temporary and part-time appointments” in item 4114, and added item 4117.
 
-1965—Pub. L. 89–311, § 6(b), Oct. 31, 1965, 79 Stat. 1157, added item 4116.
+1965—Pub. L. 89–311, § 6(b), Oct. 31, 1965, 79 Stat. 1157, added item 4116.
 
-1964—Pub. L. 88–426, title I, § 117(b), Aug. 14, 1964, 78 Stat. 410, substituted “Office of the Chief Medical Director” for “Appointments and compensation” in item 4103.
+1964—Pub. L. 88–426, title I, § 117(b), Aug. 14, 1964, 78 Stat. 410, substituted “Office of the Chief Medical Director” for “Appointments and compensation” in item 4103.
 
-1962—Pub. L. 87–793, § 803(b), Oct. 11, 1962, 76 Stat. 861, substituted “Administration” for “Specialist ratings” in item 4108.
+1962—Pub. L. 87–793, § 803(b), Oct. 11, 1962, 76 Stat. 861, substituted “Administration” for “Specialist ratings” in item 4108.
 
-Pub. L. 87–574, § 4(3), Aug. 6, 1962, 76 Stat. 309, inserted “; residencies and internships” in item 4114.
+Pub. L. 87–574, § 4(3), Aug. 6, 1962, 76 Stat. 309, inserted “; residencies and internships” in item 4114.
 
 ## SUBCHAPTER I—ORGANIZATION
 
@@ -103,15 +103,15 @@ Pub. L. 87–574, § 4(3), Aug. 6, 1962, 76 Stat. 309, inserted “; residen
 
 **Prior Provisions**
 
-A prior subchapter I of this chapter consisting of sections 4101 to 4120, related to organization of Department of Medicine and Surgery, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See Prior Provisions notes set out under sections 4101 to 4110A of this title.
+A prior subchapter I of this chapter consisting of sections 4101 to 4120, related to organization of Department of Medicine and Surgery, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See Prior Provisions notes set out under sections 4101 to 4110A of this title.
 
-### § 7301. Functions of Veterans Health Administration: in general
+### § 7301. Functions of Veterans Health Administration: in general
 
 **(a)** There is in the Department of Veterans Affairs a Veterans Health Administration. The Under Secretary for Health is the head of the Administration. The Under Secretary for Health may be referred to as the Chief Medical Director.
 
 **(b)** The primary function of the Administration is to provide a complete medical and hospital service for the medical care and treatment of veterans, as provided in this title and in regulations prescribed by the Secretary pursuant to this title.
 
-(Added Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 211; amended Pub. L. 102–405, title III, § 302(c)(1), (2), Oct. 9, 1992, 106 Stat. 1984.)
+(Added Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 211; amended Pub. L. 102–405, title III, § 302(c)(1), (2), Oct. 9, 1992, 106 Stat. 1984.)
 
 **Editorial Notes**
 
@@ -119,7 +119,7 @@ A prior subchapter I of this chapter consisting of sections 4101 to 4120, relate
 
 1992—Subsec. (a). Pub. L. 102–405 substituted “Under Secretary for Health is” for “Chief Medical Director is” and inserted at end “The Under Secretary for Health may be referred to as the Chief Medical Director.”
 
-### § 7302. Functions of Veterans Health Administration: health-care personnel education and training programs
+### § 7302. Functions of Veterans Health Administration: health-care personnel education and training programs
 
 **(a)** In order to carry out more effectively the primary function of the Veterans Health Administration and in order to assist in providing an adequate supply of health personnel to the Nation, the Secretary—
 
@@ -165,7 +165,7 @@ A prior subchapter I of this chapter consisting of sections 4101 to 4120, relate
 
 **(B)** give priority to residency positions and programs in primary care, mental health, and any other specialty the Secretary determines appropriate.
 
-(Added Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 211; amended Pub. L. 113–146, title III, § 301(b)(1), Aug. 7, 2014, 128 Stat. 1784.)
+(Added Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 211; amended Pub. L. 113–146, title III, § 301(b)(1), Aug. 7, 2014, 128 Stat. 1784.)
 
 **Editorial Notes**
 
@@ -177,7 +177,7 @@ A prior subchapter I of this chapter consisting of sections 4101 to 4120, relate
 
 **Information on Certain Veterans With Prior Medical Occupations; Program on Intermediate Care Technicians of Department of Veterans Affairs**
 
-Pub. L. 117–263, div. E, title LI, § 5127, Dec. 23, 2022, 136 Stat. 3220, provided that:
+Pub. L. 117–263, div. E, title LI, § 5127, Dec. 23, 2022, 136 Stat. 3220, provided that:
 
 > **“(a) Update of Web Portal to Identify Certain Veterans.—**
 
@@ -225,7 +225,7 @@ Pub. L. 117–263, div. E, title LI, § 5127, Dec. 23, 2022, 136 Stat. 3220, p
 
 **Pilot Program on Graduate Medical Education and Residency**
 
-Pub. L. 115–182, title IV, § 403, June 6, 2018, 132 Stat. 1472, as amended by Pub. L. 115–251, title II, § 211(b)(9), Sept. 29, 2018, 132 Stat. 3177; Pub. L. 116–159, div. E, title I, § 5107, Oct. 1, 2020, 134 Stat. 749, provided that:
+Pub. L. 115–182, title IV, § 403, June 6, 2018, 132 Stat. 1472, as amended by Pub. L. 115–251, title II, § 211(b)(9), Sept. 29, 2018, 132 Stat. 3177; Pub. L. 116–159, div. E, title I, § 5107, Oct. 1, 2020, 134 Stat. 749, provided that:
 
 > **“(a) Establishment.—**
 
@@ -325,9 +325,9 @@ Pub. L. 115–182, title IV, § 403, June 6, 2018, 132 Stat. 1472, as amended 
 
 **Temporary Ten-Year Increase in Residency Positions**
 
-Pub. L. 113–146, title III, § 301(b)(2), Aug. 7, 2014, 128 Stat. 1785, as amended by Pub. L. 114–315, title VI, § 617(a), Dec. 16, 2016, 130 Stat. 1577, required the Secretary of Veterans Affairs to increase the number of graduate medical education residency positions at medical facilities of the Department of Veterans Affairs during the 10-year period beginning on Aug. 7, 2015, with allocation priorities as specified in subsec. (e) of this section, as added by section 301(b)(1) of Pub. L. 113–146.
+Pub. L. 113–146, title III, § 301(b)(2), Aug. 7, 2014, 128 Stat. 1785, as amended by Pub. L. 114–315, title VI, § 617(a), Dec. 16, 2016, 130 Stat. 1577, required the Secretary of Veterans Affairs to increase the number of graduate medical education residency positions at medical facilities of the Department of Veterans Affairs during the 10-year period beginning on Aug. 7, 2015, with allocation priorities as specified in subsec. (e) of this section, as added by section 301(b)(1) of Pub. L. 113–146.
 
-### § 7303. Functions of Veterans Health Administration: research programs
+### § 7303. Functions of Veterans Health Administration: research programs
 
 **(a)**
 
@@ -367,7 +367,7 @@ Pub. L. 113–146, title III, § 301(b)(2), Aug. 7, 2014, 128 Stat. 1785, as a
 
 **(C)** Members of appropriate task forces and working groups within the Department (including the Women Veterans Working Group and the Task Force on Treatment of Women Who Suffer Sexual Abuse).
 
-(Added Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 211; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–452, title I, § 102(a), (b)(1), Nov. 2, 1994, 108 Stat. 4785, 4786; Pub. L. 105–220, title IV, § 414(c), Aug. 7, 1998, 112 Stat. 1242; Pub. L. 107–135, title II, § 205(a), Jan. 23, 2002, 115 Stat. 2460; Pub. L. 108–170, title IV, § 401(b), Dec. 6, 2003, 117 Stat. 2061.)
+(Added Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 211; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–452, title I, § 102(a), (b)(1), Nov. 2, 1994, 108 Stat. 4785, 4786; Pub. L. 105–220, title IV, § 414(c), Aug. 7, 1998, 112 Stat. 1242; Pub. L. 107–135, title II, § 205(a), Jan. 23, 2002, 115 Stat. 2460; Pub. L. 108–170, title IV, § 401(b), Dec. 6, 2003, 117 Stat. 2061.)
 
 **Editorial Notes**
 
@@ -391,7 +391,7 @@ Section 204(b)(3) of the Rehabilitation Act of 1973, referred to in subsec. (b),
 
 **Expansion of Suicide Prevention and Mental Health Research**
 
-Pub. L. 117–328, div. V, title V, § 506, Dec. 29, 2022, 136 Stat. 5516, provided that:
+Pub. L. 117–328, div. V, title V, § 506, Dec. 29, 2022, 136 Stat. 5516, provided that:
 
 > **“(a) Research on Moral Injury.—** The Secretary of Veterans Affairs, acting through the Office of Research and Development of the Department of Veterans Affairs, shall conduct suicide prevention and mental health care improvement research on how moral injury relates to the mental health needs of veterans who served in the Armed Forces after September 11, 2001, and best practices for mental health treatment for such veterans.
 
@@ -399,7 +399,7 @@ Pub. L. 117–328, div. V, title V, § 506, Dec. 29, 2022, 136 Stat. 5516, pro
 
 **Use by Department of Veterans Affairs of Commercial Institutional Review Boards in Sponsored Research Trials**
 
-Pub. L. 116–171, title VII, § 704, Oct. 17, 2020, 134 Stat. 829, provided that:
+Pub. L. 116–171, title VII, § 704, Oct. 17, 2020, 134 Stat. 829, provided that:
 
 > **“(a) In General.—** Not later than 90 days after the date of the enactment of this Act [Oct. 17, 2020], the Secretary of Veterans Affairs shall complete all necessary policy revisions within the directive of the Veterans Health Administration numbered 1200.05 and titled ‘Requirements for the Protection of Human Subjects in Research’, to allow sponsored clinical research of the Department of Veterans Affairs to use accredited commercial institutional review boards to review research proposal protocols of the Department.
 
@@ -423,17 +423,17 @@ Pub. L. 116–171, title VII, § 704, Oct. 17, 2020, 134 Stat. 829, provided t
 
 **Applicability to Fiscal Year 2002**
 
-Pub. L. 107–135, title II, § 205(b), Jan. 23, 2002, 115 Stat. 2460, related to transfer of appropriations for fiscal year 2002 to carry out subsec. (e) of this section for that fiscal year.
+Pub. L. 107–135, title II, § 205(b), Jan. 23, 2002, 115 Stat. 2460, related to transfer of appropriations for fiscal year 2002 to carry out subsec. (e) of this section for that fiscal year.
 
 **Post-Traumatic Stress Disorder Research**
 
-Pub. L. 102–405, title I, § 122(a), Oct. 9, 1992, 106 Stat. 1981, provided that: “In carrying out research and awarding grants under chapter 73 of title 38, United States Code, the Secretary shall assign a high priority to the conduct of research on mental illness, including research regarding (1) post-traumatic stress disorder, (2) post-traumatic stress disorder in association with substance abuse, and (3) the treatment of those disorders.”
+Pub. L. 102–405, title I, § 122(a), Oct. 9, 1992, 106 Stat. 1981, provided that: “In carrying out research and awarding grants under chapter 73 of title 38, United States Code, the Secretary shall assign a high priority to the conduct of research on mental illness, including research regarding (1) post-traumatic stress disorder, (2) post-traumatic stress disorder in association with substance abuse, and (3) the treatment of those disorders.”
 
 **Research Relating to Women Veterans’ Health**
 
-Pub. L. 102–585, title I, § 109, Nov. 4, 1992, 106 Stat. 4948, provided for initiation and expansion of research relating to health of women veterans and authorization of appropriations for fiscal years 1993 through 1995 to carry out such studies, prior to repeal by Pub. L. 103–452, title I, § 102(b)(2), Nov. 2, 1994, 108 Stat. 4786.
+Pub. L. 102–585, title I, § 109, Nov. 4, 1992, 106 Stat. 4948, provided for initiation and expansion of research relating to health of women veterans and authorization of appropriations for fiscal years 1993 through 1995 to carry out such studies, prior to repeal by Pub. L. 103–452, title I, § 102(b)(2), Nov. 2, 1994, 108 Stat. 4786.
 
-### § 7304. Regulations
+### § 7304. Regulations
 
 **(a)** Unless specifically otherwise provided, the Under Secretary for Health shall prescribe all regulations necessary to the administration of the Veterans Health Administration, including regulations relating to—
 
@@ -443,7 +443,7 @@ Pub. L. 102–585, title I, § 109, Nov. 4, 1992, 106 Stat. 4948, provided for
 
 **(b)** Regulations prescribed by the Under Secretary for Health are subject to the approval of the Secretary.
 
-(Added Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 212; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
+(Added Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 212; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
 
 **Editorial Notes**
 
@@ -451,7 +451,7 @@ Pub. L. 102–585, title I, § 109, Nov. 4, 1992, 106 Stat. 4948, provided for
 
 1992—Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” in subsecs. (a) and (b).
 
-### § 7305. Divisions of Veterans Health Administration
+### § 7305. Divisions of Veterans Health Administration
 
 The Veterans Health Administration shall include the following:
 
@@ -471,7 +471,7 @@ The Veterans Health Administration shall include the following:
 
 **(8)** Such other professional and auxiliary services as the Secretary may find to be necessary to carry out the functions of the Administration.
 
-(Added Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 212; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 112–239, div. A, title VII, § 728(c), Jan. 2, 2013, 126 Stat. 1813.)
+(Added Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 212; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 112–239, div. A, title VII, § 728(c), Jan. 2, 2013, 126 Stat. 1813.)
 
 **Editorial Notes**
 
@@ -481,7 +481,7 @@ The Veterans Health Administration shall include the following:
 
 1992—Par. (1). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-### § 7306. Office of the Under Secretary for Health
+### § 7306. Office of the Under Secretary for Health
 
 **(a)** The Office of the Under Secretary for Health shall consist of the following:
 
@@ -543,7 +543,7 @@ The Veterans Health Administration shall include the following:
 
 **(f)** For purposes of applying any provision of chapter 74 of this title, including sections 7404, 7410, and 7421, or any other provision of law, the Secretary may treat any appointment for a position under this chapter to be an appointment under this section.
 
-(Added Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 212; amended Pub. L. 102–405, title II, § 205, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984; Pub. L. 102–585, title V, § 511(b), Nov. 4, 1992, 106 Stat. 4956; Pub. L. 103–446, title XII, § 1201(c)(3), Nov. 2, 1994, 108 Stat. 4683; Pub. L. 104–262, title III, § 344, Oct. 9, 1996, 110 Stat. 3207; Pub. L. 106–419, title II, § 206, Nov. 1, 2000, 114 Stat. 1842; Pub. L. 107–135, title I, § 131, Jan. 23, 2002, 115 Stat. 2454; Pub. L. 111–163, title V, § 514(a), May 5, 2010, 124 Stat. 1165; Pub. L. 116–315, title V, § 5101(a), Jan. 5, 2021, 134 Stat. 5022; Pub. L. 117–96, § 1(a), Mar. 14, 2022, 136 Stat. 34; Pub. L. 117–168, title IX, § 906(d), Aug. 10, 2022, 136 Stat. 1813; Pub. L. 118–210, title I, § 141, Jan. 2, 2025, 138 Stat. 2744.)
+(Added Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 212; amended Pub. L. 102–405, title II, § 205, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984; Pub. L. 102–585, title V, § 511(b), Nov. 4, 1992, 106 Stat. 4956; Pub. L. 103–446, title XII, § 1201(c)(3), Nov. 2, 1994, 108 Stat. 4683; Pub. L. 104–262, title III, § 344, Oct. 9, 1996, 110 Stat. 3207; Pub. L. 106–419, title II, § 206, Nov. 1, 2000, 114 Stat. 1842; Pub. L. 107–135, title I, § 131, Jan. 23, 2002, 115 Stat. 2454; Pub. L. 111–163, title V, § 514(a), May 5, 2010, 124 Stat. 1165; Pub. L. 116–315, title V, § 5101(a), Jan. 5, 2021, 134 Stat. 5022; Pub. L. 117–96, § 1(a), Mar. 14, 2022, 136 Stat. 34; Pub. L. 117–168, title IX, § 906(d), Aug. 10, 2022, 136 Stat. 1813; Pub. L. 118–210, title I, § 141, Jan. 2, 2025, 138 Stat. 2744.)
 
 **Editorial Notes**
 
@@ -551,61 +551,61 @@ The Veterans Health Administration shall include the following:
 
 2025—Pub. L. 118–210 redesignated subsecs. (c) to (g) as (b) to (f), respectively, substituted “subsection (d)” for “subsection (e)” in introductory provisions of subsec. (c), and struck out former subsec. (b) which related to the Assistant Under Secretaries for Health appointed under subsec. (a)(3).
 
-2022—Subsec. (a)(6). Pub. L. 117–96, § 1(a)(1)(A), struck out “a Director of Podiatric Service,” after “a Director of Dietetic Service,”.
+2022—Subsec. (a)(6). Pub. L. 117–96, § 1(a)(1)(A), struck out “a Director of Podiatric Service,” after “a Director of Dietetic Service,”.
 
-Subsec. (a)(10), (11). Pub. L. 117–96, § 1(a)(1)(B), (C), added par. (10) and redesignated former par. (10), relating to Chief Officer of Women’s Health, as (11). Another par. (11), relating to such other personnel as may be authorized by this chapter, subsequently redesignated (12).
+Subsec. (a)(10), (11). Pub. L. 117–96, § 1(a)(1)(B), (C), added par. (10) and redesignated former par. (10), relating to Chief Officer of Women’s Health, as (11). Another par. (11), relating to such other personnel as may be authorized by this chapter, subsequently redesignated (12).
 
-Subsec. (a)(12). Pub. L. 117–168, § 906(d)(1), redesignated par. (11) relating to such other personnel as may be authorized by this chapter as (12).
+Subsec. (a)(12). Pub. L. 117–168, § 906(d)(1), redesignated par. (11) relating to such other personnel as may be authorized by this chapter as (12).
 
-Subsec. (b)(1). Pub. L. 117–96, § 1(a)(2), inserted “podiatric medicine,” after “doctors of medicine,”.
+Subsec. (b)(1). Pub. L. 117–96, § 1(a)(2), inserted “podiatric medicine,” after “doctors of medicine,”.
 
-Subsec. (c). Pub. L. 117–96, § 1(a)(3), substituted “(8), and (10)” for “and (8)”.
+Subsec. (c). Pub. L. 117–96, § 1(a)(3), substituted “(8), and (10)” for “and (8)”.
 
-Subsec. (g). Pub. L. 117–168, § 906(d)(2), added subsec. (g).
+Subsec. (g). Pub. L. 117–168, § 906(d)(2), added subsec. (g).
 
 2021—Subsec. (a)(10), (11). Pub. L. 116–315 added par. (10) and redesignated former par. (10) as (11).
 
 2010—Subsec. (a)(9). Pub. L. 111–163 added par. (9) and struck out former par. (9) which read as follows: “The Advisor on Physician Assistants, who shall be a physician assistant with appropriate experience and who shall advise the Under Secretary for Health on all matters relating to the utilization and employment of physician assistants in the Administration.”
 
-2002—Subsec. (a)(5). Pub. L. 107–135 inserted “, and report directly to,” after “responsible to”.
+2002—Subsec. (a)(5). Pub. L. 107–135 inserted “, and report directly to,” after “responsible to”.
 
 2000—Subsec. (a)(9), (10). Pub. L. 106–419 added par. (9) and redesignated former par. (9) as (10).
 
 1996—Subsec. (f). Pub. L. 104–262 added subsec. (f).
 
-1994—Subsec. (a)(3). Pub. L. 103–446, § 1201(c)(3)(A)(i), substituted “Assistant Under Secretaries for Health” for “Assistant Chief Medical Directors”.
+1994—Subsec. (a)(3). Pub. L. 103–446, § 1201(c)(3)(A)(i), substituted “Assistant Under Secretaries for Health” for “Assistant Chief Medical Directors”.
 
-Pars. (7) to (9). Pub. L. 103–446, § 1201(c)(3)(A)(ii)–(iv), redesignated par. (8), relating to such directors, as (7), par. (7) as (8), and par. (8), relating to such other personnel, as (9), and in par. (8), as so redesignated, substituted “Under Secretary for Health” for “Chief Medical Director”.
+Pars. (7) to (9). Pub. L. 103–446, § 1201(c)(3)(A)(ii)–(iv), redesignated par. (8), relating to such directors, as (7), par. (7) as (8), and par. (8), relating to such other personnel, as (9), and in par. (8), as so redesignated, substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-Subsec. (b). Pub. L. 103–446, § 1201(c)(3)(B), substituted “Assistant Under Secretaries for Health” for “Assistant Chief Medical Directors”.
+Subsec. (b). Pub. L. 103–446, § 1201(c)(3)(B), substituted “Assistant Under Secretaries for Health” for “Assistant Chief Medical Directors”.
 
-Subsec. (c). Pub. L. 103–446, § 1201(c)(3)(C), substituted “and (8)” for “and (7)”.
+Subsec. (c). Pub. L. 103–446, § 1201(c)(3)(C), substituted “and (8)” for “and (7)”.
 
-1992—Pub. L. 102–405, § 302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” in section catchline.
+1992—Pub. L. 102–405, § 302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” in section catchline.
 
-Subsec. (a). Pub. L. 102–405, § 302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
+Subsec. (a). Pub. L. 102–405, § 302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
 
-Subsec. (a)(7). Pub. L. 102–585, § 511(b)(1)(B), added par. (7). Former par. (7), relating to such directors, redesignated (8).
+Subsec. (a)(7). Pub. L. 102–585, § 511(b)(1)(B), added par. (7). Former par. (7), relating to such directors, redesignated (8).
 
-Pub. L. 102–405, § 205(2), added par. (7). Former par. (7), relating to such other personnel, redesignated (8).
+Pub. L. 102–405, § 205(2), added par. (7). Former par. (7), relating to such other personnel, redesignated (8).
 
-Subsec. (a)(8). Pub. L. 102–585, § 511(b)(1)(A), redesignated par. (7), relating to such directors, as (8).
+Subsec. (a)(8). Pub. L. 102–585, § 511(b)(1)(A), redesignated par. (7), relating to such directors, as (8).
 
-Pub. L. 102–405, § 205(1), redesignated par. (7), relating to such other personnel, as (8).
+Pub. L. 102–405, § 205(1), redesignated par. (7), relating to such other personnel, as (8).
 
-Subsec. (b)(2), (3). Pub. L. 102–405, § 302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
+Subsec. (b)(2), (3). Pub. L. 102–405, § 302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
 
-Subsec. (c). Pub. L. 102–585, § 511(b)(2), substituted “(4), and (7)” for “and (4)”.
+Subsec. (c). Pub. L. 102–585, § 511(b)(2), substituted “(4), and (7)” for “and (4)”.
 
-Pub. L. 102–405, § 302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director”.
+Pub. L. 102–405, § 302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Deadline for Implementation of 2010 Amendment**
 
-Pub. L. 111–163, title V, § 514(b), May 5, 2010, 124 Stat. 1165, provided that: “The Secretary of Veterans Affairs shall ensure that an individual is serving as the Director of Physician Assistant Services under paragraph (9) of section 7306(a) of title 38, United States Code, as amended by subsection (a), by not later than 120 days after the date of the enactment of this Act [May 5, 2010].”
+Pub. L. 111–163, title V, § 514(b), May 5, 2010, 124 Stat. 1165, provided that: “The Secretary of Veterans Affairs shall ensure that an individual is serving as the Director of Physician Assistant Services under paragraph (9) of section 7306(a) of title 38, United States Code, as amended by subsection (a), by not later than 120 days after the date of the enactment of this Act [May 5, 2010].”
 
-### § 7307. Office of Research Oversight
+### § 7307. Office of Research Oversight
 
 **(a) Requirement for Office.—**
 
@@ -665,9 +665,9 @@ Pub. L. 111–163, title V, § 514(b), May 5, 2010, 124 Stat. 1165, provided t
 
 **(g) Medical Research.—** For purposes of this section, the term “medical research” means medical research described in section 7303(a)(2) of this title.
 
-(Added Pub. L. 108–170, title IV, § 401(a)(1), Dec. 6, 2003, 117 Stat. 2059.)
+(Added Pub. L. 108–170, title IV, § 401(a)(1), Dec. 6, 2003, 117 Stat. 2059.)
 
-### § 7308. Office of Rural Health
+### § 7308. Office of Rural Health
 
 **(a) Establishment.—** There is established in the Department within the Office of the Under Secretary for Health an office to be known as the “Office of Rural Health” (in this section referred to as the “Office”).
 
@@ -697,7 +697,7 @@ Pub. L. 111–163, title V, § 514(b), May 5, 2010, 124 Stat. 1165, provided t
 
 **(D)** To develop special practices and products for the benefit of veterans living in rural areas and for implementation of such practices and products in the Department systemwide.
 
-(Added Pub. L. 109–461, title II, § 212(a)(1), Dec. 22, 2006, 120 Stat. 3421; amended Pub. L. 112–154, title I, § 110, Aug. 6, 2012, 126 Stat. 1175.)
+(Added Pub. L. 109–461, title II, § 212(a)(1), Dec. 22, 2006, 120 Stat. 3421; amended Pub. L. 112–154, title I, § 110, Aug. 6, 2012, 126 Stat. 1175.)
 
 **Editorial Notes**
 
@@ -705,7 +705,7 @@ Pub. L. 111–163, title V, § 514(b), May 5, 2010, 124 Stat. 1165, provided t
 
 Subsec. (d). Pub. L. 112–154 added subsec. (d).
 
-### § 7309. Readjustment Counseling Service
+### § 7309. Readjustment Counseling Service
 
 **(a) In General.—** There is in the Veterans Health Administration a Readjustment Counseling Service. The Readjustment Counseling Service shall provide readjustment counseling and associated services to individuals in accordance with section 1712A of this title.
 
@@ -777,7 +777,7 @@ Subsec. (d). Pub. L. 112–154 added subsec. (d).
 
 **(f) Vet Center Defined.—** In this section, the term “Vet Center” has the meaning given the term in section 1712A(h)(1) of this title.
 
-(Added Pub. L. 112–239, div. A, title VII, § 728(a), Jan. 2, 2013, 126 Stat. 1812; amended Pub. L. 114–58, title VI, § 601(22), Sept. 30, 2015, 129 Stat. 539; Pub. L. 114–315, title VI, § 611, Dec. 16, 2016, 130 Stat. 1575; Pub. L. 116–171, title V, § 504, Oct. 17, 2020, 134 Stat. 819; Pub. L. 117–263, div. E, title LI, § 5126(d)(2), Dec. 23, 2022, 136 Stat. 3216.)
+(Added Pub. L. 112–239, div. A, title VII, § 728(a), Jan. 2, 2013, 126 Stat. 1812; amended Pub. L. 114–58, title VI, § 601(22), Sept. 30, 2015, 129 Stat. 539; Pub. L. 114–315, title VI, § 611, Dec. 16, 2016, 130 Stat. 1575; Pub. L. 116–171, title V, § 504, Oct. 17, 2020, 134 Stat. 819; Pub. L. 117–263, div. E, title LI, § 5126(d)(2), Dec. 23, 2022, 136 Stat. 3216.)
 
 **Editorial Notes**
 
@@ -785,9 +785,9 @@ Subsec. (d). Pub. L. 112–154 added subsec. (d).
 
 2022—Subsec. (e)(2)(D). Pub. L. 117–263 added subpar. (D).
 
-2020—Subsec. (e)(2)(C). Pub. L. 116–171, § 504(a), inserted before period at end “, including the resources required to meet such unmet need, such as additional staff, additional locations, additional infrastructure, infrastructure improvements, and additional mobile Vet Centers”.
+2020—Subsec. (e)(2)(C). Pub. L. 116–171, § 504(a), inserted before period at end “, including the resources required to meet such unmet need, such as additional staff, additional locations, additional infrastructure, infrastructure improvements, and additional mobile Vet Centers”.
 
-Subsec. (e)(3). Pub. L. 116–171, § 504(b), added par. (3).
+Subsec. (e)(3). Pub. L. 116–171, § 504(b), added par. (3).
 
 2016—Subsec. (e)(1). Pub. L. 114–315 substituted “fiscal year” for “calendar year”.
 
@@ -797,7 +797,7 @@ Subsec. (e)(3). Pub. L. 116–171, § 504(b), added par. (3).
 
 **Improvement of Vet Centers at Department of Veterans Affairs**
 
-Pub. L. 117–263, div. E, title LI, § 5126, Dec. 23, 2022, 136 Stat. 3213, provided that:
+Pub. L. 117–263, div. E, title LI, § 5126, Dec. 23, 2022, 136 Stat. 3213, provided that:
 
 > **“(a) Productivity Expectations for Readjustment Counselors of Vet Centers.—**
 
@@ -1049,7 +1049,7 @@ Pub. L. 117–263, div. E, title LI, § 5126, Dec. 23, 2022, 136 Stat. 3213, p
 
 > **“(g) Definition of Vet Center.—** In this section, the term ‘Vet Center’ has the meaning given that term in section 1712A(h) of title 38, United States Code.”
 
-### § 7309A. Office of Patient Advocacy
+### § 7309A. Office of Patient Advocacy
 
 **(a) Establishment.—** There is established in the Department within the Office of the Under Secretary for Health an office to be known as the “Office of Patient Advocacy” (in this section referred to as the “Office”).
 
@@ -1101,9 +1101,9 @@ Pub. L. 117–263, div. E, title LI, § 5126, Dec. 23, 2022, 136 Stat. 3213, p
 
 **(11)** To understand all laws, directives, and other rules with respect to the rights and responsibilities of veterans in receiving such health care, including the appeals processes available to veterans.
 
-**(12)** To ensure that veterans receiving mental health care, or the surrogate decision-makers for such veterans, are aware of the rights of veterans to seek representation from systems established under section 103 of the Protection and Advocacy for Mentally Ill Individuals Act of 1986 1
+**(12)** To ensure that veterans receiving mental health care, or the surrogate decision-makers for such veterans, are aware of the rights of veterans to seek representation from systems established under section 103 of the Protection and Advocacy for Mentally Ill Individuals Act of 1986 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (42 U.S.C. 10803) to protect and advocate the rights of individuals with mental illness and to investigate incidents of abuse and neglect of such individuals.
 
@@ -1115,7 +1115,7 @@ Pub. L. 117–263, div. E, title LI, § 5126, Dec. 23, 2022, 136 Stat. 3213, p
 
 **(f) Controlled Substance Defined.—** In this section, the term “controlled substance” has the meaning given that term in section 102 of the Controlled Substances Act (21 U.S.C. 802).
 
-(Added Pub. L. 114–198, title IX, § 924(a), July 22, 2016, 130 Stat. 767; amended Pub. L. 117–175, § 2, Sept. 16, 2022, 136 Stat. 2107.)
+(Added Pub. L. 114–198, title IX, § 924(a), July 22, 2016, 130 Stat. 767; amended Pub. L. 117–175, § 2, Sept. 16, 2022, 136 Stat. 2107.)
 
 **Editorial Notes**
 
@@ -1123,7 +1123,7 @@ Pub. L. 117–263, div. E, title LI, § 5126, Dec. 23, 2022, 136 Stat. 3213, p
 
 The date of the enactment of this paragraph, referred to in subsec. (c)(3), is the date of enactment of Pub. L. 117–175, which was approved Sept. 16, 2022.
 
-The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (d)(12), was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, § 3206(a), Oct. 17, 2000, 114 Stat. 1193.
+The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (d)(12), was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, § 3206(a), Oct. 17, 2000, 114 Stat. 1193.
 
 **Amendments**
 
@@ -1133,9 +1133,9 @@ The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred t
 
 **Date Fully Operational**
 
-Pub. L. 114–198, title IX, § 924(c), July 22, 2016, 130 Stat. 769, provided that: “The Secretary of Veterans Affairs shall ensure that the Office of Patient Advocacy established under section 7309A of title 38, United States Code, as added by subsection (a), is fully operational not later than the date that is one year after the date of the enactment of this Act [July 22, 2016].”
+Pub. L. 114–198, title IX, § 924(c), July 22, 2016, 130 Stat. 769, provided that: “The Secretary of Veterans Affairs shall ensure that the Office of Patient Advocacy established under section 7309A of title 38, United States Code, as added by subsection (a), is fully operational not later than the date that is one year after the date of the enactment of this Act [July 22, 2016].”
 
-### § 7310. Office of Women’s Health
+### § 7310. Office of Women’s Health
 
 **(a) Establishment.—**
 
@@ -1207,7 +1207,7 @@ Pub. L. 114–198, title IX, § 924(c), July 22, 2016, 130 Stat. 769, provided
 
 **(3)** The term “Veterans Equitable Resource Allocation system” means the resource allocation system established pursuant to section 429 of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997 (Public Law 104–204; 110 Stat. 2929).
 
-(Added Pub. L. 116–315, title V, § 5101(b)(1), Jan. 5, 2021, 134 Stat. 5022.)
+(Added Pub. L. 116–315, title V, § 5101(b)(1), Jan. 5, 2021, 134 Stat. 5022.)
 
 **Editorial Notes**
 
@@ -1221,9 +1221,9 @@ Section 429 of the Departments of Veterans Affairs and Housing and Urban Develop
 
 **References to Health Care and Services**
 
-Pub. L. 116–315, title V, § 5101(b)(2), Jan. 5, 2021, 134 Stat. 5026, provided that: “The references to health care and the references to services in sections 7310 and 7310A of title 38, United States Code, as added by paragraph (1), are references to the health care and services included in the medical benefits package provided by the Department as in effect on the day before the date of the enactment of this Act [Jan. 5, 2021].”
+Pub. L. 116–315, title V, § 5101(b)(2), Jan. 5, 2021, 134 Stat. 5026, provided that: “The references to health care and the references to services in sections 7310 and 7310A of title 38, United States Code, as added by paragraph (1), are references to the health care and services included in the medical benefits package provided by the Department as in effect on the day before the date of the enactment of this Act [Jan. 5, 2021].”
 
-### § 7310A. Annual reports on Women’s Health
+### § 7310A. Annual reports on Women’s Health
 
 **(a) Annual Reports.—** Not later than December 1 of each year, the Chief Officer of Women’s Health shall submit to the appropriate congressional committees a report containing the matters under subsections (b) through (g).
 
@@ -1301,17 +1301,17 @@ Pub. L. 116–315, title V, § 5101(b)(2), Jan. 5, 2021, 134 Stat. 5026, provi
 
 **(2)** The term “gender-specific services” means mammography, obstetric care, gynecological care, and such other services as the Secretary determines appropriate.
 
-(Added Pub. L. 116–315, title V, § 5101(b)(1), Jan. 5, 2021, 134 Stat. 5024.)
+(Added Pub. L. 116–315, title V, § 5101(b)(1), Jan. 5, 2021, 134 Stat. 5024.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **References to Health Care and Services**
 
-For references to health care and services in this section as references to health care and services included in medical benefits package provided by the Department as in effect on the day before Jan. 5, 2021, see Pub. L. 116–315, title V, § 5101(b)(2), Jan. 5, 2021, 134 Stat. 5026, set out as a note under section 7310 of this title.
+For references to health care and services in this section as references to health care and services included in medical benefits package provided by the Department as in effect on the day before Jan. 5, 2021, see Pub. L. 116–315, title V, § 5101(b)(2), Jan. 5, 2021, 134 Stat. 5026, set out as a note under section 7310 of this title.
 
 **Initial Report**
 
-Pub. L. 116–315, title V, § 5101(c), Jan. 5, 2021, 134 Stat. 5026, provided that: “The Chief Officer of Women’s Health of the Department of Veterans Affairs shall submit the initial report under section 7310A of title 38, United States Code, as added by subsection (b), by not later than one year after the date of the enactment of this Act [Jan. 5, 2021].”
+Pub. L. 116–315, title V, § 5101(c), Jan. 5, 2021, 134 Stat. 5026, provided that: “The Chief Officer of Women’s Health of the Department of Veterans Affairs shall submit the initial report under section 7310A of title 38, United States Code, as added by subsection (b), by not later than one year after the date of the enactment of this Act [Jan. 5, 2021].”
 
 ## SUBCHAPTER II—GENERAL AUTHORITY AND ADMINISTRATION
 
@@ -1319,9 +1319,9 @@ Pub. L. 116–315, title V, § 5101(c), Jan. 5, 2021, 134 Stat. 5026, provided
 
 **Prior Provisions**
 
-A prior subchapter II of this chapter consisting of sections 4121 to 4124, related to Regional Medical Education Centers, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See Prior Provisions notes set out under section 4114 of this title.
+A prior subchapter II of this chapter consisting of sections 4121 to 4124, related to Regional Medical Education Centers, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See Prior Provisions notes set out under section 4114 of this title.
 
-### § 7311. Quality assurance
+### § 7311. Quality assurance
 
 **(a)** The Secretary shall—
 
@@ -1341,7 +1341,7 @@ A prior subchapter II of this chapter consisting of sections 4121 to 4124, relat
 
 **(3)** If, based upon an evaluation under paragraph (1)(A), the Under Secretary for Health determines that there is a deviation referred to in that paragraph, the Under Secretary for Health shall explain the deviation in the report submitted under subsection (f).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(4)** As part of the quality-assurance program, the Under Secretary for Health shall establish mechanisms through which employees of Veterans Health Administration facilities may submit reports, on a confidential basis, on matters relating to quality of care in Veterans Health Administration facilities to the quality management officers of such facilities under section 7311A(c) of this title. The mechanisms shall provide for the prompt and thorough review of any reports so submitted by the receiving officials.
 
@@ -1385,13 +1385,13 @@ A prior subchapter II of this chapter consisting of sections 4121 to 4124, relat
 
 **(2)** The Inspector General of the Department shall allocate sufficient resources (including sufficient personnel with the necessary skills and qualifications) to enable the Inspector General to monitor the quality-assurance program.
 
-(Added Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 214; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, § 1201(g)(5), Nov. 2, 1994, 108 Stat. 4687; Pub. L. 111–163, title V, § 505(b), May 5, 2010, 124 Stat. 1159.)
+(Added Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 214; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, § 1201(g)(5), Nov. 2, 1994, 108 Stat. 4687; Pub. L. 111–163, title V, § 505(b), May 5, 2010, 124 Stat. 1159.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subsection (f), referred to in subsecs. (b)(3) and (d), was repealed by Pub. L. 103–446, title XII, § 1201(g)(5), Nov. 2, 1994, 108 Stat. 4687.
+Subsection (f), referred to in subsecs. (b)(3) and (d), was repealed by Pub. L. 103–446, title XII, § 1201(g)(5), Nov. 2, 1994, 108 Stat. 4687.
 
 **Amendments**
 
@@ -1417,7 +1417,7 @@ Subsection (f), referred to in subsecs. (b)(3) and (d), was repealed by Pub. L. 
 
 **Comprehensive Policy on Pain Management**
 
-Pub. L. 110–387, title V, § 501, Oct. 10, 2008, 122 Stat. 4130, provided that:
+Pub. L. 110–387, title V, § 501, Oct. 10, 2008, 122 Stat. 4130, provided that:
 
 > **“(a) Comprehensive Policy Required.—** Not later than October 1, 2009, the Secretary of Veterans Affairs shall develop and implement a comprehensive policy on the management of pain experienced by veterans enrolled for health care services provided by the Department of Veterans Affairs.
 
@@ -1463,15 +1463,15 @@ Pub. L. 110–387, title V, § 501, Oct. 10, 2008, 122 Stat. 4130, provided th
 
 **Evaluation of Department of Veterans Affairs Nurse Managed Clinics**
 
-Pub. L. 107–135, title I, § 123, Jan. 23, 2002, 115 Stat. 2451, required the Secretary of Veterans Affairs to evaluate the efficacy of the nurse managed health care clinics of the Department of Veterans Affairs and submit to Congress a report on the evaluation not later than 18 months after Jan. 23, 2002.
+Pub. L. 107–135, title I, § 123, Jan. 23, 2002, 115 Stat. 2451, required the Secretary of Veterans Affairs to evaluate the efficacy of the nurse managed health care clinics of the Department of Veterans Affairs and submit to Congress a report on the evaluation not later than 18 months after Jan. 23, 2002.
 
 **Quality Assurance Activities**
 
-Pub. L. 102–405, title I, § 104, Oct. 9, 1992, 106 Stat. 1975, provided that: “Effective on October 1, 1992, programs and activities which (1) the Secretary carries out pursuant to section 7311(a) of title 38, United States Code, or (2) are described in sections 201(a)(1) and 201(a)(3) of Public Law 100–322 [formerly set out as a note under former section 4151 of this title] (102 Stat. 508) shall be deemed to be part of the operation of hospitals, nursing homes, and domiciliary facilities of the Department of Veterans Affairs, without regard to the location of the duty stations of employees carrying out those programs and activities.”
+Pub. L. 102–405, title I, § 104, Oct. 9, 1992, 106 Stat. 1975, provided that: “Effective on October 1, 1992, programs and activities which (1) the Secretary carries out pursuant to section 7311(a) of title 38, United States Code, or (2) are described in sections 201(a)(1) and 201(a)(3) of Public Law 100–322 [formerly set out as a note under former section 4151 of this title] (102 Stat. 508) shall be deemed to be part of the operation of hospitals, nursing homes, and domiciliary facilities of the Department of Veterans Affairs, without regard to the location of the duty stations of employees carrying out those programs and activities.”
 
 **Regulations for Standards of Performance in Laboratories**
 
-Pub. L. 102–139, title I, § 101, Oct. 28, 1991, 105 Stat. 742, provided that:
+Pub. L. 102–139, title I, § 101, Oct. 28, 1991, 105 Stat. 742, provided that:
 
 > **“(a) Regulations for Standards of Performance in Department of Veterans Affairs Laboratories.—**
 
@@ -1487,7 +1487,7 @@ Pub. L. 102–139, title I, § 101, Oct. 28, 1991, 105 Stat. 742, provided tha
 
 > **“(c) Definition.—** As used in this section, the term ‘medical facility laboratories’ means facilities for the biological, micro-biological, serological, chemical, immunohematological, hematological, biophysical, cytological, pathological, or other physical examination of materials derived from the human body for the purpose of providing information for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings.”
 
-### § 7311A. Quality management officers
+### § 7311A. Quality management officers
 
 **(a) National Quality Management Officer.—**
 
@@ -1539,7 +1539,7 @@ Pub. L. 102–139, title I, § 101, Oct. 28, 1991, 105 Stat. 742, provided tha
 
 **(2)** There is authorized to be appropriated to carry out the provisions of subparagraphs (B), (C), and (D) of subsection (a)(3), $25,000,000 for the two-year period of fiscal years beginning after the date of the enactment of this section.
 
-(Added Pub. L. 111–163, title V, § 505(a)(1), May 5, 2010, 124 Stat. 1158.)
+(Added Pub. L. 111–163, title V, § 505(a)(1), May 5, 2010, 124 Stat. 1158.)
 
 **Editorial Notes**
 
@@ -1547,7 +1547,7 @@ Pub. L. 102–139, title I, § 101, Oct. 28, 1991, 105 Stat. 742, provided tha
 
 The date of the enactment of this section, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 111–163, which was approved May 5, 2010.
 
-### § 7312. Special medical advisory group
+### § 7312. Special medical advisory group
 
 **(a)** The Secretary shall establish an advisory committee to be known as the special medical advisory group. The advisory group shall advise the Secretary, through the Under Secretary for Health, and the Under Secretary for Health directly, relative to the care and treatment of disabled veterans and other matters pertinent to the Administration.
 
@@ -1563,7 +1563,7 @@ The date of the enactment of this section, referred to in subsec. (d)(2), is the
 
 **(d)** Not later than February 1 of each year, the special medical advisory group shall submit to the Secretary and the Congress a report on the activities of the advisory group during the preceding fiscal year. No report shall be required under this subsection after December 31, 2004.
 
-(Added Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 215; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, § 1201(e)(20), Nov. 2, 1994, 108 Stat. 4686; Pub. L. 106–419, title IV, § 403(c)(5), Nov. 1, 2000, 114 Stat. 1864.)
+(Added Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 215; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, § 1201(e)(20), Nov. 2, 1994, 108 Stat. 4686; Pub. L. 106–419, title IV, § 403(c)(5), Nov. 1, 2000, 114 Stat. 1864.)
 
 **Editorial Notes**
 
@@ -1575,7 +1575,7 @@ The date of the enactment of this section, referred to in subsec. (d)(2), is the
 
 1992—Subsecs. (a), (b). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
 
-### § 7313. Advisory committees: affiliated institutions
+### § 7313. Advisory committees: affiliated institutions
 
 **(a)** In each case where the Secretary has a contract or agreement with any school, institution of higher learning, medical center, hospital, or other public or nonprofit agency, institution, or organization for the training or education of health personnel, the Secretary shall establish an advisory committee to advise the Secretary and the Under Secretary for Health with respect to policy matters arising in connection with, and the operation of, the program with respect to which it was appointed. Such a committee may be a dean’s committee, a medical advisory committee, or the like.
 
@@ -1585,7 +1585,7 @@ The date of the enactment of this section, referred to in subsec. (d)(2), is the
 
 **(d)** The Secretary shall require that the Chief of the Nursing Service (or the designee of the Chief) at each Department health-care facility be included in the membership of each policymaking committee at that facility. Such committees include: (1) committees relating to matters such as budget, education, position management, clinical executive issues, planning, and resource allocation, and (2) the dean’s committee or other advisory committee established under subsection (a).
 
-(Added Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 216; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
+(Added Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 216; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
 
 **Editorial Notes**
 
@@ -1593,7 +1593,7 @@ The date of the enactment of this section, referred to in subsec. (d)(2), is the
 
 1992—Subsec. (a). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-### § 7314. Geriatric research, education, and clinical centers
+### § 7314. Geriatric research, education, and clinical centers
 
 **(a)** The Secretary, upon the recommendation of the Under Secretary for Health and pursuant to the provisions of this section, shall designate not more than 25 Department health-care facilities as the locations for centers of geriatric research, education, and clinical activities and (subject to the appropriation of sufficient funds for such purpose) shall establish and operate such centers at such locations in accordance with this section.
 
@@ -1631,7 +1631,7 @@ The date of the enactment of this section, referred to in subsec. (d)(2), is the
 
 **(g)** Activities of clinical and scientific investigation at each center established under subsection (a) shall be eligible to compete for the award of funding from funds appropriated for the Department medical and prosthetics research account and shall receive priority in the award of funding from such account insofar as funds are awarded to projects for research in geriatrics and gerontology.
 
-(Added Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 216; amended Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title V, § 521, Nov. 4, 1992, 106 Stat. 4958; Pub. L. 103–446, title XII, §§ 1201(c)(4), 1202(b)(2), Nov. 2, 1994, 108 Stat. 4683, 4689; Pub. L. 110–387, title IX, § 901(a)(8), Oct. 10, 2008, 122 Stat. 4142; Pub. L. 117–286, § 4(a)(219), Dec. 27, 2022, 136 Stat. 4330.)
+(Added Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 216; amended Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title V, § 521, Nov. 4, 1992, 106 Stat. 4958; Pub. L. 103–446, title XII, §§ 1201(c)(4), 1202(b)(2), Nov. 2, 1994, 108 Stat. 4683, 4689; Pub. L. 110–387, title IX, § 901(a)(8), Oct. 10, 2008, 122 Stat. 4142; Pub. L. 117–286, § 4(a)(219), Dec. 27, 2022, 136 Stat. 4330.)
 
 **Editorial Notes**
 
@@ -1645,39 +1645,39 @@ The Veterans’ Administration Health-Care Amendments of 1980, referred to in su
 
 2008—Subsec. (f). Pub. L. 110–387 substituted “medical services account” for “medical care account”.
 
-1994—Subsec. (b)(1). Pub. L. 103–446, § 1202(b)(2), amended Pub. L. 102–83, § 4(a)(3), (4), to make it inapplicable to this section. See 1991 Amendment note below.
+1994—Subsec. (b)(1). Pub. L. 103–446, § 1202(b)(2), amended Pub. L. 102–83, § 4(a)(3), (4), to make it inapplicable to this section. See 1991 Amendment note below.
 
-Subsec. (d)(1). Pub. L. 103–446, § 1201(c)(4)(A), substituted “the Secretary and the Under Secretary for Health in carrying out” for “the Chief Medical Director and the Secretary to carry out” and “the Assistant Under Secretary for Health described in section 7306(b)(3)” for “the Assistant Chief Medical Director described in section 7306(b)(3)”.
+Subsec. (d)(1). Pub. L. 103–446, § 1201(c)(4)(A), substituted “the Secretary and the Under Secretary for Health in carrying out” for “the Chief Medical Director and the Secretary to carry out” and “the Assistant Under Secretary for Health described in section 7306(b)(3)” for “the Assistant Chief Medical Director described in section 7306(b)(3)”.
 
-Subsec. (d)(3). Pub. L. 103–446, § 1201(c)(4)(B), substituted “Assistant Under Secretary” for “Assistant Chief Medical Director” in two places.
+Subsec. (d)(3). Pub. L. 103–446, § 1201(c)(4)(B), substituted “Assistant Under Secretary” for “Assistant Chief Medical Director” in two places.
 
 1992—Subsecs. (a), (b). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
 
-Subsec. (c). Pub. L. 102–585, § 521(1), inserted “the peer review panel established under subsection (d) has determined under that subsection that the proposal submitted by such facility as a location for a new center under subsection (a) is among those proposals which have met the highest competitive standards of scientific and clinical merit, and” after “unless” in introductory provisions.
+Subsec. (c). Pub. L. 102–585, § 521(1), inserted “the peer review panel established under subsection (d) has determined under that subsection that the proposal submitted by such facility as a location for a new center under subsection (a) is among those proposals which have met the highest competitive standards of scientific and clinical merit, and” after “unless” in introductory provisions.
 
 Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” in introductory provisions.
 
-Subsec. (d). Pub. L. 102–585, § 521(3), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 102–585, § 521(3), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 102–585, § 521(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 102–585, § 521(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
 Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” in two places.
 
-Subsecs. (f), (g). Pub. L. 102–585, § 521(2), redesignated subsecs. (e) and (f) as (f) and (g), respectively.
+Subsecs. (f), (g). Pub. L. 102–585, § 521(2), redesignated subsecs. (e) and (f) as (f) and (g), respectively.
 
-1991—Subsec. (b)(1). Pub. L. 102–83, § 4(a)(3), (4), which directed substitution of “Department” for “Veterans’ Administration”, was amended by Pub. L. 103–446, § 1202(b)(2), to make it inapplicable to this section.
+1991—Subsec. (b)(1). Pub. L. 102–83, § 4(a)(3), (4), which directed substitution of “Department” for “Veterans’ Administration”, was amended by Pub. L. 103–446, § 1202(b)(2), to make it inapplicable to this section.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–446, title XII, § 1202(b), Nov. 2, 1994, 108 Stat. 4689, provided that the amendment made by that section is effective Aug. 6, 1991, and as if included in the enactment of Pub. L. 102–83.
+Pub. L. 103–446, title XII, § 1202(b), Nov. 2, 1994, 108 Stat. 4689, provided that the amendment made by that section is effective Aug. 6, 1991, and as if included in the enactment of Pub. L. 102–83.
 
 **Congressional Declaration of Purpose in Creating Centers of Geriatric Research, Education, and Clinical Activities**
 
-Pub. L. 96–330, title III, § 301, Aug. 26, 1980, 94 Stat. 1048, provided that: “The purposes of this title [see Tables for classification] are (1) to improve and expand the capability of Veterans’ Administration [now Department of Veterans Affairs] health-care facilities to respond with the most effective and appropriate services possible to the medical, psychological and social needs of the increasing number of older veterans, and (2) to advance scientific knowledge regarding such needs and the methods of meeting them by facilitating higher quality geriatric care for eligible older veterans through geriatric and gerontological research, the training of health personnel in the provision of health care to older individuals, and the development of improved models of clinical services for eligible older veterans.”
+Pub. L. 96–330, title III, § 301, Aug. 26, 1980, 94 Stat. 1048, provided that: “The purposes of this title [see Tables for classification] are (1) to improve and expand the capability of Veterans’ Administration [now Department of Veterans Affairs] health-care facilities to respond with the most effective and appropriate services possible to the medical, psychological and social needs of the increasing number of older veterans, and (2) to advance scientific knowledge regarding such needs and the methods of meeting them by facilitating higher quality geriatric care for eligible older veterans through geriatric and gerontological research, the training of health personnel in the provision of health care to older individuals, and the development of improved models of clinical services for eligible older veterans.”
 
-### § 7315. Geriatrics and Gerontology Advisory Committee
+### § 7315. Geriatrics and Gerontology Advisory Committee
 
 **(a)** The Secretary shall establish in the Veterans Health Administration a Geriatrics and Gerontology Advisory Committee (hereinafter in this section referred to as the “Committee”). The membership of the Committee shall be appointed by the Secretary, upon the recommendation of the Under Secretary for Health, and shall include individuals who are not employees of the Federal Government and who have demonstrated interest and expertise in research, education, and clinical activities related to aging and at least one representative of a national veterans service organization. The Secretary, upon the recommendation of the Under Secretary for Health, shall invite representatives of other appropriate departments and agencies of the United States to participate in the activities of the Committee and shall provide the Committee with such staff and other support as may be necessary for the Committee to carry out effectively its functions under this section.
 
@@ -1709,7 +1709,7 @@ Pub. L. 96–330, title III, § 301, Aug. 26, 1980, 94 Stat. 1048, provided th
 
 **(2)** Whenever the Committee submits a report to the Secretary under paragraph (1), the Committee shall at the same time transmit a copy of the report in the same form to the appropriate committees of Congress. Not later than 90 days after receipt of a report under that paragraph, the Secretary shall submit to the appropriate committees of Congress a report containing any comments and recommendations of the Secretary with respect to the report of the Committee.
 
-(Added Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 217; amended Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404; Pub. L. 102–405, title I, § 102, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1973, 1984; Pub. L. 103–446, title XII, §§ 1201(i)(9), 1202(b)(2), Nov. 2, 1994, 108 Stat. 4688, 4689; Pub. L. 107–330, title III, § 308(g)(13), Dec. 6, 2002, 116 Stat. 2829.)
+(Added Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 217; amended Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404; Pub. L. 102–405, title I, § 102, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1973, 1984; Pub. L. 103–446, title XII, §§ 1201(i)(9), 1202(b)(2), Nov. 2, 1994, 108 Stat. 4688, 4689; Pub. L. 107–330, title III, § 308(g)(13), Dec. 6, 2002, 116 Stat. 2829.)
 
 **Editorial Notes**
 
@@ -1721,27 +1721,27 @@ The Veterans’ Administration Health-Care Amendments of 1980, referred to in su
 
 2002—Subsec. (a). Pub. L. 107–330 inserted “Veterans Health” before “Administration” in first sentence.
 
-1994—Subsec. (b)(2). Pub. L. 103–446, § 1201(i)(9), which directed substitution of “Veterans’ Administration” for “Department”, could not be executed because “Department” did not appear subsequent to execution of amendment by Pub. L. 103–446, § 1202(b)(2). See below.
+1994—Subsec. (b)(2). Pub. L. 103–446, § 1201(i)(9), which directed substitution of “Veterans’ Administration” for “Department”, could not be executed because “Department” did not appear subsequent to execution of amendment by Pub. L. 103–446, § 1202(b)(2). See below.
 
-Pub. L. 103–446, § 1202(b)(2), amended Pub. L. 102–83, § 4(a)(3), (4), to make it inapplicable to this section. See 1991 Amendment note below.
+Pub. L. 103–446, § 1202(b)(2), amended Pub. L. 102–83, § 4(a)(3), (4), to make it inapplicable to this section. See 1991 Amendment note below.
 
-1992—Subsecs. (a), (b)(1), (5), (c)(1). Pub. L. 102–405, § 302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
+1992—Subsecs. (a), (b)(1), (5), (c)(1). Pub. L. 102–405, § 302(c)(1), substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
 
-Subsec. (c)(2). Pub. L. 102–405, § 102, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Not later than 90 days after receipt of a report submitted under paragraph (1), the Secretary shall transmit the report, together with the Secretary’s comments and recommendations thereon, to the appropriate committees of the Congress.”
+Subsec. (c)(2). Pub. L. 102–405, § 102, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Not later than 90 days after receipt of a report submitted under paragraph (1), the Secretary shall transmit the report, together with the Secretary’s comments and recommendations thereon, to the appropriate committees of the Congress.”
 
-1991—Subsec. (b)(2). Pub. L. 102–83, § 4(a)(3), (4), which directed substitution of “Department” for “Veterans’ Administration”, was amended by Pub. L. 103–446, § 1202(b)(2), to make it inapplicable to this section.
+1991—Subsec. (b)(2). Pub. L. 102–83, § 4(a)(3), (4), which directed substitution of “Department” for “Veterans’ Administration”, was amended by Pub. L. 103–446, § 1202(b)(2), to make it inapplicable to this section.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–446, title XII, § 1202(b), Nov. 2, 1994, 108 Stat. 4689, provided that the amendment made by that section is effective Aug. 6, 1991, and as if included in the enactment of Pub. L. 102–83.
+Pub. L. 103–446, title XII, § 1202(b), Nov. 2, 1994, 108 Stat. 4689, provided that the amendment made by that section is effective Aug. 6, 1991, and as if included in the enactment of Pub. L. 102–83.
 
 **Termination of Advisory Committees**
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 1013 of Title 5, Government Organization and Employees.
 
-### § 7316. Malpractice and negligence suits: defense by United States
+### § 7316. Malpractice and negligence suits: defense by United States
 
 **(a)**
 
@@ -1765,23 +1765,23 @@ for damages for personal injury, including death, allegedly arising from malprac
 
 **(f)** The exception provided in section 2680(h) of title 28 shall not apply to any claim arising out of a negligent or wrongful act or omission of any person described in subsection (a) in furnishing medical care or treatment (including medical care or treatment furnished in the course of a clinical study or investigation) while in the exercise of such person’s duties in or for the Administration.
 
-(Added Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 219; amended Pub. L. 108–170, title III, § 302(e), Dec. 6, 2003, 117 Stat. 2058.)
+(Added Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 219; amended Pub. L. 108–170, title III, § 302(e), Dec. 6, 2003, 117 Stat. 2058.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2003—Subsec. (a)(1). Pub. L. 108–170, § 302(e)(1), substituted “health” for “medical” in three places in concluding provisions.
+2003—Subsec. (a)(1). Pub. L. 108–170, § 302(e)(1), substituted “health” for “medical” in three places in concluding provisions.
 
-Subsec. (a)(2). Pub. L. 108–170, § 302(e)(2), substituted “health” for “medical” the first place it appeared and inserted “chiropractor,” after “podiatrist,”.
+Subsec. (a)(2). Pub. L. 108–170, § 302(e)(2), substituted “health” for “medical” the first place it appeared and inserted “chiropractor,” after “podiatrist,”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–170, title III, § 302(h), Dec. 6, 2003, 117 Stat. 2058, provided that: “The amendments made by this section [amending this section and sections 7401 to 7404, 7409, and 7421 of this title] shall take effect at the end of the 180–day period beginning on the date of the enactment of this Act [Dec. 6, 2003].”
+Pub. L. 108–170, title III, § 302(h), Dec. 6, 2003, 117 Stat. 2058, provided that: “The amendments made by this section [amending this section and sections 7401 to 7404, 7409, and 7421 of this title] shall take effect at the end of the 180–day period beginning on the date of the enactment of this Act [Dec. 6, 2003].”
 
-### § 7317. Hazardous research projects: indemnification of contractors
+### § 7317. Hazardous research projects: indemnification of contractors
 
 **(a)**
 
@@ -1819,7 +1819,7 @@ Pub. L. 108–170, title III, § 302(h), Dec. 6, 2003, 117 Stat. 2058, provide
 
 **(i)** In this section, the term “contractor” includes subcontractors of any tier under a contract containing an indemnification provision pursuant to subsection (a).
 
-(Added Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 220; amended Pub. L. 111–350, § 5(j)(4), Jan. 4, 2011, 124 Stat. 3850.)
+(Added Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 220; amended Pub. L. 111–350, § 5(j)(4), Jan. 4, 2011, 124 Stat. 3850.)
 
 **Editorial Notes**
 
@@ -1827,7 +1827,7 @@ Pub. L. 108–170, title III, § 302(h), Dec. 6, 2003, 117 Stat. 2058, provide
 
 2011—Subsec. (f). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes (41 U.S.C. 5)”.
 
-### § 7318. National Center for Preventive Health
+### § 7318. National Center for Preventive Health
 
 **(a)**
 
@@ -1867,7 +1867,7 @@ Pub. L. 108–170, title III, § 302(h), Dec. 6, 2003, 117 Stat. 2058, provide
 
 **(e)** In this section, the term “preventive health services” has the meaning given such term in section 1701(9) of this title.
 
-(Added Pub. L. 102–585, title V, § 511(a)(1), Nov. 4, 1992, 106 Stat. 4955; amended Pub. L. 103–446, title XII, § 1201(c)(5), Nov. 2, 1994, 108 Stat. 4683.)
+(Added Pub. L. 102–585, title V, § 511(a)(1), Nov. 4, 1992, 106 Stat. 4955; amended Pub. L. 103–446, title XII, § 1201(c)(5), Nov. 2, 1994, 108 Stat. 4683.)
 
 **Editorial Notes**
 
@@ -1879,9 +1879,9 @@ Pub. L. 108–170, title III, § 302(h), Dec. 6, 2003, 117 Stat. 2058, provide
 
 **Selection of Facility at Which Center To Be Established**
 
-Pub. L. 102–585, title V, § 511(c), Nov. 4, 1992, 106 Stat. 4956, as amended by Pub. L. 103–446, title XII, § 1202(e)(2), Nov. 2, 1994, 108 Stat. 4689, provided that: “In order to establish the National Center for Preventive Health pursuant to section 7318 of title 38, United States Code, as added by subsection (a), the Under Secretary for Health of the Department of Veterans Affairs shall solicit proposals from Department health care facilities to establish the center. The Under Secretary for Health shall establish such center at the facility or facilities which the Under Secretary for Health determines, on the basis of a review and analysis of such proposals, would most effectively carry out the purposes set forth in subsection (b) of such section.”
+Pub. L. 102–585, title V, § 511(c), Nov. 4, 1992, 106 Stat. 4956, as amended by Pub. L. 103–446, title XII, § 1202(e)(2), Nov. 2, 1994, 108 Stat. 4689, provided that: “In order to establish the National Center for Preventive Health pursuant to section 7318 of title 38, United States Code, as added by subsection (a), the Under Secretary for Health of the Department of Veterans Affairs shall solicit proposals from Department health care facilities to establish the center. The Under Secretary for Health shall establish such center at the facility or facilities which the Under Secretary for Health determines, on the basis of a review and analysis of such proposals, would most effectively carry out the purposes set forth in subsection (b) of such section.”
 
-### § 7319. Mammography quality standards
+### § 7319. Mammography quality standards
 
 **(a)** A mammogram may not be performed at a Department facility unless that facility is accredited for that purpose by a private nonprofit organization designated by the Secretary. An organization designated by the Secretary under this subsection shall meet the standards for accrediting bodies established under subsection (e) of section 354 of the Public Health Service Act (42 U.S.C. 263b).
 
@@ -1897,7 +1897,7 @@ Pub. L. 102–585, title V, § 511(c), Nov. 4, 1992, 106 Stat. 4956, as amende
 
 **(e)** For the purposes of this section, the term “mammogram” has the meaning given such term in paragraph (5) of section 354(a) of the Public Health Service Act.
 
-(Added Pub. L. 104–262, title III, § 321(a)(1), Oct. 9, 1996, 110 Stat. 3195.)
+(Added Pub. L. 104–262, title III, § 321(a)(1), Oct. 9, 1996, 110 Stat. 3195.)
 
 **Editorial Notes**
 
@@ -1909,13 +1909,13 @@ Section 354 of the Public Health Service Act, referred to in text, is section 35
 
 **Deadline for Prescribing Standards**
 
-Pub. L. 104–262, title III, § 321(b), Oct. 9, 1996, 110 Stat. 3195, required the Secretary of Veterans Affairs to prescribe standards under subsection (b) of this section not later than the end of the 120-day period beginning on Oct. 9, 1996.
+Pub. L. 104–262, title III, § 321(b), Oct. 9, 1996, 110 Stat. 3195, required the Secretary of Veterans Affairs to prescribe standards under subsection (b) of this section not later than the end of the 120-day period beginning on Oct. 9, 1996.
 
 **Implementation Report**
 
-Pub. L. 104–262, title III, § 321(c), Oct. 9, 1996, 110 Stat. 3195, required the Secretary to submit to Congress a report on the Secretary’s implementation of this section not later than 120 days after Oct. 9, 1996.
+Pub. L. 104–262, title III, § 321(c), Oct. 9, 1996, 110 Stat. 3195, required the Secretary to submit to Congress a report on the Secretary’s implementation of this section not later than 120 days after Oct. 9, 1996.
 
-### § 7320. Centers for mental illness research, education, and clinical activities
+### § 7320. Centers for mental illness research, education, and clinical activities
 
 **(a)** The purpose of this section is to provide for the improvement of the provision of health-care services and related counseling services to eligible veterans suffering from mental illness (especially mental illness related to service-related conditions) through—
 
@@ -2005,7 +2005,7 @@ Pub. L. 104–262, title III, § 321(c), Oct. 9, 1996, 110 Stat. 3195, require
 
 **(2)** In addition to funds appropriated for a fiscal year pursuant to the authorization of appropriations in paragraph (1), the Under Secretary for Health shall allocate to such centers from other funds appropriated for that fiscal year generally for the Department of Veterans Affairs medical services account and the Department of Veterans Affairs medical and prosthetics research account such amounts as the Under Secretary for Health determines appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 104–262, title III, § 334(a)(1), Oct. 9, 1996, 110 Stat. 3200; amended Pub. L. 110–387, title IX, § 901(a)(8), Oct. 10, 2008, 122 Stat. 4142; Pub. L. 117–286, § 4(a)(220), Dec. 27, 2022, 136 Stat. 4330.)
+(Added Pub. L. 104–262, title III, § 334(a)(1), Oct. 9, 1996, 110 Stat. 3200; amended Pub. L. 110–387, title IX, § 901(a)(8), Oct. 10, 2008, 122 Stat. 4142; Pub. L. 117–286, § 4(a)(220), Dec. 27, 2022, 136 Stat. 4330.)
 
 **Editorial Notes**
 
@@ -2019,9 +2019,9 @@ Pub. L. 104–262, title III, § 321(c), Oct. 9, 1996, 110 Stat. 3195, require
 
 **Annual Reports On and Designation of Centers**
 
-Pub. L. 104–262, title III, § 334(b), (c), Oct. 9, 1996, 110 Stat. 3203, 3204, required the Secretary of Veterans Affairs, by Feb. 1 of each of the years 1999 to 2002, to submit to Congress a report on the status and activities during the previous fiscal year of the centers for mental illness research, education, and clinical activities established pursuant to this section, with each report to include descriptions of activities and advances at each center and actions taken under subsec. (h) of this section, and also required the Secretary to designate at least one center under this section by Jan. 1, 1998.
+Pub. L. 104–262, title III, § 334(b), (c), Oct. 9, 1996, 110 Stat. 3203, 3204, required the Secretary of Veterans Affairs, by Feb. 1 of each of the years 1999 to 2002, to submit to Congress a report on the status and activities during the previous fiscal year of the centers for mental illness research, education, and clinical activities established pursuant to this section, with each report to include descriptions of activities and advances at each center and actions taken under subsec. (h) of this section, and also required the Secretary to designate at least one center under this section by Jan. 1, 1998.
 
-### § 7321. Committee on Care of Severely Chronically Mentally Ill Veterans
+### § 7321. Committee on Care of Severely Chronically Mentally Ill Veterans
 
 **(a)** The Secretary, acting through the Under Secretary for Health, shall establish in the Veterans Health Administration a Committee on Care of Severely Chronically Mentally Ill Veterans. The Under Secretary shall appoint employees of the Department with expertise in the care of the chronically mentally ill to serve on the committee.
 
@@ -2065,7 +2065,7 @@ Pub. L. 104–262, title III, § 334(b), (c), Oct. 9, 1996, 110 Stat. 3203, 32
 
 **(2)** Not later than June 1 of each year through 2012, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report containing information updating the reports submitted under this subsection before the submission of such report.
 
-(Added Pub. L. 104–262, title III, § 335(a), Oct. 9, 1996, 110 Stat. 3204; amended Pub. L. 106–419, title IV, § 402(f), Nov. 1, 2000, 114 Stat. 1863; Pub. L. 108–170, title IV, § 405(c), Dec. 6, 2003, 117 Stat. 2063; Pub. L. 110–387, title VIII, § 807, Oct. 10, 2008, 122 Stat. 4141.)
+(Added Pub. L. 104–262, title III, § 335(a), Oct. 9, 1996, 110 Stat. 3204; amended Pub. L. 106–419, title IV, § 402(f), Nov. 1, 2000, 114 Stat. 1863; Pub. L. 108–170, title IV, § 405(c), Dec. 6, 2003, 117 Stat. 2063; Pub. L. 110–387, title VIII, § 807, Oct. 10, 2008, 122 Stat. 4141.)
 
 **Editorial Notes**
 
@@ -2077,7 +2077,7 @@ Pub. L. 104–262, title III, § 334(b), (c), Oct. 9, 1996, 110 Stat. 3203, 32
 
 2000—Subsec. (d)(2). Pub. L. 106–419, substituted “six following years” for “three following years”.
 
-### § 7321A. Committee on Care of Veterans with Traumatic Brain Injury
+### § 7321A. Committee on Care of Veterans with Traumatic Brain Injury
 
 **(a) Establishment.—** The Secretary shall establish in the Veterans Health Administration a committee to be known as the “Committee on Care of Veterans with Traumatic Brain Injury”. The Under Secretary for Health shall appoint employees of the Department with expertise in the care of veterans with traumatic brain injury to serve on the committee.
 
@@ -2117,9 +2117,9 @@ Pub. L. 104–262, title III, § 334(b), (c), Oct. 9, 1996, 110 Stat. 3203, 32
 
 **(5)** A description of the steps taken, plans made (and a timetable for the execution of such plans), and resources to be applied toward improving the capability of the Veterans Health Administration to meet effectively the treatment and rehabilitation needs of veterans with traumatic brain injury.
 
-(Added Pub. L. 111–163, title V, § 515(a), May 5, 2010, 124 Stat. 1165.)
+(Added Pub. L. 111–163, title V, § 515(a), May 5, 2010, 124 Stat. 1165.)
 
-### § 7322. Breast cancer mammography policy
+### § 7322. Breast cancer mammography policy
 
 **(a) In General.—** The Under Secretary for Health shall develop a national policy for the Veterans Health Administration on mammography screening for veterans.
 
@@ -2185,7 +2185,7 @@ Pub. L. 104–262, title III, § 334(b), (c), Oct. 9, 1996, 110 Stat. 3203, 32
 
 **(B)** does not contain a commercially manufactured incinerator or other equipment specifically designed and manufactured for the burning of solid waste.
 
-(Added Pub. L. 105–114, title II, § 208(a)(1), Nov. 21, 1997, 111 Stat. 2289; amended Pub. L. 117–133, § 2(a), June 7, 2022, 136 Stat. 1238.)
+(Added Pub. L. 105–114, title II, § 208(a)(1), Nov. 21, 1997, 111 Stat. 2289; amended Pub. L. 117–133, § 2(a), June 7, 2022, 136 Stat. 1238.)
 
 **Editorial Notes**
 
@@ -2195,19 +2195,19 @@ The date of the enactment of the Dr. Kate Hendricks Thomas Supporting Expanded R
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–133, § 2(a)(1), inserted heading.
+2022—Subsec. (a). Pub. L. 117–133, § 2(a)(1), inserted heading.
 
-Subsec. (b). Pub. L. 117–133, § 2(a)(2)(A), inserted heading.
+Subsec. (b). Pub. L. 117–133, § 2(a)(2)(A), inserted heading.
 
-Subsec. (b)(2)(B). Pub. L. 117–133, § 2(a)(2)(B), inserted “a record of service in a location and during a period specified in subsection (d),” after “risk factors”.
+Subsec. (b)(2)(B). Pub. L. 117–133, § 2(a)(2)(B), inserted “a record of service in a location and during a period specified in subsection (d),” after “risk factors”.
 
-Subsecs. (c), (d). Pub. L. 117–133, § 2(a)(3), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 117–133, § 2(a)(3), added subsecs. (c) and (d).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 105–114, title II, § 208(b), Nov. 21, 1997, 111 Stat. 2289, provided that: “The Secretary of Veterans Affairs shall develop the national policy on mammography screening required by section 7322 of title 38, United States Code, as added by subsection (a), and shall furnish such policy in a report to the Committees on Veterans’ Affairs of the Senate and House of Representatives, not later than 60 days after the date of the enactment of this Act [Nov. 21, 1997]. Such policy shall not take effect before the expiration of 30 days after the date of its submission to those committees.”
+Pub. L. 105–114, title II, § 208(b), Nov. 21, 1997, 111 Stat. 2289, provided that: “The Secretary of Veterans Affairs shall develop the national policy on mammography screening required by section 7322 of title 38, United States Code, as added by subsection (a), and shall furnish such policy in a report to the Committees on Veterans’ Affairs of the Senate and House of Representatives, not later than 60 days after the date of the enactment of this Act [Nov. 21, 1997]. Such policy shall not take effect before the expiration of 30 days after the date of its submission to those committees.”
 
 **Making Advances in Mammography and Medical Options for Veterans**
 
@@ -2407,9 +2407,9 @@ Pub. L. 117–135, June 7, 2022, 136 Stat. 1244, provided that:
 
 **Sense of Congress**
 
-Pub. L. 105–114, title II, § 208(c), Nov. 21, 1997, 111 Stat. 2290, provided that: “It is the sense of Congress that the policy developed under section 7322 of title 38, United States Code, as added by subsection (a), shall be in accordance with the guidelines endorsed by the Secretary of Health and Human Services and the Director of the National Institutes of Health.”
+Pub. L. 105–114, title II, § 208(c), Nov. 21, 1997, 111 Stat. 2290, provided that: “It is the sense of Congress that the policy developed under section 7322 of title 38, United States Code, as added by subsection (a), shall be in accordance with the guidelines endorsed by the Secretary of Health and Human Services and the Director of the National Institutes of Health.”
 
-### § 7323. Required consultations with nurses
+### § 7323. Required consultations with nurses
 
 The Under Secretary for Health shall ensure that—
 
@@ -2417,9 +2417,9 @@ The Under Secretary for Health shall ensure that—
 
 **(2)** the director of a medical center shall include a registered nurse as a member of any committee used at that medical center to provide recommendations or decisions on medical center operations or policy affecting clinical services, clinical outcomes, budget, or resources.
 
-(Added Pub. L. 106–419, title II, § 201(b)(1), Nov. 1, 2000, 114 Stat. 1840.)
+(Added Pub. L. 106–419, title II, § 201(b)(1), Nov. 1, 2000, 114 Stat. 1840.)
 
-### § 7324. Annual report on use of authorities to enhance retention of experienced nurses
+### § 7324. Annual report on use of authorities to enhance retention of experienced nurses
 
 **(a) Annual Report.—** Not later than January 31 each year, the Secretary, acting through the Under Secretary for Health, shall submit to Congress a report on the use during the preceding year of authorities for purposes of retaining experienced nurses in the Veterans Health Administration, as follows:
 
@@ -2431,29 +2431,29 @@ The Under Secretary for Health shall ensure that—
 
 **(b) Report Elements.—** Each report under subsection (a) shall specify for the period covered by such report, for each Department medical facility and for each geographic service area of the Department, the following:
 
-**(1)** The number of waivers requested under the authority referred to in subsection (a)(2), and the number of waivers granted under that authority, to promote to the Nurse II grade or Nurse III grade under the Nurse Schedule under section 7404(b)(1) 1
+**(1)** The number of waivers requested under the authority referred to in subsection (a)(2), and the number of waivers granted under that authority, to promote to the Nurse II grade or Nurse III grade under the Nurse Schedule under section 7404(b)(1) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title any nurse who has not completed a baccalaureate degree in nursing in a recognized school of nursing, set forth by age, race, and years of experience of the individuals subject to such waiver requests and waivers, as the case may be.
 
 **(2)** The programs carried out to facilitate the use of nursing education programs by experienced nurses, including programs for flexible scheduling, scholarships, salary replacement pay, and on-site classes.
 
-(Added Pub. L. 107–135, title I, § 125(a)(1), Jan. 23, 2002, 115 Stat. 2452.)
+(Added Pub. L. 107–135, title I, § 125(a)(1), Jan. 23, 2002, 115 Stat. 2452.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 7404(b) of this title, referred to in subsec. (b)(1), was amended by Pub. L. 108–445, § 3(a), Dec. 3, 2004, 118 Stat. 2636. As so amended, section 7404(b) no longer includes paragraphs. The Nurse Schedule appears under section 7404(b).
+Section 7404(b) of this title, referred to in subsec. (b)(1), was amended by Pub. L. 108–445, § 3(a), Dec. 3, 2004, 118 Stat. 2636. As so amended, section 7404(b) no longer includes paragraphs. The Nurse Schedule appears under section 7404(b).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Initial Report**
 
-Pub. L. 107–135, title I, § 125(b), Jan. 23, 2002, 115 Stat. 2453, required that the initial report under this section be submitted to the National Commission on VA Nursing as well as to Congress.
+Pub. L. 107–135, title I, § 125(b), Jan. 23, 2002, 115 Stat. 2453, required that the initial report under this section be submitted to the National Commission on VA Nursing as well as to Congress.
 
-### § 7325. Medical emergency preparedness centers
+### § 7325. Medical emergency preparedness centers
 
 **(a) Establishment of Centers.—**
 
@@ -2517,7 +2517,7 @@ Pub. L. 107–135, title I, § 125(b), Jan. 23, 2002, 115 Stat. 2453, required
 
 **(3)** There are authorized to be appropriated for the centers under this section $20,000,000 for each of fiscal years 2003 through 2007.
 
-(Added Pub. L. 107–287, § 2(a)(1), Nov. 7, 2002, 116 Stat. 2024; amended Pub. L. 110–387, title IX, § 901(a)(8), Oct. 10, 2008, 122 Stat. 4142; Pub. L. 111–275, title X, § 1001(n)(2), Oct. 13, 2010, 124 Stat. 2897.)
+(Added Pub. L. 107–287, § 2(a)(1), Nov. 7, 2002, 116 Stat. 2024; amended Pub. L. 110–387, title IX, § 901(a)(8), Oct. 10, 2008, 122 Stat. 4142; Pub. L. 111–275, title X, § 1001(n)(2), Oct. 13, 2010, 124 Stat. 2897.)
 
 **Editorial Notes**
 
@@ -2537,7 +2537,7 @@ For transfer of functions, personnel, assets, and liabilities of the National Di
 
 **Peer Review for Designation of Centers**
 
-Pub. L. 107–287, § 2(b), Nov. 7, 2002, 116 Stat. 2027, as amended by Pub. L. 117–286, § 4(a)(221), Dec. 27, 2022, 136 Stat. 4330, provided that:
+Pub. L. 107–287, § 2(b), Nov. 7, 2002, 116 Stat. 2027, as amended by Pub. L. 117–286, § 4(a)(221), Dec. 27, 2022, 136 Stat. 4330, provided that:
 
 > **“(1)** In order to assist the Secretary of Veterans Affairs and the Under Secretary of Veterans Affairs for Health in selecting sites for centers under section 7325 of title 38, United States Code, as added by subsection (a), the Under Secretary shall establish a peer review panel to assess the scientific and clinical merit of proposals that are submitted to the Secretary for the designation of such centers. The peer review panel shall be established in consultation with the Assistant Secretary of Veterans Affairs with responsibility for operations, preparedness, security, and law enforcement functions.
 
@@ -2547,7 +2547,7 @@ Pub. L. 107–287, § 2(b), Nov. 7, 2002, 116 Stat. 2027, as amended by Pub. L
 
 > **“(4)** The panel shall not be subject to chapter 10 of title 5, United States Code.”
 
-### § 7326. Education and training programs on medical response to consequences of terrorist activities
+### § 7326. Education and training programs on medical response to consequences of terrorist activities
 
 **(a) Education Program.—** The Secretary shall carry out a program to develop and disseminate a series of model education and training programs on the medical responses to the consequences of terrorist activities.
 
@@ -2573,15 +2573,15 @@ Pub. L. 107–287, § 2(b), Nov. 7, 2002, 116 Stat. 2027, as amended by Pub. L
 
 **(e) Consultation.—** In establishing education and training programs under this section, the Secretary shall consult with appropriate representatives of accrediting, certifying, and coordinating organizations in the field of health professions education.
 
-(Added Pub. L. 107–287, § 3(a)(1), Nov. 7, 2002, 116 Stat. 2027.)
+(Added Pub. L. 107–287, § 3(a)(1), Nov. 7, 2002, 116 Stat. 2027.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Implementation**
 
-Pub. L. 107–287, § 3(b), Nov. 7, 2002, 116 Stat. 2028, provided that: “The Secretary of Veterans Affairs shall implement section 7326 of title 38, United States Code, as added by subsection (a), not later than the end of the 90-day period beginning on the date of the enactment of this Act [Nov. 7, 2002].”
+Pub. L. 107–287, § 3(b), Nov. 7, 2002, 116 Stat. 2028, provided that: “The Secretary of Veterans Affairs shall implement section 7326 of title 38, United States Code, as added by subsection (a), not later than the end of the 90-day period beginning on the date of the enactment of this Act [Nov. 7, 2002].”
 
-### § 7327. Centers for research, education, and clinical activities on complex multi-trauma associated with combat injuries
+### § 7327. Centers for research, education, and clinical activities on complex multi-trauma associated with combat injuries
 
 **(a) Purpose.—** The purpose of this section is to provide for the improvement of the provision of health care services and related rehabilitation and education services to eligible veterans suffering from complex multi-trauma associated with combat injuries through—
 
@@ -2681,13 +2681,13 @@ Pub. L. 107–287, § 3(b), Nov. 7, 2002, 116 Stat. 2028, provided that: “Th
 
 **(2)** In addition to amounts authorized to be appropriated by paragraph (1) for a fiscal year, the Under Secretary for Health may allocate to each center designated under this section, from other funds authorized to be appropriated for such fiscal year for the Department generally for medical and for medical and prosthetic research, such amounts as the Under Secretary for Health determines appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 108–422, title III, § 302(a)(1), Nov. 30, 2004, 118 Stat. 2383.)
+(Added Pub. L. 108–422, title III, § 302(a)(1), Nov. 30, 2004, 118 Stat. 2383.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Center of Excellence in the Mitigation, Treatment, and Rehabilitation of Traumatic Extremity Injuries and Amputations**
 
-Pub. L. 110–417, [div. A], title VII, § 723, Oct. 14, 2008, 122 Stat. 4508, as amended by Pub. L. 114–92, div. A, title X, § 1079(d)(2), Nov. 25, 2015, 129 Stat. 999, provided that:
+Pub. L. 110–417, [div. A], title VII, § 723, Oct. 14, 2008, 122 Stat. 4508, as amended by Pub. L. 114–92, div. A, title X, § 1079(d)(2), Nov. 25, 2015, 129 Stat. 999, provided that:
 
 > **“(a) In General.—** The Secretary of Defense and the Secretary of Veterans Affairs shall jointly establish a center of excellence in the mitigation, treatment, and rehabilitation of traumatic extremity injuries and amputations.
 
@@ -2703,9 +2703,9 @@ Pub. L. 110–417, [div. A], title VII, § 723, Oct. 14, 2008, 122 Stat. 4508,
 
 **Designation of Centers**
 
-Pub. L. 108–422, title III, § 302(b), Nov. 30, 2004, 118 Stat. 2385, required the Secretary of Veterans Affairs to designate the centers required by this section not later than 120 days after Nov. 30, 2004.
+Pub. L. 108–422, title III, § 302(b), Nov. 30, 2004, 118 Stat. 2385, required the Secretary of Veterans Affairs to designate the centers required by this section not later than 120 days after Nov. 30, 2004.
 
-### § 7328. Medical preparedness centers
+### § 7328. Medical preparedness centers
 
 **(a) Establishment of Centers.—**
 
@@ -2719,9 +2719,9 @@ Pub. L. 108–422, title III, § 302(b), Nov. 30, 2004, 118 Stat. 2385, requir
 
 **(1)** To carry out research on, and to develop methods of detection, diagnosis, prevention, and treatment of injuries, diseases, and illnesses arising from the use of chemical, biological, radiological, incendiary or other explosive weapons or devices posing threats to the public health and safety.
 
-**(2)** To provide education, training, and advice to health care professionals, including health care professionals outside the Veterans Health Administration, through the National Disaster Medical System established pursuant to section 2811(b) of the Public Health Service Act (42 U.S.C. 300hh–11(b)) 1
+**(2)** To provide education, training, and advice to health care professionals, including health care professionals outside the Veterans Health Administration, through the National Disaster Medical System established pursuant to section 2811(b) of the Public Health Service Act (42 U.S.C. 300hh–11(b)) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or through interagency agreements entered into by the Secretary for that purpose.
 
@@ -2771,17 +2771,17 @@ or through interagency agreements entered into by the Secretary for that purpose
 
 **(2)** In addition to any amounts appropriated for a fiscal year specifically for the activities of the centers pursuant to paragraph (1), the Under Secretary for Health shall allocate to the centers from other funds appropriated for that fiscal year generally for the Department medical services account and the Department medical and prosthetic research account such amounts as the Under Secretary determines necessary in order to carry out the purposes of this section.
 
-(Added Pub. L. 108–422, title III, § 303(c)(1), Nov. 30, 2004, 118 Stat. 2386; amended Pub. L. 110–387, title IX, § 901(a)(8), Oct. 10, 2008, 122 Stat. 4142.)
+(Added Pub. L. 108–422, title III, § 303(c)(1), Nov. 30, 2004, 118 Stat. 2386; amended Pub. L. 110–387, title IX, § 901(a)(8), Oct. 10, 2008, 122 Stat. 4142.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2811(b) of the Public Health Service Act, referred to in subsec. (b)(2), was redesignated section 2812(a) of the Public Health Service Act by Pub. L. 109–417, title I, § 102(a)(2), title III, § 301(a)(3), Dec. 19, 2006, 120 Stat. 2832, 2853, and is classified to section 300hh–11(a) of Title 42, The Public Health and Welfare.
+Section 2811(b) of the Public Health Service Act, referred to in subsec. (b)(2), was redesignated section 2812(a) of the Public Health Service Act by Pub. L. 109–417, title I, § 102(a)(2), title III, § 301(a)(3), Dec. 19, 2006, 120 Stat. 2832, 2853, and is classified to section 300hh–11(a) of Title 42, The Public Health and Welfare.
 
 **Codification**
 
-The text of subsecs. (a) to (h) of this section consists of the text of section 7325(a) to (h) of this title, as duplicated in this section by Pub. L. 108–422, § 303(c)(1)(B), which was based on Pub. L. 107–287, § 2(a)(1), Nov. 7, 2002, 116 Stat. 2024.
+The text of subsecs. (a) to (h) of this section consists of the text of section 7325(a) to (h) of this title, as duplicated in this section by Pub. L. 108–422, § 303(c)(1)(B), which was based on Pub. L. 107–287, § 2(a)(1), Nov. 7, 2002, 116 Stat. 2024.
 
 **Amendments**
 
@@ -2797,13 +2797,13 @@ For transfer of functions, personnel, assets, and liabilities of the National Di
 
 **Enhancement of Medical Preparedness of Department of Veterans Affairs**
 
-Pub. L. 108–422, title III, § 303(a), (b), Nov. 30, 2004, 118 Stat. 2386, as amended by Pub. L. 117–286, § 4(a)(222), Dec. 27, 2022, 136 Stat. 4330, provided that:
+Pub. L. 108–422, title III, § 303(a), (b), Nov. 30, 2004, 118 Stat. 2386, as amended by Pub. L. 117–286, § 4(a)(222), Dec. 27, 2022, 136 Stat. 4330, provided that:
 
 > **“(a) Peer Review Panel.—** In order to assist the Secretary of Veterans Affairs in selecting facilities of the Department of Veterans Affairs to serve as sites for centers under section 7328 of title 38, United States Code, as added by subsection (c), the Secretary shall establish a peer review panel to assess the scientific and clinical merit of proposals that are submitted to the Secretary for the selection of such facilities. The panel shall be established not later than 90 days after the date of the enactment of this Act [Nov. 30, 2004] and shall include experts in the fields of toxicological research, infectious diseases, radiology, clinical care of veterans exposed to such hazards, and other persons as determined appropriate by the Secretary. Members of the panel shall serve as consultants to the Department of Veterans Affairs. Amounts available to the Secretary for Medical Care may be used for purposes of carrying out this subsection. The panel shall not be subject to chapter 10 of title 5, United States Code.
 
 > **“(b) Proposals.—** The Secretary shall solicit proposals for designation of facilities as described in subsection (a). The announcement of the solicitation of such proposals shall be issued not later than 60 days after the date of the enactment of this Act, and the deadline for the submission of proposals in response to such solicitation shall be not later than 90 days after the date of such announcement. The peer review panel established under subsection (a) shall complete its review of the proposals and submit its recommendations to the Secretary not later than 60 days after the date of the deadline for the submission of proposals. The Secretary shall then select the four sites for the location of such centers not later than 45 days after the date on which the peer review panel submits its recommendations to the Secretary.”
 
-### § 7329. Parkinson’s Disease research, education, and clinical centers
+### § 7329. Parkinson’s Disease research, education, and clinical centers
 
 **(a) Establishment of Centers.—**
 
@@ -2869,13 +2869,13 @@ Pub. L. 108–422, title III, § 303(a), (b), Nov. 30, 2004, 118 Stat. 2386, a
 
 **(g) Award Competitions.—** Activities of clinical and scientific investigation at each center established under subsection (a) shall be eligible to compete for the award of funding from funds appropriated for the Department medical and prosthetics research account. Such activities shall receive priority in the award of funding from such account insofar as funds are awarded to projects for research in Parkinson’s Disease and other movement disorders.
 
-(Added Pub. L. 109–461, title II, § 209(a)(1), Dec. 22, 2006, 120 Stat. 3413; amended Pub. L. 117–286, § 4(a)(223), Dec. 27, 2022, 136 Stat. 4330.)
+(Added Pub. L. 109–461, title II, § 209(a)(1), Dec. 22, 2006, 120 Stat. 3413; amended Pub. L. 117–286, § 4(a)(223), Dec. 27, 2022, 136 Stat. 4330.)
 
 **Editorial Notes**
 
 **Codification**
 
-A substantially identical section enacted by Pub. L. 109–444, § 6(a)(1), Dec. 21, 2006, 120 Stat. 3308, was repealed by Pub. L. 109–461, title X, § 1006(b), Dec. 22, 2006, 120 Stat. 3468, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+A substantially identical section enacted by Pub. L. 109–444, § 6(a)(1), Dec. 21, 2006, 120 Stat. 3308, was repealed by Pub. L. 109–461, title X, § 1006(b), Dec. 22, 2006, 120 Stat. 3468, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 **Amendments**
 
@@ -2885,11 +2885,11 @@ A substantially identical section enacted by Pub. L. 109–444, § 6(a)(1), De
 
 **Effective Date**
 
-Pub. L. 109–461, title II, § 209(b), Dec. 22, 2006, 120 Stat. 3418, provided that: “Sections 7329 and 7330 of title 38, United States Code, as added by subsection (a), shall take effect at the end of the 30-day period beginning on the date of the enactment of this Act [Dec. 22, 2006].”
+Pub. L. 109–461, title II, § 209(b), Dec. 22, 2006, 120 Stat. 3418, provided that: “Sections 7329 and 7330 of title 38, United States Code, as added by subsection (a), shall take effect at the end of the 30-day period beginning on the date of the enactment of this Act [Dec. 22, 2006].”
 
-Pub. L. 109–444, § 6(b), Dec. 21, 2006, 120 Stat. 3312, which provided that this section and section 7330 of this title would take effect at the end of the 30-day period beginning on Dec. 21, 2006, was repealed by Pub. L. 109–461, title X, § 1006(b), Dec. 22, 2006, 120 Stat. 3468, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+Pub. L. 109–444, § 6(b), Dec. 21, 2006, 120 Stat. 3312, which provided that this section and section 7330 of this title would take effect at the end of the 30-day period beginning on Dec. 21, 2006, was repealed by Pub. L. 109–461, title X, § 1006(b), Dec. 22, 2006, 120 Stat. 3468, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
-### § 7330. Multiple sclerosis centers of excellence
+### § 7330. Multiple sclerosis centers of excellence
 
 **(a) Establishment of Centers.—**
 
@@ -2955,13 +2955,13 @@ Pub. L. 109–444, § 6(b), Dec. 21, 2006, 120 Stat. 3312, which provided that
 
 **(g) Award Competitions.—** Activities of clinical and scientific investigation at each center established under subsection (a) shall be eligible to compete for the award of funding from funds appropriated for the Department medical and prosthetics research account. Such activities shall receive priority in the award of funding from such account insofar as funds are awarded to projects for research in multiple sclerosis and other neurodegenerative disorders.
 
-(Added Pub. L. 109–461, title II, § 209(a)(1), Dec. 22, 2006, 120 Stat. 3416; amended Pub. L. 117–286, § 4(a)(224), Dec. 27, 2022, 136 Stat. 4330.)
+(Added Pub. L. 109–461, title II, § 209(a)(1), Dec. 22, 2006, 120 Stat. 3416; amended Pub. L. 117–286, § 4(a)(224), Dec. 27, 2022, 136 Stat. 4330.)
 
 **Editorial Notes**
 
 **Codification**
 
-A substantially identical section enacted by Pub. L. 109–444, § 6(a)(1), Dec. 21, 2006, 120 Stat. 3310, was repealed by Pub. L. 109–461, title X, § 1006(b), Dec. 22, 2006, 120 Stat. 3468, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+A substantially identical section enacted by Pub. L. 109–444, § 6(a)(1), Dec. 21, 2006, 120 Stat. 3310, was repealed by Pub. L. 109–461, title X, § 1006(b), Dec. 22, 2006, 120 Stat. 3468, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 **Amendments**
 
@@ -2973,7 +2973,7 @@ A substantially identical section enacted by Pub. L. 109–444, § 6(a)(1), De
 
 Section effective at the end of the 30-day period beginning Dec. 22, 2006, see section 209(b) of Pub. L. 109–461, set out as a note under section 7329 of this title.
 
-### § 7330A. Epilepsy centers of excellence
+### § 7330A. Epilepsy centers of excellence
 
 **(a) Establishment of Centers.—**
 
@@ -3057,7 +3057,7 @@ Section effective at the end of the 30-day period beginning Dec. 22, 2006, see s
 
 **(5)** In addition to amounts authorized to be appropriated under paragraphs (1) and (2) for a fiscal year, there are authorized to be appropriated such sums as may be necessary to fund the national coordinator established by subsection (e).
 
-(Added Pub. L. 110–387, title IV, § 404(a), Oct. 10, 2008, 122 Stat. 4126; amended Pub. L. 117–286, § 4(a)(225), Dec. 27, 2022, 136 Stat. 4330.)
+(Added Pub. L. 110–387, title IV, § 404(a), Oct. 10, 2008, 122 Stat. 4126; amended Pub. L. 117–286, § 4(a)(225), Dec. 27, 2022, 136 Stat. 4330.)
 
 **Editorial Notes**
 
@@ -3069,7 +3069,7 @@ The date of the enactment of the Veterans’ Mental Health and Other Care Improv
 
 2022—Subsec. (c)(5). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act.”
 
-### § 7330B. Annual report on Veterans Health Administration and furnishing of hospital care, medical services, and nursing home care
+### § 7330B. Annual report on Veterans Health Administration and furnishing of hospital care, medical services, and nursing home care
 
 **(a) Report Required.—** Not later than March 1 of each of years 2018 through 2022, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on, for the calendar year preceding the calendar year during which the report is submitted—
 
@@ -3101,9 +3101,9 @@ The date of the enactment of the Veterans’ Mental Health and Other Care Improv
 
 **(c) Definitions.—** In this section, the terms “hospital care”, “medical services”, “nursing home care”, “facilities of the Department”, and “non-Department facilities” have the meanings given those terms in section 1701 of this title.
 
-(Added Pub. L. 114–315, title VI, § 612(a), Dec. 16, 2016, 130 Stat. 1575.)
+(Added Pub. L. 114–315, title VI, § 612(a), Dec. 16, 2016, 130 Stat. 1575.)
 
-### § 7330C. Quadrennial Veterans Health Administration review
+### § 7330C. Quadrennial Veterans Health Administration review
 
 **(a) Market Area Assessments.—**
 
@@ -3195,7 +3195,7 @@ The date of the enactment of the Veterans’ Mental Health and Other Care Improv
 
 **(2)** the Committee on Veterans’ Affairs and the Committee on Appropriations of the House of Representatives.
 
-(Added Pub. L. 115–182, title I, § 106(a), June 6, 2018, 132 Stat. 1413; amended Pub. L. 115–251, title II, § 211(a)(11), Sept. 29, 2018, 132 Stat. 3175.)
+(Added Pub. L. 115–182, title I, § 106(a), June 6, 2018, 132 Stat. 1413; amended Pub. L. 115–251, title II, § 211(a)(11), Sept. 29, 2018, 132 Stat. 3175.)
 
 **Editorial Notes**
 
@@ -3205,37 +3205,37 @@ The date of the enactment of the Caring for Our Veterans Act of 2018, referred t
 
 **Amendments**
 
-2018—Subsec. (a)(1). Pub. L. 115–251, § 211(a)(11)(A)(i), substituted “Secretary shall” for “Secretary of Veterans Affairs shall”.
+2018—Subsec. (a)(1). Pub. L. 115–251, § 211(a)(11)(A)(i), substituted “Secretary shall” for “Secretary of Veterans Affairs shall”.
 
-Subsec. (a)(2)(B). Pub. L. 115–251, § 211(a)(11)(A)(ii)(I), substituted “Department across” for “Department of Veterans Affairs across”.
+Subsec. (a)(2)(B). Pub. L. 115–251, § 211(a)(11)(A)(ii)(I), substituted “Department across” for “Department of Veterans Affairs across”.
 
-Subsec. (a)(2)(C). Pub. L. 115–251, § 211(a)(11)(A)(ii)(II), substituted “of this title” for “of title 38, as added by section 102”.
+Subsec. (a)(2)(C). Pub. L. 115–251, § 211(a)(11)(A)(ii)(II), substituted “of this title” for “of title 38, as added by section 102”.
 
-Subsec. (a)(2)(H)(i). Pub. L. 115–251, § 211(a)(11)(A)(ii)(III), substituted “Department” for “Department of Veterans Affairs”.
+Subsec. (a)(2)(H)(i). Pub. L. 115–251, § 211(a)(11)(A)(ii)(III), substituted “Department” for “Department of Veterans Affairs”.
 
-Subsec. (a)(4)(A)(iii). Pub. L. 115–251, § 211(a)(11)(A)(iii)(I), inserted “of this title” after “section 1703C”.
+Subsec. (a)(4)(A)(iii). Pub. L. 115–251, § 211(a)(11)(A)(iii)(I), inserted “of this title” after “section 1703C”.
 
-Subsec. (a)(4)(B). Pub. L. 115–251, § 211(a)(11)(A)(iii)(II), inserted “of this title” after “section 1703(b)”.
+Subsec. (a)(4)(B). Pub. L. 115–251, § 211(a)(11)(A)(iii)(II), inserted “of this title” after “section 1703(b)”.
 
-Subsec. (b)(2)(I). Pub. L. 115–251, § 211(a)(11)(B), inserted “of this title” after “section 1706A”.
+Subsec. (b)(2)(I). Pub. L. 115–251, § 211(a)(11)(B), inserted “of this title” after “section 1706A”.
 
-Subsec. (c)(1). Pub. L. 115–251, § 211(a)(11)(C)(i), substituted “a high-performing” for “such high performing”.
+Subsec. (c)(1). Pub. L. 115–251, § 211(a)(11)(C)(i), substituted “a high-performing” for “such high performing”.
 
-Subsec. (c)(3). Pub. L. 115–251, § 211(a)(11)(C)(ii), inserted “such” before “a high-performing”.
+Subsec. (c)(3). Pub. L. 115–251, § 211(a)(11)(C)(ii), inserted “such” before “a high-performing”.
 
-### § 7330D. Inapplicability of Paperwork Reduction Act to research activities
+### § 7330D. Inapplicability of Paperwork Reduction Act to research activities
 
 Subchapter I of chapter 35 of title 44 (commonly referred to as the “Paperwork Reduction Act”) shall not apply to the voluntary collection of information during the conduct of research by the Veterans Health Administration, including the Office of Research and Development, or individuals or entities affiliated with the Veterans Health Administration.
 
-(Added Pub. L. 117–328, div. U, title I, § 181(a), Dec. 29, 2022, 136 Stat. 5435.)
+(Added Pub. L. 117–328, div. U, title I, § 181(a), Dec. 29, 2022, 136 Stat. 5435.)
 
 ## SUBCHAPTER III—PROTECTION OF PATIENT RIGHTS
 
-### § 7331. Informed consent
+### § 7331. Informed consent
 
 The Secretary, upon the recommendation of the Under Secretary for Health and pursuant to the provisions of section 7334 of this title, shall prescribe regulations establishing procedures to ensure that all medical and prosthetic research carried out and, to the maximum extent practicable, all patient care furnished under this title shall be carried out only with the full and informed consent of the patient or subject or, in appropriate cases, a representative thereof.
 
-(Added Pub. L. 94–581, title I, § 111(a)(1), Oct. 21, 1976, 90 Stat. 2849, § 4131; renumbered § 7331 and amended Pub. L. 102–40, title IV, §§ 401(a)(4)(A), 402(d)(1), 403(a)(1), May 7, 1991, 105 Stat. 221, 239; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
+(Added Pub. L. 94–581, title I, § 111(a)(1), Oct. 21, 1976, 90 Stat. 2849, § 4131; renumbered § 7331 and amended Pub. L. 102–40, title IV, §§ 401(a)(4)(A), 402(d)(1), 403(a)(1), May 7, 1991, 105 Stat. 221, 239; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
 
 **Editorial Notes**
 
@@ -3243,11 +3243,11 @@ The Secretary, upon the recommendation of the Under Secretary for Health and pur
 
 1992—Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-1991—Pub. L. 102–40, § 401(a)(4)(A), renumbered section 4131 of this title as this section.
+1991—Pub. L. 102–40, § 401(a)(4)(A), renumbered section 4131 of this title as this section.
 
-Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator”.
+Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–40, § 402(d)(1), substituted “7334” for “4134”.
+Pub. L. 102–40, § 402(d)(1), substituted “7334” for “4134”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3255,7 +3255,7 @@ Pub. L. 102–40, § 402(d)(1), substituted “7334” for “4134”.
 
 Subchapter effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as an Effective Date of 1976 Amendment note under section 111 of this title.
 
-### § 7332. Confidentiality of certain medical records
+### § 7332. Confidentiality of certain medical records
 
 **(a)**
 
@@ -3323,13 +3323,13 @@ Subchapter effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out
 
 **(g)** Any person who violates any provision of this section or any regulation issued pursuant to this section shall be fined, in the case of a first offense, up to the maximum amount provided under section 5701(f) of this title for a first offense under that section and, in the case of a subsequent offense, up to the maximum amount provided under section 5701(f) of this title for a subsequent offense under that section.
 
-(Added Pub. L. 94–581, title I, § 111(a)(1), Oct. 21, 1976, 90 Stat. 2849, § 4132; amended Pub. L. 100–322, title I, § 121, May 20, 1988, 102 Stat. 502; renumbered § 7332 and amended Pub. L. 102–40, title IV, §§ 401(a)(4)(A), 402(d)(1), 403(a)(1), (2), (4), (5), May 7, 1991, 105 Stat. 221, 239; Pub. L. 109–461, title II, § 204(b), Dec. 22, 2006, 120 Stat. 3411; Pub. L. 111–163, title V, § 504, May 5, 2010, 124 Stat. 1157; Pub. L. 112–74, div. H, title II, § 230(b), Dec. 23, 2011, 125 Stat. 1159; Pub. L. 115–26, § 3, Apr. 19, 2017, 131 Stat. 130; Pub. L. 115–182, title I, § 132, June 6, 2018, 132 Stat. 1427.)
+(Added Pub. L. 94–581, title I, § 111(a)(1), Oct. 21, 1976, 90 Stat. 2849, § 4132; amended Pub. L. 100–322, title I, § 121, May 20, 1988, 102 Stat. 502; renumbered § 7332 and amended Pub. L. 102–40, title IV, §§ 401(a)(4)(A), 402(d)(1), 403(a)(1), (2), (4), (5), May 7, 1991, 105 Stat. 221, 239; Pub. L. 109–461, title II, § 204(b), Dec. 22, 2006, 120 Stat. 3411; Pub. L. 111–163, title V, § 504, May 5, 2010, 124 Stat. 1157; Pub. L. 112–74, div. H, title II, § 230(b), Dec. 23, 2011, 125 Stat. 1159; Pub. L. 115–26, § 3, Apr. 19, 2017, 131 Stat. 130; Pub. L. 115–182, title I, § 132, June 6, 2018, 132 Stat. 1427.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Public Law 87–693, commonly known as the Federal Medical Care Recovery Act, referred to in subsec. (b)(2)(I), is Pub. L. 87–693, Sept. 25, 1962, 76 Stat. 593, which is classified generally to chapter 32 (§ 2651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
+Public Law 87–693, commonly known as the Federal Medical Care Recovery Act, referred to in subsec. (b)(2)(I), is Pub. L. 87–693, Sept. 25, 1962, 76 Stat. 593, which is classified generally to chapter 32 (§ 2651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
@@ -3347,71 +3347,71 @@ Public Law 87–693, commonly known as the Federal Medical Care Recovery Act, re
 
 2006—Subsec. (b)(2)(E). Pub. L. 109–461 added subpar. (E).
 
-1991—Pub. L. 102–40, § 401(a)(4)(A), renumbered section 4132 of this title as this section.
+1991—Pub. L. 102–40, § 401(a)(4)(A), renumbered section 4132 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 102–40, § 403(a)(4), struck out “of this section” after “subsections (e) and (f)” and after “subsection (b)”.
+Subsec. (a)(1). Pub. L. 102–40, § 403(a)(4), struck out “of this section” after “subsections (e) and (f)” and after “subsection (b)”.
 
-Pub. L. 102–40, § 403(a)(2), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–40, § 403(a)(2), substituted “Department” for “Veterans’ Administration”.
 
-Pub. L. 102–40, § 402(d)(1), substituted “5701” for “3301”.
+Pub. L. 102–40, § 402(d)(1), substituted “5701” for “3301”.
 
-Subsec. (a)(2). Pub. L. 102–40, § 403(a)(4), struck out “of this subsection” after “Paragraph (1)”.
+Subsec. (a)(2). Pub. L. 102–40, § 403(a)(4), struck out “of this subsection” after “Paragraph (1)”.
 
-Subsec. (b)(1). Pub. L. 102–40, § 403(a)(4), struck out “of this section” after “subsection (a)”.
+Subsec. (b)(1). Pub. L. 102–40, § 403(a)(4), struck out “of this section” after “subsection (a)”.
 
-Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator” in two places.
+Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator” in two places.
 
-Subsec. (b)(2). Pub. L. 102–40, § 403(a)(4), struck out “of this section” after “subsection (a)” in introductory provisions.
+Subsec. (b)(2). Pub. L. 102–40, § 403(a)(4), struck out “of this section” after “subsection (a)” in introductory provisions.
 
-Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator” in introductory provisions.
+Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator” in introductory provisions.
 
-Subsec. (b)(3). Pub. L. 102–40, § 403(a)(4), struck out “of this section” after “subsection (a)”.
+Subsec. (b)(3). Pub. L. 102–40, § 403(a)(4), struck out “of this section” after “subsection (a)”.
 
-Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator” in two places.
+Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–40, § 402(d)(1), substituted “7334” for “4134”.
+Pub. L. 102–40, § 402(d)(1), substituted “7334” for “4134”.
 
-Subsec. (c). Pub. L. 102–40, § 403(a)(4), struck out “of this section” after “subsection (b)(2)(D)” and after “subsection (a)”.
+Subsec. (c). Pub. L. 102–40, § 403(a)(4), struck out “of this section” after “subsection (b)(2)(D)” and after “subsection (a)”.
 
-Subsec. (e)(1). Pub. L. 102–40, § 403(a)(2), substituted “Department” for “Veterans’ Administration”.
+Subsec. (e)(1). Pub. L. 102–40, § 403(a)(2), substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (f)(1). Pub. L. 102–40, § 403(a)(4), struck out “of this section” after “subsection (a)” and “of this subsection” after “paragraph (2)”.
+Subsec. (f)(1). Pub. L. 102–40, § 403(a)(4), struck out “of this section” after “subsection (a)” and “of this subsection” after “paragraph (2)”.
 
-Subsec. (f)(2)(A). Pub. L. 102–40, § 403(a)(4), struck out “of this subsection” after “paragraph (1)”.
+Subsec. (f)(2)(A). Pub. L. 102–40, § 403(a)(4), struck out “of this subsection” after “paragraph (1)”.
 
-Subsec. (f)(2)(B). Pub. L. 102–40, § 403(a)(5), struck out “of this paragraph” after “subparagraph (A)”.
+Subsec. (f)(2)(B). Pub. L. 102–40, § 403(a)(5), struck out “of this paragraph” after “subparagraph (A)”.
 
-Subsec. (g). Pub. L. 102–40, § 402(d)(1), substituted “5701(f)” for “3301(f)” in two places.
+Subsec. (g). Pub. L. 102–40, § 402(d)(1), substituted “5701(f)” for “3301(f)” in two places.
 
-1988—Subsec. (a). Pub. L. 100–322, § 121(a), (e)(1), designated existing provisions as par. (1), inserted “infection with the human immunodeficiency virus,” after “alcohol abuse,”, substituted “subsections (e) and (f)” for “subsection (e)”, and added par. (2).
+1988—Subsec. (a). Pub. L. 100–322, § 121(a), (e)(1), designated existing provisions as par. (1), inserted “infection with the human immunodeficiency virus,” after “alcohol abuse,”, substituted “subsections (e) and (f)” for “subsection (e)”, and added par. (2).
 
-Subsec. (b)(1). Pub. L. 100–322, § 121(b)(1), struck out “pursuant to section 4134 of this title” before period at end.
+Subsec. (b)(1). Pub. L. 100–322, § 121(b)(1), struck out “pursuant to section 4134 of this title” before period at end.
 
-Subsec. (b)(2)(C), (D). Pub. L. 100–322, § 121(b)(2), added subpar. (C) and redesignated former subpar. (C) as (D).
+Subsec. (b)(2)(C), (D). Pub. L. 100–322, § 121(b)(2), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-Subsec. (c). Pub. L. 100–322, § 121(e)(2), substituted “subsection (b)(2)(D)” for “subsection (b)(2)(C)”.
+Subsec. (c). Pub. L. 100–322, § 121(e)(2), substituted “subsection (b)(2)(D)” for “subsection (b)(2)(C)”.
 
-Subsec. (f). Pub. L. 100–322, § 121(c)(2), added subsec. (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 100–322, § 121(c)(2), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 100–322, § 121(c)(1), (d), redesignated subsec. (f) as (g) and substituted “shall be fined, in the case of a first offense, up to the maximum amount provided under section 3301(f) of this title for a first offense under that section and, in the case of a subsequent offense, up to the maximum amount provided under section 3301(f) of this title for a subsequent offense under that section.” for “shall be fined not more than $500 in the case of a first offense, and not more than $5,000 in the case of each subsequent offense”.
+Subsec. (g). Pub. L. 100–322, § 121(c)(1), (d), redesignated subsec. (f) as (g) and substituted “shall be fined, in the case of a first offense, up to the maximum amount provided under section 3301(f) of this title for a first offense under that section and, in the case of a subsequent offense, up to the maximum amount provided under section 3301(f) of this title for a subsequent offense under that section.” for “shall be fined not more than $500 in the case of a first offense, and not more than $5,000 in the case of each subsequent offense”.
 
-### § 7333. Nondiscrimination against alcohol and drug abusers and persons infected with the human immunodeficiency virus
+### § 7333. Nondiscrimination against alcohol and drug abusers and persons infected with the human immunodeficiency virus
 
 **(a)** Veterans eligible for treatment under chapter 17 of this title who are alcohol or drug abusers or who are infected with the human immunodeficiency virus shall not be discriminated against in admission or treatment by any Department health-care facility solely because of their alcohol or drug abuse or dependency or because of their viral infection.
 
 **(b)** The Secretary shall prescribe regulations for the enforcement of this section. Such regulations, with respect to the admission and treatment of such veterans who are alcohol or drug abusers, shall be prescribed in accordance with section 7334 of this title.
 
-(Added Pub. L. 94–581, title I, § 111(a)(1), Oct. 21, 1976, 90 Stat. 2850, § 4133; amended Pub. L. 100–322, title I, § 122(a), May 20, 1988, 102 Stat. 503; renumbered § 7333 and amended Pub. L. 102–40, title IV, §§ 401(a)(4)(A), 402(d)(1), 403(a)(1), (2), May 7, 1991, 105 Stat. 221, 239.)
+(Added Pub. L. 94–581, title I, § 111(a)(1), Oct. 21, 1976, 90 Stat. 2850, § 4133; amended Pub. L. 100–322, title I, § 122(a), May 20, 1988, 102 Stat. 503; renumbered § 7333 and amended Pub. L. 102–40, title IV, §§ 401(a)(4)(A), 402(d)(1), 403(a)(1), (2), May 7, 1991, 105 Stat. 221, 239.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–40, § 401(a)(4)(A), renumbered section 4133 of this title as this section.
+1991—Pub. L. 102–40, § 401(a)(4)(A), renumbered section 4133 of this title as this section.
 
-Subsec. (a). Pub. L. 102–40, § 403(a)(2), substituted “Department” for “Veterans’ Administration”.
+Subsec. (a). Pub. L. 102–40, § 403(a)(2), substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (b). Pub. L. 102–40, §§ 402(d)(1), 403(a)(1), substituted “Secretary” for “Administrator” and “7334” for “4134”.
+Subsec. (b). Pub. L. 102–40, §§ 402(d)(1), 403(a)(1), substituted “Secretary” for “Administrator” and “7334” for “4134”.
 
 1988—Pub. L. 100–322 substituted “Nondiscrimination against alcohol and drug abusers and persons infected with the human immunodeficiency virus” for “Nondiscrimination in the admission of alcohol and drug abusers to Veterans’ Administration health care facilities” as section catchline, and amended text generally. Prior to amendment, text read as follows: “Veterans eligible for treatment under chapter 17 of this title who are alcohol or drug abusers and who are suffering from medical disabilities shall not be discriminated against in admission or treatment, solely because of their alcohol or drug abuse or dependence, by any Veterans’ Administration health care facility. The Administrator, pursuant to the provisions of section 4134 of this title, shall prescribe regulations for the enforcement of this nondiscrimination policy with respect to the admission and treatment of such eligible veterans who are alcohol or drug abusers.”
 
@@ -3419,9 +3419,9 @@ Subsec. (b). Pub. L. 102–40, §§ 402(d)(1), 403(a)(1), substituted “Secre
 
 **Restriction on Testing for Infection With Human Immunodeficiency Virus**
 
-Pub. L. 100–322, title I, § 124, May 20, 1988, 102 Stat. 505, as amended by Pub. L. 102–83, § 6(j)(3), Aug. 6, 1991, 105 Stat. 409, provided that the Secretary of Veterans Affairs could not conduct a widespread program to test for the human immunodeficiency virus unless funds for the program were appropriated, with an exception for voluntary testing, prior to repeal by Pub. L. 110–387, title IV, § 407, Oct. 10, 2008, 122 Stat. 4130.
+Pub. L. 100–322, title I, § 124, May 20, 1988, 102 Stat. 505, as amended by Pub. L. 102–83, § 6(j)(3), Aug. 6, 1991, 105 Stat. 409, provided that the Secretary of Veterans Affairs could not conduct a widespread program to test for the human immunodeficiency virus unless funds for the program were appropriated, with an exception for voluntary testing, prior to repeal by Pub. L. 110–387, title IV, § 407, Oct. 10, 2008, 122 Stat. 4130.
 
-### § 7334. Regulations
+### § 7334. Regulations
 
 **(a)** Regulations prescribed by the Secretary under section 7331 of this title, section 7332 of this title with respect to the confidentiality of alcohol and drug abuse medical records, and section 7333 of this title with respect to alcohol or drug abusers shall, to the maximum extent feasible consistent with other provisions of this title, make applicable the regulations described in subsection (b) to the conduct of research and to the provision of hospital care, nursing home care, domiciliary care, and medical services under this title.
 
@@ -3431,45 +3431,45 @@ Pub. L. 100–322, title I, § 124, May 20, 1988, 102 Stat. 505, as amended by
 
 **(2)** regulations governing (A) the confidentiality of drug and alcohol abuse medical records, and (B) the admission of drug and alcohol abusers to private and public hospitals, prescribed pursuant to the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 (42 U.S.C. 4551 et seq.) and the Drug Abuse Office and Treatment Act of 1972 (21 U.S.C. 1101 et seq.).
 
-**(c)** Regulations prescribed by the Secretary under sections 7331, 7332, and 7333 of this title may contain such definitions, and may provide for such safeguards and procedures (including procedures and criteria for the issuance and scope of court orders under section 7332(b)(2)(C) 1
+**(c)** Regulations prescribed by the Secretary under sections 7331, 7332, and 7333 of this title may contain such definitions, and may provide for such safeguards and procedures (including procedures and criteria for the issuance and scope of court orders under section 7332(b)(2)(C) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title), as are necessary to prevent circumvention or evasion of such regulations or to facilitate compliance with such regulations.
 
 **(d)** In prescribing and implementing such regulations, the Secretary shall, from time to time, consult with the Secretary of Health and Human Services and, as appropriate, with the President (or the delegate of the President) in order to achieve the maximum possible coordination of the regulations, and the implementation of the regulations, which they and the Secretary prescribe.
 
-(Added Pub. L. 94–581, title I, § 111(a)(1), Oct. 21, 1976, 90 Stat. 2851, § 4134; amended Pub. L. 97–295, § 4(87), Oct. 12, 1982, 96 Stat. 1312; Pub. L. 100–322, title I, § 122(a), May 20, 1988, 102 Stat. 504; renumbered § 7334 and amended Pub. L. 102–40, title IV, §§ 401(a)(4)(A), 402(d)(1), 403(a)(1), (4), May 7, 1991, 105 Stat. 221, 239.)
+(Added Pub. L. 94–581, title I, § 111(a)(1), Oct. 21, 1976, 90 Stat. 2851, § 4134; amended Pub. L. 97–295, § 4(87), Oct. 12, 1982, 96 Stat. 1312; Pub. L. 100–322, title I, § 122(a), May 20, 1988, 102 Stat. 504; renumbered § 7334 and amended Pub. L. 102–40, title IV, §§ 401(a)(4)(A), 402(d)(1), 403(a)(1), (4), May 7, 1991, 105 Stat. 221, 239.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 201 of the National Research Act, referred to in subsec. (b)(1), is section 201 of Pub. L. 93–348, title II, July 12, 1974, 88 Stat. 348, which was set out as a note under section 289*l*–1 of Title 42, The Public Health and Welfare, and was repealed by Pub. L. 95–622, title III, § 302(b), Nov. 9, 1978, 92 Stat. 3442.
+Section 201 of the National Research Act, referred to in subsec. (b)(1), is section 201 of Pub. L. 93–348, title II, July 12, 1974, 88 Stat. 348, which was set out as a note under section 289*l*–1 of Title 42, The Public Health and Welfare, and was repealed by Pub. L. 95–622, title III, § 302(b), Nov. 9, 1978, 92 Stat. 3442.
 
-The Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 (42 U.S.C. 4551 et seq.), referred to in subsec. (b)(2), is Pub. L. 91–616, Dec. 31, 1970, 84 Stat. 1848, which is classified principally to chapter 60 (§ 4541 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 4541 of Title 42 and Tables.
+The Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 (42 U.S.C. 4551 et seq.), referred to in subsec. (b)(2), is Pub. L. 91–616, Dec. 31, 1970, 84 Stat. 1848, which is classified principally to chapter 60 (§ 4541 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 4541 of Title 42 and Tables.
 
-The Drug Abuse Office and Treatment Act of 1972, referred to in subsec. (b)(2), which was redesignated the Drug Abuse Prevention, Treatment, and Rehabilitation Act, is Pub. L. 92–255, Mar. 21, 1972, 86 Stat. 65, which is classified principally to chapter 16 (§ 1101 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 21 and Tables.
+The Drug Abuse Office and Treatment Act of 1972, referred to in subsec. (b)(2), which was redesignated the Drug Abuse Prevention, Treatment, and Rehabilitation Act, is Pub. L. 92–255, Mar. 21, 1972, 86 Stat. 65, which is classified principally to chapter 16 (§ 1101 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 21 and Tables.
 
-Section 7332(b)(2)(C) of this title, referred to in subsec. (c), was formerly a reference to section 4132(b)(2)(C) of this title which was redesignated section 4132(b)(2)(D) by Pub. L. 100–322, title I, § 121(b)(2)(A), May 20, 1988, 102 Stat. 502, and subsequently renumbered section 7332(b)(2)(D) by Pub. L. 102–40, title IV, § 401(a)(4)(A), May 7, 1991, 105 Stat. 221. The reference to section 4132(b)(2)(C) in subsec. (c) was amended to reflect the renumbering by Pub. L. 102–40 but not the redesignation by Pub. L. 100–322.
+Section 7332(b)(2)(C) of this title, referred to in subsec. (c), was formerly a reference to section 4132(b)(2)(C) of this title which was redesignated section 4132(b)(2)(D) by Pub. L. 100–322, title I, § 121(b)(2)(A), May 20, 1988, 102 Stat. 502, and subsequently renumbered section 7332(b)(2)(D) by Pub. L. 102–40, title IV, § 401(a)(4)(A), May 7, 1991, 105 Stat. 221. The reference to section 4132(b)(2)(C) in subsec. (c) was amended to reflect the renumbering by Pub. L. 102–40 but not the redesignation by Pub. L. 100–322.
 
 **Amendments**
 
-1991—Pub. L. 102–40, § 401(a)(4)(A), renumbered section 4134 of this title as this section.
+1991—Pub. L. 102–40, § 401(a)(4)(A), renumbered section 4134 of this title as this section.
 
-Subsec. (a). Pub. L. 102–40, § 403(a)(4), struck out “of this section” after “subsection (b)”.
+Subsec. (a). Pub. L. 102–40, § 403(a)(4), struck out “of this section” after “subsection (b)”.
 
-Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator”.
+Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–40, § 402(d)(1), substituted “7331” for “4131”, “7332” for “4132”, and “7333” for “4133”.
+Pub. L. 102–40, § 402(d)(1), substituted “7331” for “4131”, “7332” for “4132”, and “7333” for “4133”.
 
-Subsec. (b). Pub. L. 102–40, § 403(a)(4), struck out “of this section” after “subsection (a)” in introductory provisions.
+Subsec. (b). Pub. L. 102–40, § 403(a)(4), struck out “of this section” after “subsection (a)” in introductory provisions.
 
-Subsec. (c). Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator”.
+Subsec. (c). Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–40, § 402(d)(1), substituted “7331, 7332, and 7333” for “4131, 4132, and 4133” and “7332(b)(2)(C)” for “4132(b)(2)(C)”.
+Pub. L. 102–40, § 402(d)(1), substituted “7331, 7332, and 7333” for “4131, 4132, and 4133” and “7332(b)(2)(C)” for “4132(b)(2)(C)”.
 
-Subsec. (d). Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator” in two places.
+Subsec. (d). Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator” in two places.
 
 1988—Pub. L. 100–322 amended section generally, substituting provisions consisting of subsecs. (a) to (d) for former provisions consisting of subsecs. (a) and (b).
 
@@ -3481,13 +3481,13 @@ Subsec. (d). Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for �
 
 **Prior Provisions**
 
-A prior subchapter IV of this chapter consisted of sections 4141 and 4142 prior to amendment by Pub. L. 102–40, title IV, § 401(c)(1), May 7, 1991, 105 Stat. 238, which struck out the subchapter heading “PAY FOR NURSES AND OTHER HEALTH-CARE PERSONNEL”, renumbered sections 4141 and 4142 as sections 7451 and 7452 of this title, respectively, and transferred those sections to subchapter IV of chapter 74 of this title.
+A prior subchapter IV of this chapter consisted of sections 4141 and 4142 prior to amendment by Pub. L. 102–40, title IV, § 401(c)(1), May 7, 1991, 105 Stat. 238, which struck out the subchapter heading “PAY FOR NURSES AND OTHER HEALTH-CARE PERSONNEL”, renumbered sections 4141 and 4142 as sections 7451 and 7452 of this title, respectively, and transferred those sections to subchapter IV of chapter 74 of this title.
 
 **Amendments**
 
-1991—Pub. L. 102–40, title IV, § 401(a)(2)(B), May 7, 1991, 105 Stat. 210, redesignated subchapter VI of this chapter as this subchapter. For disposition of former subchapter IV of this chapter, see Prior Provisions note above.
+1991—Pub. L. 102–40, title IV, § 401(a)(2)(B), May 7, 1991, 105 Stat. 210, redesignated subchapter VI of this chapter as this subchapter. For disposition of former subchapter IV of this chapter, see Prior Provisions note above.
 
-### § 7361. Authority to establish; status
+### § 7361. Authority to establish; status
 
 **(a)** The Secretary may authorize the establishment at any Department medical center of a nonprofit corporation to provide a flexible funding mechanism for the conduct of approved research and education at the medical center. Such a corporation may be established to facilitate either research or education or both research and education.
 
@@ -3519,7 +3519,7 @@ A prior subchapter IV of this chapter consisted of sections 4141 and 4142 prior 
 
 **(2)** the Secretary approves the resolution of the corporation under paragraph (1).
 
-(Added Pub. L. 100–322, title II, § 204(a), May 20, 1988, 102 Stat. 510, § 4161; renumbered § 7361 and amended Pub. L. 102–40, title IV, §§ 401(a)(4)(B), 403(a)(1), (2), May 7, 1991, 105 Stat. 221, 239; Pub. L. 102–291, § 3(a), May 20, 1992, 106 Stat. 179; Pub. L. 104–262, title III, § 343(b), Oct. 9, 1996, 110 Stat. 3207; Pub. L. 106–117, title II, § 204(a), Nov. 30, 1999, 113 Stat. 1562; Pub. L. 111–163, title VIII, § 801(a), (b)(1), (c), (d), May 5, 2010, 124 Stat. 1175, 1176.)
+(Added Pub. L. 100–322, title II, § 204(a), May 20, 1988, 102 Stat. 510, § 4161; renumbered § 7361 and amended Pub. L. 102–40, title IV, §§ 401(a)(4)(B), 403(a)(1), (2), May 7, 1991, 105 Stat. 221, 239; Pub. L. 102–291, § 3(a), May 20, 1992, 106 Stat. 179; Pub. L. 104–262, title III, § 343(b), Oct. 9, 1996, 110 Stat. 3207; Pub. L. 106–117, title II, § 204(a), Nov. 30, 1999, 113 Stat. 1562; Pub. L. 111–163, title VIII, § 801(a), (b)(1), (c), (d), May 5, 2010, 124 Stat. 1175, 1176.)
 
 **Editorial Notes**
 
@@ -3529,15 +3529,15 @@ Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–163, § 801(c)(1), struck out “Except as otherwise required in this subchapter or under regulations prescribed by the Secretary, any such corporation, and its directors and employees, shall be required to comply only with those Federal laws, regulations, and executive orders and directives which apply generally to private nonprofit corporations.” after “the medical center.”
+2010—Subsec. (a). Pub. L. 111–163, § 801(c)(1), struck out “Except as otherwise required in this subchapter or under regulations prescribed by the Secretary, any such corporation, and its directors and employees, shall be required to comply only with those Federal laws, regulations, and executive orders and directives which apply generally to private nonprofit corporations.” after “the medical center.”
 
-Subsecs. (b) to (d). Pub. L. 111–163, § 801(a)(1)(B), (b)(1), (c)(2), added subsecs. (b) to (d). Former subsec. (b) redesignated (e).
+Subsecs. (b) to (d). Pub. L. 111–163, § 801(a)(1)(B), (b)(1), (c)(2), added subsecs. (b) to (d). Former subsec. (b) redesignated (e).
 
-Subsec. (e). Pub. L. 111–163, § 801(d), inserted “section 501(c)(3) of” after “exempt from taxation under”.
+Subsec. (e). Pub. L. 111–163, § 801(d), inserted “section 501(c)(3) of” after “exempt from taxation under”.
 
-Pub. L. 111–163, § 801(a)(1)(A), redesignated subsec. (b) as (e).
+Pub. L. 111–163, § 801(a)(1)(A), redesignated subsec. (b) as (e).
 
-Subsec. (f). Pub. L. 111–163, § 801(a)(2), added subsec. (f).
+Subsec. (f). Pub. L. 111–163, § 801(a)(2), added subsec. (f).
 
 1999—Subsec. (a). Pub. L. 106–117 inserted “and education” after “research” and inserted at end “Such a corporation may be established to facilitate either research or education or both research and education.”
 
@@ -3545,23 +3545,23 @@ Subsec. (f). Pub. L. 111–163, § 801(a)(2), added subsec. (f).
 
 1992—Subsec. (b). Pub. L. 102–291 substituted “four-year period” for “three-year period”.
 
-1991—Pub. L. 102–40, § 401(a)(4)(B), renumbered section 4161 of this title as this section.
+1991—Pub. L. 102–40, § 401(a)(4)(B), renumbered section 4161 of this title as this section.
 
-Subsec. (a). Pub. L. 102–40, § 403(a)(2), substituted “Department” for “Veterans’ Administration”.
+Subsec. (a). Pub. L. 102–40, § 403(a)(2), substituted “Department” for “Veterans’ Administration”.
 
-Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator” in two places.
+Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator” in two places.
 
-Subsec. (b). Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator”.
+Subsec. (b). Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–291, § 3(c), May 20, 1992, 106 Stat. 179, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 7368 of this title] shall take effect as of October 1, 1991.”
+Pub. L. 102–291, § 3(c), May 20, 1992, 106 Stat. 179, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 7368 of this title] shall take effect as of October 1, 1991.”
 
 **Ratification of Actions of Secretary of Veterans Affairs During Lapsed Period**
 
-Pub. L. 102–291, § 3(d), May 20, 1992, 106 Stat. 179, provided that:
+Pub. L. 102–291, § 3(d), May 20, 1992, 106 Stat. 179, provided that:
 
 > “The following actions of the Secretary of Veterans Affairs during the period beginning on October 1, 1991, and ending on the date of the enactment of this Act [May 20, 1992] are hereby ratified:
 
@@ -3569,11 +3569,11 @@ Pub. L. 102–291, § 3(d), May 20, 1992, 106 Stat. 179, provided that:
 
 > **“(2)** The establishment of a nonprofit corporation for approved research under section 7361(a) of title 38, United States Code.”
 
-### § 7362. Purpose of corporations
+### § 7362. Purpose of corporations
 
-**(a)** A corporation established under this subchapter shall be established to provide a flexible funding mechanism for the conduct of approved research and education at one or more Department medical centers and to facilitate functions related to the conduct of research as described in section 7303(a) of this title and education and training as described in sections 7302, 7471, 8154, and 1701(6)(B) 1
+**(a)** A corporation established under this subchapter shall be established to provide a flexible funding mechanism for the conduct of approved research and education at one or more Department medical centers and to facilitate functions related to the conduct of research as described in section 7303(a) of this title and education and training as described in sections 7302, 7471, 8154, and 1701(6)(B) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title in conjunction with the applicable Department medical center or centers.
 
@@ -3589,37 +3589,37 @@ of this title in conjunction with the applicable Department medical center or ce
 
 **(2)** In the case of veterans under the care of the Veterans Health Administration, such term means instruction or other learning experiences related to improving and maintaining the health of veterans and includes education and training for patients and families and guardians of patients.
 
-(Added Pub. L. 100–322, title II, § 204(a), May 20, 1988, 102 Stat. 510, § 4162; renumbered § 7362 and amended Pub. L. 102–40, title IV, §§ 401(a)(4)(B), 403(a)(1)–(3), May 7, 1991, 105 Stat. 221, 239; Pub. L. 106–117, title II, § 204(b), Nov. 30, 1999, 113 Stat. 1562; Pub. L. 111–163, title VIII, §§ 802, 804(b), May 5, 2010, 124 Stat. 1176, 1179.)
+(Added Pub. L. 100–322, title II, § 204(a), May 20, 1988, 102 Stat. 510, § 4162; renumbered § 7362 and amended Pub. L. 102–40, title IV, §§ 401(a)(4)(B), 403(a)(1)–(3), May 7, 1991, 105 Stat. 221, 239; Pub. L. 106–117, title II, § 204(b), Nov. 30, 1999, 113 Stat. 1562; Pub. L. 111–163, title VIII, §§ 802, 804(b), May 5, 2010, 124 Stat. 1176, 1179.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1701(6)(B) of this title, referred to in subsec. (a), which related to inclusion of consultation, professional counseling, training, and mental health services in definition of “medical services”, was repealed and a new section 1701(6)(B) relating to dental services and appliances was enacted, by Pub. L. 107–135, title II, § 208(a)(1)(A), (C), Jan. 23, 2002, 115 Stat. 2461.
+Section 1701(6)(B) of this title, referred to in subsec. (a), which related to inclusion of consultation, professional counseling, training, and mental health services in definition of “medical services”, was repealed and a new section 1701(6)(B) relating to dental services and appliances was enacted, by Pub. L. 107–135, title II, § 208(a)(1)(A), (C), Jan. 23, 2002, 115 Stat. 2461.
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–163, § 804(b), struck out last sentence which read as follows: “Any funds received by the Secretary for the conduct of research or education at the medical center other than funds appropriated to the Department may be transferred to and administered by the corporation for these purposes.”
+2010—Subsec. (a). Pub. L. 111–163, § 804(b), struck out last sentence which read as follows: “Any funds received by the Secretary for the conduct of research or education at the medical center other than funds appropriated to the Department may be transferred to and administered by the corporation for these purposes.”
 
-Pub. L. 111–163, § 802(a), in first sentence, substituted “A corporation established under this subchapter shall be established to provide a flexible funding mechanism for the conduct of approved research and education at one or more Department medical centers and to facilitate functions related to the conduct of” for “Any corporation established under this subchapter shall be established solely to facilitate” and inserted “or centers” before period at end.
+Pub. L. 111–163, § 802(a), in first sentence, substituted “A corporation established under this subchapter shall be established to provide a flexible funding mechanism for the conduct of approved research and education at one or more Department medical centers and to facilitate functions related to the conduct of” for “Any corporation established under this subchapter shall be established solely to facilitate” and inserted “or centers” before period at end.
 
-Subsec. (b). Pub. L. 111–163, § 802(b), substituted “the term ‘education’ includes education and training and” for “the term ‘education and training’ ” in introductory provisions.
+Subsec. (b). Pub. L. 111–163, § 802(b), substituted “the term ‘education’ includes education and training and” for “the term ‘education and training’ ” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 111–163, § 802(c), struck out concluding provisions which read as follows: “Such term includes (in the case of such employees) education and training conducted as part of a residency or other program designed to prepare an individual for an occupation or profession.”
+Subsec. (b)(1). Pub. L. 111–163, § 802(c), struck out concluding provisions which read as follows: “Such term includes (in the case of such employees) education and training conducted as part of a residency or other program designed to prepare an individual for an occupation or profession.”
 
-Subsec. (b)(2). Pub. L. 111–163, § 802(d), substituted “and includes education and training for patients and families” for “to patients and to the families”.
+Subsec. (b)(2). Pub. L. 111–163, § 802(d), substituted “and includes education and training for patients and families” for “to patients and to the families”.
 
 1999—Pub. L. 106–117 designated existing provisions as subsec. (a), in first sentence, inserted “and education and training as described in sections 7302, 7471, 8154, and 1701(6)(B) of this title” after “7303(a) of this title”, in second sentence, inserted “or education” after “research” and substituted “these purposes” for “that purpose”, and added subsec. (b).
 
-1991—Pub. L. 102–40, § 401(a)(4)(B), renumbered section 4162 of this title as this section.
+1991—Pub. L. 102–40, § 401(a)(4)(B), renumbered section 4162 of this title as this section.
 
-Pub. L. 102–40, § 403(a)(3), substituted “7303(a)” for “4101(c)(1)”.
+Pub. L. 102–40, § 403(a)(3), substituted “7303(a)” for “4101(c)(1)”.
 
-Pub. L. 102–40, § 403(a)(2), substituted “Department” for “Veterans’ Administration” in two places.
+Pub. L. 102–40, § 403(a)(2), substituted “Department” for “Veterans’ Administration” in two places.
 
-Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator”.
+Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator”.
 
-### § 7363. Board of directors; executive director
+### § 7363. Board of directors; executive director
 
 **(a)** The Secretary shall provide for the appointment of a board of directors for any corporation established under this subchapter. The board shall include—
 
@@ -3641,7 +3641,7 @@ Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrat
 
 **(c)** An individual appointed under subsection (a)(2) to the board of directors of a corporation established under this subchapter may not be affiliated with or employed by any entity that is a source of funding for research or education by the Department unless that source of funding is a governmental entity or an entity the income of which is exempt from taxation under the Internal Revenue Code of 1986.
 
-(Added Pub. L. 100–322, title II, § 204(a), May 20, 1988, 102 Stat. 510, § 4163; renumbered § 7363 and amended Pub. L. 102–40, title IV, §§ 401(a)(4)(B), 403(a)(1), (2), (4), May 7, 1991, 105 Stat. 221, 239; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title III, § 343(b), Oct. 9, 1996, 110 Stat. 3207; Pub. L. 106–117, title II, § 204(c), Nov. 30, 1999, 113 Stat. 1562; Pub. L. 111–163, title VIII, § 803, May 5, 2010, 124 Stat. 1177.)
+(Added Pub. L. 100–322, title II, § 204(a), May 20, 1988, 102 Stat. 510, § 4163; renumbered § 7363 and amended Pub. L. 102–40, title IV, §§ 401(a)(4)(B), 403(a)(1), (2), (4), May 7, 1991, 105 Stat. 221, 239; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title III, § 343(b), Oct. 9, 1996, 110 Stat. 3207; Pub. L. 106–117, title II, § 204(c), Nov. 30, 1999, 113 Stat. 1562; Pub. L. 111–163, title VIII, § 803, May 5, 2010, 124 Stat. 1177.)
 
 **Editorial Notes**
 
@@ -3651,35 +3651,35 @@ The Internal Revenue Code of 1986, referred to in subsec. (c), is classified gen
 
 **Amendments**
 
-2010—Subsec. (a)(1). Pub. L. 111–163, § 803(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the director of the medical center, the chief of staff of the medical center, and as appropriate, the assistant chief of staff for research for the medical center and the assistant chief of staff for education for the medical center, or, in the case of a facility at which such positions do not exist, those officials who are responsible for carrying out the responsibilities of the medical center director, chief of staff, and, as appropriate, the assistant chief of staff for research and the assistant chief of staff for education; and”.
+2010—Subsec. (a)(1). Pub. L. 111–163, § 803(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the director of the medical center, the chief of staff of the medical center, and as appropriate, the assistant chief of staff for research for the medical center and the assistant chief of staff for education for the medical center, or, in the case of a facility at which such positions do not exist, those officials who are responsible for carrying out the responsibilities of the medical center director, chief of staff, and, as appropriate, the assistant chief of staff for research and the assistant chief of staff for education; and”.
 
-Subsec. (a)(2). Pub. L. 111–163, § 803(b), inserted “not less than two” before “members who are not” and substituted “and who have backgrounds, or business, legal, financial, medical, or scientific expertise, of benefit to the operations of the corporation.” for “and who are familiar with issues involving medical and scientific research or education, as appropriate.”
+Subsec. (a)(2). Pub. L. 111–163, § 803(b), inserted “not less than two” before “members who are not” and substituted “and who have backgrounds, or business, legal, financial, medical, or scientific expertise, of benefit to the operations of the corporation.” for “and who are familiar with issues involving medical and scientific research or education, as appropriate.”
 
-Subsec. (c). Pub. L. 111–163, § 803(c), substituted “or employed by” for “, employed by, or have any other financial relationship with”.
+Subsec. (c). Pub. L. 111–163, § 803(c), substituted “or employed by” for “, employed by, or have any other financial relationship with”.
 
-1999—Subsec. (a)(1). Pub. L. 106–117, § 204(c)(1), substituted “as appropriate, the assistant chief of staff for research for the medical center and the assistant chief of staff for education for the medical center, or, in the case of a facility at which such positions do not exist, those officials who are responsible for carrying out the responsibilities of the medical center director, chief of staff, and, as appropriate, the assistant chief of staff for research and the assistant chief of staff for education; and” for “the assistant chief of staff for research of the medical center; and”.
+1999—Subsec. (a)(1). Pub. L. 106–117, § 204(c)(1), substituted “as appropriate, the assistant chief of staff for research for the medical center and the assistant chief of staff for education for the medical center, or, in the case of a facility at which such positions do not exist, those officials who are responsible for carrying out the responsibilities of the medical center director, chief of staff, and, as appropriate, the assistant chief of staff for research and the assistant chief of staff for education; and” for “the assistant chief of staff for research of the medical center; and”.
 
-Subsec. (a)(2). Pub. L. 106–117, § 204(c)(2), inserted “or education, as appropriate” after “research”.
+Subsec. (a)(2). Pub. L. 106–117, § 204(c)(2), inserted “or education, as appropriate” after “research”.
 
-Subsec. (c). Pub. L. 106–117, § 204(c)(3), inserted “or education” after “research”.
+Subsec. (c). Pub. L. 106–117, § 204(c)(3), inserted “or education” after “research”.
 
 1996—Subsec. (c). Pub. L. 104–262 struck out “section 501(c)(3) of” before “the Internal Revenue Code of 1986”.
 
 1992—Subsec. (b). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-1991—Pub. L. 102–40, § 401(a)(4)(B), renumbered section 4163 of this title as this section.
+1991—Pub. L. 102–40, § 401(a)(4)(B), renumbered section 4163 of this title as this section.
 
-Subsec. (a). Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator” in introductory provisions.
+Subsec. (a). Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 102–40, § 403(a)(4), struck out “of this section” after “subsection (c)”.
+Subsec. (a)(2). Pub. L. 102–40, § 403(a)(4), struck out “of this section” after “subsection (c)”.
 
-Subsec. (b). Pub. L. 102–40, § 403(a)(2), substituted “Department” for “Veterans’ Administration”.
+Subsec. (b). Pub. L. 102–40, § 403(a)(2), substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (c). Pub. L. 102–40, § 403(a)(4), struck out “of this section” after “subsection (a)(2)”.
+Subsec. (c). Pub. L. 102–40, § 403(a)(4), struck out “of this section” after “subsection (a)(2)”.
 
-Pub. L. 102–40, § 403(a)(2), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–40, § 403(a)(2), substituted “Department” for “Veterans’ Administration”.
 
-### § 7364. General powers
+### § 7364. General powers
 
 **(a) In General.—**
 
@@ -3713,7 +3713,7 @@ Pub. L. 102–40, § 403(a)(2), substituted “Department” for “Veterans�
 
 **(e) Policies and Procedures.—** The Under Secretary for Health may prescribe policies and procedures to guide the spending of funds by corporations established under this subchapter that are consistent with the purpose of such corporations as flexible funding mechanisms and with Federal and State laws and regulations, and executive orders, circulars, and directives that apply generally to the receipt and expenditure of funds by nonprofit organizations exempt from taxation under section 501(c)(3) of the Internal Revenue Code of 1986.
 
-(Added Pub. L. 100–322, title II, § 204(a), May 20, 1988, 102 Stat. 511, § 4164; renumbered § 7364 and amended Pub. L. 102–40, title IV, §§ 401(a)(4)(B), 403(a)(2), May 7, 1991, 105 Stat. 221, 239; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 106–117, title II, § 204(d), Nov. 30, 1999, 113 Stat. 1562; Pub. L. 111–163, title VIII, § 804(a), May 5, 2010, 124 Stat. 1177; Pub. L. 116–315, title VII, § 7006, Jan. 5, 2021, 134 Stat. 5059.)
+(Added Pub. L. 100–322, title II, § 204(a), May 20, 1988, 102 Stat. 511, § 4164; renumbered § 7364 and amended Pub. L. 102–40, title IV, §§ 401(a)(4)(B), 403(a)(2), May 7, 1991, 105 Stat. 221, 239; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 106–117, title II, § 204(d), Nov. 30, 1999, 113 Stat. 1562; Pub. L. 111–163, title VIII, § 804(a), May 5, 2010, 124 Stat. 1177; Pub. L. 116–315, title VII, § 7006, Jan. 5, 2021, 134 Stat. 5059.)
 
 **Editorial Notes**
 
@@ -3731,13 +3731,13 @@ Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (
 
 1992—Subsec. (b). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-1991—Pub. L. 102–40, § 401(a)(4)(B), renumbered section 4164 of this title as this section.
+1991—Pub. L. 102–40, § 401(a)(4)(B), renumbered section 4164 of this title as this section.
 
-Subsec. (b). Pub. L. 102–40, § 403(a)(2), substituted “Department” for “Veterans’ Administration”.
+Subsec. (b). Pub. L. 102–40, § 403(a)(2), substituted “Department” for “Veterans’ Administration”.
 
-### [§ 7364A. Renumbered § 7365]
+### [§ 7364A. Renumbered § 7365]
 
-### § 7365. Coverage of employees under certain Federal tort claims laws
+### § 7365. Coverage of employees under certain Federal tort claims laws
 
 **(a)** An employee of a corporation established under this subchapter who is described by subsection (b) shall be considered an employee of the Government, or a medical care employee of the Veterans Health Administration, for purposes of the following provisions of law:
 
@@ -3755,19 +3755,19 @@ Subsec. (b). Pub. L. 102–40, § 403(a)(2), substituted “Department” for 
 
 **(3)** performs such duties under the supervision of Department personnel.
 
-(Added Pub. L. 108–170, title IV, § 402(a)(1), Dec. 6, 2003, 117 Stat. 2061, § 7364A; renumbered § 7365, Pub. L. 111–163, title VIII, § 805(a), May 5, 2010, 124 Stat. 1179.)
+(Added Pub. L. 108–170, title IV, § 402(a)(1), Dec. 6, 2003, 117 Stat. 2061, § 7364A; renumbered § 7365, Pub. L. 111–163, title VIII, § 805(a), May 5, 2010, 124 Stat. 1179.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 7365, added Pub. L. 100–322, title II, § 204(a), May 20, 1988, 102 Stat. 511, § 4165; renumbered § 7365, Pub. L. 102–40, title IV, § 401(a)(4)(B), May 7, 1991, 105 Stat. 221, which required any corporation established under this subchapter to be subject to applicable State law, was repealed by Pub. L. 111–163, title VIII, § 801(b)(2), May 5, 2010, 124 Stat. 1176.
+A prior section 7365, added Pub. L. 100–322, title II, § 204(a), May 20, 1988, 102 Stat. 511, § 4165; renumbered § 7365, Pub. L. 102–40, title IV, § 401(a)(4)(B), May 7, 1991, 105 Stat. 221, which required any corporation established under this subchapter to be subject to applicable State law, was repealed by Pub. L. 111–163, title VIII, § 801(b)(2), May 5, 2010, 124 Stat. 1176.
 
 **Amendments**
 
 2010—Pub. L. 111–163 renumbered section 7364A of this title as this section.
 
-### § 7366. Accountability and oversight
+### § 7366. Accountability and oversight
 
 **(a)**
 
@@ -3823,7 +3823,7 @@ A prior section 7365, added Pub. L. 100–322, title II, § 204(a), May 20, 19
 
 **(4)** The amount expended by each corporation during the year for travel conducted in conjunction with research and the amount expended for travel in conjunction with education.
 
-(Added Pub. L. 100–322, title II, § 204(a), May 20, 1988, 102 Stat. 511, § 4166; renumbered § 7366 and amended Pub. L. 102–40, title IV, §§ 401(a)(4)(B), 403(a)(1), (2), May 7, 1991, 105 Stat. 221, 239; Pub. L. 104–262, title III, § 343(c)–(e), Oct. 9, 1996, 110 Stat. 3207; Pub. L. 106–117, title II, § 204(e), Nov. 30, 1999, 113 Stat. 1563; Pub. L. 107–103, title V, § 509(f), Dec. 27, 2001, 115 Stat. 997; Pub. L. 108–170, title IV, § 402(b), Dec. 6, 2003, 117 Stat. 2062; Pub. L. 111–163, title VIII, § 806, May 5, 2010, 124 Stat. 1179; Pub. L. 117–286, § 4(b)(61), Dec. 27, 2022, 136 Stat. 4350.)
+(Added Pub. L. 100–322, title II, § 204(a), May 20, 1988, 102 Stat. 511, § 4166; renumbered § 7366 and amended Pub. L. 102–40, title IV, §§ 401(a)(4)(B), 403(a)(1), (2), May 7, 1991, 105 Stat. 221, 239; Pub. L. 104–262, title III, § 343(c)–(e), Oct. 9, 1996, 110 Stat. 3207; Pub. L. 106–117, title II, § 204(e), Nov. 30, 1999, 113 Stat. 1563; Pub. L. 107–103, title V, § 509(f), Dec. 27, 2001, 115 Stat. 997; Pub. L. 108–170, title IV, § 402(b), Dec. 6, 2003, 117 Stat. 2062; Pub. L. 111–163, title VIII, § 806, May 5, 2010, 124 Stat. 1179; Pub. L. 117–286, § 4(b)(61), Dec. 27, 2022, 136 Stat. 4350.)
 
 **Editorial Notes**
 
@@ -3831,65 +3831,65 @@ A prior section 7365, added Pub. L. 100–322, title II, § 204(a), May 20, 19
 
 2022—Subsec. (a)(1)(B). Pub. L. 117–286 substituted “sections 404(a)(1) and 406(a)(1) of title 5,” for “sections 4(a)(1) and 6(a)(1) of the Inspector General Act of 1978,” and “chapter 4 of title 5.” for “such Act.”
 
-2010—Subsec. (b). Pub. L. 111–163, § 806(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Each such corporation shall submit to the Secretary an annual report providing a detailed statement of its operations, activities, and accomplishments during that year. A corporation with revenues in excess of $300,000 for any year shall obtain an audit of the corporation for that year. A corporation with annual revenues between $10,000 and $300,000 shall obtain an independent audit of the corporation at least once every three years. Any audit under the preceding sentences shall be performed by an independent auditor. The corporation shall include the most recent such audit in the corporation’s report to the Secretary for that year.”
+2010—Subsec. (b). Pub. L. 111–163, § 806(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Each such corporation shall submit to the Secretary an annual report providing a detailed statement of its operations, activities, and accomplishments during that year. A corporation with revenues in excess of $300,000 for any year shall obtain an audit of the corporation for that year. A corporation with annual revenues between $10,000 and $300,000 shall obtain an independent audit of the corporation at least once every three years. Any audit under the preceding sentences shall be performed by an independent auditor. The corporation shall include the most recent such audit in the corporation’s report to the Secretary for that year.”
 
-Subsec. (c). Pub. L. 111–163, § 806(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+Subsec. (c). Pub. L. 111–163, § 806(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
 “(c)(1) Each member of the board of directors of a corporation established under this subchapter, each employee of such a corporation, and each employee of the Department who is involved in the functions of the corporation during any year shall be subject to Federal laws and regulations applicable to Federal employees with respect to conflicts of interest in the performance of official functions.
 
 “(2) Each corporation established under this subchapter shall each year submit to the Secretary a statement signed by the executive director of the corporation verifying that each director and employee has certified awareness of the laws and regulations referred to in paragraph (1) and of the consequences of violations of those laws and regulations in the same manner as Federal employees are required to so certify.”
 
-Subsec. (d)(3)(C). Pub. L. 111–163, § 806(c), substituted “$50,000” for “$35,000”.
+Subsec. (d)(3)(C). Pub. L. 111–163, § 806(c), substituted “$50,000” for “$35,000”.
 
 2003—Subsec. (c). Pub. L. 108–170 inserted “(1)” after “(c)”, substituted “any year shall be subject” for “any year—(1) shall be subject” and “functions.” for “functions; and”, added par. (2), and struck out former par. (2) which read as follows: “shall submit to the Secretary a statement signed by the executive director of the corporation certifying that each director and employee is aware of, and has complied with, such laws and regulations in the same manner as Federal employees are required to.”
 
-2001—Subsec. (d)(2)(D). Pub. L. 107–103 made technical correction to directory language of Pub. L. 106–117, § 204(e)(3). See 1999 Amendment note below.
+2001—Subsec. (d)(2)(D). Pub. L. 107–103 made technical correction to directory language of Pub. L. 106–117, § 204(e)(3). See 1999 Amendment note below.
 
-1999—Subsec. (d)(2)(B). Pub. L. 106–117, § 204(e)(1), inserted “for research and the amount received from governmental entities for education” before the semicolon at end.
+1999—Subsec. (d)(2)(B). Pub. L. 106–117, § 204(e)(1), inserted “for research and the amount received from governmental entities for education” before the semicolon at end.
 
-Subsec. (d)(2)(C). Pub. L. 106–117, § 204(e)(2), inserted “for research and the amount received from all other sources for education” before “; and”.
+Subsec. (d)(2)(C). Pub. L. 106–117, § 204(e)(2), inserted “for research and the amount received from all other sources for education” before “; and”.
 
-Subsec. (d)(2)(D). Pub. L. 106–117, § 204(e)(3), as amended by Pub. L. 107–103, § 509(f), substituted “an amount received” for “the amount received”.
+Subsec. (d)(2)(D). Pub. L. 106–117, § 204(e)(3), as amended by Pub. L. 107–103, § 509(f), substituted “an amount received” for “the amount received”.
 
-Subsec. (d)(3)(A). Pub. L. 106–117, § 204(e)(4), substituted “, the amount expended for salary for education staff, and the amount expended” for “and”.
+Subsec. (d)(3)(A). Pub. L. 106–117, § 204(e)(4), substituted “, the amount expended for salary for education staff, and the amount expended” for “and”.
 
-Subsec. (d)(3)(B). Pub. L. 106–117, § 204(e)(5), inserted “and the amount expended for direct support of education” after “research”.
+Subsec. (d)(3)(B). Pub. L. 106–117, § 204(e)(5), inserted “and the amount expended for direct support of education” after “research”.
 
-Subsec. (d)(4). Pub. L. 106–117, § 204(e)(6), added par. (4).
+Subsec. (d)(4). Pub. L. 106–117, § 204(e)(6), added par. (4).
 
-1996—Subsec. (b). Pub. L. 104–262, § 343(c), substituted “A corporation with revenues in excess of $300,000 for any year shall obtain an audit of the corporation for that year. A corporation with annual revenues between $10,000 and $300,000 shall obtain an independent audit of the corporation at least once every three years. Any audit under the preceding sentences shall be performed by an independent auditor. The corporation shall include the most recent such audit” for “The corporation shall obtain a report of independent auditors concerning the receipts and expenditures of funds by the corporation during that year and shall include that report”.
+1996—Subsec. (b). Pub. L. 104–262, § 343(c), substituted “A corporation with revenues in excess of $300,000 for any year shall obtain an audit of the corporation for that year. A corporation with annual revenues between $10,000 and $300,000 shall obtain an independent audit of the corporation at least once every three years. Any audit under the preceding sentences shall be performed by an independent auditor. The corporation shall include the most recent such audit” for “The corporation shall obtain a report of independent auditors concerning the receipts and expenditures of funds by the corporation during that year and shall include that report”.
 
-Subsec. (c)(2). Pub. L. 104–262, § 343(d), substituted “a statement signed by the executive director of the corporation certifying that each director and” for “an annual statement signed by the director or employee certifying that the director or”.
+Subsec. (c)(2). Pub. L. 104–262, § 343(d), substituted “a statement signed by the executive director of the corporation certifying that each director and” for “an annual statement signed by the director or employee certifying that the director or”.
 
-Subsec. (d). Pub. L. 104–262, § 343(e), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives an annual report on the number and location of corporations established and the amount of the contributions made to each such corporation.”
+Subsec. (d). Pub. L. 104–262, § 343(e), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives an annual report on the number and location of corporations established and the amount of the contributions made to each such corporation.”
 
-1991—Pub. L. 102–40, § 401(a)(4)(B), renumbered section 4166 of this title as this section.
+1991—Pub. L. 102–40, § 401(a)(4)(B), renumbered section 4166 of this title as this section.
 
-Subsec. (a)(1)(A). Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator”.
+Subsec. (a)(1)(A). Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator”.
 
-Subsec. (a)(1)(B). Pub. L. 102–40, § 403(a)(2), substituted “Department” for “Veterans’ Administration” in two places.
+Subsec. (a)(1)(B). Pub. L. 102–40, § 403(a)(2), substituted “Department” for “Veterans’ Administration” in two places.
 
-Subsec. (b). Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator” in two places.
+Subsec. (b). Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator” in two places.
 
-Subsec. (c). Pub. L. 102–40, § 403(a)(2), substituted “Department” for “Veterans’ Administration” in introductory provisions.
+Subsec. (c). Pub. L. 102–40, § 403(a)(2), substituted “Department” for “Veterans’ Administration” in introductory provisions.
 
-Subsec. (c)(2). Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator”.
+Subsec. (c)(2). Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator”.
 
-Subsec. (d). Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator”.
+Subsec. (d). Pub. L. 102–40, § 403(a)(1), substituted “Secretary” for “Administrator”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–103, title V, § 509(f), Dec. 27, 2001, 115 Stat. 997, provided that the amendment made by section 509(f) is effective Nov. 30, 1999, and as if included in Pub. L. 106–117 as originally enacted.
+Pub. L. 107–103, title V, § 509(f), Dec. 27, 2001, 115 Stat. 997, provided that the amendment made by section 509(f) is effective Nov. 30, 1999, and as if included in Pub. L. 106–117 as originally enacted.
 
-### [§ 7367. Repealed. Pub. L. 107–14, § 8(a)(14)(A), June 5, 2001, 115 Stat. 35]
+### [§ 7367. Repealed. Pub. L. 107–14, § 8(a)(14)(A), June 5, 2001, 115 Stat. 35]
 
-Section, added Pub. L. 100–322, title II, § 204(a), May 20, 1988, 102 Stat. 512, § 4167; renumbered § 7367 and amended Pub. L. 102–40, title IV, §§ 401(a)(4)(B), 403(a)(1), May 7, 1991, 105 Stat. 221, 239, required a report to Congress on the experience through the end of fiscal year 1990 under this subchapter.
+Section, added Pub. L. 100–322, title II, § 204(a), May 20, 1988, 102 Stat. 512, § 4167; renumbered § 7367 and amended Pub. L. 102–40, title IV, §§ 401(a)(4)(B), 403(a)(1), May 7, 1991, 105 Stat. 221, 239, required a report to Congress on the experience through the end of fiscal year 1990 under this subchapter.
 
-### [§ 7368. Repealed. Pub. L. 110–387, title VIII, § 806(a), Oct. 10, 2008, 122 Stat. 4141]
+### [§ 7368. Repealed. Pub. L. 110–387, title VIII, § 806(a), Oct. 10, 2008, 122 Stat. 4141]
 
-Section, added Pub. L. 100–322, title II, § 204(a), May 20, 1988, 102 Stat. 512, § 4168; renumbered § 7368, Pub. L. 102–40, title IV, § 401(a)(4)(B), May 7, 1991, 105 Stat. 221; amended Pub. L. 102–291, § 3(b), May 20, 1992, 106 Stat. 179; Pub. L. 104–262, title III, § 343(a), Oct. 9, 1996, 110 Stat. 3207; Pub. L. 106–419, title IV, § 402(g), Nov. 1, 2000, 114 Stat. 1863; Pub. L. 108–170, title IV, § 402(c), Dec. 6, 2003, 117 Stat. 2062, related to the expiration of authority for corporations to be established under this subchapter.
+Section, added Pub. L. 100–322, title II, § 204(a), May 20, 1988, 102 Stat. 512, § 4168; renumbered § 7368, Pub. L. 102–40, title IV, § 401(a)(4)(B), May 7, 1991, 105 Stat. 221; amended Pub. L. 102–291, § 3(b), May 20, 1992, 106 Stat. 179; Pub. L. 104–262, title III, § 343(a), Oct. 9, 1996, 110 Stat. 3207; Pub. L. 106–419, title IV, § 402(g), Nov. 1, 2000, 114 Stat. 1863; Pub. L. 108–170, title IV, § 402(c), Dec. 6, 2003, 117 Stat. 2062, related to the expiration of authority for corporations to be established under this subchapter.
 
 ## SUBCHAPTER V—RESEARCH AND DEVELOPMENT
 
@@ -3897,15 +3897,15 @@ Section, added Pub. L. 100–322, title II, § 204(a), May 20, 1988, 102 Stat.
 
 **Prior Provisions**
 
-A prior subchapter V of this chapter consisting of sections 4151 and 4152, related to quality assurance, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(2)(A), May 7, 1991, 105 Stat. 210. See Prior Provisions notes set out under section 4114 of this title.
+A prior subchapter V of this chapter consisting of sections 4151 and 4152, related to quality assurance, prior to repeal by Pub. L. 102–40, title IV, § 401(a)(2)(A), May 7, 1991, 105 Stat. 210. See Prior Provisions notes set out under section 4114 of this title.
 
 A prior subchapter VI of this chapter was redesignated as subchapter V.
 
 **Amendments**
 
-2022—Pub. L. 117–328, div. U, title I, § 182(a), Dec. 29, 2022, 136 Stat. 5436, added subchapter V.
+2022—Pub. L. 117–328, div. U, title I, § 182(a), Dec. 29, 2022, 136 Stat. 5436, added subchapter V.
 
-### § 7381. Office of Research and Development
+### § 7381. Office of Research and Development
 
 **(a) Office of Research and Development.—** There is in the Veterans Health Administration an Office of Research and Development (in this section referred to as the “Office”).
 
@@ -3915,9 +3915,9 @@ A prior subchapter VI of this chapter was redesignated as subchapter V.
 
 **(d) Organization and Personnel.—** The Office shall be organized in such manner, and its personnel shall perform such duties and have such titles, as the Secretary may prescribe.
 
-(Added Pub. L. 117–328, div. U, title I, § 182(a), Dec. 29, 2022, 136 Stat. 5436.)
+(Added Pub. L. 117–328, div. U, title I, § 182(a), Dec. 29, 2022, 136 Stat. 5436.)
 
-### § 7382. Research personnel
+### § 7382. Research personnel
 
 **(a) Waiver of Intergovernmental Personnel Act Mobility Program Limits.—** The Secretary may waive the limit on the period and number of assignments required under section 3372(a) of title 5 with respect to an individual who performs research for the Department under the mobility program under subchapter VI of chapter 33 of such title (commonly referred to as the “Intergovernmental Personnel Act Mobility Program”).
 
@@ -3933,4 +3933,4 @@ A prior subchapter VI of this chapter was redesignated as subchapter V.
 
 **(2)** An employee described in this subsection is an employee who has an appointment within the Department, whether with or without compensation, and without regard to the source of such compensation.
 
-(Added Pub. L. 117–328, div. U, title I, § 182(a), Dec. 29, 2022, 136 Stat. 5436.)
+(Added Pub. L. 117–328, div. U, title I, § 182(a), Dec. 29, 2022, 136 Stat. 5436.)

@@ -25,43 +25,43 @@ This section inserts in the analysis of chapter 91 of title 28, U.S.C., item 150
 
 **Amendments**
 
-2006—Pub. L. 109–284, § 4(1), Sept. 27, 2006, 120 Stat. 1211, substituted “chapter 37 of title 40” for “Contract Work Hours and Safety Standards Act” in item 1499.
+2006—Pub. L. 109–284, § 4(1), Sept. 27, 2006, 120 Stat. 1211, substituted “chapter 37 of title 40” for “Contract Work Hours and Safety Standards Act” in item 1499.
 
-1992—Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516, substituted “UNITED STATES COURT OF FEDERAL CLAIMS” for “UNITED STATES CLAIMS COURT” as chapter heading.
+1992—Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516, substituted “UNITED STATES COURT OF FEDERAL CLAIMS” for “UNITED STATES CLAIMS COURT” as chapter heading.
 
-1984—Pub. L. 98–369, div. A, title VII, § 714(g)(3), July 18, 1984, 98 Stat. 962, added item 1509.
+1984—Pub. L. 98–369, div. A, title VII, § 714(g)(3), July 18, 1984, 98 Stat. 962, added item 1509.
 
-1982—Pub. L. 97–248, title IV, § 402(c)(18)(B), Sept. 3, 1982, 96 Stat. 669, added item 1508.
+1982—Pub. L. 97–248, title IV, § 402(c)(18)(B), Sept. 3, 1982, 96 Stat. 669, added item 1508.
 
-Pub. L. 97–164, title I, § 133(e)(2)(B), (f), (h), (j)(2), Apr. 2, 1982, 96 Stat. 41, substituted “UNITED STATES CLAIMS COURT” for “COURT OF CLAIMS” in chapter heading, substituted “Liquidated damages withheld from contractors under Contract Work Hours and Safety Standards Act” for “Penalties imposed against contractors under eight hour law” in item 1499, and struck out items 1504 “Tort Claims” and 1506 “Transfer to cure defect of jurisdiction”.
+Pub. L. 97–164, title I, § 133(e)(2)(B), (f), (h), (j)(2), Apr. 2, 1982, 96 Stat. 41, substituted “UNITED STATES CLAIMS COURT” for “COURT OF CLAIMS” in chapter heading, substituted “Liquidated damages withheld from contractors under Contract Work Hours and Safety Standards Act” for “Penalties imposed against contractors under eight hour law” in item 1499, and struck out items 1504 “Tort Claims” and 1506 “Transfer to cure defect of jurisdiction”.
 
-1976—Pub. L. 94–455, title XIII, § 1306(b)(9)(B), Oct. 4, 1976, 90 Stat. 1720, added item 1507.
+1976—Pub. L. 94–455, title XIII, § 1306(b)(9)(B), Oct. 4, 1976, 90 Stat. 1720, added item 1507.
 
-1960—Pub. L. 86–770, § 2(b), Sept. 13, 1960, 74 Stat. 912, added item 1506.
+1960—Pub. L. 86–770, § 2(b), Sept. 13, 1960, 74 Stat. 912, added item 1506.
 
-Pub. L. 86–726, § 4, Sept. 8, 1960, 74 Stat. 856, substituted “Patent and copyright cases” for “Patent cases” in item 1498.
+Pub. L. 86–726, § 4, Sept. 8, 1960, 74 Stat. 856, substituted “Patent and copyright cases” for “Patent cases” in item 1498.
 
-1954—Act Sept. 3, 1954, ch. 1263, § 43, 68 Stat. 1241, inserted “; actions involving Tennessee Valley Authority” in item 1491 and struck out item 1493 “Departmental reference cases”.
+1954—Act Sept. 3, 1954, ch. 1263, § 43, 68 Stat. 1241, inserted “; actions involving Tennessee Valley Authority” in item 1491 and struck out item 1493 “Departmental reference cases”.
 
-1949—Act May 24, 1949, ch. 139, § 86, 63 Stat. 102, added item 1505.
+1949—Act May 24, 1949, ch. 139, § 86, 63 Stat. 102, added item 1505.
 
-## § 1491. Claims against United States generally; actions involving Tennessee Valley Authority
+## § 1491. Claims against United States generally; actions involving Tennessee Valley Authority
 
 **(a)**
 
 **(1)** The United States Court of Federal Claims shall have jurisdiction to render judgment upon any claim against the United States founded either upon the Constitution, or any Act of Congress or any regulation of an executive department, or upon any express or implied contract with the United States, or for liquidated or unliquidated damages in cases not sounding in tort. For the purpose of this paragraph, an express or implied contract with the Army and Air Force Exchange Service, Navy Exchanges, Marine Corps Exchanges, Coast Guard Exchanges, or Exchange Councils of the National Aeronautics and Space Administration shall be considered an express or implied contract with the United States.
 
-**(2)** To provide an entire remedy and to complete the relief afforded by the judgment, the court may, as an incident of and collateral to any such judgment, issue orders directing restoration to office or position, placement in appropriate duty or retirement status, and correction of applicable records, and such orders may be issued to any appropriate official of the United States. In any case within its jurisdiction, the court shall have the power to remand appropriate matters to any administrative or executive body or official with such direction as it may deem proper and just. The Court of Federal Claims shall have jurisdiction to render judgment upon any claim by or against, or dispute with, a contractor arising under section 7104(b)(1) of title 41, including a dispute concerning termination of a contract, rights in tangible or intangible property, compliance with cost accounting standards, and other nonmonetary disputes on which a decision of the contracting officer has been issued under section 6 1
+**(2)** To provide an entire remedy and to complete the relief afforded by the judgment, the court may, as an incident of and collateral to any such judgment, issue orders directing restoration to office or position, placement in appropriate duty or retirement status, and correction of applicable records, and such orders may be issued to any appropriate official of the United States. In any case within its jurisdiction, the court shall have the power to remand appropriate matters to any administrative or executive body or official with such direction as it may deem proper and just. The Court of Federal Claims shall have jurisdiction to render judgment upon any claim by or against, or dispute with, a contractor arising under section 7104(b)(1) of title 41, including a dispute concerning termination of a contract, rights in tangible or intangible property, compliance with cost accounting standards, and other nonmonetary disputes on which a decision of the contracting officer has been issued under section 6 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of that Act.
 
 **(b)**
 
-**(1)** Both the Unites 2
+**(1)** Both the Unites 2
 
-<sup>2</sup>  So in original. Probably should be “United”.
+<sup>2</sup> So in original. Probably should be “United”.
 
 States Court of Federal Claims and the district courts of the United States shall have jurisdiction to render judgment on an action by an interested party objecting to a solicitation by a Federal agency for bids or proposals for a proposed contract or to a proposed award or the award of a contract or any alleged violation of statute or regulation in connection with a procurement or a proposed procurement. Both the United States Court of Federal Claims and the district courts of the United States shall have jurisdiction to entertain such an action without regard to whether suit is instituted before or after the contract is awarded.
 
@@ -77,11 +77,11 @@ States Court of Federal Claims and the district courts of the United States shal
 
 **(c)** Nothing herein shall be construed to give the United States Court of Federal Claims jurisdiction of any civil action within the exclusive jurisdiction of the Court of International Trade, or of any action against, or founded on conduct of, the Tennessee Valley Authority, or to amend or modify the provisions of the Tennessee Valley Authority Act of 1933 with respect to actions by or against the Authority.
 
-(June 25, 1948, ch. 646, 62 Stat. 940; July 28, 1953, ch. 253, § 7, 67 Stat. 226; Sept. 3, 1954, ch. 1263, § 44(a), (b), 68 Stat. 1241; Pub. L. 91–350, § 1(b), July 23, 1970, 84 Stat. 449; Pub. L. 92–415, § 1, Aug. 29, 1972, 86 Stat. 652; Pub. L. 95–563, § 14(i), Nov. 1, 1978, 92 Stat. 2391; Pub. L. 96–417, title V, § 509, Oct. 10, 1980, 94 Stat. 1743; Pub. L. 97–164, title I, § 133(a), Apr. 2, 1982, 96 Stat. 39; Pub. L. 102–572, title IX, §§ 902(a), 907(b)(1), Oct. 29, 1992, 106 Stat. 4516, 4519; Pub. L. 104–320, § 12(a), Oct. 19, 1996, 110 Stat. 3874; Pub. L. 110–161, div. D, title VII, § 739(c)(2), Dec. 26, 2007, 121 Stat. 2031; Pub. L. 110–181, div. A, title III, § 326(c), Jan. 28, 2008, 122 Stat. 63; Pub. L. 110–417, [div. A], title X, § 1061(d), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–350, § 5(g)(7), Jan. 4, 2011, 124 Stat. 3848; Pub. L. 112–81, div. A, title VIII, § 861(a), Dec. 31, 2011, 125 Stat. 1521.)
+(June 25, 1948, ch. 646, 62 Stat. 940; July 28, 1953, ch. 253, § 7, 67 Stat. 226; Sept. 3, 1954, ch. 1263, § 44(a), (b), 68 Stat. 1241; Pub. L. 91–350, § 1(b), July 23, 1970, 84 Stat. 449; Pub. L. 92–415, § 1, Aug. 29, 1972, 86 Stat. 652; Pub. L. 95–563, § 14(i), Nov. 1, 1978, 92 Stat. 2391; Pub. L. 96–417, title V, § 509, Oct. 10, 1980, 94 Stat. 1743; Pub. L. 97–164, title I, § 133(a), Apr. 2, 1982, 96 Stat. 39; Pub. L. 102–572, title IX, §§ 902(a), 907(b)(1), Oct. 29, 1992, 106 Stat. 4516, 4519; Pub. L. 104–320, § 12(a), Oct. 19, 1996, 110 Stat. 3874; Pub. L. 110–161, div. D, title VII, § 739(c)(2), Dec. 26, 2007, 121 Stat. 2031; Pub. L. 110–181, div. A, title III, § 326(c), Jan. 28, 2008, 122 Stat. 63; Pub. L. 110–417, [div. A], title X, § 1061(d), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–350, § 5(g)(7), Jan. 4, 2011, 124 Stat. 3848; Pub. L. 112–81, div. A, title VIII, § 861(a), Dec. 31, 2011, 125 Stat. 1521.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 250(1) (Mar. 3, 1911, ch. 231; § 145, 36 Stat. 1136).
+Based on title 28, U.S.C., 1940 ed., § 250(1) (Mar. 3, 1911, ch. 231; § 145, 36 Stat. 1136).
 
 District courts are given concurrent jurisdiction of certain claims against the United States under section 1346 of this title. (See also reviser’s note under that section and section 1621 of this title relating to jurisdiction of the Tax Court.)
 
@@ -99,9 +99,9 @@ Changes were made in phraseology.
 
 **References in Text**
 
-Section 6 of the Contract Disputes Act of 1978, referred to in subsec. (a)(2), was classified to section 605 of former Title 41, Public Contracts, and was repealed and restated as subsecs. (a) to (c)(1) and (d) to (h) of section 7103 of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
+Section 6 of the Contract Disputes Act of 1978, referred to in subsec. (a)(2), was classified to section 605 of former Title 41, Public Contracts, and was repealed and restated as subsecs. (a) to (c)(1) and (d) to (h) of section 7103 of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
 
-The Tennessee Valley Authority Act of 1933, referred to in subsec. (c), is act May 18, 1933, ch. 32, 48 Stat. 58, which is classified generally to chapter 12A (§ 831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 831 of Title 16 and Tables.
+The Tennessee Valley Authority Act of 1933, referred to in subsec. (c), is act May 18, 1933, ch. 32, 48 Stat. 58, which is classified generally to chapter 12A (§ 831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 831 of Title 16 and Tables.
 
 **Amendments**
 
@@ -115,17 +115,17 @@ Pub. L. 110–181 added par. (5).
 
 2007—Subsec. (b)(5). Pub. L. 110–161 added par. (5).
 
-1996—Subsec. (a)(3). Pub. L. 104–320, § 12(a)(2), struck out par. (3) which read as follows: “To afford complete relief on any contract claim brought before the contract is awarded, the court shall have exclusive jurisdiction to grant declaratory judgments and such equitable and extraordinary relief as it deems proper, including but not limited to injunctive relief. In exercising this jurisdiction, the court shall give due regard to the interests of national defense and national security.”
+1996—Subsec. (a)(3). Pub. L. 104–320, § 12(a)(2), struck out par. (3) which read as follows: “To afford complete relief on any contract claim brought before the contract is awarded, the court shall have exclusive jurisdiction to grant declaratory judgments and such equitable and extraordinary relief as it deems proper, including but not limited to injunctive relief. In exercising this jurisdiction, the court shall give due regard to the interests of national defense and national security.”
 
-Subsecs. (b), (c). Pub. L. 104–320, § 12(a)(1), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
+Subsecs. (b), (c). Pub. L. 104–320, § 12(a)(1), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1992—Subsec. (a)(1). Pub. L. 102–572, § 902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1992—Subsec. (a)(1). Pub. L. 102–572, § 902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-Subsec. (a)(2). Pub. L. 102–572, § 907(b)(1), inserted before period at end “, including a dispute concerning termination of a contract, rights in tangible or intangible property, compliance with cost accounting standards, and other nonmonetary disputes on which a decision of the contracting officer has been issued under section 6 of that Act”.
+Subsec. (a)(2). Pub. L. 102–572, § 907(b)(1), inserted before period at end “, including a dispute concerning termination of a contract, rights in tangible or intangible property, compliance with cost accounting standards, and other nonmonetary disputes on which a decision of the contracting officer has been issued under section 6 of that Act”.
 
-Pub. L. 102–572, § 902(a)(2), substituted “Court of Federal Claims” for “Claims Court”.
+Pub. L. 102–572, § 902(a)(2), substituted “Court of Federal Claims” for “Claims Court”.
 
-Subsec. (b). Pub. L. 102–572, § 902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+Subsec. (b). Pub. L. 102–572, § 902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
 1982—Subsec. (a)(1). Pub. L. 97–164 designated first two sentences of existing first undesignated paragraph as subsec. (a)(1) and substituted “United States Claims Court” for “Court of Claims”.
 
@@ -143,7 +143,7 @@ Subsec. (b). Pub. L. 97–164 designated existing second undesignated paragraph 
 
 1970—Pub. L. 91–350 specified that the term “express or implied contracts with the United States” includes express or implied contracts with the Army and Air Force Exchange Service, Navy Exchanges, Marine Corps Exchanges, Coast Guard Exchanges, or Exchange Councils of the National Aeronautics and Space Administration.
 
-1954—Act Sept. 3, 1954, inserted “; actions involving Tennessee Valley Authority” in section catchline and altered the form of first par. to spell out the general jurisdiction of the Court in paragraph form rather than as clauses of the par.
+1954—Act Sept. 3, 1954, inserted “; actions involving Tennessee Valley Authority” in section catchline and altered the form of first par. to spell out the general jurisdiction of the Court in paragraph form rather than as clauses of the par.
 
 1953—Act July 28, 1953, substituted “United States Court of Claims” for “Court of Claims” near beginning of section, and inserted last par.
 
@@ -151,11 +151,11 @@ Subsec. (b). Pub. L. 97–164 designated existing second undesignated paragraph 
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–81, div. A, title VIII, § 861(b), Dec. 31, 2011, 125 Stat. 1521, provided that: “The amendment made by subsection (a) [amending this section] shall apply to any cause of action filed on or after the first day of the first month beginning more than 30 days after the date of the enactment of this Act [Dec. 31, 2011].”
+Pub. L. 112–81, div. A, title VIII, § 861(b), Dec. 31, 2011, 125 Stat. 1521, provided that: “The amendment made by subsection (a) [amending this section] shall apply to any cause of action filed on or after the first day of the first month beginning more than 30 days after the date of the enactment of this Act [Dec. 31, 2011].”
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–181, div. A, title III, § 326(d), Jan. 28, 2008, 122 Stat. 63, provided that:
+Pub. L. 110–181, div. A, title III, § 326(d), Jan. 28, 2008, 122 Stat. 63, provided that:
 
 > “Subparagraph (B) of section 3551(2) of title 31, United States Code (as added by subsection (a)), and paragraph (5) of section 1491(b) of title 28, United States Code (as added by subsection (c)), shall apply to—
 
@@ -171,13 +171,13 @@ Amendment by Pub. L. 110–161 applicable with respect to fiscal year 2008 and e
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–320, § 12(b), Oct. 19, 1996, 110 Stat. 3875, provided that: “This section [amending this section and section 3556 of Title 31, Money and Finance, and enacting provisions set out as notes under this section and section 3556 of Title 31] and the amendments made by this section shall take effect on December 31, 1996 and shall apply to all actions filed on or after that date.”
+Pub. L. 104–320, § 12(b), Oct. 19, 1996, 110 Stat. 3875, provided that: “This section [amending this section and section 3556 of Title 31, Money and Finance, and enacting provisions set out as notes under this section and section 3556 of Title 31] and the amendments made by this section shall take effect on December 31, 1996 and shall apply to all actions filed on or after that date.”
 
 **Effective Date of 1992 Amendment**
 
 Amendment by section 902(a) of Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of this title.
 
-Pub. L. 102–572, title IX, § 907(b)(2), Oct. 29, 1992, 106 Stat. 4519, provided that:
+Pub. L. 102–572, title IX, § 907(b)(2), Oct. 29, 1992, 106 Stat. 4519, provided that:
 
 > “The amendment made by paragraph (1) [amending this section] shall be effective with respect to all actions filed before, on, or after the date of the enactment of this Act [Oct. 29, 1992], except for those actions which, before such date of enactment, have been the subject of—
 
@@ -199,7 +199,7 @@ Amendment by Pub. L. 95–563 effective with respect to contracts entered into 1
 
 **Effective Date of 1972 Amendment**
 
-Pub. L. 92–415, § 2, Aug. 29, 1972, 86 Stat. 652, provided that: “This Act [amending this section] shall be applicable to all judicial proceedings pending on or instituted after the date of its enactment [Aug. 29, 1972].”
+Pub. L. 92–415, § 2, Aug. 29, 1972, 86 Stat. 652, provided that: “This Act [amending this section] shall be applicable to all judicial proceedings pending on or instituted after the date of its enactment [Aug. 29, 1972].”
 
 **Effective Date of 1970 Amendment**
 
@@ -207,7 +207,7 @@ Amendment by Pub. L. 91–350 applicable to claims and civil actions dismissed b
 
 **Savings Provision**
 
-Pub. L. 104–320, § 12(e), Oct. 19, 1996, 110 Stat. 3875, provided that:
+Pub. L. 104–320, § 12(e), Oct. 19, 1996, 110 Stat. 3875, provided that:
 
 > **“(1) Orders.—** A termination under subsection (d) [set out below] shall not terminate the effectiveness of orders that have been issued by a court in connection with an action within the jurisdiction of that court on or before December 31, 2000. Such orders shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked by a court of competent jurisdiction or by operation of law.
 
@@ -221,7 +221,7 @@ Pub. L. 104–320, § 12(e), Oct. 19, 1996, 110 Stat. 3875, provided that:
 
 **Sunset Provision**
 
-Pub. L. 104–320, § 12(d), Oct. 19, 1996, 110 Stat. 3875, provided that: “The jurisdiction of the district courts of the United States over the actions described in section 1491(b)(1) of title 28, United States Code (as amended by subsection (a) of this section) shall terminate on January 1, 2001 unless extended by Congress. The savings provisions in subsection (e) [set out above] shall apply if the bid protest jurisdiction of the district courts of the United States terminates under this subsection.”
+Pub. L. 104–320, § 12(d), Oct. 19, 1996, 110 Stat. 3875, provided that: “The jurisdiction of the district courts of the United States over the actions described in section 1491(b)(1) of title 28, United States Code (as amended by subsection (a) of this section) shall terminate on January 1, 2001 unless extended by Congress. The savings provisions in subsection (e) [set out above] shall apply if the bid protest jurisdiction of the district courts of the United States terminates under this subsection.”
 
 **Transfer of Functions**
 
@@ -229,17 +229,17 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Study on Concurrent Jurisdiction**
 
-Pub. L. 104–320, § 12(c), Oct. 19, 1996, 110 Stat. 3875, required that, no earlier than 2 years after Dec. 31, 1996, the General Accounting Office was to undertake a study regarding the concurrent jurisdiction of the district courts of the United States and the Court of Federal Claims over bid protests to determine whether concurrent jurisdiction was necessary, which study was to be completed no later than Dec. 31, 1999, and was to specifically consider the effect of any proposed change on the ability of small businesses to challenge violations of Federal procurement law.
+Pub. L. 104–320, § 12(c), Oct. 19, 1996, 110 Stat. 3875, required that, no earlier than 2 years after Dec. 31, 1996, the General Accounting Office was to undertake a study regarding the concurrent jurisdiction of the district courts of the United States and the Court of Federal Claims over bid protests to determine whether concurrent jurisdiction was necessary, which study was to be completed no later than Dec. 31, 1999, and was to specifically consider the effect of any proposed change on the ability of small businesses to challenge violations of Federal procurement law.
 
-## § 1492. Congressional reference cases
+## § 1492. Congressional reference cases
 
 Any bill, except a bill for a pension, may be referred by either House of Congress to the chief judge of the United States Court of Federal Claims for a report in conformity with section 2509 of this title.
 
-(June 25, 1948, ch. 646, 62 Stat. 941; Pub. L. 89–681, § 1, Oct. 15, 1966, 80 Stat. 958; Pub. L. 97–164, title I, § 133(b), Apr. 2, 1982, 96 Stat. 40; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 941; Pub. L. 89–681, § 1, Oct. 15, 1966, 80 Stat. 958; Pub. L. 97–164, title I, § 133(b), Apr. 2, 1982, 96 Stat. 40; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 257 (Mar. 3, 1911, ch. 231, § 151, 36 Stat. 1138).
+Based on title 28, U.S.C., 1940 ed., § 257 (Mar. 3, 1911, ch. 231, § 151, 36 Stat. 1138).
 
 This section contains only the jurisdictional provision of section 257 of title 28, U.S.C., 1940 ed. The procedural provisions are incorporated in section 2509 of this title.
 
@@ -265,15 +265,15 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## [§ 1493. Repealed. July 28, 1953, ch. 253, § 8, 67 Stat. 226]
+## [§ 1493. Repealed. July 28, 1953, ch. 253, § 8, 67 Stat. 226]
 
 Section, act June 25, 1948, ch. 646, 62 Stat. 941, authorized Court of Claims to give legal advice to heads of executive departments in matters referred to it by the heads, if Court had jurisdiction over the matters.
 
-## § 1494. Accounts of officers, agents or contractors
+## § 1494. Accounts of officers, agents or contractors
 
 The United States Court of Federal Claims shall have jurisdiction to determine the amount, if any, due to or from the United States by reason of any unsettled account of any officer or agent of, or contractor with, the United States, or a guarantor, surety or personal representative of any such officer, agent or contractor, and to render judgment thereof,1
 
-<sup>1</sup>  So in original. Probably should be “thereon,”.
+<sup>1</sup> So in original. Probably should be “thereon,”.
 
 where—
 
@@ -283,11 +283,11 @@ where—
 
 **(3)** no suit upon the same has been brought by the United States.
 
-(June 25, 1948, ch. 646, 62 Stat. 941; July 28, 1953, ch. 253, § 9, 67 Stat. 226; Sept. 3, 1954, ch. 1263, § 44(c), 68 Stat. 1242; Pub. L. 97–164, title I, § 133(c)(1), Apr. 2, 1982, 96 Stat. 40; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 941; July 28, 1953, ch. 253, § 9, 67 Stat. 226; Sept. 3, 1954, ch. 1263, § 44(c), 68 Stat. 1242; Pub. L. 97–164, title I, § 133(c)(1), Apr. 2, 1982, 96 Stat. 40; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 287 (Mar. 3, 1911, ch. 231, § 180, 36 Stat. 1141; Feb. 13, 1925, ch. 229, § 3, 43 Stat. 939).
+Based on title 28, U.S.C., 1940 ed., § 287 (Mar. 3, 1911, ch. 231, § 180, 36 Stat. 1141; Feb. 13, 1925, ch. 229, § 3, 43 Stat. 939).
 
 Only the jurisdictional provisions of section 287 of title 28, U.S.C., 1940 ed., are contained in this section. The procedural provisions are incorporated in section 2511 of this title.
 
@@ -315,15 +315,15 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 1495. Damages for unjust conviction and imprisonment; claim against United States
+## § 1495. Damages for unjust conviction and imprisonment; claim against United States
 
 The United States Court of Federal Claims shall have jurisdiction to render judgment upon any claim for damages by any person unjustly convicted of an offense against the United States and imprisoned.
 
-(June 25, 1948, ch. 646, 62 Stat. 941; Pub. L. 97–164, title I, § 133(c)(1), Apr. 2, 1982, 96 Stat. 40; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 941; Pub. L. 97–164, title I, § 133(c)(1), Apr. 2, 1982, 96 Stat. 40; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
-Based on section 729 of title 18, U.S.C., 1940 ed., Crimes and Criminal Procedure (May 24, 1938, ch. 266, §§ 1–4, 52 Stat. 438).
+Based on section 729 of title 18, U.S.C., 1940 ed., Crimes and Criminal Procedure (May 24, 1938, ch. 266, §§ 1–4, 52 Stat. 438).
 
 Only the jurisdictional provision of section 729 of title 18, U.S.C., 1940 ed., appears in this section. The remainder is incorporated in section 2513 of this title.
 
@@ -347,15 +347,15 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 1496. Disbursing officers’ claims
+## § 1496. Disbursing officers’ claims
 
 The United States Court of Federal Claims shall have jurisdiction to render judgment upon any claim by a disbursing officer of the United States or by his administrator or executor for relief from responsibility for loss, in line of duty, of Government funds, vouchers, records or other papers in his charge.
 
-(June 25, 1948, ch. 646, 62 Stat. 941; Pub. L. 97–164, title I, § 133(c)(1), Apr. 2, 1982, 96 Stat. 40; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 941; Pub. L. 97–164, title I, § 133(c)(1), Apr. 2, 1982, 96 Stat. 40; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 250(3) (Mar. 3, 1911, ch. 231, § 145, 36 Stat. 1136; June 10, 1921, ch. 18, § 304, 42 Stat. 24).
+Based on title 28, U.S.C., 1940 ed., § 250(3) (Mar. 3, 1911, ch. 231, § 145, 36 Stat. 1136; June 10, 1921, ch. 18, § 304, 42 Stat. 24).
 
 Words “paymaster, quartermaster, commissary of subsistence, or other,” preceding “disbursing officer of the United States,” were omitted. See *Henderson v. United States*, 1907, 42 Ct.Cl. 449 and *Hobbs v. United States*, 1881, 17 Ct.Cl. 189, holding that the term “other disbursing officer” extends to any disbursing officer of the executive departments of the Government.
 
@@ -383,15 +383,15 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 1497. Oyster growers’ damages from dredging operations
+## § 1497. Oyster growers’ damages from dredging operations
 
 The United States Court of Federal Claims shall have jurisdiction to render judgment upon any claim for damages to oyster growers on private or leased lands or bottoms arising from dredging operations or use of other machinery and equipment in making river and harbor improvements authorized by Act of Congress.
 
-(June 25, 1948, ch. 646, 62 Stat. 941; Pub. L. 97–164, title I, § 133(c), Apr. 2, 1982, 96 Stat. 40; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 941; Pub. L. 97–164, title I, § 133(c), Apr. 2, 1982, 96 Stat. 40; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 250a (Aug. 30, 1935, ch. 831, § 13, 49 Stat. 1049; July 13, 1943, ch. 231, 57 Stat. 553).
+Based on title 28, U.S.C., 1940 ed., § 250a (Aug. 30, 1935, ch. 831, § 13, 49 Stat. 1049; July 13, 1943, ch. 231, 57 Stat. 553).
 
 The proviso at the end of section 250a of title 28, U.S.C., 1940 ed., is incorporated in section 2501 of this title.
 
@@ -405,7 +405,7 @@ Changes were made in phraseology.
 
 1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1982—Pub. L. 97–164 substituted “growers’ ” for “growers,” in section catchline, and “United States Claims Court” for “Court of Claims” in text.
+1982—Pub. L. 97–164 substituted “growers’ ” for “growers,” in section catchline, and “United States Claims Court” for “Court of Claims” in text.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -417,11 +417,11 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 1498. Patent and copyright cases
+## § 1498. Patent and copyright cases
 
-**(a)** Whenever an invention described in and covered by a patent of the United States is used or manufactured by or for the United States without license of the owner thereof or lawful right to use or manufacture the same, the owner’s remedy shall be by action against the United States in the United States Court of Federal Claims for the recovery of his reasonable and entire compensation for such use and manufacture. Reasonable and entire compensation shall include the owner’s reasonable costs, including reasonable fees for expert witnesses and attorneys, in pursuing the action if the owner is an independent inventor, a nonprofit organization, or an entity that had no more than 500 employees at any time during the 5-year period preceding the use or manufacture of the patented invention by or for the United States. Nothwithstanding 1
+**(a)** Whenever an invention described in and covered by a patent of the United States is used or manufactured by or for the United States without license of the owner thereof or lawful right to use or manufacture the same, the owner’s remedy shall be by action against the United States in the United States Court of Federal Claims for the recovery of his reasonable and entire compensation for such use and manufacture. Reasonable and entire compensation shall include the owner’s reasonable costs, including reasonable fees for expert witnesses and attorneys, in pursuing the action if the owner is an independent inventor, a nonprofit organization, or an entity that had no more than 500 employees at any time during the 5-year period preceding the use or manufacture of the patented invention by or for the United States. Nothwithstanding 1
 
-<sup>1</sup>  So in original. Probably should be “Notwithstanding”.
+<sup>1</sup> So in original. Probably should be “Notwithstanding”.
 
 the preceding sentences, unless the action has been pending for more than 10 years from the time of filing to the time that the owner applies for such costs and fees, reasonable and entire compensation shall not include such costs and fees if the court finds that the position of the United States was substantially justified or that special circumstances make an award unjust.
 
@@ -441,7 +441,7 @@ Except as otherwise provided by law, no recovery shall be had for any infringeme
 
 **(e)** Subsections (b) and (c) of this section apply to exclusive rights in mask works under chapter 9 of title 17, and to exclusive rights in designs under chapter 13 of title 17, to the same extent as such subsections apply to copyrights.
 
-(June 25, 1948, ch. 646, 62 Stat. 941; May 24, 1949, ch. 139, § 87, 63 Stat. 102; Oct. 31, 1951, ch. 655, § 50(c), 65 Stat. 727; July 17, 1952, ch. 930, 66 Stat. 757; Pub. L. 86–726, §§ 1, 4, Sept. 8, 1960, 74 Stat. 855, 856; Pub. L. 91–577, title III, § 143(d), Dec. 24, 1970, 84 Stat. 1559; Pub. L. 94–553, title I, § 105(c), Oct. 19, 1976, 90 Stat. 2599; Pub. L. 97–164, title I, § 133(d), Apr. 2, 1982, 96 Stat. 40; Pub. L. 100–702, title X, § 1020(a)(6), Nov. 19, 1988, 102 Stat. 4671; Pub. L. 102–572, title IX, § 902(a), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–308, § 1(a), Oct. 19, 1996, 110 Stat. 3814; Pub. L. 105–147, § 3, Dec. 16, 1997, 111 Stat. 2680; Pub. L. 105–304, title V, § 503(d), Oct. 28, 1998, 112 Stat. 2917.)
+(June 25, 1948, ch. 646, 62 Stat. 941; May 24, 1949, ch. 139, § 87, 63 Stat. 102; Oct. 31, 1951, ch. 655, § 50(c), 65 Stat. 727; July 17, 1952, ch. 930, 66 Stat. 757; Pub. L. 86–726, §§ 1, 4, Sept. 8, 1960, 74 Stat. 855, 856; Pub. L. 91–577, title III, § 143(d), Dec. 24, 1970, 84 Stat. 1559; Pub. L. 94–553, title I, § 105(c), Oct. 19, 1976, 90 Stat. 2599; Pub. L. 97–164, title I, § 133(d), Apr. 2, 1982, 96 Stat. 40; Pub. L. 100–702, title X, § 1020(a)(6), Nov. 19, 1988, 102 Stat. 4671; Pub. L. 102–572, title IX, § 902(a), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–308, § 1(a), Oct. 19, 1996, 110 Stat. 3814; Pub. L. 105–147, § 3, Dec. 16, 1997, 111 Stat. 2680; Pub. L. 105–304, title V, § 503(d), Oct. 28, 1998, 112 Stat. 2917.)
 
 **Historical and Revision Notes**
 
@@ -469,29 +469,29 @@ Hereafter, referred to in subsec. (d), probably means after the date of enactmen
 
 **Amendments**
 
-1998—Subsec. (e). Pub. L. 105–304 inserted “, and to exclusive rights in designs under chapter 13 of title 17,” after “title 17”.
+1998—Subsec. (e). Pub. L. 105–304 inserted “, and to exclusive rights in designs under chapter 13 of title 17,” after “title 17”.
 
-1997—Subsec. (b). Pub. L. 105–147, § 3, substituted “action which may be brought for such infringement shall be an action by the copyright owner” for “remedy of the owner of such copyright shall be by action”.
+1997—Subsec. (b). Pub. L. 105–147, § 3, substituted “action which may be brought for such infringement shall be an action by the copyright owner” for “remedy of the owner of such copyright shall be by action”.
 
 1996—Subsec. (a). Pub. L. 104–308 inserted at end of first par. “Reasonable and entire compensation shall include the owner’s reasonable costs, including reasonable fees for expert witnesses and attorneys, in pursuing the action if the owner is an independent inventor, a nonprofit organization, or an entity that had no more than 500 employees at any time during the 5-year period preceding the use or manufacture of the patented invention by or for the United States. Nothwithstanding the preceding sentences, unless the action has been pending for more than 10 years from the time of filing to the time that the owner applies for such costs and fees, reasonable and entire compensation shall not include such costs and fees if the court finds that the position of the United States was substantially justified or that special circumstances make an award unjust.”
 
-1992—Subsec. (a). Pub. L. 102–572, § 902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1992—Subsec. (a). Pub. L. 102–572, § 902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-Subsecs. (b), (d). Pub. L. 102–572, § 902(a)(2), substituted “Court of Federal Claims” for “Claims Court”.
+Subsecs. (b), (d). Pub. L. 102–572, § 902(a)(2), substituted “Court of Federal Claims” for “Claims Court”.
 
 1988—Subsec. (e). Pub. L. 100–702 added subsec. (e).
 
-1982—Subsec. (a). Pub. L. 97–168, § 133(d)(1), substituted “United States Claims Court” for “Court of Claims”.
+1982—Subsec. (a). Pub. L. 97–168, § 133(d)(1), substituted “United States Claims Court” for “Court of Claims”.
 
-Subsecs. (b), (d). Pub. L. 97–164, § 133(d)(2), substituted “Claims Court” for “Court of Claims”.
+Subsecs. (b), (d). Pub. L. 97–164, § 133(d)(2), substituted “Claims Court” for “Court of Claims”.
 
 1976—Subsec. (b). Pub. L. 94–553 substituted “section 504(c) of title 17” for “section 101(b) of title 17”.
 
 1970—Subsec. (d). Pub. L. 91–577 added subsec. (d).
 
-1960—Pub. L. 86–726, § 4, substituted “Patent and copyright cases” for “Patent cases” in section catchline.
+1960—Pub. L. 86–726, § 4, substituted “Patent and copyright cases” for “Patent cases” in section catchline.
 
-Pub. L. 86–726, § 1, designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+Pub. L. 86–726, § 1, designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 1952—Act July 17, 1952, allowed Government employees to maintain patent suits against the United States in certain instances.
 
@@ -503,7 +503,7 @@ Pub. L. 86–726, § 1, designated existing provisions as subsec. (a) and adde
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–308, § 1(b), Oct. 19, 1996, 110 Stat. 3814, provided that: “The amendment made by subsection (a) [amending this section] shall apply to actions under section 1498(a) of title 28, United States Code, that are pending on, or brought on or after, the date of the enactment of this Act [Oct. 19, 1996].”
+Pub. L. 104–308, § 1(b), Oct. 19, 1996, 110 Stat. 3814, provided that: “The amendment made by subsection (a) [amending this section] shall apply to actions under section 1498(a) of title 28, United States Code, that are pending on, or brought on or after, the date of the enactment of this Act [Oct. 19, 1996].”
 
 **Effective Date of 1992 Amendment**
 
@@ -523,17 +523,17 @@ Amendment by Pub. L. 91–577 effective Dec. 24, 1970, see section 141 of Pub. L
 
 **Waiver of Immunity for Members of Congress**
 
-Pub. L. 86–726, § 2, Sept. 8, 1960, 74 Stat. 855, provided that: “Nothing in this Act [amending this section and section 2386 of Title 10, Armed Forces] shall be construed to in any way waive any immunity provided for Members of Congress under article I of section 6 of the Constitution of the United States.”
+Pub. L. 86–726, § 2, Sept. 8, 1960, 74 Stat. 855, provided that: “Nothing in this Act [amending this section and section 2386 of Title 10, Armed Forces] shall be construed to in any way waive any immunity provided for Members of Congress under article I of section 6 of the Constitution of the United States.”
 
-## § 1499. Liquidated damages withheld from contractors under chapter 37 of title 40
+## § 1499. Liquidated damages withheld from contractors under chapter 37 of title 40
 
 The United States Court of Federal Claims shall have jurisdiction to render judgment upon any claim for liquidated damages withheld from a contractor or subcontractor under section 3703 of title 40.
 
-(June 25, 1948, ch. 646, 62 Stat. 942; Pub. L. 87–581, title II, § 202(a), Aug. 13, 1962, 76 Stat. 360; Pub. L. 97–164, title I, § 133(e)(1), (2)(A), Apr. 2, 1982, 96 Stat. 40, 41; Pub. L. 101–650, title III, § 325(b)(7), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 107–217, § 3(g)(3), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 109–284, § 4(2), Sept. 27, 2006, 120 Stat. 1211.)
+(June 25, 1948, ch. 646, 62 Stat. 942; Pub. L. 87–581, title II, § 202(a), Aug. 13, 1962, 76 Stat. 360; Pub. L. 97–164, title I, § 133(e)(1), (2)(A), Apr. 2, 1982, 96 Stat. 40, 41; Pub. L. 101–650, title III, § 325(b)(7), Dec. 1, 1990, 104 Stat. 5121; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 107–217, § 3(g)(3), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 109–284, § 4(2), Sept. 27, 2006, 120 Stat. 1211.)
 
 **Historical and Revision Notes**
 
-Based on section 324 of title 40, U.S.C., 1940 ed., Public Buildings, Property and Works (June 19, 1912, ch. 174, § 1, 37 Stat. 137).
+Based on section 324 of title 40, U.S.C., 1940 ed., Public Buildings, Property and Works (June 19, 1912, ch. 174, § 1, 37 Stat. 137).
 
 This section contains only the jurisdictional provision in the last clause of section 324 of title 40, U.S.C., 1940 ed.
 
@@ -571,17 +571,17 @@ Amendment by Pub. L. 87–581 effective 60 days after Aug. 13, 1962, but shall n
 
 **Continued Jurisdiction Upon Claims Under Section 324 of Former Title 40**
 
-Pub. L. 87–581, title II, § 202(b), Aug. 13, 1962, 76 Stat. 360, provided that the Court of Claims (now United States Court of Federal Claims) was to continue to have jurisdiction to render judgment upon certain claims for a penalty withheld from a contractor or subcontractor under section 324 of former Title 40, Public Buildings, Property, and Works, in connection with any contract subject to that section existing on the date sixty days after Aug. 13, 1962, or thereafter entered into pursuant to invitations for bids that were outstanding on Aug. 13, 1962.
+Pub. L. 87–581, title II, § 202(b), Aug. 13, 1962, 76 Stat. 360, provided that the Court of Claims (now United States Court of Federal Claims) was to continue to have jurisdiction to render judgment upon certain claims for a penalty withheld from a contractor or subcontractor under section 324 of former Title 40, Public Buildings, Property, and Works, in connection with any contract subject to that section existing on the date sixty days after Aug. 13, 1962, or thereafter entered into pursuant to invitations for bids that were outstanding on Aug. 13, 1962.
 
-## § 1500. Pendency of claims in other courts
+## § 1500. Pendency of claims in other courts
 
 The United States Court of Federal Claims shall not have jurisdiction of any claim for or in respect to which the plaintiff or his assignee has pending in any other court any suit or process against the United States or any person who, at the time when the cause of action alleged in such suit or process arose, was, in respect thereto, acting or professing to act, directly or indirectly under the authority of the United States.
 
-(June 25, 1948, ch. 646, 62 Stat. 942; Pub. L. 97–164, title I, § 133(e)(1), Apr. 2, 1982, 96 Stat. 40; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 942; Pub. L. 97–164, title I, § 133(e)(1), Apr. 2, 1982, 96 Stat. 40; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 260 (Mar. 3, 1911, ch. 231, § 154, 36 Stat. 1138).
+Based on title 28, U.S.C., 1940 ed., § 260 (Mar. 3, 1911, ch. 231, § 154, 36 Stat. 1138).
 
 Words “or in the Supreme Court on appeal therefrom” were omitted as unnecessary.
 
@@ -605,15 +605,15 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 1501. Pensions
+## § 1501. Pensions
 
 The United States Court of Federal Claims shall not have jurisdiction of any claim for a pension.
 
-(June 25, 1948, ch. 646, 62 Stat. 942; Pub. L. 97–164, title I, § 133(e)(1), Apr. 2, 1982, 96 Stat. 40; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 942; Pub. L. 97–164, title I, § 133(e)(1), Apr. 2, 1982, 96 Stat. 40; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 250(1) (Mar. 3, 1911, ch. 231, § 145, 36 Stat. 1136).
+Based on title 28, U.S.C., 1940 ed., § 250(1) (Mar. 3, 1911, ch. 231, § 145, 36 Stat. 1136).
 
 Section constitutes the exception in section 250(1) of title 28, U.S.C., 1940 ed.
 
@@ -637,17 +637,17 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 1502. Treaty cases
+## § 1502. Treaty cases
 
 Except as otherwise provided by Act of Congress, the United States Court of Federal Claims shall not have jurisdiction of any claim against the United States growing out of or dependent upon any treaty entered into with foreign nations.
 
-(June 25, 1948, ch. 646, 62 Stat. 942; May 24, 1949, ch. 139, § 88, 63 Stat. 102; Pub. L. 97–164, title I, § 133(e)(1), Apr. 2, 1982, 96 Stat. 40; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 942; May 24, 1949, ch. 139, § 88, 63 Stat. 102; Pub. L. 97–164, title I, § 133(e)(1), Apr. 2, 1982, 96 Stat. 40; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 28, U.S.C., 1940 ed., § 259 (Mar. 3, 1911, ch. 231, § 153, 36 Stat. 1138).
+Based on title 28, U.S.C., 1940 ed., § 259 (Mar. 3, 1911, ch. 231, § 153, 36 Stat. 1138).
 
 Phrase “Except as otherwise provided by enactment of Congress” was inserted to cover cases where special Acts confer jurisdiction. (See *Sioux Tribe of Indians v. United States*, 1943, 97 Ct.Cl. 613, certiorari denied 63 S.Ct. 992, 318 U.S. 789, 87 L.Ed. 1155, and *In re United States*, 1873, 17 Wall. 439, 443, 21 L.Ed. 696.)
 
@@ -657,7 +657,7 @@ Changes in phraseology were made.
 
 **1949 Act**
 
-This section, in amending section 1502 of title 28, U.S.C., conforms with the provisions of act of August 13, 1946 (ch. 959, § 25, 60 Stat. 1056), which affected section 153 of the Judicial Code of 1911 by striking therefrom the words “or with Indian tribes.” Such section 153 of the Judicial Code was the source of such section 1502.
+This section, in amending section 1502 of title 28, U.S.C., conforms with the provisions of act of August 13, 1946 (ch. 959, § 25, 60 Stat. 1056), which affected section 153 of the Judicial Code of 1911 by striking therefrom the words “or with Indian tribes.” Such section 153 of the Judicial Code was the source of such section 1502.
 
 **Editorial Notes**
 
@@ -679,15 +679,15 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 1503. Set-offs
+## § 1503. Set-offs
 
 The United States Court of Federal Claims shall have jurisdiction to render judgment upon any set-off or demand by the United States against any plaintiff in such court.
 
-(June 25, 1948, ch. 646, 62 Stat. 942; Pub. L. 97–164, title I, § 133(e)(1), Apr. 2, 1982, 96 Stat. 40; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 942; Pub. L. 97–164, title I, § 133(e)(1), Apr. 2, 1982, 96 Stat. 40; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 250(2) (Mar. 3, 1911, ch. 231, § 145, 36 Stat. 1136).
+Based on title 28, U.S.C., 1940 ed., § 250(2) (Mar. 3, 1911, ch. 231, § 145, 36 Stat. 1136).
 
 The second subsection of section 250 of title 28, U.S.C., 1940 ed., is incorporated in this section. The proviso, relating to suits for fees due officers of the United States, has been incorporated in section 2501 of this title.
 
@@ -711,7 +711,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## [§ 1504. Repealed. Pub. L. 97–164, title I, § 133(f), Apr. 2, 1982, 96 Stat. 41]
+## [§ 1504. Repealed. Pub. L. 97–164, title I, § 133(f), Apr. 2, 1982, 96 Stat. 41]
 
 Section, act June 25, 1948, ch. 646, 62 Stat. 942, directed that the Court of Claims have jurisdiction to review by appeal final judgments in the district courts in civil actions based on tort claims brought under section 1346(b) of this title if the notice of appeal filed in the district court had affixed to it a written consent on behalf of the appellees that the appeal be taken to the Court of Claims.
 
@@ -721,17 +721,17 @@ Section, act June 25, 1948, ch. 646, 62 Stat. 942, directed that the Court of Cl
 
 Repeal effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as an Effective Date of 1982 Amendment note under section 171 of this title.
 
-## § 1505. Indian claims
+## § 1505. Indian claims
 
 The United States Court of Federal Claims shall have jurisdiction of any claim against the United States accruing after August 13, 1946, in favor of any tribe, band, or other identifiable group of American Indians residing within the territorial limits of the United States or Alaska whenever such claim is one arising under the Constitution, laws or treaties of the United States, or Executive orders of the President, or is one which otherwise would be cognizable in the Court of Federal Claims if the claimant were not an Indian tribe, band or group.
 
-(Added May 24, 1949, ch. 139, § 89(a), 63 Stat. 102; amended Pub. L. 97–164, title I, § 133(g), Apr. 2, 1982, 96 Stat. 41; Pub. L. 102–572, title IX, § 902(a), Oct. 29, 1992, 106 Stat. 4516.)
+(Added May 24, 1949, ch. 139, § 89(a), 63 Stat. 102; amended Pub. L. 97–164, title I, § 133(g), Apr. 2, 1982, 96 Stat. 41; Pub. L. 102–572, title IX, § 902(a), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
 **1949 Act**
 
-Section 1505 is added to title 28, U.S.C., by this amendment to incorporate the act of August 13, 1946 (ch. 959, § 24, 60 Stat. 1055), which was originally classified to title 28, U.S.C., but was later transferred to title 25 of such code. Since such section 24 deals with jurisdiction of the Court of Claims it should be in title 28.
+Section 1505 is added to title 28, U.S.C., by this amendment to incorporate the act of August 13, 1946 (ch. 959, § 24, 60 Stat. 1055), which was originally classified to title 28, U.S.C., but was later transferred to title 25 of such code. Since such section 24 deals with jurisdiction of the Court of Claims it should be in title 28.
 
 This amendatory section omits as surplusage all provisions of said section 24 except the first sentence, as being fully covered by the express provisions of sections 1503 and 2501 and other provisions of chapter 165 of title 28, U.S.C., relating to Court of Claims procedure.
 
@@ -757,9 +757,9 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## [§ 1506. Repealed. Pub. L. 97–164, title I, § 133(h), Apr. 2, 1982, 96 Stat. 41]
+## [§ 1506. Repealed. Pub. L. 97–164, title I, § 133(h), Apr. 2, 1982, 96 Stat. 41]
 
-Section, added Pub. L. 86–770, § 2(a), Sept. 13, 1960, 74 Stat. 912, provided that if a case within the exclusive jurisdiction of the district courts was filed in the Court of Claims, the Court of Claims, if it were in the interest of justice, had to transfer such case to any district court in which it could have been brought at the time such case was filed, where the case would proceed as if it had been filed in the district court on the date it was filed in the Court of Claims.
+Section, added Pub. L. 86–770, § 2(a), Sept. 13, 1960, 74 Stat. 912, provided that if a case within the exclusive jurisdiction of the district courts was filed in the Court of Claims, the Court of Claims, if it were in the interest of justice, had to transfer such case to any district court in which it could have been brought at the time such case was filed, where the case would proceed as if it had been filed in the district court on the date it was filed in the Court of Claims.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -767,11 +767,11 @@ Section, added Pub. L. 86–770, § 2(a), Sept. 13, 1960, 74 Stat. 912, provid
 
 Repeal effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as an Effective Date of 1982 Amendment note under section 171 of this title.
 
-## § 1507. Jurisdiction for certain declaratory judgments
+## § 1507. Jurisdiction for certain declaratory judgments
 
 The United States Court of Federal Claims shall have jurisdiction to hear any suit for and issue a declaratory judgment under section 7428 of the Internal Revenue Code of 1986.
 
-(Added Pub. L. 94–455, title XIII, § 1306(b)(9)(A), Oct. 4, 1976, 90 Stat. 1720; amended Pub. L. 97–164, title I, § 133(i), Apr. 2, 1982, 96 Stat. 41; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Added Pub. L. 94–455, title XIII, § 1306(b)(9)(A), Oct. 4, 1976, 90 Stat. 1720; amended Pub. L. 97–164, title I, § 133(i), Apr. 2, 1982, 96 Stat. 41; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Editorial Notes**
 
@@ -801,17 +801,17 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 Section applicable with respect to pleadings filed with the United States Tax Court, the district court of the United States for the District of Columbia, or the United States Court of Claims more than 6 months after Oct. 4, 1976, but only with respect to determinations (or requests for determinations) made after Jan. 1, 1976, see section 1306(c) of Pub. L. 94–455, set out as a note under section 7428 of Title 26, Internal Revenue Code.
 
-## § 1508. Jurisdiction for certain partnership proceedings
+## § 1508. Jurisdiction for certain partnership proceedings
 
 The Court of Federal Claims shall have jurisdiction to hear and to render judgment upon any petition under section 6226 or 6228(a) of the Internal Revenue Code of 1986.
 
-(Added Pub. L. 97–248, title IV, § 402(c)(18)(A), Sept. 3, 1982, 96 Stat. 669; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–572, title IX, § 902(a)(2), Oct. 29, 1992, 106 Stat. 4516.)
+(Added Pub. L. 97–248, title IV, § 402(c)(18)(A), Sept. 3, 1982, 96 Stat. 669; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–572, title IX, § 902(a)(2), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 6226 and 6228(a) of the Internal Revenue Code of 1986, referred to in text, are classified to sections 6226 and 6228(a) of Title 26, Internal Revenue Code. Section 6226 of Title 26 was repealed and reenacted by Pub. L. 114–74, title XI, § 1101(a), (c)(1), Nov. 2, 2015, 129 Stat. 625, 630, and as so reenacted no longer relates to judicial review, see section 6234 of Title 26. Section 6228 was repealed by Pub. L. 114–74, title XI, § 1101(a), Nov. 2, 2015, 129 Stat. 625.
+Sections 6226 and 6228(a) of the Internal Revenue Code of 1986, referred to in text, are classified to sections 6226 and 6228(a) of Title 26, Internal Revenue Code. Section 6226 of Title 26 was repealed and reenacted by Pub. L. 114–74, title XI, § 1101(a), (c)(1), Nov. 2, 2015, 129 Stat. 625, 630, and as so reenacted no longer relates to judicial review, see section 6234 of Title 26. Section 6228 was repealed by Pub. L. 114–74, title XI, § 1101(a), Nov. 2, 2015, 129 Stat. 625.
 
 **Amendments**
 
@@ -829,11 +829,11 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Section applicable to partnership taxable years beginning after Sept. 3, 1982, with provision for the applicability of this section to any partnership taxable year ending after Sept. 3, 1982, if the partnership, each partner, and each indirect partner requests such application and the Secretary of the Treasury or his delegate consents to such application, see section 407(a)(1), (3) of Pub. L. 97–248, set out as a note under section 702 of Title 26, Internal Revenue Code.
 
-## § 1509. No jurisdiction in cases involving refunds of tax shelter promoter and understatement penalties
+## § 1509. No jurisdiction in cases involving refunds of tax shelter promoter and understatement penalties
 
 The United States Court of Federal Claims shall not have jurisdiction to hear any action or proceeding for any refund or credit of any penalty imposed under section 6700 of the Internal Revenue Code of 1986 (relating to penalty for promoting abusive tax shelters, etc.) or section 6701 of such Code (relating to penalties for aiding and abetting understatement of tax liability).
 
-(Added Pub. L. 98–369, div. A, title VII, § 714(g)(2), July 18, 1984, 98 Stat. 962; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Added Pub. L. 98–369, div. A, title VII, § 714(g)(2), July 18, 1984, 98 Stat. 962; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Editorial Notes**
 
@@ -855,4 +855,4 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 **Effective Date**
 
-Pub. L. 98–369, div. A, title VII, § 714(g)(4), July 18, 1984, 98 Stat. 962, provided that: “The amendments made by this subsection [enacting this section and amending section 7422 of Title 26, Internal Revenue Code] shall apply to any claim for refund or credit filed after the date of the enactment of this Act [July 18, 1984].”
+Pub. L. 98–369, div. A, title VII, § 714(g)(4), July 18, 1984, 98 Stat. 962, provided that: “The amendments made by this subsection [enacting this section and amending section 7422 of Title 26, Internal Revenue Code] shall apply to any claim for refund or credit filed after the date of the enactment of this Act [July 18, 1984].”

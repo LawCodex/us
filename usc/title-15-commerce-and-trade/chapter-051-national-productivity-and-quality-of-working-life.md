@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—FINDINGS, PURPOSE, AND POLICY; DEFINITIONS
 
-### § 2401. Congressional findings
+### § 2401. Congressional findings
 
 The Congress finds that—
 
@@ -57,13 +57,13 @@ The Congress finds that—
 
 **(18)** there is a national need to gather and disseminate information about methods and techniques to improve productivity.
 
-(Pub. L. 94–136, title I, § 101, Nov. 28, 1975, 89 Stat. 733.)
+(Pub. L. 94–136, title I, § 101, Nov. 28, 1975, 89 Stat. 733.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 94–136, § 1, Nov. 28, 1975, 89 Stat. 733, provided: “That this Act [enacting this chapter, repealing section 1026 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘National Productivity And Quality of Working Life Act of 1975’.”
+Pub. L. 94–136, § 1, Nov. 28, 1975, 89 Stat. 733, provided: “That this Act [enacting this chapter, repealing section 1026 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘National Productivity And Quality of Working Life Act of 1975’.”
 
 **White House Conference on Productivity**
 
@@ -73,13 +73,13 @@ Pub. L. 97–367, Oct. 25, 1982, 96 Stat. 1761, required the President to conduc
 
 **Executive Order No. 12089**
 
-Ex. Ord. No. 12089, Oct. 23, 1978, 43 F.R. 49773, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, which established the National Productivity Council and provided for its membership, functions, etc. was revoked by Ex. Ord. No. 12379, § 16, Aug. 17, 1982, 47 F.R. 36099, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
+Ex. Ord. No. 12089, Oct. 23, 1978, 43 F.R. 49773, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, which established the National Productivity Council and provided for its membership, functions, etc. was revoked by Ex. Ord. No. 12379, § 16, Aug. 17, 1982, 47 F.R. 36099, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 **Executive Order No. 12332**
 
 Ex. Ord. No. 12332, Nov. 10, 1981, 46 F.R. 55913, which established the National Productivity Advisory Committee, and provided for its membership, functions, etc. and was extended until Sept. 30, 1984, by Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, was revoked by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
-### § 2402. Congressional statement of purpose
+### § 2402. Congressional statement of purpose
 
 It is the purpose of this chapter—
 
@@ -87,9 +87,9 @@ It is the purpose of this chapter—
 
 **(2)** to establish as an independent establishment of the executive branch a National Center for Productivity and Quality of Working Life to focus, coordinate, and promote efforts to improve the rate of productivity growth.
 
-(Pub. L. 94–136, title I, § 102, Nov. 28, 1975, 89 Stat. 734.)
+(Pub. L. 94–136, title I, § 102, Nov. 28, 1975, 89 Stat. 734.)
 
-### § 2403. Congressional declaration of policy
+### § 2403. Congressional declaration of policy
 
 **(a) Stimulation of high rate of productivity growth**
 
@@ -103,9 +103,9 @@ It is the continuing responsibility of the Federal Government to use all practic
 
 The laws, rules, regulations, and policies of the United States shall be so interpreted as to give full force and effect to this policy.
 
-(Pub. L. 94–136, title I, § 103, Nov. 28, 1975, 89 Stat. 734.)
+(Pub. L. 94–136, title I, § 103, Nov. 28, 1975, 89 Stat. 734.)
 
-### § 2404. Definitions
+### § 2404. Definitions
 
 For the purposes of this chapter—
 
@@ -117,17 +117,17 @@ For the purposes of this chapter—
 
 **(4)** the term “quality of working life” shall be interpreted to mean the conditions of work relating to the role of the worker in the production process.
 
-(Pub. L. 94–136, title I, § 104, Nov. 28, 1975, 89 Stat. 735.)
+(Pub. L. 94–136, title I, § 104, Nov. 28, 1975, 89 Stat. 735.)
 
 ## SUBCHAPTER II—NATIONAL CENTER FOR PRODUCTIVITY AND QUALITY OF WORKING LIFE
 
-### § 2411. Establishment
+### § 2411. Establishment
 
 There is hereby established as an independent establishment of the executive branch of the Government the National Center for Productivity and Quality of Working Life.
 
-(Pub. L. 94–136, title II, § 201, Nov. 28, 1975, 89 Stat. 735.)
+(Pub. L. 94–136, title II, § 201, Nov. 28, 1975, 89 Stat. 735.)
 
-### § 2412. Board of Directors
+### § 2412. Board of Directors
 
 **(a) Membership** The Center shall have a Board of Directors, to be comprised of not more than twenty-seven members, as follows:
 
@@ -181,15 +181,15 @@ Any member appointed to fill a vacancy occurring before the expiration of the te
 
 **(2)** The Executive Committee of the Board shall meet at the call of the Chairman, but in no case less frequently than once every ninety days.
 
-(Pub. L. 94–136, title II, § 202, Nov. 28, 1975, 89 Stat. 735.)
+(Pub. L. 94–136, title II, § 202, Nov. 28, 1975, 89 Stat. 735.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### § 2413. Executive Director and Deputy Director
+### § 2413. Executive Director and Deputy Director
 
 **(a) Appointment of Executive Director; term of temporary Executive Director**
 
@@ -207,9 +207,9 @@ The Executive Director shall be responsible for the exercise of all powers and t
 
 The Executive Director shall be compensated at a rate not to exceed that provided for Executive level IV under section 5315 of title 5 as determined by the President, and shall have no other employment, public or private, during the tenure of his appointment.
 
-(Pub. L. 94–136, title II, § 203, Nov. 28, 1975, 89 Stat. 736.)
+(Pub. L. 94–136, title II, § 203, Nov. 28, 1975, 89 Stat. 736.)
 
-### § 2414. Functions of the Center
+### § 2414. Functions of the Center
 
 The Center shall—
 
@@ -263,15 +263,15 @@ in efforts to improve the rate of productivity growth in all sectors of the Nati
 
 **(15)** study the effects of materials availability upon productivity growth.
 
-(Pub. L. 94–136, title II, § 204, Nov. 28, 1975, 89 Stat. 737; 1978 Reorg. Plan No. 2, § 102, 43 F.R. 36037, 92 Stat. 3783.)
+(Pub. L. 94–136, title II, § 204, Nov. 28, 1975, 89 Stat. 737; 1978 Reorg. Plan No. 2, § 102, 43 F.R. 36037, 92 Stat. 3783.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in par. (4)(D) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in par. (4)(D) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
-### § 2415. Powers of the Center
+### § 2415. Powers of the Center
 
 In carrying out its functions, the Center is authorized—
 
@@ -285,9 +285,9 @@ In carrying out its functions, the Center is authorized—
 
 **(5)** to undertake such other studies, reviews, activities, and to make such recommendations and reports as may be required to carry out the functions of the Center.
 
-(Pub. L. 94–136, title II, § 205, Nov. 28, 1975, 89 Stat. 739.)
+(Pub. L. 94–136, title II, § 205, Nov. 28, 1975, 89 Stat. 739.)
 
-### § 2416. Contracts and other funding arrangements
+### § 2416. Contracts and other funding arrangements
 
 **(a) Qualification of contracts or arrangements** No contracts or other funding arrangements may be entered into under this chapter unless—
 
@@ -305,9 +305,9 @@ No contract or other funding arrangement shall be made or entered into pursuant 
 
 Any non-Federal share of a project may be in cash or in kind, fairly evaluated, including, but not limited to, plant, equipment, or services.
 
-(Pub. L. 94–136, title II, § 206, Nov. 28, 1975, 89 Stat. 739.)
+(Pub. L. 94–136, title II, § 206, Nov. 28, 1975, 89 Stat. 739.)
 
-### § 2417. Criteria for participating parties
+### § 2417. Criteria for participating parties
 
 **(a) Establishment of criteria by regulation**
 
@@ -321,9 +321,9 @@ If the Center determines, on the basis of information available to it during any
 
 The Center shall by regulation prescribe the basic criteria for determination of noncompliance by participating parties including appropriate provisions for notice and hearing with respect to such determination.
 
-(Pub. L. 94–136, title II, § 207, Nov. 28, 1975, 89 Stat. 739.)
+(Pub. L. 94–136, title II, § 207, Nov. 28, 1975, 89 Stat. 739.)
 
-### § 2418. Annual report
+### § 2418. Annual report
 
 **(a) Contents**
 
@@ -333,11 +333,11 @@ Not later than December 31 of each year, the Center shall report to the Presiden
 
 Each report required to be submitted to the Congress by this chapter shall be referred to the standing committee or committees having jurisdiction over any part of the subject matter of the report.
 
-(Pub. L. 94–136, title II, § 208, Nov. 28, 1975, 89 Stat. 740.)
+(Pub. L. 94–136, title II, § 208, Nov. 28, 1975, 89 Stat. 740.)
 
 ## SUBCHAPTER III—FEDERAL AGENCY COORDINATION AND LIAISON WITH CENTER
 
-### § 2431. Liaison with Center
+### § 2431. Liaison with Center
 
 **(a) Designee**
 
@@ -351,35 +351,35 @@ Each department, agency, and independent establishment of the Federal Government
 
 Each Federal department, agency, and independent establishment of the Federal Government is authorized and directed to furnish or allow access to all relevant materials and information required by the Center to carry out its functions under this chapter.
 
-(Pub. L. 94–136, title III, § 301, Nov. 28, 1975, 89 Stat. 740.)
+(Pub. L. 94–136, title III, § 301, Nov. 28, 1975, 89 Stat. 740.)
 
-### § 2432. Internal review
+### § 2432. Internal review
 
 Each department, agency, and independent establishment of the Federal Government, in coordination with the Center, shall study and review the promulgation and implementation of its statutory authority, policies, and regulations, and shall identify such statutes, policies, and regulations which adversely affect productivity growth in the public or private sectors of the United States, or those which impede the efficient functioning of the Nation’s economy, and shall recommend to the President and the Congress, or implement where appropriate, alternative statutes, policies, and regulations which will contribute to the achievement of the purposes of this chapter.
 
-(Pub. L. 94–136, title III, § 302, Nov. 28, 1975, 89 Stat. 740.)
+(Pub. L. 94–136, title III, § 302, Nov. 28, 1975, 89 Stat. 740.)
 
-### § 2433. Support of external activities
+### § 2433. Support of external activities
 
 Each department, agency, and independent establishment of the Federal Government, in coordination with the Center, shall, to the extent appropriate, make available to State and local governments, labor organizations, industry, public institutions, and other qualified organizations advice, information, and support, including financial and other assistance, designed to maintain, promote, and enhance sustained productivity growth in the public and private sectors of the United States.
 
-(Pub. L. 94–136, title III, § 303, Nov. 28, 1975, 89 Stat. 741.)
+(Pub. L. 94–136, title III, § 303, Nov. 28, 1975, 89 Stat. 741.)
 
-### § 2434. Internal productivity
+### § 2434. Internal productivity
 
 Each department, agency, and independent establishment of the Federal Government shall identify, develop, initiate, and support appropriate programs, systems, procedures, policies, and techniques to improve the productivity of such departments and agencies, including the implementation, where desirable, of specific programs recommended, supported, or implemented by the Center.
 
-(Pub. L. 94–136, title III, § 304, Nov. 28, 1975, 89 Stat. 741.)
+(Pub. L. 94–136, title III, § 304, Nov. 28, 1975, 89 Stat. 741.)
 
-### § 2435. Other statutory obligations
+### § 2435. Other statutory obligations
 
 Nothing in this subchapter affects any specific statutory obligation of any Federal agency (1) to coordinate or consult with any other Federal or State agency or (2) to act, or to refrain from acting, contingent upon the recommendations or certification of any other Federal or State agency.
 
-(Pub. L. 94–136, title III, § 305, Nov. 28, 1975, 89 Stat. 741.)
+(Pub. L. 94–136, title III, § 305, Nov. 28, 1975, 89 Stat. 741.)
 
 ## SUBCHAPTER IV—ADMINISTRATIVE PROVISIONS
 
-### § 2451. Authority of Executive Director
+### § 2451. Authority of Executive Director
 
 The Executive Director is authorized to—
 
@@ -401,23 +401,23 @@ The Executive Director is authorized to—
 
 **(9)** make advances, progress, and other payments deemed necessary under this chapter without regard to the provisions of section 3324(a) and (b) of title 31.
 
-(Pub. L. 94–136, title IV, § 401, Nov. 28, 1975, 89 Stat. 741.)
+(Pub. L. 94–136, title IV, § 401, Nov. 28, 1975, 89 Stat. 741.)
 
 **Editorial Notes**
 
 **Codification**
 
-In par. (9), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes, as amended (21 [31] U.S.C. 529)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In par. (9), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes, as amended (21 [31] U.S.C. 529)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Statutory Notes and Related Subsidiaries**
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 ## SUBCHAPTER V—EVALUATION BY COMPTROLLER GENERAL
 
-### § 2461. Audit, review, and evaluation
+### § 2461. Audit, review, and evaluation
 
 **(a) Audit, etc., by Comptroller General**
 
@@ -431,12 +431,12 @@ The Comptroller General of the United States shall audit, review, and evaluate t
 
 **(3)** recommendations concerning any legislation he deems necessary, and the reasons therefor, for improving the implementation of the objectives of this chapter as set forth in section 2402 of this title.
 
-(Pub. L. 94–136, title V, § 501, Nov. 28, 1975, 89 Stat. 742.)
+(Pub. L. 94–136, title V, § 501, Nov. 28, 1975, 89 Stat. 742.)
 
 ## SUBCHAPTER VI—AUTHORIZATION OF APPROPRIATIONS
 
-### § 2471. Authorization of appropriations
+### § 2471. Authorization of appropriations
 
 There are authorized to be appropriated to carry out the purposes of this chapter, not to exceed $6,250,000 for the fiscal year ending June 30, 1976, and the subsequent transition period ending September 30, 1976; not to exceed $5,000,000 for the fiscal year ending September 30, 1977; and not to exceed $5,000,000 for the fiscal year ending September 30, 1978. Funds appropriated for any fiscal year shall remain available for obligation until expended.
 
-(Pub. L. 94–136, title VII, § 701, Nov. 28, 1975, 89 Stat. 743.)
+(Pub. L. 94–136, title VII, § 701, Nov. 28, 1975, 89 Stat. 743.)

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 50—CONSUMER PRODUCT WARRANTIES
 
-## § 2301. Definitions
+## § 2301. Definitions
 
 For the purposes of this chapter:
 
@@ -67,7 +67,7 @@ except that the warrantor may not elect refund unless (i) the warrantor is unabl
 
 **(15)** The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Canal Zone, or American Samoa. The term “State law” includes a law of the United States applicable only to the District of Columbia or only to a territory or possession of the United States; and the term “Federal law” excludes any State law.
 
-(Pub. L. 93–637, title I, § 101, Jan. 4, 1975, 88 Stat. 2183.)
+(Pub. L. 93–637, title I, § 101, Jan. 4, 1975, 88 Stat. 2183.)
 
 **Editorial Notes**
 
@@ -79,13 +79,13 @@ For definition of Canal Zone, referred to in par. (15), see section 3602(b) of T
 
 **Short Title of 2015 Amendment**
 
-Pub. L. 114–51, § 1, Sept. 24, 2015, 129 Stat. 494, provided that: “This Act [amending section 2302 of this title and enacting provisions set out as notes under section 2302 of this title] may be cited as the ‘E-Warranty Act of 2015’.”
+Pub. L. 114–51, § 1, Sept. 24, 2015, 129 Stat. 494, provided that: “This Act [amending section 2302 of this title and enacting provisions set out as notes under section 2302 of this title] may be cited as the ‘E-Warranty Act of 2015’.”
 
 **Short Title**
 
-Pub. L. 93–637, § 1, Jan. 4, 1975, 88 Stat. 2183, provided: “That this act [enacting this chapter and sections 57a to 57c of this title, amending sections 45, 46, 49, 50, 52, 56, and 58 of this title, and enacting provisions set out as notes under sections 45, 56, 57a, and 57b of this title] may be cited as the ‘Magnuson-Moss Warranty—Federal Trade Commission Improvement Act’.”
+Pub. L. 93–637, § 1, Jan. 4, 1975, 88 Stat. 2183, provided: “That this act [enacting this chapter and sections 57a to 57c of this title, amending sections 45, 46, 49, 50, 52, 56, and 58 of this title, and enacting provisions set out as notes under sections 45, 56, 57a, and 57b of this title] may be cited as the ‘Magnuson-Moss Warranty—Federal Trade Commission Improvement Act’.”
 
-## § 2302. Rules governing contents of warranties
+## § 2302. Rules governing contents of warranties
 
 **(a) Full and conspicuous disclosure of terms and conditions; additional requirements for contents** In order to improve the adequacy of information available to consumers, prevent deception, and improve competition in the marketing of consumer products, any warrantor warranting a consumer product to a consumer by means of a written warranty shall, to the extent required by rules of the Commission, fully and conspicuously disclose in simple and readily understood language the terms and conditions of such warranty. Such rules may require inclusion in the written warranty of any of the following items among others:
 
@@ -157,7 +157,7 @@ The Commission may by rule devise detailed substantive warranty provisions which
 
 The provisions of this section apply only to warranties which pertain to consumer products actually costing the consumer more than $5.
 
-(Pub. L. 93–637, title I, § 102, Jan. 4, 1975, 88 Stat. 2185; Pub. L. 114–51, § 3(a), Sept. 24, 2015, 129 Stat. 494.)
+(Pub. L. 93–637, title I, § 102, Jan. 4, 1975, 88 Stat. 2185; Pub. L. 114–51, § 3(a), Sept. 24, 2015, 129 Stat. 494.)
 
 **Editorial Notes**
 
@@ -169,7 +169,7 @@ The provisions of this section apply only to warranties which pertain to consume
 
 **Findings**
 
-Pub. L. 114–51, § 2, Sept. 24, 2015, 129 Stat. 494, provided that:
+Pub. L. 114–51, § 2, Sept. 24, 2015, 129 Stat. 494, provided that:
 
 > “Congress makes the following findings:
 
@@ -181,13 +181,13 @@ Pub. L. 114–51, § 2, Sept. 24, 2015, 129 Stat. 494, provided that:
 
 **Revision of Rules**
 
-Pub. L. 114–51, § 3(b), Sept. 24, 2015, 129 Stat. 495, provided that:
+Pub. L. 114–51, § 3(b), Sept. 24, 2015, 129 Stat. 495, provided that:
 
 > **“(1) In general.—** Not later than 1 year after the date of the enactment of this Act [Sept. 24, 2015], the Federal Trade Commission shall revise the rules prescribed under such section [meaning section 102(b) of Pub. L. 93–637, which is classified to subsec. (b) of this section] to comply with the requirements of paragraph (4) of such section, as added by subsection (a) of this section [amending this section].
 
 > **“(2) Authority to waive requirement for oral presentation.—** In revising rules under paragraph (1), the Federal Trade Commission may waive the requirement of section 109(a) of such Act (15 U.S.C. 2309(a)) to give interested persons an opportunity for oral presentation if the Commission determines that giving interested persons such opportunity would interfere with the ability of the Commission to revise rules under paragraph (1) in a timely manner.”
 
-## § 2303. Designation of written warranties
+## § 2303. Designation of written warranties
 
 **(a) Full (statement of duration) or limited warranty** Any warrantor warranting a consumer product by means of a written warranty shall clearly and conspicuously designate such warranty in the following manner, unless exempted from doing so by the Commission pursuant to subsection (c) of this section:
 
@@ -207,9 +207,9 @@ In addition to exercising the authority pertaining to disclosure granted in sect
 
 The provisions of subsections (a) and (c) of this section apply only to warranties which pertain to consumer products actually costing the consumer more than $10 and which are not designated “full (statement of duration) warranties”.
 
-(Pub. L. 93–637, title I, § 103, Jan. 4, 1975, 88 Stat. 2187.)
+(Pub. L. 93–637, title I, § 103, Jan. 4, 1975, 88 Stat. 2187.)
 
-## § 2304. Federal minimum standards for warranties
+## § 2304. Federal minimum standards for warranties
 
 **(a) Remedies under written warranty; duration of implied warranty; exclusion or limitation on consequential damages for breach of written or implied warranty; election of refund or replacement** In order for a warrantor warranting a consumer product by means of a written warranty to meet the Federal minimum standards for warranty—
 
@@ -243,29 +243,29 @@ For purposes of this section and of section 2302(c) of this title, the term “w
 
 If a supplier designates a warranty applicable to a consumer product as a “full (statement of duration)” warranty, then the warranty on such product shall, for purposes of any action under section 2310(d) of this title or under any State law, be deemed to incorporate at least the minimum requirements of this section and rules prescribed under this section.
 
-(Pub. L. 93–637, title I, § 104, Jan. 4, 1975, 88 Stat. 2187.)
+(Pub. L. 93–637, title I, § 104, Jan. 4, 1975, 88 Stat. 2187.)
 
-## § 2305. Full and limited warranting of a consumer product
+## § 2305. Full and limited warranting of a consumer product
 
 Nothing in this chapter shall prohibit the selling of a consumer product which has both full and limited warranties if such warranties are clearly and conspicuously differentiated.
 
-(Pub. L. 93–637, title I, § 105, Jan. 4, 1975, 88 Stat. 2188.)
+(Pub. L. 93–637, title I, § 105, Jan. 4, 1975, 88 Stat. 2188.)
 
-## § 2306. Service contracts; rules for full, clear and conspicuous disclosure of terms and conditions; addition to or in lieu of written warranty
+## § 2306. Service contracts; rules for full, clear and conspicuous disclosure of terms and conditions; addition to or in lieu of written warranty
 
 **(a)** The Commission may prescribe by rule the manner and form in which the terms and conditions of service contracts shall be fully, clearly, and conspicuously disclosed.
 
 **(b)** Nothing in this chapter shall be construed to prevent a supplier or warrantor from entering into a service contract with the consumer in addition to or in lieu of a written warranty if such contract fully, clearly, and conspicuously discloses its terms and conditions in simple and readily understood language.
 
-(Pub. L. 93–637, title I, § 106, Jan. 4, 1975, 88 Stat. 2188.)
+(Pub. L. 93–637, title I, § 106, Jan. 4, 1975, 88 Stat. 2188.)
 
-## § 2307. Designation of representatives by warrantor to perform duties under written or implied warranty
+## § 2307. Designation of representatives by warrantor to perform duties under written or implied warranty
 
 Nothing in this chapter shall be construed to prevent any warrantor from designating representatives to perform duties under the written or implied warranty: *Provided*, That such warrantor shall make reasonable arrangements for compensation of such designated representatives, but no such designation shall relieve the warrantor of his direct responsibilities to the consumer or make the representative a cowarrantor.
 
-(Pub. L. 93–637, title I, § 107, Jan. 4, 1975, 88 Stat. 2189.)
+(Pub. L. 93–637, title I, § 107, Jan. 4, 1975, 88 Stat. 2189.)
 
-## § 2308. Implied warranties
+## § 2308. Implied warranties
 
 **(a) Restrictions on disclaimers or modifications**
 
@@ -279,9 +279,9 @@ For purposes of this chapter (other than section 2304(a)(2) of this title), impl
 
 A disclaimer, modification, or limitation made in violation of this section shall be ineffective for purposes of this chapter and State law.
 
-(Pub. L. 93–637, title I, § 108, Jan. 4, 1975, 88 Stat. 2189.)
+(Pub. L. 93–637, title I, § 108, Jan. 4, 1975, 88 Stat. 2189.)
 
-## § 2309. Procedures applicable to promulgation of rules by Commission
+## § 2309. Procedures applicable to promulgation of rules by Commission
 
 **(a) Oral presentation**
 
@@ -291,9 +291,9 @@ Any rule prescribed under this chapter shall be prescribed in accordance with se
 
 The Commission shall initiate within one year after January 4, 1975, a rulemaking proceeding dealing with warranties and warranty practices in connection with the sale of used motor vehicles; and, to the extent necessary to supplement the protections offered the consumer by this chapter, shall prescribe rules dealing with such warranties and practices. In prescribing rules under this subsection, the Commission may exercise any authority it may have under this chapter, or other law, and in addition it may require disclosure that a used motor vehicle is sold without any warranty and specify the form and content of such disclosure.
 
-(Pub. L. 93–637, title I, § 109, Jan. 4, 1975, 88 Stat. 2189.)
+(Pub. L. 93–637, title I, § 109, Jan. 4, 1975, 88 Stat. 2189.)
 
-## § 2310. Remedies in consumer disputes
+## § 2310. Remedies in consumer disputes
 
 **(a) Informal dispute settlement procedures; establishment; rules setting forth minimum requirements; effect of compliance by warrantor; review of informal procedures or implementation by Commission; application to existing informal procedures**
 
@@ -351,7 +351,7 @@ No action (other than a class action or an action respecting a warranty to which
 
 For purposes of this section, only the warrantor actually making a written affirmation of fact, promise, or undertaking shall be deemed to have created a written warranty, and any rights arising thereunder may be enforced under this section only against such warrantor and no other person.
 
-(Pub. L. 93–637, title I, § 110, Jan. 4, 1975, 88 Stat. 2189.)
+(Pub. L. 93–637, title I, § 110, Jan. 4, 1975, 88 Stat. 2189.)
 
 **Editorial Notes**
 
@@ -359,7 +359,7 @@ For purposes of this section, only the warrantor actually making a written affir
 
 Rule 23 of the Federal Rules of Civil Procedure, referred to in subsecs. (a)(3) and (e), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-## § 2311. Applicability to other laws
+## § 2311. Applicability to other laws
 
 **(a) Federal Trade Commission Act and Federal Seed Act**
 
@@ -391,19 +391,19 @@ shall not be applicable to written warranties complying with such sections (or r
 
 This chapter (other than section 2302(c) of this title) shall be inapplicable to any written warranty the making or content of which is otherwise governed by Federal law. If only a portion of a written warranty is so governed by Federal law, the remaining portion shall be subject to this chapter.
 
-(Pub. L. 93–637, title I, § 111, Jan. 4, 1975, 88 Stat. 2192.)
+(Pub. L. 93–637, title I, § 111, Jan. 4, 1975, 88 Stat. 2192.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in subsec. (a)(1), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (a)(1), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 The Antitrust Acts, referred to in subsec. (a)(1), are defined in section 44 of this title.
 
-The Federal Seed Act, referred to in subsec. (a)(2), is act Aug. 9, 1939, ch. 615, 53 Stat. 1275, which is classified generally to chapter 37 (§ 1551 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1551 of Title 7 and Tables.
+The Federal Seed Act, referred to in subsec. (a)(2), is act Aug. 9, 1939, ch. 615, 53 Stat. 1275, which is classified generally to chapter 37 (§ 1551 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1551 of Title 7 and Tables.
 
-## § 2312. Effective dates
+## § 2312. Effective dates
 
 **(a) Effective date of chapter**
 
@@ -417,4 +417,4 @@ Section 2302(a) of this title shall take effect 6 months after the final publica
 
 The Commission shall promulgate rules for initial implementation of this chapter as soon as possible after January 4, 1975, but in no event later than one year after such date.
 
-(Pub. L. 93–637, title I, § 112, Jan. 4, 1975, 88 Stat. 2192.)
+(Pub. L. 93–637, title I, § 112, Jan. 4, 1975, 88 Stat. 2192.)

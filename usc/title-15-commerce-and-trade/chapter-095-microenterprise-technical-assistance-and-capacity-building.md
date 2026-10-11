@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 95—MICROENTERPRISE TECHNICAL ASSISTANCE AND CAPACITY BUILDING PROGRAM
 
-## § 6901. Definitions
+## § 6901. Definitions
 
 For purposes of this chapter, the following definitions shall apply:
 
@@ -77,21 +77,21 @@ The term “training and technical assistance” means services and support prov
 
 The term “very low-income person” means having an income, adjusted for family size, of not more than 150 percent of the poverty line (as defined in section 9902(2) of title 42, including any revision required by that section).
 
-(Pub. L. 103–325, title I, § 172, as added Pub. L. 106–102, title VII, § 725, Nov. 12, 1999, 113 Stat. 1472.)
+(Pub. L. 103–325, title I, § 172, as added Pub. L. 106–102, title VII, § 725, Nov. 12, 1999, 113 Stat. 1472.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 103–325, title I, § 171, as added by Pub. L. 106–102, title VII, § 725, Nov. 12, 1999, 113 Stat. 1471, provided that: “This subtitle [subtitle C (§§ 171–181) of title I of Pub. L. 103–325, as added by Pub. L. 106–102, enacting this chapter] may be cited as the ‘Program for Investment in Microentrepreneurs Act of 1999’, also referred to as the ‘PRIME Act’.”
+Pub. L. 103–325, title I, § 171, as added by Pub. L. 106–102, title VII, § 725, Nov. 12, 1999, 113 Stat. 1471, provided that: “This subtitle [subtitle C (§§ 171–181) of title I of Pub. L. 103–325, as added by Pub. L. 106–102, enacting this chapter] may be cited as the ‘Program for Investment in Microentrepreneurs Act of 1999’, also referred to as the ‘PRIME Act’.”
 
-## § 6902. Establishment of program
+## § 6902. Establishment of program
 
 The Administrator shall establish a microenterprise technical assistance and capacity building grant program to provide assistance from the Administration in the form of grants to qualified organizations in accordance with this chapter.
 
-(Pub. L. 103–325, title I, § 173, as added Pub. L. 106–102, title VII, § 725, Nov. 12, 1999, 113 Stat. 1473.)
+(Pub. L. 103–325, title I, § 173, as added Pub. L. 106–102, title VII, § 725, Nov. 12, 1999, 113 Stat. 1473.)
 
-## § 6903. Uses of assistance
+## § 6903. Uses of assistance
 
 A qualified organization shall use grants made under this chapter—
 
@@ -103,9 +103,9 @@ A qualified organization shall use grants made under this chapter—
 
 **(4)** for such other activities as the Administrator determines are consistent with the purposes of this chapter.
 
-(Pub. L. 103–325, title I, § 174, as added Pub. L. 106–102, title VII, § 725, Nov. 12, 1999, 113 Stat. 1473.)
+(Pub. L. 103–325, title I, § 174, as added Pub. L. 106–102, title VII, § 725, Nov. 12, 1999, 113 Stat. 1473.)
 
-## § 6904. Qualified organizations
+## § 6904. Qualified organizations
 
 For purposes of eligibility for assistance under this chapter, a qualified organization shall be—
 
@@ -117,9 +117,9 @@ For purposes of eligibility for assistance under this chapter, a qualified organ
 
 **(4)** an Indian tribe acting on its own, if the Indian tribe can certify that no private organization or program referred to in this paragraph exists within its jurisdiction.
 
-(Pub. L. 103–325, title I, § 175, as added Pub. L. 106–102, title VII, § 725, Nov. 12, 1999, 113 Stat. 1473.)
+(Pub. L. 103–325, title I, § 175, as added Pub. L. 106–102, title VII, § 725, Nov. 12, 1999, 113 Stat. 1473.)
 
-## § 6905. Allocation of assistance; subgrants
+## § 6905. Allocation of assistance; subgrants
 
 **(a) Allocation of assistance**
 
@@ -155,9 +155,9 @@ In making grants under this chapter, the Administrator shall ensure that grant r
 
 In making grants under this chapter, the Administrator shall ensure that any application made by a qualified organization that is a participant in the program established under section 636(m) of this title does not receive preferential consideration over applications from other qualified organizations that are not participants in such program.
 
-(Pub. L. 103–325, title I, § 176, as added Pub. L. 106–102, title VII, § 725, Nov. 12, 1999, 113 Stat. 1473.)
+(Pub. L. 103–325, title I, § 176, as added Pub. L. 106–102, title VII, § 725, Nov. 12, 1999, 113 Stat. 1473.)
 
-## § 6906. Matching requirements
+## § 6906. Matching requirements
 
 **(a) In general**
 
@@ -177,31 +177,31 @@ In the case of an applicant for assistance under this chapter with severe constr
 
 Not more than 10 percent of the total funds made available from the Administration in any fiscal year to carry out this chapter may be excepted from the matching requirements of subsection (a), as authorized by paragraph (1) of this subsection.
 
-(Pub. L. 103–325, title I, § 177, as added Pub. L. 106–102, title VII, § 725, Nov. 12, 1999, 113 Stat. 1474.)
+(Pub. L. 103–325, title I, § 177, as added Pub. L. 106–102, title VII, § 725, Nov. 12, 1999, 113 Stat. 1474.)
 
-## § 6907. Applications for assistance
+## § 6907. Applications for assistance
 
 An application for assistance under this chapter shall be submitted in such form and in accordance with such procedures as the Administrator shall establish.
 
-(Pub. L. 103–325, title I, § 178, as added Pub. L. 106–102, title VII, § 725, Nov. 12, 1999, 113 Stat. 1474.)
+(Pub. L. 103–325, title I, § 178, as added Pub. L. 106–102, title VII, § 725, Nov. 12, 1999, 113 Stat. 1474.)
 
-## § 6908. Recordkeeping
+## § 6908. Recordkeeping
 
 The requirements of section 4714 of title 12 shall apply to a qualified organization receiving assistance from the Administration under this chapter as if it were a community development financial institution receiving assistance from the Fund under subtitle A.
 
-(Pub. L. 103–325, title I, § 179, as added Pub. L. 106–102, title VII, § 725, Nov. 12, 1999, 113 Stat. 1474.)
+(Pub. L. 103–325, title I, § 179, as added Pub. L. 106–102, title VII, § 725, Nov. 12, 1999, 113 Stat. 1474.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subtitle A, referred to in text, is subtitle A (§§ 101–121) of title I of Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2163, known as the Community Development Banking and Financial Institutions Act of 1994, which is classified principally to subchapter I (§ 4701 et seq.) of chapter 47 of Title 12, Banks and Banking. For complete classification of subtitle A to the Code, see Short Title note set out under section 4701 of Title 12 and Tables.
+Subtitle A, referred to in text, is subtitle A (§§ 101–121) of title I of Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2163, known as the Community Development Banking and Financial Institutions Act of 1994, which is classified principally to subchapter I (§ 4701 et seq.) of chapter 47 of Title 12, Banks and Banking. For complete classification of subtitle A to the Code, see Short Title note set out under section 4701 of Title 12 and Tables.
 
-## § 6909. Authorization
+## § 6909. Authorization
 
 In addition to funds otherwise authorized to be appropriated to the Fund to carry out this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 there are authorized to be appropriated to the Administrator to carry out this chapter—
 
@@ -213,16 +213,16 @@ there are authorized to be appropriated to the Administrator to carry out this c
 
 **(4)** $15,000,000 for fiscal year 2003.
 
-(Pub. L. 103–325, title I, § 180, as added Pub. L. 106–102, title VII, § 725, Nov. 12, 1999, 113 Stat. 1474.)
+(Pub. L. 103–325, title I, § 180, as added Pub. L. 106–102, title VII, § 725, Nov. 12, 1999, 113 Stat. 1474.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This title, referred to in text, is title I of Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2163. Subtitle A (§§ 101–121) of title I, known as the Community Development Banking and Financial Institutions Act of 1994, is classified principally to subchapter I (§ 4701 et seq.) of chapter 47 of Title 12, Banks and Banking. Subtitle B (§§ 151–158) of title I, known as the Home Ownership and Equity Protection Act of 1994, enacted sections 1639 and 1648 of this title, amended sections 1602, 1604, 1610, 1640, 1641, and 1647 of this title, and enacted provisions set out as notes under sections 1601 and 1602 of this title. Subtitle C (§§ 171–181) of title I, known as the Program for Investment in Microentrepreneurs Act of 1999 or PRIME Act, is classified generally to this chapter. For complete classification of title I of Pub. L. 103–325 to the Code, see Tables.
+This title, referred to in text, is title I of Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2163. Subtitle A (§§ 101–121) of title I, known as the Community Development Banking and Financial Institutions Act of 1994, is classified principally to subchapter I (§ 4701 et seq.) of chapter 47 of Title 12, Banks and Banking. Subtitle B (§§ 151–158) of title I, known as the Home Ownership and Equity Protection Act of 1994, enacted sections 1639 and 1648 of this title, amended sections 1602, 1604, 1610, 1640, 1641, and 1647 of this title, and enacted provisions set out as notes under sections 1601 and 1602 of this title. Subtitle C (§§ 171–181) of title I, known as the Program for Investment in Microentrepreneurs Act of 1999 or PRIME Act, is classified generally to this chapter. For complete classification of title I of Pub. L. 103–325 to the Code, see Tables.
 
-## § 6910. Implementation
+## § 6910. Implementation
 
 The Administrator shall, by regulation, establish such requirements as may be necessary to carry out this chapter.
 
-(Pub. L. 103–325, title I, § 181, as added Pub. L. 106–102, title VII, § 725, Nov. 12, 1999, 113 Stat. 1475.)
+(Pub. L. 103–325, title I, § 181, as added Pub. L. 106–102, title VII, § 725, Nov. 12, 1999, 113 Stat. 1475.)

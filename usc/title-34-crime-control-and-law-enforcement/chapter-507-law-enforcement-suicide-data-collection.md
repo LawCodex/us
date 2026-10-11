@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 507—LAW ENFORCEMENT SUICIDE DATA COLLECTION
 
-## § 50701. Information on suicide in law enforcement
+## § 50701. Information on suicide in law enforcement
 
 **(a) Establishment** Not later than 1 year after June 16, 2020, the Attorney General, acting through the Director of the Federal Bureau of Investigation, shall establish, for the purpose of preventing future law enforcement suicides and promoting understanding of suicide in law enforcement, the Law Enforcement Officers Suicide Data Collection Program, under which law enforcement agencies may submit to the Director information on suicides and attempted suicides within such law enforcement agencies, including information on—
 
@@ -49,7 +49,7 @@ The report described under subsection (c) may not include any personally identif
 
 **(3)** the term “State” means each of the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Pub. L. 116–143, § 2, June 16, 2020, 134 Stat. 644.)
+(Pub. L. 116–143, § 2, June 16, 2020, 134 Stat. 644.)
 
 **Statutory Notes and Related Subsidiaries**
 

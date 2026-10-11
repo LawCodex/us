@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Construction of Petroleum Pipe Lines**
 
-Act July 30, 1941, ch. 333, 55 Stat. 610, as amended June 30, 1943, ch. 180, 57 Stat. 270; June 8, 1945, ch. 177, 59 Stat. 233; July 25, 1947, ch. 327, § 1, 61 Stat. 449, related to the construction of pipe lines for the transportation and/or distribution of petroleum or petroleum products moving in interstate commerce, or the extension or completion of any such pipe lines already wholly or partly constructed, that might be necessary for national-defense purposes. Section 9 of Act July 30, 1941, provided that neither the President, any department or agency of the Government nor any person shall exercise any of the powers conferred by sections 2, 3, 4, or 6 of Act July 30, 1941, after June 30, 1946, and in no case shall any pipe line constructed, extended or completed under authority of section 4 be operated or maintained by or under the direction or control of the President or any department or agency of the Government after the expiration of one year after the termination of the unlimited national emergency proclaimed on May 27, 1941. Joint Res. July 25, 1947, ch. 327, § 3, 61 Stat. 451, provided that in the interpretation of Act July 30, 1941, the date July 25, 1947, shall be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergency proclaimed by the President on May 27, 1941.
+Act July 30, 1941, ch. 333, 55 Stat. 610, as amended June 30, 1943, ch. 180, 57 Stat. 270; June 8, 1945, ch. 177, 59 Stat. 233; July 25, 1947, ch. 327, § 1, 61 Stat. 449, related to the construction of pipe lines for the transportation and/or distribution of petroleum or petroleum products moving in interstate commerce, or the extension or completion of any such pipe lines already wholly or partly constructed, that might be necessary for national-defense purposes. Section 9 of Act July 30, 1941, provided that neither the President, any department or agency of the Government nor any person shall exercise any of the powers conferred by sections 2, 3, 4, or 6 of Act July 30, 1941, after June 30, 1946, and in no case shall any pipe line constructed, extended or completed under authority of section 4 be operated or maintained by or under the direction or control of the President or any department or agency of the Government after the expiration of one year after the termination of the unlimited national emergency proclaimed on May 27, 1941. Joint Res. July 25, 1947, ch. 327, § 3, 61 Stat. 451, provided that in the interpretation of Act July 30, 1941, the date July 25, 1947, shall be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergency proclaimed by the President on May 27, 1941.
 
 **National Defense Pipe Lines Authorized by Act**
 
-Construction of one or more national defense pipe lines from Port Saint Joe, and other points on the Gulf Coast of Florida to the Saint Johns River, Florida, and a crude-oil pipe line from Yazoo, Mississippi, to Charleston, South Carolina and/or Savannah, Georgia, was authorized by act July 23, 1942, ch. 520, § 1, 56 Stat. 703, as amended June 17, 1943, ch. 127, 57 Stat. 156.
+Construction of one or more national defense pipe lines from Port Saint Joe, and other points on the Gulf Coast of Florida to the Saint Johns River, Florida, and a crude-oil pipe line from Yazoo, Mississippi, to Charleston, South Carolina and/or Savannah, Georgia, was authorized by act July 23, 1942, ch. 520, § 1, 56 Stat. 703, as amended June 17, 1943, ch. 127, 57 Stat. 156.
 
 **Executive Documents**
 
@@ -37,11 +37,11 @@ Construction of a national defense pipe line from Port Saint Joe, Florida, to Ch
 
 Construction of a national defense pipe line from El Dorado, Arkansas, to Helena, Arkansas, by the Project Five Pipe Line Corporation, was authorized by Proc. No. 2567, Aug. 28, 1942, 7 F.R. 6839, 56 Stat. 1975.
 
-## § 715. Purpose of chapter
+## § 715. Purpose of chapter
 
 It is declared to be the policy of Congress to protect interstate and foreign commerce from the diversion and obstruction of, and the burden and harmful effect upon, such commerce caused by contraband oil as herein defined, and to encourage the conservation of deposits of crude oil situated within the United States.
 
-(Feb. 22, 1935, ch. 18, § 1, 49 Stat. 30.)
+(Feb. 22, 1935, ch. 18, § 1, 49 Stat. 30.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -49,7 +49,7 @@ It is declared to be the policy of Congress to protect interstate and foreign co
 
 Act Feb. 22, 1935, which is classified to this chapter, is popularly known as the “Hot Oil Act” and also as the “Connally Hot Oil Act”.
 
-## § 715a. Definitions
+## § 715a. Definitions
 
 As used in this chapter—
 
@@ -61,7 +61,7 @@ As used in this chapter—
 
 **(4)** The term “person” includes an individual, partnership, corporation, or joint-stock company,
 
-(Feb. 22, 1935, ch. 18, § 2, 49 Stat. 30; Pub. L. 89–644, Oct. 13, 1966, 80 Stat. 890.)
+(Feb. 22, 1935, ch. 18, § 2, 49 Stat. 30; Pub. L. 89–644, Oct. 13, 1966, 80 Stat. 890.)
 
 **Editorial Notes**
 
@@ -69,19 +69,19 @@ As used in this chapter—
 
 1966—Pub. L. 89–644 inserted provisions in par. (1) exempting petroleum or any of its constituent parts, title to which has been acquired by a State pursuant to its laws.
 
-## § 715b. Interstate transportation of contraband oil forbidden
+## § 715b. Interstate transportation of contraband oil forbidden
 
 The shipment or transportation in interstate commerce from any State of contraband oil produced in such State is prohibited. For the purposes of this section contraband oil shall not be deemed to have been produced in a State if none of the petroleum constituting such contraband oil, or from which it was produced or derived, was produced, transported, or withdrawn from storage in excess of the amounts permitted to be produced, transported, or withdrawn from storage under the laws of such State or under any regulation or order prescribed thereunder by any board, commission, officer, or other duly authorized agency of such State.
 
-(Feb. 22, 1935, ch. 18, § 3, 49 Stat. 31.)
+(Feb. 22, 1935, ch. 18, § 3, 49 Stat. 31.)
 
-## § 715c. Suspension of operation of section 715b of this title
+## § 715c. Suspension of operation of section 715b of this title
 
 Whenever the President finds that the amount of petroleum and petroleum products moving in interstate commerce is so limited as to be the cause, in whole or in part, of a lack of parity between supply (including imports and reasonable withdrawals from storage) and consumptive demand (including exports and reasonable additions to storage) resulting in an undue burden on or restriction of interstate commerce in petroleum and petroleum products, he shall by proclamation declare such finding, and thereupon the provisions of section 715b of this title shall be inoperative until such time as the President shall find and by proclamation declare that the conditions which gave rise to the suspension of the operation of the provisions of such section no longer exist. If any provision of this section or the application thereof shall be held to be invalid, the validity of application of section 715b of this title shall not be affected thereby.
 
-(Feb. 22, 1935, ch. 18, § 4, 49 Stat. 31.)
+(Feb. 22, 1935, ch. 18, § 4, 49 Stat. 31.)
 
-## § 715d. Enforcement of chapter
+## § 715d. Enforcement of chapter
 
 **(a) Rules and regulations**
 
@@ -95,7 +95,7 @@ Whenever the President finds it necessary or appropriate for the enforcement of 
 
 Any person whose application for a certificate of clearance is denied may obtain a review of the order denying such application in the United States District Court for the district wherein the board is sitting by filing in such court within thirty days after the entry of such order a written petition praying that the order of the board be modified or set aside, in whole or in part. A copy of such petition shall be forthwith served upon the board, and thereupon the board shall certify and file in the court a transcript of the record upon which the order complained of was entered. Upon the filing of such transcript, such court shall have jurisdiction to affirm, modify, or set aside such order, in whole or in part. No objection to the order of the board shall be considered by the court unless such objection shall have been urged before the board. The finding of the board as to the facts, if supported by evidence, shall be conclusive. The judgment and decree of the court shall be final, subject to review as provided in sections 1254, 1291, and 1292 of title 28.
 
-(Feb. 22, 1935, ch. 18, § 5, 49 Stat. 31.)
+(Feb. 22, 1935, ch. 18, § 5, 49 Stat. 31.)
 
 **Editorial Notes**
 
@@ -103,13 +103,13 @@ Any person whose application for a certificate of clearance is denied may obtain
 
 In subsec. (c), “sections 1254, 1291, and 1292 of title 28” substituted for “sections 128 and 240 of the Judicial Code, as amended [28 U.S.C. 225 and 347]” on authority of act June 25, 1948, ch. 646, 62 Stat. 869, the first section of which enacted Title 28, Judiciary and Judicial Procedure.
 
-## § 715e. Penalties for violation of chapter
+## § 715e. Penalties for violation of chapter
 
 Any person knowingly violating any provision of this chapter or any regulation prescribed thereunder shall upon conviction be punished by a fine of not to exceed $2,000 or by imprisonment for not to exceed six months, or by both such fine and imprisonment.
 
-(Feb. 22, 1935, ch. 18, § 6, 49 Stat. 32.)
+(Feb. 22, 1935, ch. 18, § 6, 49 Stat. 32.)
 
-## § 715f. Forfeiture of contraband oil shipped in violation of law; procedure
+## § 715f. Forfeiture of contraband oil shipped in violation of law; procedure
 
 **(a) Seizure procedure; return of contraband oil**
 
@@ -119,15 +119,15 @@ Contraband oil shipped or transported in interstate commerce in violation of the
 
 No such forfeiture shall be made in the case of contraband oil owned by any person (other than a person shipping such contraband oil in violation of the provisions of this chapter) who has with respect to such contraband oil a certificate of clearance which on its face appears to be valid and to have been issued by a board created under authority of section 715d of this title, certifying that the shipment in question is not contraband oil, and such person had no reasonable ground for believing such certificate to be invalid or to have been issued as a result of fraud or misrepresentation of fact.
 
-(Feb. 22, 1935, ch. 18, § 7, 49 Stat. 32.)
+(Feb. 22, 1935, ch. 18, § 7, 49 Stat. 32.)
 
-## § 715g. Refusal of carrier to accept shipment without certificate of clearance; certificate as justifying acceptance of shipment
+## § 715g. Refusal of carrier to accept shipment without certificate of clearance; certificate as justifying acceptance of shipment
 
 No common carrier who shall refuse to accept petroleum or petroleum products from any area in which certificates of clearance are required under authority of this chapter, by reason of the failure of the shipper to deliver such a certificate to such carrier, or who shall refuse to accept any petroleum or petroleum products when having reasonable ground for believing that such petroleum or petroleum products constitute contraband oil, shall be liable on account of such refusal for any penalties or damages. No common carrier shall be subject to any penalty under section 715e of this title in any case where (1) such carrier has a certificate of clearance which on its face appears to be valid and to have been issued by a board created under authority of section 715d of this title, certifying that the shipment in question is not contraband oil, and such carrier had no reasonable ground for believing such certificate to be invalid or to have been issued as a result of fraud or misrepresentation of fact, or (2) such carrier, as respects any shipment originating in any area where certificates of clearance are not required under authority of this chapter, had no reasonable ground for believing such petroleum or petroleum products to constitute contraband oil.
 
-(Feb. 22, 1935, ch. 18, § 8, 49 Stat. 32.)
+(Feb. 22, 1935, ch. 18, § 8, 49 Stat. 32.)
 
-## § 715h. Hearings and investigation by boards; appointment of board and employees
+## § 715h. Hearings and investigation by boards; appointment of board and employees
 
 **(a) Hearings**
 
@@ -137,15 +137,15 @@ Any board established under authority of section 715d of this title, and any age
 
 The members of any board established under authority of section 715d of this title shall be appointed by the President, subject to chapter 51 and subchapter III of chapter 53 of title 5; and any such board may appoint, subject to chapter 51 and subchapter III of chapter 53 of title 5, such employees as may be necessary for the execution of its functions under this chapter.
 
-(Feb. 22, 1935, ch. 18, § 9, 49 Stat. 33; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972.)
+(Feb. 22, 1935, ch. 18, § 9, 49 Stat. 33; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972.)
 
 **Editorial Notes**
 
 **Codification**
 
-Provisions of subsec. (b) that authorized appointments “without regard to the civil service laws” omitted as obsolete and superseded. Such appointments are now subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order 8743, Apr. 23, 1941, issued by the President pursuant to the Act of Nov. 26, 1940, ch. 919, title I, § 1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5, Government Organization and Employees.
+Provisions of subsec. (b) that authorized appointments “without regard to the civil service laws” omitted as obsolete and superseded. Such appointments are now subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order 8743, Apr. 23, 1941, issued by the President pursuant to the Act of Nov. 26, 1940, ch. 919, title I, § 1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5, Government Organization and Employees.
 
-“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in subsec. (b) for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
+“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in subsec. (b) for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
 
 **Amendments**
 
@@ -155,9 +155,9 @@ Provisions of subsec. (b) that authorized appointments “without regard to the 
 
 **Repeals**
 
-Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
+Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
-## § 715i. Restraining violations
+## § 715i. Restraining violations
 
 **(a) Mandatory injunction upon application of President**
 
@@ -171,7 +171,7 @@ Whenever it shall appear to the President that any person is engaged or about to
 
 The United States District Courts shall have exclusive jurisdiction of violations of this chapter or the regulations thereunder, and of all suits in equity and actions at law brought to enforce any liability or duty created by, or to enjoin any violation of, this chapter or the regulations thereunder. Any criminal proceeding may be brought in the district wherein any act or transaction constituting the violation occurred. Any suit or action to enforce any liability or duty created by this chapter or regulations thereunder, or to enjoin any violation of this chapter or any regulations thereunder, may be brought in any such district or in the district wherein the defendant is found or is an inhabitant or transacts business, and process in such cases may be served in any other district of which the defendant is an inhabitant or wherever the defendant may be found. Judgments and decrees so rendered shall be subject to review as provided in sections 1254, 1291, and 1292 of title 28.
 
-(Feb. 22, 1935, ch. 18, § 10, 49 Stat. 33.)
+(Feb. 22, 1935, ch. 18, § 10, 49 Stat. 33.)
 
 **Editorial Notes**
 
@@ -179,11 +179,11 @@ The United States District Courts shall have exclusive jurisdiction of violation
 
 In subsec. (c), “sections 1254, 1291, and 1292 of title 28” substituted for “sections 128 and 240 of the Judicial Code, as amended [28 U.S.C. 225 and 347]” on authority of act June 25, 1948, ch. 646, 62 Stat. 869, the first section of which enacted Title 28, Judiciary and Judicial Procedure.
 
-## § 715j. “President” as including agencies, officers and employees
+## § 715j. “President” as including agencies, officers and employees
 
 Wherever reference is made in this chapter to the President such reference shall be held to include, in addition to the President, any agency, officer, or employee who may be designated by the President for the execution of any of the powers and functions vested in the President under this chapter.
 
-(Feb. 22, 1935, ch. 18, § 11, 49 Stat. 33.)
+(Feb. 22, 1935, ch. 18, § 11, 49 Stat. 33.)
 
 **Executive Documents**
 
@@ -205,21 +205,21 @@ Sec. 3. This Executive order supersedes Executive Order No. 6979 of February 28,
 
 Dwight D. Eisenhower.
 
-## § 715k. Saving clause
+## § 715k. Saving clause
 
 If any provision of this chapter, or the application thereof to any person or circumstance, shall be held invalid, the validity of the remainder of the chapter and the application of such provision to other persons or circumstances shall not be affected thereby.
 
-(Feb. 22, 1935, ch. 18, § 12, 49 Stat. 33.)
+(Feb. 22, 1935, ch. 18, § 12, 49 Stat. 33.)
 
-## § 715l. Repealed. June 22, 1942, ch. 436, 56 Stat. 381
+## § 715l. Repealed. June 22, 1942, ch. 436, 56 Stat. 381
 
-Section, acts Feb. 22, 1935, ch. 18, § 13, 49 Stat. 33; June 14, 1937, ch. 335, 50 Stat. 257; June 29, 1939, ch. 250, 53 Stat. 927, provided for expiration of this chapter on June 30, 1942.
+Section, acts Feb. 22, 1935, ch. 18, § 13, 49 Stat. 33; June 14, 1937, ch. 335, 50 Stat. 257; June 29, 1939, ch. 250, 53 Stat. 927, provided for expiration of this chapter on June 30, 1942.
 
-## § 715m. Cooperation between Secretary of the Interior and Federal and State authorities
+## § 715m. Cooperation between Secretary of the Interior and Federal and State authorities
 
 The Secretary of the Interior, in carrying out the Act of February 22, 1935, as amended (15 U.S.C., ch. 15A), is authorized to cooperate with Federal and State authorities.
 
-(June 25, 1946, ch. 472, § 3, 60 Stat. 307.)
+(June 25, 1946, ch. 472, § 3, 60 Stat. 307.)
 
 **Editorial Notes**
 

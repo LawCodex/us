@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 52—WATER INFRASTRUCTURE FINANCE AND INNOVATION
 
-## § 3901. Definitions
+## § 3901. Definitions
 
 In this chapter:
 
@@ -87,7 +87,7 @@ The term “secured loan” means a direct loan or other debt obligation issued 
 
 The term “State infrastructure financing authority” means the State entity established or designated by the Governor of a State to receive a capitalization grant provided by, or otherwise carry out the requirements of, title VI of the Federal Water Pollution Control Act (33 U.S.C. 1381 et.1
 
-<sup>1</sup>  So in original. The period probably should not appear.
+<sup>1</sup> So in original. The period probably should not appear.
 
 seq.) or section 300j–12 of title 42.
 
@@ -103,29 +103,29 @@ The term “substantial completion”, with respect to a project, means the earl
 
 The term “treatment works” has the meaning given the term in section 212 of the Federal Water Pollution Control Act (33 U.S.C. 1292).
 
-(Pub. L. 113–121, title V, § 5022, June 10, 2014, 128 Stat. 1332.)
+(Pub. L. 113–121, title V, § 5022, June 10, 2014, 128 Stat. 1332.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Act of 1933, referred to in par. (5)(A), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in par. (5)(A), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
-The Federal Water Pollution Control Act, referred to in par. (12), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. Title VI of the Act is classified generally to subchapter VI (§ 1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, referred to in par. (12), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. Title VI of the Act is classified generally to subchapter VI (§ 1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
-The Federal Credit Reform Act of 1990, referred to in par. (13), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
+The Federal Credit Reform Act of 1990, referred to in par. (13), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 113–121, title V, § 5021, June 10, 2014, 128 Stat. 1332, provided that: “This subtitle [subtitle C (§§ 5021–5035) of title V of Pub. L. 113–121, enacting this chapter] may be cited as the ‘Water Infrastructure Finance and Innovation Act of 2014’.”
+Pub. L. 113–121, title V, § 5021, June 10, 2014, 128 Stat. 1332, provided that: “This subtitle [subtitle C (§§ 5021–5035) of title V of Pub. L. 113–121, enacting this chapter] may be cited as the ‘Water Infrastructure Finance and Innovation Act of 2014’.”
 
 **“Secretary” Defined**
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-## § 3902. Authority to provide assistance
+## § 3902. Authority to provide assistance
 
 **(a) In general**
 
@@ -145,23 +145,23 @@ The Administrator shall provide financial assistance to carry out all projects u
 
 The Secretary or the Administrator, as applicable, may carry out eligible projects under paragraph (8) or (10) of section 3905 of this title.
 
-(Pub. L. 113–121, title V, § 5023, June 10, 2014, 128 Stat. 1333; Pub. L. 114–322, title IV, § 5008(a), (b)(2)(A), Dec. 16, 2016, 130 Stat. 1896, 1897; Pub. L. 115–270, title IV, § 4201(a)(1), Oct. 23, 2018, 132 Stat. 3877.)
+(Pub. L. 113–121, title V, § 5023, June 10, 2014, 128 Stat. 1333; Pub. L. 114–322, title IV, § 5008(a), (b)(2)(A), Dec. 16, 2016, 130 Stat. 1896, 1897; Pub. L. 115–270, title IV, § 4201(a)(1), Oct. 23, 2018, 132 Stat. 3877.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–270, § 4201(a)(1)(A), struck out “pilot” before “projects”.
+2018—Subsec. (a). Pub. L. 115–270, § 4201(a)(1)(A), struck out “pilot” before “projects”.
 
-Subsec. (b)(1). Pub. L. 115–270, § 4201(a)(1), substituted “provide financial assistance to carry out all projects” for “carry out all pilot projects”.
+Subsec. (b)(1). Pub. L. 115–270, § 4201(a)(1), substituted “provide financial assistance to carry out all projects” for “carry out all pilot projects”.
 
-Subsec. (b)(2). Pub. L. 115–270, § 4201(a)(1)(A), struck out “pilot” after “all”.
+Subsec. (b)(2). Pub. L. 115–270, § 4201(a)(1)(A), struck out “pilot” after “all”.
 
-2016—Subsec. (b)(2). Pub. L. 114–322, § 5008(b)(2)(A)(i), substituted “(7), and (9)” for “and (8)”.
+2016—Subsec. (b)(2). Pub. L. 114–322, § 5008(b)(2)(A)(i), substituted “(7), and (9)” for “and (8)”.
 
-Pub. L. 114–322, § 5008(a), substituted “provide financial assistance to carry out” for “carry out”.
+Pub. L. 114–322, § 5008(a), substituted “provide financial assistance to carry out” for “carry out”.
 
-Subsec. (b)(3). Pub. L. 114–322, § 5008(b)(2)(A)(ii), substituted “paragraph (8) or (10)” for “paragraph (7) or (9)”.
+Subsec. (b)(3). Pub. L. 114–322, § 5008(b)(2)(A)(ii), substituted “paragraph (8) or (10)” for “paragraph (7) or (9)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -173,7 +173,7 @@ Pub. L. 119–74, div. B, title I, Jan. 23, 2026, 140 Stat. 66, provided in part
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-## § 3903. Applications
+## § 3903. Applications
 
 **(a) In general**
 
@@ -183,7 +183,7 @@ To receive assistance under this chapter, an eligible entity shall submit to the
 
 In the case of an eligible project described in paragraph (9) or (10) of section 3905 of this title, the Secretary or the Administrator, as applicable, shall require the eligible entity to submit a single application for the combined group of projects.
 
-(Pub. L. 113–121, title V, § 5024, June 10, 2014, 128 Stat. 1333; Pub. L. 114–322, title IV, § 5008(b)(2)(B), Dec. 16, 2016, 130 Stat. 1897.)
+(Pub. L. 113–121, title V, § 5024, June 10, 2014, 128 Stat. 1333; Pub. L. 114–322, title IV, § 5008(b)(2)(B), Dec. 16, 2016, 130 Stat. 1897.)
 
 **Editorial Notes**
 
@@ -197,7 +197,7 @@ In the case of an eligible project described in paragraph (9) or (10) of section
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-## § 3904. Eligible entities
+## § 3904. Eligible entities
 
 The following entities are eligible to receive assistance under this chapter:
 
@@ -215,9 +215,9 @@ The following entities are eligible to receive assistance under this chapter:
 
 **(7)** A State infrastructure financing authority.
 
-(Pub. L. 113–121, title V, § 5025, June 10, 2014, 128 Stat. 1334.)
+(Pub. L. 113–121, title V, § 5025, June 10, 2014, 128 Stat. 1334.)
 
-## § 3905. Projects eligible for assistance
+## § 3905. Projects eligible for assistance
 
 The following projects may be carried out with amounts made available under this chapter:
 
@@ -253,17 +253,17 @@ The following projects may be carried out with amounts made available under this
 
 **(10)** A combination of projects secured by a common security pledge, each of which is eligible under paragraph (1), (2), (3), (4), (5), (6), (7), or (8), for which an eligible entity, or a combination of eligible entities, submits a single application.
 
-(Pub. L. 113–121, title V, § 5026, June 10, 2014, 128 Stat. 1334; Pub. L. 114–322, title IV, § 5008(b)(1), Dec. 16, 2016, 130 Stat. 1896.)
+(Pub. L. 113–121, title V, § 5026, June 10, 2014, 128 Stat. 1334; Pub. L. 114–322, title IV, § 5008(b)(1), Dec. 16, 2016, 130 Stat. 1896.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Par. (6). Pub. L. 114–322, § 5008(b)(1)(A), substituted “desalination project, including chloride control” for “desalination project” and “a water recycling project, or a project to provide alternative water supplies to reduce aquifer depletion” for “or a water recycling project”.
+2016—Par. (6). Pub. L. 114–322, § 5008(b)(1)(A), substituted “desalination project, including chloride control” for “desalination project” and “a water recycling project, or a project to provide alternative water supplies to reduce aquifer depletion” for “or a water recycling project”.
 
-Pars. (7) to (9). Pub. L. 114–322, § 5008(b)(1)(B), (C), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively. Former par. (9) redesignated (10).
+Pars. (7) to (9). Pub. L. 114–322, § 5008(b)(1)(B), (C), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively. Former par. (9) redesignated (10).
 
-Par. (10). Pub. L. 114–322, § 5008(b)(1)(B), (D), redesignated par. (9) as (10) and substituted “(7), or (8)” for “or (7)”.
+Par. (10). Pub. L. 114–322, § 5008(b)(1)(B), (D), redesignated par. (9) as (10) and substituted “(7), or (8)” for “or (7)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -271,7 +271,7 @@ Par. (10). Pub. L. 114–322, § 5008(b)(1)(B), (D), redesignated par. (9) as 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-## § 3906. Activities eligible for assistance
+## § 3906. Activities eligible for assistance
 
 For purposes of this chapter, an eligible activity with respect to an eligible project includes the cost of—
 
@@ -283,7 +283,7 @@ For purposes of this chapter, an eligible activity with respect to an eligible p
 
 **(4)** capitalized interest necessary to meet market requirements, reasonably required reserve funds, capital issuance expenses, and other carrying costs during construction.
 
-(Pub. L. 113–121, title V, § 5027, June 10, 2014, 128 Stat. 1335; Pub. L. 114–322, title IV, § 5008(b)(2)(C), Dec. 16, 2016, 130 Stat. 1897.)
+(Pub. L. 113–121, title V, § 5027, June 10, 2014, 128 Stat. 1335; Pub. L. 114–322, title IV, § 5008(b)(2)(C), Dec. 16, 2016, 130 Stat. 1897.)
 
 **Editorial Notes**
 
@@ -291,7 +291,7 @@ For purposes of this chapter, an eligible activity with respect to an eligible p
 
 2016—Par. (3). Pub. L. 114–322 substituted “section 3905(8)” for “section 3905(7)”.
 
-## § 3907. Determination of eligibility and project selection
+## § 3907. Determination of eligibility and project selection
 
 **(a) Eligibility requirements** To be eligible to receive financial assistance under this chapter, a project shall meet the following criteria, as determined by the Secretary or Administrator, as applicable:
 
@@ -437,7 +437,7 @@ For a project described in section 3905(9) of this title, the Administrator shal
 
 Nothing in this section supersedes the applicability of other requirements of Federal law (including regulations).
 
-(Pub. L. 113–121, title V, § 5028, June 10, 2014, 128 Stat. 1335; Pub. L. 114–94, div. A, title I, § 1445, Dec. 4, 2015, 129 Stat. 1437; Pub. L. 114–322, title IV, § 5008(b)(2)(D), Dec. 16, 2016, 130 Stat. 1897; Pub. L. 115–270, title IV, § 4201(a)(2), Oct. 23, 2018, 132 Stat. 3877; Pub. L. 117–58, div. E, title II, § 50214, Nov. 15, 2021, 135 Stat. 1173.)
+(Pub. L. 113–121, title V, § 5028, June 10, 2014, 128 Stat. 1335; Pub. L. 114–94, div. A, title I, § 1445, Dec. 4, 2015, 129 Stat. 1437; Pub. L. 114–322, title IV, § 5008(b)(2)(D), Dec. 16, 2016, 130 Stat. 1897; Pub. L. 115–270, title IV, § 4201(a)(2), Oct. 23, 2018, 132 Stat. 3877; Pub. L. 117–58, div. E, title II, § 50214, Nov. 15, 2021, 135 Stat. 1173.)
 
 **Editorial Notes**
 
@@ -447,9 +447,9 @@ Nothing in this section supersedes the applicability of other requirements of Fe
 
 2018—Subsec. (a)(1)(E). Pub. L. 115–270 amended subpar. (E) generally. Prior to amendment, text read as follows: “The Administrator shall develop a credit evaluation process for a Federal credit instrument provided to a State infrastructure financing authority for a project under section 3905(9) of this title or an entity for a project under section 3905(10) of this title, which may include requiring the provision of a final rating opinion letter from at least 2 rating agencies.”
 
-2016—Subsec. (a)(1)(E). Pub. L. 114–322, § 5008(b)(2)(D)(i), substituted “section 3905(9)” for “section 3905(8)” and “section 3905(10)” for “section 3905(9)”.
+2016—Subsec. (a)(1)(E). Pub. L. 114–322, § 5008(b)(2)(D)(i), substituted “section 3905(9)” for “section 3905(8)” and “section 3905(10)” for “section 3905(9)”.
 
-Subsec. (b)(3). Pub. L. 114–322, § 5008(b)(2)(D)(ii), substituted “section 3905(9)” for “section 3905(8)”.
+Subsec. (b)(3). Pub. L. 114–322, § 5008(b)(2)(D)(ii), substituted “section 3905(9)” for “section 3905(8)”.
 
 2015—Subsec. (a)(5) to (7). Pub. L. 114–94 redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5). Prior to amendment, text of par. (5) read as follows: “No project receiving Federal credit assistance under this chapter may be financed (directly or indirectly), in whole or in part, with proceeds of any obligation—
 
@@ -467,7 +467,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-## § 3908. Secured loans
+## § 3908. Secured loans
 
 **(a) Agreements**
 
@@ -633,25 +633,25 @@ The Secretary or the Administrator, as applicable, may provide a loan guarantee 
 
 The terms of a loan guarantee provided under this subsection shall be consistent with the terms established in this section for a secured loan, except that the rate on the guaranteed loan and any prepayment features shall be negotiated between the obligor and the lender, with the consent of the Secretary or the Administrator, as applicable.
 
-(Pub. L. 113–121, title V, § 5029, June 10, 2014, 128 Stat. 1338; Pub. L. 114–322, title IV, § 5008(c), Dec. 16, 2016, 130 Stat. 1897; Pub. L. 115–270, title IV, § 4201(a)(3), (b)(1), Oct. 23, 2018, 132 Stat. 3877, 3878.)
+(Pub. L. 113–121, title V, § 5029, June 10, 2014, 128 Stat. 1338; Pub. L. 114–322, title IV, § 5008(c), Dec. 16, 2016, 130 Stat. 1897; Pub. L. 115–270, title IV, § 4201(a)(3), (b)(1), Oct. 23, 2018, 132 Stat. 3877, 3878.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This title, referred to in subsec. (c)(2)(B)(ii), is title V of Pub. L. 113–121, June 10, 2014, 128 Stat. 1322. Subtitle C (§§ 5021–5035) of title V of Pub. L. 113–121 enacted this chapter. For complete classification of title V to the Code, see Tables.
+This title, referred to in subsec. (c)(2)(B)(ii), is title V of Pub. L. 113–121, June 10, 2014, 128 Stat. 1322. Subtitle C (§§ 5021–5035) of title V of Pub. L. 113–121 enacted this chapter. For complete classification of title V to the Code, see Tables.
 
-The Federal Water Pollution Control Act, referred to in subsec. (c)(2)(B)(ii), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816. Title VI of the Act is classified generally to subchapter VI (§ 1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (c)(2)(B)(ii), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816. Title VI of the Act is classified generally to subchapter VI (§ 1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
 **Amendments**
 
-2018—Subsec. (b)(9)(C). Pub. L. 115–270, § 4201(b)(1), added subpar. (C).
+2018—Subsec. (b)(9)(C). Pub. L. 115–270, § 4201(b)(1), added subpar. (C).
 
-Subsec. (c)(2)(B). Pub. L. 115–270, § 4201(a)(3), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+Subsec. (c)(2)(B). Pub. L. 115–270, § 4201(a)(3), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
 
-2016—Subsec. (b)(7). Pub. L. 114–322, § 5008(c)(1), designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), the Secretary” for “The Secretary”, and added subpar. (B).
+2016—Subsec. (b)(7). Pub. L. 114–322, § 5008(c)(1), designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), the Secretary” for “The Secretary”, and added subpar. (B).
 
-Subsec. (b)(10). Pub. L. 114–322, § 5008(c)(2), added par. (10).
+Subsec. (b)(10). Pub. L. 114–322, § 5008(c)(2), added par. (10).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -659,7 +659,7 @@ Subsec. (b)(10). Pub. L. 114–322, § 5008(c)(2), added par. (10).
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-## § 3909. Program administration
+## § 3909. Program administration
 
 **(a) Requirement**
 
@@ -737,37 +737,37 @@ Nothing in this subsection affects the authority of the Administrator with respe
 
 Section 513 of the Federal Water Pollution Control Act (33 U.S.C. 1372) applies to the construction of a project carried out, in whole or in part, with assistance made available through a Federal credit instrument under this chapter in the same manner that section applies to a treatment works for which a grant is made available under that Act [33 U.S.C. 1251 et seq.].
 
-(Pub. L. 113–121, title V, § 5030, June 10, 2014, 128 Stat. 1341; Pub. L. 115–270, title IV, § 4201(b)(2), (c), Oct. 23, 2018, 132 Stat. 3878, 3880.)
+(Pub. L. 113–121, title V, § 5030, June 10, 2014, 128 Stat. 1341; Pub. L. 115–270, title IV, § 4201(b)(2), (c), Oct. 23, 2018, 132 Stat. 3878, 3880.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Water Pollution Control Act, referred to in subsecs. (e)(1)(A) and (h), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. Title VI of the Act is classified generally to subchapter VI (§ 1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, referred to in subsecs. (e)(1)(A) and (h), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. Title VI of the Act is classified generally to subchapter VI (§ 1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
-Under this title and nothing in this title, referred to in subsec. (e), mean title V of Pub. L. 113–121, June 10, 2014, 128 Stat. 1322. Subtitle C (§§ 5021–5035) of title V of Pub. L. 113–121 enacted this chapter. For complete classification of title V to the Code, see Tables.
+Under this title and nothing in this title, referred to in subsec. (e), mean title V of Pub. L. 113–121, June 10, 2014, 128 Stat. 1322. Subtitle C (§§ 5021–5035) of title V of Pub. L. 113–121 enacted this chapter. For complete classification of title V to the Code, see Tables.
 
 **Amendments**
 
-2018—Subsec. (b)(2). Pub. L. 115–270, § 4201(b)(2)(A), added par. (2).
+2018—Subsec. (b)(2). Pub. L. 115–270, § 4201(b)(2)(A), added par. (2).
 
-Subsecs. (e), (f). Pub. L. 115–270, § 4201(b)(2)(B), added subsecs. (e) and (f). Former subsec. (e) designated (h).
+Subsecs. (e), (f). Pub. L. 115–270, § 4201(b)(2)(B), added subsecs. (e) and (f). Former subsec. (e) designated (h).
 
-Subsec. (g). Pub. L. 115–270, § 4201(c), added subsec. (g).
+Subsec. (g). Pub. L. 115–270, § 4201(c), added subsec. (g).
 
-Subsec. (h). Pub. L. 115–270, § 4201(b)(2)(B), redesignated subsec. (e) as (h).
+Subsec. (h). Pub. L. 115–270, § 4201(b)(2)(B), redesignated subsec. (e) as (h).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Agreement With Commissioner of Reclamation**
 
-Pub. L. 115–270, title IV, § 4301, Oct. 23, 2018, 132 Stat. 3880, provided that: “Not later than 1 year after the date of enactment of this Act [Oct. 23, 2018], the Administrator of the Environmental Protection Agency and the Commissioner of Reclamation shall enter into an agreement under section 5030(g) of the Water Infrastructure Finance and Innovation Act [33 U.S.C. 3909(g)] (as added by this Act).”
+Pub. L. 115–270, title IV, § 4301, Oct. 23, 2018, 132 Stat. 3880, provided that: “Not later than 1 year after the date of enactment of this Act [Oct. 23, 2018], the Administrator of the Environmental Protection Agency and the Commissioner of Reclamation shall enter into an agreement under section 5030(g) of the Water Infrastructure Finance and Innovation Act [33 U.S.C. 3909(g)] (as added by this Act).”
 
 **“Secretary” Defined**
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-## § 3910. State, tribal, and local permits
+## § 3910. State, tribal, and local permits
 
 The provision of financial assistance for a project under this chapter shall not—
 
@@ -777,13 +777,13 @@ The provision of financial assistance for a project under this chapter shall not
 
 **(3)** otherwise supersede any State, local, or tribal law (including any regulation) applicable to the construction or operation of the project.
 
-(Pub. L. 113–121, title V, § 5031, June 10, 2014, 128 Stat. 1342.)
+(Pub. L. 113–121, title V, § 5031, June 10, 2014, 128 Stat. 1342.)
 
-## § 3911. Regulations
+## § 3911. Regulations
 
 The Secretary or the Administrator, as applicable, may promulgate such regulations as the Secretary or Administrator determines to be appropriate to carry out this chapter.
 
-(Pub. L. 113–121, title V, § 5032, June 10, 2014, 128 Stat. 1342.)
+(Pub. L. 113–121, title V, § 5032, June 10, 2014, 128 Stat. 1342.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -791,7 +791,7 @@ The Secretary or the Administrator, as applicable, may promulgate such regulatio
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-## § 3912. Funding
+## § 3912. Funding
 
 **(a) In general**
 
@@ -855,27 +855,27 @@ With respect to fiscal years 2022 through 2026, if the Administrator has availab
 
 If the Administrator provides financial assistance to a State infrastructure financing authority under section 3908 of this title using funds made available pursuant to this subsection, the Administrator shall specify in the agreement under such section the amount of such assistance that is attributable to such funds.
 
-(Pub. L. 113–121, title V, § 5033, June 10, 2014, 128 Stat. 1342; Pub. L. 115–270, title IV, § 4201(a)(4), (b)(3), Oct. 23, 2018, 132 Stat. 3878, 3879; Pub. L. 117–58, div. E, title II, § 50215(a), Nov. 15, 2021, 135 Stat. 1174.)
+(Pub. L. 113–121, title V, § 5033, June 10, 2014, 128 Stat. 1342; Pub. L. 115–270, title IV, § 4201(a)(4), (b)(3), Oct. 23, 2018, 132 Stat. 3878, 3879; Pub. L. 117–58, div. E, title II, § 50215(a), Nov. 15, 2021, 135 Stat. 1174.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Water Pollution Control Act, referred to in subsec (e)(2)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. Title VI of the Act is classified generally to subchapter VI (§ 1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, referred to in subsec (e)(2)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. Title VI of the Act is classified generally to subchapter VI (§ 1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
 **Amendments**
 
-2021—Subsec. (a)(3). Pub. L. 117–58, § 50215(a)(1), added par. (3).
+2021—Subsec. (a)(3). Pub. L. 117–58, § 50215(a)(1), added par. (3).
 
-Subsec. (b)(2). Pub. L. 117–58, § 50215(a)(2), substituted “after 2019” for “2020 and 2021” in heading and “2022 through 2026” for “2020 and 2021” in text.
+Subsec. (b)(2). Pub. L. 117–58, § 50215(a)(2), substituted “after 2019” for “2020 and 2021” in heading and “2022 through 2026” for “2020 and 2021” in text.
 
-Subsec. (e)(1). Pub. L. 117–58, § 50215(a)(3), substituted “2022 through 2026” for “2020 and 2021”.
+Subsec. (e)(1). Pub. L. 117–58, § 50215(a)(3), substituted “2022 through 2026” for “2020 and 2021”.
 
-2018—Subsec. (a). Pub. L. 115–270, § 4201(a)(4)(A), designated existing provisions as par. (1) and inserted heading, substituted “There are” for “There is”, redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1), realigned margins, and added par. (2).
+2018—Subsec. (a). Pub. L. 115–270, § 4201(a)(4)(A), designated existing provisions as par. (1) and inserted heading, substituted “There are” for “There is”, redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1), realigned margins, and added par. (2).
 
-Subsec. (b). Pub. L. 115–270, § 4201(a)(4)(B), designated existing provisions as par. (1), inserted heading, and added par. (2).
+Subsec. (b). Pub. L. 115–270, § 4201(a)(4)(B), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Subsec. (e). Pub. L. 115–270, § 4201(b)(3), added subsec. (e).
+Subsec. (e). Pub. L. 115–270, § 4201(b)(3), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -883,7 +883,7 @@ Subsec. (e). Pub. L. 115–270, § 4201(b)(3), added subsec. (e).
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-## § 3913. Reports on program implementation
+## § 3913. Reports on program implementation
 
 **(a) Agency reporting** As soon as practicable after each fiscal year for which amounts are made available to carry out this chapter, the Secretary and the Administrator shall publish on a dedicated, publicly accessible Internet site—
 
@@ -915,9 +915,9 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 
 **(2) Recommendations** The report under paragraph (1) shall include—
 
-**(A)** an evaluation of the impacts (if any) of the limitation under section 3907(a)(5) 1
+**(A)** an evaluation of the impacts (if any) of the limitation under section 3907(a)(5) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title on the ability of eligible entities to finance water infrastructure projects under this chapter;
 
@@ -931,19 +931,19 @@ of this title on the ability of eligible entities to finance water infrastructur
 
 **(C)** any proposed changes to improve the efficiency and effectiveness of this chapter in providing financing for water infrastructure projects, taking into consideration the recommendations made under subparagraphs (A) and (B).
 
-(Pub. L. 113–121, title V, § 5034, June 10, 2014, 128 Stat. 1343; Pub. L. 115–270, title IV, § 4201(d), Oct. 23, 2018, 132 Stat. 3880.)
+(Pub. L. 113–121, title V, § 5034, June 10, 2014, 128 Stat. 1343; Pub. L. 115–270, title IV, § 4201(d), Oct. 23, 2018, 132 Stat. 3880.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3907(a)(5) of this title, referred to in subsec. (b)(2)(A), was struck out, and section 3907(a)(6) of this title was redesignated as 3907(a)(5), by Pub. L. 114–94, div. A, title I, § 1445, Dec. 4, 2015, 129 Stat. 1437. As amended, section 3907(a)(5) no longer relates to limitation.
+Section 3907(a)(5) of this title, referred to in subsec. (b)(2)(A), was struck out, and section 3907(a)(6) of this title was redesignated as 3907(a)(5), by Pub. L. 114–94, div. A, title I, § 1445, Dec. 4, 2015, 129 Stat. 1437. As amended, section 3907(a)(5) no longer relates to limitation.
 
 **Amendments**
 
-2018—Pub. L. 115–270, § 4201(d)(1), struck out “pilot” before “program” in section catchline.
+2018—Pub. L. 115–270, § 4201(d)(1), struck out “pilot” before “program” in section catchline.
 
-Subsec. (b)(1). Pub. L. 115–270, § 4201(d)(2), substituted “3 years after October 23, 2018” for “4 years after June 10, 2014” in introductory provisions.
+Subsec. (b)(1). Pub. L. 115–270, § 4201(d)(2), substituted “3 years after October 23, 2018” for “4 years after June 10, 2014” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -951,7 +951,7 @@ Subsec. (b)(1). Pub. L. 115–270, § 4201(d)(2), substituted “3 years after
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-## § 3914. Requirements
+## § 3914. Requirements
 
 **(a) In general**
 
@@ -977,9 +977,9 @@ If the Administrator receives a request for a waiver under this section, the Adm
 
 This section shall be applied in a manner consistent with United States obligations under international agreements.
 
-(Pub. L. 113–121, title V, § 5035, June 10, 2014, 128 Stat. 1344.)
+(Pub. L. 113–121, title V, § 5035, June 10, 2014, 128 Stat. 1344.)
 
-## § 3915. Outreach plan
+## § 3915. Outreach plan
 
 **(a) Definition of rural community**
 
@@ -989,4 +989,4 @@ In this section, the term “rural community” means a city, town, or unincorpo
 
 Not later than 180 days after November 15, 2021, the Administrator, in consultation with relevant Federal agencies, shall develop and begin implementation of an outreach plan to promote financial assistance available under this subtitle to small communities and rural communities.
 
-(Pub. L. 113–121, title V, § 5036, as added Pub. L. 117–58, div. E, title II, § 50215(b), Nov. 15, 2021, 135 Stat. 1174.)
+(Pub. L. 113–121, title V, § 5036, as added Pub. L. 117–58, div. E, title II, § 50215(b), Nov. 15, 2021, 135 Stat. 1174.)

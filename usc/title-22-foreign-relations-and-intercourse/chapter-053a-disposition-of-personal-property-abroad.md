@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 53A—DISPOSITION OF PERSONAL PROPERTY ABROAD
 
-## § 4341. Definitions
+## § 4341. Definitions
 
 For purposes of this chapter, the following terms have the following meanings:
 
@@ -47,7 +47,7 @@ but does not include a contractor with or under the supervision of an area milit
 
 **(7)** The term “profit” means any proceeds (including cash and other valuable consideration but not including amounts of such proceeds given as charitable contributions) for the sale, disposition, or assignment of personal property in excess of the basis for such property. For purposes of this chapter, basis shall include initial price, inland and overseas transportation costs (if not reimbursed by the United States Government), shipping insurance, taxes, customs fees, duties or other charges, and capital improvements, but shall not include insurance on an item while in use, or maintenance and related costs. For purposes of computing profit, proceeds and costs shall be valued in United States dollars at the time of receipt or payment, at a rate of exchange as determined by regulation or policy issued pursuant to section 4343 of this title.
 
-(Aug. 1, 1956, ch. 841, title III, § 301, as added Pub. L. 100–204, title I, § 186(a), Dec. 22, 1987, 101 Stat. 1366; amended Pub. L. 109–435, title VI, § 604(f), Dec. 20, 2006, 120 Stat. 3242.)
+(Aug. 1, 1956, ch. 841, title III, § 301, as added Pub. L. 100–204, title I, § 186(a), Dec. 22, 1987, 101 Stat. 1366; amended Pub. L. 109–435, title VI, § 604(f), Dec. 20, 2006, 120 Stat. 3242.)
 
 **Editorial Notes**
 
@@ -59,7 +59,7 @@ but does not include a contractor with or under the supervision of an area milit
 
 **Effective Date**
 
-Pub. L. 100–204, title I, § 186(b), Dec. 22, 1987, 101 Stat. 1368, provided that: “This section [enacting this chapter] shall take effect 180 days after the date of enactment of this Act [Dec. 22, 1987].”
+Pub. L. 100–204, title I, § 186(b), Dec. 22, 1987, 101 Stat. 1368, provided that: “This section [enacting this chapter] shall take effect 180 days after the date of enactment of this Act [Dec. 22, 1987].”
 
 **Executive Documents**
 
@@ -67,7 +67,7 @@ Pub. L. 100–204, title I, § 186(b), Dec. 22, 1987, 101 Stat. 1368, provided
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 4342. Limitations on disposition of personal prop­erty
+## § 4342. Limitations on disposition of personal prop­erty
 
 **(a) General rule**
 
@@ -81,7 +81,7 @@ The chief of mission to a foreign country, or a designee of such chief of missio
 
 Violation of this section, or other importation, sale, or other disposition of personal property within a foreign country which violates its laws or regulations or governing international law and is prohibited by regulations and policies, rules, and procedures issued pursuant to section 4343 of this title, shall be grounds for disciplinary action against an employee.
 
-(Aug. 1, 1956, ch. 841, title III, § 302, as added Pub. L. 100–204, title I, § 186(a), Dec. 22, 1987, 101 Stat. 1368.)
+(Aug. 1, 1956, ch. 841, title III, § 302, as added Pub. L. 100–204, title I, § 186(a), Dec. 22, 1987, 101 Stat. 1368.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -89,7 +89,7 @@ Violation of this section, or other importation, sale, or other disposition of p
 
 Section effective 180 days after Dec. 22, 1987, see section 186(b) of Pub. L. 100–204, set out as a note under section 4741 of this title.
 
-## § 4343. Regulations
+## § 4343. Regulations
 
 **(a) Issuance; purpose**
 
@@ -103,7 +103,7 @@ Such regulations shall require that, to the extent contractors enjoy importation
 
 In order to ensure that due account is taken of local conditions, including applicable laws, markets, exchange rate factors, and accommodation exchange facilities, such regulations may authorize the chief of mission to each foreign country to establish more detailed policies, rules, or procedures for the application of this chapter within that country to employees under the chief of mission’s jurisdiction.
 
-(Aug. 1, 1956, ch. 841, title III, § 303, as added Pub. L. 100–204, title I, § 186(a), Dec. 22, 1987, 101 Stat. 1368.)
+(Aug. 1, 1956, ch. 841, title III, § 303, as added Pub. L. 100–204, title I, § 186(a), Dec. 22, 1987, 101 Stat. 1368.)
 
 **Editorial Notes**
 

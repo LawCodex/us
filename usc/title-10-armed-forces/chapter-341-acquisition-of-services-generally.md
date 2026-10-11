@@ -19,7 +19,7 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 341 “CONTRACTING FOR PERFORMANCE OF CIVILIAN COMMERCIAL OR INDUSTRIAL TYPE FUNCTIONS”, consisting of reserved section 4501, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1856(b), Jan. 1, 2021, 134 Stat. 4273.
+A prior chapter 341 “CONTRACTING FOR PERFORMANCE OF CIVILIAN COMMERCIAL OR INDUSTRIAL TYPE FUNCTIONS”, consisting of reserved section 4501, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1856(b), Jan. 1, 2021, 134 Stat. 4273.
 
 Another prior chapter 341 was renumbered chapter 721 of this title.
 
@@ -27,7 +27,7 @@ Another prior chapter 341 was renumbered chapter 721 of this title.
 
 **Preventing Conflicts of Interest for Entities That Provide Certain Consulting Services to the Department of Defense**
 
-Pub. L. 118–31, div. A, title VIII, § 812, Dec. 22, 2023, 137 Stat. 323, provided that:
+Pub. L. 118–31, div. A, title VIII, § 812, Dec. 22, 2023, 137 Stat. 323, provided that:
 
 > **“(a) In General.—**
 
@@ -125,7 +125,7 @@ Pub. L. 118–31, div. A, title VIII, § 812, Dec. 22, 2023, 137 Stat. 323, pr
 
 **Contracts for Studies, Analysis, or Consulting Services Entered Into Without Competition on the Basis of an Unsolicited Proposal**
 
-Pub. L. 114–113, div. C, title VIII, § 8039, Dec. 18, 2015, 129 Stat. 2359, provided that:
+Pub. L. 114–113, div. C, title VIII, § 8039, Dec. 18, 2015, 129 Stat. 2359, provided that:
 
 > “None of the funds appropriated by this Act [div. C of Pub. L. 114–113, see Tables for classification] and hereafter shall be available for a contract for studies, analysis, or consulting services entered into without competition on the basis of an unsolicited proposal unless the head of the activity responsible for the procurement determines—
 
@@ -137,11 +137,11 @@ Pub. L. 114–113, div. C, title VIII, § 8039, Dec. 18, 2015, 129 Stat. 2359,
 
 **Competition for Religious Services Contracts**
 
-Pub. L. 114–92, div. A, title VIII, § 898, Nov. 25, 2015, 129 Stat. 955, provided that: “The Department of Defense may not preclude a non-profit organization from competing for a contract for religious related services on a United States military installation.”
+Pub. L. 114–92, div. A, title VIII, § 898, Nov. 25, 2015, 129 Stat. 955, provided that: “The Department of Defense may not preclude a non-profit organization from competing for a contract for religious related services on a United States military installation.”
 
 **Requirements for Risk Assessments Related to Contractor Performance**
 
-Pub. L. 112–239, div. A, title VIII, § 846, Jan. 2, 2013, 126 Stat. 1848, provided that:
+Pub. L. 112–239, div. A, title VIII, § 846, Jan. 2, 2013, 126 Stat. 1848, provided that:
 
 > **“(a) Risk Assessments for Contractor Performance in Operational or Contingency Plans.—** The Secretary of Defense shall require that a risk assessment on reliance on contractors be included in operational or contingency plans developed by a commander of a combatant command in executing the responsibilities prescribed in section 164 of title 10, United States Code. Such risk assessments shall address, at a minimum, the potential risks listed in subsection (c).
 
@@ -205,11 +205,11 @@ Pub. L. 112–239, div. A, title VIII, § 846, Jan. 2, 2013, 126 Stat. 1848, p
 
 **Requirements for the Acquisition of Services**
 
-Pub. L. 111–383, div. A, title VIII, § 863(a)–(h), Jan. 7, 2011, 124 Stat. 4293, 4294, as amended by Pub. L. 112–81, div. A, title IX, § 933(c), Dec. 31, 2011, 125 Stat. 1544; Pub. L. 112–239, div. A, title X, § 1076(a)(18), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 118–159, div. A, title XVII, § 1701(f), Dec. 23, 2024, 138 Stat. 2207, which directed the Secretary of Defense to ensure that military departments and Defense Agencies establish a process for identifying, assessing, reviewing, and validating requirements for the acquisition of services, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(12)(E), Dec. 18, 2025, 139 Stat. 949.
+Pub. L. 111–383, div. A, title VIII, § 863(a)–(h), Jan. 7, 2011, 124 Stat. 4293, 4294, as amended by Pub. L. 112–81, div. A, title IX, § 933(c), Dec. 31, 2011, 125 Stat. 1544; Pub. L. 112–239, div. A, title X, § 1076(a)(18), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 118–159, div. A, title XVII, § 1701(f), Dec. 23, 2024, 138 Stat. 2207, which directed the Secretary of Defense to ensure that military departments and Defense Agencies establish a process for identifying, assessing, reviewing, and validating requirements for the acquisition of services, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(12)(E), Dec. 18, 2025, 139 Stat. 949.
 
 **Independent Management Reviews of Contracts for Services**
 
-Pub. L. 110–181, div. A, title VIII, § 808, Jan. 28, 2008, 122 Stat. 215, as amended by Pub. L. 111–383, div. A, title X, § 1075(f)(3), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 115–232, div. A, title VIII, § 812(b)(23), Aug. 13, 2018, 132 Stat. 1849, provided that:
+Pub. L. 110–181, div. A, title VIII, § 808, Jan. 28, 2008, 122 Stat. 215, as amended by Pub. L. 111–383, div. A, title X, § 1075(f)(3), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 115–232, div. A, title VIII, § 812(b)(23), Aug. 13, 2018, 132 Stat. 1849, provided that:
 
 > **“(a) Guidance and Instructions.—** Not later than 180 days after the date of the enactment of this Act [Jan. 28, 2008], the Secretary of Defense shall issue guidance, with detailed implementation instructions, for the Department of Defense to provide for periodic independent management reviews of contracts for services. The independent management review guidance and instructions issued pursuant to this subsection shall be designed to evaluate, at a minimum—
 
@@ -243,15 +243,15 @@ Pub. L. 110–181, div. A, title VIII, § 808, Jan. 28, 2008, 122 Stat. 215, a
 
 > **“(6)** procedures for developing and disseminating lessons learned from independent management reviews.”
 
-[(d) Repealed. Pub. L. 115–232, div. A, title VIII, § 812(b)(23), Aug. 13, 2018, 132 Stat. 1849.]
+[(d) Repealed. Pub. L. 115–232, div. A, title VIII, § 812(b)(23), Aug. 13, 2018, 132 Stat. 1849.]
 
 **Limitation on Contracts for the Acquisition of Certain Services**
 
-Pub. L. 109–364, div. A, title VIII, § 832, Oct. 17, 2006, 120 Stat. 2331, as amended by Pub. L. 110–181, div. A, title VIII, § 883, Jan. 28, 2008, 122 Stat. 264; Pub. L. 110–417, [div. A], title X, § 1061(b)(5), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 113–291, div. A, title X, § 1071(b)(3)(A), Dec. 19, 2014, 128 Stat. 3506, which prohibited the Secretary of Defense from entering into certain service contracts to acquire a military flight simulator, unless the Secretary determined it was in the national interest and submitted an economic analysis to the congressional defense committees, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(16)(B), Dec. 18, 2025, 139 Stat. 949.
+Pub. L. 109–364, div. A, title VIII, § 832, Oct. 17, 2006, 120 Stat. 2331, as amended by Pub. L. 110–181, div. A, title VIII, § 883, Jan. 28, 2008, 122 Stat. 264; Pub. L. 110–417, [div. A], title X, § 1061(b)(5), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 113–291, div. A, title X, § 1071(b)(3)(A), Dec. 19, 2014, 128 Stat. 3506, which prohibited the Secretary of Defense from entering into certain service contracts to acquire a military flight simulator, unless the Secretary determined it was in the national interest and submitted an economic analysis to the congressional defense committees, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(16)(B), Dec. 18, 2025, 139 Stat. 949.
 
 **Improvements in Procurements of Services**
 
-Pub. L. 106–398, § 1 [[div. A], title VIII, § 821], Oct. 30, 2000, 114 Stat. 1654, 1654A–217, as amended by Pub. L. 108–136, div. A, title XIV, § 1431(c), Nov. 24, 2003, 117 Stat. 1672; Pub. L. 115–232, div. A, title VIII, § 836(f)(2), Aug. 13, 2018, 132 Stat. 1871, provided that:
+Pub. L. 106–398, § 1 [[div. A], title VIII, § 821], Oct. 30, 2000, 114 Stat. 1654, 1654A–217, as amended by Pub. L. 108–136, div. A, title XIV, § 1431(c), Nov. 24, 2003, 117 Stat. 1672; Pub. L. 115–232, div. A, title VIII, § 836(f)(2), Aug. 13, 2018, 132 Stat. 1871, provided that:
 
 > **“(a) Preference for Performance-Based Service Contracting.—** Not later than 180 days after the date of the enactment of this Act [Oct. 30, 2000], the Federal Acquisition Regulation issued in accordance with sections 6 and 25 of the Office of Federal Procurement Policy Act ([former] 41 U.S.C. 405 and 421) [see 41 U.S.C. 1121 and 1303] shall be revised to establish a preference for use of contracts and task orders for the purchase of services in the following order of precedence:
 
@@ -261,7 +261,7 @@ Pub. L. 106–398, § 1 [[div. A], title VIII, § 821], Oct. 30, 2000, 114 S
 
 > **“(3)** Any contract or task order that is not a performance-based contract or a performance-based task order.
 
-> **“[(b)** Repealed. Pub. L. 108–136, div. A, title XIV, § 1431(c), Nov. 24, 2003, 117 Stat. 1672.]
+> **“[(b)** Repealed. Pub. L. 108–136, div. A, title XIV, § 1431(c), Nov. 24, 2003, 117 Stat. 1672.]
 
 > **“(c) Centers of Excellence in Service Contracting.—** Not later than 180 days after the date of the enactment of this Act [Oct. 30, 2000], the Secretary of each military department shall establish at least one center of excellence in contracting for services. Each center of excellence shall assist the acquisition community by identifying, and serving as a clearinghouse for, best practices in contracting for services in the public and private sectors.
 
@@ -277,7 +277,7 @@ Pub. L. 106–398, § 1 [[div. A], title VIII, § 821], Oct. 30, 2000, 114 S
 
 > **“(2)** The term ‘Defense Agency’ has the meaning given the term in section 101(a)(11) of title 10, United States Code.”
 
-## § 4501. Procurement of contract services: management structure
+## § 4501. Procurement of contract services: management structure
 
 **(a) Requirement for Management Structure.—** The Secretary of Defense shall establish and implement a management structure for the procurement of contract services for the Department of Defense. The management structure shall provide, at a minimum, for the matters specified in subsections (b), (c), (d), and (e).
 
@@ -309,35 +309,35 @@ Pub. L. 106–398, § 1 [[div. A], title VIII, § 821], Oct. 30, 2000, 114 S
 
 **(f) Contract Services.—** In this section, the term “contract services” has the meaning given that term in section 4502(d)(2) of this title.
 
-(Added Pub. L. 107–107, div. A, title VIII, § 801(b)(1), Dec. 28, 2001, 115 Stat. 1174, § 2330; amended Pub. L. 107–314, div. A, title X, § 1062(a)(8), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 109–163, div. A, title VIII, § 812(a)(1), Jan. 6, 2006, 119 Stat. 3376; Pub. L. 112–239, div. A, title VIII, § 845(d), Jan. 2, 2013, 126 Stat. 1848; Pub. L. 116–92, div. A, title IX, § 902(51), Dec. 20, 2019, 133 Stat. 1548; renumbered § 4501 and amended Pub. L. 116–283, div. A, title XVIII, § 1856(c)–(e), Jan. 1, 2021, 134 Stat. 4274.)
+(Added Pub. L. 107–107, div. A, title VIII, § 801(b)(1), Dec. 28, 2001, 115 Stat. 1174, § 2330; amended Pub. L. 107–314, div. A, title X, § 1062(a)(8), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 109–163, div. A, title VIII, § 812(a)(1), Jan. 6, 2006, 119 Stat. 3376; Pub. L. 112–239, div. A, title VIII, § 845(d), Jan. 2, 2013, 126 Stat. 1848; Pub. L. 116–92, div. A, title IX, § 902(51), Dec. 20, 2019, 133 Stat. 1548; renumbered § 4501 and amended Pub. L. 116–283, div. A, title XVIII, § 1856(c)–(e), Jan. 1, 2021, 134 Stat. 4274.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4501, act Aug. 10, 1956, ch. 1041, 70A Stat. 251, which related to industrial mobilization by the President in time of war, was repealed by Pub. L. 103–160, div. A, title VIII, § 822(a)(2), Nov. 30, 1993, 107 Stat. 1705. See section 4882 of this title.
+A prior section 4501, act Aug. 10, 1956, ch. 1041, 70A Stat. 251, which related to industrial mobilization by the President in time of war, was repealed by Pub. L. 103–160, div. A, title VIII, § 822(a)(2), Nov. 30, 1993, 107 Stat. 1705. See section 4882 of this title.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1856(e)(2), redesignated par. (1) of subsec. (a) as subsec. (b) and subpars. (B) to (D) of former par. (1) as subsecs. (c) to (e), respectively.
+2021—Pub. L. 116–283, § 1856(e)(2), redesignated par. (1) of subsec. (a) as subsec. (b) and subpars. (B) to (D) of former par. (1) as subsecs. (c) to (e), respectively.
 
-Pub. L. 116–283, § 1856(d), transferred subsecs. (a)(2), (3), (b), and (c) to section 4502 of this title. Amendment notes below prior to 2021 relate to section as it read before such provisions were transferred.
+Pub. L. 116–283, § 1856(d), transferred subsecs. (a)(2), (3), (b), and (c) to section 4502 of this title. Amendment notes below prior to 2021 relate to section as it read before such provisions were transferred.
 
-Pub. L. 116–283, § 1856(c), renumbered section 2330 of this title as this section.
+Pub. L. 116–283, § 1856(c), renumbered section 2330 of this title as this section.
 
-Subsec. (a). Pub. L. 116–283, § 1856(e)(1), substituted “for the matters specified in subsections (b), (c), (d), and (e).” for “for the following:”.
+Subsec. (a). Pub. L. 116–283, § 1856(e)(1), substituted “for the matters specified in subsections (b), (c), (d), and (e).” for “for the following:”.
 
-Subsec. (b). Pub. L. 116–283, § 1856(e)(3), inserted heading, substituted “The management structure implemented pursuant to subsection (a) shall provide that the Under Secretary of Defense for Acquisition and Sustainment shall develop and maintain” for “The Under Secretary of Defense for Acquisition and Sustainment shall—(A) develop and maintain”, redesignated cls. (i) to (vi) as pars. (1) to (6), respectively, substituted period for semicolon at end of par. (6), and realigned margins.
+Subsec. (b). Pub. L. 116–283, § 1856(e)(3), inserted heading, substituted “The management structure implemented pursuant to subsection (a) shall provide that the Under Secretary of Defense for Acquisition and Sustainment shall develop and maintain” for “The Under Secretary of Defense for Acquisition and Sustainment shall—(A) develop and maintain”, redesignated cls. (i) to (vi) as pars. (1) to (6), respectively, substituted period for semicolon at end of par. (6), and realigned margins.
 
-Subsec. (c). Pub. L. 116–283, § 1856(e)(4)(A)–(C), inserted heading, substituted “The management structure implemented pursuant to subsection (a) shall provide that the Under Secretary shall work with” for “work with” in introductory provisions, redesignated cls. (i) to (iii) as pars. (1) to (3), respectively, and realigned margins.
+Subsec. (c). Pub. L. 116–283, § 1856(e)(4)(A)–(C), inserted heading, substituted “The management structure implemented pursuant to subsection (a) shall provide that the Under Secretary shall work with” for “work with” in introductory provisions, redesignated cls. (i) to (iii) as pars. (1) to (3), respectively, and realigned margins.
 
-Subsec. (c)(3). Pub. L. 116–283, § 1856(e)(4)(D), (E), substituted “under this section and section 4502 of this title.” for “under this section;”.
+Subsec. (c)(3). Pub. L. 116–283, § 1856(e)(4)(D), (E), substituted “under this section and section 4502 of this title.” for “under this section;”.
 
-Subsec. (d). Pub. L. 116–283, § 1856(e)(5), inserted heading, substituted “The management structure implemented pursuant to subsection (a) shall provide that the Under Secretary shall establish contract” for “establish contract” and period for “; and”, and realigned margins.
+Subsec. (d). Pub. L. 116–283, § 1856(e)(5), inserted heading, substituted “The management structure implemented pursuant to subsection (a) shall provide that the Under Secretary shall establish contract” for “establish contract” and period for “; and”, and realigned margins.
 
-Subsec. (e). Pub. L. 116–283, § 1856(e)(6), inserted heading, substituted “The management structure implemented pursuant to subsection (a) shall provide that the Under Secretary shall oversee the” for “oversee the” and “subsection (b)” for “subparagraph (A)”, inserted “and section 4502 of this title” after “of this section”, and realigned margins.
+Subsec. (e). Pub. L. 116–283, § 1856(e)(6), inserted heading, substituted “The management structure implemented pursuant to subsection (a) shall provide that the Under Secretary shall oversee the” for “oversee the” and “subsection (b)” for “subparagraph (A)”, inserted “and section 4502 of this title” after “of this section”, and realigned margins.
 
-Subsec. (f). Pub. L. 116–283, § 1856(e)(7), added subsec. (f).
+Subsec. (f). Pub. L. 116–283, § 1856(e)(7), added subsec. (f).
 
 2019—Subsecs. (a)(1), (3), (b)(2), (3)(A). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
@@ -353,7 +353,7 @@ Subsec. (f). Pub. L. 116–283, § 1856(e)(7), added subsec. (f).
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-## § 4502. Procurement of contract services: senior officials responsible for management of acquisition of contract services
+## § 4502. Procurement of contract services: senior officials responsible for management of acquisition of contract services
 
 **(a) Senior Officials.—** The management structure implemented pursuant to section 4501 of this title shall provide for the following:
 
@@ -391,7 +391,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **(2)** The term “contract services” includes all services acquired from private sector entities by or for the Department of Defense, including services in support of contingency operations. The term does not include services relating to research and development or military construction.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1856(d), (f), Jan. 1, 2021, 134 Stat. 4274, 4275; Pub. L. 117–81, div. A, title XVII, § 1701(b)(19)(A), Dec. 27, 2021, 135 Stat. 2135.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1856(d), (f), Jan. 1, 2021, 134 Stat. 4274, 4275; Pub. L. 117–81, div. A, title XVII, § 1701(b)(19)(A), Dec. 27, 2021, 135 Stat. 2135.)
 
 **Editorial Notes**
 
@@ -403,13 +403,13 @@ Section 814 of the Strom Thurmond National Defense Authorization Act for Fiscal 
 
 **Codification**
 
-The text of subsecs. (a)(2), (3), (b), and (c) of section 4501 of this title, which was transferred to this section by Pub. L. 116–283, § 1856(d), was based on Pub. L. 107–107, div. A, title VIII, § 801(b)(1), Dec. 28, 2001, 115 Stat. 1174, § 2330; Pub. L. 107–314, div. A, title X, § 1062(a)(8), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 109–163, div. A, title VIII, § 812(a)(1), Jan. 6, 2006, 119 Stat. 3376; Pub. L. 112–239, div. A, title VIII, § 845(d), Jan. 2, 2013, 126 Stat. 1848; Pub. L. 116–92, div. A, title IX, § 902(51)(B)–(D), Dec. 20, 2019, 133 Stat. 1549; renumbered § 4501, Pub. L. 116–283, div. A, title XVIII, § 1856(c), Jan. 1, 2021, 134 Stat. 4274. Amendment notes prior to 2021 relevant to this section can be found under section 4501 of this title.
+The text of subsecs. (a)(2), (3), (b), and (c) of section 4501 of this title, which was transferred to this section by Pub. L. 116–283, § 1856(d), was based on Pub. L. 107–107, div. A, title VIII, § 801(b)(1), Dec. 28, 2001, 115 Stat. 1174, § 2330; Pub. L. 107–314, div. A, title X, § 1062(a)(8), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 109–163, div. A, title VIII, § 812(a)(1), Jan. 6, 2006, 119 Stat. 3376; Pub. L. 112–239, div. A, title VIII, § 845(d), Jan. 2, 2013, 126 Stat. 1848; Pub. L. 116–92, div. A, title IX, § 902(51)(B)–(D), Dec. 20, 2019, 133 Stat. 1549; renumbered § 4501, Pub. L. 116–283, div. A, title XVIII, § 1856(c), Jan. 1, 2021, 134 Stat. 4274. Amendment notes prior to 2021 relevant to this section can be found under section 4501 of this title.
 
 **Prior Provisions**
 
-A prior section 4502, act Aug. 10, 1956, ch. 1041, 70A Stat. 252, which related to maintenance by Secretary of the Army of lists of plants equipped to manufacture arms or ammunition and of plants convertible into ammunition factories and provided for a Board on Mobilization of Industries Essential for Military Preparedness, was repealed by Pub. L. 103–160, div. A, title VIII, § 822(a)(2), Nov. 30, 1993, 107 Stat. 1705. See sections 4883 and 4884 of this title.
+A prior section 4502, act Aug. 10, 1956, ch. 1041, 70A Stat. 252, which related to maintenance by Secretary of the Army of lists of plants equipped to manufacture arms or ammunition and of plants convertible into ammunition factories and provided for a Board on Mobilization of Industries Essential for Military Preparedness, was repealed by Pub. L. 103–160, div. A, title VIII, § 822(a)(2), Nov. 30, 1993, 107 Stat. 1705. See sections 4883 and 4884 of this title.
 
-Prior sections 4503 and 4504 were repealed by Pub. L. 103–160, div. A, title VIII, §§ 822(c)(2), 827(c), Nov. 30, 1993, 107 Stat. 1707, 1713.
+Prior sections 4503 and 4504 were repealed by Pub. L. 103–160, div. A, title VIII, §§ 822(c)(2), 827(c), Nov. 30, 1993, 107 Stat. 1707, 1713.
 
 Section 4503, act Aug. 10, 1956, ch. 1041, 70A Stat. 252, related to research and development programs of the Army.
 
@@ -417,27 +417,27 @@ Section 4504, act Aug. 10, 1956, ch. 1041, 70A Stat. 252, related to procurement
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1856(d), transferred subsecs. (a)(2), (3), (b), and (c) of section 4501 of this title to this section and inserted subsec. (a) designation, heading, and introductory provisions.
+2021—Pub. L. 116–283, § 1856(d), transferred subsecs. (a)(2), (3), (b), and (c) of section 4501 of this title to this section and inserted subsec. (a) designation, heading, and introductory provisions.
 
-Subsec. (a). Pub. L. 116–283, § 1856(f)(1), redesignated pars. (2) and (3) as (1) and (2), respectively.
+Subsec. (a). Pub. L. 116–283, § 1856(f)(1), redesignated pars. (2) and (3) as (1) and (2), respectively.
 
-Subsec. (b)(1). Pub. L. 116–283, § 1856(f)(2)(A), substituted “section 4501(d) of this title” for “subsection (a)(1)(C)”.
+Subsec. (b)(1). Pub. L. 116–283, § 1856(f)(2)(A), substituted “section 4501(d) of this title” for “subsection (a)(1)(C)”.
 
-Subsec. (b)(2). Pub. L. 116–283, § 1856(f)(2)(B), substituted “section 4501 of this title” for “subsection (a)(1)”.
+Subsec. (b)(2). Pub. L. 116–283, § 1856(f)(2)(B), substituted “section 4501 of this title” for “subsection (a)(1)”.
 
-Subsec. (b)(3). Pub. L. 116–283, § 1856(f)(4), redesignated par. (3) as subsec. (c).
+Subsec. (b)(3). Pub. L. 116–283, § 1856(f)(4), redesignated par. (3) as subsec. (c).
 
-Subsec. (c). Pub. L. 116–283, § 1856(f)(5)(A), as amended by Pub. L. 117–81, § 1701(b)(19)(A), inserted heading and substituted “In carrying out subsection (b)(1)” for “In carrying out paragraph (1)” in introductory provisions.
+Subsec. (c). Pub. L. 116–283, § 1856(f)(5)(A), as amended by Pub. L. 117–81, § 1701(b)(19)(A), inserted heading and substituted “In carrying out subsection (b)(1)” for “In carrying out paragraph (1)” in introductory provisions.
 
-Pub. L. 116–283, § 1856(f)(4), redesignated par. (3) of subsec. (b) as subsec. (c) and subpars. (A) to (F) as pars. (1) to (6), respectively.
+Pub. L. 116–283, § 1856(f)(4), redesignated par. (3) of subsec. (b) as subsec. (c) and subpars. (A) to (F) as pars. (1) to (6), respectively.
 
-Pub. L. 116–283, § 1856(f)(3), redesignated subsec. (c) as (d).
+Pub. L. 116–283, § 1856(f)(3), redesignated subsec. (c) as (d).
 
-Subsec. (c)(1). Pub. L. 116–283, § 1856(f)(5)(B), inserted “and section 4501 of this title” after “of this section” and substituted “section 4501(b) of this title” for “subsection (a)(1)(A)”.
+Subsec. (c)(1). Pub. L. 116–283, § 1856(f)(5)(B), inserted “and section 4501 of this title” after “of this section” and substituted “section 4501(b) of this title” for “subsection (a)(1)(A)”.
 
-Subsec. (c)(6). Pub. L. 116–283, § 1856(f)(5)(C), substituted “section 4505” for “section 2330a”.
+Subsec. (c)(6). Pub. L. 116–283, § 1856(f)(5)(C), substituted “section 4505” for “section 2330a”.
 
-Subsec. (d). Pub. L. 116–283, § 1856(f)(3), redesignated subsec. (c) as (d).
+Subsec. (d). Pub. L. 116–283, § 1856(f)(3), redesignated subsec. (c) as (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -449,7 +449,7 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 note preceding section 3001 of this title.
 
-## § 4505. Procurement of services: tracking of purchases
+## § 4505. Procurement of services: tracking of purchases
 
 **(a) Data Collection Required.—** The Secretary of Defense shall establish a data collection system to provide management information with regard to each purchase of services by a military department or Defense Agency in excess of $3,000,000, regardless of whether such a purchase is made in the form of a contract, task order, delivery order, military interdepartmental purchase request, or any other form of interagency agreement, for services in the following service acquisition portfolio groups:
 
@@ -551,9 +551,9 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(2)** ensure the inventory is used to inform strategic workforce planning;
 
-**(3)** facilitate use of the inventory for compliance with section 235 1
+**(3)** facilitate use of the inventory for compliance with section 235 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title; and
 
@@ -585,113 +585,113 @@ of this title; and
 
 **(B)** The terms “small business concern owned and controlled by socially and economically disadvantaged individuals” and “small business concern owned and controlled by women” have the meanings given such terms, respectively, in section 8(d)(3) of the Small Business Act (15 U.S.C. 637(d)(3)).
 
-(Added Pub. L. 107–107, div. A, title VIII, § 801(c), Dec. 28, 2001, 115 Stat. 1176, § 2330a; amended Pub. L. 110–181, div. A, title VIII, § 807(a), Jan. 28, 2008, 122 Stat. 213; Pub. L. 111–84, div. A, title VIII, § 803(b), Oct. 28, 2009, 123 Stat. 2402; Pub. L. 111–383, div. A, title III, § 321, Jan. 7, 2011, 124 Stat. 4183; Pub. L. 112–81, div. A, title IX, § 936, Dec. 31, 2011, 125 Stat. 1545; Pub. L. 113–66, div. A, title IX, § 951(a), Dec. 26, 2013, 127 Stat. 839; Pub. L. 114–328, div. A, title VIII, §§ 812, 833(b)(2)(C)(ii), Dec. 23, 2016, 130 Stat. 2269, 2284; Pub. L. 115–91, div. A, title X, § 1081(a)(30), (d)(6)(A), Dec. 12, 2017, 131 Stat. 1595, 1600; Pub. L. 115–232, div. A, title VIII, § 819, Aug. 13, 2018, 132 Stat. 1853; renumbered § 4505 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1856(g), (h), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4275, 4294; Pub. L. 117–81, div. A, title XVII, § 1701(b)(19)(B), (d)(13), Dec. 27, 2021, 135 Stat. 2135, 2137; Pub. L. 118–159, div. A, title XVII, § 1701(a)(40), Dec. 23, 2024, 138 Stat. 2206.)
+(Added Pub. L. 107–107, div. A, title VIII, § 801(c), Dec. 28, 2001, 115 Stat. 1176, § 2330a; amended Pub. L. 110–181, div. A, title VIII, § 807(a), Jan. 28, 2008, 122 Stat. 213; Pub. L. 111–84, div. A, title VIII, § 803(b), Oct. 28, 2009, 123 Stat. 2402; Pub. L. 111–383, div. A, title III, § 321, Jan. 7, 2011, 124 Stat. 4183; Pub. L. 112–81, div. A, title IX, § 936, Dec. 31, 2011, 125 Stat. 1545; Pub. L. 113–66, div. A, title IX, § 951(a), Dec. 26, 2013, 127 Stat. 839; Pub. L. 114–328, div. A, title VIII, §§ 812, 833(b)(2)(C)(ii), Dec. 23, 2016, 130 Stat. 2269, 2284; Pub. L. 115–91, div. A, title X, § 1081(a)(30), (d)(6)(A), Dec. 12, 2017, 131 Stat. 1595, 1600; Pub. L. 115–232, div. A, title VIII, § 819, Aug. 13, 2018, 132 Stat. 1853; renumbered § 4505 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1856(g), (h), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4275, 4294; Pub. L. 117–81, div. A, title XVII, § 1701(b)(19)(B), (d)(13), Dec. 27, 2021, 135 Stat. 2135, 2137; Pub. L. 118–159, div. A, title XVII, § 1701(a)(40), Dec. 23, 2024, 138 Stat. 2206.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 235 of this title, referred to in subsec. (e)(3), was repealed by Pub. L. 117–81, div. A, title VIII, § 815(b)(1), Dec. 27, 2021, 135 Stat 1825.
+Section 235 of this title, referred to in subsec. (e)(3), was repealed by Pub. L. 117–81, div. A, title VIII, § 815(b)(1), Dec. 27, 2021, 135 Stat 1825.
 
 **Prior Provisions**
 
-A prior section 4505, act Aug. 10, 1956, ch. 1041, 70A Stat. 252, which related to procurement by Secretary of the Army of production equipment, was repealed by Pub. L. 103–160, div. A, title VIII, § 823(1), Nov. 30, 1993, 107 Stat. 1707.
+A prior section 4505, act Aug. 10, 1956, ch. 1041, 70A Stat. 252, which related to procurement by Secretary of the Army of production equipment, was repealed by Pub. L. 103–160, div. A, title VIII, § 823(1), Nov. 30, 1993, 107 Stat. 1707.
 
 **Amendments**
 
 2024—Subsec. (h)(6). Pub. L. 118–159 struck out “(as that term is defined in section 4505(g)(5) of this title)” after “personal services contracts”.
 
-2021—Pub. L. 116–283, § 1856(g), renumbered section 2330a of this title as this section.
+2021—Pub. L. 116–283, § 1856(g), renumbered section 2330a of this title as this section.
 
-Subsec. (h)(2). Pub. L. 117–81, § 1701(d)(13), which directed the substitution of “section 4508(b)(3)” for “section 2383(b)(3)”, could not be executed because of the intervening amendment by Pub. L. 116–283, § 1883(b)(2). See note below.
+Subsec. (h)(2). Pub. L. 117–81, § 1701(d)(13), which directed the substitution of “section 4508(b)(3)” for “section 2383(b)(3)”, could not be executed because of the intervening amendment by Pub. L. 116–283, § 1883(b)(2). See note below.
 
-Pub. L. 116–283, § 1883(b)(2), substituted “section 4508(b)(3)” for “section 2383(b)(3)”.
+Pub. L. 116–283, § 1883(b)(2), substituted “section 4508(b)(3)” for “section 2383(b)(3)”.
 
-Subsec. (h)(3). Pub. L. 116–283, § 1856(h), as amended by Pub. L. 117–81, § 1701(b)(19)(B), substituted “section 4508(b)(2)” for “section 2383(b)(2)”.
+Subsec. (h)(3). Pub. L. 116–283, § 1856(h), as amended by Pub. L. 117–81, § 1701(b)(19)(B), substituted “section 4508(b)(2)” for “section 2383(b)(2)”.
 
-Subsec. (h)(6). Pub. L. 116–283, § 1883(b)(2), substituted “section 4505(g)(5)” for “section 2330a(g)(5)”.
+Subsec. (h)(6). Pub. L. 116–283, § 1883(b)(2), substituted “section 4505(g)(5)” for “section 2330a(g)(5)”.
 
 2018—Subsec. (c)(1). Pub. L. 115–232, in introductory provisions, inserted “and contracts closely associated with inherently governmental functions” after “staff augmentation contracts” and substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
-Subsec. (c)(1)(B). Pub. L. 115–232, § 819(2), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+Subsec. (c)(1)(B). Pub. L. 115–232, § 819(2), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
-2017—Subsec. (d)(1)(C). Pub. L. 115–91, § 1081(a)(30)(A), struck out period before semicolon at end.
+2017—Subsec. (d)(1)(C). Pub. L. 115–91, § 1081(a)(30)(A), struck out period before semicolon at end.
 
-Subsec. (h)(1). Pub. L. 115–91, § 1081(a)(30)(B)(i), inserted heading.
+Subsec. (h)(1). Pub. L. 115–91, § 1081(a)(30)(B)(i), inserted heading.
 
-Subsec. (h)(2) to (4). Pub. L. 115–91, § 1081(d)(6)(A), amended directory language of Pub. L. 114–328, § 833(b)(2)(C)(ii). See 2016 Amendment notes below.
+Subsec. (h)(2) to (4). Pub. L. 115–91, § 1081(d)(6)(A), amended directory language of Pub. L. 114–328, § 833(b)(2)(C)(ii). See 2016 Amendment notes below.
 
-Subsec. (h)(5). Pub. L. 115–91, § 1081(a)(30)(B)(iii), inserted heading.
+Subsec. (h)(5). Pub. L. 115–91, § 1081(a)(30)(B)(iii), inserted heading.
 
-Pub. L. 115–91, § 1081(a)(30)(B)(ii), redesignated par. (6) defining “service acquisition portfolio groups” as (5). Former par. (5) redesignated (7).
+Pub. L. 115–91, § 1081(a)(30)(B)(ii), redesignated par. (6) defining “service acquisition portfolio groups” as (5). Former par. (5) redesignated (7).
 
-Pub. L. 115–91, § 1081(d)(6)(A), amended directory language of Pub. L. 114–328, § 833(b)(2)(C)(ii). See 2016 Amendment note below.
+Pub. L. 115–91, § 1081(d)(6)(A), amended directory language of Pub. L. 114–328, § 833(b)(2)(C)(ii). See 2016 Amendment note below.
 
-Subsec. (h)(6). Pub. L. 115–91, § 1081(a)(30)(B)(iv), inserted heading.
+Subsec. (h)(6). Pub. L. 115–91, § 1081(a)(30)(B)(iv), inserted heading.
 
-Pub. L. 115–91, § 1081(a)(30)(B)(ii), redesignated par. (7) as (6). Former par. (6) defining “service acquisition portfolio groups” redesignated (5) and former par. (6) relating to Small Business Act definitions redesignated (8).
+Pub. L. 115–91, § 1081(a)(30)(B)(ii), redesignated par. (7) as (6). Former par. (6) defining “service acquisition portfolio groups” redesignated (5) and former par. (6) relating to Small Business Act definitions redesignated (8).
 
-Pub. L. 115–91, § 1081(d)(6)(A), amended directory language of Pub. L. 114–328, § 833(b)(2)(C)(ii). See 2016 Amendment note below.
+Pub. L. 115–91, § 1081(d)(6)(A), amended directory language of Pub. L. 114–328, § 833(b)(2)(C)(ii). See 2016 Amendment note below.
 
-Subsec. (h)(7). Pub. L. 115–91, § 1081(a)(30)(B)(ii), redesignated par. (5) as (7). Former par. (7) redesignated (6).
+Subsec. (h)(7). Pub. L. 115–91, § 1081(a)(30)(B)(ii), redesignated par. (5) as (7). Former par. (7) redesignated (6).
 
-Subsec. (h)(8). Pub. L. 115–91, § 1081(a)(30)(B)(ii), redesignated par. (6) relating to Small Business Act definitions as (8).
+Subsec. (h)(8). Pub. L. 115–91, § 1081(a)(30)(B)(ii), redesignated par. (6) relating to Small Business Act definitions as (8).
 
-2016—Subsec. (a). Pub. L. 114–328, § 812(a), (b), substituted “in excess of $3,000,000” for “in excess of the simplified acquisition threshold” and “, for services in the following service acquisition portfolio groups:” for period at end and added pars. (1) to (4).
+2016—Subsec. (a). Pub. L. 114–328, § 812(a), (b), substituted “in excess of $3,000,000” for “in excess of the simplified acquisition threshold” and “, for services in the following service acquisition portfolio groups:” for period at end and added pars. (1) to (4).
 
-Subsec. (c). Pub. L. 114–328, § 812(c)(1), substituted “Inventory Summary” for “Inventory” in heading.
+Subsec. (c). Pub. L. 114–328, § 812(c)(1), substituted “Inventory Summary” for “Inventory” in heading.
 
-Subsec. (c)(1). Pub. L. 114–328, § 812(c)(2), substituted “prepare an annual inventory, and submit to Congress a summary of the inventory, of activities performed during the preceding fiscal year pursuant to staff augmentation contracts on behalf” for “submit to Congress an annual inventory of the activities performed during the preceding fiscal year pursuant to contracts for services (and pursuant to contracts for goods to the extent services are a significant component of performance as identified in a separate line item of a contract) for or on behalf”.
+Subsec. (c)(1). Pub. L. 114–328, § 812(c)(2), substituted “prepare an annual inventory, and submit to Congress a summary of the inventory, of activities performed during the preceding fiscal year pursuant to staff augmentation contracts on behalf” for “submit to Congress an annual inventory of the activities performed during the preceding fiscal year pursuant to contracts for services (and pursuant to contracts for goods to the extent services are a significant component of performance as identified in a separate line item of a contract) for or on behalf”.
 
-Subsec. (d). Pub. L. 114–328, § 812(d), redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: “Not later than 30 days after the date on which an inventory under subsection (c) is required to be submitted to Congress, the Secretary shall—
+Subsec. (d). Pub. L. 114–328, § 812(d), redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: “Not later than 30 days after the date on which an inventory under subsection (c) is required to be submitted to Congress, the Secretary shall—
 
 “(1) make the inventory available to the public; and
 
 “(2) publish in the Federal Register a notice that the inventory is available to the public.”
 
-Subsec. (d)(1). Pub. L. 114–328, § 812(e), inserted “, with particular focus and attention on the following categories of high-risk product service codes (also referred to as Federal supply codes):” after “responsible” and added subpars. (A) to (C).
+Subsec. (d)(1). Pub. L. 114–328, § 812(e), inserted “, with particular focus and attention on the following categories of high-risk product service codes (also referred to as Federal supply codes):” after “responsible” and added subpars. (A) to (C).
 
-Subsec. (e). Pub. L. 114–328, § 812(d)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+Subsec. (e). Pub. L. 114–328, § 812(d)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-Subsec. (f). Pub. L. 114–328, § 812(f), added subsec. (f). Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 114–328, § 812(f), added subsec. (f). Former subsec. (f) redesignated (e).
 
-Subsecs. (g), (h). Pub. L. 114–328, § 812(d), redesignated subsecs. (i) and (j) as (g) and (h), respectively, and struck out former subsecs. (g) and (h) which related to Inspector General reports and Comptroller General reports, respectively.
+Subsecs. (g), (h). Pub. L. 114–328, § 812(d), redesignated subsecs. (i) and (j) as (g) and (h), respectively, and struck out former subsecs. (g) and (h) which related to Inspector General reports and Comptroller General reports, respectively.
 
-Subsec. (h)(2). Pub. L. 114–328, § 833(b)(2)(C)(ii)(I), (II), as amended by Pub. L. 115–91, § 1081(d)(6)(A), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, par. (2) read as follows: “The definitions set forth in section 2225(f) of this title for the terms ‘simplified acquisition threshold’, ‘small business concern’, ‘small business concern owned and controlled by socially and economically disadvantaged individuals’, and ‘small business concern owned and controlled by women’ shall apply.”
+Subsec. (h)(2). Pub. L. 114–328, § 833(b)(2)(C)(ii)(I), (II), as amended by Pub. L. 115–91, § 1081(d)(6)(A), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, par. (2) read as follows: “The definitions set forth in section 2225(f) of this title for the terms ‘simplified acquisition threshold’, ‘small business concern’, ‘small business concern owned and controlled by socially and economically disadvantaged individuals’, and ‘small business concern owned and controlled by women’ shall apply.”
 
-Subsec. (h)(3), (4). Pub. L. 114–328, § 833(b)(2)(C)(ii)(II), as amended by Pub. L. 115–91, § 1081(d)(6)(A), redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) redesignated (2).
+Subsec. (h)(3), (4). Pub. L. 114–328, § 833(b)(2)(C)(ii)(II), as amended by Pub. L. 115–91, § 1081(d)(6)(A), redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) redesignated (2).
 
-Subsec. (h)(5). Pub. L. 114–328, § 833(b)(2)(C)(ii)(III), as amended by Pub. L. 115–91, § 1081(d)(6)(A), added par. (5). Former par. (5) redesignated (4).
+Subsec. (h)(5). Pub. L. 114–328, § 833(b)(2)(C)(ii)(III), as amended by Pub. L. 115–91, § 1081(d)(6)(A), added par. (5). Former par. (5) redesignated (4).
 
-Subsec. (h)(6). Pub. L. 114–328, § 833(b)(2)(C)(ii)(III), as amended by Pub. L. 115–91, § 1081(d)(6)(A), added par. (6) relating to Small Business Act definitions.
+Subsec. (h)(6). Pub. L. 114–328, § 833(b)(2)(C)(ii)(III), as amended by Pub. L. 115–91, § 1081(d)(6)(A), added par. (6) relating to Small Business Act definitions.
 
-Pub. L. 114–328, § 812(g), added par. (6) defining “service acquisition portfolio groups”.
+Pub. L. 114–328, § 812(g), added par. (6) defining “service acquisition portfolio groups”.
 
-Subsec. (h)(7). Pub. L. 114–328, § 812(g), added par. (7).
+Subsec. (h)(7). Pub. L. 114–328, § 812(g), added par. (7).
 
-Subsecs. (i), (j). Pub. L. 114–328, § 812(d)(2), redesignated subsecs. (i) and (j) as (g) and (h), respectively.
+Subsecs. (i), (j). Pub. L. 114–328, § 812(d)(2), redesignated subsecs. (i) and (j) as (g) and (h), respectively.
 
 2013—Subsecs. (g) to (j). Pub. L. 113–66 added subsecs. (g) and (h) and redesignated former subsecs. (g) and (h) as (i) and (j), respectively.
 
-2011—Subsec. (c). Pub. L. 111–383, § 321(2) to (4), substituted “The guidance for compiling the inventory shall be issued by the Under Secretary of Defense for Personnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition, Technology, and Logistics, as follows:” for “The entry for an activity on an inventory under this subsection shall include, for the fiscal year covered by such entry, the following:” in par. (1), added new subpars. (A) and (B) to par. (1), inserted par. (2) designation and introductory provisions before former subpars. (A) to (G) of par. (1) thereby making them part of par. (2), added subpar. (E), and struck out former subpar. (E) which read as follows: “The number of full-time contractor employees (or its equivalent) paid for the performance of the activity.”
+2011—Subsec. (c). Pub. L. 111–383, § 321(2) to (4), substituted “The guidance for compiling the inventory shall be issued by the Under Secretary of Defense for Personnel and Readiness, the Under Secretary of Defense (Comptroller), and the Under Secretary of Defense for Acquisition, Technology, and Logistics, as follows:” for “The entry for an activity on an inventory under this subsection shall include, for the fiscal year covered by such entry, the following:” in par. (1), added new subpars. (A) and (B) to par. (1), inserted par. (2) designation and introductory provisions before former subpars. (A) to (G) of par. (1) thereby making them part of par. (2), added subpar. (E), and struck out former subpar. (E) which read as follows: “The number of full-time contractor employees (or its equivalent) paid for the performance of the activity.”
 
-Subsec. (c)(1). Pub. L. 112–81, § 936(a)(1), inserted “(and pursuant to contracts for goods to the extent services are a significant component of performance as identified in a separate line item of a contract)” after “pursuant to contracts for services” in introductory provisions.
+Subsec. (c)(1). Pub. L. 112–81, § 936(a)(1), inserted “(and pursuant to contracts for goods to the extent services are a significant component of performance as identified in a separate line item of a contract)” after “pursuant to contracts for services” in introductory provisions.
 
-Subsec. (c)(1)(A)(ii), (iii). Pub. L. 112–81, § 936(a)(2), added cls. (ii) and (iii) and struck out former cl. (ii) which read as follows: “the calculation of contractor manpower equivalents in a manner that is comparable to the calculation of full-time equivalents for use in inventories of functions performed by Department of Defense employees.”
+Subsec. (c)(1)(A)(ii), (iii). Pub. L. 112–81, § 936(a)(2), added cls. (ii) and (iii) and struck out former cl. (ii) which read as follows: “the calculation of contractor manpower equivalents in a manner that is comparable to the calculation of full-time equivalents for use in inventories of functions performed by Department of Defense employees.”
 
-Subsec. (c)(1)(B). Pub. L. 112–81, § 936(a)(3), inserted “for requirements relating to acquisition” before period at end.
+Subsec. (c)(1)(B). Pub. L. 112–81, § 936(a)(3), inserted “for requirements relating to acquisition” before period at end.
 
-Subsec. (c)(2), (3). Pub. L. 111–383, § 321(1), redesignated par. (2) as (3).
+Subsec. (c)(2), (3). Pub. L. 111–383, § 321(1), redesignated par. (2) as (3).
 
-Subsec. (e)(2) to (4). Pub. L. 112–81, § 936(b), inserted “and” at end of par. (2), substituted period for “; and” at end of par. (3), and struck out par. (4) which read as follows: “develop a plan, including an enforcement mechanism and approval process, to provide for appropriate consideration of the conversion of activities identified under paragraph (3) within a reasonable period of time.”
+Subsec. (e)(2) to (4). Pub. L. 112–81, § 936(b), inserted “and” at end of par. (2), substituted period for “; and” at end of par. (3), and struck out par. (4) which read as follows: “develop a plan, including an enforcement mechanism and approval process, to provide for appropriate consideration of the conversion of activities identified under paragraph (3) within a reasonable period of time.”
 
-Subsec. (f) to (h). Pub. L. 112–81, § 936(c), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+Subsec. (f) to (h). Pub. L. 112–81, § 936(c), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
-2009—Subsec. (e)(4). Pub. L. 111–84 inserted “, including an enforcement mechanism and approval process,” after “plan”.
+2009—Subsec. (e)(4). Pub. L. 111–84 inserted “, including an enforcement mechanism and approval process,” after “plan”.
 
-2008—Subsecs. (c) to (g). Pub. L. 110–181, § 807(a)(1), (2), added subsecs. (c) to (f), redesignated former subsec. (d) as (g), and struck out heading and text of former subsec. (c). Former text read as follows: “To the maximum extent practicable, a single data collection system shall be used to collect data under this section and information under section 2225 of this title.”
+2008—Subsecs. (c) to (g). Pub. L. 110–181, § 807(a)(1), (2), added subsecs. (c) to (f), redesignated former subsec. (d) as (g), and struck out heading and text of former subsec. (c). Former text read as follows: “To the maximum extent practicable, a single data collection system shall be used to collect data under this section and information under section 2225 of this title.”
 
-Subsec. (g)(3) to (5). Pub. L. 110–181, § 807(a)(3), added pars. (3) to (5).
+Subsec. (g)(3) to (5). Pub. L. 110–181, § 807(a)(3), added pars. (3) to (5).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -705,17 +705,17 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–91, div. A, title X, § 1081(d), Dec. 12, 2017, 131 Stat. 1599, provided that the amendment made by section 1081(d)(6)(A) is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted.
+Pub. L. 115–91, div. A, title X, § 1081(d), Dec. 12, 2017, 131 Stat. 1599, provided that the amendment made by section 1081(d)(6)(A) is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted.
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–181, div. A, title VIII, § 807(b), Jan. 28, 2008, 122 Stat. 215, provided that:
+Pub. L. 110–181, div. A, title VIII, § 807(b), Jan. 28, 2008, 122 Stat. 215, provided that:
 
 > **“(1)** The amendments made by subsection (a) [amending this section] shall be effective upon the date of the enactment of this Act [Jan. 28, 2008].
 
 > **“(2)** The first inventory required by section 2330a(c) of title 10, United States Code [now 10 U.S.C. 4505(c)], as added by subsection (a), shall be submitted not later than the end of the third quarter of fiscal year 2008.”
 
-## § 4506. Procurement of services: data analysis and requirements validation
+## § 4506. Procurement of services: data analysis and requirements validation
 
 **(a) In General.—** The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller) and Director of Cost Assessment and Program Evaluation, shall ensure that—
 
@@ -781,7 +781,7 @@ Pub. L. 110–181, div. A, title VIII, § 807(b), Jan. 28, 2008, 122 Stat. 215
 
 **(4)** The Inspector General of the Department of Defense may conduct annual audits to ensure compliance with this subsection.
 
-**[(e)** Repealed. Pub. L. 119–60, div. A, title VIII, § 815(1), Dec. 18, 2025, 139 Stat. 953.]
+**[(e)** Repealed. Pub. L. 119–60, div. A, title VIII, § 815(1), Dec. 18, 2025, 139 Stat. 953.]
 
 **(f) Definitions.—** In this section:
 
@@ -789,7 +789,7 @@ Pub. L. 110–181, div. A, title VIII, § 807(b), Jan. 28, 2008, 122 Stat. 215
 
 **(2)** The term “acquisition decision authority” means the designated decision authority for each designated special interest services acquisition category, described in such Department of Defense Instruction.
 
-(Added Pub. L. 115–91, div. A, title VIII, § 851(a)(1), Dec. 12, 2017, 131 Stat. 1489, § 2329; amended Pub. L. 115–232, div. A, title VIII, § 818(a), Aug. 13, 2018, 132 Stat. 1852; Pub. L. 116–92, div. A, title VIII, § 817(a), title XVII, § 1731(a)(42), Dec. 20, 2019, 133 Stat. 1488, 1814; renumbered § 4506 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1856(g), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4275, 4294; Pub. L. 117–81, div. A, title VIII, § 815(a), Dec. 27, 2021, 135 Stat. 1824; Pub. L. 119–60, div. A, title VIII, § 815, Dec. 18, 2025, 139 Stat. 953.)
+(Added Pub. L. 115–91, div. A, title VIII, § 851(a)(1), Dec. 12, 2017, 131 Stat. 1489, § 2329; amended Pub. L. 115–232, div. A, title VIII, § 818(a), Aug. 13, 2018, 132 Stat. 1852; Pub. L. 116–92, div. A, title VIII, § 817(a), title XVII, § 1731(a)(42), Dec. 20, 2019, 133 Stat. 1488, 1814; renumbered § 4506 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1856(g), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4275, 4294; Pub. L. 117–81, div. A, title VIII, § 815(a), Dec. 27, 2021, 135 Stat. 1824; Pub. L. 119–60, div. A, title VIII, § 815, Dec. 18, 2025, 139 Stat. 953.)
 
 **Editorial Notes**
 
@@ -799,27 +799,27 @@ The date of the enactment of this subsection, referred to in subsec. (c)(3)(C), 
 
 **Prior Provisions**
 
-A prior section 4506, act Aug. 10, 1956, ch. 1041, 70A Stat. 253, which related to sale, loan, or gift of samples, drawings, and information to contractors, was repealed by Pub. L. 103–160, div. A, title VIII, § 822(b)(3), Nov. 30, 1993, 107 Stat. 1706.
+A prior section 4506, act Aug. 10, 1956, ch. 1041, 70A Stat. 253, which related to sale, loan, or gift of samples, drawings, and information to contractors, was repealed by Pub. L. 103–160, div. A, title VIII, § 822(b)(3), Nov. 30, 1993, 107 Stat. 1706.
 
 **Amendments**
 
-2025—Subsec. (e). Pub. L. 119–60, § 815(1), struck out subsec. (e) which related to timely planning to avoid bridge contracts.
+2025—Subsec. (e). Pub. L. 119–60, § 815(1), struck out subsec. (e) which related to timely planning to avoid bridge contracts.
 
-Subsec. (f). Pub. L. 119–60, § 815(2), redesignated pars. (3) and (4) as (1) and (2), respectively, and struck out former pars. (1) and (2) which defined the terms “bridge contract” and “requirements owner”, respectively, for purposes of this section.
+Subsec. (f). Pub. L. 119–60, § 815(2), redesignated pars. (3) and (4) as (1) and (2), respectively, and struck out former pars. (1) and (2) which defined the terms “bridge contract” and “requirements owner”, respectively, for purposes of this section.
 
-2021—Pub. L. 116–283, § 1856(g), renumbered section 2329 of this title as this section.
+2021—Pub. L. 116–283, § 1856(g), renumbered section 2329 of this title as this section.
 
-Subsec. (b). Pub. L. 117–81, § 815(a)(1)(A), substituted “February 1, 2023” for “October 1, 2021” in introductory provisions.
+Subsec. (b). Pub. L. 117–81, § 815(a)(1)(A), substituted “February 1, 2023” for “October 1, 2021” in introductory provisions.
 
-Subsec. (b)(4). Pub. L. 116–283, § 1883(b)(2), substituted “section 4505(c)” for “section 2330a(c)”.
+Subsec. (b)(4). Pub. L. 116–283, § 1883(b)(2), substituted “section 4505(c)” for “section 2330a(c)”.
 
-Pub. L. 117–81, § 815(a)(1)(B), added par. (4) and struck out former par. (4) which read as follows: “be organized using a common enterprise data structure developed under section 2222 of this title; and”.
+Pub. L. 117–81, § 815(a)(1)(B), added par. (4) and struck out former par. (4) which read as follows: “be organized using a common enterprise data structure developed under section 2222 of this title; and”.
 
-Subsec. (b)(5). Pub. L. 117–81, § 815(a)(1)(B), added par. (5) and struck out former par. (5) which read as follows: “be included in the future-years defense program submitted to Congress under section 221 of this title.”
+Subsec. (b)(5). Pub. L. 117–81, § 815(a)(1)(B), added par. (5) and struck out former par. (5) which read as follows: “be included in the future-years defense program submitted to Congress under section 221 of this title.”
 
-Subsec. (d). Pub. L. 117–81, § 815(a)(2), amended subsec. (d) generally. Prior to amendment, text read as follows: “Each Services Requirements Review Board shall evaluate each requirement for a services contract, taking into consideration total force management policies and procedures, available resources, the analyses conducted under subsection (c), and contracting efficacy and efficiency. An evaluation of a services contract for compliance with contracting policies and procedures may not be considered to be an evaluation of a requirement for such services contract.”
+Subsec. (d). Pub. L. 117–81, § 815(a)(2), amended subsec. (d) generally. Prior to amendment, text read as follows: “Each Services Requirements Review Board shall evaluate each requirement for a services contract, taking into consideration total force management policies and procedures, available resources, the analyses conducted under subsection (c), and contracting efficacy and efficiency. An evaluation of a services contract for compliance with contracting policies and procedures may not be considered to be an evaluation of a requirement for such services contract.”
 
-Subsec. (f). Pub. L. 117–81, § 815(a)(3), redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “Except with respect to the analyses required under subsection (c), this section shall not apply to—
+Subsec. (f). Pub. L. 117–81, § 815(a)(3), redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “Except with respect to the analyses required under subsection (c), this section shall not apply to—
 
 “(1) services contracts in support of contingency operations, humanitarian assistance, or disaster relief;
 
@@ -827,25 +827,25 @@ Subsec. (f). Pub. L. 117–81, § 815(a)(3), redesignated subsec. (g) as (f) a
 
 “(3) services contracts entered into pursuant to an international agreement.”
 
-Subsec. (f)(3). Pub. L. 117–81, § 815(a)(4)(A), substituted “January 10, 2020” for “January 5, 2016”.
+Subsec. (f)(3). Pub. L. 117–81, § 815(a)(4)(A), substituted “January 10, 2020” for “January 5, 2016”.
 
-Subsec. (f)(4). Pub. L. 117–81, § 815(a)(4)(B), added par. (4).
+Subsec. (f)(4). Pub. L. 117–81, § 815(a)(4)(B), added par. (4).
 
-Subsec. (g). Pub. L. 117–81, § 815(a)(3), redesignated subsec. (g) as (f).
+Subsec. (g). Pub. L. 117–81, § 815(a)(3), redesignated subsec. (g) as (f).
 
-2019—Subsec. (a). Pub. L. 116–92, § 817(a)(1), inserted “, acting through the Under Secretary of Defense (Comptroller) and Director of Cost Assessment and Program Evaluation,” after “Secretary of Defense” in introductory provisions.
+2019—Subsec. (a). Pub. L. 116–92, § 817(a)(1), inserted “, acting through the Under Secretary of Defense (Comptroller) and Director of Cost Assessment and Program Evaluation,” after “Secretary of Defense” in introductory provisions.
 
-Subsec. (b). Pub. L. 116–92, § 817(a)(2), inserted “, acting through the Under Secretary of Defense (Comptroller) and Director of Cost Assessment and Program Evaluation,” after “Secretary of Defense” in introductory provisions.
+Subsec. (b). Pub. L. 116–92, § 817(a)(2), inserted “, acting through the Under Secretary of Defense (Comptroller) and Director of Cost Assessment and Program Evaluation,” after “Secretary of Defense” in introductory provisions.
 
-Subsec. (c)(2)(A). Pub. L. 116–92, § 817(a)(3), inserted “, acting through the Under Secretary of Defense (Comptroller) and Director of Cost Assessment and Program Evaluation,” after “Secretary of Defense” in introductory provisions.
+Subsec. (c)(2)(A). Pub. L. 116–92, § 817(a)(3), inserted “, acting through the Under Secretary of Defense (Comptroller) and Director of Cost Assessment and Program Evaluation,” after “Secretary of Defense” in introductory provisions.
 
-Subsec. (g)(1). Pub. L. 116–92, § 1731(a)(42), substituted “term ‘bridge contract’ ” for “term ‘bridge contact’ ” in introductory provisions.
+Subsec. (g)(1). Pub. L. 116–92, § 1731(a)(42), substituted “term ‘bridge contract’ ” for “term ‘bridge contact’ ” in introductory provisions.
 
-2018—Subsec. (b). Pub. L. 115–232, § 818(a)(1), substituted “October 1, 2021” for “October 1, 2022” in introductory provisions.
+2018—Subsec. (b). Pub. L. 115–232, § 818(a)(1), substituted “October 1, 2021” for “October 1, 2022” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 115–232, § 818(a)(2), substituted “at or before” for “at or about” and inserted “or on the date on which the future-years defense program is submitted to Congress under section 221 of this title” after “title 31”.
+Subsec. (b)(1). Pub. L. 115–232, § 818(a)(2), substituted “at or before” for “at or about” and inserted “or on the date on which the future-years defense program is submitted to Congress under section 221 of this title” after “title 31”.
 
-Subsec. (b)(5). Pub. L. 115–232, § 818(a)(3)–(5), added par. (5).
+Subsec. (b)(5). Pub. L. 115–232, § 818(a)(3)–(5), added par. (5).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -853,7 +853,7 @@ Subsec. (b)(5). Pub. L. 115–232, § 818(a)(3)–(5), added par. (5).
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-## § 4507. Procurement of services: contracts for professional and technical services
+## § 4507. Procurement of services: contracts for professional and technical services
 
 **(a) In General.—** The Secretary of Defense shall prescribe regulations to ensure, to the maximum extent practicable, that professional and technical services are acquired on the basis of the task to be performed rather than on the basis of the number of hours of services provided.
 
@@ -871,13 +871,13 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **(6)** provide guidance to contracting officers to ensure that any use of uncompensated overtime will not degrade the level of technical expertise required to perform the contract.
 
-(Added Pub. L. 101–510, div. A, title VIII, § 834(a)(1), Nov. 5, 1990, 104 Stat. 1613, § 2331; amended Pub. L. 102–25, title VII, § 701(a), Apr. 6, 1991, 105 Stat. 113; Pub. L. 103–355, title I, § 1004(c), Oct. 13, 1994, 108 Stat. 3253; Pub. L. 107–107, div. A, title VIII, § 801(g)(1), Dec. 28, 2001, 115 Stat. 1177; renumbered § 4507, Pub. L. 116–283, div. A, title XVIII, § 1856(g), Jan. 1, 2021, 134 Stat. 4275.)
+(Added Pub. L. 101–510, div. A, title VIII, § 834(a)(1), Nov. 5, 1990, 104 Stat. 1613, § 2331; amended Pub. L. 102–25, title VII, § 701(a), Apr. 6, 1991, 105 Stat. 113; Pub. L. 103–355, title I, § 1004(c), Oct. 13, 1994, 108 Stat. 3253; Pub. L. 107–107, div. A, title VIII, § 801(g)(1), Dec. 28, 2001, 115 Stat. 1177; renumbered § 4507, Pub. L. 116–283, div. A, title XVIII, § 1856(g), Jan. 1, 2021, 134 Stat. 4275.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4507, act Aug. 10, 1956, ch. 1041, 70A Stat. 253, which related to sale of ordnance and ordnance stores to designers, was repealed by Pub. L. 103–160, div. A, title VIII, § 822(b)(3), Nov. 30, 1993, 107 Stat. 1706.
+A prior section 4507, act Aug. 10, 1956, ch. 1041, 70A Stat. 253, which related to sale of ordnance and ordnance stores to designers, was repealed by Pub. L. 103–160, div. A, title VIII, § 822(b)(3), Nov. 30, 1993, 107 Stat. 1706.
 
 **Amendments**
 
@@ -907,13 +907,13 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 **Regulations**
 
-Pub. L. 101–510, div. A, title VIII, § 834(b), Nov. 5, 1990, 104 Stat. 1614, provided that: “Not later than 180 days after the date of the enactment of this Act [Nov. 5, 1990], the Secretary of Defense shall publish for public comment new regulations to carry out the requirements in this section [enacting this section]. The Secretary shall promulgate final regulations to carry out such requirements not later than 270 days after the date of the enactment of this Act.”
+Pub. L. 101–510, div. A, title VIII, § 834(b), Nov. 5, 1990, 104 Stat. 1614, provided that: “Not later than 180 days after the date of the enactment of this Act [Nov. 5, 1990], the Secretary of Defense shall publish for public comment new regulations to carry out the requirements in this section [enacting this section]. The Secretary shall promulgate final regulations to carry out such requirements not later than 270 days after the date of the enactment of this Act.”
 
 **Provisions Not Affected by Pub. L. 103–355**
 
 Repeal of subsec. (c) of this section by Pub. L. 103–355 not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former 40 U.S.C. 759 or chapter 11 of Title 40, Public Buildings, Property, and Works, see section 1004(d) of Pub. L. 103–355, set out as a note preceding section 3401 of this title.
 
-## § 4508. Contractor performance of acquisition functions closely associated with inherently governmental functions
+## § 4508. Contractor performance of acquisition functions closely associated with inherently governmental functions
 
 **(a) Limitation.—** The head of an agency may enter into a contract for the performance of acquisition functions closely associated with inherently governmental functions only if the contracting officer for the contract ensures that—
 
@@ -937,19 +937,19 @@ Repeal of subsec. (c) of this section by Pub. L. 103–355 not to be construed a
 
 **(4)** The term “organizational conflict of interest” has the meaning given such term in subpart 9.5 of part 9 of the Federal Acquisition Regulation.
 
-(Added Pub. L. 108–375, div. A, title VIII, § 804(a)(1), Oct. 28, 2004, 118 Stat. 2007, § 2383; renumbered § 4508 and amended Pub. L. 116–283, div. A, title XVIII, § 1856(g), (i), Jan. 1, 2021, 134 Stat. 4275.)
+(Added Pub. L. 108–375, div. A, title VIII, § 804(a)(1), Oct. 28, 2004, 118 Stat. 2007, § 2383; renumbered § 4508 and amended Pub. L. 116–283, div. A, title XVIII, § 1856(g), (i), Jan. 1, 2021, 134 Stat. 4275.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4508, acts Aug. 10, 1956, ch. 1041, 70A Stat. 253; Nov. 2, 1966, Pub. L. 89–718, § 27, 80 Stat. 1119, which related tests of iron, steel, and other materials, was repealed by Pub. L. 103–160, div. A, title VIII, § 822(b)(3), Nov. 30, 1993, 107 Stat. 1706.
+A prior section 4508, acts Aug. 10, 1956, ch. 1041, 70A Stat. 253; Nov. 2, 1966, Pub. L. 89–718, § 27, 80 Stat. 1119, which related tests of iron, steel, and other materials, was repealed by Pub. L. 103–160, div. A, title VIII, § 822(b)(3), Nov. 30, 1993, 107 Stat. 1706.
 
 **Amendments**
 
 2021—Pub. L. 116–283 renumbered section 2383 of this title as this section.
 
-Subsec. (b)(1). Pub. L. 116–283, § 1856(i), which directed striking out “has the meaning given in section 2302(1) of this title, except that such term”, was executed by striking out “has the meaning given such term in section 2302(1) of this title, except that such term” before “does not include”, to reflect the probable intent of Congress.
+Subsec. (b)(1). Pub. L. 116–283, § 1856(i), which directed striking out “has the meaning given in section 2302(1) of this title, except that such term”, was executed by striking out “has the meaning given such term in section 2302(1) of this title, except that such term” before “does not include”, to reflect the probable intent of Congress.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -959,9 +959,9 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Effective Date**
 
-Pub. L. 108–375, div. A, title VIII, § 804(b), Oct. 28, 2004, 118 Stat. 2008, provided that: “Section 2383 of title 10, United States Code [now 10 U.S.C. 4508] (as added by subsection (a)), shall apply to contracts entered into on or after the date of the enactment of this Act [Oct. 28, 2004].”
+Pub. L. 108–375, div. A, title VIII, § 804(b), Oct. 28, 2004, 118 Stat. 2008, provided that: “Section 2383 of title 10, United States Code [now 10 U.S.C. 4508] (as added by subsection (a)), shall apply to contracts entered into on or after the date of the enactment of this Act [Oct. 28, 2004].”
 
-## § 4509. Contracts for advisory and assistance services: cost comparison studies
+## § 4509. Contracts for advisory and assistance services: cost comparison studies
 
 **(a) Requirement.—**
 
@@ -975,17 +975,17 @@ Pub. L. 108–375, div. A, title VIII, § 804(b), Oct. 28, 2004, 118 Stat. 200
 
 **(b) Waiver.—** The Secretary of Defense may, pursuant to guidelines prescribed by the Secretary, waive the requirement to perform a cost comparison study under subsection (a)(2) based on factors that are not related to cost.
 
-(Added Pub. L. 103–337, div. A, title III, § 363(a)(1), Oct. 5, 1994, 108 Stat. 2733, § 2410*l*; renumbered § 4509, Pub. L. 116–283, div. A, title XVIII, § 1856(g), Jan. 1, 2021, 134 Stat. 4275.)
+(Added Pub. L. 103–337, div. A, title III, § 363(a)(1), Oct. 5, 1994, 108 Stat. 2733, § 2410*l*; renumbered § 4509, Pub. L. 116–283, div. A, title XVIII, § 1856(g), Jan. 1, 2021, 134 Stat. 4275.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4531, act Aug. 10, 1956, ch. 1041, 70A Stat. 253, authorized Secretary of the Army to procure materials and facilities necessary to maintain and support the Army, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 823(2), Nov. 30, 1993, 107 Stat. 1707.
+A prior section 4531, act Aug. 10, 1956, ch. 1041, 70A Stat. 253, authorized Secretary of the Army to procure materials and facilities necessary to maintain and support the Army, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 823(2), Nov. 30, 1993, 107 Stat. 1707.
 
 A prior section 4532 was renumbered section 7532 of this title.
 
-Prior sections 4533 to 4535 were repealed by Pub. L. 103–160, div. A, title VIII, § 823(3)–(5), Nov. 30, 1993, 107 Stat. 1707.
+Prior sections 4533 to 4535 were repealed by Pub. L. 103–160, div. A, title VIII, § 823(3)–(5), Nov. 30, 1993, 107 Stat. 1707.
 
 Section 4533, act Aug. 10, 1956, ch. 1041, 70A Stat. 254, related to purchases of army rations.
 
@@ -995,13 +995,13 @@ Section 4535, act Aug. 10, 1956, ch. 1041, 70A Stat. 254, provided that exceptio
 
 A prior section 4536 was renumbered section 7536 of this title.
 
-Prior sections 4537 and 4538 were repealed by Pub. L. 103–160, div. A, title VIII, § 823(6), (7), Nov. 30, 1993, 107 Stat. 1707.
+Prior sections 4537 and 4538 were repealed by Pub. L. 103–160, div. A, title VIII, § 823(6), (7), Nov. 30, 1993, 107 Stat. 1707.
 
-Section 4537, acts Aug. 10, 1956, ch. 1041, 70A Stat. 254; Nov. 2, 1966, Pub. L. 89–718, § 8(a), 80 Stat. 1117; Dec. 12, 1980, Pub. L. 96–513, title V, § 512(14), 94 Stat. 2930, authorized Secretary of the Army to obtain assistance of United States mapping agencies in making and developing military surveys and maps.
+Section 4537, acts Aug. 10, 1956, ch. 1041, 70A Stat. 254; Nov. 2, 1966, Pub. L. 89–718, § 8(a), 80 Stat. 1117; Dec. 12, 1980, Pub. L. 96–513, title V, § 512(14), 94 Stat. 2930, authorized Secretary of the Army to obtain assistance of United States mapping agencies in making and developing military surveys and maps.
 
-Section 4538, acts Aug. 10, 1956, ch. 1041, 70A Stat. 255; Dec. 12, 1980, Pub. L. 96–513, title V, § 512(15), 94 Stat. 2930, related to exchange and reclamation of unserviceable ammunition.
+Section 4538, acts Aug. 10, 1956, ch. 1041, 70A Stat. 255; Dec. 12, 1980, Pub. L. 96–513, title V, § 512(15), 94 Stat. 2930, related to exchange and reclamation of unserviceable ammunition.
 
-A prior section 4539, act Aug. 10, 1956, ch. 1041, 70A Stat. 255, provided for purchase of horses and mules in open market at Army posts, within maximum prices prescribed by Secretary of the Army, prior to repeal by Pub. L. 91–482, § 1(a), Oct. 21, 1970, 84 Stat. 1082.
+A prior section 4539, act Aug. 10, 1956, ch. 1041, 70A Stat. 255, provided for purchase of horses and mules in open market at Army posts, within maximum prices prescribed by Secretary of the Army, prior to repeal by Pub. L. 91–482, § 1(a), Oct. 21, 1970, 84 Stat. 1082.
 
 A prior section 4540 was renumbered section 7540 of this title.
 
@@ -1021,11 +1021,11 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Effective Date**
 
-Pub. L. 103–337, div. A, title III, § 363(c), Oct. 5, 1994, 108 Stat. 2734, provided that: “Section 2410*l* of title 10, United States Code [now 10 U.S.C. 4509], as added by subsection (a), shall take effect 180 days after the date of the enactment of this Act [Oct. 5, 1994].”
+Pub. L. 103–337, div. A, title III, § 363(c), Oct. 5, 1994, 108 Stat. 2734, provided that: “Section 2410*l* of title 10, United States Code [now 10 U.S.C. 4509], as added by subsection (a), shall take effect 180 days after the date of the enactment of this Act [Oct. 5, 1994].”
 
 **Procedures for Conduct of Studies**
 
-Pub. L. 103–337, div. A, title III, § 363(b), Oct. 5, 1994, 108 Stat. 2734, provided that:
+Pub. L. 103–337, div. A, title III, § 363(b), Oct. 5, 1994, 108 Stat. 2734, provided that:
 
 > “The Secretary of Defense shall prescribe the following procedures:
 

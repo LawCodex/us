@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—SEX OFFENDER REGISTRATION AND NOTIFICATION
 
-### § 20901. Declaration of purpose
+### § 20901. Declaration of purpose
 
 In order to protect the public from sex offenders and offenders against children, and in response to the vicious attacks by violent predators against the victims listed below, Congress in this chapter establishes a comprehensive national system for the registration of those offenders:
 
@@ -55,7 +55,7 @@ In order to protect the public from sex offenders and offenders against children
 
 **(17)** Samantha Runnion, who was 5 years old, was abducted, sexually assaulted, and murdered in California on July 15, 2002.
 
-(Pub. L. 109–248, title I, § 102, July 27, 2006, 120 Stat. 590.)
+(Pub. L. 109–248, title I, § 102, July 27, 2006, 120 Stat. 590.)
 
 **Editorial Notes**
 
@@ -67,11 +67,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Section was formerly classified to section 16901 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 20902. Establishment of program
+### § 20902. Establishment of program
 
 This chapter establishes the Jacob Wetterling, Megan Nicole Kanka, and Pam Lychner Sex Offender Registration and Notification Program.
 
-(Pub. L. 109–248, title I, § 103, July 27, 2006, 120 Stat. 591.)
+(Pub. L. 109–248, title I, § 103, July 27, 2006, 120 Stat. 591.)
 
 **Editorial Notes**
 
@@ -83,7 +83,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Section was formerly classified to section 16902 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 20903. Tribal registry
+### § 20903. Tribal registry
 
 **(1) Establishment** The Attorney General shall contract with any interested Indian tribe, tribal organization, or tribal nonprofit organization to develop and maintain—
 
@@ -95,7 +95,7 @@ Section was formerly classified to section 16902 of Title 42, The Public Health 
 
 There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2014 through 2018, to remain available until expended.
 
-(Pub. L. 109–162, title IX, § 905(b), Jan. 5, 2006, 119 Stat. 3080; Pub. L. 113–4, title IX, § 907(b), Mar. 7, 2013, 127 Stat. 125.)
+(Pub. L. 109–162, title IX, § 905(b), Jan. 5, 2006, 119 Stat. 3080; Pub. L. 113–4, title IX, § 907(b), Mar. 7, 2013, 127 Stat. 125.)
 
 **Editorial Notes**
 
@@ -113,7 +113,7 @@ Section was formerly classified as a note under section 534 of Title 28, Judicia
 
 ### Part A—Sex Offender Registration and Notification
 
-#### § 20911. Relevant definitions, including Amie Zyla expansion of sex offender definition and expanded inclusion of child predators
+#### § 20911. Relevant definitions, including Amie Zyla expansion of sex offender definition and expanded inclusion of child predators
 
 In this subchapter the following definitions apply:
 
@@ -133,9 +133,9 @@ The term “tier I sex offender” means a sex offender other than a tier II or 
 
 **(ii)** coercion and enticement (as described in section 2422(b) of title 18);
 
-**(iii)** transportation with intent to engage in criminal sexual activity (as described in section 2423(a)) 1
+**(iii)** transportation with intent to engage in criminal sexual activity (as described in section 2423(a)) 1
 
-<sup>1</sup>  So in original. The second closing parenthesis probably should follow “18”.
+<sup>1</sup> So in original. The second closing parenthesis probably should follow “18”.
 
 of title 18;
 
@@ -251,7 +251,7 @@ The term “resides” means, with respect to an individual, the location of the
 
 The term “minor” means an individual who has not attained the age of 18 years.
 
-(Pub. L. 109–248, title I, § 111, July 27, 2006, 120 Stat. 591.)
+(Pub. L. 109–248, title I, § 111, July 27, 2006, 120 Stat. 591.)
 
 **Editorial Notes**
 
@@ -263,7 +263,7 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 Section was formerly classified to section 16911 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-#### § 20912. Registry requirements for jurisdictions
+#### § 20912. Registry requirements for jurisdictions
 
 **(a) Jurisdiction to maintain a registry**
 
@@ -273,7 +273,7 @@ Each jurisdiction shall maintain a jurisdiction-wide sex offender registry confo
 
 The Attorney General shall issue guidelines and regulations to interpret and implement this subchapter.
 
-(Pub. L. 109–248, title I, § 112, July 27, 2006, 120 Stat. 593.)
+(Pub. L. 109–248, title I, § 112, July 27, 2006, 120 Stat. 593.)
 
 **Editorial Notes**
 
@@ -285,7 +285,7 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 Section was formerly classified to section 16912 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-#### § 20913. Registry requirements for sex offenders
+#### § 20913. Registry requirements for sex offenders
 
 **(a) In general**
 
@@ -309,7 +309,7 @@ The Attorney General shall have the authority to specify the applicability of th
 
 Each jurisdiction, other than a Federally recognized Indian tribe, shall provide a criminal penalty that includes a maximum term of imprisonment that is greater than 1 year for the failure of a sex offender to comply with the requirements of this subchapter.
 
-(Pub. L. 109–248, title I, § 113, July 27, 2006, 120 Stat. 593.)
+(Pub. L. 109–248, title I, § 113, July 27, 2006, 120 Stat. 593.)
 
 **Editorial Notes**
 
@@ -323,7 +323,7 @@ This chapter, referred to in subsec. (d), was in the original “this Act”, me
 
 Section was formerly classified to section 16913 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-#### § 20914. Information required in registration
+#### § 20914. Information required in registration
 
 **(a) Provided by the offender** The sex offender shall provide the following information to the appropriate official for inclusion in the sex offender registry:
 
@@ -365,7 +365,7 @@ Section was formerly classified to section 16913 of Title 42, The Public Health 
 
 A sex offender shall provide and update information required under subsection (a), including information relating to intended travel outside the United States required under paragraph (7) of that subsection, in conformity with any time and manner requirements prescribed by the Attorney General.
 
-(Pub. L. 109–248, title I, § 114, July 27, 2006, 120 Stat. 594; Pub. L. 114–119, § 6(a), Feb. 8, 2016, 130 Stat. 22.)
+(Pub. L. 109–248, title I, § 114, July 27, 2006, 120 Stat. 594; Pub. L. 114–119, § 6(a), Feb. 8, 2016, 130 Stat. 22.)
 
 **Editorial Notes**
 
@@ -375,11 +375,11 @@ Section was formerly classified to section 16914 of Title 42, The Public Health 
 
 **Amendments**
 
-2016—Subsec. (a)(7), (8). Pub. L. 114–119, § 6(a)(1), added par. (7) and redesignated former par. (7) as (8).
+2016—Subsec. (a)(7), (8). Pub. L. 114–119, § 6(a)(1), added par. (7) and redesignated former par. (7) as (8).
 
-Subsec. (c). Pub. L. 114–119, § 6(a)(2), added subsec. (c).
+Subsec. (c). Pub. L. 114–119, § 6(a)(2), added subsec. (c).
 
-#### § 20915. Duration of registration requirement
+#### § 20915. Duration of registration requirement
 
 **(a) Full registration period** A sex offender shall keep the registration current for the full registration period (excluding any time the sex offender is in custody or civilly committed) unless the offender is allowed a reduction under subsection (b). The full registration period is—
 
@@ -399,9 +399,9 @@ Subsec. (c). Pub. L. 114–119, § 6(a)(2), added subsec. (c).
 
 **(C)** successfully completing any periods of supervised release, probation, and parole; and
 
-**(D)** successfully completing of 1
+**(D)** successfully completing of 1
 
-<sup>1</sup>  So in original. The word “of” probably should not appear.
+<sup>1</sup> So in original. The word “of” probably should not appear.
 
 an appropriate sex offender treatment program certified by a jurisdiction or by the Attorney General.
 
@@ -417,7 +417,7 @@ an appropriate sex offender treatment program certified by a jurisdiction or by 
 
 **(B)** a tier III sex offender adjudicated delinquent, the reduction is from life to that period for which the clean record under paragraph (2) is maintained.
 
-(Pub. L. 109–248, title I, § 115, July 27, 2006, 120 Stat. 595.)
+(Pub. L. 109–248, title I, § 115, July 27, 2006, 120 Stat. 595.)
 
 **Editorial Notes**
 
@@ -429,13 +429,13 @@ This subchapter, referred to in subsec. (b)(2)(B), was in the original “this t
 
 Section was formerly classified to section 16915 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-#### § 20916. Direction to the Attorney General
+#### § 20916. Direction to the Attorney General
 
 **(a) Requirement that sex offenders provide certain Internet related information to sex offender registries**
 
-The Attorney General, using the authority provided in section 114(a)(7) 1
+The Attorney General, using the authority provided in section 114(a)(7) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Sex Offender Registration and Notification Act [34 U.S.C. 20914(a)(7)], shall require that each sex offender provide to the sex offender registry those Internet identifiers the sex offender uses or will use of any type that the Attorney General determines to be appropriate under that Act [34 U.S.C. 20901 et seq.]. These records of Internet identifiers shall be subject to the Privacy Act (5 U.S.C. 552a) to the same extent as the other records in the National Sex Offender Registry.
 
@@ -473,13 +473,13 @@ As used in this Act, the term “Internet identifiers” means electronic mail a
 
 A term defined for the purposes of the Sex Offender Registration and Notification Act [34 U.S.C. 20901 et seq.] has the same meaning in this Act.
 
-(Pub. L. 110–400, § 2, Oct. 13, 2008, 122 Stat. 4224.)
+(Pub. L. 110–400, § 2, Oct. 13, 2008, 122 Stat. 4224.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Sex Offender Registration and Notification Act, referred to in subsecs. (a) and (e)(3), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to this subchapter. Section 114(a)(7) of the Act was redesignated section 114(a)(8) of the Act by Pub. L. 114–119, § 6(a)(1)(A), Feb. 8, 2016, 130 Stat. 22. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of this title and Tables.
+The Sex Offender Registration and Notification Act, referred to in subsecs. (a) and (e)(3), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to this subchapter. Section 114(a)(7) of the Act was redesignated section 114(a)(8) of the Act by Pub. L. 114–119, § 6(a)(1)(A), Feb. 8, 2016, 130 Stat. 22. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of this title and Tables.
 
 This Act, referred to in subsec. (e), is Pub. L. 110–400, Oct. 13, 2008, 122 Stat. 4224, known as the Keeping the Internet Devoid of Sexual Predators Act of 2008, and also known as the KIDS Act of 2008, which enacted this section and section 20917 of this title, amended section 20981 of this title, and enacted provisions set out as notes under sections 10101 and 20981 of this title. For complete classification of this Act to the Code, see Short Title of 2008 Act note set out under section 10101 of this title and Tables.
 
@@ -489,7 +489,7 @@ Section was enacted as part of the Keeping the Internet Devoid of Sexual Predato
 
 Section was formerly classified to section 16915a of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-#### § 20917. Checking system for social networking websites
+#### § 20917. Checking system for social networking websites
 
 **(a) In general**
 
@@ -591,7 +591,7 @@ A social networking website shall minimize the number of employees that are prov
 
 Nothing in this section shall be construed to require any Internet website, including a social networking website, to use the system, and no Federal or State liability, or any other actionable adverse consequence, shall be imposed on such website based on its decision not to do so.
 
-(Pub. L. 110–400, § 3, Oct. 13, 2008, 122 Stat. 4225.)
+(Pub. L. 110–400, § 3, Oct. 13, 2008, 122 Stat. 4225.)
 
 **Editorial Notes**
 
@@ -605,7 +605,7 @@ Section was enacted as part of the Keeping the Internet Devoid of Sexual Predato
 
 Section was formerly classified to section 16915b of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-#### § 20918. Periodic in person verification
+#### § 20918. Periodic in person verification
 
 A sex offender shall appear in person, allow the jurisdiction to take a current photograph, and verify the information in each registry in which that offender is required to be registered not less frequently than—
 
@@ -615,7 +615,7 @@ A sex offender shall appear in person, allow the jurisdiction to take a current 
 
 **(3)** every 3 months, if the offender is a tier III sex offender.
 
-(Pub. L. 109–248, title I, § 116, July 27, 2006, 120 Stat. 595.)
+(Pub. L. 109–248, title I, § 116, July 27, 2006, 120 Stat. 595.)
 
 **Editorial Notes**
 
@@ -623,7 +623,7 @@ A sex offender shall appear in person, allow the jurisdiction to take a current 
 
 Section was formerly classified to section 16916 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-#### § 20919. Duty to notify sex offenders of registration requirements and to register
+#### § 20919. Duty to notify sex offenders of registration requirements and to register
 
 **(a) In general** An appropriate official shall, shortly before release of the sex offender from custody, or, if the sex offender is not in custody, immediately after the sentencing of the sex offender, for the offense giving rise to the duty to register—
 
@@ -637,7 +637,7 @@ Section was formerly classified to section 16916 of Title 42, The Public Health 
 
 The Attorney General shall prescribe rules for the notification of sex offenders who cannot be registered in accordance with subsection (a).
 
-(Pub. L. 109–248, title I, § 117, July 27, 2006, 120 Stat. 595.)
+(Pub. L. 109–248, title I, § 117, July 27, 2006, 120 Stat. 595.)
 
 **Editorial Notes**
 
@@ -649,7 +649,7 @@ This subchapter, referred to in subsec. (a)(1), was in the original “this titl
 
 Section was formerly classified to section 16917 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-#### § 20920. Public access to sex offender information through the Internet
+#### § 20920. Public access to sex offender information through the Internet
 
 **(a) In general**
 
@@ -687,7 +687,7 @@ The site shall include instructions on how to seek correction of information tha
 
 The site shall include a warning that information on the site should not be used to unlawfully injure, harass, or commit a crime against any individual named in the registry or residing or working at any reported address. The warning shall note that any such action could result in civil or criminal penalties.
 
-(Pub. L. 109–248, title I, § 118, July 27, 2006, 120 Stat. 596.)
+(Pub. L. 109–248, title I, § 118, July 27, 2006, 120 Stat. 596.)
 
 **Editorial Notes**
 
@@ -699,7 +699,7 @@ The Dru Sjodin National Sex Offender Public Website, referred to in subsec. (a),
 
 Section was formerly classified to section 16918 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-#### § 20921. National Sex Offender Registry
+#### § 20921. National Sex Offender Registry
 
 **(a) Internet**
 
@@ -709,7 +709,7 @@ The Attorney General shall maintain a national database at the Federal Bureau of
 
 The Attorney General shall ensure (through the National Sex Offender Registry or otherwise) that updated information about a sex offender is immediately transmitted by electronic forwarding to all relevant jurisdictions.
 
-(Pub. L. 109–248, title I, § 119, July 27, 2006, 120 Stat. 596.)
+(Pub. L. 109–248, title I, § 119, July 27, 2006, 120 Stat. 596.)
 
 **Editorial Notes**
 
@@ -717,7 +717,7 @@ The Attorney General shall ensure (through the National Sex Offender Registry or
 
 Section was formerly classified to section 16919 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-#### § 20922. Dru Sjodin National Sex Offender Public Website
+#### § 20922. Dru Sjodin National Sex Offender Public Website
 
 **(a) Establishment**
 
@@ -727,7 +727,7 @@ There is established the Dru Sjodin National Sex Offender Public Website (herein
 
 The Website shall include relevant information for each sex offender and other person listed on a jurisdiction’s Internet site. The Website shall allow the public to obtain relevant information for each sex offender by a single query for any given zip code or geographical radius set by the user in a form and with such limitations as may be established by the Attorney General and shall have such other field search capabilities as the Attorney General may provide.
 
-(Pub. L. 109–248, title I, § 120, July 27, 2006, 120 Stat. 597.)
+(Pub. L. 109–248, title I, § 120, July 27, 2006, 120 Stat. 597.)
 
 **Editorial Notes**
 
@@ -739,7 +739,7 @@ The Dru Sjodin National Sex Offender Public Website, referred to in text, is loc
 
 Section was formerly classified to section 16920 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-#### § 20923. Megan Nicole Kanka and Alexandra Nicole Zapp Community Notification Program
+#### § 20923. Megan Nicole Kanka and Alexandra Nicole Zapp Community Notification Program
 
 **(a) Establishment of Program**
 
@@ -765,7 +765,7 @@ There is established the Megan Nicole Kanka and Alexandra Nicole Zapp Community 
 
 Notwithstanding subsection (b), an organization or individual described in subsection (b)(6) or (b)(7) may opt to receive the notification described in that subsection no less frequently than once every five business days.
 
-(Pub. L. 109–248, title I, § 121, July 27, 2006, 120 Stat. 597.)
+(Pub. L. 109–248, title I, § 121, July 27, 2006, 120 Stat. 597.)
 
 **Editorial Notes**
 
@@ -773,11 +773,11 @@ Notwithstanding subsection (b), an organization or individual described in subse
 
 Section was formerly classified to section 16921 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-#### § 20924. Actions to be taken when sex offender fails to comply
+#### § 20924. Actions to be taken when sex offender fails to comply
 
 An appropriate official shall notify the Attorney General and appropriate law enforcement agencies of any failure by a sex offender to comply with the requirements of a registry and revise the jurisdiction’s registry to reflect the nature of that failure. The appropriate official, the Attorney General, and each such law enforcement agency shall take any appropriate action to ensure compliance.
 
-(Pub. L. 109–248, title I, § 122, July 27, 2006, 120 Stat. 597.)
+(Pub. L. 109–248, title I, § 122, July 27, 2006, 120 Stat. 597.)
 
 **Editorial Notes**
 
@@ -785,7 +785,7 @@ An appropriate official shall notify the Attorney General and appropriate law en
 
 Section was formerly classified to section 16922 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-#### § 20925. Development and availability of registry management and website software
+#### § 20925. Development and availability of registry management and website software
 
 **(a) Duty to develop and support**
 
@@ -805,7 +805,7 @@ The Attorney General shall, in consultation with the jurisdictions, develop and 
 
 The Attorney General shall make the first complete edition of this software available to jurisdictions within 2 years of July 27, 2006.
 
-(Pub. L. 109–248, title I, § 123, July 27, 2006, 120 Stat. 598.)
+(Pub. L. 109–248, title I, § 123, July 27, 2006, 120 Stat. 598.)
 
 **Editorial Notes**
 
@@ -817,7 +817,7 @@ This subchapter, referred to in subsec. (b)(3), was in the original “this titl
 
 Section was formerly classified to section 16923 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-#### § 20926. Period for implementation by jurisdictions
+#### § 20926. Period for implementation by jurisdictions
 
 **(a) Deadline** Each jurisdiction shall implement this subchapter before the later of—
 
@@ -829,7 +829,7 @@ Section was formerly classified to section 16923 of Title 42, The Public Health 
 
 The Attorney General may authorize up to two 1-year extensions of the deadline.
 
-(Pub. L. 109–248, title I, § 124, July 27, 2006, 120 Stat. 598.)
+(Pub. L. 109–248, title I, § 124, July 27, 2006, 120 Stat. 598.)
 
 **Editorial Notes**
 
@@ -843,13 +843,13 @@ The software described in section 20925 of this title, referred to in subsec. (a
 
 Section was formerly classified to section 16924 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-#### § 20927. Failure of jurisdiction to comply
+#### § 20927. Failure of jurisdiction to comply
 
 **(a) In general**
 
 For any fiscal year after the end of the period for implementation, a jurisdiction that fails, as determined by the Attorney General, to substantially implement this subchapter shall not receive 10 percent of the funds that would otherwise be allocated for that fiscal year to the jurisdiction under subpart 1 of part E of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3750 et seq.).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(b) State constitutionality**
 
@@ -863,9 +863,9 @@ If the circumstances arise under paragraph (1), then the Attorney General and th
 
 **(3) Alternative procedures**
 
-If the jurisdiction is unable to substantially implement this subchapter because of a limitation imposed by the jurisdiction’s constitution, the Attorney General may determine that the jurisdiction is in compliance with this chapter if the jurisdiction has made, or is in the process of implementing 2
+If the jurisdiction is unable to substantially implement this subchapter because of a limitation imposed by the jurisdiction’s constitution, the Attorney General may determine that the jurisdiction is in compliance with this chapter if the jurisdiction has made, or is in the process of implementing 2
 
-<sup>2</sup>  So in original. Probably should be followed by a comma.
+<sup>2</sup> So in original. Probably should be followed by a comma.
 
 reasonable alternative procedures or accommodations, which are consistent with the purposes of this chapter.
 
@@ -881,7 +881,7 @@ Amounts not allocated under a program referred to in this section to a jurisdict
 
 The provisions of this subchapter that are cast as directions to jurisdictions or their officials constitute, in relation to States, only conditions required to avoid the reduction of Federal funding under this section.
 
-(Pub. L. 109–248, title I, § 125, July 27, 2006, 120 Stat. 598.)
+(Pub. L. 109–248, title I, § 125, July 27, 2006, 120 Stat. 598.)
 
 **Editorial Notes**
 
@@ -889,7 +889,7 @@ The provisions of this subchapter that are cast as directions to jurisdictions o
 
 This subchapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, known as the Sex Offender Registration and Notification Act. For complete classification of title I to the Code, see Short Title of 2006 Act note set out under section 10101 of this title and Tables.
 
-The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (a), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Subpart 1 of part E of title I of the Act was classified generally to part A (§ 3750 et seq.) of subchapter V of chapter 46 of Title 42, The Public Health and Welfare, prior to editorial reclassification as part A (§ 10151 et seq.) of subchapter V of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (a), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Subpart 1 of part E of title I of the Act was classified generally to part A (§ 3750 et seq.) of subchapter V of chapter 46 of Title 42, The Public Health and Welfare, prior to editorial reclassification as part A (§ 10151 et seq.) of subchapter V of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
 
 This chapter, referred to in subsec. (b)(3), was in the original “this Act”, meaning Pub. L. 109–248, July 27, 2006, 120 Stat. 587, known as the Adam Walsh Child Protection and Safety Act of 2006. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of this title and Tables.
 
@@ -897,7 +897,7 @@ This chapter, referred to in subsec. (b)(3), was in the original “this Act”,
 
 Section was formerly classified to section 16925 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-#### § 20928. Sex Offender Management Assistance (SOMA) program
+#### § 20928. Sex Offender Management Assistance (SOMA) program
 
 **(a) In general**
 
@@ -917,7 +917,7 @@ The chief executive of a jurisdiction desiring a grant under this section shall,
 
 In addition to any amounts otherwise authorized to be appropriated, there are authorized to be appropriated such sums as may be necessary to the Attorney General, to be available only for the SOMA program, for fiscal years 2007 through 2009.
 
-(Pub. L. 109–248, title I, § 126, July 27, 2006, 120 Stat. 599.)
+(Pub. L. 109–248, title I, § 126, July 27, 2006, 120 Stat. 599.)
 
 **Editorial Notes**
 
@@ -929,7 +929,7 @@ This subchapter, referred to in subsecs. (a) and (c), was in the original “thi
 
 Section was formerly classified to section 16926 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-#### § 20929. Election by Indian tribes
+#### § 20929. Election by Indian tribes
 
 **(a) Election**
 
@@ -959,23 +959,23 @@ A tribe subject to this part is not required to duplicate functions under this p
 
 **(B)** arrange for such a jurisdiction to carry out any function of the tribe under this part with respect to sex offenders subject to the tribe’s jurisdiction.
 
-(Pub. L. 109–248, title I, § 127, July 27, 2006, 120 Stat. 599.)
+(Pub. L. 109–248, title I, § 127, July 27, 2006, 120 Stat. 599.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This part, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 111–131) of title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 591, which is classified principally to this part. For complete classification of subtitle A to the Code, see Tables.
+This part, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 111–131) of title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 591, which is classified principally to this part. For complete classification of subtitle A to the Code, see Tables.
 
 **Codification**
 
 Section was formerly classified to section 16927 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-#### § 20930. Registration of sex offenders entering the United States
+#### § 20930. Registration of sex offenders entering the United States
 
 The Attorney General, in consultation with the Secretary of State and the Secretary of Homeland Security, shall establish and maintain a system for informing the relevant jurisdictions about persons entering the United States who are required to register under this subchapter. The Secretary of State and the Secretary of Homeland Security shall provide such information and carry out such functions as the Attorney General may direct in the operation of the system.
 
-(Pub. L. 109–248, title I, § 128, July 27, 2006, 120 Stat. 600.)
+(Pub. L. 109–248, title I, § 128, July 27, 2006, 120 Stat. 600.)
 
 **Editorial Notes**
 
@@ -987,7 +987,7 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 Section was formerly classified to section 16928 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-#### § 20931. Registration of sex offenders released from military corrections facilities or upon conviction
+#### § 20931. Registration of sex offenders released from military corrections facilities or upon conviction
 
 The Secretary of Defense shall provide to the Attorney General the information described in section 20914 of this title to be included in the National Sex Offender Registry and the Dru Sjodin National Sex Offender Public Website regarding persons—
 
@@ -999,7 +999,7 @@ The Secretary of Defense shall provide to the Attorney General the information d
 
 **(2)** required to register under this subchapter.
 
-(Pub. L. 109–248, title I, § 128A, as added Pub. L. 114–22, title V, § 502(a), May 29, 2015, 129 Stat. 258.)
+(Pub. L. 109–248, title I, § 128A, as added Pub. L. 114–22, title V, § 502(a), May 29, 2015, 129 Stat. 258.)
 
 **Editorial Notes**
 
@@ -1019,11 +1019,11 @@ Section was formerly classified to section 16928a of Title 42, The Public Health
 
 For short title of title V of Pub. L. 114–22, which enacted this section, as the “Military Sex Offender Reporting Act of 2015”, see section 501 of Pub. L. 114–22, set out as a Short Title of 2015 Act note under section 10101 of this title.
 
-#### § 20932. Immunity for good faith conduct
+#### § 20932. Immunity for good faith conduct
 
 The Federal Government, jurisdictions, political subdivisions of jurisdictions, and their agencies, officers, employees, and agents shall be immune from liability for good faith conduct under this subchapter.
 
-(Pub. L. 109–248, title I, § 131, July 27, 2006, 120 Stat. 601.)
+(Pub. L. 109–248, title I, § 131, July 27, 2006, 120 Stat. 601.)
 
 **Editorial Notes**
 
@@ -1037,7 +1037,7 @@ Section was formerly classified to section 16929 of Title 42, The Public Health 
 
 ### Part B—Improving Federal Criminal Law Enforcement To Ensure Sex Offender Compliance With Registration and Notification Requirements and Protection of Children From Violent Predators
 
-#### § 20941. Federal assistance with respect to violations of registration requirements
+#### § 20941. Federal assistance with respect to violations of registration requirements
 
 **(a) In general**
 
@@ -1047,7 +1047,7 @@ The Attorney General shall use the resources of Federal law enforcement, includi
 
 There are authorized to be appropriated such sums as may be necessary for fiscal years 2007 through 2009 to implement this section.
 
-(Pub. L. 109–248, title I, § 142, July 27, 2006, 120 Stat. 604.)
+(Pub. L. 109–248, title I, § 142, July 27, 2006, 120 Stat. 604.)
 
 **Editorial Notes**
 
@@ -1055,7 +1055,7 @@ There are authorized to be appropriated such sums as may be necessary for fiscal
 
 Section was formerly classified to section 16941 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-#### § 20942. Project Safe Childhood
+#### § 20942. Project Safe Childhood
 
 **(a) Definitions** In this section:
 
@@ -1295,9 +1295,9 @@ The Attorney General shall create and maintain a nationwide initiative to align 
 
 **(II)** provides information to parents and children seeking to report possible violations of technology-facilitated child sexual exploitation offenses or offenses involving child sexual abuse material.
 
-**(e) Expansion of Project Safe Childhood** Notwithstanding subsection (d), funds authorized under this section may be also be 1
+**(e) Expansion of Project Safe Childhood** Notwithstanding subsection (d), funds authorized under this section may be also be 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 used for the following purposes:
 
@@ -1323,7 +1323,7 @@ used for the following purposes:
 
 Amounts made available to State and local agencies, programs, and services under this section shall supplement, and not supplant, other Federal, State, or local funds made available for those agencies, programs, and services.
 
-(Pub. L. 109–248, title I, § 143, July 27, 2006, 120 Stat. 604; Pub. L. 118–159, div. E, title LII, § 5202, Dec. 23, 2024, 138 Stat. 2433.)
+(Pub. L. 109–248, title I, § 143, July 27, 2006, 120 Stat. 604; Pub. L. 118–159, div. E, title LII, § 5202, Dec. 23, 2024, 138 Stat. 2433.)
 
 **Editorial Notes**
 
@@ -1335,11 +1335,11 @@ Section was formerly classified to section 16942 of Title 42, The Public Health 
 
 2024—Pub. L. 118–159 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to establishment of Project Safe Childhood program, initial implementation, expansion of program, and authorization of appropriations for fiscal years 2007 through 2012, respectively.
 
-#### § 20943. Federal assistance in identification and location of sex offenders relocated as a result of a major disaster
+#### § 20943. Federal assistance in identification and location of sex offenders relocated as a result of a major disaster
 
 The Attorney General shall provide assistance to jurisdictions in the identification and location of a sex offender relocated as a result of a major disaster.
 
-(Pub. L. 109–248, title I, § 144, July 27, 2006, 120 Stat. 606.)
+(Pub. L. 109–248, title I, § 144, July 27, 2006, 120 Stat. 606.)
 
 **Editorial Notes**
 
@@ -1347,7 +1347,7 @@ The Attorney General shall provide assistance to jurisdictions in the identifica
 
 Section was formerly classified to section 16943 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-#### § 20944. Expansion of training and technology efforts
+#### § 20944. Expansion of training and technology efforts
 
 **(a) Training** The Attorney General shall—
 
@@ -1371,7 +1371,7 @@ Section was formerly classified to section 16943 of Title 42, The Public Health 
 
 Not later than July 1, 2007, the Attorney General,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 shall submit to Congress a report on the activities carried out under this section. The report shall include any recommendations that the Attorney General considers appropriate.
 
@@ -1381,7 +1381,7 @@ shall submit to Congress a report on the activities carried out under this secti
 
 **(2)** $2,000,000 to carry out subsection (b).
 
-(Pub. L. 109–248, title I, § 145, July 27, 2006, 120 Stat. 606.)
+(Pub. L. 109–248, title I, § 145, July 27, 2006, 120 Stat. 606.)
 
 **Editorial Notes**
 
@@ -1389,7 +1389,7 @@ shall submit to Congress a report on the activities carried out under this secti
 
 Section was formerly classified to section 16944 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-#### § 20945. Office of Sex Offender Sentencing, Monitoring, Apprehending, Registering, and Tracking
+#### § 20945. Office of Sex Offender Sentencing, Monitoring, Apprehending, Registering, and Tracking
 
 **(a) Establishment**
 
@@ -1409,7 +1409,7 @@ The SMART Office shall be headed by a Director who shall be appointed by the Pre
 
 **(4)** perform such other functions as the Attorney General may delegate.
 
-(Pub. L. 109–248, title I, § 146, July 27, 2006, 120 Stat. 607.)
+(Pub. L. 109–248, title I, § 146, July 27, 2006, 120 Stat. 607.)
 
 **Editorial Notes**
 
@@ -1423,7 +1423,7 @@ Section was formerly classified to section 16945 of Title 42, The Public Health 
 
 ### Part C—Access to Information and Resources Needed To Ensure That Children Are Not Attacked or Abused
 
-#### § 20961. Access to national crime information databases
+#### § 20961. Access to national crime information databases
 
 **(a) In general** Notwithstanding any other provision of law, the Attorney General shall ensure access to the national crime information databases (as defined in section 534 of title 28) by—
 
@@ -1437,7 +1437,7 @@ Section was formerly classified to section 16945 of Title 42, The Public Health 
 
 **(2)** limited to personnel of the Center or such agencies that have met all requirements set by the Attorney General, including training, certification, and background screening.
 
-(Pub. L. 109–248, title I, § 151, July 27, 2006, 120 Stat. 608.)
+(Pub. L. 109–248, title I, § 151, July 27, 2006, 120 Stat. 608.)
 
 **Editorial Notes**
 
@@ -1445,7 +1445,7 @@ Section was formerly classified to section 16945 of Title 42, The Public Health 
 
 Section was formerly classified to section 16961 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-#### § 20962. Schools SAFE Act
+#### § 20962. Schools SAFE Act
 
 **(a) Short title**
 
@@ -1487,13 +1487,13 @@ An individual who knowingly exceeds the authority in subsection (b), or knowingl
 
 In this section, the terms “elementary school”, “local educational agency”, “secondary school”, and “State educational agency” have the meanings given to those terms in section 7801 of title 20.
 
-(Pub. L. 109–248, title I, § 153, July 27, 2006, 120 Stat. 610; Pub. L. 114–95, title IX, § 9215(b), Dec. 10, 2015, 129 Stat. 2166.)
+(Pub. L. 109–248, title I, § 153, July 27, 2006, 120 Stat. 610; Pub. L. 114–95, title IX, § 9215(b), Dec. 10, 2015, 129 Stat. 2166.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (g), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV of the Act are classified generally to part B (§ 620 et seq.) and part E (§ 670 et seq.), respectively, of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (g), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV of the Act are classified generally to part B (§ 620 et seq.) and part E (§ 670 et seq.), respectively, of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Codification**
 
@@ -1513,7 +1513,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 ## SUBCHAPTER II—CIVIL COMMITMENT OF DANGEROUS SEX OFFENDERS
 
-### § 20971. Jimmy Ryce State civil commitment programs for sexually dangerous persons
+### § 20971. Jimmy Ryce State civil commitment programs for sexually dangerous persons
 
 **(a) Grants authorized**
 
@@ -1565,7 +1565,7 @@ Not later than January 31 of each year, beginning with 2008, the Attorney Genera
 
 There are authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2007 through 2010.
 
-(Pub. L. 109–248, title III, § 301, July 27, 2006, 120 Stat. 617.)
+(Pub. L. 109–248, title III, § 301, July 27, 2006, 120 Stat. 617.)
 
 **Editorial Notes**
 
@@ -1575,7 +1575,7 @@ Section was formerly classified to section 16971 of Title 42, The Public Health 
 
 ## SUBCHAPTER III—GRANTS AND OTHER PROVISIONS
 
-### § 20981. Pilot program for monitoring sexual offenders
+### § 20981. Pilot program for monitoring sexual offenders
 
 **(a) Sex offender monitoring program**
 
@@ -1627,7 +1627,7 @@ There are authorized to be appropriated $5,000,000 for each of the fiscal years 
 
 **(C)** making recommendations for continuing funding and the appropriate levels for such funding.
 
-(Pub. L. 109–248, title VI, § 621, July 27, 2006, 120 Stat. 633; Pub. L. 110–400, § 4(a), Oct. 13, 2008, 122 Stat. 4227.)
+(Pub. L. 109–248, title VI, § 621, July 27, 2006, 120 Stat. 633; Pub. L. 110–400, § 4(a), Oct. 13, 2008, 122 Stat. 4227.)
 
 **Editorial Notes**
 
@@ -1637,15 +1637,15 @@ Section was formerly classified to section 16981 of Title 42, The Public Health 
 
 **Amendments**
 
-2008—Subsec. (a)(1)(C). Pub. L. 110–400, § 4(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) set minimum standards for electronic monitoring units used in the pilot program.
+2008—Subsec. (a)(1)(C). Pub. L. 110–400, § 4(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) set minimum standards for electronic monitoring units used in the pilot program.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–400, § 4(b), Oct. 13, 2008, 122 Stat. 4228, provided that: “The amendment made by subsection (a) [amending this section] shall apply to grants provided on or after the date of the enactment of this Act [Oct. 13, 2008].”
+Pub. L. 110–400, § 4(b), Oct. 13, 2008, 122 Stat. 4228, provided that: “The amendment made by subsection (a) [amending this section] shall apply to grants provided on or after the date of the enactment of this Act [Oct. 13, 2008].”
 
-### § 20982. Assistance for prosecution of cases cleared through use of DNA backlog clearance funds
+### § 20982. Assistance for prosecution of cases cleared through use of DNA backlog clearance funds
 
 **(a) In general**
 
@@ -1655,7 +1655,7 @@ The Attorney General may make grants to train and employ personnel to help prose
 
 There are authorized to be appropriated such sums as may be necessary for each of fiscal years 2007 through 2011 to carry out this section.
 
-(Pub. L. 109–248, title VI, § 624, July 27, 2006, 120 Stat. 636.)
+(Pub. L. 109–248, title VI, § 624, July 27, 2006, 120 Stat. 636.)
 
 **Editorial Notes**
 
@@ -1663,7 +1663,7 @@ There are authorized to be appropriated such sums as may be necessary for each o
 
 Section was formerly classified to section 16982 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 20983. Grants to combat sexual abuse of children
+### § 20983. Grants to combat sexual abuse of children
 
 **(a) In general** The Bureau of Justice Assistance is authorized to make grants under this section—
 
@@ -1687,7 +1687,7 @@ The Attorney General shall give priority to law enforcement agencies making a sh
 
 There are authorized to be appropriated such sums as may be necessary for fiscal years 2007 through 2009 to carry out this section.
 
-(Pub. L. 109–248, title VI, § 625, July 27, 2006, 120 Stat. 636.)
+(Pub. L. 109–248, title VI, § 625, July 27, 2006, 120 Stat. 636.)
 
 **Editorial Notes**
 
@@ -1695,7 +1695,7 @@ There are authorized to be appropriated such sums as may be necessary for fiscal
 
 Section was formerly classified to section 16983 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 20984. Grants for fingerprinting programs for children
+### § 20984. Grants for fingerprinting programs for children
 
 **(a) In general**
 
@@ -1725,7 +1725,7 @@ Any person who uses the fingerprints of a child derived from a program funded un
 
 There is authorized to be appropriated $20,000,000 to carry out this section for the 5-year period beginning on the first day of fiscal year 2007.
 
-(Pub. L. 109–248, title VI, § 627, July 27, 2006, 120 Stat. 637.)
+(Pub. L. 109–248, title VI, § 627, July 27, 2006, 120 Stat. 637.)
 
 **Editorial Notes**
 
@@ -1733,7 +1733,7 @@ There is authorized to be appropriated $20,000,000 to carry out this section for
 
 Section was formerly classified to section 16984 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 20985. Grants for Rape, Abuse & Incest National Network
+### § 20985. Grants for Rape, Abuse & Incest National Network
 
 **(a) Findings** Congress finds as follows:
 
@@ -1765,7 +1765,7 @@ Section was formerly classified to section 16984 of Title 42, The Public Health 
 
 **(14)** Worth magazine selected RAINN as one of “America’s 100 Best Charities”, in recognition of the organization’s “efficiency and effectiveness.”.1
 
-<sup>1</sup>  So in original. The second period probably should not appear.
+<sup>1</sup> So in original. The second period probably should not appear.
 
 **(15)** In fiscal year 2005, RAINN spent more than 91 cents of every dollar received directly on program services.
 
@@ -1813,13 +1813,13 @@ The term “RAINN” means the Rape, Abuse & Incest National Network, a 501(c)(3
 
 There is authorized to be appropriated to the Administrator to carry out this section, $3,000,000 for each of fiscal years 2022 through 2027.
 
-(Pub. L. 109–248, title VI, § 628, July 27, 2006, 120 Stat. 638; Pub. L. 117–347, title I, § 105(e), Jan. 5, 2023, 136 Stat. 6204.)
+(Pub. L. 109–248, title VI, § 628, July 27, 2006, 120 Stat. 638; Pub. L. 117–347, title I, § 105(e), Jan. 5, 2023, 136 Stat. 6204.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Victims of Crime Act, referred to in subsec. (a)(5), probably means the Victims of Crime Act of 1984, which is chapter XIV of title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 2170, and which is classified principally to chapter 201 (§ 20101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1984 Act note set out under section 10101 of this title and Tables.
+The Victims of Crime Act, referred to in subsec. (a)(5), probably means the Victims of Crime Act of 1984, which is chapter XIV of title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 2170, and which is classified principally to chapter 201 (§ 20101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1984 Act note set out under section 10101 of this title and Tables.
 
 The Violence Against Women Act, referred to in subsec. (a)(5), probably means the Violence Against Women Act of 1994, which is title IV of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1902. For complete classification of this Act to the Code, see Short Title of 1994 Act note set out under section 10101 of this title and Tables.
 
@@ -1831,7 +1831,7 @@ Section was formerly classified to section 16985 of Title 42, The Public Health 
 
 2023—Subsec. (d). Pub. L. 117–347 substituted “fiscal years 2022 through 2027” for “fiscal years 2007 through 2010”.
 
-### § 20986. Children’s safety online awareness campaigns
+### § 20986. Children’s safety online awareness campaigns
 
 **(a) Awareness campaign for children’s safety online**
 
@@ -1841,9 +1841,9 @@ The Attorney General, in consultation with the National Center for Missing and E
 
 **(2) Required components**
 
-The public awareness campaign described under paragraph (1) shall include components that compliment 1
+The public awareness campaign described under paragraph (1) shall include components that compliment 1
 
-<sup>1</sup>  So in original. Probably should be “complement”.
+<sup>1</sup> So in original. Probably should be “complement”.
 
 and reinforce the campaign message in a variety of media, including the Internet, television, radio, and billboards.
 
@@ -1855,7 +1855,7 @@ The Attorney General, in consultation with the National Center for Missing and E
 
 There are authorized to be appropriated to carry out this section such sums as are necessary for fiscal years 2007 through 2011.
 
-(Pub. L. 109–248, title VI, § 629, July 27, 2006, 120 Stat. 640.)
+(Pub. L. 109–248, title VI, § 629, July 27, 2006, 120 Stat. 640.)
 
 **Editorial Notes**
 
@@ -1863,7 +1863,7 @@ There are authorized to be appropriated to carry out this section such sums as a
 
 Section was formerly classified to section 16986 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 20987. Grants for online child safety programs
+### § 20987. Grants for online child safety programs
 
 **(a) In general**
 
@@ -1877,7 +1877,7 @@ For purposes of this section, the term “State” means any State of the United
 
 There are authorized to be appropriated to carry out this section such sums as are necessary for fiscal years 2007 through 2011.
 
-(Pub. L. 109–248, title VI, § 630, July 27, 2006, 120 Stat. 640.)
+(Pub. L. 109–248, title VI, § 630, July 27, 2006, 120 Stat. 640.)
 
 **Editorial Notes**
 
@@ -1885,7 +1885,7 @@ There are authorized to be appropriated to carry out this section such sums as a
 
 Section was formerly classified to section 16987 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 20988. Jessica Lunsford Address Verification Grant Program
+### § 20988. Jessica Lunsford Address Verification Grant Program
 
 **(a) Establishment**
 
@@ -1895,7 +1895,7 @@ There is established the Jessica Lunsford Address Verification Grant Program (he
 
 Under the Program, the Attorney General is authorized to award grants to State,1
 
-<sup>1</sup>  So in original. Probably should be “States,”.
+<sup>1</sup> So in original. Probably should be “States,”.
 
 local governments, and Indian tribal governments to assist in carrying out programs requiring an appropriate official to verify, at appropriate intervals, the residence of all or some registered sex offenders.
 
@@ -1929,7 +1929,7 @@ There are authorized to be appropriated for each of the fiscal years 2007 throug
 
 **(C)** making recommendations for continuing funding and the appropriate levels for such funding.
 
-(Pub. L. 109–248, title VI, § 631, July 27, 2006, 120 Stat. 641.)
+(Pub. L. 109–248, title VI, § 631, July 27, 2006, 120 Stat. 641.)
 
 **Editorial Notes**
 
@@ -1937,7 +1937,7 @@ There are authorized to be appropriated for each of the fiscal years 2007 throug
 
 Section was formerly classified to section 16988 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 20989. Fugitive Safe Surrender
+### § 20989. Fugitive Safe Surrender
 
 **(a) Findings** Congress finds the following:
 
@@ -1965,7 +1965,7 @@ The United States Marshals Service shall establish, direct, and coordinate a pro
 
 Nothing in this section shall be construed to limit any existing authority under any other provision of Federal or State law for law enforcement agencies to locate or apprehend fugitives through task forces or any other means.
 
-(Pub. L. 109–248, title VI, § 632, July 27, 2006, 120 Stat. 641.)
+(Pub. L. 109–248, title VI, § 632, July 27, 2006, 120 Stat. 641.)
 
 **Editorial Notes**
 
@@ -1973,7 +1973,7 @@ Nothing in this section shall be construed to limit any existing authority under
 
 Section was formerly classified to section 16989 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 20990. National registry of substantiated cases of child abuse
+### § 20990. National registry of substantiated cases of child abuse
 
 **(a) In general**
 
@@ -2005,9 +2005,9 @@ If a State, Indian tribe, or political subdivision of a State has an electronic 
 
 **(A)** shall be in a standardized electronic form determined by the Secretary of Health and Human Services; and
 
-**(B)** shall contain case-specific identifying information that is limited to the name of the perpetrator and the nature of the substantiated case of child abuse or neglect, and that complies with clauses (viii) and (ix) of section 5106a(b)(2)(A) 1
+**(B)** shall contain case-specific identifying information that is limited to the name of the perpetrator and the nature of the substantiated case of child abuse or neglect, and that complies with clauses (viii) and (ix) of section 5106a(b)(2)(A) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 42.
 
@@ -2023,7 +2023,7 @@ Information contained in the national registry shall only be accessible to any F
 
 **(f) Dissemination**
 
-The Secretary of Health and Human Services shall establish standards for the dissemination of information in the national registry of substantiated cases of child abuse or neglect. Such standards shall comply with clauses (viii) and (ix) of section 5106a(b)(2)(A) <sup>1</sup> of title 42.
+The Secretary of Health and Human Services shall establish standards for the dissemination of information in the national registry of substantiated cases of child abuse or neglect. Such standards shall comply with clauses (viii) and (ix) of section 5106a(b)(2)(A) <sup>1</sup> of title 42.
 
 **(g) Study**
 
@@ -2045,19 +2045,19 @@ Not later than 1 year after July 27, 2006, the Secretary of Homeland Security sh
 
 There is authorized to be appropriated $500,000 for the period of fiscal years 2006 and 2007 to carry out the study required by this subsection.
 
-(Pub. L. 109–248, title VI, § 633, July 27, 2006, 120 Stat. 642.)
+(Pub. L. 109–248, title VI, § 633, July 27, 2006, 120 Stat. 642.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 5106a(b)(2)(A) of title 42, referred to in subsecs. (c)(2)(B) and (f), was redesignated section 5106a(b)(2)(B) of title 42 by Pub. L. 111–320, title I, § 115(c)(2)(A), Dec. 20, 2010, 124 Stat. 3469.
+Section 5106a(b)(2)(A) of title 42, referred to in subsecs. (c)(2)(B) and (f), was redesignated section 5106a(b)(2)(B) of title 42 by Pub. L. 111–320, title I, § 115(c)(2)(A), Dec. 20, 2010, 124 Stat. 3469.
 
 **Codification**
 
 Section was formerly classified to section 16990 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 20991. Annual report on enforcement of registration requirements
+### § 20991. Annual report on enforcement of registration requirements
 
 Not later than July 1 of each year, the Attorney General shall submit a report to Congress describing—
 
@@ -2071,7 +2071,7 @@ Not later than July 1 of each year, the Attorney General shall submit a report t
 
 **(5)** the denial or grant of any extensions to comply with subchapter I of this chapter, and the reasons for such denial or grant.
 
-(Pub. L. 109–248, title VI, § 635, July 27, 2006, 120 Stat. 644.)
+(Pub. L. 109–248, title VI, § 635, July 27, 2006, 120 Stat. 644.)
 
 **Editorial Notes**
 

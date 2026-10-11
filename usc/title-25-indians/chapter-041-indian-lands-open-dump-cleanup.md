@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 41—INDIAN LANDS OPEN DUMP CLEANUP
 
-## § 3901. Findings and purposes
+## § 3901. Findings and purposes
 
 **(a) Findings** The Congress finds that—
 
@@ -39,15 +39,15 @@ retrieved: 2026-10-11
 
 **(3)** provide financial and technical assistance to Indian tribal governments and Alaska Native entities, either directly or by contract, to close such dumps in compliance with applicable Federal standards and regulations, or standards promulgated by an Indian tribal government or Alaska Native entity, if such standards are more stringent than the Federal standards.
 
-(Pub. L. 103–399, § 2, Oct. 22, 1994, 108 Stat. 4164.)
+(Pub. L. 103–399, § 2, Oct. 22, 1994, 108 Stat. 4164.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 103–399, § 1, Oct. 22, 1994, 108 Stat. 4164, provided that: “This Act [enacting this chapter] may be cited as the ‘Indian Lands Open Dump Cleanup Act of 1994’.”
+Pub. L. 103–399, § 1, Oct. 22, 1994, 108 Stat. 4164, provided that: “This Act [enacting this chapter] may be cited as the ‘Indian Lands Open Dump Cleanup Act of 1994’.”
 
-## § 3902. Definitions
+## § 3902. Definitions
 
 For the purposes of this chapter, the following definitions shall apply:
 
@@ -69,9 +69,9 @@ The term “Director” means the Director of the Indian Health Service.
 
 **(4) Alaska Native land**
 
-The term “Alaska Native land” means (A) land conveyed or to be conveyed pursuant to the Alaska Native Claims Settlement Act [43 U.S.C. 1601 et seq.], including any land reconveyed under section 14(c)(3) 1
+The term “Alaska Native land” means (A) land conveyed or to be conveyed pursuant to the Alaska Native Claims Settlement Act [43 U.S.C. 1601 et seq.], including any land reconveyed under section 14(c)(3) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of that Act (43 U.S.C. 1613(c)(3)), and (B) land conveyed pursuant to the Act of November 2, 1966 (16 U.S.C. 1151 et seq.; commonly known as the “Fur Seal Act of 1966”).
 
@@ -99,23 +99,23 @@ The term “Service” means the Indian Health Service.
 
 The term “solid waste” has the meaning provided that term by section 1004(27) of the Solid Waste Disposal Act (42 U.S.C. 6903) and any regulations promulgated thereunder.
 
-(Pub. L. 103–399, § 3, Oct. 22, 1994, 108 Stat. 4164; Pub. L. 104–109, § 5, Feb. 12, 1996, 110 Stat. 764.)
+(Pub. L. 103–399, § 3, Oct. 22, 1994, 108 Stat. 4164; Pub. L. 104–109, § 5, Feb. 12, 1996, 110 Stat. 764.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Alaska Native Claims Settlement Act, referred to in pars. (4) and (6), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. Section 14(c)(3) of the Act was redesignated section 14(c)(1)(C) by Pub. L. 119–23, § 2(1), (2), July 7, 2025, 139 Stat. 403, and is classified to section 1613(c)(1)(C) of Title 43. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in pars. (4) and (6), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. Section 14(c)(3) of the Act was redesignated section 14(c)(1)(C) by Pub. L. 119–23, § 2(1), (2), July 7, 2025, 139 Stat. 403, and is classified to section 1613(c)(1)(C) of Title 43. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Fur Seal Act of 1966, referred to in par. (4), is Pub. L. 89–702, Nov. 2, 1966, 80 Stat. 1091, which is classified principally to chapter 24 (§ 1151 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1151 of Title 16 and Tables.
+The Fur Seal Act of 1966, referred to in par. (4), is Pub. L. 89–702, Nov. 2, 1966, 80 Stat. 1091, which is classified principally to chapter 24 (§ 1151 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1151 of Title 16 and Tables.
 
-The Solid Waste Disposal Act, referred to in par. (8), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795. Subtitle D of the Act is classified generally to subchapter IV (§ 6941 et seq.) of chapter 82 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
+The Solid Waste Disposal Act, referred to in par. (8), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795. Subtitle D of the Act is classified generally to subchapter IV (§ 6941 et seq.) of chapter 82 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
 **Amendments**
 
 1996—Par. (7). Pub. L. 104–109 substituted “section 4004 of the Solid Waste Disposal Act (42 U.S.C. 6944)” for “section 6944 of the Solid Waste Disposal Act (42 U.S.C. 6941 et seq.)”.
 
-## § 3903. Inventory of open dumps
+## § 3903. Inventory of open dumps
 
 **(a) Study and inventory**
 
@@ -137,9 +137,9 @@ Not later than 12 months after October 22, 1994, the Director shall conduct a st
 
 **(2)** the level of funding needed to develop comprehensive solid waste management plans for every Indian tribal government and Alaska Native entity.
 
-(Pub. L. 103–399, § 4, Oct. 22, 1994, 108 Stat. 4166.)
+(Pub. L. 103–399, § 4, Oct. 22, 1994, 108 Stat. 4166.)
 
-## § 3904. Authority of Director of Indian Health Service
+## § 3904. Authority of Director of Indian Health Service
 
 **(a) Reservation inventory**
 
@@ -163,15 +163,15 @@ Not later than 12 months after October 22, 1994, the Director shall conduct a st
 
 All assistance provided pursuant to subsection (b) shall be made available on a site-specific basis in accordance with priorities developed by the Director. Priorities on specific Indian lands or Alaska Native lands shall be developed in consultation with the Indian tribal government or Alaska Native entity. The priorities shall take into account the relative severity of the threat to public health and the environment posed by each open dump and the availability of funds necessary for closure and postclosure maintenance.
 
-(Pub. L. 103–399, § 5, Oct. 22, 1994, 108 Stat. 4166.)
+(Pub. L. 103–399, § 5, Oct. 22, 1994, 108 Stat. 4166.)
 
-## § 3905. Contract authority
+## § 3905. Contract authority
 
 **(a) Authority of Director**
 
 To the maximum extent feasible, the Director shall carry out duties under this chapter through contracts, compacts, or memoranda of agreement with Indian tribal governments or Alaska Native entities pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 section 2004a of title 42, or section 1632 of this title.
 
@@ -179,15 +179,15 @@ section 2004a of title 42, or section 1632 of this title.
 
 The Director is authorized, for purposes of carrying out the duties of the Director under this chapter, to contract with or enter into such cooperative agreements with such other Federal agencies as is considered necessary to provide cost-sharing for closure and postclosure activities, to obtain necessary technical and financial assistance and expertise, and for such other purposes as the Director considers necessary.
 
-(Pub. L. 103–399, § 6, Oct. 22, 1994, 108 Stat. 4167.)
+(Pub. L. 103–399, § 6, Oct. 22, 1994, 108 Stat. 4167.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-## § 3906. Tribal demonstration project
+## § 3906. Tribal demonstration project
 
 **(a) In general**
 
@@ -205,9 +205,9 @@ The Director may establish and carry out a program providing for demonstration p
 
 No demonstration project shall be funded for more than three fiscal years.
 
-(Pub. L. 103–399, § 7, Oct. 22, 1994, 108 Stat. 4167.)
+(Pub. L. 103–399, § 7, Oct. 22, 1994, 108 Stat. 4167.)
 
-## § 3907. Authorization of appropriations
+## § 3907. Authorization of appropriations
 
 **(a) General authorization**
 
@@ -217,9 +217,9 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 The activities required to be performed by the Director under this chapter shall be coordinated with activities related to solid waste and sanitation facilities funded pursuant to other authorizations.
 
-(Pub. L. 103–399, § 8, Oct. 22, 1994, 108 Stat. 4168.)
+(Pub. L. 103–399, § 8, Oct. 22, 1994, 108 Stat. 4168.)
 
-## § 3908. Disclaimers
+## § 3908. Disclaimers
 
 **(a) Authority of Director**
 
@@ -239,10 +239,10 @@ Nothing in this chapter shall be construed to alter, diminish, repeal, or supers
 
 **(2)** Nothing in this chapter is intended to amend, repeal, or supersede any provision of the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.).
 
-(Pub. L. 103–399, § 9, Oct. 22, 1994, 108 Stat. 4168.)
+(Pub. L. 103–399, § 9, Oct. 22, 1994, 108 Stat. 4168.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Solid Waste Disposal Act, referred to in subsec. (c), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (c), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.

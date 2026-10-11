@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 905, consisting of sections 9381 to 9383, related to the Aviation Leadership Program, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1241(i)(2), Dec. 23, 2016, 130 Stat. 2508.
+A prior chapter 905, consisting of sections 9381 to 9383, related to the Aviation Leadership Program, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1241(i)(2), Dec. 23, 2016, 130 Stat. 2508.
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 806(d)(4), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 805 of this title as this chapter and items 8031 to 8040 as 9031 to 9040, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 806(d)(4), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 805 of this title as this chapter and items 8031 to 8040 as 9031 to 9040, respectively.
 
-2016—Pub. L. 114–328, div. A, title VII, § 702(b)(3)(B), Dec. 23, 2016, 130 Stat. 2196, substituted “Surgeon General: appointment; duties” for “Surgeon General: appointment; grade” in item 8036.
+2016—Pub. L. 114–328, div. A, title VII, § 702(b)(3)(B), Dec. 23, 2016, 130 Stat. 2196, substituted “Surgeon General: appointment; duties” for “Surgeon General: appointment; grade” in item 8036.
 
-2015—Pub. L. 114–92, div. A, title XVI, § 1652(a)(2), Nov. 25, 2015, 129 Stat. 1122, added item 8040.
+2015—Pub. L. 114–92, div. A, title XVI, § 1652(a)(2), Nov. 25, 2015, 129 Stat. 1122, added item 8040.
 
-2013—Pub. L. 112–239, div. A, title V, § 508(b), Jan. 2, 2013, 126 Stat. 1717, added item 8039.
+2013—Pub. L. 112–239, div. A, title V, § 508(b), Jan. 2, 2013, 126 Stat. 1717, added item 8039.
 
-1986—Pub. L. 99–433, title V, § 522(g)(1), Oct. 1, 1986, 100 Stat. 1063, amended analysis generally, substituting items 8031 to 8038 for former items 8031 to 8036.
+1986—Pub. L. 99–433, title V, § 522(g)(1), Oct. 1, 1986, 100 Stat. 1063, amended analysis generally, substituting items 8031 to 8038 for former items 8031 to 8036.
 
-1965—Pub. L. 89–288, § 5(b), Oct. 22, 1965, 79 Stat. 1050, added item 8036.
+1965—Pub. L. 89–288, § 5(b), Oct. 22, 1965, 79 Stat. 1050, added item 8036.
 
-## § 9031. The Air Staff: function; composition
+## § 9031. The Air Staff: function; composition
 
 **(a)** There is in the executive part of the Department of the Air Force an Air Staff. The function of the Air Staff is to assist the Secretary of the Air Force in carrying out his responsibilities.
 
@@ -61,13 +61,13 @@ A prior chapter 905, consisting of sections 9381 to 9383, related to the Aviatio
 
 **(c)** Except as otherwise specifically prescribed by law, the Air Staff shall be organized in such manner, and its members shall perform such duties and have such titles, as the Secretary may prescribe.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 490, § 8031; Pub. L. 89–718, § 45, Nov. 2, 1966, 80 Stat. 1121; Pub. L. 93–608, § 1(5), Jan. 2, 1975, 88 Stat. 1968; Pub. L. 98–525, title V, § 515, Oct. 19, 1984, 98 Stat. 2522; Pub. L. 99–433, title V, § 522(a), Oct. 1, 1986, 100 Stat. 1060; renumbered § 9031, Pub. L. 115–232, div. A, title VIII, § 806(c), Aug. 13, 2018, 132 Stat. 1833; Pub. L. 116–283, div. A, title IX, § 923(b)(5), Jan. 1, 2021, 134 Stat. 3809.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 490, § 8031; Pub. L. 89–718, § 45, Nov. 2, 1966, 80 Stat. 1121; Pub. L. 93–608, § 1(5), Jan. 2, 1975, 88 Stat. 1968; Pub. L. 98–525, title V, § 515, Oct. 19, 1984, 98 Stat. 2522; Pub. L. 99–433, title V, § 522(a), Oct. 1, 1986, 100 Stat. 1060; renumbered § 9031, Pub. L. 115–232, div. A, title VIII, § 806(c), Aug. 13, 2018, 132 Stat. 1833; Pub. L. 116–283, div. A, title IX, § 923(b)(5), Jan. 1, 2021, 134 Stat. 3809.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8031(a) 8031(b) | 10:1811(a). 10:1811(b). | Sept. 19, 1951, ch. 407, § 201, 65 Stat. 327. |
+| 8031(a) 8031(b) | 10:1811(a). 10:1811(b). | Sept. 19, 1951, ch. 407, § 201, 65 Stat. 327. |
 | 8031(c) | 10:1811(c). |  |
 | 8031(d) | 10:1811(d). |  |
 
@@ -75,7 +75,7 @@ In subsection (a), the words “an Air Staff consisting of—” are substituted
 
 In subsection (b), 10:1811(b) (proviso) is omitted as superseded by section 264(c) of this title.
 
-In subsection (c), the third sentence is substituted for 10:1811(c) (1st 13 words and 1st proviso). The words “officers and employees \* \* \* or under the jurisdiction of” are omitted as surplusage.
+In subsection (c), the third sentence is substituted for 10:1811(c) (1st 13 words and 1st proviso). The words “officers and employees \* \* \* or under the jurisdiction of” are omitted as surplusage.
 
 In subsections (c) and (d), the word “hereafter” is omitted, since all wars and emergencies declared by Congress before September 19, 1951, have been terminated.
 
@@ -105,9 +105,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–525, title V, § 515, Oct. 19, 1984, 98 Stat. 2522, provided in part that the repeal of subsec. (d) of this section is effective Oct. 1, 1984.
+Pub. L. 98–525, title V, § 515, Oct. 19, 1984, 98 Stat. 2522, provided in part that the repeal of subsec. (d) of this section is effective Oct. 1, 1984.
 
-## § 9032. The Air Staff: general duties
+## § 9032. The Air Staff: general duties
 
 **(a)** The Air Staff shall furnish professional assistance to the Secretary, the Under Secretary, and the Assistant Secretaries of the Air Force, and the Chief of Staff of the Air Force.
 
@@ -123,13 +123,13 @@ Pub. L. 98–525, title V, § 515, Oct. 19, 1984, 98 Stat. 2522, provided in p
 
 **(5)** perform such other duties, not otherwise assigned by law, as may be prescribed by the Secretary.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 490, § 8032; Pub. L. 85–599, § 4(h), Aug. 6, 1958, 72 Stat. 517; Pub. L. 99–433, title V, § 522(b), Oct. 1, 1986, 100 Stat. 1060; renumbered § 9032 and amended Pub. L. 115–232, div. A, title VIII, §§ 806(c), 809(a), Aug. 13, 2018, 132 Stat. 1833, 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 490, § 8032; Pub. L. 85–599, § 4(h), Aug. 6, 1958, 72 Stat. 517; Pub. L. 99–433, title V, § 522(b), Oct. 1, 1986, 100 Stat. 1060; renumbered § 9032 and amended Pub. L. 115–232, div. A, title VIII, §§ 806(c), 809(a), Aug. 13, 2018, 132 Stat. 1833, 1840.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8032(a) 8032(b) | 10:1815(a). 10:1815(b). | Sept. 19, 1951, ch. 407, § 205, 65 Stat. 329. |
+| 8032(a) 8032(b) | 10:1815(a). 10:1815(b). | Sept. 19, 1951, ch. 407, § 205, 65 Stat. 329. |
 
 In subsection (a), the word “furnish” is substituted for the word “render”.
 
@@ -141,15 +141,15 @@ In subsection (b)(2), the words “all questions affecting” and “state of”
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 806(c), renumbered section 8032 of this title as this section.
+2018—Pub. L. 115–232, § 806(c), renumbered section 8032 of this title as this section.
 
-Subsec. (b)(1). Pub. L. 115–232, § 809(a), substituted “section 9014” for “section 8014”.
+Subsec. (b)(1). Pub. L. 115–232, § 809(a), substituted “section 9014” for “section 8014”.
 
-1986—Pub. L. 99–433, § 522(b)(3), substituted “The Air Staff: general duties” for “General duties” in section catchline.
+1986—Pub. L. 99–433, § 522(b)(3), substituted “The Air Staff: general duties” for “General duties” in section catchline.
 
-Subsec. (a). Pub. L. 99–433, § 522(b)(1), inserted “of the Air Force” after “Chief of Staff”.
+Subsec. (a). Pub. L. 99–433, § 522(b)(1), inserted “of the Air Force” after “Chief of Staff”.
 
-Subsec. (b). Pub. L. 99–433, § 522(b)(2), substituted “Under the authority, direction, and control of the Secretary of the Air Force, the Air Staff” for “The Air Staff” before par. (1), inserted “subject to subsections (c) and (d) of section 8014 of this title,” and substituted “(including those aspects of research and development assigned by the Secretary of the Air Force), training, servicing, mobilizing, demobilizing, administering, and maintaining” for “, training, serving, mobilizing, and demobilizing” in par. (1), substituted “to support military operations by combatant commands” for “for military operations” in par. (2), and amended par. (4) generally. Prior to amendment, par. (4) read as follows: “act as agent of the Secretary and the Chief of Staff in coordinating the action of all organizations of the Department of the Air Force; and”.
+Subsec. (b). Pub. L. 99–433, § 522(b)(2), substituted “Under the authority, direction, and control of the Secretary of the Air Force, the Air Staff” for “The Air Staff” before par. (1), inserted “subject to subsections (c) and (d) of section 8014 of this title,” and substituted “(including those aspects of research and development assigned by the Secretary of the Air Force), training, servicing, mobilizing, demobilizing, administering, and maintaining” for “, training, serving, mobilizing, and demobilizing” in par. (1), substituted “to support military operations by combatant commands” for “for military operations” in par. (2), and amended par. (4) generally. Prior to amendment, par. (4) read as follows: “act as agent of the Secretary and the Chief of Staff in coordinating the action of all organizations of the Department of the Air Force; and”.
 
 1958—Subsec. (b)(1). Pub. L. 85–599 substituted “prepare for such employment of the Air Force” for “prepare such plans for the national security, for employment of the Air Force for that purpose, both separately and in conjunction with the land and naval forces”.
 
@@ -159,7 +159,7 @@ Subsec. (b). Pub. L. 99–433, § 522(b)(2), substituted “Under the authorit
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 9033. Chief of Staff
+## § 9033. Chief of Staff
 
 **(a)**
 
@@ -169,9 +169,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(A)** the officer has had significant experience in joint duty assignments; and
 
-**(B)** such experience includes at least one full tour of duty in a joint duty assignment (as defined in section 664(f) 1
+**(B)** such experience includes at least one full tour of duty in a joint duty assignment (as defined in section 664(f) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title) as a general officer.
 
@@ -203,7 +203,7 @@ of this title) as a general officer.
 
 **(3)** Subject to the authority, direction, and control of the Secretary of Defense, the Chief of Staff shall keep the Secretary of the Air Force fully informed of significant military operations affecting the duties and responsibilities of the Secretary.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 492, § 8034; Pub. L. 85–599, § 4(d), (e), Aug. 6, 1958, 72 Stat. 517; Pub. L. 87–651, title I, § 114, Sept. 7, 1962, 76 Stat. 513; Pub. L. 90–22, title IV, § 403, June 5, 1967, 81 Stat. 53; Pub. L. 96–513, title V, § 504(2), Dec. 12, 1980, 94 Stat. 2915; Pub. L. 97–22, § 10(b)(9), July 10, 1981, 95 Stat. 137; renumbered § 8033 and amended Pub. L. 99–433, title V, § 522(c), Oct. 1, 1986, 100 Stat. 1061; Pub. L. 100–456, div. A, title V, § 519(a)(3), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 114–92, div. A, title VIII, § 802(d)(4)(D), title XVI, § 1652(a)(3), Nov. 25, 2015, 129 Stat. 880, 1122; renumbered § 9033 and amended Pub. L. 115–232, div. A, title VIII, §§ 806(c), 809(a), Aug. 13, 2018, 132 Stat. 1833, 1840; Pub. L. 116–283, div. A, title XVIII, § 1808(d)(3), as added Pub. L. 117–81, div. A, title XVII, § 1701(r)(2), Dec. 27, 2021, 135 Stat. 2149; Pub. L. 116–283, div. A, title XVIII, § 1847(e)(6)(B), Jan. 1, 2021, 134 Stat. 4257; Pub. L. 117–81, div. A, title XVII, § 1701(r)(1)(B), Dec. 27, 2021, 135 Stat. 2149.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 492, § 8034; Pub. L. 85–599, § 4(d), (e), Aug. 6, 1958, 72 Stat. 517; Pub. L. 87–651, title I, § 114, Sept. 7, 1962, 76 Stat. 513; Pub. L. 90–22, title IV, § 403, June 5, 1967, 81 Stat. 53; Pub. L. 96–513, title V, § 504(2), Dec. 12, 1980, 94 Stat. 2915; Pub. L. 97–22, § 10(b)(9), July 10, 1981, 95 Stat. 137; renumbered § 8033 and amended Pub. L. 99–433, title V, § 522(c), Oct. 1, 1986, 100 Stat. 1061; Pub. L. 100–456, div. A, title V, § 519(a)(3), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 114–92, div. A, title VIII, § 802(d)(4)(D), title XVI, § 1652(a)(3), Nov. 25, 2015, 129 Stat. 880, 1122; renumbered § 9033 and amended Pub. L. 115–232, div. A, title VIII, §§ 806(c), 809(a), Aug. 13, 2018, 132 Stat. 1833, 1840; Pub. L. 116–283, div. A, title XVIII, § 1808(d)(3), as added Pub. L. 117–81, div. A, title XVII, § 1701(r)(2), Dec. 27, 2021, 135 Stat. 2149; Pub. L. 116–283, div. A, title XVIII, § 1847(e)(6)(B), Jan. 1, 2021, 134 Stat. 4257; Pub. L. 117–81, div. A, title XVII, § 1701(r)(1)(B), Dec. 27, 2021, 135 Stat. 2149.)
 
 **Historical and Revision Notes**
 
@@ -211,8 +211,8 @@ of this title) as a general officer.
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8034(a) 8034(b) | 10:1812 (1st sentence). 10:1812 (less 1st sentence). | Sept. 19, 1951, ch. 407, §§ 202, 204, 65 Stat. 328. |
-| 8034(c)     8034(d) | 10:1814(a) (1st 10 words). 10:1814(b) (2d sentence). 10:1814(c). 10:38 (last par.). 10:1814(a) (less 1st 10 words). 10:1814(b) (less 2d sentence). | June 3, 1916, ch. 134, § 5 (last par.); added June 15, 1933, ch. 87, § 2 (last par.), 48 Stat. 154. |
+| 8034(a) 8034(b) | 10:1812 (1st sentence). 10:1812 (less 1st sentence). | Sept. 19, 1951, ch. 407, §§ 202, 204, 65 Stat. 328. |
+| 8034(c) 8034(d) | 10:1814(a) (1st 10 words). 10:1814(b) (2d sentence). 10:1814(c). 10:38 (last par.). 10:1814(a) (less 1st 10 words). 10:1814(b) (less 2d sentence). | June 3, 1916, ch. 134, § 5 (last par.); added June 15, 1933, ch. 87, § 2 (last par.), 48 Stat. 154. |
 
 In subsection (a), the words “not for” are substituted for the words “no person shall serve as Chief of Staff for a term of”.
 
@@ -230,23 +230,23 @@ The changes correct references to section 202(j) of the National Security Act of
 
 **References in Text**
 
-Section 664(f) of this title, referred to in subsec. (a)(2)(B), was redesignated as section 664(d) of this title by Pub. L. 114–328, div. A, title V, § 510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
+Section 664(f) of this title, referred to in subsec. (a)(2)(B), was redesignated as section 664(d) of this title by Pub. L. 114–328, div. A, title V, § 510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
 
 **Amendments**
 
-2021—Subsec. (d)(5). Pub. L. 116–283, § 1847(e)(6)(B), which directed substitution of “, 3103, and 4274” for “and 2547”, was repealed by Pub. L. 117–81, § 1701(r)(1)(B).
+2021—Subsec. (d)(5). Pub. L. 116–283, § 1847(e)(6)(B), which directed substitution of “, 3103, and 4274” for “and 2547”, was repealed by Pub. L. 117–81, § 1701(r)(1)(B).
 
-Pub. L. 116–283, § 1808(d)(3), as added by Pub. L. 117–81, § 1701(r)(2), substituted “and 3104” for “and 2547”.
+Pub. L. 116–283, § 1808(d)(3), as added by Pub. L. 117–81, § 1701(r)(2), substituted “and 3104” for “and 2547”.
 
-2018—Pub. L. 115–232, § 806(c), renumbered section 8033 of this title as this section.
+2018—Pub. L. 115–232, § 806(c), renumbered section 8033 of this title as this section.
 
-Subsec. (c). Pub. L. 115–232, § 809(a), substituted “section 9013(f)” for “section 8013(f)”.
+Subsec. (c). Pub. L. 115–232, § 809(a), substituted “section 9013(f)” for “section 8013(f)”.
 
-Subsec. (d)(5). Pub. L. 115–232, § 809(a), substituted “section 9040” for “section 8040”.
+Subsec. (d)(5). Pub. L. 115–232, § 809(a), substituted “section 9040” for “section 8040”.
 
-2015—Subsec. (d)(5). Pub. L. 114–92, § 1652(a)(3), inserted “, including pursuant to section 8040 of this title” after “other provisions of law”.
+2015—Subsec. (d)(5). Pub. L. 114–92, § 1652(a)(3), inserted “, including pursuant to section 8040 of this title” after “other provisions of law”.
 
-Pub. L. 114–92, § 802(d)(4)(D), substituted “sections 171 and 2547” for “section 171”.
+Pub. L. 114–92, § 802(d)(4)(D), substituted “sections 171 and 2547” for “section 171”.
 
 1988—Subsec. (a)(2)(B). Pub. L. 100–456 substituted “full tour of duty in a joint duty assignment (as defined in section 664(f) of this title)” for “joint duty assignment”.
 
@@ -296,7 +296,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–22, § 10(b), July 10, 1981, 95 Stat. 137, provided that the amendment made by that section is effective Sept. 15, 1981.
+Pub. L. 97–22, § 10(b), July 10, 1981, 95 Stat. 137, provided that the amendment made by that section is effective Sept. 15, 1981.
 
 **Effective Date of 1980 Amendment**
 
@@ -310,7 +310,7 @@ Amendment by Pub. L. 90–22 effective Jan. 1, 1969, see section 405 of Pub. L. 
 
 For provisions giving President temporary authority to waive requirements in subsec. (a)(2) of this section, see section 532(c) of Pub. L. 99–433, title V, Oct. 1, 1986, 100 Stat. 1063, which was formerly set out as a note under section 3033 of this title.
 
-## § 9034. Vice Chief of Staff
+## § 9034. Vice Chief of Staff
 
 **(a)** There is a Vice Chief of Staff of the Air Force, appointed by the President, by and with the advice and consent of the Senate, from the general officers of the Air Force.
 
@@ -324,13 +324,13 @@ For provisions giving President temporary authority to waive requirements in sub
 
 **(2)** if there is a vacancy in the office of the Vice Chief of Staff or the Vice Chief of Staff is absent or disabled, unless the President directs otherwise, the most senior officer of the Air Force in the Air Staff who is not absent or disabled and who is not restricted in performance of duty shall perform the duties of the Chief of Staff until a successor to the Chief of Staff or the Vice Chief of Staff is appointed or until the absence or disability of the Chief of Staff or Vice Chief of Staff ceases, whichever occurs first.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 492, § 8035; Pub. L. 85–599, § 6(d), Aug. 6, 1958, 72 Stat. 519; renumbered § 8034 and amended Pub. L. 99–433, title V, § 522(d), Oct. 1, 1986, 100 Stat. 1062; renumbered § 9034, Pub. L. 115–232, div. A, title VIII, § 806(c), Aug. 13, 2018, 132 Stat. 1833.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 492, § 8035; Pub. L. 85–599, § 6(d), Aug. 6, 1958, 72 Stat. 519; renumbered § 8034 and amended Pub. L. 99–433, title V, § 522(d), Oct. 1, 1986, 100 Stat. 1062; renumbered § 9034, Pub. L. 115–232, div. A, title VIII, § 806(c), Aug. 13, 2018, 132 Stat. 1833.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8035(a) | 10:1813(a) (1st sentence). | Sept. 19, 1951, ch. 407, § 203, 65 Stat. 328. |
+| 8035(a) | 10:1813(a) (1st sentence). | Sept. 19, 1951, ch. 407, § 203, 65 Stat. 328. |
 | 8035(b) | 10:1813(a) (less 1st sentence). |  |
 | 8035(c) | 10:1813(b). |  |
 
@@ -346,11 +346,11 @@ In subsection (c), the words “If the Vice Chief of Staff is absent or disabled
 
 2018—Pub. L. 115–232 renumbered section 8034 of this title as this section.
 
-1986—Pub. L. 99–433, § 522(d), renumbered section 8035 of this title as this section.
+1986—Pub. L. 99–433, § 522(d), renumbered section 8035 of this title as this section.
 
-Pub. L. 99–433, § 522(d)(5), substituted “Vice Chief of Staff” for “Vice Chief of Staff; Deputy Chiefs of Staff: succession to duties of Chief of Staff and Vice Chief of Staff” in section catchline.
+Pub. L. 99–433, § 522(d)(5), substituted “Vice Chief of Staff” for “Vice Chief of Staff; Deputy Chiefs of Staff: succession to duties of Chief of Staff and Vice Chief of Staff” in section catchline.
 
-Subsecs. (a), (b). Pub. L. 99–433, § 522(d)(1), substituted subsecs. (a) and (b) for former subsecs. (a) and (b) which read as follows:
+Subsecs. (a), (b). Pub. L. 99–433, § 522(d)(1), substituted subsecs. (a) and (b) for former subsecs. (a) and (b) which read as follows:
 
 “(a) The Vice Chief of Staff and the Deputy Chiefs of Staff shall be general officers detailed to those positions.
 
@@ -360,9 +360,9 @@ Subsecs. (a), (b). Pub. L. 99–433, § 522(d)(1), substituted subsecs. (a) an
 
 “(2) The Deputy Chiefs of Staff in order of seniority.”
 
-Subsec. (c). Pub. L. 99–433, § 522(d)(2), (3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “If the Vice Chief of Staff is absent or disabled or if that office is vacant, the senior Deputy Chief of Staff who is not absent or disabled shall, unless otherwise directed by the Secretary of the Air Force, perform the duties of the Vice Chief of Staff until a successor is designated or the absence or disability ceases.”
+Subsec. (c). Pub. L. 99–433, § 522(d)(2), (3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “If the Vice Chief of Staff is absent or disabled or if that office is vacant, the senior Deputy Chief of Staff who is not absent or disabled shall, unless otherwise directed by the Secretary of the Air Force, perform the duties of the Vice Chief of Staff until a successor is designated or the absence or disability ceases.”
 
-Subsec. (d). Pub. L. 99–433, § 522(d)(3), (4), added subsec. (d). Former subsec. (d) was redesignated (c).
+Subsec. (d). Pub. L. 99–433, § 522(d)(3), (4), added subsec. (d). Former subsec. (d) was redesignated (c).
 
 1958—Subsec. (d). Pub. L. 85–599 added subsec. (d).
 
@@ -372,13 +372,13 @@ Subsec. (d). Pub. L. 99–433, § 522(d)(3), (4), added subsec. (d). Former su
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 9035. Deputy Chiefs of Staff and Assistant Chiefs of Staff
+## § 9035. Deputy Chiefs of Staff and Assistant Chiefs of Staff
 
 **(a)** The Deputy Chiefs of Staff and the Assistant Chiefs of Staff shall be general officers detailed to those positions.
 
 **(b)** The Secretary of the Air Force shall prescribe the number of Deputy Chiefs of Staff and Assistant Chiefs of Staff, for a total of not more than eight positions.
 
-(Added Pub. L. 99–433, title V, § 522(e), Oct. 1, 1986, 100 Stat. 1062, § 8035; Pub. L. 110–181, div. A, title IX, § 902(c), Jan. 28, 2008, 122 Stat. 273; renumbered § 9035, Pub. L. 115–232, div. A, title VIII, § 806(c), Aug. 13, 2018, 132 Stat. 1833.)
+(Added Pub. L. 99–433, title V, § 522(e), Oct. 1, 1986, 100 Stat. 1062, § 8035; Pub. L. 110–181, div. A, title IX, § 902(c), Jan. 28, 2008, 122 Stat. 273; renumbered § 9035, Pub. L. 115–232, div. A, title VIII, § 806(c), Aug. 13, 2018, 132 Stat. 1833.)
 
 **Editorial Notes**
 
@@ -398,7 +398,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 9036. Surgeon General: appointment; duties
+## § 9036. Surgeon General: appointment; duties
 
 **(a) Appointment.—** The Surgeon General of the Air Force shall be appointed by the President, by and with the advice and consent of the Senate from officers of the Air Force who are in the Air Force medical department.
 
@@ -410,15 +410,15 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(3)** The Surgeon General, acting under the authority, direction, and control of the Secretary of the Air Force, shall recruit, organize, train, and equip, medical personnel of the Air Force.
 
-(Added Pub. L. 89–288, § 5(a), Oct. 22, 1965, 79 Stat. 1050, § 8036; amended Pub. L. 99–433, title V, § 522(g)(2), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 104–106, div. A, title V, § 506(c), Feb. 10, 1996, 110 Stat. 296; Pub. L. 114–328, div. A, title VII, § 702(b)(3)(A), Dec. 23, 2016, 130 Stat. 2196; renumbered § 9036, Pub. L. 115–232, div. A, title VIII, § 806(c), Aug. 13, 2018, 132 Stat. 1833; Pub. L. 116–283, div. A, title IX, § 923(b)(6), Jan. 1, 2021, 134 Stat. 3809.)
+(Added Pub. L. 89–288, § 5(a), Oct. 22, 1965, 79 Stat. 1050, § 8036; amended Pub. L. 99–433, title V, § 522(g)(2), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 104–106, div. A, title V, § 506(c), Feb. 10, 1996, 110 Stat. 296; Pub. L. 114–328, div. A, title VII, § 702(b)(3)(A), Dec. 23, 2016, 130 Stat. 2196; renumbered § 9036, Pub. L. 115–232, div. A, title VIII, § 806(c), Aug. 13, 2018, 132 Stat. 1833; Pub. L. 116–283, div. A, title IX, § 923(b)(6), Jan. 1, 2021, 134 Stat. 3809.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (b)(1). Pub. L. 116–283, § 923(b)(6)(A), substituted “Secretary of the Air Force, the Chief of Staff of the Air Force, and the Chief of Space Operations on all health and medical matters of the Air Force and the Space Force” for “Secretary of the Air Force and the Chief of Staff of the Air Force on all health and medical matters of the Air Force”.
+2021—Subsec. (b)(1). Pub. L. 116–283, § 923(b)(6)(A), substituted “Secretary of the Air Force, the Chief of Staff of the Air Force, and the Chief of Space Operations on all health and medical matters of the Air Force and the Space Force” for “Secretary of the Air Force and the Chief of Staff of the Air Force on all health and medical matters of the Air Force”.
 
-Subsec. (b)(2). Pub. L. 116–283, § 923(b)(6)(B), inserted “and the Space Force” after “advisor of the Air Force” and “and members of the Space Force” after “members of the Air Force”.
+Subsec. (b)(2). Pub. L. 116–283, § 923(b)(6)(B), inserted “and the Space Force” after “advisor of the Air Force” and “and members of the Space Force” after “members of the Air Force”.
 
 2018—Pub. L. 115–232 renumbered section 8036 of this title as this section.
 
@@ -438,7 +438,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 For continued service of Surgeon General of the Air Force under this section after Jan. 1, 2021, without further appointment, notwithstanding amendment by section 923(b)(6) of Pub. L. 116–283, see section 923(f) of Pub. L. 116–283, set out as a note under section 9020 of this title.
 
-## § 9037. Judge Advocate General, Deputy Judge Advocate General: appointment; duties
+## § 9037. Judge Advocate General, Deputy Judge Advocate General: appointment; duties
 
 **(a)** There is a Judge Advocate General in the Air Force, who is appointed by the President, by and with the advice and consent of the Senate, from officers of the Air Force. The term of office is four years.
 
@@ -478,21 +478,21 @@ For continued service of Surgeon General of the Air Force under this section aft
 
 **(g)** If the Judge Advocate General is removed from office before the end of the term of the Judge Advocate General as specified in subsection (a), the Secretary of Defense shall, not later than five days after the removal takes effect, submit to the Committees on Armed Services of the Senate and the House of Representatives notice that the Judge Advocate General is being removed and a statement of the reason for the removal.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 495, § 8072; Pub. L. 96–343, § 12(a), (b)(1), Sept. 8, 1980, 94 Stat. 1130, 1131; renumbered § 8037, Pub. L. 99–433, title V, § 522(f), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 103–337, div. A, title V, § 504(c), Oct. 5, 1994, 108 Stat. 2751; Pub. L. 104–106, div. A, title V, § 507(a), Feb. 10, 1996, 110 Stat. 296; Pub. L. 108–375, div. A, title V, § 574(c), Oct. 28, 2004, 118 Stat. 1922; Pub. L. 109–163, div. A, title V, § 508(c), title X, § 1057(a)(2), Jan. 6, 2006, 119 Stat. 3229, 3440; Pub. L. 110–181, div. A, title V, § 543(c), Jan. 28, 2008, 122 Stat. 115; Pub. L. 114–328, div. A, title V, § 502(kk), Dec. 23, 2016, 130 Stat. 2106; Pub. L. 115–91, div. A, title V, § 508(c), Dec. 12, 2017, 131 Stat. 1375; renumbered § 9037, Pub. L. 115–232, div. A, title VIII, § 806(c), Aug. 13, 2018, 132 Stat. 1833; Pub. L. 116–283, div. A, title IX, § 923(b)(7), Jan. 1, 2021, 134 Stat. 3809; Pub. L. 119–60, div. A, title V, § 506(c), Dec. 18, 2025, 139 Stat. 858.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 495, § 8072; Pub. L. 96–343, § 12(a), (b)(1), Sept. 8, 1980, 94 Stat. 1130, 1131; renumbered § 8037, Pub. L. 99–433, title V, § 522(f), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 103–337, div. A, title V, § 504(c), Oct. 5, 1994, 108 Stat. 2751; Pub. L. 104–106, div. A, title V, § 507(a), Feb. 10, 1996, 110 Stat. 296; Pub. L. 108–375, div. A, title V, § 574(c), Oct. 28, 2004, 118 Stat. 1922; Pub. L. 109–163, div. A, title V, § 508(c), title X, § 1057(a)(2), Jan. 6, 2006, 119 Stat. 3229, 3440; Pub. L. 110–181, div. A, title V, § 543(c), Jan. 28, 2008, 122 Stat. 115; Pub. L. 114–328, div. A, title V, § 502(kk), Dec. 23, 2016, 130 Stat. 2106; Pub. L. 115–91, div. A, title V, § 508(c), Dec. 12, 2017, 131 Stat. 1375; renumbered § 9037, Pub. L. 115–232, div. A, title VIII, § 806(c), Aug. 13, 2018, 132 Stat. 1833; Pub. L. 116–283, div. A, title IX, § 923(b)(7), Jan. 1, 2021, 134 Stat. 3809; Pub. L. 119–60, div. A, title V, § 506(c), Dec. 18, 2025, 139 Stat. 858.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8072(a) 8072(b) 8072(c) | 10:1840(a). 50:741. 10:62, 10:1840(b) (last sentence). | Sept. 19, 1951, ch. 407, § 310(a), (b) (less 1st sentence), 65 Stat. 332. May 5, 1950, ch. 169, § 13 (as applicable to Air Force), 64 Stat. 147. |
+| 8072(a) 8072(b) 8072(c) | 10:1840(a). 50:741. 10:62, 10:1840(b) (last sentence). | Sept. 19, 1951, ch. 407, § 310(a), (b) (less 1st sentence), 65 Stat. 332. May 5, 1950, ch. 169, § 13 (as applicable to Air Force), 64 Stat. 147. |
 |  |  | R.S. 1199. |
-|  |  | June 23, 1874, ch. 458, § 2, 18 Stat. 244. |
+|  |  | June 23, 1874, ch. 458, § 2, 18 Stat. 244. |
 
 In subsection (a), the words “subject to the provisions of section 741 of Title 50” are omitted as surplusage. The words “but may be sooner terminated, or extended, by the President” are substituted for 10:1840(a) (last 11 words of 1st sentence, and 2d sentence). 10:1840(a) (1st 46 words of 3d sentence) is omitted as surplusage. 10:1840(a) (last sentence) is omitted as executed. The words “by the President, by and with the advice and consent of the Senate”, as they relate to the appointment as a major general in the Regular Air Force, are omitted as covered by section 8284 of this title.
 
 In subsection (b), the words “Hereafter” and “exclusive of the present incumbents” are omitted as surplusage. The words “at least” are substituted for the words “not less than a total”.
 
-In subsection (c), the Act of June 23, 1874, ch. 458, § 2 (words before semicolon of 1st sentence, and last sentence), 18 Stat. 244, are not contained in 10:62. They are also omitted from the revised section, since the Air Force does not have organic corps created by statute.
+In subsection (c), the Act of June 23, 1874, ch. 458, § 2 (words before semicolon of 1st sentence, and last sentence), 18 Stat. 244, are not contained in 10:62. They are also omitted from the revised section, since the Air Force does not have organic corps created by statute.
 
 **Editorial Notes**
 
@@ -500,33 +500,33 @@ In subsection (c), the Act of June 23, 1874, ch. 458, § 2 (words before semic
 
 2025—Subsec. (g). Pub. L. 119–60 added subsec. (g).
 
-2021—Subsec. (e)(2)(B). Pub. L. 116–283, § 923(b)(7)(A), inserted “or the Space Force” after “of the Air Force”.
+2021—Subsec. (e)(2)(B). Pub. L. 116–283, § 923(b)(7)(A), inserted “or the Space Force” after “of the Air Force”.
 
-Subsec. (f)(1). Pub. L. 116–283, § 923(b)(7)(B), substituted “the Secretary of the Air Force, the Chief of Staff of the Air Force, or the Chief of Space Operations” for “the Secretary of the Air Force or the Chief of Staff of the Air Force”.
+Subsec. (f)(1). Pub. L. 116–283, § 923(b)(7)(B), substituted “the Secretary of the Air Force, the Chief of Staff of the Air Force, or the Chief of Space Operations” for “the Secretary of the Air Force or the Chief of Staff of the Air Force”.
 
 2018—Pub. L. 115–232 renumbered section 8037 of this title as this section.
 
 2017—Subsec. (e). Pub. L. 115–91 designated existing provisions as par. (1) and added par. (2).
 
-2016—Subsec. (a). Pub. L. 114–328, § 502(kk)(1), struck out last sentence which read as follows: “The Judge Advocate General, while so serving, has the grade of lieutenant general.”
+2016—Subsec. (a). Pub. L. 114–328, § 502(kk)(1), struck out last sentence which read as follows: “The Judge Advocate General, while so serving, has the grade of lieutenant general.”
 
-Subsec. (d)(1). Pub. L. 114–328, § 502(kk)(2), struck out last sentence which read as follows: “An officer appointed as Deputy Judge Advocate General who holds a lower regular grade shall be appointed in the regular grade of major general.”
+Subsec. (d)(1). Pub. L. 114–328, § 502(kk)(2), struck out last sentence which read as follows: “An officer appointed as Deputy Judge Advocate General who holds a lower regular grade shall be appointed in the regular grade of major general.”
 
 2008—Subsec. (a). Pub. L. 110–181 substituted “The Judge Advocate General, while so serving, has the grade of lieutenant general.” for “The Judge Advocate General, while so serving, shall hold a grade not lower than major general.”
 
-2006—Subsec. (a). Pub. L. 109–163, § 508(c), substituted “The Judge Advocate General, while so serving, shall hold a grade not lower than major general.” for “An appointee who holds a lower regular grade shall be appointed in the regular grade of major general.”
+2006—Subsec. (a). Pub. L. 109–163, § 508(c), substituted “The Judge Advocate General, while so serving, shall hold a grade not lower than major general.” for “An appointee who holds a lower regular grade shall be appointed in the regular grade of major general.”
 
-Subsec. (b). Pub. L. 109–163, § 1057(a)(2), struck out “or Territory” after “a State”.
+Subsec. (b). Pub. L. 109–163, § 1057(a)(2), struck out “or Territory” after “a State”.
 
-2004—Subsec. (a). Pub. L. 108–375, § 574(c)(1), struck out “, but may be sooner terminated or extended by the President” after “four years”.
+2004—Subsec. (a). Pub. L. 108–375, § 574(c)(1), struck out “, but may be sooner terminated or extended by the President” after “four years”.
 
-Subsec. (c). Pub. L. 108–375, § 574(c)(2)(A), struck out “shall” after “General” in introductory provisions.
+Subsec. (c). Pub. L. 108–375, § 574(c)(2)(A), struck out “shall” after “General” in introductory provisions.
 
-Subsec. (c)(1) to (3). Pub. L. 108–375, § 574(c)(2)(B)–(D), added pars. (1) and (2), redesignated former par. (1) as (3), inserted “shall” before “receive”, substituted period for “; and” at end, and struck out former par. (2) which read as follows: “perform such other legal duties as may be directed by the Secretary of the Air Force.”
+Subsec. (c)(1) to (3). Pub. L. 108–375, § 574(c)(2)(B)–(D), added pars. (1) and (2), redesignated former par. (1) as (3), inserted “shall” before “receive”, substituted period for “; and” at end, and struck out former par. (2) which read as follows: “perform such other legal duties as may be directed by the Secretary of the Air Force.”
 
-Subsec. (d)(1). Pub. L. 108–375, § 574(c)(3), struck out “, but may be sooner terminated or extended by the President” after “four years”.
+Subsec. (d)(1). Pub. L. 108–375, § 574(c)(3), struck out “, but may be sooner terminated or extended by the President” after “four years”.
 
-Subsec. (f). Pub. L. 108–375, § 574(c)(4), added subsec. (f).
+Subsec. (f). Pub. L. 108–375, § 574(c)(4), added subsec. (f).
 
 1996—Subsec. (d)(1). Pub. L. 104–106 substituted “four years” for “two years” and “An officer appointed as Deputy Judge Advocate General who holds a lower regular grade shall be appointed in the regular grade of major general.” for “An officer appointed as Deputy Judge Advocate General shall be appointed in a regular grade to be determined by the Secretary of Defense.”
 
@@ -534,9 +534,9 @@ Subsec. (f). Pub. L. 108–375, § 574(c)(4), added subsec. (f).
 
 1986—Pub. L. 99–433 renumbered section 8072 of this title as this section.
 
-1980—Pub. L. 96–343, § 12(b)(1), substituted “General, Deputy Judge Advocate General:” for “General:” in section catchline.
+1980—Pub. L. 96–343, § 12(b)(1), substituted “General, Deputy Judge Advocate General:” for “General:” in section catchline.
 
-Subsec. (d). Pub. L. 96–343, § 12(a), added subsec. (d).
+Subsec. (d). Pub. L. 96–343, § 12(a), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -546,13 +546,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title V, § 507(b), Feb. 10, 1996, 110 Stat. 296, provided that: “The amendments made by subsection (a) [amending this section] apply to any appointment to the position of Deputy Judge Advocate General of the Air Force that is made after the date of the enactment of this Act [Feb. 10, 1996].”
+Pub. L. 104–106, div. A, title V, § 507(b), Feb. 10, 1996, 110 Stat. 296, provided that: “The amendments made by subsection (a) [amending this section] apply to any appointment to the position of Deputy Judge Advocate General of the Air Force that is made after the date of the enactment of this Act [Feb. 10, 1996].”
 
 **Service of Incumbents in Certain Positions Without Reappointment**
 
 For continued service of Judge Advocate General of the Air Force under subsec. (a) of this section or Deputy Judge Advocate General of the Air Force under subsec. (d) of this section after Jan. 1, 2021, without further appointment, notwithstanding amendment by section 923(b)(7) of Pub. L. 116–283, see section 923(f) of Pub. L. 116–283, set out as a note under section 9020 of this title.
 
-## § 9038. Office of Air Force Reserve: appointment of Chief
+## § 9038. Office of Air Force Reserve: appointment of Chief
 
 **(a)** There is in the executive part of the Department of the Air Force an Office of Air Force Reserve which is headed by a chief who is the adviser to the Chief of Staff on Air Force Reserve matters.
 
@@ -584,7 +584,7 @@ Any such waiver shall be made on a case-by-case basis.
 
 **(f) Annual Report.—** The Chief of Air Force Reserve shall submit to the Secretary of Defense, through the Secretary of the Air Force, an annual report on the state of the Air Force Reserve and the ability of the Air Force Reserve to meet its missions. The report shall be prepared in conjunction with the Chief of Staff of the Air Force and may be submitted in classified and unclassified versions.
 
-(Added Pub. L. 90–168, § 2(19), Dec. 1, 1967, 81 Stat. 524, § 8019; renumbered § 8038 and amended Pub. L. 99–433, title V, §§ 521(a)(2), 522(g)(3), Oct. 1, 1986, 100 Stat. 1055, 1063; Pub. L. 103–337, div. A, title XVI, § 1674(c)(1), Oct. 5, 1994, 108 Stat. 3016; Pub. L. 104–201, div. A, title XII, § 1212(d), Sept. 23, 1996, 110 Stat. 2693; Pub. L. 105–85, div. A, title X, § 1073(a)(65), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 106–65, div. A, title V, § 554(e), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, § 1 [[div. A], title V, § 507(d)], Oct. 30, 2000, 114 Stat. 1654, 1654A–104; Pub. L. 107–314, div. A, title V, § 501(a), Dec. 2, 2002, 116 Stat. 2529; Pub. L. 108–375, div. A, title V, § 536(a), Oct. 28, 2004, 118 Stat. 1901; Pub. L. 114–328, div. A, title V, § 502(*ll*), Dec. 23, 2016, 130 Stat. 2106; Pub. L. 115–91, div. A, title X, § 1051(a)(30), Dec. 12, 2017, 131 Stat. 1562; renumbered § 9038, Pub. L. 115–232, div. A, title VIII, § 806(c), Aug. 13, 2018, 132 Stat. 1833.)
+(Added Pub. L. 90–168, § 2(19), Dec. 1, 1967, 81 Stat. 524, § 8019; renumbered § 8038 and amended Pub. L. 99–433, title V, §§ 521(a)(2), 522(g)(3), Oct. 1, 1986, 100 Stat. 1055, 1063; Pub. L. 103–337, div. A, title XVI, § 1674(c)(1), Oct. 5, 1994, 108 Stat. 3016; Pub. L. 104–201, div. A, title XII, § 1212(d), Sept. 23, 1996, 110 Stat. 2693; Pub. L. 105–85, div. A, title X, § 1073(a)(65), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 106–65, div. A, title V, § 554(e), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, § 1 [[div. A], title V, § 507(d)], Oct. 30, 2000, 114 Stat. 1654, 1654A–104; Pub. L. 107–314, div. A, title V, § 501(a), Dec. 2, 2002, 116 Stat. 2529; Pub. L. 108–375, div. A, title V, § 536(a), Oct. 28, 2004, 118 Stat. 1901; Pub. L. 114–328, div. A, title V, § 502(*ll*), Dec. 23, 2016, 130 Stat. 2106; Pub. L. 115–91, div. A, title X, § 1051(a)(30), Dec. 12, 2017, 131 Stat. 1562; renumbered § 9038, Pub. L. 115–232, div. A, title VIII, § 806(c), Aug. 13, 2018, 132 Stat. 1833.)
 
 **Editorial Notes**
 
@@ -594,7 +594,7 @@ Any such waiver shall be made on a case-by-case basis.
 
 2017—Subsec. (f). Pub. L. 115–91 struck out par. (1) designation before “The Chief” and struck out par. (2) which read as follows: “The Secretary of Defense shall transmit the annual report of the Chief of Air Force Reserve under paragraph (1) to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under section 113 of this title is submitted to Congress.”
 
-2016—Subsec. (c). Pub. L. 114–328, in heading, struck out “; Grade” after “Reappointment”, and in text, struck out par. (1) designation before “The Chief of Air Force Reserve” and struck out par. (2) which read as follows: “The Chief of Air Force Reserve, while so serving, holds the grade of lieutenant general.”
+2016—Subsec. (c). Pub. L. 114–328, in heading, struck out “; Grade” after “Reappointment”, and in text, struck out par. (1) designation before “The Chief of Air Force Reserve” and struck out par. (2) which read as follows: “The Chief of Air Force Reserve, while so serving, holds the grade of lieutenant general.”
 
 2004—Subsec. (b)(4). Pub. L. 108–375 substituted “December 31, 2006” for “December 31, 2004”.
 
@@ -618,9 +618,9 @@ Subsec. (c). Pub. L. 106–398 amended subsec. (c) generally. Prior to amendment
 
 1994—Subsec. (b). Pub. L. 103–337 substituted “10211” for “265”.
 
-1986—Pub. L. 99–433, § 521(a)(2), renumbered section 8019 of this title as this section.
+1986—Pub. L. 99–433, § 521(a)(2), renumbered section 8019 of this title as this section.
 
-Subsec. (a). Pub. L. 99–433, § 522(g)(3), struck out the comma after “Chief of Staff”.
+Subsec. (a). Pub. L. 99–433, § 522(g)(3), struck out the comma after “Chief of Staff”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -640,7 +640,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 Section effective on first day of first calendar month following date of enactment of Pub. L. 90–168, which was approved Dec. 1, 1967, see section 7 of Pub. L. 90–168, set out as an Effective Date of 1967 Amendment note under section 138 of this title.
 
-## § 9039. Chief of Chaplains: appointment; duties
+## § 9039. Chief of Chaplains: appointment; duties
 
 **(a) Chief of Chaplains.—**
 
@@ -658,7 +658,7 @@ Section effective on first day of first calendar month following date of enactme
 
 **(c) Grade of Chief of Chaplains.—** The Chief of Chaplains, while so serving, holds the grade of major general.
 
-(Added Pub. L. 112–239, div. A, title V, § 508(a), Jan. 2, 2013, 126 Stat. 1716, § 8039; amended Pub. L. 114–328, div. A, title V, § 502(mm), Dec. 23, 2016, 130 Stat. 2106; renumbered § 9039 and amended Pub. L. 115–232, div. A, title V, § 510(c), title VIII, §§ 806(c), 809(a), Aug. 13, 2018, 132 Stat. 1751, 1833, 1840; Pub. L. 116–283, div. A, title IX, § 923(b)(8), Jan. 1, 2021, 134 Stat. 3809.)
+(Added Pub. L. 112–239, div. A, title V, § 508(a), Jan. 2, 2013, 126 Stat. 1716, § 8039; amended Pub. L. 114–328, div. A, title V, § 502(mm), Dec. 23, 2016, 130 Stat. 2106; renumbered § 9039 and amended Pub. L. 115–232, div. A, title V, § 510(c), title VIII, §§ 806(c), 809(a), Aug. 13, 2018, 132 Stat. 1751, 1833, 1840; Pub. L. 116–283, div. A, title IX, § 923(b)(8), Jan. 1, 2021, 134 Stat. 3809.)
 
 **Editorial Notes**
 
@@ -666,15 +666,15 @@ Section effective on first day of first calendar month following date of enactme
 
 2021—Subsec. (a). Pub. L. 116–283 substituted “for the Air Force and the Space Force” for “in the Air Force”.
 
-2018—Pub. L. 115–232, § 806(c), renumbered section 8039 of this title as this section.
+2018—Pub. L. 115–232, § 806(c), renumbered section 8039 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 115–232, § 809(a), substituted “section 9067(h)” for “section 8067(h)” in introductory provisions.
+Subsec. (a)(1). Pub. L. 115–232, § 809(a), substituted “section 9067(h)” for “section 8067(h)” in introductory provisions.
 
-Subsec. (c). Pub. L. 115–232, § 510(c), added subsec. (c).
+Subsec. (c). Pub. L. 115–232, § 510(c), added subsec. (c).
 
-2016—Subsec. (a)(1). Pub. L. 114–328, § 502(mm)(1), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “are serving in the grade of colonel or above;”.
+2016—Subsec. (a)(1). Pub. L. 114–328, § 502(mm)(1), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “are serving in the grade of colonel or above;”.
 
-Subsec. (c). Pub. L. 114–328, § 502(mm)(2), struck out subsec. (c). Text read as follows: “An officer appointed as Chief of Chaplains who holds a lower regular grade may be appointed in the regular grade of major general.”
+Subsec. (c). Pub. L. 114–328, § 502(mm)(2), struck out subsec. (c). Text read as follows: “An officer appointed as Chief of Chaplains who holds a lower regular grade may be appointed in the regular grade of major general.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -686,7 +686,7 @@ Amendment by sections 806(c) and 809(a) of Pub. L. 115–232 effective Feb. 1, 2
 
 For continued service of Chief of Chaplains for the Air Force and the Space Force under this section after Jan. 1, 2021, without further appointment, notwithstanding amendment by section 923(b)(8) of Pub. L. 116–283, see section 923(f) of Pub. L. 116–283, set out as a note under section 9020 of this title.
 
-## § 9040. Oversight of nuclear deterrence mission
+## § 9040. Oversight of nuclear deterrence mission
 
 **(a) Oversight of Nuclear Deterrence Mission.—** Subject to the authority, direction, and control of the Secretary of the Air Force, the Chief of Staff of the Air Force shall be responsible for overseeing the safety, security, reliability, effectiveness, and credibility of the nuclear deterrence mission of the Air Force.
 
@@ -698,25 +698,25 @@ For continued service of Chief of Chaplains for the Air Force and the Space Forc
 
 **(3)** Conduct monitoring and oversight activities regarding the safety, security, reliability, effectiveness, and credibility of the nuclear deterrence mission of the Air Force.
 
-**(4)** Conduct periodic comprehensive assessments of all aspects of the nuclear deterrence mission of the Air Force and provide such assessments to the Secretary of the Air Force 1
+**(4)** Conduct periodic comprehensive assessments of all aspects of the nuclear deterrence mission of the Air Force and provide such assessments to the Secretary of the Air Force 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 the Chief of Staff of the Air Force, and the Commander of Air Force Global Strike Command.
 
 **(5)** Represent Air Force nuclear deterrence mission equities on behalf of the Chief of Staff of the Air Force and the Commander of Air Force Global Strike Command within the Nuclear Weapons Council processes and other Department of Defense fora, as appropriate.
 
-(Added Pub. L. 114–92, div. A, title XVI, § 1652(a)(1), Nov. 25, 2015, 129 Stat. 1121, § 8040; renumbered § 9040, Pub. L. 115–232, div. A, title VIII, § 806(c), Aug. 13, 2018, 132 Stat. 1833; amended Pub. L. 119–60, div. A, title XVI, § 1642(b), Dec. 18, 2025, 139 Stat. 1192.)
+(Added Pub. L. 114–92, div. A, title XVI, § 1652(a)(1), Nov. 25, 2015, 129 Stat. 1121, § 8040; renumbered § 9040, Pub. L. 115–232, div. A, title VIII, § 806(c), Aug. 13, 2018, 132 Stat. 1833; amended Pub. L. 119–60, div. A, title XVI, § 1642(b), Dec. 18, 2025, 139 Stat. 1192.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (b). Pub. L. 119–60, § 1642(b)(1), inserted “in coordination with the Commander of Air Force Global Strike Command” after “duties” in introductory provisions.
+2025—Subsec. (b). Pub. L. 119–60, § 1642(b)(1), inserted “in coordination with the Commander of Air Force Global Strike Command” after “duties” in introductory provisions.
 
-Subsec. (b)(2) to (4). Pub. L. 119–60, § 1642(b)(2)–(4), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and in par. (4), substituted “the Chief of Staff of the Air Force, and the Commander of Air Force Global Strike Command” for “and the Chief of Staff of the Air Force”.
+Subsec. (b)(2) to (4). Pub. L. 119–60, § 1642(b)(2)–(4), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and in par. (4), substituted “the Chief of Staff of the Air Force, and the Commander of Air Force Global Strike Command” for “and the Chief of Staff of the Air Force”.
 
-Subsec. (b)(5). Pub. L. 119–60, § 1642(b)(5), added par. (5).
+Subsec. (b)(5). Pub. L. 119–60, § 1642(b)(5), added par. (5).
 
 2018—Pub. L. 115–232 renumbered section 8040 of this title as this section.
 

@@ -21,17 +21,17 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1990—Pub. L. 101–508, title XI, § 11801(b)(7), Nov. 5, 1990, 104 Stat. 1388–522, struck out item for part II “Exclusions from gross income”.
+1990—Pub. L. 101–508, title XI, § 11801(b)(7), Nov. 5, 1990, 104 Stat. 1388–522, struck out item for part II “Exclusions from gross income”.
 
-1976—Pub. L. 94–455, title XIX, § 1901(b)(21)(H), Oct. 4, 1976, 90 Stat. 1798, struck out item 615 “Exploration expenditures”.
+1976—Pub. L. 94–455, title XIX, § 1901(b)(21)(H), Oct. 4, 1976, 90 Stat. 1798, struck out item 615 “Exploration expenditures”.
 
-1969—Pub. L. 91–172, title V, §§ 503(b), 505(c), Dec. 30, 1969, 83 Stat. 631, 634, added items for parts IV and V.
+1969—Pub. L. 91–172, title V, §§ 503(b), 505(c), Dec. 30, 1969, 83 Stat. 631, 634, added items for parts IV and V.
 
-Pub. L. 91–172, title V, § 504(c)(5), Dec. 30, 1969, 83 Stat. 633, substituted “Pre-1970 exploration expenditures” for “Exploration expenditures” in item 615 and substituted “Deduction and recapture of certain mining exploration expenditures” for “Additional exploration expenditures in the case of domestic mining” in item 617.
+Pub. L. 91–172, title V, § 504(c)(5), Dec. 30, 1969, 83 Stat. 633, substituted “Pre-1970 exploration expenditures” for “Exploration expenditures” in item 615 and substituted “Deduction and recapture of certain mining exploration expenditures” for “Additional exploration expenditures in the case of domestic mining” in item 617.
 
-1966—Pub. L. 89–570, § 1(d), Sept. 12, 1966, 80 Stat. 762, added item 617.
+1966—Pub. L. 89–570, § 1(d), Sept. 12, 1966, 80 Stat. 762, added item 617.
 
-### § 611. Allowance of deduction for depletion
+### § 611. Allowance of deduction for depletion
 
 **(a) General rule**
 
@@ -59,7 +59,7 @@ In the case of an estate, the deduction under this section shall be apportioned 
 
 For other rules applicable to depreciation of improvements, see section 167.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 207; Pub. L. 85–866, title I, § 35, Sept. 2, 1958, 72 Stat. 1632; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 207; Pub. L. 85–866, title I, § 35, Sept. 2, 1958, 72 Stat. 1632; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -75,13 +75,13 @@ For other rules applicable to depreciation of improvements, see section 167.
 
 Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
-### § 612. Basis for cost depletion
+### § 612. Basis for cost depletion
 
 Except as otherwise provided in this subchapter, the basis on which depletion is to be allowed in respect of any property shall be the adjusted basis provided in section 1011 for the purpose of determining the gain upon the sale or other disposition of such property.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 208.)
 
-### § 613. Percentage depletion
+### § 613. Percentage depletion
 
 **(a) General rule**
 
@@ -191,7 +191,7 @@ For purposes of paragraph (1), the term “geothermal deposit” means a geother
 
 In the case of any geothermal deposit, the term “gross income from the property” shall, for purposes of this section, not include any amount described in section 613A(d)(5).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 208; Pub. L. 85–866, title I, § 36(a), Sept. 2, 1958, 72 Stat. 1633; Pub. L. 86–564, title III, § 302(a), (b), June 30, 1960, 74 Stat. 291, 292; Pub. L. 87–834, § 13(e), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 88–571, § 6(a), Sept. 2, 1964, 78 Stat. 860; Pub. L. 89–809, title II, §§ 207(a), 208(a), 209(a), (b), Nov. 13, 1966, 80 Stat. 1579, 1580; Pub. L. 91–172, title V, §§ 501(a), 502(a), Dec. 30, 1969, 83 Stat. 629, 630; Pub. L. 93–499, § 2(a), Oct. 29, 1974, 88 Stat. 1550; Pub. L. 94–12, title V, § 501(b)(1), (2), Mar. 29, 1975, 89 Stat. 53; Pub. L. 94–455, title XIX, §§ 1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 95–618, title IV, § 403(a)(1), (2)(A), Nov. 9, 1978, 92 Stat. 3203; Pub. L. 99–514, title IV, § 412(a)(2), Oct. 22, 1986, 100 Stat. 2227; Pub. L. 101–508, title XI, §§ 11522(a), 11815(b)(1), (2), Nov. 5, 1990, 104 Stat. 1388–486, 1388–557, 1388–558; Pub. L. 104–188, title I, § 1704(t)(34), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 108–357, title I, § 102(d)(6), Oct. 22, 2004, 118 Stat. 1429; Pub. L. 109–135, title IV, § 412(gg), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 115–97, title I, §§ 11011(d)(3), 13305(b)(4), Dec. 22, 2017, 131 Stat. 2071, 2126; Pub. L. 115–141, div. T, § 101(a)(2)(D), Mar. 23, 2018, 132 Stat. 1155.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 208; Pub. L. 85–866, title I, § 36(a), Sept. 2, 1958, 72 Stat. 1633; Pub. L. 86–564, title III, § 302(a), (b), June 30, 1960, 74 Stat. 291, 292; Pub. L. 87–834, § 13(e), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 88–571, § 6(a), Sept. 2, 1964, 78 Stat. 860; Pub. L. 89–809, title II, §§ 207(a), 208(a), 209(a), (b), Nov. 13, 1966, 80 Stat. 1579, 1580; Pub. L. 91–172, title V, §§ 501(a), 502(a), Dec. 30, 1969, 83 Stat. 629, 630; Pub. L. 93–499, § 2(a), Oct. 29, 1974, 88 Stat. 1550; Pub. L. 94–12, title V, § 501(b)(1), (2), Mar. 29, 1975, 89 Stat. 53; Pub. L. 94–455, title XIX, §§ 1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 95–618, title IV, § 403(a)(1), (2)(A), Nov. 9, 1978, 92 Stat. 3203; Pub. L. 99–514, title IV, § 412(a)(2), Oct. 22, 1986, 100 Stat. 2227; Pub. L. 101–508, title XI, §§ 11522(a), 11815(b)(1), (2), Nov. 5, 1990, 104 Stat. 1388–486, 1388–557, 1388–558; Pub. L. 104–188, title I, § 1704(t)(34), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 108–357, title I, § 102(d)(6), Oct. 22, 2004, 118 Stat. 1429; Pub. L. 109–135, title IV, § 412(gg), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 115–97, title I, §§ 11011(d)(3), 13305(b)(4), Dec. 22, 2017, 131 Stat. 2071, 2126; Pub. L. 115–141, div. T, § 101(a)(2)(D), Mar. 23, 2018, 132 Stat. 1155.)
 
 **Editorial Notes**
 
@@ -199,9 +199,9 @@ In the case of any geothermal deposit, the term “gross income from the propert
 
 2018—Subsec. (a). Pub. L. 115–141 substituted “any deduction under section 199A” for “the deduction under section 199A”.
 
-2017—Subsec. (a). Pub. L. 115–97, § 13305(b)(4), struck out “and without the deduction under section 199” after “without allowance for depletion”.
+2017—Subsec. (a). Pub. L. 115–97, § 13305(b)(4), struck out “and without the deduction under section 199” after “without allowance for depletion”.
 
-Pub. L. 115–97, § 11011(d)(3), inserted “and without the deduction under section 199A” after “without the deduction under section 199”.
+Pub. L. 115–97, § 11011(d)(3), inserted “and without the deduction under section 199A” after “without the deduction under section 199”.
 
 2005—Subsec. (c)(4)(H). Pub. L. 109–135 inserted “(including in situ retorting)” after “and retorting”.
 
@@ -209,63 +209,63 @@ Pub. L. 115–97, § 11011(d)(3), inserted “and without the deduction under 
 
 1996—Subsec. (e)(1)(B). Pub. L. 104–188 substituted “subsection (b).” for “subsection (b),”.
 
-1990—Subsec. (a). Pub. L. 101–508, § 11522(a), inserted “(100 percent in the case of oil and gas properties)” after “50 percent”.
+1990—Subsec. (a). Pub. L. 101–508, § 11522(a), inserted “(100 percent in the case of oil and gas properties)” after “50 percent”.
 
-Subsec. (e)(1)(B). Pub. L. 101–508, § 11815(b)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the applicable percentage (determined under the table contained in paragraph (2)) shall be deemed to be the percentage specified in subsection (b).”
+Subsec. (e)(1)(B). Pub. L. 101–508, § 11815(b)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the applicable percentage (determined under the table contained in paragraph (2)) shall be deemed to be the percentage specified in subsection (b).”
 
-Subsec. (e)(2) to (4). Pub. L. 101–508, § 11815(b)(1), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which related to the applicable percentage depletion for geothermal deposits.
+Subsec. (e)(2) to (4). Pub. L. 101–508, § 11815(b)(1), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which related to the applicable percentage depletion for geothermal deposits.
 
 1986—Subsec. (e)(4). Pub. L. 99–514 added par. (4).
 
-1978—Subsec. (c)(1). Pub. L. 95–618, § 403(a)(2)(A), inserted “and other than a geothermal deposit” after “oil or gas well”.
+1978—Subsec. (c)(1). Pub. L. 95–618, § 403(a)(2)(A), inserted “and other than a geothermal deposit” after “oil or gas well”.
 
-Subsec. (e). Pub. L. 95–618, § 403(a)(1), added subsec. (e).
+Subsec. (e). Pub. L. 95–618, § 403(a)(1), added subsec. (e).
 
-1976—Subsec. (a). Pub. L. 94–455, § 1901(b)(3)(K), substituted “ordinary income” for “gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231”.
+1976—Subsec. (a). Pub. L. 94–455, § 1901(b)(3)(K), substituted “ordinary income” for “gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231”.
 
-Subsec. (c)(2), (4)(I). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (c)(2), (4)(I). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-1975—Subsec. (b)(1). Pub. L. 94–12, § 501(b)(2)(A), struck out subpar. (A) “oil and gas wells” and redesignated former subpars. (B) and (C) as (A) and (B), respectively.
+1975—Subsec. (b)(1). Pub. L. 94–12, § 501(b)(2)(A), struck out subpar. (A) “oil and gas wells” and redesignated former subpars. (B) and (C) as (A) and (B), respectively.
 
-Subsec. (b)(3), (4). Pub. L. 94–12, § 501(b)(2)(B), substituted “(1)(B)” for “(1)(C)” wherever appearing.
+Subsec. (b)(3), (4). Pub. L. 94–12, § 501(b)(2)(B), substituted “(1)(B)” for “(1)(C)” wherever appearing.
 
-Subsec. (b)(7). Pub. L. 94–12, § 501(b)(2) (B), (C), substituted “(1)(B)” for “(1)(C)” in provisions preceding subpar. (A) and added subpar. (C).
+Subsec. (b)(7). Pub. L. 94–12, § 501(b)(2) (B), (C), substituted “(1)(B)” for “(1)(C)” in provisions preceding subpar. (A) and added subpar. (C).
 
-Subsec. (d). Pub. L. 94–12, § 501(b)(1), substituted provisions denying the percentage depletion allowance in the case of oil and gas wells except as provided in section 613A for provisions governing the application of percentage depletion rates to certain taxable years ending in 1954.
+Subsec. (d). Pub. L. 94–12, § 501(b)(1), substituted provisions denying the percentage depletion allowance in the case of oil and gas wells except as provided in section 613A for provisions governing the application of percentage depletion rates to certain taxable years ending in 1954.
 
 1974—Subsec. (c)(4)(E). Pub. L. 93–499 inserted reference to decarbonation of trona.
 
-1969—Subsec. (b). Pub. L. 91–172, § 501(a), reduced the percentage depletion rate on oil and gas wells from 27½ percent to 22 percent, reduced to 22 percent other minerals formerly receiving percentage depletion at a rate of 23 percent, added molybdenum in the category of minerals subject to the 22 percent depletion rate, reduced to 14 percent the rate on minerals formerly receiving depletion at a 15 percent rate except in the case of domestic gold, silver, oil shale, copper, and iron ore, and inserted provision that for percentage depletion purposes, minerals other than sodium chloride, extracted from brine pumped from a saline perennial lake within the United States are not to be considered minerals from an inexhaustible source.
+1969—Subsec. (b). Pub. L. 91–172, § 501(a), reduced the percentage depletion rate on oil and gas wells from 27½ percent to 22 percent, reduced to 22 percent other minerals formerly receiving percentage depletion at a rate of 23 percent, added molybdenum in the category of minerals subject to the 22 percent depletion rate, reduced to 14 percent the rate on minerals formerly receiving depletion at a 15 percent rate except in the case of domestic gold, silver, oil shale, copper, and iron ore, and inserted provision that for percentage depletion purposes, minerals other than sodium chloride, extracted from brine pumped from a saline perennial lake within the United States are not to be considered minerals from an inexhaustible source.
 
-Subsec. (c)(4)(H), (I). Pub. L. 91–172, § 502(a), added subpar. (H) and redesignated former subpar. (H) as (I).
+Subsec. (c)(4)(H), (I). Pub. L. 91–172, § 502(a), added subpar. (H) and redesignated former subpar. (H) as (I).
 
-1966—Subsec. (b)(2)(B). Pub. L. 89–809, § 207(a)(1), inserted “clay, laterite, and nephelite syenite” after “anorthosite”.
+1966—Subsec. (b)(2)(B). Pub. L. 89–809, § 207(a)(1), inserted “clay, laterite, and nephelite syenite” after “anorthosite”.
 
-Subsec. (b)(3)(B). Pub. L. 89–809, §§ 207(a)(2), 209(a)(2), substituted “if neither paragraph (2)(B), (5), or (6)(B) applies” for “if paragraph (5)(B) does not apply”.
+Subsec. (b)(3)(B). Pub. L. 89–809, §§ 207(a)(2), 209(a)(2), substituted “if neither paragraph (2)(B), (5), or (6)(B) applies” for “if paragraph (5)(B) does not apply”.
 
-Subsec. (b)(5). Pub. L. 89–809, § 209(a)(1), added par. (5). Former par. (5) redesignated (6).
+Subsec. (b)(5). Pub. L. 89–809, § 209(a)(1), added par. (5). Former par. (5) redesignated (6).
 
-Subsec. (b)(6). Pub. L. 89–809, §§ 208(a)(1), 209(a)(1), (3), (4), redesignated par. (5) as (6), struck out “mollusk shells (including clam shells and oyster shells),”, substituted “shale (except shale described in paragraph (5)), and stone (except stone described in paragraph (7))” for “shale, and stone, except stone described in paragraph (6)” in subpar. (A), and struck out “building or paving brick,” and “sewer pipe,” in subpar. (B). Former par. (6) redesignated (7).
+Subsec. (b)(6). Pub. L. 89–809, §§ 208(a)(1), 209(a)(1), (3), (4), redesignated par. (5) as (6), struck out “mollusk shells (including clam shells and oyster shells),”, substituted “shale (except shale described in paragraph (5)), and stone (except stone described in paragraph (7))” for “shale, and stone, except stone described in paragraph (6)” in subpar. (A), and struck out “building or paving brick,” and “sewer pipe,” in subpar. (B). Former par. (6) redesignated (7).
 
-Subsec. (b)(7). Pub. L. 89–809, §§ 208(a)(2), 209(a)(1), (5), redesignated par. (6) as (7) and inserted “mollusk shells (including clam shells and oyster shells),” after “marble,” and “(other than slate to which paragraph (5) applies)” after “any other such mineral”.
+Subsec. (b)(7). Pub. L. 89–809, §§ 208(a)(2), 209(a)(1), (5), redesignated par. (6) as (7) and inserted “mollusk shells (including clam shells and oyster shells),” after “marble,” and “(other than slate to which paragraph (5) applies)” after “any other such mineral”.
 
-Subsec. (c)(4)(G). Pub. L. 89–809, § 209(b), substituted “paragraph (5) or (6)(B)” for “paragraph (5)(B)”.
+Subsec. (c)(4)(G). Pub. L. 89–809, § 209(b), substituted “paragraph (5) or (6)(B)” for “paragraph (5)(B)”.
 
 1964—Subsec. (b)(2)(B), (6). Pub. L. 88–571 inserted “beryllium” after “antimony” in par. (2)(B), and deleted “beryl” after “bauxite” in pars. (2)(B) and (6).
 
 1962—Subsec. (a). Pub. L. 87–834 inserted provisions requiring the allowable deductions taken into account with respect to expenses of mining in computing the taxable income from the property to be decreased by an amount equal to so much of any gain which is treated under section 1245 as gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231, and is properly allocable to the property.
 
-1960—Subsec. (b)(3). Pub. L. 86–564, § 302(a)(1), limited the 15 percent allowance for ball clay, bentonite, china clay, and sagger clay to cases where paragraph (5)(B) does not apply, and authorized a 15 percent allowance, if paragraph (5)(B) does not apply, for clay used or sold for use for purposes dependent on its refractory properties.
+1960—Subsec. (b)(3). Pub. L. 86–564, § 302(a)(1), limited the 15 percent allowance for ball clay, bentonite, china clay, and sagger clay to cases where paragraph (5)(B) does not apply, and authorized a 15 percent allowance, if paragraph (5)(B) does not apply, for clay used or sold for use for purposes dependent on its refractory properties.
 
-Subsec. (b)(5). Pub. L. 86–564, § 302(a)(2), substituted provisions authorizing a 5 percent allowance for clay used, or sold for use, in the manufacture of building or paving brick, drainage and roofing tile, sewer pipe, flower pots, and kindred products for provisions which authorized a 5 percent allowance for brick and tile clay.
+Subsec. (b)(5). Pub. L. 86–564, § 302(a)(2), substituted provisions authorizing a 5 percent allowance for clay used, or sold for use, in the manufacture of building or paving brick, drainage and roofing tile, sewer pipe, flower pots, and kindred products for provisions which authorized a 5 percent allowance for brick and tile clay.
 
-Subsec. (b)(6). Pub. L. 86–564, § 302(a)(3), struck out provisions which authorized a 15 percent allowance for refractory and fire clay. See subsec. (b)(3) of this section.
+Subsec. (b)(6). Pub. L. 86–564, § 302(a)(3), struck out provisions which authorized a 15 percent allowance for refractory and fire clay. See subsec. (b)(3) of this section.
 
-Subsec. (c)(2). Pub. L. 86–564, § 302(b)(1), substituted “the treatment processes considered as mining described in paragraph (4) (and the treatment processes necessary or incidental thereto)” for “the ordinary treatment processes normally applied by mine owners or operators in order to obtain the commercially marketable mineral product or products”, and “such treatment processes” for “the ordinary treatment processes”.
+Subsec. (c)(2). Pub. L. 86–564, § 302(b)(1), substituted “the treatment processes considered as mining described in paragraph (4) (and the treatment processes necessary or incidental thereto)” for “the ordinary treatment processes normally applied by mine owners or operators in order to obtain the commercially marketable mineral product or products”, and “such treatment processes” for “the ordinary treatment processes”.
 
-Subsec. (c)(4). Pub. L. 86–564, § 302(b)(2), substituted “The following treatment processes where applied by the mine owner or operator shall be considered as mining to the extent they are applied to the ore or mineral in respect of which he is entitled to a deduction for depletion under section 611” for “The term ‘ordinary treatment processes’ includes the following” in opening provisions, included cleaning in subpar. (B), substituted “ores or minerals which” for “minerals which” and included substantially equivalent processes in subpar. (C), included uranium and minerals which are not customarily sold in the form of the crude mineral product and substituted “from the ore or the mineral or minerals from other material from the mine or other natural deposit” for “from the ore, including the furnacing of quicksilver ores” in subpar. (D), included the furnacing of quicksilver ores in subpar. (E), and added subpars. (F) to (H).
+Subsec. (c)(4). Pub. L. 86–564, § 302(b)(2), substituted “The following treatment processes where applied by the mine owner or operator shall be considered as mining to the extent they are applied to the ore or mineral in respect of which he is entitled to a deduction for depletion under section 611” for “The term ‘ordinary treatment processes’ includes the following” in opening provisions, included cleaning in subpar. (B), substituted “ores or minerals which” for “minerals which” and included substantially equivalent processes in subpar. (C), included uranium and minerals which are not customarily sold in the form of the crude mineral product and substituted “from the ore or the mineral or minerals from other material from the mine or other natural deposit” for “from the ore, including the furnacing of quicksilver ores” in subpar. (D), included the furnacing of quicksilver ores in subpar. (E), and added subpars. (F) to (H).
 
-Subsec. (c)(5). Pub. L. 86–564, § 302(b)(2), added par. (5).
+Subsec. (c)(5). Pub. L. 86–564, § 302(b)(2), added par. (5).
 
 1958—Subsec. (d). Pub. L. 85–866 added subsec. (d).
 
@@ -287,15 +287,15 @@ Amendment by Pub. L. 108–357 applicable to taxable years beginning after Dec. 
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title XI, § 11522(c), Nov. 5, 1990, 104 Stat. 1388–486, provided that: “The amendments made by this section [amending this section and sections 613A and 614 of this title] shall apply to taxable years beginning after December 31, 1990.”
+Pub. L. 101–508, title XI, § 11522(c), Nov. 5, 1990, 104 Stat. 1388–486, provided that: “The amendments made by this section [amending this section and sections 613A and 614 of this title] shall apply to taxable years beginning after December 31, 1990.”
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–514, title IV, § 412(a)(3), Oct. 22, 1986, 100 Stat. 2227, provided that: “The amendment made by this subsection [amending this section and section 613A of this title] shall apply to amounts received or accrued after August 16, 1986, in taxable years ending after such date.”
+Pub. L. 99–514, title IV, § 412(a)(3), Oct. 22, 1986, 100 Stat. 2227, provided that: “The amendment made by this subsection [amending this section and section 613A of this title] shall apply to amounts received or accrued after August 16, 1986, in taxable years ending after such date.”
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–618, title IV, § 403(c), Nov. 9, 1978, 92 Stat. 3204, provided that: “The amendments made by this section [amending this section and sections 613A and 614 of this title] shall take effect on October 1, 1978, and shall apply to taxable years ending on or after such date.”
+Pub. L. 95–618, title IV, § 403(c), Nov. 9, 1978, 92 Stat. 3204, provided that: “The amendments made by this section [amending this section and sections 613A and 614 of this title] shall take effect on October 1, 1978, and shall apply to taxable years ending on or after such date.”
 
 **Effective Date of 1976 Amendment**
 
@@ -307,25 +307,25 @@ Amendment by Pub. L. 94–12 effective Jan. 1, 1975, applicable to taxable years
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–499, § 2(b), Oct. 29, 1974, 88 Stat. 1550, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 1970.”
+Pub. L. 93–499, § 2(b), Oct. 29, 1974, 88 Stat. 1550, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 1970.”
 
 **Effective Date of 1969 Amendment**
 
-Pub. L. 91–172, title V, § 501(b), Dec. 30, 1969, 83 Stat. 630, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after October 9, 1969.”
+Pub. L. 91–172, title V, § 501(b), Dec. 30, 1969, 83 Stat. 630, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after October 9, 1969.”
 
-Pub. L. 91–172, title V, § 502(b), Dec. 30, 1969, 83 Stat. 630, provided that: “The amendments made by subsection (a) [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Dec. 30, 1969].”
+Pub. L. 91–172, title V, § 502(b), Dec. 30, 1969, 83 Stat. 630, provided that: “The amendments made by subsection (a) [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Dec. 30, 1969].”
 
 **Effective Date of 1966 Amendment**
 
-Pub. L. 89–809, title II, § 207(b), Nov. 13, 1966, 80 Stat. 1579, provided that: “The amendments made by subsection (a) [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Nov. 13, 1966].”
+Pub. L. 89–809, title II, § 207(b), Nov. 13, 1966, 80 Stat. 1579, provided that: “The amendments made by subsection (a) [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Nov. 13, 1966].”
 
-Pub. L. 89–809, title II, § 208(b), Nov. 13, 1966, 80 Stat. 1579, provided that: “The amendments made by subsection (a) [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Nov. 13, 1966].”
+Pub. L. 89–809, title II, § 208(b), Nov. 13, 1966, 80 Stat. 1579, provided that: “The amendments made by subsection (a) [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Nov. 13, 1966].”
 
-Pub. L. 89–809, title II, § 209(c), Nov. 13, 1966, 80 Stat. 1580, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Nov. 13, 1966].”
+Pub. L. 89–809, title II, § 209(c), Nov. 13, 1966, 80 Stat. 1580, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Nov. 13, 1966].”
 
 **Effective Date of 1964 Amendment**
 
-Pub. L. 88–571, § 6(b), Sept. 2, 1964, 78 Stat. 860, provided that: “The amendments made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1963.”
+Pub. L. 88–571, § 6(b), Sept. 2, 1964, 78 Stat. 860, provided that: “The amendments made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1963.”
 
 **Effective Date of 1962 Amendment**
 
@@ -333,7 +333,7 @@ Amendment by Pub. L. 87–834 applicable to taxable years beginning after Dec. 3
 
 **Effective Date of 1960 Amendment**
 
-Pub. L. 86–564, title III, § 302(c), June 30, 1960, 74 Stat. 293, as amended by Pub. L. 86–781, § 4, Sept. 14, 1960, 74 Stat. 1018; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 86–564, title III, § 302(c), June 30, 1960, 74 Stat. 293, as amended by Pub. L. 86–781, § 4, Sept. 14, 1960, 74 Stat. 1018; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(c) Effective Date.—**
 
@@ -379,13 +379,13 @@ Pub. L. 87–312, Sept. 26, 1961, 75 Stat. 674, provided for the election of, an
 
 **Election for Quartzite and Clay Used in Production of Refractory Products**
 
-Pub. L. 87–321, § 2, Sept. 26, 1961, 75 Stat. 683, provided for an election of, and procedures for, a differing rate of depletion for quartzite and clay used in production of refractory products, such election to be effective on and after Jan. 1, 1951, for all taxable years beginning before Jan. 1, 1961, in respect of which the assessment of a deficiency, the refund or credit of an overpayment, or the commencement of a suit for recovery is not prevented on Sept. 26, 1961, by the operation of any law or rule of law, and also effective on and after Jan. 1, 1951, for any taxable year beginning before Jan. 1, 1961, in respect of which an assessment of a deficiency has been made but not collected on or before Sept. 26, 1961.
+Pub. L. 87–321, § 2, Sept. 26, 1961, 75 Stat. 683, provided for an election of, and procedures for, a differing rate of depletion for quartzite and clay used in production of refractory products, such election to be effective on and after Jan. 1, 1951, for all taxable years beginning before Jan. 1, 1961, in respect of which the assessment of a deficiency, the refund or credit of an overpayment, or the commencement of a suit for recovery is not prevented on Sept. 26, 1961, by the operation of any law or rule of law, and also effective on and after Jan. 1, 1951, for any taxable year beginning before Jan. 1, 1961, in respect of which an assessment of a deficiency has been made but not collected on or before Sept. 26, 1961.
 
 **Refund or Credit of Overpayments; Limitations; Interest**
 
-Pub. L. 85–866, title I, § 36(b), Sept. 2, 1958, 72 Stat. 1633, provided for the filing of a claim within 6 months of Sept. 2, 1958, and for the refund or credit of any overpayment, without interest, if such refund or credit, resulting from the addition of subsec. (d) of this section, was prevented on Sept. 2, 1958, or within 6 months thereof, by the operation of any law or rule of law other than certain specified sections of the Internal Revenue Codes of 1939 and 1954.
+Pub. L. 85–866, title I, § 36(b), Sept. 2, 1958, 72 Stat. 1633, provided for the filing of a claim within 6 months of Sept. 2, 1958, and for the refund or credit of any overpayment, without interest, if such refund or credit, resulting from the addition of subsec. (d) of this section, was prevented on Sept. 2, 1958, or within 6 months thereof, by the operation of any law or rule of law other than certain specified sections of the Internal Revenue Codes of 1939 and 1954.
 
-### § 613A. Limitations on percentage depletion in case of oil and gas wells
+### § 613A. Limitations on percentage depletion in case of oil and gas wells
 
 **(a) General rule**
 
@@ -453,7 +453,7 @@ For purposes of subparagraph (A), the tentative quantity is 1,000 barrels.
 
 For purposes of paragraph (1), the depletable natural gas quantity of any taxpayer for any taxable year shall be equal to 6,000 cubic feet multiplied by the number of barrels of the taxpayer’s depletable oil quantity to which the taxpayer elects to have this paragraph apply. The taxpayer’s depletable oil quantity for any taxable year shall be reduced by the number of barrels with respect to which an election under this paragraph applies. Such election shall be made at such time and in such manner as the Secretary shall by regulations prescribe.
 
-**[(5) Repealed. Pub. L. 101–508, title XI, § 11815(a)(1)(C), Nov. 5, 1990, 104 Stat. 1388–557]**
+**[(5) Repealed. Pub. L. 101–508, title XI, § 11815(a)(1)(C), Nov. 5, 1990, 104 Stat. 1388–557]**
 
 **(6) Oil and natural gas produced from marginal properties**
 
@@ -625,25 +625,25 @@ The term “domestic” refers to production from an oil or gas well located in 
 
 The term “barrel” means 42 United States gallons.
 
-(Added Pub. L. 94–12, title V, § 501(a), Mar. 29, 1975, 89 Stat. 47; amended Pub. L. 94–455, title XIX, §§ 1901(a)(86), 1906(b)(13)(A), title XXI, § 2115(a)–(c)(1), (d), (e), Oct. 4, 1976, 90 Stat. 1779, 1834, 1907–1909; Pub. L. 95–30, title I, § 102(b)(7), May 23, 1977, 91 Stat. 138; Pub. L. 95–618, title IV, § 403(a)(2)(B), (b), Nov. 9, 1978, 92 Stat. 3204; Pub. L. 96–603, § 3(a), Dec. 28, 1980, 94 Stat. 3511; Pub. L. 97–354, § 3(a), Oct. 19, 1982, 96 Stat. 1687; Pub. L. 97–448, title II, § 202(d), Jan. 12, 1983, 96 Stat. 2396; Pub. L. 98–369, div. A, title I, §§ 25(b), 71(b), July 18, 1984, 98 Stat. 506, 589; Pub. L. 99–514, title I, § 104(b)(9), title IV, § 412(a)(1), Oct. 22, 1986, 100 Stat. 2105, 2227; Pub. L. 101–508, title XI, §§ 11521(a), (b), 11522(b)(1), 11523(a), (b), 11815(a), Nov. 5, 1990, 104 Stat. 1388–485 to 1388–487, 1388–557; Pub. L. 104–188, title I, § 1702(e)(2), Aug. 20, 1996, 110 Stat. 1870; Pub. L. 105–34, title IX, § 972(a), Aug. 5, 1997, 111 Stat. 897; Pub. L. 106–170, title V, § 504(a), Dec. 17, 1999, 113 Stat. 1921; Pub. L. 107–147, title VI, § 607(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, § 314(a), Oct. 4, 2004, 118 Stat. 1181; Pub. L. 109–58, title XIII, §§ 1322(a)(3)(B), 1328(a), Aug. 8, 2005, 119 Stat. 1011, 1019; Pub. L. 109–135, title IV, § 403(a)(18), Dec. 21, 2005, 119 Stat. 2619; Pub. L. 109–432, div. A, title I, § 118(a), Dec. 20, 2006, 120 Stat. 2942; Pub. L. 110–343, div. B, title II, § 210, Oct. 3, 2008, 122 Stat. 3840; Pub. L. 111–312, title VII, § 706(a), Dec. 17, 2010, 124 Stat. 3311; Pub. L. 115–97, title I, §§ 11011(d)(4), 13305(b)(5), Dec. 22, 2017, 131 Stat. 2071, 2126; Pub. L. 115–141, div. U, title IV, § 401(a)(136), (b)(26), Mar. 23, 2018, 132 Stat. 1190, 1203.)
+(Added Pub. L. 94–12, title V, § 501(a), Mar. 29, 1975, 89 Stat. 47; amended Pub. L. 94–455, title XIX, §§ 1901(a)(86), 1906(b)(13)(A), title XXI, § 2115(a)–(c)(1), (d), (e), Oct. 4, 1976, 90 Stat. 1779, 1834, 1907–1909; Pub. L. 95–30, title I, § 102(b)(7), May 23, 1977, 91 Stat. 138; Pub. L. 95–618, title IV, § 403(a)(2)(B), (b), Nov. 9, 1978, 92 Stat. 3204; Pub. L. 96–603, § 3(a), Dec. 28, 1980, 94 Stat. 3511; Pub. L. 97–354, § 3(a), Oct. 19, 1982, 96 Stat. 1687; Pub. L. 97–448, title II, § 202(d), Jan. 12, 1983, 96 Stat. 2396; Pub. L. 98–369, div. A, title I, §§ 25(b), 71(b), July 18, 1984, 98 Stat. 506, 589; Pub. L. 99–514, title I, § 104(b)(9), title IV, § 412(a)(1), Oct. 22, 1986, 100 Stat. 2105, 2227; Pub. L. 101–508, title XI, §§ 11521(a), (b), 11522(b)(1), 11523(a), (b), 11815(a), Nov. 5, 1990, 104 Stat. 1388–485 to 1388–487, 1388–557; Pub. L. 104–188, title I, § 1702(e)(2), Aug. 20, 1996, 110 Stat. 1870; Pub. L. 105–34, title IX, § 972(a), Aug. 5, 1997, 111 Stat. 897; Pub. L. 106–170, title V, § 504(a), Dec. 17, 1999, 113 Stat. 1921; Pub. L. 107–147, title VI, § 607(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, § 314(a), Oct. 4, 2004, 118 Stat. 1181; Pub. L. 109–58, title XIII, §§ 1322(a)(3)(B), 1328(a), Aug. 8, 2005, 119 Stat. 1011, 1019; Pub. L. 109–135, title IV, § 403(a)(18), Dec. 21, 2005, 119 Stat. 2619; Pub. L. 109–432, div. A, title I, § 118(a), Dec. 20, 2006, 120 Stat. 2942; Pub. L. 110–343, div. B, title II, § 210, Oct. 3, 2008, 122 Stat. 3840; Pub. L. 111–312, title VII, § 706(a), Dec. 17, 2010, 124 Stat. 3311; Pub. L. 115–97, title I, §§ 11011(d)(4), 13305(b)(5), Dec. 22, 2017, 131 Stat. 2071, 2126; Pub. L. 115–141, div. U, title IV, § 401(a)(136), (b)(26), Mar. 23, 2018, 132 Stat. 1190, 1203.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 503 of the Natural Gas Policy Act of 1978, referred to in subsec. (b)(3)(C)(i), which was classified to section 3413 of Title 15, Commerce and Trade, was repealed by Pub. L. 101–60, § 3(b)(5), July 26, 1989, 103 Stat. 159, effective Jan. 1, 1993.
+Section 503 of the Natural Gas Policy Act of 1978, referred to in subsec. (b)(3)(C)(i), which was classified to section 3413 of Title 15, Commerce and Trade, was repealed by Pub. L. 101–60, § 3(b)(5), July 26, 1989, 103 Stat. 159, effective Jan. 1, 1993.
 
-The Subchapter S Revision Act of 1982, referred to in subsec. (c)(11)(B), is Pub. L. 97–354, Oct. 19, 1982, 96 Stat. 1669, which is classified principally to subchapter S (§ 1361 et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title of 1982 Amendments note set out under section 1 of this title and Tables.
+The Subchapter S Revision Act of 1982, referred to in subsec. (c)(11)(B), is Pub. L. 97–354, Oct. 19, 1982, 96 Stat. 1669, which is classified principally to subchapter S (§ 1361 et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title of 1982 Amendments note set out under section 1 of this title and Tables.
 
 **Amendments**
 
-2018—Subsec. (c)(6)(H). Pub. L. 115–141, § 401(b)(26), struck out subpar. (H) which related to temporary suspension of taxable income limit with respect to marginal production.
+2018—Subsec. (c)(6)(H). Pub. L. 115–141, § 401(b)(26), struck out subpar. (H) which related to temporary suspension of taxable income limit with respect to marginal production.
 
-Subsec. (c)(7)(B). Pub. L. 115–141, § 401(a)(136), substituted “taxpayer’s natural gas” for “taxpayers natural gas”.
+Subsec. (c)(7)(B). Pub. L. 115–141, § 401(a)(136), substituted “taxpayer’s natural gas” for “taxpayers natural gas”.
 
-2017—Subsec. (d)(1). Pub. L. 115–97, § 13305(b)(5), redesignated subpars. (C) to (F) as (B) to (E), respectively, and struck out former subpar. (B) which read as follows: “any deduction allowable under section 199,”.
+2017—Subsec. (d)(1). Pub. L. 115–97, § 13305(b)(5), redesignated subpars. (C) to (F) as (B) to (E), respectively, and struck out former subpar. (B) which read as follows: “any deduction allowable under section 199,”.
 
-Pub. L. 115–97, § 11011(d)(4), added subpar. (C) and redesignated former subpars. (C) to (E) as (D) to (F), respectively.
+Pub. L. 115–97, § 11011(d)(4), added subpar. (C) and redesignated former subpars. (C) to (E) as (D) to (F), respectively.
 
 2010—Subsec. (c)(6)(H)(ii). Pub. L. 111–312 substituted “January 1, 2012” for “January 1, 2010”.
 
@@ -651,11 +651,11 @@ Pub. L. 115–97, § 11011(d)(4), added subpar. (C) and redesignated former su
 
 2006—Subsec. (c)(6)(H). Pub. L. 109–432 substituted “2008” for “2006”.
 
-2005—Subsec. (c)(6)(C). Pub. L. 109–58, § 1322(a)(3)(B), substituted “section 45K(d)(2)(C)” for “section 29(d)(2)(C)” in concluding provisions.
+2005—Subsec. (c)(6)(C). Pub. L. 109–58, § 1322(a)(3)(B), substituted “section 45K(d)(2)(C)” for “section 29(d)(2)(C)” in concluding provisions.
 
 Subsec. (d)(1)(B) to (E). Pub. L. 109–135 added subpar. (B) and redesignated former subpars. (B) to (D) as (C) to (E), respectively.
 
-Subsec. (d)(4). Pub. L. 109–58, § 1328(a), reenacted heading without change and amended text of par. (4) generally. Prior to amendment, text read as follows: “If the taxpayer or a related person engages in the refining of crude oil, subsection (c) shall not apply to such taxpayer if on any day during the taxable year the refinery runs of the taxpayer and such person exceed 50,000 barrels.”
+Subsec. (d)(4). Pub. L. 109–58, § 1328(a), reenacted heading without change and amended text of par. (4) generally. Prior to amendment, text read as follows: “If the taxpayer or a related person engages in the refining of crude oil, subsection (c) shall not apply to such taxpayer if on any day during the taxable year the refinery runs of the taxpayer and such person exceed 50,000 barrels.”
 
 2004—Subsec. (c)(6)(H). Pub. L. 108–311 substituted “2006” for “2004”.
 
@@ -667,83 +667,83 @@ Subsec. (d)(4). Pub. L. 109–58, § 1328(a), reenacted heading without change
 
 1996—Subsec. (c)(3)(A)(i). Pub. L. 104–188 struck out “the table contained in” before “subparagraph (B)”.
 
-1990—Subsec. (c)(1). Pub. L. 101–508, § 11815(a)(1)(A), substituted “15 percent” for “the applicable percentage (determined in accordance with the table contained in paragraph (5))” in concluding provisions.
+1990—Subsec. (c)(1). Pub. L. 101–508, § 11815(a)(1)(A), substituted “15 percent” for “the applicable percentage (determined in accordance with the table contained in paragraph (5))” in concluding provisions.
 
-Subsec. (c)(3)(A). Pub. L. 101–508, § 11523(b)(2), struck out at end “Clause (ii) shall not apply after December 31, 1983.”
+Subsec. (c)(3)(A). Pub. L. 101–508, § 11523(b)(2), struck out at end “Clause (ii) shall not apply after December 31, 1983.”
 
-Subsec. (c)(3)(A)(ii). Pub. L. 101–508, § 11523(b)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “the taxpayer’s average daily secondary or tertiary production for the taxable year.”
+Subsec. (c)(3)(A)(ii). Pub. L. 101–508, § 11523(b)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “the taxpayer’s average daily secondary or tertiary production for the taxable year.”
 
-Subsec. (c)(3)(B). Pub. L. 101–508, § 11815(a)(1)(B), amended subpar. (B) generally, substituting present provisions for provisions which set out a phase-out table for determining tentative quantity in barrels.
+Subsec. (c)(3)(B). Pub. L. 101–508, § 11815(a)(1)(B), amended subpar. (B) generally, substituting present provisions for provisions which set out a phase-out table for determining tentative quantity in barrels.
 
-Subsec. (c)(5). Pub. L. 101–508, § 11815(a)(1)(C), struck out par. (5) which provided table of applicable percentages for purposes of par. (1).
+Subsec. (c)(5). Pub. L. 101–508, § 11815(a)(1)(C), struck out par. (5) which provided table of applicable percentages for purposes of par. (1).
 
-Subsec. (c)(6). Pub. L. 101–508, § 11523(a), amended par. (6) generally, providing for an increase in percentage depletion allowance for marginal production, and substituting provisions relating to oil and gas produced from marginal properties for former provisions which related to oil and gas resulting from secondary or tertiary processes.
+Subsec. (c)(6). Pub. L. 101–508, § 11523(a), amended par. (6) generally, providing for an increase in percentage depletion allowance for marginal production, and substituting provisions relating to oil and gas produced from marginal properties for former provisions which related to oil and gas resulting from secondary or tertiary processes.
 
-Subsec. (c)(7)(A), (B). Pub. L. 101–508, § 11815(a)(2)(A), substituted “specified in paragraph (1)” for “specified in paragraph (5)”.
+Subsec. (c)(7)(A), (B). Pub. L. 101–508, § 11815(a)(2)(A), substituted “specified in paragraph (1)” for “specified in paragraph (5)”.
 
-Subsec. (c)(7)(C). Pub. L. 101–508, § 11522(b)(1), substituted “taxable income” for “50-percent” before “limitation”.
+Subsec. (c)(7)(C). Pub. L. 101–508, § 11522(b)(1), substituted “taxable income” for “50-percent” before “limitation”.
 
-Subsec. (c)(7)(E). Pub. L. 101–508, § 11815(a)(1)(C), struck out subpar. (E) which provided special rules relating to production from secondary or tertiary recovery processes.
+Subsec. (c)(7)(E). Pub. L. 101–508, § 11815(a)(1)(C), struck out subpar. (E) which provided special rules relating to production from secondary or tertiary recovery processes.
 
-Subsec. (c)(8)(B), (C). Pub. L. 101–508, § 11815(a)(2)(B), which directed amendment of subpars. (B) and (C) by substituting “determined under paragraph (3)(B)” for “determined under the table contained in paragraph (3)(B)”, was executed by making the substitution for “determined under the table in paragraph (3)(B)” as the probable intent of Congress.
+Subsec. (c)(8)(B), (C). Pub. L. 101–508, § 11815(a)(2)(B), which directed amendment of subpars. (B) and (C) by substituting “determined under paragraph (3)(B)” for “determined under the table contained in paragraph (3)(B)”, was executed by making the substitution for “determined under the table in paragraph (3)(B)” as the probable intent of Congress.
 
-Subsec. (c)(9). Pub. L. 101–508, § 11815(a)(2)(B), which directed amendment of par. (9) by substituting “determined under paragraph (3)(B)” for “determined under the table contained in paragraph (3)(B)”, could not be executed because that phrase did not appear after execution of amendment by Pub. L. 101–508, § 11521(a). See below.
+Subsec. (c)(9). Pub. L. 101–508, § 11815(a)(2)(B), which directed amendment of par. (9) by substituting “determined under paragraph (3)(B)” for “determined under the table contained in paragraph (3)(B)”, could not be executed because that phrase did not appear after execution of amendment by Pub. L. 101–508, § 11521(a). See below.
 
-Pub. L. 101–508, § 11521(a), redesignated par. (11) as (9) and struck out former par. (9) which related to transfer of oil or gas property.
+Pub. L. 101–508, § 11521(a), redesignated par. (11) as (9) and struck out former par. (9) which related to transfer of oil or gas property.
 
-Subsec. (c)(10). Pub. L. 101–508, § 11521(a), redesignated par. (12) as (10) and struck out former par. (10) which related to transfers by individuals to corporations.
+Subsec. (c)(10). Pub. L. 101–508, § 11521(a), redesignated par. (12) as (10) and struck out former par. (10) which related to transfers by individuals to corporations.
 
-Subsec. (c)(11). Pub. L. 101–508, § 11521(a), redesignated par. (13) as (11). Former par. (11) redesignated (9).
+Subsec. (c)(11). Pub. L. 101–508, § 11521(a), redesignated par. (13) as (11). Former par. (11) redesignated (9).
 
-Subsec. (c)(11)(C), (D). Pub. L. 101–508, § 11521(b), struck out subpars. (C) and (D) which related to coordination with the transfer rules of former pars. (9) and (10).
+Subsec. (c)(11)(C), (D). Pub. L. 101–508, § 11521(b), struck out subpars. (C) and (D) which related to coordination with the transfer rules of former pars. (9) and (10).
 
-Subsec. (c)(12), (13). Pub. L. 101–508, § 11521(a), redesignated pars. (12) and (13) as (10) and (11), respectively.
+Subsec. (c)(12), (13). Pub. L. 101–508, § 11521(a), redesignated pars. (12) and (13) as (10) and (11), respectively.
 
-1986—Subsec. (d)(1). Pub. L. 99–514, § 104(b)(9), struck out “(reduced in the case of an individual by the zero bracket amount)” after “taxable income” in introductory provisions.
+1986—Subsec. (d)(1). Pub. L. 99–514, § 104(b)(9), struck out “(reduced in the case of an individual by the zero bracket amount)” after “taxable income” in introductory provisions.
 
-Subsec. (d)(5). Pub. L. 99–514, § 412(a)(1), added par. (5).
+Subsec. (d)(5). Pub. L. 99–514, § 412(a)(1), added par. (5).
 
-1984—Subsec. (c)(2). Pub. L. 98–369, § 25(b)(1), struck out last sentence providing that in applying this paragraph, there shall not be taken into account any production of crude oil or natural gas resulting from secondary or tertiary processes (as defined in regulations prescribed by the Secretary).
+1984—Subsec. (c)(2). Pub. L. 98–369, § 25(b)(1), struck out last sentence providing that in applying this paragraph, there shall not be taken into account any production of crude oil or natural gas resulting from secondary or tertiary processes (as defined in regulations prescribed by the Secretary).
 
-Subsec. (c)(3)(A). Pub. L. 98–369, § 25(b)(2), inserted at end “Clause (ii) shall not apply after December 31, 1983.”
+Subsec. (c)(3)(A). Pub. L. 98–369, § 25(b)(2), inserted at end “Clause (ii) shall not apply after December 31, 1983.”
 
-Subsec. (c)(7)(D). Pub. L. 98–369, § 71(b), substituted “property contributed to the partnership by a partner, section 704(c) (relating to contributed property) shall apply in determining such share” for “an agreement described in section 704(c)(2) (relating to effect of partnership agreement on contributed property), such share shall be determined by taking such agreement into account” in fourth sentence.
+Subsec. (c)(7)(D). Pub. L. 98–369, § 71(b), substituted “property contributed to the partnership by a partner, section 704(c) (relating to contributed property) shall apply in determining such share” for “an agreement described in section 704(c)(2) (relating to effect of partnership agreement on contributed property), such share shall be determined by taking such agreement into account” in fourth sentence.
 
-Subsec. (c)(7)(E). Pub. L. 98–369, § 25(b)(3), inserted at end “This subparagraph shall not apply after December 31, 1983.”
+Subsec. (c)(7)(E). Pub. L. 98–369, § 25(b)(3), inserted at end “This subparagraph shall not apply after December 31, 1983.”
 
-Subsec. (c)(9)(A). Pub. L. 98–369, § 25(b)(4), substituted “this subsection” for “paragraph (1)”.
+Subsec. (c)(9)(A). Pub. L. 98–369, § 25(b)(4), substituted “this subsection” for “paragraph (1)”.
 
-1983—Subsec. (c)(10)(E). Pub. L. 97–448, § 202(d)(1), inserted provision that “oil and gas property” includes, in the case of any property, necessary production equipment for such property which is in place when the property is transferred.
+1983—Subsec. (c)(10)(E). Pub. L. 97–448, § 202(d)(1), inserted provision that “oil and gas property” includes, in the case of any property, necessary production equipment for such property which is in place when the property is transferred.
 
-Subsec. (d)(2). Pub. L. 97–448, § 202(d)(2), inserted “(excluding bulk sales of aviation fuels to the Department of Defense)” after “any product derived from oil or natural gas”.
+Subsec. (d)(2). Pub. L. 97–448, § 202(d)(2), inserted “(excluding bulk sales of aviation fuels to the Department of Defense)” after “any product derived from oil or natural gas”.
 
 1982—Subsec. (c)(13). Pub. L. 97–354 added par. (13).
 
 1980—Subsec. (c)(10) to (12). Pub. L. 96–603 added par. (10) and redesignated former pars. (10) and (11) as (11) and (12), respectively.
 
-1978—Subsec. (b)(1)(C). Pub. L. 95–618, § 403(a)(2)(B), struck out subpar. (C) which related to a computation in accordance with section 613 with respect to any geothermal deposit in the United States or in a possession of the United States which is determined to be a gas well.
+1978—Subsec. (b)(1)(C). Pub. L. 95–618, § 403(a)(2)(B), struck out subpar. (C) which related to a computation in accordance with section 613 with respect to any geothermal deposit in the United States or in a possession of the United States which is determined to be a gas well.
 
-Subsec. (b)(2), (3). Pub. L. 95–618, § 403(b)(1), (2), added par. (2), redesignated former par. (2) as (3) and, as so redesignated, added subpar. (C).
+Subsec. (b)(2), (3). Pub. L. 95–618, § 403(b)(1), (2), added par. (2), redesignated former par. (2) as (3) and, as so redesignated, added subpar. (C).
 
 1977—Subsec. (d)(1). Pub. L. 95–30 inserted “(reduced in the case of an individual by the zero bracket amount)” after “the taxpayer’s taxable income” in introductory provisions.
 
-1976—Subsec. (b)(1)(C). Pub. L. 94–455, § 1901(a)(86)(A), struck out “within the meaning of section 613(b)(1)(A)” after “determined to be a gas well”.
+1976—Subsec. (b)(1)(C). Pub. L. 94–455, § 1901(a)(86)(A), struck out “within the meaning of section 613(b)(1)(A)” after “determined to be a gas well”.
 
-Subsec. (c)(2), (4). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (c)(2), (4). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (c)(6)(A)(i). Pub. L. 94–455, § 1901(a)(86)(B), substituted “determined without” for “determined with”.
+Subsec. (c)(6)(A)(i). Pub. L. 94–455, § 1901(a)(86)(B), substituted “determined without” for “determined with”.
 
-Subsec. (c)(7)(D). Pub. L. 94–455, § 2115(c)(1), inserted provision relating to the method to be employed by the partners in computing the depletion allowance.
+Subsec. (c)(7)(D). Pub. L. 94–455, § 2115(c)(1), inserted provision relating to the method to be employed by the partners in computing the depletion allowance.
 
-Subsec. (c)(7)(E). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (c)(7)(E). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (c)(9)(B). Pub. L. 94–455, § 2115(b)(1), (e), added cls. (iii) to (vi) and provision following cl. (vi).
+Subsec. (c)(9)(B). Pub. L. 94–455, § 2115(b)(1), (e), added cls. (iii) to (vi) and provision following cl. (vi).
 
-Subsec. (d)(1). Pub. L. 94–455, § 2115(b)(2), substituted in subpar. (A) reference to any depletion on production from an oil or gas property which is subject to the provisions of subsection (c) for reference to depletion with respect to production of oil and gas subject to the provisions of subsection (c), and added subpar. (D).
+Subsec. (d)(1). Pub. L. 94–455, § 2115(b)(2), substituted in subpar. (A) reference to any depletion on production from an oil or gas property which is subject to the provisions of subsection (c) for reference to depletion with respect to production of oil and gas subject to the provisions of subsection (c), and added subpar. (D).
 
-Subsec. (d)(2). Pub. L. 94–455, § 2115(a), inserted “(excluding bulk sales of such items to commercial or industrial users)” before “, or any product derived” and inserted provisions following subpar. (B) relating to the application of this paragraph where combined gross receipts from the sale of oil, natural gas, or any product derived therefrom, for the taxable year of all retail outlets taken into account do not exceed $5,000,000 and relating to the exclusion of sales made outside the United States.
+Subsec. (d)(2). Pub. L. 94–455, § 2115(a), inserted “(excluding bulk sales of such items to commercial or industrial users)” before “, or any product derived” and inserted provisions following subpar. (B) relating to the application of this paragraph where combined gross receipts from the sale of oil, natural gas, or any product derived therefrom, for the taxable year of all retail outlets taken into account do not exceed $5,000,000 and relating to the exclusion of sales made outside the United States.
 
-Subsec. (d)(3). Pub. L. 94–455, § 2115(d), inserted provision following subpar. (C) relating to the determination of a significant ownership interest of a corporation, partnership, trust, or estate.
+Subsec. (d)(3). Pub. L. 94–455, § 2115(d), inserted provision following subpar. (C) relating to the determination of a significant ownership interest of a corporation, partnership, trust, or estate.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -755,11 +755,11 @@ Amendment by section 13305(b)(5) of Pub. L. 115–97 applicable to taxable years
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–312, title VII, § 706(b), Dec. 17, 2010, 124 Stat. 3312, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2009.”
+Pub. L. 111–312, title VII, § 706(b), Dec. 17, 2010, 124 Stat. 3312, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2009.”
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–432, div. A, title I, § 118(b), Dec. 20, 2006, 120 Stat. 2942, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 2005.”
+Pub. L. 109–432, div. A, title I, § 118(b), Dec. 20, 2006, 120 Stat. 2942, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 2005.”
 
 **Effective Date of 2005 Amendments**
 
@@ -767,23 +767,23 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 Amendment by section 1322(a)(3)(B) of Pub. L. 109–58 applicable to credits determined under the Internal Revenue Code of 1986 for taxable years ending after Dec. 31, 2005, see section 1322(c)(1) of Pub. L. 109–58, set out as a note under section 45K of this title.
 
-Pub. L. 109–58, title XIII, § 1328(b), Aug. 8, 2005, 119 Stat. 1020, provided that: “The amendment made by this section [amending this section] shall apply to taxable years ending after the date of the enactment of this Act [Aug. 8, 2005].”
+Pub. L. 109–58, title XIII, § 1328(b), Aug. 8, 2005, 119 Stat. 1020, provided that: “The amendment made by this section [amending this section] shall apply to taxable years ending after the date of the enactment of this Act [Aug. 8, 2005].”
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–311, title III, § 314(b), Oct. 4, 2004, 118 Stat. 1181, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 2003.”
+Pub. L. 108–311, title III, § 314(b), Oct. 4, 2004, 118 Stat. 1181, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 2003.”
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–147, title VI, § 607(b), Mar. 9, 2002, 116 Stat. 60, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 2001.”
+Pub. L. 107–147, title VI, § 607(b), Mar. 9, 2002, 116 Stat. 60, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 2001.”
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–170, title V, § 504(b), Dec. 17, 1999, 113 Stat. 1921, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 1999.”
+Pub. L. 106–170, title V, § 504(b), Dec. 17, 1999, 113 Stat. 1921, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 1999.”
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title IX, § 972(b), Aug. 5, 1997, 111 Stat. 898, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title IX, § 972(b), Aug. 5, 1997, 111 Stat. 898, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1997.”
 
 **Effective Date of 1996 Amendment**
 
@@ -791,11 +791,11 @@ Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title XI, § 11521(c), Nov. 5, 1990, 104 Stat. 1388–486, provided that: “The amendments made by this section [amending this section] shall apply to transfers after October 11, 1990.”
+Pub. L. 101–508, title XI, § 11521(c), Nov. 5, 1990, 104 Stat. 1388–486, provided that: “The amendments made by this section [amending this section] shall apply to transfers after October 11, 1990.”
 
 Amendment by section 11522(b)(1) of Pub. L. 101–508 applicable to taxable years beginning after Dec. 31, 1990, see section 11522(c) of Pub. L. 101–508, set out as a note under section 613 of this title.
 
-Pub. L. 101–508, title XI, § 11523(c), Nov. 5, 1990, 104 Stat. 1388–487, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 1990.”
+Pub. L. 101–508, title XI, § 11523(c), Nov. 5, 1990, 104 Stat. 1388–487, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 1990.”
 
 **Effective Date of 1986 Amendment**
 
@@ -805,7 +805,7 @@ Amendment by section 412(a)(1) of Pub. L. 99–514 applicable to amounts receive
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title I, § 25(c)(2), July 18, 1984, 98 Stat. 507, provided that: “The amendments made by subsection (b) [amending this section] shall take effect on January 1, 1984.”
+Pub. L. 98–369, div. A, title I, § 25(c)(2), July 18, 1984, 98 Stat. 507, provided that: “The amendments made by subsection (b) [amending this section] shall take effect on January 1, 1984.”
 
 Amendment by section 71(b) of Pub. L. 98–369 applicable with respect to property contributed to the partnership after Mar. 31, 1984, in taxable years ending after such date, see section 71(c) of Pub. L. 98–369, set out as a note under section 704 of this title.
 
@@ -819,7 +819,7 @@ Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 3
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–603, § 3(b), Dec. 28, 1980, 94 Stat. 3513, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (a) [amending this section] shall apply to transfers in taxable years ending after December 31, 1974, but only for purposes of applying section 613A of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] to periods after December 31, 1979.”
+Pub. L. 96–603, § 3(b), Dec. 28, 1980, 94 Stat. 3513, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (a) [amending this section] shall apply to transfers in taxable years ending after December 31, 1974, but only for purposes of applying section 613A of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] to periods after December 31, 1979.”
 
 **Effective Date of 1978 Amendment**
 
@@ -833,11 +833,11 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 Amendment by section 1901(a)(86) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-Pub. L. 94–455, title XXI, § 2115(f), Oct. 4, 1976, 90 Stat. 1910, provided that: “The amendments made by this section [amending this section and sections 703 and 705 of this title] shall take effect on January 1, 1975, and shall apply to taxable years ending after December 31, 1974.”
+Pub. L. 94–455, title XXI, § 2115(f), Oct. 4, 1976, 90 Stat. 1910, provided that: “The amendments made by this section [amending this section and sections 703 and 705 of this title] shall take effect on January 1, 1975, and shall apply to taxable years ending after December 31, 1974.”
 
 **Effective Date**
 
-Pub. L. 94–12, title V, § 501(c), Mar. 29, 1975, 89 Stat. 53, provided that: “The amendments made by this section [enacting this section and amending sections 613 and 703 of this title] shall take effect on January 1, 1975, and shall apply to taxable years ending after December 31, 1974.”
+Pub. L. 94–12, title V, § 501(c), Mar. 29, 1975, 89 Stat. 53, provided that: “The amendments made by this section [enacting this section and amending sections 613 and 703 of this title] shall take effect on January 1, 1975, and shall apply to taxable years ending after December 31, 1974.”
 
 **Savings Provision**
 
@@ -851,9 +851,9 @@ The Federal Power Commission was terminated, and its functions, personnel, prope
 
 **Coordination With Other Provision**
 
-Pub. L. 95–618, title IV, § 403(d), Nov. 9, 1978, 92 Stat. 3204, provided that: “Any allowance for depletion allowed by reason of the amendments made by subsection (b) [amending this section] shall not be treated as a credit, exemption, deduction, or comparable adjustment applicable to the computation of any Federal tax which is specifically allowable with respect to any high-cost natural gas (or category thereof) for purposes of section 107(d) of the Natural Gas Policy Act of 1978 [section 3317(d) of Title 15, Commerce and Trade].”
+Pub. L. 95–618, title IV, § 403(d), Nov. 9, 1978, 92 Stat. 3204, provided that: “Any allowance for depletion allowed by reason of the amendments made by subsection (b) [amending this section] shall not be treated as a credit, exemption, deduction, or comparable adjustment applicable to the computation of any Federal tax which is specifically allowable with respect to any high-cost natural gas (or category thereof) for purposes of section 107(d) of the Natural Gas Policy Act of 1978 [section 3317(d) of Title 15, Commerce and Trade].”
 
-### § 614. Definition of property
+### § 614. Definition of property
 
 **(a) General rule**
 
@@ -933,43 +933,43 @@ If a taxpayer owns two or more separate nonoperating mineral interests in a sing
 
 For purposes of this subsection, the term “nonoperating mineral interests” includes only interests which are not operating mineral interests.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 210; Pub. L. 85–866, title I, § 37(a)–(d), Sept. 2, 1958, 72 Stat. 1633–1637; Pub. L. 88–272, title II, § 226(a), (b), Feb. 26, 1964, 78 Stat. 94, 96; Pub. L. 94–455, title XIX, §§ 1901(a)(87)(A)(i), (B), (C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1779, 1834; Pub. L. 95–618, title IV, § 403(a)(2)(C), (D), Nov. 9, 1978, 92 Stat. 3204; Pub. L. 101–508, title XI, § 11522(b)(2), Nov. 5, 1990, 104 Stat. 1388–486; Pub. L. 113–295, div. A, title II, § 221(a)(65), Dec. 19, 2014, 128 Stat. 4048.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 210; Pub. L. 85–866, title I, § 37(a)–(d), Sept. 2, 1958, 72 Stat. 1633–1637; Pub. L. 88–272, title II, § 226(a), (b), Feb. 26, 1964, 78 Stat. 94, 96; Pub. L. 94–455, title XIX, §§ 1901(a)(87)(A)(i), (B), (C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1779, 1834; Pub. L. 95–618, title IV, § 403(a)(2)(C), (D), Nov. 9, 1978, 92 Stat. 3204; Pub. L. 101–508, title XI, § 11522(b)(2), Nov. 5, 1990, 104 Stat. 1388–486; Pub. L. 113–295, div. A, title II, § 221(a)(65), Dec. 19, 2014, 128 Stat. 4048.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2014—Subsec. (b)(3)(C). Pub. L. 113–295, § 221(a)(65)(A), struck out subpar. (C) which related to a special rule for voluntary or compulsory unitization or pooling arrangements entered into in taxable years beginning before Jan. 1, 1964.
+2014—Subsec. (b)(3)(C). Pub. L. 113–295, § 221(a)(65)(A), struck out subpar. (C) which related to a special rule for voluntary or compulsory unitization or pooling arrangements entered into in taxable years beginning before Jan. 1, 1964.
 
-Subsec. (b)(4)(A). Pub. L. 113–295, § 221(a)(65)(B), which directed amendment of par. (4) by striking out “whichever of the following years is later: The first taxable year beginning after December 31, 1963, or”, was executed by striking out “whichever of the following taxable years is the later: The first taxable year beginning after December 31, 1963, or” before “the first taxable year” in subpar. (A), to reflect the probable intent of Congress.
+Subsec. (b)(4)(A). Pub. L. 113–295, § 221(a)(65)(B), which directed amendment of par. (4) by striking out “whichever of the following years is later: The first taxable year beginning after December 31, 1963, or”, was executed by striking out “whichever of the following taxable years is the later: The first taxable year beginning after December 31, 1963, or” before “the first taxable year” in subpar. (A), to reflect the probable intent of Congress.
 
-Subsec. (b)(5). Pub. L. 113–295, § 221(a)(65)(A), struck out par. (5). Text read as follows: “If, on the day preceding the first day of the first taxable year beginning after December 31, 1963, the taxpayer has any operating mineral interests which he treats under subsection (d) of this section (as in effect before the amendments made by the Revenue Act of 1964), such treatment shall be continued and shall be deemed to have been adopted pursuant to paragraphs (1) and (2) of this subsection (as amended by such Act).”
+Subsec. (b)(5). Pub. L. 113–295, § 221(a)(65)(A), struck out par. (5). Text read as follows: “If, on the day preceding the first day of the first taxable year beginning after December 31, 1963, the taxpayer has any operating mineral interests which he treats under subsection (d) of this section (as in effect before the amendments made by the Revenue Act of 1964), such treatment shall be continued and shall be deemed to have been adopted pursuant to paragraphs (1) and (2) of this subsection (as amended by such Act).”
 
 1990—Subsec. (d). Pub. L. 101–508 substituted “taxable income” for “50 percent”.
 
-1978—Subsec. (b). Pub. L. 95–618, § 403(a)(2)(C), inserted “or geothermal deposits” after “gas wells” in heading and introductory provisions.
+1978—Subsec. (b). Pub. L. 95–618, § 403(a)(2)(C), inserted “or geothermal deposits” after “gas wells” in heading and introductory provisions.
 
-Subsec. (c). Pub. L. 95–618, § 403(a)(2)(D), substituted “oil and gas wells and geothermal deposits” for “oil and gas wells” wherever appearing.
+Subsec. (c). Pub. L. 95–618, § 403(a)(2)(D), substituted “oil and gas wells and geothermal deposits” for “oil and gas wells” wherever appearing.
 
-1976—Subsecs. (b)(3)(A), (4)(A), (e). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsecs. (b)(3)(A), (4)(A), (e). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (c)(2). Pub. L. 94–455, §§ 1901(a)(87)(B), 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing and “, but the provisions of paragraph (4) shall not apply with respect to such separate property” after “in accordance with paragraphs (1) and (3)”.
+Subsec. (c)(2). Pub. L. 94–455, §§ 1901(a)(87)(B), 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing and “, but the provisions of paragraph (4) shall not apply with respect to such separate property” after “in accordance with paragraphs (1) and (3)”.
 
-Subsec. (c)(3). Pub. L. 94–455, § 1901(a)(87)(C), among other changes, struck out references to the first taxable year beginning after Dec. 31, 1957, and provisions relating to elections for taxable years beginning before Jan. 1, 1958, relating to election after final regulations, and relating to statute of limitations.
+Subsec. (c)(3). Pub. L. 94–455, § 1901(a)(87)(C), among other changes, struck out references to the first taxable year beginning after Dec. 31, 1957, and provisions relating to elections for taxable years beginning before Jan. 1, 1958, relating to election after final regulations, and relating to statute of limitations.
 
-Subsec. (c)(4). Pub. L. 94–455, § 1901(a)(87)(A)(i), struck out par. (4) which related to a special rule as to deductions under section 615(a) of this title prior to aggregation.
+Subsec. (c)(4). Pub. L. 94–455, § 1901(a)(87)(A)(i), struck out par. (4) which related to a special rule as to deductions under section 615(a) of this title prior to aggregation.
 
-1964—Subsec. (b). Pub. L. 88–272, § 226(a), amended subsec. (b) generally, and among other changes, substituted provisions stating that except as otherwise provided, all of the taxpayer’s operating mineral interests in a separate tract or parcel of land will be combined and treated as one property, that the taxpayer may not combine any operating mineral interest in one tract or parcel of land with an operating mineral interest in another tract or parcel of land, that if he has more than one operating mineral interest in a single tract of land he may elect to treat one or more of such interests as separate properties, limited, however, to one combination of interests in a single tract of land, and providing, in the event the election in par. (2) is made with respect to any tract of land, for the treatment of interests discovered or acquired by the taxpayer in such a tract after the taxable year for which the election is made, for provisions which permitted a taxpayer who owned two or more separate operating mineral interests which constituted all or a part of an operating unit, to elect to form one aggregation and treat as one property any two or more of these interests, treating as separate properties any interests which he did not include in the one aggregation, to aggregate separate interests whether or not in a single tract of land, or contiguous tracts of land, and which forbade him to form more than one aggregation within a single operating unit, inserted provisions in par. (3) relating to unitization or pooling arrangements, and in par (5), providing that if the taxpayer has operating mineral interests on the day preceding the first day of the first taxable year beginning after Dec. 31, 1963, which he treats under subsec. (d) of this section as in effect before amendment by Pub. L. 88–272, he shall continue such treatment and it shall be deemed adopted pursuant to pars. (1) and (2) of this subsection, and struck out provisions defining “operating mineral interests”, and providing for termination of election with respect to mines, excepting oil and gas wells. For definition of “operating mineral interests”, see subsec. (d) of this section.
+1964—Subsec. (b). Pub. L. 88–272, § 226(a), amended subsec. (b) generally, and among other changes, substituted provisions stating that except as otherwise provided, all of the taxpayer’s operating mineral interests in a separate tract or parcel of land will be combined and treated as one property, that the taxpayer may not combine any operating mineral interest in one tract or parcel of land with an operating mineral interest in another tract or parcel of land, that if he has more than one operating mineral interest in a single tract of land he may elect to treat one or more of such interests as separate properties, limited, however, to one combination of interests in a single tract of land, and providing, in the event the election in par. (2) is made with respect to any tract of land, for the treatment of interests discovered or acquired by the taxpayer in such a tract after the taxable year for which the election is made, for provisions which permitted a taxpayer who owned two or more separate operating mineral interests which constituted all or a part of an operating unit, to elect to form one aggregation and treat as one property any two or more of these interests, treating as separate properties any interests which he did not include in the one aggregation, to aggregate separate interests whether or not in a single tract of land, or contiguous tracts of land, and which forbade him to form more than one aggregation within a single operating unit, inserted provisions in par. (3) relating to unitization or pooling arrangements, and in par (5), providing that if the taxpayer has operating mineral interests on the day preceding the first day of the first taxable year beginning after Dec. 31, 1963, which he treats under subsec. (d) of this section as in effect before amendment by Pub. L. 88–272, he shall continue such treatment and it shall be deemed adopted pursuant to pars. (1) and (2) of this subsection, and struck out provisions defining “operating mineral interests”, and providing for termination of election with respect to mines, excepting oil and gas wells. For definition of “operating mineral interests”, see subsec. (d) of this section.
 
-Subsec. (c). Pub. L. 88–272, § 226(b)(1), (2), struck out par. (5) which defined operating mineral interests, and “1958” before “Special rules” in heading.
+Subsec. (c). Pub. L. 88–272, § 226(b)(1), (2), struck out par. (5) which defined operating mineral interests, and “1958” before “Special rules” in heading.
 
-Subsec. (d). Pub. L. 88–272, § 226(b)(3), amended subsec. (d) generally, substituting the definition of operating mineral interests, for provisions relating to the 1939 Code treatment respecting operating mineral interest in case of oil and gas wells.
+Subsec. (d). Pub. L. 88–272, § 226(b)(3), amended subsec. (d) generally, substituting the definition of operating mineral interests, for provisions relating to the 1939 Code treatment respecting operating mineral interest in case of oil and gas wells.
 
-Subsec. (e)(2). Pub. L. 88–272, § 226(b)(4), struck out “within the meaning of subsection (b)(3)” at end.
+Subsec. (e)(2). Pub. L. 88–272, § 226(b)(4), struck out “within the meaning of subsection (b)(3)” at end.
 
-1958—Subsec. (b)(4). Pub. L. 85–866, § 37(a), added par. (4).
+1958—Subsec. (b)(4). Pub. L. 85–866, § 37(a), added par. (4).
 
-Subsecs. (c) to (e). Pub. L. 85–866, § 37(b)–(d), added subsecs. (c) and (d), redesignated former subsec. (c) as (e), and substituted in first sentence of par. (1) “or in two or more adjacent tracts” for “or in two or more contiguous tracts” and “shall, on showing by the taxpayer that a principal purpose is not the avoidance of tax, permit the taxpayer to treat (for all purposes of this subtitle) all such mineral interests in each separate kind of mineral deposit as one property” for “may, on showing of undue hardship, permit the taxpayer to treat (for all purposes of this subtitle) all such mineral interests as one property”.
+Subsecs. (c) to (e). Pub. L. 85–866, § 37(b)–(d), added subsecs. (c) and (d), redesignated former subsec. (c) as (e), and substituted in first sentence of par. (1) “or in two or more adjacent tracts” for “or in two or more contiguous tracts” and “shall, on showing by the taxpayer that a principal purpose is not the avoidance of tax, permit the taxpayer to treat (for all purposes of this subtitle) all such mineral interests in each separate kind of mineral deposit as one property” for “may, on showing of undue hardship, permit the taxpayer to treat (for all purposes of this subtitle) all such mineral interests as one property”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -987,19 +987,19 @@ Amendment by Pub. L. 95–618 effective Oct. 1, 1978, and applicable to taxable 
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–455, title XIX, § 1901(a)(87)(A)(ii), Oct. 4, 1976, 90 Stat. 1779, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by clause (i) [amending this section] shall apply with respect to elections to form aggregations of operating mineral interests made under section 614(c)(1) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] for taxable years beginning after December 31, 1976.”
+Pub. L. 94–455, title XIX, § 1901(a)(87)(A)(ii), Oct. 4, 1976, 90 Stat. 1779, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by clause (i) [amending this section] shall apply with respect to elections to form aggregations of operating mineral interests made under section 614(c)(1) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] for taxable years beginning after December 31, 1976.”
 
 **Effective Date of 1964 Amendment**
 
-Pub. L. 88–272, title II, § 226(d), Feb. 26, 1964, 78 Stat. 97, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply to taxable years beginning after December 31, 1963.”
+Pub. L. 88–272, title II, § 226(d), Feb. 26, 1964, 78 Stat. 97, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply to taxable years beginning after December 31, 1963.”
 
 **Effective Date of 1958 Amendment**
 
-Pub. L. 85–866, title I, § 37(e), Sept. 2, 1958, 72 Stat. 1638, provided that: “The amendments made by subsections (a) and (c) [amending this section] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954. The amendments made by subsection (b) [amending this section] shall apply with respect to taxable years beginning after December 31, 1957, except that such amendments shall, at the election of the taxpayer made in conformity with such amendments, apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954. The amendment made by subsection (d) [amending this section] shall apply with respect to taxable years beginning after December 31, 1957, except that with respect to any taxpayer such amendment shall, at the election of the taxpayer, apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
+Pub. L. 85–866, title I, § 37(e), Sept. 2, 1958, 72 Stat. 1638, provided that: “The amendments made by subsections (a) and (c) [amending this section] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954. The amendments made by subsection (b) [amending this section] shall apply with respect to taxable years beginning after December 31, 1957, except that such amendments shall, at the election of the taxpayer made in conformity with such amendments, apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954. The amendment made by subsection (d) [amending this section] shall apply with respect to taxable years beginning after December 31, 1957, except that with respect to any taxpayer such amendment shall, at the election of the taxpayer, apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
 
 **Allocation of Basis in Certain Cases**
 
-Pub. L. 88–272, title II, § 226(c), Feb. 26, 1964, 78 Stat. 96, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 88–272, title II, § 226(c), Feb. 26, 1964, 78 Stat. 96, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > “For purposes of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]—
 
@@ -1019,9 +1019,9 @@ Pub. L. 88–272, title II, § 226(c), Feb. 26, 1964, 78 Stat. 96, as amended 
 
 > **“(B) Property.—** The term ‘property’ has the same meaning as is applicable, under section 614 of the Internal Revenue Code of 1986, to the taxpayer for the first taxable year beginning after December 31, 1963.”
 
-### [§ 615. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(88), Oct. 4, 1976, 90 Stat. 1779]
+### [§ 615. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(88), Oct. 4, 1976, 90 Stat. 1779]
 
-Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 211; July 6, 1960, Pub. L. 86–594, § 1, 74 Stat. 333; Sept. 12, 1966, Pub. L. 89–570, § 2(a), 80 Stat. 763; Dec. 30, 1969, Pub. L. 91–172, title V, § 504(a), 83 Stat. 632, related to pre-1970 exploration expenditures.
+Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 211; July 6, 1960, Pub. L. 86–594, § 1, 74 Stat. 333; Sept. 12, 1966, Pub. L. 89–570, § 2(a), 80 Stat. 763; Dec. 30, 1969, Pub. L. 91–172, title V, § 504(a), 83 Stat. 632, related to pre-1970 exploration expenditures.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1029,7 +1029,7 @@ Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 211; July 6, 1960, Pub. L. 86–
 
 Repeal effective with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 2 of this title.
 
-### § 616. Development expenditures
+### § 616. Development expenditures
 
 **(a) In general**
 
@@ -1057,7 +1057,7 @@ The amount of expenditures which are treated under subsection (b) as deferred ex
 
 For election of 10-year amortization of expenditures allowable as a deduction under subsection (a), see section 59(e).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 212; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title II, § 201(d)(9)(C), formerly § 201(c)(9)(C), Sept. 3, 1982, 96 Stat. 420, renumbered § 201(d)(9)(C), Pub. L. 97–448, title III, § 306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title IV, § 411(b)(2)(A), (C)(i), Oct. 22, 1986, 100 Stat. 2226; Pub. L. 100–647, title I, § 1007(g)(7), Nov. 10, 1988, 102 Stat. 3435.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 212; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title II, § 201(d)(9)(C), formerly § 201(c)(9)(C), Sept. 3, 1982, 96 Stat. 420, renumbered § 201(d)(9)(C), Pub. L. 97–448, title III, § 306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title IV, § 411(b)(2)(A), (C)(i), Oct. 22, 1986, 100 Stat. 2226; Pub. L. 100–647, title I, § 1007(g)(7), Nov. 10, 1988, 102 Stat. 3435.)
 
 **Editorial Notes**
 
@@ -1065,9 +1065,9 @@ For election of 10-year amortization of expenditures allowable as a deduction un
 
 1988—Subsec. (e). Pub. L. 100–647 substituted “section 59(e)” for “section 58(i)”.
 
-1986—Subsec. (a). Pub. L. 99–514, § 411(b)(2)(C)(i), inserted reference to subsec. (d).
+1986—Subsec. (a). Pub. L. 99–514, § 411(b)(2)(C)(i), inserted reference to subsec. (d).
 
-Subsecs. (d), (e). Pub. L. 99–514, § 411(b)(2)(A), added subsec. (d) and redesignated former subsec. (d) as (e).
+Subsecs. (d), (e). Pub. L. 99–514, § 411(b)(2)(A), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1982—Subsec. (d). Pub. L. 97–248 added subsec. (d).
 
@@ -1087,7 +1087,7 @@ Amendment by Pub. L. 99–514 applicable to costs paid or incurred after Dec. 31
 
 Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, see section 201(e)(1) of Pub. L. 97–248, set out as a note under section 5 of this title.
 
-### § 617. Deduction and recapture of certain mining exploration expenditures
+### § 617. Deduction and recapture of certain mining exploration expenditures
 
 **(a) Allowance of deduction**
 
@@ -1217,7 +1217,7 @@ In the case of any property or mine held by a partnership after a distribution t
 
 For election of 10-year amortization of expenditures allowable as a deduction under this section, see section 59(e).
 
-(Added Pub. L. 89–570, § 1(a), Sept. 12, 1966, 80 Stat. 759; amended Pub. L. 91–172, title V, § 504(b), Dec. 30, 1969, 83 Stat. 632; Pub. L. 94–455, title XIX, §§ 1901(a)(89), (b)(3)(K), (21)(C)–(E), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1779, 1793, 1797, 1834; Pub. L. 97–248, title II, § 201(d)(9)(D), formerly § 201(c)(9)(D), § 224(c)(8), Sept. 3, 1982, 96 Stat. 420, 489, renumbered § 201(d)(9)(D), Pub. L. 97–448, title III, § 306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title IV, §§ 411(b)(2)(B), 413(b), Oct. 22, 1986, 100 Stat. 2226, 2228; Pub. L. 100–647, title I, § 1007(g)(7), Nov. 10, 1988, 102 Stat. 3435; Pub. L. 101–508, title XI, § 11801(a)(27), (c)(13), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527.)
+(Added Pub. L. 89–570, § 1(a), Sept. 12, 1966, 80 Stat. 759; amended Pub. L. 91–172, title V, § 504(b), Dec. 30, 1969, 83 Stat. 632; Pub. L. 94–455, title XIX, §§ 1901(a)(89), (b)(3)(K), (21)(C)–(E), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1779, 1793, 1797, 1834; Pub. L. 97–248, title II, § 201(d)(9)(D), formerly § 201(c)(9)(D), § 224(c)(8), Sept. 3, 1982, 96 Stat. 420, 489, renumbered § 201(d)(9)(D), Pub. L. 97–448, title III, § 306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title IV, §§ 411(b)(2)(B), 413(b), Oct. 22, 1986, 100 Stat. 2226, 2228; Pub. L. 100–647, title I, § 1007(g)(7), Nov. 10, 1988, 102 Stat. 3435; Pub. L. 101–508, title XI, § 11801(a)(27), (c)(13), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527.)
 
 **Editorial Notes**
 
@@ -1227,35 +1227,35 @@ For election of 10-year amortization of expenditures allowable as a deduction un
 
 1988—Subsec. (j). Pub. L. 100–647 substituted “section 59(e)” for “section 58(i)”.
 
-1986—Subsec. (d)(5). Pub. L. 99–514, § 413(b), added par. (5).
+1986—Subsec. (d)(5). Pub. L. 99–514, § 413(b), added par. (5).
 
-Subsec. (h). Pub. L. 99–514, § 411(b)(2)(B), amended subsec. (h) generally, substituting provisions relating to special rules for foreign exploration for provisions relating to limitations.
+Subsec. (h). Pub. L. 99–514, § 411(b)(2)(B), amended subsec. (h) generally, substituting provisions relating to special rules for foreign exploration for provisions relating to limitations.
 
-1982—Subsec. (h)(3)(B). Pub. L. 97–248, § 224(c)(8), inserted “338,” after “334(b),”.
+1982—Subsec. (h)(3)(B). Pub. L. 97–248, § 224(c)(8), inserted “338,” after “334(b),”.
 
-Subsec. (j). Pub. L. 97–248, § 201(d)(9)(D), formerly § 201(c)(9)(D), added subsec. (j).
+Subsec. (j). Pub. L. 97–248, § 201(d)(9)(D), formerly § 201(c)(9)(D), added subsec. (j).
 
-1976—Subsec. (a)(2)(A). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsec. (a)(2)(A). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (a)(2)(B). Pub. L. 94–455, §§ 1901(a)(89), 1906(b)(13)(A), substituted “may not be revoked unless” for “may not be revoked after the last day of the third month following the month in which the final regulations issued under the authority of this subsection are published in the Federal Register, unless”, and struck out “or his delegate” after “Secretary”.
+Subsec. (a)(2)(B). Pub. L. 94–455, §§ 1901(a)(89), 1906(b)(13)(A), substituted “may not be revoked unless” for “may not be revoked after the last day of the third month following the month in which the final regulations issued under the authority of this subsection are published in the Federal Register, unless”, and struck out “or his delegate” after “Secretary”.
 
-Subsec. (b)(2)(A). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (b)(2)(A). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (d)(1). Pub. L. 94–455, § 1901(b)(3)(K), substituted “ordinary income” for “gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231”.
+Subsec. (d)(1). Pub. L. 94–455, § 1901(b)(3)(K), substituted “ordinary income” for “gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231”.
 
-Subsecs. (d)(2), (e)(2), (g)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsecs. (d)(2), (e)(2), (g)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (h)(1). Pub. L. 94–455, § 1901(b)(21)(C), substituted “and subsection (a) of section 615 (as in effect before the enactment of the Tax Reform Act of 1976)” for “and section 615(a) and the amounts which are or have been treated as deferred expenses under section 615(b)”.
+Subsec. (h)(1). Pub. L. 94–455, § 1901(b)(21)(C), substituted “and subsection (a) of section 615 (as in effect before the enactment of the Tax Reform Act of 1976)” for “and section 615(a) and the amounts which are or have been treated as deferred expenses under section 615(b)”.
 
-Subsec. (h)(3). Pub. L. 94–455, § 1901(b)(21)(D), struck out “and all amounts treated as deferred expenses which were paid or incurred” after “amounts deducted” in introductory provisions, redesignated subpar. (C) as (B), and in subpar. (B) as so redesignated, substituted “374(b)(1)” for “373(b)(1)”. Former subpar. (B), which related to the application of par. (2)(B) where the taxpayer would be entitled under section 381(c)(10) to deduct expenses deferred under section 615(b) had the distributor or transferor corporation elected to defer such expenses, was struck out.
+Subsec. (h)(3). Pub. L. 94–455, § 1901(b)(21)(D), struck out “and all amounts treated as deferred expenses which were paid or incurred” after “amounts deducted” in introductory provisions, redesignated subpar. (C) as (B), and in subpar. (B) as so redesignated, substituted “374(b)(1)” for “373(b)(1)”. Former subpar. (B), which related to the application of par. (2)(B) where the taxpayer would be entitled under section 381(c)(10) to deduct expenses deferred under section 615(b) had the distributor or transferor corporation elected to defer such expenses, was struck out.
 
-Subsec. (i). Pub. L. 94–455, § 1901(b)(21)(E), added subsec. (i).
+Subsec. (i). Pub. L. 94–455, § 1901(b)(21)(E), added subsec. (i).
 
-1969—Pub. L. 91–172, § 504(b)(1), substituted “Deduction and recapture of certain mining exploration expenditures” for “Additional exploration expenditures in the case of domestic mining” in heading.
+1969—Pub. L. 91–172, § 504(b)(1), substituted “Deduction and recapture of certain mining exploration expenditures” for “Additional exploration expenditures in the case of domestic mining” in heading.
 
-Subsec. (a)(1). Pub. L. 91–172, § 504(b)(2), struck out reference to United States, the Outer Continental Shelf and the Outer Continental Shelf Lands Act from general rule dealing with allowance of deductions for expenditures in ascertaining the existence, location, extent, or quality of any deposit of ore or other mineral.
+Subsec. (a)(1). Pub. L. 91–172, § 504(b)(2), struck out reference to United States, the Outer Continental Shelf and the Outer Continental Shelf Lands Act from general rule dealing with allowance of deductions for expenditures in ascertaining the existence, location, extent, or quality of any deposit of ore or other mineral.
 
-Subsec. (h). Pub. L. 91–172, § 504(b)(3), substituted provisions imposing limitations on the operation of this section for provision making cross reference to subsecs. (f) and (g) of section 615.
+Subsec. (h). Pub. L. 91–172, § 504(b)(3), substituted provisions imposing limitations on the operation of this section for provision making cross reference to subsecs. (f) and (g) of section 615.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1285,7 +1285,7 @@ Amendment by Pub. L. 91–172 applicable with respect to exploration expenditure
 
 **Effective Date**
 
-Pub. L. 89–570, § 3, Sept. 12, 1966, 80 Stat. 764, provided that: “The amendments made by this Act [enacting this section and amending sections 170, 301, 312, 341, 453, 615, 703, and 751 of this title] shall apply to taxable years ending after the date of the enactment of this Act [Sept. 12, 1966] but only in respect of expenditures paid or incurred after such date.”
+Pub. L. 89–570, § 3, Sept. 12, 1966, 80 Stat. 764, provided that: “The amendments made by this Act [enacting this section and amending sections 170, 301, 312, 341, 453, 615, 703, and 751 of this title] shall apply to taxable years ending after the date of the enactment of this Act [Sept. 12, 1966] but only in respect of expenditures paid or incurred after such date.”
 
 **Savings Provision**
 
@@ -1293,7 +1293,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 ## [PART II—REPEALED]
 
-### [§ 621. Repealed. Pub. L. 101–508, title XI, § 11801(a)(28), Nov. 5, 1990, 104 Stat. 1388–521]
+### [§ 621. Repealed. Pub. L. 101–508, title XI, § 11801(a)(28), Nov. 5, 1990, 104 Stat. 1388–521]
 
 Section, act Aug. 16, 1954, ch. 736, 68A Stat. 212, related to payments to encourage exploration, development, and mining for defense purposes.
 
@@ -1309,11 +1309,11 @@ For provisions that nothing in repeal by Pub. L. 101–508 be construed to affec
 
 **Amendments**
 
-1976—Pub. L. 94–455, title XIX, § 1901(b)(22)(A), Oct. 4, 1976, 90 Stat. 1798, struck out item 632 “Sale of oil or gas properties”.
+1976—Pub. L. 94–455, title XIX, § 1901(b)(22)(A), Oct. 4, 1976, 90 Stat. 1798, struck out item 632 “Sale of oil or gas properties”.
 
-1964—Pub. L. 88–272, title II, § 227(b)(2), Feb. 26, 1964, 78 Stat. 98, inserted reference to domestic iron ore in item 631.
+1964—Pub. L. 88–272, title II, § 227(b)(2), Feb. 26, 1964, 78 Stat. 98, inserted reference to domestic iron ore in item 631.
 
-### § 631. Gain or loss in the case of timber, coal, or domestic iron ore
+### § 631. Gain or loss in the case of timber, coal, or domestic iron ore
 
 **(a) Election to consider cutting as sale or exchange**
 
@@ -1329,7 +1329,7 @@ In the case of the disposal of timber held for more than 1 year before such disp
 
 **(2)** to a person owned or controlled directly or indirectly by the same interests which own or control the person disposing of such iron ore or coal.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 213; Pub. L. 88–272, title II, § 227(a)(1), (b)(1), Feb. 26, 1964, 78 Stat. 97, 98; Pub. L. 94–455, title XIV, § 1402(b)(1)(I), (2), (3), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1733, 1834; Pub. L. 98–369, div. A, title I, § 178(a), title X, § 1001(c), (e), July 18, 1984, 98 Stat. 712, 1012; Pub. L. 99–514, title III, § 311(b)(3), Oct. 22, 1986, 100 Stat. 2219; Pub. L. 108–357, title III, § 315(a), (b), Oct. 22, 2004, 118 Stat. 1469.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 213; Pub. L. 88–272, title II, § 227(a)(1), (b)(1), Feb. 26, 1964, 78 Stat. 97, 98; Pub. L. 94–455, title XIV, § 1402(b)(1)(I), (2), (3), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1733, 1834; Pub. L. 98–369, div. A, title I, § 178(a), title X, § 1001(c), (e), July 18, 1984, 98 Stat. 712, 1012; Pub. L. 99–514, title III, § 311(b)(3), Oct. 22, 1986, 100 Stat. 2219; Pub. L. 108–357, title III, § 315(a), (b), Oct. 22, 2004, 118 Stat. 1469.)
 
 **Editorial Notes**
 
@@ -1339,33 +1339,33 @@ In the case of the disposal of timber held for more than 1 year before such disp
 
 1986—Subsec. (c). Pub. L. 99–514 substituted “If for the taxable year of such gain or loss the maximum rate of tax imposed by this chapter on any net capital gain is less than such maximum rate for ordinary income, such owner” for “Such owner”.
 
-1984—Subsec. (a). Pub. L. 98–369, § 1001(c)(1), (e), substituted “on the first day of such year and for a period of more than 6 months before such cutting” for “for a period of more than 1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+1984—Subsec. (a). Pub. L. 98–369, § 1001(c)(1), (e), substituted “on the first day of such year and for a period of more than 6 months before such cutting” for “for a period of more than 1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
-Subsecs. (b), (c). Pub. L. 98–369, § 1001(c)(2), (e), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+Subsecs. (b), (c). Pub. L. 98–369, § 1001(c)(2), (e), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
-Pub. L. 98–369, § 178(a), inserted “or coal” after “iron ore” wherever appearing in last sentence of subsec. (c).
+Pub. L. 98–369, § 178(a), inserted “or coal” after “iron ore” wherever appearing in last sentence of subsec. (c).
 
-1976—Subsec. (a). Pub. L. 94–455, § 1402(b)(2), provided that “9 months” would be changed to “1 year”.
+1976—Subsec. (a). Pub. L. 94–455, § 1402(b)(2), provided that “9 months” would be changed to “1 year”.
 
-Pub. L. 94–455, §§ 1402(b)(1)(I), (3), 1906(b)(13)(A), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977 and struck out “before the beginning of such year” before “) shall be considered as a sale” effective for taxable years beginning after Dec. 31, 1976, and “or his delegate” after “Secretary” wherever appearing.
+Pub. L. 94–455, §§ 1402(b)(1)(I), (3), 1906(b)(13)(A), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977 and struck out “before the beginning of such year” before “) shall be considered as a sale” effective for taxable years beginning after Dec. 31, 1976, and “or his delegate” after “Secretary” wherever appearing.
 
-Subsec. (b). Pub. L. 94–455, § 1402(b)(2), provided that “9 months” would be changed to “1 year”.
+Subsec. (b). Pub. L. 94–455, § 1402(b)(2), provided that “9 months” would be changed to “1 year”.
 
-Pub. L. 94–455, § 1402(b)(1)(I), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
+Pub. L. 94–455, § 1402(b)(1)(I), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 
-Subsec. (c). Pub. L. 94–455, § 1402(b)(2), provided that “9 months” would be changed to “1 year”.
+Subsec. (c). Pub. L. 94–455, § 1402(b)(2), provided that “9 months” would be changed to “1 year”.
 
-Pub. L. 94–455, § 1402(b)(1)(I), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
+Pub. L. 94–455, § 1402(b)(1)(I), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 
-1964—Pub. L. 88–272, § 227(b)(1), inserted reference to domestic iron ore in heading.
+1964—Pub. L. 88–272, § 227(b)(1), inserted reference to domestic iron ore in heading.
 
-Subsec. (c). Pub. L. 88–272, § 227(a)(1), inserted “or domestic iron ore” in heading, “or iron ore mined in the United States” after “coal (including lignite)”, “or iron ore” after “coal” wherever appearing, and provided that the subsection shall not apply to any disposal of iron ore to a person whose relationship to the person disposing of such ore would result in the disallowance of losses under section 267 of 717(b), or to a person owned or controlled by the same interests which own or control the person disposing of such iron ore.
+Subsec. (c). Pub. L. 88–272, § 227(a)(1), inserted “or domestic iron ore” in heading, “or iron ore mined in the United States” after “coal (including lignite)”, “or iron ore” after “coal” wherever appearing, and provided that the subsection shall not apply to any disposal of iron ore to a person whose relationship to the person disposing of such ore would result in the disallowance of losses under section 267 of 717(b), or to a person owned or controlled by the same interests which own or control the person disposing of such iron ore.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title III, § 315(c), Oct. 22, 2004, 118 Stat. 1469, provided that: “The amendments made by this section [amending this section] shall apply to sales after December 31, 2004.”
+Pub. L. 108–357, title III, § 315(c), Oct. 22, 2004, 118 Stat. 1469, provided that: “The amendments made by this section [amending this section] shall apply to sales after December 31, 2004.”
 
 **Effective Date of 1986 Amendment**
 
@@ -1373,7 +1373,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title I, § 178(b), July 18, 1984, 98 Stat. 712, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title I, § 178(b), July 18, 1984, 98 Stat. 712, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendment made by subsection (a) [amending this section] shall apply to dispositions after September 30, 1985.
 
@@ -1401,11 +1401,11 @@ Amendment by section 1001(c) of Pub. L. 98–369 applicable to property acquired
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–455, title XIV, § 1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
+Pub. L. 94–455, title XIV, § 1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
 
-Pub. L. 94–455, title XIV, § 1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
+Pub. L. 94–455, title XIV, § 1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 
-Pub. L. 94–455, title XIV, § 1402(b)(3), Oct. 4, 1976, 90 Stat. 1733, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1976.
+Pub. L. 94–455, title XIV, § 1402(b)(3), Oct. 4, 1976, 90 Stat. 1733, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1976.
 
 **Effective Date of 1964 Amendment**
 
@@ -1413,13 +1413,13 @@ Amendment by Pub. L. 88–272 applicable with respect to amounts received or acc
 
 **Revocation of Elections Under Section 631(a)**
 
-Pub. L. 108–357, title I, § 102(c), Oct. 22, 2004, 118 Stat. 1428, provided that: “Any election under section 631(a) of the Internal Revenue Code of 1986 made for a taxable year ending on or before the date of the enactment of this Act [Oct. 22, 2004] may be revoked by the taxpayer for any taxable year ending after such date. For purposes of determining whether such taxpayer may make a further election under such section, such election (and any revocation under this section) shall not be taken into account.”
+Pub. L. 108–357, title I, § 102(c), Oct. 22, 2004, 118 Stat. 1428, provided that: “Any election under section 631(a) of the Internal Revenue Code of 1986 made for a taxable year ending on or before the date of the enactment of this Act [Oct. 22, 2004] may be revoked by the taxpayer for any taxable year ending after such date. For purposes of determining whether such taxpayer may make a further election under such section, such election (and any revocation under this section) shall not be taken into account.”
 
-Pub. L. 99–514, title III, § 311(d)(2), Oct. 22, 1986, 100 Stat. 2220, provided that: “Any election under section 631(a) of the Internal Revenue Code of 1954 made (whether by a corporation or a person other than a corporation) for a taxable year beginning before January 1, 1987, may be revoked by the taxpayer for any taxable year ending after December 31, 1986. For purposes of determining whether the taxpayer may make a further election under such section, such election (and any revocation under this paragraph) shall not be taken into account.”
+Pub. L. 99–514, title III, § 311(d)(2), Oct. 22, 1986, 100 Stat. 2220, provided that: “Any election under section 631(a) of the Internal Revenue Code of 1954 made (whether by a corporation or a person other than a corporation) for a taxable year beginning before January 1, 1987, may be revoked by the taxpayer for any taxable year ending after December 31, 1986. For purposes of determining whether the taxpayer may make a further election under such section, such election (and any revocation under this paragraph) shall not be taken into account.”
 
-### [§ 632. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(90), Oct. 4, 1976, 90 Stat. 1779]
+### [§ 632. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(90), Oct. 4, 1976, 90 Stat. 1779]
 
-Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 214; Dec. 30, 1969, Pub. L. 91–172, title VIII, § 803(d)(4), 83 Stat. 684, related to tax in case of sale of oil and gas properties.
+Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 214; Dec. 30, 1969, Pub. L. 91–172, title VIII, § 803(d)(4), 83 Stat. 684, related to tax in case of sale of oil and gas properties.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1433,9 +1433,9 @@ Repeal effective for taxable years beginning after Dec. 31, 1976, see section 19
 
 **Amendments**
 
-1969—Pub. L. 91–172, title V, § 503(a), Dec. 30, 1969, 83 Stat. 630, added part heading and section analysis.
+1969—Pub. L. 91–172, title V, § 503(a), Dec. 30, 1969, 83 Stat. 630, added part heading and section analysis.
 
-### § 636. Income tax treatment of mineral production payments
+### § 636. Income tax treatment of mineral production payments
 
 **(a) Carved-out production payments**
 
@@ -1457,7 +1457,7 @@ As used in this section, the term “mineral property” has the meaning assigne
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section.
 
-(Added Pub. L. 91–172, title V, § 503(a), Dec. 30, 1969, 83 Stat. 630; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 91–172, title V, § 503(a), Dec. 30, 1969, 83 Stat. 630; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -1469,7 +1469,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 **Effective Date**
 
-Pub. L. 91–172, title V, § 503(c), Dec. 30, 1969, 83 Stat. 631, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 91–172, title V, § 503(c), Dec. 30, 1969, 83 Stat. 631, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) General rule.—** The amendments made by this section [enacting this section] shall apply with respect to mineral production payments created on or after August 7, 1969, other than mineral production payments created before January 1, 1971, pursuant to a binding contract entered into before August 7, 1969.
 
@@ -1493,9 +1493,9 @@ Pub. L. 91–172, title V, § 503(c), Dec. 30, 1969, 83 Stat. 631, as amended 
 
 **Amendments**
 
-1969—Pub. L. 91–172, title V, § 505(a), Dec. 30, 1969, 83 Stat. 634, added part heading and section analysis.
+1969—Pub. L. 91–172, title V, § 505(a), Dec. 30, 1969, 83 Stat. 634, added part heading and section analysis.
 
-### § 638. Continental shelf areas
+### § 638. Continental shelf areas
 
 For purposes of applying the provisions of this chapter (including sections 861(a)(3) and 862(a)(3) in the case of the performance of personal services) with respect to mines, oil and gas wells, and other natural deposits—
 
@@ -1505,4 +1505,4 @@ For purposes of applying the provisions of this chapter (including sections 861(
 
 No foreign country shall, by reason of the application of this section, be treated as a country contiguous to the United States.
 
-(Added Pub. L. 91–172, title V, § 505(a), Dec. 30, 1969, 83 Stat. 634.)
+(Added Pub. L. 91–172, title V, § 505(a), Dec. 30, 1969, 83 Stat. 634.)

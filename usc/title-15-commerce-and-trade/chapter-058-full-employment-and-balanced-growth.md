@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 58—FULL EMPLOYMENT AND BALANCED GROWTH
 
-## § 3101. Congressional findings
+## § 3101. Congressional findings
 
 **(a)** The Congress finds that the Nation has suffered substantial unemployment and underemployment, idleness of other productive resources, high rates of inflation, and inadequate productivity growth, over prolonged periods of time, imposing numerous economic and social costs on the Nation. Such costs include the following:
 
@@ -47,19 +47,19 @@ retrieved: 2026-10-11
 
 **(e)** The Congress further finds that the United States is part of an interdependent world trading and monetary system and that attainment of the requirements specified in subsection (d) is dependent upon policies promoting a free and fair international trading system and a sound and stable international monetary system.
 
-(Pub. L. 95–523, § 2, Oct. 27, 1978, 92 Stat. 1888.)
+(Pub. L. 95–523, § 2, Oct. 27, 1978, 92 Stat. 1888.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 95–523, § 1, Oct. 27, 1978, 92 Stat. 1887, provided in part that this Act [enacting this chapter and sections 1022a to 1022f of this title, amending sections 1021, 1022, 1023, and 1024 of this title, sections 632 and 636 of Title 2, The Congress, and section 225a of Title 12, Banks and Banking, and enacting provisions set out as notes under section 1021 of title and section 225a of Title 12] may be cited as the “Full Employment and Balanced Growth Act of 1978”.
+Pub. L. 95–523, § 1, Oct. 27, 1978, 92 Stat. 1887, provided in part that this Act [enacting this chapter and sections 1022a to 1022f of this title, amending sections 1021, 1022, 1023, and 1024 of this title, sections 632 and 636 of Title 2, The Congress, and section 225a of Title 12, Banks and Banking, and enacting provisions set out as notes under section 1021 of title and section 225a of Title 12] may be cited as the “Full Employment and Balanced Growth Act of 1978”.
 
-## § 3102. Report to Congressional committees
+## § 3102. Report to Congressional committees
 
 Not later than one year after October 27, 1978, the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives each shall conduct a study and submit a report, including findings and recommendations, to the Committee on Rules and Administration of the Senate and the Committee on Rules of the House, respectively, on the subject of establishing a full employment goal in connection with the provisions of this chapter.
 
-(Pub. L. 95–523, § 3, Oct. 27, 1978, 92 Stat. 1889; S. Res. 30, Mar. 7, 1979.)
+(Pub. L. 95–523, § 3, Oct. 27, 1978, 92 Stat. 1889; S. Res. 30, Mar. 7, 1979.)
 
 **Editorial Notes**
 
@@ -75,7 +75,7 @@ Committee on Education and Labor of House of Representatives changed to Committe
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999. Previously, Committee on Human Resources of the Senate changed to Committee on Labor and Human Resources effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See, also, Rule XXV of Standing Rules of the Senate adopted Nov. 14, 1979.
 
-## § 3103. National Employment Conference
+## § 3103. National Employment Conference
 
 **(a) Organization and implementation**
 
@@ -85,15 +85,15 @@ A National Employment Conference may be convened in the District of Columbia wit
 
 The subject of the conference shall be employment, with particular attention to structural unemployment and the plight of disadvantaged youth. The conference shall also focus on issues such as implementation of adequate and effective incentives for private sector employers to hire the hard-core unemployed. Special attention shall be given to the creation of jobs through the use of targeted employment tax credits, wage vouchers, and other incentives to private sector businesses.
 
-(Pub. L. 95–523, § 4, Oct. 27, 1978, 92 Stat. 1889.)
+(Pub. L. 95–523, § 4, Oct. 27, 1978, 92 Stat. 1889.)
 
 ## SUBCHAPTER I—STRUCTURAL ECONOMIC POLICIES AND PROGRAMS INCLUDING TREATMENT OF RESOURCE RESTRAINTS
 
-### § 3111. Congressional statement of purpose
+### § 3111. Congressional statement of purpose
 
 The Congress recognizes that general economic policies alone have been unable to achieve the goals set forth in this chapter related to full employment, production, and real income, balanced growth, adequate growth in productivity, proper attention to national priorities, achievement of an improved trade balance through increased exports and improvement in the international competitiveness of agriculture, business, and industry, and achievement of reasonable price stability as provided for in section 1022b(b) of this title. It is, therefore, the purpose of this subchapter to require the President to initiate, as the President deems appropriate, with recommendations to the Congress where necessary, supplementary programs and policies to the extent that the President finds such action necessary to help achieve these goals, including the goals and timetable for the reduction of unemployment. Insofar as feasible without undue delay, any policies and programs so recommended shall be included in the Economic Report.
 
-(Pub. L. 95–523, title II, § 201, Oct. 27, 1978, 92 Stat. 1899.)
+(Pub. L. 95–523, title II, § 201, Oct. 27, 1978, 92 Stat. 1899.)
 
 **Editorial Notes**
 
@@ -101,7 +101,7 @@ The Congress recognizes that general economic policies alone have been unable to
 
 For definition of “this chapter”, referred to in text, see References in Text note set out under section 3102 of this title.
 
-### § 3112. Countercyclical employment policies
+### § 3112. Countercyclical employment policies
 
 **(a) Programmatic entities** Any countercyclical efforts undertaken to aid in achieving the purposes of section 3111 of this title shall consider for inclusion the following programmatic entities:
 
@@ -127,9 +127,9 @@ For definition of “this chapter”, referred to in text, see References in Tex
 
 In any countercyclical efforts undertaken, the President shall consider a triggering mechanism which will implement the program during a period of rising unemployment and phase out the program when unemployment is appropriately reduced, and incorporate effective means to facilitate individuals assisted under programs developed pursuant to this section to return promptly to regular private and public employment as the economy recovers.
 
-(Pub. L. 95–523, title II, § 202, Oct. 27, 1978, 92 Stat. 1900.)
+(Pub. L. 95–523, title II, § 202, Oct. 27, 1978, 92 Stat. 1900.)
 
-### § 3113. Economic activity coordination
+### § 3113. Economic activity coordination
 
 **(a) Federal, regional, State, local, and private sector**
 
@@ -139,7 +139,7 @@ As an integral part of any countercyclical employment policies undertaken in acc
 
 In any efforts under this section, the President shall endeavor to meet criteria that establish programs which are funded to take account of the fiscal needs and budget conditions of the respective States and localities and their own efforts, with special attention to the rates of unemployment in such States and localities.
 
-(Pub. L. 95–523, title II, § 203, Oct. 27, 1978, 92 Stat. 1900.)
+(Pub. L. 95–523, title II, § 203, Oct. 27, 1978, 92 Stat. 1900.)
 
 **Editorial Notes**
 
@@ -147,15 +147,15 @@ In any efforts under this section, the President shall endeavor to meet criteria
 
 For definition of “this chapter”, referred to in subsec. (a), see References in Text note set out under section 3102 of this title.
 
-The Employment Act of 1946, referred to in subsec. (a), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, which is classified generally to chapter 21 (§ 1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1021 of this title and Tables.
+The Employment Act of 1946, referred to in subsec. (a), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, which is classified generally to chapter 21 (§ 1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1021 of this title and Tables.
 
 **Executive Documents**
 
 **Executive Order No. 12329**
 
-Ex. Ord. No. 12329, Oct. 14, 1981, 46 F.R. 50919, which established the President’s Task Force on Private Sector Initiatives and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12399, § 4(i), Dec. 31, 1982, 48 F.R. 380, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
+Ex. Ord. No. 12329, Oct. 14, 1981, 46 F.R. 50919, which established the President’s Task Force on Private Sector Initiatives and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12399, § 4(i), Dec. 31, 1982, 48 F.R. 380, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
-### § 3114. Regional and structural employment policies and programs
+### § 3114. Regional and structural employment policies and programs
 
 **(a) Recommendation of legislation**
 
@@ -165,15 +165,15 @@ To the extent deemed appropriate by the President in fulfillment of the purposes
 
 In formulating the regional components of any such programs, the President shall encourage to the extent the President deems necessary, new private sector production and employment to locate within depressed localities and regions with substantial unemployment and to aid in stabilizing their economic base. To the extent feasible, such policies and programs shall foster the establishment and growth of smaller businesses in such localities and regions. Any regional employment proposal of the President shall also include an analysis of the extent to which Federal tax, expenditure (including procurement of goods and services), defense, transportation, energy, natural resources and employment policies have influenced the movement of people, jobs, and small and larger business and industries from chronic high unemployment regions and areas, and proposals designed to correct Federal policies that have an adverse economic impact upon such regions and areas.
 
-(Pub. L. 95–523, title II, § 204, Oct. 27, 1978, 92 Stat. 1901.)
+(Pub. L. 95–523, title II, § 204, Oct. 27, 1978, 92 Stat. 1901.)
 
-### § 3115. Youth employment policies and programs
+### § 3115. Youth employment policies and programs
 
 **(a) Congressional findings** The Congress finds and declares—
 
-**(1)** That 1
+**(1)** That 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 serious unemployment and economic disadvantage of a unique nature exist among youths even under generally favorable economic conditions;
 
@@ -191,11 +191,11 @@ serious unemployment and economic disadvantage of a unique nature exist among yo
 
 **(4)** develop realistic methods for combining training with work; and
 
-**(5)** develop provisions designed to attract structurally unemployed youth into productive full-time employment through incentives to private and independent sector businesses; 2
+**(5)** develop provisions designed to attract structurally unemployed youth into productive full-time employment through incentives to private and independent sector businesses; 2
 
-<sup>2</sup>  So in original. The semicolon probably should be a period.
+<sup>2</sup> So in original. The semicolon probably should be a period.
 
-(Pub. L. 95–523, title II, § 205, Oct. 27, 1978, 92 Stat. 1901.)
+(Pub. L. 95–523, title II, § 205, Oct. 27, 1978, 92 Stat. 1901.)
 
 **Editorial Notes**
 
@@ -203,7 +203,7 @@ serious unemployment and economic disadvantage of a unique nature exist among yo
 
 For definition of “this chapter”, referred to in subsec. (b), see References in Text note set out under section 3102 of this title.
 
-### § 3116. Job training, counseling and reservoirs of employment projects
+### § 3116. Job training, counseling and reservoirs of employment projects
 
 **(a) Policies, procedures and recommendations**
 
@@ -245,7 +245,7 @@ Further to promote achievement of full employment under this chapter and the Emp
 
 **(4)** such administrative appeal procedures as may be appropriate to review the initial determination of the abilities of persons willing, able, and seeking to work under paragraph (1) of this subsection and the employment need and eligibility under paragraph (3) of this subsection.
 
-(Pub. L. 95–523, title II, § 206, Oct. 27, 1978, 92 Stat. 1902; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(12)(A), (f)(10)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–420, 2681–431; Pub. L. 113–128, title V, § 512(m), July 22, 2014, 128 Stat. 1710.)
+(Pub. L. 95–523, title II, § 206, Oct. 27, 1978, 92 Stat. 1902; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(12)(A), (f)(10)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–420, 2681–431; Pub. L. 113–128, title V, § 512(m), July 22, 2014, 128 Stat. 1710.)
 
 **Editorial Notes**
 
@@ -253,25 +253,25 @@ Further to promote achievement of full employment under this chapter and the Emp
 
 For definition of “this chapter”, referred to in subsecs. (a) and (d)(2), see References in Text note set out under section 3102 of this title.
 
-The Employment Act of 1946, referred to in subsecs. (a) and (c), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, which is classified generally to chapter 21 (§ 1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1021 of this title and Tables.
+The Employment Act of 1946, referred to in subsecs. (a) and (c), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, which is classified generally to chapter 21 (§ 1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1021 of this title and Tables.
 
-The Workforce Innovation and Opportunity Act, referred to in subsecs. (b) and (c)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsecs. (b) and (c)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 **Amendments**
 
-2014—Subsec. (b). Pub. L. 113–128, § 512(m)(1), substituted “the Secretary of Labor shall, as appropriate, fully utilize the authority provided under title I of the Workforce Innovation and Opportunity Act” for “the Secretary of Labor shall, as appropriate, fully utilize the authority provided under the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” in introductory provisions.
+2014—Subsec. (b). Pub. L. 113–128, § 512(m)(1), substituted “the Secretary of Labor shall, as appropriate, fully utilize the authority provided under title I of the Workforce Innovation and Opportunity Act” for “the Secretary of Labor shall, as appropriate, fully utilize the authority provided under the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 113–128, § 512(m)(2), substituted “the President shall, as may be authorized by law, establish reservoirs of public employment and private nonprofit employment projects, to be approved by the Secretary of Labor, through expansion of activities under title I of the Workforce Innovation and Opportunity Act” for “the President shall, as may be authorized by law, establish reservoirs of public employment and private nonprofit employment projects, to be approved by the Secretary of Labor, through expansion of title I of the Workforce Investment Act of 1998”.
+Subsec. (c)(1). Pub. L. 113–128, § 512(m)(2), substituted “the President shall, as may be authorized by law, establish reservoirs of public employment and private nonprofit employment projects, to be approved by the Secretary of Labor, through expansion of activities under title I of the Workforce Innovation and Opportunity Act” for “the President shall, as may be authorized by law, establish reservoirs of public employment and private nonprofit employment projects, to be approved by the Secretary of Labor, through expansion of title I of the Workforce Investment Act of 1998”.
 
-1998—Subsec. (b). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(10)(A)], which directed the amendment of subsec. (b) by substituting “the Job Training Partnership Act and” for “CETA” in introductory provisions, could not be executed because “CETA” did not appear in introductory provisions subsequent to amendment by Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(12)(A)(i)(I)]. See below.
+1998—Subsec. (b). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(10)(A)], which directed the amendment of subsec. (b) by substituting “the Job Training Partnership Act and” for “CETA” in introductory provisions, could not be executed because “CETA” did not appear in introductory provisions subsequent to amendment by Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(12)(A)(i)(I)]. See below.
 
-Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(12)(A)(i)(I)], substituted “the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” for “CETA” in introductory provisions.
+Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(12)(A)(i)(I)], substituted “the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” for “CETA” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(12)(A)(i)(II)], struck out “(including use of section 110 of CETA when necessary)” before semicolon at end.
+Subsec. (b)(1). Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(12)(A)(i)(II)], struck out “(including use of section 110 of CETA when necessary)” before semicolon at end.
 
-Subsec. (c)(1). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(10)(B)], struck out “activities carried out under the Job Training Partnership Act or” before “title I of the Workforce Investment Act of 1998”.
+Subsec. (c)(1). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(10)(B)], struck out “activities carried out under the Job Training Partnership Act or” before “title I of the Workforce Investment Act of 1998”.
 
-Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(12)(A)(ii)], substituted “activities carried out under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “CETA”.
+Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(12)(A)(ii)], substituted “activities carried out under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “CETA”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -281,9 +281,9 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 **Effective Date of 1998 Amendment**
 
-Amendment by section 101(f) [title VIII, § 405(d)(12)(A)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(10)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) [title VIII, § 405(d)(12)(A)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(10)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
-### § 3117. Capital formation
+### § 3117. Capital formation
 
 **(a) Congressional findings** The Congress finds that—
 
@@ -305,7 +305,7 @@ The Economic Report shall include an Investment Policy Report which shall, as ap
 
 The Economic Report referred to in subsection (b) shall review and assess Federal policies and programs which directly, or through grants-in-aid to State and local governments, or indirectly through other means, affect the adequacy, composition and effectiveness of public investments, as a means of achieving the goals of this chapter and the Employment Act of 1946 [15 U.S.C. 1021 et seq.]. The President shall recommend, as appropriate, new programs and policies or modifications to improve existing Federal programs affecting public investment.
 
-(Pub. L. 95–523, title II, § 207, Oct. 27, 1978, 92 Stat. 1903.)
+(Pub. L. 95–523, title II, § 207, Oct. 27, 1978, 92 Stat. 1903.)
 
 **Editorial Notes**
 
@@ -317,11 +317,11 @@ Section 1021(i) of this title, referred to in subsec. (b), was in the original �
 
 For definition of “this chapter”, referred to in subsec. (c), see References in Text note set out under section 3102 of this title.
 
-The Employment Act of 1946, referred to in subsec. (c), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, which is classified generally to chapter 21 (§ 1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1021 of this title and Tables.
+The Employment Act of 1946, referred to in subsec. (c), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, which is classified generally to chapter 21 (§ 1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1021 of this title and Tables.
 
 ## SUBCHAPTER II—POLICIES AND PROCEDURES FOR CONGRESSIONAL REVIEW
 
-### § 3131. Congressional statement of purpose
+### § 3131. Congressional statement of purpose
 
 **(a) Establishment of procedures for review and action**
 
@@ -331,7 +331,7 @@ The purposes of this subchapter are to establish procedures for congressional re
 
 The Congress shall initiate or develop such legislation as it deems necessary to implement proposals and objectives pursuant to this chapter and the Employment Act of 1946 [15 U.S.C. 1021 et seq.] after such modification in such proposals as it deems desirable. Nothing in this subchapter shall be construed to prevent the Congress or any of its committees from considering or initiating at any time legislative action in furtherance of the goals and purposes of this chapter.
 
-(Pub. L. 95–523, title III, § 301, Oct. 27, 1978, 92 Stat. 1904.)
+(Pub. L. 95–523, title III, § 301, Oct. 27, 1978, 92 Stat. 1904.)
 
 **Editorial Notes**
 
@@ -341,9 +341,9 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 For definition of “this chapter”, referred to in text, see References in Text note set out under section 3102 of this title.
 
-The Employment Act of 1946, referred to in subsecs. (a) and (b), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, which is classified generally to chapter 21 (§ 1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1021 of this title and Tables.
+The Employment Act of 1946, referred to in subsecs. (a) and (b), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, which is classified generally to chapter 21 (§ 1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1021 of this title and Tables.
 
-### § 3132. Committee review
+### § 3132. Committee review
 
 **(a) Short-term and medium-term goals**
 
@@ -361,19 +361,19 @@ Within thirty days after receipt by the Congress of the Economic Report, each st
 
 On or before March 15 of each year, a majority of the members of the Joint Economic Committee shall submit a report to the Committees on the Budget of the Senate and the House of Representatives. Such report shall include findings, recommendations, and any appropriate analyses with respect and in direct comparison to each of the short-term and medium-term goals set forth in the Economic Report.
 
-(Pub. L. 95–523, title III, § 302, Oct. 27, 1978, 92 Stat. 1904.)
+(Pub. L. 95–523, title III, § 302, Oct. 27, 1978, 92 Stat. 1904.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Employment Act of 1946, referred to in subsec. (a), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, which is classified generally to chapter 21 (§ 1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1021 of this title and Tables.
+The Employment Act of 1946, referred to in subsec. (a), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, which is classified generally to chapter 21 (§ 1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1021 of this title and Tables.
 
-### § 3133. Exercise of rulemaking powers
+### § 3133. Exercise of rulemaking powers
 
-**(a)**  1
+**(a)** 1
 
-<sup>1</sup>  So in original. No subsec. (b) has been enacted.
+<sup>1</sup> So in original. No subsec. (b) has been enacted.
 
 The Provisions of this subchapter and the amendments made by such provisions are enacted by the Congress—
 
@@ -381,7 +381,7 @@ The Provisions of this subchapter and the amendments made by such provisions are
 
 **(2)** with full recognition of the constitutional right of either House to change such rules (so far as relating to such House), at any time, in the same manner and to the same extent as in the case of any other rule of such House.
 
-(Pub. L. 95–523, title III, § 305, Oct. 27, 1978, 92 Stat. 1907.)
+(Pub. L. 95–523, title III, § 305, Oct. 27, 1978, 92 Stat. 1907.)
 
 **Editorial Notes**
 
@@ -391,7 +391,7 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 ## SUBCHAPTER III—GENERAL PROVISIONS
 
-### § 3151. Nondiscrimination
+### § 3151. Nondiscrimination
 
 **(a) Exclusion from participation or denial of benefits**
 
@@ -401,9 +401,9 @@ No person in the United States shall on the ground of sex, age, race, color, rel
 
 **(1)** refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted;
 
-**(2)** exercise the powers and functions provided by title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.) 1
+**(2)** exercise the powers and functions provided by title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.) 1
 
-<sup>1</sup>  So in original. Probably should be followed by a semicolon.
+<sup>1</sup> So in original. Probably should be followed by a semicolon.
 
 or
 
@@ -417,7 +417,7 @@ When a matter is referred to the Attorney General pursuant to subsection (b), or
 
 To assist and evaluate the enforcement of this section, and the broader equal employment opportunity policies of this chapter the Secretary of Labor shall include, in the annual report referred to in section 1022a(f)(2)(B) of this title, a detailed analysis of the extent to which the enforcement of this section achieves positive results in both the quantity and quality of jobs, and for employment opportunities generally.
 
-(Pub. L. 95–523, title IV, § 401, Oct. 27, 1978, 92 Stat. 1907; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(12)(B)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421.)
+(Pub. L. 95–523, title IV, § 401, Oct. 27, 1978, 92 Stat. 1907; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(12)(B)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421.)
 
 **Editorial Notes**
 
@@ -425,13 +425,13 @@ To assist and evaluate the enforcement of this section, and the broader equal em
 
 For definition of “this chapter”, referred to in subsecs. (a), (b), and (d), see References in Text note set out under section 3102 of this title.
 
-The Civil Rights Act of 1964, referred to in subsec. (b)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (b)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 **Amendments**
 
 1998—Subsec. (d). Pub. L. 105–277 substituted “include, in the annual report referred to in section 1022a(f)(2)(B) of this title,” for “include, in the annual Employment and Training Report of the President provided under section 705(a) of CETA,”.
 
-### § 3152. Labor standards
+### § 3152. Labor standards
 
 **(a) Equal wages; increase in employment**
 
@@ -445,7 +445,7 @@ Any person employed in any reservoir project enacted and funded pursuant to the 
 
 Any recommendation by the President for legislation to implement any program enacted pursuant to the provisions of this chapter, requiring the use of funds under this chapter, and submitted pursuant to the requirements of this chapter, shall contain appropriate wage provisions based upon existing wage standard legislation.
 
-(Pub. L. 95–523, title IV, § 402, Oct. 27, 1978, 92 Stat. 1908.)
+(Pub. L. 95–523, title IV, § 402, Oct. 27, 1978, 92 Stat. 1908.)
 
 **Editorial Notes**
 
@@ -453,8 +453,8 @@ Any recommendation by the President for legislation to implement any program ena
 
 For definition of “this chapter”, referred to in text, see References in Text note set out under section 3102 of this title.
 
-The Fair Labor Standards Act, referred to in subsec. (b), is act June 25, 1938, ch. 676. 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29, and Tables.
+The Fair Labor Standards Act, referred to in subsec. (b), is act June 25, 1938, ch. 676. 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29, and Tables.
 
 **Codification**
 
-“Sections 3141–3144, 3146, and 3147 of title 40 apply” substituted in subsec. (b) for “the Davis-Bacon Act (40 U.S.C. 276a—276a–5) applies” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+“Sections 3141–3144, 3146, and 3147 of title 40 apply” substituted in subsec. (b) for “the Davis-Bacon Act (40 U.S.C. 276a—276a–5) applies” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.

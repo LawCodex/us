@@ -17,11 +17,11 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 121. Annual report of president and directors
+### § 121. Annual report of president and directors
 
 The president and directors of Howard University shall report to the Secretary of Education the condition of the institution on the 1st of July of each year, embracing therein the number of pupils received and discharged or leaving the same for any cause during the preceding year, and the number remaining; also, the branches of knowledge and industry taught and the progress made therein together with a statement showing the receipts of the institution and from what sources, and its disbursements, and for what objects.
 
-(July 1, 1898, ch. 546, § 1, 30 Stat. 624; 1940 Reorg. Plan No. IV, § 11(c), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1237; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 96–88, title III, § 301(a)(2)(M), title V, § 507, Oct. 17, 1979, 93 Stat. 678, 692.)
+(July 1, 1898, ch. 546, § 1, 30 Stat. 624; 1940 Reorg. Plan No. IV, § 11(c), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1237; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 96–88, title III, § 301(a)(2)(M), title V, § 507, Oct. 17, 1979, 93 Stat. 678, 692.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -47,11 +47,11 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 
 Functions of Department of the Interior relating to administration of Howard University transferred to Federal Security Agency to be administered under direction and supervision of Federal Security Administrator, and annual report required to be furnished to Secretary of the Interior by President and directors of said University was directed to be furnished to Federal Security Administrator, by Reorg. Plan No. IV of 1940, set out in the Appendix to Title 5.
 
-### § 122. Limitation on use of appropriations
+### § 122. Limitation on use of appropriations
 
 No part of the appropriations made by Congress for the Howard University shall be used, directly or indirectly, for the support of the theological department of said university, nor for the support of any sectarian, denominational, or religious instruction therein; and no part thereof shall be paid to said university until it shall accord to the Secretary of Education, or to his designated agent or agents, authority to visit and inspect such university and to control and supervise the expenditure therein of all moneys paid under said appropriations.
 
-(Mar. 3, 1899, ch. 424, 30 Stat. 1101; 1940 Reorg. Plan No. IV, § 11(c), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1237; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 96–88, title III, § 301(a)(2)(M), title V, § 507, Oct. 17, 1979, 93 Stat. 678, 692.)
+(Mar. 3, 1899, ch. 424, 30 Stat. 1101; 1940 Reorg. Plan No. IV, § 11(c), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1237; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 96–88, title III, § 301(a)(2)(M), title V, § 507, Oct. 17, 1979, 93 Stat. 678, 692.)
 
 **Editorial Notes**
 
@@ -73,11 +73,11 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 
 Functions of Department of the Interior relating to administration of Howard University transferred to Federal Security Agency to be administered under direction and supervision of Federal Security Administrator by Reorg. Plan No. IV of 1940, set out as a note in the Appendix to Title 5.
 
-### § 123. Annual appropriations; inspection by Secretary of Education
+### § 123. Annual appropriations; inspection by Secretary of Education
 
 Annual appropriations are authorized to aid in the construction, development, improvement, endowment, and maintenance of the university, no part of which shall be used for religious instruction. The university shall at all times be open to inspection by the Secretary of Education and shall be inspected by the said Secretary at least once each year.
 
-(Mar. 2, 1867, ch. 162, § 8, 14 Stat. 439; Dec. 13, 1928, ch. 26, 45 Stat. 1021; 1940 Reorg. Plan No. IV, § 11(c), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1237; Aug. 7, 1946, ch. 770, § 1(60), 60 Stat. 871; Pub. L. 96–88, title III, § 301(a)(2)(M), title V, § 507, Oct. 17, 1979, 93 Stat. 678, 692; Pub. L. 98–480, title II, § 208, Oct. 17, 1984, 98 Stat. 2247.)
+(Mar. 2, 1867, ch. 162, § 8, 14 Stat. 439; Dec. 13, 1928, ch. 26, 45 Stat. 1021; 1940 Reorg. Plan No. IV, § 11(c), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1237; Aug. 7, 1946, ch. 770, § 1(60), 60 Stat. 871; Pub. L. 96–88, title III, § 301(a)(2)(M), title V, § 507, Oct. 17, 1979, 93 Stat. 678, 692; Pub. L. 98–480, title II, § 208, Oct. 17, 1984, 98 Stat. 2247.)
 
 **Editorial Notes**
 
@@ -107,13 +107,13 @@ Office of Education created and placed in Department of the Interior by the act 
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
-Office of Education transferred to Federal Security Agency by Reorg. Plan No. I of 1939, §§ 201, 204, eff. July 1, 1939, set out in the Appendix to Title 5.
+Office of Education transferred to Federal Security Agency by Reorg. Plan No. I of 1939, §§ 201, 204, eff. July 1, 1939, set out in the Appendix to Title 5.
 
 **Reports Continued**
 
 Office of Education was directed to continue its inspections of Howard University in accordance with provisions of existing law, by Reorg. Plan No. IV of 1940, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 124. Transfer of Freedmen’s Hospital to Howard University
+### § 124. Transfer of Freedmen’s Hospital to Howard University
 
 **(a) Purpose; authorization; agreement**
 
@@ -127,7 +127,7 @@ It is the intent of Congress (1) that the transfer of Freedmen’s Hospital to H
 
 The Secretary of Health, Education, and Welfare shall report to the Congress the terms of the agreement for such transfer.
 
-(Pub. L. 87–262, § 1, Sept. 21, 1961, 75 Stat. 542.)
+(Pub. L. 87–262, § 1, Sept. 21, 1961, 75 Stat. 542.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -137,13 +137,13 @@ Functions of Secretary of Health, Education, and Welfare under laws relating to 
 
 **Repeal of Laws Applicable to Freedmen’s Hospital**
 
-Pub. L. 87–262, § 7, Sept. 21, 1961, 75 Stat. 544, provided that: “All laws heretofore applicable specifically to Freedmen’s Hospital are, to the extent of such applicability, repealed, effective with the transfer of Freedmen’s Hospital pursuant to section 1 [this section].”
+Pub. L. 87–262, § 7, Sept. 21, 1961, 75 Stat. 544, provided that: “All laws heretofore applicable specifically to Freedmen’s Hospital are, to the extent of such applicability, repealed, effective with the transfer of Freedmen’s Hospital pursuant to section 1 [this section].”
 
 **Transfer of Funds**
 
-Pub. L. 87–262, § 8, Sept. 21, 1961, 75 Stat. 544, provided that: “All unexpended balances of appropriations, allocations, and other funds, available or to be made available, of Freedmen’s Hospital are, effective with the transfer of Freedmen’s Hospital pursuant to section 1 [this section], transferred to Howard University for use in the operation of the Howard University Hospital facilities, except to the extent (determined by the Director of the Bureau of the Budget [Director of the Office of Management and Budget]) required to meet obligations already incurred and not assumed by the university.”
+Pub. L. 87–262, § 8, Sept. 21, 1961, 75 Stat. 544, provided that: “All unexpended balances of appropriations, allocations, and other funds, available or to be made available, of Freedmen’s Hospital are, effective with the transfer of Freedmen’s Hospital pursuant to section 1 [this section], transferred to Howard University for use in the operation of the Howard University Hospital facilities, except to the extent (determined by the Director of the Bureau of the Budget [Director of the Office of Management and Budget]) required to meet obligations already incurred and not assumed by the university.”
 
-### § 125. Employees of hospital
+### § 125. Employees of hospital
 
 **(a) Opportunity to transfer; guarantee of rights and benefits** The agreement for transfer of Freedmen’s Hospital referred to in section 124 of this title shall include provisions to assure that—
 
@@ -169,17 +169,17 @@ The Department of Health, Education, and Welfare shall make every reasonable eff
 
 Each individual who is an employee of Freedmen’s Hospital on September 21, 1961 and who transfers to Howard University shall, so long as he is continuously in the employ of Howard University, be regarded as continuing in the employ of the United States for the purposes of subchapter III of chapter 83 of title 5, chapter 87 of title 5. For purposes of section 3121(b) of title 26 and section 410 of title 42, service performed by such individual during the period of his employment at Howard University shall be regarded as though performed in the employ of the United States.
 
-(Pub. L. 87–262, § 2, Sept. 21, 1961, 75 Stat. 542; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 87–262, § 2, Sept. 21, 1961, 75 Stat. 542; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (a)(2)(B), “civil service retirement and disability fund referred to in section 8348 of title 5” substituted for “civil service retirement and disability fund required by the Act of May 22, 1920” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees. Previously, act May 22, 1920, ch. 195, 41 Stat. 614, was superseded by act May 29, 1930, known as the Civil Service Retirement Act of 1930, which was generally amended by act July 31, 1956, ch. 804, § 401, 70 Stat. 743.
+In subsec. (a)(2)(B), “civil service retirement and disability fund referred to in section 8348 of title 5” substituted for “civil service retirement and disability fund required by the Act of May 22, 1920” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees. Previously, act May 22, 1920, ch. 195, 41 Stat. 614, was superseded by act May 29, 1930, known as the Civil Service Retirement Act of 1930, which was generally amended by act July 31, 1956, ch. 804, § 401, 70 Stat. 743.
 
-In subsecs. (a)(2)(B) and (c), “subchapter III of chapter 83 of title 5” substituted for “the Civil Service Retirement Act” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
+In subsecs. (a)(2)(B) and (c), “subchapter III of chapter 83 of title 5” substituted for “the Civil Service Retirement Act” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
 
-In subsec. (a)(2)(B), “fund referred to in section 8714 of title 5” substituted for “the fund created by section 5(c) of the Federal Employees’ Group Life Insurance Act of 1954” and, in subsecs. (a)(2)(B) and (c), “chapter 87 of title 5” substituted for “the Federal Employees’ Group Life Insurance Act of 1954”, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
+In subsec. (a)(2)(B), “fund referred to in section 8714 of title 5” substituted for “the fund created by section 5(c) of the Federal Employees’ Group Life Insurance Act of 1954” and, in subsecs. (a)(2)(B) and (c), “chapter 87 of title 5” substituted for “the Federal Employees’ Group Life Insurance Act of 1954”, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
 
 **Amendments**
 
@@ -191,17 +191,17 @@ In subsec. (a)(2)(B), “fund referred to in section 8714 of title 5” substitu
 
 Functions of Secretary of Health, Education, and Welfare under laws relating to relationship between Howard University and Department of Health, Education, and Welfare transferred to Secretary of Education by section 3441(a)(2)(M) of this title.
 
-### § 126. Authorization of appropriations for construction of hospital facilities
+### § 126. Authorization of appropriations for construction of hospital facilities
 
 For the purpose specified in section 124 of this title, there are authorized to be appropriated such sums as may be necessary for the construction of a building or buildings and facilities, including equipment, and for remodeling of existing buildings (including repair and replacement of equipment) which are to be combined with the building or buildings and facilities so constructed, to provide a hospital with a capacity of not to exceed five hundred beds.
 
-(Pub. L. 87–262, § 3, Sept. 21, 1961, 75 Stat. 543.)
+(Pub. L. 87–262, § 3, Sept. 21, 1961, 75 Stat. 543.)
 
-### § 127. Transfer of facilities by University or cessation of operation as teaching hospital facilities; recovery of value by United States
+### § 127. Transfer of facilities by University or cessation of operation as teaching hospital facilities; recovery of value by United States
 
 If, within twenty years after the completion of construction (as determined by the Secretary of Health, Education, and Welfare) of the new hospital facilities authorized by section 126 of this title, any of such facilities, or of the facilities transferred pursuant to section 124 of this title and combined with such new facilities, are transferred by Howard University to any other person or entity (except a transfer to the United States) or cease to be operated by the university as teaching hospital facilities, the United States shall be entitled to recover from the transferee or the university, in the case of a transfer, or from the university, if there is no transfer, an amount equal to the then value of such facilities (or so much thereof as is involved in the transfer, as the case may be), such value to be determined by agreement of the parties or by action brought in the United States District Court for the District of Columbia.
 
-(Pub. L. 87–262, § 4, Sept. 21, 1961, 75 Stat. 543.)
+(Pub. L. 87–262, § 4, Sept. 21, 1961, 75 Stat. 543.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -209,23 +209,23 @@ If, within twenty years after the completion of construction (as determined by t
 
 Functions of Secretary of Health, Education, and Welfare under laws relating to relationship between Howard University and Department of Health, Education, and Welfare transferred to Secretary of Education by section 3441(a)(2)(M) of this title.
 
-### § 128. Authorization of appropriations for partial support of operation of facilities; separate account
+### § 128. Authorization of appropriations for partial support of operation of facilities; separate account
 
 In order to facilitate operation of teaching hospital facilities at Howard University, there are authorized to be appropriated annually to the university such sums as the Congress may determine, for the partial support of the operation of such facilities giving consideration to the cost imposed by the provisions of section 125 of this title and the portion of the agreement under sections 124 to 129 of this title relating to such provisions. The cost of operating such facilities, the appropriations pursuant to this section, and any other income derived from such operation or available for such purpose shall be identified and accounted for separately in the accounts of the university.
 
-(Pub. L. 87–262, § 5, Sept. 21, 1961, 75 Stat. 543.)
+(Pub. L. 87–262, § 5, Sept. 21, 1961, 75 Stat. 543.)
 
-### § 129. Financial policy; report to Congress
+### § 129. Financial policy; report to Congress
 
 It is declared to be the policy of the Congress that, to the extent consistent with good medical teaching practice, the Howard University Hospital facilities shall become progressively more self-supporting. In order to further this policy, the President shall submit to the Congress a report, based on a study of the financing of the operation of the hospital, containing his recommendations on the rate at which, consistent with the above policy, Federal financial participation in such cost of operation shall be reduced. Such report shall be submitted not later than the end of the second calendar year following the year in which the construction of the new hospital facilities, authorized by section 126 of this title, is completed.
 
-(Pub. L. 87–262, § 6, Sept. 21, 1961, 75 Stat. 544.)
+(Pub. L. 87–262, § 6, Sept. 21, 1961, 75 Stat. 544.)
 
-### § 130. Purchases through the General Services Administration
+### § 130. Purchases through the General Services Administration
 
 On and after September 8, 1978, Howard University is authorized to make purchases through the General Services Administration.
 
-(Pub. L. 95–355, title I, § 100, Sept. 8, 1978, 92 Stat. 531.)
+(Pub. L. 95–355, title I, § 100, Sept. 8, 1978, 92 Stat. 531.)
 
 **Editorial Notes**
 
@@ -233,11 +233,11 @@ On and after September 8, 1978, Howard University is authorized to make purchase
 
 Section is from the Second Supplemental Appropriations Act, 1978, and contained additional provisions relating to purchases by the American Printing House for the Blind, Gallaudet University, and the National Technical Institute for the Deaf, which are set out in sections 106 and 4362 of this title.
 
-### § 130a. Financial and program audit by Secretary
+### § 130a. Financial and program audit by Secretary
 
 Funds appropriated in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts to Howard University shall be subject to financial and program audit by the Secretary of Education and the Secretary may withhold all or any portion of these appropriations if he determines that an institution has not cooperated fully in the conduct of such audits.
 
-(Pub. L. 102–394, title III, § 301, Oct. 6, 1992, 106 Stat. 1819.)
+(Pub. L. 102–394, title III, § 301, Oct. 6, 1992, 106 Stat. 1819.)
 
 **Editorial Notes**
 
@@ -247,7 +247,7 @@ Section is from the Departments of Labor, Health and Human Services, and Educati
 
 ## SUBCHAPTER II—ENDOWMENT
 
-### § 130aa. Definitions
+### § 130aa. Definitions
 
 For purposes of this subchapter—
 
@@ -261,7 +261,7 @@ For purposes of this subchapter—
 
 **(5)** the term “University” means the Howard University established by the Act of March 2, 1867.
 
-(Pub. L. 98–480, title II, § 202, Oct. 17, 1984, 98 Stat. 2245.)
+(Pub. L. 98–480, title II, § 202, Oct. 17, 1984, 98 Stat. 2245.)
 
 **Editorial Notes**
 
@@ -273,13 +273,13 @@ Act of March 2, 1867, referred to in par. (5), is act Mar. 2, 1867, ch. 162, 14 
 
 **Effective Date**
 
-Pub. L. 98–480, title II, § 209, Oct. 17, 1984, 98 Stat. 2247, provided that: “This title [see Short Title note below] shall take effect on October 1, 1984.”
+Pub. L. 98–480, title II, § 209, Oct. 17, 1984, 98 Stat. 2247, provided that: “This title [see Short Title note below] shall take effect on October 1, 1984.”
 
 **Short Title**
 
-Pub. L. 98–480, title II, § 201, Oct. 17, 1984, 98 Stat. 2245, provided that: “This title [enacting this subchapter, amending section 123 of this title, and enacting provisions set out as a note above] may be cited as the ‘Howard University Endowment Act’.”
+Pub. L. 98–480, title II, § 201, Oct. 17, 1984, 98 Stat. 2245, provided that: “This title [enacting this subchapter, amending section 123 of this title, and enacting provisions set out as a note above] may be cited as the ‘Howard University Endowment Act’.”
 
-### § 130aa–1. Program authorized
+### § 130aa–1. Program authorized
 
 **(a)** The Secretary is authorized to establish an endowment program, in accordance with the provisions of this subchapter, for the purpose of establishing or increasing endowment funds, providing additional incentives to promote fundraising activities, and encouraging independence and self-sufficiency at the University.
 
@@ -291,17 +291,17 @@ Pub. L. 98–480, title II, § 201, Oct. 17, 1984, 98 Stat. 2245, provided tha
 
 **(3)** The period of any grant under this section shall not exceed twenty years, and during such period the University shall not withdraw or expend any of its endowment fund corpus. Upon the expiration of any grant period, the University may use the endowment fund corpus plus any endowment fund income for any educational purpose.
 
-(Pub. L. 98–480, title II, § 203, Oct. 17, 1984, 98 Stat. 2245.)
+(Pub. L. 98–480, title II, § 203, Oct. 17, 1984, 98 Stat. 2245.)
 
-### § 130aa–2. Investments
+### § 130aa–2. Investments
 
 **(a)** The University shall invest its endowment fund corpus and endowment fund income in those low-risk instruments and securities in which a regulated insurance company may invest under the law of the District of Columbia, such as federally insured bank savings account or comparable interest bearing account, certificate of deposit, money market fund, mutual fund, or obligations of the United States.
 
 **(b)** The University, in investing its endowment fund corpus and income, shall exercise the judgment and care, under circumstances then prevailing, which a person of prudence, discretion, and intelligence would exercise in the management of his own business affairs.
 
-(Pub. L. 98–480, title II, § 204, Oct. 17, 1984, 98 Stat. 2246.)
+(Pub. L. 98–480, title II, § 204, Oct. 17, 1984, 98 Stat. 2246.)
 
-### § 130aa–3. Withdrawals and expenditures
+### § 130aa–3. Withdrawals and expenditures
 
 **(a) Defrayment of expenses; restrictions on use of income or corpus; limits on withdrawals or expenditures**
 
@@ -321,9 +321,9 @@ The University may withdraw and expend its endowment fund income to defray any e
 
 **(2)** The University shall not withdraw or expend any endowment fund corpus. If the University withdraws or expends any endowment fund corpus, the University shall repay the Secretary an amount equal to 50 per centum of the amount withdrawn or expended (representing the Federal share thereof) plus any income earned thereon.
 
-(Pub. L. 98–480, title II, § 205, Oct. 17, 1984, 98 Stat. 2246.)
+(Pub. L. 98–480, title II, § 205, Oct. 17, 1984, 98 Stat. 2246.)
 
-### § 130aa–4. Enforcement
+### § 130aa–4. Enforcement
 
 **(a)** After notice and an opportunity for a hearing, the Secretary is authorized to terminate and recover any grant awarded under this subchapter if the University—
 
@@ -333,13 +333,13 @@ The University may withdraw and expend its endowment fund income to defray any e
 
 **(3)** fails to account properly to the Secretary concerning investments and expenditures of its endowment fund corpus or income.
 
-**(b)** If the Secretary terminates a grant under subsection (a), the University shall return to the Treasury of the United States an amount equal to the sum of the original grant or grants under this subchapter 1
+**(b)** If the Secretary terminates a grant under subsection (a), the University shall return to the Treasury of the United States an amount equal to the sum of the original grant or grants under this subchapter 1
 
-<sup>1</sup>  See Codification note below.
+<sup>1</sup> See Codification note below.
 
 plus any income earned thereon. The Secretary may direct the University to take such other appropriate measures to remedy any violation of this subchapter and to protect the financial interest of the United States.
 
-(Pub. L. 98–480, title II, § 206, Oct. 17, 1984, 98 Stat. 2247.)
+(Pub. L. 98–480, title II, § 206, Oct. 17, 1984, 98 Stat. 2247.)
 
 **Editorial Notes**
 
@@ -347,8 +347,8 @@ plus any income earned thereon. The Secretary may direct the University to take 
 
 This subchapter, the first time it appears in subsec. (b), was in the original “this Act” which was translated as reading “this title”, meaning title II of Pub. L. 98–480, Oct. 17, 1984, 98 Stat. 2236, as the probable intent of Congress.
 
-### § 130aa–5. Authorization of appropriations
+### § 130aa–5. Authorization of appropriations
 
 There is authorized to be appropriated $2,000,000 for the purposes authorized under section 130aa–1 of this title. Funds appropriated under this section shall remain available until expended.
 
-(Pub. L. 98–480, title II, § 207, Oct. 17, 1984, 98 Stat. 2247.)
+(Pub. L. 98–480, title II, § 207, Oct. 17, 1984, 98 Stat. 2247.)

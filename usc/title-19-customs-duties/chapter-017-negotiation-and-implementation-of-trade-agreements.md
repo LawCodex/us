@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 17—NEGOTIATION AND IMPLEMENTATION OF TRADE AGREEMENTS
 
-## § 2901. Overall and principal trade negotiating objectives of the United States
+## § 2901. Overall and principal trade negotiating objectives of the United States
 
 **(a) Overall trade negotiating objectives** The overall trade negotiating objectives of the United States are to obtain—
 
@@ -195,17 +195,17 @@ is without prejudice to other complementary initiatives undertaken in other inte
 
 The principal negotiating objective of the United States regarding border taxes is to obtain a revision of the GATT with respect to the treatment of border adjustments for internal taxes to redress the disadvantage to countries relying primarily for revenue on direct taxes rather than indirect taxes.
 
-(Pub. L. 100–418, title I, § 1101, Aug. 23, 1988, 102 Stat. 1121.)
+(Pub. L. 100–418, title I, § 1101, Aug. 23, 1988, 102 Stat. 1121.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 100–418, § 1(a), Aug. 23, 1988, 102 Stat. 1107, provided that: “This Act [see Tables for classification] may be cited as the ‘Omnibus Trade and Competitiveness Act of 1988’.”
+Pub. L. 100–418, § 1(a), Aug. 23, 1988, 102 Stat. 1107, provided that: “This Act [see Tables for classification] may be cited as the ‘Omnibus Trade and Competitiveness Act of 1988’.”
 
 **Findings and Purposes of Trade, Customs, and Tariff Laws**
 
-Pub. L. 100–418, title I, § 1001, Aug. 23, 1988, 102 Stat. 1119, provided that:
+Pub. L. 100–418, title I, § 1001, Aug. 23, 1988, 102 Stat. 1119, provided that:
 
 > **“(a) Findings.—** The Congress finds that—
 
@@ -313,7 +313,7 @@ Sec. 3–201. *Authority to Review Certain Mergers, Acquisitions, and Takeovers.
 
 (C) By deleting, from the third sentence in Section 1(a), the phrase “representative of the”.
 
-(D) By deleting “and” at the end of subparagraph (3) of Section 1(b), by substituting “; and” for the period at the end of subparagraph (4) of that Section, and by adding a new subparagraph (5) as follows: “(5) coordinate the views of the Executive Branch and discharge the responsibilities with respect to Section 721(a) and (e) of the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061 *et seq*.) [now 50 U.S.C. 4501 et seq.] (“Defense Production Act”).”
+(D) By deleting “and” at the end of subparagraph (3) of Section 1(b), by substituting “; and” for the period at the end of subparagraph (4) of that Section, and by adding a new subparagraph (5) as follows: “(5) coordinate the views of the Executive Branch and discharge the responsibilities with respect to Section 721(a) and (e) of the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061 *et seq*.) [now 50 U.S.C. 4501 et seq.] (“Defense Production Act”).”
 
 (E) By adding the following sentence at the end of Section 5: “Information or documentary material filed pursuant to Section 1(b)(5) or Section 7 of this Order shall be treated in accordance with paragraph (b) of Section 721 of the Defense Production Act.”
 
@@ -339,7 +339,7 @@ Sec. 3–301. *Reporting Requirement on Semiconductors, Fiber Optics and Superco
 
 (4) The Office of Science and Technology Policy (“OSTP”) shall provide the Secretary of Commerce with appropriate policy guidance in the technical areas of the report, including a summary of the criteria used to select research projects within an agency and among agencies, and the results of any studies conducted by OSTP, or by others if OSTP deems them to be relevant, which analyze the influence of the Federal research programs in the technical areas of the report.
 
-Sec. 3–401. [Revoked by Ex. Ord. No. 12774, § 3(a), Sept. 27, 1991, 56 F.R. 49835]
+Sec. 3–401. [Revoked by Ex. Ord. No. 12774, § 3(a), Sept. 27, 1991, 56 F.R. 49835]
 
 **PART IV—EDUCATION AND TRAINING FOR AMERICAN COMPETITIVENESS**
 
@@ -367,7 +367,7 @@ Sec. 5–401. *Strengthening International Institutions*. To the extent possible
 
 Sec. 5–501. *Effective Date*. This Order shall take effect at 12:01 a.m. on Wednesday, December 28, 1988.
 
-## § 2902. Trade agreement negotiating authority
+## § 2902. Trade agreement negotiating authority
 
 **(a) Agreements regarding tariff barriers**
 
@@ -483,13 +483,13 @@ No proclamation under subsection (a) to carry out the provisions regarding tarif
 
 The report required under section 2155(e)(1) of this title regarding any trade agreement provided for under paragraph (1) shall be provided to the President, the Congress, and the United States Trade Representative not later than 30 days after the date on which the President notifies the Congress under section 2903(a)(1)(A) of this title of his intention to enter into the agreement (but before January 15, 1994).
 
-(Pub. L. 100–418, title I, § 1102, Aug. 23, 1988, 102 Stat. 1126; Pub. L. 101–382, title I, § 139(b), Aug. 20, 1990, 104 Stat. 653; Pub. L. 103–49, § 1, July 2, 1993, 107 Stat. 239.)
+(Pub. L. 100–418, title I, § 1102, Aug. 23, 1988, 102 Stat. 1126; Pub. L. 101–382, title I, § 139(b), Aug. 20, 1990, 104 Stat. 653; Pub. L. 103–49, § 1, July 2, 1993, 107 Stat. 239.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This title, referred to in subsecs. (a)(1), (b)(1), and (d)(2)(B), is title I (§ 1001 et seq.) of Pub. L. 100–418, see note below. For complete classification of this title to the Code, see Tables.
+This title, referred to in subsecs. (a)(1), (b)(1), and (d)(2)(B), is title I (§ 1001 et seq.) of Pub. L. 100–418, see note below. For complete classification of this title to the Code, see Tables.
 
 This Act, referred to in subsec. (c)(5), is Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1107, known as the Omnibus Trade and Competitiveness Act of 1988. For complete classification of this Act to the Code, see Tables.
 
@@ -499,7 +499,7 @@ This Act, referred to in subsec. (c)(5), is Pub. L. 100–418, Aug. 23, 1988, 10
 
 1990—Subsec. (c)(4). Pub. L. 101–382 substituted “paragraph (3)(C)” for “paragraph (3)(B)” and “2903(e)” for “2903(f)”.
 
-## § 2903. Implementation of trade agreements
+## § 2903. Implementation of trade agreements
 
 **(a) In general**
 
@@ -573,7 +573,7 @@ This Act, referred to in subsec. (c)(5), is Pub. L. 100–418, Aug. 23, 1988, 10
 
 **(5)**
 
-**(A)** For purposes of this subsection, the term “extension disapproval resolution” means a resolution of either House of the Congress, the sole matter after the resolving clause of which is as follows: “That the            disapproves the request of the President for the extension, under section 1103(b)(1)(B)(i) of the Omnibus Trade and Competitiveness Act of 1988, of the provisions of section 151 of the Trade Act of 1974 to any implementing bill submitted with respect to any trade agreement entered into under section 1102(b) or (c) of such Act after May 31, 1991, because sufficient tangible progress has not been made in trade negotiations.”, with the blank space being filled with the name of the resolving House of the Congress.
+**(A)** For purposes of this subsection, the term “extension disapproval resolution” means a resolution of either House of the Congress, the sole matter after the resolving clause of which is as follows: “That the disapproves the request of the President for the extension, under section 1103(b)(1)(B)(i) of the Omnibus Trade and Competitiveness Act of 1988, of the provisions of section 151 of the Trade Act of 1974 to any implementing bill submitted with respect to any trade agreement entered into under section 1102(b) or (c) of such Act after May 31, 1991, because sufficient tangible progress has not been made in trade negotiations.”, with the blank space being filled with the name of the resolving House of the Congress.
 
 **(B)** Extension disapproval resolutions—
 
@@ -613,7 +613,7 @@ This Act, referred to in subsec. (c)(5), is Pub. L. 100–418, Aug. 23, 1988, 10
 
 **(D)** It is not in order for the House of Representatives to consider any procedural disapproval resolution not reported by the Committee on Ways and Means and the Committee on Rules.
 
-**(E)** For purposes of this subsection, the term “procedural disapproval resolution” means a resolution of either House of the Congress, the sole matter after the resolving clause of which is as follows: “That the President has failed or refused to consult with Congress on trade negotiations and trade agreements in accordance with the provisions of the Omnibus Trade and Competitiveness Act of 1988, and, therefore, the provisions of section 151 of the Trade Act of 1974 shall not apply to any implementing bill submitted with respect to any trade agreement entered into under section 1102(b) or (c) of such Act of 1988, if, during the 60-day period beginning on the date on which this resolution is agreed to by the           , the            agrees to a procedural disapproval resolution (within the meaning of section 1103(c)(1)(E) of such Act of 1988).”, with the first blank space being filled with the name of the resolving House of the Congress and the second blank space being filled with the name of the other House of the Congress.
+**(E)** For purposes of this subsection, the term “procedural disapproval resolution” means a resolution of either House of the Congress, the sole matter after the resolving clause of which is as follows: “That the President has failed or refused to consult with Congress on trade negotiations and trade agreements in accordance with the provisions of the Omnibus Trade and Competitiveness Act of 1988, and, therefore, the provisions of section 151 of the Trade Act of 1974 shall not apply to any implementing bill submitted with respect to any trade agreement entered into under section 1102(b) or (c) of such Act of 1988, if, during the 60-day period beginning on the date on which this resolution is agreed to by the , the agrees to a procedural disapproval resolution (within the meaning of section 1103(c)(1)(E) of such Act of 1988).”, with the first blank space being filled with the name of the resolving House of the Congress and the second blank space being filled with the name of the other House of the Congress.
 
 **(2)** The fast track procedures shall not apply to any implementing bill that contains a provision approving of any trade agreement which is entered into under section 2902(c) of this title with any foreign country if either—
 
@@ -633,19 +633,19 @@ This Act, referred to in subsec. (c)(5), is Pub. L. 100–418, Aug. 23, 1988, 10
 
 **(2)** any Saturday and Sunday, not excluded under paragraph (1), when either House of the Congress is not in session.
 
-(Pub. L. 100–418, title I, § 1103, Aug. 23, 1988, 102 Stat. 1128.)
+(Pub. L. 100–418, title I, § 1103, Aug. 23, 1988, 102 Stat. 1128.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This title, referred to in subsecs. (a)(2)(B)(i) and (b)(2)(B), (3)(A), is title I (§ 1001 et seq.) of Pub. L. 100–418, see note below. For complete classification of this title to the Code, see Tables.
+This title, referred to in subsecs. (a)(2)(B)(i) and (b)(2)(B), (3)(A), is title I (§ 1001 et seq.) of Pub. L. 100–418, see note below. For complete classification of this title to the Code, see Tables.
 
 The Omnibus Trade and Competitiveness Act of 1988, referred to in subsecs. (b)(5)(A) and (c)(1)(E), is Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1107. Sections 1102(b) and (c) and 1103(b)(1)(B)(i) and (c)(1)(E) of such Act are classified to sections 2902(b) and (c) and 2903(b)(1)(B)(i) and (c)(1)(E) of this title, respectively. For complete classification of this Act to the Code, see Tables.
 
 Section 151 of the Trade Act of 1974, referred to in subsecs. (b)(5)(A) and (c)(1)(E), is classified to section 2191 of this title.
 
-## § 2904. Termination and reservation authority; reciprocal nondiscriminatory treatment
+## § 2904. Termination and reservation authority; reciprocal nondiscriminatory treatment
 
 **(a) In general** For purposes of applying sections 2135, 2136(a), and 2137 of this title—
 
@@ -665,9 +665,9 @@ Section 151 of the Trade Act of 1974, referred to in subsecs. (b)(5)(A) and (c)(
 
 **(3)** For purposes of this subsection, the term “major industrial country” means Canada, the European Communities, the individual member countries of the European Communities, Japan, and any other foreign country designated by the President for purposes of this subsection.
 
-(Pub. L. 100–418, title I, § 1105, Aug. 23, 1988, 102 Stat. 1132.)
+(Pub. L. 100–418, title I, § 1105, Aug. 23, 1988, 102 Stat. 1132.)
 
-## § 2905. Accession of state trading regimes to General Agreement on Tariffs and Trade or WTO
+## § 2905. Accession of state trading regimes to General Agreement on Tariffs and Trade or WTO
 
 **(a) In general** Before any major foreign country accedes, after August 23, 1988, to the GATT 1947, or to the WTO Agreement, the President shall determine—
 
@@ -723,7 +723,7 @@ The President shall publish in the Federal Register each determination made unde
 
 **(2)** The term “WTO Agreement” means the Agreement Establishing the World Trade Organization entered into on April 15, 1994 and the multilateral trade agreements (as such term is defined in section 3501(4) of this title).
 
-(Pub. L. 100–418, title I, § 1106, Aug. 23, 1988, 102 Stat. 1133; Pub. L. 103–465, title VI, § 621(a)(4), Dec. 8, 1994, 108 Stat. 4993; Pub. L. 104–295, § 20(f)(3), Oct. 11, 1996, 110 Stat. 3529.)
+(Pub. L. 100–418, title I, § 1106, Aug. 23, 1988, 102 Stat. 1133; Pub. L. 103–465, title VI, § 621(a)(4), Dec. 8, 1994, 108 Stat. 4993; Pub. L. 104–295, § 20(f)(3), Oct. 11, 1996, 110 Stat. 3529.)
 
 **Editorial Notes**
 
@@ -731,13 +731,13 @@ The President shall publish in the Federal Register each determination made unde
 
 1996—Pub. L. 104–295 substituted “or WTO” for “for WTO” in section catchline.
 
-1994—Pub. L. 103–465, § 621(a)(4)(D), inserted “for WTO” after “Trade” in section catchline.
+1994—Pub. L. 103–465, § 621(a)(4)(D), inserted “for WTO” after “Trade” in section catchline.
 
-Subsec. (a). Pub. L. 103–465, § 621(a)(4)(A), substituted “the GATT 1947, or to the WTO Agreement,” for “the GATT” in introductory provisions.
+Subsec. (a). Pub. L. 103–465, § 621(a)(4)(A), substituted “the GATT 1947, or to the WTO Agreement,” for “the GATT” in introductory provisions.
 
-Subsecs. (b), (c). Pub. L. 103–465, § 621(a)(4)(B), inserted “1947 or the WTO Agreement” after “the GATT” wherever appearing.
+Subsecs. (b), (c). Pub. L. 103–465, § 621(a)(4)(B), inserted “1947 or the WTO Agreement” after “the GATT” wherever appearing.
 
-Subsec. (e). Pub. L. 103–465, § 621(a)(4)(C), added subsec. (e).
+Subsec. (e). Pub. L. 103–465, § 621(a)(4)(C), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -767,7 +767,7 @@ Ukraine.—Determination of President of the United States, No. 2008–17, Mar. 
 
 Vietnam.—Memorandum of President of the United States, Nov. 6, 2006, 71 F.R. 66223.
 
-## § 2906. Definitions
+## § 2906. Definitions
 
 For purposes of this chapter:
 
@@ -801,13 +801,13 @@ For purposes of this chapter:
 
 **(iii)** purchases goods or services in international trade for any purpose other than the use of such goods or services by such foreign country, agency, instrumentality, or administrative unit, or which sells goods or services in international trade.
 
-(Pub. L. 100–418, title I, § 1107, Aug. 23, 1988, 102 Stat. 1134; Pub. L. 103–465, title VI, § 621(a)(5), Dec. 8, 1994, 108 Stat. 4993.)
+(Pub. L. 100–418, title I, § 1107, Aug. 23, 1988, 102 Stat. 1134; Pub. L. 103–465, title VI, § 621(a)(5), Dec. 8, 1994, 108 Stat. 4993.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this part”, meaning part 1 (§§ 1101 to 1107) of subtitle A of title I of Pub. L. 100–418, which enacted this chapter and amended sections 2131, 2133, and 2191 of this title. For complete classification of part 1 to the Code, see Tables.
+This chapter, referred to in text, was in the original “this part”, meaning part 1 (§§ 1101 to 1107) of subtitle A of title I of Pub. L. 100–418, which enacted this chapter and amended sections 2131, 2133, and 2191 of this title. For complete classification of part 1 to the Code, see Tables.
 
 **Codification**
 

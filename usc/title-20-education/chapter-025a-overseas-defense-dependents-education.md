@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 25A—OVERSEAS DEFENSE DEPENDENTS’ EDUCATION
 
-## § 921. Defense dependents’ education system
+## § 921. Defense dependents’ education system
 
 **(a) Establishment**
 
@@ -55,7 +55,7 @@ The Secretary of Defense shall consult with the Secretary of Education on the ed
 
 In addition to carrying out the requirement under section 1769b of title 42 to administer lunch programs in certain dependents’ schools, the Secretary of Defense may administer a school breakfast program for students attending a school of the defense dependents’ education system.
 
-(Pub. L. 95–561, title XIV, § 1402, Nov. 1, 1978, 92 Stat. 2365; Pub. L. 99–145, title XII, § 1204(b)(1), Nov. 8, 1985, 99 Stat. 720; Pub. L. 102–484, div. A, title III, § 382, Oct. 23, 1992, 106 Stat. 2392; Pub. L. 106–65, div. A, title III, § 354(1), Oct. 5, 1999, 113 Stat. 572; Pub. L. 107–314, div. A, title III, § 343, Dec. 2, 2002, 116 Stat. 2515; Pub. L. 118–159, div. A, title V, § 594(b), Dec. 23, 2024, 138 Stat. 1919.)
+(Pub. L. 95–561, title XIV, § 1402, Nov. 1, 1978, 92 Stat. 2365; Pub. L. 99–145, title XII, § 1204(b)(1), Nov. 8, 1985, 99 Stat. 720; Pub. L. 102–484, div. A, title III, § 382, Oct. 23, 1992, 106 Stat. 2392; Pub. L. 106–65, div. A, title III, § 354(1), Oct. 5, 1999, 113 Stat. 572; Pub. L. 107–314, div. A, title III, § 343, Dec. 2, 2002, 116 Stat. 2515; Pub. L. 118–159, div. A, title V, § 594(b), Dec. 23, 2024, 138 Stat. 1919.)
 
 **Editorial Notes**
 
@@ -79,7 +79,7 @@ This chapter, referred to in subsec. (a), was in the original “this title”, 
 
 **Effective Date**
 
-Pub. L. 95–561, title XIV, § 1415, Nov. 1, 1978, 92 Stat. 2373, provided that:
+Pub. L. 95–561, title XIV, § 1415, Nov. 1, 1978, 92 Stat. 2373, provided that:
 
 > **“(a)**
 
@@ -91,11 +91,11 @@ Pub. L. 95–561, title XIV, § 1415, Nov. 1, 1978, 92 Stat. 2373, provided th
 
 **Short Title**
 
-Pub. L. 95–561, title XIV, § 1401, Nov. 1, 1978, 92 Stat. 2365, provided that: “This title [enacting this chapter, section 429 of Title 37, Pay and Allowances of the Uniformed Services, and section 1769b of Title 42, The Public Health and Welfare, amending sections 1773 and 1789 of Title 42, and enacting provisions set out as a note under this section] may be cited as the ‘Defense Dependents’ Education Act of 1978’.”
+Pub. L. 95–561, title XIV, § 1401, Nov. 1, 1978, 92 Stat. 2365, provided that: “This title [enacting this chapter, section 429 of Title 37, Pay and Allowances of the Uniformed Services, and section 1769b of Title 42, The Public Health and Welfare, amending sections 1773 and 1789 of Title 42, and enacting provisions set out as a note under this section] may be cited as the ‘Defense Dependents’ Education Act of 1978’.”
 
 **Department of Defense Education Activity Policies and Procedures on Sexual Harassment of Students of Activity Schools**
 
-Pub. L. 115–232, div. A, title V, § 562, Aug. 13, 2018, 132 Stat. 1776, provided that:
+Pub. L. 115–232, div. A, title V, § 562, Aug. 13, 2018, 132 Stat. 1776, provided that:
 
 > **“(a) Applicability of Title IX Protections.—** The provisions of title IX of the Education Amendments of 1972 (20 U.S.C. 1681 et seq.) (in this section referred to as ‘title IX’) with respect to education programs or activities receiving Federal financial assistance shall apply equally to education programs and activities administered by the Department of Defense Education Activity (DODEA).
 
@@ -129,7 +129,7 @@ Pub. L. 115–232, div. A, title V, § 562, Aug. 13, 2018, 132 Stat. 1776, pro
 
 **Department of Defense Education Activity Misconduct Database**
 
-Pub. L. 115–232, div. A, title V, § 563, Aug. 13, 2018, 132 Stat. 1777, provided that:
+Pub. L. 115–232, div. A, title V, § 563, Aug. 13, 2018, 132 Stat. 1777, provided that:
 
 > **“(a) Comprehensive Database.—** The Secretary of Defense shall consolidate the various databases and mechanisms for the reporting and tracking of juvenile misconduct in Department of Defense Education Activity (hereinafter in this section referred to as ‘DODEA’) schools into one comprehensive database for DODEA juvenile misconduct. The comprehensive database shall include all unresolved and all substantiated allegations of juvenile-on-juvenile sexual misconduct.
 
@@ -137,7 +137,7 @@ Pub. L. 115–232, div. A, title V, § 563, Aug. 13, 2018, 132 Stat. 1777, pro
 
 **Report on Condition of Schools Under Jurisdiction of Department of Defense Education Activity**
 
-Pub. L. 110–181, div. B, title XXVIII, § 2879, Jan. 28, 2008, 122 Stat. 564, provided that:
+Pub. L. 110–181, div. B, title XXVIII, § 2879, Jan. 28, 2008, 122 Stat. 564, provided that:
 
 > **“(a) Report Required.—** Not later than March 1, 2008, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the conditions of schools under the jurisdiction of the Department of Defense Education Activity.
 
@@ -157,9 +157,9 @@ Pub. L. 110–181, div. B, title XXVIII, § 2879, Jan. 28, 2008, 122 Stat. 564
 
 **Pilot Program on Private Operation of Defense Dependents’ Schools**
 
-Pub. L. 104–106, div. A, title III, § 355, Feb. 10, 1996, 110 Stat. 269, provided that the Secretary of Defense could conduct a pilot program to evaluate the feasibility of using private contractors to operate overseas schools of the defense dependents’ education system established under this section, subject to certain conditions and providing that no later than 30 days after the end of the first school year in which the pilot program is conducted, the Secretary would submit to Congress a report on the results of the program and a recommendation of the extent to which other schools of the defense dependents’ education system should be operated by private contractors.
+Pub. L. 104–106, div. A, title III, § 355, Feb. 10, 1996, 110 Stat. 269, provided that the Secretary of Defense could conduct a pilot program to evaluate the feasibility of using private contractors to operate overseas schools of the defense dependents’ education system established under this section, subject to certain conditions and providing that no later than 30 days after the end of the first school year in which the pilot program is conducted, the Secretary would submit to Congress a report on the results of the program and a recommendation of the extent to which other schools of the defense dependents’ education system should be operated by private contractors.
 
-## § 922. Administration of defense dependents’ education system
+## § 922. Administration of defense dependents’ education system
 
 **(a) Operation; Director**
 
@@ -191,41 +191,41 @@ Except with respect to the authority to prescribe regulations, the Secretary of 
 
 **(3)** Subject to the approval of the Secretary of Defense, the Department of Defense Education Activity is authorized an appropriate number of civilian employees in its central office and such regional or area office as are established pursuant to paragraph (1).
 
-(Pub. L. 95–561, title XIV, § 1403, Nov. 1, 1978, 92 Stat. 2365; Pub. L. 106–65, div. A, title III, § 354(2), Oct. 5, 1999, 113 Stat. 572; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(g)(8)], Oct. 30, 2000, 114 Stat. 1654, 1654A–294.)
+(Pub. L. 95–561, title XIV, § 1403, Nov. 1, 1978, 92 Stat. 2365; Pub. L. 106–65, div. A, title III, § 354(2), Oct. 5, 1999, 113 Stat. 572; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(g)(8)], Oct. 30, 2000, 114 Stat. 1654, 1654A–294.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Defense Department Overseas Teachers Pay and Personnel Practices Act, referred to in subsec. (c)(1), is Pub. L. 86–91, July 17, 1959, 73 Stat. 213, which is classified generally to chapter 25 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 901 of this title and Tables.
+The Defense Department Overseas Teachers Pay and Personnel Practices Act, referred to in subsec. (c)(1), is Pub. L. 86–91, July 17, 1959, 73 Stat. 213, which is classified generally to chapter 25 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 901 of this title and Tables.
 
 **Amendments**
 
 2000—Subsec. (c)(6). Pub. L. 106–398 struck out “the” before “the Assistant Secretary of Defense”.
 
-1999—Pub. L. 106–65, § 354(2)(A), amended section catchline.
+1999—Pub. L. 106–65, § 354(2)(A), amended section catchline.
 
-Subsec. (a). Pub. L. 106–65, § 354(2)(A), added subsec. (a) and struck out former subsec. (a) which read as follows:
+Subsec. (a). Pub. L. 106–65, § 354(2)(A), added subsec. (a) and struck out former subsec. (a) which read as follows:
 
 “(1) There is established within the Department of Defense an office to be known as the Office of Dependents’ Education.
 
 “(2) The Office of Dependents’ Education shall be headed by a Director of Dependents’ Education (hereinafter in this chapter referred to as the ‘Director’), who shall be a civilian and who shall be selected by the Secretary of Defense and shall report to the Assistant Secretary of Defense for Manpower, Reserve Affairs, and Logistics.”
 
-Subsec. (b). Pub. L. 106–65, § 354(2)(B), made technical amendment to reference in original act which appears in text as reference to this chapter.
+Subsec. (b). Pub. L. 106–65, § 354(2)(B), made technical amendment to reference in original act which appears in text as reference to this chapter.
 
-Subsec. (c)(1). Pub. L. 106–65, § 354(2)(C), inserted “(20 U.S.C. 901 et seq.)” after “Personnel Practices Act”.
+Subsec. (c)(1). Pub. L. 106–65, § 354(2)(C), inserted “(20 U.S.C. 901 et seq.)” after “Personnel Practices Act”.
 
-Subsec. (c)(2). Pub. L. 106–65, § 354(2)(D), substituted a comma for the period at end.
+Subsec. (c)(2). Pub. L. 106–65, § 354(2)(D), substituted a comma for the period at end.
 
-Subsec. (c)(6). Pub. L. 106–65, § 354(2)(E), substituted “the Assistant Secretary of Defense designated under subsection (a)” for “Assistant Secretary of Defense for Manpower, Reserve Affairs, and Logistics”.
+Subsec. (c)(6). Pub. L. 106–65, § 354(2)(E), substituted “the Assistant Secretary of Defense designated under subsection (a)” for “Assistant Secretary of Defense for Manpower, Reserve Affairs, and Logistics”.
 
-Subsec. (d)(1). Pub. L. 106–65, § 354(2)(F), struck out “for the Office of Dependents’ Education” after “area offices”.
+Subsec. (d)(1). Pub. L. 106–65, § 354(2)(F), struck out “for the Office of Dependents’ Education” after “area offices”.
 
-Subsec. (d)(2). Pub. L. 106–65, § 354(2)(G), struck out first sentence which read: “Not later than six months after November 1, 1978, the Secretary of Defense shall submit to the Congress a report (A) describing the organization of the Office of Dependents’ Education in accordance with paragraph (1), (B) describing the assignment of personnel to the central office of the Office of Dependents’ Education and to such regional or area offices as are established pursuant to paragraph (1), and (C) detailing the personnel requirements of the defense dependents’ education system.” and substituted “Whenever the Department of Defense Education Activity” for “Whenever the Office of Dependents’ Education”, “in a manner that affects the defense dependents’ education system” for “after the submission of the report required under the preceding sentence”, and “a report” for “an additional report”.
+Subsec. (d)(2). Pub. L. 106–65, § 354(2)(G), struck out first sentence which read: “Not later than six months after November 1, 1978, the Secretary of Defense shall submit to the Congress a report (A) describing the organization of the Office of Dependents’ Education in accordance with paragraph (1), (B) describing the assignment of personnel to the central office of the Office of Dependents’ Education and to such regional or area offices as are established pursuant to paragraph (1), and (C) detailing the personnel requirements of the defense dependents’ education system.” and substituted “Whenever the Department of Defense Education Activity” for “Whenever the Office of Dependents’ Education”, “in a manner that affects the defense dependents’ education system” for “after the submission of the report required under the preceding sentence”, and “a report” for “an additional report”.
 
-Subsec. (d)(3). Pub. L. 106–65, § 354(2)(H), substituted “the Department of Defense Education Activity” for “the Office of Dependents’ Education”.
+Subsec. (d)(3). Pub. L. 106–65, § 354(2)(H), substituted “the Department of Defense Education Activity” for “the Office of Dependents’ Education”.
 
-## § 923. Space-available enrollment of students; tuition
+## § 923. Space-available enrollment of students; tuition
 
 **(a) Enrollment of ineligible child in system school**
 
@@ -279,7 +279,7 @@ Subject to subsection (b) and in accordance with regulations issued under subsec
 
 **(2)** Notwithstanding subsection (c), the Secretary may not waive the tuition requirements of subsection (b)(1) with respect to children referred to in paragraph (1).
 
-(Pub. L. 95–561, title XIV, § 1404, Nov. 1, 1978, 92 Stat. 2366; Pub. L. 99–145, title XII, § 1205, Nov. 8, 1985, 99 Stat. 721; Pub. L. 101–189, div. A, title III, § 325(b), Nov. 29, 1989, 103 Stat. 1415; Pub. L. 108–136, div. A, title V, § 563, Nov. 24, 2003, 117 Stat. 1483; Pub. L. 119–60, div. A, title V, § 582(a), Dec. 18, 2025, 139 Stat. 888.)
+(Pub. L. 95–561, title XIV, § 1404, Nov. 1, 1978, 92 Stat. 2366; Pub. L. 99–145, title XII, § 1205, Nov. 8, 1985, 99 Stat. 721; Pub. L. 101–189, div. A, title III, § 325(b), Nov. 29, 1989, 103 Stat. 1415; Pub. L. 108–136, div. A, title V, § 563, Nov. 24, 2003, 117 Stat. 1483; Pub. L. 119–60, div. A, title V, § 582(a), Dec. 18, 2025, 139 Stat. 888.)
 
 **Editorial Notes**
 
@@ -287,9 +287,9 @@ Subject to subsection (b) and in accordance with regulations issued under subsec
 
 2025—Subsec. (d)(1)(D). Pub. L. 119–60 added subpar. (D).
 
-2003—Pub. L. 108–136, § 563(b), substituted “Space-available enrollment of students; tuition” for “Tuition-paying students” in section catchline.
+2003—Pub. L. 108–136, § 563(b), substituted “Space-available enrollment of students; tuition” for “Tuition-paying students” in section catchline.
 
-Subsec. (c). Pub. L. 108–136, § 563(a), designated existing provisions as par. (1) and added par. (2).
+Subsec. (c). Pub. L. 108–136, § 563(a), designated existing provisions as par. (1) and added par. (2).
 
 1989—Subsec. (d)(1)(A). Pub. L. 101–189 substituted “(other than civilian officers and employees who are sponsors under section 932(2) of this title)” for “(including employees of nonappropriated fund activities of the Department of Defense)”.
 
@@ -299,9 +299,9 @@ Subsec. (c). Pub. L. 108–136, § 563(a), designated existing provisions as p
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–189, div. A, title III, § 325(c), Nov. 29, 1989, 103 Stat. 1415, provided that: “The amendments made by this section [amending this section and section 932 of this title] shall apply with respect to periods of enrollment in schools of the defense dependents’ education system beginning after September 30, 1989.”
+Pub. L. 101–189, div. A, title III, § 325(c), Nov. 29, 1989, 103 Stat. 1415, provided that: “The amendments made by this section [amending this section and section 932 of this title] shall apply with respect to periods of enrollment in schools of the defense dependents’ education system beginning after September 30, 1989.”
 
-## § 923a. Enrollment of certain additional children on tuition-free basis
+## § 923a. Enrollment of certain additional children on tuition-free basis
 
 **(a) Enrollment authorized** Under regulations to be prescribed by the Secretary of Defense, the Secretary may authorize the enrollment in schools of the defense dependents’ education system on a tuition-free basis of—
 
@@ -323,37 +323,37 @@ The Secretary may use funds available for the defense dependents’ education sy
 
 **(2)** If the number of children described in paragraph (2) of subsection (a) who seek enrollment in schools of the defense dependents’ education system exceeds the number authorized by the Secretary under paragraph (1), the Secretary may enroll the additional children on a space-available, tuition-free basis notwithstanding section 923(d)(2) of this title.
 
-(Pub. L. 95–561, title XIV, § 1404A, as added Pub. L. 109–163, div. A, title V, § 571, Jan. 6, 2006, 119 Stat. 3270; amended Pub. L. 109–364, div. A, title V, § 571(a), Oct. 17, 2006, 120 Stat. 2225; Pub. L. 110–181, div. A, title X, § 1063(e)(1), Jan. 28, 2008, 122 Stat. 323; Pub. L. 111–84, div. A, title V, § 535, Oct. 28, 2009, 123 Stat. 2292; Pub. L. 118–159, div. A, title V, § 597, Dec. 23, 2024, 138 Stat. 1921.)
+(Pub. L. 95–561, title XIV, § 1404A, as added Pub. L. 109–163, div. A, title V, § 571, Jan. 6, 2006, 119 Stat. 3270; amended Pub. L. 109–364, div. A, title V, § 571(a), Oct. 17, 2006, 120 Stat. 2225; Pub. L. 110–181, div. A, title X, § 1063(e)(1), Jan. 28, 2008, 122 Stat. 323; Pub. L. 111–84, div. A, title V, § 535, Oct. 28, 2009, 123 Stat. 2292; Pub. L. 118–159, div. A, title V, § 597, Dec. 23, 2024, 138 Stat. 1921.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (a)(2). Pub. L. 118–159, § 597(1), substituted “foreign military members assigned to—” for “a foreign military member assigned to”, designated remainder of existing provisions as subpar. (A), and added subpar. (B).
+2024—Subsec. (a)(2). Pub. L. 118–159, § 597(1), substituted “foreign military members assigned to—” for “a foreign military member assigned to”, designated remainder of existing provisions as subpar. (A), and added subpar. (B).
 
-Subsec. (c). Pub. L. 118–159, § 597(2)(A), struck out “assigned to Supreme Headquarters Allied Powers, Europe” after “members” in heading.
+Subsec. (c). Pub. L. 118–159, § 597(2)(A), struck out “assigned to Supreme Headquarters Allied Powers, Europe” after “members” in heading.
 
-Subsec. (c)(1). Pub. L. 118–159, § 597(2)(B), substituted “described in paragraph (2) of subsection (a) to determine the number of children described in that paragraph” for “in Mons, Belgium, to determine the number of children described in paragraph (2) of subsection (a)” in first sentence and “the commanders of the geographic combatant commands with jurisdiction over the locations described in paragraph (2) of subsection (a)” for “the commander of the geographic combatant command with jurisdiction over Mons, Belgium” in second sentence.
+Subsec. (c)(1). Pub. L. 118–159, § 597(2)(B), substituted “described in paragraph (2) of subsection (a) to determine the number of children described in that paragraph” for “in Mons, Belgium, to determine the number of children described in paragraph (2) of subsection (a)” in first sentence and “the commanders of the geographic combatant commands with jurisdiction over the locations described in paragraph (2) of subsection (a)” for “the commander of the geographic combatant command with jurisdiction over Mons, Belgium” in second sentence.
 
-Subsec. (c)(2). Pub. L. 118–159, § 597(2)(C), struck out “in Mons, Belgium,” after “education system”.
+Subsec. (c)(2). Pub. L. 118–159, § 597(2)(C), struck out “in Mons, Belgium,” after “education system”.
 
-2009—Subsec. (a)(2). Pub. L. 111–84, § 535(a), struck out “, and only through the 2010–2011 school year” before period at end.
+2009—Subsec. (a)(2). Pub. L. 111–84, § 535(a), struck out “, and only through the 2010–2011 school year” before period at end.
 
-Subsec. (c)(1). Pub. L. 111–84, § 535(b), inserted at end “The Secretary shall prescribe such methodology with the advice and assistance of the commander of the geographic combatant command with jurisdiction over Mons, Belgium.”
+Subsec. (c)(1). Pub. L. 111–84, § 535(b), inserted at end “The Secretary shall prescribe such methodology with the advice and assistance of the commander of the geographic combatant command with jurisdiction over Mons, Belgium.”
 
-2008—Pub. L. 110–181, § 1063(e)(1), made technical correction to directory language of Pub. L. 109–163, § 571, which enacted this section.
+2008—Pub. L. 110–181, § 1063(e)(1), made technical correction to directory language of Pub. L. 109–163, § 571, which enacted this section.
 
-2006—Subsec. (a). Pub. L. 109–364, § 571(a)(1), substituted “basis of—” for “basis of”, designated part of existing provisions as par. (1), substituted “; and” for period at end, and added par. (2).
+2006—Subsec. (a). Pub. L. 109–364, § 571(a)(1), substituted “basis of—” for “basis of”, designated part of existing provisions as par. (1), substituted “; and” for period at end, and added par. (2).
 
-Subsec. (c). Pub. L. 109–364, § 571(a)(2), added subsec. (c).
+Subsec. (c). Pub. L. 109–364, § 571(a)(2), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–181, div. A, title X, § 1063(e), Jan. 28, 2008, 122 Stat. 323, provided that the amendment made by section 1063(e) of Pub. L. 110–181 is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
+Pub. L. 110–181, div. A, title X, § 1063(e), Jan. 28, 2008, 122 Stat. 323, provided that the amendment made by section 1063(e) of Pub. L. 110–181 is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
 
-## § 924. Annual educational assessment
+## § 924. Annual educational assessment
 
 **(a) Contents**
 
@@ -363,15 +363,15 @@ The Director shall assess each year the performance of the defense dependents’
 
 The results of each annual assessment under subsection (a) with respect to an individual enrolled in the defense dependents’ education system shall be made available to the sponsor of such individual, and summary results of each such annual assessment shall be made available to Members of Congress and to professional employees in the system.
 
-(Pub. L. 95–561, title XIV, § 1405, Nov. 1, 1978, 92 Stat. 2366.)
+(Pub. L. 95–561, title XIV, § 1405, Nov. 1, 1978, 92 Stat. 2366.)
 
-## § 925. Budget request for school construction funds for Director of Dependents’ Education
+## § 925. Budget request for school construction funds for Director of Dependents’ Education
 
 The President shall include in his budget for each fiscal year a separate request for funds for construction of school facilities by the Director.
 
-(Pub. L. 95–561, title XIV, § 1406, Nov. 1, 1978, 92 Stat. 2367.)
+(Pub. L. 95–561, title XIV, § 1406, Nov. 1, 1978, 92 Stat. 2367.)
 
-## § 926. School system for dependents in overseas areas
+## § 926. School system for dependents in overseas areas
 
 **(a) Establishment and operation**
 
@@ -399,7 +399,7 @@ The Secretary of Defense shall establish and operate a school system for depende
 
 **(2)** For purposes of paragraph (1), the term “auxiliary services” includes use of academic resources, access to the library of the school, after hours use of school facilities, and participation in music, sports, and other extracurricular and interscholastic activities.
 
-(Pub. L. 95–561, title XIV, § 1407, Nov. 1, 1978, 92 Stat. 2367; Pub. L. 101–510, div. A, title V, § 504(a), Nov. 5, 1990, 104 Stat. 1559; Pub. L. 103–160, div. A, title V, § 561(n), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 105–261, div. A, title V, § 561(k), title VI, § 657, Oct. 17, 1998, 112 Stat. 2026, 2054; Pub. L. 106–398, § 1 [[div. A], title V, § 571(k)], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 107–107, div. A, title III, § 353, Dec. 28, 2001, 115 Stat. 1063; Pub. L. 107–296, title XVII, § 1704(e)(7), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 110–181, div. A, title V, § 574, Jan. 28, 2008, 122 Stat. 120.)
+(Pub. L. 95–561, title XIV, § 1407, Nov. 1, 1978, 92 Stat. 2367; Pub. L. 101–510, div. A, title V, § 504(a), Nov. 5, 1990, 104 Stat. 1559; Pub. L. 103–160, div. A, title V, § 561(n), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 105–261, div. A, title V, § 561(k), title VI, § 657, Oct. 17, 1998, 112 Stat. 2026, 2054; Pub. L. 106–398, § 1 [[div. A], title V, § 571(k)], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 107–107, div. A, title III, § 353, Dec. 28, 2001, 115 Stat. 1063; Pub. L. 107–296, title XVII, § 1704(e)(7), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 110–181, div. A, title V, § 574, Jan. 28, 2008, 122 Stat. 120.)
 
 **Editorial Notes**
 
@@ -417,9 +417,9 @@ Section is comprised of section 1407 of Pub. L. 95–561. Subsec. (e), formerly 
 
 2000—Subsec. (c)(1). Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001”.
 
-1998—Subsec. (b). Pub. L. 105–261, § 657, inserted heading, designated existing provisions as par. (1), substituted “Under such circumstances as the Secretary of Defense may prescribe in regulations, the Secretary” for “Under such circumstances as he may by regulation prescribe, the Secretary of Defense”, and added par. (2).
+1998—Subsec. (b). Pub. L. 105–261, § 657, inserted heading, designated existing provisions as par. (1), substituted “Under such circumstances as the Secretary of Defense may prescribe in regulations, the Secretary” for “Under such circumstances as he may by regulation prescribe, the Secretary of Defense”, and added par. (2).
 
-Subsec. (c)(1). Pub. L. 105–261, § 561(k), substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
+Subsec. (c)(1). Pub. L. 105–261, § 561(k), substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
 
 1993—Subsec. (c)(1). Pub. L. 103–160 substituted “nine-year period” for “five-year period”.
 
@@ -431,7 +431,7 @@ Subsec. (c)(1). Pub. L. 105–261, § 561(k), substituted “during the period
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
-## § 927. Allotment formula
+## § 927. Allotment formula
 
 **(a) Establishment by regulation of minimum allotment formula; criteria** The Director shall by regulation establish a formula for determining the minimum allotment of funds necessary for the operation of each school in the defense dependents’ education system. In establishing such formula, the Director shall take into consideration—
 
@@ -467,23 +467,23 @@ The responsibility to provide comparable early intervention services to infants 
 
 In carrying out paragraph (2), the Secretary shall have in effect a comprehensive, coordinated, multidisciplinary program of early intervention services for infants and toddlers with disabilities among Department of Defense entities involved in the provision of such services to such individuals.
 
-(Pub. L. 95–561, title XIV, § 1409, Nov. 1, 1978, 92 Stat. 2369; Pub. L. 102–119, § 24, Oct. 7, 1991, 105 Stat. 605; Pub. L. 106–65, div. A, title III, § 354(3), Oct. 5, 1999, 113 Stat. 573; Pub. L. 108–446, title III, § 305(b), Dec. 3, 2004, 118 Stat. 2804.)
+(Pub. L. 95–561, title XIV, § 1409, Nov. 1, 1978, 92 Stat. 2369; Pub. L. 102–119, § 24, Oct. 7, 1991, 105 Stat. 605; Pub. L. 106–65, div. A, title III, § 354(3), Oct. 5, 1999, 113 Stat. 573; Pub. L. 108–446, title III, § 305(b), Dec. 3, 2004, 118 Stat. 2804.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Individuals with Disabilities Education Act, referred to in subsec. (c)(1), (2), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Parts B and C of the Act are classified generally to subchapters II (§ 1411 et seq.) and III (§ 1431 et seq.), respectively, of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (c)(1), (2), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Parts B and C of the Act are classified generally to subchapters II (§ 1411 et seq.) and III (§ 1431 et seq.), respectively, of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 **Amendments**
 
 2004—Subsec. (c)(2). Pub. L. 108–446 substituted “section 636” for “section 677” and “part C” for “part H”.
 
-1999—Subsec. (b). Pub. L. 106–65, § 354(3)(A), substituted “Secretary of Education” for “Department of Health, Education, and Welfare” and made technical amendment to reference in original act which appears in text as reference to section 1232 of this title.
+1999—Subsec. (b). Pub. L. 106–65, § 354(3)(A), substituted “Secretary of Education” for “Department of Health, Education, and Welfare” and made technical amendment to reference in original act which appears in text as reference to section 1232 of this title.
 
-Subsec. (c)(1). Pub. L. 106–65, § 354(3)(B), struck out “by academic year 1993–1994” after “public education”.
+Subsec. (c)(1). Pub. L. 106–65, § 354(3)(B), struck out “by academic year 1993–1994” after “public education”.
 
-Subsec. (c)(3). Pub. L. 106–65, § 354(3)(C), substituted “Implementation” for “Implementation timelines” in heading, substituted “In carrying out paragraph (2), the Secretary shall have in effect a comprehensive” for “In carrying out the provisions of paragraph (2), the Secretary shall—”, struck out the subpar. (A) designation and “in academic year 1991–1992 and the 2 succeeding academic years, plan and develop a comprehensive” before “, coordinated”, substituted a period for the semicolon after “such individuals”, and struck out subpars. (B) and (C) which related to implementation in academic years 1994–1995, 1995–1996, and succeeding academic years.
+Subsec. (c)(3). Pub. L. 106–65, § 354(3)(C), substituted “Implementation” for “Implementation timelines” in heading, substituted “In carrying out paragraph (2), the Secretary shall have in effect a comprehensive” for “In carrying out the provisions of paragraph (2), the Secretary shall—”, struck out the subpar. (A) designation and “in academic year 1991–1992 and the 2 succeeding academic years, plan and develop a comprehensive” before “, coordinated”, substituted a period for the semicolon after “such individuals”, and struck out subpars. (B) and (C) which related to implementation in academic years 1994–1995, 1995–1996, and succeeding academic years.
 
 1991—Subsec. (c). Pub. L. 102–119 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The provisions of the Education for All Handicapped Children Act of 1975 shall apply with respect to all schools operated by the Department of Defense under this chapter.”
 
@@ -491,7 +491,7 @@ Subsec. (c)(3). Pub. L. 106–65, § 354(3)(C), substituted “Implementation�
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–119, § 27, Oct. 7, 1991, 105 Stat. 608, provided that:
+Pub. L. 102–119, § 27, Oct. 7, 1991, 105 Stat. 608, provided that:
 
 > **“(a) Sections 8, 9, and 10.—** The amendments made by sections 8, 9, and 10 [amending sections 1423, 1431, 1434, and 1435 of this title] shall take effect on October 1, 1991, or on the date of enactment of this Act [Oct. 7, 1991], whichever is later.
 
@@ -499,7 +499,7 @@ Pub. L. 102–119, § 27, Oct. 7, 1991, 105 Stat. 608, provided that:
 
 > **“(c) Remaining Provisions.—** The remaining sections of this Act [enacting section 1484a of this title, amending this section, sections 241, 1087ee, 1400 to 1402, 1404, 1405, 1407, 1411 to 1417, 1419, 1421 to 1425, 1431 to 1433, 1435, 1442, 1443, 1451, 1452, 1461, 1471 to 1473, and 1475 to 1485 of this title, sections 2503 and 2504 of Title 25, Indians, sections 721, [former] 774, 777a, 795m, and 796d of Title 29, Labor, and sections 1396b, 1396n, 6022, 6024, 9835, 9855d, 9862, and 9886 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 1400 and 1484 of this title] and the amendments made by such sections shall take effect on the date of the enactment of this Act [Oct. 7, 1991].”
 
-## § 928. School advisory committees
+## § 928. School advisory committees
 
 **(a) Establishment; functions; membership**
 
@@ -515,19 +515,19 @@ Except in the case of a nonvoting member designated under the last sentence of s
 
 Members of school advisory committees established under this section shall serve without pay.
 
-(Pub. L. 95–561, title XIV, § 1410, Nov. 1, 1978, 92 Stat. 2369; Pub. L. 96–88, title V, § 508(j)(1), (2), Oct. 17, 1979, 93 Stat. 693; Pub. L. 99–145, title XII, § 1204(b)(2), Nov. 8, 1985, 99 Stat. 720.)
+(Pub. L. 95–561, title XIV, § 1410, Nov. 1, 1978, 92 Stat. 2369; Pub. L. 96–88, title V, § 508(j)(1), (2), Oct. 17, 1979, 93 Stat. 693; Pub. L. 99–145, title XII, § 1204(b)(2), Nov. 8, 1985, 99 Stat. 720.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1985—Subsec. (a)(1). Pub. L. 99–145, § 1204(b)(2)(A), included as member of the advisory committee the designee of the exclusive bargaining representative of the employees.
+1985—Subsec. (a)(1). Pub. L. 99–145, § 1204(b)(2)(A), included as member of the advisory committee the designee of the exclusive bargaining representative of the employees.
 
-Subsec. (b). Pub. L. 99–145, § 1204(b)(2)(B), (C), substituted “Except in the case of a nonvoting member designated under the last sentence of subsection (a)(1), members” for “Members” and “The Secretary of Defense” for “The Secretary of Education, in consultation with the Secretary of Defense,”.
+Subsec. (b). Pub. L. 99–145, § 1204(b)(2)(B), (C), substituted “Except in the case of a nonvoting member designated under the last sentence of subsection (a)(1), members” for “Members” and “The Secretary of Defense” for “The Secretary of Education, in consultation with the Secretary of Defense,”.
 
-1979—Subsec. (a)(1). Pub. L. 96–88, § 508(j)(1), substituted “parents” for “representatives of sponsors”.
+1979—Subsec. (a)(1). Pub. L. 96–88, § 508(j)(1), substituted “parents” for “representatives of sponsors”.
 
-Subsec. (b). Pub. L. 96–88, § 508(j)(2), empowered the Secretary of Education, in consultation with the Secretary of Defense, to prescribe election qualifications and procedures in regard to advisory committees rather than vesting such power in the Secretary of Defense exclusively.
+Subsec. (b). Pub. L. 96–88, § 508(j)(2), empowered the Secretary of Education, in consultation with the Secretary of Defense, to prescribe election qualifications and procedures in regard to advisory committees rather than vesting such power in the Secretary of Defense exclusively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -539,11 +539,11 @@ Amendment by Pub. L. 96–88, effective May 4, 1980, with specified exceptions, 
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 1013 of Title 5, Government Organization and Employees.
 
-## § 929. Repealed. Pub. L. 114–328, div. A, title V, § 576, Dec. 23, 2016, 130 Stat. 2143
+## § 929. Repealed. Pub. L. 114–328, div. A, title V, § 576, Dec. 23, 2016, 130 Stat. 2143
 
-Section, Pub. L. 95–561, title XIV, § 1411, Nov. 1, 1978, 92 Stat. 2370; Pub. L. 96–88, title V, § 508(j)(3)–(8), Oct. 17, 1979, 93 Stat. 693, 694; Pub. L. 99–145, title XII, § 1204(b)(3)–(5), Nov. 8, 1985, 99 Stat. 720, 721; Pub. L. 106–65, div. A, title III, § 354(4), Oct. 5, 1999, 113 Stat. 573; Pub. L. 113–291, div. A, title V, § 565, Dec. 19, 2014, 128 Stat. 3384, related to Advisory Council on Dependents’ Education.
+Section, Pub. L. 95–561, title XIV, § 1411, Nov. 1, 1978, 92 Stat. 2370; Pub. L. 96–88, title V, § 508(j)(3)–(8), Oct. 17, 1979, 93 Stat. 693, 694; Pub. L. 99–145, title XII, § 1204(b)(3)–(5), Nov. 8, 1985, 99 Stat. 720, 721; Pub. L. 106–65, div. A, title III, § 354(4), Oct. 5, 1999, 113 Stat. 573; Pub. L. 113–291, div. A, title V, § 565, Dec. 19, 2014, 128 Stat. 3384, related to Advisory Council on Dependents’ Education.
 
-## § 930. Study of defense dependents’ education system
+## § 930. Study of defense dependents’ education system
 
 **(a) Scope; conduct and report to Director by contractor**
 
@@ -553,9 +553,9 @@ Section, Pub. L. 95–561, title XIV, § 1411, Nov. 1, 1978, 92 Stat. 2370; Pu
 
 **(b) Consultation requirements respecting study specifications and contractor selection**
 
-In designing the specifications for any study to be conducted pursuant to subsection (a)(1), and in selecting a contractor to conduct such study under subsection (a)(2), the Director shall consult with the Advisory Council on Dependents’ Education established under section 929 1
+In designing the specifications for any study to be conducted pursuant to subsection (a)(1), and in selecting a contractor to conduct such study under subsection (a)(2), the Director shall consult with the Advisory Council on Dependents’ Education established under section 929 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -563,25 +563,25 @@ of this title.
 
 The Director shall submit to the Congress any report submitted to him under subsection (a)(2) describing the results of a study carried out pursuant to subsection (a)(1), together with the recommendations, if any, of the contractor for legislation or any increase in funding needed to improve the defense dependents’ education system. Notwithstanding any law, rule, or regulation to the contrary, such report shall not be submitted to any review before its transmittal to the Congress, but the Secretary of Defense shall, at the time of the transmittal of such report, submit to the Congress such recommendations as he may have with respect to legislation or any increase in funding needed to improve the defense dependents’ education system.
 
-(Pub. L. 95–561, title XIV, § 1412, Nov. 1, 1978, 92 Stat. 2371; Pub. L. 96–46, § 2(a)(8), Aug. 6, 1979, 93 Stat. 340; Pub. L. 106–65, div. A, title III, § 354(5), Oct. 5, 1999, 113 Stat. 573.)
+(Pub. L. 95–561, title XIV, § 1412, Nov. 1, 1978, 92 Stat. 2371; Pub. L. 96–46, § 2(a)(8), Aug. 6, 1979, 93 Stat. 340; Pub. L. 106–65, div. A, title III, § 354(5), Oct. 5, 1999, 113 Stat. 573.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 929 of this title, referred to in subsec. (b), was repealed by Pub. L. 114–328, div. A, title V, § 576, Dec. 23, 2016, 130 Stat. 2143.
+Section 929 of this title, referred to in subsec. (b), was repealed by Pub. L. 114–328, div. A, title V, § 576, Dec. 23, 2016, 130 Stat. 2143.
 
 **Amendments**
 
-1999—Subsec. (a)(1). Pub. L. 106–65, § 354(5)(A), substituted “The Director may from time to time, but not more frequently than once a year, provide for” for “As soon as practicable after November 1, 1978, the Director shall provide for” and “system. Any such study” for “system, which”.
+1999—Subsec. (a)(1). Pub. L. 106–65, § 354(5)(A), substituted “The Director may from time to time, but not more frequently than once a year, provide for” for “As soon as practicable after November 1, 1978, the Director shall provide for” and “system. Any such study” for “system, which”.
 
-Subsec. (a)(2). Pub. L. 106–65, § 354(5)(B), substituted “Any study under paragraph (1)” for “The study required by this subsection” and struck out “not later than two years after July 1, 1979,” after “shall submit a report to the Director”.
+Subsec. (a)(2). Pub. L. 106–65, § 354(5)(B), substituted “Any study under paragraph (1)” for “The study required by this subsection” and struck out “not later than two years after July 1, 1979,” after “shall submit a report to the Director”.
 
-Subsec. (b). Pub. L. 106–65, § 354(5)(C), substituted “any study” for “the study”.
+Subsec. (b). Pub. L. 106–65, § 354(5)(C), substituted “any study” for “the study”.
 
-Subsec. (c). Pub. L. 106–65, § 354(5)(D), substituted “any report” for “not later than one year after July 1, 1979, the report” and “a study” for “the study”.
+Subsec. (c). Pub. L. 106–65, § 354(5)(D), substituted “any report” for “not later than one year after July 1, 1979, the report” and “a study” for “the study”.
 
-Subsec. (d). Pub. L. 106–65, § 354(5)(E), struck out subsec. (d) which read as follows: “The Director may provide for additional studies of the defense dependents’ education system to be conducted in accordance with the provisions of this section, but such studies shall not be conducted more frequently than once a year. A report of each study shall be submitted to the Congress in accordance with subsection (c) of this section, and the second sentence of such subsection shall apply with respect to the transmission of each such report.”
+Subsec. (d). Pub. L. 106–65, § 354(5)(E), struck out subsec. (d) which read as follows: “The Director may provide for additional studies of the defense dependents’ education system to be conducted in accordance with the provisions of this section, but such studies shall not be conducted more frequently than once a year. A report of each study shall be submitted to the Congress in accordance with subsection (c) of this section, and the second sentence of such subsection shall apply with respect to the transmission of each such report.”
 
 1979—Subsec. (a)(2). Pub. L. 96–46 substituted “two years after July 1, 1979” for “one year after July 1, 1979”.
 
@@ -589,9 +589,9 @@ Subsec. (d). Pub. L. 106–65, § 354(5)(E), struck out subsec. (d) which read
 
 **Effective Date of 1979 Amendment**
 
-Pub. L. 96–46, § 8, Aug. 6, 1979, 93 Stat. 343, provided that: “The amendments made by this Act [enacting section 3164 of this title, amending this section, sections 240, 241–1, 1211a, 1221–3, 1221h, 1226c, 1232g, 2308, 2310, 2603, 2721, 2733 to 2735, 2740, 2762, 2763, 2772, 2782, 2902, 3084, 3163, 3200, 3289, 3381 to 3386 of this title, and sections 2001, 2002, 2006, 2008, 2012 of Title 25, Indians, enacting a provision set out as a note under section 1221e of this title, and amending provisions set out as notes under sections 236, 1211b, 1221–1, 1231a, and 2701 of this title and section 13 of Title 25] shall take effect October 1, 1978.”
+Pub. L. 96–46, § 8, Aug. 6, 1979, 93 Stat. 343, provided that: “The amendments made by this Act [enacting section 3164 of this title, amending this section, sections 240, 241–1, 1211a, 1221–3, 1221h, 1226c, 1232g, 2308, 2310, 2603, 2721, 2733 to 2735, 2740, 2762, 2763, 2772, 2782, 2902, 3084, 3163, 3200, 3289, 3381 to 3386 of this title, and sections 2001, 2002, 2006, 2008, 2012 of Title 25, Indians, enacting a provision set out as a note under section 1221e of this title, and amending provisions set out as notes under sections 236, 1211b, 1221–1, 1231a, and 2701 of this title and section 13 of Title 25] shall take effect October 1, 1978.”
 
-## § 931. Regulations; issuance and contents
+## § 931. Regulations; issuance and contents
 
 The Secretary of Defense shall issue regulations to carry out this chapter. Such regulations shall—
 
@@ -607,7 +607,7 @@ The Secretary of Defense shall issue regulations to carry out this chapter. Such
 
 **(6)** provide for such other matters as may be necessary to ensure the efficient organization and operation of the defense dependents’ education system.
 
-(Pub. L. 95–561, title XIV, § 1413, Nov. 1, 1978, 92 Stat. 2372; Pub. L. 106–65, div. A, title III, § 354(6), Oct. 5, 1999, 113 Stat. 574.)
+(Pub. L. 95–561, title XIV, § 1413, Nov. 1, 1978, 92 Stat. 2372; Pub. L. 106–65, div. A, title III, § 354(6), Oct. 5, 1999, 113 Stat. 574.)
 
 **Editorial Notes**
 
@@ -615,7 +615,7 @@ The Secretary of Defense shall issue regulations to carry out this chapter. Such
 
 1999—Subsec. (d). Pub. L. 106–65 substituted “The Secretary” for “Not later than 180 days after July 1, 1979, the Secretary” in introductory provisions.
 
-## § 932. Definitions
+## § 932. Definitions
 
 For purposes of this chapter:
 
@@ -643,7 +643,7 @@ For purposes of this chapter:
 
 **(6)** The term “Director” means the Director of the Department of Defense Education Activity.
 
-(Pub. L. 95–561, title XIV, § 1414, Nov. 1, 1978, 92 Stat. 2372; Pub. L. 101–189, div. A, title III, § 325(a), Nov. 29, 1989, 103 Stat. 1415; Pub. L. 101–510, div. A, title V, § 504(b), Nov. 5, 1990, 104 Stat. 1559; Pub. L. 106–65, div. A, title III, § 354(7), Oct. 5, 1999, 113 Stat. 574.)
+(Pub. L. 95–561, title XIV, § 1414, Nov. 1, 1978, 92 Stat. 2372; Pub. L. 101–189, div. A, title III, § 325(a), Nov. 29, 1989, 103 Stat. 1415; Pub. L. 101–510, div. A, title V, § 504(b), Nov. 5, 1990, 104 Stat. 1559; Pub. L. 106–65, div. A, title III, § 354(7), Oct. 5, 1999, 113 Stat. 574.)
 
 **Editorial Notes**
 

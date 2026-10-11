@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2011—Pub. L. 112–81, div. B, title XXVIII, § 2821(a)(2)(A), Dec. 31, 2011, 125 Stat. 1691, substituted “2924” for “2925” in item III.
+2011—Pub. L. 112–81, div. B, title XXVIII, § 2821(a)(2)(A), Dec. 31, 2011, 125 Stat. 1691, substituted “2924” for “2925” in item III.
 
-2011—Pub. L. 111–383, div. A, title X, § 1075(b)(47), Jan. 7, 2011, 124 Stat. 4371, inserted “Sec.” above “2911”.
+2011—Pub. L. 111–383, div. A, title X, § 1075(b)(47), Jan. 7, 2011, 124 Stat. 4371, inserted “Sec.” above “2911”.
 
 ## SUBCHAPTER I—ENERGY SECURITY ACTIVITIES
 
@@ -29,23 +29,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2021—Pub. L. 117–81, div. A, title III, § 312(a)(2), Dec. 27, 2021, 135 Stat. 1628, added item 2921.
+2021—Pub. L. 117–81, div. A, title III, § 312(a)(2), Dec. 27, 2021, 135 Stat. 1628, added item 2921.
 
-Pub. L. 116–283, div. A, title III, § 316(b), div. B, title XXVIII, § 2805(b), Jan. 1, 2021, 134 Stat. 3519, 4322, added items 2914 and 2920 and struck out former item 2914 “Energy resilience and conservation construction projects”.
+Pub. L. 116–283, div. A, title III, § 316(b), div. B, title XXVIII, § 2805(b), Jan. 1, 2021, 134 Stat. 3519, 4322, added items 2914 and 2920 and struck out former item 2914 “Energy resilience and conservation construction projects”.
 
-2019—Pub. L. 116–92, div. A, title XVII, § 1731(a)(59), Dec. 20, 2019, 133 Stat. 1815, which directed amendment of the analysis at the beginning of this chapter by substituting “Energy resilience and conservation construction projects” for “Energy resiliency and conservation construction projects”in item 2914, was executed in the analysis for this subchapter to reflect the probable intent of Congress.
+2019—Pub. L. 116–92, div. A, title XVII, § 1731(a)(59), Dec. 20, 2019, 133 Stat. 1815, which directed amendment of the analysis at the beginning of this chapter by substituting “Energy resilience and conservation construction projects” for “Energy resiliency and conservation construction projects”in item 2914, was executed in the analysis for this subchapter to reflect the probable intent of Congress.
 
-2018—Pub. L. 115–232, div. A, title X, § 1081(c)(6), Aug. 13, 2018, 132 Stat. 1985, made technical amendment to directory language of Pub. L. 115–91, § 2831(b), effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted. See 2017 Amendment note below.
+2018—Pub. L. 115–232, div. A, title X, § 1081(c)(6), Aug. 13, 2018, 132 Stat. 1985, made technical amendment to directory language of Pub. L. 115–91, § 2831(b), effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted. See 2017 Amendment note below.
 
-2017—Pub. L. 115–91, div. B, title XXVIII, § 2831(b), Dec. 12, 2017, 131 Stat. 1857, as amended by Pub. L. 115–232, div. A, title X, § 1081(c)(6), Aug. 13, 2018, 132 Stat. 1985, which directed amendment of the analysis at the beginning of this chapter by adding item 2911 and striking out former item 2911 “Energy performance goals and master plan for the Department of Defense”, was executed in the analysis for this subchapter to reflect the probable intent of Congress.
+2017—Pub. L. 115–91, div. B, title XXVIII, § 2831(b), Dec. 12, 2017, 131 Stat. 1857, as amended by Pub. L. 115–232, div. A, title X, § 1081(c)(6), Aug. 13, 2018, 132 Stat. 1985, which directed amendment of the analysis at the beginning of this chapter by adding item 2911 and striking out former item 2911 “Energy performance goals and master plan for the Department of Defense”, was executed in the analysis for this subchapter to reflect the probable intent of Congress.
 
-2016—Pub. L. 114–328, div. B, title XXVIII, § 2805(a)(2), Dec. 23, 2016, 130 Stat. 2714, which directed amendment of the analysis at the beginning of this chapter by adding item 2914 and striking out former item 2914 “Energy conservation construction projects”, was executed in the analysis for this subchapter to reflect the probable intent of Congress.
+2016—Pub. L. 114–328, div. B, title XXVIII, § 2805(a)(2), Dec. 23, 2016, 130 Stat. 2714, which directed amendment of the analysis at the beginning of this chapter by adding item 2914 and striking out former item 2914 “Energy conservation construction projects”, was executed in the analysis for this subchapter to reflect the probable intent of Congress.
 
-2011—Pub. L. 111–383, div. B, title XXVIII, § 2832(c)(2), Jan. 7, 2011, 124 Stat. 4470, added items 2911 and 2915 and struck out former items 2911 “Energy performance goals and plan for Department of Defense” and 2915 “New construction: use of renewable forms of energy and energy efficient products”.
+2011—Pub. L. 111–383, div. B, title XXVIII, § 2832(c)(2), Jan. 7, 2011, 124 Stat. 4470, added items 2911 and 2915 and struck out former items 2911 “Energy performance goals and plan for Department of Defense” and 2915 “New construction: use of renewable forms of energy and energy efficient products”.
 
-2009—Pub. L. 111–84, div. B, title XXVIII, § 2843(b), Oct. 28, 2009, 123 Stat. 2682, added item 2919.
+2009—Pub. L. 111–84, div. B, title XXVIII, § 2843(b), Oct. 28, 2009, 123 Stat. 2682, added item 2919.
 
-### § 2911. Energy policy of the Department of Defense
+### § 2911. Energy policy of the Department of Defense
 
 **(a) General Energy Policy.—** The Secretary of Defense shall ensure the readiness of the armed forces for their military missions by pursuing energy security and energy resilience.
 
@@ -217,7 +217,7 @@ Pub. L. 116–283, div. A, title III, § 316(b), div. B, title XXVIII, § 28
 
 **(B)** funding available under performance contracts, such as energy savings performance contracts and utility energy service contracts.
 
-(Added and amended Pub. L. 109–364, div. B, title XXVIII, §§ 2851(a)(1), 2852, Oct. 17, 2006, 120 Stat. 2489, 2496; Pub. L. 111–84, div. B, title XXVIII, § 2842, Oct. 28, 2009, 123 Stat. 2680; Pub. L. 111–383, div. B, title XXVIII, §§ 2831, 2832(a), Jan. 7, 2011, 124 Stat. 4467, 4468; Pub. L. 112–81, div. B, title XXVIII, §§ 2821(b)(1), 2822(b), 2823(a), 2824(a), 2825(b), Dec. 31, 2011, 125 Stat. 1691, 1692, 1694; Pub. L. 115–91, div. A, title III, § 312, div. B, title XXVIII, § 2831(a), Dec. 12, 2017, 131 Stat. 1348, 1857; Pub. L. 115–232, div. A, title III, § 312(a), (b), Aug. 13, 2018, 132 Stat. 1709, 1710; Pub. L. 116–92, div. A, title III, § 320(b), Dec. 20, 2019, 133 Stat. 1307; Pub. L. 116–283, div. B, title XXVIII, § 2825(a), (b)(1), Jan. 1, 2021, 134 Stat. 4333, 4334; Pub. L. 117–81, div. A, title III, § 314(a), Dec. 27, 2021, 135 Stat. 1629; Pub. L. 117–263, div. A, title III, §§ 315, 316, Dec. 23, 2022, 136 Stat. 2505; Pub. L. 118–159, div. A, title XVII, § 1701(a)(32), Dec. 23, 2024, 138 Stat. 2205; Pub. L. 119–60, div. A, title III, § 312(1), Dec. 18, 2025, 139 Stat. 803.)
+(Added and amended Pub. L. 109–364, div. B, title XXVIII, §§ 2851(a)(1), 2852, Oct. 17, 2006, 120 Stat. 2489, 2496; Pub. L. 111–84, div. B, title XXVIII, § 2842, Oct. 28, 2009, 123 Stat. 2680; Pub. L. 111–383, div. B, title XXVIII, §§ 2831, 2832(a), Jan. 7, 2011, 124 Stat. 4467, 4468; Pub. L. 112–81, div. B, title XXVIII, §§ 2821(b)(1), 2822(b), 2823(a), 2824(a), 2825(b), Dec. 31, 2011, 125 Stat. 1691, 1692, 1694; Pub. L. 115–91, div. A, title III, § 312, div. B, title XXVIII, § 2831(a), Dec. 12, 2017, 131 Stat. 1348, 1857; Pub. L. 115–232, div. A, title III, § 312(a), (b), Aug. 13, 2018, 132 Stat. 1709, 1710; Pub. L. 116–92, div. A, title III, § 320(b), Dec. 20, 2019, 133 Stat. 1307; Pub. L. 116–283, div. B, title XXVIII, § 2825(a), (b)(1), Jan. 1, 2021, 134 Stat. 4333, 4334; Pub. L. 117–81, div. A, title III, § 314(a), Dec. 27, 2021, 135 Stat. 1629; Pub. L. 117–263, div. A, title III, §§ 315, 316, Dec. 23, 2022, 136 Stat. 2505; Pub. L. 118–159, div. A, title XVII, § 1701(a)(32), Dec. 23, 2024, 138 Stat. 2205; Pub. L. 119–60, div. A, title III, § 312(1), Dec. 18, 2025, 139 Stat. 803.)
 
 **Editorial Notes**
 
@@ -235,71 +235,71 @@ Section 312 of Pub. L. 115–91 amended subsec. (c) of this section, and section
 
 2024—Subsec. (c)(3). Pub. L. 118–159 struck out “installation energy” before “report submitted under section 2925(a) of this title”.
 
-2022—Subsec. (e)(14), (15). Pub. L. 117–263, § 316, added pars. (14) and (15).
+2022—Subsec. (e)(14), (15). Pub. L. 117–263, § 316, added pars. (14) and (15).
 
-Subsec. (j). Pub. L. 117–263, § 315, added subsec. (j).
+Subsec. (j). Pub. L. 117–263, § 315, added subsec. (j).
 
-2021—Subsec. (h). Pub. L. 116–283, § 2825(a), added subsec. (h) containing pars. (1) and (3).
+2021—Subsec. (h). Pub. L. 116–283, § 2825(a), added subsec. (h) containing pars. (1) and (3).
 
-Subsec. (h)(2). Pub. L. 116–283, § 2825(b)(1), added par. (2).
+Subsec. (h)(2). Pub. L. 116–283, § 2825(b)(1), added par. (2).
 
 Subsec. (i). Pub. L. 117–81 added subsec. (i).
 
-2019—Subsec. (e)(1), (2). Pub. L. 116–92, § 320(b)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+2019—Subsec. (e)(1), (2). Pub. L. 116–92, § 320(b)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
 “(1) Opportunities to reduce the current rate of consumption of energy, the future demand for energy, and the requirement for the use of energy.
 
 “(2) Opportunities to enhance energy resilience to ensure the Department of Defense has the ability to prepare for and recover from energy disruptions that impact mission assurance on military installations.”
 
-Subsec. (e)(13). Pub. L. 116–92, § 320(b)(2), which directed striking out “the second paragraph (13)”, was executed by striking out the par. (13) added by Pub. L. 115–91, § 2831(a)(4)(C), which read as follows: “Opportunities to leverage third-party financing to address installation energy needs.” See 2017 Amendment note below.
+Subsec. (e)(13). Pub. L. 116–92, § 320(b)(2), which directed striking out “the second paragraph (13)”, was executed by striking out the par. (13) added by Pub. L. 115–91, § 2831(a)(4)(C), which read as follows: “Opportunities to leverage third-party financing to address installation energy needs.” See 2017 Amendment note below.
 
-2018—Subsec. (b). Pub. L. 115–232, § 312(a), added pars. (1) and (2) and redesignated former pars. (1) to (3) as (3) to (5), respectively.
+2018—Subsec. (b). Pub. L. 115–232, § 312(a), added pars. (1) and (2) and redesignated former pars. (1) to (3) as (3) to (5), respectively.
 
-Subsec. (c)(3). Pub. L. 115–232, § 312(b), added par. (3).
+Subsec. (c)(3). Pub. L. 115–232, § 312(b), added par. (3).
 
-2017—Pub. L. 115–91, § 2831(a)(1), substituted “policy of” for “performance goals and master plan for” in section catchline.
+2017—Pub. L. 115–91, § 2831(a)(1), substituted “policy of” for “performance goals and master plan for” in section catchline.
 
-Subsecs. (a) to (d). Pub. L. 115–91, § 2831(a)(2), (3), added subsecs. (a) and (b) and redesignated former subsecs. (a) and (b) as (c) and (d), respectively. Former subsecs. (c) and (d) redesignated (e) and (f), respectively.
+Subsecs. (a) to (d). Pub. L. 115–91, § 2831(a)(2), (3), added subsecs. (a) and (b) and redesignated former subsecs. (a) and (b) as (c) and (d), respectively. Former subsecs. (c) and (d) redesignated (e) and (f), respectively.
 
-Subsec. (e). Pub. L. 115–91, § 2831(a)(2), redesignated subsec. (c) as (e). Former subsec. (e) redesignated (g).
+Subsec. (e). Pub. L. 115–91, § 2831(a)(2), redesignated subsec. (c) as (e). Former subsec. (e) redesignated (g).
 
-Subsec. (e)(1). Pub. L. 115–91, §§ 312(1), 2831(a)(4)(A), amended par. (1) identically, inserting “, the future demand for energy, and the requirement for the use of energy” after “consumption of energy”. See Codification note above.
+Subsec. (e)(1). Pub. L. 115–91, §§ 312(1), 2831(a)(4)(A), amended par. (1) identically, inserting “, the future demand for energy, and the requirement for the use of energy” after “consumption of energy”. See Codification note above.
 
-Subsec. (e)(2). Pub. L. 115–91, §§ 312(2), 2831(a)(4)(B), made similar amendments to par. (2), resulting in substitution of “enhance energy resilience to ensure the Department of Defense has the ability to prepare for and recover from energy disruptions that impact mission assurance on military installations” for “reduce the future demand and the requirements for the use of energy”. See Codification note above.
+Subsec. (e)(2). Pub. L. 115–91, §§ 312(2), 2831(a)(4)(B), made similar amendments to par. (2), resulting in substitution of “enhance energy resilience to ensure the Department of Defense has the ability to prepare for and recover from energy disruptions that impact mission assurance on military installations” for “reduce the future demand and the requirements for the use of energy”. See Codification note above.
 
-Subsec. (e)(13). Pub. L. 115–91, § 2831(a)(4)(C), added par. (13) which read “Opportunities to leverage third-party financing to address installation energy needs.” See Codification note above.
+Subsec. (e)(13). Pub. L. 115–91, § 2831(a)(4)(C), added par. (13) which read “Opportunities to leverage third-party financing to address installation energy needs.” See Codification note above.
 
-Pub. L. 115–91, § 312(3), added par. (13) which read “Opportunities to leverage financing provided by a non-Department entity to address installation energy needs.” See Codification note above.
+Pub. L. 115–91, § 312(3), added par. (13) which read “Opportunities to leverage financing provided by a non-Department entity to address installation energy needs.” See Codification note above.
 
-Subsecs. (f), (g). Pub. L. 115–91, § 2831(a)(2), redesignated subsecs. (d) and (e) as (f) and (g), respectively.
+Subsecs. (f), (g). Pub. L. 115–91, § 2831(a)(2), redesignated subsecs. (d) and (e) as (f) and (g), respectively.
 
-2011—Pub. L. 111–383, § 2832(a)(3), substituted “Energy performance goals and master plan for the Department of Defense” for “Energy performance goals and plan for Department of Defense” in section catchline.
+2011—Pub. L. 111–383, § 2832(a)(3), substituted “Energy performance goals and master plan for the Department of Defense” for “Energy performance goals and plan for Department of Defense” in section catchline.
 
-Pub. L. 111–383, § 2832(a)(2), substituted “master plan” for “plan” wherever appearing in subsecs. (c) to (e).
+Pub. L. 111–383, § 2832(a)(2), substituted “master plan” for “plan” wherever appearing in subsecs. (c) to (e).
 
-Subsec. (b). Pub. L. 111–383, § 2832(a)(1), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall develop, and update as necessary, a comprehensive plan to help achieve the energy performance goals for the Department of Defense.”
+Subsec. (b). Pub. L. 111–383, § 2832(a)(1), amended subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall develop, and update as necessary, a comprehensive plan to help achieve the energy performance goals for the Department of Defense.”
 
-Subsec. (b)(2)(F). Pub. L. 112–81, § 2825(b), added subpar. (F).
+Subsec. (b)(2)(F). Pub. L. 112–81, § 2825(b), added subpar. (F).
 
-Subsec. (c)(4). Pub. L. 111–383, § 2831(1), inserted “and hybrid-electric drive” after “alternative fuels”.
+Subsec. (c)(4). Pub. L. 111–383, § 2831(1), inserted “and hybrid-electric drive” after “alternative fuels”.
 
-Subsec. (c)(5) to (11). Pub. L. 111–383, § 2831(2)–(5), added pars. (5) and (10) and redesignated former pars. (5) to (8) and (9) as (6) to (9) and (11), respectively.
+Subsec. (c)(5) to (11). Pub. L. 111–383, § 2831(2)–(5), added pars. (5) and (10) and redesignated former pars. (5) to (8) and (9) as (6) to (9) and (11), respectively.
 
-Subsec. (c)(12). Pub. L. 112–81, § 2822(b), added par. (12).
+Subsec. (c)(12). Pub. L. 112–81, § 2822(b), added par. (12).
 
-Subsec. (d). Pub. L. 112–81, § 2821(b)(1)(A), struck out par. (1) designation, redesignated subpars. (A) to (D) as pars. (1) to (4), respectively, and struck out former par. (2), which defined “energy efficient maintenance”.
+Subsec. (d). Pub. L. 112–81, § 2821(b)(1)(A), struck out par. (1) designation, redesignated subpars. (A) to (D) as pars. (1) to (4), respectively, and struck out former par. (2), which defined “energy efficient maintenance”.
 
-Subsec. (e)(2). Pub. L. 112–81, § 2823(a), added par. (2).
+Subsec. (e)(2). Pub. L. 112–81, § 2823(a), added par. (2).
 
-Pub. L. 112–81, § 2821(b)(1)(B), struck out par. (2), which defined “renewable energy source”.
+Pub. L. 112–81, § 2821(b)(1)(B), struck out par. (2), which defined “renewable energy source”.
 
-Subsec. (e)(3). Pub. L. 112–81, § 2824(a), added par. (3).
+Subsec. (e)(3). Pub. L. 112–81, § 2824(a), added par. (3).
 
-2009—Subsec. (e). Pub. L. 111–84, § 2842(c), substituted “Facility Energy Needs” for “Electricity Needs” in heading.
+2009—Subsec. (e). Pub. L. 111–84, § 2842(c), substituted “Facility Energy Needs” for “Electricity Needs” in heading.
 
-Pub. L. 111–84, § 2842(a), (b), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), in par. (1)(A), substituted “facility energy” for “electric energy” and struck out “and in its activities” after “facilities” and “(as defined in section 203(b) of the Energy Policy Act of 2005 (42 U.S.C. 15852(b)))” after “sources”, in par. (1)(B), substituted “facility energy” for “electric energy”, and added par. (2).
+Pub. L. 111–84, § 2842(a), (b), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), in par. (1)(A), substituted “facility energy” for “electric energy” and struck out “and in its activities” after “facilities” and “(as defined in section 203(b) of the Energy Policy Act of 2005 (42 U.S.C. 15852(b)))” after “sources”, in par. (1)(B), substituted “facility energy” for “electric energy”, and added par. (2).
 
-2006—Subsec. (e). Pub. L. 109–364, § 2852, added subsec. (e).
+2006—Subsec. (e). Pub. L. 109–364, § 2852, added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -309,7 +309,7 @@ For termination, effective Dec. 31, 2021, of provisions in subsecs. (a) and (b)(
 
 **Responsibilities of Executive Agent for Installation and Operational Nuclear Energy**
 
-Pub. L. 119–60, div. A, title III, § 318, Dec. 18, 2025, 139 Stat. 807, provided that:
+Pub. L. 119–60, div. A, title III, § 318, Dec. 18, 2025, 139 Stat. 807, provided that:
 
 > **“(a) Executive Agent.—** The Secretary of Defense, in coordination with the Secretary of the Army, the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering, and the Director of the Strategic Capabilities Office of the Department of Defense, shall ensure that, not later than one year after the date of the enactment of this Act [Dec. 18, 2025], there is designated an executive agent of the Department of Defense for installation and operational nuclear energy.
 
@@ -387,7 +387,7 @@ Pub. L. 119–60, div. A, title III, § 318, Dec. 18, 2025, 139 Stat. 807, pro
 
 **Notification Requirement With Respect to Nuclear Power in Guam**
 
-Pub. L. 119–60, div. A, title III, § 323, Dec. 18, 2025, 139 Stat. 815, provided that:
+Pub. L. 119–60, div. A, title III, § 323, Dec. 18, 2025, 139 Stat. 815, provided that:
 
 > **“(a) Notification.—** Except as provided in subsection (b), the Secretary of Defense shall, not later than one year before any date on which the Secretary carries out the placement of a permanent nuclear reactor in Guam, submit to Congress and the Governor of Guam a notification of such placement.
 
@@ -397,7 +397,7 @@ Pub. L. 119–60, div. A, title III, § 323, Dec. 18, 2025, 139 Stat. 815, pro
 
 **Prototype and Demonstration Projects for Energy Resilience at Certain Military Installations**
 
-Pub. L. 117–263, div. A, title III, § 322, Dec. 23, 2022, 136 Stat. 2511, as amended by Pub. L. 118–31, div. A, title III, § 316(a), Dec. 22, 2023, 137 Stat. 217, provided that:
+Pub. L. 117–263, div. A, title III, § 322, Dec. 23, 2022, 136 Stat. 2511, as amended by Pub. L. 118–31, div. A, title III, § 316(a), Dec. 22, 2023, 137 Stat. 217, provided that:
 
 > **“(a) In General.—** Subject to the availability of appropriations for such purpose, each Secretary of a military department shall ensure that covered prototype and demonstration projects are conducted at each military installation under the jurisdiction of that Secretary that is designated by the Secretary of Defense as an ‘Energy Resilience Testbed’ pursuant to subsection (b).
 
@@ -491,11 +491,11 @@ Pub. L. 117–263, div. A, title III, § 322, Dec. 23, 2022, 136 Stat. 2511, a
 
 > **“(4)** The term ‘military installation’ has the meaning given that term in section 2867 of title 10 [probably should be “section 2687 of title 10”], United States Code.”
 
-[Pub. L. 118–31, div. A, title III, § 316(b), Dec. 22, 2023, 137 Stat. 217, provided that: “The amendments made by subsection (a) [amending section 322 of Pub. L. 117–263, set out above] shall apply with respect to covered prototype and demonstration projects (as defined in section 322(k) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 136 Stat. 2511; 10 U.S.C. 2911 note)) commencing on or after the date of the enactment of this Act [Dec. 22, 2023].” ]
+[Pub. L. 118–31, div. A, title III, § 316(b), Dec. 22, 2023, 137 Stat. 217, provided that: “The amendments made by subsection (a) [amending section 322 of Pub. L. 117–263, set out above] shall apply with respect to covered prototype and demonstration projects (as defined in section 322(k) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 136 Stat. 2511; 10 U.S.C. 2911 note)) commencing on or after the date of the enactment of this Act [Dec. 22, 2023].” ]
 
 **Pilot Program for Development of Electric Vehicle Charging Solutions To Mitigate Grid Stress**
 
-Pub. L. 117–263, div. A, title III, § 323, Dec. 23, 2022, 136 Stat. 2513, provided that:
+Pub. L. 117–263, div. A, title III, § 323, Dec. 23, 2022, 136 Stat. 2513, provided that:
 
 > **“(a) In General.—** The Secretary of Defense, in coordination with the Secretaries of the military departments, and in consultation with the Secretary of Energy, shall carry out a pilot program to develop and test covered infrastructure to mitigate grid stress caused by electric vehicles through the implementation and maintenance on certain military installations of charging stations, microgrids, and other covered infrastructure sufficient to cover the energy demand at such installations.
 
@@ -599,7 +599,7 @@ Pub. L. 117–263, div. A, title III, § 323, Dec. 23, 2022, 136 Stat. 2513, p
 
 **Analysis and Plan for Addressing Heat Island Effect on Military Installations**
 
-Pub. L. 117–263, div. A, title III, § 327, Dec. 23, 2022, 136 Stat. 2519, provided that:
+Pub. L. 117–263, div. A, title III, § 327, Dec. 23, 2022, 136 Stat. 2519, provided that:
 
 > **“(a) Installation Analysis.—** Each Secretary of a military department shall conduct an analysis of the military installations under the jurisdiction of that Secretary to assess the extent to which heat islands affect readiness, infrastructure service life, and utilities costs. Each such analysis shall contain each of the following:
 
@@ -625,7 +625,7 @@ Pub. L. 117–263, div. A, title III, § 327, Dec. 23, 2022, 136 Stat. 2519, p
 
 **Combating Military Reliance on Russian Energy**
 
-Pub. L. 117–263, div. A, title X, § 1086, Dec. 23, 2022, 136 Stat. 2801, as amended by Pub. L. 118–31, div. A, title XVIII, § 1803, Dec. 22, 2023, 137 Stat. 685; Pub. L. 118–159, div. A, title X, § 1082, Dec. 23, 2024, 138 Stat. 2077, provided that:
+Pub. L. 117–263, div. A, title X, § 1086, Dec. 23, 2022, 136 Stat. 2801, as amended by Pub. L. 118–31, div. A, title XVIII, § 1803, Dec. 22, 2023, 137 Stat. 685; Pub. L. 118–159, div. A, title X, § 1082, Dec. 23, 2024, 138 Stat. 2077, provided that:
 
 > **“(a) Sense of Congress.—** It is the sense of Congress that—
 
@@ -697,7 +697,7 @@ Pub. L. 117–263, div. A, title X, § 1086, Dec. 23, 2022, 136 Stat. 2801, as
 
 **Energy, Water, and Waste Net-Zero Requirement for Major Military Installations**
 
-Pub. L. 117–81, div. A, title III, § 319(a), (d), Dec. 27, 2021, 135 Stat. 1633, 1634, provided that:
+Pub. L. 117–81, div. A, title III, § 319(a), (d), Dec. 27, 2021, 135 Stat. 1633, 1634, provided that:
 
 > **“(a) Requirement.—** The Secretary of Defense shall improve military installation efficiency, performance, and management by ensuring that at least 10 percent of major military installations achieve energy net-zero and water or waste net-zero by fiscal year 2035.
 
@@ -705,7 +705,7 @@ Pub. L. 117–81, div. A, title III, § 319(a), (d), Dec. 27, 2021, 135 Stat. 
 
 **Long-Duration Demonstration Initiative and Joint Program**
 
-Pub. L. 117–81, div. A, title III, § 321, Dec. 27, 2021, 135 Stat. 1635, provided that:
+Pub. L. 117–81, div. A, title III, § 321, Dec. 27, 2021, 135 Stat. 1635, provided that:
 
 > **“(a) Establishment of Initiative.—** Not later than March 1, 2022, the Secretary of Defense shall establish a demonstration initiative composed of demonstration projects focused on the development of long-duration energy storage technologies.
 
@@ -759,7 +759,7 @@ Pub. L. 117–81, div. A, title III, § 321, Dec. 27, 2021, 135 Stat. 1635, pr
 
 **Pilot Program To Test New Software To Track Emissions at Certain Military Installations**
 
-Pub. L. 117–81, div. A, title III, § 322, Dec. 27, 2021, 135 Stat. 1636, provided that:
+Pub. L. 117–81, div. A, title III, § 322, Dec. 27, 2021, 135 Stat. 1636, provided that:
 
 > **“(a) In General.—** The Secretary of Defense may conduct a pilot program (to be known as the ‘Installations Emissions Tracking Program’) to evaluate the feasibility and effectiveness of software and emerging technologies and methodologies to track real-time emissions from military installations and installation assets.
 
@@ -773,7 +773,7 @@ Pub. L. 117–81, div. A, title III, § 322, Dec. 27, 2021, 135 Stat. 1636, pr
 
 **Department of Defense Plan To Reduce Greenhouse Gas Emissions**
 
-Pub. L. 117–81, div. A, title III, § 323, Dec. 27, 2021, 135 Stat. 1636, provided that:
+Pub. L. 117–81, div. A, title III, § 323, Dec. 27, 2021, 135 Stat. 1636, provided that:
 
 > **“(a) Plan Required.—** Not later than September 30, 2022, the Secretary of Defense shall submit to Congress a plan to reduce the greenhouse gas emissions of the Department of Defense.
 
@@ -781,7 +781,7 @@ Pub. L. 117–81, div. A, title III, § 323, Dec. 27, 2021, 135 Stat. 1636, pr
 
 **Improvement of the Operational Energy Capability Improvement Fund of the Department of Defense**
 
-Pub. L. 116–283, div. A, title III, § 324, Jan. 1, 2021, 134 Stat. 3523, provided that:
+Pub. L. 116–283, div. A, title III, § 324, Jan. 1, 2021, 134 Stat. 3523, provided that:
 
 > **“(a) Management of the Operational Energy Capability Improvement Fund.—** The Assistant Secretary of Defense for Energy, Installations, and Environment shall exercise authority, direction, and control over the Operational Energy Capability Improvement Fund of the Department of Defense (in this section referred to as the ‘OECIF’).
 
@@ -825,7 +825,7 @@ Pub. L. 116–283, div. A, title III, § 324, Jan. 1, 2021, 134 Stat. 3523, pr
 
 **Improved Electrical Metering of Department of Defense Infrastructure Supporting Critical Missions**
 
-Pub. L. 116–283, div. B, title XXVIII, § 2826, Jan. 1, 2021, 134 Stat. 4334, provided that:
+Pub. L. 116–283, div. B, title XXVIII, § 2826, Jan. 1, 2021, 134 Stat. 4334, provided that:
 
 > **“(a) Options To Improve Electrical Metering.—** The Secretary of Defense and the Secretaries of the military departments shall improve the metering of electrical energy usage of covered defense structures to accurately determine energy consumption by such a structure to increase energy efficiency and improve energy resilience, using any combination of the options specified in subsection (b) or such other methods as the Secretary concerned considers practicable.
 
@@ -855,7 +855,7 @@ Pub. L. 116–283, div. B, title XXVIII, § 2826, Jan. 1, 2021, 134 Stat. 4334
 
 **Pilot Program To Test Use of Emergency Diesel Generators in a Microgrid Configuration at Certain Military Installations**
 
-Pub. L. 116–283, div. B, title XXVIII, § 2864, Jan. 1, 2021, 134 Stat. 4359, provided that:
+Pub. L. 116–283, div. B, title XXVIII, § 2864, Jan. 1, 2021, 134 Stat. 4359, provided that:
 
 > **“(a) Pilot Program Authorized.—** The Secretary of Defense may conduct a pilot program (to be known as the ‘Emergency Diesel Generator Microgrid Program’) to evaluate the feasibility and cost effectiveness of connecting existing diesel generators at a military installation selected pursuant to subsection (c) to create and support one or more microgrid configurations at the installation capable of providing full-scale electrical power for the defense critical facilities located at the installation during an emergency involving the loss of external electric power supply caused by an extreme weather condition, manmade intentional infrastructure damage, or other circumstance.
 
@@ -893,7 +893,7 @@ Pub. L. 116–283, div. B, title XXVIII, § 2864, Jan. 1, 2021, 134 Stat. 4359
 
 **Pilot Program for Availability of Working-Capital Funds for Increased Combat Capability Through Energy Optimization**
 
-Pub. L. 116–92, div. A, title III, § 337, Dec. 20, 2019, 133 Stat. 1316, provided that:
+Pub. L. 116–92, div. A, title III, § 337, Dec. 20, 2019, 133 Stat. 1316, provided that:
 
 > **“(a) In General.—** Notwithstanding section 2208 of title 10, United States Code, the Secretary of Defense and the military departments may use a working capital fund established pursuant to that section for expenses directly related to conducting a pilot program for energy optimization initiatives described in subsection (b).
 
@@ -923,11 +923,11 @@ Pub. L. 116–92, div. A, title III, § 337, Dec. 20, 2019, 133 Stat. 1316, pr
 
 **Aggregation of Energy Efficiency and Energy Resilience Projects in Life Cycle Cost Analyses**
 
-Pub. L. 115–91, div. B, title XXVIII, § 2837, Dec. 12, 2017, 131 Stat. 1859, provided that: “The Secretary of Defense or the Secretary of a military department, when conducting life cycle cost analyses with respect to investments designed to lower costs and reduce energy and water consumption, shall aggregate energy efficiency projects and energy resilience improvements as appropriate.”
+Pub. L. 115–91, div. B, title XXVIII, § 2837, Dec. 12, 2017, 131 Stat. 1859, provided that: “The Secretary of Defense or the Secretary of a military department, when conducting life cycle cost analyses with respect to investments designed to lower costs and reduce energy and water consumption, shall aggregate energy efficiency projects and energy resilience improvements as appropriate.”
 
 **Energy Security for Military Installations in Europe**
 
-Pub. L. 116–92, div. B, title XXVIII, § 2821(a)–(c), Dec. 20, 2019, 133 Stat. 1888, provided that:
+Pub. L. 116–92, div. B, title XXVIII, § 2821(a)–(c), Dec. 20, 2019, 133 Stat. 1888, provided that:
 
 > **“(a) Prohibition on Use of Certain Energy Source.—** The Secretary of Defense shall ensure that each contract for the acquisition of furnished energy for a covered military installation in Europe does not use any energy sourced from inside the Russian Federation as a means of generating the furnished energy for the covered military installation.
 
@@ -953,7 +953,7 @@ Pub. L. 116–92, div. B, title XXVIII, § 2821(a)–(c), Dec. 20, 2019, 133 S
 
 > **“(2)** The term ‘furnished energy’ means energy furnished to a covered military installation in any form and for any purpose, including heating, cooling, and electricity.”
 
-Pub. L. 115–91, div. B, title XXVIII, § 2880, Dec. 12, 2017, 131 Stat. 1875, provided that:
+Pub. L. 115–91, div. B, title XXVIII, § 2880, Dec. 12, 2017, 131 Stat. 1875, provided that:
 
 > **“(a) Authority.—** The Secretary of Defense shall take appropriate measures, to the extent practicable, to—
 
@@ -971,11 +971,11 @@ Pub. L. 115–91, div. B, title XXVIII, § 2880, Dec. 12, 2017, 131 Stat. 1875
 
 **Business Case Analysis of any Plan To Design, Refurbish, or Construct a Biofuel Refinery**
 
-Pub. L. 113–291, div. A, title III, § 314, Dec. 19, 2014, 128 Stat. 3338, provided that: “Not later than 30 days before entering into a contract for the planning, design, refurbishing, or construction of a biofuel refinery, or of any other facility or infrastructure used to refine biofuels, the Secretary of Defense or the Secretary of the military department concerned shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a business case analysis for such planning, design, refurbishing, or construction.”
+Pub. L. 113–291, div. A, title III, § 314, Dec. 19, 2014, 128 Stat. 3338, provided that: “Not later than 30 days before entering into a contract for the planning, design, refurbishing, or construction of a biofuel refinery, or of any other facility or infrastructure used to refine biofuels, the Secretary of Defense or the Secretary of the military department concerned shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a business case analysis for such planning, design, refurbishing, or construction.”
 
 **Guidance on Financing for Renewable Energy Projects**
 
-Pub. L. 112–239, div. B, title XXVIII, § 2824, Jan. 2, 2013, 126 Stat. 2153, as amended by Pub. L. 113–291, div. A, title IX, § 901(n)(2), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 116–92, div. A, title IX, § 902(81), Dec. 20, 2019, 133 Stat. 1553, provided that:
+Pub. L. 112–239, div. B, title XXVIII, § 2824, Jan. 2, 2013, 126 Stat. 2153, as amended by Pub. L. 113–291, div. A, title IX, § 901(n)(2), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 116–92, div. A, title IX, § 902(81), Dec. 20, 2019, 133 Stat. 1553, provided that:
 
 > **“(a) Guidance on Use of Available Financing Approaches.—**
 
@@ -995,7 +995,7 @@ Pub. L. 112–239, div. B, title XXVIII, § 2824, Jan. 2, 2013, 126 Stat. 2153
 
 **Energy-Efficient Technologies in Contracts for Logistics Support of Contingency Operations**
 
-Pub. L. 112–81, div. A, title III, § 315, Dec. 31, 2011, 125 Stat. 1357, as amended by Pub. L. 116–92, div. A, title IX, § 902(82), title XVII, § 1731(e), Dec. 20, 2019, 133 Stat. 1553, 1816, provided that:
+Pub. L. 112–81, div. A, title III, § 315, Dec. 31, 2011, 125 Stat. 1357, as amended by Pub. L. 116–92, div. A, title IX, § 902(82), title XVII, § 1731(e), Dec. 20, 2019, 133 Stat. 1553, 1816, provided that:
 
 > **“(a) Energy Performance Master Plan.—** The energy performance master plan for the Department of Defense developed under section 2911 of title 10, United States Code, shall specifically address the application of energy-efficient or energy reduction technologies or processes meeting the requirements of subsection (b) in logistics support contracts for contingency operations. In accordance with the requirements of such section, the plan shall include goals, metrics, and incentives for achieving energy efficiency in such contracts.
 
@@ -1009,7 +1009,7 @@ Pub. L. 112–81, div. A, title III, § 315, Dec. 31, 2011, 125 Stat. 1357, as
 
 > **“(c) Regulations and Guidance.—** The Under Secretary of Defense for Acquisition and Sustainment shall issue such regulations and guidance as may be needed to implement the requirements of this section and ensure that goals established pursuant to subsection (a) are met. Such regulations or guidance shall consider the lifecycle cost savings associated with the energy technology or process being offered by a vendor for defense logistics support and oblige the offeror to demonstrate the savings achieved over traditional technologies.
 
-> **“(d) Report.—** The annual report required by section 2925(b) of title 10, United States Code [as amended by Pub. L. 117–263, § 314(b)(1)(B), section 2925(b) of this title relates to elements in reports required by section 2925(a) of this title], shall include information on the progress in the implementation of this section, including savings achieved by the Department resulting from such implementation.
+> **“(d) Report.—** The annual report required by section 2925(b) of title 10, United States Code [as amended by Pub. L. 117–263, § 314(b)(1)(B), section 2925(b) of this title relates to elements in reports required by section 2925(a) of this title], shall include information on the progress in the implementation of this section, including savings achieved by the Department resulting from such implementation.
 
 > **“(e) Definitions.—** In this section:
 
@@ -1017,11 +1017,11 @@ Pub. L. 112–81, div. A, title III, § 315, Dec. 31, 2011, 125 Stat. 1357, as
 
 > **“(2)** The term ‘contingency operation’ has the meaning provided in section 101(a)(13) of title 10, United States Code.”
 
-[Pub. L. 116–92, div. A, title XVII, § 1731(e), Dec. 20, 2019, 133 Stat. 1816, provided that the amendment made by section 1731(e) to section 315 of Pub. L. 112–81, set out above, is effective as of Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted. Consequently, the amendment made by section 902(82) of Pub. L. 116–92, which was directed to subsec. (d), was executed to subsec. (c) as redesignated by section 1731(e), to reflect the probable intent of Congress.]
+[Pub. L. 116–92, div. A, title XVII, § 1731(e), Dec. 20, 2019, 133 Stat. 1816, provided that the amendment made by section 1731(e) to section 315 of Pub. L. 112–81, set out above, is effective as of Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted. Consequently, the amendment made by section 902(82) of Pub. L. 116–92, which was directed to subsec. (d), was executed to subsec. (c) as redesignated by section 1731(e), to reflect the probable intent of Congress.]
 
 **Policy of Pursuing Energy Security**
 
-Pub. L. 112–81, div. B, title XXVIII, § 2822(a), Dec. 31, 2011, 125 Stat. 1691, provided that:
+Pub. L. 112–81, div. B, title XXVIII, § 2822(a), Dec. 31, 2011, 125 Stat. 1691, provided that:
 
 > **“(1) Policy required.—** Not later than 180 days after the date of enactment of this Act [Dec. 31, 2011], the Secretary of Defense shall establish a policy for military installations that includes the following:
 
@@ -1035,15 +1035,15 @@ Pub. L. 112–81, div. B, title XXVIII, § 2822(a), Dec. 31, 2011, 125 Stat. 1
 
 **Deadline for Congressional Notification**
 
-Pub. L. 112–81, div. B, title XXVIII, § 2823(b), Dec. 31, 2011, 125 Stat. 1692, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 31, 2011], the Secretary of Defense shall notify the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] of the interim renewable energy goal established pursuant to the amendment made by subsection (a) [amending this section].”
+Pub. L. 112–81, div. B, title XXVIII, § 2823(b), Dec. 31, 2011, 125 Stat. 1692, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 31, 2011], the Secretary of Defense shall notify the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] of the interim renewable energy goal established pursuant to the amendment made by subsection (a) [amending this section].”
 
 **Department of Defense To Capture and Track Data Generated in Metering Department Facilities**
 
-Pub. L. 112–81, div. B, title XXVIII, § 2827, Dec. 31, 2011, 125 Stat. 1694, provided that: “The Secretary of Defense shall require that the information generated by the installation energy meters be captured and tracked to determine baseline energy consumption and facilitate efforts to reduce energy consumption.”
+Pub. L. 112–81, div. B, title XXVIII, § 2827, Dec. 31, 2011, 125 Stat. 1694, provided that: “The Secretary of Defense shall require that the information generated by the installation energy meters be captured and tracked to determine baseline energy consumption and facilitate efforts to reduce energy consumption.”
 
 **Training Policy for Department of Defense Energy Managers**
 
-Pub. L. 112–81, div. B, title XXVIII, § 2829, Dec. 31, 2011, 125 Stat. 1694, provided that:
+Pub. L. 112–81, div. B, title XXVIII, § 2829, Dec. 31, 2011, 125 Stat. 1694, provided that:
 
 > **“(a) Establishment of Training Policy.—** The Secretary of Defense shall establish a training policy for Department of Defense energy managers designated for military installations in order to—
 
@@ -1061,7 +1061,7 @@ Pub. L. 112–81, div. B, title XXVIII, § 2829, Dec. 31, 2011, 125 Stat. 1694
 
 **Pilot Program on Collaborative Energy Security**
 
-Pub. L. 111–383, div. A, title II, § 242, Jan. 7, 2011, 124 Stat. 4176, provided that:
+Pub. L. 111–383, div. A, title II, § 242, Jan. 7, 2011, 124 Stat. 4176, provided that:
 
 > **“(a) Pilot Program.—** The Secretary of Defense, in coordination with the Secretary of Energy, may carry out a collaborative energy security pilot program involving one or more partnerships between one military installation and one national laboratory, for the purpose of evaluating and validating secure, salable microgrid components and systems for deployment.
 
@@ -1115,7 +1115,7 @@ Pub. L. 111–383, div. A, title II, § 242, Jan. 7, 2011, 124 Stat. 4176, pro
 
 **Energy Security on Department of Defense Installations**
 
-Pub. L. 111–84, div. A, title III, § 335, Oct. 28, 2009, 123 Stat. 2259, provided that:
+Pub. L. 111–84, div. A, title III, § 335, Oct. 28, 2009, 123 Stat. 2259, provided that:
 
 > **“(a) Plan for Energy Security Required.—**
 
@@ -1135,7 +1135,7 @@ Pub. L. 111–84, div. A, title III, § 335, Oct. 28, 2009, 123 Stat. 2259, pr
 
 **Consideration of Fuel Logistics Support Requirements in Planning, Requirements Development, and Acquisition Processes**
 
-Pub. L. 110–417, [div. A], title III, § 332, Oct. 14, 2008, 122 Stat. 4420, as amended by Pub. L. 111–383, div. A, title X, § 1075(e)(5), Jan. 7, 2011, 124 Stat. 4374; Pub. L. 118–31, div. A, title III, § 315, Dec. 22, 2023, 137 Stat. 217, provided that:
+Pub. L. 110–417, [div. A], title III, § 332, Oct. 14, 2008, 122 Stat. 4420, as amended by Pub. L. 111–383, div. A, title X, § 1075(e)(5), Jan. 7, 2011, 124 Stat. 4374; Pub. L. 118–31, div. A, title III, § 315, Dec. 22, 2023, 137 Stat. 217, provided that:
 
 > **“(a) Planning.—** In the case of analyses and force planning processes that are used to establish capability requirements and inform acquisition decisions, the Secretary of Defense shall require that analyses and force planning processes consider the requirements for, and vulnerability of, fuel logistics.
 
@@ -1169,7 +1169,7 @@ Pub. L. 110–417, [div. A], title III, § 332, Oct. 14, 2008, 122 Stat. 4420,
 
 **Mitigation of Power Outage Risks for Department of Defense Facilities and Activities**
 
-Pub. L. 110–417, [div. A], title III, § 335, Oct. 14, 2008, 122 Stat. 4422, as amended by Pub. L. 114–92, div. A, title X, § 1079(d)(1), Nov. 25, 2015, 129 Stat. 999, provided that:
+Pub. L. 110–417, [div. A], title III, § 335, Oct. 14, 2008, 122 Stat. 4422, as amended by Pub. L. 114–92, div. A, title X, § 1079(d)(1), Nov. 25, 2015, 129 Stat. 999, provided that:
 
 > **“(a) Risk Assessment.—** The Secretary of Defense shall conduct a comprehensive technical and operational risk assessment of the risks posed to mission critical installations, facilities, and activities of the Department of Defense by extended power outages resulting from failure of the commercial electricity supply or grid and related infrastructure.
 
@@ -1185,7 +1185,7 @@ Pub. L. 110–417, [div. A], title III, § 335, Oct. 14, 2008, 122 Stat. 4422,
 
 **Use of Energy Efficient Lighting Fixtures and Bulbs in Department of Defense Facilities**
 
-Pub. L. 110–181, div. B, title XXVIII, § 2863, Jan. 28, 2008, 122 Stat. 560, provided that:
+Pub. L. 110–181, div. B, title XXVIII, § 2863, Jan. 28, 2008, 122 Stat. 560, provided that:
 
 > **“(a) Construction and Alteration of Buildings.—** Each building constructed or significantly altered by the Secretary of Defense or the Secretary of a military department shall be equipped, to the maximum extent feasible as determined by the Secretary concerned, with lighting fixtures and bulbs that are energy efficient.
 
@@ -1217,15 +1217,15 @@ Pub. L. 110–181, div. B, title XXVIII, § 2863, Jan. 28, 2008, 122 Stat. 560
 
 **Reporting Requirements Relating to Renewable Energy Use by Department of Defense To Meet Department Electricity Needs**
 
-Pub. L. 110–181, div. B, title XXVIII, § 2864, Jan. 28, 2008, 122 Stat. 561, related to reporting requirements relating to renewable energy use by Department of Defense to meet Department electricity needs, prior to repeal by Pub. L. 113–66, div. A, title X, § 1084(b)(2)(B), Dec. 26, 2013, 127 Stat. 872.
+Pub. L. 110–181, div. B, title XXVIII, § 2864, Jan. 28, 2008, 122 Stat. 561, related to reporting requirements relating to renewable energy use by Department of Defense to meet Department electricity needs, prior to repeal by Pub. L. 113–66, div. A, title X, § 1084(b)(2)(B), Dec. 26, 2013, 127 Stat. 872.
 
 **Utilization of Fuel Cells as Back-Up Power Systems in Department of Defense Operations**
 
-Pub. L. 109–364, div. A, title III, § 358, Oct. 17, 2006, 120 Stat. 2164, provided that: “The Secretary of Defense shall consider the utilization of fuel cells as replacements for current back-up power systems in a variety of Department of Defense operations and activities, including in telecommunications networks, perimeter security, individual equipment items, and remote facilities, in order to increase the operational longevity of back-up power systems and stand-by power systems in such operations and activities.”
+Pub. L. 109–364, div. A, title III, § 358, Oct. 17, 2006, 120 Stat. 2164, provided that: “The Secretary of Defense shall consider the utilization of fuel cells as replacements for current back-up power systems in a variety of Department of Defense operations and activities, including in telecommunications networks, perimeter security, individual equipment items, and remote facilities, in order to increase the operational longevity of back-up power systems and stand-by power systems in such operations and activities.”
 
 **Energy Efficiency in Weapons Platforms**
 
-Pub. L. 109–364, div. A, title III, § 360(a), Oct. 17, 2006, 120 Stat. 2164, provided that:
+Pub. L. 109–364, div. A, title III, § 360(a), Oct. 17, 2006, 120 Stat. 2164, provided that:
 
 > “It shall be the policy of the Department of Defense to improve the fuel efficiency of weapons platforms, consistent with mission requirements, in order to—
 
@@ -1241,7 +1241,7 @@ Pub. L. 109–364, div. A, title III, § 360(a), Oct. 17, 2006, 120 Stat. 2164
 
 **Department of Defense Energy Efficiency Program**
 
-Pub. L. 107–107, div. A, title III, § 317, Dec. 28, 2001, 115 Stat. 1054, directed the Secretary of Defense to carry out a program to significantly improve the energy efficiency of facilities of the Department of Defense through 2010 and to submit annual reports to the congressional defense committees through 2010 regarding the progress made toward achieving the energy efficiency goals.
+Pub. L. 107–107, div. A, title III, § 317, Dec. 28, 2001, 115 Stat. 1054, directed the Secretary of Defense to carry out a program to significantly improve the energy efficiency of facilities of the Department of Defense through 2010 and to submit annual reports to the congressional defense committees through 2010 regarding the progress made toward achieving the energy efficiency goals.
 
 **Executive Documents**
 
@@ -1353,7 +1353,7 @@ Sec. 9. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-### § 2912. Availability and use of energy cost savings
+### § 2912. Availability and use of energy cost savings
 
 **(a) Availability.—** An amount of the funds appropriated to the Department of Defense for a fiscal year that is equal to the amount of energy cost savings realized by the Department, including financial benefits resulting from shared energy savings contracts entered into under section 2913 of this title, and, in the case of operational energy, from both training and operational missions, shall remain available for obligation under subsection (b) or (c), as the case may be, for that fiscal year and the succeeding fiscal year, without additional authorization or appropriation.
 
@@ -1389,35 +1389,35 @@ Donald J. Trump.
 
 **(f) Operational Energy Cost Savings Defined.—** In this section, the term “operational energy cost savings” means the monetary savings achieved through measures to reduce energy expenditures relative to the amount that would have been necessary to sustain an equivalent level of capability in the absence of such measures.
 
-(Added Pub. L. 109–364, div. B, title XXVIII, § 2851(a)(1), Oct. 17, 2006, 120 Stat. 2491; amended Pub. L. 112–239, div. B, title XXVIII, § 2822, Jan. 2, 2013, 126 Stat. 2152; Pub. L. 115–91, div. A, title X, § 1051(a)(26), div. B, title XXVIII, § 2832, Dec. 12, 2017, 131 Stat. 1562, 1858; Pub. L. 115–232, div. A, title III, § 312(h), Aug. 13, 2018, 132 Stat. 1711; Pub. L. 116–92, div. A, title III, § 317, Dec. 20, 2019, 133 Stat. 1304; Pub. L. 116–283, div. A, title III, § 317, Jan. 1, 2021, 134 Stat. 3519; Pub. L. 117–81, div. A, title III, § 315, Dec. 27, 2021, 135 Stat. 1630; Pub. L. 119–60, div. A, title III, § 313, Dec. 18, 2025, 139 Stat. 804.)
+(Added Pub. L. 109–364, div. B, title XXVIII, § 2851(a)(1), Oct. 17, 2006, 120 Stat. 2491; amended Pub. L. 112–239, div. B, title XXVIII, § 2822, Jan. 2, 2013, 126 Stat. 2152; Pub. L. 115–91, div. A, title X, § 1051(a)(26), div. B, title XXVIII, § 2832, Dec. 12, 2017, 131 Stat. 1562, 1858; Pub. L. 115–232, div. A, title III, § 312(h), Aug. 13, 2018, 132 Stat. 1711; Pub. L. 116–92, div. A, title III, § 317, Dec. 20, 2019, 133 Stat. 1304; Pub. L. 116–283, div. A, title III, § 317, Jan. 1, 2021, 134 Stat. 3519; Pub. L. 117–81, div. A, title III, § 315, Dec. 27, 2021, 135 Stat. 1630; Pub. L. 119–60, div. A, title III, § 313, Dec. 18, 2025, 139 Stat. 804.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (c). Pub. L. 119–60, § 313(1), designated existing provisions as par. (1), substituted “operational energy initiatives.” for “additional operational energy resilience, efficiencies, mission assurance, energy conservation, or energy security within the department, agency, or instrumentality that realized that savings.” and added pars. (2) and (3).
+2025—Subsec. (c). Pub. L. 119–60, § 313(1), designated existing provisions as par. (1), substituted “operational energy initiatives.” for “additional operational energy resilience, efficiencies, mission assurance, energy conservation, or energy security within the department, agency, or instrumentality that realized that savings.” and added pars. (2) and (3).
 
-Subsec. (e)(1). Pub. L. 119–60, § 313(2), substituted “Not later than 60 days after being notified of amounts described in subsection (a) that remain available for obligation, the Secretary of Defense shall transfer such amounts” for “The Secretary of Defense may transfer amounts described in subsection (a) that remain available for obligation”.
+Subsec. (e)(1). Pub. L. 119–60, § 313(2), substituted “Not later than 60 days after being notified of amounts described in subsection (a) that remain available for obligation, the Secretary of Defense shall transfer such amounts” for “The Secretary of Defense may transfer amounts described in subsection (a) that remain available for obligation”.
 
-Subsec. (f). Pub. L. 119–60, § 313(3), added subsec. (f).
+Subsec. (f). Pub. L. 119–60, § 313(3), added subsec. (f).
 
-2021—Subsec. (a). Pub. L. 117–81, § 315(1), substituted “for that fiscal year and the succeeding fiscal year” for “until expended”.
+2021—Subsec. (a). Pub. L. 117–81, § 315(1), substituted “for that fiscal year and the succeeding fiscal year” for “until expended”.
 
 Pub. L. 116–283 inserted “and, in the case of operational energy, from both training and operational missions,” after “under section 2913 of this title,”.
 
-Subsec. (e). Pub. L. 117–81, § 315(2), added subsec. (e).
+Subsec. (e). Pub. L. 117–81, § 315(2), added subsec. (e).
 
-2019—Subsec. (a). Pub. L. 116–92, § 317(1), substituted “subsection (b) or (c), as the case may be,” for “subsection (b)”.
+2019—Subsec. (a). Pub. L. 116–92, § 317(1), substituted “subsection (b) or (c), as the case may be,” for “subsection (b)”.
 
-Subsec. (b). Pub. L. 116–92, § 317(2), substituted “Except as provided in subsection (c) with respect to operational energy cost savings, the Secretary of Defense” for “The Secretary of Defense” in introductory provisions.
+Subsec. (b). Pub. L. 116–92, § 317(2), substituted “Except as provided in subsection (c) with respect to operational energy cost savings, the Secretary of Defense” for “The Secretary of Defense” in introductory provisions.
 
-Subsecs. (c), (d). Pub. L. 116–92, § 317(3), (4), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 116–92, § 317(3), (4), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-2018—Subsec. (b)(1). Pub. L. 115–232 inserted “, including energy resilience and energy conservation construction projects,” after “energy security measures”.
+2018—Subsec. (b)(1). Pub. L. 115–232 inserted “, including energy resilience and energy conservation construction projects,” after “energy security measures”.
 
-2017—Subsec. (b)(1). Pub. L. 115–91, § 2832, substituted “energy resilience, mission assurance, weather damage repair and prevention, energy conservation, and” for “energy conservation and”.
+2017—Subsec. (b)(1). Pub. L. 115–91, § 2832, substituted “energy resilience, mission assurance, weather damage repair and prevention, energy conservation, and” for “energy conservation and”.
 
-Subsec. (d). Pub. L. 115–91, § 1051(a)(26), struck out subsec. (d). Text read as follows: “The Secretary of Defense shall include in the budget material submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to section 1105 of title 31 a separate statement of the amounts available for obligation under this section in that fiscal year.”
+Subsec. (d). Pub. L. 115–91, § 1051(a)(26), struck out subsec. (d). Text read as follows: “The Secretary of Defense shall include in the budget material submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to section 1105 of title 31 a separate statement of the amounts available for obligation under this section in that fiscal year.”
 
 2013—Subsec. (b)(1). Pub. L. 112–239 inserted “and energy security” after “additional energy conservation”.
 
@@ -1425,33 +1425,33 @@ Subsec. (d). Pub. L. 115–91, § 1051(a)(26), struck out subsec. (d). Text re
 
 **Transfer of Funds for Energy and Water Efficiency in Federal Buildings**
 
-Pub. L. 109–148, div. A, title VIII, § 8054, Dec. 30, 2005, 119 Stat. 2710, provided that: “Appropriations available under the heading ‘Operation and Maintenance, Defense-Wide’ for the current fiscal year and hereafter for increasing energy and water efficiency in Federal buildings may, during their period of availability, be transferred to other appropriations or funds of the Department of Defense for projects related to increasing energy and water efficiency, to be merged with and to be available for the same general purposes, and for the same time period, as the appropriation or fund to which transferred.”
+Pub. L. 109–148, div. A, title VIII, § 8054, Dec. 30, 2005, 119 Stat. 2710, provided that: “Appropriations available under the heading ‘Operation and Maintenance, Defense-Wide’ for the current fiscal year and hereafter for increasing energy and water efficiency in Federal buildings may, during their period of availability, be transferred to other appropriations or funds of the Department of Defense for projects related to increasing energy and water efficiency, to be merged with and to be available for the same general purposes, and for the same time period, as the appropriation or fund to which transferred.”
 
 Similar provisions for specified fiscal years were contained in the following prior appropriation acts:
 
-Pub. L. 108–287, title VIII, § 8058, Aug. 5, 2004, 118 Stat. 983.
+Pub. L. 108–287, title VIII, § 8058, Aug. 5, 2004, 118 Stat. 983.
 
-Pub. L. 108–87, title VIII, § 8058, Sept. 30, 2003, 117 Stat. 1085.
+Pub. L. 108–87, title VIII, § 8058, Sept. 30, 2003, 117 Stat. 1085.
 
-Pub. L. 107–248, title VIII, § 8059, Oct. 23, 2002, 116 Stat. 1550.
+Pub. L. 107–248, title VIII, § 8059, Oct. 23, 2002, 116 Stat. 1550.
 
-Pub. L. 107–117, div. A, title VIII, § 8064, Jan. 10, 2002, 115 Stat. 2261.
+Pub. L. 107–117, div. A, title VIII, § 8064, Jan. 10, 2002, 115 Stat. 2261.
 
-Pub. L. 106–259, title VIII, § 8063, Aug. 9, 2000, 114 Stat. 688.
+Pub. L. 106–259, title VIII, § 8063, Aug. 9, 2000, 114 Stat. 688.
 
-Pub. L. 106–79, title VIII, § 8066, Oct. 25, 1999, 113 Stat. 1245.
+Pub. L. 106–79, title VIII, § 8066, Oct. 25, 1999, 113 Stat. 1245.
 
-Pub. L. 105–262, title VIII, § 8066, Oct. 17, 1998, 112 Stat. 2312.
+Pub. L. 105–262, title VIII, § 8066, Oct. 17, 1998, 112 Stat. 2312.
 
-Pub. L. 105–56, title VIII, § 8072, Oct. 8, 1997, 111 Stat. 1235.
+Pub. L. 105–56, title VIII, § 8072, Oct. 8, 1997, 111 Stat. 1235.
 
-Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8081], Sept. 30, 1996, 110 Stat. 3009–71, 3009–104.
+Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8081], Sept. 30, 1996, 110 Stat. 3009–71, 3009–104.
 
-Pub. L. 104–61, title VIII, § 8097, Dec. 1, 1995, 109 Stat. 671.
+Pub. L. 104–61, title VIII, § 8097, Dec. 1, 1995, 109 Stat. 671.
 
-Pub. L. 103–139, title VIII, § 8149, Nov. 11, 1993, 107 Stat. 1475.
+Pub. L. 103–139, title VIII, § 8149, Nov. 11, 1993, 107 Stat. 1475.
 
-### § 2913. Energy savings contracts and activities
+### § 2913. Energy savings contracts and activities
 
 **(a) Shared Energy Savings Contracts.—**
 
@@ -1483,23 +1483,23 @@ Pub. L. 103–139, title VIII, § 8149, Nov. 11, 1993, 107 Stat. 1475.
 
 **(4)** An agreement under this subsection shall provide that title to any energy-saving device or technology installed at a military installation pursuant to the agreement vest in the United States. Such title may vest at such time during the term of the agreement, or upon expiration of the agreement, as determined to be in the best interests of the United States.
 
-(Added and amended Pub. L. 109–364, div. B, title XXVIII, §§ 2851(a)(1), 2853, Oct. 17, 2006, 120 Stat. 2491, 2496; Pub. L. 110–140, title V, § 511(c), Dec. 19, 2007, 121 Stat. 1658; Pub. L. 110–181, div. B, title XXVIII, § 2861, Jan. 28, 2008, 122 Stat. 559; Pub. L. 115–232, div. A, title III, § 312(g), Aug. 13, 2018, 132 Stat. 1711; Pub. L. 116–92, div. A, title III, § 320(a)(1)(A), title XVII, § 1731(a)(58), Dec. 20, 2019, 133 Stat. 1306, 1815.)
+(Added and amended Pub. L. 109–364, div. B, title XXVIII, §§ 2851(a)(1), 2853, Oct. 17, 2006, 120 Stat. 2491, 2496; Pub. L. 110–140, title V, § 511(c), Dec. 19, 2007, 121 Stat. 1658; Pub. L. 110–181, div. B, title XXVIII, § 2861, Jan. 28, 2008, 122 Stat. 559; Pub. L. 115–232, div. A, title III, § 312(g), Aug. 13, 2018, 132 Stat. 1711; Pub. L. 116–92, div. A, title III, § 320(a)(1)(A), title XVII, § 1731(a)(58), Dec. 20, 2019, 133 Stat. 1306, 1815.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Subsec. (c). Pub. L. 116–92, § 320(a)(1)(A), substituted “government or” for “government”.
+2019—Subsec. (c). Pub. L. 116–92, § 320(a)(1)(A), substituted “government or” for “government”.
 
-Pub. L. 116–92, § 1731(a)(58), substituted “government gas or electric utility” for “government a gas or electric utility”. Amendment executed before amendment by section 320(a)(1)(A) of Pub. L. 116–92, see above, pursuant to section 1731(f) of Pub. L. 116–92, set out as a Coordination of Certain Sections of an Act With Other Provisions of That Act note under section 101 of this title.
+Pub. L. 116–92, § 1731(a)(58), substituted “government gas or electric utility” for “government a gas or electric utility”. Amendment executed before amendment by section 320(a)(1)(A) of Pub. L. 116–92, see above, pursuant to section 1731(f) of Pub. L. 116–92, set out as a Coordination of Certain Sections of an Act With Other Provisions of That Act note under section 101 of this title.
 
 2018—Subsec. (c). Pub. L. 115–232 inserted “a State or local government” after “generally available from”.
 
-2008—Subsec. (e). Pub. L. 110–181, which directed the amendment of this section by striking out subsec. (e), could not be executed because subsec. (e) was previously repealed by Pub. L. 110–140, § 511(c). See 2007 Amendment note below.
+2008—Subsec. (e). Pub. L. 110–181, which directed the amendment of this section by striking out subsec. (e), could not be executed because subsec. (e) was previously repealed by Pub. L. 110–140, § 511(c). See 2007 Amendment note below.
 
 2007—Subsec. (e). Pub. L. 110–140 struck out heading and text of subsec. (e). Text read as follows: “When a decision is made to award an energy savings performance contract that contains a clause setting forth a cancellation ceiling in excess of $7,000,000, the Secretary of Defense shall submit to the appropriate committees of Congress written notification of the proposed contract and of the proposed cancellation ceiling for the contract. The notification shall include the justification for the proposed cancellation ceiling. The contract may then be awarded only after the end of the 30-day period beginning on the date the notification is received by such committees or, if earlier, the end of the 15-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title.”
 
-2006—Subsec. (e). Pub. L. 109–364, § 2853, added subsec. (e).
+2006—Subsec. (e). Pub. L. 109–364, § 2853, added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1507,7 +1507,7 @@ Pub. L. 116–92, § 1731(a)(58), substituted “government gas or electric ut
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
-### § 2914. Military construction projects for energy resilience, energy security, and energy conservation
+### § 2914. Military construction projects for energy resilience, energy security, and energy conservation
 
 **(a) Project Authorization Required.—** The Secretary of Defense may carry out such military construction projects for energy resilience, energy security, and energy conservation as are authorized by law, using funds appropriated or otherwise made available for that purpose.
 
@@ -1573,7 +1573,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 **(f) Application to Military Construction Projects.—** This section shall apply to military construction projects covered by subsection (a) for which a Department of Defense Form 1391 is submitted to the appropriate committees of Congress in connection with the budget of the Department of Defense for fiscal year 2023 and thereafter.
 
-(Added Pub. L. 109–364, div. B, title XXVIII, § 2851(a)(1), Oct. 17, 2006, 120 Stat. 2493; amended Pub. L. 114–328, div. B, title XXVIII, § 2805(a)(1), (b)(1)(A), (2), Dec. 23, 2016, 130 Stat. 2713, 2714; Pub. L. 115–91, div. B, title XXVIII, §§ 2801(e)(1), 2831(c)(1), Dec. 12, 2017, 131 Stat. 1845, 1857; Pub. L. 115–232, div. A, title X, § 1081(a)(29), Aug. 13, 2018, 132 Stat. 1985; Pub. L. 116–283, div. B, title XXVIII, §§ 2805(a), 2823(b), Jan. 1, 2021, 134 Stat. 4321, 4333; Pub. L. 117–81, div. B, title XXVIII, § 2804, Dec. 27, 2021, 135 Stat. 2188; Pub. L. 118–31, div. B, title XXVIII, § 2809, Dec. 22, 2023, 137 Stat. 746.)
+(Added Pub. L. 109–364, div. B, title XXVIII, § 2851(a)(1), Oct. 17, 2006, 120 Stat. 2493; amended Pub. L. 114–328, div. B, title XXVIII, § 2805(a)(1), (b)(1)(A), (2), Dec. 23, 2016, 130 Stat. 2713, 2714; Pub. L. 115–91, div. B, title XXVIII, §§ 2801(e)(1), 2831(c)(1), Dec. 12, 2017, 131 Stat. 1845, 1857; Pub. L. 115–232, div. A, title X, § 1081(a)(29), Aug. 13, 2018, 132 Stat. 1985; Pub. L. 116–283, div. B, title XXVIII, §§ 2805(a), 2823(b), Jan. 1, 2021, 134 Stat. 4321, 4333; Pub. L. 117–81, div. B, title XXVIII, § 2804, Dec. 27, 2021, 135 Stat. 2188; Pub. L. 118–31, div. B, title XXVIII, § 2809, Dec. 22, 2023, 137 Stat. 746.)
 
 **Editorial Notes**
 
@@ -1581,35 +1581,35 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 2023—Subsecs. (e), (f). Pub. L. 118–31 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-2021—Pub. L. 116–283, § 2805(a), amended section generally. Prior to amendment, section related to energy resilience and conservation construction projects.
+2021—Pub. L. 116–283, § 2805(a), amended section generally. Prior to amendment, section related to energy resilience and conservation construction projects.
 
 Subsecs. (c), (d). Pub. L. 117–81 added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Pub. L. 116–283, § 2823(b), added subsec. (c) and redesignated former subsec. (c) as (d).
+Pub. L. 116–283, § 2823(b), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-Subsec. (e). Pub. L. 117–81, § 2804(1), redesignated subsec. (d) as (e).
+Subsec. (e). Pub. L. 117–81, § 2804(1), redesignated subsec. (d) as (e).
 
 2018—Pub. L. 115–232 substituted “resilience” for “resiliency” in section catchline.
 
-2017—Pub. L. 115–91, § 2831(c)(1), substituted “energy resilience” for “energy resiliency” wherever appearing in text.
+2017—Pub. L. 115–91, § 2831(c)(1), substituted “energy resilience” for “energy resiliency” wherever appearing in text.
 
-Subsec. (b)(1). Pub. L. 115–91, § 2801(e)(1), struck out “in writing” after “shall notify” and “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided” after “received by such committees” and substituted “14-day period” for “21-day period”.
+Subsec. (b)(1). Pub. L. 115–91, § 2801(e)(1), struck out “in writing” after “shall notify” and “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided” after “received by such committees” and substituted “14-day period” for “21-day period”.
 
-2016—Pub. L. 114–328, § 2805(a)(1)(A), inserted “resiliency and” before “conservation construction projects” in section catchline. Text quoted in directory language of amendment was editorially conformed to the style of the catchline.
+2016—Pub. L. 114–328, § 2805(a)(1)(A), inserted “resiliency and” before “conservation construction projects” in section catchline. Text quoted in directory language of amendment was editorially conformed to the style of the catchline.
 
-Subsec. (a). Pub. L. 114–328, § 2805(a)(1)(B), substituted “military construction project for energy resiliency, energy security, or energy conservation” for “military construction project for energy conservation”.
+Subsec. (a). Pub. L. 114–328, § 2805(a)(1)(B), substituted “military construction project for energy resiliency, energy security, or energy conservation” for “military construction project for energy conservation”.
 
-Subsec. (b). Pub. L. 114–328, § 2805(b)(1)(A), designated existing provisions as par. (1) and added par. (2).
+Subsec. (b). Pub. L. 114–328, § 2805(b)(1)(A), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (c). Pub. L. 114–328, § 2805(b)(2), added subsec. (c).
+Subsec. (c). Pub. L. 114–328, § 2805(b)(2), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–328, div. B, title XXVIII, § 2805(b)(1)(B), Dec. 23, 2016, 130 Stat. 2714, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply with respect to notifications provided during fiscal year 2017 or any succeeding fiscal year.”
+Pub. L. 114–328, div. B, title XXVIII, § 2805(b)(1)(B), Dec. 23, 2016, 130 Stat. 2714, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply with respect to notifications provided during fiscal year 2017 or any succeeding fiscal year.”
 
-### § 2915. Facilities: use of renewable forms of energy and energy efficient products
+### § 2915. Facilities: use of renewable forms of energy and energy efficient products
 
 **(a) Use of Renewable Forms of Energy Encouraged.—** The Secretary of Defense shall encourage the use of energy systems using solar energy or other renewable forms of energy as a source of energy for military construction projects (including military family housing projects) and facility repairs and renovations where use of such form of energy is consistent with the energy performance goals and energy performance master plan for the Department of Defense developed under section 2911 of this title and supported by the special considerations specified in subsection (e) of such section.
 
@@ -1649,45 +1649,45 @@ Pub. L. 114–328, div. B, title XXVIII, § 2805(b)(1)(B), Dec. 23, 2016, 130 
 
 **(B)** are listed on the Federal Energy Management Program Product Energy Efficiency Recommendations product list of the Department of Energy.
 
-(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 166, § 2857; amended Pub. L. 97–321, title VIII, § 801(b)(1), (2), Oct. 15, 1982, 96 Stat. 1571; Pub. L. 98–525, title XIV, § 1405(45)(A), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 101–218, § 8(b), Dec. 11, 1989, 103 Stat. 1868; Pub. L. 101–510, div. B, title XXVIII, § 2852(b), Nov. 5, 1990, 104 Stat. 1804; Pub. L. 102–25, title VII, § 701(g)(2), Apr. 6, 1991, 105 Stat. 115; renumbered § 2915 and amended Pub. L. 109–364, div. B, title XXVIII, §§ 2851(b)(1), (3)(A), 2854, Oct. 17, 2006, 120 Stat. 2494, 2497; Pub. L. 111–383, div. B, title XXVIII, § 2832(b), Jan. 7, 2011, 124 Stat. 4468; Pub. L. 112–81, div. B, title XXVIII, § 2825(a), Dec. 31, 2011, 125 Stat. 1693; Pub. L. 115–91, div. B, title XXVIII, § 2831(c)(2), Dec. 12, 2017, 131 Stat. 1857.)
+(Added Pub. L. 97–214, § 2(a), July 12, 1982, 96 Stat. 166, § 2857; amended Pub. L. 97–321, title VIII, § 801(b)(1), (2), Oct. 15, 1982, 96 Stat. 1571; Pub. L. 98–525, title XIV, § 1405(45)(A), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 101–218, § 8(b), Dec. 11, 1989, 103 Stat. 1868; Pub. L. 101–510, div. B, title XXVIII, § 2852(b), Nov. 5, 1990, 104 Stat. 1804; Pub. L. 102–25, title VII, § 701(g)(2), Apr. 6, 1991, 105 Stat. 115; renumbered § 2915 and amended Pub. L. 109–364, div. B, title XXVIII, §§ 2851(b)(1), (3)(A), 2854, Oct. 17, 2006, 120 Stat. 2494, 2497; Pub. L. 111–383, div. B, title XXVIII, § 2832(b), Jan. 7, 2011, 124 Stat. 4468; Pub. L. 112–81, div. B, title XXVIII, § 2825(a), Dec. 31, 2011, 125 Stat. 1693; Pub. L. 115–91, div. B, title XXVIII, § 2831(c)(2), Dec. 12, 2017, 131 Stat. 1857.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Subsecs. (a), (b)(1)(B), (e)(1). Pub. L. 115–91, § 2831(c)(2)(A), substituted “subsection (e)” for “subsection (c)”.
+2017—Subsecs. (a), (b)(1)(B), (e)(1). Pub. L. 115–91, § 2831(c)(2)(A), substituted “subsection (e)” for “subsection (c)”.
 
-Subsec. (e)(2)(C). Pub. L. 115–91, § 2831(c)(2)(B), substituted “2911(d)(2)” for “2911(b)(2)”.
+Subsec. (e)(2)(C). Pub. L. 115–91, § 2831(c)(2)(B), substituted “2911(d)(2)” for “2911(b)(2)”.
 
-2011—Pub. L. 111–383, § 2832(b)(4), substituted “Facilities: use of renewable forms of energy and energy efficient products” for “New construction: use of renewable forms of energy and energy efficient products” in section catchline.
+2011—Pub. L. 111–383, § 2832(b)(4), substituted “Facilities: use of renewable forms of energy and energy efficient products” for “New construction: use of renewable forms of energy and energy efficient products” in section catchline.
 
-Subsec. (a). Pub. L. 111–383, § 2832(b)(1), inserted “and facility repairs and renovations” after “military family housing projects)” and substituted “energy performance master plan” for “energy performance plan”.
+Subsec. (a). Pub. L. 111–383, § 2832(b)(1), inserted “and facility repairs and renovations” after “military family housing projects)” and substituted “energy performance master plan” for “energy performance plan”.
 
-Subsec. (b)(1). Pub. L. 111–383, § 2832(b)(2), substituted “the design for the construction, repair, or renovation of facilities (including family housing and back-up power generation facilities) requires consideration of energy systems using solar energy or other renewable forms of energy when use of a renewable form of energy—” for “the design of all new facilities (including family housing) shall include consideration of energy systems using solar energy or other renewable forms of energy.” and added subpars. (A) and (B).
+Subsec. (b)(1). Pub. L. 111–383, § 2832(b)(2), substituted “the design for the construction, repair, or renovation of facilities (including family housing and back-up power generation facilities) requires consideration of energy systems using solar energy or other renewable forms of energy when use of a renewable form of energy—” for “the design of all new facilities (including family housing) shall include consideration of energy systems using solar energy or other renewable forms of energy.” and added subpars. (A) and (B).
 
-Subsec. (e). Pub. L. 111–383, § 2832(b)(3)(A), substituted “Use of Energy Efficient Products in Facilities” for “Use of Energy Efficiency Products in New Construction” in heading.
+Subsec. (e). Pub. L. 111–383, § 2832(b)(3)(A), substituted “Use of Energy Efficient Products in Facilities” for “Use of Energy Efficiency Products in New Construction” in heading.
 
-Subsec. (e)(1). Pub. L. 111–383, § 2832(b)(3)(B), substituted “construction, repair, or renovation of facilities” for “new facility construction” and “energy performance master plan” for “energy performance plan”.
+Subsec. (e)(1). Pub. L. 111–383, § 2832(b)(3)(B), substituted “construction, repair, or renovation of facilities” for “new facility construction” and “energy performance master plan” for “energy performance plan”.
 
 Subsec. (e)(2). Pub. L. 112–81 added par. (2) and struck out former par. (2), which related to energy efficient products and provided examples of technologies, consistent with the products specified in paragraph (3).
 
-Pub. L. 111–383, § 2832(b)(3)(D), added par. (2). Former par. (2) redesignated (3).
+Pub. L. 111–383, § 2832(b)(3)(D), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (e)(3). Pub. L. 111–383, § 2832(b)(3)(C), redesignated par. (2) as (3).
+Subsec. (e)(3). Pub. L. 111–383, § 2832(b)(3)(C), redesignated par. (2) as (3).
 
-2006—Pub. L. 109–364, § 2854(b)(1), substituted “New construction: use of renewable forms of energy and energy efficient products” for “Use of renewable forms of energy in new facilities” in section catchline.
+2006—Pub. L. 109–364, § 2854(b)(1), substituted “New construction: use of renewable forms of energy and energy efficient products” for “Use of renewable forms of energy in new facilities” in section catchline.
 
-Pub. L. 109–364, § 2851(b)(1), renumbered section 2857 of this title as this section.
+Pub. L. 109–364, § 2851(b)(1), renumbered section 2857 of this title as this section.
 
-Subsec. (a). Pub. L. 109–364, § 2854(b)(2),(3)(A)(i), inserted heading and substituted “is consistent with the energy performance goals and energy performance plan for the Department of Defense developed under section 2911 of this title and supported by the special considerations specified in subsection (c) of such section” for “would be practical and economically feasible”.
+Subsec. (a). Pub. L. 109–364, § 2854(b)(2),(3)(A)(i), inserted heading and substituted “is consistent with the energy performance goals and energy performance plan for the Department of Defense developed under section 2911 of this title and supported by the special considerations specified in subsection (c) of such section” for “would be practical and economically feasible”.
 
-Subsec. (b). Pub. L. 109–364, § 2854(b)(3), inserted heading.
+Subsec. (b). Pub. L. 109–364, § 2854(b)(3), inserted heading.
 
-Subsec. (b)(1). Pub. L. 109–364, § 2851(b)(3)(A)(ii), struck out “in those cases in which use of such forms of energy has the potential for reduced energy costs” before period at end.
+Subsec. (b)(1). Pub. L. 109–364, § 2851(b)(3)(A)(ii), struck out “in those cases in which use of such forms of energy has the potential for reduced energy costs” before period at end.
 
-Subsecs. (c), (d). Pub. L. 109–364, § 2854(b)(4), (5) inserted headings.
+Subsecs. (c), (d). Pub. L. 109–364, § 2854(b)(4), (5) inserted headings.
 
-Subsec. (e). Pub. L. 109–364, § 2854(a), added subsec. (e).
+Subsec. (e). Pub. L. 109–364, § 2854(a), added subsec. (e).
 
 1991—Subsec. (c)(2). Pub. L. 102–25 inserted “(42 U.S.C. 8254(a))” after “Policy Act”.
 
@@ -1707,29 +1707,29 @@ Subsec. (e). Pub. L. 109–364, § 2854(a), added subsec. (e).
 
 1984—Subsec. (b)(1). Pub. L. 98–525 substituted “use of such forms of energy has the potential for” for “use of solar energy has the potential for”.
 
-1982—Pub. L. 97–321, § 801(b)(2), substituted “renewable forms of energy in new facilities” for “solar energy systems” in section catchline.
+1982—Pub. L. 97–321, § 801(b)(2), substituted “renewable forms of energy in new facilities” for “solar energy systems” in section catchline.
 
-Subsec. (a). Pub. L. 97–321, § 801(b)(1)(A), substituted “energy systems using solar energy or other renewable forms of energy” and “such form of energy would” for “solar energy systems” and “solar energy would”, respectively.
+Subsec. (a). Pub. L. 97–321, § 801(b)(1)(A), substituted “energy systems using solar energy or other renewable forms of energy” and “such form of energy would” for “solar energy systems” and “solar energy would”, respectively.
 
-Subsec. (b)(1). Pub. L. 97–321, § 801(b)(1)(B), substituted “energy systems using solar energy or other renewable forms of energy” for “solar energy systems” and directed that “such form of energy has” be substituted for “a solar energy has”, but “a solar energy has” did not appear in par. (1). See 1984 Amendment note above.
+Subsec. (b)(1). Pub. L. 97–321, § 801(b)(1)(B), substituted “energy systems using solar energy or other renewable forms of energy” for “solar energy systems” and directed that “such form of energy has” be substituted for “a solar energy has”, but “a solar energy has” did not appear in par. (1). See 1984 Amendment note above.
 
-Subsec. (b)(2). Pub. L. 97–321, § 801(b)(1)(B)(i), substituted “energy systems using solar energy or other renewable forms of energy” for “solar energy systems”.
+Subsec. (b)(2). Pub. L. 97–321, § 801(b)(1)(B)(i), substituted “energy systems using solar energy or other renewable forms of energy” for “solar energy systems”.
 
-Subsec. (c). Pub. L. 97–321, § 801(b)(1)(C)–(E), substituted: in par. (1) “an energy system using solar energy or other renewable forms of energy” for “a solar energy system” before “for a facility” and in items (A) and (B) “such a system” for “a solar energy system”; in par. (2)(A) “an energy system using solar energy or other renewable forms of energy” for “a solar energy system”; and in par. (3) “energy system using solar energy or other renewable forms of energy” for “solar energy system”, respectively.
+Subsec. (c). Pub. L. 97–321, § 801(b)(1)(C)–(E), substituted: in par. (1) “an energy system using solar energy or other renewable forms of energy” for “a solar energy system” before “for a facility” and in items (A) and (B) “such a system” for “a solar energy system”; in par. (2)(A) “an energy system using solar energy or other renewable forms of energy” for “a solar energy system”; and in par. (3) “energy system using solar energy or other renewable forms of energy” for “solar energy system”, respectively.
 
-Subsec. (d). Pub. L. 97–321, § 801(b)(1)(F), substituted “heating equipment, cooling equipment, or both heating and cooling equipment using solar energy or other renewable forms of energy or with a passive energy energy system using solar energy or other renewable forms of energy” for “solar heating equipment, solar cooling equipment, or both solar heating and solar cooling equipment, or with a passive solar energy system”.
+Subsec. (d). Pub. L. 97–321, § 801(b)(1)(F), substituted “heating equipment, cooling equipment, or both heating and cooling equipment using solar energy or other renewable forms of energy or with a passive energy energy system using solar energy or other renewable forms of energy” for “solar heating equipment, solar cooling equipment, or both solar heating and solar cooling equipment, or with a passive solar energy system”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–525, title XIV, § 1405(45)(B), Oct. 19, 1984, 98 Stat. 2625, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect as if it had been included in the amendments made by section 801 of Public Law 97–321.”
+Pub. L. 98–525, title XIV, § 1405(45)(B), Oct. 19, 1984, 98 Stat. 2625, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect as if it had been included in the amendments made by section 801 of Public Law 97–321.”
 
 **Effective Date**
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 
-### § 2916. Sale of electricity from alternate energy and cogeneration production facilities
+### § 2916. Sale of electricity from alternate energy and cogeneration production facilities
 
 **(a)** The Secretary of a military department may sell, contract to sell, or authorize the sale by a contractor to a public or private utility company of electrical energy generated from alternate energy or cogeneration type production facilities which are under the jurisdiction (or produced on land which is under the jurisdiction) of the Secretary concerned. The sale of such energy shall be made under such regulations, for such periods, and at such prices as the Secretary concerned prescribes consistent with the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2601 et seq.).
 
@@ -1737,9 +1737,9 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 
 **(1)** Except as provided in paragraph (3), proceeds from sales under subsection (a) shall be credited to the appropriation account currently available to the military department concerned for the supply of electrical energy.
 
-**(2)** Subject to the availability of appropriations for this purpose, proceeds credited under paragraph (1) may be used to carry out military construction projects under the energy performance plan developed by the Secretary of Defense under section 2911(c) 1
+**(2)** Subject to the availability of appropriations for this purpose, proceeds credited under paragraph (1) may be used to carry out military construction projects under the energy performance plan developed by the Secretary of Defense under section 2911(c) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, including minor military construction projects authorized under section 2805 of this title that are designed to increase energy conservation.
 
@@ -1761,7 +1761,7 @@ of this title, including minor military construction projects authorized under s
 
 **(c)** Before carrying out a military construction project described in subsection (b) using proceeds from sales under subsection (a), the Secretary concerned shall notify Congress of the project, the justification for the project, and the estimated cost of the project. The project may be carried out only after the end of the 14-day period beginning on the date the notification is received by Congress in an electronic medium pursuant to section 480 of this title.
 
-(Added Pub. L. 98–407, title VIII, § 810(a), Aug. 28, 1984, 98 Stat. 1523, § 2483; amended Pub. L. 103–160, div. B, title XXVIII, § 2802, Nov. 30, 1993, 107 Stat. 1884; renumbered § 2867, Pub. L. 105–85, div. A, title III, § 371(b)(2), Nov. 18, 1997, 111 Stat. 1705; Pub. L. 108–136, div. A, title X, § 1031(a)(49), Nov. 24, 2003, 117 Stat. 1602; renumbered § 2916 and amended Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(1), (3)(B), Oct. 17, 2006, 120 Stat. 2494; Pub. L. 115–91, div. B, title XXVIII, §§ 2801(e)(2), 2831(c)(3), Dec. 12, 2017, 131 Stat. 1845, 1858; Pub. L. 115–232, div. A, title III, § 313, Aug. 13, 2018, 132 Stat. 1711; Pub. L. 116–92, div. A, title III, § 318, Dec. 20, 2019, 133 Stat. 1305.)
+(Added Pub. L. 98–407, title VIII, § 810(a), Aug. 28, 1984, 98 Stat. 1523, § 2483; amended Pub. L. 103–160, div. B, title XXVIII, § 2802, Nov. 30, 1993, 107 Stat. 1884; renumbered § 2867, Pub. L. 105–85, div. A, title III, § 371(b)(2), Nov. 18, 1997, 111 Stat. 1705; Pub. L. 108–136, div. A, title X, § 1031(a)(49), Nov. 24, 2003, 117 Stat. 1602; renumbered § 2916 and amended Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(1), (3)(B), Oct. 17, 2006, 120 Stat. 2494; Pub. L. 115–91, div. B, title XXVIII, §§ 2801(e)(2), 2831(c)(3), Dec. 12, 2017, 131 Stat. 1845, 1858; Pub. L. 115–232, div. A, title III, § 313, Aug. 13, 2018, 132 Stat. 1711; Pub. L. 116–92, div. A, title III, § 318, Dec. 20, 2019, 133 Stat. 1305.)
 
 **Editorial Notes**
 
@@ -1775,33 +1775,33 @@ Section 2911(c) of this title, referred to in subsec. (b)(2), was, prior to amen
 
 2019—Subsec. (b)(3)(B). Pub. L. 116–92 substituted “shall be provided directly to the commander of the military installation in which the geothermal energy resource is located to be used for—” for “shall be available, for military construction projects described in paragraph (2) or for installation energy or water security projects directly coordinated with local area energy or groundwater governing authorities, for the military installation in which the geothermal energy resource is located.” and added cls. (i) and (ii).
 
-2018—Subsec. (b)(1). Pub. L. 115–232, § 313(1), substituted “Except as provided in paragraph (3), proceeds” for “Proceeds”.
+2018—Subsec. (b)(1). Pub. L. 115–232, § 313(1), substituted “Except as provided in paragraph (3), proceeds” for “Proceeds”.
 
-Subsec. (b)(3). Pub. L. 115–232, § 313(2), added par. (3).
+Subsec. (b)(3). Pub. L. 115–232, § 313(2), added par. (3).
 
-2017—Subsec. (b)(2). Pub. L. 115–91, § 2831(c)(3), substituted “2911(c)” for “2911(b)”.
+2017—Subsec. (b)(2). Pub. L. 115–91, § 2831(c)(3), substituted “2911(c)” for “2911(b)”.
 
-Subsec. (c). Pub. L. 115–91, § 2801(e)(2), struck out “in writing” after “notify Congress” and “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided” after “received by Congress” and substituted “14-day period” for “21-day period”.
+Subsec. (c). Pub. L. 115–91, § 2801(e)(2), struck out “in writing” after “notify Congress” and “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided” after “received by Congress” and substituted “14-day period” for “21-day period”.
 
-2006—Pub. L. 109–364, § 2851(b)(1), renumbered section 2867 of this title as this section.
+2006—Pub. L. 109–364, § 2851(b)(1), renumbered section 2867 of this title as this section.
 
-Subsec. (b)(2). Pub. L. 109–364, § 2851(b)(3)(B), substituted “2911(b)” for “2865(a)”.
+Subsec. (b)(2). Pub. L. 109–364, § 2851(b)(3)(B), substituted “2911(b)” for “2865(a)”.
 
 2003—Subsec. (c). Pub. L. 108–136 inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”.
 
 1997—Pub. L. 105–85 renumbered section 2483 of this title as this section.
 
-1993—Subsec. (b). Pub. L. 103–160, § 2802(a), designated existing provisions as par. (1) and added par. (2).
+1993—Subsec. (b). Pub. L. 103–160, § 2802(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (c). Pub. L. 103–160, § 2802(b), added subsec. (c).
+Subsec. (c). Pub. L. 103–160, § 2802(b), added subsec. (c).
 
-### § 2917. Development of geothermal energy on military lands
+### § 2917. Development of geothermal energy on military lands
 
 **(a) Development Authorized.—** The Secretary of a military department may develop, or authorize the development of, any geothermal energy resource within lands under the Secretary’s jurisdiction, including public lands, for the use or benefit of the Department of Defense if that development is in the public interest, as determined by the Secretary concerned, and will not deter commercial development and use of other portions of such resource if offered for leasing.
 
 **(b) Consideration of Energy Security.—** The development of a geothermal energy project under subsection (a) should include consideration of energy security in the design and development of the project.
 
-(Added Pub. L. 97–214, § 6(c)(1), July 12, 1982, 96 Stat. 172, § 2689; renumbered § 2917, Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(1), Oct. 17, 2006, 120 Stat. 2494; amended Pub. L. 112–81, div. B, title XXVIII, § 2822(c), Dec. 31, 2011, 125 Stat. 1692.)
+(Added Pub. L. 97–214, § 6(c)(1), July 12, 1982, 96 Stat. 172, § 2689; renumbered § 2917, Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(1), Oct. 17, 2006, 120 Stat. 2494; amended Pub. L. 112–81, div. B, title XXVIII, § 2822(c), Dec. 31, 2011, 125 Stat. 1692.)
 
 **Editorial Notes**
 
@@ -1817,7 +1817,7 @@ Subsec. (c). Pub. L. 103–160, § 2802(b), added subsec. (c).
 
 Section effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 
-### § 2918. Fuel sources for heating systems; prohibition on converting certain heating facilities
+### § 2918. Fuel sources for heating systems; prohibition on converting certain heating facilities
 
 **(a)**
 
@@ -1831,7 +1831,7 @@ Section effective Oct. 1, 1982, and applicable to military construction projects
 
 **(2)** is cost-effective over the life cycle of the facility.
 
-(Added Pub. L. 97–214, § 6(c)(1), July 12, 1982, 96 Stat. 173, § 2690; amended Pub. L. 99–661, div. A, title XII, § 1205(a)(1), Nov. 14, 1986, 100 Stat. 3971; Pub. L. 105–85, div. A, title X, § 1041(a), Nov. 18, 1997, 111 Stat. 1885; renumbered § 2918, Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(1), Oct. 17, 2006, 120 Stat. 2494.)
+(Added Pub. L. 97–214, § 6(c)(1), July 12, 1982, 96 Stat. 173, § 2690; amended Pub. L. 99–661, div. A, title XII, § 1205(a)(1), Nov. 14, 1986, 100 Stat. 3971; Pub. L. 105–85, div. A, title X, § 1041(a), Nov. 18, 1997, 111 Stat. 1885; renumbered § 2918, Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(1), Oct. 17, 2006, 120 Stat. 2494.)
 
 **Editorial Notes**
 
@@ -1859,7 +1859,7 @@ Section effective Oct. 1, 1982, and applicable to military construction projects
 
 Section effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 
-### § 2919. Department of Defense participation in programs for management of energy demand or reduction of energy usage during peak periods
+### § 2919. Department of Defense participation in programs for management of energy demand or reduction of energy usage during peak periods
 
 **(a) Participation in Demand Response or Load Management Programs.—** The Secretary of Defense, the Secretaries of the military departments, the heads of the Defense Agencies, and the heads of other instrumentalities of the Department of Defense are authorized to participate in demand response programs for the management of energy demand or the reduction of energy usage during peak periods conducted by any of the following parties:
 
@@ -1879,9 +1879,9 @@ Section effective Oct. 1, 1982, and applicable to military construction projects
 
 **(c) Energy Savings Financial Incentives Fund.—** There is established in the Treasury a fund to be known as the “Energy Savings Financial Incentives Fund”. The Fund shall consist of any amount deposited in the Fund pursuant to subsection (b)(2) and amounts appropriated or otherwise made available to the Fund by law.
 
-(Added Pub. L. 111–84, div. B, title XXVIII, § 2843(a), Oct. 28, 2009, 123 Stat. 2681.)
+(Added Pub. L. 111–84, div. B, title XXVIII, § 2843(a), Oct. 28, 2009, 123 Stat. 2681.)
 
-### § 2920. Energy resilience and energy security measures on military installations
+### § 2920. Energy resilience and energy security measures on military installations
 
 **(a) Energy Resilience Measures.—**
 
@@ -2003,7 +2003,7 @@ Section effective Oct. 1, 1982, and applicable to military construction projects
 
 **(5)** The term “installation” has the meaning given the term “military installation” in section 2801(c)(4) of this title.
 
-(Added Pub. L. 116–283, div. A, title III, § 316(a), Jan. 1, 2021, 134 Stat. 3516; amended Pub. L. 118–159, div. A, title III, §§ 313, 314(a), Dec. 23, 2024, 138 Stat. 1851; Pub. L. 119–60, div. B, title XXVIII, § 2847, Dec. 18, 2025, 139 Stat. 1319.)
+(Added Pub. L. 116–283, div. A, title III, § 316(a), Jan. 1, 2021, 134 Stat. 3516; amended Pub. L. 118–159, div. A, title III, §§ 313, 314(a), Dec. 23, 2024, 138 Stat. 1851; Pub. L. 119–60, div. B, title XXVIII, § 2847, Dec. 18, 2025, 139 Stat. 1319.)
 
 **Editorial Notes**
 
@@ -2011,15 +2011,15 @@ Section effective Oct. 1, 1982, and applicable to military construction projects
 
 2025—Subsec. (a)(5), (6). Pub. L. 119–60 added pars. (5) and (6).
 
-2024—Subsec. (d)(2)(C)(ii). Pub. L. 118–159, § 313, substituted “2032” for “2027”.
+2024—Subsec. (d)(2)(C)(ii). Pub. L. 118–159, § 313, substituted “2032” for “2027”.
 
-Subsec. (g). Pub. L. 118–159, § 314(a), substituted “2027” for “2029” in introductory provisions.
+Subsec. (g). Pub. L. 118–159, § 314(a), substituted “2027” for “2029” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Pilot Program on Procurement of Utility Services for Installations of the Department of Defense Through Areawide Contracts**
 
-Pub. L. 119–60, div. B, title XXVIII, § 2888, Dec. 18, 2025, 139 Stat. 1332, provided that:
+Pub. L. 119–60, div. B, title XXVIII, § 2888, Dec. 18, 2025, 139 Stat. 1332, provided that:
 
 > **“(a) Pilot Program Required.—** Not later than 30 days after the date of the enactment of this Act [Dec 18, 2025], the Secretary of Defense shall establish a pilot program (in this section referred to as the ‘pilot program’) for the purposes of procuring utility services through an areawide contract with a public utility provider for any utility services that support energy resilience and mission readiness of a military installation.
 
@@ -2049,7 +2049,7 @@ Pub. L. 119–60, div. B, title XXVIII, § 2888, Dec. 18, 2025, 139 Stat. 1332
 
 **Department of Defense Infrastructure Resilience and Readiness**
 
-Pub. L. 118–31, div. B, title XXVIII, § 2811(b), Dec. 22, 2023, 137 Stat. 748, provided that:
+Pub. L. 118–31, div. B, title XXVIII, § 2811(b), Dec. 22, 2023, 137 Stat. 748, provided that:
 
 > **“(1) Authority.—** The Secretary of Defense and the Secretary of the military department concerned may utilize existing areawide contracts to procure utility services from a utility service supplier—
 
@@ -2081,7 +2081,7 @@ Pub. L. 118–31, div. B, title XXVIII, § 2811(b), Dec. 22, 2023, 137 Stat. 7
 
 > **“(F) Utility system.—** The term ‘utility system’ has the meaning given the term in subsections (i)(1)(A) and (i)(2)(A) of section 2688 of title 10, United States Code.”
 
-### § 2921. Energy efficiency targets for data centers
+### § 2921. Energy efficiency targets for data centers
 
 **(a) Covered Data Centers.—**
 
@@ -2121,7 +2121,7 @@ Pub. L. 118–31, div. B, title XXVIII, § 2811(b), Dec. 22, 2023, 137 Stat. 7
 
 **(B)** submits to the Committee on Armed Services of the House of Representatives notice of such waiver and the reasons for such waiver.
 
-(Added Pub. L. 117–81, div. A, title III, § 312(a)(1), Dec. 27, 2021, 135 Stat. 1627.)
+(Added Pub. L. 117–81, div. A, title III, § 312(a)(1), Dec. 27, 2021, 135 Stat. 1627.)
 
 **Editorial Notes**
 
@@ -2135,21 +2135,21 @@ The date of the enactment of this section, referred to in subsecs. (a)(3)(B) and
 
 **Amendments**
 
-2024—Pub. L. 118–159, div. A, title III, § 315, Dec. 23, 2024, 138 Stat. 1851, added item 2922j and struck out item 2922h “Limitation on procurement of drop-in fuels”. Amendments were made pursuant to operation of section 102 of this title.
+2024—Pub. L. 118–159, div. A, title III, § 315, Dec. 23, 2024, 138 Stat. 1851, added item 2922j and struck out item 2922h “Limitation on procurement of drop-in fuels”. Amendments were made pursuant to operation of section 102 of this title.
 
-2022—Pub. L. 117–263, div. A, title III, § 317(b), Dec. 23, 2022, 136 Stat. 2507, added item 2922g and struck out former item 2922g “Preference for motor vehicles using electric or hybrid propulsion systems”.
+2022—Pub. L. 117–263, div. A, title III, § 317(b), Dec. 23, 2022, 136 Stat. 2507, added item 2922g and struck out former item 2922g “Preference for motor vehicles using electric or hybrid propulsion systems”.
 
-2021—Pub. L. 116–283, div. A, title XVIII, § 1879(b), Jan. 1, 2021, 134 Stat. 4293, added item 2922i.
+2021—Pub. L. 116–283, div. A, title XVIII, § 1879(b), Jan. 1, 2021, 134 Stat. 4293, added item 2922i.
 
-2015—Pub. L. 114–92, div. A, title III, § 311(b), Nov. 25, 2015, 129 Stat. 787, added item 2922h.
+2015—Pub. L. 114–92, div. A, title III, § 311(b), Nov. 25, 2015, 129 Stat. 787, added item 2922h.
 
-2009—Pub. L. 111–84, div. B, title XXVIII, § 2844(b), Oct. 28, 2009, 123 Stat. 2682, added item 2922g.
+2009—Pub. L. 111–84, div. B, title XXVIII, § 2844(b), Oct. 28, 2009, 123 Stat. 2682, added item 2922g.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Prohibition and Report Requirement Relating to Certain Energy Programs of Department of Defense**
 
-Pub. L. 118–31, div. A, title III, § 320, Dec. 22, 2023, 137 Stat. 220, provided that:
+Pub. L. 118–31, div. A, title III, § 320, Dec. 22, 2023, 137 Stat. 220, provided that:
 
 > **“(a) Prohibition.—** None of the funds authorized to be appropriated by this Act [see Tables for classification] or otherwise made available for the Department of Defense for any operational energy program may be provided to any entity owned by, or with known financial or leadership ties to, the Russian Federation or the Chinese Communist Party.
 
@@ -2169,7 +2169,7 @@ Pub. L. 118–31, div. A, title III, § 320, Dec. 22, 2023, 137 Stat. 220, pro
 
 **Pilot Program on Use of Sustainable Aviation Fuel**
 
-Pub. L. 117–263, div. A, title III, § 324, Dec. 23, 2022, 136 Stat. 2516, provided that:
+Pub. L. 117–263, div. A, title III, § 324, Dec. 23, 2022, 136 Stat. 2516, provided that:
 
 > **“(a) Pilot Program Required.—**
 
@@ -2261,7 +2261,7 @@ Pub. L. 117–263, div. A, title III, § 324, Dec. 23, 2022, 136 Stat. 2516, p
 
 **Pilot Program on Alternative Fuel Vehicle Purchasing**
 
-Pub. L. 116–283, div. A, title III, § 321, Jan. 1, 2021, 134 Stat. 3521, provided that:
+Pub. L. 116–283, div. A, title III, § 321, Jan. 1, 2021, 134 Stat. 3521, provided that:
 
 > **“(a) In General.—** The Secretary of Defense, in coordination with the Secretary of Energy and the Administrator of the General Services Administration, shall carry out a pilot program under which the Secretary of Defense may, notwithstanding section 400AA of the Energy Policy and Conservation Act (42 U.S.C. 6374), purchase new alternative fuel vehicles for which the initial cost of such vehicles exceeds the initial cost of a comparable gasoline or diesel fueled vehicle by not more than 10 percent.
 
@@ -2281,7 +2281,7 @@ Pub. L. 116–283, div. A, title III, § 321, Jan. 1, 2021, 134 Stat. 3521, pr
 
 > **“(2)** propane.”
 
-### § 2922. Liquid fuels and natural gas: contracts for storage, handling, or distribution
+### § 2922. Liquid fuels and natural gas: contracts for storage, handling, or distribution
 
 **(a) Authority To Contract.—** The Secretary of Defense and the Secretary of a military department may each contract for storage facilities for, or the storage, handling, or distribution of, liquid fuels or natural gas.
 
@@ -2289,7 +2289,7 @@ Pub. L. 116–283, div. A, title III, § 321, Jan. 1, 2021, 134 Stat. 3521, pr
 
 **(c) Option To Purchase Facility.—** A contract under this section may contain an option for the purchase by the United States of the facility covered by the contract at the expiration or termination of the contract, without regard to subsections (a) and (b) of section 3324 of title 31, and before approval of title to the underlying land by the Attorney General.
 
-(Added Pub. L. 85–861, § 1(46), Sept. 2, 1958, 72 Stat. 1457, § 2388; amended Pub. L. 97–214, § 10(a)(3), July 12, 1982, 96 Stat. 175; Pub. L. 97–258, § 3(b)(6), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 97–295, § 1(27), Oct. 12, 1982, 96 Stat. 1291; Pub. L. 98–525, title XIV, § 1405(56)(A), Oct. 19, 1984, 98 Stat. 2626; Pub. L. 101–510, div. A, title XIII, § 1322(a)(6), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 103–160, div. A, title VIII, § 825, Nov. 30, 1993, 107 Stat. 1711; Pub. L. 103–355, title III, § 3064, Oct. 13, 1994, 108 Stat. 3337; renumbered § 2922, Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(2), Oct. 17, 2006, 120 Stat. 2494; Pub. L. 115–91, div. A, title VIII, § 881(a), Dec. 12, 2017, 131 Stat. 1504.)
+(Added Pub. L. 85–861, § 1(46), Sept. 2, 1958, 72 Stat. 1457, § 2388; amended Pub. L. 97–214, § 10(a)(3), July 12, 1982, 96 Stat. 175; Pub. L. 97–258, § 3(b)(6), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 97–295, § 1(27), Oct. 12, 1982, 96 Stat. 1291; Pub. L. 98–525, title XIV, § 1405(56)(A), Oct. 19, 1984, 98 Stat. 2626; Pub. L. 101–510, div. A, title XIII, § 1322(a)(6), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 103–160, div. A, title VIII, § 825, Nov. 30, 1993, 107 Stat. 1711; Pub. L. 103–355, title III, § 3064, Oct. 13, 1994, 108 Stat. 3337; renumbered § 2922, Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(2), Oct. 17, 2006, 120 Stat. 2494; Pub. L. 115–91, div. A, title VIII, § 881(a), Dec. 12, 2017, 131 Stat. 1504.)
 
 **Historical and Revision Notes**
 
@@ -2297,7 +2297,7 @@ Pub. L. 116–283, div. A, title III, § 321, Jan. 1, 2021, 134 Stat. 3521, pr
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2388(a) 2388(b) | 50:98i (1st sentence). 50:98i (2d sentence). | Aug. 3, 1956, ch. 939, § 416, 70 Stat. 1018. |
+| 2388(a) 2388(b) | 50:98i (1st sentence). 50:98i (2d sentence). | Aug. 3, 1956, ch. 939, § 416, 70 Stat. 1018. |
 | 2388(c) | 50:98i (less 1st and 2d sentences and proviso of last sentence). |  |
 | 2388(d) | 50:98i (proviso of last sentence). |  |
 
@@ -2307,7 +2307,7 @@ In subsection (c), the words “A contract under this section” are substituted
 
 **1982 Act**
 
-In 10:2388(c), the title 31 citation is substituted on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted title 31.
+In 10:2388(c), the title 31 citation is substituted on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted title 31.
 
 **Editorial Notes**
 
@@ -2319,31 +2319,31 @@ In 10:2388(c), the title 31 citation is substituted on authority of Pub. L. 97�
 
 1994—Subsec. (a). Pub. L. 103–355 substituted “liquid fuels or natural gas” for “liquid fuels and natural gas”.
 
-1993—Pub. L. 103–160, § 825(b), substituted “Liquid fuels and natural gas: contracts for storage, handling, or distribution” for “Liquid fuels: contracts for storage, handling, and distribution” as section catchline.
+1993—Pub. L. 103–160, § 825(b), substituted “Liquid fuels and natural gas: contracts for storage, handling, or distribution” for “Liquid fuels: contracts for storage, handling, and distribution” as section catchline.
 
-Subsecs. (a), (b). Pub. L. 103–160, § 825(a)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
+Subsecs. (a), (b). Pub. L. 103–160, § 825(a)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 
 “(a) The Secretary of a military department may contract for the storage, handling, and distribution of liquid fuels for periods of not more than five years, with options to renew for additional periods of not more than five years each, but not for more than a total of 20 years.
 
 “(b) This section applies only to facilities that conform to standards prescribed by the Secretary of Defense for protection, including dispersal, and that are in a program approved by the Secretary of Defense for the protection of petroleum facilities.”
 
-Subsec. (c). Pub. L. 103–160, § 825(a)(2), inserted heading.
+Subsec. (c). Pub. L. 103–160, § 825(a)(2), inserted heading.
 
 1990—Subsec. (d). Pub. L. 101–510 struck out subsec. (d) which read as follows: “The Secretary concerned shall report to the Committees on Armed Services of the Senate and the House of Representatives the terms of the contracts made under this section and the names of the contractors. The reports shall be made at such times and in such form as may be agreed upon by the Secretary and those Committees.”
 
 1984—Subsec. (c). Pub. L. 98–525 substituted “subsections (a) and (b) of section 3324” for “section 3324(a) and (b)”.
 
-1982—Subsec. (c). Pub. L. 97–295, § 1(27), substituted “section 3324(a) and (b) of title 31” for “section 3648 of the Revised Statutes (31 U.S.C. 529)”, clarifying the ambiguity created by previous amendments by Pub. L. 97–214 and Pub. L. 97–258.
+1982—Subsec. (c). Pub. L. 97–295, § 1(27), substituted “section 3324(a) and (b) of title 31” for “section 3648 of the Revised Statutes (31 U.S.C. 529)”, clarifying the ambiguity created by previous amendments by Pub. L. 97–214 and Pub. L. 97–258.
 
-Pub. L. 97–258, § 3(b)(6), directed the substitution of “section 3324(a) and (b) of title 31” for “section 529 of title 31”, which could not be executed in view of prior substitution of language by Pub. L. 97–214.
+Pub. L. 97–258, § 3(b)(6), directed the substitution of “section 3324(a) and (b) of title 31” for “section 529 of title 31”, which could not be executed in view of prior substitution of language by Pub. L. 97–214.
 
-Pub. L. 97–214, § 10(a)(3), substituted “section 3648 of the Revised Statutes (31 U.S.C. 529)” for “section 4774(d) or 9774(d) of this title, section 529 of title 31, or section 259 or 267 of title 40,”.
+Pub. L. 97–214, § 10(a)(3), substituted “section 3648 of the Revised Statutes (31 U.S.C. 529)” for “section 4774(d) or 9774(d) of this title, section 529 of title 31, or section 259 or 267 of title 40,”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–91, div. A, title VIII, § 881(b), Dec. 12, 2017, 131 Stat. 1504, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to contracts entered into on or after the date of the enactment of this Act [Dec. 12, 2017], and may be applied to a contract entered into before that date if the total contract period under the contract (including options) has not expired as of the date of any extension of such contract period by reason of such amendment.”
+Pub. L. 115–91, div. A, title VIII, § 881(b), Dec. 12, 2017, 131 Stat. 1504, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to contracts entered into on or after the date of the enactment of this Act [Dec. 12, 2017], and may be applied to a contract entered into before that date if the total contract period under the contract (including options) has not expired as of the date of any extension of such contract period by reason of such amendment.”
 
 **Effective Date of 1982 Amendment**
 
@@ -2351,7 +2351,7 @@ Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military
 
 **Implementation of Inspector General Recommendations Relating to Oversight of Defense Fuel Support Points**
 
-Pub. L. 118–159, div. A, title III, § 320, Dec. 23, 2024, 138 Stat. 1853, provided that:
+Pub. L. 118–159, div. A, title III, § 320, Dec. 23, 2024, 138 Stat. 1853, provided that:
 
 > “With respect to each recommendation of the Inspector General of the Department of Defense contained in the report published by the Inspector General on April 11, 2024, and titled ‘Audit of the Defense Logistics Agency Oversight of Defense Fuel Support Points’ (DODIG–2024–075), by not later than May 1, 2026, the Secretary of Defense shall—
 
@@ -2361,7 +2361,7 @@ Pub. L. 118–159, div. A, title III, § 320, Dec. 23, 2024, 138 Stat. 1853, p
 
 **Bulk Fuel Management in United States Indo-Pacific Command Area of Responsibility**
 
-Pub. L. 116–283, div. B, title XXVIII, § 2854, Jan. 1, 2021, 134 Stat. 4355, as amended by Pub. L. 117–81, div. A, title III, § 352(d), Dec. 27, 2021, 135 Stat. 1655, provided that:
+Pub. L. 116–283, div. B, title XXVIII, § 2854, Jan. 1, 2021, 134 Stat. 4355, as amended by Pub. L. 117–81, div. A, title III, § 352(d), Dec. 27, 2021, 135 Stat. 1655, provided that:
 
 > **“(a) Bulk Fuel Management Strategy.—**
 
@@ -2379,7 +2379,7 @@ Pub. L. 116–283, div. B, title XXVIII, § 2854, Jan. 1, 2021, 134 Stat. 4355
 
 **Notice of Purchase of Drop-In Fuel**
 
-Pub. L. 113–291, div. A, title III, § 316(c), (d), Dec. 19, 2014, 128 Stat. 3339, 3340, provided that:
+Pub. L. 113–291, div. A, title III, § 316(c), (d), Dec. 19, 2014, 128 Stat. 3339, 3340, provided that:
 
 > **“(c) Notice of Purchase Required.—** If the Secretary of Defense intends to purchase a drop-in fuel intended for operational use with a fully burdened cost in excess of 10 percent more than the fully burdened cost of a traditional fuel available for the same purpose, the Secretary shall provide notice of such intended purchase to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] by not later than 30 days before the date on which such purchase is intended to be made.
 
@@ -2395,9 +2395,9 @@ Pub. L. 113–291, div. A, title III, § 316(c), (d), Dec. 19, 2014, 128 Stat.
 
 **Purchases of Gasohol as Fuel for Motor Vehicles**
 
-Pub. L. 96–107, title VIII, § 815, Nov. 9, 1979, 93 Stat. 817, which had authorized the Secretary of Defense to buy domestically produced alcohol and gasohol for use as fuel in Department of Defense motor vehicles, was repealed and reenacted as section 2398 (now 2922c) of this title by Pub. L. 97–295, §§ 1(29)(A), 6(b), Oct. 12, 1982, 96 Stat. 1293, 1315.
+Pub. L. 96–107, title VIII, § 815, Nov. 9, 1979, 93 Stat. 817, which had authorized the Secretary of Defense to buy domestically produced alcohol and gasohol for use as fuel in Department of Defense motor vehicles, was repealed and reenacted as section 2398 (now 2922c) of this title by Pub. L. 97–295, §§ 1(29)(A), 6(b), Oct. 12, 1982, 96 Stat. 1293, 1315.
 
-### § 2922a. Contracts for energy or fuel for military installations
+### § 2922a. Contracts for energy or fuel for military installations
 
 **(a)** Subject to subsection (b), the Secretary of a military department may enter into contracts for periods of up to 30 years—
 
@@ -2411,7 +2411,7 @@ Pub. L. 96–107, title VIII, § 815, Nov. 9, 1979, 93 Stat. 817, which had au
 
 **(d)** The Secretary concerned shall ensure energy security and energy resilience are included as critical factors in the provision and operation of energy production facilities under this section.
 
-(Added Pub. L. 97–214, § 6(a)(1), July 12, 1982, 96 Stat. 171, § 2394; amended Pub. L. 97–321, title VIII, § 805(b)(3), Oct. 15, 1982, 96 Stat. 1573; Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–510, div. A, title XIII, § 1301(12), Nov. 5, 1990, 104 Stat. 1668; renumbered § 2922a and amended Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(2), (3)(C), Oct. 17, 2006, 120 Stat. 2494; Pub. L. 115–91, div. B, title XXVIII, § 2833, Dec. 12, 2017, 131 Stat. 1858; Pub. L. 115–232, div. A, title III, § 312(d), Aug. 13, 2018, 132 Stat. 1710; Pub. L. 116–92, div. A, title III, § 320(a)(2)(A), Dec. 20, 2019, 133 Stat. 1306.)
+(Added Pub. L. 97–214, § 6(a)(1), July 12, 1982, 96 Stat. 171, § 2394; amended Pub. L. 97–321, title VIII, § 805(b)(3), Oct. 15, 1982, 96 Stat. 1573; Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–510, div. A, title XIII, § 1301(12), Nov. 5, 1990, 104 Stat. 1668; renumbered § 2922a and amended Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(2), (3)(C), Oct. 17, 2006, 120 Stat. 2494; Pub. L. 115–91, div. B, title XXVIII, § 2833, Dec. 12, 2017, 131 Stat. 1858; Pub. L. 115–232, div. A, title III, § 312(d), Aug. 13, 2018, 132 Stat. 1710; Pub. L. 116–92, div. A, title III, § 320(a)(2)(A), Dec. 20, 2019, 133 Stat. 1306.)
 
 **Editorial Notes**
 
@@ -2423,9 +2423,9 @@ Pub. L. 96–107, title VIII, § 815, Nov. 9, 1979, 93 Stat. 817, which had au
 
 2017—Subsec. (d). Pub. L. 115–91 added subsec. (d).
 
-2006—Pub. L. 109–364, § 2851(b)(2), renumbered section 2394 of this title as this section.
+2006—Pub. L. 109–364, § 2851(b)(2), renumbered section 2394 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 109–364, § 2851(b)(3)(C), substituted “section 2917” for “section 2689”.
+Subsec. (a)(1). Pub. L. 109–364, § 2851(b)(3)(C), substituted “section 2917” for “section 2689”.
 
 1990—Subsec. (b). Pub. L. 101–510 substituted “only after the approval of the proposed contract by the Secretary of Defense” for “only—
 
@@ -2435,9 +2435,9 @@ Subsec. (a)(1). Pub. L. 109–364, § 2851(b)(3)(C), substituted “section 29
 
 1987—Subsec. (c). Pub. L. 100–26, which directed that “The term” be inserted in each paragraph after the paragraph designation and the first word after the first quotation marks in each paragraph be revised so that the initial letter of such word is lowercase, could not be executed because subsec. (c) contained no paragraphs and no quoted words. The probable intent of Congress was to amend section 2393(c) of this title.
 
-1982—Subsec. (a). Pub. L. 97–321, § 805(b)(3)(A), substituted “subsection (b)” for “subsection (c)”.
+1982—Subsec. (a). Pub. L. 97–321, § 805(b)(3)(A), substituted “subsection (b)” for “subsection (c)”.
 
-Subsecs. (c), (d). Pub. L. 97–321, § 805(b)(3)(B), redesignated subsec. (d) as (c).
+Subsecs. (c), (d). Pub. L. 97–321, § 805(b)(3)(B), redesignated subsec. (d) as (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2445,13 +2445,13 @@ Subsecs. (c), (d). Pub. L. 97–321, § 805(b)(3)(B), redesignated subsec. (d)
 
 Section effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 
-### § 2922b. Procurement of energy systems using renewable forms of energy
+### § 2922b. Procurement of energy systems using renewable forms of energy
 
 **(a)** In procuring energy systems the Secretary of a military department shall procure systems that use solar energy or other renewable forms of energy whenever the Secretary determines that such procurement is possible, suited to supplying the energy needs of the military department under the jurisdiction of the Secretary, consistent with the energy performance goals and energy performance plan for the Department of Defense developed under section 2911 of this title, and supported by the special considerations specified in subsection (e) of such section.
 
 **(b)** The Secretary of Defense shall from time to time study uses for solar energy and other renewable forms of energy to determine what uses of such forms of energy may be reliable in supplying the energy needs of the Department of Defense. The Secretary of Defense, based upon the results of such studies, shall from time to time issue policy guidelines to be followed by the Secretaries of the military departments in carrying out subsection (a) and section 2915 of this title.
 
-(Added Pub. L. 97–321, title VIII, § 801(a)(1), Oct. 15, 1982, 96 Stat. 1569, § 2394a; amended Pub. L. 98–525, title XIV, § 1405(36), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 101–510, div. A, title XIII, § 1322(a)(7), div. B, title XXVIII, § 2852(a), Nov. 5, 1990, 104 Stat. 1671, 1804; Pub. L. 102–25, title VII, § 701(g)(2), Apr. 6, 1991, 105 Stat. 115; renumbered § 2922b and amended Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(2), (3)(D), Oct. 17, 2006, 120 Stat. 2494, 2495; Pub. L. 115–91, div. B, title XXVIII, § 2831(c)(4), Dec. 12, 2017, 131 Stat. 1858.)
+(Added Pub. L. 97–321, title VIII, § 801(a)(1), Oct. 15, 1982, 96 Stat. 1569, § 2394a; amended Pub. L. 98–525, title XIV, § 1405(36), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 101–510, div. A, title XIII, § 1322(a)(7), div. B, title XXVIII, § 2852(a), Nov. 5, 1990, 104 Stat. 1671, 1804; Pub. L. 102–25, title VII, § 701(g)(2), Apr. 6, 1991, 105 Stat. 115; renumbered § 2922b and amended Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(2), (3)(D), Oct. 17, 2006, 120 Stat. 2494, 2495; Pub. L. 115–91, div. B, title XXVIII, § 2831(c)(4), Dec. 12, 2017, 131 Stat. 1858.)
 
 **Editorial Notes**
 
@@ -2459,13 +2459,13 @@ Section effective Oct. 1, 1982, and applicable to military construction projects
 
 2017—Subsec. (a). Pub. L. 115–91 substituted “subsection (e)” for “subsection (c)”.
 
-2006—Pub. L. 109–364, § 2851(b)(2), renumbered section 2394a of this title as this section.
+2006—Pub. L. 109–364, § 2851(b)(2), renumbered section 2394a of this title as this section.
 
-Subsec. (a). Pub. L. 109–364, § 2851(b)(3)(D)(i), substituted “possible, suited” for “possible and will be cost effective, reliable, and otherwise suited” and “the jurisdiction of the Secretary, consistent with the energy performance goals and energy performance plan for the Department of Defense developed under section 2911 of this title, and supported by the special considerations specified in subsection (c) of such section” for “his jurisdiction”.
+Subsec. (a). Pub. L. 109–364, § 2851(b)(3)(D)(i), substituted “possible, suited” for “possible and will be cost effective, reliable, and otherwise suited” and “the jurisdiction of the Secretary, consistent with the energy performance goals and energy performance plan for the Department of Defense developed under section 2911 of this title, and supported by the special considerations specified in subsection (c) of such section” for “his jurisdiction”.
 
-Subsec. (b). Pub. L. 109–364, § 2851(b)(3)(D)(ii), struck out “cost effective and” before “reliable” and substituted “2915” for “2857”.
+Subsec. (b). Pub. L. 109–364, § 2851(b)(3)(D)(ii), struck out “cost effective and” before “reliable” and substituted “2915” for “2857”.
 
-Subsec. (c). Pub. L. 109–364, § 2851(b)(3)(D)(iii), struck out subsec. (c) which read as follows:
+Subsec. (c). Pub. L. 109–364, § 2851(b)(3)(D)(iii), struck out subsec. (c) which read as follows:
 
 “(c)(1) For the purposes of this section, an energy system using solar energy or other renewable forms of energy shall be considered to be cost effective if the difference between (A) the original investment cost of the energy system using such a form of energy, and (B) the original investment cost of the energy system not using such a form of energy can be recovered over the expected life of the system.
 
@@ -2473,9 +2473,9 @@ Subsec. (c). Pub. L. 109–364, § 2851(b)(3)(D)(iii), struck out subsec. (c) 
 
 1991—Subsec. (c)(2). Pub. L. 102–25 inserted “(42 U.S.C. 8254(a))” after “Policy Act”.
 
-1990—Subsec. (b). Pub. L. 101–510, § 1322(a)(7), struck out “(1)” after “(b)” and struck out par. (2) which read as follows: “The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives not less often than every two years a report on the studies conducted pursuant to paragraph (1). Each such report shall include any findings of the Secretary with respect to the use of solar energy and other renewable forms of energy in supplying the energy needs of the Department of Defense and any recommendations of the Secretary for changes in law that may be appropriate in light of such studies.”
+1990—Subsec. (b). Pub. L. 101–510, § 1322(a)(7), struck out “(1)” after “(b)” and struck out par. (2) which read as follows: “The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives not less often than every two years a report on the studies conducted pursuant to paragraph (1). Each such report shall include any findings of the Secretary with respect to the use of solar energy and other renewable forms of energy in supplying the energy needs of the Department of Defense and any recommendations of the Secretary for changes in law that may be appropriate in light of such studies.”
 
-Subsec. (c)(2), (3). Pub. L. 101–510, § 2852(a), added par. (2) and struck out former pars. (2) and (3) which read as follows:
+Subsec. (c)(2), (3). Pub. L. 101–510, § 2852(a), added par. (2) and struck out former pars. (2) and (3) which read as follows:
 
 “(2) A determination under paragraph (1) of whether a cost-differential can be recovered over the expected life of a system shall be made using accepted life-cycle costing procedures and shall include—
 
@@ -2493,21 +2493,21 @@ Subsec. (c)(2), (3). Pub. L. 101–510, § 2852(a), added par. (2) and struck 
 
 **Submission Date for First Report**
 
-Pub. L. 97–321, title VIII, § 801(a)(3), Oct. 15, 1982, 96 Stat. 1571, required the first report under subsec. (b)(2) of this section to be submitted not later than two years after Oct. 15, 1982.
+Pub. L. 97–321, title VIII, § 801(a)(3), Oct. 15, 1982, 96 Stat. 1571, required the first report under subsec. (b)(2) of this section to be submitted not later than two years after Oct. 15, 1982.
 
-### § 2922c. Procurement of gasohol as motor vehicle fuel
+### § 2922c. Procurement of gasohol as motor vehicle fuel
 
 **(a) Other Federal Fuel Procurements.—** Consistent with the vehicle management practices prescribed by the heads of affected departments and agencies of the Federal Government and consistent with Executive Order Number 12261, whenever the Secretary of Defense enters into a contract for the procurement of unleaded gasoline that is subject to tax under section 4081 of the Internal Revenue Code of 1986 for motor vehicles of a department or agency of the Federal Government other than the Department of Defense, the Secretary shall buy alcohol-gasoline blends containing at least 10 percent domestically produced alcohol in any case in which the price of such fuel is the same as, or lower than, the price of unleaded gasoline.
 
 **(b) Solicitations.—** Whenever the Secretary issues a solicitation for bids to procure unleaded gasoline under subsection (a), the Secretary shall expressly include in such solicitation a request for bids on alcohol-gasoline blends containing at least 10 percent domestically produced alcohol.
 
-(Added Pub. L. 97–295, § 1(29)(A), Oct. 12, 1982, 96 Stat. 1293, § 2398; amended Pub. L. 102–190, div. A, title VIII, § 841(a), Dec. 5, 1991, 105 Stat. 1448; Pub. L. 104–106, div. A, title X, § 1061(h), Feb. 10, 1996, 110 Stat. 443; renumbered § 2922c, Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(2), Oct. 17, 2006, 120 Stat. 2494.)
+(Added Pub. L. 97–295, § 1(29)(A), Oct. 12, 1982, 96 Stat. 1293, § 2398; amended Pub. L. 102–190, div. A, title VIII, § 841(a), Dec. 5, 1991, 105 Stat. 1448; Pub. L. 104–106, div. A, title X, § 1061(h), Feb. 10, 1996, 110 Stat. 443; renumbered § 2922c, Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(2), Oct. 17, 2006, 120 Stat. 2494.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2398 | 10:2388 (note). | Nov. 9, 1979, Pub. L. 96–107, § 815, 93 Stat. 817. |
+| 2398 | 10:2388 (note). | Nov. 9, 1979, Pub. L. 96–107, § 815, 93 Stat. 817. |
 
 The word “prescribed” is substituted for “determined” because it is more appropriate. The word “Secretary” is substituted for “Department of Defense” because the responsibility is in the head of the agency. The word “shall” is substituted for “is authorized and directed” for clarity.
 
@@ -2523,11 +2523,11 @@ Section 4081 of the Internal Revenue Code of 1986, referred to in subsec. (a), i
 
 2006—Pub. L. 109–364 renumbered section 2398 of this title as this section.
 
-1996—Subsec. (a). Pub. L. 104–106, § 1061(h)(1), (2)(A), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “DOD Motor Vehicles.—To the maximum extent feasible and consistent with overall defense needs and vehicle management practices prescribed by the Secretary of Defense, the Secretary shall make contracts, by competitive bid and subject to appropriations, to purchase domestically produced alcohol or alcohol-gasoline blends containing at least 10 percent domestically produced alcohol for use in motor vehicles owned or operated by the Department of Defense.”
+1996—Subsec. (a). Pub. L. 104–106, § 1061(h)(1), (2)(A), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “DOD Motor Vehicles.—To the maximum extent feasible and consistent with overall defense needs and vehicle management practices prescribed by the Secretary of Defense, the Secretary shall make contracts, by competitive bid and subject to appropriations, to purchase domestically produced alcohol or alcohol-gasoline blends containing at least 10 percent domestically produced alcohol for use in motor vehicles owned or operated by the Department of Defense.”
 
-Subsec. (b). Pub. L. 104–106, § 1061(h)(2), redesignated subsec. (c) as (b) and substituted “subsection (a)” for “subsection (b)”. Former subsec. (b) redesignated (a).
+Subsec. (b). Pub. L. 104–106, § 1061(h)(2), redesignated subsec. (c) as (b) and substituted “subsection (a)” for “subsection (b)”. Former subsec. (b) redesignated (a).
 
-Subsec. (c). Pub. L. 104–106, § 1061(h)(2)(A), redesignated subsec. (c) as (b).
+Subsec. (c). Pub. L. 104–106, § 1061(h)(2)(A), redesignated subsec. (c) as (b).
 
 1991—Pub. L. 102–190 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
@@ -2535,9 +2535,9 @@ Subsec. (c). Pub. L. 104–106, § 1061(h)(2)(A), redesignated subsec. (c) as 
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–190, div. A, title VIII, § 841(b), Dec. 5, 1991, 105 Stat. 1448, provided that: “Section 2398(b) [now 2922c(a)] of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts awarded pursuant to solicitations issued after the expiration of the 180-day period beginning on the date of the enactment of this Act [Dec. 5, 1991].”
+Pub. L. 102–190, div. A, title VIII, § 841(b), Dec. 5, 1991, 105 Stat. 1448, provided that: “Section 2398(b) [now 2922c(a)] of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts awarded pursuant to solicitations issued after the expiration of the 180-day period beginning on the date of the enactment of this Act [Dec. 5, 1991].”
 
-### § 2922d. Procurement of fuel derived from coal, oil shale, and tar sands
+### § 2922d. Procurement of fuel derived from coal, oil shale, and tar sands
 
 **(a) Use of Fuel to Meet Department of Defense Needs.—** The Secretary of Defense shall develop a strategy to use fuel produced, in whole or in part, from coal, oil shale, and tar sands (referred to in this section as a “covered fuel”) that are extracted by either mining or in-situ methods and refined or otherwise processed in the United States in order to assist in meeting the fuel requirements of the Department of Defense when the Secretary determines that it is in the national interest.
 
@@ -2549,7 +2549,7 @@ Pub. L. 102–190, div. A, title VIII, § 841(b), Dec. 5, 1991, 105 Stat. 1448
 
 **(e) Fuel Source Analysis.—** In order to facilitate the procurement by the Department of Defense of covered fuel under subsection (b), the Secretary of Defense may carry out a comprehensive assessment of current and potential locations in the United States for the supply of covered fuel to the Department.
 
-(Added Pub. L. 109–58, title III, § 369(q)(1), Aug. 8, 2005, 119 Stat. 733, § 2398a; renumbered § 2922d, Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(2), Oct. 17, 2006, 120 Stat. 2494; Pub. L. 111–383, div. A, title X, § 1075(b)(48), Jan. 7, 2011, 124 Stat. 4371.)
+(Added Pub. L. 109–58, title III, § 369(q)(1), Aug. 8, 2005, 119 Stat. 733, § 2398a; renumbered § 2922d, Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(2), Oct. 17, 2006, 120 Stat. 2494; Pub. L. 111–383, div. A, title X, § 1075(b)(48), Jan. 7, 2011, 124 Stat. 4371.)
 
 **Editorial Notes**
 
@@ -2559,7 +2559,7 @@ Pub. L. 102–190, div. A, title VIII, § 841(b), Dec. 5, 1991, 105 Stat. 1448
 
 2006—Pub. L. 109–364 renumbered section 2398a of this title as this section.
 
-### § 2922e. Acquisition of certain fuel sources: authority to waive contract procedures; acquisition by exchange; sales authority
+### § 2922e. Acquisition of certain fuel sources: authority to waive contract procedures; acquisition by exchange; sales authority
 
 **(a) Waiver Authority.—** The Secretary of Defense may, for any purchase of a defined fuel source, waive the application of any provision of law prescribing procedures to be followed in the formation of contracts, prescribing terms and conditions to be included in contracts, or regulating the performance of contracts if the Secretary determines—
 
@@ -2573,7 +2573,7 @@ Pub. L. 102–190, div. A, title VIII, § 841(b), Dec. 5, 1991, 105 Stat. 1448
 
 **(d) Authority To Sell.—** The Secretary of Defense may sell a defined fuel source of the Department of Defense if the Secretary determines that the sale would be in the public interest. The proceeds of such a sale shall be credited to appropriations of the Department of Defense for the acquisition of a defined fuel source or services related to a defined fuel source. Amounts so credited shall be available for obligation for the same period as the appropriations to which the amounts are credited.
 
-(Added Pub. L. 98–525, title XII, § 1234(a), Oct. 19, 1984, 98 Stat. 2604, § 2404; amended Pub. L. 100–26, § 7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–510, div. A, title XIII, § 1322(a)(8), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 103–160, div. A, title VIII, § 826, Nov. 30, 1993, 107 Stat. 1711; Pub. L. 106–65, div. A, title VIII, § 803(a), (b)(1), Oct. 5, 1999, 113 Stat. 703; renumbered § 2922e, Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(2), Oct. 17, 2006, 120 Stat. 2494; Pub. L. 112–81, div. B, title XXVIII, § 2821(b)(2), Dec. 31, 2011, 125 Stat. 1691.)
+(Added Pub. L. 98–525, title XII, § 1234(a), Oct. 19, 1984, 98 Stat. 2604, § 2404; amended Pub. L. 100–26, § 7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 101–510, div. A, title XIII, § 1322(a)(8), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 103–160, div. A, title VIII, § 826, Nov. 30, 1993, 107 Stat. 1711; Pub. L. 106–65, div. A, title VIII, § 803(a), (b)(1), Oct. 5, 1999, 113 Stat. 703; renumbered § 2922e, Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(2), Oct. 17, 2006, 120 Stat. 2494; Pub. L. 112–81, div. B, title XXVIII, § 2821(b)(2), Dec. 31, 2011, 125 Stat. 1691.)
 
 **Editorial Notes**
 
@@ -2583,35 +2583,35 @@ Pub. L. 102–190, div. A, title VIII, § 841(b), Dec. 5, 1991, 105 Stat. 1448
 
 2006—Pub. L. 109–364 renumbered section 2404 of this title as this section.
 
-1999—Pub. L. 106–65, § 803(b)(1), substituted “Acquisition of certain fuel sources” for “Acquisition of petroleum and natural gas” in section catchline.
+1999—Pub. L. 106–65, § 803(b)(1), substituted “Acquisition of certain fuel sources” for “Acquisition of petroleum and natural gas” in section catchline.
 
-Subsec. (a). Pub. L. 106–65, § 803(a)(1), substituted “a defined fuel source” for “petroleum or natural gas” in introductory provisions, “market conditions for the defined fuel source” for “petroleum market conditions or natural gas market conditions, as the case may be,” and “acquisition of that defined fuel source” for “acquisition of petroleum or acquisition of natural gas, respectively,” in par. (1), and “that defined fuel source” for “petroleum or natural gas, as the case may be,” in par. (2).
+Subsec. (a). Pub. L. 106–65, § 803(a)(1), substituted “a defined fuel source” for “petroleum or natural gas” in introductory provisions, “market conditions for the defined fuel source” for “petroleum market conditions or natural gas market conditions, as the case may be,” and “acquisition of that defined fuel source” for “acquisition of petroleum or acquisition of natural gas, respectively,” in par. (1), and “that defined fuel source” for “petroleum or natural gas, as the case may be,” in par. (2).
 
-Subsec. (b). Pub. L. 106–65, § 803(a)(2), substituted “a defined fuel source” for “petroleum or natural gas” in second sentence.
+Subsec. (b). Pub. L. 106–65, § 803(a)(2), substituted “a defined fuel source” for “petroleum or natural gas” in second sentence.
 
-Subsec. (c). Pub. L. 106–65, § 803(a)(3), which directed the substitution of “a defined fuel source or services related to a defined fuel source by exchange of a defined fuel source or services related to a defined fuel source.” for “ ‘petroleum’ and all that follows through the period”, was executed by substituting the material for “petroleum, petroleum-related services, natural gas, or natural gas-related services by exchange of petroleum, petroleum-related services, natural gas, or natural gas-related services.” to reflect the probable intent of Congress.
+Subsec. (c). Pub. L. 106–65, § 803(a)(3), which directed the substitution of “a defined fuel source or services related to a defined fuel source by exchange of a defined fuel source or services related to a defined fuel source.” for “ ‘petroleum’ and all that follows through the period”, was executed by substituting the material for “petroleum, petroleum-related services, natural gas, or natural gas-related services by exchange of petroleum, petroleum-related services, natural gas, or natural gas-related services.” to reflect the probable intent of Congress.
 
-Subsec. (d). Pub. L. 106–65, § 803(a)(4), substituted “a defined fuel source” for “petroleum or natural gas” in first sentence and “a defined fuel source or services related to a defined fuel source.” for “petroleum, petroleum-related services, natural gas, or natural gas-related services.” in second sentence.
+Subsec. (d). Pub. L. 106–65, § 803(a)(4), substituted “a defined fuel source” for “petroleum or natural gas” in first sentence and “a defined fuel source or services related to a defined fuel source.” for “petroleum, petroleum-related services, natural gas, or natural gas-related services.” in second sentence.
 
-Subsec. (f). Pub. L. 106–65, § 803(a)(5), added subsec. (f).
+Subsec. (f). Pub. L. 106–65, § 803(a)(5), added subsec. (f).
 
-1993—Pub. L. 103–160, § 826(d)(2), substituted “petroleum and natural gas: authority to waive contract procedures; acquisition by exchange; sales authority” for “petroleum: authority to waive contract procedures” as section catchline.
+1993—Pub. L. 103–160, § 826(d)(2), substituted “petroleum and natural gas: authority to waive contract procedures; acquisition by exchange; sales authority” for “petroleum: authority to waive contract procedures” as section catchline.
 
-Subsec. (a). Pub. L. 103–160, § 826(a)(1), (d)(1)(A), inserted heading, inserted “or natural gas” after “petroleum” in introductory provisions, inserted “or natural gas market conditions, as the case may be,” after “petroleum market conditions” and “or acquisition of natural gas, respectively,” after “acquisition of petroleum” in par. (1), and inserted “or natural gas, as the case may be,” after “petroleum” in par. (2).
+Subsec. (a). Pub. L. 103–160, § 826(a)(1), (d)(1)(A), inserted heading, inserted “or natural gas” after “petroleum” in introductory provisions, inserted “or natural gas market conditions, as the case may be,” after “petroleum market conditions” and “or acquisition of natural gas, respectively,” after “acquisition of petroleum” in par. (1), and inserted “or natural gas, as the case may be,” after “petroleum” in par. (2).
 
-Subsec. (b). Pub. L. 103–160, § 826(a)(2), (d)(1)(B), inserted heading and inserted “or natural gas” after “petroleum” in second sentence.
+Subsec. (b). Pub. L. 103–160, § 826(a)(2), (d)(1)(B), inserted heading and inserted “or natural gas” after “petroleum” in second sentence.
 
-Subsec. (c). Pub. L. 103–160, § 826(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary of Defense may acquire petroleum by exchange of petroleum or petroleum derivatives.”
+Subsec. (c). Pub. L. 103–160, § 826(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary of Defense may acquire petroleum by exchange of petroleum or petroleum derivatives.”
 
-Subsec. (d). Pub. L. 103–160, § 826(c)(2), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 103–160, § 826(c)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 103–160, § 826(c)(1), (d)(1)(C), redesignated subsec. (d) as (e) and inserted heading.
+Subsec. (e). Pub. L. 103–160, § 826(c)(1), (d)(1)(C), redesignated subsec. (d) as (e) and inserted heading.
 
 1990—Subsecs. (d), (e). Pub. L. 101–510 redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “The Secretary of Defense shall notify the Congress within 10 days of the date on which any waiver is made under this section and of the reasons for the necessity of exercising such waiver.”
 
 1987—Subsec. (e). Pub. L. 100–26 inserted “the term” after “In this section,”.
 
-### § 2922f. Preference for energy efficient electric equipment
+### § 2922f. Preference for energy efficient electric equipment
 
 **(a)** In establishing a new requirement for electric equipment referred to in subsection (b) and in procuring electric equipment referred to in that subsection, the Secretary of a military department or the head of a Defense Agency, as the case may be, shall provide a preference for the procurement of the most energy efficient electric equipment available that meets the requirement or the need for the procurement, if providing such a preference is consistent with the energy performance goals and energy performance plan for the Department of Defense developed under section 2911 of this title and supported by the special considerations specified in subsection (e) of such section.
 
@@ -2625,7 +2625,7 @@ Subsec. (e). Pub. L. 103–160, § 826(c)(1), (d)(1)(C), redesignated subsec. 
 
 **(4)** Electric refrigeration equipment.
 
-(Added Pub. L. 102–484, div. A, title III, § 384(a)(1)(A), Oct. 23, 1992, 106 Stat. 2392, § 2410c; renumbered § 2922f and amended Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(2), (3)(E), Oct. 17, 2006, 120 Stat. 2494, 2495; Pub. L. 115–91, div. B, title XXVIII, § 2831(c)(5), Dec. 12, 2017, 131 Stat. 1858.)
+(Added Pub. L. 102–484, div. A, title III, § 384(a)(1)(A), Oct. 23, 1992, 106 Stat. 2392, § 2410c; renumbered § 2922f and amended Pub. L. 109–364, div. B, title XXVIII, § 2851(b)(2), (3)(E), Oct. 17, 2006, 120 Stat. 2494, 2495; Pub. L. 115–91, div. B, title XXVIII, § 2831(c)(5), Dec. 12, 2017, 131 Stat. 1858.)
 
 **Editorial Notes**
 
@@ -2633,19 +2633,19 @@ Subsec. (e). Pub. L. 103–160, § 826(c)(1), (d)(1)(C), redesignated subsec. 
 
 2017—Subsec. (a). Pub. L. 115–91 substituted “subsection (e)” for “subsection (c)”.
 
-2006—Pub. L. 109–364, § 2851(b)(2), renumbered section 2410c of this title as this section.
+2006—Pub. L. 109–364, § 2851(b)(2), renumbered section 2410c of this title as this section.
 
-Subsec. (a). Pub. L. 109–364, § 2851(b)(3)(E), substituted “In” for “When cost effective, in” and “if providing such a preference is consistent with the energy performance goals and energy performance plan for the Department of Defense developed under section 2911 of this title and supported by the special considerations specified in subsection (c) of such section” for “as the case may be”.
+Subsec. (a). Pub. L. 109–364, § 2851(b)(3)(E), substituted “In” for “When cost effective, in” and “if providing such a preference is consistent with the energy performance goals and energy performance plan for the Department of Defense developed under section 2911 of this title and supported by the special considerations specified in subsection (c) of such section” for “as the case may be”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–484, div. A, title III, § 384(a)(2), Oct. 23, 1992, 106 Stat. 2393, provided that: “The amendments made by paragraph (1) [enacting this section] shall apply to procurements for which solicitations are issued on or after the date that is 120 days after the date of the enactment of this Act [Oct. 23, 1992].”
+Pub. L. 102–484, div. A, title III, § 384(a)(2), Oct. 23, 1992, 106 Stat. 2393, provided that: “The amendments made by paragraph (1) [enacting this section] shall apply to procurements for which solicitations are issued on or after the date that is 120 days after the date of the enactment of this Act [Oct. 23, 1992].”
 
 **Electric Lighting and Refrigeration Equipment Demonstration Programs**
 
-Pub. L. 102–484, div. A, title III, § 384(b)–(d), Oct. 23, 1992, 106 Stat. 2393, provided that:
+Pub. L. 102–484, div. A, title III, § 384(b)–(d), Oct. 23, 1992, 106 Stat. 2393, provided that:
 
 > **“(b) Electric Lighting Demonstration Program.—**
 
@@ -2687,7 +2687,7 @@ Pub. L. 102–484, div. A, title III, § 384(b)–(d), Oct. 23, 1992, 106 Stat
 
 > **“(4)** The head of a facility may not carry out a conversion described in subsection (b)(4) or (c)(4) if the conversion prevents the head of the facility from carrying out other improvements relating to energy efficiency that are more cost effective than that conversion.”
 
-### § 2922g. Preference for motor vehicles using electric or hybrid propulsion systems; purchase or lease of certain electric and other vehicles
+### § 2922g. Preference for motor vehicles using electric or hybrid propulsion systems; purchase or lease of certain electric and other vehicles
 
 **(a) Preference.—** During the period preceding October 1, 2035, in leasing or procuring motor vehicles for use by a military department or Defense Agency, the Secretary of the military department or the head of the Defense Agency may provide a preference for the lease or procurement of motor vehicles using electric or hybrid propulsion systems, including plug-in hybrid systems, if the electric or hybrid vehicles—
 
@@ -2733,7 +2733,7 @@ Pub. L. 102–484, div. A, title III, § 384(b)–(d), Oct. 23, 1992, 106 Stat
 
 **(3)** The term “hydrogen-powered vehicle” means a vehicle that uses hydrogen as the main source of motive power, either through a fuel cell or internal combustion.
 
-(Added Pub. L. 111–84, div. B, title XXVIII, § 2844(a), Oct. 28, 2009, 123 Stat. 2682; amended Pub. L. 112–81, div. B, title XXVIII, § 2821(b)(3), Dec. 31, 2011, 125 Stat. 1691; Pub. L. 117–263, div. A, title III, § 317(a), Dec. 23, 2022, 136 Stat. 2506; Pub. L. 118–159, div. A, title XVII, § 1701(a)(33), Dec. 23, 2024, 138 Stat. 2205; Pub. L. 119–60, div. A, title III, § 312(2), Dec. 18, 2025, 139 Stat. 804.)
+(Added Pub. L. 111–84, div. B, title XXVIII, § 2844(a), Oct. 28, 2009, 123 Stat. 2682; amended Pub. L. 112–81, div. B, title XXVIII, § 2821(b)(3), Dec. 31, 2011, 125 Stat. 1691; Pub. L. 117–263, div. A, title III, § 317(a), Dec. 23, 2022, 136 Stat. 2506; Pub. L. 118–159, div. A, title XVII, § 1701(a)(33), Dec. 23, 2024, 138 Stat. 2205; Pub. L. 119–60, div. A, title III, § 312(2), Dec. 18, 2025, 139 Stat. 804.)
 
 **Editorial Notes**
 
@@ -2743,13 +2743,13 @@ Pub. L. 102–484, div. A, title III, § 384(b)–(d), Oct. 23, 1992, 106 Stat
 
 2024—Subsec. (g)(1). Pub. L. 118–159 substituted “2002” for “2202”.
 
-2022—Pub. L. 117–263, § 317(a)(1), substituted “systems; purchase or lease of certain electric and other vehicles” for “systems” in section catchline.
+2022—Pub. L. 117–263, § 317(a)(1), substituted “systems; purchase or lease of certain electric and other vehicles” for “systems” in section catchline.
 
-Subsec. (a). Pub. L. 117–263, § 317(a)(2), substituted “During the period preceding October 1, 2035, in leasing” for “In leasing” in introductory provisions.
+Subsec. (a). Pub. L. 117–263, § 317(a)(2), substituted “During the period preceding October 1, 2035, in leasing” for “In leasing” in introductory provisions.
 
-Subsec. (c). Pub. L. 117–263, § 317(a)(3), inserted “, during the period specified in subsection (a),” after “from authorizing”.
+Subsec. (c). Pub. L. 117–263, § 317(a)(3), inserted “, during the period specified in subsection (a),” after “from authorizing”.
 
-Subsecs. (d) to (g). Pub. L. 117–263, § 317(a)(4), added subsecs. (d) to (g).
+Subsecs. (d) to (g). Pub. L. 117–263, § 317(a)(4), added subsecs. (d) to (g).
 
 2011—Subsec. (d). Pub. L. 112–81 struck out subsec. (d), which defined “hybrid”.
 
@@ -2757,11 +2757,11 @@ Subsecs. (d) to (g). Pub. L. 117–263, § 317(a)(4), added subsecs. (d) to (g
 
 **Regulations**
 
-Pub. L. 111–84, div. B, title XXVIII, § 2844(c), Oct. 28, 2009, 123 Stat. 2682, provided that: “The Secretary of Defense shall prescribe regulations to implement section 2922g of title 10, United States Code, as added by subsection (a), within one year after the date of the enactment of this Act [Oct. 28, 2009].”
+Pub. L. 111–84, div. B, title XXVIII, § 2844(c), Oct. 28, 2009, 123 Stat. 2682, provided that: “The Secretary of Defense shall prescribe regulations to implement section 2922g of title 10, United States Code, as added by subsection (a), within one year after the date of the enactment of this Act [Oct. 28, 2009].”
 
 **Requirement That Electric Vehicles, Advanced-Biofuel-Powered Vehicles, or Hydrogen-Powered Vehicles Be in Compliance With Applicable Regulation**
 
-Pub. L. 117–263, div. A, title III, § 328(c), (d), Dec. 23, 2022, 136 Stat. 2521, provided that:
+Pub. L. 117–263, div. A, title III, § 328(c), (d), Dec. 23, 2022, 136 Stat. 2521, provided that:
 
 > **“(c) Additional Prohibition.—** None of the funds authorized to be appropriated by this Act [see Tables for classification] or otherwise made available for the Department of Defense may be obligated or expended to procure non-tactical vehicles that are electric vehicles, advanced-biofuel-powered vehicles, or hydrogen-powered vehicles, or any components or spare parts associated with such vehicles, that are not in compliance with subpart 22.15 of the Federal Acquisition Regulation (or any successor regulations).
 
@@ -2787,11 +2787,11 @@ Pub. L. 117–263, div. A, title III, § 328(c), (d), Dec. 23, 2022, 136 Stat.
 
 > **“(8)** The term ‘tactical vehicle’ means a motor vehicle designed to military specification, or a commercial design motor vehicle modified to military specification, to provide direct transportation support of combat or tactical operations, or for the training of personnel for such operations.”
 
-### [§ 2922h. Repealed. Pub. L. 118–159, div. A, title III, § 315(a), Dec. 23, 2024, 138 Stat. 1851]
+### [§ 2922h. Repealed. Pub. L. 118–159, div. A, title III, § 315(a), Dec. 23, 2024, 138 Stat. 1851]
 
-Section, added Pub. L. 114–92, div. A, title III, § 311(a), Nov. 25, 2015, 129 Stat. 787, limited Secretary of Defense’s procurement of drop-in fuels.
+Section, added Pub. L. 114–92, div. A, title III, § 311(a), Nov. 25, 2015, 129 Stat. 787, limited Secretary of Defense’s procurement of drop-in fuels.
 
-### § 2922i. Multiyear contracts: purchase of electricity from renewable energy sources
+### § 2922i. Multiyear contracts: purchase of electricity from renewable energy sources
 
 **(a) Multiyear Contracts Authorized.—** Subject to subsection (b), the Secretary of Defense may enter into a contract for a period not to exceed 10 years for the purchase of electricity from sources of renewable energy, as that term is defined in section 203(b)(2) of the Energy Policy Act of 2005 (42 U.S.C. 15852(b)(2)).
 
@@ -2803,7 +2803,7 @@ Section, added Pub. L. 114–92, div. A, title III, § 311(a), Nov. 25, 2015, 
 
 **(c) Relationship to Other Multiyear Contracting Authority.—** Nothing in this section shall be construed to preclude the Department of Defense from using other multiyear contracting authority of the Department to purchase renewable energy.
 
-(Added Pub. L. 110–181, div. A, title VIII, § 828(a), Jan. 28, 2008, 122 Stat. 229, § 2410q; renumbered § 2922i, Pub. L. 116–283, div. A, title XVIII, § 1879(a), Jan. 1, 2021, 134 Stat. 4293.)
+(Added Pub. L. 110–181, div. A, title VIII, § 828(a), Jan. 28, 2008, 122 Stat. 229, § 2410q; renumbered § 2922i, Pub. L. 116–283, div. A, title XVIII, § 1879(a), Jan. 1, 2021, 134 Stat. 4293.)
 
 **Editorial Notes**
 
@@ -2817,7 +2817,7 @@ Section, added Pub. L. 114–92, div. A, title III, § 311(a), Nov. 25, 2015, 
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-### § 2922j. Annual report on purchase of drop-in fuel
+### § 2922j. Annual report on purchase of drop-in fuel
 
 **(a) In General.—** Not less frequently than annually, the Secretary of Defense shall submit to Congress a report that, for the year covered by the report—
 
@@ -2831,7 +2831,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **(2)** The term “traditional fuel” means a liquid hydrocarbon fuel derived or refined from petroleum.
 
-(Added Pub. L. 118–159, div. A, title III, § 315(b), Dec. 23, 2024, 138 Stat. 1852.)
+(Added Pub. L. 118–159, div. A, title III, § 315(b), Dec. 23, 2024, 138 Stat. 1852.)
 
 ## SUBCHAPTER III—GENERAL PROVISIONS
 
@@ -2839,19 +2839,19 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Amendments**
 
-2022—Pub. L. 117–263, div. A, title III, §§ 314(b)(2), 319(a), Dec. 23, 2022, 136 Stat. 2505, 2507, added items 2925 and 2928 and struck out former item 2925 “Annual Department of Defense energy management reports”.
+2022—Pub. L. 117–263, div. A, title III, §§ 314(b)(2), 319(a), Dec. 23, 2022, 136 Stat. 2505, 2507, added items 2925 and 2928 and struck out former item 2925 “Annual Department of Defense energy management reports”.
 
-2021—Pub. L. 117–81, div. A, title III, § 352(a)(2), Dec. 27, 2021, 135 Stat. 1654, added item 2927.
+2021—Pub. L. 117–81, div. A, title III, § 352(a)(2), Dec. 27, 2021, 135 Stat. 1654, added item 2927.
 
-2019—Pub. L. 116–92, div. A, title III, § 320(c)(2), Dec. 20, 2019, 133 Stat. 1307, which directed amendment of the analysis at the beginning of this chapter by substituting “Operational energy” for “Operational energy activities” in item 2926, was executed in the analysis for this subchapter to reflect the probable intent of Congress.
+2019—Pub. L. 116–92, div. A, title III, § 320(c)(2), Dec. 20, 2019, 133 Stat. 1307, which directed amendment of the analysis at the beginning of this chapter by substituting “Operational energy” for “Operational energy activities” in item 2926, was executed in the analysis for this subchapter to reflect the probable intent of Congress.
 
-2014—Pub. L. 113–291, div. A, title IX, § 901(*l*)(3), Dec. 19, 2014, 128 Stat. 3468, added item 2926.
+2014—Pub. L. 113–291, div. A, title IX, § 901(*l*)(3), Dec. 19, 2014, 128 Stat. 3468, added item 2926.
 
-2011—Pub. L. 112–81, div. B, title XXVIII, § 2821(a)(2)(B), Dec. 31, 2011, 125 Stat. 1691, added item 2924.
+2011—Pub. L. 112–81, div. B, title XXVIII, § 2821(a)(2)(B), Dec. 31, 2011, 125 Stat. 1691, added item 2924.
 
-2008—Pub. L. 110–417, [div. A], title III, § 331(b)(2), Oct. 14, 2008, 122 Stat. 4420, added item 2925 and struck out former item 2925 “Annual report”.
+2008—Pub. L. 110–417, [div. A], title III, § 331(b)(2), Oct. 14, 2008, 122 Stat. 4420, added item 2925 and struck out former item 2925 “Annual report”.
 
-### § 2924. Definitions
+### § 2924. Definitions
 
 In this chapter:
 
@@ -2911,19 +2911,19 @@ In this chapter:
 
 **(8)** The term “biogas” means biogas as such term is used in section 211(*o*)(1)(B)(ii)(V) of the Clean Air Act (42 U.S.C. 7545(*o*)(1)(B)(ii)(V)).
 
-(Added Pub. L. 112–81, div. B, title XXVIII, § 2821(a)(1), Dec. 31, 2011, 125 Stat. 1689; amended Pub. L. 115–91, div. B, title XXVIII, § 2831(c)(6), Dec. 12, 2017, 131 Stat. 1858; Pub. L. 117–263, div. A, title III, § 318, Dec. 23, 2022, 136 Stat. 2507.)
+(Added Pub. L. 112–81, div. B, title XXVIII, § 2821(a)(1), Dec. 31, 2011, 125 Stat. 1689; amended Pub. L. 115–91, div. B, title XXVIII, § 2831(c)(6), Dec. 12, 2017, 131 Stat. 1858; Pub. L. 117–263, div. A, title III, § 318, Dec. 23, 2022, 136 Stat. 2507.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Par. (6)(D) to (J). Pub. L. 117–263, § 318(1), added subpar. (D) and redesignated former subpars. (D) to (I) as (E) to (J), respectively.
+2022—Par. (6)(D) to (J). Pub. L. 117–263, § 318(1), added subpar. (D) and redesignated former subpars. (D) to (I) as (E) to (J), respectively.
 
-Pars. (7), (8). Pub. L. 117–263, § 318(2), added pars. (7) and (8).
+Pars. (7), (8). Pub. L. 117–263, § 318(2), added pars. (7) and (8).
 
 2017—Pars. (3) to (7). Pub. L. 115–91 redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which defined “energy security”.
 
-### § 2925. Annual report on energy performance, resilience, and readiness of Department of Defense
+### § 2925. Annual report on energy performance, resilience, and readiness of Department of Defense
 
 **(a) Report Required.—** Not later than 240 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional defense committees a report detailing the fulfillment during that fiscal year of the authorities and requirements under sections 2688, 2911, 2912, 2920, and 2926 of this title, including progress on energy resilience at military installations and the use of operational energy in combat platforms and at contingency locations.
 
@@ -2951,7 +2951,7 @@ Pars. (7), (8). Pub. L. 117–263, § 318(2), added pars. (7) and (8).
 
 **(d) Consolidation.—** The Secretary of Defense may consolidate, attach with, or otherwise include in any report required under subsection (a) any annual report or other requirement that is aligned or associated with, or would be better understood if presented as part of a consolidated report addressing energy performance, resilience, and readiness.
 
-(Added Pub. L. 109–364, div. B, title XXVIII, § 2851(a)(1), Oct. 17, 2006, 120 Stat. 2493; amended Pub. L. 110–417, [div. A], title III, § 331(a), (b)(1), div. B, title XXVIII, § 2832, Oct. 14, 2008, 122 Stat. 4419, 4420, 4732; Pub. L. 111–84, div. A, title III, § 332(a), Oct. 28, 2009, 123 Stat. 2257; Pub. L. 111–383, div. B, title XXVIII, § 2832(c)(1), Jan. 7, 2011, 124 Stat. 4469; Pub. L. 112–81, div. A, title III, §§ 314(b), 342, div. B, title XXVIII, §§ 2821(b)(4), 2822(d), 2824(b), 2826, Dec. 31, 2011, 125 Stat. 1357, 1370, 1691–1694; Pub. L. 112–239, div. A, title X, § 1076(c)(3), (d)(6), Jan. 2, 2013, 126 Stat. 1950, 1951; Pub. L. 113–291, div. A, title IX, § 901(k)(4), Dec. 19, 2014, 128 Stat. 3468; Pub. L. 114–92, div. A, title III, § 313, Nov. 25, 2015, 129 Stat. 789; Pub. L. 114–328, div. A, title III, § 311, Dec. 23, 2016, 130 Stat. 2072; Pub. L. 115–91, div. A, title X, § 1081(a)(48), div. B, title XXVIII, §§ 2831(c)(7), 2836, Dec. 12, 2017, 131 Stat. 1597, 1858, 1859; Pub. L. 115–232, div. A, title III, §§ 312(c), 314(b)(1), Aug. 13, 2018, 132 Stat. 1710, 1712; Pub. L. 116–92, div. A, title III, §§ 319(a), 320(a)(2)(B), Dec. 20, 2019, 133 Stat. 1305, 1306; Pub. L. 116–283, div. A, title III, § 336(a), Jan. 1, 2021, 134 Stat. 3533; Pub. L. 117–81, div. A, title III, § 311(i)(1), Dec. 27, 2021, 135 Stat. 1626; Pub. L. 117–263, div. A, title III, § 314(b)(1), Dec. 23, 2022, 136 Stat. 2503.)
+(Added Pub. L. 109–364, div. B, title XXVIII, § 2851(a)(1), Oct. 17, 2006, 120 Stat. 2493; amended Pub. L. 110–417, [div. A], title III, § 331(a), (b)(1), div. B, title XXVIII, § 2832, Oct. 14, 2008, 122 Stat. 4419, 4420, 4732; Pub. L. 111–84, div. A, title III, § 332(a), Oct. 28, 2009, 123 Stat. 2257; Pub. L. 111–383, div. B, title XXVIII, § 2832(c)(1), Jan. 7, 2011, 124 Stat. 4469; Pub. L. 112–81, div. A, title III, §§ 314(b), 342, div. B, title XXVIII, §§ 2821(b)(4), 2822(d), 2824(b), 2826, Dec. 31, 2011, 125 Stat. 1357, 1370, 1691–1694; Pub. L. 112–239, div. A, title X, § 1076(c)(3), (d)(6), Jan. 2, 2013, 126 Stat. 1950, 1951; Pub. L. 113–291, div. A, title IX, § 901(k)(4), Dec. 19, 2014, 128 Stat. 3468; Pub. L. 114–92, div. A, title III, § 313, Nov. 25, 2015, 129 Stat. 789; Pub. L. 114–328, div. A, title III, § 311, Dec. 23, 2016, 130 Stat. 2072; Pub. L. 115–91, div. A, title X, § 1081(a)(48), div. B, title XXVIII, §§ 2831(c)(7), 2836, Dec. 12, 2017, 131 Stat. 1597, 1858, 1859; Pub. L. 115–232, div. A, title III, §§ 312(c), 314(b)(1), Aug. 13, 2018, 132 Stat. 1710, 1712; Pub. L. 116–92, div. A, title III, §§ 319(a), 320(a)(2)(B), Dec. 20, 2019, 133 Stat. 1305, 1306; Pub. L. 116–283, div. A, title III, § 336(a), Jan. 1, 2021, 134 Stat. 3533; Pub. L. 117–81, div. A, title III, § 311(i)(1), Dec. 27, 2021, 135 Stat. 1626; Pub. L. 117–263, div. A, title III, § 314(b)(1), Dec. 23, 2022, 136 Stat. 2503.)
 
 **Editorial Notes**
 
@@ -2963,129 +2963,129 @@ The Energy Independence and Security Act of 2007, referred to in subsec. (b)(1)(
 
 **Amendments**
 
-2022—Pub. L. 117–263, § 314(b)(1)(B), added subsecs. (a) to (d) and struck out former subsecs. (a) and (b) which related to annual report related to installations energy management, energy resilience, and mission assurance and readiness and annual report related to operational energy, respectively.
+2022—Pub. L. 117–263, § 314(b)(1)(B), added subsecs. (a) to (d) and struck out former subsecs. (a) and (b) which related to annual report related to installations energy management, energy resilience, and mission assurance and readiness and annual report related to operational energy, respectively.
 
-Pub. L. 117–263, § 314(b)(1)(A), substituted “Annual report on energy performance, resilience, and readiness of Department of Defense” for “Annual Department of Defense energy management reports” in section catchline.
+Pub. L. 117–263, § 314(b)(1)(A), substituted “Annual report on energy performance, resilience, and readiness of Department of Defense” for “Annual Department of Defense energy management reports” in section catchline.
 
-2021—Subsec. (a)(7). Pub. L. 116–283, § 336(a)(2), added par. (7). Former par. (7) redesignated (8), then (10).
+2021—Subsec. (a)(7). Pub. L. 116–283, § 336(a)(2), added par. (7). Former par. (7) redesignated (8), then (10).
 
-Subsec. (a)(8). Pub. L. 117–81, § 311(i)(1)(B), added par. (8). Former par. (8) redesignated (10).
+Subsec. (a)(8). Pub. L. 117–81, § 311(i)(1)(B), added par. (8). Former par. (8) redesignated (10).
 
-Pub. L. 116–283, § 336(a)(1), redesignated par. (7) as (8), which was subsequently redesignated (10).
+Pub. L. 116–283, § 336(a)(1), redesignated par. (7) as (8), which was subsequently redesignated (10).
 
 Subsec. (a)(9), (10). Pub. L. 117–81 added par. (9) and redesignated par. (8) as (10).
 
-2019—Subsec. (a). Pub. L. 116–92, § 319(a)(1), (2), inserted “and Readiness” after “Mission Assurance” in heading and “The Secretary shall ensure that mission operators of critical facilities provide to personnel of military installations any information necessary for the completion of such report.” after “by the Secretary.” in introductory provisions.
+2019—Subsec. (a). Pub. L. 116–92, § 319(a)(1), (2), inserted “and Readiness” after “Mission Assurance” in heading and “The Secretary shall ensure that mission operators of critical facilities provide to personnel of military installations any information necessary for the completion of such report.” after “by the Secretary.” in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 116–92, § 320(a)(2)(B), substituted “degrading energy resilience at military installations (excluding planned outages for maintenance reasons), whether caused by on- or off-installation disruptions, including the total number of outages and their locations, the duration of each outage, the financial effect of each outage, whether or not the mission was affected, the downtimes (in minutes or hours) the mission can afford based on mission requirements and risk tolerances, the responsible authority managing the utility, and measures taken to mitigate the outage by the responsible authority.” for “impacting energy resilience at military installations (excluding planned outages for maintenance reasons), whether caused by on- or off-installation disruptions, including the total number and location of outage, the duration of the outage, the financial impact of the outage, whether or not the mission was impacted, the downtimes (in minutes or hours) these missions can afford based on their mission requirements and risk tolerances, the responsible authority managing the utility, and measure taken to mitigate the outage by the responsible authority.”
+Subsec. (a)(3). Pub. L. 116–92, § 320(a)(2)(B), substituted “degrading energy resilience at military installations (excluding planned outages for maintenance reasons), whether caused by on- or off-installation disruptions, including the total number of outages and their locations, the duration of each outage, the financial effect of each outage, whether or not the mission was affected, the downtimes (in minutes or hours) the mission can afford based on mission requirements and risk tolerances, the responsible authority managing the utility, and measures taken to mitigate the outage by the responsible authority.” for “impacting energy resilience at military installations (excluding planned outages for maintenance reasons), whether caused by on- or off-installation disruptions, including the total number and location of outage, the duration of the outage, the financial impact of the outage, whether or not the mission was impacted, the downtimes (in minutes or hours) these missions can afford based on their mission requirements and risk tolerances, the responsible authority managing the utility, and measure taken to mitigate the outage by the responsible authority.”
 
-Subsec. (a)(4). Pub. L. 116–92, § 319(a)(3), substituted “electric and thermal loads” for “megawatts” in introductory provisions.
+Subsec. (a)(4). Pub. L. 116–92, § 319(a)(3), substituted “electric and thermal loads” for “megawatts” in introductory provisions.
 
-Subsec. (a)(5). Pub. L. 116–92, § 319(a)(4), substituted “electric and thermal loads” for “megawatts”.
+Subsec. (a)(5). Pub. L. 116–92, § 319(a)(4), substituted “electric and thermal loads” for “megawatts”.
 
-2018—Subsec. (a). Pub. L. 115–232, § 312(c)(1), inserted “, including progress on energy resilience at military installations according to metrics developed by the Secretary” after “under section 2911 of this title” in introductory provisions.
+2018—Subsec. (a). Pub. L. 115–232, § 312(c)(1), inserted “, including progress on energy resilience at military installations according to metrics developed by the Secretary” after “under section 2911 of this title” in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 115–232, § 312(c)(2), substituted “the downtimes (in minutes or hours) these missions can afford based on their mission requirements and risk tolerances” for “the mission requirements associated with disruption tolerances based on risk to mission”.
+Subsec. (a)(3). Pub. L. 115–232, § 312(c)(2), substituted “the downtimes (in minutes or hours) these missions can afford based on their mission requirements and risk tolerances” for “the mission requirements associated with disruption tolerances based on risk to mission”.
 
-Subsec. (a)(4). Pub. L. 115–232, § 312(c)(3), inserted “(including critical energy loads in megawatts and the associated downtime tolerances for critical energy loads)” after “energy requirements and critical energy requirements” in introductory provisions.
+Subsec. (a)(4). Pub. L. 115–232, § 312(c)(3), inserted “(including critical energy loads in megawatts and the associated downtime tolerances for critical energy loads)” after “energy requirements and critical energy requirements” in introductory provisions.
 
-Subsec. (a)(5) to (7). Pub. L. 115–232, § 312(c)(4), (5), added pars. (5) and (6) and redesignated former par. (5) as (7).
+Subsec. (a)(5) to (7). Pub. L. 115–232, § 312(c)(4), (5), added pars. (5) and (6) and redesignated former par. (5) as (7).
 
-Subsec. (b)(1). Pub. L. 115–232, § 314(b)(1), substituted “section 2926(d)” for “section 2926(b)”.
+Subsec. (b)(1). Pub. L. 115–232, § 314(b)(1), substituted “section 2926(d)” for “section 2926(b)”.
 
-2017—Subsec. (a). Pub. L. 115–91, § 2831(c)(7)(A), substituted “Energy Resilience” for “Resiliency” in heading.
+2017—Subsec. (a). Pub. L. 115–91, § 2831(c)(7)(A), substituted “Energy Resilience” for “Resiliency” in heading.
 
-Subsec. (a)(1). Pub. L. 115–91, § 2836(1), inserted “, including progress on energy resilience at military installations according to metrics developed by the Secretary” before period at end.
+Subsec. (a)(1). Pub. L. 115–91, § 2836(1), inserted “, including progress on energy resilience at military installations according to metrics developed by the Secretary” before period at end.
 
-Pub. L. 115–91, § 2831(c)(7)(B), substituted “2911(g)” for “2911(e)”.
+Pub. L. 115–91, § 2831(c)(7)(B), substituted “2911(g)” for “2911(e)”.
 
-Subsec. (a)(3). Pub. L. 115–91, § 2836(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Details of all commercial utility outages caused by threats and those caused by hazards at military installations that last eight hours or longer, whether or not the outage was mitigated by backup power, including non-commercial utility outages and Department of Defense-owned infrastructure, including the total number and location of outages, the financial impact of the outages, and measure taken to mitigate outages in the future at the affected locations and across the Department of Defense.”
+Subsec. (a)(3). Pub. L. 115–91, § 2836(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Details of all commercial utility outages caused by threats and those caused by hazards at military installations that last eight hours or longer, whether or not the outage was mitigated by backup power, including non-commercial utility outages and Department of Defense-owned infrastructure, including the total number and location of outages, the financial impact of the outages, and measure taken to mitigate outages in the future at the affected locations and across the Department of Defense.”
 
-Subsec. (a)(4), (5). Pub. L. 115–91, § 2836(3), (4), added par. (4) and redesignated former par. (4) as (5).
+Subsec. (a)(4), (5). Pub. L. 115–91, § 2836(3), (4), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (b)(1). Pub. L. 115–91, § 1081(a)(48), substituted “section 2926(b)” for “section 138c”.
+Subsec. (b)(1). Pub. L. 115–91, § 1081(a)(48), substituted “section 2926(b)” for “section 138c”.
 
-2016—Subsec. (a). Pub. L. 114–328, § 311(1), inserted “, Resiliency, and Mission Assurance” after “Annual Report Related to Installations Energy Management” in heading.
+2016—Subsec. (a). Pub. L. 114–328, § 311(1), inserted “, Resiliency, and Mission Assurance” after “Annual Report Related to Installations Energy Management” in heading.
 
-Subsec. (a)(2) to (11). Pub. L. 114–328, § 311(2)–(4), added par. (2), redesignated pars. (9) and (11) as pars. (3) and (4), respectively, and struck out former pars. (2) to (8) and (10), which required various tables and descriptions in reports.
+Subsec. (a)(2) to (11). Pub. L. 114–328, § 311(2)–(4), added par. (2), redesignated pars. (9) and (11) as pars. (3) and (4), respectively, and struck out former pars. (2) to (8) and (10), which required various tables and descriptions in reports.
 
-2015—Subsec. (a)(4). Pub. L. 114–92, § 313(1), (2), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “In addition to the information contained in the table listing energy projects financed through third party financing mechanisms, as required by paragraph (3), the table also shall list any renewable energy certificates associated with each project, including information regarding whether the renewable energy certificates were bundled or unbundled, the purchasing authority for the renewable energy certificates, and the price of the associated renewable energy certificates.”
+2015—Subsec. (a)(4). Pub. L. 114–92, § 313(1), (2), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “In addition to the information contained in the table listing energy projects financed through third party financing mechanisms, as required by paragraph (3), the table also shall list any renewable energy certificates associated with each project, including information regarding whether the renewable energy certificates were bundled or unbundled, the purchasing authority for the renewable energy certificates, and the price of the associated renewable energy certificates.”
 
-Subsec. (a)(5), (6). Pub. L. 114–92, § 313(2), redesignated pars. (6) and (8) as (5) and (6), respectively. Former par. (5) redesignated (4).
+Subsec. (a)(5), (6). Pub. L. 114–92, § 313(2), redesignated pars. (6) and (8) as (5) and (6), respectively. Former par. (5) redesignated (4).
 
-Subsec. (a)(7). Pub. L. 114–92, § 313(3), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “A description and estimate of the progress made by the military departments to meet the certification requirements for sustainable green-building standards in construction and major renovations as required by section 433 of the Energy Independence and Security Act of 2007 (Public Law 110–140; 121 Stat. 1612).”
+Subsec. (a)(7). Pub. L. 114–92, § 313(3), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “A description and estimate of the progress made by the military departments to meet the certification requirements for sustainable green-building standards in construction and major renovations as required by section 433 of the Energy Independence and Security Act of 2007 (Public Law 110–140; 121 Stat. 1612).”
 
-Pub. L. 114–92, § 313(1), (2), redesignated par. (9) as (7) and struck out former par. (7) which read as follows: “An estimate of the types and quantities of energy consumed by the Department of Defense and members of the armed forces and civilian personnel residing or working on military installations during the preceding fiscal year, including a breakdown of energy consumption by user groups and types of energy, energy costs, and the quantities of renewable energy produced or procured by the Department.”
+Pub. L. 114–92, § 313(1), (2), redesignated par. (9) as (7) and struck out former par. (7) which read as follows: “An estimate of the types and quantities of energy consumed by the Department of Defense and members of the armed forces and civilian personnel residing or working on military installations during the preceding fiscal year, including a breakdown of energy consumption by user groups and types of energy, energy costs, and the quantities of renewable energy produced or procured by the Department.”
 
-Subsec. (a)(8). Pub. L. 114–92, § 313(2), redesignated par. (10) as (8). Former par. (8) redesignated (6).
+Subsec. (a)(8). Pub. L. 114–92, § 313(2), redesignated par. (10) as (8). Former par. (8) redesignated (6).
 
-Subsec. (a)(9). Pub. L. 114–92, § 313(4), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “Details of utility outages at military installations including the total number and locations of outages, the financial impact of the outage, and measures taken to mitigate outages in the future at the affected location and across the Department of Defense.”
+Subsec. (a)(9). Pub. L. 114–92, § 313(4), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “Details of utility outages at military installations including the total number and locations of outages, the financial impact of the outage, and measures taken to mitigate outages in the future at the affected location and across the Department of Defense.”
 
-Pub. L. 114–92, § 313(2) redesignated par. (11) as (9). Former par. (9) redesignated (7).
+Pub. L. 114–92, § 313(2) redesignated par. (11) as (9). Former par. (9) redesignated (7).
 
-Subsec. (a)(10). Pub. L. 114–92, § 313(2), redesignated par. (12) as (10). Former par. (10) redesignated (8).
+Subsec. (a)(10). Pub. L. 114–92, § 313(2), redesignated par. (12) as (10). Former par. (10) redesignated (8).
 
-Subsec. (a)(11). Pub. L. 114–92, § 313(5) added par. (11). Former par. (11) redesignated (9).
+Subsec. (a)(11). Pub. L. 114–92, § 313(5) added par. (11). Former par. (11) redesignated (9).
 
-Subsec. (a)(12). Pub. L. 114–92, § 313(2), redesignated par. (12) as (10).
+Subsec. (a)(12). Pub. L. 114–92, § 313(2), redesignated par. (12) as (10).
 
 2014—Subsec. (b)(1). Pub. L. 113–291 substituted “Energy, Installations, and Environment” for “Operational Energy Plans and Programs”.
 
-2013—Subsec. (a)(1). Pub. L. 112–239, § 1076(d)(6)(A), substituted “section 553” for “section 533”.
+2013—Subsec. (a)(1). Pub. L. 112–239, § 1076(d)(6)(A), substituted “section 553” for “section 533”.
 
-Subsec. (b)(1). Pub. L. 112–239, § 1076(c)(3)(A), (d)(6)(B), substituted “Assistant Secretary of Defense for” for “Director of” and “section 138c” for “section 139b”.
+Subsec. (b)(1). Pub. L. 112–239, § 1076(c)(3)(A), (d)(6)(B), substituted “Assistant Secretary of Defense for” for “Director of” and “section 138c” for “section 139b”.
 
-Subsec. (b)(2)(G). Pub. L. 112–239, § 1076(c)(3)(B), substituted “Assistant Secretary” for “Director” in two places.
+Subsec. (b)(2)(G). Pub. L. 112–239, § 1076(c)(3)(B), substituted “Assistant Secretary” for “Director” in two places.
 
-2011—Subsec. (a). Pub. L. 112–81, § 2826, in introductory provisions, substituted “Not later than 120 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional defense committees an installation energy report detailing the fulfillment during that fiscal year of the energy performance goals for the Department of Defense under section 2911 of this title. Each report shall contain the following:” for “As part of the annual submission of the energy performance goals for the Department of Defense under section 2911 of this title, the Secretary of Defense shall submit a report containing the following:”.
+2011—Subsec. (a). Pub. L. 112–81, § 2826, in introductory provisions, substituted “Not later than 120 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional defense committees an installation energy report detailing the fulfillment during that fiscal year of the energy performance goals for the Department of Defense under section 2911 of this title. Each report shall contain the following:” for “As part of the annual submission of the energy performance goals for the Department of Defense under section 2911 of this title, the Secretary of Defense shall submit a report containing the following:”.
 
-Subsec. (a)(3). Pub. L. 112–81, § 2822(d)(1), inserted “whether the project incorporates energy security into its design,” after “through the duration of each such mechanism,”.
+Subsec. (a)(3). Pub. L. 112–81, § 2822(d)(1), inserted “whether the project incorporates energy security into its design,” after “through the duration of each such mechanism,”.
 
-Subsec. (a)(4). Pub. L. 112–81, § 2824(b)(2), added par. (4). Former par. (4) redesignated (5).
+Subsec. (a)(4). Pub. L. 112–81, § 2824(b)(2), added par. (4). Former par. (4) redesignated (5).
 
-Pub. L. 111–383, § 2832(c)(1), substituted “energy performance master plan” for “energy performance plan”.
+Pub. L. 111–383, § 2832(c)(1), substituted “energy performance master plan” for “energy performance plan”.
 
-Subsec. (a)(5) to (9). Pub. L. 112–81, § 2824(b)(1), redesignated pars. (4) to (8) as (5) to (9), respectively.
+Subsec. (a)(5) to (9). Pub. L. 112–81, § 2824(b)(1), redesignated pars. (4) to (8) as (5) to (9), respectively.
 
-Subsec. (a)(10). Pub. L. 112–81, § 2824(b)(1), redesignated par. (9) as (10). Former par. (10) redesignated (11).
+Subsec. (a)(10). Pub. L. 112–81, § 2824(b)(1), redesignated par. (9) as (10). Former par. (10) redesignated (11).
 
-Pub. L. 112–81, § 2822(d)(3), added par. (10). Former par. (10) redesignated (11).
+Pub. L. 112–81, § 2822(d)(3), added par. (10). Former par. (10) redesignated (11).
 
-Subsec. (a)(11). Pub. L. 112–81, § 2824(b)(1), redesignated par. (10) as (11). Former par. (11) redesignated (12).
+Subsec. (a)(11). Pub. L. 112–81, § 2824(b)(1), redesignated par. (10) as (11). Former par. (11) redesignated (12).
 
-Pub. L. 112–81, § 2822(d)(2), redesignated par. (10) as (11).
+Pub. L. 112–81, § 2822(d)(2), redesignated par. (10) as (11).
 
-Subsec. (a)(12). Pub. L. 112–81, § 2824(b)(1), redesignated par. (11) as (12).
+Subsec. (a)(12). Pub. L. 112–81, § 2824(b)(1), redesignated par. (11) as (12).
 
-Subsec. (b)(2)(E). Pub. L. 112–81, § 314(b)(2), added subpar. (E). Former subpar. (E) redesignated (F).
+Subsec. (b)(2)(E). Pub. L. 112–81, § 314(b)(2), added subpar. (E). Former subpar. (E) redesignated (F).
 
-Subsec. (b)(2)(F). Pub. L. 112–81, § 342(2), added subpar. (F). Former subpar. (F) redesignated (G).
+Subsec. (b)(2)(F). Pub. L. 112–81, § 342(2), added subpar. (F). Former subpar. (F) redesignated (G).
 
-Pub. L. 112–81, § 314(b)(1), redesignated subpar. (E) as (F).
+Pub. L. 112–81, § 314(b)(1), redesignated subpar. (E) as (F).
 
-Subsec. (b)(2)(G). Pub. L. 112–81, § 342(1), redesignated subpar. (F) as (G).
+Subsec. (b)(2)(G). Pub. L. 112–81, § 342(1), redesignated subpar. (F) as (G).
 
-Subsec. (b)(4). Pub. L. 112–81, § 2821(b)(4), struck out par. (4) which read as follows: “In this subsection, the term ‘operational energy’ means the energy required for training, moving, and sustaining military forces and weapons platforms for military operations. The term includes energy used by tactical power systems and generators and weapons platforms.”
+Subsec. (b)(4). Pub. L. 112–81, § 2821(b)(4), struck out par. (4) which read as follows: “In this subsection, the term ‘operational energy’ means the energy required for training, moving, and sustaining military forces and weapons platforms for military operations. The term includes energy used by tactical power systems and generators and weapons platforms.”
 
 2009—Subsec. (a). Pub. L. 111–84, in par. (1), inserted “section 2911(e) of this title, section 533 of the National Energy Conservation Policy Act (42 U.S.C. 8259b),” after “(Public Law 109–58),”, added pars. (2), (3), (9), and (10), and redesignated former pars. (2) to (6) as (4) to (8), respectively.
 
-2008—Pub. L. 110–417, § 331(b)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Annual report”.
+2008—Pub. L. 110–417, § 331(b)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Annual report”.
 
-Subsec. (a). Pub. L. 110–417, § 2832, in heading substituted “Annual Report Related to Installations Energy Management” for “Report Required”, in par. (1) inserted “, the Energy Independence and Security Act of 2007 (Public Law 110–140),” after “(Public Law 109–58)”, and added par. (6).
+Subsec. (a). Pub. L. 110–417, § 2832, in heading substituted “Annual Report Related to Installations Energy Management” for “Report Required”, in par. (1) inserted “, the Energy Independence and Security Act of 2007 (Public Law 110–140),” after “(Public Law 109–58)”, and added par. (6).
 
-Subsec. (b). Pub. L. 110–417, § 331(a), added subsec. (b) and struck out former subsec. (b) which related to requirements for the initial report to be submitted by the Secretary of Defense.
+Subsec. (b). Pub. L. 110–417, § 331(a), added subsec. (b) and struck out former subsec. (b) which related to requirements for the initial report to be submitted by the Secretary of Defense.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 116–283, div. A, title III, § 336(b), Jan. 1, 2021, 134 Stat. 3533, provided that: “The reporting requirement under paragraph (7) of section 2925(a) of title 10, United States Code, as added by subsection (a) of this section, applies to reports submitted under such section 2925 for fiscal year 2021 and thereafter.”
+Pub. L. 116–283, div. A, title III, § 336(b), Jan. 1, 2021, 134 Stat. 3533, provided that: “The reporting requirement under paragraph (7) of section 2925(a) of title 10, United States Code, as added by subsection (a) of this section, applies to reports submitted under such section 2925 for fiscal year 2021 and thereafter.”
 
 **Use of Assessment Tool**
 
-Pub. L. 117–81, div. A, title III, § 311(i)(2), Dec. 27, 2021, 135 Stat. 1627, provided that: “The Secretary [of Defense] shall use the Climate Vulnerability and Risk Assessment Tool of the Department [of Defense] (or such successor tool) in preparing each report under section 2925(a) of title 10, United States Code (as amended by paragraph (1)) [section 2925(a) of this title struck out, and new section 2925(a) of this title added, by Pub. L. 117–263, see 2022 Amendment note above].”
+Pub. L. 117–81, div. A, title III, § 311(i)(2), Dec. 27, 2021, 135 Stat. 1627, provided that: “The Secretary [of Defense] shall use the Climate Vulnerability and Risk Assessment Tool of the Department [of Defense] (or such successor tool) in preparing each report under section 2925(a) of title 10, United States Code (as amended by paragraph (1)) [section 2925(a) of this title struck out, and new section 2925(a) of this title added, by Pub. L. 117–263, see 2022 Amendment note above].”
 
-### § 2926. Operational energy
+### § 2926. Operational energy
 
 **(a) Operational Energy Policy.—** In carrying out section 2911(a) of this title, the Secretary of Defense shall ensure the types, availability, and use of operational energy promote the readiness of the armed forces for their military missions in contested logistics environments.
 
@@ -3225,111 +3225,111 @@ Pub. L. 117–81, div. A, title III, § 311(i)(2), Dec. 27, 2021, 135 Stat. 16
 
 **(h) Contested Logistics Environment Defined.—** In this section, the term “contested logistics environment” means an environment in which the armed forces engage in conflict with an adversary that presents challenges in all domains and directly targets logistics operations, facilities, and activities in the United States, abroad, or in transit from one location to the other.
 
-(Added and amended Pub. L. 113–291, div. A, title IX, § 901(g)(1), Dec. 19, 2014, 128 Stat. 3464; Pub. L. 114–92, div. A, title X, § 1081(a)(12), (b)(2), Nov. 25, 2015, 129 Stat. 1001; Pub. L. 115–232, div. A, title III, § 314(a), Aug. 13, 2018, 132 Stat. 1711; Pub. L. 116–92, div. A, title III, § 320(a)(1)(B), (c)(1), title IX, § 902(83), Dec. 20, 2019, 133 Stat. 1306, 1307, 1553; Pub. L. 117–81, div. A, title III, § 351(a)–(e), Dec. 27, 2021, 135 Stat. 1650–1653; Pub. L. 118–31, div. A, title III, § 343(1)(A), (2), (3), title X, § 1053, Dec. 22, 2023, 137 Stat. 224, 396.)
+(Added and amended Pub. L. 113–291, div. A, title IX, § 901(g)(1), Dec. 19, 2014, 128 Stat. 3464; Pub. L. 114–92, div. A, title X, § 1081(a)(12), (b)(2), Nov. 25, 2015, 129 Stat. 1001; Pub. L. 115–232, div. A, title III, § 314(a), Aug. 13, 2018, 132 Stat. 1711; Pub. L. 116–92, div. A, title III, § 320(a)(1)(B), (c)(1), title IX, § 902(83), Dec. 20, 2019, 133 Stat. 1306, 1307, 1553; Pub. L. 117–81, div. A, title III, § 351(a)–(e), Dec. 27, 2021, 135 Stat. 1650–1653; Pub. L. 118–31, div. A, title III, § 343(1)(A), (2), (3), title X, § 1053, Dec. 22, 2023, 137 Stat. 224, 396.)
 
 **Editorial Notes**
 
 **Codification**
 
-Subsec. (c)(3) of section 138c of this title, which was transferred to subsec. (a) (now (c)) of this section by Pub. L. 113–291, § 901(g)(1)(B), was based on Pub. L. 112–81, div. A, title III, § 314(a), Dec. 31, 2011, 125 Stat. 1357. Subsecs. (d) to (f) of section 138c of this title, which were transferred to subsecs. (b) to (d) (now (d) to (f)), respectively, of this section by Pub. L. 113–291, § 901(g)(1)(D), were based on Pub. L. 110–417, [div. A], title IX, § 902(a), Oct. 14, 2008, 122 Stat. 4564; amended Pub. L. 111–383, div. A, title IX, § 901(b)(7)(B)–(D), Jan. 7, 2011, 124 Stat. 4320; Pub. L. 112–81, div. A, title III, § 311, Dec. 31, 2011, 125 Stat. 1351; Pub. L. 113–66, div. A, title III, § 311, Dec. 26, 2013, 127 Stat. 728.
+Subsec. (c)(3) of section 138c of this title, which was transferred to subsec. (a) (now (c)) of this section by Pub. L. 113–291, § 901(g)(1)(B), was based on Pub. L. 112–81, div. A, title III, § 314(a), Dec. 31, 2011, 125 Stat. 1357. Subsecs. (d) to (f) of section 138c of this title, which were transferred to subsecs. (b) to (d) (now (d) to (f)), respectively, of this section by Pub. L. 113–291, § 901(g)(1)(D), were based on Pub. L. 110–417, [div. A], title IX, § 902(a), Oct. 14, 2008, 122 Stat. 4564; amended Pub. L. 111–383, div. A, title IX, § 901(b)(7)(B)–(D), Jan. 7, 2011, 124 Stat. 4320; Pub. L. 112–81, div. A, title III, § 311, Dec. 31, 2011, 125 Stat. 1351; Pub. L. 113–66, div. A, title III, § 311, Dec. 26, 2013, 127 Stat. 728.
 
 **Amendments**
 
-2023—Subsec. (d)(3). Pub. L. 118–31, § 343(1)(A)(i), struck out “appointed” after “shall be” in introductory provisions.
+2023—Subsec. (d)(3). Pub. L. 118–31, § 343(1)(A)(i), struck out “appointed” after “shall be” in introductory provisions.
 
-Subsec. (d)(3)(D) to (G). Pub. L. 118–31, § 343(1)(A)(ii), added subpars. (D) to (G).
+Subsec. (d)(3)(D) to (G). Pub. L. 118–31, § 343(1)(A)(ii), added subpars. (D) to (G).
 
-Subsec. (d)(4). Pub. L. 118–31, § 343(2), inserted “, or developing capabilities for such purposes,” after “coordinated initiatives”.
+Subsec. (d)(4). Pub. L. 118–31, § 343(2), inserted “, or developing capabilities for such purposes,” after “coordinated initiatives”.
 
-Subsec. (d)(6), (7). Pub. L. 118–31, § 343(3), added pars. (6) and (7).
+Subsec. (d)(6), (7). Pub. L. 118–31, § 343(3), added pars. (6) and (7).
 
-Subsec. (e)(2)(E). Pub. L. 118–31, § 1053, substituted “A biennial assessment” for “An assessment” and “adversary, which shall include—” for “adversary.” and added cls. (i) to (iv).
+Subsec. (e)(2)(E). Pub. L. 118–31, § 1053, substituted “A biennial assessment” for “An assessment” and “adversary, which shall include—” for “adversary.” and added cls. (i) to (iv).
 
-2021—Subsec. (a). Pub. L. 117–81, § 351(a)(1), inserted “in contested logistics environments” after “missions”.
+2021—Subsec. (a). Pub. L. 117–81, § 351(a)(1), inserted “in contested logistics environments” after “missions”.
 
-Subsec. (b). Pub. L. 117–81, § 351(a)(2)(A), (B), substituted “Responsibilities” for “Authorities” in heading and “shall” for “may” in introductory provisions.
+Subsec. (b). Pub. L. 117–81, § 351(a)(2)(A), (B), substituted “Responsibilities” for “Authorities” in heading and “shall” for “may” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 117–81, § 351(a)(2)(C), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “require the Secretary of a military department or the commander of a combatant command to assess the energy supportability of systems, capabilities, and plans;”.
+Subsec. (b)(1). Pub. L. 117–81, § 351(a)(2)(C), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “require the Secretary of a military department or the commander of a combatant command to assess the energy supportability of systems, capabilities, and plans;”.
 
-Subsec. (b)(2). Pub. L. 117–81, § 351(a)(2)(D), inserted “supportability in contested logistics environments,” after “power,”.
+Subsec. (b)(2). Pub. L. 117–81, § 351(a)(2)(D), inserted “supportability in contested logistics environments,” after “power,”.
 
-Subsec. (b)(3). Pub. L. 117–81, § 351(a)(2)(E), inserted “in contested logistics environments” after “vulnerabilities”.
+Subsec. (b)(3). Pub. L. 117–81, § 351(a)(2)(E), inserted “in contested logistics environments” after “vulnerabilities”.
 
-Subsec. (c). Pub. L. 117–81, § 351(b)(1)(A), inserted “and in coordination with the working group under subsection (d)” after “components” in introductory provisions.
+Subsec. (c). Pub. L. 117–81, § 351(b)(1)(A), inserted “and in coordination with the working group under subsection (d)” after “components” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 117–81, § 351(b)(1)(B), substituted “Defense, including the activities of the working group established under subsection (d), and oversee” for “Defense and oversee”.
+Subsec. (c)(1). Pub. L. 117–81, § 351(b)(1)(B), substituted “Defense, including the activities of the working group established under subsection (d), and oversee” for “Defense and oversee”.
 
-Subsec. (c)(2). Pub. L. 117–81, § 351(b)(1)(C), inserted “, taking into account the findings of the working group under subsection (d)” after “Defense”.
+Subsec. (c)(2). Pub. L. 117–81, § 351(b)(1)(C), inserted “, taking into account the findings of the working group under subsection (d)” after “Defense”.
 
-Subsec. (c)(3). Pub. L. 117–81, § 351(b)(1)(D), inserted “, taking into account the findings of the working group under subsection (d)” after “resilience”.
+Subsec. (c)(3). Pub. L. 117–81, § 351(b)(1)(D), inserted “, taking into account the findings of the working group under subsection (d)” after “resilience”.
 
-Subsec. (c)(5). Pub. L. 117–81, § 351(e), substituted “subsection (f)(4)” for “subsection (e)(4)”.
+Subsec. (c)(5). Pub. L. 117–81, § 351(e), substituted “subsection (f)(4)” for “subsection (e)(4)”.
 
-Subsec. (d). Pub. L. 117–81, § 351(b)(3), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 117–81, § 351(b)(3), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 117–81, § 351(b)(2), (c), redesignated subsec. (d) as (e) and amended it generally. Prior to amendment, subsec. related to budgetary and financial matters relating to the operational energy strategy. Section 351(c), which directed amending subsec. (e) to read as follows but omitted the subsec. designation and heading, was executed by amending the text of subsec. (e) and retaining the existing designation and heading, to reflect the probable intent of Congress.
+Subsec. (e). Pub. L. 117–81, § 351(b)(2), (c), redesignated subsec. (d) as (e) and amended it generally. Prior to amendment, subsec. related to budgetary and financial matters relating to the operational energy strategy. Section 351(c), which directed amending subsec. (e) to read as follows but omitted the subsec. designation and heading, was executed by amending the text of subsec. (e) and retaining the existing designation and heading, to reflect the probable intent of Congress.
 
-Subsecs. (f), (g). Pub. L. 117–81, § 351(b)(2), redesignated subsecs. (e) and (f) as (f) and (g), respectively.
+Subsecs. (f), (g). Pub. L. 117–81, § 351(b)(2), redesignated subsecs. (e) and (f) as (f) and (g), respectively.
 
-Subsec. (g)(1). Pub. L. 117–81, § 351(b)(4)(A), substituted “Each member of the working group under subsection (d)” for “The Secretary of a military department” and “conducted by the respective component of the Department that the member represents for purposes of the working group” for “conducted by the military department”.
+Subsec. (g)(1). Pub. L. 117–81, § 351(b)(4)(A), substituted “Each member of the working group under subsection (d)” for “The Secretary of a military department” and “conducted by the respective component of the Department that the member represents for purposes of the working group” for “conducted by the military department”.
 
-Subsec. (g)(2). Pub. L. 117–81, § 351(b)(4)(B), substituted “armed force” for “military department”.
+Subsec. (g)(2). Pub. L. 117–81, § 351(b)(4)(B), substituted “armed force” for “military department”.
 
-Subsec. (h). Pub. L. 117–81, § 351(d), added subsec. (h).
+Subsec. (h). Pub. L. 117–81, § 351(d), added subsec. (h).
 
-2019—Pub. L. 116–92, § 320(c)(1), substituted “Operational energy” for “Operational energy activities” in section catchline.
+2019—Pub. L. 116–92, § 320(c)(1), substituted “Operational energy” for “Operational energy activities” in section catchline.
 
-Subsec. (d)(1). Pub. L. 116–92, § 320(a)(1)(B), substituted “the Defense Agencies” for “Defense Agencies”.
+Subsec. (d)(1). Pub. L. 116–92, § 320(a)(1)(B), substituted “the Defense Agencies” for “Defense Agencies”.
 
-Subsec. (e)(5)(D). Pub. L. 116–92, § 902(83), substituted “Under Secretary for Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+Subsec. (e)(5)(D). Pub. L. 116–92, § 902(83), substituted “Under Secretary for Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
-2018—Subsecs. (a), (b). Pub. L. 115–232, § 314(a)(2), added subsecs. (a) and (b). Former subsecs. (a) and (b) redesignated (c) and (d), respectively.
+2018—Subsecs. (a), (b). Pub. L. 115–232, § 314(a)(2), added subsecs. (a) and (b). Former subsecs. (a) and (b) redesignated (c) and (d), respectively.
 
-Subsec. (c). Pub. L. 115–232, § 314(a)(3)(A), (B), substituted “Functions of the Assistant Secretary of Defense for Energy, Installations, and Environment” for “Alternative Fuel Activities” in heading and “heads of the appropriate Department of Defense components” for “heads of the military departments and the Assistant Secretary of Defense for Research and Engineering” in introductory provisions.
+Subsec. (c). Pub. L. 115–232, § 314(a)(3)(A), (B), substituted “Functions of the Assistant Secretary of Defense for Energy, Installations, and Environment” for “Alternative Fuel Activities” in heading and “heads of the appropriate Department of Defense components” for “heads of the military departments and the Assistant Secretary of Defense for Research and Engineering” in introductory provisions.
 
-Pub. L. 115–232, § 314(a)(1), redesignated subsec. (a) as (c). Former subsec. (c) redesignated (e).
+Pub. L. 115–232, § 314(a)(1), redesignated subsec. (a) as (c). Former subsec. (c) redesignated (e).
 
-Subsec. (c)(1). Pub. L. 115–232, § 314(a)(3)(C), substituted “oversee the operational energy activities” for “lead the alternative fuel activities”.
+Subsec. (c)(1). Pub. L. 115–232, § 314(a)(3)(C), substituted “oversee the operational energy activities” for “lead the alternative fuel activities”.
 
-Subsec. (c)(2). Pub. L. 115–232, § 314(a)(3)(D), substituted “regarding the policies and investments that affect the use of operational energy across the Department of Defense” for “regarding the development of alternative fuels by the military departments and the Office of the Secretary of Defense”.
+Subsec. (c)(2). Pub. L. 115–232, § 314(a)(3)(D), substituted “regarding the policies and investments that affect the use of operational energy across the Department of Defense” for “regarding the development of alternative fuels by the military departments and the Office of the Secretary of Defense”.
 
-Subsec. (c)(3). Pub. L. 115–232, § 314(a)(3)(E), substituted “recommend to the Secretary policy to improve warfighting capability through energy security and energy resilience” for “prescribe policy to streamline the investments in alternative fuel activities across the Department of Defense”.
+Subsec. (c)(3). Pub. L. 115–232, § 314(a)(3)(E), substituted “recommend to the Secretary policy to improve warfighting capability through energy security and energy resilience” for “prescribe policy to streamline the investments in alternative fuel activities across the Department of Defense”.
 
-Subsec. (c)(5). Pub. L. 115–232, § 314(a)(3)(F), substituted “subsection (e)(4)” for “subsection (c)(4)”.
+Subsec. (c)(5). Pub. L. 115–232, § 314(a)(3)(F), substituted “subsection (e)(4)” for “subsection (c)(4)”.
 
-Subsecs. (d) to (f). Pub. L. 115–232, § 314(a)(1), redesignated subsecs. (b) to (d) as (d) to (f), respectively.
+Subsecs. (d) to (f). Pub. L. 115–232, § 314(a)(1), redesignated subsecs. (b) to (d) as (d) to (f), respectively.
 
-2015—Pub. L. 114–92, § 1081(a)(12), substituted “for Energy, Installations, and Environment” for “for Installations, Energy, and Environment” in subsecs. (a) to (d).
+2015—Pub. L. 114–92, § 1081(a)(12), substituted “for Energy, Installations, and Environment” for “for Installations, Energy, and Environment” in subsecs. (a) to (d).
 
-Subsec. (b)(4). Pub. L. 114–92, § 1081(b)(2), amended directory language of Pub. L. 113–291, § 901(g)(1)(F). See 2014 Amendment note below.
+Subsec. (b)(4). Pub. L. 114–92, § 1081(b)(2), amended directory language of Pub. L. 113–291, § 901(g)(1)(F). See 2014 Amendment note below.
 
-2014—Subsec. (a). Pub. L. 113–291, § 901(g)(1)(E), inserted “of Defense for Installations, Energy, and Environment” after “The Assistant Secretary” in introductory provisions.
+2014—Subsec. (a). Pub. L. 113–291, § 901(g)(1)(E), inserted “of Defense for Installations, Energy, and Environment” after “The Assistant Secretary” in introductory provisions.
 
-Pub. L. 113–291, § 901(g)(1)(B)–(C)(ii), transferred subsec. (c)(3) of section 138c of this title to subsec. (a) of this section, inserted heading, and redesignated subpars. (A) to (E) as pars. (1) to (5), respectively. See Codification note above.
+Pub. L. 113–291, § 901(g)(1)(B)–(C)(ii), transferred subsec. (c)(3) of section 138c of this title to subsec. (a) of this section, inserted heading, and redesignated subpars. (A) to (E) as pars. (1) to (5), respectively. See Codification note above.
 
-Subsec. (a)(5). Pub. L. 113–291, § 901(g)(1)(C)(iii), substituted “subsection (c)(4)” for “subsection (e)(4)”.
+Subsec. (a)(5). Pub. L. 113–291, § 901(g)(1)(C)(iii), substituted “subsection (c)(4)” for “subsection (e)(4)”.
 
-Subsec. (b). Pub. L. 113–291, § 901(g)(1)(D), transferred subsec. (d) of section 138c of this title to subsec. (b) of this section. See Codification note above.
+Subsec. (b). Pub. L. 113–291, § 901(g)(1)(D), transferred subsec. (d) of section 138c of this title to subsec. (b) of this section. See Codification note above.
 
-Subsec. (b)(1). Pub. L. 113–291, § 901(g)(1)(E), inserted “of Defense for Installations, Energy, and Environment” after “The Assistant Secretary”.
+Subsec. (b)(1). Pub. L. 113–291, § 901(g)(1)(E), inserted “of Defense for Installations, Energy, and Environment” after “The Assistant Secretary”.
 
-Subsec. (b)(4). Pub. L. 113–291, § 901(g)(1)(F), as amended by Pub. L. 114–92, § 1081(b)(2), substituted “make recommendations to the Secretary of Defense and Deputy Secretary of Defense and provide guidance to the Secretaries of the military departments” for “provide guidance to, and consult with, the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of the military departments,”.
+Subsec. (b)(4). Pub. L. 113–291, § 901(g)(1)(F), as amended by Pub. L. 114–92, § 1081(b)(2), substituted “make recommendations to the Secretary of Defense and Deputy Secretary of Defense and provide guidance to the Secretaries of the military departments” for “provide guidance to, and consult with, the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of the military departments,”.
 
-Subsec. (c). Pub. L. 113–291, § 901(g)(1)(D), transferred subsec. (e) of section 138c of this title to subsec. (c) of this section. See Codification note above.
+Subsec. (c). Pub. L. 113–291, § 901(g)(1)(D), transferred subsec. (e) of section 138c of this title to subsec. (c) of this section. See Codification note above.
 
-Subsec. (c)(1). Pub. L. 113–291, § 901(g)(1)(E), inserted “of Defense for Installations, Energy, and Environment” after “The Assistant Secretary”.
+Subsec. (c)(1). Pub. L. 113–291, § 901(g)(1)(E), inserted “of Defense for Installations, Energy, and Environment” after “The Assistant Secretary”.
 
-Subsec. (c)(4) to (6). Pub. L. 113–291, § 901(g)(1)(G), amended pars. (4) to (6) generally. Prior to amendment, pars. (4) to (6) required the Secretary of Defense to report to Congress, by a certain date, on proposed budgets not certified by the Assistant Secretary under par. (3), including a separate statement of certain estimated expenditures and requested appropriations.
+Subsec. (c)(4) to (6). Pub. L. 113–291, § 901(g)(1)(G), amended pars. (4) to (6) generally. Prior to amendment, pars. (4) to (6) required the Secretary of Defense to report to Congress, by a certain date, on proposed budgets not certified by the Assistant Secretary under par. (3), including a separate statement of certain estimated expenditures and requested appropriations.
 
-Subsec. (d). Pub. L. 113–291, § 901(g)(1)(D), transferred subsec. (f) of section 138c of this title to subsec. (d) of this section. See Codification note above.
+Subsec. (d). Pub. L. 113–291, § 901(g)(1)(D), transferred subsec. (f) of section 138c of this title to subsec. (d) of this section. See Codification note above.
 
-Subsec. (d)(1). Pub. L. 113–291, § 901(g)(1)(E), inserted “of Defense for Installations, Energy, and Environment” after “the Assistant Secretary”.
+Subsec. (d)(1). Pub. L. 113–291, § 901(g)(1)(E), inserted “of Defense for Installations, Energy, and Environment” after “the Assistant Secretary”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–92, div. A, title X, § 1081(b), Nov. 25, 2015, 129 Stat. 1001, provided in part that the amendment made by section 1081(b) is effective as of Dec. 19, 2014, and as if included in Pub. L. 113–291 as enacted.
+Pub. L. 114–92, div. A, title X, § 1081(b), Nov. 25, 2015, 129 Stat. 1001, provided in part that the amendment made by section 1081(b) is effective as of Dec. 19, 2014, and as if included in Pub. L. 113–291 as enacted.
 
 **Termination of Reporting Requirements**
 
@@ -3337,9 +3337,9 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (c)(4) of thi
 
 **Timing for Appointment of Additional Working Group Members**
 
-Pub. L. 118–31, div. A, title III, § 343(1)(B), Dec. 22, 2023, 137 Stat. 224, provided that: “Not later than 60 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall appoint the additional members of the working group required under subparagraphs (D) through (G) of paragraph (3) of such section [10 U.S.C. 2926(d)], as added by subparagraph (A).”
+Pub. L. 118–31, div. A, title III, § 343(1)(B), Dec. 22, 2023, 137 Stat. 224, provided that: “Not later than 60 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall appoint the additional members of the working group required under subparagraphs (D) through (G) of paragraph (3) of such section [10 U.S.C. 2926(d)], as added by subparagraph (A).”
 
-### § 2927. Global bulk fuel management and delivery
+### § 2927. Global bulk fuel management and delivery
 
 **(a) Responsible Element.—**
 
@@ -3355,9 +3355,9 @@ Pub. L. 118–31, div. A, title III, § 343(1)(B), Dec. 22, 2023, 137 Stat. 22
 
 **(2)** requiring the transfer of any function, personnel, or asset from the Defense Logistics Agency Energy to the United States Transportation Command.
 
-(Added Pub. L. 117–81, div. A, title III, § 352(a)(1), Dec. 27, 2021, 135 Stat. 1654.)
+(Added Pub. L. 117–81, div. A, title III, § 352(a)(1), Dec. 27, 2021, 135 Stat. 1654.)
 
-### § 2928. Programs on reduction of fuel reliance and promotion of energy-aware behaviors
+### § 2928. Programs on reduction of fuel reliance and promotion of energy-aware behaviors
 
 **(a) Establishment.—** Each Secretary of a military department shall establish a program for the promotion of energy-aware behaviors and the reduction of unnecessary fuel consumption within that military department.
 
@@ -3389,10 +3389,10 @@ Pub. L. 118–31, div. A, title III, § 343(1)(B), Dec. 22, 2023, 137 Stat. 22
 
 **(2)** a focus on improving integrated life-cycle management processes and fuel supply logistics.
 
-(Added Pub. L. 117–263, div. A, title III, § 319(a), Dec. 23, 2022, 136 Stat. 2507.)
+(Added Pub. L. 117–263, div. A, title III, § 319(a), Dec. 23, 2022, 136 Stat. 2507.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Deadline for Establishment**
 
-Pub. L. 117–263, div. A, title III, § 319(b), Dec. 23, 2022, 136 Stat. 2508, provided that: “The programs required under section 2928 of title 10, United States Code, as added by subsection (a), shall be established by not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022].”
+Pub. L. 117–263, div. A, title III, § 319(b), Dec. 23, 2022, 136 Stat. 2508, provided that: “The programs required under section 2928 of title 10, United States Code, as added by subsection (a), shall be established by not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022].”

@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 681. Disclaimer
+### § 681. Disclaimer
 
 Nothing contained in this Act, or in any amendments made by this Act, shall be construed as—
 
@@ -29,7 +29,7 @@ Nothing contained in this Act, or in any amendments made by this Act, shall be c
 
 **(4)** superseding any provision of law which requires the obligation of budget authority or the making of outlays thereunder.
 
-(Pub. L. 93–344, title X, § 1001, July 12, 1974, 88 Stat. 332.)
+(Pub. L. 93–344, title X, § 1001, July 12, 1974, 88 Stat. 332.)
 
 **Editorial Notes**
 
@@ -39,7 +39,7 @@ This Act, referred to in provision preceding par. (1), means Pub. L. 93–344, J
 
 **Codification**
 
-Section was formerly classified to section 1400 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1400 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -49,7 +49,7 @@ Chapter effective July 12, 1974, see section 905(a) of Pub. L. 93–344, formerl
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–130, § 1, Apr. 9, 1996, 110 Stat. 1200, which provided that Pub. L. 104–130 (enacting former subchapter III (§ 691 et seq.) of this chapter and provisions set out as a note under section 691 of this title and amending provisions set out as notes under section 621 of this title) could be cited as the “Line Item Veto Act”, was omitted pursuant to section 5 of Pub. L. 104–130, set out as an Effective and Termination Dates note under section 691 of this title.
+Pub. L. 104–130, § 1, Apr. 9, 1996, 110 Stat. 1200, which provided that Pub. L. 104–130 (enacting former subchapter III (§ 691 et seq.) of this chapter and provisions set out as a note under section 691 of this title and amending provisions set out as notes under section 621 of this title) could be cited as the “Line Item Veto Act”, was omitted pursuant to section 5 of Pub. L. 104–130, set out as an Effective and Termination Dates note under section 691 of this title.
 
 **Short Title**
 
@@ -57,7 +57,7 @@ For short title of title X of Pub. L. 93–344, which enacted this chapter, as t
 
 ## SUBCHAPTER II—CONGRESSIONAL CONSIDERATION OF PROPOSED RESCISSIONS, RESERVATIONS, AND DEFERRALS OF BUDGET AUTHORITY
 
-### § 682. Definitions
+### § 682. Definitions
 
 For purposes of sections 682 to 688 of this title—
 
@@ -75,15 +75,15 @@ For purposes of sections 682 to 688 of this title—
 
 **(5)** continuity of a session of the Congress shall be considered as broken only by an adjournment of the Congress sine die, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain shall be excluded in the computation of the 45-day period referred to in paragraph (3) of this section and in section 683 of this title, and the 25-day periods referred to in sections 687 and 688(b)(1) of this title. If a special message is transmitted under section 683 of this title during any Congress and the last session of such Congress adjourns sine die before the expiration of 45 calendar days of continuous session (or a special message is so transmitted after the last session of the Congress adjourns sine die), the message shall be deemed to have been retransmitted on the first day of the succeeding Congress and the 45-day period referred to in paragraph (3) of this section and in section 683 of this title (with respect to such message) shall commence on the day after such first day.
 
-(Pub. L. 93–344, title X, § 1011, July 12, 1974, 88 Stat. 333.)
+(Pub. L. 93–344, title X, § 1011, July 12, 1974, 88 Stat. 333.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 1401 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1401 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
-### § 683. Rescission of budget authority
+### § 683. Rescission of budget authority
 
 **(a) Transmittal of special message** Whenever the President determines that all or part of any budget authority will not be required to carry out the full objectives or scope of programs for which it is provided or that such budget authority should be rescinded for fiscal policy or other reasons (including the termination of authorized projects or activities for which budget authority has been provided), or whenever all or part of budget authority provided for only one fiscal year is to be reserved from obligation for such fiscal year, the President shall transmit to both Houses of Congress a special message specifying—
 
@@ -101,19 +101,19 @@ Section was formerly classified to section 1401 of Title 31 prior to the general
 
 Any amount of budget authority proposed to be rescinded or that is to be reserved as set forth in such special message shall be made available for obligation unless, within the prescribed 45-day period, the Congress has completed action on a rescission bill rescinding all or part of the amount proposed to be rescinded or that is to be reserved. Funds made available for obligation under this procedure may not be proposed for rescission again.
 
-(Pub. L. 93–344, title X, § 1012, July 12, 1974, 88 Stat. 333; Pub. L. 100–119, title II, § 207, Sept. 29, 1987, 101 Stat. 786.)
+(Pub. L. 93–344, title X, § 1012, July 12, 1974, 88 Stat. 333; Pub. L. 100–119, title II, § 207, Sept. 29, 1987, 101 Stat. 786.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 1402 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1402 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Amendments**
 
 1987—Subsec. (b). Pub. L. 100–119 inserted at end “Funds made available for obligation under this procedure may not be proposed for rescission again.”
 
-### § 684. Proposed deferrals of budget authority
+### § 684. Proposed deferrals of budget authority
 
 **(a) Transmittal of special message** Whenever the President, the Director of the Office of Management and Budget, the head of any department or agency of the United States, or any officer or employee of the United States proposes to defer any budget authority provided for a specific purpose or project, the President shall transmit to the House of Representatives and the Senate a special message specifying—
 
@@ -145,19 +145,19 @@ No officer or employee of the United States may defer any budget authority for a
 
 The provisions of this section do not apply to any budget authority proposed to be rescinded or that is to be reserved as set forth in a special message required to be transmitted under section 683 of this title.
 
-(Pub. L. 93–344, title X, § 1013, July 12, 1974, 88 Stat. 334; Pub. L. 100–119, title II, § 206(a), Sept. 29, 1987, 101 Stat. 785.)
+(Pub. L. 93–344, title X, § 1013, July 12, 1974, 88 Stat. 334; Pub. L. 100–119, title II, § 206(a), Sept. 29, 1987, 101 Stat. 785.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 1403 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1403 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Amendments**
 
 1987—Pub. L. 100–119 amended section generally, substituting substantially similar provisions in subsecs. (a) and (c) and substituting subsec. (b) for former subsec. (b) which read as follows: “Any amount of budget authority proposed to be deferred, as set forth in a special message transmitted under subsection (a) of this section, shall be made available for obligation if either House of Congress passes an impoundment resolution disapproving such proposed deferral.”
 
-### § 685. Transmission of messages; publication
+### § 685. Transmission of messages; publication
 
 **(a) Delivery to House and Senate**
 
@@ -189,13 +189,13 @@ Such report shall also contain, with respect to each such proposed rescission or
 
 **(2)** Each report submitted under paragraph (1) shall be printed in the first issue of the Federal Register published after its submission.
 
-(Pub. L. 93–344, title X, § 1014, July 12, 1974, 88 Stat. 335.)
+(Pub. L. 93–344, title X, § 1014, July 12, 1974, 88 Stat. 335.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 1404 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1404 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Executive Documents**
 
@@ -205,7 +205,7 @@ Ex. Ord. No. 11845, Mar. 24, 1975, 40 F.R. 13299, as amended by Ex. Ord. No. 126
 
 By virtue of the authority vested in me by the Impoundment Control Act of 1974 (Public Law 93–344; 88 Stat. 332, (2 U.S.C. 681 et seq.), hereinafter referred to as the Act) [subchapters I and II of this chapter], and section 301 of title 3 of the United States Code, the Director of the Office of Management and Budget is hereby designated and empowered to exercise, as of October 1, 1974 without ratification or other action of the President (1) the functions required by sections 1014(b) and 1014(d) of the Act [subsecs. (b) and (d) of this section] of transmitting to the Comptroller General of the United States and to the Office of the Federal Register copies of special messages transmitted pursuant to section 1012 or 1013 (2 U.S.C. 683 and 684) of the Act; and (2) the function conferred upon the President by section 1014(e) of the Act (2 U.S.C. 685(e)) of submitting to the Congress cumulative reports of proposed rescissions, reservations, and deferrals of budget authority.
 
-### § 686. Reports by Comptroller General
+### § 686. Reports by Comptroller General
 
 **(a) Failure to transmit special message** If the Comptroller General finds that the President, the Director of the Office of Management and Budget, the head of any department or agency of the United States, or any other officer or employee of the United States—
 
@@ -219,31 +219,31 @@ and that the President has failed to transmit a special message with respect to 
 
 If the President has transmitted a special message to both Houses of Congress in accordance with section 683 or 684 of this title, and the Comptroller General believes that the President so transmitted the special message in accordance with one of those sections when the special message should have been transmitted in accordance with the other of those sections, the Comptroller General shall make a report to both Houses of the Congress setting forth his reasons.
 
-(Pub. L. 93–344, title X, § 1015, July 12, 1974, 88 Stat. 336.)
+(Pub. L. 93–344, title X, § 1015, July 12, 1974, 88 Stat. 336.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 1405 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1405 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Reaffirmation**
 
-Pub. L. 100–119, title II, § 206(c), Sept. 29, 1987, 101 Stat. 786, provided that: “Sections 1015 and 1016 of the Impoundment Control Act of 1974 [2 U.S.C. 686, 687] are reaffirmed.”
+Pub. L. 100–119, title II, § 206(c), Sept. 29, 1987, 101 Stat. 786, provided that: “Sections 1015 and 1016 of the Impoundment Control Act of 1974 [2 U.S.C. 686, 687] are reaffirmed.”
 
-### § 687. Suits by Comptroller General
+### § 687. Suits by Comptroller General
 
 If, under this chapter, budget authority is required to be made available for obligation and such budget authority is not made available for obligation, the Comptroller General is hereby expressly empowered, through attorneys of his own selection, to bring a civil action in the United States District Court for the District of Columbia to require such budget authority to be made available for obligation, and such court is hereby expressly empowered to enter in such civil action, against any department, agency, officer, or employee of the United States, any decree, judgment, or order which may be necessary or appropriate to make such budget authority available for obligation. No civil action shall be brought by the Comptroller General under this section until the expiration of 25 calendar days of continuous session of the Congress following the date on which an explanatory statement by the Comptroller General of the circumstances giving rise to the action contemplated has been filed with the Speaker of the House of Representatives and the President of the Senate.
 
-(Pub. L. 93–344, title X, § 1016, July 12, 1974, 88 Stat. 336; Pub. L. 98–620, title IV, § 402(35), Nov. 8, 1984, 98 Stat. 3360; Pub. L. 100–119, title II, § 206(b), Sept. 29, 1987, 101 Stat. 786.)
+(Pub. L. 93–344, title X, § 1016, July 12, 1974, 88 Stat. 336; Pub. L. 98–620, title IV, § 402(35), Nov. 8, 1984, 98 Stat. 3360; Pub. L. 100–119, title II, § 206(b), Sept. 29, 1987, 101 Stat. 786.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 1406 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1406 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Amendments**
 
@@ -261,7 +261,7 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 For provision reaffirming this section, see section 206(c) of Pub. L. 100–119, set out as a note under section 686 of this title.
 
-### § 688. Procedure in House of Representatives and Senate
+### § 688. Procedure in House of Representatives and Senate
 
 **(a) Referral**
 
@@ -301,17 +301,17 @@ Any rescission bill introduced with respect to a special message or impoundment 
 
 **(7)** In any case in which there are amendments in disagreement, time on each amendment shall be limited to 30 minutes, to be equally divided between, and controlled by, the manager of the conference report and the minority leader or his designee. No amendment that is not germane to the provisions of such amendments shall be received.
 
-(Pub. L. 93–344, title X, § 1017, July 12, 1974, 88 Stat. 337.)
+(Pub. L. 93–344, title X, § 1017, July 12, 1974, 88 Stat. 337.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 1407 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1407 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 ## SUBCHAPTER III—LINE ITEM VETO
 
-### §§ 691 to 692. Omitted
+### §§ 691 to 692. Omitted
 
 **Editorial Notes**
 
@@ -319,21 +319,21 @@ Section was formerly classified to section 1407 of Title 31 prior to the general
 
 Sections were omitted pursuant to section 5 of Pub. L. 104–130, set out as an Effective and Termination Dates note below.
 
-Section 691, Pub. L. 93–344, title X, § 1021, as added Pub. L. 104–130, § 2(a), Apr. 9, 1996, 110 Stat. 1200, provided line item veto authority.
+Section 691, Pub. L. 93–344, title X, § 1021, as added Pub. L. 104–130, § 2(a), Apr. 9, 1996, 110 Stat. 1200, provided line item veto authority.
 
-Section 691a, Pub. L. 93–344, title X, § 1022, as added Pub. L. 104–130, § 2(a), Apr. 9, 1996, 110 Stat. 1201; amended Pub. L. 105–33, title X, § 10121(a), Aug. 5, 1997, 111 Stat. 696, required special messages to Congress of cancellations made.
+Section 691a, Pub. L. 93–344, title X, § 1022, as added Pub. L. 104–130, § 2(a), Apr. 9, 1996, 110 Stat. 1201; amended Pub. L. 105–33, title X, § 10121(a), Aug. 5, 1997, 111 Stat. 696, required special messages to Congress of cancellations made.
 
-Section 691b, Pub. L. 93–344, title X, § 1023, as added Pub. L. 104–130, § 2(a), Apr. 9, 1996, 110 Stat. 1202, provided that cancellations were to be effective unless disapproved.
+Section 691b, Pub. L. 93–344, title X, § 1023, as added Pub. L. 104–130, § 2(a), Apr. 9, 1996, 110 Stat. 1202, provided that cancellations were to be effective unless disapproved.
 
-Section 691c, Pub. L. 93–344, title X, § 1024, as added Pub. L. 104–130, § 2(a), Apr. 9, 1996, 110 Stat. 1202; amended Pub. L. 105–33, title X, § 10121(b), Aug. 5, 1997, 111 Stat. 696, related to deficit reduction.
+Section 691c, Pub. L. 93–344, title X, § 1024, as added Pub. L. 104–130, § 2(a), Apr. 9, 1996, 110 Stat. 1202; amended Pub. L. 105–33, title X, § 10121(b), Aug. 5, 1997, 111 Stat. 696, related to deficit reduction.
 
-Section 691d, Pub. L. 93–344, title X, § 1025, as added Pub. L. 104–130, § 2(a), Apr. 9, 1996, 110 Stat. 1203, related to expedited congressional consideration of disapproval bills.
+Section 691d, Pub. L. 93–344, title X, § 1025, as added Pub. L. 104–130, § 2(a), Apr. 9, 1996, 110 Stat. 1203, related to expedited congressional consideration of disapproval bills.
 
-Section 691e, Pub. L. 93–344, title X, § 1026, as added Pub. L. 104–130, § 2(a), Apr. 9, 1996, 110 Stat. 1207; amended Pub. L. 105–33, title X, § 10122, Aug. 5, 1997, 111 Stat. 697, defined terms used in this subchapter.
+Section 691e, Pub. L. 93–344, title X, § 1026, as added Pub. L. 104–130, § 2(a), Apr. 9, 1996, 110 Stat. 1207; amended Pub. L. 105–33, title X, § 10122, Aug. 5, 1997, 111 Stat. 697, defined terms used in this subchapter.
 
-Section 691f, Pub. L. 93–344, title X, § 1027, as added Pub. L. 104–130, § 2(a), Apr. 9, 1996, 110 Stat. 1210, related to identification of limited tax benefits.
+Section 691f, Pub. L. 93–344, title X, § 1027, as added Pub. L. 104–130, § 2(a), Apr. 9, 1996, 110 Stat. 1210, related to identification of limited tax benefits.
 
-Section 692, Pub. L. 104–130, § 3, Apr. 9, 1996, 110 Stat. 1211, provided for judicial review.
+Section 692, Pub. L. 104–130, § 3, Apr. 9, 1996, 110 Stat. 1211, provided for judicial review.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -343,7 +343,7 @@ For information regarding the constitutionality of part C of title X of Pub. L. 
 
 **Effective and Termination Dates**
 
-Pub. L. 104–130, § 5, Apr. 9, 1996, 110 Stat. 1212, provided that:
+Pub. L. 104–130, § 5, Apr. 9, 1996, 110 Stat. 1212, provided that:
 
 > “This Act [enacting this subchapter and provisions set out as a note under section 681 of this title and amending provisions set out as notes under section 621 of this title] and the amendments made by it shall take effect and apply to measures enacted on the earlier of—
 

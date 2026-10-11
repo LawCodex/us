@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 305—HATE CRIMES
 
-## § 30501. Findings
+## § 30501. Findings
 
 Congress makes the following findings:
 
@@ -49,7 +49,7 @@ Congress makes the following findings:
 
 **(10)** The problem of crimes motivated by bias is sufficiently serious, widespread, and interstate in nature as to warrant Federal assistance to States, local jurisdictions, and Indian tribes.
 
-(Pub. L. 111–84, div. E, § 4702, Oct. 28, 2009, 123 Stat. 2835.)
+(Pub. L. 111–84, div. E, § 4702, Oct. 28, 2009, 123 Stat. 2835.)
 
 **Editorial Notes**
 
@@ -61,7 +61,7 @@ Section was formerly classified as a note under section 249 of Title 18, Crimes 
 
 **Findings**
 
-Pub. L. 117–13, § 2, May 20, 2021, 135 Stat. 265, provided that:
+Pub. L. 117–13, § 2, May 20, 2021, 135 Stat. 265, provided that:
 
 > “Congress finds the following:
 
@@ -97,7 +97,7 @@ Pub. L. 117–13, § 2, May 20, 2021, 135 Stat. 265, provided that:
 
 **Review of Hate Crimes**
 
-Pub. L. 117–13, § 3, May 20, 2021, 135 Stat. 266, provided that:
+Pub. L. 117–13, § 3, May 20, 2021, 135 Stat. 266, provided that:
 
 > **“(a) In General.—** Not later than 7 days after the date of enactment of this Act [May 20, 2021], the Attorney General shall designate an officer or employee of the Department of Justice whose responsibility during the applicable period shall be to facilitate the expedited review of hate crimes (as described in section 249 of title 18, United States Code) and reports of any such crime to Federal, State, local, or Tribal law enforcement agencies.
 
@@ -105,7 +105,7 @@ Pub. L. 117–13, § 3, May 20, 2021, 135 Stat. 266, provided that:
 
 **Guidance**
 
-Pub. L. 117–13, § 4, May 20, 2021, 135 Stat. 266, provided that:
+Pub. L. 117–13, § 4, May 20, 2021, 135 Stat. 266, provided that:
 
 > **“(a) Guidance for Law Enforcement Agencies.—** The Attorney General shall issue guidance for State, local, and Tribal law enforcement agencies, pursuant to this Act [see Short Title of 2021 Amendment note set out under section 10101 of this title] and other applicable law, on how to—
 
@@ -157,7 +157,7 @@ Sec. 3. *General Provisions*. (a) Nothing in this memorandum shall be construed 
 
 J.R. Biden, Jr.
 
-## § 30502. Definitions
+## § 30502. Definitions
 
 In this division—
 
@@ -169,7 +169,7 @@ In this division—
 
 **(4)** the term “State” includes the District of Columbia, Puerto Rico, and any other territory or possession of the United States.
 
-(Pub. L. 111–84, div. E, § 4703(b), Oct. 28, 2009, 123 Stat. 2836.)
+(Pub. L. 111–84, div. E, § 4703(b), Oct. 28, 2009, 123 Stat. 2836.)
 
 **Editorial Notes**
 
@@ -185,7 +185,7 @@ Section is comprised of subsec. (b) of section 4703 of Pub. L. 111–84. Subsec.
 
 Section was formerly classified as a note under section 3716 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 30503. Support for criminal investigations and prosecutions by State, local, and tribal law enforcement officials
+## § 30503. Support for criminal investigations and prosecutions by State, local, and tribal law enforcement officials
 
 **(a) Assistance other than financial assistance**
 
@@ -247,7 +247,7 @@ Not later than December 31, 2011, the Attorney General shall submit to Congress 
 
 There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2010, 2011, and 2012.
 
-(Pub. L. 111–84, div. E, § 4704, Oct. 28, 2009, 123 Stat. 2837.)
+(Pub. L. 111–84, div. E, § 4704, Oct. 28, 2009, 123 Stat. 2837.)
 
 **Editorial Notes**
 
@@ -255,7 +255,7 @@ There is authorized to be appropriated to carry out this subsection $5,000,000 f
 
 Section was formerly classified to section 3716 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 30504. Grant program
+## § 30504. Grant program
 
 **(a) Authority to award grants**
 
@@ -265,7 +265,7 @@ The Office of Justice Programs of the Department of Justice may award grants, in
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(Pub. L. 111–84, div. E, § 4705, Oct. 28, 2009, 123 Stat. 2838.)
+(Pub. L. 111–84, div. E, § 4705, Oct. 28, 2009, 123 Stat. 2838.)
 
 **Editorial Notes**
 
@@ -273,11 +273,11 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 Section was formerly classified to section 3716a of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 30505. Severability
+## § 30505. Severability
 
 If any provision of this division, an amendment made by this division, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this division, the amendments made by this division, and the application of the provisions of such to any person or circumstance shall not be affected thereby.
 
-(Pub. L. 111–84, div. E, § 4709, Oct. 28, 2009, 123 Stat. 2841.)
+(Pub. L. 111–84, div. E, § 4709, Oct. 28, 2009, 123 Stat. 2841.)
 
 **Editorial Notes**
 
@@ -289,7 +289,7 @@ This division, referred to in text, is division E of Pub. L. 111–84, Oct. 28, 
 
 Section was formerly classified as a note under section 249 of Title 18, Crimes and Criminal Procedure, prior to editorial reclassification and renumbering as this section.
 
-## § 30506. Rule of construction
+## § 30506. Rule of construction
 
 For purposes of construing this division and the amendments made by this division the following shall apply:
 
@@ -319,7 +319,7 @@ Nothing in this division, or an amendment made by this division, shall be constr
 
 Nothing in this division shall be construed to prohibit any constitutionally protected speech, expressive conduct or activities (regardless of whether compelled by, or central to, a system of religious belief), including the exercise of religion protected by the first amendment to the Constitution of the United States and peaceful picketing or demonstration. The Constitution of the United States does not protect speech, conduct or activities consisting of planning for, conspiring to commit, or committing an act of violence.
 
-(Pub. L. 111–84, div. E, § 4710, Oct. 28, 2009, 123 Stat. 2841.)
+(Pub. L. 111–84, div. E, § 4710, Oct. 28, 2009, 123 Stat. 2841.)
 
 **Editorial Notes**
 
@@ -331,7 +331,7 @@ This division, referred to in text, is division E of Pub. L. 111–84, Oct. 28, 
 
 Section was formerly classified as a note under section 249 of Title 18, Crimes and Criminal Procedure, prior to editorial reclassification and renumbering as this section.
 
-## § 30507. Jabara-Heyer NO HATE Act
+## § 30507. Jabara-Heyer NO HATE Act
 
 **(a) Short title**
 
@@ -343,11 +343,11 @@ This section may be cited as the “Khalid Jabara and Heather Heyer National Opp
 
 **(2)** According to data obtained by the Federal Bureau of Investigation, the incidence of such violence increased in 2019, the most recent year for which data is available.
 
-**(3)** In 1990, Congress enacted the Hate Crime Statistics Act (Public Law 101–275; 28 U.S.C. 534 note) 1
+**(3)** In 1990, Congress enacted the Hate Crime Statistics Act (Public Law 101–275; 28 U.S.C. 534 note) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-to provide the Federal Government, law enforcement agencies, and the public with data regarding the incidence of hate crime. The Hate Crime Statistics Act and the Matthew Shepard and James Byrd, Jr. Hate Crimes Prevention Act (division E of Public Law 111–84; 123 Stat. 2835) 1 have enabled Federal authorities to understand and, where appropriate, investigate and prosecute hate crimes.
+to provide the Federal Government, law enforcement agencies, and the public with data regarding the incidence of hate crime. The Hate Crime Statistics Act and the Matthew Shepard and James Byrd, Jr. Hate Crimes Prevention Act (division E of Public Law 111–84; 123 Stat. 2835) 1 have enabled Federal authorities to understand and, where appropriate, investigate and prosecute hate crimes.
 
 **(4)** A more complete understanding of the national problem posed by hate crime is in the public interest and supports the Federal interest in eradicating bias-motivated violence referenced in section 249(b)(1)(C) of title 18.
 
@@ -549,7 +549,7 @@ Except as provided in subparagraph (B), beginning not later than 1 year after Ma
 
 **(1) Information collection and analysis; report** In order to improve the accuracy of data regarding the incidence of hate crime provided through the Uniform Crime Reports program, and promote a more complete understanding of the national problem posed by hate crime, the Attorney General shall—
 
-**(A)** collect and analyze the information provided by States and units of local government under subsection (f) for the purpose of developing policies related to the provision of accurate data obtained under the Hate Crime Statistics Act (Public Law 101–275; 28 U.S.C. 534 note) <sup>1</sup> by the Federal Bureau of Investigation; and
+**(A)** collect and analyze the information provided by States and units of local government under subsection (f) for the purpose of developing policies related to the provision of accurate data obtained under the Hate Crime Statistics Act (Public Law 101–275; 28 U.S.C. 534 note) <sup>1</sup> by the Federal Bureau of Investigation; and
 
 **(B)** for each calendar year beginning after May 20, 2021, publish and submit to Congress a report based on the information collected and analyzed under subparagraph (A).
 
@@ -583,7 +583,7 @@ Except as provided in subparagraph (B), beginning not later than 1 year after Ma
 
 **(h) Omitted**
 
-(Pub. L. 117–13, § 5, May 20, 2021, 135 Stat. 266.)
+(Pub. L. 117–13, § 5, May 20, 2021, 135 Stat. 266.)
 
 **Editorial Notes**
 

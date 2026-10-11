@@ -17,13 +17,13 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—WHALING TREATY ACT
 
-### §§ 901 to 915. Repealed. Aug. 9, 1950, ch. 653, § 16, 64 Stat. 425
+### §§ 901 to 915. Repealed. Aug. 9, 1950, ch. 653, § 16, 64 Stat. 425
 
-Sections, act May 1, 1936, ch. 251, §§ 1–15, 49 Stat. 1246–1249, related to hunting of whales. See sections 916 to 916*l* of this title.
+Sections, act May 1, 1936, ch. 251, §§ 1–15, 49 Stat. 1246–1249, related to hunting of whales. See sections 916 to 916*l* of this title.
 
 ## SUBCHAPTER II—WHALING CONVENTION ACT
 
-### § 916. Definitions
+### § 916. Definitions
 
 When used in this subchapter—
 
@@ -51,17 +51,17 @@ When used in this subchapter—
 
 **(l)** Regulations of the Secretary of Commerce: The words “regulations of the Secretary of Commerce” mean such regulations as may be issued by the Secretary of Commerce, from time to time, in accordance with sections 916i and 916j of this title.
 
-(Aug. 9, 1950, ch. 653, § 2, 64 Stat. 421; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(Aug. 9, 1950, ch. 653, § 2, 64 Stat. 421; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Act Aug. 9, 1950, ch. 653, § 1, 64 Stat. 421, provided: “That this Act [enacting this subchapter] may be cited as the ‘Whaling Convention Act of 1949’.”
+Act Aug. 9, 1950, ch. 653, § 1, 64 Stat. 421, provided: “That this Act [enacting this subchapter] may be cited as the ‘Whaling Convention Act of 1949’.”
 
 **Separability**
 
-Act Aug. 9, 1950, ch. 653, § 15, 64 Stat. 425, provided that: “If any provision of this Act [this subchapter] or the application of such provisions to any circumstances or persons shall be held invalid, the validity of the remainder of the Act and the applicability of such provision to other circumstances or persons shall not be affected thereby.”
+Act Aug. 9, 1950, ch. 653, § 15, 64 Stat. 425, provided that: “If any provision of this Act [this subchapter] or the application of such provisions to any circumstances or persons shall be held invalid, the validity of the remainder of the Act and the applicability of such provision to other circumstances or persons shall not be affected thereby.”
 
 **Wildlife Sanctuary for Humpback Whales in West Indies**
 
@@ -69,7 +69,7 @@ Pub. L. 99–630, Nov. 7, 1986, 100 Stat. 3514, provided: “That the President 
 
 **Moratorium on Commercial Killing of Whales**
 
-Pub. L. 96–60, title IV, § 405, Aug. 15, 1979, 93 Stat. 403, provided that:
+Pub. L. 96–60, title IV, § 405, Aug. 15, 1979, 93 Stat. 403, provided that:
 
 > **“(a)** The Congress finds and declares that—
 
@@ -105,7 +105,7 @@ Pub. L. 96–60, title IV, § 405, Aug. 15, 1979, 93 Stat. 403, provided that:
 
 In subsec. (*l*), “Secretary of Commerce” substituted for “Secretary of the Interior” in view of: creation of National Oceanic and Atmospheric Administration in Department of Commerce and Office of Administrator of such Administration; abolition of Bureau of Commercial Fisheries in Department of the Interior and Office of Director of such Bureau; transfers of functions, including functions formerly vested by law in Secretary of the Interior or Department of the Interior which were administered through Bureau of Commercial Fisheries or were primarily related to such Bureau, exclusive of certain enumerated functions with respect to Great Lakes fishery research, Missouri River Reservoir research, Gulf Breeze Biological Laboratory, and Trans-Alaska pipeline investigations; and transfer of marine sport fish program of Bureau of Sport Fisheries and Wildlife by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 916a. United States Commissioner
+### § 916a. United States Commissioner
 
 **(a) Appointment**
 
@@ -119,7 +119,7 @@ The President may appoint a Deputy United States Commissioner, on the concurrent
 
 The United States Commissioner and Deputy Commissioner, although officers of the United States Government, shall receive no compensation for their services.
 
-(Aug. 9, 1950, ch. 653, § 3, 64 Stat. 421; 1970 Reorg. Plan. No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(Aug. 9, 1950, ch. 653, § 3, 64 Stat. 421; 1970 Reorg. Plan. No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -133,11 +133,11 @@ Secretary of State authorized to designate Alternate United States Commissioners
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under section 916 of this title.
 
-### § 916b. Acceptance or rejection by United States Government of regulations, etc.; acceptance of reports, recommendations, etc., of Commission
+### § 916b. Acceptance or rejection by United States Government of regulations, etc.; acceptance of reports, recommendations, etc., of Commission
 
 The Secretary of State is authorized, with the concurrence of the Secretary of Commerce, to present or withdraw any objections on behalf of the United States Government to such regulations or amendments of the schedule to the convention as are adopted by the Commission and submitted to the United States Government in accordance with article V of the convention. The Secretary of State is further authorized to receive on behalf of the United States Government reports, requests, recommendations, and other communications of the Commission, and to act thereon either directly or by reference to the appropriate authority.
 
-(Aug. 9, 1950, ch. 653, § 4, 64 Stat. 422; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(Aug. 9, 1950, ch. 653, § 4, 64 Stat. 422; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 **Executive Documents**
 
@@ -145,7 +145,7 @@ The Secretary of State is authorized, with the concurrence of the Secretary of C
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under section 916 of this title.
 
-### § 916c. Unlawful acts
+### § 916c. Unlawful acts
 
 **(a) Whaling, transporting, or selling violations; records; reports**
 
@@ -155,13 +155,13 @@ It shall be unlawful for any person subject to the jurisdiction of the United St
 
 It shall be unlawful for any person or vessel subject to the jurisdiction of the United States to do any act prohibited or to fail to do any act required by the convention, or by this subchapter, or by any regulation adopted by the Commission, or by any regulation of the Secretary of Commerce.
 
-(Aug. 9, 1950, ch. 653, § 5, 64 Stat. 422; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(Aug. 9, 1950, ch. 653, § 5, 64 Stat. 422; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Emergency Assistance for Subsistence Whale Hunters**
 
-Pub. L. 107–372, title IV, § 403, Dec. 19, 2002, 116 Stat. 3102, provided that: “Notwithstanding any provision of law, the use of a vessel to tow a whale taken in a traditional subsistence whale hunt permitted by Federal law and conducted in waters off the coast of Alaska is authorized, if such towing is performed upon a request for emergency assistance made by a subsistence whale hunting organization formally recognized by an agency of the United States Government, or made by a member of such an organization, to prevent the loss of a whale.”
+Pub. L. 107–372, title IV, § 403, Dec. 19, 2002, 116 Stat. 3102, provided that: “Notwithstanding any provision of law, the use of a vessel to tow a whale taken in a traditional subsistence whale hunt permitted by Federal law and conducted in waters off the coast of Alaska is authorized, if such towing is performed upon a request for emergency assistance made by a subsistence whale hunting organization formally recognized by an agency of the United States Government, or made by a member of such an organization, to prevent the loss of a whale.”
 
 **Executive Documents**
 
@@ -169,7 +169,7 @@ Pub. L. 107–372, title IV, § 403, Dec. 19, 2002, 116 Stat. 3102, provided t
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under section 916 of this title.
 
-### § 916d. Licenses
+### § 916d. Licenses
 
 **(a) Issuance**
 
@@ -199,13 +199,13 @@ Any person, in making application for a license to operate a whale catcher, must
 
 Any person, in making application for a license to operate a land station or a factory ship must furnish evidence or affidavits to the satisfaction of the Secretary of Commerce that, in addition to conforming to other applicable laws and regulations, such land station or factory ship is adequately equipped to comply with provisions of the convention, of the regulations of the Commission, and of the regulations of the Secretary of Commerce with respect to the processing of whales or the manufacture of whale products.
 
-(Aug. 9, 1950, ch. 653, § 6, 64 Stat. 422; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(Aug. 9, 1950, ch. 653, § 6, 64 Stat. 422; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Refund of License Fees Paid Under Subchapter I of This Chapter**
 
-Act Aug. 9, 1950, ch. 653, § 16, 64 Stat. 425, provided in part that the Secretary of the Interior is authorized to refund any part of a license fee paid under former section 908 of this title that is in excess of the license fee required under this section.
+Act Aug. 9, 1950, ch. 653, § 16, 64 Stat. 425, provided in part that the Secretary of the Interior is authorized to refund any part of a license fee paid under former section 908 of this title that is in excess of the license fee required under this section.
 
 **Executive Documents**
 
@@ -213,11 +213,11 @@ Act Aug. 9, 1950, ch. 653, § 16, 64 Stat. 425, provided in part that the Secr
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under section 916 of this title.
 
-### § 916e. Failure to keep returns, records, reports
+### § 916e. Failure to keep returns, records, reports
 
 Any person who fails to make, keep, or furnish any catch return, statistical record, or any report that may be required by the convention, or by any regulation of the Commission, or by this subchapter, or by a regulation of the Secretary of Commerce, or any person who furnishes a false return, record, or report, upon conviction, shall be subject to such fine as may be imposed by the court not to exceed $500, and shall in addition be prohibited from whaling, processing, or possessing whales and whale products from the date of conviction until such time as any delinquent return, record, or report shall have been submitted or any false return, record, or report shall have been replaced by a duly certified correct and true return, record, or report to the satisfaction of the court. The penalties imposed by section 916f of this title shall not be invoked for failure to comply with requirements respecting returns, records, and reports.
 
-(Aug. 9, 1950, ch. 653, § 7, 64 Stat. 423; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(Aug. 9, 1950, ch. 653, § 7, 64 Stat. 423; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 **Executive Documents**
 
@@ -225,11 +225,11 @@ Any person who fails to make, keep, or furnish any catch return, statistical rec
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under section 916 of this title.
 
-### § 916f. Violations; fines and penalties
+### § 916f. Violations; fines and penalties
 
 Except as to violations defined in clause 3 of subsection (a) of section 916c of this title, any person violating any provision of the convention, or of any regulation of the Commission, or of this subchapter, or of any regulation of the Secretary of Commerce upon conviction, shall be fined not more than $10,000 or be imprisoned not more than one year, or both. In addition the court may prohibit such person from whaling for such period of time as it may determine, and may order forfeited, in whole or in part, the whales taken by such person in whaling during the season, or the whale products derived therefrom or the monetary value thereof. Such forfeited whales or whale products shall be disposed of in accordance with the direction of the court.
 
-(Aug. 9, 1950, ch. 653, § 8, 64 Stat. 423; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(Aug. 9, 1950, ch. 653, § 8, 64 Stat. 423; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 **Executive Documents**
 
@@ -237,7 +237,7 @@ Except as to violations defined in clause 3 of subsection (a) of section 916c of
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under section 916 of this title.
 
-### § 916g. Enforcement
+### § 916g. Enforcement
 
 **(a) Enforcement officers; arrests; search and seizure of vessels; disposal of property**
 
@@ -249,13 +249,13 @@ Any property so seized shall not be disposed of except pursuant to the order of 
 
 Notwithstanding the provisions of section 2464 of title 28, when a warrant of arrest or other process in rem is issued in any cause under this section, the marshal or other officer shall stay the execution of such process, or discharge any property seized if the process has been levied, on receiving from the claimant of the property a bond or stipulation for double the value of the property with sufficient surety to be approved by a judge of the district court having jurisdiction, conditioned to deliver the property seized, if condemned, without impairment in value or, in the discretion of the court, to pay its equivalent value in money or otherwise to answer the decree of the court in such cause. Such bond or stipulation shall be returned to the court and judgment thereon against both the principal and sureties may be recovered in event of any breach of the conditions thereof as determined by the court.
 
-(Aug. 9, 1950, ch. 653, § 9, 64 Stat. 423; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(Aug. 9, 1950, ch. 653, § 9, 64 Stat. 423; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-“United States magistrate judges” substituted for “United States magistrates” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “United States magistrates” substituted for “United States commissioners” in subsec. (a) pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
+“United States magistrate judges” substituted for “United States magistrates” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “United States magistrates” substituted for “United States commissioners” in subsec. (a) pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
 
 **Transfer of Functions**
 
@@ -269,7 +269,7 @@ United States Fish and Wildlife Service, consisting of Bureau of Commercial Fish
 
 In subsec. (a), “Department of Commerce” substituted for “United States Fish and Wildlife Service of the Department of the Interior” and “Secretary of Commerce” for “Secretary of the Interior”, see note set out under section 916 of this title.
 
-### § 916h. Cooperation between Federal and State and private agencies and organizations in scientific and other programs
+### § 916h. Cooperation between Federal and State and private agencies and organizations in scientific and other programs
 
 **(a) Agency cooperation**
 
@@ -279,13 +279,13 @@ In order to avoid duplication in scientific and other programs, the Secretary of
 
 All agencies of the Federal Government are authorized, on request of the Commission, to cooperate in the conduct of scientific and other programs, or to furnish facilities and personnel for the purpose of assisting the Commission in the performance of its duties as prescribed by the convention.
 
-(Aug. 9, 1950, ch. 653, § 10, 64 Stat. 424.)
+(Aug. 9, 1950, ch. 653, § 10, 64 Stat. 424.)
 
-### § 916i. Taking of whales for biological experiments
+### § 916i. Taking of whales for biological experiments
 
 Nothing contained in this subchapter shall prevent the taking of whales and the conducting of biological experiments at any time for purposes of scientific investigation in accordance with scientific permits and regulations issued by the Secretary of Commerce or shall prevent the Commission from discharging its duties as prescribed by the convention.
 
-(Aug. 9, 1950, ch. 653, § 11, 64 Stat. 424; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(Aug. 9, 1950, ch. 653, § 11, 64 Stat. 424; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 **Executive Documents**
 
@@ -293,7 +293,7 @@ Nothing contained in this subchapter shall prevent the taking of whales and the 
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under section 916 of this title.
 
-### § 916j. Allocation of responsibility for administration and enforcement
+### § 916j. Allocation of responsibility for administration and enforcement
 
 **(a) Administration and general enforcement**
 
@@ -307,7 +307,7 @@ Enforcement activities under the provisions of this subchapter relating to vesse
 
 The Secretary of Commerce may authorize officers and employees of the coastal States of the United States to enforce the provisions of the convention, or of the regulations of the Commission, or of this subchapter, or of the regulations of the Secretary of Commerce. When so authorized such officers and employees may function as Federal law-enforcement officers for the purposes of this subchapter.
 
-(Aug. 9, 1950, ch. 653, § 12, 64 Stat. 425; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(Aug. 9, 1950, ch. 653, § 12, 64 Stat. 425; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 **Executive Documents**
 
@@ -315,11 +315,11 @@ The Secretary of Commerce may authorize officers and employees of the coastal St
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under section 916 of this title.
 
-### § 916k. Regulations; submission; publication; effectiveness
+### § 916k. Regulations; submission; publication; effectiveness
 
 Regulations of the Commission approved and effective in accordance with section 916b of this title and article V of the convention shall be submitted for appropriate action or publication in the Federal Register by the Secretary of Commerce and shall become effective with respect to all persons and vessels subject to the jurisdiction of the United States in accordance with the terms of such regulations and the provisions of article V of the convention.
 
-(Aug. 9, 1950, ch. 653, § 13, 64 Stat. 425; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(Aug. 9, 1950, ch. 653, § 13, 64 Stat. 425; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 **Executive Documents**
 
@@ -327,20 +327,20 @@ Regulations of the Commission approved and effective in accordance with section 
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under section 916 of this title.
 
-### § 916l. Authorization of appropriations
+### § 916l. Authorization of appropriations
 
 There is hereby authorized to be appropriated from time to time, out of any moneys in the Treasury not otherwise appropriated, such sums as may be necessary to carry out the provisions of the convention and of this subchapter, including (1) contributions to the Commission for the United States share of any joint expenses of the Commission agreed by the United States and any of the other contracting governments, and (2) the expenses of the United States Commissioner and his staff, including (a) personal services in the District of Columbia and elsewhere, without regard to the civil-service laws and chapter 51 and subchapter III of chapter 53 of title 5; (b) travel expenses without regard to subchapter I of chapter 57 of title 5 and section 5731(a) of title 5; (c) transportation of things, communication services; (d) rent of offices; (e) printing and binding without regard to section 501 of title 44, and section 6101 of title 41; (f) stenographic and other services by contract, if deemed necessary, without regard to section 6101 of title 41; (g) supplies and materials; (h) equipment; (i) purchase, hire, operation, maintenance, and repair of aircraft, motor vehicles (including passenger-carrying vehicles), boats, and research vessels.
 
-(Aug. 9, 1950, ch. 653, § 14, 64 Stat. 425.)
+(Aug. 9, 1950, ch. 653, § 14, 64 Stat. 425.)
 
 **Editorial Notes**
 
 **Codification**
 
-In par. 2(a), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1923, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631 (the first section of which enacted Title 5, Government Organization and Employees), and of section 1106(a) of act Oct. 28, 1949, ch. 782, title XI, 63 Stat. 972, which provided that references in other laws to the Classification Act of 1923 shall be considered to mean the Classification Act of 1949.
+In par. 2(a), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1923, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631 (the first section of which enacted Title 5, Government Organization and Employees), and of section 1106(a) of act Oct. 28, 1949, ch. 782, title XI, 63 Stat. 972, which provided that references in other laws to the Classification Act of 1923 shall be considered to mean the Classification Act of 1949.
 
-In par. 2(b), “subchapter I of chapter 57 of title 5 and section 5731(a) of title 5” substituted for “the Travel Expense Act of 1949 and section 10 of the Act of March 3, 1933 (U.S.C., title 5, sec. 73b)” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
+In par. 2(b), “subchapter I of chapter 57 of title 5 and section 5731(a) of title 5” substituted for “the Travel Expense Act of 1949 and section 10 of the Act of March 3, 1933 (U.S.C., title 5, sec. 73b)” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
 
-In par. 2(e), “section 501 of title 44 and section 6101 of title 41” substituted for “section 11 of the Act of March 1, 1919 (U.S.C., title 44, sec. 111), and section 3709 of the Revised Statutes (U.S.C., title 41, sec. 5)” on authority of Pub. L. 90–620, § 2(b), Oct. 22, 1968, 82 Stat. 1305, which Act enacted Title 44, Public Printing and Documents, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In par. 2(e), “section 501 of title 44 and section 6101 of title 41” substituted for “section 11 of the Act of March 1, 1919 (U.S.C., title 44, sec. 111), and section 3709 of the Revised Statutes (U.S.C., title 41, sec. 5)” on authority of Pub. L. 90–620, § 2(b), Oct. 22, 1968, 82 Stat. 1305, which Act enacted Title 44, Public Printing and Documents, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In par. 2(f), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (U.S.C., title 41, sec. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In par. 2(f), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (U.S.C., title 41, sec. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.

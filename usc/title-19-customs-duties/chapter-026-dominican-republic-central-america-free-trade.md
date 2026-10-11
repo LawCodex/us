@@ -19,7 +19,7 @@ retrieved: 2026-10-11
 
 For termination of chapter by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates note set out under section 4001 of this title.
 
-## § 4001. Purposes
+## § 4001. Purposes
 
 The purposes of this chapter are—
 
@@ -31,7 +31,7 @@ The purposes of this chapter are—
 
 **(4)** to lay the foundation for further cooperation to expand and enhance the benefits of the Agreement.
 
-(Pub. L. 109–53, § 2, Aug. 2, 2005, 119 Stat. 463.)
+(Pub. L. 109–53, § 2, Aug. 2, 2005, 119 Stat. 463.)
 
 **Termination of Section**
 
@@ -47,7 +47,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Effective and Termination Dates**
 
-Pub. L. 109–53, title I, § 107, Aug. 2, 2005, 119 Stat. 466, provided that:
+Pub. L. 109–53, title I, § 107, Aug. 2, 2005, 119 Stat. 466, provided that:
 
 > **“(a) Effective Dates.—** Except as provided in subsection (b), the provisions of this Act [see Short Title note set out below] and the amendments made by this Act take effect on the date the Agreement [Dominican Republic-Central America-United States Free Trade Agreement] enters into force [Mar. 1, 2006].
 
@@ -61,9 +61,9 @@ Pub. L. 109–53, title I, § 107, Aug. 2, 2005, 119 Stat. 466, provided that:
 
 **Short Title**
 
-Pub. L. 109–53, § 1(a), Aug. 2, 2005, 119 Stat. 462, provided that: “This Act [enacting this chapter, amending sections 58c, 1508, 1514, 1520, 1592, 2252, 2518, 2702, and 2703 of this title, and enacting provisions set out as notes under this section and section 2702 of this title] may be cited as the ‘Dominican Republic-Central America-United States Free Trade Agreement Implementation Act’.”
+Pub. L. 109–53, § 1(a), Aug. 2, 2005, 119 Stat. 462, provided that: “This Act [enacting this chapter, amending sections 58c, 1508, 1514, 1520, 1592, 2252, 2518, 2702, and 2703 of this title, and enacting provisions set out as notes under this section and section 2702 of this title] may be cited as the ‘Dominican Republic-Central America-United States Free Trade Agreement Implementation Act’.”
 
-## § 4002. Definitions
+## § 4002. Definitions
 
 In this chapter:
 
@@ -97,7 +97,7 @@ The term “HTS” means the Harmonized Tariff Schedule of the United States.
 
 The term “textile or apparel good” means a good listed in the Annex to the Agreement on Textiles and Clothing referred to in section 3511(d)(4) of this title, other than a good listed in Annex 3.29 of the Agreement.
 
-(Pub. L. 109–53, § 3, Aug. 2, 2005, 119 Stat. 463.)
+(Pub. L. 109–53, § 3, Aug. 2, 2005, 119 Stat. 463.)
 
 **Termination of Section**
 
@@ -119,7 +119,7 @@ Section effective Aug. 2, 2005, and to cease to have effect on date Dominican Re
 
 ## SUBCHAPTER I—APPROVAL OF, AND GENERAL PROVISIONS RELATING TO, THE AGREEMENT
 
-### § 4011. Approval and entry into force of the Agreement
+### § 4011. Approval and entry into force of the Agreement
 
 **(a) Approval of Agreement and statement of administrative action** Pursuant to section 3805 of this title and section 2191 of this title, the Congress approves—
 
@@ -131,7 +131,7 @@ Section effective Aug. 2, 2005, and to cease to have effect on date Dominican Re
 
 At such time as the President determines that countries listed in subsection (a)(1) have taken measures necessary to comply with the provisions of the Agreement that are to take effect on the date on which the Agreement enters into force, the President is authorized to provide for the Agreement to enter into force with respect to those countries that provide for the Agreement to enter into force for them.
 
-(Pub. L. 109–53, title I, § 101, Aug. 2, 2005, 119 Stat. 464.)
+(Pub. L. 109–53, title I, § 101, Aug. 2, 2005, 119 Stat. 464.)
 
 **Termination of Section**
 
@@ -143,7 +143,7 @@ For termination of section by section 107(d) of Pub. L. 109–53, see Effective 
 
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
 
-### § 4012. Relationship of the Agreement to United States and State law
+### § 4012. Relationship of the Agreement to United States and State law
 
 **(a) Relationship of Agreement to United States law**
 
@@ -177,7 +177,7 @@ No State law, or the application thereof, may be declared invalid as to any pers
 
 **(2)** may challenge, in any action brought under any provision of law, any action or inaction by any department, agency, or other instrumentality of the United States, any State, or any political subdivision of a State, on the ground that such action or inaction is inconsistent with the Agreement.
 
-(Pub. L. 109–53, title I, § 102, Aug. 2, 2005, 119 Stat. 464.)
+(Pub. L. 109–53, title I, § 102, Aug. 2, 2005, 119 Stat. 464.)
 
 **Termination of Section**
 
@@ -195,7 +195,7 @@ This chapter, referred to in subsec. (a)(2), was in the original “this Act”,
 
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
 
-### § 4013. Implementing actions in anticipation of entry into force and initial regulations
+### § 4013. Implementing actions in anticipation of entry into force and initial regulations
 
 **(a) Implementing actions**
 
@@ -219,7 +219,7 @@ The 15-day restriction contained in paragraph (2) on the taking effect of procla
 
 Initial regulations necessary or appropriate to carry out the actions required by or authorized under this chapter or proposed in the statement of administrative action submitted under section 4011(a)(2) of this title to implement the Agreement shall, to the maximum extent feasible, be issued within 1 year after the date on which the Agreement enters into force. In the case of any implementing action that takes effect on a date after the date on which the Agreement enters into force, initial regulations to carry out that action shall, to the maximum extent feasible, be issued within 1 year after such effective date.
 
-(Pub. L. 109–53, title I, § 103, Aug. 2, 2005, 119 Stat. 465.)
+(Pub. L. 109–53, title I, § 103, Aug. 2, 2005, 119 Stat. 465.)
 
 **Termination of Section**
 
@@ -237,7 +237,7 @@ This chapter, referred to in subsecs. (a)(1), (2) and (b), was in the original �
 
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
 
-### § 4014. Consultation and layover provisions for, and effective date of, proclaimed actions
+### § 4014. Consultation and layover provisions for, and effective date of, proclaimed actions
 
 If a provision of this chapter provides that the implementation of an action by the President by proclamation is subject to the consultation and layover requirements of this section, such action may be proclaimed only if—
 
@@ -257,7 +257,7 @@ If a provision of this chapter provides that the implementation of an action by 
 
 **(4)** the President has consulted with such Committees regarding the proposed action during the period referred to in paragraph (3).
 
-(Pub. L. 109–53, title I, § 104, Aug. 2, 2005, 119 Stat. 465.)
+(Pub. L. 109–53, title I, § 104, Aug. 2, 2005, 119 Stat. 465.)
 
 **Termination of Section**
 
@@ -281,7 +281,7 @@ Section effective on the date the Dominican Republic-Central America-United Stat
 
 Proc. No. 7987, Feb. 28, 2006, 71 F.R. 10829, provided in par. (8) that the United States Trade Representative is authorized to exercise the President’s authority under this section to obtain advice from the appropriate advisory committees and the United States International Trade Commission on the proposed implementation of an action by presidential proclamation; to submit a report on such proposed action to the appropriate congressional committees; and to consult with those congressional committees regarding the proposed action.
 
-### § 4015. Administration of dispute settlement proceedings
+### § 4015. Administration of dispute settlement proceedings
 
 **(a) Establishment or designation of office**
 
@@ -291,7 +291,7 @@ The President is authorized to establish or designate within the Department of C
 
 There are authorized to be appropriated for each fiscal year after fiscal year 2005 to the Department of Commerce such sums as may be necessary for the establishment and operations of the office established or designated under subsection (a) and for the payment of the United States share of the expenses of panels established under chapter 20 of the Agreement.
 
-(Pub. L. 109–53, title I, § 105, Aug. 2, 2005, 119 Stat. 466.)
+(Pub. L. 109–53, title I, § 105, Aug. 2, 2005, 119 Stat. 466.)
 
 **Termination of Section**
 
@@ -309,11 +309,11 @@ Section effective on the date the Dominican Republic-Central America-United Stat
 
 Proc. No. 7987, Feb. 28, 2006, 71 F.R. 10828, provided in par. (3) that the Secretary of Commerce is authorized to exercise the President’s authority under subsec. (a) of this section to establish or designate an office within the Department of Commerce to carry out the functions set forth in this section.
 
-### § 4016. Arbitration of claims
+### § 4016. Arbitration of claims
 
 The United States is authorized to resolve any claim against the United States covered by article 10.16.1(a)(i)(C) or article 10.16.1(b)(i)(C) of the Agreement, pursuant to the Investor-State Dispute Settlement procedures set forth in section B of chapter 10 of the Agreement.
 
-(Pub. L. 109–53, title I, § 106, Aug. 2, 2005, 119 Stat. 466.)
+(Pub. L. 109–53, title I, § 106, Aug. 2, 2005, 119 Stat. 466.)
 
 **Termination of Section**
 
@@ -327,7 +327,7 @@ Section effective on the date the Dominican Republic-Central America-United Stat
 
 ## SUBCHAPTER II—CUSTOMS PROVISIONS
 
-### § 4031. Tariff modifications
+### § 4031. Tariff modifications
 
 **(a) Tariff modifications provided for in the Agreement**
 
@@ -375,7 +375,7 @@ as the President determines to be necessary or appropriate to maintain the gener
 
 For purposes of subsections (a) and (b), with respect to any good for which the base rate in the Schedule of the United States to Annex 3.3 of the Agreement is a specific or compound rate of duty, the President may substitute for the base rate an ad valorem rate that the President determines to be equivalent to the base rate.
 
-(Pub. L. 109–53, title II, § 201, Aug. 2, 2005, 119 Stat. 467.)
+(Pub. L. 109–53, title II, § 201, Aug. 2, 2005, 119 Stat. 467.)
 
 **Termination of Section**
 
@@ -385,9 +385,9 @@ For termination of section by section 107(d) of Pub. L. 109–53, see Effective 
 
 **References in Text**
 
-The Trade Act of 1974, referred to in subsec. (a)(2), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Title V of the Act is classified generally to subchapter V (§ 2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in subsec. (a)(2), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Title V of the Act is classified generally to subchapter V (§ 2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
-The Caribbean Basin Economic Recovery Act, referred to in subsec. (a)(3)(A), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to chapter 15 (§ 2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+The Caribbean Basin Economic Recovery Act, referred to in subsec. (a)(3)(A), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to chapter 15 (§ 2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -395,7 +395,7 @@ The Caribbean Basin Economic Recovery Act, referred to in subsec. (a)(3)(A), is 
 
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
 
-### § 4032. Additional duties on certain agricultural goods
+### § 4032. Additional duties on certain agricultural goods
 
 **(a) General provisions**
 
@@ -459,7 +459,7 @@ In addition to any duty proclaimed under subsection (a) or (b) of section 4031 o
 
 **(iii)** in years 18 and 19, an amount equal to 50 percent of the excess of the applicable NTR (MFN) rate of duty over the schedule rate of duty.
 
-(Pub. L. 109–53, title II, § 202, Aug. 2, 2005, 119 Stat. 468.)
+(Pub. L. 109–53, title II, § 202, Aug. 2, 2005, 119 Stat. 468.)
 
 **Termination of Section**
 
@@ -469,9 +469,9 @@ For termination of section by section 107(d) of Pub. L. 109–53, see Effective 
 
 **References in Text**
 
-Part A of subchapter III of this chapter, referred to in subsec. (a)(5)(A), was in the original “subtitle A of title III of this Act”, meaning subtitle A (§§ 311–316) of title III of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 488, which enacted part A of subchapter III (§ 4061 et seq.) of this chapter and amended section 2252 of this title. For complete classification of subtitle A to the Code, see Tables.
+Part A of subchapter III of this chapter, referred to in subsec. (a)(5)(A), was in the original “subtitle A of title III of this Act”, meaning subtitle A (§§ 311–316) of title III of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 488, which enacted part A of subchapter III (§ 4061 et seq.) of this chapter and amended section 2252 of this title. For complete classification of subtitle A to the Code, see Tables.
 
-The Trade Act of 1974, referred to in subsec. (a)(5)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in subsec. (a)(5)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -479,7 +479,7 @@ The Trade Act of 1974, referred to in subsec. (a)(5)(B), is Pub. L. 93–618, Ja
 
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
 
-### § 4033. Rules of origin
+### § 4033. Rules of origin
 
 **(a) Application and interpretation** In this section:
 
@@ -1057,7 +1057,7 @@ Notwithstanding paragraph 3(A), the list of fabrics, yarns, and fibers set out i
 
 **(ii)** providing an opportunity for interested entities to submit comments and supporting evidence before the President makes a determination under subparagraph (C)(ii) or (vi) or (E)(iii).
 
-(Pub. L. 109–53, title II, § 203, Aug. 2, 2005, 119 Stat. 469; Pub. L. 109–135, title IV, § 421, Dec. 21, 2005, 119 Stat. 2642.)
+(Pub. L. 109–53, title II, § 203, Aug. 2, 2005, 119 Stat. 469; Pub. L. 109–135, title IV, § 421, Dec. 21, 2005, 119 Stat. 2642.)
 
 **Termination of Section**
 
@@ -1073,7 +1073,7 @@ This subchapter, referred to in subsec. (*o*)(1)(B), was in the original “this
 
 **Amendments**
 
-2005—Subsec. (c)(2)(A). Pub. L. 109–135, § 421(1), substituted
+2005—Subsec. (c)(2)(A). Pub. L. 109–135, § 421(1), substituted
 
 <table>
 <tr><th rowspan="2"></th><th rowspan="2">“rvc</th><th rowspan="2">=</th><th>av–vnm</th><th rowspan="2">×</th><th rowspan="2">100”</th><th rowspan="2"></th></tr>
@@ -1089,7 +1089,7 @@ for
 <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
-Subsec. (c)(3)(A). Pub. L. 109–135, § 421(2), substituted
+Subsec. (c)(3)(A). Pub. L. 109–135, § 421(2), substituted
 
 <table>
 <tr><th rowspan="2"></th><th rowspan="2">“rvc</th><th rowspan="2">=</th><th>vom</th><th rowspan="2">×</th><th rowspan="2">100”</th><th rowspan="2"></th></tr>
@@ -1105,7 +1105,7 @@ for
 <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
-Subsec. (c)(4)(A). Pub. L. 109–135, § 421(3), substituted
+Subsec. (c)(4)(A). Pub. L. 109–135, § 421(3), substituted
 
 <table>
 <tr><th rowspan="2"></th><th rowspan="2">“rvc</th><th rowspan="2">=</th><th>nc–vnm</th><th rowspan="2">×</th><th rowspan="2">100”</th><th rowspan="2"></th></tr>
@@ -1135,7 +1135,7 @@ Proc. No. 8213, Dec. 20, 2007, 72 F.R. 73556, provided in par. (4) that the Comm
 
 Proc. No. 7987, Feb. 28, 2006, 71 F.R. 10828, provided in par. (4) that the Committee for the Implementation of Textile Agreements is authorized to exercise the President’s authority under subsec. (*o*) of this section to determine that a fabric, yarn, or fiber is not available in commercial quantities in a timely manner in the United States and those Dominican Republic-Central America-United States Free Trade Agreement countries for which the Agreement has entered into force, and to add any such fabric, yarn, or fiber to the list in Annex 3.25 of the Agreement in a restricted or unrestricted quantity; to eliminate a restriction on the quantity of a fabric, yarn, or fiber within 6 months after adding the fabric, yarn, or fiber to the list in Annex 3.25 of the Agreement in a restricted quantity; to restrict the quantity of, or remove from the list in Annex 3.25 of the Agreement, certain fabrics, yarns, or fibers; and to establish procedures governing the submission of a request for any such determination and to ensure appropriate public participation in any such determination.
 
-### § 4034. Retroactive application for certain liquidations and reliquidations of textile or apparel goods
+### § 4034. Retroactive application for certain liquidations and reliquidations of textile or apparel goods
 
 **(a) In general** Notwithstanding section 1514 of this title or any other provision of law, and subject to subsection (c), an entry—
 
@@ -1169,7 +1169,7 @@ The United States Trade Representative shall determine, in accordance with artic
 
 As used in this section, the term “entry” includes a withdrawal from warehouse for consumption.
 
-(Pub. L. 109–53, title II, § 205, Aug. 2, 2005, 119 Stat. 483; Pub. L. 109–280, title XIV, § 1634(d), Aug. 17, 2006, 120 Stat. 1168.)
+(Pub. L. 109–53, title II, § 205, Aug. 2, 2005, 119 Stat. 483; Pub. L. 109–280, title XIV, § 1634(d), Aug. 17, 2006, 120 Stat. 1168.)
 
 **Termination of Section**
 
@@ -1191,7 +1191,7 @@ Amendment by Pub. L. 109–280 applicable with respect to goods entered, or with
 
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
 
-### § 4035. Enforcement relating to trade in textile or apparel goods
+### § 4035. Enforcement relating to trade in textile or apparel goods
 
 **(a) Action during verification**
 
@@ -1249,7 +1249,7 @@ On completion of a verification under subsection (a), the President may direct t
 
 **(2)** has failed to demonstrate that it produces, or is capable of producing, textile or apparel goods.
 
-(Pub. L. 109–53, title II, § 209, Aug. 2, 2005, 119 Stat. 486.)
+(Pub. L. 109–53, title II, § 209, Aug. 2, 2005, 119 Stat. 486.)
 
 **Termination of Section**
 
@@ -1267,21 +1267,21 @@ Section effective on the date the Dominican Republic-Central America-United Stat
 
 Proc. No. 7987, Feb. 28, 2006, 71 F.R. 10829, provided in par. (5) that the Committee for the Implementation of Textile Agreements is authorized to exercise the President’s authority under this section to suspend or deny preferential tariff treatment to textile or apparel goods; to detain textile or apparel goods; and to deny entry to textile or apparel goods.
 
-### § 4036. Regulations
+### § 4036. Regulations
 
 The Secretary of the Treasury shall prescribe such regulations as may be necessary to carry out—
 
 **(1)** subsections (a) through (n) of section 4033 of this title;
 
-**(2)** the amendment made by section 204; 1
+**(2)** the amendment made by section 204; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and
 
 **(3)** any proclamation issued under section 4033(*o*) of this title.
 
-(Pub. L. 109–53, title II, § 210, Aug. 2, 2005, 119 Stat. 488.)
+(Pub. L. 109–53, title II, § 210, Aug. 2, 2005, 119 Stat. 488.)
 
 **Termination of Section**
 
@@ -1301,7 +1301,7 @@ Section effective on the date the Dominican Republic-Central America-United Stat
 
 ## SUBCHAPTER III—RELIEF FROM IMPORTS
 
-### § 4051. Definitions
+### § 4051. Definitions
 
 In this subchapter:
 
@@ -1323,7 +1323,7 @@ The term “CAFTA–DR textile or apparel article” means a textile or apparel 
 
 The term “relevant CAFTA–DR article” means the CAFTA–DR article with respect to which a petition has been filed under section 4061(a) of this title.
 
-(Pub. L. 109–53, title III, § 301, Aug. 2, 2005, 119 Stat. 488.)
+(Pub. L. 109–53, title III, § 301, Aug. 2, 2005, 119 Stat. 488.)
 
 **Termination of Section**
 
@@ -1343,7 +1343,7 @@ Section effective on the date the Dominican Republic-Central America-United Stat
 
 ### Part A—Relief From Imports Benefiting From the Agreement
 
-#### § 4061. Commencing of action for relief
+#### § 4061. Commencing of action for relief
 
 **(a) Filing of petition**
 
@@ -1365,7 +1365,7 @@ Upon the filing of a petition under subsection (a), the Commission, unless subse
 
 No investigation may be initiated under this section with respect to any CAFTA–DR article if, after the date that the Agreement enters into force, import relief has been provided with respect to that CAFTA–DR article under this part.
 
-(Pub. L. 109–53, title III, § 311, Aug. 2, 2005, 119 Stat. 488.)
+(Pub. L. 109–53, title III, § 311, Aug. 2, 2005, 119 Stat. 488.)
 
 **Termination of Section**
 
@@ -1375,7 +1375,7 @@ For termination of section by section 107(d) of Pub. L. 109–53, see Effective 
 
 **References in Text**
 
-This part, referred to in subsecs. (a) and (d), was in the original “this subtitle”, meaning subtitle A (§§ 311–316) of title III of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 488, which enacted this part and amended section 2252 of this title. For complete classification of subtitle A to the Code, see Tables.
+This part, referred to in subsecs. (a) and (d), was in the original “this subtitle”, meaning subtitle A (§§ 311–316) of title III of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 488, which enacted this part and amended section 2252 of this title. For complete classification of subtitle A to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1383,7 +1383,7 @@ This part, referred to in subsecs. (a) and (d), was in the original “this subt
 
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
 
-#### § 4062. Commission action on petition
+#### § 4062. Commission action on petition
 
 **(a) Determination**
 
@@ -1409,7 +1409,7 @@ If the determination made by the Commission under subsection (a) with respect to
 
 Upon submitting a report to the President under subsection (d), the Commission shall promptly make public such report (with the exception of information which the Commission determines to be confidential) and shall cause a summary thereof to be published in the Federal Register.
 
-(Pub. L. 109–53, title III, § 312, Aug. 2, 2005, 119 Stat. 489.)
+(Pub. L. 109–53, title III, § 312, Aug. 2, 2005, 119 Stat. 489.)
 
 **Termination of Section**
 
@@ -1419,7 +1419,7 @@ For termination of section by section 107(d) of Pub. L. 109–53, see Effective 
 
 **References in Text**
 
-This part, referred to in subsec. (b), was in the original “this subtitle”, meaning subtitle A (§§ 311–316) of title III of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 488, which enacted this part and amended section 2252 of this title. For complete classification of subtitle A to the Code, see Tables.
+This part, referred to in subsec. (b), was in the original “this subtitle”, meaning subtitle A (§§ 311–316) of title III of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 488, which enacted this part and amended section 2252 of this title. For complete classification of subtitle A to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1427,7 +1427,7 @@ This part, referred to in subsec. (b), was in the original “this subtitle”, 
 
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
 
-#### § 4063. Provision of relief
+#### § 4063. Provision of relief
 
 **(a) In general**
 
@@ -1491,7 +1491,7 @@ Subject to paragraph (2), any import relief that the President is authorized to 
 
 **(2)** imports of a CAFTA–DR article of a CAFTA–DR country that is a de minimis supplying country with respect to that article.
 
-(Pub. L. 109–53, title III, § 313, Aug. 2, 2005, 119 Stat. 490.)
+(Pub. L. 109–53, title III, § 313, Aug. 2, 2005, 119 Stat. 490.)
 
 **Termination of Section**
 
@@ -1501,7 +1501,7 @@ For termination of section by section 107(d) of Pub. L. 109–53, see Effective 
 
 **References in Text**
 
-The Trade Act of 1974, referred to in subsec. (f)(1), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in subsec. (f)(1), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1509,7 +1509,7 @@ The Trade Act of 1974, referred to in subsec. (f)(1), is Pub. L. 93–618, Jan. 
 
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
 
-#### § 4064. Termination of relief authority
+#### § 4064. Termination of relief authority
 
 **(a) General rule**
 
@@ -1519,7 +1519,7 @@ Subject to subsection (b), no import relief may be provided under this part afte
 
 If an article for which relief is provided under this part is an article for which the period for tariff elimination, set out in the Schedule of the United States to Annex 3.3 of the Agreement, is greater than 10 years, no relief under this part may be provided for that article after the date on which that period ends.
 
-(Pub. L. 109–53, title III, § 314, Aug. 2, 2005, 119 Stat. 492.)
+(Pub. L. 109–53, title III, § 314, Aug. 2, 2005, 119 Stat. 492.)
 
 **Termination of Section**
 
@@ -1529,7 +1529,7 @@ For termination of section by section 107(d) of Pub. L. 109–53, see Effective 
 
 **References in Text**
 
-This part, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 311–316) of title III of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 488, which enacted this part and amended section 2252 of this title. For complete classification of subtitle A to the Code, see Tables.
+This part, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 311–316) of title III of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 488, which enacted this part and amended section 2252 of this title. For complete classification of subtitle A to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1537,11 +1537,11 @@ This part, referred to in text, was in the original “this subtitle”, meaning
 
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
 
-#### § 4065. Compensation authority
+#### § 4065. Compensation authority
 
 For purposes of section 123 of the Trade Act of 1974 (19 U.S.C. 2133), any import relief provided by the President under section 4063 of this title shall be treated as action taken under chapter 1 of title II of such Act [19 U.S.C. 2251 et seq.].
 
-(Pub. L. 109–53, title III, § 315, Aug. 2, 2005, 119 Stat. 492.)
+(Pub. L. 109–53, title III, § 315, Aug. 2, 2005, 119 Stat. 492.)
 
 **Termination of Section**
 
@@ -1551,7 +1551,7 @@ For termination of section by section 107(d) of Pub. L. 109–53, see Effective 
 
 **References in Text**
 
-The Trade Act of 1974, referred to in text, is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in text, is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1561,7 +1561,7 @@ Section effective on the date the Dominican Republic-Central America-United Stat
 
 ### Part B—Textile and Apparel Safeguard Measures
 
-#### § 4081. Commencement of action for relief
+#### § 4081. Commencement of action for relief
 
 **(a) In general**
 
@@ -1571,7 +1571,7 @@ A request under this part for the purpose of adjusting to the obligations of the
 
 If the President determines that the request under subsection (a) provides the information necessary for the request to be considered, the President shall cause to be published in the Federal Register a notice of commencement of consideration of the request, and notice seeking public comments regarding the request. The notice shall include a summary of the request and the dates by which comments and rebuttals must be received.
 
-(Pub. L. 109–53, title III, § 321, Aug. 2, 2005, 119 Stat. 492.)
+(Pub. L. 109–53, title III, § 321, Aug. 2, 2005, 119 Stat. 492.)
 
 **Termination of Section**
 
@@ -1589,7 +1589,7 @@ Section effective on the date the Dominican Republic-Central America-United Stat
 
 Proc. No. 7987, Feb. 28, 2006, 71 F.R. 10829, provided in par. (6) that the Committee for the Implementation of Textile Agreements is authorized to exercise the President’s authority under sections 4081 to 4088 of this title to review requests and to determine whether to commence consideration of such requests; to cause to be published in the Federal Register a notice of commencement of consideration of a request and notice seeking public comment; and to determine whether imports of a textile or apparel article of an Agreement country are causing serious damage, or actual threat thereof, to a domestic industry producing an article that is like, or directly competitive with, the imported article.
 
-#### § 4082. Determination and provision of relief
+#### § 4082. Determination and provision of relief
 
 **(a) Determination**
 
@@ -1619,7 +1619,7 @@ If a determination under subsection (a) is affirmative, the President may provid
 
 **(B)** the column 1 general rate of duty imposed under the HTS on like articles on the day before the date on which the Agreement enters into force.
 
-(Pub. L. 109–53, title III, § 322, Aug. 2, 2005, 119 Stat. 493.)
+(Pub. L. 109–53, title III, § 322, Aug. 2, 2005, 119 Stat. 493.)
 
 **Termination of Section**
 
@@ -1631,7 +1631,7 @@ For termination of section by section 107(d) of Pub. L. 109–53, see Effective 
 
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
 
-#### § 4083. Period of relief
+#### § 4083. Period of relief
 
 **(a) In general**
 
@@ -1643,7 +1643,7 @@ Subject to subsection (b), any import relief that the President provides under s
 
 **(2)** there is evidence that the industry is making a positive adjustment to import competition.
 
-(Pub. L. 109–53, title III, § 323, Aug. 2, 2005, 119 Stat. 493.)
+(Pub. L. 109–53, title III, § 323, Aug. 2, 2005, 119 Stat. 493.)
 
 **Termination of Section**
 
@@ -1655,7 +1655,7 @@ For termination of section by section 107(d) of Pub. L. 109–53, see Effective 
 
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
 
-#### § 4084. Articles exempt from relief
+#### § 4084. Articles exempt from relief
 
 The President may not provide import relief under this part with respect to any article if—
 
@@ -1667,7 +1667,7 @@ The President may not provide import relief under this part with respect to any 
 
 **(B)** chapter 1 of title II of the Trade Act of 1974 [19 U.S.C. 2251 et seq.].
 
-(Pub. L. 109–53, title III, § 324, Aug. 2, 2005, 119 Stat. 494.)
+(Pub. L. 109–53, title III, § 324, Aug. 2, 2005, 119 Stat. 494.)
 
 **Termination of Section**
 
@@ -1677,9 +1677,9 @@ For termination of section by section 107(d) of Pub. L. 109–53, see Effective 
 
 **References in Text**
 
-Part A, referred to in par. (2)(A), was in the original “subtitle A”, meaning subtitle A (§§ 311–316) of title III of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 488, which enacted part A of this subchapter and amended section 2252 of this title. For complete classification of subtitle A to the Code, see Tables.
+Part A, referred to in par. (2)(A), was in the original “subtitle A”, meaning subtitle A (§§ 311–316) of title III of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 488, which enacted part A of this subchapter and amended section 2252 of this title. For complete classification of subtitle A to the Code, see Tables.
 
-The Trade Act of 1974, referred to in par. (2)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in par. (2)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1687,11 +1687,11 @@ The Trade Act of 1974, referred to in par. (2)(B), is Pub. L. 93–618, Jan. 3, 
 
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
 
-#### § 4085. Rate after termination of import relief
+#### § 4085. Rate after termination of import relief
 
 When import relief under this part is terminated with respect to an article, the rate of duty on that article shall be the rate that would have been in effect, but for the provision of such relief.
 
-(Pub. L. 109–53, title III, § 325, Aug. 2, 2005, 119 Stat. 494.)
+(Pub. L. 109–53, title III, § 325, Aug. 2, 2005, 119 Stat. 494.)
 
 **Termination of Section**
 
@@ -1703,11 +1703,11 @@ For termination of section by section 107(d) of Pub. L. 109–53, see Effective 
 
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
 
-#### § 4086. Termination of relief authority
+#### § 4086. Termination of relief authority
 
 No import relief may be provided under this part with respect to any article after the date that is 5 years after the date on which the Agreement enters into force.
 
-(Pub. L. 109–53, title III, § 326, Aug. 2, 2005, 119 Stat. 494.)
+(Pub. L. 109–53, title III, § 326, Aug. 2, 2005, 119 Stat. 494.)
 
 **Termination of Section**
 
@@ -1719,11 +1719,11 @@ For termination of section by section 107(d) of Pub. L. 109–53, see Effective 
 
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
 
-#### § 4087. Compensation authority
+#### § 4087. Compensation authority
 
 For purposes of section 123 of the Trade Act of 1974 (19 U.S.C. 2133), any import relief provided by the President under this part shall be treated as action taken under chapter 1 of title II of that Act [19 U.S.C. 2251 et seq.].
 
-(Pub. L. 109–53, title III, § 327, Aug. 2, 2005, 119 Stat. 494.)
+(Pub. L. 109–53, title III, § 327, Aug. 2, 2005, 119 Stat. 494.)
 
 **Termination of Section**
 
@@ -1733,7 +1733,7 @@ For termination of section by section 107(d) of Pub. L. 109–53, see Effective 
 
 **References in Text**
 
-The Trade Act of 1974, referred to in text, is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in text, is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1741,11 +1741,11 @@ The Trade Act of 1974, referred to in text, is Pub. L. 93–618, Jan. 3, 1975, 8
 
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
 
-#### § 4088. Confidential business information
+#### § 4088. Confidential business information
 
 The President may not release information received in connection with a review under this part which the President considers to be confidential business information unless the party submitting the confidential business information had notice, at the time of submission, that such information would be released by the President, or such party subsequently consents to the release of the information. To the extent a party submits confidential business information, it shall also provide a nonconfidential version of the information in which the confidential business information is summarized or, if necessary, deleted.
 
-(Pub. L. 109–53, title III, § 328, Aug. 2, 2005, 119 Stat. 494.)
+(Pub. L. 109–53, title III, § 328, Aug. 2, 2005, 119 Stat. 494.)
 
 **Termination of Section**
 
@@ -1759,7 +1759,7 @@ Section effective on the date the Dominican Republic-Central America-United Stat
 
 ### Part C—Cases Under Title II of the Trade Act of 1974
 
-#### § 4101. Findings and action on goods of CAFTA–DR countries
+#### § 4101. Findings and action on goods of CAFTA–DR countries
 
 **(a) Effect of imports**
 
@@ -1769,7 +1769,7 @@ If, in any investigation initiated under chapter 1 of title II of the Trade Act 
 
 In determining the nature and extent of action to be taken under chapter 1 of title II of the Trade Act of 1974 [19 U.S.C. 2251 et seq.], the President may exclude from the action goods of a CAFTA–DR country with respect to which the Commission has made a negative finding under subsection (a).
 
-(Pub. L. 109–53, title III, § 331, Aug. 2, 2005, 119 Stat. 494.)
+(Pub. L. 109–53, title III, § 331, Aug. 2, 2005, 119 Stat. 494.)
 
 **Termination of Section**
 
@@ -1779,7 +1779,7 @@ For termination of section by section 107(d) of Pub. L. 109–53, see Effective 
 
 **References in Text**
 
-The Trade Act of 1974, referred to in text, is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in text, is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1789,7 +1789,7 @@ Section effective on the date the Dominican Republic-Central America-United Stat
 
 ## SUBCHAPTER IV—MISCELLANEOUS
 
-### § 4111. Periodic reports and meetings on labor obligations and labor capacity-building provisions
+### § 4111. Periodic reports and meetings on labor obligations and labor capacity-building provisions
 
 **(a) Reports to Congress**
 
@@ -1839,7 +1839,7 @@ The President shall establish a mechanism to solicit public comments for purpose
 
 The President shall include in each report under subsection (a), as the President deems appropriate, summaries of the meetings held pursuant to paragraph (1).
 
-(Pub. L. 109–53, title IV, § 403, Aug. 2, 2005, 119 Stat. 496.)
+(Pub. L. 109–53, title IV, § 403, Aug. 2, 2005, 119 Stat. 496.)
 
 **Termination of Section**
 
@@ -1857,7 +1857,7 @@ Section effective on the date the Dominican Republic-Central America-United Stat
 
 Proc. No. 8272, June 30, 2008, 73 F.R. 38300, provided in pars. (17) and (18) that the reporting function under subsecs. (a) and (b)(2) of this section and the solicitation of public comments under subsec. (a)(4) of this section were delegated to the Secretary of Labor, in consultation with the United States Trade Representative.
 
-### § 4112. Earned import allowance program
+### § 4112. Earned import allowance program
 
 **(a) Preferential treatment**
 
@@ -1945,7 +1945,7 @@ The program under this section shall be in effect for the 10-year period beginni
 
 The program under this section shall apply with respect to qualifying fabric exported to an eligible country on or after August 1, 2007.
 
-(Pub. L. 109–53, title IV, § 404, as added Pub. L. 110–436, § 2(a), Oct. 16, 2008, 122 Stat. 4977.)
+(Pub. L. 109–53, title IV, § 404, as added Pub. L. 110–436, § 2(a), Oct. 16, 2008, 122 Stat. 4977.)
 
 **Termination of Section**
 

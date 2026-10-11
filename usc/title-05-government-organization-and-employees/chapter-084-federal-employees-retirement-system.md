@@ -19,51 +19,51 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2020—Pub. L. 116–126, § 2(b)(3)(B), Mar. 18, 2020, 134 Stat. 175, added item 8466a.
+2020—Pub. L. 116–126, § 2(b)(3)(B), Mar. 18, 2020, 134 Stat. 175, added item 8466a.
 
-2012—Pub. L. 112–141, div. F, title I, § 100121(b)(2), July 6, 2012, 126 Stat. 914, added item 8412a.
+2012—Pub. L. 112–141, div. F, title I, § 100121(b)(2), July 6, 2012, 126 Stat. 914, added item 8412a.
 
-2009—Pub. L. 111–84, div. A, title XIX, § 1904(b)(3)(B), Oct. 28, 2009, 123 Stat. 2617, added item 8422 and struck out former item 8422 “Deductions from pay; contributions for other service”.
+2009—Pub. L. 111–84, div. A, title XIX, § 1904(b)(3)(B), Oct. 28, 2009, 123 Stat. 2617, added item 8422 and struck out former item 8422 “Deductions from pay; contributions for other service”.
 
-Pub. L. 111–31, div. B, title I, §§ 103(b), 107(b), June 22, 2009, 123 Stat. 1854, 1856, added items 8432d and 8480.
+Pub. L. 111–31, div. B, title I, §§ 103(b), 107(b), June 22, 2009, 123 Stat. 1854, 1856, added items 8432d and 8480.
 
-2001—Pub. L. 107–107, div. A, title XI, § 1132(b)(2)(C), Dec. 28, 2001, 115 Stat. 1244, substituted “other service” for “military service” in item 8422.
+2001—Pub. L. 107–107, div. A, title XI, § 1132(b)(2)(C), Dec. 28, 2001, 115 Stat. 1244, substituted “other service” for “military service” in item 8422.
 
-2000—Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 138(a)(7)(B)], Dec. 21, 2000, 114 Stat. 2763, 2763A–234, added item 8440f.
+2000—Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 138(a)(7)(B)], Dec. 21, 2000, 114 Stat. 2763, 2763A–234, added item 8440f.
 
-1999—Pub. L. 106–168, title II, § 203(a)(2), Dec. 12, 1999, 113 Stat. 1820, added item 8431.
+1999—Pub. L. 106–168, title II, § 203(a)(2), Dec. 12, 1999, 113 Stat. 1820, added item 8431.
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 334(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–441, added item 8432c.
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 334(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–441, added item 8432c.
 
-Pub. L. 106–65, div. A, title VI, §§ 661(a)(2)(B), 663, Oct. 5, 1999, 113 Stat. 671, 673, as amended by Pub. L. 106–398, § 1 [[div. A], title VI, § 661(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–167, added item 8440e, effective 180 days after Oct. 30, 2000, unless postponed.
+Pub. L. 106–65, div. A, title VI, §§ 661(a)(2)(B), 663, Oct. 5, 1999, 113 Stat. 671, 673, as amended by Pub. L. 106–398, § 1 [[div. A], title VI, § 661(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–167, added item 8440e, effective 180 days after Oct. 30, 2000, unless postponed.
 
-1998—Pub. L. 105–368, title V, § 512(b)(2)(B), Nov. 11, 1998, 112 Stat. 3342, substituted “Judges of the United States Court of Appeals for Veterans Claims” for “Judges of the United States Court of Veterans Appeals” in item 8440d.
+1998—Pub. L. 105–368, title V, § 512(b)(2)(B), Nov. 11, 1998, 112 Stat. 3342, substituted “Judges of the United States Court of Appeals for Veterans Claims” for “Judges of the United States Court of Veterans Appeals” in item 8440d.
 
-1996—Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title II, § 206(b)(1)]], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378, struck out item 8431 “Definition”.
+1996—Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title II, § 206(b)(1)]], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378, struck out item 8431 “Definition”.
 
-1994—Pub. L. 103–353, § 4(a)(2), Oct. 13, 1994, 108 Stat. 3172, added item 8432b.
+1994—Pub. L. 103–353, § 4(a)(2), Oct. 13, 1994, 108 Stat. 3172, added item 8432b.
 
-1992—Pub. L. 102–572, title IX, § 902(b)(2), Oct. 29, 1992, 106 Stat. 4516, substituted “Court of Federal Claims” for “Claims Court” in item 8440c.
+1992—Pub. L. 102–572, title IX, § 902(b)(2), Oct. 29, 1992, 106 Stat. 4516, substituted “Court of Federal Claims” for “Claims Court” in item 8440c.
 
-Pub. L. 102–378, § 5(d)(2), Oct. 2, 1992, 106 Stat. 1358, amended directory language of Pub. L. 101–198, § 7(c)(4)(B). See 1991 Amendment note below.
+Pub. L. 102–378, § 5(d)(2), Oct. 2, 1992, 106 Stat. 1358, amended directory language of Pub. L. 101–198, § 7(c)(4)(B). See 1991 Amendment note below.
 
-1991—Pub. L. 102–198, § 7(c)(2), Dec. 9, 1991, 105 Stat. 1625, redesignated item 8440b “Claims Court judges” as item 8440c.
+1991—Pub. L. 102–198, § 7(c)(2), Dec. 9, 1991, 105 Stat. 1625, redesignated item 8440b “Claims Court judges” as item 8440c.
 
-Pub. L. 102–198, § 7(c)(4)(B), Dec. 9, 1991, 105 Stat. 1625, as amended by Pub. L. 102–378, § 5(d)(2), Oct. 2, 1992, 106 Stat. 1358, redesignated item 8440c “Judges of the United States Court of Veterans Appeals” as item 8440d.
+Pub. L. 102–198, § 7(c)(4)(B), Dec. 9, 1991, 105 Stat. 1625, as amended by Pub. L. 102–378, § 5(d)(2), Oct. 2, 1992, 106 Stat. 1358, redesignated item 8440c “Judges of the United States Court of Veterans Appeals” as item 8440d.
 
-Pub. L. 102–82, § 5(a)(2), Aug. 6, 1991, 105 Stat. 376, added item 8440c “Judges of the United States Court of Veterans Appeals”.
+Pub. L. 102–82, § 5(a)(2), Aug. 6, 1991, 105 Stat. 376, added item 8440c “Judges of the United States Court of Veterans Appeals”.
 
-1990—Pub. L. 101–650, title III, § 306(d)(2), Dec. 1, 1990, 104 Stat. 5111, which directed the amendment of the table of sections for this chapter by adding at the end thereof item 8440b “Claims Court judges”, was executed by adding that item after the first item 8440b.
+1990—Pub. L. 101–650, title III, § 306(d)(2), Dec. 1, 1990, 104 Stat. 5111, which directed the amendment of the table of sections for this chapter by adding at the end thereof item 8440b “Claims Court judges”, was executed by adding that item after the first item 8440b.
 
-Pub. L. 101–335, §§ 2(a)(2), 9(b), July 17, 1990, 104 Stat. 320, 326, added item 8432a and redesignated item 8440a “Bankruptcy judges and magistrates” as item 8440b.
+Pub. L. 101–335, §§ 2(a)(2), 9(b), July 17, 1990, 104 Stat. 320, 326, added item 8432a and redesignated item 8440a “Bankruptcy judges and magistrates” as item 8440b.
 
-1988—Pub. L. 100–659, § 7(b), Nov. 15, 1988, 102 Stat. 3920, added item 8440a “Bankruptcy judges and magistrates”.
+1988—Pub. L. 100–659, § 7(b), Nov. 15, 1988, 102 Stat. 3920, added item 8440a “Bankruptcy judges and magistrates”.
 
-Pub. L. 100–654, title IV, § 401(b), Nov. 14, 1988, 102 Stat. 3847, added item 8440a “Justices and judges”.
+Pub. L. 100–654, title IV, § 401(b), Nov. 14, 1988, 102 Stat. 3847, added item 8440a “Justices and judges”.
 
-Pub. L. 100–238, title I, § 124(a)(2), (b)(2), Jan. 8, 1988, 101 Stat. 1756, added item 8464a, redesignated item 8457 as 8456, and struck out former item 8456 “Relationship to workers’ compensation”.
+Pub. L. 100–238, title I, § 124(a)(2), (b)(2), Jan. 8, 1988, 101 Stat. 1756, added item 8464a, redesignated item 8457 as 8456, and struck out former item 8456 “Relationship to workers’ compensation”.
 
-1986—Pub. L. 99–556, title I, § 110(b), Oct. 27, 1986, 100 Stat. 3132, added item 8478a.
+1986—Pub. L. 99–556, title I, § 110(b), Oct. 27, 1986, 100 Stat. 3132, added item 8478a.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -73,7 +73,7 @@ Words “magistrate judges” substituted for “magistrates” in item 8440b pu
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 8401. Definitions
+### § 8401. Definitions
 
 For the purpose of this chapter—
 
@@ -177,7 +177,7 @@ whose duties in connection with individuals in detention suspected or convicted 
 
 **(18)** the term “loss”, as used with respect to the Thrift Savings Fund, includes the amount of any loss resulting from the investment of sums in such Fund, or from the breach of any responsibility, duty, or obligation under section 8477.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(19)** the term “lump-sum credit” means the unrefunded amount consisting of—
 
@@ -283,15 +283,15 @@ and includes service as a cadet at the United States Military Academy, the Unite
 
 **(39)** “representative payee” means a person (including an organization) designated under section 8466(c)(1) to receive payments on behalf of a minor or an individual mentally incompetent or under other legal disability.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 517; amended Pub. L. 99–556, title I, §§ 107, 109, 119, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 100–238, title I, §§ 103(a)(2), (c), (d)(2), 113(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1745, 1750; Pub. L. 100–679, § 13(a)(2), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–335, § 6(a)(1), July 17, 1990, 104 Stat. 322; Pub. L. 101–474, § 5(*o*), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, § 7202(k)(1), Nov. 5, 1990, 104 Stat. 1388–338; Pub. L. 103–337, div. A, title XVI, § 1677(a)(4), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 103–353, § 5(c), (e)(1), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title II, § 206(a)(1)]], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–261, div. C, title XXXI, § 3154(f), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, § 522(c)(2), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–571, § 3(c)(2), Dec. 28, 2000, 114 Stat. 3056; Pub. L. 108–83, title I, § 104(a), Sept. 30, 2003, 117 Stat. 1017; Pub. L. 108–176, title II, § 226(a)(2), Dec. 12, 2003, 117 Stat. 2529; Pub. L. 110–161, div. E, title V, § 535(b)(1), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 110–181, div. A, title XI, § 1115(b), Jan. 28, 2008, 122 Stat. 361; Pub. L. 111–84, div. A, title XIX, § 1904(b)(1), Oct. 28, 2009, 123 Stat. 2616; Pub. L. 112–96, title V, § 5001(a), Feb. 22, 2012, 126 Stat. 199; Pub. L. 113–67, div. A, title IV, § 401(a), Dec. 26, 2013, 127 Stat. 1183; Pub. L. 116–126, § 2(a)(2), Mar. 18, 2020, 134 Stat. 174.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 517; amended Pub. L. 99–556, title I, §§ 107, 109, 119, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 100–238, title I, §§ 103(a)(2), (c), (d)(2), 113(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1745, 1750; Pub. L. 100–679, § 13(a)(2), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–335, § 6(a)(1), July 17, 1990, 104 Stat. 322; Pub. L. 101–474, § 5(*o*), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, § 7202(k)(1), Nov. 5, 1990, 104 Stat. 1388–338; Pub. L. 103–337, div. A, title XVI, § 1677(a)(4), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 103–353, § 5(c), (e)(1), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title II, § 206(a)(1)]], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–261, div. C, title XXXI, § 3154(f), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, § 522(c)(2), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–571, § 3(c)(2), Dec. 28, 2000, 114 Stat. 3056; Pub. L. 108–83, title I, § 104(a), Sept. 30, 2003, 117 Stat. 1017; Pub. L. 108–176, title II, § 226(a)(2), Dec. 12, 2003, 117 Stat. 2529; Pub. L. 110–161, div. E, title V, § 535(b)(1), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 110–181, div. A, title XI, § 1115(b), Jan. 28, 2008, 122 Stat. 361; Pub. L. 111–84, div. A, title XIX, § 1904(b)(1), Oct. 28, 2009, 123 Stat. 2616; Pub. L. 112–96, title V, § 5001(a), Feb. 22, 2012, 126 Stat. 199; Pub. L. 113–67, div. A, title IV, § 401(a), Dec. 26, 2013, 127 Stat. 1183; Pub. L. 116–126, § 2(a)(2), Mar. 18, 2020, 134 Stat. 174.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in par. (11), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in par. (11), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Chapter 21 of the Internal Revenue Code of 1986, referred to in par. (11), is classified to chapter 21 (§ 3101 et seq.) of Title 26, Internal Revenue Code.
+Chapter 21 of the Internal Revenue Code of 1986, referred to in par. (11), is classified to chapter 21 (§ 3101 et seq.) of Title 26, Internal Revenue Code.
 
 Section 103(6) of the Foreign Service Act of 1980, referred to in par. (11)(iii), is classified to section 3903(6) of Title 22, Foreign Relations and Intercourse.
 
@@ -305,9 +305,9 @@ The date of the enactment of the Legislative Branch Appropriations Act, 2004, re
 
 2020—Par. (39). Pub. L. 116–126 added par. (39).
 
-2013—Par. (37)(B). Pub. L. 113–67, § 401(a)(2), inserted “and before January 1, 2014,” after “after December 31, 2012,”.
+2013—Par. (37)(B). Pub. L. 113–67, § 401(a)(2), inserted “and before January 1, 2014,” after “after December 31, 2012,”.
 
-Par. (38). Pub. L. 113–67, § 401(a)(1), added par. (38).
+Par. (38). Pub. L. 113–67, § 401(a)(1), added par. (38).
 
 2012—Par. (37). Pub. L. 112–96 added par. (37).
 
@@ -317,7 +317,7 @@ Par. (38). Pub. L. 113–67, § 401(a)(1), added par. (38).
 
 2007—Par. (36). Pub. L. 110–161 added par. (36).
 
-2003—Par. (20). Pub. L. 108–83 inserted before semicolon at end “, and who (in the case of an individual who is a Member of the House of Representatives, including a Delegate or Resident Commissioner to the Congress) serves as a Member prior to the date of the enactment of the Legislative Branch Appropriations Act, 2004”.
+2003—Par. (20). Pub. L. 108–83 inserted before semicolon at end “, and who (in the case of an individual who is a Member of the House of Representatives, including a Delegate or Resident Commissioner to the Congress) serves as a Member prior to the date of the enactment of the Legislative Branch Appropriations Act, 2004”.
 
 Par. (35). Pub. L. 108–176 added par. (35).
 
@@ -333,39 +333,39 @@ Par. (35). Pub. L. 108–176 added par. (35).
 
 1996—Par. (4). Pub. L. 104–208 struck out “except as provided in subchapter III of this chapter,” before “the term”.
 
-1994—Par. (11). Pub. L. 103–353, § 5(e)(1), in flush provisions before cl. (i), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+1994—Par. (11). Pub. L. 103–353, § 5(e)(1), in flush provisions before cl. (i), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 Par. (30). Pub. L. 103–337 substituted “section 10101” for “section 261(a)” in introductory provisions.
 
-Par. (31). Pub. L. 103–353, § 5(c), in closing provisions, inserted before semicolon “or full-time National Guard duty (as such term is defined in section 101(d) of title 10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990”.
+Par. (31). Pub. L. 103–353, § 5(c), in closing provisions, inserted before semicolon “or full-time National Guard duty (as such term is defined in section 101(d) of title 10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990”.
 
-1990—Par. (11)(C). Pub. L. 101–508, § 7202(k)(1)(A)(i)–(iii), added subpar. (C).
+1990—Par. (11)(C). Pub. L. 101–508, § 7202(k)(1)(A)(i)–(iii), added subpar. (C).
 
 Par. (11)(i)(I). Pub. L. 101–474 struck out “(v),” after “(i),”.
 
-Par. (11)(iv). Pub. L. 101–508, § 7202(k)(1)(A)(iv)–(vi), added cl. (iv).
+Par. (11)(iv). Pub. L. 101–508, § 7202(k)(1)(A)(iv)–(vi), added cl. (iv).
 
-Par. (15). Pub. L. 101–508, § 7202(k)(1)(B), substituted “, Gallaudet College, and, in the case of an employee described in paragraph (11)(C), a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard described in section 2105(c);” for “and Gallaudet College;”.
+Par. (15). Pub. L. 101–508, § 7202(k)(1)(B), substituted “, Gallaudet College, and, in the case of an employee described in paragraph (11)(C), a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard described in section 2105(c);” for “and Gallaudet College;”.
 
 Par. (32). Pub. L. 101–335 added par. (32).
 
 1988—Par. (11)(A). Pub. L. 100–679 substituted “(J), or (K)” for “or (J)”.
 
-Par. (11)(i)(II). Pub. L. 100–238, § 103(d)(2), struck out “(other than an employee of the United States Park Police, or the United States Secret Service, whose civilian service after December 31, 1983, is such employment)”.
+Par. (11)(i)(II). Pub. L. 100–238, § 103(d)(2), struck out “(other than an employee of the United States Park Police, or the United States Secret Service, whose civilian service after December 31, 1983, is such employment)”.
 
-Par. (11)(iii). Pub. L. 100–238, § 113(b)(1), added cl. (iii).
+Par. (11)(iii). Pub. L. 100–238, § 113(b)(1), added cl. (iii).
 
-Par. (14)(A)(ii). Pub. L. 100–238, § 103(a)(2), substituted “should be” for “are required to be”.
+Par. (14)(A)(ii). Pub. L. 100–238, § 103(a)(2), substituted “should be” for “are required to be”.
 
-Par. (14)(B). Pub. L. 100–238, § 103(c)(2), substituted “for at least 3 years” for “for at least 10 years”.
+Par. (14)(B). Pub. L. 100–238, § 103(c)(2), substituted “for at least 3 years” for “for at least 10 years”.
 
-Par. (17). Pub. L. 100–238, § 103(a)(2), (c)(1), in subpar. (A)(ii), substituted “should be” for “are required to be”, added subpar. (B), redesignated former subpar. (B) as (C) and amended it generally, substituting “subparagraph (A) and (B) for at least 3 years” for “subparagraph (A) for at least 10 years”, redesignated former subpar. (C) as (D), and in concluding provisions, substituted “should be” for “are required to be”.
+Par. (17). Pub. L. 100–238, § 103(a)(2), (c)(1), in subpar. (A)(ii), substituted “should be” for “are required to be”, added subpar. (B), redesignated former subpar. (B) as (C) and amended it generally, substituting “subparagraph (A) and (B) for at least 3 years” for “subparagraph (A) for at least 10 years”, redesignated former subpar. (C) as (D), and in concluding provisions, substituted “should be” for “are required to be”.
 
-1986—Par. (11). Pub. L. 99–556, § 119, struck out “any of” before “whose civilian service” in two places.
+1986—Par. (11). Pub. L. 99–556, § 119, struck out “any of” before “whose civilian service” in two places.
 
-Par. (18). Pub. L. 99–556, § 109, amended par. (18) generally. Prior to amendment, par. (18) read as follows: “the term ‘loss’, when used with respect to the Thrift Savings Fund, means the amount of the loss resulting from the investment of sums in such Fund;”.
+Par. (18). Pub. L. 99–556, § 109, amended par. (18) generally. Prior to amendment, par. (18) read as follows: “the term ‘loss’, when used with respect to the Thrift Savings Fund, means the amount of the loss resulting from the investment of sums in such Fund;”.
 
-Par. (19)(C), (D). Pub. L. 99–556, § 107, added subpar. (C) and redesignated former subpar. (C) as (D).
+Par. (19)(C), (D). Pub. L. 99–556, § 107, added subpar. (C) and redesignated former subpar. (C) as (D).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -383,7 +383,7 @@ Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the f
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–176, title II, § 226(c), Dec. 12, 2003, 117 Stat. 2530, provided that:
+Pub. L. 108–176, title II, § 226(c), Dec. 12, 2003, 117 Stat. 2530, provided that:
 
 > **“(1) In general.—** This section [amending this section and sections 8331, 8335, 8415, 8422, 8425, 8452, and 8468 of this title] and the amendments made by this section—
 
@@ -413,7 +413,7 @@ Amendment by Pub. L. 105–261 effective at the beginning of the first pay perio
 
 **Effective Date of 1996 Amendment**
 
-Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) [title VI, § 659 [title II, § 207]] of Pub. L. 104–208, set out as a note under section 5545a of this title.
+Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) [title VI, § 659 [title II, § 207]] of Pub. L. 104–208, set out as a note under section 5545a of this title.
 
 **Effective Date of 1994 Amendments**
 
@@ -431,11 +431,11 @@ Amendment by Pub. L. 101–335 effective as of second election period described 
 
 Amendment by section 103(a)(2), (c), and (d)(2) of Pub. L. 100–238, effective Jan. 1, 1987, see section 103(f) of Pub. L. 100–238, set out as a note under section 3307 of this title.
 
-Pub. L. 100–238, title I, § 113(b)(2), Jan. 8, 1988, 101 Stat. 1751, provided that: “The amendments made by paragraph (1) [amending this section] shall be effective as of January 1, 1987. Any refund which becomes payable as a result of the preceding sentence shall, to the extent that such refund involves an individual’s contributions to the Thrift Savings Fund (established under section 8437 of title 5, United States Code), be adjusted to reflect any earnings attributable thereto.”
+Pub. L. 100–238, title I, § 113(b)(2), Jan. 8, 1988, 101 Stat. 1751, provided that: “The amendments made by paragraph (1) [amending this section] shall be effective as of January 1, 1987. Any refund which becomes payable as a result of the preceding sentence shall, to the extent that such refund involves an individual’s contributions to the Thrift Savings Fund (established under section 8437 of title 5, United States Code), be adjusted to reflect any earnings attributable thereto.”
 
 **Effective Date**
 
-Pub. L. 99–335, title VII, § 702(a), (b), June 6, 1986, 100 Stat. 631, provided that:
+Pub. L. 99–335, title VII, § 702(a), (b), June 6, 1986, 100 Stat. 631, provided that:
 
 > **“(a) In General.—** Except as provided in subsection (b), this Act and the amendments made by this Act [see Short Title note below] shall take effect on January 1, 1987.
 
@@ -455,33 +455,33 @@ Reference to a specific date in section 702(a) of Pub. L. 99–335, set out abov
 
 **Short Title of 1999 Amendment**
 
-Pub. L. 106–168, title II, § 201, Dec. 12, 1999, 113 Stat. 1817, provided that: “This title [enacting section 8431 of this title, amending sections 8351, 8402, and 8411 of this title, and enacting provisions set out as notes under sections 8402 and 8431 of this title] may be cited as the ‘Federal Reserve Board Retirement Portability Act’.”
+Pub. L. 106–168, title II, § 201, Dec. 12, 1999, 113 Stat. 1817, provided that: “This title [enacting section 8431 of this title, amending sections 8351, 8402, and 8411 of this title, and enacting provisions set out as notes under sections 8402 and 8431 of this title] may be cited as the ‘Federal Reserve Board Retirement Portability Act’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–274, § 1, Oct. 21, 1998, 112 Stat. 2419, provided that: “This Act [amending section 8402 of this title and enacting provisions set out as a note under section 8402 of this title] may be cited as the ‘District of Columbia Courts and Justice Technical Corrections Act of 1998’.”
+Pub. L. 105–274, § 1, Oct. 21, 1998, 112 Stat. 2419, provided that: “This Act [amending section 8402 of this title and enacting provisions set out as a note under section 8402 of this title] may be cited as the ‘District of Columbia Courts and Justice Technical Corrections Act of 1998’.”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title I, § 101]], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, provided that: “This title [title I (§§ 101–104) of section 659 of section 101(f) of Pub. L. 104–208, amending sections 8438 and 8439 of this title and enacting provisions set out as a note under section 8438 of this title] may be cited as the ‘Thrift Savings Investment Funds Act of 1996’.”
+Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title I, § 101]], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, provided that: “This title [title I (§§ 101–104) of section 659 of section 101(f) of Pub. L. 104–208, amending sections 8438 and 8439 of this title and enacting provisions set out as a note under section 8438 of this title] may be cited as the ‘Thrift Savings Investment Funds Act of 1996’.”
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title I, § 201]], Sept. 30, 1996, 110 Stat. 3009–314, 3009–374, provided that: “This title [title II (§§ 201–207) of section 659 of section 101(f) of Pub. L. 104–208, amending this section and sections 5545a, 8351, 8433, 8435, and 8440a to 8440c of this title, repealing section 8431 of this title, enacting provisions set out as notes under sections 5545a and 8433 of this title, and amending provisions set out as a note under section 5343 of this title] may be cited as the ‘Thrift Savings Plan Act of 1996’.”
+Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title I, § 201]], Sept. 30, 1996, 110 Stat. 3009–314, 3009–374, provided that: “This title [title II (§§ 201–207) of section 659 of section 101(f) of Pub. L. 104–208, amending this section and sections 5545a, 8351, 8433, 8435, and 8440a to 8440c of this title, repealing section 8431 of this title, enacting provisions set out as notes under sections 5545a and 8433 of this title, and amending provisions set out as a note under section 5343 of this title] may be cited as the ‘Thrift Savings Plan Act of 1996’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–335, § 1, July 17, 1990, 104 Stat. 319, provided that: “This Act [enacting section 8432a of this title, amending this section and sections 3392, 8351, 8433 to 8435, 8438, 8440a, 8440b, and 8477 of this title, renumbering former section 8440a of this title as section 8440b, enacting provisions set out as notes under sections 3392, 8351, 8432a, 8433, 8434, and 8438 of this title, and amending provisions set out as a note under section 8477 of this title] may be cited as the ‘Thrift Savings Plan Technical Amendments Act of 1990’.”
+Pub. L. 101–335, § 1, July 17, 1990, 104 Stat. 319, provided that: “This Act [enacting section 8432a of this title, amending this section and sections 3392, 8351, 8433 to 8435, 8438, 8440a, 8440b, and 8477 of this title, renumbering former section 8440a of this title as section 8440b, enacting provisions set out as notes under sections 3392, 8351, 8432a, 8433, 8434, and 8438 of this title, and amending provisions set out as a note under section 8477 of this title] may be cited as the ‘Thrift Savings Plan Technical Amendments Act of 1990’.”
 
 **Short Title of 1987 Amendment**
 
-Pub. L. 100–43, § 1, May 22, 1987, 101 Stat. 315, provided: “That this Act [amending section 8438 of this title] may be cited as the ‘Thrift Savings Fund Investment Act of 1987’.”
+Pub. L. 100–43, § 1, May 22, 1987, 101 Stat. 315, provided: “That this Act [amending section 8438 of this title] may be cited as the ‘Thrift Savings Fund Investment Act of 1987’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–556, § 1, Oct. 27, 1986, 100 Stat. 3131, provided that: “This Act [enacting section 8478a of this title and section 4069 of Title 22, Foreign Relations and Intercourse, amending this section and sections 6301, 8332, 8350, 8402, 8411 to 8413, 8415, 8421a, 8442, 8443, 8452, 8457, 8461, 8462, 8477, 8478, and 8901 of this title and sections 4046, 4064, 4071c, 4071d, and 4071j of Title 22, enacting provisions set out as notes under sections 6301, 8331, 8332, 8335, 8341, 8477, and 8478 of this title and section 4046 of Title 22, and amending provisions set out as notes under sections 8331 and 8341 of this title] may be cited as the ‘Federal Employees’ Retirement System Technical Corrections Act of 1986’.”
+Pub. L. 99–556, § 1, Oct. 27, 1986, 100 Stat. 3131, provided that: “This Act [enacting section 8478a of this title and section 4069 of Title 22, Foreign Relations and Intercourse, amending this section and sections 6301, 8332, 8350, 8402, 8411 to 8413, 8415, 8421a, 8442, 8443, 8452, 8457, 8461, 8462, 8477, 8478, and 8901 of this title and sections 4046, 4064, 4071c, 4071d, and 4071j of Title 22, enacting provisions set out as notes under sections 6301, 8331, 8332, 8335, 8341, 8477, and 8478 of this title and section 4046 of Title 22, and amending provisions set out as notes under sections 8331 and 8341 of this title] may be cited as the ‘Federal Employees’ Retirement System Technical Corrections Act of 1986’.”
 
 **Short Title**
 
-Pub. L. 99–335, title I, § 100(a), June 6, 1986, 100 Stat. 514, provided that: “This Act [enacting this chapter, sections 8343a, 8349, 8350, and 8351 of this title, and sections 4068 and 4071 to 4071k of Title 22, Foreign Relations and Intercourse, amending sections 2105, 2109, 5102, 5314, 6301, 6303, 8116, 8331, 8332, 8334, 8342, 8347, 8348, 8701, 8706, 8714, 8714b, 8714c, 8901, and 8905 of this title, section 1605 of Title 10, Armed Forces, sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067 of Title 22, sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8351, 8432, and 8472 of this title, sections 3901 and 4046 of Title 22, and section 6103 of Title 26, and amending provisions set out as notes under section 8331 of this title and sections 402 and 403 of Title 50, War and National Defense] may be cited as the ‘Federal Employees’ Retirement System Act of 1986’.”
+Pub. L. 99–335, title I, § 100(a), June 6, 1986, 100 Stat. 514, provided that: “This Act [enacting this chapter, sections 8343a, 8349, 8350, and 8351 of this title, and sections 4068 and 4071 to 4071k of Title 22, Foreign Relations and Intercourse, amending sections 2105, 2109, 5102, 5314, 6301, 6303, 8116, 8331, 8332, 8334, 8342, 8347, 8348, 8701, 8706, 8714, 8714b, 8714c, 8901, and 8905 of this title, section 1605 of Title 10, Armed Forces, sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067 of Title 22, sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8351, 8432, and 8472 of this title, sections 3901 and 4046 of Title 22, and section 6103 of Title 26, and amending provisions set out as notes under section 8331 of this title and sections 402 and 403 of Title 50, War and National Defense] may be cited as the ‘Federal Employees’ Retirement System Act of 1986’.”
 
 **Regulations**
 
@@ -493,7 +493,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Election**
 
-Pub. L. 108–83, title I, § 104(b), Sept. 30, 2003, 117 Stat. 1018, provided that:
+Pub. L. 108–83, title I, § 104(b), Sept. 30, 2003, 117 Stat. 1018, provided that:
 
 > **“(1)** During the 60-day period which begins on the date of the enactment of the Legislative Branch Appropriations Act, 2004 [Sept. 30, 2003], any individual who, as of such date, is serving as a Member of the House of Representatives and on such date is not subject to chapter 84 of title 5, United States Code, may elect to become subject to such chapter.
 
@@ -503,13 +503,13 @@ Pub. L. 108–83, title I, § 104(b), Sept. 30, 2003, 117 Stat. 1018, provided
 
 **Service as Law Enforcement Officer**
 
-Pub. L. 104–52, title VI, § 640, Nov. 19, 1995, 109 Stat. 513, as amended by Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 629(a)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–362, provided that: “Hereafter, service performed during the period January 1, 1984, through December 31, 1986, which would, if performed after that period, be considered service as a law enforcement officer, as defined in section 8401(17)(A)(i)(II) and (B) of title 5, United States Code, shall be deemed service as a law enforcement officer for the purposes of chapter 84 of such title.”
+Pub. L. 104–52, title VI, § 640, Nov. 19, 1995, 109 Stat. 513, as amended by Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 629(a)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–362, provided that: “Hereafter, service performed during the period January 1, 1984, through December 31, 1986, which would, if performed after that period, be considered service as a law enforcement officer, as defined in section 8401(17)(A)(i)(II) and (B) of title 5, United States Code, shall be deemed service as a law enforcement officer for the purposes of chapter 84 of such title.”
 
-[Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 629(b)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–362, provided that: “The amendment made by subsection (a) [amending section 640 of Pub. L. 104–52, set out above] shall take effect as if included in Public Law 104–52 on the date of its enactment [Nov. 19, 1995].” ]
+[Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 629(b)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–362, provided that: “The amendment made by subsection (a) [amending section 640 of Pub. L. 104–52, set out above] shall take effect as if included in Public Law 104–52 on the date of its enactment [Nov. 19, 1995].” ]
 
 **Congressional Declaration of Purpose**
 
-Pub. L. 99–335, title I, § 100A, June 6, 1986, 100 Stat. 516, provided that:
+Pub. L. 99–335, title I, § 100A, June 6, 1986, 100 Stat. 516, provided that:
 
 > “The purposes of this Act [see Short Title note above] are—
 
@@ -529,17 +529,17 @@ Pub. L. 99–335, title I, § 100A, June 6, 1986, 100 Stat. 516, provided that
 
 **Use of Normal-Cost Percentage**
 
-Pub. L. 99–335, title III, § 307, June 6, 1986, 100 Stat. 607, as amended by Pub. L. 100–366, § 1, July 13, 1988, 102 Stat. 826, provided that: “Notwithstanding any other provision of law, the normal-cost percentage (as defined by section 8401(23) of title 5, United States Code, as added by this Act) of the Federal Employees’ Retirement System shall be used to value the cost of such System to the Civil Service Retirement and Disability Fund for all purposes in which the cost of the System is required to be determined by the Federal Government. For any comparisons between the cost of performing commercial activities under the contract with commercial sources and the cost of performing such activities using Government facilities and personnel, the cost of the System shall include the cost of such System to the Civil Service Retirement and Disability Fund as specified in the preceding sentence, the cost of the thrift savings plan under subchapter III of chapter 84 of title 5, United States Code, and the cost of social security.”
+Pub. L. 99–335, title III, § 307, June 6, 1986, 100 Stat. 607, as amended by Pub. L. 100–366, § 1, July 13, 1988, 102 Stat. 826, provided that: “Notwithstanding any other provision of law, the normal-cost percentage (as defined by section 8401(23) of title 5, United States Code, as added by this Act) of the Federal Employees’ Retirement System shall be used to value the cost of such System to the Civil Service Retirement and Disability Fund for all purposes in which the cost of the System is required to be determined by the Federal Government. For any comparisons between the cost of performing commercial activities under the contract with commercial sources and the cost of performing such activities using Government facilities and personnel, the cost of the System shall include the cost of such System to the Civil Service Retirement and Disability Fund as specified in the preceding sentence, the cost of the thrift savings plan under subchapter III of chapter 84 of title 5, United States Code, and the cost of social security.”
 
 **First Cost-of-Living Adjustment**
 
-Pub. L. 99–335, title VII, § 702(c), June 6, 1986, 100 Stat. 631, provided that:
+Pub. L. 99–335, title VII, § 702(c), June 6, 1986, 100 Stat. 631, provided that:
 
 > **“(1)** For purposes of the first adjustment under subsection (b) of section 8462 of title 5, United States Code (as added by section 101 of this Act), the base quarter ending on September 30, 1986, shall be considered to have been the base quarter for a year in which an adjustment under such subsection was made.
 
 > **“(2)** As used in paragraph (1), the term ‘base quarter’ has the meaning provided by section 8462(a)(1) of title 5, United States Code (as added by section 101 of this Act).”
 
-### § 8402. Federal Employees’ Retirement System; exclusions
+### § 8402. Federal Employees’ Retirement System; exclusions
 
 **(a)** The provisions of this chapter comprise the Federal Employees’ Retirement System.
 
@@ -613,7 +613,7 @@ except to the extent provided for under subsection (d) of this section or title 
 
 **(g)** A judge of the United States Court of Federal Claims who is covered by section 178 of title 28 shall be excluded from the operation of this chapter, other than subchapters III and VII of such chapter, if the judge notifies the Director of the Administrative Office of the United States Courts of an election of a retirement annuity under those provisions. Upon such election, the judge shall be entitled to a lump-sum credit under section 8424 of this title.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 521; amended Pub. L. 99–556, title I, § 116, Oct. 27, 1986, 100 Stat. 3134; Pub. L. 100–238, title I, § 130, Jan. 8, 1988, 101 Stat. 1759; Pub. L. 100–659, § 6(c), Nov. 15, 1988, 102 Stat. 3919; Pub. L. 101–94, title I, § 102(b), Aug. 16, 1989, 103 Stat. 626; Pub. L. 101–474, § 5(p), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–650, title III, §§ 306(e)(3), 321, Dec. 1, 1990, 104 Stat. 5112, 5117; Pub. L. 102–40, title IV, § 402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–198, § 7(d), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–53, title I, § 115, Nov. 19, 1995, 109 Stat. 527; Pub. L. 104–186, title II, § 215(13), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 105–274, § 6(a), Oct. 21, 1998, 112 Stat. 2424; Pub. L. 106–168, title II, § 202(b), Dec. 12, 1999, 113 Stat. 1818; Pub. L. 109–435, title VI, § 604(b), Dec. 20, 2006, 120 Stat. 3241.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 521; amended Pub. L. 99–556, title I, § 116, Oct. 27, 1986, 100 Stat. 3134; Pub. L. 100–238, title I, § 130, Jan. 8, 1988, 101 Stat. 1759; Pub. L. 100–659, § 6(c), Nov. 15, 1988, 102 Stat. 3919; Pub. L. 101–94, title I, § 102(b), Aug. 16, 1989, 103 Stat. 626; Pub. L. 101–474, § 5(p), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–650, title III, §§ 306(e)(3), 321, Dec. 1, 1990, 104 Stat. 5112, 5117; Pub. L. 102–40, title IV, § 402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–198, § 7(d), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–53, title I, § 115, Nov. 19, 1995, 109 Stat. 527; Pub. L. 104–186, title II, § 215(13), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 105–274, § 6(a), Oct. 21, 1998, 112 Stat. 2424; Pub. L. 106–168, title II, § 202(b), Dec. 12, 1999, 113 Stat. 1818; Pub. L. 109–435, title VI, § 604(b), Dec. 20, 2006, 120 Stat. 3241.)
 
 **Editorial Notes**
 
@@ -623,7 +623,7 @@ Section 210(a)(5) of the Social Security Act, referred to in subsec. (b)(1), is 
 
 The Federal Employees’ Retirement System Act of 1986, referred to in subsec. (b), is Pub. L. 99–335, June 6, 1986, 100 Stat. 514. Title III of the Federal Employees’ Retirement System Act of 1986 amended sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, enacted provisions set out as notes under sections 8331, 8401, 8432, and 8472 of this title and section 6103 of Title 26, and amended provisions set out as a note under section 8331 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8401 of this title and Tables.
 
-The Foreign Service Act of 1980, referred to in subsecs. (b)(2)(A)(i)(II), (ii)(II) and (d)(1)(A), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Subchapters I and II of chapter 8 of title I of the Act are classified generally to parts I (§ 4041 et seq.) and II (§ 4071 et seq.), respectively, of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in subsecs. (b)(2)(A)(i)(II), (ii)(II) and (d)(1)(A), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Subchapters I and II of chapter 8 of title I of the Act are classified generally to parts I (§ 4041 et seq.) and II (§ 4071 et seq.), respectively, of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 Section 10 of the Federal Reserve Act, referred to in subsecs. (b)(2)(A)(i)(III), (ii)(III) and (d)(1)(B), is section 10 of act Dec. 23, 1913, ch. 6, 38 Stat. 260. For classification of section 10 to the Code, see Codification note set out under section 241 of Title 12, Banks and Banking, and Tables.
 
@@ -633,13 +633,13 @@ Section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges 
 
 2006—Subsec. (c)(1). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
-1999—Subsec. (b)(2)(A). Pub. L. 106–168, § 202(b)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “any employee or Member who has separated from the service after—
+1999—Subsec. (b)(2)(A). Pub. L. 106–168, § 202(b)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “any employee or Member who has separated from the service after—
 
 “(i) having been subject to subchapter III of chapter 83 of this title, or subchapter I of chapter 8 of the Foreign Service Act of 1980; and
 
 “(ii) having completed at least 5 years of civilian service creditable under subchapter III of chapter 83 of this title, or at least 5 years of civilian service creditable under subchapter I of the Foreign Service Act of 1980 (determined without regard to any deposit or redeposit requirement under either such subchapter, or any requirement that the individual become subject to either such subchapter after performing the service involved); or”.
 
-Subsec. (d). Pub. L. 106–168, § 202(b)(2), amended subsec. (d) generally. Prior to amendment, text read as follows: “Paragraph (2) of subsection (b) shall not apply to an individual who becomes subject to subchapter II of chapter 8 of title I of the Foreign Service Act of 1980 (relating to the Foreign Service Pension System) pursuant to an election and who subsequently enters a position in which, but for such paragraph (2), he would be subject to this chapter.”
+Subsec. (d). Pub. L. 106–168, § 202(b)(2), amended subsec. (d) generally. Prior to amendment, text read as follows: “Paragraph (2) of subsection (b) shall not apply to an individual who becomes subject to subchapter II of chapter 8 of title I of the Foreign Service Act of 1980 (relating to the Foreign Service Pension System) pursuant to an election and who subsequently enters a position in which, but for such paragraph (2), he would be subject to this chapter.”
 
 1998—Subsec. (c)(9). Pub. L. 105–274 added par. (9).
 
@@ -659,9 +659,9 @@ Subsec. (g). Pub. L. 101–650 added subsec. (g).
 
 1989—Subsec. (f). Pub. L. 101–94 added subsec. (f).
 
-1988—Subsec. (b)(2). Pub. L. 100–238, § 130(1), inserted “subsection (d) of this section or” before “title III” in concluding provisions.
+1988—Subsec. (b)(2). Pub. L. 100–238, § 130(1), inserted “subsection (d) of this section or” before “title III” in concluding provisions.
 
-Subsec. (d). Pub. L. 100–238, § 130(2), added subsec. (d).
+Subsec. (d). Pub. L. 100–238, § 130(2), added subsec. (d).
 
 Subsec. (e). Pub. L. 100–659 added subsec. (e).
 
@@ -675,7 +675,7 @@ Words “magistrate judge” substituted for “magistrate” wherever appearing
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–168, title II, § 202(d), Dec. 12, 1999, 113 Stat. 1819, provided that:
+Pub. L. 106–168, title II, § 202(d), Dec. 12, 1999, 113 Stat. 1819, provided that:
 
 > **“(1) In general.—** Subject to succeeding provisions of this subsection, this section [amending this section and section 8411 of this title and enacting provisions set out as a note under this section] and the amendments made by this section shall take effect on the date of the enactment of this Act [Dec. 12, 1999].
 
@@ -685,7 +685,7 @@ Pub. L. 106–168, title II, § 202(d), Dec. 12, 1999, 113 Stat. 1819, provide
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–274, § 10, Oct. 21, 1998, 112 Stat. 2429, provided that: “Except as otherwise specifically provided, this Act [amending this section and enacting provisions set out as a note under section 8401 of this title] and the amendments made by this Act shall take effect as if included in the enactment of title XI of the Balanced Budget Act of 1997 [Pub. L. 105–33].”
+Pub. L. 105–274, § 10, Oct. 21, 1998, 112 Stat. 2429, provided that: “Except as otherwise specifically provided, this Act [amending this section and enacting provisions set out as a note under section 8401 of this title] and the amendments made by this Act shall take effect as if included in the enactment of title XI of the Balanced Budget Act of 1997 [Pub. L. 105–33].”
 
 **Effective Date of 1992 Amendment**
 
@@ -701,7 +701,7 @@ Amendment by Pub. L. 100–659 effective Nov. 15, 1988, and applicable to bankru
 
 **Provisions Relating to Certain Former Employees**
 
-Pub. L. 106–168, title II, § 202(c), Dec. 12, 1999, 113 Stat. 1819, provided that:
+Pub. L. 106–168, title II, § 202(c), Dec. 12, 1999, 113 Stat. 1819, provided that:
 
 > “A former employee of the Board of Governors of the Federal Reserve System who—
 
@@ -713,27 +713,27 @@ Pub. L. 106–168, title II, § 202(c), Dec. 12, 1999, 113 Stat. 1819, provide
 
 > shall, for purposes of section 302 of the Federal Employees’ Retirement System Act of 1986 [Pub. L. 99–335] (100 Stat. 601; 5 U.S.C. 8331 note) be considered to have become subject to chapter 84 of title 5, United States Code, pursuant to an election under section 301 of such Act [5 U.S.C. 8331 note].”
 
-### § 8403. Relationship to the Social Security Act
+### § 8403. Relationship to the Social Security Act
 
 Except as otherwise provided in this chapter, the benefits payable under the System are in addition to the benefits payable under the Social Security Act.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 522.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 522.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 ## SUBCHAPTER II—BASIC ANNUITY
 
-### § 8410. Eligibility for annuity
+### § 8410. Eligibility for annuity
 
 Notwithstanding any other provision of this chapter, an employee or Member must complete at least 5 years of civilian service creditable under section 8411 in order to be eligible for an annuity under this subchapter.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 522.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 522.)
 
-### § 8411. Creditable service
+### § 8411. Creditable service
 
 **(a)**
 
@@ -749,9 +749,9 @@ Notwithstanding any other provision of this chapter, an employee or Member must 
 
 **(3)** except as provided in subsection (f) or (h), any civilian service (performed before January 1, 1989, other than any service under paragraph (1) or (2)) which, but for the amendments made by subsections (a)(4) and (b) of section 202 of the Federal Employees’ Retirement System Act of 1986, would be creditable under subchapter III of chapter 83 of this title (determined without regard to any deposit or redeposit requirement under such subchapter, any requirement that the individual become subject to such subchapter after performing the service involved, or any requirement that the individual give notice in writing to the official by whom such individual is paid of such individual’s desire to become subject to such subchapter);
 
-**(4)** a period of service (other than any service under any other paragraph of this subsection and other than any military service) that was creditable under the Foreign Service Pension System described in subchapter II of chapter 8 1
+**(4)** a period of service (other than any service under any other paragraph of this subsection and other than any military service) that was creditable under the Foreign Service Pension System described in subchapter II of chapter 8 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Foreign Service Act of 1980, if the employee or Member waives credit for such service under the Foreign Service Pension System and makes a payment to the Fund equal to the amount that would have been deducted from pay under section 8422(a) had the employee been subject to this chapter during such period of service (together with interest on such amount computed under paragraphs (2) and (3) of section 8334(e));
 
@@ -837,15 +837,15 @@ shall be treated for all purposes of this subchapter as if any service that woul
 
 **(h)** An employee or Member shall be allowed credit for service as a volunteer or volunteer leader under part A of title VIII of the Economic Opportunity Act of 1964, as a full-time volunteer enrolled in a program of at least 1 year’s duration under part A, B,<sup>1</sup> or C of title I of the Domestic Volunteer Service Act of 1973, or as a volunteer or volunteer leader under the Peace Corps Act performed at any time prior to the separation on which the entitlement to any annuity under this subchapter is based if the employee or Member has made a deposit with interest, if any, with respect to such service under section 8422(f).
 
-**(i)**  2
+**(i)** 2
 
-<sup>2</sup>  So in original. Two subsecs. (i) have been enacted.
+<sup>2</sup> So in original. Two subsecs. (i) have been enacted.
 
 For purposes of subsection (b)(5), the term “Bank Plan” means the benefit structure in which employees of the Board of Governors of the Federal Reserve System appointed on or after January 1, 1984, participate, which benefit structure is a component of the Retirement Plan for Employees of the Federal Reserve System, established under section 10 of the Federal Reserve Act (and any redesignated or successor version of such benefit structure, if so identified in writing by the Board of Governors of the Federal Reserve System for purposes of this chapter).
 
 **(i)**
 
-**(1)**  <sup>2</sup> Upon application to the Office of Personnel Management, any individual who was an employee on the date of enactment of this paragraph, and who has on such date or thereafter acquired 5 years or more of creditable civilian service under this section (exclusive of service for which credit is allowed under this subsection) shall be allowed credit (as service as a congressional employee) for service before December 31, 1990, while employed by the Democratic Senatorial Campaign Committee, the Republican Senatorial Campaign Committee, the Democratic National Congressional Committee, or the Republican National Congressional Committee, if—
+**(1)** <sup>2</sup> Upon application to the Office of Personnel Management, any individual who was an employee on the date of enactment of this paragraph, and who has on such date or thereafter acquired 5 years or more of creditable civilian service under this section (exclusive of service for which credit is allowed under this subsection) shall be allowed credit (as service as a congressional employee) for service before December 31, 1990, while employed by the Democratic Senatorial Campaign Committee, the Republican Senatorial Campaign Committee, the Democratic National Congressional Committee, or the Republican National Congressional Committee, if—
 
 **(A)** such employee has at least 4 years and 6 months of service on such committees as of December 31, 1990; and
 
@@ -857,9 +857,9 @@ For purposes of subsection (b)(5), the term “Bank Plan” means the benefit st
 
 **(k)**
 
-**(1)**  3
+**(1)** 3
 
-<sup>3</sup>  So in original. No subsec. (j) has been enacted.
+<sup>3</sup> So in original. No subsec. (j) has been enacted.
 
 The Office of Personnel Management shall accept, for the purposes of this chapter, the certification of the head of a nonappropriated fund instrumentality of the United States concerning service of the type described in subsection (b)(6) that was performed for such nonappropriated fund instrumentality.
 
@@ -899,7 +899,7 @@ The Office of Personnel Management shall accept, for the purposes of this chapte
 
 **(C)** the term “child” has the meaning given such term by section 8441.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 522; amended Pub. L. 99–556, title I, § 103, title V, § 502(b), Oct. 27, 1986, 100 Stat. 3131, 3140; Pub. L. 100–238, title I, §§ 104(b), 105(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–242, title IV, § 466(b), Dec. 19, 1991, 105 Stat. 2385; Pub. L. 103–82, title III, § 371(b)(1), Sept. 21, 1993, 107 Stat. 910; Pub. L. 103–337, div. A, title XVI, § 1677(a)(3), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–201, div. A, title VI, § 637(b), Sept. 23, 1996, 110 Stat. 2580; Pub. L. 106–168, title II, § 202(a), Dec. 12, 1999, 113 Stat. 1817; Pub. L. 106–554, § 1(a)(4) [div. A, § 901(a)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–196; Pub. L. 107–107, div. A, title XI, § 1132(b)(1), Dec. 28, 2001, 115 Stat. 1243; Pub. L. 110–81, title IV, § 401(b), Sept. 14, 2007, 121 Stat. 756; Pub. L. 112–105, § 15(a)(2), Apr. 4, 2012, 126 Stat. 301.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 522; amended Pub. L. 99–556, title I, § 103, title V, § 502(b), Oct. 27, 1986, 100 Stat. 3131, 3140; Pub. L. 100–238, title I, §§ 104(b), 105(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–242, title IV, § 466(b), Dec. 19, 1991, 105 Stat. 2385; Pub. L. 103–82, title III, § 371(b)(1), Sept. 21, 1993, 107 Stat. 910; Pub. L. 103–337, div. A, title XVI, § 1677(a)(3), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–201, div. A, title VI, § 637(b), Sept. 23, 1996, 110 Stat. 2580; Pub. L. 106–168, title II, § 202(a), Dec. 12, 1999, 113 Stat. 1817; Pub. L. 106–554, § 1(a)(4) [div. A, § 901(a)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–196; Pub. L. 107–107, div. A, title XI, § 1132(b)(1), Dec. 28, 2001, 115 Stat. 1243; Pub. L. 110–81, title IV, § 401(b), Sept. 14, 2007, 121 Stat. 756; Pub. L. 112–105, § 15(a)(2), Apr. 4, 2012, 126 Stat. 301.)
 
 **Editorial Notes**
 
@@ -909,17 +909,17 @@ Section 204(a)(1) of the Federal Employees’ Retirement Contribution Temporary 
 
 Subsections (a)(4) and (b) of section 202 of the Federal Employees’ Retirement System Act of 1986 [Pub. L. 99–335], referred to in subsec. (b)(3), amended section 8331(1) and (2) of this title.
 
-The Foreign Service Act of 1980, referred to in subsec. (b)(4), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Subchapter II of chapter 8 of the Act probably means subchapter II of chapter 8 of title I of the Act which is classified generally to part II (§ 4071 et seq.) of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (b)(4), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Subchapter II of chapter 8 of the Act probably means subchapter II of chapter 8 of title I of the Act which is classified generally to part II (§ 4071 et seq.) of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
-Chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in subsec. (c)(2)(B), means chapter 67 (§ 1331 et seq.) of Title 10, Armed Forces, prior to its transfer to part II of subtitle E of Title 10, its renumbering as chapter 1223, and its general revision by section 1662(j)(1) of Pub. L. 103–337. A new chapter 67 (§ 1331) of Title 10 was added by section 1662(j)(7) of Pub. L. 103–337. For effective date of the Reserve Officer Personnel Management Act (Pub. L. 103–337, title XVI), see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10.
+Chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in subsec. (c)(2)(B), means chapter 67 (§ 1331 et seq.) of Title 10, Armed Forces, prior to its transfer to part II of subtitle E of Title 10, its renumbering as chapter 1223, and its general revision by section 1662(j)(1) of Pub. L. 103–337. A new chapter 67 (§ 1331) of Title 10 was added by section 1662(j)(7) of Pub. L. 103–337. For effective date of the Reserve Officer Personnel Management Act (Pub. L. 103–337, title XVI), see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10.
 
 Section 10 of the Federal Reserve Act, referred to in subsecs. (g) and (i), is section 10 of act Dec. 23, 1913, ch. 6, 38 Stat. 260. For classification of section 10 to the Code, see Codification note set out under section 241 of Title 12, Banks and Banking, and Tables.
 
-The Economic Opportunity Act of 1964, referred to in subsec. (h), is Pub. L. 88–452, Aug. 20, 1964, 73 Stat. 508. Part A of title VIII of that Act is part A of title VIII of Pub. L. 88–452 as added by Pub. L. 90–222, title I, § 110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to part A (§ 2992 et seq.) of subchapter VIII of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by Pub. L. 93–113, title VI, § 603, Oct. 1, 1973, 87 Stat. 417. See sections 4951 et seq. and 5055 of Title 42.
+The Economic Opportunity Act of 1964, referred to in subsec. (h), is Pub. L. 88–452, Aug. 20, 1964, 73 Stat. 508. Part A of title VIII of that Act is part A of title VIII of Pub. L. 88–452 as added by Pub. L. 90–222, title I, § 110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to part A (§ 2992 et seq.) of subchapter VIII of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by Pub. L. 93–113, title VI, § 603, Oct. 1, 1973, 87 Stat. 417. See sections 4951 et seq. and 5055 of Title 42.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (h), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Parts A and C of title I of the Act are classified generally to parts A (§ 4951 et seq.) and C (§ 4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42, The Public Health and Welfare. Part B of title I of the Act, which was classified generally to part B (§ 4971 et seq.) of subchapter I of chapter 66 of Title 42, was repealed by Pub. L. 111–13, title II, § 2121, Apr. 21, 2009, 123 Stat. 1584. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (h), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Parts A and C of title I of the Act are classified generally to parts A (§ 4951 et seq.) and C (§ 4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42, The Public Health and Welfare. Part B of title I of the Act, which was classified generally to part B (§ 4971 et seq.) of subchapter I of chapter 66 of Title 42, was repealed by Pub. L. 111–13, title II, § 2121, Apr. 21, 2009, 123 Stat. 1584. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
 
-The Peace Corps Act, referred to in subsec. (h), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
+The Peace Corps Act, referred to in subsec. (h), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
 The date of enactment of this paragraph, referred to in subsec. (i)(1), is the date of enactment of Pub. L. 106–554, which was approved Dec. 21, 2000.
 
@@ -927,43 +927,43 @@ The date of enactment of this subsection, referred to in subsec. (*l*)(2)(C), is
 
 **Amendments**
 
-2012—Subsec. (*l*)(2)(A), (B). Pub. L. 112–105 inserted “, the President, the Vice President, or an elected official of a State or local government” after “Member”.
+2012—Subsec. (*l*)(2)(A), (B). Pub. L. 112–105 inserted “, the President, the Vice President, or an elected official of a State or local government” after “Member”.
 
 2007—Subsec. (*l*). Pub. L. 110–81 added subsec. (*l*).
 
-2001—Subsec. (b)(6). Pub. L. 107–107, § 1132(b)(1)(A), added par. (6).
+2001—Subsec. (b)(6). Pub. L. 107–107, § 1132(b)(1)(A), added par. (6).
 
-Subsec. (k). Pub. L. 107–107, § 1132(b)(1)(B), added subsec. (k).
+Subsec. (k). Pub. L. 107–107, § 1132(b)(1)(B), added subsec. (k).
 
 2000—Subsec. (i). Pub. L. 106–554 added subsec. (i) relating to credit for service as congressional employee for certain service before Dec. 31, 1990.
 
-1999—Subsec. (b). Pub. L. 106–168, § 202(a)(1), in par. (3), struck out “and” at end, in par. (4), substituted “other paragraph” for “of the preceding provisions” and “; and” for period at end, and added par. (5) and concluding provisions.
+1999—Subsec. (b). Pub. L. 106–168, § 202(a)(1), in par. (3), struck out “and” at end, in par. (4), substituted “other paragraph” for “of the preceding provisions” and “; and” for period at end, and added par. (5) and concluding provisions.
 
-Subsec. (i). Pub. L. 106–168, § 202(a)(2), added subsec. (i) defining “Bank Plan” for purposes of subsec. (b)(5).
+Subsec. (i). Pub. L. 106–168, § 202(a)(2), added subsec. (i) defining “Bank Plan” for purposes of subsec. (b)(5).
 
-1996—Subsec. (c)(1). Pub. L. 104–201, § 637(b)(2), in introductory provisions, substituted “Except as provided in paragraphs (2), (3), and (5)” for “Except as provided in paragraph (2) or (3)”.
+1996—Subsec. (c)(1). Pub. L. 104–201, § 637(b)(2), in introductory provisions, substituted “Except as provided in paragraphs (2), (3), and (5)” for “Except as provided in paragraph (2) or (3)”.
 
-Subsec. (c)(5). Pub. L. 104–201, § 637(b)(1), added par. (5).
+Subsec. (c)(5). Pub. L. 104–201, § 637(b)(1), added par. (5).
 
 1994—Subsec. (c)(2)(B). Pub. L. 103–337 substituted “chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “chapter 67 of title 10”.
 
-1993—Subsec. (b)(3). Pub. L. 103–82, § 371(b)(1)(A), substituted “subsection (f) or (h)” for “subsection (f)”.
+1993—Subsec. (b)(3). Pub. L. 103–82, § 371(b)(1)(A), substituted “subsection (f) or (h)” for “subsection (f)”.
 
-Subsec. (h). Pub. L. 103–82, § 371(b)(1)(B), added subsec. (h).
+Subsec. (h). Pub. L. 103–82, § 371(b)(1)(B), added subsec. (h).
 
 1991—Subsec. (c)(2)(A)(ii). Pub. L. 102–83 substituted “section 1101 of title 38” for “section 301 of title 38”.
 
 Subsec. (g). Pub. L. 102–242 added subsec. (g).
 
-1988—Subsec. (c)(4)(A). Pub. L. 100–238, § 104(b), substituted “section 8422(e)(5)” for “subsection (f)(4)” in concluding provisions.
+1988—Subsec. (c)(4)(A). Pub. L. 100–238, § 104(b), substituted “section 8422(e)(5)” for “subsection (f)(4)” in concluding provisions.
 
-Subsec. (f)(1). Pub. L. 100–238, § 105(a), inserted at end “A deposit under this paragraph may be made only with respect to a refund received pursuant to an application filed with the Office before the date on which the employee or Member first becomes subject to this chapter.”
+Subsec. (f)(1). Pub. L. 100–238, § 105(a), inserted at end “A deposit under this paragraph may be made only with respect to a refund received pursuant to an application filed with the Office before the date on which the employee or Member first becomes subject to this chapter.”
 
-1986—Subsec. (b)(2). Pub. L. 99–556, § 103(1), inserted “except as provided in subsection (f),”.
+1986—Subsec. (b)(2). Pub. L. 99–556, § 103(1), inserted “except as provided in subsection (f),”.
 
-Subsec. (c)(4). Pub. L. 99–556, § 502(b), added par. (4).
+Subsec. (c)(4). Pub. L. 99–556, § 502(b), added par. (4).
 
-Subsec. (f)(1). Pub. L. 99–556, § 103(2), inserted “(b)(2) or”.
+Subsec. (f)(1). Pub. L. 99–556, § 103(2), inserted “(b)(2) or”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1001,7 +1001,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Retirement Credit for Certain Government Service Performed Abroad**
 
-Pub. L. 107–228, div. A, title III, § 321, Sept. 30, 2002, 116 Stat. 1380, provided that:
+Pub. L. 107–228, div. A, title III, § 321, Sept. 30, 2002, 116 Stat. 1380, provided that:
 
 > **“(a) Retirement Credit for Certain Government Service Performed Abroad.—** Subject to subsection (b)(1), credit under chapter 84 of title 5, United States Code, shall be allowed for any service performed by an individual if or to the extent that—
 
@@ -1111,7 +1111,7 @@ Pub. L. 107–228, div. A, title III, § 321, Sept. 30, 2002, 116 Stat. 1380, 
 
 [For definitions of “Department” and “Secretary” as used in section 321 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of Title 22, Foreign Relations and Intercourse.]
 
-### § 8412. Immediate retirement
+### § 8412. Immediate retirement
 
 **(a)** An employee or Member who is separated from the service after attaining the applicable minimum retirement age under subsection (h) and completing 30 years of service is entitled to an annuity.
 
@@ -1207,7 +1207,7 @@ is entitled to an annuity.
 
 **(B)** For an individual whose date of birth occurs during the 5-year period consisting of calendar years 1965 through 1969, the age increase factor shall be equal to two-twelfths times the number of months in the period beginning with January 1965 and ending with December of the year in which the date of birth occurs.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 524; amended Pub. L. 99–556, title I, § 105(a), Oct. 27, 1986, 100 Stat. 3131; Pub. L. 101–428, § 3(a), Oct. 15, 1990, 104 Stat. 929; Pub. L. 105–261, div. C, title XXXI, § 3154(g), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–553, § 1(a)(2) [title III, § 308(c)(1)], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 110–161, div. E, title V, § 535(b)(2), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 117–225, § 3(b)(1), Dec. 9, 2022, 136 Stat. 2294.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 524; amended Pub. L. 99–556, title I, § 105(a), Oct. 27, 1986, 100 Stat. 3131; Pub. L. 101–428, § 3(a), Oct. 15, 1990, 104 Stat. 929; Pub. L. 105–261, div. C, title XXXI, § 3154(g), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–553, § 1(a)(2) [title III, § 308(c)(1)], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 110–161, div. E, title V, § 535(b)(2), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 117–225, § 3(b)(1), Dec. 9, 2022, 136 Stat. 2294.)
 
 **Editorial Notes**
 
@@ -1237,7 +1237,7 @@ Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the f
 
 **Effective Date of 2000 Amendment**
 
-Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual who is employed as a member of the Supreme Court Police after Dec. 21, 2000, see section 1(a)(2) [title III, § 308(i), (j)] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
+Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual who is employed as a member of the Supreme Court Police after Dec. 21, 2000, see section 1(a)(2) [title III, § 308(i), (j)] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
 
 **Effective Date of 1998 Amendment**
 
@@ -1247,7 +1247,7 @@ Amendment by Pub. L. 105–261 effective at the beginning of the first pay perio
 
 For provisions relating to promulgation of regulations to carry out the amendments made by Pub. L. 117–225, see section 3(e) of Pub. L. 117–225, set out as a note under section 8336 of this title.
 
-### § 8412a. Phased retirement
+### § 8412a. Phased retirement
 
 **(a)** For the purposes of this section—
 
@@ -1397,7 +1397,7 @@ For provisions relating to promulgation of regulations to carry out the amendmen
 
 **(o)** For purposes of chapter 87, a phased retiree shall be deemed to be receiving basic pay at the rate of a full-time employee in the position to which the phased retiree is appointed.
 
-(Added Pub. L. 112–141, div. F, title I, § 100121(b)(1), July 6, 2012, 126 Stat. 910.)
+(Added Pub. L. 112–141, div. F, title I, § 100121(b)(1), July 6, 2012, 126 Stat. 910.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1405,7 +1405,7 @@ For provisions relating to promulgation of regulations to carry out the amendmen
 
 Section effective on Nov. 6, 2014, see section 100121(d) of Pub. L. 112–141, set out as an Effective Date of 2012 Amendment note under section 8331 of this title.
 
-### § 8413. Deferred retirement
+### § 8413. Deferred retirement
 
 **(a)** An employee or Member who is separated from the service, or transferred to a position in which the employee or Member does not continue subject to this chapter, after completing 5 years of service is entitled to an annuity beginning at the age of 62 years.
 
@@ -1421,7 +1421,7 @@ Section effective on Nov. 6, 2014, see section 100121(d) of Pub. L. 112–141, s
 
 **(3)** The election of an annuity under this subsection extinguishes the right of the employee or Member to receive any other annuity based on the service on which the annuity under this subsection is based.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 525; amended Pub. L. 99–556, title I, § 105(b)(1), Oct. 27, 1986, 100 Stat. 3132.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 525; amended Pub. L. 99–556, title I, § 105(b)(1), Oct. 27, 1986, 100 Stat. 3132.)
 
 **Editorial Notes**
 
@@ -1429,7 +1429,7 @@ Section effective on Nov. 6, 2014, see section 100121(d) of Pub. L. 112–141, s
 
 1986—Subsec. (b)(1). Pub. L. 99–556 inserted “but before attaining the applicable minimum retirement age under section 8412(h)” in first sentence and substituted “such minimum retirement age” for “the applicable minimum retirement age under section 8412(h)” in second sentence.
 
-### § 8414. Early retirement
+### § 8414. Early retirement
 
 **(a)**
 
@@ -1453,9 +1453,9 @@ Section effective on Nov. 6, 2014, see section 100121(d) of Pub. L. 112–141, s
 
 **(iii)** has not been duly notified that such employee is to be involuntarily separated for misconduct or unacceptable performance;
 
-**(iv)** is separate 1
+**(iv)** is separate 1
 
-<sup>1</sup>  So in original. Probably should be “separated”.
+<sup>1</sup> So in original. Probably should be “separated”.
 
 from the service voluntarily during a period in which, as determined by the Office of Personnel Management (upon request of the agency) under regulations prescribed by the Office—
 
@@ -1479,7 +1479,7 @@ from the service voluntarily during a period in which, as determined by the Offi
 
 **(VI)** any appropriate combination of such factors.2
 
-<sup>2</sup>  So in original. Probably should be a semicolon.
+<sup>2</sup> So in original. Probably should be a semicolon.
 
 after completing 25 years of service, or after becoming 50 years of age and completing 20 years of service, is entitled to an annuity.
 
@@ -1567,7 +1567,7 @@ is entitled to an annuity.
 
 **(iv)** to reduce the number of high-grade, managerial, supervisory, or similar positions.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 526; amended Pub. L. 100–325, § 2(m), May 30, 1988, 102 Stat. 583; Pub. L. 101–194, title V, § 506(b)(9), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 105–261, div. A, title XI, § 1109(b), Oct. 17, 1998, 112 Stat. 2144; Pub. L. 106–58, title VI, § 651(b), Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–65, div. A, title V, § 522(b), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–398, § 1 [[div. A], title XI, § 1152(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–321; Pub. L. 107–296, title XIII, §§ 1313(b)(2), 1321(a)(5)(A), Nov. 25, 2002, 116 Stat. 2295, 2297; Pub. L. 117–225, § 3(b)(2)(A)(i), Dec. 9, 2022, 136 Stat. 2295.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 526; amended Pub. L. 100–325, § 2(m), May 30, 1988, 102 Stat. 583; Pub. L. 101–194, title V, § 506(b)(9), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 105–261, div. A, title XI, § 1109(b), Oct. 17, 1998, 112 Stat. 2144; Pub. L. 106–58, title VI, § 651(b), Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–65, div. A, title V, § 522(b), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–398, § 1 [[div. A], title XI, § 1152(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–321; Pub. L. 107–296, title XIII, §§ 1313(b)(2), 1321(a)(5)(A), Nov. 25, 2002, 116 Stat. 2295, 2297; Pub. L. 117–225, § 3(b)(2)(A)(i), Dec. 9, 2022, 136 Stat. 2295.)
 
 **Editorial Notes**
 
@@ -1575,31 +1575,31 @@ is entitled to an annuity.
 
 2022—Subsec. (b)(3). Pub. L. 117–225 inserted “(1)” after “subsection (d)”.
 
-2002—Subsec. (a)(1). Pub. L. 107–296, § 1321(a)(5)(A), struck out “for failure to be recertified as a senior executive under section 3393a or” before “for less than fully”.
+2002—Subsec. (a)(1). Pub. L. 107–296, § 1321(a)(5)(A), struck out “for failure to be recertified as a senior executive under section 3393a or” before “for less than fully”.
 
-Subsec. (b)(1)(B). Pub. L. 107–296, § 1313(b)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “except in the case of an employee who is separated from the service under a program carried out under subsection (d), while serving in a geographic area designated by the Director, is separated from the service voluntarily during a period in which (as determined by the Director)—
+Subsec. (b)(1)(B). Pub. L. 107–296, § 1313(b)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “except in the case of an employee who is separated from the service under a program carried out under subsection (d), while serving in a geographic area designated by the Director, is separated from the service voluntarily during a period in which (as determined by the Director)—
 
 “(i) the agency in which the employee is serving is undergoing a major reorganization, a major reduction in force, or a major transfer of function; and
 
 “(ii) a significant percentage of the total number of employees serving in such agency will be separated or subject to an immediate reduction in the rate of basic pay (without regard to subchapter VI of chapter 53 of this title or comparable provisions);”.
 
-2000—Subsec. (b)(1)(B). Pub. L. 106–398, § 1 [[div. A], title XI, § 1152(b)(1)], inserted “except in the case of an employee who is separated from the service under a program carried out under subsection (d),” before “while serving” in introductory provisions.
+2000—Subsec. (b)(1)(B). Pub. L. 106–398, § 1 [[div. A], title XI, § 1152(b)(1)], inserted “except in the case of an employee who is separated from the service under a program carried out under subsection (d),” before “while serving” in introductory provisions.
 
-Subsec. (d). Pub. L. 106–398, § 1 [[div. A], title XI, § 1152(b)(2)], added subsec. (d).
+Subsec. (d). Pub. L. 106–398, § 1 [[div. A], title XI, § 1152(b)(2)], added subsec. (d).
 
-1999—Subsec. (b)(1)(B). Pub. L. 106–58 repealed Pub. L. 105–261, § 1109(b)(1). See 1998 Amendment note below.
+1999—Subsec. (b)(1)(B). Pub. L. 106–58 repealed Pub. L. 105–261, § 1109(b)(1). See 1998 Amendment note below.
 
 Subsec. (c). Pub. L. 106–65 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A military reserve technician who is separated from technician service, after becoming 50 years of age and completing 25 years of service, by reason of ceasing to satisfy the condition described in section 8401(30)(B) is entitled to an annuity.”
 
-Subsec. (d). Pub. L. 106–58 repealed Pub. L. 105–261, § 1109(b)(2). See 1998 Amendment note below.
+Subsec. (d). Pub. L. 106–58 repealed Pub. L. 105–261, § 1109(b)(2). See 1998 Amendment note below.
 
-1998—Subsec. (b)(1)(B). Pub. L. 105–261, § 1109(b)(1), which directed insertion of “except in the case of an employee described in subsection (d)(1),” after “(B)”, was repealed by Pub. L. 106–58.
+1998—Subsec. (b)(1)(B). Pub. L. 105–261, § 1109(b)(1), which directed insertion of “except in the case of an employee described in subsection (d)(1),” after “(B)”, was repealed by Pub. L. 106–58.
 
-Subsec. (d). Pub. L. 105–261, § 1109(b)(2), which directed addition of subsec. (d), relating to authority of Department of Defense to offer employees voluntary early retirement, was repealed by Pub. L. 106–58.
+Subsec. (d). Pub. L. 105–261, § 1109(b)(2), which directed addition of subsec. (d), relating to authority of Department of Defense to offer employees voluntary early retirement, was repealed by Pub. L. 106–58.
 
-1989—Subsec. (a)(1). Pub. L. 101–194, § 506(b)(9)(A), substituted “for failure to be recertified as a senior executive under section 3393a or for” for “for”.
+1989—Subsec. (a)(1). Pub. L. 101–194, § 506(b)(9)(A), substituted “for failure to be recertified as a senior executive under section 3393a or for” for “for”.
 
-Subsec. (a)(2), (3). Pub. L. 101–194, § 506(b)(9)(B), (C), substituted “for failure to be recertified as a senior executive or for” for “for”.
+Subsec. (a)(2), (3). Pub. L. 101–194, § 506(b)(9)(B), (C), substituted “for failure to be recertified as a senior executive or for” for “for”.
 
 1988—Subsec. (a)(3). Pub. L. 100–325 added par. (3).
 
@@ -1623,9 +1623,9 @@ For provisions relating to the application of subsection (b)(1)(B) of this secti
 
 **Application of Subsection (b)(1)(B)**
 
-Pub. L. 105–174, title III, § 7001(b), May 1, 1998, 112 Stat. 91, as amended by Pub. L. 106–58, title VI, § 651(a), Sept. 29, 1999, 113 Stat. 480, which provided that, effective May 1, 1998, subsec. (b)(1)(B) of this section was to be applied as if it read as specified in Pub. L. 105–174, § 7001(b), was repealed by Pub. L. 107–296, title XIII, § 1313(b)(4), Nov. 25, 2002, 116 Stat. 2296.
+Pub. L. 105–174, title III, § 7001(b), May 1, 1998, 112 Stat. 91, as amended by Pub. L. 106–58, title VI, § 651(a), Sept. 29, 1999, 113 Stat. 480, which provided that, effective May 1, 1998, subsec. (b)(1)(B) of this section was to be applied as if it read as specified in Pub. L. 105–174, § 7001(b), was repealed by Pub. L. 107–296, title XIII, § 1313(b)(4), Nov. 25, 2002, 116 Stat. 2296.
 
-### § 8415. Computation of basic annuity
+### § 8415. Computation of basic annuity
 
 **(a)** Except as otherwise provided in this section, the annuity of an employee retiring under this subchapter is 1 percent of that individual’s average pay multiplied by such individual’s total service.
 
@@ -1681,9 +1681,9 @@ so much of the annuity as is computed with respect to such type of service shall
 
 **(B)** at the time of the separation on which entitlement to the annuity is based, is at least 62 years of age and has completed at least 20 years of service;
 
-but does not apply in the case of a Congressional employee, military technician (dual status), law enforcement officer, member of the Supreme Court Police, firefighter, nuclear materials courier, air traffic controller, or customs and border protection officer 1
+but does not apply in the case of a Congressional employee, military technician (dual status), law enforcement officer, member of the Supreme Court Police, firefighter, nuclear materials courier, air traffic controller, or customs and border protection officer 1
 
-<sup>1</sup>  So in original. Probably should be followed by a period.
+<sup>1</sup> So in original. Probably should be followed by a period.
 
 **(j)** The annuity of a Member who has served in a position in the executive branch for which the rate of basic pay was reduced for the duration of the service of the Member in that position to remove the impediment to the appointment of the Member imposed by article I, section 6, clause 2 of the Constitution, shall, subject to a deposit in the Fund as provided under section 8422(g), be computed as though the rate of basic pay which would otherwise have been in effect during that period of service had been in effect.
 
@@ -1695,7 +1695,7 @@ but does not apply in the case of a Congressional employee, military technician 
 
 **(3)** If the condition under paragraph (2) is met, then, any amounts received by the individual in the form of a physicians comparability allowance shall (for the purposes referred to in paragraph (2)) be treated as basic pay, but only to the extent that such amounts are attributable to service performed on or after the date of the enactment of this subsection, and only to the extent of the percentage allowable, which shall be determined as follows:
 
-| **If the total amount of service**  **performed, on or after the date of**  **the enactment of this subsection,**  **as a Government physician is:** | **Then, the percentage allowable is:** |
+| **If the total amount of service** **performed, on or after the date of** **the enactment of this subsection,** **as a Government physician is:** | **Then, the percentage allowable is:** |
 |---|---|
 | Less than 2 years | 0 |
 | At least 2 but less than 4 years | 25 |
@@ -1733,7 +1733,7 @@ The amount of the reduction shall be computed under regulations prescribed by th
 
 **(n)** In the case of any annuity computation under this section that includes, in the aggregate, at least 2 months of credit under section 8411(d) for any period while receiving benefits under subchapter I of chapter 81, the percentage otherwise applicable under this section for that period so credited shall be increased by 1 percentage point.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 527; amended Pub. L. 99–556, title I, § 105(b)(2), Oct. 27, 1986, 100 Stat. 3132; Pub. L. 103–283, title III, § 307(b)(2), July 22, 1994, 108 Stat. 1442; Pub. L. 105–61, title V, § 516(a)(7), Oct. 10, 1997, 111 Stat. 1306; Pub. L. 105–261, div. C, title XXXI, § 3154(h), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, § 522(c)(1), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–553, § 1(a)(2) [title III, § 308(c)(2)], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 106–571, § 3(c)(1), Dec. 28, 2000, 114 Stat. 3055; Pub. L. 107–107, div. A, title XI, § 1132(b)(3), Dec. 28, 2001, 115 Stat. 1244; Pub. L. 107–135, title I, § 122(a), Jan. 23, 2002, 115 Stat. 2451; Pub. L. 108–92, § 1(a), Oct. 3, 2003, 117 Stat. 1160; Pub. L. 108–176, title II, § 226(b)(1), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 110–161, div. E, title V, § 535(b)(3), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 111–84, div. A, title XIX, § 1901(a), Oct. 28, 2009, 123 Stat. 2615; Pub. L. 112–96, title V, § 5001(c)(1), Feb. 22, 2012, 126 Stat. 199; Pub. L. 113–67, div. A, title IV, § 401(d), Dec. 26, 2013, 127 Stat. 1185; Pub. L. 114–190, title II, § 2304(a), July 15, 2016, 130 Stat. 640; Pub. L. 117–225, § 3(b)(2)(A)(ii), Dec. 9, 2022, 136 Stat. 2295.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 527; amended Pub. L. 99–556, title I, § 105(b)(2), Oct. 27, 1986, 100 Stat. 3132; Pub. L. 103–283, title III, § 307(b)(2), July 22, 1994, 108 Stat. 1442; Pub. L. 105–61, title V, § 516(a)(7), Oct. 10, 1997, 111 Stat. 1306; Pub. L. 105–261, div. C, title XXXI, § 3154(h), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, § 522(c)(1), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–553, § 1(a)(2) [title III, § 308(c)(2)], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 106–571, § 3(c)(1), Dec. 28, 2000, 114 Stat. 3055; Pub. L. 107–107, div. A, title XI, § 1132(b)(3), Dec. 28, 2001, 115 Stat. 1244; Pub. L. 107–135, title I, § 122(a), Jan. 23, 2002, 115 Stat. 2451; Pub. L. 108–92, § 1(a), Oct. 3, 2003, 117 Stat. 1160; Pub. L. 108–176, title II, § 226(b)(1), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 110–161, div. E, title V, § 535(b)(3), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 111–84, div. A, title XIX, § 1901(a), Oct. 28, 2009, 123 Stat. 2615; Pub. L. 112–96, title V, § 5001(c)(1), Feb. 22, 2012, 126 Stat. 199; Pub. L. 113–67, div. A, title IV, § 401(d), Dec. 26, 2013, 127 Stat. 1185; Pub. L. 114–190, title II, § 2304(a), July 15, 2016, 130 Stat. 640; Pub. L. 117–225, § 3(b)(2)(A)(ii), Dec. 9, 2022, 136 Stat. 2295.)
 
 **Editorial Notes**
 
@@ -1745,9 +1745,9 @@ The date of enactment of this paragraph, referred to in subsec. (m)(2)(B)(i), is
 
 **Amendments**
 
-2022—Subsec. (e). Pub. L. 117–225, § 3(b)(2)(A)(ii)(I), inserted “(1)” after “subsection (d)” in introductory provisions.
+2022—Subsec. (e). Pub. L. 117–225, § 3(b)(2)(A)(ii)(I), inserted “(1)” after “subsection (d)” in introductory provisions.
 
-Subsec. (h)(2)(A). Pub. L. 117–225, § 3(b)(2)(A)(ii)(II), substituted “(d)(1)(B)” for “(d)(2)”.
+Subsec. (h)(2)(A). Pub. L. 117–225, § 3(b)(2)(A)(ii)(II), substituted “(d)(1)(B)” for “(d)(2)”.
 
 2016—Subsec. (f). Pub. L. 114–190 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The annuity of an air traffic controller or former air traffic controller retiring under section 8412(a) is computed under subsection (a), except that if the individual has had at least 5 years of service as an air traffic controller as defined by section 2109(1)(A)(i), so much of the annuity as is computed with respect to such type of service shall be computed by multiplying 1<sup>7</sup>⁄<sub>10</sub> percent of the individual’s average pay by the years of such service.”
 
@@ -1759,21 +1759,21 @@ Subsec. (h)(2)(A). Pub. L. 117–225, § 3(b)(2)(A)(ii)(II), substituted “(d
 
 2007—Subsec. (h)(2). Pub. L. 110–161 substituted “air traffic controller, or customs and border protection officer” for “or air traffic controller.” in concluding provisions.
 
-2003—Subsecs. (e) to (h). Pub. L. 108–176, § 226(b)(1), added subsec. (e) and redesignated former subsecs. (e) to (g) as (f) to (h), respectively. Former subsec. (h) redesignated (i).
+2003—Subsecs. (e) to (h). Pub. L. 108–176, § 226(b)(1), added subsec. (e) and redesignated former subsecs. (e) to (g) as (f) to (h), respectively. Former subsec. (h) redesignated (i).
 
-Subsec. (i). Pub. L. 108–176, § 226(b)(1)(A), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
+Subsec. (i). Pub. L. 108–176, § 226(b)(1)(A), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
-Pub. L. 108–176, § 226(b)(1)(A), which directed the redesignation of the second subsec. (i) as (*l*), could not be executed because of the redesignation of the second subsec. (i) as (k) by Pub. L. 108–92, § 1(a)(1). See below.
+Pub. L. 108–176, § 226(b)(1)(A), which directed the redesignation of the second subsec. (i) as (*l*), could not be executed because of the redesignation of the second subsec. (i) as (k) by Pub. L. 108–92, § 1(a)(1). See below.
 
-Pub. L. 108–92, § 1(a)(1), redesignated second subsec. (i), relating to inclusion of unused sick leave in computing an annuity of a registered nurse with the Veterans Health Administration, as (k).
+Pub. L. 108–92, § 1(a)(1), redesignated second subsec. (i), relating to inclusion of unused sick leave in computing an annuity of a registered nurse with the Veterans Health Administration, as (k).
 
-Subsec. (j). Pub. L. 108–176, § 226(b)(1)(A), redesignated subsec. (i) as (j). Former subsec. (j) redesignated (k).
+Subsec. (j). Pub. L. 108–176, § 226(b)(1)(A), redesignated subsec. (i) as (j). Former subsec. (j) redesignated (k).
 
-Subsec. (k). Pub. L. 108–176, § 226(b)(1)(A), redesignated subsec. (j) as (k).
+Subsec. (k). Pub. L. 108–176, § 226(b)(1)(A), redesignated subsec. (j) as (k).
 
-Pub. L. 108–92, § 1(a)(1), redesignated second subsec. (i), relating to inclusion of unused sick leave in computing an annuity of a registered nurse with the Veterans Health Administration, as (k).
+Pub. L. 108–92, § 1(a)(1), redesignated second subsec. (i), relating to inclusion of unused sick leave in computing an annuity of a registered nurse with the Veterans Health Administration, as (k).
 
-Subsec.(*l*). Pub. L. 108–92, § 1(a)(2), added subsec. (*l*).
+Subsec.(*l*). Pub. L. 108–92, § 1(a)(2), added subsec. (*l*).
 
 2002—Subsec. (i). Pub. L. 107–135 added subsec. (i) relating to inclusion of unused sick leave in computing an annuity of a registered nurse with the Veterans Health Administration.
 
@@ -1801,11 +1801,11 @@ Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an indi
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–190, title II, § 2304(b), July 15, 2016, 130 Stat. 640, provided that: “The amendment made by subsection (a) [amending this section] shall be deemed to be effective on December 12, 2003.”
+Pub. L. 114–190, title II, § 2304(b), July 15, 2016, 130 Stat. 640, provided that: “The amendment made by subsection (a) [amending this section] shall be deemed to be effective on December 12, 2003.”
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–84, div. A, title XIX, § 1901(c), Oct. 28, 2009, 123 Stat. 2615, provided that: “The amendments made by this section [amending this section and section 8422 of this title] shall apply with respect to any annuity, entitlement to which is based on a death or other separation from service occurring on or after the date of enactment of this Act [Oct. 28, 2009].”
+Pub. L. 111–84, div. A, title XIX, § 1901(c), Oct. 28, 2009, 123 Stat. 2615, provided that: “The amendments made by this section [amending this section and section 8422 of this title] shall apply with respect to any annuity, entitlement to which is based on a death or other separation from service occurring on or after the date of enactment of this Act [Oct. 28, 2009].”
 
 **Effective Date of 2007 Amendment; Transition Rules**
 
@@ -1815,11 +1815,11 @@ Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the f
 
 Amendment by Pub. L. 108–176 effective on 60th day after Dec. 12, 2003, and applicable with respect to any annuity entitlement based on an individual’s separation from service occurring on or after such effective date, and any service performed by any such individual before, on, or after such effective date, subject to special rule relating to deposit requirement, see section 226(c) of Pub. L. 108–176, set out as a note under section 8401 of this title.
 
-Pub. L. 108–92, § 2, Oct. 3, 2003, 117 Stat. 1160, provided that: “The amendments made by this Act [amending this section and section 8422 of this title] shall apply with respect to any annuity entitlement to which is based on a separation from service occurring on or after the date of enactment of this Act [Oct. 3, 2003].”
+Pub. L. 108–92, § 2, Oct. 3, 2003, 117 Stat. 1160, provided that: “The amendments made by this Act [amending this section and section 8422 of this title] shall apply with respect to any annuity entitlement to which is based on a separation from service occurring on or after the date of enactment of this Act [Oct. 3, 2003].”
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–135, title I, § 122(c), Jan. 23, 2002, 115 Stat. 2451, provided that: “The amendments made by this section [amending this section and section 8422 of this title] shall take effect 60 days after the date of the enactment of this Act [Jan. 23, 2002] and shall apply to individuals who separate from service on or after that effective date.”
+Pub. L. 107–135, title I, § 122(c), Jan. 23, 2002, 115 Stat. 2451, provided that: “The amendments made by this section [amending this section and section 8422 of this title] shall take effect 60 days after the date of the enactment of this Act [Jan. 23, 2002] and shall apply to individuals who separate from service on or after that effective date.”
 
 **Effective Date of 2001 Amendment**
 
@@ -1827,7 +1827,7 @@ Amendment by Pub. L. 107–107 applicable only to separations from service as an
 
 **Effective Date of 2000 Amendment**
 
-Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual who is employed as a member of the Supreme Court Police after Dec. 21, 2000, see section 1(a)(2) [title III, § 308(i), (j)] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
+Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual who is employed as a member of the Supreme Court Police after Dec. 21, 2000, see section 1(a)(2) [title III, § 308(i), (j)] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
 
 **Effective Date of 1998 Amendment**
 
@@ -1839,7 +1839,7 @@ Amendment by Pub. L. 105–61 applicable to any annuity commencing before, on, o
 
 **Procedures Required**
 
-Pub. L. 114–190, title II, § 2304(c), July 15, 2016, 130 Stat. 640, provided that:
+Pub. L. 114–190, title II, § 2304(c), July 15, 2016, 130 Stat. 640, provided that:
 
 > “The Director of the Office of Personnel Management shall establish such procedures as are necessary to provide for—
 
@@ -1855,7 +1855,7 @@ Pub. L. 114–190, title II, § 2304(c), July 15, 2016, 130 Stat. 640, provide
 
 See section 2 of Pub. L. 100–92, set out as a note under section 8332 of this title.
 
-### § 8416. Survivor reduction for a current spouse
+### § 8416. Survivor reduction for a current spouse
 
 **(a)**
 
@@ -1925,9 +1925,9 @@ The amount to be deposited under clause (i) shall include interest, computed at 
 
 **(5)** The Office shall inform each employee and Member who is eligible to make an election under this subsection of the right to make such election and the procedures and deadlines applicable in making any such election.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 528.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 528.)
 
-### § 8417. Survivor reduction for a former spouse
+### § 8417. Survivor reduction for a former spouse
 
 **(a)** If an employee or Member has a former spouse who is entitled to a survivor annuity as provided in section 8445, the reduction described in section 8419(a) shall be made.
 
@@ -1953,9 +1953,9 @@ The amount to be deposited under clause (i) shall include interest, computed at 
 
 The Office shall by regulation provide that subparagraph (B) may be waived for either of the reasons set forth in section 8416(a)(2).
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 530.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 530.)
 
-### § 8418. Survivor elections; deposit; offsets
+### § 8418. Survivor elections; deposit; offsets
 
 **(a)**
 
@@ -1973,15 +1973,15 @@ The Office shall by regulation provide that subparagraph (B) may be waived for e
 
 **(d)** The Office shall prescribe regulations under which the survivor of an employee or Member may make a deposit under this section.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 530; amended Pub. L. 103–66, title XI, § 11004(b), Aug. 10, 1993, 107 Stat. 412.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 530; amended Pub. L. 103–66, title XI, § 11004(b), Aug. 10, 1993, 107 Stat. 412.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1993—Subsec. (a)(1). Pub. L. 103–66, § 11004(b)(1), struck out “, before the expiration of the 2-year period involved,” after “into the Fund”.
+1993—Subsec. (a)(1). Pub. L. 103–66, § 11004(b)(1), struck out “, before the expiration of the 2-year period involved,” after “into the Fund”.
 
-Subsec. (b). Pub. L. 102–66, § 11004(b)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If the electing individual does not make the deposit required under subsection (a), the Office shall collect such amount by offset against such individual’s annuity, up to a maximum of 25 percent of the net annuity otherwise payable, and the individual is deemed to consent to such offset.”
+Subsec. (b). Pub. L. 102–66, § 11004(b)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If the electing individual does not make the deposit required under subsection (a), the Office shall collect such amount by offset against such individual’s annuity, up to a maximum of 25 percent of the net annuity otherwise payable, and the individual is deemed to consent to such offset.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1989,7 +1989,7 @@ Subsec. (b). Pub. L. 102–66, § 11004(b)(2), amended subsec. (b) generally. 
 
 Amendment by Pub. L. 103–66 effective on first day of first month beginning at least 30 days after Aug. 10, 1993, and applicable to all deposits required under section 8339(j)(3) or (5), 8339(k)(2), or 8418 of this title, on which no payment has been made prior to such effective date, with provision for partial deposit, see section 11004(c) of Pub. L. 103–66, set out as a note under section 8339 of this title.
 
-### § 8419. Survivor reductions; computation
+### § 8419. Survivor reductions; computation
 
 **(a)**
 
@@ -2017,15 +2017,15 @@ Amendment by Pub. L. 103–66 effective on first day of first month beginning at
 
 **(C)** a current spouse whom the employee or Member married after retirement and with respect to whom an election has been made under subsection (b) or (c) of section 8416.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 531; amended Pub. L. 100–238, title I, § 131(a), Jan. 8, 1988, 101 Stat. 1759.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 531; amended Pub. L. 100–238, title I, § 131(a), Jan. 8, 1988, 101 Stat. 1759.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsec. (a)(1), (2)(A). Pub. L. 100–238 inserted “or one-half of the annuity, if jointly designated for this purpose by the employee or Member and the spouse of the employee or Member under procedures prescribed by the Office of Personnel Management” before “, shall be reduced”.
+1988—Subsec. (a)(1), (2)(A). Pub. L. 100–238 inserted “or one-half of the annuity, if jointly designated for this purpose by the employee or Member and the spouse of the employee or Member under procedures prescribed by the Office of Personnel Management” before “, shall be reduced”.
 
-### § 8420. Insurable interest reductions
+### § 8420. Insurable interest reductions
 
 **(a)**
 
@@ -2041,9 +2041,9 @@ Amendment by Pub. L. 103–66 effective on first day of first month beginning at
 
 **(2)** Paragraph (1) does not apply in the case of an employee or Member if such employee or Member has a former spouse who would become entitled to an annuity under section 8445 as a survivor of such employee or Member.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 532.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 532.)
 
-### § 8420a. Alternative forms of annuities
+### § 8420a. Alternative forms of annuities
 
 **(a)** The Office shall prescribe regulations under which any employee or Member who has a life-threatening affliction or other critical medical condition may, at the time of retiring under this subchapter, elect annuity benefits under this section instead of any other benefits under this subchapter, and any benefits under subchapter IV of this chapter, based on the service of the employee or Member.
 
@@ -2075,15 +2075,15 @@ Amendment by Pub. L. 103–66 effective on first day of first month beginning at
 
 **(e)** An employee or Member who is married at the time of retiring under this subchapter and who makes an election under this section may, during the 18-month period beginning on the date of retirement, make the election provided for under section 8416(d), subject to the deposit requirement thereunder.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 532; amended Pub. L. 101–508, title VII, § 7001(a)(1), Nov. 5, 1990, 104 Stat. 1388–327; Pub. L. 103–66, title XI, § 11002(a), Aug. 10, 1993, 107 Stat. 409.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 532; amended Pub. L. 101–508, title VII, § 7001(a)(1), Nov. 5, 1990, 104 Stat. 1388–327; Pub. L. 103–66, title XI, § 11002(a), Aug. 10, 1993, 107 Stat. 409.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1993—Subsec. (a). Pub. L. 103–66, § 11002(a)(1), substituted “any employee or Member who has a life-threatening affliction or other critical medical condition” for “an employee or Member”.
+1993—Subsec. (a). Pub. L. 103–66, § 11002(a)(1), substituted “any employee or Member who has a life-threatening affliction or other critical medical condition” for “an employee or Member”.
 
-Subsec. (f). Pub. L. 103–66, § 11002(a)(2), struck out subsec. (f) which prohibited election of alternative form of annuity where commencement date would be after Dec. 1, 1990, with certain exceptions.
+Subsec. (f). Pub. L. 103–66, § 11002(a)(2), struck out subsec. (f) which prohibited election of alternative form of annuity where commencement date would be after Dec. 1, 1990, with certain exceptions.
 
 1990—Subsec. (f). Pub. L. 101–508 added subsec. (f).
 
@@ -2101,7 +2101,7 @@ For provisions relating to application of subsec. (f) of this section to certain
 
 For provisions relating to deferred payment of lump-sum credit for certain individuals electing alternative forms of annuities, see notes set out under section 8343a of this title.
 
-### § 8421. Annuity supplement
+### § 8421. Annuity supplement
 
 **(a)**
 
@@ -2155,23 +2155,23 @@ For provisions relating to deferred payment of lump-sum credit for certain indiv
 
 **(c)** An amount under this section shall, for purposes of section 8467, be treated in the same way as an amount computed under section 8415.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 533; amended Pub. L. 101–194, title V, § 506(b)(10), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 102–378, § 2(65), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 107–296, title XIII, § 1321(a)(5)(B), Nov. 25, 2002, 116 Stat. 2297; Pub. L. 117–225, § 3(b)(2)(A)(iii), Dec. 9, 2022, 136 Stat. 2295.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 533; amended Pub. L. 101–194, title V, § 506(b)(10), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 102–378, § 2(65), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 107–296, title XIII, § 1321(a)(5)(B), Nov. 25, 2002, 116 Stat. 2297; Pub. L. 117–225, § 3(b)(2)(A)(iii), Dec. 9, 2022, 136 Stat. 2295.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsecs. (a)(3)(B) and (b)(2), (4)(A), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 202, 203, 214, and 215 of the Social Security Act are classified to sections 402, 403, 414, and 415, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a)(3)(B) and (b)(2), (4)(A), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 202, 203, 214, and 215 of the Social Security Act are classified to sections 402, 403, 414, and 415, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
 2022—Subsec. (a)(1). Pub. L. 117–225 inserted “(1)” after “(d)”.
 
-2002—Subsec. (a)(2). Pub. L. 107–296, which directed amendment of par. (2) by striking “, except that an individual entitled to an annuity under section 8414(a) for failure to be recertified as a senior executive shall be entitled to an annuity supplement without regard to such applicable retirement age”, was executed by striking out “, except that an individual entitled to an annuity under section 8414(a) for failure to be recertified as a senior executive shall be entitled to an annuity supplement without regard to such applicable minimum retirement age” before period at end, to reflect the probable intent of Congress.
+2002—Subsec. (a)(2). Pub. L. 107–296, which directed amendment of par. (2) by striking “, except that an individual entitled to an annuity under section 8414(a) for failure to be recertified as a senior executive shall be entitled to an annuity supplement without regard to such applicable retirement age”, was executed by striking out “, except that an individual entitled to an annuity under section 8414(a) for failure to be recertified as a senior executive shall be entitled to an annuity supplement without regard to such applicable minimum retirement age” before period at end, to reflect the probable intent of Congress.
 
 1992—Subsec. (a)(2). Pub. L. 102–378 inserted period at end.
 
-1989—Subsec. (a)(2). Pub. L. 101–194 substituted “, except that an individual entitled to an annuity under section 8414(a) for failure to be recertified as a senior executive shall be entitled to an annuity supplement without regard to such applicable minimum retirement age” for period at end.
+1989—Subsec. (a)(2). Pub. L. 101–194 substituted “, except that an individual entitled to an annuity under section 8414(a) for failure to be recertified as a senior executive shall be entitled to an annuity supplement without regard to such applicable minimum retirement age” for period at end.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2187,7 +2187,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 506(d) of Pub. L. 101–194, set out as a note under section 3151 of this title.
 
-### § 8421a. Reductions on account of earnings from work performed while entitled to an annuity supplement
+### § 8421a. Reductions on account of earnings from work performed while entitled to an annuity supplement
 
 **(a)** Except as provided in subsection (c), the amount of the annuity supplement to which an individual is entitled under section 8421 for any month (determined without regard to subsection (c) of such section) shall be reduced by the amount of any excess earnings of such individual which are required to be charged to such supplement for such month, as determined under subsection (b).
 
@@ -2231,7 +2231,7 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 506(d) of Pub
 
 **(d)** The Office shall prescribe regulations under which this section shall be applied in the case of a reemployed annuitant.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 535; amended Pub. L. 99–556, title I, § 121, Oct. 27, 1986, 100 Stat. 3134; Pub. L. 106–394, § 3(a), Oct. 30, 2000, 114 Stat. 1630; Pub. L. 114–251, § 1, Dec. 8, 2016, 130 Stat. 1002; Pub. L. 116–92, div. A, title VI, § 608, Dec. 20, 2019, 133 Stat. 1425; Pub. L. 117–225, § 3(b)(2)(A)(iv), Dec. 9, 2022, 136 Stat. 2296; Pub. L. 117–328, div. Y, § 102, Dec. 29, 2022, 136 Stat. 5523.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 535; amended Pub. L. 99–556, title I, § 121, Oct. 27, 1986, 100 Stat. 3134; Pub. L. 106–394, § 3(a), Oct. 30, 2000, 114 Stat. 1630; Pub. L. 114–251, § 1, Dec. 8, 2016, 130 Stat. 1002; Pub. L. 116–92, div. A, title VI, § 608, Dec. 20, 2019, 133 Stat. 1425; Pub. L. 117–225, § 3(b)(2)(A)(iv), Dec. 9, 2022, 136 Stat. 2296; Pub. L. 117–328, div. Y, § 102, Dec. 29, 2022, 136 Stat. 5523.)
 
 **Editorial Notes**
 
@@ -2247,9 +2247,9 @@ Subsec. (c). Pub. L. 117–328 substituted “as an—” for “as an”, desig
 
 2019—Subsec. (c). Pub. L. 116–92 substituted “as an air traffic control instructor, or supervisor thereof,” for “full-time as an air traffic control instructor” and inserted “or supervisor” after “an instructor”.
 
-2016—Subsec. (a). Pub. L. 114–251, § 1(1), substituted “Except as provided in subsection (c), the amount” for “The amount”.
+2016—Subsec. (a). Pub. L. 114–251, § 1(1), substituted “Except as provided in subsection (c), the amount” for “The amount”.
 
-Subsecs. (c), (d). Pub. L. 114–251, § 1(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 114–251, § 1(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 2000—Subsec. (b)(5). Pub. L. 106–394 added par. (5).
 
@@ -2263,9 +2263,9 @@ Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an indi
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–394, § 3(b), Oct. 30, 2000, 114 Stat. 1630, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to reductions required to be made in calendar years beginning after the date of the enactment of this Act [Oct. 30, 2000].”
+Pub. L. 106–394, § 3(b), Oct. 30, 2000, 114 Stat. 1630, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to reductions required to be made in calendar years beginning after the date of the enactment of this Act [Oct. 30, 2000].”
 
-### § 8422. Deductions from pay; contributions for other service; deposits
+### § 8422. Deductions from pay; contributions for other service; deposits
 
 **(a)**
 
@@ -2295,7 +2295,7 @@ Pub. L. 106–394, § 3(b), Oct. 30, 2000, 114 Stat. 1630, provided that: “T
 |  | 7.9 | January 1, 2000, to December 31, 2000. |
 |  | 8 | January 1, 2001, to December 31, 2002. |
 |  | 7.5 | After December 31, 2002. |
-| Law enforcement officer, firefighter, member of the Capitol Police, member of the Supreme Court Police, or air traffic controller | 7.5   7.75   7.9   7.5 | January 1, 1987, to December 31, 1998. January 1, 1999, to December 31, 1999. January 1, 2000, to December 31, 2000. After December 31, 2000. |
+| Law enforcement officer, firefighter, member of the Capitol Police, member of the Supreme Court Police, or air traffic controller | 7.5 7.75 7.9 7.5 | January 1, 1987, to December 31, 1998. January 1, 1999, to December 31, 1999. January 1, 2000, to December 31, 2000. After December 31, 2000. |
 | Nuclear materials courier | 7 | January 1, 1987, to October 16, 1998. |
 |  | 7.5 | October 17, 1998, to December 31, 1998. |
 |  | 7.75 | January 1, 1999, to December 31, 1999. |
@@ -2373,7 +2373,7 @@ shall include interest on such amount computed and compounded annually beginning
 
 **(1)** Each employee or Member who has performed service as a volunteer or volunteer leader under part A of title VIII of the Economic Opportunity Act of 1964, as a full-time volunteer enrolled in a program of at least 1 year’s duration under part A, B,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or C of title I of the Domestic Volunteer Service Act of 1973, or as a volunteer or volunteer leader under the Peace Corps Act before the date of the separation on which the entitlement to any annuity under this subchapter, or subchapter V of this chapter, is based may pay, in accordance with such regulations as the Office of Personnel Management shall issue, an amount equal to 3 percent of the readjustment allowance paid to the employee or Member under title VIII of the Economic Opportunity Service Act of 1964 or section 5(c) or 6(1) of the Peace Corps Act or the stipend paid to the employee or Member under part A, B,1 or C of title I of the Domestic Volunteer Service Act of 1973, for each period of service as such a volunteer or volunteer leader. This paragraph shall be subject to paragraph (4).
 
@@ -2415,7 +2415,7 @@ shall include interest on such amount computed and compounded annually beginning
 
 **(3)** For the purpose of survivor annuities, deposits authorized by this subsection may also be made by a survivor of an employee or Member.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 536; amended Pub. L. 100–238, title I, § 104(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 103–82, title III, § 371(b)(2), Sept. 21, 1993, 107 Stat. 911; Pub. L. 103–353, § 5(d), (e)(2), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–186, title II, § 215(14), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, § 103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–33, title VII, § 7001(b)(1), Aug. 5, 1997, 111 Stat. 657; Pub. L. 105–61, title V, § 516(a)(8), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 105–261, div. C, title XXXI, § 3154(i)(1), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title X, § 1066(d)(3), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–346, § 101(a) [title V, § 505(b)], Oct. 23, 2000, 114 Stat. 1356, 1356A–52; Pub. L. 106–553, § 1(a)(2) [title III, § 308(c)(3)], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 107–107, div. A, title XI, § 1132(b)(2)(A), (B), Dec. 28, 2001, 115 Stat. 1243, 1244; Pub. L. 107–135, title I, § 122(b), Jan. 23, 2002, 115 Stat. 2451; Pub. L. 108–92, § 1(b), Oct. 3, 2003, 117 Stat. 1160; Pub. L. 108–176, title II, § 226(b)(2)(A), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 110–161, div. E, title V, § 535(b)(4), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 111–84, div. A, title XIX, §§ 1901(b), 1904(a), (b)(2), (3)(A), Oct. 28, 2009, 123 Stat. 2615, 2616; Pub. L. 112–96, title V, § 5001(b), (c)(2)(A), Feb. 22, 2012, 126 Stat. 199; Pub. L. 113–67, div. A, title IV, § 401(b), Dec. 26, 2013, 127 Stat. 1184; Pub. L. 115–352, §§ 2(b), 3(b), Dec. 21, 2018, 132 Stat. 5067, 5068.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 536; amended Pub. L. 100–238, title I, § 104(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 103–82, title III, § 371(b)(2), Sept. 21, 1993, 107 Stat. 911; Pub. L. 103–353, § 5(d), (e)(2), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–186, title II, § 215(14), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, § 103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–33, title VII, § 7001(b)(1), Aug. 5, 1997, 111 Stat. 657; Pub. L. 105–61, title V, § 516(a)(8), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 105–261, div. C, title XXXI, § 3154(i)(1), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title X, § 1066(d)(3), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–346, § 101(a) [title V, § 505(b)], Oct. 23, 2000, 114 Stat. 1356, 1356A–52; Pub. L. 106–553, § 1(a)(2) [title III, § 308(c)(3)], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 107–107, div. A, title XI, § 1132(b)(2)(A), (B), Dec. 28, 2001, 115 Stat. 1243, 1244; Pub. L. 107–135, title I, § 122(b), Jan. 23, 2002, 115 Stat. 2451; Pub. L. 108–92, § 1(b), Oct. 3, 2003, 117 Stat. 1160; Pub. L. 108–176, title II, § 226(b)(2)(A), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 110–161, div. E, title V, § 535(b)(4), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 111–84, div. A, title XIX, §§ 1901(b), 1904(a), (b)(2), (3)(A), Oct. 28, 2009, 123 Stat. 2615, 2616; Pub. L. 112–96, title V, § 5001(b), (c)(2)(A), Feb. 22, 2012, 126 Stat. 199; Pub. L. 113–67, div. A, title IV, § 401(b), Dec. 26, 2013, 127 Stat. 1184; Pub. L. 115–352, §§ 2(b), 3(b), Dec. 21, 2018, 132 Stat. 5067, 5068.)
 
 **Editorial Notes**
 
@@ -2423,33 +2423,33 @@ shall include interest on such amount computed and compounded annually beginning
 
 Section 3101(a) of the Internal Revenue Code of 1986, referred to in subsec. (a)(2)(B), is classified to section 3101(a) of Title 26, Internal Revenue Code.
 
-The Economic Opportunity Act of 1964, referred to in subsec. (f)(1), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508. Title VIII of the Act probably means title VIII of Pub. L. 88–452 as added by Pub. L. 89–794, title VIII, § 801, Nov. 8, 1966, 80 Stat. 1472, and generally revised and amended by Pub. L. 90–222, title I, § 110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to subchapter VIII (§ 2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by Pub. L. 93–113, title VI, § 603, Oct. 1, 1973, 87 Stat. 417. Part A of title VIII of the Act is part A of title VIII of Pub. L. 88–452 as added by Pub. L. 90–222, § 110, which was classified generally to part A (§ 2992 et seq.) of subchapter VIII of chapter 34 of Title 42, prior to its repeal by Pub. L. 93–113, § 603. See sections 4951 et seq. and 5055 of Title 42. For complete classification of this Act to the Code, see Tables.
+The Economic Opportunity Act of 1964, referred to in subsec. (f)(1), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508. Title VIII of the Act probably means title VIII of Pub. L. 88–452 as added by Pub. L. 89–794, title VIII, § 801, Nov. 8, 1966, 80 Stat. 1472, and generally revised and amended by Pub. L. 90–222, title I, § 110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to subchapter VIII (§ 2991 et seq.) of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by Pub. L. 93–113, title VI, § 603, Oct. 1, 1973, 87 Stat. 417. Part A of title VIII of the Act is part A of title VIII of Pub. L. 88–452 as added by Pub. L. 90–222, § 110, which was classified generally to part A (§ 2992 et seq.) of subchapter VIII of chapter 34 of Title 42, prior to its repeal by Pub. L. 93–113, § 603. See sections 4951 et seq. and 5055 of Title 42. For complete classification of this Act to the Code, see Tables.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (f)(1), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Parts A and C of title I of the Act are classified generally to parts A (§ 4951 et seq.) and C (§ 4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42, The Public Health and Welfare. Part B of title I of the Act, which was classified generally to part B (§ 4971 et seq.) of subchapter I of chapter 66 of Title 42, was repealed by Pub. L. 111–13, title II, § 2121, Apr. 21, 2009, 123 Stat. 1584. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (f)(1), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Parts A and C of title I of the Act are classified generally to parts A (§ 4951 et seq.) and C (§ 4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42, The Public Health and Welfare. Part B of title I of the Act, which was classified generally to part B (§ 4971 et seq.) of subchapter I of chapter 66 of Title 42, was repealed by Pub. L. 111–13, title II, § 2121, Apr. 21, 2009, 123 Stat. 1584. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
 
-The Peace Corps Act, referred to in subsec. (f)(1), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5(c) and 6(1) of the Act are classified to sections 2504(c) and 2505(1), respectively, of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
+The Peace Corps Act, referred to in subsec. (f)(1), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5(c) and 6(1) of the Act are classified to sections 2504(c) and 2505(1), respectively, of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
 **Amendments**
 
-2018—Subsec. (e)(7). Pub. L. 115–352, § 2(b), added par. (7).
+2018—Subsec. (e)(7). Pub. L. 115–352, § 2(b), added par. (7).
 
-Subsec. (f)(5). Pub. L. 115–352, § 3(b), added par. (5).
+Subsec. (f)(5). Pub. L. 115–352, § 3(b), added par. (5).
 
-2013—Subsec. (a)(3)(A). Pub. L. 113–67, § 401(b)(1), inserted “or further revised annuity employees” after “revised annuity employees”.
+2013—Subsec. (a)(3)(A). Pub. L. 113–67, § 401(b)(1), inserted “or further revised annuity employees” after “revised annuity employees”.
 
-Subsec. (a)(3)(C). Pub. L. 113–67, § 401(b)(2), added subpar. (C).
+Subsec. (a)(3)(C). Pub. L. 113–67, § 401(b)(2), added subpar. (C).
 
-2012—Subsec. (a)(3). Pub. L. 112–96, § 5001(b), designated existing provisions as subpar. (A), substituted “The applicable percentage under this paragraph for civilian service by employees or Members other than revised annuity employees” for “The applicable percentage under this paragraph for civilian service”, and added subpar. (B).
+2012—Subsec. (a)(3). Pub. L. 112–96, § 5001(b), designated existing provisions as subpar. (A), substituted “The applicable percentage under this paragraph for civilian service by employees or Members other than revised annuity employees” for “The applicable percentage under this paragraph for civilian service”, and added subpar. (B).
 
-Subsec. (d)(2). Pub. L. 112–96, § 5001(c)(2)(A), substituted “section 8415(m)” for “section 8415(*l*)”.
+Subsec. (d)(2). Pub. L. 112–96, § 5001(c)(2)(A), substituted “section 8415(m)” for “section 8415(*l*)”.
 
-2009—Pub. L. 111–84, § 1904(b)(3)(A), amended section catchline generally, inserting “; deposits” after “service”.
+2009—Pub. L. 111–84, § 1904(b)(3)(A), amended section catchline generally, inserting “; deposits” after “service”.
 
-Subsec. (c). Pub. L. 111–84, § 1904(b)(2), inserted at end “Deposits made by an employee, Member, or survivor also shall be credited to the Fund.”
+Subsec. (c). Pub. L. 111–84, § 1904(b)(2), inserted at end “Deposits made by an employee, Member, or survivor also shall be credited to the Fund.”
 
-Subsec. (d)(2). Pub. L. 111–84, § 1901(b), substituted “paragraph (1) or (2) of section 8415(*l*)” for “section 8415(k)”.
+Subsec. (d)(2). Pub. L. 111–84, § 1901(b), substituted “paragraph (1) or (2) of section 8415(*l*)” for “section 8415(k)”.
 
-Subsec. (i). Pub. L. 111–84, § 1904(a), added subsec. (i).
+Subsec. (i). Pub. L. 111–84, § 1904(a), added subsec. (i).
 
 2007—Subsec. (a)(3). Pub. L. 110–161 inserted table for customs and border protection officer.
 
@@ -2459,23 +2459,23 @@ Pub. L. 108–92 substituted “8415(k)” for “8415(i)”.
 
 2002—Subsec. (d). Pub. L. 107–135 designated existing provisions as par. (1) and added par. (2).
 
-2001—Pub. L. 107–107, § 1132(b)(2)(B), substituted “other service” for “military service” in section catchline.
+2001—Pub. L. 107–107, § 1132(b)(2)(B), substituted “other service” for “military service” in section catchline.
 
-Subsec. (h). Pub. L. 107–107, § 1132(b)(2)(A), added subsec. (h).
+Subsec. (h). Pub. L. 107–107, § 1132(b)(2)(A), added subsec. (h).
 
 2000—Subsec. (a)(3). Pub. L. 106–553 inserted “member of the Supreme Court Police,” after “member of the Capitol Police,” in table for law enforcement officer, firefighter, member of the Capitol Police, or air traffic controller.
 
-Pub. L. 106–346, § 101(a) [title V, § 505(b)(1)], added par. (3) and struck out former par. (3), which set out tables of applicable percentages for employee, Congressional employee, Member, law enforcement officer, firefighter, member of the Capitol Police, air traffic controller, and nuclear materials courier.
+Pub. L. 106–346, § 101(a) [title V, § 505(b)(1)], added par. (3) and struck out former par. (3), which set out tables of applicable percentages for employee, Congressional employee, Member, law enforcement officer, firefighter, member of the Capitol Police, air traffic controller, and nuclear materials courier.
 
-Subsec. (e)(6). Pub. L. 106–346, § 101(a) [title V, § 505(b)(2)], inserted “and” at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “January 1, 2001, through December 31, 2002, shall be 3.5 percent.”
+Subsec. (e)(6). Pub. L. 106–346, § 101(a) [title V, § 505(b)(2)], inserted “and” at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “January 1, 2001, through December 31, 2002, shall be 3.5 percent.”
 
-Subsec. (f)(4). Pub. L. 106–346, § 101(a) [title V, § 505(b)(3)], inserted “and” at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “January 1, 2001, through December 31, 2002, shall be 3.5 percent.”
+Subsec. (f)(4). Pub. L. 106–346, § 101(a) [title V, § 505(b)(3)], inserted “and” at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “January 1, 2001, through December 31, 2002, shall be 3.5 percent.”
 
 1999—Subsec. (a)(3). Pub. L. 106–65, in table for nuclear materials courier, substituted “October 16, 1998” for “the day before the date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999” and “October 17, 1998” for “The date of the enactment of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999”.
 
 1998—Subsec. (a)(3). Pub. L. 105–261 inserted table for nuclear materials courier.
 
-1997—Subsec. (a)(2), (3). Pub. L. 105–33, § 7001(b)(1)(A), added pars. (2) and (3) and struck out former par. (2) which read as follows: “The applicable percentage under this subsection for any pay period shall be—
+1997—Subsec. (a)(2), (3). Pub. L. 105–33, § 7001(b)(1)(A), added pars. (2) and (3) and struck out former par. (2) which read as follows: “The applicable percentage under this subsection for any pay period shall be—
 
 “(A) in the case of an employee (other than a law enforcement officer, firefighter, air traffic controller, or Congressional employee) a percentage equal to—
 
@@ -2489,13 +2489,13 @@ Subsec. (f)(4). Pub. L. 106–346, § 101(a) [title V, § 505(b)(3)], insert
 
 “(ii) the same percentage as would apply in the case of an employee under subparagraph (A)(ii).”
 
-Subsec. (e)(1)(A). Pub. L. 105–33, § 7001(b)(1)(B)(i), inserted “and subject to paragraph (6),” after “Except as provided in subparagraph (B),”.
+Subsec. (e)(1)(A). Pub. L. 105–33, § 7001(b)(1)(B)(i), inserted “and subject to paragraph (6),” after “Except as provided in subparagraph (B),”.
 
-Subsec. (e)(6). Pub. L. 105–33, § 7001(b)(1)(B)(ii), added par. (6).
+Subsec. (e)(6). Pub. L. 105–33, § 7001(b)(1)(B)(ii), added par. (6).
 
-Subsec. (f)(1). Pub. L. 105–33, § 7001(b)(1)(C)(i), inserted at end “This paragraph shall be subject to paragraph (4).”
+Subsec. (f)(1). Pub. L. 105–33, § 7001(b)(1)(C)(i), inserted at end “This paragraph shall be subject to paragraph (4).”
 
-Subsec. (f)(4). Pub. L. 105–33, § 7001(b)(1)(C)(ii), added par. (4).
+Subsec. (f)(4). Pub. L. 105–33, § 7001(b)(1)(C)(ii), added par. (4).
 
 Subsec. (g). Pub. L. 105–61 added subsec. (g).
 
@@ -2503,11 +2503,11 @@ Subsec. (g). Pub. L. 105–61 added subsec. (g).
 
 Subsec. (e)(1)(A), (3). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
-1994—Subsec. (a)(2)(A)(ii). Pub. L. 103–353, § 5(e)(2), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+1994—Subsec. (a)(2)(A)(ii). Pub. L. 103–353, § 5(e)(2), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-Subsec. (e)(1). Pub. L. 103–353, § 5(d)(1), designated existing provisions as subpar. (A) and substituted “Except as provided in subparagraph (B), each employee” for “Each employee” and added subpar. (B).
+Subsec. (e)(1). Pub. L. 103–353, § 5(d)(1), designated existing provisions as subpar. (A) and substituted “Except as provided in subparagraph (B), each employee” for “Each employee” and added subpar. (B).
 
-Subsec. (e)(2)(B). Pub. L. 103–353, § 5(d)(2), inserted before comma at end “following the period of military service for which such deposit is due”.
+Subsec. (e)(2)(B). Pub. L. 103–353, § 5(d)(2), inserted before comma at end “following the period of military service for which such deposit is due”.
 
 1993—Subsec. (f). Pub. L. 103–82 added subsec. (f).
 
@@ -2539,9 +2539,9 @@ Amendment by Pub. L. 107–107 applicable only to separations from service as an
 
 **Effective Date of 2000 Amendments**
 
-Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual who is employed as a member of the Supreme Court Police after Dec. 21, 2000, see section 1(a)(2) [title III, § 308(i), (j)] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
+Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual who is employed as a member of the Supreme Court Police after Dec. 21, 2000, see section 1(a)(2) [title III, § 308(i), (j)] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
 
-Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 and applicable thereafter, see section 101(a) [title V, § 505(i)] of Pub. L. 106–346, set out as a note under section 8334 of this title.
+Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 and applicable thereafter, see section 101(a) [title V, § 505(i)] of Pub. L. 106–346, set out as a note under section 8334 of this title.
 
 **Effective Date of 1998 Amendment**
 
@@ -2567,11 +2567,11 @@ Payments from the Office of Personnel Management authorized by section 3(b) of P
 
 **No Reduction in Agency Contributions**
 
-Pub. L. 105–261, div. C, title XXXI, § 3154(i)(2), Oct. 17, 1998, 112 Stat. 2256, provided that: “Contributions under subsections (a) and (b) of section 8423 of title 5, United States Code, shall not be reduced as a result of that portion of the amendment made by paragraph (1) [amending this section] requiring employee deductions at a rate in excess of 7.5 percent for the period beginning on January 1, 1999, and ending on December 31, 2002.”
+Pub. L. 105–261, div. C, title XXXI, § 3154(i)(2), Oct. 17, 1998, 112 Stat. 2256, provided that: “Contributions under subsections (a) and (b) of section 8423 of title 5, United States Code, shall not be reduced as a result of that portion of the amendment made by paragraph (1) [amending this section] requiring employee deductions at a rate in excess of 7.5 percent for the period beginning on January 1, 1999, and ending on December 31, 2002.”
 
-Pub. L. 105–33, title VII, § 7001(b)(2), Aug. 5, 1997, 111 Stat. 658, provided that: “Contributions under section 8423(a) and (b) of title 5, United States Code, shall not be reduced as a result of the amendments made under paragraph (1) [amending this section] of this subsection.”
+Pub. L. 105–33, title VII, § 7001(b)(2), Aug. 5, 1997, 111 Stat. 658, provided that: “Contributions under section 8423(a) and (b) of title 5, United States Code, shall not be reduced as a result of the amendments made under paragraph (1) [amending this section] of this subsection.”
 
-### § 8423. Government contributions
+### § 8423. Government contributions
 
 **(a)**
 
@@ -2645,7 +2645,7 @@ as of the close of each fiscal year beginning after September 30, 1987.
 
 **(c)** Under regulations prescribed by the Office, the head of an agency may request reconsideration of any amount determined to be payable with respect to such agency under subsection (a) or (b). Any such request shall be referred to the Board of Actuaries of the Civil Service Retirement System. The Board of Actuaries shall review the computations of the Office and may make any adjustment with respect to any such amount which the Board determines appropriate. A determination by the Board of Actuaries under this subsection shall be final.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 537; amended Pub. L. 102–378, § 2(66), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–496, title VIII, § 803(c), Oct. 24, 1992, 106 Stat. 3253; Pub. L. 104–186, title II, § 215(15), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 105–261, div. C, title XXXI, § 3154(j), Oct. 17, 1998, 112 Stat. 2256; Pub. L. 106–553, § 1(a)(2) [title III, § 308(c)(4)], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 109–435, title VI, § 604(b), Dec. 20, 2006, 120 Stat. 3241; Pub. L. 110–161, div. E, title V, § 535(b)(5), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 113–67, div. A, title IV, § 401(c), Dec. 26, 2013, 127 Stat. 1184; Pub. L. 116–94, div. E, title II, § 211, Dec. 20, 2019, 133 Stat. 2773.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 537; amended Pub. L. 102–378, § 2(66), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–496, title VIII, § 803(c), Oct. 24, 1992, 106 Stat. 3253; Pub. L. 104–186, title II, § 215(15), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 105–261, div. C, title XXXI, § 3154(j), Oct. 17, 1998, 112 Stat. 2256; Pub. L. 106–553, § 1(a)(2) [title III, § 308(c)(4)], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 109–435, title VI, § 604(b), Dec. 20, 2006, 120 Stat. 3241; Pub. L. 110–161, div. E, title V, § 535(b)(5), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 113–67, div. A, title IV, § 401(c), Dec. 26, 2013, 127 Stat. 1184; Pub. L. 116–94, div. E, title II, § 211, Dec. 20, 2019, 133 Stat. 2773.)
 
 **Editorial Notes**
 
@@ -2683,7 +2683,7 @@ Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the f
 
 **Effective Date of 2000 Amendment**
 
-Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual who is employed as a member of the Supreme Court Police after Dec. 21, 2000, see section 1(a)(2) [title III, § 308(i), (j)] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
+Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual who is employed as a member of the Supreme Court Police after Dec. 21, 2000, see section 1(a)(2) [title III, § 308(i), (j)] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
 
 **Effective Date of 1998 Amendment**
 
@@ -2697,7 +2697,7 @@ Amendment by Pub. L. 102–496 effective first day of fourth month beginning aft
 
 Statutory functions, duties, or authority of Chief Administrative Officer of the House of Representatives or Secretary of the Senate as disbursing officers for the Capitol Police transferred to Chief of the Capitol Police, and references in any law or resolution before Feb. 20, 2003, to funds paid or disbursed by Chief Administrative Officer of the House of Representatives and Secretary of the Senate relating to pay and allowances of Capitol Police employees deemed to refer to Chief of the Capitol Police. See section 1907(a) of Title 2, The Congress.
 
-### § 8424. Lump-sum benefits; designation of beneficiary; order of precedence
+### § 8424. Lump-sum benefits; designation of beneficiary; order of precedence
 
 **(a)** Subject to subsection (b), an employee or Member who—
 
@@ -2771,7 +2771,7 @@ First, to the duly appointed executor or administrator of the estate of the surv
 
 Second, if there is no executor or administrator, payment may be made, after 30 days from the date of death of the survivor, to such next of kin of the survivor as the Office determines to be entitled under the laws of the domicile of the survivor at the date of death.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 539; amended Pub. L. 106–361, § 3(b), Oct. 27, 2000, 114 Stat. 1402; Pub. L. 111–84, div. A, title XIX, § 1904(b)(4), Oct. 28, 2009, 123 Stat. 2617.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 539; amended Pub. L. 106–361, § 3(b), Oct. 27, 2000, 114 Stat. 1402; Pub. L. 111–84, div. A, title XIX, § 1904(b)(4), Oct. 28, 2009, 123 Stat. 2617.)
 
 **Editorial Notes**
 
@@ -2789,15 +2789,15 @@ Second, if there is no executor or administrator, payment may be made, after 30 
 
 “(ii) payment of the lump-sum credit would affect any right or interest of the former spouse with respect to a survivor annuity under section 8445, or to any portion of an annuity under section 8467.”
 
-### § 8425. Mandatory separation
+### § 8425. Mandatory separation
 
 **(a)** An air traffic controller who is otherwise eligible for immediate retirement under section 8412(e) shall be separated from the service on the last day of the month in which that air traffic controller becomes 56 years of age or completes 20 years of service if then over that age. The Secretary, under such regulations as the Secretary may prescribe, may exempt a controller having exceptional skills and experience as a controller from the automatic separation provisions of this subsection until that controller becomes 61 years of age. The Secretary shall notify the controller in writing of the date of separation at least 60 days before that date. Action to separate the controller is not effective, without the consent of the controller, until the last day of the month in which the 60-day notice expires. For purposes of this subsection, the term “air traffic controller” or “controller” has the meaning given to it under section 8401(35)(A).
 
 **(b)**
 
-**(1)** A law enforcement officer, firefighter, nuclear materials courier, or customs and border protection officer who is otherwise eligible for immediate retirement under section 8412(d)(1) shall be separated from the service on the last day of the month in which that law enforcement officer, firefighter, nuclear materials courier, or customs and border protection officer 1
+**(1)** A law enforcement officer, firefighter, nuclear materials courier, or customs and border protection officer who is otherwise eligible for immediate retirement under section 8412(d)(1) shall be separated from the service on the last day of the month in which that law enforcement officer, firefighter, nuclear materials courier, or customs and border protection officer 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 as the case may be, becomes 57 years of age or completes 20 years of service if then over that age. If the head of the agency judges that the public interest so requires, that agency head may exempt such an employee from automatic separation under this subsection until that employee becomes 60 years of age. The employing office shall notify the employee in writing of the date of separation at least 60 days before that date. Action to separate the employee is not effective, without the consent of the employee, until the last day of the month in which the 60-day notice expires.
 
@@ -2809,7 +2809,7 @@ as the case may be, becomes 57 years of age or completes 20 years of service if 
 
 **(e)** The President, by Executive order, may exempt an employee (other than a member of the Capitol Police or Supreme Court Police) from automatic separation under this section if the President determines the public interest so requires.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 540; amended Pub. L. 101–428, § 3(b)(1)(A), (2), Oct. 15, 1990, 104 Stat. 929, 930; Pub. L. 101–509, title V, § 529 [title IV, § 409(b)], Nov. 5, 1990, 104 Stat. 1427, 1468; Pub. L. 102–378, § 2(67), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 103–283, title III, § 307(b)(1), July 22, 1994, 108 Stat. 1441; Pub. L. 105–261, div. C, title XXXI, § 3154(k), Oct. 17, 1998, 112 Stat. 2256; Pub. L. 106–553, § 1(a)(2) [title III, § 308(c)(5)], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 107–27, § 2(b), Aug. 20, 2001, 115 Stat. 207; Pub. L. 108–176, title II, § 226(a)(3)(B), Dec. 12, 2003, 117 Stat. 2529; Pub. L. 108–447, div. B, title I, § 112(b), Dec. 8, 2004, 118 Stat. 2868; Pub. L. 108–458, title II, § 2005(b), Dec. 17, 2004, 118 Stat. 3704; Pub. L. 110–161, div. E, title V, § 535(b)(6), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 111–259, title IV, § 444(b), Oct. 7, 2010, 124 Stat. 2733; Pub. L. 117–225, § 3(b)(2)(A)(v), Dec. 9, 2022, 136 Stat. 2296; Pub. L. 119–95, § 1(b), May 29, 2026, 140 Stat. 833.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 540; amended Pub. L. 101–428, § 3(b)(1)(A), (2), Oct. 15, 1990, 104 Stat. 929, 930; Pub. L. 101–509, title V, § 529 [title IV, § 409(b)], Nov. 5, 1990, 104 Stat. 1427, 1468; Pub. L. 102–378, § 2(67), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 103–283, title III, § 307(b)(1), July 22, 1994, 108 Stat. 1441; Pub. L. 105–261, div. C, title XXXI, § 3154(k), Oct. 17, 1998, 112 Stat. 2256; Pub. L. 106–553, § 1(a)(2) [title III, § 308(c)(5)], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 107–27, § 2(b), Aug. 20, 2001, 115 Stat. 207; Pub. L. 108–176, title II, § 226(a)(3)(B), Dec. 12, 2003, 117 Stat. 2529; Pub. L. 108–447, div. B, title I, § 112(b), Dec. 8, 2004, 118 Stat. 2868; Pub. L. 108–458, title II, § 2005(b), Dec. 17, 2004, 118 Stat. 3704; Pub. L. 110–161, div. E, title V, § 535(b)(6), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 111–259, title IV, § 444(b), Oct. 7, 2010, 124 Stat. 2733; Pub. L. 117–225, § 3(b)(2)(A)(v), Dec. 9, 2022, 136 Stat. 2296; Pub. L. 119–95, § 1(b), May 29, 2026, 140 Stat. 833.)
 
 **Editorial Notes**
 
@@ -2819,41 +2819,41 @@ as the case may be, becomes 57 years of age or completes 20 years of service if 
 
 2022—Subsecs. (b)(1), (c), (d). Pub. L. 117–225 inserted “(1)” after “section 8412(d)”.
 
-2010—Subsec. (b)(2). Pub. L. 111–259, § 444(b)(2), struck out par. (2) added by section 2005(b)(2) of Pub. L. 108–458 which read as follows: “In the case of employees of the Federal Bureau of Investigation, the second sentence of paragraph (1) shall be applied by substituting ‘65 years of age’ for ‘60 years of age’. The Federal Bureau of Investigation may not grant more than 50 exemptions in any fiscal year in accordance with the preceding sentence, and the authority to grant such exemptions shall cease to be available after September 30, 2007.”
+2010—Subsec. (b)(2). Pub. L. 111–259, § 444(b)(2), struck out par. (2) added by section 2005(b)(2) of Pub. L. 108–458 which read as follows: “In the case of employees of the Federal Bureau of Investigation, the second sentence of paragraph (1) shall be applied by substituting ‘65 years of age’ for ‘60 years of age’. The Federal Bureau of Investigation may not grant more than 50 exemptions in any fiscal year in accordance with the preceding sentence, and the authority to grant such exemptions shall cease to be available after September 30, 2007.”
 
-Pub. L. 111–259, § 444(b)(1), amended par. (2) relating to employees of the Federal Bureau of Investigation and providing that authority to grant exemptions shall cease to be available after Dec. 31, 2009, by substituting “2011” for “2009”.
+Pub. L. 111–259, § 444(b)(1), amended par. (2) relating to employees of the Federal Bureau of Investigation and providing that authority to grant exemptions shall cease to be available after Dec. 31, 2009, by substituting “2011” for “2009”.
 
 2007—Subsec. (b)(1). Pub. L. 110–161 substituted “nuclear materials courier, or customs and border protection officer who” for “or nuclear materials courier who” and “nuclear materials courier, or customs and border protection officer” for “or nuclear materials courier,”.
 
-2004—Subsec. (b). Pub. L. 108–447, § 112(b)(1), and Pub. L. 108–458, § 2005(b)(1), amended subsec. (b) identically, designating existing provisions as par. (1).
+2004—Subsec. (b). Pub. L. 108–447, § 112(b)(1), and Pub. L. 108–458, § 2005(b)(1), amended subsec. (b) identically, designating existing provisions as par. (1).
 
-Subsec. (b)(2). Pub. L. 108–458, § 2005(b)(2), added par. (2) relating to employees of the Federal Bureau of Investigation, limiting number of exemptions to 50 per fiscal year, and providing that authority to grant such exemptions shall cease to be available after Sept. 30, 2007.
+Subsec. (b)(2). Pub. L. 108–458, § 2005(b)(2), added par. (2) relating to employees of the Federal Bureau of Investigation, limiting number of exemptions to 50 per fiscal year, and providing that authority to grant such exemptions shall cease to be available after Sept. 30, 2007.
 
-Pub. L. 108–447, § 112(b)(2), added par. (2) relating to employees of the Federal Bureau of Investigation and providing that authority to grant exemptions shall cease to be available after Dec. 31, 2009.
+Pub. L. 108–447, § 112(b)(2), added par. (2) relating to employees of the Federal Bureau of Investigation and providing that authority to grant exemptions shall cease to be available after Dec. 31, 2009.
 
 2003—Subsec. (a). Pub. L. 108–176 inserted at end “For purposes of this subsection, the term ‘air traffic controller’ or ‘controller’ has the meaning given to it under section 8401(35)(A).”
 
-2001—Subsec. (b). Pub. L. 107–27 struck out first sentence which read “A firefighter who is otherwise eligible for immediate retirement under section 8412(d) shall be separated from the service on the last day of the month in which such firefighter becomes 55 years of age or completes 20 years of service if then over that age.” and, in second sentence, inserted “, firefighter,” after “law enforcement officer” in two places and substituted “courier, as the case may be, becomes 57 years of age” for “courier becomes 57 years of age”.
+2001—Subsec. (b). Pub. L. 107–27 struck out first sentence which read “A firefighter who is otherwise eligible for immediate retirement under section 8412(d) shall be separated from the service on the last day of the month in which such firefighter becomes 55 years of age or completes 20 years of service if then over that age.” and, in second sentence, inserted “, firefighter,” after “law enforcement officer” in two places and substituted “courier, as the case may be, becomes 57 years of age” for “courier becomes 57 years of age”.
 
-2000—Subsec. (d). Pub. L. 106–553, § 1(a)(2) [title III, § 308(c)(5)(A)], added subsec. (d). Former subsec. (d) redesignated (e).
+2000—Subsec. (d). Pub. L. 106–553, § 1(a)(2) [title III, § 308(c)(5)(A)], added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 106–553, § 1(a)(2) [title III, § 308(c)(5)], redesignated subsec. (d) as (e) and substituted “Police or Supreme Court Police)” for “Police)”.
+Subsec. (e). Pub. L. 106–553, § 1(a)(2) [title III, § 308(c)(5)], redesignated subsec. (d) as (e) and substituted “Police or Supreme Court Police)” for “Police)”.
 
 1998—Subsec. (b). Pub. L. 105–261, in second sentence, inserted “or nuclear materials courier” after “law enforcement officer” in two places.
 
-1994—Subsec. (b). Pub. L. 103–283, § 307(b)(1)(A), struck out “member of the Capitol Police or” before “firefighter who is” and “member or” before “firefighter becomes” in first sentence.
+1994—Subsec. (b). Pub. L. 103–283, § 307(b)(1)(A), struck out “member of the Capitol Police or” before “firefighter who is” and “member or” before “firefighter becomes” in first sentence.
 
-Subsecs. (c), (d). Pub. L. 103–283, § 307(b)(1)(B), (C), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 103–283, § 307(b)(1)(B), (C), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 1992—Subsec. (b). Pub. L. 102–378 amended first sentence generally and, in second sentence, substituted “becomes” for “become”. Prior to amendment, first sentence read as follows: “A law enforcement officer, member of the Capitol Police, or firefighter who is otherwise eligible for immediate retirement under section 8412(d) shall be separated from the service on the last day of the month in which that law enforcement officer, member of the Capitol Police, or firefighter becomes 55 years of age or completes 20 years of service if then over that age.”
 
-1990—Subsec. (b). Pub. L. 101–509, § 529 [title IV, § 409(b)(1)], which directed the amendment of subsec. (b) by striking out “law enforcement officer or” wherever appearing in first sentence, could not be executed because of a prior amendment by Pub. L. 101–428, § 3(b)(1)(A), see below.
+1990—Subsec. (b). Pub. L. 101–509, § 529 [title IV, § 409(b)(1)], which directed the amendment of subsec. (b) by striking out “law enforcement officer or” wherever appearing in first sentence, could not be executed because of a prior amendment by Pub. L. 101–428, § 3(b)(1)(A), see below.
 
-Pub. L. 101–509, § 529 [title IV, § 409(b)(2)], inserted after first sentence “A law enforcement officer who is otherwise eligible for immediate retirement under section 8412(d) shall be separated from the service on the last day of the month in which that law enforcement officer become 57 years of age or completes 20 years of service if then over that age.”
+Pub. L. 101–509, § 529 [title IV, § 409(b)(2)], inserted after first sentence “A law enforcement officer who is otherwise eligible for immediate retirement under section 8412(d) shall be separated from the service on the last day of the month in which that law enforcement officer become 57 years of age or completes 20 years of service if then over that age.”
 
-Pub. L. 101–428, § 3(b)(1)(A), substituted “officer, member of the Capitol Police, or” for “officer or” in two places.
+Pub. L. 101–428, § 3(b)(1)(A), substituted “officer, member of the Capitol Police, or” for “officer or” in two places.
 
-Subsec. (c). Pub. L. 101–428, § 3(b)(2), inserted “(other than a member of the Capitol Police)” after “employee”.
+Subsec. (c). Pub. L. 101–428, § 3(b)(2), inserted “(other than a member of the Capitol Police)” after “employee”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2871,7 +2871,7 @@ Amendment by Pub. L. 108–176 effective on 60th day after Dec. 12, 2003, and ap
 
 **Effective Date of 2000 Amendment**
 
-Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual who is employed as a member of the Supreme Court Police after Dec. 21, 2000, see section 1(a)(2) [title III, § 308(i), (j)] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
+Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual who is employed as a member of the Supreme Court Police after Dec. 21, 2000, see section 1(a)(2) [title III, § 308(i), (j)] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
 
 **Effective Date of 1998 Amendment**
 
@@ -2883,11 +2883,11 @@ Amendment by Pub. L. 102–378 effective Nov. 5, 1990, see section 9(b)(6) of Pu
 
 **Exception to Automatic Separation of Members of Capitol Police**
 
-Pub. L. 101–428, § 3(b)(1)(B), Oct. 15, 1990, 104 Stat. 929, provided that: “Nothing in section 8425(b) of title 5, United States Code, as amended by subparagraph (A), shall require the automatic separation of any member of the Capitol Police before the end of the 2-year period beginning on the date of enactment of this Act [Oct. 15, 1990].”
+Pub. L. 101–428, § 3(b)(1)(B), Oct. 15, 1990, 104 Stat. 929, provided that: “Nothing in section 8425(b) of title 5, United States Code, as amended by subparagraph (A), shall require the automatic separation of any member of the Capitol Police before the end of the 2-year period beginning on the date of enactment of this Act [Oct. 15, 1990].”
 
 ## SUBCHAPTER III—THRIFT SAVINGS PLAN
 
-### § 8431. Certain transfers to be treated as a separation
+### § 8431. Certain transfers to be treated as a separation
 
 **(a)** For purposes of this subchapter, separation from Government employment includes a transfer from a position that is subject to one of the retirement systems described in subsection (b) to a position that is not subject to any of them.
 
@@ -2899,21 +2899,21 @@ Pub. L. 101–428, § 3(b)(1)(B), Oct. 15, 1990, 104 Stat. 929, provided that:
 
 **(3)** any other retirement system under which individuals may contribute to the Thrift Savings Fund through withholdings from pay.
 
-(Added Pub. L. 106–168, title II, § 203(a)(1), Dec. 12, 1999, 113 Stat. 1820.)
+(Added Pub. L. 106–168, title II, § 203(a)(1), Dec. 12, 1999, 113 Stat. 1820.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 8431, added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 541; amended Pub. L. 101–509, title V, § 529 [title I, § 101(b)(6)(B)], Nov. 5, 1990, 104 Stat. 1427, 1440, provided a definition of “basic pay” for this subchapter, prior to repeal by Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title II, §§ 206(a)(2), 207]], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378, effective Sept. 30, 1996.
+A prior section 8431, added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 541; amended Pub. L. 101–509, title V, § 529 [title I, § 101(b)(6)(B)], Nov. 5, 1990, 104 Stat. 1427, 1440, provided a definition of “basic pay” for this subchapter, prior to repeal by Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title II, §§ 206(a)(2), 207]], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378, effective Sept. 30, 1996.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 106–168, title II, § 203(c), Dec. 12, 1999, 113 Stat. 1820, provided that: “The amendments made by this section [enacting this section and amending section 8351 of this title] shall apply with respect to transfers occurring before, on, or after the date of the enactment of this Act [Dec. 12, 1999], except that, for purposes of applying such amendments with respect to any transfer occurring before such date of enactment, the date of such transfer shall be considered to be the date of the enactment of this Act. The Executive Director (within the meaning of section 8401(13) of title 5, United States Code) may prescribe any regulations necessary to carry out this subsection.”
+Pub. L. 106–168, title II, § 203(c), Dec. 12, 1999, 113 Stat. 1820, provided that: “The amendments made by this section [enacting this section and amending section 8351 of this title] shall apply with respect to transfers occurring before, on, or after the date of the enactment of this Act [Dec. 12, 1999], except that, for purposes of applying such amendments with respect to any transfer occurring before such date of enactment, the date of such transfer shall be considered to be the date of the enactment of this Act. The Executive Director (within the meaning of section 8401(13) of title 5, United States Code) may prescribe any regulations necessary to carry out this subsection.”
 
-### § 8432. Contributions
+### § 8432. Contributions
 
 **(a)**
 
@@ -2921,7 +2921,7 @@ Pub. L. 106–168, title II, § 203(c), Dec. 12, 1999, 113 Stat. 1820, provide
 
 **(2)** The maximum percentage allowable under this paragraph shall be determined in accordance with the following table:
 
-| **In the case of a pay period beginning**  **in fiscal year:** | **The maximum percentage** **allowable is:** |
+| **In the case of a pay period beginning** **in fiscal year:** | **The maximum percentage** **allowable is:** |
 |---|---|
 | 2001 | 11 |
 | 2002 | 12 |
@@ -2968,9 +2968,9 @@ Pub. L. 106–168, title II, § 203(c), Dec. 12, 1999, 113 Stat. 1820, provide
 
 **(ii)**
 
-**(ii)**  1
+**(ii)** 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 Except in the case of a full TSP member (as defined in section 8440e(a)), members of the uniformed services shall not be eligible individuals for purposes of this paragraph.
 
@@ -3006,9 +3006,9 @@ the employing agency shall contribute to the Thrift Savings Fund for the benefit
 
 **(ii)** one-half of such portion of the amount of the employee’s or Member’s contribution as exceeds 3 percent, but does not exceed 5 percent, of such employee’s or Member’s basic pay for such pay period.
 
-**(C)** Notwithstanding subparagraph (B), the amount contributed under subparagraph (A) by an employing agency with respect to any contribution made by an employee or Member during any pay period which begins after the date on which such employee or Member makes an election under subsection (b)(4) 2
+**(C)** Notwithstanding subparagraph (B), the amount contributed under subparagraph (A) by an employing agency with respect to any contribution made by an employee or Member during any pay period which begins after the date on which such employee or Member makes an election under subsection (b)(4) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 and before July 1, 1987, shall be the amount equal to the sum of—
 
@@ -3096,13 +3096,13 @@ and before July 1, 1987, shall be the amount equal to the sum of—
 
 **(k)**
 
-**(1)** Only those employees of the Central Intelligence Agency participating in the pilot project required by section 402(b) of the Intelligence Authorization Act for Fiscal Year 2003 (Public Law 107–306; 50 U.S.C. 403–4 note) <sup>2</sup> and making contributions to the Thrift Savings Fund out of basic pay may also contribute (by direct transfer to the Fund) any part of bonus pay received by the employee as part of the pilot project.
+**(1)** Only those employees of the Central Intelligence Agency participating in the pilot project required by section 402(b) of the Intelligence Authorization Act for Fiscal Year 2003 (Public Law 107–306; 50 U.S.C. 403–4 note) <sup>2</sup> and making contributions to the Thrift Savings Fund out of basic pay may also contribute (by direct transfer to the Fund) any part of bonus pay received by the employee as part of the pilot project.
 
 **(2)** Contributions under this subsection are subject to subsection (d).
 
 **(3)** For purposes of subsection (c), basic pay of an employee of the Central Intelligence Agency participating in the pilot project referred to in paragraph (1) shall include bonus pay received by the employee as part of the pilot project.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 541; amended Pub. L. 99–509, title VI, § 6001(a)(1), (2), Oct. 21, 1986, 100 Stat. 1929, 1930; Pub. L. 100–20, § 1(b), Apr. 7, 1987, 101 Stat. 265; Pub. L. 100–238, title I, §§ 114, 115, 121, Jan. 8, 1988, 101 Stat. 1751, 1752; Pub. L. 103–353, §§ 4(c), 5(e)(3), Oct. 13, 1994, 108 Stat. 3172, 3174; Pub. L. 104–93, title III, § 304(a), Jan. 6, 1996, 109 Stat. 965; Pub. L. 104–186, title II, § 215(16), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, § 103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–361, §§ 1(a), 2(a), (b)(1)–(3), Oct. 27, 2000, 114 Stat. 1400, 1401; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 138(a)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 107–304, § 1(b)(1), Nov. 27, 2002, 116 Stat. 2363; Pub. L. 108–177, title IV, § 405(b)(2), Dec. 13, 2003, 117 Stat. 2632; Pub. L. 108–469, § 1(b), (c), (d)(2), Dec. 21, 2004, 118 Stat. 3891; Pub. L. 111–31, div. B, title I, § 102, June 22, 2009, 123 Stat. 1853; Pub. L. 114–92, div. A, title VI, § 632(b), (c), Nov. 25, 2015, 129 Stat. 847; Pub. L. 114–328, div. A, title VI, § 632, Dec. 23, 2016, 130 Stat. 2162.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 541; amended Pub. L. 99–509, title VI, § 6001(a)(1), (2), Oct. 21, 1986, 100 Stat. 1929, 1930; Pub. L. 100–20, § 1(b), Apr. 7, 1987, 101 Stat. 265; Pub. L. 100–238, title I, §§ 114, 115, 121, Jan. 8, 1988, 101 Stat. 1751, 1752; Pub. L. 103–353, §§ 4(c), 5(e)(3), Oct. 13, 1994, 108 Stat. 3172, 3174; Pub. L. 104–93, title III, § 304(a), Jan. 6, 1996, 109 Stat. 965; Pub. L. 104–186, title II, § 215(16), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–316, title I, § 103(g), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–361, §§ 1(a), 2(a), (b)(1)–(3), Oct. 27, 2000, 114 Stat. 1400, 1401; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 138(a)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 107–304, § 1(b)(1), Nov. 27, 2002, 116 Stat. 2363; Pub. L. 108–177, title IV, § 405(b)(2), Dec. 13, 2003, 117 Stat. 2632; Pub. L. 108–469, § 1(b), (c), (d)(2), Dec. 21, 2004, 118 Stat. 3891; Pub. L. 111–31, div. B, title I, § 102, June 22, 2009, 123 Stat. 1853; Pub. L. 114–92, div. A, title VI, § 632(b), (c), Nov. 25, 2015, 129 Stat. 847; Pub. L. 114–328, div. A, title VI, § 632, Dec. 23, 2016, 130 Stat. 2162.)
 
 **Editorial Notes**
 
@@ -3118,29 +3118,29 @@ The Intelligence Authorization Act for Fiscal Year 2003, referred to in subsec. 
 
 **Amendments**
 
-2016—Subsec. (g)(6). Pub. L. 114–328, § 632, repealed Pub. L. 114–92, § 632(c)(2). See 2015 Amendment note below.
+2016—Subsec. (g)(6). Pub. L. 114–328, § 632, repealed Pub. L. 114–92, § 632(c)(2). See 2015 Amendment note below.
 
-2015—Subsec. (b)(2)(D)(ii). Pub. L. 114–92, § 632(b)(1), substituted “(ii) Except in the case of a full TSP member (as defined in section 8440e(a)), members” for “Members”.
+2015—Subsec. (b)(2)(D)(ii). Pub. L. 114–92, § 632(b)(1), substituted “(ii) Except in the case of a full TSP member (as defined in section 8440e(a)), members” for “Members”.
 
-Subsec. (b)(2)(E). Pub. L. 114–92, § 632(b)(2), substituted “8440e(b)(1)” for “8440e(a)(1)”.
+Subsec. (b)(2)(E). Pub. L. 114–92, § 632(b)(2), substituted “8440e(b)(1)” for “8440e(a)(1)”.
 
-Subsec. (b)(2)(F). Pub. L. 114–92, § 632(b)(3), added subpar. (F).
+Subsec. (b)(2)(F). Pub. L. 114–92, § 632(b)(3), added subpar. (F).
 
-Subsec. (g)(2)(C). Pub. L. 114–92, § 632(c)(1), added subpar. (C).
+Subsec. (g)(2)(C). Pub. L. 114–92, § 632(c)(1), added subpar. (C).
 
-Subsec. (g)(6). Pub. L. 114–92, § 632(c)(2), which directed the amendment of subsec. (g) by adding at the end “(6) For purposes of this subsection, a member of the uniformed services shall be considered to have separated from Government employment if the member is discharged or released from service in the uniformed services.”, was repealed by Pub. L. 114–328, § 632.
+Subsec. (g)(6). Pub. L. 114–92, § 632(c)(2), which directed the amendment of subsec. (g) by adding at the end “(6) For purposes of this subsection, a member of the uniformed services shall be considered to have separated from Government employment if the member is discharged or released from service in the uniformed services.”, was repealed by Pub. L. 114–328, § 632.
 
-2009—Subsec. (b)(1)(B). Pub. L. 111–31, § 102(b), which directed the amendment of par. (1) by “striking the parenthetical matter in subparagraph (B)” was executed by striking out “(or any election allowable by virtue of paragraph (4))” before “shall be the percentage”, but not striking out “(A)” after “subparagraph”, to reflect the probable intent of Congress.
+2009—Subsec. (b)(1)(B). Pub. L. 111–31, § 102(b), which directed the amendment of par. (1) by “striking the parenthetical matter in subparagraph (B)” was executed by striking out “(or any election allowable by virtue of paragraph (4))” before “shall be the percentage”, but not striking out “(A)” after “subparagraph”, to reflect the probable intent of Congress.
 
-Subsec. (b)(2) to (4). Pub. L. 111–31, § 102(a), added par. (2) and struck out former pars. (2) to (4) which related to eligibility to make an election regarding contributions.
+Subsec. (b)(2) to (4). Pub. L. 111–31, § 102(a), added par. (2) and struck out former pars. (2) to (4) which related to eligibility to make an election regarding contributions.
 
-2004—Subsec. (b)(1)(A). Pub. L. 108–469, § 1(b), designated existing provisions as cl. (i), substituted “may” for “shall be afforded a reasonable period every 6 months to elect to”, struck out second sentence which read “An election to make such contributions shall remain in effect until modified or terminated.”, and added cl. (ii).
+2004—Subsec. (b)(1)(A). Pub. L. 108–469, § 1(b), designated existing provisions as cl. (i), substituted “may” for “shall be afforded a reasonable period every 6 months to elect to”, struck out second sentence which read “An election to make such contributions shall remain in effect until modified or terminated.”, and added cl. (ii).
 
-Subsec. (b)(2)(A), (C). Pub. L. 108–469, § 1(d)(2)(A), (B), substituted “until the date” for “until the second period”.
+Subsec. (b)(2)(A), (C). Pub. L. 108–469, § 1(d)(2)(A), (B), substituted “until the date” for “until the second period”.
 
-Subsec. (b)(2)(D). Pub. L. 108–469, § 1(d)(2)(C), substituted “as provided” for “other than during a period afforded”.
+Subsec. (b)(2)(D). Pub. L. 108–469, § 1(d)(2)(C), substituted “as provided” for “other than during a period afforded”.
 
-Subsec. (b)(4)(C). Pub. L. 108–469, § 1(c), designated existing provisions as cl. (i) and added cl. (ii).
+Subsec. (b)(4)(C). Pub. L. 108–469, § 1(c), designated existing provisions as cl. (i) and added cl. (ii).
 
 2003—Subsec. (k). Pub. L. 108–177 added subsec. (k).
 
@@ -3148,19 +3148,19 @@ Subsec. (b)(4)(C). Pub. L. 108–469, § 1(c), designated existing provisions 
 
 2000—Subsec. (a). Pub. L. 106–554 designated existing provisions as par. (1), substituted “the maximum percentage of such employee’s or Member’s basic pay for such pay period allowable under paragraph (2).” for “10 percent of such individual’s basic pay for such period.”, and added par. (2).
 
-Pub. L. 106–361, § 2(b)(1), substituted “(b)” for “(b)(1)” and “Contributions under this subsection pursuant to such an election shall, with respect to each pay period for which such election remains in effect, be made in accordance with a program of regular contributions provided in regulations prescribed by the Executive Director” for “Contributions made under this subsection during any 6-month period for which an election period is provided under subsection (b)(1) shall be made each pay period during such 6-month period pursuant to a program of regular contributions provided in regulations prescribed by the Executive Director”.
+Pub. L. 106–361, § 2(b)(1), substituted “(b)” for “(b)(1)” and “Contributions under this subsection pursuant to such an election shall, with respect to each pay period for which such election remains in effect, be made in accordance with a program of regular contributions provided in regulations prescribed by the Executive Director” for “Contributions made under this subsection during any 6-month period for which an election period is provided under subsection (b)(1) shall be made each pay period during such 6-month period pursuant to a program of regular contributions provided in regulations prescribed by the Executive Director”.
 
-Subsec. (b)(1)(B). Pub. L. 106–361, § 2(b)(2), inserted “(or any election allowable by virtue of paragraph (4))” after “subparagraph (A)”.
+Subsec. (b)(1)(B). Pub. L. 106–361, § 2(b)(2), inserted “(or any election allowable by virtue of paragraph (4))” after “subparagraph (A)”.
 
-Subsec. (b)(3). Pub. L. 106–361, § 2(b)(3), substituted “An” for “Notwithstanding paragraph (2)(A), an”.
+Subsec. (b)(3). Pub. L. 106–361, § 2(b)(3), substituted “An” for “Notwithstanding paragraph (2)(A), an”.
 
-Subsec. (b)(4). Pub. L. 106–361, § 2(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows:
+Subsec. (b)(4). Pub. L. 106–361, § 2(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows:
 
 “(A) Notwithstanding paragraph (2)(A), an employee or Member who is an employee or Member on January 1, 1987, and continues as an employee or Member without a break in service through April 1, 1987, may make the first election for the purpose of subsection (a) during the election period prescribed for such purpose by the Executive Director. The Executive Director shall prescribe an election period for such purpose which shall commence on April 1, 1987. An election by such an employee or Member during that election period shall be effective on the first day of the employee’s or Member’s first pay period which begins after the date on which the employee or Member makes that election.
 
 “(B) Notwithstanding subsection (a), the maximum amount that an employee or Member may contribute during any pay period which begins on or after April 1, 1987, and before October 1, 1987, pursuant to an election made during the election period provided under subparagraph (A) is the amount equal to 15 percent of such individual’s basic pay for such pay period.”
 
-Subsec. (j). Pub. L. 106–361, § 1(a), added subsec. (j).
+Subsec. (j). Pub. L. 106–361, § 1(a), added subsec. (j).
 
 1996—Subsec. (e). Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may pay from the applicable accounts” for “Clerk of the House of Representatives, the Clerk may pay from the contingent fund”.
 
@@ -3168,39 +3168,39 @@ Subsec. (f). Pub. L. 104–316 substituted “Secretary of the Treasury” for �
 
 Subsec. (g)(5). Pub. L. 104–93 added par. (5).
 
-1994—Subsec. (d). Pub. L. 103–353, § 5(e)(3), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+1994—Subsec. (d). Pub. L. 103–353, § 5(e)(3), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-Subsec. (i). Pub. L. 103–353, § 4(c), added subsec. (i).
+Subsec. (i). Pub. L. 103–353, § 4(c), added subsec. (i).
 
-1988—Subsec. (c)(1)(A). Pub. L. 100–238, § 121(a), substituted “At the time prescribed by the Executive Director, but no later than 12 days after the end of” for “At the end of” and “within such time as the Executive Director may prescribe with respect to succeeding pay periods (but no later than 12 days after the end of each such pay period)” for “at the end of each succeeding pay period”.
+1988—Subsec. (c)(1)(A). Pub. L. 100–238, § 121(a), substituted “At the time prescribed by the Executive Director, but no later than 12 days after the end of” for “At the end of” and “within such time as the Executive Director may prescribe with respect to succeeding pay periods (but no later than 12 days after the end of each such pay period)” for “at the end of each succeeding pay period”.
 
-Subsec. (c)(2)(A). Pub. L. 100–238, § 121(b), substituted “within such time as the Executive Director may prescribe, but no later than 12 days after the end of each such pay period” for “at the end of such pay period”.
+Subsec. (c)(2)(A). Pub. L. 100–238, § 121(b), substituted “within such time as the Executive Director may prescribe, but no later than 12 days after the end of each such pay period” for “at the end of such pay period”.
 
-Subsec. (d). Pub. L. 100–238, § 114, inserted at end “However, no contribution made under subsection (c)(3) shall be subject to, or taken into account, for purposes of the preceding sentence.”
+Subsec. (d). Pub. L. 100–238, § 114, inserted at end “However, no contribution made under subsection (c)(3) shall be subject to, or taken into account, for purposes of the preceding sentence.”
 
-Subsec. (g)(1). Pub. L. 100–238, § 115(1), substituted “Except as otherwise provided in this subsection” for “Except as provided in paragraphs (2) and (3)”.
+Subsec. (g)(1). Pub. L. 100–238, § 115(1), substituted “Except as otherwise provided in this subsection” for “Except as provided in paragraphs (2) and (3)”.
 
-Subsec. (g)(4). Pub. L. 100–238, § 115(2), added par. (4).
+Subsec. (g)(4). Pub. L. 100–238, § 115(2), added par. (4).
 
 1987—Subsec. (b)(4)(A). Pub. L. 100–20 substituted “Notwithstanding paragraph (2)(A), an employee or Member who is an employee or Member on January 1, 1987, and continues as an employee or Member without a break in service through April 1, 1987, may make the first election for the purpose of subsection (a) during the election period prescribed for such purpose by the Executive Director” for “Notwithstanding paragraph (2)(A), an employee or Member who is an employee or Member on January 1, 1987, continues as an employee or Member without a break in service through April 1, 1987, and has creditable service described in section 8411(b)(2) of this title may make the first election for the purpose of subsection (a) during the election period prescribed for such purpose by the Executive Director”.
 
-1986—Subsec. (b)(4). Pub. L. 99–509, § 6001(a)(1), designated existing provisions as subpar. (A), inserted “continues as an employee or Member without a break in service through April 1, 1987,” substituted “April 1, 1987” for “January 1, 1987”, substituted “the date on which the employee or Member makes that election” for “the last day of that election period”, and added subpar. (B).
+1986—Subsec. (b)(4). Pub. L. 99–509, § 6001(a)(1), designated existing provisions as subpar. (A), inserted “continues as an employee or Member without a break in service through April 1, 1987,” substituted “April 1, 1987” for “January 1, 1987”, substituted “the date on which the employee or Member makes that election” for “the last day of that election period”, and added subpar. (B).
 
-Subsec. (c)(1). Pub. L. 99–509, § 6001(a)(2)(A), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
+Subsec. (c)(1). Pub. L. 99–509, § 6001(a)(2)(A), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
-Subsec. (c)(2)(C). Pub. L. 99–509, § 6001(a)(2)(B), added subpar. (C).
+Subsec. (c)(2)(C). Pub. L. 99–509, § 6001(a)(2)(B), added subpar. (C).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–328, div. A, title VI, § 632, Dec. 23, 2016, 130 Stat. 2162, provided that, effective Dec. 23, 2016, paragraph (2) of section 632(c) of Pub. L. 114–92 (amending this section) is repealed, and the amendment proposed to be made by that paragraph shall not be made or go into effect.
+Pub. L. 114–328, div. A, title VI, § 632, Dec. 23, 2016, 130 Stat. 2162, provided that, effective Dec. 23, 2016, paragraph (2) of section 632(c) of Pub. L. 114–92 (amending this section) is repealed, and the amendment proposed to be made by that paragraph shall not be made or go into effect.
 
 **Effective Date of 2015 Amendment; Implementation**
 
-Pub. L. 114–92, div. A, title VI, § 635, Nov. 25, 2015, 129 Stat. 851, provided that:
+Pub. L. 114–92, div. A, title VI, § 635, Nov. 25, 2015, 129 Stat. 851, provided that:
 
-> **“(a) Effective Date.—** The amendments made by this part [part I (§§ 631–635) of subtitle D of title VI of Pub. L. 114–92, enacting section 1415 of Title 10, Armed Forces, and section 356 of Title 37, Pay and Allowances of the Uniformed Services, and amending this section and sections 8432b, 8438, and 8440e of this title, sections 1401, 1401a, 1409, 1410, 1413a, 1414, 1463, and 12739 of Title 10, section 3045 of Title 33, Navigation and Navigable Waters, sections 211 and 354 of Title 37, section 5304 of Title 38, Veterans’ Benefits, and section 212 of Title 42, The Public Health and Welfare] shall take effect on January 1, 2018.
+> **“(a) Effective Date.—** The amendments made by this part [part I (§§ 631–635) of subtitle D of title VI of Pub. L. 114–92, enacting section 1415 of Title 10, Armed Forces, and section 356 of Title 37, Pay and Allowances of the Uniformed Services, and amending this section and sections 8432b, 8438, and 8440e of this title, sections 1401, 1401a, 1409, 1410, 1413a, 1414, 1463, and 12739 of Title 10, section 3045 of Title 33, Navigation and Navigable Waters, sections 211 and 354 of Title 37, section 5304 of Title 38, Veterans’ Benefits, and section 212 of Title 42, The Public Health and Welfare] shall take effect on January 1, 2018.
 
 > **“(b) Implementation.—**
 
@@ -3226,13 +3226,13 @@ Amendment by Pub. L. 107–304 effective as of the earliest practicable date det
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–361, § 1(b), Oct. 27, 2000, 114 Stat. 1400, provided that: “The amendment made by this section [amending this section] shall take effect at the earliest practicable date after September 30, 2000, as determined by the Executive Director in regulations.” [Final regulations implementing the amendments became effective May 2, 2001. See 66 F.R. 22088.]
+Pub. L. 106–361, § 1(b), Oct. 27, 2000, 114 Stat. 1400, provided that: “The amendment made by this section [amending this section] shall take effect at the earliest practicable date after September 30, 2000, as determined by the Executive Director in regulations.” [Final regulations implementing the amendments became effective May 2, 2001. See 66 F.R. 22088.]
 
-Pub. L. 106–361, § 2(c)(1), Oct. 27, 2000, 114 Stat. 1401, provided that: “The amendments made by this section [amending this section and sections 8439, 8440a, and 8440d of this title] shall take effect at the earliest practicable date after September 30, 2000, as determined by the Executive Director in regulations.” [Final regulations implementing the amendments became effective May 2, 2001. See 66 F.R. 22088.]
+Pub. L. 106–361, § 2(c)(1), Oct. 27, 2000, 114 Stat. 1401, provided that: “The amendments made by this section [amending this section and sections 8439, 8440a, and 8440d of this title] shall take effect at the earliest practicable date after September 30, 2000, as determined by the Executive Director in regulations.” [Final regulations implementing the amendments became effective May 2, 2001. See 66 F.R. 22088.]
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–93, title III, § 304(b), Jan. 6, 1996, 109 Stat. 965, provided that: “The amendment made by subsection (a) [amending this section] shall apply to offenses upon which the requisite annuity forfeitures are based occurring on or after the date of the enactment of this Act [Jan. 6, 1996].”
+Pub. L. 104–93, title III, § 304(b), Jan. 6, 1996, 109 Stat. 965, provided that: “The amendment made by subsection (a) [amending this section] shall apply to offenses upon which the requisite annuity forfeitures are based occurring on or after the date of the enactment of this Act [Jan. 6, 1996].”
 
 **Effective Date of 1994 Amendment**
 
@@ -3242,19 +3242,19 @@ Amendment by section 5(e)(3) of Pub. L. 103–353 effective with respect to reem
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–509, title VI, § 6001(f), Oct. 21, 1986, 100 Stat. 1931, provided that: “This section [amending this section and section 8472 of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 8351 of this title], other than subsection (d) [set out below], and the amendments made by this section shall take effect on January 1, 1987.”
+Pub. L. 99–509, title VI, § 6001(f), Oct. 21, 1986, 100 Stat. 1931, provided that: “This section [amending this section and section 8472 of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 8351 of this title], other than subsection (d) [set out below], and the amendments made by this section shall take effect on January 1, 1987.”
 
 **Regulations**
 
-Pub. L. 99–509, title VI, § 6001(d), Oct. 21, 1986, 100 Stat. 1931, provided that: “The Executive Director of the Federal Retirement Thrift Investment Board may prescribe regulations to carry out subsections (a), (b), and (c) [amending this section, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 8351 of this title] and the amendments made by subsections (a) and (b).”
+Pub. L. 99–509, title VI, § 6001(d), Oct. 21, 1986, 100 Stat. 1931, provided that: “The Executive Director of the Federal Retirement Thrift Investment Board may prescribe regulations to carry out subsections (a), (b), and (c) [amending this section, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 8351 of this title] and the amendments made by subsections (a) and (b).”
 
 **Savings Provisions**
 
-Pub. L. 106–361, § 2(c)(2), Oct. 27, 2000, 114 Stat. 1401, provided that: “Notwithstanding any other provision of this section [amending this section and sections 8439, 8440a, and 8440d of this title and enacting provisions set out as a note under this section], until the amendments made by this section take effect [see Effective Date of 2000 Amendment note above], title 5, United States Code, shall be applied as if this section had not been enacted.”
+Pub. L. 106–361, § 2(c)(2), Oct. 27, 2000, 114 Stat. 1401, provided that: “Notwithstanding any other provision of this section [amending this section and sections 8439, 8440a, and 8440d of this title and enacting provisions set out as a note under this section], until the amendments made by this section take effect [see Effective Date of 2000 Amendment note above], title 5, United States Code, shall be applied as if this section had not been enacted.”
 
 **Eligibility of Certain Individuals To Participate in Thrift Savings Plan**
 
-Pub. L. 100–238, title I, § 125, Jan. 8, 1988. 101 Stat. 1756, as amended by Pub. L. 107–347, title II, § 209(g)(3), Dec. 17, 2002, 116 Stat. 2932; Pub. L. 110–234, title VII, § 7101(b)(6), May 22, 2008, 122 Stat. 1214; Pub. L. 110–246, § 4(a), title VII, § 7101(b)(6), June 18, 2008, 122 Stat. 1664, 1975, provided that:
+Pub. L. 100–238, title I, § 125, Jan. 8, 1988. 101 Stat. 1756, as amended by Pub. L. 107–347, title II, § 209(g)(3), Dec. 17, 2002, 116 Stat. 2932; Pub. L. 110–234, title VII, § 7101(b)(6), May 22, 2008, 122 Stat. 1214; Pub. L. 110–246, § 4(a), title VII, § 7101(b)(6), June 18, 2008, 122 Stat. 1664, 1975, provided that:
 
 > **“(a) Definitions.—** For purposes of this section—
 
@@ -3294,17 +3294,17 @@ Pub. L. 100–238, title I, § 125, Jan. 8, 1988. 101 Stat. 1756, as amended b
 
 **Contributions to Thrift Savings Fund**
 
-Pub. L. 99–509, title VI, § 6001(a)(3), Oct. 21, 1986, 100 Stat. 1930, directed that contributions made to Thrift Savings Fund under 5 U.S.C. 8432(c)(1)(B), (C) and (3) be made as soon as practicable during the 15-day period which began on Apr. 1, 1987.
+Pub. L. 99–509, title VI, § 6001(a)(3), Oct. 21, 1986, 100 Stat. 1930, directed that contributions made to Thrift Savings Fund under 5 U.S.C. 8432(c)(1)(B), (C) and (3) be made as soon as practicable during the 15-day period which began on Apr. 1, 1987.
 
 **Inapplicability of Limitation on Number of Elections Within a Six-Month Period**
 
-Pub. L. 99–509, title VI, § 6001(c), Oct. 21, 1986, 100 Stat. 1931, provided that the requirement that contributions be made for a 6-month period after an election, as provided in 5 U.S.C. 8432(a), did not apply to contributions made pursuant to an election made during the period provided in former 5 U.S.C. 8432(b)(4) or section 206(b) of Pub. L. 99–335, formerly set out as a note under section 8351 of this title; that the first election period prescribed under 5 U.S.C. 8432(b)(1) commence on July 1, 1987; and that each employee or Member who made such an election could make an election under 5 U.S.C. 8432(b)(1) during the election period that began on July 1, 1987.
+Pub. L. 99–509, title VI, § 6001(c), Oct. 21, 1986, 100 Stat. 1931, provided that the requirement that contributions be made for a 6-month period after an election, as provided in 5 U.S.C. 8432(a), did not apply to contributions made pursuant to an election made during the period provided in former 5 U.S.C. 8432(b)(4) or section 206(b) of Pub. L. 99–335, formerly set out as a note under section 8351 of this title; that the first election period prescribed under 5 U.S.C. 8432(b)(1) commence on July 1, 1987; and that each employee or Member who made such an election could make an election under 5 U.S.C. 8432(b)(1) during the election period that began on July 1, 1987.
 
 **Plan for Delayed Contributions to Thrift Savings Fund**
 
-Pub. L. 99–335, title III, § 312, June 6, 1986, 100 Stat. 608, directed Executive Director of Federal Retirement Thrift Investment Board to transmit to Congress, not later than Jan. 1, 1988, a plan to afford Federal employees and Members of Congress who make less than maximum amount of authorized contributions to Thrift Savings Fund in any period an opportunity to contribute to such Fund, in a later period, the excess of such amount over the amount contributed during such period, with plan to include such recommendations for legislation as Executive Director considered appropriate.
+Pub. L. 99–335, title III, § 312, June 6, 1986, 100 Stat. 608, directed Executive Director of Federal Retirement Thrift Investment Board to transmit to Congress, not later than Jan. 1, 1988, a plan to afford Federal employees and Members of Congress who make less than maximum amount of authorized contributions to Thrift Savings Fund in any period an opportunity to contribute to such Fund, in a later period, the excess of such amount over the amount contributed during such period, with plan to include such recommendations for legislation as Executive Director considered appropriate.
 
-### § 8432a. Payment of lost earnings
+### § 8432a. Payment of lost earnings
 
 **(a)**
 
@@ -3332,7 +3332,7 @@ Pub. L. 99–335, title III, § 312, June 6, 1986, 100 Stat. 608, directed Exe
 
 **(c)** Any amounts required to be paid by an employing agency under this section shall be paid from the appropriation or fund available to the employing agency for payment of salaries of the participant’s office or establishment. If a participant in the legislative branch is paid by the Chief Administrative Officer of the House of Representatives, the Chief Administrative Officer may pay from the applicable accounts of the House of Representatives the amount required to be paid to correct errors relating to the Thrift Savings Fund that otherwise would be paid from the appropriation or fund used to pay the participant.
 
-(Added Pub. L. 101–335, § 2(a)(1), July 17, 1990, 104 Stat. 319; amended Pub. L. 104–186, title II, § 215(17), Aug. 20, 1996, 110 Stat. 1746.)
+(Added Pub. L. 101–335, § 2(a)(1), July 17, 1990, 104 Stat. 319; amended Pub. L. 104–186, title II, § 215(17), Aug. 20, 1996, 110 Stat. 1746.)
 
 **Editorial Notes**
 
@@ -3344,9 +3344,9 @@ Pub. L. 99–335, title III, § 312, June 6, 1986, 100 Stat. 608, directed Exe
 
 **Effective Date**
 
-Pub. L. 101–335, § 2(b), July 17, 1990, 104 Stat. 320, provided that: “The amendments made by this section [enacting this section] shall apply with respect to lost earnings attributable to errors made before, on, or after the date of enactment of this Act [July 17, 1990].”
+Pub. L. 101–335, § 2(b), July 17, 1990, 104 Stat. 320, provided that: “The amendments made by this section [enacting this section] shall apply with respect to lost earnings attributable to errors made before, on, or after the date of enactment of this Act [July 17, 1990].”
 
-### § 8432b. Contributions of persons who perform military service
+### § 8432b. Contributions of persons who perform military service
 
 **(a)** This section applies to any employee who—
 
@@ -3432,7 +3432,7 @@ The employing agency may place a maximum limit on the period of time referred to
 
 **(i)** The Executive Director shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 103–353, § 4(a)(1), Oct. 13, 1994, 108 Stat. 3170; amended Pub. L. 106–65, div. A, title VI, § 661(a)(3)(A), (C), Oct. 5, 1999, 113 Stat. 671; Pub. L. 114–92, div. A, title VI, § 632(e)(2), Nov. 25, 2015, 129 Stat. 847; Pub. L. 115–84, § 2(e), Nov. 17, 2017, 131 Stat. 1273.)
+(Added Pub. L. 103–353, § 4(a)(1), Oct. 13, 1994, 108 Stat. 3170; amended Pub. L. 106–65, div. A, title VI, § 661(a)(3)(A), (C), Oct. 5, 1999, 113 Stat. 671; Pub. L. 114–92, div. A, title VI, § 632(e)(2), Nov. 25, 2015, 129 Stat. 847; Pub. L. 115–84, § 2(e), Nov. 17, 2017, 131 Stat. 1273.)
 
 **Editorial Notes**
 
@@ -3442,15 +3442,15 @@ The employing agency may place a maximum limit on the period of time referred to
 
 2015—Subsec. (c)(2)(B). Pub. L. 114–92 struck out “(including pursuant to an agreement under section 211(d) of title 37)” before “with respect to the period”.
 
-1999—Subsec. (b)(2)(B). Pub. L. 106–65, § 661(a)(3)(A), inserted “or 8440e” after “section 8432(a)”.
+1999—Subsec. (b)(2)(B). Pub. L. 106–65, § 661(a)(3)(A), inserted “or 8440e” after “section 8432(a)”.
 
-Subsec. (c). Pub. L. 106–65, § 661(a)(3)(C), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+Subsec. (c). Pub. L. 106–65, § 661(a)(3)(C), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–84, § 2(g), Nov. 17, 2017, 131 Stat. 1273, provided that: “The amendments made by this section [amending this section and section 8433 of this title] shall take effect on the date on which the regulations prescribed under subsection (f) [section 2(f) of Pub. L. 115–84, set out as a Regulations note under section 8433 of this title] take effect [Sept. 15, 2019; see 84 F.R. 46419].”
+Pub. L. 115–84, § 2(g), Nov. 17, 2017, 131 Stat. 1273, provided that: “The amendments made by this section [amending this section and section 8433 of this title] shall take effect on the date on which the regulations prescribed under subsection (f) [section 2(f) of Pub. L. 115–84, set out as a Regulations note under section 8433 of this title] take effect [Sept. 15, 2019; see 84 F.R. 46419].”
 
 **Effective Date of 2015 Amendment; Implementation**
 
@@ -3462,7 +3462,7 @@ Amendment by Pub. L. 106–65 effective 180 days after Oct. 30, 2000, unless pos
 
 **Effective Date**
 
-Pub. L. 103–353, § 4(e), (f), Oct. 13, 1994, 108 Stat. 3172, 3173, provided that:
+Pub. L. 103–353, § 4(e), (f), Oct. 13, 1994, 108 Stat. 3172, 3173, provided that:
 
 > **“(e) Effective Date; Applicability.—** This section [enacting this section and amending sections 8351, 8432, and 8433 of this title] and the amendments made by this section—
 
@@ -3490,19 +3490,19 @@ Pub. L. 103–353, § 4(e), (f), Oct. 13, 1994, 108 Stat. 3172, 3173, provided
 
 > **“(4)** Deem section 8432b(b)(2)(A) of such title to be amended by striking ‘ending on the day before the date of restoration or reemployment (as applicable)’ and inserting ‘ending on the date determined under section 4(f)(1) of the Uniformed Services Employment and Reemployment Rights Act of 1994’.”
 
-### § 8432c. Contributions of certain persons reemployed after service with international organizations
+### § 8432c. Contributions of certain persons reemployed after service with international organizations
 
 **(a)** In this section, the term “covered person” means any person who—
 
-**(1)** transfers from a position of employment covered by chapter 83 or 84 or subchapter I or II of chapter 8 1
+**(1)** transfers from a position of employment covered by chapter 83 or 84 or subchapter I or II of chapter 8 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Foreign Service Act of 1980 to a position of employment with an international organization pursuant to section 3582;
 
 **(2)** pursuant to section 3582 elects to retain coverage, rights, and benefits under any system established by law for the retirement of persons during the period of employment with the international organization and currently deposits the necessary deductions in payment for such coverage, rights, and benefits in the system’s fund; and
 
-**(3)** is reemployed pursuant to section 3582(b) to a position covered by chapter 83 or 84 or subchapter I or II of chapter 8 <sup>1</sup> of the Foreign Service Act of 1980 after separation from the international organization.
+**(3)** is reemployed pursuant to section 3582(b) to a position covered by chapter 83 or 84 or subchapter I or II of chapter 8 <sup>1</sup> of the Foreign Service Act of 1980 after separation from the international organization.
 
 **(b)**
 
@@ -3536,21 +3536,21 @@ of the Foreign Service Act of 1980 to a position of employment with an internati
 
 **(f)** The Executive Director shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 334(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–440.)
+(Added Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 334(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–440.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Service Act of 1980, referred to in subsec. (a)(1), (3), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Subchapters I and II of chapter 8 of the Act probably mean subchapters I and II of chapter 8 of title I of the Act which are classified generally to parts I (§ 4041 et seq.) and II (§ 4071 et seq.), respectively, of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (a)(1), (3), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Subchapters I and II of chapter 8 of the Act probably mean subchapters I and II of chapter 8 of title I of the Act which are classified generally to parts I (§ 4041 et seq.) and II (§ 4071 et seq.), respectively, of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 334(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–441, provided that: “The amendment made by subsection (a) [enacting this section] shall apply to persons reemployed on or after the date of enactment of this Act [Nov. 29, 1999].”
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 334(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–441, provided that: “The amendment made by subsection (a) [enacting this section] shall apply to persons reemployed on or after the date of enactment of this Act [Nov. 29, 1999].”
 
-### § 8432d. Qualified Roth contribution program
+### § 8432d. Qualified Roth contribution program
 
 **(a) Definitions.—** For purposes of this section—
 
@@ -3572,7 +3572,7 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 334(c)], Nov
 
 **(3)** any other provisions which may be necessary to carry out this section.
 
-(Added Pub. L. 111–31, div. B, title I, § 103(a), June 22, 2009, 123 Stat. 1853.)
+(Added Pub. L. 111–31, div. B, title I, § 103(a), June 22, 2009, 123 Stat. 1853.)
 
 **Editorial Notes**
 
@@ -3580,7 +3580,7 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 334(c)], Nov
 
 Section 402A of the Internal Revenue Code of 1986, referred to in subsec. (a), is classified to section 402A of Title 26, Internal Revenue Code.
 
-### § 8433. Benefits and election of benefits
+### § 8433. Benefits and election of benefits
 
 **(a)** An employee or Member who separates from Government employment is entitled to the amount of the balance in the employee’s or Member’s account (except for the portion of such amount forfeited under section 8432(g) of this title, if any) as provided in this section.
 
@@ -3654,7 +3654,7 @@ Section 402A of the Internal Revenue Code of 1986, referred to in subsec. (a), i
 
 **(4)** A withdrawal may not be made under this subsection unless the requirements of section 8435(e) of this title are satisfied.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 544; amended Pub. L. 100–238, title I, § 132, Jan. 8, 1988, 101 Stat. 1760; Pub. L. 101–335, §§ 5(a), 6(a)(2), July 17, 1990, 104 Stat. 321, 322; Pub. L. 102–484, div. D, title XLIV, § 4437(a), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, § 9(b), (i)(3)–(7), Mar. 30, 1994, 108 Stat. 119, 121, 122; Pub. L. 103–353, §§ 4(b), 5(e)(4), Oct. 13, 1994, 108 Stat. 3172, 3174; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title II, § 203(a)]], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–374; Pub. L. 106–65, div. A, title VI, § 661(a)(4), Oct. 5, 1999, 113 Stat. 672; Pub. L. 108–469, § 3(1), Dec. 21, 2004, 118 Stat. 3893; Pub. L. 111–31, div. B, title I, § 109, June 22, 2009, 123 Stat. 1856; Pub. L. 115–84, § 2(a)–(d), Nov. 17, 2017, 131 Stat. 1272, 1273.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 544; amended Pub. L. 100–238, title I, § 132, Jan. 8, 1988, 101 Stat. 1760; Pub. L. 101–335, §§ 5(a), 6(a)(2), July 17, 1990, 104 Stat. 321, 322; Pub. L. 102–484, div. D, title XLIV, § 4437(a), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, § 9(b), (i)(3)–(7), Mar. 30, 1994, 108 Stat. 119, 121, 122; Pub. L. 103–353, §§ 4(b), 5(e)(4), Oct. 13, 1994, 108 Stat. 3172, 3174; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title II, § 203(a)]], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–374; Pub. L. 106–65, div. A, title VI, § 661(a)(4), Oct. 5, 1999, 113 Stat. 672; Pub. L. 108–469, § 3(1), Dec. 21, 2004, 118 Stat. 3893; Pub. L. 111–31, div. B, title I, § 109, June 22, 2009, 123 Stat. 1856; Pub. L. 115–84, § 2(a)–(d), Nov. 17, 2017, 131 Stat. 1272, 1273.)
 
 **Editorial Notes**
 
@@ -3664,25 +3664,25 @@ Sections 72(p) and 402(c)(8) of the Internal Revenue Code of 1986, referred to i
 
 **Amendments**
 
-2017—Subsec. (c)(1). Pub. L. 115–84, § 2(a)(1), substituted “may make one or more withdrawals” for “and who has not made a withdrawal under subsection (h)(1)(A) may make one withdrawal” and “in the same manner as a single payment is made” for “as a single payment”.
+2017—Subsec. (c)(1). Pub. L. 115–84, § 2(a)(1), substituted “may make one or more withdrawals” for “and who has not made a withdrawal under subsection (h)(1)(A) may make one withdrawal” and “in the same manner as a single payment is made” for “as a single payment”.
 
-Subsec. (c)(5). Pub. L. 115–84, § 2(a)(2), added par. (5).
+Subsec. (c)(5). Pub. L. 115–84, § 2(a)(2), added par. (5).
 
-Subsec. (d)(1). Pub. L. 115–84, § 2(b)(1), inserted “, except that in the case of an election to receive an annuity, a former employee or Member may not change an election under this section on or after the date on which an annuity contract is purchased to provide for the annuity elected by the former employee or Member” after “this subchapter”.
+Subsec. (d)(1). Pub. L. 115–84, § 2(b)(1), inserted “, except that in the case of an election to receive an annuity, a former employee or Member may not change an election under this section on or after the date on which an annuity contract is purchased to provide for the annuity elected by the former employee or Member” after “this subchapter”.
 
-Subsec. (d)(2). Pub. L. 115–84, § 2(b)(2), substituted “return a payment that was made pursuant to an” for “change an” and struck out before period at end “on or after the date on which a payment is made in accordance with such election or, in the case of an election to receive an annuity, the date on which an annuity contract is purchased to provide for the annuity elected by the former employee or Member”.
+Subsec. (d)(2). Pub. L. 115–84, § 2(b)(2), substituted “return a payment that was made pursuant to an” for “change an” and struck out before period at end “on or after the date on which a payment is made in accordance with such election or, in the case of an election to receive an annuity, the date on which an annuity contract is purchased to provide for the annuity elected by the former employee or Member”.
 
-Subsec. (f). Pub. L. 115–84, § 2(c), struck out par. (1) designation before “Notwithstanding”, substituted “this subsection” for “this paragraph”, and struck out par. (2) which read as follows: “Unless otherwise elected under this section, and subject to paragraph (1), benefits under this subchapter shall be paid as an annuity commencing for an employee, Member, former employee, or former Member on April 1 of the year following the latest of the year in which—
+Subsec. (f). Pub. L. 115–84, § 2(c), struck out par. (1) designation before “Notwithstanding”, substituted “this subsection” for “this paragraph”, and struck out par. (2) which read as follows: “Unless otherwise elected under this section, and subject to paragraph (1), benefits under this subchapter shall be paid as an annuity commencing for an employee, Member, former employee, or former Member on April 1 of the year following the latest of the year in which—
 
 “(A) the employee, Member, former employee, or former Member becomes 70½ years of age; or
 
 “(B) the employee, Member, former employee, or former Member separates from Government employment.”
 
-Subsec. (h)(2). Pub. L. 115–84, § 2(d)(1), (2), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “A withdrawal under paragraph (1)(A) shall be available to each eligible participant one time only.”
+Subsec. (h)(2). Pub. L. 115–84, § 2(d)(1), (2), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “A withdrawal under paragraph (1)(A) shall be available to each eligible participant one time only.”
 
-Subsec. (h)(3). Pub. L. 115–84, § 2(d)(2), (3), redesignated par. (4) as (3) and inserted “limitations or” before “conditions”. Former par. (3) redesignated (2).
+Subsec. (h)(3). Pub. L. 115–84, § 2(d)(2), (3), redesignated par. (4) as (3) and inserted “limitations or” before “conditions”. Former par. (3) redesignated (2).
 
-Subsec. (h)(4), (5). Pub. L. 115–84, § 2(d)(2), redesignated pars. (4) and (5) as (3) and (4), respectively.
+Subsec. (h)(4), (5). Pub. L. 115–84, § 2(d)(2), redesignated pars. (4) and (5) as (3) and (4), respectively.
 
 2009—Subsec. (e). Pub. L. 111–31 designated existing provisions as par. (1) and added pars. (2) and (3).
 
@@ -3690,7 +3690,7 @@ Subsec. (h)(4), (5). Pub. L. 115–84, § 2(d)(2), redesignated pars. (4) and 
 
 1999—Subsecs. (g)(1), (h)(3). Pub. L. 106–65 struck out “under section 8432(a) of this title” after “by the employee or Member”.
 
-1996—Subsec. (b). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 203(a)(1)]], added subsec. (b) and struck out former subsec. (b) which read as follows: “Subject to section 8435 of this title, any employee or Member who separates from Government employment is entitled and may elect—
+1996—Subsec. (b). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 203(a)(1)]], added subsec. (b) and struck out former subsec. (b) which read as follows: “Subject to section 8435 of this title, any employee or Member who separates from Government employment is entitled and may elect—
 
 “(1) to receive an immediate annuity from the Thrift Savings Fund;
 
@@ -3700,27 +3700,27 @@ Subsec. (h)(4), (5). Pub. L. 115–84, § 2(d)(2), redesignated pars. (4) and 
 
 “(4) to transfer the amount of the balance in the employee’s or Member’s account to an eligible retirement plan as provided in subsection (c).”
 
-Subsec. (c). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 203(a)(1)]], added subsec. (c) and struck out former subsec. (c) which read as follows:
+Subsec. (c). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 203(a)(1)]], added subsec. (c) and struck out former subsec. (c) which read as follows:
 
 “(1) The Executive Director shall make each transfer elected under subsection (b)(4) directly to an eligible retirement plan or plans (as defined in section 402(c)(8) of the Internal Revenue Code of 1986) identified by the employee, Member, former employee, or former Member for whom the transfer is made.
 
 “(2) A transfer may not be made for an employee, Member, former employee, or former Member under paragraph (1) until the Executive Director receives from that individual the information required by the Executive Director specifically to identify the eligible retirement plan or plans to which the transfer is to be made.”
 
-Subsec. (d)(1). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 203(a)(2)(A)]], substituted “(3)” for “(3)(A)” after “Subject to paragraph”.
+Subsec. (d)(1). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 203(a)(2)(A)]], substituted “(3)” for “(3)(A)” after “Subject to paragraph”.
 
-Subsec. (d)(2). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 203(a)(2)(C)]], struck out subpar. (A) designation before “A former employee” and struck out subpar. (B) which read as follows: “A modification of a date may not be made under paragraph (2) on or after the date on which an annuity contract is purchased to provide for the annuity involved, and may not specify a date for the commencement of an annuity earlier than 90 days after the date on which the modification is submitted to the Executive Director (or such period shorter than 90 days as the Executive Director may by regulation prescribe).”
+Subsec. (d)(2). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 203(a)(2)(C)]], struck out subpar. (A) designation before “A former employee” and struck out subpar. (B) which read as follows: “A modification of a date may not be made under paragraph (2) on or after the date on which an annuity contract is purchased to provide for the annuity involved, and may not specify a date for the commencement of an annuity earlier than 90 days after the date on which the modification is submitted to the Executive Director (or such period shorter than 90 days as the Executive Director may by regulation prescribe).”
 
-Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 203(a)(2)(B)]], redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Subject to paragraph (3)(B) and section 8435(c) of this title, a former employee or Member who has made an election pursuant to subsection (b)(2) may modify the date specified in such election or in a previous modification under this paragraph.”
+Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 203(a)(2)(B)]], redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Subject to paragraph (3)(B) and section 8435(c) of this title, a former employee or Member who has made an election pursuant to subsection (b)(2) may modify the date specified in such election or in a previous modification under this paragraph.”
 
-Subsec. (d)(3). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 203(a)(2)(B)]], redesignated par. (3) as (2).
+Subsec. (d)(3). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 203(a)(2)(B)]], redesignated par. (3) as (2).
 
-Subsec. (f)(1). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 203(a)(3)]], substituted “less than an amount that the Executive Director prescribes by regulation” for “$3,500 or less” and substituted a comma for “unless the employee or Member elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under subsection (b), or”.
+Subsec. (f)(1). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 203(a)(3)]], substituted “less than an amount that the Executive Director prescribes by regulation” for “$3,500 or less” and substituted a comma for “unless the employee or Member elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under subsection (b), or”.
 
-Subsec. (f)(2). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 203(a)(4)]], in introductory provisions substituted “April 1” for “February 1”, in subpar. (A) substituted “70½” for “65” and inserted “or” after semicolon, redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “occurs the tenth anniversary of the year in which the employee, Member, former employee, or former Member became subject to this subchapter; or”.
+Subsec. (f)(2). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 203(a)(4)]], in introductory provisions substituted “April 1” for “February 1”, in subpar. (A) substituted “70½” for “65” and inserted “or” after semicolon, redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “occurs the tenth anniversary of the year in which the employee, Member, former employee, or former Member became subject to this subchapter; or”.
 
-Subsec. (g)(1). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 203(a)(5)(A)]], struck out “after December 31, 1987, and” after “At any time”, and inserted at end “Before a loan is issued, the Executive Director shall provide in writing the employee or Member with appropriate information concerning the cost of the loan relative to other sources of financing, as well as the lifetime cost of the loan, including the difference in interest rates between the funds offered by the Thrift Savings Fund, and any other effect of such loan on the employee’s or Member’s final account balance.”
+Subsec. (g)(1). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 203(a)(5)(A)]], struck out “after December 31, 1987, and” after “At any time”, and inserted at end “Before a loan is issued, the Executive Director shall provide in writing the employee or Member with appropriate information concerning the cost of the loan relative to other sources of financing, as well as the lifetime cost of the loan, including the difference in interest rates between the funds offered by the Thrift Savings Fund, and any other effect of such loan on the employee’s or Member’s final account balance.”
 
-Subsec. (g)(2) to (5). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 203(a)(5)(B)]], redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “An application under this subsection may be approved only for—
+Subsec. (g)(2) to (5). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 203(a)(5)(B)]], redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “An application under this subsection may be approved only for—
 
 “(A) the purchase of a primary residence;
 
@@ -3730,53 +3730,53 @@ Subsec. (g)(2) to (5). Pub. L. 104–208, § 101(f) [title VI, § 659 [title
 
 “(D) financial hardship.”
 
-Subsec. (h). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 203(a)(6)]], added subsec. (h).
+Subsec. (h). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 203(a)(6)]], added subsec. (h).
 
-1994—Subsec. (b). Pub. L. 103–226, § 9(b)(1), amended introductory provisions generally, substituting “Subject to section 8435 of this title, any employee or Member who separates from Government employment is entitled and may elect—” for “Subject to section 8435 of this title, any employee or Member who separates from Government employment entitled to an immediate annuity under subchapter II of this chapter, any employee or Member who separates from Government employment entitled to benefits under subchapter I of chapter 81 of this title, any employee who separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force, and any employee or Member who is entitled to receive disability benefits under subchapter V of this chapter is entitled and may elect—”.
+1994—Subsec. (b). Pub. L. 103–226, § 9(b)(1), amended introductory provisions generally, substituting “Subject to section 8435 of this title, any employee or Member who separates from Government employment is entitled and may elect—” for “Subject to section 8435 of this title, any employee or Member who separates from Government employment entitled to an immediate annuity under subchapter II of this chapter, any employee or Member who separates from Government employment entitled to benefits under subchapter I of chapter 81 of this title, any employee who separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force, and any employee or Member who is entitled to receive disability benefits under subchapter V of this chapter is entitled and may elect—”.
 
-Subsec. (b)(4). Pub. L. 103–226, § 9(i)(3), substituted “subsection (c)” for “subsection (e)”.
+Subsec. (b)(4). Pub. L. 103–226, § 9(i)(3), substituted “subsection (c)” for “subsection (e)”.
 
-Subsec. (c). Pub. L. 103–226, § 9(b)(2), redesignated subsec. (e) as (c) and struck out former subsec. (c) which related to permissible elections by employees separating from Government who are entitled to a deferred annuity.
+Subsec. (c). Pub. L. 103–226, § 9(b)(2), redesignated subsec. (e) as (c) and struck out former subsec. (c) which related to permissible elections by employees separating from Government who are entitled to a deferred annuity.
 
-Subsec. (c)(1). Pub. L. 103–226, § 9(b)(3), substituted “directly to an eligible retirement plan or plans (as defined in section 402(c)(8) of the Internal Revenue Code of 1986)” for “or (c)(4) or required under subsection (d) directly to an eligible retirement plan or plans (as defined in section 402(a)(5)(E) of the Internal Revenue Code of 1954)”.
+Subsec. (c)(1). Pub. L. 103–226, § 9(b)(3), substituted “directly to an eligible retirement plan or plans (as defined in section 402(c)(8) of the Internal Revenue Code of 1986)” for “or (c)(4) or required under subsection (d) directly to an eligible retirement plan or plans (as defined in section 402(a)(5)(E) of the Internal Revenue Code of 1954)”.
 
-Subsec. (d). Pub. L. 103–353, § 4(b)(1), inserted before period at end “, unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this subsection as if it had never occurred”.
+Subsec. (d). Pub. L. 103–353, § 4(b)(1), inserted before period at end “, unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this subsection as if it had never occurred”.
 
-Pub. L. 103–226, § 9(b)(2), redesignated subsec. (f) as (d) and struck out former subsec. (d) which read as follows: “Subject to section 8435 of this title, any employee or Member who separates from Government employment before becoming entitled to a deferred annuity under subchapter II of this chapter shall transfer the amount of the balance in the employee’s or Member’s account to an eligible retirement plan as provided in subsection (e), unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this subsection as if it had never occurred.”
+Pub. L. 103–226, § 9(b)(2), redesignated subsec. (f) as (d) and struck out former subsec. (d) which read as follows: “Subject to section 8435 of this title, any employee or Member who separates from Government employment before becoming entitled to a deferred annuity under subchapter II of this chapter shall transfer the amount of the balance in the employee’s or Member’s account to an eligible retirement plan as provided in subsection (e), unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this subsection as if it had never occurred.”
 
-Subsec. (d)(1). Pub. L. 103–226, § 9(i)(4), substituted “(c) of section 8435” for “(d) of section 8435”.
+Subsec. (d)(1). Pub. L. 103–226, § 9(i)(4), substituted “(c) of section 8435” for “(d) of section 8435”.
 
-Subsec. (d)(2). Pub. L. 103–226, § 9(b)(4), (i)(5), substituted “section 8435(c)” for “section 8435(d)” and struck out “or (c)(2)” after “subsection (b)(2)”.
+Subsec. (d)(2). Pub. L. 103–226, § 9(b)(4), (i)(5), substituted “section 8435(c)” for “section 8435(d)” and struck out “or (c)(2)” after “subsection (b)(2)”.
 
-Subsec. (e). Pub. L. 103–226, § 9(b)(2), (i)(6), redesignated subsec. (g) as (e) and substituted “section 8435(c)(2)” for “section 8435(d)(2)”. Former subsec. (e) redesignated (c).
+Subsec. (e). Pub. L. 103–226, § 9(b)(2), (i)(6), redesignated subsec. (g) as (e) and substituted “section 8435(c)(2)” for “section 8435(d)(2)”. Former subsec. (e) redesignated (c).
 
-Subsec. (f). Pub. L. 103–226, § 9(b)(2), redesignated subsec. (h) as (f). Former subsec. (f) redesignated (d).
+Subsec. (f). Pub. L. 103–226, § 9(b)(2), redesignated subsec. (h) as (f). Former subsec. (f) redesignated (d).
 
-Subsec. (f)(1). Pub. L. 103–226, § 9(b)(5)(A), (B), redesignated par. (2) as (1), substituted “Notwithstanding subsection (b), if an employee or Member separates from Government employment, and such employee’s or Member’s” for “Notwithstanding subsections (b) and (c), if an employee or Member separates from Government employment under circumstances making such employee or Member eligible to make an election under either of those subsections, and such employee’s or Member’s”, struck out “or (c), as applicable” before period at end, and struck out former par. (1) which read as follows: “Notwithstanding subsection (d), if an employee or Member separates from Government employment before becoming entitled to a deferred annuity under subchapter II, and such employee’s or Member’s nonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the employee or Member elects, at such time and otherwise in such manner as the Executive Director prescribes, to have the nonforfeitable account balance transferred to an eligible retirement plan as provided in subsection (e), or unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this paragraph as if it had never occurred.”
+Subsec. (f)(1). Pub. L. 103–226, § 9(b)(5)(A), (B), redesignated par. (2) as (1), substituted “Notwithstanding subsection (b), if an employee or Member separates from Government employment, and such employee’s or Member’s” for “Notwithstanding subsections (b) and (c), if an employee or Member separates from Government employment under circumstances making such employee or Member eligible to make an election under either of those subsections, and such employee’s or Member’s”, struck out “or (c), as applicable” before period at end, and struck out former par. (1) which read as follows: “Notwithstanding subsection (d), if an employee or Member separates from Government employment before becoming entitled to a deferred annuity under subchapter II, and such employee’s or Member’s nonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the employee or Member elects, at such time and otherwise in such manner as the Executive Director prescribes, to have the nonforfeitable account balance transferred to an eligible retirement plan as provided in subsection (e), or unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this paragraph as if it had never occurred.”
 
-Subsec. (f)(2). Pub. L. 103–226, § 9(b)(5)(A), (C), redesignated par. (3) as (2) and substituted “paragraph (1)” for “paragraphs (1) and (2)” before “, benefits under this chapter”. Former par. (2) redesignated (1).
+Subsec. (f)(2). Pub. L. 103–226, § 9(b)(5)(A), (C), redesignated par. (3) as (2) and substituted “paragraph (1)” for “paragraphs (1) and (2)” before “, benefits under this chapter”. Former par. (2) redesignated (1).
 
-Subsec. (f)(3). Pub. L. 103–226, § 9(b)(5)(A), redesignated par. (3) as (2).
+Subsec. (f)(3). Pub. L. 103–226, § 9(b)(5)(A), redesignated par. (3) as (2).
 
-Subsec. (g). Pub. L. 103–226, § 9(b)(2), redesignated subsec. (i) as (g). Former subsec. (g) redesignated (e).
+Subsec. (g). Pub. L. 103–226, § 9(b)(2), redesignated subsec. (i) as (g). Former subsec. (g) redesignated (e).
 
-Subsec. (g)(5). Pub. L. 103–226, § 9(i)(7), substituted “section 8435(e)” for “section 8435(f)”.
+Subsec. (g)(5). Pub. L. 103–226, § 9(i)(7), substituted “section 8435(e)” for “section 8435(f)”.
 
-Subsec. (h). Pub. L. 103–226, § 9(b)(2), redesignated subsec. (h) as (f).
+Subsec. (h). Pub. L. 103–226, § 9(b)(2), redesignated subsec. (h) as (f).
 
-Subsec. (h)(1), (2). Pub. L. 103–353, § 4(b)(2), inserted before period at end “, or unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this paragraph as if it had never occurred”.
+Subsec. (h)(1), (2). Pub. L. 103–353, § 4(b)(2), inserted before period at end “, or unless an election under section 8432b(h)(2) is made to treat such separation for purposes of this paragraph as if it had never occurred”.
 
-Subsec. (i). Pub. L. 103–226, § 9(b)(2), redesignated subsec. (i) as (g).
+Subsec. (i). Pub. L. 103–226, § 9(b)(2), redesignated subsec. (i) as (g).
 
-Subsec. (i)(4). Pub. L. 103–353, § 5(e)(4), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+Subsec. (i)(4). Pub. L. 103–353, § 5(e)(4), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 1992—Subsec. (b). Pub. L. 102–484 inserted “any employee who separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force,” after “chapter 81 of this title,”.
 
-1990—Subsec. (f)(3)(A). Pub. L. 101–335, § 5(a)(1), substituted “an annuity contract is purchased to provide for the annuity elected by the former employee or Member” for “an annuity elected by the former employee or Member commences”.
+1990—Subsec. (f)(3)(A). Pub. L. 101–335, § 5(a)(1), substituted “an annuity contract is purchased to provide for the annuity elected by the former employee or Member” for “an annuity elected by the former employee or Member commences”.
 
-Subsec. (f)(3)(B). Pub. L. 101–335, § 5(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “A modification of a date may not be made under paragraph (2) on or after such date and may not specify a date for the commencement of an annuity earlier than 1 month after the date on which the modification is submitted to the Executive Director.”
+Subsec. (f)(3)(B). Pub. L. 101–335, § 5(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “A modification of a date may not be made under paragraph (2) on or after such date and may not specify a date for the commencement of an annuity earlier than 1 month after the date on which the modification is submitted to the Executive Director.”
 
-Subsec. (h). Pub. L. 101–335, § 6(a)(2), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Unless otherwise elected under this section, benefits under this subchapter shall be paid as an annuity commencing for an employee, Member, former employee, or former Member on February 1 of the year following the latest of the year in which—
+Subsec. (h). Pub. L. 101–335, § 6(a)(2), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Unless otherwise elected under this section, benefits under this subchapter shall be paid as an annuity commencing for an employee, Member, former employee, or former Member on February 1 of the year following the latest of the year in which—
 
 “(1) the employee, Member, former employee, or former Member becomes 65 years of age;
 
@@ -3798,7 +3798,7 @@ Amendment by Pub. L. 106–65 effective 180 days after Oct. 30, 2000, unless pos
 
 **Effective Date of 1996 Amendment**
 
-Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) [title VI, § 659 [title II, § 207]] of Pub. L. 104–208, set out as a note under section 5545a of this title.
+Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) [title VI, § 659 [title II, § 207]] of Pub. L. 104–208, set out as a note under section 5545a of this title.
 
 **Effective Date of 1994 Amendments**
 
@@ -3814,23 +3814,23 @@ Amendment by Pub. L. 102–484 applicable with respect to separations occurring 
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–335, § 5(d), July 17, 1990, 104 Stat. 322, provided that: “The amendments made by this section [amending this section and sections 8434, and 8435 of this title] shall be effective as of April 1, 1987.”
+Pub. L. 101–335, § 5(d), July 17, 1990, 104 Stat. 322, provided that: “The amendments made by this section [amending this section and sections 8434, and 8435 of this title] shall be effective as of April 1, 1987.”
 
 Amendment by section 6(a)(2) of Pub. L. 101–335 effective as of second election period described in section 8432(b) of this title beginning after July 17, 1990, or such earlier date as Executive Director may by regulation prescribe, and applicable with respect to separations occurring before, on, or after that effective date, see section 6(c) of Pub. L. 101–335, set out as a note under section 8351 of this title.
 
 **Regulations**
 
-Pub. L. 115–84, § 2(f), Nov. 17, 2017, 131 Stat. 1273, provided that: “As soon as is practicable, as determined by the Executive Director of the Federal Retirement Thrift Investment Board, but not later than 2 years after the date of enactment of this Act [Nov. 17, 2017], the Executive Director shall prescribe such regulations as are necessary to carry out the amendments made by this section [amending this section and section 8432b of this title].”
+Pub. L. 115–84, § 2(f), Nov. 17, 2017, 131 Stat. 1273, provided that: “As soon as is practicable, as determined by the Executive Director of the Federal Retirement Thrift Investment Board, but not later than 2 years after the date of enactment of this Act [Nov. 17, 2017], the Executive Director shall prescribe such regulations as are necessary to carry out the amendments made by this section [amending this section and section 8432b of this title].”
 
 [Regulations referred to by section 2(f) of Pub. L. 115–84, set out above, effective Sept. 15, 2019; see section 2(g) of Pub. L. 115–84, set out as an Effective Date of 2017 Amendment note under section 8432b of this title.]
 
-Pub. L. 101–335, § 6(b)(4), July 17, 1990, 104 Stat. 324, provided that: “The Executive Director (as appointed under section 8474(a) of title 5, United States Code) shall prescribe regulations under which the purposes of the amendments made by this section [amending this section and sections 8351, 8401, 8435, 8440a, and 8440b of this title] shall be carried out with respect to any individuals participating in the Thrift Savings Plan who would not otherwise be affected by this section.”
+Pub. L. 101–335, § 6(b)(4), July 17, 1990, 104 Stat. 324, provided that: “The Executive Director (as appointed under section 8474(a) of title 5, United States Code) shall prescribe regulations under which the purposes of the amendments made by this section [amending this section and sections 8351, 8401, 8435, 8440a, and 8440b of this title] shall be carried out with respect to any individuals participating in the Thrift Savings Plan who would not otherwise be affected by this section.”
 
 **Invalidity of Certain Prior Elections**
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title II, § 203(b)]], Sept. 30, 1996, 110 Stat. 3009–314, 3009–376, provided that: “Any election made under section 8433(b)(2) of title 5, United States Code (as in effect before the effective date of this title [Sept. 30, 1996]), with respect to an annuity which has not commenced before the implementation date of this title as provided by regulation by the Executive Director in accordance with section 207 of this title [5 U.S.C. 5545a note], shall be invalid.”
+Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title II, § 203(b)]], Sept. 30, 1996, 110 Stat. 3009–314, 3009–376, provided that: “Any election made under section 8433(b)(2) of title 5, United States Code (as in effect before the effective date of this title [Sept. 30, 1996]), with respect to an annuity which has not commenced before the implementation date of this title as provided by regulation by the Executive Director in accordance with section 207 of this title [5 U.S.C. 5545a note], shall be invalid.”
 
-### § 8434. Annuities: methods of payment; election; purchase
+### § 8434. Annuities: methods of payment; election; purchase
 
 **(a)**
 
@@ -3872,25 +3872,25 @@ Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title II, �
 
 **(2)** Paragraph (1) shall not be construed to exempt any company or other entity issuing an annuity contract under this section from the imposition, payment, or collection of a tax, fee, or other monetary payment on the net income or profit accruing to or realized by that entity from the sale of an annuity contract under this section if that tax, fee, or payment is applicable to a broad range of business activity.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 546; amended Pub. L. 100–238, title I, § 129, Jan. 8, 1988, 101 Stat. 1759; Pub. L. 101–335, §§ 4(a), 5(b), July 17, 1990, 104 Stat. 321; Pub. L. 103–226, § 9(c), (i)(8), Mar. 30, 1994, 108 Stat. 120, 122.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 546; amended Pub. L. 100–238, title I, § 129, Jan. 8, 1988, 101 Stat. 1759; Pub. L. 101–335, §§ 4(a), 5(b), July 17, 1990, 104 Stat. 321; Pub. L. 103–226, § 9(c), (i)(8), Mar. 30, 1994, 108 Stat. 120, 122.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsec. (b). Pub. L. 103–226, § 9(i)(8), substituted “section 8435(b)” for “section 8435(c)”.
+1994—Subsec. (b). Pub. L. 103–226, § 9(i)(8), substituted “section 8435(b)” for “section 8435(c)”.
 
-Subsec. (c). Pub. L. 103–226, § 9(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Notwithstanding an elimination of a method of payment by the Board—
+Subsec. (c). Pub. L. 103–226, § 9(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Notwithstanding an elimination of a method of payment by the Board—
 
 “(1) an employee, Member, former employee, or former Member who is entitled under section 8412 of this title to an immediate annuity not reduced under section 8415(f) of this title may elect the eliminated method if the elimination of such method became effective less than 5 years before the date on which the annuity commences; and
 
 “(2) any other employee, Member, former employee, or former Member may elect such method of payment for amounts contributed by or on behalf of the employee, Member, former employee, or former Member under section 8432 of this title before such effective date and for earnings attributable to such amounts.”
 
-1990—Subsec. (b). Pub. L. 101–335, § 5(b)(1), substituted “an annuity contract is purchased to provide for that annuity,” for “the annuity commences,”.
+1990—Subsec. (b). Pub. L. 101–335, § 5(b)(1), substituted “an annuity contract is purchased to provide for that annuity,” for “the annuity commences,”.
 
-Subsec. (d)(1). Pub. L. 101–335, § 5(b)(2), substituted “Not earlier than 90 days (or such shorter period as the Executive Director may by regulation prescribe) before an annuity” for “At the time an annuity”.
+Subsec. (d)(1). Pub. L. 101–335, § 5(b)(2), substituted “Not earlier than 90 days (or such shorter period as the Executive Director may by regulation prescribe) before an annuity” for “At the time an annuity”.
 
-Subsec. (e). Pub. L. 101–335, § 4(a), added subsec. (e).
+Subsec. (e). Pub. L. 101–335, § 4(a), added subsec. (e).
 
 1988—Subsec. (a)(2)(C), (D). Pub. L. 100–238 amended subpars. (C) and (D) generally. Prior to amendment, subpars. (C) and (D) read as follows:
 
@@ -3906,11 +3906,11 @@ Amendment by Pub. L. 103–226 effective Mar. 10, 1995, see section 9(j) of Pub.
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–335, § 4(b), July 17, 1990, 104 Stat. 321, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 30 days after the date of enactment of this Act [July 17, 1990].”
+Pub. L. 101–335, § 4(b), July 17, 1990, 104 Stat. 321, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 30 days after the date of enactment of this Act [July 17, 1990].”
 
 Amendment by section 5(b) of Pub. L. 101–335 effective Apr. 1, 1987, see section 5(d) of Pub. L. 101–335, set out as a note under section 8433 of this title.
 
-### § 8435. Protections for spouses and former spouses
+### § 8435. Protections for spouses and former spouses
 
 **(a)**
 
@@ -4002,33 +4002,33 @@ expressly provides for such survivor annuity.
 
 **(h)** The protections provided by this section are in addition to the protections provided by section 8467 of this title.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 547; amended Pub. L. 101–335, §§ 5(c), 6(a)(3), July 17, 1990, 104 Stat. 322, 323; Pub. L. 102–484, div. D, title XLIV, § 4437(b), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, § 9(d), (i)(9)–(15), Mar. 30, 1994, 108 Stat. 120, 122; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title II, § 204]], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–376.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 547; amended Pub. L. 101–335, §§ 5(c), 6(a)(3), July 17, 1990, 104 Stat. 322, 323; Pub. L. 102–484, div. D, title XLIV, § 4437(b), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, § 9(d), (i)(9)–(15), Mar. 30, 1994, 108 Stat. 120, 122; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title II, § 204]], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–376.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (a)(1)(A). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 204(1)]], substituted “may withdraw all or part of a Thrift Savings Fund account under subsection (b)(2), (3), or (4) of section 8433 of this title or change a withdrawal election” for “may make an election under subsection (b)(3) or (b)(4) of section 8433 of this title or change an election previously made under subsection (b)(1) or (b)(2) of such section” and inserted at end “A married employee or Member (or former employee or Member) may make a withdrawal from a Thrift Savings Fund account under subsection (c)(1) of section 8433 of this title only if the employee or Member (or former employee or Member) satisfies the requirements of subparagraph (B).”
+1996—Subsec. (a)(1)(A). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 204(1)]], substituted “may withdraw all or part of a Thrift Savings Fund account under subsection (b)(2), (3), or (4) of section 8433 of this title or change a withdrawal election” for “may make an election under subsection (b)(3) or (b)(4) of section 8433 of this title or change an election previously made under subsection (b)(1) or (b)(2) of such section” and inserted at end “A married employee or Member (or former employee or Member) may make a withdrawal from a Thrift Savings Fund account under subsection (c)(1) of section 8433 of this title only if the employee or Member (or former employee or Member) satisfies the requirements of subparagraph (B).”
 
-Subsec. (c)(1). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 204(2)(A)]], substituted “An election or change of election” for “An election, change of election, or modification of the commencement date of a deferred annuity” and “or transfer” for “modification, or transfer”.
+Subsec. (c)(1). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 204(2)(A)]], substituted “An election or change of election” for “An election, change of election, or modification of the commencement date of a deferred annuity” and “or transfer” for “modification, or transfer”.
 
-Subsec. (c)(2)(B). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 204(2)(B)]], struck out “modification,” after “change,” in closing provisions.
+Subsec. (c)(2)(B). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 204(2)(B)]], struck out “modification,” after “change,” in closing provisions.
 
-Subsec. (e)(1). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 204(3)(A)]], in subpar. (A) inserted “or withdrawal” after “A loan”, “and (h)” after “8433(g)”, and “or withdrawal” after “such loan”, in subpar. (B) inserted “or withdrawal” after “loan”, and in subpar. (C) inserted “or withdrawal” after “to a loan” and after “for such loan”.
+Subsec. (e)(1). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 204(3)(A)]], in subpar. (A) inserted “or withdrawal” after “A loan”, “and (h)” after “8433(g)”, and “or withdrawal” after “such loan”, in subpar. (B) inserted “or withdrawal” after “loan”, and in subpar. (C) inserted “or withdrawal” after “to a loan” and after “for such loan”.
 
-Subsec. (e)(2). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 204(3)(B)(i)]], inserted “or withdrawal” after “loan”.
+Subsec. (e)(2). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 204(3)(B)(i)]], inserted “or withdrawal” after “loan”.
 
-Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 204(3)(B)(ii)]], which directed insertion of “and (h)” after “8344(g)”, was executed by making the insertion after “8433(g)” to reflect the probable intent of Congress.
+Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 204(3)(B)(ii)]], which directed insertion of “and (h)” after “8344(g)”, was executed by making the insertion after “8433(g)” to reflect the probable intent of Congress.
 
-Subsec. (g). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 204(4)(A)]], inserted “or withdrawals” after “loans”.
+Subsec. (g). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 204(4)(A)]], inserted “or withdrawals” after “loans”.
 
-Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 204(4)(B)]], which directed insertion of “and (h)” after “8344(g)” was executed by making the insertion after “8433(g)” to reflect the probable intent of Congress.
+Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 204(4)(B)]], which directed insertion of “and (h)” after “8344(g)” was executed by making the insertion after “8433(g)” to reflect the probable intent of Congress.
 
-1994—Subsec. (a)(1)(A). Pub. L. 103–226, § 9(d)(1), substituted “subsection (b)(3) or (b)(4) of section 8433 of this title or change an election previously made under subsection (b)(1) or (b)(2)” for “subsection (b)(3), (b)(4), (c)(3), or (c)(4) of section 8433 of this title or change an election previously made under subsection (b)(1), (b)(2), (c)(1), or (c)(2)”.
+1994—Subsec. (a)(1)(A). Pub. L. 103–226, § 9(d)(1), substituted “subsection (b)(3) or (b)(4) of section 8433 of this title or change an election previously made under subsection (b)(1) or (b)(2)” for “subsection (b)(3), (b)(4), (c)(3), or (c)(4) of section 8433 of this title or change an election previously made under subsection (b)(1), (b)(2), (c)(1), or (c)(2)”.
 
-Subsec. (a)(1)(B). Pub. L. 103–226, § 9(i)(9), substituted “subsection (b)” for “subsection (c)”.
+Subsec. (a)(1)(B). Pub. L. 103–226, § 9(i)(9), substituted “subsection (b)” for “subsection (c)”.
 
-Subsec. (b). Pub. L. 103–226, § 9(d)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Paragraph (1) shall not apply—
+Subsec. (b). Pub. L. 103–226, § 9(d)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Paragraph (1) shall not apply—
 
 “(A) in the case of an employee or Member retiring under section 8412, 8413, 8414, or 8451 of this title, or who separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force, if—
 
@@ -4042,47 +4042,47 @@ Subsec. (b). Pub. L. 103–226, § 9(d)(4), amended par. (2) generally. Prior 
 
 “(ii) establishing to the satisfaction of the Executive Director that the whereabouts of such spouse cannot be determined.”
 
-Pub. L. 103–226, § 9(d)(2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows:
+Pub. L. 103–226, § 9(d)(2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows:
 
 “(b)(1) Except as provided in paragraph (2), a transfer may be made by an employee or Member (or former employee or Member) under section 8433(d) of this title only after the Executive Director notifies any current spouse and each former spouse of the employee or Member (or former employee or Member), if any, that the transfer is to be made.
 
 “(2) Paragraph (1) may be waived with respect to a spouse or former spouse if the employee or Member (or former employee or Member) establishes to the satisfaction of the Executive Director that the whereabouts of such spouse or former spouse cannot be determined.”
 
-Subsec. (c). Pub. L. 103–226, § 9(d)(3), (5), redesignated subsec. (d) as (c) and, in par. (1), struck out “and a transfer may not be made under section 8433(d) of this title” after “effective under this subchapter”. Former subsec. (c) redesignated (b).
+Subsec. (c). Pub. L. 103–226, § 9(d)(3), (5), redesignated subsec. (d) as (c) and, in par. (1), struck out “and a transfer may not be made under section 8433(d) of this title” after “effective under this subchapter”. Former subsec. (c) redesignated (b).
 
-Subsec. (d). Pub. L. 103–226, § 9(d)(3), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 103–226, § 9(d)(3), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-Subsec. (d)(1)(B). Pub. L. 103–226, § 9(i)(10), substituted “subsection (c)(2)” for “subsection (d)(2)”.
+Subsec. (d)(1)(B). Pub. L. 103–226, § 9(i)(10), substituted “subsection (c)(2)” for “subsection (d)(2)”.
 
-Subsec. (d)(3)(A). Pub. L. 103–226, § 9(i)(11), substituted “subsection (b)(1)” for “subsection (c)(1)”.
+Subsec. (d)(3)(A). Pub. L. 103–226, § 9(i)(11), substituted “subsection (b)(1)” for “subsection (c)(1)”.
 
-Subsec. (d)(6). Pub. L. 103–226, § 9(i)(12), substituted “or (b)(2)” for “or (c)(2)”.
+Subsec. (d)(6). Pub. L. 103–226, § 9(i)(12), substituted “or (b)(2)” for “or (c)(2)”.
 
-Subsec. (e). Pub. L. 103–226, § 9(d)(3), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+Subsec. (e). Pub. L. 103–226, § 9(d)(3), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-Subsec. (e)(1)(A). Pub. L. 103–226, § 9(i)(13), substituted “section 8433(g)” for “section 8433(i)”.
+Subsec. (e)(1)(A). Pub. L. 103–226, § 9(i)(13), substituted “section 8433(g)” for “section 8433(i)”.
 
-Subsec. (e)(2). Pub. L. 103–226, § 9(i)(14), substituted “section 8433(g) of this title shall not be approved if approval would have the result described under subsection (c)(1)” for “section 8433(i) of this title shall not be approved if approval would have the result described in subsection (d)(1)”.
+Subsec. (e)(2). Pub. L. 103–226, § 9(i)(14), substituted “section 8433(g) of this title shall not be approved if approval would have the result described under subsection (c)(1)” for “section 8433(i) of this title shall not be approved if approval would have the result described in subsection (d)(1)”.
 
-Subsec. (f). Pub. L. 103–226, § 9(d)(3), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 103–226, § 9(d)(3), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-Subsec. (g). Pub. L. 103–226, § 9(d)(3), (i)(15), redesignated subsec. (h) as (g) and substituted “section 8433(g)” for “section 8433(i)”. Former subsec. (g) redesignated (f).
+Subsec. (g). Pub. L. 103–226, § 9(d)(3), (i)(15), redesignated subsec. (h) as (g) and substituted “section 8433(g)” for “section 8433(i)”. Former subsec. (g) redesignated (f).
 
-Subsecs. (h), (i). Pub. L. 103–226, § 9(d)(3), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
+Subsecs. (h), (i). Pub. L. 103–226, § 9(d)(3), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
 
-1992—Subsec. (c)(2)(A). Pub. L. 102–484 inserted “, or who separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force,” after “8451 of this title”.
+1992—Subsec. (c)(2)(A). Pub. L. 102–484 inserted “, or who separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force,” after “8451 of this title”.
 
-1990—Subsec. (c)(1). Pub. L. 101–335, § 5(c)(1), inserted “an annuity contract is purchased to provide for” after “the date on which” and struck out “commences” after “former Member’s annuity”.
+1990—Subsec. (c)(1). Pub. L. 101–335, § 5(c)(1), inserted “an annuity contract is purchased to provide for” after “the date on which” and struck out “commences” after “former Member’s annuity”.
 
-Subsec. (d)(2)(B)(ii). Pub. L. 101–335, § 5(c)(2), substituted “an annuity contract is purchased to provide for the annuity” for “the annuity commences”.
+Subsec. (d)(2)(B)(ii). Pub. L. 101–335, § 5(c)(2), substituted “an annuity contract is purchased to provide for the annuity” for “the annuity commences”.
 
-Subsecs. (h), (i). Pub. L. 101–335, § 6(a)(3), added subsec. (h) and redesignated former subsec. (h) as (i).
+Subsecs. (h), (i). Pub. L. 101–335, § 6(a)(3), added subsec. (h) and redesignated former subsec. (h) as (i).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1996 Amendment**
 
-Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) [title VI, § 659 [title II, § 207]] of Pub. L. 104–208, set out as a note under section 5545a of this title.
+Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) [title VI, § 659 [title II, § 207]] of Pub. L. 104–208, set out as a note under section 5545a of this title.
 
 **Effective Date of 1994 Amendment**
 
@@ -4098,15 +4098,15 @@ Amendment by section 5(c) of Pub. L. 101–335 effective Apr. 1, 1987, see secti
 
 Amendment by section 6(a)(3) of Pub. L. 101–335 effective as of second election period described in section 8432(b) of this title beginning after July 17, 1990, or such earlier date as Executive Director may by regulation prescribe, and applicable with respect to separations occurring before, on, or after that effective date, see section 6(c) of Pub. L. 101–335, set out as a note under section 8351 of this title.
 
-### § 8436. Administrative provisions
+### § 8436. Administrative provisions
 
 **(a)** The Executive Director shall make or provide for payments and transfers in accordance with an election of an employee or Member under section 8433 or 8434(b) of this title or, if applicable, in accordance with section 8435 of this title.
 
 **(b)** Any election, change of election, or modification of a deferred annuity commencement date made under this subchapter shall be in writing and shall be filed with the Executive Director in accordance with regulations prescribed by the Executive Director.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 550.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 550.)
 
-### § 8437. Thrift Savings Fund
+### § 8437. Thrift Savings Fund
 
 **(a)** There is established in the Treasury of the United States a Thrift Savings Fund.
 
@@ -4140,7 +4140,7 @@ Amendment by section 6(a)(3) of Pub. L. 101–335 effective as of second electio
 
 **(g)** All sums contributed to the Thrift Savings Fund by an employee or Member or by an employing agency for the benefit of such employee or Member and all net earnings in such Fund attributable to investment of such sums are held in such Fund in trust for such employee or Member.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 550; amended Pub. L. 100–238, title I, §§ 116, 117(a), Jan. 8, 1988, 101 Stat. 1751; Pub. L. 103–226, § 9(i)(16), Mar. 30, 1994, 108 Stat. 122; Pub. L. 103–358, § 2(b)(4), Oct. 14, 1994, 108 Stat. 3421; Pub. L. 111–31, div. B, title I, § 108, June 22, 2009, 123 Stat. 1856; Pub. L. 112–267, § 1, Jan. 14, 2013, 126 Stat. 2440; Pub. L. 115–397, title I, § 111(b), Dec. 21, 2018, 132 Stat. 5311.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 550; amended Pub. L. 100–238, title I, §§ 116, 117(a), Jan. 8, 1988, 101 Stat. 1751; Pub. L. 103–226, § 9(i)(16), Mar. 30, 1994, 108 Stat. 122; Pub. L. 103–358, § 2(b)(4), Oct. 14, 1994, 108 Stat. 3421; Pub. L. 111–31, div. B, title I, § 108, June 22, 2009, 123 Stat. 1856; Pub. L. 112–267, § 1, Jan. 14, 2013, 126 Stat. 2440; Pub. L. 115–397, title I, § 111(b), Dec. 21, 2018, 132 Stat. 5311.)
 
 **Editorial Notes**
 
@@ -4152,7 +4152,7 @@ Section 6331 of the Internal Revenue Code of 1986, referred to in subsec. (e)(3)
 
 2018—Subsec. (e)(3). Pub. L. 115–397 inserted “an obligation of the Executive Director to make a transfer under section 415(d)(3) of the Congressional Accountability Act of 1995 (2 U.S.C. 1415(d)(3)),” before “or an obligation”.
 
-2013—Subsec. (e)(3). Pub. L. 112–267, in first sentence, substituted “659),” for “659)” and inserted “, and shall be subject to a Federal tax levy under section 6331 of the Internal Revenue Code of 1986” before period.
+2013—Subsec. (e)(3). Pub. L. 112–267, in first sentence, substituted “659),” for “659)” and inserted “, and shall be subject to a Federal tax levy under section 6331 of the Internal Revenue Code of 1986” before period.
 
 2009—Subsec. (e)(3). Pub. L. 111–31 which directed substitution of “the enforcement of an order for restitution under section 3663A of title 18, forfeiture under section 8432(g)(5) of this title, or an obligation of the Executive Director to make a payment to another person under section 8467 of this title” for “or relating to the enforcement of a judgment for the physically, sexually, or emotionally abusing a child as provided under section 8467(a)” in the first sentence, was executed by making the substitution for “or relating to the enforcement of a judgment for physically, sexually, or emotionally abusing a child as provided under section 8467(a)”, to reflect the probable intent of Congress.
 
@@ -4160,11 +4160,11 @@ Section 6331 of the Internal Revenue Code of 1986, referred to in subsec. (e)(3)
 
 Subsec. (e)(3). Pub. L. 103–358 substituted “or relating to the enforcement of a judgment for physically, sexually, or emotionally abusing a child as provided under section 8467(a).” for period at end of first sentence.
 
-1988—Subsec. (d). Pub. L. 100–238, § 117(a)(1), struck out “attributable to sums contributed to such Fund under section 8432(c) of this title” after “such Fund”.
+1988—Subsec. (d). Pub. L. 100–238, § 117(a)(1), struck out “attributable to sums contributed to such Fund under section 8432(c) of this title” after “such Fund”.
 
-Subsec. (e)(1). Pub. L. 100–238, § 117(a)(2), inserted “subsection (d) and” after “Subject to”.
+Subsec. (e)(1). Pub. L. 100–238, § 117(a)(2), inserted “subsection (d) and” after “Subject to”.
 
-Subsec. (e)(3). Pub. L. 100–238, § 116, inserted at end “For the purposes of this paragraph, an amount contributed for the benefit of an individual under section 8432(c)(1) (including any earnings attributable thereto) shall not be considered part of the balance in such individual’s account unless such amount is nonforfeitable, as determined under applicable provisions of section 8432(g).”
+Subsec. (e)(3). Pub. L. 100–238, § 116, inserted at end “For the purposes of this paragraph, an amount contributed for the benefit of an individual under section 8432(c)(1) (including any earnings attributable thereto) shall not be considered part of the balance in such individual’s account unless such amount is nonforfeitable, as determined under applicable provisions of section 8432(g).”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4180,11 +4180,11 @@ Amendment by Pub. L. 103–226 effective Mar. 10, 1995, see section 9(j) of Pub.
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–238, title I, § 117(b), Jan. 8, 1988, 101 Stat. 1751, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act [Jan. 8, 1988].”
+Pub. L. 100–238, title I, § 117(b), Jan. 8, 1988, 101 Stat. 1751, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act [Jan. 8, 1988].”
 
 **Disposition of Amounts**
 
-Pub. L. 112–267, § 2, Jan. 14, 2013, 126 Stat. 2440, provided that:
+Pub. L. 112–267, § 2, Jan. 14, 2013, 126 Stat. 2440, provided that:
 
 > “Any potential revenue gain attributable to the enactment of this Act [amending this section], as determined by the Director of the Congressional Budget Office—
 
@@ -4192,7 +4192,7 @@ Pub. L. 112–267, § 2, Jan. 14, 2013, 126 Stat. 2440, provided that:
 
 > **“(2)** shall be used solely for purposes of deficit reduction.”
 
-### § 8438. Investment of Thrift Savings Fund
+### § 8438. Investment of Thrift Savings Fund
 
 **(a)** For the purposes of this section—
 
@@ -4352,7 +4352,7 @@ which return the amount invested and pay interest, at a specified rate or rates,
 
 **(2)** Whenever the Secretary of the Treasury determines that, by reason of the public debt limit, the Secretary will be unable to fully comply with the requirements of subsection (e) of this section, the Secretary shall immediately notify Congress and the Executive Director of the determination. The notification shall be made in writing.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 551; amended Pub. L. 100–43, § 2, May 22, 1987, 101 Stat. 315; Pub. L. 100–366, § 2(a), July 13, 1988, 102 Stat. 826; Pub. L. 101–335, § 3(a), July 17, 1990, 104 Stat. 320; Pub. L. 102–378, § 2(68), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title I, § 102]], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372; Pub. L. 104–316, title I, § 103(i), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 111–31, div. B, title I, § 104, June 22, 2009, 123 Stat. 1854; Pub. L. 113–255, § 2(a), Dec. 18, 2014, 128 Stat. 2920; Pub. L. 114–92, div. A, title VI, § 632(d), Nov. 25, 2015, 129 Stat. 847.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 551; amended Pub. L. 100–43, § 2, May 22, 1987, 101 Stat. 315; Pub. L. 100–366, § 2(a), July 13, 1988, 102 Stat. 826; Pub. L. 101–335, § 3(a), July 17, 1990, 104 Stat. 320; Pub. L. 102–378, § 2(68), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title I, § 102]], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372; Pub. L. 104–316, title I, § 103(i), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 111–31, div. B, title I, § 104, June 22, 2009, 123 Stat. 1854; Pub. L. 113–255, § 2(a), Dec. 18, 2014, 128 Stat. 2920; Pub. L. 114–92, div. A, title VI, § 632(d), Nov. 25, 2015, 129 Stat. 847.)
 
 **Editorial Notes**
 
@@ -4362,33 +4362,33 @@ which return the amount invested and pay interest, at a specified rate or rates,
 
 2014—Subsec. (c)(2). Pub. L. 113–255 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If an election has not been made with respect to any sums in the Thrift Savings Fund available for investment, the Executive Director shall invest such sums in the Government Securities Investment Fund.”
 
-2009—Subsec. (b)(1)(F). Pub. L. 111–31, § 104(a), added subpar. (F).
+2009—Subsec. (b)(1)(F). Pub. L. 111–31, § 104(a), added subpar. (F).
 
-Subsec. (b)(5). Pub. L. 111–31, § 104(b), added par. (5).
+Subsec. (b)(5). Pub. L. 111–31, § 104(b), added par. (5).
 
-Subsec. (d)(1). Pub. L. 111–31, § 104(c), inserted “and options” after “investment funds”.
+Subsec. (d)(1). Pub. L. 111–31, § 104(c), inserted “and options” after “investment funds”.
 
-1996—Subsec. (a). Pub. L. 104–208, § 101(f) [title VI, § 659 [title I, § 102(1)]], added par. (5), redesignated former pars. (5) to (8) as (6) to (9), respectively, in par. (9) substituted “paragraph (8)(D)” for “paragraph (7)(D)” in two places, and added par. (10).
+1996—Subsec. (a). Pub. L. 104–208, § 101(f) [title VI, § 659 [title I, § 102(1)]], added par. (5), redesignated former pars. (5) to (8) as (6) to (9), respectively, in par. (9) substituted “paragraph (8)(D)” for “paragraph (7)(D)” in two places, and added par. (10).
 
-Subsec. (b). Pub. L. 104–208, § 101(f) [title VI, § 659 [title I, § 102(2)]], in par. (1) added subpars. (D) and (E) and added pars. (3) and (4).
+Subsec. (b). Pub. L. 104–208, § 101(f) [title VI, § 659 [title I, § 102(2)]], in par. (1) added subpars. (D) and (E) and added pars. (3) and (4).
 
 Subsec. (h)(1). Pub. L. 104–316 struck out “and the Comptroller General of the United States” before period at end.
 
 1992—Subsec. (a)(7)(B). Pub. L. 102–378 substituted “Deposit” for “Savings and Loan”.
 
-1990—Subsec. (b)(1)(A). Pub. L. 101–335, § 3(a)(2), substituted “subsection (e)” for “subsection (f)”.
+1990—Subsec. (b)(1)(A). Pub. L. 101–335, § 3(a)(2), substituted “subsection (e)” for “subsection (f)”.
 
-Subsec. (c)(1). Pub. L. 101–335, § 3(a)(3), substituted “The” for “Subject to subsection (e), the”.
+Subsec. (c)(1). Pub. L. 101–335, § 3(a)(3), substituted “The” for “Subject to subsection (e), the”.
 
-Subsec. (d)(1). Pub. L. 101–335, § 3(a)(4), struck out “and not subject to subsection (e)” after “individual’s account”.
+Subsec. (d)(1). Pub. L. 101–335, § 3(a)(4), struck out “and not subject to subsection (e)” after “individual’s account”.
 
-Subsec. (e). Pub. L. 101–335, § 3(a)(1), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to minimum percentages to be invested in Government Securities Investment Fund and limitations on reinvestment of sums invested in Government Securities Investment Fund prior to years 1992 and 1997.
+Subsec. (e). Pub. L. 101–335, § 3(a)(1), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to minimum percentages to be invested in Government Securities Investment Fund and limitations on reinvestment of sums invested in Government Securities Investment Fund prior to years 1992 and 1997.
 
-Subsec. (f). Pub. L. 101–335, § 3(a)(1), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 101–335, § 3(a)(1), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-Subsec. (g). Pub. L. 101–335, § 3(a)(1), (5), (6), redesignated subsec. (h) as (g) and substituted “subsection (e)” for “subsection (f)” in pars. (1) and (2), “subsection (e)(2)” for “subsection (f)(2)” in par. (3), and “subsection (h)” for “subsection (i)” in par. (6). Former subsec. (g) redesignated (f).
+Subsec. (g). Pub. L. 101–335, § 3(a)(1), (5), (6), redesignated subsec. (h) as (g) and substituted “subsection (e)” for “subsection (f)” in pars. (1) and (2), “subsection (e)(2)” for “subsection (f)(2)” in par. (3), and “subsection (h)” for “subsection (i)” in par. (6). Former subsec. (g) redesignated (f).
 
-Subsecs. (h), (i). Pub. L. 101–335, § 3(a)(1), (7), redesignated subsec. (i) as (h) and substituted “subsection (g)” for “subsection (h)” in par. (1) and “subsection (e)” for “subsection (f)” in par. (2). Former subsec. (h) redesignated (g).
+Subsecs. (h), (i). Pub. L. 101–335, § 3(a)(1), (7), redesignated subsec. (i) as (h) and substituted “subsection (g)” for “subsection (h)” in par. (1) and “subsection (e)” for “subsection (f)” in par. (2). Former subsec. (h) redesignated (g).
 
 1988—Subsec. (e)(3)(A). Pub. L. 100–366 struck out “and the earnings attributable to the investment of such sums” after “paragraph (1)”.
 
@@ -4402,7 +4402,7 @@ Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementatio
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–255, § 2(e), Dec. 18, 2014, 128 Stat. 2920, provided that:
+Pub. L. 113–255, § 2(e), Dec. 18, 2014, 128 Stat. 2920, provided that:
 
 > “The amendments made by subsections (a) and (b) [amending this section and section 8439 of this title] shall—
 
@@ -4412,7 +4412,7 @@ Pub. L. 113–255, § 2(e), Dec. 18, 2014, 128 Stat. 2920, provided that:
 
 **Effective Date of 1996 Amendment**
 
-Section 101(f) [title VI, § 659 [title I, § 104]] provided that: “This title [title I (§§ 101–104) of section 659 of section 101(f) of Pub. L. 104–208, amending this section and section 8439 of this title and enacting provisions set out as a note under section 8401 of this title] shall take effect on the date of enactment of this Act [Sept. 30, 1996], and the Funds established under this title shall be offered for investment at the earliest practicable election period (described in section 8432(b) of title 5, United States Code) as determined by the Executive Director in regulations.”
+Section 101(f) [title VI, § 659 [title I, § 104]] provided that: “This title [title I (§§ 101–104) of section 659 of section 101(f) of Pub. L. 104–208, amending this section and section 8439 of this title and enacting provisions set out as a note under section 8401 of this title] shall take effect on the date of enactment of this Act [Sept. 30, 1996], and the Funds established under this title shall be offered for investment at the earliest practicable election period (described in section 8432(b) of title 5, United States Code) as determined by the Executive Director in regulations.”
 
 **Effective Date of 1990 Amendment**
 
@@ -4420,19 +4420,19 @@ Amendment by Pub. L. 101–335 effective as of second election period described 
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–366, § 2(b), July 13, 1988, 102 Stat. 826, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to earnings attributable to contributions made to the Thrift Savings Fund on or after April 1, 1987.”
+Pub. L. 100–366, § 2(b), July 13, 1988, 102 Stat. 826, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to earnings attributable to contributions made to the Thrift Savings Fund on or after April 1, 1987.”
 
 **Guidance**
 
-Pub. L. 113–255, § 2(d), Dec. 18, 2014, 128 Stat. 2920, provided that: “Not later than 9 months after the date of enactment of this Act [Dec. 18, 2014], the Executive Director (as that term is defined under section 8401(13) of title 5, United States Code) shall develop and issue guidance implementing the requirements of this Act [see section 1 of Pub. L. 113–255, set out as a Short Title of 2014 Amendment note under section 101 of this title].”
+Pub. L. 113–255, § 2(d), Dec. 18, 2014, 128 Stat. 2920, provided that: “Not later than 9 months after the date of enactment of this Act [Dec. 18, 2014], the Executive Director (as that term is defined under section 8401(13) of title 5, United States Code) shall develop and issue guidance implementing the requirements of this Act [see section 1 of Pub. L. 113–255, set out as a Short Title of 2014 Amendment note under section 101 of this title].”
 
 [Guidance issued in the form of a final rule published Aug. 28, 2015, effective Sept. 5, 2015, see 80 F.R. 52173.]
 
 **Removal of Investment Restrictions**
 
-Pub. L. 101–335, § 3(b)(4), July 17, 1990, 104 Stat. 320, provided that: “Any other provision of law, in effect on the date of enactment of this Act [July 17, 1990], which provides that any amounts contributed to the Thrift Savings Fund, or earnings thereon, may be invested or reinvested only in the Government Securities Investment Fund established under section 8438(b)(1)(A) of title 5, United States Code, shall cease to be effective.”
+Pub. L. 101–335, § 3(b)(4), July 17, 1990, 104 Stat. 320, provided that: “Any other provision of law, in effect on the date of enactment of this Act [July 17, 1990], which provides that any amounts contributed to the Thrift Savings Fund, or earnings thereon, may be invested or reinvested only in the Government Securities Investment Fund established under section 8438(b)(1)(A) of title 5, United States Code, shall cease to be effective.”
 
-### § 8439. Accounting and information
+### § 8439. Accounting and information
 
 **(a)**
 
@@ -4478,7 +4478,7 @@ Pub. L. 101–335, § 3(b)(4), July 17, 1990, 104 Stat. 320, provided that: �
 
 **(2)** Prior to enrollment in the Thrift Savings Fund, or as soon as practicable thereafter, an individual who is automatically enrolled pursuant to section 8432(b)(2) shall receive the risk acknowledgment information described under paragraph (1).
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 555; amended Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title I, § 103]], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–373; Pub. L. 104–316, title I, § 103(j), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–65, div. A, title VI, § 661(a)(5), Oct. 5, 1999, 113 Stat. 672; Pub. L. 106–361, § 2(b)(4), (5), Oct. 27, 2000, 114 Stat. 1401; Pub. L. 108–469, § 1(d)(3), Dec. 21, 2004, 118 Stat. 3892; Pub. L. 111–31, div. B, title I, § 106(a), June 22, 2009, 123 Stat. 1855; Pub. L. 113–255, § 2(b), Dec. 18, 2014, 128 Stat. 2920.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 555; amended Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title I, § 103]], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–373; Pub. L. 104–316, title I, § 103(j), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–65, div. A, title VI, § 661(a)(5), Oct. 5, 1999, 113 Stat. 672; Pub. L. 106–361, § 2(b)(4), (5), Oct. 27, 2000, 114 Stat. 1401; Pub. L. 108–469, § 1(d)(3), Dec. 21, 2004, 118 Stat. 3892; Pub. L. 111–31, div. B, title I, § 106(a), June 22, 2009, 123 Stat. 1855; Pub. L. 113–255, § 2(b), Dec. 18, 2014, 128 Stat. 2920.)
 
 **Editorial Notes**
 
@@ -4486,23 +4486,23 @@ Pub. L. 101–335, § 3(b)(4), July 17, 1990, 104 Stat. 320, provided that: �
 
 2014—Subsec. (d). Pub. L. 113–255 designated existing provisions as par. (1) and added par. (2).
 
-2009—Subsec. (d). Pub. L. 111–31, § 106(a)(2), substituted “any such fund or option” for “either such Fund”.
+2009—Subsec. (d). Pub. L. 111–31, § 106(a)(2), substituted “any such fund or option” for “either such Fund”.
 
-Pub. L. 111–31, § 106(a)(1), which directed substitution of “any investment fund or option under this chapter, other than the Government Securities Investment Fund,” for “the matter after ‘who elects to invest in’ and before ‘shall sign an acknowledgment’ ”, was executed by making the substitution for “the Common Stock Index Investment Fund, the Fixed Income Investment Fund, the International Stock Index Investment Fund, or the Small Capitalization Stock Index Investment Fund, defined in paragraphs (1), (3), (5), and (10), respectively, of section 8438(a) of this title”, before “shall sign an acknowledgement”, to reflect the probable intent of Congress.
+Pub. L. 111–31, § 106(a)(1), which directed substitution of “any investment fund or option under this chapter, other than the Government Securities Investment Fund,” for “the matter after ‘who elects to invest in’ and before ‘shall sign an acknowledgment’ ”, was executed by making the substitution for “the Common Stock Index Investment Fund, the Fixed Income Investment Fund, the International Stock Index Investment Fund, or the Small Capitalization Stock Index Investment Fund, defined in paragraphs (1), (3), (5), and (10), respectively, of section 8438(a) of this title”, before “shall sign an acknowledgement”, to reflect the probable intent of Congress.
 
 2004—Subsec. (c)(2). Pub. L. 108–469 substituted “on a regular basis” for “at least 30 calendar days before the beginning of each election period under section 8432(b)(1)(A) of this title”.
 
-2000—Subsec. (a)(1). Pub. L. 106–361, § 2(b)(4), inserted “who makes contributions or” after “for each individual” and substituted “section 8432” for “section 8432(c)(1)”.
+2000—Subsec. (a)(1). Pub. L. 106–361, § 2(b)(4), inserted “who makes contributions or” after “for each individual” and substituted “section 8432” for “section 8432(c)(1)”.
 
-Subsec. (c)(2). Pub. L. 106–361, § 2(b)(5), inserted at end “Nothing in this paragraph shall be considered to limit the dissemination of information only to the times required under the preceding sentence.”
+Subsec. (c)(2). Pub. L. 106–361, § 2(b)(5), inserted at end “Nothing in this paragraph shall be considered to limit the dissemination of information only to the times required under the preceding sentence.”
 
-1999—Subsec. (a)(1). Pub. L. 106–65, § 661(a)(5)(A), in so far as it directed amendment of par. (1) by striking out “under section 8432(c)(1) of this title”, could not be executed because the words “under section 8432(c)(1) of this title” did not appear subsequent to amendment by Pub. L. 106–361, § 2(b)(4). See 2000 Amendment note above.
+1999—Subsec. (a)(1). Pub. L. 106–65, § 661(a)(5)(A), in so far as it directed amendment of par. (1) by striking out “under section 8432(c)(1) of this title”, could not be executed because the words “under section 8432(c)(1) of this title” did not appear subsequent to amendment by Pub. L. 106–361, § 2(b)(4). See 2000 Amendment note above.
 
-Pub. L. 106–65, § 661(a)(5)(A), struck out “under section 8351 of this title” after “Thrift Savings Fund”.
+Pub. L. 106–65, § 661(a)(5)(A), struck out “under section 8351 of this title” after “Thrift Savings Fund”.
 
-Subsec. (a)(2)(A)(i). Pub. L. 106–65, § 661(a)(5)(B), struck out “under section 8432(a) or 8351 of this title” after “individual”.
+Subsec. (a)(2)(A)(i). Pub. L. 106–65, § 661(a)(5)(B), struck out “under section 8432(a) or 8351 of this title” after “individual”.
 
-Subsec. (a)(2)(A)(ii). Pub. L. 106–65, § 661(a)(5)(C), struck out “under section 8432(c) of this title” after “individual”.
+Subsec. (a)(2)(A)(ii). Pub. L. 106–65, § 661(a)(5)(C), struck out “under section 8432(c) of this title” after “individual”.
 
 1996—Subsec. (b)(3). Pub. L. 104–316 struck out “and the Comptroller General of the United States” after “to the Board”.
 
@@ -4524,11 +4524,11 @@ Amendment by Pub. L. 106–65 effective 180 days after Oct. 30, 2000, unless pos
 
 **Effective Date of 1996 Amendment**
 
-Amendment by Pub. L. 104–208 effective Sept. 30, 1996, with provisions for certain funds to be offered for investment at earliest practicable election period, see section 101(f) [title VI, § 659 [title I, § 104]] of Pub. L. 104–208, set out as a note under section 8438 of this title.
+Amendment by Pub. L. 104–208 effective Sept. 30, 1996, with provisions for certain funds to be offered for investment at earliest practicable election period, see section 101(f) [title VI, § 659 [title I, § 104]] of Pub. L. 104–208, set out as a note under section 8438 of this title.
 
 **Reporting Requirements**
 
-Pub. L. 111–31, div. B, title I, § 105, June 22, 2009, 123 Stat. 1855, provided that:
+Pub. L. 111–31, div. B, title I, § 105, June 22, 2009, 123 Stat. 1855, provided that:
 
 > **“(a) Annual Report.—** The Board shall, not later than June 30 of each year, submit to Congress an annual report on the operations of the Thrift Savings Plan. Such report shall include, for the prior calendar year, information on the number of participants as of the last day of such prior calendar year, the median balance in participants’ accounts as of such last day, demographic information on participants, the percentage allocation of amounts among investment funds or options, the status of the development and implementation of the mutual fund window, the diversity demographics of any company, investment adviser, or other entity retained to invest and manage the assets of the Thrift Savings Fund, and such other information as the Board considers appropriate. A copy of each annual report under this subsection shall be made available to the public through an Internet website.
 
@@ -4546,7 +4546,7 @@ Pub. L. 111–31, div. B, title I, § 105, June 22, 2009, 123 Stat. 1855, prov
 
 > **“(3)** the term ‘account’ means an account established under section 8439 of title 5, United States Code.”
 
-### § 8440. Tax treatment of the Thrift Savings Fund
+### § 8440. Tax treatment of the Thrift Savings Fund
 
 **(a)** For purposes of the Internal Revenue Code of 1986—
 
@@ -4560,7 +4560,7 @@ Pub. L. 111–31, div. B, title I, § 105, June 22, 2009, 123 Stat. 1855, prov
 
 **(c)** Subsection (a) shall not be construed to provide that any amount of the employee’s or Member’s basic pay which is contributed to the Thrift Savings Fund shall not be included in the term “wages” for the purposes of section 209 of the Social Security Act or section 3121(a) of the Internal Revenue Code of 1986.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 557; amended Pub. L. 100–202, § 101(m) [title VI, § 624(b)], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 100–647, title I, § 1011A(m)(2), Nov. 10, 1988, 102 Stat. 3483; Pub. L. 102–378, § 2(69), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 103–353, § 5(e)(5), Oct. 13, 1994, 108 Stat. 3174.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 557; amended Pub. L. 100–202, § 101(m) [title VI, § 624(b)], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 100–647, title I, § 1011A(m)(2), Nov. 10, 1988, 102 Stat. 3483; Pub. L. 102–378, § 2(69), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 103–353, § 5(e)(5), Oct. 13, 1994, 108 Stat. 3174.)
 
 **Editorial Notes**
 
@@ -4576,11 +4576,11 @@ Section 209 of the Social Security Act, referred to in subsec. (c), is classifie
 
 1992—Subsec. (a)(3). Pub. L. 102–378 inserted “section 401(k)(4)(B) of such Code and” after “subject to”.
 
-1988—Subsec. (a)(3). Pub. L. 100–647, which directed the insertion of “, 401(k)(4)(B) of such Code,” after “subsection (b)”, could not be executed because of previous amendment by Pub. L. 100–202, § 101(m) [title VI, § 624(b)(1)] which struck out “subsection (b)”. See 1987 Amendment note below.
+1988—Subsec. (a)(3). Pub. L. 100–647, which directed the insertion of “, 401(k)(4)(B) of such Code,” after “subsection (b)”, could not be executed because of previous amendment by Pub. L. 100–202, § 101(m) [title VI, § 624(b)(1)] which struck out “subsection (b)”. See 1987 Amendment note below.
 
-1987—Subsec. (a)(3). Pub. L. 100–202, § 101(m) [title VI, § 624(b)(1)], struck out “the provisions of subsection (b) and” after “subject to”.
+1987—Subsec. (a)(3). Pub. L. 100–202, § 101(m) [title VI, § 624(b)(1)], struck out “the provisions of subsection (b) and” after “subject to”.
 
-Subsec. (b). Pub. L. 100–202, § 101(m) [title VI, § 624(b)(2)], added subsec. (b) and struck out former subsec. (b) which consisted of pars. (1) and (2) providing that subsec. (a)(3) not apply to the Thrift Savings Fund unless the Fund meets the antidiscrimination requirements applicable to arrangements described in section 401(k) of title 26 and to matching contributions.
+Subsec. (b). Pub. L. 100–202, § 101(m) [title VI, § 624(b)(2)], added subsec. (b) and struck out former subsec. (b) which consisted of pars. (1) and (2) providing that subsec. (a)(3) not apply to the Thrift Savings Fund unless the Fund meets the antidiscrimination requirements applicable to arrangements described in section 401(k) of title 26 and to matching contributions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4596,7 +4596,7 @@ Amendment by Pub. L. 102–378 effective Nov. 10, 1988, see section 9(b)(8) of P
 
 Amendment by Pub. L. 100–647 effective as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of Title 26, Internal Revenue Code.
 
-### § 8440a. Justices and judges
+### § 8440a. Justices and judges
 
 **(a)**
 
@@ -4620,7 +4620,7 @@ Amendment by Pub. L. 100–647 effective as if included in the provision of the 
 
 **(7)** Notwithstanding paragraphs (4) and (5), if any justice or judge retires under subsection (a) or (b) of section 371 or section 372(a) of title 28, or resigns without having met the age and service requirements set forth under section 371(c) of title 28, and such justice’s or judge’s nonforfeitable account balance is less than an amount that the Executive Director prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment.
 
-(Added Pub. L. 100–654, title IV, § 401(a), Nov. 14, 1988, 102 Stat. 3847; amended Pub. L. 101–335, §§ 3(b)(2), 6(b)(2), July 17, 1990, 104 Stat. 320, 323; Pub. L. 102–378, § 2(70), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 103–226, § 9(e), (i)(17), Mar. 30, 1994, 108 Stat. 120, 122; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title II, § 205(a)]], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–377; Pub. L. 106–361, § 2(b)(6), Oct. 27, 2000, 114 Stat. 1401; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 138(a)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 108–469, § 1(d)(4), Dec. 21, 2004, 118 Stat. 3892.)
+(Added Pub. L. 100–654, title IV, § 401(a), Nov. 14, 1988, 102 Stat. 3847; amended Pub. L. 101–335, §§ 3(b)(2), 6(b)(2), July 17, 1990, 104 Stat. 320, 323; Pub. L. 102–378, § 2(70), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 103–226, § 9(e), (i)(17), Mar. 30, 1994, 108 Stat. 120, 122; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title II, § 205(a)]], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–377; Pub. L. 106–361, § 2(b)(6), Oct. 27, 2000, 114 Stat. 1401; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 138(a)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 108–469, § 1(d)(4), Dec. 21, 2004, 118 Stat. 3892.)
 
 **Editorial Notes**
 
@@ -4638,11 +4638,11 @@ Subsec. (b)(2). Pub. L. 106–554 amended par. (2) generally. Prior to amendment
 
 1996—Subsec. (b)(7). Pub. L. 104–208 substituted “less than an amount that the Executive Director prescribes by regulation” for “$3,500 or less” and struck out “unless the justice or judge elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under section 8433(b)” before period at end.
 
-1994—Subsec. (b)(5). Pub. L. 103–226, § 9(e)(1), substituted “Section 8433(b)” for “Section 8433(d)”.
+1994—Subsec. (b)(5). Pub. L. 103–226, § 9(e)(1), substituted “Section 8433(b)” for “Section 8433(d)”.
 
-Subsec. (b)(6). Pub. L. 103–226, § 9(i)(17), substituted “section 8351(b)(5)” for “section 8351(b)(7)”.
+Subsec. (b)(6). Pub. L. 103–226, § 9(i)(17), substituted “section 8351(b)(5)” for “section 8351(b)(7)”.
 
-Subsec. (b)(7), (8). Pub. L. 103–226, § 9(e)(2), added par. (7) and struck out former pars. (7) and (8) which read as follows:
+Subsec. (b)(7), (8). Pub. L. 103–226, § 9(e)(2), added par. (7) and struck out former pars. (7) and (8) which read as follows:
 
 “(7) Notwithstanding paragraph (5), if any justice or judge who elects to make contributions to the Thrift Savings Fund under subsection (a) resigns without having met the age and service requirements set forth in section 371(c) of title 28, and such justice’s or judge’s nonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the justice or judge elects, at such time and otherwise in such manner as the Executive Director prescribes, to have the nonforfeitable account balance transferred to an eligible retirement plan as provided in section 8433(e).
 
@@ -4650,9 +4650,9 @@ Subsec. (b)(7), (8). Pub. L. 103–226, § 9(e)(2), added par. (7) and struck 
 
 1992—Subsec. (b)(1). Pub. L. 102–378 substituted “this subchapter and subchapter VII” for “subchapters III and VII of chapter 84 of this title”.
 
-1990—Subsec. (b)(6). Pub. L. 101–335, § 3(b)(2), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “Sums contributed under this section and earnings attributable to such sums may be invested and reinvested only in the Government Securities Investment Fund established under section 8438(b)(1)(A) of this title.”
+1990—Subsec. (b)(6). Pub. L. 101–335, § 3(b)(2), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “Sums contributed under this section and earnings attributable to such sums may be invested and reinvested only in the Government Securities Investment Fund established under section 8438(b)(1)(A) of this title.”
 
-Subsec. (b)(7), (8). Pub. L. 101–335, § 6(b)(2), added pars. (7) and (8). Former par. (7) redesignated (6).
+Subsec. (b)(7), (8). Pub. L. 101–335, § 6(b)(2), added pars. (7) and (8). Former par. (7) redesignated (6).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4662,7 +4662,7 @@ Amendment by Pub. L. 106–361 effective at the earliest practicable date after 
 
 **Effective Date of 1996 Amendment**
 
-Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) [title VI, § 659 [title II, § 207]] of Pub. L. 104–208, set out as a note under section 5545a of this title.
+Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) [title VI, § 659 [title II, § 207]] of Pub. L. 104–208, set out as a note under section 5545a of this title.
 
 **Effective Date of 1994 Amendment**
 
@@ -4674,7 +4674,7 @@ Amendment by section 3(b)(2) of Pub. L. 101–335 effective as of second electio
 
 Amendment by section 6(b)(2) of Pub. L. 101–335 effective as of second election period described in section 8432(b) of this title beginning after July 17, 1990, or such earlier date as Executive Director may by regulation prescribe, and applicable with respect to separations occurring before, on, or after that effective date, see section 6(c) of Pub. L. 101–335, set out as a note under section 8351 of this title.
 
-### § 8440b. Bankruptcy judges and magistrate judges
+### § 8440b. Bankruptcy judges and magistrate judges
 
 **(a)**
 
@@ -4706,7 +4706,7 @@ Amendment by section 6(b)(2) of Pub. L. 101–335 effective as of second electio
 
 **(8)** Notwithstanding paragraph (4), if any bankruptcy judge or magistrate judge retires under circumstances making such bankruptcy judge or magistrate judge eligible to make an election under subsection (b) of section 8433, and such bankruptcy judge’s or magistrate judge’s nonforfeitable account balance is less than an amount that the Executive Director prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment.
 
-(Added Pub. L. 100–659, § 7(a), Nov. 15, 1988, 102 Stat. 3919, § 8440a; renumbered § 8440b and amended Pub. L. 101–335, §§ 3(b)(3), 6(b)(3), 9(a), July 17, 1990, 104 Stat. 320, 324, 326; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–226, § 9(f), Mar. 30, 1994, 108 Stat. 120; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title II, § 205(b)]], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–377; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 138(a)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 108–469, §§ 1(d)(5), 3(2), Dec. 21, 2004, 118 Stat. 3892, 3893.)
+(Added Pub. L. 100–659, § 7(a), Nov. 15, 1988, 102 Stat. 3919, § 8440a; renumbered § 8440b and amended Pub. L. 101–335, §§ 3(b)(3), 6(b)(3), 9(a), July 17, 1990, 104 Stat. 320, 324, 326; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–226, § 9(f), Mar. 30, 1994, 108 Stat. 120; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title II, § 205(b)]], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–377; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 138(a)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 108–469, §§ 1(d)(5), 3(2), Dec. 21, 2004, 118 Stat. 3892, 3893.)
 
 **Editorial Notes**
 
@@ -4720,41 +4720,41 @@ Another section 8440b was renumbered section 8440c of this title.
 
 **Amendments**
 
-2004—Subsec. (a)(2). Pub. L. 108–469, § 1(d)(5), substituted “as” for “only during a period”.
+2004—Subsec. (a)(2). Pub. L. 108–469, § 1(d)(5), substituted “as” for “only during a period”.
 
-Subsec. (b)(2). Pub. L. 108–469, § 3(2)(A), substituted “bankruptcy judge’s or magistrate judge’s” for “bankruptcy judge’s or magistrate’s”.
+Subsec. (b)(2). Pub. L. 108–469, § 3(2)(A), substituted “bankruptcy judge’s or magistrate judge’s” for “bankruptcy judge’s or magistrate’s”.
 
-Subsec. (b)(4)(B). Pub. L. 108–469, § 3(2)(B), substituted “bankruptcy judge or magistrate judge” for “bankruptcy judge or magistrate”.
+Subsec. (b)(4)(B). Pub. L. 108–469, § 3(2)(B), substituted “bankruptcy judge or magistrate judge” for “bankruptcy judge or magistrate”.
 
-Subsec. (b)(8). Pub. L. 108–469, § 3(2)(B), substituted “bankruptcy judge or magistrate judge” for “bankruptcy judge or magistrate” in two places.
+Subsec. (b)(8). Pub. L. 108–469, § 3(2)(B), substituted “bankruptcy judge or magistrate judge” for “bankruptcy judge or magistrate” in two places.
 
 2000—Subsec. (b)(2). Pub. L. 106–554 substituted “the maximum percentage of such bankruptcy judge’s or magistrate’s basic pay for such pay period allowable under section 8440f.” for “5 percent of basic pay for such pay period.”
 
-1996—Subsec. (b)(7). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 205(b)(1)]], inserted “of the distribution” after “equal to the amount” in first sentence.
+1996—Subsec. (b)(7). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 205(b)(1)]], inserted “of the distribution” after “equal to the amount” in first sentence.
 
-Subsec. (b)(8). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 205(b)(2)(A)]], substituted “less than an amount that the Executive Director prescribes by regulation” for “$3,500 or less”.
+Subsec. (b)(8). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 205(b)(2)(A)]], substituted “less than an amount that the Executive Director prescribes by regulation” for “$3,500 or less”.
 
-Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 205(b)(2)(B)]], which directed that par. (8) be amended by striking out “unless the bankruptcy judge or magistrate elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under subsection (b)”, was executed by striking out “unless the bankruptcy judge or magistrate elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under such subsection (b)” before period at end, to reflect the probable intent of Congress.
+Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 205(b)(2)(B)]], which directed that par. (8) be amended by striking out “unless the bankruptcy judge or magistrate elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under subsection (b)”, was executed by striking out “unless the bankruptcy judge or magistrate elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under such subsection (b)” before period at end, to reflect the probable intent of Congress.
 
-1994—Subsec. (b)(4)(B). Pub. L. 103–226, § 9(f)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Section 8433(c) of this title applies to any bankruptcy judge or magistrate who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires before attaining age 65 but is entitled, upon attaining age 65, to an annuity under section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988; except that the period described in paragraph (3) of section 8433(c) commences on or after the date on which payment of the bankruptcy judge’s or magistrate’s annuity under section 377 of title 28 commences.”
+1994—Subsec. (b)(4)(B). Pub. L. 103–226, § 9(f)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Section 8433(c) of this title applies to any bankruptcy judge or magistrate who elects to make contributions to the Thrift Savings Fund under subsection (a) of this section and who retires before attaining age 65 but is entitled, upon attaining age 65, to an annuity under section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988; except that the period described in paragraph (3) of section 8433(c) commences on or after the date on which payment of the bankruptcy judge’s or magistrate’s annuity under section 377 of title 28 commences.”
 
-Subsec. (b)(4)(C). Pub. L. 103–226, § 9(f)(2), substituted “Section 8433(b)” for “Section 8433(d)”.
+Subsec. (b)(4)(C). Pub. L. 103–226, § 9(f)(2), substituted “Section 8433(b)” for “Section 8433(d)”.
 
-Subsec. (b)(5). Pub. L. 103–226, § 9(f)(3), substituted “any of the actions described under paragraph (4)(A), (B), or (C) shall be considered” for “retirement under section 377 of title 28 is”.
+Subsec. (b)(5). Pub. L. 103–226, § 9(f)(3), substituted “any of the actions described under paragraph (4)(A), (B), or (C) shall be considered” for “retirement under section 377 of title 28 is”.
 
-Subsec. (b)(8). Pub. L. 103–226, § 9(f)(5)(B), which directed striking out “and (c), as applicable”, was executed by striking out “or (c), as applicable” before period at end to reflect the probable intent of Congress.
+Subsec. (b)(8). Pub. L. 103–226, § 9(f)(5)(B), which directed striking out “and (c), as applicable”, was executed by striking out “or (c), as applicable” before period at end to reflect the probable intent of Congress.
 
-Pub. L. 103–226, § 9(f)(5)(A), substituted “Notwithstanding paragraph (4), if any bankruptcy judge or magistrate retires under circumstances making such bankruptcy judge or magistrate eligible to make an election under subsection (b)” for “Notwithstanding subparagraphs (A) and (B) of paragraph (4), if any bankruptcy judge or magistrate retires under circumstances making such bankruptcy judge or magistrate eligible to make an election under subsection (b) or (c)”.
+Pub. L. 103–226, § 9(f)(5)(A), substituted “Notwithstanding paragraph (4), if any bankruptcy judge or magistrate retires under circumstances making such bankruptcy judge or magistrate eligible to make an election under subsection (b)” for “Notwithstanding subparagraphs (A) and (B) of paragraph (4), if any bankruptcy judge or magistrate retires under circumstances making such bankruptcy judge or magistrate eligible to make an election under subsection (b) or (c)”.
 
-Pub. L. 103–226, § 9(f)(4), redesignated par. (9) as (8) and struck out former par. (8) which read as follows: “Notwithstanding paragraph (4)(C), if any bankruptcy judge or magistrate who elects to make contributions to the Thrift Savings Fund under subsection (a) retires before becoming entitled to an immediate annuity, or an annuity upon attaining age 65, under section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988, and such bankruptcy judge’s or magistrate’s nonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the bankruptcy judge or magistrate elects, at such time and otherwise in such manner as the Executive Director prescribes, to have the nonforfeitable account balance transferred to an eligible retirement plan as provided in section 8433(e).”
+Pub. L. 103–226, § 9(f)(4), redesignated par. (9) as (8) and struck out former par. (8) which read as follows: “Notwithstanding paragraph (4)(C), if any bankruptcy judge or magistrate who elects to make contributions to the Thrift Savings Fund under subsection (a) retires before becoming entitled to an immediate annuity, or an annuity upon attaining age 65, under section 377 of title 28 or section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988, and such bankruptcy judge’s or magistrate’s nonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the bankruptcy judge or magistrate elects, at such time and otherwise in such manner as the Executive Director prescribes, to have the nonforfeitable account balance transferred to an eligible retirement plan as provided in section 8433(e).”
 
-Subsec. (b)(9). Pub. L. 103–226, § 9(f)(4), redesignated par. (9) as (8).
+Subsec. (b)(9). Pub. L. 103–226, § 9(f)(4), redesignated par. (9) as (8).
 
-1990—Pub. L. 101–335, § 9(a), renumbered section 8440a of this title as this section.
+1990—Pub. L. 101–335, § 9(a), renumbered section 8440a of this title as this section.
 
-Subsec. (b)(7). Pub. L. 101–335, § 3(b)(3), redesignated par. (8) as (7) and struck out former par. (7) which read as follows: “Sums contributed pursuant to this section by bankruptcy judges or magistrates, as well as all previous contributions to the Thrift Savings Fund by those bankruptcy judges and magistrates, and earnings attributable to such sums and contributions, may be invested and reinvested only in the Government Securities Investment Fund established under section 8438(b)(1)(A) of this title.”
+Subsec. (b)(7). Pub. L. 101–335, § 3(b)(3), redesignated par. (8) as (7) and struck out former par. (7) which read as follows: “Sums contributed pursuant to this section by bankruptcy judges or magistrates, as well as all previous contributions to the Thrift Savings Fund by those bankruptcy judges and magistrates, and earnings attributable to such sums and contributions, may be invested and reinvested only in the Government Securities Investment Fund established under section 8438(b)(1)(A) of this title.”
 
-Subsec. (b)(8), (9). Pub. L. 101–335, § 6(b)(3), added pars. (8) and (9). Former par. (8) redesignated (7).
+Subsec. (b)(8), (9). Pub. L. 101–335, § 6(b)(3), added pars. (8) and (9). Former par. (8) redesignated (7).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4764,7 +4764,7 @@ Words “magistrate judge”, “magistrate judges”, and “magistrate judge�
 
 **Effective Date of 1996 Amendment**
 
-Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) [title VI, § 659 [title II, § 207]] of Pub. L. 104–208, set out as a note under section 5545a of this title.
+Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) [title VI, § 659 [title II, § 207]] of Pub. L. 104–208, set out as a note under section 5545a of this title.
 
 **Effective Date of 1994 Amendment**
 
@@ -4780,7 +4780,7 @@ Amendment by section 6(b)(3) of Pub. L. 101–335 effective as of second electio
 
 Section effective Nov. 15, 1988, and applicable to bankruptcy judges and magistrate judges who retire on or after Nov. 15, 1988, with exception for judges and magistrate judges retiring on or after July 31, 1987, see section 9 of Pub. L. 100–659, as amended, set out as a note under section 377 of Title 28, Judiciary and Judicial Procedure.
 
-### § 8440c. Court of Federal Claims judges
+### § 8440c. Court of Federal Claims judges
 
 **(a)**
 
@@ -4810,7 +4810,7 @@ Section effective Nov. 15, 1988, and applicable to bankruptcy judges and magistr
 
 **(8)** Notwithstanding paragraph (4), if any Court of Federal Claims judge retires under circumstances making such judge eligible to make an election under section 8433(b), and such judge’s nonforfeitable account balance is less than an amount that the Executive Director prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment.
 
-(Added Pub. L. 101–650, title III, § 306(d)(1), Dec. 1, 1990, 104 Stat. 5110, § 8440b; renumbered § 8440c and amended Pub. L. 102–198, § 7(c)(1), Dec. 9, 1991, 105 Stat. 1624; Pub. L. 102–572, title IX, § 902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–226, § 9(g), Mar. 30, 1994, 108 Stat. 121; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title II, § 205(c)]], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 138(a)(4)], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 108–469, § 1(d)(6), Dec. 21, 2004, 118 Stat. 3892.)
+(Added Pub. L. 101–650, title III, § 306(d)(1), Dec. 1, 1990, 104 Stat. 5110, § 8440b; renumbered § 8440c and amended Pub. L. 102–198, § 7(c)(1), Dec. 9, 1991, 105 Stat. 1624; Pub. L. 102–572, title IX, § 902(b), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–226, § 9(g), Mar. 30, 1994, 108 Stat. 121; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 659 [title II, § 205(c)]], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 138(a)(4)], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 108–469, § 1(d)(6), Dec. 21, 2004, 118 Stat. 3892.)
 
 **Editorial Notes**
 
@@ -4824,37 +4824,37 @@ Another section 8440c was renumbered section 8440d of this title.
 
 2000—Subsec. (b)(2). Pub. L. 106–554 substituted “the maximum percentage of such judge’s basic pay for such pay period allowable under section 8440f.” for “5 percent of basic pay for such pay period.”
 
-1996—Subsec. (b)(7). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 205(c)(1)]], inserted “of the distribution” after “equal to the amount”.
+1996—Subsec. (b)(7). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 205(c)(1)]], inserted “of the distribution” after “equal to the amount”.
 
-Subsec. (b)(8). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 205(c)(2)]], substituted “less than an amount that the Executive Director prescribes by regulation” for “$3,500 or less” and struck out “unless the judge elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under section 8433(b)” before period at end.
+Subsec. (b)(8). Pub. L. 104–208, § 101(f) [title VI, § 659 [title II, § 205(c)(2)]], substituted “less than an amount that the Executive Director prescribes by regulation” for “$3,500 or less” and struck out “unless the judge elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under section 8433(b)” before period at end.
 
-1994—Subsec. (b)(4)(B). Pub. L. 103–226, § 9(g)(1), substituted “Section 8433(b)” for “Section 8433(d)”.
+1994—Subsec. (b)(4)(B). Pub. L. 103–226, § 9(g)(1), substituted “Section 8433(b)” for “Section 8433(d)”.
 
-Subsec. (b)(5). Pub. L. 103–226, § 9(g)(2), substituted “any of the actions described in paragraph (4)(A) or (B) shall be considered” for “retirement under section 178 of title 28 is”.
+Subsec. (b)(5). Pub. L. 103–226, § 9(g)(2), substituted “any of the actions described in paragraph (4)(A) or (B) shall be considered” for “retirement under section 178 of title 28 is”.
 
-Subsec. (b)(8), (9). Pub. L. 103–226, § 9(g)(3), (4), redesignated par. (9) as (8), substituted “Notwithstanding paragraph (4)” for “Notwithstanding paragraph (4)(A)”, and struck out former par. (8) which read as follows: “Notwithstanding paragraph (4)(B), if any Court of Federal Claims judge who elects to make contributions to the Thrift Savings Fund under subsection (a) retires before becoming entitled to an annuity under section 178 of title 28, and such judge’s nonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the judge elects, at such time and otherwise in such manner as the Executive Director prescribes, to have the nonforfeitable account balance transferred to an eligible retirement plan as provided in section 8433(e).”
+Subsec. (b)(8), (9). Pub. L. 103–226, § 9(g)(3), (4), redesignated par. (9) as (8), substituted “Notwithstanding paragraph (4)” for “Notwithstanding paragraph (4)(A)”, and struck out former par. (8) which read as follows: “Notwithstanding paragraph (4)(B), if any Court of Federal Claims judge who elects to make contributions to the Thrift Savings Fund under subsection (a) retires before becoming entitled to an annuity under section 178 of title 28, and such judge’s nonforfeitable account balance is $3,500 or less, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment unless the judge elects, at such time and otherwise in such manner as the Executive Director prescribes, to have the nonforfeitable account balance transferred to an eligible retirement plan as provided in section 8433(e).”
 
-1992—Pub. L. 102–572, § 902(b)(2), substituted “Court of Federal Claims” for “Claims Court” in section catchline.
+1992—Pub. L. 102–572, § 902(b)(2), substituted “Court of Federal Claims” for “Claims Court” in section catchline.
 
-Subsec. (a)(1). Pub. L. 102–572, § 902(b)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+Subsec. (a)(1). Pub. L. 102–572, § 902(b)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-Subsec. (b)(1) to (5), (7) to (9). Pub. L. 102–572, § 902(b)(2), substituted “Court of Federal Claims” for “Claims Court” wherever appearing.
+Subsec. (b)(1) to (5), (7) to (9). Pub. L. 102–572, § 902(b)(2), substituted “Court of Federal Claims” for “Claims Court” wherever appearing.
 
-1991—Pub. L. 102–198, § 7(c)(1)(A), renumbered section 8440b of this title as this section.
+1991—Pub. L. 102–198, § 7(c)(1)(A), renumbered section 8440b of this title as this section.
 
-Subsec. (b)(4)(A). Pub. L. 102–198, § 7(c)(1)(B)(i), substituted “subsection (c)” for “subsection (d)”.
+Subsec. (b)(4)(A). Pub. L. 102–198, § 7(c)(1)(B)(i), substituted “subsection (c)” for “subsection (d)”.
 
-Subsec. (b)(7). Pub. L. 102–198, § 7(c)(1)(B)(ii), redesignated par. (8) as (7) and struck out former par. (7) which read as follows: “Sums contributed pursuant to this section by Claims Court judges, as well as all previous contributions to the Thrift Savings Fund by those judges, and earnings attributable to such sums and contributions, may be invested and reinvested only in the Government Securities Investment Fund established under section 8438(b)(1)(A) of this title.”
+Subsec. (b)(7). Pub. L. 102–198, § 7(c)(1)(B)(ii), redesignated par. (8) as (7) and struck out former par. (7) which read as follows: “Sums contributed pursuant to this section by Claims Court judges, as well as all previous contributions to the Thrift Savings Fund by those judges, and earnings attributable to such sums and contributions, may be invested and reinvested only in the Government Securities Investment Fund established under section 8438(b)(1)(A) of this title.”
 
-Subsec. (b)(8). Pub. L. 102–198, § 7(c)(1)(B)(ii), (iii) added par. (8) and redesignated former par. (8) as (7).
+Subsec. (b)(8). Pub. L. 102–198, § 7(c)(1)(B)(ii), (iii) added par. (8) and redesignated former par. (8) as (7).
 
-Subsec. (b)(9). Pub. L. 102–198, § 7(c)(1)(B)(iii), added par. (9).
+Subsec. (b)(9). Pub. L. 102–198, § 7(c)(1)(B)(iii), added par. (9).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1996 Amendment**
 
-Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) [title VI, § 659 [title II, § 207]] of Pub. L. 104–208, set out as a note under section 5545a of this title.
+Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) [title VI, § 659 [title II, § 207]] of Pub. L. 104–208, set out as a note under section 5545a of this title.
 
 **Effective Date of 1994 Amendment**
 
@@ -4866,13 +4866,13 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 **Effective Date of 1991 Amendment**
 
-Section 7(c)(3) of Pub. L. 102–198, as amended by Pub. L. 102–572, title IX, § 902(b)(2), Oct. 29, 1992, 106 Stat. 4516, provided that: “Paragraphs (8) and (9) of section 8440c(b) of title 5, United States Code (as added by paragraph (1)) shall be effective as of January 1, 1991, and shall apply to any Court of Federal Claims judge retiring on or after such date.”
+Section 7(c)(3) of Pub. L. 102–198, as amended by Pub. L. 102–572, title IX, § 902(b)(2), Oct. 29, 1992, 106 Stat. 4516, provided that: “Paragraphs (8) and (9) of section 8440c(b) of title 5, United States Code (as added by paragraph (1)) shall be effective as of January 1, 1991, and shall apply to any Court of Federal Claims judge retiring on or after such date.”
 
 **Effective Date**
 
 Section applicable to judges of, and senior judges in active service with, the United States Court of Federal Claims on or after Dec. 1, 1990, see section 306(f) of Pub. L. 101–650, set out as an Effective Date of 1990 Amendment note under section 8331 of this title.
 
-### § 8440d. Judges of the United States Court of Appeals for Veterans Claims
+### § 8440d. Judges of the United States Court of Appeals for Veterans Claims
 
 **(a)**
 
@@ -4892,19 +4892,19 @@ Section applicable to judges of, and senior judges in active service with, the U
 
 **(5)** Section 8433(b) of this title applies in the case of a judge who elects to make contributions to the Thrift Savings Fund and thereafter ceases to serve as a judge of the United States Court of Appeals for Veterans Claims but does not retire under section 7296(b) of title 38.
 
-**(6)** The provisions of section 8351(b)(7) 1
+**(6)** The provisions of section 8351(b)(7) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title shall apply with respect to a judge who has elected to contribute to the Thrift Savings Fund under this section.
 
-(Added Pub. L. 102–82, § 5(a)(1), Aug. 6, 1991, 105 Stat. 376, § 8440c; renumbered § 8440d, Pub. L. 102–198, § 7(c)(4)(A), Dec. 9, 1991, 105 Stat. 1625, as amended by Pub. L. 102–378, § 5(d)(1), Oct. 2, 1992, 106 Stat. 1358; amended Pub. L. 103–226, § 9(h), Mar. 30, 1994, 108 Stat. 121; Pub. L. 105–368, title V, § 512(b)(1)(A), (2)(A), Nov. 11, 1998, 112 Stat. 3342; Pub. L. 106–361, § 2(b)(6), Oct. 27, 2000, 114 Stat. 1401; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 138(a)(5)], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 108–469, § 1(d)(7), Dec. 21, 2004, 118 Stat. 3892.)
+(Added Pub. L. 102–82, § 5(a)(1), Aug. 6, 1991, 105 Stat. 376, § 8440c; renumbered § 8440d, Pub. L. 102–198, § 7(c)(4)(A), Dec. 9, 1991, 105 Stat. 1625, as amended by Pub. L. 102–378, § 5(d)(1), Oct. 2, 1992, 106 Stat. 1358; amended Pub. L. 103–226, § 9(h), Mar. 30, 1994, 108 Stat. 121; Pub. L. 105–368, title V, § 512(b)(1)(A), (2)(A), Nov. 11, 1998, 112 Stat. 3342; Pub. L. 106–361, § 2(b)(6), Oct. 27, 2000, 114 Stat. 1401; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 138(a)(5)], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 108–469, § 1(d)(7), Dec. 21, 2004, 118 Stat. 3892.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 8351(b)(7) of this title, referred to in subsec. (b)(6), was redesignated section 8351(b)(5) of this title by Pub. L. 103–226, § 9(a)(3), Mar. 30, 1994, 108 Stat. 119.
+Section 8351(b)(7) of this title, referred to in subsec. (b)(6), was redesignated section 8351(b)(5) of this title by Pub. L. 103–226, § 9(a)(3), Mar. 30, 1994, 108 Stat. 119.
 
 **Amendments**
 
@@ -4914,9 +4914,9 @@ Section 8351(b)(7) of this title, referred to in subsec. (b)(6), was redesignate
 
 Subsec. (b)(2). Pub. L. 106–554 amended first sentence generally. Prior to amendment, first sentence read as follows: “The amount contributed by a judge may not exceed 5 percent of the amount of the judge’s basic pay.”
 
-1998—Pub. L. 105–368, § 512(b)(2)(A), substituted “Judges of the United States Court of Appeals for Veterans Claims” for “Judges of the United States Court of Veterans Appeals” in section catchline.
+1998—Pub. L. 105–368, § 512(b)(2)(A), substituted “Judges of the United States Court of Appeals for Veterans Claims” for “Judges of the United States Court of Veterans Appeals” in section catchline.
 
-Subsecs. (a)(1), (b)(5). Pub. L. 105–368, § 512(b)(1)(A), substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
+Subsecs. (a)(1), (b)(5). Pub. L. 105–368, § 512(b)(1)(A), substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
 1994—Subsec. (b)(5). Pub. L. 103–226 substituted “Section 8433(b) of this title applies” for “A transfer shall be made as provided in section 8433(d) of this title”.
 
@@ -4944,9 +4944,9 @@ Amendment by Pub. L. 102–378 effective Dec. 9, 1991, see section 9(b)(2) of Pu
 
 **First Election**
 
-Section 5(b) of Pub. L. 102–82, as amended by Pub. L. 102–198, § 7(c)(4)(C), Dec. 9, 1991, 105 Stat. 1625, provided that: “A judge of the United States Court of Veterans Appeals on the date of the enactment of this Act [Aug. 6, 1991] may make an election under section 8440d(a) of title 5, United States Code, within 60 days after the date of the enactment of this Act.”
+Section 5(b) of Pub. L. 102–82, as amended by Pub. L. 102–198, § 7(c)(4)(C), Dec. 9, 1991, 105 Stat. 1625, provided that: “A judge of the United States Court of Veterans Appeals on the date of the enactment of this Act [Aug. 6, 1991] may make an election under section 8440d(a) of title 5, United States Code, within 60 days after the date of the enactment of this Act.”
 
-### § 8440e. Members of the uniformed services
+### § 8440e. Members of the uniformed services
 
 **(a)** For purposes of this section—
 
@@ -5026,7 +5026,7 @@ Section 5(b) of Pub. L. 102–82, as amended by Pub. L. 102–198, § 7(c)(4)(
 
 **(4) Protections for spouses and former spouses.—** Section 8435 shall apply to a full TSP member in the same manner as such section is applied to an employee or Member under such section.
 
-(Added Pub. L. 106–65, div. A, title VI, § 661(a)(2)(A), Oct. 5, 1999, 113 Stat. 670; amended Pub. L. 106–398, § 1 [[div. A], title VI, § 661(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–167; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 138(a)(6)], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 108–469, § 1(d)(8), Dec. 21, 2004, 118 Stat. 3892; Pub. L. 114–92, div. A, title VI, § 632(a), Nov. 25, 2015, 129 Stat. 845.)
+(Added Pub. L. 106–65, div. A, title VI, § 661(a)(2)(A), Oct. 5, 1999, 113 Stat. 670; amended Pub. L. 106–398, § 1 [[div. A], title VI, § 661(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–167; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 138(a)(6)], Dec. 21, 2000, 114 Stat. 2763, 2763A–233; Pub. L. 108–469, § 1(d)(8), Dec. 21, 2004, 118 Stat. 3892; Pub. L. 114–92, div. A, title VI, § 632(a), Nov. 25, 2015, 129 Stat. 845.)
 
 **Editorial Notes**
 
@@ -5038,17 +5038,17 @@ The Internal Revenue Code of 1986, referred to in subsec. (d)(3), is classified 
 
 **Amendments**
 
-2015—Subsec. (a). Pub. L. 114–92, § 632(a)(1), added pars. (1) to (4) and struck out former pars. (1) and (2) which defined “member” and “basic pay”, respectively.
+2015—Subsec. (a). Pub. L. 114–92, § 632(a)(1), added pars. (1) to (4) and struck out former pars. (1) and (2) which defined “member” and “basic pay”, respectively.
 
-Subsec. (e). Pub. L. 114–92, § 632(a)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Except as provided in section 211(d) of title 37, no contribution under section 8432(c) of this title may be made for the benefit of a member making contributions to the Thrift Savings Fund under this section.”
+Subsec. (e). Pub. L. 114–92, § 632(a)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Except as provided in section 211(d) of title 37, no contribution under section 8432(c) of this title may be made for the benefit of a member making contributions to the Thrift Savings Fund under this section.”
 
 2004—Subsec. (b)(2)(A). Pub. L. 108–469 substituted “as provided under section 8432(b)” for “only during a period provided under section 8432(b), subject to the same conditions as prescribed under paragraph (2) (A)–(D) thereof”.
 
 2000—Subsec. (b)(2)(B)(i). Pub. L. 106–398 substituted “as of the effective date that applies with respect to such individual under section 663 of the National Defense Authorization Act for Fiscal Year 2000” for “as of the effective date described in paragraph (1) of section 663(a) of the National Defense Authorization Act for Fiscal Year 2000 (or, if applicable, paragraph (2) thereof)”.
 
-Subsec. (d)(1)(A). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 138(a)(6)(A)], substituted “the maximum percentage of such member’s basic pay for such pay period allowable under section 8440f.” for “5 percent of such member’s basic pay for such pay period.”
+Subsec. (d)(1)(A). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 138(a)(6)(A)], substituted “the maximum percentage of such member’s basic pay for such pay period allowable under section 8440f.” for “5 percent of such member’s basic pay for such pay period.”
 
-Subsec. (d)(1)(B). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 138(a)(6)(B)], substituted “the maximum percentage of such member’s compensation for such pay period (received under such section 206) allowable under section 8440f.” for “5 percent of such compensation, payable to such member for such pay period.”
+Subsec. (d)(1)(B). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 138(a)(6)(B)], substituted “the maximum percentage of such member’s compensation for such pay period (received under such section 206) allowable under section 8440f.” for “5 percent of such compensation, payable to such member for such pay period.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5058,9 +5058,9 @@ Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementatio
 
 **Effective Date**
 
-Pub. L. 106–65, div. A, title VI, § 663, Oct. 5, 1999, 113 Stat. 673, as amended by Pub. L. 106–398, § 1 [[div. A], title VI, § 661(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–167, provided that:
+Pub. L. 106–65, div. A, title VI, § 663, Oct. 5, 1999, 113 Stat. 673, as amended by Pub. L. 106–398, § 1 [[div. A], title VI, § 661(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–167, provided that:
 
-> **“(a) In General.—** Except as provided in subsection (b), the amendments made by this subtitle [subtitle F (§§ 661–663) of title VI of div. A of Pub. L. 106–65, enacting this section and section 211 of Title 37, Pay and Allowances of the Uniformed Services, and amending sections 8351, 8432b, 8433, 8439, and 8473 of this title and section 211 of Title 37] shall take effect 180 days after the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 [Oct. 30, 2000].
+> **“(a) In General.—** Except as provided in subsection (b), the amendments made by this subtitle [subtitle F (§§ 661–663) of title VI of div. A of Pub. L. 106–65, enacting this section and section 211 of Title 37, Pay and Allowances of the Uniformed Services, and amending sections 8351, 8432b, 8433, 8439, and 8473 of this title and section 211 of Title 37] shall take effect 180 days after the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 [Oct. 30, 2000].
 
 > **“(b) Postponement Authority.—**
 
@@ -5078,13 +5078,13 @@ Pub. L. 106–65, div. A, title VI, § 663, Oct. 5, 1999, 113 Stat. 673, as am
 
 **Regulations**
 
-Pub. L. 106–65, div. A, title VI, § 661(b), Oct. 5, 1999, 113 Stat. 672, as amended by Pub. L. 106–398, § 1 [[div. A], title VI, § 661(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–167, provided that: “Not later than the 180th day after the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 [Oct. 30, 2000], the Executive Director (appointed by the Federal Retirement Thrift Investment Board) shall issue regulations to implement the amendments made by this subtitle [subtitle F (§§ 661–663) of title VI of div. A of Pub. L. 106–65, enacting this section and section 211 of Title 37, Pay and Allowances of the Uniformed Services, and amending sections 8351, 8432b, 8433, 8439, and 8473 of this title and section 211 of Title 37].”
+Pub. L. 106–65, div. A, title VI, § 661(b), Oct. 5, 1999, 113 Stat. 672, as amended by Pub. L. 106–398, § 1 [[div. A], title VI, § 661(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–167, provided that: “Not later than the 180th day after the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 [Oct. 30, 2000], the Executive Director (appointed by the Federal Retirement Thrift Investment Board) shall issue regulations to implement the amendments made by this subtitle [subtitle F (§§ 661–663) of title VI of div. A of Pub. L. 106–65, enacting this section and section 211 of Title 37, Pay and Allowances of the Uniformed Services, and amending sections 8351, 8432b, 8433, 8439, and 8473 of this title and section 211 of Title 37].”
 
-### § 8440f. Maximum percentage allowable for certain participants
+### § 8440f. Maximum percentage allowable for certain participants
 
 **(a)** The maximum percentage allowable under this section shall be determined in accordance with the following table:
 
-| **In the case of a pay period beginning**  **in fiscal year:** | **The maximum percentage** **allowable is:** |
+| **In the case of a pay period beginning** **in fiscal year:** | **The maximum percentage** **allowable is:** |
 |---|---|
 | 2001 | 6 |
 | 2002 | 7 |
@@ -5095,7 +5095,7 @@ Pub. L. 106–65, div. A, title VI, § 661(b), Oct. 5, 1999, 113 Stat. 672, as
 
 **(b)** Notwithstanding any limitation under this section, an eligible participant (as defined by section 414(v) of the Internal Revenue Code of 1986) may make such additional contributions to the Thrift Savings Fund as are permitted by such section 414(v) and regulations of the Executive Director consistent therewith.
 
-(Added Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 138(a)(7)(A)], Dec. 21, 2000, 114 Stat. 2763, 2763A–234; amended Pub. L. 107–304, § 1(b)(2), Nov. 27, 2002, 116 Stat. 2363.)
+(Added Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 138(a)(7)(A)], Dec. 21, 2000, 114 Stat. 2763, 2763A–234; amended Pub. L. 107–304, § 1(b)(2), Nov. 27, 2002, 116 Stat. 2363.)
 
 **Editorial Notes**
 
@@ -5115,7 +5115,7 @@ Amendment by Pub. L. 107–304 effective as of the earliest practicable date det
 
 ## SUBCHAPTER IV—SURVIVOR ANNUITIES
 
-### § 8441. Definitions
+### § 8441. Definitions
 
 For the purpose of this subchapter—
 
@@ -5143,9 +5143,9 @@ For the purpose of this subchapter—
 
 For the purpose of this paragraph and section 8443, a child whose 22nd birthday occurs before July 1 or after August 31 of a calendar year, and while regularly pursuing such a course of study or training, is deemed to have become 22 years of age on the first day of July after that birthday. A child who is a student is deemed not to have ceased to be a student during an interim between school years if the interim is not more than 5 months and if such child shows to the satisfaction of the Office that such child has a bona fide intention of continuing to pursue a course of study or training in the same or different school during the school semester (or other period into which the school year is divided) immediately after the interim.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 558.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 558.)
 
-### § 8442. Rights of a widow or widower
+### § 8442. Rights of a widow or widower
 
 **(a)**
 
@@ -5313,23 +5313,23 @@ Any method of payment provided for under subparagraph (B) shall be designed such
 
 **(3)** A lump-sum credit under subsection (c)(2) shall be subject to the same terms and conditions as apply with respect to a lump-sum credit under section 8424(b).
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 559; amended Pub. L. 99–556, title I, § 120, Oct. 27, 1986, 100 Stat. 3134; Pub. L. 100–238, title I, § 131(b), Jan. 8, 1988, 101 Stat. 1760; Pub. L. 105–61, title V, § 518(b)(1), Oct. 10, 1997, 111 Stat. 1307.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 559; amended Pub. L. 99–556, title I, § 120, Oct. 27, 1986, 100 Stat. 3134; Pub. L. 100–238, title I, § 131(b), Jan. 8, 1988, 101 Stat. 1760; Pub. L. 105–61, title V, § 518(b)(1), Oct. 10, 1997, 111 Stat. 1307.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (f)(3), (4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42. Sections 202, 203, and 215 are classified to sections 402, 403, and 415, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (f)(3), (4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42. Sections 202, 203, and 215 are classified to sections 402, 403, and 415, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
-1997—Subsec. (d)(1)(B). Pub. L. 105–61, § 518(b)(1)(B), substituted “except as provided in paragraph (3), remarries” for “remarries”.
+1997—Subsec. (d)(1)(B). Pub. L. 105–61, § 518(b)(1)(B), substituted “except as provided in paragraph (3), remarries” for “remarries”.
 
-Subsec. (d)(3). Pub. L. 105–61, § 518(b)(1)(A), added par. (3).
+Subsec. (d)(3). Pub. L. 105–61, § 518(b)(1)(A), added par. (3).
 
-1988—Subsec. (a)(1). Pub. L. 100–238, § 131(b)(1), inserted “(or one-half thereof, if designated for this purpose under section 8419 of this title),” after “with respect to the annuitant,”.
+1988—Subsec. (a)(1). Pub. L. 100–238, § 131(b)(1), inserted “(or one-half thereof, if designated for this purpose under section 8419 of this title),” after “with respect to the annuitant,”.
 
-Subsec. (g)(1). Pub. L. 100–238, § 131(b)(2), inserted “(or one-half thereof if designated for this purpose under section 8419 of this title)” after “paragraph (2)”.
+Subsec. (g)(1). Pub. L. 100–238, § 131(b)(2), inserted “(or one-half thereof if designated for this purpose under section 8419 of this title)” after “paragraph (2)”.
 
 1986—Subsec. (c)(2)(B)(i)(I). Pub. L. 99–556 which directed that subsec. (c)(2)(B)(i)(I) of this section be amended generally was executed to subsec. (c)(2)(B)(i)(I) of this section, as the probable intent of Congress. Prior to the amendment, subcl. (I) read as follows: “on the day after the date on which the former employee or Member would have attained age 62; or”.
 
@@ -5339,7 +5339,7 @@ Subsec. (g)(1). Pub. L. 100–238, § 131(b)(2), inserted “(or one-half ther
 
 Amendment by Pub. L. 105–61 applicable with respect to remarriages occurring on or after Jan. 1, 1995, see section 518(c) of Pub. L. 105–61, set out as a note under section 8341 of this title.
 
-### § 8443. Rights of a child
+### § 8443. Rights of a child
 
 **(a)**
 
@@ -5375,13 +5375,13 @@ This annuity and the right thereto terminate on the last day of the month before
 
 whichever occurs first. On the death of the surviving wife or husband, or former wife or husband, or termination of the annuity of a child, the annuity of any other child or children shall be recomputed and paid as though the wife or husband, former wife or husband, or child had not survived the annuitant, employee, or Member. If the annuity of a child under this subchapter terminates under subparagraph (E) because of marriage, then, if such marriage ends, such annuity shall resume on the first day of the month in which it ends, but only if any lump sum paid is returned to the Fund, and that individual is not otherwise ineligible for such annuity.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 563; amended Pub. L. 99–556, title I, § 117(a), Oct. 27, 1986, 100 Stat. 3134; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 633(a)(2)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 563; amended Pub. L. 99–556, title I, § 117(a), Oct. 27, 1986, 100 Stat. 3134; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 633(a)(2)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
@@ -5393,15 +5393,15 @@ The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch
 
 **Effective Date of 1996 Amendment**
 
-Amendment by Pub. L. 104–208 applicable with respect to termination of marriage taking effect before, on, or after Sept. 30, 1996, except that benefits are payable only with respect to amounts accruing for periods beginning on first day of month beginning after the later of termination of marriage or Sept. 30, 1996, see section 101(f) [title VI, § 633(b)] of Pub. L. 104–208, set out as a note under section 8341 of this title.
+Amendment by Pub. L. 104–208 applicable with respect to termination of marriage taking effect before, on, or after Sept. 30, 1996, except that benefits are payable only with respect to amounts accruing for periods beginning on first day of month beginning after the later of termination of marriage or Sept. 30, 1996, see section 101(f) [title VI, § 633(b)] of Pub. L. 104–208, set out as a note under section 8341 of this title.
 
-### § 8444. Rights of a named individual with an insurable interest
+### § 8444. Rights of a named individual with an insurable interest
 
 The annuity of a survivor named under section 8420(a) is 55 percent of the reduced annuity of the retired employee or Member determined under paragraph (2) of such section 8420(a). The annuity of the survivor commences on the day after the retired employee or Member dies. This annuity and the right thereto terminate on the last day of the month before the survivor dies.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 563.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 563.)
 
-### § 8445. Rights of a former spouse
+### § 8445. Rights of a former spouse
 
 **(a)** Subject to subsections (b) through (e), a former spouse of a deceased employee, Member, or annuitant (or of a former employee or Member who dies after having separated from the service with title to a deferred annuity under section 8413 but before having established a valid claim for annuity) is entitled to an annuity under this section, if and to the extent expressly provided for in an election under section 8417(b), or in the terms of any decree of divorce or annulment or any court order or court-approved property settlement agreement incident to such decree.
 
@@ -5449,15 +5449,15 @@ whichever is later; and
 
 **(2)** A remarriage described in paragraph (1) shall not be taken into account for purposes of section 8419(b)(1)(B) or any other provision of this chapter which the Office may by regulation identify in order to carry out the purposes of this subsection.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 564; amended Pub. L. 105–61, title V, § 518(b)(2), Oct. 10, 1997, 111 Stat. 1308.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 564; amended Pub. L. 105–61, title V, § 518(b)(2), Oct. 10, 1997, 111 Stat. 1308.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1997—Subsec. (c)(2). Pub. L. 105–61, § 518(b)(2)(B), substituted “except as provided in subsection (h), shall” for “shall”.
+1997—Subsec. (c)(2). Pub. L. 105–61, § 518(b)(2)(B), substituted “except as provided in subsection (h), shall” for “shall”.
 
-Subsec. (h). Pub. L. 105–61, § 518(b)(2)(A), added subsec. (h).
+Subsec. (h). Pub. L. 105–61, § 518(b)(2)(A), added subsec. (h).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5467,7 +5467,7 @@ Amendment by Pub. L. 105–61 applicable with respect to remarriages occurring o
 
 ## SUBCHAPTER V—DISABILITY BENEFITS
 
-### § 8451. Disability retirement
+### § 8451. Disability retirement
 
 **(a)**
 
@@ -5497,9 +5497,9 @@ Amendment by Pub. L. 105–61 applicable with respect to remarriages occurring o
 
 **(c)** An employee or Member retiring under this section is entitled to an annuity computed under section 8452.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 565.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 565.)
 
-### § 8452. Computation of disability annuity
+### § 8452. Computation of disability annuity
 
 **(a)**
 
@@ -5573,7 +5573,7 @@ except that an annuity may not be reduced below zero by reason of this paragraph
 
 **(B)** whether the amount actually payable to the annuitant under this section in any month is determined under this subsection or otherwise.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 566; amended Pub. L. 99–556, title I, §§ 104, 106, Oct. 27, 1986, 100 Stat. 3131, 3132; Pub. L. 100–238, title I, § 122(a)–(c), Jan. 8, 1988, 101 Stat. 1753, 1754; Pub. L. 108–176, title II, § 226(b)(2)(B), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 112–96, title V, § 5001(c)(2)(B), Feb. 22, 2012, 126 Stat. 200.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 566; amended Pub. L. 99–556, title I, §§ 104, 106, Oct. 27, 1986, 100 Stat. 3131, 3132; Pub. L. 100–238, title I, § 122(a)–(c), Jan. 8, 1988, 101 Stat. 1753, 1754; Pub. L. 108–176, title II, § 226(b)(2)(B), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 112–96, title V, § 5001(c)(2)(B), Feb. 22, 2012, 126 Stat. 200.)
 
 **Editorial Notes**
 
@@ -5587,9 +5587,9 @@ Sections 223 and 224 of the Social Security Act, referred to in subsec. (a)(2), 
 
 2003—Subsec. (d)(1). Pub. L. 108–176 substituted “subsection (g)” for “subsection (f)”.
 
-1988—Subsec. (a)(1)(B). Pub. L. 100–238, § 122(c)(2)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “An annuity computed under this paragraph shall not, for purposes of any adjustment under section 8462 (including any adjustment under subsection (c)(1) of such section), be considered to have commenced until after such annuity ceases to be determined under subparagraph (A)(i).”
+1988—Subsec. (a)(1)(B). Pub. L. 100–238, § 122(c)(2)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “An annuity computed under this paragraph shall not, for purposes of any adjustment under section 8462 (including any adjustment under subsection (c)(1) of such section), be considered to have commenced until after such annuity ceases to be determined under subparagraph (A)(i).”
 
-Subsec. (a)(2)(B)(i). Pub. L. 100–238, § 122(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “For purposes of this paragraph, the assumed disability insurance benefit of an annuitant for any month shall be equal to—
+Subsec. (a)(2)(B)(i). Pub. L. 100–238, § 122(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “For purposes of this paragraph, the assumed disability insurance benefit of an annuitant for any month shall be equal to—
 
 “(I) the amount of the disability insurance benefit to which the annuitant would have been entitled under section 223 of the Social Security Act for the month in which the annuity under this subchapter commenced, or was restored, determined as if such annuitant had then satisfied all requirements for entitlement to a benefit under such section, adjusted by
 
@@ -5597,15 +5597,15 @@ Subsec. (a)(2)(B)(i). Pub. L. 100–238, § 122(a), amended cl. (i) generally.
 
 For purposes of computing the assumed disability insurance benefit, the month in which the annuitant’s disability began (as determined under section 216(i)(2)(C) of the Social Security Act) shall be the month in which the annuity commenced or, if earlier (and if a determination was actually made) the month determined under such section.”
 
-Subsec. (a)(3). Pub. L. 100–238, § 122(c)(2)(B), added par. (3).
+Subsec. (a)(3). Pub. L. 100–238, § 122(c)(2)(B), added par. (3).
 
-Subsec. (b). Pub. L. 100–238, § 122(b), amended subsec. (b) generally, substituting pars. (1) and (2) for former pars. (1) to (4).
+Subsec. (b). Pub. L. 100–238, § 122(b), amended subsec. (b) generally, substituting pars. (1) and (2) for former pars. (1) to (4).
 
-Subsec. (d). Pub. L. 100–238, § 122(c)(1), designated existing provisions as par. (1) and added par. (2).
+Subsec. (d). Pub. L. 100–238, § 122(c)(1), designated existing provisions as par. (1) and added par. (2).
 
-1986—Subsec. (b)(3). Pub. L. 99–556, § 106, substituted “(a)(1)(A)(i)” for “(a)(1)(A)” in second sentence.
+1986—Subsec. (b)(3). Pub. L. 99–556, § 106, substituted “(a)(1)(A)(i)” for “(a)(1)(A)” in second sentence.
 
-Subsec. (d). Pub. L. 99–556, § 104, inserted “(after the reduction under subsection (a)(2), if applicable, has been made)”.
+Subsec. (d). Pub. L. 99–556, § 104, inserted “(after the reduction under subsection (a)(2), if applicable, has been made)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5617,13 +5617,13 @@ Amendment by Pub. L. 108–176 effective on 60th day after Dec. 12, 2003, and ap
 
 Section 122(d) of Pub. L. 100–238 provided that: “The amendments made by this section [amending this section] shall be effective as of January 1, 1987, as if they had been enacted as part of the Federal Employees’ Retirement System Act of 1986 (Public Law 99–335; 100 Stat. 514 and following).”
 
-### § 8453. Application
+### § 8453. Application
 
 A claim may be allowed under this subchapter only if application is filed with the Office before the employee or Member is separated from the service or within 1 year thereafter. This time limitation may be waived by the Office for an employee or Member who, at the date of separation from service or within 1 year thereafter, is mentally incompetent if the application is filed with the Office within 1 year from the date of restoration of the employee or Member to competency or the appointment of a fiduciary, whichever is earlier.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 568.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 568.)
 
-### § 8454. Medical examination
+### § 8454. Medical examination
 
 An annuitant receiving a disability retirement annuity from the Fund shall be examined under the direction of the Office—
 
@@ -5633,9 +5633,9 @@ An annuitant receiving a disability retirement annuity from the Fund shall be ex
 
 unless the disability is permanent in character. If the annuitant fails to submit to examination as required by this section, payment of the annuity shall be suspended until continuance of the disability is satisfactorily established.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 568.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 568.)
 
-### § 8455. Recovery; restoration of earning capacity
+### § 8455. Recovery; restoration of earning capacity
 
 **(a)**
 
@@ -5659,9 +5659,9 @@ the annuity of such individual shall be restored at the applicable rate under se
 
 **(4)** Paragraphs (2) and (3) shall not apply in the case of an annuitant receiving an annuity from the Fund under subchapter II of this chapter.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 568.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 568.)
 
-### § 8456. Military reserve technicians
+### § 8456. Military reserve technicians
 
 **(a)**
 
@@ -5693,13 +5693,13 @@ the annuity of such individual shall be restored at the applicable rate under se
 
 **(3)** the position is at the same grade or equivalent level as the position from which the individual was separated.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 570, § 8457; amended Pub. L. 99–556, title I, § 118, Oct. 27, 1986, 100 Stat. 3134; renumbered § 8456, Pub. L. 100–238, title I, § 124(b)(1)(B), Jan. 8, 1988, 101 Stat. 1756; Pub. L. 103–337, div. A, title XVI, § 1677(a)(4), Oct. 5, 1994, 108 Stat. 3019.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 570, § 8457; amended Pub. L. 99–556, title I, § 118, Oct. 27, 1986, 100 Stat. 3134; renumbered § 8456, Pub. L. 100–238, title I, § 124(b)(1)(B), Jan. 8, 1988, 101 Stat. 1756; Pub. L. 103–337, div. A, title XVI, § 1677(a)(4), Oct. 5, 1994, 108 Stat. 3019.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 8456, added Pub. L. 99–355, title I, § 101(a), June 6, 1986, 100 Stat. 569, related to relationship between annuity and workers’ compensation, prior to repeal by Pub. L. 100–238, title I, § 124(b)(1)(A), Jan. 8, 1988, 101 Stat. 1756. See section 8464a of this title.
+A prior section 8456, added Pub. L. 99–355, title I, § 101(a), June 6, 1986, 100 Stat. 569, related to relationship between annuity and workers’ compensation, prior to repeal by Pub. L. 100–238, title I, § 124(b)(1)(A), Jan. 8, 1988, 101 Stat. 1756. See section 8464a of this title.
 
 **Amendments**
 
@@ -5715,11 +5715,11 @@ A prior section 8456, added Pub. L. 99–355, title I, § 101(a), June 6, 1986
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
 
-### [§ 8457. Renumbered § 8456]
+### [§ 8457. Renumbered § 8456]
 
 ## SUBCHAPTER VI—GENERAL AND ADMINISTRATIVE PROVISIONS
 
-### § 8461. Authority of the Office of Personnel Management
+### § 8461. Authority of the Office of Personnel Management
 
 **(a)** The Office shall pay all benefits that are payable under subchapter II, IV, V, or VI of this chapter from the Fund.
 
@@ -5813,27 +5813,27 @@ shall be given the opportunity to elect irrevocably, within 30 days after such m
 
 shall be given the opportunity to elect irrevocably, within 30 days after such move, to remain covered, during any subsequent employment as an employee as defined by section 2105(a) or section 2105(c), by the retirement system applicable to such employee’s current or most recent employment described by section 2105(c) rather than be subject to this chapter.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 570; amended Pub. L. 99–556, title I, § 102, Oct. 27, 1986, 100 Stat. 3131; Pub. L. 101–508, title VII, § 7202(k)(2), Nov. 5, 1990, 104 Stat. 1388–339; Pub. L. 102–378, § 2(71), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–106, div. A, title X, § 1043(a)(2), Feb. 10, 1996, 110 Stat. 434; Pub. L. 107–107, div. A, title XI, § 1131(b), Dec. 28, 2001, 115 Stat. 1242.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 570; amended Pub. L. 99–556, title I, § 102, Oct. 27, 1986, 100 Stat. 3131; Pub. L. 101–508, title VII, § 7202(k)(2), Nov. 5, 1990, 104 Stat. 1388–339; Pub. L. 102–378, § 2(71), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–106, div. A, title X, § 1043(a)(2), Feb. 10, 1996, 110 Stat. 434; Pub. L. 107–107, div. A, title XI, § 1131(b), Dec. 28, 2001, 115 Stat. 1242.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2001—Subsec. (n)(1). Pub. L. 107–107, § 1131(b)(1), inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “has 5 or more years of civilian service creditable under this chapter; and”.
+2001—Subsec. (n)(1). Pub. L. 107–107, § 1131(b)(1), inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “has 5 or more years of civilian service creditable under this chapter; and”.
 
-Subsec. (n)(2)(B). Pub. L. 107–107, § 1131(b)(2), struck out “vested” before “participant in a retirement system” and struck out “, as the term ‘vested participant’ is defined by such system” before semicolon at end.
+Subsec. (n)(2)(B). Pub. L. 107–107, § 1131(b)(2), struck out “vested” before “participant in a retirement system” and struck out “, as the term ‘vested participant’ is defined by such system” before semicolon at end.
 
-1996—Subsec. (n)(1). Pub. L. 104–106, § 1043(a)(2)(A), struck out “of the Department of Defense or the Coast Guard” after “an employee” in introductory provisions and substituted “1 year” for “3 days” in subpar. (C).
+1996—Subsec. (n)(1). Pub. L. 104–106, § 1043(a)(2)(A), struck out “of the Department of Defense or the Coast Guard” after “an employee” in introductory provisions and substituted “1 year” for “3 days” in subpar. (C).
 
-Subsec. (n)(2)(C). Pub. L. 104–106, § 1043(a)(2)(B), substituted “1 year” for “3 days” and struck out “in the Department of Defense or the Coast Guard, respectively,” after “to a position”.
+Subsec. (n)(2)(C). Pub. L. 104–106, § 1043(a)(2)(B), substituted “1 year” for “3 days” and struck out “in the Department of Defense or the Coast Guard, respectively,” after “to a position”.
 
-1992—Subsec. (n)(1)(A), (2)(A). Pub. L. 102–378, § 2(71)(A), amended subpars. (A) generally. Prior to amendment, subpars. (A) read as follows: “has not previously made or had an opportunity to make an election under this subsection;”.
+1992—Subsec. (n)(1)(A), (2)(A). Pub. L. 102–378, § 2(71)(A), amended subpars. (A) generally. Prior to amendment, subpars. (A) read as follows: “has not previously made or had an opportunity to make an election under this subsection;”.
 
-Subsec. (n)(2)(D). Pub. L. 102–378, § 2(71)(B), substituted “8347(q)” for “8347(p)”.
+Subsec. (n)(2)(D). Pub. L. 102–378, § 2(71)(B), substituted “8347(q)” for “8347(p)”.
 
 1990—Subsec. (n). Pub. L. 101–508 added subsec. (n).
 
-1986—Subsec. (m)(2). Pub. L. 99–556 struck out “, and from the Thrift Savings Fund,” after “from the Fund”.
+1986—Subsec. (m)(2). Pub. L. 99–556 struck out “, and from the Thrift Savings Fund,” after “from the Fund”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5865,7 +5865,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 For provisions relating to the deductions and contributions required with respect to individuals electing under section 8347(q) or 8461(n) of this title to remain covered under subchapter III of chapter 83 of this title, chapter 84 of this title, or a retirement system for employees described in section 2105(c) of this title, see section 7202(n) of Pub. L. 101–508, set out as a note under section 2105 of this title.
 
-### § 8462. Cost-of-living adjustments
+### § 8462. Cost-of-living adjustments
 
 **(a)** For the purpose of this section—
 
@@ -5943,7 +5943,7 @@ For provisions relating to the deductions and contributions required with respec
 
 **(e)** The $15,000 amount referred to in section 8442(b)(1)(A)(ii) shall be increased at the same time that, and by the same percent as the percentage by which, annuities under subchapter III of chapter 83 are increased.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 572; amended Pub. L. 99–556, title I, § 117(b), Oct. 27, 1986, 100 Stat. 3134; Pub. L. 117–225, § 3(b)(2)(A)(vi), Dec. 9, 2022, 136 Stat. 2296.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 572; amended Pub. L. 99–556, title I, § 117(b), Oct. 27, 1986, 100 Stat. 3134; Pub. L. 117–225, § 3(b)(2)(A)(vi), Dec. 9, 2022, 136 Stat. 2296.)
 
 **Editorial Notes**
 
@@ -5963,13 +5963,13 @@ Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an indi
 
 Any cost-of-living increase scheduled to take effect during fiscal year 1994, 1995, or 1996 under subsec. (b) of this section delayed until first day of third calendar month after date such increase would otherwise take effect, see section 11001 of Pub. L. 103–66, set out as a note under section 8340 of this title.
 
-### § 8463. Rate of benefits
+### § 8463. Rate of benefits
 
 Each annuity payable from the Fund is stated as an annual amount, one-twelfth of which, rounded to the next lower dollar, constitutes the monthly rate payable on the first business day of the first month beginning after the month for which it has accrued.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 574.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 574.)
 
-### § 8464. Commencement and termination of annuities of employees and Members
+### § 8464. Commencement and termination of annuities of employees and Members
 
 **(a)**
 
@@ -5993,7 +5993,7 @@ Each annuity payable from the Fund is stated as an annual amount, one-twelfth of
 
 **(b)** Except as otherwise provided in this chapter, the annuity of an annuitant under subchapter II or V of this chapter terminates on the date death or other terminating event occurs.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 574; amended Pub. L. 105–261, div. A, title XI, § 1109(c)(2), Oct. 17, 1998, 112 Stat. 2145; Pub. L. 106–58, title VI, § 651(b), Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–398, § 1 [[div. A], title XI, § 1152(c)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–323; Pub. L. 107–107, div. A, title X, § 1048(f)(2), Dec. 28, 2001, 115 Stat. 1228.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 574; amended Pub. L. 105–261, div. A, title XI, § 1109(c)(2), Oct. 17, 1998, 112 Stat. 2145; Pub. L. 106–58, title VI, § 651(b), Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–398, § 1 [[div. A], title XI, § 1152(c)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–323; Pub. L. 107–107, div. A, title X, § 1048(f)(2), Dec. 28, 2001, 115 Stat. 1228.)
 
 **Editorial Notes**
 
@@ -6001,19 +6001,19 @@ Each annuity payable from the Fund is stated as an annual amount, one-twelfth of
 
 2001—Subsec. (a)(1)(A)(i). Pub. L. 107–107 amended directory language of Pub. L. 106–398. See 2000 Amendment note below.
 
-2000—Subsec. (a)(1)(A)(i). Pub. L. 106–398, as amended by Pub. L. 107–107, substituted “, (b)(1)(B), or (d)” for “or (b)(1)(B)”.
+2000—Subsec. (a)(1)(A)(i). Pub. L. 106–398, as amended by Pub. L. 107–107, substituted “, (b)(1)(B), or (d)” for “or (b)(1)(B)”.
 
-1999—Subsec. (a)(1)(A)(i). Pub. L. 106–58 repealed Pub. L. 105–261, § 1109(c)(2). See 1998 Amendment note below.
+1999—Subsec. (a)(1)(A)(i). Pub. L. 106–58 repealed Pub. L. 105–261, § 1109(c)(2). See 1998 Amendment note below.
 
-1998—Subsec. (a)(1)(A)(i). Pub. L. 105–261, § 1109(c)(2), which directed substitution of “, (b)(1)(B), or (d)” for “or (b)(1)(B)”, was repealed by Pub. L. 106–58.
+1998—Subsec. (a)(1)(A)(i). Pub. L. 105–261, § 1109(c)(2), which directed substitution of “, (b)(1)(B), or (d)” for “or (b)(1)(B)”, was repealed by Pub. L. 106–58.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–107, div. A, title X, § 1048(f), Dec. 28, 2001, 115 Stat. 1228, provided that the amendment made by section 1048(f)(2) is effective as of Oct. 30, 2000, and as if included in the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, as enacted into law by Pub. L. 106–398.
+Pub. L. 107–107, div. A, title X, § 1048(f), Dec. 28, 2001, 115 Stat. 1228, provided that the amendment made by section 1048(f)(2) is effective as of Oct. 30, 2000, and as if included in the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, as enacted into law by Pub. L. 106–398.
 
-### § 8464a. Relationship between annuity and workers’ compensation
+### § 8464a. Relationship between annuity and workers’ compensation
 
 **(a)**
 
@@ -6037,7 +6037,7 @@ covering the same period of time.
 
 Deductions from the annuity may be made from accrued or accruing payments. The amounts deducted and withheld from the annuity shall be transmitted to the Department of Labor for reimbursement to the Employees’ Compensation Fund. When the Department of Labor finds that the financial circumstances of an individual entitled to an annuity under subchapter II, IV, or V warrant deferred refunding, deductions from the annuity may be prorated against and paid from accruing payments in such manner as the Department determines appropriate.
 
-(Added Pub. L. 100–238, title I, § 124(a)(1)(B), Jan. 8, 1988, 101 Stat. 1755.)
+(Added Pub. L. 100–238, title I, § 124(a)(1)(B), Jan. 8, 1988, 101 Stat. 1755.)
 
 **Editorial Notes**
 
@@ -6051,15 +6051,15 @@ Provisions similar to this section were contained in section 8456 of this title 
 
 Section effective Jan. 1, 1987, and applicable with respect to benefits payable based on a death or disability occurring on or after that date, see section 124(c) of Pub. L. 100–238 set out as an Effective Date of 1988 Amendment note under section 8337 of this title.
 
-### § 8465. Waiver, allotment, and assignment of benefits
+### § 8465. Waiver, allotment, and assignment of benefits
 
 **(a)** An individual entitled to an annuity payable from the Fund may decline to accept all or any part of the amount of the annuity by a waiver signed and filed with the Office. The waiver may be revoked in writing at any time. Payment of the annuity waived may not be made for the period during which the waiver is in effect.
 
 **(b)** An individual entitled to an annuity payable from the Fund may make allotments or assignments of amounts from the annuity for such purposes as the Office considers appropriate.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 575.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 575.)
 
-### § 8466. Application for benefits
+### § 8466. Application for benefits
 
 **(a)** No payment of benefits based on the service of an employee or Member shall be made from the Fund unless an application for payment of the benefits is received by the Office before the one hundred and fifteenth anniversary of the birth of the employee or Member.
 
@@ -6079,15 +6079,15 @@ Section effective Jan. 1, 1987, and applicable with respect to benefits payable 
 
 **(3)** section 6101 of title 38.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 575; amended Pub. L. 116–126, § 2(c)(2), (d)(2), Mar. 18, 2020, 134 Stat. 176.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 575; amended Pub. L. 116–126, § 2(c)(2), (d)(2), Mar. 18, 2020, 134 Stat. 176.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2020—Subsec. (c). Pub. L. 116–126, § 2(c)(2), designated existing provisions as par. (1), inserted “(including an organization)” after “to the person” and after “to any person”, inserted “and may appropriately receive such payments on behalf of the claimant” after “care of the claimant”, and added par. (2).
+2020—Subsec. (c). Pub. L. 116–126, § 2(c)(2), designated existing provisions as par. (1), inserted “(including an organization)” after “to the person” and after “to any person”, inserted “and may appropriately receive such payments on behalf of the claimant” after “care of the claimant”, and added par. (2).
 
-Subsec. (d). Pub. L. 116–126, § 2(d)(2), added subsec. (d).
+Subsec. (d). Pub. L. 116–126, § 2(d)(2), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6099,7 +6099,7 @@ Amendment by Pub. L. 116–126 effective on Mar. 18, 2020, and applicable on and
 
 Regulations to carry out amendment by Pub. L. 116–126 to be promulgated by Office of Personnel Management no later than 1 year after Mar. 18, 2020, with allowance for additional regulations relating to administration of representative payee program, see section 3(b) of Pub. L. 116–126, set out as a note under section 8331 of this title.
 
-### § 8466a. Embezzlement or conversion of payments
+### § 8466a. Embezzlement or conversion of payments
 
 **(a) Embezzling and Conversion Generally.—**
 
@@ -6117,7 +6117,7 @@ Regulations to carry out amendment by Pub. L. 116–126 to be promulgated by Off
 
 **(b) Penalty.—** Any person who violates subsection (a)(1) shall be fined under title 18, imprisoned for not more than 5 years, or both.
 
-(Added Pub. L. 116–126, § 2(b)(2), Mar. 18, 2020, 134 Stat. 175.)
+(Added Pub. L. 116–126, § 2(b)(2), Mar. 18, 2020, 134 Stat. 175.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6129,7 +6129,7 @@ Section effective on Mar. 18, 2020, and applicable on and after the effective da
 
 Regulations to carry out this section to be promulgated by Office of Personnel Management no later than 1 year after Mar. 18, 2020, with allowance for additional regulations relating to administration of representative payee program, see section 3(b) of Pub. L. 116–126, set out as a note under section 8331 of this title.
 
-### § 8467. Court orders
+### § 8467. Court orders
 
 **(a)** Payments under this chapter which would otherwise be made to an employee, Member, or annuitant (including an employee, Member, or annuitant as defined in section 8331) based on service of that individual shall be paid (in whole or in part) by the Office or the Executive Director, as the case may be, to another person if and to the extent expressly provided for in the terms of—
 
@@ -6147,17 +6147,17 @@ In the event that the Office or the Executive Director, as the case may be, is s
 
 **(2)** the term “child” means an individual under 18 years of age.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 575; amended Pub. L. 103–358, § 2(b)(1)–(3), Oct. 14, 1994, 108 Stat. 3421.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 575; amended Pub. L. 103–358, § 2(b)(1)–(3), Oct. 14, 1994, 108 Stat. 3421.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–358, § 2(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Payments under this chapter which would otherwise be made to an employee, Member, or annuitant (including an employee, Member, or annuitant as defined under section 8331) based on the service of that individual shall be paid (in whole or in part) by the Office or the Executive Director (as the case may be), to another person if and to the extent that the terms of any court decree of divorce, annulment, or legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation expressly provide. Any payment under this subsection to a person bars recovery by any other person.”
+1994—Subsec. (a). Pub. L. 103–358, § 2(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Payments under this chapter which would otherwise be made to an employee, Member, or annuitant (including an employee, Member, or annuitant as defined under section 8331) based on the service of that individual shall be paid (in whole or in part) by the Office or the Executive Director (as the case may be), to another person if and to the extent that the terms of any court decree of divorce, annulment, or legal separation, or the terms of any court order or court-approved property settlement agreement incident to any court decree of divorce, annulment, or legal separation expressly provide. Any payment under this subsection to a person bars recovery by any other person.”
 
-Subsec. (b). Pub. L. 103–358, § 2(b)(2), inserted “other legal process,” after “order,”.
+Subsec. (b). Pub. L. 103–358, § 2(b)(2), inserted “other legal process,” after “order,”.
 
-Subsec. (c). Pub. L. 103–358, § 2(b)(3), added subsec. (c).
+Subsec. (c). Pub. L. 103–358, § 2(b)(3), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6165,7 +6165,7 @@ Subsec. (c). Pub. L. 103–358, § 2(b)(3), added subsec. (c).
 
 Amendment by Pub. L. 103–358 effective Oct. 14, 1994, and applicable with respect to any decree, order, or other legal process, or notice of agreement received by Office of Personnel Management or Executive Director of Federal Retirement Thrift Investment Board on or after Oct. 14, 1994, see section 3 of Pub. L. 103–358, set out as a note under section 8345 of this title.
 
-### § 8468. Annuities and pay on reemployment
+### § 8468. Annuities and pay on reemployment
 
 **(a)** If an annuitant, except a disability annuitant whose annuity is terminated because of the annuitant’s recovery or restoration of earning capacity, becomes employed in an appointive or elective position, an amount equal to the annuity allocable to the period of actual employment shall be deducted from the annuitant’s pay, except for lump-sum leave payment purposes under section 5551. Unless the annuitant’s appointment is on an intermittent basis or is to a position as a justice or judge (as defined by section 451 of title 28) or as an employee subject to another retirement system for Government employees, or unless the annuitant is serving as President, deductions for the Fund shall be withheld from the annuitant’s pay under section 8422(a) and contributions under section 8423 shall be made. The deductions and contributions referred to in the preceding provisions of this subsection shall be deposited in the Treasury of the United States to the credit of the Fund. The annuitant’s lump-sum credit may not be reduced by annuity paid during the reemployment.
 
@@ -6179,9 +6179,9 @@ Amendment by Pub. L. 103–358 effective Oct. 14, 1994, and applicable with resp
 
 **(i)** If the annuitant is receiving a reduced annuity as provided in section 8419, the increase in annuity payable under subparagraph (A) is reduced by 10 percent and the survivor annuity or combination of survivor annuities payable under section 8442 or 8445 (or both) is increased by 50 percent of the increase in annuity payable under subparagraph (A), unless, at the time of claiming the increase payable under subparagraph (A), the annuitant notifies the Office in writing that the annuitant does not desire the survivor annuity to be increased.
 
-**(ii)** If an annuitant who is subject to the deductions referred to in subparagraph (A) dies while still reemployed, after having been reemployed for not less than 1 year of full-time service (or the equivalent thereof, in the case of full-time 1
+**(ii)** If an annuitant who is subject to the deductions referred to in subparagraph (A) dies while still reemployed, after having been reemployed for not less than 1 year of full-time service (or the equivalent thereof, in the case of full-time 1
 
-<sup>1</sup>  So in original. Probably should be “part-time”.
+<sup>1</sup> So in original. Probably should be “part-time”.
 
 employment), the survivor annuity payable is increased as though the reemployment had otherwise terminated.
 
@@ -6311,7 +6311,7 @@ employment), the survivor annuity payable is increased as though the reemploymen
 
 **(2)** An employee as to whom a waiver under subsection (f), (g), (h), or (i) is in effect shall not be considered an employee for purposes of this chapter or chapter 83 of this title.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 576; amended Pub. L. 100–238, title I, § 134(a), Jan. 8, 1988, 101 Stat. 1762; Pub. L. 101–509, title V, § 529 [title I, § 108(c)], Nov. 5, 1990, 104 Stat. 1427, 1450; Pub. L. 101–510, div. A, title XII, § 1206(j)(3), Nov. 5, 1990, 104 Stat. 1664; Pub. L. 102–190, div. A, title VI, § 655(c), Dec. 5, 1991, 105 Stat. 1392; Pub. L. 102–378, § 8(a), Oct. 2, 1992, 106 Stat. 1359; Pub. L. 105–55, title I, § 107, Oct. 7, 1997, 111 Stat. 1184; Pub. L. 105–61, title V, § 516(a)(9), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 108–176, title II, § 226(b)(2)(C), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–84, div. A, title XI, § 1122(b), Oct. 28, 2009, 123 Stat. 2507; Pub. L. 112–96, title V, § 5001(c)(2)(C), Feb. 22, 2012, 126 Stat. 200; Pub. L. 113–291, div. A, title XI, § 1107(b), Dec. 19, 2014, 128 Stat. 3527; Pub. L. 116–92, div. A, title XI, § 1117(b), Dec. 20, 2019, 133 Stat. 1605.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 576; amended Pub. L. 100–238, title I, § 134(a), Jan. 8, 1988, 101 Stat. 1762; Pub. L. 101–509, title V, § 529 [title I, § 108(c)], Nov. 5, 1990, 104 Stat. 1427, 1450; Pub. L. 101–510, div. A, title XII, § 1206(j)(3), Nov. 5, 1990, 104 Stat. 1664; Pub. L. 102–190, div. A, title VI, § 655(c), Dec. 5, 1991, 105 Stat. 1392; Pub. L. 102–378, § 8(a), Oct. 2, 1992, 106 Stat. 1359; Pub. L. 105–55, title I, § 107, Oct. 7, 1997, 111 Stat. 1184; Pub. L. 105–61, title V, § 516(a)(9), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 108–176, title II, § 226(b)(2)(C), Dec. 12, 2003, 117 Stat. 2530; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–84, div. A, title XI, § 1122(b), Oct. 28, 2009, 123 Stat. 2507; Pub. L. 112–96, title V, § 5001(c)(2)(C), Feb. 22, 2012, 126 Stat. 200; Pub. L. 113–291, div. A, title XI, § 1107(b), Dec. 19, 2014, 128 Stat. 3527; Pub. L. 116–92, div. A, title XI, § 1117(b), Dec. 20, 2019, 133 Stat. 1605.)
 
 **Editorial Notes**
 
@@ -6319,7 +6319,7 @@ employment), the survivor annuity payable is increased as though the reemploymen
 
 The American Recovery and Reinvestment Act of 2009, referred to in subsec. (i)(2)(B), is Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 115. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
 
-The Emergency Economic Stabilization Act of 2008, referred to in subsec. (i)(2)(B), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765. Title I of the Act is classified principally to subchapter I (§ 5211 et seq.) of chapter 52 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
+The Emergency Economic Stabilization Act of 2008, referred to in subsec. (i)(2)(B), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765. Title I of the Act is classified principally to subchapter I (§ 5211 et seq.) of chapter 52 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
 
 **Amendments**
 
@@ -6329,13 +6329,13 @@ The Emergency Economic Stabilization Act of 2008, referred to in subsec. (i)(2)(
 
 2012—Subsec. (b)(1)(A). Pub. L. 112–96 substituted “section 8415(a) through (i)” for “section 8415(a) through (h)”.
 
-2009—Subsec. (i). Pub. L. 111–84, § 1122(b)(2), added subsec. (i). Former subsec. (i) redesignated (j).
+2009—Subsec. (i). Pub. L. 111–84, § 1122(b)(2), added subsec. (i). Former subsec. (i) redesignated (j).
 
-Subsec. (j). Pub. L. 111–84, § 1122(b)(1), redesignated subsec. (i) as (j).
+Subsec. (j). Pub. L. 111–84, § 1122(b)(1), redesignated subsec. (i) as (j).
 
-Subsec. (j)(1). Pub. L. 111–84, § 1122(b)(3)(A), substituted “(i)” for “(h)”.
+Subsec. (j)(1). Pub. L. 111–84, § 1122(b)(3)(A), substituted “(i)” for “(h)”.
 
-Subsec. (j)(2). Pub. L. 111–84, § 1122(b)(3)(B), substituted “(h), or (i)” for “or (h)”.
+Subsec. (j)(2). Pub. L. 111–84, § 1122(b)(3)(B), substituted “(h), or (i)” for “or (h)”.
 
 2004—Subsec. (i)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
@@ -6345,13 +6345,13 @@ Subsec. (j)(2). Pub. L. 111–84, § 1122(b)(3)(B), substituted “(h), or (i)
 
 Subsec. (h)(2)(B), (3). Pub. L. 105–55 substituted “the Committee on House Oversight of the House of Representatives” for “the Speaker of the House of Representatives”.
 
-1992—Subsec. (f). Pub. L. 102–378 repealed Pub. L. 101–510, § 1206(j)(3). See 1990 Amendment note below.
+1992—Subsec. (f). Pub. L. 102–378 repealed Pub. L. 101–510, § 1206(j)(3). See 1990 Amendment note below.
 
-1991—Subsec. (f)(3). Pub. L. 102–190, § 655(c)(2), struck out par. (3) which read as follows: “An employee to whom a waiver under subparagraph (A) or (B) of paragraph (1) applies shall not be deemed an employee for the purposes of chapter 83 or this chapter while such waiver is in effect.”
+1991—Subsec. (f)(3). Pub. L. 102–190, § 655(c)(2), struck out par. (3) which read as follows: “An employee to whom a waiver under subparagraph (A) or (B) of paragraph (1) applies shall not be deemed an employee for the purposes of chapter 83 or this chapter while such waiver is in effect.”
 
-Subsecs. (g) to (i). Pub. L. 102–190, § 655(c)(1), added subsecs. (g) to (i).
+Subsecs. (g) to (i). Pub. L. 102–190, § 655(c)(1), added subsecs. (g) to (i).
 
-1990—Subsec. (f). Pub. L. 101–510, § 1206(j)(3), added a subsec. (f) identical to that added by Pub. L. 101–509, see below. Pub. L. 102–378, § 8(a), repealed Pub. L. 101–510, § 1206(j)(3), and provided that this title shall read as if section 1206(j)(3) had not been enacted.
+1990—Subsec. (f). Pub. L. 101–510, § 1206(j)(3), added a subsec. (f) identical to that added by Pub. L. 101–509, see below. Pub. L. 102–378, § 8(a), repealed Pub. L. 101–510, § 1206(j)(3), and provided that this title shall read as if section 1206(j)(3) had not been enacted.
 
 Pub. L. 101–509 added subsec. (f).
 
@@ -6383,11 +6383,11 @@ Amendment by Pub. L. 102–378 effective Nov. 5, 1990, see section 9(b)(6) of Pu
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–238, title I, § 134(d), Jan. 8, 1988, 101 Stat. 1765, provided that:
+Pub. L. 100–238, title I, § 134(d), Jan. 8, 1988, 101 Stat. 1765, provided that:
 
 > **“(1) Generally.—** The amendments made by this section [amending this section and provisions set out as notes under section 8331 of this title] shall take effect on the date of the enactment of this Act [Jan. 8, 1988], and as provided in paragraph (2), shall apply with respect to any individual who becomes a reemployed annuitant on or after such date.
 
@@ -6401,7 +6401,7 @@ Nothing in amendment by section 1122 of Pub. L. 111–84 to be construed to auth
 
 Each agency in legislative branch to submit to Speaker of House of Representatives and Committee on Rules and Administration of Senate, for each calendar year, a written report on how authority made available as result of amendment by Pub. L. 102–190 was used by such agency during the period covered by such report, see section 655(d) of Pub. L. 102–190, set out as a note under section 8344 of this title.
 
-### § 8469. Withholding of State income taxes
+### § 8469. Withholding of State income taxes
 
 **(a)** The Office shall, in accordance with this section, enter into an agreement with any State within 120 days of a request for agreement from the proper State official. The agreement shall provide that the Office shall withhold State income tax in the case of the monthly annuity of any annuitant who voluntarily requests, in writing, such withholding. The amounts withheld during any calendar quarter shall be held in the Fund and disbursed to the States during the month following that calendar quarter.
 
@@ -6417,19 +6417,19 @@ Each agency in legislative branch to submit to Speaker of House of Representativ
 
 **(2)** the term “annuitant” includes a survivor who is receiving an annuity from the Fund.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 576.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 576.)
 
-### § 8470. Exemption from legal process; recovery of payments
+### § 8470. Exemption from legal process; recovery of payments
 
 **(a)** An amount payable under subchapter II, IV, or V of this chapter is not assignable, either in law or equity, except under the provisions of section 8465 or 8467, or subject to execution, levy, attachment, garnishment or other legal process, except as otherwise may be provided by Federal laws.
 
 **(b)** Recovery of payments under subchapter II, IV, or V of this chapter may not be made from an individual when, in the judgment of the Office, the individual is without fault and recovery would be against equity and good conscience. Withholding or recovery of money paid under subchapter II, IV, or V of this chapter on account of a certification or payment made by a former employee of the United States in the discharge of his official duties may be made only if the head of the agency on behalf of which the certification or payment was made certifies to the Office that the certification or payment involved fraud on the part of the former employee.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 577.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 577.)
 
 ## SUBCHAPTER VII—FEDERAL RETIREMENT THRIFT INVESTMENT MANAGEMENT SYSTEM
 
-### § 8471. Definitions
+### § 8471. Definitions
 
 For the purposes of this subchapter—
 
@@ -6443,7 +6443,7 @@ For the purposes of this subchapter—
 
 **(5)** the term “Thrift Savings Fund” means the Thrift Savings Fund established under section 8437 of this title.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 577.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 577.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6451,7 +6451,7 @@ For the purposes of this subchapter—
 
 Subchapter VII effective June 6, 1986, see section 702(b)(1) of Pub. L. 99–335, set out as a note under section 8401 of this title.
 
-### § 8472. Federal Retirement Thrift Investment Board
+### § 8472. Federal Retirement Thrift Investment Board
 
 **(a)** There is established in the Executive branch of the Government a Federal Retirement Thrift Investment Board.
 
@@ -6519,7 +6519,7 @@ Subchapter VII effective June 6, 1986, see section 702(b)(1) of Pub. L. 99–335
 
 **(j)** The Board may submit to the President, and, at the same time, shall submit to each House of the Congress, any legislative recommendations of the Board relating to any of its functions under this title or any other provision of law.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 578; amended Pub. L. 99–509, title VI, § 6001(e), Oct. 21, 1986, 100 Stat. 1931; Pub. L. 113–255, § 2(c), Dec. 18, 2014, 128 Stat. 2920.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 578; amended Pub. L. 99–509, title VI, § 6001(e), Oct. 21, 1986, 100 Stat. 1931; Pub. L. 113–255, § 2(c), Dec. 18, 2014, 128 Stat. 2920.)
 
 **Editorial Notes**
 
@@ -6541,7 +6541,7 @@ Amendment by Pub. L. 99–509 effective Jan. 1, 1987, see section 6001(f) of Pub
 
 **Initial Appointments to Federal Retirement Thrift Investment Board**
 
-Pub. L. 99–335, title III, § 311, June 6, 1986, 100 Stat. 608, provided that:
+Pub. L. 99–335, title III, § 311, June 6, 1986, 100 Stat. 608, provided that:
 
 > **“(a) Initial Appointment of Members.—** Section 8472(c) of title 5, United States Code (as added by section 101(a) of this Act) shall not apply to the members of the Federal Retirement Thrift Investment Board first appointed to such Board.
 
@@ -6549,9 +6549,9 @@ Pub. L. 99–335, title III, § 311, June 6, 1986, 100 Stat. 608, provided tha
 
 **Authorization of Appropriations for Certain Expenses of Federal Retirement Thrift Investment Management System**
 
-Pub. L. 99–335, title VII, § 701, June 6, 1986, 100 Stat. 631, as amended by Pub. L. 99–500, § 101(m) [title IV, § 401], Oct. 18, 1986, 100 Stat. 1783–308, 1783–322, and Pub. L. 99–591, § 101(m) [title IV, § 401], Oct. 30, 1986, 100 Stat. 3341–308, 3341–322, provided for authorization of appropriations for expenses incurred in the administration of the Federal Retirement Thrift Investment Management System under this subchapter during fiscal years 1986 and 1987.
+Pub. L. 99–335, title VII, § 701, June 6, 1986, 100 Stat. 631, as amended by Pub. L. 99–500, § 101(m) [title IV, § 401], Oct. 18, 1986, 100 Stat. 1783–308, 1783–322, and Pub. L. 99–591, § 101(m) [title IV, § 401], Oct. 30, 1986, 100 Stat. 3341–308, 3341–322, provided for authorization of appropriations for expenses incurred in the administration of the Federal Retirement Thrift Investment Management System under this subchapter during fiscal years 1986 and 1987.
 
-### § 8473. Employee Thrift Advisory Council
+### § 8473. Employee Thrift Advisory Council
 
 **(a)** The Board shall establish an Employee Thrift Advisory Council. The Council shall be composed of 15 members appointed by the Chairman of the Board in accordance with subsection (b).
 
@@ -6605,7 +6605,7 @@ Pub. L. 99–335, title VII, § 701, June 6, 1986, 100 Stat. 631, as amended b
 
 **(f)** Section 1013(a) of this title shall not apply to the Council.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 579; amended Pub. L. 103–89, § 3(b)(1)(N), Sept. 30, 1993, 107 Stat. 982; Pub. L. 106–65, div. A, title VI, § 661(a)(6), Oct. 5, 1999, 113 Stat. 672; Pub. L. 117–286, § 4(a)(10), Dec. 27, 2022, 136 Stat. 4306.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 579; amended Pub. L. 103–89, § 3(b)(1)(N), Sept. 30, 1993, 107 Stat. 982; Pub. L. 106–65, div. A, title VI, § 661(a)(6), Oct. 5, 1999, 113 Stat. 672; Pub. L. 117–286, § 4(a)(10), Dec. 27, 2022, 136 Stat. 4306.)
 
 **Editorial Notes**
 
@@ -6613,11 +6613,11 @@ Pub. L. 99–335, title VII, § 701, June 6, 1986, 100 Stat. 631, as amended b
 
 2022—Subsec. (f). Pub. L. 117–286 substituted “Section 1013(a) of this title” for “Section 14(a)(2) of the Federal Advisory Committee Act”.
 
-1999—Subsec. (a). Pub. L. 106–65, § 661(a)(6)(A), substituted “15 members” for “14 members”.
+1999—Subsec. (a). Pub. L. 106–65, § 661(a)(6)(A), substituted “15 members” for “14 members”.
 
-Subsec. (b). Pub. L. 106–65, § 661(a)(6)(B)(i), substituted “15 members” for “14 members” in introductory provisions.
+Subsec. (b). Pub. L. 106–65, § 661(a)(6)(B)(i), substituted “15 members” for “14 members” in introductory provisions.
 
-Subsec. (b)(10). Pub. L. 106–65, § 661(a)(6)(B)(ii)–(iv), added par. (10).
+Subsec. (b)(10). Pub. L. 106–65, § 661(a)(6)(B)(ii)–(iv), added par. (10).
 
 1993—Subsec. (b)(8). Pub. L. 103–89 substituted “supervisors and management officials (as defined by section 7103(a))” for “individuals subject to the Performance Management and Recognition System under chapter 54 of this title”.
 
@@ -6631,7 +6631,7 @@ Amendment by Pub. L. 106–65 effective 180 days after Oct. 30, 2000, unless pos
 
 Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L. 103–89, set out as a note under section 3372 of this title.
 
-### § 8474. Executive Director
+### § 8474. Executive Director
 
 **(a)**
 
@@ -6673,7 +6673,7 @@ Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L
 
 **(9)** take such other actions as are appropriate to carry out the functions of the Executive Director.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 580; amended Pub. L. 109–435, title VI, § 604(b), Dec. 20, 2006, 120 Stat. 3241.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 580; amended Pub. L. 109–435, title VI, § 604(b), Dec. 20, 2006, 120 Stat. 3241.)
 
 **Editorial Notes**
 
@@ -6681,7 +6681,7 @@ Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L
 
 2006—Subsec. (c)(4). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
-### § 8475. Investment policies
+### § 8475. Investment policies
 
 The Board shall develop investment policies under section 8472(f)(1) of this title which provide for—
 
@@ -6689,9 +6689,9 @@ The Board shall develop investment policies under section 8472(f)(1) of this tit
 
 **(2)** low administrative costs.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 581.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 581.)
 
-### § 8476. Administrative provisions
+### § 8476. Administrative provisions
 
 **(a)** The Board shall meet—
 
@@ -6717,7 +6717,7 @@ The Board shall develop investment policies under section 8472(f)(1) of this tit
 
 **(e)** The accrued annual leave of any employee who is a member of the Board or the Council shall not be charged for any time used in performing services for the Board or the Council.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 581; amended Pub. L. 101–509, title V, § 529 [title I, § 101(b)(9)(K)], Nov. 5, 1990, 104 Stat. 1427, 1442.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 581; amended Pub. L. 101–509, title V, § 529 [title I, § 101(b)(9)(K)], Nov. 5, 1990, 104 Stat. 1427, 1442.)
 
 **Editorial Notes**
 
@@ -6733,9 +6733,9 @@ Level IV of the Executive Schedule, referred to in subsec. (d)(1), is set out in
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
-### § 8477. Fiduciary responsibilities; liability and penalties
+### § 8477. Fiduciary responsibilities; liability and penalties
 
 **(a)** For the purposes of this section—
 
@@ -6969,7 +6969,7 @@ is owned directly or indirectly, or held by a person described in subparagraph (
 
 **(2)** An audit under this subsection may be conducted by the Secretary of Labor, by contract with a qualified non-governmental organization, or in cooperation with the Comptroller General of the United States, as the Secretary considers appropriate.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 582; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–556, title I, §§ 112, 114(b), Oct. 27, 1986, 100 Stat. 3133; Pub. L. 100–238, title I, § 133(a), (c), Jan. 8, 1988, 101 Stat. 1760, 1762; Pub. L. 100–366, § 3(a), July 13, 1988, 102 Stat. 826; Pub. L. 101–335, § 8, July 17, 1990, 104 Stat. 325; Pub. L. 111–31, div. B, title I, § 106(b), June 22, 2009, 123 Stat. 1855; Pub. L. 113–255, § 3, Dec. 18, 2014, 128 Stat. 2921.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 582; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–556, title I, §§ 112, 114(b), Oct. 27, 1986, 100 Stat. 3133; Pub. L. 100–238, title I, § 133(a), (c), Jan. 8, 1988, 101 Stat. 1760, 1762; Pub. L. 100–366, § 3(a), July 13, 1988, 102 Stat. 826; Pub. L. 101–335, § 8, July 17, 1990, 104 Stat. 325; Pub. L. 111–31, div. B, title I, § 106(b), June 22, 2009, 123 Stat. 1855; Pub. L. 113–255, § 3, Dec. 18, 2014, 128 Stat. 2921.)
 
 **Editorial Notes**
 
@@ -6985,21 +6985,21 @@ Section 114 of the Federal Employees’ Retirement System Technical Corrections 
 
 **Amendments**
 
-2014—Subsec. (e)(1)(C)(ii)(II). Pub. L. 113–255, § 3(1), inserted “or beneficiary” after “participant” and “or option” after “fund”.
+2014—Subsec. (e)(1)(C)(ii)(II). Pub. L. 113–255, § 3(1), inserted “or beneficiary” after “participant” and “or option” after “fund”.
 
-Subsec. (e)(1)(C)(ii)(III). Pub. L. 113–255, § 3(2), inserted “or beneficiary” after “participant” and “or beneficiaries’ ” after “participants’ ”.
+Subsec. (e)(1)(C)(ii)(III). Pub. L. 113–255, § 3(2), inserted “or beneficiary” after “participant” and “or beneficiaries’ ” after “participants’ ”.
 
 2009—Subsec. (e)(1)(C). Pub. L. 111–31 designated existing provisions as cl. (i) and added cl. (ii).
 
 1990—Pub. L. 101–335 repealed section 133(c) of Pub. L. 100–238. See Effective Date of 1988 Amendment note below.
 
-1988—Subsec. (e)(1)(A). Pub. L. 100–238, § 133(a)(1), inserted “, except as provided in paragraphs (3) and (4) of this subsection”.
+1988—Subsec. (e)(1)(A). Pub. L. 100–238, § 133(a)(1), inserted “, except as provided in paragraphs (3) and (4) of this subsection”.
 
-Subsec. (e)(1)(B). Pub. L. 100–238, § 133(a)(2), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+Subsec. (e)(1)(B). Pub. L. 100–238, § 133(a)(2), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-Subsec. (e)(1)(D). Pub. L. 100–238, § 133(a)(3), inserted “only” in introductory provisions.
+Subsec. (e)(1)(D). Pub. L. 100–238, § 133(a)(3), inserted “only” in introductory provisions.
 
-Subsec. (e)(2), (3). Pub. L. 100–238, § 133(a)(5), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
+Subsec. (e)(2), (3). Pub. L. 100–238, § 133(a)(5), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
 “(2) A civil action may be brought in the district courts of the United States—
 
@@ -7025,31 +7025,31 @@ Subsec. (e)(2), (3). Pub. L. 100–238, § 133(a)(5), added pars. (2) and (3) 
 
 “(B) 3 years after the earliest date on which the plaintiff had actual knowledge of the breach or violation, except that, in the case of fraud or concealment, such action may be commenced not later than 6 years after the date of discovery of such breach or violation.”
 
-Subsec. (e)(3)(C)(ii). Pub. L. 100–366, § 3(a)(1), substituted “28, provided that” for “28, if” and “shall be exclusive of” for “is exclusive of”.
+Subsec. (e)(3)(C)(ii). Pub. L. 100–366, § 3(a)(1), substituted “28, provided that” for “28, if” and “shall be exclusive of” for “is exclusive of”.
 
-Subsec. (e)(4) to (8). Pub. L. 100–238, § 133(a)(4), (5), added pars. (4) to (6) and redesignated former pars. (4) and (5) as (7) and (8), respectively.
+Subsec. (e)(4) to (8). Pub. L. 100–238, § 133(a)(4), (5), added pars. (4) to (6) and redesignated former pars. (4) and (5) as (7) and (8), respectively.
 
-Subsec. (e)(5). Pub. L. 100–366, § 3(a)(2), substituted “paragraph (3)” for “paragraphs (3) and (4)”.
+Subsec. (e)(5). Pub. L. 100–366, § 3(a)(2), substituted “paragraph (3)” for “paragraphs (3) and (4)”.
 
-1986—Subsec. (c)(3)(E). Pub. L. 99–556, § 112, added subpar. (E).
+1986—Subsec. (c)(3)(E). Pub. L. 99–556, § 112, added subpar. (E).
 
 Subsec. (e)(1)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-Subsec. (e)(1)(E)(i). Pub. L. 99–556, § 114(b), substituted “Secretary of Labor (or the Board under section 114 of the Federal Employees’ Retirement System Technical Corrections Act of 1986)” for “Board”.
+Subsec. (e)(1)(E)(i). Pub. L. 99–556, § 114(b), substituted “Secretary of Labor (or the Board under section 114 of the Federal Employees’ Retirement System Technical Corrections Act of 1986)” for “Board”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1988 Amendments**
 
-Pub. L. 100–366, § 3(b), July 13, 1988, 102 Stat. 826, provided that: “Section 8477(e) of title 5, United States Code, as amended by subsection (a), shall apply to any civil action or proceeding arising from any act or omission occurring on or after October 1, 1986.”
+Pub. L. 100–366, § 3(b), July 13, 1988, 102 Stat. 826, provided that: “Section 8477(e) of title 5, United States Code, as amended by subsection (a), shall apply to any civil action or proceeding arising from any act or omission occurring on or after October 1, 1986.”
 
-Pub. L. 100–238, title I, § 133(b), Jan. 8, 1988, 101 Stat. 1762, provided that: “The provisions of section 8477(e)(1), (2), (3), (4), (5), and (6) of title 5, United States Code (as amended by subsection (a) of this section), shall apply to any civil action or proceeding arising from any act or omission occurring on or after October 1, 1986.”
+Pub. L. 100–238, title I, § 133(b), Jan. 8, 1988, 101 Stat. 1762, provided that: “The provisions of section 8477(e)(1), (2), (3), (4), (5), and (6) of title 5, United States Code (as amended by subsection (a) of this section), shall apply to any civil action or proceeding arising from any act or omission occurring on or after October 1, 1986.”
 
-Pub. L. 100–238, title I, § 133(c), Jan. 8, 1988, 101 Stat. 1762, which provided that the provisions of subsection (a) (and the amendments to section 8477(e) of title 5 contained therein) and subsection (b) of this section were to be repealed effective on Dec. 31, 1990, and that on and after Dec. 31, 1990, the provisions of section 8477(e) of title 5 were to be in effect as such provisions were in effect on Jan. 7, 1988, was repealed by Pub. L. 101–335, § 8, July 17, 1990, 104 Stat. 325.
+Pub. L. 100–238, title I, § 133(c), Jan. 8, 1988, 101 Stat. 1762, which provided that the provisions of subsection (a) (and the amendments to section 8477(e) of title 5 contained therein) and subsection (b) of this section were to be repealed effective on Dec. 31, 1990, and that on and after Dec. 31, 1990, the provisions of section 8477(e) of title 5 were to be in effect as such provisions were in effect on Jan. 7, 1988, was repealed by Pub. L. 101–335, § 8, July 17, 1990, 104 Stat. 325.
 
 **Interim Exemption Procedures**
 
-Pub. L. 99–556, title I, § 111, Oct. 27, 1986, 100 Stat. 3133, provided that:
+Pub. L. 99–556, title I, § 111, Oct. 27, 1986, 100 Stat. 3133, provided that:
 
 > **“(a) In General.—** Subject to subsection (b), until such time as final regulations under subparagraph (A) of section 8477(c)(3) of title 5, United States Code, become effective, the Secretary of Labor may, in accordance with procedures under section 408(a) of the Employee Retirement Income Security Act of 1974 [29 U.S.C. 1108(a)], grant any exemption allowable under such section 8477(c)(3).
 
@@ -7057,13 +7057,13 @@ Pub. L. 99–556, title I, § 111, Oct. 27, 1986, 100 Stat. 3133, provided tha
 
 **Allocation of Fiduciary Responsibilities**
 
-Pub. L. 99–556, title I, § 114(a), Oct. 27, 1986, 100 Stat. 3133, provided that:
+Pub. L. 99–556, title I, § 114(a), Oct. 27, 1986, 100 Stat. 3133, provided that:
 
 > **“(1)** Subject to paragraph (2), until such time as final regulations under subparagraph (E) of section 8477(e)(1) of title 5, United States Code, become effective, a fiduciary (as defined by section 8477(a)(3) of title 5, United States Code) may, in accordance with procedures established by the Federal Retirement Thrift Investment Board, make any allocation of fiduciary responsibilities.
 
 > **“(2)** The authority to make any allocation under section 8477(e)(1)(E) using the procedures referred to in paragraph (1), and any allocation so made using such procedures, shall expire not later than December 31, 1988.”
 
-### § 8478. Bonding
+### § 8478. Bonding
 
 **(a)**
 
@@ -7115,7 +7115,7 @@ such exception shall apply to such bank or financial institution only if the ban
 
 **(f)** The Secretary of Labor shall prescribe such regulations as may be necessary to carry out the provisions of this section, including exempting a person or class of persons from the requirements of this section.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 586; amended Pub. L. 99–556, title I, §§ 108, 115, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 102–378, § 2(72), Oct. 2, 1992, 106 Stat. 1355.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 586; amended Pub. L. 99–556, title I, §§ 108, 115, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 102–378, § 2(72), Oct. 2, 1992, 106 Stat. 1355.)
 
 **Editorial Notes**
 
@@ -7123,25 +7123,25 @@ such exception shall apply to such bank or financial institution only if the ban
 
 1992—Subsec. (a)(2)(B)(iii). Pub. L. 102–378 struck out “Corporation or the Federal Savings and Loan Insurance” before “Corporation”.
 
-1986—Subsec. (a)(1). Pub. L. 99–556, § 108, struck out “(other than a member of the Employee Thrift Advisory Council with respect to his duties as a member)” after “each fiduciary”.
+1986—Subsec. (a)(1). Pub. L. 99–556, § 108, struck out “(other than a member of the Employee Thrift Advisory Council with respect to his duties as a member)” after “each fiduciary”.
 
-Subsec. (c)(2). Pub. L. 99–556, § 115, substituted “sections 9304 through 9308 of title 31” for “sections 6 through 13 of title 6”.
+Subsec. (c)(2). Pub. L. 99–556, § 115, substituted “sections 9304 through 9308 of title 31” for “sections 6 through 13 of title 6”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Interim Bonding Regulations**
 
-Pub. L. 99–556, title I, § 113, Oct. 27, 1986, 100 Stat. 3133, provided that:
+Pub. L. 99–556, title I, § 113, Oct. 27, 1986, 100 Stat. 3133, provided that:
 
 > **“(a) In General.—** Subject to subsection (b), until such time as the Secretary of Labor promulgates final regulations under section 8478 of title 5, United States Code, the Secretary of Labor may, with respect to the Thrift Savings Fund, apply the temporary regulations under section 412 of the Employee Retirement Income Security Act of 1974 [29 U.S.C. 1112] that are set forth in section 2550.412–1, and subchapter I of chapter XXV, of title 29 of the Code of Federal Regulations, as in effect on September 23, 1986.
 
 > **“(b) Termination of Interim Authority.—** The authority to apply the temporary regulations referred to in subsection (a) with respect to the Thrift Savings Fund shall expire not later than December 31, 1989.”
 
-### § 8478a. Investigative authority
+### § 8478a. Investigative authority
 
 Any authority available to the Secretary of Labor under section 504 of the Employee Retirement Income Security Act of 1974 is hereby made available to the Secretary of Labor, and any officer designated by the Secretary of Labor, to determine whether any person has violated, or is about to violate, any provision of section 8477 or 8478.
 
-(Added Pub. L. 99–556, title I, § 110(a), Oct. 27, 1986, 100 Stat. 3132.)
+(Added Pub. L. 99–556, title I, § 110(a), Oct. 27, 1986, 100 Stat. 3132.)
 
 **Editorial Notes**
 
@@ -7149,7 +7149,7 @@ Any authority available to the Secretary of Labor under section 504 of the Emplo
 
 Section 504 of the Employee Retirement Income Security Act of 1974, referred to in text, is classified to section 1134 of Title 29, Labor.
 
-### § 8479. Exculpatory provisions; insurance
+### § 8479. Exculpatory provisions; insurance
 
 **(a)** Any provision in an agreement or instrument which purports to relieve a fiduciary from responsibility or liability for any responsibility, obligation, or duty under this subchapter shall be void.
 
@@ -7159,9 +7159,9 @@ Section 504 of the Employee Retirement Income Security Act of 1974, referred to 
 
 **(2)** The sums credited to the Thrift Savings Fund under paragraph (1) shall be available and may be used at the discretion of the Executive Director to purchase insurance to cover potential liability of persons who serve in a fiduciary capacity with respect to the Thrift Savings Fund, without regard to whether a policy of insurance permits recourse by the insurer against the fiduciary in the case of a breach of a fiduciary obligation.
 
-(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 588.)
+(Added Pub. L. 99–335, title I, § 101(a), June 6, 1986, 100 Stat. 588.)
 
-### § 8480. Subpoena authority
+### § 8480. Subpoena authority
 
 **(a)** In order to carry out the responsibilities specified in this subchapter and subchapter III of this chapter, the Executive Director may issue subpoenas commanding each person to whom the subpoena is directed to produce designated books, documents, records, electronically stored information, or tangible materials in the possession or control of that individual.
 
@@ -7171,4 +7171,4 @@ Section 504 of the Employee Retirement Income Security Act of 1974, referred to 
 
 **(d)** The Executive Director shall prescribe regulations to carry out subsection (a).
 
-(Added Pub. L. 111–31, div. B, title I, § 107(a), June 22, 2009, 123 Stat. 1856.)
+(Added Pub. L. 111–31, div. B, title I, § 107(a), June 22, 2009, 123 Stat. 1856.)

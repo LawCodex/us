@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 118–272, div. B, title II, §§ 2249(b)(2), 2250(b)(2), Jan. 4, 2025, 138 Stat. 3209, 3210, which directed amendment of the analysis for subchapter II of this chapter by adding items 15735 and 15736 at the end, was executed by adding items 15735 and 15736 to the analysis for this chapter to reflect the probable intent of Congress.
+2025—Pub. L. 118–272, div. B, title II, §§ 2249(b)(2), 2250(b)(2), Jan. 4, 2025, 138 Stat. 3209, 3210, which directed amendment of the analysis for subchapter II of this chapter by adding items 15735 and 15736 at the end, was executed by adding items 15735 and 15736 to the analysis for this chapter to reflect the probable intent of Congress.
 
-2022—Pub. L. 117–328, div. O, title IV, § 401(b)(2), Dec. 29, 2022, 136 Stat. 5228, which directed amendment of the analysis for subchapter II of this chapter by adding item 15734 at the end, was executed by adding item 15734 to the analysis for this chapter to reflect the probable intent of Congress.
+2022—Pub. L. 117–328, div. O, title IV, § 401(b)(2), Dec. 29, 2022, 136 Stat. 5228, which directed amendment of the analysis for subchapter II of this chapter by adding item 15734 at the end, was executed by adding item 15734 to the analysis for this chapter to reflect the probable intent of Congress.
 
-2018—Pub. L. 115–334, title VI, § 6304(g), Dec. 20, 2018, 132 Stat. 4752, renumbered chapter 4 of subtitle V of this title as chapter 157 of this title.
+2018—Pub. L. 115–334, title VI, § 6304(g), Dec. 20, 2018, 132 Stat. 4752, renumbered chapter 4 of subtitle V of this title as chapter 157 of this title.
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 15701. Consent of States
+### § 15701. Consent of States
 
 This subtitle does not require a State to engage in or accept a program under this subtitle without its consent.
 
-(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1479, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2241.)
+(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1479, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2241.)
 
 **Editorial Notes**
 
@@ -45,7 +45,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under section 15101 of this title.
 
-### § 15702. Distressed counties and areas
+### § 15702. Distressed counties and areas
 
 **(a) Designations.—** Not later than 90 days after the date of the enactment of this section, and annually thereafter, each Commission shall make the following designations:
 
@@ -85,7 +85,7 @@ Section effective on the first day of the first fiscal year beginning after June
 
 **(B)** if no recent Federal data are available, by the most recent data available through the government of the State in which the isolated area of distress is located.
 
-(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1479, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2241; amended Pub. L. 118–272, div. B, title II, §§ 2249(c), 2250(c), Jan. 4, 2025, 138 Stat. 3209, 3210.)
+(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1479, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2241; amended Pub. L. 118–272, div. B, title II, §§ 2249(c), 2250(c), Jan. 4, 2025, 138 Stat. 3209, 3210.)
 
 **Editorial Notes**
 
@@ -99,11 +99,11 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Amendments**
 
-2025—Subsec. (c)(3). Pub. L. 118–272, § 2250(c), inserted dash after “to” in introductory provisions and subpar. (A) designation before “a county”, substituted “; or” for period at end, and added subpar. (B).
+2025—Subsec. (c)(3). Pub. L. 118–272, § 2250(c), inserted dash after “to” in introductory provisions and subpar. (A) designation before “a county”, substituted “; or” for period at end, and added subpar. (B).
 
-Pub. L. 118–272, § 2249(c)(2), added par. (3). Former par. (3) redesignated (4).
+Pub. L. 118–272, § 2249(c)(2), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (c)(4). Pub. L. 118–272, § 2249(c)(1), redesignated par. (3) as (4).
+Subsec. (c)(4). Pub. L. 118–272, § 2249(c)(1), redesignated par. (3) as (4).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -111,7 +111,7 @@ Subsec. (c)(4). Pub. L. 118–272, § 2249(c)(1), redesignated par. (3) as (4)
 
 Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under section 15101 of this title.
 
-### § 15703. Counties eligible for assistance in more than one region
+### § 15703. Counties eligible for assistance in more than one region
 
 **(a) Limitation.—** A political subdivision of a State may not receive assistance under this subtitle in a fiscal year from more than one Commission.
 
@@ -121,7 +121,7 @@ Section effective on the first day of the first fiscal year beginning after June
 
 **(d) Inclusion of Appalachian Regional Commission.—** In this section, the term “Commission” includes the Appalachian Regional Commission established under chapter 143.
 
-(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1480, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2242.)
+(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1480, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2242.)
 
 **Editorial Notes**
 
@@ -135,7 +135,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under section 15101 of this title.
 
-### § 15704. Inspector General; records
+### § 15704. Inspector General; records
 
 **(a) Appointment of Inspector General.—** There shall be an Inspector General for the Commissions appointed in accordance with section 403(a) of title 5. All of the Commissions shall be subject to a single Inspector General.
 
@@ -153,7 +153,7 @@ Section effective on the first day of the first fiscal year beginning after June
 
 **(d) Annual Audit.—** The Inspector General shall audit the activities, transactions, and records of each Commission on an annual basis.
 
-(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1480, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2242; amended Pub. L. 117–286, § 4(b)(70), Dec. 27, 2022, 136 Stat. 4350.)
+(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1480, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2242; amended Pub. L. 117–286, § 4(b)(70), Dec. 27, 2022, 136 Stat. 4350.)
 
 **Editorial Notes**
 
@@ -171,13 +171,13 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under section 15101 of this title.
 
-### § 15705. Biannual meetings of representatives of all Commissions
+### § 15705. Biannual meetings of representatives of all Commissions
 
 **(a) In General.—** Representatives of each Commission, the Appalachian Regional Commission, and the Denali Commission shall meet biannually to discuss issues confronting regions suffering from chronic and contiguous distress and successful strategies for promoting regional development.
 
 **(b) Chair of Meetings.—** The chair of each meeting shall rotate among the Commissions, with the Appalachian Regional Commission to host the first meeting.
 
-(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1480, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2242.)
+(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1480, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2242.)
 
 **Editorial Notes**
 
@@ -193,11 +193,11 @@ Section effective on the first day of the first fiscal year beginning after June
 
 ## SUBCHAPTER II—DESIGNATION OF REGIONS
 
-### § 15731. Southeast Crescent Regional Commission
+### § 15731. Southeast Crescent Regional Commission
 
 The region of the Southeast Crescent Regional Commission shall consist of all counties of the States of Virginia, North Carolina, South Carolina, Georgia, Alabama, Mississippi, and Florida not already served by the Appalachian Regional Commission or the Delta Regional Authority.
 
-(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1481, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2243.)
+(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1481, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2243.)
 
 **Editorial Notes**
 
@@ -211,7 +211,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under section 15101 of this title.
 
-### § 15732. Southwest Border Regional Commission
+### § 15732. Southwest Border Regional Commission
 
 The region of the Southwest Border Regional Commission shall consist of the following political subdivisions:
 
@@ -223,7 +223,7 @@ The region of the Southwest Border Regional Commission shall consist of the foll
 
 **(4) Texas.—** The counties of Atascosa, Bandera, Bee, Bexar, Brewster, Brooks, Cameron, Coke, Concho, Crane, Crockett, Culberson, Dimmit, Duval, Ector, Edwards, El Paso, Frio, Gillespie, Glasscock, Guadalupe, Hidalgo, Hudspeth, Irion, Jeff Davis, Jim Hogg, Jim Wells, Karnes, Kendall, Kenedy, Kerr, Kimble, Kinney, Kleberg, La Salle, Live Oak, Loving, Mason, Maverick, McMullen, Medina, Menard, Midland, Nueces, Pecos, Presidio, Reagan, Real, Reeves, San Patricio, Shleicher, Sutton, Starr, Sterling, Terrell, Tom Green, Upton, Uvalde, Val Verde, Ward, Webb, Willacy, Wilson, Winkler, Zapata, and Zavala in the State of Texas.
 
-(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1481, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2243; amended Pub. L. 118–272, div. B, title II, § 2246, Jan. 4, 2025, 138 Stat. 3204.)
+(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1481, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2243; amended Pub. L. 118–272, div. B, title II, § 2246, Jan. 4, 2025, 138 Stat. 3204.)
 
 **Editorial Notes**
 
@@ -233,9 +233,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Amendments**
 
-2025—Par. (3). Pub. L. 118–272, § 2246(1), inserted “Bernalillo,” before “Catron,”, “Cibola, Curry, De Baca,” after “Chaves,”, “Guadalupe,” after “Grant,”, “Lea,” after “Hidalgo,”, and “Roosevelt,” after “Otero,” and substituted “Socorro, Torrance, and Valencia” for “and Socorro”.
+2025—Par. (3). Pub. L. 118–272, § 2246(1), inserted “Bernalillo,” before “Catron,”, “Cibola, Curry, De Baca,” after “Chaves,”, “Guadalupe,” after “Grant,”, “Lea,” after “Hidalgo,”, and “Roosevelt,” after “Otero,” and substituted “Socorro, Torrance, and Valencia” for “and Socorro”.
 
-Par. (4). Pub. L. 118–272, § 2246(2), inserted “Guadalupe,” after “Glasscock,” and substituted “Tom Green, Upton,” for “Tom Green Upton,”.
+Par. (4). Pub. L. 118–272, § 2246(2), inserted “Guadalupe,” after “Glasscock,” and substituted “Tom Green, Upton,” for “Tom Green Upton,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -243,7 +243,7 @@ Par. (4). Pub. L. 118–272, § 2246(2), inserted “Guadalupe,” after “Gl
 
 Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under section 15101 of this title.
 
-### § 15733. Northern Border Regional Commission
+### § 15733. Northern Border Regional Commission
 
 The region of the Northern Border Regional Commission shall include the following counties:
 
@@ -255,7 +255,7 @@ The region of the Northern Border Regional Commission shall include the followin
 
 **(4) Vermont.—** The counties of Addison, Bennington, Caledonia, Chittenden, Essex, Franklin, Grand Isle, Lamoille, Orange, Orleans, Rutland, Washington, Windham, and Windsor in the State of Vermont.
 
-(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1481, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2243; amended Pub. L. 115–334, title VI, § 6304(d), Dec. 20, 2018, 132 Stat. 4752; Pub. L. 118–272, div. B, title II, § 2245, Jan. 4, 2025, 138 Stat. 3204.)
+(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1481, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2243; amended Pub. L. 115–334, title VI, § 6304(d), Dec. 20, 2018, 132 Stat. 4752; Pub. L. 118–272, div. B, title II, § 2245, Jan. 4, 2025, 138 Stat. 3204.)
 
 **Editorial Notes**
 
@@ -265,17 +265,17 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Amendments**
 
-2025—Par. (1). Pub. L. 118–272, § 2245(1), inserted “Lincoln,” after “Knox,”.
+2025—Par. (1). Pub. L. 118–272, § 2245(1), inserted “Lincoln,” after “Knox,”.
 
-Par. (2). Pub. L. 118–272, § 2245(2), inserted “Merrimack,” after “Grafton,”.
+Par. (2). Pub. L. 118–272, § 2245(2), inserted “Merrimack,” after “Grafton,”.
 
-Par. (3). Pub. L. 118–272, § 2245(3), inserted “Schoharie,” after “Schenectady,” and “Wyoming,” after “Wayne,”.
+Par. (3). Pub. L. 118–272, § 2245(3), inserted “Schoharie,” after “Schenectady,” and “Wyoming,” after “Wayne,”.
 
-2018—Par. (2). Pub. L. 115–334, § 6304(d)(1), inserted “Belknap,” before “Carroll,” and “Cheshire,” before “Coos,”.
+2018—Par. (2). Pub. L. 115–334, § 6304(d)(1), inserted “Belknap,” before “Carroll,” and “Cheshire,” before “Coos,”.
 
-Par. (3). Pub. L. 115–334, § 6304(d)(2), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The counties of Cayuga, Clinton, Essex, Franklin, Fulton, Hamilton, Herkimer, Jefferson, Lewis, Madison, Oneida, Oswego, Seneca, and St. Lawrence in the State of New York.”
+Par. (3). Pub. L. 115–334, § 6304(d)(2), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The counties of Cayuga, Clinton, Essex, Franklin, Fulton, Hamilton, Herkimer, Jefferson, Lewis, Madison, Oneida, Oswego, Seneca, and St. Lawrence in the State of New York.”
 
-Par. (4). Pub. L. 115–334, § 6304(d)(3), inserted “Addison, Bennington,” before “Caledonia,”, “Chittenden,” before “Essex,”, and “, Rutland, Washington, Windham, and Windsor” before “in the State” and substituted “Orange,” for “and”.
+Par. (4). Pub. L. 115–334, § 6304(d)(3), inserted “Addison, Bennington,” before “Caledonia,”, “Chittenden,” before “Essex,”, and “, Rutland, Washington, Windham, and Windsor” before “in the State” and substituted “Orange,” for “and”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -283,7 +283,7 @@ Par. (4). Pub. L. 115–334, § 6304(d)(3), inserted “Addison, Bennington,�
 
 Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under section 15101 of this title.
 
-### § 15734. Great Lakes Authority
+### § 15734. Great Lakes Authority
 
 The region of the Great Lakes Authority shall consist of the counties which contain, in part or in whole, the areas in the watershed of the Great Lakes and the Great Lakes System (as such terms are defined in section 118(a)(3) of the Federal Water Pollution Control Act (33 U.S.C. 1268(a)(3))), in each of the following States:
 
@@ -303,7 +303,7 @@ The region of the Great Lakes Authority shall consist of the counties which cont
 
 **(8)** Wisconsin.
 
-(Added Pub. L. 117–328, div. O, title IV, § 401(b)(1), Dec. 29, 2022, 136 Stat. 5228; amended Pub. L. 118–272, div. B, title II, § 2247, Jan. 4, 2025, 138 Stat. 3204.)
+(Added Pub. L. 117–328, div. O, title IV, § 401(b)(1), Dec. 29, 2022, 136 Stat. 5228; amended Pub. L. 118–272, div. B, title II, § 2247, Jan. 4, 2025, 138 Stat. 3204.)
 
 **Editorial Notes**
 
@@ -311,7 +311,7 @@ The region of the Great Lakes Authority shall consist of the counties which cont
 
 2025—Pub. L. 118–272 inserted “the counties which contain, in part or in whole, the” after “consist of” in introductory provisions.
 
-### § 15735. Mid-Atlantic Regional Commission.1 [footnote: 1 So in original. The period probably should not appear.]
+### § 15735. Mid-Atlantic Regional Commission.1 [footnote: 1 So in original. The period probably should not appear.]
 
 The region of the Mid-Atlantic Regional Commission shall include the following counties:
 
@@ -321,9 +321,9 @@ The region of the Mid-Atlantic Regional Commission shall include the following c
 
 **(3) Pennsylvania.—** Each county in the Commonwealth of Pennsylvania that is not already served by the Appalachian Regional Commission.
 
-(Added Pub. L. 118–272, div. B, title II, § 2249(b)(1), Jan. 4, 2025, 138 Stat. 3209.)
+(Added Pub. L. 118–272, div. B, title II, § 2249(b)(1), Jan. 4, 2025, 138 Stat. 3209.)
 
-### § 15736. Southern New England Regional Commission
+### § 15736. Southern New England Regional Commission
 
 The region of the Southern New England Regional Commission shall include the following counties:
 
@@ -333,11 +333,11 @@ The region of the Southern New England Regional Commission shall include the fol
 
 **(3) Massachusetts.—** Each county in the Commonwealth of Massachusetts.
 
-(Added Pub. L. 118–272, div. B, title II, § 2250(b)(1), Jan. 4, 2025, 138 Stat. 3210.)
+(Added Pub. L. 118–272, div. B, title II, § 2250(b)(1), Jan. 4, 2025, 138 Stat. 3210.)
 
 ## SUBCHAPTER III—AUTHORIZATION OF APPROPRIATIONS
 
-### § 15751. Authorization of appropriations
+### § 15751. Authorization of appropriations
 
 **(a) In General.—** There is authorized to be appropriated to each Commission to carry out this subtitle $40,000,000 for each of fiscal years 2025 through 2029.
 
@@ -347,7 +347,7 @@ The region of the Southern New England Regional Commission shall include the fol
 
 **(2) Limited funding.—** In a case in which less than $10,000,000 is made available to a Commission for a fiscal year under this section, paragraph (1) shall not apply.
 
-(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1482, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2244; amended Pub. L. 113–79, title VI, § 6207, Feb. 7, 2014, 128 Stat. 861; Pub. L. 115–334, title VI, § 6304(e), Dec. 20, 2018, 132 Stat. 4752; Pub. L. 118–272, div. B, title II, § 2241, Jan. 4, 2025, 138 Stat. 3202.)
+(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1482, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2244; amended Pub. L. 113–79, title VI, § 6207, Feb. 7, 2014, 128 Stat. 861; Pub. L. 115–334, title VI, § 6304(e), Dec. 20, 2018, 132 Stat. 4752; Pub. L. 118–272, div. B, title II, § 2241, Jan. 4, 2025, 138 Stat. 3202.)
 
 **Editorial Notes**
 
@@ -361,9 +361,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 2018—Subsec. (a). Pub. L. 115–334 substituted “$33,000,000 for each of fiscal years 2019 through 2023” for “$30,000,000 for each of fiscal years 2008 through 2018”.
 
-2014—Subsec. (a). Pub. L. 113–79, § 6207(1), substituted “2018” for “2012”.
+2014—Subsec. (a). Pub. L. 113–79, § 6207(1), substituted “2018” for “2012”.
 
-Subsec. (b). Pub. L. 113–79, § 6207(2), designated existing provisions as par. (1) and inserted heading, substituted “Except as provided in paragraph (2), not more than” for “Not more than”, and added par. (2).
+Subsec. (b). Pub. L. 113–79, § 6207(2), designated existing provisions as par. (1) and inserted heading, substituted “Except as provided in paragraph (2), not more than” for “Not more than”, and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 

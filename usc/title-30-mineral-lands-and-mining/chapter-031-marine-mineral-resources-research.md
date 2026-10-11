@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 31—MARINE MINERAL RESOURCES RESEARCH
 
-## § 1901. Definitions
+## § 1901. Definitions
 
 In this chapter:
 
@@ -67,23 +67,23 @@ In this chapter:
 
 **(8)** The term “Secretary” means the Secretary of the Interior.
 
-(Pub. L. 91–631, title II, § 201, as added Pub. L. 104–325, § 2(3), Oct. 19, 1996, 110 Stat. 3994; amended Pub. L. 106–193, § 4, May 2, 2000, 114 Stat. 236.)
+(Pub. L. 91–631, title II, § 201, as added Pub. L. 104–325, § 2(3), Oct. 19, 1996, 110 Stat. 3994; amended Pub. L. 106–193, § 4, May 2, 2000, 114 Stat. 236.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2000—Par. (6)(G), (H). Pub. L. 106–193, § 4(1), added subpar. (G) and redesignated former subpar. (G) as (H).
+2000—Par. (6)(G), (H). Pub. L. 106–193, § 4(1), added subpar. (G) and redesignated former subpar. (G) as (H).
 
-Pars. (7), (8). Pub. L. 106–193, § 4(2), (3), added par. (7) and redesignated former par. (7) as (8).
+Pars. (7), (8). Pub. L. 106–193, § 4(2), (3), added par. (7) and redesignated former par. (7) as (8).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 104–325, § 1, Oct. 19, 1996, 110 Stat. 3994, provided that: “This Act [enacting this chapter] may be cited as the ‘Marine Mineral Resources Research Act of 1996’.”
+Pub. L. 104–325, § 1, Oct. 19, 1996, 110 Stat. 3994, provided that: “This Act [enacting this chapter] may be cited as the ‘Marine Mineral Resources Research Act of 1996’.”
 
-## § 1902. Research program
+## § 1902. Research program
 
 **(a) In general**
 
@@ -111,15 +111,15 @@ The Secretary shall establish and carry out a program of research on marine mine
 
 In carrying out these responsibilities, the Secretary shall ensure the participation of non-Federal users of technologies and data related to marine mineral resources in planning and priority setting.
 
-(Pub. L. 91–631, title II, § 202, as added Pub. L. 104–325, § 2(3), Oct. 19, 1996, 110 Stat. 3995.)
+(Pub. L. 91–631, title II, § 202, as added Pub. L. 104–325, § 2(3), Oct. 19, 1996, 110 Stat. 3995.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Methane Hydrate Research and Development**
 
-Pub. L. 106–193, May 2, 2000, 114 Stat. 234, known as the Methane Hydrate Research and Development Act of 2000, which was set out as a note under this section, was amended and transferred to chapter 32 (§ 2001 et seq.) of this title by Pub. L. 109–58, title IX, § 968, Aug. 8, 2005, 119 Stat. 894.
+Pub. L. 106–193, May 2, 2000, 114 Stat. 234, known as the Methane Hydrate Research and Development Act of 2000, which was set out as a note under this section, was amended and transferred to chapter 32 (§ 2001 et seq.) of this title by Pub. L. 109–58, title IX, § 968, Aug. 8, 2005, 119 Stat. 894.
 
-## § 1903. Grants, contracts, and cooperative agreements
+## § 1903. Grants, contracts, and cooperative agreements
 
 **(a) Assistance and coordination**
 
@@ -209,7 +209,7 @@ None of the funds made available under this section may be used for the construc
 
 **(2)** in the case of an annual progress report, includes a project plan for the subsequent year.
 
-(Pub. L. 91–631, title II, § 203, as added Pub. L. 104–325, § 2(3), Oct. 19, 1996, 110 Stat. 3995.)
+(Pub. L. 91–631, title II, § 203, as added Pub. L. 104–325, § 2(3), Oct. 19, 1996, 110 Stat. 3995.)
 
 **Editorial Notes**
 
@@ -217,7 +217,7 @@ None of the funds made available under this section may be used for the construc
 
 October 19, 1996, referred to in subsec. (a)(2)(C), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 104–135, which enacted this chapter, to reflect the probable intent of Congress.
 
-## § 1904. Marine mineral research centers
+## § 1904. Marine mineral research centers
 
 **(a) In general**
 
@@ -237,9 +237,9 @@ One center shall concentrate primarily on research in the continental shelf regi
 
 **(4)** has engaged in collaboration and cooperation with industry, governmental agencies, and other universities in the field of marine mineral resources;
 
-**(5)** has demonstrated significant engineering, development, and design experience in two or more of the following areas; 1
+**(5)** has demonstrated significant engineering, development, and design experience in two or more of the following areas; 1
 
-<sup>1</sup>  So in original. The semicolon probably should be a colon.
+<sup>1</sup> So in original. The semicolon probably should be a colon.
 
 **(A)** seabed exploration systems;
 
@@ -273,10 +273,10 @@ Not more than 5 percent of the amount made available to carry out this section d
 
 None of the funds made available under this section may be used for the construction of a new building or the acquisition, expansion, remodeling, or alteration of an existing building (including site grading and improvement and architect fees).
 
-(Pub. L. 91–631, title II, § 204, as added Pub. L. 104–325, § 2(3), Oct. 19, 1996, 110 Stat. 3998.)
+(Pub. L. 91–631, title II, § 204, as added Pub. L. 104–325, § 2(3), Oct. 19, 1996, 110 Stat. 3998.)
 
-## § 1905. Authorization of appropriations
+## § 1905. Authorization of appropriations
 
 There is authorized to be appropriated such sums as are necessary to carry out this chapter.
 
-(Pub. L. 91–631, title II, § 205, as added Pub. L. 104–325, § 2(3), Oct. 19, 1996, 110 Stat. 3999.)
+(Pub. L. 91–631, title II, § 205, as added Pub. L. 104–325, § 2(3), Oct. 19, 1996, 110 Stat. 3999.)

@@ -23,51 +23,51 @@ A prior chapter 861, consisting of sections 8811 to 8820, related to separation 
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title III, § 375, Dec. 18, 2025, 139 Stat. 839, added item 8617A. Amendment was made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title III, § 375, Dec. 18, 2025, 139 Stat. 839, added item 8617A. Amendment was made pursuant to operation of section 102 of this title.
 
-2023—Pub. L. 118–31, div. B, title XXVIII, § 2882(a), Dec. 22, 2023, 137 Stat. 780, added item 8618. Amendment was made pursuant to operation of section 102 of this title.
+2023—Pub. L. 118–31, div. B, title XXVIII, § 2882(a), Dec. 22, 2023, 137 Stat. 780, added item 8618. Amendment was made pursuant to operation of section 102 of this title.
 
-2021—Pub. L. 117–81, div. B, § 2003(b), title XXVIII, § 2821, Dec. 27, 2021, 135 Stat. 2162, 2195, added item 8617.
+2021—Pub. L. 117–81, div. B, § 2003(b), title XXVIII, § 2821, Dec. 27, 2021, 135 Stat. 2162, 2195, added item 8617.
 
-2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 631 of this title as this chapter and items 7204, 7205, 7207, 7211, 7212, 7214, 7216, 7219 to 7229, 7231, and 7233 to 7235 as 8604, 8605, 8607, 8611, 8612, 8614, 8616, 8619 to 8629, 8631, and 8633 to 8635, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 631 of this title as this chapter and items 7204, 7205, 7207, 7211, 7212, 7214, 7216, 7219 to 7229, 7231, and 7233 to 7235 as 8604, 8605, 8607, 8611, 8612, 8614, 8616, 8619 to 8629, 8631, and 8633 to 8635, respectively.
 
-2015—Pub. L. 114–92, div. A, title III, § 312(b), Nov. 25, 2015, 129 Stat. 789, added item 7235.
+2015—Pub. L. 114–92, div. A, title III, § 312(b), Nov. 25, 2015, 129 Stat. 789, added item 7235.
 
-2006—Pub. L. 109–163, div. A, title V, § 515(b)(4)(D), Jan. 6, 2006, 119 Stat. 3235, substituted “Navy Reserve” for ‘Naval Reserve” in items 7225 and 7226.
+2006—Pub. L. 109–163, div. A, title V, § 515(b)(4)(D), Jan. 6, 2006, 119 Stat. 3235, substituted “Navy Reserve” for ‘Naval Reserve” in items 7225 and 7226.
 
-2004—Pub. L. 108–375, div. A, title XII, § 1223(b), Oct. 28, 2004, 118 Stat. 2090, added item 7234.
+2004—Pub. L. 108–375, div. A, title XII, § 1223(b), Oct. 28, 2004, 118 Stat. 2090, added item 7234.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title IX, § 942(e)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–243, substituted “Naval Historical Center Fund: references to Fund” for “Naval Historical Center Fund” in item 7222.
+2000—Pub. L. 106–398, § 1 [[div. A], title IX, § 942(e)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–243, substituted “Naval Historical Center Fund: references to Fund” for “Naval Historical Center Fund” in item 7222.
 
-1999—Pub. L. 106–65, div. A, title X, § 1014(a)(2), Oct. 5, 1999, 113 Stat. 742, added item 7233.
+1999—Pub. L. 106–65, div. A, title X, § 1014(a)(2), Oct. 5, 1999, 113 Stat. 742, added item 7233.
 
-1996—Pub. L. 104–201, div. A, title X, § 1073(b)(2)(B), Sept. 23, 1996, 110 Stat. 2657, substituted “Naval Historical Center Fund” for “Office of Naval Records and History gift fund” in item 7222.
+1996—Pub. L. 104–201, div. A, title X, § 1073(b)(2)(B), Sept. 23, 1996, 110 Stat. 2657, substituted “Naval Historical Center Fund” for “Office of Naval Records and History gift fund” in item 7222.
 
-1994—Pub. L. 103–355, title III, § 3025(b), Oct. 13, 1994, 108 Stat. 3334, struck out item 7203 “Scientific investigation and research”.
+1994—Pub. L. 103–355, title III, § 3025(b), Oct. 13, 1994, 108 Stat. 3334, struck out item 7203 “Scientific investigation and research”.
 
-1993—Pub. L. 103–160, div. A, title VIII, § 828(a)(6), Nov. 30, 1993, 107 Stat. 1713, struck out items 7201 “Guided missiles: research and development, procurement, and construction”, 7210 “Purchase of patents, patent applications, and licenses”, 7213 “Relief of contractors and their employees from losses by enemy action”, and 7230 “Sale of degaussing equipment”.
+1993—Pub. L. 103–160, div. A, title VIII, § 828(a)(6), Nov. 30, 1993, 107 Stat. 1713, struck out items 7201 “Guided missiles: research and development, procurement, and construction”, 7210 “Purchase of patents, patent applications, and licenses”, 7213 “Relief of contractors and their employees from losses by enemy action”, and 7230 “Sale of degaussing equipment”.
 
-1990—Pub. L. 101–510, div. A, title XIII, § 1331(8), Nov. 5, 1990, 104 Stat. 1673, struck out item 7217 “Annual report to Congress: appropriations”.
+1990—Pub. L. 101–510, div. A, title XIII, § 1331(8), Nov. 5, 1990, 104 Stat. 1673, struck out item 7217 “Annual report to Congress: appropriations”.
 
-1988—Pub. L. 100–370, § 1(e)(3)(B), July 19, 1988, 102 Stat. 845, struck out item 7209 “Rewards for recovery of missing naval property”.
+1988—Pub. L. 100–370, § 1(e)(3)(B), July 19, 1988, 102 Stat. 845, struck out item 7209 “Rewards for recovery of missing naval property”.
 
-1984—Pub. L. 98–525, title XIV, § 1401(d)(3)(B), (j)(3)(B), Oct. 19, 1984, 98 Stat. 2616, 2620, struck out “; transportation of dependents” at end of item 7204 and struck out item 7208 “Latin American cooperation”.
+1984—Pub. L. 98–525, title XIV, § 1401(d)(3)(B), (j)(3)(B), Oct. 19, 1984, 98 Stat. 2616, 2620, struck out “; transportation of dependents” at end of item 7204 and struck out item 7208 “Latin American cooperation”.
 
-1982—Pub. L. 97–258, § 2(b)(11)(A), Sept. 13, 1982, 96 Stat. 1057, added item 7231.
+1982—Pub. L. 97–258, § 2(b)(11)(A), Sept. 13, 1982, 96 Stat. 1057, added item 7231.
 
-1975—Pub. L. 94–106, title VIII, § 804(b), Oct. 7, 1975, 89 Stat. 538, struck out item 7202 “Emergency and extraordinary expenses”.
+1975—Pub. L. 94–106, title VIII, § 804(b), Oct. 7, 1975, 89 Stat. 538, struck out item 7202 “Emergency and extraordinary expenses”.
 
-1968—Pub. L. 90–377, § 4, July 5, 1968, 82 Stat. 288, struck out item 7215 “Naval prisons, prison farms, and prisoners”.
+1968—Pub. L. 90–377, § 4, July 5, 1968, 82 Stat. 288, struck out item 7215 “Naval prisons, prison farms, and prisoners”.
 
-1966—Pub. L. 89–529, § 1(4), Aug. 11, 1966, 80 Stat. 339, struck out item 7218 “Recognition for accomplishments, special service, and good conduct”.
+1966—Pub. L. 89–529, § 1(4), Aug. 11, 1966, 80 Stat. 339, struck out item 7218 “Recognition for accomplishments, special service, and good conduct”.
 
-1959—Pub. L. 86–55, § 2, June 23, 1959, 73 Stat. 89, inserted “and aircraft” in item 7227.
+1959—Pub. L. 86–55, § 2, June 23, 1959, 73 Stat. 89, inserted “and aircraft” in item 7227.
 
-1958—Pub. L. 85–861, § 1(150), Sept. 2, 1958, 72 Stat. 1513, struck out item 7206 “Minor construction and extension of structures”.
+1958—Pub. L. 85–861, § 1(150), Sept. 2, 1958, 72 Stat. 1513, struck out item 7206 “Minor construction and extension of structures”.
 
-1957—Pub. L. 85–43, § 1(2), May 31, 1957, 71 Stat. 45, added item 7230.
+1957—Pub. L. 85–43, § 1(2), May 31, 1957, 71 Stat. 45, added item 7230.
 
-## § 8604. Schools near naval activities: financial aid
+## § 8604. Schools near naval activities: financial aid
 
 **(a)** The Secretary of the Navy may contribute, out of funds specifically appropriated for the purpose, to the support of schools in any locality where a naval activity is located if he finds that the schools available in the locality are inadequate for the welfare of the dependents of—
 
@@ -83,15 +83,15 @@ who are stationed at the activity.
 
 **(b)** The Secretary, to the extent he considers proper, may delegate the authority conferred by this section to any person in the Department of the Navy, with or without the authority to make successive redelegations.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 442, § 7204; Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, § 513(24), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 98–525, title XIV, § 1401(j)(3)(A), (B), Oct. 19, 1984, 98 Stat. 2620; Pub. L. 99–145, title XIII, § 1303(a)(23), Nov. 8, 1985, 99 Stat. 739; renumbered § 8604, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 442, § 7204; Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, § 513(24), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 98–525, title XIV, § 1401(j)(3)(A), (B), Oct. 19, 1984, 98 Stat. 2620; Pub. L. 99–145, title XIII, § 1303(a)(23), Nov. 8, 1985, 99 Stat. 739; renumbered § 8604, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7204 | 5 U.S.C. 421d. | Aug. 2, 1946, ch. 756, § 13, 60 Stat. 854. |
-|  | 5 U.S.C. 421g(b), (c). | Aug. 2, 1946, ch. 756, § 40(b), (c), 60 Stat. 858. |
-|  | 5 U.S.C. 412a. | Aug. 2, 1946, ch. 756, § 39, 60 Stat. 858. |
+| 7204 | 5 U.S.C. 421d. | Aug. 2, 1946, ch. 756, § 13, 60 Stat. 854. |
+|  | 5 U.S.C. 421g(b), (c). | Aug. 2, 1946, ch. 756, § 40(b), (c), 60 Stat. 858. |
+|  | 5 U.S.C. 412a. | Aug. 2, 1946, ch. 756, § 39, 60 Stat. 858. |
 
 In subsection (b) the words “except the authority to prescribe regulations” are omitted, since 5 U.S.C. 421d contains no authority for the Secretary of the Navy to prescribe regulations for the administration of that section.
 
@@ -103,9 +103,9 @@ In subsection (b) the words “except the authority to prescribe regulations” 
 
 1985—Subsec. (a). Pub. L. 99–145 ran in “contribute, out of” after “Secretary of the Navy may”, and realigned margins of cls. (1) to (4) and provision following cl. (4).
 
-1984—Pub. L. 98–525, § 1401(j)(3)(B), struck out “; transportation of dependents” in section catchline.
+1984—Pub. L. 98–525, § 1401(j)(3)(B), struck out “; transportation of dependents” in section catchline.
 
-Subsec. (a). Pub. L. 98–525, § 1401(j)(3)(A), substituted “The Secretary of the Navy may” for “The Secretary of the Navy may—”, struck out “(1)” before “contribute out of”, thereby eliminating paragraph designation, redesignated cls. (A) to (D) as (1) to (4), respectively, substituted “the activity.” for “the activity; and”, and struck out par. (2), which provided for transportation between the schools and the activity when the schools are not accessible by regular means of transportation.
+Subsec. (a). Pub. L. 98–525, § 1401(j)(3)(A), substituted “The Secretary of the Navy may” for “The Secretary of the Navy may—”, struck out “(1)” before “contribute out of”, thereby eliminating paragraph designation, redesignated cls. (A) to (D) as (1) to (4), respectively, substituted “the activity.” for “the activity; and”, and struck out par. (2), which provided for transportation between the schools and the activity when the schools are not accessible by regular means of transportation.
 
 1980—Subsec. (a)(1)(D). Pub. L. 96–513 substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
@@ -127,13 +127,13 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Repeals**
 
-The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
+The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
 
 **Transfer of Functions**
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 8605. Promotion of health and prevention of accidents
+## § 8605. Promotion of health and prevention of accidents
 
 **(a)** The Secretary of the Navy may make such expenditures as he considers appropriate to prevent accidents and to promote the safety and occupational health of—
 
@@ -149,15 +149,15 @@ The expenditures may include payments for clothing, equipment, and other materia
 
 **(b)** The Secretary, to the extent he considers proper, may delegate the authority conferred by this section to any person in the Department of the Navy, with or without the authority to make successive redelegations.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 443, § 7205; Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, § 513(24), Dec. 12, 1980, 94 Stat. 2932; renumbered § 8605, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 443, § 7205; Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, § 513(24), Dec. 12, 1980, 94 Stat. 2932; renumbered § 8605, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7205 | 5 U.S.C. 421e(b). | Aug. 2, 1946, ch. 756, § 24(b), 60 Stat. 856. |
-|  | 5 U.S.C. 421g(b), (c). | Aug. 2, 1946, ch. 756, § 40(b), (c), 60 Stat. 858. |
-|  | 5 U.S.C. 412a. | Aug. 2, 1946, ch. 756, § 39, 60 Stat. 858. |
+| 7205 | 5 U.S.C. 421e(b). | Aug. 2, 1946, ch. 756, § 24(b), 60 Stat. 856. |
+|  | 5 U.S.C. 421g(b), (c). | Aug. 2, 1946, ch. 756, § 40(b), (c), 60 Stat. 858. |
+|  | 5 U.S.C. 412a. | Aug. 2, 1946, ch. 756, § 39, 60 Stat. 858. |
 
 In subsection (a) the word “maintenance” is omitted as surplusage.
 
@@ -185,7 +185,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Repeals**
 
-The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
+The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
 
 **Transfer of Functions**
 
@@ -193,22 +193,22 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Management of Fatigue Among Crew of Naval Surface Ships and Related Improvements**
 
-Pub. L. 117–81, div. A, title III, § 379(a), Dec. 27, 2021, 135 Stat. 1670, provided that: “The Secretary of the Navy shall implement each recommendation for executive action set forth in the report of the Government Accountability Office titled ‘Navy Readiness: Additional Efforts Are Needed to Manage Fatigue, Reduce Crewing Shortfalls, and Implement Training’ (GAO–21–366).”
+Pub. L. 117–81, div. A, title III, § 379(a), Dec. 27, 2021, 135 Stat. 1670, provided that: “The Secretary of the Navy shall implement each recommendation for executive action set forth in the report of the Government Accountability Office titled ‘Navy Readiness: Additional Efforts Are Needed to Manage Fatigue, Reduce Crewing Shortfalls, and Implement Training’ (GAO–21–366).”
 
-## § 8607. Administration of liberated and occupied areas
+## § 8607. Administration of liberated and occupied areas
 
 **(a)** The Secretary of the Navy may, out of any appropriation made for the purpose, provide for the administration of liberated and occupied areas by the Department of the Navy.
 
 **(b)** The Secretary, to the extent he considers proper, may delegate the authority conferred by this section to any person in the Department of the Navy, with or without the authority to make successive redelegations.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 443, § 7207; renumbered § 8607, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 443, § 7207; renumbered § 8607, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7207 | 5 U.S.C. 421f (as applicable to administration of liberated and occupied areas). | Aug. 2, 1946, ch. 756, § 38 (as applicable to administration of liberated and occupied areas), 60 Stat. 858. |
-|  | 5 U.S.C. 412a. | Aug. 2, 1946, ch. 756, § 39, 60 Stat. 858. |
+| 7207 | 5 U.S.C. 421f (as applicable to administration of liberated and occupied areas). | Aug. 2, 1946, ch. 756, § 38 (as applicable to administration of liberated and occupied areas), 60 Stat. 858. |
+|  | 5 U.S.C. 412a. | Aug. 2, 1946, ch. 756, § 39, 60 Stat. 858. |
 
 In subsection (b) the words “except the authority to prescribe regulations” are omitted, since 5 U.S.C. 421f contains no authority for the Secretary of the Navy to prescribe regulations for the administration of that section.
 
@@ -224,7 +224,7 @@ In subsection (b) the words “except the authority to prescribe regulations” 
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8611. Attendance at meetings of technical, professional, or scientific organizations
+## § 8611. Attendance at meetings of technical, professional, or scientific organizations
 
 **(a)** The Secretary of the Navy may authorize—
 
@@ -240,15 +240,15 @@ to attend meetings of technical, professional, scientific, and similar organizat
 
 **(b)** The Secretary, to the extent he considers proper, may delegate the authority conferred by this section to any person in the Department of the Navy, with or without the authority to make successive redelegations.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 444, § 7211; Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, § 513(24), Dec. 12, 1980, 94 Stat. 2932; renumbered § 8611, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 444, § 7211; Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, § 513(24), Dec. 12, 1980, 94 Stat. 2932; renumbered § 8611, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7211 | 5 U.S.C. 421c. | Aug. 2, 1946, ch. 756, § 1, 60 Stat. 853. |
-|  | 5 U.S.C. 421g(b), (c). | Aug. 2, 1946, ch. 756, § 40(b), (c), 60 Stat. 858. |
-|  | 5 U.S.C. 412a. | Aug. 2, 1946, ch. 756, § 39, 60 Stat. 858. |
+| 7211 | 5 U.S.C. 421c. | Aug. 2, 1946, ch. 756, § 1, 60 Stat. 853. |
+|  | 5 U.S.C. 421g(b), (c). | Aug. 2, 1946, ch. 756, § 40(b), (c), 60 Stat. 858. |
+|  | 5 U.S.C. 412a. | Aug. 2, 1946, ch. 756, § 39, 60 Stat. 858. |
 
 In subsection (b) the words “except the authority to prescribe regulations” are omitted, since 5 U.S.C. 421c contains no authority for the Secretary of the Navy to prescribe regulations for the administration of that section.
 
@@ -256,7 +256,7 @@ In subsection (b) the words “except the authority to prescribe regulations” 
 
 **Prior Provisions**
 
-A prior section 8611, act Aug. 10, 1956, ch. 1041, 70A Stat. 531, provided that President could prescribe uniform of Air Force, prior to repeal by Pub. L. 90–235, § 8(2), Jan. 2, 1968, 81 Stat. 764.
+A prior section 8611, act Aug. 10, 1956, ch. 1041, 70A Stat. 531, provided that President could prescribe uniform of Air Force, prior to repeal by Pub. L. 90–235, § 8(2), Jan. 2, 1968, 81 Stat. 764.
 
 **Amendments**
 
@@ -278,25 +278,25 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Repeals**
 
-The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
+The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
 
 **Transfer of Functions**
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 8612. Employment of outside architects and engineers
+## § 8612. Employment of outside architects and engineers
 
 **(a)** Whenever the Secretary of the Navy believes that the existing facilities of the Department of the Navy are inadequate and he considers it advantageous to national defense, he may employ, by contract or otherwise, without advertising and without reference to sections 305, 3324, and 7204, chapter 51, and subchapters III, IV, and VI of chapter 53 of title 5, architectural or engineering corporations, or firms, or individual architects or engineers, to produce designs, plans, drawings, and specifications for the accomplishment of any naval public works or utilities project or for the construction of any vessel or aircraft, or part thereof.
 
 **(b)** The fee for any service under this section may not exceed 10 percent of the estimated cost, as determined by the Secretary, of the project to which the fee applies.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 444, § 7212; Pub. L. 89–718, § 28, Nov. 2, 1966, 80 Stat. 1119; Pub. L. 95–454, title VII, § 703(c)(3), title VIII, § 801(a)(3)(I), Oct. 13, 1978, 92 Stat. 1217, 1222; Pub. L. 96–513, title V, § 513(25), Dec. 12, 1980, 94 Stat. 2932; renumbered § 8612, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 118–31, div. B, title XXVIII, § 2881(b), Dec. 22, 2023, 137 Stat. 780.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 444, § 7212; Pub. L. 89–718, § 28, Nov. 2, 1966, 80 Stat. 1119; Pub. L. 95–454, title VII, § 703(c)(3), title VIII, § 801(a)(3)(I), Oct. 13, 1978, 92 Stat. 1217, 1222; Pub. L. 96–513, title V, § 513(25), Dec. 12, 1980, 94 Stat. 2932; renumbered § 8612, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 118–31, div. B, title XXVIII, § 2881(b), Dec. 22, 2023, 137 Stat. 780.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7212 | 34 U.S.C. 556. | Apr. 25, 1939, ch. 87, § 3, 53 Stat. 591. |
+| 7212 | 34 U.S.C. 556. | Apr. 25, 1939, ch. 87, § 3, 53 Stat. 591. |
 
 In subsection (a) the word “outside” is omitted as surplusage and the words “architects or engineers” are inserted for clarity. The words “without advertising” are substituted for the reference to R.S. 3609, for brevity and clarity.
 
@@ -304,7 +304,7 @@ In subsection (a) the word “outside” is omitted as surplusage and the words 
 
 **Prior Provisions**
 
-A prior section 8612, act Aug. 10, 1956, ch. 1041, 70A Stat. 531, provided for disposition of uniforms of enlisted members of Air Force who were discharged and for disposition of uniforms of and issuance of civilian clothing to enlisted members of Air Force who were discharged otherwise than honorably, prior to repeal by Pub. L. 90–235, § 8(2), Jan. 2, 1968, 81 Stat. 764.
+A prior section 8612, act Aug. 10, 1956, ch. 1041, 70A Stat. 531, provided for disposition of uniforms of enlisted members of Air Force who were discharged and for disposition of uniforms of and issuance of civilian clothing to enlisted members of Air Force who were discharged otherwise than honorably, prior to repeal by Pub. L. 90–235, § 8(2), Jan. 2, 1968, 81 Stat. 764.
 
 **Amendments**
 
@@ -314,9 +314,9 @@ A prior section 8612, act Aug. 10, 1956, ch. 1041, 70A Stat. 531, provided for d
 
 1980—Subsec. (a). Pub. L. 96–513 substituted “and 7204, chapter 51, and subchapters III, IV, and VI of chapter 53 of” for “5101–5115, 5331–5338, 5341, 5342, and 7204 of title 5 and subchapter VI of chapter 53 of such”.
 
-1978—Subsec. (a). Pub. L. 95–454, § 801(a)(3)(I), inserted reference to subchapter VI of chapter 53 of title 5.
+1978—Subsec. (a). Pub. L. 95–454, § 801(a)(3)(I), inserted reference to subchapter VI of chapter 53 of title 5.
 
-Pub. L. 95–454, § 703(c)(3), substituted “7204” for “7154”.
+Pub. L. 95–454, § 703(c)(3), substituted “7204” for “7154”.
 
 1966—Subsec. (a). Pub. L. 89–718 substituted “sections 305, 3324, 5101–5115, 5331–5338, 5341, 5342, and 7154 of title 5” for “sections 1071–1153 of title 5”.
 
@@ -336,7 +336,7 @@ Amendment by section 703(c)(3) of Pub. L. 95–454 effective 90 days after Oct. 
 
 Amendment by section 801(a)(3)(I) of Pub. L. 95–454 effective on first day of first applicable pay period beginning on or after 90th day after Oct. 13, 1978, see section 801(a)(4) of Pub. L. 95–454, set out as an Effective Date note under section 5361 of Title 5.
 
-## § 8614. Apprehension of deserters and prisoners; operation of shore patrols
+## § 8614. Apprehension of deserters and prisoners; operation of shore patrols
 
 **(a)** The Secretary of the Navy may make such expenditures out of available appropriations as he considers necessary to—
 
@@ -346,15 +346,15 @@ Amendment by section 801(a)(3)(I) of Pub. L. 95–454 effective on first day of 
 
 **(b)** The Secretary, to the extent he considers proper, may delegate the authority conferred by this section to any person in the Department of the Navy, with or without the authority to make successive redelegations.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 445, § 7214; renumbered § 8614, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 445, § 7214; renumbered § 8614, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7214 | 34 U.S.C. 606. | Aug. 2, 1946, ch. 756, § 22, 60 Stat. 856. |
-|  | 5 U.S.C. 421g(d). | Aug. 2, 1946, ch. 756, § 40(d), 60 Stat. 858. |
-|  | 5 U.S.C. 412a. | Aug. 2, 1946, ch. 756, § 39, 60 Stat. 858. |
+| 7214 | 34 U.S.C. 606. | Aug. 2, 1946, ch. 756, § 22, 60 Stat. 856. |
+|  | 5 U.S.C. 421g(d). | Aug. 2, 1946, ch. 756, § 40(d), 60 Stat. 858. |
+|  | 5 U.S.C. 412a. | Aug. 2, 1946, ch. 756, § 39, 60 Stat. 858. |
 
 In subsection (a) the word “naval” is omitted as surplusage.
 
@@ -372,11 +372,11 @@ In subsection (b) the words “except the authority to prescribe regulations” 
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8616. Collection, preservation, and display of captured flags
+## § 8616. Collection, preservation, and display of captured flags
 
 The Secretary of the Navy shall collect all flags, standards, and colors taken by the Navy or the Marine Corps from enemies of the United States. These flags, standards, and colors shall be delivered to the President. Under his direction they shall be preserved and displayed in any public place he considers proper.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 445, § 7216; renumbered § 8616, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 445, § 7216; renumbered § 8616, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
@@ -398,7 +398,7 @@ The words “from time to time cause to be”, “transmitted to him”, and “
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8617. National Museum of the United States Navy
+## § 8617. National Museum of the United States Navy
 
 **(a) Authority to Support Development and Operation of Museum.—**
 
@@ -456,7 +456,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(4)** The term “partner organization” means an eligible nonprofit organization with whom the Secretary of the Navy enters into a contract, cooperative agreement, or other agreement under subsection (a) or a lease under subsection (d).
 
-(Added Pub. L. 117–81, div. B, title XXVIII, § 2821, Dec. 27, 2021, 135 Stat. 2195.)
+(Added Pub. L. 117–81, div. B, title XXVIII, § 2821, Dec. 27, 2021, 135 Stat. 2195.)
 
 **Editorial Notes**
 
@@ -468,7 +468,7 @@ Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (
 
 **Lease or License of United States Navy Museum Facilities**
 
-Pub. L. 109–163, div. B, title XXVIII, § 2852, Jan. 6, 2006, 119 Stat. 3530, as amended by Pub. L. 117–81, div. B, title XXVIII, § 2822, Dec. 27, 2021, 135 Stat. 2197, provided that:
+Pub. L. 109–163, div. B, title XXVIII, § 2852, Jan. 6, 2006, 119 Stat. 3530, as amended by Pub. L. 117–81, div. B, title XXVIII, § 2822, Dec. 27, 2021, 135 Stat. 2197, provided that:
 
 > **“(a) Leases and Licenses Authorized.—** The Secretary of the Navy may lease or license any portion of the facilities of a United States Navy museum to a foundation established to support that museum for the purpose of permitting the foundation to carry out the following activities:
 
@@ -486,7 +486,7 @@ Pub. L. 109–163, div. B, title XXVIII, § 2852, Jan. 6, 2006, 119 Stat. 3530
 
 > **“(f) United States Navy Museum.—** In this section, the term ‘United States Navy museum’ means a museum under the jurisdiction of the Secretary of Defense and operated through the Naval History and Heritage Command.”
 
-## § 8617A. United States Navy Museum System
+## § 8617A. United States Navy Museum System
 
 **(a) In General.—** The Secretary of the Navy shall support a system of official Navy museums, which shall collectively be known as the “United States Navy Museum System”. Such system shall include the following museums:
 
@@ -538,9 +538,9 @@ Pub. L. 109–163, div. B, title XXVIII, § 2852, Jan. 6, 2006, 119 Stat. 3530
 
 **(d) Funding and Support.—** Consistent with applicable law, the Secretary of the Navy may enter into partnerships, including with nonprofit organizations, to enhance the financial sustainability and public engagement of the museums in the United States Museum System.
 
-(Added Pub. L. 119–60, div. A, title III, § 375, Dec. 18, 2025, 139 Stat. 839.)
+(Added Pub. L. 119–60, div. A, title III, § 375, Dec. 18, 2025, 139 Stat. 839.)
 
-## § 8618. Marine Corps Heritage Center and National Museum of the Marine Corps at Marine Corps Base, Quantico, Virginia
+## § 8618. Marine Corps Heritage Center and National Museum of the Marine Corps at Marine Corps Base, Quantico, Virginia
 
 **(a) Joint Venture for Development and Continued Maintenance and Operation.—** The Secretary of the Navy may enter into a joint venture with the Marine Corps Heritage Foundation (in this section referred to as the “Foundation”), a not-for-profit entity, for the design, construction, and maintenance and operation of a multipurpose facility to be used for historical displays for public viewing, curation, and storage of artifacts, research facilities, classrooms, offices, and associated activities consistent with the mission of the Marine Corps University. The facility shall be known as the Marine Corps Heritage Center and the National Museum of the Marine Corps.
 
@@ -578,13 +578,13 @@ Pub. L. 109–163, div. B, title XXVIII, § 2852, Jan. 6, 2006, 119 Stat. 3530
 
 **(f) Additional Terms and Conditions.—** The Secretary may require such additional terms and conditions in connection with the joint venture authorized by subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
 
-(Added Pub. L. 118–31, div. B, title XXVIII, § 2882(a), Dec. 22, 2023, 137 Stat. 780.)
+(Added Pub. L. 118–31, div. B, title XXVIII, § 2882(a), Dec. 22, 2023, 137 Stat. 780.)
 
-## § 8619. Leases of waterfront property from States or municipalities
+## § 8619. Leases of waterfront property from States or municipalities
 
 In leasing waterfront property from a State or municipality, the Secretary of the Navy may provide in the lease, where it is required by state law or municipal charter, that, as part or all of the consideration, any improvements placed upon the property by the United States become the property of the lessor when the lease, including any renewal, ends.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 446, § 7219; renumbered § 8619, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 446, § 7219; renumbered § 8619, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
@@ -604,11 +604,11 @@ In leasing waterfront property from a State or municipality, the Secretary of th
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8620. Gifts for welfare of enlisted members
+## § 8620. Gifts for welfare of enlisted members
 
 The Secretary of the Navy may accept gifts for use in providing recreation, amusement, and contentment for enlisted members of the naval service. The fund “Ships’ Stores Profits, Navy” shall be credited with these gifts.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 446, § 7220; renumbered § 8620, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 446, § 7220; renumbered § 8620, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
@@ -630,11 +630,11 @@ The words “and contributions from organizations, individuals, or others” are
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8621. Acceptance and care of gifts to vessels
+## § 8621. Acceptance and care of gifts to vessels
 
 The Secretary of the Navy may accept and care for such gifts of silver, colors, books, or other articles of equipment or furniture as, in accordance with custom, are made to vessels of the Navy. Necessary expenses incident to the care of gifts that are accepted shall be paid from the appropriation for the maintenance and operation of vessels.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 446, § 7221; renumbered § 8621, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 446, § 7221; renumbered § 8621, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
@@ -642,7 +642,7 @@ The Secretary of the Navy may accept and care for such gifts of silver, colors, 
 |---|---|---|
 | 7221 | 5 U.S.C. 419. | May 20, 1908, ch. 182, 35 Stat. 171. |
 
-The words “in the form” and “by States, municipalities, or otherwise” are omitted as surplusage. The words “the appropriation for the maintenance and operation of vessels” are substituted for the words “the appropriation ‘Equipment of Vessels’ ” to identify by a general description, rather than by a specific appropriation title, the appropriation authorized to be used.
+The words “in the form” and “by States, municipalities, or otherwise” are omitted as surplusage. The words “the appropriation for the maintenance and operation of vessels” are substituted for the words “the appropriation ‘Equipment of Vessels’ ” to identify by a general description, rather than by a specific appropriation title, the appropriation authorized to be used.
 
 **Editorial Notes**
 
@@ -656,11 +656,11 @@ The words “in the form” and “by States, municipalities, or otherwise” ar
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8622. Naval Historical Center Fund: references to Fund
+## § 8622. Naval Historical Center Fund: references to Fund
 
 Any reference in a law, regulation, document, paper, or other record of the United States to the Naval Historical Center Fund formerly maintained under this section shall be deemed to refer to the Department of the Navy General Gift Fund maintained under section 2601 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 446, § 7222; Pub. L. 104–201, div. A, title X, § 1073(b)(1), (2)(A), Sept. 23, 1996, 110 Stat. 2657; Pub. L. 106–398, § 1 [[div. A], title IX, § 942(d)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–242; renumbered § 8622, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 446, § 7222; Pub. L. 104–201, div. A, title X, § 1073(b)(1), (2)(A), Sept. 23, 1996, 110 Stat. 2657; Pub. L. 106–398, § 1 [[div. A], title IX, § 942(d)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–242; renumbered § 8622, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
@@ -680,9 +680,9 @@ Subsection (b) is rewritten for clarity and to conform to a similar statement ap
 
 2000—Pub. L. 106–398 amended section catchline and text generally. Prior to amendment, section related to acceptance and administration of gifts, bequests, and loans for the benefit of the Naval Historical Center.
 
-1996—Pub. L. 104–201, § 1073(b)(2)(A), substituted “Naval Historical Center Fund” for “Office of Naval Records and History gift fund” in section catchline.
+1996—Pub. L. 104–201, § 1073(b)(2)(A), substituted “Naval Historical Center Fund” for “Office of Naval Records and History gift fund” in section catchline.
 
-Subsecs. (a), (c). Pub. L. 104–201, § 1073(b)(1), substituted “Naval Historical Center” for “Office of Naval Records and History” wherever appearing.
+Subsecs. (a), (c). Pub. L. 104–201, § 1073(b)(1), substituted “Naval Historical Center” for “Office of Naval Records and History” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -692,17 +692,17 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Merger of Naval Historical Center Fund Into Department of the Navy General Gift Fund**
 
-Pub. L. 106–398, § 1 [[div. A], title IX, § 942(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–241, provided that:
+Pub. L. 106–398, § 1 [[div. A], title IX, § 942(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–241, provided that:
 
 > **“(1)** The Secretary of the Navy shall transfer all amounts in the Naval Historical Center Fund maintained under section 7222 [now 8622] of title 10, United States Code, to the Department of the Navy General Gift Fund maintained under section 2601 of such title. Upon completing the transfer, the Secretary shall close the Naval Historical Center Fund.
 
 > **“(2)** Amounts transferred to the Department of the Navy General Gift Fund under this subsection shall be merged with other amounts in that Fund and shall be available for the purposes for which amounts in that Fund are available.”
 
-## § 8623. Acquisition of land for radio stations and for other purposes
+## § 8623. Acquisition of land for radio stations and for other purposes
 
 Land of the United States that is under the control of any department or agency of the United States may be mutually selected as a site for a naval radio station by the Secretary of the Navy and the head of the department or agency having control of the land. By direction of the President, land so selected may be transferred to and placed under the jurisdiction of the Department of the Navy for use as a naval radio station or for any other naval purpose.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 447, § 7223; renumbered § 8623, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 447, § 7223; renumbered § 8623, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
@@ -724,17 +724,17 @@ The word “agency” is substituted for the word “branch” to conform to pre
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8624. Transportation on naval vessels during wartime
+## § 8624. Transportation on naval vessels during wartime
 
 In time of war or during a national emergency declared by the President, such persons as the Secretary of the Navy authorizes by regulation may be transported and subsisted on naval vessels at Government expense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 447, § 7224; renumbered § 8624, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 447, § 7224; renumbered § 8624, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7224 | 34 U.S.C. 474. | Aug. 2, 1946, ch. 756, § 18, 60 Stat. 855. |
+| 7224 | 34 U.S.C. 474. | Aug. 2, 1946, ch. 756, § 18, 60 Stat. 855. |
 
 **Editorial Notes**
 
@@ -750,11 +750,11 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Termination of War and Emergencies**
 
-Joint Res. July 25, 1947, ch. 327, § 3, 61 Stat. 451, provided that in the interpretation of section 474 of former Title 34, the date July 25, 1947, should be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on Sept. 8, 1939, and May 27, 1941.
+Joint Res. July 25, 1947, ch. 327, § 3, 61 Stat. 451, provided that in the interpretation of section 474 of former Title 34, the date July 25, 1947, should be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on Sept. 8, 1939, and May 27, 1941.
 
 The state of war with Japan ended on Apr. 28, 1952, by the coming into effect of the Treaty of Peace with Japan on that date. The state of war with Germany ended on Oct. 19, 1951. See notes preceding section 1 of Title 50, War and National Defense.
 
-## § 8625. Navy Reserve flag
+## § 8625. Navy Reserve flag
 
 The Secretary of the Navy shall prescribe a suitable flag to be known as the Navy Reserve flag. This flag may be flown by a seagoing merchant vessel if—
 
@@ -764,13 +764,13 @@ The Secretary of the Navy shall prescribe a suitable flag to be known as the Nav
 
 **(3)** the master or commanding officer and at least half of the other licensed officers of the vessel are members of the Navy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 447, § 7225; Pub. L. 109–163, div. A, title V, § 515(b)(1)(T), (3)(D), Jan. 6, 2006, 119 Stat. 3233, 3234; renumbered § 8625, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 447, § 7225; Pub. L. 109–163, div. A, title V, § 515(b)(1)(T), (3)(D), Jan. 6, 2006, 119 Stat. 3233, 3234; renumbered § 8625, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7225 | 50 U.S.C. 1048. | July 9, 1952, ch. 608, § 409, 66 Stat. 499. |
+| 7225 | 50 U.S.C. 1048. | July 9, 1952, ch. 608, § 409, 66 Stat. 499. |
 
 In clause (3) the words “at least half” are substituted for the words “not less than 50 per centum”. The words “or Naval Reserve” are omitted as surplusage, since the Navy includes the Naval Reserve.
 
@@ -780,9 +780,9 @@ In clause (3) the words “at least half” are substituted for the words “not
 
 2018—Pub. L. 115–232 renumbered section 7225 of this title as this section.
 
-2006—Pub. L. 109–163, § 515(b)(3)(D), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
+2006—Pub. L. 109–163, § 515(b)(3)(D), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
 
-Pub. L. 109–163, § 515(b)(1)(T), substituted “Navy Reserve” for “Naval Reserve” in introductory provisions.
+Pub. L. 109–163, § 515(b)(1)(T), substituted “Navy Reserve” for “Naval Reserve” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -790,7 +790,7 @@ Pub. L. 109–163, § 515(b)(1)(T), substituted “Navy Reserve” for “Nava
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8626. Navy Reserve yacht pennant
+## § 8626. Navy Reserve yacht pennant
 
 The Secretary of the Navy shall prescribe a suitable pennant to be known as the Navy Reserve yacht pennant. This pennant may be flown by a yacht or similar vessel if—
 
@@ -800,13 +800,13 @@ The Secretary of the Navy shall prescribe a suitable pennant to be known as the 
 
 **(3)** the captain or owner of the vessel is a member of the Navy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 447, § 7226; Pub. L. 109–163, div. A, title V, § 515(b)(1)(U), (3)(E), Jan. 6, 2006, 119 Stat. 3233, 3234; renumbered § 8626, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 447, § 7226; Pub. L. 109–163, div. A, title V, § 515(b)(1)(U), (3)(E), Jan. 6, 2006, 119 Stat. 3233, 3234; renumbered § 8626, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7226 | 50 U.S.C. 1049. | July 9, 1952, ch. 608, § 410, 66 Stat. 499. |
+| 7226 | 50 U.S.C. 1049. | July 9, 1952, ch. 608, § 410, 66 Stat. 499. |
 
 In clause (3) the words “or Naval Reserve” are omitted as surplusage, since the Navy includes the Naval Reserve.
 
@@ -816,9 +816,9 @@ In clause (3) the words “or Naval Reserve” are omitted as surplusage, since 
 
 2018—Pub. L. 115–232 renumbered section 7226 of this title as this section.
 
-2006—Pub. L. 109–163, § 515(b)(3)(E), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
+2006—Pub. L. 109–163, § 515(b)(3)(E), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
 
-Pub. L. 109–163, § 515(b)(1)(U), substituted “Navy Reserve” for “Naval Reserve” in introductory provisions.
+Pub. L. 109–163, § 515(b)(1)(U), substituted “Navy Reserve” for “Naval Reserve” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -826,7 +826,7 @@ Pub. L. 109–163, § 515(b)(1)(U), substituted “Navy Reserve” for “Nava
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8627. Foreign naval vessels and aircraft: supplies and services
+## § 8627. Foreign naval vessels and aircraft: supplies and services
 
 **(a)** The Secretary of the Navy, under such regulations as he prescribes, may authorize any United States naval vessel or activity to furnish any of the following supplies or services, when in the best interests of the United States, on a reimbursable basis without an advance of funds if similar supplies and services are furnished on a like basis to naval vessels and military aircraft of the United States by the foreign country concerned:
 
@@ -848,7 +848,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(c)** Payments for supplies and services furnished under this section may be credited to current appropriations so as to be available for the same purpose as the appropriation initially charged.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 447, § 7227; Pub. L. 86–55, § 1, June 23, 1959, 73 Stat. 89; Pub. L. 98–94, title XII, § 1219(a), Sept. 24, 1983, 97 Stat. 691; Pub. L. 98–525, title XIV, § 1405(49), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 102–190, div. A, title X, § 1048, Dec. 5, 1991, 105 Stat. 1468; renumbered § 8627, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 447, § 7227; Pub. L. 86–55, § 1, June 23, 1959, 73 Stat. 89; Pub. L. 98–94, title XII, § 1219(a), Sept. 24, 1983, 97 Stat. 691; Pub. L. 98–525, title XIV, § 1405(49), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 102–190, div. A, title X, § 1048, Dec. 5, 1991, 105 Stat. 1468; renumbered § 8627, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
@@ -862,15 +862,15 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 2018—Pub. L. 115–232 renumbered section 7227 of this title as this section.
 
-1991—Subsec. (a). Pub. L. 102–190, § 1048(a), struck out “friendly” before “foreign country” in introductory provisions and “friendly” before “foreign countries” in pars. (1) to (4).
+1991—Subsec. (a). Pub. L. 102–190, § 1048(a), struck out “friendly” before “foreign country” in introductory provisions and “friendly” before “foreign countries” in pars. (1) to (4).
 
-Subsec. (b)(2). Pub. L. 102–190, § 1048(b), struck out subpar. (A) designation, substituted “naval vessels of a foreign country” for “naval vessels of an allied country”, inserted after first sentence “When furnishing routine airport services under this section to military aircraft of a foreign country, the Secretary may furnish such services without reimbursement if such services are provided under an agreement that provides for the reciprocal furnishing by such country of routine airport services to military aircraft of the United States without reimbursement.”, designated last sentence relating to furnishing of routine services by a working-capital fund activity of the Navy as par. (3), and struck out former subpar. (B) which defined “allied country”.
+Subsec. (b)(2). Pub. L. 102–190, § 1048(b), struck out subpar. (A) designation, substituted “naval vessels of a foreign country” for “naval vessels of an allied country”, inserted after first sentence “When furnishing routine airport services under this section to military aircraft of a foreign country, the Secretary may furnish such services without reimbursement if such services are provided under an agreement that provides for the reciprocal furnishing by such country of routine airport services to military aircraft of the United States without reimbursement.”, designated last sentence relating to furnishing of routine services by a working-capital fund activity of the Navy as par. (3), and struck out former subpar. (B) which defined “allied country”.
 
-Subsec. (b)(3). Pub. L. 102–190, § 1048(b)(5), designated last sentence of par. (2) relating to furnishing of routine services by a working-capital fund activity of the Navy as par. (3) and substituted “port or airport services” for “port services” and “paragraph (2)” for “this paragraph”.
+Subsec. (b)(3). Pub. L. 102–190, § 1048(b)(5), designated last sentence of par. (2) relating to furnishing of routine services by a working-capital fund activity of the Navy as par. (3) and substituted “port or airport services” for “port services” and “paragraph (2)” for “this paragraph”.
 
-1984—Subsec. (a)(1), (2). Pub. L. 98–525, § 1405(49)(A), (C), in cls. (1) and (2), substituted “Routine” for “routine” and a period for the semicolon at the end.
+1984—Subsec. (a)(1), (2). Pub. L. 98–525, § 1405(49)(A), (C), in cls. (1) and (2), substituted “Routine” for “routine” and a period for the semicolon at the end.
 
-Subsec. (a)(3). Pub. L. 98–525, § 1405(49)(B), (D), substituted “Miscellaneous” for “miscellaneous” and a period for “; and”.
+Subsec. (a)(3). Pub. L. 98–525, § 1405(49)(B), (D), substituted “Miscellaneous” for “miscellaneous” and a period for “; and”.
 
 1983—Subsec. (b). Pub. L. 98–94 designated existing provisions as par. (1) and added par. (2).
 
@@ -884,9 +884,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–94, title XII, § 1219(b), Sept. 24, 1983, 97 Stat. 691, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 1983.”
+Pub. L. 98–94, title XII, § 1219(b), Sept. 24, 1983, 97 Stat. 691, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 1983.”
 
-## § 8628. Merchant vessels: supplies
+## § 8628. Merchant vessels: supplies
 
 **(a)** The Secretary of the Navy, under such regulations as he prescribes, may sell to a merchant ship such fuel and other supplies as may be required to meet its necessities if the ship is unable—
 
@@ -896,13 +896,13 @@ Pub. L. 98–94, title XII, § 1219(b), Sept. 24, 1983, 97 Stat. 691, provided
 
 **(b)** Sales under this section shall be at such prices as the Secretary considers reasonable. Payment shall be made on a cash basis or on such other basis as will reasonably assure prompt payment. Amounts received from such a sale shall, unless otherwise directed by another provision of law, be credited to the current appropriation concerned and are available for the same purposes as that appropriation.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 448, § 7228; renumbered § 8628, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 448, § 7228; renumbered § 8628, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7228 | 34 U.S.C. 555f. | June 4, 1954, ch. 264, § 3, 68 Stat. 176. |
+| 7228 | 34 U.S.C. 555f. | June 4, 1954, ch. 264, § 3, 68 Stat. 176. |
 
 **Editorial Notes**
 
@@ -916,11 +916,11 @@ Pub. L. 98–94, title XII, § 1219(b), Sept. 24, 1983, 97 Stat. 691, provided
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8629. Purchase of fuel
+## § 8629. Purchase of fuel
 
 In buying fuel, the Secretary of the Navy may, in any manner he considers proper, buy the kind of fuel that is best adapted to the purpose for which it is to be used.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 448, § 7229; renumbered § 8629, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 448, § 7229; renumbered § 8629, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
@@ -928,7 +928,7 @@ In buying fuel, the Secretary of the Navy may, in any manner he considers proper
 |---|---|---|
 | 7229 | 34 U.S.C. 580. | R.S. 3728. |
 
-The first sentence is omitted as covered by § 2 of the Act of Mar. 3, 1933, ch. 212 (41 U.S.C. 10a). The words “for the Navy, or for naval stations and yards” are omitted, since R.S. 3728 has been interpreted as authorizing the Armed Services Petroleum Purchasing Agency to negotiate contracts for the purchase of fuel, not only when acting as a procuring activity for the Navy, but also when filling the consolidated fuel requirements of the armed forces. The word “may” is substituted for the words “shall have the power to” for uniformity. The words “discriminate and” are omitted as surplusage.
+The first sentence is omitted as covered by § 2 of the Act of Mar. 3, 1933, ch. 212 (41 U.S.C. 10a). The words “for the Navy, or for naval stations and yards” are omitted, since R.S. 3728 has been interpreted as authorizing the Armed Services Petroleum Purchasing Agency to negotiate contracts for the purchase of fuel, not only when acting as a procuring activity for the Navy, but also when filling the consolidated fuel requirements of the armed forces. The word “may” is substituted for the words “shall have the power to” for uniformity. The words “discriminate and” are omitted as surplusage.
 
 **Editorial Notes**
 
@@ -942,11 +942,11 @@ The first sentence is omitted as covered by § 2 of the Act of Mar. 3, 1933, c
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8631. Accounting for expenditures for obtaining information
+## § 8631. Accounting for expenditures for obtaining information
 
 When the Secretary of the Navy decides that an expenditure by the Department of the Navy from an appropriation for obtaining information from anywhere in the world may be made public, the expenditure shall be accounted for specifically. When the Secretary decides that an expenditure should not be made public, the Secretary shall make a certificate on the amount of the expenditure. The certificate is a sufficient voucher for the amount stated to have been spent.
 
-(Added Pub. L. 97–258, § 2(b)(11)(B), Sept. 13, 1982, 96 Stat. 1057, § 7231; renumbered § 8631, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 97–258, § 2(b)(11)(B), Sept. 13, 1982, 96 Stat. 1057, § 7231; renumbered § 8631, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
@@ -960,9 +960,9 @@ The words “anywhere in the world” are substituted for “abroad and at home�
 
 **Prior Provisions**
 
-A prior section 8631, act Aug. 10, 1956, ch. 1041, 70A Stat. 532, prohibited any officer of Air Force who was engaged in procurement or sale of quartermaster supplies from dealing in said supplies, prior to repeal by Pub. L. 90–235, § 7(b)(1), Jan. 2, 1968, 81 Stat. 763.
+A prior section 8631, act Aug. 10, 1956, ch. 1041, 70A Stat. 532, prohibited any officer of Air Force who was engaged in procurement or sale of quartermaster supplies from dealing in said supplies, prior to repeal by Pub. L. 90–235, § 7(b)(1), Jan. 2, 1968, 81 Stat. 763.
 
-A prior section 8632, act Aug. 10, 1946, ch. 1041, 70A Stat. 532, provided for forfeiture of pay during absence from duty due to disease from intemperate use of alcohol or drugs, prior to repeal by Pub. L. 87–649, § 14c(54), Sept. 7, 1962, 76 Stat. 501, effective Nov. 1, 1962. See section 802 of Title 37, Pay and Allowances of the Uniformed Services.
+A prior section 8632, act Aug. 10, 1946, ch. 1041, 70A Stat. 532, provided for forfeiture of pay during absence from duty due to disease from intemperate use of alcohol or drugs, prior to repeal by Pub. L. 87–649, § 14c(54), Sept. 7, 1962, 76 Stat. 501, effective Nov. 1, 1962. See section 802 of Title 37, Pay and Allowances of the Uniformed Services.
 
 **Amendments**
 
@@ -974,7 +974,7 @@ A prior section 8632, act Aug. 10, 1946, ch. 1041, 70A Stat. 532, provided for f
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8633. Auxiliary vessels: extended lease authority
+## § 8633. Auxiliary vessels: extended lease authority
 
 **(a) Authorized Contracts.—** Subject to subsection (b), the Secretary of the Navy may enter into contracts with private United States shipyards for the construction of new surface vessels to be acquired on a long-term lease basis by the United States from the shipyard or other private person for any of the following:
 
@@ -1028,13 +1028,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(3)** funds appropriated for those costs.
 
-(Added Pub. L. 106–65, div. A, title X, § 1014(a)(1), Oct. 5, 1999, 113 Stat. 741, § 7233; renumbered § 8633, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
+(Added Pub. L. 106–65, div. A, title X, § 1014(a)(1), Oct. 5, 1999, 113 Stat. 741, § 7233; renumbered § 8633, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 8633, act Aug. 10, 1946, ch. 1041, 70A Stat. 532, provided for forfeiture of pay when dropped from rolls, prior to repeal by Pub. L. 87–649, § 14c(55), Sept. 7, 1962, 76 Stat. 502, effective Nov. 1, 1962. See section 803 of Title 37, Pay and Allowances of the Uniformed Services.
+A prior section 8633, act Aug. 10, 1946, ch. 1041, 70A Stat. 532, provided for forfeiture of pay when dropped from rolls, prior to repeal by Pub. L. 87–649, § 14c(55), Sept. 7, 1962, 76 Stat. 502, effective Nov. 1, 1962. See section 803 of Title 37, Pay and Allowances of the Uniformed Services.
 
 **Amendments**
 
@@ -1054,11 +1054,11 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date**
 
-Pub. L. 106–65, div. A, title X, § 1014(c), Oct. 5, 1999, 113 Stat. 742, provided that: “Section 7233 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1999.”
+Pub. L. 106–65, div. A, title X, § 1014(c), Oct. 5, 1999, 113 Stat. 742, provided that: “Section 7233 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1999.”
 
 **Long-Term Lease or Charter Authority for Certain Double-Hull Tankers and Oceanographic Vessels**
 
-Pub. L. 103–160, div. A, title I, § 126, Nov. 30, 1993, 107 Stat. 1567, as amended by Pub. L. 104–106, div. D, title XLIII, § 4321(i)(1)(A), Feb. 10, 1996, 110 Stat. 676, provided that:
+Pub. L. 103–160, div. A, title I, § 126, Nov. 30, 1993, 107 Stat. 1567, as amended by Pub. L. 104–106, div. D, title XLIII, § 4321(i)(1)(A), Feb. 10, 1996, 110 Stat. 676, provided that:
 
 > **“(a) Authority.—** The Secretary of the Navy may enter into a long-term lease or charter for any double-hull tanker or oceanographic vessel constructed in a United States shipyard after the date of the enactment of this Act [Nov. 30, 1993] using assistance provided under the National Shipbuilding Initiative.
 
@@ -1074,7 +1074,7 @@ Pub. L. 103–160, div. A, title I, § 126, Nov. 30, 1993, 107 Stat. 1567, as 
 
 > **“(d) Definition.—** For purposes of subsection (a), the term ‘long-term lease or charter’ has the meaning given that term in subparagraph (A) of section 2401(d)(1) of title 10, United States Code [now 10 U.S.C. 3674(a)(1)(A)].”
 
-## § 8634. Submarine safety programs: participation of NATO naval personnel
+## § 8634. Submarine safety programs: participation of NATO naval personnel
 
 **(a) Acceptance of Assignment of Foreign Naval Personnel.—** In order to facilitate the development, standardization, and interoperability of submarine vessel safety and rescue systems and procedures, the Secretary of the Navy may conduct a program beginning on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024 under which members of the naval service of any of the member nations of the North Atlantic Treaty Organization may be assigned to United States commands to work on such systems and procedures.
 
@@ -1106,7 +1106,7 @@ Pub. L. 103–160, div. A, title I, § 126, Nov. 30, 1993, 107 Stat. 1567, as 
 
 **(d) Relationship to Other Authority.—** The provisions of this section shall apply in the exercise of any authority of the Secretary of the Navy to enter into an agreement with the government of a foreign country, subject to the concurrence of the Secretary of State, to provide for the assignment of members of the naval service of the foreign country to a Navy submarine safety program. The Secretary of the Navy may prescribe regulations for the application of this section in the exercise of such authority.
 
-(Added Pub. L. 108–375, div. A, title XII, § 1223(a), Oct. 28, 2004, 118 Stat. 2089, § 7234; renumbered § 8634, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836; amended Pub. L. 118–31, div. A, title XII, § 1248, Dec. 22, 2023, 137 Stat. 464.)
+(Added Pub. L. 108–375, div. A, title XII, § 1223(a), Oct. 28, 2004, 118 Stat. 2089, § 7234; renumbered § 8634, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836; amended Pub. L. 118–31, div. A, title XII, § 1248, Dec. 22, 2023, 137 Stat. 464.)
 
 **Editorial Notes**
 
@@ -1116,13 +1116,13 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 **Prior Provisions**
 
-A prior section 8634, act Aug. 10, 1956, ch. 1041, 70A Stat. 532; Pub. L. 101–510, div. A, title III, § 327(c), Nov. 5, 1990, 104 Stat. 1532, generally prohibited Air Force band from being paid for performance outside air base, prior to repeal by Pub. L. 110–181, div. A, title V, § 590(b)(1), Jan. 28, 2008, 122 Stat. 138. See section 974 of this title.
+A prior section 8634, act Aug. 10, 1956, ch. 1041, 70A Stat. 532; Pub. L. 101–510, div. A, title III, § 327(c), Nov. 5, 1990, 104 Stat. 1532, generally prohibited Air Force band from being paid for performance outside air base, prior to repeal by Pub. L. 110–181, div. A, title V, § 590(b)(1), Jan. 28, 2008, 122 Stat. 138. See section 974 of this title.
 
 **Amendments**
 
-2023—Subsec. (a). Pub. L. 118–31, § 1248(b), substituted “the Secretary of the Navy may conduct a program beginning on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024” for “the Secretary of the Navy may conduct a program”.
+2023—Subsec. (a). Pub. L. 118–31, § 1248(b), substituted “the Secretary of the Navy may conduct a program beginning on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024” for “the Secretary of the Navy may conduct a program”.
 
-Subsec. (e). Pub. L. 118–31, § 1248(a), struck out subsec. (e). Text read as follows: “The Secretary of the Navy may not accept the assignment of a member of the naval service of a foreign country under this section after September 30, 2008.”
+Subsec. (e). Pub. L. 118–31, § 1248(a), struck out subsec. (e). Text read as follows: “The Secretary of the Navy may not accept the assignment of a member of the naval service of a foreign country under this section after September 30, 2008.”
 
 2018—Pub. L. 115–232 renumbered section 7234 of this title as this section.
 
@@ -1132,7 +1132,7 @@ Subsec. (e). Pub. L. 118–31, § 1248(a), struck out subsec. (e). Text read a
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8635. Establishment of the Southern Sea Otter Military Readiness Areas
+## § 8635. Establishment of the Southern Sea Otter Military Readiness Areas
 
 **(a) Establishment.—** The Secretary of the Navy shall establish areas, to be known as “Southern Sea Otter Military Readiness Areas”, for national defense purposes. Such areas shall include each of the following:
 
@@ -1192,21 +1192,21 @@ N. Latitude/W. Longitude
 
 **(5) Optimum sustainable population.—** The term “optimum sustainable population” means, with respect to any population stock, the number of animals that will result in the maximum productivity of the population or the species, keeping in mind the carrying capacity of the habitat and the health of the ecosystem of which they form a constituent element.
 
-(Added Pub. L. 114–92, div. A, title III, § 312(a), Nov. 25, 2015, 129 Stat. 787, § 7235; amended Pub. L. 115–91, div. A, title X, § 1081(a)(50), Dec. 12, 2017, 131 Stat. 1597; renumbered § 8635, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 114–92, div. A, title III, § 312(a), Nov. 25, 2015, 129 Stat. 787, § 7235; amended Pub. L. 115–91, div. A, title X, § 1081(a)(50), Dec. 12, 2017, 131 Stat. 1597; renumbered § 8635, Pub. L. 115–232, div. A, title VIII, § 807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Endangered Species Act of 1973, referred to in subsec. (f)(2)(A), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (f)(2)(A), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
-The Marine Mammal Protection Act of 1972, referred to in subsec. (f)(2)(B), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of Title 16 and Tables.
+The Marine Mammal Protection Act of 1972, referred to in subsec. (f)(2)(B), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of Title 16 and Tables.
 
 Section 315 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003, referred to in subsec. (f)(4), is section 315 of Pub. L. 107–314, which is set out as a note under section 703 of Title 16, Conservation.
 
 **Prior Provisions**
 
-A prior section 8635, act Aug. 10, 1956, ch. 1041, 70A Stat. 532, set forth restrictions on civilian employment for enlisted members of Air Force on active duty, prior to repeal by Pub. L. 90–235, § 6(a)(7), Jan. 2, 1968, 81 Stat. 762.
+A prior section 8635, act Aug. 10, 1956, ch. 1041, 70A Stat. 532, set forth restrictions on civilian employment for enlisted members of Air Force on active duty, prior to repeal by Pub. L. 90–235, § 6(a)(7), Jan. 2, 1968, 81 Stat. 762.
 
 A prior section 8639 was renumbered section 9239 of this title.
 

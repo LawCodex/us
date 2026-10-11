@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1990—Pub. L. 101–647, title XXXVI, § 3626(b), Nov. 29, 1990, 104 Stat. 4965, substituted “Clerical assistants, messengers, and private process servers” for “Clerical assistants and messengers” in item 550.
+1990—Pub. L. 101–647, title XXXVI, § 3626(b), Nov. 29, 1990, 104 Stat. 4965, substituted “Clerical assistants, messengers, and private process servers” for “Clerical assistants and messengers” in item 550.
 
-1966—Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 617, added chapter 35 and items 541 to 550.
+1966—Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 617, added chapter 35 and items 541 to 550.
 
-## § 541. United States attorneys
+## § 541. United States attorneys
 
 **(a)** The President shall appoint, by and with the advice and consent of the Senate, a United States attorney for each judicial district.
 
@@ -31,7 +31,7 @@ retrieved: 2026-10-11
 
 **(c)** Each United States attorney is subject to removal by the President.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 617.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 617.)
 
 **Historical and Revision Notes**
 
@@ -47,17 +47,17 @@ In subsection (c), the word “is” is substituted for “shall be”.
 
 **1948 Act**
 
-*Prior section 501.—*Based on title 28, U.S.C., 1940 ed., § 481, sections 643 and 863 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, and section 11–1001, District of Columbia Code, 1940 ed. (R.S., § 767; June 26, 1876, ch. 147, §§ 1, 4, 19 Stat. 61, 62; Feb. 24, 1879, ch. 97, § 8, 20 Stat. 320; Mar. 3, 1881, ch. 144, § 7, 21 Stat. 507; Apr. 25, 1882, ch. 87, §§ 1, 3, 22 Stat. 47; July 20, 1882, ch. 312, § 3, 22 Stat. 172; Aug. 5, 1886, ch. 928, § 7, 24 Stat. 309; Feb. 22, 1889, ch. 180, § 21, 25 Stat. 682; July 3, 1890, ch. 656, § 16, 26 Stat. 217; July 10, 1890, ch. 664, § 16, 26 Stat. 225; Mar. 3, 1893, ch. 220, 27 Stat. 745; July 16, 1894, ch. 138, §§ 14, 16, 28 Stat. 110, 111; June 24, 1898, ch. 495, § 1, 30 Stat. 487; Apr. 12, 1900, ch. 191, § 34, 31 Stat. 85; Apr. 30, 1900, ch. 339, § 86, 31 Stat. 158; May 12, 1900, ch. 391, § 9, 31 Stat. 176; Jan. 22, 1901, ch. 105, §§ 4, 7, 31 Stat. 736, 737; Feb. 12, 1901, ch. 355, §§ 5, 7, 31 Stat. 782; Mar. 2, 1901, ch. 801, §§ 3, 5, 31 Stat. 881; Mar. 3, 1901, ch. 854, § 183, 31 Stat. 1220; Mar. 11, 1902, ch. 183, §§ 5, 6, 32 Stat. 66; June 30, 1902, ch. 1329, 32 Stat. 527; Mar. 2, 1905, ch. 1305, §§ 4, 6, 33 Stat. 824; Mar. 3, 1905, ch. 1427, §§ 13, 15, 19, 33 Stat. 995, 996; June 16, 1906, ch. 3335, § 13, 34 Stat. 275; Mar. 3, 1909, ch. 269, § 1, 35 Stat. 838; Jan. 7, 1913, ch. 6, 37 Stat. 648; Mar. 3, 1915, ch. 100, §§ 3, 4, 38 Stat. 961; Mar. 2, 1917, ch. 145, § 41, 39 Stat. 965; Mar. 4, 1921, ch. 161, § 1, 41 Stat. 1412; July 9, 1921, ch. 42, § 313, 42 Stat. 119; May 28, 1926, ch. 414, § 2(b), 44 Stat. 672; Apr. 21, 1928, ch. 393, 45 Stat. 437; Mar. 26, 1928, ch. 51, § 2, 52 Stat. 118).
+*Prior section 501.—*Based on title 28, U.S.C., 1940 ed., § 481, sections 643 and 863 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, and section 11–1001, District of Columbia Code, 1940 ed. (R.S., § 767; June 26, 1876, ch. 147, §§ 1, 4, 19 Stat. 61, 62; Feb. 24, 1879, ch. 97, § 8, 20 Stat. 320; Mar. 3, 1881, ch. 144, § 7, 21 Stat. 507; Apr. 25, 1882, ch. 87, §§ 1, 3, 22 Stat. 47; July 20, 1882, ch. 312, § 3, 22 Stat. 172; Aug. 5, 1886, ch. 928, § 7, 24 Stat. 309; Feb. 22, 1889, ch. 180, § 21, 25 Stat. 682; July 3, 1890, ch. 656, § 16, 26 Stat. 217; July 10, 1890, ch. 664, § 16, 26 Stat. 225; Mar. 3, 1893, ch. 220, 27 Stat. 745; July 16, 1894, ch. 138, §§ 14, 16, 28 Stat. 110, 111; June 24, 1898, ch. 495, § 1, 30 Stat. 487; Apr. 12, 1900, ch. 191, § 34, 31 Stat. 85; Apr. 30, 1900, ch. 339, § 86, 31 Stat. 158; May 12, 1900, ch. 391, § 9, 31 Stat. 176; Jan. 22, 1901, ch. 105, §§ 4, 7, 31 Stat. 736, 737; Feb. 12, 1901, ch. 355, §§ 5, 7, 31 Stat. 782; Mar. 2, 1901, ch. 801, §§ 3, 5, 31 Stat. 881; Mar. 3, 1901, ch. 854, § 183, 31 Stat. 1220; Mar. 11, 1902, ch. 183, §§ 5, 6, 32 Stat. 66; June 30, 1902, ch. 1329, 32 Stat. 527; Mar. 2, 1905, ch. 1305, §§ 4, 6, 33 Stat. 824; Mar. 3, 1905, ch. 1427, §§ 13, 15, 19, 33 Stat. 995, 996; June 16, 1906, ch. 3335, § 13, 34 Stat. 275; Mar. 3, 1909, ch. 269, § 1, 35 Stat. 838; Jan. 7, 1913, ch. 6, 37 Stat. 648; Mar. 3, 1915, ch. 100, §§ 3, 4, 38 Stat. 961; Mar. 2, 1917, ch. 145, § 41, 39 Stat. 965; Mar. 4, 1921, ch. 161, § 1, 41 Stat. 1412; July 9, 1921, ch. 42, § 313, 42 Stat. 119; May 28, 1926, ch. 414, § 2(b), 44 Stat. 672; Apr. 21, 1928, ch. 393, 45 Stat. 437; Mar. 26, 1928, ch. 51, § 2, 52 Stat. 118).
 
 Section consolidates section 481 of title 28, U.S.C., 1940 ed., and section 11–1001 of the District of Columbia Code, 1940 ed., with parts of sections 643 and 863 of title 48, U.S.C., 1940 ed., relating to appointment of United States attorneys.
 
-The term “United States attorney” was adopted in this section for “attorney for the United States.” Since the decision of the Supreme Court of the United States in In re Neagle, 1890 (10 S. Ct. 658, 135 U.S. 1, 34, L. Ed. 55) where the terms “attorneys of the United States” and “district attorneys” were used interchangeably, Congress has also designated such officers as either “United States attorneys” or as “district attorneys.” See Acts of Feb. 22, 1886, ch. 928, § 7, 24 Stat. 309; July 3, 1890, ch. 656, § 16, 26 Stat. 217; July 10, 1890, ch. 664, § 16, 26 Stat. 225, and Acts of July 20, 1882, ch. 312, § 3, 22 Stat. 172; Mar. 3, 1915, ch. 100, § 3, 38 Stat. 961; May 28, 1926, ch. 414, § 2(b), 44 Stat. 672.
+The term “United States attorney” was adopted in this section for “attorney for the United States.” Since the decision of the Supreme Court of the United States in In re Neagle, 1890 (10 S. Ct. 658, 135 U.S. 1, 34, L. Ed. 55) where the terms “attorneys of the United States” and “district attorneys” were used interchangeably, Congress has also designated such officers as either “United States attorneys” or as “district attorneys.” See Acts of Feb. 22, 1886, ch. 928, § 7, 24 Stat. 309; July 3, 1890, ch. 656, § 16, 26 Stat. 217; July 10, 1890, ch. 664, § 16, 26 Stat. 225, and Acts of July 20, 1882, ch. 312, § 3, 22 Stat. 172; Mar. 3, 1915, ch. 100, § 3, 38 Stat. 961; May 28, 1926, ch. 414, § 2(b), 44 Stat. 672.
 
 At present, such officers are invariably designated as “United States attorneys” by Federal courts and the Department of Justice.
 
 Words “The President may appoint, by and with the advice and consent of the Senate,” were inserted to conform section with the Constitution. See article II, section 2, clause 2.
 
-Words “including the District of Columbia” were omitted, because the District is made a judicial district by section 88 of this title. District of Columbia Code, 1940 ed., § 11–1001, provided for appointment of an “attorney of the United States for the District” by the President, subject to Senate confirmation.
+Words “including the District of Columbia” were omitted, because the District is made a judicial district by section 88 of this title. District of Columbia Code, 1940 ed., § 11–1001, provided for appointment of an “attorney of the United States for the District” by the President, subject to Senate confirmation.
 
 Words “learned in the law” were omitted as unnecessary. Such requirement is not made of United States judges and no reason appears to make a distinction respecting United States attorneys.
 
@@ -71,15 +71,15 @@ Changes were made in phraseology.
 
 **Prior Provisions**
 
-A prior section 541, acts June 25, 1948, ch. 646, 62 Stat 910; Mar. 18, 1959, Pub. L. 86–3, § 11(c), (d), 73 Stat. 9, related to appointment, residence and tenure of marshals, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 561 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 541, acts June 25, 1948, ch. 646, 62 Stat 910; Mar. 18, 1959, Pub. L. 86–3, § 11(c), (d), 73 Stat. 9, related to appointment, residence and tenure of marshals, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 561 of this title by section 4(c) of Pub. L. 89–554.
 
-## § 542. Assistant United States attorneys
+## § 542. Assistant United States attorneys
 
 **(a)** The Attorney General may appoint one or more assistant United States attorneys in any district when the public interest so requires.
 
 **(b)** Each assistant United States attorney is subject to removal by the Attorney General.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 618.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 618.)
 
 **Historical and Revision Notes**
 
@@ -94,7 +94,7 @@ In subsection (b), the word “is” is substituted for “shall be”.
 
 **1948 Act**
 
-*Prior section 502*.—Based on title 28, U.S.C., 1940 ed., §§ 483, 594 (May 28, 1896, ch. 252, § 8, 29 Stat. 181; July 19, 1919, ch. 24, § 1, 41 Stat. 209; Mar. 4, 1923, ch. 295, 42 Stat. 1560; June 25, 1936, ch. 804, 49 Stat. 1921).
+*Prior section 502*.—Based on title 28, U.S.C., 1940 ed., §§ 483, 594 (May 28, 1896, ch. 252, § 8, 29 Stat. 181; July 19, 1919, ch. 24, § 1, 41 Stat. 209; Mar. 4, 1923, ch. 295, 42 Stat. 1560; June 25, 1936, ch. 804, 49 Stat. 1921).
 
 Section consolidates sections 483 and 594 of title 28, U.S.C., 1940 ed., relating to appointment of assistant United States attorneys.
 
@@ -114,9 +114,9 @@ Changes were made in phraseology.
 
 **Prior Provisions**
 
-A prior section 542, act June 25, 1948, ch. 646, 62 Stat. 911, related to appointment and tenure of deputies and assistants for United States marshals, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 562 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 542, act June 25, 1948, ch. 646, 62 Stat. 911, related to appointment and tenure of deputies and assistants for United States marshals, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 562 of this title by section 4(c) of Pub. L. 89–554.
 
-## § 543. Special attorneys
+## § 543. Special attorneys
 
 **(a)** The Attorney General may appoint attorneys to assist United States attorneys when the public interest so requires, including the appointment of qualified tribal prosecutors and other qualified attorneys to assist in prosecuting Federal offenses committed in Indian country.
 
@@ -124,7 +124,7 @@ A prior section 542, act June 25, 1948, ch. 646, 62 Stat. 911, related to appoin
 
 **(c) Indian Country.—** In this section, the term “Indian country” has the meaning given that term in section 1151 of title 18.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 618; amended Pub. L. 111–211, title II, § 213(a)(1), July 29, 2010, 124 Stat. 2268.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 618; amended Pub. L. 111–211, title II, § 213(a)(1), July 29, 2010, 124 Stat. 2268.)
 
 **Historical and Revision Notes**
 
@@ -133,7 +133,7 @@ A prior section 542, act June 25, 1948, ch. 646, 62 Stat. 911, related to appoin
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
 | (a) | 28 U.S.C. 503. | [None]. |
-|  | 5 U.S.C. 298. | July 28, 1916, ch. 261, § 1 (6th par. on p. 413), 39 Stat. 413. |
+|  | 5 U.S.C. 298. | July 28, 1916, ch. 261, § 1 (6th par. on p. 413), 39 Stat. 413. |
 | (b) | 28 U.S.C. 504(b) (2d sentence, less applicability to assistant United States attorneys). | [None]. |
 
 The text of former section 298 of title 5 is omitted as unnecessary. The position so authorized has not been filled in recent years, and the authority is preserved by this section and revised section 3101 of title 5, United States Code.
@@ -142,7 +142,7 @@ In subsection (b), the word “is” is substituted for “shall be”.
 
 **1948 Act**
 
-*Prior section 503.—*Based on section 312 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees (R.S. § 363).
+*Prior section 503.—*Based on section 312 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees (R.S. § 363).
 
 Other provisions of section 312 of title 5, U.S.C., 1940 ed., are incorporated in sections 507 [now 509 and 547] and 508 [now 548] of this title.
 
@@ -152,19 +152,19 @@ Changes were made in phraseology.
 
 **Prior Provisions**
 
-A prior section 543, act June 25, 1948, ch. 646, 62 Stat. 911, related to oath of office for United States Marshals, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 563 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 543, act June 25, 1948, ch. 646, 62 Stat. 911, related to oath of office for United States Marshals, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 563 of this title by section 4(c) of Pub. L. 89–554.
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–211, § 213(a)(1)(A), inserted “, including the appointment of qualified tribal prosecutors and other qualified attorneys to assist in prosecuting Federal offenses committed in Indian country” before period at end.
+2010—Subsec. (a). Pub. L. 111–211, § 213(a)(1)(A), inserted “, including the appointment of qualified tribal prosecutors and other qualified attorneys to assist in prosecuting Federal offenses committed in Indian country” before period at end.
 
-Subsec. (c). Pub. L. 111–211, § 213(a)(1)(B), added subsec. (c).
+Subsec. (c). Pub. L. 111–211, § 213(a)(1)(B), added subsec. (c).
 
-## § 544. Oath of office
+## § 544. Oath of office
 
 Each United States attorney, assistant United States attorney, and attorney appointed under section 543 of this title, before taking office, shall take an oath to execute faithfully his duties.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 618.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 618.)
 
 **Historical and Revision Notes**
 
@@ -176,7 +176,7 @@ Each United States attorney, assistant United States attorney, and attorney appo
 
 **1948 Act**
 
-*Prior section 504.—*Based on section 315 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees, title 28, U.S.C., 1940 ed., § 482, and sections 643 and 863 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions (R.S. §§ 366, 769; June 24, 1898, ch. 495, § 1, 30 Stat. 487; Apr. 12, 1900, ch. 191, § 34, 31 Stat. 85; Apr. 30, 1900, ch. 339, § 86, 31 Stat. 158; Mar. 3, 1909, ch. 269, § 1, 35 Stat. 838; Jan. 7, 1913, ch. 6, 37 Stat. 648; Mar. 2, 1917, ch. 145, § 41, 39 Stat. 965; Mar. 4, 1921, ch. 161, § 1, 41 Stat. 1412; July 9, 1921, ch. 42, § 313, 42 Stat. 119; Feb. 12, 1925, ch. 220, 43 Stat. 890; Apr. 17, 1930, ch. 174, 46 Stat. 170; Mar. 26, 1938, ch. 51, § 2, 52 Stat. 118).
+*Prior section 504.—*Based on section 315 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees, title 28, U.S.C., 1940 ed., § 482, and sections 643 and 863 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions (R.S. §§ 366, 769; June 24, 1898, ch. 495, § 1, 30 Stat. 487; Apr. 12, 1900, ch. 191, § 34, 31 Stat. 85; Apr. 30, 1900, ch. 339, § 86, 31 Stat. 158; Mar. 3, 1909, ch. 269, § 1, 35 Stat. 838; Jan. 7, 1913, ch. 6, 37 Stat. 648; Mar. 2, 1917, ch. 145, § 41, 39 Stat. 965; Mar. 4, 1921, ch. 161, § 1, 41 Stat. 1412; July 9, 1921, ch. 42, § 313, 42 Stat. 119; Feb. 12, 1925, ch. 220, 43 Stat. 890; Apr. 17, 1930, ch. 174, 46 Stat. 170; Mar. 26, 1938, ch. 51, § 2, 52 Stat. 118).
 
 Section consolidates parts of sections 315 of title 5, U.S.C., 1940 ed., and 643 and 863 of title 48, both U.S.C., 1940 ed., with section 482 of title 28, U.S.C., 1940 ed. It is recommended that said section 315 be amended so as to omit those provisions relating to special attorneys to assist “district attorneys” which were used as part of the basis for this section, as other parts of said section 315, relating to special assistants to the Attorney General, and to foreign counsel, are to remain in title 5.
 
@@ -196,15 +196,15 @@ Other changes were made in phraseology.
 
 **Prior Provisions**
 
-A prior section 544, acts June 25, 1948, ch. 646, 62 Stat. 911; Sept. 2, 1958, Pub. L. 85–856, 72 Stat. 1104, related to bonds of United States marshals, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 564 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 544, acts June 25, 1948, ch. 646, 62 Stat. 911; Sept. 2, 1958, Pub. L. 85–856, 72 Stat. 1104, related to bonds of United States marshals, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 564 of this title by section 4(c) of Pub. L. 89–554.
 
-## § 545. Residence
+## § 545. Residence
 
 **(a)** Each United States attorney shall reside in the district for which he is appointed, except that these officers of the District of Columbia, the Southern District of New York, and the Eastern District of New York may reside within 20 miles thereof. Each assistant United States attorney shall reside in the district for which he or she is appointed or within 25 miles thereof. The provisions of this subsection shall not apply to any United States attorney or assistant United States attorney appointed for the Northern Mariana Islands who at the same time is serving in the same capacity in another district. Pursuant to an order from the Attorney General or his designee, a United States attorney or an assistant United States attorney may be assigned dual or additional responsibilities that exempt such officer from the residency requirement in this subsection for a specific period as established by the order and subject to renewal.
 
 **(b)** The Attorney General may determine the official stations of United States attorneys and assistant United States attorneys within the districts for which they are appointed.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 618; amended Pub. L. 95–530, § 1, Oct. 27, 1978, 92 Stat. 2028; Pub. L. 96–91, Oct. 25, 1979, 93 Stat. 700; Pub. L. 103–322, title XXXII, § 320932, Sept. 13, 1994, 108 Stat. 2135; Pub. L. 109–177, title V, § 501(a), Mar. 9, 2006, 120 Stat. 246.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 618; amended Pub. L. 95–530, § 1, Oct. 27, 1978, 92 Stat. 2028; Pub. L. 96–91, Oct. 25, 1979, 93 Stat. 700; Pub. L. 103–322, title XXXII, § 320932, Sept. 13, 1994, 108 Stat. 2135; Pub. L. 109–177, title V, § 501(a), Mar. 9, 2006, 120 Stat. 246.)
 
 **Historical and Revision Notes**
 
@@ -218,7 +218,7 @@ In subsection (a), the word “shall” is substituted for “must”. The word 
 
 **1948 Act**
 
-*Prior section 505.—*Based on title 28, U.S.C., 1940 ed., § 524 (June 20, 1874, ch. 328, § 2, 18 Stat. 109; May 28, 1896, ch. 252, §§ 8, 12, 29 Stat. 181, 183; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; June 14, 1941, ch. 203, §§ 1, 2, 55 Stat. 251).
+*Prior section 505.—*Based on title 28, U.S.C., 1940 ed., § 524 (June 20, 1874, ch. 328, § 2, 18 Stat. 109; May 28, 1896, ch. 252, §§ 8, 12, 29 Stat. 181, 183; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; June 14, 1941, ch. 203, §§ 1, 2, 55 Stat. 251).
 
 The provisions of section 524 of title 28, U.S.C., 1940 ed., that the United States attorney shall give his personal attention to the duties of his office and declaring the office of United States attorney vacant upon his removal from his district or neglect of duty, were omitted as unnecessary and inconsistent with section 507(b) [now 519] of this title, charging the Attorney General with the duty of supervising the United States attorneys in the performance of their duties.
 
@@ -234,7 +234,7 @@ Changes were made in phraseology.
 
 **Prior Provisions**
 
-A prior section 545, act June 25, 1948, ch. 646, 62 Stat. 911, related to vacancies in the office of the United States Marshal, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 565 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 545, act June 25, 1948, ch. 646, 62 Stat. 911, related to vacancies in the office of the United States Marshal, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 565 of this title by section 4(c) of Pub. L. 89–554.
 
 **Amendments**
 
@@ -250,9 +250,9 @@ A prior section 545, act June 25, 1948, ch. 646, 62 Stat. 911, related to vacanc
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–177, title V, § 501(b), Mar. 9, 2006, 120 Stat. 246, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of February 1, 2005.”
+Pub. L. 109–177, title V, § 501(b), Mar. 9, 2006, 120 Stat. 246, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of February 1, 2005.”
 
-## § 546. Vacancies
+## § 546. Vacancies
 
 **(a)** Except as provided in subsection (b), the Attorney General may appoint a United States attorney for the district in which the office of United States attorney is vacant.
 
@@ -266,7 +266,7 @@ Pub. L. 109–177, title V, § 501(b), Mar. 9, 2006, 120 Stat. 246, provided t
 
 **(d)** If an appointment expires under subsection (c)(2), the district court for such district may appoint a United States attorney to serve until the vacancy is filled. The order of appointment by the court shall be filed with the clerk of the court.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 618; amended Pub. L. 99–646, § 69, Nov. 10, 1986, 100 Stat. 3616; Pub. L. 109–177, title V, § 502, Mar. 9, 2006, 120 Stat. 246; Pub. L. 110–34, § 2, June 14, 2007, 121 Stat. 224.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 618; amended Pub. L. 99–646, § 69, Nov. 10, 1986, 100 Stat. 3616; Pub. L. 109–177, title V, § 502, Mar. 9, 2006, 120 Stat. 246; Pub. L. 110–34, § 2, June 14, 2007, 121 Stat. 224.)
 
 **Historical and Revision Notes**
 
@@ -278,7 +278,7 @@ Pub. L. 109–177, title V, § 501(b), Mar. 9, 2006, 120 Stat. 246, provided t
 
 **1948 Act**
 
-*Prior section 506.—*Based on title 28, U.S.C., 1940 ed., § 511 (R.S. § 793; June 24, 1898, ch. 495, § 2, 30 Stat. 487; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167).
+*Prior section 506.—*Based on title 28, U.S.C., 1940 ed., § 511 (R.S. § 793; June 24, 1898, ch. 495, § 2, 30 Stat. 487; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167).
 
 Words “United States attorney” were substituted for “district attorney.” (See Reviser’s Note under section 501 [now 541] of this title.)
 
@@ -294,7 +294,7 @@ Changes were made in phraseology.
 
 **Prior Provisions**
 
-A prior section 546, act June 25, 1948, ch. 646, 62 Stat. 911, related to death of a marshal, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 566 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 546, act June 25, 1948, ch. 646, 62 Stat. 911, related to death of a marshal, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 566 of this title by section 4(c) of Pub. L. 89–554.
 
 **Amendments**
 
@@ -308,7 +308,7 @@ A prior section 546, act June 25, 1948, ch. 646, 62 Stat. 911, related to death 
 
 **Effective Date of 2007 Amendment**
 
-Pub. L. 110–34, § 3, June 14, 2007, 121 Stat. 224, provided that:
+Pub. L. 110–34, § 3, June 14, 2007, 121 Stat. 224, provided that:
 
 > **“(a) In General.—** The amendments made by this Act [amending this section] shall take effect on the date of enactment of this Act [June 14, 2007].
 
@@ -322,7 +322,7 @@ Pub. L. 110–34, § 3, June 14, 2007, 121 Stat. 224, provided that:
 
 > **“(2) Expired appointments.—** If an appointment expires under paragraph (1), the district court for that district may appoint a United States attorney for that district under section 546(d) of title 28, United States Code, as added by this Act.”
 
-## § 547. Duties
+## § 547. Duties
 
 Except as otherwise provided by law, each United States attorney, within his district, shall—
 
@@ -336,7 +336,7 @@ Except as otherwise provided by law, each United States attorney, within his dis
 
 **(5)** make such reports as the Attorney General may direct.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 618.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 618.)
 
 **Historical and Revision Notes**
 
@@ -350,7 +350,7 @@ The word “shall” is substituted for “it shall be the duty of”.
 
 **1948 Act**
 
-*Prior section 507.—*Based on sections 312, 317, 323, 324, 327, 329, 330, 331 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees; second paragraph of section 305e of title 25, U.S.C., 1940 ed., Indians; and title 28, U.S.C., 1940 ed., §§ 485, 486, 487, 488, 489 (R.S. §§ 362, 363, 373, 374, 377, 379–381, 771–775, 838; Feb. 27, 1877, ch. 69, § 1, 19 Stat. 241; Apr. 9, 1910, ch. 152, 36 Stat. 294; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; May 10, 1934, ch. 277, § 512, 48 Stat. 758; Aug. 27, 1935, ch. 748, § 6, 49 Stat. 893).
+*Prior section 507.—*Based on sections 312, 317, 323, 324, 327, 329, 330, 331 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees; second paragraph of section 305e of title 25, U.S.C., 1940 ed., Indians; and title 28, U.S.C., 1940 ed., §§ 485, 486, 487, 488, 489 (R.S. §§ 362, 363, 373, 374, 377, 379–381, 771–775, 838; Feb. 27, 1877, ch. 69, § 1, 19 Stat. 241; Apr. 9, 1910, ch. 152, 36 Stat. 294; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; May 10, 1934, ch. 277, § 512, 48 Stat. 758; Aug. 27, 1935, ch. 748, § 6, 49 Stat. 893).
 
 This section consolidates provisions of the sections enumerated above.
 
@@ -386,13 +386,13 @@ Changes in arrangement and phraseology were made.
 
 **Prior Provisions**
 
-A prior section 547, acts June 25, 1948, ch. 646, 62 Stat. 912; Oct. 18, 1962, Pub. L. 87–845, § 8, 76A Stat. 699, related to powers and duties of marshals, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 569 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 547, acts June 25, 1948, ch. 646, 62 Stat. 912; Oct. 18, 1962, Pub. L. 87–845, § 8, 76A Stat. 699, related to powers and duties of marshals, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 569 of this title by section 4(c) of Pub. L. 89–554.
 
-## § 548. Salaries
+## § 548. Salaries
 
 Subject to sections 5315 through 5317 of title 5, the Attorney General shall fix the annual salaries of United States attorneys, assistant United States attorneys, and attorneys appointed under section 543 of this title at rates of compensation not in excess of the rate of basic compensation provided for Executive Level IV of the Executive Schedule set forth in section 5315 of title 5, United States Code.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 618; amended Pub. L. 98–473, title II, § 1701(a) Oct. 12, 1984, 98 Stat. 2184.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 618; amended Pub. L. 98–473, title II, § 1701(a) Oct. 12, 1984, 98 Stat. 2184.)
 
 **Historical and Revision Notes**
 
@@ -406,7 +406,7 @@ The words “sections 5315–5317 of title 5” are substituted for “subsectio
 
 **1948 Act**
 
-*Prior section 508.—*Based on section 312 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees, and title 28, U.S.C., 1940 ed., §§ 579 and 580 (R.S. § 363; May 28, 1896, ch. 252, §§ 8, 24, 29 Stat. 181, 186; Mar. 3, 1903, ch. 1007, § 1, 32 Stat. 1141; Mar. 4, 1907, ch. 2918, § 1, 34 Stat. 1360; May 27, 1908, ch. 200, § 1, 35 Stat. 375; July 19, 1919, ch. 24, § 1, 41 Stat. 209; June 1, 1922, ch. 204, title II (part), 42 Stat. 616; Jan. 3, 1923, ch. 21, title II, 42 Stat. 1083; Mar. 4, 1923, ch. 295, 42 Stat. 1560; May 28, 1924, ch. 204, title II (part), 43 Stat. 220).
+*Prior section 508.—*Based on section 312 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees, and title 28, U.S.C., 1940 ed., §§ 579 and 580 (R.S. § 363; May 28, 1896, ch. 252, §§ 8, 24, 29 Stat. 181, 186; Mar. 3, 1903, ch. 1007, § 1, 32 Stat. 1141; Mar. 4, 1907, ch. 2918, § 1, 34 Stat. 1360; May 27, 1908, ch. 200, § 1, 35 Stat. 375; July 19, 1919, ch. 24, § 1, 41 Stat. 209; June 1, 1922, ch. 204, title II (part), 42 Stat. 616; Jan. 3, 1923, ch. 21, title II, 42 Stat. 1083; Mar. 4, 1923, ch. 295, 42 Stat. 1560; May 28, 1924, ch. 204, title II (part), 43 Stat. 220).
 
 Section consolidates part of section 312 of title 5, U.S.C., 1940 ed., and part of section 579 of title 28, U.S.C., 1940 ed., with section 580 of title 28, U.S.C., 1940 ed.
 
@@ -424,7 +424,7 @@ Other provisions of section 312 of title 5, U.S.C., 1940 ed., are incorporated i
 
 **Prior Provisions**
 
-A prior section 548, act June 25, 1948, ch. 646, 62 Stat. 912, related to administration of oaths by marshals, prior to repeal by Pub. L. 89–554, § 8(a).
+A prior section 548, act June 25, 1948, ch. 646, 62 Stat. 912, related to administration of oaths by marshals, prior to repeal by Pub. L. 89–554, § 8(a).
 
 **Amendments**
 
@@ -436,35 +436,35 @@ A prior section 548, act June 25, 1948, ch. 646, 62 Stat. 912, related to admini
 
 1969—Increase in the rates of pay of United States Attorneys and Assistant United States Attorneys whose annual salaries are fixed pursuant to this section, effective on the first day of the first pay period which begins on or after Dec. 27, 1969, by amounts equal, as nearly as may be practicable, to the increases provided pursuant to section 2 of Pub. L. 91–231, which raised corresponding rates by 6 percent, see Pub. L. 91–231, formerly set out as a note under section 5332 of Title 5, Government Organization and Employees.
 
-1967—Pub. L. 90–206, title II, § 211(a), Dec. 16, 1967, 81 Stat. 633, provided that: “The rates of basic pay of United States attorneys and assistant United States attorneys whose annual salaries are fixed pursuant to section 548 of title 28, United States Code shall be increased, effective on the effective date of section 202 of this title [see Effective Date of 1967 Amendment note set out under section 5332 of Title 5] by amounts equal, as nearly as may be practicable, to the increases provided by section 202(a) of this title [see section 5332(a) of Title 5] for corresponding rates of basic pay.”
+1967—Pub. L. 90–206, title II, § 211(a), Dec. 16, 1967, 81 Stat. 633, provided that: “The rates of basic pay of United States attorneys and assistant United States attorneys whose annual salaries are fixed pursuant to section 548 of title 28, United States Code shall be increased, effective on the effective date of section 202 of this title [see Effective Date of 1967 Amendment note set out under section 5332 of Title 5] by amounts equal, as nearly as may be practicable, to the increases provided by section 202(a) of this title [see section 5332(a) of Title 5] for corresponding rates of basic pay.”
 
 Section 211(a) of Pub. L. 90–206 effective as of the beginning of the first pay period which begins on or after Oct. 1, 1967, see section 220(a)(2) of Pub. L. 90–206, set out as a note under section 5332 of Title 5.
 
-1966—Pub. L. 89–504, title I, § 108(a), July 18, 1966, 80 Stat. 293, provided that: “The rates of basic compensation of assistant United States attorneys whose basic salaries are fixed pursuant to section 508 of title 28, United States Code [now this section] shall be increased, effective on the effective date of section 102 of this title [first day of the first pay period beginning on or after July 1, 1966], by amounts equal, as nearly as may be practicable, to the increases provided by section 102(a) of this title [see section 5332(a) of Title 5], for corresponding rates of compensation.”
+1966—Pub. L. 89–504, title I, § 108(a), July 18, 1966, 80 Stat. 293, provided that: “The rates of basic compensation of assistant United States attorneys whose basic salaries are fixed pursuant to section 508 of title 28, United States Code [now this section] shall be increased, effective on the effective date of section 102 of this title [first day of the first pay period beginning on or after July 1, 1966], by amounts equal, as nearly as may be practicable, to the increases provided by section 102(a) of this title [see section 5332(a) of Title 5], for corresponding rates of compensation.”
 
 Provision effective July 18, 1966, see section 109(1) of Pub. L. 89–504.
 
-1965—Pub. L. 89–301, § 15(a), Oct. 29, 1965, 79 Stat. 1122, provided that: “The rates of basic compensation of assistant United States attorneys whose basic salaries are fixed pursuant to section 508 of title 28, United States Code, [now this section], shall be increased by 3.6 per centum effective on the first day of the first pay period which begins on or after October 1, 1965.”
+1965—Pub. L. 89–301, § 15(a), Oct. 29, 1965, 79 Stat. 1122, provided that: “The rates of basic compensation of assistant United States attorneys whose basic salaries are fixed pursuant to section 508 of title 28, United States Code, [now this section], shall be increased by 3.6 per centum effective on the first day of the first pay period which begins on or after October 1, 1965.”
 
-1962—Pub. L. 87–793, § 1003(b), Oct. 11, 1962, 76 Stat. 866, provided that: “The rates of basic compensation of assistant United States attorneys whose basic salaries are fixed by section 508 of title 28, United States Code, [now this section], shall be increased by 7½ per centum effective on the first day of the first pay period which begins on or after the date of enactment of this Act [Oct. 11, 1962].”
+1962—Pub. L. 87–793, § 1003(b), Oct. 11, 1962, 76 Stat. 866, provided that: “The rates of basic compensation of assistant United States attorneys whose basic salaries are fixed by section 508 of title 28, United States Code, [now this section], shall be increased by 7½ per centum effective on the first day of the first pay period which begins on or after the date of enactment of this Act [Oct. 11, 1962].”
 
 **Compensation of Incumbent United States Attorneys and Assistant United States Attorneys**
 
-Pub. L. 88–426, § 306(a)(2), Aug. 14, 1962, 78 Stat. 428, as amended by Pub. L. 88–631, § 3(c), Oct. 6, 1964, 78 Stat. 1008, provided that: “Subject to section 303(f) and (g) of this Act [see sections 5315 to 5317 of Title 5, Government Organization and Employees], each incumbent United States attorney and assistant United States attorney shall be paid compensation at a rate equal to that of attorneys of comparable responsibility and professional qualifications, as determined by the Attorney General, whose compensation is prescribed in the General Schedule of the Classification Act of 1949, as amended [now covered by chapter 51 and subchapter III of chapter 53 of Title 5].”
+Pub. L. 88–426, § 306(a)(2), Aug. 14, 1962, 78 Stat. 428, as amended by Pub. L. 88–631, § 3(c), Oct. 6, 1964, 78 Stat. 1008, provided that: “Subject to section 303(f) and (g) of this Act [see sections 5315 to 5317 of Title 5, Government Organization and Employees], each incumbent United States attorney and assistant United States attorney shall be paid compensation at a rate equal to that of attorneys of comparable responsibility and professional qualifications, as determined by the Attorney General, whose compensation is prescribed in the General Schedule of the Classification Act of 1949, as amended [now covered by chapter 51 and subchapter III of chapter 53 of Title 5].”
 
 **Alaska, Canal Zone and Virgin Islands**
 
-Act Mar. 2, 1955, ch. 9, § 2(b), 69 Stat. 10, provided that: “The salaries of United States attorneys and assistant United States attorneys for the districts of Alaska, Canal Zone, and the Virgin Islands are subject to the provisions of section 508 of title 28, United States Code [now this section.]”
+Act Mar. 2, 1955, ch. 9, § 2(b), 69 Stat. 10, provided that: “The salaries of United States attorneys and assistant United States attorneys for the districts of Alaska, Canal Zone, and the Virgin Islands are subject to the provisions of section 508 of title 28, United States Code [now this section.]”
 
 **Salary Limitations**
 
-Acts Aug. 5, 1953, ch. 328, title II, § 202, 67 Stat. 375; July 2, 1954, ch. 456, title II, § 202, 68 Stat. 421, which prescribed salary limitations, were repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 657.
+Acts Aug. 5, 1953, ch. 328, title II, § 202, 67 Stat. 375; July 2, 1954, ch. 456, title II, § 202, 68 Stat. 421, which prescribed salary limitations, were repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 657.
 
-## § 549. Expenses
+## § 549. Expenses
 
 Necessary office expenses of United States attorneys shall be allowed when authorized by the Attorney General.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 618.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 618.)
 
 **Historical and Revision Notes**
 
@@ -490,7 +490,7 @@ Section 9 of the 1949 Act, which is codified in section 5708(3), (4) of title 5,
 
 **1948 Act**
 
-*Prior section 509.—*Based on sections 73 and 318 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees, and title 28, U.S.C., 1940 ed., §§ 586, 587 and 592 (R.S. §§ 368, 833, 834; Mar. 3, 1875, ch. 133, § 1, 18 Stat. 452; May 28, 1896, ch. 252, §§ 13, 14, 24, 29 Stat. 183, 186; Mar. 4, 1907, ch. 2918, § 1, 34 Stat. 1360; May 27, 1908, ch. 200, § 1, 35 Stat. 375; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; July 1, 1918, ch. 113, § 1, 40 Stat. 683; July 19, 1919, ch. 24, § 1, 41 Stat. 209; Dec. 24, 1942, ch. 825, § 3, 56 Stat. 1089).
+*Prior section 509.—*Based on sections 73 and 318 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees, and title 28, U.S.C., 1940 ed., §§ 586, 587 and 592 (R.S. §§ 368, 833, 834; Mar. 3, 1875, ch. 133, § 1, 18 Stat. 452; May 28, 1896, ch. 252, §§ 13, 14, 24, 29 Stat. 183, 186; Mar. 4, 1907, ch. 2918, § 1, 34 Stat. 1360; May 27, 1908, ch. 200, § 1, 35 Stat. 375; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; July 1, 1918, ch. 113, § 1, 40 Stat. 683; July 19, 1919, ch. 24, § 1, 41 Stat. 209; Dec. 24, 1942, ch. 825, § 3, 56 Stat. 1089).
 
 Section consolidates parts of sections 73 and 318 of title 5, U.S.C., 1940 ed., and of sections 586, 587, and 592 of title 28, U.S.C., 1940 ed.
 
@@ -514,13 +514,13 @@ Changes were made in phraseology.
 
 **Prior Provisions**
 
-A prior section 549, act June 25, 1948, ch. 646, 62 Stat. 912, related to the marshal’s power as a sheriff, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 570 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 549, act June 25, 1948, ch. 646, 62 Stat. 912, related to the marshal’s power as a sheriff, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 570 of this title by section 4(c) of Pub. L. 89–554.
 
-## § 550. Clerical assistants, messengers, and private process servers
+## § 550. Clerical assistants, messengers, and private process servers
 
 The United States attorneys may employ clerical assistants, messengers, and private process servers on approval of the Attorney General.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 619; amended Pub. L. 101–647, title XXXVI, § 3626(a), Nov. 29, 1990, 104 Stat. 4965.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 619; amended Pub. L. 101–647, title XXXVI, § 3626(a), Nov. 29, 1990, 104 Stat. 4965.)
 
 **Historical and Revision Notes**
 
@@ -534,7 +534,7 @@ The words “and at salaries fixed by” are omitted as superseded by the Classi
 
 **1948 Act**
 
-*Prior section 510.—*Based on title 28, U.S.C., 1940 ed., §§ 484, 593 (May 28, 1896, ch. 252, § 15, 29 Stat. 183; June 30, 1906, ch. 3914, § 1, 34 Stat. 753; July 19, 1919, ch. 24, § 1, 41 Stat. 209).
+*Prior section 510.—*Based on title 28, U.S.C., 1940 ed., §§ 484, 593 (May 28, 1896, ch. 252, § 15, 29 Stat. 183; June 30, 1906, ch. 3914, § 1, 34 Stat. 753; July 19, 1919, ch. 24, § 1, 41 Stat. 209).
 
 Section consolidates and simplifies sections 484 and 593 of title 28, U.S.C., 1940 ed. For provisions with respect to classified civil service, see sections 631–684 of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees.
 
@@ -554,23 +554,23 @@ Changes were made in phraseology.
 
 **Prior Provisions**
 
-A prior section 550, acts June 25, 1948, ch. 646, 62 Stat. 912; Sept. 9, 1959, Pub. L. 86–243, § 2, 73 Stat. 474, related to disbursement of salaries and expenses, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 571 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 550, acts June 25, 1948, ch. 646, 62 Stat. 912; Sept. 9, 1959, Pub. L. 86–243, § 2, 73 Stat. 474, related to disbursement of salaries and expenses, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 571 of this title by section 4(c) of Pub. L. 89–554.
 
-A prior section 551, act June 25, 1948, ch. 646, 62 Stat. 912, related to the collection of fees by United States marshals, prior to repeal by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 663, and reenactment in section 572 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 551, act June 25, 1948, ch. 646, 62 Stat. 912, related to the collection of fees by United States marshals, prior to repeal by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 663, and reenactment in section 572 of this title by section 4(c) of Pub. L. 89–554.
 
-A prior section 552, act June 25, 1948, ch. 646, 62 Stat. 912, related to the fixing of salaries of United States marshals, their deputies and assistants, by the Attorney General, prior to repeal by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 663, and reenactment in section 571 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 552, act June 25, 1948, ch. 646, 62 Stat. 912, related to the fixing of salaries of United States marshals, their deputies and assistants, by the Attorney General, prior to repeal by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 663, and reenactment in section 571 of this title by section 4(c) of Pub. L. 89–554.
 
-A prior section 553, acts June 25, 1948, ch. 646, 62 Stat. 912; May 24, 1949, ch. 139, § 72, 63 Stat. 100; Aug. 4, 1955, ch. 550, 69 Stat. 492; Aug. 14, 1961, Pub. L. 87–139, § 5, 75 Stat. 340, related to expenses of marshal, prior to repeal by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 663, and reenactment in section 567 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 553, acts June 25, 1948, ch. 646, 62 Stat. 912; May 24, 1949, ch. 139, § 72, 63 Stat. 100; Aug. 4, 1955, ch. 550, 69 Stat. 492; Aug. 14, 1961, Pub. L. 87–139, § 5, 75 Stat. 340, related to expenses of marshal, prior to repeal by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 663, and reenactment in section 567 of this title by section 4(c) of Pub. L. 89–554.
 
-A prior section 554, act June 25, 1948, ch. 646, 62 Stat. 913, related to the delivery of prisoners to the successor marshal, prior to repeal by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 663, and reenactment in section 573 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 554, act June 25, 1948, ch. 646, 62 Stat. 913, related to the delivery of prisoners to the successor marshal, prior to repeal by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 663, and reenactment in section 573 of this title by section 4(c) of Pub. L. 89–554.
 
-A prior section 555, act June 25, 1948, ch. 646, 62 Stat. 913, related to the delivery of all unserved process to the successor marshal or his deputies, prior to repeal by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 663, and reenactment in section 574 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 555, act June 25, 1948, ch. 646, 62 Stat. 913, related to the delivery of all unserved process to the successor marshal or his deputies, prior to repeal by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 663, and reenactment in section 574 of this title by section 4(c) of Pub. L. 89–554.
 
-A prior section 556, act June 25, 1948, ch. 646, 62 Stat. 913, related to the prohibition of the practice of law by a marshal or deputy marshal, prior to repeal by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 663, and reenactment in section 575 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 556, act June 25, 1948, ch. 646, 62 Stat. 913, related to the prohibition of the practice of law by a marshal or deputy marshal, prior to repeal by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 663, and reenactment in section 575 of this title by section 4(c) of Pub. L. 89–554.
 
 **Amendments**
 
-1990—Pub. L. 101–647 substituted “, messengers, and private process servers” for “and messengers” in section catchline and text.
+1990—Pub. L. 101–647 substituted “, messengers, and private process servers” for “and messengers” in section catchline and text.
 
 **Statutory Notes and Related Subsidiaries**
 

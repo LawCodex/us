@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 63—SUPPORT FOR EAST EUROPEAN DEMOCRACY (SEED)
 
-## § 5401. Support for East European Democracy (SEED) Program
+## § 5401. Support for East European Democracy (SEED) Program
 
 **(a) SEED Program**
 
@@ -165,7 +165,7 @@ Medical assistance specifically targeted to overcome severe deficiencies in phar
 
 Encouraging private investment and voluntary private assistance, using a variety of means including a SEED Information Center System and the provision by the Department of Defense of transportation for private nonfinancial contributions.
 
-(Pub. L. 101–179, § 2, Nov. 28, 1989, 103 Stat. 1299; Pub. L. 102–549, title II, § 202(e), Oct. 28, 1992, 106 Stat. 3658; Pub. L. 105–206, title V, § 5003(b)(6), July 22, 1998, 112 Stat. 790; Pub. L. 115–254, div. F, title VI, § 1470(m)(1), Oct. 5, 2018, 132 Stat. 3518.)
+(Pub. L. 101–179, § 2, Nov. 28, 1989, 103 Stat. 1299; Pub. L. 102–549, title II, § 202(e), Oct. 28, 1992, 106 Stat. 3658; Pub. L. 105–206, title V, § 5003(b)(6), July 22, 1998, 112 Stat. 790; Pub. L. 115–254, div. F, title VI, § 1470(m)(1), Oct. 5, 2018, 132 Stat. 3518.)
 
 **Editorial Notes**
 
@@ -173,7 +173,7 @@ Encouraging private investment and voluntary private assistance, using a variety
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (c)(14), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (c)(14), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Amendments**
 
@@ -191,7 +191,7 @@ Amendment by Pub. L. 115–254 effective at the end of the transition period, as
 
 **Short Title**
 
-Pub. L. 101–179, § 1(a), Nov. 28, 1989, 103 Stat. 1298, provided that: “This Act [enacting this chapter and section 2185 of this title, amending sections 2184 and 2199 of this title, section 1757 of Title 12, Banks and Banking, and section 2462 of Title 19, Customs Duties, enacting provisions set out as notes under sections 2185, 2199, and 2421 of this title, section 635 of Title 12, and section 7872 of Title 26, Internal Revenue Code, and amending provisions set out as a note under section 7872 of Title 26] may be cited as the ‘Support for East European Democracy (SEED) Act of 1989’.”
+Pub. L. 101–179, § 1(a), Nov. 28, 1989, 103 Stat. 1298, provided that: “This Act [enacting this chapter and section 2185 of this title, amending sections 2184 and 2199 of this title, section 1757 of Title 12, Banks and Banking, and section 2462 of Title 19, Customs Duties, enacting provisions set out as notes under sections 2185, 2199, and 2421 of this title, section 635 of Title 12, and section 7872 of Title 26, Internal Revenue Code, and amending provisions set out as a note under section 7872 of Title 26] may be cited as the ‘Support for East European Democracy (SEED) Act of 1989’.”
 
 **Transfer of Functions**
 
@@ -201,7 +201,7 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 **Ex. Ord. No. 12703. Support for East European Democracy (SEED) Program**
 
-Ex. Ord. No. 12703, Feb. 20, 1990, 55 F.R. 6351, as amended by Ex. Ord. No. 13118, § 10(2), Mar. 31, 1999, 64 F.R. 16598, provided:
+Ex. Ord. No. 12703, Feb. 20, 1990, 55 F.R. 6351, as amended by Ex. Ord. No. 13118, § 10(2), Mar. 31, 1999, 64 F.R. 16598, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including the Support for East European Democracy (SEED) Act (P.L. 101–179, hereinafter referred to as the “Act”) [22 U.S.C. 5401 et seq.] and section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
 
@@ -215,7 +215,7 @@ Sec. 4. *Department of the Treasury*. The functions conferred upon the President
 
 George Bush.
 
-## § 5402. Scope of authority
+## § 5402. Scope of authority
 
 **(a) General authorization**
 
@@ -229,7 +229,7 @@ In order to strengthen the administration of justice in East European countries,
 
 For purposes of this chapter, the term “East European country” includes Albania, Bulgaria, the Czech and Slovak Federal Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Romania, and states that were part of the former Socialist Federal Republic of Yugoslavia.
 
-(Pub. L. 101–179, § 3, as added Pub. L. 102–511, title IX, § 903(a), Oct. 24, 1992, 106 Stat. 3355.)
+(Pub. L. 101–179, § 3, as added Pub. L. 102–511, title IX, § 903(a), Oct. 24, 1992, 106 Stat. 3355.)
 
 **Editorial Notes**
 
@@ -241,7 +241,7 @@ Sections 301 and 304, referred to in subsec. (a), are sections 301 and 304 of Pu
 
 ## SUBCHAPTER I—STRUCTURAL ADJUSTMENT
 
-### § 5411. Multilateral support for structural adjustment in Poland and Hungary
+### § 5411. Multilateral support for structural adjustment in Poland and Hungary
 
 **(a) Multilateral assistance for Poland and Hungary**
 
@@ -271,9 +271,9 @@ In furtherance of paragraph (1), the Secretary of the Treasury shall direct the 
 
 The United States Government shall provide agricultural assistance for Poland in accordance with section 5413 of this title.
 
-(Pub. L. 101–179, title I, § 101, Nov. 28, 1989, 103 Stat. 1302.)
+(Pub. L. 101–179, title I, § 101, Nov. 28, 1989, 103 Stat. 1302.)
 
-### § 5412. Stabilization assistance for Poland
+### § 5412. Stabilization assistance for Poland
 
 **(a) Immediate emergency assistance** To the extent that the ongoing International Monetary Fund review of the Polish economy projects a probable balance of payments shortage for the fourth quarter of 1989, the United States Government, in carrying out paragraph (1) of section 5411(b) of this title—
 
@@ -295,15 +295,15 @@ In order to carry out paragraph (1) of section 5411(b) of this title, the Presid
 
 For purposes of providing the assistance authorized by this subsection, there are authorized to be appropriated $200,000,000 for fiscal year 1990 to carry out chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2346 and following; relating to the economic support fund), in addition to amounts otherwise available for such purposes.
 
-(Pub. L. 101–179, title I, § 102, Nov. 28, 1989, 103 Stat. 1303.)
+(Pub. L. 101–179, title I, § 102, Nov. 28, 1989, 103 Stat. 1303.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (c)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Foreign Assistance Act of 1961 is classified to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (c)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Foreign Assistance Act of 1961 is classified to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-### § 5413. Agricultural assistance
+### § 5413. Agricultural assistance
 
 **(a) Agricultural assistance strategy**
 
@@ -339,13 +339,13 @@ In participating in such multilateral agricultural assistance, the United States
 
 Subsection (c) should not be construed to authorize or require any budgetary obligations or outlays that are inconsistent with House Concurrent Resolution 106 of the 101st Congress (setting forth the congressional budget for the United States Government for fiscal year 1990).
 
-(Pub. L. 101–179, title I, § 103, Nov. 28, 1989, 103 Stat. 1303; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(U), June 18, 2008, 122 Stat. 1820, 1821.)
+(Pub. L. 101–179, title I, § 103, Nov. 28, 1989, 103 Stat. 1303; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(U), June 18, 2008, 122 Stat. 1820, 1821.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food for Peace Act, referred to in subsec. (c), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, referred to in subsec. (c), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 House Concurrent Resolution 106 of the 101st Congress, referred to in subsec. (d), is H. Con. Res. 106, May 18, 1989, 103 Stat. 2450, which is not classified to the Code.
 
@@ -359,7 +359,7 @@ House Concurrent Resolution 106 of the 101st Congress, referred to in subsec. (d
 
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-### § 5414. Debt-for-equity swaps and other special techniques
+### § 5414. Debt-for-equity swaps and other special techniques
 
 **(a) Reduction of debt burden**
 
@@ -375,7 +375,7 @@ Notwithstanding any other provision of law, the President may undertake the disc
 
 **(2)** for an equity interest in an enterprise theretofore owned by the particular East European government.
 
-(Pub. L. 101–179, title I, § 104, Nov. 28, 1989, 103 Stat. 1304.)
+(Pub. L. 101–179, title I, § 104, Nov. 28, 1989, 103 Stat. 1304.)
 
 **Executive Documents**
 
@@ -385,7 +385,7 @@ Functions of President under this section delegated to Secretary of the Treasury
 
 ## SUBCHAPTER II—PRIVATE SECTOR DEVELOPMENT
 
-### § 5421. Enterprise Funds for Poland and Hungary
+### § 5421. Enterprise Funds for Poland and Hungary
 
 **(a) Purposes** The purposes of this section are to promote—
 
@@ -421,9 +421,9 @@ The President shall consult with the leadership of each House of Congress before
 
 **(A)** Each Enterprise Fund shall be governed by a Board of Directors comprised of private citizens of the United States, and citizens of the respective host country, who have demonstrated experience and expertise in those areas of private sector development in which the Enterprise Fund is involved.
 
-**(B)** A majority of the members of the Board of Directors of each Enterprise Fund shall be United States citizens.: 1
+**(B)** A majority of the members of the Board of Directors of each Enterprise Fund shall be United States citizens.: 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 *Provided*, That, as to Enterprise Funds established with respect to more than one host country, such Enterprise Fund may, in lieu of the appointment of citizens of the host countries to its Board of Directors, establish an advisory council for the host region comprised of citizens of each of the host countries or establish separate advisory councils for each of the host countries (hereinafter in this section referred to as the “Advisory Councils”), with which the Enterprise Fund’s policies and proposed activities and such host country citizens shall satisfy the experience and expertise requirements of this clause.
 
@@ -523,7 +523,7 @@ The financial transactions undertaken pursuant to this section by each Enterpris
 
 Each Enterprise Fund shall publish an annual report, which shall include a comprehensive and detailed description of the Enterprise Fund’s operations, activities, financial condition, and accomplishments under this section for the preceding fiscal year. This report shall be published not later than January 31 each year, beginning in 1991.
 
-(Pub. L. 101–179, title II, § 201, Nov. 28, 1989, 103 Stat. 1305; Pub. L. 104–107, title II, [(v)], Feb. 12, 1996, 110 Stat. 714; Pub. L. 105–118, title V, § 588, Nov. 26, 1997, 111 Stat. 2438; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 115–254, div. F, title VI, § 1470(m)(2), Oct. 5, 2018, 132 Stat. 3518.)
+(Pub. L. 101–179, title II, § 201, Nov. 28, 1989, 103 Stat. 1305; Pub. L. 104–107, title II, [(v)], Feb. 12, 1996, 110 Stat. 714; Pub. L. 105–118, title V, § 588, Nov. 26, 1997, 111 Stat. 2438; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 115–254, div. F, title VI, § 1470(m)(2), Oct. 5, 2018, 132 Stat. 3518.)
 
 **Editorial Notes**
 
@@ -541,7 +541,7 @@ The date of enactment of this subsection, referred to in subsec. (*l*)(3), proba
 
 1997—Subsec. (*l*). Pub. L. 105–118, which directed the general amendment of section 201(*l*) of the Support for East European Democracy Act, was executed by amending heading and text of section 201(*l*) of the Support for East European Democracy (SEED) Act of 1989, subsec. (*l*) of this section, generally, to reflect the probable intent of Congress. Prior to amendment, text read as follows: “No part of the funds of either Enterprise Fund shall inure to the benefit of any board member, officer, or employee of such Enterprise Fund, except as salary or reasonable compensation for services.”
 
-1996—Subsec. (d)(3)(B). Pub. L. 104–107 inserted at end “: *Provided*, That, as to Enterprise Funds established with respect to more than one host country, such Enterprise Fund may, in lieu of the appointment of citizens of the host countries to its Board of Directors, establish an advisory council for the host region comprised of citizens of each of the host countries or establish separate advisory councils for each of the host countries (hereinafter in this section referred to as the ‘Advisory Councils’), with which the Enterprise Fund’s policies and proposed activities and such host country citizens shall satisfy the experience and expertise requirements of this clause.”
+1996—Subsec. (d)(3)(B). Pub. L. 104–107 inserted at end “: *Provided*, That, as to Enterprise Funds established with respect to more than one host country, such Enterprise Fund may, in lieu of the appointment of citizens of the host countries to its Board of Directors, establish an advisory council for the host region comprised of citizens of each of the host countries or establish separate advisory councils for each of the host countries (hereinafter in this section referred to as the ‘Advisory Councils’), with which the Enterprise Fund’s policies and proposed activities and such host country citizens shall satisfy the experience and expertise requirements of this clause.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -555,7 +555,7 @@ Amendment by Pub. L. 115–254 effective at the end of the transition period, as
 
 Functions of President under this section relating to Enterprise Funds for Poland and Hungary delegated to Secretary of State by section 2 of Ex. Ord. No. 12703, Feb. 20, 1990, 55 F.R. 6351, as amended, set out as a note under section 5401 of this title.
 
-### § 5422. Labor market transition in Poland and Hungary
+### § 5422. Labor market transition in Poland and Hungary
 
 **(a) Technical assistance** The Secretary of Labor (hereinafter in this section referred to as the “Secretary”), in consultation with representatives of labor and business in the United States, shall—
 
@@ -599,19 +599,19 @@ The Secretary shall delegate the authority to carry out the programs authorized 
 
 **(2)** $1,000,000 for technical assistance to Hungary.
 
-(Pub. L. 101–179, title II, § 202, Nov. 28, 1989, 103 Stat. 1308; Pub. L. 117–286, § 4(a)(171), Dec. 27, 2022, 136 Stat. 4324.)
+(Pub. L. 101–179, title II, § 202, Nov. 28, 1989, 103 Stat. 1308; Pub. L. 117–286, § 4(a)(171), Dec. 27, 2022, 136 Stat. 4324.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (c)(1), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 and following)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(1), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 and following)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
 Subsec. (e). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).”
 
-### § 5423. Technical training for private sector development in Poland and Hungary
+### § 5423. Technical training for private sector development in Poland and Hungary
 
 **(a) Technical training program**
 
@@ -643,13 +643,13 @@ For purposes of implementing this section, there are authorized to be appropriat
 
 Any activities carried out pursuant to this chapter through the Farmer-to-Farmer Program under section 1736(a)(1) and (2) of title 7 shall be funded with funds authorized to be appropriated by this chapter and local currencies made available under section 5425 of this title, and shall not be funded with funds made available pursuant to section 1107 of the Food Security Act of 1985 (7 U.S.C. 1736 note) or a similar, subsequent provision of law.
 
-(Pub. L. 101–179, title II, § 203, Nov. 28, 1989, 103 Stat. 1309; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(U), June 18, 2008, 122 Stat. 1820, 1821.)
+(Pub. L. 101–179, title II, § 203, Nov. 28, 1989, 103 Stat. 1309; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(U), June 18, 2008, 122 Stat. 1820, 1821.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (c) and (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Foreign Assistance Act of 1961 is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. Chapter 1 of part I of the Foreign Assistance Act of 1961 is classified generally to part I (§ 2151 et seq.) of subchapter I of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (c) and (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Foreign Assistance Act of 1961 is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. Chapter 1 of part I of the Foreign Assistance Act of 1961 is classified generally to part I (§ 2151 et seq.) of subchapter I of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 This chapter, referred to in subsec. (e), was in the original “this Act”, meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
 
@@ -665,7 +665,7 @@ Section 1107 of the Food Security Act of 1985, referred to in subsec. (e), is se
 
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-### § 5424. Peace Corps programs in Poland and Hungary
+### § 5424. Peace Corps programs in Poland and Hungary
 
 There are authorized to be appropriated to carry out programs in Poland and Hungary under the Peace Corps Act [22 U.S.C. 2501 et seq.], $6,000,000 for the 3-year period beginning October 1, 1989, in addition to amounts otherwise available for such purposes. Such programs shall include the use of Peace Corps volunteers—
 
@@ -673,15 +673,15 @@ There are authorized to be appropriated to carry out programs in Poland and Hung
 
 **(2)** to extend the technical skills described in section 5423(a) of this title to the people of Poland and Hungary, using the Associate Volunteer Program to the extent practicable.
 
-(Pub. L. 101–179, title II, § 204, Nov. 28, 1989, 103 Stat. 1310.)
+(Pub. L. 101–179, title II, § 204, Nov. 28, 1989, 103 Stat. 1310.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Peace Corps Act, referred to in text, is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§ 2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+The Peace Corps Act, referred to in text, is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§ 2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
-### § 5425. Use of Polish currency generated by agricultural assistance
+### § 5425. Use of Polish currency generated by agricultural assistance
 
 **(a) Additional assistance for Poland** A portion of the agricultural commodities described in subsection (c) may be made available and sold or bartered in Poland to generate local currencies to be used—
 
@@ -703,7 +703,7 @@ Subsection (a) applies with respect to agricultural commodities made available f
 
 The uses of agricultural commodities and local currencies specified in subsection (a) are in addition to other uses authorized by law.
 
-(Pub. L. 101–179, title II, § 205, Nov. 28, 1989, 103 Stat. 1310; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(U), June 18, 2008, 122 Stat. 1820, 1821.)
+(Pub. L. 101–179, title II, § 205, Nov. 28, 1989, 103 Stat. 1310; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(U), June 18, 2008, 122 Stat. 1820, 1821.)
 
 **Editorial Notes**
 
@@ -711,7 +711,7 @@ The uses of agricultural commodities and local currencies specified in subsectio
 
 Section 2226 of the American Aid to Poland Act of 1988, referred to in subsec. (a)(2), is section 2226 of Pub. L. 100–418, which is set out as a note under section 1431 of Title 7, Agriculture.
 
-The Food for Peace Act, referred to in subsec. (c), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§ 1691 et seq.) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, referred to in subsec. (c), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§ 1691 et seq.) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 **Amendments**
 
@@ -723,7 +723,7 @@ The Food for Peace Act, referred to in subsec. (c), is act July 10, 1954, ch. 46
 
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-### § 5426. United States policy of private financial support for Polish and Hungarian credit unions
+### § 5426. United States policy of private financial support for Polish and Hungarian credit unions
 
 **(a) In general** In order to facilitate the development of indigenous credit unions in Poland and Hungary, it is the policy of the United States that—
 
@@ -747,7 +747,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 **(B)** any insured credit union (as defined in section 1752(7) of title 12).
 
-(Pub. L. 101–179, title II, § 206, Nov. 28, 1989, 103 Stat. 1310.)
+(Pub. L. 101–179, title II, § 206, Nov. 28, 1989, 103 Stat. 1310.)
 
 **Editorial Notes**
 
@@ -757,7 +757,7 @@ Section is comprised of section 206 of Pub. L. 101–179. Subsec. (b) of section
 
 ## SUBCHAPTER III—EDUCATIONAL, CULTURAL, AND SCIENTIFIC ACTIVITIES
 
-### § 5441. Educational and cultural exchanges and sister institutions programs with Poland and Hungary
+### § 5441. Educational and cultural exchanges and sister institutions programs with Poland and Hungary
 
 **(a) Educational and cultural exchanges**
 
@@ -785,7 +785,7 @@ The President shall act to encourage the establishment of “sister institution�
 
 To enable the United States Information Agency to support the activities described in this section, there are authorized to be appropriated $12,000,000 for the 3-year period beginning October 1, 1989, in addition to amounts otherwise available for such purposes.
 
-(Pub. L. 101–179, title IV, § 401, Nov. 28, 1989, 103 Stat. 1314.)
+(Pub. L. 101–179, title IV, § 401, Nov. 28, 1989, 103 Stat. 1314.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -793,7 +793,7 @@ To enable the United States Information Agency to support the activities describ
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-### § 5442. Poland-Hungary scholarship partnership
+### § 5442. Poland-Hungary scholarship partnership
 
 **(a) Establishment of scholarship program**
 
@@ -839,13 +839,13 @@ Prohibitions on the use of foreign assistance funds for assistance for Poland an
 
 As used in this section, the term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
 
-(Pub. L. 101–179, title IV, § 402, Nov. 28, 1989, 103 Stat. 1315.)
+(Pub. L. 101–179, title IV, § 402, Nov. 28, 1989, 103 Stat. 1315.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (i), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 1 of part I and chapter 4 of part II of the Foreign Assistance Act of 1961 are classified generally to part I (§ 2151 et seq.) of subchapter I and part IV (§ 2346 et seq.) of subchapter II, respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (i), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 1 of part I and chapter 4 of part II of the Foreign Assistance Act of 1961 are classified generally to part I (§ 2151 et seq.) of subchapter I and part IV (§ 2346 et seq.) of subchapter II, respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Executive Documents**
 
@@ -853,7 +853,7 @@ The Foreign Assistance Act of 1961, referred to in subsec. (i), is Pub. L. 87–
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-### § 5443. Science and technology exchange with Poland and Hungary
+### § 5443. Science and technology exchange with Poland and Hungary
 
 **(a) Agreement with Poland** There are authorized to be appropriated to the Secretary of State for purposes of continuing to implement the 1987 United States-Polish science and technology agreement—
 
@@ -877,11 +877,11 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 **(2)** the term “1989 United States-Hungarian science and technology agreement” refers to the agreement concluded in 1989 by the United States and Hungary, entitled “Agreement Between the Government of the United States of America and the Government of the Hungarian People’s Republic for Scientific and Technology Cooperation”, together with annexes relating thereto.
 
-(Pub. L. 101–179, title IV, § 403, Nov. 28, 1989, 103 Stat. 1316.)
+(Pub. L. 101–179, title IV, § 403, Nov. 28, 1989, 103 Stat. 1316.)
 
 ## SUBCHAPTER IV—OTHER ASSISTANCE PROGRAMS
 
-### § 5451. Assistance in support of democratic institutions in Poland and Hungary
+### § 5451. Assistance in support of democratic institutions in Poland and Hungary
 
 **(a) Authorization of assistance**
 
@@ -891,15 +891,15 @@ In addition to amounts otherwise available for such purposes, there are authoriz
 
 Assistance may be provided under this section notwithstanding any other provision of law.
 
-(Pub. L. 101–179, title V, § 501, Nov. 28, 1989, 103 Stat. 1317.)
+(Pub. L. 101–179, title V, § 501, Nov. 28, 1989, 103 Stat. 1317.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Foreign Assistance Act of 1961 is classified to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Foreign Assistance Act of 1961 is classified to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-### § 5452. Environmental initiatives for Poland and Hungary
+### § 5452. Environmental initiatives for Poland and Hungary
 
 **(a) Priority for control of pollution**
 
@@ -921,9 +921,9 @@ The Administrator shall work with other United States and Hungarian officials an
 
 **(e) Funding of EPA activities**
 
-To enable the Environmental Protection Agency to carry out subsections (b), (c), and (d), there are authorized to be appropriated $10,000,000 for the 3-year period beginning October 1, 1989, to carry out chapter 1 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 and following; relating to development assistance) or chapter 4 of Part 1
+To enable the Environmental Protection Agency to carry out subsections (b), (c), and (d), there are authorized to be appropriated $10,000,000 for the 3-year period beginning October 1, 1989, to carry out chapter 1 of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 and following; relating to development assistance) or chapter 4 of Part 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 II of that Act (22 U.S.C. 2346 and following; relating to the economic support fund). These funds may be used to carry out those subsections notwithstanding any provision of law relating to the use of foreign assistance funds.
 
@@ -949,15 +949,15 @@ In view of the high energy usage per unit of output in Hungary and Poland, the S
 
 It is the sense of the Congress that the Executive branch should work with the Government of Hungary to achieve environmentally safe alternative investments in energy efficiency, particularly with regard to projects along the Danube River.
 
-(Pub. L. 101–179, title V, § 502, Nov. 28, 1989, 103 Stat. 1317.)
+(Pub. L. 101–179, title V, § 502, Nov. 28, 1989, 103 Stat. 1317.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (e), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 1 of part I and chapter 4 of part II of the Foreign Assistance Act of 1961 are classified generally to part I (§ 2151 et seq.) of subchapter I and part IV (§ 2346 et seq.) of subchapter II, respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (e), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 1 of part I and chapter 4 of part II of the Foreign Assistance Act of 1961 are classified generally to part I (§ 2151 et seq.) of subchapter I and part IV (§ 2346 et seq.) of subchapter II, respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-### § 5453. Medical supplies, hospital equipment, and medical training for Poland
+### § 5453. Medical supplies, hospital equipment, and medical training for Poland
 
 **(a) Authorization of assistance** In addition to amounts otherwise available for such purposes, there are authorized to be appropriated to carry out chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2346 and following; relating to the economic support fund) $4,000,000 for the 3-year period beginning October 1, 1989, which shall be available only—
 
@@ -971,23 +971,23 @@ The Foreign Assistance Act of 1961, referred to in subsec. (e), is Pub. L. 87–
 
 **(2)** any provision of the annual Foreign Operations, Export Financing, and Related Programs Appropriations Act that relates to abortion.
 
-(Pub. L. 101–179, title V, § 503, Nov. 28, 1989, 103 Stat. 1318.)
+(Pub. L. 101–179, title V, § 503, Nov. 28, 1989, 103 Stat. 1318.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Foreign Assistance Act of 1961 is classified to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Foreign Assistance Act of 1961 is classified to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Foreign Operations, Export Financing, and Related Programs Appropriations Act, referred to in subsec. (b)(2), is for fiscal year 1990, Pub. L. 101–167, Nov. 21, 1989, 103 Stat. 1195. For complete classification of this and other Foreign Operations, Export Financing, and Related Programs Appropriations Acts to the Code, see Tables.
 
 ## SUBCHAPTER V—ADDITIONAL SEED PROGRAM ACTIONS
 
-### § 5461. Policy coordination of SEED Program
+### § 5461. Policy coordination of SEED Program
 
 The President shall designate, within the Department of State, a SEED Program coordinator who shall be directly responsible for overseeing and coordinating all programs described in this chapter and all other activities that the United States Government conducts in furtherance of the purposes of this chapter.
 
-(Pub. L. 101–179, title VI, § 601, Nov. 28, 1989, 103 Stat. 1319.)
+(Pub. L. 101–179, title VI, § 601, Nov. 28, 1989, 103 Stat. 1319.)
 
 **Editorial Notes**
 
@@ -995,7 +995,7 @@ The President shall designate, within the Department of State, a SEED Program co
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
 
-### § 5462. SEED Information Center System
+### § 5462. SEED Information Center System
 
 **(a) Establishment**
 
@@ -1019,7 +1019,7 @@ The President shall establish a SEED Information Center System, using existing E
 
 The SEED Information Center System shall be based jointly in Washington, District of Columbia; Warsaw, Poland; and Budapest, Hungary; and should it become appropriate, the capitals of other East European countries.
 
-(Pub. L. 101–179, title VI, § 602, Nov. 28, 1989, 103 Stat. 1319.)
+(Pub. L. 101–179, title VI, § 602, Nov. 28, 1989, 103 Stat. 1319.)
 
 **Executive Documents**
 
@@ -1027,29 +1027,29 @@ The SEED Information Center System shall be based jointly in Washington, Distric
 
 Functions of President under this section delegated to Secretary of Commerce by section 3 of Ex. Ord. No. 12703, Feb. 20, 1990, 55 F.R. 6351, set out as a note under section 5401 of this title.
 
-### § 5463. Encouraging voluntary assistance for Poland and Hungary
+### § 5463. Encouraging voluntary assistance for Poland and Hungary
 
 **(a) Encouraging private contributions**
 
 It is the sense of the Congress that the President should take all possible steps to encourage across the Nation a massive outpouring of private contributions of money and nonperishable foods, to be collected by civic, religious, school, and youth organizations, for assistance to Poland and to refugees from Romania who are in Hungary.
 
-**(b) Transportation to Poland of private contributions** In further 1
+**(b) Transportation to Poland of private contributions** In further 1
 
-<sup>1</sup>  So in original. Probably should be “furtherance”.
+<sup>1</sup> So in original. Probably should be “furtherance”.
 
 of subsection (a), the President—
 
 **(1)** using all available authorities, including section 402 of title 10 (relating to transportation of humanitarian relief supplies), should use resources of the Department of Defense (including the National Guard) to transport nonfinancial private contributions to Poland,2
 
-<sup>2</sup>  So in original. The comma probably should be a semicolon.
+<sup>2</sup> So in original. The comma probably should be a semicolon.
 
 **(2)** should request additional authorities as needed for the use of those resources for that purpose; and
 
 **(3)** should encourage maximum participation by such recognized private and voluntary organizations as the Polish-American Congress in the transportation of nonfinancial private contributions to Poland.
 
-(Pub. L. 101–179, title VI, § 603, Nov. 28, 1989, 103 Stat. 1319.)
+(Pub. L. 101–179, title VI, § 603, Nov. 28, 1989, 103 Stat. 1319.)
 
-### § 5464. Economic and commercial officers at United States embassies and missions in Poland and Hungary
+### § 5464. Economic and commercial officers at United States embassies and missions in Poland and Hungary
 
 It is the sense of the Congress that, to the extent practicable—
 
@@ -1061,17 +1061,17 @@ It is the sense of the Congress that, to the extent practicable—
 
 **(4)** the United States mission in Krakow, Poland, should be assigned one additional economic and commercial officer.
 
-(Pub. L. 101–179, title VI, § 604, Nov. 28, 1989, 103 Stat. 1320.)
+(Pub. L. 101–179, title VI, § 604, Nov. 28, 1989, 103 Stat. 1320.)
 
 ## SUBCHAPTER VI—REPORTS TO CONGRESS
 
-### § 5471. Report on initial steps taken by United States and on Poland’s requirement for agricultural assistance
+### § 5471. Report on initial steps taken by United States and on Poland’s requirement for agricultural assistance
 
 **(a) Initial report** Not later than 60 days after November 28, 1989, the President shall submit a report to the Congress—
 
-**(1)** describing the steps taken by the United States Government pursuant to subchapter I, in particular sections 1
+**(1)** describing the steps taken by the United States Government pursuant to subchapter I, in particular sections 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 5412(a) and (b) of this title;
 
@@ -1083,7 +1083,7 @@ It is the sense of the Congress that, to the extent practicable—
 
 As additional information becomes available, the President shall provide to the Congress revised assessments of Poland’s requirements for agricultural assistance during fiscal years 1991 and 1992, specifying how much agricultural assistance the President proposes be provided by the United States to meet those requirements.
 
-(Pub. L. 101–179, title VII, § 701, Nov. 28, 1989, 103 Stat. 1320.)
+(Pub. L. 101–179, title VII, § 701, Nov. 28, 1989, 103 Stat. 1320.)
 
 **Executive Documents**
 
@@ -1091,7 +1091,7 @@ As additional information becomes available, the President shall provide to the 
 
 Functions of President under this subchapter relating to reports to Congress delegated to Coordinator of the SEED Program by section 1 of Ex. Ord. No. 12703, Feb. 20, 1990, 55 F.R. 6351, set out as a note under section 5401 of this title.
 
-### § 5472. Report on confidence building measures by Poland and Hungary
+### § 5472. Report on confidence building measures by Poland and Hungary
 
 Not later than 180 days after November 28, 1989, the President shall submit a report to the Congress identifying—
 
@@ -1099,15 +1099,15 @@ Not later than 180 days after November 28, 1989, the President shall submit a re
 
 **(2)** the confidence building measures Poland and Hungary could undertake with respect to the treatment accorded those countries under the Export Administration Act of 1979.
 
-(Pub. L. 101–179, title VII, § 702, Nov. 28, 1989, 103 Stat. 1320.)
+(Pub. L. 101–179, title VII, § 702, Nov. 28, 1989, 103 Stat. 1320.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Export Administration Act of 1979, referred to in par. (2), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
+The Export Administration Act of 1979, referred to in par. (2), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
 
-### § 5473. Report on environmental problems in Poland and Hungary
+### § 5473. Report on environmental problems in Poland and Hungary
 
 The first report submitted pursuant to section 5474 of this title shall include the following:
 
@@ -1133,9 +1133,9 @@ An analysis of the priorities that Poland and Hungary should each assign in addr
 
 **(D)** recommendations for minimizing further environmental damage to Krakow, and for the protection and restoration of historic sites in that city.
 
-(Pub. L. 101–179, title VII, § 703, Nov. 28, 1989, 103 Stat. 1321.)
+(Pub. L. 101–179, title VII, § 703, Nov. 28, 1989, 103 Stat. 1321.)
 
-### § 5474. Annual SEED Program report
+### § 5474. Annual SEED Program report
 
 **(a) Findings** The Congress finds that—
 
@@ -1147,13 +1147,13 @@ An analysis of the priorities that Poland and Hungary should each assign in addr
 
 **(b) Initial SEED Program report**
 
-Accordingly, the first report pursuant to subsection (c) 1
+Accordingly, the first report pursuant to subsection (c) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall be a comprehensive report that includes a full description of all SEED Actions taken pursuant to each provision of this chapter since November 28, 1989.
 
-(Pub. L. 101–179, title VII, § 704, Nov. 28, 1989, 103 Stat. 1321; Pub. L. 112–74, div. I, title VII, § 7034(n), Dec. 23, 2011, 125 Stat. 1217.)
+(Pub. L. 101–179, title VII, § 704, Nov. 28, 1989, 103 Stat. 1321; Pub. L. 112–74, div. I, title VII, § 7034(n), Dec. 23, 2011, 125 Stat. 1217.)
 
 **Editorial Notes**
 
@@ -1161,37 +1161,37 @@ shall be a comprehensive report that includes a full description of all SEED Act
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
 
-Subsection (c), referred to in subsec. (b), was repealed by Pub. L. 112–74, div. I, title VII, § 7034(n), Dec. 23, 2011, 125 Stat. 1217.
+Subsection (c), referred to in subsec. (b), was repealed by Pub. L. 112–74, div. I, title VII, § 7034(n), Dec. 23, 2011, 125 Stat. 1217.
 
 **Amendments**
 
 2011—Subsec. (c). Pub. L. 112–74 struck out subsec. (c), which required President to submit annual SEED Program report.
 
-### § 5475. Omitted
+### § 5475. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 101–179, title VII, § 705, Nov. 28, 1989, 103 Stat. 1322, which required the President to submit to appropriate committees of Congress an annual report on the extent of espionage activities against the United States and other member countries of the North Atlantic Treaty Organization by operatives of the government of any East European country that was receiving assistance under this chapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 33 of House Document No. 103–7.
+Section, Pub. L. 101–179, title VII, § 705, Nov. 28, 1989, 103 Stat. 1322, which required the President to submit to appropriate committees of Congress an annual report on the extent of espionage activities against the United States and other member countries of the North Atlantic Treaty Organization by operatives of the government of any East European country that was receiving assistance under this chapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 33 of House Document No. 103–7.
 
-### § 5476. Notifications to Congress regarding assistance
+### § 5476. Notifications to Congress regarding assistance
 
 Section 634A of the Foreign Assistance Act of 1961 (22 U.S.C. 2394–1; relating to reprogramming notifications) applies with respect to obligations of funds made available under that Act [22 U.S.C. 2151 et seq.] to carry out this chapter, notwithstanding any other provision of this chapter.
 
-(Pub. L. 101–179, title VII, § 706, Nov. 28, 1989, 103 Stat. 1322.)
+(Pub. L. 101–179, title VII, § 706, Nov. 28, 1989, 103 Stat. 1322.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in text, is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in text, is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
 
 ## SUBCHAPTER VII—MISCELLANEOUS PROVISIONS
 
-### § 5491. Suspension of SEED assistance
+### § 5491. Suspension of SEED assistance
 
 The President should suspend all assistance to an East European country pursuant to this chapter if the President determines, and reports to the Congress, that—
 
@@ -1201,7 +1201,7 @@ The President should suspend all assistance to an East European country pursuant
 
 **(3)** any member who was elected to that country’s parliament has been removed from that office or arrested through extraconstitutional processes.
 
-(Pub. L. 101–179, title VIII, § 801, Nov. 28, 1989, 103 Stat. 1322.)
+(Pub. L. 101–179, title VIII, § 801, Nov. 28, 1989, 103 Stat. 1322.)
 
 **Editorial Notes**
 
@@ -1209,7 +1209,7 @@ The President should suspend all assistance to an East European country pursuant
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
 
-### § 5492. Declaration of the Republic of Hungary
+### § 5492. Declaration of the Republic of Hungary
 
 **(a) Findings** The Congress finds that—
 
@@ -1231,13 +1231,13 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **(2)** expresses its desire to enhance the friendly relations between the people of Hungary and the people of the United States and between their respective governments.
 
-(Pub. L. 101–179, title VIII, § 802, Nov. 28, 1989, 103 Stat. 1322.)
+(Pub. L. 101–179, title VIII, § 802, Nov. 28, 1989, 103 Stat. 1322.)
 
-### § 5493. Administrative expenses of Agency for International Development
+### § 5493. Administrative expenses of Agency for International Development
 
 For the purpose of paying administrative expenses incurred in connection with carrying out its functions under this chapter, the Agency for International Development may use up to $500,000 each fiscal year of the funds made available to the Agency under this chapter.
 
-(Pub. L. 101–179, title VIII, § 803, Nov. 28, 1989, 103 Stat. 1323.)
+(Pub. L. 101–179, title VIII, § 803, Nov. 28, 1989, 103 Stat. 1323.)
 
 **Editorial Notes**
 
@@ -1251,11 +1251,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Pub. L. 101–513, title II, (d), Nov. 5, 1990, 104 Stat. 1994, provided that: “Up to $1,000,000 of the funds appropriated under this heading [“Assistance for Eastern Europe”] may be used for the administrative expenses incurred by the Agency for International Development in connection with administering programs for Eastern Europe: *Provided*, That the authority of this subsection shall supersede for fiscal year 1991 the provisions of section 803 of the Support for East European Democracy (SEED) Act of 1989 [22 U.S.C. 5493].
 
-### § 5494. Relation of provisions of this chapter to certain provisions of appropriations acts
+### § 5494. Relation of provisions of this chapter to certain provisions of appropriations acts
 
 Any provision of the annual Foreign Operations, Export Financing, and Related Programs Appropriations Act that provides that assistance for Poland or Hungary under that Act may be provided “notwithstanding any other provision of law” shall not supersede any otherwise applicable provision of this chapter. This section shall not, however, be construed to apply with respect to section 599C(b) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 (or a corresponding provision of a subsequent such appropriations Act.
 
-(Pub. L. 101–179, title VIII, § 804, Nov. 28, 1989, 103 Stat. 1323.)
+(Pub. L. 101–179, title VIII, § 804, Nov. 28, 1989, 103 Stat. 1323.)
 
 **Editorial Notes**
 
@@ -1265,7 +1265,7 @@ The Foreign Operations, Export Financing, and Related Programs Appropriations Ac
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
 
-### § 5495. Certain uses of excess foreign currencies
+### § 5495. Certain uses of excess foreign currencies
 
 **(a) Authority to use**
 
@@ -1293,10 +1293,10 @@ Foreign currencies may be used under this section notwithstanding section 1306 o
 
 The authority of this section may be exercised only to such extent or in such amount as may be provided in advance in an appropriation Act.
 
-(Pub. L. 101–179, title VIII, § 805, Nov. 28, 1989, 103 Stat. 1323.)
+(Pub. L. 101–179, title VIII, § 805, Nov. 28, 1989, 103 Stat. 1323.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.

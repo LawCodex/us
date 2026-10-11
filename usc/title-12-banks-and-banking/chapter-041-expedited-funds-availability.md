@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 41—EXPEDITED FUNDS AVAILABILITY
 
-## § 4001. Definitions
+## § 4001. Definitions
 
 For purposes of this chapter—
 
@@ -141,7 +141,7 @@ The term “unit of general local government” means any city, county, town, to
 
 The term “wire transfer” has such meaning as the Board shall prescribe by regulations.
 
-(Pub. L. 100–86, title VI, § 602, Aug. 10, 1987, 101 Stat. 635; Pub. L. 115–174, title II, § 208(a)(1), May 24, 2018, 132 Stat. 1312.)
+(Pub. L. 100–86, title VI, § 602, Aug. 10, 1987, 101 Stat. 635; Pub. L. 115–174, title II, § 208(a)(1), May 24, 2018, 132 Stat. 1312.)
 
 **Editorial Notes**
 
@@ -151,19 +151,19 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 **Amendments**
 
-2018—Par. (20). Pub. L. 115–174, § 208(a)(1)(A), inserted “, located in the United States,” after “ATM”.
+2018—Par. (20). Pub. L. 115–174, § 208(a)(1)(A), inserted “, located in the United States,” after “ATM”.
 
-Pars. (21), (23). Pub. L. 115–174, § 208(a)(1)(B), (C), inserted “American Samoa, the Commonwealth of the Northern Mariana Islands, Guam,” after “Puerto Rico,”.
+Pars. (21), (23). Pub. L. 115–174, § 208(a)(1)(B), (C), inserted “American Samoa, the Commonwealth of the Northern Mariana Islands, Guam,” after “Puerto Rico,”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–174, title II, § 208(b), May 24, 2018, 132 Stat. 1313, provided that: “The amendments made by this section [amending this section and section 4002 of this title] shall take effect on the date that is 30 days after the date of enactment of this Act [May 24, 2018].”
+Pub. L. 115–174, title II, § 208(b), May 24, 2018, 132 Stat. 1313, provided that: “The amendments made by this section [amending this section and section 4002 of this title] shall take effect on the date that is 30 days after the date of enactment of this Act [May 24, 2018].”
 
 **Effective Date**
 
-Pub. L. 100–86, title VI, § 613, Aug. 10, 1987, 101 Stat. 652, provided that:
+Pub. L. 100–86, title VI, § 613, Aug. 10, 1987, 101 Stat. 652, provided that:
 
 > **“(a) Date of Enactment.—** Except as provided in subsection (b), this title [enacting this chapter, amending section 248a of this title, and enacting provisions set out as notes under this section and section 248a of this title] shall take effect on the date of the enactment of this title [Aug. 10, 1987].
 
@@ -171,13 +171,13 @@ Pub. L. 100–86, title VI, § 613, Aug. 10, 1987, 101 Stat. 652, provided tha
 
 **Short Title**
 
-Pub. L. 100–86, title VI, § 601, Aug. 10, 1987, 101 Stat. 635, provided that: “This title [enacting this chapter, amending section 248a of this title, and enacting provisions set out as notes under this section and section 248a of this title] may be cited as the ‘Expedited Funds Availability Act’.”
+Pub. L. 100–86, title VI, § 601, Aug. 10, 1987, 101 Stat. 635, provided that: “This title [enacting this chapter, amending section 248a of this title, and enacting provisions set out as notes under this section and section 248a of this title] may be cited as the ‘Expedited Funds Availability Act’.”
 
 **Separability**
 
 If any provision of Pub. L. 100–86 or the application thereof to any person or circumstances is held invalid, the remainder of Pub. L. 100–86 and the application of the provision to other persons not similarly situated or to other circumstances not to be affected thereby, see section 1205 of Pub. L. 100–86, set out as a note under section 226 of this title.
 
-## § 4002. Expedited funds availability schedules
+## § 4002. Expedited funds availability schedules
 
 **(a) Next business day availability for certain deposits**
 
@@ -307,7 +307,7 @@ Notwithstanding any other provision of law, the Board, jointly with the Director
 
 Not more than 4 business days shall intervene between the business day a deposit described in subparagraph (B) is made at a nonproprietary automated teller machine (for deposit in an account at a depository institution) and the business day on which funds from such deposit are available for withdrawal.
 
-**(B) Deposits described in this paragraph 1 [footnote: 1 So in original. Probably should be “subparagraph”.]** A deposit is described in this subparagraph if it is—
+**(B) Deposits described in this paragraph 1 [footnote: 1 So in original. Probably should be “subparagraph”.]** A deposit is described in this subparagraph if it is—
 
 **(i)** a cash deposit;
 
@@ -331,7 +331,7 @@ The Board shall, either directly or through the Consumer Advisory Council, estab
 
 **(2)** any notice of nonpayment of any such check be given to such depository institution within the times set forth in subsection (a), (b), (c), or (e) or in the regulations issued under any such subsection.
 
-(Pub. L. 100–86, title VI, § 603, Aug. 10, 1987, 101 Stat. 637; Pub. L. 101–625, title X, § 1001, Nov. 28, 1990, 104 Stat. 4424; Pub. L. 102–242, title II, § 227(a), (b)(1), Dec. 19, 1991, 105 Stat. 2307; Pub. L. 111–203, title X, § 1086(a), (e), July 21, 2010, 124 Stat. 2085, 2086; Pub. L. 115–174, title II, § 208(a)(2), May 24, 2018, 132 Stat. 1312.)
+(Pub. L. 100–86, title VI, § 603, Aug. 10, 1987, 101 Stat. 637; Pub. L. 101–625, title X, § 1001, Nov. 28, 1990, 104 Stat. 4424; Pub. L. 102–242, title II, § 227(a), (b)(1), Dec. 19, 1991, 105 Stat. 2307; Pub. L. 111–203, title X, § 1086(a), (e), July 21, 2010, 124 Stat. 2085, 2086; Pub. L. 115–174, title II, § 208(a)(2), May 24, 2018, 132 Stat. 1312.)
 
 **Editorial Notes**
 
@@ -339,23 +339,23 @@ The Board shall, either directly or through the Consumer Advisory Council, estab
 
 2018—Subsec. (d)(2)(A). Pub. L. 115–174 inserted “American Samoa, the Commonwealth of the Northern Mariana Islands, Guam,” after “Puerto Rico,”.
 
-2010—Subsec. (a)(2)(D). Pub. L. 111–203, § 1086(e)(1), substituted “$200” for “$100”.
+2010—Subsec. (a)(2)(D). Pub. L. 111–203, § 1086(e)(1), substituted “$200” for “$100”.
 
-Subsecs. (b)(3)(C), (c)(1)(B)(iii). Pub. L. 111–203, § 1086(e)(2), (3), substituted “$200” for “$100” in heading.
+Subsecs. (b)(3)(C), (c)(1)(B)(iii). Pub. L. 111–203, § 1086(e)(2), (3), substituted “$200” for “$100” in heading.
 
-Subsec. (d)(1). Pub. L. 111–203, § 1086(a), inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board”.
+Subsec. (d)(1). Pub. L. 111–203, § 1086(a), inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board”.
 
-1991—Subsec. (e)(1). Pub. L. 102–242, § 227(b)(1)(A), struck out “—temporary schedule” after “ATM” in heading.
+1991—Subsec. (e)(1). Pub. L. 102–242, § 227(b)(1)(A), struck out “—temporary schedule” after “ATM” in heading.
 
-Subsec. (e)(1)(C). Pub. L. 102–242, § 227(a), struck out subpar. (C) which read as follows: “This paragraph shall apply with respect to funds deposited at a nonproprietary automated teller machine after August 31, 1988, and prior to the expiration of the 2-year period beginning on November 28, 1990.”
+Subsec. (e)(1)(C). Pub. L. 102–242, § 227(a), struck out subpar. (C) which read as follows: “This paragraph shall apply with respect to funds deposited at a nonproprietary automated teller machine after August 31, 1988, and prior to the expiration of the 2-year period beginning on November 28, 1990.”
 
-Subsec. (e)(2) to (4). Pub. L. 102–242, § 227(a), (b)(1)(B), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which related to permanent schedule for funds deposited at nonproprietary automated teller machines.
+Subsec. (e)(2) to (4). Pub. L. 102–242, § 227(a), (b)(1)(B), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which related to permanent schedule for funds deposited at nonproprietary automated teller machines.
 
-1990—Subsec. (e)(1)(A). Pub. L. 101–625, § 1001(1), substituted “4” for “6”.
+1990—Subsec. (e)(1)(A). Pub. L. 101–625, § 1001(1), substituted “4” for “6”.
 
-Subsec. (e)(1)(C). Pub. L. 101–625, § 1001(2), substituted “prior to the expiration of the 2-year period beginning on November 28, 1990” for “before September 1, 1990”.
+Subsec. (e)(1)(C). Pub. L. 101–625, § 1001(2), substituted “prior to the expiration of the 2-year period beginning on November 28, 1990” for “before September 1, 1990”.
 
-Subsec. (e)(2)(D). Pub. L. 101–625, § 1001(3), substituted “the expiration of the 2-year period beginning on November 28, 1990” for “September 1, 1990”.
+Subsec. (e)(2)(D). Pub. L. 101–625, § 1001(3), substituted “the expiration of the 2-year period beginning on November 28, 1990” for “September 1, 1990”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -371,7 +371,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Section effective Sept. 1, 1988, see section 613(b) of Pub. L. 100–86, set out as a note under section 4001 of this title.
 
-## § 4003. Safeguard exceptions
+## § 4003. Safeguard exceptions
 
 **(a) New accounts** Notwithstanding section 4002 of this title, in the case of any account established at a depository institution by a new depositor, the following provisions shall apply with respect to any deposit in such account during the 30-day period (or such shorter period as the Board, jointly with the Director of the Bureau of Consumer Financial Protection, may establish) beginning on the date such account is established—
 
@@ -389,9 +389,9 @@ such cash or funds shall be available for withdrawal on the business day after t
 
 **(2) Availability of other items**
 
-In the case of any funds deposited in such account by a check (other than a check described in subparagraph (C) or (D) of paragraph (1)), the availability for withdrawal of such funds shall not be subject to the provisions of section 4002(b), 4002(c), or paragraphs 1
+In the case of any funds deposited in such account by a check (other than a check described in subparagraph (C) or (D) of paragraph (1)), the availability for withdrawal of such funds shall not be subject to the provisions of section 4002(b), 4002(c), or paragraphs 1
 
-<sup>1</sup>  So in original. Probably should be “paragraph”.
+<sup>1</sup> So in original. Probably should be “paragraph”.
 
 (1) of section 4002(e) of this title.
 
@@ -497,27 +497,27 @@ Within 10 days of prescribing any regulation or issuing any order under paragrap
 
 If the facts upon which the determination of the applicability of an exception contained in subsection (b) or (c) to any deposit only become known to the receiving depository institution after the time notice is required under paragraph (2) with respect to such deposit, the depository institution shall mail such notice to the depositor as soon as practicable, but not later than the first business day following the day such facts become known to the depository institution.
 
-(Pub. L. 100–86, title VI, § 604, Aug. 10, 1987, 101 Stat. 642; Pub. L. 102–242, title II, §§ 225, 227(b)(2), Dec. 19, 1991, 105 Stat. 2307, 2308; Pub. L. 111–203, title X, § 1086(b), July 21, 2010, 124 Stat. 2085.)
+(Pub. L. 100–86, title VI, § 604, Aug. 10, 1987, 101 Stat. 642; Pub. L. 102–242, title II, §§ 225, 227(b)(2), Dec. 19, 1991, 105 Stat. 2307, 2308; Pub. L. 111–203, title X, § 1086(b), July 21, 2010, 124 Stat. 2085.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsecs. (a) to (e). Pub. L. 111–203, § 1086(b)(1), inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board” wherever appearing.
+2010—Subsecs. (a) to (e). Pub. L. 111–203, § 1086(b)(1), inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board” wherever appearing.
 
-Subsec. (f)(1)(B), (2)(C). Pub. L. 111–203, § 1086(b)(2), substituted “Board, jointly with the Director of the Bureau of Consumer Financial Protection.” for “Board.”
+Subsec. (f)(1)(B), (2)(C). Pub. L. 111–203, § 1086(b)(2), substituted “Board, jointly with the Director of the Bureau of Consumer Financial Protection.” for “Board.”
 
-1991—Subsec. (a)(2). Pub. L. 102–242, § 227(b)(2), struck out “and (2)” after “paragraphs (1)”.
+1991—Subsec. (a)(2). Pub. L. 102–242, § 227(b)(2), struck out “and (2)” after “paragraphs (1)”.
 
-Subsec. (b). Pub. L. 102–242, § 225(1), inserted “(a)(2),” after “subsection”.
+Subsec. (b). Pub. L. 102–242, § 225(1), inserted “(a)(2),” after “subsection”.
 
-Subsec. (c)(1). Pub. L. 102–242, § 225(2), substituted “(a)(2)” for “(a)(2)(F)”.
+Subsec. (c)(1). Pub. L. 102–242, § 225(2), substituted “(a)(2)” for “(a)(2)(F)”.
 
-Subsec. (d). Pub. L. 102–242, § 225(3), inserted “(a)(2),” after “subsections”.
+Subsec. (d). Pub. L. 102–242, § 225(3), inserted “(a)(2),” after “subsections”.
 
-Subsec. (f)(1)(A)(i). Pub. L. 102–242, § 225(4), substituted “time period within which” for “day”.
+Subsec. (f)(1)(A)(i). Pub. L. 102–242, § 225(4), substituted “time period within which” for “day”.
 
-Subsec. (f)(2)(D), (E). Pub. L. 102–242, § 225(5), added subpars. (D) and (E).
+Subsec. (f)(2)(D), (E). Pub. L. 102–242, § 225(5), added subpars. (D) and (E).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -533,7 +533,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Section effective Sept. 1, 1988, see section 613(b) of Pub. L. 100–86, set out as a note under section 4001 of this title.
 
-## § 4004. Disclosure of funds availability policies
+## § 4004. Disclosure of funds availability policies
 
 **(a) Notice for new accounts**
 
@@ -581,7 +581,7 @@ The Board, jointly with the Director of the Bureau of Consumer Financial Protect
 
 **(A)** uses any appropriate model form or clause as published by the Board, jointly with the Director of the Bureau of Consumer Financial Protection,,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 or
 
@@ -599,7 +599,7 @@ Nothing in this chapter requires the use of any such model form or clause prescr
 
 Model disclosure forms and clauses shall be adopted by the Board, jointly with the Director of the Bureau of Consumer Financial Protection, only after notice duly given in the Federal Register and an opportunity for public comment in accordance with section 553 of title 5.
 
-(Pub. L. 100–86, title VI, § 605, Aug. 10, 1987, 101 Stat. 644; Pub. L. 111–203, title X, § 1086(c), July 21, 2010, 124 Stat. 2086.)
+(Pub. L. 100–86, title VI, § 605, Aug. 10, 1987, 101 Stat. 644; Pub. L. 111–203, title X, § 1086(c), July 21, 2010, 124 Stat. 2086.)
 
 **Editorial Notes**
 
@@ -609,13 +609,13 @@ After enactment, referred to in the heading of subsec. (c)(1), probably means af
 
 **Amendments**
 
-2010—Subsecs. (b), (d)(2). Pub. L. 111–203, § 1086(c)(1), inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board”.
+2010—Subsecs. (b), (d)(2). Pub. L. 111–203, § 1086(c)(1), inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board”.
 
-Subsec. (f)(1). Pub. L. 111–203, § 1086(c)(2), inserted “and Bureau” after “Board” in heading.
+Subsec. (f)(1). Pub. L. 111–203, § 1086(c)(2), inserted “and Bureau” after “Board” in heading.
 
-Pub. L. 111–203, § 1086(c)(1), inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board”.
+Pub. L. 111–203, § 1086(c)(1), inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board”.
 
-Subsec. (f)(2)(A), (3), (4). Pub. L. 111–203, § 1086(c)(1), inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board”.
+Subsec. (f)(2)(A), (3), (4). Pub. L. 111–203, § 1086(c)(1), inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -627,7 +627,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Section effective Sept. 1, 1988, see section 613(b) of Pub. L. 100–86, set out as a note under section 4001 of this title.
 
-## § 4005. Payment of interest
+## § 4005. Payment of interest
 
 **(a) In general**
 
@@ -643,7 +643,7 @@ Except as provided in subsection (b) or (c) and notwithstanding any other provis
 
 No provision of this chapter shall be construed as requiring the payment of interest or dividends on funds deposited by a check which is returned unpaid.
 
-(Pub. L. 100–86, title VI, § 606, Aug. 10, 1987, 101 Stat. 646.)
+(Pub. L. 100–86, title VI, § 606, Aug. 10, 1987, 101 Stat. 646.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -651,7 +651,7 @@ No provision of this chapter shall be construed as requiring the payment of inte
 
 Section effective Sept. 1, 1988, see section 613(b) of Pub. L. 100–86, set out as a note under section 4001 of this title.
 
-## § 4006. Miscellaneous provisions
+## § 4006. Miscellaneous provisions
 
 **(a) After-hours deposits**
 
@@ -689,7 +689,7 @@ In any case in which a check is deposited in an account at a depository institut
 
 The dollar amounts under this chapter shall be adjusted every 5 years after December 31, 2011, by the annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers, as published by the Bureau of Labor Statistics, rounded to the nearest multiple of $25.
 
-(Pub. L. 100–86, title VI, § 607, Aug. 10, 1987, 101 Stat. 646; Pub. L. 111–203, title X, § 1086(f), July 21, 2010, 124 Stat. 2086.)
+(Pub. L. 100–86, title VI, § 607, Aug. 10, 1987, 101 Stat. 646; Pub. L. 111–203, title X, § 1086(f), July 21, 2010, 124 Stat. 2086.)
 
 **Editorial Notes**
 
@@ -707,7 +707,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-## § 4007. Effect on State law
+## § 4007. Effect on State law
 
 **(a) In general** Any law or regulation of any State in effect on September 1, 1989, which requires that funds deposited or received for deposit in an account at a depository institution chartered by such State be made available for withdrawal in a shorter period of time than the period of time provided in this chapter or in regulations prescribed by the Board under this chapter (as in effect on September 1, 1989) shall—
 
@@ -719,9 +719,9 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Except as provided in subsection (a), this chapter and regulations prescribed under this chapter shall supersede any provision of the law of any State, including the Uniform Commercial Code as in effect in such State, which is inconsistent with this chapter or such regulations.
 
-(Pub. L. 100–86, title VI, § 608, Aug. 10, 1987, 101 Stat. 647.)
+(Pub. L. 100–86, title VI, § 608, Aug. 10, 1987, 101 Stat. 647.)
 
-## § 4008. Regulations and reports by Board
+## § 4008. Regulations and reports by Board
 
 **(a) In general** After notice and opportunity to submit comment in accordance with section 553(c) of title 5, the Board, jointly with the Director of the Bureau of Consumer Financial Protection, shall prescribe regulations—
 
@@ -823,7 +823,7 @@ The Board shall study the feasibility of modernizing and accelerating the check 
 
 The Board shall report its conclusions to the Congress within 9 months of August 10, 1987.
 
-(Pub. L. 100–86, title VI, § 609, Aug. 10, 1987, 101 Stat. 647; Pub. L. 111–203, title X, § 1086(d), July 21, 2010, 124 Stat. 2086.)
+(Pub. L. 100–86, title VI, § 609, Aug. 10, 1987, 101 Stat. 647; Pub. L. 111–203, title X, § 1086(d), July 21, 2010, 124 Stat. 2086.)
 
 **Editorial Notes**
 
@@ -833,9 +833,9 @@ In subsec. (d)(3), “September 1, 1988” substituted for “section 603(b) tak
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–203, § 1086(d)(1), inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board” in introductory provisions.
+2010—Subsec. (a). Pub. L. 111–203, § 1086(d)(1), inserted “, jointly with the Director of the Bureau of Consumer Financial Protection,” after “Board” in introductory provisions.
 
-Subsec. (e). Pub. L. 111–203, § 1086(d)(2), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “In prescribing regulations under subsections (a) and (b) of this section, the Board shall consult with the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, the Federal Home Loan Bank Board, and the National Credit Union Administration Board.”
+Subsec. (e). Pub. L. 111–203, § 1086(d)(2), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “In prescribing regulations under subsections (a) and (b) of this section, the Board shall consult with the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, the Federal Home Loan Bank Board, and the National Credit Union Administration Board.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -845,7 +845,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 **Exceptions in Areas Where Major Disaster Exists**
 
-Pub. L. 105–18, title V, § 50002, June 12, 1997, 111 Stat. 211, provided that:
+Pub. L. 105–18, title V, § 50002, June 12, 1997, 111 Stat. 211, provided that:
 
 > **“(a) Truth in Lending Act.—** During the 240-day period beginning on the date of enactment of this Act [June 12, 1997], the Board of Governors of the Federal Reserve System may make exceptions to the Truth in Lending Act [15 U.S.C. 1601 et seq.] for transactions within an area in which the President, pursuant to section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act [42 U.S.C. 5170], has determined, on or after February 28, 1997, that a major disaster exists, or within an area determined to be eligible for disaster relief under other Federal law by reason of damage related to the 1997 flooding of the Red River of the North, the Minnesota River, and the tributaries of such rivers, if the Board determines that the exception can reasonably be expected to alleviate hardships to the public resulting from such disaster that outweigh possible adverse effects.
 
@@ -861,11 +861,11 @@ Pub. L. 105–18, title V, § 50002, June 12, 1997, 111 Stat. 211, provided th
 
 Similar provisions were contained in the following prior acts:
 
-Pub. L. 103–76, § 2, Aug. 12, 1993, 107 Stat. 752.
+Pub. L. 103–76, § 2, Aug. 12, 1993, 107 Stat. 752.
 
-Pub. L. 102–485, § 3, Oct. 23, 1992, 106 Stat. 2772.
+Pub. L. 102–485, § 3, Oct. 23, 1992, 106 Stat. 2772.
 
-## § 4009. Administrative enforcement
+## § 4009. Administrative enforcement
 
 **(a) Administrative enforcement** Compliance with the requirements imposed under this chapter, including regulations prescribed by and orders issued by the Board of Governors of the Federal Reserve System under this chapter, shall be enforced under—
 
@@ -911,19 +911,19 @@ has failed to comply with any requirement imposed by this chapter or by the Boar
 
 The authority of the Board to prescribe regulations under this chapter does not impair the authority of any other agency designated in this section to make rules regarding its own procedures in enforcing compliance with requirements imposed under this chapter.
 
-(Pub. L. 100–86, title VI, § 610, Aug. 10, 1987, 101 Stat. 649; Pub. L. 101–73, title VII, § 744(d), Aug. 9, 1989, 103 Stat. 438; Pub. L. 102–242, title II, § 212(h), Dec. 19, 1991, 105 Stat. 2303.)
+(Pub. L. 100–86, title VI, § 610, Aug. 10, 1987, 101 Stat. 649; Pub. L. 101–73, title VII, § 744(d), Aug. 9, 1989, 103 Stat. 438; Pub. L. 102–242, title II, § 212(h), Dec. 19, 1991, 105 Stat. 2303.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Credit Union Act, referred to in subsec. (a)(3), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
+The Federal Credit Union Act, referred to in subsec. (a)(3), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
 
 **Amendments**
 
-1991—Subsec. (a). Pub. L. 102–242, § 212(h)(2), inserted at end “The terms used in paragraph (1) that are not defined in this chapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).”
+1991—Subsec. (a). Pub. L. 102–242, § 212(h)(2), inserted at end “The terms used in paragraph (1) that are not defined in this chapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).”
 
-Subsec. (a)(1). Pub. L. 102–242, § 212(h)(1), added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act in the case of—
+Subsec. (a)(1). Pub. L. 102–242, § 212(h)(1), added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act in the case of—
 
 “(A) national banks, by the Comptroller of the Currency;
 
@@ -939,7 +939,7 @@ Subsec. (a)(1). Pub. L. 102–242, § 212(h)(1), added par. (1) and struck out
 
 Section effective Sept. 1, 1988, see section 613(b) of Pub. L. 100–86, set out as a note under section 4001 of this title.
 
-## § 4010. Civil liability
+## § 4010. Civil liability
 
 **(a) Civil liability** Except as otherwise provided in this section, any depository institution which fails to comply with any requirement imposed under this chapter or any regulation prescribed under this chapter with respect to any person other than another depository institution is liable to such person in an amount equal to the sum of—
 
@@ -991,7 +991,7 @@ No provision of this section imposing any liability shall apply to any act done 
 
 The Board is authorized to impose on or allocate among depository institutions the risks of loss and liability in connection with any aspect of the payment system, including the receipt, payment, collection, or clearing of checks, and any related function of the payment system with respect to checks. Liability under this subsection shall not exceed the amount of the check giving rise to the loss or liability, and, where there is bad faith, other damages, if any, suffered as a proximate consequence of any act or omission giving rise to the loss or liability.
 
-(Pub. L. 100–86, title VI, § 611, Aug. 10, 1987, 101 Stat. 650.)
+(Pub. L. 100–86, title VI, § 611, Aug. 10, 1987, 101 Stat. 650.)
 
 **Statutory Notes and Related Subsidiaries**
 

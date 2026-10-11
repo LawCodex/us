@@ -19,25 +19,25 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2001—Pub. L. 107–107, div. A, title XI, § 1111(b), Dec. 28, 2001, 115 Stat. 1238, added item 5949.
+2001—Pub. L. 107–107, div. A, title XI, § 1111(b), Dec. 28, 2001, 115 Stat. 1238, added item 5949.
 
-1991—Pub. L. 102–190, div. A, title X, § 1092(a)(2), Dec. 5, 1991, 105 Stat. 1487, added item 5942a.
+1991—Pub. L. 102–190, div. A, title X, § 1092(a)(2), Dec. 5, 1991, 105 Stat. 1487, added item 5942a.
 
-1983—Pub. L. 98–164, title I, § 127(b)(2), Nov. 22, 1983, 97 Stat. 1027, struck out item 5944 “Illness and burial expenses; native employees in foreign countries”.
+1983—Pub. L. 98–164, title I, § 127(b)(2), Nov. 22, 1983, 97 Stat. 1027, struck out item 5944 “Illness and burial expenses; native employees in foreign countries”.
 
-1980—Pub. L. 96–465, title II, §§ 2310(b), 2311(b), Oct. 17, 1980, 94 Stat. 2166, added items 5927 and 5928.
+1980—Pub. L. 96–465, title II, §§ 2310(b), 2311(b), Oct. 17, 1980, 94 Stat. 2166, added items 5927 and 5928.
 
-1978—Pub. L. 95–603, § 2(b), Nov. 6, 1978, 92 Stat. 3020, added item 5948.
+1978—Pub. L. 95–603, § 2(b), Nov. 6, 1978, 92 Stat. 3020, added item 5948.
 
-Pub. L. 95–426, title IV, § 411(b), Oct. 7, 1978, 92 Stat. 981, added item 5926.
+Pub. L. 95–426, title IV, § 411(b), Oct. 7, 1978, 92 Stat. 981, added item 5926.
 
-1971—Pub. L. 91–656, §§ 6(c), 7(b), Jan. 8, 1971, 84 Stat. 1954, substituted “duty at remote worksites” for “duty on California offshore islands or at Nevada Test Site” in item 5942 and added item 5947.
+1971—Pub. L. 91–656, §§ 6(c), 7(b), Jan. 8, 1971, 84 Stat. 1954, substituted “duty at remote worksites” for “duty on California offshore islands or at Nevada Test Site” in item 5942 and added item 5947.
 
-1967—Pub. L. 90–83, § 1(40)(B), (42), Sept. 11, 1967, 81 Stat. 206, 207, added items 5902 and 5903, and inserted “or at Nevada Test Site” in item 5942.
+1967—Pub. L. 90–83, § 1(40)(B), (42), Sept. 11, 1967, 81 Stat. 206, 207, added items 5902 and 5903, and inserted “or at Nevada Test Site” in item 5942.
 
 ## SUBCHAPTER I—UNIFORMS
 
-### § 5901. Uniform allowances
+### § 5901. Uniform allowances
 
 **(a)** There is authorized to be appropriated annually to each agency of the Government of the United States, including a Government owned corporation, and of the government of the District of Columbia, on a showing of necessity or desirability, such sums as may be necessary to carry out this subchapter. The head of the agency concerned, out of funds made available by the appropriation, shall—
 
@@ -51,7 +51,7 @@ The allowance may be paid only at the times and in the amounts authorized by the
 
 **(c)** An allowance paid under this section is not wages within the meaning of section 409 of title 42 or chapters 21 and 24 of title 26.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 508; Pub. L. 90–83, § 1(39), Sept. 11, 1967, 81 Stat. 206; Pub. L. 101–509, title V, § 529 [title II, § 202(a)], Nov. 5, 1990, 104 Stat. 1427, 1456; Pub. L. 102–378, § 2(50), Oct. 2, 1992, 106 Stat. 1353.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 508; Pub. L. 90–83, § 1(39), Sept. 11, 1967, 81 Stat. 206; Pub. L. 101–509, title V, § 529 [title II, § 202(a)], Nov. 5, 1990, 104 Stat. 1427, 1456; Pub. L. 102–378, § 2(50), Oct. 2, 1992, 106 Stat. 1353.)
 
 **Historical and Revision Notes**
 
@@ -59,9 +59,9 @@ The allowance may be paid only at the times and in the amounts authorized by the
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a), (b) | 5 U.S.C. 2131. | Sept. 1, 1954, ch. 1208, § 402, 68 Stat. 1114. May 13, 1955, ch. 40, 69 Stat. 49. |
-| (c) | 5 U.S.C. 2132 (less applicability to the Civil Service Retirement Act, as amended). | Sept. 1, 1954, ch. 1208, § 403 (less applicability to the Civil Service Retirement Act, as amended), 68 Stat. 1115. |
-| (d) | 5 U.S.C. 2133. | Sept. 1, 1954, ch. 1208, § 404, 68 Stat. 1115. |
+| (a), (b) | 5 U.S.C. 2131. | Sept. 1, 1954, ch. 1208, § 402, 68 Stat. 1114. May 13, 1955, ch. 40, 69 Stat. 49. |
+| (c) | 5 U.S.C. 2132 (less applicability to the Civil Service Retirement Act, as amended). | Sept. 1, 1954, ch. 1208, § 403 (less applicability to the Civil Service Retirement Act, as amended), 68 Stat. 1115. |
+| (d) | 5 U.S.C. 2133. | Sept. 1, 1954, ch. 1208, § 404, 68 Stat. 1115. |
 
 In subsection (a), the word “concerned” is substituted for “to which any such appropriation is made”.
 
@@ -75,7 +75,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 | *Section of title 5* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5901(a) | 5 App.: 2131. | Oct. 29, 1965, Pub. L. 89–301 § 13, 79 Stat. 1122. July 18, 1966, Pub. L. 89–504, § 407(a), 80 Stat. 299. |
+| 5901(a) | 5 App.: 2131. | Oct. 29, 1965, Pub. L. 89–301 § 13, 79 Stat. 1122. July 18, 1966, Pub. L. 89–504, § 407(a), 80 Stat. 299. |
 
 The amendment to the third sentence of subsection (a) of 5 U.S.C. 5901, and the deletion of subsection (d) thereof, reflect the recodification of subsection (d) in 5 U.S.C. 5903 by section 1(40)(A) of this bill. In the last sentence of subsection (a), the words “When” and “pays” are substituted for “In those instances where” and “makes reimbursement”, respectively.
 
@@ -85,51 +85,51 @@ The amendment to the third sentence of subsection (a) of 5 U.S.C. 5901, and the 
 
 1992—Subsec. (a)(1), (2). Pub. L. 102–378 substituted “5902)” for “5902).”
 
-1990—Subsec. (a). Pub. L. 101–509, § 529 [title II, § 202(a)(1)], substituted “such sums as may be necessary to carry out this subchapter.” for “an amount not to exceed $125 multiplied by the number of employees of the agency who are required by regulation or statute to wear a prescribed uniform in the performance of official duties and who are not being furnished with the uniform.”
+1990—Subsec. (a). Pub. L. 101–509, § 529 [title II, § 202(a)(1)], substituted “such sums as may be necessary to carry out this subchapter.” for “an amount not to exceed $125 multiplied by the number of employees of the agency who are required by regulation or statute to wear a prescribed uniform in the performance of official duties and who are not being furnished with the uniform.”
 
-Subsec. (a)(1), (2). Pub. L. 101–509, § 529 [title II, § 202(a)(2)], substituted “$400 a year (or such higher maximum amount as the Office of Personnel Management may establish under section 5902).” for “$125 a year”.
+Subsec. (a)(1), (2). Pub. L. 101–509, § 529 [title II, § 202(a)(2)], substituted “$400 a year (or such higher maximum amount as the Office of Personnel Management may establish under section 5902).” for “$125 a year”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 **Availability of Appropriations for Uniforms and Uniform Allowances**
 
-Pub. L. 102–394, title V, § 504, Oct. 6, 1992, 106 Stat. 1825, provided that: “Appropriations contained in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, available for salaries and expenses, shall be available for uniforms or allowances therefor as authorized by law (5 U.S.C. 5901–5902).”
+Pub. L. 102–394, title V, § 504, Oct. 6, 1992, 106 Stat. 1825, provided that: “Appropriations contained in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, available for salaries and expenses, shall be available for uniforms or allowances therefor as authorized by law (5 U.S.C. 5901–5902).”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 102–170, title V, § 504, Nov. 26, 1991, 105 Stat. 1141.
+Pub. L. 102–170, title V, § 504, Nov. 26, 1991, 105 Stat. 1141.
 
-Pub. L. 101–517, title V, § 504, Nov. 5, 1990, 104 Stat. 2221.
+Pub. L. 101–517, title V, § 504, Nov. 5, 1990, 104 Stat. 2221.
 
-Pub. L. 101–166, title V, § 504, Nov. 21, 1989, 103 Stat. 1189.
+Pub. L. 101–166, title V, § 504, Nov. 21, 1989, 103 Stat. 1189.
 
-Pub. L. 100–202, § 101(h) [title V, § 504], Dec. 22, 1987, 101 Stat. 1329–256, 1329–287.
+Pub. L. 100–202, § 101(h) [title V, § 504], Dec. 22, 1987, 101 Stat. 1329–256, 1329–287.
 
-Pub. L. 99–500, § 101(i) [H.R. 5233, title V, § 504], Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(i) [H.R. 5233, title V, § 504], Oct. 30, 1986, 100 Stat. 3341–287.
+Pub. L. 99–500, § 101(i) [H.R. 5233, title V, § 504], Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(i) [H.R. 5233, title V, § 504], Oct. 30, 1986, 100 Stat. 3341–287.
 
-Pub. L. 99–178, title V, § 504, Dec. 12, 1985, 99 Stat. 1132.
+Pub. L. 99–178, title V, § 504, Dec. 12, 1985, 99 Stat. 1132.
 
-Pub. L. 98–619, title V, § 504, Nov. 8, 1984, 98 Stat. 3333.
+Pub. L. 98–619, title V, § 504, Nov. 8, 1984, 98 Stat. 3333.
 
-Pub. L. 98–139, title V, § 504, Oct. 31, 1983, 97 Stat. 889.
+Pub. L. 98–139, title V, § 504, Oct. 31, 1983, 97 Stat. 889.
 
-Pub. L. 97–377, title I, § 101(e)(1) [title V, § 504], Dec. 21, 1982, 96 Stat. 1878, 1904.
+Pub. L. 97–377, title I, § 101(e)(1) [title V, § 504], Dec. 21, 1982, 96 Stat. 1878, 1904.
 
-### § 5902. Increase in maximum uniform allowance
+### § 5902. Increase in maximum uniform allowance
 
 The Office of Personnel Management may, from time to time, by regulation adjust the maximum amount for the cost of uniforms and the maximum allowance for uniforms under section 5901.
 
-(Added Pub. L. 90–83, § 1(40)(A), Sept. 11, 1967, 81 Stat. 206; amended Pub. L. 101–509, title V, § 529 [title II, § 202(b)], Nov. 5, 1990, 104 Stat. 1427, 1456.)
+(Added Pub. L. 90–83, § 1(40)(A), Sept. 11, 1967, 81 Stat. 206; amended Pub. L. 101–509, title V, § 529 [title II, § 202(b)], Nov. 5, 1990, 104 Stat. 1427, 1456.)
 
 **Historical and Revision Notes**
 
 | *Section of title 5* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5902 | 5 App.: 2134. | July 18, 1966, Pub. L. 89–504, § 407(b), 80 Stat. 299. |
+| 5902 | 5 App.: 2134. | July 18, 1966, Pub. L. 89–504, § 407(b), 80 Stat. 299. |
 
 The words “any other provision of” following “Notwithstanding” are omitted as unnecessary. The words “section 5901 of this title” are substituted for “this title” in three places to reflect the codification of that title in title 5, United States Code.
 
@@ -153,13 +153,13 @@ The maximum uniform allowances, as in effect on April 1, 1966, and as increased 
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
-### § 5903. Regulations
+### § 5903. Regulations
 
 The Office of Personnel Management may prescribe such regulations as it considers necessary for the administration of this subchapter.
 
-(Added Pub. L. 90–83, § 1(40)(A), Sept. 11, 1967, 81 Stat. 206; amended Pub. L. 96–54, § 2(a)(2), Aug. 14, 1979, 93 Stat. 381; Pub. L. 101–509, title V, § 529 [title II, § 202(b)], Nov. 5, 1990, 104 Stat. 1427, 1456.)
+(Added Pub. L. 90–83, § 1(40)(A), Sept. 11, 1967, 81 Stat. 206; amended Pub. L. 96–54, § 2(a)(2), Aug. 14, 1979, 93 Stat. 381; Pub. L. 101–509, title V, § 529 [title II, § 202(b)], Nov. 5, 1990, 104 Stat. 1427, 1456.)
 
 **Historical and Revision Notes**
 
@@ -181,7 +181,7 @@ The regulatory authority contained in 5 U.S.C. 5901(d), the source statute for w
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 **Effective Date of 1979 Amendment**
 
@@ -189,7 +189,7 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 ## SUBCHAPTER II—QUARTERS
 
-### § 5911. Quarters and facilities; employees in the United States
+### § 5911. Quarters and facilities; employees in the United States
 
 **(a)** For the purpose of this section—
 
@@ -223,19 +223,19 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 **(2)** shall pay such lesser rate or charge as the Secretary of Defense establishes by regulation.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 508; Pub. L. 99–145, title VIII, § 809(c), Nov. 8, 1985, 99 Stat. 681.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 508; Pub. L. 99–145, title VIII, § 809(c), Nov. 8, 1985, 99 Stat. 681.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a) | 5 U.S.C. 3121. | Aug. 20, 1964, Pub. L. 88–459, § 1, 78 Stat. 557. |
-| (b) | 5 U.S.C. 3122. | Aug. 20, 1964, Pub. L. 88–459, § 2, 78 Stat. 557. |
-| (c) | 5 U.S.C. 3123. | Aug. 20, 1964, Pub. L. 88–459, § 3, 78 Stat. 557. |
-| (d) | 5 U.S.C. 3124. | Aug. 20, 1964, Pub. L. 88–459, § 4, 78 Stat. 557. |
-| (e) | 5 U.S.C. 3125. | Aug. 20, 1964, Pub. L. 88–459, § 5, 78 Stat. 557. |
-| (f) | 5 U.S.C. 3126. | Aug. 20, 1964, Pub. L. 88–459, § 6, 78 Stat. 558. |
-| (g) | 5 U.S.C. 3127. | Aug. 20, 1964, Pub. L. 88–459, § 7, 78 Stat. 558. |
+| (a) | 5 U.S.C. 3121. | Aug. 20, 1964, Pub. L. 88–459, § 1, 78 Stat. 557. |
+| (b) | 5 U.S.C. 3122. | Aug. 20, 1964, Pub. L. 88–459, § 2, 78 Stat. 557. |
+| (c) | 5 U.S.C. 3123. | Aug. 20, 1964, Pub. L. 88–459, § 3, 78 Stat. 557. |
+| (d) | 5 U.S.C. 3124. | Aug. 20, 1964, Pub. L. 88–459, § 4, 78 Stat. 557. |
+| (e) | 5 U.S.C. 3125. | Aug. 20, 1964, Pub. L. 88–459, § 5, 78 Stat. 557. |
+| (f) | 5 U.S.C. 3126. | Aug. 20, 1964, Pub. L. 88–459, § 6, 78 Stat. 558. |
+| (g) | 5 U.S.C. 3127. | Aug. 20, 1964, Pub. L. 88–459, § 7, 78 Stat. 558. |
 
 In subsection (a)(2), the term “Executive agency” is coextensive with and substituted for “each executive department of the Government”, “each agency or independent establishment in the executive branch of the Government”, “each corporation owned or controlled by the Government”, and “the General Accounting Office” in view of the definition of “Executive agency” in section 105.
 
@@ -259,7 +259,7 @@ Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 813 of Pub. L.
 
 **Government Lodging Program**
 
-Pub. L. 113–291, div. A, title IX, § 914, Dec. 19, 2014, 128 Stat. 3474, as amended by Pub. L. 115–91, div. A, title X, § 1051(t)(2), Dec. 12, 2017, 131 Stat. 1566; Pub. L. 116–92, div. A, title VI, § 642, Dec. 20, 2019, 133 Stat. 1431; Pub. L. 116–283, div. A, title VI, § 642, Jan. 1, 2021, 134 Stat. 3684; Pub. L. 118–159, div. A, title VI, § 652, Dec. 23, 2024, 138 Stat. 1939, provided that:
+Pub. L. 113–291, div. A, title IX, § 914, Dec. 19, 2014, 128 Stat. 3474, as amended by Pub. L. 115–91, div. A, title X, § 1051(t)(2), Dec. 12, 2017, 131 Stat. 1566; Pub. L. 116–92, div. A, title VI, § 642, Dec. 20, 2019, 133 Stat. 1431; Pub. L. 116–283, div. A, title VI, § 642, Jan. 1, 2021, 134 Stat. 3684; Pub. L. 118–159, div. A, title VI, § 652, Dec. 23, 2024, 138 Stat. 1939, provided that:
 
 > **“(a) Authority.—** Notwithstanding the provisions of section 5911 of title 5, United States Code, the Secretary of Defense may establish and carry out a Government lodging program to provide Government or commercial lodging for employees of the Department of Defense or members of the uniformed services under the Secretary’s jurisdiction performing duty on official travel, and may require such travelers to occupy adequate quarters on a rental basis when available.
 
@@ -287,7 +287,7 @@ Pub. L. 113–291, div. A, title IX, § 914, Dec. 19, 2014, 128 Stat. 3474, as
 
 **Deposit in Special Fund of Rents and Charges Collected for Use or Occupancy of Quarters**
 
-Pub. L. 98–473, title I, § 101(c) [title III, § 320], Oct. 12, 1984, 98 Stat. 1837, 1874, as amended by Pub. L. 100–446, title III, § 316, Sept. 27, 1988, 102 Stat. 1826; Pub. L. 101–121, title III, § 317, Oct. 23, 1989, 103 Stat. 745, provided that: “Notwithstanding title 5 of the United States Code or any other provision of law, after September 30, 1984, rents and charges collected by payroll deduction or otherwise for the use or occupancy of quarters of agencies funded by this Act [probably means Department of the Interior and Related Agencies Appropriation Act, 1985, as set forth in section 101(c) of Pub. L. 98–473] shall thereafter be deposited in a special fund in each agency, to remain available until expended, for the maintenance and operation of the quarters of that agency: *Provided*, That nothing contained herein shall prohibit an agreement between an Indian tribe or tribal organization and the Secretary of the Interior or the Secretary of Health and Human Services, pursuant to the Indian Self-Determination Act, as amended (25 U.S.C. 450 et seq.) [former 25 U.S.C. 450f et seq., now 25 U.S.C. 5321 et seq.], under which such tribe or tribal organization may retain rents and charges for the operation, maintenance, and repair of such quarters.”
+Pub. L. 98–473, title I, § 101(c) [title III, § 320], Oct. 12, 1984, 98 Stat. 1837, 1874, as amended by Pub. L. 100–446, title III, § 316, Sept. 27, 1988, 102 Stat. 1826; Pub. L. 101–121, title III, § 317, Oct. 23, 1989, 103 Stat. 745, provided that: “Notwithstanding title 5 of the United States Code or any other provision of law, after September 30, 1984, rents and charges collected by payroll deduction or otherwise for the use or occupancy of quarters of agencies funded by this Act [probably means Department of the Interior and Related Agencies Appropriation Act, 1985, as set forth in section 101(c) of Pub. L. 98–473] shall thereafter be deposited in a special fund in each agency, to remain available until expended, for the maintenance and operation of the quarters of that agency: *Provided*, That nothing contained herein shall prohibit an agreement between an Indian tribe or tribal organization and the Secretary of the Interior or the Secretary of Health and Human Services, pursuant to the Indian Self-Determination Act, as amended (25 U.S.C. 450 et seq.) [former 25 U.S.C. 450f et seq., now 25 U.S.C. 5321 et seq.], under which such tribe or tribal organization may retain rents and charges for the operation, maintenance, and repair of such quarters.”
 
 **Executive Documents**
 
@@ -295,7 +295,7 @@ Pub. L. 98–473, title I, § 101(c) [title III, § 320], Oct. 12, 1984, 98 
 
 Authority of President under subsec. (f) of this section to issue regulations provided for therein (relating to provision, occupancy, and availability of quarters and facilities, determination of rates and charges therefor, and other related matters, as are necessary and appropriate to carry out provisions of this section) delegated to Director of Office of Management and Budget, see section 9(1) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 
-### § 5912. Quarters in Government owned or rented buildings; employees in foreign countries
+### § 5912. Quarters in Government owned or rented buildings; employees in foreign countries
 
 Under regulations prescribed by the head of the agency concerned and approved by the President, an employee who is a citizen of the United States permanently stationed in a foreign country may be furnished, without cost to him, living quarters, including heat, fuel, and light, in a Government owned or rented building. The rented quarters may be furnished only within the limits of appropriations made therefor.
 
@@ -305,13 +305,13 @@ Under regulations prescribed by the head of the agency concerned and approved by
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 118a. | June 26, 1930, ch. 622, 46 Stat. 818. Sept. 6, 1960, Pub. L. 86–707, § 511(c)(6), 74 Stat. 801. |
+|  | 5 U.S.C. 118a. | June 26, 1930, ch. 622, 46 Stat. 818. Sept. 6, 1960, Pub. L. 86–707, § 511(c)(6), 74 Stat. 801. |
 
 The words “which appropriations are hereby authorized” are omitted as unnecessary in view of section 5509.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### § 5913. Official residence expenses
+### § 5913. Official residence expenses
 
 **(a)** For the purpose of this section, “agency” has the meaning given it by section 5721 of this title.
 
@@ -323,13 +323,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **(c)** Funds made available under subsection (b) may be provided in advance to persons eligible to receive reimbursements.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 510; Pub. L. 109–140, § 7, Dec. 22, 2005, 119 Stat. 2652.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 510; Pub. L. 109–140, § 7, Dec. 22, 2005, 119 Stat. 2652.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 3039. | Aug. 2, 1946, ch. 744, § 22, added Sept. 6, 1960, Pub. L. 86–707, § 311(a), 74 Stat. 796. |
+|  | 5 U.S.C. 3039. | Aug. 2, 1946, ch. 744, § 22, added Sept. 6, 1960, Pub. L. 86–707, § 311(a), 74 Stat. 796. |
 
 The word “agency” is substituted for “department” and defined to conform to the definition of “department” in section 18 of the Act of Aug. 2, 1946, ch. 744, 60 Stat. 811.
 
@@ -349,7 +349,7 @@ Secretary of State empowered to prescribe regulations governing allotment to pos
 
 ## SUBCHAPTER III—OVERSEAS DIFFERENTIALS AND ALLOWANCES
 
-### § 5921. Definitions
+### § 5921. Definitions
 
 For the purpose of this subchapter—
 
@@ -375,7 +375,7 @@ For the purpose of this subchapter—
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 3032. | Sept. 6, 1960, Pub. L. 86–707, § 111, 74 Stat. 792. |
+|  | 5 U.S.C. 3032. | Sept. 6, 1960, Pub. L. 86–707, § 111, 74 Stat. 792. |
 
 In paragraph (1), the words “of America” are omitted as unnecessary.
 
@@ -397,7 +397,7 @@ For definition of Canal Zone, referred to in text, see section 3602(b) of Title 
 
 **Limitation on Housing Benefits**
 
-Pub. L. 101–246, title I, § 156, Feb. 16, 1990, 104 Stat. 46, provided that:
+Pub. L. 101–246, title I, § 156, Feb. 16, 1990, 104 Stat. 46, provided that:
 
 > **“(a) In General.—** The Secretary of State shall establish and implement an appropriate housing policy and space standards in consultation with all agencies with employees outside the United States who are under the authority of the chief of mission or with other agencies or employees who participate in the overseas housing program. Such policy may not provide housing or related benefits based solely on the representational status of the employee, except if such individual is the ambassador, deputy chief of mission, permanent charge, or the consul general when serving as the principal officer.
 
@@ -405,19 +405,19 @@ Pub. L. 101–246, title I, § 156, Feb. 16, 1990, 104 Stat. 46, provided that
 
 **Amendment, Modification, or Supersedure of Provisions Inconsistent With the Overseas Differentials and Allowances Act**
 
-Pub. L. 86–707, title V, § 511(b), Sept. 6, 1960, 74 Stat. 800, provided that: “Any provision of law which is not repealed by subsection (a) of this section but is inconsistent with any provision of this Act or of any amendment made by this Act [enacting chapter 37 of former title 5 (now covered by this subchapter), amending other sections as shown in the Tables, and enacting provisions set out as notes under this section and section 912 of Title 26, Internal Revenue Code] shall be held and considered to be amended, modified, or superseded to the extent necessary to carry out the purposes of and conform to such provision of this Act or of such amendment.”
+Pub. L. 86–707, title V, § 511(b), Sept. 6, 1960, 74 Stat. 800, provided that: “Any provision of law which is not repealed by subsection (a) of this section but is inconsistent with any provision of this Act or of any amendment made by this Act [enacting chapter 37 of former title 5 (now covered by this subchapter), amending other sections as shown in the Tables, and enacting provisions set out as notes under this section and section 912 of Title 26, Internal Revenue Code] shall be held and considered to be amended, modified, or superseded to the extent necessary to carry out the purposes of and conform to such provision of this Act or of such amendment.”
 
 **Appropriations**
 
-Pub. L. 86–707, title V, § 501(a), Sept. 6, 1960, 74 Stat. 800, provided that: “There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this Act and the amendments made by this Act [enacting chapter 37 of former title 5 (now covered by this subchapter), amending other sections as shown in the Tables, and enacting provisions set out as notes under this section and section 912 of Title 26, Internal Revenue Code].”
+Pub. L. 86–707, title V, § 501(a), Sept. 6, 1960, 74 Stat. 800, provided that: “There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this Act and the amendments made by this Act [enacting chapter 37 of former title 5 (now covered by this subchapter), amending other sections as shown in the Tables, and enacting provisions set out as notes under this section and section 912 of Title 26, Internal Revenue Code].”
 
 **References to Provisions Affected by the Overseas Differentials and Allowances Act**
 
-Pub. L. 86–707, title V, § 521, Sept. 6, 1960, 74 Stat. 802, provided that: “Whenever reference is made in any other law or in any regulation to any provision of law which is repealed, modified, amended, or superseded by reason of section 511 of this Act [repealing sections 170g(b), 170r, and 170s of former title 5, sections 888, 1132, 1133 and 1136(9) of Title 22, Foreign Relations and Intercourse, and sections 3501(d) and 3505(b) of Title 50, War and National Defense, amending section 118a of former title 5, section 1131 of Title 22, and sections 3501(c) and 3505(1)(A), (3) (A–C) of Title 50, and enacting provisions set out as a note under this section], such reference, unless inconsistent with this Act shall be held and considered to refer to this Act or the appropriate provision of, or amendment made by, this Act.”
+Pub. L. 86–707, title V, § 521, Sept. 6, 1960, 74 Stat. 802, provided that: “Whenever reference is made in any other law or in any regulation to any provision of law which is repealed, modified, amended, or superseded by reason of section 511 of this Act [repealing sections 170g(b), 170r, and 170s of former title 5, sections 888, 1132, 1133 and 1136(9) of Title 22, Foreign Relations and Intercourse, and sections 3501(d) and 3505(b) of Title 50, War and National Defense, amending section 118a of former title 5, section 1131 of Title 22, and sections 3501(c) and 3505(1)(A), (3) (A–C) of Title 50, and enacting provisions set out as a note under this section], such reference, unless inconsistent with this Act shall be held and considered to refer to this Act or the appropriate provision of, or amendment made by, this Act.”
 
 **Transitional Provisions for Payment of Allowances and Differentials**
 
-Pub. L. 86–707, title V, § 522, Sept. 6, 1960, 74 Stat. 802, provided that: “Notwithstanding any provision of this Act [enacting chapter 37 of former title 5 (now covered by this subchapter), amending other sections as shown in the Tables, and enacting provisions set out as notes under this section and section 912 of Title 26, Internal Revenue Code] and until such time as regulations are issued under this Act, employees shall continue to be paid allowances and differentials in accordance with rules and regulations issued pursuant to the laws in effect immediately prior to the enactment of this Act [Sept. 6, 1960] and such rules and regulations may be amended or revoked in accordance with the provision of such laws.”
+Pub. L. 86–707, title V, § 522, Sept. 6, 1960, 74 Stat. 802, provided that: “Notwithstanding any provision of this Act [enacting chapter 37 of former title 5 (now covered by this subchapter), amending other sections as shown in the Tables, and enacting provisions set out as notes under this section and section 912 of Title 26, Internal Revenue Code] and until such time as regulations are issued under this Act, employees shall continue to be paid allowances and differentials in accordance with rules and regulations issued pursuant to the laws in effect immediately prior to the enactment of this Act [Sept. 6, 1960] and such rules and regulations may be amended or revoked in accordance with the provision of such laws.”
 
 **Executive Documents**
 
@@ -443,13 +443,13 @@ Section 1. The Secretary of State is hereby designated and empowered to perform 
 
 (e) The authority vested in the President by section 5912 of title 5 of the United States Code to approve regulations prescribed by heads of agencies (under which employees who are citizens of the United States permanently stationed in foreign countries may be furnished, without cost to them, living quarters, including heat, fuel, and light, in government-owned or rented buildings).
 
-(f) [Repealed by Ex. Ord. No. 12292, § 4(f), Feb. 23, 1981, 46 F.R. 13967]
+(f) [Repealed by Ex. Ord. No. 12292, § 4(f), Feb. 23, 1981, 46 F.R. 13967]
 
-(g) [Redesignated (e) by Ex. Ord. No. 12292, § 4(f), Feb. 23, 1981, 46 F.R. 13967]
+(g) [Redesignated (e) by Ex. Ord. No. 12292, § 4(f), Feb. 23, 1981, 46 F.R. 13967]
 
-Sec. 2. (1) [Superseded by Ex. Ord. No. 11230, § 2(8). June 28, 1965, 30 F.R. 8447]
+Sec. 2. (1) [Superseded by Ex. Ord. No. 11230, § 2(8). June 28, 1965, 30 F.R. 8447]
 
-Sec. 2. (2) [Superseded by Ex. Ord. No. 11228, § 3(5), June 14, 1965, 30 F.R. 7739]
+Sec. 2. (2) [Superseded by Ex. Ord. No. 11228, § 3(5), June 14, 1965, 30 F.R. 7739]
 
 Sec. 3. That portion of section 2 of Executive Order No. 10624 of July 28, 1955 [set out as a note under section 1762 of Title 7, Agriculture], which precedes the proviso thereof, is hereby amended to read as follows:
 
@@ -497,7 +497,7 @@ Sec. 6. This order and such of the regulations prescribed by the Secretary of St
 
 **Ex. Ord. No. 11137. Allowances and Benefits**
 
-Ex. Ord. No. 11137, Jan. 7, 1964, 29 F.R. 223, as amended by Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided:
+Ex. Ord. No. 11137, Jan. 7, 1964, 29 F.R. 223, as amended by Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided:
 
 By virtue of the authority vested in me by section 301 of title 3 of the United States Code and by the various provisions of law cited in the body of this order, and as President of the United States it is ordered as follows:
 
@@ -537,7 +537,7 @@ Sec. 301. All actions heretofore taken by the President or his delegate with res
 
 Sec. 302. This order, and the regulations prescribed or approved under the authority thereof, shall be published in the Federal Register.
 
-### § 5922. General provisions
+### § 5922. General provisions
 
 **(a)** Notwithstanding section 5536 of this title and except as otherwise provided by this subchapter, the allowances and differentials authorized by this subchapter may be granted to an employee officially stationed in a foreign area—
 
@@ -579,15 +579,15 @@ The head of the agency concerned, under regulations of the President, may waive 
 
 **(3)** The President may prescribe any regulations necessary to carry out this subsection.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 510; Pub. L. 102–138, title I, § 147(c), Oct. 28, 1991, 105 Stat. 669; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 335], Nov. 29, 1999, 113 Stat. 1536, 1501A–441.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 510; Pub. L. 102–138, title I, § 147(c), Oct. 28, 1991, 105 Stat. 669; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 335], Nov. 29, 1999, 113 Stat. 1536, 1501A–441.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a) | 5 U.S.C. 3033. | Sept. 6, 1960, Pub. L. 86–707, § 201, 74 Stat. 793. |
-| (b) | 5 U.S.C. 3034. | Sept. 6, 1960, Pub. L. 86–707, § 202, 74 Stat. 793. |
-| (c) | 5 U.S.C. 3035. | Sept. 6, 1960, Pub. L. 86–707, § 203, 74 Stat. 793. |
+| (a) | 5 U.S.C. 3033. | Sept. 6, 1960, Pub. L. 86–707, § 201, 74 Stat. 793. |
+| (b) | 5 U.S.C. 3034. | Sept. 6, 1960, Pub. L. 86–707, § 202, 74 Stat. 793. |
+| (c) | 5 U.S.C. 3035. | Sept. 6, 1960, Pub. L. 86–707, § 203, 74 Stat. 793. |
 
 In subsection (a), the word “only” is omitted as surplusage.
 
@@ -609,7 +609,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Secretary of State empowered to prescribe regulations, see section 1(b) of Ex. Ord. No. 10903, Jan. 11, 1961, 26 F.R. 217, set out as a note under section 5921 of this title.
 
-### § 5923. Quarters allowances
+### § 5923. Quarters allowances
 
 **(a)** When Government owned or rented quarters are not provided without charge for an employee in a foreign area, one or more of the following quarters allowances may be granted when applicable:
 
@@ -629,13 +629,13 @@ Secretary of State empowered to prescribe regulations, see section 1(b) of Ex. O
 
 **(b)** The 90-day period under subsection (a)(1)(A) and the 30-day period under subsection (a)(1)(B) may each be extended for not more than 60 additional days if the head of the agency concerned or his designee determines that there are compelling reasons beyond the control of the employee for the continued occupancy of temporary quarters.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 511; Pub. L. 97–258, § 3(a)(15), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 102–138, title I, § 147(d), Oct. 28, 1991, 105 Stat. 669.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 511; Pub. L. 97–258, § 3(a)(15), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 102–138, title I, § 147(d), Oct. 28, 1991, 105 Stat. 669.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 3036. | Sept. 6, 1960, Pub. L. 86–707, § 211, 74 Stat. 793. |
+|  | 5 U.S.C. 3036. | Sept. 6, 1960, Pub. L. 86–707, § 211, 74 Stat. 793. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -647,7 +647,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1982—Par. (2). Pub. L. 97–258 substituted “section 3324(a) and (b)” for “section 529”.
 
-### § 5924. Cost-of-living allowances
+### § 5924. Cost-of-living allowances
 
 The following cost-of-living allowances may be granted, when applicable, to an employee in a foreign area:
 
@@ -671,13 +671,13 @@ The following cost-of-living allowances may be granted, when applicable, to an e
 
 **(D)** Allowances provided pursuant to subparagraphs (A) and (B) may include, at the election of the employee, payment or reimbursement of the costs incurred to store baggage for the employee’s dependent at or in the vicinity of the dependent’s school during one trip per year by the dependent between the school and the employee’s duty station, except that such payment or reimbursement may not exceed the cost that the Government would incur to transport the baggage in connection with the trip, and such payment or reimbursement shall be in lieu of transportation of the baggage.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 511; Pub. L. 92–187, § 2, Dec. 15, 1971, 85 Stat. 644; Pub. L. 93–126, § 12, Oct. 18, 1973, 87 Stat. 454; Pub. L. 93–475, § 13, Oct. 26, 1974, 88 Stat. 1443; Pub. L. 94–141, title IV, § 405, Nov. 29, 1975, 89 Stat. 770; Pub. L. 96–53, title V, § 510, Aug. 14, 1979, 93 Stat. 380; Pub. L. 96–100, title V, § 502, Nov. 2, 1979, 93 Stat. 734; Pub. L. 96–132, § 4(h), Nov. 30, 1979, 93 Stat. 1045; Pub. L. 96–465, title II, §§ 2307, 2308, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 97–258, § 3(a)(15), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 99–251, title III, § 303, Feb. 27, 1986, 100 Stat. 26; Pub. L. 101–510, div. A, title XII, § 1206(h), Nov. 5, 1990, 104 Stat. 1662; Pub. L. 102–138, title I, § 147(e), Oct. 28, 1991, 105 Stat. 670; Pub. L. 103–236, title I, § 176, Apr. 30, 1994, 108 Stat. 413; Pub. L. 104–201, div. C, title XXXV, § 3548(a)(7), Sept. 23, 1996, 110 Stat. 2869; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 336], Nov. 29, 1999, 113 Stat. 1536, 1501A–442; Pub. L. 107–228, div. A, title III, § 319, Sept. 30, 2002, 116 Stat. 1380; Pub. L. 109–472, § 3, Jan. 11, 2007, 120 Stat. 3554.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 511; Pub. L. 92–187, § 2, Dec. 15, 1971, 85 Stat. 644; Pub. L. 93–126, § 12, Oct. 18, 1973, 87 Stat. 454; Pub. L. 93–475, § 13, Oct. 26, 1974, 88 Stat. 1443; Pub. L. 94–141, title IV, § 405, Nov. 29, 1975, 89 Stat. 770; Pub. L. 96–53, title V, § 510, Aug. 14, 1979, 93 Stat. 380; Pub. L. 96–100, title V, § 502, Nov. 2, 1979, 93 Stat. 734; Pub. L. 96–132, § 4(h), Nov. 30, 1979, 93 Stat. 1045; Pub. L. 96–465, title II, §§ 2307, 2308, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 97–258, § 3(a)(15), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 99–251, title III, § 303, Feb. 27, 1986, 100 Stat. 26; Pub. L. 101–510, div. A, title XII, § 1206(h), Nov. 5, 1990, 104 Stat. 1662; Pub. L. 102–138, title I, § 147(e), Oct. 28, 1991, 105 Stat. 670; Pub. L. 103–236, title I, § 176, Apr. 30, 1994, 108 Stat. 413; Pub. L. 104–201, div. C, title XXXV, § 3548(a)(7), Sept. 23, 1996, 110 Stat. 2869; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 336], Nov. 29, 1999, 113 Stat. 1536, 1501A–442; Pub. L. 107–228, div. A, title III, § 319, Sept. 30, 2002, 116 Stat. 1380; Pub. L. 109–472, § 3, Jan. 11, 2007, 120 Stat. 3554.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 3037. | Sept. 6, 1960, Pub. L. 86–707, § 221, 74 Stat. 794. |
+|  | 5 U.S.C. 3037. | Sept. 6, 1960, Pub. L. 86–707, § 221, 74 Stat. 794. |
 
 In paragraph (1), the word “Washington” is omitted as covered by “District of Columbia”.
 
@@ -687,15 +687,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **References in Text**
 
-The Individuals with Disabilities Education Act, referred to in par. (4)(A), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in par. (4)(A), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 **Amendments**
 
-2007—Par. (4)(A). Pub. L. 109–472, § 3(1), inserted “United States” after “nearest” in first sentence.
+2007—Par. (4)(A). Pub. L. 109–472, § 3(1), inserted “United States” after “nearest” in first sentence.
 
-Par. (4)(B). Pub. L. 109–472, § 3(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) related to educational travel expenses of dependents of an employee.
+Par. (4)(B). Pub. L. 109–472, § 3(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) related to educational travel expenses of dependents of an employee.
 
-Par. (4)(D). Pub. L. 109–472, § 3(3), added subpar. (D).
+Par. (4)(D). Pub. L. 109–472, § 3(3), added subpar. (D).
 
 2002—Par. (4)(B). Pub. L. 107–228 inserted after first sentence “At the election of the employee, in lieu of the transportation of the baggage of a dependent from the dependent’s school, the costs incurred to store the baggage at or in the vicinity of the school during the dependent’s annual trip between the school and the employee’s duty station may be paid or reimbursed to the employee, except that the amount of the payment or reimbursement may not exceed the cost that the Government would incur to transport the baggage.”
 
@@ -703,25 +703,25 @@ Par. (4)(D). Pub. L. 109–472, § 3(3), added subpar. (D).
 
 1996—Par. (3). Pub. L. 104–201 struck out at end “Notwithstanding section 1217(d) of the Panama Canal Act of 1979 (22 U.S.C. 3657(d)), for the purposes of this paragraph, the term ‘foreign area’ includes the Republic of Panama.”
 
-1994—Par. (4)(A). Pub. L. 103–236, § 176(a), inserted after first sentence “When travel from school to post is infeasible, travel may be allowed between the school attended and the home of a designated relative or family friend or to join a parent at any location, with the allowable travel expense not to exceed the cost of travel between the school and the post.”
+1994—Par. (4)(A). Pub. L. 103–236, § 176(a), inserted after first sentence “When travel from school to post is infeasible, travel may be allowed between the school attended and the home of a designated relative or family friend or to join a parent at any location, with the allowable travel expense not to exceed the cost of travel between the school and the post.”
 
-Par. (4)(B). Pub. L. 103–236, § 176(b), inserted “(or to and from a school outside the United States if the dependent is attending that school for less than one year under a program approved by the school in the United States at which the dependent is enrolled, with the allowable travel expense not to exceed the cost of travel to and from the school in the United States)” after “in the United States”.
+Par. (4)(B). Pub. L. 103–236, § 176(b), inserted “(or to and from a school outside the United States if the dependent is attending that school for less than one year under a program approved by the school in the United States at which the dependent is enrolled, with the allowable travel expense not to exceed the cost of travel to and from the school in the United States)” after “in the United States”.
 
-1991—Par. (1). Pub. L. 102–138, § 147(e)(1), substituted “Columbia, except that employees receiving the temporary subsistence allowance under section 5923(1) are ineligible for a post allowance under this paragraph” for “Columbia”.
+1991—Par. (1). Pub. L. 102–138, § 147(e)(1), substituted “Columbia, except that employees receiving the temporary subsistence allowance under section 5923(1) are ineligible for a post allowance under this paragraph” for “Columbia”.
 
-Par. (2). Pub. L. 102–138, § 147(e)(2), in introductory provisions substituted “subsistence and other relocation expenses (including unavoidable lease penalties)” for “expenses”, in subpar. (A) inserted “the Commonwealth of the Northern Mariana Islands,” after “Puerto Rico,” and in subpar. (B) substituted “after the employee agrees in writing to remain in Government service for 12 months after transfer, unless separated for reasons beyond the control of the employee that are acceptable to the agency concerned” for “between assignments to posts in foreign areas”.
+Par. (2). Pub. L. 102–138, § 147(e)(2), in introductory provisions substituted “subsistence and other relocation expenses (including unavoidable lease penalties)” for “expenses”, in subpar. (A) inserted “the Commonwealth of the Northern Mariana Islands,” after “Puerto Rico,” and in subpar. (B) substituted “after the employee agrees in writing to remain in Government service for 12 months after transfer, unless separated for reasons beyond the control of the employee that are acceptable to the agency concerned” for “between assignments to posts in foreign areas”.
 
-Par. (4). Pub. L. 102–138, § 147(e)(3), in introductory provisions substituted “dependents (or, to the extent education away from post is involved, official assignment to service in such area or areas)” for “dependents”, in subpar. (A) substituted “United States (including such educational services as are provided by the States under the Individuals with Disabilities Education Act)” for “United States”, and in subpar. (B) substituted “postsecondary educational institution education (other than a program of post-baccalaureate education)” for “undergraduate college education” in two places and inserted at end provision defining “educational institution” for purposes of subpar. (B).
+Par. (4). Pub. L. 102–138, § 147(e)(3), in introductory provisions substituted “dependents (or, to the extent education away from post is involved, official assignment to service in such area or areas)” for “dependents”, in subpar. (A) substituted “United States (including such educational services as are provided by the States under the Individuals with Disabilities Education Act)” for “United States”, and in subpar. (B) substituted “postsecondary educational institution education (other than a program of post-baccalaureate education)” for “undergraduate college education” in two places and inserted at end provision defining “educational institution” for purposes of subpar. (B).
 
 1990—Par. (3). Pub. L. 101–510 inserted at end “Notwithstanding section 1217(d) of the Panama Canal Act of 1979 (22 U.S.C. 3657(d)), for the purposes of this paragraph, the term ‘foreign area’ includes the Republic of Panama.”
 
-1986—Par. (2)(A). Pub. L. 99–251 inserted “, its territories or possessions, the Commonwealth of Puerto Rico, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements”.
+1986—Par. (2)(A). Pub. L. 99–251 inserted “, its territories or possessions, the Commonwealth of Puerto Rico, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements”.
 
 1982—Par. (4)(A). Pub. L. 97–258 substituted “section 3324(a) and (b)” for “section 529”.
 
-1980—Par. (3). Pub. L. 96–465, § 2307, inserted “or authorized” after “compelled” and “or who requests such an allowance because of special needs or hardship involving the employee or the employee’s spouse or dependents” after “of the Government,”.
+1980—Par. (3). Pub. L. 96–465, § 2307, inserted “or authorized” after “compelled” and “or who requests such an allowance because of special needs or hardship involving the employee or the employee’s spouse or dependents” after “of the Government,”.
 
-Par. (4)(B). Pub. L. 96–465, § 2308, substituted “one annual trip each way for each dependent” for “(i) in the case of dependents traveling to obtain secondary education, one annual trip, or in the case of dependents traveling to obtain undergraduate college education, two annual trips, each way for each dependent of an employee of the Department of State, of the International Communication Agency, of the Department of Justice, of the Agency for International Development, of the Central Intelligence Agency, or of the National Security Agency, or (ii) or one trip each way for each dependent of any other employee, for the purpose of obtaining each type of education”.
+Par. (4)(B). Pub. L. 96–465, § 2308, substituted “one annual trip each way for each dependent” for “(i) in the case of dependents traveling to obtain secondary education, one annual trip, or in the case of dependents traveling to obtain undergraduate college education, two annual trips, each way for each dependent of an employee of the Department of State, of the International Communication Agency, of the Department of Justice, of the Agency for International Development, of the Central Intelligence Agency, or of the National Security Agency, or (ii) or one trip each way for each dependent of any other employee, for the purpose of obtaining each type of education”.
 
 1979—Par. (4)(B). Pub. L. 96–132 inserted reference to the Department of Justice.
 
@@ -753,7 +753,7 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 Secretary of State empowered to prescribe regulations governing travel expenses for dependents of certain employees, see section 1(b) of Ex. Ord. No. 10903, Jan. 11, 1961, 26 F.R. 217, set out as a note under section 5921 of this title.
 
-### § 5925. Post differentials
+### § 5925. Post differentials
 
 **(a)** A post differential may be granted on the basis of conditions of environment which differ substantially from conditions of environment in the continental United States and warrant additional pay as a recruitment and retention incentive. A post differential may be granted to an employee officially stationed in the United States who is on extended detail in a foreign area. A post differential under this subsection may not exceed 35 percent of the rate of basic pay.
 
@@ -765,13 +765,13 @@ Secretary of State empowered to prescribe regulations governing travel expenses 
 
 **(3)** may not exceed 15 percent of the rate of basic pay of that employee for the period served under that assignment.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 512; Pub. L. 96–465, title II, § 2309, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 108–199, div. D, title V, § 591(a), Jan. 23, 2004, 118 Stat. 207; Pub. L. 109–140, § 4(b), Dec. 22, 2005, 119 Stat. 2651.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 512; Pub. L. 96–465, title II, § 2309, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 108–199, div. D, title V, § 591(a), Jan. 23, 2004, 118 Stat. 207; Pub. L. 109–140, § 4(b), Dec. 22, 2005, 119 Stat. 2651.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 3038. | Sept. 6, 1960, Pub. L. 86–707, § 231, 74 Stat. 795. |
+|  | 5 U.S.C. 3038. | Sept. 6, 1960, Pub. L. 86–707, § 231, 74 Stat. 795. |
 
 In the last sentence, the words “Additional compensation paid as” are omitted as surplusage.
 
@@ -791,7 +791,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–199, div. D, title V, § 591(c), Jan. 23, 2004, 118 Stat. 207, which provided that except for employees of the United States Agency for International Development stationed in Iraq and Afghanistan, the amendments made by subsections (a) and (b), amending this section and section 5928 of this title, would not take effect until the same authority was enacted for employees of the Department of State, was repealed by Pub. L. 109–140, § 4(a), Dec. 22, 2005, 119 Stat. 2651.
+Pub. L. 108–199, div. D, title V, § 591(c), Jan. 23, 2004, 118 Stat. 207, which provided that except for employees of the United States Agency for International Development stationed in Iraq and Afghanistan, the amendments made by subsections (a) and (b), amending this section and section 5928 of this title, would not take effect until the same authority was enacted for employees of the Department of State, was repealed by Pub. L. 109–140, § 4(a), Dec. 22, 2005, 119 Stat. 2651.
 
 **Effective Date of 1980 Amendment**
 
@@ -799,11 +799,11 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 **Criteria**
 
-Pub. L. 109–140, § 4(d), Dec. 22, 2005, 119 Stat. 2651, provided that: “The Secretary of State shall inform the Committee on International Relations [now Committee on Foreign Affairs] of the House of Representatives and the Committee on Foreign Relations of the Senate of the criteria to be used in determinations of appropriate adjustments in post differentials under section 5925(a) of title 5, United States Code, as amended by subsection (b), and danger pay allowances under section 5928 of title 5, United States Code, as amended by subsection (c).”
+Pub. L. 109–140, § 4(d), Dec. 22, 2005, 119 Stat. 2651, provided that: “The Secretary of State shall inform the Committee on International Relations [now Committee on Foreign Affairs] of the House of Representatives and the Committee on Foreign Relations of the Senate of the criteria to be used in determinations of appropriate adjustments in post differentials under section 5925(a) of title 5, United States Code, as amended by subsection (b), and danger pay allowances under section 5928 of title 5, United States Code, as amended by subsection (c).”
 
 **Extension of Foreign Post Differentials to Certain Federal Employees Who Served in Connection With Operation Desert Storm**
 
-Pub. L. 102–190, div. A, title X, § 1093, Dec. 5, 1991, 105 Stat. 1487, provided that:
+Pub. L. 102–190, div. A, title X, § 1093, Dec. 5, 1991, 105 Stat. 1487, provided that:
 
 > **“(a) Waiver of Requirement That Employee Be Detailed to A Post for an ‘Extended’ Period.—** An individual who performed service of a type described in subsection (b) shall, upon appropriate written application, be granted the total amount to which such individual would have been entitled for such service under section 5925(a) of title 5, United States Code, disregarding any eligibility requirement relating to the minimum period of time for which an individual must serve at, or be detailed to, a post.
 
@@ -831,7 +831,7 @@ Pub. L. 102–190, div. A, title X, § 1093, Dec. 5, 1991, 105 Stat. 1487, pro
 
 > **“(3)** the term ‘Persian Gulf conflict’ means the period beginning on August 2, 1990, and ending on June 2, 1991.”
 
-### § 5926. Compensatory time off at certain posts in foreign areas
+### § 5926. Compensatory time off at certain posts in foreign areas
 
 **(a)** Under regulations prescribed pursuant to this subchapter, and notwithstanding subchapter V of chapter 55 of this title or any other law, the head of an agency may, on request of an employee serving in a foreign area—
 
@@ -843,9 +843,9 @@ Credit for compensatory time off earned under paragraph (2) shall not form the b
 
 **(b)** Compensatory time earned under this section shall be for use only while the employee is assigned to the post where it is earned. Any such compensatory time not used at the time the employee is reassigned to another post shall be forfeited.
 
-(Added Pub. L. 95–426, title IV, § 411(a), Oct. 7, 1978, 92 Stat. 980.)
+(Added Pub. L. 95–426, title IV, § 411(a), Oct. 7, 1978, 92 Stat. 980.)
 
-### § 5927. Advances of pay
+### § 5927. Advances of pay
 
 **(a)** Up to three months’ pay may be paid in advance—
 
@@ -867,7 +867,7 @@ Credit for compensatory time off earned under paragraph (2) shall not form the b
 
 **(b)** For the purpose of this section, the term “country of employment”, as used with respect to an individual under subsection (a)(3), means the country (or other area) outside the United States where such individual is hired (as described in subsection (a)(3)) by the Government.
 
-(Added Pub. L. 96–465, title II, § 2310(a), Oct. 17, 1980, 94 Stat. 2166; amended Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 337], Nov. 29, 1999, 113 Stat. 1536, 1501A–442; Pub. L. 107–228, div. A, title III, § 320, Sept. 30, 2002, 116 Stat. 1380.)
+(Added Pub. L. 96–465, title II, § 2310(a), Oct. 17, 1980, 94 Stat. 2166; amended Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 337], Nov. 29, 1999, 113 Stat. 1536, 1501A–442; Pub. L. 107–228, div. A, title III, § 320, Sept. 30, 2002, 116 Stat. 1380.)
 
 **Editorial Notes**
 
@@ -877,13 +877,13 @@ Sections 303, 311, and 408 of the Foreign Service Act of 1980, referred to in su
 
 **Amendments**
 
-2002—Subsec. (a)(3). Pub. L. 107–228, § 320(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to a foreign national employee appointed under section 303 of the Foreign Service Act of 1980, or a nonfamily member United States citizen appointed under such section 303 (and employed under section 311 of such Act) for service at such nonfamily member’s post of residence, who—
+2002—Subsec. (a)(3). Pub. L. 107–228, § 320(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to a foreign national employee appointed under section 303 of the Foreign Service Act of 1980, or a nonfamily member United States citizen appointed under such section 303 (and employed under section 311 of such Act) for service at such nonfamily member’s post of residence, who—
 
 “(A) is located outside the country of employment of such foreign national employee or nonfamily member (as the case may be) pursuant to Government authorization; and
 
 “(B) requires medical treatment outside the country of employment of such foreign national employee or nonfamily member (as the case may be), in circumstances specified by the President in regulations.”
 
-Subsec. (b). Pub. L. 107–228, § 320(2), substituted “hired” for “appointed”.
+Subsec. (b). Pub. L. 107–228, § 320(2), substituted “hired” for “appointed”.
 
 1999—Pub. L. 106–113 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “Up to three months’ pay may be paid in advance to an employee upon the assignment of the employee to a post in a foreign area.”
 
@@ -893,11 +893,11 @@ Subsec. (b). Pub. L. 107–228, § 320(2), substituted “hired” for “appo
 
 Section effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as a note under section 3901 of Title 22, Foreign Relations and Intercourse.
 
-### § 5928. Danger pay allowance
+### § 5928. Danger pay allowance
 
 An employee serving in a foreign area may be granted a danger pay allowance on the basis of civil insurrection, civil war, terrorism, or wartime conditions which threaten physical harm or imminent danger to the health or well-being of the employee. A danger pay allowance may not exceed 35 percent of the basic pay of the employee, except that if an employee is granted an additional differential under section 5925(b) of this title with respect to an assignment, the sum of that additional differential and any danger pay allowance granted to the employee with respect to that assignment may not exceed 35 percent of the basic pay of the employee. The presence of nonessential personnel or dependents shall not preclude payment of an allowance under this section. In each instance where an allowance under this section is initiated or terminated, the Secretary of State shall inform the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate of the action taken and the circumstances justifying it.
 
-(Added Pub. L. 96–465, title II, § 2311(a), Oct. 17, 1980, 94 Stat. 2166; amended Pub. L. 98–164, title I, § 131, Nov. 22, 1983, 97 Stat. 1028; Pub. L. 108–199, div. D, title V, § 591(b), Jan. 23, 2004, 118 Stat. 207; Pub. L. 109–140, § 4(c), Dec. 22, 2005, 119 Stat. 2651.)
+(Added Pub. L. 96–465, title II, § 2311(a), Oct. 17, 1980, 94 Stat. 2166; amended Pub. L. 98–164, title I, § 131, Nov. 22, 1983, 97 Stat. 1028; Pub. L. 108–199, div. D, title V, § 591(b), Jan. 23, 2004, 118 Stat. 207; Pub. L. 109–140, § 4(c), Dec. 22, 2005, 119 Stat. 2651.)
 
 **Editorial Notes**
 
@@ -917,11 +917,11 @@ Section effective Feb. 15, 1981, except as otherwise provided, see section 2403 
 
 **Danger Pay Allowance; DEA or FBI Employee**
 
-Pub. L. 101–246, title I, § 151, Feb. 16, 1990, 104 Stat. 42, as amended by Pub. L. 107–273, div. C, title I, § 11005, Nov. 2, 2002, 116 Stat. 1817; Pub. L. 116–260, div. B, title II, § 221, Dec. 27, 2020, 134 Stat. 1266, provided that: “The Secretary of State may not deny a request by the Drug Enforcement Administration, the Federal Bureau of Investigation, or the United States Marshals Service to authorize a danger pay allowance (under section 5928 of title 5, United States Code) for any employee of such agency.”
+Pub. L. 101–246, title I, § 151, Feb. 16, 1990, 104 Stat. 42, as amended by Pub. L. 107–273, div. C, title I, § 11005, Nov. 2, 2002, 116 Stat. 1817; Pub. L. 116–260, div. B, title II, § 221, Dec. 27, 2020, 134 Stat. 1266, provided that: “The Secretary of State may not deny a request by the Drug Enforcement Administration, the Federal Bureau of Investigation, or the United States Marshals Service to authorize a danger pay allowance (under section 5928 of title 5, United States Code) for any employee of such agency.”
 
 **Greater Utilization of Danger Pay Allowance**
 
-Pub. L. 98–533, title III, § 304, Oct. 19, 1984, 98 Stat. 2711, provided that: “In recognition of the current epidemic of worldwide terrorist activity and the courage and sacrifice of employees of United States agencies overseas, civilian as well as military, it is the sense of Congress that the provisions of section 5928 of title 5, United States Code, relating to the payment of danger pay allowance, should be more extensively utilized at United States missions abroad.”
+Pub. L. 98–533, title III, § 304, Oct. 19, 1984, 98 Stat. 2711, provided that: “In recognition of the current epidemic of worldwide terrorist activity and the courage and sacrifice of employees of United States agencies overseas, civilian as well as military, it is the sense of Congress that the provisions of section 5928 of title 5, United States Code, relating to the payment of danger pay allowance, should be more extensively utilized at United States missions abroad.”
 
 ## SUBCHAPTER IV—MISCELLANEOUS ALLOWANCES
 
@@ -929,9 +929,9 @@ Pub. L. 98–533, title III, § 304, Oct. 19, 1984, 98 Stat. 2711, provided th
 
 **Eligibility of Additional Employees for Reimbursement for Professional Liability Insurance**
 
-Pub. L. 106–567, title IV, § 406, Dec. 27, 2000, 114 Stat. 2849, as amended by Pub. L. 107–108, title IV, § 404, Dec. 28, 2001, 115 Stat. 1404, provided that:
+Pub. L. 106–567, title IV, § 406, Dec. 27, 2000, 114 Stat. 2849, as amended by Pub. L. 107–108, title IV, § 404, Dec. 28, 2001, 115 Stat. 1404, provided that:
 
-> **“(a) In General.—** Notwithstanding any provision of title VI, section 636 of the Treasury, Postal Service, and General Government Appropriations Act, 1997 [Pub. L. 104–208, div. A, title I, § 101(f)] (5 U.S.C. prec. 5941 note), the Director of Central Intelligence may—
+> **“(a) In General.—** Notwithstanding any provision of title VI, section 636 of the Treasury, Postal Service, and General Government Appropriations Act, 1997 [Pub. L. 104–208, div. A, title I, § 101(f)] (5 U.S.C. prec. 5941 note), the Director of Central Intelligence may—
 
 > **“(1)** designate as qualified employees within the meaning of subsection (b) of that section appropriate categories of employees not otherwise covered by that subsection; and
 
@@ -941,11 +941,11 @@ Pub. L. 106–567, title IV, § 406, Dec. 27, 2000, 114 Stat. 2849, as amended
 
 [Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a) and (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.]
 
-Pub. L. 106–346, § 101(a) [title III, § 348], Oct. 23, 2000, 114 Stat. 1356, 1356A–33, provided that: “In addition to the authority provided in section 636 of the Treasury, Postal Service, and General Government Appropriations Act, 1997, as included in Public Law 104–208, title I, section 101(f), as amended [set out as a note below], beginning in fiscal year 2001 and thereafter, amounts appropriated for salaries and expenses for the Department of Transportation may be used to reimburse an employee whose position is that of safety inspector for not to exceed one-half the costs incurred by such employee for professional liability insurance. Any payment under this section shall be contingent upon the submission of such information or documentation as the Department may require.”
+Pub. L. 106–346, § 101(a) [title III, § 348], Oct. 23, 2000, 114 Stat. 1356, 1356A–33, provided that: “In addition to the authority provided in section 636 of the Treasury, Postal Service, and General Government Appropriations Act, 1997, as included in Public Law 104–208, title I, section 101(f), as amended [set out as a note below], beginning in fiscal year 2001 and thereafter, amounts appropriated for salaries and expenses for the Department of Transportation may be used to reimburse an employee whose position is that of safety inspector for not to exceed one-half the costs incurred by such employee for professional liability insurance. Any payment under this section shall be contingent upon the submission of such information or documentation as the Department may require.”
 
 **Reimbursements Relating to Professional Liability Insurance**
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 636], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363, as amended by Pub. L. 105–277, div. A, § 101(h) [title VI, § 644], Oct. 21, 1998, 112 Stat. 2681–480, 2681–526; Pub. L. 106–58, title VI, § 642(a), Sept. 29, 1999, 113 Stat. 477; Pub. L. 110–161, div. F, title IV, § 429(a), Dec. 26, 2007, 121 Stat. 2151; Pub. L. 116–283, div. C, title XXXI, § 3143, Jan. 1, 2021, 134 Stat. 4386, provided that:
+Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 636], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363, as amended by Pub. L. 105–277, div. A, § 101(h) [title VI, § 644], Oct. 21, 1998, 112 Stat. 2681–480, 2681–526; Pub. L. 106–58, title VI, § 642(a), Sept. 29, 1999, 113 Stat. 477; Pub. L. 110–161, div. F, title IV, § 429(a), Dec. 26, 2007, 121 Stat. 2151; Pub. L. 116–283, div. C, title XXXI, § 3143, Jan. 1, 2021, 134 Stat. 4386, provided that:
 
 > **“(a) Authority.—** Notwithstanding any other provision of law, amounts appropriated by this Act (or any other Act for fiscal year 1997 or any fiscal year thereafter) for salaries and expenses shall be used to reimburse any qualified employee for not to exceed one-half the costs incurred by such employee for professional liability insurance. A payment under this section shall be contingent upon the submission of such information or documentation as the employing agency may require.
 
@@ -981,11 +981,11 @@ Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 636], Sept. 30, 
 
 > **“(d) Applicability.—** The amendments made by this section [this note] shall take effect on the date of the enactment of this Act [Sept. 30, 1996] and shall apply thereafter.”
 
-[Pub. L. 110–161, div. F, title IV, § 429(b), Dec. 26, 2007, 121 Stat. 2152, provided that: “The amendment made by subsection (a) [amending section 101(f) [title VI, § 636] of Pub. L. 104–208, set out above] shall take effect on the date of enactment of this Act [Dec. 26, 2007].” ]
+[Pub. L. 110–161, div. F, title IV, § 429(b), Dec. 26, 2007, 121 Stat. 2152, provided that: “The amendment made by subsection (a) [amending section 101(f) [title VI, § 636] of Pub. L. 104–208, set out above] shall take effect on the date of enactment of this Act [Dec. 26, 2007].” ]
 
-[Pub. L. 106–58, title VI, § 642(b), Sept. 29, 1999, 113 Stat. 477, provided that: “The amendment made by subsection (a) [amending section 101(f) [title VI, § 636] of Pub. L. 104–208, set out above] shall take effect on October 1, 1999, or the date of the enactment of this Act [Sept. 29, 1999], whichever is later.” ]
+[Pub. L. 106–58, title VI, § 642(b), Sept. 29, 1999, 113 Stat. 477, provided that: “The amendment made by subsection (a) [amending section 101(f) [title VI, § 636] of Pub. L. 104–208, set out above] shall take effect on October 1, 1999, or the date of the enactment of this Act [Sept. 29, 1999], whichever is later.” ]
 
-### § 5941. Allowances based on living costs and conditions of environment; employees stationed outside continental United States or in Alaska
+### § 5941. Allowances based on living costs and conditions of environment; employees stationed outside continental United States or in Alaska
 
 **(a)** Appropriations or funds available to an Executive agency, except a Government controlled corporation, for pay of employees stationed outside the continental United States or in Alaska whose rates of basic pay are fixed by statute, are available for allowances to these employees. The allowance is based on—
 
@@ -1027,14 +1027,14 @@ The allowance may not exceed 25 percent of the rate of basic pay. Except as othe
 
 **(d)** An employee entitled to a cost-of-living allowance under section 5924 of this title may not be paid an allowance under subsection (a) of this section based on living costs substantially higher than in the District of Columbia.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 512; Pub. L. 111–84, div. A, title XIX, § 1912(b), Oct. 28, 2009, 123 Stat. 2620.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 512; Pub. L. 111–84, div. A, title XIX, § 1912(b), Oct. 28, 2009, 123 Stat. 2620.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 118h. | Apr. 20, 1948, ch. 219, § 207, 62 Stat. 194. |
-|  |  | June 30, 1948, ch. 775, § 104, 62 Stat. 1205. |
+|  | 5 U.S.C. 118h. | Apr. 20, 1948, ch. 219, § 207, 62 Stat. 194. |
+|  |  | June 30, 1948, ch. 775, § 104, 62 Stat. 1205. |
 
 The section is reorganized and restated for clarity and conciseness.
 
@@ -1058,9 +1058,9 @@ Section 1914 of the Non-Foreign Area Retirement Equity Assurance Act of 2009, re
 
 **Amendments**
 
-2009—Subsec. (a). Pub. L. 111–84, § 1912(b)(1), inserted at end “Notwithstanding any preceding provision of this subsection, the cost-of-living allowance rate based on paragraph (1) shall be the cost-of-living allowance rate in effect on the date of enactment of the Non-Foreign Area Retirement Equity Assurance Act of 2009, except as adjusted under subsection (c).”
+2009—Subsec. (a). Pub. L. 111–84, § 1912(b)(1), inserted at end “Notwithstanding any preceding provision of this subsection, the cost-of-living allowance rate based on paragraph (1) shall be the cost-of-living allowance rate in effect on the date of enactment of the Non-Foreign Area Retirement Equity Assurance Act of 2009, except as adjusted under subsection (c).”
 
-Subsecs. (b) to (d). Pub. L. 111–84, § 1912(b)(2), (3), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+Subsecs. (b) to (d). Pub. L. 111–84, § 1912(b)(2), (3), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1070,7 +1070,7 @@ Amendment by Pub. L. 111–84 effective on the first day of the first applicable
 
 **Prohibition of Reduction of Allowance; Study and Report on Adjusting Calculation of Geographic Factors**
 
-Pub. L. 102–141, title IV, § 1, Oct. 28, 1991, 105 Stat. 861, as amended by Pub. L. 103–329, title V, § 532, Sept. 30, 1994, 108 Stat. 2413; Pub. L. 104–52, title IV, § 5, Nov. 19, 1995, 109 Stat. 490; Pub. L. 105–61, title V, § 515, Oct. 10, 1997, 111 Stat. 1306, provided that:
+Pub. L. 102–141, title IV, § 1, Oct. 28, 1991, 105 Stat. 861, as amended by Pub. L. 103–329, title V, § 532, Sept. 30, 1994, 108 Stat. 2413; Pub. L. 104–52, title IV, § 5, Nov. 19, 1995, 109 Stat. 490; Pub. L. 105–61, title V, § 515, Oct. 10, 1997, 111 Stat. 1306, provided that:
 
 > “The allowances provided to employees at rates set under section 5941 of title 5, United States Code, and Executive Order Numbered 10000 [set out below] as in effect on the date of the enactment of this Act [Oct. 28, 1991] may not be reduced during the period beginning on the date of the enactment of this Act through December 31, 2000: *Provided*, That no later than March 1, 2000, the Office of Personnel Management shall conduct a study and submit a report to the Congress proposing appropriate changes in the method of fixing compensation for affected employees, including any necessary legislative changes. Such study shall include—
 
@@ -1188,13 +1188,13 @@ Sec. 601. Publication. This order, and the places designated, the rates fixed, a
 
 Ex. Ord. No. 12070, June 30, 1978, 43 F.R. 28977, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, which related to suspension of certain requirements in determination of cost of living allowance rates, was superseded by Ex. Ord. No. 12510, Apr. 17, 1985, 50 F.R. 15535.
 
-### § 5942. Allowance based on duty at remote worksites
+### § 5942. Allowance based on duty at remote worksites
 
 **(a)** Notwithstanding section 5536 of this title, an employee of an Executive department or an independent establishment who is assigned to duty, except temporary duty, at a site so remote from the nearest established communities or suitable places of residence as to require an appreciable degree of expense, hardship, and inconvenience, beyond that normally encountered in metropolitan commuting, on the part of the employee in commuting to and from his residence and such worksite, is entitled, in addition to pay otherwise due him, to an allowance of not to exceed $10 a day. The allowance shall be paid under regulations prescribed by the President establishing the rates at which the allowance will be paid and defining and designating those sites, areas, and groups of positions to which the rates apply.
 
 **(b)** Under procedures prescribed by the President, the maximum allowance specified in subsection (a) may be adjusted from time to time in the interest of recruiting and retaining employees for performance of duty at remote worksites.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 513; Pub. L. 90–83, § 1(41), Sept. 11, 1967, 81 Stat. 207; Pub. L. 91–656, § 6(a), Jan. 8, 1971, 84 Stat. 1953; Pub. L. 101–510, div. A, title XII, § 1206(g), Nov. 5, 1990, 104 Stat. 1662.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 513; Pub. L. 90–83, § 1(41), Sept. 11, 1967, 81 Stat. 207; Pub. L. 91–656, § 6(a), Jan. 8, 1971, 84 Stat. 1953; Pub. L. 101–510, div. A, title XII, § 1206(g), Nov. 5, 1990, 104 Stat. 1662.)
 
 **Historical and Revision Notes**
 
@@ -1202,7 +1202,7 @@ Ex. Ord. No. 12070, June 30, 1978, 43 F.R. 28977, as amended by Ex. Ord. No. 121
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 70c. | Aug. 31, 1964, Pub. L. 88–538, § 1, 78 Stat. 745. |
+|  | 5 U.S.C. 70c. | Aug. 31, 1964, Pub. L. 88–538, § 1, 78 Stat. 745. |
 
 The words “of the United States” are omitted as unnecessary because of the definition of “employee” in section 2105.
 
@@ -1212,7 +1212,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 | *Section of title 5* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5942 | 5 App.: 70c. | Mar. 31, 1966, Pub. L. 89–383, § 1, 80 Stat. 98. |
+| 5942 | 5 App.: 70c. | Mar. 31, 1966, Pub. L. 89–383, § 1, 80 Stat. 98. |
 
 **Editorial Notes**
 
@@ -1226,7 +1226,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Effective Date of 1971 Amendment**
 
-Pub. L. 91–656, § 6(b), Jan. 8, 1971, 84 Stat. 1954, provided that:
+Pub. L. 91–656, § 6(b), Jan. 8, 1971, 84 Stat. 1954, provided that:
 
 > “Notwithstanding section 5536 of title 5, United States Code, and the amendment made by subsection (a) of this section [amending this section], and until the effective date of regulations prescribed by the President under such amendment—
 
@@ -1236,7 +1236,7 @@ Pub. L. 91–656, § 6(b), Jan. 8, 1971, 84 Stat. 1954, provided that:
 
 **Increase in Allowance Based on Duty at Remote Worksites**
 
-Pub. L. 117–81, div. A, title XI, § 1116, Dec. 27, 2021, 135 Stat. 1955, provided that:
+Pub. L. 117–81, div. A, title XI, § 1116, Dec. 27, 2021, 135 Stat. 1955, provided that:
 
 > **“(a) Assessment and Rate.—** Not later than March 31, 2022, the Director of the Office of Personnel Management shall complete an assessment of the remote site pay allowance under section 5942 of title 5, United States Code, and propose a new rate of such allowance, adjusted for inflation, and submit such assessment and rate to the President and to Congress.
 
@@ -1248,7 +1248,7 @@ Pub. L. 117–81, div. A, title XI, § 1116, Dec. 27, 2021, 135 Stat. 1955, pr
 
 Authority of President under this section to prescribe regulations establishing rates at which an allowance based on duty (except temporary duty) at remote worksites will be paid and defining and designating sites, areas, and groups of positions to which rates apply delegated to Office of Personnel Management, see section 8(3) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 
-### § 5942a. Separate maintenance allowance for duty at Johnston Island
+### § 5942a. Separate maintenance allowance for duty at Johnston Island
 
 **(a)** Notwithstanding section 5536 of this title, and under regulations prescribed by the President, an employee of an Executive agency (other than a Government corporation) who is assigned to a post of duty at Johnston Island, a possession of the United States in the Pacific Ocean, is entitled to receive a separate maintenance allowance if the head of the employing agency finds that—
 
@@ -1262,13 +1262,13 @@ Authority of President under this section to prescribe regulations establishing 
 
 **(b)** The regulations prescribed by the President shall include provisions for determining the rate at which an allowance under this section shall be paid.
 
-(Added Pub. L. 102–190, div. A, title X, § 1092(a)(1), Dec. 5, 1991, 105 Stat. 1486.)
+(Added Pub. L. 102–190, div. A, title X, § 1092(a)(1), Dec. 5, 1991, 105 Stat. 1486.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 102–190, div. A, title X, § 1092(b), Dec. 5, 1991, 105 Stat. 1487, provided that: “The amendments made by subsection (a) [enacting this section] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act [Dec. 5, 1991].”
+Pub. L. 102–190, div. A, title X, § 1092(b), Dec. 5, 1991, 105 Stat. 1487, provided that: “The amendments made by subsection (a) [enacting this section] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act [Dec. 5, 1991].”
 
 **Executive Documents**
 
@@ -1276,7 +1276,7 @@ Pub. L. 102–190, div. A, title X, § 1092(b), Dec. 5, 1991, 105 Stat. 1487, 
 
 Authority of President under this section to prescribe regulations delegated to the Office of Personnel Management by section 8(4) of Ex. Ord. No. 11609, set out as a note under section 301 of Title 3, The President.
 
-### § 5943. Foreign currency appreciation allowances
+### § 5943. Foreign currency appreciation allowances
 
 **(a)** The President, under such regulations as he may prescribe, may meet losses sustained by employees and members of the uniformed services while serving in a foreign country due to the appreciation of foreign currency in its relation to the American dollar. Allowances and expenditures under this section are not subject to income taxes.
 
@@ -1286,7 +1286,7 @@ Authority of President under this section to prescribe regulations delegated to 
 
 **(d)** The President shall report annually to Congress all expenditures made under this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 513; Pub. L. 96–54, § 2(a)(37), Aug. 14, 1979, 93 Stat. 383.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 513; Pub. L. 96–54, § 2(a)(37), Aug. 14, 1979, 93 Stat. 383.)
 
 **Historical and Revision Notes**
 
@@ -1294,11 +1294,11 @@ Authority of President under this section to prescribe regulations delegated to 
 |---|---|---|
 |  | 5 U.S.C. 118c. | Mar. 26, 1934, ch. 87, 48 Stat. 466. |
 |  |  | Aug. 14, 1937, ch. 627, 50 Stat. 641. |
-|  |  | Sept. 12, 1950, ch. 946, § 301(87), 64 Stat. 843. |
+|  |  | Sept. 12, 1950, ch. 946, § 301(87), 64 Stat. 843. |
 
 The section is reorganized and restated for clarity and conciseness.
 
-In subsection (a), the words “notwithstanding the provisions of any other Act” are omitted as unnecessary. The words “Secretary of the Treasury” are substituted for “Treasurer of the United States” on authority of 1950 Reorg. Plan No. 26 §§ 1, 2, eff. July 31, 1950, 64 Stat. 1280. The words “Provided, That such action as the President may take shall be binding upon all executive officers of the Government” are omitted as surplusage.
+In subsection (a), the words “notwithstanding the provisions of any other Act” are omitted as unnecessary. The words “Secretary of the Treasury” are substituted for “Treasurer of the United States” on authority of 1950 Reorg. Plan No. 26 §§ 1, 2, eff. July 31, 1950, 64 Stat. 1280. The words “Provided, That such action as the President may take shall be binding upon all executive officers of the Government” are omitted as surplusage.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -1306,9 +1306,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Amendments**
 
-1979—Subsec. (a). Pub. L. 96–54, § 2(a)(37)(A), struck out provision relating to recommendation of the Director of the Bureau of the Budget to the President.
+1979—Subsec. (a). Pub. L. 96–54, § 2(a)(37)(A), struck out provision relating to recommendation of the Director of the Bureau of the Budget to the President.
 
-Subsec. (d). Pub. L. 96–54, § 2(a)(37)(B), substituted “President” for “Director of the Bureau of the Budget”.
+Subsec. (d). Pub. L. 96–54, § 2(a)(37)(B), substituted “President” for “Director of the Bureau of the Budget”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1322,11 +1322,11 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 Authority of President under subsec. (a) of this section to make recommendations concerning meeting of losses sustained by employees and members of uniformed services while serving in a foreign country due to appreciation of foreign currency in its relation to American dollar and under subsec. (d) of this section to report annually to Congress on expenditures made under subsec. (d) of this section, delegated to Secretary of the Treasury, see section 2 of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 
-### [§ 5944. Repealed. Pub. L. 98–164, title I, § 127(b)(1), Nov. 22, 1983, 97 Stat. 1027]
+### [§ 5944. Repealed. Pub. L. 98–164, title I, § 127(b)(1), Nov. 22, 1983, 97 Stat. 1027]
 
 Section, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 513, authorized head of Executive department or military department which maintained a permanent staff of employees in foreign countries to pay burial expenses and expenses in connection with last illness and death of a native employee of his department in a country in which Secretary of State determined it was customary for employers to pay these expenses, and in foreign countries in which custom did not exist, on finding that immediate family of deceased was destitute, he could pay such of expenses as employee in charge of the office abroad in which deceased was employed considered proper. See section 3968(a)(1) of Title 22, Foreign Relations and Intercourse.
 
-### § 5945. Notary public commission expenses
+### § 5945. Notary public commission expenses
 
 An employee as defined by section 2105 of this title or an individual employed by the government of the District of Columbia who is required to serve as a notary public in connection with the performance of official business is entitled to an allowance, established by the agency concerned, not in excess of the expense required to obtain the commission. Funds available to an agency concerned for personal services or general administrative expenses are available to carry out this section.
 
@@ -1336,14 +1336,14 @@ An employee as defined by section 2105 of this title or an individual employed b
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 70a. | July 11, 1956, ch. 554, § 1, 70 Stat. 519. |
-|  | 5 U.S.C. 70b. | July 11, 1956, ch. 554, § 2, 70 Stat. 520. |
+|  | 5 U.S.C. 70a. | July 11, 1956, ch. 554, § 1, 70 Stat. 519. |
+|  | 5 U.S.C. 70b. | July 11, 1956, ch. 554, § 2, 70 Stat. 520. |
 
 In the first sentence, the words “to be incurred by them in order” are omitted as surplusage. The words “from and after January 1, 1955” are omitted as obsolete.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### § 5946. Membership fees; expenses of attendance at meetings; limitations
+### § 5946. Membership fees; expenses of attendance at meetings; limitations
 
 Except as authorized by a specific appropriation, by express terms in a general appropriation, or by sections 4109 and 4110 of this title, appropriated funds may not be used for payment of—
 
@@ -1359,7 +1359,7 @@ This section does not prevent the use of appropriations for the Department of Ag
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 83. | June 26, 1912, ch. 182, § 8, 37 Stat. 184. Mar. 4, 1913, ch. 145 (3d full par. on p. 854), 37 Stat. 854. |
+|  | 5 U.S.C. 83. | June 26, 1912, ch. 182, § 8, 37 Stat. 184. Mar. 4, 1913, ch. 145 (3d full par. on p. 854), 37 Stat. 854. |
 
 The words “or by sections 4109 and 4110 of this title” are added on authority of former sections 2309 and 2318(b), which are carried into sections 4109 and 4110, respectively.
 
@@ -1367,7 +1367,7 @@ In the last sentence, the words “This section does not” are substituted for 
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### § 5947. Quarters, subsistence, and allowances for employees of the Corps of Engineers, Department of the Army, engaged in floating plant operations
+### § 5947. Quarters, subsistence, and allowances for employees of the Corps of Engineers, Department of the Army, engaged in floating plant operations
 
 **(a)** An employee of the Corps of Engineers, Department of the Army, engaged in floating plant operations may be furnished quarters or subsistence, or both, on vessels, without charge, when the furnishing of the quarters or subsistence, or both, is determined to be equitable to the employee concerned, and necessary in the public interest, in connection with such operations.
 
@@ -1379,9 +1379,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **(c)** The quarters or subsistence, or both, or allowance in place thereof, may be furnished or paid only under regulations prescribed by the Secretary of the Army.
 
-(Added Pub. L. 91–656, § 7(a), Jan. 8, 1971, 84 Stat. 1954.)
+(Added Pub. L. 91–656, § 7(a), Jan. 8, 1971, 84 Stat. 1954.)
 
-### § 5948. Physicians comparability allowances
+### § 5948. Physicians comparability allowances
 
 **(a)** Notwithstanding any other provision of law, and in order to recruit and retain highly qualified Government physicians, the head of an agency, subject to the provisions of this section, section 5307, and such regulations as the President or his designee may prescribe, may enter into a service agreement with a Government physician which provides for such physician to complete a specified period of service in such agency in return for an allowance for the duration of such agreement in an amount to be determined by the agency head and specified in the agreement, but not to exceed—
 
@@ -1389,9 +1389,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **(2)** $30,000 per annum if the Government physician has served as a Government physician for more than twenty-four months.
 
-For the purpose of determining length of service as a Government physician, service as a physician under section 4104 or 4114 1
+For the purpose of determining length of service as a Government physician, service as a physician under section 4104 or 4114 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 38 or active service as a medical officer in the commissioned corps of the Public Health Service under Title II of the Public Health Service Act (42 U.S.C. ch. 6A) shall be deemed service as a Government physician.
 
@@ -1461,33 +1461,33 @@ of title 38 or active service as a medical officer in the commissioned corps of 
 
 **(5)** the degree to which the recruitment or retention problems referred to in paragraph (2) were alleviated under this section.
 
-(Added Pub. L. 95–603, § 2(a), Nov. 6, 1978, 92 Stat. 3018; amended Pub. L. 96–166, § 2, Dec. 29, 1979, 93 Stat. 1273; Pub. L. 97–141, § 2, Dec. 29, 1981, 95 Stat. 1719; Pub. L. 98–168, title I, § 102(a), Nov. 29, 1983, 97 Stat. 1105; Pub. L. 98–615, title II, § 204(a)(3), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 100–140, § 1, Oct. 26, 1987, 101 Stat. 830; Pub. L. 101–420, § 1(a), formerly § 1, Oct. 12, 1990, 104 Stat. 908, renumbered § 1(a), Pub. L. 103–114, § 1(b)(2)(A), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 102–378, § 2(51), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 103–89, § 3(b)(1)(M), Sept. 30, 1993, 107 Stat. 982; Pub. L. 103–114, §§ 1(a)(1), 2(a), Oct. 26, 1993, 107 Stat. 1115, 1116; Pub. L. 105–61, title V, § 517(a), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 105–266, § 7(a), Oct. 19, 1998, 112 Stat. 2369; Pub. L. 106–554, § 1(a)(1) [title II, § 218(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–28; Pub. L. 106–571, §§ 2(a)(1), (b), 3(d), Dec. 28, 2000, 114 Stat. 3054, 3057.)
+(Added Pub. L. 95–603, § 2(a), Nov. 6, 1978, 92 Stat. 3018; amended Pub. L. 96–166, § 2, Dec. 29, 1979, 93 Stat. 1273; Pub. L. 97–141, § 2, Dec. 29, 1981, 95 Stat. 1719; Pub. L. 98–168, title I, § 102(a), Nov. 29, 1983, 97 Stat. 1105; Pub. L. 98–615, title II, § 204(a)(3), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 100–140, § 1, Oct. 26, 1987, 101 Stat. 830; Pub. L. 101–420, § 1(a), formerly § 1, Oct. 12, 1990, 104 Stat. 908, renumbered § 1(a), Pub. L. 103–114, § 1(b)(2)(A), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 102–378, § 2(51), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 103–89, § 3(b)(1)(M), Sept. 30, 1993, 107 Stat. 982; Pub. L. 103–114, §§ 1(a)(1), 2(a), Oct. 26, 1993, 107 Stat. 1115, 1116; Pub. L. 105–61, title V, § 517(a), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 105–266, § 7(a), Oct. 19, 1998, 112 Stat. 2369; Pub. L. 106–554, § 1(a)(1) [title II, § 218(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–28; Pub. L. 106–571, §§ 2(a)(1), (b), 3(d), Dec. 28, 2000, 114 Stat. 3054, 3057.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 4104 and 4114 of title 38, referred to in subsec. (a), were repealed by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. Subsequently, section 2004 of Title 38, Veterans’ Benefits, was renumbered as section 4104 of Title 38 and a new section 4114 of Title 38 was added. The new sections 4104 and 4114 do not contain the same subject matter as the former sections. For provisions similar to those contained in former sections 4104 and 4114 prior to repeal, see sections 7401 and 7405 to 7407 of Title 38.
+Sections 4104 and 4114 of title 38, referred to in subsec. (a), were repealed by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. Subsequently, section 2004 of Title 38, Veterans’ Benefits, was renumbered as section 4104 of Title 38 and a new section 4114 of Title 38 was added. The new sections 4104 and 4114 do not contain the same subject matter as the former sections. For provisions similar to those contained in former sections 4104 and 4114 prior to repeal, see sections 7401 and 7405 to 7407 of Title 38.
 
-The Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title II of the Public Health Service Act is classified generally to subchapter I (§ 201 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title II of the Public Health Service Act is classified generally to subchapter I (§ 201 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
-The Foreign Service Act of 1980, referred to in subsec. (g)(1)(E), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 4 of title I of the Act is classified generally to subchapter IV (§ 3961 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (g)(1)(E), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 4 of title I of the Act is classified generally to subchapter IV (§ 3961 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
-The Central Intelligence Agency Act of 1949, referred to in (g)(1)(F), is act June 20, 1949, ch. 227, 63 Stat. 208, which was formerly classified generally to section 403a et seq. of Title 50, War and National Defense, prior to editorial reclassification in chapter 46 (§ 3501 et seq.) of Title 50. Section 10 of the Act, which was renumbered as section 8 of that Act by Pub. L. 85–507, § 21(b)(2), July 7, 1958, 72 Stat. 337, is now classified to section 3510 of Title 50. For complete classification of this Act to the Code, see Tables.
+The Central Intelligence Agency Act of 1949, referred to in (g)(1)(F), is act June 20, 1949, ch. 227, 63 Stat. 208, which was formerly classified generally to section 403a et seq. of Title 50, War and National Defense, prior to editorial reclassification in chapter 46 (§ 3501 et seq.) of Title 50. Section 10 of the Act, which was renumbered as section 8 of that Act by Pub. L. 85–507, § 21(b)(2), July 7, 1958, 72 Stat. 337, is now classified to section 3510 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 Section 1202 of the Panama Canal Act of 1979, referred to in subsec. (g)(1)(G), is classified to section 3642 of Title 22, Foreign Relations and Intercourse.
 
-Section 2 of the Act of May 29, 1959 (Public Law 86–36, as amended, 50 U.S.C. 402 note), referred to in subsec. (g)(1)(H), was formerly set out in a note under section 402 of Title 50, War and National Defense, prior to repeal by Pub. L. 104–201, div. A, title XVI, § 1633(b)(1), Sept. 23, 1996, 110 Stat. 2751. Another section 2 of Pub. L. 86–36 was added by Pub. L. 111–259, title IV, § 433, Oct. 7, 2010, 124 Stat. 2732, and has been editorially reclassified as section 3602 of Title 50.
+Section 2 of the Act of May 29, 1959 (Public Law 86–36, as amended, 50 U.S.C. 402 note), referred to in subsec. (g)(1)(H), was formerly set out in a note under section 402 of Title 50, War and National Defense, prior to repeal by Pub. L. 104–201, div. A, title XVI, § 1633(b)(1), Sept. 23, 1996, 110 Stat. 2751. Another section 2 of Pub. L. 86–36 was added by Pub. L. 111–259, title IV, § 433, Oct. 7, 2010, 124 Stat. 2732, and has been editorially reclassified as section 3602 of Title 50.
 
 **Amendments**
 
-2000—Subsec. (d). Pub. L. 106–571, § 2(a)(1), struck out second sentence which read as follows: “No agreement shall be entered into under this section later than September 30, 2005, nor shall any agreement cover a period of service extending beyond September 30, 2007.”
+2000—Subsec. (d). Pub. L. 106–571, § 2(a)(1), struck out second sentence which read as follows: “No agreement shall be entered into under this section later than September 30, 2005, nor shall any agreement cover a period of service extending beyond September 30, 2007.”
 
 Pub. L. 106–554 amended second sentence generally. Prior to amendment, second sentence read as follows: “No agreement shall be entered into under this section later than September 30, 2000, nor shall any agreement cover a period of service extending beyond September 30, 2002.”
 
-Subsec. (h)(1). Pub. L. 106–571, § 3(d), substituted “chapter 81 or 87” for “chapter 81, 83, or 87”.
+Subsec. (h)(1). Pub. L. 106–571, § 3(d), substituted “chapter 81 or 87” for “chapter 81, 83, or 87”.
 
-Subsec. (j). Pub. L. 106–571, § 2(b), in par. (1), substituted “(j)” for “(j)(1)”, redesignated subpars. (A) to (E) as pars. (1) to (5), respectively, in par. (5), substituted “paragraph (2)” for “subparagraph (B)”, and struck out former par. (2) which read as follows: “In addition to the information required under paragraph (1), the last report due under this subsection before the expiration of the authority to enter into agreements under this section shall include—
+Subsec. (j). Pub. L. 106–571, § 2(b), in par. (1), substituted “(j)” for “(j)(1)”, redesignated subpars. (A) to (E) as pars. (1) to (5), respectively, in par. (5), substituted “paragraph (2)” for “subparagraph (B)”, and struck out former par. (2) which read as follows: “In addition to the information required under paragraph (1), the last report due under this subsection before the expiration of the authority to enter into agreements under this section shall include—
 
 “(A) recommendations as to whether or not such authority should be continued beyond September 30, 2000, and, if so, by what period of time; and
 
@@ -1495,47 +1495,47 @@ Subsec. (j). Pub. L. 106–571, § 2(b), in par. (1), substituted “(j)” fo
 
 1998—Subsec. (a)(2). Pub. L. 105–266 substituted “$30,000” for “$20,000”.
 
-1997—Subsec. (d). Pub. L. 105–61, § 517(a)(1), substituted “No agreement shall be entered into under this section later than September 30, 2000, nor shall any agreement cover a period of service extending beyond September 30, 2002.” for “No agreement shall be entered into under this section later than September 30, 1997, nor shall any agreement cover a period of service extending beyond September 30, 1999.”
+1997—Subsec. (d). Pub. L. 105–61, § 517(a)(1), substituted “No agreement shall be entered into under this section later than September 30, 2000, nor shall any agreement cover a period of service extending beyond September 30, 2002.” for “No agreement shall be entered into under this section later than September 30, 1997, nor shall any agreement cover a period of service extending beyond September 30, 1999.”
 
-Subsec. (j)(2)(A). Pub. L. 105–61, § 517(a)(2), substituted “September 30, 2000” for “September 30, 1997”.
+Subsec. (j)(2)(A). Pub. L. 105–61, § 517(a)(2), substituted “September 30, 2000” for “September 30, 1997”.
 
-1993—Subsec. (d). Pub. L. 103–114, § 1(a)(1), amended second sentence generally. Prior to amendment, second sentence read as follows: “No agreement shall be entered into under this section later than September 30, 1993, nor shall any agreement cover a period of service extending beyond September 30, 1995.”
+1993—Subsec. (d). Pub. L. 103–114, § 1(a)(1), amended second sentence generally. Prior to amendment, second sentence read as follows: “No agreement shall be entered into under this section later than September 30, 1993, nor shall any agreement cover a period of service extending beyond September 30, 1995.”
 
 Subsec. (g)(1)(C) to (L). Pub. L. 103–89 redesignated subpars. (D) to (L) as (C) to (K), respectively, and struck out former subpar. (C) which read as follows: “chapter 54 of this title, relating to the performance management and recognition system;”.
 
-Subsec. (j). Pub. L. 103–114, § 2(a), added subsec. (j).
+Subsec. (j). Pub. L. 103–114, § 2(a), added subsec. (j).
 
-1992—Subsec. (a). Pub. L. 102–378, § 2(51)(A), inserted “, section 5307,” after “provisions of this section” in first sentence.
+1992—Subsec. (a). Pub. L. 102–378, § 2(51)(A), inserted “, section 5307,” after “provisions of this section” in first sentence.
 
-Subsec. (g)(1)(D). Pub. L. 102–378, § 2(51)(B)(i), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “section 5371 of this title, or similar statutory authority, relating to administratively determined pay for certain specially qualified scientific or professional personnel;”.
+Subsec. (g)(1)(D). Pub. L. 102–378, § 2(51)(B)(i), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “section 5371 of this title, or similar statutory authority, relating to administratively determined pay for certain specially qualified scientific or professional personnel;”.
 
-Subsec. (g)(1)(J) to (L). Pub. L. 102–378, § 2(51)(B)(ii)–(iv), added subpars. (J) to (L).
+Subsec. (g)(1)(J) to (L). Pub. L. 102–378, § 2(51)(B)(ii)–(iv), added subpars. (J) to (L).
 
 1990—Subsec. (d). Pub. L. 101–420 added second sentence and struck out former second sentence which read as follows: “No agreement shall be entered into under this section later than September 30, 1990, nor shall any agreement cover a period of service extending beyond September 30, 1992.”
 
-1987—Subsec. (a). Pub. L. 100–140, § 1(a)(3), inserted last sentence.
+1987—Subsec. (a). Pub. L. 100–140, § 1(a)(3), inserted last sentence.
 
-Subsec. (a)(1). Pub. L. 100–140, § 1(a)(1), substituted “$14,000” for “$7,000”.
+Subsec. (a)(1). Pub. L. 100–140, § 1(a)(1), substituted “$14,000” for “$7,000”.
 
-Subsec. (a)(2). Pub. L. 100–140, § 1(a)(2), substituted “$20,000” for “$10,000”.
+Subsec. (a)(2). Pub. L. 100–140, § 1(a)(2), substituted “$20,000” for “$10,000”.
 
-Subsec. (d). Pub. L. 100–140, § 1(b), substituted “September 30, 1990” for “September 30, 1987” and “September 30, 1992” for “September 30, 1989”.
+Subsec. (d). Pub. L. 100–140, § 1(b), substituted “September 30, 1990” for “September 30, 1987” and “September 30, 1992” for “September 30, 1989”.
 
 1984—Subsec. (g)(1)(C). Pub. L. 98–615 substituted “performance management and recognition system” for “Merit Pay System”.
 
 1983—Subsec. (d). Pub. L. 98–168 substituted “1987” for “1983”, and “1989” for “1985”.
 
-1981—Subsec. (d). Pub. L. 97–141, § 2(1), substituted “September 30, 1983, nor shall any agreement cover a period of service extending beyond September 30, 1985” for “September 30, 1981, nor shall any agreement cover a period of service extending beyond September 30, 1983”.
+1981—Subsec. (d). Pub. L. 97–141, § 2(1), substituted “September 30, 1983, nor shall any agreement cover a period of service extending beyond September 30, 1985” for “September 30, 1981, nor shall any agreement cover a period of service extending beyond September 30, 1983”.
 
-Subsec. (g)(1). Pub. L. 97–141, § 2(2), (3), reenacted provisions preceding subpar. (A) without change, and in subpar. (F), substituted “chapter 4 of title I of the Foreign Service Act of 1980 (22 U.S.C. 3961 and following)” for “title 4 of the Foreign Service Act of 1946 (22 U.S.C. 861–890)”.
+Subsec. (g)(1). Pub. L. 97–141, § 2(2), (3), reenacted provisions preceding subpar. (A) without change, and in subpar. (F), substituted “chapter 4 of title I of the Foreign Service Act of 1980 (22 U.S.C. 3961 and following)” for “title 4 of the Foreign Service Act of 1946 (22 U.S.C. 861–890)”.
 
-1979—Subsec. (d). Pub. L. 96–166, § 2(1), substituted “September 30, 1981” for “September 30, 1979” and “September 30, 1983” for “September 30, 1981”.
+1979—Subsec. (d). Pub. L. 96–166, § 2(1), substituted “September 30, 1981” for “September 30, 1979” and “September 30, 1983” for “September 30, 1981”.
 
-Subsec. (g)(1). Pub. L. 96–166, § 2(2)(A), directed the amendment of subsec. (g)(1) by inserting “or dentist” after “physician” which was executed by inserting the term after “employed as a physician” in introductory phrase as the probable intent of Congress.
+Subsec. (g)(1). Pub. L. 96–166, § 2(2)(A), directed the amendment of subsec. (g)(1) by inserting “or dentist” after “physician” which was executed by inserting the term after “employed as a physician” in introductory phrase as the probable intent of Congress.
 
-Pub. L. 96–166, § 2(2)(B)–(E), redesignated subpars. (B) through (G) as (D) through (I), respectively, added subpars. (B) and (C), substituted in subpar. (D) as redesignated, “5371” for “5361”, and substituted in subpar. (H) as redesignated, “section 1202 of the Panama Canal Act of 1979, relating to the Panama Canal Commission; or” for “section 121 of title 2 of the Canal Zone Code, relating to the Canal Zone Government and the Panama Canal Company; or”.
+Pub. L. 96–166, § 2(2)(B)–(E), redesignated subpars. (B) through (G) as (D) through (I), respectively, added subpars. (B) and (C), substituted in subpar. (D) as redesignated, “5371” for “5361”, and substituted in subpar. (H) as redesignated, “section 1202 of the Panama Canal Act of 1979, relating to the Panama Canal Commission; or” for “section 121 of title 2 of the Canal Zone Code, relating to the Canal Zone Government and the Panama Canal Company; or”.
 
-Subsec. (g)(2). Pub. L. 96–166, § 2(3), inserted reference to the Library of Congress.
+Subsec. (g)(2). Pub. L. 96–166, § 2(3), inserted reference to the Library of Congress.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1553,37 +1553,37 @@ Section 205 of Pub. L. 98–615 provided that amendment by Pub. L. 98–615 was 
 
 **Effective Date of Repeal**
 
-Section 3 of Pub. L. 95–603, as amended by Pub. L. 96–166, § 4, Dec. 29, 1979, 93 Stat. 1273; Pub. L. 97–141, § 3, Dec. 29, 1981, 95 Stat. 1719; Pub. L. 98–168, title I, § 102(b), Nov. 29, 1983, 97 Stat. 1105; Pub. L. 100–140, § 1(c), as added Pub. L. 103–114, § 1(b)(1), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 101–420, § 1(b), as added Pub. L. 103–114, § 1(b)(2)(B), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 103–114, § 1(a)(2), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 105–61, title V, § 517(b), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 106–554, § 1(a)(1) [title II, § 218(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–28, which provided that this section would be repealed, unless specifically extended by Act of Congress, effective on Sept. 30, 2007, was repealed by Pub. L. 106–571, § 2(a)(2), Dec. 28, 2000, 114 Stat. 3054.
+Section 3 of Pub. L. 95–603, as amended by Pub. L. 96–166, § 4, Dec. 29, 1979, 93 Stat. 1273; Pub. L. 97–141, § 3, Dec. 29, 1981, 95 Stat. 1719; Pub. L. 98–168, title I, § 102(b), Nov. 29, 1983, 97 Stat. 1105; Pub. L. 100–140, § 1(c), as added Pub. L. 103–114, § 1(b)(1), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 101–420, § 1(b), as added Pub. L. 103–114, § 1(b)(2)(B), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 103–114, § 1(a)(2), Oct. 26, 1993, 107 Stat. 1115; Pub. L. 105–61, title V, § 517(b), Oct. 10, 1997, 111 Stat. 1307; Pub. L. 106–554, § 1(a)(1) [title II, § 218(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–28, which provided that this section would be repealed, unless specifically extended by Act of Congress, effective on Sept. 30, 2007, was repealed by Pub. L. 106–571, § 2(a)(2), Dec. 28, 2000, 114 Stat. 3054.
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–571, § 1, Dec. 28, 2000, 114 Stat. 3054, provided that: “This Act [amending this section and sections 8331, 8339, 8401, and 8415 of this title] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 2000’.”
+Pub. L. 106–571, § 1, Dec. 28, 2000, 114 Stat. 3054, provided that: “This Act [amending this section and sections 8331, 8339, 8401, and 8415 of this title] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 2000’.”
 
 **Short Title of 1983 Amendment**
 
-Pub. L. 98–168, title I, § 101, Nov. 29, 1983, 97 Stat. 1105, provided that: “This title [amending this section, enacting provisions set out below, and amending provisions set out as a note above] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 1983’.”
+Pub. L. 98–168, title I, § 101, Nov. 29, 1983, 97 Stat. 1105, provided that: “This title [amending this section, enacting provisions set out below, and amending provisions set out as a note above] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 1983’.”
 
 **Short Title of 1981 Amendment**
 
-Pub. L. 97–141, § 1, Dec. 29, 1981, 95 Stat. 1719, provided: “That this Act [amending this section and section 8344 of this title and provisions set out below and enacting provisions set out as notes under this section and section 8344 of this title] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 1981’.”
+Pub. L. 97–141, § 1, Dec. 29, 1981, 95 Stat. 1719, provided: “That this Act [amending this section and section 8344 of this title and provisions set out below and enacting provisions set out as notes under this section and section 8344 of this title] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 1981’.”
 
 **Short Title of 1979 Amendment**
 
-Pub. L. 96–166, § 1, Dec. 29, 1979, 93 Stat. 1273, provided: “That this Act [amending this section and section 5383 of this title and provisions set out as a note under this section, and enacting provisions set out below] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 1979’.”
+Pub. L. 96–166, § 1, Dec. 29, 1979, 93 Stat. 1273, provided: “That this Act [amending this section and section 5383 of this title and provisions set out as a note under this section, and enacting provisions set out below] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 1979’.”
 
 **Short Title**
 
-Pub. L. 95–603, § 1, Nov. 6, 1978, 92 Stat. 3018, provided: “That this Act [enacting this section and provisions set out as notes under this section] may be cited as the ‘Federal Physicians Comparability Allowance Act of 1978’.”
+Pub. L. 95–603, § 1, Nov. 6, 1978, 92 Stat. 3018, provided: “That this Act [enacting this section and provisions set out as notes under this section] may be cited as the ‘Federal Physicians Comparability Allowance Act of 1978’.”
 
 **Construction of 1998 Amendment**
 
-Pub. L. 105–266, § 7(c), Oct. 19, 1998, 112 Stat. 2370, provided that: “Nothing in this section [amending this section and enacting provisions set out as a note below] shall be considered to authorize additional or supplemental appropriations for the fiscal year in which occurs the date of the enactment of this Act [Oct. 19, 1998].”
+Pub. L. 105–266, § 7(c), Oct. 19, 1998, 112 Stat. 2370, provided that: “Nothing in this section [amending this section and enacting provisions set out as a note below] shall be considered to authorize additional or supplemental appropriations for the fiscal year in which occurs the date of the enactment of this Act [Oct. 19, 1998].”
 
 **Construction of 1993 Amendment**
 
-Pub. L. 103–114, § 1(a)(4), Oct. 26, 1993, 107 Stat. 1115, provided that: “The amendments made by this subsection [amending this section and provisions set out above] shall not be construed to authorize additional or supplemental appropriations for the fiscal year ending September 30, 1993.”
+Pub. L. 103–114, § 1(a)(4), Oct. 26, 1993, 107 Stat. 1115, provided that: “The amendments made by this subsection [amending this section and provisions set out above] shall not be construed to authorize additional or supplemental appropriations for the fiscal year ending September 30, 1993.”
 
-Pub. L. 103–114, § 1(c), Oct. 26, 1993, 107 Stat. 1116, provided that:
+Pub. L. 103–114, § 1(c), Oct. 26, 1993, 107 Stat. 1116, provided that:
 
 > “For purposes of applying the amendments made by this section [amending this section and enacting and amending provisions set out as notes above]—
 
@@ -1593,7 +1593,7 @@ Pub. L. 103–114, § 1(c), Oct. 26, 1993, 107 Stat. 1116, provided that:
 
 **Modification of Service Agreements in Effect on October 19, 1998; Limitation**
 
-Pub. L. 105–266, § 7(b), Oct. 19, 1998, 112 Stat. 2369, provided that:
+Pub. L. 105–266, § 7(b), Oct. 19, 1998, 112 Stat. 2369, provided that:
 
 > **“(1) In general.—** Any service agreement under section 5948 of title 5, United States Code, which is in effect on the date of the enactment of this Act [Oct. 19, 1998] may, with respect to any period of service remaining in such agreement, be modified based on the amendment made by subsection (a) [amending this section].
 
@@ -1601,27 +1601,27 @@ Pub. L. 105–266, § 7(b), Oct. 19, 1998, 112 Stat. 2369, provided that:
 
 **Effectiveness of Service Agreements Limited by Appropriation Acts**
 
-Pub. L. 103–114, § 1(a)(3), Oct. 26, 1993, 107 Stat. 1115, provided that: “Any service agreement entered into on or after the date of the enactment of this Act [Oct. 26, 1993] pursuant to section 5948 of title 5, United States Code, as amended by paragraph (1), shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.”
+Pub. L. 103–114, § 1(a)(3), Oct. 26, 1993, 107 Stat. 1115, provided that: “Any service agreement entered into on or after the date of the enactment of this Act [Oct. 26, 1993] pursuant to section 5948 of title 5, United States Code, as amended by paragraph (1), shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.”
 
 **Due Date for First Annual Report on Operation of Section**
 
-Pub. L. 103–114, § 2(b), Oct. 26, 1993, 107 Stat. 1116, provided that: “The first report under section 5948(j) of title 5, United States Code, as amended by subsection (a), shall be due not later than June 30, 1994.”
+Pub. L. 103–114, § 2(b), Oct. 26, 1993, 107 Stat. 1116, provided that: “The first report under section 5948(j) of title 5, United States Code, as amended by subsection (a), shall be due not later than June 30, 1994.”
 
 **Pay of Certain Federal Physicians for Fiscal Year 1982**
 
-Pub. L. 98–168, title I, § 103, Nov. 29, 1983, 97 Stat. 1105, provided that any individual whose aggregate pay for fiscal year 1982 exceeded the limitation set forth in section 5383(b) of this title is relieved of all liability to the United States for any amounts paid to such individual in excess of such limitation if, and to the extent that, such liability takes into account any allowance paid under this section, provided for repayment to individuals relieved from liability of amounts already paid, and defined the terms “aggregate pay”, “appropriate agency head”, and “agency”.
+Pub. L. 98–168, title I, § 103, Nov. 29, 1983, 97 Stat. 1105, provided that any individual whose aggregate pay for fiscal year 1982 exceeded the limitation set forth in section 5383(b) of this title is relieved of all liability to the United States for any amounts paid to such individual in excess of such limitation if, and to the extent that, such liability takes into account any allowance paid under this section, provided for repayment to individuals relieved from liability of amounts already paid, and defined the terms “aggregate pay”, “appropriate agency head”, and “agency”.
 
 **Service Agreements Entered Into On or After December 29, 1981; Advance Authorization; Fiscal Year 1982**
 
-Pub. L. 97–141, § 4, Dec. 29, 1981, 95 Stat. 1719, provided that any service agreement entered into on or after Dec. 29, 1981, pursuant to this section, as amended by section 2 of Pub. L. 97–141, shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts, and that the amendments made by Pub. L. 97–141 shall not be construed to authorize additional or supplemental appropriations for the fiscal year ending Sept. 30, 1982.
+Pub. L. 97–141, § 4, Dec. 29, 1981, 95 Stat. 1719, provided that any service agreement entered into on or after Dec. 29, 1981, pursuant to this section, as amended by section 2 of Pub. L. 97–141, shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts, and that the amendments made by Pub. L. 97–141 shall not be construed to authorize additional or supplemental appropriations for the fiscal year ending Sept. 30, 1982.
 
 **Service Agreements Entered Into On or After December 29, 1979; Advance Authorization**
 
-Pub. L. 96–166, § 5, Dec. 29, 1979, 93 Stat. 1273, provided that any service agreement entered into on or after Dec. 29, 1979, pursuant to this section, as amended by section 2 of Pub. L. 96–166, shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
+Pub. L. 96–166, § 5, Dec. 29, 1979, 93 Stat. 1273, provided that any service agreement entered into on or after Dec. 29, 1979, pursuant to this section, as amended by section 2 of Pub. L. 96–166, shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
 **Time of Entry into Allowance Agreements and for Commencement of Allowance**
 
-Pub. L. 95–603, § 2(c), Nov. 6, 1978, 92 Stat. 3020, provided that no agreement be entered into under this section before 60th day after Nov. 6, 1978, and that no agreement provide for payment of any allowance under such section for any pay period beginning before later of such 60th day, or Oct. 1, 1978.
+Pub. L. 95–603, § 2(c), Nov. 6, 1978, 92 Stat. 3020, provided that no agreement be entered into under this section before 60th day after Nov. 6, 1978, and that no agreement provide for payment of any allowance under such section for any pay period beginning before later of such 60th day, or Oct. 1, 1978.
 
 **Executive Documents**
 
@@ -1637,7 +1637,7 @@ By the authority vested in me as President of the United States of America by Se
 
 Jimmy Carter.
 
-### § 5949. Hostile fire pay
+### § 5949. Hostile fire pay
 
 **(a)** The head of an Executive agency may pay an employee hostile fire pay at the rate of $150 for any month in which the employee was—
 
@@ -1651,10 +1651,10 @@ Jimmy Carter.
 
 **(c)** An employee may be paid hostile fire pay under this section in addition to other pay and allowances to which entitled, except that an employee may not be paid hostile fire pay under this section for periods of time during which the employee receives payment under section 5925 of this title because of exposure to political violence or payment under section 5928 of this title.
 
-(Added Pub. L. 107–107, div. A, title XI, § 1111(a), Dec. 28, 2001, 115 Stat. 1238.)
+(Added Pub. L. 107–107, div. A, title XI, § 1111(a), Dec. 28, 2001, 115 Stat. 1238.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 107–107, div. A, title XI, § 1111(c), Dec. 28, 2001, 115 Stat. 1238, as amended by Pub. L. 108–375, div. A, title X, § 1084(h)(3), Oct. 28, 2004, 118 Stat. 2064, provided that: “Section 5949 of title 5, United States Code, as added by subsection (a), is effective as if enacted into law on September 11, 2001, and may be applied with respect to any hostile action that took place on or after that date.”
+Pub. L. 107–107, div. A, title XI, § 1111(c), Dec. 28, 2001, 115 Stat. 1238, as amended by Pub. L. 108–375, div. A, title X, § 1084(h)(3), Oct. 28, 2004, 118 Stat. 2064, provided that: “Section 5949 of title 5, United States Code, as added by subsection (a), is effective as if enacted into law on September 11, 2001, and may be applied with respect to any hostile action that took place on or after that date.”

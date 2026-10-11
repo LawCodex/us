@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1991—Pub. L. 102–204, § 5(d)(2)(B), (C), Dec. 10, 1991, 105 Stat. 1640, inserted “; FUNDING; SEARCH SYSTEMS” after “FEES” in chapter heading, inserted “; patent and trademark search systems” after “fees” in item 41, and substituted “Patent and Trademark Office funding” for “Payment of patent fees; return of excess amounts” in item 42.
+1991—Pub. L. 102–204, § 5(d)(2)(B), (C), Dec. 10, 1991, 105 Stat. 1640, inserted “; FUNDING; SEARCH SYSTEMS” after “FEES” in chapter heading, inserted “; patent and trademark search systems” after “fees” in item 41, and substituted “Patent and Trademark Office funding” for “Payment of patent fees; return of excess amounts” in item 42.
 
-## § 41. Patent fees; patent and trademark search systems
+## § 41. Patent fees; patent and trademark search systems
 
 **(a) General Fees.—** The Director shall charge the following fees:
 
@@ -89,9 +89,9 @@ retrieved: 2026-10-11
 
 **(B)** In addition, on filing a brief in support of the appeal, $540, and on requesting an oral hearing in the appeal before the Patent Trial and Appeal Board, $1,080.
 
-**(7) Revival fees.—** On filing each petition for the revival of an abandoned application for a patent, for the delayed payment of the fee for issuing each patent, for the delayed response by the patent owner in any reexamination proceeding, for the delayed payment of the fee for maintaining a patent in force, for the delayed submission of a priority or benefit claim, or for the extension of the 12-month period for filing a subsequent application, $1,700.00. The Director may refund any part of the fee specified in this paragraph, in exceptional circumstances as determined by the Director 1
+**(7) Revival fees.—** On filing each petition for the revival of an abandoned application for a patent, for the delayed payment of the fee for issuing each patent, for the delayed response by the patent owner in any reexamination proceeding, for the delayed payment of the fee for maintaining a patent in force, for the delayed submission of a priority or benefit claim, or for the extension of the 12-month period for filing a subsequent application, $1,700.00. The Director may refund any part of the fee specified in this paragraph, in exceptional circumstances as determined by the Director 1
 
-<sup>1</sup>  So in original. Probably should be followed by a period.
+<sup>1</sup> So in original. Probably should be followed by a period.
 
 **(8) Extension fees.—** For petitions for 1-month extensions of time to take actions required by the Director in an application—
 
@@ -159,7 +159,7 @@ retrieved: 2026-10-11
 
 **(f) Adjustment of Fees.—** The fees established in subsections (a) and (b) of this section may be adjusted by the Director on October 1, 1992, and every year thereafter, to reflect any fluctuations occurring during the previous 12 months in the Consumer Price Index, as determined by the Secretary of Labor. Changes of less than 1 per centum may be ignored.
 
-**[(g)** Repealed. Pub. L. 112–29, § 11(e)(3), Sept. 16, 2011, 125 Stat. 323.]
+**[(g)** Repealed. Pub. L. 112–29, § 11(e)(3), Sept. 16, 2011, 125 Stat. 323.]
 
 **(h) Fees for Small Entities.—**
 
@@ -181,11 +181,11 @@ retrieved: 2026-10-11
 
 **(j) Penalty for False Assertions.—** In addition to any other penalty available under law, an entity that is found to have falsely asserted entitlement to a fee reduction under this section shall, unless the entity shows that the assertion was made in good faith, be subject to a fine, to be determined by the Director, the amount of which shall be not less than 3 times the amount that the entity failed to pay as a result of the false assertion, whether the Director discovers the false assertion before or after the date on which a patent has been issued.
 
-(July 19, 1952, ch. 950, 66 Stat. 796; Pub. L. 89–83, §§ 1, 2, July 24, 1965, 79 Stat. 259; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 94–131, § 3, Nov. 14, 1975, 89 Stat. 690; Pub. L. 96–517, § 2, Dec. 12, 1980, 94 Stat. 3017; Pub. L. 97–247, § 3(a)–(e), Aug. 27, 1982, 96 Stat. 317–319; Pub. L. 97–256, title I, § 101(1)–(4), Sept. 8, 1982, 96 Stat. 816; Pub. L. 98–622, title II, § 204(a), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 99–607, § 1(b)(2), Nov. 6, 1986, 100 Stat. 3470; Pub. L. 102–204, § 5(a)–(c)(1), (d)(1), (2)(A), Dec. 10, 1991, 105 Stat. 1637–1639; Pub. L. 102–444, § 1, Oct. 23, 1992, 106 Stat. 2245; Pub. L. 103–465, title V, §§ 532(b)(2), 533(b)(1), Dec. 8, 1994, 108 Stat. 4986, 4988; Pub. L. 105–358, § 3, Nov. 10, 1998, 112 Stat. 3272; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4202, 4605(a), 4732(a)(5), (10)(A), 4804(d)(1)], Nov. 29, 1999, 113 Stat. 1536, 1501A–554, 1501A–570, 1501A–582, 1501A–589; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§ 11(a)–(e), 20(j), Sept. 16, 2011, 125 Stat. 320–323, 335; Pub. L. 112–211, title II, § 202(b)(1), Dec. 18, 2012, 126 Stat. 1535; Pub. L. 117–328, div. W, § 107(a), (b)(1), Dec. 29, 2022, 136 Stat. 5521; Pub. L. 118–151, § 1(1), Dec. 17, 2024, 138 Stat. 1685.)
+(July 19, 1952, ch. 950, 66 Stat. 796; Pub. L. 89–83, §§ 1, 2, July 24, 1965, 79 Stat. 259; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 94–131, § 3, Nov. 14, 1975, 89 Stat. 690; Pub. L. 96–517, § 2, Dec. 12, 1980, 94 Stat. 3017; Pub. L. 97–247, § 3(a)–(e), Aug. 27, 1982, 96 Stat. 317–319; Pub. L. 97–256, title I, § 101(1)–(4), Sept. 8, 1982, 96 Stat. 816; Pub. L. 98–622, title II, § 204(a), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 99–607, § 1(b)(2), Nov. 6, 1986, 100 Stat. 3470; Pub. L. 102–204, § 5(a)–(c)(1), (d)(1), (2)(A), Dec. 10, 1991, 105 Stat. 1637–1639; Pub. L. 102–444, § 1, Oct. 23, 1992, 106 Stat. 2245; Pub. L. 103–465, title V, §§ 532(b)(2), 533(b)(1), Dec. 8, 1994, 108 Stat. 4986, 4988; Pub. L. 105–358, § 3, Nov. 10, 1998, 112 Stat. 3272; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4202, 4605(a), 4732(a)(5), (10)(A), 4804(d)(1)], Nov. 29, 1999, 113 Stat. 1536, 1501A–554, 1501A–570, 1501A–582, 1501A–589; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§ 11(a)–(e), 20(j), Sept. 16, 2011, 125 Stat. 320–323, 335; Pub. L. 112–211, title II, § 202(b)(1), Dec. 18, 2012, 126 Stat. 1535; Pub. L. 117–328, div. W, § 107(a), (b)(1), Dec. 29, 2022, 136 Stat. 5521; Pub. L. 118–151, § 1(1), Dec. 17, 2024, 138 Stat. 1685.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 78 (R.S. 4934, amended (1) May 27, 1908, ch. 200, § 1 (part), 35 Stat. 317, 343; (2) June 25, 1910, ch. 414, § 2, 35 Stat. 843; (3) Feb. 18, 1922, ch. 58, § 9, 42 Stat. 389, 393; (4) Feb. 14, 1927, ch. 139, § 2, 44 Stat. 1098, 1099; (5) Mar. 2, 1927, ch. 273, § 13, 44 Stat. 1335, 1337; (6) April 11, 1930, ch. 132, § 3, 46 Stat. 155; (7) June 30, 1932, ch. 314, §§ 308, 309, 47 Stat. 382, 410; (8) Aug. 9, 1939, ch. 619, § 3, 53 Stat. 1293; July 5, 1946, ch. 541, § 301 (part), 60 Stat. 446, 471).
+Based on Title 35, U.S.C., 1946 ed., § 78 (R.S. 4934, amended (1) May 27, 1908, ch. 200, § 1 (part), 35 Stat. 317, 343; (2) June 25, 1910, ch. 414, § 2, 35 Stat. 843; (3) Feb. 18, 1922, ch. 58, § 9, 42 Stat. 389, 393; (4) Feb. 14, 1927, ch. 139, § 2, 44 Stat. 1098, 1099; (5) Mar. 2, 1927, ch. 273, § 13, 44 Stat. 1335, 1337; (6) April 11, 1930, ch. 132, § 3, 46 Stat. 155; (7) June 30, 1932, ch. 314, §§ 308, 309, 47 Stat. 382, 410; (8) Aug. 9, 1939, ch. 619, § 3, 53 Stat. 1293; July 5, 1946, ch. 541, § 301 (part), 60 Stat. 446, 471).
 
 The items in the schedule of fees are rearranged in a few instances and are numbered for convenient reference.
 
@@ -211,23 +211,23 @@ Section 3 of the Small Business Act, referred to in subsec. (h)(1), is classifie
 
 **Amendments**
 
-2024—Subsec. (j). Pub. L. 118–151 inserted “, unless the entity shows that the assertion was made in good faith,” before “be subject”.
+2024—Subsec. (j). Pub. L. 118–151 inserted “, unless the entity shows that the assertion was made in good faith,” before “be subject”.
 
-2022—Subsec. (h)(1). Pub. L. 117–328, § 107(a)(1), substituted “60 percent” for “50 percent”.
+2022—Subsec. (h)(1). Pub. L. 117–328, § 107(a)(1), substituted “60 percent” for “50 percent”.
 
-Subsec. (h)(3). Pub. L. 117–328, § 107(a)(2), substituted “80 percent” for “75 percent”.
+Subsec. (h)(3). Pub. L. 117–328, § 107(a)(2), substituted “80 percent” for “75 percent”.
 
-Subsec. (j). Pub. L. 117–328, § 107(b)(1), added subsec. (j).
+Subsec. (j). Pub. L. 117–328, § 107(b)(1), added subsec. (j).
 
-2012—Subsec. (a)(7). Pub. L. 112–211, § 202(b)(1)(A), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: “On filing each petition for the revival of an unintentionally abandoned application for a patent, for the unintentionally delayed payment of the fee for issuing each patent, or for an unintentionally delayed response by the patent owner in any reexamination proceeding, $1,620, unless the petition is filed under section 133 or 151, in which case the fee shall be $540.”
+2012—Subsec. (a)(7). Pub. L. 112–211, § 202(b)(1)(A), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: “On filing each petition for the revival of an unintentionally abandoned application for a patent, for the unintentionally delayed payment of the fee for issuing each patent, or for an unintentionally delayed response by the patent owner in any reexamination proceeding, $1,620, unless the petition is filed under section 133 or 151, in which case the fee shall be $540.”
 
-Subsec. (c)(1). Pub. L. 112–211, § 202(b)(1)(B), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Director may accept the payment of any maintenance fee required by subsection (b) of this section which is made within twenty-four months after the six-month grace period if the delay is shown to the satisfaction of the Director to have been unintentional, or at any time after the six-month grace period if the delay is shown to the satisfaction of the Director to have been unavoidable. The Director may require the payment of a surcharge as a condition of accepting payment of any maintenance fee after the six-month grace period. If the Director accepts payment of a maintenance fee after the six-month grace period, the patent shall be considered as not having expired at the end of the grace period.”
+Subsec. (c)(1). Pub. L. 112–211, § 202(b)(1)(B), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Director may accept the payment of any maintenance fee required by subsection (b) of this section which is made within twenty-four months after the six-month grace period if the delay is shown to the satisfaction of the Director to have been unintentional, or at any time after the six-month grace period if the delay is shown to the satisfaction of the Director to have been unavoidable. The Director may require the payment of a surcharge as a condition of accepting payment of any maintenance fee after the six-month grace period. If the Director accepts payment of a maintenance fee after the six-month grace period, the patent shall be considered as not having expired at the end of the grace period.”
 
-2011—Subsecs. (a), (b). Pub. L. 112–29, § 11(a), amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) and (b) required the Director to charge certain fees for filing applications, disclaimers, petitions, and appeal documents, presenting claims, and issuing patents, and to charge certain fees for maintaining in force patents based on applications filed on or after Dec. 12, 1980, respectively.
+2011—Subsecs. (a), (b). Pub. L. 112–29, § 11(a), amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) and (b) required the Director to charge certain fees for filing applications, disclaimers, petitions, and appeal documents, presenting claims, and issuing patents, and to charge certain fees for maintaining in force patents based on applications filed on or after Dec. 12, 1980, respectively.
 
-Subsec. (c). Pub. L. 112–29, § 11(b), inserted subsec. heading and headings of pars. (1) and (2).
+Subsec. (c). Pub. L. 112–29, § 11(b), inserted subsec. heading and headings of pars. (1) and (2).
 
-Subsec. (d). Pub. L. 112–29, § 11(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Director shall establish fees for all other processing, services, or materials relating to patents not specified in this section to recover the estimated average cost to the Office of such processing, services, or materials, except that the Director shall charge the following fees for the following services:
+Subsec. (d). Pub. L. 112–29, § 11(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Director shall establish fees for all other processing, services, or materials relating to patents not specified in this section to recover the estimated average cost to the Office of such processing, services, or materials, except that the Director shall charge the following fees for the following services:
 
 “(1) For recording a document affecting title, $40 per property.
 
@@ -237,51 +237,51 @@ Subsec. (d). Pub. L. 112–29, § 11(c), amended subsec. (d) generally. Prior 
 
 The yearly fee for providing a library specified in section 13 of this title with uncertified printed copies of the specifications and drawings for all patents in that year shall be $50.”
 
-Subsec. (e). Pub. L. 112–29, § 20(j), struck out “of this title” after “132”.
+Subsec. (e). Pub. L. 112–29, § 20(j), struck out “of this title” after “132”.
 
-Pub. L. 112–29, § 11(e)(1), inserted heading.
+Pub. L. 112–29, § 11(e)(1), inserted heading.
 
-Subsec. (f). Pub. L. 112–29, § 11(e)(2), inserted heading.
+Subsec. (f). Pub. L. 112–29, § 11(e)(2), inserted heading.
 
-Subsec. (g). Pub. L. 112–29, § 11(e)(3), struck out subsec. (g) which read as follows: “No fee established by the Director under this section shall take effect until at least 30 days after notice of the fee has been published in the Federal Register and in the Official Gazette of the Patent and Trademark Office.”
+Subsec. (g). Pub. L. 112–29, § 11(e)(3), struck out subsec. (g) which read as follows: “No fee established by the Director under this section shall take effect until at least 30 days after notice of the fee has been published in the Federal Register and in the Official Gazette of the Patent and Trademark Office.”
 
-Subsec. (h). Pub. L. 112–29, § 11(d), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows:
+Subsec. (h). Pub. L. 112–29, § 11(d), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows:
 
 “(h)(1) Fees charged under subsection (a) or (b) shall be reduced by 50 percent with respect to their application to any small business concern as defined under section 3 of the Small Business Act, and to any independent inventor or nonprofit organization as defined in regulations issued by the Director.
 
 “(2) With respect to its application to any entity described in paragraph (1), any surcharge or fee charged under subsection (c) or (d) shall not be higher than the surcharge or fee required of any other entity under the same or substantially similar circumstances.”
 
-Subsec. (i). Pub. L. 112–29, § 11(e)(4), inserted subsec. heading and headings of pars. (1) to (4).
+Subsec. (i). Pub. L. 112–29, § 11(e)(4), inserted subsec. heading and headings of pars. (1) to (4).
 
-2002—Subsec. (a). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
+2002—Subsec. (a). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
 
-1999—Subsec. (a). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” in introductory and concluding provisions.
+1999—Subsec. (a). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” in introductory and concluding provisions.
 
-Subsec. (a)(1)(A), (4)(A). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4202(a), (b)], substituted “$690” for “$760”.
+Subsec. (a)(1)(A), (4)(A). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4202(a), (b)], substituted “$690” for “$760”.
 
-Subsec. (a)(7). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4605(a)], amended par. (7) generally. Prior to amendment, par. (7) read as follows: “On filing each petition for the revival of an unintentionally abandoned application for a patent or for the unintentionally delayed payment of the fee for issuing each patent, $1,210, unless the petition is filed under section 133 or 151 of this title, in which case the fee shall be $110.”
+Subsec. (a)(7). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4605(a)], amended par. (7) generally. Prior to amendment, par. (7) read as follows: “On filing each petition for the revival of an unintentionally abandoned application for a patent or for the unintentionally delayed payment of the fee for issuing each patent, $1,210, unless the petition is filed under section 133 or 151 of this title, in which case the fee shall be $110.”
 
-Subsec. (a)(8). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], substituted “Director” for “Commissioner” in introductory provisions.
+Subsec. (a)(8). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], substituted “Director” for “Commissioner” in introductory provisions.
 
-Subsec. (a)(10). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4202(c)], substituted “$690” for “$760”.
+Subsec. (a)(10). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4202(c)], substituted “$690” for “$760”.
 
-Subsec. (b). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], substituted “Director” for “Commissioner” in introductory and concluding provisions.
+Subsec. (b). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], substituted “Director” for “Commissioner” in introductory and concluding provisions.
 
-Subsec. (b)(1). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4202(d)], substituted “$830” for “$940”.
+Subsec. (b)(1). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4202(d)], substituted “$830” for “$940”.
 
-Subsecs. (c) to (g). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], substituted “Director” for “Commissioner” wherever appearing.
+Subsecs. (c) to (g). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], substituted “Director” for “Commissioner” wherever appearing.
 
-Subsec. (h)(1). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(5)], substituted “Director” for “Commissioner of Patents and Trademarks”.
+Subsec. (h)(1). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(5)], substituted “Director” for “Commissioner of Patents and Trademarks”.
 
-Subsec. (i)(1). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4804(d)(1)], substituted “paper, microform, or electronic” for “paper or microform”.
+Subsec. (i)(1). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4804(d)(1)], substituted “paper, microform, or electronic” for “paper or microform”.
 
-Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)] substituted “Director” for “Commissioner” in two places.
+Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)] substituted “Director” for “Commissioner” in two places.
 
-Subsec. (i)(2) to (4). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], substituted “Director” for “Commissioner” wherever appearing.
+Subsec. (i)(2) to (4). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], substituted “Director” for “Commissioner” wherever appearing.
 
-1998—Subsec. (a). Pub. L. 105–358, § 3(a), added subsec. (a) and struck out former subsec. (a) which listed fees for patent services.
+1998—Subsec. (a). Pub. L. 105–358, § 3(a), added subsec. (a) and struck out former subsec. (a) which listed fees for patent services.
 
-Subsec. (b). Pub. L. 105–358, § 3(b), added subsec. (b) and struck out former subsec. (b) which read as follows: “The Commissioner shall charge the following fees for maintaining in force all patents based on applications filed on or after December 12, 1980:
+Subsec. (b). Pub. L. 105–358, § 3(b), added subsec. (b) and struck out former subsec. (b) which read as follows: “The Commissioner shall charge the following fees for maintaining in force all patents based on applications filed on or after December 12, 1980:
 
 “(1) 3 years and 6 months after grant, $650.
 
@@ -291,15 +291,15 @@ Subsec. (b). Pub. L. 105–358, § 3(b), added subsec. (b) and struck out form
 
 Unless payment of the applicable maintenance fee is received in the Patent and Trademark Office on or before the date the fee is due or within a grace period of six months thereafter, the patent will expire as of the end of such grace period. The Commissioner may require the payment of a surcharge as a condition of accepting within such six-month grace period the late payment of an applicable maintenance fee. No fee will be established for maintaining a design or plant patent in force.”
 
-1994—Subsec. (a)(1)(C). Pub. L. 103–465, § 532(b)(2), added subpar. (C).
+1994—Subsec. (a)(1)(C). Pub. L. 103–465, § 532(b)(2), added subpar. (C).
 
-Subsec. (c)(2). Pub. L. 103–465, § 533(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “No patent, the term of which has been maintained as a result of the acceptance of a payment of a maintenance fee under this subsection, shall abridge or affect the right of any person or his successors in business who made, purchased or used after the six-month grace period but prior to the acceptance of a maintenance fee under this subsection anything protected by the patent, to continue the use of, or to sell to others to be used or sold, the specific thing so made, purchased, or used. The court before which such matter is in question may provide for the continued manufacture, use or sale of the thing made, purchased, or used as specified, or for the manufacture, use or sale of which substantial preparation was made after the six-month grace period but before the acceptance of a maintenance fee under this subsection, and it may also provide for the continued practice of any process, practiced, or for the practice of which substantial preparation was made, after the six-month grace period but prior to the acceptance of a maintenance fee under this subsection, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced after the six-month grace period but before the acceptance of a maintenance fee under the subsection.”
+Subsec. (c)(2). Pub. L. 103–465, § 533(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “No patent, the term of which has been maintained as a result of the acceptance of a payment of a maintenance fee under this subsection, shall abridge or affect the right of any person or his successors in business who made, purchased or used after the six-month grace period but prior to the acceptance of a maintenance fee under this subsection anything protected by the patent, to continue the use of, or to sell to others to be used or sold, the specific thing so made, purchased, or used. The court before which such matter is in question may provide for the continued manufacture, use or sale of the thing made, purchased, or used as specified, or for the manufacture, use or sale of which substantial preparation was made after the six-month grace period but before the acceptance of a maintenance fee under this subsection, and it may also provide for the continued practice of any process, practiced, or for the practice of which substantial preparation was made, after the six-month grace period but prior to the acceptance of a maintenance fee under this subsection, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced after the six-month grace period but before the acceptance of a maintenance fee under the subsection.”
 
 1992—Subsec. (c)(1). Pub. L. 102–444 inserted after “section” in first sentence “which is made within twenty-four months after the six-month grace period if the delay is shown to the satisfaction of the Commissioner to have been unintentional, or at any time”.
 
-1991—Pub. L. 102–204, § 5(d)(2)(A), inserted “; patent and trademark search systems” after “fees” in section catchline.
+1991—Pub. L. 102–204, § 5(d)(2)(A), inserted “; patent and trademark search systems” after “fees” in section catchline.
 
-Subsec. (a). Pub. L. 102–204, § 5(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Commissioner shall charge the following fees:
+Subsec. (a). Pub. L. 102–204, § 5(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Commissioner shall charge the following fees:
 
 “1. On filing each application for an original patent, except in design or plant cases, $300; in addition, on filing or on presentation at any other time, $30 for each claim in independent form which is in excess of three, $10 for each claim (whether independent or dependent) which is in excess of twenty, and $100 for each application containing a multiple dependent claim. For the purpose of computing fees, a multiple dependent claim as referred to in section 112 of this title or any claim depending therefrom shall be considered as separate dependent claims in accordance with the number of claims to which reference is made. Errors in payment of the additional fees may be rectified in accordance with regulations of the Commissioner.
 
@@ -331,7 +331,7 @@ Subsec. (a). Pub. L. 102–204, § 5(a)(1), amended subsec. (a) generally. Pri
 
 “c. On filing a third or subsequent petition, $200.”
 
-Subsec. (b). Pub. L. 102–204, § 5(a)(2), substituted “in force all patents based on applications filed on or after December 12, 1980:
+Subsec. (b). Pub. L. 102–204, § 5(a)(2), substituted “in force all patents based on applications filed on or after December 12, 1980:
 
 “(1) 3 years and 6 months after grant, $650.
 
@@ -347,35 +347,35 @@ for “a patent in force:
 
 “3. Eleven years and six months after grant, $1,200.”
 
-Subsec. (d). Pub. L. 102–204, § 5(a)(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Commissioner will establish fees for all other processing, services, or materials related to patents not specified above to recover the estimated average cost to the Office of such processing, services, or materials. The yearly fee for providing a library specified in section 13 of this title with uncertified printed copies of the specifications and drawings for all patents issued in that year will be $50.”
+Subsec. (d). Pub. L. 102–204, § 5(a)(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Commissioner will establish fees for all other processing, services, or materials related to patents not specified above to recover the estimated average cost to the Office of such processing, services, or materials. The yearly fee for providing a library specified in section 13 of this title with uncertified printed copies of the specifications and drawings for all patents issued in that year will be $50.”
 
-Subsec. (f). Pub. L. 102–204, § 5(b), substituted “on October 1, 1992, and every year thereafter, to reflect any fluctuations occurring during the previous 12 months” for “on October 1, 1985, and every third year thereafter, to reflect any fluctuations occurring during the previous three years”.
+Subsec. (f). Pub. L. 102–204, § 5(b), substituted “on October 1, 1992, and every year thereafter, to reflect any fluctuations occurring during the previous 12 months” for “on October 1, 1985, and every third year thereafter, to reflect any fluctuations occurring during the previous three years”.
 
-Subsec. (g). Pub. L. 102–204, § 5(c)(1), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “No fee established by the Commissioner under this section will take effect prior to sixty days following notice in the Federal Register.”
+Subsec. (g). Pub. L. 102–204, § 5(c)(1), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “No fee established by the Commissioner under this section will take effect prior to sixty days following notice in the Federal Register.”
 
-Subsec. (i). Pub. L. 102–204, § 5(d)(1), added subsec. (i).
+Subsec. (i). Pub. L. 102–204, § 5(d)(1), added subsec. (i).
 
 1986—Subsec. (h). Pub. L. 99–607 added subsec. (h).
 
 1984—Subsec. (a)(6). Pub. L. 98–622 substituted “Patent Appeals and Interferences” for “Appeals” in two places and inserted “in the appeal” after “oral hearing”.
 
-1982—Subsec. (a). Pub. L. 97–247, § 3(a), substituted provisions setting a schedule of fees for provisions which had directed that the Commissioner establish fees for the processing of an application for a patent, from filing through disposition by issuance or abandonment, for maintaining a patent in force, and for providing all other services and materials related to patents and that fee would be established for maintaining a design patent in force.
+1982—Subsec. (a). Pub. L. 97–247, § 3(a), substituted provisions setting a schedule of fees for provisions which had directed that the Commissioner establish fees for the processing of an application for a patent, from filing through disposition by issuance or abandonment, for maintaining a patent in force, and for providing all other services and materials related to patents and that fee would be established for maintaining a design patent in force.
 
-Pub. L. 97–256, § 101(1), struck out “of Patents” after “Commissioner”.
+Pub. L. 97–256, § 101(1), struck out “of Patents” after “Commissioner”.
 
-Subsec. (b). Pub. L. 97–247, § 3(b), substituted provisions setting a fee schedule for maintaining a patent in force for provisions which had directed that, fees for the actual processing of an application for a patent, other than for a design patent, from filing through disposition by issuance or abandonment, were to recover in aggregate 25 per centum of the estimated average cost to the Office of such processing and that fees for the processing of an application for a design patent, from filing through disposition by issuance or abandonment, were to recover in aggregate 50 per centum of the estimated average cost to the Office of such processing.
+Subsec. (b). Pub. L. 97–247, § 3(b), substituted provisions setting a fee schedule for maintaining a patent in force for provisions which had directed that, fees for the actual processing of an application for a patent, other than for a design patent, from filing through disposition by issuance or abandonment, were to recover in aggregate 25 per centum of the estimated average cost to the Office of such processing and that fees for the processing of an application for a design patent, from filing through disposition by issuance or abandonment, were to recover in aggregate 50 per centum of the estimated average cost to the Office of such processing.
 
-Pub. L. 97–256, § 101(2), substituted “October 1, 1982” for “the first day of the first fiscal year beginning on or after one calendar year after enactment of this Act” and “the first day of the first fiscal year beginning on or after one calendar year after enactment”.
+Pub. L. 97–256, § 101(2), substituted “October 1, 1982” for “the first day of the first fiscal year beginning on or after one calendar year after enactment of this Act” and “the first day of the first fiscal year beginning on or after one calendar year after enactment”.
 
-Subsec. (c). Pub. L. 97–247, § 3(c), substituted maintenance provisions for provisions which had directed that fees for maintaining patents in force were to recover 25 per centum of the estimated cost to the Office, for the year in which such maintenance fees were received, of the actual processing all applications for patents, other than for design patents, from filing through disposition by issuance or abandonment, that fees for maintaining a patent in force would be due three years and six months, seven years and six months, and eleven years and six months after the grant of the patent, that unless payment of the applicable maintenance fee was received in the Patent and Trademark Office on or before the date the fee was due or within a grace period of six months thereafter, the patent would expire as of the end of such grace period, and that the Commissioner could require the payment of a surcharge as a condition of accepting within such six-month grace period the late payment of an applicable maintenance fee.
+Subsec. (c). Pub. L. 97–247, § 3(c), substituted maintenance provisions for provisions which had directed that fees for maintaining patents in force were to recover 25 per centum of the estimated cost to the Office, for the year in which such maintenance fees were received, of the actual processing all applications for patents, other than for design patents, from filing through disposition by issuance or abandonment, that fees for maintaining a patent in force would be due three years and six months, seven years and six months, and eleven years and six months after the grant of the patent, that unless payment of the applicable maintenance fee was received in the Patent and Trademark Office on or before the date the fee was due or within a grace period of six months thereafter, the patent would expire as of the end of such grace period, and that the Commissioner could require the payment of a surcharge as a condition of accepting within such six-month grace period the late payment of an applicable maintenance fee.
 
-Pub. L. 97–256, § 101(3), substituted “October 1, 1996” for “the fifteenth fiscal year following the date of enactment of this Act”.
+Pub. L. 97–256, § 101(3), substituted “October 1, 1996” for “the fifteenth fiscal year following the date of enactment of this Act”.
 
-Subsec. (d). Pub. L. 97–247, § 3(d), substituted provisions relating to fees for all other processing services or materials relating to patents not previously specified for provisions directing that fees for all other services or materials related to patents were to recover the estimated average cost to the Office of performing the service or furnishing the material.
+Subsec. (d). Pub. L. 97–247, § 3(d), substituted provisions relating to fees for all other processing services or materials relating to patents not previously specified for provisions directing that fees for all other services or materials related to patents were to recover the estimated average cost to the Office of performing the service or furnishing the material.
 
-Pub. L. 97–256, § 101(4), substituted “October 1, 1982” for “the first day of the first fiscal year beginning on or after one calendar year after enactment”.
+Pub. L. 97–256, § 101(4), substituted “October 1, 1982” for “the first day of the first fiscal year beginning on or after one calendar year after enactment”.
 
-Subsec. (f). Pub. L. 97–247, § 3(e), substituted provisions relating to the adjustment of fees to reflect CPI fluctuations for provisions directing that fees were to be adjusted by the Commissioner to achieve the levels of recovery specified in this section but that no patent application processing fee or fee for maintaining a patent in force was to be adjusted more than once every three years.
+Subsec. (f). Pub. L. 97–247, § 3(e), substituted provisions relating to the adjustment of fees to reflect CPI fluctuations for provisions directing that fees were to be adjusted by the Commissioner to achieve the levels of recovery specified in this section but that no patent application processing fee or fee for maintaining a patent in force was to be adjusted more than once every three years.
 
 1980—Pub. L. 96–517 in revising fee provisions by substituting subsecs. (a) to (g) for prior subsecs. (a) to (c), required the Commissioner to establish fees based on recovery of estimated average cost of processing applications, performing miscellaneous services and providing material, required fees for maintenance of patents in force and provided for expiration of patents for nonpayments, prescribed $50 library fee for copies of specifications and drawings, authorized triennial adjustments, prescribed effective date for fees, and incorporated in subsec. (e) waiver provision of former subsec. (c).
 
@@ -383,27 +383,27 @@ Subsec. (f). Pub. L. 97–247, § 3(e), substituted provisions relating to the
 
 Subsec. (b). Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
-1965—Subsec. (a)1. Pub. L. 89–83, § 1, increased the filing fee for original patents from $30 to $65, changed the additional fee from $1 for each claim in excess of twenty to $10 for each claim in independent form which is in excess of one and $2 for each claim (whether independent or dependent) which is in excess of ten, and permitted the rectification of errors in the payment of the additional fees in accordance with regulations of the Commissioner.
+1965—Subsec. (a)1. Pub. L. 89–83, § 1, increased the filing fee for original patents from $30 to $65, changed the additional fee from $1 for each claim in excess of twenty to $10 for each claim in independent form which is in excess of one and $2 for each claim (whether independent or dependent) which is in excess of ten, and permitted the rectification of errors in the payment of the additional fees in accordance with regulations of the Commissioner.
 
-Subsec. (a)2. Pub. L. 89–83, § 1, applied the issue fee to reissue patents as well as to original patents, increased such fee from $30 to $100, and changed the additional fee from $1 for each claim in excess of twenty to $10 for each page (or portion thereof) of specification as printed and $2 for each sheet of drawing.
+Subsec. (a)2. Pub. L. 89–83, § 1, applied the issue fee to reissue patents as well as to original patents, increased such fee from $30 to $100, and changed the additional fee from $1 for each claim in excess of twenty to $10 for each page (or portion thereof) of specification as printed and $2 for each sheet of drawing.
 
-Subsec. (a)3. Pub. L. 89–83, § 1, changed the fee structure applicable to design patents from a filing fee of $10, $15, or $30 for terms of 3½, 7, or 14 years, respectively, to a filing fee of $20 and an issue fee of $10, $20, or $30 for terms of 3½, 7, or 14 years, respectively.
+Subsec. (a)3. Pub. L. 89–83, § 1, changed the fee structure applicable to design patents from a filing fee of $10, $15, or $30 for terms of 3½, 7, or 14 years, respectively, to a filing fee of $20 and an issue fee of $10, $20, or $30 for terms of 3½, 7, or 14 years, respectively.
 
-Subsec. (a)4. Pub. L. 89–83, § 1, increased the filing fee for reissue patents from $30 to $65, changed the additional fee from $1 for each claim in excess of twenty over and above the number of claims in the original patent to $10 for each claim in independent form which is in excess of the number of independent claims of the original patent and $2 for each claim (whether independent or dependent) which is in excess of ten and also in excess of the number of claims in the original patent, and permitted the rectification of errors in the payment of the additional fees in accordance with regulations of the Commissioner.
+Subsec. (a)4. Pub. L. 89–83, § 1, increased the filing fee for reissue patents from $30 to $65, changed the additional fee from $1 for each claim in excess of twenty over and above the number of claims in the original patent to $10 for each claim in independent form which is in excess of the number of independent claims of the original patent and $2 for each claim (whether independent or dependent) which is in excess of ten and also in excess of the number of claims in the original patent, and permitted the rectification of errors in the payment of the additional fees in accordance with regulations of the Commissioner.
 
-Subsec. (a)5. Pub. L. 89–83, § 1, increased the fee for filing disclaimers from $10 to $15.
+Subsec. (a)5. Pub. L. 89–83, § 1, increased the fee for filing disclaimers from $10 to $15.
 
-Subsec. (a)6. Pub. L. 89–83, § 1, increased the fee on appeal for the first time from the examiner to the Board of Appeals from $25 to $50, and added the additional $50 fee for filing a brief in support of the appeal.
+Subsec. (a)6. Pub. L. 89–83, § 1, increased the fee on appeal for the first time from the examiner to the Board of Appeals from $25 to $50, and added the additional $50 fee for filing a brief in support of the appeal.
 
-Subsec. (a)7. Pub. L. 89–83, § 1, increased the fee for filing a petition for the revival of an abandoned application or for the delayed payment of the issuance fee from $10 to $15.
+Subsec. (a)7. Pub. L. 89–83, § 1, increased the fee for filing a petition for the revival of an abandoned application or for the delayed payment of the issuance fee from $10 to $15.
 
-Subsec. (a)8. Pub. L. 89–83, § 1, inserted fee for the certificate under section 256 of this title, and increased the fee for a certificate under section 255 of this title from $10 to $15.
+Subsec. (a)8. Pub. L. 89–83, § 1, inserted fee for the certificate under section 256 of this title, and increased the fee for a certificate under section 255 of this title from $10 to $15.
 
-Subsec. (a)9. Pub. L. 89–83, § 1, increased the fee for copies of specifications and drawings of patents (other than design patents) from 25 cents to 50 cents per copy and the fee for copies of specifications and drawings of design patents from 10 cents to 20 cents per copy, and permitted the Commissioner to establish a charge not to exceed $1 per copy for patents in excess of twenty-five pages of drawings and specifications and for plant patents printed in color and to provide applicants, without charge, with copies of specifications and drawings when referred to in a section 132 notice.
+Subsec. (a)9. Pub. L. 89–83, § 1, increased the fee for copies of specifications and drawings of patents (other than design patents) from 25 cents to 50 cents per copy and the fee for copies of specifications and drawings of design patents from 10 cents to 20 cents per copy, and permitted the Commissioner to establish a charge not to exceed $1 per copy for patents in excess of twenty-five pages of drawings and specifications and for plant patents printed in color and to provide applicants, without charge, with copies of specifications and drawings when referred to in a section 132 notice.
 
-Subsec. (a)10. Pub. L. 89–83, § 1, changed the recording fee from $3 for every document not exceeding six pages and $1 for each additional two pages or less to a flat $20 fee for every document, and substituted a $3 fee for each additional item where the document relates to more than one patent or application for a 50 cents additional fee for each additional patent or application included in one writing where more than one is so included.
+Subsec. (a)10. Pub. L. 89–83, § 1, changed the recording fee from $3 for every document not exceeding six pages and $1 for each additional two pages or less to a flat $20 fee for every document, and substituted a $3 fee for each additional item where the document relates to more than one patent or application for a 50 cents additional fee for each additional patent or application included in one writing where more than one is so included.
 
-Subsec. (c). Pub. L. 89–83, § 2, added subsec. (c).
+Subsec. (c). Pub. L. 89–83, § 2, added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -413,29 +413,29 @@ Amendment by Pub. L. 112–211 effective on the date that is 1 year after Dec. 1
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–29, § 11(j), Sept. 16, 2011, 125 Stat. 325, provided that: “Except as otherwise provided in this section [amending this section and enacting and amending provisions set out as notes under this section], this section and the amendments made by this section shall take effect on the date of the enactment of this Act [Sept. 16, 2011].”
+Pub. L. 112–29, § 11(j), Sept. 16, 2011, 125 Stat. 325, provided that: “Except as otherwise provided in this section [amending this section and enacting and amending provisions set out as notes under this section], this section and the amendments made by this section shall take effect on the date of the enactment of this Act [Sept. 16, 2011].”
 
 Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(*l*) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle B, § 4206], Nov. 29, 1999, 113 Stat. 1536, 1501A–555, provided that:
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle B, § 4206], Nov. 29, 1999, 113 Stat. 1536, 1501A–555, provided that:
 
 > **“(a) In General.—** Except as provided in subsection (b), the amendments made by this subtitle [amending this section and section 42 of this title] shall take effect on the date of the enactment of this Act [Nov. 29, 1999].
 
 > **“(b) Section 4202.—** The amendments made by section 4202 [amending this section] of this subtitle shall take effect 30 days after the date of the enactment of this Act.”
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle F, § 4608], Nov. 29, 1999, 113 Stat. 1536, 1501A–572, provided that:
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle F, § 4608], Nov. 29, 1999, 113 Stat. 1536, 1501A–572, provided that:
 
 > **“(a) In General.—** Subject to subsection (b), this subtitle [enacting chapter 31 of this title, amending this section and sections 100, 134, 141, 143, and 145 of this title, and enacting provisions set out as notes under sections 1, 311, and 315 of this title] and the amendments made by this subtitle shall take effect on the date of the enactment of this Act [Nov. 29, 1999] and shall apply to any patent that issues from an original application filed in the United States on or after that date.
 
 > **“(b) Section 4605(a).—** The amendments made by section 4605(a) [amending this section] shall take effect on the date that is 1 year after the date of the enactment of this Act.”
 
-Amendment by section 1000(a)(9) [title IV, §§ 4732(a)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by section 1000(a)(9) [title IV, §§ 4732(a)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–358, § 5, Nov. 10, 1998, 112 Stat. 3274, provided that: “This Act [amending this section and section 42 of this title and enacting provisions set out as a note under section 1 of this title] and the amendments made by this Act shall take effect on October 1, 1998.”
+Pub. L. 105–358, § 5, Nov. 10, 1998, 112 Stat. 3274, provided that: “This Act [amending this section and section 42 of this title and enacting provisions set out as a note under section 1 of this title] and the amendments made by this Act shall take effect on October 1, 1998.”
 
 **Effective Date of 1994 Amendment**
 
@@ -445,23 +445,23 @@ Amendment by section 533(b)(1) of Pub. L. 103–465 effective on date that is on
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–444, § 2, Oct. 23, 1992, 106 Stat. 2245, provided that: “The amendment made by section 1 [amending this section] shall take effect on the date of the enactment of this Act [Oct. 23, 1992].”
+Pub. L. 102–444, § 2, Oct. 23, 1992, 106 Stat. 2245, provided that: “The amendment made by section 1 [amending this section] shall take effect on the date of the enactment of this Act [Oct. 23, 1992].”
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–204, § 13, Dec. 10, 1991, 105 Stat. 1642, provided that: “This Act [amending this section, sections 6, 42, 202, 371, and 376 of this title, and section 1113 of Title 15, Commerce and Trade, enacting provisions set out as notes under this section, section 6 of this title, and section 1113 of Title 15, and amending and repealing provisions set out as notes under this section] takes effect on the date of the enactment of this Act [Dec. 10, 1991], except that the fees established by the amendment made by section 5(a) [amending this section] shall take effect on or after 1 day after such fees are published in the Federal Register.”
+Pub. L. 102–204, § 13, Dec. 10, 1991, 105 Stat. 1642, provided that: “This Act [amending this section, sections 6, 42, 202, 371, and 376 of this title, and section 1113 of Title 15, Commerce and Trade, enacting provisions set out as notes under this section, section 6 of this title, and section 1113 of Title 15, and amending and repealing provisions set out as notes under this section] takes effect on the date of the enactment of this Act [Dec. 10, 1991], except that the fees established by the amendment made by section 5(a) [amending this section] shall take effect on or after 1 day after such fees are published in the Federal Register.”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–622, title II, § 207, Nov. 8, 1984, 98 Stat. 3389, provided that: “Section 206 of this Act [98 Stat. 3388] and the amendments made by this title [amending this section, sections 7, 134, 135, 141, 145, 146, and 305 of this title, section 1295 of Title 28, Judiciary and Judicial Procedure, and sections 2182 and 2457 of Title 42, The Public Health and Welfare] shall take effect three months after the date of the enactment of this Act [Nov. 8, 1984].”
+Pub. L. 98–622, title II, § 207, Nov. 8, 1984, 98 Stat. 3389, provided that: “Section 206 of this Act [98 Stat. 3388] and the amendments made by this title [amending this section, sections 7, 134, 135, 141, 145, 146, and 305 of this title, section 1295 of Title 28, Judiciary and Judicial Procedure, and sections 2182 and 2457 of Title 42, The Public Health and Welfare] shall take effect three months after the date of the enactment of this Act [Nov. 8, 1984].”
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–247, § 17(a), Aug. 27, 1982, 96 Stat. 322, provided that: “Sections 1, 2, 4, 7, and 13 through 15 of this Act [amending sections 3, 6, 13, 115, and 261 of this title and section 1061 of Title 15, Commerce and Trade] shall take effect on the date of enactment of this Act [Aug. 27, 1982]. Sections 3 and 16 of this Act [amending this section, sections 42 and 173 of this title, and section 113 of Title 15] shall take effect on October 1, 1982. The maintenance fees provided for in section 3(b) of this Act [amending this section] shall not apply to patents applied for prior to the date of enactment of this Act. Each patent applied for on or after the date of enactment of this Act shall be subject to the maintenance fees established pursuant to section 3(b) of this Act or to maintenance fees hereafter established by law, as to the amounts paid and the number and timing of the payments.”
+Pub. L. 97–247, § 17(a), Aug. 27, 1982, 96 Stat. 322, provided that: “Sections 1, 2, 4, 7, and 13 through 15 of this Act [amending sections 3, 6, 13, 115, and 261 of this title and section 1061 of Title 15, Commerce and Trade] shall take effect on the date of enactment of this Act [Aug. 27, 1982]. Sections 3 and 16 of this Act [amending this section, sections 42 and 173 of this title, and section 113 of Title 15] shall take effect on October 1, 1982. The maintenance fees provided for in section 3(b) of this Act [amending this section] shall not apply to patents applied for prior to the date of enactment of this Act. Each patent applied for on or after the date of enactment of this Act shall be subject to the maintenance fees established pursuant to section 3(b) of this Act or to maintenance fees hereafter established by law, as to the amounts paid and the number and timing of the payments.”
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–517, § 8, Dec. 12, 1980, 94 Stat. 3027, provided that:
+Pub. L. 96–517, § 8, Dec. 12, 1980, 94 Stat. 3027, provided that:
 
 > **“(a)** Sections 2, 4, and 5 of this Act [amending this section, section 154 of this title, and section 1113 of Title 15, Commerce and Trade] will take effect upon enactment [Dec. 12, 1980].
 
@@ -485,7 +485,7 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 **Effective Date of 1965 Amendment**
 
-Pub. L. 89–83, § 7, July 24, 1965, 79 Stat. 261, provided that:
+Pub. L. 89–83, § 7, July 24, 1965, 79 Stat. 261, provided that:
 
 > **“(a)** This Act [amending this section, sections 112, 151, 154, and 282 of this title, and section 1113 of Title 15, Commerce and Trade, and repealing section 266 of this title] shall take effect three months after its enactment [July 24, 1965].
 
@@ -501,7 +501,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (i)(4) of this
 
 **Fee Setting Authority**
 
-Pub. L. 112–29, § 10, Sept. 16, 2011, 125 Stat. 316, as amended by Pub. L. 115–273, § 4, Oct. 31, 2018, 132 Stat. 4159; Pub. L. 117–328, div. W, § 107(c), Dec. 29, 2022, 136 Stat. 5522, provided that:
+Pub. L. 112–29, § 10, Sept. 16, 2011, 125 Stat. 316, as amended by Pub. L. 115–273, § 4, Oct. 31, 2018, 132 Stat. 4159; Pub. L. 117–328, div. W, § 107(c), Dec. 29, 2022, 136 Stat. 5522, provided that:
 
 > **“(a) Fee Setting.—**
 
@@ -583,7 +583,7 @@ Pub. L. 112–29, § 10, Sept. 16, 2011, 125 Stat. 316, as amended by Pub. L. 
 
 **Prioritized Examination Fee**
 
-Pub. L. 112–29, § 11(h), Sept. 16, 2011, 125 Stat. 324, provided that:
+Pub. L. 112–29, § 11(h), Sept. 16, 2011, 125 Stat. 324, provided that:
 
 > **“(1) In general.—**
 
@@ -613,7 +613,7 @@ Pub. L. 112–29, § 11(h), Sept. 16, 2011, 125 Stat. 324, provided that:
 
 **Appropriation Account Transition Fees**
 
-Pub. L. 112–29, § 11(i), Sept. 16, 2011, 125 Stat. 325, provided that:
+Pub. L. 112–29, § 11(i), Sept. 16, 2011, 125 Stat. 325, provided that:
 
 > **“(1) Surcharge.—**
 
@@ -629,7 +629,7 @@ Pub. L. 112–29, § 11(i), Sept. 16, 2011, 125 Stat. 325, provided that:
 
 **Authority of PTO Director To Use Trademark Funds**
 
-Pub. L. 111–45, § 1, Aug. 7, 2009, 123 Stat. 1968, provided that:
+Pub. L. 111–45, § 1, Aug. 7, 2009, 123 Stat. 1968, provided that:
 
 > **“(a) Authority.—**
 
@@ -653,171 +653,171 @@ Pub. L. 111–45, § 1, Aug. 7, 2009, 123 Stat. 1968, provided that:
 
 **Patent and Trademark Fees in Certain Fiscal Years After 2005**
 
-Pub. L. 108–447, div. B, title VIII, Dec. 8, 2004, 118 Stat. 2924, as amended by Pub. L. 109–289, div. B, title II, § 20933, as added by Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 45; Pub. L. 112–29, § 11(f), (g), Sept. 16, 2011, 125 Stat. 324, provided that:
+Pub. L. 108–447, div. B, title VIII, Dec. 8, 2004, 118 Stat. 2924, as amended by Pub. L. 109–289, div. B, title II, § 20933, as added by Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 45; Pub. L. 112–29, § 11(f), (g), Sept. 16, 2011, 125 Stat. 324, provided that:
 
 > **“SEC. 801. FEES FOR PATENT SERVICES.**
 
 > **“(a) General Patent Fees.—** During fiscal years 2005, 2006, and 2007, subsection (a) of section 41 of title 35, United States Code, shall be administered as though that subsection reads as follows:
 
-> “ ‘(a) General Fees.—The Director shall charge the following fees:
+> “ ‘(a) General Fees.—The Director shall charge the following fees:
 
-> “ ‘(1) Filing and basic national fees.—
+> “ ‘(1) Filing and basic national fees.—
 
-> “ ‘(A) On filing each application for an original patent, except for design, plant, or provisional applications, $300.
+> “ ‘(A) On filing each application for an original patent, except for design, plant, or provisional applications, $300.
 
-> “ ‘(B) On filing each application for an original design patent, $200.
+> “ ‘(B) On filing each application for an original design patent, $200.
 
-> “ ‘(C) On filing each application for an original plant patent, $200.
+> “ ‘(C) On filing each application for an original plant patent, $200.
 
-> “ ‘(D) On filing each provisional application for an original patent, $200.
+> “ ‘(D) On filing each provisional application for an original patent, $200.
 
-> “ ‘(E) On filing each application for the reissue of a patent, $300.
+> “ ‘(E) On filing each application for the reissue of a patent, $300.
 
-> “ ‘(F) The basic national fee for each international application filed under the treaty defined in section 351(a) of this title entering the national stage under section 371 of this title, $300.
+> “ ‘(F) The basic national fee for each international application filed under the treaty defined in section 351(a) of this title entering the national stage under section 371 of this title, $300.
 
-> “ ‘(G) In addition, excluding any sequence listing or computer program listing filed in an electronic medium as prescribed by the Director, for any application the specification and drawings of which exceed 100 sheets of paper (or equivalent as prescribed by the Director if filed in an electronic medium), $250 for each additional 50 sheets of paper (or equivalent as prescribed by the Director if filed in an electronic medium) or fraction thereof.
+> “ ‘(G) In addition, excluding any sequence listing or computer program listing filed in an electronic medium as prescribed by the Director, for any application the specification and drawings of which exceed 100 sheets of paper (or equivalent as prescribed by the Director if filed in an electronic medium), $250 for each additional 50 sheets of paper (or equivalent as prescribed by the Director if filed in an electronic medium) or fraction thereof.
 
-> “ ‘(2) Excess claims fees.—In addition to the fee specified in paragraph (1)—
+> “ ‘(2) Excess claims fees.—In addition to the fee specified in paragraph (1)—
 
-> “ ‘(A) on filing or on presentation at any other time, $200 for each claim in independent form in excess of 3;
+> “ ‘(A) on filing or on presentation at any other time, $200 for each claim in independent form in excess of 3;
 
-> “ ‘(B) on filing or on presentation at any other time, $50 for each claim (whether dependent or independent) in excess of 20; and
+> “ ‘(B) on filing or on presentation at any other time, $50 for each claim (whether dependent or independent) in excess of 20; and
 
-> “ ‘(C) for each application containing a multiple dependent claim, $360.
+> “ ‘(C) for each application containing a multiple dependent claim, $360.
 
 > For the purpose of computing fees under this paragraph, a multiple dependent claim referred to in section 112 of this title or any claim depending therefrom shall be considered as separate dependent claims in accordance with the number of claims to which reference is made. The Director may by regulation provide for a refund of any part of the fee specified in this paragraph for any claim that is canceled before an examination on the merits, as prescribed by the Director, has been made of the application under section 131 of this title. Errors in payment of the additional fees under this paragraph may be rectified in accordance with regulations prescribed by the Director.
 
-> “ ‘(3) Examination fees.—
+> “ ‘(3) Examination fees.—
 
-> “ ‘(A) For examination of each application for an original patent, except for design, plant, provisional, or international applications, $200.
+> “ ‘(A) For examination of each application for an original patent, except for design, plant, provisional, or international applications, $200.
 
-> “ ‘(B) For examination of each application for an original design patent, $130.
+> “ ‘(B) For examination of each application for an original design patent, $130.
 
-> “ ‘(C) For examination of each application for an original plant patent, $160.
+> “ ‘(C) For examination of each application for an original plant patent, $160.
 
-> “ ‘(D) For examination of the national stage of each international application, $200.
+> “ ‘(D) For examination of the national stage of each international application, $200.
 
-> “ ‘(E) For examination of each application for the reissue of a patent, $600.
+> “ ‘(E) For examination of each application for the reissue of a patent, $600.
 
 > The provisions of section 111(a) of this title relating to the payment of the fee for filing the application shall apply to the payment of the fee specified in this paragraph with respect to an application filed under section 111(a) of this title. The provisions of section 371(d) of this title relating to the payment of the national fee shall apply to the payment of the fee specified in this paragraph with respect to an international application.
 
-> “ ‘(4) Issue fees.—
+> “ ‘(4) Issue fees.—
 
-> “ ‘(A) For issuing each original patent, except for design or plant patents, $1,400.
+> “ ‘(A) For issuing each original patent, except for design or plant patents, $1,400.
 
-> “ ‘(B) For issuing each original design patent, $800.
+> “ ‘(B) For issuing each original design patent, $800.
 
-> “ ‘(C) For issuing each original plant patent, $1,100.
+> “ ‘(C) For issuing each original plant patent, $1,100.
 
-> “ ‘(D) For issuing each reissue patent, $1,400.
+> “ ‘(D) For issuing each reissue patent, $1,400.
 
-> “ ‘(5) Disclaimer fee.—On filing each disclaimer, $130.
+> “ ‘(5) Disclaimer fee.—On filing each disclaimer, $130.
 
-> “ ‘(6) Appeal fees.—
+> “ ‘(6) Appeal fees.—
 
-> “ ‘(A) On filing an appeal from the examiner to the Board of Patent Appeals and Interferences, $500.
+> “ ‘(A) On filing an appeal from the examiner to the Board of Patent Appeals and Interferences, $500.
 
-> “ ‘(B) In addition, on filing a brief in support of the appeal, $500, and on requesting an oral hearing in the appeal before the Board of Patent Appeals and Interferences, $1,000.
+> “ ‘(B) In addition, on filing a brief in support of the appeal, $500, and on requesting an oral hearing in the appeal before the Board of Patent Appeals and Interferences, $1,000.
 
-> “ ‘(7) Revival fees.—On filing each petition for the revival of an unintentionally abandoned application for a patent, for the unintentionally delayed payment of the fee for issuing each patent, or for an unintentionally delayed response by the patent owner in any reexamination proceeding, $1,500, unless the petition is filed under section 133 or 151 of this title, in which case the fee shall be $500.
+> “ ‘(7) Revival fees.—On filing each petition for the revival of an unintentionally abandoned application for a patent, for the unintentionally delayed payment of the fee for issuing each patent, or for an unintentionally delayed response by the patent owner in any reexamination proceeding, $1,500, unless the petition is filed under section 133 or 151 of this title, in which case the fee shall be $500.
 
-> “ ‘(8) Extension fees.—For petitions for 1-month extensions of time to take actions required by the Director in an application—
+> “ ‘(8) Extension fees.—For petitions for 1-month extensions of time to take actions required by the Director in an application—
 
-> “ ‘(A) on filing a first petition, $120;
+> “ ‘(A) on filing a first petition, $120;
 
-> “ ‘(B) on filing a second petition, $330; and
+> “ ‘(B) on filing a second petition, $330; and
 
-> “ ‘(C) on filing a third or subsequent petition, $570.’
+> “ ‘(C) on filing a third or subsequent petition, $570.’
 
 > **“(b) Patent Maintenance Fees.—** During fiscal years 2005, 2006, and 2007, subsection (b) of section 41 of title 35, United States Code, shall be administered as though that subsection reads as follows:
 
-> “ ‘(b) Maintenance Fees.—The Director shall charge the following fees for maintaining in force all patents based on applications filed on or after December 12, 1980:
+> “ ‘(b) Maintenance Fees.—The Director shall charge the following fees for maintaining in force all patents based on applications filed on or after December 12, 1980:
 
-> “ ‘(1) 3 years and 6 months after grant, $900.
+> “ ‘(1) 3 years and 6 months after grant, $900.
 
-> “ ‘(2) 7 years and 6 months after grant, $2,300.
+> “ ‘(2) 7 years and 6 months after grant, $2,300.
 
-> “ ‘(3) 11 years and 6 months after grant, $3,800.
+> “ ‘(3) 11 years and 6 months after grant, $3,800.
 
 > Unless payment of the applicable maintenance fee is received in the United States Patent and Trademark Office on or before the date the fee is due or within a grace period of 6 months thereafter, the patent will expire as of the end of such grace period. The Director may require the payment of a surcharge as a condition of accepting within such 6-month grace period the payment of an applicable maintenance fee. No fee may be established for maintaining a design or plant patent in force.’
 
 > **“(c) Patent Search Fees.—** During fiscal years 2005, 2006, and 2007, subsection (d) of section 41 of title 35, United States Code, shall be administered as though that subsection reads as follows:
 
-> “ ‘(d) Patent Search and Other Fees.—
+> “ ‘(d) Patent Search and Other Fees.—
 
-> “ ‘(1) Patent search fees.—
+> “ ‘(1) Patent search fees.—
 
-> “ ‘(A) The Director shall charge a fee for the search of each application for a patent, except for provisional applications. The Director shall establish the fees charged under this paragraph to recover an amount not to exceed the estimated average cost to the Office of searching applications for patent either by acquiring a search report from a qualified search authority, or by causing a search by Office personnel to be made, of each application for patent. For the 3-year period beginning on the date of enactment of this Act, the fee for a search by a qualified search authority of a patent application described in clause (i), (iv), or (v) of subparagraph (B) may not exceed $500, of a patent application described in clause (ii) of subparagraph (B) may not exceed $100, and of a patent application described in clause (iii) of subparagraph (B) may not exceed $300. The Director may not increase any such fee by more than 20 percent in each of the next three 1-year periods, and the Director may not increase any such fee thereafter.
+> “ ‘(A) The Director shall charge a fee for the search of each application for a patent, except for provisional applications. The Director shall establish the fees charged under this paragraph to recover an amount not to exceed the estimated average cost to the Office of searching applications for patent either by acquiring a search report from a qualified search authority, or by causing a search by Office personnel to be made, of each application for patent. For the 3-year period beginning on the date of enactment of this Act, the fee for a search by a qualified search authority of a patent application described in clause (i), (iv), or (v) of subparagraph (B) may not exceed $500, of a patent application described in clause (ii) of subparagraph (B) may not exceed $100, and of a patent application described in clause (iii) of subparagraph (B) may not exceed $300. The Director may not increase any such fee by more than 20 percent in each of the next three 1-year periods, and the Director may not increase any such fee thereafter.
 
-> “ ‘(B) For purposes of determining the fees to be established under this paragraph, the cost to the Office of causing a search of an application to be made by Office personnel shall be deemed to be—
+> “ ‘(B) For purposes of determining the fees to be established under this paragraph, the cost to the Office of causing a search of an application to be made by Office personnel shall be deemed to be—
 
-> “ ‘(i) $500 for each application for an original patent, except for design, plant, provisional, or international applications;
+> “ ‘(i) $500 for each application for an original patent, except for design, plant, provisional, or international applications;
 
-> “ ‘(ii) $100 for each application for an original design patent;
+> “ ‘(ii) $100 for each application for an original design patent;
 
-> “ ‘(iii) $300 for each application for an original plant patent;
+> “ ‘(iii) $300 for each application for an original plant patent;
 
-> “ ‘(iv) $500 for the national stage of each international application; and
+> “ ‘(iv) $500 for the national stage of each international application; and
 
-> “ ‘(v) $500 for each application for the reissue of a patent.
+> “ ‘(v) $500 for each application for the reissue of a patent.
 
-> “ ‘(C) The provisions of section 111(a)(3) of this title relating to the payment of the fee for filing the application shall apply to the payment of the fee specified in this paragraph with respect to an application filed under section 111(a) of this title. The provisions of section 371(d) of this title relating to the payment of the national fee shall apply to the payment of the fee specified in this paragraph with respect to an international application.
+> “ ‘(C) The provisions of section 111(a)(3) of this title relating to the payment of the fee for filing the application shall apply to the payment of the fee specified in this paragraph with respect to an application filed under section 111(a) of this title. The provisions of section 371(d) of this title relating to the payment of the national fee shall apply to the payment of the fee specified in this paragraph with respect to an international application.
 
-> “ ‘(D) The Director may by regulation provide for a refund of any part of the fee specified in this paragraph for any applicant who files a written declaration of express abandonment as prescribed by the Director before an examination has been made of the application under section 131 of this title, and for any applicant who provides a search report that meets the conditions prescribed by the Director.
+> “ ‘(D) The Director may by regulation provide for a refund of any part of the fee specified in this paragraph for any applicant who files a written declaration of express abandonment as prescribed by the Director before an examination has been made of the application under section 131 of this title, and for any applicant who provides a search report that meets the conditions prescribed by the Director.
 
-> “ ‘(E) For purposes of subparagraph (A), a “qualified search authority” may not include a commercial entity unless—
+> “ ‘(E) For purposes of subparagraph (A), a “qualified search authority” may not include a commercial entity unless—
 
-> “ ‘(i) the Director conducts a pilot program of limited scope, conducted over a period of not more than 18 months, which demonstrates that searches by commercial entities of the available prior art relating to the subject matter of inventions claimed in patent applications—
+> “ ‘(i) the Director conducts a pilot program of limited scope, conducted over a period of not more than 18 months, which demonstrates that searches by commercial entities of the available prior art relating to the subject matter of inventions claimed in patent applications—
 
-> “ ‘(I) are accurate; and
+> “ ‘(I) are accurate; and
 
-> “ ‘(II) meet or exceed the standards of searches conducted by and used by the Patent and Trademark Office during the patent examination process;
+> “ ‘(II) meet or exceed the standards of searches conducted by and used by the Patent and Trademark Office during the patent examination process;
 
-> “ ‘(ii) the Director submits a report on the results of the pilot program to Congress and the Patent Public Advisory Committee that includes—
+> “ ‘(ii) the Director submits a report on the results of the pilot program to Congress and the Patent Public Advisory Committee that includes—
 
-> “ ‘(I) a description of the scope and duration of the pilot program;
+> “ ‘(I) a description of the scope and duration of the pilot program;
 
-> “ ‘(II) the identity of each commercial entity participating in the pilot program;
+> “ ‘(II) the identity of each commercial entity participating in the pilot program;
 
-> “ ‘(III) an explanation of the methodology used to evaluate the accuracy and quality of the search reports; and
+> “ ‘(III) an explanation of the methodology used to evaluate the accuracy and quality of the search reports; and
 
-> “ ‘(IV) an assessment of the effects that the pilot program, as compared to searches conducted by the Patent and Trademark Office, had and will have on—
+> “ ‘(IV) an assessment of the effects that the pilot program, as compared to searches conducted by the Patent and Trademark Office, had and will have on—
 
-> “ ‘(aa) patentability determinations;
+> “ ‘(aa) patentability determinations;
 
-> “ ‘(bb) productivity of the Patent and Trademark Office;
+> “ ‘(bb) productivity of the Patent and Trademark Office;
 
-> “ ‘(cc) costs to the Patent and Trademark Office;
+> “ ‘(cc) costs to the Patent and Trademark Office;
 
-> “ ‘(dd) costs to patent applicants; and
+> “ ‘(dd) costs to patent applicants; and
 
-> “ ‘(ee) other relevant factors;
+> “ ‘(ee) other relevant factors;
 
-> “ ‘(iii) the Patent Public Advisory Committee reviews and analyzes the Director’s report under clause (ii) and the results of the pilot program and submits a separate report on its analysis to the Director and the Congress that includes—
+> “ ‘(iii) the Patent Public Advisory Committee reviews and analyzes the Director’s report under clause (ii) and the results of the pilot program and submits a separate report on its analysis to the Director and the Congress that includes—
 
-> “ ‘(I) an independent evaluation of the effects that the pilot program, as compared to searches conducted by the Patent and Trademark Office, had and will have on the factors set forth in clause (ii)(IV); and
+> “ ‘(I) an independent evaluation of the effects that the pilot program, as compared to searches conducted by the Patent and Trademark Office, had and will have on the factors set forth in clause (ii)(IV); and
 
-> “ ‘(II) an analysis of the reasonableness, appropriateness, and effectiveness of the methods used in the pilot program to make the evaluations required under clause (ii)(IV); and
+> “ ‘(II) an analysis of the reasonableness, appropriateness, and effectiveness of the methods used in the pilot program to make the evaluations required under clause (ii)(IV); and
 
-> “ ‘(iv) Congress does not, during the 1-year period beginning on the date on which the Patent Public Advisory Committee submits its report to the Congress under clause (iii), enact a law prohibiting searches by commercial entities of the available prior art relating to the subject matter of inventions claimed in patent applications.
+> “ ‘(iv) Congress does not, during the 1-year period beginning on the date on which the Patent Public Advisory Committee submits its report to the Congress under clause (iii), enact a law prohibiting searches by commercial entities of the available prior art relating to the subject matter of inventions claimed in patent applications.
 
-> “ ‘(F) The Director shall require that any search by a qualified search authority that is a commercial entity is conducted in the United States by persons that—
+> “ ‘(F) The Director shall require that any search by a qualified search authority that is a commercial entity is conducted in the United States by persons that—
 
-> “ ‘(i) if individuals, are United States citizens; and
+> “ ‘(i) if individuals, are United States citizens; and
 
-> “ ‘(ii) if business concerns, are organized under the laws of the United States or any State and employ United States citizens to perform the searches.
+> “ ‘(ii) if business concerns, are organized under the laws of the United States or any State and employ United States citizens to perform the searches.
 
-> “ ‘(G) A search of an application that is the subject of a secrecy order under section 181 or otherwise involves classified information may only be conducted by Office personnel.
+> “ ‘(G) A search of an application that is the subject of a secrecy order under section 181 or otherwise involves classified information may only be conducted by Office personnel.
 
-> “ ‘(H) A qualified search authority that is a commercial entity may not conduct a search of a patent application if the entity has any direct or indirect financial interest in any patent or in any pending or imminent application for patent filed or to be filed in the Patent and Trademark Office.
+> “ ‘(H) A qualified search authority that is a commercial entity may not conduct a search of a patent application if the entity has any direct or indirect financial interest in any patent or in any pending or imminent application for patent filed or to be filed in the Patent and Trademark Office.
 
-> “ ‘(2) Other fees.—The Director shall establish fees for all other processing, services, or materials relating to patents not specified in this section to recover the estimated average cost to the Office of such processing, services, or materials, except that the Director shall charge the following fees for the following services:
+> “ ‘(2) Other fees.—The Director shall establish fees for all other processing, services, or materials relating to patents not specified in this section to recover the estimated average cost to the Office of such processing, services, or materials, except that the Director shall charge the following fees for the following services:
 
-> “ ‘(A) For recording a document affecting title, $40 per property.
+> “ ‘(A) For recording a document affecting title, $40 per property.
 
-> “ ‘(B) For each photocopy, $.25 per page.
+> “ ‘(B) For each photocopy, $.25 per page.
 
-> “ ‘(C) For each black and white copy of a patent, $3.
+> “ ‘(C) For each black and white copy of a patent, $3.
 
 > The yearly fee for providing a library specified in section 12 of this title with uncertified printed copies of the specifications and drawings for all patents in that year shall be $50.’
 
@@ -829,7 +829,7 @@ Pub. L. 108–447, div. B, title VIII, Dec. 8, 2004, 118 Stat. 2924, as amended 
 
 > **“(2)** by adding at the end the following new paragraph:
 
-> “ ‘(3) The fee charged under subsection (a)(1)(A) shall be reduced by 75 percent with respect to its application to any entity to which paragraph (1) applies, if the application is filed by electronic means as prescribed by the Director.’
+> “ ‘(3) The fee charged under subsection (a)(1)(A) shall be reduced by 75 percent with respect to its application to any entity to which paragraph (1) applies, if the application is filed by electronic means as prescribed by the Director.’
 
 > **“SEC. 802. ADJUSTMENT OF TRADEMARK FEES.**
 
@@ -889,19 +889,19 @@ Pub. L. 108–447, div. B, title VIII, Dec. 8, 2004, 118 Stat. 2924, as amended 
 
 **Study on Alternative Fee Structures**
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4204], Nov. 29, 1999, 113 Stat. 1536, 1501A–555, provided that: “The Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall conduct a study of alternative fee structures that could be adopted by the United States Patent and Trademark Office to encourage maximum participation by the inventor community in the United States. The Director shall submit such study to the Committees on the Judiciary of the House of Representatives and the Senate not later than 1 year after the date of the enactment of this Act [Nov. 29, 1999].”
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4204], Nov. 29, 1999, 113 Stat. 1536, 1501A–555, provided that: “The Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall conduct a study of alternative fee structures that could be adopted by the United States Patent and Trademark Office to encourage maximum participation by the inventor community in the United States. The Director shall submit such study to the Committees on the Judiciary of the House of Representatives and the Senate not later than 1 year after the date of the enactment of this Act [Nov. 29, 1999].”
 
 **Cost Recovery for Publication**
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4506], Nov. 29, 1999, 113 Stat. 1536, 1501A–565, provided that: “The Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall recover the cost of early publication required by the amendment made by section 4502 [amending section 122 of this title] by charging a separate publication fee after notice of allowance is given under section 151 of title 35, United States Code.”
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4506], Nov. 29, 1999, 113 Stat. 1536, 1501A–565, provided that: “The Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall recover the cost of early publication required by the amendment made by section 4502 [amending section 122 of this title] by charging a separate publication fee after notice of allowance is given under section 151 of title 35, United States Code.”
 
 **Continuation of Maintenance**
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4804(d)(2)], Nov. 29, 1999, 113 Stat. 1536, 1501A–590, provided that: “The Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall not, pursuant to the amendment made by paragraph (1) [amending this section], cease to maintain, for use by the public, paper or microform collections of United States patents, foreign patent documents, and United States trademark registrations, except pursuant to notice and opportunity for public comment and except that the Director shall first submit a report to the Committees on the Judiciary of the Senate and the House of Representatives detailing such plan, including a description of the mechanisms in place to ensure the integrity of such collections and the data contained therein, as well as to ensure prompt public access to the most current available information, and certifying that the implementation of such plan will not negatively impact the public.”
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4804(d)(2)], Nov. 29, 1999, 113 Stat. 1536, 1501A–590, provided that: “The Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall not, pursuant to the amendment made by paragraph (1) [amending this section], cease to maintain, for use by the public, paper or microform collections of United States patents, foreign patent documents, and United States trademark registrations, except pursuant to notice and opportunity for public comment and except that the Director shall first submit a report to the Committees on the Judiciary of the Senate and the House of Representatives detailing such plan, including a description of the mechanisms in place to ensure the integrity of such collections and the data contained therein, as well as to ensure prompt public access to the most current available information, and certifying that the implementation of such plan will not negatively impact the public.”
 
 **Access to Electronic Patent Information**
 
-Pub. L. 105–289, § 4, Oct. 27, 1998, 112 Stat. 2781, provided that:
+Pub. L. 105–289, § 4, Oct. 27, 1998, 112 Stat. 2781, provided that:
 
 > **“(a) In General.—** The United States Patent and Trademark Office shall develop and implement statewide computer networks with remote library sites in requesting rural States such that citizens in those States will have enhanced access to information in their State’s patent and trademark depository library.
 
@@ -909,41 +909,41 @@ Pub. L. 105–289, § 4, Oct. 27, 1998, 112 Stat. 2781, provided that:
 
 **Waiver of Certain Restrictions**
 
-Pub. L. 102–204, § 2(c), Dec. 10, 1991, 105 Stat. 1636, provided that: “Surcharges established for fiscal year 1992 under section 10101(c) of the Omnibus Budget Reconciliation Act of 1990 [Pub. L. 101–508, set out below] may take effect on or after 1 day after such surcharges are published in the Federal Register. Section 553 of title 5, United States Code, shall not apply to the establishment of such surcharges for fiscal year 1992.”
+Pub. L. 102–204, § 2(c), Dec. 10, 1991, 105 Stat. 1636, provided that: “Surcharges established for fiscal year 1992 under section 10101(c) of the Omnibus Budget Reconciliation Act of 1990 [Pub. L. 101–508, set out below] may take effect on or after 1 day after such surcharges are published in the Federal Register. Section 553 of title 5, United States Code, shall not apply to the establishment of such surcharges for fiscal year 1992.”
 
 **Unspecified Patent Fees for Fiscal Year 1992; Effective Date Contingent Upon Publication in Federal Register**
 
-Pub. L. 102–204, § 5(c)(2), Dec. 10, 1991, 105 Stat. 1639, provided that fees established by the Commissioner of Patents and Trademarks under subsec. (d) of this section during fiscal year 1992 could take effect on or after 1 day after being published in the Federal Register, and that former subsec. (g) of this section and section 553 of title 5 were not to apply to the establishment of such fees during fiscal year 1992.
+Pub. L. 102–204, § 5(c)(2), Dec. 10, 1991, 105 Stat. 1639, provided that fees established by the Commissioner of Patents and Trademarks under subsec. (d) of this section during fiscal year 1992 could take effect on or after 1 day after being published in the Federal Register, and that former subsec. (g) of this section and section 553 of title 5 were not to apply to the establishment of such fees during fiscal year 1992.
 
 **Patent Information Dissemination**
 
-Pub. L. 102–204, § 11, Dec. 10, 1991, 105 Stat. 1641, set out definitions, established a patent information demonstration program, stipulated the information to be disseminated, provided for fees for CD-ROM purchase, and required a report to Congress one year after Dec. 10, 1991.
+Pub. L. 102–204, § 11, Dec. 10, 1991, 105 Stat. 1641, set out definitions, established a patent information demonstration program, stipulated the information to be disseminated, provided for fees for CD-ROM purchase, and required a report to Congress one year after Dec. 10, 1991.
 
 **Surcharges on Patent Fees**
 
-Pub. L. 101–508, title X, § 10101(a)–(c), Nov. 5, 1990, 104 Stat. 1388–391, as amended by Pub. L. 102–204, § 2(b), Dec. 10, 1991, 105 Stat. 1636; Pub. L. 103–66, title VIII, § 8001, Aug. 10, 1993, 107 Stat. 402, provided for surcharges for fees under this section during fiscal years 1991 through 1998, and stipulated how surcharges would be used and credited in those fiscal years.
+Pub. L. 101–508, title X, § 10101(a)–(c), Nov. 5, 1990, 104 Stat. 1388–391, as amended by Pub. L. 102–204, § 2(b), Dec. 10, 1991, 105 Stat. 1636; Pub. L. 103–66, title VIII, § 8001, Aug. 10, 1993, 107 Stat. 402, provided for surcharges for fees under this section during fiscal years 1991 through 1998, and stipulated how surcharges would be used and credited in those fiscal years.
 
 **Effect on Other Laws**
 
-Pub. L. 101–508, title X, § 10103, Nov. 5, 1990, 104 Stat. 1388–392, provided that: “Except for section 10101(d) [not classified to the Code], nothing in this subtitle [subtitle B (§§ 10101–10103) of title X of Pub. L. 101–508, enacting provisions set out as notes under this section and section 1 of this title] affects the provisions of Public Law 100–703 (102 Stat. 4674 and following) [see Tables for classification].”
+Pub. L. 101–508, title X, § 10103, Nov. 5, 1990, 104 Stat. 1388–392, provided that: “Except for section 10101(d) [not classified to the Code], nothing in this subtitle [subtitle B (§§ 10101–10103) of title X of Pub. L. 101–508, enacting provisions set out as notes under this section and section 1 of this title] affects the provisions of Public Law 100–703 (102 Stat. 4674 and following) [see Tables for classification].”
 
 **Public Access to Patent and Trademark Office Information**
 
-Pub. L. 100–703, title I, § 104(b), (c), Nov. 19, 1988, 102 Stat. 4675, provided that the Commissioner of Patents and Trademarks maintain patent and trademark collections, search rooms, and libraries for use by the public without fees and authorized establishment of fees for access by the public to automated search systems of the Patent and Trademark Office, prior to repeal by Pub. L. 102–204, § 9, Dec. 10, 1991, 105 Stat. 1641. See section 41(i) of this title.
+Pub. L. 100–703, title I, § 104(b), (c), Nov. 19, 1988, 102 Stat. 4675, provided that the Commissioner of Patents and Trademarks maintain patent and trademark collections, search rooms, and libraries for use by the public without fees and authorized establishment of fees for access by the public to automated search systems of the Patent and Trademark Office, prior to repeal by Pub. L. 102–204, § 9, Dec. 10, 1991, 105 Stat. 1641. See section 41(i) of this title.
 
-Pub. L. 99–607, § 4, Nov. 6, 1986, 100 Stat. 3471, provided that the Commissioner of Patents and Trademarks could not impose a fee for use of public patent or trademark search rooms and libraries and that costs of such rooms and libraries should come from amounts appropriated by Congress, prior to repeal by Pub. L. 100–703, title I, § 104(a), Nov. 19, 1988, 102 Stat. 4675.
+Pub. L. 99–607, § 4, Nov. 6, 1986, 100 Stat. 3471, provided that the Commissioner of Patents and Trademarks could not impose a fee for use of public patent or trademark search rooms and libraries and that costs of such rooms and libraries should come from amounts appropriated by Congress, prior to repeal by Pub. L. 100–703, title I, § 104(a), Nov. 19, 1988, 102 Stat. 4675.
 
 **Patent Fees**
 
-Pub. L. 100–703, title I, § 103(b), Nov. 19, 1988, 102 Stat. 4674, prohibited Commissioner of Patents and Trademarks, during fiscal years 1989, 1990, and 1991, from increasing fees established under subsec. (d) of this section, except for purposes of making adjustments which in the aggregate did not exceed fluctuations during the previous three years in the Consumer Price Index, and from establishing additional fees under such section during such fiscal years. Similar provisions were contained in Pub. L. 99–607, § 3(b), Nov. 6, 1986, 100 Stat. 3471.
+Pub. L. 100–703, title I, § 103(b), Nov. 19, 1988, 102 Stat. 4674, prohibited Commissioner of Patents and Trademarks, during fiscal years 1989, 1990, and 1991, from increasing fees established under subsec. (d) of this section, except for purposes of making adjustments which in the aggregate did not exceed fluctuations during the previous three years in the Consumer Price Index, and from establishing additional fees under such section during such fiscal years. Similar provisions were contained in Pub. L. 99–607, § 3(b), Nov. 6, 1986, 100 Stat. 3471.
 
-Pub. L. 98–622, title IV, § 404, Nov. 8, 1984, 98 Stat. 3392, provided that:
+Pub. L. 98–622, title IV, § 404, Nov. 8, 1984, 98 Stat. 3392, provided that:
 
 > **“(a)** Notwithstanding section 41 of title 35, United States Code, as in effect before the enactment of Public Law 97–247 (96 Stat. 317) [Aug. 27, 1982], no fee shall be collected for maintaining a plant patent in force.
 
 > **“(b)** Notwithstanding section 41(c) of title 35, United States Code, as in effect before the enactment of Public Law 97–247 (96 Stat. 317) [Aug. 27, 1982], the Commissioner of Patents and Trademarks [now Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office] may accept, after the six-month grace period referred to in such section 41(c), the payment of any maintenance fee due on any patent based on an application filed in the Patent and Trademark Office on or after December 12, 1980, and before August 27, 1982, to the same extent as in the case of patents based on applications filed in the Patent and Trademark Office on or after August 27, 1982.”
 
-## § 42. Patent and Trademark Office funding
+## § 42. Patent and Trademark Office funding
 
 **(a)** All fees for services performed by or materials furnished by the Patent and Trademark Office will be payable to the Director.
 
@@ -975,11 +975,11 @@ Pub. L. 98–622, title IV, § 404, Nov. 8, 1984, 98 Stat. 3392, provided that
 
 **(5)** such other information as the committees consider necessary.
 
-(July 19, 1952, ch. 950, 66 Stat. 796; Pub. L. 94–131, § 4, Nov. 14, 1975, 89 Stat. 690; Pub. L. 96–517, § 3, Dec. 12, 1980, 94 Stat. 3018; Pub. L. 97–247, § 3(g), Aug. 27, 1982, 96 Stat. 319; Pub. L. 97–258, § 3(i), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 102–204, §§ 4, 5(e), Dec. 10, 1991, 105 Stat. 1637, 1640; Pub. L. 105–358, § 4, Nov. 10, 1998, 112 Stat. 3274; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4205, 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–555, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, § 22(a), Sept. 16, 2011, 125 Stat. 336; Pub. L. 112–274, § 1(j), Jan. 14, 2013, 126 Stat. 2457.)
+(July 19, 1952, ch. 950, 66 Stat. 796; Pub. L. 94–131, § 4, Nov. 14, 1975, 89 Stat. 690; Pub. L. 96–517, § 3, Dec. 12, 1980, 94 Stat. 3018; Pub. L. 97–247, § 3(g), Aug. 27, 1982, 96 Stat. 319; Pub. L. 97–258, § 3(i), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 102–204, §§ 4, 5(e), Dec. 10, 1991, 105 Stat. 1637, 1640; Pub. L. 105–358, § 4, Nov. 10, 1998, 112 Stat. 3274; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4205, 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–555, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, § 22(a), Sept. 16, 2011, 125 Stat. 336; Pub. L. 112–274, § 1(j), Jan. 14, 2013, 126 Stat. 2457.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 79 (Mar. 6, 1920, ch. 94, § 1 (part), 41 Stat. 503, 512).
+Based on Title 35, U.S.C., 1946 ed., § 79 (Mar. 6, 1920, ch. 94, § 1 (part), 41 Stat. 503, 512).
 
 Language has been changed.
 
@@ -991,33 +991,33 @@ Section 31 of the Trademark Act of 1946, referred to in subsec. (c)(3)(B), is cl
 
 **Amendments**
 
-2013—Subsec. (c)(3)(A). Pub. L. 112–274, § 1(j)(1), substituted “this title,” for “sections 41, 42, and 376,” and “a proportionate share of the administrative costs of the Office” for “a share of the administrative costs of the Office relating to patents”.
+2013—Subsec. (c)(3)(A). Pub. L. 112–274, § 1(j)(1), substituted “this title,” for “sections 41, 42, and 376,” and “a proportionate share of the administrative costs of the Office” for “a share of the administrative costs of the Office relating to patents”.
 
-Subsec. (c)(3)(B). Pub. L. 112–274, § 1(j)(2), substituted “a proportionate share of the administrative costs of the Office” for “a share of the administrative costs of the Office relating to trademarks”.
+Subsec. (c)(3)(B). Pub. L. 112–274, § 1(j)(2), substituted “a proportionate share of the administrative costs of the Office” for “a share of the administrative costs of the Office relating to trademarks”.
 
 2011—Subsec. (c). Pub. L. 112–29 designated existing provisions as par. (1), substituted “shall, subject to paragraph (3), be available” for “shall be available”, struck out at end “All fees available to the Director under section 31 of the Trademark Act of 1946 shall be used only for the processing of trademark registrations and for other activities, services, and materials relating to trademarks and to cover a proportionate share of the administrative costs of the Patent and Trademark Office.”, and added pars. (2) and (3).
 
-2002—Subsecs. (a), (b). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
+2002—Subsecs. (a), (b). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
 
-1999—Subsecs. (a), (b). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
+1999—Subsecs. (a), (b). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
 
 Subsec. (c). Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing and, in second sentence, substituted “All fees available” for “Fees available” and “shall be used” for “may be used”.
 
-Subsec. (d). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], substituted “Director” for “Commissioner”.
+Subsec. (d). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], substituted “Director” for “Commissioner”.
 
 1998—Subsec. (c). Pub. L. 105–358 substituted first sentence for former first sentence which read as follows: “Revenues from fees shall be available to the Commissioner to carry out, to the extent provided in appropriation Acts, the activities of the Patent and Trademark Office.”
 
-1991—Subsec. (c). Pub. L. 102–204, § 5(e), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Revenues from fees will be available to the Commissioner of Patents to carry out, to the extent provided for in appropriation Acts, the activities of the Patent and Trademark Office. Fees available to the Commissioner under section 31 of the Trademark Act of 1946, as amended (15 U.S.C. 1113), shall be used exclusively for the processing of trademark registrations and for other services and materials related to trademarks.”
+1991—Subsec. (c). Pub. L. 102–204, § 5(e), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Revenues from fees will be available to the Commissioner of Patents to carry out, to the extent provided for in appropriation Acts, the activities of the Patent and Trademark Office. Fees available to the Commissioner under section 31 of the Trademark Act of 1946, as amended (15 U.S.C. 1113), shall be used exclusively for the processing of trademark registrations and for other services and materials related to trademarks.”
 
-Subsec. (e). Pub. L. 102–204, § 4, added subsec. (e).
+Subsec. (e). Pub. L. 102–204, § 4, added subsec. (e).
 
-1982—Subsec. (b). Pub. L. 97–258 struck out “, the provisions of section 725e of title 31, United States Code, notwithstanding” after “United States”.
+1982—Subsec. (b). Pub. L. 97–258 struck out “, the provisions of section 725e of title 31, United States Code, notwithstanding” after “United States”.
 
 Subsec. (c). Pub. L. 97–247 inserted provision that fees available to the Commissioner under section 31 of the Trademark Act of 1946, as amended (15 U.S.C. 1113), be used exclusively for the processing of trademark registrations and for other services and materials related to trademarks.
 
 1980—Pub. L. 96–517 designated existing provision relating to payment of patent fees as subsec. (a) and struck out provision that, except as provided in sections 361(b) and 376(b) of this title, the Commissioner deposit fees paid in the Treasury of the United States in such manner as directed by the Secretary of the Treasury, designated existing provision relating to return of excess amounts paid as subsec. (d), and added subsecs. (b) and (c).
 
-1975—Pub. L. 94–131 inserted “, except as provided in sections 361(b) and 376(b) of this title,”.
+1975—Pub. L. 94–131 inserted “, except as provided in sections 361(b) and 376(b) of this title,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1027,11 +1027,11 @@ Amendment by Pub. L. 112–274 effective Jan. 14, 2013, and applicable to procee
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–29, § 22(b), Sept. 16, 2011, 125 Stat. 336, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 2011.”
+Pub. L. 112–29, § 22(b), Sept. 16, 2011, 125 Stat. 336, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 2011.”
 
 **Effective Date of 1999 Amendment**
 
-Amendment by section 1000(a)(9) [title IV, § 4732(a)(10)(A)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by section 1000(a)(9) [title IV, § 4732(a)(10)(A)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Effective Date of 1998 Amendment**
 
@@ -1051,7 +1051,7 @@ Amendment by Pub. L. 94–131 effective Jan. 24, 1978, and applicable on and aft
 
 **Authorization of Amounts Available to the Patent and Trademark Office**
 
-Pub. L. 107–273, div. C, title III, § 13102, Nov. 2, 2002, 116 Stat. 1899, provided that:
+Pub. L. 107–273, div. C, title III, § 13102, Nov. 2, 2002, 116 Stat. 1899, provided that:
 
 > **“(a) In General.—** There are authorized to be appropriated to the United States Patent and Trademark Office for salaries and necessary expenses for each of the fiscal years 2003 through 2008 an amount equal to the fees estimated by the Secretary of Commerce to be collected in each such fiscal year, respectively, under—
 
@@ -1059,7 +1059,7 @@ Pub. L. 107–273, div. C, title III, § 13102, Nov. 2, 2002, 116 Stat. 1899, 
 
 > **“(2)** the Act entitled ‘An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes’, approved July 5, 1946 (15 U.S.C. 1051 et seq.) (commonly referred to as the Trademark Act of 1946).
 
-> **“(b) Estimates.—** Not later than February 15, of each fiscal year, the Undersecretary of Commerce for Intellectual Property and the Director of the Patent and Trademark Office (in this subtitle [subtitle A (§§ 13101–13106) of title III of div. C of Pub. L. 107–273, amending sections 134, 141, 303, 312, and 315 of this title and enacting provisions set out as notes under sections 2, 134, and 303 of this title] referred to as the Director) shall submit an estimate of all fees referred to under subsection (a) to be collected in the next fiscal year to the chairman and ranking member of—
+> **“(b) Estimates.—** Not later than February 15, of each fiscal year, the Undersecretary of Commerce for Intellectual Property and the Director of the Patent and Trademark Office (in this subtitle [subtitle A (§§ 13101–13106) of title III of div. C of Pub. L. 107–273, amending sections 134, 141, 303, 312, and 315 of this title and enacting provisions set out as notes under sections 2, 134, and 303 of this title] referred to as the Director) shall submit an estimate of all fees referred to under subsection (a) to be collected in the next fiscal year to the chairman and ranking member of—
 
 > **“(1)** the Committees on Appropriations and Judiciary of the Senate; and
 
@@ -1067,8 +1067,8 @@ Pub. L. 107–273, div. C, title III, § 13102, Nov. 2, 2002, 116 Stat. 1899, 
 
 **Appropriations Authorized To Be Carried Over**
 
-Pub. L. 100–703, title I, § 102, Nov. 19, 1988, 102 Stat. 4674, provided that: “Amounts appropriated under this Act and such fees as may be collected under title 35, United States Code, and the Trademark Act of 1946 (15 U.S.C. 1051 and following) may remain available until expended.”
+Pub. L. 100–703, title I, § 102, Nov. 19, 1988, 102 Stat. 4674, provided that: “Amounts appropriated under this Act and such fees as may be collected under title 35, United States Code, and the Trademark Act of 1946 (15 U.S.C. 1051 and following) may remain available until expended.”
 
 Similar provisions were contained in the following prior authorization act:
 
-Pub. L. 99–607, § 2, Nov. 6, 1986, 100 Stat. 3470.
+Pub. L. 99–607, § 2, Nov. 6, 1986, 100 Stat. 3470.

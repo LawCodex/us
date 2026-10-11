@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 49—HOMEOWNERS PROTECTION
 
-## § 4901. Definitions
+## § 4901. Definitions
 
 In this chapter, the following definitions shall apply:
 
@@ -109,7 +109,7 @@ The term “single-family dwelling” means a residence consisting of 1 family d
 
 **(B)** with respect to an adjustable rate mortgage, the date on which the principal balance of the mortgage, based solely on the amortization schedule then in effect for that mortgage, and irrespective of the outstanding balance for that mortgage on that date, is first scheduled to reach 78 percent of the original value of the property securing the loan.
 
-(Pub. L. 105–216, § 2, July 29, 1998, 112 Stat. 897; Pub. L. 106–569, title IV, §§ 402(a)(1), (b), 405(a), 406(b)–(d), Dec. 27, 2000, 114 Stat. 2956, 2958, 2959.)
+(Pub. L. 105–216, § 2, July 29, 1998, 112 Stat. 897; Pub. L. 106–569, title IV, §§ 402(a)(1), (b), 405(a), 406(b)–(d), Dec. 27, 2000, 114 Stat. 2956, 2958, 2959.)
 
 **Editorial Notes**
 
@@ -117,61 +117,61 @@ The term “single-family dwelling” means a residence consisting of 1 family d
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 105–216, July 29, 1998, 112 Stat. 897, known as the Homeowners Protection Act of 1998. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-The National Housing Act, referred to in par. (13), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in par. (13), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
-The Housing Act of 1949, referred to in par. (13), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Act is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+The Housing Act of 1949, referred to in par. (13), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Act is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
 **Amendments**
 
-2000—Par. (1). Pub. L. 106–569, § 402(b), inserted at end “A residential mortgage that: (A) does not fully amortize over the term of the obligation; and (B) contains a conditional right to refinance or modify the unamortized principal at the maturity date of the term, shall be considered to be an adjustable rate mortgage for purposes of this chapter.”
+2000—Par. (1). Pub. L. 106–569, § 402(b), inserted at end “A residential mortgage that: (A) does not fully amortize over the term of the obligation; and (B) contains a conditional right to refinance or modify the unamortized principal at the maturity date of the term, shall be considered to be an adjustable rate mortgage for purposes of this chapter.”
 
-Par. (2)(B)(i). Pub. L. 106–569, § 402(a)(1)(A), substituted “the amortization schedule then in effect” for “amortization schedules”.
+Par. (2)(B)(i). Pub. L. 106–569, § 402(a)(1)(A), substituted “the amortization schedule then in effect” for “amortization schedules”.
 
-Par. (4)(A). Pub. L. 106–569, § 405(a)(1), inserted “the later of (i)” before “the date on which the mortgage” and “, or (ii) the date that the mortgagor submits a request for cancellation under section 4902(a)(1) of this title” before the semicolon.
+Par. (4)(A). Pub. L. 106–569, § 405(a)(1), inserted “the later of (i)” before “the date on which the mortgage” and “, or (ii) the date that the mortgagor submits a request for cancellation under section 4902(a)(1) of this title” before the semicolon.
 
-Par. (4)(B). Pub. L. 106–569, § 405(a)(2), inserted “the later of (i)” before “the date on which the mortgage” and “, or (ii) the date that the mortgagor submits a request for cancellation under section 4902(a)(1) of this title” before period at end.
+Par. (4)(B). Pub. L. 106–569, § 405(a)(2), inserted “the later of (i)” before “the date on which the mortgage” and “, or (ii) the date that the mortgagor submits a request for cancellation under section 4902(a)(1) of this title” before period at end.
 
-Par. (6). Pub. L. 106–569, § 402(a)(1)(D), added par. (6). Former par. (6) redesignated (8).
+Par. (6). Pub. L. 106–569, § 402(a)(1)(D), added par. (6). Former par. (6) redesignated (8).
 
-Par. (7). Pub. L. 106–569, § 406(b), added par. (7). Former par. (7) redesignated (9).
+Par. (7). Pub. L. 106–569, § 406(b), added par. (7). Former par. (7) redesignated (9).
 
-Pars. (8) to (11). Pub. L. 106–569, § 402(a)(1)(C), redesignated pars. (6) to (9) as (8) to (11), respectively. Former pars. (10) and (11) redesignated (12) and (13), respectively.
+Pars. (8) to (11). Pub. L. 106–569, § 402(a)(1)(C), redesignated pars. (6) to (9) as (8) to (11), respectively. Former pars. (10) and (11) redesignated (12) and (13), respectively.
 
-Par. (12). Pub. L. 106–569, § 406(c), inserted “transaction” after “a residential mortgage” and inserted at end “In the case of a residential mortgage transaction for refinancing the principal residence of the mortgagor, such term means only the appraised value relied upon by the mortgagee to approve the refinance transaction.”
+Par. (12). Pub. L. 106–569, § 406(c), inserted “transaction” after “a residential mortgage” and inserted at end “In the case of a residential mortgage transaction for refinancing the principal residence of the mortgagor, such term means only the appraised value relied upon by the mortgagee to approve the refinance transaction.”
 
-Pub. L. 106–569, § 402(a)(1)(C), redesignated par. (10) as (12). Former par. (12) redesignated (14).
+Pub. L. 106–569, § 402(a)(1)(C), redesignated par. (10) as (12). Former par. (12) redesignated (14).
 
-Par. (13). Pub. L. 106–569, § 402(a)(1)(C), redesignated par. (11) as (13). Former par. (13) redesignated (15).
+Par. (13). Pub. L. 106–569, § 402(a)(1)(C), redesignated par. (11) as (13). Former par. (13) redesignated (15).
 
-Par. (14). Pub. L. 106–569, § 406(d)(1), substituted “principal residence of the mortgagor” for “primary residence of the mortgagor”.
+Par. (14). Pub. L. 106–569, § 406(d)(1), substituted “principal residence of the mortgagor” for “primary residence of the mortgagor”.
 
-Pub. L. 106–569, § 402(a)(1)(C), redesignated par. (12) as (14). Former par. (14) redesignated (16).
+Pub. L. 106–569, § 402(a)(1)(C), redesignated par. (12) as (14). Former par. (14) redesignated (16).
 
-Par. (15). Pub. L. 106–569, § 406(d)(2), substituted “principal residence of the mortgagor” for “primary residence of the mortgagor”.
+Par. (15). Pub. L. 106–569, § 406(d)(2), substituted “principal residence of the mortgagor” for “primary residence of the mortgagor”.
 
-Pub. L. 106–569, § 402(a)(1)(C), redesignated par. (13) as (15). Former par. (15) redesignated (17).
+Pub. L. 106–569, § 402(a)(1)(C), redesignated par. (13) as (15). Former par. (15) redesignated (17).
 
-Par. (16). Pub. L. 106–569, § 402(a)(1)(C), redesignated par. (14) as (16). Former par. (16) redesignated (18).
+Par. (16). Pub. L. 106–569, § 402(a)(1)(C), redesignated par. (14) as (16). Former par. (16) redesignated (18).
 
-Par. (16)(B). Pub. L. 106–569, § 402(a)(1)(B), substituted “the amortization schedule then in effect” for “amortization schedules”.
+Par. (16)(B). Pub. L. 106–569, § 402(a)(1)(B), substituted “the amortization schedule then in effect” for “amortization schedules”.
 
-Pars. (17), (18). Pub. L. 106–569, § 402(a)(1)(C), redesignated pars. (15) and (16) as (17) and (18), respectively.
+Pars. (17), (18). Pub. L. 106–569, § 402(a)(1)(C), redesignated pars. (15) and (16) as (17) and (18), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 105–216, § 13, July 29, 1998, 112 Stat. 908, provided that: “This Act [enacting this chapter and amending section 1088 of Title 20, Education], other than section 14 [enacting provisions set out as notes under sections 1441a and 1831q of this title and amending provisions set out as a note under section 1831q of this title], shall become effective 1 year after the date of enactment of this Act [July 29, 1998].”
+Pub. L. 105–216, § 13, July 29, 1998, 112 Stat. 908, provided that: “This Act [enacting this chapter and amending section 1088 of Title 20, Education], other than section 14 [enacting provisions set out as notes under sections 1441a and 1831q of this title and amending provisions set out as a note under section 1831q of this title], shall become effective 1 year after the date of enactment of this Act [July 29, 1998].”
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–569, title IV, § 401, Dec. 27, 2000, 114 Stat. 2956, provided that: “This title [amending this section and sections 4902, 4903, and 4905 of this title] may be cited as the ‘Private Mortgage Insurance Technical Corrections and Clarification Act’.”
+Pub. L. 106–569, title IV, § 401, Dec. 27, 2000, 114 Stat. 2956, provided that: “This title [amending this section and sections 4902, 4903, and 4905 of this title] may be cited as the ‘Private Mortgage Insurance Technical Corrections and Clarification Act’.”
 
 **Short Title**
 
-Pub. L. 105–216, § 1(a), July 29, 1998, 112 Stat. 897, provided that: “This Act [enacting this chapter, amending section 1088 of Title 20, Education, enacting provisions set out as notes under sections 1441a and 1831q of this title, and amending provisions set out as a note under section 1831q of this title] may be cited as the ‘Homeowners Protection Act of 1998’.”
+Pub. L. 105–216, § 1(a), July 29, 1998, 112 Stat. 897, provided that: “This Act [enacting this chapter, amending section 1088 of Title 20, Education, enacting provisions set out as notes under sections 1441a and 1831q of this title, and amending provisions set out as a note under section 1831q of this title] may be cited as the ‘Homeowners Protection Act of 1998’.”
 
-## § 4902. Termination of private mortgage insurance
+## § 4902. Termination of private mortgage insurance
 
 **(a) Borrower cancellation** A requirement for private mortgage insurance in connection with a residential mortgage transaction shall be canceled on the cancellation date or any later date that the mortgagor fulfills all of the requirements under paragraphs (1) through (4), if the mortgagor—
 
@@ -263,39 +263,39 @@ Nothing in this subsection may be construed to require a residential mortgage or
 
 The cancellation or termination under this section of the private mortgage insurance of a mortgagor shall not affect the rights of any mortgagee, servicer, or mortgage insurer to enforce any obligation of such mortgagor for premium payments accrued prior to the date on which such cancellation or termination occurred.
 
-(Pub. L. 105–216, § 3, July 29, 1998, 112 Stat. 899; Pub. L. 106–569, title IV, §§ 402(a)(2), (c)(1), 403(a), 404, 405(b), (c), Dec. 27, 2000, 114 Stat. 2956–2958.)
+(Pub. L. 105–216, § 3, July 29, 1998, 112 Stat. 899; Pub. L. 106–569, title IV, §§ 402(a)(2), (c)(1), 403(a), 404, 405(b), (c), Dec. 27, 2000, 114 Stat. 2956–2958.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2000—Subsec. (a). Pub. L. 106–569, § 404(1)(A), inserted “or any later date that the mortgagor fulfills all of the requirements under paragraphs (1) through (4)” after “cancellation date” in introductory provisions.
+2000—Subsec. (a). Pub. L. 106–569, § 404(1)(A), inserted “or any later date that the mortgagor fulfills all of the requirements under paragraphs (1) through (4)” after “cancellation date” in introductory provisions.
 
-Subsec. (a)(3), (4). Pub. L. 106–569, § 404(1)(B)–(D), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (a)(3), (4). Pub. L. 106–569, § 404(1)(B)–(D), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (b)(2). Pub. L. 106–569, § 405(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “on the date after the termination date on which the mortgagor becomes current on the payments required by the terms of the residential mortgage transaction.”
+Subsec. (b)(2). Pub. L. 106–569, § 405(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “on the date after the termination date on which the mortgagor becomes current on the payments required by the terms of the residential mortgage transaction.”
 
-Subsec. (c). Pub. L. 106–569, § 403(a)(1), inserted “on residential mortgage transactions” after “requirement be imposed”.
+Subsec. (c). Pub. L. 106–569, § 403(a)(1), inserted “on residential mortgage transactions” after “requirement be imposed”.
 
-Subsec. (d). Pub. L. 106–569, § 402(c)(1)(B), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 106–569, § 402(c)(1)(B), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 106–569, § 402(c)(1)(A), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 106–569, § 402(c)(1)(A), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (e)(1)(B). Pub. L. 106–569, § 404(2), substituted “subsection (a)(4)” for “subsection (a)(3)”.
+Subsec. (e)(1)(B). Pub. L. 106–569, § 404(2), substituted “subsection (a)(4)” for “subsection (a)(3)”.
 
-Subsec. (f). Pub. L. 106–569, § 402(c)(1)(A), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 106–569, § 402(c)(1)(A), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (f)(1)(B)(ii). Pub. L. 106–569, § 402(a)(2), substituted “the amortization schedule then in effect” for “amortization schedules”.
+Subsec. (f)(1)(B)(ii). Pub. L. 106–569, § 402(a)(2), substituted “the amortization schedule then in effect” for “amortization schedules”.
 
-Subsec. (g). Pub. L. 106–569, § 402(c)(1)(A), redesignated subsec. (f) as (g).
+Subsec. (g). Pub. L. 106–569, § 402(c)(1)(A), redesignated subsec. (f) as (g).
 
-Subsec. (g)(1). Pub. L. 106–569, § 403(a)(2)(A), struck out “mortgage or” after “do not apply to any residential” in introductory provisions.
+Subsec. (g)(1). Pub. L. 106–569, § 403(a)(2)(A), struck out “mortgage or” after “do not apply to any residential” in introductory provisions.
 
-Subsec. (g)(2). Pub. L. 106–569, § 403(a)(2)(B), struck out “mortgage or” after “in connection with a residential”.
+Subsec. (g)(2). Pub. L. 106–569, § 403(a)(2)(B), struck out “mortgage or” after “in connection with a residential”.
 
-Subsec. (g)(3). Pub. L. 106–569, § 403(a)(2)(C), substituted “residential mortgage or residential” for “mortgage or”.
+Subsec. (g)(3). Pub. L. 106–569, § 403(a)(2)(C), substituted “residential mortgage or residential” for “mortgage or”.
 
-Subsec. (h). Pub. L. 106–569, § 405(c), added subsec. (h).
+Subsec. (h). Pub. L. 106–569, § 405(c), added subsec. (h).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -303,7 +303,7 @@ Subsec. (h). Pub. L. 106–569, § 405(c), added subsec. (h).
 
 Section effective 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as a note under section 4901 of this title.
 
-## § 4903. Disclosure requirements
+## § 4903. Disclosure requirements
 
 **(a) Disclosures for new mortgages at time of transaction**
 
@@ -359,7 +359,7 @@ The information and disclosures required under subsection (b) and subsection (a)
 
 The mortgagee or servicer may use standardized forms for the provision of disclosures required under this section, which disclosures shall relate to the mortgagor’s rights under this chapter.
 
-(Pub. L. 105–216, § 4, July 29, 1998, 112 Stat. 902; Pub. L. 106–569, title IV, §§ 402(c)(2), 403(b), Dec. 27, 2000, 114 Stat. 2957.)
+(Pub. L. 105–216, § 4, July 29, 1998, 112 Stat. 902; Pub. L. 106–569, title IV, §§ 402(c)(2), 403(b), Dec. 27, 2000, 114 Stat. 2957.)
 
 **Editorial Notes**
 
@@ -367,19 +367,19 @@ The mortgagee or servicer may use standardized forms for the provision of disclo
 
 The effective date of this chapter, referred to in subsec. (b), is 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as an Effective Date note under section 4901 of this title.
 
-The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (c), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
+The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (c), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
 **Amendments**
 
-2000—Subsec. (a)(1). Pub. L. 106–569, §§ 402(c)(2)(A)(i), 403(b)(1)(A), substituted “residential mortgage transaction (other than a residential mortgage transaction described in section 4902(g)(1) of this title)” for “residential mortgage or mortgage transaction (other than a mortgage or mortgage transaction described in section 4902(f)(1) of this title)” in introductory provisions.
+2000—Subsec. (a)(1). Pub. L. 106–569, §§ 402(c)(2)(A)(i), 403(b)(1)(A), substituted “residential mortgage transaction (other than a residential mortgage transaction described in section 4902(g)(1) of this title)” for “residential mortgage or mortgage transaction (other than a mortgage or mortgage transaction described in section 4902(f)(1) of this title)” in introductory provisions.
 
-Subsec. (a)(1)(A)(ii)(IV), (B)(iii). Pub. L. 106–569, § 402(c)(2)(A)(ii), (iii), substituted “section 4902(g) of this title” for “section 4902(f) of this title”.
+Subsec. (a)(1)(A)(ii)(IV), (B)(iii). Pub. L. 106–569, § 402(c)(2)(A)(ii), (iii), substituted “section 4902(g) of this title” for “section 4902(f) of this title”.
 
-Subsec. (a)(2). Pub. L. 106–569, §§ 402(c)(2)(B), 403(b)(1)(B), substituted “residential mortgage transaction” for “mortgage or mortgage transaction” and “section 4902(g)(1) of this title” for “section 4902(f)(1) of this title”.
+Subsec. (a)(2). Pub. L. 106–569, §§ 402(c)(2)(B), 403(b)(1)(B), substituted “residential mortgage transaction” for “mortgage or mortgage transaction” and “section 4902(g)(1) of this title” for “section 4902(f)(1) of this title”.
 
-Subsec. (c). Pub. L. 106–569, § 403(b)(2), substituted “subsection (a)(3)” for “paragraphs (1)(B) and (3) of subsection (a)”.
+Subsec. (c). Pub. L. 106–569, § 403(b)(2), substituted “subsection (a)(3)” for “paragraphs (1)(B) and (3) of subsection (a)”.
 
-Subsec. (d). Pub. L. 106–569, § 403(b)(3), inserted before period at end “, which disclosures shall relate to the mortgagor’s rights under this chapter”.
+Subsec. (d). Pub. L. 106–569, § 403(b)(3), inserted before period at end “, which disclosures shall relate to the mortgagor’s rights under this chapter”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -387,7 +387,7 @@ Subsec. (d). Pub. L. 106–569, § 403(b)(3), inserted before period at end �
 
 Section effective 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as a note under section 4901 of this title.
 
-## § 4904. Notification upon cancellation or termination
+## § 4904. Notification upon cancellation or termination
 
 **(a) In general** Not later than 30 days after the date of cancellation or termination of a private mortgage insurance requirement in accordance with this chapter, the servicer shall notify the mortgagor in writing—
 
@@ -407,21 +407,21 @@ If a servicer determines that a mortgage did not meet the requirements for termi
 
 **(i)** the date on which a request is received under section 4902(a)(1) of this title; or
 
-**(ii)** the date on which the mortgagor satisfies any evidence and certification requirements under section 4902(a)(3) 1
+**(ii)** the date on which the mortgagor satisfies any evidence and certification requirements under section 4902(a)(3) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title; and
 
 **(B)** with respect to termination of private mortgage insurance under section 4902(b) of this title, not later than 30 days after the scheduled termination date.
 
-(Pub. L. 105–216, § 5, July 29, 1998, 112 Stat. 903.)
+(Pub. L. 105–216, § 5, July 29, 1998, 112 Stat. 903.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4902(a)(3) of this title, referred to in subsec. (b)(2)(A)(ii), was redesignated section 4902(a)(4) of this title by Pub. L. 106–569, title IV, § 404(1)(C), Dec. 27, 2000, 114 Stat. 2958.
+Section 4902(a)(3) of this title, referred to in subsec. (b)(2)(A)(ii), was redesignated section 4902(a)(4) of this title by Pub. L. 106–569, title IV, § 404(1)(C), Dec. 27, 2000, 114 Stat. 2958.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -429,7 +429,7 @@ Section 4902(a)(3) of this title, referred to in subsec. (b)(2)(A)(ii), was rede
 
 Section effective 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as a note under section 4901 of this title.
 
-## § 4905. Disclosure requirements for lender paid mortgage insurance
+## § 4905. Disclosure requirements for lender paid mortgage insurance
 
 **(a) Definitions** For purposes of this section—
 
@@ -465,23 +465,23 @@ Sections 4902 through 4904 of this title do not apply in the case of lender paid
 
 The servicer of a residential mortgage transaction may develop and use a standardized form or forms for the provision of notices to the mortgagor, as required under subsection (c).
 
-(Pub. L. 105–216, § 6, July 29, 1998, 112 Stat. 904; Pub. L. 106–569, title IV, §§ 403(c), 406(a), Dec. 27, 2000, 114 Stat. 2957, 2959.)
+(Pub. L. 105–216, § 6, July 29, 1998, 112 Stat. 904; Pub. L. 106–569, title IV, §§ 403(c), 406(a), Dec. 27, 2000, 114 Stat. 2957, 2959.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Truth in Lending Act, referred to in subsec.(c)(1)(B)(ii), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Truth in Lending Act, referred to in subsec.(c)(1)(B)(ii), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 **Amendments**
 
-2000—Subsec. (c). Pub. L. 106–569, § 403(c)(1)(A), struck out “a residential mortgage or” before “a residential mortgage transaction” in introductory provisions.
+2000—Subsec. (c). Pub. L. 106–569, § 403(c)(1)(A), struck out “a residential mortgage or” before “a residential mortgage transaction” in introductory provisions.
 
-Subsec. (c)(1)(B)(ii). Pub. L. 106–569, § 406(a), inserted “(under the meaning given such term in the regulations issued by the Board of Governors of the Federal Reserve System to carry out the Truth in Lending Act (15 U.S.C. 1601 et seq.))” after “refinanced”.
+Subsec. (c)(1)(B)(ii). Pub. L. 106–569, § 406(a), inserted “(under the meaning given such term in the regulations issued by the Board of Governors of the Federal Reserve System to carry out the Truth in Lending Act (15 U.S.C. 1601 et seq.))” after “refinanced”.
 
-Subsec. (c)(2). Pub. L. 106–569, § 403(c)(1)(B), inserted “transaction” before period at end.
+Subsec. (c)(2). Pub. L. 106–569, § 403(c)(1)(B), inserted “transaction” before period at end.
 
-Subsec. (d). Pub. L. 106–569, § 403(c)(2), inserted “transaction” after “residential mortgage”.
+Subsec. (d). Pub. L. 106–569, § 403(c)(2), inserted “transaction” after “residential mortgage”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -489,11 +489,11 @@ Subsec. (d). Pub. L. 106–569, § 403(c)(2), inserted “transaction” after
 
 Section effective 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as a note under section 4901 of this title.
 
-## § 4906. Fees for disclosures
+## § 4906. Fees for disclosures
 
 No fee or other cost may be imposed on any mortgagor with respect to the provision of any notice or information to the mortgagor pursuant to this chapter.
 
-(Pub. L. 105–216, § 7, July 29, 1998, 112 Stat. 905.)
+(Pub. L. 105–216, § 7, July 29, 1998, 112 Stat. 905.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -501,7 +501,7 @@ No fee or other cost may be imposed on any mortgagor with respect to the provisi
 
 Section effective 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as a note under section 4901 of this title.
 
-## § 4907. Civil liability
+## § 4907. Civil liability
 
 **(a) In general** Any servicer, mortgagee, or mortgage insurer that violates a provision of this chapter shall be liable to each mortgagor to whom the violation relates for—
 
@@ -535,7 +535,7 @@ With respect to a residential mortgage transaction, the failure of a servicer to
 
 Nothing in paragraph (1) shall be construed to impose any additional requirement or liability on a mortgage insurer, a mortgagee, or a holder of a residential mortgage.
 
-(Pub. L. 105–216, § 8, July 29, 1998, 112 Stat. 905.)
+(Pub. L. 105–216, § 8, July 29, 1998, 112 Stat. 905.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -543,7 +543,7 @@ Nothing in paragraph (1) shall be construed to impose any additional requirement
 
 Section effective 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as a note under section 4901 of this title.
 
-## § 4908. Effect on other laws and agreements
+## § 4908. Effect on other laws and agreements
 
 **(a) Effect on State law**
 
@@ -583,7 +583,7 @@ The provisions of this chapter do not supersede protected State laws, except to 
 
 The provisions of this chapter shall supersede any conflicting provision contained in any agreement relating to the servicing of a residential mortgage loan entered into by the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, or any private investor or note holder (or any successors thereto).
 
-(Pub. L. 105–216, § 9, July 29, 1998, 112 Stat. 906.)
+(Pub. L. 105–216, § 9, July 29, 1998, 112 Stat. 906.)
 
 **Editorial Notes**
 
@@ -597,7 +597,7 @@ The effective date of this chapter, referred to in subsec. (a)(1), is 1 year aft
 
 Section effective 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as a note under section 4901 of this title.
 
-## § 4909. Enforcement
+## § 4909. Enforcement
 
 **(a) In general** Subject to subtitle B of the Consumer Financial Protection Act of 2010 [12 U.S.C. 5511 et seq.], compliance with the requirements imposed under this chapter shall be enforced under—
 
@@ -633,23 +633,23 @@ In addition to the powers of any agency referred to in subsection (a) under any 
 
 **(3)** require the mortgagee or servicer, as applicable, to reimburse the mortgagor in an amount equal to the total unearned premiums paid by the mortgagor after the date on which the obligation to pay those premiums ceased under this chapter.
 
-(Pub. L. 105–216, § 10, July 29, 1998, 112 Stat. 907; Pub. L. 111–203, title X, § 1095, July 21, 2010, 124 Stat. 2101.)
+(Pub. L. 105–216, § 10, July 29, 1998, 112 Stat. 907; Pub. L. 111–203, title X, § 1095, July 21, 2010, 124 Stat. 2101.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Consumer Financial Protection Act of 2010, referred to in subsecs. (a) and (b)(2), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitle B of the Act is classified generally to part B (§ 5511 et seq.) of subchapter V of chapter 53 of this title. Subtitle E of the Act is classified generally to part E (§ 5561 et seq.) of subchapter V of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Consumer Financial Protection Act of 2010, referred to in subsecs. (a) and (b)(2), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitle B of the Act is classified generally to part B (§ 5511 et seq.) of subchapter V of chapter 53 of this title. Subtitle E of the Act is classified generally to part E (§ 5561 et seq.) of subchapter V of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 105–216, July 29, 1998, 112 Stat. 897, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-The Federal Credit Union Act, referred to in subsec. (a)(2), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
+The Federal Credit Union Act, referred to in subsec. (a)(2), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
 
-The Farm Credit Act of 1971, referred to in subsec. (a)(3), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583. Part C of title V of the Act is classified generally to part C (§ 2261 et seq.) of subchapter V of chapter 23 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
+The Farm Credit Act of 1971, referred to in subsec. (a)(3), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583. Part C of title V of the Act is classified generally to part C (§ 2261 et seq.) of subchapter V of chapter 23 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–203, § 1095(1)(A), inserted introductory provisions and added par. (1) and struck out former introductory provisions and par. (1) which read as follows: “Compliance with the requirements imposed under this chapter shall be enforced under—
+2010—Subsec. (a). Pub. L. 111–203, § 1095(1)(A), inserted introductory provisions and added par. (1) and struck out former introductory provisions and par. (1) which read as follows: “Compliance with the requirements imposed under this chapter shall be enforced under—
 
 “(1) section 8 of the Federal Deposit Insurance Act—
 
@@ -659,9 +659,9 @@ The Farm Credit Act of 1971, referred to in subsec. (a)(3), is Pub. L. 92–181,
 
 “(C) by the Director of the Office of Thrift Supervision in the case of depository institutions described in clause (v) and or (vi) of section 19(b)(1)(A) of the Federal Reserve Act that are not insured depository institutions (as defined in section 3(c)(2) of the Federal Deposit Insurance Act);”.
 
-Subsec. (a)(4). Pub. L. 111–203, § 1095(1)(B)–(D), added par. (4).
+Subsec. (a)(4). Pub. L. 111–203, § 1095(1)(B)–(D), added par. (4).
 
-Subsec. (b)(2). Pub. L. 111–203, § 1095(2), inserted “, subject to subtitle B of the Consumer Financial Protection Act of 2010” before the period.
+Subsec. (b)(2). Pub. L. 111–203, § 1095(2), inserted “, subject to subtitle B of the Consumer Financial Protection Act of 2010” before the period.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -673,7 +673,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Section effective 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as a note under section 4901 of this title.
 
-## § 4910. Construction
+## § 4910. Construction
 
 **(a) PMI not required**
 
@@ -683,7 +683,7 @@ Nothing in this chapter shall be construed to impose any requirement for private
 
 Nothing in this chapter shall be construed to preclude cancellation or termination, by agreement between a mortgagor and the holder of the mortgage, of a requirement for private mortgage insurance in connection with a residential mortgage transaction before the cancellation or termination date established by this chapter for the mortgage.
 
-(Pub. L. 105–216, § 11, July 29, 1998, 112 Stat. 908.)
+(Pub. L. 105–216, § 11, July 29, 1998, 112 Stat. 908.)
 
 **Statutory Notes and Related Subsidiaries**
 

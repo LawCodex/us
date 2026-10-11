@@ -15,9 +15,9 @@ retrieved: 2026-10-11
 
 # CHAPTER 27—INTERNATIONAL CULTURAL EXCHANGE AND TRADE FAIR PARTICIPATION
 
-## §§ 1991 to 2001. Repealed. Pub. L. 87–256, § 111(a)(3), Sept. 21, 1961, 75 Stat. 538
+## §§ 1991 to 2001. Repealed. Pub. L. 87–256, § 111(a)(3), Sept. 21, 1961, 75 Stat. 538
 
-Sections, act Aug. 1, 1956, ch. 811, §§ 2–12, 70 Stat. 778–780, related to international cultural exchange and trade fair participation. See section 2451 et seq. of this title.
+Sections, act Aug. 1, 1956, ch. 811, §§ 2–12, 70 Stat. 778–780, related to international cultural exchange and trade fair participation. See section 2451 et seq. of this title.
 
 Section 1991 stated purpose of chapter.
 

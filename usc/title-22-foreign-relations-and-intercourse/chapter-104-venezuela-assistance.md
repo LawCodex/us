@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—SUPPORT FOR THE INTERIM PRESIDENT OF VENEZUELA AND RECOGNITION OF THE VENEZUELAN NATIONAL ASSEMBLY
 
-### § 9701. Findings; sense of Congress in support of the Interim President of Venezuela
+### § 9701. Findings; sense of Congress in support of the Interim President of Venezuela
 
 **(a) Findings** Congress makes the following findings:
 
@@ -37,15 +37,15 @@ retrieved: 2026-10-11
 
 **(3)** that the Organization of American States, with support from the United States Government and partner governments, should provide diplomatic, technical, and financial support for a new presidential election in Venezuela that complies with international standards for a free, fair, and transparent electoral process.
 
-(Pub. L. 116–94, div. J, title I, § 111, Dec. 20, 2019, 133 Stat. 3030.)
+(Pub. L. 116–94, div. J, title I, § 111, Dec. 20, 2019, 133 Stat. 3030.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 116–94, div. J, title I, § 101, Dec. 20, 2019, 133 Stat. 3030, provided that: “This title [enacting this chapter and amending provisions set out as a note under section 1701 of Title 50, War and National Defense] may be cited as the ‘Venezuela Emergency Relief, Democracy Assistance, and Development Act of 2019’ or the ‘VERDAD Act of 2019’.”
+Pub. L. 116–94, div. J, title I, § 101, Dec. 20, 2019, 133 Stat. 3030, provided that: “This title [enacting this chapter and amending provisions set out as a note under section 1701 of Title 50, War and National Defense] may be cited as the ‘Venezuela Emergency Relief, Democracy Assistance, and Development Act of 2019’ or the ‘VERDAD Act of 2019’.”
 
-### § 9702. Recognition of Venezuela’s democratically elected National Assembly
+### § 9702. Recognition of Venezuela’s democratically elected National Assembly
 
 **(a) Findings**
 
@@ -63,9 +63,9 @@ It is the policy of the United States to recognize the democratically elected Na
 
 The Secretary of State, in coordination with the Administrator of the United States Agency for International Development, shall prioritize efforts to provide technical assistance to support the democratically elected National Assembly of Venezuela in accordance with section 9731 of this title.
 
-(Pub. L. 116–94, div. J, title I, § 112, Dec. 20, 2019, 133 Stat. 3031.)
+(Pub. L. 116–94, div. J, title I, § 112, Dec. 20, 2019, 133 Stat. 3031.)
 
-### § 9703. Advancing a negotiated solution to Venezuela’s crisis
+### § 9703. Advancing a negotiated solution to Venezuela’s crisis
 
 **(a) Sense of Congress** It is the sense of Congress that—
 
@@ -95,11 +95,11 @@ The Secretary of State, in coordination with the Administrator of the United Sta
 
 It is the policy of the United States to support diplomatic engagement in order to advance a negotiated and peaceful solution to Venezuela’s political, economic, and humanitarian crisis that is described in subsection (a)(1).
 
-(Pub. L. 116–94, div. J, title I, § 113, Dec. 20, 2019, 133 Stat. 3031.)
+(Pub. L. 116–94, div. J, title I, § 113, Dec. 20, 2019, 133 Stat. 3031.)
 
 ## SUBCHAPTER II—HUMANITARIAN RELIEF FOR VENEZUELA
 
-### § 9711. Humanitarian relief for the Venezuelan people
+### § 9711. Humanitarian relief for the Venezuelan people
 
 **(a) Sense of Congress** It is the sense of Congress that—
 
@@ -169,7 +169,7 @@ There is authorized to be appropriated $400,000,000 for fiscal year 2020 to carr
 
 **(4)** the Committee on Appropriations of the House of Representatives.
 
-(Pub. L. 116–94, div. J, title I, § 121, Dec. 20, 2019, 133 Stat. 3032.)
+(Pub. L. 116–94, div. J, title I, § 121, Dec. 20, 2019, 133 Stat. 3032.)
 
 **Editorial Notes**
 
@@ -177,7 +177,7 @@ There is authorized to be appropriated $400,000,000 for fiscal year 2020 to carr
 
 The Consolidated Appropriations Act (Public Law 116–6), referred to in subsec. (c), is Pub. L. 116–6, Feb. 15, 2019, 133 Stat. 13, known as the Consolidated Appropriations Act, 2019. For complete classification of this Act to the Code, see Tables.
 
-### § 9712. Support for efforts at the United Nations on the humanitarian crisis in Venezuela
+### § 9712. Support for efforts at the United Nations on the humanitarian crisis in Venezuela
 
 **(a) Sense of Congress** It is the sense of Congress that the United Nations humanitarian agencies should conduct and publish independent assessments of the humanitarian situation in Venezuela, including—
 
@@ -193,11 +193,11 @@ The Consolidated Appropriations Act (Public Law 116–6), referred to in subsec.
 
 **(2)** advances humanitarian efforts in Venezuela and for Venezuelans residing in neighboring countries.
 
-(Pub. L. 116–94, div. J, title I, § 122, Dec. 20, 2019, 133 Stat. 3033.)
+(Pub. L. 116–94, div. J, title I, § 122, Dec. 20, 2019, 133 Stat. 3033.)
 
 ## SUBCHAPTER III—ADDRESSING REGIME COHESION
 
-### § 9721. Additional restrictions on visas
+### § 9721. Additional restrictions on visas
 
 **(a) In general** The Secretary of State shall impose the visa restrictions described in subsection (c) on any foreign person who the Secretary determines—
 
@@ -209,15 +209,15 @@ The Consolidated Appropriations Act (Public Law 116–6), referred to in subsec.
 
 **(2)** is the spouse or adult child of a foreign person described in paragraph (1); or
 
-**(3)** is the spouse or adult child of 1
+**(3)** is the spouse or adult child of 1
 
-<sup>1</sup>  So in original. Probably should be followed by “a”.
+<sup>1</sup> So in original. Probably should be followed by “a”.
 
 Venezuelan person sanctioned under—
 
-**(A)** section 5(a) of the Venezuela Defense of Human Rights and Civil Society Act of 2014 (Public Law 113–278), as amended by section 163 of this title; 2
+**(A)** section 5(a) of the Venezuela Defense of Human Rights and Civil Society Act of 2014 (Public Law 113–278), as amended by section 163 of this title; 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 **(B)** section 1903(b) of title 21; or
 
@@ -261,7 +261,7 @@ An alien described in subsection (a) is subject to revocation of any visa or oth
 
 The President shall issue such regulations, licenses, and orders as may be necessary to carry out this section.
 
-(Pub. L. 116–94, div. J, title I, § 132, Dec. 20, 2019, 133 Stat. 3035.)
+(Pub. L. 116–94, div. J, title I, § 132, Dec. 20, 2019, 133 Stat. 3035.)
 
 **Editorial Notes**
 
@@ -273,9 +273,9 @@ Executive Order No. 13692, referred to in subsec. (a)(3)(C), is Ex. Ord. No. 136
 
 Executive Order No. 13850, referred to in subsec. (a)(3)(C), is Ex. Ord. No. 13850, Nov. 1, 2018, 83 F.R. 55243, which is listed in a table under section 1701 of Title 50, War and National Defense.
 
-The Immigration and Nationality Act, referred to in subsec. (c)(1)(C), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (c)(1)(C), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
-### § 9722. Waiver for sanctioned officials that recognize the Interim President of Venezuela
+### § 9722. Waiver for sanctioned officials that recognize the Interim President of Venezuela
 
 **(a) Removal of sanctions**
 
@@ -287,9 +287,9 @@ If a person sanctioned under any of the provisions of law described in subsectio
 
 **(A)** Paragraphs (3) and (4) of section 5(a) of the Venezuela Defense of Human Rights and Civil Society Act of 2014 (Public Law 113–278), as amended by section 163 of this title.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-**(B)** Paragraph (5) <sup>1</sup> of section 5(a) of such Act, to the extent such paragraph relates to the sanctions described in paragraph (3) or (4) of such subsection.<sup>1</sup>
+**(B)** Paragraph (5) <sup>1</sup> of section 5(a) of such Act, to the extent such paragraph relates to the sanctions described in paragraph (3) or (4) of such subsection.<sup>1</sup>
 
 **(2)**
 
@@ -307,7 +307,7 @@ If a person sanctioned under any of the provisions of law described in subsectio
 
 The President shall issue such regulations, licenses, and orders as may be necessary to carry out this section.
 
-(Pub. L. 116–94, div. J, title I, § 133, Dec. 20, 2019, 133 Stat. 3036.)
+(Pub. L. 116–94, div. J, title I, § 133, Dec. 20, 2019, 133 Stat. 3036.)
 
 **Editorial Notes**
 
@@ -321,7 +321,7 @@ Executive Order No. 13850, referred to in subsec. (b)(3), is Ex. Ord. No. 13850,
 
 ## SUBCHAPTER IV—RESTORING DEMOCRACY AND ADDRESSING THE POLITICAL CRISIS IN VENEZUELA
 
-### § 9731. Support for international election observation and democratic civil society
+### § 9731. Support for international election observation and democratic civil society
 
 **(a) In general** The Secretary of State, in coordination with the Administrator of the United States Agency for International Development—
 
@@ -361,11 +361,11 @@ There are authorized to be appropriated to the Secretary of State for fiscal yea
 
 Amounts appropriated pursuant to paragraph (1) are subject to the notification requirements applicable to expenditures from the Economic Support Fund under section 2346(c) of this title and from the Development Assistance Fund under section 2413(a) of this title, to the extent that such funds are expended.
 
-(Pub. L. 116–94, div. J, title I, § 143, Dec. 20, 2019, 133 Stat. 3038.)
+(Pub. L. 116–94, div. J, title I, § 143, Dec. 20, 2019, 133 Stat. 3038.)
 
 ## SUBCHAPTER V—SUPPORTING THE RECONSTRUCTION OF VENEZUELA
 
-### § 9741. Recovering assets stolen from the Venezuelan people
+### § 9741. Recovering assets stolen from the Venezuelan people
 
 **(a) Recovering assets** The President, acting through the Secretary of State and in consultation with the Secretary of the Treasury, shall advance a coordinated international effort—
 
@@ -391,11 +391,11 @@ Not later than 180 days after December 20, 2019, the President, acting through t
 
 **(B)** include such recommendations as the President and the Secretary of State consider appropriate for legislative or administrative action in the United States that would be needed to establish and manage the fund described in subparagraph (A).
 
-(Pub. L. 116–94, div. J, title I, § 151, Dec. 20, 2019, 133 Stat. 3039.)
+(Pub. L. 116–94, div. J, title I, § 151, Dec. 20, 2019, 133 Stat. 3039.)
 
 ## SUBCHAPTER VI—RESTORING THE RULE OF LAW IN VENEZUELA
 
-### § 9751. Developing and implementing a coordinated sanctions strategy with partners in the Western Hemisphere and the European Union
+### § 9751. Developing and implementing a coordinated sanctions strategy with partners in the Western Hemisphere and the European Union
 
 **(a) Strengthening sanctions capacity in Latin America and the Caribbean** The Secretary of State, in consultation with the Secretary of the Treasury, shall offer to provide technical assistance to partner governments in Latin America and the Caribbean to assist such governments in establishing the legislative and regulatory frameworks needed to impose targeted sanctions on officials of the Maduro regime who—
 
@@ -433,9 +433,9 @@ There is authorized to be appropriated to the Secretary of State for fiscal year
 
 Amounts appropriated pursuant to paragraph (1) are subject to the notification requirements applicable to expenditures from the Economic Support Fund under section 2346(c) of this title and the International Narcotics and Law Enforcement Fund under section 2291h of this title to the extent that such funds are expended.
 
-(Pub. L. 116–94, div. J, title I, § 161, Dec. 20, 2019, 133 Stat. 3040.)
+(Pub. L. 116–94, div. J, title I, § 161, Dec. 20, 2019, 133 Stat. 3040.)
 
-### § 9752. Concerns over PDVSA transactions with Rosneft
+### § 9752. Concerns over PDVSA transactions with Rosneft
 
 **(a) Findings** Congress makes the following findings:
 
@@ -473,9 +473,9 @@ The President shall take all necessary steps to prevent Rosneft from gaining con
 
 **(6)** the Committee on Financial Services of the House of Representatives.
 
-(Pub. L. 116–94, div. J, title I, § 163, Dec. 20, 2019, 133 Stat. 3041.)
+(Pub. L. 116–94, div. J, title I, § 163, Dec. 20, 2019, 133 Stat. 3041.)
 
-### § 9753. Countering Russian influence in Venezuela
+### § 9753. Countering Russian influence in Venezuela
 
 **(a) Short title**
 
@@ -539,15 +539,15 @@ An alien described in paragraph (1) is subject to revocation of any visa or othe
 
 This subsection shall terminate on the date that is 1 year after December 20, 2019.
 
-(Pub. L. 116–94, div. J, title I, § 165, Dec. 20, 2019, 133 Stat. 3043.)
+(Pub. L. 116–94, div. J, title I, § 165, Dec. 20, 2019, 133 Stat. 3043.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Immigration and Nationality Act, referred to in subsec. (c)(2)(C), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (c)(2)(C), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
-### § 9754. Restriction on export of covered articles and services to certain security forces of Venezuela
+### § 9754. Restriction on export of covered articles and services to certain security forces of Venezuela
 
 **(a) Short title**
 
@@ -635,11 +635,11 @@ Not later than 180 days after December 20, 2019, the Secretary of State, in cons
 
 **(2)** the date on which the President certifies to the appropriate congressional committees that the Government of Venezuela has returned to a democratic form of government with respect for the essential elements of representative democracy as set forth in Article 3 of the Inter-American Democratic Charter, adopted by the Organization of American States in Lima on September 11, 2001.
 
-(Pub. L. 116–94, div. J, title I, § 166, Dec. 20, 2019, 133 Stat. 3044.)
+(Pub. L. 116–94, div. J, title I, § 166, Dec. 20, 2019, 133 Stat. 3044.)
 
 ## SUBCHAPTER VII—MISCELLANEOUS PROVISIONS
 
-### § 9761. Congressional briefings
+### § 9761. Congressional briefings
 
 **(a) Humanitarian assistance; sanctions coordination**
 
@@ -665,7 +665,7 @@ Not later than 180 days after December 20, 2019, the Secretary of State, in cons
 
 Not later than 15 days after any congressional committee listed in paragraph (2) requests a briefing regarding the implementation of section 9703 of this title, 9712 of this title, or 142,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the Secretary of State shall provide such briefing to such committee.
 
@@ -735,7 +735,7 @@ Not later than 15 days after a congressional committee listed in paragraph (2) r
 
 **(D)** the Committee on Homeland Security of the House of Representatives.
 
-(Pub. L. 116–94, div. J, title I, § 181, Dec. 20, 2019, 133 Stat. 3046.)
+(Pub. L. 116–94, div. J, title I, § 181, Dec. 20, 2019, 133 Stat. 3046.)
 
 **Editorial Notes**
 
@@ -745,11 +745,11 @@ Section 142, referred to in subsec. (b)(1), is section 142 of title I of div. J 
 
 Section 131, referred to in subsec. (c)(1), is section 131 of title I of div. J of Pub. L. 116–94, Dec. 20, 2019, 133 Stat. 3034, which is not classified to the Code.
 
-### § 9762. Prohibition on construction of provisions of this chapter as an authorization for the use of military force
+### § 9762. Prohibition on construction of provisions of this chapter as an authorization for the use of military force
 
 Nothing in this chapter may be construed as an authorization for the use of military force.
 
-(Pub. L. 116–94, div. J, title I, § 182, Dec. 20, 2019, 133 Stat. 3048.)
+(Pub. L. 116–94, div. J, title I, § 182, Dec. 20, 2019, 133 Stat. 3048.)
 
 **Editorial Notes**
 
@@ -757,11 +757,11 @@ Nothing in this chapter may be construed as an authorization for the use of mili
 
 This chapter, referred to in text, was in the original “this title”, meaning title I of div. J of Pub. L. 116–94, Dec. 20, 2019, 133 Stat. 3030, known as the Venezuela Emergency Relief, Democracy Assistance, and Development Act of 2019, and also as the VERDAD Act of 2019, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 9701 of this title and Tables.
 
-### § 9763. Termination
+### § 9763. Termination
 
 The requirement to impose sanctions under this chapter shall terminate on December 31, 2023.
 
-(Pub. L. 116–94, div. J, title I, § 183(b), Dec. 20, 2019, 133 Stat. 3048.)
+(Pub. L. 116–94, div. J, title I, § 183(b), Dec. 20, 2019, 133 Stat. 3048.)
 
 **Editorial Notes**
 

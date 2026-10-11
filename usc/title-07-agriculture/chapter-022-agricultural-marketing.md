@@ -15,17 +15,17 @@ retrieved: 2026-10-11
 
 # CHAPTER 22—AGRICULTURAL MARKETING
 
-## §§ 521 to 535. Omitted or Transferred
+## §§ 521 to 535. Omitted or Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Sections, act June 15, 1929, ch. 24, §§ 1–15, 46 Stat. 11, as amended, were omitted or transferred as set forth below.
+Sections, act June 15, 1929, ch. 24, §§ 1–15, 46 Stat. 11, as amended, were omitted or transferred as set forth below.
 
 Section 521, which related to declaration of policy, effective merchandising of agricultural commodities, speculation, cooperative marketing, surpluses and administration of the chapter, was transferred to section 1141 of Title 12, Banks and Banking.
 
-Section 522, which related to appointment, compensation, qualifications, term of office, and expenses of Governor of Farm Credit Administration, was transferred to section 1141a of Title 12, and was repealed by act Aug. 6, 1953, ch. 335, § 19, 67 Stat. 400. See section 2244 et seq. of Title 12.
+Section 522, which related to appointment, compensation, qualifications, term of office, and expenses of Governor of Farm Credit Administration, was transferred to section 1141a of Title 12, and was repealed by act Aug. 6, 1953, ch. 335, § 19, 67 Stat. 400. See section 2244 et seq. of Title 12.
 
 Section 523, which related to designation of agricultural commodities and establishment of advisory commodity committees, was omitted.
 

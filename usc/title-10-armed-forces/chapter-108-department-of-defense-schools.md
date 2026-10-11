@@ -19,69 +19,69 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title V, §§ 584, 585(a), Dec. 18, 2025, 139 Stat. 889, 891, added items 2164c and 2164d. Amendments were made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title V, §§ 584, 585(a), Dec. 18, 2025, 139 Stat. 889, 891, added items 2164c and 2164d. Amendments were made pursuant to operation of section 102 of this title.
 
-2024—Pub. L. 118–159, div. A, title V, § 595(a), Dec. 23, 2024, 138 Stat. 1919, added item 2164b. Amendment was made pursuant to operation of section 102 of this title.
+2024—Pub. L. 118–159, div. A, title V, § 595(a), Dec. 23, 2024, 138 Stat. 1919, added item 2164b. Amendment was made pursuant to operation of section 102 of this title.
 
-2023—Pub. L. 118–31, div. A, title V, § 589(a), Dec. 22, 2023, 137 Stat. 284, added item 2164a. Amendment was made pursuant to operation of section 102 of this title.
+2023—Pub. L. 118–31, div. A, title V, § 589(a), Dec. 22, 2023, 137 Stat. 284, added item 2164a. Amendment was made pursuant to operation of section 102 of this title.
 
-2021—Pub. L. 117–81, div. A, title V, § 556(b), Dec. 27, 2021, 135 Stat. 1739, substituted “Defense Language Institute Foreign Language Center: degree of Associate or Bachelor of Arts in foreign language” for “Defense Language Institute Foreign Language Center: degree of Associate of Arts in foreign language” in item 2168.
+2021—Pub. L. 117–81, div. A, title V, § 556(b), Dec. 27, 2021, 135 Stat. 1739, substituted “Defense Language Institute Foreign Language Center: degree of Associate or Bachelor of Arts in foreign language” for “Defense Language Institute Foreign Language Center: degree of Associate of Arts in foreign language” in item 2168.
 
-2019—Pub. L. 116–92, div. E, title LIII, § 5324(e)(1), formerly § 5324(g)(1), Dec. 20, 2019, 133 Stat. 2137, renumbered § 5324(e)(1), Pub. L. 116–260, div. W, title III, § 305(c)(3), Dec. 27, 2020, 134 Stat. 2367, struck out item 2161 “Degree granting authority for National Intelligence University”.
+2019—Pub. L. 116–92, div. E, title LIII, § 5324(e)(1), formerly § 5324(g)(1), Dec. 20, 2019, 133 Stat. 2137, renumbered § 5324(e)(1), Pub. L. 116–260, div. W, title III, § 305(c)(3), Dec. 27, 2020, 134 Stat. 2367, struck out item 2161 “Degree granting authority for National Intelligence University”.
 
-2016—Pub. L. 114–328, div. A, title XII, § 1241(*o*)(5), Dec. 23, 2016, 130 Stat. 2512, struck out item 2166 “Western Hemisphere Institute for Security Cooperation”.
+2016—Pub. L. 114–328, div. A, title XII, § 1241(*o*)(5), Dec. 23, 2016, 130 Stat. 2512, struck out item 2166 “Western Hemisphere Institute for Security Cooperation”.
 
-2013—Pub. L. 112–239, div. A, title IX, § 922(b)(2), Jan. 2, 2013, 126 Stat. 1879, substituted “National Intelligence University” for “National Defense Intelligence College” in item 2161.
+2013—Pub. L. 112–239, div. A, title IX, § 922(b)(2), Jan. 2, 2013, 126 Stat. 1879, substituted “National Intelligence University” for “National Defense Intelligence College” in item 2161.
 
-2009—Pub. L. 111–84, div. A, title V, § 525(a)(3)(B), title IX, § 901(b), Oct. 28, 2009, 123 Stat. 2286, 2423, added items 2167a and 2169.
+2009—Pub. L. 111–84, div. A, title V, § 525(a)(3)(B), title IX, § 901(b), Oct. 28, 2009, 123 Stat. 2286, 2423, added items 2167a and 2169.
 
-2008—Pub. L. 110–417, [div. A], title V, § 543(a)(2), (b)(2), Oct. 14, 2008, 122 Stat. 4457, 4458, added items 2161 and 2163 and struck out former items 2161 “Joint Military Intelligence College: academic degrees” and 2163 “National Defense University: master’s degree programs”.
+2008—Pub. L. 110–417, [div. A], title V, § 543(a)(2), (b)(2), Oct. 14, 2008, 122 Stat. 4457, 4458, added items 2161 and 2163 and struck out former items 2161 “Joint Military Intelligence College: academic degrees” and 2163 “National Defense University: master’s degree programs”.
 
-Pub. L. 110–181, div. A, title V, § 526(b)(2), Jan. 28, 2008, 122 Stat. 105, added item 2163 and struck out former item 2163 “National Defense University: master of science degrees”.
+Pub. L. 110–181, div. A, title V, § 526(b)(2), Jan. 28, 2008, 122 Stat. 105, added item 2163 and struck out former item 2163 “National Defense University: master of science degrees”.
 
-2006—Pub. L. 109–163, div. A, title V, § 521(b), Jan. 6, 2006, 119 Stat. 3240, substituted “National Defense University: master of science degrees” for “National Defense University: masters of science in national security strategy and in national resource strategy” in item 2163.
+2006—Pub. L. 109–163, div. A, title V, § 521(b), Jan. 6, 2006, 119 Stat. 3240, substituted “National Defense University: master of science degrees” for “National Defense University: masters of science in national security strategy and in national resource strategy” in item 2163.
 
-2001—Pub. L. 107–107, div. A, title V, §§ 528(a)(2), 531(b), Dec. 28, 2001, 115 Stat. 1103, 1104, added items 2167 and 2168.
+2001—Pub. L. 107–107, div. A, title V, §§ 528(a)(2), 531(b), Dec. 28, 2001, 115 Stat. 1103, 1104, added items 2167 and 2168.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title IX, § 911(c)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–228, added item 2166.
+2000—Pub. L. 106–398, § 1 [[div. A], title IX, § 911(c)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–228, added item 2166.
 
-1997—Pub. L. 105–107, title V, § 501(b), Nov. 20, 1997, 111 Stat. 2262, substituted “Joint Military Intelligence College: academic degrees” for “Defense Intelligence School; master of science of strategic intelligence” in item 2261.
+1997—Pub. L. 105–107, title V, § 501(b), Nov. 20, 1997, 111 Stat. 2262, substituted “Joint Military Intelligence College: academic degrees” for “Defense Intelligence School; master of science of strategic intelligence” in item 2261.
 
-Pub. L. 105–85, div. A, title IX, § 921(a)(2), Nov. 18, 1997, 111 Stat. 1862, added item 2165.
+Pub. L. 105–85, div. A, title IX, § 921(a)(2), Nov. 18, 1997, 111 Stat. 1862, added item 2165.
 
-1994—Pub. L. 103–337, div. A, title III, § 351(b), Oct. 5, 1994, 108 Stat. 2730, added item 2164.
+1994—Pub. L. 103–337, div. A, title III, § 351(b), Oct. 5, 1994, 108 Stat. 2730, added item 2164.
 
-1993—Pub. L. 103–160, div. A, title IX, § 922(b), Nov. 30, 1993, 107 Stat. 1731, added item 2163.
+1993—Pub. L. 103–160, div. A, title IX, § 922(b), Nov. 30, 1993, 107 Stat. 1731, added item 2163.
 
-1990—Pub. L. 101–510, div. A, title IX, § 911(b)(1), (2), Nov. 5, 1990, 104 Stat. 1626, substituted “DEPARTMENT OF DEFENSE SCHOOLS” for “GRANTING OF ADVANCED DEGREES AT DEPARTMENT OF DEFENSE SCHOOLS” as chapter heading and added item 2162.
+1990—Pub. L. 101–510, div. A, title IX, § 911(b)(1), (2), Nov. 5, 1990, 104 Stat. 1626, substituted “DEPARTMENT OF DEFENSE SCHOOLS” for “GRANTING OF ADVANCED DEGREES AT DEPARTMENT OF DEFENSE SCHOOLS” as chapter heading and added item 2162.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Daniel K. Inouye Asia-Pacific Center for Security Studies: Reimbursement Waiver for Personnel of Foreign Nations**
 
-Pub. L. 107–248, title VIII, § 8073, Oct. 23, 2002, 116 Stat. 1553, as amended by Pub. L. 113–291, div. B, title XXVIII, § 2861(c), Dec. 19, 2014, 128 Stat. 3716, related to waiver by the Secretary of Defense of reimbursement of the cost of conferences, seminars, courses of instruction, or similar educational activities of the Daniel K. Inouye Asia-Pacific Center for Security Studies for military officers and civilian officials of foreign nations, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1241(e)(5)(D), Dec. 23, 2016, 130 Stat. 2507.
+Pub. L. 107–248, title VIII, § 8073, Oct. 23, 2002, 116 Stat. 1553, as amended by Pub. L. 113–291, div. B, title XXVIII, § 2861(c), Dec. 19, 2014, 128 Stat. 3716, related to waiver by the Secretary of Defense of reimbursement of the cost of conferences, seminars, courses of instruction, or similar educational activities of the Daniel K. Inouye Asia-Pacific Center for Security Studies for military officers and civilian officials of foreign nations, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1241(e)(5)(D), Dec. 23, 2016, 130 Stat. 2507.
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 107–117, div. A, title VIII, § 8081, Jan. 10, 2002, 115 Stat. 2265.
+Pub. L. 107–117, div. A, title VIII, § 8081, Jan. 10, 2002, 115 Stat. 2265.
 
-Pub. L. 106–259, title VIII, § 8080, Aug. 9, 2000, 114 Stat. 692.
+Pub. L. 106–259, title VIII, § 8080, Aug. 9, 2000, 114 Stat. 692.
 
-Pub. L. 106–79, title VIII, § 8085, Oct. 25, 1999, 113 Stat. 1251.
+Pub. L. 106–79, title VIII, § 8085, Oct. 25, 1999, 113 Stat. 1251.
 
-Pub. L. 105–262, title VIII, § 8086, Oct. 17, 1998, 112 Stat. 2318.
+Pub. L. 105–262, title VIII, § 8086, Oct. 17, 1998, 112 Stat. 2318.
 
-Pub. L. 105–56, title VIII, § 8094, Oct. 8, 1997, 111 Stat. 1242.
+Pub. L. 105–56, title VIII, § 8094, Oct. 8, 1997, 111 Stat. 1242.
 
-Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8121], Sept. 30, 1996, 110 Stat. 3009–71, 3009–115.
+Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8121], Sept. 30, 1996, 110 Stat. 3009–71, 3009–115.
 
 **Regional Defense Counter-terrorism Fellowship Program**
 
-Pub. L. 107–117, div. A, title VIII, § 8125, Jan. 10, 2002, 115 Stat. 2275, provided that: “In addition to amounts provided elsewhere in this Act [see Tables for classification], $17,900,000 is hereby appropriated for the Secretary of Defense, to remain available until expended, to establish a Regional Defense Counter-terrorism Fellowship Program: *Provided*, That funding provided herein may be used by the Secretary to fund foreign military officers to attend U.S. military educational institutions and selected regional centers for non-lethal training: *Provided further*, That United States Regional Commanders in Chief will be the nominative authority for candidates and schools for attendance with joint staff review and approval by the Secretary of Defense: *Provided further*, That the Secretary of Defense shall establish rules to govern the administration of this program.”
+Pub. L. 107–117, div. A, title VIII, § 8125, Jan. 10, 2002, 115 Stat. 2275, provided that: “In addition to amounts provided elsewhere in this Act [see Tables for classification], $17,900,000 is hereby appropriated for the Secretary of Defense, to remain available until expended, to establish a Regional Defense Counter-terrorism Fellowship Program: *Provided*, That funding provided herein may be used by the Secretary to fund foreign military officers to attend U.S. military educational institutions and selected regional centers for non-lethal training: *Provided further*, That United States Regional Commanders in Chief will be the nominative authority for candidates and schools for attendance with joint staff review and approval by the Secretary of Defense: *Provided further*, That the Secretary of Defense shall establish rules to govern the administration of this program.”
 
 **Attendance at Professional Military Education Schools by Military Personnel of the New Member Nations of NATO**
 
-Pub. L. 106–65, div. A, title XII, § 1223, Oct. 5, 1999, 113 Stat. 787, provided that:
+Pub. L. 106–65, div. A, title XII, § 1223, Oct. 5, 1999, 113 Stat. 787, provided that:
 
 > **“(a) Finding.—** Congress finds that it is in the national interest of the United States to fully integrate Poland, Hungary, and the Czech Republic (the new member nations of the North Atlantic Treaty Organization) into the NATO alliance as quickly as possible.
 
@@ -89,25 +89,25 @@ Pub. L. 106–65, div. A, title XII, § 1223, Oct. 5, 1999, 113 Stat. 787, pro
 
 **Sense of Congress on Grade of Heads of Senior Professional Military Education Schools**
 
-Pub. L. 103–337, div. A, title IX, § 914, Oct. 5, 1994, 108 Stat. 2829, provided that: “It is the sense of Congress that an officer serving in a position as the head of one of the senior professional military education schools of the Department of Defense (or of the separate military departments) should, while so serving, hold a grade not less than the grade (or its equivalent) held by the officer serving in that position on the date of the enactment of this Act [Oct. 5, 1994].”
+Pub. L. 103–337, div. A, title IX, § 914, Oct. 5, 1994, 108 Stat. 2829, provided that: “It is the sense of Congress that an officer serving in a position as the head of one of the senior professional military education schools of the Department of Defense (or of the separate military departments) should, while so serving, hold a grade not less than the grade (or its equivalent) held by the officer serving in that position on the date of the enactment of this Act [Oct. 5, 1994].”
 
 **Military Department Affiliation of War College Students**
 
-Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8069], Sept. 30, 1996, 110 Stat. 3009–71, 3009–102, which provided that, for resident classes entering war colleges after Sept. 30, 1997, Department of Defense was to require that not less than 20 percent of total of United States military students at each war college was to be from military departments other than hosting military department and provided that each military department was to recognize attendance at sister military department war college as equivalent of attendance at its own war college for promotion and advancement of personnel, was from the Department of Defense Appropriations Act, 1997, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8069], Sept. 30, 1996, 110 Stat. 3009–71, 3009–102, which provided that, for resident classes entering war colleges after Sept. 30, 1997, Department of Defense was to require that not less than 20 percent of total of United States military students at each war college was to be from military departments other than hosting military department and provided that each military department was to recognize attendance at sister military department war college as equivalent of attendance at its own war college for promotion and advancement of personnel, was from the Department of Defense Appropriations Act, 1997, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 104–61, title VIII, § 8084, Dec. 1, 1995, 109 Stat. 667.
+Pub. L. 104–61, title VIII, § 8084, Dec. 1, 1995, 109 Stat. 667.
 
-Pub. L. 103–335, title VIII, § 8108A, Sept. 30, 1994, 108 Stat. 2646.
+Pub. L. 103–335, title VIII, § 8108A, Sept. 30, 1994, 108 Stat. 2646.
 
 **Authority for Military School Faculty Members and Students To Accept Honoraria for Certain Scholarly and Academic Activities**
 
-Pub. L. 102–484, div. A, title V, § 542, Oct. 23, 1992, 106 Stat. 2413, related to conditions for and exceptions to authority of Department of Defense school faculty and students to accept honoraria for appearance, speech, or article published in bona fide publication, prior to repeal by Pub. L. 107–314, div. A, title VI, § 653(a), Dec. 2, 2002, 116 Stat. 2581.
+Pub. L. 102–484, div. A, title V, § 542, Oct. 23, 1992, 106 Stat. 2413, related to conditions for and exceptions to authority of Department of Defense school faculty and students to accept honoraria for appearance, speech, or article published in bona fide publication, prior to repeal by Pub. L. 107–314, div. A, title VI, § 653(a), Dec. 2, 2002, 116 Stat. 2581.
 
-[Pub. L. 107–314, div. A, title VI, § 653(b), Dec. 2, 2002, 116 Stat. 2581, provided that: “The repeal made by subsection (a) [repealing section 542 of Pub. L. 102–484, formerly set out above] shall apply with respect to appearances made, speeches presented, and articles published on or after October 1, 2002.” ]
+[Pub. L. 107–314, div. A, title VI, § 653(b), Dec. 2, 2002, 116 Stat. 2581, provided that: “The repeal made by subsection (a) [repealing section 542 of Pub. L. 102–484, formerly set out above] shall apply with respect to appearances made, speeches presented, and articles published on or after October 1, 2002.” ]
 
-## [§ 2161. Repealed. Pub. L. 116–92, div. E, title LIII, § 5324(e)(1), formerly § 5324(g)(1), Dec. 20, 2019, 133 Stat. 2137, renumbered § 5324(e)(1), Pub. L. 116–260, div. W, title III, § 305(c)(3), Dec. 27, 2020, 134 Stat. 2367]
+## [§ 2161. Repealed. Pub. L. 116–92, div. E, title LIII, § 5324(e)(1), formerly § 5324(g)(1), Dec. 20, 2019, 133 Stat. 2137, renumbered § 5324(e)(1), Pub. L. 116–260, div. W, title III, § 305(c)(3), Dec. 27, 2020, 134 Stat. 2367]
 
-Section, added Pub. L. 96–450, title IV, § 406(a), Oct. 14, 1980, 94 Stat. 1980; amended Pub. L. 105–107, title V, § 501(a), Nov. 20, 1997, 111 Stat. 2261; Pub. L. 110–417, [div. A], title V, § 543(a)(1), Oct. 14, 2008, 122 Stat. 4456; Pub. L. 112–239, div. A, title IX, § 922(a), (b)(1), Jan. 2, 2013, 126 Stat. 1879, related to degree granting authority for the National Intelligence University.
+Section, added Pub. L. 96–450, title IV, § 406(a), Oct. 14, 1980, 94 Stat. 1980; amended Pub. L. 105–107, title V, § 501(a), Nov. 20, 1997, 111 Stat. 2261; Pub. L. 110–417, [div. A], title V, § 543(a)(1), Oct. 14, 2008, 122 Stat. 4456; Pub. L. 112–239, div. A, title IX, § 922(a), (b)(1), Jan. 2, 2013, 126 Stat. 1879, related to degree granting authority for the National Intelligence University.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -115,7 +115,7 @@ Section, added Pub. L. 96–450, title IV, § 406(a), Oct. 14, 1980, 94 Stat. 
 
 Repeal effective on the date on which the Secretary of Defense and the Director of National Intelligence jointly submit the joint certifications required under section 3334a(b)(1) of Title 50, War and National Defense, see section 3334a(e)(2) of Title 50.
 
-## § 2162. Preparation of budget requests for operation of professional military education schools
+## § 2162. Preparation of budget requests for operation of professional military education schools
 
 **(a) Uniform Cost Accounting.—** The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall promulgate a uniform cost accounting system for use by the Secretaries of the military departments in preparing budget requests for the operation of professional military education schools.
 
@@ -151,7 +151,7 @@ Repeal effective on the date on which the Secretary of Defense and the Director 
 
 **(10)** The Space Force Intermediate Level Education Program.
 
-(Added Pub. L. 101–510, div. A, title IX, § 911(a), Nov. 5, 1990, 104 Stat. 1625; amended Pub. L. 105–85, div. A, title IX, § 921(b), Nov. 18, 1997, 111 Stat. 1862; Pub. L. 107–107, div. A, title V, § 527(b), Dec. 28, 2001, 115 Stat. 1102; Pub. L. 107–314, div. A, title X, § 1062(a)(7), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 119–60, div. A, title V, § 552(b), Dec. 18, 2025, 139 Stat. 877.)
+(Added Pub. L. 101–510, div. A, title IX, § 911(a), Nov. 5, 1990, 104 Stat. 1625; amended Pub. L. 105–85, div. A, title IX, § 921(b), Nov. 18, 1997, 111 Stat. 1862; Pub. L. 107–107, div. A, title V, § 527(b), Dec. 28, 2001, 115 Stat. 1102; Pub. L. 107–314, div. A, title X, § 1062(a)(7), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 119–60, div. A, title V, § 552(b), Dec. 18, 2025, 139 Stat. 877.)
 
 **Editorial Notes**
 
@@ -191,11 +191,11 @@ Repeal effective on the date on which the Secretary of Defense and the Director 
 
 **Effective Date**
 
-Pub. L. 101–510, div. A, title IX, § 911(b)[(c)], Nov. 5, 1990, 104 Stat. 1626, provided that: “Section 2162 of title 10, United States Code, as added by subsection (a), shall apply with respect to fiscal years after fiscal year 1991.”
+Pub. L. 101–510, div. A, title IX, § 911(b)[(c)], Nov. 5, 1990, 104 Stat. 1626, provided that: “Section 2162 of title 10, United States Code, as added by subsection (a), shall apply with respect to fiscal years after fiscal year 1991.”
 
 **Executive Agent for Funding Professional Development Education**
 
-Pub. L. 107–107, div. A, title V, § 527(a), Dec. 28, 2001, 115 Stat. 1101, provided that:
+Pub. L. 107–107, div. A, title V, § 527(a), Dec. 28, 2001, 115 Stat. 1101, provided that:
 
 > **“(1)** Effective beginning with fiscal year 2003, the Secretary of Defense shall be the executive agent for funding professional development education operations of all components of the National Defense University, including the Joint Forces Staff College. The Secretary may not delegate the Secretary’s functions and responsibilities under the preceding sentence to the Secretary of a military department.
 
@@ -205,7 +205,7 @@ Pub. L. 107–107, div. A, title V, § 527(a), Dec. 28, 2001, 115 Stat. 1101, 
 
 > **“(B)** provision of logistical and base operations support for components of the National Defense University by the military departments.”
 
-## § 2163. Degree granting authority for National Defense University
+## § 2163. Degree granting authority for National Defense University
 
 **(a) Authority.—** Under regulations prescribed by the Secretary of Defense, the President of the National Defense University may, upon the recommendation of the faculty of the National Defense University, confer appropriate degrees upon graduates who meet the degree requirements.
 
@@ -227,7 +227,7 @@ Pub. L. 107–107, div. A, title V, § 527(a), Dec. 28, 2001, 115 Stat. 1101, 
 
 **(3)** The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the National Defense University to award any new or existing degree.
 
-(Added Pub. L. 103–160, div. A, title IX, § 922(a), Nov. 30, 1993, 107 Stat. 1730; amended Pub. L. 109–163, div. A, title V, § 521(a), Jan. 6, 2006, 119 Stat. 3239; Pub. L. 110–181, div. A, title V, § 526(a), (b)(1), Jan. 28, 2008, 122 Stat. 104, 105; Pub. L. 110–417, [div. A], title V, § 543(b)(1), Oct. 14, 2008, 122 Stat. 4457.)
+(Added Pub. L. 103–160, div. A, title IX, § 922(a), Nov. 30, 1993, 107 Stat. 1730; amended Pub. L. 109–163, div. A, title V, § 521(a), Jan. 6, 2006, 119 Stat. 3239; Pub. L. 110–181, div. A, title V, § 526(a), (b)(1), Jan. 28, 2008, 122 Stat. 104, 105; Pub. L. 110–417, [div. A], title V, § 543(b)(1), Oct. 14, 2008, 122 Stat. 4457.)
 
 **Editorial Notes**
 
@@ -235,11 +235,11 @@ Pub. L. 107–107, div. A, title V, § 527(a), Dec. 28, 2001, 115 Stat. 1101, 
 
 2008—Pub. L. 110–417 amended section generally. Prior to amendment, section related to conferral of master of science and master of arts degrees by National Defense University.
 
-Pub. L. 110–181, § 526(b)(1), substituted “National Defense University: master’s degree programs” for “National Defense University: master of science degrees” in section catchline.
+Pub. L. 110–181, § 526(b)(1), substituted “National Defense University: master’s degree programs” for “National Defense University: master of science degrees” in section catchline.
 
-Subsec. (a). Pub. L. 110–181, § 526(a)(1), inserted “or master of arts” after “master of science”.
+Subsec. (a). Pub. L. 110–181, § 526(a)(1), inserted “or master of arts” after “master of science”.
 
-Subsec. (b)(4). Pub. L. 110–181, § 526(a)(2), added par. (4).
+Subsec. (b)(4). Pub. L. 110–181, § 526(a)(2), added par. (4).
 
 2006—Pub. L. 109–163 amended section catchline and text generally. Prior to amendment, text read as follows:
 
@@ -253,15 +253,15 @@ Subsec. (b)(4). Pub. L. 110–181, § 526(a)(2), added par. (4).
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–417, [div. A], title V, § 543(j), Oct. 14, 2008, 122 Stat. 4465, provided that: “The amendments made by this section [amending this section and sections 2161, 4314, 4321, 7048, 7101, 7102, 9314, and 9317 of this title] shall apply to any degree granting authority established, modified, or redesignated on or after the date of enactment of this Act [Oct. 14, 2008] for an institution of professional military education referred to in such amendments.”
+Pub. L. 110–417, [div. A], title V, § 543(j), Oct. 14, 2008, 122 Stat. 4465, provided that: “The amendments made by this section [amending this section and sections 2161, 4314, 4321, 7048, 7101, 7102, 9314, and 9317 of this title] shall apply to any degree granting authority established, modified, or redesignated on or after the date of enactment of this Act [Oct. 14, 2008] for an institution of professional military education referred to in such amendments.”
 
-Pub. L. 110–181, div. A, title V, § 526(c), Jan. 28, 2008, 122 Stat. 105, provided that: “Paragraph (4) of section 2163(b) of title 10, United States Code, as added by subsection (a) of this section, applies with respect to any person who becomes a graduate of the National Defense University on or after September 6, 2006, and fulfills the requirements of the program referred to in such paragraph (4).”
+Pub. L. 110–181, div. A, title V, § 526(c), Jan. 28, 2008, 122 Stat. 105, provided that: “Paragraph (4) of section 2163(b) of title 10, United States Code, as added by subsection (a) of this section, applies with respect to any person who becomes a graduate of the National Defense University on or after September 6, 2006, and fulfills the requirements of the program referred to in such paragraph (4).”
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–163, div. A, title V, § 521(c), Jan. 6, 2006, 119 Stat. 3240, provided that: “Paragraph (3) of section 2163(b) of title 10, United States Code, as amended by subsection (a), shall take effect for degrees awarded after May 2005.”
+Pub. L. 109–163, div. A, title V, § 521(c), Jan. 6, 2006, 119 Stat. 3240, provided that: “Paragraph (3) of section 2163(b) of title 10, United States Code, as amended by subsection (a), shall take effect for degrees awarded after May 2005.”
 
-## § 2164. Department of Defense domestic dependent elementary and secondary schools
+## § 2164. Department of Defense domestic dependent elementary and secondary schools
 
 **(a) Authority of Secretary.—**
 
@@ -493,7 +493,7 @@ Pub. L. 109–163, div. A, title V, § 521(c), Jan. 6, 2006, 119 Stat. 3240, p
 
 **(2)** A member described in this paragraph is a member of a reserve component performing active service pursuant to an order for accompanied permanent change of station.
 
-(Added Pub. L. 103–337, div. A, title III, § 351(a), Oct. 5, 1994, 108 Stat. 2727; amended Pub. L. 104–106, div. A, title X, § 1075, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–201, div. A, title XVI, § 1608, Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–261, div. A, title III, § 371(a)–(c)(2), Oct. 17, 1998, 112 Stat. 1988, 1989; Pub. L. 106–65, div. A, title III, §§ 352, 353, Oct. 5, 1999, 113 Stat. 572; Pub. L. 106–398, § 1 [[div. A], title III, § 361], Oct. 30, 2000, 114 Stat. 1654, 1654A–76; Pub. L. 108–446, title III, § 305(a), Dec. 3, 2004, 118 Stat. 2804; Pub. L. 111–84, div. A, title V, § 534, Oct. 28, 2009, 123 Stat. 2292; Pub. L. 111–383, div. A, title V, § 561, Jan. 7, 2011, 124 Stat. 4221; Pub. L. 112–239, div. A, title V, § 565, Jan. 2, 2013, 126 Stat. 1749; Pub. L. 113–66, div. A, title V, § 553(a), Dec. 26, 2013, 127 Stat. 764; Pub. L. 117–286, § 4(a)(52), Dec. 27, 2022, 136 Stat. 4311; Pub. L. 118–159, div. A, title V, §§ 591–594(a), Dec. 23, 2024, 138 Stat. 1917–1919; Pub. L. 119–60, div. A, title V, §§ 582(b), 583, Dec. 18, 2025, 139 Stat. 888.)
+(Added Pub. L. 103–337, div. A, title III, § 351(a), Oct. 5, 1994, 108 Stat. 2727; amended Pub. L. 104–106, div. A, title X, § 1075, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–201, div. A, title XVI, § 1608, Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–261, div. A, title III, § 371(a)–(c)(2), Oct. 17, 1998, 112 Stat. 1988, 1989; Pub. L. 106–65, div. A, title III, §§ 352, 353, Oct. 5, 1999, 113 Stat. 572; Pub. L. 106–398, § 1 [[div. A], title III, § 361], Oct. 30, 2000, 114 Stat. 1654, 1654A–76; Pub. L. 108–446, title III, § 305(a), Dec. 3, 2004, 118 Stat. 2804; Pub. L. 111–84, div. A, title V, § 534, Oct. 28, 2009, 123 Stat. 2292; Pub. L. 111–383, div. A, title V, § 561, Jan. 7, 2011, 124 Stat. 4221; Pub. L. 112–239, div. A, title V, § 565, Jan. 2, 2013, 126 Stat. 1749; Pub. L. 113–66, div. A, title V, § 553(a), Dec. 26, 2013, 127 Stat. 764; Pub. L. 117–286, § 4(a)(52), Dec. 27, 2022, 136 Stat. 4311; Pub. L. 118–159, div. A, title V, §§ 591–594(a), Dec. 23, 2024, 138 Stat. 1917–1919; Pub. L. 119–60, div. A, title V, §§ 582(b), 583, Dec. 18, 2025, 139 Stat. 888.)
 
 **Editorial Notes**
 
@@ -501,45 +501,45 @@ Pub. L. 109–163, div. A, title V, § 521(c), Jan. 6, 2006, 119 Stat. 3240, p
 
 The effective date of this section, referred to in subsec. (e)(3)(B), is the date of enactment of Pub. L. 103–337 which was approved Oct. 5, 1994.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (f)(1), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Parts B and C of the Act are classified generally to subchapters II (§ 1411 et seq.) and III (§ 1431 et seq.), respectively, of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (f)(1), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Parts B and C of the Act are classified generally to subchapters II (§ 1411 et seq.) and III (§ 1431 et seq.), respectively, of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
-Section 6(a) of Public Law 81–874 (20 U.S.C. 241(a)), referred to in subsec. (f)(2), was repealed by Pub. L. 103–382, title III, § 331(b), Oct. 20, 1994, 108 Stat. 3965.
+Section 6(a) of Public Law 81–874 (20 U.S.C. 241(a)), referred to in subsec. (f)(2), was repealed by Pub. L. 103–382, title III, § 331(b), Oct. 20, 1994, 108 Stat. 3965.
 
-The Child Nutrition Act of 1966, referred to in subsec. (m), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
+The Child Nutrition Act of 1966, referred to in subsec. (m), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
-The Richard B. Russell National School Lunch Act, referred to in subsec. (m), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (m), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
 **Amendments**
 
-2025—Subsec. (i). Pub. L. 119–60, § 582(b)(1), substituted “in Certain Areas” for “in Puerto Rico” in heading.
+2025—Subsec. (i). Pub. L. 119–60, § 582(b)(1), substituted “in Certain Areas” for “in Puerto Rico” in heading.
 
-Subsec. (i)(1). Pub. L. 119–60, § 582(b)(2), substituted “in a territory, commonwealth, or possession of the United States” for “in Puerto Rico”.
+Subsec. (i)(1). Pub. L. 119–60, § 582(b)(2), substituted “in a territory, commonwealth, or possession of the United States” for “in Puerto Rico”.
 
-Subsec. (i)(2)(A). Pub. L. 119–60, § 582(b)(3), substituted “resides in a territory, commonwealth, or possession of the United States where a program referred to in paragraph (1) is provided” for “resides in Puerto Rico”.
+Subsec. (i)(2)(A). Pub. L. 119–60, § 582(b)(3), substituted “resides in a territory, commonwealth, or possession of the United States where a program referred to in paragraph (1) is provided” for “resides in Puerto Rico”.
 
-Subsec. (n). Pub. L. 119–60, § 583, added subsec. (n).
+Subsec. (n). Pub. L. 119–60, § 583, added subsec. (n).
 
-2024—Subsec. (d). Pub. L. 118–159, § 591, amended subsec. (d) generally. Prior to amendment, subsec. (d) related to establishment of a school board for Department of Defense elementary and secondary schools established at each military installation under this section.
+2024—Subsec. (d). Pub. L. 118–159, § 591, amended subsec. (d) generally. Prior to amendment, subsec. (d) related to establishment of a school board for Department of Defense elementary and secondary schools established at each military installation under this section.
 
-Subsec. (j)(1). Pub. L. 118–159, § 592(1), substituted “a member of a foreign armed force residing on a military installation in the United States (including territories, commonwealths, and possessions of the United States)” for “an individual described in paragraph (2)”.
+Subsec. (j)(1). Pub. L. 118–159, § 592(1), substituted “a member of a foreign armed force residing on a military installation in the United States (including territories, commonwealths, and possessions of the United States)” for “an individual described in paragraph (2)”.
 
-Subsec. (j)(2). Pub. L. 118–159, § 592(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “An individual referred to in paragraph (1) is any of the following:
+Subsec. (j)(2). Pub. L. 118–159, § 592(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “An individual referred to in paragraph (1) is any of the following:
 
 “(A) A member of a foreign armed force residing on a military installation in the United States (including territories, commonwealths, and possessions of the United States).
 
 “(B) A deceased member of the armed forces who died in the line of duty in a combat-related operation, as designated by the Secretary.”
 
-Subsec. (*l*)(1)(A). Pub. L. 118–159, § 593(1)(A), substituted “; or” for “; and”.
+Subsec. (*l*)(1)(A). Pub. L. 118–159, § 593(1)(A), substituted “; or” for “; and”.
 
-Subsec. (*l*)(1)(B). Pub. L. 118–159, § 593(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “immediately before such enrollment, was enrolled in the defense dependents’ education system established under section 1402 of the Defense Dependents’ Education Act of 1978 (20 U.S.C. 921).”
+Subsec. (*l*)(1)(B). Pub. L. 118–159, § 593(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “immediately before such enrollment, was enrolled in the defense dependents’ education system established under section 1402 of the Defense Dependents’ Education Act of 1978 (20 U.S.C. 921).”
 
-Subsec. (*l*)(2), (3). Pub. L. 118–159, § 593(2), added par. (2) and struck out former pars. (2) and (3) which read as follows:
+Subsec. (*l*)(2), (3). Pub. L. 118–159, § 593(2), added par. (2) and struck out former pars. (2) and (3) which read as follows:
 
 “(2) Enrollment of a dependent described in paragraph (1) pursuant to such paragraph shall be on a tuition basis.
 
 “(3) Any payments received by the Secretary of Defense under this subsection shall be credited to the account designated by the Secretary for the operation of the virtual educational program under this subsection. Payments so credited shall be merged with other funds in the account and shall be available, to the extent provided in advance in appropriation Acts, for the same purposes and the same period as other funds in the account.”
 
-Subsec. (m). Pub. L. 118–159, § 594(a), added subsec. (m).
+Subsec. (m). Pub. L. 118–159, § 594(a), added subsec. (m).
 
 2022—Subsec. (d)(6). Pub. L. 117–286 substituted “chapter 10 of title 5, but may close meetings in accordance with chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.), but may close meetings in accordance with such Act.”
 
@@ -551,33 +551,33 @@ Subsec. (*l*)(3). Pub. L. 113–66 added par. (3).
 
 2009—Subsec. (j). Pub. L. 111–84 added subsec. (j).
 
-2004—Subsec. (f)(1)(B). Pub. L. 108–446, § 305(a)(1), substituted “infants or toddlers” for “infants and toddlers” in two places, “part C” for “part H”, and “1431 et seq.” for “1471 et seq.”.
+2004—Subsec. (f)(1)(B). Pub. L. 108–446, § 305(a)(1), substituted “infants or toddlers” for “infants and toddlers” in two places, “part C” for “part H”, and “1431 et seq.” for “1471 et seq.”.
 
-Subsec. (f)(3)(A). Pub. L. 108–446, § 305(a)(2)(A), substituted “section 602” for “section 602(a)(1)” and “1401” for “1401(a)(1)”.
+Subsec. (f)(3)(A). Pub. L. 108–446, § 305(a)(2)(A), substituted “section 602” for “section 602(a)(1)” and “1401” for “1401(a)(1)”.
 
-Subsec. (f)(3)(B). Pub. L. 108–446, § 305(a)(2)(D), substituted “or toddlers” for “and toddlers”, “632” for “672(1)”, and “1432” for “1472(1)”.
+Subsec. (f)(3)(B). Pub. L. 108–446, § 305(a)(2)(D), substituted “or toddlers” for “and toddlers”, “632” for “672(1)”, and “1432” for “1472(1)”.
 
-Pub. L. 108–446, § 305(a)(2)(B), (C), redesignated subpar. (C) as (B) and struck out former subpar. (B) which defined the term “children with disabilities aged 3 to 5, inclusive”.
+Pub. L. 108–446, § 305(a)(2)(B), (C), redesignated subpar. (C) as (B) and struck out former subpar. (B) which defined the term “children with disabilities aged 3 to 5, inclusive”.
 
-Subsec. (f)(3)(C). Pub. L. 108–446, § 305(a)(2)(C), redesignated subpar. (C) as (B).
+Subsec. (f)(3)(C). Pub. L. 108–446, § 305(a)(2)(C), redesignated subpar. (C) as (B).
 
 2000—Subsec. (i). Pub. L. 106–398 added subsec. (i).
 
-1999—Subsec. (c)(3). Pub. L. 106–65, § 353(1), struck out par. (3) which read as follows: “A dependent of a Federal employee may continue enrollment in a program under this subsection for the remainder of a school year notwithstanding a change during such school year in the status of the Federal employee that, except for this paragraph, would otherwise terminate the eligibility of the dependent to be enrolled in the program. The preceding sentence does not limit the authority of the Secretary to remove the dependent from enrollment in the program at any time for good cause determined by the Secretary.”
+1999—Subsec. (c)(3). Pub. L. 106–65, § 353(1), struck out par. (3) which read as follows: “A dependent of a Federal employee may continue enrollment in a program under this subsection for the remainder of a school year notwithstanding a change during such school year in the status of the Federal employee that, except for this paragraph, would otherwise terminate the eligibility of the dependent to be enrolled in the program. The preceding sentence does not limit the authority of the Secretary to remove the dependent from enrollment in the program at any time for good cause determined by the Secretary.”
 
-Subsec. (d)(1). Pub. L. 106–65, § 352, inserted at end “The Secretary may provide for the establishment of one school board for all such schools in the Commonwealth of Puerto Rico and one school board for all such schools in Guam instead of one school board for each military installation in those locations.”
+Subsec. (d)(1). Pub. L. 106–65, § 352, inserted at end “The Secretary may provide for the establishment of one school board for all such schools in the Commonwealth of Puerto Rico and one school board for all such schools in Guam instead of one school board for each military installation in those locations.”
 
-Subsec. (h). Pub. L. 106–65, § 353(2), added subsec. (h).
+Subsec. (h). Pub. L. 106–65, § 353(2), added subsec. (h).
 
-1998—Subsec. (a). Pub. L. 105–261, § 371(a)(1), (2), designated first sentence as par. (1) and second sentence as par. (2).
+1998—Subsec. (a). Pub. L. 105–261, § 371(a)(1), (2), designated first sentence as par. (1) and second sentence as par. (2).
 
-Subsec. (a)(2). Pub. L. 105–261, § 371(a)(3), inserted at end “If a member of the armed forces is assigned to a remote location or is assigned to an unaccompanied tour of duty, a dependent of the member who resides, on or off a military installation, in a territory, commonwealth, or possession of the United States, as authorized by the member’s orders, may be enrolled in an educational program provided by the Secretary under this subsection.”
+Subsec. (a)(2). Pub. L. 105–261, § 371(a)(3), inserted at end “If a member of the armed forces is assigned to a remote location or is assigned to an unaccompanied tour of duty, a dependent of the member who resides, on or off a military installation, in a territory, commonwealth, or possession of the United States, as authorized by the member’s orders, may be enrolled in an educational program provided by the Secretary under this subsection.”
 
-Subsec. (c)(1). Pub. L. 105–261, § 371(c)(1), designated existing provisions as subpar. (A) and added subpar. (B).
+Subsec. (c)(1). Pub. L. 105–261, § 371(c)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (c)(2)(B). Pub. L. 105–261, § 371(b), added subpar. (B) and struck out former subpar. (B) which read as follows: “A dependent referred to in subparagraph (A) may be enrolled in the program for more than five consecutive school years if the Secretary determines that, in the interest of the dependent’s educational well-being, there is good cause to extend the enrollment for more than the five-year period described in such subparagraph. Any such extension may be made for only one school year at a time.”
+Subsec. (c)(2)(B). Pub. L. 105–261, § 371(b), added subpar. (B) and struck out former subpar. (B) which read as follows: “A dependent referred to in subparagraph (A) may be enrolled in the program for more than five consecutive school years if the Secretary determines that, in the interest of the dependent’s educational well-being, there is good cause to extend the enrollment for more than the five-year period described in such subparagraph. Any such extension may be made for only one school year at a time.”
 
-Subsec. (c)(2)(D). Pub. L. 105–261, § 371(c)(2), added subpar. (D).
+Subsec. (c)(2)(D). Pub. L. 105–261, § 371(c)(2), added subpar. (D).
 
 1996—Subsec. (d)(7). Pub. L. 104–201 added par. (7).
 
@@ -587,15 +587,15 @@ Subsec. (e)(4). Pub. L. 104–106 added par. (4).
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 113–66, div. A, title V, § 553(b), Dec. 26, 2013, 127 Stat. 764, provided that: “The amendment made by subsection (a) [amending this section] shall apply only with respect to tuition payments received under section 2164(*l*) of title 10, United States Code, for enrollments authorized by such section, after the date of the enactment of this Act [Dec. 26, 2013], in the virtual elementary and secondary education program of the Department of Defense education program.”
+Pub. L. 113–66, div. A, title V, § 553(b), Dec. 26, 2013, 127 Stat. 764, provided that: “The amendment made by subsection (a) [amending this section] shall apply only with respect to tuition payments received under section 2164(*l*) of title 10, United States Code, for enrollments authorized by such section, after the date of the enactment of this Act [Dec. 26, 2013], in the virtual elementary and secondary education program of the Department of Defense education program.”
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–261, div. A, title III, § 371(c)(3), Oct. 17, 1998, 112 Stat. 1989, provided that: “The amendments made by this subsection [amending this section] shall apply with respect to academic years beginning on or after the date of the enactment of this Act [Oct. 17, 1998].”
+Pub. L. 105–261, div. A, title III, § 371(c)(3), Oct. 17, 1998, 112 Stat. 1989, provided that: “The amendments made by this subsection [amending this section] shall apply with respect to academic years beginning on or after the date of the enactment of this Act [Oct. 17, 1998].”
 
 **Regulations on the Use of Portable Electronic Mobile Devices in Department of Defense Education Activity Schools**
 
-Pub. L. 119–60, div. A, title V, § 589B, Dec. 18, 2025, 139 Stat. 895, provided that:
+Pub. L. 119–60, div. A, title V, § 589B, Dec. 18, 2025, 139 Stat. 895, provided that:
 
 > **“(a) Regulations Required.—** Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense, acting through the Director of the Department of Defense Education Activity, shall update existing regulations on student use of portable electronic mobile devices in Department of Defense Education Activity (DODEA) schools to prohibit disruption in the learning environment by minimizing the use of such mobile devices to the greatest extent practicable and to standardize such regulations across all DODEA schools.
 
@@ -611,7 +611,7 @@ Pub. L. 119–60, div. A, title V, § 589B, Dec. 18, 2025, 139 Stat. 895, prov
 
 **Savings Provision**
 
-Pub. L. 103–337, div. A, title III, § 351(c), Oct. 5, 1994, 108 Stat. 2730, provided that: “Nothing in section 2164 of title 10, United States Code, as added by subsection (a), shall be construed as affecting the rights in existence on the date of the enactment of this Act [Oct. 5, 1994] of an employee of any school established under such section (or any other provision of law enacted before the date of the enactment of this Act that established a similar school) to negotiate or bargain collectively with the Secretary with respect to wages, hours, and other terms and conditions of employment.”
+Pub. L. 103–337, div. A, title III, § 351(c), Oct. 5, 1994, 108 Stat. 2730, provided that: “Nothing in section 2164 of title 10, United States Code, as added by subsection (a), shall be construed as affecting the rights in existence on the date of the enactment of this Act [Oct. 5, 1994] of an employee of any school established under such section (or any other provision of law enacted before the date of the enactment of this Act that established a similar school) to negotiate or bargain collectively with the Secretary with respect to wages, hours, and other terms and conditions of employment.”
 
 **Transfer of Functions**
 
@@ -619,7 +619,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **Management of Special Education in Schools Operated by Department of Defense Education Activity**
 
-Pub. L. 119–60, div. A, title V, § 589V, Dec. 18, 2025, 139 Stat. 896, provided that:
+Pub. L. 119–60, div. A, title V, § 589V, Dec. 18, 2025, 139 Stat. 896, provided that:
 
 > **“(a) Improvements to Staffing.—** The Secretary of Defense, acting through the Director of the Department of Defense Education Activity, shall implement the following measures to improve staffing of special education teachers and staff at schools operated by the Activity:
 
@@ -681,7 +681,7 @@ Pub. L. 119–60, div. A, title V, § 589V, Dec. 18, 2025, 139 Stat. 896, prov
 
 **Training Requirements Teachers in 21st Century Schools of the Department of Defense Education Activity**
 
-Pub. L. 118–159, div. A, title V, § 599, Dec. 23, 2024, 138 Stat. 1922, provided that:
+Pub. L. 118–159, div. A, title V, § 599, Dec. 23, 2024, 138 Stat. 1922, provided that:
 
 > **“(a) In General.—** The Secretary of Defense, acting through the Director of the Department of Defense Education Activity, shall require each teacher in a 21st century school to undergo training in accordance with this section.
 
@@ -711,7 +711,7 @@ Pub. L. 118–159, div. A, title V, § 599, Dec. 23, 2024, 138 Stat. 1922, pro
 
 **Overseas Transfer Program for Educators in Schools Operated by the Department of Defense Education Activity**
 
-Pub. L. 118–159, div. A, title V, § 599A, Dec. 23, 2024, 138 Stat. 1923, provided that:
+Pub. L. 118–159, div. A, title V, § 599A, Dec. 23, 2024, 138 Stat. 1923, provided that:
 
 > **“(a) In General.—** Not later than December 31, 2025, the Secretary of Defense, in coordination with the Director of the Department of Defense Education Activity, shall develop and implement a policy pursuant to which a teacher at an overseas DODEA school may transfer to a position at another overseas DODEA school, subject to such terms, conditions, and other requirements as the Secretary determines appropriate.
 
@@ -723,11 +723,11 @@ Pub. L. 118–159, div. A, title V, § 599A, Dec. 23, 2024, 138 Stat. 1923, pr
 
 **Pilot Program To Expand Eligibility for Enrollment at Domestic Dependent Elementary and Secondary Schools**
 
-Pub. L. 116–283, div. A, title V, § 589C, Jan. 1, 2021, 134 Stat. 3659, as amended by Pub. L. 117–263, div. A, title V, § 572(a), Dec. 23, 2022, 136 Stat. 2601, which established a pilot program to expand eligibility for enrollment at domestic dependent elementary and secondary schools, was repealed by Pub. L. 118–159, div. A, title V, § 595(b), Dec. 23, 2024, 138 Stat. 1920. See section 2164b of this title.
+Pub. L. 116–283, div. A, title V, § 589C, Jan. 1, 2021, 134 Stat. 3659, as amended by Pub. L. 117–263, div. A, title V, § 572(a), Dec. 23, 2022, 136 Stat. 2601, which established a pilot program to expand eligibility for enrollment at domestic dependent elementary and secondary schools, was repealed by Pub. L. 118–159, div. A, title V, § 595(b), Dec. 23, 2024, 138 Stat. 1920. See section 2164b of this title.
 
 **Pilot Program on Expanded Eligibility for Department of Defense Education Activity Virtual High School Program**
 
-Pub. L. 116–283, div. A, title V, § 589D, Jan. 1, 2021, 134 Stat. 3660, provided that:
+Pub. L. 116–283, div. A, title V, § 589D, Jan. 1, 2021, 134 Stat. 3660, provided that:
 
 > **“(a) Pilot Program Required.—**
 
@@ -785,7 +785,7 @@ Pub. L. 116–283, div. A, title V, § 589D, Jan. 1, 2021, 134 Stat. 3660, pro
 
 **Pilot Program on Enhanced Civics Education**
 
-Pub. L. 116–92, div. A, title II, § 234, Dec. 20, 2019, 133 Stat. 1278, as amended by Pub. L. 116–283, div. A, title X, § 1081(c)(1), Jan. 1, 2021, 134 Stat. 3873, provided that:
+Pub. L. 116–92, div. A, title II, § 234, Dec. 20, 2019, 133 Stat. 1278, as amended by Pub. L. 116–283, div. A, title X, § 1081(c)(1), Jan. 1, 2021, 134 Stat. 3873, provided that:
 
 > **“(a) In General.—** The Secretary of Defense, in consultation with the Secretary of Education, shall carry out a pilot program under which the Secretary provides enhanced educational support and funding to eligible entities to improve civics education programs taught by such entities.
 
@@ -849,11 +849,11 @@ Pub. L. 116–92, div. A, title II, § 234, Dec. 20, 2019, 133 Stat. 1278, as 
 
 > **“(B)** A school operated by the Department of Defense Education Activity.”
 
-[Pub. L. 116–283, div. A, title X, § 1081(c), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(c)(1) of Pub. L. 116–283 to section 234 of Pub. L. 116–92, set out above, is effective as of Dec. 20, 2020 (probably should be Dec. 20, 2019) and as if included in Pub. L. 116–92.]
+[Pub. L. 116–283, div. A, title X, § 1081(c), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(c)(1) of Pub. L. 116–283 to section 234 of Pub. L. 116–92, set out above, is effective as of Dec. 20, 2020 (probably should be Dec. 20, 2019) and as if included in Pub. L. 116–92.]
 
 **Support for World Language Advancement and Readiness**
 
-Pub. L. 116–92, div. A, title XVII, § 1751, Dec. 20, 2019, 133 Stat. 1849, provided that:
+Pub. L. 116–92, div. A, title XVII, § 1751, Dec. 20, 2019, 133 Stat. 1849, provided that:
 
 > **“(a) Program authority.—**
 
@@ -909,7 +909,7 @@ Pub. L. 116–92, div. A, title XVII, § 1751, Dec. 20, 2019, 133 Stat. 1849, 
 
 > **“(B)** any language described in subparagraph (A) that is taught in combination with English as part of a dual language or immersion learning program.”
 
-## § 2164a. Rights of parents of children attending schools operated by the Department of Defense Education Activity
+## § 2164a. Rights of parents of children attending schools operated by the Department of Defense Education Activity
 
 **(a) In General.—** The parent of a child who attends a school operated by the Department of Defense Education Activity has the following rights:
 
@@ -977,7 +977,7 @@ Pub. L. 116–92, div. A, title XVII, § 1751, Dec. 20, 2019, 133 Stat. 1849, 
 
 **(B)** any elementary or secondary school or program for dependents operated by the Department of Defense Education Activity.
 
-(Added Pub. L. 118–31, div. A, title V, § 589(a), Dec. 22, 2023, 137 Stat. 284.)
+(Added Pub. L. 118–31, div. A, title V, § 589(a), Dec. 22, 2023, 137 Stat. 284.)
 
 **Editorial Notes**
 
@@ -989,9 +989,9 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 **Parental Right to Notice of Student Nonproficiency in Reading or Language Arts**
 
-Pub. L. 118–159, div. A, title V, § 599B, Dec. 23, 2024, 138 Stat. 1923, provided that: “The Secretary of Defense shall ensure that each elementary school operated by the Department of Defense Education Activity notifies the parents of any student enrolled in such school when the student does not score as grade-level proficient in reading or language arts at the end of the third grade based on the reading or language arts assessments administered under section 1111(b)(2)(B)(v)(I)(aa) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)(B)(v)(I)(aa)) or another assessment administered to all third grade students by such school.”
+Pub. L. 118–159, div. A, title V, § 599B, Dec. 23, 2024, 138 Stat. 1923, provided that: “The Secretary of Defense shall ensure that each elementary school operated by the Department of Defense Education Activity notifies the parents of any student enrolled in such school when the student does not score as grade-level proficient in reading or language arts at the end of the third grade based on the reading or language arts assessments administered under section 1111(b)(2)(B)(v)(I)(aa) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311(b)(2)(B)(v)(I)(aa)) or another assessment administered to all third grade students by such school.”
 
-## § 2164b. Eligibility of certain dependents for enrollment in domestic dependent elementary and secondary schools
+## § 2164b. Eligibility of certain dependents for enrollment in domestic dependent elementary and secondary schools
 
 **(a) Program Authorized.—** Beginning not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2025, the Secretary of Defense shall carry out a program under which a dependent of a full-time, active-duty member of the armed forces may enroll in a covered DODEA school at the military installation to which the member is assigned, on a space-available basis as described in subsection (b), without regard to whether the member resides on the installation as described in section 2164(a)(1) of this title.
 
@@ -1021,7 +1021,7 @@ Pub. L. 118–159, div. A, title V, § 599B, Dec. 23, 2024, 138 Stat. 1923, pr
 
 **(2)** is located in the continental United States.
 
-(Added Pub. L. 118–159, div. A, title V, § 595(a), Dec. 23, 2024, 138 Stat. 1919.)
+(Added Pub. L. 118–159, div. A, title V, § 595(a), Dec. 23, 2024, 138 Stat. 1919.)
 
 **Editorial Notes**
 
@@ -1031,9 +1031,9 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in Pub. L. 116–283, div. A, title V, § 589C, Jan. 1, 2021, 134 Stat. 3659, as amended by Pub. L. 117–263, div. A, title V, § 572(a), Dec. 23, 2022, 136 Stat. 2601, which was set out in a note under section 2164 of this title, prior to repeal by Pub. L. 118–159, div. A, title V, § 595(b), Dec. 23, 2024, 138 Stat. 1920.
+Provisions similar to those in this section were contained in Pub. L. 116–283, div. A, title V, § 589C, Jan. 1, 2021, 134 Stat. 3659, as amended by Pub. L. 117–263, div. A, title V, § 572(a), Dec. 23, 2022, 136 Stat. 2601, which was set out in a note under section 2164 of this title, prior to repeal by Pub. L. 118–159, div. A, title V, § 595(b), Dec. 23, 2024, 138 Stat. 1920.
 
-## § 2164c. Authorization of dual or concurrent enrollment programs for students of Defense Dependent Schools
+## § 2164c. Authorization of dual or concurrent enrollment programs for students of Defense Dependent Schools
 
 **(a) In General.—** The Secretary of Defense, acting through the Director of the Department of Defense Education Activity, may—
 
@@ -1125,7 +1125,7 @@ Provisions similar to those in this section were contained in Pub. L. 116–283,
 
 **(4)** The term “institution of higher education” has the meaning given that term in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002).
 
-(Added Pub. L. 119–60, div. A, title V, § 584, Dec. 18, 2025, 139 Stat. 889.)
+(Added Pub. L. 119–60, div. A, title V, § 584, Dec. 18, 2025, 139 Stat. 889.)
 
 **Editorial Notes**
 
@@ -1133,11 +1133,11 @@ Provisions similar to those in this section were contained in Pub. L. 116–283,
 
 The date of the enactment of this section, referred to in subsec. (h)(1), is the date of enactment of Pub. L. 119–60, which was approved Dec. 18, 2025.
 
-The Defense Dependents’ Education Act of 1978, referred to in subsec. (i)(2)(A), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, which is classified principally to chapter 25A (§ 921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
+The Defense Dependents’ Education Act of 1978, referred to in subsec. (i)(2)(A), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, which is classified principally to chapter 25A (§ 921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (i)(3)(A), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (i)(3)(A), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-## § 2164d. Limitation on school closures and certain other actions with respect to schools operated by the Department of Defense Education Activity
+## § 2164d. Limitation on school closures and certain other actions with respect to schools operated by the Department of Defense Education Activity
 
 **(a) Limitation.—** The Secretary of Defense may not take any action described in subsection (b) with respect to a school operated by the Department of Defense Education Activity unless—
 
@@ -1191,9 +1191,9 @@ The Higher Education Act of 1965, referred to in subsec. (i)(3)(A), is Pub. L. 8
 
 **(d) Local Educational Agency Defined.—** In this section, the term “local educational agency” has the meaning given that term in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
 
-(Added Pub. L. 119–60, div. A, title V, § 585(a), Dec. 18, 2025, 139 Stat. 891.)
+(Added Pub. L. 119–60, div. A, title V, § 585(a), Dec. 18, 2025, 139 Stat. 891.)
 
-## § 2165. National Defense University: component institutions
+## § 2165. National Defense University: component institutions
 
 **(a) In General.—** There is a National Defense University in the Department of Defense.
 
@@ -1213,7 +1213,7 @@ The Higher Education Act of 1965, referred to in subsec. (i)(3)(A), is Pub. L. 8
 
 **(7)** Any other educational institution of the Department of Defense that the Secretary considers appropriate and designates as an institution of the university.
 
-**[(c)** Repealed. Pub. L. 109–364, div. A, title IX, § 904(b)(2)(B), Oct. 17, 2006, 120 Stat. 2353.]
+**[(c)** Repealed. Pub. L. 109–364, div. A, title IX, § 904(b)(2)(B), Oct. 17, 2006, 120 Stat. 2353.]
 
 **(d) Source of Funds for Professional Development Education Operations.—** Funding for the professional development education operations of the National Defense University shall be provided from funds made available to the Secretary of Defense from the annual appropriation “Operation and Maintenance, Defense-wide”.
 
@@ -1237,7 +1237,7 @@ The Higher Education Act of 1965, referred to in subsec. (i)(3)(A), is Pub. L. 8
 
 **(2)** The National Defense University shall be considered a Government-operated Federal laboratory for purposes of section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a).
 
-(Added and amended Pub. L. 105–85, div. A, title IX, §§ 921(a)(1), 922(a), Nov. 18, 1997, 111 Stat. 1862, 1863; Pub. L. 105–261, div. A, title IX, §§ 904, 905(a), Oct. 17, 1998, 112 Stat. 2093; Pub. L. 106–398, § 1 [[div. A], title IX, § 913(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–230; Pub. L. 107–107, div. A, title V, § 527(c)(1), Dec. 28, 2001, 115 Stat. 1102; Pub. L. 109–163, div. A, title V, § 522(a), Jan. 6, 2006, 119 Stat. 3240; Pub. L. 109–364, div. A, title IX, § 904(b)(2), Oct. 17, 2006, 120 Stat. 2353; Pub. L. 112–81, div. B, title XXVIII, § 2861(b), Dec. 31, 2011, 125 Stat. 1701; Pub. L. 114–328, div. A, title II, § 214(a), title XVI, § 1648(a), Dec. 23, 2016, 130 Stat. 2048, 2606; Pub. L. 116–283, div. A, title XVIII, § 1841(e)(1), Jan. 1, 2021, 134 Stat. 4244; Pub. L. 118–31, div. A, title IX, § 912, Dec. 22, 2023, 137 Stat. 365; Pub. L. 119–60, div. A, title V, § 554(a), Dec. 18, 2025, 139 Stat. 877.)
+(Added and amended Pub. L. 105–85, div. A, title IX, §§ 921(a)(1), 922(a), Nov. 18, 1997, 111 Stat. 1862, 1863; Pub. L. 105–261, div. A, title IX, §§ 904, 905(a), Oct. 17, 1998, 112 Stat. 2093; Pub. L. 106–398, § 1 [[div. A], title IX, § 913(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–230; Pub. L. 107–107, div. A, title V, § 527(c)(1), Dec. 28, 2001, 115 Stat. 1102; Pub. L. 109–163, div. A, title V, § 522(a), Jan. 6, 2006, 119 Stat. 3240; Pub. L. 109–364, div. A, title IX, § 904(b)(2), Oct. 17, 2006, 120 Stat. 2353; Pub. L. 112–81, div. B, title XXVIII, § 2861(b), Dec. 31, 2011, 125 Stat. 1701; Pub. L. 114–328, div. A, title II, § 214(a), title XVI, § 1648(a), Dec. 23, 2016, 130 Stat. 2048, 2606; Pub. L. 116–283, div. A, title XVIII, § 1841(e)(1), Jan. 1, 2021, 134 Stat. 4244; Pub. L. 118–31, div. A, title IX, § 912, Dec. 22, 2023, 137 Stat. 365; Pub. L. 119–60, div. A, title V, § 554(a), Dec. 18, 2025, 139 Stat. 877.)
 
 **Editorial Notes**
 
@@ -1249,15 +1249,15 @@ The Higher Education Act of 1965, referred to in subsec. (i)(3)(A), is Pub. L. 8
 
 2021—Subsec. (f)(1). Pub. L. 116–283 substituted “section 4001” for “section 2358”.
 
-2016—Subsec. (b)(5). Pub. L. 114–328, § 1648(a), substituted “College of Information and Cyberspace” for “Information Resources Management College”.
+2016—Subsec. (b)(5). Pub. L. 114–328, § 1648(a), substituted “College of Information and Cyberspace” for “Information Resources Management College”.
 
-Subsec. (f). Pub. L. 114–328, § 214(a), added subsec. (f).
+Subsec. (f). Pub. L. 114–328, § 214(a), added subsec. (f).
 
 2011—Subsec. (b)(2). Pub. L. 112–81 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Industrial College of the Armed Forces.”
 
-2006—Subsec. (b)(6), (7). Pub. L. 109–364, § 904(b)(2)(A), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “The Center for Hemispheric Defense Studies.”
+2006—Subsec. (b)(6), (7). Pub. L. 109–364, § 904(b)(2)(A), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “The Center for Hemispheric Defense Studies.”
 
-Subsec. (c). Pub. L. 109–364, § 904(b)(2)(B), struck out heading and text of subsec. (c). Text read as follows: “Funds available for the payment of personnel expenses under the Latin American cooperation authority set forth in section 1050 of this title are also available for the costs of the operation of the Center for Hemispheric Defense Studies.”
+Subsec. (c). Pub. L. 109–364, § 904(b)(2)(B), struck out heading and text of subsec. (c). Text read as follows: “Funds available for the payment of personnel expenses under the Latin American cooperation authority set forth in section 1050 of this title are also available for the costs of the operation of the Center for Hemispheric Defense Studies.”
 
 Subsec. (e). Pub. L. 109–163 added subsec. (e).
 
@@ -1265,19 +1265,19 @@ Subsec. (e). Pub. L. 109–163 added subsec. (e).
 
 2000—Subsec. (b)(3). Pub. L. 106–398 substituted “Joint Forces Staff College” for “Armed Forces Staff College”.
 
-1998—Subsec. (b)(7). Pub. L. 105–261, § 904, added par. (7).
+1998—Subsec. (b)(7). Pub. L. 105–261, § 904, added par. (7).
 
-Subsec. (c). Pub. L. 105–261, § 905(a), added subsec. (c).
+Subsec. (c). Pub. L. 105–261, § 905(a), added subsec. (c).
 
-1997—Subsec. (b)(6). Pub. L. 105–85, § 922(a), added par. (6).
+1997—Subsec. (b)(6). Pub. L. 105–85, § 922(a), added par. (6).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-Pub. L. 114–328, div. A, title XVI, § 1648(b), Dec. 23, 2016, 130 Stat. 2606, provided that: “Any reference in any law, regulation, document, record, or other paper of the United States to the Information Resources Management College shall be considered to be a reference to the College of Information and Cyberspace.”
+Pub. L. 114–328, div. A, title XVI, § 1648(b), Dec. 23, 2016, 130 Stat. 2606, provided that: “Any reference in any law, regulation, document, record, or other paper of the United States to the Information Resources Management College shall be considered to be a reference to the College of Information and Cyberspace.”
 
-Pub. L. 112–81, div. B, title XXVIII, § 2861, Dec. 31, 2011, 125 Stat. 1701, provided that:
+Pub. L. 112–81, div. B, title XXVIII, § 2861, Dec. 31, 2011, 125 Stat. 1701, provided that:
 
 > **“(a) Redesignation.—** The Industrial College of the Armed Forces is hereby renamed the ‘Dwight D. Eisenhower School for National Security and Resource Strategy’.
 
@@ -1287,7 +1287,7 @@ Pub. L. 112–81, div. B, title XXVIII, § 2861, Dec. 31, 2011, 125 Stat. 1701
 
 > **“(c) References.—** Any reference to the Industrial College of the Armed Forces in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Dwight D. Eisenhower School for National Security and Resource Strategy.”
 
-Pub. L. 106–398, § 1 [[div. A], title IX, § 913(a), (c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–230, provided that:
+Pub. L. 106–398, § 1 [[div. A], title IX, § 913(a), (c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–230, provided that:
 
 > **“(a) Change in Name.—** The Armed Forces Staff College of the Department of Defense is hereby renamed the ‘Joint Forces Staff College’.
 
@@ -1299,11 +1299,11 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–107, div. A, title V, § 527(c)(2), Dec. 28, 2001, 115 Stat. 1102, provided that: “Subsection (d) of section 2165 of title 10, United States Code, as added by paragraph (1), shall become effective beginning with fiscal year 2003.”
+Pub. L. 107–107, div. A, title V, § 527(c)(2), Dec. 28, 2001, 115 Stat. 1102, provided that: “Subsection (d) of section 2165 of title 10, United States Code, as added by paragraph (1), shall become effective beginning with fiscal year 2003.”
 
 **Mission of the Center for Strategic Deterrence and Weapons of Mass Destruction Studies**
 
-Pub. L. 119–60, div. A, title V, § 554(b), Dec. 18, 2025, 139 Stat. 877, provided that:
+Pub. L. 119–60, div. A, title V, § 554(b), Dec. 18, 2025, 139 Stat. 877, provided that:
 
 > “The mission of the Center for Strategic Deterrence and Weapons of Mass Destruction Studies established under such paragraph [probably should be “subsection (a)”] shall be to—
 
@@ -1327,7 +1327,7 @@ Pub. L. 119–60, div. A, title V, § 554(b), Dec. 18, 2025, 139 Stat. 877, pr
 
 **Center for the Study of Chinese Military Affairs**
 
-Pub. L. 106–65, div. A, title IX, § 914, Oct. 5, 1999, 113 Stat. 721, provided that:
+Pub. L. 106–65, div. A, title IX, § 914, Oct. 5, 1999, 113 Stat. 721, provided that:
 
 > **“(a) Establishment.—** The Secretary of Defense shall establish a Center for the Study of Chinese Military Affairs as part of the National Defense University. The Center shall be organized under the Institute for National Strategic Studies of the University.
 
@@ -1343,9 +1343,9 @@ Pub. L. 106–65, div. A, title IX, § 914, Oct. 5, 1999, 113 Stat. 721, provi
 
 > **“(2)** The Secretary of Defense shall transmit the report under paragraph (1), together with whatever comments the Secretary considers appropriate, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives not later than February 1, 2001.”
 
-## [§ 2166. Renumbered § 343]
+## [§ 2166. Renumbered § 343]
 
-## § 2167. National Defense University: admission of private sector civilians to professional military education program
+## § 2167. National Defense University: admission of private sector civilians to professional military education program
 
 **(a) Authority for Admission.—** The Secretary of Defense may permit eligible private sector employees who work in organizations relevant to national security to receive instruction at the National Defense University in accordance with this section. No more than the equivalent of 35 full-time student positions may be filled at any one time by private sector employees enrolled under this section. Upon successful completion of the course of instruction in which enrolled, any such private sector employee may be awarded an appropriate diploma or degree under section 2165 of this title.
 
@@ -1369,7 +1369,7 @@ Pub. L. 106–65, div. A, title IX, § 914, Oct. 5, 1999, 113 Stat. 721, provi
 
 **(g) Use of Funds.—** Amounts received by the National Defense University for instruction of students enrolled under this section shall be retained by the university to defray the costs of such instruction. The source, and the disposition, of such funds shall be specifically identified in records of the university.
 
-(Added Pub. L. 107–107, div. A, title V, § 528(a)(1), Dec. 28, 2001, 115 Stat. 1102; amended Pub. L. 111–84, div. A, title V, § 526, Oct. 28, 2009, 123 Stat. 2288; Pub. L. 111–383, div. A, title V, § 592, Jan. 7, 2011, 124 Stat. 4232.)
+(Added Pub. L. 107–107, div. A, title V, § 528(a)(1), Dec. 28, 2001, 115 Stat. 1102; amended Pub. L. 111–84, div. A, title V, § 526, Oct. 28, 2009, 123 Stat. 2288; Pub. L. 111–383, div. A, title V, § 592, Jan. 7, 2011, 124 Stat. 4232.)
 
 **Editorial Notes**
 
@@ -1383,9 +1383,9 @@ Pub. L. 106–65, div. A, title IX, § 914, Oct. 5, 1999, 113 Stat. 721, provi
 
 **Effective Date**
 
-Pub. L. 107–107, div. A, title V, § 528(b), Dec. 28, 2001, 115 Stat. 1103, provided that: “Section 2167 of title 10, United States Code, as added by subsection (a), shall take effect on January 1, 2002.”
+Pub. L. 107–107, div. A, title V, § 528(b), Dec. 28, 2001, 115 Stat. 1103, provided that: “Section 2167 of title 10, United States Code, as added by subsection (a), shall take effect on January 1, 2002.”
 
-## § 2167a. Defense Cyber Investigations Training Academy: admission of private sector civilians to receive instruction
+## § 2167a. Defense Cyber Investigations Training Academy: admission of private sector civilians to receive instruction
 
 **(a) Authority for Admission.—** The Secretary of Defense may permit eligible private sector employees to receive instruction at the Defense Cyber Investigations Training Academy operating under the direction of the Defense Cyber Crime Center. No more than the equivalent of 200 full-time student positions may be filled at any one time by private sector employees enrolled under this section, on a yearly basis. Upon successful completion of the course of instruction in which enrolled, any such private sector employee may be awarded an appropriate certification or diploma.
 
@@ -1403,9 +1403,9 @@ Pub. L. 107–107, div. A, title V, § 528(b), Dec. 28, 2001, 115 Stat. 1103, 
 
 **(f) Use of Funds.—** Amounts received by the Defense Cyber Investigations Training Academy for instruction of students enrolled under this section shall be retained by the Academy to defray the costs of such instruction. The source, and the disposition, of such funds shall be specifically identified in records of the Academy.
 
-(Added Pub. L. 111–84, div. A, title IX, § 901(a), Oct. 28, 2009, 123 Stat. 2422.)
+(Added Pub. L. 111–84, div. A, title IX, § 901(a), Oct. 28, 2009, 123 Stat. 2422.)
 
-## § 2168. Defense Language Institute Foreign Language Center: degree of Associate or Bachelor of Arts in foreign language
+## § 2168. Defense Language Institute Foreign Language Center: degree of Associate or Bachelor of Arts in foreign language
 
 **(a)** Subject to subsection (b), the Commandant of the Defense Language Institute may confer—
 
@@ -1417,17 +1417,17 @@ Pub. L. 107–107, div. A, title V, § 528(b), Dec. 28, 2001, 115 Stat. 1103, 
 
 **(c)** The authority provided by subsection (a) shall be exercised under regulations prescribed by the Secretary of Defense.
 
-(Added Pub. L. 107–107, div. A, title V, § 531(a), Dec. 28, 2001, 115 Stat. 1104; amended Pub. L. 117–81, div. A, title V, § 556(a), Dec. 27, 2021, 135 Stat. 1739.)
+(Added Pub. L. 107–107, div. A, title V, § 531(a), Dec. 28, 2001, 115 Stat. 1104; amended Pub. L. 117–81, div. A, title V, § 556(a), Dec. 27, 2021, 135 Stat. 1739.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 117–81, § 556(a)(1), substituted “Associate or Bachelor” for “Associate” in section catchline.
+2021—Pub. L. 117–81, § 556(a)(1), substituted “Associate or Bachelor” for “Associate” in section catchline.
 
-Subsec. (a). Pub. L. 117–81, § 556(a)(2), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Subject to subsection (b), the Commandant of the Defense Language Institute may confer an Associate of Arts degree in a foreign language upon any graduate of the Foreign Language Center of the Institute who fulfills the requirements for that degree.”
+Subsec. (a). Pub. L. 117–81, § 556(a)(2), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Subject to subsection (b), the Commandant of the Defense Language Institute may confer an Associate of Arts degree in a foreign language upon any graduate of the Foreign Language Center of the Institute who fulfills the requirements for that degree.”
 
-## § 2169. School of Nursing: establishment
+## § 2169. School of Nursing: establishment
 
 **(a) Establishment Authorized.—** The Secretary of Defense may establish a School of Nursing.
 
@@ -1435,4 +1435,4 @@ Subsec. (a). Pub. L. 117–81, § 556(a)(2), amended subsec. (a) generally. Pr
 
 **(c) Phased Development.—** The Secretary of Defense may develop the School of Nursing in phases as determined appropriate by the Secretary.
 
-(Added Pub. L. 111–84, div. A, title V, § 525(a)(2), Oct. 28, 2009, 123 Stat. 2286.)
+(Added Pub. L. 111–84, div. A, title V, § 525(a)(2), Oct. 28, 2009, 123 Stat. 2286.)

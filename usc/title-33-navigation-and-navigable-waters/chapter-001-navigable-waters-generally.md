@@ -17,13 +17,13 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 1. Regulations by Secretary of the Army for navigation of waters generally
+### § 1. Regulations by Secretary of the Army for navigation of waters generally
 
 It shall be the duty of the Secretary of the Army to prescribe such regulations for the use, administration, and navigation of the navigable waters of the United States as in his judgment the public necessity may require for the protection of life and property, or of operations of the United States in channel improvement, covering all matters not specifically delegated by law to some other executive department. Such regulations shall be posted, in conspicuous and appropriate places, for the information of the public; and every person and every corporation which shall violate such regulations shall be deemed guilty of a misdemeanor and, on conviction thereof in any district court of the United States within whose territorial jurisdiction such offense may have been committed, shall be punished by a fine not exceeding $500, or by imprisonment (in the case of a natural person) not exceeding six months, in the discretion of the court.
 
 Any regulations prescribed by the Secretary of the Army in pursuance of this section may be enforced as provided in section 413 of this title, the provisions whereof are made applicable to the said regulations.
 
-(Aug. 18, 1894, ch. 299, § 4, 28 Stat. 362; June 13, 1902, ch. 1079, §§ 6, 11, 32 Stat. 374; Aug. 8, 1917, ch. 49, § 7, 40 Stat. 266; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Aug. 18, 1894, ch. 299, § 4, 28 Stat. 362; June 13, 1902, ch. 1079, §§ 6, 11, 32 Stat. 374; Aug. 8, 1917, ch. 49, § 7, 40 Stat. 266; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -49,11 +49,11 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 Administrative provisions covering definitions which the Coast Guard uses to examine waters to determine whether the Coast Guard has jurisdiction on those waters under particular laws of the United States are set out in chapter I, subchapter A, part 2, of Title 33, Navigation and Navigable Waters, in the Code of Federal Regulations. Such part 2, consisting of sections 2.01–1 to 2.10–10, sets out definitions of jurisdictional terms and provides for the availability of jurisdictional decisions.
 
-### § 2. Regulations for navigation of South and Southwest Passes of Mississippi River; penalties
+### § 2. Regulations for navigation of South and Southwest Passes of Mississippi River; penalties
 
 The Secretary of the Army is authorized to make such rules and regulations for the navigation of the South and Southwest Passes of the Mississippi River as to him shall seem necessary or expedient for the purpose of preventing any obstruction to the channels through said South and Southwest Passes and any injury to the works therein constructed. The term “South and Southwest Passes”, as employed in this section, shall be construed as embracing the entire extent of channel in each case, between the upper ends of the works at the head of the pass and the outer or sea ends of the jetties at the entrance from the Gulf of Mexico; and any willful violation of any rule or regulation made by the Secretary of the Army in pursuance of this section shall be deemed a misdemeanor, for which the owner or owners, agent or agents, master or pilot of the vessel so offending shall be separately or collectively responsible, and on conviction thereof shall be punished by a fine of not less than $100, nor exceeding $500, or by imprisonment for not exceeding three months, or by both fine and imprisonment, at the discretion of the court.
 
-(Mar. 3, 1909, ch. 264, § 5, 35 Stat. 818; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Mar. 3, 1909, ch. 264, § 5, 35 Stat. 818; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -61,7 +61,7 @@ The Secretary of the Army is authorized to make such rules and regulations for t
 
 These provisions were part of section 5 of act Mar. 3, 1909, popularly known as the “River and Harbor Appropriation Act of 1909”.
 
-These provisions superseded previous similar provisions relating to the navigation of the South Pass only, contained in act Aug. 11, 1888, ch. 860, § 5, 25 Stat. 424, amended by act Sept. 19, 1890, ch. 907, § 3, 26 Stat. 452.
+These provisions superseded previous similar provisions relating to the navigation of the South Pass only, contained in act Aug. 11, 1888, ch. 860, § 5, 25 Stat. 424, amended by act Sept. 19, 1890, ch. 907, § 3, 26 Stat. 452.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -69,7 +69,7 @@ These provisions superseded previous similar provisions relating to the navigati
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 3. Regulations to prevent injuries from target practice
+### § 3. Regulations to prevent injuries from target practice
 
 [Authority to adopt regulations.] In the interest of the national defense, and for the better protection of life and property on the navigable waters of the United States, the Secretary of the Army is authorized and empowered to prescribe such regulations as he may deem best for the use and navigation of any portion or area of the navigable waters of the United States or waters under the jurisdiction of the United States endangered or likely to be endangered by Artillery fire in target practice or otherwise, or by the proving operations of the Government ordnance proving grounds at Sandy Hook, New Jersey, or at any Government ordnance proving ground that may be established elsewhere on or near such waters, and of any portion or area of said waters occupied by submarine mines, mine fields, submarine cables, or other material and accessories pertaining to seacoast fortifications, or by any plant or facility engaged in the execution of any public project of river and harbor improvement; and the said Secretary shall have like power to regulate the transportation of explosives upon any of said waters: *Provided*, That the authority conferred shall be so exercised as not unreasonably to interfere with or restrict the food fishing industry, and the regulations prescribed in pursuance hereof shall provide for the use of such waters by food fishermen operating under permits granted by the Department of the Army.
 
@@ -79,7 +79,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 [Venue and jurisdiction of offenses; procedure.] Offenses against the provisions of this section, or any regulation made pursuant thereto, committed in any Territory or other place subject to the jurisdiction of the United States where there is no court having general jurisdiction of crimes against the United States, shall be cognizable in any court of such place or Territory having original jurisdiction of criminal cases in the place or Territory in which the offense has been committed, with the same right of appeal in all cases as is given in other criminal cases where imprisonment not exceeding six months forms a part of the penalty, and jurisdiction is conferred upon such courts and such courts shall exercise the same for such purposes; and in case any such offense be committed beyond the territorial jurisdiction of any court having jurisdiction thereof, the offense shall be deemed and held to have been committed within the jurisdiction in which the offender may be found or into which he is first brought, and shall be tried by the court having jurisdiction thereof.
 
-(July 9, 1918, ch. 143, subch. XIX, §§ 1–4, 40 Stat. 892, 893; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(July 9, 1918, ch. 143, subch. XIX, §§ 1–4, 40 Stat. 892, 893; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -87,7 +87,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 Undesignated pars. 1 to 4 of this section are from sections 1 to 4, respectively, of act July 9, 1918, popularly known as the “Army Appropriation Act of 1919”.
 
-Undesignated pars. 1 and 2 of this section superseded similar provisions of act Aug. 8, 1917, ch. 49, § 8, 40 Stat. 266.
+Undesignated pars. 1 and 2 of this section superseded similar provisions of act Aug. 8, 1917, ch. 49, § 8, 40 Stat. 266.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -103,21 +103,21 @@ Coast Artillery changed to Artillery under authority of section 306(a) of act Ju
 
 For transfer of certain functions insofar as they pertain to Air Force, and to extent that they were not previously transferred to Secretary of the Air Force and Department of the Air Force from Secretary of the Army and Department of the Army, see Secretary of Defense Transfer Order No. 40 [App. A(55)], July 22, 1949.
 
-### § 4. Water gauges on Mississippi River and tributaries
+### § 4. Water gauges on Mississippi River and tributaries
 
 The Secretary of the Army is authorized and directed to have water gauges established, and daily observations made of the rise and fall of the Mississippi River and its tributaries.
 
 For the purpose of securing the uninterrupted gauging of the waters of the Mississippi River and its tributaries, as provided for in this section, upon the application of the Chief of Engineers, the Secretary of the Army is authorized to draw his warrant or requisition, from time to time, upon the Secretary of the Treasury for such sums as may be necessary to do such work, not to exceed in the aggregate for each year the sum of $9,600.
 
-(R.S. § 5252; Aug. 11, 1888, ch. 860, § 6, 25 Stat. 424; June 13, 1902, ch. 1079, § 9, 32 Stat. 374; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Aug. 30, 1954, ch. 1076, § 1(15), 68 Stat. 967.)
+(R.S. § 5252; Aug. 11, 1888, ch. 860, § 6, 25 Stat. 424; June 13, 1902, ch. 1079, § 9, 32 Stat. 374; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Aug. 30, 1954, ch. 1076, § 1(15), 68 Stat. 967.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5252 derived from Res. Feb. 21, 1871, No. 40, 16 Stat. 598.
+R.S. § 5252 derived from Res. Feb. 21, 1871, No. 40, 16 Stat. 598.
 
-The first paragraph of this section is from R.S. § 5252, which, as enacted, authorized and directed the establishment of water gauges and the making of daily observations at or in the vicinity of certain enumerated places, and at such other places as the Secretary of War might deem advisable. It further provided that the expenditure should be made from the appropriation for the improvement of rivers and harbors and that the annual cost of the observations should not exceed $5,000. These latter provisions were apparently modified by section 6 of act Aug. 11, 1888, as amended by section 9 of act June 13, 1902, which was substantially the second paragraph of this section. As originally enacted, section 6 of act Aug. 11, 1888, provided for the gauging of the waters of the Lower Mississippi and tributaries, and limited the cost for each year to the amount appropriated in the act for such purpose.
+The first paragraph of this section is from R.S. § 5252, which, as enacted, authorized and directed the establishment of water gauges and the making of daily observations at or in the vicinity of certain enumerated places, and at such other places as the Secretary of War might deem advisable. It further provided that the expenditure should be made from the appropriation for the improvement of rivers and harbors and that the annual cost of the observations should not exceed $5,000. These latter provisions were apparently modified by section 6 of act Aug. 11, 1888, as amended by section 9 of act June 13, 1902, which was substantially the second paragraph of this section. As originally enacted, section 6 of act Aug. 11, 1888, provided for the gauging of the waters of the Lower Mississippi and tributaries, and limited the cost for each year to the amount appropriated in the act for such purpose.
 
 **Amendments**
 
@@ -133,7 +133,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 Section 2 of act June 26, 1934, ch. 756, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Gauging waters of the Mississippi and its tributaries (fiscal year) (8–961.54)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
 
-### § 5. Abolition of tolls on Government canals, canalized rivers, etc.; expense of operation, repairs to and reconstruction of canals, etc.; Panama Canal excepted; levies by non-Federal interest
+### § 5. Abolition of tolls on Government canals, canalized rivers, etc.; expense of operation, repairs to and reconstruction of canals, etc.; Panama Canal excepted; levies by non-Federal interest
 
 **(a)** No tolls or operating charges whatever shall be levied upon or collected from any vessel, dredge, or other water craft for passing through any lock, canal, canalized river, or other work for the use and benefit of navigation, now belonging to the United States or that may be hereafter acquired or constructed; and for the purpose of preserving and continuing the use and navigation of said canals and other public works without interruption, the Secretary of the Army, upon the recommendation of the Chief of Engineers, United States Army, is authorized to draw his warrant or requisition, from time to time, upon the Secretary of the Treasury to pay the actual expenses of operating, maintaining, and keeping said works in repair, which warrants or requisitions shall be paid by the Secretary of the Treasury out of any money in the Treasury not otherwise appropriated: *Provided*, That whenever, in the judgment of the Secretary of the Army, the condition of any of the aforesaid works is such that its entire reconstruction is absolutely essential to its efficient and economical maintenance and operation as herein provided for, the reconstruction thereof may include such modifications in plan and location as may be necessary to provide adequate facilities for existing navigation: *Provided further*, That the modifications are necessary to make the reconstructed work conform to similar works previously authorized by Congress and forming a part of the same improvement, and that such modifications shall be considered and approved by the Board of Engineers for Rivers and Harbors and be recommended by the Chief of Engineers before the work of reconstruction is commenced: *And provided further*, That nothing contained in this section shall be held to apply to the Panama Canal.
 
@@ -151,7 +151,7 @@ Section 2 of act June 26, 1934, ch. 756, 48 Stat. 1225, which was classified to 
 
 **(3)** property taxes on vessels or watercraft, other than vessels or watercraft that are primarily engaged in foreign commerce if those taxes are permissible under the United States Constitution.
 
-(July 5, 1884, ch. 229, § 4, 23 Stat. 147; Mar. 3, 1909, ch. 264, § 6, 35 Stat. 818; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Aug. 30, 1954, ch. 1076, § 1(15), 68 Stat. 967; Pub. L. 107–295, title IV, § 445, Nov. 25, 2002, 116 Stat. 2133; Pub. L. 108–176, title VIII, § 829(a), Dec. 12, 2003, 117 Stat. 2597.)
+(July 5, 1884, ch. 229, § 4, 23 Stat. 147; Mar. 3, 1909, ch. 264, § 6, 35 Stat. 818; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Aug. 30, 1954, ch. 1076, § 1(15), 68 Stat. 967; Pub. L. 107–295, title IV, § 445, Nov. 25, 2002, 116 Stat. 2133; Pub. L. 108–176, title VIII, § 829(a), Dec. 12, 2003, 117 Stat. 2597.)
 
 **Editorial Notes**
 
@@ -181,7 +181,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–176, title VIII, § 829(b), Dec. 12, 2003, 117 Stat. 2597, provided that: “The amendment made by subsection (a) [amending this section] is effective on and after November 25, 2002.”
+Pub. L. 108–176, title VIII, § 829(b), Dec. 12, 2003, 117 Stat. 2597, provided that: “The amendment made by subsection (a) [amending this section] is effective on and after November 25, 2002.”
 
 **Termination of Board of Engineers for Rivers and Harbors and Reassignment of Duties and Responsibilities**
 
@@ -191,23 +191,23 @@ For termination of Board of Engineers for Rivers and Harbors 180 days after Oct.
 
 Section 2 of act June 26, 1934, ch. 756, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Operating and care of canals and other works of navigation (8x881)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
 
-### § 6. Free passage to harbor of Michigan City, Indiana
+### § 6. Free passage to harbor of Michigan City, Indiana
 
 The passage of vessels to and from the harbor of Michigan City, in Indiana, shall be free and not subject to toll or charge.
 
-(R.S. § 5247.)
+(R.S. § 5247.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5247 derived from acts June 23, 1866, ch. 138, § 1, 14 Stat. 73; Mar. 2, 1867, ch. 144, § 2, 14 Stat. 421.
+R.S. § 5247 derived from acts June 23, 1866, ch. 138, § 1, 14 Stat. 73; Mar. 2, 1867, ch. 144, § 2, 14 Stat. 421.
 
-### § 7. Use of Government iron pier in Delaware Bay
+### § 7. Use of Government iron pier in Delaware Bay
 
 The Government iron pier in Delaware Bay near Lewes, Delaware, shall be open to public use under regulations to be prescribed by the Secretary of the Army.
 
-(July 27, 1916, ch. 260, § 1, 39 Stat. 394; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(July 27, 1916, ch. 260, § 1, 39 Stat. 394; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -223,45 +223,45 @@ A further provision of act July 27, 1916, repealed act Mar. 3, 1891, ch. 542, 26
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 8. Toll free rivers in Alabama
+### § 8. Toll free rivers in Alabama
 
 The Tennessee, Coosa, Cahawba, and Black Warrior Rivers, within the State of Alabama, shall be forever free from toll for all property belonging to the United States, and for all persons in their service, and for all citizens of the United States, except as to such tolls as may be allowed by Act of Congress.
 
-(R.S. § 5244.)
+(R.S. § 5244.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5244 derived from act May 23, 1828, ch. 75, § 7, 4 Stat. 290.
+R.S. § 5244 derived from act May 23, 1828, ch. 75, § 7, 4 Stat. 290.
 
 Another R.S. 5244 is classified to section 43 of Title 12, Banks and Banking.
 
-### § 9. Des Moines River as toll free
+### § 9. Des Moines River as toll free
 
 The Des Moines River shall forever remain free from any toll, or other charge whatever, for any property of the United States, or persons in their service, passing along the same.
 
-(R.S. § 5246.)
+(R.S. § 5246.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5246 derived from acts Aug. 8, 1846, ch. 103, § 3, 9 Stat. 78; Jan. 20, 1870, ch. 7, 16 Stat. 61.
+R.S. § 5246 derived from acts Aug. 8, 1846, ch. 103, § 3, 9 Stat. 78; Jan. 20, 1870, ch. 7, 16 Stat. 61.
 
-### § 10. Waters in Louisiana Purchase as public highways
+### § 10. Waters in Louisiana Purchase as public highways
 
 All the navigable rivers and waters in the former Territories of Orleans and Louisiana shall be and forever remain public highways.
 
-(R.S. § 5251.)
+(R.S. § 5251.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5251 derived from act Mar. 3, 1811, ch. 46, § 12, 2 Stat. 606.
+R.S. § 5251 derived from act Mar. 3, 1811, ch. 46, § 12, 2 Stat. 606.
 
-### § 11. Authority for compact between Middle Northwest States as to jurisdiction of offenses committed on boundary waters
+### § 11. Authority for compact between Middle Northwest States as to jurisdiction of offenses committed on boundary waters
 
 The consent of the Congress is given to the States of North Dakota, South Dakota, Minnesota, Wisconsin, Iowa, and Nebraska, or any two or more of them, by such agreement or compact as they may deem desirable or necessary, or as may be evidenced by legislative acts enacted by any two or more of said States, not in conflict with the Constitution of the United States or any law thereof, to determine and settle the jurisdiction to be exercised by said States, respectively, over offenses arising out of the violation of the laws of any of said States upon any of the waters forming the boundary lines between any two or more of said States, or waters through which such boundary line extends, and that the consent of the Congress be, and the same is, given to the concurrent jurisdiction agreed to by the States of Minnesota and South Dakota, as evidenced by the act of the Legislature of the State of Minnesota approved April 20, 1917, and the act of the Legislature of the State of South Dakota approved February 13, 1917.
 
@@ -273,11 +273,11 @@ The consent of the Congress is given to the States of North Dakota, South Dakota
 
 This section is from a resolution entitled a “Joint Resolution giving consent of the Congress of the United States to the States of North Dakota, South Dakota, Minnesota, Wisconsin, Iowa, and Nebraska, or any two or more of said States, to agree upon the jurisdiction to be exercised by said States over boundary waters between any two or more of said States”.
 
-### § 12. Port Arthur Ship Canal
+### § 12. Port Arthur Ship Canal
 
 After there shall be conveyed to the United States, free of cost, a valid title to the line of water communication between Taylors Bayou and Sabine Pass, in the State of Texas, known as the Port Arthur Ship Canal, together with a valid title to the turning basin as existing June 19, 1906, and to the artificial slip on which the lumber dock of the Port Arthur Canal and Dock Company is built, the said waterways shall thereupon become free public waters of the United States, and be subject to the laws enacted by Congress for the maintenance, preservation, protection, and regulation of navigable waters: *Provided*, That the company or corporation conveying title to said canal as aforesaid shall also convey to the United States, free of cost, the fee to a strip of land one hundred and fifty feet wide along the westerly margin of the canal, except that where the right of way of the Southern Pacific Railroad Company prevents the transfer of such strip of land along the westerly margin of said canal there shall be conveyed such strip on the easterly margin thereof as may be necessary to make up such one hundred and fifty feet of width, with the reservation that until Congress shall have authorized and provided for the enlargement and widening of said canal the said company or corporation, its successors or assigns, shall have the right to control, occupy, and use the said strip of land and every part thereof in the same manner and to the same extent as before the execution and delivery of the conveyance, and also the right to transfer, lease, sell, quitclaim, or otherwise dispose of said property and every part thereof, subject to the grant made to the United States. The charges for the use of said docks and wharves shall be just and reasonable and shall not be greater than charges for similar services at other ports of the United States on the Gulf of Mexico.
 
-(June 19, 1906, ch. 3436, § 1, 34 Stat. 302.)
+(June 19, 1906, ch. 3436, § 1, 34 Stat. 302.)
 
 **Editorial Notes**
 
@@ -289,13 +289,13 @@ Further provisions of the said proviso authorizing the Secretary of War to accep
 
 ## SUBCHAPTER II—WATERS DECLARED NONNAVIGABLE: CHANGE OF NAME
 
-### § 21. Bayou Cocodrie, Louisiana
+### § 21. Bayou Cocodrie, Louisiana
 
 Bayou Cocodrie, from its source to its junction with Bayou Chicot, in the State of Louisiana, is declared to be not a navigable water of the United States within the meaning of the laws enacted by the Congress for the preservation and protection of such waters.
 
 The right to alter, amend, or repeal this section is expressly reserved.
 
-(Feb. 25, 1921, ch. 71, §§ 1, 2, 41 Stat. 1145.)
+(Feb. 25, 1921, ch. 71, §§ 1, 2, 41 Stat. 1145.)
 
 **Editorial Notes**
 
@@ -303,19 +303,19 @@ The right to alter, amend, or repeal this section is expressly reserved.
 
 The first sentence hereof is section 1 and the second sentence section 2 of act Feb. 25, 1921, entitled “An Act to declare Bayou Cocodrie nonnavigable from its source to its junction with Bayou Chicot”.
 
-### § 22. Bayou Meto, Arkansas
+### § 22. Bayou Meto, Arkansas
 
 The Bayou Meto, in the State of Arkansas, is declared to be a nonnavigable stream within the meaning of the Constitution and laws of the United States.
 
-(Aug. 8, 1917, ch. 49, § 16, 40 Stat. 268.)
+(Aug. 8, 1917, ch. 49, § 16, 40 Stat. 268.)
 
-### § 23. Bear Creek, Mississippi
+### § 23. Bear Creek, Mississippi
 
 Bear Creek in Humphreys, Leflore, and Sunflower Counties, in the State of Mississippi, is declared to be a nonnavigable stream within the meaning of the Constitution and the laws of the United States.
 
 The right of Congress to alter, amend, or repeal this section is expressly reserved.
 
-(Mar. 3, 1923, ch. 229, §§ 1, 2, 42 Stat. 1442.)
+(Mar. 3, 1923, ch. 229, §§ 1, 2, 42 Stat. 1442.)
 
 **Editorial Notes**
 
@@ -323,13 +323,13 @@ The right of Congress to alter, amend, or repeal this section is expressly reser
 
 The first sentence hereof is section 1 and the last sentence section 2 of act Mar. 3, 1923, entitled “An Act declaring Bear Creek in Humphreys, Leflore, and Sunflower counties, Mississippi, to be a nonnavigable stream”.
 
-### § 24. Big Tarkio River, Missouri
+### § 24. Big Tarkio River, Missouri
 
 The Big Tarkio River, in the counties of Holt and Atchison, in the State of Missouri, is declared to be not a navigable water of the United States within the meaning of the laws enacted by Congress for the preservation and protection of such waters.
 
 The right to alter, amend, or repeal this section is expressly reserved.
 
-(Feb. 15, 1910, ch. 33, §§ 1, 2, 36 Stat. 194.)
+(Feb. 15, 1910, ch. 33, §§ 1, 2, 36 Stat. 194.)
 
 **Editorial Notes**
 
@@ -337,11 +337,11 @@ The right to alter, amend, or repeal this section is expressly reserved.
 
 The first sentence hereof is section 1 and the last sentence section 2 of act Feb. 15, 1910, entitled “An Act to declare Big Tarkio River, in Holt and Atchison counties, Missouri, nonnavigable”.
 
-### § 25. Cache River, Arkansas
+### § 25. Cache River, Arkansas
 
 The Cache River in the State of Arkansas is declared to be a nonnavigable stream within the meaning of the Constitution and laws of the United States. This provision shall become void after one year from July 27, 1916, unless within said period the Legislature of Arkansas shall pass an act expressly approving this declaration. The right of the Congress to alter, amend, or repeal this section is expressly reserved.
 
-(July 27, 1916, ch. 260, § 1, 39 Stat. 399.)
+(July 27, 1916, ch. 260, § 1, 39 Stat. 399.)
 
 **Editorial Notes**
 
@@ -353,7 +353,7 @@ Section was a provision of section 1 of act July 27, 1916, popularly known as th
 
 See Arkansas Laws 1917, ch. 2, act 406.
 
-### § 26. Calumet River, Cook County, Illinois, old channel
+### § 26. Calumet River, Cook County, Illinois, old channel
 
 The portion of the old channel of the Calumet River in the northwest quarter of section thirty, township thirty-seven north, range fifteen east, of the third principal meridian, in Cook County, Illinois, which lies outside of the new channel lines as established by the United States and shown on “Map of the Calumet River, Illinois, from Lake Michigan to Calumet Lake, to accompany report of W. G. Ewing, United States attorney to the Attorney-General, respecting cession of right of way for improvement of said river under Act of Congress approved July fifth, eighteen hundred and eighty-four,” is hereby abandoned as navigable water from and after the time that a navigable channel shall be cut through said quarter section within the new channel lines of the river as shown on the said map.
 
@@ -367,13 +367,13 @@ The portion of the old channel of the Calumet River in the north quarter of frac
 
 Act of Congress approved July 5, 1884, referred to in text, is act July 5, 1884, ch. 229, 23 Stat. 143, which provided in part for the appropriation of $50,000 for the continuing improvement of the Calumet River, provided that no part of such appropriation be expended until the right of way should have been conveyed to the United States, free from expense, and the United States released from liability to adjacent property owners, to the satisfaction of the Secretary of War.
 
-### § 26a. Additional portion of Calumet River, old channel, abandoned as navigable water
+### § 26a. Additional portion of Calumet River, old channel, abandoned as navigable water
 
 The portion of the old channel of the Calumet River in sections eighteen and nineteen, township thirty-seven north, range fifteen east, of the third principal meridian, in Cook County, Illinois, which lies outside of the new channel lines established by the United States and shown on the map referred to in section 26 of this title, and which lies outside of the exterior limits of the turning basin to be established on said Calumet River in said sections, is abandoned as navigable water of the United States from and after the time when the United States shall have secured title to the land necessary for the establishment of the turning basin at some point, to be approved by the Chief of Engineers, between One hundred and thirteenth Street and One hundred and seventeenth Street in the city of Chicago.
 
-(Mar. 4, 1913, ch. 144, § 1, 37 Stat. 816.)
+(Mar. 4, 1913, ch. 144, § 1, 37 Stat. 816.)
 
-### § 26b. Portion of Calumet River, Chicago, as nonnavigable stream
+### § 26b. Portion of Calumet River, Chicago, as nonnavigable stream
 
 The portion of the Calumet River, in the city of Chicago, county of Cook, State of Illinois, lying between the intersections of this river with the two lines described below, is a nonnavigable stream within the meaning of the Constitution and laws of the United States:
 
@@ -383,9 +383,9 @@ Beginning at a point five hundred and eighty-five feet east of the west line and
 
 The right to alter, amend, or repeal this section is expressly reserved.
 
-(June 14, 1937, ch. 338, §§ 2, 3, 50 Stat. 258, 259.)
+(June 14, 1937, ch. 338, §§ 2, 3, 50 Stat. 258, 259.)
 
-### § 27. Chicago River at Chicago, Illinois
+### § 27. Chicago River at Chicago, Illinois
 
 All of that portion of the West Fork of the South Branch of the Chicago River in the county of Cook and State of Illinois, extending west from the west line of the collateral channel of the sanitary district of Chicago, in the northwest quarter of section 36, township 39 north, range 13 east, of the third principal meridian, is declared to be a nonnavigable stream within the meaning of the Constitution and laws of the United States. The right of Congress to alter, amend, or repeal this provision is expressly reserved.
 
@@ -393,13 +393,13 @@ The Act of September 19, 1890, making appropriations for the construction, repai
 
 As soon as the city of Chicago, or any other governmental agency or any corporation thereunto duly authorized by the Secretary of the Army, shall have constructed, after June 7, 1924, a new channel for the South Branch of the Chicago River between West Polk Street and West Nineteenth Street in said city of Chicago, then, and in that event, so much of the channel of the South Branch of the Chicago River as shall be superseded and replaced by said new channel in accordance with the permit of the Secretary of the Army shall be discontinued and abandoned.
 
-(Jan. 24, 1923, ch. 33, §§ 1, 2, 42 Stat. 1171; Feb. 27, 1923, ch. 142, 42 Stat. 1323; June 7, 1924, ch. 337, 43 Stat. 646; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Jan. 24, 1923, ch. 33, §§ 1, 2, 42 Stat. 1171; Feb. 27, 1923, ch. 142, 42 Stat. 1323; June 7, 1924, ch. 337, 43 Stat. 646; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 7 of the Act of September 19, 1890, referred to in text, is section 7 of act Sept. 19, 1890, ch. 907, 26 Stat. 454, as amended generally by act July 13, 1892, ch. 158, § 3, 27 Stat. 110, which prohibited construction of certain structures in the navigable waters of the United States, with certain conditions and exceptions, and is not classified to the Code. Provisions similar to those in section 7 of act Sept. 19, 1890, were subsequently enacted by sections 9 and 10 of act Mar. 3, 1899, ch. 425, 30 Stat. 1151, which are classified, respectively, to sections 401 and 403 of this title.
+Section 7 of the Act of September 19, 1890, referred to in text, is section 7 of act Sept. 19, 1890, ch. 907, 26 Stat. 454, as amended generally by act July 13, 1892, ch. 158, § 3, 27 Stat. 110, which prohibited construction of certain structures in the navigable waters of the United States, with certain conditions and exceptions, and is not classified to the Code. Provisions similar to those in section 7 of act Sept. 19, 1890, were subsequently enacted by sections 9 and 10 of act Mar. 3, 1899, ch. 425, 30 Stat. 1151, which are classified, respectively, to sections 401 and 403 of this title.
 
 **Codification**
 
@@ -415,25 +415,25 @@ The last paragraph of this section is from act June 7, 1924.
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 27a. Chicago River, West Fork of South Branch
+### § 27a. Chicago River, West Fork of South Branch
 
 That portion of the West Fork of the South Branch of the Chicago River in Cook County, Illinois, lying between the west line (produced north) of the Collateral Channel of the Sanitary District of Chicago, in the northwest quarter of section 36, township 39 north, range 13 east, third principal meridian, and a line one thousand three hundred feet east of and parallel to the west line of section 30 (section line in South Western Avenue), township 39 north, range 13 east, third principal meridian, in the city of Chicago, Illinois, as the same now exists or may hereafter be extended, is declared to be a nonnavigable stream within the meaning of the Constitution and laws of the United States.
 
 The right to alter, amend, or repeal this section is expressly reserved.
 
-(Aug. 30, 1935, ch. 831, § 10, 49 Stat. 1048.)
+(Aug. 30, 1935, ch. 831, § 10, 49 Stat. 1048.)
 
-### § 27b. Chicago River, West arm of South Fork of South Branch
+### § 27b. Chicago River, West arm of South Fork of South Branch
 
 The portion of the west arm of the South Fork of the South Branch of the Chicago River, as established by the ordinance of the city of Chicago on July 17, 1911, in the southwest quarter of section 32, township 39 north, range 14 east of the third principal meridian, in the city of Chicago, county of Cook, State of Illinois, lying westerly of a straight line drawn from a point in south dock line of the said west arm 203.94 feet westerly of the point of intersection of the south dock line of the said west arm with the west dock line of the east arm of the South Fork of the South Branch of the Chicago River as established by said city of Chicago ordinance of July 17, 1911, measured along the south dock line of said west arm, thence to a point in the north dock line of the said west arm said point being 278 feet westerly of the intersection of the north dock line of the said west arm with the west dock line of the South Fork of the South Branch of the Chicago River as established by said city of Chicago ordinance of July 17, 1911, measured along the north dock line of said west arm of the South Fork of the South Branch of the Chicago River, is declared to be and is on and after September 1, 1959 to be regarded as a nonnavigable water of the United States within the meaning of the Constitution and laws of the United States: *Provided*, That plans for a suitable bulkhead to retain any fill to be placed in the waterway shall be submitted to and approved by the Corps of Engineers, United States Army, prior to the placing of such fill.
 
 (Pub. L. 86–218, Sept. 1, 1959, 73 Stat. 448.)
 
-### § 28. Crum River; old channel at mouth, Delaware Bay
+### § 28. Crum River; old channel at mouth, Delaware Bay
 
 After the channel of the Crum River where the same empties into the Delaware River has been changed, diverted, and straightened under the authority given to Alba B. Johnson and Samuel M. Vauclain and the Baldwin Locomotive Works by Act July 27, 1916, chapter 260, the said Crum River, as so straightened, shall be a public navigable stream, and the course and channel of the said river, as it existed July 27, 1916, from the right-of-way of the Philadelphia and Reading Railway Company to the low-water line in the Delaware River shall be abandoned and vacated when the above-mentioned new channel shall have been completed to a depth of four feet at mean low water, with a bottom width of sixty-two feet and width of one hundred feet at mean low-water level: *Provided*, That the Government shall have such right, title, and interest in and to the bed of said new channel as will assure the public the right to the perpetual use of said channel for all the purposes of navigation and commerce.
 
-(July 27, 1916, ch. 260, § 1, 39 Stat. 393.)
+(July 27, 1916, ch. 260, § 1, 39 Stat. 393.)
 
 **Editorial Notes**
 
@@ -447,11 +447,11 @@ Section is from a provision of section 1 of act July 27, 1916, popularly known a
 
 The portion of that section authorizing the changing, diverting, and straightening of the channel of the river has been omitted as temporary and executed.
 
-### § 29. Cuivre River, Missouri
+### § 29. Cuivre River, Missouri
 
 Cuivre River, in the counties of Lincoln and Saint Charles, in the State of Missouri, being the dividing line, is declared not to be a navigable stream, and shall be so treated by the Secretary of the Army and all other authorities.
 
-(Mar. 23, 1900, ch. 88, 31 Stat. 50; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Mar. 23, 1900, ch. 88, 31 Stat. 50; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -459,19 +459,19 @@ Cuivre River, in the counties of Lincoln and Saint Charles, in the State of Miss
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 29a. East River, Wisconsin
+### § 29a. East River, Wisconsin
 
 All of that portion of the East River, in the county of Brown, State of Wisconsin, extending from Baird Street, in the city of Green Bay, east and south is declared to be a nonnavigable stream within the meaning of the Constitution and Laws of the United States of America.
 
 The right of Congress to alter, amend or repeal this section is expressly reserved.
 
-(Aug. 30, 1935, ch. 831, § 9, 49 Stat. 1048.)
+(Aug. 30, 1935, ch. 831, § 9, 49 Stat. 1048.)
 
-### § 30. Grand River, Missouri, above Brunswick
+### § 30. Grand River, Missouri, above Brunswick
 
 Grand River in the State of Missouri above the city of Brunswick, in the county of Chariton in said State, is declared to be not a navigable stream and shall be so treated by the Secretary of the Army and by all other authorities.
 
-(Feb. 15, 1905, ch. 574, 33 Stat. 715; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Feb. 15, 1905, ch. 574, 33 Stat. 715; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -479,29 +479,29 @@ Grand River in the State of Missouri above the city of Brunswick, in the county 
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 31. Iowa River, Iowa, above Toolsboro
+### § 31. Iowa River, Iowa, above Toolsboro
 
 So much of the Iowa River within the State of Iowa, as lies north of the town of Wapello, and so much of the said river within the State of Iowa, as lies between the town of Toolsboro and the town of Wapello, in the county of Louisa, shall not be deemed a navigable river or public highway, but dams and bridges may be constructed across it.
 
-(R.S. § 5248; Aug. 18, 1894, ch. 299, § 1, 28 Stat. 356.)
+(R.S. § 5248; Aug. 18, 1894, ch. 299, § 1, 28 Stat. 356.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5248 derived from Res. July 13, 1868, No. 55, 15 Stat. 257; act May 6, 1870, ch. 92, 16 Stat. 121.
+R.S. § 5248 derived from Res. July 13, 1868, No. 55, 15 Stat. 257; act May 6, 1870, ch. 92, 16 Stat. 121.
 
-The portion of this section relating to the Iowa river north of the town of Wapello is from R.S. § 5248.
+The portion of this section relating to the Iowa river north of the town of Wapello is from R.S. § 5248.
 
 The remainder the section, relating to so much of the river as lies between Toolsboro and Wapello, is from act Aug. 18, 1894.
 
-### § 32. Lake George, Mississippi
+### § 32. Lake George, Mississippi
 
 Lake George, in Yazoo County, in the State of Mississippi, is declared to be not a navigable water of the United States within the meaning of the laws enacted by the Congress for the preservation and protection of such waters.
 
 The right of Congress to alter, amend, or repeal this section is expressly reserved.
 
-(May 24, 1922, ch. 198, §§ 1, 2, 42 Stat. 552.)
+(May 24, 1922, ch. 198, §§ 1, 2, 42 Stat. 552.)
 
 **Editorial Notes**
 
@@ -509,11 +509,11 @@ The right of Congress to alter, amend, or repeal this section is expressly reser
 
 The two sentences comprising this section are respectively sections 1 and 2 of act May 24, 1922, entitled “An act declaring Lake George, Yazoo County, Mississippi, to be a nonnavigable stream”.
 
-### § 33. Little River, Arkansas, from Big Lake to Marked Tree
+### § 33. Little River, Arkansas, from Big Lake to Marked Tree
 
 Little River, from Big Lake in Mississippi County to Marked Tree in Poinsett County, Arkansas, is declared to be not a navigable waterway of the United States within the meaning of the laws enacted by Congress for the protection of such waterways.
 
-(Mar. 2, 1919, ch. 95, § 4, 40 Stat. 1287.)
+(Mar. 2, 1919, ch. 95, § 4, 40 Stat. 1287.)
 
 **Editorial Notes**
 
@@ -521,37 +521,37 @@ Little River, from Big Lake in Mississippi County to Marked Tree in Poinsett Cou
 
 Section is from section 4 of act Mar. 2, 1919, popularly known as the “Rivers and Harbors Appropriation Act of 1919”.
 
-### § 34. Mill Slough, Oregon
+### § 34. Mill Slough, Oregon
 
 Mill Slough, a tidal tributary of Coos Bay, lying within the limits of the city of Marshfield, State of Oregon, is declared to be not a navigable waterway of the United States, within the meaning of the laws enacted by Congress for the preservation and protection of such waterways, and the consent of Congress is given to the filling in of said slough by the said city of Marshfield.
 
 (Oct. 23, 1913, ch. 33, 38 Stat. 233.)
 
-### § 35. Mississippi River, West Channel, opposite La Crosse, Wisconsin
+### § 35. Mississippi River, West Channel, opposite La Crosse, Wisconsin
 
 The branch of the Mississippi River flowing between Grand Island and the mainland opposite the city of La Crosse, State of Wisconsin, and known as the West Channel, is declared unnavigable, and the said city of La Crosse is relieved of the necessity of maintaining a draw or pontoon bridge over said West Channel.
 
 (Feb. 23, 1901, ch. 470, 31 Stat. 804.)
 
-### § 36. Mosquito Creek, South Carolina
+### § 36. Mosquito Creek, South Carolina
 
 Mosquito Creek, in Colleton County, South Carolina, is declared to be a nonnavigable stream within the meaning of the Constitution and laws of the United States.
 
-(Aug. 8, 1917, ch. 49, § 15, 40 Stat. 268.)
+(Aug. 8, 1917, ch. 49, § 15, 40 Stat. 268.)
 
-### § 37. Nodaway River, Missouri
+### § 37. Nodaway River, Missouri
 
 Nodaway River, in the counties of Andrew, Holt, and Nodaway, in the State of Missouri, is declared to be not a navigable water of the United States within the meaning of the laws enacted by Congress for the preservation and protection of such waters.
 
 The right to alter, amend, or repeal this section is expressly reserved.
 
-(Feb. 15, 1910, ch. 32, §§ 1, 2, 36 Stat. 194.)
+(Feb. 15, 1910, ch. 32, §§ 1, 2, 36 Stat. 194.)
 
-### § 38. Oklawaha River, Florida; Kyle and Young Canal and “Morrison Landing extension” substituted
+### § 38. Oklawaha River, Florida; Kyle and Young Canal and “Morrison Landing extension” substituted
 
 Upon the conveyance to the United States, free of cost, title to the land occupied by what is known as the “Kyle and Young Canal” and the “Morrison Landing extension” of the same, on the Oklawaha River, in the State of Florida, together with title to a strip of land on the east side of said canal of such width as in the judgment of the Secretary of the Army may be required for the future widening of said canal and extension by the United States, the said canal and extension shall become a free public waterway of the United States in place of the natural bed of the river.
 
-(July 27, 1916, ch. 260, § 1, 39 Stat. 396; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(July 27, 1916, ch. 260, § 1, 39 Stat. 396; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -559,25 +559,25 @@ Upon the conveyance to the United States, free of cost, title to the land occupi
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 39. Ollala Slough, Oregon
+### § 39. Ollala Slough, Oregon
 
 All of that portion of Ollala Slough in Lincoln County, Oregon, above a point where a line that is one hundred and twenty rods south and running east and west and parallel with the section line between sections 8 and 17 in township 11 south, range 10 west of the Willamette meridian, crosses said stream, is declared to be a nonnavigable stream.
 
 (Feb. 26, 1917, ch. 119, 39 Stat. 937.)
 
-### § 40. One Hundred and Two River, Missouri
+### § 40. One Hundred and Two River, Missouri
 
 One Hundred and Two River south of the north boundary line of Andrew County, Missouri, as now located, is declared to be not a navigable water of the United States within the meaning of the laws enacted by Congress for the preservation and protection of such waters.
 
 The right to alter, amend, or repeal this section is expressly reserved.
 
-(Feb. 15, 1910, ch. 31, §§ 1, 2, 36 Stat. 194.)
+(Feb. 15, 1910, ch. 31, §§ 1, 2, 36 Stat. 194.)
 
-### § 41. Osage River, Missouri
+### § 41. Osage River, Missouri
 
 The Osage River in the State of Missouri above the point where the south line of sections 15 and 16 in township 40 north, of range 22 west, of the fifth principal meridian, and in the county of Benton, State of Missouri, crosses said river, is declared not to be a navigable stream, and shall be so treated by the Secretary of the Army and by all other authorities.
 
-(Mar. 4, 1904, ch. 393, 33 Stat. 58; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Mar. 4, 1904, ch. 393, 33 Stat. 58; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -591,13 +591,13 @@ This section superseded act June 24, 1902, ch. 1154, 32 Stat. 398, which declare
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 42. Platte River, Missouri
+### § 42. Platte River, Missouri
 
 The Platte River in the State of Missouri is declared to be a nonnavigable stream within the meaning of the Constitution and laws of the United States, and jurisdiction over said river is declared to be vested in the State of Missouri.
 
 The right of Congress to alter, amend, or repeal this section is expressly reserved.
 
-(Feb. 16, 1921, ch. 62, §§ 1, 2, 41 Stat. 1105.)
+(Feb. 16, 1921, ch. 62, §§ 1, 2, 41 Stat. 1105.)
 
 **Editorial Notes**
 
@@ -605,23 +605,23 @@ The right of Congress to alter, amend, or repeal this section is expressly reser
 
 The two sentences of this section are, respectively, from sections 1 and 2 of act Feb. 16, 1921, entitled “An Act declaring the Platte River to be a nonnavigable stream”.
 
-### § 43. Saint Marys River, Ohio and Indiana
+### § 43. Saint Marys River, Ohio and Indiana
 
 Saint Marys River, Ohio and Indiana, is declared to be a nonnavigable stream within the meaning of the Constitution and laws of the United States.
 
-(Aug. 8, 1917, ch. 49, § 17, 40 Stat. 268.)
+(Aug. 8, 1917, ch. 49, § 17, 40 Stat. 268.)
 
-### § 44. Sturgeon Bay, Illinois
+### § 44. Sturgeon Bay, Illinois
 
 So much of the west fork of Sturgeon Bay within the county of Mercer and State of Illinois as lies west of the line between the east half and the west half of the east half of section 25, in township 14 north, range 6 west of the fourth principal meridian, and so much of the east fork of said Sturgeon Bay as lies north of the north line of section 30, in township 14 north, range 5 west of the fourth principal meridian, shall not be deemed navigable waters of the United States.
 
 (Feb. 7, 1907, No. 13, 34 Stat. 1421.)
 
-### § 45. Swan Creek, Toledo, Ohio
+### § 45. Swan Creek, Toledo, Ohio
 
 Swan Creek, a stream lying within the limits of the city of Toledo, State of Ohio, is declared to be not a navigable waterway of the United States within the meaning of the laws enacted by Congress for the preservation and protection of such waterways, and the consent of Congress is given for the filling in of said creek by the local authorities.
 
-(Mar. 4, 1915, ch. 142, § 13, 38 Stat. 1055.)
+(Mar. 4, 1915, ch. 142, § 13, 38 Stat. 1055.)
 
 **Editorial Notes**
 
@@ -629,13 +629,13 @@ Swan Creek, a stream lying within the limits of the city of Toledo, State of Ohi
 
 Section is from act Mar. 4, 1915, popularly known as the “Rivers and Harbors Appropriation Act of 1915”.
 
-### § 46. Tchula Lake, Mississippi
+### § 46. Tchula Lake, Mississippi
 
 Tchula Lake, in Holmes County, in the State of Mississippi, is declared to be a nonnavigable stream within the meaning of the Constitution and laws of the United States.
 
 The right of Congress to alter, amend, or repeal this section is expressly reserved.
 
-(July 1, 1922, ch. 266, §§ 1, 2, 42 Stat. 816.)
+(July 1, 1922, ch. 266, §§ 1, 2, 42 Stat. 816.)
 
 **Editorial Notes**
 
@@ -643,31 +643,31 @@ The right of Congress to alter, amend, or repeal this section is expressly reser
 
 The two sentences comprising this section are, respectively, sections 1 and 2 of act July 1, 1922, entitled “An act declaring Tchula Lake, Holmes County, Mississippi, to be a nonnavigable stream”.
 
-### § 47. Eagle Lake, Louisiana-Mississippi
+### § 47. Eagle Lake, Louisiana-Mississippi
 
 Eagle Lake, which lies partly within the limits of the State of Mississippi, in Warren County, and partly within the limits of the State of Louisiana, in Madison Parish, is declared to be a nonnavigable stream within the meaning of the Constitution and laws of the United States.
 
 The right to alter, amend, or repeal this section is expressly reserved.
 
-(June 2, 1926, ch. 445, §§ 1, 2, 44 Stat. 681.)
+(June 2, 1926, ch. 445, §§ 1, 2, 44 Stat. 681.)
 
-### § 48. Noxubee River, Mississippi
+### § 48. Noxubee River, Mississippi
 
 That portion of the Noxubee River in Noxubee County, in the State of Mississippi is declared to be a nonnavigable stream within the meaning of the Constitution and laws of the United States.
 
 The right of Congress to amend or repeal this section is expressly reserved.
 
-(Feb. 24, 1934, ch. 25, §§ 1, 2, 48 Stat. 356.)
+(Feb. 24, 1934, ch. 25, §§ 1, 2, 48 Stat. 356.)
 
-### § 49. Bayou Saint John in New Orleans
+### § 49. Bayou Saint John in New Orleans
 
 Bayou Saint John, in the city of New Orleans, Louisiana, is declared to be not a navigable water of the United States within the meaning of the laws enacted by Congress for the preservation and protection of such waters.
 
 The right to alter, amend, or repeal this section is expressly reserved.
 
-(June 5, 1936, ch. 530, §§ 1, 2, 49 Stat. 1484.)
+(June 5, 1936, ch. 530, §§ 1, 2, 49 Stat. 1484.)
 
-### § 50. Turtle Bay and Turtle Bayou, Texas
+### § 50. Turtle Bay and Turtle Bayou, Texas
 
 Turtle Bay and Turtle Bayou, in Chambers County, in the State of Texas, are declared to be nonnavigable waterways within the meaning of the Constitution and laws of the United States of America.
 
@@ -675,7 +675,7 @@ The existing project for Turtle Bayou, Texas, authorized by the Rivers and Harbo
 
 The right of Congress to alter, amend, or repeal this section is expressly reserved.
 
-(Mar. 10, 1937, ch. 36, §§ 1–3, 50 Stat. 28.)
+(Mar. 10, 1937, ch. 36, §§ 1–3, 50 Stat. 28.)
 
 **Editorial Notes**
 
@@ -683,29 +683,29 @@ The right of Congress to alter, amend, or repeal this section is expressly reser
 
 The Rivers and Harbors Act approved June 25, 1910, referred to in text, is act June 25, 1910, ch. 382, 36 Stat. 630, which is classified to sections 546, 564, and 643 of this title. For complete classification of this Act to the Code, see Tables.
 
-### § 51. Scajaquada Creek, New York
+### § 51. Scajaquada Creek, New York
 
 Scajaquada Creek, Erie County, New York, is declared to be nonnavigable east of a line one hundred and thirty feet west of the west line of Niagara Street, city of Buffalo, county of Erie, New York, within the meaning of the Constitution and laws of the United States.
 
 The right to alter, amend, or repeal this section is expressly reserved.
 
-(May 14, 1937, ch. 183, §§ 1, 2, 50 Stat. 165.)
+(May 14, 1937, ch. 183, §§ 1, 2, 50 Stat. 165.)
 
-### § 52. Park River, Connecticut
+### § 52. Park River, Connecticut
 
 The Park River, a minor tributary of the Connecticut River, located in Hartford County, Connecticut, is declared to be a nonnavigable waterway within the meaning of the Constitution and laws of the United States of America.
 
 The right of Congress to alter, amend, or repeal this section is expressly reserved.
 
-(May 24, 1937, ch. 246, §§ 1, 2, 50 Stat. 201.)
+(May 24, 1937, ch. 246, §§ 1, 2, 50 Stat. 201.)
 
-### § 53. Benton Harbor Canal, Michigan
+### § 53. Benton Harbor Canal, Michigan
 
 The Benton Harbor Canal at and above the west line of Ninth Street, in the city of Benton Harbor and State of Michigan, is declared to be not a navigable water of the United States within the meaning of the Constitution and laws of the United States.
 
 The right to alter, amend, or repeal this section is expressly reserved.
 
-(June 2, 1937, ch. 288, §§ 1, 3, 50 Stat. 243.)
+(June 2, 1937, ch. 288, §§ 1, 3, 50 Stat. 243.)
 
 **Editorial Notes**
 
@@ -713,13 +713,13 @@ The right to alter, amend, or repeal this section is expressly reserved.
 
 This section, referred to in text, was in the original “this Act”, meaning act June 2, 1937, ch. 288, 50 Stat. 243, sections 1 and 3 of which are classified to this section. Section 2 of the Act, which relates to abandonment of a portion of the Benton Harbor Canal project, is not classified to the Code.
 
-### § 53a. Additional portion of Benton Harbor Canal, abandoned as navigable water
+### § 53a. Additional portion of Benton Harbor Canal, abandoned as navigable water
 
 The Benton Harbor Canal, from the west line of Ninth Street extended northerly to the west line of Riverview Drive extended northerly in the city of Benton Harbor and State of Michigan, be, and the same is hereby, declared to be not a navigable water of the United States within the meaning of the Constitution and laws of the United States.
 
-(Pub. L. 88–88, § 1, Aug. 5, 1963, 77 Stat. 118.)
+(Pub. L. 88–88, § 1, Aug. 5, 1963, 77 Stat. 118.)
 
-### § 54. Burr Creek, Bridgeport, Connecticut
+### § 54. Burr Creek, Bridgeport, Connecticut
 
 That portion of Burr Creek in the city of Bridgeport, Connecticut, lying north of a line across the creek beginning at the point of intersection of the south side of Yacht Street extended and the west harbor line of the harbor lines established by the Secretary of War December 9, 1924, thence south eighty-five degrees forty-six minutes seventeen seconds east to the east harbor line of said creek, is declared to be not a navigable water of the United States within the meaning of the Constitution and laws of the United States.
 
@@ -727,7 +727,7 @@ Any project heretofore authorized by any Act of Congress, insofar as such projec
 
 The right to alter, amend, or repeal this section is expressly reserved.
 
-(Aug. 12, 1937, ch. 607, 50 Stat. 632; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Aug. 12, 1937, ch. 607, 50 Stat. 632; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -735,7 +735,7 @@ The right to alter, amend, or repeal this section is expressly reserved.
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 55. Bayou Savage (or Chantilly) in New Orleans
+### § 55. Bayou Savage (or Chantilly) in New Orleans
 
 Bayou Savage, also styled Bayou Chantilly, in the city of New Orleans, Louisiana, is declared to be a nonnavigable waterway within the meaning of the Constitution and laws of the United States.
 
@@ -743,7 +743,7 @@ The right to alter, amend, or repeal this section is expressly reserved.
 
 (Aug. 16, 1937, ch. 650, 50 Stat. 649.)
 
-### § 56. Fort Point Channel and South Bay, Boston, Massachusetts
+### § 56. Fort Point Channel and South Bay, Boston, Massachusetts
 
 The portion of the tidewaters in the waterway in which is located Fort Point Channel and South Bay in the city of Boston, Massachusetts, lying above the easterly side of the highway bridge over Fort Point Channel at Dorchester Avenue in the city of Boston is declared to be a nonnavigable water of the United States within the meaning of the Constitution and laws of the United States.
 
@@ -751,7 +751,7 @@ The right to alter, amend, or repeal this section is expressly reserved.
 
 (May 13, 1955, ch. 37, 69 Stat. 48.)
 
-### § 57. Pike Creek, Wisconsin
+### § 57. Pike Creek, Wisconsin
 
 Pike Creek, in the State of Wisconsin, above the easterly side of the highway bridge at Sixth Avenue in the city of Kenosha is declared to be a nonnavigable stream within the meaning of the Constitution and laws of the United States.
 
@@ -759,7 +759,7 @@ The right to alter, amend, or repeal this section is expressly reserved.
 
 (July 26, 1955, ch. 377, 69 Stat. 373.)
 
-### § 58. Acushnet River section of New Bedford and Fairhaven Harbor, Massachusetts
+### § 58. Acushnet River section of New Bedford and Fairhaven Harbor, Massachusetts
 
 The portion of the waterway in the city of New Bedford and the towns of Fairhaven and Acushnet lying north of the Coggeshall Street Bridge (north 41 degrees 31 minutes 00 seconds), is declared to be a nonnavigable water of the United States within the meaning of the Constitution and laws of the United States. Any project heretofore authorized by any Act of Congress, insofar as such project relates to the above-described portions of the Acushnet River section of New Bedford and Fairhaven Harbor, is hereby abandoned.
 
@@ -767,7 +767,7 @@ The right to alter, amend, or repeal this section is expressly reserved.
 
 (Aug. 3, 1955, ch. 495, 69 Stat. 443.)
 
-### § 59. West River in West Haven, Connecticut
+### § 59. West River in West Haven, Connecticut
 
 The portion of the waterway in which is located the West River in the town of West Haven, Connecticut, and the city of New Haven, Connecticut, lying northerly of a line extending north 85 degrees 54 minutes 43.5 seconds east, from a point (1,158.535 feet from the most westerly corner of the existing bulkhead and pier line) whose coordinates in the Corps of Engineers Harbor Line System are north 4,616.76 and west 9,450.80, is declared to be a nonnavigable water of the United States within the meaning of the Constitution and laws of the United States.
 
@@ -779,7 +779,7 @@ The right to alter, amend, or repeal this section is expressly reserved.
 
 (Aug. 9, 1955, ch. 649, 69 Stat. 576.)
 
-### § 59a. Back Cove, Portland, Maine
+### § 59a. Back Cove, Portland, Maine
 
 **(a) Portion declared nonnavigable**
 
@@ -795,39 +795,39 @@ The right to alter, amend, or repeal this section is expressly reserved.
 
 (Pub. L. 85–126, Aug. 13, 1957, 71 Stat. 344.)
 
-### § 59b. Bayous Terrebonne and LeCarpe, Louisiana
+### § 59b. Bayous Terrebonne and LeCarpe, Louisiana
 
 Bayou Terrebonne west of Barrow Street and Bayou LeCarpe west of the Intracoastal Waterway in the city of Houma, State of Louisiana, are declared to be not navigable waters of the United States within the meaning of the Constitution and laws of the United States.
 
 The right to alter, amend, or repeal this section is expressly reserved.
 
-(Pub. L. 86–226, §§ 2, 3, Sept. 8, 1959, 73 Stat. 455.)
+(Pub. L. 86–226, §§ 2, 3, Sept. 8, 1959, 73 Stat. 455.)
 
-### § 59c. East River, New York
+### § 59c. East River, New York
 
 That portion of the East River, in New York County, State of New York, lying between the south line of East Seventeenth Street, extended eastwardly, the United States pierhead line as it existed on July 1, 1965, and the south line of East Thirtieth Street, extended eastwardly, is hereby declared to be not a navigable water of the United States within the meaning of the Constitution and the laws of the United States.
 
-(Pub. L. 89–298, title III, § 307, Oct. 27, 1965, 79 Stat. 1094.)
+(Pub. L. 89–298, title III, § 307, Oct. 27, 1965, 79 Stat. 1094.)
 
-### § 59c–1. East and Hudson Rivers, New York
+### § 59c–1. East and Hudson Rivers, New York
 
 Those portions of the East and Hudson Rivers in New York County, State of New York, lying shoreward of a line within the United States Pierhead Line as it exists on August 13, 1968, and bounded on the north by the north side of Spring Street extended westerly and the south side of Robert F. Wagner, Senior Place extended eastwardly, are hereby declared to be nonnavigable waters of the United States within the meaning of the laws of the United States. This declaration shall apply only to portions of the above-described area which are bulkheaded and filled. Plans for bulkheading and filling shall be approved by the Secretary of the Army, acting through the Chief of Engineers, on the basis of engineering studies to determine the location and structural stability of the bulkheading and filling in order to preserve and maintain the remaining navigable waterway. Local interests shall reimburse the Federal Government for any engineering costs incurred under this section.
 
-(Pub. L. 90–483, title I, § 113, Aug. 13, 1968, 82 Stat. 736.)
+(Pub. L. 90–483, title I, § 113, Aug. 13, 1968, 82 Stat. 736.)
 
-### § 59c–2. East River, New York
+### § 59c–2. East River, New York
 
 If the Secretary of the Army, acting through the Chief of Engineers, finds that the proposed project to be erected at the location to be declared non-navigable under this section is in the public interest, on the basis of engineering studies to determine the location and structural stability of the bulkheading and filling and permanent pile-supported structures in order to preserve and maintain the remaining navigable waterway and on the basis of environmental studies conducted pursuant to the National Environmental Policy Act of 1969 [42 U.S.C. 4321 et seq.], then those portions of the East River in New York County, State of New York, bounded and described as follows are hereby declared to be not navigable waters of the United States within the meaning of the laws of the United States, and the consent of Congress is hereby given to the filling in of all or any part thereof or the erection of permanent pile-supported structures thereon: That portion of the East River in New York County, State of New York, lying shoreward of a line with the United States pierhead line as it exists on March 7, 1974, bounded on the north by the south side of Rutgers Slip extended easterly, and bounded on the south by the southeasterly border of Battery Park at a point adjacent to the westerly end of South Street extended south by southwest, is hereby declared to be non-navigable waters of the United States. This declaration shall apply only to portions of the above-described area which are bulkheaded and filled or occupied by permanent pile-supported structures. Plans for bulkheading and filling and permanent pile-supported structures shall be approved by the Secretary of the Army, acting through the Chief of Engineers. Local interests shall reimburse the Federal Government for engineering and all other costs incurred under this section.
 
-(Pub. L. 93–251, title I, § 51, Mar. 7, 1974, 88 Stat. 26.)
+(Pub. L. 93–251, title I, § 51, Mar. 7, 1974, 88 Stat. 26.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-### § 59c–3. Queens County, New York
+### § 59c–3. Queens County, New York
 
 **(a) Description of nonnavigable area** Subject to subsections (b) and (c), the area of Long Island City, Queens County, New York, that—
 
@@ -859,21 +859,21 @@ The declaration of nonnavigability under subsection (a) shall apply only to thos
 
 **(2)** requires an improvement described in subsection (b)(2) that is subject to a permit under an applicable Federal law, and the improvement is not commenced by the date that is 5 years after the date of issuance of the permit.
 
-(Pub. L. 104–303, title V, § 556, Oct. 12, 1996, 110 Stat. 3782.)
+(Pub. L. 104–303, title V, § 556, Oct. 12, 1996, 110 Stat. 3782.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b)(2)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(2)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-### § 59d. River Raisin, Michigan
+### § 59d. River Raisin, Michigan
 
 The old channel of the River Raisin in Monroe County, Michigan, lying between the Monroe Harbor range front light and Raisin Point, its entrance into Lake Erie, is declared to be not a navigable stream of the United States within the meaning of the Constitution and the laws of the United States, and the consent of Congress is hereby given for the filling in of the old channel by the riparian owners on such channel.
 
-(Pub. L. 89–298, title III, § 308, Oct. 27, 1965, 79 Stat. 1094.)
+(Pub. L. 89–298, title III, § 308, Oct. 27, 1965, 79 Stat. 1094.)
 
-### § 59e. Bayou Lafourche, Louisiana
+### § 59e. Bayou Lafourche, Louisiana
 
 Bayou Lafourche, in the State of Louisiana, between Canal Boulevard, city of Thibodaux, Parish of Lafourche, State of Louisiana, and the head of the bayou at its junction with the Mississippi River levee at the city of Donaldsonville, Parish of Ascension, State of Louisiana, is hereby declared to be a nonnavigable waterway of the United States within the meaning of the laws of the United States. The existing project for Bayou Lafourche, Louisiana, authorized by the Acts of August 30, 1935 (49 Stat. 1028) and July 14, 1960 (74 Stat. 480) is hereby deauthorized in the reach of Bayou Lafourche herein declared nonnavigable.
 
@@ -891,33 +891,33 @@ The provisions of the Acts of August 30, 1935 (49 Stat. 1028) and July 14, 1960 
 
 **Portion of Bayou Lafourche Declared To Be Navigable Waterway**
 
-Pub. L. 101–595, title III, § 314, Nov. 16, 1990, 104 Stat. 2987, provided that: “Bayou Lafourche, in the State of Louisiana, between the Percy Brown Road (Hwy 648), city of Thibodaux, parish of Lafourche, and the Southern Pacific Railroad bridge crossing the bayou, city of Thibodaux, parish of Lafourche, is declared to be navigable waterway of the United States under chapter 11 of title 33, United States Code.”
+Pub. L. 101–595, title III, § 314, Nov. 16, 1990, 104 Stat. 2987, provided that: “Bayou Lafourche, in the State of Louisiana, between the Percy Brown Road (Hwy 648), city of Thibodaux, parish of Lafourche, and the Southern Pacific Railroad bridge crossing the bayou, city of Thibodaux, parish of Lafourche, is declared to be navigable waterway of the United States under chapter 11 of title 33, United States Code.”
 
-### § 59e–1. Additional portion of Bayou Lafourche, Louisiana
+### § 59e–1. Additional portion of Bayou Lafourche, Louisiana
 
 Bayou Lafourche, in the State of Louisiana, between Canal Boulevard, city of Thibodaux, parish of Lafourche and the Southern Pacific Railroad bridge crossing the bayou, city of Thibodaux, parish of Lafourche, is hereby declared to be a nonnavigable waterway of the United States within the meaning of the General Bridge Act of 1946 (33 U.S.C. 525 et seq.).
 
-(Pub. L. 99–307, § 5, May 19, 1986, 100 Stat. 447.)
+(Pub. L. 99–307, § 5, May 19, 1986, 100 Stat. 447.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 525 of this title and Tables.
+The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 525 of this title and Tables.
 
-### § 59f. Boston Inner Harbor and Fort Point Channel, Massachusetts
+### § 59f. Boston Inner Harbor and Fort Point Channel, Massachusetts
 
 That portion of Boston Inner Harbor and Fort Point Channel in Suffolk County, Commonwealth of Massachusetts, lying within the following described area is hereby declared to be not a navigable water of the United States within the meaning of the laws of the United States: Beginning at the intersection of the northeasterly sideline of Northern Avenue and the westerly United States Pierhead Line of the Fort Point Channel and running northwesterly by the northwesterly sideline of Northern Avenue to the westerly sideline of Atlantic Avenue: thence turning and running northerly and northwesterly by the westerly sideline of Atlantic Avenue and of Commercial Street to the southeasterly sideline of Hanover Street; thence turning and running northeasterly by the southeasterly sideline of Hanover Street to the southwesterly property line of the United States Coast Guard Base; thence turning and running southeasterly by the southwesterly property line of the United States Coast Guard Base to the southeasterly property line of the United States Coast Guard Base; thence turning and running northeasterly by the southeasterly property line of the United States Coast Guard Base extended to the United States Pierhead Line; thence turning and running southeasterly, southerly and southwesterly by the United States Pierhead Line, to the point of beginning.
 
 (Pub. L. 90–312, May 18, 1968, 82 Stat. 125.)
 
-### § 59g. Steele and Washington Bayous, and Lake Washington, Mississippi
+### § 59g. Steele and Washington Bayous, and Lake Washington, Mississippi
 
 Steele Bayou, in Warren, Issaquena, Sharkey, and Washington Counties, Mississippi, Washington Bayou, in Issaquena and Washington Counties, Mississippi, and Lake Washington, in Washington County, Mississippi, are hereby declared to be nonnavigable within the meaning of the laws of the United States.
 
-(Pub. L. 90–483, title I, § 108(a), Aug. 13, 1968, 82 Stat. 735.)
+(Pub. L. 90–483, title I, § 108(a), Aug. 13, 1968, 82 Stat. 735.)
 
-### § 59h. San Francisco, California, Waterfront Area
+### § 59h. San Francisco, California, Waterfront Area
 
 **(a) Area to be declared nonnavigable**
 
@@ -931,29 +931,29 @@ The declaration of nonnavigability under subsection (a) applies only to those pa
 
 Congress finds and declares that the area described in subsection (a) contains the seawall, piers, and wharves that comprise the Embarcadero Historic District listed on the National Register of Historic Places on May 12, 2006.
 
-(Pub. L. 90–483, title I, § 114, Aug. 13, 1968, 82 Stat. 736; Pub. L. 116–260, div. AA, title III, § 316(a), Dec. 27, 2020, 134 Stat. 2706.)
+(Pub. L. 90–483, title I, § 114, Aug. 13, 1968, 82 Stat. 736; Pub. L. 116–260, div. AA, title III, § 316(a), Dec. 27, 2020, 134 Stat. 2706.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Amendments**
 
 2020—Pub. L. 116–260 amended section generally. Prior to amendment, section related to Northern Embarcadero area, San Francisco, California.
 
-### § 59h–1. Repealed. Pub. L. 116–260, div. AA, title III, § 316(b), Dec. 27, 2020, 134 Stat. 2706
+### § 59h–1. Repealed. Pub. L. 116–260, div. AA, title III, § 316(b), Dec. 27, 2020, 134 Stat. 2706
 
-Section, Pub. L. 110–114, title V, § 5052, Nov. 8, 2007, 121 Stat. 1211, related to area of nonnavigability in the San Francisco, California, waterfront area.
+Section, Pub. L. 110–114, title V, § 5052, Nov. 8, 2007, 121 Stat. 1211, related to area of nonnavigability in the San Francisco, California, waterfront area.
 
-### § 59i. Patapsco River, Maryland
+### § 59i. Patapsco River, Maryland
 
 That portion of the Northwest Branch of the Patapsco River located generally south of Pratt Street, east of Light Street, north of Key Highway, in the city of Baltimore, State of Maryland, and being more particularly described as all of that portion of the Northwest Branch of the Patapsco River lying west of a series of lines beginning at the point formed by the intersection of the south side of Pratt Street, as now laid out, and the west side of Pier 3 and running thence binding on the west side of Pier 3, south 04 degrees 19 minutes 47 seconds east 726.59 feet to the southwest corner of Pier 3; thence crossing the Northwest Branch of the Patapsco River, south 23 degrees 01 minutes 15 seconds west 855.36 feet to the point formed by the intersection of the existing pierhead and bulkhead line and the east side of Battery Avenue, last said point of intersection being the end of the first line of the fourth parcel of land conveyed by J. and F. Realty, Incorporated to Allegheny Pepsi-Cola Bottling Company by deed dated December 22, 1965, and recorded among the Land Record of Baltimore City in Liber J. F. C. numbered 2006 folio 345, the location of said pierhead and bulkhead line is based upon the Corps of Engineers, Baltimore District, Baltimore, Maryland, coordinate value for station LIV of said pierhead and bulkhead line, the coordinate value as referred to the Lambert grid plane coordinate system for the State of Maryland of said station LIV being east 2,111,161.40, north 527,709.27 and thence binding on the east side of Battery Avenue, south 03 degrees 09 minutes 07 seconds east 568 feet, more or less, to intersect the north side of Key Highway as now laid out and located is hereby declared to be not a navigable stream of the United States within the meaning of the laws of the United States, and the consent of Congress is hereby given for the filling in of all or any part of the described area.
 
-(Pub. L. 90–483, title I, § 115, Aug. 13, 1968, 82 Stat. 736.)
+(Pub. L. 90–483, title I, § 115, Aug. 13, 1968, 82 Stat. 736.)
 
-### § 59j. Delaware River, Philadelphia County, Pennsylvania; permanent structures
+### § 59j. Delaware River, Philadelphia County, Pennsylvania; permanent structures
 
 That portion of the Delaware River in Philadelphia County, Commonwealth of Pennsylvania, lying between all that certain lot or piece of ground situate in the second and fifth wards of the city of Philadelphia described as follows:
 
@@ -965,7 +965,7 @@ thence extending along the south house line of Callowhill Street produced south 
 
 thence extending along the said pierhead line the following courses and distances, (1) south 17 degrees 52 minutes 48.5 seconds west, 605.262 feet to a point; (2) south 14 degrees 14 minutes 14.7 seconds west, 1,372.530 feet to a point; (3) south 10 degrees 37 minutes 35.3 seconds west, 1,252.160 feet to a point; (4) south 8 degrees 23 minutes 50.4 seconds west, 1,450.250 feet to a point; (5) south 2 degrees 22 minutes 45.9 seconds west, 1,221.670 feet to a point; (6) south 1 degree 4 minutes 36 seconds east, 1,468.775 feet to a point on the north house line of Catherine Street extended, thence extending north 76 degrees 56 minutes 29.2 seconds west, the distance of 555.911 feet to the first mentioned point and place of beginning is hereby declared not to be a navigable water of the United States within the meaning of the Constitution and laws of the United States, and the Consent of Congress is hereby given, for the filling or erection of permanent structures in all or any part of the described area.
 
-(Pub. L. 92–605, § 1, Oct. 31, 1972, 86 Stat. 1493.)
+(Pub. L. 92–605, § 1, Oct. 31, 1972, 86 Stat. 1493.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -975,9 +975,9 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Permanent Structures in Above-Described Area; Approval of Plans**
 
-Pub. L. 92–605, § 2, Oct. 31, 1972, 86 Stat. 1494, provided that: “This declaration [this section] shall apply only to portions of the above-described area which are filled or occupied by permanent structures. No such filling or erection of structures in the above-described area shall be commenced until the plans therefor have been approved by the Secretary of the Army who shall, prior to granting such approval, give consideration to all factors affecting the general public interest and the impact of the proposed work on the environment.”
+Pub. L. 92–605, § 2, Oct. 31, 1972, 86 Stat. 1494, provided that: “This declaration [this section] shall apply only to portions of the above-described area which are filled or occupied by permanent structures. No such filling or erection of structures in the above-described area shall be commenced until the plans therefor have been approved by the Secretary of the Army who shall, prior to granting such approval, give consideration to all factors affecting the general public interest and the impact of the proposed work on the environment.”
 
-### § 59j–1. Declaration of nonnavigability for portions of the Delaware River
+### § 59j–1. Declaration of nonnavigability for portions of the Delaware River
 
 **(a) Area to be declared non-navigable; public interest** Unless the Secretary finds, after consultation with local and regional public officials (including local and regional public planning organizations), that the proposed projects in Philadelphia, Pennsylvania, to be undertaken within the boundaries described below, are not in the public interest then, subject to subsections (b) and (c) of this section, those portions of the Delaware River, bounded and described as follows, are declared to be non-navigable waters of the United States:
 
@@ -1009,13 +1009,13 @@ The declaration under subsection (a) shall apply only to those parts of the area
 
 If, 20 years from November 17, 1988, any area or part thereof described in subsection (a) is not bulkheaded or filled or occupied by permanent structures, including marina facilities, in accordance with the requirements set out in subsection (b) of this section, or if work in connection with any activity permitted in subsection (b) is not commenced within 5 years after issuance of such permits, then the declaration of non-navigability for such area or part thereof shall expire. Notwithstanding the preceding sentence, the declaration of nonnavigability for the area described in subsection (a)(5), or any part thereof, shall not expire.
 
-(Pub. L. 100–676, § 38, Nov. 17, 1988, 102 Stat. 4032; Pub. L. 110–114, title III, § 3181(g), Nov. 8, 2007, 121 Stat. 1162; Pub. L. 114–322, title I, § 1310, Dec. 16, 2016, 130 Stat. 1694.)
+(Pub. L. 100–676, § 38, Nov. 17, 1988, 102 Stat. 4032; Pub. L. 110–114, title III, § 3181(g), Nov. 8, 2007, 121 Stat. 1162; Pub. L. 114–322, title I, § 1310, Dec. 16, 2016, 130 Stat. 1694.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Codification**
 
@@ -1033,31 +1033,31 @@ The text of the boundary descriptions contained in pars. (1) to (5) of subsec. (
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 100–676, set out as a note under section 2201 of this title.
 
-### § 59k. Wicomico River, Maryland
+### § 59k. Wicomico River, Maryland
 
 **(a)** If the Secretary of the Army acting through the Chief of Engineers, finds that the proposed project in Salisbury, Maryland, to be undertaken at the locations to be declared nonnavigable under this section is in the public interest, on the basis of engineering studies to determine the location and structural stability of any bulkheading and filling and permanent pile-supported structures, in order to preserve and maintain the remaining navigable waterway and on the basis of environmental studies conducted pursuant to the National Environmental Policy Act of 1969 [42 U.S.C. 4321 et seq.], then those portions of the South Prong of the Wicomico River in Wicomico County, State of Maryland, bounded and described as follows, are declared to be not a navigable water of the United States within the meaning of the laws of the United States, and the consent of Congress is hereby given, consistent with subsection (b) of this section, to the filling in of a part thereof or the erection of permanent pile-supported structures thereon: That portion of the South Prong of the Wicomico River in Salisbury, Maryland, bounded on the east by the west side of United States Route 13; on the west by the west side of the Mill Street Bridge; on the south by a line five feet landward from the present water’s edge at high tide extending the entire length of the South Prong from the east boundary at United States Route 13 to the west boundary at the Mill Street Bridge; and on the north by a line five feet landward from the present water’s edge at high tide extending the entire length of the South Prong from the east boundary at United States Route 13 to the west boundary at the Mill Street Bridge.
 
 **(b)** This declaration shall apply only to the portions of the areas described in subsection (a) which are bulkheaded and filled or occupied by permanent pile-supported structures. Plans for bulkheading and filling and permanent pile-supported structures shall be approved by the Secretary of the Army, acting through the Chief of Engineers. Such bulkheaded and filled areas or areas occupied by permanent pile-supported structures shall not reduce the existing width of the Wicomico River to less than sixty feet and a minimum depth of five feet shall be maintained within such sixty-foot width of the Wicomico River. Local interests shall reimburse the Federal Government for engineering and all other costs incurred under this section.
 
-(Pub. L. 93–251, title I, § 97, Mar. 7, 1974, 88 Stat. 40.)
+(Pub. L. 93–251, title I, § 97, Mar. 7, 1974, 88 Stat. 40.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-### § 59l. Nonapplicability of prohibitions and provisions for review and approval concerning wharves and piers
+### § 59l. Nonapplicability of prohibitions and provisions for review and approval concerning wharves and piers
 
 The prohibitions and provisions for review and approval concerning wharves and piers in waters of the United States as set forth in sections 403 and 565 of this title shall not apply to any body of water located entirely within one State which is, or could be, considered to be a navigable body of water of the United States solely on the basis of historical use in interstate commerce.
 
-(Pub. L. 94–587, § 154, Oct. 22, 1976, 90 Stat. 2932.)
+(Pub. L. 94–587, § 154, Oct. 22, 1976, 90 Stat. 2932.)
 
-### § 59m. Lake Oswego, Oregon; Lake Coeur d’Alene, Idaho; and Lake George, New York
+### § 59m. Lake Oswego, Oregon; Lake Coeur d’Alene, Idaho; and Lake George, New York
 
 For the purposes of section 403 of this title the following bodies of water are declared nonnavigable: Lake Oswego, Oregon; Lake Coeur d’Alene, Idaho; and Lake George, New York.
 
-(Pub. L. 94–587, § 162, Oct. 22, 1976, 90 Stat. 2934.)
+(Pub. L. 94–587, § 162, Oct. 22, 1976, 90 Stat. 2934.)
 
 **Editorial Notes**
 
@@ -1065,7 +1065,7 @@ For the purposes of section 403 of this title the following bodies of water are 
 
 “Section 403 of this title” substituted in text for “section 10 of the Act of March 3, 1899 (30 Stat. 1151) (33 U.S.C. 401)” as the probable intent of Congress in that section 10 of said act is set out as section 403 of this title while section 401 of this title is based on section 9 of the act of Mar. 3, 1899.
 
-### § 59n. Hudson River, Hudson County, New Jersey
+### § 59n. Hudson River, Hudson County, New Jersey
 
 **(a)** If the Secretary of the Army, acting through the Chief of Engineers, finds that the proposed project to be erected at the location to be declared nonnavigable under this section is in the public interest, on the basis of engineering studies to determine the location and structural stability of any bulkheading and filling and permanent pile-supported structure, in order to preserve and maintain the remaining navigable waterway and on the basis of environmental studies conducted pursuant to the National Environmental Policy Act of 1969 [42 U.S.C. 4321 et seq.], then that portion of the Hudson River in Hudson County, State of New Jersey, bounded and described as follows is hereby declared to be nonnavigable water of the United States within the meaning of the laws of the United States, and the consent of Congress is hereby given to the filling in of all or any part thereof and the erection of permanent pile-supported structures thereon:
 
@@ -1091,15 +1091,15 @@ Said parcel containing 8 acres being the same more or less.
 
 **(b)** The declaration in subsection (a) of this section shall apply only to portions of the above-described area which are either bulkheaded and filled or occupied by permanent pile-supported structures. Plans for bulkheading and filling and permanent pile-supported structures shall be approved by the Secretary of the Army, acting through the Chief of Engineers. Local interests shall reimburse the Federal Government for engineering and all other costs incurred under this section.
 
-(Pub. L. 94–587, § 178, Oct. 22, 1976, 90 Stat. 2937.)
+(Pub. L. 94–587, § 178, Oct. 22, 1976, 90 Stat. 2937.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-### § 59n–1. Caven Point, New Jersey
+### § 59n–1. Caven Point, New Jersey
 
 That portion of the Hudson River in the New York Bay consisting of—
 
@@ -1109,7 +1109,7 @@ That portion of the Hudson River in the New York Bay consisting of—
 
 more particularly described in the Congressional Record dated March 11, 1986, pages S2446–2447, is hereby declared to be not a navigable water of the United States within the meaning of the Constitution and the laws of the United States, except for the purposes of the Federal Water Pollution Control Act [33 U.S.C. 1251 et seq.].
 
-(Pub. L. 99–662, title XI, § 1118, Nov. 17, 1986, 100 Stat. 4237.)
+(Pub. L. 99–662, title XI, § 1118, Nov. 17, 1986, 100 Stat. 4237.)
 
 **Editorial Notes**
 
@@ -1117,9 +1117,9 @@ more particularly described in the Congressional Record dated March 11, 1986, pa
 
 For Congressional Record dated March 11, 1986, pages S2446–2447, referred to in text, see Cong. Rec., vol. 132, pt. 3, pp. 4342–4343, Mar. 11, 1986.
 
-The Federal Water Pollution Control Act, referred to in text, is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, referred to in text, is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
-### § 59o. Hackensack River, Hudson County, New Jersey
+### § 59o. Hackensack River, Hudson County, New Jersey
 
 **(a)** If the Secretary of the Army, acting through the Chief of Engineers finds that the proposed project to be erected at the location to be declared nonnavigable under this section is in the public interest, on the basis of engineering studies to determine the location and structural stability of any bulkheading and filling and permanent pile-supported structure, in order to preserve and maintain the remaining navigable waterway, and on the basis of environmental studies conducted pursuant to the National Environmental Policy Act of 1969 [42 U.S.C. 4321 et seq.], then those portions of the Hackensack River in Hudson County, State of New Jersey, bounded and described as follows are hereby declared to be nonnavigable waters of the United States within the meaning of the laws of the United States, and the consent of Congress is hereby given to the filling in of all or any part thereof and the erection of permanent pile-supported structures thereon:
 
@@ -1155,15 +1155,15 @@ Said parcel containing 67.6 acres being the same more or less.
 
 **(b)** The declaration in subsection (a) of this section shall apply only to portions of the described area which are either bulkheaded and filled or occupied by permanent pile-supported structures. Plans for bulkheading and filling and permanent pile-supported structures shall be approved by the Secretary of the Army, acting through the Chief of Engineers. Local interests shall reimburse the Federal Government for engineering and all other costs incurred under this section.
 
-(Pub. L. 94–587, § 179, Oct. 22, 1976, 90 Stat. 2938.)
+(Pub. L. 94–587, § 179, Oct. 22, 1976, 90 Stat. 2938.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-### § 59p. Kenduskeag Stream, Penobscot County, Maine
+### § 59p. Kenduskeag Stream, Penobscot County, Maine
 
 The Kenduskeag Stream, a minor tributary of the Penobscot River, located in Penobscot County, in the State of Maine, be, and the same is hereby, declared to be a nonnavigable waterway within the meaning of the Constitution and laws of the United States of America.
 
@@ -1171,11 +1171,11 @@ The right of Congress to alter, amend, or repeal this section is hereby expressl
 
 (July 11, 1947, ch. 236, 61 Stat. 316.)
 
-### § 59q. Erie Basin, Buffalo Harbor, New York
+### § 59q. Erie Basin, Buffalo Harbor, New York
 
 That portion of the Erie Basin in the Buffalo Harbor lying within the following described area is hereby declared to be not a navigable water of the United States within the meaning of the Constitution and the laws of the United States.
 
-(Pub. L. 96–520, § 1, Dec. 12, 1980, 94 Stat. 3033.)
+(Pub. L. 96–520, § 1, Dec. 12, 1980, 94 Stat. 3033.)
 
 **Editorial Notes**
 
@@ -1183,23 +1183,23 @@ That portion of the Erie Basin in the Buffalo Harbor lying within the following 
 
 The following described area, referred to in text, refers to the metes and bounds description of that portion of the Erie Basin in the Buffalo Harbor set out in the second paragraph of section 1 of Pub. L. 96–520, Dec. 12, 1980, 94 Stat. 3033–3035, which is not classified to the Code.
 
-### § 59q–1. Union Canal, Outer Buffalo Harbor, New York
+### § 59q–1. Union Canal, Outer Buffalo Harbor, New York
 
 The portion of the Union Canal, also known as the Union Ship Canal, an appendage of the Buffalo Outer Harbor, located in the City of Buffalo, State of New York, is declared to be a nonnavigable waterway of the United States within the meaning of the General Bridge Act of 1946 (33 U.S.C. 525, et seq.) from a point two hundred feet west of Fuhrmann Boulevard east to its terminus.
 
-(Pub. L. 100–202, § 101(*l*) [title III, § 332], Dec. 22, 1987, 101 Stat. 1329–358, 1329–384.)
+(Pub. L. 100–202, § 101(*l*) [title III, § 332], Dec. 22, 1987, 101 Stat. 1329–358, 1329–384.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 525 of this title and Tables.
+The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 525 of this title and Tables.
 
-### § 59r. Trent River, Craven County, North Carolina
+### § 59r. Trent River, Craven County, North Carolina
 
 Those portions of the Trent River in the city of New Bern, county of Craven, State of North Carolina, bounded and described in Committee Print 95–56 of the Committee on Public Works and Transportation of the House of Representatives are hereby declared to be nonnavigable waters of the United States within the meaning of the laws of the United States.
 
-(Pub. L. 96–520, § 3, Dec. 12, 1980, 94 Stat. 3036.)
+(Pub. L. 96–520, § 3, Dec. 12, 1980, 94 Stat. 3036.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1207,31 +1207,31 @@ Those portions of the Trent River in the city of New Bern, county of Craven, Sta
 
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-### § 59s. Green River, Washington
+### § 59s. Green River, Washington
 
 For the purposes of section 401 of this title, the portion of the Green River in the State of Washington lying upstream from that State Highway 516 bridge which is in existence on October 26, 1981, is hereby declared to be not a navigable waterway.
 
-(Pub. L. 97–68, § 2(b), Oct. 26, 1981, 95 Stat. 1040.)
+(Pub. L. 97–68, § 2(b), Oct. 26, 1981, 95 Stat. 1040.)
 
-### § 59t. Burnham Canal, Milwaukee, Wisconsin
+### § 59t. Burnham Canal, Milwaukee, Wisconsin
 
 The portion of the Burnham Canal, in Milwaukee, Wisconsin, which is underneath and west of a point one hundred feet east of South Eleventh Street is declared to be not a navigable water of the United States within the meaning of the Constitution and laws of the United States. The right to alter, amend, or repeal this section is hereby expressly reserved.
 
-(Pub. L. 97–468, title V, § 503, Jan. 14, 1983, 96 Stat. 2552.)
+(Pub. L. 97–468, title V, § 503, Jan. 14, 1983, 96 Stat. 2552.)
 
-### § 59u. Lawyer’s Ditch, Essex County, New Jersey
+### § 59u. Lawyer’s Ditch, Essex County, New Jersey
 
 The body of water known as Lawyer’s Ditch located at block 5,000 in the city of Newark, county of Essex, New Jersey, is declared to be a nonnavigable waterway of the United States within the meaning of the General Bridge Act of 1946 (33 U.S.C. 525 et seq.).
 
-(Pub. L. 99–307, § 3, May 19, 1986, 100 Stat. 446.)
+(Pub. L. 99–307, § 3, May 19, 1986, 100 Stat. 446.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 525 of this title and Tables.
+The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 525 of this title and Tables.
 
-### § 59v. Middle River, Maryland
+### § 59v. Middle River, Maryland
 
 **(a) Description**
 
@@ -1249,13 +1249,13 @@ Any project heretofore authorized by any Act of Congress, insofar as such projec
 
 The right to alter, amend, or repeal this section is hereby expressly reserved.
 
-(Pub. L. 99–662, title XI, § 1160, Nov. 17, 1986, 100 Stat. 4257.)
+(Pub. L. 99–662, title XI, § 1160, Nov. 17, 1986, 100 Stat. 4257.)
 
-### § 59w. Norton Basin and Jamaica Bay, New York
+### § 59w. Norton Basin and Jamaica Bay, New York
 
 The two portions of Norton Basin and Jamaica Bay, New York, that are particularly described in Committee Print 99–58 of the Committee on Public Works and Transportation of the House of Representatives are hereby declared to be nonnavigable waters of the United States for purposes of the navigation servitude.
 
-(Pub. L. 99–662, title XI, § 1168, Nov. 17, 1986, 100 Stat. 4259.)
+(Pub. L. 99–662, title XI, § 1168, Nov. 17, 1986, 100 Stat. 4259.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1263,7 +1263,7 @@ The two portions of Norton Basin and Jamaica Bay, New York, that are particularl
 
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-### § 59x. Exemption from General Bridge Act of 1946
+### § 59x. Exemption from General Bridge Act of 1946
 
 **(a) Waters declared nonnavigable**
 
@@ -1277,19 +1277,19 @@ The waters described in subsection (b) are declared to be nonnavigable waters of
 
 **(3)** terminates at drainage culverts on the west side of Interstate Highway 676.
 
-(Pub. L. 100–448, § 16, Sept. 28, 1988, 102 Stat. 1845; Pub. L. 100–457, title III, § 325, Sept. 30, 1988, 102 Stat. 2150.)
+(Pub. L. 100–448, § 16, Sept. 28, 1988, 102 Stat. 1845; Pub. L. 100–457, title III, § 325, Sept. 30, 1988, 102 Stat. 2150.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The General Bridge Act of 1946, referred to in subsec. (a), is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 525 of this title and Tables.
+The General Bridge Act of 1946, referred to in subsec. (a), is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 525 of this title and Tables.
 
 **Codification**
 
 Pub. L. 100–448 and Pub. L. 100–457 enacted identical sections.
 
-### § 59y. Declaration of nonnavigability for portions of Coney Island Creek and Gravesend Bay, New York
+### § 59y. Declaration of nonnavigability for portions of Coney Island Creek and Gravesend Bay, New York
 
 **(a) Area to be declared non-navigable; public interest**
 
@@ -1323,13 +1323,13 @@ The declaration under subsection (a) shall apply only to those parts of the area
 
 If, 20 years from November 17, 1988, any area or part thereof described in subsection (a) of this section is not bulkheaded or filled or occupied by permanent structures, including marina facilities, in accordance with the requirements set out in subsection (b) of this section, or if work in connection with any activity permitted in subsection (b) is not commenced within 5 years after issuance of such permits, then the declaration of non-navigability for such area or part thereof shall expire.
 
-(Pub. L. 100–676, § 39, Nov. 17, 1988, 102 Stat. 4039.)
+(Pub. L. 100–676, § 39, Nov. 17, 1988, 102 Stat. 4039.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1337,25 +1337,25 @@ The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pu
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 100–676, set out as a note under section 2201 of this title.
 
-### § 59z. Declaration of nonnavigability of bodies of water in Ridgefield, New Jersey
+### § 59z. Declaration of nonnavigability of bodies of water in Ridgefield, New Jersey
 
 The three bodies of water located at block 4004, lots 1 and 2, and block 4003, lot 1, in the Borough of Ridgefield, County of Bergen, New Jersey, which have their mouths at the Hackensack River at 40 degrees 49 minutes 58 seconds north latitude and 74 degrees 01 minute 46 seconds west longitude, 40 degrees 49 minutes 46 seconds north latitude and 74 degrees 01 minute 55 seconds west longitude, and 40 degrees 49 minutes 35 seconds north latitude and 74 degrees 02 minutes 04 seconds west longitude, respectively, and the body of water located at block 4006, lot 1, in the Borough of Ridgefield, County of Bergen, New Jersey, which has its mouth at the Hackensack River at 40 degrees 49 minutes 15 seconds north latitude and 74 degrees 01 minute 52 seconds west longitude, are declared to be nonnavigable waterways of the United States within the meaning of the General Bridge Act of 1946 (33 U.S.C. 525 et seq.) and section 401 of this title.
 
-(Pub. L. 100–676, § 54, Nov. 17, 1988, 102 Stat. 4046.)
+(Pub. L. 100–676, § 54, Nov. 17, 1988, 102 Stat. 4046.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 525 of this title and Tables.
+The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 525 of this title and Tables.
 
-### § 59aa. Nonnavigability of Wisconsin River
+### § 59aa. Nonnavigability of Wisconsin River
 
 The portion of the Wisconsin River above the hydroelectric dam at Prairie du Sac, Wisconsin, is hereby declared to be a nonnavigable waterway of the United States for purposes of title 46, including but not limited to the provisions of such title relating to vessel inspection and vessel licensure, and the other maritime laws of the United States.
 
-(Pub. L. 101–595, title III, § 318, Nov. 16, 1990, 104 Stat. 2988.)
+(Pub. L. 101–595, title III, § 318, Nov. 16, 1990, 104 Stat. 2988.)
 
-### § 59bb. Declaration of nonnavigability for portions of Lake Erie
+### § 59bb. Declaration of nonnavigability for portions of Lake Erie
 
 **(a) Area to be declared nonnavigable; public interest**
 
@@ -1367,19 +1367,19 @@ The declaration under subsection (a) shall apply only to those parts of the area
 
 **(c) Expiration date**
 
-If, 20 years from November 28, 1990, any area or part thereof described in the Committee print referred to in subsection (a) is not bulkheaded or filled or occupied by permanent structures, including marina facilities, in accordance with the requirements set out in subsection (b), or if work in connection with any activity permitting 1
+If, 20 years from November 28, 1990, any area or part thereof described in the Committee print referred to in subsection (a) is not bulkheaded or filled or occupied by permanent structures, including marina facilities, in accordance with the requirements set out in subsection (b), or if work in connection with any activity permitting 1
 
-<sup>1</sup>  So in original. Probably should be “permitted”.
+<sup>1</sup> So in original. Probably should be “permitted”.
 
 in subsection (b) is not commenced within 5 years after issuance of such permits, then the declaration of nonnavigability for such area or part thereof shall expire.
 
-(Pub. L. 101–640, title IV, § 408, Nov. 28, 1990, 104 Stat. 4647.)
+(Pub. L. 101–640, title IV, § 408, Nov. 28, 1990, 104 Stat. 4647.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1391,7 +1391,7 @@ Committee on Public Works and Transportation of House of Representatives treated
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 101–640, set out as a note under section 2201 of this title.
 
-### § 59bb–1. Declaration of nonnavigability for Lake Erie, New York
+### § 59bb–1. Declaration of nonnavigability for Lake Erie, New York
 
 **(a) Area to be declared nonnavigable; public interest**
 
@@ -1411,13 +1411,13 @@ The declaration under subsection (a) shall apply to those parts of the areas des
 
 If, 20 years from December 11, 2000, any area or part thereof described in subsection (a) is not occupied by permanent structures in accordance with the requirements set out in subsection (c), or if work in connection with any activity permitted in subsection (c) is not commenced within 5 years after issuance of such permits, then the declaration of nonnavigability for such area or part thereof shall expire.
 
-(Pub. L. 106–541, title III, § 346, Dec. 11, 2000, 114 Stat. 2614.)
+(Pub. L. 106–541, title III, § 346, Dec. 11, 2000, 114 Stat. 2614.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Codification**
 
@@ -1429,7 +1429,7 @@ The provisions of subsec. (b) of this section, which contain the text of the bou
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–541, set out as a note under section 2201 of this title.
 
-### § 59cc. Declaration of nonnavigability of portion of Hudson River, New York
+### § 59cc. Declaration of nonnavigability of portion of Hudson River, New York
 
 **(a) Declaration of nonnavigability**
 
@@ -1489,9 +1489,9 @@ Thence north 12°–24′–40′′ west, 33.92 feet;
 
 Thence north 54°–49′–00′′ east, 171.52 feet to a point in the United States Bulkhead Line approved by the Secretary of War, July 31, 1941;
 
-Thence north 12°–24′–40′′ west, along the United States Bulkhead Line approved by the Secretary of War, July 31, 1941, 62.26 feet to the point or place of beginning; 1
+Thence north 12°–24′–40′′ west, along the United States Bulkhead Line approved by the Secretary of War, July 31, 1941, 62.26 feet to the point or place of beginning; 1
 
-<sup>1</sup>  So in original. The semicolon probably should be a period.
+<sup>1</sup> So in original. The semicolon probably should be a period.
 
 **(c) Determination of public interest** The declaration made in subsection (a) shall not take effect if the Secretary of the Army (acting through the Chief of Engineers), using reasonable discretion, finds that the proposed project is not in the public interest—
 
@@ -1525,15 +1525,15 @@ The declaration made in subsection (a) shall apply only to those portions of the
 
 **(2)** the area surrounding such structure.
 
-(Pub. L. 102–240, title I, § 1078, Dec. 18, 1991, 105 Stat. 2015.)
+(Pub. L. 102–240, title I, § 1078, Dec. 18, 1991, 105 Stat. 2015.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (d)(2)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (d)(2)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-### § 59dd. Declaration of nonnavigability of portions of Cleveland Harbor, Ohio
+### § 59dd. Declaration of nonnavigability of portions of Cleveland Harbor, Ohio
 
 **(a) to (c) Omitted**
 
@@ -1585,35 +1585,35 @@ The declaration under subsection (d) shall apply only to those parts of the area
 
 If, 20 years from December 18, 1991, any area or part thereof described in subsection (d) is not bulkheaded or filled or occupied by permanent structures, including marina facilities, in accordance with the requirements set out in subsection (e) of this section, or if work in connection with any activity permitted in subsection (e) is not commenced within 5 years after issuance of such permit, then the declaration of nonnavigability for such area or part thereof shall expire.
 
-(Pub. L. 102–240, title I, § 1079, Dec. 18, 1991, 105 Stat. 2017.)
+(Pub. L. 102–240, title I, § 1079, Dec. 18, 1991, 105 Stat. 2017.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Codification**
 
 Section is comprised of section 1079 of Pub. L. 102–240. Subsections (a), (b), and (c) of section 1079 of Pub. L. 102–240 provided for deauthorization of a portion of a project for harbor modification of Cleveland Harbor which was authorized by section 202(a) of the Water Resources Development Act of 1986, Pub. L. 99–662, title II, Nov. 17, 1986, 100 Stat. 4095, which is not classified to the Code.
 
-### § 59ee. Portion of Sacramento River Barge Canal declared to not be navigable waters of United States
+### § 59ee. Portion of Sacramento River Barge Canal declared to not be navigable waters of United States
 
 For purposes of bridge administration, the Sacramento River Barge Canal, which connects the Sacramento Deep Water Ship Channel with the Sacramento River in West Sacramento, Yolo County, California, is declared to not be navigable waters of the United States for purposes of the General Bridge Act of 1946 (33 U.S.C. 525 et seq.) from the eastern boundary of the Port of Sacramento to a point 1,200 feet east of the William G. Stone Lock.
 
-(Pub. L. 102–241, § 34, Dec. 19, 1991, 105 Stat. 2223.)
+(Pub. L. 102–241, § 34, Dec. 19, 1991, 105 Stat. 2223.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 525 of this title and Tables.
+The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 525 of this title and Tables.
 
-### § 59ee–1. Declaration of nonnavigability for portion of Sacramento Deep Water Ship Channel
+### § 59ee–1. Declaration of nonnavigability for portion of Sacramento Deep Water Ship Channel
 
 All waters within such portion of the project are declared to be nonnavigable waters of the United States solely for the purposes of the General Bridge Act of 1946 (33 U.S.C. 525 et seq.) and section 401 of this title.
 
-(Pub. L. 106–541, title III, § 347(a)(2), Dec. 11, 2000, 114 Stat. 2618.)
+(Pub. L. 106–541, title III, § 347(a)(2), Dec. 11, 2000, 114 Stat. 2618.)
 
 **Editorial Notes**
 
@@ -1621,13 +1621,13 @@ All waters within such portion of the project are declared to be nonnavigable wa
 
 “Such portion of the project”, referred to in text, means “The portion of the project for navigation, Sacramento Deep Water Ship Channel, California, authorized by section 202(a) of the Water Resources Development Act of 1986 (100 Stat. 4092), beginning from the confluence of the Sacramento River and the Barge Canal to a point 3,300 feet west of the William G. Stone Lock western gate (including the William G. Stone Lock and the Bascule Bridge and Barge Canal).” See first sentence of section 347(a)(2) of Pub. L. 106–541, Dec. 11, 2000, 114 Stat. 2618.
 
-The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 525 of this title and Tables.
+The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 525 of this title and Tables.
 
 **Codification**
 
 Section is comprised of the last sentence of section 347(a)(2) of Pub. L. 106–541.
 
-### § 59ff. Declaration of nonnavigability for portions of Pelican Island, Texas
+### § 59ff. Declaration of nonnavigability for portions of Pelican Island, Texas
 
 **(a) Descriptions of nonnavigable areas** Subject to the provisions of subsections (b), (c), and (d) of this section, those portions of Pelican Island, Texas, which are not submerged and which are within the following property descriptions, are declared to be nonnavigable waters of the United States:
 
@@ -1645,19 +1645,19 @@ The declaration under subsection (a) shall apply only to those parts of the area
 
 If, 20 years from December 19, 1991, any area or part thereof described in subsection (a) of this section and not described in subsection (b) of this section is not bulkheaded or filled or occupied by permanent structures or other permanent physical improvements, including marina facilities, in accordance with the requirements set out in subsection (c) of this section, or if work is not commenced within five years after issuance of any permits required to be obtained under subsection (c), then the declaration of nonnavigability for such area or part thereof shall expire.
 
-(Pub. L. 102–241, § 52, Dec. 19, 1991, 105 Stat. 2228.)
+(Pub. L. 102–241, § 52, Dec. 19, 1991, 105 Stat. 2228.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Codification**
 
 The text of the boundary descriptions contained in pars. (1) to (5) of subsec. (a) and pars. (1) to (3) of subsec. (b), which is not set out in the Code, appears at 105 Stat. 2228 to 2231.
 
-### § 59gg. Declaration of nonnavigability for portions of Cuyahoga County, Ohio
+### § 59gg. Declaration of nonnavigability for portions of Cuyahoga County, Ohio
 
 **(a) Area to be declared nonnavigable; public interest**
 
@@ -1675,13 +1675,13 @@ The declaration under subsection (a) shall apply to those parts of the areas des
 
 If, 20 years from October 31, 1992, any area or part thereof described in subsection (a) is not bulkheaded or filled or occupied by permanent structures, including marina facilities, in accordance with the requirements set forth in subsection (b), or if work in connection with any activity permitted in subsection (b) is not commenced within 5 years after issuance of such permits, then the declaration of nonnavigability for such area or part thereof shall expire.
 
-(Pub. L. 102–580, title III, § 335, Oct. 31, 1992, 106 Stat. 4853.)
+(Pub. L. 102–580, title III, § 335, Oct. 31, 1992, 106 Stat. 4853.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1689,15 +1689,15 @@ The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pu
 
 Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, set out as a note under section 2201 of this title.
 
-### § 59hh. Declaration of nonnavigability for portion of Pelican Island, Texas
+### § 59hh. Declaration of nonnavigability for portion of Pelican Island, Texas
 
 **(a) In general**
 
-The Secretary of the Army is authorized to convey to the City 1
+The Secretary of the Army is authorized to convey to the City 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
-of Galveston, Texas, fee simple absolute title to all or any part of a parcel of land containing approximately 605 acres known as the San Jacinto Disposal Area located on the east end of Galveston Island, Texas, in the W.A.A. Wallace Survey, A–647 and A–648, City 1 of Galveston, Galveston County, Texas, being part of the old Fort San Jacinto site, at the fair market value of such parcel to be determined in accordance with the provisions of subsection (d). Such conveyance shall only be made by the Secretary of the Army upon the agreement of the Secretary and the City 1 as to all compensation due herein.
+of Galveston, Texas, fee simple absolute title to all or any part of a parcel of land containing approximately 605 acres known as the San Jacinto Disposal Area located on the east end of Galveston Island, Texas, in the W.A.A. Wallace Survey, A–647 and A–648, City 1 of Galveston, Galveston County, Texas, being part of the old Fort San Jacinto site, at the fair market value of such parcel to be determined in accordance with the provisions of subsection (d). Such conveyance shall only be made by the Secretary of the Army upon the agreement of the Secretary and the City 1 as to all compensation due herein.
 
 **(b) Compensation for conveyance**
 
@@ -1717,9 +1717,9 @@ If the conveyance is 125 acres or less, compensation shall be an amount equal to
 
 **(c) Disposition of spoil**
 
-Costs of maintaining the Galveston Harbor and Channel will continue to be governed by the Local Cooperation Agreement (LCA) between the United States of America and the City <sup>1</sup> of Galveston dated October 18, 1973, as amended. Upon conveyance of the parcel, or any part of the parcel, described in subsection (a), the Department of the Army shall be compensated directly for the present value of the total costs to the Department for disposal of dredge material and site preparation pursuant to the LCA, if any,,2
+Costs of maintaining the Galveston Harbor and Channel will continue to be governed by the Local Cooperation Agreement (LCA) between the United States of America and the City <sup>1</sup> of Galveston dated October 18, 1973, as amended. Upon conveyance of the parcel, or any part of the parcel, described in subsection (a), the Department of the Army shall be compensated directly for the present value of the total costs to the Department for disposal of dredge material and site preparation pursuant to the LCA, if any,,2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 in excess of the present value of the total costs that would have been incurred if this conveyance had not been made.
 
@@ -1745,27 +1745,27 @@ If, 20 years after October 28, 1993, any area or part thereof described in subse
 
 The 605-acre parcel and the 564-acre parcel shall be surveyed and further legally described prior to conveyance. Not later than 60 days following October 28, 1993, if he deems it necessary, the Secretary of the Army shall complete a review of the applicability of section 1344 of this title to the said parcels.
 
-(Pub. L. 103–126, title I, § 108, Oct. 28, 1993, 107 Stat. 1320; Pub. L. 106–53, title V, § 585, Aug. 17, 1999, 113 Stat. 377.)
+(Pub. L. 103–126, title I, § 108, Oct. 28, 1993, 107 Stat. 1320; Pub. L. 106–53, title V, § 585, Aug. 17, 1999, 113 Stat. 377.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (e)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (e)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Amendments**
 
-1999—Subsec. (a). Pub. L. 106–53, § 585(1), inserted “all or any part of” after “absolute title to” in first sentence.
+1999—Subsec. (a). Pub. L. 106–53, § 585(1), inserted “all or any part of” after “absolute title to” in first sentence.
 
-Subsec. (b). Pub. L. 106–53, § 585(2), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Upon receipt of compensation from the City of Galveston, the Secretary shall convey the parcel as described in subsection (a) of this section. Such compensation shall include—
+Subsec. (b). Pub. L. 106–53, § 585(2), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Upon receipt of compensation from the City of Galveston, the Secretary shall convey the parcel as described in subsection (a) of this section. Such compensation shall include—
 
 “(1) conveyance to the Department of the Army of fee simple absolute title to a parcel of land containing approximately 564 acres on Pelican Island, Texas, in the Eneas Smith Survey, A–190, Pelican Island, City of Galveston, Galveston County, Texas, adjacent to property currently owned by the United States. The fair market value of such parcel will be determined in accordance with the provision of subsection (d) of this section; and
 
 “(2) payment to the United States of an amount equal to the difference of the fair market value of the parcel to be conveyed pursuant to subsection (a) of this section and the fair market value of the parcel to be conveyed pursuant to paragraph (1) of this subsection.”
 
-Subsec. (c). Pub. L. 106–53, § 585(3), in second sentence, inserted “, or any part of the parcel,” after “parcel” and “, if any,” after “LCA”.
+Subsec. (c). Pub. L. 106–53, § 585(3), in second sentence, inserted “, or any part of the parcel,” after “parcel” and “, if any,” after “LCA”.
 
-### § 59ii. Declaration of nonnavigability of a portion of the canal known as the James River and Kanawha Canal in Richmond, Virginia
+### § 59ii. Declaration of nonnavigability of a portion of the canal known as the James River and Kanawha Canal in Richmond, Virginia
 
 **(a) Canal declared nonnavigable**
 
@@ -1787,13 +1787,13 @@ The Secretary of Transportation may terminate the effectiveness of the declarati
 
 **(B)** provide to persons who might be adversely affected by the determination the opportunity for comment and a hearing on whether such action is necessary to protect public safety and will serve the public interest.
 
-(Pub. L. 106–32, § 2, June 1, 1999, 113 Stat. 115.)
+(Pub. L. 106–32, § 2, June 1, 1999, 113 Stat. 115.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Findings**
 
-Pub. L. 106–32, § 1, June 1, 1999, 113 Stat. 115, provided that:
+Pub. L. 106–32, § 1, June 1, 1999, 113 Stat. 115, provided that:
 
 > “The Congress finds the following:
 
@@ -1811,19 +1811,19 @@ Pub. L. 106–32, § 1, June 1, 1999, 113 Stat. 115, provided that:
 
 > **“(7)** Congressional action is required to clarify that the canal is no longer to be considered a navigable waterway for purposes of subtitle II of title 46, United States Code.”
 
-### § 59jj. Designation of nonnavigability for portions of Gloucester County, New Jersey
+### § 59jj. Designation of nonnavigability for portions of Gloucester County, New Jersey
 
 **(a) Designation**
 
 **(1) In general**
 
-The Secretary of the Army (referred to in section 1
+The Secretary of the Army (referred to in section 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “this”.
+<sup>1</sup> So in original. Probably should be preceded by “this”.
 
-as the “Secretary”) shall designate as nonnavigable the areas described in paragraph (3) 2
+as the “Secretary”) shall designate as nonnavigable the areas described in paragraph (3) 2
 
-<sup>2</sup>  So in original. Probably should be paragraph “(2)”.
+<sup>2</sup> So in original. Probably should be paragraph “(2)”.
 
 unless the Secretary, after consultation with local and regional public officials (including local and regional planning organizations), makes a determination that 1 or more projects proposed to be carried out in 1 or more areas described in paragraph (2) are not in the public interest.
 
@@ -1835,9 +1835,9 @@ unless the Secretary, after consultation with local and regional public official
 
 **(ii)** along the same N. 61°28′35′′ E. 32.31 feet to the point of beginning.
 
-**(B)** Said beginning point also being the end of the thirteenth course and from said beginning point runs; thence, along the aformentioned 3
+**(B)** Said beginning point also being the end of the thirteenth course and from said beginning point runs; thence, along the aformentioned 3
 
-<sup>3</sup>  So in original. Probably should be “aforementioned”.
+<sup>3</sup> So in original. Probably should be “aforementioned”.
 
 Easterly line of Church Street—
 
@@ -1957,13 +1957,13 @@ The designation under subsection (a)(1) shall apply to those parts of the areas 
 
 **(c) Termination of designation**
 
-If, on the date that is 20 years after November 12, 2001, any area or portion of an area described in subsection (a)(3) 4
+If, on the date that is 20 years after November 12, 2001, any area or portion of an area described in subsection (a)(3) 4
 
-<sup>4</sup>  So in original. Probably should be “subsection (a)(2)”.
+<sup>4</sup> So in original. Probably should be “subsection (a)(2)”.
 
 is not bulkheaded, filled, or otherwise occupied by permanent structures (including marina facilities) in accordance with subsection (b), or if work in connection with any activity authorized under subsection (b) is not commenced by the date that is 5 years after the date on which permits for the work are issued, the designation of nonnavigability under subsection (a)(1) for that area or portion of an area shall terminate.
 
-(Pub. L. 107–66, title I, § 107, Nov. 12, 2001, 115 Stat. 494.)
+(Pub. L. 107–66, title I, § 107, Nov. 12, 2001, 115 Stat. 494.)
 
 **Editorial Notes**
 
@@ -1971,21 +1971,21 @@ is not bulkheaded, filled, or otherwise occupied by permanent structures (includ
 
 Act of March 3, 1899, referred to in subsec. (b)(2)(A), is act Mar. 3, 1899, ch. 425, 30 Stat. 1121, which enacted sections 401, 403, 404, 406, 407, 408, 409, 411 to 416, 418, 502, 549, and 687 of this title and amended section 686 of this title. For complete classification of this Act to the Code, see Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b)(2)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(2)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-### § 59kk. Wateree River
+### § 59kk. Wateree River
 
 For purposes of bridge administration, the portion of the Wateree River in the State of South Carolina, from a point 100 feet upstream of the railroad bridge located at approximately mile marker 10.0 to a point 100 feet downstream of such bridge, is declared to not be navigable waters of the United States for purposes of the General Bridge Act of 1946 (33 U.S.C. 525 et seq.).
 
-(Pub. L. 108–293, title VI, § 610, Aug. 9, 2004, 118 Stat. 1058.)
+(Pub. L. 108–293, title VI, § 610, Aug. 9, 2004, 118 Stat. 1058.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 525 of this title and Tables.
+The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 525 of this title and Tables.
 
-### § 59ll. Central Delaware River, Philadelphia, Pennsylvania
+### § 59ll. Central Delaware River, Philadelphia, Pennsylvania
 
 **(a) Area to be declared nonnavigable** Subject to subsection (c), unless the Secretary finds, after consultation with local and regional public officials (including local and regional public planning organizations), that there are substantive objections, those portions of the Delaware River, bounded by the former bulkhead and pierhead lines that were established by the Secretary of War and successors and described as follows, are declared to be nonnavigable waters of the United States:
 
@@ -2001,7 +2001,7 @@ The Secretary shall make the public interest determination under subsection (a) 
 
 The declaration under subsection (a) shall apply only to those parts of the areas described in subsection (a) that are or will be bulkheaded and filled or otherwise occupied by permanent structures, including marina and recreation facilities.
 
-(Pub. L. 114–322, title I, § 1308, Dec. 16, 2016, 130 Stat. 1693.)
+(Pub. L. 114–322, title I, § 1308, Dec. 16, 2016, 130 Stat. 1693.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2009,8 +2009,8 @@ The declaration under subsection (a) shall apply only to those parts of the area
 
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under section 2201 of this title.
 
-### § 59mm. Coalbank Slough deemed not navigable waters of the United States for certain purposes
+### § 59mm. Coalbank Slough deemed not navigable waters of the United States for certain purposes
 
 The Coalbank Slough in Coos Bay, Oregon, is deemed to not be navigable waters of the United States for all purposes of subchapter J of Chapter I of title 33, Code of Federal Regulations.
 
-(Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8436, Jan. 1, 2021, 134 Stat. 4736.)
+(Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8436, Jan. 1, 2021, 134 Stat. 4736.)

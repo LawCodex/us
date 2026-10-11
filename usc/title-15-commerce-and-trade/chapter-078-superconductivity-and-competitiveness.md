@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 78—SUPERCONDUCTIVITY AND COMPETITIVENESS
 
-## § 5201. Findings and purposes
+## § 5201. Findings and purposes
 
 **(a) Findings** The Congress finds that—
 
@@ -41,21 +41,21 @@ retrieved: 2026-10-11
 
 **(b) Purposes** The purposes of this chapter are—
 
-**(1)** to establish a 5-year national action plan to research and develop new high-temperature superconducting materials with appropriate goals and priorities; 1
+**(1)** to establish a 5-year national action plan to research and develop new high-temperature superconducting materials with appropriate goals and priorities; 1
 
-<sup>1</sup>  So in original. Probably should be followed by “and”.
+<sup>1</sup> So in original. Probably should be followed by “and”.
 
 **(2)** to designate the appropriate roles, mechanisms, and responsibilities of various Federal departments and agencies in implementing such a national research and development action plan.
 
-(Pub. L. 100–697, § 2, Nov. 19, 1988, 102 Stat. 4613.)
+(Pub. L. 100–697, § 2, Nov. 19, 1988, 102 Stat. 4613.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 100–697, § 1, Nov. 19, 1988, 102 Stat. 4613, provided that: “This Act [enacting this chapter] may be cited as the ‘National Superconductivity and Competitiveness Act of 1988’.”
+Pub. L. 100–697, § 1, Nov. 19, 1988, 102 Stat. 4613, provided that: “This Act [enacting this chapter] may be cited as the ‘National Superconductivity and Competitiveness Act of 1988’.”
 
-## § 5202. National Action Plan on Advanced Superconductivity Research and Development
+## § 5202. National Action Plan on Advanced Superconductivity Research and Development
 
 **(a) Establishment**
 
@@ -81,45 +81,45 @@ The Office of Science and Technology Policy, in conjunction with the National Cr
 
 The Office of Science and Technology Policy shall prepare an annual report setting forth and evaluating the progress of the Superconductivity Action Plan. This report shall include a description of the amount of funds expended in the previous year by all Federal departments and agencies involved with superconductivity. This report shall be submitted with the President’s annual budget request to the Committee on Science, Space, and Technology of the House of Representatives, and to the Committees on Energy and Natural Resources, and Commerce, Science, and Transportation of the Senate.
 
-(Pub. L. 100–697, § 3, Nov. 19, 1988, 102 Stat. 4614; Pub. L. 116–260, div. Z, title VII, § 7002(n)(2), Dec. 27, 2020, 134 Stat. 2576.)
+(Pub. L. 100–697, § 3, Nov. 19, 1988, 102 Stat. 4614; Pub. L. 116–260, div. Z, title VII, § 7002(n)(2), Dec. 27, 2020, 134 Stat. 2576.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2020—Subsec. (d). Pub. L. 116–260 struck out “, with the assistance of the National Critical Materials Council as specified in the National Critical Materials Act of 1984 (30 U.S.C. 1801 et seq.),” after “Policy”.
+2020—Subsec. (d). Pub. L. 116–260 struck out “, with the assistance of the National Critical Materials Council as specified in the National Critical Materials Act of 1984 (30 U.S.C. 1801 et seq.),” after “Policy”.
 
-## § 5203. Department of Energy
+## § 5203. Department of Energy
 
 The Secretary of Energy shall conduct a program in superconductivity research and development. Within 180 days after November 19, 1988, and for the two succeeding years thereafter, the Secretary shall submit annual reports on the implementation of technology transfer activities under the Stevenson-Wydler Technology Innovation Act of 1980 [15 U.S.C. 3701 et seq.] and related legislation with respect to superconductivity research and development to the Committee on Science, Space, and Technology of the House of Representatives and to the Committee on Energy and Natural Resources of the Senate. Such report shall include recommendations for improvements in the technology transfer between government and industry, and in the management of property developed or made at the National Laboratories.
 
-(Pub. L. 100–697, § 4, Nov. 19, 1988, 102 Stat. 4615.)
+(Pub. L. 100–697, § 4, Nov. 19, 1988, 102 Stat. 4615.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in text, is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§ 3701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of this title and Tables.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in text, is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§ 3701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of this title and Tables.
 
-## § 5204. National Institute of Standards and Technology
+## § 5204. National Institute of Standards and Technology
 
 In pursuance of the goals of this chapter, the National Institute of Standards and Technology shall promote fundamental research and materials standards to accelerate the use and application of the new superconducting materials, and shall utilize the Superconductivity Center Focusing on Electronic Applications at the National Institute of Standards and Technology in Boulder, Colorado.
 
-(Pub. L. 100–697, § 5, Nov. 19, 1988, 102 Stat. 4615.)
+(Pub. L. 100–697, § 5, Nov. 19, 1988, 102 Stat. 4615.)
 
-## § 5205. National Science Foundation
+## § 5205. National Science Foundation
 
 The National Science Foundation shall promote fundamental research in pursuance of the goals of this chapter.
 
-(Pub. L. 100–697, § 6, Nov. 19, 1988, 102 Stat. 4615.)
+(Pub. L. 100–697, § 6, Nov. 19, 1988, 102 Stat. 4615.)
 
-## § 5206. National Aeronautics and Space Administration
+## § 5206. National Aeronautics and Space Administration
 
 The National Aeronautics and Space Administration shall utilize existing programs in technology transfer, aeronautics and space technology, and space commercialization to promote the commercial applications of high-temperature superconductors, including applications relating to thin film technology, communications technology, sensors, space power, and propulsion.
 
-(Pub. L. 100–697, § 7, Nov. 19, 1988, 102 Stat. 4615.)
+(Pub. L. 100–697, § 7, Nov. 19, 1988, 102 Stat. 4615.)
 
-## § 5207. Department of Defense
+## § 5207. Department of Defense
 
 **(a) Focus of research**
 
@@ -137,15 +137,15 @@ In conformance with the Superconductivity Action Plan, the Secretary of Defense,
 
 **(2)** develop criteria for operational prototype testing within the Department of Defense.
 
-(Pub. L. 100–697, § 8, Nov. 19, 1988, 102 Stat. 4615.)
+(Pub. L. 100–697, § 8, Nov. 19, 1988, 102 Stat. 4615.)
 
-## § 5208. International cooperation
+## § 5208. International cooperation
 
 The President, as part of the Superconductivity Action Plan, shall establish a program of international cooperation in the conduct of fundamental and basic research on superconducting materials. Such program of international cooperation shall include the exchange of basic information and data, as well as the development of international standards for the use and application of superconducting materials.
 
-(Pub. L. 100–697, § 9, Nov. 19, 1988, 102 Stat. 4616.)
+(Pub. L. 100–697, § 9, Nov. 19, 1988, 102 Stat. 4616.)
 
-## § 5209. Technology transfer
+## § 5209. Technology transfer
 
 **(a) Promotion** In pursuance of the goals of this chapter, all Federal departments and agencies shall conduct technology transfer activities as appropriate to the overall mission of each department or agency to—
 
@@ -157,4 +157,4 @@ The President, as part of the Superconductivity Action Plan, shall establish a p
 
 The Director of the Office of Science and Technology Policy, in collaboration with the Secretary of Commerce and the Secretary of Energy, shall identify those Federal policies and regulations which impede the ability of the private sector to undertake long-term investment programs to commercialize superconductivity applications.
 
-(Pub. L. 100–697, § 10, Nov. 19, 1988, 102 Stat. 4616.)
+(Pub. L. 100–697, § 10, Nov. 19, 1988, 102 Stat. 4616.)

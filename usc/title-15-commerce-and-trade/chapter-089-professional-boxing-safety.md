@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 89—PROFESSIONAL BOXING SAFETY
 
-## § 6301. Definitions
+## § 6301. Definitions
 
 For purposes of this chapter:
 
@@ -25,9 +25,9 @@ The term “boxer” means an individual who fights in a professional boxing mat
 
 **(2) Boxing commission**
 
-**(A)**  1
+**(A)** 1
 
-<sup>1</sup>  So in original. No subpar. (B) has been enacted.
+<sup>1</sup> So in original. No subpar. (B) has been enacted.
 
 The term “boxing commission” means an entity authorized under State law to regulate professional boxing matches.
 
@@ -87,27 +87,27 @@ The term “contract provision” means any legal obligation between a boxer and
 
 The term “suspension” includes within its meaning the revocation of a boxing license.
 
-(Pub. L. 104–272, § 2, Oct. 9, 1996, 110 Stat. 3309; Pub. L. 106–210, § 7(a), May 26, 2000, 114 Stat. 327.)
+(Pub. L. 104–272, § 2, Oct. 9, 1996, 110 Stat. 3309; Pub. L. 106–210, § 7(a), May 26, 2000, 114 Stat. 327.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 106–210, § 7(a), which directed amendments to subsec. (a) of this section, was executed as if it directed amendments to this section rather than to subsec. (a) of this section to reflect the probable intent of Congress because this section does not contain a subsec. (a). See 2000 Amendment notes below.
+Pub. L. 106–210, § 7(a), which directed amendments to subsec. (a) of this section, was executed as if it directed amendments to this section rather than to subsec. (a) of this section to reflect the probable intent of Congress because this section does not contain a subsec. (a). See 2000 Amendment notes below.
 
 **Amendments**
 
-2000—Par. (9). Pub. L. 106–210, § 7(a)(1), inserted last sentence. See Codification note above.
+2000—Par. (9). Pub. L. 106–210, § 7(a)(1), inserted last sentence. See Codification note above.
 
-Par. (10). Pub. L. 106–210, § 7(a)(2), inserted “, including the Virgin Islands” before the period at end. See Codification note above.
+Par. (10). Pub. L. 106–210, § 7(a)(2), inserted “, including the Virgin Islands” before the period at end. See Codification note above.
 
-Pars. (11) to (15). Pub. L. 106–210, § 7(a)(3), added pars. (11) to (15). See Codification note above.
+Pars. (11) to (15). Pub. L. 106–210, § 7(a)(3), added pars. (11) to (15). See Codification note above.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 104–272, § 23, formerly § 15, Oct. 9, 1996, 110 Stat. 3314, as renumbered § 23 by Pub. L. 106–210, § 4(1), May 26, 2000, 114 Stat. 322, provided that:
+Pub. L. 104–272, § 23, formerly § 15, Oct. 9, 1996, 110 Stat. 3314, as renumbered § 23 by Pub. L. 106–210, § 4(1), May 26, 2000, 114 Stat. 322, provided that:
 
 > “The provisions of this Act [enacting this chapter] shall take effect on January 1, 1997, except as follows:
 
@@ -117,15 +117,15 @@ Pub. L. 104–272, § 23, formerly § 15, Oct. 9, 1996, 110 Stat. 3314, as r
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–210, § 1, May 26, 2000, 114 Stat. 321, provided that: “This Act [enacting sections 6307a to 6307h of this title, amending this section and sections 6303, 6305, 6306, and 6308 to 6313 of this title, and enacting and amending provisions set out as notes under this section] may be cited as the ‘Muhammad Ali Boxing Reform Act’.”
+Pub. L. 106–210, § 1, May 26, 2000, 114 Stat. 321, provided that: “This Act [enacting sections 6307a to 6307h of this title, amending this section and sections 6303, 6305, 6306, and 6308 to 6313 of this title, and enacting and amending provisions set out as notes under this section] may be cited as the ‘Muhammad Ali Boxing Reform Act’.”
 
 **Short Title**
 
-Pub. L. 104–272, § 1, Oct. 9, 1996, 110 Stat. 3309, provided that: “This Act [enacting this chapter] may be cited as the ‘Professional Boxing Safety Act of 1996’.”
+Pub. L. 104–272, § 1, Oct. 9, 1996, 110 Stat. 3309, provided that: “This Act [enacting this chapter] may be cited as the ‘Professional Boxing Safety Act of 1996’.”
 
 **Findings**
 
-Pub. L. 106–210, § 2, May 26, 2000, 114 Stat. 321, provided that:
+Pub. L. 106–210, § 2, May 26, 2000, 114 Stat. 321, provided that:
 
 > “The Congress makes the following findings:
 
@@ -143,7 +143,7 @@ Pub. L. 106–210, § 2, May 26, 2000, 114 Stat. 321, provided that:
 
 **Purposes of 2000 Amendment**
 
-Pub. L. 106–210, § 3, May 26, 2000, 114 Stat. 322, provided that:
+Pub. L. 106–210, § 3, May 26, 2000, 114 Stat. 322, provided that:
 
 > “The purposes of this Act [see Short Title of 2000 Amendment note above] are—
 
@@ -153,7 +153,7 @@ Pub. L. 106–210, § 3, May 26, 2000, 114 Stat. 322, provided that:
 
 > **“(3)** to promote honorable competition in professional boxing and enhance the overall integrity of the industry.”
 
-## § 6302. Purposes
+## § 6302. Purposes
 
 The purposes of this chapter are—
 
@@ -161,7 +161,7 @@ The purposes of this chapter are—
 
 **(2)** to assist State boxing commissions to provide proper oversight for the professional boxing industry in the United States.
 
-(Pub. L. 104–272, § 3, Oct. 9, 1996, 110 Stat. 3310.)
+(Pub. L. 104–272, § 3, Oct. 9, 1996, 110 Stat. 3310.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -169,7 +169,7 @@ The purposes of this chapter are—
 
 Section effective Jan. 1, 1997, see section 23 of Pub. L. 104–272, set out as a note under section 6301 of this title.
 
-## § 6303. Boxing matches in States without boxing commissions
+## § 6303. Boxing matches in States without boxing commissions
 
 **(a)** No person may arrange, promote, organize, produce, or fight in a professional boxing match held in a State that does not have a boxing commission unless the match is supervised by a boxing commission from another State and subject to the most recent version of the recommended regulatory guidelines certified and published by the Association of Boxing Commissions as well as any additional relevant professional boxing regulations and requirements of such other State.
 
@@ -179,7 +179,7 @@ Section effective Jan. 1, 1997, see section 23 of Pub. L. 104–272, set out as 
 
 **(2)** any reporting or other requirement relating to a supervising commission allowed under this section shall be deemed to refer to the entity described in paragraph (1).
 
-(Pub. L. 104–272, § 4, Oct. 9, 1996, 110 Stat. 3310; Pub. L. 106–210, § 7(e), May 26, 2000, 114 Stat. 328.)
+(Pub. L. 104–272, § 4, Oct. 9, 1996, 110 Stat. 3310; Pub. L. 106–210, § 7(e), May 26, 2000, 114 Stat. 328.)
 
 **Editorial Notes**
 
@@ -193,7 +193,7 @@ Section effective Jan. 1, 1997, see section 23 of Pub. L. 104–272, set out as 
 
 Section effective Jan. 1, 1997, see section 23 of Pub. L. 104–272, set out as a note under section 6301 of this title.
 
-## § 6304. Safety standards
+## § 6304. Safety standards
 
 No person may arrange, promote, organize, produce, or fight in a professional boxing match without meeting each of the following requirements or an alternative requirement in effect under regulations of a boxing commission that provides equivalent protection of the health and safety of boxers:
 
@@ -205,7 +205,7 @@ No person may arrange, promote, organize, produce, or fight in a professional bo
 
 **(4)** Health insurance for each boxer to provide medical coverage for any injuries sustained in the match.
 
-(Pub. L. 104–272, § 5, Oct. 9, 1996, 110 Stat. 3310.)
+(Pub. L. 104–272, § 5, Oct. 9, 1996, 110 Stat. 3310.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -213,7 +213,7 @@ No person may arrange, promote, organize, produce, or fight in a professional bo
 
 Section effective July 1, 1997, see section 23(2) of Pub. L. 104–272, set out as a note under section 6301 of this title.
 
-## § 6305. Registration
+## § 6305. Registration
 
 **(a) Requirements** Each boxer shall register with—
 
@@ -243,15 +243,15 @@ Each professional boxer shall present his or her identification card to the appr
 
 It is the sense of the Congress that a boxing commission should, upon issuing an identification card to a boxer under subsection (b)(1), make a health and safety disclosure to that boxer as that commission considers appropriate. The health and safety disclosure should include the health and safety risks associated with boxing, and, in particular, the risk and frequency of brain injury and the advisability that a boxer periodically undergo medical procedures designed to detect brain injury.
 
-(Pub. L. 104–272, § 6, Oct. 9, 1996, 110 Stat. 3310; Pub. L. 106–210, § 7(c), (f), May 26, 2000, 114 Stat. 328.)
+(Pub. L. 104–272, § 6, Oct. 9, 1996, 110 Stat. 3310; Pub. L. 106–210, § 7(c), (f), May 26, 2000, 114 Stat. 328.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2000—Subsec. (b)(2). Pub. L. 106–210, § 7(c), substituted “4 years” for “2 years”.
+2000—Subsec. (b)(2). Pub. L. 106–210, § 7(c), substituted “4 years” for “2 years”.
 
-Subsec. (c). Pub. L. 106–210, § 7(f), added subsec. (c).
+Subsec. (c). Pub. L. 106–210, § 7(f), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -259,7 +259,7 @@ Subsec. (c). Pub. L. 106–210, § 7(f), added subsec. (c).
 
 Section effective July 1, 1997, see section 23(2) of Pub. L. 104–272, set out as a note under section 6301 of this title.
 
-## § 6306. Review
+## § 6306. Review
 
 **(a) Procedures** Each boxing commission shall establish each of the following procedures:
 
@@ -291,15 +291,15 @@ Section effective July 1, 1997, see section 23(2) of Pub. L. 104–272, set out 
 
 **(2)** if the boxer appeals to the Association of Boxing Commissions, and the Association of Boxing Commissions determines that the suspension of such boxer was without sufficient grounds, for an improper purpose, or not related to the health and safety of the boxer or the purposes of this chapter.
 
-(Pub. L. 104–272, § 7, Oct. 9, 1996, 110 Stat. 3311; Pub. L. 106–210, § 7(b), (d), May 26, 2000, 114 Stat. 328.)
+(Pub. L. 104–272, § 7, Oct. 9, 1996, 110 Stat. 3311; Pub. L. 106–210, § 7(b), (d), May 26, 2000, 114 Stat. 328.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2000—Subsec. (a)(2)(E). Pub. L. 106–210, § 7(b), added subpar. (E).
+2000—Subsec. (a)(2)(E). Pub. L. 106–210, § 7(b), added subpar. (E).
 
-Subsec. (a)(3). Pub. L. 106–210, § 7(d), substituted “boxer, licensee, manager, matchmaker, promoter, or other boxing service provider” for “boxer” the first place appearing.
+Subsec. (a)(3). Pub. L. 106–210, § 7(d), substituted “boxer, licensee, manager, matchmaker, promoter, or other boxing service provider” for “boxer” the first place appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -307,11 +307,11 @@ Subsec. (a)(3). Pub. L. 106–210, § 7(d), substituted “boxer, licensee, ma
 
 Section effective July 1, 1997, see section 23(2) of Pub. L. 104–272, set out as a note under section 6301 of this title.
 
-## § 6307. Reporting
+## § 6307. Reporting
 
 Not later than 48 business hours after the conclusion of a professional boxing match, the supervising boxing commission shall report the results of such boxing match and any related suspensions to each boxer registry.
 
-(Pub. L. 104–272, § 8, Oct. 9, 1996, 110 Stat. 3311.)
+(Pub. L. 104–272, § 8, Oct. 9, 1996, 110 Stat. 3311.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -319,11 +319,11 @@ Not later than 48 business hours after the conclusion of a professional boxing m
 
 Section effective July 1, 1997, see section 23(2) of Pub. L. 104–272, set out as a note under section 6301 of this title.
 
-## § 6307a. Contract requirements
+## § 6307a. Contract requirements
 
 Within 2 years after May 26, 2000, the Association of Boxing Commissions (ABC) shall develop and shall approve by a vote of no less than a majority of its member State boxing commissioners, guidelines for minimum contractual provisions that should be included in bout agreements and boxing contracts. It is the sense of the Congress that State boxing commissions should follow these ABC guidelines.
 
-(Pub. L. 104–272, § 9, as added Pub. L. 106–210, § 4(2), May 26, 2000, 114 Stat. 322.)
+(Pub. L. 104–272, § 9, as added Pub. L. 106–210, § 4(2), May 26, 2000, 114 Stat. 322.)
 
 **Editorial Notes**
 
@@ -331,7 +331,7 @@ Within 2 years after May 26, 2000, the Association of Boxing Commissions (ABC) s
 
 A prior section 9 of Pub. L. 104–272 was renumbered section 17 and is classified to section 6308 of this title.
 
-## § 6307b. Protection from coercive contracts
+## § 6307b. Protection from coercive contracts
 
 **(a) General rule**
 
@@ -357,7 +357,7 @@ No boxing service provider may require a boxer to grant any future promotional r
 
 Subsection (a) of this section applies to any contract between a commercial broadcaster and a boxer, or granting any rights with respect to that boxer, involving a broadcast in or affecting interstate commerce, regardless of the broadcast medium. For the purpose of this subsection, any reference in subsection (a)(1)(B) to “promoter” shall be considered a reference to “commercial broadcaster”.
 
-(Pub. L. 104–272, § 10, as added Pub. L. 106–210, § 4(2), May 26, 2000, 114 Stat. 322.)
+(Pub. L. 104–272, § 10, as added Pub. L. 106–210, § 4(2), May 26, 2000, 114 Stat. 322.)
 
 **Editorial Notes**
 
@@ -365,7 +365,7 @@ Subsection (a) of this section applies to any contract between a commercial broa
 
 A prior section 10 of Pub. L. 104–272 was renumbered section 18 and is classified to section 6309 of this title.
 
-## § 6307c. Sanctioning organizations
+## § 6307c. Sanctioning organizations
 
 **(a) Objective criteria**
 
@@ -413,7 +413,7 @@ The Federal Trade Commission shall make information received under this subsecti
 
 **(C)** is updated whenever there is a material change in the information.
 
-(Pub. L. 104–272, § 11, as added Pub. L. 106–210, § 4(2), May 26, 2000, 114 Stat. 323.)
+(Pub. L. 104–272, § 11, as added Pub. L. 106–210, § 4(2), May 26, 2000, 114 Stat. 323.)
 
 **Editorial Notes**
 
@@ -421,7 +421,7 @@ The Federal Trade Commission shall make information received under this subsecti
 
 A prior section 11 of Pub. L. 104–272 was renumbered section 19 and is classified to section 6310 of this title.
 
-## § 6307d. Required disclosures to State boxing commissions by sanctioning organizations
+## § 6307d. Required disclosures to State boxing commissions by sanctioning organizations
 
 A sanctioning organization shall not be entitled to receive any compensation directly or indirectly in connection with a boxing match until it provides to the boxing commission responsible for regulating the match in a State a statement of—
 
@@ -431,7 +431,7 @@ A sanctioning organization shall not be entitled to receive any compensation dir
 
 **(3)** such additional information as the commission may require.
 
-(Pub. L. 104–272, § 12, as added Pub. L. 106–210, § 4(2), May 26, 2000, 114 Stat. 324.)
+(Pub. L. 104–272, § 12, as added Pub. L. 106–210, § 4(2), May 26, 2000, 114 Stat. 324.)
 
 **Editorial Notes**
 
@@ -439,7 +439,7 @@ A sanctioning organization shall not be entitled to receive any compensation dir
 
 A prior section 12 of Pub. L. 104–272 was renumbered section 20 and is classified to section 6311 of this title.
 
-## § 6307e. Required disclosures for promoters
+## § 6307e. Required disclosures for promoters
 
 **(a) Disclosures to the boxing commissions** A promoter shall not be entitled to receive any compensation directly or indirectly in connection with a boxing match until it provides to the boxing commission responsible for regulating the match in a State a statement of—
 
@@ -467,7 +467,7 @@ A prior section 12 of Pub. L. 104–272 was renumbered section 20 and is classif
 
 A promoter shall make information required to be disclosed under this section available to the chief law enforcement officer of the State in which the match is to be held upon request of such officer.
 
-(Pub. L. 104–272, § 13, as added Pub. L. 106–210, § 4(2), May 26, 2000, 114 Stat. 324.)
+(Pub. L. 104–272, § 13, as added Pub. L. 106–210, § 4(2), May 26, 2000, 114 Stat. 324.)
 
 **Editorial Notes**
 
@@ -475,11 +475,11 @@ A promoter shall make information required to be disclosed under this section av
 
 A prior section 13 of Pub. L. 104–272 was renumbered section 21 and is classified to section 6312 of this title.
 
-## § 6307f. Required disclosures for judges and referees
+## § 6307f. Required disclosures for judges and referees
 
 A judge or referee shall not be entitled to receive any compensation, directly or indirectly, in connection with a boxing match until it provides to the boxing commission responsible for regulating the match in a State a statement of all consideration, including reimbursement for expenses, that will be received from any source for participation in the match.
 
-(Pub. L. 104–272, § 14, as added Pub. L. 106–210, § 4(2), May 26, 2000, 114 Stat. 325.)
+(Pub. L. 104–272, § 14, as added Pub. L. 106–210, § 4(2), May 26, 2000, 114 Stat. 325.)
 
 **Editorial Notes**
 
@@ -487,13 +487,13 @@ A judge or referee shall not be entitled to receive any compensation, directly o
 
 A prior section 14 of Pub. L. 104–272 was renumbered section 22 and is classified to section 6313 of this title.
 
-## § 6307g. Confidentiality
+## § 6307g. Confidentiality
 
 **(a) In general**
 
-Neither a boxing commission or 1
+Neither a boxing commission or 1
 
-<sup>1</sup>  So in original. Probably should be “nor”.
+<sup>1</sup> So in original. Probably should be “nor”.
 
 an Attorney General may disclose to the public any matter furnished by a promoter under section 6307e of this title except to the extent required in a legal, administrative, or judicial proceeding.
 
@@ -501,7 +501,7 @@ an Attorney General may disclose to the public any matter furnished by a promote
 
 If a State law governing a boxing commission requires that information that would be furnished by a promoter under section 6307e of this title shall be made public, then a promoter is not required to file such information with such State if the promoter files such information with the ABC.
 
-(Pub. L. 104–272, § 15, as added Pub. L. 106–210, § 4(2), May 26, 2000, 114 Stat. 325.)
+(Pub. L. 104–272, § 15, as added Pub. L. 106–210, § 4(2), May 26, 2000, 114 Stat. 325.)
 
 **Editorial Notes**
 
@@ -509,13 +509,13 @@ If a State law governing a boxing commission requires that information that woul
 
 A prior section 15 of Pub. L. 104–272 was renumbered section 23 and is set out as a note under section 6301 of this title.
 
-## § 6307h. Judges and referees
+## § 6307h. Judges and referees
 
 No person may arrange, promote, organize, produce, or fight in a professional boxing match unless all referees and judges participating in the match have been certified and approved by the boxing commission responsible for regulating the match in the State where the match is held.
 
-(Pub. L. 104–272, § 16, as added Pub. L. 106–210, § 4(2), May 26, 2000, 114 Stat. 325.)
+(Pub. L. 104–272, § 16, as added Pub. L. 106–210, § 4(2), May 26, 2000, 114 Stat. 325.)
 
-## § 6308. Conflicts of interest
+## § 6308. Conflicts of interest
 
 **(a) Regulatory personnel**
 
@@ -551,13 +551,13 @@ Except as provided in paragraph (2), no officer or employee of a sanctioning org
 
 **(B)** the receipt of a gift or benefit of de minimis value.
 
-(Pub. L. 104–272, § 17, formerly § 9, Oct. 9, 1996, 110 Stat. 3311; renumbered § 17 and amended Pub. L. 106–210, §§ 4(1), 5, May 26, 2000, 114 Stat. 322, 325.)
+(Pub. L. 104–272, § 17, formerly § 9, Oct. 9, 1996, 110 Stat. 3311; renumbered § 17 and amended Pub. L. 106–210, §§ 4(1), 5, May 26, 2000, 114 Stat. 322, 325.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2000—Pub. L. 106–210, § 5, designated existing provisions as subsec. (a), inserted subsec. heading, and added subsecs. (b) and (c).
+2000—Pub. L. 106–210, § 5, designated existing provisions as subsec. (a), inserted subsec. heading, and added subsecs. (b) and (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -565,7 +565,7 @@ Except as provided in paragraph (2), no officer or employee of a sanctioning org
 
 Section effective July 1, 1997, and not applicable to an otherwise authorized boxing commission in the Commonwealth of Virginia until July 1, 1998, see section 23(1), (2) of Pub. L. 104–272, set out as a note under section 6301 of this title.
 
-## § 6309. Enforcement
+## § 6309. Enforcement
 
 **(a) Injunctions**
 
@@ -577,7 +577,7 @@ Whenever the Attorney General of the United States has reasonable cause to belie
 
 Any manager, promoter, matchmaker, and licensee who knowingly violates, or coerces or causes any other person to violate, any provision of this chapter, other than section 6307a(b),1
 
-<sup>1</sup>  So in original. Section 6307a does not contain a subsec. (b).
+<sup>1</sup> So in original. Section 6307a does not contain a subsec. (b).
 
 6307b, 6307c, 6307d, 6307e, 6307f, or 6307h of this title, shall, upon conviction, be imprisoned for not more than 1 year or fined not more than $20,000, or both.
 
@@ -617,19 +617,19 @@ Any boxer who suffers economic injury as a result of a violation of any provisio
 
 **(3)** section 6307b of this title against a boxer acting in his capacity as a boxer.
 
-(Pub. L. 104–272, § 18, formerly § 10, Oct. 9, 1996, 110 Stat. 3312; renumbered § 18 and amended Pub. L. 106–210, §§ 4(1), 6, May 26, 2000, 114 Stat. 322, 326.)
+(Pub. L. 104–272, § 18, formerly § 10, Oct. 9, 1996, 110 Stat. 3312; renumbered § 18 and amended Pub. L. 106–210, §§ 4(1), 6, May 26, 2000, 114 Stat. 322, 326.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2000—Subsec. (b)(1). Pub. L. 106–210, § 6(1), inserted “, other than section 6307a(b), 6307b, 6307c, 6307d, 6307e, 6307f, or 6307h of this title,” after “this chapter”.
+2000—Subsec. (b)(1). Pub. L. 106–210, § 6(1), inserted “, other than section 6307a(b), 6307b, 6307c, 6307d, 6307e, 6307f, or 6307h of this title,” after “this chapter”.
 
-Subsec. (b)(2). Pub. L. 106–210, § 6(3), added par. (2). Former par. (2) redesignated (3).
+Subsec. (b)(2). Pub. L. 106–210, § 6(3), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (b)(3), (4). Pub. L. 106–210, § 6(2), (4), redesignated pars. (2) and (3) as (3) and (4), respectively, and in par. (3) substituted “section 6308(a)” for “section 6308”.
+Subsec. (b)(3), (4). Pub. L. 106–210, § 6(2), (4), redesignated pars. (2) and (3) as (3) and (4), respectively, and in par. (3) substituted “section 6308(a)” for “section 6308”.
 
-Subsecs. (c) to (e). Pub. L. 106–210, § 6(5), added subsecs. (c) to (e).
+Subsecs. (c) to (e). Pub. L. 106–210, § 6(5), added subsecs. (c) to (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -637,7 +637,7 @@ Subsecs. (c) to (e). Pub. L. 106–210, § 6(5), added subsecs. (c) to (e).
 
 Section effective Jan. 1, 1997, see section 23 of Pub. L. 104–272, set out as a note under section 6301 of this title.
 
-## § 6310. Notification of supervising boxing commission
+## § 6310. Notification of supervising boxing commission
 
 Each promoter who intends to hold a professional boxing match in a State that does not have a boxing commission shall, not later than 14 days before the intended date of that match, provide written notification to the supervising boxing commission designated under section 6303 of this title. Such notification shall contain each of the following:
 
@@ -651,7 +651,7 @@ Each promoter who intends to hold a professional boxing match in a State that do
 
 **(3)** For any individual listed under paragraph (2), the identity of the boxing commission that issued the suspension described in paragraph (2)(A).
 
-(Pub. L. 104–272, § 19, formerly § 11, Oct. 9, 1996, 110 Stat. 3312; renumbered § 19, Pub. L. 106–210, § 4(1), May 26, 2000, 114 Stat. 322.)
+(Pub. L. 104–272, § 19, formerly § 11, Oct. 9, 1996, 110 Stat. 3312; renumbered § 19, Pub. L. 106–210, § 4(1), May 26, 2000, 114 Stat. 322.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -659,7 +659,7 @@ Each promoter who intends to hold a professional boxing match in a State that do
 
 Section effective Jan. 1, 1997, see section 23 of Pub. L. 104–272, set out as a note under section 6301 of this title.
 
-## § 6311. Studies
+## § 6311. Studies
 
 **(a) Pension**
 
@@ -673,7 +673,7 @@ The Secretary of Health and Human Services shall conduct a study to develop reco
 
 Not later than one year after October 9, 1996, the Secretary of Labor shall submit a report to the Congress on the findings of the study conducted pursuant to subsection (a). Not later than 180 days after October 9, 1996, the Secretary of Health and Human Services shall submit a report to the Congress on the findings of the study conducted pursuant to subsection (b).
 
-(Pub. L. 104–272, § 20, formerly § 12, Oct. 9, 1996, 110 Stat. 3313; renumbered § 20, Pub. L. 106–210, § 4(1), May 26, 2000, 114 Stat. 322.)
+(Pub. L. 104–272, § 20, formerly § 12, Oct. 9, 1996, 110 Stat. 3313; renumbered § 20, Pub. L. 106–210, § 4(1), May 26, 2000, 114 Stat. 322.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -681,7 +681,7 @@ Not later than one year after October 9, 1996, the Secretary of Labor shall subm
 
 Section effective Jan. 1, 1997, see section 23 of Pub. L. 104–272, set out as a note under section 6301 of this title.
 
-## § 6312. Professional boxing matches conducted on Indian reservations
+## § 6312. Professional boxing matches conducted on Indian reservations
 
 **(a) Definitions** For purposes of this section, the following definitions shall apply:
 
@@ -711,7 +711,7 @@ The term “tribal organization” has the same meaning as in section 5304(*l*) 
 
 **(B)** the most recently published version of the recommended regulatory guidelines certified and published by the Association of Boxing Commissions.
 
-(Pub. L. 104–272, § 21, formerly § 13, Oct. 9, 1996, 110 Stat. 3313; renumbered § 21, Pub. L. 106–210, § 4(1), May 26, 2000, 114 Stat. 322.)
+(Pub. L. 104–272, § 21, formerly § 13, Oct. 9, 1996, 110 Stat. 3313; renumbered § 21, Pub. L. 106–210, § 4(1), May 26, 2000, 114 Stat. 322.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -719,11 +719,11 @@ The term “tribal organization” has the same meaning as in section 5304(*l*) 
 
 Section effective Jan. 1, 1997, see section 23 of Pub. L. 104–272, set out as a note under section 6301 of this title.
 
-## § 6313. Relationship with State law
+## § 6313. Relationship with State law
 
 Nothing in this chapter shall prohibit a State from adopting or enforcing supplemental or more stringent laws or regulations not inconsistent with this chapter, or criminal, civil, or administrative fines for violations of such laws or regulations.
 
-(Pub. L. 104–272, § 22, formerly § 14, Oct. 9, 1996, 110 Stat. 3313; renumbered § 22, Pub. L. 106–210, § 4(1), May 26, 2000, 114 Stat. 322.)
+(Pub. L. 104–272, § 22, formerly § 14, Oct. 9, 1996, 110 Stat. 3313; renumbered § 22, Pub. L. 106–210, § 4(1), May 26, 2000, 114 Stat. 322.)
 
 **Statutory Notes and Related Subsidiaries**
 

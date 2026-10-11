@@ -23,27 +23,27 @@ A prior chapter 869, consisting of sections 8961 to 8966, related to retired gra
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 641 of this title as this chapter and items 7420 to 7425, 7427 to 7433, and 7435 to 7439 as 8720 to 8725, 8727 to 8733, and 8735 to 8739, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 641 of this title as this chapter and items 7420 to 7425, 7427 to 7433, and 7435 to 7439 as 8720 to 8725, 8727 to 8733, and 8735 to 8739, respectively.
 
-2000—Pub. L. 106–398, § 1 [div. C, title XXXIV, § 3402(b)(3)], Oct. 30, 2000, 114 Stat. 1654, 1654A–484, struck out item 7426 “Cooperative or unit plans affecting Naval Petroleum Reserve Numbered 1”.
+2000—Pub. L. 106–398, § 1 [div. C, title XXXIV, § 3402(b)(3)], Oct. 30, 2000, 114 Stat. 1654, 1654A–484, struck out item 7426 “Cooperative or unit plans affecting Naval Petroleum Reserve Numbered 1”.
 
-1997—Pub. L. 105–85, div. C, title XXXIV, § 3404(b), Nov. 18, 1997, 111 Stat. 2061, added item 7439.
+1997—Pub. L. 105–85, div. C, title XXXIV, § 3404(b), Nov. 18, 1997, 111 Stat. 2061, added item 7439.
 
-1996—Pub. L. 104–201, div. A, title X, § 1074(a)(19), Sept. 23, 1996, 110 Stat. 2660, struck out item 7434 “Annual report to congressional committees”.
+1996—Pub. L. 104–201, div. A, title X, § 1074(a)(19), Sept. 23, 1996, 110 Stat. 2660, struck out item 7434 “Annual report to congressional committees”.
 
-Pub. L. 104–106, div. A, title XV, §§ 1502(a)(28)(B), 1503(b)(4), Feb. 10, 1996, 110 Stat. 506, 513, substituted “Agreements” for “Agreement” in item 7428 and “congressional committees” for “Armed Services Committees” in item 7434.
+Pub. L. 104–106, div. A, title XV, §§ 1502(a)(28)(B), 1503(b)(4), Feb. 10, 1996, 110 Stat. 506, 513, substituted “Agreements” for “Agreement” in item 7428 and “congressional committees” for “Armed Services Committees” in item 7434.
 
-1990—Pub. L. 101–510, div. A, title XIII, § 1331(9), Nov. 5, 1990, 104 Stat. 1673, amended item 7434 generally, substituting “Annual report” for “Quarterly reports”.
+1990—Pub. L. 101–510, div. A, title XIII, § 1331(9), Nov. 5, 1990, 104 Stat. 1673, amended item 7434 generally, substituting “Annual report” for “Quarterly reports”.
 
-1980—Pub. L. 96–513, title V, § 513(32)(C), Dec. 12, 1980, 94 Stat. 2933, substituted “Naval Petroleum Reserve Numbered” for “naval petroleum reserve numbered” in item 7426.
+1980—Pub. L. 96–513, title V, § 513(32)(C), Dec. 12, 1980, 94 Stat. 2933, substituted “Naval Petroleum Reserve Numbered” for “naval petroleum reserve numbered” in item 7426.
 
-1979—Pub. L. 96–137, § 3(b)(2), Dec. 12, 1979, 93 Stat. 1062, substituted “Authorizations of appropriations” for “Naval petroleum reserve special account” in item 7432.
+1979—Pub. L. 96–137, § 3(b)(2), Dec. 12, 1979, 93 Stat. 1062, substituted “Authorizations of appropriations” for “Naval petroleum reserve special account” in item 7432.
 
-1976—Pub. L. 94–258, title II, § 201(20), Apr. 5, 1976, 90 Stat. 313, added item 7420 and substituted “Naval petroleum reserve special account” for “Expenditures; appropriations chargeable” in item 7432.
+1976—Pub. L. 94–258, title II, § 201(20), Apr. 5, 1976, 90 Stat. 313, added item 7420 and substituted “Naval petroleum reserve special account” for “Expenditures; appropriations chargeable” in item 7432.
 
-1962—Pub. L. 87–796, § 1(13), Oct. 11, 1962, 76 Stat. 906, substituted “Rifle, Colorado, plant; possession, use, and transfer of” for “Exclusion of naval oil shale reserves” in item 7438.
+1962—Pub. L. 87–796, § 1(13), Oct. 11, 1962, 76 Stat. 906, substituted “Rifle, Colorado, plant; possession, use, and transfer of” for “Exclusion of naval oil shale reserves” in item 7438.
 
-## § 8720. Definitions
+## § 8720. Definitions
 
 In this chapter:
 
@@ -59,7 +59,7 @@ In this chapter:
 
 **(6)** The term “maximum efficient rate” means the maximum sustainable daily oil or gas rate from a reservoir which will permit economic development and depletion of that reservoir without detriment to the ultimate recovery.
 
-(Added Pub. L. 94–258, title II, § 201(1), Apr. 5, 1976, 90 Stat. 307, § 7420; amended Pub. L. 96–513, title V, § 513(30), Dec. 12, 1980, 94 Stat. 2933; Pub. L. 100–26, § 7(k)(5), Apr. 21, 1987, 101 Stat. 284; renumbered § 8720, Pub. L. 115–232, div. A, title VIII, § 807(d)(5), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 94–258, title II, § 201(1), Apr. 5, 1976, 90 Stat. 307, § 7420; amended Pub. L. 96–513, title V, § 513(30), Dec. 12, 1980, 94 Stat. 2933; Pub. L. 100–26, § 7(k)(5), Apr. 21, 1987, 101 Stat. 284; renumbered § 8720, Pub. L. 115–232, div. A, title VIII, § 807(d)(5), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Editorial Notes**
 
@@ -67,7 +67,7 @@ In this chapter:
 
 2018—Pub. L. 115–232 renumbered section 7420 of this title as this section.
 
-1987—Pub. L. 100–26 substituted colon for dash at end of introductory provisions, inserted “The term” in each par., substituted periods for semicolons in pars. (1) to (4) and period for “; and” in par. (5).
+1987—Pub. L. 100–26 substituted colon for dash at end of introductory provisions, inserted “The term” in each par., substituted periods for semicolons in pars. (1) to (4) and period for “; and” in par. (5).
 
 1980—Pub. L. 96–513 in introductory text struck out “(a)” before “In”, in par. (2) struck out provisions relating to Naval Petroleum Reserve Numbered 4, and in par. (4) substituted “Energy” for “the Navy”.
 
@@ -151,7 +151,7 @@ Pub. L. 109–58, title III, subtitle D, Aug. 8, 2005, 119 Stat. 694, provided t
 
 **Disposal of Naval Petroleum Reserves**
 
-Pub. L. 105–261, div. C, title XXXIV, Oct. 17, 1998, 112 Stat. 2265, as amended by Pub. L. 106–398, § 1 [div. C, title XXXIV, § 3403(a), (c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–484, 1654A–489; Pub. L. 108–204, title I, § 129, Mar. 2, 2004, 118 Stat. 547; Pub. L. 109–58, title III, § 331(d), Aug. 8, 2005, 119 Stat. 695; Pub. L. 110–181, div. C, title XXXIV, § 3402, Jan. 28, 2008, 122 Stat. 590, provided that:
+Pub. L. 105–261, div. C, title XXXIV, Oct. 17, 1998, 112 Stat. 2265, as amended by Pub. L. 106–398, § 1 [div. C, title XXXIV, § 3403(a), (c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–484, 1654A–489; Pub. L. 108–204, title I, § 129, Mar. 2, 2004, 118 Stat. 547; Pub. L. 109–58, title III, § 331(d), Aug. 8, 2005, 119 Stat. 695; Pub. L. 110–181, div. C, title XXXIV, § 3402, Jan. 28, 2008, 122 Stat. 590, provided that:
 
 > **“SEC. 3401. DEFINITIONS.**
 
@@ -195,7 +195,7 @@ Pub. L. 105–261, div. C, title XXXIV, Oct. 17, 1998, 112 Stat. 2265, as amende
 
 > **“(3)** Section 2696(a) of title 10, United States Code, regarding the screening of real property for further Federal use before disposal, shall apply to the disposal authorized by paragraph (1).
 
-> **“[(b)** Repealed. Pub. L. 109–58, title III, § 331(d), Aug. 8, 2005, 119 Stat. 695.]
+> **“[(b)** Repealed. Pub. L. 109–58, title III, § 331(d), Aug. 8, 2005, 119 Stat. 695.]
 
 > **“(c) Relationship to Antitrust Laws.—** This section does not modify, impair, or supersede the operation of the antitrust laws.
 
@@ -365,7 +365,7 @@ Pub. L. 105–261, div. C, title XXXIV, Oct. 17, 1998, 112 Stat. 2265, as amende
 
 > **“(f) Oil Shale Reserve Numbered 2.—** This section does not apply to the transfer of Oil Shale Reserve Numbered 2 under section 3405.”
 
-Pub. L. 104–106, div. C, title XXXIV, subtitle B, Feb. 10, 1996, 110 Stat. 631, as amended by Pub. L. 106–65, div. A, title X, § 1067(6), Oct. 5, 1999, 113 Stat. 774; Pub. L. 113–291, div. A, title X, § 1071(b)(12), Dec. 19, 2014, 128 Stat. 3507, provided that:
+Pub. L. 104–106, div. C, title XXXIV, subtitle B, Feb. 10, 1996, 110 Stat. 631, as amended by Pub. L. 106–65, div. A, title X, § 1067(6), Oct. 5, 1999, 113 Stat. 774; Pub. L. 113–291, div. A, title X, § 1071(b)(12), Dec. 19, 2014, 128 Stat. 3507, provided that:
 
 > **“SEC. 3411. DEFINITIONS.**
 
@@ -515,20 +515,20 @@ Pub. L. 104–106, div. C, title XXXIV, subtitle B, Feb. 10, 1996, 110 Stat. 631
 
 > **“(d) Report and Recommendations Regarding Study.—** Not later than June 1, 1996, the Secretary shall submit to Congress a report describing the results of the study and containing such recommendations (including proposed legislation) as the Secretary considers necessary to implement the option, or combination of options, identified in the study that would maximize the value of the naval petroleum reserves to the United States.”
 
-## § 8721. Jurisdiction and control
+## § 8721. Jurisdiction and control
 
 **(a)** The Secretary shall take possession of all properties inside the naval petroleum reserves that are or may become subject to the control of and use by the United States for national defense purposes, except as otherwise provided in this chapter.
 
 **(b)** The Secretary has exclusive jurisdiction and control over those lands inside Naval Petroleum Reserves Numbered 1 and 2 that are covered by leases granted under sections 181–184, 185–188, 189–194, 201, 202–209, 211–214, 223, 224–226, 226d, 226e, 227–229a, 241, 251, and 261–263 of title 30, and shall administer those leases.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 457, § 7421; Pub. L. 87–796, § 1(1), Oct. 11, 1962, 76 Stat. 904; Pub. L. 94–258, title II, § 201(2), Apr. 5, 1976, 90 Stat. 307; Pub. L. 98–525, title XIV, § 1405(50), Oct. 19, 1984, 98 Stat. 2625; renumbered § 8721, Pub. L. 115–232, div. A, title VIII, § 807(d)(5), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 457, § 7421; Pub. L. 87–796, § 1(1), Oct. 11, 1962, 76 Stat. 904; Pub. L. 94–258, title II, § 201(2), Apr. 5, 1976, 90 Stat. 307; Pub. L. 98–525, title XIV, § 1405(50), Oct. 19, 1984, 98 Stat. 2625; renumbered § 8721, Pub. L. 115–232, div. A, title VIII, § 807(d)(5), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7421(a) | 34 U.S.C. 524 (1st 36 words of 1st par.). | June 4, 1920, ch. 228 (1st par., 1st 36 words, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1253; June 17, 1944, ch. 262, 58 Stat. 280. |
-| 7421(b) | 34 U.S.C. 524 (293d word to end of 1st par.). | June 4, 1920, ch. 228 (1st par., 294th word to end, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1252; June 17, 1944, ch. 262, 58 Stat. 280. |
+| 7421(a) | 34 U.S.C. 524 (1st 36 words of 1st par.). | June 4, 1920, ch. 228 (1st par., 1st 36 words, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1253; June 17, 1944, ch. 262, 58 Stat. 280. |
+| 7421(b) | 34 U.S.C. 524 (293d word to end of 1st par.). | June 4, 1920, ch. 228 (1st par., 294th word to end, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1252; June 17, 1944, ch. 262, 58 Stat. 280. |
 |  | 34 U.S.C. 524a. | Feb. 25, 1928, ch. 104, 45 Stat. 148. |
 
 In subsection (b) the reference to the transfer of jurisdiction and administration is omitted as executed.
@@ -537,9 +537,9 @@ In subsection (b) the reference to the transfer of jurisdiction and administrati
 
 **References in Text**
 
-Section 194 of title 30, referred to in subsec. (b), was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 644.
+Section 194 of title 30, referred to in subsec. (b), was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 644.
 
-Section 204 of title 30, included within the reference to sections 202–209 in subsec. (b), was repealed by Pub. L. 94–377, § 13(a), Aug. 4, 1976, 90 Stat. 1090, subject to valid existing rights.
+Section 204 of title 30, included within the reference to sections 202–209 in subsec. (b), was repealed by Pub. L. 94–377, § 13(a), Aug. 4, 1976, 90 Stat. 1090, subject to valid existing rights.
 
 Sections 226d and 226e of title 30, referred to in subsec. (b), were omitted from the Code. See section 226 of Title 30, Mineral Lands and Mining.
 
@@ -547,7 +547,7 @@ Section 227 of title 30, referred to in subsec. (b), was omitted from the Code.
 
 **Prior Provisions**
 
-A prior section 8721, acts Aug. 10, 1956, ch. 1041, 70A Stat. 538; Sept. 2, 1958, Pub. L. 85–861, § 1(190)(A), 72 Stat. 1534, related to hospital benefits for members of Air Force, other than of Regular Air Force, prior to repeal by Pub. L. 99–661, div. A, title VI, § 604(f)(1)(A), Nov. 14, 1986, 100 Stat. 3877.
+A prior section 8721, acts Aug. 10, 1956, ch. 1041, 70A Stat. 538; Sept. 2, 1958, Pub. L. 85–861, § 1(190)(A), 72 Stat. 1534, related to hospital benefits for members of Air Force, other than of Regular Air Force, prior to repeal by Pub. L. 99–661, div. A, title VI, § 604(f)(1)(A), Nov. 14, 1986, 100 Stat. 3877.
 
 **Amendments**
 
@@ -565,7 +565,7 @@ A prior section 8721, acts Aug. 10, 1956, ch. 1041, 70A Stat. 538; Sept. 2, 1958
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8722. Administration
+## § 8722. Administration
 
 **(a)** The Secretary, directly or by contract, lease, or otherwise, shall explore, prospect, conserve, develop, use, and operate the naval petroleum reserves in his discretion, subject to the provisions of subsection (c) and the other provisions of this chapter; except that no petroleum leases shall be granted at Naval Petroleum Reserves Numbered 1 and 3.
 
@@ -601,27 +601,27 @@ Any pipeline in the vicinity of a naval petroleum reserve not otherwise operated
 
 **(C)** if neither House of Congress within ninety days after receipt of such report and certification adopts a resolution disapproving further production from such naval petroleum reserve.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 458, § 7422; Pub. L. 87–599, § 1, Aug. 24, 1962, 76 Stat. 401; Pub. L. 87–796, § 1(2), Oct. 11, 1962, 76 Stat. 904; Pub. L. 94–258, title II, § 201(3), Apr. 5, 1976, 90 Stat. 307; Pub. L. 96–137, § 3(a), Dec. 12, 1979, 93 Stat. 1061; Pub. L. 96–513, title V, § 513(31), Dec. 12, 1980, 94 Stat. 2933; Pub. L. 98–525, title XIV, § 1405(51), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 99–413, § 1(a), Aug. 29, 1986, 100 Stat. 944; Pub. L. 100–202, § 101(g) [title II, § 201], Dec. 22, 1987, 101 Stat. 1329–213, 1329–242; Pub. L. 101–189, div. A, title XVI, § 1622(f)(2), Nov. 29, 1989, 103 Stat. 1605; Pub. L. 107–217, § 3(b)(30), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–178, § 4(b)(6), Dec. 15, 2003, 117 Stat. 2641; renumbered § 8722 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(d)(5), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 458, § 7422; Pub. L. 87–599, § 1, Aug. 24, 1962, 76 Stat. 401; Pub. L. 87–796, § 1(2), Oct. 11, 1962, 76 Stat. 904; Pub. L. 94–258, title II, § 201(3), Apr. 5, 1976, 90 Stat. 307; Pub. L. 96–137, § 3(a), Dec. 12, 1979, 93 Stat. 1061; Pub. L. 96–513, title V, § 513(31), Dec. 12, 1980, 94 Stat. 2933; Pub. L. 98–525, title XIV, § 1405(51), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 99–413, § 1(a), Aug. 29, 1986, 100 Stat. 944; Pub. L. 100–202, § 101(g) [title II, § 201], Dec. 22, 1987, 101 Stat. 1329–213, 1329–242; Pub. L. 101–189, div. A, title XVI, § 1622(f)(2), Nov. 29, 1989, 103 Stat. 1605; Pub. L. 107–217, § 3(b)(30), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–178, § 4(b)(6), Dec. 15, 2003, 117 Stat. 2641; renumbered § 8722 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(d)(5), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7422 | 34 U.S.C. 524 (1st par., 37th through 62d words, and 123d through 185th words). | June 4, 1920, ch. 228 (1st par., 37th through 62d words, and 123d through 185th words, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1252; June 17, 1944, ch. 262, 58 Stat. 280. |
+| 7422 | 34 U.S.C. 524 (1st par., 37th through 62d words, and 123d through 185th words). | June 4, 1920, ch. 228 (1st par., 37th through 62d words, and 123d through 185th words, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1252; June 17, 1944, ch. 262, 58 Stat. 280. |
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Section 8722, acts Aug. 10, 1956, ch. 1041, 70A Stat. 539; Sept. 2, 1958, Pub. L. 85–861, § 1(190)(B), (C), 72 Stat. 1534, related to hospital and related benefits for members of a Citizens’ Air Training Camp and for members of Air Force not covered by former section 8721 of this title, prior to repeal by Pub. L. 99–661, div. A, title VI, § 604(f)(1)(A), Nov. 14, 1986, 100 Stat. 3877.
+Section 8722, acts Aug. 10, 1956, ch. 1041, 70A Stat. 539; Sept. 2, 1958, Pub. L. 85–861, § 1(190)(B), (C), 72 Stat. 1534, related to hospital and related benefits for members of a Citizens’ Air Training Camp and for members of Air Force not covered by former section 8721 of this title, prior to repeal by Pub. L. 99–661, div. A, title VI, § 604(f)(1)(A), Nov. 14, 1986, 100 Stat. 3877.
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 807(d)(5), renumbered section 7422 of this title as this section.
+2018—Pub. L. 115–232, § 807(d)(5), renumbered section 7422 of this title as this section.
 
-Subsec. (c)(1)(B)(ii). Pub. L. 115–232, § 809(a), substituted “section 8730(b)(2)” for “section 7430(b)(2)”.
+Subsec. (c)(1)(B)(ii). Pub. L. 115–232, § 809(a), substituted “section 8730(b)(2)” for “section 7430(b)(2)”.
 
-Subsec. (c)(1)(C). Pub. L. 115–232, § 809(a), substituted “section 8730” for “section 7430”.
+Subsec. (c)(1)(C). Pub. L. 115–232, § 809(a), substituted “section 8730” for “section 7430”.
 
 2003—Subsec. (c)(1). Pub. L. 108–178 substituted “land’ within the meaning of those sections” for “lands’ within the meaning of that Act” in concluding provisions.
 
@@ -631,17 +631,17 @@ Subsec. (c)(1)(C). Pub. L. 115–232, § 809(a), substituted “section 8730�
 
 1987—Subsec. (c)(1)(B)(ii). Pub. L. 100–202 inserted “(other than natural gas liquids)” after “petroleum”.
 
-1986—Subsec. (c)(1)(B). Pub. L. 99–413, § 1(a)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “to produce such reserves at the maximum efficient rate consistent with sound engineering practices for a period ending not later than April 5, 1982;”.
+1986—Subsec. (c)(1)(B). Pub. L. 99–413, § 1(a)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “to produce such reserves at the maximum efficient rate consistent with sound engineering practices for a period ending not later than April 5, 1982;”.
 
-Subsec. (c)(3). Pub. L. 99–413, § 1(a)(2), struck out par. (3) which conditioned the production authorization for Naval Petroleum Reserve Numbered 1 upon private owners’ agreements with the Secretary to continue operations of such reserve under a unitized plan contract that protected the public interest.
+Subsec. (c)(3). Pub. L. 99–413, § 1(a)(2), struck out par. (3) which conditioned the production authorization for Naval Petroleum Reserve Numbered 1 upon private owners’ agreements with the Secretary to continue operations of such reserve under a unitized plan contract that protected the public interest.
 
 1984—Subsec. (b). Pub. L. 98–525 struck out “of this section” after “subsection (c)” in provisions preceding par. (1).
 
-1980—Subsec. (c)(1). Pub. L. 96–513, § 513(31)(A)–(D), in cl. (B) substituted provisions respecting termination on April 5, 1982, for provisions respecting commencement and termination, respectively, ninety days after date of enactment of the Naval Petroleum Reserves Production Act of 1976, and not to exceed six years after such date, in cl. (C) substituted “provided in section 7430 of this title” for “hereinafter provided”, and in text following cl. (D) substituted “discrimination” for “discrimiation”, and “(40 U.S.C. 258a–258e)” for “, chapter 307 (46 Stat. 1421; 40 U.S.C. 258(a))”.
+1980—Subsec. (c)(1). Pub. L. 96–513, § 513(31)(A)–(D), in cl. (B) substituted provisions respecting termination on April 5, 1982, for provisions respecting commencement and termination, respectively, ninety days after date of enactment of the Naval Petroleum Reserves Production Act of 1976, and not to exceed six years after such date, in cl. (C) substituted “provided in section 7430 of this title” for “hereinafter provided”, and in text following cl. (D) substituted “discrimination” for “discrimiation”, and “(40 U.S.C. 258a–258e)” for “, chapter 307 (46 Stat. 1421; 40 U.S.C. 258(a))”.
 
-Subsec. (c)(2). Pub. L. 96–513, § 513(31)(E), substituted “After April 5, 1982,” for “At the conclusion of the six-year production period authorized by paragraph (1)(B) of this subsection”.
+Subsec. (c)(2). Pub. L. 96–513, § 513(31)(E), substituted “After April 5, 1982,” for “At the conclusion of the six-year production period authorized by paragraph (1)(B) of this subsection”.
 
-Subsec. (c)(3). Pub. L. 96–513, § 513(31)(F), substituted “by July 4, 1976” for “within ninety days after the date of enactment of the Naval Petroleum Reserves Production Act of 1976”.
+Subsec. (c)(3). Pub. L. 96–513, § 513(31)(F), substituted “by July 4, 1976” for “within ninety days after the date of enactment of the Naval Petroleum Reserves Production Act of 1976”.
 
 1979—Subsec. (c)(1). Pub. L. 96–137 struck out in text following subpar. (D), provision requiring that pipelines and associated facilities constructed at or procured for Naval Petroleum Reserve Numbered 1 pursuant to this subsection have adequate capacity to accommodate not less than three hundred fifty thousand barrels of oil per day and be fully operable as soon as possible, but not later than three years after the date of enactment of the Naval Petroleum Reserves Production Act of 1976.
 
@@ -677,19 +677,19 @@ Pub. L. 101–512, title II, Nov. 5, 1990, 104 Stat. 1947, provided in part: “
 
 **Connections to Pipeline in South Barrow Gas Field**
 
-Pub. L. 87–599, § 3, Aug. 24, 1962, 76 Stat. 401, provided that: “The Federal agency or agencies in control of any pipeline between gas wells in the South Barrow gas field and the town of Barrow may authorize purchasers of the gas or carriers of the gas to install connections to such pipeline.”
+Pub. L. 87–599, § 3, Aug. 24, 1962, 76 Stat. 401, provided that: “The Federal agency or agencies in control of any pipeline between gas wells in the South Barrow gas field and the town of Barrow may authorize purchasers of the gas or carriers of the gas to install connections to such pipeline.”
 
-## § 8723. Periodic re-examination of production requirements
+## § 8723. Periodic re-examination of production requirements
 
 The Secretary shall from time to time reexamine the need for the production of petroleum from oil shale for national defense when that production is authorized under section 8722 of this title. If he finds that the authorized quantity is no longer needed, he shall reduce production to the amount currently needed for national defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 458, § 7423; Pub. L. 87–796, § 1(3), Oct. 11, 1962, 76 Stat. 904; Pub. L. 94–258, title II, § 201(4), Apr. 5, 1976, 90 Stat. 309; renumbered § 8723 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(d)(5), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 458, § 7423; Pub. L. 87–796, § 1(3), Oct. 11, 1962, 76 Stat. 904; Pub. L. 94–258, title II, § 201(4), Apr. 5, 1976, 90 Stat. 309; renumbered § 8723 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(d)(5), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7423 | 34 U.S.C. 524 (186th through 243d words of 1st par.). | June 4, 1920, ch. 228 (1st par., 186th through 243d words, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1252; June 17, 1944, ch. 262, 58 Stat. 280. |
+| 7423 | 34 U.S.C. 524 (186th through 243d words of 1st par.). | June 4, 1920, ch. 228 (1st par., 186th through 243d words, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1252; June 17, 1944, ch. 262, 58 Stat. 280. |
 
 **Editorial Notes**
 
@@ -699,9 +699,9 @@ A prior section 8723 was renumbered section 9263 of this title.
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 809(a), substituted “section 8722” for “section 7422”.
+2018—Pub. L. 115–232, § 809(a), substituted “section 8722” for “section 7422”.
 
-Pub. L. 115–232, § 807(d)(5), renumbered section 7423 of this title as this section.
+Pub. L. 115–232, § 807(d)(5), renumbered section 7423 of this title as this section.
 
 1976—Pub. L. 94–258 struck out “of the Navy” after “Secretary” and “or products” after “petroleum”.
 
@@ -713,7 +713,7 @@ Pub. L. 115–232, § 807(d)(5), renumbered section 7423 of this title as this
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8724. Protection of oil reserves; contracts for conservation
+## § 8724. Protection of oil reserves; contracts for conservation
 
 **(a)** To consolidate and protect the oil lands owned by the United States, the Secretary may—
 
@@ -733,13 +733,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(b)** The Secretary shall report annually to Congress all agreements under this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 458, § 7424; Pub. L. 87–796, § 1(4), Oct. 11, 1962, 76 Stat. 904; Pub. L. 94–258, title II, § 201(5), Apr. 5, 1976, 90 Stat. 309; Pub. L. 96–513, title V, § 513(32)(A), Dec. 12, 1980, 94 Stat. 2933; renumbered § 8724, Pub. L. 115–232, div. A, title VIII, § 807(d)(5), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 458, § 7424; Pub. L. 87–796, § 1(4), Oct. 11, 1962, 76 Stat. 904; Pub. L. 94–258, title II, § 201(5), Apr. 5, 1976, 90 Stat. 309; Pub. L. 96–513, title V, § 513(32)(A), Dec. 12, 1980, 94 Stat. 2933; renumbered § 8724, Pub. L. 115–232, div. A, title VIII, § 807(d)(5), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7424 | 34 U.S.C. 524 (4th par., less 1st proviso). | June 4, 1920, ch. 228 (4th par., less 1st proviso, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1252; June 17, 1944, ch. 262, 58 Stat. 282. |
+| 7424 | 34 U.S.C. 524 (4th par., less 1st proviso). | June 4, 1920, ch. 228 (4th par., less 1st proviso, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1252; June 17, 1944, ch. 262, 58 Stat. 282. |
 
 **Editorial Notes**
 
@@ -763,7 +763,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 8725. Acquisition by condemnation and purchase
+## § 8725. Acquisition by condemnation and purchase
 
 **(a)** Whenever the Secretary is unable to make arrangements he considers satisfactory for exchanges of land or agreements for conservation authorized by section 8724 of this title, the Secretary may acquire, with the approval of the President, such privately owned lands and leases—
 
@@ -773,13 +773,13 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **(b)** The Secretary shall report annually to Congress all proceedings for purchase and condemnation under this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 458, § 7425; Pub. L. 94–258, title II, § 201(6), Apr. 5, 1976, 90 Stat. 309; Pub. L. 96–513, title V, § 513(32)(A), Dec. 12, 1980, 94 Stat. 2933; Pub. L. 106–398, § 1 [div. C, title XXXIV, § 3402(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–484; renumbered § 8725 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(d)(5), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 458, § 7425; Pub. L. 94–258, title II, § 201(6), Apr. 5, 1976, 90 Stat. 309; Pub. L. 96–513, title V, § 513(32)(A), Dec. 12, 1980, 94 Stat. 2933; Pub. L. 106–398, § 1 [div. C, title XXXIV, § 3402(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–484; renumbered § 8725 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(d)(5), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7425 | 34 U.S.C. 524 (5th par., 1st 123 words, and 169th through 193d words). | June 4, 1920, ch. 228 (5th par., 1st 123 words, and 169th through 193d words, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1252; June 17, 1944, ch. 262, 58 Stat. 282. |
+| 7425 | 34 U.S.C. 524 (5th par., 1st 123 words, and 169th through 193d words). | June 4, 1920, ch. 228 (5th par., 1st 123 words, and 169th through 193d words, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1252; June 17, 1944, ch. 262, 58 Stat. 282. |
 
 The words “Whenever the Secretary of the Navy is unable” are substituted for the words “In the event of the inability of the Secretary of the Navy” for brevity.
 
@@ -787,9 +787,9 @@ The words “Whenever the Secretary of the Navy is unable” are substituted for
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 807(d)(5), renumbered section 7425 of this title as this section.
+2018—Pub. L. 115–232, § 807(d)(5), renumbered section 7425 of this title as this section.
 
-Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 8724” for “section 7424” in introductory provisions.
+Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 8724” for “section 7424” in introductory provisions.
 
 2000—Subsec. (a). Pub. L. 106–398 substituted “for exchanges of land or agreements for conservation authorized by section 7424 of this title, the Secretary may acquire” for “for—
 
@@ -813,17 +813,17 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 8727. Cooperative or unit plans in the naval petroleum reserves
+## § 8727. Cooperative or unit plans in the naval petroleum reserves
 
 The Secretary, with the consent of the President, may make agreements, with respect to lands inside the naval petroleum reserves, of the same type as the Secretary of the Interior may make under section 17(m) of the Act of February 25, 1920 (30 U.S.C. 226(m)). No such agreement made by the Secretary may extend the term of any lease unless the agreement so provides.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 460, § 7427; Pub. L. 94–258, title II, § 201(8), Apr. 5, 1976, 90 Stat. 309; Pub. L. 96–513, title V, § 513(33), Dec. 12, 1980, 94 Stat. 2934; Pub. L. 100–456, div. A, title XII, § 1233(g)(3), Sept. 29, 1988, 102 Stat. 2058; renumbered § 8727, Pub. L. 115–232, div. A, title VIII, § 807(d)(5), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 460, § 7427; Pub. L. 94–258, title II, § 201(8), Apr. 5, 1976, 90 Stat. 309; Pub. L. 96–513, title V, § 513(33), Dec. 12, 1980, 94 Stat. 2934; Pub. L. 100–456, div. A, title XII, § 1233(g)(3), Sept. 29, 1988, 102 Stat. 2058; renumbered § 8727, Pub. L. 115–232, div. A, title VIII, § 807(d)(5), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7427 | 30 U.S.C. 236b (last 46 words). | Aug. 8, 1946, ch. 916, § 13 (29th through 85th words) 60 Stat. 958. |
+| 7427 | 30 U.S.C. 236b (last 46 words). | Aug. 8, 1946, ch. 916, § 13 (29th through 85th words) 60 Stat. 958. |
 
 **Editorial Notes**
 
@@ -865,17 +865,17 @@ Ex. Ord. No. 12784, Dec. 19, 1991, 56 F.R. 66339.
 
 Ex. Ord. No. 12659, Dec. 15, 1988, 53 F.R. 50911.
 
-## § 8728. Agreements and leases: provision for change
+## § 8728. Agreements and leases: provision for change
 
 Every unit or cooperative plan of development and operation and every lease affecting lands owned by the United States within Naval Petroleum Reserve Numbered 2 and the oil shale reserves shall contain a provision authorizing the Secretary, subject to approval by the President and to any limitation in the plan or lease, to change from time to time the rate of prospecting and development on, and the quantity and rate of production from, lands of the United States under the plan or lease, notwithstanding any other provision of law.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 460, § 7428; Pub. L. 87–796, § 1(5), Oct. 11, 1962, 76 Stat. 905; Pub. L. 94–258, title II, § 201(9), Apr. 5, 1976, 90 Stat. 309; Pub. L. 106–398, § 1 [div. C, title XXXIV, § 3402(b)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–484; renumbered § 8728, Pub. L. 115–232, div. A, title VIII, § 807(d)(5), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 460, § 7428; Pub. L. 87–796, § 1(5), Oct. 11, 1962, 76 Stat. 905; Pub. L. 94–258, title II, § 201(9), Apr. 5, 1976, 90 Stat. 309; Pub. L. 106–398, § 1 [div. C, title XXXIV, § 3402(b)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–484; renumbered § 8728, Pub. L. 115–232, div. A, title VIII, § 807(d)(5), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7428 | 34 U.S.C. 524 (proviso of 6th par.). | June 4, 1920, ch. 228 (6th par., proviso, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1252; June 17, 1944, ch. 262, 58 Stat. 282. |
+| 7428 | 34 U.S.C. 524 (proviso of 6th par.). | June 4, 1920, ch. 228 (6th par., proviso, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1252; June 17, 1944, ch. 262, 58 Stat. 282. |
 
 The words “entered into after July 1, 1937” and “entered into subsequent to July 1, 1937” are omitted as surplusage. The words “in his discretion” are omitted as surplusage.
 
@@ -885,7 +885,7 @@ The words “entered into after July 1, 1937” and “entered into subsequent t
 
 2018—Pub. L. 115–232 renumbered section 7428 of this title as this section.
 
-2000—Pub. L. 106–398 struck out “, except a plan authorized by section 7426 of this title,” after “development and operation”.
+2000—Pub. L. 106–398 struck out “, except a plan authorized by section 7426 of this title,” after “development and operation”.
 
 1976—Pub. L. 94–258 substituted “within Naval Petroleum Reserve Numbered 2 and the oil shale reserves shall contain a provision authorizing the Secretary” for “within the naval petroleum and oil shale reserves shall contain a provision authorizing the Secretary of the Navy”.
 
@@ -903,17 +903,17 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Functions of the President under this section were delegated to the Secretary of Energy by Ex. Ord. No. 12929, Sept. 29, 1994, 59 F.R. 50473, set out as a note under section 7427 of this title.
 
-## § 8729. Re-lease of certain lands: lessee’s preferential right
+## § 8729. Re-lease of certain lands: lessee’s preferential right
 
 The Secretary, on terms prescribed by him, may re-lease lands in the naval petroleum reserves that were covered by leases made before July 1, 1936, and terminated by law at the expiration of their initial twenty-year periods. If any such land is to be re-leased, the Secretary shall give to the former lessee preferential rights to the new lease.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 460, § 7429; Pub. L. 94–258, title II, § 201(10), Apr. 5, 1976, 90 Stat. 309; renumbered § 8729, Pub. L. 115–232, div. A, title VIII, § 807(d)(5), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 460, § 7429; Pub. L. 94–258, title II, § 201(10), Apr. 5, 1976, 90 Stat. 309; renumbered § 8729, Pub. L. 115–232, div. A, title VIII, § 807(d)(5), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7429 | 34 U.S.C. 524 (6th par., less proviso). | June 4, 1920, ch. 228 (6th par., less proviso, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1253; June 17, 1944, ch. 262, 58 Stat. 282. |
+| 7429 | 34 U.S.C. 524 (6th par., less proviso). | June 4, 1920, ch. 228 (6th par., less proviso, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1253; June 17, 1944, ch. 262, 58 Stat. 282. |
 
 The source law provided that leases of lands of the United States within the naval petroleum reserves in existence before July 1, 1936, except leases that had become part of an approved unit or cooperative plan and agreement, should terminate at the end of their initial 20-year period, and that the lands covered by these leases could then be re-leased by the Secretary of the Navy. All of the leases covered by this provision have terminated as provided therein. Thus the provision for the termination of the leases is executed and the only remaining effect of the source is to authorize the re-lease of the lands formerly covered by the terminated leases. This section is worded accordingly. Reference to the classes of leases that were excepted from the termination is omitted as unnecessary because these leases were, of course, not terminated. They are not affected, since this section refers only to leases that were “terminated by law”. The word “conditions” is omitted as included in the word “terms”.
 
@@ -931,7 +931,7 @@ The source law provided that leases of lands of the United States within the nav
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8730. Disposition of products
+## § 8730. Disposition of products
 
 **(a)** In administering the naval petroleum reserves under this chapter, the Secretary shall use, store, or sell the petroleum produced from the naval petroleum reserves and lands covered by joint, unit, or other cooperative plans.
 
@@ -1001,14 +1001,14 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(4)** Paragraph (1) does not apply to any petroleum set aside for small refiners under subsection (d) or placed in the Strategic Petroleum Reserve under subsection (k).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 460, § 7430; Pub. L. 87–599, § 2, Aug. 24, 1962, 76 Stat. 401; Pub. L. 87–796, § 1(6), Oct. 11, 1962, 76 Stat. 905; Pub. L. 94–258, title II, § 201(11), Apr. 5, 1976, 90 Stat. 309; Pub. L. 96–294, title VIII, § 804, June 30, 1980, 94 Stat. 777; Pub. L. 96–513, title V, § 513(34), Dec. 12, 1980, 94 Stat. 2934; Pub. L. 97–22, § 11(a)(10), July 10, 1981, 95 Stat. 138; Pub. L. 98–525, title XIV, § 1405(53), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 99–413, § 1(b), (c), Aug. 29, 1986, 100 Stat. 944, 945; Pub. L. 100–26, § 7(k)(9), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–202, § 101(g) [title II, § 201], Dec. 22, 1987, 101 Stat. 1329–213, 1329–242; Pub. L. 100–456, div. A, title XII, § 1233(e)(2), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 106–398, § 1 [div. C, title XXXIV, § 3401], Oct. 30, 2000, 114 Stat. 1654, 1654A–484; Pub. L. 107–107, div. A, title X, § 1048(e)(12), Dec. 28, 2001, 115 Stat. 1228; Pub. L. 114–328, div. A, title X, § 1081(b)(3)(E), Dec. 23, 2016, 130 Stat. 2419; renumbered § 8730 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(d)(5), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 460, § 7430; Pub. L. 87–599, § 2, Aug. 24, 1962, 76 Stat. 401; Pub. L. 87–796, § 1(6), Oct. 11, 1962, 76 Stat. 905; Pub. L. 94–258, title II, § 201(11), Apr. 5, 1976, 90 Stat. 309; Pub. L. 96–294, title VIII, § 804, June 30, 1980, 94 Stat. 777; Pub. L. 96–513, title V, § 513(34), Dec. 12, 1980, 94 Stat. 2934; Pub. L. 97–22, § 11(a)(10), July 10, 1981, 95 Stat. 138; Pub. L. 98–525, title XIV, § 1405(53), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 99–413, § 1(b), (c), Aug. 29, 1986, 100 Stat. 944, 945; Pub. L. 100–26, § 7(k)(9), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–202, § 101(g) [title II, § 201], Dec. 22, 1987, 101 Stat. 1329–213, 1329–242; Pub. L. 100–456, div. A, title XII, § 1233(e)(2), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 106–398, § 1 [div. C, title XXXIV, § 3401], Oct. 30, 2000, 114 Stat. 1654, 1654A–484; Pub. L. 107–107, div. A, title X, § 1048(e)(12), Dec. 28, 2001, 115 Stat. 1228; Pub. L. 114–328, div. A, title X, § 1081(b)(3)(E), Dec. 23, 2016, 130 Stat. 2419; renumbered § 8730 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(d)(5), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7430(a) | 34 U.S.C. 524 (244th through 293d words of 1st par.). | June 4, 1920, ch. 228 (1st par., 244th through 293d words, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1252; June 17, 1944, ch. 262, 58 Stat. 281. |
-| 7430(b) | 34 U.S.C. 524 (2d sentence of 3d par.). | June 4, 1920, ch. 228 (3d par., 2d sentence, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1252; June 17, 1944, ch. 262, 58 Stat. 281. |
+| 7430(a) | 34 U.S.C. 524 (244th through 293d words of 1st par.). | June 4, 1920, ch. 228 (1st par., 244th through 293d words, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1252; June 17, 1944, ch. 262, 58 Stat. 281. |
+| 7430(b) | 34 U.S.C. 524 (2d sentence of 3d par.). | June 4, 1920, ch. 228 (3d par., 2d sentence, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1252; June 17, 1944, ch. 262, 58 Stat. 281. |
 
 In subsection (a) the words “subject to the applicable limitations and restrictions of this Act” are omitted as surplusage and the words “in administering” are inserted.
 
@@ -1018,29 +1018,29 @@ In subsection (b) the words “under this section” are substituted for the wor
 
 **References in Text**
 
-The Export Administration Act of 1979, referred to in subsec. (e), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
+The Export Administration Act of 1979, referred to in subsec. (e), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
 
 The Sherman Act, referred to in subsec. (i)(1), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 15 and Tables.
 
 The Clayton Act, referred to in subsec. (i)(2), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (i)(3), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
+The Federal Trade Commission Act, referred to in subsec. (i)(3), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
 Sections 73 and 74 of the Wilson Tariff Act, referred to in subsec. (i)(4), are sections 73 and 74 of act Aug. 27, 1894, ch. 349, 28 Stat. 570, which enacted sections 8 and 9, respectively, of Title 15.
 
 Act of June 19, 1936, referred to in subsec. (i)(5), is act June 19, 1936, ch. 592, 49 Stat. 1526, popularly known as the Robinson-Patman Antidiscrimination Act and also as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of Title 15 and amended section 13 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 13 of Title 15 and Tables.
 
-The Natural Gas Act, referred to in subsec. (j), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
+The Natural Gas Act, referred to in subsec. (j), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 807(d)(5), renumbered section 7430 of this title as this section.
+2018—Pub. L. 115–232, § 807(d)(5), renumbered section 7430 of this title as this section.
 
-Subsec. (f). Pub. L. 115–232, § 809(a), substituted “section 8722(c)” for “section 7422(c)” and “section 8731(a)(3)” for “section 7431(a)(3)”.
+Subsec. (f). Pub. L. 115–232, § 809(a), substituted “section 8722(c)” for “section 7422(c)” and “section 8731(a)(3)” for “section 7431(a)(3)”.
 
 2016—Subsec. (e). Pub. L. 114–328 substituted “(50 U.S.C. 4601 et seq.)” for “(50 U.S.C. App. 2401 et seq.)”.
 
-2001—Subsec. (b)(2). Pub. L. 107–107 substituted “at a price less than the current sales price” for “at a price less than the higher of— (A) the current sales price”, substituted a period for “; or” after “petroleum in the same area”, and struck out subpar. (B) which read as follows: “the price of petroleum being purchased for the Strategic Petroleum Reserve, minus the cost of transporting petroleum from the naval petroleum reserve concerned to the nearest storage area of the Strategic Petroleum Reserve, with adjustments for the difference in the quality of the petroleum being purchased for the Strategic Petroleum Reserve and petroleum being produced from the naval petroleum reserve concerned.”
+2001—Subsec. (b)(2). Pub. L. 107–107 substituted “at a price less than the current sales price” for “at a price less than the higher of— (A) the current sales price”, substituted a period for “; or” after “petroleum in the same area”, and struck out subpar. (B) which read as follows: “the price of petroleum being purchased for the Strategic Petroleum Reserve, minus the cost of transporting petroleum from the naval petroleum reserve concerned to the nearest storage area of the Strategic Petroleum Reserve, with adjustments for the difference in the quality of the petroleum being purchased for the Strategic Petroleum Reserve and petroleum being produced from the naval petroleum reserve concerned.”
 
 2000—Subsec. (b)(2). Pub. L. 106–398 substituted “Naval Petroleum Reserves Numbered 2 and 3” for “Naval Petroleum Reserves Numbered 1, 2, and 3” in introductory provisions and struck out “90 percent of” before “the current sales price” in subpar. (A).
 
@@ -1050,33 +1050,33 @@ Subsec. (f). Pub. L. 115–232, § 809(a), substituted “section 8722(c)” f
 
 Subsec. (i). Pub. L. 100–26 substituted “In” for “As used in”.
 
-1986—Subsec. (b). Pub. L. 99–413, § 1(b), designated existing provisions as par. (1), substituted “Subject to paragraph (2) and notwithstanding” for “Notwithstanding”, and added par. (2).
+1986—Subsec. (b). Pub. L. 99–413, § 1(b), designated existing provisions as par. (1), substituted “Subject to paragraph (2) and notwithstanding” for “Notwithstanding”, and added par. (2).
 
-Subsec. (g)(2). Pub. L. 99–413, § 1(c), substituted “15 days” for “30 days” and “15-day” for “30-day”.
+Subsec. (g)(2). Pub. L. 99–413, § 1(c), substituted “15 days” for “30 days” and “15-day” for “30-day”.
 
-1984—Subsec. (d)(4). Pub. L. 98–525, § 1405(53)(A), struck out “of this section” after “subsection (b)”.
+1984—Subsec. (d)(4). Pub. L. 98–525, § 1405(53)(A), struck out “of this section” after “subsection (b)”.
 
-Subsec. (g)(2). Pub. L. 98–525, § 1405(53)(B), substituted “30 days” for “thirty days” and “30-day” for “thirty day”.
+Subsec. (g)(2). Pub. L. 98–525, § 1405(53)(B), substituted “30 days” for “thirty days” and “30-day” for “thirty day”.
 
-Subsec. (*l*)(4). Pub. L. 98–525, § 1405(53)(C), struck out “of this section” after “subsection (d)” and “subsection (k)”.
+Subsec. (*l*)(4). Pub. L. 98–525, § 1405(53)(C), struck out “of this section” after “subsection (d)” and “subsection (k)”.
 
 1981—Subsec. (e). Pub. L. 97–22 substituted “Export Administration Act of 1979” for “Export Administration Act of 1969” in three places.
 
-1980—Subsec. (b). Pub. L. 96–294, § 804(a), struck out “for periods of not more than one year,” after “qualified bidder,” and inserted last sentence limiting sales of the United States share of petroleum to periods of not more than one year, except for sales of natural gas.
+1980—Subsec. (b). Pub. L. 96–294, § 804(a), struck out “for periods of not more than one year,” after “qualified bidder,” and inserted last sentence limiting sales of the United States share of petroleum to periods of not more than one year, except for sales of natural gas.
 
 Subsecs. (c), (d)(3). Pub. L. 96–513(34)(A), substituted “percent” for “per centum”.
 
-Subsec. (e). Pub. L. 96–513, § 513(34)(B), substituted “(50 U.S.C. App. 2401 et seq.)” for “(83 Stat. 841)”.
+Subsec. (e). Pub. L. 96–513, § 513(34)(B), substituted “(50 U.S.C. App. 2401 et seq.)” for “(83 Stat. 841)”.
 
-Subsec. (f). Pub. L. 96–513, § 513(34)(C), inserted references to this title wherever appearing.
+Subsec. (f). Pub. L. 96–513, § 513(34)(C), inserted references to this title wherever appearing.
 
-Subsec. (i). Pub. L. 96–513, § 513(34)(D), substituted “(1) the Sherman Act (15 U.S.C. 1 et seq.);”, “(2) the Clayton Act (15 U.S.C. 12 et seq.);”, “(3) the Federal Trade Commission Act (15 U.S.C. 41 et seq.);”, “(4) sections 73 and 74 of the Wilson Tariff Act (15 U.S.C. 8 and 9); and”, and “(5) sections 2, 3, and 4 of the Act of June 19, 1936 (commonly referred to as the ‘Robinson-Patman Act’) (15 U.S.C. 13a, 13b, and 21a).” for “(1) the Act entitled ‘An Act to protect trade and commerce against unlawful restraints and monopolies’, approved July 2, 1890 (15 U.S.C. 1 et seq.), as amended;” “(2) the Act entitled ‘An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes’, approved October 15, 1914 (15 U.S.C. 12 et seq.), as amended;” “(3) the Federal Trade Commission Act (15 U.S.C. 41 et seq.), as amended;” “(4) sections 73 and 74 of the Act entitled ‘An Act to reduce taxation, to provide revenue for the Government, and for other purposes’, approved August 27, 1894 (15 U.S.C. 8 and 9), as amended; or”, and “(5) sections 2, 3, and 4 of the Act of June 19, 1936, chapter 592 (15 U.S.C. 13a, 13b, and 21a)”, respectively.
+Subsec. (i). Pub. L. 96–513, § 513(34)(D), substituted “(1) the Sherman Act (15 U.S.C. 1 et seq.);”, “(2) the Clayton Act (15 U.S.C. 12 et seq.);”, “(3) the Federal Trade Commission Act (15 U.S.C. 41 et seq.);”, “(4) sections 73 and 74 of the Wilson Tariff Act (15 U.S.C. 8 and 9); and”, and “(5) sections 2, 3, and 4 of the Act of June 19, 1936 (commonly referred to as the ‘Robinson-Patman Act’) (15 U.S.C. 13a, 13b, and 21a).” for “(1) the Act entitled ‘An Act to protect trade and commerce against unlawful restraints and monopolies’, approved July 2, 1890 (15 U.S.C. 1 et seq.), as amended;” “(2) the Act entitled ‘An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes’, approved October 15, 1914 (15 U.S.C. 12 et seq.), as amended;” “(3) the Federal Trade Commission Act (15 U.S.C. 41 et seq.), as amended;” “(4) sections 73 and 74 of the Act entitled ‘An Act to reduce taxation, to provide revenue for the Government, and for other purposes’, approved August 27, 1894 (15 U.S.C. 8 and 9), as amended; or”, and “(5) sections 2, 3, and 4 of the Act of June 19, 1936, chapter 592 (15 U.S.C. 13a, 13b, and 21a)”, respectively.
 
-Subsec. (j). Pub. L. 96–513, § 513(34)(E), inserted “(15 U.S.C. 717 et seq.)”.
+Subsec. (j). Pub. L. 96–513, § 513(34)(E), inserted “(15 U.S.C. 717 et seq.)”.
 
-Subsec. (k). Pub. L. 96–294, § 804(b), amended subsec. (k) generally, inserting references to the Secretary, provision authorizing the exchange of petroleum under terms and conditions determined appropriate without regard to Federal procurement statutes and regulations, and provision making 42 U.S.C. 6239 inapplicable.
+Subsec. (k). Pub. L. 96–294, § 804(b), amended subsec. (k) generally, inserting references to the Secretary, provision authorizing the exchange of petroleum under terms and conditions determined appropriate without regard to Federal procurement statutes and regulations, and provision making 42 U.S.C. 6239 inapplicable.
 
-Subsec. (*l*). Pub. L. 96–294, § 804(c), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 96–294, § 804(c), added subsec. (*l*).
 
 1976—Subsec. (a). Pub. L. 94–258 substituted provisions setting forth requirements for Secretary in administering naval petroleum reserves under this chapter, for provisions setting forth requirements for Secretary of the Navy in administering naval petroleum and oil shale reserves under this chapter.
 
@@ -1106,23 +1106,23 @@ Pub. L. 106–291, title II, Oct. 11, 2000, 114 Stat. 976, provided in part: “
 
 Similar provisions were contained in the following appropriation and authorization acts:
 
-Pub. L. 106–113, div. B, § 1000(a)(3) [title II], Nov. 29, 1999, 113 Stat. 1535, 1501A–179.
+Pub. L. 106–113, div. B, § 1000(a)(3) [title II], Nov. 29, 1999, 113 Stat. 1535, 1501A–179.
 
-Pub. L. 105–277, div. A, § 101(e) [title II], Oct. 21, 1998, 112 Stat. 2681–231, 2681–276.
+Pub. L. 105–277, div. A, § 101(e) [title II], Oct. 21, 1998, 112 Stat. 2681–231, 2681–276.
 
-Pub. L. 105–85, div. C, title XXXIV, § 3402, Nov. 18, 1997, 111 Stat. 2059.
+Pub. L. 105–85, div. C, title XXXIV, § 3402, Nov. 18, 1997, 111 Stat. 2059.
 
 Pub. L. 105–83, title II, Nov. 14, 1997, 111 Stat. 1580.
 
-Pub. L. 104–208, div. A, title I, § 101(d) [title II], Sept. 30, 1996, 110 Stat. 3009–181, 3009–210.
+Pub. L. 104–208, div. A, title I, § 101(d) [title II], Sept. 30, 1996, 110 Stat. 3009–181, 3009–210.
 
-Pub. L. 104–201, div. C, title XXXIV, § 3402, Sept. 23, 1996, 110 Stat. 2858.
+Pub. L. 104–201, div. C, title XXXIV, § 3402, Sept. 23, 1996, 110 Stat. 2858.
 
-Pub. L. 104–134, title I, § 101(c) [title II], Apr. 26, 1996, 110 Stat. 1321–156, 1321–187; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+Pub. L. 104–134, title I, § 101(c) [title II], Apr. 26, 1996, 110 Stat. 1321–156, 1321–187; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
-Pub. L. 104–106, div. C, title XXXIV, § 3402, Feb. 10, 1996, 110 Stat. 631.
+Pub. L. 104–106, div. C, title XXXIV, § 3402, Feb. 10, 1996, 110 Stat. 631.
 
-Pub. L. 103–337, div. C, title XXXV, § 3502, Oct. 5, 1994, 108 Stat. 3111.
+Pub. L. 103–337, div. C, title XXXV, § 3502, Oct. 5, 1994, 108 Stat. 3111.
 
 Pub. L. 103–332, title II, Sept. 30, 1994, 108 Stat. 2525.
 
@@ -1134,7 +1134,7 @@ Pub. L. 103–138, title II, Nov. 11, 1993, 107 Stat. 1405.
 
 Functions vested in President by subsec. (k) of this section delegated to Secretary of Energy by section 1–102 of Ex. Ord. No. 12231, Aug. 4, 1980, 45 F.R. 52139, set out as a note under section 6240 of Title 42, The Public Health and Welfare.
 
-## § 8731. Requirements as to consultation and approval
+## § 8731. Requirements as to consultation and approval
 
 **(a)** The Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives must be consulted and the President’s approval must be obtained before any condemnation proceedings may be started under this chapter and before any of the following transactions authorized by this chapter may be effective:
 
@@ -1154,21 +1154,21 @@ Functions vested in President by subsec. (k) of this section delegated to Secret
 
 **(2)** All plans or substantial amendments submitted to the Congress pursuant to this section shall contain a report by the Attorney General of the United States with respect to the anticipated effects of such plans or amendments on competition. Such plans or amendments shall not be implemented until sixty days after such plans or amendments have been submitted to such committees.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 460, § 7431; Pub. L. 87–796, § 1(7), Oct. 11, 1962, 76 Stat. 905; Pub. L. 94–258, title II, § 201(12), Apr. 5, 1976, 90 Stat. 311; Pub. L. 98–525, title XIV, § 1405(52), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 99–145, title XIII, § 1303(a)(25), Nov. 8, 1985, 99 Stat. 740; Pub. L. 104–106, div. A, title XV, § 1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 114–92, div. A, title X, § 1073(b), Nov. 25, 2015, 129 Stat. 995; renumbered § 8731 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(d)(5), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 460, § 7431; Pub. L. 87–796, § 1(7), Oct. 11, 1962, 76 Stat. 905; Pub. L. 94–258, title II, § 201(12), Apr. 5, 1976, 90 Stat. 311; Pub. L. 98–525, title XIV, § 1405(52), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 99–145, title XIII, § 1303(a)(25), Nov. 8, 1985, 99 Stat. 740; Pub. L. 104–106, div. A, title XV, § 1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 114–92, div. A, title X, § 1073(b), Nov. 25, 2015, 129 Stat. 995; renumbered § 8731 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(d)(5), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7431 | 34 U.S.C. 524 (1st proviso of 4th par.). | June 4, 1920, ch. 228 (4th par., 1st proviso, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1252; June 17, 1944, ch. 262, 58 Stat. 282. |
+| 7431 | 34 U.S.C. 524 (1st proviso of 4th par.). | June 4, 1920, ch. 228 (4th par., 1st proviso, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1252; June 17, 1944, ch. 262, 58 Stat. 282. |
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 807(d)(5), renumbered section 7431 of this title as this section.
+2018—Pub. L. 115–232, § 807(d)(5), renumbered section 7431 of this title as this section.
 
-Subsec. (b)(1). Pub. L. 115–232, § 809(a), substituted “section 8722(c)” for “section 7422(c)”.
+Subsec. (b)(1). Pub. L. 115–232, § 809(a), substituted “section 8722(c)” for “section 7422(c)”.
 
 2015—Subsec. (c). Pub. L. 114–92 struck out subsec. (c) which required annual reports relating to naval petroleum reserves.
 
@@ -1176,7 +1176,7 @@ Subsec. (b)(1). Pub. L. 115–232, § 809(a), substituted “section 8722(c)�
 
 1996—Subsecs. (a), (b)(1), (c). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
 
-1985—Subsec. (c). Pub. L. 99–145 in pars. (1) to (3) substituted “The” for “the” at beginning and periods for the semicolons at end, in par. (4) substituted “A summary” for “a summary” and a period for “; and”, and in par. (5) substituted “Such” for “such”.
+1985—Subsec. (c). Pub. L. 99–145 in pars. (1) to (3) substituted “The” for “the” at beginning and periods for the semicolons at end, in par. (4) substituted “A summary” for “a summary” and a period for “; and”, and in par. (5) substituted “Such” for “such”.
 
 1984—Subsecs. (b)(1), (c). Pub. L. 98–525 inserted “of this title” after “section 7422(c)”.
 
@@ -1190,7 +1190,7 @@ Subsec. (b)(1). Pub. L. 115–232, § 809(a), substituted “section 8722(c)�
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8732. Authorizations of appropriations
+## § 8732. Authorizations of appropriations
 
 **(a)** Funds for the following purposes may not be appropriated unless such appropriations have been specifically authorized by law:
 
@@ -1204,13 +1204,13 @@ Sums appropriated for such purposes shall remain available until expended.
 
 **(b)** Contracts under this chapter providing for the obligation of funds may be entered into for a period of five years, renewable for an additional five-year period; however, such contracts may obligate funds only to the extent that such funds are made available in appropriation Acts.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 461, § 7432; Pub. L. 87–796, § 1(8), Oct. 11, 1962, 76 Stat. 905; Pub. L. 94–258, title II, § 201(13), Apr. 5, 1976, 90 Stat. 312; Pub. L. 96–137, § 3(b)(1), Dec. 12, 1979, 93 Stat. 1061; Pub. L. 96–513, title V, § 513(35), Dec. 12, 1980, 94 Stat. 2934; renumbered § 8732, Pub. L. 115–232, div. A, title VIII, § 807(d)(5), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 461, § 7432; Pub. L. 87–796, § 1(8), Oct. 11, 1962, 76 Stat. 905; Pub. L. 94–258, title II, § 201(13), Apr. 5, 1976, 90 Stat. 312; Pub. L. 96–137, § 3(b)(1), Dec. 12, 1979, 93 Stat. 1061; Pub. L. 96–513, title V, § 513(35), Dec. 12, 1980, 94 Stat. 2934; renumbered § 8732, Pub. L. 115–232, div. A, title VIII, § 807(d)(5), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7432 | 34 U.S.C. 524 (3d par., less 2d sentence; 5th par., 124th through 168th words). | June 4, 1920, ch. 228 (3d par., less 2d sentence; 5th par., 124th through 168th words, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1252; June 17, 1944, ch. 262, 58 Stat. 281. |
+| 7432 | 34 U.S.C. 524 (3d par., less 2d sentence; 5th par., 124th through 168th words). | June 4, 1920, ch. 228 (3d par., less 2d sentence; 5th par., 124th through 168th words, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1252; June 17, 1944, ch. 262, 58 Stat. 281. |
 
 In subsection (a) the words “by the Congress” are omitted as surplusage.
 
@@ -1248,25 +1248,25 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Abolition of Naval Petroleum Reserves Special Account**
 
-Pub. L. 96–137, § 3(c), Dec. 12, 1979, 93 Stat. 1062, abolished the naval petroleum reserves special account established by this section as in existence on the day before Dec. 12, 1979, and transferred unappropriated balances of funds on that date to the Treasury.
+Pub. L. 96–137, § 3(c), Dec. 12, 1979, 93 Stat. 1062, abolished the naval petroleum reserves special account established by this section as in existence on the day before Dec. 12, 1979, and transferred unappropriated balances of funds on that date to the Treasury.
 
-## § 8733. Disposition of royalties
+## § 8733. Disposition of royalties
 
 **(a)** Any oil, gas, gasoline or other substance accruing to the United States as royalty from any lease under this chapter shall be delivered to the United States, or shall be paid for in money, as the Secretary elects.
 
 **(b)** All money accruing to the United States from lands in the naval petroleum reserves shall be covered into the Treasury.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 461, § 7433; Pub. L. 87–796, § 1(9), Oct. 11, 1962, 76 Stat. 905; Pub. L. 94–258, title II, § 201(14), (15), Apr. 5, 1976, 90 Stat. 313; renumbered § 8733, Pub. L. 115–232, div. A, title VIII, § 807(d)(5), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 461, § 7433; Pub. L. 87–796, § 1(9), Oct. 11, 1962, 76 Stat. 905; Pub. L. 94–258, title II, § 201(14), (15), Apr. 5, 1976, 90 Stat. 313; renumbered § 8733, Pub. L. 115–232, div. A, title VIII, § 807(d)(5), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7433 | 34 U.S.C. 524 (10th par.). | June 4, 1920, ch. 228 (10th par. of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1254; June 17, 1944, ch. 262, 58 Stat. 281. |
+| 7433 | 34 U.S.C. 524 (10th par.). | June 4, 1920, ch. 228 (10th par. of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1254; June 17, 1944, ch. 262, 58 Stat. 281. |
 
 In subsection (a) the words “or all” are omitted as surplusage. The words “under this chapter” are substituted for the words “of lands within the naval petroleum reserves or other naval fuel reserves under the authority of this section” for brevity. The words “be delivered to the United States, or shall be paid for in money” are substituted for the words “be paid for in money or be paid in kind” for clarity. Neither gas, oil, gasoline, nor hydrocarbon can be “paid”, but any one of them may be delivered.
 
-In subsection (b) the words “except as otherwise provided in this section” are omitted as surplusage. There is no exception within the chapter to the rule stated in subsection (b). The word “paid” is substituted for the words “which may accrue” for clarity. The words “under this chapter” are substituted for the words “under the provisions of this section or of sections \* \* \* on account of the petroleum products extracted therefrom” for brevity. The two terms are coextensive. The sections of 30 U.S.C. that are cited in 34 U.S.C. 524 (10th par.) comprise the entire Act of Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended. The application of that Act to the Navy is covered in § 7427 of this title. The words “as miscellaneous receipts” are omitted as surplusage.
+In subsection (b) the words “except as otherwise provided in this section” are omitted as surplusage. There is no exception within the chapter to the rule stated in subsection (b). The word “paid” is substituted for the words “which may accrue” for clarity. The words “under this chapter” are substituted for the words “under the provisions of this section or of sections \* \* \* on account of the petroleum products extracted therefrom” for brevity. The two terms are coextensive. The sections of 30 U.S.C. that are cited in 34 U.S.C. 524 (10th par.) comprise the entire Act of Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended. The application of that Act to the Navy is covered in § 7427 of this title. The words “as miscellaneous receipts” are omitted as surplusage.
 
 **Editorial Notes**
 
@@ -1274,9 +1274,9 @@ In subsection (b) the words “except as otherwise provided in this section” a
 
 2018—Pub. L. 115–232 renumbered section 7433 of this title as this section.
 
-1976—Subsec. (a). Pub. L. 94–258, § 201(14), struck out “of the Navy” after “Secretary”.
+1976—Subsec. (a). Pub. L. 94–258, § 201(14), struck out “of the Navy” after “Secretary”.
 
-Subsec. (b). Pub. L. 94–258, § 201(15), struck out “and oil shale” after “petroleum”.
+Subsec. (b). Pub. L. 94–258, § 201(15), struck out “and oil shale” after “petroleum”.
 
 1962—Subsec. (a). Pub. L. 87–796 substituted “or other substance” for “or other hydrocarbon substance”.
 
@@ -1288,19 +1288,19 @@ Subsec. (b). Pub. L. 87–796 substituted “All money accruing to the United St
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8735. Foreign interest
+## § 8735. Foreign interest
 
 **(a)** If the laws, customs, or regulations of any foreign country deny the privilege of leasing public lands to citizens or corporations of the United States, citizens of that foreign country, or corporations controlled by citizens of that country, may not, by contract made after July 1, 1937, or by stock ownership, holding, or control, acquire or own any interest in, or right to any benefit from, any lease of land in the naval petroleum, naval oil shale, or other naval fuel reserves made under sections 181–184, 185–188, 189–194, 201, 202–209, 211–214, 223, 224–226, 226d, 226e, 227–229a, 241, 251, and 261–263 of title 30, or under this chapter.
 
 **(b)** The Secretary may cancel any lease for any violation of this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 461, § 7435; Pub. L. 87–796, § 1(11), Oct. 11, 1962, 76 Stat. 906; Pub. L. 94–258, title II, § 201(17), Apr. 5, 1976, 90 Stat. 313; renumbered § 8735, Pub. L. 115–232, div. A, title VIII, § 807(d)(5), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 461, § 7435; Pub. L. 87–796, § 1(11), Oct. 11, 1962, 76 Stat. 906; Pub. L. 94–258, title II, § 201(17), Apr. 5, 1976, 90 Stat. 313; renumbered § 8735, Pub. L. 115–232, div. A, title VIII, § 807(d)(5), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7435 | 34 U.S.C. 524 (8th par.). | June 4, 1920, ch. 228 (8th par. of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1254; June 17, 1944, ch. 262, 58 Stat. 281. |
+| 7435 | 34 U.S.C. 524 (8th par.). | June 4, 1920, ch. 228 (8th par. of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1254; June 17, 1944, ch. 262, 58 Stat. 281. |
 
 In subsection (a) the words “foreign country” are substituted for the words “another country” for clarity.
 
@@ -1310,9 +1310,9 @@ In subsection (b) the word “for” is substituted for the words “in the even
 
 **References in Text**
 
-Section 194 of title 30, referred to in subsec. (a), was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 644.
+Section 194 of title 30, referred to in subsec. (a), was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 644.
 
-Section 204 of title 30, referred to in subsec. (a), was repealed by Pub. L. 94–377, § 13(a), Aug. 4, 1976, 90 Stat. 1090, subject to valid existing rights.
+Section 204 of title 30, referred to in subsec. (a), was repealed by Pub. L. 94–377, § 13(a), Aug. 4, 1976, 90 Stat. 1090, subject to valid existing rights.
 
 Sections 226d and 226e of title 30, referred to in subsec. (a), were omitted from the Code. See section 226 of Title 30, Mineral Lands and Mining.
 
@@ -1332,19 +1332,19 @@ Section 227 of title 30, referred to in subsec. (a), was omitted from the Code.
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8736. Regulations
+## § 8736. Regulations
 
 **(a)** The Secretary may prescribe regulations and take any proper action to accomplish the purposes of this chapter.
 
 **(b)** All statements, reports, and representations required by the regulations shall be under oath, unless otherwise specified, and in such form as the Secretary requires.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 461, § 7436; Pub. L. 94–258, title II, § 201(18), Apr. 5, 1976, 90 Stat. 313; renumbered § 8736, Pub. L. 115–232, div. A, title VIII, § 807(d)(5), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 461, § 7436; Pub. L. 94–258, title II, § 201(18), Apr. 5, 1976, 90 Stat. 313; renumbered § 8736, Pub. L. 115–232, div. A, title VIII, § 807(d)(5), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7436 | 34 U.S.C. 524 (9th par.). | June 4, 1920, ch. 228 (9th par. of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1254; June 17, 1944, ch. 262, 58 Stat. 281. |
+| 7436 | 34 U.S.C. 524 (9th par.). | June 4, 1920, ch. 228 (9th par. of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1254; June 17, 1944, ch. 262, 58 Stat. 281. |
 
 In subsection (a) the words “necessary rules and” are omitted as surplusage, and the words “to take any proper action” are substituted for the words “to do any and all things necessary or proper” for brevity.
 
@@ -1362,19 +1362,19 @@ In subsection (a) the words “necessary rules and” are omitted as surplusage,
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8737. Violations by lessee
+## § 8737. Violations by lessee
 
 **(a)** If a lessee fails to comply with any provision of this chapter, of his lease, or of regulations issued under section 8736 of this title that are in force on the date of his lease, the lease may be forfeited and cancelled by an appropriate proceeding in the United States district court for the district in which any part of the property is located.
 
 **(b)** The lease may provide appropriate methods for the settlement of disputes and remedies for breach of specified conditions.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 461, § 7437; renumbered § 8737 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(d)(5), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 461, § 7437; renumbered § 8737 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(d)(5), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7437 | 34 U.S.C. 524 (11th par., less proviso). | June 4, 1920, ch. 228 (11th par., less proviso, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1254; June 17, 1944, ch. 262, 58 Stat. 281. |
+| 7437 | 34 U.S.C. 524 (11th par., less proviso). | June 4, 1920, ch. 228 (11th par., less proviso, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1254; June 17, 1944, ch. 262, 58 Stat. 281. |
 
 In subsection (a) the words “the district in which any part of the property is located” are substituted for the words “the district in which the property, or some part thereof, is located,” for brevity.
 
@@ -1384,9 +1384,9 @@ In subsection (b) the words “for resort to” and “for” are omitted as sur
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 807(d)(5), renumbered section 7437 of this title as this section.
+2018—Pub. L. 115–232, § 807(d)(5), renumbered section 7437 of this title as this section.
 
-Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 8736” for “section 7436”.
+Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 8736” for “section 7436”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1394,7 +1394,7 @@ Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 8736” for 
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8738. Rifle, Colorado, plant; possession, use, and transfer of
+## § 8738. Rifle, Colorado, plant; possession, use, and transfer of
 
 **(a)** The Secretary shall take possession of the experimental demonstration facility near Rifle, Colorado, which was constructed and operated by the Department of the Interior on lands on or near the naval oil shale reserves under the Act of April 5, 1944 (30 U.S.C. 321 et seq.).
 
@@ -1406,13 +1406,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(2)** in diminution of the responsibility of the Secretary in providing oil shale and products therefrom for needs of national defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 462, § 7438; Pub. L. 87–796, § 1(12), Oct. 11, 1962, 76 Stat. 906; Pub. L. 94–258, title II, § 201(19), Apr. 5, 1976, 90 Stat. 313; Pub. L. 96–513, title V, § 513(37), Dec. 12, 1980, 94 Stat. 2934; Pub. L. 104–106, div. A, title XV, § 1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; renumbered § 8738, Pub. L. 115–232, div. A, title VIII, § 807(d)(5), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 462, § 7438; Pub. L. 87–796, § 1(12), Oct. 11, 1962, 76 Stat. 906; Pub. L. 94–258, title II, § 201(19), Apr. 5, 1976, 90 Stat. 313; Pub. L. 96–513, title V, § 513(37), Dec. 12, 1980, 94 Stat. 2934; Pub. L. 104–106, div. A, title XV, § 1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; renumbered § 8738, Pub. L. 115–232, div. A, title VIII, § 807(d)(5), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 7438 | 34 U.S.C. 524 (proviso of 11th par.). | June 4, 1920, ch. 228 (11th par., proviso, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1254; June 17, 1944, ch. 262, 58 Stat. 281. |
+| 7438 | 34 U.S.C. 524 (proviso of 11th par.). | June 4, 1920, ch. 228 (11th par., proviso, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, § 1, 52 Stat. 1254; June 17, 1944, ch. 262, 58 Stat. 281. |
 
 The words “this chapter does not authorize” are substituted for the words “nothing herein contained shall be construed to permit” for brevity.
 
@@ -1420,7 +1420,7 @@ The words “this chapter does not authorize” are substituted for the words �
 
 **References in Text**
 
-Act April 5, 1944, referred to in subsec. (a), is act Apr. 5, 1944, ch. 172, 58 Stat. 190, as amended, which is classified generally to chapter 6 (§ 321 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code see Tables.
+Act April 5, 1944, referred to in subsec. (a), is act Apr. 5, 1944, ch. 172, 58 Stat. 190, as amended, which is classified generally to chapter 6 (§ 321 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code see Tables.
 
 **Amendments**
 
@@ -1430,11 +1430,11 @@ Act April 5, 1944, referred to in subsec. (a), is act Apr. 5, 1944, ch. 172, 58 
 
 1996—Subsec. (b). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
 
-1980—Subsec. (a). Pub. L. 96–513, § 513(37)(A), substituted provisions relating to authority of the Secretary under the specified statute, for provisions relating to authority of the Administrator of the Energy Research and Development Administration under the specified statute.
+1980—Subsec. (a). Pub. L. 96–513, § 513(37)(A), substituted provisions relating to authority of the Secretary under the specified statute, for provisions relating to authority of the Administrator of the Energy Research and Development Administration under the specified statute.
 
-Subsec. (b). Pub. L. 96–513, § 513(37)(B), substituted provisions relating to authorities of the Secretary, for provisions relating to authorities of the Administrator of the Energy Research and Development Administration.
+Subsec. (b). Pub. L. 96–513, § 513(37)(B), substituted provisions relating to authorities of the Secretary, for provisions relating to authorities of the Administrator of the Energy Research and Development Administration.
 
-Subsec. (c). Pub. L. 96–513, § 513(37)(C), substituted “in this chapter” for “herein contained”.
+Subsec. (c). Pub. L. 96–513, § 513(37)(C), substituted “in this chapter” for “herein contained”.
 
 1976—Subsec. (a). Pub. L. 94–258 substituted “Administrator of the Energy Research and Development Administration” for “Secretary of the Interior”.
 
@@ -1454,7 +1454,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 8739. Certain oil shale reserves: transfer of jurisdiction and petroleum exploration, development, and production
+## § 8739. Certain oil shale reserves: transfer of jurisdiction and petroleum exploration, development, and production
 
 **(a) Transfer Required.—**
 
@@ -1498,19 +1498,19 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **(2)** If the cost estimate required by paragraph (1)(B) does not exceed the total of the moneys covered into the Treasury under subsection (f)(1) and remaining available for obligation as of the date of submission of the report under paragraph (1), the Secretary of the Interior may access such moneys, beginning 60 days after submission of the report and without further appropriation, to cover the costs of implementing the preferred alternative to address environmental restoration, waste management, and environmental compliance needs at Oil Shale Reserve Numbered 3. If the cost estimate exceeds such available moneys, the Secretary of the Interior may only access such moneys as authorized by subsequent Act of Congress.
 
-(Added Pub. L. 105–85, div. C, title XXXIV, § 3404(a), Nov. 18, 1997, 111 Stat. 2059, § 7439; amended Pub. L. 107–107, div. A, title X, § 1048(c)(14), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 107–345, § 1, Dec. 17, 2002, 116 Stat. 2894; renumbered § 8739, Pub. L. 115–232, div. A, title VIII, § 807(d)(5), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 105–85, div. C, title XXXIV, § 3404(a), Nov. 18, 1997, 111 Stat. 2059, § 7439; amended Pub. L. 107–107, div. A, title X, § 1048(c)(14), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 107–345, § 1, Dec. 17, 2002, 116 Stat. 2894; renumbered § 8739, Pub. L. 115–232, div. A, title VIII, § 807(d)(5), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Mineral Leasing Act, referred to in subsec. (b)(1), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
+The Mineral Leasing Act, referred to in subsec. (b)(1), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (c), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (c), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Federal Oil and Gas Royalty Management Act of 1982, referred to in subsec. (f)(1), is Pub. L. 97–451, Jan. 12, 1983, 96 Stat. 2447, which is classified generally to chapter 29 (§ 1701 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 30 and Tables.
+The Federal Oil and Gas Royalty Management Act of 1982, referred to in subsec. (f)(1), is Pub. L. 97–451, Jan. 12, 1983, 96 Stat. 2447, which is classified generally to chapter 29 (§ 1701 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 30 and Tables.
 
 **Prior Provisions**
 
@@ -1520,17 +1520,17 @@ A prior section 8741 was renumbered section 9271 of this title.
 
 2018—Pub. L. 115–232 renumbered section 7439 of this title as this section.
 
-2002—Subsec. (f)(1). Pub. L. 107–345, § 1(1), struck out after first sentence: “Subject to a specific authorization and appropriation for this purpose, such moneys may be used for reimbursement of environmental restoration, waste management, and environmental compliance costs incurred by the United States with respect to the lands transferred under subsection (a).”
+2002—Subsec. (f)(1). Pub. L. 107–345, § 1(1), struck out after first sentence: “Subject to a specific authorization and appropriation for this purpose, such moneys may be used for reimbursement of environmental restoration, waste management, and environmental compliance costs incurred by the United States with respect to the lands transferred under subsection (a).”
 
-Subsec. (g). Pub. L. 107–345, § 1(2), added subsec. (g).
+Subsec. (g). Pub. L. 107–345, § 1(2), added subsec. (g).
 
-2001—Subsec. (a)(2). Pub. L. 107–107, § 1048(c)(14)(A), substituted “November 18, 1998” for “one year after the date of the enactment of this section”.
+2001—Subsec. (a)(2). Pub. L. 107–107, § 1048(c)(14)(A), substituted “November 18, 1998” for “one year after the date of the enactment of this section”.
 
-Subsec. (b)(1). Pub. L. 107–107, § 1048(c)(14)(B), substituted “November 18, 1997,” for “the date of the enactment of this section,”.
+Subsec. (b)(1). Pub. L. 107–107, § 1048(c)(14)(B), substituted “November 18, 1997,” for “the date of the enactment of this section,”.
 
-Subsec. (b)(2). Pub. L. 107–107, § 1048(c)(14)(C), substituted “November 18, 1998” for “the end of the one-year period beginning on the date of the enactment of this section”.
+Subsec. (b)(2). Pub. L. 107–107, § 1048(c)(14)(C), substituted “November 18, 1998” for “the end of the one-year period beginning on the date of the enactment of this section”.
 
-Subsec. (f)(2). Pub. L. 107–107, § 1048(c)(14)(D), substituted “November 18, 1997,” for “the date of the enactment of this section”.
+Subsec. (f)(2). Pub. L. 107–107, § 1048(c)(14)(D), substituted “November 18, 1997,” for “the date of the enactment of this section”.
 
 **Statutory Notes and Related Subsidiaries**
 

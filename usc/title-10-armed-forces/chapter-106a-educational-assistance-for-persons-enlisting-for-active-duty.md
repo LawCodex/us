@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2004—Pub. L. 108–375, div. A, title V, § 532(a)(1), Oct. 28, 2004, 118 Stat. 1896, renumbered chapter 107 of this title as this chapter.
+2004—Pub. L. 108–375, div. A, title V, § 532(a)(1), Oct. 28, 2004, 118 Stat. 1896, renumbered chapter 107 of this title as this chapter.
 
-## § 2141. Educational assistance program: establishment
+## § 2141. Educational assistance program: establishment
 
 **(a)** To encourage enlistments and reenlistments for service on active duty in the armed forces, the Secretary of each military department may establish a program in accordance with this chapter to provide educational assistance to persons enlisting or reenlisting in an armed force under his jurisdiction. The costs of any such program shall be borne by the Department of Defense, and a person participating in any such program may not be required to make any contribution to the program.
 
@@ -29,7 +29,7 @@ retrieved: 2026-10-11
 
 **(c)** In this chapter, the term “enlistment” means original enlistment or reenlistment.
 
-(Added Pub. L. 96–342, title IX, § 901(a), Sept. 8, 1980, 94 Stat. 1111; amended Pub. L. 100–180, div. A, title XII, § 1231(18)(A), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, § 1233(k)(1), Sept. 29, 1988, 102 Stat. 2058.)
+(Added Pub. L. 96–342, title IX, § 901(a), Sept. 8, 1980, 94 Stat. 1111; amended Pub. L. 100–180, div. A, title XII, § 1231(18)(A), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, § 1233(k)(1), Sept. 29, 1988, 102 Stat. 2058.)
 
 **Editorial Notes**
 
@@ -43,11 +43,11 @@ retrieved: 2026-10-11
 
 **Repayment of Loans for Service in the Armed Forces; Authorization, Criteria, Etc.**
 
-Pub. L. 96–342, title IX, § 902, Sept. 8, 1980, 94 Stat. 1115, as amended by Pub. L. 97–86, title IV, § 406, Dec. 1, 1981, 95 Stat. 1106; Pub. L. 98–94, title X, § 1034, Sept. 24, 1983, 97 Stat. 672; Pub. L. 98–525, title VII, § 709, Oct. 19, 1984, 98 Stat. 2572, provided that the Secretary of Defense could repay any loan made, insured, or guaranteed under part B of the Higher Education Act of 1965, or any loan made under part E of that Act, after Oct. 1, 1975, and further provided for the administration and criteria for such repayment, prior to repeal by Pub. L. 99–145, title VI, § 671(a)(3), Nov. 8, 1985, 99 Stat. 663. See section 2171 et seq. of this title.
+Pub. L. 96–342, title IX, § 902, Sept. 8, 1980, 94 Stat. 1115, as amended by Pub. L. 97–86, title IV, § 406, Dec. 1, 1981, 95 Stat. 1106; Pub. L. 98–94, title X, § 1034, Sept. 24, 1983, 97 Stat. 672; Pub. L. 98–525, title VII, § 709, Oct. 19, 1984, 98 Stat. 2572, provided that the Secretary of Defense could repay any loan made, insured, or guaranteed under part B of the Higher Education Act of 1965, or any loan made under part E of that Act, after Oct. 1, 1975, and further provided for the administration and criteria for such repayment, prior to repeal by Pub. L. 99–145, title VI, § 671(a)(3), Nov. 8, 1985, 99 Stat. 663. See section 2171 et seq. of this title.
 
 **Educational Assistance Pilot Program; Payment of Monthly Contribution by Secretary; Manner, Scope, Etc., of Payments**
 
-Pub. L. 96–342, title IX, § 903, Sept. 8, 1980, 94 Stat. 1115, provided that:
+Pub. L. 96–342, title IX, § 903, Sept. 8, 1980, 94 Stat. 1115, provided that:
 
 > **“(a)**
 
@@ -79,7 +79,7 @@ Pub. L. 96–342, title IX, § 903, Sept. 8, 1980, 94 Stat. 1115, provided tha
 
 **Authorization of Appropriations; Allocation of Amounts**
 
-Pub. L. 96–342, title IX, § 904, Sept. 8, 1980, 94 Stat. 1116, provided that:
+Pub. L. 96–342, title IX, § 904, Sept. 8, 1980, 94 Stat. 1116, provided that:
 
 > **“(a)** There is hereby authorized to be appropriated to carry out chapter 107 of title 10, United States Code (as added by section 901), and sections 902 and 903 [set out above] a total of $75,000,000.
 
@@ -87,9 +87,9 @@ Pub. L. 96–342, title IX, § 904, Sept. 8, 1980, 94 Stat. 1116, provided tha
 
 **Reports on Educational Assistance Programs; Submission, Contents, Etc.**
 
-Pub. L. 96–342, title IX, § 905, Sept. 8, 1980, 94 Stat. 1117, directed Secretary of Defense to submit to Congress, quarterly for fiscal year 1981, a report on the implementation and operation of the educational assistance program provided for under chapter 107 of this title and of the programs provided for under sections 902 and 903 of Pub. L. 96–342, set out above, and to also submit, not later than Dec. 31, 1981, a report on the extent to which the educational assistance program provided for under chapter 107 of this title, the Post-Vietnam Era Veterans’ Educational Assistance Program provided for under chapter 32 of title 38, and the program established under section 902 of Pub. L. 96–342 have encouraged persons to enter or remain in the Armed Forces.
+Pub. L. 96–342, title IX, § 905, Sept. 8, 1980, 94 Stat. 1117, directed Secretary of Defense to submit to Congress, quarterly for fiscal year 1981, a report on the implementation and operation of the educational assistance program provided for under chapter 107 of this title and of the programs provided for under sections 902 and 903 of Pub. L. 96–342, set out above, and to also submit, not later than Dec. 31, 1981, a report on the extent to which the educational assistance program provided for under chapter 107 of this title, the Post-Vietnam Era Veterans’ Educational Assistance Program provided for under chapter 32 of title 38, and the program established under section 902 of Pub. L. 96–342 have encouraged persons to enter or remain in the Armed Forces.
 
-## § 2142. Educational assistance program: eligibility
+## § 2142. Educational assistance program: eligibility
 
 **(a)**
 
@@ -111,9 +111,9 @@ Pub. L. 96–342, title IX, § 905, Sept. 8, 1980, 94 Stat. 1117, directed Sec
 
 **(3)** meet such other requirements as the Secretary may consider appropriate for the purposes of this chapter and the needs of the armed forces.
 
-(Added Pub. L. 96–342, title IX, § 901(a), Sept. 8, 1980, 94 Stat. 1111.)
+(Added Pub. L. 96–342, title IX, § 901(a), Sept. 8, 1980, 94 Stat. 1111.)
 
-## § 2143. Educational assistance: amount
+## § 2143. Educational assistance: amount
 
 **(a)** Subject to subsection (b), an educational assistance program established under section 2141 of this title shall provide for payment by the Secretary concerned of educational expenses incurred for instruction at an accredited institution by a person entitled to such assistance under this chapter. Expenses for which payment may be made under this section include tuition, fees, books, laboratory fees, and shop fees for consumable materials used as part of classroom or laboratory instruction. Payments under this section shall be limited to those educational expenses normally incurred by students at the institution involved.
 
@@ -125,7 +125,7 @@ Pub. L. 96–342, title IX, § 905, Sept. 8, 1980, 94 Stat. 1117, directed Sec
 
 **(c)** In this section, the term “accredited institution” means a civilian college or university or a trade, technical, or vocational school in the United States (including the District of Columbia, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands) that provides education at the postsecondary level and that is accredited by a nationally recognized accrediting agency or association or by an accrediting agency or association recognized by the Secretary of Education.
 
-(Added Pub. L. 96–342, title IX, § 901(a), Sept. 8, 1980, 94 Stat. 1112; amended Pub. L. 100–180, div. A, title XII, § 1231(18)(A), Dec. 4, 1987, 101 Stat. 1161.)
+(Added Pub. L. 96–342, title IX, § 901(a), Sept. 8, 1980, 94 Stat. 1112; amended Pub. L. 100–180, div. A, title XII, § 1231(18)(A), Dec. 4, 1987, 101 Stat. 1161.)
 
 **Editorial Notes**
 
@@ -133,7 +133,7 @@ Pub. L. 96–342, title IX, § 905, Sept. 8, 1980, 94 Stat. 1117, directed Sec
 
 1987—Subsec. (c). Pub. L. 100–180 inserted “the term” after “In this section,”.
 
-## § 2144. Subsistence allowance
+## § 2144. Subsistence allowance
 
 **(a)** Subject to subsection (b), a person entitled to educational assistance under this chapter is entitled to receive a monthly subsistence allowance during any period for which educational assistance is provided such person. The amount of a subsistence allowance under this section is $300 per month, adjusted in accordance with section 2145 of this title, in the case of a person pursuing a course of instruction on a full-time basis and is one-half of such amount (as so adjusted) in the case of a person pursuing a course of instruction on less than a full-time basis.
 
@@ -141,15 +141,15 @@ Pub. L. 96–342, title IX, § 905, Sept. 8, 1980, 94 Stat. 1117, directed Sec
 
 **(c)** For purposes of subsection (a), a person shall be considered to be pursuing a course of instruction on a full-time basis if the person is enrolled in twelve or more semester hours of instruction (or the equivalent, as determined by Secretary concerned).
 
-(Added Pub. L. 96–342, title IX, § 901(a), Sept. 8, 1980, 94 Stat. 1112.)
+(Added Pub. L. 96–342, title IX, § 901(a), Sept. 8, 1980, 94 Stat. 1112.)
 
-## § 2145. Adjustments of amount of educational assistance and of subsistence allowance
+## § 2145. Adjustments of amount of educational assistance and of subsistence allowance
 
 **(a)** Once each year, the Secretary of Defense shall adjust the amount of educational assistance which may be provided to any person in any standard academic year under section 2143 of this title, and the amount of the subsistence allowance authorized under section 2144 of this title for pursuit of a course of instruction on a full-time basis, in a manner consistent with the change over the preceding twelve-month period in the average actual cost of attendance at public institutions of higher education.
 
 **(b)** In this section, the term “actual cost of attendance” has the meaning given the term “cost of attendance” by section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087*ll*).
 
-(Added Pub. L. 96–342, title IX, § 901(a), Sept. 8, 1980, 94 Stat. 1113; amended Pub. L. 100–180, div. A, title XII, § 1231(18)(A), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 103–35, title II, § 201(c)(2), May 31, 1993, 107 Stat. 98.)
+(Added Pub. L. 96–342, title IX, § 901(a), Sept. 8, 1980, 94 Stat. 1113; amended Pub. L. 100–180, div. A, title XII, § 1231(18)(A), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 103–35, title II, § 201(c)(2), May 31, 1993, 107 Stat. 98.)
 
 **Editorial Notes**
 
@@ -159,7 +159,7 @@ Pub. L. 96–342, title IX, § 905, Sept. 8, 1980, 94 Stat. 1117, directed Sec
 
 1987—Subsec. (b). Pub. L. 100–180 inserted “the term” after “In this section,”.
 
-## § 2146. Right of member upon subsequent reenlistment to lump-sum payment in lieu of educational assistance
+## § 2146. Right of member upon subsequent reenlistment to lump-sum payment in lieu of educational assistance
 
 **(a)** A member who is entitled to educational assistance under this chapter and who reenlists at the end of the enlistment which established such entitlement may, at the time of such reenlistment, elect to receive a lump-sum payment computed under subsection (b) in lieu of receiving such educational assistance. An election to receive such a lump-sum payment is irrevocable.
 
@@ -169,9 +169,9 @@ Pub. L. 96–342, title IX, § 905, Sept. 8, 1980, 94 Stat. 1117, directed Sec
 
 **(2)** the product of (A) the rate for the subsistence allowance authorized under section 2144 of this title for pursuit of a course of instruction on a full-time basis at the time of such reenlistment, and (B) the number of months of entitlement of such member to such allowance.
 
-(Added Pub. L. 96–342, title IX, § 901(a), Sept. 8, 1980, 94 Stat. 1113.)
+(Added Pub. L. 96–342, title IX, § 901(a), Sept. 8, 1980, 94 Stat. 1113.)
 
-## § 2147. Right of member after reenlisting to transfer entitlement to spouse or dependent children
+## § 2147. Right of member after reenlisting to transfer entitlement to spouse or dependent children
 
 **(a)**
 
@@ -197,7 +197,7 @@ Pub. L. 96–342, title IX, § 905, Sept. 8, 1980, 94 Stat. 1117, directed Sec
 
 **(2)** The term “surviving spouse” means a widow or widower who is not remarried.
 
-(Added Pub. L. 96–342, title IX, § 901(a), Sept. 8, 1980, 94 Stat. 1113; amended Pub. L. 97–22, § 10(b)(3), July 10, 1981, 95 Stat. 137; Pub. L. 99–145, title VI, § 673, Nov. 8, 1985, 99 Stat. 664; Pub. L. 100–180, div. A, title XII, § 1231(17), Dec. 4, 1987, 101 Stat. 1161.)
+(Added Pub. L. 96–342, title IX, § 901(a), Sept. 8, 1980, 94 Stat. 1113; amended Pub. L. 97–22, § 10(b)(3), July 10, 1981, 95 Stat. 137; Pub. L. 99–145, title VI, § 673, Nov. 8, 1985, 99 Stat. 664; Pub. L. 100–180, div. A, title XII, § 1231(17), Dec. 4, 1987, 101 Stat. 1161.)
 
 **Editorial Notes**
 
@@ -213,16 +213,16 @@ Pub. L. 96–342, title IX, § 905, Sept. 8, 1980, 94 Stat. 1117, directed Sec
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–22, § 10(b), July 10, 1981, 95 Stat. 137, provided that the amendment made by that section is effective Sept. 15, 1981.
+Pub. L. 97–22, § 10(b), July 10, 1981, 95 Stat. 137, provided that the amendment made by that section is effective Sept. 15, 1981.
 
-## § 2148. Duration of entitlement
+## § 2148. Duration of entitlement
 
 The entitlement of any person to educational assistance under this chapter expires at the end of the ten-year period beginning on the date of the retirement or discharge or other separation from active duty of the person upon whose service such entitlement is based. In the case of a member entitled to educational assistance under this chapter who dies while on active duty and whose entitlement is transferred to a spouse or dependent child, such entitlement expires at the end of the ten-year period beginning on the date of such member’s death.
 
-(Added Pub. L. 96–342, title IX, § 901(a), Sept. 8, 1980, 94 Stat. 1114.)
+(Added Pub. L. 96–342, title IX, § 901(a), Sept. 8, 1980, 94 Stat. 1114.)
 
-## § 2149. Applications for educational assistance
+## § 2149. Applications for educational assistance
 
 To receive educational assistance benefits under this chapter, a person entitled to such assistance under section 2142 or 2147 of this title shall submit an application for such assistance to the Secretary concerned in such form and manner as the Secretary concerned may prescribe.
 
-(Added Pub. L. 96–342, title IX, § 901(a), Sept. 8, 1980, 94 Stat. 1114.)
+(Added Pub. L. 96–342, title IX, § 901(a), Sept. 8, 1980, 94 Stat. 1114.)

@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1994—Pub. L. 103–322, title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 2150, which directed the amendment of this title “by striking ‘kidnaping’ each place it appears and inserting ‘kidnapping’ ”, was executed by substituting “KIDNAPPING” for “KIDNAPING” in chapter heading, to reflect the probable intent of Congress.
+1994—Pub. L. 103–322, title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 2150, which directed the amendment of this title “by striking ‘kidnaping’ each place it appears and inserting ‘kidnapping’ ”, was executed by substituting “KIDNAPPING” for “KIDNAPING” in chapter heading, to reflect the probable intent of Congress.
 
-Pub. L. 103–322, title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 2150, substituted “kidnapping” for “kidnaping” in item 351.
+Pub. L. 103–322, title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 2150, substituted “kidnapping” for “kidnaping” in item 351.
 
-1982—Pub. L. 97–285, § 2(b), (c), Oct. 6, 1982, 96 Stat. 1219, substituted “CONGRESSIONAL, CABINET, AND SUPREME COURT ASSASSINATION, KIDNAPING, AND ASSAULT” for “CONGRESSIONAL ASSASSINATION, KIDNAPING, AND ASSAULT” as chapter heading and substituted “Congressional, Cabinet, and Supreme Court assassination, kidnaping, and assault: penalties” for “Congressional assassination, kidnaping, and assault; penalties” in item 351.
+1982—Pub. L. 97–285, § 2(b), (c), Oct. 6, 1982, 96 Stat. 1219, substituted “CONGRESSIONAL, CABINET, AND SUPREME COURT ASSASSINATION, KIDNAPING, AND ASSAULT” for “CONGRESSIONAL ASSASSINATION, KIDNAPING, AND ASSAULT” as chapter heading and substituted “Congressional, Cabinet, and Supreme Court assassination, kidnaping, and assault: penalties” for “Congressional assassination, kidnaping, and assault; penalties” in item 351.
 
-1971—Pub. L. 91–644, title IV, § 15, Jan. 2, 1971, 84 Stat. 1891, added chapter 18 and item 351.
+1971—Pub. L. 91–644, title IV, § 15, Jan. 2, 1971, 84 Stat. 1891, added chapter 18 and item 351.
 
-## § 351. Congressional, Cabinet, and Supreme Court assassination, kidnapping, and assault; penalties
+## § 351. Congressional, Cabinet, and Supreme Court assassination, kidnapping, and assault; penalties
 
 **(a)** Whoever kills any individual who is a Member of Congress or a Member-of-Congress-elect, a member of the executive branch of the Government who is the head, or a person nominated to be head during the pendency of such nomination, of a department listed in section 101 of title 5 or the second ranking official in such department, the Director (or a person nominated to be Director during the pendency of such nomination) or Principal Deputy Director of National Intelligence, the Director (or a person nominated to be Director during the pendency of such nomination) or Deputy Director of the Central Intelligence Agency, a major Presidential or Vice Presidential candidate (as defined in section 3056 of this title), or a Justice of the United States, as defined in section 451 of title 28, or a person nominated to be a Justice of the United States, during the pendency of such nomination, shall be punished as provided by sections 1111 and 1112 of this title.
 
@@ -47,7 +47,7 @@ Pub. L. 103–322, title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 2150,
 
 **(i)** There is extraterritorial jurisdiction over the conduct prohibited by this section.
 
-(Added Pub. L. 91–644, title IV, § 15, Jan. 2, 1971, 84 Stat. 1891; amended Pub. L. 97–285, §§ 1, 2(a), Oct. 6, 1982, 96 Stat. 1219; Pub. L. 99–646, § 62, Nov. 10, 1986, 100 Stat. 3614; Pub. L. 100–690, title VII, § 7074, Nov. 18, 1988, 102 Stat. 4405; Pub. L. 103–322, title XXXII, § 320101(d), title XXXIII, §§ 330016(1)(K), (L), 330021(1), Sept. 13, 1994, 108 Stat. 2108, 2147, 2150; Pub. L. 104–294, title VI, § 604(b)(12)(C), (c)(2), Oct. 11, 1996, 110 Stat. 3507, 3509; Pub. L. 112–87, title V, § 506, Jan. 3, 2012, 125 Stat. 1897.)
+(Added Pub. L. 91–644, title IV, § 15, Jan. 2, 1971, 84 Stat. 1891; amended Pub. L. 97–285, §§ 1, 2(a), Oct. 6, 1982, 96 Stat. 1219; Pub. L. 99–646, § 62, Nov. 10, 1986, 100 Stat. 3614; Pub. L. 100–690, title VII, § 7074, Nov. 18, 1988, 102 Stat. 4405; Pub. L. 103–322, title XXXII, § 320101(d), title XXXIII, §§ 330016(1)(K), (L), 330021(1), Sept. 13, 1994, 108 Stat. 2108, 2147, 2150; Pub. L. 104–294, title VI, § 604(b)(12)(C), (c)(2), Oct. 11, 1996, 110 Stat. 3507, 3509; Pub. L. 112–87, title V, § 506, Jan. 3, 2012, 125 Stat. 1897.)
 
 **Editorial Notes**
 
@@ -55,33 +55,33 @@ Pub. L. 103–322, title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 2150,
 
 2012—Subsec. (a). Pub. L. 112–87 inserted “the Director (or a person nominated to be Director during the pendency of such nomination) or Principal Deputy Director of National Intelligence,” after “in such department,” and substituted “the Central Intelligence Agency,” for “Central Intelligence,”.
 
-1996—Subsec. (e). Pub. L. 104–294, § 604(c)(2), substituted “involved the use” for “involved in the use”.
+1996—Subsec. (e). Pub. L. 104–294, § 604(c)(2), substituted “involved the use” for “involved in the use”.
 
-Pub. L. 104–294, § 604(b)(12)(C), repealed Pub. L. 103–322, § 320101(d)(3). See 1994 Amendment note below.
+Pub. L. 104–294, § 604(b)(12)(C), repealed Pub. L. 103–322, § 320101(d)(3). See 1994 Amendment note below.
 
-1994—Pub. L. 103–322, § 330021(1), substituted “kidnapping” for “kidnaping” in section catchline.
+1994—Pub. L. 103–322, § 330021(1), substituted “kidnapping” for “kidnaping” in section catchline.
 
-Subsec. (e). Pub. L. 103–322, § 330016(1)(L), substituted “shall be fined under this title” for “shall be fined not more than $10,000” after “personal injury results,”.
+Subsec. (e). Pub. L. 103–322, § 330016(1)(L), substituted “shall be fined under this title” for “shall be fined not more than $10,000” after “personal injury results,”.
 
-Pub. L. 103–322, § 320101(d)(4), substituted “imprisoned not more than ten years” for “imprisoned for not more than ten years”.
+Pub. L. 103–322, § 320101(d)(4), substituted “imprisoned not more than ten years” for “imprisoned for not more than ten years”.
 
-Pub. L. 103–322, § 320101(d)(3), which provided for amendment identical to Pub. L. 103–322, § 330016(1)(L), above, was repealed by Pub. L. 104–294, § 604(b)(12)(C).
+Pub. L. 103–322, § 320101(d)(3), which provided for amendment identical to Pub. L. 103–322, § 330016(1)(L), above, was repealed by Pub. L. 104–294, § 604(b)(12)(C).
 
-Pub. L. 103–322, § 320101(d)(2), inserted “the assault involved in the use of a dangerous weapon, or” after “and if”.
+Pub. L. 103–322, § 320101(d)(2), inserted “the assault involved in the use of a dangerous weapon, or” after “and if”.
 
-Pub. L. 103–322, §§ 320101(d)(1), 330016(1)(K), amended subsec. (e) identically, substituting “shall be fined under this title” for “shall be fined not more than $5,000” after “subsection (a) of this section”.
+Pub. L. 103–322, §§ 320101(d)(1), 330016(1)(K), amended subsec. (e) identically, substituting “shall be fined under this title” for “shall be fined not more than $5,000” after “subsection (a) of this section”.
 
 1988—Subsec. (a). Pub. L. 100–690 inserted a comma after “section 3056 of this title)”.
 
-1986—Subsec. (a). Pub. L. 99–646, § 62(1), inserted “a major Presidential or Vice Presidential candidate (as defined in section 3056 of this title)”.
+1986—Subsec. (a). Pub. L. 99–646, § 62(1), inserted “a major Presidential or Vice Presidential candidate (as defined in section 3056 of this title)”.
 
-Subsec. (h). Pub. L. 99–646, § 62(2), substituted “individual” for “official”.
+Subsec. (h). Pub. L. 99–646, § 62(2), substituted “individual” for “official”.
 
-1982—Pub. L. 97–285, § 2(a), substituted “Congressional, Cabinet, and Supreme Court assassination, kidnaping, and assault; penalties” for “Congressional assassination, kidnaping, and assault” in section catchline.
+1982—Pub. L. 97–285, § 2(a), substituted “Congressional, Cabinet, and Supreme Court assassination, kidnaping, and assault; penalties” for “Congressional assassination, kidnaping, and assault” in section catchline.
 
-Subsec. (a). Pub. L. 97–285, § 1(a), expanded coverage of subsec. (a) to cover the killing of any individual who is a member of the executive branch of the Government and the head, or a person nominated to be head during the pendency of such nomination, of a department listed in section 101 of title 5 or the second ranking official in such department, the Director (or a person nominated to be Director during the pendency of such nomination) or Deputy Director of Central Intelligence, or a Justice of the United States, as defined in section 451 of title 28, or a person nominated to be a Justice of the United States, during the pendency of such nomination.
+Subsec. (a). Pub. L. 97–285, § 1(a), expanded coverage of subsec. (a) to cover the killing of any individual who is a member of the executive branch of the Government and the head, or a person nominated to be head during the pendency of such nomination, of a department listed in section 101 of title 5 or the second ranking official in such department, the Director (or a person nominated to be Director during the pendency of such nomination) or Deputy Director of Central Intelligence, or a Justice of the United States, as defined in section 451 of title 28, or a person nominated to be a Justice of the United States, during the pendency of such nomination.
 
-Subsecs. (h), (i). Pub. L. 97–285, § 1(b), added subsecs. (h) and (i).
+Subsecs. (h), (i). Pub. L. 97–285, § 1(b), added subsecs. (h) and (i).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -91,4 +91,4 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 **Report to Member of Congress on Investigation Conducted Subsequent to Threat on Member’s Life**
 
-Pub. L. 95–624, § 19, Nov. 9, 1978, 92 Stat. 3466, provided that: “The Federal Bureau of Investigation shall provide a written report to a Member of Congress on any investigation conducted based on a threat on the Member’s life under section 351 of title 18 of the United States Code.”
+Pub. L. 95–624, § 19, Nov. 9, 1978, 92 Stat. 3466, provided that: “The Federal Bureau of Investigation shall provide a written report to a Member of Congress on any investigation conducted based on a threat on the Member’s life under section 351 of title 18 of the United States Code.”

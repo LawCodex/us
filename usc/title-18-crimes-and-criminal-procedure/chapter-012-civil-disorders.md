@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1968—Pub. L. 90–284, title X, § 1002(a), Apr. 11, 1968, 82 Stat. 90, added chapter 12 and items 231 to 233.
+1968—Pub. L. 90–284, title X, § 1002(a), Apr. 11, 1968, 82 Stat. 90, added chapter 12 and items 231 to 233.
 
-## § 231. Civil disorders
+## § 231. Civil disorders
 
 **(a)**
 
@@ -35,7 +35,7 @@ Shall be fined under this title or imprisoned not more than five years, or both.
 
 **(b)** Nothing contained in this section shall make unlawful any act of any law enforcement officer which is performed in the lawful performance of his official duties.
 
-(Added Pub. L. 90–284, title X, § 1002(a), Apr. 11, 1968, 82 Stat. 90; amended Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 90–284, title X, § 1002(a), Apr. 11, 1968, 82 Stat. 90; amended Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Editorial Notes**
 
@@ -47,9 +47,9 @@ Shall be fined under this title or imprisoned not more than five years, or both.
 
 **Short Title**
 
-Pub. L. 90–284, title X, § 1001, Apr. 11, 1968, 82 Stat. 90, provided that: “This title [enacting this chapter] may be cited as the ‘Civil Obedience Act of 1968’.”
+Pub. L. 90–284, title X, § 1001, Apr. 11, 1968, 82 Stat. 90, provided that: “This title [enacting this chapter] may be cited as the ‘Civil Obedience Act of 1968’.”
 
-## § 232. Definitions
+## § 232. Definitions
 
 For purposes of this chapter:
 
@@ -69,18 +69,18 @@ For purposes of this chapter:
 
 **(8)** The term “State” includes a State of the United States, and any commonwealth, territory, or possession of the United States.
 
-(Added Pub. L. 90–284, title X, § 1002(a), Apr. 11, 1968, 82 Stat. 91; amended Pub. L. 101–647, title XII, § 1205(a), Nov. 29, 1990, 104 Stat. 4830; Pub. L. 102–484, div. A, title X, § 1051(b)(1), Oct. 23, 1992, 106 Stat. 2498.)
+(Added Pub. L. 90–284, title X, § 1002(a), Apr. 11, 1968, 82 Stat. 91; amended Pub. L. 101–647, title XII, § 1205(a), Nov. 29, 1990, 104 Stat. 4830; Pub. L. 102–484, div. A, title X, § 1051(b)(1), Oct. 23, 1992, 106 Stat. 2498.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Par. (7). Pub. L. 102–484 substituted “members of the National Guard (as defined in section 101 of title 10),” for “, but shall not be limited to, members of the National Guard, as defined in section 101(9) of title 10, United States Code,” and “not included within the National Guard (as defined in section 101 of title 10),” for “, not included within the definition of National Guard as defined by such section 101(9),”.
+1992—Par. (7). Pub. L. 102–484 substituted “members of the National Guard (as defined in section 101 of title 10),” for “, but shall not be limited to, members of the National Guard, as defined in section 101(9) of title 10, United States Code,” and “not included within the National Guard (as defined in section 101 of title 10),” for “, not included within the definition of National Guard as defined by such section 101(9),”.
 
 1990—Par. (8). Pub. L. 101–647 added par. (8).
 
-## § 233. Preemption
+## § 233. Preemption
 
 Nothing contained in this chapter shall be construed as indicating an intent on the part of Congress to occupy the field in which any provisions of the chapter operate to the exclusion of State or local laws on the same subject matter, nor shall any provision of this chapter be construed to invalidate any provision of State law unless such provision is inconsistent with any of the purposes of this chapter or any provision thereof.
 
-(Added Pub. L. 90–284, title X, § 1002(a), Apr. 11, 1968, 82 Stat. 91.)
+(Added Pub. L. 90–284, title X, § 1002(a), Apr. 11, 1968, 82 Stat. 91.)

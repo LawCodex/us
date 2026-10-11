@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 **Amendment of Analysis**
 
-Pub. L. 118–159, div. B, title XXVIII, § 2846(b), Dec. 23, 2024, 138 Stat. 2264, provided that, eff. Oct. 1, 2027, this analysis is amended by inserting “domestic” before “military airfields” in item 2697. See 2024 Amendment note below.
+Pub. L. 118–159, div. B, title XXVIII, § 2846(b), Dec. 23, 2024, 138 Stat. 2264, provided that, eff. Oct. 1, 2027, this analysis is amended by inserting “domestic” before “military airfields” in item 2697. See 2024 Amendment note below.
 
 **Historical and Revision Notes**
 
@@ -29,119 +29,119 @@ This section makes necessary clerical amendments to chapter analysis.
 
 **Amendments**
 
-2024—Pub. L. 118–159, div. B, title XXVIII, § 2846(b)(1), Dec. 23, 2024, 138 Stat. 2264, inserted “domestic” before “military airfields” in item 2697. Amendment was made pursuant to operation of section 102 of this title.
+2024—Pub. L. 118–159, div. B, title XXVIII, § 2846(b)(1), Dec. 23, 2024, 138 Stat. 2264, inserted “domestic” before “military airfields” in item 2697. Amendment was made pursuant to operation of section 102 of this title.
 
-Pub. L. 118–159, div. B, title XXVIII, §§ 2841(a), 2846(a)(1), Dec. 23, 2024, 138 Stat. 2262, 2264, added item 2680 and struck out “domestic” before “military airfields” in item 2697. Amendments were made pursuant to operation of section 102 of this title.
+Pub. L. 118–159, div. B, title XXVIII, §§ 2841(a), 2846(a)(1), Dec. 23, 2024, 138 Stat. 2262, 2264, added item 2680 and struck out “domestic” before “military airfields” in item 2697. Amendments were made pursuant to operation of section 102 of this title.
 
-2023—Pub. L. 118–31, div. A, title III, § 311(a), Dec. 22, 2023, 137 Stat. 213, added item 2693. Amendment was made pursuant to operation of section 102 of this title.
+2023—Pub. L. 118–31, div. A, title III, § 311(a), Dec. 22, 2023, 137 Stat. 213, added item 2693. Amendment was made pursuant to operation of section 102 of this title.
 
-2022—Pub. L. 117–263, div. A, title III, § 312(b), div. B, title XXVIII, § 2831(b), Dec. 23, 2022, 136 Stat. 2502, 3003, added items 2669 and 2694d.
+2022—Pub. L. 117–263, div. A, title III, § 312(b), div. B, title XXVIII, § 2831(b), Dec. 23, 2022, 136 Stat. 2502, 3003, added items 2669 and 2694d.
 
-2021—Pub. L. 117–81, div. A, title XVII, § 1701(u)(5)(B), (w)(3), Dec. 27, 2021, 135 Stat. 2154, struck out item 2681 “Use of test and evaluation installations by commercial entities” and repealed Pub. L. 116–283, div. A, title XVIII, § 1844(b)(2)(B), Jan. 1, 2021, 134 Stat. 4246, which had previously struck out that item.
+2021—Pub. L. 117–81, div. A, title XVII, § 1701(u)(5)(B), (w)(3), Dec. 27, 2021, 135 Stat. 2154, struck out item 2681 “Use of test and evaluation installations by commercial entities” and repealed Pub. L. 116–283, div. A, title XVIII, § 1844(b)(2)(B), Jan. 1, 2021, 134 Stat. 4246, which had previously struck out that item.
 
-Pub. L. 116–283, div. A, title XXVIII, § 2822(b)(3), Jan. 1, 2021, 134 Stat. 4332, substituted “Overseas base closures and realignments and status of United States overseas military locations” for “Overseas base closures and realignments and basing master plans” in item 2687a.
+Pub. L. 116–283, div. A, title XXVIII, § 2822(b)(3), Jan. 1, 2021, 134 Stat. 4332, substituted “Overseas base closures and realignments and status of United States overseas military locations” for “Overseas base closures and realignments and basing master plans” in item 2687a.
 
-2017—Pub. L. 115–91, div. B, title XXVIII, § 2814(c), Dec. 12, 2017, 131 Stat. 1850, substituted “Restoration of land used by permit or damaged by mishap; reimbursement of State costs of fighting wildland fires” for “Restoration of land used by permit or lease” in item 2691.
+2017—Pub. L. 115–91, div. B, title XXVIII, § 2814(c), Dec. 12, 2017, 131 Stat. 1850, substituted “Restoration of land used by permit or damaged by mishap; reimbursement of State costs of fighting wildland fires” for “Restoration of land used by permit or lease” in item 2691.
 
-2015—Pub. L. 114–92, div. B, title XXVIII, § 2811(b), Nov. 25, 2015, 129 Stat. 1174, added item 2672.
+2015—Pub. L. 114–92, div. B, title XXVIII, § 2811(b), Nov. 25, 2015, 129 Stat. 1174, added item 2672.
 
-2014—Pub. L. 113–291, div. A, title III, § 351(c)(2), Dec. 19, 2014, 128 Stat. 3347, added item 2679.
+2014—Pub. L. 113–291, div. A, title III, § 351(c)(2), Dec. 19, 2014, 128 Stat. 3347, added item 2679.
 
-2011—Pub. L. 111–383, div. A, title III, § 341(b), div. B, title XXVIII, § 2814(c), Jan. 7, 2011, 124 Stat. 4190, 4464, struck out item 2680 “Leases: land for special operations activities” and added item 2697.
+2011—Pub. L. 111–383, div. A, title III, § 341(b), div. B, title XXVIII, § 2814(c), Jan. 7, 2011, 124 Stat. 4190, 4464, struck out item 2680 “Leases: land for special operations activities” and added item 2697.
 
-2009—Pub. L. 111–84, div. B, title XXVIII, § 2822(a)(2), Oct. 28, 2009, 123 Stat. 2666, added item 2687a.
+2009—Pub. L. 111–84, div. B, title XXVIII, § 2822(a)(2), Oct. 28, 2009, 123 Stat. 2666, added item 2687a.
 
-2008—Pub. L. 110–417, [div. A], title III, § 311(b), div. B, title XXVIII, § 2812(f)(2), Oct. 14, 2008, 122 Stat. 4409, 4728, added items 2667 and 2694c and struck out former items 2667 “Leases: non-excess property of military departments” and 2667a “Leases: non-excess property of Defense agencies”.
+2008—Pub. L. 110–417, [div. A], title III, § 311(b), div. B, title XXVIII, § 2812(f)(2), Oct. 14, 2008, 122 Stat. 4409, 4728, added items 2667 and 2694c and struck out former items 2667 “Leases: non-excess property of military departments” and 2667a “Leases: non-excess property of Defense agencies”.
 
-Pub. L. 110–181, div. B, title XXVIII, § 2822(b)(2), Jan. 28, 2008, 122 Stat. 544, struck out item 2677 “Options: property required for military construction projects”.
+Pub. L. 110–181, div. B, title XXVIII, § 2822(b)(2), Jan. 28, 2008, 122 Stat. 544, struck out item 2677 “Options: property required for military construction projects”.
 
-2006—Pub. L. 109–364, div. B, title XXVIII, §§ 2822(d), 2823(b), 2825(d)(2)(B), 2851(c)(3), Oct. 17, 2006, 120 Stat. 2475–2477, 2495, added item 2668a, substituted “Real property: transfer between armed forces and screening requirements for other Federal use” for “Screening of real property for further Federal use before conveyance” in item 2696, and struck out items 2669 “Easements for rights-of-way: gas, water, sewer pipe lines”, 2689 “Development of geothermal energy on military lands”, 2690 “Fuel sources for heating systems; prohibition on converting certain heating facilities”, and 2693 “Conveyance of certain property: Department of Justice correctional options program”.
+2006—Pub. L. 109–364, div. B, title XXVIII, §§ 2822(d), 2823(b), 2825(d)(2)(B), 2851(c)(3), Oct. 17, 2006, 120 Stat. 2475–2477, 2495, added item 2668a, substituted “Real property: transfer between armed forces and screening requirements for other Federal use” for “Screening of real property for further Federal use before conveyance” in item 2696, and struck out items 2669 “Easements for rights-of-way: gas, water, sewer pipe lines”, 2689 “Development of geothermal energy on military lands”, 2690 “Fuel sources for heating systems; prohibition on converting certain heating facilities”, and 2693 “Conveyance of certain property: Department of Justice correctional options program”.
 
-Pub. L. 109–163, div. B, title XXVIII, § 2821(g), Jan. 6, 2006, 119 Stat. 3513, added items 2663 and 2664 and struck out former item 2663 “Acquisition” and items 2672 “Authority to acquire low-cost interests in land”, 2672a “Acquisition: interests in land when need is urgent”, and 2676 “Acquisition: limitation”.
+Pub. L. 109–163, div. B, title XXVIII, § 2821(g), Jan. 6, 2006, 119 Stat. 3513, added items 2663 and 2664 and struck out former item 2663 “Acquisition” and items 2672 “Authority to acquire low-cost interests in land”, 2672a “Acquisition: interests in land when need is urgent”, and 2676 “Acquisition: limitation”.
 
-2004—Pub. L. 108–375, div. B, title XXVIII, § 2821(e)(3), Oct. 28, 2004, 118 Stat. 2130, substituted “Use of facilities by private organizations; use as polling places” for “Military installations: use by American National Red Cross; use as polling places” in item 2670 and struck out items 2664 “Acquisition of property for lumber production”, 2666 “Acquisition: land purchase contracts; limitation on commission”, 2673 “Acquisition of certain interests in land: availability of funds”, and 2679 “Representatives of veterans’ organizations: use of space and equipment”.
+2004—Pub. L. 108–375, div. B, title XXVIII, § 2821(e)(3), Oct. 28, 2004, 118 Stat. 2130, substituted “Use of facilities by private organizations; use as polling places” for “Military installations: use by American National Red Cross; use as polling places” in item 2670 and struck out items 2664 “Acquisition of property for lumber production”, 2666 “Acquisition: land purchase contracts; limitation on commission”, 2673 “Acquisition of certain interests in land: availability of funds”, and 2679 “Representatives of veterans’ organizations: use of space and equipment”.
 
-2003—Pub. L. 108–136, div. A, title III, § 314(a)(2), div. B, title XXVIII, § 2811(b)(3), Nov. 24, 2003, 117 Stat. 1431, 1725, substituted “Authority to acquire low-cost interests in land” for “Acquisition: interests in land when cost is not more than $500,000” in item 2672 and added item 2694b.
+2003—Pub. L. 108–136, div. A, title III, § 314(a)(2), div. B, title XXVIII, § 2811(b)(3), Nov. 24, 2003, 117 Stat. 1431, 1725, substituted “Authority to acquire low-cost interests in land” for “Acquisition: interests in land when cost is not more than $500,000” in item 2672 and added item 2694b.
 
-2002—Pub. L. 107–314, div. B, title XXVIII, §§ 2811(b), 2812(a)(2), Dec. 2, 2002, 116 Stat. 2707, 2709, added items 2684a and 2694a.
+2002—Pub. L. 107–314, div. B, title XXVIII, §§ 2811(b), 2812(a)(2), Dec. 2, 2002, 116 Stat. 2707, 2709, added items 2684a and 2694a.
 
-2001—Pub. L. 107–107, div. A, title X, § 1048(a)(26)(B)(ii), title XVI, § 1607(b)(3), Dec. 28, 2001, 115 Stat. 1225, 1280, substituted “Military installations: use by American National Red Cross; use as polling places” for “Licenses: military installations; erection and use of buildings; American National Red Cross” in item 2670 and “Conveyance of certain property: Department of Justice correctional options program” for “Conveyance of certain property” in item 2693.
+2001—Pub. L. 107–107, div. A, title X, § 1048(a)(26)(B)(ii), title XVI, § 1607(b)(3), Dec. 28, 2001, 115 Stat. 1225, 1280, substituted “Military installations: use by American National Red Cross; use as polling places” for “Licenses: military installations; erection and use of buildings; American National Red Cross” in item 2670 and “Conveyance of certain property: Department of Justice correctional options program” for “Conveyance of certain property” in item 2693.
 
-1998—Pub. L. 105–261, div. B, title XXVIII, § 2812(b)(2), Oct. 17, 1998, 112 Stat. 2206, struck out “from other agencies” after “lease” in item 2691.
+1998—Pub. L. 105–261, div. B, title XXVIII, § 2812(b)(2), Oct. 17, 1998, 112 Stat. 2206, struck out “from other agencies” after “lease” in item 2691.
 
-1997—Pub. L. 105–85, div. A, title III, §§ 343(g)(3), 371(c)(2), title X, §§ 1061(c)(2), 1062(b), div. B, title XXVIII, §§ 2811(b)(2), 2812(b), 2813(b), 2814(a)(2), Nov. 18, 1997, 111 Stat. 1688, 1705, 1891, 1892, 1992–1995, inserted “of military departments” after “property” in item 2667, added item 2667a, substituted “$500,000” for “$200,000” in item 2672, added items 2686 and 2688, substituted “Storage, treatment, and” for “Storage and” in item 2692, and added items 2695 and 2696.
+1997—Pub. L. 105–85, div. A, title III, §§ 343(g)(3), 371(c)(2), title X, §§ 1061(c)(2), 1062(b), div. B, title XXVIII, §§ 2811(b)(2), 2812(b), 2813(b), 2814(a)(2), Nov. 18, 1997, 111 Stat. 1688, 1705, 1891, 1892, 1992–1995, inserted “of military departments” after “property” in item 2667, added item 2667a, substituted “$500,000” for “$200,000” in item 2672, added items 2686 and 2688, substituted “Storage, treatment, and” for “Storage and” in item 2692, and added items 2695 and 2696.
 
-1996—Pub. L. 104–201, div. A, title III, §§ 332(a)(2), 369(b)(2), div. B, title XXVIII, § 2862(b), Sept. 23, 1996, 110 Stat. 2485, 2498, 2805, substituted “of Pentagon Reservation and defense facilities in National Capital Region” for “of the Pentagon Reservation” in item 2674 and added items 2684 and 2694.
+1996—Pub. L. 104–201, div. A, title III, §§ 332(a)(2), 369(b)(2), div. B, title XXVIII, § 2862(b), Sept. 23, 1996, 110 Stat. 2485, 2498, 2805, substituted “of Pentagon Reservation and defense facilities in National Capital Region” for “of the Pentagon Reservation” in item 2674 and added items 2684 and 2694.
 
-1993—Pub. L. 103–160, div. A, title VIII, § 846(b), Nov. 30, 1993, 107 Stat. 1723, added item 2681.
+1993—Pub. L. 103–160, div. A, title VIII, § 846(b), Nov. 30, 1993, 107 Stat. 1723, added item 2681.
 
-1992—Pub. L. 102–496, title IV, § 403(a)(2)(B), Oct. 24, 1992, 106 Stat. 3185, substituted “reports to congressional committees” for “Reports to the Armed Services Committees” in item 2662.
+1992—Pub. L. 102–496, title IV, § 403(a)(2)(B), Oct. 24, 1992, 106 Stat. 3185, substituted “reports to congressional committees” for “Reports to the Armed Services Committees” in item 2662.
 
-1991—Pub. L. 102–190, div. B, title XXVIII, § 2863(a)(2), Dec. 5, 1991, 105 Stat. 1560, added item 2680.
+1991—Pub. L. 102–190, div. B, title XXVIII, § 2863(a)(2), Dec. 5, 1991, 105 Stat. 1560, added item 2680.
 
-1990—Pub. L. 101–647, title XVIII, § 1802(b), Nov. 29, 1990, 104 Stat. 4850, added item 2693.
+1990—Pub. L. 101–647, title XVIII, § 1802(b), Nov. 29, 1990, 104 Stat. 4850, added item 2693.
 
-Pub. L. 101–510, div. A, title XIV, § 1481(h)(2), div. B, title XXVIII, § 2804(a)(2), Nov. 5, 1990, 104 Stat. 1708, 1785, added items 2674 and 2678.
+Pub. L. 101–510, div. A, title XIV, § 1481(h)(2), div. B, title XXVIII, § 2804(a)(2), Nov. 5, 1990, 104 Stat. 1708, 1785, added items 2674 and 2678.
 
-1988—Pub. L. 100–370, §§ 1(*l*)(4), 2(b)(2), July 19, 1988, 102 Stat. 849, 854, added items 2661 and 2673 and struck out item 2693 “Prohibition on contracts for performance of firefighting or security-guard functions”.
+1988—Pub. L. 100–370, §§ 1(*l*)(4), 2(b)(2), July 19, 1988, 102 Stat. 849, 854, added items 2661 and 2673 and struck out item 2693 “Prohibition on contracts for performance of firefighting or security-guard functions”.
 
-1987—Pub. L. 100–224, § 5(b)(3), Dec. 30, 1987, 101 Stat. 1538, inserted “; prohibition on converting certain heating facilities” after “systems” in item 2690.
+1987—Pub. L. 100–224, § 5(b)(3), Dec. 30, 1987, 101 Stat. 1538, inserted “; prohibition on converting certain heating facilities” after “systems” in item 2690.
 
-Pub. L. 100–180, div. A, title XI, § 1112(b)(3), Dec. 4, 1987, 101 Stat. 1147, inserted “or security-guard” before “functions” in item 2693.
+Pub. L. 100–180, div. A, title XI, § 1112(b)(3), Dec. 4, 1987, 101 Stat. 1147, inserted “or security-guard” before “functions” in item 2693.
 
-1986—Pub. L. 99–661, div. A, title XII, §§ 1205(a)(2), 1222(a)(2), Nov. 14, 1986, 100 Stat. 3972, 3976, substituted “Fuel sources for heating systems” for “Restriction on fuel sources for new heating systems” in item 2690 and added item 2693.
+1986—Pub. L. 99–661, div. A, title XII, §§ 1205(a)(2), 1222(a)(2), Nov. 14, 1986, 100 Stat. 3972, 3976, substituted “Fuel sources for heating systems” for “Restriction on fuel sources for new heating systems” in item 2690 and added item 2693.
 
-Pub. L. 98–115, title VIII, § 807(c)(2), Oct. 11, 1983, 97 Stat. 789; Pub. L. 99–167, title VIII, § 806(a), Dec. 3, 1985, 99 Stat. 988, struck out item 2667a “Sale and replacement of nonexcess real property”, eff. Oct. 1, 1986.
+Pub. L. 98–115, title VIII, § 807(c)(2), Oct. 11, 1983, 97 Stat. 789; Pub. L. 99–167, title VIII, § 806(a), Dec. 3, 1985, 99 Stat. 988, struck out item 2667a “Sale and replacement of nonexcess real property”, eff. Oct. 1, 1986.
 
-1985—Pub. L. 99–167, title VIII, § 810(b)(2), Dec. 3, 1985, 99 Stat. 990, substituted “$200,000” for “$100,000” in item 2672.
+1985—Pub. L. 99–167, title VIII, § 810(b)(2), Dec. 3, 1985, 99 Stat. 990, substituted “$200,000” for “$100,000” in item 2672.
 
-Pub. L. 99–145, title XII, § 1224(c)(2), Nov. 8, 1985, 99 Stat. 729, inserted “; minimum drinking age on military installations” in item 2683.
+Pub. L. 99–145, title XII, § 1224(c)(2), Nov. 8, 1985, 99 Stat. 729, inserted “; minimum drinking age on military installations” in item 2683.
 
-1984—Pub. L. 98–407, title VIII, §§ 804(b), 805(b), Aug. 28, 1984, 98 Stat. 1519, 1521, added items 2691 and 2692.
+1984—Pub. L. 98–407, title VIII, §§ 804(b), 805(b), Aug. 28, 1984, 98 Stat. 1519, 1521, added items 2691 and 2692.
 
-1983—Pub. L. 98–115, title VIII, § 807(a)(2), Oct. 11, 1983, 97 Stat. 788, added item 2667a.
+1983—Pub. L. 98–115, title VIII, § 807(a)(2), Oct. 11, 1983, 97 Stat. 788, added item 2667a.
 
-1982—Pub. L. 97–321, title VIII, § 805(b)(4), Oct. 15, 1982, 96 Stat. 1573, substituted in item 2689 “Development of geothermal energy on military lands” for “Development of sources of energy on or for military installations”.
+1982—Pub. L. 97–321, title VIII, § 805(b)(4), Oct. 15, 1982, 96 Stat. 1573, substituted in item 2689 “Development of geothermal energy on military lands” for “Development of sources of energy on or for military installations”.
 
-Pub. L. 97–295, § 1(31)(B), Oct. 12, 1982, 96 Stat. 1296, struck out item 2661a “Appropriations for advance planning of military public works”.
+Pub. L. 97–295, § 1(31)(B), Oct. 12, 1982, 96 Stat. 1296, struck out item 2661a “Appropriations for advance planning of military public works”.
 
-Pub. L. 97–258, § 2(b)(6)(A), Sept. 13, 1982, 96 Stat. 1053, added item 2661a.
+Pub. L. 97–258, § 2(b)(6)(A), Sept. 13, 1982, 96 Stat. 1053, added item 2661a.
 
-Pub. L. 97–214, §§ 6(c)(2), 10(a)(4), (5)(C), July 12, 1982, 96 Stat. 173, 175, struck out items 2661 “Planning and construction of public works projects by military departments”, 2673 “Restoration or replacement of facilities damaged or destroyed”, 2674 “Minor construction projects”, 2678 “Acquisition of mortgaged housing units”, 2681 “Construction or acquisition of family housing and community facilities in foreign countries”, 2684 “Construction of family quarters; limitations on space”, 2686 “Leases: military family housing”, and 2688 “Use of solar energy systems in new facilities”, substituted “Options: property required for military construction projects” for “Options: property required for public works projects of military departments” in item 2677, and added items 2689 and 2690.
+Pub. L. 97–214, §§ 6(c)(2), 10(a)(4), (5)(C), July 12, 1982, 96 Stat. 173, 175, struck out items 2661 “Planning and construction of public works projects by military departments”, 2673 “Restoration or replacement of facilities damaged or destroyed”, 2674 “Minor construction projects”, 2678 “Acquisition of mortgaged housing units”, 2681 “Construction or acquisition of family housing and community facilities in foreign countries”, 2684 “Construction of family quarters; limitations on space”, 2686 “Leases: military family housing”, and 2688 “Use of solar energy systems in new facilities”, substituted “Options: property required for military construction projects” for “Options: property required for public works projects of military departments” in item 2677, and added items 2689 and 2690.
 
-1980—Pub. L. 96–513, title V, § 511(89), Dec. 12, 1980, 94 Stat. 2928, struck out item 2680 “Reimbursement of owners of property acquired for public works projects for moving expenses”.
+1980—Pub. L. 96–513, title V, § 511(89), Dec. 12, 1980, 94 Stat. 2928, struck out item 2680 “Reimbursement of owners of property acquired for public works projects for moving expenses”.
 
-Pub. L. 96–418, title VIII, § 806(b), Oct. 10, 1980, 94 Stat. 1777, as amended by Pub. L. 97–22, § 11(c), July 10, 1981, 95 Stat. 138, substituted “$100,000” for “$50,000” in item 2762.
+Pub. L. 96–418, title VIII, § 806(b), Oct. 10, 1980, 94 Stat. 1777, as amended by Pub. L. 97–22, § 11(c), July 10, 1981, 95 Stat. 138, substituted “$100,000” for “$50,000” in item 2762.
 
-1979—Pub. L. 96–125, title VIII, § 804(a)(2), Nov. 26, 1979, 93 Stat. 948, added item 2688.
+1979—Pub. L. 96–125, title VIII, § 804(a)(2), Nov. 26, 1979, 93 Stat. 948, added item 2688.
 
-1977—Pub. L. 95–82, title V, § 504(a)(2), title VI, §§ 608(b), 612(b), Aug. 1, 1977, 91 Stat. 371, 378, 380, substituted “Minor construction projects” for “Establishment and development of military facilities and installations costing less than $400,000” in item 2674 and added items 2686 and 2687.
+1977—Pub. L. 95–82, title V, § 504(a)(2), title VI, §§ 608(b), 612(b), Aug. 1, 1977, 91 Stat. 371, 378, 380, substituted “Minor construction projects” for “Establishment and development of military facilities and installations costing less than $400,000” in item 2674 and added items 2686 and 2687.
 
-1975—Pub. L. 94–107, title VI, § 607(1), (9), (10), Oct. 7, 1975, 89 Stat. 566, 567, substituted “$400,000” for “$300,000” in item 2674, struck out “; structures not on a military base” in item 2675, and added item 2672a.
+1975—Pub. L. 94–107, title VI, § 607(1), (9), (10), Oct. 7, 1975, 89 Stat. 566, 567, substituted “$400,000” for “$300,000” in item 2674, struck out “; structures not on a military base” in item 2675, and added item 2672a.
 
-1974—Pub. L. 93–552, title VI, § 611, Dec. 27, 1974, 88 Stat. 1765, added item 2685.
+1974—Pub. L. 93–552, title VI, § 611, Dec. 27, 1974, 88 Stat. 1765, added item 2685.
 
-1973—Pub. L. 93–166, title V, § 509(b), Nov. 29, 1973, 87 Stat. 677, added item 2684.
+1973—Pub. L. 93–166, title V, § 509(b), Nov. 29, 1973, 87 Stat. 677, added item 2684.
 
-1971—Pub. L. 92–145, title VII, § 707(2), Oct. 27, 1971, 85 Stat. 411, substituted “$50,000” for “$25,000” in item 2672.
+1971—Pub. L. 92–145, title VII, § 707(2), Oct. 27, 1971, 85 Stat. 411, substituted “$50,000” for “$25,000” in item 2672.
 
-1970—Pub. L. 91–511, title VI, §§ 607(1), 613(2), Oct. 26, 1970, 84 Stat. 1223, 1226, substituted “$300,000” for “$200,000” in item 2674, and added item 2683.
+1970—Pub. L. 91–511, title VI, §§ 607(1), 613(2), Oct. 26, 1970, 84 Stat. 1223, 1226, substituted “$300,000” for “$200,000” in item 2674, and added item 2683.
 
-1963—Pub. L. 88–174, title VI, § 609(a)(2), Nov. 7, 1963, 77 Stat. 329, added item 2682.
+1963—Pub. L. 88–174, title VI, § 609(a)(2), Nov. 7, 1963, 77 Stat. 329, added item 2682.
 
-1962—Pub. L. 87–651, title I, § 112(d), title II, § 209(b), Sept. 7, 1962, 76 Stat. 512, 524, substituted “$25,000” for “$5,000” in item 2672 and added items 2679 to 2681.
+1962—Pub. L. 87–651, title I, § 112(d), title II, § 209(b), Sept. 7, 1962, 76 Stat. 512, 524, substituted “$25,000” for “$5,000” in item 2672 and added items 2679 to 2681.
 
-1960—Pub. L. 86–500, title V, § 511(2), June 8, 1960, 74 Stat. 187, substituted “Reports to the Armed Services Committees” for “Agreement with Armed Services Committees; reports” in item 2662.
+1960—Pub. L. 86–500, title V, § 511(2), June 8, 1960, 74 Stat. 187, substituted “Reports to the Armed Services Committees” for “Agreement with Armed Services Committees; reports” in item 2662.
 
-1958—Pub. L. 85–861, § 1(52), Sept. 2, 1958, 72 Stat. 1461, added items 2672 to 2678.
+1958—Pub. L. 85–861, § 1(52), Sept. 2, 1958, 72 Stat. 1461, added items 2672 to 2678.
 
-Pub. L. 85–337, § 4(2), Feb. 28, 1958, 72 Stat. 29, added item 2671.
+Pub. L. 85–337, § 4(2), Feb. 28, 1958, 72 Stat. 29, added item 2671.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Required Infrastructure Plan Prior to Deployment of Certain Non-Tactical Vehicles at Military Installations**
 
-Pub. L. 118–31, div. A, title III, § 319, Dec. 22, 2023, 137 Stat. 219, provided that:
+Pub. L. 118–31, div. A, title III, § 319, Dec. 22, 2023, 137 Stat. 219, provided that:
 
 > **“(a) Requirement.—** No Secretary concerned may deploy covered non-tactical vehicles to a military installation until, for each such prospective deployment—
 
@@ -169,7 +169,7 @@ Pub. L. 118–31, div. A, title III, § 319, Dec. 22, 2023, 137 Stat. 219, pro
 
 **Guidance Regarding Securing Laboratories of the Armed Forces**
 
-Pub. L. 118–31, div. A, title XV, § 1519, Dec. 22, 2023, 137 Stat. 550, provided that:
+Pub. L. 118–31, div. A, title XV, § 1519, Dec. 22, 2023, 137 Stat. 550, provided that:
 
 > **“(a) Guidance.—** Not later than 180 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense, in coordination with the Chief Information Officer of the Department of Defense, the Chief Digital and Artificial Intelligence Officer of the Department, the Under Secretary of Defense for Research and Engineering, and the Under Secretary of Defense for Intelligence and Security, shall issue Department-wide guidance regarding methods and processes to secure laboratories of the Armed Forces from—
 
@@ -203,7 +203,7 @@ Pub. L. 118–31, div. A, title XV, § 1519, Dec. 22, 2023, 137 Stat. 550, pro
 
 **Guidance on Department of Defense-Wide Standards for Access to Military Installations**
 
-Pub. L. 118–31, div. B, title XXVIII, § 2851, Dec. 22, 2023, 137 Stat. 762, provided that:
+Pub. L. 118–31, div. B, title XXVIII, § 2851, Dec. 22, 2023, 137 Stat. 762, provided that:
 
 > **“(a) Interim Guidance.—** Not later than 30 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall issue interim guidance to the appropriate official or officials within the Department of Defense for purposes of establishing final standards of the Department of Defense for determining the fitness of individuals for access to military installations, which shall include modifying volume 3 of the Department of Defense Manual 5200.08 titled ‘Physical Security Program: Access to DoD Installations’ (dated January 2, 2019) or any comparable or successor policy guidance document.
 
@@ -213,7 +213,7 @@ Pub. L. 118–31, div. B, title XXVIII, § 2851, Dec. 22, 2023, 137 Stat. 762,
 
 **Physical Entrances to Certain Military Installations**
 
-Pub. L. 117–263, div. B, title XXVIII, § 2833, Dec. 23, 2022, 136 Stat. 3003, provided that:
+Pub. L. 117–263, div. B, title XXVIII, § 2833, Dec. 23, 2022, 136 Stat. 3003, provided that:
 
 > “The Secretary of Defense shall ensure that, to the extent practicable that—
 
@@ -227,7 +227,7 @@ Pub. L. 117–263, div. B, title XXVIII, § 2833, Dec. 23, 2022, 136 Stat. 300
 
 **Prizes for Development of Non-PFAS-Containing Fire-Fighting Agent**
 
-Pub. L. 116–283, div. A, title III, § 330, Jan. 1, 2021, 134 Stat. 3528, as amended by Pub. L. 117–263, div. A, title III, § 343, Dec. 23, 2022, 136 Stat. 2530; Pub. L. 118–31, div. A, title III, § 334(a), Dec. 22, 2023, 137 Stat. 222, provided that:
+Pub. L. 116–283, div. A, title III, § 330, Jan. 1, 2021, 134 Stat. 3528, as amended by Pub. L. 117–263, div. A, title III, § 343, Dec. 23, 2022, 136 Stat. 2530; Pub. L. 118–31, div. A, title III, § 334(a), Dec. 22, 2023, 137 Stat. 222, provided that:
 
 > **“(a) Authority.—** The Secretary of Defense, acting through the Assistant Secretary of Defense for Sustainment and the Strategic Environmental Research and Development Program, may carry out a program to award cash prizes and other types of prizes that the Secretary determines are appropriate to recognize outstanding achievements in the development of the following:
 
@@ -271,7 +271,7 @@ Pub. L. 116–283, div. A, title III, § 330, Jan. 1, 2021, 134 Stat. 3528, as
 
 **Research and Development of Alternative to Aqueous Film-Forming Foam**
 
-Pub. L. 116–283, div. A, title III, § 334, Jan. 1, 2021, 134 Stat. 3531, provided that:
+Pub. L. 116–283, div. A, title III, § 334, Jan. 1, 2021, 134 Stat. 3531, provided that:
 
 > **“(a) In General.—** The Secretary of Defense, acting through the National Institute of Standards and Technology and in consultation with appropriate stakeholders and manufactures, research institutions, and other Federal agencies shall award grants and carry out other activities to—
 
@@ -303,7 +303,7 @@ Pub. L. 116–283, div. A, title III, § 334, Jan. 1, 2021, 134 Stat. 3531, pr
 
 **Replacement of Fluorinated Aqueous Film-Forming Foam**
 
-Pub. L. 116–92, div. A, title III, §§ 322–324, Dec. 20, 2019, 133 Stat. 1307–1310, as amended by Pub. L. 119–60, div. A, title III, § 315, Dec. 18, 2025, 139 Stat. 804, provided that:
+Pub. L. 116–92, div. A, title III, §§ 322–324, Dec. 20, 2019, 133 Stat. 1307–1310, as amended by Pub. L. 119–60, div. A, title III, § 315, Dec. 18, 2025, 139 Stat. 804, provided that:
 
 > **“SEC. 322. REPLACEMENT OF FLUORINATED AQUEOUS FILM-FORMING FOAM WITH FLUORINE-FREE FIRE-FIGHTING AGENT.**
 
@@ -407,7 +407,7 @@ Pub. L. 116–92, div. A, title III, §§ 322–324, Dec. 20, 2019, 133 Stat. 
 
 **Access to Military Installations**
 
-Pub. L. 116–283, div. A, title X, § 1090, Jan. 1, 2021, 134 Stat. 3879, as amended by Pub. L. 118–31, div. A, title X, § 1046, Dec. 22, 2023, 137 Stat. 390, provided that:
+Pub. L. 116–283, div. A, title X, § 1090, Jan. 1, 2021, 134 Stat. 3879, as amended by Pub. L. 118–31, div. A, title X, § 1046, Dec. 22, 2023, 137 Stat. 390, provided that:
 
 > **“(a) Establishment of Vetting Procedures.—**
 
@@ -529,7 +529,7 @@ Pub. L. 116–283, div. A, title X, § 1090, Jan. 1, 2021, 134 Stat. 3879, as 
 
 > **“(6)** The term ‘other appropriate person’ means a person who is a citizen of both the United States and another country or who is an alien lawfully admitted for permanent residence in the United States, if such person intends to attend training or education on behalf of a foreign country.”
 
-Pub. L. 115–232, div. A, title VI, § 626, Aug. 13, 2018, 132 Stat. 1802, provided that:
+Pub. L. 115–232, div. A, title VI, § 626, Aug. 13, 2018, 132 Stat. 1802, provided that:
 
 > **“(a) Procedures for Access of Surviving Spouses Required.—** The Secretary of Defense, acting jointly with the Secretary of Homeland Security, shall establish procedures by which an eligible surviving spouse may obtain unescorted access, as appropriate, to military installations in order to receive benefits to which the eligible surviving spouse may be entitled by law or policy.
 
@@ -561,7 +561,7 @@ Pub. L. 115–232, div. A, title VI, § 626, Aug. 13, 2018, 132 Stat. 1802, pr
 
 > **“(B)** on such reserve duty as the Secretary of Defense and the Secretary of Homeland Security may jointly specify for purposes of this section.”
 
-Pub. L. 114–328, div. A, title III, § 346, Dec. 23, 2016, 130 Stat. 2085, as amended by Pub. L. 115–91, div. B, title XXVIII, § 2819, Dec. 12, 2017, 131 Stat. 1853, provided that:
+Pub. L. 114–328, div. A, title III, § 346, Dec. 23, 2016, 130 Stat. 2085, as amended by Pub. L. 115–91, div. B, title XXVIII, § 2819, Dec. 12, 2017, 131 Stat. 1853, provided that:
 
 > **“(a) In General.—** Not later than one year after the date of the enactment of this Act [Dec. 23, 2016], the Secretary of Defense shall establish policies under which covered drivers may be authorized to access military installations.
 
@@ -613,15 +613,15 @@ Pub. L. 114–328, div. A, title III, § 346, Dec. 23, 2016, 130 Stat. 2085, a
 
 > **“(B)** includes a vehicle operated by such individual for the purpose of providing such service.”
 
-[Pub. L. 115–91, div. B, title XXVIII, § 2819(4)(C), Dec. 12, 2017, 131 Stat. 1853, which directed the insertion of “or transportation network company” after “transportation company” in section 346(d)(3)(A)(i) of Pub. L. 114–328, set out above, was not executed in light of the amendment made by section 2819(2) of Pub. L. 115–91, which directed the same insertion wherever appearing in subsec. (d).]
+[Pub. L. 115–91, div. B, title XXVIII, § 2819(4)(C), Dec. 12, 2017, 131 Stat. 1853, which directed the insertion of “or transportation network company” after “transportation company” in section 346(d)(3)(A)(i) of Pub. L. 114–328, set out above, was not executed in light of the amendment made by section 2819(2) of Pub. L. 115–91, which directed the same insertion wherever appearing in subsec. (d).]
 
-Pub. L. 114–328, div. A, title X, § 1050, Dec. 23, 2016, 130 Stat. 2396, as amended by Pub. L. 116–92, div. B, title XXVIII, § 2822, Dec. 20, 2019, 133 Stat. 1889, provided that:
+Pub. L. 114–328, div. A, title X, § 1050, Dec. 23, 2016, 130 Stat. 2396, as amended by Pub. L. 116–92, div. B, title XXVIII, § 2822, Dec. 20, 2019, 133 Stat. 1889, provided that:
 
 > **“(a) Access to Installations for Credentialed Transportation Workers.—** The Secretary of Defense, to the extent practicable, shall ensure that the Transportation Worker Identification Credential is accepted as a valid credential for unescorted access to Department of Defense installations by transportation workers.
 
 > **“(b) Credentialed Transportation Workers With Secret Clearance.—** TWIC-carrying transportation workers who also have a current Secret Level Clearance issued by the Department of Defense shall be considered exempt from further vetting when seeking unescorted access at Department of Defense facilities. Access security personnel shall verify such person’s security clearance in a timely manner and provide them with unescorted access to complete their freight service.”
 
-## § 2661. Miscellaneous administrative provisions relating to real property
+## § 2661. Miscellaneous administrative provisions relating to real property
 
 **(a) Availability of Operation and Maintenance Funds.—** Appropriations for operation and maintenance of the active forces shall be available for the following:
 
@@ -651,41 +651,41 @@ Pub. L. 114–328, div. A, title X, § 1050, Dec. 23, 2016, 130 Stat. 2396, as
 
 **(d) Treatment of Pentagon Reservation.—** In this chapter, the terms “Secretary concerned” and “Secretary of a military department” include the Secretary of Defense with respect to the Pentagon Reservation.
 
-(Added Pub. L. 100–370, § 1(*l*)(3), July 19, 1988, 102 Stat. 849; amended Pub. L. 108–375, div. B, title XXVIII, § 2821(a)(1), (e)(1), Oct. 28, 2004, 118 Stat. 2129, 2130; Pub. L. 109–163, div. B, title XXVIII, § 2821(d), (e), Jan. 6, 2006, 119 Stat. 3512; Pub. L. 112–81, div. B, title XXVIII, § 2863(a), Dec. 31, 2011, 125 Stat. 1701.)
+(Added Pub. L. 100–370, § 1(*l*)(3), July 19, 1988, 102 Stat. 849; amended Pub. L. 108–375, div. B, title XXVIII, § 2821(a)(1), (e)(1), Oct. 28, 2004, 118 Stat. 2129, 2130; Pub. L. 109–163, div. B, title XXVIII, § 2821(d), (e), Jan. 6, 2006, 119 Stat. 3512; Pub. L. 112–81, div. B, title XXVIII, § 2863(a), Dec. 31, 2011, 125 Stat. 1701.)
 
 **Historical and Revision Notes**
 
-Subsection (a) of this section and sections 2241(a) and 2253(b) of this title are based on Pub. L. 98–212, title VII, § 735, Dec. 8, 1983, 97 Stat. 1444, as amended by Pub. L. 98–525, title XIV, §§ 1403(a)(2), 1404, Oct. 19, 1984, 98 Stat. 2621.
+Subsection (a) of this section and sections 2241(a) and 2253(b) of this title are based on Pub. L. 98–212, title VII, § 735, Dec. 8, 1983, 97 Stat. 1444, as amended by Pub. L. 98–525, title XIV, §§ 1403(a)(2), 1404, Oct. 19, 1984, 98 Stat. 2621.
 
-Subsection (b) is based on Pub. L. 99–190, § 101(b) [title VIII, § 8005(d), (f)], Dec. 19, 1985, 99 Stat. 1185, 1202.
+Subsection (b) is based on Pub. L. 99–190, § 101(b) [title VIII, § 8005(d), (f)], Dec. 19, 1985, 99 Stat. 1185, 1202.
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2661, act Aug. 10, 1956, ch. 1041, 70A Stat. 147, related to planning and construction of public works projects by military departments, prior to repeal by Pub. L. 97–214, § 7(1), July 12, 1982, 96 Stat. 173, eff. Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date.
+A prior section 2661, act Aug. 10, 1956, ch. 1041, 70A Stat. 147, related to planning and construction of public works projects by military departments, prior to repeal by Pub. L. 97–214, § 7(1), July 12, 1982, 96 Stat. 173, eff. Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date.
 
 **Amendments**
 
 2011—Subsec. (c). Pub. L. 112–81 added subsec. (c).
 
-2006—Subsec. (c). Pub. L. 109–163, § 2821(d), redesignated subsec. (c) as section 2664(b) of this title.
+2006—Subsec. (c). Pub. L. 109–163, § 2821(d), redesignated subsec. (c) as section 2664(b) of this title.
 
-Subsec. (d). Pub. L. 109–163, § 2821(e), added subsec. (d).
+Subsec. (d). Pub. L. 109–163, § 2821(e), added subsec. (d).
 
-2004—Subsecs. (a), (b). Pub. L. 108–375, § 2821(e)(1), inserted headings.
+2004—Subsecs. (a), (b). Pub. L. 108–375, § 2821(e)(1), inserted headings.
 
-Subsec. (c). Pub. L. 108–375, § 2821(a)(1), added subsec. (c).
+Subsec. (c). Pub. L. 108–375, § 2821(a)(1), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–81, div. B, title XXVIII, § 2863(b), Dec. 31, 2011, 125 Stat. 1702, provided that: “The prohibition in subsection (c) of section 2661 of title 10, United States Code, as added by subsection (a), shall apply only with respect to real property of the Department of Defense named after the date of the enactment of this Act [Dec. 31, 2011].”
+Pub. L. 112–81, div. B, title XXVIII, § 2863(b), Dec. 31, 2011, 125 Stat. 1702, provided that: “The prohibition in subsection (c) of section 2661 of title 10, United States Code, as added by subsection (a), shall apply only with respect to real property of the Department of Defense named after the date of the enactment of this Act [Dec. 31, 2011].”
 
 **Restroom Access at Military Installations for Certain Transportation Service Providers**
 
-Pub. L. 119–60, div. A, title III, § 379, Dec. 18, 2025, 139 Stat. 843, provided that:
+Pub. L. 119–60, div. A, title III, § 379, Dec. 18, 2025, 139 Stat. 843, provided that:
 
 > **“(a) Restroom Access.—** The Secretary of Defense shall take such steps as may be necessary to ensure that, with respect to each covered location, there is a restroom—
 
@@ -737,7 +737,7 @@ Pub. L. 119–60, div. A, title III, § 379, Dec. 18, 2025, 139 Stat. 843, pro
 
 **Expenditures on Leased Facilities and Real Property of the Department of Defense**
 
-Pub. L. 118–159, div. B, title XXVIII, § 2850, Dec. 23, 2024, 138 Stat. 2269, provided that:
+Pub. L. 118–159, div. B, title XXVIII, § 2850, Dec. 23, 2024, 138 Stat. 2269, provided that:
 
 > **“(a) In General.—** Not later than five years after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall reduce expenditures on facilities leased by the Department of Defense by 25 percent.
 
@@ -765,7 +765,7 @@ Pub. L. 118–159, div. B, title XXVIII, § 2850, Dec. 23, 2024, 138 Stat. 226
 
 **Prohibition on Display of Unapproved Flags**
 
-Pub. L. 118–31, div. A, title X, § 1052, Dec. 22, 2023, 137 Stat. 395, provided that:
+Pub. L. 118–31, div. A, title X, § 1052, Dec. 22, 2023, 137 Stat. 395, provided that:
 
 > **“(a) Prohibition.—** No flag other than an approved flag shall be displayed in any work place, common access area, or public area of the Department of Defense.
 
@@ -821,7 +821,7 @@ Pub. L. 118–31, div. A, title X, § 1052, Dec. 22, 2023, 137 Stat. 395, prov
 
 **Tribal Liaisons at Military Installations**
 
-Pub. L. 118–31, div. A, title X, § 1084, Dec. 22, 2023, 137 Stat. 418, provided that:
+Pub. L. 118–31, div. A, title X, § 1084, Dec. 22, 2023, 137 Stat. 418, provided that:
 
 > **“(a) Tribal Liaisons at Military Installations.—** The Secretary of Defense shall ensure that each military installation under the jurisdiction of a military department that has an Indian Tribe, Native Hawaiian organization, or Tribal interest in the area surrounding the installation has a Tribal liaison located at the installation.
 
@@ -835,7 +835,7 @@ Pub. L. 118–31, div. A, title X, § 1084, Dec. 22, 2023, 137 Stat. 418, prov
 
 **Requirements for Deployment of Fifth Generation Information and Communications Capabilities to Military Installations and Other Department Facilities**
 
-Pub. L. 118–31, div. A, title XV, § 1526, Dec. 22, 2023, 137 Stat. 557, provided that:
+Pub. L. 118–31, div. A, title XV, § 1526, Dec. 22, 2023, 137 Stat. 557, provided that:
 
 > **“(a) Requirements.—**
 
@@ -869,7 +869,7 @@ Pub. L. 118–31, div. A, title XV, § 1526, Dec. 22, 2023, 137 Stat. 557, pro
 
 **Target Date for Deployment of 5G Wireless Broadband Infrastructure at All Military Installations**
 
-Pub. L. 117–263, div. A, title II, § 221, Dec. 23, 2022, 136 Stat. 2478, provided that:
+Pub. L. 117–263, div. A, title II, § 221, Dec. 23, 2022, 136 Stat. 2478, provided that:
 
 > **“(a) Target Required.—** Not later than July 30, 2023, the Secretary of Defense shall—
 
@@ -887,7 +887,7 @@ Pub. L. 117–263, div. A, title II, § 221, Dec. 23, 2022, 136 Stat. 2478, pr
 
 **National Standards for Federal Fire Protection at Military Installations**
 
-Pub. L. 117–263, div. A, title III, § 388, Dec. 23, 2022, 136 Stat. 2546, provided that:
+Pub. L. 117–263, div. A, title III, § 388, Dec. 23, 2022, 136 Stat. 2546, provided that:
 
 > **“(a) Standards Required.—** Beginning not later than one year after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall ensure that—
 
@@ -915,7 +915,7 @@ Pub. L. 117–263, div. A, title III, § 388, Dec. 23, 2022, 136 Stat. 2546, p
 
 **Pilot Programs for Deployment of Telecommunications Infrastructure To Facilitate 5G Deployment on Military Installations**
 
-Pub. L. 117–81, div. A, title II, § 233, Dec. 27, 2021, 135 Stat. 1614, provided that:
+Pub. L. 117–81, div. A, title II, § 233, Dec. 27, 2021, 135 Stat. 1614, provided that:
 
 > **“(a) Plans.—**
 
@@ -961,7 +961,7 @@ Pub. L. 117–81, div. A, title II, § 233, Dec. 27, 2021, 135 Stat. 1614, pro
 
 **Establishment of Secure Next-Generation Wireless Network (5G) Infrastructure for the Nevada Test and Training Range and Base Infrastructure**
 
-Pub. L. 116–92, div. A, title II, § 226, Dec. 20, 2019, 133 Stat. 1269, provided that:
+Pub. L. 116–92, div. A, title II, § 226, Dec. 20, 2019, 133 Stat. 1269, provided that:
 
 > **“(a) Establishment Required.—** Not later than one year after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall establish secure fifth-generation wireless network components and capabilities at no fewer than two Department of Defense installations in accordance with this section.
 
@@ -1007,7 +1007,7 @@ Pub. L. 116–92, div. A, title II, § 226, Dec. 20, 2019, 133 Stat. 1269, pro
 
 **Department of Defense Policy on Lead-Based Paint Testing on Military Installations**
 
-Pub. L. 116–92, div. B, title XXX, § 3054, Dec. 20, 2019, 133 Stat. 1943, provided that:
+Pub. L. 116–92, div. B, title XXX, § 3054, Dec. 20, 2019, 133 Stat. 1943, provided that:
 
 > **“(a) Access and Testing Policy.—** Not later than February 1, 2020, the Secretary of Defense shall establish a policy under which the Secretary of the military department concerned may permit a qualified individual to access a military installation for the purpose of conducting testing for the presence of lead-based paint on the installation.
 
@@ -1039,15 +1039,15 @@ Pub. L. 116–92, div. B, title XXX, § 3054, Dec. 20, 2019, 133 Stat. 1943, p
 
 **Prioritization of Environmental Impacts for Facilities Sustainment, Restoration, and Modernization Demolition**
 
-Pub. L. 115–232, div. A, title III, § 359, Aug. 13, 2018, 132 Stat. 1733, provided that: “The Secretary of Defense shall establish prioritization metrics for facilities deemed eligible for demolition within the Facilities Sustainment, Restoration, and Modernization (FSRM) process. Those metrics shall include full spectrum readiness and environmental impacts, including the removal of contamination.”
+Pub. L. 115–232, div. A, title III, § 359, Aug. 13, 2018, 132 Stat. 1733, provided that: “The Secretary of Defense shall establish prioritization metrics for facilities deemed eligible for demolition within the Facilities Sustainment, Restoration, and Modernization (FSRM) process. Those metrics shall include full spectrum readiness and environmental impacts, including the removal of contamination.”
 
 **Increased Percentage of Sustainment Funds Authorized for Realignment to Restoration and Modernization at Each Installation**
 
-Pub. L. 115–91, div. A, title III, § 322, Dec. 12, 2017, 131 Stat. 1353, provided that the Secretary of Defense could authorize an installation commander to realign up to 7.5 percent of an installation’s sustainment funds to restoration and modernization, and such authority would expire at the close of Sept. 30, 2022.
+Pub. L. 115–91, div. A, title III, § 322, Dec. 12, 2017, 131 Stat. 1353, provided that the Secretary of Defense could authorize an installation commander to realign up to 7.5 percent of an installation’s sustainment funds to restoration and modernization, and such authority would expire at the close of Sept. 30, 2022.
 
 **Disclosure of Beneficial Ownership by Foreign Persons of High Security Space Leased by the Department of Defense**
 
-Pub. L. 115–91, div. B, title XXVIII, § 2876, Dec. 12, 2017, 131 Stat. 1871, as amended by Pub. L. 115–232, div. A, title X, § 1081(c)(7), Aug. 13, 2018, 132 Stat. 1985, provided that:
+Pub. L. 115–91, div. B, title XXVIII, § 2876, Dec. 12, 2017, 131 Stat. 1871, as amended by Pub. L. 115–232, div. A, title X, § 1081(c)(7), Aug. 13, 2018, 132 Stat. 1985, provided that:
 
 > **“(a) Identification of Beneficial Ownership.—** Before entering into a lease agreement with a covered entity for accommodation of a military department or Defense Agency in a building (or other improvement) that will be used for high-security leased space, the Department of Defense shall require the covered entity to—
 
@@ -1107,23 +1107,23 @@ Pub. L. 115–91, div. B, title XXVIII, § 2876, Dec. 12, 2017, 131 Stat. 1871
 
 > **“(5) United states person.—** The term ‘United States person’ means a natural person who is a citizen of the United States or who owes permanent allegiance to the United States.”
 
-[Pub. L. 115–232, div. A, title X, § 1081(c), Aug. 13, 2018, 132 Stat. 1985, provided that the amendment made by section 1081(c)(7) to section 2876 of Pub. L. 115–91, set out above, is effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted.]
+[Pub. L. 115–232, div. A, title X, § 1081(c), Aug. 13, 2018, 132 Stat. 1985, provided that the amendment made by section 1081(c)(7) to section 2876 of Pub. L. 115–91, set out above, is effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted.]
 
 **Pilot Program to Provide Additional Tools for Efficient Operation of Military Installations**
 
-Pub. L. 107–107, div. B, title XXVIII, § 2813, Dec. 28, 2001, 115 Stat. 1308, authorized the Secretary of Defense, until Dec. 31, 2005, to carry out a pilot program, known as the “Pilot Efficient Facilities Initiative”, for purposes of determining the potential for increasing the efficiency and effectiveness of the operation of military installations.
+Pub. L. 107–107, div. B, title XXVIII, § 2813, Dec. 28, 2001, 115 Stat. 1308, authorized the Secretary of Defense, until Dec. 31, 2005, to carry out a pilot program, known as the “Pilot Efficient Facilities Initiative”, for purposes of determining the potential for increasing the efficiency and effectiveness of the operation of military installations.
 
 **Study of Establishment of Land Management and Training Center**
 
-Pub. L. 103–337, div. A, title III, § 329, Oct. 5, 1994, 108 Stat. 2715, directed Secretary of the Army to submit to Congress not later than May 1, 1996, a study and report on feasibility and advisability of establishing a center for land management activities and land management training activities of Department of Defense.
+Pub. L. 103–337, div. A, title III, § 329, Oct. 5, 1994, 108 Stat. 2715, directed Secretary of the Army to submit to Congress not later than May 1, 1996, a study and report on feasibility and advisability of establishing a center for land management activities and land management training activities of Department of Defense.
 
-## [§ 2661a. Repealed. Pub. L. 97–295, § 1(31)(A), Oct. 12, 1982, 96 Stat. 1296]
+## [§ 2661a. Repealed. Pub. L. 97–295, § 1(31)(A), Oct. 12, 1982, 96 Stat. 1296]
 
-Section, added Pub. L. 97–258, § 2(b)(6)(B), Sept. 13, 1982, 96 Stat. 1054, authorized appropriations for advance design of military public works not otherwise authorized and for construction management of foreign government funded projects used primarily by United States armed forces, and required preliminary reports to Congress on military public works whose projected advance costs exceeded a specified level.
+Section, added Pub. L. 97–258, § 2(b)(6)(B), Sept. 13, 1982, 96 Stat. 1054, authorized appropriations for advance design of military public works not otherwise authorized and for construction management of foreign government funded projects used primarily by United States armed forces, and required preliminary reports to Congress on military public works whose projected advance costs exceeded a specified level.
 
-The repeal of this section by Pub. L. 97–295 reflected the effect of section 7(2) and (8) of the Military Construction Codification Act (Pub. L. 97–214, July 12, 1982, 96 Stat. 173), which repealed the source statutes of this section (subsec. (a) was based on acts Sept. 28, 1951, ch. 434, § 504, 65 Stat. 364; July 15, 1955, ch. 368, § 512, 69 Stat. 352; Dec. 23, 1981, Pub. L. 97–99, § 902, 95 Stat. 1381 (31 U.S.C. 723); and subsec. (b) was based on acts Sept. 12, 1966, Pub. L. 89–568, § 612, 80 Stat. 756; Dec. 27, 1974, Pub. L. 93–552, § 607, 88 Stat. 1763 (31 U.S.C. 723a)) subsequent to Apr. 15, 1982, the cut-off date prescribed by section 4(a) of Pub. L. 97–258, section 2(b)(6)(B) of which enacted this section.
+The repeal of this section by Pub. L. 97–295 reflected the effect of section 7(2) and (8) of the Military Construction Codification Act (Pub. L. 97–214, July 12, 1982, 96 Stat. 173), which repealed the source statutes of this section (subsec. (a) was based on acts Sept. 28, 1951, ch. 434, § 504, 65 Stat. 364; July 15, 1955, ch. 368, § 512, 69 Stat. 352; Dec. 23, 1981, Pub. L. 97–99, § 902, 95 Stat. 1381 (31 U.S.C. 723); and subsec. (b) was based on acts Sept. 12, 1966, Pub. L. 89–568, § 612, 80 Stat. 756; Dec. 27, 1974, Pub. L. 93–552, § 607, 88 Stat. 1763 (31 U.S.C. 723a)) subsequent to Apr. 15, 1982, the cut-off date prescribed by section 4(a) of Pub. L. 97–258, section 2(b)(6)(B) of which enacted this section.
 
-## § 2662. Real property transactions: reports to congressional committees
+## § 2662. Real property transactions: reports to congressional committees
 
 **(a) General Notice and Wait Requirements.—**
 
@@ -1229,116 +1229,116 @@ The repeal of this section by Pub. L. 97–295 reflected the effect of section 7
 
 **(g) Secretary Concerned Defined.—** In this section, the term “Secretary concerned” includes, with respect to Defense Agencies, the Secretary of Defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Pub. L. 86–70, § 6(c), June 25, 1959, 73 Stat. 142; Pub. L. 86–500, title V, § 511(1), June 8, 1960, 74 Stat. 186; Pub. L. 86–624, § 4(c), July 12, 1960, 74 Stat. 411; Pub. L. 92–145, title VII, § 707(5), Oct. 27, 1971, 85 Stat. 412; Pub. L. 92–545, title VII, § 709, Oct. 25, 1972, 86 Stat. 1154; Pub. L. 93–552, title VI, § 610, Dec. 27, 1974, 88 Stat. 1765; Pub. L. 94–107, title VI, § 607(5), (6), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–431, title VI, § 614, Sept. 30, 1976, 90 Stat. 1367; Pub. L. 96–418, title VIII, § 805, Oct. 10, 1980, 94 Stat. 1777; Pub. L. 100–456, div. B, title XXVIII, § 2803, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–510, div. A, title XIII, § 1311(6), Nov. 5, 1990, 104 Stat. 1670; Pub. L. 102–496, title IV, § 403(a)(1), (2)(A), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 104–106, div. A, title XV, § 1502(a)(23), div. D, title XLIII, § 4321(b)(21), Feb. 10, 1996, 110 Stat. 505, 673; Pub. L. 105–261, div. B, title XXVIII, § 2811, Oct. 17, 1998, 112 Stat. 2204; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2811], Oct. 30, 2000, 114 Stat. 1654, 1654A–416; Pub. L. 108–136, div. A, title X, § 1031(a)(27), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 108–375, div. A, title X, § 1084(d)(22), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 110–181, div. B, title XXVIII, § 2821, Jan. 28, 2008, 122 Stat. 543; Pub. L. 110–417, div. B, title XXVIII, § 2811, Oct. 14, 2008, 122 Stat. 4725; Pub. L. 111–383, div. B, title XXVIII, § 2811(a)–(f), Jan. 7, 2011, 124 Stat. 4461, 4462; Pub. L. 112–81, div. B, title XXVIII, § 2812, Dec. 31, 2011, 125 Stat. 1686; Pub. L. 112–239, div. B, title XXVIII, § 2821, Jan. 2, 2013, 126 Stat. 2152; Pub. L. 115–91, div. A, title X, § 1081(a)(45), div. B, title XXVIII, §§ 2811(a), 2812, Dec. 12, 2017, 131 Stat. 1596, 1848, 1849.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Pub. L. 86–70, § 6(c), June 25, 1959, 73 Stat. 142; Pub. L. 86–500, title V, § 511(1), June 8, 1960, 74 Stat. 186; Pub. L. 86–624, § 4(c), July 12, 1960, 74 Stat. 411; Pub. L. 92–145, title VII, § 707(5), Oct. 27, 1971, 85 Stat. 412; Pub. L. 92–545, title VII, § 709, Oct. 25, 1972, 86 Stat. 1154; Pub. L. 93–552, title VI, § 610, Dec. 27, 1974, 88 Stat. 1765; Pub. L. 94–107, title VI, § 607(5), (6), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–431, title VI, § 614, Sept. 30, 1976, 90 Stat. 1367; Pub. L. 96–418, title VIII, § 805, Oct. 10, 1980, 94 Stat. 1777; Pub. L. 100–456, div. B, title XXVIII, § 2803, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 101–510, div. A, title XIII, § 1311(6), Nov. 5, 1990, 104 Stat. 1670; Pub. L. 102–496, title IV, § 403(a)(1), (2)(A), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 104–106, div. A, title XV, § 1502(a)(23), div. D, title XLIII, § 4321(b)(21), Feb. 10, 1996, 110 Stat. 505, 673; Pub. L. 105–261, div. B, title XXVIII, § 2811, Oct. 17, 1998, 112 Stat. 2204; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2811], Oct. 30, 2000, 114 Stat. 1654, 1654A–416; Pub. L. 108–136, div. A, title X, § 1031(a)(27), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 108–375, div. A, title X, § 1084(d)(22), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 110–181, div. B, title XXVIII, § 2821, Jan. 28, 2008, 122 Stat. 543; Pub. L. 110–417, div. B, title XXVIII, § 2811, Oct. 14, 2008, 122 Stat. 4725; Pub. L. 111–383, div. B, title XXVIII, § 2811(a)–(f), Jan. 7, 2011, 124 Stat. 4461, 4462; Pub. L. 112–81, div. B, title XXVIII, § 2812, Dec. 31, 2011, 125 Stat. 1686; Pub. L. 112–239, div. B, title XXVIII, § 2821, Jan. 2, 2013, 126 Stat. 2152; Pub. L. 115–91, div. A, title X, § 1081(a)(45), div. B, title XXVIII, §§ 2811(a), 2812, Dec. 12, 2017, 131 Stat. 1596, 1848, 1849.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2662(a) 2662(b) 2662(c) | 40:551. 40:552. 40:553. | Sept. 28, 1951, ch. 434, §§ 601–604, 65 Stat. 365, 366. |
+| 2662(a) 2662(b) 2662(c) | 40:551. 40:552. 40:553. | Sept. 28, 1951, ch. 434, §§ 601–604, 65 Stat. 365, 366. |
 | 2662(d) | 40:554. |  |
 
-In subsection (a), the words “must come to an agreement \* \* \* before entering into any of the following transactions by or for the use of that department:” are substituted for the words “shall come into agreement \* \* \* with respect to those real-estate actions by or for the use of the military departments \* \* \* that are described in subsection (a)–(e) of this section, and in the manner therein described”. The last sentence is substituted for the last sentence of 40:551(a) and 40:551(b).
+In subsection (a), the words “must come to an agreement \* \* \* before entering into any of the following transactions by or for the use of that department:” are substituted for the words “shall come into agreement \* \* \* with respect to those real-estate actions by or for the use of the military departments \* \* \* that are described in subsection (a)–(e) of this section, and in the manner therein described”. The last sentence is substituted for the last sentence of 40:551(a) and 40:551(b).
 
 In subsection (a)(4), the words “or another military department” are substituted for the words “including transfers between the military departments”. The words “under the jurisdiction of the military departments” are omitted as surplusage.
 
-In subsection (b), the words “more than $5,000 but not more than $25,000” are substituted for the words “between $5,000 and $25,000”. The words “shall report” are substituted for the words “will, in addition, furnish \* \* \* reports”.
+In subsection (b), the words “more than $5,000 but not more than $25,000” are substituted for the words “between $5,000 and $25,000”. The words “shall report” are substituted for the words “will, in addition, furnish \* \* \* reports”.
 
 In subsection (c), the words “the United States, Alaska, Hawaii” are substituted for the words “the continental United States, the Territory of Alaska, the Territory of Hawaii”, since, as defined in section 101(1) of this title, “United States” includes the States and the District of Columbia; and “Territories” includes Alaska and Hawaii.
 
-In subsection (d), the words “A statement \* \* \* that the requirements of this section have been met” are substituted for the words “A recital of compliance with this chapter \* \* \* to the effect that the requirements of this chapter have been complied with”. The words “in the alternative”, “or lease”, and “evidence thereof” are omitted as surplusage.
+In subsection (d), the words “A statement \* \* \* that the requirements of this section have been met” are substituted for the words “A recital of compliance with this chapter \* \* \* to the effect that the requirements of this chapter have been complied with”. The words “in the alternative”, “or lease”, and “evidence thereof” are omitted as surplusage.
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Emergencies Act, referred to in subsec. (f)(1)(B), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+The National Emergencies Act, referred to in subsec. (f)(1)(B), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (f)(1)(C), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (f)(1)(C), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 **Amendments**
 
-2017—Subsec. (a)(2). Pub. L. 115–91, § 2812(1), inserted “, as well as the certification described in paragraph (5)” after “leases to be made”.
+2017—Subsec. (a)(2). Pub. L. 115–91, § 2812(1), inserted “, as well as the certification described in paragraph (5)” after “leases to be made”.
 
-Subsec. (a)(3). Pub. L. 115–91, § 2811(a), amended par. (3) generally. Prior to amendment, par. (3) required wait periods following submittal of reports before transactions could be authorized.
+Subsec. (a)(3). Pub. L. 115–91, § 2811(a), amended par. (3) generally. Prior to amendment, par. (3) required wait periods following submittal of reports before transactions could be authorized.
 
-Subsec. (a)(5). Pub. L. 115–91, § 2812(2), added par. (5).
+Subsec. (a)(5). Pub. L. 115–91, § 2812(2), added par. (5).
 
-Subsec. (f)(1)(D). Pub. L. 115–91, § 1081(a)(45), substituted “section 254” for “section 334”.
+Subsec. (f)(1)(D). Pub. L. 115–91, § 1081(a)(45), substituted “section 254” for “section 334”.
 
 2013—Subsec. (a)(1)(H). Pub. L. 112–239 added subpar. (H).
 
-2011—Subsec. (a)(1). Pub. L. 111–383, § 2811(f)(1)(A), substituted “the Secretary concerned submits” for “the Secretary submits” in introductory provisions.
+2011—Subsec. (a)(1). Pub. L. 111–383, § 2811(f)(1)(A), substituted “the Secretary concerned submits” for “the Secretary submits” in introductory provisions.
 
-Subsec. (a)(1)(C). Pub. L. 112–81, § 2812(1), substituted “lease, license, or easement” for “lease or license”.
+Subsec. (a)(1)(C). Pub. L. 112–81, § 2812(1), substituted “lease, license, or easement” for “lease or license”.
 
-Pub. L. 111–383, § 2811(a), inserted “(other than a lease or license entered into under section 2667(g) of this title)” after “United States”.
+Pub. L. 111–383, § 2811(a), inserted “(other than a lease or license entered into under section 2667(g) of this title)” after “United States”.
 
-Subsec. (a)(3). Pub. L. 111–383, § 2811(f)(1)(B), substituted “the Secretary concerned” for “the Secretary of a military department or the Secretary of Defense” in introductory provisions.
+Subsec. (a)(3). Pub. L. 111–383, § 2811(f)(1)(B), substituted “the Secretary concerned” for “the Secretary of a military department or the Secretary of Defense” in introductory provisions.
 
-Subsec. (b). Pub. L. 111–383, § 2811(b), (e), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Secretary of each military department and, with respect to Defense Agencies, the Secretary of Defense shall submit annually to the congressional committees named in subsection (a) a report on transactions described in subsection (a) that involve an estimated value of more than $250,000, but not more than $750,000.”
+Subsec. (b). Pub. L. 111–383, § 2811(b), (e), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Secretary of each military department and, with respect to Defense Agencies, the Secretary of Defense shall submit annually to the congressional committees named in subsection (a) a report on transactions described in subsection (a) that involve an estimated value of more than $250,000, but not more than $750,000.”
 
-Subsec. (b)(1), (2)(A), (3)(C), (D). Pub. L. 112–81, § 2812(2), substituted “lease, license, or easement” for “lease or license”.
+Subsec. (b)(1), (2)(A), (3)(C), (D). Pub. L. 112–81, § 2812(2), substituted “lease, license, or easement” for “lease or license”.
 
-Subsec. (c). Pub. L. 111–383, § 2811(c), substituted “Excepted Projects” for “Geographic Scope; Excepted Projects” in heading and “This section does not” for “This section applies only to real property in the United States, Puerto Rico, Guam, the American Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands. It does not” in text.
+Subsec. (c). Pub. L. 111–383, § 2811(c), substituted “Excepted Projects” for “Geographic Scope; Excepted Projects” in heading and “This section does not” for “This section applies only to real property in the United States, Puerto Rico, Guam, the American Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands. It does not” in text.
 
-Subsecs. (e), (f). Pub. L. 111–383, § 2811(d), (f)(2), redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e). Prior to amendment, text read as follows: “No element of the Department of Defense shall occupy any general purpose space leased for it by the General Services Administration at an annual rental in excess of $750,000 (excluding the cost of utilities and other operation and maintenance services), if the effect of such occupancy is to increase the total amount of such leased space occupied by all elements of the Department of Defense, until the end of the 30-day period beginning on the date on which a report of the facts concerning the proposed occupancy is submitted to the congressional committees named in subsection (a) or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title.”
+Subsecs. (e), (f). Pub. L. 111–383, § 2811(d), (f)(2), redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e). Prior to amendment, text read as follows: “No element of the Department of Defense shall occupy any general purpose space leased for it by the General Services Administration at an annual rental in excess of $750,000 (excluding the cost of utilities and other operation and maintenance services), if the effect of such occupancy is to increase the total amount of such leased space occupied by all elements of the Department of Defense, until the end of the 30-day period beginning on the date on which a report of the facts concerning the proposed occupancy is submitted to the congressional committees named in subsection (a) or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title.”
 
-Subsec. (f)(1). Pub. L. 111–383, § 2811(f)(3)(A), struck out “, and the reporting requirement set forth in subsection (e) shall not apply with respect to a real property transaction otherwise covered by that subsection,” before “if the Secretary” in introductory provisions.
+Subsec. (f)(1). Pub. L. 111–383, § 2811(f)(3)(A), struck out “, and the reporting requirement set forth in subsection (e) shall not apply with respect to a real property transaction otherwise covered by that subsection,” before “if the Secretary” in introductory provisions.
 
-Subsec. (f)(3). Pub. L. 111–383, § 2811(f)(3)(B), struck out “or (e), as the case may be” after “under subsection (a)”.
+Subsec. (f)(3). Pub. L. 111–383, § 2811(f)(3)(B), struck out “or (e), as the case may be” after “under subsection (a)”.
 
-Subsec. (f)(4). Pub. L. 111–383, § 2811(f)(3)(C), struck out par. (4), which read as follows: “In this subsection, the term ‘Secretary concerned’ includes, with respect to Defense Agencies, the Secretary of Defense.”
+Subsec. (f)(4). Pub. L. 111–383, § 2811(f)(3)(C), struck out par. (4), which read as follows: “In this subsection, the term ‘Secretary concerned’ includes, with respect to Defense Agencies, the Secretary of Defense.”
 
-Subsec. (g). Pub. L. 111–383, § 2811(f)(4), added subsec. (g). Former subsec. (g) redesignated (f).
+Subsec. (g). Pub. L. 111–383, § 2811(f)(4), added subsec. (g). Former subsec. (g) redesignated (f).
 
-2008—Subsec. (a)(1). Pub. L. 110–181, § 2821(a)(1)(A), substituted “or, with respect to a Defense Agency, the Secretary of Defense” for “, or his designee,” in introductory provisions.
+2008—Subsec. (a)(1). Pub. L. 110–181, § 2821(a)(1)(A), substituted “or, with respect to a Defense Agency, the Secretary of Defense” for “, or his designee,” in introductory provisions.
 
-Subsec. (a)(1)(G). Pub. L. 110–181, § 2821(b), added subpar. (G).
+Subsec. (a)(1)(G). Pub. L. 110–181, § 2821(b), added subpar. (G).
 
-Subsec. (a)(3). Pub. L. 110–181, § 2821(a)(1)(B), inserted “or the Secretary of Defense” after “military department” in introductory provisions.
+Subsec. (a)(3). Pub. L. 110–181, § 2821(a)(1)(B), inserted “or the Secretary of Defense” after “military department” in introductory provisions.
 
-Subsec. (b). Pub. L. 110–181, § 2821(a)(2), inserted “and, with respect to Defense Agencies, the Secretary of Defense” after “military department”.
+Subsec. (b). Pub. L. 110–181, § 2821(a)(2), inserted “and, with respect to Defense Agencies, the Secretary of Defense” after “military department”.
 
 Subsec. (c). Pub. L. 110–417 substituted “water resource development projects of the Corps of Engineers” for “river and harbor projects or flood control projects”.
 
-Subsec. (g)(4). Pub. L. 110–181, § 2821(a)(3), added par. (4).
+Subsec. (g)(4). Pub. L. 110–181, § 2821(a)(3), added par. (4).
 
 2004—Subsec. (a)(2). Pub. L. 108–375 substituted “shall include a summary” for “must include a summarization” and inserted “of paragraph (1)” after “in subparagraph (E)”.
 
-2003—Subsec. (a). Pub. L. 108–136, § 1031(a)(27)(A)(i)–(v), inserted “(1)” after subsec. heading, substituted “the Secretary submits a report, subject to paragraph (3),” for “after the expiration of 30 days from the date upon which a report of the facts concerning the proposed transaction is submitted”, redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), substituted “$750,000” for “$500,000” in subpars. (A) to (E), designated concluding provisions as par. (2), and substituted “subparagraph (A) or (B) of paragraph (1)” for “clause (1) or (2)” and “subparagraph (E)” for “clause (5)”.
+2003—Subsec. (a). Pub. L. 108–136, § 1031(a)(27)(A)(i)–(v), inserted “(1)” after subsec. heading, substituted “the Secretary submits a report, subject to paragraph (3),” for “after the expiration of 30 days from the date upon which a report of the facts concerning the proposed transaction is submitted”, redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), substituted “$750,000” for “$500,000” in subpars. (A) to (E), designated concluding provisions as par. (2), and substituted “subparagraph (A) or (B) of paragraph (1)” for “clause (1) or (2)” and “subparagraph (E)” for “clause (5)”.
 
-Subsec. (a)(3), (4). Pub. L. 108–136, § 1031(a)(27)(A)(vi), added pars. (3) and (4).
+Subsec. (a)(3), (4). Pub. L. 108–136, § 1031(a)(27)(A)(vi), added pars. (3) and (4).
 
-Subsec. (b). Pub. L. 108–136, § 1031(a)(27)(B), substituted “more than $250,000, but not more than $750,000” for “more than the simplified acquisition threshold specified in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)), but not more than $500,000”.
+Subsec. (b). Pub. L. 108–136, § 1031(a)(27)(B), substituted “more than $250,000, but not more than $750,000” for “more than the simplified acquisition threshold specified in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)), but not more than $500,000”.
 
-Subsec. (e). Pub. L. 108–136, § 1031(a)(27)(C), substituted “$750,000” for “$500,000” and “the end of the 30-day period beginning on the date on which a report of the facts concerning the proposed occupancy is submitted to the congressional committees named in subsection (a) or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title” for “the expiration of thirty days from the date upon which a report of the facts concerning the proposed occupancy is submitted to the congressional committees named in subsection (a)”.
+Subsec. (e). Pub. L. 108–136, § 1031(a)(27)(C), substituted “$750,000” for “$500,000” and “the end of the 30-day period beginning on the date on which a report of the facts concerning the proposed occupancy is submitted to the congressional committees named in subsection (a) or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title” for “the expiration of thirty days from the date upon which a report of the facts concerning the proposed occupancy is submitted to the congressional committees named in subsection (a)”.
 
-2000—Subsec. (a). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2811(a)], substituted “$500,000” for “$200,000” wherever appearing.
+2000—Subsec. (a). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2811(a)], substituted “$500,000” for “$200,000” wherever appearing.
 
 Subsec. (b). Pub. L. 106–398 substituted “specified in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)),” for “under section 2304(g) of this title” and “$500,000” for “$200,000”.
 
-Subsec. (e). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2811(a)], substituted “$500,000” for “$200,000”.
+Subsec. (e). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2811(a)], substituted “$500,000” for “$200,000”.
 
 1999—Subsec. (a). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
 
-1998—Subsecs. (a) to (f). Pub. L. 105–261, § 2811(b), inserted subsec. headings.
+1998—Subsecs. (a) to (f). Pub. L. 105–261, § 2811(b), inserted subsec. headings.
 
-Subsec. (g). Pub. L. 105–261, § 2811(a), added subsec. (g).
+Subsec. (g). Pub. L. 105–261, § 2811(a), added subsec. (g).
 
-1996—Subsec. (a). Pub. L. 104–106, § 1502(a)(23)(A), substituted “the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “the Committees on Armed Services of the Senate and House of Representatives” in introductory provisions and struck out “to be submitted to the Committees on Armed Services of the Senate and House of Representatives” after “The report required by this subsection” in concluding provisions.
+1996—Subsec. (a). Pub. L. 104–106, § 1502(a)(23)(A), substituted “the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “the Committees on Armed Services of the Senate and House of Representatives” in introductory provisions and struck out “to be submitted to the Committees on Armed Services of the Senate and House of Representatives” after “The report required by this subsection” in concluding provisions.
 
-Subsec. (b). Pub. L. 104–106, § 4321(b)(21), substituted “simplified acquisition threshold” for “small purchase threshold”.
+Subsec. (b). Pub. L. 104–106, § 4321(b)(21), substituted “simplified acquisition threshold” for “small purchase threshold”.
 
-Pub. L. 104–106, § 1502(a)(23)(B), substituted “shall submit annually to the congressional committees named in subsection (a) a report” for “shall report annually to the Committees on Armed Services of the Senate and the House of Representatives”.
+Pub. L. 104–106, § 1502(a)(23)(B), substituted “shall submit annually to the congressional committees named in subsection (a) a report” for “shall report annually to the Committees on Armed Services of the Senate and the House of Representatives”.
 
-Subsec. (e). Pub. L. 104–106, § 1502(a)(23)(C), substituted “the congressional committees named in subsection (a)” for “the Committees on Armed Services of the Senate and the House of Representatives”.
+Subsec. (e). Pub. L. 104–106, § 1502(a)(23)(C), substituted “the congressional committees named in subsection (a)” for “the Committees on Armed Services of the Senate and the House of Representatives”.
 
-Subsec. (f). Pub. L. 104–106, § 1502(a)(23)(D), substituted “the congressional committees named in subsection (a) shall” for “the Committees on Armed Services of the Senate and the House of Representatives shall”.
+Subsec. (f). Pub. L. 104–106, § 1502(a)(23)(D), substituted “the congressional committees named in subsection (a) shall” for “the Committees on Armed Services of the Senate and the House of Representatives shall”.
 
-1992—Pub. L. 102–496, § 403(a)(2)(A), substituted “reports to congressional committees” for “Reports to the Armed Services Committees” in section catchline.
+1992—Pub. L. 102–496, § 403(a)(2)(A), substituted “reports to congressional committees” for “Reports to the Armed Services Committees” in section catchline.
 
-Subsec. (f). Pub. L. 102–496, § 403(a)(1), added subsec. (f).
+Subsec. (f). Pub. L. 102–496, § 403(a)(1), added subsec. (f).
 
 1990—Subsec. (b). Pub. L. 101–510 substituted “the small purchase threshold under section 2304(g) of this title” for “$5,000”.
 
@@ -1348,9 +1348,9 @@ Subsec. (f). Pub. L. 102–496, § 403(a)(1), added subsec. (f).
 
 1976—Subsec. (a). Pub. L. 94–431 provided that the report on the excess property owned by the United States contain a certification by the Secretary concerned that he has considered the feasibility of exchanging such excess property for property suitable for military purposes and has determined such excess property not suitable for exchange.
 
-1975—Subsec. (b). Pub. L. 94–107, § 607(5), substituted requirement of annual reports for requirement of quarterly reports.
+1975—Subsec. (b). Pub. L. 94–107, § 607(5), substituted requirement of annual reports for requirement of quarterly reports.
 
-Subsec. (c). Pub. L. 94–107, § 607(6), inserted provisions extending the applicability of the section to Guam, the American Samoa, and the Trust Territory of the Pacific Islands, and, in provisions relating to the inapplicability of the section, inserted reference to any real property acquisition specifically authorized in a Military Construction Authorization Act.
+Subsec. (c). Pub. L. 94–107, § 607(6), inserted provisions extending the applicability of the section to Guam, the American Samoa, and the Trust Territory of the Pacific Islands, and, in provisions relating to the inapplicability of the section, inserted reference to any real property acquisition specifically authorized in a Military Construction Authorization Act.
 
 1974—Subsec. (a)(6). Pub. L. 93–552 added par. (6).
 
@@ -1380,15 +1380,15 @@ Amendment by Pub. L. 100–456 effective Oct. 1, 1988, see section 2702 of Pub. 
 
 **Reduction or Realignment of Training Bases**
 
-Pub. L. 95–485, title VI, § 602, Oct. 20, 1978, 92 Stat. 1617, prohibited any action to implement any substantial reduction or force structure realignment of the composite of installations, posts, camps, stations, and bases that had as a primary or secondary mission the conduct of formal entry level, advanced individual, or specialty training as a part of the fiscal year 1979 Defense manpower program unless certain criteria were complied with.
+Pub. L. 95–485, title VI, § 602, Oct. 20, 1978, 92 Stat. 1617, prohibited any action to implement any substantial reduction or force structure realignment of the composite of installations, posts, camps, stations, and bases that had as a primary or secondary mission the conduct of formal entry level, advanced individual, or specialty training as a part of the fiscal year 1979 Defense manpower program unless certain criteria were complied with.
 
 **Closing of Facilities; Closures or Realignments Publicly Announced After September 30, 1977**
 
-Pub. L. 95–82, title VI, § 612(c), Aug. 1, 1977, 91 Stat. 380, provided that: “Section 611 of the Military Construction Authorization Act, 1966 (Public Law 89–188; 10 U.S.C. 2662 note), and section 612 of the Military Construction Authorization Act, 1977 (Public Law 94–431; 90 Stat. 1366) [which was not classified to the Code], shall be inapplicable in the case of any closure of a military installation, and any realignment with respect to a military installation, which is first publicly announced after September 30, 1977.”
+Pub. L. 95–82, title VI, § 612(c), Aug. 1, 1977, 91 Stat. 380, provided that: “Section 611 of the Military Construction Authorization Act, 1966 (Public Law 89–188; 10 U.S.C. 2662 note), and section 612 of the Military Construction Authorization Act, 1977 (Public Law 94–431; 90 Stat. 1366) [which was not classified to the Code], shall be inapplicable in the case of any closure of a military installation, and any realignment with respect to a military installation, which is first publicly announced after September 30, 1977.”
 
 **Closing of Facilities; Reports to Congress**
 
-Pub. L. 89–188, title VI, § 611, Sept. 16, 1965, 79 Stat. 818, as amended by Pub. L. 89–568, title VI, § 613, Sept. 12, 1966, 80 Stat. 757, required a report to Congress and a waiting period in connection with the closing of Defense Department facilities, prior to repeal by Pub. L. 97–214, § 7(7), July 12, 1982, 96 Stat. 173, eff. Oct. 1, 1982.
+Pub. L. 89–188, title VI, § 611, Sept. 16, 1965, 79 Stat. 818, as amended by Pub. L. 89–568, title VI, § 613, Sept. 12, 1966, 80 Stat. 757, required a report to Congress and a waiting period in connection with the closing of Defense Department facilities, prior to repeal by Pub. L. 97–214, § 7(7), July 12, 1982, 96 Stat. 173, eff. Oct. 1, 1982.
 
 **Executive Documents**
 
@@ -1396,7 +1396,7 @@ Pub. L. 89–188, title VI, § 611, Sept. 16, 1965, 79 Stat. 818, as amended b
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 2663. Land acquisition authorities
+## § 2663. Land acquisition authorities
 
 **(a) Acquisition of Land by Condemnation for Certain Military Purposes.—**
 
@@ -1474,7 +1474,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 **(2)** As consideration for an option acquired under paragraph (1), the Secretary may pay, from funds available to the military department under the jurisdiction of the Secretary for real property activities, an amount that is not more than 12 percent of the appraised fair market value of the property.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Pub. L. 85–861, § 33(a)(14), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 109–163, div. B, title XXVIII, § 2821(a), Jan. 6, 2006, 119 Stat. 3511; Pub. L. 109–364, div. B, title XXVIII, § 2821(b), Oct. 17, 2006, 120 Stat. 2474; Pub. L. 110–181, div. B, title XXVIII, § 2822(a), Jan. 28, 2008, 122 Stat. 544; Pub. L. 111–383, div. A, title X, § 1075(g)(6), Jan. 7, 2011, 124 Stat. 4377; Pub. L. 115–91, div. B, title XXVIII, § 2811(b), (c), Dec. 12, 2017, 131 Stat. 1848; Pub. L. 118–159, div. B, title XXVIII, § 2804(b), Dec. 23, 2024, 138 Stat. 2248.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 147; Pub. L. 85–861, § 33(a)(14), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 109–163, div. B, title XXVIII, § 2821(a), Jan. 6, 2006, 119 Stat. 3511; Pub. L. 109–364, div. B, title XXVIII, § 2821(b), Oct. 17, 2006, 120 Stat. 2474; Pub. L. 110–181, div. B, title XXVIII, § 2822(a), Jan. 28, 2008, 122 Stat. 544; Pub. L. 111–383, div. A, title X, § 1075(g)(6), Jan. 7, 2011, 124 Stat. 4377; Pub. L. 115–91, div. B, title XXVIII, § 2811(b), (c), Dec. 12, 2017, 131 Stat. 1848; Pub. L. 118–159, div. B, title XXVIII, § 2804(b), Dec. 23, 2024, 138 Stat. 2248.)
 
 **Historical and Revision Notes**
 
@@ -1483,17 +1483,17 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 2663(a) 2663(b) 2663(c) | 50:171 (less provisos). 50:171 (last proviso). 50:171 (1st proviso). | July 2, 1917, ch. 35; restated Apr. 11, 1918, ch. 51, 40 Stat. 518. |
-| 2663(d) | 50:171 (2d proviso). [50:171 is made applicable to the Navy by 50:171–1 (less 16th through 21st words)]. | Oct. 25, 1951, ch. 563, § 101 (less 22d through 43d words), 65 Stat. 641. |
+| 2663(d) | 50:171 (2d proviso). [50:171 is made applicable to the Navy by 50:171–1 (less 16th through 21st words)]. | Oct. 25, 1951, ch. 563, § 101 (less 22d through 43d words), 65 Stat. 641. |
 
-In subsection (a), the words “brought \* \* \* in a court of proper jurisdiction” are substituted for the words “instituted \* \* \* in any court having jurisdiction of such proceedings”. The words “any interest in land, including temporary use” are substituted for the words “any land, temporary use thereof or other interest therein, or right pertaining thereto”. The words “relating to suits for the condemnation of property” are omitted as surplusage. The last sentence is substituted for 50:171 (words between semicolon and first proviso). The Act of July 2, 1917, ch. 35, as restated by the Act of April 11, 1918, ch. 51 (last 77 words), are not contained in 50:171. They are also omitted from the revised section as executed.
+In subsection (a), the words “brought \* \* \* in a court of proper jurisdiction” are substituted for the words “instituted \* \* \* in any court having jurisdiction of such proceedings”. The words “any interest in land, including temporary use” are substituted for the words “any land, temporary use thereof or other interest therein, or right pertaining thereto”. The words “relating to suits for the condemnation of property” are omitted as surplusage. The last sentence is substituted for 50:171 (words between semicolon and first proviso). The Act of July 2, 1917, ch. 35, as restated by the Act of April 11, 1918, ch. 51 (last 77 words), are not contained in 50:171. They are also omitted from the revised section as executed.
 
 In subsection (a)(1), the word “location” is omitted as surplusage. The words “operation of” are substituted for the words “prosecution of works for”.
 
-In subsection (b), the words “That when such property is acquired” are omitted as surplusage. The words “under subsection (a)” are substituted for the words “of any land, temporary use thereof or other use therein or right pertaining thereto to be acquired for any of the purposes aforesaid”. The words “take and use” are substituted for the words “possession thereof may be taken \* \* \* and used for military purposes”.
+In subsection (b), the words “That when such property is acquired” are omitted as surplusage. The words “under subsection (a)” are substituted for the words “of any land, temporary use thereof or other use therein or right pertaining thereto to be acquired for any of the purposes aforesaid”. The words “take and use” are substituted for the words “possession thereof may be taken \* \* \* and used for military purposes”.
 
 In subsection (c), the words “as soon as the owner fixes a price for it” are substituted for the words “That when the owner of such land, interest, or rights pertaining thereto shall fix a price for the same”. The word “considers” is substituted for the words “which in the opinion”. The words “contract for or buy” are substituted for the words “purchase or enter into a contract”. The words “without further delay” are omitted as surplusage.
 
-In subsection (d), the words “a gift of any interest in land \* \* \* for any purpose named in subsection (a)” are substituted for 50:171 (last 15 words of 2d proviso).
+In subsection (d), the words “a gift of any interest in land \* \* \* for any purpose named in subsection (a)” are substituted for 50:171 (last 15 words of 2d proviso).
 
 **1958 Act**
 
@@ -1503,45 +1503,45 @@ The deletion of the last sentence of section 2663(a) and the last sentence of se
 
 **Codification**
 
-The text of section 2672, part of which was transferred to this section, redesignated subsec. (c), and amended by Pub. L. 109–163, div. B, title XXVIII, § 2821(a)(2)–(5), was based on Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat. 1459; amended Pub. L. 87–651, title I, § 112(a), Sept. 7, 1962, 76 Stat. 511; Pub. L. 92–145, title VII, § 707(2), (3), Oct. 27, 1971, 85 Stat. 411; Pub. L. 96–418, title VIII, § 806(a), Oct. 10, 1980, 94 Stat. 1777; Pub. L. 99–167, title VIII, § 810(a), (b)(1), Dec. 3, 1985, 99 Stat. 989, 990; Pub. L. 99–661, div. A, title XIII, § 1343(a)(16), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 100–456, div. B, title XXVIII, § 2804, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 105–85, div. B, title XXVIII, § 2811(a), (b)(1), Nov. 18, 1997, 111 Stat. 1991; Pub. L. 108–136, div. B, title XXVIII, § 2811(a)–(b)(2), Nov. 24, 2003, 117 Stat. 1724, 1725; Pub. L. 108–375, div. B, title XXVIII, § 2821(d)(1), Oct. 28, 2004, 118 Stat. 2130.
+The text of section 2672, part of which was transferred to this section, redesignated subsec. (c), and amended by Pub. L. 109–163, div. B, title XXVIII, § 2821(a)(2)–(5), was based on Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat. 1459; amended Pub. L. 87–651, title I, § 112(a), Sept. 7, 1962, 76 Stat. 511; Pub. L. 92–145, title VII, § 707(2), (3), Oct. 27, 1971, 85 Stat. 411; Pub. L. 96–418, title VIII, § 806(a), Oct. 10, 1980, 94 Stat. 1777; Pub. L. 99–167, title VIII, § 810(a), (b)(1), Dec. 3, 1985, 99 Stat. 989, 990; Pub. L. 99–661, div. A, title XIII, § 1343(a)(16), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 100–456, div. B, title XXVIII, § 2804, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 105–85, div. B, title XXVIII, § 2811(a), (b)(1), Nov. 18, 1997, 111 Stat. 1991; Pub. L. 108–136, div. B, title XXVIII, § 2811(a)–(b)(2), Nov. 24, 2003, 117 Stat. 1724, 1725; Pub. L. 108–375, div. B, title XXVIII, § 2821(d)(1), Oct. 28, 2004, 118 Stat. 2130.
 
-The text of section 2672a of this title, which was transferred to this section, redesignated subsec. (d), and amended by Pub. L. 109–163, div. B, title XXVIII, § 2821(a)(6)–(9), was based on Pub. L. 94–107, title VI, § 607(8), Oct. 7, 1975, 89 Stat. 566; amended Pub. L. 98–525, title XIV, § 1405(39), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 104–106, div. A, title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, § 1031(a)(29), Nov. 24, 2003, 117 Stat. 1599; Pub. L. 108–375, div. A, title X, § 1084(d)(23), Oct. 28, 2004, 118 Stat. 2062.
+The text of section 2672a of this title, which was transferred to this section, redesignated subsec. (d), and amended by Pub. L. 109–163, div. B, title XXVIII, § 2821(a)(6)–(9), was based on Pub. L. 94–107, title VI, § 607(8), Oct. 7, 1975, 89 Stat. 566; amended Pub. L. 98–525, title XIV, § 1405(39), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 104–106, div. A, title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, § 1031(a)(29), Nov. 24, 2003, 117 Stat. 1599; Pub. L. 108–375, div. A, title X, § 1084(d)(23), Oct. 28, 2004, 118 Stat. 2062.
 
-The text of section 2676(b) of this title, which was transferred to this section, redesignated subsec. (e), and amended by Pub. L. 109–163, div. B, title XXVIII, § 2821(a)(10), (11), was based on Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat. 1460; amended Pub. L. 97–214, § 5, July 12, 1982, 96 Stat. 170.
+The text of section 2676(b) of this title, which was transferred to this section, redesignated subsec. (e), and amended by Pub. L. 109–163, div. B, title XXVIII, § 2821(a)(10), (11), was based on Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat. 1460; amended Pub. L. 97–214, § 5, July 12, 1982, 96 Stat. 170.
 
 **Amendments**
 
 2024—Subsec. (c)(1)(B). Pub. L. 118–159 directed substitution of “$4,000,000” for the dollar amount in subsec. (c)(1), which was executed by making the substitution for “$750,000” in subsec. (c)(1)(B).
 
-2017—Subsec. (d)(2). Pub. L. 115–91, § 2811(b), inserted “, in an electronic medium pursuant to section 480 of this title,” after “submit” and substituted “a notice” for “written notice”.
+2017—Subsec. (d)(2). Pub. L. 115–91, § 2811(b), inserted “, in an electronic medium pursuant to section 480 of this title,” after “submit” and substituted “a notice” for “written notice”.
 
-Subsec. (f)(2). Pub. L. 115–91, § 2811(c), struck out “or, if over sooner, the end of the 14-day period beginning on the date on which a copy of the report is provided” after “received by the committees”.
+Subsec. (f)(2). Pub. L. 115–91, § 2811(c), struck out “or, if over sooner, the end of the 14-day period beginning on the date on which a copy of the report is provided” after “received by the committees”.
 
-2011—Subsec. (a)(1). Pub. L. 111–383 made technical amendment to directory language of Pub. L. 109–364, § 2821(b)(1). See 2006 Amendment note below.
+2011—Subsec. (a)(1). Pub. L. 111–383 made technical amendment to directory language of Pub. L. 109–364, § 2821(b)(1). See 2006 Amendment note below.
 
 2008—Subsec. (h). Pub. L. 110–181 added subsec. (h).
 
-2006—Pub. L. 109–163, § 2821(a)(1)(A), substituted “Land acquisition authorities” for “Acquisition” in section catchline.
+2006—Pub. L. 109–163, § 2821(a)(1)(A), substituted “Land acquisition authorities” for “Acquisition” in section catchline.
 
-Subsec. (a). Pub. L. 109–163, § 2821(a)(1)(B), (C), inserted “Acquisition of Land by Condemnation for Certain Military Purposes.—(1)” before “The Secretary” in introductory provisions, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), in subpar. (C), substituted “subparagraph (B)” for “clause (2)”, redesignated subsec. (b) as par. (2) and substituted “paragraph (1)” for “subsection (a)”.
+Subsec. (a). Pub. L. 109–163, § 2821(a)(1)(B), (C), inserted “Acquisition of Land by Condemnation for Certain Military Purposes.—(1)” before “The Secretary” in introductory provisions, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), in subpar. (C), substituted “subparagraph (B)” for “clause (2)”, redesignated subsec. (b) as par. (2) and substituted “paragraph (1)” for “subsection (a)”.
 
-Subsec. (a)(1). Pub. L. 109–364, § 2821(b)(1), as amended by Pub. L. 111–383, substituted “Subject to subsection (f), the Secretary” for “The Secretary” in introductory provisions.
+Subsec. (a)(1). Pub. L. 109–364, § 2821(b)(1), as amended by Pub. L. 111–383, substituted “Subject to subsection (f), the Secretary” for “The Secretary” in introductory provisions.
 
-Subsec. (b). Pub. L. 109–163, § 2821(a)(1)(D), redesignated subsec. (c) as (b) and inserted heading.
+Subsec. (b). Pub. L. 109–163, § 2821(a)(1)(D), redesignated subsec. (c) as (b) and inserted heading.
 
-Pub. L. 109–163, § 2821(a)(1)(C), redesignated subsec. (b) as subsec. (a)(2).
+Pub. L. 109–163, § 2821(a)(1)(C), redesignated subsec. (b) as subsec. (a)(2).
 
-Subsec. (c). Pub. L. 109–163, § 2821(a)(2)–(5), redesignated pars. (1) and (2) of subsec. (a) and subsecs. (b) and (d) of section 2672 of this title as pars. (1), (2), (3), and (4), respectively, of subsec. (c) of this section, inserted subsec. heading, in par. (3), substituted “This subsection” for “This section”, “paragraph (1)” for “subsection (a)(1)”, and “paragraph (2)” for “subsection (a)(2)”, in par. (4), substituted “this subsection” for “this section”, and struck out headings for former subsecs. (a), (b), and (d) of section 2672.
+Subsec. (c). Pub. L. 109–163, § 2821(a)(2)–(5), redesignated pars. (1) and (2) of subsec. (a) and subsecs. (b) and (d) of section 2672 of this title as pars. (1), (2), (3), and (4), respectively, of subsec. (c) of this section, inserted subsec. heading, in par. (3), substituted “This subsection” for “This section”, “paragraph (1)” for “subsection (a)(1)”, and “paragraph (2)” for “subsection (a)(2)”, in par. (4), substituted “this subsection” for “this section”, and struck out headings for former subsecs. (a), (b), and (d) of section 2672.
 
-Pub. L. 109–163, § 2821(a)(1)(D), redesignated subsec. (c) as (b).
+Pub. L. 109–163, § 2821(a)(1)(D), redesignated subsec. (c) as (b).
 
-Subsec. (d). Pub. L. 109–163, § 2821(a)(6)–(9), redesignated subsecs. (a), (c), and (b) of section 2672a of this title as pars. (1), (2), and (3), respectively, of subsec. (d) of this section, inserted subsec. heading, in par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, in par. (2), substituted “this subsection” for “this section”, and in par. (3), substituted “this subsection” for “this section” in first sentence and struck out second sentence which read as follows: “The authority to acquire an interest in land under this section includes authority to make surveys and acquire interests in land (including temporary use), by gift, purchase, exchange of land owned by the United States, or otherwise.”
+Subsec. (d). Pub. L. 109–163, § 2821(a)(6)–(9), redesignated subsecs. (a), (c), and (b) of section 2672a of this title as pars. (1), (2), and (3), respectively, of subsec. (d) of this section, inserted subsec. heading, in par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, in par. (2), substituted “this subsection” for “this section”, and in par. (3), substituted “this subsection” for “this section” in first sentence and struck out second sentence which read as follows: “The authority to acquire an interest in land under this section includes authority to make surveys and acquire interests in land (including temporary use), by gift, purchase, exchange of land owned by the United States, or otherwise.”
 
-Pub. L. 109–163, § 2821(a)(1)(E), struck out subsec. (d) which read as follows: “The Secretary of the military department concerned may accept for the United States a gift of any interest in land, including temporary use, for any purpose named in subsection (a).”
+Pub. L. 109–163, § 2821(a)(1)(E), struck out subsec. (d) which read as follows: “The Secretary of the military department concerned may accept for the United States a gift of any interest in land, including temporary use, for any purpose named in subsection (a).”
 
-Subsec. (e). Pub. L. 109–163, § 2821(a)(10), (11), redesignated subsec. (b) of section 2676 of this title as subsec. (e) of this section and inserted heading.
+Subsec. (e). Pub. L. 109–163, § 2821(a)(10), (11), redesignated subsec. (b) of section 2676 of this title as subsec. (e) of this section and inserted heading.
 
-Subsecs. (f), (g). Pub. L. 109–364, § 2821(b)(2), added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 109–364, § 2821(b)(2), added subsecs. (f) and (g).
 
 1958—Subsec. (a). Pub. L. 85–861 struck out provisions requiring proceedings under this subsection to be in accordance with the law of the State in which the suit is brought.
 
@@ -1549,7 +1549,7 @@ Subsecs. (f), (g). Pub. L. 109–364, § 2821(b)(2), added subsecs. (f) and (g
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 111–383, div. A, title X, § 1075(g), Jan. 7, 2011, 124 Stat. 4376, provided that amendment by section 1075(g)(6) is effective as of Oct. 17, 2006, and as if included in Pub. L. 109–364 as enacted.
+Pub. L. 111–383, div. A, title X, § 1075(g), Jan. 7, 2011, 124 Stat. 4376, provided that amendment by section 1075(g)(6) is effective as of Oct. 17, 2006, and as if included in Pub. L. 109–364 as enacted.
 
 **Effective Date of 1958 Amendment**
 
@@ -1557,7 +1557,7 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 
 **Sense of Congress**
 
-Pub. L. 109–364, div. B, title XXVIII, § 2821(a), Oct. 17, 2006, 120 Stat. 2473, provided that:
+Pub. L. 109–364, div. B, title XXVIII, § 2821(a), Oct. 17, 2006, 120 Stat. 2473, provided that:
 
 > “It is the sense of Congress that the Secretary of Defense, when acquiring land for military purposes, should—
 
@@ -1565,7 +1565,7 @@ Pub. L. 109–364, div. B, title XXVIII, § 2821(a), Oct. 17, 2006, 120 Stat. 
 
 > **“(2)** employ condemnation, eminent domain, or seizure procedures only as a measure of last resort in cases of compelling national security requirements or at the request of the seller.”
 
-## § 2664. Limitations on real property acquisition
+## § 2664. Limitations on real property acquisition
 
 **(a) Authorization for Acquisition Required.—** No military department may acquire real property not owned by the United States unless the acquisition is expressly authorized by law. The foregoing limitation shall not apply to the acceptance by a military department of real property acquired under the authority of the Administrator of General Services to acquire property by the exchange of Government property pursuant to subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
@@ -1585,13 +1585,13 @@ Pub. L. 109–364, div. B, title XXVIII, § 2821(a), Oct. 17, 2006, 120 Stat. 
 
 **(e) Payment of Judgements and Settlements.—** The Secretary concerned shall promptly pay any deficiency judgment against the United States awarded by a court in an action for condemnation of any interest in land or resulting from a final settlement of an action for condemnation of any interest in land. Payments under this subsection may be made from funds available to the Secretary concerned for military construction projects and without regard to the limitations of subsections (c) and (d).
 
-(Added Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat. 1460, § 2676; amended Pub. L. 93–166, title VI, § 608(2), Nov. 29, 1973, 87 Stat. 682; Pub. L. 97–214, § 5, July 12, 1982, 96 Stat. 170; Pub. L. 98–407, title VIII, § 802, Aug. 28, 1984, 98 Stat. 1519; Pub. L. 99–661, div. A, title XIII, § 1343(a)(17)(A), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 102–190, div. B, title XXVIII, § 2870(1), Dec. 5, 1991, 105 Stat. 1562; Pub. L. 107–217, § 3(b)(14), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title X, § 1062(a)(11), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–136, div. A, title X, § 1031(a)(30), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 108–375, div. A, title X, § 1084(b)(4), Oct. 28, 2004, 118 Stat. 2061; renumbered § 2664 and amended Pub. L. 109–163, div. B, title XXVIII, § 2821(a)(10), (b)–(d), Jan. 6, 2006, 119 Stat. 3512; Pub. L. 111–350, § 5(b)(45), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 115–91, div. B, title XXVIII, § 2811(d), Dec. 12, 2017, 131 Stat. 1848.)
+(Added Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat. 1460, § 2676; amended Pub. L. 93–166, title VI, § 608(2), Nov. 29, 1973, 87 Stat. 682; Pub. L. 97–214, § 5, July 12, 1982, 96 Stat. 170; Pub. L. 98–407, title VIII, § 802, Aug. 28, 1984, 98 Stat. 1519; Pub. L. 99–661, div. A, title XIII, § 1343(a)(17)(A), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 102–190, div. B, title XXVIII, § 2870(1), Dec. 5, 1991, 105 Stat. 1562; Pub. L. 107–217, § 3(b)(14), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title X, § 1062(a)(11), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–136, div. A, title X, § 1031(a)(30), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 108–375, div. A, title X, § 1084(b)(4), Oct. 28, 2004, 118 Stat. 2061; renumbered § 2664 and amended Pub. L. 109–163, div. B, title XXVIII, § 2821(a)(10), (b)–(d), Jan. 6, 2006, 119 Stat. 3512; Pub. L. 111–350, § 5(b)(45), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 115–91, div. B, title XXVIII, § 2811(d), Dec. 12, 2017, 131 Stat. 1848.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2676 | [Uncodified]. | July 27, 1954, ch. 579, § 501(b) (less provisos), 68 Stat. 560. |
+| 2676 | [Uncodified]. | July 27, 1954, ch. 579, § 501(b) (less provisos), 68 Stat. 560. |
 
 The word “property” is substituted for the word “estate”. The words “not owned by the United States” are substituted for the words “not in Federal ownership”. The words “or shall be” are omitted as surplusage.
 
@@ -1599,11 +1599,11 @@ The word “property” is substituted for the word “estate”. The words “n
 
 **Codification**
 
-The text of section 2661(c) of this title, which was transferred to this section and redesignated subsec. (b) by Pub. L. 109–163, § 2821(d), was based on Pub. L. 108–375, div. B, title XXVIII, § 2821(a)(1), Oct. 28, 2004, 118 Stat. 2129.
+The text of section 2661(c) of this title, which was transferred to this section and redesignated subsec. (b) by Pub. L. 109–163, § 2821(d), was based on Pub. L. 108–375, div. B, title XXVIII, § 2821(a)(1), Oct. 28, 2004, 118 Stat. 2129.
 
 **Prior Provisions**
 
-A prior section 2664, acts Aug. 10, 1956, ch. 1041, 70A Stat. 148; Pub. L. 85–861, § 33(a)(15), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 96–513, title V, § 511(90), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–31, § 12(3)(A), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–295, § 1(32), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 100–26, § 7(d)(6), Apr. 21, 1987, 101 Stat. 281, related to acquisition of property for lumber production, prior to repeal by Pub. L. 108–375, div. B, title XXVIII, § 2821(b), Oct. 28, 2004, 118 Stat. 2129.
+A prior section 2664, acts Aug. 10, 1956, ch. 1041, 70A Stat. 148; Pub. L. 85–861, § 33(a)(15), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 96–513, title V, § 511(90), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–31, § 12(3)(A), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–295, § 1(32), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 100–26, § 7(d)(6), Apr. 21, 1987, 101 Stat. 281, related to acquisition of property for lumber production, prior to repeal by Pub. L. 108–375, div. B, title XXVIII, § 2821(b), Oct. 28, 2004, 118 Stat. 2129.
 
 **Amendments**
 
@@ -1611,21 +1611,21 @@ A prior section 2664, acts Aug. 10, 1956, ch. 1041, 70A Stat. 148; Pub. L. 85–
 
 2011—Subsec. (a). Pub. L. 111–350, which directed substitution “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949, as amended (41 U.S.C. 251 et seq.)”, was executed by making the substitution for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” to reflect the probable intent of Congress.
 
-2006—Pub. L. 109–163, § 2821(c), renumbered section 2676 of this title as this section and substituted “Limitations on real property acquisition” for “Acquisition: limitation” in section catchline.
+2006—Pub. L. 109–163, § 2821(c), renumbered section 2676 of this title as this section and substituted “Limitations on real property acquisition” for “Acquisition: limitation” in section catchline.
 
-Subsec. (a). Pub. L. 109–163, § 2821(b)(1), inserted heading and struck out “, as amended” after “Federal Property and Administrative Services Act of 1949” in text.
+Subsec. (a). Pub. L. 109–163, § 2821(b)(1), inserted heading and struck out “, as amended” after “Federal Property and Administrative Services Act of 1949” in text.
 
-Subsec. (b). Pub. L. 109–163, § 2821(d), redesignated subsec. (c) of section 2661 of this title as subsec. (b) of this section.
+Subsec. (b). Pub. L. 109–163, § 2821(d), redesignated subsec. (c) of section 2661 of this title as subsec. (b) of this section.
 
-Pub. L. 109–163, § 2821(a)(10), transferred subsec. (b) to section 2663 of this title.
+Pub. L. 109–163, § 2821(a)(10), transferred subsec. (b) to section 2663 of this title.
 
-Subsec. (c). Pub. L. 109–163, § 2821(b)(2)(A), inserted heading.
+Subsec. (c). Pub. L. 109–163, § 2821(b)(2)(A), inserted heading.
 
-Subsec. (c)(2). Pub. L. 109–163, § 2821(b)(2)(B), substituted “Until subsection (d) is complied with, a land” for “A land” in introductory provisions and “lesser.” for “lesser,” in subpar. (B) and struck out concluding provisions which read “until subsection (d) is complied with.”
+Subsec. (c)(2). Pub. L. 109–163, § 2821(b)(2)(B), substituted “Until subsection (d) is complied with, a land” for “A land” in introductory provisions and “lesser.” for “lesser,” in subpar. (B) and struck out concluding provisions which read “until subsection (d) is complied with.”
 
-Subsec. (d). Pub. L. 109–163, § 2821(b)(3), inserted heading.
+Subsec. (d). Pub. L. 109–163, § 2821(b)(3), inserted heading.
 
-Subsec. (e). Pub. L. 109–163, § 2821(b)(4), inserted heading.
+Subsec. (e). Pub. L. 109–163, § 2821(b)(4), inserted heading.
 
 2004—Subsec. (d). Pub. L. 108–375 substituted “congressional defense committees” for “appropriate committees of Congress”.
 
@@ -1635,15 +1635,15 @@ Subsec. (e). Pub. L. 109–163, § 2821(b)(4), inserted heading.
 
 Pub. L. 107–217 inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
 
-1991—Subsec. (d). Pub. L. 102–190 struck out “(1)” after “be awarded only” and “, or (2) upon the approval of those committees, if before the end of that period each such committee approves the proposed reduced scope or increased cost” before period at end.
+1991—Subsec. (d). Pub. L. 102–190 struck out “(1)” after “be awarded only” and “, or (2) upon the approval of those committees, if before the end of that period each such committee approves the proposed reduced scope or increased cost” before period at end.
 
 1986—Subsec. (c)(2)(B). Pub. L. 99–661 amended generally language of subpar. (B) before “exceeds the amount”. See 1984 Amendment note below.
 
-1984—Subsec. (c)(2). Pub. L. 98–407, § 802(1), inserted “or, in the case of land to be acquired by condemnation, the amount to be deposited with the court as just compensation for the land” in provisions preceding subpar. (A).
+1984—Subsec. (c)(2). Pub. L. 98–407, § 802(1), inserted “or, in the case of land to be acquired by condemnation, the amount to be deposited with the court as just compensation for the land” in provisions preceding subpar. (A).
 
-Subsec. (c)(2)(B). Pub. L. 98–407, § 802(2), inserted “or, in the case of land to be acquired by condemnation, the amount to be deposited with the court as just compensation for the land,”. Insertion of new language following “the agreed price for the land” was executed to text notwithstanding directory language of Pub. L. 98–407 that made a reference to a nonexistent comma following “the agreed price for the land”. See 1986 Amendment note above.
+Subsec. (c)(2)(B). Pub. L. 98–407, § 802(2), inserted “or, in the case of land to be acquired by condemnation, the amount to be deposited with the court as just compensation for the land,”. Insertion of new language following “the agreed price for the land” was executed to text notwithstanding directory language of Pub. L. 98–407 that made a reference to a nonexistent comma following “the agreed price for the land”. See 1986 Amendment note above.
 
-Subsec. (e). Pub. L. 98–407, § 802(3), added subsec. (e).
+Subsec. (e). Pub. L. 98–407, § 802(3), added subsec. (e).
 
 1982—Pub. L. 97–214 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
 
@@ -1653,13 +1653,13 @@ Subsec. (e). Pub. L. 98–407, § 802(3), added subsec. (e).
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–661, div. A, title XIII, § 1343(a)(17)(B), Nov. 14, 1986, 100 Stat. 3993, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect as if included in the enactment of section 802(2) of the Military Construction Authorization Act, 1985 (Public Law 98–407; 98 Stat. 1519) [amending this section].”
+Pub. L. 99–661, div. A, title XIII, § 1343(a)(17)(B), Nov. 14, 1986, 100 Stat. 3993, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect as if included in the enactment of section 802(2) of the Military Construction Authorization Act, 1985 (Public Law 98–407; 98 Stat. 1519) [amending this section].”
 
 **Effective Date of 1982 Amendment**
 
 Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of this title.
 
-## § 2665. Sale of certain interests in land; logs
+## § 2665. Sale of certain interests in land; logs
 
 **(a)** The President, through an executive department, may sell to any person or foreign government any interest in land that is acquired for the production of lumber or timber products, except land under the control of the Department of the Army or the Department of the Air Force.
 
@@ -1695,7 +1695,7 @@ Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military
 
 **(3)** The reserve account may not exceed $4,000,000 on December 31 of any calendar year. Unobligated balances exceeding $4,000,000 on that date shall be deposited into the United States Treasury.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 149; Pub. L. 95–82, title VI, § 610, Aug. 1, 1977, 91 Stat. 378; Pub. L. 96–513, title V, § 511(91), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–31, § 12(3)(B), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–99, title IX, § 910(a), Dec. 23, 1981, 95 Stat. 1386; Pub. L. 97–295, § 1(33), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 98–407, title VIII, § 809(a), Aug. 28, 1984, 98 Stat. 1522; Pub. L. 99–561, § 4, Oct. 27, 1986, 100 Stat. 3151; Pub. L. 107–296, title XVII, § 1704(b)(4), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title X, § 1056(c)(6), Jan. 6, 2006, 119 Stat. 3439.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 149; Pub. L. 95–82, title VI, § 610, Aug. 1, 1977, 91 Stat. 378; Pub. L. 96–513, title V, § 511(91), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–31, § 12(3)(B), Aug. 6, 1981, 95 Stat. 153; Pub. L. 97–99, title IX, § 910(a), Dec. 23, 1981, 95 Stat. 1386; Pub. L. 97–295, § 1(33), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 98–407, title VIII, § 809(a), Aug. 28, 1984, 98 Stat. 1522; Pub. L. 99–561, § 4, Oct. 27, 1986, 100 Stat. 3151; Pub. L. 107–296, title XVII, § 1704(b)(4), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title X, § 1056(c)(6), Jan. 6, 2006, 119 Stat. 3439.)
 
 **Historical and Revision Notes**
 
@@ -1703,7 +1703,7 @@ Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2665(a) | 50:172 (last par., less 36th through 64th, and 73d through 109th, words). | July 9, 1918, ch. 143, subch. XV, § 8 (last par.), 40 Stat. 888. |
+| 2665(a) | 50:172 (last par., less 36th through 64th, and 73d through 109th, words). | July 9, 1918, ch. 143, subch. XV, § 8 (last par.), 40 Stat. 888. |
 | 2665(b) | 50:172 (36th through 64th words of last par.). |  |
 | 2665(c) | 50:172 (73d through 90th words of last par.). |  |
 | 2665(d) | 50:172 (91st through 109th words of last par.). |  |
@@ -1726,25 +1726,25 @@ This corrects an error in an amendment to 10:2665 made by section 12(3)(B) of th
 
 2002—Subsec. (b). Pub. L. 107–296 substituted “Department in which the Coast Guard is operating” for “Department of Transportation”.
 
-1986—Subsec. (d). Pub. L. 99–561, § 4(1), struck out “available for operation and maintenance during a fiscal year” after “Defense”, substituted “costs” for “expenses”, and struck out “during such fiscal year” after “such property”.
+1986—Subsec. (d). Pub. L. 99–561, § 4(1), struck out “available for operation and maintenance during a fiscal year” after “Defense”, substituted “costs” for “expenses”, and struck out “during such fiscal year” after “such property”.
 
-Subsec. (e)(1). Pub. L. 99–561, § 4(2), struck out “for all expenses of production of forest products” after “subsection (d)”.
+Subsec. (e)(1). Pub. L. 99–561, § 4(2), struck out “for all expenses of production of forest products” after “subsection (d)”.
 
-Subsec. (f)(1). Pub. L. 99–561, § 4(3)(A), (B), substituted “costs” for “expenses” in provisions preceding subpar. (A) and amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “for expenses to enable operations of forest lands and the production of forest products to continue from the end of one fiscal year through the beginning of the next fiscal year without disruption.”
+Subsec. (f)(1). Pub. L. 99–561, § 4(3)(A), (B), substituted “costs” for “expenses” in provisions preceding subpar. (A) and amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “for expenses to enable operations of forest lands and the production of forest products to continue from the end of one fiscal year through the beginning of the next fiscal year without disruption.”
 
-Subsec. (f)(2), (3). Pub. L. 99–561, § 4(3)(C), amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
+Subsec. (f)(2), (3). Pub. L. 99–561, § 4(3)(C), amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
 
 “(2) Subject to paragraph (3), there shall be deposited into the reserve account not later than December 31 of each year, for credit to the preceding fiscal year, an amount equal to one-half of the amount (if any) remaining of the total amount received by the United States during that fiscal year as proceeds from the sale of forest products after (A) the reimbursement of appropriations of the Department of Defense under subsection (d) for expenses of production of forest products during that fiscal year, and (B) the payment to States under subsection (e) for that fiscal year.
 
 “(3) The balance in the reserve account may not exceed $4,000,000. If a deposit under paragraph (2) would cause the balance in the account to exceed that amount, the deposit shall be made only to the extent the amount of the deposit would not cause the balance in the account to exceed $4,000,000.”
 
-1984—Subsec. (b). Pub. L. 98–407, § 809(a)(1), substituted “forest products produced on land owned or leased by a military department or the” for “logs wholly or partly manufactured by, or otherwise procured for, the Army, Navy, or Air Force, or”.
+1984—Subsec. (b). Pub. L. 98–407, § 809(a)(1), substituted “forest products produced on land owned or leased by a military department or the” for “logs wholly or partly manufactured by, or otherwise procured for, the Army, Navy, or Air Force, or”.
 
-Subsec. (d). Pub. L. 98–407, § 809(a)(2), substituted “forest products” for “lumber and timber products”.
+Subsec. (d). Pub. L. 98–407, § 809(a)(2), substituted “forest products” for “lumber and timber products”.
 
-Subsec. (e)(1). Pub. L. 98–407, § 809(a)(3), substituted “forest products” for “timber and timber products” in two places and “40 percent” for “25 percent”.
+Subsec. (e)(1). Pub. L. 98–407, § 809(a)(3), substituted “forest products” for “timber and timber products” in two places and “40 percent” for “25 percent”.
 
-Subsec. (f). Pub. L. 98–407, § 809(a)(4), added subsec. (f).
+Subsec. (f). Pub. L. 98–407, § 809(a)(4), added subsec. (f).
 
 1982—Subsecs. (a), (b). Pub. L. 97–295 substituted “executive department, may sell” for “executive department” and all that followed through “may sell” in subsecs. (a) and (b), and substituted “Air Force, or Department of Transportation.” for “Air Force” and all that followed in subsec. (b), clarifying the ambiguity created by the conflicting language of Pub. L. 96–513 and Pub. L. 97–31.
 
@@ -1762,7 +1762,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–407, title VIII, § 809(b), Aug. 28, 1984, 98 Stat. 1523, provided that:
+Pub. L. 98–407, title VIII, § 809(b), Aug. 28, 1984, 98 Stat. 1523, provided that:
 
 > **“(b)**
 
@@ -1772,7 +1772,7 @@ Pub. L. 98–407, title VIII, § 809(b), Aug. 28, 1984, 98 Stat. 1523, provide
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–99, title IX, § 910(b), Dec. 23, 1981, 95 Stat. 1386, provided that: “Subsection (e) of section 2665 of title 10, United States Code, as added by subsection (a), shall apply with respect to timber and timber products sold after September 30, 1981.”
+Pub. L. 97–99, title IX, § 910(b), Dec. 23, 1981, 95 Stat. 1386, provided that: “Subsection (e) of section 2665 of title 10, United States Code, as added by subsection (a), shall apply with respect to timber and timber products sold after September 30, 1981.”
 
 **Effective Date of 1980 Amendment**
 
@@ -1782,11 +1782,11 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## [§ 2666. Repealed. Pub. L. 108–375, div. B, title XXVIII, § 2821(a)(2), Oct. 28, 2004, 118 Stat. 2129]
+## [§ 2666. Repealed. Pub. L. 108–375, div. B, title XXVIII, § 2821(a)(2), Oct. 28, 2004, 118 Stat. 2129]
 
 Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 149, related to limitation on commission on a contract for the purchase of land payable from funds appropriated for the Department of Defense.
 
-## § 2667. Leases: non-excess property of military departments and Defense Agencies
+## § 2667. Leases: non-excess property of military departments and Defense Agencies
 
 **(a) Lease Authority.—** Whenever the Secretary concerned considers it advantageous to the United States, the Secretary concerned may lease to such lessee and upon such terms as the Secretary concerned considers will promote the national defense or to be in the public interest, real or personal property that—
 
@@ -1982,13 +1982,13 @@ Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 149, related to limitation on co
 
 **(k) Leases for Education.—** Notwithstanding subsection (b)(4), the Secretary concerned may accept consideration in an amount that is less than the fair market value of the lease, if the lease is to a local education agency or an elementary or secondary school (as those terms are defined in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 94–107, title VI, § 607(7), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–412, title V, § 501(b), Sept. 14, 1976, 90 Stat. 1258; Pub. L. 96–513, title V, § 511(92), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–295, § 1(34), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 97–321, title VIII, § 803, Oct. 15, 1982, 96 Stat. 1572; Pub. L. 101–510, div. B, title XXVIII, § 2806, Nov. 5, 1990, 104 Stat. 1787; Pub. L. 102–190, div. B, title XXVIII, § 2862, Dec. 5, 1991, 105 Stat. 1559; Pub. L. 102–484, div. B, title XXVIII, § 2851, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–160, div. B, title XXIX, § 2906, Nov. 30, 1993, 107 Stat. 1920; Pub. L. 104–106, div. A, title XV, § 1502(a)(1), div. B, title XXVIII, §§ 2831(a), 2832, 2833, Feb. 10, 1996, 110 Stat. 502, 558, 559; Pub. L. 105–85, div. A, title III, § 361(b)(2), title X, § 1061(a)–(c)(1), Nov. 18, 1997, 111 Stat. 1701, 1891; Pub. L. 105–261, div. B, title XXVIII, § 2821, Oct. 17, 1998, 112 Stat. 2208; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2812(a)–(e)], Oct. 30, 2000, 114 Stat. 1654, 1654A–416 to 1654A–418; Pub. L. 107–107, div. A, title X, § 1013, Dec. 28, 2001, 115 Stat. 1212; Pub. L. 107–217, § 3(b)(12), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title X, § 1041(a)(18), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–136, div. A, title X, § 1043(b)(15), (c)(3), Nov. 24, 2003, 117 Stat. 1611, 1612; Pub. L. 108–178, § 4(b)(4), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109–364, div. A, title VI, § 662, div. B, title XXVIII, § 2831, Oct. 17, 2006, 120 Stat. 2263, 2480; Pub. L. 110–181, div. A, title X, § 1063(c)(13), div. B, title XXVIII, § 2823, Jan. 28, 2008, 122 Stat. 323, 544; Pub. L. 110–417, div. B, title XXVIII, §§ 2812(a)–(d), (f)(1), 2831, Oct. 14, 2008, 122 Stat. 4725, 4726, 4728, 4732; Pub. L. 111–84, div. A, title X, § 1073(a)(26), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–350, § 5(b)(44), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 111–383, div. A, title X, § 1075(b)(41), div. B, title XXVIII, §§ 2811(g)–2813(a), Jan. 7, 2011, 124 Stat. 4371, 4463; Pub. L. 112–239, div. B, title XXVII, § 2712(c)(2), Jan. 2, 2013, 126 Stat. 2145; Pub. L. 113–66, div. B, title XXVIII, § 2812, Dec. 26, 2013, 127 Stat. 1014; Pub. L. 113–291, div. B, title XXVIII, § 2811, Dec. 19, 2014, 128 Stat. 3700; Pub. L. 114–92, div. B, title XXVIII, § 2814, Nov. 25, 2015, 129 Stat. 1175; Pub. L. 115–91, div. A, title X, § 1081(a)(46), (47), div. B, title XXVIII, §§ 2811(e), 2835, Dec. 12, 2017, 131 Stat. 1596, 1597, 1848, 1859; Pub. L. 115–232, div. B, title XXVIII, § 2802(a), Aug. 13, 2018, 132 Stat. 2261; Pub. L. 118–159, div. B, title XXVIII, § 2844, Dec. 23, 2024, 138 Stat. 2263.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 94–107, title VI, § 607(7), Oct. 7, 1975, 89 Stat. 566; Pub. L. 94–412, title V, § 501(b), Sept. 14, 1976, 90 Stat. 1258; Pub. L. 96–513, title V, § 511(92), Dec. 12, 1980, 94 Stat. 2928; Pub. L. 97–295, § 1(34), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 97–321, title VIII, § 803, Oct. 15, 1982, 96 Stat. 1572; Pub. L. 101–510, div. B, title XXVIII, § 2806, Nov. 5, 1990, 104 Stat. 1787; Pub. L. 102–190, div. B, title XXVIII, § 2862, Dec. 5, 1991, 105 Stat. 1559; Pub. L. 102–484, div. B, title XXVIII, § 2851, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–160, div. B, title XXIX, § 2906, Nov. 30, 1993, 107 Stat. 1920; Pub. L. 104–106, div. A, title XV, § 1502(a)(1), div. B, title XXVIII, §§ 2831(a), 2832, 2833, Feb. 10, 1996, 110 Stat. 502, 558, 559; Pub. L. 105–85, div. A, title III, § 361(b)(2), title X, § 1061(a)–(c)(1), Nov. 18, 1997, 111 Stat. 1701, 1891; Pub. L. 105–261, div. B, title XXVIII, § 2821, Oct. 17, 1998, 112 Stat. 2208; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2812(a)–(e)], Oct. 30, 2000, 114 Stat. 1654, 1654A–416 to 1654A–418; Pub. L. 107–107, div. A, title X, § 1013, Dec. 28, 2001, 115 Stat. 1212; Pub. L. 107–217, § 3(b)(12), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title X, § 1041(a)(18), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 108–136, div. A, title X, § 1043(b)(15), (c)(3), Nov. 24, 2003, 117 Stat. 1611, 1612; Pub. L. 108–178, § 4(b)(4), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109–364, div. A, title VI, § 662, div. B, title XXVIII, § 2831, Oct. 17, 2006, 120 Stat. 2263, 2480; Pub. L. 110–181, div. A, title X, § 1063(c)(13), div. B, title XXVIII, § 2823, Jan. 28, 2008, 122 Stat. 323, 544; Pub. L. 110–417, div. B, title XXVIII, §§ 2812(a)–(d), (f)(1), 2831, Oct. 14, 2008, 122 Stat. 4725, 4726, 4728, 4732; Pub. L. 111–84, div. A, title X, § 1073(a)(26), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–350, § 5(b)(44), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 111–383, div. A, title X, § 1075(b)(41), div. B, title XXVIII, §§ 2811(g)–2813(a), Jan. 7, 2011, 124 Stat. 4371, 4463; Pub. L. 112–239, div. B, title XXVII, § 2712(c)(2), Jan. 2, 2013, 126 Stat. 2145; Pub. L. 113–66, div. B, title XXVIII, § 2812, Dec. 26, 2013, 127 Stat. 1014; Pub. L. 113–291, div. B, title XXVIII, § 2811, Dec. 19, 2014, 128 Stat. 3700; Pub. L. 114–92, div. B, title XXVIII, § 2814, Nov. 25, 2015, 129 Stat. 1175; Pub. L. 115–91, div. A, title X, § 1081(a)(46), (47), div. B, title XXVIII, §§ 2811(e), 2835, Dec. 12, 2017, 131 Stat. 1596, 1597, 1848, 1859; Pub. L. 115–232, div. B, title XXVIII, § 2802(a), Aug. 13, 2018, 132 Stat. 2261; Pub. L. 118–159, div. B, title XXVIII, § 2844, Dec. 23, 2024, 138 Stat. 2263.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2667(a)     2667(b) | 5:626s–3 (1st sentence). 10:1270 (1st sentence). 34:522a (1st sentence). 5:626s–3 (2d through 6th sentences). 10:1270 (2d through 6th sentences). | Aug. 5, 1947, ch. 493, §§ 1, 6, 61 Stat. 774, 775; Sept. 28, 1951, ch. 434. § 605 (as applicable to Act of Aug. 5, 1947, ch. 493, § 1), 65 Stat. 366. |
+| 2667(a) 2667(b) | 5:626s–3 (1st sentence). 10:1270 (1st sentence). 34:522a (1st sentence). 5:626s–3 (2d through 6th sentences). 10:1270 (2d through 6th sentences). | Aug. 5, 1947, ch. 493, §§ 1, 6, 61 Stat. 774, 775; Sept. 28, 1951, ch. 434. § 605 (as applicable to Act of Aug. 5, 1947, ch. 493, § 1), 65 Stat. 366. |
 |  | 34:522a (2d through 6th sentences). |  |
 | 2667(c) | 5:626s–3 (last sentence). |  |
 |  | 10:1270 (last sentence). |  |
@@ -1998,7 +1998,7 @@ Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 149, related to limitation on co
 |  | 34:522a (less 1st 6 sentences). |  |
 | 2667(e) | 5:626s–6. 10:1270d. 34:522e. |  |
 
-In subsection (a), the words “considers \* \* \* United States” are substituted for the words “shall deem \* \* \* Government”. The words “and conditions” are omitted as surplusage. The words “he considers” are substituted for the words “in his judgment”.
+In subsection (a), the words “considers \* \* \* United States” are substituted for the words “shall deem \* \* \* Government”. The words “and conditions” are omitted as surplusage. The words “he considers” are substituted for the words “in his judgment”.
 
 In subsection (a)(3), the words “excess property, as defined by section 472 of title 40” are substituted for the words “surplus to the needs of the Department within the meaning of the Surplus Property Act of 1944 [Act of October 3, 1944 (58 Stat. 765)]”, in 5:626s–3, 10:1270, and 34:522a, since the words “excess property” are so defined by the Federal Property and Administrative Services Act of 1949.
 
@@ -2016,147 +2016,147 @@ In subsection (e), the words “of property” are inserted for clarity. The wor
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (g)(4)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (g)(4)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The date of the enactment of this paragraph, referred to in subsec. (h)(4)(A)(i), is the date of enactment of Pub. L. 113–291, which was approved Dec. 19, 2014.
 
 **Amendments**
 
-2024—Subsec. (c)(1)(A). Pub. L. 118–159, § 2844(1), inserted “, whether or not needed for the functionality of the property or facility leased” before period at end.
+2024—Subsec. (c)(1)(A). Pub. L. 118–159, § 2844(1), inserted “, whether or not needed for the functionality of the property or facility leased” before period at end.
 
-Subsec. (c)(1)(F). Pub. L. 118–159, § 2844(2), inserted “, which may include industrial process optimization” before period at end.
+Subsec. (c)(1)(F). Pub. L. 118–159, § 2844(2), inserted “, which may include industrial process optimization” before period at end.
 
-Subsec. (c)(1)(G) to (I). Pub. L. 118–159, § 2844(3), added subpars. (G) to (I).
+Subsec. (c)(1)(G) to (I). Pub. L. 118–159, § 2844(3), added subpars. (G) to (I).
 
 2018—Subsec. (b)(8). Pub. L. 115–232 added par. (8).
 
-2017—Subsec. (c)(1)(D). Pub. L. 115–91, § 2835, inserted “, which shall prioritize energy resilience in the event of commercial grid outages” after “Secretary concerned”.
+2017—Subsec. (c)(1)(D). Pub. L. 115–91, § 2835, inserted “, which shall prioritize energy resilience in the event of commercial grid outages” after “Secretary concerned”.
 
-Subsec. (d)(3). Pub. L. 115–91, § 2811(e), substituted “submit, in an electronic medium pursuant to section 480 of this title, to the congressional defense committees a notice” for “provide to the congressional defense committees written notice”.
+Subsec. (d)(3). Pub. L. 115–91, § 2811(e), substituted “submit, in an electronic medium pursuant to section 480 of this title, to the congressional defense committees a notice” for “provide to the congressional defense committees written notice”.
 
-Subsec. (e)(1)(E). Pub. L. 115–91, § 1081(a)(46)(A), substituted “a military museum” for “a military museum described in section 489(a) of this title”.
+Subsec. (e)(1)(E). Pub. L. 115–91, § 1081(a)(46)(A), substituted “a military museum” for “a military museum described in section 489(a) of this title”.
 
-Subsec. (e)(4). Pub. L. 115–91, § 1081(a)(46)(B), substituted “shall be deposited into the Department of Defense Base Closure Account” for “before January 1, 2005, shall be deposited into the account”.
+Subsec. (e)(4). Pub. L. 115–91, § 1081(a)(46)(B), substituted “shall be deposited into the Department of Defense Base Closure Account” for “before January 1, 2005, shall be deposited into the account”.
 
-Subsec. (e)(5). Pub. L. 115–91, § 1081(a)(46)(C), struck out par. (5) which read as follows: “Money rentals received by the United States from a lease under subsection (g) at a military installation approved for closure or realignment under a base closure law on or after January 1, 2005, shall be deposited into the account established under section 2906A(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).”
+Subsec. (e)(5). Pub. L. 115–91, § 1081(a)(46)(C), struck out par. (5) which read as follows: “Money rentals received by the United States from a lease under subsection (g) at a military installation approved for closure or realignment under a base closure law on or after January 1, 2005, shall be deposited into the account established under section 2906A(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).”
 
-Subsec. (k). Pub. L. 115–91, § 1081(a)(47), substituted “section 8101” for “section 9101”.
+Subsec. (k). Pub. L. 115–91, § 1081(a)(47), substituted “section 8101” for “section 9101”.
 
 2015—Subsec. (k). Pub. L. 114–92 added subsec. (k).
 
 2014—Subsec. (h)(4). Pub. L. 113–291 added par. (4).
 
-2013—Subsec. (e)(1)(C)(vi). Pub. L. 113–66, § 2812(a), added cl. (vi).
+2013—Subsec. (e)(1)(C)(vi). Pub. L. 113–66, § 2812(a), added cl. (vi).
 
-Subsec. (i)(1), (2). Pub. L. 113–66, § 2812(b), added par. (1) and redesignated former par. (1) as (2). Former par. (2) redesignated (3).
+Subsec. (i)(1), (2). Pub. L. 113–66, § 2812(b), added par. (1) and redesignated former par. (1) as (2). Former par. (2) redesignated (3).
 
-Subsec. (i)(3). Pub. L. 113–66, § 2812(b), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+Subsec. (i)(3). Pub. L. 113–66, § 2812(b), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
 Pub. L. 112–239 substituted “section 2687” for “section 2687(e)(1)”.
 
-Subsec. (i)(4), (5). Pub. L. 113–66, § 2812(b), redesignated pars. (3) and (4) as (4) and (5), respectively.
+Subsec. (i)(4), (5). Pub. L. 113–66, § 2812(b), redesignated pars. (3) and (4) as (4) and (5), respectively.
 
-2011—Subsec. (b)(7). Pub. L. 111–383, § 2813(a), inserted before period at end “, or otherwise commit the Secretary concerned or the Department of Defense to annual payments in excess of such amount”.
+2011—Subsec. (b)(7). Pub. L. 111–383, § 2813(a), inserted before period at end “, or otherwise commit the Secretary concerned or the Department of Defense to annual payments in excess of such amount”.
 
-Subsec. (c)(4). Pub. L. 111–383, § 2811(g)(1), struck out par. (4), which set forth reporting requirements for issuance of contract solicitations or other lease offerings with annual payments exceeding $750,000.
+Subsec. (c)(4). Pub. L. 111–383, § 2811(g)(1), struck out par. (4), which set forth reporting requirements for issuance of contract solicitations or other lease offerings with annual payments exceeding $750,000.
 
-Subsec. (d)(6). Pub. L. 111–383, § 2811(g)(2), struck out par. (6), which read as follows: “The Secretary concerned shall provide written notification to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives regarding all leases under this section that include the operation of a community support facility or the provision of community support services, regardless of whether the facility will be operated by a covered entity or the lessee or the services will be provided by a covered entity or the lessee.”
+Subsec. (d)(6). Pub. L. 111–383, § 2811(g)(2), struck out par. (6), which read as follows: “The Secretary concerned shall provide written notification to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives regarding all leases under this section that include the operation of a community support facility or the provision of community support services, regardless of whether the facility will be operated by a covered entity or the lessee or the services will be provided by a covered entity or the lessee.”
 
-Subsec. (e)(1)(A)(ii). Pub. L. 111–383, § 1075(b)(41)(A), substituted “section 2668” for “sections 2668 and 2669”.
+Subsec. (e)(1)(A)(ii). Pub. L. 111–383, § 1075(b)(41)(A), substituted “section 2668” for “sections 2668 and 2669”.
 
-Subsec. (e)(1)(E). Pub. L. 111–383, §§ 2811(g)(3), 2812, added subpar. (E) and struck out former subpar. (E), which read as follows: “The Secretary concerned may not expend under subparagraph (C) an amount in excess of $500,000 at a single military installation or Defense Agency location until 30 days after the date on which a report on the facts of the proposed expenditure is submitted to the congressional defense committees.”
+Subsec. (e)(1)(E). Pub. L. 111–383, §§ 2811(g)(3), 2812, added subpar. (E) and struck out former subpar. (E), which read as follows: “The Secretary concerned may not expend under subparagraph (C) an amount in excess of $500,000 at a single military installation or Defense Agency location until 30 days after the date on which a report on the facts of the proposed expenditure is submitted to the congressional defense committees.”
 
-Subsec. (e)(5). Pub. L. 111–383, § 1075(b)(41)(B), substituted “subsection (g)” for “subsection (f)”.
+Subsec. (e)(5). Pub. L. 111–383, § 1075(b)(41)(B), substituted “subsection (g)” for “subsection (f)”.
 
-Subsec. (g)(1). Pub. L. 111–350, which directed substitution of “Notwithstanding subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 (to the extent those provisions are inconsistent with this subsection) or subsection (a)(2) of this section” for “Notwithstanding subsection (a)(3) or subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (to the extent subtitle I and title III are inconsistent with this subsection)” in subsec. (f)(1), was executed by making the substitution for “Notwithstanding subsection (a)(2) or subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (to the extent subtitle I and title III are inconsistent with this subsection)” in subsec. (g)(1), to reflect the probable intent of Congress and the amendment by Pub. L. 109–364, § 662(b)(1), (d)(6). See 2006 Amendment note below.
+Subsec. (g)(1). Pub. L. 111–350, which directed substitution of “Notwithstanding subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 (to the extent those provisions are inconsistent with this subsection) or subsection (a)(2) of this section” for “Notwithstanding subsection (a)(3) or subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (to the extent subtitle I and title III are inconsistent with this subsection)” in subsec. (f)(1), was executed by making the substitution for “Notwithstanding subsection (a)(2) or subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (to the extent subtitle I and title III are inconsistent with this subsection)” in subsec. (g)(1), to reflect the probable intent of Congress and the amendment by Pub. L. 109–364, § 662(b)(1), (d)(6). See 2006 Amendment note below.
 
-Subsec. (h)(3) to (5). Pub. L. 111–383, § 2811(g)(4), redesignated par. (4) as (3) and struck out former pars. (3) and (5) which related to written notice to Congress describing competitive procedures for, or public benefit served by, certain proposed leases and certification requirements for energy production leases exceeding 20 years, respectively.
+Subsec. (h)(3) to (5). Pub. L. 111–383, § 2811(g)(4), redesignated par. (4) as (3) and struck out former pars. (3) and (5) which related to written notice to Congress describing competitive procedures for, or public benefit served by, certain proposed leases and certification requirements for energy production leases exceeding 20 years, respectively.
 
 2009—Subsec. (g)(1). Pub. L. 111–84 substituted “law, the Secretary concerned may” for “law, the Secretary of the military department concerned may”.
 
-2008—Pub. L. 110–417, § 2812(f)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Leases: non-excess property of military departments”.
+2008—Pub. L. 110–417, § 2812(f)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Leases: non-excess property of military departments”.
 
-Subsec. (a). Pub. L. 110–417, § 2812(a)(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “Whenever the Secretary of a military department considers it advantageous to the United States, he may lease to such lessee and upon such terms as he considers will promote the national defense or be in the public interest, real or personal property that is—
+Subsec. (a). Pub. L. 110–417, § 2812(a)(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “Whenever the Secretary of a military department considers it advantageous to the United States, he may lease to such lessee and upon such terms as he considers will promote the national defense or be in the public interest, real or personal property that is—
 
 “(1) under the control of that department; and
 
 “(2) not excess property, as defined by section 102 of title 40.”
 
-Subsec. (b)(7). Pub. L. 110–417, § 2812(b), added par. (7).
+Subsec. (b)(7). Pub. L. 110–417, § 2812(b), added par. (7).
 
-Subsec. (c)(1)(D) to (F). Pub. L. 110–181, § 2823(a), added subpars. (D) and (E), redesignated former subpar. (E) as (F), and struck out former subpar. (D) which read as follows: “Facilities operation support for the Secretary concerned.”
+Subsec. (c)(1)(D) to (F). Pub. L. 110–181, § 2823(a), added subpars. (D) and (E), redesignated former subpar. (E) as (F), and struck out former subpar. (D) which read as follows: “Facilities operation support for the Secretary concerned.”
 
-Subsec. (c)(4). Pub. L. 110–417, § 2812(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “In the case of a lease for which all or part of the consideration proposed to be accepted by the Secretary concerned under this subsection is in-kind consideration with a value in excess of $500,000, the Secretary concerned may not enter into the lease until 30 days after the date on which a report on the facts of the lease is submitted to the congressional defense committees.”
+Subsec. (c)(4). Pub. L. 110–417, § 2812(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “In the case of a lease for which all or part of the consideration proposed to be accepted by the Secretary concerned under this subsection is in-kind consideration with a value in excess of $500,000, the Secretary concerned may not enter into the lease until 30 days after the date on which a report on the facts of the lease is submitted to the congressional defense committees.”
 
-Subsec. (d)(2). Pub. L. 110–417, § 2812(d)(1)(A), substituted “Secretary concerned” for “Secretary of a military department” in introductory provisions.
+Subsec. (d)(2). Pub. L. 110–417, § 2812(d)(1)(A), substituted “Secretary concerned” for “Secretary of a military department” in introductory provisions.
 
-Subsec. (d)(3), (4), (6). Pub. L. 110–417, § 2812(d)(1)(B), struck out “of the military department” after “Secretary” in pars. (3) and (6) and after “from the Secretary” in par. (4).
+Subsec. (d)(3), (4), (6). Pub. L. 110–417, § 2812(d)(1)(B), struck out “of the military department” after “Secretary” in pars. (3) and (6) and after “from the Secretary” in par. (4).
 
-Subsec. (e). Pub. L. 110–181, § 1063(c)(13), amended Pub. L. 109–364, § 2831. See 2006 Amendment note below.
+Subsec. (e). Pub. L. 110–181, § 1063(c)(13), amended Pub. L. 109–364, § 2831. See 2006 Amendment note below.
 
-Subsec. (e)(1)(A). Pub. L. 110–417, § 2812(d)(2)(A), in introductory provisions, substituted “Secretary concerned” for “Secretary of a military department” and “that Secretary” for “such military department” and, in cl. (iii), substituted “of that Secretary” for “of that military department”.
+Subsec. (e)(1)(A). Pub. L. 110–417, § 2812(d)(2)(A), in introductory provisions, substituted “Secretary concerned” for “Secretary of a military department” and “that Secretary” for “such military department” and, in cl. (iii), substituted “of that Secretary” for “of that military department”.
 
-Subsec. (e)(1)(B)(i). Pub. L. 110–417, § 2812(d)(2)(B), substituted “Secretary concerned” for “Secretary of a military department”.
+Subsec. (e)(1)(B)(i). Pub. L. 110–417, § 2812(d)(2)(B), substituted “Secretary concerned” for “Secretary of a military department”.
 
-Subsec. (e)(1)(B)(ii). Pub. L. 110–181, § 2823(d)(1), substituted “paragraph (3), (4), or (5)” for “paragraph (4), (5), or (6)”.
+Subsec. (e)(1)(B)(ii). Pub. L. 110–181, § 2823(d)(1), substituted “paragraph (3), (4), or (5)” for “paragraph (4), (5), or (6)”.
 
-Subsec. (e)(1)(C). Pub. L. 110–417, § 2812(d)(2)(C), in introductory provisions, substituted “established for the Secretary concerned shall be available to the Secretary” for “of a military department pursuant to subparagraph (A) shall be available to the Secretary of that military department”.
+Subsec. (e)(1)(C). Pub. L. 110–417, § 2812(d)(2)(C), in introductory provisions, substituted “established for the Secretary concerned shall be available to the Secretary” for “of a military department pursuant to subparagraph (A) shall be available to the Secretary of that military department”.
 
-Subsec. (e)(1)(C)(ii) to (v). Pub. L. 110–181, § 2823(b), realigned margins of cls. (ii) and (iii), added cls. (iv) and (v), and struck out former cl. (iv) which read as follows: “Facilities operation support.”
+Subsec. (e)(1)(C)(ii) to (v). Pub. L. 110–181, § 2823(b), realigned margins of cls. (ii) and (iii), added cls. (iv) and (v), and struck out former cl. (iv) which read as follows: “Facilities operation support.”
 
-Subsec. (e)(1)(D). Pub. L. 110–417, § 2812(d)(2)(D), substituted “established for the Secretary concerned” for “of a military department under subparagraph (A)” and inserted “or Defense Agency location” after “military installation”.
+Subsec. (e)(1)(D). Pub. L. 110–417, § 2812(d)(2)(D), substituted “established for the Secretary concerned” for “of a military department under subparagraph (A)” and inserted “or Defense Agency location” after “military installation”.
 
-Subsec. (e)(1)(E). Pub. L. 110–417, § 2812(d)(2)(E), substituted “military installation or Defense Agency location” for “installation”.
+Subsec. (e)(1)(E). Pub. L. 110–417, § 2812(d)(2)(E), substituted “military installation or Defense Agency location” for “installation”.
 
-Subsec. (e)(3). Pub. L. 110–417, § 2812(d)(2)(F), substituted “control of the Secretary concerned” for “control of the Secretary of a military department”.
+Subsec. (e)(3). Pub. L. 110–417, § 2812(d)(2)(F), substituted “control of the Secretary concerned” for “control of the Secretary of a military department”.
 
-Pub. L. 110–181, § 2823(d)(2), redesignated par. (4) as (3).
+Pub. L. 110–181, § 2823(d)(2), redesignated par. (4) as (3).
 
-Subsec. (e)(4) to (6). Pub. L. 110–181, § 2823(d)(2), redesignated pars. (5) and (6) as (4) and (5), respectively.
+Subsec. (e)(4) to (6). Pub. L. 110–181, § 2823(d)(2), redesignated pars. (5) and (6) as (4) and (5), respectively.
 
-Subsec. (g)(1). Pub. L. 110–417, § 2812(d)(3), which directed amendment of par. (1) by substituting “Secretary concerned” for “Secretary of a military department”, could not be executed because the phrase “Secretary of a military department” did not appear in text.
+Subsec. (g)(1). Pub. L. 110–417, § 2812(d)(3), which directed amendment of par. (1) by substituting “Secretary concerned” for “Secretary of a military department”, could not be executed because the phrase “Secretary of a military department” did not appear in text.
 
-Subsec. (h)(1). Pub. L. 110–181, § 2823(c)(1), substituted “exceeds one year, or the fair market value of the lease” for “exceeds one year, and the fair market value of the lease”.
+Subsec. (h)(1). Pub. L. 110–181, § 2823(c)(1), substituted “exceeds one year, or the fair market value of the lease” for “exceeds one year, and the fair market value of the lease”.
 
-Subsec. (h)(2) to (4). Pub. L. 110–181, § 2823(c)(2), (3), added pars. (2) and (3), redesignated former par. (3) as (4), and struck out former par. (2) which read as follows: “Not later than 45 days before entering into a lease described in paragraph (1), the Secretary concerned shall submit to Congress written notice describing the terms of the proposed lease and the competitive procedures used to select the lessee.”
+Subsec. (h)(2) to (4). Pub. L. 110–181, § 2823(c)(2), (3), added pars. (2) and (3), redesignated former par. (3) as (4), and struck out former par. (2) which read as follows: “Not later than 45 days before entering into a lease described in paragraph (1), the Secretary concerned shall submit to Congress written notice describing the terms of the proposed lease and the competitive procedures used to select the lessee.”
 
-Subsec. (h)(5). Pub. L. 110–417, § 2831, added par. (5).
+Subsec. (h)(5). Pub. L. 110–417, § 2831, added par. (5).
 
-Subsec. (i)(4). Pub. L. 110–417, § 2812(a)(2), added par. (4).
+Subsec. (i)(4). Pub. L. 110–417, § 2812(a)(2), added par. (4).
 
-2006—Subsec. (a). Pub. L. 109–364, § 662(d)(1), inserted heading.
+2006—Subsec. (a). Pub. L. 109–364, § 662(d)(1), inserted heading.
 
-Subsec. (b). Pub. L. 109–364, § 662(d)(2), inserted heading.
+Subsec. (b). Pub. L. 109–364, § 662(d)(2), inserted heading.
 
-Subsec. (b)(6). Pub. L. 109–364, § 662(a), added par. (6).
+Subsec. (b)(6). Pub. L. 109–364, § 662(a), added par. (6).
 
-Subsec. (c). Pub. L. 109–364, § 662(d)(3), inserted heading.
+Subsec. (c). Pub. L. 109–364, § 662(d)(3), inserted heading.
 
-Subsec. (d). Pub. L. 109–364, § 662(b), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 109–364, § 662(b), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 109–364, § 2831, as amended by Pub. L. 110–181, § 1063(c)(13), substituted “paragraph (4), (5), or (6)” for “paragraph (4) or (5)” in par. (1)(B)(ii), inserted “at a military installation approved for closure or realignment under a base closure law before January 1, 2005,” after “lease under subsection (f)” in par. (5), and added par. (6) at the end.
+Subsec. (e). Pub. L. 109–364, § 2831, as amended by Pub. L. 110–181, § 1063(c)(13), substituted “paragraph (4), (5), or (6)” for “paragraph (4) or (5)” in par. (1)(B)(ii), inserted “at a military installation approved for closure or realignment under a base closure law before January 1, 2005,” after “lease under subsection (f)” in par. (5), and added par. (6) at the end.
 
-Pub. L. 109–364, § 662(d)(4), inserted heading and substituted “(g)” for “(f)” in par. (5).
+Pub. L. 109–364, § 662(d)(4), inserted heading and substituted “(g)” for “(f)” in par. (5).
 
-Pub. L. 109–364, § 662(b)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Pub. L. 109–364, § 662(b)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 109–364, § 662(b)(1), (d)(5), redesignated subsec. (e) as (f) and inserted heading. Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 109–364, § 662(b)(1), (d)(5), redesignated subsec. (e) as (f) and inserted heading. Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 109–364, § 662(b)(1), (d)(6), redesignated subsec. (f) as (g), inserted heading, and substituted “(a)(2)” for “(a)(3)” in par. (1). Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 109–364, § 662(b)(1), (d)(6), redesignated subsec. (f) as (g), inserted heading, and substituted “(a)(2)” for “(a)(3)” in par. (1). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 109–364, § 662(b)(1), (d)(7), redesignated subsec. (g) as (h) and inserted heading. Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 109–364, § 662(b)(1), (d)(7), redesignated subsec. (g) as (h) and inserted heading. Former subsec. (h) redesignated (i).
 
-Subsec. (i). Pub. L. 109–364, § 662(b)(1), (c), redesignated subsec. (h) as (i), inserted heading, and amended text of subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “In this section, the term ‘military installation’ has the meaning given such term in section 2687(e)(1) of this title.” Former subsec. (i) redesignated (j).
+Subsec. (i). Pub. L. 109–364, § 662(b)(1), (c), redesignated subsec. (h) as (i), inserted heading, and amended text of subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “In this section, the term ‘military installation’ has the meaning given such term in section 2687(e)(1) of this title.” Former subsec. (i) redesignated (j).
 
-Subsec. (j). Pub. L. 109–364, § 662(b)(1), (d)(8), redesignated subsec. (i) as (j) and inserted heading.
+Subsec. (j). Pub. L. 109–364, § 662(b)(1), (d)(8), redesignated subsec. (i) as (j) and inserted heading.
 
 2003—Subsec. (b)(5). Pub. L. 108–178 struck out comma after “of title 40”.
 
 Subsec. (h). Pub. L. 108–136 redesignated introductory provisions and par. (3) as entire subsec., substituted “section,” for “section:” and “this term” for “The term”, struck out par. (1) which defined “congressional defense committees” to mean the Committees on Armed Services and Appropriations of the Senate and House of Representatives, and struck out par. (2) which defined “base closure law” to mean section 2687 of this title, the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Pub. L. 101–510), and title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Pub. L. 100–526).
 
-2002—Subsec. (a)(2). Pub. L. 107–217, § 3(b)(12)(A), substituted “section 102 of title 40” for “section 3 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472)”.
+2002—Subsec. (a)(2). Pub. L. 107–217, § 3(b)(12)(A), substituted “section 102 of title 40” for “section 3 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472)”.
 
-Subsec. (b)(5). Pub. L. 107–217, § 3(b)(12)(B), substituted “section 1302 of title 40” for “section 321 of the Act of June 30, 1932 (40 U.S.C. 303b)”.
+Subsec. (b)(5). Pub. L. 107–217, § 3(b)(12)(B), substituted “section 1302 of title 40” for “section 321 of the Act of June 30, 1932 (40 U.S.C. 303b)”.
 
 Subsec. (d)(3). Pub. L. 107–314 struck out par. (3) which read as follows: “Not later than March 15 each year, the Secretary of Defense shall submit to the congressional defense committees a report which shall include—
 
@@ -2164,17 +2164,17 @@ Subsec. (d)(3). Pub. L. 107–314 struck out par. (3) which read as follows: “
 
 “(B) a detailed explanation of each lease entered into, and of each amendment made to existing leases, during such preceding fiscal year.”
 
-Subsec. (f)(1). Pub. L. 107–217, § 3(b)(12)(C), inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “subtitle I and title III are” for “such Act is”.
+Subsec. (f)(1). Pub. L. 107–217, § 3(b)(12)(C), inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “subtitle I and title III are” for “such Act is”.
 
 2001—Subsec. (g)(3). Pub. L. 107–107 added par. (3).
 
-2000—Subsec. (a). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2812(a)], inserted “and” at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “not for the time needed for public use; and”.
+2000—Subsec. (a). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2812(a)], inserted “and” at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “not for the time needed for public use; and”.
 
-Subsec. (b)(5). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2812(b)(1)], substituted “alteration, repair, or improvement,” for “improvement, maintenance, protection, repair, or restoration,” and struck out “, or of the entire unit or installation where a substantial part of it is leased,” after “of the property leased”.
+Subsec. (b)(5). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2812(b)(1)], substituted “alteration, repair, or improvement,” for “improvement, maintenance, protection, repair, or restoration,” and struck out “, or of the entire unit or installation where a substantial part of it is leased,” after “of the property leased”.
 
-Subsec. (c). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2812(b)(3)], added subsec. (c). Former subsec. (c) redesignated (i).
+Subsec. (c). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2812(b)(3)], added subsec. (c). Former subsec. (c) redesignated (i).
 
-Subsec. (d)(1). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2812(c)], amended par. (1) generally. Prior to amendment, par. (1) read as follows:
+Subsec. (d)(1). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2812(c)], amended par. (1) generally. Prior to amendment, par. (1) read as follows:
 
 “(1)(A) All money rentals received pursuant to leases entered into by the Secretary of a military department under this section shall be deposited in a special account in the Treasury established for such military department, except—
 
@@ -2188,13 +2188,13 @@ Subsec. (d)(1). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2812(c)], 
 
 “(ii) 50 percent of such amount shall be available for facility maintenance and repair and for environmental restoration by the military department concerned.”
 
-Subsec. (d)(3). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2812(d)(1)], substituted “Not later than March 15 each year, the Secretary of Defense shall submit to the congressional defense committees a report which” for “As part of the request for authorizations of appropriations submitted to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives for each fiscal year, the Secretary of Defense” in introductory provisions.
+Subsec. (d)(3). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2812(d)(1)], substituted “Not later than March 15 each year, the Secretary of Defense shall submit to the congressional defense committees a report which” for “As part of the request for authorizations of appropriations submitted to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives for each fiscal year, the Secretary of Defense” in introductory provisions.
 
-Subsec. (d)(3)(A). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2812(d)(2)], substituted “report” for “request”.
+Subsec. (d)(3)(A). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2812(d)(2)], substituted “report” for “request”.
 
-Subsec. (f)(4), (5). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2812(b)(4)], redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The Secretary concerned may accept under subsection (b)(5) services of a lessee for an entire installation to be closed or realigned under a base closure law, or for any part of such installation, without regard to the requirement in subsection (b)(5) that a substantial part of the installation be leased.”
+Subsec. (f)(4), (5). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2812(b)(4)], redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The Secretary concerned may accept under subsection (b)(5) services of a lessee for an entire installation to be closed or realigned under a base closure law, or for any part of such installation, without regard to the requirement in subsection (b)(5) that a substantial part of the installation be leased.”
 
-Subsec. (h). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2812(e)], amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “In this section, the term ‘base closure law’ means each of the following:
+Subsec. (h). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2812(e)], amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “In this section, the term ‘base closure law’ means each of the following:
 
 “(1) The Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
 
@@ -2202,47 +2202,47 @@ Subsec. (h). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2812(e)], ame
 
 “(3) Section 2687 of this title.”
 
-Subsec. (i). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2812(b)(2)], redesignated subsec. (c) as (i).
+Subsec. (i). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2812(b)(2)], redesignated subsec. (c) as (i).
 
 1999—Subsec. (d)(3). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
 
 1998—Subsec. (f)(1). Pub. L. 105–261 inserted “or the Federal Property and Administrative Services Act of 1949 (to the extent such Act is inconsistent with this subsection)”.
 
-1997—Pub. L. 105–85, § 1061(c)(1), inserted “of military departments” after “property” in section catchline.
+1997—Pub. L. 105–85, § 1061(c)(1), inserted “of military departments” after “property” in section catchline.
 
-Subsec. (b)(4). Pub. L. 105–85, § 1061(a), struck out “, in the case of the lease of real property,” after “shall provide”.
+Subsec. (b)(4). Pub. L. 105–85, § 1061(a), struck out “, in the case of the lease of real property,” after “shall provide”.
 
-Subsec. (d)(2). Pub. L. 105–85, § 361(b)(2), inserted “or working capital fund” before “from which”.
+Subsec. (d)(2). Pub. L. 105–85, § 361(b)(2), inserted “or working capital fund” before “from which”.
 
-Subsecs. (g), (h). Pub. L. 105–85, § 1061(b), added subsec. (g) and redesignated former subsec. (g) as (h).
+Subsecs. (g), (h). Pub. L. 105–85, § 1061(b), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-1996—Subsec. (d)(1)(A)(ii). Pub. L. 104–106, § 2831(a)(1), inserted “or (5)” after “paragraph (4)”.
+1996—Subsec. (d)(1)(A)(ii). Pub. L. 104–106, § 2831(a)(1), inserted “or (5)” after “paragraph (4)”.
 
-Subsec. (d)(3). Pub. L. 104–106, § 1502(a)(1), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+Subsec. (d)(3). Pub. L. 104–106, § 1502(a)(1), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
-Subsec. (d)(5). Pub. L. 104–106, § 2831(a)(2), added par. (5).
+Subsec. (d)(5). Pub. L. 104–106, § 2831(a)(2), added par. (5).
 
-Subsec. (f)(4). Pub. L. 104–106, § 2832, added par. (4).
+Subsec. (f)(4). Pub. L. 104–106, § 2832, added par. (4).
 
-Subsec. (f)(5). Pub. L. 104–106, § 2833, added par. (5).
+Subsec. (f)(5). Pub. L. 104–106, § 2833, added par. (5).
 
-1993—Subsec. (f). Pub. L. 103–160, § 2906(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Notwithstanding clause (3) of subsection (a), real property and associated personal property, which have been determined excess as the result of a defense installation realignment or closure, may be leased to State or local governments pending final disposition of such property if—
+1993—Subsec. (f). Pub. L. 103–160, § 2906(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Notwithstanding clause (3) of subsection (a), real property and associated personal property, which have been determined excess as the result of a defense installation realignment or closure, may be leased to State or local governments pending final disposition of such property if—
 
 “(1) the Secretary concerned determines that such action would facilitate State or local economic adjustment efforts, and
 
 “(2) the Administrator of General Services concurs in the action.”
 
-Subsec. (g). Pub. L. 103–160, § 2906(b), added subsec. (g).
+Subsec. (g). Pub. L. 103–160, § 2906(b), added subsec. (g).
 
-1992—Subsec. (b)(4). Pub. L. 102–484 inserted “, in the case of the lease of real property,” after “shall provide”.
+1992—Subsec. (b)(4). Pub. L. 102–484 inserted “, in the case of the lease of real property,” after “shall provide”.
 
-1991—Subsec. (b)(3). Pub. L. 102–190, § 2862(a)(1), substituted “shall permit” for “must permit” and struck out “and” at end.
+1991—Subsec. (b)(3). Pub. L. 102–190, § 2862(a)(1), substituted “shall permit” for “must permit” and struck out “and” at end.
 
-Subsec. (b)(4). Pub. L. 102–190, § 2862(a)(2), (3), added par. (4) and redesignated former par. (4) as (5).
+Subsec. (b)(4). Pub. L. 102–190, § 2862(a)(2), (3), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (b)(5). Pub. L. 102–190, § 2862(a)(2), (4), redesignated par. (4) as (5) and inserted “improvement,” before “maintenance” and “the payment of” before “part or all”.
+Subsec. (b)(5). Pub. L. 102–190, § 2862(a)(2), (4), redesignated par. (4) as (5) and inserted “improvement,” before “maintenance” and “the payment of” before “part or all”.
 
-Subsec. (d)(3). Pub. L. 102–190, § 2862(b), redesignated subpar. (B) as par. (3), substituted “As part of the request for authorizations of appropriations submitted to the Committees on Armed Services of the Senate and House of Representatives for each fiscal year” for “As part of the request for authorizations of appropriations to such Committees for each fiscal year after fiscal year 1992”, redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “As part of the request for authorizations of appropriations for fiscal year 1992 to the Committees on Armed Services of the Senate and of the House of Representatives, the Secretary of Defense shall include an explanation of each lease from which money rentals will be received and deposited under this subsection during fiscal year 1991, together with an estimate of the amount to be received from each such lease and an explanation of the anticipated expenditures of such receipts.”
+Subsec. (d)(3). Pub. L. 102–190, § 2862(b), redesignated subpar. (B) as par. (3), substituted “As part of the request for authorizations of appropriations submitted to the Committees on Armed Services of the Senate and House of Representatives for each fiscal year” for “As part of the request for authorizations of appropriations to such Committees for each fiscal year after fiscal year 1992”, redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “As part of the request for authorizations of appropriations for fiscal year 1992 to the Committees on Armed Services of the Senate and of the House of Representatives, the Secretary of Defense shall include an explanation of each lease from which money rentals will be received and deposited under this subsection during fiscal year 1991, together with an estimate of the amount to be received from each such lease and an explanation of the anticipated expenditures of such receipts.”
 
 1990—Subsec. (d). Pub. L. 101–510 added pars. (1) to (3), redesignated former par. (2) as (4), and struck out former par. (1) which read as follows: “Except as provided in paragraph (2), money rentals received by the United States directly from a lease under this section shall be covered into the Treasury as miscellaneous receipts. Payments for utilities or services furnished to the lessee under such a lease by the department concerned may be covered into the Treasury to the credit of the appropriation from which the cost of furnishing them was paid.”
 
@@ -2250,13 +2250,13 @@ Subsec. (d)(3). Pub. L. 102–190, § 2862(b), redesignated subpar. (B) as par
 
 Subsec. (d). Pub. L. 97–321 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), money” for “Money”, and added par. (2).
 
-1980—Subsec. (a)(3). Pub. L. 96–513, § 511(92)(A), substituted “section 3 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472)” for “section 472 of title 40”.
+1980—Subsec. (a)(3). Pub. L. 96–513, § 511(92)(A), substituted “section 3 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472)” for “section 472 of title 40”.
 
-Subsec. (b)(4). Pub. L. 96–513, § 511(92)(B), substituted “section 321 of the Act entitled ‘An act making appropriations for the Legislative Branch of the Government for the fiscal year ending June 30, 1933, and for other purposes’, approved June 30, 1932 (40 U.S.C. 303b),” for “section 303b of title 40”.
+Subsec. (b)(4). Pub. L. 96–513, § 511(92)(B), substituted “section 321 of the Act entitled ‘An act making appropriations for the Legislative Branch of the Government for the fiscal year ending June 30, 1933, and for other purposes’, approved June 30, 1932 (40 U.S.C. 303b),” for “section 303b of title 40”.
 
-Subsec. (e). Pub. L. 96–513, § 511(92)(C), substituted “Act” for “act”.
+Subsec. (e). Pub. L. 96–513, § 511(92)(C), substituted “Act” for “act”.
 
-Subsec. (f). Pub. L. 96–513, § 511(92)(D), substituted “the Secretary” for “The Secretary”, and substituted “the Administrator of General Services” for “The Administrator of the General Services Administration”.
+Subsec. (f). Pub. L. 96–513, § 511(92)(D), substituted “the Secretary” for “The Secretary”, and substituted “the Administrator of General Services” for “The Administrator of the General Services Administration”.
 
 1976—Subsec. (b)(4), (5). Pub. L. 94–412 struck out par. (4) which required leases of nonexcess property of a military department include a provision making the lease revocable during a national emergency declared by the President, and redesignated par. (5) as (4).
 
@@ -2266,11 +2266,11 @@ Subsec. (f). Pub. L. 96–513, § 511(92)(D), substituted “the Secretary” 
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–232, div. B, title XXVIII, § 2802(b), Aug. 13, 2018, 132 Stat. 2261, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to leases entered into during fiscal year 2019 or any of the four succeeding fiscal years.”
+Pub. L. 115–232, div. B, title XXVIII, § 2802(b), Aug. 13, 2018, 132 Stat. 2261, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to leases entered into during fiscal year 2019 or any of the four succeeding fiscal years.”
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–181, div. A, title X, § 1063(c), Jan. 28, 2008, 122 Stat. 322, provided that the amendment made by section 1063(c)(13) is effective as of Oct. 17, 2006, and as if included in the John Warner National Defense Authorization Act for Fiscal Year 2007, Pub. L. 109–364, as enacted.
+Pub. L. 110–181, div. A, title X, § 1063(c), Jan. 28, 2008, 122 Stat. 322, provided that the amendment made by section 1063(c)(13) is effective as of Oct. 17, 2006, and as if included in the John Warner National Defense Authorization Act for Fiscal Year 2007, Pub. L. 109–364, as enacted.
 
 **Effective Date of 2003 Amendment**
 
@@ -2286,11 +2286,11 @@ Amendment by Pub. L. 94–412 not to affect any action taken or proceeding pendi
 
 **Lease Durations**
 
-Pub. L. 117–263, div. H, title LXXXI, § 8136, Dec. 23, 2022, 136 Stat. 3722, provided that: “The Secretary shall issue guidance on the circumstances under which a lease under section 2667 of title 10, United States Code, or section 4 of the Act of December 22, 1944 (16 U.S.C. 460d), with a term in excess of 25 years is appropriate and in the public interest.”
+Pub. L. 117–263, div. H, title LXXXI, § 8136, Dec. 23, 2022, 136 Stat. 3722, provided that: “The Secretary shall issue guidance on the circumstances under which a lease under section 2667 of title 10, United States Code, or section 4 of the Act of December 22, 1944 (16 U.S.C. 460d), with a term in excess of 25 years is appropriate and in the public interest.”
 
 **Temporary Installation Reutilization Authority for Arsenals, Depots, and Plants**
 
-Pub. L. 115–91, div. A, title III, § 345, Dec. 12, 2017, 131 Stat. 1363, as amended by Pub. L. 116–92, div. A, title III, § 354, Dec. 20, 2019, 133 Stat. 1321, provided that:
+Pub. L. 115–91, div. A, title III, § 345, Dec. 12, 2017, 131 Stat. 1363, as amended by Pub. L. 116–92, div. A, title III, § 354, Dec. 20, 2019, 133 Stat. 1321, provided that:
 
 > **“(a) Modified Authority.—** In the case of a military manufacturing arsenal, depot, or plant, the Secretary of the Army may authorize up to 10 leases and contracts per fiscal year under section 2667 of title 10, United States Code, for a term of up to 25 years, notwithstanding subsection (b)(1) of such section, if the Secretary determines that a lease or contract of that duration will promote the national defense for the purpose of—
 
@@ -2318,51 +2318,51 @@ Pub. L. 115–91, div. A, title III, § 345, Dec. 12, 2017, 131 Stat. 1363, as
 
 **Transfers From Special Accounts**
 
-Pub. L. 108–287, title VIII, § 8034, Aug. 5, 2004, 118 Stat. 978, provided that: “Amounts deposited during the current fiscal year and hereafter to the special account established under 40 U.S.C. 572(b)(5)(A) and to the special account established under 10 U.S.C. 2667(d)(1) [now 2667(e)(1)] are appropriated and shall be available until transferred by the Secretary of Defense to current applicable appropriations or funds of the Department of Defense under the terms and conditions specified by 40 U.S.C. 572(b)(5)(B) and 10 U.S.C. 2667(d)(1)(B) [now 2667(e)(1)(B)], to be merged with and to be available for the same time period and the same purposes as the appropriation to which transferred.”
+Pub. L. 108–287, title VIII, § 8034, Aug. 5, 2004, 118 Stat. 978, provided that: “Amounts deposited during the current fiscal year and hereafter to the special account established under 40 U.S.C. 572(b)(5)(A) and to the special account established under 10 U.S.C. 2667(d)(1) [now 2667(e)(1)] are appropriated and shall be available until transferred by the Secretary of Defense to current applicable appropriations or funds of the Department of Defense under the terms and conditions specified by 40 U.S.C. 572(b)(5)(B) and 10 U.S.C. 2667(d)(1)(B) [now 2667(e)(1)(B)], to be merged with and to be available for the same time period and the same purposes as the appropriation to which transferred.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 108–87, title VIII, § 8035, Sept. 30, 2003, 117 Stat. 1080.
+Pub. L. 108–87, title VIII, § 8035, Sept. 30, 2003, 117 Stat. 1080.
 
-Pub. L. 107–248, title VIII, § 8035, Oct. 23, 2002, 116 Stat. 1544.
+Pub. L. 107–248, title VIII, § 8035, Oct. 23, 2002, 116 Stat. 1544.
 
-Pub. L. 107–117, div. A, title VIII, § 8038, Jan. 10, 2002, 115 Stat. 2255.
+Pub. L. 107–117, div. A, title VIII, § 8038, Jan. 10, 2002, 115 Stat. 2255.
 
-Pub. L. 106–259, title VIII, § 8038, Aug. 9, 2000, 114 Stat. 682.
+Pub. L. 106–259, title VIII, § 8038, Aug. 9, 2000, 114 Stat. 682.
 
-Pub. L. 106–79, title VIII, § 8040, Oct. 25, 1999, 113 Stat. 1239.
+Pub. L. 106–79, title VIII, § 8040, Oct. 25, 1999, 113 Stat. 1239.
 
-Pub. L. 105–262, title VIII, § 8040, Oct. 17, 1998, 112 Stat. 2306.
+Pub. L. 105–262, title VIII, § 8040, Oct. 17, 1998, 112 Stat. 2306.
 
-Pub. L. 105–56, title VIII, § 8044, Oct. 8, 1997, 111 Stat. 1230.
+Pub. L. 105–56, title VIII, § 8044, Oct. 8, 1997, 111 Stat. 1230.
 
-Pub. L. 104–61, title VIII, § 8056, Dec. 1, 1995, 109 Stat. 663.
+Pub. L. 104–61, title VIII, § 8056, Dec. 1, 1995, 109 Stat. 663.
 
-Pub. L. 103–335, title VIII, § 8063, Sept. 30, 1994, 108 Stat. 2634.
+Pub. L. 103–335, title VIII, § 8063, Sept. 30, 1994, 108 Stat. 2634.
 
-Pub. L. 103–139, title VIII, § 8074, Nov. 11, 1993, 107 Stat. 1457.
+Pub. L. 103–139, title VIII, § 8074, Nov. 11, 1993, 107 Stat. 1457.
 
-Pub. L. 102–396, title IX, § 9107, Oct. 6, 1992, 106 Stat. 1927.
+Pub. L. 102–396, title IX, § 9107, Oct. 6, 1992, 106 Stat. 1927.
 
 **Leasing of Defense Property; Notification of Congress; Waiver; Report to Congress; Definition**
 
-Pub. L. 96–533, title I, § 109(a)–(e), Dec. 16, 1980, 94 Stat. 3137, provided that before the Secretary of a military department exercised his authority under section 2667 of title 10, United States Code, in order to lease defense property to a foreign government for a period of more than six months, the President had to transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate, a written notification of the particulars of the proposed lease, prior to repeal by Pub. L. 97–113, title I, § 109(d)(1), Dec. 29, 1981, 95 Stat. 1526. See section 2795 et seq. of Title 22, Foreign Relations and Intercourse.
+Pub. L. 96–533, title I, § 109(a)–(e), Dec. 16, 1980, 94 Stat. 3137, provided that before the Secretary of a military department exercised his authority under section 2667 of title 10, United States Code, in order to lease defense property to a foreign government for a period of more than six months, the President had to transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate, a written notification of the particulars of the proposed lease, prior to repeal by Pub. L. 97–113, title I, § 109(d)(1), Dec. 29, 1981, 95 Stat. 1526. See section 2795 et seq. of Title 22, Foreign Relations and Intercourse.
 
-## [§ 2667a. Repealed. Pub. L. 110–417, div. B, title XXVIII, § 2812(e)(1), Oct. 14, 2008, 122 Stat. 4727]
+## [§ 2667a. Repealed. Pub. L. 110–417, div. B, title XXVIII, § 2812(e)(1), Oct. 14, 2008, 122 Stat. 4727]
 
-Section, added Pub. L. 105–85, div. A, title X, § 1062(a), Nov. 18, 1997, 111 Stat. 1891; amended Pub. L. 107–217, § 3(b)(13), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 108–136, div. A, title X, § 1031(a)(28), Nov. 24, 2003, 117 Stat. 1599, related to leases of non-excess property of Defense agencies.
+Section, added Pub. L. 105–85, div. A, title X, § 1062(a), Nov. 18, 1997, 111 Stat. 1891; amended Pub. L. 107–217, § 3(b)(13), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 108–136, div. A, title X, § 1031(a)(28), Nov. 24, 2003, 117 Stat. 1599, related to leases of non-excess property of Defense agencies.
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2667a, added Pub. L. 98–115, title VIII, § 807(a)(1), Oct. 11, 1983, 97 Stat. 786, provided for sale and replacement of nonexcess real property, prior to repeal by Pub. L. 98–115, title VIII, § 807(c), Oct. 11, 1983, 97 Stat. 789, as amended by Pub. L. 99–167, title VIII, § 806(a), Dec. 3, 1985, 99 Stat. 988, effective Oct. 1, 1986.
+A prior section 2667a, added Pub. L. 98–115, title VIII, § 807(a)(1), Oct. 11, 1983, 97 Stat. 786, provided for sale and replacement of nonexcess real property, prior to repeal by Pub. L. 98–115, title VIII, § 807(c), Oct. 11, 1983, 97 Stat. 789, as amended by Pub. L. 99–167, title VIII, § 806(a), Dec. 3, 1985, 99 Stat. 988, effective Oct. 1, 1986.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Savings Provision**
 
-Pub. L. 110–417, div. B, title XXVIII, § 2812(e)(2), (3), Oct. 14, 2008, 122 Stat. 4727, provided that:
+Pub. L. 110–417, div. B, title XXVIII, § 2812(e)(2), (3), Oct. 14, 2008, 122 Stat. 4727, provided that:
 
 > **“(2) Effect on existing contracts.—** The repeal of section 2667a of title 10, United States Code, shall not affect the validity or terms of any lease with respect to property of a Defense Agency entered into by the Secretary of Defense under such section before the date of the enactment of this Act [Oct. 14, 2008].
 
@@ -2372,7 +2372,7 @@ Pub. L. 110–417, div. B, title XXVIII, § 2812(e)(2), (3), Oct. 14, 2008, 12
 
 > **“(B)** to the extent provided in appropriations Acts, be transferred to the special account required for the Secretary of Defense by subsection (e) of section 2667 of such title, as amended by subsection (d)(2) of this section.”
 
-## § 2668. Easements for rights-of-way
+## § 2668. Easements for rights-of-way
 
 **(a) Authorized Types of Easements.—** If the Secretary of a military department finds that it will not be against the public interest, the Secretary may grant, upon such terms as the Secretary considers advisable, easements for rights-of-way over, in, and upon public lands permanently withdrawn or reserved for the use of that department, and other lands under the Secretary’s control for—
 
@@ -2416,13 +2416,13 @@ Pub. L. 110–417, div. B, title XXVIII, § 2812(e)(2), (3), Oct. 14, 2008, 12
 
 **(e) Disposition of Consideration.—** Subsections (c) and (e) of section 2667 of this title shall apply with respect to in-kind consideration and proceeds received by the Secretary of a military department in connection with an easement granted under this section in the same manner as such subsections apply to in-kind consideration and money rentals received pursuant to leases entered into by that Secretary under such section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 98–525, title XIV, § 1405(38), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 104–201, div. B, title XXVIII, § 2861, Sept. 23, 1996, 110 Stat. 2804; Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2812(f)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–418; Pub. L. 108–136, div. B, title XXVIII, § 2813(a), Nov. 24, 2003, 117 Stat. 1725; Pub. L. 109–163, div. A, title X, § 1057(a)(3), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 109–364, div. B, title XXVIII, § 2822(a), (b), Oct. 17, 2006, 120 Stat. 2474, 2475; Pub. L. 110–181, div. A, title X, § 1063(a)(14), Jan. 28, 2008, 122 Stat. 322.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 150; Pub. L. 98–525, title XIV, § 1405(38), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 104–201, div. B, title XXVIII, § 2861, Sept. 23, 1996, 110 Stat. 2804; Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2812(f)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–418; Pub. L. 108–136, div. B, title XXVIII, § 2813(a), Nov. 24, 2003, 117 Stat. 1725; Pub. L. 109–163, div. A, title X, § 1057(a)(3), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 109–364, div. B, title XXVIII, § 2822(a), (b), Oct. 17, 2006, 120 Stat. 2474, 2475; Pub. L. 110–181, div. A, title X, § 1063(a)(14), Jan. 28, 2008, 122 Stat. 322.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2668(a)       2668(b) | 43:931b (less 2d and 3d provisos of 1st sentence, and less last sentence). 43:931b (2d proviso of 1st sentence). | July 24, 1946, ch. 596, § 7, 60 Stat. 643; Oct. 25, 1951, ch. 563, § 101 (31st through 43d words), 65 Stat. 641. |
+| 2668(a) 2668(b) | 43:931b (less 2d and 3d provisos of 1st sentence, and less last sentence). 43:931b (2d proviso of 1st sentence). | July 24, 1946, ch. 596, § 7, 60 Stat. 643; Oct. 25, 1951, ch. 563, § 101 (31st through 43d words), 65 Stat. 641. |
 | 2668(c) | 43:931b (3d proviso of 1st sentence). |  |
 | 2668(d) | 43:931b (last sentence) [43:931b is made applicable to the Navy by 50:171–1 (16th through 21st words)]. |  |
 
@@ -2440,31 +2440,31 @@ In subsection (c), the word “terminate” is substituted for the words “annu
 
 2008—Subsec. (e). Pub. L. 110–181 substituted “and (e)” for “and (d)”.
 
-2006—Subsec. (a). Pub. L. 109–364, § 2822(a)(1), (b)(1), inserted heading and, in introductory provisions, substituted “the Secretary may” for “he may”, “the Secretary considers” for “he considers”, and “the Secretary’s control” for “his control, to a State, Commonwealth, or possession, or political subdivision thereof, or to a citizen, association, partnership, or corporation of a State, Commonwealth, or possession,”.
+2006—Subsec. (a). Pub. L. 109–364, § 2822(a)(1), (b)(1), inserted heading and, in introductory provisions, substituted “the Secretary may” for “he may”, “the Secretary considers” for “he considers”, and “the Secretary’s control” for “his control, to a State, Commonwealth, or possession, or political subdivision thereof, or to a citizen, association, partnership, or corporation of a State, Commonwealth, or possession,”.
 
 Pub. L. 109–163 struck out “Territory,” after “a State,” in two places in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 109–364, § 2822(a)(2), substituted “gas, water, sewer, and oil pipe lines” for “oil pipe lines”.
+Subsec. (a)(2). Pub. L. 109–364, § 2822(a)(2), substituted “gas, water, sewer, and oil pipe lines” for “oil pipe lines”.
 
-Subsec. (a)(13). Pub. L. 109–364, § 2822(a)(3), substituted “the Secretary considers advisable” for “he considers advisable, except a purpose covered by section 2669 of this title”.
+Subsec. (a)(13). Pub. L. 109–364, § 2822(a)(3), substituted “the Secretary considers advisable” for “he considers advisable, except a purpose covered by section 2669 of this title”.
 
-Subsecs. (b) to (e). Pub. L. 109–364, § 2822(b)(2)–(5), inserted subsec. headings.
+Subsecs. (b) to (e). Pub. L. 109–364, § 2822(b)(2)–(5), inserted subsec. headings.
 
 2003—Subsec. (e). Pub. L. 108–136 substituted “Subsections (c) and (d)” for “Subsection (d)” and “subsections apply to in-kind consideration and” for “subsection applies to” and inserted “in-kind consideration and” before “proceeds”.
 
 2000—Subsec. (e). Pub. L. 106–398 added subsec. (e).
 
-1996—Subsec. (a)(3). Pub. L. 104–201, § 2861(b)(1), struck out “, telephone lines, and telegraph lines,” after “transmission lines”.
+1996—Subsec. (a)(3). Pub. L. 104–201, § 2861(b)(1), struck out “, telephone lines, and telegraph lines,” after “transmission lines”.
 
-Subsec. (a)(9). Pub. L. 104–201, § 2861(a)(1), struck out “and” at end.
+Subsec. (a)(9). Pub. L. 104–201, § 2861(a)(1), struck out “and” at end.
 
-Subsec. (a)(10) to (12). Pub. L. 104–201, § 2861(a)(3), added pars. (10) to (12). Former par. (10) redesignated (13).
+Subsec. (a)(10) to (12). Pub. L. 104–201, § 2861(a)(3), added pars. (10) to (12). Former par. (10) redesignated (13).
 
-Subsec. (a)(13). Pub. L. 104–201, § 2861(a)(2), (b)(2), redesignated par. (10) as (13) and struck out “or by the Act of March 4, 1911 (43 U.S.C. 961)” after “2669 of this title”.
+Subsec. (a)(13). Pub. L. 104–201, § 2861(a)(2), (b)(2), redesignated par. (10) as (13) and struck out “or by the Act of March 4, 1911 (43 U.S.C. 961)” after “2669 of this title”.
 
 1984—Subsec. (a)(10). Pub. L. 98–525 substituted “the Act of March 4, 1911 (43 U.S.C. 961)” for “section 961 of title 43”.
 
-## § 2668a. Easements: granting restrictive easements in connection with land conveyances
+## § 2668a. Easements: granting restrictive easements in connection with land conveyances
 
 **(a) Authority to Include Restrictive Easement.—** In connection with the conveyance of real property by the Secretary concerned under any provision of law, the Secretary concerned may grant an easement to an entity specified in subsection (b) restricting future uses of the conveyed real property for a conservation purpose consistent with section 170(h)(4)(A)(iv) of the Internal Revenue Code of 1986 (26 U.S.C. 170(h)(4)(A)(iv)).
 
@@ -2490,9 +2490,9 @@ Subsec. (a)(13). Pub. L. 104–201, § 2861(a)(2), (b)(2), redesignated par. (
 
 **(f) Terms and Conditions.—** The grant of an easement under this section shall be subject to such additional terms and conditions as the Secretary concerned considers appropriate to protect the interests of the United States.
 
-(Added Pub. L. 109–364, div. B, title XXVIII, § 2823(a), Oct. 17, 2006, 120 Stat. 2475.)
+(Added Pub. L. 109–364, div. B, title XXVIII, § 2823(a), Oct. 17, 2006, 120 Stat. 2475.)
 
-## § 2669. Transfer of land and facilities to support contracts with federally funded research and development centers
+## § 2669. Transfer of land and facilities to support contracts with federally funded research and development centers
 
 **(a) Lease of Land, Facilities, and Improvements.—**
 
@@ -2530,15 +2530,15 @@ Subsec. (a)(13). Pub. L. 104–201, § 2861(a)(2), (b)(2), redesignated par. (
 
 **(f) Covered FFRDC Defined.—** In this section, the term “covered FFRDC” means a federally funded research and development center that is sponsored by, and has entered into a contract with, the Department of Defense.
 
-(Added Pub. L. 117–263, div. B, title XXVIII, § 2831(a), Dec. 23, 2022, 136 Stat. 3002.)
+(Added Pub. L. 117–263, div. B, title XXVIII, § 2831(a), Dec. 23, 2022, 136 Stat. 3002.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2269, act Aug. 10, 1956, ch. 1041, 70A Stat. 151; Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2812(f)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–418; Pub. L. 108–136, div. B, title XXVIII, § 2813(b), Nov. 24, 2003, 117 Stat. 1725; Pub. L. 109–163, div. A, title X, § 1057(a)(3), Jan. 6, 2006, 119 Stat. 3440, related to easements for gas, water, and sewer pipe lines, prior to repeal by Pub. L. 109–364, div. B, title XXVIII, § 2822(c), Oct. 17, 2006, 120 Stat. 2475.
+A prior section 2269, act Aug. 10, 1956, ch. 1041, 70A Stat. 151; Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2812(f)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–418; Pub. L. 108–136, div. B, title XXVIII, § 2813(b), Nov. 24, 2003, 117 Stat. 1725; Pub. L. 109–163, div. A, title X, § 1057(a)(3), Jan. 6, 2006, 119 Stat. 3440, related to easements for gas, water, and sewer pipe lines, prior to repeal by Pub. L. 109–364, div. B, title XXVIII, § 2822(c), Oct. 17, 2006, 120 Stat. 2475.
 
-## § 2670. Use of facilities by private organizations; use as polling places
+## § 2670. Use of facilities by private organizations; use as polling places
 
 **(a) Use by Red Cross.—** Under such conditions as he may prescribe, the Secretary of any military department may issue a revocable license to the American National Red Cross to—
 
@@ -2568,13 +2568,13 @@ Supplies stored in buildings erected or used under this subsection are available
 
 **(3)** This subsection does not authorize the violation of measures of military security.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 151; Pub. L. 107–107, div. A, title XVI, § 1607(a)–(b)(2), Dec. 28, 2001, 115 Stat. 1279, 1280; Pub. L. 108–375, div. B, title XXVIII, § 2821(c)(1), (e)(2), Oct. 28, 2004, 118 Stat. 2129, 2130.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 151; Pub. L. 107–107, div. A, title XVI, § 1607(a)–(b)(2), Dec. 28, 2001, 115 Stat. 1279, 1280; Pub. L. 108–375, div. B, title XXVIII, § 2821(c)(1), (e)(2), Oct. 28, 2004, 118 Stat. 2129, 2130.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2670 | 36:12. | June 3, 1916, ch. 134, § 127a (5th par.); added June 4, 1920, ch. 227, subch. I, § 51 (5th par.); restated July 17, 1953, ch. 222, § 3, 67 Stat. 178. |
+| 2670 | 36:12. | June 3, 1916, ch. 134, § 127a (5th par.); added June 4, 1920, ch. 227, subch. I, § 51 (5th par.); restated July 17, 1953, ch. 222, § 3, 67 Stat. 178. |
 
 The word “issue” is substituted for the words “grant permission”. The word “use” is substituted for the words “occupy for that purpose”.
 
@@ -2582,9 +2582,9 @@ The word “issue” is substituted for the words “grant permission”. The wo
 
 **Amendments**
 
-2004—Pub. L. 108–375, § 2821(e)(2), substituted “Use of facilities by private organizations; use as polling places” for “Military installations: use by American National Red Cross; use as polling places” in section catchline.
+2004—Pub. L. 108–375, § 2821(e)(2), substituted “Use of facilities by private organizations; use as polling places” for “Military installations: use by American National Red Cross; use as polling places” in section catchline.
 
-Subsec. (c). Pub. L. 108–375, § 2821(c)(1), added subsec. (c).
+Subsec. (c). Pub. L. 108–375, § 2821(c)(1), added subsec. (c).
 
 2001—Pub. L. 107–107 substituted “Military installations: use by American National Red Cross; use as polling places” for “Licenses: military installations; erection and use of buildings; American National Red Cross” in section catchline, designated existing provisions as subsec. (a), inserted heading, substituted “this subsection” for “this section” in concluding provisions, and added subsec. (b).
 
@@ -2592,9 +2592,9 @@ Subsec. (c). Pub. L. 108–375, § 2821(c)(1), added subsec. (c).
 
 **Regulations**
 
-Pub. L. 108–375, div. B, title XXVIII, § 2821(c)(3), Oct. 28, 2004, 118 Stat. 2129, provided that: “The regulations prescribed to carry out [former] section 2679 of title 10, United States Code, as in effect on the day before the date of the enactment of this Act [Oct. 28, 2004], shall remain in effect with regard to section 2670(c) of such title, as added by paragraph (1), until changed by joint action of the Secretary concerned (as defined in section 101(9) of such title [now 10 U.S.C. 101(a)(9)]) and the Secretary of Veterans Affairs.”
+Pub. L. 108–375, div. B, title XXVIII, § 2821(c)(3), Oct. 28, 2004, 118 Stat. 2129, provided that: “The regulations prescribed to carry out [former] section 2679 of title 10, United States Code, as in effect on the day before the date of the enactment of this Act [Oct. 28, 2004], shall remain in effect with regard to section 2670(c) of such title, as added by paragraph (1), until changed by joint action of the Secretary concerned (as defined in section 101(9) of such title [now 10 U.S.C. 101(a)(9)]) and the Secretary of Veterans Affairs.”
 
-## § 2671. Military reservations and facilities: hunting, fishing, and trapping
+## § 2671. Military reservations and facilities: hunting, fishing, and trapping
 
 **(a) General Requirements for Hunting, Fishing, and Trapping.—** The Secretary of Defense shall, with respect to each military installation or facility under the jurisdiction of any military department in a State—
 
@@ -2616,7 +2616,7 @@ Pub. L. 108–375, div. B, title XXVIII, § 2821(c)(3), Oct. 28, 2004, 118 Sta
 
 **(e) Regulations.—** The Secretary of Defense shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 85–337, § 4(1), Feb. 28, 1958, 72 Stat. 29; amended Pub. L. 107–107, div. B, title XXVIII, § 2811, Dec. 28, 2001, 115 Stat. 1307; Pub. L. 109–163, div. A, title X, § 1057(a)(2), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 111–383, div. A, title X, § 1075(b)(42), Jan. 7, 2011, 124 Stat. 4371.)
+(Added Pub. L. 85–337, § 4(1), Feb. 28, 1958, 72 Stat. 29; amended Pub. L. 107–107, div. B, title XXVIII, § 2811, Dec. 28, 2001, 115 Stat. 1307; Pub. L. 109–163, div. A, title X, § 1057(a)(2), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 111–383, div. A, title X, § 1075(b)(42), Jan. 7, 2011, 124 Stat. 4371.)
 
 **Editorial Notes**
 
@@ -2626,23 +2626,23 @@ Pub. L. 108–375, div. B, title XXVIII, § 2821(c)(3), Oct. 28, 2004, 118 Sta
 
 2006—Subsecs. (a) to (c). Pub. L. 109–163 struck out “or Territory” after “State” wherever appearing.
 
-2001—Subsec. (a). Pub. L. 107–107, § 2811(b)(1), inserted heading.
+2001—Subsec. (a). Pub. L. 107–107, § 2811(b)(1), inserted heading.
 
-Subsec. (b). Pub. L. 107–107, § 2811(a)(2), added subsec. (b). Former subsec. (b) redesignated (e).
+Subsec. (b). Pub. L. 107–107, § 2811(a)(2), added subsec. (b). Former subsec. (b) redesignated (e).
 
-Subsec. (c). Pub. L. 107–107, § 2811(b)(2), inserted heading.
+Subsec. (c). Pub. L. 107–107, § 2811(b)(2), inserted heading.
 
-Subsec. (d). Pub. L. 107–107, § 2811(b)(3), inserted heading.
+Subsec. (d). Pub. L. 107–107, § 2811(b)(3), inserted heading.
 
-Subsec. (e). Pub. L. 107–107, § 2811(a)(1), redesignated subsec. (b) as (e), inserted heading, and transferred subsec. to end of section.
+Subsec. (e). Pub. L. 107–107, § 2811(a)(1), redesignated subsec. (b) as (e), inserted heading, and transferred subsec. to end of section.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Increased Hunting and Fishing Opportunities for Members of the Armed Forces, Retired Members, and Disabled Veterans**
 
-Pub. L. 109–364, div. A, title X, § 1077(a), Oct. 17, 2006, 120 Stat. 2406, provided that: “Consistent with section 2671 of title 10, United States Code, and using such funds as are made available for this purpose, the Secretary of Defense shall ensure that members of the Armed Forces, retired members, disabled veterans, and persons assisting disabled veterans are able to utilize lands under the jurisdiction of the Department of Defense that are available for hunting or fishing.”
+Pub. L. 109–364, div. A, title X, § 1077(a), Oct. 17, 2006, 120 Stat. 2406, provided that: “Consistent with section 2671 of title 10, United States Code, and using such funds as are made available for this purpose, the Secretary of Defense shall ensure that members of the Armed Forces, retired members, disabled veterans, and persons assisting disabled veterans are able to utilize lands under the jurisdiction of the Department of Defense that are available for hunting or fishing.”
 
-## § 2672. Protection of buildings, grounds, property, and persons
+## § 2672. Protection of buildings, grounds, property, and persons
 
 **(a) Secretary of Defense Responsibility.—** The Secretary of Defense shall protect the buildings, grounds, and property that are under the jurisdiction, custody, or control of the Department of Defense and the persons on that property.
 
@@ -2720,27 +2720,27 @@ Pub. L. 109–364, div. A, title X, § 1077(a), Oct. 17, 2006, 120 Stat. 2406,
 
 **(6)** to restrict the authority of the Director of the National Security Agency under section 11 of the National Security Agency Act of 1959 (50 U.S.C. 3609).
 
-(Added Pub. L. 114–92, div. B, title XXVIII, § 2811(a), Nov. 25, 2015, 129 Stat. 1172.)
+(Added Pub. L. 114–92, div. B, title XXVIII, § 2811(a), Nov. 25, 2015, 129 Stat. 1172.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Homeland Security Act of 2002, referred to in subsec. (*l*)(2), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter 1 (§ 101 et seq.) of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
+The Homeland Security Act of 2002, referred to in subsec. (*l*)(2), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter 1 (§ 101 et seq.) of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
 
 **Prior Provisions**
 
-A prior section 2672, added Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat. 1459; amended Pub. L. 87–651, title I, § 112(a), Sept. 7, 1962, 76 Stat. 511; Pub. L. 92–145, title VII, § 707(2), (3), Oct. 27, 1971, 85 Stat. 411; Pub. L. 96–418, title VIII, § 806(a), Oct. 10, 1980, 94 Stat. 1777; Pub. L. 99–167, title VIII, § 810(a), (b)(1), Dec. 3, 1985, 99 Stat. 989, 990; Pub. L. 99–661, div. A, title XIII, § 1343(a)(16), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 100–456, div. B, title XXVIII, § 2804, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 105–85, div. B, title XXVIII, § 2811(a), (b)(1), Nov. 18, 1997, 111 Stat. 1991; Pub. L. 108–136, div. B, title XXVIII, § 2811(a)–(b)(2), Nov. 24, 2003, 117 Stat. 1724, 1725; Pub. L. 108–375, div. B, title XXVIII, § 2821(d)(1), Oct. 28, 2004, 118 Stat. 2130; Pub. L. 109–163, div. B, title XXVIII, § 2821(a)(2), Jan. 6, 2006, 119 Stat. 3511, related to authority to acquire low-cost interests in land, prior to repeal by Pub. L. 109–163, div. B, title XXVIII, § 2821(f), Jan. 6, 2006, 119 Stat. 3513. See section 2663(c) of this title.
+A prior section 2672, added Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat. 1459; amended Pub. L. 87–651, title I, § 112(a), Sept. 7, 1962, 76 Stat. 511; Pub. L. 92–145, title VII, § 707(2), (3), Oct. 27, 1971, 85 Stat. 411; Pub. L. 96–418, title VIII, § 806(a), Oct. 10, 1980, 94 Stat. 1777; Pub. L. 99–167, title VIII, § 810(a), (b)(1), Dec. 3, 1985, 99 Stat. 989, 990; Pub. L. 99–661, div. A, title XIII, § 1343(a)(16), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 100–456, div. B, title XXVIII, § 2804, Sept. 29, 1988, 102 Stat. 2115; Pub. L. 105–85, div. B, title XXVIII, § 2811(a), (b)(1), Nov. 18, 1997, 111 Stat. 1991; Pub. L. 108–136, div. B, title XXVIII, § 2811(a)–(b)(2), Nov. 24, 2003, 117 Stat. 1724, 1725; Pub. L. 108–375, div. B, title XXVIII, § 2821(d)(1), Oct. 28, 2004, 118 Stat. 2130; Pub. L. 109–163, div. B, title XXVIII, § 2821(a)(2), Jan. 6, 2006, 119 Stat. 3511, related to authority to acquire low-cost interests in land, prior to repeal by Pub. L. 109–163, div. B, title XXVIII, § 2821(f), Jan. 6, 2006, 119 Stat. 3513. See section 2663(c) of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Notification of Military Sex Offenders at Military Installations**
 
-Pub. L. 119–60, div. A, title V, § 565(a), Dec. 18, 2025, 139 Stat. 883, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall establish and implement a policy to ensure that registered sex offenders who reside or work on military installations are identified to the respective military community, including, as necessary, through agreements with State and local law enforcement agencies.”
+Pub. L. 119–60, div. A, title V, § 565(a), Dec. 18, 2025, 139 Stat. 883, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall establish and implement a policy to ensure that registered sex offenders who reside or work on military installations are identified to the respective military community, including, as necessary, through agreements with State and local law enforcement agencies.”
 
 **Pilot Program on Safe Storage of Personally Owned Firearms**
 
-Pub. L. 117–263, div. A, title V, § 595, Dec. 23, 2022, 136 Stat. 2613, provided that:
+Pub. L. 117–263, div. A, title V, § 595, Dec. 23, 2022, 136 Stat. 2613, provided that:
 
 > **“(a) Establishment.—** The Secretary of Defense shall establish a pilot program to promote the safe storage of personally owned firearms.
 
@@ -2772,7 +2772,7 @@ Pub. L. 117–263, div. A, title V, § 595, Dec. 23, 2022, 136 Stat. 2613, pro
 
 **Standardized Credentials for Law Enforcement Officers of the Department of Defense**
 
-Pub. L. 117–263, div. A, title XI, § 1104, Dec. 23, 2022, 136 Stat. 2816, provided that:
+Pub. L. 117–263, div. A, title XI, § 1104, Dec. 23, 2022, 136 Stat. 2816, provided that:
 
 > **“(a) Standardized Credentials Required.—** Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall ensure that—
 
@@ -2792,7 +2792,7 @@ Pub. L. 117–263, div. A, title XI, § 1104, Dec. 23, 2022, 136 Stat. 2816, p
 
 **Requirement That Secretary of Defense Implement Security and Emergency Response Recommendations Relating to Active Shooter or Terrorist Attacks on Installations of Department of Defense**
 
-Pub. L. 116–283, div. A, title III, § 368, Jan. 1, 2021, 134 Stat. 3552, provided that:
+Pub. L. 116–283, div. A, title III, § 368, Jan. 1, 2021, 134 Stat. 3552, provided that:
 
 > **“(a) Requirement.—** Not later than 90 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall implement the applicable security and emergency response recommendations relating to active shooter or terrorist attacks on installations of the Department of Defense made in the following reports:
 
@@ -2814,7 +2814,7 @@ Pub. L. 116–283, div. A, title III, § 368, Jan. 1, 2021, 134 Stat. 3552, pr
 
 **Department of Defense Policy for Regulation in Military Communities of Dangerous Dogs Kept as Pets**
 
-Pub. L. 116–283, div. B, title XXVIII, § 2884, Jan. 1, 2021, 134 Stat. 4372, provided that:
+Pub. L. 116–283, div. B, title XXVIII, § 2884, Jan. 1, 2021, 134 Stat. 4372, provided that:
 
 > **“(a) Policy Required.—** Not later than 90 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall establish a uniform policy for the regulation of dangerous dogs kept as pets in military communities.
 
@@ -2852,19 +2852,19 @@ Pub. L. 116–283, div. B, title XXVIII, § 2884, Jan. 1, 2021, 134 Stat. 4372
 
 **Establishment of Process by Which Members of the Armed Forces May Carry an Appropriate Firearm on a Military Installation**
 
-Pub. L. 114–92, div. A, title V, § 526, Nov. 25, 2015, 129 Stat. 813, provided that: “Not later than December 31, 2015, the Secretary of Defense, taking into consideration the views of senior leadership of military installations in the United States, shall establish and implement a process by which the commanders of military installations in the United States, or other military commanders designated by the Secretary of Defense for military reserve centers, Armed Services recruiting centers, and such other defense facilities as the Secretary may prescribe, may authorize a member of the Armed Forces who is assigned to duty at the installation, center or facility to carry an appropriate firearm on the installation, center, or facility if the commander determines that carrying such a firearm is necessary as a personal- or force-protection measure.”
+Pub. L. 114–92, div. A, title V, § 526, Nov. 25, 2015, 129 Stat. 813, provided that: “Not later than December 31, 2015, the Secretary of Defense, taking into consideration the views of senior leadership of military installations in the United States, shall establish and implement a process by which the commanders of military installations in the United States, or other military commanders designated by the Secretary of Defense for military reserve centers, Armed Services recruiting centers, and such other defense facilities as the Secretary may prescribe, may authorize a member of the Armed Forces who is assigned to duty at the installation, center or facility to carry an appropriate firearm on the installation, center, or facility if the commander determines that carrying such a firearm is necessary as a personal- or force-protection measure.”
 
-## [§ 2672a. Repealed. Pub. L. 109–163, div. B, title XXVIII, § 2821(f), Jan. 6, 2006, 119 Stat. 3513]
+## [§ 2672a. Repealed. Pub. L. 109–163, div. B, title XXVIII, § 2821(f), Jan. 6, 2006, 119 Stat. 3513]
 
-Section, added Pub. L. 94–107, title VI, § 607(8), Oct. 7, 1975, 89 Stat. 566; amended Pub. L. 98–525, title XIV, § 1405(39), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 104–106, div. A, title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, § 1031(a)(29), Nov. 24, 2003, 117 Stat. 1599; Pub. L. 108–375, div. A, title X, § 1084(d)(23), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–163, div. B, title XXVIII, § 2821(a)(6), Jan. 6, 2006, 119 Stat. 3511, related to acquisition of interests in land when need is urgent. See section 2663(d) of this title.
+Section, added Pub. L. 94–107, title VI, § 607(8), Oct. 7, 1975, 89 Stat. 566; amended Pub. L. 98–525, title XIV, § 1405(39), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 104–106, div. A, title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, § 1031(a)(29), Nov. 24, 2003, 117 Stat. 1599; Pub. L. 108–375, div. A, title X, § 1084(d)(23), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–163, div. B, title XXVIII, § 2821(a)(6), Jan. 6, 2006, 119 Stat. 3511, related to acquisition of interests in land when need is urgent. See section 2663(d) of this title.
 
-## [§ 2673. Repealed. Pub. L. 108–375, div. B, title XXVIII, § 2821(d)(2), Oct. 28, 2004, 118 Stat. 2130]
+## [§ 2673. Repealed. Pub. L. 108–375, div. B, title XXVIII, § 2821(d)(2), Oct. 28, 2004, 118 Stat. 2130]
 
-Section, added Pub. L. 100–370, § 1(*l*)(1), July 19, 1988, 102 Stat. 849, related to availability of funds for acquisition of certain interests in land.
+Section, added Pub. L. 100–370, § 1(*l*)(1), July 19, 1988, 102 Stat. 849, related to availability of funds for acquisition of certain interests in land.
 
-A prior section 2673, added Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat. 1459, related to restoration or replacement of facilities damaged or destroyed, prior to repeal by Pub. L. 97–214, § 7(1), July 12, 1982, 96 Stat. 173, eff. Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See section 2854 of this title.
+A prior section 2673, added Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat. 1459, related to restoration or replacement of facilities damaged or destroyed, prior to repeal by Pub. L. 97–214, § 7(1), July 12, 1982, 96 Stat. 173, eff. Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See section 2854 of this title.
 
-## § 2674. Operation and control of Pentagon Reservation and defense facilities in National Capital Region
+## § 2674. Operation and control of Pentagon Reservation and defense facilities in National Capital Region
 
 **(a) Pentagon Reservation.—** The Secretary of Defense has jurisdiction, custody, and control over, and responsibility for, the operation, maintenance, and management of the Pentagon Reservation.
 
@@ -2928,67 +2928,67 @@ A prior section 2673, added Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat
 
 **(5)** The term “Raven Rock Mountain Complex” means that area of land (consisting of approximately 720 acres) and improvements thereon, including parking areas, at the Raven Rock Mountain Complex and its supporting facilities located in Maryland and Pennsylvania.
 
-(Added Pub. L. 101–510, div. B, title XXVIII, § 2804(a)(1), Nov. 5, 1990, 104 Stat. 1784; amended Pub. L. 102–190, div. A, title X, § 1061(a)(18), div. B, title XXVIII, § 2864, Dec. 5, 1991, 105 Stat. 1473, 1561; Pub. L. 104–106, div. A, title XV, § 1502(a)(24), Feb. 10, 1996, 110 Stat. 505; Pub. L. 104–201, div. A, title III, § 369(a), (b)(1), Sept. 23, 1996, 110 Stat. 2498; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title XI, § 1101, Dec. 28, 2001, 115 Stat. 1234; Pub. L. 108–136, div. A, title IX, § 933, Nov. 24, 2003, 117 Stat. 1581; Pub. L. 111–383, div. B, title XXVIII, § 2802, Jan. 7, 2011, 124 Stat. 4458; Pub. L. 112–81, div. B, title XXVIII, § 2811, Dec. 31, 2011, 125 Stat. 1686; Pub. L. 114–328, div. A, title IX, § 952(a), (b), div. B, title XXVIII, § 2829E, Dec. 23, 2016, 130 Stat. 2374, 2375, 2733; Pub. L. 115–91, div. A, title X, § 1081(d)(16), Dec. 12, 2017, 131 Stat. 1600.)
+(Added Pub. L. 101–510, div. B, title XXVIII, § 2804(a)(1), Nov. 5, 1990, 104 Stat. 1784; amended Pub. L. 102–190, div. A, title X, § 1061(a)(18), div. B, title XXVIII, § 2864, Dec. 5, 1991, 105 Stat. 1473, 1561; Pub. L. 104–106, div. A, title XV, § 1502(a)(24), Feb. 10, 1996, 110 Stat. 505; Pub. L. 104–201, div. A, title III, § 369(a), (b)(1), Sept. 23, 1996, 110 Stat. 2498; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title XI, § 1101, Dec. 28, 2001, 115 Stat. 1234; Pub. L. 108–136, div. A, title IX, § 933, Nov. 24, 2003, 117 Stat. 1581; Pub. L. 111–383, div. B, title XXVIII, § 2802, Jan. 7, 2011, 124 Stat. 4458; Pub. L. 112–81, div. B, title XXVIII, § 2811, Dec. 31, 2011, 125 Stat. 1686; Pub. L. 114–328, div. A, title IX, § 952(a), (b), div. B, title XXVIII, § 2829E, Dec. 23, 2016, 130 Stat. 2374, 2375, 2733; Pub. L. 115–91, div. A, title X, § 1081(d)(16), Dec. 12, 2017, 131 Stat. 1600.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2674, added Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat. 1459; amended Pub. L. 87–651, title I, § 112(b), Sept. 7, 1962, 76 Stat. 511; Pub. L. 88–174, title VI, § 608, Nov. 7, 1963, 77 Stat. 328; Pub. L. 89–188, title VI, § 613, Sept. 16, 1965, 79 Stat. 819; Pub. L. 89–568, title VI, § 608, Sept. 12, 1966, 80 Stat. 756; Pub. L. 91–511, title VI, § 607(2)–(4), Oct. 26, 1970, 84 Stat. 1224; Pub. L. 92–145, title VII, § 707(1), Oct. 27, 1971, 85 Stat. 411; Pub. L. 93–166, title VI, § 608(1), Nov. 29, 1973, 87 Stat. 682; Pub. L. 94–107, title VI, § 607(2)–(4), Oct. 7, 1975, 89 Stat. 566; Pub. L. 95–82, title VI, § 608(a), Aug. 1, 1977, 91 Stat. 377; Pub. L. 95–356, title VI, § 603(h)(1), Sept. 8, 1978, 92 Stat. 582; Pub. L. 96–125, title VIII, § 801, Nov. 26, 1979, 93 Stat. 947; Pub. L. 97–99, title IX, § 907, Dec. 23, 1981, 95 Stat. 1385, related to minor construction projects, prior to repeal by Pub. L. 97–214, §§ 7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See section 2805 of this title.
+A prior section 2674, added Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat. 1459; amended Pub. L. 87–651, title I, § 112(b), Sept. 7, 1962, 76 Stat. 511; Pub. L. 88–174, title VI, § 608, Nov. 7, 1963, 77 Stat. 328; Pub. L. 89–188, title VI, § 613, Sept. 16, 1965, 79 Stat. 819; Pub. L. 89–568, title VI, § 608, Sept. 12, 1966, 80 Stat. 756; Pub. L. 91–511, title VI, § 607(2)–(4), Oct. 26, 1970, 84 Stat. 1224; Pub. L. 92–145, title VII, § 707(1), Oct. 27, 1971, 85 Stat. 411; Pub. L. 93–166, title VI, § 608(1), Nov. 29, 1973, 87 Stat. 682; Pub. L. 94–107, title VI, § 607(2)–(4), Oct. 7, 1975, 89 Stat. 566; Pub. L. 95–82, title VI, § 608(a), Aug. 1, 1977, 91 Stat. 377; Pub. L. 95–356, title VI, § 603(h)(1), Sept. 8, 1978, 92 Stat. 582; Pub. L. 96–125, title VIII, § 801, Nov. 26, 1979, 93 Stat. 947; Pub. L. 97–99, title IX, § 907, Dec. 23, 1981, 95 Stat. 1385, related to minor construction projects, prior to repeal by Pub. L. 97–214, §§ 7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See section 2805 of this title.
 
 **References in Text**
 
-The Homeland Security Act of 2002, referred to in subsec. (b)(4)(B), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter 1 (§ 101 et seq.) of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
+The Homeland Security Act of 2002, referred to in subsec. (b)(4)(B), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter 1 (§ 101 et seq.) of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
 
 The date of the enactment of this paragraph, referred to in subsec. (f)(4), is the date of enactment of Pub. L. 114–328, which was approved Dec. 23, 2016.
 
 **Amendments**
 
-2017—Subsec. (b)(1). Pub. L. 115–91, § 1081(d)(16), repealed Pub. L. 114–328, § 2829E(a)(3). See 2016 Amendment note below.
+2017—Subsec. (b)(1). Pub. L. 115–91, § 1081(d)(16), repealed Pub. L. 114–328, § 2829E(a)(3). See 2016 Amendment note below.
 
-2016—Subsec. (a). Pub. L. 114–328, § 2829E(d)(1), inserted heading.
+2016—Subsec. (a). Pub. L. 114–328, § 2829E(d)(1), inserted heading.
 
-Pub. L. 114–328, § 2829E(c), struck out par. (1) designation after subsec. (a) designation and struck out pars. (2) and (3) which related to annual report on the state of the renovation of the Pentagon Reservation for specified congressional committees.
+Pub. L. 114–328, § 2829E(c), struck out par. (1) designation after subsec. (a) designation and struck out pars. (2) and (3) which related to annual report on the state of the renovation of the Pentagon Reservation for specified congressional committees.
 
-Pub. L. 114–328, § 2829E(b), substituted “The Secretary of Defense has jurisdiction” for “Jurisdiction” and struck out “is transferred to the Secretary of Defense” after “management of the Pentagon Reservation”.
+Pub. L. 114–328, § 2829E(b), substituted “The Secretary of Defense has jurisdiction” for “Jurisdiction” and struck out “is transferred to the Secretary of Defense” after “management of the Pentagon Reservation”.
 
-Subsec. (b). Pub. L. 114–328, § 2829E(d)(2), inserted heading.
+Subsec. (b). Pub. L. 114–328, § 2829E(d)(2), inserted heading.
 
-Subsec. (b)(1). Pub. L. 114–328, § 2829E(a)(3), which directed insertion of “for the Pentagon Reservation and” after “law enforcement and security functions” and could not be executed, was repealed by Pub. L. 115–91, § 1081(d)(16).
+Subsec. (b)(1). Pub. L. 114–328, § 2829E(a)(3), which directed insertion of “for the Pentagon Reservation and” after “law enforcement and security functions” and could not be executed, was repealed by Pub. L. 115–91, § 1081(d)(16).
 
-Pub. L. 114–328, § 952(a)(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows “The Secretary may appoint military or civilian personnel or contract personnel to perform law enforcement and security functions for property occupied by, or under the jurisdiction, custody, and control of the Department of Defense, and located in the National Capital Region. Such individuals—
+Pub. L. 114–328, § 952(a)(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows “The Secretary may appoint military or civilian personnel or contract personnel to perform law enforcement and security functions for property occupied by, or under the jurisdiction, custody, and control of the Department of Defense, and located in the National Capital Region. Such individuals—
 
 “(A) may be armed with appropriate firearms required for personal safety and for the proper execution of their duties, whether on Department of Defense property or in travel status; and
 
 “(B) shall have the same powers (other than the service of civil process) as sheriffs and constables upon the property referred to in the first sentence to enforce the laws enacted for the protection of persons and property, to prevent breaches of the peace and suppress affrays or unlawful assemblies, and to enforce any rules or regulations with respect to such property prescribed by duly authorized officials.”
 
-Subsec. (b)(2). Pub. L. 114–328, § 952(a)(2), added par. (2). Former par. (2) redesignated (5).
+Subsec. (b)(2). Pub. L. 114–328, § 952(a)(2), added par. (2). Former par. (2) redesignated (5).
 
-Subsec. (b)(3), (4). Pub. L. 114–328, § 952(a)(2), added pars. (3) and (4).
+Subsec. (b)(3), (4). Pub. L. 114–328, § 952(a)(2), added pars. (3) and (4).
 
-Subsec. (b)(5). Pub. L. 114–328, § 952(a)(1), (b), redesignated par. (2) as (5) and inserted “, whichever is greater” before period at end.
+Subsec. (b)(5). Pub. L. 114–328, § 952(a)(1), (b), redesignated par. (2) as (5) and inserted “, whichever is greater” before period at end.
 
-Subsec. (c). Pub. L. 114–328, § 2829E(d)(3), inserted heading.
+Subsec. (c). Pub. L. 114–328, § 2829E(d)(3), inserted heading.
 
-Subsec. (d). Pub. L. 114–328, § 2829E(d)(4), inserted heading.
+Subsec. (d). Pub. L. 114–328, § 2829E(d)(4), inserted heading.
 
-Subsec. (e). Pub. L. 114–328, § 2829E(d)(5), inserted heading.
+Subsec. (e). Pub. L. 114–328, § 2829E(d)(5), inserted heading.
 
-Subsec. (f). Pub. L. 114–328, § 2829E(d)(6), inserted heading.
+Subsec. (f). Pub. L. 114–328, § 2829E(d)(6), inserted heading.
 
-Subsec. (f)(1). Pub. L. 114–328, § 2829E(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘Pentagon Reservation’ means that area of land (consisting of approximately 280 acres) and improvements thereon, located in Arlington, Virginia, on which the Pentagon Office Building, Federal Building Number 2, the Pentagon heating and sewage treatment plants, and other related facilities are located, including various areas designated for the parking of vehicles.”
+Subsec. (f)(1). Pub. L. 114–328, § 2829E(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘Pentagon Reservation’ means that area of land (consisting of approximately 280 acres) and improvements thereon, located in Arlington, Virginia, on which the Pentagon Office Building, Federal Building Number 2, the Pentagon heating and sewage treatment plants, and other related facilities are located, including various areas designated for the parking of vehicles.”
 
-Subsec. (f)(3) to (5). Pub. L. 114–328, § 2829E(a)(2), added pars. (3) to (5).
+Subsec. (f)(3) to (5). Pub. L. 114–328, § 2829E(a)(2), added pars. (3) to (5).
 
-Subsec. (g). Pub. L. 114–328, § 2829E(a)(4), struck out subsec. (g) which read as follows: “For purposes of subsections (b), (c), (d), and (e), the terms ‘Pentagon Reservation’ and ‘National Capital Region’ shall be treated as including the land and physical facilities at the Raven Rock Mountain Complex.”
+Subsec. (g). Pub. L. 114–328, § 2829E(a)(4), struck out subsec. (g) which read as follows: “For purposes of subsections (b), (c), (d), and (e), the terms ‘Pentagon Reservation’ and ‘National Capital Region’ shall be treated as including the land and physical facilities at the Raven Rock Mountain Complex.”
 
-2011—Subsec. (e)(2). Pub. L. 111–383, § 2802(1), substituted “Subject to paragraphs (3) and (4), monies” for “Monies”.
+2011—Subsec. (e)(2). Pub. L. 111–383, § 2802(1), substituted “Subject to paragraphs (3) and (4), monies” for “Monies”.
 
-Subsec. (e)(3). Pub. L. 111–383, § 2802(2), added par. (3).
+Subsec. (e)(3). Pub. L. 111–383, § 2802(2), added par. (3).
 
 Subsec. (e)(4). Pub. L. 112–81 designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), the authority” for “The authority”, and added subpar. (B).
 
-Pub. L. 111–383, § 2802(2), added par. (4).
+Pub. L. 111–383, § 2802(2), added par. (4).
 
 2003—Subsec. (g). Pub. L. 108–136 added subsec. (g).
 
@@ -2996,23 +2996,23 @@ Pub. L. 111–383, § 2802(2), added par. (4).
 
 1999—Subsec. (a)(3)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
-1996—Pub. L. 104–201, § 369(b)(1), substituted “of Pentagon Reservation and defense facilities in National Capital Region” for “of the Pentagon Reservation” in section catchline.
+1996—Pub. L. 104–201, § 369(b)(1), substituted “of Pentagon Reservation and defense facilities in National Capital Region” for “of the Pentagon Reservation” in section catchline.
 
-Subsec. (a)(2). Pub. L. 104–106, § 1502(a)(24)(A), substituted “congressional committees specified in paragraph (3)” for “Committees on Armed Services of the Senate and the House of Representatives, the Committee on Environment and Public Works of the Senate, and the Committee on Public Works and Transportation of the House of Representatives”.
+Subsec. (a)(2). Pub. L. 104–106, § 1502(a)(24)(A), substituted “congressional committees specified in paragraph (3)” for “Committees on Armed Services of the Senate and the House of Representatives, the Committee on Environment and Public Works of the Senate, and the Committee on Public Works and Transportation of the House of Representatives”.
 
-Subsec. (a)(3). Pub. L. 104–106, § 1502(a)(24)(B), added par. (3).
+Subsec. (a)(3). Pub. L. 104–106, § 1502(a)(24)(B), added par. (3).
 
-Subsec. (b). Pub. L. 104–201, § 369(a), substituted “in the National Capital Region” for “at the Pentagon Reservation”.
+Subsec. (b). Pub. L. 104–201, § 369(a), substituted “in the National Capital Region” for “at the Pentagon Reservation”.
 
-1991—Subsec. (b)(2). Pub. L. 102–190, § 2864, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “shall have the same powers as sheriffs and constables to enforce the laws, rules, or regulations enacted for the protection of persons and property.”
+1991—Subsec. (b)(2). Pub. L. 102–190, § 2864, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “shall have the same powers as sheriffs and constables to enforce the laws, rules, or regulations enacted for the protection of persons and property.”
 
-Subsec. (c)(3). Pub. L. 102–190, § 1061(a)(18), substituted “misdemeanor” for “misdeameanor”.
+Subsec. (c)(3). Pub. L. 102–190, § 1061(a)(18), substituted “misdemeanor” for “misdeameanor”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–91, div. A, title X, § 1081(d), Dec. 12, 2017, 131 Stat. 1599, provided that the amendment made by section 1081(d)(16) is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted.
+Pub. L. 115–91, div. A, title X, § 1081(d), Dec. 12, 2017, 131 Stat. 1599, provided that the amendment made by section 1081(d)(16) is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted.
 
 **Transfer of Functions**
 
@@ -3020,7 +3020,7 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 
 **Cost of Pentagon Renovation**
 
-Pub. L. 108–287, title VIII, § 8055, Aug. 5, 2004, 118 Stat. 982, provided that:
+Pub. L. 108–287, title VIII, § 8055, Aug. 5, 2004, 118 Stat. 982, provided that:
 
 > **“(a) Limitation on Pentagon Renovation Costs.—** Not later than the date each year on which the President submits to Congress the budget under section 1105 of title 31, United States Code, the Secretary of Defense shall submit to Congress a certification that the total cost for the planning, design, construction, and installation of equipment for the renovation of wedges 2 through 5 of the Pentagon Reservation, cumulatively, will not exceed four times the total cost for the planning, design, construction, and installation of equipment for the renovation of wedge 1.
 
@@ -3044,15 +3044,15 @@ Pub. L. 108–287, title VIII, § 8055, Aug. 5, 2004, 118 Stat. 982, provided 
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 108–87, title VIII, § 8055, Sept. 30, 2003, 117 Stat. 1084.
+Pub. L. 108–87, title VIII, § 8055, Sept. 30, 2003, 117 Stat. 1084.
 
-Pub. L. 107–248, title VIII, § 8056, Oct. 23, 2002, 116 Stat. 1549.
+Pub. L. 107–248, title VIII, § 8056, Oct. 23, 2002, 116 Stat. 1549.
 
-Pub. L. 107–117, div. A, title VIII, § 8060, Jan. 10, 2002, 115 Stat. 2260.
+Pub. L. 107–117, div. A, title VIII, § 8060, Jan. 10, 2002, 115 Stat. 2260.
 
 **Establishment of Memorial to Victims of Terrorist Attack on Pentagon Reservation and Authority to Accept Monetary Contributions for Memorial and Repair of Pentagon**
 
-Pub. L. 107–107, div. B, title XXVIII, § 2864, Dec. 28, 2001, 115 Stat. 1333, provided that:
+Pub. L. 107–107, div. B, title XXVIII, § 2864, Dec. 28, 2001, 115 Stat. 1333, provided that:
 
 > **“(a) Memorial Authorized.—** The Secretary of Defense may establish a memorial at the Pentagon Reservation dedicated to the victims of the terrorist attack on the Pentagon that occurred on September 11, 2001. The Secretary shall use necessary amounts in the Pentagon Reservation Maintenance Revolving Fund established by section 2674(e) of title 10, United States Code, including amounts deposited in the Fund under subsection (c), to plan, design, construct, and maintain the memorial.
 
@@ -3064,19 +3064,19 @@ Pub. L. 107–107, div. B, title XXVIII, § 2864, Dec. 28, 2001, 115 Stat. 133
 
 > **“(c) Deposit of Contributions.—** The Secretary of Defense shall deposit contributions accepted under subsection (b) in the Pentagon Reservation Maintenance Revolving Fund. The contributions shall be available for expenditure only for the purposes specified in subsection (b).”
 
-## § 2675. Leases: foreign countries
+## § 2675. Leases: foreign countries
 
 **(a) Lease Authority; Duration.—** The Secretary of a military department may acquire by lease in foreign countries structures and real property relating to structures that are needed for military purposes other than for military family housing. A lease under this section may be for a period of up to 10 years, or 15 years in the case of a lease in Korea, and the rental for each yearly period may be paid from funds appropriated to that military department for that year.
 
 **(b) Availability of Funds.—** Appropriations available to the Department of Defense for operation and maintenance or construction may be used for the acquisition of interests in land under this section.
 
-(Added Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat. 1460; amended Pub. L. 91–511, title VI, § 608, Oct. 26, 1970, 84 Stat. 1224; Pub. L. 94–107, title VI, § 607(10), (11), Oct. 7, 1975, 89 Stat. 567; Pub. L. 95–82, title V, § 505(a), Aug. 1, 1977, 91 Stat. 371; Pub. L. 95–356, title V, § 503(b), Sept. 8, 1978, 92 Stat. 579; Pub. L. 96–125, title V, § 502(b), Nov. 26, 1979, 93 Stat. 940; Pub. L. 96–418, title V, § 504(b), Oct. 10, 1980, 94 Stat. 1765; Pub. L. 97–99, title VI, § 604, Dec. 23, 1981, 95 Stat. 1374; Pub. L. 97–214, § 8, July 12, 1982, 96 Stat. 174; Pub. L. 98–525, title XIV, § 1405(40), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 101–510, div. A, title XIII, § 1322(a)(11), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 108–136, div. B, title XXVIII, § 2804(b), Nov. 24, 2003, 117 Stat. 1719; Pub. L. 108–375, div. B, title XXVIII, § 2821(d)(3), Oct. 28, 2004, 118 Stat. 2130; Pub. L. 109–364, div. B, title XXVIII, § 2824, Oct. 17, 2006, 120 Stat. 2476.)
+(Added Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat. 1460; amended Pub. L. 91–511, title VI, § 608, Oct. 26, 1970, 84 Stat. 1224; Pub. L. 94–107, title VI, § 607(10), (11), Oct. 7, 1975, 89 Stat. 567; Pub. L. 95–82, title V, § 505(a), Aug. 1, 1977, 91 Stat. 371; Pub. L. 95–356, title V, § 503(b), Sept. 8, 1978, 92 Stat. 579; Pub. L. 96–125, title V, § 502(b), Nov. 26, 1979, 93 Stat. 940; Pub. L. 96–418, title V, § 504(b), Oct. 10, 1980, 94 Stat. 1765; Pub. L. 97–99, title VI, § 604, Dec. 23, 1981, 95 Stat. 1374; Pub. L. 97–214, § 8, July 12, 1982, 96 Stat. 174; Pub. L. 98–525, title XIV, § 1405(40), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 101–510, div. A, title XIII, § 1322(a)(11), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 108–136, div. B, title XXVIII, § 2804(b), Nov. 24, 2003, 117 Stat. 1719; Pub. L. 108–375, div. B, title XXVIII, § 2821(d)(3), Oct. 28, 2004, 118 Stat. 2130; Pub. L. 109–364, div. B, title XXVIII, § 2824, Oct. 17, 2006, 120 Stat. 2476.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2675 | 5:171z–3. | Aug. 3, 1956, ch. 939, § 417, 70 Stat. 1018. |
+| 2675 | 5:171z–3. | Aug. 3, 1956, ch. 939, § 417, 70 Stat. 1018. |
 
 The words “that are not located on a military base” are substituted for the words “off-base”.
 
@@ -3094,31 +3094,31 @@ The words “that are not located on a military base” are substituted for the 
 
 1984—Subsec. (b). Pub. L. 98–525 substituted “30” for “thirty”.
 
-1982—Subsec. (a). Pub. L. 97–214, § 8(a), substituted provisions that the Secretary of a military department may acquire by lease in foreign countries, structures and real property needed for military purposes other than for military family housing for up to a period of five years with the rental to be paid from funds appropriated to that military department for that year, for former provisions that had allowed such leases including leases for military family housing and in the latter case for a period of up to 10 years.
+1982—Subsec. (a). Pub. L. 97–214, § 8(a), substituted provisions that the Secretary of a military department may acquire by lease in foreign countries, structures and real property needed for military purposes other than for military family housing for up to a period of five years with the rental to be paid from funds appropriated to that military department for that year, for former provisions that had allowed such leases including leases for military family housing and in the latter case for a period of up to 10 years.
 
-Subsec. (b). Pub. L. 97–214, § 8(b), struck out “or any other provision of law” after “into under this section”, and “, family housing facilities,” after “for structures”.
+Subsec. (b). Pub. L. 97–214, § 8(b), struck out “or any other provision of law” after “into under this section”, and “, family housing facilities,” after “for structures”.
 
-Subsecs. (c), (d). Pub. L. 97–214, § 8(c), struck out subsec. (c) which provided that a statement in a lease that the requirements of this section have been met, or that the lease is not subject to this section is conclusive, and subsec. (d) which related to limitations on expenditures for the rental of family housing in foreign countries and limitations on the number of family housing units which may be leased in a foreign country at any one time.
+Subsecs. (c), (d). Pub. L. 97–214, § 8(c), struck out subsec. (c) which provided that a statement in a lease that the requirements of this section have been met, or that the lease is not subject to this section is conclusive, and subsec. (d) which related to limitations on expenditures for the rental of family housing in foreign countries and limitations on the number of family housing units which may be leased in a foreign country at any one time.
 
-1981—Subsec. (d)(1). Pub. L. 97–99, § 604(1), substituted “250” for “150”.
+1981—Subsec. (d)(1). Pub. L. 97–99, § 604(1), substituted “250” for “150”.
 
-Subsec. (d)(2). Pub. L. 97–99, § 604(2), substituted “22,000” for “17,000”.
+Subsec. (d)(2). Pub. L. 97–99, § 604(2), substituted “22,000” for “17,000”.
 
 1980—Subsec. (d)(1). Pub. L. 96–418 substituted “Expenditures for the rental of family housing in foreign countries (including the cost of utilities and maintenance and operation) may not exceed $1,115 per month for any unit” for “The average unit rental for Department of Defense family housing acquired by lease in foreign countries may not exceed $550 per month for the Department, and in no event shall the rental for any one unit exceed $970 per month, including the costs of operation, maintenance, and utilities”.
 
-1979—Subsec. (d)(1). Pub. L. 96–125, § 502(b)(1), substituted “$550” for “$485” and “$970” for “$850”.
+1979—Subsec. (d)(1). Pub. L. 96–125, § 502(b)(1), substituted “$550” for “$485” and “$970” for “$850”.
 
-Subsec. (d)(2). Pub. L. 96–125, § 502(b)(2), substituted “17,000” for “18,000”.
+Subsec. (d)(2). Pub. L. 96–125, § 502(b)(2), substituted “17,000” for “18,000”.
 
-1978—Subsec. (d)(1). Pub. L. 95–356, § 503(b)(1), substituted “$485” for “$435” and “$850” for “$760”.
+1978—Subsec. (d)(1). Pub. L. 95–356, § 503(b)(1), substituted “$485” for “$435” and “$850” for “$760”.
 
-Subsec. (d)(2). Pub. L. 95–356, § 503(b)(2), substituted “18,000” for “15,000”.
+Subsec. (d)(2). Pub. L. 95–356, § 503(b)(2), substituted “18,000” for “15,000”.
 
-1977—Subsec. (a). Pub. L. 95–82, § 505(a)(1), inserted provisions relating to military family housing facilities and real property related thereto.
+1977—Subsec. (a). Pub. L. 95–82, § 505(a)(1), inserted provisions relating to military family housing facilities and real property related thereto.
 
-Subsec. (b). Pub. L. 95–82, § 505(a)(2), inserted “or any other provision of law for structures, family housing facilities, or related real property in any foreign country,” after “section”.
+Subsec. (b). Pub. L. 95–82, § 505(a)(2), inserted “or any other provision of law for structures, family housing facilities, or related real property in any foreign country,” after “section”.
 
-Subsec. (d). Pub. L. 95–82, § 505(a)(3), added subsec. (d).
+Subsec. (d). Pub. L. 95–82, § 505(a)(3), added subsec. (d).
 
 1975—Pub. L. 94–107 struck out reference to structures not on a military base in section catchline, and struck out “that are not located on a military base and” after “structures and real property relating thereto” in subsec. (a).
 
@@ -3132,33 +3132,33 @@ Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–418, title VI, § 608, Oct. 10, 1980, 94 Stat. 1774, provided that: “Titles I, II, III, IV, and V [enacting section 2775 of this title and section 1594h–3 of Title 42, The Public Health and Welfare, amending this section, section 2686 of this title, and sections 1594a–1 and 1594h–2 of Title 42, and repealing provisions set out as a note under section 4593 of this title] shall take effect on October 1, 1980.”
+Pub. L. 96–418, title VI, § 608, Oct. 10, 1980, 94 Stat. 1774, provided that: “Titles I, II, III, IV, and V [enacting section 2775 of this title and section 1594h–3 of Title 42, The Public Health and Welfare, amending this section, section 2686 of this title, and sections 1594a–1 and 1594h–2 of Title 42, and repealing provisions set out as a note under section 4593 of this title] shall take effect on October 1, 1980.”
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–82, title V, § 505(c), Aug. 1, 1977, 91 Stat. 372, provided that: “The amendments made by subsection (a) [amending this section] and the repeal made by subsection (b) [repealing section 507(b) of Pub. L. 93–166, which was not classified to the Code] shall take effect October 1, 1977.”
+Pub. L. 95–82, title V, § 505(c), Aug. 1, 1977, 91 Stat. 372, provided that: “The amendments made by subsection (a) [amending this section] and the repeal made by subsection (b) [repealing section 507(b) of Pub. L. 93–166, which was not classified to the Code] shall take effect October 1, 1977.”
 
-## [§ 2676. Renumbered § 2664]
+## [§ 2676. Renumbered § 2664]
 
-## [§ 2677. Repealed. Pub. L. 110–181, div. B, title XXVIII, § 2822(b)(1), Jan. 28, 2008, 122 Stat. 544]
+## [§ 2677. Repealed. Pub. L. 110–181, div. B, title XXVIII, § 2822(b)(1), Jan. 28, 2008, 122 Stat. 544]
 
-Section, added Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat. 1460; amended Pub. L. 87–554, title VI, § 607, July 27, 1962, 76 Stat. 242; Pub. L. 92–145, title VII, § 707(4), Oct. 27, 1971, 85 Stat. 412; Pub. L. 94–273, § 6(3), Apr. 21, 1976, 90 Stat. 377; Pub. L. 97–214, § 10(a)(5)(A), (B), July 12, 1982, 96 Stat. 175; Pub. L. 97–375, title I, § 104(b), Dec. 21, 1982, 96 Stat. 1819; Pub. L. 98–407, title VIII, § 803, Aug. 28, 1984, 98 Stat. 1519; Pub. L. 102–190, div. B, title XXVIII, § 2861, Dec. 5, 1991, 105 Stat. 1559; Pub. L. 103–35, title II, § 201(c)(9), May 31, 1993, 107 Stat. 98; Pub. L. 107–314, div. A, title X, § 1062(a)(12), Dec. 2, 2002, 116 Stat. 2650, related to options on property required for military construction projects.
+Section, added Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat. 1460; amended Pub. L. 87–554, title VI, § 607, July 27, 1962, 76 Stat. 242; Pub. L. 92–145, title VII, § 707(4), Oct. 27, 1971, 85 Stat. 412; Pub. L. 94–273, § 6(3), Apr. 21, 1976, 90 Stat. 377; Pub. L. 97–214, § 10(a)(5)(A), (B), July 12, 1982, 96 Stat. 175; Pub. L. 97–375, title I, § 104(b), Dec. 21, 1982, 96 Stat. 1819; Pub. L. 98–407, title VIII, § 803, Aug. 28, 1984, 98 Stat. 1519; Pub. L. 102–190, div. B, title XXVIII, § 2861, Dec. 5, 1991, 105 Stat. 1559; Pub. L. 103–35, title II, § 201(c)(9), May 31, 1993, 107 Stat. 98; Pub. L. 107–314, div. A, title X, § 1062(a)(12), Dec. 2, 2002, 116 Stat. 2650, related to options on property required for military construction projects.
 
-## § 2678. Feral horses and burros: removal from military installations
+## § 2678. Feral horses and burros: removal from military installations
 
 When feral horses or burros are found on an installation under the jurisdiction of the Secretary of a military department, the Secretary may use helicopters and motorized equipment for their removal.
 
-(Added Pub. L. 101–510, div. A, title XIV, § 1481(h)(1), Nov. 5, 1990, 104 Stat. 1708.)
+(Added Pub. L. 101–510, div. A, title XIV, § 1481(h)(1), Nov. 5, 1990, 104 Stat. 1708.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in Pub. L. 101–165, title IX, § 9030, Nov. 21, 1989, 103 Stat. 1135, which was set out as a note under section 2241 of this title, prior to repeal by Pub. L. 101–510, § 1481(h)(3).
+Provisions similar to those in this section were contained in Pub. L. 101–165, title IX, § 9030, Nov. 21, 1989, 103 Stat. 1135, which was set out as a note under section 2241 of this title, prior to repeal by Pub. L. 101–510, § 1481(h)(3).
 
-A prior section 2678, added Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat. 1460, related to acquisition of mortgaged housing units, prior to repeal by Pub. L. 97–214, §§ 7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date.
+A prior section 2678, added Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat. 1460, related to acquisition of mortgaged housing units, prior to repeal by Pub. L. 97–214, §§ 7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date.
 
-## § 2679. Installation-support services: intergovernmental support agreements
+## § 2679. Installation-support services: intergovernmental support agreements
 
 **(a) In General.—**
 
@@ -3208,21 +3208,21 @@ A prior section 2678, added Pub. L. 85–861, § 1(51), Sept. 2, 1958, 72 Stat
 
 **(4)** The term “intergovernmental support agreement” means a legal instrument reflecting a relationship between the Secretary concerned and a State, local, or tribal government that contains such terms and conditions as the Secretary concerned considers appropriate for the purposes of this section and necessary to protect the interests of the United States.
 
-(Added Pub. L. 112–239, div. A, title III, § 331(a), Jan. 2, 2013, 126 Stat. 1696, § 2336; renumbered § 2679 and amended Pub. L. 113–291, div. A, title III, § 351(a), (b), Dec. 19, 2014, 128 Stat. 3346; Pub. L. 114–92, div. A, title X, § 1081(a)(9), (b)(1), Nov. 25, 2015, 129 Stat. 1001; Pub. L. 115–91, div. B, title XXVIII, § 2813, Dec. 12, 2017, 131 Stat. 1849; Pub. L. 115–232, div. A, title X, § 1081(a)(26), Aug. 13, 2018, 132 Stat. 1985; Pub. L. 116–283, div. B, title XXVIII, § 2861(a), Jan. 1, 2021, 134 Stat. 4356; Pub. L. 118–159, div. B, title XXVIII, § 2845, Dec. 23, 2024, 138 Stat. 2264; Pub. L. 119–60, div. B, title XXVIII, §§ 2843–2845, Dec. 18, 2025, 139 Stat. 1318.)
+(Added Pub. L. 112–239, div. A, title III, § 331(a), Jan. 2, 2013, 126 Stat. 1696, § 2336; renumbered § 2679 and amended Pub. L. 113–291, div. A, title III, § 351(a), (b), Dec. 19, 2014, 128 Stat. 3346; Pub. L. 114–92, div. A, title X, § 1081(a)(9), (b)(1), Nov. 25, 2015, 129 Stat. 1001; Pub. L. 115–91, div. B, title XXVIII, § 2813, Dec. 12, 2017, 131 Stat. 1849; Pub. L. 115–232, div. A, title X, § 1081(a)(26), Aug. 13, 2018, 132 Stat. 1985; Pub. L. 116–283, div. B, title XXVIII, § 2861(a), Jan. 1, 2021, 134 Stat. 4356; Pub. L. 118–159, div. B, title XXVIII, § 2845, Dec. 23, 2024, 138 Stat. 2264; Pub. L. 119–60, div. B, title XXVIII, §§ 2843–2845, Dec. 18, 2025, 139 Stat. 1318.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2679, added Pub. L. 87–651, title I, § 112(c), Sept. 7, 1962, 76 Stat. 511; amended Pub. L. 101–189, div. A, title XVI, § 1621(a)(9), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 103–337, div. A, title X, § 1070(e)(9), Oct. 5, 1994, 108 Stat. 2859, related to use of space and equipment by representatives of veterans’ organizations, prior to repeal by Pub. L. 108–375, div. B, title XXVIII, § 2821(c)(2), Oct. 28, 2004, 118 Stat. 2129.
+A prior section 2679, added Pub. L. 87–651, title I, § 112(c), Sept. 7, 1962, 76 Stat. 511; amended Pub. L. 101–189, div. A, title XVI, § 1621(a)(9), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 103–337, div. A, title X, § 1070(e)(9), Oct. 5, 1994, 108 Stat. 2859, related to use of space and equipment by representatives of veterans’ organizations, prior to repeal by Pub. L. 108–375, div. B, title XXVIII, § 2821(c)(2), Oct. 28, 2004, 118 Stat. 2129.
 
 **Amendments**
 
-2025—Subsec. (e)(4). Pub. L. 119–60, § 2843, substituted “September 30, 2030” for “September 30, 2025”.
+2025—Subsec. (e)(4). Pub. L. 119–60, § 2843, substituted “September 30, 2030” for “September 30, 2025”.
 
-Subsec. (f)(1). Pub. L. 119–60, § 2844, inserted at end “The term does include ordnance disposal.”
+Subsec. (f)(1). Pub. L. 119–60, § 2844, inserted at end “The term does include ordnance disposal.”
 
-Subsec. (f)(3). Pub. L. 119–60, § 2845, struck out “and” before “United States Virgin Islands” and inserted “the State of Yap of the Federated States of Micronesia, and the Republic of Palau,” after “Virgin Islands,”.
+Subsec. (f)(3). Pub. L. 119–60, § 2845, struck out “and” before “United States Virgin Islands” and inserted “the State of Yap of the Federated States of Micronesia, and the Republic of Palau,” after “Virgin Islands,”.
 
 2024—Subsec. (a). Pub. L. 118–159 substituted “State, local, or tribal government” for “State or local government” wherever appearing.
 
@@ -3234,29 +3234,29 @@ Subsec. (f)(4). Pub. L. 118–159 substituted “State, local, or tribal governm
 
 2017—Subsec. (a)(2)(A). Pub. L. 115–91 substituted “ten years” for “five years”.
 
-2015—Subsec. (a)(1). Pub. L. 114–92, § 1081(a)(9), struck out “with” before “, on a sole source”.
+2015—Subsec. (a)(1). Pub. L. 114–92, § 1081(a)(9), struck out “with” before “, on a sole source”.
 
-Subsec. (a)(4). Pub. L. 114–92, § 1081(b)(1), amended directory language of Pub. L. 113–291, § 351(b)(1)(C). See 2014 Amendment note below.
+Subsec. (a)(4). Pub. L. 114–92, § 1081(b)(1), amended directory language of Pub. L. 113–291, § 351(b)(1)(C). See 2014 Amendment note below.
 
-2014—Pub. L. 113–291, § 351(a), renumbered section 2336 of this title as this section and substituted “Installation-support services: intergovernmental support agreement” for “Intergovernmental support agreements with State and local governments” in section catchline.
+2014—Pub. L. 113–291, § 351(a), renumbered section 2336 of this title as this section and substituted “Installation-support services: intergovernmental support agreement” for “Intergovernmental support agreements with State and local governments” in section catchline.
 
-Subsec. (a)(1). Pub. L. 113–291, § 351(b)(1)(A), substituted “Notwithstanding any other provision of law governing the award of Federal government contracts for goods and services, the Secretary concerned” for “The Secretary concerned” and “, on a sole source basis, with a State or local” for “a State or local”.
+Subsec. (a)(1). Pub. L. 113–291, § 351(b)(1)(A), substituted “Notwithstanding any other provision of law governing the award of Federal government contracts for goods and services, the Secretary concerned” for “The Secretary concerned” and “, on a sole source basis, with a State or local” for “a State or local”.
 
-Subsec. (a)(2). Pub. L. 113–291, § 351(b)(1)(B), substituted “An” for “Notwithstanding any other provision of law, an” in introductory provisions, redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “may be entered into on a sole-source basis;”.
+Subsec. (a)(2). Pub. L. 113–291, § 351(b)(1)(B), substituted “An” for “Notwithstanding any other provision of law, an” in introductory provisions, redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “may be entered into on a sole-source basis;”.
 
-Subsec. (a)(4). Pub. L. 113–291, § 351(b)(1)(C), as amended by Pub. L. 114–92, § 1081(b)(1), added par. (4).
+Subsec. (a)(4). Pub. L. 113–291, § 351(b)(1)(C), as amended by Pub. L. 114–92, § 1081(b)(1), added par. (4).
 
-Subsec. (e)(4). Pub. L. 113–291, § 351(b)(2), added par. (4).
+Subsec. (e)(4). Pub. L. 113–291, § 351(b)(2), added par. (4).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–92, div. A, title X, § 1081(b), Nov. 25, 2015, 129 Stat. 1001, provided in part that the amendment made by section 1081(b)(1) is effective as of Dec. 19, 2014, and as if included in Pub. L. 113–291 as enacted.
+Pub. L. 114–92, div. A, title X, § 1081(b), Nov. 25, 2015, 129 Stat. 1001, provided in part that the amendment made by section 1081(b)(1) is effective as of Dec. 19, 2014, and as if included in Pub. L. 113–291 as enacted.
 
 **Review of Agreements With Non-Department Entities With Respect to Prevention and Mitigation of Spills of Aqueous Film-Forming Foam**
 
-Pub. L. 117–81, div. A, title III, § 346, Dec. 27, 2021, 135 Stat. 1647, provided that:
+Pub. L. 117–81, div. A, title III, § 346, Dec. 27, 2021, 135 Stat. 1647, provided that:
 
 > **“(a) Review Required.—** Not later than 180 days of [sic] after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall complete a review of mutual support agreements entered into with non-Department of Defense entities (including State and local entities) that involve fire suppression activities in support of missions of the Department.
 
@@ -3280,7 +3280,7 @@ Pub. L. 117–81, div. A, title III, § 346, Dec. 27, 2021, 135 Stat. 1647, pr
 
 **Notification of Certain Intergovernmental Support Agreements**
 
-Pub. L. 117–81, div. A, title VIII, § 876, Dec. 27, 2021, 135 Stat. 1865, provided that:
+Pub. L. 117–81, div. A, title VIII, § 876, Dec. 27, 2021, 135 Stat. 1865, provided that:
 
 > **“(a) Notification Required.—** During fiscal years 2022 and 2023, not less than 60 days before entering into an intergovernmental support agreement under section 2679 of title 10, United States Code, that is an exception to the requirements of chapter 85 of title 41, United States Code, the Secretary concerned shall submit, in writing, to the congressional defense committees [Committee on Armed Services and Committee on Appropriations of the Senate and House of Representatives] a report including the following relating to such agreement:
 
@@ -3316,9 +3316,9 @@ Pub. L. 117–81, div. A, title VIII, § 876, Dec. 27, 2021, 135 Stat. 1865, p
 
 **Promulgation of Guidance**
 
-Pub. L. 116–283, div. B, title XXVIII, § 2861(b), Jan. 1, 2021, 134 Stat. 4357, provided that: “Not later than 180 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall promulgate guidance for the development of the pilot program required by subsection (e) of section 2679 of title 10, United States Code, as added by subsection (a).”
+Pub. L. 116–283, div. B, title XXVIII, § 2861(b), Jan. 1, 2021, 134 Stat. 4357, provided that: “Not later than 180 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall promulgate guidance for the development of the pilot program required by subsection (e) of section 2679 of title 10, United States Code, as added by subsection (a).”
 
-## § 2680. Minimum capital investment for facilities sustainment, restoration, and modernization for military departments
+## § 2680. Minimum capital investment for facilities sustainment, restoration, and modernization for military departments
 
 **(a) Minimum Investment.—** Beginning in fiscal year 2027, and each fiscal year thereafter, each Secretary of a military department shall—
 
@@ -3372,41 +3372,41 @@ Pub. L. 116–283, div. B, title XXVIII, § 2861(b), Jan. 1, 2021, 134 Stat. 4
 
 **(D)** Working capital funds.
 
-(Added Pub. L. 118–159, div. B, title XXVIII, § 2841(a), Dec. 23, 2024, 138 Stat. 2262; amended Pub. L. 119–60, div. B, title XXVIII, § 2841, Dec. 18, 2025, 139 Stat. 1316.)
+(Added Pub. L. 118–159, div. B, title XXVIII, § 2841(a), Dec. 23, 2024, 138 Stat. 2262; amended Pub. L. 119–60, div. B, title XXVIII, § 2841, Dec. 18, 2025, 139 Stat. 1316.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2680, added Pub. L. 102–190, div. B, title XXVIII, § 2863(a)(1), Dec. 5, 1991, 105 Stat. 1560; amended Pub. L. 103–160, div. B, title XXVIII, § 2807(a), Nov. 30, 1993, 107 Stat. 1887; Pub. L. 104–106, div. B, title XXVIII, § 2820(a), (b), Feb. 10, 1996, 110 Stat. 556; Pub. L. 106–65, div. A, title X, § 1067(1), div. B, title XXVIII, § 2811, Oct. 5, 1999, 113 Stat. 774, 851; Pub. L. 107–314, div. A, title X, § 1062(a)(13), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–136, div. A, title X, § 1031(a)(31), Nov. 24, 2003, 117 Stat. 1600, related to leases of land for special operations activities, prior to repeal by Pub. L. 111–383, div. B, title XXVIII, § 2814(a), Jan. 7, 2011, 124 Stat. 4464.
+A prior section 2680, added Pub. L. 102–190, div. B, title XXVIII, § 2863(a)(1), Dec. 5, 1991, 105 Stat. 1560; amended Pub. L. 103–160, div. B, title XXVIII, § 2807(a), Nov. 30, 1993, 107 Stat. 1887; Pub. L. 104–106, div. B, title XXVIII, § 2820(a), (b), Feb. 10, 1996, 110 Stat. 556; Pub. L. 106–65, div. A, title X, § 1067(1), div. B, title XXVIII, § 2811, Oct. 5, 1999, 113 Stat. 774, 851; Pub. L. 107–314, div. A, title X, § 1062(a)(13), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–136, div. A, title X, § 1031(a)(31), Nov. 24, 2003, 117 Stat. 1600, related to leases of land for special operations activities, prior to repeal by Pub. L. 111–383, div. B, title XXVIII, § 2814(a), Jan. 7, 2011, 124 Stat. 4464.
 
-Another prior section 2680, added Pub. L. 87–651, title I, § 112(c), Sept. 7, 1962, 76 Stat. 511; amended Pub. L. 89–718, § 20, Nov. 2, 1966, 80 Stat. 1118, authorized reimbursement of moving expenses to owners of property acquired for public works projects, prior to repeal by Pub. L. 91–646, title II, § 220(a)(3), Jan. 2, 1971, 84 Stat. 1903. See section 4601 et seq. of Title 42, The Public Health and Welfare.
+Another prior section 2680, added Pub. L. 87–651, title I, § 112(c), Sept. 7, 1962, 76 Stat. 511; amended Pub. L. 89–718, § 20, Nov. 2, 1966, 80 Stat. 1118, authorized reimbursement of moving expenses to owners of property acquired for public works projects, prior to repeal by Pub. L. 91–646, title II, § 220(a)(3), Jan. 2, 1971, 84 Stat. 1903. See section 4601 et seq. of Title 42, The Public Health and Welfare.
 
 **Amendments**
 
-2025—Subsec. (a)(1). Pub. L. 119–60, § 2841(1), substituted “total inventory of covered facilities” for “total inventory of facilities”.
+2025—Subsec. (a)(1). Pub. L. 119–60, § 2841(1), substituted “total inventory of covered facilities” for “total inventory of facilities”.
 
-Subsec. (b). Pub. L. 119–60, § 2841(2), substituted “covered facility” for “facility”.
+Subsec. (b). Pub. L. 119–60, § 2841(2), substituted “covered facility” for “facility”.
 
-Subsec. (d)(2). Pub. L. 119–60, § 2841(3), substituted “covered facilities” for “facilities”.
+Subsec. (d)(2). Pub. L. 119–60, § 2841(3), substituted “covered facilities” for “facilities”.
 
-Subsec. (e). Pub. L. 119–60, § 2841(4), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “In this section, the term ‘plant replacement value’ means, with respect to a facility, the cost to replace such facility using construction costs (including labor and materials) and standards (including methodologies and codes) in effect as of the date such cost is calculated.”
+Subsec. (e). Pub. L. 119–60, § 2841(4), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “In this section, the term ‘plant replacement value’ means, with respect to a facility, the cost to replace such facility using construction costs (including labor and materials) and standards (including methodologies and codes) in effect as of the date such cost is calculated.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effect of Repeal**
 
-Pub. L. 111–383, div. B, title XXVIII, § 2814(b), Jan. 7, 2011, 124 Stat. 4464, provided that: “The amendment made by subsection (a) [repealing former section 2680 of this title] shall not affect the validity of any contract entered into under section 2680 of title 10, United States Code, on or before September 30, 2005.”
+Pub. L. 111–383, div. B, title XXVIII, § 2814(b), Jan. 7, 2011, 124 Stat. 4464, provided that: “The amendment made by subsection (a) [repealing former section 2680 of this title] shall not affect the validity of any contract entered into under section 2680 of title 10, United States Code, on or before September 30, 2005.”
 
-## § 2681. Renumbered § 4175]
+## § 2681. Renumbered § 4175]
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2681, added Pub. L. 87–651, title II, § 209(a), Sept. 7, 1962, 76 Stat. 523; amended Pub. L. 88–174, title V, § 508, Nov. 7, 1963, 77 Stat. 326; Pub. L. 96–513, title V, § 511(93), Dec. 12, 1980, 94 Stat. 2928, related to construction or acquisition of family housing and community facilities in foreign countries, prior to repeal by Pub. L. 97–214, §§ 7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date.
+A prior section 2681, added Pub. L. 87–651, title II, § 209(a), Sept. 7, 1962, 76 Stat. 523; amended Pub. L. 88–174, title V, § 508, Nov. 7, 1963, 77 Stat. 326; Pub. L. 96–513, title V, § 511(93), Dec. 12, 1980, 94 Stat. 2928, related to construction or acquisition of family housing and community facilities in foreign countries, prior to repeal by Pub. L. 97–214, §§ 7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date.
 
-## § 2682. Facilities for defense agencies
+## § 2682. Facilities for defense agencies
 
 **(a) Maintenance and Repair.—** Subject to subsection (c), the maintenance and repair of a real property facility for an activity or agency of the Department of Defense (other than a military department) financed from appropriations for military functions of the Department of Defense will be accomplished by or through a military department designated by the Secretary of Defense.
 
@@ -3430,35 +3430,35 @@ A prior section 2681, added Pub. L. 87–651, title II, § 209(a), Sept. 7, 19
 
 **(4)** The waiver authority provided by paragraph (1) expires December 31, 2020.
 
-(Added Pub. L. 88–174, title VI, § 609(a)(1), Nov. 7, 1963, 77 Stat. 329; amended Pub. L. 97–214, § 10(a)(7), July 12, 1982, 96 Stat. 175; Pub. L. 112–81, div. A, title IX, § 926, Dec. 31, 2011, 125 Stat. 1541; Pub. L. 114–92, div. A, title XVI, § 1632, Nov. 25, 2015, 129 Stat. 1111; Pub. L. 115–91, div. B, title XXVIII, § 2811(f), Dec. 12, 2017, 131 Stat. 1848.)
+(Added Pub. L. 88–174, title VI, § 609(a)(1), Nov. 7, 1963, 77 Stat. 329; amended Pub. L. 97–214, § 10(a)(7), July 12, 1982, 96 Stat. 175; Pub. L. 112–81, div. A, title IX, § 926, Dec. 31, 2011, 125 Stat. 1541; Pub. L. 114–92, div. A, title XVI, § 1632, Nov. 25, 2015, 129 Stat. 1111; Pub. L. 115–91, div. B, title XXVIII, § 2811(f), Dec. 12, 2017, 131 Stat. 1848.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Subsec. (c)(2). Pub. L. 115–91 substituted “, in an electronic medium pursuant to section 480 of this title, to the appropriate congressional committees a notice” for “to the appropriate congressional committees written notification”.
+2017—Subsec. (c)(2). Pub. L. 115–91 substituted “, in an electronic medium pursuant to section 480 of this title, to the appropriate congressional committees a notice” for “to the appropriate congressional committees written notification”.
 
-2015—Subsecs. (a), (b). Pub. L. 114–92, § 1632(b)(2), repealed Pub. L. 112–81, § 926(b). See 2011 Amendment notes below.
+2015—Subsecs. (a), (b). Pub. L. 114–92, § 1632(b)(2), repealed Pub. L. 112–81, § 926(b). See 2011 Amendment notes below.
 
-Subsec. (c). Pub. L. 114–92, § 1632(b)(2), repealed Pub. L. 112–81, § 926(b). See 2011 Amendment note below.
+Subsec. (c). Pub. L. 114–92, § 1632(b)(2), repealed Pub. L. 112–81, § 926(b). See 2011 Amendment note below.
 
-Pub. L. 114–92, § 1632(a), designated existing provisions as par. (1) and added pars. (2) and (3).
+Pub. L. 114–92, § 1632(a), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Subsec. (c)(4). Pub. L. 114–92, § 1632(b)(1), added par. (4).
+Subsec. (c)(4). Pub. L. 114–92, § 1632(b)(1), added par. (4).
 
-2011—Pub. L. 112–81, § 926(a)(1), (2), designated first and second sentences as subsecs. (a) and (b), respectively, inserted headings, and realigned margins of subsec. (b).
+2011—Pub. L. 112–81, § 926(a)(1), (2), designated first and second sentences as subsecs. (a) and (b), respectively, inserted headings, and realigned margins of subsec. (b).
 
-Subsec. (a). Pub. L. 112–81, § 926(b)(1), which directed the substitution of “The maintenance and repair” for “Subject to subsection (c), the maintenance and repair”, subject to effective date set out in Effective Date of 2011 Amendment note below, was repealed by Pub. L. 114–92, § 1632(b)(2).
+Subsec. (a). Pub. L. 112–81, § 926(b)(1), which directed the substitution of “The maintenance and repair” for “Subject to subsection (c), the maintenance and repair”, subject to effective date set out in Effective Date of 2011 Amendment note below, was repealed by Pub. L. 114–92, § 1632(b)(2).
 
-Pub. L. 112–81, § 926(a)(1), substituted “Subject to subsection (c), the maintenance and repair” for “The maintenance and repair”.
+Pub. L. 112–81, § 926(a)(1), substituted “Subject to subsection (c), the maintenance and repair” for “The maintenance and repair”.
 
-Subsec. (b). Pub. L. 112–81, § 926(b)(2), which directed the substitution of “A real property” for “Subject to subsection (c), a real property”, subject to effective date set out in Effective Date of 2011 Amendment note below, was repealed by Pub. L. 114–92, § 1632(b)(2).
+Subsec. (b). Pub. L. 112–81, § 926(b)(2), which directed the substitution of “A real property” for “Subject to subsection (c), a real property”, subject to effective date set out in Effective Date of 2011 Amendment note below, was repealed by Pub. L. 114–92, § 1632(b)(2).
 
-Pub. L. 112–81, § 926(a)(3), substituted “Subject to subsection (c), a real property” for “A real property”.
+Pub. L. 112–81, § 926(a)(3), substituted “Subject to subsection (c), a real property” for “A real property”.
 
-Subsec. (c). Pub. L. 112–81, § 926(b)(3), which directed the striking out of subsec. (c), subject to effective date set out in Effective Date of 2011 Amendment note below, was repealed by Pub. L. 114–92, § 1632(b)(2).
+Subsec. (c). Pub. L. 112–81, § 926(b)(3), which directed the striking out of subsec. (c), subject to effective date set out in Effective Date of 2011 Amendment note below, was repealed by Pub. L. 114–92, § 1632(b)(2).
 
-Pub. L. 112–81, § 926(a)(4), added subsec. (c).
+Pub. L. 112–81, § 926(a)(4), added subsec. (c).
 
 1982—Pub. L. 97–214 substituted “maintenance and repair” for “construction, maintenance, rehabilitation, repair, alteration, addition, expansion, or extension”.
 
@@ -3466,13 +3466,13 @@ Pub. L. 112–81, § 926(a)(4), added subsec. (c).
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–81, div. A, title IX, § 926(b), Dec. 31, 2011, 125 Stat. 1541, as amended by Pub. L. 113–291, div. A, title XVI, § 1624, Dec. 19, 2014, 128 Stat. 3633, which provided in part that the amendments made to this section by section 926(b) were to be effective on the later of Sept. 30, 2017, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2018, was repealed by Pub. L. 114–92, div. A, title XVI, § 1632(b)(2), Nov. 25, 2015, 129 Stat. 1112.
+Pub. L. 112–81, div. A, title IX, § 926(b), Dec. 31, 2011, 125 Stat. 1541, as amended by Pub. L. 113–291, div. A, title XVI, § 1624, Dec. 19, 2014, 128 Stat. 3633, which provided in part that the amendments made to this section by section 926(b) were to be effective on the later of Sept. 30, 2017, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2018, was repealed by Pub. L. 114–92, div. A, title XVI, § 1632(b)(2), Nov. 25, 2015, 129 Stat. 1112.
 
 **Effective Date of 1982 Amendment**
 
 Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of this title.
 
-## § 2683. Relinquishment of legislative jurisdiction; minimum drinking age on military installations
+## § 2683. Relinquishment of legislative jurisdiction; minimum drinking age on military installations
 
 **(a)** Notwithstanding any other provision of law, the Secretary concerned may, whenever he considers it desirable, relinquish to a State, or to a Commonwealth, territory, or possession of the United States, all or part of the legislative jurisdiction of the United States over lands or interests under his control in that State, Commonwealth, territory, or possession. Relinquishment of legislative jurisdiction under this section may be accomplished (1) by filing with the Governor (or, if none exists, with the chief executive officer) of the State, Commonwealth, territory, or possession concerned a notice of relinquishment to take effect upon acceptance thereof, or (2) as the laws of the State, Commonwealth, territory, or possession may otherwise provide.
 
@@ -3510,25 +3510,25 @@ the Secretary concerned may establish and enforce as the minimum drinking age on
 
 **(B)** The term “minimum drinking age” means the minimum age or ages established for persons who may purchase, possess, or consume alcoholic beverages.
 
-(Added Pub. L. 91–511, title VI, § 613(1), Oct. 26, 1970, 84 Stat. 1226; amended Pub. L. 92–545, title VIII, § 707, Oct. 25, 1972, 86 Stat. 1154; Pub. L. 93–283, § 3, May 14, 1974, 88 Stat. 141; Pub. L. 99–145, title XII, § 1224(a), (b)(1), (c)(1), Nov. 8, 1985, 99 Stat. 728, 729; Pub. L. 99–661, div. A, title XIII, § 1343(a)(18), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 100–526, title I, § 106(b)(2), Oct. 24, 1988, 102 Stat. 2625.)
+(Added Pub. L. 91–511, title VI, § 613(1), Oct. 26, 1970, 84 Stat. 1226; amended Pub. L. 92–545, title VIII, § 707, Oct. 25, 1972, 86 Stat. 1154; Pub. L. 93–283, § 3, May 14, 1974, 88 Stat. 141; Pub. L. 99–145, title XII, § 1224(a), (b)(1), (c)(1), Nov. 8, 1985, 99 Stat. 728, 729; Pub. L. 99–661, div. A, title XIII, § 1343(a)(18), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 100–526, title I, § 106(b)(2), Oct. 24, 1988, 102 Stat. 2625.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsec. (c)(2)(B). Pub. L. 100–526, § 106(b)(2)(A), substituted “the term ‘lowest applicable age’ ” for “ ‘lowest age’ ”.
+1988—Subsec. (c)(2)(B). Pub. L. 100–526, § 106(b)(2)(A), substituted “the term ‘lowest applicable age’ ” for “ ‘lowest age’ ”.
 
-Subsec. (c)(4)(A). Pub. L. 100–526, § 106(b)(2)(B)(i), substituted “The term ‘State’ ” for “ ‘State’ ”.
+Subsec. (c)(4)(A). Pub. L. 100–526, § 106(b)(2)(B)(i), substituted “The term ‘State’ ” for “ ‘State’ ”.
 
-Subsec. (c)(4)(B). Pub. L. 100–526, § 106(b)(2)(B)(ii), substituted “The term ‘minimum’ ” for “ ‘Minimum’ ”.
+Subsec. (c)(4)(B). Pub. L. 100–526, § 106(b)(2)(B)(ii), substituted “The term ‘minimum’ ” for “ ‘Minimum’ ”.
 
 1986—Subsec. (b). Pub. L. 99–661 struck out “this” before “subsection (a)”.
 
-1985—Pub. L. 99–145, § 1224(c)(1), inserted “; minimum drinking age on military installations” in section catchline.
+1985—Pub. L. 99–145, § 1224(c)(1), inserted “; minimum drinking age on military installations” in section catchline.
 
-Subsec. (b). Pub. L. 99–145, § 1224(b)(1), substituted “subsection (a)” for “section”.
+Subsec. (b). Pub. L. 99–145, § 1224(b)(1), substituted “subsection (a)” for “section”.
 
-Subsec. (c). Pub. L. 99–145, § 1224(a), added subsec. (c).
+Subsec. (c). Pub. L. 99–145, § 1224(a), added subsec. (c).
 
 1974—Subsec. (a). Pub. L. 93–283 substituted “Secretary concerned” for “Secretary of a military department”.
 
@@ -3538,9 +3538,9 @@ Subsec. (c). Pub. L. 99–145, § 1224(a), added subsec. (c).
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–145, title XII, § 1224(d), Nov. 8, 1985, 99 Stat. 729, provided that: “The amendments made by this section [amending this section and provisions set out as a note under section 113 of this title] shall take effect 90 days after the date of the enactment of this Act [Nov. 8, 1985].”
+Pub. L. 99–145, title XII, § 1224(d), Nov. 8, 1985, 99 Stat. 729, provided that: “The amendments made by this section [amending this section and provisions set out as a note under section 113 of this title] shall take effect 90 days after the date of the enactment of this Act [Nov. 8, 1985].”
 
-## § 2684. Cooperative agreements for management of cultural resources
+## § 2684. Cooperative agreements for management of cultural resources
 
 **(a) Authority.—** The Secretary of Defense or the Secretary of a military department may enter into a cooperative agreement with a State or local government or other entity for the preservation, management, maintenance, and improvement of cultural resources located on a site authorized by subsection (b) and for the conduct of research regarding the cultural resources. Activities under the cooperative agreement shall be subject to the availability of funds to carry out the cooperative agreement.
 
@@ -3564,7 +3564,7 @@ Pub. L. 99–145, title XII, § 1224(d), Nov. 8, 1985, 99 Stat. 729, provided 
 
 **(5)** An Indian sacred site, as defined in section 1(b)(iii) of Executive Order No. 13007.
 
-(Added Pub. L. 104–201, div. B, title XXVIII, § 2862(a), Sept. 23, 1996, 110 Stat. 2804; amended Pub. L. 105–85, div. A, title X, § 1073(a)(58), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 110–181, div. B, title XXVIII, § 2824, Jan. 28, 2008, 122 Stat. 545; Pub. L. 113–287, § 5(b), Dec. 19, 2014, 128 Stat. 3264; Pub. L. 114–92, div. A, title X, § 1081(a)(10), Nov. 25, 2015, 129 Stat. 1001.)
+(Added Pub. L. 104–201, div. B, title XXVIII, § 2862(a), Sept. 23, 1996, 110 Stat. 2804; amended Pub. L. 105–85, div. A, title X, § 1073(a)(58), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 110–181, div. B, title XXVIII, § 2824, Jan. 28, 2008, 122 Stat. 545; Pub. L. 113–287, § 5(b), Dec. 19, 2014, 128 Stat. 3264; Pub. L. 114–92, div. A, title X, § 1081(a)(10), Nov. 25, 2015, 129 Stat. 1001.)
 
 **Editorial Notes**
 
@@ -3574,23 +3574,23 @@ Executive Order No. 13007, referred to in subsec. (d)(5), is set out under secti
 
 **Prior Provisions**
 
-A prior section 2684, added Pub. L. 93–166, title V, § 509(a), Nov. 29, 1973, 87 Stat. 677, related to construction of family quarters and limitations on space, prior to repeal by Pub. L. 97–214, §§ 7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See section 2826 of this title.
+A prior section 2684, added Pub. L. 93–166, title V, § 509(a), Nov. 29, 1973, 87 Stat. 677, related to construction of family quarters and limitations on space, prior to repeal by Pub. L. 97–214, §§ 7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See section 2826 of this title.
 
 **Amendments**
 
 2015—Subsec. (d)(1). Pub. L. 114–92 substituted “section 302101 of title 54” for “section 2023.01 of title 54”.
 
-2014—Subsec. (d)(1). Pub. L. 113–287, which directed the substitution of “section 2023.01 of title 54” for “section 101(a) of the National Historic Preservation Act (16 U.S.C. 470a(a))” in subsec. (c)(1), was executed by making the substitution in subsec. (d)(1) to reflect the probable intent of Congress and the prior redesignation of subsec. (c) as (d) by Pub. L. 110–181, § 2824(a)(2). See 2008 Amendment note below.
+2014—Subsec. (d)(1). Pub. L. 113–287, which directed the substitution of “section 2023.01 of title 54” for “section 101(a) of the National Historic Preservation Act (16 U.S.C. 470a(a))” in subsec. (c)(1), was executed by making the substitution in subsec. (d)(1) to reflect the probable intent of Congress and the prior redesignation of subsec. (c) as (d) by Pub. L. 110–181, § 2824(a)(2). See 2008 Amendment note below.
 
-2008—Subsec. (a). Pub. L. 110–181, § 2824(a)(1), substituted “located on a site authorized by subsection (b)” for “on military installations”.
+2008—Subsec. (a). Pub. L. 110–181, § 2824(a)(1), substituted “located on a site authorized by subsection (b)” for “on military installations”.
 
-Subsecs. (b) to (d). Pub. L. 110–181, § 2824(a)(2), (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+Subsecs. (b) to (d). Pub. L. 110–181, § 2824(a)(2), (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-Subsec. (d)(5). Pub. L. 110–181, § 2824(b), added par. (5).
+Subsec. (d)(5). Pub. L. 110–181, § 2824(b), added par. (5).
 
-1997—Subsec. (b). Pub. L. 105–85 struck out “, United States Code,” after “title 31”.
+1997—Subsec. (b). Pub. L. 105–85 struck out “, United States Code,” after “title 31”.
 
-## § 2684a. Agreements to limit encroachments and other constraints on military training, testing, and operations
+## § 2684a. Agreements to limit encroachments and other constraints on military training, testing, and operations
 
 **(a) Agreements Authorized.—** The Secretary of Defense or the Secretary of a military department may enter into an agreement with an eligible entity or entities described in subsection (b) to address the use or development of real property in the vicinity of, or ecologically related to, a military installation, as well as a State-owned National Guard installation, or military airspace for purposes of—
 
@@ -3720,121 +3720,121 @@ Subsec. (d)(5). Pub. L. 110–181, § 2824(b), added par. (5).
 
 **(3)** The term “Clear Zone Area” means an area immediately beyond the end of the runway of an airfield that is needed to ensure the safe and unrestricted passage of aircraft in and over the area.
 
-(Added Pub. L. 107–314, div. B, title XXVIII, § 2811(a), Dec. 2, 2002, 116 Stat. 2705; amended Pub. L. 109–163, div. B, title XXVIII, § 2822, Jan. 6, 2006, 119 Stat. 3513; Pub. L. 109–364, div. B, title XXVIII, § 2811(g), Oct. 17, 2006, 120 Stat. 2473; Pub. L. 110–181, div. B, title XXVIII, § 2825, Jan. 28, 2008, 122 Stat. 545; Pub. L. 111–84, div. A, title X, § 1073(a)(27), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title X, § 1075(b)(43), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–81, div. B, title XXVIII, § 2813, Dec. 31, 2011, 125 Stat. 1687; Pub. L. 113–66, div. A, title III, § 312(a), Dec. 26, 2013, 127 Stat. 729; Pub. L. 113–291, div. A, title X, § 1071(f)(23), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 115–91, div. B, title XXVIII, § 2811(g), Dec. 12, 2017, 131 Stat. 1848; Pub. L. 115–232, div. A, title III, § 312(i), div. B, title XXVIII, § 2827(b)(1), Aug. 13, 2018, 132 Stat. 1711, 2270; Pub. L. 116–283, div. A, title III, §§ 312(a)–(b)(2), (c), 315(b), title IX, § 924(b)(33), title X, § 1081(d)(12), Jan. 1, 2021, 134 Stat. 3513–3515, 3826, 3874; Pub. L. 117–81, div. A, title III, § 317(b), Dec. 27, 2021, 135 Stat. 1631; Pub. L. 118–31, div. A, title III, §§ 311(c)(1), 314, Dec. 22, 2023, 137 Stat. 215, 216.)
+(Added Pub. L. 107–314, div. B, title XXVIII, § 2811(a), Dec. 2, 2002, 116 Stat. 2705; amended Pub. L. 109–163, div. B, title XXVIII, § 2822, Jan. 6, 2006, 119 Stat. 3513; Pub. L. 109–364, div. B, title XXVIII, § 2811(g), Oct. 17, 2006, 120 Stat. 2473; Pub. L. 110–181, div. B, title XXVIII, § 2825, Jan. 28, 2008, 122 Stat. 545; Pub. L. 111–84, div. A, title X, § 1073(a)(27), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title X, § 1075(b)(43), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–81, div. B, title XXVIII, § 2813, Dec. 31, 2011, 125 Stat. 1687; Pub. L. 113–66, div. A, title III, § 312(a), Dec. 26, 2013, 127 Stat. 729; Pub. L. 113–291, div. A, title X, § 1071(f)(23), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 115–91, div. B, title XXVIII, § 2811(g), Dec. 12, 2017, 131 Stat. 1848; Pub. L. 115–232, div. A, title III, § 312(i), div. B, title XXVIII, § 2827(b)(1), Aug. 13, 2018, 132 Stat. 1711, 2270; Pub. L. 116–283, div. A, title III, §§ 312(a)–(b)(2), (c), 315(b), title IX, § 924(b)(33), title X, § 1081(d)(12), Jan. 1, 2021, 134 Stat. 3513–3515, 3826, 3874; Pub. L. 117–81, div. A, title III, § 317(b), Dec. 27, 2021, 135 Stat. 1631; Pub. L. 118–31, div. A, title III, §§ 311(c)(1), 314, Dec. 22, 2023, 137 Stat. 215, 216.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Sikes Act, referred to in subsec. (i), is Pub. L. 86–797, Sept. 15, 1960, 74 Stat. 1052, which is classified generally to chapter 5C (§ 670 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 670 of Title 16 and Tables.
+The Sikes Act, referred to in subsec. (i), is Pub. L. 86–797, Sept. 15, 1960, 74 Stat. 1052, which is classified generally to chapter 5C (§ 670 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 670 of Title 16 and Tables.
 
 **Amendments**
 
-2023—Subsecs. (c) to (f). Pub. L. 118–31, § 314(1), (2), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) redesignated (g).
+2023—Subsecs. (c) to (f). Pub. L. 118–31, § 314(1), (2), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 118–31, § 314(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 118–31, § 314(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (g)(2)(E). Pub. L. 118–31, § 311(c)(1), substituted “Sentinel Landscapes Partnership under section 2693 of this title” for “Sentinel Landscapes Partnership established under section 317 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 2684a note)”.
+Subsec. (g)(2)(E). Pub. L. 118–31, § 311(c)(1), substituted “Sentinel Landscapes Partnership under section 2693 of this title” for “Sentinel Landscapes Partnership established under section 317 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 2684a note)”.
 
-Subsec. (h). Pub. L. 118–31, § 314(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 118–31, § 314(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
-Subsec. (h)(2)(D). Pub. L. 118–31, § 314(3), substituted “subsection (e)” for “subsection (d)”.
+Subsec. (h)(2)(D). Pub. L. 118–31, § 314(3), substituted “subsection (e)” for “subsection (d)”.
 
-Subsecs. (i) to (k). Pub. L. 118–31, § 314(1), redesignated subsecs. (h) to (j) as (i) to (k), respectively.
+Subsecs. (i) to (k). Pub. L. 118–31, § 314(1), redesignated subsecs. (h) to (j) as (i) to (k), respectively.
 
-2021—Subsec. (a). Pub. L. 116–283, § 1081(d)(12), made technical amendment to directory language of Pub. L. 115–232, § 2827(b)(1). See 2018 Amendment note below.
+2021—Subsec. (a). Pub. L. 116–283, § 1081(d)(12), made technical amendment to directory language of Pub. L. 115–232, § 2827(b)(1). See 2018 Amendment note below.
 
-Subsec. (a)(2)(B). Pub. L. 116–283, § 315(b)(1)(A), struck out cl. (i) designation after “(B)” and “or” after “the installation;” and struck out cl. (ii) which read as follows: “maintains or improves military installation resilience; or”.
+Subsec. (a)(2)(B). Pub. L. 116–283, § 315(b)(1)(A), struck out cl. (i) designation after “(B)” and “or” after “the installation;” and struck out cl. (ii) which read as follows: “maintains or improves military installation resilience; or”.
 
-Subsec. (a)(3), (4). Pub. L. 116–283, § 315(b)(1)(B), (C), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (a)(3), (4). Pub. L. 116–283, § 315(b)(1)(B), (C), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (b). Pub. L. 116–283, § 312(b)(1), substituted “For purposes of this section, an eligible entity is” for “An agreement under this section may be entered into with” in introductory provisions.
+Subsec. (b). Pub. L. 116–283, § 312(b)(1), substituted “For purposes of this section, an eligible entity is” for “An agreement under this section may be entered into with” in introductory provisions.
 
-Subsec. (d)(1). Pub. L. 116–283, § 312(b)(2), substituted “an eligible entity or entities” for “the entity or entities” in two places.
+Subsec. (d)(1). Pub. L. 116–283, § 312(b)(2), substituted “an eligible entity or entities” for “the entity or entities” in two places.
 
-Subsec. (d)(5)(A). Pub. L. 116–283, § 312(c)(1), inserted “or another Federal agency” after “to a State” in two places.
+Subsec. (d)(5)(A). Pub. L. 116–283, § 312(c)(1), inserted “or another Federal agency” after “to a State” in two places.
 
-Subsec. (d)(5)(B). Pub. L. 116–283, § 312(c)(2), added subpar. (B) and struck out former subpar. (B) which related to property or interest acquired under an agreement transferred to the United States where administrative jurisdiction over the property was under a Federal official other than a Secretary concerned.
+Subsec. (d)(5)(B). Pub. L. 116–283, § 312(c)(2), added subpar. (B) and struck out former subpar. (B) which related to property or interest acquired under an agreement transferred to the United States where administrative jurisdiction over the property was under a Federal official other than a Secretary concerned.
 
 Subsec. (g)(2)(E), (F). Pub. L. 117–81 added subpar. (E) and redesignated former subpar. (E) as (F).
 
-Subsec. (h). Pub. L. 116–283, § 315(b)(2), amended subsec. (h) generally. Prior to amendment, subsec. (h) related to interagency cooperation in conservation programs to avoid or reduce adverse impacts on military readiness activities.
+Subsec. (h). Pub. L. 116–283, § 315(b)(2), amended subsec. (h) generally. Prior to amendment, subsec. (h) related to interagency cooperation in conservation programs to avoid or reduce adverse impacts on military readiness activities.
 
-Subsec. (i)(1), (2). Pub. L. 116–283, § 924(b)(33), inserted “Space Force,” before “or Defense-wide activities”.
+Subsec. (i)(1), (2). Pub. L. 116–283, § 924(b)(33), inserted “Space Force,” before “or Defense-wide activities”.
 
-Subsec. (i)(3). Pub. L. 116–283, § 312(a), added par. (3).
+Subsec. (i)(3). Pub. L. 116–283, § 312(a), added par. (3).
 
-2018—Subsec. (a). Pub. L. 115–232, § 2827(b)(1), as amended by Pub. L. 116–283, § 1081(d)(12), inserted “, as well as a State-owned National Guard installation,” after “military installation” in introductory provisions.
+2018—Subsec. (a). Pub. L. 115–232, § 2827(b)(1), as amended by Pub. L. 116–283, § 1081(d)(12), inserted “, as well as a State-owned National Guard installation,” after “military installation” in introductory provisions.
 
-Subsec. (a)(2)(B). Pub. L. 115–232, § 312(i), designated existing provisions as cl. (i) and added cl. (ii).
+Subsec. (a)(2)(B). Pub. L. 115–232, § 312(i), designated existing provisions as cl. (i) and added cl. (ii).
 
-2017—Subsec. (d)(4)(D)(i). Pub. L. 115–91, § 2811(g)(1), substituted “submits, in an electronic medium pursuant to section 480 of this title, a notice” for “provides written notice” in introductory provisions.
+2017—Subsec. (d)(4)(D)(i). Pub. L. 115–91, § 2811(g)(1), substituted “submits, in an electronic medium pursuant to section 480 of this title, a notice” for “provides written notice” in introductory provisions.
 
-Subsec. (d)(4)(D)(ii). Pub. L. 115–91, § 2811(g)(2), substituted “10 days after the date on which the notice is submitted under clause (i).” for “14 days after the date on which the notice is submitted under clause (i) or, if earlier, at least 10 days after the date on which a copy of the notice is provided in an electronic medium pursuant to section 480 of this title.”
+Subsec. (d)(4)(D)(ii). Pub. L. 115–91, § 2811(g)(2), substituted “10 days after the date on which the notice is submitted under clause (i).” for “14 days after the date on which the notice is submitted under clause (i) or, if earlier, at least 10 days after the date on which a copy of the notice is provided in an electronic medium pursuant to section 480 of this title.”
 
 2014—Subsec. (h). Pub. L. 113–291 inserted “670” after “U.S.C.”.
 
 2013—Subsecs. (h) to (j). Pub. L. 113–66 added subsec. (h) and redesignated former subsecs. (h) and (i) as (i) and (j), respectively.
 
-2011—Subsec. (a)(3). Pub. L. 112–81, § 2813(1), added par. (3).
+2011—Subsec. (a)(3). Pub. L. 112–81, § 2813(1), added par. (3).
 
-Subsec. (c). Pub. L. 112–81, § 2813(2), amended subsec. (c) generally. Prior to amendment, text read as follows: “Chapter 63 of title 31 shall not apply to any agreement entered into under this section.”
+Subsec. (c). Pub. L. 112–81, § 2813(2), amended subsec. (c) generally. Prior to amendment, text read as follows: “Chapter 63 of title 31 shall not apply to any agreement entered into under this section.”
 
-Subsec. (d)(3). Pub. L. 112–81, § 2813(3)(A), inserted “, and the monitoring and enforcement of any right, title, or interest in,” after “resources on” and “and monitoring and enforcement” after “natural resource management”, and inserted at end “Any such payment by the United States—
+Subsec. (d)(3). Pub. L. 112–81, § 2813(3)(A), inserted “, and the monitoring and enforcement of any right, title, or interest in,” after “resources on” and “and monitoring and enforcement” after “natural resource management”, and inserted at end “Any such payment by the United States—
 
 “(A) may be paid in a lump sum and include an amount intended to cover the future costs of natural resource management and monitoring and enforcement; and
 
 “(B) may be placed by the eligible entity in an interest-bearing account, and any interest shall be applied for the same purposes as the principal.”
 
-Subsec. (d)(5). Pub. L. 112–81, § 2813(3)(B), designated existing provisions as subpar. (A), inserted after first sentence “No such requirement need be included in the agreement if the property or interest is being transferred to a State, or the agreement requires it to be subsequently transferred to a State, and the Secretary concerned determines that the laws and regulations applicable to the future use of such property or interest provide adequate assurance that the property concerned will be developed and used in a manner appropriate for purposes of this section.”, and added subpar. (B).
+Subsec. (d)(5). Pub. L. 112–81, § 2813(3)(B), designated existing provisions as subpar. (A), inserted after first sentence “No such requirement need be included in the agreement if the property or interest is being transferred to a State, or the agreement requires it to be subsequently transferred to a State, and the Secretary concerned determines that the laws and regulations applicable to the future use of such property or interest provide adequate assurance that the property concerned will be developed and used in a manner appropriate for purposes of this section.”, and added subpar. (B).
 
 Subsec. (g)(1). Pub. L. 111–383 substituted “March 1 each year” for “March 1, 2007, and annually thereafter”.
 
-Subsec. (i)(3). Pub. L. 112–81, § 2813(4), added par. (3).
+Subsec. (i)(3). Pub. L. 112–81, § 2813(4), added par. (3).
 
 2009—Subsec. (g)(2). Pub. L. 111–84 substituted “the following” for “the following the following” in introductory provisions.
 
-2008—Subsec. (d)(3), (4). Pub. L. 110–181, § 2825(a), added par. (3) and redesignated former par. (3) as (4). Former par. (4) redesignated (5).
+2008—Subsec. (d)(3), (4). Pub. L. 110–181, § 2825(a), added par. (3) and redesignated former par. (3) as (4). Former par. (4) redesignated (5).
 
-Subsec. (d)(4)(C). Pub. L. 110–181, § 2825(b)(2), substituted “equal to, at the discretion of the Secretary concerned—” and cls. (i) and (ii) for “equal to the fair market value of any property or interest to be transferred to the United States upon the request of the Secretary concerned under paragraph (4).”
+Subsec. (d)(4)(C). Pub. L. 110–181, § 2825(b)(2), substituted “equal to, at the discretion of the Secretary concerned—” and cls. (i) and (ii) for “equal to the fair market value of any property or interest to be transferred to the United States upon the request of the Secretary concerned under paragraph (4).”
 
-Subsec. (d)(4)(D), (E). Pub. L. 110–181, § 2825(b)(1), (3), added subpar. (D) and redesignated former subpar. (D) as (E).
+Subsec. (d)(4)(D), (E). Pub. L. 110–181, § 2825(b)(1), (3), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-Subsec. (d)(5) to (7). Pub. L. 110–181, § 2825(a)(1), redesignated pars. (4) to (6) as (5) to (7), respectively.
+Subsec. (d)(5) to (7). Pub. L. 110–181, § 2825(a)(1), redesignated pars. (4) to (6) as (5) to (7), respectively.
 
-2006—Subsec. (a). Pub. L. 109–163, § 2822(a)(1), in introductory provisions, inserted “or entities” after “entity” and substituted “in the vicinity of, or ecologically related to, a military installation or military airspace” for “in the vicinity of a military installation”.
+2006—Subsec. (a). Pub. L. 109–163, § 2822(a)(1), in introductory provisions, inserted “or entities” after “entity” and substituted “in the vicinity of, or ecologically related to, a military installation or military airspace” for “in the vicinity of a military installation”.
 
-Subsec. (d)(1). Pub. L. 109–163, § 2822(a)(2)(A)(i), (b)(1)(A), inserted “or entities” after “eligible entity” and substituted “shall provide” for “may provide” in introductory provisions.
+Subsec. (d)(1). Pub. L. 109–163, § 2822(a)(2)(A)(i), (b)(1)(A), inserted “or entities” after “eligible entity” and substituted “shall provide” for “may provide” in introductory provisions.
 
-Subsec. (d)(1)(A). Pub. L. 109–163, § 2822(a)(2)(A)(ii), inserted “or entities” after “the entity”.
+Subsec. (d)(1)(A). Pub. L. 109–163, § 2822(a)(2)(A)(ii), inserted “or entities” after “the entity”.
 
-Subsec. (d)(1)(B). Pub. L. 109–163, § 2822(b)(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “the sharing by the United States and the entity of the acquisition costs.”
+Subsec. (d)(1)(B). Pub. L. 109–163, § 2822(b)(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “the sharing by the United States and the entity of the acquisition costs.”
 
 Subsec. (d)(3). Pub. L. 109–364 added subpar. (B), redesignated former subpars. (B) and (C) as (C) and (D), respectively, and in subpar. (C) substituted “under subparagraph (A), either through the contribution of funds or excess real property, or both,” for “in the sharing of acquisition costs of real property, or an interest in real property, under paragraph (1)(B)”.
 
-Pub. L. 109–163, § 2822(b)(3), added par. (3). Former par. (3) redesignated (4).
+Pub. L. 109–163, § 2822(b)(3), added par. (3). Former par. (3) redesignated (4).
 
-Pub. L. 109–163, § 2822(a)(2)(B), inserted “or entities” after “the entity”.
+Pub. L. 109–163, § 2822(a)(2)(B), inserted “or entities” after “the entity”.
 
-Subsec. (d)(4) to (6). Pub. L. 109–163, § 2822(b)(2), redesignated pars. (3) to (5) as (4) to (6), respectively.
+Subsec. (d)(4) to (6). Pub. L. 109–163, § 2822(b)(2), redesignated pars. (3) to (5) as (4) to (6), respectively.
 
-Subsecs. (g) to (i). Pub. L. 109–163, § 2822(c), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
+Subsecs. (g) to (i). Pub. L. 109–163, § 2822(c), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 116–283, div. A, title III, § 312(b)(3), Jan. 1, 2021, 134 Stat. 3513, provided that: “The amendments made by paragraphs (1) and (2) [amending this section] shall apply to any agreement entered into under section 2684a of title 10, United States Code, on or after December 2, 2002.”
+Pub. L. 116–283, div. A, title III, § 312(b)(3), Jan. 1, 2021, 134 Stat. 3513, provided that: “The amendments made by paragraphs (1) and (2) [amending this section] shall apply to any agreement entered into under section 2684a of title 10, United States Code, on or after December 2, 2002.”
 
-Pub. L. 116–283, div. A, title X, § 1081(d), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(d)(12) of Pub. L. 116–283 to section 2827(b)(1) of Pub. L. 115–232, which amended this section, is effective as of Aug. 13, 2018, and as if included in Pub. L. 115–232.
+Pub. L. 116–283, div. A, title X, § 1081(d), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(d)(12) of Pub. L. 116–283 to section 2827(b)(1) of Pub. L. 115–232, which amended this section, is effective as of Aug. 13, 2018, and as if included in Pub. L. 115–232.
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–232, div. B, title XXVIII, § 2827(b)(2), Aug. 13, 2018, 132 Stat. 2270, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as of December 2, 2002.”
+Pub. L. 115–232, div. B, title XXVIII, § 2827(b)(2), Aug. 13, 2018, 132 Stat. 2270, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as of December 2, 2002.”
 
 **Termination of 2013 Amendment**
 
-Pub. L. 113–66, div. A, title III, § 312(b), Dec. 26, 2013, 127 Stat. 729, which provided that section 312 of Pub. L. 113–66, which amended this section, and subsec. (h) of this section would expire on Oct. 1, 2019, subject to a provision continuing any agreements existing before that date, was repealed by Pub. L. 115–91, div. A, title III, § 317(f), Dec. 12, 2017, 131 Stat. 1352. Another section 317(f) of Pub. L. 115–91 was formerly set out in a note below, prior to being transferred to chapter 159 of this title and redesignated as section 2693(g) by Pub. L. 118–31, div. A, title III, § 311(a), (b)(5), Dec. 22, 2023, 137 Stat. 213, 214.
+Pub. L. 113–66, div. A, title III, § 312(b), Dec. 26, 2013, 127 Stat. 729, which provided that section 312 of Pub. L. 113–66, which amended this section, and subsec. (h) of this section would expire on Oct. 1, 2019, subject to a provision continuing any agreements existing before that date, was repealed by Pub. L. 115–91, div. A, title III, § 317(f), Dec. 12, 2017, 131 Stat. 1352. Another section 317(f) of Pub. L. 115–91 was formerly set out in a note below, prior to being transferred to chapter 159 of this title and redesignated as section 2693(g) by Pub. L. 118–31, div. A, title III, § 311(a), (b)(5), Dec. 22, 2023, 137 Stat. 213, 214.
 
 **Termination of Reporting Requirements**
 
@@ -3842,7 +3842,7 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (g) of this s
 
 **Guidance on Encroachment That Affects Covered Sites**
 
-Pub. L. 118–31, div. B, title XXVIII, § 2887, Dec. 22, 2023, 137 Stat. 784, provided that:
+Pub. L. 118–31, div. B, title XXVIII, § 2887, Dec. 22, 2023, 137 Stat. 784, provided that:
 
 > **“(a) Guidance Required.—** Not later than 180 days after the date of the enactment of this Act [Dec. 22, 2023], each Secretary of a military department shall issue guidance to establish—
 
@@ -3896,9 +3896,9 @@ Pub. L. 118–31, div. B, title XXVIII, § 2887, Dec. 22, 2023, 137 Stat. 784,
 
 **Sentinel Landscapes Partnership**
 
-Pub. L. 115–91, div. A, title III, § 317(a)–(f), Dec. 12, 2017, 131 Stat. 1351, 1352, as amended by Pub. L. 117–81, div. A, title III, § 317(a), Dec. 27, 2021, 135 Stat. 1631, which authorized the establishment of the Sentinel Landscapes Partnership, was transferred to chapter 159 of this title and redesignated as section 2693 by Pub. L. 118–31, div. A, title III, § 311(a), Dec. 22, 2023, 137 Stat. 213. Another section 317(f) of Pub. L. 115–91 repealed section 312(b) of Pub. L. 113–66, see Termination of 2013 Amendment note above.
+Pub. L. 115–91, div. A, title III, § 317(a)–(f), Dec. 12, 2017, 131 Stat. 1351, 1352, as amended by Pub. L. 117–81, div. A, title III, § 317(a), Dec. 27, 2021, 135 Stat. 1631, which authorized the establishment of the Sentinel Landscapes Partnership, was transferred to chapter 159 of this title and redesignated as section 2693 by Pub. L. 118–31, div. A, title III, § 311(a), Dec. 22, 2023, 137 Stat. 213. Another section 317(f) of Pub. L. 115–91 repealed section 312(b) of Pub. L. 113–66, see Termination of 2013 Amendment note above.
 
-## § 2685. Adjustment of or surcharge on selling prices in commissary stores to provide funds for construction and improvement of commissary store facilities
+## § 2685. Adjustment of or surcharge on selling prices in commissary stores to provide funds for construction and improvement of commissary store facilities
 
 **(a) Adjustment or Surcharge Authorized.—** Notwithstanding any other provision of law, the Secretary of Defense may, for the purposes of this section, provide for an adjustment of, or surcharge on, sales prices of goods and services sold in commissary store facilities.
 
@@ -3932,27 +3932,27 @@ Pub. L. 115–91, div. A, title III, § 317(a)–(f), Dec. 12, 2017, 131 Stat.
 
 **(5)** Fees paid by sources of products in order to obtain favorable display of the products for resale, known as business related management fees.
 
-(Added Pub. L. 93–552, title VI, § 611, Dec. 27, 1974, 88 Stat. 1765; amended Pub. L. 95–82, title VI, § 614, Aug. 1, 1977, 91 Stat. 380; Pub. L. 97–321, title VIII, § 804, Oct. 15, 1982, 96 Stat. 1572; Pub. L. 103–337, div. B, title XXVIII, § 2851, Oct. 5, 1994, 108 Stat. 3072; Pub. L. 105–85, div. A, title III, § 374, Nov. 18, 1997, 111 Stat. 1707; Pub. L. 106–398, § 1 [[div. A], title III, § 333(a), (b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–60.)
+(Added Pub. L. 93–552, title VI, § 611, Dec. 27, 1974, 88 Stat. 1765; amended Pub. L. 95–82, title VI, § 614, Aug. 1, 1977, 91 Stat. 380; Pub. L. 97–321, title VIII, § 804, Oct. 15, 1982, 96 Stat. 1572; Pub. L. 103–337, div. B, title XXVIII, § 2851, Oct. 5, 1994, 108 Stat. 3072; Pub. L. 105–85, div. A, title III, § 374, Nov. 18, 1997, 111 Stat. 1707; Pub. L. 106–398, § 1 [[div. A], title III, § 333(a), (b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–60.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2000—Subsec. (a). Pub. L. 106–398, § 1 [[div. A], title III, § 333(b)(1)], substituted “Secretary of Defense” for “Secretary of a military department, under regulations established by him and approved by the Secretary of Defense,”.
+2000—Subsec. (a). Pub. L. 106–398, § 1 [[div. A], title III, § 333(b)(1)], substituted “Secretary of Defense” for “Secretary of a military department, under regulations established by him and approved by the Secretary of Defense,”.
 
-Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title III, § 333(a)], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary of a military department, under regulations established by him and approved by the Secretary of Defense, may use the proceeds from the adjustments or surcharges authorized by subsection (a) to acquire, construct, convert, expand, install, or otherwise improve commissary store facilities at defense installations and for related environmental evaluation and construction costs, including surveys, administration, overhead, planning, and design.”
+Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title III, § 333(a)], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary of a military department, under regulations established by him and approved by the Secretary of Defense, may use the proceeds from the adjustments or surcharges authorized by subsection (a) to acquire, construct, convert, expand, install, or otherwise improve commissary store facilities at defense installations and for related environmental evaluation and construction costs, including surveys, administration, overhead, planning, and design.”
 
-Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title III, § 333(b)(2)], substituted “Secretary of Defense, with the approval of” for “Secretary of a military department, with the approval of the Secretary of Defense and” and “Secretary determines” for “Secretary of the military department determines”.
+Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title III, § 333(b)(2)], substituted “Secretary of Defense, with the approval of” for “Secretary of a military department, with the approval of the Secretary of Defense and” and “Secretary determines” for “Secretary of the military department determines”.
 
-Subsec. (d)(1). Pub. L. 106–398, § 1 [[div. A], title III, § 333(b)(3)], substituted “Secretary of Defense” for “Secretary of a military department”.
+Subsec. (d)(1). Pub. L. 106–398, § 1 [[div. A], title III, § 333(b)(3)], substituted “Secretary of Defense” for “Secretary of a military department”.
 
-1997—Subsecs. (a) to (d). Pub. L. 105–85, § 374(b), inserted subsec. headings.
+1997—Subsecs. (a) to (d). Pub. L. 105–85, § 374(b), inserted subsec. headings.
 
-Subsec. (e). Pub. L. 105–85, § 374(a), added subsec. (e).
+Subsec. (e). Pub. L. 105–85, § 374(a), added subsec. (e).
 
-1994—Subsec. (c). Pub. L. 103–337, § 2851(b), inserted “or (d)” after “subsection (b)” in two places.
+1994—Subsec. (c). Pub. L. 103–337, § 2851(b), inserted “or (d)” after “subsection (b)” in two places.
 
-Subsec. (d). Pub. L. 103–337, § 2851(a), added subsec. (d).
+Subsec. (d). Pub. L. 103–337, § 2851(a), added subsec. (d).
 
 1982—Subsec. (c). Pub. L. 97–321 added subsec. (c).
 
@@ -3962,9 +3962,9 @@ Subsec. (d). Pub. L. 103–337, § 2851(a), added subsec. (d).
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–398, § 1 [[div. A], title III, § 333(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–60, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2001.”
+Pub. L. 106–398, § 1 [[div. A], title III, § 333(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–60, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2001.”
 
-## § 2686. Utilities and services: sale; expansion and extension of systems and facilities
+## § 2686. Utilities and services: sale; expansion and extension of systems and facilities
 
 **(a)** Under such regulations and for such periods and at such prices as he may prescribe, the Secretary concerned or his designee may sell or contract to sell to purchasers within or in the immediate vicinity of an activity of the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard, as the case may be, any of the following utilities and related services, if it is determined that they are not available from another local source and that the sale is in the interest of national defense or in the public interest:
 
@@ -3990,13 +3990,13 @@ Pub. L. 106–398, § 1 [[div. A], title III, § 333(c)], Oct. 30, 2000, 114
 
 **(c)** To meet local needs the Secretary concerned may make minor expansions and extensions of any distributing system or facility within an activity through which a utility or service is furnished under subsection (a).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 141, § 2481; Pub. L. 86–156, Aug. 14, 1959, 73 Stat. 338; renumbered § 2686, Pub. L. 105–85, div. A, title III, § 371(b)(1), Nov. 18, 1997, 111 Stat. 1705; Pub. L. 116–283, div. A, title IX, § 924(b)(2)(A)(viii), Jan. 1, 2021, 134 Stat. 3821.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 141, § 2481; Pub. L. 86–156, Aug. 14, 1959, 73 Stat. 338; renumbered § 2686, Pub. L. 105–85, div. A, title III, § 371(b)(1), Nov. 18, 1997, 111 Stat. 1705; Pub. L. 116–283, div. A, title IX, § 924(b)(2)(A)(viii), Jan. 1, 2021, 134 Stat. 3821.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2481(a) | 5:626s. 5:626s–1 (less words between semicolon and colon). 10:1269. | July 30, 1947, ch. 394, 61 Stat. 675; Aug. 8, 1949, ch. 403, § 5, 63 Stat. 576. |
+| 2481(a) | 5:626s. 5:626s–1 (less words between semicolon and colon). 10:1269. | July 30, 1947, ch. 394, 61 Stat. 675; Aug. 8, 1949, ch. 403, § 5, 63 Stat. 576. |
 |  | 10:1269a (less words between semicolon and colon). |  |
 |  | 34:553a. |  |
 |  | 34:553b (less words between semicolon and colon). |  |
@@ -4015,7 +4015,7 @@ In subsection (b), the words “of sales under subsection (a)” are substituted
 
 **Prior Provisions**
 
-A prior section 2686, added Pub. L. 95–82, title V, § 504(a)(1), Aug. 1, 1977, 91 Stat. 371; amended Pub. L. 95–356, title V, § 503(a), Sept. 8, 1978, 92 Stat. 579; Pub. L. 96–125, title V, § 502(a), Nov. 26, 1979, 93 Stat. 940; Pub. L. 96–418, title V, § 504(a), Oct. 10, 1980, 94 Stat. 1765, related to military family housing leases, prior to repeal by Pub. L. 97–214, §§ 7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See section 2828(a), (b) of this title.
+A prior section 2686, added Pub. L. 95–82, title V, § 504(a)(1), Aug. 1, 1977, 91 Stat. 371; amended Pub. L. 95–356, title V, § 503(a), Sept. 8, 1978, 92 Stat. 579; Pub. L. 96–125, title V, § 502(a), Nov. 26, 1979, 93 Stat. 940; Pub. L. 96–418, title V, § 504(a), Oct. 10, 1980, 94 Stat. 1765, related to military family housing leases, prior to repeal by Pub. L. 97–214, §§ 7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See section 2828(a), (b) of this title.
 
 **Amendments**
 
@@ -4023,9 +4023,9 @@ A prior section 2686, added Pub. L. 95–82, title V, § 504(a)(1), Aug. 1, 19
 
 1997—Pub. L. 105–85 renumbered section 2481 of this title as this section.
 
-1959—Subsec. (a). Pub. L. 86–156, § 1(1), substituted “concerned” for “of a military department” and inserted “or Coast Guard,” after “Marine Corps,”.
+1959—Subsec. (a). Pub. L. 86–156, § 1(1), substituted “concerned” for “of a military department” and inserted “or Coast Guard,” after “Marine Corps,”.
 
-Subsec. (c). Pub. L. 86–156, § 1(2), struck out “of the military department” after “Secretary”.
+Subsec. (c). Pub. L. 86–156, § 1(2), struck out “of the military department” after “Secretary”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4033,7 +4033,7 @@ Subsec. (c). Pub. L. 86–156, § 1(2), struck out “of the military departme
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 2687. Base closures and realignments
+## § 2687. Base closures and realignments
 
 **(a)** Notwithstanding any other provision of law, no action may be taken to effect or implement—
 
@@ -4091,29 +4091,29 @@ unless and until the provisions of subsection (b) are complied with.
 
 **(5)** The term “mothball action” means placing a military installation in inactive status while maintaining such installation in a condition such that it could be reactivated at a future date.
 
-(Added Pub. L. 95–82, title VI, § 612(a), Aug. 1, 1977, 91 Stat. 379; amended Pub. L. 95–356, title VIII, § 805, Sept. 8, 1978, 92 Stat. 586; Pub. L. 97–214, § 10(a)(8), July 12, 1982, 96 Stat. 175; Pub. L. 98–525, title XIV, § 1405(41), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 99–145, title XII, § 1202(a), Nov. 8, 1985, 99 Stat. 716; Pub. L. 100–180, div. A, title XII, § 1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–510, div. B, title XXIX, § 2911, Nov. 5, 1990, 104 Stat. 1819; Pub. L. 104–106, div. A, title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 110–417, div. B, title XXVIII, § 2823(a), Oct. 14, 2008, 122 Stat. 4730; Pub. L. 112–81, div. B, title XXVII, § 2704, Dec. 31, 2011, 125 Stat. 1682; Pub. L. 112–239, div. A, title X, § 1076(f)(33), div. B, title XXVII, § 2712(a), Jan. 2, 2013, 126 Stat. 1954, 2144; Pub. L. 119–60, div. B, title XXVIII, § 2846(a), Dec. 18, 2025, 139 Stat. 1318.)
+(Added Pub. L. 95–82, title VI, § 612(a), Aug. 1, 1977, 91 Stat. 379; amended Pub. L. 95–356, title VIII, § 805, Sept. 8, 1978, 92 Stat. 586; Pub. L. 97–214, § 10(a)(8), July 12, 1982, 96 Stat. 175; Pub. L. 98–525, title XIV, § 1405(41), Oct. 19, 1984, 98 Stat. 2624; Pub. L. 99–145, title XII, § 1202(a), Nov. 8, 1985, 99 Stat. 716; Pub. L. 100–180, div. A, title XII, § 1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–510, div. B, title XXIX, § 2911, Nov. 5, 1990, 104 Stat. 1819; Pub. L. 104–106, div. A, title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 110–417, div. B, title XXVIII, § 2823(a), Oct. 14, 2008, 122 Stat. 4730; Pub. L. 112–81, div. B, title XXVII, § 2704, Dec. 31, 2011, 125 Stat. 1682; Pub. L. 112–239, div. A, title X, § 1076(f)(33), div. B, title XXVII, § 2712(a), Jan. 2, 2013, 126 Stat. 1954, 2144; Pub. L. 119–60, div. B, title XXVIII, § 2846(a), Dec. 18, 2025, 139 Stat. 1318.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (f), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (f), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Amendments**
 
-2025—Subsec. (a)(1). Pub. L. 119–60, § 2846(a)(1), inserted “, including a mothball action, divestiture, deactivation, or any other action to render inoperable,” after “closure”.
+2025—Subsec. (a)(1). Pub. L. 119–60, § 2846(a)(1), inserted “, including a mothball action, divestiture, deactivation, or any other action to render inoperable,” after “closure”.
 
-Subsec. (g)(5). Pub. L. 119–60, § 2846(a)(2), added par. (5).
+Subsec. (g)(5). Pub. L. 119–60, § 2846(a)(2), added par. (5).
 
-2013—Subsecs. (c) to (e). Pub. L. 112–239, § 2712(a)(2), (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively. Former subsec. (e) redesignated (g).
+2013—Subsecs. (c) to (e). Pub. L. 112–239, § 2712(a)(2), (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively. Former subsec. (e) redesignated (g).
 
-Subsec. (f). Pub. L. 112–239, § 1076(f)(33), substituted “as a result” for “at a result” in introductory provisions.
+Subsec. (f). Pub. L. 112–239, § 1076(f)(33), substituted “as a result” for “at a result” in introductory provisions.
 
-Subsec. (g). Pub. L. 112–239, § 2712(a)(1), redesignated subsec. (e) as (g).
+Subsec. (g). Pub. L. 112–239, § 2712(a)(1), redesignated subsec. (e) as (g).
 
-2011—Subsec. (b)(1). Pub. L. 112–81, § 2704(a), substituted “notification—” for “notification”, inserted subpar. (A) designation before “an evaluation”, and added subpar. (B).
+2011—Subsec. (b)(1). Pub. L. 112–81, § 2704(a), substituted “notification—” for “notification”, inserted subpar. (A) designation before “an evaluation”, and added subpar. (B).
 
-Subsec. (f). Pub. L. 112–81, § 2704(b), added subsec. (f).
+Subsec. (f). Pub. L. 112–81, § 2704(b), added subsec. (f).
 
 2008—Subsec. (e)(1). Pub. L. 110–417 inserted “the Commonwealth of the Northern Mariana Islands,” after “Virgin Islands,”.
 
@@ -4127,13 +4127,13 @@ Subsec. (f). Pub. L. 112–81, § 2704(b), added subsec. (f).
 
 1985—Pub. L. 99–145 amended section generally, thereby applying the section only to closure of bases with more than 300 civilian personnel authorized to be employed and to realignments involving a reduction by more than 1,000, or by more than 50 percent, in the number of civilian personnel authorized to be employed at bases with more than 300 authorized civilian employees, striking out advance public notice required by the Secretary of Defense or the Secretary of the military department concerned when an installation is a candidate for closure or realignment, requiring that all base closure or realignment proposals be submitted to the Committee on Armed Services of the Senate and of the House of Representatives as part of the annual budget request and that such proposals contain an evaluation of the fiscal, local economic, budgetary, environmental, strategic, and operational consequences of such action, providing that no irrevocable action to implement the closure to realignment could be taken until the expiration of 30 legislative days or 60 calendar days, whichever is longer, and making explicit the authority of the Secretary to obtain architectural and engineering services under section 2807 of this title and to use funds that would otherwise be available to effect the closure or realignment after expiration of the notice period.
 
-1984—Subsec. (a)(2). Pub. L. 98–525, § 1405(41)(A), substituted “1,000” for “one thousand”.
+1984—Subsec. (a)(2). Pub. L. 98–525, § 1405(41)(A), substituted “1,000” for “one thousand”.
 
-Subsec. (b)(2). Pub. L. 98–525, § 1405(41)(B), inserted “(42 U.S.C. 4321 et seq.)”.
+Subsec. (b)(2). Pub. L. 98–525, § 1405(41)(B), inserted “(42 U.S.C. 4321 et seq.)”.
 
-Subsec. (b)(4). Pub. L. 98–525, § 1405(41)(C), substituted “60” for “sixty”.
+Subsec. (b)(4). Pub. L. 98–525, § 1405(41)(C), substituted “60” for “sixty”.
 
-Subsec. (d)(1)(B). Pub. L. 98–525, § 1405(41)(D), substituted “300” for “three hundred”.
+Subsec. (d)(1)(B). Pub. L. 98–525, § 1405(41)(D), substituted “300” for “three hundred”.
 
 1982—Subsec. (d)(1). Pub. L. 97–214 substituted “a base, camp, post, station, yard, center, or other activity under the jurisdiction of the Secretary of a military department” for “any camp, post, station, base, yard, or other facility under the authority of the Department of Defense”.
 
@@ -4143,7 +4143,7 @@ Subsec. (d)(1)(B). Pub. L. 98–525, § 1405(41)(D), substituted “300” for
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–145, title XII, § 1202(b), Nov. 8, 1985, 99 Stat. 718, provided that: “The amendment made by subsection (a) [amending this section] shall apply to closures and realignments completed on or after the date of the enactment of this Act [Nov. 8, 1985], except that any action taken to effect or implement any closure or realignment for which a public announcement was made pursuant to section 2687(b)(1) of title 10, United States Code, after April 1, 1985, and before the date of enactment of this Act shall be subject to the provisions of section 2687 of such title as in effect on the day before such date of enactment.”
+Pub. L. 99–145, title XII, § 1202(b), Nov. 8, 1985, 99 Stat. 718, provided that: “The amendment made by subsection (a) [amending this section] shall apply to closures and realignments completed on or after the date of the enactment of this Act [Nov. 8, 1985], except that any action taken to effect or implement any closure or realignment for which a public announcement was made pursuant to section 2687(b)(1) of title 10, United States Code, after April 1, 1985, and before the date of enactment of this Act shall be subject to the provisions of section 2687 of such title as in effect on the day before such date of enactment.”
 
 **Effective Date of 1982 Amendment**
 
@@ -4151,15 +4151,15 @@ Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–526, § 1, Oct. 24, 1988, 102 Stat. 2623, provided that: “This Act [amending sections 1095a, 2324, 2683, and 4415 of this title, enacting provisions set out as notes under this section and sections 154 and 2306 of this title, and amending provisions set out as notes under section 2324 of this title] may be cited as the ‘Defense Authorization Amendments and Base Closure and Realignment Act’.”
+Pub. L. 100–526, § 1, Oct. 24, 1988, 102 Stat. 2623, provided that: “This Act [amending sections 1095a, 2324, 2683, and 4415 of this title, enacting provisions set out as notes under this section and sections 154 and 2306 of this title, and amending provisions set out as notes under section 2324 of this title] may be cited as the ‘Defense Authorization Amendments and Base Closure and Realignment Act’.”
 
 **Effective Date of 1994 Amendments by Section 2813(d)(1) and (2) of Pub. L. 103–337**
 
-Pub. L. 103–337, div. B, title XXVIII, § 2813(d)(3), Oct. 5, 1994, 108 Stat. 3055, provided that: “The amendments made by paragraphs (1) and (2) [amending section 209(10) of Pub. L. 100–526 and section 2910(9) of Pub. L. 101–510, set out below] shall take effect as if included in the amendments made by section 2918 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 107 Stat. 1927).”
+Pub. L. 103–337, div. B, title XXVIII, § 2813(d)(3), Oct. 5, 1994, 108 Stat. 3055, provided that: “The amendments made by paragraphs (1) and (2) [amending section 209(10) of Pub. L. 100–526 and section 2910(9) of Pub. L. 101–510, set out below] shall take effect as if included in the amendments made by section 2918 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 107 Stat. 1927).”
 
 **Effective Date of 1991 Amendments by Section 344 of Pub. L. 102–190**
 
-Pub. L. 102–190, div. A, title III, § 344(c), Dec. 5, 1991, 105 Stat. 1346, provided that: “The amendments made by this section [amending provisions set out as notes below] shall apply with regard to the transfer or disposal of any real property or facility pursuant to title II of the Defense Authorization Amendments and Base Closure and Realignment Act [Pub. L. 100–526, set out below] or the Defense Base Closure and Realignment Act of 1990 [part A of title XXIX of div. B of Pub. L. 101–510, set out below] occurring on or after the date of the enactment of this Act [Dec. 5, 1991].”
+Pub. L. 102–190, div. A, title III, § 344(c), Dec. 5, 1991, 105 Stat. 1346, provided that: “The amendments made by this section [amending provisions set out as notes below] shall apply with regard to the transfer or disposal of any real property or facility pursuant to title II of the Defense Authorization Amendments and Base Closure and Realignment Act [Pub. L. 100–526, set out below] or the Defense Base Closure and Realignment Act of 1990 [part A of title XXIX of div. B of Pub. L. 101–510, set out below] occurring on or after the date of the enactment of this Act [Dec. 5, 1991].”
 
 **Transfer of Functions**
 
@@ -4167,7 +4167,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Base Realignment and Closure Upon Notice From Governor of State**
 
-Pub. L. 115–232, div. B, title XXVII, §§ 2702, 2703, Aug. 13, 2018, 132 Stat. 2257, 2259, provided that:
+Pub. L. 115–232, div. B, title XXVII, §§ 2702, 2703, Aug. 13, 2018, 132 Stat. 2257, 2259, provided that:
 
 > **“SEC. 2702. ADDITIONAL AUTHORITY TO REALIGN OR CLOSE CERTAIN MILITARY INSTALLATIONS.**
 
@@ -4213,7 +4213,7 @@ Pub. L. 115–232, div. B, title XXVII, §§ 2702, 2703, Aug. 13, 2018, 132 St
 
 > “Nothing in this Act [div. B of Pub. L. 115–232, see Tables for classification] shall be construed to authorize an additional Base Realignment and Closure (BRAC) round.”
 
-[Pub. L. 115–232, div. B, § 2003, Aug. 13, 2018, 132 Stat. 2241, provided that:
+[Pub. L. 115–232, div. B, § 2003, Aug. 13, 2018, 132 Stat. 2241, provided that:
 
 > “Titles XXI through XXVII [enacting sections 2702 and 2703 of title XXVII of div. B of Pub. L. 115–232, set out above] and title XXIX shall take effect on the later of—
 
@@ -4225,7 +4225,7 @@ Pub. L. 115–232, div. B, title XXVII, §§ 2702, 2703, Aug. 13, 2018, 132 St
 
 **Closure of Existing Current Accounts; Transfer of Funds**
 
-Pub. L. 112–239, div. B, title XXVII, § 2711(b), Jan. 2, 2013, 126 Stat. 2143, provided that:
+Pub. L. 112–239, div. B, title XXVII, § 2711(b), Jan. 2, 2013, 126 Stat. 2143, provided that:
 
 > **“(1) Closure.—** Subject to paragraph (2), the Secretary of the Treasury shall close, pursuant to section 1555 of title 31, United States Code, the following accounts on the books of the Treasury:
 
@@ -4243,7 +4243,7 @@ Pub. L. 112–239, div. B, title XXVII, § 2711(b), Jan. 2, 2013, 126 Stat. 21
 
 **Authority To Complete Specific Base Closure and Realignment Recommendations**
 
-Pub. L. 112–81, div. B, title XXVII, § 2703, Dec. 31, 2011, 125 Stat. 1681, provided that:
+Pub. L. 112–81, div. B, title XXVII, § 2703, Dec. 31, 2011, 125 Stat. 1681, provided that:
 
 > **“(a) Limited Authority to Extend Implementation Period.—** The Secretary of Defense shall—
 
@@ -4259,7 +4259,7 @@ Pub. L. 112–81, div. B, title XXVII, § 2703, Dec. 31, 2011, 125 Stat. 1681,
 
 **Support for Realignment of Military Installations and Relocation of Military Personnel on Guam**
 
-Pub. L. 114–92, div. B, title XXVIII, § 2822(a), (b), Nov. 25, 2015, 129 Stat. 1177, 1178, provided that:
+Pub. L. 114–92, div. B, title XXVIII, § 2822(a), (b), Nov. 25, 2015, 129 Stat. 1177, 1178, provided that:
 
 > **“(a) Report Required.—** Not later than the date of the submission of the budget of the President for each of fiscal years 2017 through 2026 under section 1105 of title 31, United States Code, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report that specifies each of the following:
 
@@ -4273,7 +4273,7 @@ Pub. L. 114–92, div. B, title XXVIII, § 2822(a), (b), Nov. 25, 2015, 129 St
 
 > **“(b) Form of Report.—** Each report required by subsection (a) shall be submitted in unclassified form, but may contain a classified annex as necessary.”
 
-Pub. L. 113–291, div. B, title XXVIII, § 2821, Dec. 19, 2014, 128 Stat. 3701, provided that:
+Pub. L. 113–291, div. B, title XXVIII, § 2821, Dec. 19, 2014, 128 Stat. 3701, provided that:
 
 > **“(a) Limitation Based on Cost Estimates.—**
 
@@ -4301,7 +4301,7 @@ Pub. L. 113–291, div. B, title XXVIII, § 2821, Dec. 19, 2014, 128 Stat. 370
 
 [For termination, effective Dec. 31, 2021, of reporting provisions in section 2821(a)(3) of Pub. L. 113–291, set out above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.]
 
-Pub. L. 112–81, div. B, title XXVIII, § 2841, Dec. 31, 2011, 125 Stat. 1696, provided that:
+Pub. L. 112–81, div. B, title XXVIII, § 2841, Dec. 31, 2011, 125 Stat. 1696, provided that:
 
 > **“(a) Management of Workforce Health Care.—** Subject to subsection (b), the Secretary of the Navy may not award any additional Navy or Marine Corps construction project or associated task order on Guam associated with the Record of Decision for the Guam and CNMI Military Relocation dated September 2010 if the aggregate of the number of employees holding a visa described in section 101(a)(15)(H)(ii)(b) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(H)(ii)(b); known as ‘H–2B workers’) to support such relocation exceeds 2,000 until the Secretary of the Navy certifies to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] that a system of health care for the H–2B workers is available.
 
@@ -4333,7 +4333,7 @@ Pub. L. 112–81, div. B, title XXVIII, § 2841, Dec. 31, 2011, 125 Stat. 1696
 
 > **“(d) Savings Clause.—** Nothing in this section shall be construed as requiring the Secretary of the Navy to establish a United States Government-sponsored or funded health care system required to be certified in subsection (a) or to be responsible in any way for the administration of a health care system or plan or the provision of health care services for the H–2B workers identified in subsection (a).”
 
-Pub. L. 111–84, div. B, title XXVIII, § 2832(a)–(c), Oct. 28, 2009, 123 Stat. 2669, 2670, provided that:
+Pub. L. 111–84, div. B, title XXVIII, § 2832(a)–(c), Oct. 28, 2009, 123 Stat. 2669, 2670, provided that:
 
 > **“(a) Special Purpose Entity Defined.—** In this section, the term ‘special purpose entity’ means any private person, corporation, firm, partnership, company, State or local government, or authority or instrumentality of a State or local government that the Secretary of Defense determines is capable of producing military family housing or providing utilities to support the realignment of military installations and the relocation of military personnel on Guam.
 
@@ -4357,9 +4357,9 @@ Pub. L. 111–84, div. B, title XXVIII, § 2832(a)–(c), Oct. 28, 2009, 123 S
 
 > **“(B)** providing a direct Federal subsidy to public-private ventures.”
 
-Pub. L. 111–84, div. B, title XXVIII, § 2835, Oct. 28, 2009, 123 Stat. 2674, as amended by Pub. L. 111–383, div. A, title X, § 1075(d)(24), Jan. 7, 2011, 124 Stat. 4374; Pub. L. 113–66, div. B, title XXVIII, § 2821, Dec. 26, 2013, 127 Stat. 1015; Pub. L. 116–283, div. B, title XXVIII, § 2851, Jan. 1, 2021, 134 Stat. 4354, which related to the Interagency Coordination Group of Inspectors General for Guam Realignment, was repealed by Pub. L. 117–263, div. B, title XXVIII, § 2868, Dec. 23, 2022, 136 Stat. 3012.
+Pub. L. 111–84, div. B, title XXVIII, § 2835, Oct. 28, 2009, 123 Stat. 2674, as amended by Pub. L. 111–383, div. A, title X, § 1075(d)(24), Jan. 7, 2011, 124 Stat. 4374; Pub. L. 113–66, div. B, title XXVIII, § 2821, Dec. 26, 2013, 127 Stat. 1015; Pub. L. 116–283, div. B, title XXVIII, § 2851, Jan. 1, 2021, 134 Stat. 4354, which related to the Interagency Coordination Group of Inspectors General for Guam Realignment, was repealed by Pub. L. 117–263, div. B, title XXVIII, § 2868, Dec. 23, 2022, 136 Stat. 3012.
 
-Pub. L. 110–417, div. B, title XXVIII, § 2824, Oct. 14, 2008, 122 Stat. 4730, as amended by Pub. L. 111–84, div. B, title XXVIII, §§ 2832(c)(1), 2833, 2834(a), Oct. 28, 2009, 123 Stat. 2670–2672; Pub. L. 114–92, div. B, title XXVIII, § 2822(c), Nov. 25, 2015, 129 Stat. 1178, provided that:
+Pub. L. 110–417, div. B, title XXVIII, § 2824, Oct. 14, 2008, 122 Stat. 4730, as amended by Pub. L. 111–84, div. B, title XXVIII, §§ 2832(c)(1), 2833, 2834(a), Oct. 28, 2009, 123 Stat. 2670–2672; Pub. L. 114–92, div. B, title XXVIII, § 2822(c), Nov. 25, 2015, 129 Stat. 1178, provided that:
 
 > **“(a) Establishment of Account.—** There is established on the books of the Treasury an account to be known as the ‘Support for United States Relocation to Guam Account’ (in this section referred to as the ‘Account’).
 
@@ -4441,49 +4441,49 @@ Pub. L. 110–417, div. B, title XXVIII, § 2824, Oct. 14, 2008, 122 Stat. 473
 
 > **“(2) Treatment of transferred amounts.—** Amounts transferred under paragraph (1) to a fund referred to in that paragraph shall be available in accordance with the provisions of section 2883 of title 10, United States Code for activities on Guam authorized under subchapter IV of chapter 169 of such title.
 
-> **“[(e)** Repealed. Pub. L. 114–92, div. B, title XXVIII, § 2822(c), Nov. 25, 2015, 129 Stat. 1178.]
+> **“[(e)** Repealed. Pub. L. 114–92, div. B, title XXVIII, § 2822(c), Nov. 25, 2015, 129 Stat. 1178.]
 
 > **“(f) Sense of Congress.—** It is the sense of Congress that the use of the Account to facilitate construction projects associated with the realignment of military installations and the relocation of military personnel on Guam, as authorized by subsection (c)(1), provides a great opportunity for business enterprises of the United States and its territories to contribute to the United States strategic presence in the western Pacific by competing for contracts awarded for such construction. Congress urges the Secretary of Defense to ensure maximum participation by business enterprises of the United States and its territories in such construction.”
 
 **Required Consultation With State and Local Entities on Issues Related to Increase in Number of Military Personnel at Military Installations**
 
-Pub. L. 109–163, div. B, title XXVIII, § 2835, Jan. 6, 2006, 119 Stat. 3521, provided that: “If the base closure and realignment decisions of the 2005 round of base closures and realignments under the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note) or the Integrated Global Presence and Basing Strategy would result in an increase in the number of members of the Armed Forces assigned to a military installation, the Secretary of Defense, during the development of the plans to implement the decisions or strategy with respect to that installation, shall consult with appropriate State and local entities to ensure that matters affecting the local community, including requirements for transportation, utility infrastructure, housing, education, and family support activities, are considered.”
+Pub. L. 109–163, div. B, title XXVIII, § 2835, Jan. 6, 2006, 119 Stat. 3521, provided that: “If the base closure and realignment decisions of the 2005 round of base closures and realignments under the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note) or the Integrated Global Presence and Basing Strategy would result in an increase in the number of members of the Armed Forces assigned to a military installation, the Secretary of Defense, during the development of the plans to implement the decisions or strategy with respect to that installation, shall consult with appropriate State and local entities to ensure that matters affecting the local community, including requirements for transportation, utility infrastructure, housing, education, and family support activities, are considered.”
 
 **Consideration of Surge Requirements in 2005 Round of Base Realignments and Closures**
 
-Pub. L. 108–136, div. B, title XXVIII, § 2822, Nov. 24, 2003, 117 Stat. 1726, directed the Secretary of Defense to assess the probable threats to national security and, as part of such assessment, determine the surge requirements to meet those threats, and to use such surge requirements determination in the base realignment and closure process under the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510, set out below).
+Pub. L. 108–136, div. B, title XXVIII, § 2822, Nov. 24, 2003, 117 Stat. 1726, directed the Secretary of Defense to assess the probable threats to national security and, as part of such assessment, determine the surge requirements to meet those threats, and to use such surge requirements determination in the base realignment and closure process under the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510, set out below).
 
 **Report on Closure and Realignment of Military Installations**
 
-Pub. L. 105–85, div. B, title XXVIII, § 2824, Nov. 18, 1997, 111 Stat. 1998, as amended by Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(9), (f)(8)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–420, 2681–430, required the Secretary of Defense to prepare and submit to the Committees on Armed Services and Appropriations of Senate and House of Representatives, not later than the date on which the President submitted to Congress the budget for fiscal year 2000, a report on the costs and savings attributable to the rounds of base closures and realignments conducted under the base closure laws and on the need, if any, for additional rounds of base closures and realignments.
+Pub. L. 105–85, div. B, title XXVIII, § 2824, Nov. 18, 1997, 111 Stat. 1998, as amended by Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(9), (f)(8)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–420, 2681–430, required the Secretary of Defense to prepare and submit to the Committees on Armed Services and Appropriations of Senate and House of Representatives, not later than the date on which the President submitted to Congress the budget for fiscal year 2000, a report on the costs and savings attributable to the rounds of base closures and realignments conducted under the base closure laws and on the need, if any, for additional rounds of base closures and realignments.
 
 **Retention of Civilian Employee Positions at Military Training Bases Transferred to National Guard**
 
-Pub. L. 104–201, div. A, title XVI, § 1602, Sept. 23, 1996, 110 Stat. 2734, directed the Secretary of Defense to retain civilian employee positions at each military training installation that was approved for closure in 1995 under the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510, set out below), is scheduled for transfer to National Guard operation and control, and will continue to be used to provide training support to active and reserve components of the Armed Forces.
+Pub. L. 104–201, div. A, title XVI, § 1602, Sept. 23, 1996, 110 Stat. 2734, directed the Secretary of Defense to retain civilian employee positions at each military training installation that was approved for closure in 1995 under the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510, set out below), is scheduled for transfer to National Guard operation and control, and will continue to be used to provide training support to active and reserve components of the Armed Forces.
 
 **Use of Funds To Improve Leased Property**
 
-Pub. L. 104–106, div. B, title XXVIII, § 2837(b), Feb. 10, 1996, 110 Stat. 561, authorized any department or agency of the Federal Government that enters into a lease of property under section 2905(b)(4)(E) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510, set out below), to improve the leased property using funds appropriated or otherwise available to the department or agency for such purpose.
+Pub. L. 104–106, div. B, title XXVIII, § 2837(b), Feb. 10, 1996, 110 Stat. 561, authorized any department or agency of the Federal Government that enters into a lease of property under section 2905(b)(4)(E) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510, set out below), to improve the leased property using funds appropriated or otherwise available to the department or agency for such purpose.
 
 **Regulations To Carry Out Section 204(e) of Pub. L. 100–526 and Section 2905(f) of Pub. L. 101–510**
 
-Pub. L. 104–106, div. B, title XXVIII, § 2840(c), Feb. 10, 1996, 110 Stat. 566, provided that not later than nine months after Feb. 10, 1996, the Secretary of Defense was to prescribe any regulations necessary to carry out section 204(e) of the Defense Authorization Amendments and Base Closure and Realignment Act (Pub. L. 100–526) and section 2905(f) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Pub. L. 101–510), set out in notes below.
+Pub. L. 104–106, div. B, title XXVIII, § 2840(c), Feb. 10, 1996, 110 Stat. 566, provided that not later than nine months after Feb. 10, 1996, the Secretary of Defense was to prescribe any regulations necessary to carry out section 204(e) of the Defense Authorization Amendments and Base Closure and Realignment Act (Pub. L. 100–526) and section 2905(f) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Pub. L. 101–510), set out in notes below.
 
 **Prohibition on Obligation of Funds for Projects on Installations Cited for Realignment**
 
-Pub. L. 104–6, title I, § 112, Apr. 10, 1995, 109 Stat. 82, prohibited the use of Department of Defense funds designated for military construction or family housing to initiate construction projects after Apr. 10, 1995, on an installation that was included in the closure and realignment recommendations submitted either to the the Base Closure and Realignment Commission on Feb. 28, 1995, or to Congress in 1995 in accordance with the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of div. B of Pub. L. 101–510, set out below).
+Pub. L. 104–6, title I, § 112, Apr. 10, 1995, 109 Stat. 82, prohibited the use of Department of Defense funds designated for military construction or family housing to initiate construction projects after Apr. 10, 1995, on an installation that was included in the closure and realignment recommendations submitted either to the the Base Closure and Realignment Commission on Feb. 28, 1995, or to Congress in 1995 in accordance with the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of div. B of Pub. L. 101–510, set out below).
 
 **Applicability to Installations Approved for Closure Before Enactment of Pub. L. 103–421**
 
-Pub. L. 103–421, § 2(e), Oct. 25, 1994, 108 Stat. 4352, as amended by Pub. L. 104–106, div. A, title XV, § 1505(f), Feb. 10, 1996, 110 Stat. 515; Pub. L. 107–107, div. A, title X, § 1048(d)(5), Dec. 28, 2001, 115 Stat. 1227, set out provisions related to the use of buildings and property at military installations approved for closure under the 1988 or 1990 base closure Act for the assistance of the homeless.
+Pub. L. 103–421, § 2(e), Oct. 25, 1994, 108 Stat. 4352, as amended by Pub. L. 104–106, div. A, title XV, § 1505(f), Feb. 10, 1996, 110 Stat. 515; Pub. L. 107–107, div. A, title X, § 1048(d)(5), Dec. 28, 2001, 115 Stat. 1227, set out provisions related to the use of buildings and property at military installations approved for closure under the 1988 or 1990 base closure Act for the assistance of the homeless.
 
 **Preference for Local Residents**
 
-Pub. L. 103–337, div. A, title VIII, § 817, Oct. 5, 1994, 108 Stat. 2820, authorized the Secretary of Defense, effective until Sept. 30, 1997, to give preference to entities that plan to hire local residents in awarding contracts for services to be performed at a military installation that is affected by closure or realignment under a base closure law.
+Pub. L. 103–337, div. A, title VIII, § 817, Oct. 5, 1994, 108 Stat. 2820, authorized the Secretary of Defense, effective until Sept. 30, 1997, to give preference to entities that plan to hire local residents in awarding contracts for services to be performed at a military installation that is affected by closure or realignment under a base closure law.
 
 **Government Rental of Facilities Located on Closed Military Installations**
 
-Pub. L. 103–337, div. B, title XXVIII, § 2814, Oct. 5, 1994, 108 Stat. 3056, as amended by Pub. L. 107–314, div. A, title X, § 1062(*l*), Dec. 2, 2002, 116 Stat. 2652; Pub. L. 109–163, div. A, title X, § 1056(a)(3), Jan. 6, 2006, 119 Stat. 3439, provided that:
+Pub. L. 103–337, div. B, title XXVIII, § 2814, Oct. 5, 1994, 108 Stat. 3056, as amended by Pub. L. 107–314, div. A, title X, § 1062(*l*), Dec. 2, 2002, 116 Stat. 2652; Pub. L. 109–163, div. A, title X, § 1056(a)(3), Jan. 6, 2006, 119 Stat. 3439, provided that:
 
 > **“(a) Authorization To Rent Base Closure Properties.—** To promote the rapid conversion of military installations that are closed pursuant to a base closure law, the Administrator of the General Services may give priority consideration, when leasing space in accordance with chapter 5 or 33 of title 40, United States Code, to facilities of such an installation that have been acquired by a non-Federal entity.
 
@@ -4491,27 +4491,27 @@ Pub. L. 103–337, div. B, title XXVIII, § 2814, Oct. 5, 1994, 108 Stat. 3056
 
 **Report of Effect of Base Closures on Future Mobilization Options**
 
-Pub. L. 103–337, div. B, title XXVIII, § 2815, Oct. 5, 1994, 108 Stat. 3056, required the Secretary of Defense to prepare and submit to the congressional defense committees, not later than Jan. 31, 1996, a report evaluating the effect of base closures and realignments conducted since Jan. 1, 1987, on the ability of the Armed Forces to remobilize to the end strength levels authorized for fiscal year 1987 by sections 401, 403, 411, and 421 of the National Defense Authorization Act for Fiscal Year 1987 (Pub. L. 99–661; 100 Stat. 3859).
+Pub. L. 103–337, div. B, title XXVIII, § 2815, Oct. 5, 1994, 108 Stat. 3056, required the Secretary of Defense to prepare and submit to the congressional defense committees, not later than Jan. 31, 1996, a report evaluating the effect of base closures and realignments conducted since Jan. 1, 1987, on the ability of the Armed Forces to remobilize to the end strength levels authorized for fiscal year 1987 by sections 401, 403, 411, and 421 of the National Defense Authorization Act for Fiscal Year 1987 (Pub. L. 99–661; 100 Stat. 3859).
 
 **Congressional Findings With Respect to Base Closure Community Assistance**
 
-Pub. L. 103–160, div. B, title XXIX, § 2901, Nov. 30, 1993, 107 Stat. 1909, set out congressional findings related to assistance for local communities in light of the closure and realignment of military installations.
+Pub. L. 103–160, div. B, title XXIX, § 2901, Nov. 30, 1993, 107 Stat. 1909, set out congressional findings related to assistance for local communities in light of the closure and realignment of military installations.
 
 **Consideration of Economic Needs and Cooperation With State and Local Authorities in Disposing of Property**
 
-Pub. L. 103–160, div. B, title XXIX, § 2903(c), (d), Nov. 30, 1993, 107 Stat. 1915, directed the Secretary of Defense to consider, in disposing of property as part of the closure of a military installation under a base closure law, the local and regional economic development priorities and to cooperate with the State in which the military installation is located, with the redevelopment authority with respect to the installation, and with local government and other interested persons located near the installation.
+Pub. L. 103–160, div. B, title XXIX, § 2903(c), (d), Nov. 30, 1993, 107 Stat. 1915, directed the Secretary of Defense to consider, in disposing of property as part of the closure of a military installation under a base closure law, the local and regional economic development priorities and to cooperate with the State in which the military installation is located, with the redevelopment authority with respect to the installation, and with local government and other interested persons located near the installation.
 
 **Regulations To Carry Out Section 204 of Pub. L. 100–526 and Section 2905 of Pub. L. 101–510**
 
-Pub. L. 103–160, div. B, title XXIX, § 2908(c), Nov. 30, 1993, 107 Stat. 1924, directed the Secretary of Defense to prescribe, in consultation with the Administrator of the Environmental Protection Agency, regulations necessary to carry out section 204(d) of the Defense Authorization Amendments and Base Closure and Realignment Act (title II of Public Law 100–526, set out below) and section 2905(e) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510, set out below) not later than nine months after Nov. 30, 1993.
+Pub. L. 103–160, div. B, title XXIX, § 2908(c), Nov. 30, 1993, 107 Stat. 1924, directed the Secretary of Defense to prescribe, in consultation with the Administrator of the Environmental Protection Agency, regulations necessary to carry out section 204(d) of the Defense Authorization Amendments and Base Closure and Realignment Act (title II of Public Law 100–526, set out below) and section 2905(e) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510, set out below) not later than nine months after Nov. 30, 1993.
 
 **Compliance With Certain Environmental Requirements**
 
-Pub. L. 103–160, div. B, title XXIX, § 2911, Nov. 30, 1993, 107 Stat. 1924, directed the Secretary of Defense to complete any environmental impact anaylses required under a base closure law or pursuant to the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) with respect to a redevelopment plan for any military installation approved for closure under such base closure law not later than 12 months after the submittal of the redevelopment plan.
+Pub. L. 103–160, div. B, title XXIX, § 2911, Nov. 30, 1993, 107 Stat. 1924, directed the Secretary of Defense to complete any environmental impact anaylses required under a base closure law or pursuant to the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) with respect to a redevelopment plan for any military installation approved for closure under such base closure law not later than 12 months after the submittal of the redevelopment plan.
 
 **Preference for Local and Small Businesses in Contracting**
 
-Pub. L. 103–160, div. B, title XXIX, § 2912, Nov. 30, 1993, 107 Stat. 1925, as amended by Pub. L. 103–337, div. A, title X, § 1070(b)(14), Oct. 5, 1994, 108 Stat. 2857, provided that:
+Pub. L. 103–160, div. B, title XXIX, § 2912, Nov. 30, 1993, 107 Stat. 1925, as amended by Pub. L. 103–337, div. A, title X, § 1070(b)(14), Oct. 5, 1994, 108 Stat. 2857, provided that:
 
 > **“(a) Preference Required.—** In entering into contracts with private entities as part of the closure or realignment of a military installation under a base closure law, the Secretary of Defense shall give preference, to the greatest extent practicable, to qualified businesses located in the vicinity of the installation and to small business concerns and small disadvantaged business concerns. Contracts for which this preference shall be given shall include contracts to carry out activities for the environmental restoration and mitigation at military installations to be closed or realigned.
 
@@ -4525,13 +4525,13 @@ Pub. L. 103–160, div. B, title XXIX, § 2912, Nov. 30, 1993, 107 Stat. 1925,
 
 **Transition Coordinators for Assistance to Communities Affected by Closure of Installations**
 
-Pub. L. 103–160, div. B, title XXIX, § 2915, Nov. 30, 1993, 107 Stat. 1926, as amended by Pub. L. 107–107, div. A, title X, § 1048(d)(4), Dec. 28, 2001, 115 Stat. 1227, directed the Secretary of Defense to designate, not later than 15 days after the date of approval of closure of a military installation to be closed under a base closure law, a transition coordinator for such installation, and set out the responsibilities of the transition coordinator with respect to the closing installation.
+Pub. L. 103–160, div. B, title XXIX, § 2915, Nov. 30, 1993, 107 Stat. 1926, as amended by Pub. L. 107–107, div. A, title X, § 1048(d)(4), Dec. 28, 2001, 115 Stat. 1227, directed the Secretary of Defense to designate, not later than 15 days after the date of approval of closure of a military installation to be closed under a base closure law, a transition coordinator for such installation, and set out the responsibilities of the transition coordinator with respect to the closing installation.
 
-**Definitions for Subtitle A of Title XXIX of Pub. L. 103–160**
+**Definitions for Subtitle A of Title XXIX of Pub. L. 103–160**
 
-Pub. L. 103–160, div. B, title XXIX, § 2918(a), Nov. 30, 1993, 107 Stat. 1927, provided that:
+Pub. L. 103–160, div. B, title XXIX, § 2918(a), Nov. 30, 1993, 107 Stat. 1927, provided that:
 
-> “In this subtitle [subtitle A (§§ 2901 to 2918) of title XXIX of div. B of Pub. L. 103–160, amending sections 2391 and 2667 of this title, enacting provisions set out as notes under this section and section 9620 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under this section]:
+> “In this subtitle [subtitle A (§§ 2901 to 2918) of title XXIX of div. B of Pub. L. 103–160, amending sections 2391 and 2667 of this title, enacting provisions set out as notes under this section and section 9620 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under this section]:
 
 > **“(1)** The term ‘base closure law’ means the following:
 
@@ -4551,19 +4551,19 @@ Pub. L. 103–160, div. B, title XXIX, § 2918(a), Nov. 30, 1993, 107 Stat. 19
 
 **Limitation on Expenditures From Defense Base Closure Account 1990 for Military Construction in Support of Transfers of Functions**
 
-Pub. L. 103–160, div. B, title XXIX, § 2922, Nov. 30, 1993, 107 Stat. 1930, as amended by Pub. L. 104–106, div. A, title XV, § 1502(c)(1), Feb. 10, 1996, 110 Stat. 506; Pub. L. 106–65, div. A, title X, § 1067(7), Oct. 5, 1999, 113 Stat. 774, prohibited the expenditure of funds from the Defense Base Closure Account 1990 for military construction in support of the transfer of a function from a military installation recommended for closure or realignment to another installation unless that other istallation is identified in the documents submitted to the Defense Base Closure and Realignment Commission in support of such closure or realignment.
+Pub. L. 103–160, div. B, title XXIX, § 2922, Nov. 30, 1993, 107 Stat. 1930, as amended by Pub. L. 104–106, div. A, title XV, § 1502(c)(1), Feb. 10, 1996, 110 Stat. 506; Pub. L. 106–65, div. A, title X, § 1067(7), Oct. 5, 1999, 113 Stat. 774, prohibited the expenditure of funds from the Defense Base Closure Account 1990 for military construction in support of the transfer of a function from a military installation recommended for closure or realignment to another installation unless that other istallation is identified in the documents submitted to the Defense Base Closure and Realignment Commission in support of such closure or realignment.
 
 **Sense of Congress on Development of Base Closure Criteria**
 
-Pub. L. 103–160, div. B, title XXIX, § 2925, Nov. 30, 1993, 107 Stat. 1932, as amended by Pub. L. 104–106, div. A, title XV, § 1502(c)(1), Feb. 10, 1996, 110 Stat. 506, set out the sense of Congress that the Secretary of Defense include the direct costs of defense base closures and realignments to other Federal departments and agencies in developing amended criteria in accordance with section 2903(b)(2)(B) of the Defense Base Closure and Realignment Act of 1990 (Public Law 101–510, set out below) and directed the Secretary to submit to Congress a report on any amended criteria developed after Nov. 30, 1993.
+Pub. L. 103–160, div. B, title XXIX, § 2925, Nov. 30, 1993, 107 Stat. 1932, as amended by Pub. L. 104–106, div. A, title XV, § 1502(c)(1), Feb. 10, 1996, 110 Stat. 506, set out the sense of Congress that the Secretary of Defense include the direct costs of defense base closures and realignments to other Federal departments and agencies in developing amended criteria in accordance with section 2903(b)(2)(B) of the Defense Base Closure and Realignment Act of 1990 (Public Law 101–510, set out below) and directed the Secretary to submit to Congress a report on any amended criteria developed after Nov. 30, 1993.
 
 **Military Base Closure Report**
 
-Pub. L. 102–581, title I, § 107(d), Oct. 31, 1992, 106 Stat. 4879, provided that within 30 days after the date on which the Secretary of Defense recommended a list of military bases for closure or realignment pursuant to section 2903(c) of the Defense Base Closure and Realignment Act of 1990 (Pub. L. 101–510, set out below), the Administrator of the Federal Aviation Administration was to submit to Congress and the Defense Base Closure and Realignment Commission a report on the effects of all those recommendations involving military airbases, including the effect on civilian airports and airways in the local community and region; potential modifications and costs necessary to convert such bases to civilian aviation use; and in the case of air traffic control or radar coverage currently provided by the Department of Defense, potential installations or adjustments of equipment and costs necessary for the Federal Aviation Administration to maintain existing levels of service for the local community and region.
+Pub. L. 102–581, title I, § 107(d), Oct. 31, 1992, 106 Stat. 4879, provided that within 30 days after the date on which the Secretary of Defense recommended a list of military bases for closure or realignment pursuant to section 2903(c) of the Defense Base Closure and Realignment Act of 1990 (Pub. L. 101–510, set out below), the Administrator of the Federal Aviation Administration was to submit to Congress and the Defense Base Closure and Realignment Commission a report on the effects of all those recommendations involving military airbases, including the effect on civilian airports and airways in the local community and region; potential modifications and costs necessary to convert such bases to civilian aviation use; and in the case of air traffic control or radar coverage currently provided by the Department of Defense, potential installations or adjustments of equipment and costs necessary for the Federal Aviation Administration to maintain existing levels of service for the local community and region.
 
 **Indemnification of Transferees of Closing Defense Property**
 
-Pub. L. 102–484, div. A, title III, § 330, Oct. 23, 1992, 106 Stat. 2371, as amended by Pub. L. 103–160, div. A, title X, § 1002, Nov. 30, 1993, 107 Stat. 1745, provided that:
+Pub. L. 102–484, div. A, title III, § 330, Oct. 23, 1992, 106 Stat. 2371, as amended by Pub. L. 103–160, div. A, title X, § 1002, Nov. 30, 1993, 107 Stat. 1745, provided that:
 
 > **“(a) In General.—**
 
@@ -4619,23 +4619,23 @@ Pub. L. 102–484, div. A, title III, § 330, Oct. 23, 1992, 106 Stat. 2371, a
 
 **Demonstration Project for Use of National Relocation Contractor To Assist Department of Defense**
 
-Pub. L. 102–484, div. B, title XXVIII, § 2822, Oct. 23, 1992, 106 Stat. 2608, provided that, subject to the availability of appropriations therefor, the Secretary of Defense was to enter into a one-year contract, not later than 30 days after Oct. 23, 1992, with a private relocation contractor operating on a nationwide basis to test the cost-effectiveness of using national relocation contractors to administer the Homeowners Assistance Program and that, not later than one year after the date on which the Secretary of Defense entered into the contract, the Comptroller General was to submit to Congress a report containing the Comptroller General’s evaluation of the effectiveness of using the national contractor for administering the program.
+Pub. L. 102–484, div. B, title XXVIII, § 2822, Oct. 23, 1992, 106 Stat. 2608, provided that, subject to the availability of appropriations therefor, the Secretary of Defense was to enter into a one-year contract, not later than 30 days after Oct. 23, 1992, with a private relocation contractor operating on a nationwide basis to test the cost-effectiveness of using national relocation contractors to administer the Homeowners Assistance Program and that, not later than one year after the date on which the Secretary of Defense entered into the contract, the Comptroller General was to submit to Congress a report containing the Comptroller General’s evaluation of the effectiveness of using the national contractor for administering the program.
 
 **Environmental Restoration Requirements at Military Installations To Be Closed**
 
-Pub. L. 102–190, div. A, title III, § 334, Dec. 5, 1991, 105 Stat. 1340, prescribed requirements for certain installations to be closed under 1989 or 1991 base closure lists by requiring that all draft final remedial investigations and feasibility studies related to environmental restoration activities at each such military installation be submitted to Environmental Protection Agency not later than 24 months after Dec. 5, 1991, for bases on 1989 closure list and not later than 36 months after such date for bases on 1991 closure list, prior to repeal by Pub. L. 104–201, div. A, title III, § 328, Sept. 23, 1996, 110 Stat. 2483.
+Pub. L. 102–190, div. A, title III, § 334, Dec. 5, 1991, 105 Stat. 1340, prescribed requirements for certain installations to be closed under 1989 or 1991 base closure lists by requiring that all draft final remedial investigations and feasibility studies related to environmental restoration activities at each such military installation be submitted to Environmental Protection Agency not later than 24 months after Dec. 5, 1991, for bases on 1989 closure list and not later than 36 months after such date for bases on 1991 closure list, prior to repeal by Pub. L. 104–201, div. A, title III, § 328, Sept. 23, 1996, 110 Stat. 2483.
 
 **Withholding Information From Congress or Comptroller General**
 
-Pub. L. 102–190, div. B, title XXVIII, § 2821(i), Dec. 5, 1991, 105 Stat. 1546, provided that: “Nothing in this section [enacting and amending provisions set out below] or in the Defense Base Closure and Realignment Act of 1990 [part A of title XXIX of div. B of Pub. L. 101–510, set out below] shall be construed to authorize the withholding of information from Congress, any committee or subcommittee of Congress, or the Comptroller General of the United States.”
+Pub. L. 102–190, div. B, title XXVIII, § 2821(i), Dec. 5, 1991, 105 Stat. 1546, provided that: “Nothing in this section [enacting and amending provisions set out below] or in the Defense Base Closure and Realignment Act of 1990 [part A of title XXIX of div. B of Pub. L. 101–510, set out below] shall be construed to authorize the withholding of information from Congress, any committee or subcommittee of Congress, or the Comptroller General of the United States.”
 
 **Consistency in Budget Data**
 
-Pub. L. 102–190, div. B, title XXVIII, § 2822, Dec. 5, 1991, 105 Stat. 1546, as amended by Pub. L. 102–484, div. B, title XXVIII, § 2825, Oct. 23, 1992, 106 Stat. 2609, directed the Secretary of Defense to ensure that the amounts of authorizations requested for military construction related to the closure or realignment of military installations in fiscal years 1992 through 1999 do not exceed the estimates of the costs of such construction provided to the Defense Base Closure and Realignment Commission, unless the Secretary submits to Congress an explanation for any request for an authorization that exceeds the cost estimate.
+Pub. L. 102–190, div. B, title XXVIII, § 2822, Dec. 5, 1991, 105 Stat. 1546, as amended by Pub. L. 102–484, div. B, title XXVIII, § 2825, Oct. 23, 1992, 106 Stat. 2609, directed the Secretary of Defense to ensure that the amounts of authorizations requested for military construction related to the closure or realignment of military installations in fiscal years 1992 through 1999 do not exceed the estimates of the costs of such construction provided to the Defense Base Closure and Realignment Commission, unless the Secretary submits to Congress an explanation for any request for an authorization that exceeds the cost estimate.
 
 **Disposition of Facilities of Depository Institutions on Military Installations To Be Closed**
 
-Pub. L. 102–190, div. B, title XXVIII, § 2825, Dec. 5, 1991, 105 Stat. 1549, as amended by Pub. L. 103–160, div. B, title XXIX, § 2928(a), (b)(1), (c), Nov. 30, 1993, 107 Stat. 1934, 1935, provided that:
+Pub. L. 102–190, div. B, title XXVIII, § 2825, Dec. 5, 1991, 105 Stat. 1549, as amended by Pub. L. 103–160, div. B, title XXIX, § 2928(a), (b)(1), (c), Nov. 30, 1993, 107 Stat. 1934, 1935, provided that:
 
 > **“(a) Authority to Convey Facilities.—**
 
@@ -4665,27 +4665,27 @@ Pub. L. 102–190, div. B, title XXVIII, § 2825, Dec. 5, 1991, 105 Stat. 1549
 
 **Report on Environmental Restoration Costs for Installations To Be Closed Under 1990 Base Closure Law**
 
-Pub. L. 102–190, div. B, title XXVIII, § 2827(b), Dec. 5, 1991, 105 Stat. 1551, directed the Secretary of Defense to submit an annual report to Congress on the funding needed for environmental restoration activities at certain designated military installations for the fiscal year for which a budget was submitted and for each of the four following fiscal years, prior to repeal by Pub. L. 104–106, div. A, title X, § 1061(m), Feb. 10, 1996, 110 Stat. 443.
+Pub. L. 102–190, div. B, title XXVIII, § 2827(b), Dec. 5, 1991, 105 Stat. 1551, directed the Secretary of Defense to submit an annual report to Congress on the funding needed for environmental restoration activities at certain designated military installations for the fiscal year for which a budget was submitted and for each of the four following fiscal years, prior to repeal by Pub. L. 104–106, div. A, title X, § 1061(m), Feb. 10, 1996, 110 Stat. 443.
 
 **Sense of Congress Regarding Joint Resolution of Disapproval of 1991 Base Closure Commission Recommendation**
 
-Pub. L. 102–172, title VIII, § 8131, Nov. 26, 1991, 105 Stat. 1208, set out the sense of the Congress that in acting on the Joint Resolution of Disapproval of the 1991 Base Closure Commission’s recommendation, it took no position on whether there had been compliance by the Commission, and the Department of Defense with the requirements of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of div. B of Pub. L. 101–510, set out below), and that the vote on the resolution should not be interpreted to imply Congressional approval of all actions taken by the Commission and the Department of Defense in fulfillment of their responsibilities and duties under the Defense Base Closure and Realignment Act of 1990, but only the approval of the recommendations issued by the Commission.
+Pub. L. 102–172, title VIII, § 8131, Nov. 26, 1991, 105 Stat. 1208, set out the sense of the Congress that in acting on the Joint Resolution of Disapproval of the 1991 Base Closure Commission’s recommendation, it took no position on whether there had been compliance by the Commission, and the Department of Defense with the requirements of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of div. B of Pub. L. 101–510, set out below), and that the vote on the resolution should not be interpreted to imply Congressional approval of all actions taken by the Commission and the Department of Defense in fulfillment of their responsibilities and duties under the Defense Base Closure and Realignment Act of 1990, but only the approval of the recommendations issued by the Commission.
 
 **Requirements for Base Closure and Realignment Plans**
 
-Pub. L. 103–335, title VIII, § 8040, Sept. 30, 1994, 108 Stat. 2626, which directed Secretary of Defense to include in any base closure and realignment plan submitted to Congress after Sept. 30, 1994, a complete review of expectations for the five-year period beginning on Oct. 1, 1994, including force structure and levels, installation requirements, a budget plan, cost savings to be realized through realignments and closures of military installations, and the economic impact on local areas affected, was from the Department of Defense Appropriations Act, 1995, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 103–335, title VIII, § 8040, Sept. 30, 1994, 108 Stat. 2626, which directed Secretary of Defense to include in any base closure and realignment plan submitted to Congress after Sept. 30, 1994, a complete review of expectations for the five-year period beginning on Oct. 1, 1994, including force structure and levels, installation requirements, a budget plan, cost savings to be realized through realignments and closures of military installations, and the economic impact on local areas affected, was from the Department of Defense Appropriations Act, 1995, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 103–139, title VIII, § 8045, Nov. 11, 1993, 107 Stat. 1450.
+Pub. L. 103–139, title VIII, § 8045, Nov. 11, 1993, 107 Stat. 1450.
 
-Pub. L. 102–396, title IX, § 9060, Oct. 6, 1992, 106 Stat. 1915.
+Pub. L. 102–396, title IX, § 9060, Oct. 6, 1992, 106 Stat. 1915.
 
-Pub. L. 102–172, title VIII, § 8063, Nov. 26, 1991, 105 Stat. 1185.
+Pub. L. 102–172, title VIII, § 8063, Nov. 26, 1991, 105 Stat. 1185.
 
-Pub. L. 101–511, title VIII, § 8081, Nov. 5, 1990, 104 Stat. 1894.
+Pub. L. 101–511, title VIII, § 8081, Nov. 5, 1990, 104 Stat. 1894.
 
 **Defense Base Closure and Realignment Commission**
 
-Pub. L. 101–510, div. B, title XXIX, part A, Nov. 5, 1990, 104 Stat. 1808, as amended by Pub. L. 102–190, div. A, title III, § 344(b)(1), div. B, title XXVIII, §§ 2821(a)–(h)(1), 2827(a)(1), (2), Dec. 5, 1991, 105 Stat. 1345, 1544–1546, 1551; Pub. L. 102–484, div. A, title X, § 1054(b), div. B, title XXVIII, §§ 2821(b), 2823, Oct. 23, 1992, 106 Stat. 2502, 2607, 2608; Pub. L. 103–160, div. B, title XXIX, §§ 2902(b), 2903(b), 2904(b), 2905(b), 2907(b), 2908(b), 2918(c), 2921(b), (c), 2923, 2926, 2930(a), Nov. 30, 1993, 107 Stat. 1911, 1914, 1916, 1918, 1921, 1923, 1928–1930, 1932, 1935; Pub. L. 103–337, div. A, title X, § 1070(b)(15), (d)(2), div. B, title XXVIII, §§ 2811, 2812(b), 2813(c)(2), (d)(2), (e)(2), Oct. 5, 1994, 108 Stat. 2857, 2858, 3053–3056; Pub. L. 103–421, § 2(a)–(c), (f)(2), Oct. 25, 1994, 108 Stat. 4346–4352, 4354; Pub. L. 104–106, div. A, title XV, §§ 1502(d), 1504(a)(9), 1505(e)(1), div. B, title XXVIII, §§ 2831(b)(2), 2835, 2836, 2837(a), 2838, 2839(b), 2840(b), Feb. 10, 1996, 110 Stat. 508, 513, 514, 558, 560, 561, 564, 565; Pub. L. 104–201, div. B, title XXVIII, §§ 2812(b), 2813(b), Sept. 23, 1996, 110 Stat. 2789; Pub. L. 105–85, div. A, title X, § 1073(d)(4)(B), div. B, title XXVIII, § 2821(b), Nov. 18, 1997, 111 Stat. 1905, 1997; Pub. L. 106–65, div. A, title X, § 1067(10), div. B, title XVIII, §§ 2821(a), 2822, Oct. 5, 1999, 113 Stat. 774, 853, 856; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(g)(2), div. B, title XXVIII, § 2821(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, 1654A–419; Pub. L. 107–107, div. A, title X, § 1048(d)(2), div. B, title XXVIII, § 2821(b), title XXX, §§ 3001–3007, Dec. 28, 2001, 115 Stat. 1227, 1312, 1342–1351; Pub. L. 107–314, div. A, title X, § 1062(f)(4), (m)(1)–(3), div. B, title XXVIII, §§ 2814(b), 2854, Dec. 2, 2002, 116 Stat. 2651, 2652, 2710, 2728; Pub. L. 108–136, div. A, title VI, § 655(b), div. B, title XXVIII, §§ 2805(d)(2), 2821, Nov. 24, 2003, 117 Stat. 1523, 1721, 1726; Pub. L. 108–375, div. A, title X, § 1084(i), div. B, title XXVIII, §§ 2831–2834, Oct. 28, 2004, 118 Stat. 2064, 2132–2134; Pub. L. 109–163, div. B, title XXVIII, § 2831, Jan. 6, 2006, 119 Stat. 3518; Pub. L. 110–181, div. B, title XXVII, § 2704(a), Jan. 28, 2008, 122 Stat. 532; Pub. L. 110–417, div. B, title XXVII, §§ 2711, 2712(a)(1)(A), (b), Oct. 14, 2008, 122 Stat. 4715, 4716; Pub. L. 111–84, div. B, title XXVII, § 2715(a), Oct. 28, 2009, 123 Stat. 2658; Pub. L. 112–239, div. B, title XXVII, § 2711(a), (c)(2), (3)(A), Jan. 2, 2013, 126 Stat. 2140, 2143; Pub. L. 113–291, div. B, title XXVII, § 2721, Dec. 19, 2014, 128 Stat. 3693; Pub. L. 117–263, div. B, title XXVII, § 2702(a), Dec. 23, 2022, 136 Stat. 2990, provided that:
+Pub. L. 101–510, div. B, title XXIX, part A, Nov. 5, 1990, 104 Stat. 1808, as amended by Pub. L. 102–190, div. A, title III, § 344(b)(1), div. B, title XXVIII, §§ 2821(a)–(h)(1), 2827(a)(1), (2), Dec. 5, 1991, 105 Stat. 1345, 1544–1546, 1551; Pub. L. 102–484, div. A, title X, § 1054(b), div. B, title XXVIII, §§ 2821(b), 2823, Oct. 23, 1992, 106 Stat. 2502, 2607, 2608; Pub. L. 103–160, div. B, title XXIX, §§ 2902(b), 2903(b), 2904(b), 2905(b), 2907(b), 2908(b), 2918(c), 2921(b), (c), 2923, 2926, 2930(a), Nov. 30, 1993, 107 Stat. 1911, 1914, 1916, 1918, 1921, 1923, 1928–1930, 1932, 1935; Pub. L. 103–337, div. A, title X, § 1070(b)(15), (d)(2), div. B, title XXVIII, §§ 2811, 2812(b), 2813(c)(2), (d)(2), (e)(2), Oct. 5, 1994, 108 Stat. 2857, 2858, 3053–3056; Pub. L. 103–421, § 2(a)–(c), (f)(2), Oct. 25, 1994, 108 Stat. 4346–4352, 4354; Pub. L. 104–106, div. A, title XV, §§ 1502(d), 1504(a)(9), 1505(e)(1), div. B, title XXVIII, §§ 2831(b)(2), 2835, 2836, 2837(a), 2838, 2839(b), 2840(b), Feb. 10, 1996, 110 Stat. 508, 513, 514, 558, 560, 561, 564, 565; Pub. L. 104–201, div. B, title XXVIII, §§ 2812(b), 2813(b), Sept. 23, 1996, 110 Stat. 2789; Pub. L. 105–85, div. A, title X, § 1073(d)(4)(B), div. B, title XXVIII, § 2821(b), Nov. 18, 1997, 111 Stat. 1905, 1997; Pub. L. 106–65, div. A, title X, § 1067(10), div. B, title XVIII, §§ 2821(a), 2822, Oct. 5, 1999, 113 Stat. 774, 853, 856; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(g)(2), div. B, title XXVIII, § 2821(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, 1654A–419; Pub. L. 107–107, div. A, title X, § 1048(d)(2), div. B, title XXVIII, § 2821(b), title XXX, §§ 3001–3007, Dec. 28, 2001, 115 Stat. 1227, 1312, 1342–1351; Pub. L. 107–314, div. A, title X, § 1062(f)(4), (m)(1)–(3), div. B, title XXVIII, §§ 2814(b), 2854, Dec. 2, 2002, 116 Stat. 2651, 2652, 2710, 2728; Pub. L. 108–136, div. A, title VI, § 655(b), div. B, title XXVIII, §§ 2805(d)(2), 2821, Nov. 24, 2003, 117 Stat. 1523, 1721, 1726; Pub. L. 108–375, div. A, title X, § 1084(i), div. B, title XXVIII, §§ 2831–2834, Oct. 28, 2004, 118 Stat. 2064, 2132–2134; Pub. L. 109–163, div. B, title XXVIII, § 2831, Jan. 6, 2006, 119 Stat. 3518; Pub. L. 110–181, div. B, title XXVII, § 2704(a), Jan. 28, 2008, 122 Stat. 532; Pub. L. 110–417, div. B, title XXVII, §§ 2711, 2712(a)(1)(A), (b), Oct. 14, 2008, 122 Stat. 4715, 4716; Pub. L. 111–84, div. B, title XXVII, § 2715(a), Oct. 28, 2009, 123 Stat. 2658; Pub. L. 112–239, div. B, title XXVII, § 2711(a), (c)(2), (3)(A), Jan. 2, 2013, 126 Stat. 2140, 2143; Pub. L. 113–291, div. B, title XXVII, § 2721, Dec. 19, 2014, 128 Stat. 3693; Pub. L. 117–263, div. B, title XXVII, § 2702(a), Dec. 23, 2022, 136 Stat. 2990, provided that:
 
 > **“SEC. 2901. SHORT TITLE AND PURPOSE**
 
@@ -5375,7 +5375,7 @@ Pub. L. 101–510, div. B, title XXIX, part A, Nov. 5, 1990, 104 Stat. 1808, as 
 
 > **“(iv)** The disposal under clause (i) of buildings and property to assist the homeless shall be without consideration.
 
-> **“(v)** In the case of a request for a conveyance under clause (i) of buildings and property for public benefit under section 550 of title 40, United States Code, or sections 47151 through 47153 of title 49, United States Code, the sponsoring Federal agency shall use the eligibility criteria set forth in such section or such subchapter [probably means subchapter II (§ 47151 et seq.) of chapter 471 of Title 49, Transportation] (as the case may be) to determine the eligibility of the applicant and use proposed in the request for the public benefit conveyance. The determination of such eligibility should be made before submission of the redevelopment plan concerned under subparagraph (G).
+> **“(v)** In the case of a request for a conveyance under clause (i) of buildings and property for public benefit under section 550 of title 40, United States Code, or sections 47151 through 47153 of title 49, United States Code, the sponsoring Federal agency shall use the eligibility criteria set forth in such section or such subchapter [probably means subchapter II (§ 47151 et seq.) of chapter 471 of Title 49, Transportation] (as the case may be) to determine the eligibility of the applicant and use proposed in the request for the public benefit conveyance. The determination of such eligibility should be made before submission of the redevelopment plan concerned under subparagraph (G).
 
 > **“(L)**
 
@@ -5415,7 +5415,7 @@ Pub. L. 101–510, div. B, title XXIX, part A, Nov. 5, 1990, 104 Stat. 1808, as 
 
 > **“(IV)** The disposal under subclause (I) of buildings and property to assist the homeless shall be without consideration.
 
-> **“(V)** In the case of a request for a conveyance under subclause (I) of buildings and property for public benefit under section 550 of title 40, United States Code, or sections 47151 through 47153 of title 49, United States Code, the sponsoring Federal agency shall use the eligibility criteria set forth in such section or such subchapter [probably means subchapter II (§ 47151 et seq.) of Title 49, Transportation] (as the case may be) to determine the eligibility of the applicant and use proposed in the request for the public benefit conveyance. The determination of such eligibility should be made before submission of the redevelopment plan concerned under subparagraph (G).
+> **“(V)** In the case of a request for a conveyance under subclause (I) of buildings and property for public benefit under section 550 of title 40, United States Code, or sections 47151 through 47153 of title 49, United States Code, the sponsoring Federal agency shall use the eligibility criteria set forth in such section or such subchapter [probably means subchapter II (§ 47151 et seq.) of Title 49, Transportation] (as the case may be) to determine the eligibility of the applicant and use proposed in the request for the public benefit conveyance. The determination of such eligibility should be made before submission of the redevelopment plan concerned under subparagraph (G).
 
 > **“(M)**
 
@@ -5609,11 +5609,11 @@ Pub. L. 101–510, div. B, title XXIX, part A, Nov. 5, 1990, 104 Stat. 1808, as 
 
 > **“[SEC. 2906A.**
 
-> Repealed. Pub. L. 112–239, div. B, title XXVII, § 2711(a), Jan. 2, 2013, 126 Stat. 2140.]
+> Repealed. Pub. L. 112–239, div. B, title XXVII, § 2711(a), Jan. 2, 2013, 126 Stat. 2140.]
 
 > **“[SEC. 2907.**
 
-> Repealed. Pub. L. 112–239, div. B, title XXVII, § 2711(c)(2), Jan. 2, 2013, 126 Stat. 2143.]
+> Repealed. Pub. L. 112–239, div. B, title XXVII, § 2711(c)(2), Jan. 2, 2013, 126 Stat. 2143.]
 
 > **“SEC. 2908. CONGRESSIONAL CONSIDERATION OF COMMISSION REPORT**
 
@@ -5823,7 +5823,7 @@ Pub. L. 101–510, div. B, title XXIX, part A, Nov. 5, 1990, 104 Stat. 1808, as 
 
 > **“(C)** The recommendations shall include a statement of the result of the consideration of any notice described in subparagraph (A) that is received with respect to a military installation covered by such recommendations. The statement shall set forth the reasons for the result.
 
-> **“[(c)** Repealed. Pub. L. 108–375, div. B, title XXVIII, § 2833, Oct. 28, 2004, 118 Stat. 2134.]
+> **“[(c)** Repealed. Pub. L. 108–375, div. B, title XXVIII, § 2833, Oct. 28, 2004, 118 Stat. 2134.]
 
 > **“(d) Commission Review and Recommendations.—**
 
@@ -5857,7 +5857,7 @@ Pub. L. 101–510, div. B, title XXIX, part A, Nov. 5, 1990, 104 Stat. 1808, as 
 
 > **“(4) Effect of transmittal.—** A report of the President under this subsection containing the President’s approval of the Commission’s recommendations is deemed to be a report under section 2903(e) for purposes of sections 2904 and 2908.”
 
-[Pub. L. 117–263, div. B, § 2803(a), Dec. 23, 2022, 136 Stat. 2970, provided that:
+[Pub. L. 117–263, div. B, § 2803(a), Dec. 23, 2022, 136 Stat. 2970, provided that:
 
 > “Titles XXI through XXVII [of Pub. L. 117–263, 136 Stat. 2971–2989, amending section 2906 of Pub. L. 101–510, set out above, and otherwise not classified to the Code] shall take effect on the later of—
 
@@ -5871,11 +5871,11 @@ Pub. L. 101–510, div. B, title XXIX, part A, Nov. 5, 1990, 104 Stat. 1808, as 
 
 [For effective date of amendments by section 2711(a), (c)(2), (3)(A) of Pub. L. 112–239 to sections 2906 to 2907 and 2910 of Pub. L. 101–510, set out above, see section 2711(d) of Pub. L. 112–239, set out as an Effective Date of 2013 Amendment note under section 2701 of this title.]
 
-[Pub. L. 110–417, div. B, title XXVII, § 2712(a)(2), Oct. 14, 2008, 122 Stat. 4716, provided that: “The amendments made by paragraph (1) [amending Pub. L. 110–181, § 2704(a), set out above] shall take effect on January 28, 2008, as if included in the enactment of section 2704 of the Military Construction Authorization Act for Fiscal Year 2008 [Pub. L. 110–181].” ]
+[Pub. L. 110–417, div. B, title XXVII, § 2712(a)(2), Oct. 14, 2008, 122 Stat. 4716, provided that: “The amendments made by paragraph (1) [amending Pub. L. 110–181, § 2704(a), set out above] shall take effect on January 28, 2008, as if included in the enactment of section 2704 of the Military Construction Authorization Act for Fiscal Year 2008 [Pub. L. 110–181].” ]
 
-[Pub. L. 110–417, div. B, § 2003, Oct. 14, 2008, 122 Stat. 4658, provided that:
+[Pub. L. 110–417, div. B, § 2003, Oct. 14, 2008, 122 Stat. 4658, provided that:
 
-> “Titles XXI, XXII, XXIII, XXIV, XXV, XXVI [122 Stat. 4658, 4669, 4675, 4687, 4698], XXVII [enacting Pub. L. 110–417, § 2712(a)(2), set out above, and amending Pub. L. 110–510, div. B, title XXIX, part A, and Pub. L. 110–181, § 2704, which amended Pub. L. 110–510, div. B, title XXIX, part A, set out above], and XXIX [122 Stat. 4741] shall take effect on the later of—
+> “Titles XXI, XXII, XXIII, XXIV, XXV, XXVI [122 Stat. 4658, 4669, 4675, 4687, 4698], XXVII [enacting Pub. L. 110–417, § 2712(a)(2), set out above, and amending Pub. L. 110–510, div. B, title XXIX, part A, and Pub. L. 110–181, § 2704, which amended Pub. L. 110–510, div. B, title XXIX, part A, set out above], and XXIX [122 Stat. 4741] shall take effect on the later of—
 
 > [“(1) October 1, 2008; or
 
@@ -5883,81 +5883,81 @@ Pub. L. 101–510, div. B, title XXIX, part A, Nov. 5, 1990, 104 Stat. 1808, as 
 
 ]
 
-[Pub. L. 107–314, div. A, title X, § 1062(f), Dec. 2, 2002, 116 Stat. 2651, provided that the amendment made by section 1062(f)(4) is effective as of Dec. 28, 2001, and as if included in Pub. L. 107–107 as enacted.]
+[Pub. L. 107–314, div. A, title X, § 1062(f), Dec. 2, 2002, 116 Stat. 2651, provided that the amendment made by section 1062(f)(4) is effective as of Dec. 28, 2001, and as if included in Pub. L. 107–107 as enacted.]
 
 [For effective date of amendment by section 2813(d)(2) of Pub. L. 103–337 to section 2910 of Pub. L. 101–510, set out above, see Effective Date of 1994 Amendments by Section 2813(d)(1) and (2) of Pub. L. 103–337 note set out above.]
 
-[Pub. L. 103–160, div. B, title XXIX, § 2902(c), Nov. 30, 1993, 107 Stat. 1912, provided that: “For the purposes of section 2905(b)(3) of the Defense Base Closure and Realignment Act of 1990 [Pub. L. 101–510, set out above], as added by subsection (b), the date of approval of closure of any installation approved for closure before the date of the enactment of this Act [Nov. 30, 1993] shall be deemed to be the date of the enactment of this Act.” ]
+[Pub. L. 103–160, div. B, title XXIX, § 2902(c), Nov. 30, 1993, 107 Stat. 1912, provided that: “For the purposes of section 2905(b)(3) of the Defense Base Closure and Realignment Act of 1990 [Pub. L. 101–510, set out above], as added by subsection (b), the date of approval of closure of any installation approved for closure before the date of the enactment of this Act [Nov. 30, 1993] shall be deemed to be the date of the enactment of this Act.” ]
 
-[Pub. L. 103–160, div. B, title XXIX, § 2904(c), Nov. 30, 1993, 107 Stat. 1916, provided that: “The Secretary of Defense shall make the determinations required under section 2905(b)(5) of the Defense Base Closure and Realignment Act of 1990 [Pub. L. 101–510, set out above], as added by subsection (b), in the case of installations approved for closure under such Act [part A of title XXIX of div. B of Pub. L. 101–510, set out above] before the date of the enactment of this Act [Nov. 30, 1993], not later than 6 months after the date of the enactment of this Act.” ]
+[Pub. L. 103–160, div. B, title XXIX, § 2904(c), Nov. 30, 1993, 107 Stat. 1916, provided that: “The Secretary of Defense shall make the determinations required under section 2905(b)(5) of the Defense Base Closure and Realignment Act of 1990 [Pub. L. 101–510, set out above], as added by subsection (b), in the case of installations approved for closure under such Act [part A of title XXIX of div. B of Pub. L. 101–510, set out above] before the date of the enactment of this Act [Nov. 30, 1993], not later than 6 months after the date of the enactment of this Act.” ]
 
-[Pub. L. 103–160, div. B, title XXIX, § 2930(b), Nov. 30, 1993, 107 Stat. 1935, provided that: “The amendment made by this section [amending section 2903(d)(1) of Pub. L. 101–510 set out above] shall apply with respect to all public hearings conducted by the Defense Base Closure and Realignment Commission after the date of the enactment of this Act [Nov. 30, 1993].” ]
+[Pub. L. 103–160, div. B, title XXIX, § 2930(b), Nov. 30, 1993, 107 Stat. 1935, provided that: “The amendment made by this section [amending section 2903(d)(1) of Pub. L. 101–510 set out above] shall apply with respect to all public hearings conducted by the Defense Base Closure and Realignment Commission after the date of the enactment of this Act [Nov. 30, 1993].” ]
 
 [For effective date of amendments by section 344(b)(1) of Pub. L. 102–190 to section 2906 of Pub. L. 101–510, set out above, see Effective Date of 1991 Amendments by Section 344 of Pub. L. 102–190 note set out above.]
 
-[Pub. L. 102–190, div. B, title XXVIII, § 2821(h)(2), Dec. 5, 1991, 105 Stat. 1546, provided that: “The amendment made by paragraph (1) [amending section 2910 of Pub. L. 101–510 set out above] shall take effect as of November 5, 1990, and shall apply as if it had been included in section 2910(4) of the Defense Base Closure and Realignment Act of 1990 [section 2910 of Pub. L. 101–510] on that date.” ]
+[Pub. L. 102–190, div. B, title XXVIII, § 2821(h)(2), Dec. 5, 1991, 105 Stat. 1546, provided that: “The amendment made by paragraph (1) [amending section 2910 of Pub. L. 101–510 set out above] shall take effect as of November 5, 1990, and shall apply as if it had been included in section 2910(4) of the Defense Base Closure and Realignment Act of 1990 [section 2910 of Pub. L. 101–510] on that date.” ]
 
-[Pub. L. 102–190, div. B, title XXVIII, § 2827(a)(3), Dec. 5, 1991, 105 Stat. 1551, provided that: “The amendments made by this subsection [amending sections 2905 and 2906 of Pub. L. 101–510 set out above] shall take effect on the date of the enactment of this Act [Dec. 5, 1991].” ]
+[Pub. L. 102–190, div. B, title XXVIII, § 2827(a)(3), Dec. 5, 1991, 105 Stat. 1551, provided that: “The amendments made by this subsection [amending sections 2905 and 2906 of Pub. L. 101–510 set out above] shall take effect on the date of the enactment of this Act [Dec. 5, 1991].” ]
 
-[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.]
+[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.]
 
 **Closure of Foreign Military Installations**
 
-Pub. L. 108–287, title VIII, § 8018, Aug. 5, 2004, 118 Stat. 974, provided that: “Notwithstanding any other provision of law, during the current fiscal year and hereafter, the Secretary of Defense may, by executive agreement, establish with host nation governments in NATO member states a separate account into which such residual value amounts negotiated in the return of United States military installations in NATO member states may be deposited, in the currency of the host nation, in lieu of direct monetary transfers to the United States Treasury: *Provided*, That such credits may be utilized only for the construction of facilities to support United States military forces in that host nation, or such real property maintenance and base operating costs that are currently executed through monetary transfers to such host nations: *Provided further*, That the Department of Defense’s budget submission for subsequent fiscal years shall identify such sums anticipated in residual value settlements, and identify such construction, real property maintenance or base operating costs that shall be funded by the host nation through such credits: *Provided further*, That all military construction projects to be executed from such accounts must be previously approved in a prior Act of Congress: *Provided further*, That each such executive agreement with a NATO member host nation shall be reported to the congressional defense committees [Committees on Armed Services of the Senate and House of Representatives and Subcommittees on Defense of the Committees on Appropriations of the Senate and House of Representatives], the Committee on International Relations [now Committee on Foreign Affairs] of the House of Representatives and the Committee on Foreign Relations of the Senate 30 days prior to the conclusion and endorsement of any such agreement established under this provision.”
+Pub. L. 108–287, title VIII, § 8018, Aug. 5, 2004, 118 Stat. 974, provided that: “Notwithstanding any other provision of law, during the current fiscal year and hereafter, the Secretary of Defense may, by executive agreement, establish with host nation governments in NATO member states a separate account into which such residual value amounts negotiated in the return of United States military installations in NATO member states may be deposited, in the currency of the host nation, in lieu of direct monetary transfers to the United States Treasury: *Provided*, That such credits may be utilized only for the construction of facilities to support United States military forces in that host nation, or such real property maintenance and base operating costs that are currently executed through monetary transfers to such host nations: *Provided further*, That the Department of Defense’s budget submission for subsequent fiscal years shall identify such sums anticipated in residual value settlements, and identify such construction, real property maintenance or base operating costs that shall be funded by the host nation through such credits: *Provided further*, That all military construction projects to be executed from such accounts must be previously approved in a prior Act of Congress: *Provided further*, That each such executive agreement with a NATO member host nation shall be reported to the congressional defense committees [Committees on Armed Services of the Senate and House of Representatives and Subcommittees on Defense of the Committees on Appropriations of the Senate and House of Representatives], the Committee on International Relations [now Committee on Foreign Affairs] of the House of Representatives and the Committee on Foreign Relations of the Senate 30 days prior to the conclusion and endorsement of any such agreement established under this provision.”
 
 Similar provisions for specified fiscal years were contained in the following appropriation acts:
 
-Pub. L. 108–87, title VIII, § 8018, Sept. 30, 2003, 117 Stat. 1075.
+Pub. L. 108–87, title VIII, § 8018, Sept. 30, 2003, 117 Stat. 1075.
 
-Pub. L. 107–248, title VIII, § 8018, Oct. 23, 2002, 116 Stat. 1540.
+Pub. L. 107–248, title VIII, § 8018, Oct. 23, 2002, 116 Stat. 1540.
 
-Pub. L. 107–117, div. A, title VIII, § 8019, Jan. 10, 2002, 115 Stat. 2251.
+Pub. L. 107–117, div. A, title VIII, § 8019, Jan. 10, 2002, 115 Stat. 2251.
 
-Pub. L. 106–259, title VIII, § 8019, Aug. 9, 2000, 114 Stat. 678.
+Pub. L. 106–259, title VIII, § 8019, Aug. 9, 2000, 114 Stat. 678.
 
-Pub. L. 106–79, title VIII, § 8019, Oct. 25, 1999, 113 Stat. 1235.
+Pub. L. 106–79, title VIII, § 8019, Oct. 25, 1999, 113 Stat. 1235.
 
-Pub. L. 105–262, title VIII, § 8019, Oct. 17, 1998, 112 Stat. 2301.
+Pub. L. 105–262, title VIII, § 8019, Oct. 17, 1998, 112 Stat. 2301.
 
-Pub. L. 105–56, title VIII, § 8019, Oct. 8, 1997, 111 Stat. 1224.
+Pub. L. 105–56, title VIII, § 8019, Oct. 8, 1997, 111 Stat. 1224.
 
-Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8020], Sept. 30, 1996, 110 Stat. 3009–71, 3009–92.
+Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8020], Sept. 30, 1996, 110 Stat. 3009–71, 3009–92.
 
-Pub. L. 104–61, title VIII, § 8027, Dec. 1, 1995, 109 Stat. 657.
+Pub. L. 104–61, title VIII, § 8027, Dec. 1, 1995, 109 Stat. 657.
 
-Pub. L. 103–335, title VIII, § 8033, Sept. 30, 1994, 108 Stat. 2625.
+Pub. L. 103–335, title VIII, § 8033, Sept. 30, 1994, 108 Stat. 2625.
 
-Pub. L. 103–139, title VIII, § 8036, Nov. 11, 1993, 107 Stat. 1448.
+Pub. L. 103–139, title VIII, § 8036, Nov. 11, 1993, 107 Stat. 1448.
 
-Pub. L. 102–396, title IX, § 9047A, Oct. 6, 1992, 106 Stat. 1913, as amended by Pub. L. 104–106, div. A, title XV, § 1502(f)(2), Feb. 10, 1996, 110 Stat. 509.
+Pub. L. 102–396, title IX, § 9047A, Oct. 6, 1992, 106 Stat. 1913, as amended by Pub. L. 104–106, div. A, title XV, § 1502(f)(2), Feb. 10, 1996, 110 Stat. 509.
 
-Pub. L. 101–510, div. B, title XXIX, § 2921, Nov. 5, 1990, 104 Stat. 1819, as amended by Pub. L. 102–190, div. A, title III, § 344(b)(2), Dec. 5, 1991, 105 Stat. 1345; Pub. L. 102–484, div. B, title XXVIII, §§ 2821(c), 2827, Oct. 23, 1992, 106 Stat. 2608, 2609; Pub. L. 103–160, div. B, title XXIX, § 2924(b), Nov. 30, 1993, 107 Stat. 1931; Pub. L. 103–337, div. A, title XIII, § 1305(c), div. B, title XXVIII, § 2817, Oct. 5, 1994, 108 Stat. 2891, 3057; Pub. L. 104–106, div. A, title X, § 1063(b), title XV, §§ 1502(c)(4)(D), 1505(e)(2), Feb. 10, 1996, 110 Stat. 444, 508, 515; Pub. L. 105–85, div. A, title X, § 1073(d)(4)(C), Nov. 18, 1997, 111 Stat. 1905; Pub. L. 106–65, div. A, title X, § 1067(10), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, § 1031(b), Nov. 24, 2003, 117 Stat. 1603; Pub. L. 113–66, div. B, title XXVIII, § 2807(b)(1), Dec. 26, 2013, 127 Stat. 1011, set forth the sense of Congress that military operations at military installations outside the United States be terminated at the earliest opportunity and that the Secretary of Defense should take steps to ensure that the United States receives fair market value consideration for the improvements made by the United States at facilities that will be released to host countries.
+Pub. L. 101–510, div. B, title XXIX, § 2921, Nov. 5, 1990, 104 Stat. 1819, as amended by Pub. L. 102–190, div. A, title III, § 344(b)(2), Dec. 5, 1991, 105 Stat. 1345; Pub. L. 102–484, div. B, title XXVIII, §§ 2821(c), 2827, Oct. 23, 1992, 106 Stat. 2608, 2609; Pub. L. 103–160, div. B, title XXIX, § 2924(b), Nov. 30, 1993, 107 Stat. 1931; Pub. L. 103–337, div. A, title XIII, § 1305(c), div. B, title XXVIII, § 2817, Oct. 5, 1994, 108 Stat. 2891, 3057; Pub. L. 104–106, div. A, title X, § 1063(b), title XV, §§ 1502(c)(4)(D), 1505(e)(2), Feb. 10, 1996, 110 Stat. 444, 508, 515; Pub. L. 105–85, div. A, title X, § 1073(d)(4)(C), Nov. 18, 1997, 111 Stat. 1905; Pub. L. 106–65, div. A, title X, § 1067(10), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, § 1031(b), Nov. 24, 2003, 117 Stat. 1603; Pub. L. 113–66, div. B, title XXVIII, § 2807(b)(1), Dec. 26, 2013, 127 Stat. 1011, set forth the sense of Congress that military operations at military installations outside the United States be terminated at the earliest opportunity and that the Secretary of Defense should take steps to ensure that the United States receives fair market value consideration for the improvements made by the United States at facilities that will be released to host countries.
 
 **Task Force Report**
 
-Pub. L. 102–380, § 125, Oct. 5, 1992, 106 Stat. 1372, reconvened the environmental response task force established in section 2923(c) of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1821; formerly set out below) and directed the task force, until all military base closure and realignment activities were completed, to monitor the progress of relevant Federal and State agencies in implementing the recommendations of the task force contained in the report submitted under such section and to annually submit to Congress a report containing recommendations concerning ways to expedite and improve environmental response actions at military installations and a summary of the progress made by relevant Federal and State agencies in implementing the recommendations of the task force.
+Pub. L. 102–380, § 125, Oct. 5, 1992, 106 Stat. 1372, reconvened the environmental response task force established in section 2923(c) of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1821; formerly set out below) and directed the task force, until all military base closure and realignment activities were completed, to monitor the progress of relevant Federal and State agencies in implementing the recommendations of the task force contained in the report submitted under such section and to annually submit to Congress a report containing recommendations concerning ways to expedite and improve environmental response actions at military installations and a summary of the progress made by relevant Federal and State agencies in implementing the recommendations of the task force.
 
-Pub. L. 101–510, div. B, title XXIX, § 2923(c), Nov. 5, 1990, 104 Stat. 1821, established an environmental response task force and directed the Secretary of Defense to submit to Congress, not later than 12 months after Nov. 5, 1990, a report containing the findings and recommendations of the task force concerning ways to improve interagency coordination and streamline procedures with respect to environmental response actions at closed or realigned military installations.
+Pub. L. 101–510, div. B, title XXIX, § 2923(c), Nov. 5, 1990, 104 Stat. 1821, established an environmental response task force and directed the Secretary of Defense to submit to Congress, not later than 12 months after Nov. 5, 1990, a report containing the findings and recommendations of the task force concerning ways to improve interagency coordination and streamline procedures with respect to environmental response actions at closed or realigned military installations.
 
 **Community Preference Consideration in Closure and Realignment of Military Installations**
 
-Pub. L. 101–510, div. B, title XXIX, § 2924, Nov. 5, 1990, 104 Stat. 1822, provided that: “In any process of selecting any military installation inside the United States for closure or realignment, the Secretary of Defense shall take such steps as are necessary to assure that special consideration and emphasis is given to any official statement from a unit of general local government adjacent to or within a military installation requesting the closure or realignment of such installation.”
+Pub. L. 101–510, div. B, title XXIX, § 2924, Nov. 5, 1990, 104 Stat. 1822, provided that: “In any process of selecting any military installation inside the United States for closure or realignment, the Secretary of Defense shall take such steps as are necessary to assure that special consideration and emphasis is given to any official statement from a unit of general local government adjacent to or within a military installation requesting the closure or realignment of such installation.”
 
 **Contracts for Certain Environmental Restoration Activities**
 
-Pub. L. 101–510, div. B, title XXIX, § 2926, Nov. 5, 1990, 104 Stat. 1822, as amended by Pub. L. 103–160, div. A, title IX, § 904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, § 911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 107–314, div. A, title X, § 1062(m)(4), Dec. 2, 2002, 116 Stat. 2652, provided for a model program for base closure environmental restoration, prior to repeal by Pub. L. 108–136, div. A, title III, § 316, Nov. 24, 2003, 117 Stat. 1432.
+Pub. L. 101–510, div. B, title XXIX, § 2926, Nov. 5, 1990, 104 Stat. 1822, as amended by Pub. L. 103–160, div. A, title IX, § 904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, § 911(a)(1), Oct. 5, 1999, 113 Stat. 717; Pub. L. 107–314, div. A, title X, § 1062(m)(4), Dec. 2, 2002, 116 Stat. 2652, provided for a model program for base closure environmental restoration, prior to repeal by Pub. L. 108–136, div. A, title III, § 316, Nov. 24, 2003, 117 Stat. 1432.
 
 **Consideration of Department of Defense Housing for Coast Guard**
 
-Pub. L. 101–225, title II, § 216, Dec. 12, 1989, 103 Stat. 1915, deemed the Coast Guard to be an instrumentality within the Department of Defense for certain purposes related to housing under section 204(b) of Pub. L. 100–526 (set out below).
+Pub. L. 101–225, title II, § 216, Dec. 12, 1989, 103 Stat. 1915, deemed the Coast Guard to be an instrumentality within the Department of Defense for certain purposes related to housing under section 204(b) of Pub. L. 100–526 (set out below).
 
 **Five-Year Plan for Environmental Restoration at Bases To Be Closed**
 
-Pub. L. 101–189, div. A, title III, § 353, Nov. 29, 1989, 103 Stat. 1423, directed Secretary of Defense to develop a comprehensive five-year plan for environmental restoration at military installations that would be closed or realigned during fiscal years 1991 through 1995, pursuant to title II of the Defense Authorization Amendments and Base Closure and Realignment Act, Pub. L. 100–526, set out below, and, at same time President submits to Congress budget for fiscal year 1991 pursuant to 31 U.S.C. 1105, to submit to Congress a report on the five-year plan.
+Pub. L. 101–189, div. A, title III, § 353, Nov. 29, 1989, 103 Stat. 1423, directed Secretary of Defense to develop a comprehensive five-year plan for environmental restoration at military installations that would be closed or realigned during fiscal years 1991 through 1995, pursuant to title II of the Defense Authorization Amendments and Base Closure and Realignment Act, Pub. L. 100–526, set out below, and, at same time President submits to Congress budget for fiscal year 1991 pursuant to 31 U.S.C. 1105, to submit to Congress a report on the five-year plan.
 
 **Prohibition on Reducing End Strength Levels for Medical Personnel as a Result of Base Closures and Realignments**
 
-Pub. L. 101–189, div. A, title VII, § 723, Nov. 29, 1989, 103 Stat. 1478, provided that:
+Pub. L. 101–189, div. A, title VII, § 723, Nov. 29, 1989, 103 Stat. 1478, provided that:
 
 > **“(a) Prohibition.—** The end strength levels for medical personnel for each component of the Armed Forces, and the number of civilian personnel of the Department of Defense assigned to military medical facilities, may not be reduced as a result of the closure or realignment of a military installation under section 2687 of title 10, United States Code, or title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note).
 
@@ -5965,15 +5965,15 @@ Pub. L. 101–189, div. A, title VII, § 723, Nov. 29, 1989, 103 Stat. 1478, p
 
 **Use of Closed Bases for Prisons and Drug Treatment Facilities**
 
-Pub. L. 101–189, div. B, title XXVIII, § 2832, Nov. 29, 1989, 103 Stat. 1660, set forth the sense of Congress that certain real property of the Department of Defense rendered excess or surplus as a result of the recommendations of the Commission on Base Realignment and Closure be made available to another Federal agency or a State or local government for use as a penal or correctional facility or as a drug abuse prevention, treatment, or rehabilitation center.
+Pub. L. 101–189, div. B, title XXVIII, § 2832, Nov. 29, 1989, 103 Stat. 1660, set forth the sense of Congress that certain real property of the Department of Defense rendered excess or surplus as a result of the recommendations of the Commission on Base Realignment and Closure be made available to another Federal agency or a State or local government for use as a penal or correctional facility or as a drug abuse prevention, treatment, or rehabilitation center.
 
 **Notice to Local and State Educational Agencies of Enrollment Changes Due to Base Closures and Realignments**
 
-Pub. L. 101–189, div. B, title XXVIII, § 2833, Nov. 29, 1989, 103 Stat. 1661, directed the Secretary of Defense to identify each local educational agency that will experience a significant increase or decrease in the number of children in its jurisdiction during the next academic year as a result of the closure or realignment of a military installation under the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 102 Stat. 2627; set out below) by not later than January 1 of that year and to provide notice to that local educational agency and to the relevent State government education agency of such identification.
+Pub. L. 101–189, div. B, title XXVIII, § 2833, Nov. 29, 1989, 103 Stat. 1661, directed the Secretary of Defense to identify each local educational agency that will experience a significant increase or decrease in the number of children in its jurisdiction during the next academic year as a result of the closure or realignment of a military installation under the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 102 Stat. 2627; set out below) by not later than January 1 of that year and to provide notice to that local educational agency and to the relevent State government education agency of such identification.
 
 **Closure and Realignment of Military Installations**
 
-Pub. L. 100–526, title II, Oct. 24, 1988, 102 Stat. 2627, as amended by Pub. L. 101–510, div. B, title XXIX, § 2923(b)(1), Nov. 5, 1990, 104 Stat. 1821; Pub. L. 102–190, div. A, title III, § 344(a), Dec. 5, 1991, 105 Stat. 1344; Pub. L. 102–484, div. B, title XXVIII, § 2821(a), Oct. 23, 1992, 106 Stat. 2606; Pub. L. 103–160, div. B, title XXIX, §§ 2902(a), 2903(a), 2904(a), 2905(a), 2907(a), 2908(a), 2918(b), 2921(a), Nov. 30, 1993, 107 Stat. 1909, 1912, 1915, 1916, 1921, 1922, 1928, 1929; Pub. L. 103–337, div. A, title X, § 1070(b)(13), div. B, title XXVIII, §§ 2812(a), 2813(a)–(c)(1), (d)(1), (e)(1), Oct. 5, 1994, 108 Stat. 2857, 3054, 3055; Pub. L. 103–421, § 2(f)(1), Oct. 25, 1994, 108 Stat. 4354; Pub. L. 104–106, div. A, title XV, §§ 1504(a)(9), 1505(e)(3), div. B, title XXVIII, §§ 2831(b)(1), 2839(a), 2840(a), Feb. 10, 1996, 110 Stat. 513, 515, 558, 563, 564; Pub. L. 104–201, div. B, title XXVIII, §§ 2811, 2812(a), 2813(a), Sept. 23, 1996, 110 Stat. 2788, 2789; Pub. L. 105–85, div. A, title X, § 1073(d)(6), div. B, title XXVIII, § 2821(a), Nov. 18, 1997, 111 Stat. 1906, 1996; Pub. L. 106–65, div. B, title XXVIII, § 2821(b), Oct. 5, 1999, 113 Stat. 855; Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2821(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–419; Pub. L. 107–107, div. A, title X, § 1048(d)(3), div. B, title XXVIII, § 2821(a), Dec. 28, 2001, 115 Stat. 1227, 1311; Pub. L. 107–314, div. A, title X, § 1062(n), div. B, title XXVIII, § 2814(a), Dec. 2, 2002, 116 Stat. 2652, 2710; Pub. L. 108–136, div. A, title VI, § 655(a), div. B, title XXVIII, § 2805(d)(1), Nov. 24, 2003, 117 Stat. 1523, 1721; Pub. L. 112–239, div. B, title XXVII, § 2711(c)(1), (3)(B), Jan. 2, 2013, 126 Stat. 2143, provided that:
+Pub. L. 100–526, title II, Oct. 24, 1988, 102 Stat. 2627, as amended by Pub. L. 101–510, div. B, title XXIX, § 2923(b)(1), Nov. 5, 1990, 104 Stat. 1821; Pub. L. 102–190, div. A, title III, § 344(a), Dec. 5, 1991, 105 Stat. 1344; Pub. L. 102–484, div. B, title XXVIII, § 2821(a), Oct. 23, 1992, 106 Stat. 2606; Pub. L. 103–160, div. B, title XXIX, §§ 2902(a), 2903(a), 2904(a), 2905(a), 2907(a), 2908(a), 2918(b), 2921(a), Nov. 30, 1993, 107 Stat. 1909, 1912, 1915, 1916, 1921, 1922, 1928, 1929; Pub. L. 103–337, div. A, title X, § 1070(b)(13), div. B, title XXVIII, §§ 2812(a), 2813(a)–(c)(1), (d)(1), (e)(1), Oct. 5, 1994, 108 Stat. 2857, 3054, 3055; Pub. L. 103–421, § 2(f)(1), Oct. 25, 1994, 108 Stat. 4354; Pub. L. 104–106, div. A, title XV, §§ 1504(a)(9), 1505(e)(3), div. B, title XXVIII, §§ 2831(b)(1), 2839(a), 2840(a), Feb. 10, 1996, 110 Stat. 513, 515, 558, 563, 564; Pub. L. 104–201, div. B, title XXVIII, §§ 2811, 2812(a), 2813(a), Sept. 23, 1996, 110 Stat. 2788, 2789; Pub. L. 105–85, div. A, title X, § 1073(d)(6), div. B, title XXVIII, § 2821(a), Nov. 18, 1997, 111 Stat. 1906, 1996; Pub. L. 106–65, div. B, title XXVIII, § 2821(b), Oct. 5, 1999, 113 Stat. 855; Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2821(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–419; Pub. L. 107–107, div. A, title X, § 1048(d)(3), div. B, title XXVIII, § 2821(a), Dec. 28, 2001, 115 Stat. 1227, 1311; Pub. L. 107–314, div. A, title X, § 1062(n), div. B, title XXVIII, § 2814(a), Dec. 2, 2002, 116 Stat. 2652, 2710; Pub. L. 108–136, div. A, title VI, § 655(a), div. B, title XXVIII, § 2805(d)(1), Nov. 24, 2003, 117 Stat. 1523, 1721; Pub. L. 112–239, div. B, title XXVII, § 2711(c)(1), (3)(B), Jan. 2, 2013, 126 Stat. 2143, provided that:
 
 > **“SEC. 201. CLOSURE AND REALIGNMENT OF MILITARY INSTALLATIONS**
 
@@ -6359,7 +6359,7 @@ Pub. L. 100–526, title II, Oct. 24, 1988, 102 Stat. 2627, as amended by Pub. L
 
 > **“(6)** The Secretary may not enter into an agreement to transfer property or facilities under this subsection after the expiration of the five-year period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 1994 [Nov. 30, 1993].
 
-> **“[(e)** Repealed. Pub. L. 108–136, div. B, title XXVIII, § 2805(d)(1), Nov. 24, 2003, 117 Stat. 1721.]
+> **“[(e)** Repealed. Pub. L. 108–136, div. B, title XXVIII, § 2805(d)(1), Nov. 24, 2003, 117 Stat. 1721.]
 
 > **“(f) Acquisition of Manufactured Housing.—**
 
@@ -6399,7 +6399,7 @@ Pub. L. 100–526, title II, Oct. 24, 1988, 102 Stat. 2627, as amended by Pub. L
 
 > **“[SEC. 207.**
 
-> Repealed. Pub. L. 112–239, div. B, title XXVII, § 2711(c)(1), Jan. 2, 2013, 126 Stat. 2143.]
+> Repealed. Pub. L. 112–239, div. B, title XXVII, § 2711(c)(1), Jan. 2, 2013, 126 Stat. 2143.]
 
 > **“SEC. 208. CONGRESSIONAL CONSIDERATION OF COMMISSION REPORT**
 
@@ -6407,7 +6407,7 @@ Pub. L. 100–526, title II, Oct. 24, 1988, 102 Stat. 2627, as amended by Pub. L
 
 > **“(1)** which does not have a preamble;
 
-> **“(2)** the matter after the resolving clause of which is as follows: ‘That Congress disapproves the recommendations of the Commission on Base Realignment and Closure established by the Secretary of Defense as submitted to the Secretary of Defense on           ’, the blank space being appropriately filled in; and
+> **“(2)** the matter after the resolving clause of which is as follows: ‘That Congress disapproves the recommendations of the Commission on Base Realignment and Closure established by the Secretary of Defense as submitted to the Secretary of Defense on ’, the blank space being appropriately filled in; and
 
 > **“(3)** the title of which is as follows: ‘Joint resolution disapproving the recommendations of the Commission on Base Realignment and Closure.’.
 
@@ -6481,9 +6481,9 @@ Pub. L. 100–526, title II, Oct. 24, 1988, 102 Stat. 2627, as amended by Pub. L
 
 [For effective date of amendment by section 344(a) of Pub. L. 102–190 to sections 204 and 209 of Pub. L. 100–526, set out above, see Effective Date of 1991 Amendments by Section 344 of Pub. L. 102–190 note set out above.]
 
-[Pub. L. 101–510, div. B, title XXIX, § 2923(b)(2), Nov. 5, 1990, 104 Stat. 1821, provided that: “The amendment made by paragraph (1) [amending section 207 of Pub. L. 100–526 set out above] does not apply with respect to the availability of funds appropriated before the date of the enactment of this Act [Nov. 5, 1990].” ]
+[Pub. L. 101–510, div. B, title XXIX, § 2923(b)(2), Nov. 5, 1990, 104 Stat. 1821, provided that: “The amendment made by paragraph (1) [amending section 207 of Pub. L. 100–526 set out above] does not apply with respect to the availability of funds appropriated before the date of the enactment of this Act [Nov. 5, 1990].” ]
 
-## § 2687a. Overseas base closures and realignments and status of United States overseas military locations
+## § 2687a. Overseas base closures and realignments and status of United States overseas military locations
 
 **(a) Annual Report on Status of Overseas Closures and Realignments and Overseas Military Locations.—**
 
@@ -6623,7 +6623,7 @@ Pub. L. 100–526, title II, Oct. 24, 1988, 102 Stat. 2627, as amended by Pub. L
 
 **(4)** The term “nonappropriated fund instrumentality” means an instrumentality of the United States under the jurisdiction of the armed forces (including the Army and Air Force Exchange Service, the Navy Resale and Services Support Office, and the Marine Corps exchanges) which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the armed forces.
 
-(Added Pub. L. 111–84, div. B, title XXVIII, § 2822(a)(1), Oct. 28, 2009, 123 Stat. 2665; amended Pub. L. 111–383, div. A, title X, § 1075(b)(44), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–239, div. A, title X, § 1076(f)(34), Jan. 2, 2013, 126 Stat. 1954; Pub. L. 113–66, div. B, title XXVIII, § 2807(a), Dec. 26, 2013, 127 Stat. 1008; Pub. L. 113–291, div. B, title XXVIII, § 2803(a), Dec. 19, 2014, 128 Stat. 3696; Pub. L. 114–92, div. A, title X, § 1081(a)(11), (b)(7), Nov. 25, 2015, 129 Stat. 1001, 1002; Pub. L. 114–328, div. B, title XXVIII, § 2811(a), (c), Dec. 23, 2016, 130 Stat. 2715, 2716; Pub. L. 115–91, div. A, title X, § 1081(d)(15), Dec. 12, 2017, 131 Stat. 1600; Pub. L. 116–283, div. B, title XXVIII, § 2822(a)–(b)(2), Jan. 1, 2021, 134 Stat. 4330–4332.)
+(Added Pub. L. 111–84, div. B, title XXVIII, § 2822(a)(1), Oct. 28, 2009, 123 Stat. 2665; amended Pub. L. 111–383, div. A, title X, § 1075(b)(44), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–239, div. A, title X, § 1076(f)(34), Jan. 2, 2013, 126 Stat. 1954; Pub. L. 113–66, div. B, title XXVIII, § 2807(a), Dec. 26, 2013, 127 Stat. 1008; Pub. L. 113–291, div. B, title XXVIII, § 2803(a), Dec. 19, 2014, 128 Stat. 3696; Pub. L. 114–92, div. A, title X, § 1081(a)(11), (b)(7), Nov. 25, 2015, 129 Stat. 1001, 1002; Pub. L. 114–328, div. B, title XXVIII, § 2811(a), (c), Dec. 23, 2016, 130 Stat. 2715, 2716; Pub. L. 115–91, div. A, title X, § 1081(d)(15), Dec. 12, 2017, 131 Stat. 1600; Pub. L. 116–283, div. B, title XXVIII, § 2822(a)–(b)(2), Jan. 1, 2021, 134 Stat. 4330–4332.)
 
 **Editorial Notes**
 
@@ -6633,33 +6633,33 @@ The date of the enactment of the Military Construction Authorization Act for Fis
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 2822(b)(2), amended section catchline generally, substituting “Overseas base closures and realignments and status of United States overseas military locations” for “Overseas base closures and realignments and basing master plans”.
+2021—Pub. L. 116–283, § 2822(b)(2), amended section catchline generally, substituting “Overseas base closures and realignments and status of United States overseas military locations” for “Overseas base closures and realignments and basing master plans”.
 
-Subsec. (a). Pub. L. 116–283, § 2822(a)(1), substituted “Overseas Military Locations” for “Master Plans” in heading.
+Subsec. (a). Pub. L. 116–283, § 2822(a)(1), substituted “Overseas Military Locations” for “Master Plans” in heading.
 
-Subsec. (a)(1)(B). Pub. L. 116–283, § 2822(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “the status of development and execution of comprehensive master plans for overseas military main operating bases, forward operating sites, and cooperative security locations.”
+Subsec. (a)(1)(B). Pub. L. 116–283, § 2822(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “the status of development and execution of comprehensive master plans for overseas military main operating bases, forward operating sites, and cooperative security locations.”
 
-Subsec. (a)(2) to (5). Pub. L. 116–283, § 2822(a)(3), added pars. (2) to (5) and struck out former par. (2) which related to elements of annual status report of overseas closures and realignments and master plans.
+Subsec. (a)(2) to (5). Pub. L. 116–283, § 2822(a)(3), added pars. (2) to (5) and struck out former par. (2) which related to elements of annual status report of overseas closures and realignments and master plans.
 
-Subsec. (e)(2). Pub. L. 116–283, § 2822(b)(1), substituted “host country” for “host nation” in two places in introductory provisions.
+Subsec. (e)(2). Pub. L. 116–283, § 2822(b)(1), substituted “host country” for “host nation” in two places in introductory provisions.
 
-2017—Subsec. (f). Pub. L. 115–91, § 1081(d)(15), amended Pub. L. 114–328, § 2811(c). See 2016 Amendment note below.
+2017—Subsec. (f). Pub. L. 115–91, § 1081(d)(15), amended Pub. L. 114–328, § 2811(c). See 2016 Amendment note below.
 
-2016—Subsec. (f). Pub. L. 114–328, § 2811(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) related to authorized use of payments-in-kind and in-kind contributions.
+2016—Subsec. (f). Pub. L. 114–328, § 2811(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) related to authorized use of payments-in-kind and in-kind contributions.
 
-Pub. L. 114–328, § 2811(c), as amended by Pub. L. 115–91, § 1081(d)(15), repealed Pub. L. 113–291, § 2803(a). See 2014 Amendment note below.
+Pub. L. 114–328, § 2811(c), as amended by Pub. L. 115–91, § 1081(d)(15), repealed Pub. L. 113–291, § 2803(a). See 2014 Amendment note below.
 
-2015—Subsec. (d)(2). Pub. L. 114–92, § 1081(a)(11), inserted “fair market” before “value”.
+2015—Subsec. (d)(2). Pub. L. 114–92, § 1081(a)(11), inserted “fair market” before “value”.
 
-Subsec. (f). Pub. L. 114–92, § 1081(b)(7), amended Pub. L. 113–291, § 2803(a). See 2014 Amendment note below.
+Subsec. (f). Pub. L. 114–92, § 1081(b)(7), amended Pub. L. 113–291, § 2803(a). See 2014 Amendment note below.
 
-2014—Subsec. (f). Pub. L. 113–291, § 2803(a), as amended by Pub. L. 114–92, § 1081(b)(7), which amended subsec. (f) generally by substituting provisions related to authorized use of payments-in-kind and in-kind contributions for provisions related to authorized use of payments-in-kind, was repealed by Pub. L. 114–328, § 2811(c), as amended by Pub. L. 115–91, § 1081(d)(15).
+2014—Subsec. (f). Pub. L. 113–291, § 2803(a), as amended by Pub. L. 114–92, § 1081(b)(7), which amended subsec. (f) generally by substituting provisions related to authorized use of payments-in-kind and in-kind contributions for provisions related to authorized use of payments-in-kind, was repealed by Pub. L. 114–328, § 2811(c), as amended by Pub. L. 115–91, § 1081(d)(15).
 
-2013—Pub. L. 113–66, § 2807(a), amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) which related to an annual status report of overseas base closures, realignments, and basing master plans and required elements of the report, respectively.
+2013—Pub. L. 113–66, § 2807(a), amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) which related to an annual status report of overseas base closures, realignments, and basing master plans and required elements of the report, respectively.
 
-Subsec. (a). Pub. L. 112–239, § 1076(f)(34)(A), substituted “Foreign Relations” for “Foreign relations”.
+Subsec. (a). Pub. L. 112–239, § 1076(f)(34)(A), substituted “Foreign Relations” for “Foreign relations”.
 
-Subsec. (b)(1). Pub. L. 112–239, § 1076(f)(34)(B), struck out comma after “including” and substituted “the Treaty” for “The Treaty”.
+Subsec. (b)(1). Pub. L. 112–239, § 1076(f)(34)(B), struck out comma after “including” and substituted “the Treaty” for “The Treaty”.
 
 2011—Subsec. (a). Pub. L. 111–383 substituted “31 for” for “31for” in introductory provisions.
 
@@ -6667,19 +6667,19 @@ Subsec. (b)(1). Pub. L. 112–239, § 1076(f)(34)(B), struck out comma after �
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–91, div. A, title X, § 1081(d), Dec. 12, 2017, 131 Stat. 1599, provided that the amendment made by section 1081(d)(15) is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted.
+Pub. L. 115–91, div. A, title X, § 1081(d), Dec. 12, 2017, 131 Stat. 1599, provided that the amendment made by section 1081(d)(15) is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted.
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–92, div. A, title X, § 1081(b), Nov. 25, 2015, 129 Stat. 1001, provided in part that the amendment made by section 1081(b)(7) is effective as of Dec. 19, 2014, and as if included in Pub. L. 113–291 as enacted.
+Pub. L. 114–92, div. A, title X, § 1081(b), Nov. 25, 2015, 129 Stat. 1001, provided in part that the amendment made by section 1081(b)(7) is effective as of Dec. 19, 2014, and as if included in Pub. L. 113–291 as enacted.
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–291, div. B, title XXVIII, § 2803(d), Dec. 19, 2014, 128 Stat. 3697, which provided the effective date for the amendments made by section 2803 of Pub. L. 113–291, was repealed by Pub. L. 114–328, div. B, title XXVIII, § 2811(c), Dec. 23, 2016, 130 Stat. 2716.
+Pub. L. 113–291, div. B, title XXVIII, § 2803(d), Dec. 19, 2014, 128 Stat. 3697, which provided the effective date for the amendments made by section 2803 of Pub. L. 113–291, was repealed by Pub. L. 114–328, div. B, title XXVIII, § 2811(c), Dec. 23, 2016, 130 Stat. 2716.
 
 **Repeal of 2014 Amendment**
 
-Pub. L. 114–328, div. B, title XXVIII, § 2811(c), Dec. 23, 2016, 130 Stat. 2716, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(15), Dec. 12, 2017, 131 Stat. 1600, provided that: “Section 2803 of the Carl Levin and Howard ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291; 128 Stat. 3696) [amending this section and section 2802 of this title and enacting provisions set out as a note under this section] is repealed.”
+Pub. L. 114–328, div. B, title XXVIII, § 2811(c), Dec. 23, 2016, 130 Stat. 2716, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(15), Dec. 12, 2017, 131 Stat. 1600, provided that: “Section 2803 of the Carl Levin and Howard ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291; 128 Stat. 3696) [amending this section and section 2802 of this title and enacting provisions set out as a note under this section] is repealed.”
 
 **Termination of Reporting Requirements**
 
@@ -6687,17 +6687,17 @@ For termination, effective Dec. 31, 2021, of provisions of this section requirin
 
 **Notice Relating to Contracts or Other Agreements To Establish an Enduring Location in a Foreign Country**
 
-Pub. L. 119–60, div. B, title XXVIII, § 2890, Dec. 18, 2025, 139 Stat. 1334, provided that: “Not later than 30 days after the date on which the Secretary of Defense, a Secretary of a military department, or a combatant commander enters into a contract or other agreement to establish an enduring location (as described in section 2687a of title 10, United States Code) in a foreign country for purposes of supporting members of the Armed Forces in such foreign country, the Secretary of Defense shall submit to appropriate congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a notification of such action.”
+Pub. L. 119–60, div. B, title XXVIII, § 2890, Dec. 18, 2025, 139 Stat. 1334, provided that: “Not later than 30 days after the date on which the Secretary of Defense, a Secretary of a military department, or a combatant commander enters into a contract or other agreement to establish an enduring location (as described in section 2687a of title 10, United States Code) in a foreign country for purposes of supporting members of the Armed Forces in such foreign country, the Secretary of Defense shall submit to appropriate congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a notification of such action.”
 
 **Prohibition Relating to Closure or Return to Host Nation of Existing Military Installations, Infrastructure, or Real Property in Europe**
 
-Pub. L. 116–283, div. B, title XXVIII, § 2828, Jan. 1, 2021, 134 Stat. 4338, provided that:
+Pub. L. 116–283, div. B, title XXVIII, § 2828, Jan. 1, 2021, 134 Stat. 4338, provided that:
 
 > **“(a) Prohibition on Closure or Return.—** Except as provided by subsection (b), the Secretary of Defense shall not implement any activity that closes or returns to the host nation any military installation, infrastructure, or real property in Europe that, as of the date of enactment of this Act [Jan. 1, 2021], is under the operational control of the Department of Defense or a military department and is utilized by the United States Armed Forces.
 
 > **“(b) Waiver and Exception.—** The Secretary of Defense may waive the prohibition under subsection (a) if the Secretary certifies to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] that there is no longer a foreseeable need for the military installation, infrastructure, or real property, or a portion of the military installation in the case of a partial closure and return of a military installation, to support a permanent or rotational United States military presence in the European theater.”
 
-## § 2688. Utility systems: conveyance authority
+## § 2688. Utility systems: conveyance authority
 
 **(a) Conveyance Authority.—** The Secretary of a military department may convey a utility system, or part of a utility system, under the jurisdiction of the Secretary to a municipal, private, regional, district, or cooperative utility company or other entity. The conveyance may consist of all right, title, and interest of the United States in the utility system or such lesser estate as the Secretary considers appropriate to serve the interests of the United States.
 
@@ -6737,7 +6737,7 @@ Pub. L. 116–283, div. B, title XXVIII, § 2828, Jan. 1, 2021, 134 Stat. 4338
 
 **(2)** Amounts so credited shall be merged with funds in the appropriation to which credited and shall be available for the same purposes, and subject to the same conditions and limitations, as the appropriation with which merged.
 
-**[(f)** Repealed. Pub. L. 112–81, div. A, title X, § 1061(21)(C), Dec. 31, 2011, 125 Stat. 1584.]
+**[(f)** Repealed. Pub. L. 112–81, div. A, title X, § 1061(21)(C), Dec. 31, 2011, 125 Stat. 1584.]
 
 **(g) Additional Terms and Conditions.—**
 
@@ -6747,9 +6747,9 @@ Pub. L. 116–283, div. B, title XXVIII, § 2828, Jan. 1, 2021, 134 Stat. 4338
 
 **(3)** The Secretary concerned shall require in any contract for the conveyance of a utility system (or part of a utility system) under subsection (a) that the conveyee manage and operate the utility system in a manner consistent with energy resilience and cybersecurity requirements and associated metrics provided to the conveyee to ensure that the reliability of the utility system meets mission requirements.
 
-**(4)** The Secretary of Defense, in consultation with the Secretaries of the military departments, shall include in the report submitted under section 2925(a) 1
+**(4)** The Secretary of Defense, in consultation with the Secretaries of the military departments, shall include in the report submitted under section 2925(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title a description of progress in meeting energy resilience metrics for all conveyance contracts entered into pursuant to this section.
 
@@ -6807,17 +6807,17 @@ of this title a description of progress in meeting energy resilience metrics for
 
 **(l) Limitation.—** This section shall not apply to projects constructed or operated by the Army Corps of Engineers under its civil works authorities.
 
-(Added Pub. L. 105–85, div. B, title XXVIII, § 2812(a), Nov. 18, 1997, 111 Stat. 1992; amended Pub. L. 106–65, div. A, title X, § 1067(1), div. B, title XXVIII, § 2812, Oct. 5, 1999, 113 Stat. 774, 851; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(15), div. B, title XXVIII, § 2813], Oct. 30, 2000, 114 Stat. 1654, 1654A–291, 1654A–418; Pub. L. 108–136, div. A, title X, § 1031(a)(32), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 109–163, div. B, title XXVIII, § 2823(a)–(d), Jan. 6, 2006, 119 Stat. 3514–3516; Pub. L. 110–417, div. B, title XXVIII, § 2813, Oct. 14, 2008, 122 Stat. 4728; Pub. L. 111–84, div. B, title XXVIII, § 2821, Oct. 28, 2009, 123 Stat. 2664; Pub. L. 112–81, div. A, title X, § 1061(21), Dec. 31, 2011, 125 Stat. 1584; Pub. L. 113–66, div. B, title XXVIII, § 2813, Dec. 26, 2013, 127 Stat. 1014; Pub. L. 114–92, div. B, title XXVIII, § 2813, Nov. 25, 2015, 129 Stat. 1175; Pub. L. 115–91, div. B, title XXVIII, § 2834, Dec. 12, 2017, 131 Stat. 1858; Pub. L. 115–232, div. A, title III, § 312(e), Aug. 13, 2018, 132 Stat. 1710; Pub. L. 116–92, div. A, title III, § 315, Dec. 20, 2019, 133 Stat. 1304; Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2), div. B, title XXVIII, §§ 2823(a), 2824, Jan. 1, 2021, 134 Stat. 4294, 4333; Pub. L. 118–31, div. B, title XXVIII, § 2811(a), Dec. 22, 2023, 137 Stat. 748; Pub. L. 118–159, div. A, title XVII, § 1701(a)(29), Dec. 23, 2024, 138 Stat. 2204; Pub. L. 119–60, div. B, title XXVIII, § 2842, Dec. 18, 2025, 139 Stat. 1317.)
+(Added Pub. L. 105–85, div. B, title XXVIII, § 2812(a), Nov. 18, 1997, 111 Stat. 1992; amended Pub. L. 106–65, div. A, title X, § 1067(1), div. B, title XXVIII, § 2812, Oct. 5, 1999, 113 Stat. 774, 851; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(15), div. B, title XXVIII, § 2813], Oct. 30, 2000, 114 Stat. 1654, 1654A–291, 1654A–418; Pub. L. 108–136, div. A, title X, § 1031(a)(32), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 109–163, div. B, title XXVIII, § 2823(a)–(d), Jan. 6, 2006, 119 Stat. 3514–3516; Pub. L. 110–417, div. B, title XXVIII, § 2813, Oct. 14, 2008, 122 Stat. 4728; Pub. L. 111–84, div. B, title XXVIII, § 2821, Oct. 28, 2009, 123 Stat. 2664; Pub. L. 112–81, div. A, title X, § 1061(21), Dec. 31, 2011, 125 Stat. 1584; Pub. L. 113–66, div. B, title XXVIII, § 2813, Dec. 26, 2013, 127 Stat. 1014; Pub. L. 114–92, div. B, title XXVIII, § 2813, Nov. 25, 2015, 129 Stat. 1175; Pub. L. 115–91, div. B, title XXVIII, § 2834, Dec. 12, 2017, 131 Stat. 1858; Pub. L. 115–232, div. A, title III, § 312(e), Aug. 13, 2018, 132 Stat. 1710; Pub. L. 116–92, div. A, title III, § 315, Dec. 20, 2019, 133 Stat. 1304; Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2), div. B, title XXVIII, §§ 2823(a), 2824, Jan. 1, 2021, 134 Stat. 4294, 4333; Pub. L. 118–31, div. B, title XXVIII, § 2811(a), Dec. 22, 2023, 137 Stat. 748; Pub. L. 118–159, div. A, title XVII, § 1701(a)(29), Dec. 23, 2024, 138 Stat. 2204; Pub. L. 119–60, div. B, title XXVIII, § 2842, Dec. 18, 2025, 139 Stat. 1317.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2925(a) of this title, referred to in subsec. (g)(4), was struck out, and a new subsec. (a) of section 2925 of this title relating to annual reports on energy performance, resilience, and readiness of Department of Defense was added, by Pub. L. 117–263, div. A, title III, § 314(b)(1)(B), Dec. 23, 2022, 136 Stat. 2504.
+Section 2925(a) of this title, referred to in subsec. (g)(4), was struck out, and a new subsec. (a) of section 2925 of this title relating to annual reports on energy performance, resilience, and readiness of Department of Defense was added, by Pub. L. 117–263, div. A, title III, § 314(b)(1)(B), Dec. 23, 2022, 136 Stat. 2504.
 
 **Prior Provisions**
 
-A prior section 2688, added Pub. L. 96–125, title VIII, § 804(a)(1), Nov. 26, 1979, 93 Stat. 948; amended Pub. L. 96–418, title VIII, § 804, Oct. 10, 1980, 94 Stat. 1777; Pub. L. 97–22, § 11(a)(9), July 10, 1981, 95 Stat. 138; Pub. L. 97–99, title IX, § 901, Dec. 23, 1981, 95 Stat. 1381, related to use of solar energy systems in new facilities, prior to repeal by Pub. L. 97–214, §§ 7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See section 2915 of this title.
+A prior section 2688, added Pub. L. 96–125, title VIII, § 804(a)(1), Nov. 26, 1979, 93 Stat. 948; amended Pub. L. 96–418, title VIII, § 804, Oct. 10, 1980, 94 Stat. 1777; Pub. L. 97–22, § 11(a)(9), July 10, 1981, 95 Stat. 138; Pub. L. 97–99, title IX, § 901, Dec. 23, 1981, 95 Stat. 1381, related to use of solar energy systems in new facilities, prior to repeal by Pub. L. 97–214, §§ 7(1), 12(a), July 12, 1982, 96 Stat. 173, 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See section 2915 of this title.
 
 **Amendments**
 
@@ -6827,23 +6827,23 @@ A prior section 2688, added Pub. L. 96–125, title VIII, § 804(a)(1), Nov. 2
 
 2023—Subsec. (k). Pub. L. 118–31 amended subsec. (k) generally. Prior to amendment, text read as follows: “In the case of a utility system that is conveyed under this section and that only provides utility services to a military installation, the Secretary concerned may use amounts authorized to be appropriated for military construction to improve the reliability, resilience, efficiency, physical security, or cybersecurity of the utility system.”
 
-2021—Subsec. (b)(2). Pub. L. 116–283, § 1883(b)(2), substituted “subsections (a), (b), (d), and (e) of section 3204” for “subsections (c) through (f) of section 2304”.
+2021—Subsec. (b)(2). Pub. L. 116–283, § 1883(b)(2), substituted “subsections (a), (b), (d), and (e) of section 3204” for “subsections (c) through (f) of section 2304”.
 
-Subsec. (d)(2). Pub. L. 116–283, § 2824, substituted “The Secretary concerned” for “The Secretary of Defense, or the designee of the Secretary,” and “if the Secretary concerned” for “if the Secretary”.
+Subsec. (d)(2). Pub. L. 116–283, § 2824, substituted “The Secretary concerned” for “The Secretary of Defense, or the designee of the Secretary,” and “if the Secretary concerned” for “if the Secretary”.
 
-Pub. L. 116–283, § 2823(a), inserted “or the renewal of such a contract” after “paragraph (1)”, substituted “the contract or contract renewal.” for “the contract.”, and inserted at end “A renewal of a contract pursuant to this paragraph may be entered into only within the last five years of the existing contract term.”
+Pub. L. 116–283, § 2823(a), inserted “or the renewal of such a contract” after “paragraph (1)”, substituted “the contract or contract renewal.” for “the contract.”, and inserted at end “A renewal of a contract pursuant to this paragraph may be entered into only within the last five years of the existing contract term.”
 
 2019—Subsecs. (k), (*l*). Pub. L. 116–92 added subsec. (k) and redesignated former subsec. (k) as (*l*).
 
-2018—Subsec. (d)(2). Pub. L. 115–232, § 312(e)(1), inserted at end “The business case analysis must also demonstrate how a privatized system will operate in a manner consistent with subsection (g)(3).”
+2018—Subsec. (d)(2). Pub. L. 115–232, § 312(e)(1), inserted at end “The business case analysis must also demonstrate how a privatized system will operate in a manner consistent with subsection (g)(3).”
 
-Subsec. (g)(3). Pub. L. 115–232, § 312(e)(2), substituted “shall require” for “may require” and “consistent with energy resilience and cybersecurity requirements and associated metrics” for “consistent with energy resilience requirements and metrics”.
+Subsec. (g)(3). Pub. L. 115–232, § 312(e)(2), substituted “shall require” for “may require” and “consistent with energy resilience and cybersecurity requirements and associated metrics” for “consistent with energy resilience requirements and metrics”.
 
 2017—Subsec. (g)(3), (4). Pub. L. 115–91 added pars. (3) and (4).
 
-2015—Subsec. (j). Pub. L. 114–92, § 2813(1), substituted “Conveyance of Additional” for “Construction of” in heading.
+2015—Subsec. (j). Pub. L. 114–92, § 2813(1), substituted “Conveyance of Additional” for “Construction of” in heading.
 
-Subsec. (j)(1). Pub. L. 114–92, § 2813(2), redesignated subpar. (B) as (A) and substituted “utility system or operation of the additional utility infrastructure by the utility or entity would be in the best interest of the Government; and” for “utility system;”, redesignated subpar. (D) as (B) and substituted “amount for” for “amount equal to the fair market value of”, and struck out former subpars. (A) and (C) which read as follows:
+Subsec. (j)(1). Pub. L. 114–92, § 2813(2), redesignated subpar. (B) as (A) and substituted “utility system or operation of the additional utility infrastructure by the utility or entity would be in the best interest of the Government; and” for “utility system;”, redesignated subpar. (D) as (B) and substituted “amount for” for “amount equal to the fair market value of”, and struck out former subpars. (A) and (C) which read as follows:
 
 “(A) the additional utility infrastructure was constructed or installed after the date of the conveyance of the utility system;
 
@@ -6851,45 +6851,45 @@ Subsec. (j)(1). Pub. L. 114–92, § 2813(2), redesignated subpar. (B) as (A) 
 
 2013—Subsec. (d)(2). Pub. L. 113–66 inserted at end “The determination of cost effectiveness shall be made using a business case analysis that includes an independent estimate of the level of investment that should be required to maintain adequate operation of the utility system over the proposed term of the contract.”
 
-2011—Subsec. (a). Pub. L. 112–81, § 1061(21)(A), struck out par. (1) designation before “The Secretary of a military department” and struck out pars. (2) and (3) which related to conditions for entry into a contract to convey all or part of a utility system and conditions under which the Secretary concerned could not reconsider conversion to contractor operation under section 2461 of this title for a five-year period, respectively.
+2011—Subsec. (a). Pub. L. 112–81, § 1061(21)(A), struck out par. (1) designation before “The Secretary of a military department” and struck out pars. (2) and (3) which related to conditions for entry into a contract to convey all or part of a utility system and conditions under which the Secretary concerned could not reconsider conversion to contractor operation under section 2461 of this title for a five-year period, respectively.
 
-Subsec. (d)(2). Pub. L. 112–81, § 1061(21)(B), struck out at end “The economic analysis submitted to the congressional defense committees under subsection (a)(2) for the conveyance of the utility system, or part thereof, with regard to which the utility services contract will be entered into by the Secretary concerned shall include the determination required by this paragraph, an explanation of the need for the longer term contract, and a comparison of costs between a 10-year contract and the longer-term contract.”
+Subsec. (d)(2). Pub. L. 112–81, § 1061(21)(B), struck out at end “The economic analysis submitted to the congressional defense committees under subsection (a)(2) for the conveyance of the utility system, or part thereof, with regard to which the utility services contract will be entered into by the Secretary concerned shall include the determination required by this paragraph, an explanation of the need for the longer term contract, and a comparison of costs between a 10-year contract and the longer-term contract.”
 
-Subsec. (f). Pub. L. 112–81, § 1061(21)(C), struck out subsec. (f). Prior to amendment, text read as follows: “Not later than 30 days after the end of each quarter of a fiscal year, the Secretary shall submit to the congressional defense committees a report on the conveyances made under subsection (a) during such fiscal quarter.”
+Subsec. (f). Pub. L. 112–81, § 1061(21)(C), struck out subsec. (f). Prior to amendment, text read as follows: “Not later than 30 days after the end of each quarter of a fiscal year, the Secretary shall submit to the congressional defense committees a report on the conveyances made under subsection (a) during such fiscal quarter.”
 
-Subsec. (h). Pub. L. 112–81, § 1061(21)(D), struck out at end “The Secretary concerned shall consider any such contribution in the economic analysis required under subsection (a)(2).”
+Subsec. (h). Pub. L. 112–81, § 1061(21)(D), struck out at end “The Secretary concerned shall consider any such contribution in the economic analysis required under subsection (a)(2).”
 
-2009—Subsec. (a)(2)(A)(ii). Pub. L. 111–84, § 2821(a), substituted “system by 10 percent of the long-term cost for provision of those utility services in the agency tender; and” for “system; and”.
+2009—Subsec. (a)(2)(A)(ii). Pub. L. 111–84, § 2821(a), substituted “system by 10 percent of the long-term cost for provision of those utility services in the agency tender; and” for “system; and”.
 
-Subsec. (a)(3). Pub. L. 111–84, § 2821(b), added par. (3).
+Subsec. (a)(3). Pub. L. 111–84, § 2821(b), added par. (3).
 
 2008—Subsecs. (j), (k). Pub. L. 110–417 added subsec. (j) and redesignated former subsec. (j) as (k).
 
-2006—Subsec. (a). Pub. L. 109–163, § 2823(a), designated existing provisions as par. (1) and added par. (2).
+2006—Subsec. (a). Pub. L. 109–163, § 2823(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (c)(1). Pub. L. 109–163, § 2823(b), substituted “may require” for “shall require” in introductory provisions.
+Subsec. (c)(1). Pub. L. 109–163, § 2823(b), substituted “may require” for “shall require” in introductory provisions.
 
-Subsec. (c)(3). Pub. L. 109–163, § 2823(c)(2), redesignated subsec. (c)(3) as (d).
+Subsec. (c)(3). Pub. L. 109–163, § 2823(c)(2), redesignated subsec. (c)(3) as (d).
 
-Subsec. (d). Pub. L. 109–163, § 2823(c)(2), redesignated subsec. (c)(3) as (d), substituted “Contracts for Utility Services.—(1) Except as provided in paragraph (2), a contract” for “A contract”, “subsection (c)” for “paragraph (1)”, and “10 years” for “50 years”, and added par. (2). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 109–163, § 2823(c)(2), redesignated subsec. (c)(3) as (d), substituted “Contracts for Utility Services.—(1) Except as provided in paragraph (2), a contract” for “A contract”, “subsection (c)” for “paragraph (1)”, and “10 years” for “50 years”, and added par. (2). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 109–163, § 2823(c)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 109–163, § 2823(c)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 109–163, § 2823(d)(1), struck out at end “The report shall include, for each such conveyance, an economic analysis (based upon accepted life-cycle costing procedures approved by the Secretary of Defense) demonstrating that—
+Subsec. (f). Pub. L. 109–163, § 2823(d)(1), struck out at end “The report shall include, for each such conveyance, an economic analysis (based upon accepted life-cycle costing procedures approved by the Secretary of Defense) demonstrating that—
 
 “(1) the long-term economic benefit of the conveyance to the United States exceeds the long-term economic cost of the conveyance to the United States; and
 
 “(2) the conveyance will reduce the long-term costs of the United States for utility services provided by the utility system concerned.”
 
-Pub. L. 109–163, § 2823(c)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+Pub. L. 109–163, § 2823(c)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 109–163, § 2823(c)(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 109–163, § 2823(c)(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 109–163, § 2823(d)(2), substituted “subsection (a)(2)” for “subsection (e)”.
+Subsec. (h). Pub. L. 109–163, § 2823(d)(2), substituted “subsection (a)(2)” for “subsection (e)”.
 
-Pub. L. 109–163, § 2823(c)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+Pub. L. 109–163, § 2823(c)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
-Subsecs. (i), (j). Pub. L. 109–163, § 2823(c)(1), redesignated subsecs. (h) and (i) as (i) and (j), respectively.
+Subsecs. (i), (j). Pub. L. 109–163, § 2823(c)(1), redesignated subsecs. (h) and (i) as (i) and (j), respectively.
 
 2003—Subsec. (e). Pub. L. 108–136 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The Secretary concerned may not make a conveyance under subsection (a) until—
 
@@ -6901,21 +6901,21 @@ Subsecs. (i), (j). Pub. L. 109–163, § 2823(c)(1), redesignated subsecs. (h)
 
 “(2) a period of 21 days has elapsed after the date on which the economic analysis is received by the committees.”
 
-2000—Subsec. (b). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2813(a)], designated existing provisions as par. (1) and added pars. (2) and (3).
+2000—Subsec. (b). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2813(a)], designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Subsec. (f). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2813(b)], designated existing provisions as par. (1) and added par. (2).
+Subsec. (f). Pub. L. 106–398, § 1 [div. B, title XXVIII, § 2813(b)], designated existing provisions as par. (1) and added par. (2).
 
-Subsecs. (h) to (j). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(15)], redesignated subsecs. (i) and (j) as (h) and (i), respectively.
+Subsecs. (h) to (j). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(15)], redesignated subsecs. (i) and (j) as (h) and (i), respectively.
 
-1999—Subsec. (c)(3). Pub. L. 106–65, § 2812(a), added par. (3).
+1999—Subsec. (c)(3). Pub. L. 106–65, § 2812(a), added par. (3).
 
-Subsec. (e)(1). Pub. L. 106–65, § 1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
+Subsec. (e)(1). Pub. L. 106–65, § 1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
 
-Subsec. (g). Pub. L. 106–65, § 2812(c)(2), added subsec. (g). Former subsec. (g) redesignated (i).
+Subsec. (g). Pub. L. 106–65, § 2812(c)(2), added subsec. (g). Former subsec. (g) redesignated (i).
 
-Subsec. (g)(2)(B). Pub. L. 106–65, § 2812(b), substituted “Real property, easements,” for “Easements”.
+Subsec. (g)(2)(B). Pub. L. 106–65, § 2812(b), substituted “Real property, easements,” for “Easements”.
 
-Subsecs. (h) to (j). Pub. L. 106–65, § 2812(c)(1), redesignated subsecs. (g) and (h) as (i) and (j), respectively.
+Subsecs. (h) to (j). Pub. L. 106–65, § 2812(c)(1), redesignated subsecs. (g) and (h) as (i) and (j), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6925,13 +6925,13 @@ Amendment by section 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, wit
 
 **Sense of Congress Regarding Inclusion of Stormwater Systems and Components Within the Meaning of “Wastewater System” Under the Department of Defense Authority for Conveyance of Utility Systems**
 
-Pub. L. 114–328, div. B, title XXVIII, § 2813, Dec. 23, 2016, 130 Stat. 2717, provided that: “It is the sense of Congress that the reference to a system for the collection or treatment of wastewater in the definition of ‘utility system’ in section 2688 of title 10, United States Code, which authorizes the Department of Defense to convey utility systems, includes stormwater systems and components.”
+Pub. L. 114–328, div. B, title XXVIII, § 2813, Dec. 23, 2016, 130 Stat. 2717, provided that: “It is the sense of Congress that the reference to a system for the collection or treatment of wastewater in the definition of ‘utility system’ in section 2688 of title 10, United States Code, which authorizes the Department of Defense to convey utility systems, includes stormwater systems and components.”
 
-## [§ 2689. Renumbered § 2917]
+## [§ 2689. Renumbered § 2917]
 
-## [§ 2690. Renumbered § 2918]
+## [§ 2690. Renumbered § 2918]
 
-## § 2691. Restoration of land used by permit or damaged by mishap; reimbursement of State costs of fighting wildland fires
+## § 2691. Restoration of land used by permit or damaged by mishap; reimbursement of State costs of fighting wildland fires
 
 **(a) Restoration of Other Agency Land Used by Permit.—** The Secretary of the military department concerned may remove improvements and take any other action necessary in the judgment of the Secretary to restore land used by that military department by permit from another military department or Federal agency if the restoration is required by the permit making that land available to the military department. The Secretary concerned may carry out this section using funds available for operations and maintenance or for military construction.
 
@@ -6953,7 +6953,7 @@ Pub. L. 114–328, div. B, title XXVIII, § 2813, Dec. 23, 2016, 130 Stat. 271
 
 **(3)** The authority under paragraphs (1) and (2) includes activities and expenditures necessary to complete restoration to meet the regulations of the Federal department or agency with administrative jurisdiction over the affected land, which may be different than the regulations of the Department of Defense.
 
-(Added Pub. L. 98–407, title VIII, § 804(a), Aug. 28, 1984, 98 Stat. 1519; amended Pub. L. 99–145, title XIII, § 1303(a)(17), Nov. 8, 1985, 99 Stat. 739; Pub. L. 105–261, div. B, title XXVIII, § 2812(a), (b)(1), Oct. 17, 1998, 112 Stat. 2205; Pub. L. 107–217, § 3(b)(15), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 111–350, § 5(b)(46), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 115–91, div. B, title XXVIII, § 2814(a), (b), Dec. 12, 2017, 131 Stat. 1849, 1850; Pub. L. 115–232, div. A, title III, § 353, title X, § 1081(a)(27), Aug. 13, 2018, 132 Stat. 1731, 1985; Pub. L. 117–263, div. A, title X, § 1081(a)(3), Dec. 23, 2022, 136 Stat. 2797.)
+(Added Pub. L. 98–407, title VIII, § 804(a), Aug. 28, 1984, 98 Stat. 1519; amended Pub. L. 99–145, title XIII, § 1303(a)(17), Nov. 8, 1985, 99 Stat. 739; Pub. L. 105–261, div. B, title XXVIII, § 2812(a), (b)(1), Oct. 17, 1998, 112 Stat. 2205; Pub. L. 107–217, § 3(b)(15), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 111–350, § 5(b)(46), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 115–91, div. B, title XXVIII, § 2814(a), (b), Dec. 12, 2017, 131 Stat. 1849, 1850; Pub. L. 115–232, div. A, title III, § 353, title X, § 1081(a)(27), Aug. 13, 2018, 132 Stat. 1731, 1985; Pub. L. 117–263, div. A, title X, § 1081(a)(3), Dec. 23, 2022, 136 Stat. 2797.)
 
 **Editorial Notes**
 
@@ -6961,33 +6961,33 @@ Pub. L. 114–328, div. B, title XXVIII, § 2813, Dec. 23, 2016, 130 Stat. 271
 
 2022—Pub. L. 117–263 substituted “State” for “state” in section catchline.
 
-2018—Pub. L. 115–232, § 1081(a)(27), substituted “state” for “State” in section catchline.
+2018—Pub. L. 115–232, § 1081(a)(27), substituted “state” for “State” in section catchline.
 
-Subsec. (e)(3). Pub. L. 115–232, § 353, added par. (3).
+Subsec. (e)(3). Pub. L. 115–232, § 353, added par. (3).
 
-2017—Pub. L. 115–91, § 2814(b)(1), substituted “damaged by mishap; reimbursement of State costs of fighting wildland fires” for “lease” in section catchline.
+2017—Pub. L. 115–91, § 2814(b)(1), substituted “damaged by mishap; reimbursement of State costs of fighting wildland fires” for “lease” in section catchline.
 
-Subsec. (a). Pub. L. 115–91, § 2814(a)(1), (b)(2), inserted heading and struck out “or lease” after “permit” in two places.
+Subsec. (a). Pub. L. 115–91, § 2814(a)(1), (b)(2), inserted heading and struck out “or lease” after “permit” in two places.
 
-Subsec. (b). Pub. L. 115–91, § 2814(a)(2), (b)(3), inserted heading and struck out “or lease” after “permit”.
+Subsec. (b). Pub. L. 115–91, § 2814(a)(2), (b)(3), inserted heading and struck out “or lease” after “permit”.
 
-Subsec. (c). Pub. L. 115–91, § 2814(b)(4), inserted heading.
+Subsec. (c). Pub. L. 115–91, § 2814(b)(4), inserted heading.
 
-Subsec. (c)(1). Pub. L. 115–91, § 2814(a)(3), struck out “lease,” before “permit,”.
+Subsec. (c)(1). Pub. L. 115–91, § 2814(a)(3), struck out “lease,” before “permit,”.
 
-Subsecs. (d), (e). Pub. L. 115–91, § 2814(a)(4), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 115–91, § 2814(a)(4), added subsecs. (d) and (e).
 
 2011—Subsec. (b). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
 
 2002—Subsec. (b). Pub. L. 107–217 inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
 
-1998—Pub. L. 105–261, § 2812(b)(1), struck out “from other agencies” after “lease” in section catchline.
+1998—Pub. L. 105–261, § 2812(b)(1), struck out “from other agencies” after “lease” in section catchline.
 
-Subsec. (c). Pub. L. 105–261, § 2812(a), added subsec. (c).
+Subsec. (c). Pub. L. 105–261, § 2812(a), added subsec. (c).
 
 1985—Pub. L. 99–145 substituted “used by” for “used of” in section catchline.
 
-## § 2692. Storage, treatment, and disposal of nondefense toxic and hazardous materials
+## § 2692. Storage, treatment, and disposal of nondefense toxic and hazardous materials
 
 **(a)**
 
@@ -7031,7 +7031,7 @@ Subsec. (c). Pub. L. 105–261, § 2812(a), added subsec. (c).
 
 **(2)** In the case of storage under this section authorized because of an imminent danger, the storage provided shall be temporary and shall cease once the imminent danger no longer exists. In all other cases of storage or disposal authorized under this section, the storage or disposal authorized shall be terminated as determined by the Secretary.
 
-(Added Pub. L. 98–407, title VIII, § 805(a), Aug. 28, 1984, 98 Stat. 1520; amended Pub. L. 102–484, div. B, title XXVIII, § 2852, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–337, div. A, title III, § 325, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 105–85, div. A, title III, § 343(a)–(g)(2), Nov. 18, 1997, 111 Stat. 1686, 1687; Pub. L. 106–65, div. A, title X, § 1066(a)(25), Oct. 5, 1999, 113 Stat. 772; Pub. L. 109–364, div. A, title X, § 1071(a)(21), Oct. 17, 2006, 120 Stat. 2399.)
+(Added Pub. L. 98–407, title VIII, § 805(a), Aug. 28, 1984, 98 Stat. 1520; amended Pub. L. 102–484, div. B, title XXVIII, § 2852, Oct. 23, 1992, 106 Stat. 2625; Pub. L. 103–337, div. A, title III, § 325, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 105–85, div. A, title III, § 343(a)–(g)(2), Nov. 18, 1997, 111 Stat. 1686, 1687; Pub. L. 106–65, div. A, title X, § 1066(a)(25), Oct. 5, 1999, 113 Stat. 772; Pub. L. 109–364, div. A, title X, § 1071(a)(21), Oct. 17, 2006, 120 Stat. 2399.)
 
 **Editorial Notes**
 
@@ -7039,25 +7039,25 @@ Subsec. (c). Pub. L. 105–261, § 2812(a), added subsec. (c).
 
 2006—Subsec. (b)(9). Pub. L. 109–364 substituted “testing material” for “testing materiel”.
 
-1999—Subsec. (b). Pub. L. 106–65 substituted “apply to the following:” for “apply to—” in introductory provisions, “The” for “the” at the beginning of each of pars. (1) to (11), a period for the semicolon at the end of each of pars. (1) to (9), and a period for “; and” at the end of par. (10).
+1999—Subsec. (b). Pub. L. 106–65 substituted “apply to the following:” for “apply to—” in introductory provisions, “The” for “the” at the beginning of each of pars. (1) to (11), a period for the semicolon at the end of each of pars. (1) to (9), and a period for “; and” at the end of par. (10).
 
-1997—Pub. L. 105–85, § 343(g)(2), substituted “Storage, treatment, and” for “Storage and” in section catchline.
+1997—Pub. L. 105–85, § 343(g)(2), substituted “Storage, treatment, and” for “Storage and” in section catchline.
 
-Subsec. (a)(1). Pub. L. 105–85, § 343(g)(1), substituted “storage, treatment, or disposal” for “storage or disposal”.
+Subsec. (a)(1). Pub. L. 105–85, § 343(g)(1), substituted “storage, treatment, or disposal” for “storage or disposal”.
 
-Pub. L. 105–85, § 343(a), substituted “either by the Department of Defense or by a member of the armed forces (or a dependent of the member) assigned to or provided military housing on the installation” for “by the Department of Defense”.
+Pub. L. 105–85, § 343(a), substituted “either by the Department of Defense or by a member of the armed forces (or a dependent of the member) assigned to or provided military housing on the installation” for “by the Department of Defense”.
 
-Subsec. (b)(1), (2). Pub. L. 105–85, § 343(b), added par. (1) and redesignated former par. (1) as (2). Former par. (2) redesignated (3).
+Subsec. (b)(1), (2). Pub. L. 105–85, § 343(b), added par. (1) and redesignated former par. (1) as (2). Former par. (2) redesignated (3).
 
-Subsec. (b)(3). Pub. L. 105–85, § 343(b)(1), (c), redesignated par. (2) as (3) and substituted “Federal, State, or local law enforcement” for “Federal law enforcement” and “Federal, State, or local agency” for “Federal agency”. Former par. (3) redesignated (4).
+Subsec. (b)(3). Pub. L. 105–85, § 343(b)(1), (c), redesignated par. (2) as (3) and substituted “Federal, State, or local law enforcement” for “Federal law enforcement” and “Federal, State, or local agency” for “Federal agency”. Former par. (3) redesignated (4).
 
-Subsec. (b)(4) to (8). Pub. L. 105–85, § 343(b)(1), redesignated pars. (3) to (7) as (4) to (8), respectively. Former par. (8) redesignated (9).
+Subsec. (b)(4) to (8). Pub. L. 105–85, § 343(b)(1), redesignated pars. (3) to (7) as (4) to (8), respectively. Former par. (8) redesignated (9).
 
-Subsec. (b)(9). Pub. L. 105–85, § 343(b)(1), (d), redesignated par. (8) as (9) and substituted “in connection with the authorized and compatible use of a” for “by a private person in connection with the authorized and compatible use by that person of an industrial-type” and “, including the use of such a facility for testing materiel or training personnel;” for “; and”. Former par. (9) redesignated (10).
+Subsec. (b)(9). Pub. L. 105–85, § 343(b)(1), (d), redesignated par. (8) as (9) and substituted “in connection with the authorized and compatible use of a” for “by a private person in connection with the authorized and compatible use by that person of an industrial-type” and “, including the use of such a facility for testing materiel or training personnel;” for “; and”. Former par. (9) redesignated (10).
 
-Subsec. (b)(10). Pub. L. 105–85, § 343(b)(1), (e), redesignated par. (9) as (10) and substituted “in connection with the authorized and compatible use of a” for “by a private person in connection with the authorized and compatible commercial use by that person of an industrial-type”, “or agreement with the prospective user” for “with that person”, “for the prospective user’s” for “for that person’s”, and “; and” for period at end.
+Subsec. (b)(10). Pub. L. 105–85, § 343(b)(1), (e), redesignated par. (9) as (10) and substituted “in connection with the authorized and compatible use of a” for “by a private person in connection with the authorized and compatible commercial use by that person of an industrial-type”, “or agreement with the prospective user” for “with that person”, “for the prospective user’s” for “for that person’s”, and “; and” for period at end.
 
-Subsec. (b)(11). Pub. L. 105–85, § 343(f), added par. (11).
+Subsec. (b)(11). Pub. L. 105–85, § 343(f), added par. (11).
 
 1994—Subsec. (b)(9). Pub. L. 103–337 added par. (9).
 
@@ -7067,9 +7067,9 @@ Subsec. (b)(11). Pub. L. 105–85, § 343(f), added par. (11).
 
 **Savings Provision**
 
-Pub. L. 105–85, div. A, title III, § 343(h), Nov. 18, 1997, 111 Stat. 1688, provided that: “Nothing in the amendments made by this section [amending this section] is intended to modify environmental laws or laws relating to the siting of facilities.”
+Pub. L. 105–85, div. A, title III, § 343(h), Nov. 18, 1997, 111 Stat. 1688, provided that: “Nothing in the amendments made by this section [amending this section] is intended to modify environmental laws or laws relating to the siting of facilities.”
 
-## § 2693. Sentinel Landscapes Partnership
+## § 2693. Sentinel Landscapes Partnership
 
 **(a) Establishment.—** The Secretary of Defense, in coordination with the Secretary of Agriculture, the Secretary of the Interior, and the heads of other Federal departments and agencies that elect to become full partners in the program, may establish and carry out a program to preserve and restore sentinel landscapes. The program shall be known as the “Sentinel Landscapes Partnership”.
 
@@ -7101,43 +7101,43 @@ Pub. L. 105–85, div. A, title III, § 343(h), Nov. 18, 1997, 111 Stat. 1688,
 
 **(4) Resilience.—** The term “resilience” means the capability to avoid, prepare for, minimize the effect of, adapt to, and recover from extreme weather events, flooding, wildfire, or other anticipated or unanticipated changes in environmental conditions.
 
-(Added and amended Pub. L. 118–31, div. A, title III, § 311(a), (b), Dec. 22, 2023, 137 Stat. 213, 214.)
+(Added and amended Pub. L. 118–31, div. A, title III, § 311(a), (b), Dec. 22, 2023, 137 Stat. 213, 214.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section, as added and amended by section 311(a) and (b) of Pub. L. 118–31, is based on Pub. L. 115–91, div. A, title III, § 317(a)–(f), Dec. 12, 2017, 131 Stat. 1351, 1352, as amended by Pub. L. 117–81, div. A, title III, § 317(a), Dec. 27, 2021, 135 Stat. 1631, which was formerly set out as a note under section 2684a of this title before being transferred to this chapter and renumbered as this section. Another section 317(f) of Pub. L. 115–91 repealed section 312(b) of Pub. L. 113–66, see Termination of 2013 Amendment note under section 2684a of this title.
+Section, as added and amended by section 311(a) and (b) of Pub. L. 118–31, is based on Pub. L. 115–91, div. A, title III, § 317(a)–(f), Dec. 12, 2017, 131 Stat. 1351, 1352, as amended by Pub. L. 117–81, div. A, title III, § 317(a), Dec. 27, 2021, 135 Stat. 1631, which was formerly set out as a note under section 2684a of this title before being transferred to this chapter and renumbered as this section. Another section 317(f) of Pub. L. 115–91 repealed section 312(b) of Pub. L. 113–66, see Termination of 2013 Amendment note under section 2684a of this title.
 
 **Prior Provisions**
 
-A prior section 2693, added Pub. L. 101–647, title XVIII, § 1802(a), Nov. 29, 1990, 104 Stat. 4849; amended Pub. L. 107–107, div. A, title X, § 1048(a)(26)(A), (B)(i), Dec. 28, 2001, 115 Stat. 1224, 1225; Pub. L. 109–364, div. B, title XXVIII, § 2825(b), Oct. 17, 2006, 120 Stat. 2476, related to conveyance of real property or facility for utilization under the correctional options program, prior to repeal by Pub. L. 109–364, div. B, title XXVIII, § 2825(c)(2), Oct. 17, 2006, 120 Stat. 2477. See section 2696(f) of this title.
+A prior section 2693, added Pub. L. 101–647, title XVIII, § 1802(a), Nov. 29, 1990, 104 Stat. 4849; amended Pub. L. 107–107, div. A, title X, § 1048(a)(26)(A), (B)(i), Dec. 28, 2001, 115 Stat. 1224, 1225; Pub. L. 109–364, div. B, title XXVIII, § 2825(b), Oct. 17, 2006, 120 Stat. 2476, related to conveyance of real property or facility for utilization under the correctional options program, prior to repeal by Pub. L. 109–364, div. B, title XXVIII, § 2825(c)(2), Oct. 17, 2006, 120 Stat. 2477. See section 2696(f) of this title.
 
 Another prior section 2693 was renumbered section 2465 of this title.
 
 **Amendments**
 
-2023—Pub. L. 118–31, § 311(a), transferred section 317 of Pub. L. 115–91, as amended, to this chapter and renumbered it as this section. See Codification note above.
+2023—Pub. L. 118–31, § 311(a), transferred section 317 of Pub. L. 115–91, as amended, to this chapter and renumbered it as this section. See Codification note above.
 
-Subsec. (a). Pub. L. 118–31, § 311(b)(1), substituted “, the Secretary of the Interior, and the heads of other Federal departments and agencies that elect to become full partners in the program” for “and the Secretary of the Interior”.
+Subsec. (a). Pub. L. 118–31, § 311(b)(1), substituted “, the Secretary of the Interior, and the heads of other Federal departments and agencies that elect to become full partners in the program” for “and the Secretary of the Interior”.
 
-Subsec. (b). Pub. L. 118–31, § 311(b)(2), substituted “the Secretary of the Interior, and the heads of other Federal departments and agencies that elect to become full partners in the Sentinel Landscapes Partnership may, as such Secretaries and other heads” for “and the Secretary of the Interior, may, as the Secretaries”.
+Subsec. (b). Pub. L. 118–31, § 311(b)(2), substituted “the Secretary of the Interior, and the heads of other Federal departments and agencies that elect to become full partners in the Sentinel Landscapes Partnership may, as such Secretaries and other heads” for “and the Secretary of the Interior, may, as the Secretaries”.
 
-Subsec. (c). Pub. L. 118–31, § 311(b)(3), amended subsec. (c) generally. Prior to amendment, text read as follows: “The Secretaries may coordinate actions between their departments and with other agencies and private organizations to more efficiently work together for the mutual benefit of conservation, resilience, working lands, and national defense, and to encourage private landowners to engage in voluntary land management, resilience, and conservation activities that contribute to the sustainment of military installations, ranges, and airspace.”
+Subsec. (c). Pub. L. 118–31, § 311(b)(3), amended subsec. (c) generally. Prior to amendment, text read as follows: “The Secretaries may coordinate actions between their departments and with other agencies and private organizations to more efficiently work together for the mutual benefit of conservation, resilience, working lands, and national defense, and to encourage private landowners to engage in voluntary land management, resilience, and conservation activities that contribute to the sustainment of military installations, ranges, and airspace.”
 
-Subsec. (d). Pub. L. 118–31, § 311(b)(4), substituted “In carrying out this section, the Secretaries and the other heads of Federal departments and agencies may give to any eligible owner or manager of land within a designated sentinel landscape priority consideration for participation in any easement, grant, or assistance program administered by that Secretary or head.” for “The Secretary of Agriculture and the Secretary of the Interior may give to any eligible landowner or agricultural producer within a designated sentinel landscape priority consideration for participation in any easement, grant, or assistance programs administered by that Secretary’s department.” and “an eligible owner or manager of land” for “an eligible landowner or agricultural producer”.
+Subsec. (d). Pub. L. 118–31, § 311(b)(4), substituted “In carrying out this section, the Secretaries and the other heads of Federal departments and agencies may give to any eligible owner or manager of land within a designated sentinel landscape priority consideration for participation in any easement, grant, or assistance program administered by that Secretary or head.” for “The Secretary of Agriculture and the Secretary of the Interior may give to any eligible landowner or agricultural producer within a designated sentinel landscape priority consideration for participation in any easement, grant, or assistance programs administered by that Secretary’s department.” and “an eligible owner or manager of land” for “an eligible landowner or agricultural producer”.
 
-Subsec. (f). Pub. L. 118–31, § 311(b)(6), added subsec. (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 118–31, § 311(b)(6), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 118–31, § 311(b)(5), redesignated subsec. (f) as (g).
+Subsec. (g). Pub. L. 118–31, § 311(b)(5), redesignated subsec. (f) as (g).
 
-Subsec. (g)(1). Pub. L. 118–31, § 311(b)(7)(A), substituted “section 100(1) of the Sikes Act (16 U.S.C. 670(1))” for “section 670(1) of title 16, United States Code”.
+Subsec. (g)(1). Pub. L. 118–31, § 311(b)(7)(A), substituted “section 100(1) of the Sikes Act (16 U.S.C. 670(1))” for “section 670(1) of title 16, United States Code”.
 
-Subsec. (g)(2). Pub. L. 118–31, § 311(b)(7)(B), substituted “section 100(3) of the Sikes Act (16 U.S.C. 670(3))” for “section 670(3) of title 16, United States Code”.
+Subsec. (g)(2). Pub. L. 118–31, § 311(b)(7)(B), substituted “section 100(3) of the Sikes Act (16 U.S.C. 670(3))” for “section 670(3) of title 16, United States Code”.
 
-Subsec. (g)(3)(B). Pub. L. 118–31, § 311(b)(7)(C), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the working or natural lands that serve to protect and support the rural economy, the natural environment, outdoor recreation, and the national defense test and training missions of the military- or State-owned National Guard installation or installations.”
+Subsec. (g)(3)(B). Pub. L. 118–31, § 311(b)(7)(C), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the working or natural lands that serve to protect and support the rural economy, the natural environment, outdoor recreation, and the national defense test and training missions of the military- or State-owned National Guard installation or installations.”
 
-## § 2694. Conservation and cultural activities
+## § 2694. Conservation and cultural activities
 
 **(a) Establishment.—** The Secretary of Defense may establish and carry out a program to conduct and manage in a coordinated manner the conservation and cultural activities described in subsection (b).
 
@@ -7181,7 +7181,7 @@ Subsec. (g)(3)(B). Pub. L. 118–31, § 311(b)(7)(C), amended subpar. (B) gene
 
 **(e) Sentinel Landscape Defined.—** In this section, the term “sentinel landscape” has the meaning given that term in section 2693(g) of this title.
 
-(Added Pub. L. 104–201, div. A, title III, § 332(a)(1), Sept. 23, 1996, 110 Stat. 2484; amended Pub. L. 105–85, div. A, title X, § 1073(a)(59), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 112–81, div. B, title XXVIII, § 2814, Dec. 31, 2011, 125 Stat. 1688; Pub. L. 117–81, div. A, title III, § 317(c), Dec. 27, 2021, 135 Stat. 1632; Pub. L. 118–31, div. A, title III, § 311(c)(2), Dec. 22, 2023, 137 Stat. 215.)
+(Added Pub. L. 104–201, div. A, title III, § 332(a)(1), Sept. 23, 1996, 110 Stat. 2484; amended Pub. L. 105–85, div. A, title X, § 1073(a)(59), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 112–81, div. B, title XXVIII, § 2814, Dec. 31, 2011, 125 Stat. 1688; Pub. L. 117–81, div. A, title III, § 317(c), Dec. 27, 2021, 135 Stat. 1632; Pub. L. 118–31, div. A, title III, § 311(c)(2), Dec. 22, 2023, 137 Stat. 215.)
 
 **Editorial Notes**
 
@@ -7189,21 +7189,21 @@ Subsec. (g)(3)(B). Pub. L. 118–31, § 311(b)(7)(C), amended subpar. (B) gene
 
 2023—Subsec. (e). Pub. L. 118–31 substituted “meaning given that term in section 2693(g) of this title” for “meaning given that term in section 317(f) of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 2684a note)”.
 
-2021—Subsec. (b)(1)(A). Pub. L. 117–81, § 317(c)(1)(A)(i), inserted “or involves a sentinel landscape” before semicolon at end.
+2021—Subsec. (b)(1)(A). Pub. L. 117–81, § 317(c)(1)(A)(i), inserted “or involves a sentinel landscape” before semicolon at end.
 
-Subsec. (b)(1)(B). Pub. L. 117–81, § 317(c)(1)(A)(ii), inserted “or that would contribute to maintaining or improving military installation resilience” before semicolon at end.
+Subsec. (b)(1)(B). Pub. L. 117–81, § 317(c)(1)(A)(ii), inserted “or that would contribute to maintaining or improving military installation resilience” before semicolon at end.
 
-Subsec. (b)(2)(A). Pub. L. 117–81, § 317(c)(1)(B)(i), inserted “or nature-based climate resilience plans” before period at end.
+Subsec. (b)(2)(A). Pub. L. 117–81, § 317(c)(1)(B)(i), inserted “or nature-based climate resilience plans” before period at end.
 
-Subsec. (b)(2)(F)(i). Pub. L. 117–81, § 317(c)(1)(B)(ii)(I), inserted a dash after “single ecosystem”, designated remaining existing provisions as subcl. (I), redesignated provisions of existing cl. (ii) as subcl. (II) of cl. (i), and realigned margins.
+Subsec. (b)(2)(F)(i). Pub. L. 117–81, § 317(c)(1)(B)(ii)(I), inserted a dash after “single ecosystem”, designated remaining existing provisions as subcl. (I), redesignated provisions of existing cl. (ii) as subcl. (II) of cl. (i), and realigned margins.
 
-Subsec. (b)(2)(F)(ii). Pub. L. 117–81, § 317(c)(1)(B)(ii)(II), added cl. (ii). Former cl. (ii) redesignated cl. (i)(II).
+Subsec. (b)(2)(F)(ii). Pub. L. 117–81, § 317(c)(1)(B)(ii)(II), added cl. (ii). Former cl. (ii) redesignated cl. (i)(II).
 
-Subsec. (e). Pub. L. 117–81, § 317(c)(2), added subsec. (e).
+Subsec. (e). Pub. L. 117–81, § 317(c)(2), added subsec. (e).
 
-2011—Subsec. (b)(2)(B). Pub. L. 112–81, § 2814(1), inserted “and sustainability” after “safety”.
+2011—Subsec. (b)(2)(B). Pub. L. 112–81, § 2814(1), inserted “and sustainability” after “safety”.
 
-Subsec. (b)(2)(F). Pub. L. 112–81, § 2814(2), added subpar. (F).
+Subsec. (b)(2)(F). Pub. L. 112–81, § 2814(2), added subpar. (F).
 
 1997—Subsec. (b)(1)(D). Pub. L. 105–85 substituted “executive agency” for “executive ageny”.
 
@@ -7211,9 +7211,9 @@ Subsec. (b)(2)(F). Pub. L. 112–81, § 2814(2), added subpar. (F).
 
 **Effective Date**
 
-Pub. L. 104–201, div. A, title III, § 332(b), Sept. 23, 1996, 110 Stat. 2485, provided that: “Section 2694 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1996.”
+Pub. L. 104–201, div. A, title III, § 332(b), Sept. 23, 1996, 110 Stat. 2485, provided that: “Section 2694 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1996.”
 
-## § 2694a. Conveyance of surplus real property for natural resource conservation
+## § 2694a. Conveyance of surplus real property for natural resource conservation
 
 **(a) Authority to Convey.—** The Secretary of a military department may convey to an eligible entity described in subsection (b) any surplus real property that—
 
@@ -7265,7 +7265,7 @@ Pub. L. 104–201, div. A, title III, § 332(b), Sept. 23, 1996, 110 Stat. 248
 
 **(3)** The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Marianas, Guam, the Virgin Islands, and American Samoa.
 
-(Added Pub. L. 107–314, div. B, title XXVIII, § 2812(a)(1), Dec. 2, 2002, 116 Stat. 2707; amended Pub. L. 109–163, div. A, title X, § 1056(a)(1), (b), Jan. 6, 2006, 119 Stat. 3438, 3439; Pub. L. 109–364, div. A, title X, § 1071(a)(22), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 111–383, div. B, title XXVIII, § 2803(a), Jan. 7, 2011, 124 Stat. 4458; Pub. L. 115–91, div. B, title XXVIII, § 2811(h), Dec. 12, 2017, 131 Stat. 1849.)
+(Added Pub. L. 107–314, div. B, title XXVIII, § 2812(a)(1), Dec. 2, 2002, 116 Stat. 2707; amended Pub. L. 109–163, div. A, title X, § 1056(a)(1), (b), Jan. 6, 2006, 119 Stat. 3438, 3439; Pub. L. 109–364, div. A, title X, § 1071(a)(22), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 111–383, div. B, title XXVIII, § 2803(a), Jan. 7, 2011, 124 Stat. 4458; Pub. L. 115–91, div. B, title XXVIII, § 2811(h), Dec. 12, 2017, 131 Stat. 1849.)
 
 **Editorial Notes**
 
@@ -7283,7 +7283,7 @@ Section 1 of Public Law 106–504 (114 Stat. 2309), referred to in subsec. (h)(2
 
 Subsec. (i)(2) to (4). Pub. L. 109–163 struck out par. (2), which defined “base closure law”, redesignated pars. (3) and (4) as (2) and (3), respectively, and, in par. (3), substituted “Guam, the Virgin Islands, and American Samoa” for “and the territories and possessions of the United States”.
 
-## § 2694b. Participation in wetland mitigation banks
+## § 2694b. Participation in wetland mitigation banks
 
 **(a) Authority to Participate.—** The Secretary of a military department, and the Secretary of Defense with respect to matters concerning a Defense Agency, when engaged in an authorized activity that may or will result in the destruction of, or an adverse impact to, a wetland, may make payments to a wetland mitigation banking program or “in-lieu-fee” mitigation sponsor approved in accordance with the Federal Guidance for the Establishment, Use and Operation of Mitigation Banks (60 Fed. Reg. 58605; November 28, 1995) or the Federal Guidance on the Use of In-Lieu-Fee Arrangements for Compensatory Mitigation Under Section 404 of the Clean Water Act and Section 10 of the Rivers and Harbors Act (65 Fed. Reg. 66913; November 7, 2000), or any successor administrative guidance or regulation.
 
@@ -7291,9 +7291,9 @@ Subsec. (i)(2) to (4). Pub. L. 109–163 struck out par. (2), which defined “b
 
 **(c) Treatment of Payments.—** Payments made under subsection (a) to a wetland mitigation banking program or consolidated user site may be treated as eligible project costs for military construction.
 
-(Added Pub. L. 108–136, div. A, title III, § 314(a)(1), Nov. 24, 2003, 117 Stat. 1430.)
+(Added Pub. L. 108–136, div. A, title III, § 314(a)(1), Nov. 24, 2003, 117 Stat. 1430.)
 
-## § 2694c. Participation in conservation banking programs
+## § 2694c. Participation in conservation banking programs
 
 **(a) Authority to Participate.—** Subject to the availability of appropriated funds, the Secretary concerned, when engaged or proposing to engage in an activity described in subsection (b) that may or will result in an adverse impact to one or more species protected (or pending protection) under any applicable provision of law, or habitat for such species, may make payments to a conservation banking program or “in-lieu-fee” mitigation sponsor approved in accordance with—
 
@@ -7329,7 +7329,7 @@ Subsec. (i)(2) to (4). Pub. L. 109–163 struck out par. (2), which defined “b
 
 **(2)** the Secretary of Defense with respect to a Defense Agency.
 
-(Added Pub. L. 110–417, [div. A], title III, § 311(a), Oct. 14, 2008, 122 Stat. 4408; amended Pub. L. 111–84, div. A, title III, § 311, Oct. 28, 2009, 123 Stat. 2247; Pub. L. 111–383, div. A, title X, § 1075(b)(45), Jan. 7, 2011, 124 Stat. 4371.)
+(Added Pub. L. 110–417, [div. A], title III, § 311(a), Oct. 14, 2008, 122 Stat. 4408; amended Pub. L. 111–84, div. A, title III, § 311, Oct. 28, 2009, 123 Stat. 2247; Pub. L. 111–383, div. A, title X, § 1075(b)(45), Jan. 7, 2011, 124 Stat. 4371.)
 
 **Editorial Notes**
 
@@ -7337,17 +7337,17 @@ Subsec. (i)(2) to (4). Pub. L. 109–163 struck out par. (2), which defined “b
 
 2011—Subsec. (d)(4). Pub. L. 111–383 inserted “Authorization” after “Military Construction”.
 
-2009—Subsec. (a). Pub. L. 111–84, § 311(1), struck out “to carry out this section” after “appropriated funds” in introductory provisions.
+2009—Subsec. (a). Pub. L. 111–84, § 311(1), struck out “to carry out this section” after “appropriated funds” in introductory provisions.
 
-Subsecs. (d), (e). Pub. L. 111–84, § 311(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
+Subsecs. (d), (e). Pub. L. 111–84, § 311(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 110–417, [div. A], title III, § 311(c), Oct. 14, 2008, 122 Stat. 4409, provided that: “Section 2694c of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 2008, and only funds appropriated for fiscal years beginning after September 30, 2008, may be used to carry out such section.”
+Pub. L. 110–417, [div. A], title III, § 311(c), Oct. 14, 2008, 122 Stat. 4409, provided that: “Section 2694c of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 2008, and only funds appropriated for fiscal years beginning after September 30, 2008, may be used to carry out such section.”
 
-## § 2694d. Participation in pollutant banks and water quality trading
+## § 2694d. Participation in pollutant banks and water quality trading
 
 **(a) Authority to Participate.—** The Secretary of a military department, and the Secretary of Defense with respect to matters concerning a Defense Agency, when engaged in an authorized activity that may or will result in the discharge of pollutants, may make payments to a pollutant banking program or water quality trading program approved in accordance with the Water Quality Trading Policy dated January 13, 2003, set forth by the Office of Water of the Environmental Protection Agency, or any successor administrative guidance or regulation.
 
@@ -7355,9 +7355,9 @@ Pub. L. 110–417, [div. A], title III, § 311(c), Oct. 14, 2008, 122 Stat. 44
 
 **(c) Discharge of Pollutants Defined.—** In this section, the term “discharge of pollutants” has the meaning given that term in section 502(12) of the Federal Water Pollution Control Act (33 U.S.C. 1362(12)) (commonly referred to as the “Clean Water Act”).
 
-(Added Pub. L. 117–263, div. A, title III, § 312(a), Dec. 23, 2022, 136 Stat. 2502.)
+(Added Pub. L. 117–263, div. A, title III, § 312(a), Dec. 23, 2022, 136 Stat. 2502.)
 
-## § 2695. Acceptance of funds to cover administrative expenses relating to certain real property transactions
+## § 2695. Acceptance of funds to cover administrative expenses relating to certain real property transactions
 
 **(a) Authority To Accept.—** In connection with a real property transaction referred to in subsection (b) with a non-Federal person or entity, the Secretary of a military department may accept amounts provided by the person or entity to cover administrative expenses incurred by the Secretary in entering into the transaction.
 
@@ -7383,15 +7383,15 @@ Pub. L. 110–417, [div. A], title III, § 311(c), Oct. 14, 2008, 122 Stat. 44
 
 **(2)** Amounts credited under paragraph (1) shall be merged with funds in such appropriation, fund, or account and shall be available for the same purposes and subject to the same limitations as the funds with which merged.
 
-(Added Pub. L. 105–85, div. B, title XXVIII, § 2813(a), Nov. 18, 1997, 111 Stat. 1993; amended Pub. L. 106–65, div. B, title XXVIII, § 2813, Oct. 5, 1999, 113 Stat. 851; Pub. L. 107–314, div. B, title XXVIII, § 2812(b), Dec. 2, 2002, 116 Stat. 2709; Pub. L. 113–291, div. B, title XXVIII, § 2812(a), Dec. 19, 2014, 128 Stat. 3700.)
+(Added Pub. L. 105–85, div. B, title XXVIII, § 2813(a), Nov. 18, 1997, 111 Stat. 1993; amended Pub. L. 106–65, div. B, title XXVIII, § 2813, Oct. 5, 1999, 113 Stat. 851; Pub. L. 107–314, div. B, title XXVIII, § 2812(b), Dec. 2, 2002, 116 Stat. 2709; Pub. L. 113–291, div. B, title XXVIII, § 2812(a), Dec. 19, 2014, 128 Stat. 3700.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2014—Subsec. (c)(1). Pub. L. 113–291, § 2812(a)(1), substituted “(1) Amounts collected by the Secretary of a military department under subsection (a) for administrative expenses shall be credited, at the option of the Secretary—” and subpars. (A) and (B) for “Amounts collected under subsection (a) for administrative expenses shall be credited to the appropriation, fund, or account from which the expenses were paid.”
+2014—Subsec. (c)(1). Pub. L. 113–291, § 2812(a)(1), substituted “(1) Amounts collected by the Secretary of a military department under subsection (a) for administrative expenses shall be credited, at the option of the Secretary—” and subpars. (A) and (B) for “Amounts collected under subsection (a) for administrative expenses shall be credited to the appropriation, fund, or account from which the expenses were paid.”
 
-Subsec. (c)(2). Pub. L. 113–291, § 2812(a)(2), substituted “(2) Amounts credited under paragraph (1)” for “Amounts so credited”.
+Subsec. (c)(2). Pub. L. 113–291, § 2812(a)(2), substituted “(2) Amounts credited under paragraph (1)” for “Amounts so credited”.
 
 2002—Subsec. (b)(5). Pub. L. 107–314 added par. (5).
 
@@ -7401,13 +7401,13 @@ Subsec. (c)(2). Pub. L. 113–291, § 2812(a)(2), substituted “(2) Amounts c
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–291, div. B, title XXVIII, § 2812(b), Dec. 19, 2014, 128 Stat. 3700, provided that: “The amendments made by subsection (a) [amending this section] shall not apply to administrative expenses related to a real property transaction referred to in section 2695(b) of title 10, United States Code, that were covered by the Secretary of a military department using amounts appropriated to the Secretary before the date of the enactment of this Act [Dec. 19, 2014].”
+Pub. L. 113–291, div. B, title XXVIII, § 2812(b), Dec. 19, 2014, 128 Stat. 3700, provided that: “The amendments made by subsection (a) [amending this section] shall not apply to administrative expenses related to a real property transaction referred to in section 2695(b) of title 10, United States Code, that were covered by the Secretary of a military department using amounts appropriated to the Secretary before the date of the enactment of this Act [Dec. 19, 2014].”
 
 **Administrative Costs of Land Conveyances**
 
-Pub. L. 106–541, title II, § 226, Dec. 11, 2000, 114 Stat. 2598, provided that: “Notwithstanding any other provision of law, the administrative costs associated with the conveyance of property by the Secretary to a non-Federal governmental or nonprofit entity shall be limited to the extent that the Secretary determines that such limitation is necessary to complete the conveyance based on the entity’s ability to pay.”
+Pub. L. 106–541, title II, § 226, Dec. 11, 2000, 114 Stat. 2598, provided that: “Notwithstanding any other provision of law, the administrative costs associated with the conveyance of property by the Secretary to a non-Federal governmental or nonprofit entity shall be limited to the extent that the Secretary determines that such limitation is necessary to complete the conveyance based on the entity’s ability to pay.”
 
-## § 2696. Real property: transfer between armed forces and screening requirements for other Federal use
+## § 2696. Real property: transfer between armed forces and screening requirements for other Federal use
 
 **(a) Transfers Between Armed Forces.—** If either of the Secretaries concerned requests it and the other approves, real property may be transferred, without compensation, from one armed force to another. Section 2571(d) of this title shall apply to the transfer of real property under this subsection.
 
@@ -7445,7 +7445,7 @@ Pub. L. 106–541, title II, § 226, Dec. 11, 2000, 114 Stat. 2598, provided t
 
 **(C)** if the Attorney General certifies to the Secretary of Defense that a determination has been made by the Director of the Bureau of Justice Assistance within the Department of Justice to utilize the real property or facility under the correctional options program carried out under section 515 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3762a),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 convey the real property or facility, without reimbursement, to a public agency referred to in paragraph (1) or (3) of subsection (a) of such section for such utilization.
 
@@ -7455,7 +7455,7 @@ convey the real property or facility, without reimbursement, to a public agency 
 
 **(B)** during any portion of a fiscal year after four conveyances have been made under paragraph (1) in such fiscal year.
 
-(Added Pub. L. 105–85, div. B, title XXVIII, § 2814(a)(1), Nov. 18, 1997, 111 Stat. 1994; amended Pub. L. 106–65, div. A, title X, § 1066(a)(26), Oct. 5, 1999, 113 Stat. 772; Pub. L. 107–217, § 3(b)(16), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 108–136, div. A, title X, §§ 1031(a)(33), 1043(c)(4), Nov. 24, 2003, 117 Stat. 1600, 1612; Pub. L. 109–364, div. B, title XXVIII, § 2825(a), (b)(5), (c)(3), (d)(2)(A), Oct. 17, 2006, 120 Stat. 2476, 2477; Pub. L. 111–350, § 5(b)(47), Jan. 4, 2011, 124 Stat. 3846.)
+(Added Pub. L. 105–85, div. B, title XXVIII, § 2814(a)(1), Nov. 18, 1997, 111 Stat. 1994; amended Pub. L. 106–65, div. A, title X, § 1066(a)(26), Oct. 5, 1999, 113 Stat. 772; Pub. L. 107–217, § 3(b)(16), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 108–136, div. A, title X, §§ 1031(a)(33), 1043(c)(4), Nov. 24, 2003, 117 Stat. 1600, 1612; Pub. L. 109–364, div. B, title XXVIII, § 2825(a), (b)(5), (c)(3), (d)(2)(A), Oct. 17, 2006, 120 Stat. 2476, 2477; Pub. L. 111–350, § 5(b)(47), Jan. 4, 2011, 124 Stat. 3846.)
 
 **Editorial Notes**
 
@@ -7467,39 +7467,39 @@ The Defense Authorization Amendments and Base Closure and Realignment Act, refer
 
 **Codification**
 
-The text of section 2693 of this title, which was transferred to the end of this section and redesignated as subsec. (f), by Pub. L. 109–364, § 2825(b)(5), was based on Pub. L. 101–647, title XVIII, § 1802(a), Nov. 29, 1990, 104 Stat. 4849; amended Pub. L. 107–107, div. A, title X, § 1048(a)(26)(A), (B)(i), Dec. 28, 2001, 115 Stat. 1224, 1225; Pub. L. 109–364, div. B, title XXVIII, § 2825(b), Oct. 17, 2006, 120 Stat. 2476.
+The text of section 2693 of this title, which was transferred to the end of this section and redesignated as subsec. (f), by Pub. L. 109–364, § 2825(b)(5), was based on Pub. L. 101–647, title XVIII, § 1802(a), Nov. 29, 1990, 104 Stat. 4849; amended Pub. L. 107–107, div. A, title X, § 1048(a)(26)(A), (B)(i), Dec. 28, 2001, 115 Stat. 1224, 1225; Pub. L. 109–364, div. B, title XXVIII, § 2825(b), Oct. 17, 2006, 120 Stat. 2476.
 
 **Amendments**
 
 2011—Subsec. (b). Pub. L. 111–350, which directed substitution of “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” in subsec. (a), was executed by making the substitution in subsec. (b) to reflect the probable intent of Congress.
 
-2006—Pub. L. 109–364, § 2825(d)(2)(A), substituted “Real property: transfer between armed forces and screening requirements for other Federal use” for “Screening of real property for further Federal use before conveyance” in section catchline.
+2006—Pub. L. 109–364, § 2825(d)(2)(A), substituted “Real property: transfer between armed forces and screening requirements for other Federal use” for “Screening of real property for further Federal use before conveyance” in section catchline.
 
-Subsec. (a). Pub. L. 109–364, § 2825(a)(2), added subsec. (a). Former subsec. (a) redesignated (b).
+Subsec. (a). Pub. L. 109–364, § 2825(a)(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
-Subsec. (b). Pub. L. 109–364, § 2825(c)(3)(A), substituted “Requirements for Additional Federal Use” for “Requirement” in heading.
+Subsec. (b). Pub. L. 109–364, § 2825(c)(3)(A), substituted “Requirements for Additional Federal Use” for “Requirement” in heading.
 
-Pub. L. 109–364, § 2825(a)(1), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
+Pub. L. 109–364, § 2825(a)(1), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 109–364, § 2825(a)(1), redesignated subsec. (b) as (c).
+Subsec. (c). Pub. L. 109–364, § 2825(a)(1), redesignated subsec. (b) as (c).
 
-Subsec. (c)(1). Pub. L. 109–364, § 2825(c)(3)(B), substituted “subsection (b)” for “subsection (a)” in introductory provisions.
+Subsec. (c)(1). Pub. L. 109–364, § 2825(c)(3)(B), substituted “subsection (b)” for “subsection (a)” in introductory provisions.
 
-Subsec. (d). Pub. L. 109–364, § 2825(c)(3)(C), substituted “subsection (c)(1)” for “subsection (b)(1)”.
+Subsec. (d). Pub. L. 109–364, § 2825(c)(3)(C), substituted “subsection (c)(1)” for “subsection (b)(1)”.
 
-Subsec. (e). Pub. L. 109–364, § 2825(c)(3)(D), substituted “subsection (b)” for “this section” in introductory provisions.
+Subsec. (e). Pub. L. 109–364, § 2825(c)(3)(D), substituted “subsection (b)” for “this section” in introductory provisions.
 
-Subsec. (f). Pub. L. 109–364, § 2825(b)(5), transferred the text of section 2693 of this title to end of this section and redesignated it as subsec. (f). See Codification note above.
+Subsec. (f). Pub. L. 109–364, § 2825(b)(5), transferred the text of section 2693 of this title to end of this section and redesignated it as subsec. (f). See Codification note above.
 
-2003—Subsec. (b)(1). Pub. L. 108–136, § 1031(a)(33)(A)(i), inserted “and Congress” before “of the results” in introductory provisions.
+2003—Subsec. (b)(1). Pub. L. 108–136, § 1031(a)(33)(A)(i), inserted “and Congress” before “of the results” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 108–136, § 1031(a)(33)(A)(ii), inserted “and Congress” before “within such period”.
+Subsec. (b)(2). Pub. L. 108–136, § 1031(a)(33)(A)(ii), inserted “and Congress” before “within such period”.
 
-Subsec. (c). Pub. L. 108–136, § 1031(a)(33)(B), struck out heading and text of subsec. (c). Text read as follows: “If the Administrator of General Services notifies the Secretary concerned under subsection (b) that further Federal use of a parcel of real property authorized or required to be conveyed by any provision of law is requested by a Federal agency, the Secretary concerned shall submit a copy of the notice to Congress.”
+Subsec. (c). Pub. L. 108–136, § 1031(a)(33)(B), struck out heading and text of subsec. (c). Text read as follows: “If the Administrator of General Services notifies the Secretary concerned under subsection (b) that further Federal use of a parcel of real property authorized or required to be conveyed by any provision of law is requested by a Federal agency, the Secretary concerned shall submit a copy of the notice to Congress.”
 
-Subsec. (d). Pub. L. 108–136, § 1031(a)(33)(C), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “If the Secretary concerned submits a notice under subsection (c) with regard to a parcel of real property, the Secretary concerned may not proceed with the conveyance of the real property as provided in the provision of law authorizing or requiring the conveyance if Congress enacts a law rescinding the conveyance authority or requirement before the end of the 180-day period beginning on the date on which the Secretary concerned submits the notice.”
+Subsec. (d). Pub. L. 108–136, § 1031(a)(33)(C), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “If the Secretary concerned submits a notice under subsection (c) with regard to a parcel of real property, the Secretary concerned may not proceed with the conveyance of the real property as provided in the provision of law authorizing or requiring the conveyance if Congress enacts a law rescinding the conveyance authority or requirement before the end of the 180-day period beginning on the date on which the Secretary concerned submits the notice.”
 
-Subsec. (e). Pub. L. 108–136, § 1043(c)(4), added par. (1), redesignated pars. (5) and (6) as (2) and (3), respectively, and struck out former pars. (1) to (4) which read as follows:
+Subsec. (e). Pub. L. 108–136, § 1043(c)(4), added par. (1), redesignated pars. (5) and (6) as (2) and (3), respectively, and struck out former pars. (1) to (4) which read as follows:
 
 “(1) Section 2687 of this title.
 
@@ -7509,27 +7509,27 @@ Subsec. (e). Pub. L. 108–136, § 1043(c)(4), added par. (1), redesignated pa
 
 “(4) Any provision of law authorizing the closure or realignment of a military installation that is enacted after November 18, 1997.”
 
-2002—Subsec. (a). Pub. L. 107–217, § 3(b)(16)(A), inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
+2002—Subsec. (a). Pub. L. 107–217, § 3(b)(16)(A), inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
 
-Subsec. (e)(5). Pub. L. 107–217, § 3(b)(16)(B), substituted “Chapter 5 of title 40” for “Title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.)”.
+Subsec. (e)(5). Pub. L. 107–217, § 3(b)(16)(B), substituted “Chapter 5 of title 40” for “Title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.)”.
 
-1999—Subsec. (a). Pub. L. 106–65, § 1066(a)(26)(A), inserted “enacted after December 31, 1997,” after “any provision of law”.
+1999—Subsec. (a). Pub. L. 106–65, § 1066(a)(26)(A), inserted “enacted after December 31, 1997,” after “any provision of law”.
 
-Subsec. (b)(1). Pub. L. 106–65, § 1066(a)(26)(B), substituted “referred to in subsection (a)” for “required by paragraph (1)” in introductory provisions.
+Subsec. (b)(1). Pub. L. 106–65, § 1066(a)(26)(B), substituted “referred to in subsection (a)” for “required by paragraph (1)” in introductory provisions.
 
-Subsec. (e)(4). Pub. L. 106–65, § 1066(a)(26)(C), substituted “November 18, 1997” for “the date of enactment of the National Defense Authorization Act for Fiscal Year 1998”.
+Subsec. (e)(4). Pub. L. 106–65, § 1066(a)(26)(C), substituted “November 18, 1997” for “the date of enactment of the National Defense Authorization Act for Fiscal Year 1998”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 105–85, div. B, title XXVIII, § 2814(b), Nov. 18, 1997, 111 Stat. 1995, provided that: “Section 2696 of title 10, United States Code, as added by subsection (a) of this section, shall apply with respect to any real property authorized or required to be conveyed under a provision of law covered by such section that is enacted after December 31, 1997.”
+Pub. L. 105–85, div. B, title XXVIII, § 2814(b), Nov. 18, 1997, 111 Stat. 1995, provided that: “Section 2696 of title 10, United States Code, as added by subsection (a) of this section, shall apply with respect to any real property authorized or required to be conveyed under a provision of law covered by such section that is enacted after December 31, 1997.”
 
 **Transfer of Functions**
 
-Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of Title 34, Crime Control and Law Enforcement, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of Title 34.
+Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 10142(3) to (6) of Title 34, Crime Control and Law Enforcement, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) [title I, § 108(b)] of Pub. L. 106–113, set out as a note under section 10141 of Title 34.
 
-## § 2697. Acceptance and use of landing fees charged for use of military airfields by civil aircraft
+## § 2697. Acceptance and use of landing fees charged for use of military airfields by civil aircraft
 
 **(a) Authority.—** The Secretary of a military department may impose landing fees for the use by civil aircraft of military airfields under the jurisdiction of that Secretary and may use any fees received under this section as a source of funding for the operation and maintenance of airfields of that department.
 
@@ -7539,26 +7539,26 @@ Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistanc
 
 **(d) Limitation.—** The Secretary of a military department shall determine whether consideration for a landing fee has been received in a lease, license, or other real estate agreement for an airfield and shall use such a determination to offset appropriate amounts imposed under subsection (a) for that airfield.
 
-(Added Pub. L. 111–383, div. A, title III, § 341(a), Jan. 7, 2011, 124 Stat. 4189; amended Pub. L. 118–159, div. B, title XXVIII, § 2846, Dec. 23, 2024, 138 Stat. 2264.)
+(Added Pub. L. 111–383, div. A, title III, § 341(a), Jan. 7, 2011, 124 Stat. 4189; amended Pub. L. 118–159, div. B, title XXVIII, § 2846, Dec. 23, 2024, 138 Stat. 2264.)
 
 **Amendment of Section**
 
-Pub. L. 118–159, div. B, title XXVIII, § 2846(b), Dec. 23, 2024, 138 Stat. 2264, provided that, effective Oct. 1, 2027, this section is amended in the section catchline and subsec. (a) by inserting “domestic” before “military airfields”. See 2024 Amendment notes below.
+Pub. L. 118–159, div. B, title XXVIII, § 2846(b), Dec. 23, 2024, 138 Stat. 2264, provided that, effective Oct. 1, 2027, this section is amended in the section catchline and subsec. (a) by inserting “domestic” before “military airfields”. See 2024 Amendment notes below.
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Pub. L. 118–159, § 2846(b)(1), inserted “domestic” before “military airfields” in section catchline.
+2024—Pub. L. 118–159, § 2846(b)(1), inserted “domestic” before “military airfields” in section catchline.
 
-Pub. L. 118–159, § 2846(a)(1), struck out “domestic” before “military airfields” in section catchline.
+Pub. L. 118–159, § 2846(a)(1), struck out “domestic” before “military airfields” in section catchline.
 
-Subsec. (a). Pub. L. 118–159, § 2846(b)(2), inserted “domestic” before “military airfields”.
+Subsec. (a). Pub. L. 118–159, § 2846(b)(2), inserted “domestic” before “military airfields”.
 
-Pub. L. 118–159, § 2846(a)(2), struck out “domestic” before “military airfields”.
+Pub. L. 118–159, § 2846(a)(2), struck out “domestic” before “military airfields”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2024 Amendment**
 
-Pub. L. 118–159, div. B, title XXVIII, § 2846(b), Dec. 23, 2024, 138 Stat. 2264, provided that the amendment made by section 2846(b) is effective Oct. 1, 2027.
+Pub. L. 118–159, div. B, title XXVIII, § 2846(b), Dec. 23, 2024, 138 Stat. 2264, provided that the amendment made by section 2846(b) is effective Oct. 1, 2027.

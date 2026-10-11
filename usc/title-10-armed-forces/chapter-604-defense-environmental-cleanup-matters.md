@@ -27,25 +27,25 @@ Chapter analysis added pursuant to operation of section 102 of this title.
 
 Subchapter analysis added pursuant to operation of section 102 of this title.
 
-### § 6171. Defense environmental cleanup account 1 [footnote: 1 So in original. Probably should be “Defense Environmental Cleanup Account”.]
+### § 6171. Defense environmental cleanup account 1 [footnote: 1 So in original. Probably should be “Defense Environmental Cleanup Account”.]
 
 **(a) Establishment.—** There is hereby established in the Treasury of the United States for the Department of Energy an account to be known as the “Defense Environmental Cleanup Account” (hereafter in this section referred to as the “Account”).
 
 **(b) Amounts in Account.—** All sums appropriated to the Department of Energy for defense environmental cleanup at defense nuclear facilities shall be credited to the Account. Such appropriations shall be authorized annually by law. To the extent provided in appropriations Acts, amounts in the Account shall remain available until expended.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1386.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1386.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2581 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2581 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Office of Environmental Management Program-Wide Performance Metrics for Reducing Risk**
 
-Pub. L. 119–60, div. C, title XXXI, § 3124, Dec. 18, 2025, 139 Stat. 1467, provided that:
+Pub. L. 119–60, div. C, title XXXI, § 3124, Dec. 18, 2025, 139 Stat. 1467, provided that:
 
 > **“(a) In General.—** Not later than one year after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Energy shall—
 
@@ -101,7 +101,7 @@ Pub. L. 119–60, div. C, title XXXI, § 3124, Dec. 18, 2025, 139 Stat. 1467, 
 
 **Office of Environmental Management Integrated Radioactive Waste Disposal Planning and Optimization**
 
-Pub. L. 119–60, div. C, title XXXI, § 3125, Dec. 18, 2025, 139 Stat. 1469, provided that:
+Pub. L. 119–60, div. C, title XXXI, § 3125, Dec. 18, 2025, 139 Stat. 1469, provided that:
 
 > **“(a) Radioactive Waste Disposal Optimization Analyses.—**
 
@@ -157,19 +157,19 @@ Pub. L. 119–60, div. C, title XXXI, § 3125, Dec. 18, 2025, 139 Stat. 1469, 
 
 > **“(4)** The term ‘regulatory constraints’ means requirements included in regulations or agreements with regulators that affect decisions regarding radioactive waste disposal pathways and schedules by the Office of Environmental Management.”
 
-### § 6172. Classification of defense environmental cleanup as capital asset projects or operations activities
+### § 6172. Classification of defense environmental cleanup as capital asset projects or operations activities
 
 The Assistant Secretary of Energy for Environmental Management, in consultation with other appropriate officials of the Department of Energy, shall establish requirements for the classification of defense environmental cleanup projects as capital asset projects or operations activities.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1386.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1386.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 3123(a) of Pub. L. 116–283, which was set out in a note under section 2581 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(8).
+Provisions similar to those in this section were contained in section 3123(a) of Pub. L. 116–283, which was set out in a note under section 2581 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(8).
 
-### § 6173. Requirement to develop future use plans for defense environmental cleanup
+### § 6173. Requirement to develop future use plans for defense environmental cleanup
 
 **(a) Authority to Develop Future Use Plans.—** The Secretary of Energy may develop future use plans for any defense nuclear facility at which defense environmental cleanup activities are occurring.
 
@@ -199,19 +199,19 @@ Provisions similar to those in this section were contained in section 3123(a) of
 
 **(2)** Nothing in this section may be construed to affect statutory requirements for a defense environmental cleanup activity or project or to modify or otherwise affect applicable statutory or regulatory defense environmental cleanup requirements, including substantive standards intended to protect public health and the environment, nor shall anything in this section be construed to preempt or impair any local land use planning or zoning authority or State authority.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1386, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1386, 1462.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2582 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2582 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-### § 6174. Future-years defense environmental cleanup plan
+### § 6174. Future-years defense environmental cleanup plan
 
 **(a) In General.—** The Secretary of Energy shall submit to Congress each year, at or about the same time that the President’s budget is submitted to Congress for a fiscal year under section 1105(a) of title 31, a future-years defense environmental cleanup plan that—
 
@@ -263,15 +263,15 @@ Provisions similar to those in this section were contained in section 2582 of Ti
 
 **(5)** Federal contributions to the Uranium Enrichment Decontamination and Decommissioning Fund established under section 1801 of the Atomic Energy Act of 1954 (42 U.S.C. 2297g).
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1387.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1387.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2582a of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2582a of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6175. Accelerated schedule for defense environmental cleanup activities
+### § 6175. Accelerated schedule for defense environmental cleanup activities
 
 **(a) Accelerated Cleanup.—** The Secretary of Energy shall accelerate the schedule for defense environmental cleanup activities and disposition projects for a site at a Department of Energy defense nuclear facility if the Secretary determines that such an accelerated schedule will accelerate the recapitalization, modernization, or replacement of National Nuclear Security Administration facilities supporting the nuclear weapons stockpile, achieve meaningful, long-term cost savings to the Federal Government, or could substantially accelerate the release of land for local reuse without undermining national security objectives.
 
@@ -289,15 +289,15 @@ Provisions similar to those in this section were contained in section 2582a of T
 
 **(c) Savings Provision.—** Nothing in this section may be construed to affect a specific statutory requirement for a specific defense environmental cleanup activity or project or to modify or otherwise affect applicable statutory or regulatory defense environmental cleanup requirements, including substantive standards intended to protect public health and the environment.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1388.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1388.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2585 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2585 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6176. Defense environmental cleanup technology program
+### § 6176. Defense environmental cleanup technology program
 
 **(a) Establishment of Program.—** The Secretary of Energy shall establish and carry out a program of research for the development of technologies useful for—
 
@@ -311,15 +311,15 @@ Provisions similar to those in this section were contained in section 2585 of Ti
 
 **(2)** The term “inactive defense waste disposal site” means any site (including any facility) under the control or jurisdiction of the Secretary of Energy which is used for the disposal of defense waste and is closed to the disposal of additional defense waste, including any site that is subject to decontamination and decommissioning.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1389.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1389.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2586 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2586 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6177. Other programs relating to technology development
+### § 6177. Other programs relating to technology development
 
 **(a) Incremental Technology Development Program.—**
 
@@ -481,57 +481,57 @@ Provisions similar to those in this section were contained in section 2586 of Ti
 
 **(7)** The term “Secretary” means the Secretary of Energy, acting through the Assistant Secretary for Environmental Management.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1389, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1389, 1462.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2586a of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2586a of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-Subsec. (a)(1). Pub. L. 119–60, § 3111(d)(2)(A), struck out par. (1) heading which read as follows: “Establishment”.
+Subsec. (a)(1). Pub. L. 119–60, § 3111(d)(2)(A), struck out par. (1) heading which read as follows: “Establishment”.
 
-Subsec. (a)(2). Pub. L. 119–60, § 3111(d)(2)(A), struck out headings for par. (2) “Focus” and subpars. (A) and (B) “Improvements” and “Other areas”, respectively.
+Subsec. (a)(2). Pub. L. 119–60, § 3111(d)(2)(A), struck out headings for par. (2) “Focus” and subpars. (A) and (B) “Improvements” and “Other areas”, respectively.
 
-Subsec. (a)(3). Pub. L. 119–60, § 3111(d)(2)(A), struck out headings for par. (3) “Use of new and emerging technologies” and subpars. (A) and (B) “Development and demonstration” and “Collaboration required”, respectively.
+Subsec. (a)(3). Pub. L. 119–60, § 3111(d)(2)(A), struck out headings for par. (3) “Use of new and emerging technologies” and subpars. (A) and (B) “Development and demonstration” and “Collaboration required”, respectively.
 
-Subsec. (a)(4). Pub. L. 119–60, § 3111(d)(2)(A), struck out headings for par. (4) “Agreements to carry out projects” and subpars. (A) to (D) “Authority”, “Selection”, “Cost-sharing”, and “Briefing”, respectively.
+Subsec. (a)(4). Pub. L. 119–60, § 3111(d)(2)(A), struck out headings for par. (4) “Agreements to carry out projects” and subpars. (A) to (D) “Authority”, “Selection”, “Cost-sharing”, and “Briefing”, respectively.
 
-Subsec. (b)(1), (2). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which read as follows: “Establishment” and “Areas of focus”, respectively.
+Subsec. (b)(1), (2). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which read as follows: “Establishment” and “Areas of focus”, respectively.
 
-Subsec. (b)(3). Pub. L. 119–60, § 3111(d)(2)(A), struck out headings for par. (3) “Project selection” and subpars. (A) and (B) “Selection” and “Briefing”, respectively.
+Subsec. (b)(3). Pub. L. 119–60, § 3111(d)(2)(A), struck out headings for par. (3) “Project selection” and subpars. (A) and (B) “Selection” and “Briefing”, respectively.
 
-Subsec. (c). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (6) headings which read as follows: “Establishment”, “Areas of focus”, “Individual research grants”, “Grants for interdisciplinary collaborations”, “Hiring of undergraduates”, and “Workshops”, respectively.
+Subsec. (c). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (6) headings which read as follows: “Establishment”, “Areas of focus”, “Individual research grants”, “Grants for interdisciplinary collaborations”, “Hiring of undergraduates”, and “Workshops”, respectively.
 
-### § 6178. Report on defense environmental cleanup expenditures
+### § 6178. Report on defense environmental cleanup expenditures
 
 Each year, at the same time the President submits to Congress the budget for a fiscal year (pursuant to section 1105 of title 31), the Secretary of Energy shall submit to Congress a report on how the defense environmental cleanup funds of the Department of Energy were expended during the fiscal year preceding the fiscal year during which the budget is submitted. The report shall include details on expenditures by operations office, installation, budget category, and activity. The report also shall include any schedule changes or modifications to planned activities for the fiscal year in which the budget is submitted.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1393.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1393.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2587 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2587 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6179. Public participation in planning for defense environmental cleanup
+### § 6179. Public participation in planning for defense environmental cleanup
 
 The Secretary of Energy shall consult with the Administrator of the Environmental Protection Agency, the Attorney General, Governors and attorneys general of affected States, appropriate representatives of affected Indian tribes, and interested members of the public in any planning conducted by the Secretary for defense environmental cleanup activities at Department of Energy defense nuclear facilities.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1393.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1393.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2588 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2588 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6180. Policy of Department of Energy regarding future defense environmental management matters
+### § 6180. Policy of Department of Energy regarding future defense environmental management matters
 
 **(a) Policy Required.—**
 
@@ -543,23 +543,23 @@ Provisions similar to those in this section were contained in section 2588 of Ti
 
 **(c) Consultation.—** The Secretary shall carry out this section in consultation with the Administrator for Nuclear Security and the Under Secretary of Energy for Energy, Science, and Environment.1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 **(d) Report.—** The Secretary shall include with the budget justification materials submitted to Congress in support of the Department of Energy budget for fiscal year 2005 (as submitted with the budget of the President under section 1105(a) of title 31) a report on the policy that the Secretary plans to have in effect under subsection (a) as of October 1, 2005. The report shall specify the officers and responsibilities referred to in subsection (a).
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1394, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1394, 1462.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2589 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(4).
+Provisions similar to those in this section were contained in section 2589 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(4).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-### § 6181. Estimation of costs of meeting defense environmental cleanup milestones required by consent orders
+### § 6181. Estimation of costs of meeting defense environmental cleanup milestones required by consent orders
 
 The Secretary of Energy shall include in the budget justification materials submitted to Congress in support of the Department of Energy budget for each fiscal year (as submitted with the budget of the President under section 1105(a) of title 31) a report on the cost, for that fiscal year and the four fiscal years following that fiscal year, of meeting milestones required by a consent order at each defense nuclear facility at which defense environmental cleanup activities are occurring. The report shall include, for each such facility—
 
@@ -567,25 +567,25 @@ The Secretary of Energy shall include in the budget justification materials subm
 
 **(2)** an estimate of the cost of meeting such milestones during the four fiscal years following that fiscal year.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1394.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1394.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2590 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2590 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6182. Public statement of environmental liabilities
+### § 6182. Public statement of environmental liabilities
 
 Each year, at the same time that the Department of Energy submits its annual financial report under section 3516 of title 31, the Secretary of Energy shall make available to the public a statement of environmental liabilities, as calculated for the most recent audited financial statement of the Department under section 3515 of that title, for each defense nuclear facility at which defense environmental cleanup activities are occurring.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1395.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1395.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2591 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2591 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 ## SUBCHAPTER II—CLOSURE OF FACILITIES
 
@@ -595,7 +595,7 @@ Provisions similar to those in this section were contained in section 2591 of Ti
 
 Subchapter analysis added pursuant to operation of section 102 of this title.
 
-### § 6191. Reports in connection with permanent closures of Department of Energy defense nuclear facilities
+### § 6191. Reports in connection with permanent closures of Department of Energy defense nuclear facilities
 
 **(a) Training and Job Placement Services Plan.—** Not later than 120 days before a Department of Energy defense nuclear facility permanently ceases all production and processing operations, the Secretary of Energy shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report containing a discussion of the training and job placement services needed to enable the employees at such facility to obtain employment in the defense environmental cleanup activities at such facility. The discussion shall include the actions that should be taken by the contractor operating and managing such facility to provide retraining and job placement services to employees of such contractor.
 
@@ -607,15 +607,15 @@ Subchapter analysis added pursuant to operation of section 102 of this title.
 
 **(3)** a discussion of the proposed cleanup schedule.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1395.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1395.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2602 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2602 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6192. Defense site acceleration completion
+### § 6192. Defense site acceleration completion
 
 **(a) In General.—** Notwithstanding the provisions of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101 et seq.), the requirements of section 202 of the Energy Reorganization Act of 1974 (42 U.S.C. 5842), and other laws that define classes of radioactive waste, with respect to material stored at a Department of Energy site at which activities are regulated by a covered State pursuant to approved closure plans or permits issued by the State, the term “high-level radioactive waste” does not include radioactive waste resulting from the reprocessing of spent nuclear fuel that the Secretary of Energy (in this section referred to as the “Secretary”), in consultation with the Nuclear Regulatory Commission (in this section referred to as the “Commission”), determines—
 
@@ -671,9 +671,9 @@ Provisions similar to those in this section were contained in section 2602 of Ti
 
 **(4)** Nothing in this section shall be construed to affect in any way the obligations of the Department of Energy to comply with section 6154.
 
-**(5)** Nothing in this section amends the West Valley Demonstration Act 1
+**(5)** Nothing in this section amends the West Valley Demonstration Act 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (Public Law 96–368; 42 U.S.C. 2021a note).
 
@@ -683,13 +683,13 @@ Provisions similar to those in this section were contained in section 2602 of Ti
 
 **(2)** Any failure of the Commission to carry out its responsibilities under subsection (b).
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1395.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1395.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Nuclear Waste Policy Act of 1982, referred to in subsec. (a), is Pub. L. 97–425, Jan. 7, 1983, 96 Stat. 2201, which is classified generally to chapter 108 (§ 10101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 10101 of Title 42 and Tables.
+The Nuclear Waste Policy Act of 1982, referred to in subsec. (a), is Pub. L. 97–425, Jan. 7, 1983, 96 Stat. 2201, which is classified generally to chapter 108 (§ 10101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 10101 of Title 42 and Tables.
 
 The Waste Isolation Pilot Plant Land Withdrawal Act, referred to in subsec. (e)(3), is Pub. L. 102–579, Oct. 30, 1992, 106 Stat. 4777, which is not classified to the Code.
 
@@ -697,13 +697,13 @@ The West Valley Demonstration Act, referred to in subsec. (e)(5), probably means
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 3116 of Pub. L. 108–375, which was set out as a note under section 2602 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(16).
+Provisions similar to those in this section were contained in section 3116 of Pub. L. 108–375, which was set out as a note under section 2602 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(16).
 
-### § 6193. Sandia National Laboratories
+### § 6193. Sandia National Laboratories
 
 Funds appropriated by the Consolidated Appropriations Act, 2004 (Public Law 108–199; 118 Stat. 3), or any other Act thereafter, may not be obligated to pay, on behalf of the United States or a contractor or subcontractor of the United States, to post a bond or fulfill any other financial responsibility requirement relating to closure or post-closure care and monitoring of Sandia National Laboratories and properties held or managed by Sandia National Laboratories prior to implementation of closure or post-closure monitoring. The State of New Mexico or any other entity may not enforce against the United States or a contractor or subcontractor of the United States, in this year or any other fiscal year, a requirement to post bond or any other financial responsibility requirement relating to closure or postclosure care and monitoring of Sandia National Laboratories in New Mexico and properties held or managed by Sandia National Laboratories in New Mexico.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1397.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1397.)
 
 **Editorial Notes**
 
@@ -713,9 +713,9 @@ The Consolidated Appropriations Act, 2004, referred to in text, is Pub. L. 108�
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 127 of Pub. L. 108–199, which was set out as a note under section 2602 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(17).
+Provisions similar to those in this section were contained in section 127 of Pub. L. 108–199, which was set out as a note under section 2602 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(17).
 
-### § 6194. Plan for deactivation and decommissioning of nonoperational defense nuclear facilities
+### § 6194. Plan for deactivation and decommissioning of nonoperational defense nuclear facilities
 
 **(a) In General.—** The Secretary of Energy shall, every four years beginning in 2025, develop and subsequently carry out a plan for the activities of the Department of Energy relating to the deactivation and decommissioning of nonoperational defense nuclear facilities.
 
@@ -769,13 +769,13 @@ Provisions similar to those in this section were contained in section 127 of Pub
 
 **(3)** The term “nonoperational defense nuclear facility” means a production facility or utilization facility (as those terms are defined in section 11 of the Atomic Energy Act of 1954 (42 U.S.C. 2014)) under the control or jurisdiction of the Secretary of Energy and operated for national security purposes that is no longer needed for the mission of the Department of Energy, including the National Nuclear Security Administration.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1397.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1397.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2603 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2603 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 ## SUBCHAPTER III—HANFORD RESERVATION, WASHINGTON
 
@@ -785,7 +785,7 @@ Provisions similar to those in this section were contained in section 2603 of Ti
 
 Subchapter analysis added pursuant to operation of section 102 of this title.
 
-### § 6201. Safety measures for waste tanks at Hanford Nuclear Reservation
+### § 6201. Safety measures for waste tanks at Hanford Nuclear Reservation
 
 **(a) Identification and Monitoring of Tanks.—** Not later than February 3, 1991, the Secretary of Energy shall identify which single-shelled or double-shelled high-level nuclear waste tanks at the Hanford Nuclear Reservation, Richland, Washington, may have a serious potential for release of high-level waste due to uncontrolled increases in temperature or pressure. After completing such identification, the Secretary shall determine whether continuous monitoring is being carried out to detect a release or excessive temperature or pressure at each tank so identified. If such monitoring is not being carried out, as soon as practicable the Secretary shall install such monitoring, but only if a type of monitoring that does not itself increase the danger of a release can be installed.
 
@@ -793,7 +793,7 @@ Subchapter analysis added pursuant to operation of section 102 of this title.
 
 **(c) Prohibition.—** Beginning March 5, 1991, no additional high-level nuclear waste (except for small amounts removed and returned to a tank for analysis) may be added to a tank identified under subsection (a) unless the Secretary determines that no safer alternative than adding such waste to the tank currently exists or that the tank does not pose a serious potential for release of high-level nuclear waste.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1399.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1399.)
 
 **Editorial Notes**
 
@@ -801,9 +801,9 @@ Subchapter analysis added pursuant to operation of section 102 of this title.
 
 A prior section 6201 was renumbered section 8281 of this title.
 
-Provisions similar to those in this section were contained in section 2621 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2621 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6202. Hanford waste tank cleanup program reforms
+### § 6202. Hanford waste tank cleanup program reforms
 
 **(a) Establishment of Office of River Protection.—** The Secretary of Energy shall establish an office at the Hanford Reservation, Richland, Washington, to be known as the “Office of River Protection” (in this section referred to as the “Office”).
 
@@ -827,7 +827,7 @@ Provisions similar to those in this section were contained in section 2621 of Ti
 
 **(e) Termination.—** The Office shall terminate on September 30, 2024. The Office may be extended beyond that date if the Assistant Secretary of Energy for Environmental Management determines in writing that termination would disrupt effective management of the Hanford Tank Farm operations.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1399, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1399, 1462.)
 
 **Editorial Notes**
 
@@ -835,17 +835,17 @@ Provisions similar to those in this section were contained in section 2621 of Ti
 
 A prior section 6202 was renumbered section 8282 of this title.
 
-Provisions similar to those in this section were contained in section 2622 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2622 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-### § 6203. River protection project
+### § 6203. River protection project
 
 The tank waste remediation system environmental project, Richland, Washington, including all programs relating to the retrieval and treatment of tank waste at the site at Hanford, Washington, under the management of the Office of River Protection, shall be known and designated as the “River Protection Project”. Any reference to that project in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to the River Protection Project.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1400.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1400.)
 
 **Editorial Notes**
 
@@ -853,9 +853,9 @@ The tank waste remediation system environmental project, Richland, Washington, i
 
 A prior section 6203 was renumbered section 8283 of this title.
 
-Provisions similar to those in this section were contained in section 2623 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2623 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6204. Notification regarding air release of radioactive or hazardous material
+### § 6204. Notification regarding air release of radioactive or hazardous material
 
 If the Secretary of Energy (or a designee of the Secretary) is notified of an improper release into the air of radioactive or hazardous material above applicable statutory or regulatory limits that resulted from waste generated by atomic energy defense activities at the Hanford Nuclear Reservation, Richland, Washington, the Secretary (or designee of the Secretary) shall—
 
@@ -867,13 +867,13 @@ If the Secretary of Energy (or a designee of the Secretary) is notified of an im
 
 **(B)** preliminary plans to address and remediate the release, including associated costs and timelines.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1400.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1400.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2627 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2627 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 ## SUBCHAPTER IV—SAVANNAH RIVER SITE, SOUTH CAROLINA
 
@@ -883,7 +883,7 @@ Provisions similar to those in this section were contained in section 2627 of Ti
 
 Subchapter analysis added pursuant to operation of section 102 of this title.
 
-### § 6211. Accelerated schedule for isolating high-level nuclear waste at the Defense Waste Processing Facility, Savannah River Site
+### § 6211. Accelerated schedule for isolating high-level nuclear waste at the Defense Waste Processing Facility, Savannah River Site
 
 The Secretary of Energy shall accelerate the schedule for the isolation of high-level nuclear waste in glass canisters at the Defense Waste Processing Facility at the Savannah River Site, South Carolina, if the Secretary determines that the acceleration of such schedule—
 
@@ -891,15 +891,15 @@ The Secretary of Energy shall accelerate the schedule for the isolation of high-
 
 **(2)** could accelerate the removal and isolation of high-level nuclear waste from long-term storage tanks at the site.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1401.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1401.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2631 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2631 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6212. Multi-year plan for clean-up
+### § 6212. Multi-year plan for clean-up
 
 The Secretary of Energy shall develop and implement a multi-year plan for the clean-up of nuclear waste at the Savannah River Site that results, or has resulted, from the following:
 
@@ -907,22 +907,22 @@ The Secretary of Energy shall develop and implement a multi-year plan for the cl
 
 **(2)** The processing, treating, packaging, and disposal of Department of Energy domestic and foreign spent nuclear fuel rods at the site.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1401.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1401.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2632 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2632 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6213. Continuation of processing, treatment, and disposal of legacy nuclear materials
+### § 6213. Continuation of processing, treatment, and disposal of legacy nuclear materials
 
 The Secretary of Energy shall continue operations and maintain a high state of readiness at the H–canyon facility at the Savannah River Site, Aiken, South Carolina, and shall provide technical staff necessary to operate and so maintain such facility.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1401.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1401.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2633 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2633 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).

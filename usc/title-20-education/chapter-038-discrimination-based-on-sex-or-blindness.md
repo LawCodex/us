@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 38—DISCRIMINATION BASED ON SEX OR BLINDNESS
 
-## § 1681. Sex
+## § 1681. Sex
 
 **(a) Prohibition against discrimination; exceptions** No person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance, except that:
 
@@ -71,7 +71,7 @@ Nothing contained in subsection (a) of this section shall be interpreted to requ
 
 For purposes of this chapter an educational institution means any public or private preschool, elementary, or secondary school, or any institution of vocational, professional, or higher education, except that in the case of an educational institution composed of more than one school, college, or department which are administratively separate units, such term means each such school, college, or department.
 
-(Pub. L. 92–318, title IX, § 901, June 23, 1972, 86 Stat. 373; Pub. L. 93–568, § 3(a), Dec. 31, 1974, 88 Stat. 1862; Pub. L. 94–482, title IV, § 412(a), Oct. 12, 1976, 90 Stat. 2234; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 92–318, title IX, § 901, June 23, 1972, 86 Stat. 373; Pub. L. 93–568, § 3(a), Dec. 31, 1974, 88 Stat. 1862; Pub. L. 94–482, title IV, § 412(a), Oct. 12, 1976, 90 Stat. 2234; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
 
 **Editorial Notes**
 
@@ -91,15 +91,15 @@ This chapter, referred to in subsecs. (b) and (c), was in the original “this t
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–482, title IV, § 412(b), Oct. 12, 1976, 90 Stat. 2234, provided that: “The amendment made by subsection (a) [amending this section] shall take effect upon the date of enactment of this Act [Oct. 12, 1976].”
+Pub. L. 94–482, title IV, § 412(b), Oct. 12, 1976, 90 Stat. 2234, provided that: “The amendment made by subsection (a) [amending this section] shall take effect upon the date of enactment of this Act [Oct. 12, 1976].”
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–568, § 3(b), Dec. 31, 1974, 88 Stat. 1862, provided that: “The provisions of the amendment made by subsection (a) [amending this section] shall be effective on, and retroactive to, July 1, 1972.”
+Pub. L. 93–568, § 3(b), Dec. 31, 1974, 88 Stat. 1862, provided that: “The provisions of the amendment made by subsection (a) [amending this section] shall be effective on, and retroactive to, July 1, 1972.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–259, § 1, Mar. 22, 1988, 102 Stat. 28, provided that: “This Act [enacting sections 1687 and 1688 of this title and section 2000d–4a of Title 42, The Public Health and Welfare, amending sections 706 and 794 of Title 29, Labor, and section 6107 of Title 42, and enacting provisions set out as notes under sections 1687 and 1688 of this title] may be cited as the ‘Civil Rights Restoration Act of 1987’.”
+Pub. L. 100–259, § 1, Mar. 22, 1988, 102 Stat. 28, provided that: “This Act [enacting sections 1687 and 1688 of this title and section 2000d–4a of Title 42, The Public Health and Welfare, amending sections 706 and 794 of Title 29, Labor, and section 6107 of Title 42, and enacting provisions set out as notes under sections 1687 and 1688 of this title] may be cited as the ‘Civil Rights Restoration Act of 1987’.”
 
 **Short Title**
 
@@ -111,7 +111,7 @@ Pub. L. 107–255, Oct. 29, 2002, 116 Stat. 1734, provided “That title IX of t
 
 **Regulations; Nature of Particular Sports: Intercollegiate Athletic Activities**
 
-Pub. L. 93–380, title VIII, § 844, Aug. 21, 1974, 88 Stat. 612, directed Secretary to prepare and publish, not more than 30 days after Aug. 21, 1974, proposed regulations implementing the provisions of this chapter regarding prohibition of sex discrimination in federally assisted programs, including reasonable regulations for intercollegiate athletic activities considering the nature of the particular sports.
+Pub. L. 93–380, title VIII, § 844, Aug. 21, 1974, 88 Stat. 612, directed Secretary to prepare and publish, not more than 30 days after Aug. 21, 1974, proposed regulations implementing the provisions of this chapter regarding prohibition of sex discrimination in federally assisted programs, including reasonable regulations for intercollegiate athletic activities considering the nature of the particular sports.
 
 **Executive Documents**
 
@@ -121,7 +121,7 @@ For provisions relating to the coordination of implementation and enforcement of
 
 **Executive Order No. 14021**
 
-Ex. Ord. No. 14021, Mar. 8, 2021, 86 F.R. 13803, which related to guaranteeing an educational environment free from discrimination on the basis of sex, including sexual orientation or gender identity, was revoked or rescinded by Ex. Ord. No. 14148, § 2(cc), Jan. 20, 2025, 90 F.R. 8238, and Ex. Ord. No. 14168, § 7(b), Jan. 20, 2025, 90 F.R. 8617.
+Ex. Ord. No. 14021, Mar. 8, 2021, 86 F.R. 13803, which related to guaranteeing an educational environment free from discrimination on the basis of sex, including sexual orientation or gender identity, was revoked or rescinded by Ex. Ord. No. 14148, § 2(cc), Jan. 20, 2025, 90 F.R. 8238, and Ex. Ord. No. 14168, § 7(b), Jan. 20, 2025, 90 F.R. 8617.
 
 **Ex. Ord. No. 14201. Keeping Men Out of Women’s Sports**
 
@@ -181,11 +181,11 @@ Sec. 5. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-## § 1682. Federal administrative enforcement; report to Congressional committees
+## § 1682. Federal administrative enforcement; report to Congressional committees
 
 Each Federal department and agency which is empowered to extend Federal financial assistance to any education program or activity, by way of grant, loan, or contract other than a contract of insurance or guaranty, is authorized and directed to effectuate the provisions of section 1681 of this title with respect to such program or activity by issuing rules, regulations, or orders of general applicability which shall be consistent with achievement of the objectives of the statute authorizing the financial assistance in connection with which the action is taken. No such rule, regulation, or order shall become effective unless and until approved by the President. Compliance with any requirement adopted pursuant to this section may be effected (1) by the termination of or refusal to grant or to continue assistance under such program or activity to any recipient as to whom there has been an express finding on the record, after opportunity for hearing, of a failure to comply with such requirement, but such termination or refusal shall be limited to the particular political entity, or part thereof, or other recipient as to whom such a finding has been made, and shall be limited in its effect to the particular program, or part thereof, in which such noncompliance has been so found, or (2) by any other means authorized by law: *Provided, however*, That no such action shall be taken until the department or agency concerned has advised the appropriate person or persons of the failure to comply with the requirement and has determined that compliance cannot be secured by voluntary means. In the case of any action terminating, or refusing to grant or continue, assistance because of failure to comply with a requirement imposed pursuant to this section, the head of the Federal department or agency shall file with the committees of the House and Senate having legislative jurisdiction over the program or activity involved a full written report of the circumstances and the grounds for such action. No such action shall become effective until thirty days have elapsed after the filing of such report.
 
-(Pub. L. 92–318, title IX, § 902, June 23, 1972, 86 Stat. 374.)
+(Pub. L. 92–318, title IX, § 902, June 23, 1972, 86 Stat. 374.)
 
 **Executive Documents**
 
@@ -193,11 +193,11 @@ Each Federal department and agency which is empowered to extend Federal financia
 
 Functions of President relating to approval of rules, regulations, and orders of general applicability under this section, delegated to Attorney General, see section 1–102 of Ex. Ord. No. 12250, Nov. 2, 1980, 45 F.R. 72995, set out under section 2000d–1 of Title 42, The Public Health and Welfare.
 
-## § 1683. Judicial review
+## § 1683. Judicial review
 
 Any department or agency action taken pursuant to section 1682 of this title shall be subject to such judicial review as may otherwise be provided by law for similar action taken by such department or agency on other grounds. In the case of action, not otherwise subject to judicial review, terminating or refusing to grant or to continue financial assistance upon a finding of failure to comply with any requirement imposed pursuant to section 1682 of this title, any person aggrieved (including any State or political subdivision thereof and any agency of either) may obtain judicial review of such action in accordance with chapter 7 of title 5, and such action shall not be deemed committed to unreviewable agency discretion within the meaning of section 701 of that title.
 
-(Pub. L. 92–318, title IX, § 903, June 23, 1972, 86 Stat. 374.)
+(Pub. L. 92–318, title IX, § 903, June 23, 1972, 86 Stat. 374.)
 
 **Editorial Notes**
 
@@ -205,17 +205,17 @@ Any department or agency action taken pursuant to section 1682 of this title sha
 
 “Section 1682 of this title”, where first appearing, substituted in text for “section 1002” as conforming to intent of Congress as Pub. L. 92–318 was enacted without any section 1002 and subsequent text refers to “section 902”, which is classified to section 1682 of this title.
 
-## § 1684. Blindness or visual impairment; prohibition against discrimination
+## § 1684. Blindness or visual impairment; prohibition against discrimination
 
 No person in the United States shall, on the ground of blindness or severely impaired vision, be denied admission in any course of study by a recipient of Federal financial assistance for any education program or activity, but nothing herein shall be construed to require any such institution to provide any special services to such person because of his blindness or visual impairment.
 
-(Pub. L. 92–318, title IX, § 904, June 23, 1972, 86 Stat. 375.)
+(Pub. L. 92–318, title IX, § 904, June 23, 1972, 86 Stat. 375.)
 
-## § 1685. Authority under other laws unaffected
+## § 1685. Authority under other laws unaffected
 
 Nothing in this chapter shall add to or detract from any existing authority with respect to any program or activity under which Federal financial assistance is extended by way of a contract of insurance or guaranty.
 
-(Pub. L. 92–318, title IX, § 905, June 23, 1972, 86 Stat. 375.)
+(Pub. L. 92–318, title IX, § 905, June 23, 1972, 86 Stat. 375.)
 
 **Editorial Notes**
 
@@ -223,11 +223,11 @@ Nothing in this chapter shall add to or detract from any existing authority with
 
 This chapter, referred to in text, was in the original “this title”, meaning title IX of Pub. L. 92–318 which enacted this chapter and amended sections 203 and 213 of Title 29, Labor, and sections 2000c, 2000c–6, 2000c–9, and 2000h–2 of Title 42, The Public Health and Welfare. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of this title and Tables.
 
-## § 1686. Interpretation with respect to living facilities
+## § 1686. Interpretation with respect to living facilities
 
 Notwithstanding anything to the contrary contained in this chapter, nothing contained herein shall be construed to prohibit any educational institution receiving funds under this Act, from maintaining separate living facilities for the different sexes.
 
-(Pub. L. 92–318, title IX, § 907, June 23, 1972, 86 Stat. 375.)
+(Pub. L. 92–318, title IX, § 907, June 23, 1972, 86 Stat. 375.)
 
 **Editorial Notes**
 
@@ -237,7 +237,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 This Act, referred to in text, is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, known as the Education Amendments of 1972. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-## § 1687. Interpretation of “program or activity”
+## § 1687. Interpretation of “program or activity”
 
 For the purposes of this chapter, the term “program or activity” and “program” mean all of the operations of—
 
@@ -251,9 +251,9 @@ For the purposes of this chapter, the term “program or activity” and “prog
 
 **(A)** a college, university, or other postsecondary institution, or a public system of higher education; or
 
-**(B)** a local educational agency (as defined in section section 1
+**(B)** a local educational agency (as defined in section section 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 7801 of this title), system of vocational education, or other school system;
 
@@ -271,7 +271,7 @@ For the purposes of this chapter, the term “program or activity” and “prog
 
 any part of which is extended Federal financial assistance, except that such term does not include any operation of an entity which is controlled by a religious organization if the application of section 1681 of this title to such operation would not be consistent with the religious tenets of such organization.
 
-(Pub. L. 92–318, title IX, § 908, as added Pub. L. 100–259, § 3(a), Mar. 22, 1988, 102 Stat. 28; amended Pub. L. 103–382, title III, § 391(g), Oct. 20, 1994, 108 Stat. 4023; Pub. L. 107–110, title X, § 1076(j), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 114–95, title IX, § 9215(bb), Dec. 10, 2015, 129 Stat. 2173.)
+(Pub. L. 92–318, title IX, § 908, as added Pub. L. 100–259, § 3(a), Mar. 22, 1988, 102 Stat. 28; amended Pub. L. 103–382, title III, § 391(g), Oct. 20, 1994, 108 Stat. 4023; Pub. L. 107–110, title X, § 1076(j), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 114–95, title IX, § 9215(bb), Dec. 10, 2015, 129 Stat. 2173.)
 
 **Editorial Notes**
 
@@ -299,7 +299,7 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 **Findings of Congress**
 
-Pub. L. 100–259, § 2, Mar. 22, 1988, 102 Stat. 28, provided that:
+Pub. L. 100–259, § 2, Mar. 22, 1988, 102 Stat. 28, provided that:
 
 > “The Congress finds that—
 
@@ -309,17 +309,17 @@ Pub. L. 100–259, § 2, Mar. 22, 1988, 102 Stat. 28, provided that:
 
 **Construction**
 
-Pub. L. 100–259, § 7, Mar. 22, 1988, 102 Stat. 31, provided that: “Nothing in the amendments made by this Act [see Short Title of 1988 Amendment note under section 1681 of this title] shall be construed to extend the application of the Acts so amended [Education Amendments of 1972, Pub. L. 92–318, see Short Title of 1972 Amendment, set out as a note under section 1001 of this title, Rehabilitation Act of 1973, 29 U.S.C. 701 et seq., Age Discrimination Act of 1975, 42 U.S.C. 6101 et seq., and Civil Rights Act of 1964, 42 U.S.C. 2000a et seq.] to ultimate beneficiaries of Federal financial assistance excluded from coverage before the enactment of this Act [Mar. 22, 1988].”
+Pub. L. 100–259, § 7, Mar. 22, 1988, 102 Stat. 31, provided that: “Nothing in the amendments made by this Act [see Short Title of 1988 Amendment note under section 1681 of this title] shall be construed to extend the application of the Acts so amended [Education Amendments of 1972, Pub. L. 92–318, see Short Title of 1972 Amendment, set out as a note under section 1001 of this title, Rehabilitation Act of 1973, 29 U.S.C. 701 et seq., Age Discrimination Act of 1975, 42 U.S.C. 6101 et seq., and Civil Rights Act of 1964, 42 U.S.C. 2000a et seq.] to ultimate beneficiaries of Federal financial assistance excluded from coverage before the enactment of this Act [Mar. 22, 1988].”
 
 **Abortion Neutrality**
 
 This section not to be construed to force or require any individual or hospital or any other institution, program, or activity receiving Federal funds to perform or pay for an abortion, see section 8 of Pub. L. 100–259, set out as a note under section 1688 of this title.
 
-## § 1688. Neutrality with respect to abortion
+## § 1688. Neutrality with respect to abortion
 
 Nothing in this chapter shall be construed to require or prohibit any person, or public or private entity, to provide or pay for any benefit or service, including the use of facilities, related to an abortion. Nothing in this section shall be construed to permit a penalty to be imposed on any person or individual because such person or individual is seeking or has received any benefit or service related to a legal abortion.
 
-(Pub. L. 92–318, title IX, § 909, as added Pub. L. 100–259, § 3(b), Mar. 22, 1988, 102 Stat. 29.)
+(Pub. L. 92–318, title IX, § 909, as added Pub. L. 100–259, § 3(b), Mar. 22, 1988, 102 Stat. 29.)
 
 **Editorial Notes**
 
@@ -335,9 +335,9 @@ This section not to be construed to extend application of Education Amendments o
 
 **Abortion Neutrality**
 
-Pub. L. 100–259, § 8, Mar. 22, 1988, 102 Stat. 31, provided that: “No provision of this Act or any amendment made by this Act [see Short Title of 1988 Amendment note under section 1681 of this title] shall be construed to force or require any individual or hospital or any other institution, program, or activity receiving Federal Funds [sic] to perform or pay for an abortion.”
+Pub. L. 100–259, § 8, Mar. 22, 1988, 102 Stat. 31, provided that: “No provision of this Act or any amendment made by this Act [see Short Title of 1988 Amendment note under section 1681 of this title] shall be construed to force or require any individual or hospital or any other institution, program, or activity receiving Federal Funds [sic] to perform or pay for an abortion.”
 
-## § 1689. Task Force on Sexual Violence in Education
+## § 1689. Task Force on Sexual Violence in Education
 
 **(a) Task Force on Sexual Violence in Education** Not later than September 1, 2022, the Secretary of Education, the Secretary of Health and Human Services, and the Attorney General shall establish a joint interagency task force to be known as the “Task Force on Sexual Violence in Education” that shall—
 
@@ -413,7 +413,7 @@ The terms “elementary school” and “secondary school” have the meanings g
 
 The term “institution of higher education” has the meaning given the term in section 1002 of this title.
 
-(Pub. L. 117–103, div. W, title XIII, § 1314, Mar. 15, 2022, 136 Stat. 936.)
+(Pub. L. 117–103, div. W, title XIII, § 1314, Mar. 15, 2022, 136 Stat. 936.)
 
 **Editorial Notes**
 
@@ -423,7 +423,7 @@ The Education Amendments of 1972, referred to in subsecs. (a)(1), (8) and (c), i
 
 The Violence Against Women Act of 1994, referred to in subsec. (b)(1), is title IV of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1902. For complete classification of this Act to the Code, see section 40001 of Pub. L. 103–322, set out as a Short Title of 1994 Act note under section 10101 of Title 34, Crime Control and Law Enforcement, and Tables.
 
-Section 7801 of this title, referred to in subsec. (e)(3), was in the original “section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)”, and was translated as if it had been a reference to section 8101 of the Elementary and Secondary Education Act of 1965 to reflect the probable intent of Congress and the renumbering of section 9101 of the Act as 8101 by Pub. L. 114–95, § 8001(a)(1).
+Section 7801 of this title, referred to in subsec. (e)(3), was in the original “section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)”, and was translated as if it had been a reference to section 8101 of the Elementary and Secondary Education Act of 1965 to reflect the probable intent of Congress and the renumbering of section 9101 of the Act as 8101 by Pub. L. 114–95, § 8001(a)(1).
 
 **Codification**
 

@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-Pub. L. 117–58, div. A, title I, § 11506(e)(2), Nov. 15, 2021, 135 Stat. 586, which directed amendment of the analysis for subchapter I of this chapter by adding item 14511 at the end, was executed by adding item 14511 to the analysis for this chapter to reflect the probable intent of Congress.
+Pub. L. 117–58, div. A, title I, § 11506(e)(2), Nov. 15, 2021, 135 Stat. 586, which directed amendment of the analysis for subchapter I of this chapter by adding item 14511 at the end, was executed by adding item 14511 to the analysis for this chapter to reflect the probable intent of Congress.
 
-2018—Pub. L. 115–271, title VIII, § 8062(b), Oct. 24, 2018, 132 Stat. 4095, added item 14510.
+2018—Pub. L. 115–271, title VIII, § 8062(b), Oct. 24, 2018, 132 Stat. 4095, added item 14510.
 
-2015—Pub. L. 114–94, div. A, title I, § 1436(a)(2), Dec. 4, 2015, 129 Stat. 1431, added item 14509.
+2015—Pub. L. 114–94, div. A, title I, § 1436(a)(2), Dec. 4, 2015, 129 Stat. 1431, added item 14509.
 
-2008—Pub. L. 110–371, §§ 3(b), 4(b), Oct. 8, 2008, 122 Stat. 4041, added items 14508 and 14526 and struck out former item 14526 “Distressed and economically strong counties”.
+2008—Pub. L. 110–371, §§ 3(b), 4(b), Oct. 8, 2008, 122 Stat. 4041, added items 14508 and 14526 and struck out former item 14526 “Distressed and economically strong counties”.
 
 ## SUBCHAPTER I—PROGRAMS
 
-### § 14501. Appalachian development highway system
+### § 14501. Appalachian development highway system
 
 **(a) Purpose.—** To provide a highway system which, in conjunction with the Interstate System and other Federal-aid highways in the Appalachian region, will open up an area with a developmental potential where commerce and communication have been inhibited by lack of adequate access, the Secretary of Transportation may assist in the construction of an Appalachian development highway system and local access roads serving the Appalachian region. Construction on the development highway system shall not be more than three thousand and ninety miles. There shall not be more than 1,400 miles of local access roads that serve specific recreational, residential, educational, commercial, industrial, or similar facilities or facilitate a school consolidation program.
 
@@ -69,13 +69,13 @@ Pub. L. 117–58, div. A, title I, § 11506(e)(2), Nov. 15, 2021, 135 Stat. 58
 
 **(2) Construction and maintenance.—** States are required to maintain each development highway and local access road as provided for Federal-aid highways in title 23. All other provisions of title 23 that are applicable to the construction and maintenance of Federal-aid primary and secondary highways and which the Secretary decides are not inconsistent with this subtitle shall apply to the system and roads, respectively.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1265; Pub. L. 108–199, div. F, title I, § 123(a), Jan. 23, 2004, 118 Stat. 296.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1265; Pub. L. 108–199, div. F, title I, § 123(a), Jan. 23, 2004, 118 Stat. 296.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 14501(a) | 40 App.:201(a) (1st, 3d, last sentences). | Pub. L. 89–4, title II, § 201, Mar. 9, 1965, 79 Stat. 10; Pub. L. 89–670, § 8(b), Oct. 15, 1966, 80 Stat. 942; Pub. L. 90–103, title I, § 106, Oct. 11, 1967, 81 Stat. 258; Pub. L. 91–123, title I, § 103, Nov. 25, 1969, 83 Stat. 214; Pub. L. 92–65, title II, § 204, Aug. 5, 1971, 85 Stat. 168; Pub. L. 94–188, title I, § 110, Dec. 31, 1975, 89 Stat. 1081; Pub. L. 95–599, title I, § 138(a), (b), Nov. 6, 1978, 92 Stat. 2710; Pub. L. 96–506, § 3(3), Dec. 8, 1980, 94 Stat. 2746; Pub. L. 97–35, title XVIII, § 1822(a)(2), Aug. 13, 1981, 95 Stat. 767; Pub. L. 105–178, title I, § 1117(c), title II, § 1212(a)(2)(B)(iii), June 9, 1998, 112 Stat. 160, 193. |
+| 14501(a) | 40 App.:201(a) (1st, 3d, last sentences). | Pub. L. 89–4, title II, § 201, Mar. 9, 1965, 79 Stat. 10; Pub. L. 89–670, § 8(b), Oct. 15, 1966, 80 Stat. 942; Pub. L. 90–103, title I, § 106, Oct. 11, 1967, 81 Stat. 258; Pub. L. 91–123, title I, § 103, Nov. 25, 1969, 83 Stat. 214; Pub. L. 92–65, title II, § 204, Aug. 5, 1971, 85 Stat. 168; Pub. L. 94–188, title I, § 110, Dec. 31, 1975, 89 Stat. 1081; Pub. L. 95–599, title I, § 138(a), (b), Nov. 6, 1978, 92 Stat. 2710; Pub. L. 96–506, § 3(3), Dec. 8, 1980, 94 Stat. 2746; Pub. L. 97–35, title XVIII, § 1822(a)(2), Aug. 13, 1981, 95 Stat. 767; Pub. L. 105–178, title I, § 1117(c), title II, § 1212(a)(2)(B)(iii), June 9, 1998, 112 Stat. 160, 193. |
 | 14501(b) | 40 App.:201(b). |  |
 | 14501(c) | 40 App.:201(c) (1st sentence, last sentence words before “and each”). |  |
 | 14501(d)(1) | 40 App.:201(d). |  |
@@ -99,7 +99,7 @@ In subsection (e), the text of 40 App.:201(g) is omitted as obsolete.
 
 **Appalachian Development Highway System**
 
-Pub. L. 112–141, div. A, title I, § 1528, July 6, 2012, 126 Stat. 582, as amended by Pub. L. 114–94, div. A, title I, § 1435, Dec. 4, 2015, 129 Stat. 1430, provided that:
+Pub. L. 112–141, div. A, title I, § 1528, July 6, 2012, 126 Stat. 582, as amended by Pub. L. 114–94, div. A, title I, § 1435, Dec. 4, 2015, 129 Stat. 1430, provided that:
 
 > **“(a) Sense of the Senate.—** It is the Sense of the Senate that the timely completion of the Appalachian development highway system is a transportation priority in the national interest.
 
@@ -113,7 +113,7 @@ Pub. L. 112–141, div. A, title I, § 1528, July 6, 2012, 126 Stat. 582, as a
 
 > **“(2) Significant uncompleted miles.—** If the percentage of remaining Appalachian development highway system needs for a State, according to the latest cost to complete estimate for the Appalachian development highway system, is greater than 15 percent of the total cost to complete estimate for the entire Appalachian development highway system, the State shall not establish a plan under paragraph (1) that would result in a reduction of obligated funds for the Appalachian development highway system within the State for any subsequent fiscal year.”
 
-### § 14502. Demonstration health projects
+### § 14502. Demonstration health projects
 
 **(a) Purpose.—** To demonstrate the value of adequate health facilities and services to the economic development of the Appalachian region, the Secretary of Health and Human Services may make grants for the planning, construction, equipment, and operation of multi-county demonstration health, nutrition, and child care projects, including hospitals, regional health diagnostic and treatment centers, and other facilities and services necessary for the purposes of this section.
 
@@ -195,13 +195,13 @@ Pub. L. 112–141, div. A, title I, § 1528, July 6, 2012, 126 Stat. 582, as a
 
 **(g) Emphasis on Occupational Diseases From Coal Mining.—** To provide for the further development of the Appalachian region’s human resources, grants under this section shall give special emphasis to programs and research for the early detection, diagnosis, and treatment of occupational diseases arising from coal mining, such as black lung.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1266; Pub. L. 110–371, § 2(b), Oct. 8, 2008, 122 Stat. 4038.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1266; Pub. L. 110–371, § 2(b), Oct. 8, 2008, 122 Stat. 4038.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 14502(a) | 40 App.:202(a) (1st sentence). | Pub. L. 89–4, title II, § 202(a)–(e), Mar. 9, 1965, 79 Stat. 11; Pub. L. 90–103, title I, § 107, Oct. 11, 1967, 81 Stat. 259; Pub. L. 91–123, title I, § 104, Nov. 25, 1969, 83 Stat. 214; Pub. L. 92–65, title II, § 206, Aug. 5, 1971, 85 Stat. 169; Pub. L. 94–188, title I, § 111, Dec. 31, 1975, 89 Stat. 1081; Pub. L. 95–193, § 1, Nov. 18, 1977, 91 Stat. 1412; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–545, § 2, Dec. 18, 1980, 94 Stat. 3215; Pub. L. 105–393, title II, § 207(a), (c), Nov. 13, 1998, 112 Stat. 3620; Pub. L. 107–149, § 13(c), (d), Mar. 12, 2002, 116 Stat. 71. |
+| 14502(a) | 40 App.:202(a) (1st sentence). | Pub. L. 89–4, title II, § 202(a)–(e), Mar. 9, 1965, 79 Stat. 11; Pub. L. 90–103, title I, § 107, Oct. 11, 1967, 81 Stat. 259; Pub. L. 91–123, title I, § 104, Nov. 25, 1969, 83 Stat. 214; Pub. L. 92–65, title II, § 206, Aug. 5, 1971, 85 Stat. 169; Pub. L. 94–188, title I, § 111, Dec. 31, 1975, 89 Stat. 1081; Pub. L. 95–193, § 1, Nov. 18, 1977, 91 Stat. 1412; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–545, § 2, Dec. 18, 1980, 94 Stat. 3215; Pub. L. 105–393, title II, § 207(a), (c), Nov. 13, 1998, 112 Stat. 3620; Pub. L. 107–149, § 13(c), (d), Mar. 12, 2002, 116 Stat. 71. |
 | 14502(b) | 40 App.:202(d). |  |
 | 14502(c)(1), (2) | 40 App.:202(a) (2d sentence). |  |
 | 14502(c)(3)– (5) | 40 App.:202(b). |  |
@@ -210,7 +210,7 @@ Pub. L. 112–141, div. A, title I, § 1528, July 6, 2012, 126 Stat. 582, as a
 | 14502(d)(4) | 40 App.:202(c) (4th sentence). |  |
 | 14502(d)(5) | 40 App.:202(c) (3d sentence). |  |
 | 14502(e) | 40 App.:202(a) (last sentence). |  |
-| 14502(f) | 40 App.:202(f). | Pub. L. 89–4, title II, § 202(f), as added Pub. L. 105–393, title II, § 207(b), Nov. 13, 1998, 112 Stat. 3620. |
+| 14502(f) | 40 App.:202(f). | Pub. L. 89–4, title II, § 202(f), as added Pub. L. 105–393, title II, § 207(b), Nov. 13, 1998, 112 Stat. 3620. |
 | 14502(g) | 40 App.:202(e). |  |
 
 In subsection (c)(1)(A)(ii), the words “where the acquisition of such facilities is the most cost-effective means for providing increased health services” are omitted as unnecessary because of the more narrow requirement that the Commission find that but for the acquisition of the facility, the health services would not be otherwise provided in the area served by the facility.
@@ -221,19 +221,19 @@ In subsection (f)(1), the words “After September 30, 1998” are omitted as ob
 
 **References in Text**
 
-The Public Health Service Act, referred to in subsec. (c)(2), is act July 1, 1944, ch. 373, 58 Stat. 682. Title VI of the Act is classified generally to subchapter IV (§ 291 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (c)(2), is act July 1, 1944, ch. 373, 58 Stat. 682. Title VI of the Act is classified generally to subchapter IV (§ 291 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
-The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (c)(2), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§ 15001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (c)(2), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§ 15001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
-The Social Security Act, referred to in subsec. (d)(3), (5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Parts A and B of title IV of the Act are classified generally to parts A (§ 601 et seq.) and B (§ 620 et seq.) of subchapter IV of chapter 7 of Title 42. Title XX of the Act is classified generally to subchapter XX (§ 1397 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(3), (5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Parts A and B of title IV of the Act are classified generally to parts A (§ 601 et seq.) and B (§ 620 et seq.) of subchapter IV of chapter 7 of Title 42. Title XX of the Act is classified generally to subchapter XX (§ 1397 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
-2008—Subsec. (d)(2). Pub. L. 110–371, § 2(b)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “Grants under this section for the operation (including initial operating amounts and operating deficits, which include the cost of attracting, training, and retaining qualified personnel) of a demonstration health project, whether or not constructed with amounts authorized by this section, may be made for up to 50 percent of the cost of that operation (or 80 percent of the cost of that operation for a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title).”
+2008—Subsec. (d)(2). Pub. L. 110–371, § 2(b)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “Grants under this section for the operation (including initial operating amounts and operating deficits, which include the cost of attracting, training, and retaining qualified personnel) of a demonstration health project, whether or not constructed with amounts authorized by this section, may be made for up to 50 percent of the cost of that operation (or 80 percent of the cost of that operation for a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title).”
 
-Subsec. (f)(1). Pub. L. 110–371, § 2(b)(2)(A), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+Subsec. (f)(1). Pub. L. 110–371, § 2(b)(2)(A), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
-Subsec. (f)(3). Pub. L. 110–371, § 2(b)(2)(B), added par. (3).
+Subsec. (f)(3). Pub. L. 110–371, § 2(b)(2)(B), added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -241,7 +241,7 @@ Subsec. (f)(3). Pub. L. 110–371, § 2(b)(2)(B), added par. (3).
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
-### § 14503. Assistance for proposed low- and middle-income housing projects
+### § 14503. Assistance for proposed low- and middle-income housing projects
 
 **(a) Appalachian Housing Fund.—**
 
@@ -299,13 +299,13 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 **(g) Application of Certain Provisions.—** Programs and projects assisted under this section are subject to the provisions cited in section 14701 of this title to the extent provided in the laws authorizing assistance for low- and moderate-income housing.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1268; Pub. L. 110–371, § 2(c), Oct. 8, 2008, 122 Stat. 4038.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1268; Pub. L. 110–371, § 2(c), Oct. 8, 2008, 122 Stat. 4038.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 14503(a) | 40 App.:207(d). | Pub. L. 89–4, title II, § 207, as added Pub. L. 90–103, title I, § 112, Oct. 11, 1967, 81 Stat. 261; Pub. L. 90–448, title II, § 201(f), Aug. 1, 1968, 82 Stat. 502; Pub. L. 91–123, title I, § 106, Nov. 25, 1969, 83 Stat. 215; Pub. L. 92–65, title II, § 208, Aug. 5, 1971, 85 Stat. 169; Pub. L. 94–188, title I, § 113, Dec. 31, 1975, 89 Stat. 1082; Pub. L. 105–393, title II, § 212, Nov. 13, 1998, 112 Stat. 3621; Pub. L. 107–149, § 13(e), Mar. 12, 2002, 116 Stat. 71. |
+| 14503(a) | 40 App.:207(d). | Pub. L. 89–4, title II, § 207, as added Pub. L. 90–103, title I, § 112, Oct. 11, 1967, 81 Stat. 261; Pub. L. 90–448, title II, § 201(f), Aug. 1, 1968, 82 Stat. 502; Pub. L. 91–123, title I, § 106, Nov. 25, 1969, 83 Stat. 215; Pub. L. 92–65, title II, § 208, Aug. 5, 1971, 85 Stat. 169; Pub. L. 94–188, title I, § 113, Dec. 31, 1975, 89 Stat. 1082; Pub. L. 105–393, title II, § 212, Nov. 13, 1998, 112 Stat. 3621; Pub. L. 107–149, § 13(e), Mar. 12, 2002, 116 Stat. 71. |
 | 14503(b) | 40 App.:207(a). |  |
 | 14503(c) | 40 App.:207(e) (words after “areas of the region”). |  |
 | 14503(d) | 40 App.:207(b). |  |
@@ -321,11 +321,11 @@ In subsection (g), the words “notwithstanding such section” are omitted as u
 
 **Amendments**
 
-2008—Subsec. (d)(1). Pub. L. 110–371, § 2(c)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “A loan under subsection (b) shall not be more than 50 percent (or 80 percent for a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of the cost of planning and obtaining financing for a project, including preliminary surveys and analyses of market needs, preliminary site engineering and architectural fees, site options, application and mortgage commitment fees, legal fees, and construction loan fees and discounts.”
+2008—Subsec. (d)(1). Pub. L. 110–371, § 2(c)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “A loan under subsection (b) shall not be more than 50 percent (or 80 percent for a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of the cost of planning and obtaining financing for a project, including preliminary surveys and analyses of market needs, preliminary site engineering and architectural fees, site options, application and mortgage commitment fees, legal fees, and construction loan fees and discounts.”
 
-Subsec. (e)(1). Pub. L. 110–371, § 2(c)(2), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “A grant under this section shall not be made to an organization established for profit and, except as provided in paragraph (2), shall not exceed 50 percent (or 80 percent for a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of expenses, incident to planning and obtaining financing for a project, which the Secretary considers not to be recoverable from the proceeds of a permanent loan made to finance the project.”
+Subsec. (e)(1). Pub. L. 110–371, § 2(c)(2), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “A grant under this section shall not be made to an organization established for profit and, except as provided in paragraph (2), shall not exceed 50 percent (or 80 percent for a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of expenses, incident to planning and obtaining financing for a project, which the Secretary considers not to be recoverable from the proceeds of a permanent loan made to finance the project.”
 
-### § 14504. Telecommunications and technology initiative
+### § 14504. Telecommunications and technology initiative
 
 **(a) Projects To Be Assisted.—** The Appalachian Regional Commission may provide technical assistance, make grants, enter into contracts, or otherwise provide amounts to persons or entities in the region for projects—
 
@@ -349,13 +349,13 @@ Subsec. (e)(1). Pub. L. 110–371, § 2(c)(2), added par. (1) and struck out h
 
 **(d) Federal Share.—** Notwithstanding any provision of law limiting the federal share under any other federal program, amounts made available to carry out this section may be used to increase that federal share, as the Commission decides is appropriate.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1270; Pub. L. 110–371, § 2(d), Oct. 8, 2008, 122 Stat. 4039.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1270; Pub. L. 110–371, § 2(d), Oct. 8, 2008, 122 Stat. 4039.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 14504(a) | 40 App.:203(a). | Pub. L. 89–4, title II, § 203, as added Pub. L. 107–149, § 5, Mar. 12, 2002, 116 Stat. 67. |
+| 14504(a) | 40 App.:203(a). | Pub. L. 89–4, title II, § 203, as added Pub. L. 107–149, § 5, Mar. 12, 2002, 116 Stat. 67. |
 | 14504(b) | 40 App.:203(c). |  |
 | 14504(c) | 40 App.:203(b)(1). |  |
 | 14504(d) | 40 App.:203(b)(2). |  |
@@ -366,7 +366,7 @@ Subsec. (e)(1). Pub. L. 110–371, § 2(c)(2), added par. (1) and struck out h
 
 2008—Subsec. (b). Pub. L. 110–371 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “Not more than 50 percent (or 80 percent in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of the cost of any activity eligible for a grant under this section may be provided from amounts appropriated to carry out this section.”
 
-### § 14505. Entrepreneurship initiative
+### § 14505. Entrepreneurship initiative
 
 **(a) Business Incubator Service.—** In this section, the term “business incubator service” means a professional or technical service necessary for the initiation and initial sustainment of the operations of a newly established business, including a service such as—
 
@@ -402,13 +402,13 @@ Subsec. (e)(1). Pub. L. 110–371, § 2(c)(2), added par. (1) and struck out h
 
 **(e) Federal Share.—** Notwithstanding any provision of law limiting the federal share under any other federal program, amounts made available to carry out this section may be used to increase that federal share, as the Commission decides is appropriate.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1271; Pub. L. 110–371, § 2(e), Oct. 8, 2008, 122 Stat. 4039.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1271; Pub. L. 110–371, § 2(e), Oct. 8, 2008, 122 Stat. 4039.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 14505(a) | 40 App.:204(a). | Pub. L. 89–4, title II, § 204, as added Pub. L. 107–149, § 6, Mar. 12, 2002, 116 Stat. 68. |
+| 14505(a) | 40 App.:204(a). | Pub. L. 89–4, title II, § 204, as added Pub. L. 107–149, § 6, Mar. 12, 2002, 116 Stat. 68. |
 | 14505(b) | 40 App.:204(b). |  |
 | 14505(c) | 40 App.:204(d). |  |
 | 14505(d) | 40 App.:204(c)(1). |  |
@@ -420,7 +420,7 @@ Subsec. (e)(1). Pub. L. 110–371, § 2(c)(2), added par. (1) and struck out h
 
 2008—Subsec. (c). Pub. L. 110–371 added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Not more than 50 percent (or 80 percent in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of the cost of any activity eligible for a grant under this section may be provided from amounts appropriated to carry out this section.”
 
-### § 14506. Regional skills partnerships
+### § 14506. Regional skills partnerships
 
 **(a) Eligible Entity.—** In this section, the term “eligible entity” means a consortium that—
 
@@ -466,13 +466,13 @@ Subsec. (e)(1). Pub. L. 110–371, § 2(c)(2), added par. (1) and struck out h
 
 **(f) Federal Share.—** Notwithstanding any provision of law limiting the federal share under any other federal program, amounts made available to carry out this section may be used to increase that Federal share, as the Commission decides is appropriate.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1271; Pub. L. 110–371, § 2(f), Oct. 8, 2008, 122 Stat. 4039.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1271; Pub. L. 110–371, § 2(f), Oct. 8, 2008, 122 Stat. 4039.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 14506(a) | 40 App.:205(a). | Pub. L. 89–4, title II, § 205, as added Pub. L. 107–149, § 7, Mar. 12, 2002, 116 Stat. 69. |
+| 14506(a) | 40 App.:205(a). | Pub. L. 89–4, title II, § 205, as added Pub. L. 107–149, § 7, Mar. 12, 2002, 116 Stat. 69. |
 | 14506(b) | 40 App.:205(b). |  |
 | 14506(c) | 40 App.:205(c). |  |
 | 14506(d) | 40 App.:205(e). |  |
@@ -485,7 +485,7 @@ Subsec. (e)(1). Pub. L. 110–371, § 2(c)(2), added par. (1) and struck out h
 
 2008—Subsec. (d). Pub. L. 110–371 added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “Not more than 50 percent (or 80 percent in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of the cost of any activity eligible for a grant under this section may be provided from amounts appropriated to carry out this section.”
 
-### § 14507. Supplements to federal grant programs
+### § 14507. Supplements to federal grant programs
 
 **(a) Definition.—**
 
@@ -545,13 +545,13 @@ Subsec. (e)(1). Pub. L. 110–371, § 2(c)(2), added par. (1) and struck out h
 
 **(3) At-risk counties.—** The maximum Commission contribution for a project to be carried out in a county for which an at-risk county designation is in effect under section 14526 may be increased to 70 percent.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1272; Pub. L. 109–270, § 2(j), Aug. 12, 2006, 120 Stat. 748; Pub. L. 110–371, § 2(g), Oct. 8, 2008, 122 Stat. 4040; Pub. L. 113–287, § 5(j)(7), Dec. 19, 2014, 128 Stat. 3269.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1272; Pub. L. 109–270, § 2(j), Aug. 12, 2006, 120 Stat. 748; Pub. L. 110–371, § 2(g), Oct. 8, 2008, 122 Stat. 4040; Pub. L. 113–287, § 5(j)(7), Dec. 19, 2014, 128 Stat. 3269.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 14507(a) | 40 App.:214(c). | Pub. L. 89–4, title II, § 214, Mar. 9, 1965, 79 Stat. 17; Pub. L. 90–103, title I, § 116, Oct. 11, 1967, 81 Stat. 263; Pub. L. 91–123, title I, § 107, Nov. 25, 1969, 83 Stat. 215; Pub. L. 91–258, title I, § 52(b)(5), May 21, 1970, 84 Stat. 235; Pub. L. 92–65, title II, § 210, Aug. 5, 1971, 85 Stat. 171; Pub. L. 94–188, title I, § 115, Dec. 31, 1975, 89 Stat. 1083; Pub. L. 96–506, § 3(4), Dec. 8, 1980, 94 Stat. 2746; Pub. L. 98–524, § 4(e)(2), Oct. 19, 1984, 98 Stat. 2489; Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 709(a)(5)], Sept. 30, 1996, 110 Stat. 3009–312; Pub. L. 105–332, § 3(g), Oct. 31, 1998, 112 Stat. 3126, Pub. L. 105–393, title II, § 217, Nov. 13, 1998, 112 Stat. 3622; Pub. L. 107–149, § 13(c), (f), Mar. 12, 2002, 116 Stat. 71. |
+| 14507(a) | 40 App.:214(c). | Pub. L. 89–4, title II, § 214, Mar. 9, 1965, 79 Stat. 17; Pub. L. 90–103, title I, § 116, Oct. 11, 1967, 81 Stat. 263; Pub. L. 91–123, title I, § 107, Nov. 25, 1969, 83 Stat. 215; Pub. L. 91–258, title I, § 52(b)(5), May 21, 1970, 84 Stat. 235; Pub. L. 92–65, title II, § 210, Aug. 5, 1971, 85 Stat. 171; Pub. L. 94–188, title I, § 115, Dec. 31, 1975, 89 Stat. 1083; Pub. L. 96–506, § 3(4), Dec. 8, 1980, 94 Stat. 2746; Pub. L. 98–524, § 4(e)(2), Oct. 19, 1984, 98 Stat. 2489; Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 709(a)(5)], Sept. 30, 1996, 110 Stat. 3009–312; Pub. L. 105–332, § 3(g), Oct. 31, 1998, 112 Stat. 3126, Pub. L. 105–393, title II, § 217, Nov. 13, 1998, 112 Stat. 3622; Pub. L. 107–149, § 13(c), (f), Mar. 12, 2002, 116 Stat. 71. |
 | 14507(b) | 40 App.:214(a) (1st sentence). |  |
 | 14507(c) | 40 App.:214(a) (2d sentence). |  |
 | 14507(d) | 40 App.:214(a) (3d sentence). |  |
@@ -571,31 +571,31 @@ In subsection (g)(1), the words “after September 30, 1998” are omitted as ob
 
 **References in Text**
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(1)(A)(i), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(1)(A)(i), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
-The Watershed Protection and Flood Prevention Act, referred to in subsec. (a)(1)(A)(iii), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 16 and Tables.
+The Watershed Protection and Flood Prevention Act, referred to in subsec. (a)(1)(A)(iii), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 16 and Tables.
 
-The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (a)(1)(A)(iv), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (a)(1)(A)(iv), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
-The Federal Water Pollution Control Act, referred to in subsec. (a)(1)(A)(v), (2), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, also known as the Clean Water Act, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. Title II of the Act is classified generally to subchapter II (§ 1281 et seq.) of chapter 26 of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (a)(1)(A)(v), (2), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, also known as the Clean Water Act, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. Title II of the Act is classified generally to subchapter II (§ 1281 et seq.) of chapter 26 of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Public Health Service Act, referred to in subsec. (a)(1)(A)(vi), is act July 1, 1944, ch. 373, 58 Stat. 682. Title VI of the Act is classified generally to subchapter IV (§ 291 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (a)(1)(A)(vi), is act July 1, 1944, ch. 373, 58 Stat. 682. Title VI of the Act is classified generally to subchapter IV (§ 291 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
-The Housing and Community Development Act of 1974, referred to in subsec. (a)(1)(A)(viii), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. Title I of the Act is classified principally to chapter 69 (§ 5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (a)(1)(A)(viii), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. Title I of the Act is classified principally to chapter 69 (§ 5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
 
-The Communications Act of 1934, referred to in subsec. (a)(1)(A)(ix), is act June 19, 1934, ch. 652, 48 Stat. 1064. Part IV of title III of the Act is classified generally to part IV (§ 390 et seq.) of subchapter III of chapter 5 of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
+The Communications Act of 1934, referred to in subsec. (a)(1)(A)(ix), is act June 19, 1934, ch. 652, 48 Stat. 1064. Part IV of title III of the Act is classified generally to part IV (§ 390 et seq.) of subchapter III of chapter 5 of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
 **Amendments**
 
 2014—Subsec. (a)(1)(A)(ii). Pub. L. 113–287 substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460*l*–4 et seq.)”.
 
-2008—Subsec. (g)(1). Pub. L. 110–371, § 2(g)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+2008—Subsec. (g)(1). Pub. L. 110–371, § 2(g)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
-Subsec. (g)(3). Pub. L. 110–371, § 2(g)(2), added par. (3).
+Subsec. (g)(3). Pub. L. 110–371, § 2(g)(2), added par. (3).
 
 2006—Subsec. (a)(1)(A)(iv). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
 
-### § 14508. Economic and energy development initiative
+### § 14508. Economic and energy development initiative
 
 **(a) Projects To Be Assisted.—** The Appalachian Regional Commission may provide technical assistance, make grants, enter into contracts, or otherwise provide amounts to persons or entities in the Appalachian region for projects and activities—
 
@@ -617,9 +617,9 @@ Subsec. (g)(3). Pub. L. 110–371, § 2(g)(2), added par. (3).
 
 **(d) Federal Share.—** Notwithstanding any provision of law limiting the Federal share under any other Federal program, amounts made available to carry out this section may be used to increase that Federal share, as the Commission decides is appropriate.
 
-(Added Pub. L. 110–371, § 3(a), Oct. 8, 2008, 122 Stat. 4040.)
+(Added Pub. L. 110–371, § 3(a), Oct. 8, 2008, 122 Stat. 4040.)
 
-### § 14509. High-speed broadband deployment initiative
+### § 14509. High-speed broadband deployment initiative
 
 **(a) In General.—** The Appalachian Regional Commission may provide technical assistance, make grants, enter into contracts, or otherwise provide amounts to individuals or entities in the Appalachian region for projects and activities to increase affordable access to broadband networks throughout the Appalachian region.
 
@@ -655,23 +655,23 @@ Subsec. (g)(3). Pub. L. 110–371, § 2(g)(2), added par. (3).
 
 **(g) Requirement.—** For each fiscal year, not less than 65 percent of the amounts made available to carry out this section shall be used for grants for projects and activities described in subsection (b)(2).
 
-(Added Pub. L. 114–94, div. A, title I, § 1436(a)(1), Dec. 4, 2015, 129 Stat. 1430; amended Pub. L. 117–58, div. A, title I, § 11506(d), Nov. 15, 2021, 135 Stat. 584.)
+(Added Pub. L. 114–94, div. A, title I, § 1436(a)(1), Dec. 4, 2015, 129 Stat. 1430; amended Pub. L. 117–58, div. A, title I, § 11506(d), Nov. 15, 2021, 135 Stat. 584.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 117–58, § 11506(d)(1), added subsec. (a) and struck out former subsec. (a) which related to the Appalachian Regional Commission providing technical assistance, making grants, entering into contracts, or otherwise providing amounts to individuals or entities in the Appalachian region for projects and activities and specifying particular objectives in pars. (1) to (6).
+2021—Subsec. (a). Pub. L. 117–58, § 11506(d)(1), added subsec. (a) and struck out former subsec. (a) which related to the Appalachian Regional Commission providing technical assistance, making grants, entering into contracts, or otherwise providing amounts to individuals or entities in the Appalachian region for projects and activities and specifying particular objectives in pars. (1) to (6).
 
-Subsec. (b). Pub. L. 117–58, § 11506(d)(3), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 117–58, § 11506(d)(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 117–58, § 11506(d)(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 117–58, § 11506(d)(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 117–58, § 11506(d)(2), (4), redesignated subsec. (c) as (d) and substituted “subsection (c)” for “subsection (b)” in introductory provisions. Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 117–58, § 11506(d)(2), (4), redesignated subsec. (c) as (d) and substituted “subsection (c)” for “subsection (b)” in introductory provisions. Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 117–58, § 11506(d)(2), redesignated subsec. (d) as (e).
+Subsec. (e). Pub. L. 117–58, § 11506(d)(2), redesignated subsec. (d) as (e).
 
-Subsec. (f), (g). Pub. L. 117–58, § 11506(d)(5), added subsecs. (f) and (g).
+Subsec. (f), (g). Pub. L. 117–58, § 11506(d)(5), added subsecs. (f) and (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -681,9 +681,9 @@ Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. 
 
 **Effective Date**
 
-Pub. L. 114–94, div. A, title I, § 1436(d), Dec. 4, 2015, 129 Stat. 1432, provided that: “This section [enacting this section and amending sections 14703 and 14704 of this title] and the amendments made by this section take effect on October 1, 2015.”
+Pub. L. 114–94, div. A, title I, § 1436(d), Dec. 4, 2015, 129 Stat. 1432, provided that: “This section [enacting this section and amending sections 14703 and 14704 of this title] and the amendments made by this section take effect on October 1, 2015.”
 
-### § 14510. Drug abuse mitigation initiative
+### § 14510. Drug abuse mitigation initiative
 
 **(a) In General.—** The Appalachian Regional Commission may provide technical assistance to, make grants to, enter into contracts with, or otherwise provide amounts to individuals or entities in the Appalachian region for projects and activities to address drug abuse, including opioid abuse, in the region, including projects and activities—
 
@@ -713,9 +713,9 @@ Pub. L. 114–94, div. A, title I, § 1436(d), Dec. 4, 2015, 129 Stat. 1432, p
 
 **(d) Federal Share.—** Notwithstanding any provision of law limiting the Federal share under any other Federal program, amounts made available to carry out this section may be used to increase that Federal share, as the Appalachian Regional Commission determines to be appropriate.
 
-(Added Pub. L. 115–271, title VIII, § 8062(a), Oct. 24, 2018, 132 Stat. 4094.)
+(Added Pub. L. 115–271, title VIII, § 8062(a), Oct. 24, 2018, 132 Stat. 4094.)
 
-### § 14511. Appalachian regional energy hub initiative
+### § 14511. Appalachian regional energy hub initiative
 
 **(a) In General.—** The Appalachian Regional Commission may provide technical assistance to, make grants to, enter into contracts with, or otherwise provide amounts to individuals or entities in the Appalachian region for projects and activities—
 
@@ -741,7 +741,7 @@ Pub. L. 114–94, div. A, title I, § 1436(d), Dec. 4, 2015, 129 Stat. 1432, p
 
 **(d) Federal Share.—** Notwithstanding any provision of law limiting the Federal share under any other Federal program, amounts made available to carry out this section may be used to increase that Federal share, as the Appalachian Regional Commission determines to be appropriate.
 
-(Added Pub. L. 117–58, div. A, title I, § 11506(e)(1), Nov. 15, 2021, 135 Stat. 585.)
+(Added Pub. L. 117–58, div. A, title I, § 11506(e)(1), Nov. 15, 2021, 135 Stat. 585.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -751,7 +751,7 @@ Section effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out a
 
 ## SUBCHAPTER II—ADMINISTRATIVE
 
-### § 14521. Required level of expenditure
+### § 14521. Required level of expenditure
 
 A State or political subdivision of a State is not eligible to receive benefits under this subtitle unless the aggregate expenditure of state amounts, except expenditures for participation in the Dwight D. Eisenhower System of Interstate and Defense Highways and local and federal amounts, for the benefit of the area within the State located in the Appalachian region is maintained at a level which does not fall below the average level of those expenditures for the State’s last two full fiscal years prior to March 9, 1965. In computing the level, a State’s past expenditure for participation in the Dwight D. Eisenhower System of Interstate and Defense Highways and expenditures of local and federal amounts shall not be included. The Commission shall recommend to the President a lesser requirement when it finds that a substantial population decrease in that part of a State which lies within the region would not justify a state expenditure equal to the average level of the last two years or when it finds that a State’s average level of expenditure in an individual program has been disproportionate to the present need for that part of the State.
 
@@ -761,11 +761,11 @@ A State or political subdivision of a State is not eligible to receive benefits 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 14521 | 40 App.:221. | Pub. L. 89–4, title II, § 221, Mar. 9, 1965, 79 Stat. 18; Pub. L. 90–103, title I, § 117, Oct. 11, 1967, 81 Stat. 263; Pub. L. 101–427, Oct. 15, 1990, 104 Stat. 927. |
+| 14521 | 40 App.:221. | Pub. L. 89–4, title II, § 221, Mar. 9, 1965, 79 Stat. 18; Pub. L. 90–103, title I, § 117, Oct. 11, 1967, 81 Stat. 263; Pub. L. 101–427, Oct. 15, 1990, 104 Stat. 927. |
 
 The words “or such Federal officer or officers as the President may designate” are omitted because of 3:301.
 
-### § 14522. Consent of States
+### § 14522. Consent of States
 
 This subtitle does not require a State to engage in or accept a program under this subtitle without its consent.
 
@@ -775,9 +775,9 @@ This subtitle does not require a State to engage in or accept a program under th
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 14522 | 40 App.:222. | Pub. L. 89–4, title II, § 222, Mar. 9, 1965, 79 Stat. 18. |
+| 14522 | 40 App.:222. | Pub. L. 89–4, title II, § 222, Mar. 9, 1965, 79 Stat. 18. |
 
-### § 14523. Program implementation
+### § 14523. Program implementation
 
 **(a) Requirements.—** A program or project authorized under this chapter shall not be implemented until—
 
@@ -797,9 +797,9 @@ This subtitle does not require a State to engage in or accept a program under th
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 14523 | 40 App.:223. | Pub. L. 89–4, title II, § 223, Mar. 9, 1965, 79 Stat. 18; Pub. L. 90–103, title I, § 118, Oct. 11, 1967, 81 Stat. 264; Pub. L. 94–188, title I, § 116, Dec. 31, 1975, 89 Stat. 1083. |
+| 14523 | 40 App.:223. | Pub. L. 89–4, title II, § 223, Mar. 9, 1965, 79 Stat. 18; Pub. L. 90–103, title I, § 118, Oct. 11, 1967, 81 Stat. 264; Pub. L. 94–188, title I, § 116, Dec. 31, 1975, 89 Stat. 1083. |
 
-### § 14524. Program development criteria
+### § 14524. Program development criteria
 
 **(a) Factors To Be Considered.—** In considering programs and projects to be given assistance under this subtitle, and in establishing a priority ranking of the requests for assistance presented to the Appalachian Regional Commission, the Commission shall follow procedures that will ensure consideration of—
 
@@ -827,12 +827,12 @@ This subtitle does not require a State to engage in or accept a program under th
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 14524(a) | 40 App.:224(a). | Pub. L. 89–4, title II, § 224(a), Mar. 9, 1965, 79 Stat. 18; Pub. L. 90–103, title I, § 119(a), Oct. 11, 1967, 81 Stat. 264; Pub. L. 105–393, title II, § 218(a), (b), Nov. 13, 1998, 112 Stat. 3622; Pub. L. 107–149, §§ 8(a), 13(g), Mar. 12, 2002, 116 Stat. 70, 72. |
-| 14524(b) | 40 App.:224(b). | Pub. L. 89–4, title II, § 224(b), Mar. 9, 1965, 79 Stat. 19; Pub. L. 90–103, title I, § 119(b), Oct. 11, 1967, 81 Stat. 264; Pub. L. 105–393, title II, § 218(c), Nov. 13, 1998, 112 Stat. 3623. |
-| 14524(c) | 40 App.:224(c). | Pub. L. 89–4, title II, § 224(c), as added Pub. L. 94–188, title I, § 117, Dec. 31, 1975, 89 Stat. 1084. |
-| 14524(d) | 40 App.:224(d). | Pub. L. 89–4, title II, § 224(d), as added Pub. L. 107–149, § 8(b), Mar. 12, 2002, 116 Stat. 70. |
+| 14524(a) | 40 App.:224(a). | Pub. L. 89–4, title II, § 224(a), Mar. 9, 1965, 79 Stat. 18; Pub. L. 90–103, title I, § 119(a), Oct. 11, 1967, 81 Stat. 264; Pub. L. 105–393, title II, § 218(a), (b), Nov. 13, 1998, 112 Stat. 3622; Pub. L. 107–149, §§ 8(a), 13(g), Mar. 12, 2002, 116 Stat. 70, 72. |
+| 14524(b) | 40 App.:224(b). | Pub. L. 89–4, title II, § 224(b), Mar. 9, 1965, 79 Stat. 19; Pub. L. 90–103, title I, § 119(b), Oct. 11, 1967, 81 Stat. 264; Pub. L. 105–393, title II, § 218(c), Nov. 13, 1998, 112 Stat. 3623. |
+| 14524(c) | 40 App.:224(c). | Pub. L. 89–4, title II, § 224(c), as added Pub. L. 94–188, title I, § 117, Dec. 31, 1975, 89 Stat. 1084. |
+| 14524(d) | 40 App.:224(d). | Pub. L. 89–4, title II, § 224(d), as added Pub. L. 107–149, § 8(b), Mar. 12, 2002, 116 Stat. 70. |
 
-### § 14525. State development planning process
+### § 14525. State development planning process
 
 **(a) State Development Plan.—** Pursuant to policies the Appalachian Regional Commission establishes, each state member shall submit a development plan for the area of the State within the Appalachian region. The plan shall—
 
@@ -870,7 +870,7 @@ This subtitle does not require a State to engage in or accept a program under th
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 14525(a) | 40 App.:225(a). | Pub. L. 89–4, title II, § 225, as added Pub. L. 94–188, title I, § 118, Dec. 31, 1975, 89 Stat. 1084; Pub. L. 107–149, § 13(h), Mar. 12, 2002, 116 Stat. 72. |
+| 14525(a) | 40 App.:225(a). | Pub. L. 89–4, title II, § 225, as added Pub. L. 94–188, title I, § 118, Dec. 31, 1975, 89 Stat. 1084; Pub. L. 107–149, § 13(h), Mar. 12, 2002, 116 Stat. 72. |
 | 14525(b) | 40 App.:225(b)(2). |  |
 | 14525(c) | 40 App.:225(b)(1). |  |
 | 14525(d) | 40 App.:225(c). |  |
@@ -879,9 +879,9 @@ This subtitle does not require a State to engage in or accept a program under th
 
 **References in Text**
 
-The Public Works and Economic Development Act of 1965, referred to in subsec. (a)(3)(C), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, which is classified principally to chapter 38 (§ 3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
+The Public Works and Economic Development Act of 1965, referred to in subsec. (a)(3)(C), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, which is classified principally to chapter 38 (§ 3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
 
-### § 14526. Distressed, at-risk, and economically strong counties
+### § 14526. Distressed, at-risk, and economically strong counties
 
 **(a) Designations.—**
 
@@ -933,13 +933,13 @@ The Public Works and Economic Development Act of 1965, referred to in subsec. (a
 
 **(B) Reports to congress.—** The Commission shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an annual report describing each waiver granted under subparagraph (A) during the period covered by the report.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1277; Pub. L. 110–371, § 4(a), Oct. 8, 2008, 122 Stat. 4041.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1277; Pub. L. 110–371, § 4(a), Oct. 8, 2008, 122 Stat. 4041.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 14526 | 40 App.:226. | Pub. L. 89–4, title II, § 226, as added Pub. L. 105–393, title II, § 219, Nov. 13, 1998, 112 Stat. 3623. |
+| 14526 | 40 App.:226. | Pub. L. 89–4, title II, § 226, as added Pub. L. 105–393, title II, § 219, Nov. 13, 1998, 112 Stat. 3623. |
 
 In subsection (a)(1), before clause (A), the words “Not later than 90 days after November 13, 1988” are omitted as obsolete.
 
@@ -947,6 +947,6 @@ In subsection (a)(1), before clause (A), the words “Not later than 90 days aft
 
 **Amendments**
 
-2008—Pub. L. 110–371, § 4(a)(1), inserted “, at-risk,” after “Distressed” in section catchline.
+2008—Pub. L. 110–371, § 4(a)(1), inserted “, at-risk,” after “Distressed” in section catchline.
 
-Subsec. (a)(1)(B), (C). Pub. L. 110–371, § 4(a)(2), added subpar. (B) and redesignated former subpar. (B) as (C).
+Subsec. (a)(1)(B), (C). Pub. L. 110–371, § 4(a)(2), added subpar. (B) and redesignated former subpar. (B) as (C).

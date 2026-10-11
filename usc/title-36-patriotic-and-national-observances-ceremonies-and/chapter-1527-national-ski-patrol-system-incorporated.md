@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1527—NATIONAL SKI PATROL SYSTEM, INCORPORATED"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1527—NATIONAL SKI PATROL SYSTEM, INCORPORATED"
 identifier: "/us/usc/t36/stII/ptB/ch1527"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1527—NATIONAL SKI PATROL SYSTEM, INCORPORATED
 
-## § 152701. Definition
+## § 152701. Definition
 
 For purposes of this chapter, “State” includes the District of Columbia and the territories and possessions of the United States.
 
@@ -25,11 +25,11 @@ For purposes of this chapter, “State” includes the District of Columbia and 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152701 | 36:1513. | Dec. 2, 1980, Pub. L. 96–489, § 14, 94 Stat. 2555. |
+| 152701 | 36:1513. | Dec. 2, 1980, Pub. L. 96–489, § 14, 94 Stat. 2555. |
 
 The words “the Commonwealth of Puerto Rico” are omitted as included in “the territories and possessions of the United States”.
 
-## § 152702. Organization
+## § 152702. Organization
 
 **(a) Federal Charter.—** National Ski Patrol System, Incorporated (in this chapter, the “corporation”), incorporated in New York and Colorado, is a federally chartered corporation.
 
@@ -41,12 +41,12 @@ The words “the Commonwealth of Puerto Rico” are omitted as included in “th
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152702(a) | 36:1501. | Dec. 2, 1980, Pub. L. 96–489, §§ 1, 15 (last sentence), 94 Stat. 2553, 2555. |
+| 152702(a) | 36:1501. | Dec. 2, 1980, Pub. L. 96–489, §§ 1, 15 (last sentence), 94 Stat. 2553, 2555. |
 | 152702(b) | 36:1514 (last sentence). |  |
 
 This section is substituted for the source provisions for consistency in the revised title.
 
-## § 152703. Purposes
+## § 152703. Purposes
 
 The purposes of the corporation are—
 
@@ -60,11 +60,11 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152703 | 36:1503. | Dec. 2, 1980, Pub. L. 96–489, § 3, 94 Stat. 2553. |
+| 152703 | 36:1503. | Dec. 2, 1980, Pub. L. 96–489, § 3, 94 Stat. 2553. |
 
 In clause (1), the words “in every way” are substituted for “in any and all ways” for consistency in this section and to eliminate unnecessary words. The words “by such means as” are substituted for “including, without limiting the generality of the foregoing” to eliminate unnecessary words. The words “with respect thereto” and “the administration of” are omitted as unnecessary.
 
-## § 152704. Membership
+## § 152704. Membership
 
 Except as provided in this chapter, eligibility for membership in the corporation and the rights and privileges of members are as provided in the bylaws.
 
@@ -74,9 +74,9 @@ Except as provided in this chapter, eligibility for membership in the corporatio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152704 | 36:1505. | Dec. 2, 1980, Pub. L. 96–489, § 5, 94 Stat. 2553. |
+| 152704 | 36:1505. | Dec. 2, 1980, Pub. L. 96–489, § 5, 94 Stat. 2553. |
 
-## § 152705. Governing body
+## § 152705. Governing body
 
 **(a) Board of Directors.—** The board of directors and the responsibilities of the board are as provided in the articles of incorporation.
 
@@ -88,12 +88,12 @@ Except as provided in this chapter, eligibility for membership in the corporatio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152705(a) | 36:1506. | Dec. 2, 1980, Pub. L. 96–489, §§ 6, 7, 94 Stat. 2553. |
+| 152705(a) | 36:1506. | Dec. 2, 1980, Pub. L. 96–489, §§ 6, 7, 94 Stat. 2553. |
 | 152705(b) | 36:1507. |  |
 
 The words “and in conformity with the laws of the State or States where incorporated” are omitted as unnecessary.
 
-## § 152706. Powers
+## § 152706. Powers
 
 The corporation has only the powers provided in its bylaws and articles of incorporation filed in each State in which it is incorporated.
 
@@ -103,9 +103,9 @@ The corporation has only the powers provided in its bylaws and articles of incor
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152706 | 36:1502. | Dec. 2, 1980, Pub. L. 96–489, § 2, 94 Stat. 2553. |
+| 152706 | 36:1502. | Dec. 2, 1980, Pub. L. 96–489, § 2, 94 Stat. 2553. |
 
-## § 152707. Restrictions
+## § 152707. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -121,7 +121,7 @@ The corporation has only the powers provided in its bylaws and articles of incor
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152707(a) | 36:1508(d). | Dec. 2, 1980, Pub. L. 96–489, § 8, 94 Stat. 2554. |
+| 152707(a) | 36:1508(d). | Dec. 2, 1980, Pub. L. 96–489, § 8, 94 Stat. 2554. |
 | 152707(b) | 36:1508(c). |  |
 | 152707(c) | 36:1508(a). |  |
 | 152707(d) | 36:1508(b). |  |
@@ -130,7 +130,7 @@ In subsection (a), the words “any shares of” are omitted as unnecessary.
 
 In subsection (c), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title.
 
-## § 152708. Duty to maintain tax-exempt status
+## § 152708. Duty to maintain tax-exempt status
 
 The corporation shall maintain its status as an organization exempt from taxation under the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.).
 
@@ -140,9 +140,9 @@ The corporation shall maintain its status as an organization exempt from taxatio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152708 | 36:1514 (1st sentence). | Dec. 2, 1980, Pub. L. 96–489, § 15 (1st sentence), 94 Stat. 2555. |
+| 152708 | 36:1514 (1st sentence). | Dec. 2, 1980, Pub. L. 96–489, § 15 (1st sentence), 94 Stat. 2555. |
 
-## § 152709. Records and inspection
+## § 152709. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -160,11 +160,11 @@ The corporation shall maintain its status as an organization exempt from taxatio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152709 | 36:1510. | Dec. 2, 1980, Pub. L. 96–489, § 10, 94 Stat. 2554. |
+| 152709 | 36:1510. | Dec. 2, 1980, Pub. L. 96–489, § 10, 94 Stat. 2554. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code. The words “However, nothing in this section shall be construed to contravene any applicable State law” are omitted as unnecessary.
 
-## § 152710. Service of process
+## § 152710. Service of process
 
 The corporation shall comply with the law on service of process of each State in which it is incorporated and each State in which it carries on activities.
 
@@ -174,11 +174,11 @@ The corporation shall comply with the law on service of process of each State in
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152710 | 36:1504. | Dec. 2, 1980, Pub. L. 96–489, § 4, 94 Stat. 2553. |
+| 152710 | 36:1504. | Dec. 2, 1980, Pub. L. 96–489, § 4, 94 Stat. 2553. |
 
 The words “in furtherance of its corporate purposes” are omitted as unnecessary.
 
-## § 152711. Liability for acts of officers and agents
+## § 152711. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -188,9 +188,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152711 | 36:1509. | Dec. 2, 1980, Pub. L. 96–489, § 9, 94 Stat. 2554. |
+| 152711 | 36:1509. | Dec. 2, 1980, Pub. L. 96–489, § 9, 94 Stat. 2554. |
 
-## § 152712. Annual report
+## § 152712. Annual report
 
 The corporation shall submit an annual report to Congress on the activities of the corporation during the prior calendar year. The report may not be printed as a public document.
 
@@ -200,7 +200,7 @@ The corporation shall submit an annual report to Congress on the activities of t
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152712 | 36:1511. | Dec. 2, 1980, Pub. L. 96–489, § 12, 94 Stat. 2554. |
+| 152712 | 36:1511. | Dec. 2, 1980, Pub. L. 96–489, § 12, 94 Stat. 2554. |
 
 **Statutory Notes and Related Subsidiaries**
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 89B—ENHANCED VISION BENEFITS
 
-## § 8981. Definitions
+## § 8981. Definitions
 
 In this chapter:
 
@@ -43,15 +43,15 @@ In this chapter:
 
 **(B)** The Secretary of Defense shall enter into an agreement with the Director of the Office relating to classes of individuals described in subparagraph (A)(i) who should be eligible individuals for purposes of this chapter.
 
-(Added Pub. L. 108–496, § 3, Dec. 23, 2004, 118 Stat. 4006; amended Pub. L. 109–356, title I, § 117(a)(2), Oct. 16, 2006, 120 Stat. 2027; Pub. L. 114–328, div. A, title VII, § 715(a)(2), Dec. 23, 2016, 130 Stat. 2221.)
+(Added Pub. L. 108–496, § 3, Dec. 23, 2004, 118 Stat. 4006; amended Pub. L. 109–356, title I, § 117(a)(2), Oct. 16, 2006, 120 Stat. 2027; Pub. L. 114–328, div. A, title VII, § 715(a)(2), Dec. 23, 2016, 130 Stat. 2221.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Par. (3). Pub. L. 114–328, § 715(a)(2)(A), substituted “paragraph (1), (2), or (8)” for “paragraph (1) or (2)”.
+2016—Par. (3). Pub. L. 114–328, § 715(a)(2)(A), substituted “paragraph (1), (2), or (8)” for “paragraph (1) or (2)”.
 
-Par. (8). Pub. L. 114–328, § 715(a)(2)(B), added par. (8).
+Par. (8). Pub. L. 114–328, § 715(a)(2)(B), added par. (8).
 
 2006—Par. (1). Pub. L. 109–356, which directed insertion of “and an employee of the District of Columbia courts” at end of par. (1), was executed by making the insertion before the period, to reflect the probable intent of Congress.
 
@@ -65,7 +65,7 @@ Amendment by Pub. L. 114–328 applicable with respect to the first contract yea
 
 Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
 
-## § 8982. Availability of vision benefits
+## § 8982. Availability of vision benefits
 
 **(a)** The Office shall establish and administer a program through which an eligible individual may obtain vision coverage to supplement coverage available through chapter 89.
 
@@ -73,7 +73,7 @@ Section effective Dec. 23, 2004, and applicable to contracts that take effect wi
 
 **(c)** Nothing in this chapter shall be construed to prohibit the availability of vision benefits provided by health benefits plans under chapter 89.
 
-(Added Pub. L. 108–496, § 3, Dec. 23, 2004, 118 Stat. 4007.)
+(Added Pub. L. 108–496, § 3, Dec. 23, 2004, 118 Stat. 4007.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -81,7 +81,7 @@ Section effective Dec. 23, 2004, and applicable to contracts that take effect wi
 
 Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
 
-## § 8983. Contracting authority
+## § 8983. Contracting authority
 
 **(a)**
 
@@ -113,27 +113,27 @@ Section effective Dec. 23, 2004, and applicable to contracts that take effect wi
 
 **(2)** A determination by a qualified company as to whether or not a particular individual is eligible to obtain coverage under this chapter shall be subject to review only to the extent and in the manner provided in the applicable contract.
 
-**(3)** For purposes of applying the Contract Disputes Act of 1978 1
+**(3)** For purposes of applying the Contract Disputes Act of 1978 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 to disputes arising under this chapter between a qualified company and the Office—
 
-**(A)** the agency board having jurisdiction to decide an appeal relative to such a dispute shall be such board of contract appeals as the Director of the Office of Personnel Management shall specify in writing (after appropriate arrangements, as described in section 8(c) <sup>1</sup> of such Act); and
+**(A)** the agency board having jurisdiction to decide an appeal relative to such a dispute shall be such board of contract appeals as the Director of the Office of Personnel Management shall specify in writing (after appropriate arrangements, as described in section 8(c) <sup>1</sup> of such Act); and
 
-**(B)** the district courts of the United States shall have original jurisdiction, concurrent with the United States Court of Federal Claims, of any action described in section 10(a)(1) <sup>1</sup> of such Act relative to such a dispute.
+**(B)** the district courts of the United States shall have original jurisdiction, concurrent with the United States Court of Federal Claims, of any action described in section 10(a)(1) <sup>1</sup> of such Act relative to such a dispute.
 
 **(e)** Nothing in this section shall be considered to grant authority for the Office or third-party reviewer to change the terms of any contract under this chapter.
 
 **(f)** Contracts under this chapter shall be for a uniform term of 7 years and may not be renewed automatically.
 
-(Added Pub. L. 108–496, § 3, Dec. 23, 2004, 118 Stat. 4007; amended Pub. L. 111–350, § 5(a)(17), Jan. 4, 2011, 124 Stat. 3842.)
+(Added Pub. L. 108–496, § 3, Dec. 23, 2004, 118 Stat. 4007; amended Pub. L. 111–350, § 5(a)(17), Jan. 4, 2011, 124 Stat. 3842.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Contract Disputes Act of 1978, referred to in subsec. (d)(3), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, which was classified principally to chapter 9 (§ 601 et seq.) of former Title 41, Public Contracts, and was substantially repealed and restated as chapter 71 (§ 7101 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Sections 8(c) and 10(a)(1) of the Act, which were classified to sections 607(c) and 609(a)(1), respectively, of former Title 41, were repealed and restated as section 7105(d), (e)(1)(C) and section 7104(b)(1), respectively, of Title 41. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+The Contract Disputes Act of 1978, referred to in subsec. (d)(3), is Pub. L. 95–563, Nov. 1, 1978, 92 Stat. 2383, which was classified principally to chapter 9 (§ 601 et seq.) of former Title 41, Public Contracts, and was substantially repealed and restated as chapter 71 (§ 7101 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Sections 8(c) and 10(a)(1) of the Act, which were classified to sections 607(c) and 609(a)(1), respectively, of former Title 41, were repealed and restated as section 7105(d), (e)(1)(C) and section 7104(b)(1), respectively, of Title 41. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 **Amendments**
 
@@ -145,7 +145,7 @@ The Contract Disputes Act of 1978, referred to in subsec. (d)(3), is Pub. L. 95�
 
 Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
 
-## § 8984. Benefits
+## § 8984. Benefits
 
 **(a)** The Office may prescribe reasonable minimum standards for enhanced vision benefits plans offered under this chapter and for qualified companies offering the plans.
 
@@ -163,7 +163,7 @@ Section effective Dec. 23, 2004, and applicable to contracts that take effect wi
 
 **(e)** If an individual has vision coverage under a health benefits plan under chapter 89 and also has coverage under a plan under this chapter, the health benefits plan under chapter 89 shall be the first payor of any benefit payments.
 
-(Added Pub. L. 108–496, § 3, Dec. 23, 2004, 118 Stat. 4008.)
+(Added Pub. L. 108–496, § 3, Dec. 23, 2004, 118 Stat. 4008.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -171,13 +171,13 @@ Section effective Dec. 23, 2004, and applicable to contracts that take effect wi
 
 Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
 
-## § 8985. Information to individuals eligible to enroll
+## § 8985. Information to individuals eligible to enroll
 
 **(a)** The qualified companies at the direction and with the approval of the Office, shall make available to each individual eligible to enroll in a vision benefits plan information on services and benefits (including maximums, limitations, and exclusions), that the Office considers necessary to enable the individual to make an informed decision about electing coverage.
 
 **(b)** The Office shall make available to each individual eligible to enroll in a vision benefits plan, information on services and benefits provided by qualified companies participating under chapter 89.
 
-(Added Pub. L. 108–496, § 3, Dec. 23, 2004, 118 Stat. 4008.)
+(Added Pub. L. 108–496, § 3, Dec. 23, 2004, 118 Stat. 4008.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -185,7 +185,7 @@ Section effective Dec. 23, 2004, and applicable to contracts that take effect wi
 
 Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
 
-## § 8986. Election of coverage
+## § 8986. Election of coverage
 
 **(a)** An eligible individual may enroll in a vision benefits plan for self-only, self plus one, or for self and family. If an eligible individual has a spouse who is also eligible to enroll, either spouse, but not both, may enroll for self plus one or self and family. An individual may not be enrolled both as an employee, annuitant, or other individual eligible to enroll and as a member of the family.
 
@@ -207,7 +207,7 @@ Section effective Dec. 23, 2004, and applicable to contracts that take effect wi
 
 **(d)** Coverage under a vision benefits plan under this chapter for any employee or a covered TRICARE-eligible individual enrolled in such a plan and who, as a result of a lapse in appropriations, is furloughed or excepted from furlough and working without pay shall continue during such lapse and may not be cancelled as a result of nonpayment of premiums or other periodic charges due to such lapse.
 
-(Added Pub. L. 108–496, § 3, Dec. 23, 2004, 118 Stat. 4008; amended Pub. L. 116–92, div. A, title XI, § 1111(a)(2), Dec. 20, 2019, 133 Stat. 1601.)
+(Added Pub. L. 108–496, § 3, Dec. 23, 2004, 118 Stat. 4008; amended Pub. L. 116–92, div. A, title XI, § 1111(a)(2), Dec. 20, 2019, 133 Stat. 1601.)
 
 **Editorial Notes**
 
@@ -225,11 +225,11 @@ Amendment by Pub. L. 116–92 applicable to any contract for supplemental vision
 
 Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
 
-## § 8987. Coverage of restored survivor or disability annuitants
+## § 8987. Coverage of restored survivor or disability annuitants
 
 A surviving spouse, disability annuitant, or surviving child whose annuity is terminated and is later restored, may continue enrollment in a vision benefits plan subject to the terms and conditions prescribed in regulations issued by the Office.
 
-(Added Pub. L. 108–496, § 3, Dec. 23, 2004, 118 Stat. 4009.)
+(Added Pub. L. 108–496, § 3, Dec. 23, 2004, 118 Stat. 4009.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -237,7 +237,7 @@ A surviving spouse, disability annuitant, or surviving child whose annuity is te
 
 Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
 
-## § 8988. Premiums
+## § 8988. Premiums
 
 **(a)** Each eligible individual obtaining supplemental vision coverage under this chapter shall be responsible for 100 percent of the premiums for such coverage.
 
@@ -271,7 +271,7 @@ Section effective Dec. 23, 2004, and applicable to contracts that take effect wi
 
 **(B)** A contract under this chapter shall include appropriate provisions under which the qualified company involved shall, during each year, make such periodic contributions to the Vision Benefits Administrative Account as necessary to ensure that the reasonable anticipated expenses of the Office in administering this chapter during such year are defrayed.
 
-(Added Pub. L. 108–496, § 3, Dec. 23, 2004, 118 Stat. 4009; amended Pub. L. 114–328, div. A, title VII, § 715(b)(2), Dec. 23, 2016, 130 Stat. 2222.)
+(Added Pub. L. 108–496, § 3, Dec. 23, 2004, 118 Stat. 4009; amended Pub. L. 114–328, div. A, title VII, § 715(b)(2), Dec. 23, 2016, 130 Stat. 2222.)
 
 **Editorial Notes**
 
@@ -289,11 +289,11 @@ Amendment by Pub. L. 114–328 applicable with respect to the first contract yea
 
 Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
 
-## § 8989. Preemption
+## § 8989. Preemption
 
 The terms of any contract that relate to the nature, provision, or extent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any State or local law, or any regulation issued thereunder, which relates to vision benefits, insurance, plans, or contracts.
 
-(Added Pub. L. 108–496, § 3, Dec. 23, 2004, 118 Stat. 4010.)
+(Added Pub. L. 108–496, § 3, Dec. 23, 2004, 118 Stat. 4010.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -301,7 +301,7 @@ The terms of any contract that relate to the nature, provision, or extent of cov
 
 Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
 
-## § 8990. Studies, reports, and audits
+## § 8990. Studies, reports, and audits
 
 **(a)** Each contract shall contain provisions requiring the qualified company to—
 
@@ -313,7 +313,7 @@ Section effective Dec. 23, 2004, and applicable to contracts that take effect wi
 
 **(c)** The Office shall conduct periodic reviews of plans under this chapter, including a comparison of the vision benefits available under chapter 89, to ensure the competitiveness of plans under this chapter. The Office shall cooperate with the Government Accountability Office to provide periodic evaluations of the program.
 
-(Added Pub. L. 108–496, § 3, Dec. 23, 2004, 118 Stat. 4010.)
+(Added Pub. L. 108–496, § 3, Dec. 23, 2004, 118 Stat. 4010.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -321,11 +321,11 @@ Section effective Dec. 23, 2004, and applicable to contracts that take effect wi
 
 Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
 
-## § 8991. Jurisdiction of courts
+## § 8991. Jurisdiction of courts
 
 The district courts of the United States have original jurisdiction, concurrent with the United States Court of Federal Claims, of a civil action or claim against the United States under this chapter after such administrative remedies as required under section 8983(d) have been exhausted, but only to the extent judicial review is not precluded by any dispute resolution or other remedy under this chapter.
 
-(Added Pub. L. 108–496, § 3, Dec. 23, 2004, 118 Stat. 4010.)
+(Added Pub. L. 108–496, § 3, Dec. 23, 2004, 118 Stat. 4010.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -333,13 +333,13 @@ The district courts of the United States have original jurisdiction, concurrent 
 
 Section effective Dec. 23, 2004, and applicable to contracts that take effect with respect to the calendar year 2006, see section 7 of Pub. L. 108–496, set out as a note under section 8951 of this title.
 
-## § 8992. Administrative functions
+## § 8992. Administrative functions
 
 **(a)** The Office shall prescribe regulations to carry out this chapter. The regulations may exclude an employee on the basis of the nature and type of employment or conditions pertaining to it.
 
 **(b)** The Office shall, as appropriate, provide for coordinated enrollment, promotion, and education efforts as appropriate in consultation with each qualified company. The information under this subsection shall include information relating to the vision benefits available under chapter 89, including the advantages and disadvantages of obtaining additional coverage under this chapter.
 
-(Added Pub. L. 108–496, § 3, Dec. 23, 2004, 118 Stat. 4010.)
+(Added Pub. L. 108–496, § 3, Dec. 23, 2004, 118 Stat. 4010.)
 
 **Statutory Notes and Related Subsidiaries**
 

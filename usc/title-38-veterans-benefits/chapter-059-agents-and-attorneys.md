@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2021—Pub. L. 116–283, div. A, title V, § 548(a)(2), Jan. 1, 2021, 134 Stat. 3618, added item 5906.
+2021—Pub. L. 116–283, div. A, title V, § 548(a)(2), Jan. 1, 2021, 134 Stat. 3618, added item 5906.
 
-1991—Pub. L. 102–40, title IV, § 402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 3401 to 3405 as 5901 to 5905, respectively.
+1991—Pub. L. 102–40, title IV, § 402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 3401 to 3405 as 5901 to 5905, respectively.
 
-## § 5901. Prohibition against acting as claims agent or attorney
+## § 5901. Prohibition against acting as claims agent or attorney
 
 **(a) In General.—** Except as provided by section 500 of title 5, no individual may act as an agent or attorney in the preparation, presentation, or prosecution of any claim under laws administered by the Secretary unless such individual has been recognized for such purposes by the Secretary.
 
@@ -49,7 +49,7 @@ retrieved: 2026-10-11
 
 **(D)** The seven other languages most commonly spoken in the United States.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1238, § 3401; Pub. L. 91–24, § 12(a), June 11, 1969, 83 Stat. 34; Pub. L. 99–576, title VII, § 701(79), Oct. 28, 1986, 100 Stat. 3298; renumbered § 5901, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 118–21, § 3(a), Nov. 13, 2023, 137 Stat. 110.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1238, § 3401; Pub. L. 91–24, § 12(a), June 11, 1969, 83 Stat. 34; Pub. L. 99–576, title VII, § 701(79), Oct. 28, 1986, 100 Stat. 3298; renumbered § 5901, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 118–21, § 3(a), Nov. 13, 2023, 137 Stat. 110.)
 
 **Editorial Notes**
 
@@ -59,9 +59,9 @@ retrieved: 2026-10-11
 
 1991—Pub. L. 102–40 renumbered section 3401 of this title as this section.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
 1986—Pub. L. 99–576 substituted “such individual” for “he”.
 
@@ -71,7 +71,7 @@ Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” 
 
 **Implementation**
 
-Pub. L. 118–21, § 3(b), Nov. 13, 2023, 137 Stat. 110, provided that:
+Pub. L. 118–21, § 3(b), Nov. 13, 2023, 137 Stat. 110, provided that:
 
 > “The Secretary of Veterans Affairs shall carry out subsection (b) of such section, as added by subsection (a) of this section—
 
@@ -79,7 +79,7 @@ Pub. L. 118–21, § 3(b), Nov. 13, 2023, 137 Stat. 110, provided that:
 
 > **“(2)** not later than one year after the date of the enactment of this Act [Nov. 13, 2023].”
 
-## § 5902. Recognition of representatives of organizations
+## § 5902. Recognition of representatives of organizations
 
 **(a)**
 
@@ -105,7 +105,7 @@ Pub. L. 118–21, § 3(b), Nov. 13, 2023, 137 Stat. 110, provided that:
 
 **(d)** Service rendered in connection with any such claim, while not on active duty, by any retired officer, warrant officer, or enlisted member of the Armed Forces recognized under this section shall not be a violation of sections 203, 205, 206, or 207 of title 18.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1238, § 3402; Pub. L. 91–24, § 12(b), June 11, 1969, 83 Stat. 34; Pub. L. 98–160, title VII, § 703(5), Nov. 21, 1983, 97 Stat. 1010; renumbered § 5902, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 104–275, title V, § 508(a), Oct. 9, 1996, 110 Stat. 3343; Pub. L. 109–461, title I, § 101(a)(2), Dec. 22, 2006, 120 Stat. 3406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1238, § 3402; Pub. L. 91–24, § 12(b), June 11, 1969, 83 Stat. 34; Pub. L. 98–160, title VII, § 703(5), Nov. 21, 1983, 97 Stat. 1010; renumbered § 5902, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 104–275, title V, § 508(a), Oct. 9, 1996, 110 Stat. 3343; Pub. L. 109–461, title I, § 101(a)(2), Dec. 22, 2006, 120 Stat. 3406.)
 
 **Editorial Notes**
 
@@ -117,19 +117,19 @@ Pub. L. 118–21, § 3(b), Nov. 13, 2023, 137 Stat. 110, provided that:
 
 1991—Pub. L. 102–40 renumbered section 3402 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (a)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-Subsecs. (a)(2), (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsecs. (a)(2), (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-1983—Subsec. (a)(1). Pub. L. 98–160, § 703(5)(A), substituted “the Administrator” for “he”.
+1983—Subsec. (a)(1). Pub. L. 98–160, § 703(5)(A), substituted “the Administrator” for “he”.
 
-Subsec. (a)(2). Pub. L. 98–160, § 703(5)(B), substituted “the discretion of the Administrator” for “his discretion”.
+Subsec. (a)(2). Pub. L. 98–160, § 703(5)(B), substituted “the discretion of the Administrator” for “his discretion”.
 
-Subsec. (b)(1). Pub. L. 98–160, § 703(5)(C), substituted “the individual” for “he”.
+Subsec. (b)(1). Pub. L. 98–160, § 703(5)(C), substituted “the individual” for “he”.
 
-Subsec. (c). Pub. L. 98–160, § 703(5)(D), substituted “member” for “man”.
+Subsec. (c). Pub. L. 98–160, § 703(5)(D), substituted “member” for “man”.
 
 1969—Subsec. (c). Pub. L. 91–24 substituted “sections 203, 205, 206 or 207 of title 18” for “section 281 or 283 of title 18, or a violation of section 99 of title 5”.
 
@@ -137,9 +137,9 @@ Subsec. (c). Pub. L. 98–160, § 703(5)(D), substituted “member” for “m
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–275, title V, § 508(b), Oct. 9, 1996, 110 Stat. 3344, provided that: “The amendments made by this section [amending this section] apply to any power of attorney filed with the Department of Veterans Affairs, regardless of the date of its execution.”
+Pub. L. 104–275, title V, § 508(b), Oct. 9, 1996, 110 Stat. 3344, provided that: “The amendments made by this section [amending this section] apply to any power of attorney filed with the Department of Veterans Affairs, regardless of the date of its execution.”
 
-## § 5903. Recognition with respect to particular claims
+## § 5903. Recognition with respect to particular claims
 
 **(a) In General.—** The Secretary may recognize any individual for the preparation, presentation, and prosecution of any particular claim for benefits under any of the laws administered by the Secretary if—
 
@@ -149,7 +149,7 @@ Pub. L. 104–275, title V, § 508(b), Oct. 9, 1996, 110 Stat. 3344, provided 
 
 **(b) Suspension.—** An individual recognized under this section shall be subject to the provisions of section 5904(b) of this title on the same basis as an individual recognized under section 5904(a) of this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1238, § 3403; renumbered § 5903, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 109–461, title I, § 101(a)(3), Dec. 22, 2006, 120 Stat. 3407.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1238, § 3403; renumbered § 5903, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 109–461, title I, § 101(a)(3), Dec. 22, 2006, 120 Stat. 3407.)
 
 **Editorial Notes**
 
@@ -159,11 +159,11 @@ Pub. L. 104–275, title V, § 508(b), Oct. 9, 1996, 110 Stat. 3344, provided 
 
 1991—Pub. L. 102–40 renumbered section 3403 of this title as this section.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and wherever appearing in pars. (1) and (2).
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and wherever appearing in pars. (1) and (2).
 
-Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in introductory provisions.
+Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in introductory provisions.
 
-## § 5904. Recognition of agents and attorneys generally
+## § 5904. Recognition of agents and attorneys generally
 
 **(a) Recognition.—**
 
@@ -247,7 +247,7 @@ Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” 
 
 **(3)** To the extent that past-due benefits are awarded in any proceeding before the Secretary, the Board of Veterans’ Appeals, or the United States Court of Appeals for Veterans Claims, the Secretary may direct that payment of any fee to an agent or attorney under a fee arrangement described in paragraph (1) be made out of such past-due benefits. In no event may the Secretary withhold for the purpose of such payment any portion of benefits payable for a period after the date of the final decision of the Secretary, the Board of Veterans’ Appeals, or Court of Appeals for Veterans Claims making (or ordering the making of) the award.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1238, § 3404; Pub. L. 99–576, title VII, § 701(80), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 100–687, div. A, title I, § 104(a), Nov. 18, 1988, 102 Stat. 4108; renumbered § 5904 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 102–405, title III, § 303(a), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–446, title V, § 504(a), Nov. 2, 1994, 108 Stat. 4663; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 109–461, title I, § 101(a)(1), (b), (c)(1), (d)–(f), Dec. 22, 2006, 120 Stat. 3405, 3407, 3408; Pub. L. 115–55, § 2(n), Aug. 23, 2017, 131 Stat. 1110.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1238, § 3404; Pub. L. 99–576, title VII, § 701(80), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 100–687, div. A, title I, § 104(a), Nov. 18, 1988, 102 Stat. 4108; renumbered § 5904 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 102–405, title III, § 303(a), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–446, title V, § 504(a), Nov. 2, 1994, 108 Stat. 4663; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 109–461, title I, § 101(a)(1), (b), (c)(1), (d)–(f), Dec. 22, 2006, 120 Stat. 3405, 3407, 3408; Pub. L. 115–55, § 2(n), Aug. 23, 2017, 131 Stat. 1110.)
 
 **Editorial Notes**
 
@@ -255,63 +255,63 @@ Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” 
 
 2017—Subsec. (c)(1), (2). Pub. L. 115–55 substituted “claimant is provided notice of the agency of original jurisdiction’s initial decision under section 5104 of this title” for “notice of disagreement is filed”.
 
-2006—Subsec. (a). Pub. L. 109–461, § 101(a)(1)(A), inserted heading.
+2006—Subsec. (a). Pub. L. 109–461, § 101(a)(1)(A), inserted heading.
 
-Subsec. (a)(1). Pub. L. 109–461, § 101(a)(1)(A)–(C), designated existing provisions as par. (1), substituted “Except as provided in paragraph (4), the Secretary may recognize” for “The Secretary may recognize”, and struck out last sentence which read as follows: “The Secretary may require that individuals, before being recognized under this section, show that they are of good moral character and in good repute, are qualified to render claimants valuable service, and otherwise are competent to assist claimants in presenting claims.”
+Subsec. (a)(1). Pub. L. 109–461, § 101(a)(1)(A)–(C), designated existing provisions as par. (1), substituted “Except as provided in paragraph (4), the Secretary may recognize” for “The Secretary may recognize”, and struck out last sentence which read as follows: “The Secretary may require that individuals, before being recognized under this section, show that they are of good moral character and in good repute, are qualified to render claimants valuable service, and otherwise are competent to assist claimants in presenting claims.”
 
-Subsec. (a)(2) to (6). Pub. L. 109–461, § 101(a)(1)(D), added pars. (2) to (6).
+Subsec. (a)(2) to (6). Pub. L. 109–461, § 101(a)(1)(D), added pars. (2) to (6).
 
-Subsec. (b). Pub. L. 109–461, § 101(b)(1), inserted heading.
+Subsec. (b). Pub. L. 109–461, § 101(b)(1), inserted heading.
 
-Subsec. (b)(6) to (9). Pub. L. 109–461, § 101(b)(2)–(4), added pars. (6) to (9).
+Subsec. (b)(6) to (9). Pub. L. 109–461, § 101(b)(2)–(4), added pars. (6) to (9).
 
-Subsec. (c)(1). Pub. L. 109–461, § 101(e)(1), substituted “paragraph (4)” for “paragraph (3)”.
+Subsec. (c)(1). Pub. L. 109–461, § 101(e)(1), substituted “paragraph (4)” for “paragraph (3)”.
 
-Pub. L. 109–461, § 101(c)(1), substituted “a notice of disagreement is filed with respect to” for “the Board of Veterans’ Appeals first makes a final decision in”, struck out “Such a fee may be charged, allowed, or paid in the case of services provided after such date only if an agent or attorney is retained with respect to such case before the end of the one-year period beginning on that date.” before “The limitation”, and inserted “fees charged, allowed, or paid for” after “does not apply to”.
+Pub. L. 109–461, § 101(c)(1), substituted “a notice of disagreement is filed with respect to” for “the Board of Veterans’ Appeals first makes a final decision in”, struck out “Such a fee may be charged, allowed, or paid in the case of services provided after such date only if an agent or attorney is retained with respect to such case before the end of the one-year period beginning on that date.” before “The limitation”, and inserted “fees charged, allowed, or paid for” after “does not apply to”.
 
-Subsec. (c)(2). Pub. L. 109–461, § 101(d), substituted “after a notice of disagreement is filed with respect to the case” for “after the Board first makes a final decision in the case” and “with the Secretary pursuant to regulations prescribed by the Secretary” for “with the Board at such time as may be specified by the Board” and struck out at end: “The Board, upon its own motion or the request of either party, may review such a fee agreement and may order a reduction in the fee called for in the agreement if the Board finds that the fee is excessive or unreasonable. A finding or order of the Board under the preceding sentence may be reviewed by the United States Court of Appeals for Veterans Claims under section 7263(d) of this title.”
+Subsec. (c)(2). Pub. L. 109–461, § 101(d), substituted “after a notice of disagreement is filed with respect to the case” for “after the Board first makes a final decision in the case” and “with the Secretary pursuant to regulations prescribed by the Secretary” for “with the Board at such time as may be specified by the Board” and struck out at end: “The Board, upon its own motion or the request of either party, may review such a fee agreement and may order a reduction in the fee called for in the agreement if the Board finds that the fee is excessive or unreasonable. A finding or order of the Board under the preceding sentence may be reviewed by the United States Court of Appeals for Veterans Claims under section 7263(d) of this title.”
 
-Subsec. (c)(3), (4). Pub. L. 109–461, § 101(e)(2), (3), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (c)(3), (4). Pub. L. 109–461, § 101(e)(2), (3), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (d). Pub. L. 109–461, § 101(f)(1), inserted heading.
+Subsec. (d). Pub. L. 109–461, § 101(f)(1), inserted heading.
 
-Subsec. (d)(1). Pub. L. 109–461, § 101(f)(2), (3), inserted “agent or” before “attorney” in two places and struck out “of this subsection” after “paragraph (2)”.
+Subsec. (d)(1). Pub. L. 109–461, § 101(f)(2), (3), inserted “agent or” before “attorney” in two places and struck out “of this subsection” after “paragraph (2)”.
 
-Subsec. (d)(2)(A). Pub. L. 109–461, § 101(f)(2), inserted “agent or” before “attorney” in introductory provisions and in cl. (i).
+Subsec. (d)(2)(A). Pub. L. 109–461, § 101(f)(2), inserted “agent or” before “attorney” in introductory provisions and in cl. (i).
 
-Subsec. (d)(2)(B). Pub. L. 109–461, § 101(f)(4), struck out “of this paragraph” after “subparagraph (A)”.
+Subsec. (d)(2)(B). Pub. L. 109–461, § 101(f)(4), struck out “of this paragraph” after “subparagraph (A)”.
 
-Subsec. (d)(3). Pub. L. 109–461, § 101(f)(5), substituted “fee to an agent or attorney” for “attorneys’ fee” and struck out “of this subsection” after “paragraph (1)”.
+Subsec. (d)(3). Pub. L. 109–461, § 101(f)(5), substituted “fee to an agent or attorney” for “attorneys’ fee” and struck out “of this subsection” after “paragraph (1)”.
 
 1998—Subsecs. (c)(2), (d)(3). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals” wherever appearing.
 
 1994—Subsec. (d)(2)(A). Pub. L. 103–446 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “A fee agreement referred to in paragraph (1) of this subsection is one under which (i) the amount of the fee payable to the attorney is to be paid to the attorney by the Secretary directly from any past-due benefits awarded on the basis of the claim, and (ii) the amount of the fee is contingent on whether or not the matter is resolved in a manner favorable to the claimant.”
 
-1992—Subsec. (c)(1). Pub. L. 102–405, § 303(a)(1), substituted “Except as provided in paragraph (3), in” for “In”.
+1992—Subsec. (c)(1). Pub. L. 102–405, § 303(a)(1), substituted “Except as provided in paragraph (3), in” for “In”.
 
-Subsec. (c)(3). Pub. L. 102–405, § 303(a)(2), added par. (3).
+Subsec. (c)(3). Pub. L. 102–405, § 303(a)(2), added par. (3).
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 3404 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 3404 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places in introductory provisions.
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places in introductory provisions.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in introductory provisions and in par. (4).
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in introductory provisions and in par. (4).
 
-Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in par. (4).
+Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in par. (4).
 
-Subsec. (c)(1). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Subsec. (c)(1). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-Subsec. (c)(2). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Subsec. (c)(2). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Pub. L. 102–40, § 402(d)(1), substituted “7263(d)” for “4063(d)”.
+Pub. L. 102–40, § 402(d)(1), substituted “7263(d)” for “4063(d)”.
 
-Subsec. (d)(2)(A), (3). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (d)(2)(A), (3). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
 1988—Subsecs. (c), (d). Pub. L. 100–687 added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: “The Administrator shall determine and pay fees to agents or attorneys recognized under this section in allowed claims for monetary benefits under laws administered by the Veterans’ Administration. Such fees—
 
@@ -331,9 +331,9 @@ Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary o
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–461, title I, § 101(h), Dec. 22, 2006, 120 Stat. 3408, provided that: “The amendments made by subsections (c)(1) and (d) [amending this section] shall take effect on the date that is 180 days after the date of the enactment of this Act [Dec. 22, 2006] and shall apply with respect to services of agents and attorneys that are provided with respect to cases in which notices of disagreement are filed on or after that date.”
+Pub. L. 109–461, title I, § 101(h), Dec. 22, 2006, 120 Stat. 3408, provided that: “The amendments made by subsections (c)(1) and (d) [amending this section] shall take effect on the date that is 180 days after the date of the enactment of this Act [Dec. 22, 2006] and shall apply with respect to services of agents and attorneys that are provided with respect to cases in which notices of disagreement are filed on or after that date.”
 
-Pub. L. 109–461, title I, § 101(i), Dec. 22, 2006, 120 Stat. 3408, provided that: “No assessments on fees may be collected under paragraph (6) of section 5904(a) of title 38, United States Code (as added by subsection (a)(1)(D) of this section), until the date on which the Secretary of Veterans Affairs prescribes the regulations [regulations prescribed effective June 23, 2008, see 73 F.R. 29851] required by the amendments made by this section [amending this section and sections 5902, 5903, and 5905 of this title].”
+Pub. L. 109–461, title I, § 101(i), Dec. 22, 2006, 120 Stat. 3408, provided that: “No assessments on fees may be collected under paragraph (6) of section 5904(a) of title 38, United States Code (as added by subsection (a)(1)(D) of this section), until the date on which the Secretary of Veterans Affairs prescribes the regulations [regulations prescribed effective June 23, 2008, see 73 F.R. 29851] required by the amendments made by this section [amending this section and sections 5902, 5903, and 5905 of this title].”
 
 **Effective Date of 1998 Amendment**
 
@@ -341,11 +341,11 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–446, title V, § 504(b), Nov. 2, 1994, 108 Stat. 4664, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fee agreements entered into on or after the date of the enactment of this Act [Nov. 2, 1994].”
+Pub. L. 103–446, title V, § 504(b), Nov. 2, 1994, 108 Stat. 4664, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fee agreements entered into on or after the date of the enactment of this Act [Nov. 2, 1994].”
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–405, title III, § 303(b), Oct. 9, 1992, 106 Stat. 1985, provided that: “Paragraph (3) [now (4)] of section 5904(c) of title 38, United States Code, as added by subsection (a), shall apply with respect to services of agents and attorneys provided after the date of the enactment of this Act [Oct. 9, 1992].”
+Pub. L. 102–405, title III, § 303(b), Oct. 9, 1992, 106 Stat. 1985, provided that: “Paragraph (3) [now (4)] of section 5904(c) of title 38, United States Code, as added by subsection (a), shall apply with respect to services of agents and attorneys provided after the date of the enactment of this Act [Oct. 9, 1992].”
 
 **Effective Date of 1988 Amendment**
 
@@ -357,15 +357,15 @@ Subsec. (d) of this section not to prevent award of fees and expenses under sect
 
 **Applicability to Attorneys’ Fees**
 
-Pub. L. 100–687, title IV, § 403, Nov. 18, 1988, 102 Stat. 4122, which provided that the amendment to subsec. (c) of this section by section 104(a) of Pub. L. 100–687 applied only to services of agents and attorneys in cases in which a notice of disagreement was filed with the Department of Veterans Affairs on or after Nov. 18, 1988, was repealed by Pub. L. 107–103, title VI, § 603(b), Dec. 27, 2001, 115 Stat. 999.
+Pub. L. 100–687, title IV, § 403, Nov. 18, 1988, 102 Stat. 4122, which provided that the amendment to subsec. (c) of this section by section 104(a) of Pub. L. 100–687 applied only to services of agents and attorneys in cases in which a notice of disagreement was filed with the Department of Veterans Affairs on or after Nov. 18, 1988, was repealed by Pub. L. 107–103, title VI, § 603(b), Dec. 27, 2001, 115 Stat. 999.
 
 [Repeal of section 403 of Pub. L. 100–687, formerly set out above, applicable to any appeal filed with the United States Court of Appeals for Veterans Claims on or after Dec. 27, 2001, or before that date but in which a final decision has not been made under section 7291 of this title as of that date, see section 603(d) of Pub. L. 107–103, set out as a note under section 7251 of this title.]
 
-## § 5905. Penalty for certain acts
+## § 5905. Penalty for certain acts
 
 Whoever wrongfully withholds from any claimant or beneficiary any part of a benefit or claim allowed and due to the claimant or beneficiary, shall be fined as provided in title 18, or imprisoned not more than one year, or both.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1239, § 3405; Pub. L. 99–576, title VII, § 701(81), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 100–687, div. A, title I, § 104(b), Nov. 18, 1988, 102 Stat. 4109; renumbered § 5905 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 5(c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 109–461, title I, § 101(g), Dec. 22, 2006, 120 Stat. 3408.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1239, § 3405; Pub. L. 99–576, title VII, § 701(81), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 100–687, div. A, title I, § 104(b), Nov. 18, 1988, 102 Stat. 4109; renumbered § 5905 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 5(c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 109–461, title I, § 101(g), Dec. 22, 2006, 120 Stat. 3408.)
 
 **Editorial Notes**
 
@@ -387,7 +387,7 @@ Pub. L. 102–83 substituted “1984” for “784”.
 
 Amendment by Pub. L. 100–687 effective Sept. 1, 1989, see section 401(a) of Pub. L. 100–687, set out as an Effective Date note under section 7251 of this title.
 
-## § 5906. Availability of legal assistance at Department facilities
+## § 5906. Availability of legal assistance at Department facilities
 
 **(a) In General.—** Not less frequently than three times each year, the Secretary shall facilitate the provision by a qualified legal assistance clinic of pro bono legal assistance described in subsection (c) to eligible individuals at not fewer than one medical center of the Department of Veterans Affairs, or such other facility of the Department as the Secretary considers appropriate, in each State.
 
@@ -431,13 +431,13 @@ Amendment by Pub. L. 100–687 effective Sept. 1, 1989, see section 401(a) of Pu
 
 **(f) Definition of Veterans Service Organization.—** In this section, the term “veterans service organization” means any organization recognized by the Secretary for the representation of veterans under section 5902 of this title.
 
-(Added Pub. L. 116–283, div. A, title V, § 548(a)(1), Jan. 1, 2021, 134 Stat. 3617.)
+(Added Pub. L. 116–283, div. A, title V, § 548(a)(1), Jan. 1, 2021, 134 Stat. 3617.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Pilot Program To Establish and Support Legal Assistance Clinics**
 
-Pub. L. 116–283, div. A, title V, § 548(b)–(e), Jan. 1, 2021, 134 Stat. 3618, provided that:
+Pub. L. 116–283, div. A, title V, § 548(b)–(e), Jan. 1, 2021, 134 Stat. 3618, provided that:
 
 > **“(b)**
 

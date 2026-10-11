@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2024—Pub. L. 118–159, div. A, title XVI, § 1602(a), Dec. 23, 2024, 138 Stat. 2158, added item 9531. Amendment was made pursuant to operation of section 102 of this title.
+2024—Pub. L. 118–159, div. A, title XVI, § 1602(a), Dec. 23, 2024, 138 Stat. 2158, added item 9531. Amendment was made pursuant to operation of section 102 of this title.
 
-2018—Pub. L. 115–232, div. A, title VIII, § 806(d)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 933 of this title as this chapter.
+2018—Pub. L. 115–232, div. A, title VIII, § 806(d)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 933 of this title as this chapter.
 
-1993—Pub. L. 103–160, div. A, title VIII, § 828(a)(9), Nov. 30, 1993, 107 Stat. 1713, struck out items 9531, “Authorization”, 9534, “Subsistence supplies: contract stipulations; place of delivery on inspection”, 9535, “Exceptional subsistence supplies: purchases without advertising”, 9537, “Military surveys and maps: assistance of United States mapping agencies”, 9538, “Unserviceable ammunition: exchange and reclamation”, and 9541, “Gratuitous services of officers of the Air Force Reserve”.
+1993—Pub. L. 103–160, div. A, title VIII, § 828(a)(9), Nov. 30, 1993, 107 Stat. 1713, struck out items 9531, “Authorization”, 9534, “Subsistence supplies: contract stipulations; place of delivery on inspection”, 9535, “Exceptional subsistence supplies: purchases without advertising”, 9537, “Military surveys and maps: assistance of United States mapping agencies”, 9538, “Unserviceable ammunition: exchange and reclamation”, and 9541, “Gratuitous services of officers of the Air Force Reserve”.
 
-1982—Pub. L. 97–258, § 2(b)(13)(A), Sept. 13, 1982, 96 Stat. 1058, added item 9541.
+1982—Pub. L. 97–258, § 2(b)(13)(A), Sept. 13, 1982, 96 Stat. 1058, added item 9541.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Department of Air Force Program of Record for Commercial Weather Data**
 
-Pub. L. 119–60, div. A, title III, § 320, Dec. 18, 2025, 139 Stat. 812, provided that:
+Pub. L. 119–60, div. A, title III, § 320, Dec. 18, 2025, 139 Stat. 812, provided that:
 
 > **“(a) Establishment.—** Not later than September 30, 2027, the Secretary of the Air Force shall establish a program of record of the Department of the Air Force to—
 
@@ -53,7 +53,7 @@ Pub. L. 119–60, div. A, title III, § 320, Dec. 18, 2025, 139 Stat. 812, pro
 
 **Pilot Program To Commercialize Prototypes of the Department of the Air Force**
 
-Pub. L. 118–31, div. A, title II, § 230, Dec. 22, 2023, 137 Stat. 202, provided that:
+Pub. L. 118–31, div. A, title II, § 230, Dec. 22, 2023, 137 Stat. 202, provided that:
 
 > **“(a) In General.—** Not later than one year after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of the Air Force, acting through the Assistant Secretary of the Air Force for Acquisition, Technology, and Logistics, shall carry out a pilot program under which the Secretary identifies prototypes under development by the Department of the Air Force that have the potential to be developed into commercial products and provides support to qualified entities to carry out projects to commercialize such prototypes.
 
@@ -105,7 +105,7 @@ Pub. L. 118–31, div. A, title II, § 230, Dec. 22, 2023, 137 Stat. 202, prov
 
 **Authorization To Establish Technology Transition Program for Strategic Nuclear Deterrence**
 
-Pub. L. 118–31, div. A, title XVI, § 1639, Dec. 22, 2023, 137 Stat. 594, provided that:
+Pub. L. 118–31, div. A, title XVI, § 1639, Dec. 22, 2023, 137 Stat. 594, provided that:
 
 > **“(a) In General.—** The Commander of Air Force Global Strike Command may, through the use of a partnership intermediary, establish a program—
 
@@ -119,7 +119,7 @@ Pub. L. 118–31, div. A, title XVI, § 1639, Dec. 22, 2023, 137 Stat. 594, pr
 
 **Digital Transformation Commercial Software Acquisition**
 
-Pub. L. 117–263, div. A, title I, § 153, Dec. 23, 2022, 136 Stat. 2457, provided that:
+Pub. L. 117–263, div. A, title I, § 153, Dec. 23, 2022, 136 Stat. 2457, provided that:
 
 > **“(a) Procurement Authority.—** The Secretary of the Air Force may enter into one or more contracts for the procurement of commercial digital engineering and software tools to meet the digital transformation goals and objectives of the Department of the Air Force.
 
@@ -139,7 +139,7 @@ Pub. L. 117–263, div. A, title I, § 153, Dec. 23, 2022, 136 Stat. 2457, pro
 
 **Competitively Awarded Demonstrations and Tests of Electromagnetic Warfare Technology**
 
-Pub. L. 117–263, div. A, title II, § 217, Dec. 23, 2022, 136 Stat. 2474, provided that:
+Pub. L. 117–263, div. A, title II, § 217, Dec. 23, 2022, 136 Stat. 2474, provided that:
 
 > **“(a) Demonstrations and Tests Required.—** Not later than 270 days after the date of the enactment of this Act [Dec. 23, 2022], the Director of the Air Force Rapid Capabilities Office, in coordination with the Air Force Life Cycle Management Center, shall select one or more qualified entities under competitive processes to conduct demonstrations and tests of commercial electronics technology to determine whether technology currently exists that could enable the following electromagnetic warfare capabilities:
 
@@ -181,7 +181,7 @@ Pub. L. 117–263, div. A, title II, § 217, Dec. 23, 2022, 136 Stat. 2474, pr
 
 > **“(4)** a commercially available off-the-shelf item (as defined in section 104 of such title).”
 
-## § 9531. Commercial Augmentation Space Reserve
+## § 9531. Commercial Augmentation Space Reserve
 
 **(a) Program.—** The Secretary may carry out a program to be known as the “Commercial Augmentation Space Reserve” program. Under the program, the Secretary may include in a contract for the procurement of space products or services one or more provisions under which a qualified contractor agrees to provide additional space products or services to the Department of Defense on an as-needed basis under circumstances determined by the Secretary.
 
@@ -209,19 +209,19 @@ Pub. L. 117–263, div. A, title II, § 217, Dec. 23, 2022, 136 Stat. 2474, pr
 
 **(4)** The term “space products or services” means commercial products and commercial services (as those terms are defined in section 2.101 of the Federal Acquisition Regulation) and noncommercial products and noncommercial services offered by commercial companies that operate to, through, or from space, including any required terrestrial ground, support, and network systems and associated services that can be used to support military functions and missions.
 
-(Added Pub. L. 118–159, div. A, title XVI, § 1602(a), Dec. 23, 2024, 138 Stat. 2158; amended Pub. L. 119–60, div. A, title XVII, § 1701(a)(39), Dec. 18, 2025, 139 Stat. 1210.)
+(Added Pub. L. 118–159, div. A, title XVI, § 1602(a), Dec. 23, 2024, 138 Stat. 2158; amended Pub. L. 119–60, div. A, title XVII, § 1701(a)(39), Dec. 18, 2025, 139 Stat. 1210.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 9531, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, authorized Secretary of the Air Force to procure aircraft and equipment and facilities necessary for the maintenance and operation of the Air Force, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 823(2), Nov. 30, 1993, 107 Stat. 1707.
+A prior section 9531, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, authorized Secretary of the Air Force to procure aircraft and equipment and facilities necessary for the maintenance and operation of the Air Force, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 823(2), Nov. 30, 1993, 107 Stat. 1707.
 
 **Amendments**
 
 2025—Pub. L. 119–60 struck out period after “Reserve” in section catchline.
 
-## § 9532. Factories, arsenals, and depots: manufacture at
+## § 9532. Factories, arsenals, and depots: manufacture at
 
 The Secretary of the Air Force may have supplies needed for the Department of the Air Force made in factories, arsenals, or depots owned by the United States, so far as those factories, arsenals, or depots can make those supplies on an economical basis.
 
@@ -231,17 +231,17 @@ The Secretary of the Air Force may have supplies needed for the Department of th
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9532 | 5:626–2(e). | Sept. 19, 1951, ch. 407, § 101(e), 65 Stat. 327. |
+| 9532 | 5:626–2(e). | Sept. 19, 1951, ch. 407, § 101(e), 65 Stat. 327. |
 
 The word “made” is substituted for the words “manufactured or produced”. The words “United States” are substituted for the word “Government”.
 
-## [§§ 9534, 9535. Repealed. Pub. L. 103–160, div. A, title VIII, § 823(4), (5), Nov. 30, 1993, 107 Stat. 1707]
+## [§§ 9534, 9535. Repealed. Pub. L. 103–160, div. A, title VIII, § 823(4), (5), Nov. 30, 1993, 107 Stat. 1707]
 
 Section 9534, act Aug. 10, 1956, ch. 1041, 70A Stat. 576, related to provisions in contracts for subsistence supplies.
 
 Section 9535, act Aug. 10, 1956, ch. 1041, 70A Stat. 576, related to purchases without advertising of exceptional subsistence supplies.
 
-## § 9536. Equipment: bakeries, schools, kitchens, and mess halls
+## § 9536. Equipment: bakeries, schools, kitchens, and mess halls
 
 Money necessary for the following items for the use of enlisted members of the Air Force or the Space Force may be spent from appropriations for regular supplies:
 
@@ -251,7 +251,7 @@ Money necessary for the following items for the use of enlisted members of the A
 
 **(3)** Tableware and mess furniture for kitchens and mess halls.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 576; Pub. L. 116–283, div. A, title IX, § 923(e)(1), Jan. 1, 2021, 134 Stat. 3816.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 576; Pub. L. 116–283, div. A, title IX, § 923(e)(1), Jan. 1, 2021, 134 Stat. 3816.)
 
 **Historical and Revision Notes**
 
@@ -259,7 +259,7 @@ Money necessary for the following items for the use of enlisted members of the A
 |---|---|---|
 | 9536 | 10:1334. | June 13, 1890, ch. 423 (1st proviso under “Quartermaster’s De- partment”), 26 Stat. 152. |
 
-The words “Money necessary \* \* \* may be spent” are substituted for the words “There may be expended \* \* \* the amounts required”. The word “bakeries” is substituted for the words “bake house to carry on post bakeries”. The words “each and all” are omitted as surplusage.
+The words “Money necessary \* \* \* may be spent” are substituted for the words “There may be expended \* \* \* the amounts required”. The word “bakeries” is substituted for the words “bake house to carry on post bakeries”. The words “each and all” are omitted as surplusage.
 
 **Editorial Notes**
 
@@ -267,13 +267,13 @@ The words “Money necessary \* \* \* may be spent” are substituted for th
 
 2021—Pub. L. 116–283 inserted “or the Space Force” after “the Air Force” in introductory provisions.
 
-## [§§ 9537, 9538. Repealed. Pub. L. 103–160, div. A, title VIII, § 823(6), (7), Nov. 30, 1993, 107 Stat. 1707]
+## [§§ 9537, 9538. Repealed. Pub. L. 103–160, div. A, title VIII, § 823(6), (7), Nov. 30, 1993, 107 Stat. 1707]
 
-Section 9537, acts Aug. 10, 1956, ch. 1041, 70A Stat. 576; Nov. 2, 1966, Pub. L. 89–718, § 8(a), 80 Stat. 1117; Dec. 12, 1980, Pub. L. 96–513, title V, § 514(13), 94 Stat. 2936, related to assistance of United States mapping agencies in making and developing military surveys and maps.
+Section 9537, acts Aug. 10, 1956, ch. 1041, 70A Stat. 576; Nov. 2, 1966, Pub. L. 89–718, § 8(a), 80 Stat. 1117; Dec. 12, 1980, Pub. L. 96–513, title V, § 514(13), 94 Stat. 2936, related to assistance of United States mapping agencies in making and developing military surveys and maps.
 
-Section 9538, acts Aug. 10, 1956, ch. 1041, 70A Stat. 576; Dec. 12, 1980, Pub. L. 96–513, title V, § 514(14), 94 Stat. 2936, related to exchange and reclamation of unserviceable ammunition by Secretary of the Air Force.
+Section 9538, acts Aug. 10, 1956, ch. 1041, 70A Stat. 576; Dec. 12, 1980, Pub. L. 96–513, title V, § 514(14), 94 Stat. 2936, related to exchange and reclamation of unserviceable ammunition by Secretary of the Air Force.
 
-## § 9540. Architectural and engineering services
+## § 9540. Architectural and engineering services
 
 **(a)** Whenever he considers that it is advantageous to the national defense and that existing facilities of the Department of the Air Force are inadequate, the Secretary of the Air Force may, by contract or otherwise, employ the architectural or engineering services of any person outside that Department for producing and delivering designs, plans, drawings, and specifications needed for any public works or utilities project of the Department.
 
@@ -281,13 +281,13 @@ Section 9538, acts Aug. 10, 1956, ch. 1041, 70A Stat. 576; Dec. 12, 1980, Pub. L
 
 **(c)** Sections 305, 3324, and 7204, chapter 51, and subchapters III, IV, and VI of chapter 53 of title 5 do not apply to employment under this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 577; Pub. L. 89–718, § 28, Nov. 2, 1966, 80 Stat. 1119; Pub. L. 95–454, title VII, § 703(c)(3), title VIII, § 801(a)(3)(I), Oct. 13, 1978, 92 Stat. 1217, 1222; Pub. L. 96–513, title V, § 514(15), Dec. 12, 1980, 94 Stat. 2936; Pub. L. 118–31, div. B, title XXVIII, § 2881(c), Dec. 22, 2023, 137 Stat. 780.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 577; Pub. L. 89–718, § 28, Nov. 2, 1966, 80 Stat. 1119; Pub. L. 95–454, title VII, § 703(c)(3), title VIII, § 801(a)(3)(I), Oct. 13, 1978, 92 Stat. 1217, 1222; Pub. L. 96–513, title V, § 514(15), Dec. 12, 1980, 94 Stat. 2936; Pub. L. 118–31, div. B, title XXVIII, § 2881(c), Dec. 22, 2023, 137 Stat. 780.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9540(a) | 5:221 (1st sentence, less last 15 words). | Aug. 7, 1939, ch. 511, § 2, 53 Stat. 1240. |
+| 9540(a) | 5:221 (1st sentence, less last 15 words). | Aug. 7, 1939, ch. 511, § 2, 53 Stat. 1240. |
 | 9540(b) | 5:221 (less 1st sentence). |  |
 | 9540(c) | 5:221 (last 15 words of 1st sentence). |  |
 
@@ -303,9 +303,9 @@ In subsection (c), reference is made in substance to the Classification Act of 1
 
 1980—Subsec. (c). Pub. L. 96–513 substituted “and 7204, chapter 51, and subchapters III, IV, and VI of chapter 53 of title 5” for “5101–5115, 5331–5338, 5341, 5342, and 7204 of title 5 and subchapter VI of chapter 53 of such title 5”.
 
-1978—Subsec. (c). Pub. L. 95–454, § 801(a)(3)(I), inserted reference to subchapter VI of chapter 53 of title 5.
+1978—Subsec. (c). Pub. L. 95–454, § 801(a)(3)(I), inserted reference to subchapter VI of chapter 53 of title 5.
 
-Pub. L. 95–454, § 703(c)(3), substituted “7204” for “7154”.
+Pub. L. 95–454, § 703(c)(3), substituted “7204” for “7154”.
 
 1966—Subsec. (c). Pub. L. 89–718 substituted “Sections 305, 3324, 5101–5115, 5331–5338, 5341, 5342, and 7154 of title 5” for “Sections 1071–1153 of title 5”.
 
@@ -321,6 +321,6 @@ Amendment by section 703(c)(3) of Pub. L. 95–454 effective 90 days after Oct. 
 
 Amendment by section 801(a)(3)(I) of Pub. L. 95–454 effective on first day of first applicable pay period beginning on or after 90th day after Oct. 13, 1978, see section 801(a)(4) of Pub. L. 95–454, set out as an Effective Date note under section 5361 of Title 5.
 
-## [§ 9541. Repealed. Pub. L. 103–160, div. A, title VIII, § 822(d)(2), Nov. 30, 1993, 107 Stat. 1707]
+## [§ 9541. Repealed. Pub. L. 103–160, div. A, title VIII, § 822(d)(2), Nov. 30, 1993, 107 Stat. 1707]
 
-Section, added Pub. L. 97–258, § 2(b)(13)(B), Sept. 13, 1982, 96 Stat. 1058, related to gratuitous services of officers of Air Force Reserve. See section 10212 of this title.
+Section, added Pub. L. 97–258, § 2(b)(13)(B), Sept. 13, 1982, 96 Stat. 1058, related to gratuitous services of officers of Air Force Reserve. See section 10212 of this title.

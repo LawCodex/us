@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERALLY
 
-### § 4801. Findings and purposes
+### § 4801. Findings and purposes
 
 **(a) Findings** The Congress finds and declares that—
 
@@ -41,7 +41,7 @@ retrieved: 2026-10-11
 
 **(6)** to provide authorization of appropriations for the Department of State to carry out its responsibilities in the area of security and counterterrorism, and in particular to finance the acquisition and improvements of United States Government missions abroad, including real property, buildings, facilities, and communications, information, and security systems.
 
-(Pub. L. 99–399, title I, § 102, Aug. 27, 1986, 100 Stat. 855; Pub. L. 101–246, title I, § 115(a), Feb. 16, 1990, 104 Stat. 22; Pub. L. 103–236, title I, § 162(g)(1), Apr. 30, 1994, 108 Stat. 406; Pub. L. 117–263, div. I, title XCIII, § 9302(c)(1), Dec. 23, 2022, 136 Stat. 3883.)
+(Pub. L. 99–399, title I, § 102, Aug. 27, 1986, 100 Stat. 855; Pub. L. 101–246, title I, § 115(a), Feb. 16, 1990, 104 Stat. 22; Pub. L. 103–236, title I, § 162(g)(1), Apr. 30, 1994, 108 Stat. 406; Pub. L. 117–263, div. I, title XCIII, § 9302(c)(1), Dec. 23, 2022, 136 Stat. 3883.)
 
 **Editorial Notes**
 
@@ -51,9 +51,9 @@ This chapter, referred to in subsec. (b), was in the original “titles I throug
 
 **Amendments**
 
-2022—Subsec. (b)(3). Pub. L. 117–263, § 9302(c)(1)(A), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to promote strengthened security measures and to provide for the accountability of United States Government personnel with security-related responsibilities;”.
+2022—Subsec. (b)(3). Pub. L. 117–263, § 9302(c)(1)(A), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to promote strengthened security measures and to provide for the accountability of United States Government personnel with security-related responsibilities;”.
 
-Subsec. (b)(4) to (6). Pub. L. 117–263, § 9302(c)(1)(B), (C), added par. (4) and redesignated pars. (4) and (5) as (5) and (6), respectively.
+Subsec. (b)(4) to (6). Pub. L. 117–263, § 9302(c)(1)(B), (C), added par. (4) and redesignated pars. (4) and (5) as (5) and (6), respectively.
 
 1994—Subsec. (b)(2) to (6). Pub. L. 103–236 struck out par. (2) and redesignated pars. (3) to (6) as (2) to (5), respectively. Prior to amendment, par. (2) read as follows: “to provide for an Assistant Secretary of State to head the Bureau of Diplomatic Security of the Department of State, and to set forth certain provisions relating to the Diplomatic Security Service of the Department of State;”.
 
@@ -67,23 +67,23 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–263, div. I, title XCIII, § 9301(a), Dec. 23, 2022, 136 Stat. 3879, provided that: “This section [amending section 4865 of this title, enacting provisions set out as a note under section 4865 of this title, and amending provisions set out as notes under sections 1475g and 4865 of this title] may be cited as the ‘Secure Embassy Construction and Counterterrorism Act of 2022’.”
+Pub. L. 117–263, div. I, title XCIII, § 9301(a), Dec. 23, 2022, 136 Stat. 3879, provided that: “This section [amending section 4865 of this title, enacting provisions set out as a note under section 4865 of this title, and amending provisions set out as notes under sections 1475g and 4865 of this title] may be cited as the ‘Secure Embassy Construction and Counterterrorism Act of 2022’.”
 
-Pub. L. 117–263, div. I, title XCIII, § 9302(a), Dec. 23, 2022, 136 Stat. 3882, provided that: “This section [amending this section and sections 4003, 4804, and 4831 to 4835 of this title and enacting provisions set out as a note under this section] may be cited as the ‘Diplomatic Support and Security Act of 2022’.”
+Pub. L. 117–263, div. I, title XCIII, § 9302(a), Dec. 23, 2022, 136 Stat. 3882, provided that: “This section [amending this section and sections 4003, 4804, and 4831 to 4835 of this title and enacting provisions set out as a note under this section] may be cited as the ‘Diplomatic Support and Security Act of 2022’.”
 
 **Short Title of 1999 Amendment**
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 601], Nov. 29, 1999, 113 Stat. 1536, 1501A–451, provided that: “This title [enacting section 4865 of this title, amending section 4831 of this title, and enacting provisions set out as notes under section 4865 of this title] may be cited as the ‘Secure Embassy Construction and Counterterrorism Act of 1999’.”
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 601], Nov. 29, 1999, 113 Stat. 1536, 1501A–451, provided that: “This title [enacting section 4865 of this title, amending section 4831 of this title, and enacting provisions set out as notes under section 4865 of this title] may be cited as the ‘Secure Embassy Construction and Counterterrorism Act of 1999’.”
 
 **Short Title**
 
-Pub. L. 99–399, § 1, Aug. 27, 1986, 100 Stat. 853, provided that: “This Act [enacting this chapter and sections 2656e, 2711, 2712, 2780, 3244, and 4901 to 4904 of this title, sections 5569 and 5570 of Title 5, Government Organization and Employees, sections 1051, 1095, and 2181 to 2185 of Title 10, Armed Forces, section 2331 of Title 18, Crimes and Criminal Procedure, section 1226 of Title 33, Navigation and Navigable Waters, sections 559 and 1013 of Title 37, Pay and Allowances of the Uniformed Services, sections 2160b, 2160c, and 2169 of Title 42, The Public Health and Welfare, and sections 1801 to 1809 of Title 46, Appendix, Shipping, amending sections 300, 2151a, 2349aa–2, 2349aa–4, 2349aa–7, 2502, 2652, 2708, 3929, and 3929a of this title, section 208 of Title 3, The President, sections 5315 and 6325 of Title 5, sections 2 and 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, sections 793, 794, and 3671 of Title 18, and section 4605 of Title 50, War and National Defense, enacting provisions set out as notes under sections 2708 and 4901 of this title, section 5569 of Title 5, sections 133, 1051, 1095, and 2181 of Title 10, section 559 of Title 37, section 2169 of Title 42, and section 1801 of Title 46, Appendix, and amending a provision set out as a note under section 2651 of this title] may be cited as the ‘Omnibus Diplomatic Security and Antiterrorism Act of 1986’.”
+Pub. L. 99–399, § 1, Aug. 27, 1986, 100 Stat. 853, provided that: “This Act [enacting this chapter and sections 2656e, 2711, 2712, 2780, 3244, and 4901 to 4904 of this title, sections 5569 and 5570 of Title 5, Government Organization and Employees, sections 1051, 1095, and 2181 to 2185 of Title 10, Armed Forces, section 2331 of Title 18, Crimes and Criminal Procedure, section 1226 of Title 33, Navigation and Navigable Waters, sections 559 and 1013 of Title 37, Pay and Allowances of the Uniformed Services, sections 2160b, 2160c, and 2169 of Title 42, The Public Health and Welfare, and sections 1801 to 1809 of Title 46, Appendix, Shipping, amending sections 300, 2151a, 2349aa–2, 2349aa–4, 2349aa–7, 2502, 2652, 2708, 3929, and 3929a of this title, section 208 of Title 3, The President, sections 5315 and 6325 of Title 5, sections 2 and 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, sections 793, 794, and 3671 of Title 18, and section 4605 of Title 50, War and National Defense, enacting provisions set out as notes under sections 2708 and 4901 of this title, section 5569 of Title 5, sections 133, 1051, 1095, and 2181 of Title 10, section 559 of Title 37, section 2169 of Title 42, and section 1801 of Title 46, Appendix, and amending a provision set out as a note under section 2651 of this title] may be cited as the ‘Omnibus Diplomatic Security and Antiterrorism Act of 1986’.”
 
-Pub. L. 99–399, title I, § 101, Aug. 27, 1986, 100 Stat. 855, provided that: “Titles I through IV of this Act [enacting this chapter and amending sections 300, 2349aa–4, 2652, 3929, and 3929a of this title, section 208 of Title 3, The President, section 5315 of Title 5, Government Organization and Employees, and sections 2 and 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5] may be cited as the ‘Diplomatic Security Act’.”
+Pub. L. 99–399, title I, § 101, Aug. 27, 1986, 100 Stat. 855, provided that: “Titles I through IV of this Act [enacting this chapter and amending sections 300, 2349aa–4, 2652, 3929, and 3929a of this title, section 208 of Title 3, The President, section 5315 of Title 5, Government Organization and Employees, and sections 2 and 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5] may be cited as the ‘Diplomatic Security Act’.”
 
 **Findings**
 
-Pub. L. 117–263, div. I, title XCIII, § 9302(b), Dec. 23, 2022, 136 Stat. 3882, provided that:
+Pub. L. 117–263, div. I, title XCIII, § 9302(b), Dec. 23, 2022, 136 Stat. 3882, provided that:
 
 > “Congress makes the following findings:
 
@@ -109,7 +109,7 @@ Pub. L. 117–263, div. I, title XCIII, § 9302(b), Dec. 23, 2022, 136 Stat. 3
 
 > **“(7)** Given these stakes, Congress has a responsibility to empower, support, and hold the Department accountable for implementing an aggressive strategy to ensure a robust overseas presence that mitigates potential risks and adequately considers the myriad direct and indirect consequences of a lack of diplomatic presence.”
 
-### § 4802. Responsibility of Secretary of State
+### § 4802. Responsibility of Secretary of State
 
 **(a) Security functions**
 
@@ -151,9 +151,9 @@ Functions and responsibilities exercised by the Office of Security, Department o
 
 **(x)** Conduct of investigations relating to protection of foreign officials and diplomatic personnel and foreign missions in the United States, suitability for employment, employee security, illegal passport and visa issuance or use, and other investigations, as authorized by law.
 
-**(xi)** Carrying out the rewards program for information concerning international terrorism authorized by section 2708(a) 1
+**(xi)** Carrying out the rewards program for information concerning international terrorism authorized by section 2708(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -193,13 +193,13 @@ Management and development of antiterrorism assistance programs to assist foreig
 
 **(1)** The Secretary of State shall—
 
-**(A)** have full responsibility for the coordination of all United States Government personnel assigned to diplomatic or consular posts or other United States missions abroad pursuant to United States Government authorization (except for facilities, installations, or personnel under the command of a United States area military commander) 2
+**(A)** have full responsibility for the coordination of all United States Government personnel assigned to diplomatic or consular posts or other United States missions abroad pursuant to United States Government authorization (except for facilities, installations, or personnel under the command of a United States area military commander) 2
 
-<sup>2</sup>  So in original. Probably should be followed by “; and”.
+<sup>2</sup> So in original. Probably should be followed by “; and”.
 
-**(B)** establish appropriate overseas staffing levels for all such posts or missions for all Federal agencies with activities abroad (except for personnel and activities under the command of a United States area military commander or regional inspector general offices under the jurisdiction of the inspector 3
+**(B)** establish appropriate overseas staffing levels for all such posts or missions for all Federal agencies with activities abroad (except for personnel and activities under the command of a United States area military commander or regional inspector general offices under the jurisdiction of the inspector 3
 
-<sup>3</sup>  So in original. Probably should be capitalized.
+<sup>3</sup> So in original. Probably should be capitalized.
 
 General, Agency for International Development).
 
@@ -209,15 +209,15 @@ General, Agency for International Development).
 
 As used in this subchapter and subchapter III, the term “Federal agency” includes any department or agency of the United States Government.
 
-(Pub. L. 99–399, title I, § 103, Aug. 27, 1986, 100 Stat. 856; Pub. L. 100–202, § 101(e) [title II, § 201], Dec. 22, 1987, 101 Stat. 1329–131, 1329–141; Pub. L. 100–461, title II, § 201, Oct. 1, 1988, 102 Stat. 2268–10; Pub. L. 101–246, title I, § 115(b), Feb. 16, 1990, 104 Stat. 22; Pub. L. 103–236, title I, § 162(g)(2), Apr. 30, 1994, 108 Stat. 406; Pub. L. 103–415, § 1(f)(4)(A)(i), Oct. 25, 1994, 108 Stat. 4300; Pub. L. 107–228, div. A, title V, § 505(a), Sept. 30, 2002, 116 Stat. 1393; Pub. L. 118–159, div. G, title LXXV, § 7503, Dec. 23, 2024, 138 Stat. 2546.)
+(Pub. L. 99–399, title I, § 103, Aug. 27, 1986, 100 Stat. 856; Pub. L. 100–202, § 101(e) [title II, § 201], Dec. 22, 1987, 101 Stat. 1329–131, 1329–141; Pub. L. 100–461, title II, § 201, Oct. 1, 1988, 102 Stat. 2268–10; Pub. L. 101–246, title I, § 115(b), Feb. 16, 1990, 104 Stat. 22; Pub. L. 103–236, title I, § 162(g)(2), Apr. 30, 1994, 108 Stat. 406; Pub. L. 103–415, § 1(f)(4)(A)(i), Oct. 25, 1994, 108 Stat. 4300; Pub. L. 107–228, div. A, title V, § 505(a), Sept. 30, 2002, 116 Stat. 1393; Pub. L. 118–159, div. G, title LXXV, § 7503, Dec. 23, 2024, 138 Stat. 2546.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2708 of this title, referred to in subsec. (a)(2)(B)(xi), was amended generally by Pub. L. 105–323, title I, § 101, Oct. 30, 1998, 112 Stat. 3029, and, as so amended, provisions authorizing awards, formerly contained in section 2708(a), are now contained in section 2708(b).
+Section 2708 of this title, referred to in subsec. (a)(2)(B)(xi), was amended generally by Pub. L. 105–323, title I, § 101, Oct. 30, 1998, 112 Stat. 3029, and, as so amended, provisions authorizing awards, formerly contained in section 2708(a), are now contained in section 2708(b).
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(2)(G), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 8 of part II of the Act is classified generally to part VIII (§ 2349aa et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(2)(G), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 8 of part II of the Act is classified generally to part VIII (§ 2349aa et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Amendments**
 
@@ -231,7 +231,7 @@ Pub. L. 103–236 designated existing provisions as par. (1), redesignated forme
 
 1990—Subsecs. (b) to (d). Pub. L. 101–246 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-1988—Subsec. (b)(2). Pub. L. 100–461 inserted “or regional inspector general offices under the jurisdiction of the inspector General, Agency for International Development” after “commander”, and substituted a period for “; and” at end.
+1988—Subsec. (b)(2). Pub. L. 100–461 inserted “or regional inspector general offices under the jurisdiction of the inspector General, Agency for International Development” after “commander”, and substituted a period for “; and” at end.
 
 Subsec. (b)(3). Pub. L. 100–461 struck out par. (3) which read as follows: “establish, notwithstanding any other provision of law, appropriate overseas staffing levels of the Regional Offices of the Inspector General of the Agency for International Development in effective consultation with the Inspector General of the Agency: *Provided*, That the authority of the Secretary of State shall be exercised only by the Secretary and shall not be delegated to a subordinate officer of the Department of State: *Provided further*, That the Inspector General must report to the appropriate committees of both Houses of the Congress within thirty days the denial by the Secretary of State of a request by the Inspector General to increase or reduce an existing position level of a regional office: *Provided further*, That the total number of positions authorized for the Office of the Inspector General in Washington and overseas shall be determined by the Inspector General within the limitation of the appropriations level provided.”
 
@@ -245,15 +245,15 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 
 **Overseas Security Briefings**
 
-Pub. L. 117–81, div. E, title LII, § 5210, Dec. 27, 2021, 135 Stat. 2358, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of State shall revise the Foreign Affairs Manual to stipulate that information on the current threat environment shall be provided to all United States Government employees under chief of mission authority traveling to a foreign country on official business. To the extent practicable, such material shall be provided to such employees prior to their arrival at a United States diplomatic post or as soon as possible thereafter.”
+Pub. L. 117–81, div. E, title LII, § 5210, Dec. 27, 2021, 135 Stat. 2358, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of State shall revise the Foreign Affairs Manual to stipulate that information on the current threat environment shall be provided to all United States Government employees under chief of mission authority traveling to a foreign country on official business. To the extent practicable, such material shall be provided to such employees prior to their arrival at a United States diplomatic post or as soon as possible thereafter.”
 
 **Direct Reporting**
 
-Pub. L. 114–323, title I, § 103, Dec. 16, 2016, 130 Stat. 1909, provided that: “The Assistant Secretary for Diplomatic Security shall report directly to the Secretary [of State], without being required to obtain the approval or concurrence of any other official of the Department [of State], as threats and circumstances require.”
+Pub. L. 114–323, title I, § 103, Dec. 16, 2016, 130 Stat. 1909, provided that: “The Assistant Secretary for Diplomatic Security shall report directly to the Secretary [of State], without being required to obtain the approval or concurrence of any other official of the Department [of State], as threats and circumstances require.”
 
 **Marine Corps Security Guard Program**
 
-Pub. L. 114–323, title I, § 131, Dec. 16, 2016, 130 Stat. 1914, provided that:
+Pub. L. 114–323, title I, § 131, Dec. 16, 2016, 130 Stat. 1914, provided that:
 
 > **“(a) In General.—** Pursuant to the responsibility of the Secretary [of State] for diplomatic security under section 103 of the Diplomatic Security Act (22 U.S.C. 4802; enacted as part of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (Public Law 99–399)), the Secretary, in consultation with the Secretary of Defense, shall conduct an annual review of the Marine Corps Security Guard Program, including the following:
 
@@ -267,7 +267,7 @@ Pub. L. 114–323, title I, § 131, Dec. 16, 2016, 130 Stat. 1914, provided th
 
 **Congressional Notification and Briefing Requirement on Ordered Evacuations of United States Embassies and Consulates Involving Support Provided by the Department of Defense**
 
-Pub. L. 114–92, div. A, title X, § 1091, Nov. 25, 2015, 129 Stat. 1018, provided that:
+Pub. L. 114–92, div. A, title X, § 1091, Nov. 25, 2015, 129 Stat. 1018, provided that:
 
 > **“(a) Notification Requirement.—** The Secretary of Defense and the Secretary of State shall provide notification to the appropriate congressional committees as soon as practicable upon the initiation of an ordered evacuation of a United States embassy or consulate involving support provided by the Department of Defense.
 
@@ -281,7 +281,7 @@ Pub. L. 114–92, div. A, title X, § 1091, Nov. 25, 2015, 129 Stat. 1018, pro
 
 **Personnel Security Program for Embassies in Critical Human Intelligence Threat Countries**
 
-Pub. L. 100–204, title I, § 155, Dec. 22, 1987, 101 Stat. 1353, as amended by Pub. L. 119–60, div. E, title V, § 5505, Dec. 18, 2025, 139 Stat. 1600, provided that:
+Pub. L. 100–204, title I, § 155, Dec. 22, 1987, 101 Stat. 1353, as amended by Pub. L. 119–60, div. E, title V, § 5505, Dec. 18, 2025, 139 Stat. 1600, provided that:
 
 > **“(a) Special Security Program.—** The Secretary of State shall develop and implement, within three months after the date of enactment of this Act [Dec. 22, 1987], a special personnel security program for personnel of the Department of State assigned to United States diplomatic and consular posts in critical human intelligence threat countries and countries designated by the Under Secretary of State for Management and for any individuals performing guard functions at those posts. Such program shall include—
 
@@ -305,7 +305,7 @@ Pub. L. 100–204, title I, § 155, Dec. 22, 1987, 101 Stat. 1353, as amended 
 
 [Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.]
 
-### § 4803. Designation of high risk, high threat posts
+### § 4803. Designation of high risk, high threat posts
 
 **(a) Initial designation**
 
@@ -335,21 +335,21 @@ The term “appropriate congressional committees” means the Committee on Forei
 
 **(B)** has mission physical security platforms that fall below the Department of State’s established standards.
 
-(Pub. L. 99–399, title I, § 104, as added Pub. L. 114–323, title I, § 101(a), Dec. 16, 2016, 130 Stat. 1907; amended Pub. L. 115–94, § 2(a), Dec. 18, 2017, 131 Stat. 2038.)
+(Pub. L. 99–399, title I, § 104, as added Pub. L. 114–323, title I, § 101(a), Dec. 16, 2016, 130 Stat. 1907; amended Pub. L. 115–94, § 2(a), Dec. 18, 2017, 131 Stat. 2038.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4803, Pub. L. 99–399, title I, § 104(a), Aug. 27, 1986, 100 Stat. 856, established Bureau of Diplomatic Security in Department of State, prior to repeal by Pub. L. 103–236, title I, § 162(g)(3), Apr. 30, 1994, 108 Stat. 407.
+A prior section 4803, Pub. L. 99–399, title I, § 104(a), Aug. 27, 1986, 100 Stat. 856, established Bureau of Diplomatic Security in Department of State, prior to repeal by Pub. L. 103–236, title I, § 162(g)(3), Apr. 30, 1994, 108 Stat. 407.
 
-A prior section 104 of Pub. L. 99–399 enacted this section and amended former section 2652 of this title and section 5315 of Title 5, Government Organization and Employees, prior to repeal by Pub. L. 103–236, title I, § 162(g)(3), Apr. 30, 1994, 108 Stat. 407.
+A prior section 104 of Pub. L. 99–399 enacted this section and amended former section 2652 of this title and section 5315 of Title 5, Government Organization and Employees, prior to repeal by Pub. L. 103–236, title I, § 162(g)(3), Apr. 30, 1994, 108 Stat. 407.
 
 **Amendments**
 
 2017—Subsec. (a). Pub. L. 115–94 inserted “and the Committees on Appropriations of the Senate and the House of Representatives” after “appropriate congressional committees”.
 
-### § 4804. Briefings on embassy security
+### § 4804. Briefings on embassy security
 
 **(a) Briefing** The Secretary shall provide monthly briefings to the appropriate congressional committees on—
 
@@ -385,7 +385,7 @@ If the Secretary determines that the national security interests of the United S
 
 **(2)** the Committee on Foreign Relations, the Committee on Armed Services, the Select Committee on Intelligence, and the Committee on Appropriations of the Senate.
 
-(Pub. L. 99–399, title I, § 105, as added Pub. L. 114–323, title I, § 101(a), Dec. 16, 2016, 130 Stat. 1908; amended Pub. L. 117–263, div. I, title XCIII, § 9302(c)(2), Dec. 23, 2022, 136 Stat. 3884; Pub. L. 119–60, div. E, title V, § 5503, Dec. 18, 2025, 139 Stat. 1600.)
+(Pub. L. 99–399, title I, § 105, as added Pub. L. 114–323, title I, § 101(a), Dec. 16, 2016, 130 Stat. 1908; amended Pub. L. 117–263, div. I, title XCIII, § 9302(c)(2), Dec. 23, 2022, 136 Stat. 3884; Pub. L. 119–60, div. E, title V, § 5503, Dec. 18, 2025, 139 Stat. 1600.)
 
 **Editorial Notes**
 
@@ -395,19 +395,19 @@ Title I of the Department of State Authorities Act, Fiscal Year 2017, referred t
 
 **Prior Provisions**
 
-A prior section 4804, Pub. L. 99–399, title I, § 105, Aug. 27, 1986, 100 Stat. 856, set out responsibilities of Assistant Secretary of State for Diplomatic Security, prior to repeal by Pub. L. 103–236, title I, § 162(g)(4), Apr. 30, 1994, 108 Stat. 407.
+A prior section 4804, Pub. L. 99–399, title I, § 105, Aug. 27, 1986, 100 Stat. 856, set out responsibilities of Assistant Secretary of State for Diplomatic Security, prior to repeal by Pub. L. 103–236, title I, § 162(g)(4), Apr. 30, 1994, 108 Stat. 407.
 
 **Amendments**
 
-2025—Subsec. (b)(2). Pub. L. 119–60 inserted “, detailing the national security value of reopening such post” after “the decision to open or reopen such post”.
+2025—Subsec. (b)(2). Pub. L. 119–60 inserted “, detailing the national security value of reopening such post” after “the decision to open or reopen such post”.
 
-2022—Subsec. (a)(1). Pub. L. 117–263, § 9302(c)(2)(A), in introductory provisions, substituted “progress towards opening or reopening a high risk, high threat post, and the risk to national security of the continued closure or any suspension of operations and remaining barriers to doing so” for “any plans to open or reopen a high risk, high threat post”.
+2022—Subsec. (a)(1). Pub. L. 117–263, § 9302(c)(2)(A), in introductory provisions, substituted “progress towards opening or reopening a high risk, high threat post, and the risk to national security of the continued closure or any suspension of operations and remaining barriers to doing so” for “any plans to open or reopen a high risk, high threat post”.
 
-Subsec. (a)(1)(A). Pub. L. 117–263, § 9302(c)(2)(B), inserted “the risk to United States national security of the post’s continued closure or suspension of operations,” after “national security of the United States,”.
+Subsec. (a)(1)(A). Pub. L. 117–263, § 9302(c)(2)(B), inserted “the risk to United States national security of the post’s continued closure or suspension of operations,” after “national security of the United States,”.
 
-Subsec. (a)(1)(C). Pub. L. 117–263, § 9302(c)(2)(C), inserted “the type and level of security threats such post could encounter, and” before “security ‘tripwires’ ”.
+Subsec. (a)(1)(C). Pub. L. 117–263, § 9302(c)(2)(C), inserted “the type and level of security threats such post could encounter, and” before “security ‘tripwires’ ”.
 
-### § 4805. Cooperation of other Federal agencies
+### § 4805. Cooperation of other Federal agencies
 
 **(a) Assistance**
 
@@ -421,7 +421,7 @@ Nothing contained in this chapter shall be construed to limit or impair the auth
 
 The Administrator of General Services is authorized to lease (to such extent or in such amounts as are provided in appropriation Acts) such amount of space in the United States as may be necessary for the Department of State to accommodate the personnel required to carry out this subchapter. The Department of State shall pay for such space at the rate established by the Administrator of General Services for space and related services.
 
-(Pub. L. 99–399, title I, § 106, Aug. 27, 1986, 100 Stat. 857.)
+(Pub. L. 99–399, title I, § 106, Aug. 27, 1986, 100 Stat. 857.)
 
 **Editorial Notes**
 
@@ -431,11 +431,11 @@ This chapter, referred to in subsec. (b), was in the original “titles I throug
 
 Executive Order 12333, referred to in subsec. (b), is Ex. Ord. No. 12333, Dec. 4, 1981, 46 F.R. 59941, which is set out as a note under section 3001 of Title 50, War and National Defense.
 
-### § 4806. Protection of foreign consulates
+### § 4806. Protection of foreign consulates
 
 The Secretary of State shall take into account security considerations in making determinations with respect to accreditation of all foreign consular personnel in the United States.
 
-(Pub. L. 99–399, title I, § 107, Aug. 27, 1986, 100 Stat. 858; Pub. L. 103–236, title I, § 162(g)(5), Apr. 30, 1994, 108 Stat. 407.)
+(Pub. L. 99–399, title I, § 107, Aug. 27, 1986, 100 Stat. 858; Pub. L. 103–236, title I, § 162(g)(5), Apr. 30, 1994, 108 Stat. 407.)
 
 **Editorial Notes**
 
@@ -449,7 +449,7 @@ The Secretary of State shall take into account security considerations in making
 
 Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
 
-### § 4807. Establishment of Visa and Passport Security Program in the Department of State
+### § 4807. Establishment of Visa and Passport Security Program in the Department of State
 
 **(a) Establishment**
 
@@ -459,7 +459,7 @@ There is established, within the Bureau of Diplomatic Security of the Department
 
 **(1) In general** The Assistant Secretary for Diplomatic Security, in coordination with the appropriate officials of the Bureau of Consular Affairs, the coordinator for counterterrorism, the National Counterterrorism Center, and the Department of Homeland Security, and consistent with the strategy mandated by section 7201,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall ensure the preparation of a strategic plan to target and disrupt individuals and organizations, within the United States and in foreign countries, that are involved in the fraudulent production, distribution, use, or other similar activity—
 
@@ -507,13 +507,13 @@ Identify foreign countries that need technical assistance, such as law reform, a
 
 Randomly inspect visa and passport applications for accuracy, efficiency, and fraud, especially at high terrorist threat posts, in order to prevent a recurrence of the issuance of visas to those who submit incomplete, fraudulent, or otherwise irregular or incomplete applications.
 
-**(d) Report** Not later than 90 days after the date on which the strategy required under section 7201 <sup>1</sup> is submitted to Congress, the Assistant Secretary for Diplomatic Security shall submit to Congress a report containing—
+**(d) Report** Not later than 90 days after the date on which the strategy required under section 7201 <sup>1</sup> is submitted to Congress, the Assistant Secretary for Diplomatic Security shall submit to Congress a report containing—
 
 **(1)** a description of the strategic plan prepared under subsection (b); and
 
 **(2)** an evaluation of the feasibility of establishing civil service positions in field offices of the Bureau of Diplomatic Security to investigate visa and passport fraud, including an evaluation of whether to allow diplomatic security agents to convert to civil service officers to fill such positions.
 
-(Pub. L. 108–458, title VII, § 7218, Dec. 17, 2004, 118 Stat. 3833.)
+(Pub. L. 108–458, title VII, § 7218, Dec. 17, 2004, 118 Stat. 3833.)
 
 **Editorial Notes**
 
@@ -521,7 +521,7 @@ Randomly inspect visa and passport applications for accuracy, efficiency, and fr
 
 Section 7201, referred to in subsecs. (b)(1) and (d), is section 7201 of Pub. L. 108–458, which enacted section 1776 of Title 8, Aliens and Nationality, and provisions set out as notes under section 1776 of Title 8 and sections 3024 and 3056 of Title 50, War and National Defense.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (b)(2)(B), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 8 of part II of the Act is classified generally to part VIII (§ 2349aa et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b)(2)(B), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 8 of part II of the Act is classified generally to part VIII (§ 2349aa et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Codification**
 
@@ -529,11 +529,11 @@ Section was enacted as part of the Intelligence Reform and Terrorism Prevention 
 
 ## SUBCHAPTER II—PERSONNEL
 
-### § 4821. Diplomatic Security Service
+### § 4821. Diplomatic Security Service
 
 The Secretary of State may establish a Diplomatic Security Service, which shall perform such functions as the Secretary may determine.
 
-(Pub. L. 99–399, title II, § 201, Aug. 27, 1986, 100 Stat. 858; Pub. L. 103–236, title I, § 162(g)(7), Apr. 30, 1994, 108 Stat. 407.)
+(Pub. L. 99–399, title II, § 201, Aug. 27, 1986, 100 Stat. 858; Pub. L. 103–236, title I, § 162(g)(7), Apr. 30, 1994, 108 Stat. 407.)
 
 **Editorial Notes**
 
@@ -549,7 +549,7 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 
 **Fairness in Issuance of Tactical Gear to Diplomatic Security Service Personnel**
 
-Pub. L. 119–60, div. H, title LXXXIII, § 8364, Dec. 18, 2025, 139 Stat. 1888, provided that:
+Pub. L. 119–60, div. H, title LXXXIII, § 8364, Dec. 18, 2025, 139 Stat. 1888, provided that:
 
 > **“(a) In general**
 
@@ -561,7 +561,7 @@ Pub. L. 119–60, div. H, title LXXXIII, § 8364, Dec. 18, 2025, 139 Stat. 188
 
 **Sexual Assault Prevention and Response Victim Advocates**
 
-Pub. L. 117–263, div. I, title XCII, § 9202(c), Dec. 23, 2022, 136 Stat. 3864, provided that:
+Pub. L. 117–263, div. I, title XCII, § 9202(c), Dec. 23, 2022, 136 Stat. 3864, provided that:
 
 > “The Secretary [of State] shall ensure that the Diplomatic Security Service’s Victims’ Resource Advocacy Program—
 
@@ -575,11 +575,11 @@ Pub. L. 117–263, div. I, title XCII, § 9202(c), Dec. 23, 2022, 136 Stat. 38
 
 > **“(3)** uses funds available to the Department to provide emergency food, shelter, clothing, and transportation for victims involved in matters being investigated by the Diplomatic Security Service.”
 
-### § 4822. Director of Diplomatic Security Service
+### § 4822. Director of Diplomatic Security Service
 
 Any such Diplomatic Security Service should be headed by a Director designated by the Secretary of State. The Director should be a career member of the Senior Foreign Service or the Senior Executive Service and should be qualified for the position by virtue of demonstrated ability in the areas of security, law enforcement, management, and public administration. Experience in management or operations abroad should be considered an affirmative factor in the selection of the Director.
 
-(Pub. L. 99–399, title II, § 202, Aug. 27, 1986, 100 Stat. 858; Pub. L. 103–236, title I, § 162(g)(8), Apr. 30, 1994, 108 Stat. 407.)
+(Pub. L. 99–399, title II, § 202, Aug. 27, 1986, 100 Stat. 858; Pub. L. 103–236, title I, § 162(g)(8), Apr. 30, 1994, 108 Stat. 407.)
 
 **Editorial Notes**
 
@@ -593,17 +593,17 @@ Any such Diplomatic Security Service should be headed by a Director designated b
 
 Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
 
-### § 4823. Special agents
+### § 4823. Special agents
 
 Special agent positions shall be filled in accordance with the provisions of the Foreign Service Act of 1980 (22 U.S.C. 3901 et seq.) and title 5. In filling such positions, the Secretary of State shall actively recruit women and members of minority groups. The Secretary of State shall prescribe the qualifications required for assignment or appointment to such positions. The qualifications may include minimum and maximum entry age restrictions and other physical standards and shall incorporate such standards as may be required by law in order to perform security functions, to bear arms, and to exercise investigatory, warrant, arrest, and such other authorities as are available by law to special agents of the Department of State and the Foreign Service.
 
-(Pub. L. 99–399, title II, § 203, Aug. 27, 1986, 100 Stat. 858; Pub. L. 103–236, title I, § 162(g)(9), Apr. 30, 1994, 108 Stat. 407.)
+(Pub. L. 99–399, title II, § 203, Aug. 27, 1986, 100 Stat. 858; Pub. L. 103–236, title I, § 162(g)(9), Apr. 30, 1994, 108 Stat. 407.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Service Act of 1980, referred to in text, is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+The Foreign Service Act of 1980, referred to in text, is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 **Amendments**
 
@@ -615,11 +615,11 @@ The Foreign Service Act of 1980, referred to in text, is Pub. L. 96–465, Oct. 
 
 Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
 
-### § 4824. Contracting authority
+### § 4824. Contracting authority
 
 The Secretary of State is authorized to employ individuals or organizations by contract to carry out the purposes of this Act, and individuals employed by contract to perform such services shall not by virtue of such employment be considered to be employees of the United States Government for purposes of any law administered by the Office of Personnel Management (except that the Secretary may determine the applicability to such individuals of any law administered by the Secretary concerning the employment of such individuals); and such contracts are authorized to be negotiated, the terms of the contracts to be prescribed, and the work to be performed, where necessary, without regard to such statutory provisions as relate to the negotiation, making and performance of contracts and performance of work in the United States.
 
-(Pub. L. 99–399, title II, § 206, as added Pub. L. 105–277, div. C, title I, § 104, Oct. 21, 1998, 112 Stat. 2681–586.)
+(Pub. L. 99–399, title II, § 206, as added Pub. L. 105–277, div. C, title I, § 104, Oct. 21, 1998, 112 Stat. 2681–586.)
 
 **Editorial Notes**
 
@@ -629,7 +629,7 @@ This Act, referred to in text, is Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 853
 
 ## SUBCHAPTER III—PERFORMANCE AND ACCOUNTABILITY
 
-### § 4831. Security Review Committees
+### § 4831. Security Review Committees
 
 **(a) In general**
 
@@ -711,33 +711,33 @@ With respect to breaches of security involving intelligence activities, the Secr
 
 **(6)** the Committee on Appropriations of the House of Representatives.
 
-(Pub. L. 99–399, title III, § 301, Aug. 27, 1986, 100 Stat. 859; Pub. L. 100–204, title I, § 156(a), Dec. 22, 1987, 101 Stat. 1354; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 608], Nov. 29, 1999, 113 Stat. 1536, 1501A–458; Pub. L. 109–140, § 3, Dec. 22, 2005, 119 Stat. 2650; Pub. L. 117–81, div. E, title LIII, § 5316, Dec. 27, 2021, 135 Stat. 2366; Pub. L. 117–263, div. I, title XCIII, § 9302(d), Dec. 23, 2022, 136 Stat. 3884.)
+(Pub. L. 99–399, title III, § 301, Aug. 27, 1986, 100 Stat. 859; Pub. L. 100–204, title I, § 156(a), Dec. 22, 1987, 101 Stat. 1354; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 608], Nov. 29, 1999, 113 Stat. 1536, 1501A–458; Pub. L. 109–140, § 3, Dec. 22, 2005, 119 Stat. 2650; Pub. L. 117–81, div. E, title LIII, § 5316, Dec. 27, 2021, 135 Stat. 2366; Pub. L. 117–263, div. I, title XCIII, § 9302(d), Dec. 23, 2022, 136 Stat. 3884.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Pub. L. 117–263, § 9302(d)(1), substituted “Security Review Committees” for “Accountability Review Boards” in section catchline.
+2022—Pub. L. 117–263, § 9302(d)(1), substituted “Security Review Committees” for “Accountability Review Boards” in section catchline.
 
-Subsec. (a)(1). Pub. L. 117–263, § 9302(d)(2)(A), amended par. (1) generally. Prior to amendment, text read as follows: “Except as provided in paragraphs (2) and (3), in any case of serious injury, loss of life, or significant destruction of property at, or related to, a United States Government mission abroad, and in any case of a serious breach of security involving intelligence activities of a foreign government directed at a United States Government mission abroad, which is covered by the provisions of this chapter (other than a facility or installation subject to the control of a United States area military commander), the Secretary of State shall convene an Accountability Review Board (in this subchapter referred to as the ‘Board’). The Secretary shall not convene a Board where the Secretary determines that a case clearly involves only causes unrelated to security.”
+Subsec. (a)(1). Pub. L. 117–263, § 9302(d)(2)(A), amended par. (1) generally. Prior to amendment, text read as follows: “Except as provided in paragraphs (2) and (3), in any case of serious injury, loss of life, or significant destruction of property at, or related to, a United States Government mission abroad, and in any case of a serious breach of security involving intelligence activities of a foreign government directed at a United States Government mission abroad, which is covered by the provisions of this chapter (other than a facility or installation subject to the control of a United States area military commander), the Secretary of State shall convene an Accountability Review Board (in this subchapter referred to as the ‘Board’). The Secretary shall not convene a Board where the Secretary determines that a case clearly involves only causes unrelated to security.”
 
-Subsec. (a)(2). Pub. L. 117–263, § 9302(d)(2)(C), added par. (2). Former par. (2) redesignated (3).
+Subsec. (a)(2). Pub. L. 117–263, § 9302(d)(2)(C), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (a)(3). Pub. L. 117–263, § 9302(d)(2)(D)(ii), (iii), substituted subpar. (A) designation, heading, introductory provisions, cls. (i) to (iii), and “(iv) in the case” for “The Secretary of State is not required to convene a Board in the case” and subpar. (B) designation, heading, and “In the case of an incident described in subparagraph (A)(iv)” for “In any such case”.
+Subsec. (a)(3). Pub. L. 117–263, § 9302(d)(2)(D)(ii), (iii), substituted subpar. (A) designation, heading, introductory provisions, cls. (i) to (iii), and “(iv) in the case” for “The Secretary of State is not required to convene a Board in the case” and subpar. (B) designation, heading, and “In the case of an incident described in subparagraph (A)(iv)” for “In any such case”.
 
-Pub. L. 117–263, § 9302(d)(2)(D)(i), substituted “Exceptions to convening a Security Review Committee” for “Department of Defense facilities and personnel” in heading.
+Pub. L. 117–263, § 9302(d)(2)(D)(i), substituted “Exceptions to convening a Security Review Committee” for “Department of Defense facilities and personnel” in heading.
 
-Pub. L. 117–263, § 9302(d)(2)(B), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+Pub. L. 117–263, § 9302(d)(2)(B), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-Subsec. (a)(4). Pub. L. 117–263, § 9302(d)(2)(B), redesignated par. (3) as (4).
+Subsec. (a)(4). Pub. L. 117–263, § 9302(d)(2)(B), redesignated par. (3) as (4).
 
-Subsec. (a)(5). Pub. L. 117–263, § 9302(d)(2)(E), added par. (5).
+Subsec. (a)(5). Pub. L. 117–263, § 9302(d)(2)(E), added par. (5).
 
-Subsec. (b). Pub. L. 117–263, § 9302(d)(3)(A), substituted “Security Review Committees” for “Boards” in heading.
+Subsec. (b). Pub. L. 117–263, § 9302(d)(3)(A), substituted “Security Review Committees” for “Boards” in heading.
 
-Subsec. (b)(1). Pub. L. 117–263, § 9302(d)(3)(B), amended par. (1) generally. Prior to amendment, text read as follows: “Except as provided in paragraph (2), the Secretary of State shall convene a Board not later than 60 days after the occurrence of an incident described in subsection (a)(1), except that such 60-day period may be extended for one additional 60-day period if the Secretary determines that the additional period is necessary for the convening of the Board.”
+Subsec. (b)(1). Pub. L. 117–263, § 9302(d)(3)(B), amended par. (1) generally. Prior to amendment, text read as follows: “Except as provided in paragraph (2), the Secretary of State shall convene a Board not later than 60 days after the occurrence of an incident described in subsection (a)(1), except that such 60-day period may be extended for one additional 60-day period if the Secretary determines that the additional period is necessary for the convening of the Board.”
 
-Subsec. (c). Pub. L. 117–263, § 9302(d)(4), amended subsec. (c) generally. Prior to amendment, text read as follows: “Whenever the Secretary of State convenes a Board, the Secretary shall promptly inform the chairman of the Committee on Foreign Relations of the Senate and the Speaker of the House of Representatives—
+Subsec. (c). Pub. L. 117–263, § 9302(d)(4), amended subsec. (c) generally. Prior to amendment, text read as follows: “Whenever the Secretary of State convenes a Board, the Secretary shall promptly inform the chairman of the Committee on Foreign Relations of the Senate and the Speaker of the House of Representatives—
 
 “(1) that a Board has been convened;
 
@@ -745,19 +745,19 @@ Subsec. (c). Pub. L. 117–263, § 9302(d)(4), amended subsec. (c) generally. 
 
 “(3) of other appropriate information about the Board.”
 
-2021—Subsec. (a)(3). Pub. L. 117–81, § 5316(1), substituted “Afghanistan, Yemen, Syria, and” for “Afghanistan and” in heading.
+2021—Subsec. (a)(3). Pub. L. 117–81, § 5316(1), substituted “Afghanistan, Yemen, Syria, and” for “Afghanistan and” in heading.
 
-Subsec. (a)(3)(A)(i). Pub. L. 117–81, § 5316(2)(A), substituted “Afghanistan, Yemen, Syria, or” for “Afghanistan or”.
+Subsec. (a)(3)(A)(i). Pub. L. 117–81, § 5316(2)(A), substituted “Afghanistan, Yemen, Syria, or” for “Afghanistan or”.
 
-Subsec. (a)(3)(A)(ii). Pub. L. 117–81, § 5316(2)(B), substituted “beginning on October 1, 2020, and ending on September 30, 2022” for “beginning on October 1, 2005, and ending on September 30, 2009”.
+Subsec. (a)(3)(A)(ii). Pub. L. 117–81, § 5316(2)(B), substituted “beginning on October 1, 2020, and ending on September 30, 2022” for “beginning on October 1, 2005, and ending on September 30, 2009”.
 
-2005—Subsec. (a)(1). Pub. L. 109–140, § 3(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+2005—Subsec. (a)(1). Pub. L. 109–140, § 3(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
-Subsec. (a)(3). Pub. L. 109–140, § 3(2), added par. (3).
+Subsec. (a)(3). Pub. L. 109–140, § 3(2), added par. (3).
 
 1999—Pub. L. 106–113 substituted “Review Boards” for “review” in section catchline and amended text generally. Prior to amendment, text read as follows: “In any case of serious injury, loss of life, or significant destruction of property at or related to a United States Government mission abroad, and in any case of a serious breach of security involving intelligence activities of a foreign government directed at a United States Government mission abroad, which is covered by the provisions of this chapter (other than a facility or installation subject to the control of a United States area military commander), the Secretary of State shall convene an Accountability Review Board (hereafter in this subchapter referred to as the ‘Board’). With respect to breaches of security involving intelligence activities, the Secretary of State may delay establishing an Accountability Review Board if, after consultation with the Chairman of the Select Committee on Intelligence of the Senate and the Chairman of the Permanent Select Committee on Intelligence of the House of Representatives, the Secretary determines that doing so would compromise intelligence sources and methods. The Secretary shall promptly advise the Chairmen of such committees of each determination pursuant to this section to delay the establishment of an Accountability Review Board. The Secretary shall not convene a Board where the Secretary determines that a case clearly involves only causes unrelated to security.”
 
-1987—Pub. L. 100–204 inserted “, and in any case of a serious breach of security involving intelligence activities of a foreign government directed at a United States Government mission abroad,” after “mission abroad” in first sentence, and inserted after first sentence “With respect to breaches of security involving intelligence activities, the Secretary of State may delay establishing an Accountability Review Board if, after consultation with the Chairman of the Select Committee on Intelligence of the Senate and the Chairman of the Permanent Select Committee on Intelligence of the House of Representatives, the Secretary determines that doing so would compromise intelligence sources and methods. The Secretary shall promptly advise the Chairmen of such committees of each determination pursuant to this section to delay the establishment of an Accountability Review Board.”
+1987—Pub. L. 100–204 inserted “, and in any case of a serious breach of security involving intelligence activities of a foreign government directed at a United States Government mission abroad,” after “mission abroad” in first sentence, and inserted after first sentence “With respect to breaches of security involving intelligence activities, the Secretary of State may delay establishing an Accountability Review Board if, after consultation with the Chairman of the Select Committee on Intelligence of the Senate and the Chairman of the Permanent Select Committee on Intelligence of the House of Representatives, the Secretary determines that doing so would compromise intelligence sources and methods. The Secretary shall promptly advise the Chairmen of such committees of each determination pursuant to this section to delay the establishment of an Accountability Review Board.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -767,33 +767,33 @@ Committee on International Relations of House of Representatives changed to Comm
 
 **Security Review Committees for Certain Facilities**
 
-Pub. L. 118–159, div. G, title LXXVIII, § 7812(d), Dec. 23, 2024, 138 Stat. 2565, provided that: “The authority provided under section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4831(a)(3) [now 22 U.S.C. 4831(a)(4)]) shall remain in effect for facilities in Afghanistan and shall apply to facilities in Ukraine through September 30, 2026, except that the notification and reporting requirements contained in such section shall include the appropriate congressional committees [Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives], the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives.”
+Pub. L. 118–159, div. G, title LXXVIII, § 7812(d), Dec. 23, 2024, 138 Stat. 2565, provided that: “The authority provided under section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4831(a)(3) [now 22 U.S.C. 4831(a)(4)]) shall remain in effect for facilities in Afghanistan and shall apply to facilities in Ukraine through September 30, 2026, except that the notification and reporting requirements contained in such section shall include the appropriate congressional committees [Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives], the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives.”
 
 Similar provisions were contained in the following prior acts:
 
-Pub. L. 117–263, div. I, title XCVIII, § 9802(e), Dec. 23, 2022, 136 Stat. 3924.
+Pub. L. 117–263, div. I, title XCVIII, § 9802(e), Dec. 23, 2022, 136 Stat. 3924.
 
-Pub. L. 117–103, div. K, title VII, § 7034(*l*)(8), Mar. 15, 2022, 136 Stat. 624.
+Pub. L. 117–103, div. K, title VII, § 7034(*l*)(8), Mar. 15, 2022, 136 Stat. 624.
 
-Pub. L. 116–260, div. K, title VII, § 7034(*l*)(7), Dec. 27, 2020, 134 Stat. 1750.
+Pub. L. 116–260, div. K, title VII, § 7034(*l*)(7), Dec. 27, 2020, 134 Stat. 1750.
 
-Pub. L. 116–94, div. G, title VII, § 7034(*l*)(7), Dec. 20, 2019, 133 Stat. 2873.
+Pub. L. 116–94, div. G, title VII, § 7034(*l*)(7), Dec. 20, 2019, 133 Stat. 2873.
 
-Pub. L. 116–6, div. F, title VII, § 7034(m)(7), Feb. 15, 2019, 133 Stat. 327.
+Pub. L. 116–6, div. F, title VII, § 7034(m)(7), Feb. 15, 2019, 133 Stat. 327.
 
-Pub. L. 115–141, div. K, title VII, § 7034(*l*)(8), Mar. 23, 2018, 132 Stat. 896.
+Pub. L. 115–141, div. K, title VII, § 7034(*l*)(8), Mar. 23, 2018, 132 Stat. 896.
 
-Pub. L. 114–113, div. K, title VII, § 7034(k)(2), Dec. 18, 2015, 129 Stat. 2764.
+Pub. L. 114–113, div. K, title VII, § 7034(k)(2), Dec. 18, 2015, 129 Stat. 2764.
 
-Pub. L. 113–235, div. J, title VII, § 7034(*l*)(2), Dec. 16, 2014, 128 Stat. 2625.
+Pub. L. 113–235, div. J, title VII, § 7034(*l*)(2), Dec. 16, 2014, 128 Stat. 2625.
 
-Pub. L. 113–76, div. K, title VII, § 7034(m)(2), Jan. 17, 2014, 128 Stat. 515.
+Pub. L. 113–76, div. K, title VII, § 7034(m)(2), Jan. 17, 2014, 128 Stat. 515.
 
-Pub. L. 112–74, div. I, title VII, § 7034(m)(2), Dec. 23, 2011, 125 Stat. 1216.
+Pub. L. 112–74, div. I, title VII, § 7034(m)(2), Dec. 23, 2011, 125 Stat. 1216.
 
-Pub. L. 111–117, div. F, title VII, § 7034(r), Dec. 16, 2009, 123 Stat. 3363.
+Pub. L. 111–117, div. F, title VII, § 7034(r), Dec. 16, 2009, 123 Stat. 3363.
 
-### § 4832. Security Review Committee
+### § 4832. Security Review Committee
 
 **(a) Membership**
 
@@ -813,15 +813,15 @@ At the request of a Security Review Committee, employees of the Department of St
 
 A Security Review Committee may employ and compensate (in accordance with section 3109 of title 5) such experts and consultants as the Security Review Committee considers necessary to carry out its functions. Experts and consultants so employed shall be responsible solely to the Security Review Committee.
 
-(Pub. L. 99–399, title III, § 302, Aug. 27, 1986, 100 Stat. 859; Pub. L. 117–263, div. I, title XCIII, § 9302(e), Dec. 23, 2022, 136 Stat. 3886.)
+(Pub. L. 99–399, title III, § 302, Aug. 27, 1986, 100 Stat. 859; Pub. L. 117–263, div. I, title XCIII, § 9302(e), Dec. 23, 2022, 136 Stat. 3886.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Pub. L. 117–263, § 9302(e)(2), which directed substitution of “a Security Review Committee” for “a Board” wherever appearing, was executed by making the substitution in subsec. (b)(2) and also substituting, wherever appearing, “A Security Review Committee” for “A Board” and “the Security Review Committee” for “the Board”, wherever appearing, to reflect the probable intent of Congress.
+2022—Pub. L. 117–263, § 9302(e)(2), which directed substitution of “a Security Review Committee” for “a Board” wherever appearing, was executed by making the substitution in subsec. (b)(2) and also substituting, wherever appearing, “A Security Review Committee” for “A Board” and “the Security Review Committee” for “the Board”, wherever appearing, to reflect the probable intent of Congress.
 
-Pub. L. 117–263, § 9302(e)(1), substituted “Security Review Committee” for “Accountability Review Board” in section catchline.
+Pub. L. 117–263, § 9302(e)(1), substituted “Security Review Committee” for “Accountability Review Board” in section catchline.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -831,9 +831,9 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### § 4833. Serious Security Incident investigation process
+### § 4833. Serious Security Incident investigation process
 
 **(a) Investigation process**
 
@@ -871,7 +871,7 @@ The investigative team assembled pursuant to paragraph (3) shall consist of indi
 
 The investigative team investigating a Serious Security Incident shall adopt such procedures with respect to confidentiality as determined necessary, including procedures relating to the conduct of closed proceedings or the submission and use of evidence in camera, to ensure in particular the protection of classified information relating to national defense, foreign policy, or intelligence matters. The Director of National Intelligence shall establish the level of protection required for intelligence information and for information relating to intelligence personnel included in the report required under subsection (b). The Security Review Committee shall determine the level of classification of the final report prepared pursuant to section 4834(b) of this title, and shall incorporate the same confidentiality measures in such report to the maximum extent practicable.
 
-(Pub. L. 99–399, title III, § 303, Aug. 27, 1986, 100 Stat. 859; Pub. L. 117–263, div. I, title XCIII, § 9302(f), Dec. 23, 2022, 136 Stat. 3886; Pub. L. 117–286, § 4(a)(170), Dec. 27, 2022, 136 Stat. 4324; Pub. L. 118–159, div. G, title LXXV, § 7502, Dec. 23, 2024, 138 Stat. 2545.)
+(Pub. L. 99–399, title III, § 303, Aug. 27, 1986, 100 Stat. 859; Pub. L. 117–263, div. I, title XCIII, § 9302(f), Dec. 23, 2022, 136 Stat. 3886; Pub. L. 117–286, § 4(a)(170), Dec. 27, 2022, 136 Stat. 4324; Pub. L. 118–159, div. G, title LXXV, § 7502, Dec. 23, 2024, 138 Stat. 2545.)
 
 **Editorial Notes**
 
@@ -889,7 +889,7 @@ Subsec. (d). Pub. L. 117–286, which directed substitution of “chapter 10 of 
 
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
-### § 4834. Security Review Committee findings and report
+### § 4834. Security Review Committee findings and report
 
 **(a) Findings** The Security Review Committee shall—
 
@@ -937,7 +937,7 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 If in the course of conducting an investigation under section 4833 of this title, the investigative team finds reasonable cause to believe any individual described in section 4833(a)(2)(D) of this title has breached the duty of that individual or finds lesser failures on the part of an individual in the performance of his or her duties related to the incident, it shall be reported to the Security Review Committee. If the Security Review Committee finds reasonable cause to support the determination, it shall be reported to the Secretary for appropriate action.
 
-(Pub. L. 99–399, title III, § 304, Aug. 27, 1986, 100 Stat. 861; Pub. L. 100–204, title I, § 156(b), Dec. 22, 1987, 101 Stat. 1354; Pub. L. 114–323, title I, § 104(a), Dec. 16, 2016, 130 Stat. 1909; Pub. L. 117–263, div. I, title XCIII, § 9302(g), Dec. 23, 2022, 136 Stat. 3887.)
+(Pub. L. 99–399, title III, § 304, Aug. 27, 1986, 100 Stat. 861; Pub. L. 100–204, title I, § 156(b), Dec. 22, 1987, 101 Stat. 1354; Pub. L. 114–323, title I, § 104(a), Dec. 16, 2016, 130 Stat. 1909; Pub. L. 117–263, div. I, title XCIII, § 9302(g), Dec. 23, 2022, 136 Stat. 3887.)
 
 **Editorial Notes**
 
@@ -945,11 +945,11 @@ If in the course of conducting an investigation under section 4833 of this title
 
 2022—Pub. L. 117–263 amended section generally. Prior to amendment, section related to findings and recommendations by an Accountability Review Board.
 
-2016—Subsec. (c). Pub. L. 114–323, § 104(a)(3), in concluding provisions, substituted “has engaged in misconduct or unsatisfactorily performed the duties of employment of that individual as described in this subsection” for “has breached a duty of that individual” and struck out “to the performance of the duties of that individual” after “pertinent”.
+2016—Subsec. (c). Pub. L. 114–323, § 104(a)(3), in concluding provisions, substituted “has engaged in misconduct or unsatisfactorily performed the duties of employment of that individual as described in this subsection” for “has breached a duty of that individual” and struck out “to the performance of the duties of that individual” after “pertinent”.
 
-Pub. L. 114–323, § 104(a)(1), in introductory provisions, substituted “If” for “Whenever” and “has engaged in misconduct or unsatisfactorily performed the duties of employment of that individual, and such misconduct or unsatisfactory performance has significantly contributed to the serious injury, loss of life, or significant destruction of property, or the serious breach of security that is the subject of the Board’s examination as described in subsection (a)” for “has breached the duty of that individual”.
+Pub. L. 114–323, § 104(a)(1), in introductory provisions, substituted “If” for “Whenever” and “has engaged in misconduct or unsatisfactorily performed the duties of employment of that individual, and such misconduct or unsatisfactory performance has significantly contributed to the serious injury, loss of life, or significant destruction of property, or the serious breach of security that is the subject of the Board’s examination as described in subsection (a)” for “has breached the duty of that individual”.
 
-Subsec. (c)(2). Pub. L. 114–323, § 104(a)(2), substituted “findings” for “finding” in two places.
+Subsec. (c)(2). Pub. L. 114–323, § 104(a)(2), substituted “findings” for “finding” in two places.
 
 1987—Subsec. (a). Pub. L. 100–204 inserted “or surrounding the serious breach of security involving intelligence activities of a foreign government directed at a United States Government mission abroad (as the case may be)” after first reference to “mission abroad”.
 
@@ -957,9 +957,9 @@ Subsec. (c)(2). Pub. L. 114–323, § 104(a)(2), substituted “findings” fo
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–323, title I, § 104(b), Dec. 16, 2016, 130 Stat. 1910, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to any Accountability Review Board that is convened under section 301 of the Diplomatic Security Act (22 U.S.C. 4831) on or after the date of the enactment of this Act [Dec. 16, 2016].”
+Pub. L. 114–323, title I, § 104(b), Dec. 16, 2016, 130 Stat. 1910, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to any Accountability Review Board that is convened under section 301 of the Diplomatic Security Act (22 U.S.C. 4831) on or after the date of the enactment of this Act [Dec. 16, 2016].”
 
-### § 4835. Relation to other proceedings
+### § 4835. Relation to other proceedings
 
 **(a) No effect on existing remedies or defenses**
 
@@ -969,7 +969,7 @@ Nothing in this subchapter shall be construed to create administrative or judici
 
 Nothing in this subchapter may be construed to preclude the Secretary of State from convening a follow-up public board of inquiry to investigate any security incident if the incident was of such magnitude or significance that an internal process is deemed insufficient to understand and investigate the incident. All materials gathered during the procedures provided under this subchapter shall be provided to any related board of inquiry convened by the Secretary.
 
-(Pub. L. 99–399, title III, § 305, Aug. 27, 1986, 100 Stat. 862; Pub. L. 117–263, div. I, title XCIII, § 9302(h), Dec. 23, 2022, 136 Stat. 3888.)
+(Pub. L. 99–399, title III, § 305, Aug. 27, 1986, 100 Stat. 862; Pub. L. 117–263, div. I, title XCIII, § 9302(h), Dec. 23, 2022, 136 Stat. 3888.)
 
 **Editorial Notes**
 
@@ -979,7 +979,7 @@ Nothing in this subchapter may be construed to preclude the Secretary of State f
 
 ## SUBCHAPTER IV—DIPLOMATIC SECURITY PROGRAM
 
-### § 4851. Authorization
+### § 4851. Authorization
 
 **(a) Diplomatic security program**
 
@@ -993,7 +993,7 @@ Nothing in this subchapter may be construed to preclude the Secretary of State f
 
 **(2) Omitted**
 
-**(3) Repealed. Pub. L. 103–236, title I, § 101(c), Apr. 30, 1994, 108 Stat. 388**
+**(3) Repealed. Pub. L. 103–236, title I, § 101(c), Apr. 30, 1994, 108 Stat. 388**
 
 **(4) Allocation of amounts authorized to be appropriated**
 
@@ -1003,7 +1003,7 @@ Amounts authorized to be appropriated by this subsection, and by the amendment m
 
 In any fiscal year, whenever the Secretary of State submits to the Congress a request for appropriations to carry out the program described in subsection (a), the Secretary shall notify the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate of such request, together with a justification of each item listed in such request.
 
-**(c) Repealed. Pub. L. 103–236, title I, § 122(b), Apr. 30, 1994, 108 Stat. 392**
+**(c) Repealed. Pub. L. 103–236, title I, § 122(b), Apr. 30, 1994, 108 Stat. 392**
 
 **(d) Prohibition on reallocations of authorizations**
 
@@ -1029,9 +1029,9 @@ If physically possible, facilities constructed or acquired pursuant to subsectio
 
 **(2) Omitted**
 
-**(3) Repealed. Pub. L. 103–236, title I, § 122(b), Apr. 30, 1994, 108 Stat. 392**
+**(3) Repealed. Pub. L. 103–236, title I, § 122(b), Apr. 30, 1994, 108 Stat. 392**
 
-(Pub. L. 99–399, title IV, § 401, Aug. 27, 1986, 100 Stat. 862; Pub. L. 100–204, title I, § 101(c), Dec. 22, 1987, 101 Stat. 1336; Pub. L. 103–236, title I, §§ 101(c), 122(b), Apr. 30, 1994, 108 Stat. 388, 392.)
+(Pub. L. 99–399, title IV, § 401, Aug. 27, 1986, 100 Stat. 862; Pub. L. 100–204, title I, § 101(c), Dec. 22, 1987, 101 Stat. 1336; Pub. L. 103–236, title I, §§ 101(c), 122(b), Apr. 30, 1994, 108 Stat. 388, 392.)
 
 **Editorial Notes**
 
@@ -1047,11 +1047,11 @@ Section is comprised of section 401 of Pub. L. 99–399. Subsecs. (a)(2) and (h)
 
 **Amendments**
 
-1994—Subsec. (a)(3). Pub. L. 103–236, § 101(c), struck out heading and text of par. (3). Text read as follows: “There is authorized to be appropriated for the Department of State for ‘Acquisition and Maintenance of Buildings Abroad’ for each of the fiscal years 1988 through 1990, $417,962,000 to carry out diplomatic security construction, acquisition, and operations pursuant to the Department of State’s Supplemental Diplomatic Security Program. Authorizations of appropriations under this paragraph shall remain available until the appropriations are made.”
+1994—Subsec. (a)(3). Pub. L. 103–236, § 101(c), struck out heading and text of par. (3). Text read as follows: “There is authorized to be appropriated for the Department of State for ‘Acquisition and Maintenance of Buildings Abroad’ for each of the fiscal years 1988 through 1990, $417,962,000 to carry out diplomatic security construction, acquisition, and operations pursuant to the Department of State’s Supplemental Diplomatic Security Program. Authorizations of appropriations under this paragraph shall remain available until the appropriations are made.”
 
-Subsec. (c). Pub. L. 103–236, § 122(b), struck out heading and text of subsec. (c). Text read as follows: “Amounts made available for capital projects pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming.”
+Subsec. (c). Pub. L. 103–236, § 122(b), struck out heading and text of subsec. (c). Text read as follows: “Amounts made available for capital projects pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming.”
 
-Subsec. (h)(3). Pub. L. 103–236, § 122(b), struck out heading and text of par. (3). Text read as follows: “Amounts made available for furniture, furnishings, and equipment pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming.”
+Subsec. (h)(3). Pub. L. 103–236, § 122(b), struck out heading and text of par. (3). Text read as follows: “Amounts made available for furniture, furnishings, and equipment pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming.”
 
 1987—Subsec. (a)(3). Pub. L. 100–204 inserted sentence at end providing that authorizations of appropriations under this paragraph remain available until appropriations are made.
 
@@ -1059,11 +1059,11 @@ Subsec. (h)(3). Pub. L. 103–236, § 122(b), struck out heading and text of p
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–236, title I, § 101(c), Apr. 30, 1994, 108 Stat. 388, provided that the amendment made by that section is effective Oct. 1, 1995.
+Pub. L. 103–236, title I, § 101(c), Apr. 30, 1994, 108 Stat. 388, provided that the amendment made by that section is effective Oct. 1, 1995.
 
 **Embassy Security Requests and Deficiencies**
 
-Pub. L. 117–81, div. E, title LII, § 5209, Dec. 27, 2021, 135 Stat. 2357, provided that:
+Pub. L. 117–81, div. E, title LII, § 5209, Dec. 27, 2021, 135 Stat. 2357, provided that:
 
 > “The Secretary of State shall provide to the appropriate congressional committees, the Committee on Armed Services of the House of Representatives, and the Committee on Armed Services of the Senate upon request information on physical security deficiencies at United States diplomatic posts, including relating to the following:
 
@@ -1075,7 +1075,7 @@ Pub. L. 117–81, div. E, title LII, § 5209, Dec. 27, 2021, 135 Stat. 2357, p
 
 **Construction Security Certification**
 
-Pub. L. 100–204, title I, § 160, Dec. 22, 1987, 101 Stat. 1356, as amended by Pub. L. 101–246, title I, § 135, Feb. 16, 1990, 104 Stat. 33, provided that:
+Pub. L. 100–204, title I, § 160, Dec. 22, 1987, 101 Stat. 1356, as amended by Pub. L. 101–246, title I, § 135, Feb. 16, 1990, 104 Stat. 33, provided that:
 
 > **“(a) Certification.—** Before undertaking any new construction or major renovation project in any foreign facility intended for the storage of classified materials or the conduct of classified activities, or approving occupancy of a similar facility for which construction or major renovation began before the effective date of this section [Dec. 22, 1987], the Secretary of State, after consultation with the Director of Central Intelligence, shall certify to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate that—
 
@@ -1099,15 +1099,15 @@ Pub. L. 100–204, title I, § 160, Dec. 22, 1987, 101 Stat. 1356, as amended 
 
 **Report to Congress on Obligation of Funds**
 
-Pub. L. 100–459, title III, § 302, Oct. 1, 1988, 102 Stat. 2207, provided that: “The Secretary of State shall report to the appropriate committees of the Congress on the obligation of funds provided for diplomatic security and related expenses every month.”
+Pub. L. 100–459, title III, § 302, Oct. 1, 1988, 102 Stat. 2207, provided that: “The Secretary of State shall report to the appropriate committees of the Congress on the obligation of funds provided for diplomatic security and related expenses every month.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 100–202, § 101(a) [title III, § 302], Dec. 22, 1987, 101 Stat. 1329, 1329–23.
+Pub. L. 100–202, § 101(a) [title III, § 302], Dec. 22, 1987, 101 Stat. 1329, 1329–23.
 
-Pub. L. 99–500, § 101(b) [title III, § 302], Oct. 18, 1986, 100 Stat. 1783–39, 1783–60, and Pub. L. 99–591, § 101(b) [title III, § 302], Oct. 30, 1986, 100 Stat. 3341–39, 3341–60.
+Pub. L. 99–500, § 101(b) [title III, § 302], Oct. 18, 1986, 100 Stat. 1783–39, 1783–60, and Pub. L. 99–591, § 101(b) [title III, § 302], Oct. 30, 1986, 100 Stat. 3341–39, 3341–60.
 
-### § 4852. Diplomatic construction program
+### § 4852. Diplomatic construction program
 
 **(a) Preference for United States contractors** Notwithstanding section 302 of this title, and where adequate competition exists, only United States persons and qualified United States joint venture persons may be awarded—
 
@@ -1159,25 +1159,25 @@ Not less than 10 percent of the amount appropriated pursuant to section 4851(a) 
 
 With respect to a diplomatic construction project, a prime contractor may not subcontract more than 50 percent of the total value of its contract for that project.
 
-(Pub. L. 99–399, title IV, § 402, Aug. 27, 1986, 100 Stat. 864; Pub. L. 101–246, title I, § 132, Feb. 16, 1990, 104 Stat. 32; Pub. L. 102–138, title I, § 131, Oct. 28, 1991, 105 Stat. 662; Pub. L. 103–236, title I, § 162(g)(10), Apr. 30, 1994, 108 Stat. 407; Pub. L. 107–228, div. A, title II, § 206(b), Sept. 30, 2002, 116 Stat. 1364; Pub. L. 117–81, div. E, title LII, § 5208, Dec. 27, 2021, 135 Stat. 2357; Pub. L. 118–159, div. G, title LXXII, § 7214, Dec. 23, 2024, 138 Stat. 2536.)
+(Pub. L. 99–399, title IV, § 402, Aug. 27, 1986, 100 Stat. 864; Pub. L. 101–246, title I, § 132, Feb. 16, 1990, 104 Stat. 32; Pub. L. 102–138, title I, § 131, Oct. 28, 1991, 105 Stat. 662; Pub. L. 103–236, title I, § 162(g)(10), Apr. 30, 1994, 108 Stat. 407; Pub. L. 107–228, div. A, title II, § 206(b), Sept. 30, 2002, 116 Stat. 1364; Pub. L. 117–81, div. E, title LII, § 5208, Dec. 27, 2021, 135 Stat. 2357; Pub. L. 118–159, div. G, title LXXII, § 7214, Dec. 23, 2024, 138 Stat. 2536.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title II of the State Department Basic Authorities Act of 1956, referred to in subsec. (b), is title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, § 202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to chapter 53 (§ 4301 et seq.) of this title. For complete classification of title II to the Code, see Short Title note set out under section 4301 of this title and Tables.
+Title II of the State Department Basic Authorities Act of 1956, referred to in subsec. (b), is title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, § 202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to chapter 53 (§ 4301 et seq.) of this title. For complete classification of title II to the Code, see Short Title note set out under section 4301 of this title and Tables.
 
 **Amendments**
 
-2024—Subsec. (a). Pub. L. 118–159, § 7214(1), inserted “be awarded” after “joint venture persons may” in introductory provisions, struck out “bid on” at beginning of pars. (1) and (2), and substituted “$25,000,000” for “$10,000,000” in par. (1).
+2024—Subsec. (a). Pub. L. 118–159, § 7214(1), inserted “be awarded” after “joint venture persons may” in introductory provisions, struck out “bid on” at beginning of pars. (1) and (2), and substituted “$25,000,000” for “$10,000,000” in par. (1).
 
-Subsec. (c)(1). Pub. L. 118–159, § 7214(2)(A), substituted “three” for “two”.
+Subsec. (c)(1). Pub. L. 118–159, § 7214(2)(A), substituted “three” for “two”.
 
-Subsec. (c)(2)(D). Pub. L. 118–159, § 7214(2)(B)(i), substituted “on a Federal contract abroad” for “at a United States diplomatic or consular establishment abroad”.
+Subsec. (c)(2)(D). Pub. L. 118–159, § 7214(2)(B)(i), substituted “on a Federal contract abroad” for “at a United States diplomatic or consular establishment abroad”.
 
-Subsec. (c)(2)(E), (F). Pub. L. 118–159, § 7214(2)(B)(ii)–(iv), redesignated subpar. (F) as (E), substituted “65” for “80” in cls. (i) and (iii), and struck out former subpar. (E) which read as follows: “with respect to a construction project under subsection (a)(1), has achieved total business volume equal to or greater than the value of the project being bid cumulatively over 3 years of the 5-year period before the date specified in subparagraph (C)(i);”.
+Subsec. (c)(2)(E), (F). Pub. L. 118–159, § 7214(2)(B)(ii)–(iv), redesignated subpar. (F) as (E), substituted “65” for “80” in cls. (i) and (iii), and struck out former subpar. (E) which read as follows: “with respect to a construction project under subsection (a)(1), has achieved total business volume equal to or greater than the value of the project being bid cumulatively over 3 years of the 5-year period before the date specified in subparagraph (C)(i);”.
 
-Subsec. (c)(2)(G). Pub. L. 118–159, § 7214(2)(B)(ii), struck out subpar. (G) which read as follows: “has the existing technical and financial resources in the United States to perform the contract; and”.
+Subsec. (c)(2)(G). Pub. L. 118–159, § 7214(2)(B)(ii), struck out subpar. (G) which read as follows: “has the existing technical and financial resources in the United States to perform the contract; and”.
 
 2021—Subsec. (c)(2)(E). Pub. L. 117–81 substituted “cumulatively over 3 years” for “in 3 years”.
 
@@ -1185,9 +1185,9 @@ Subsec. (c)(2)(G). Pub. L. 118–159, § 7214(2)(B)(ii), struck out subpar. (G
 
 1994—Subsec. (a)(2). Pub. L. 103–236 substituted “Secretary of State” for “Assistant Secretary for Diplomatic Security”.
 
-1991—Subsec. (a)(1). Pub. L. 102–138, § 131(1), substituted “$10,000,000” for “$5,000,000”.
+1991—Subsec. (a)(1). Pub. L. 102–138, § 131(1), substituted “$10,000,000” for “$5,000,000”.
 
-Subsec. (a)(2). Pub. L. 102–138, § 131(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “bid on a diplomatic construction or design project which involves physical or technical security, unless the project—
+Subsec. (a)(2). Pub. L. 102–138, § 131(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “bid on a diplomatic construction or design project which involves physical or technical security, unless the project—
 
 “(A) involves nonsophisticated, low-level technology, as determined by the Assistant Secretary for Diplomatic Security;
 
@@ -1205,9 +1205,9 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 
 **Construction of United States Embassy in Ottawa**
 
-Pub. L. 101–246, title I, § 125, Feb. 16, 1990, 104 Stat. 27, provided that: “Section 402(a) of the Diplomatic Security Act (22 U.S.C. 4852(a)) shall not apply to the construction or renovation of the United States Embassy in Ottawa, Canada.”
+Pub. L. 101–246, title I, § 125, Feb. 16, 1990, 104 Stat. 27, provided that: “Section 402(a) of the Diplomatic Security Act (22 U.S.C. 4852(a)) shall not apply to the construction or renovation of the United States Embassy in Ottawa, Canada.”
 
-### § 4853. Security requirements for contractors
+### § 4853. Security requirements for contractors
 
 Not later than 90 days after August 27, 1986, the Secretary of State shall issue regulations to—
 
@@ -1215,31 +1215,31 @@ Not later than 90 days after August 27, 1986, the Secretary of State shall issue
 
 **(2)** permit a contractor or subcontractor to have access to any design or blueprint relating to such a project only in accordance with those procedures.
 
-(Pub. L. 99–399, title IV, § 403, Aug. 27, 1986, 100 Stat. 865.)
+(Pub. L. 99–399, title IV, § 403, Aug. 27, 1986, 100 Stat. 865.)
 
-### § 4854. Qualifications of persons hired for diplomatic construction program
+### § 4854. Qualifications of persons hired for diplomatic construction program
 
 In carrying out the diplomatic construction program referred to in section 4851(a) of this title, the Secretary of State shall employ as professional staff (by appointment, contract, or otherwise) only those persons with a demonstrated specialized background in the fields of construction, construction law, or contract management. In filling such positions, the Secretary shall actively recruit women and members of minority groups.
 
-(Pub. L. 99–399, title IV, § 404, Aug. 27, 1986, 100 Stat. 865.)
+(Pub. L. 99–399, title IV, § 404, Aug. 27, 1986, 100 Stat. 865.)
 
-### § 4855. Cost overruns
+### § 4855. Cost overruns
 
-Any amount required to complete any capital project described in the Department of State’s Supplemental Diplomatic Security Program, as justified to the Congress for the respective fiscal year, which is in excess of the amount made available for that project pursuant to section 4851(a)(1) or (3) 1
+Any amount required to complete any capital project described in the Department of State’s Supplemental Diplomatic Security Program, as justified to the Congress for the respective fiscal year, which is in excess of the amount made available for that project pursuant to section 4851(a)(1) or (3) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogrammings.
 
-(Pub. L. 99–399, title IV, § 405, Aug. 27, 1986, 100 Stat. 865.)
+(Pub. L. 99–399, title IV, § 405, Aug. 27, 1986, 100 Stat. 865.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4851(a)(3) of this title, referred to in text, was repealed by Pub. L. 103–236, title I, § 101(c), Apr. 30, 1994, 108 Stat. 388.
+Section 4851(a)(3) of this title, referred to in text, was repealed by Pub. L. 103–236, title I, § 101(c), Apr. 30, 1994, 108 Stat. 388.
 
-### § 4856. Efficiency in contracting
+### § 4856. Efficiency in contracting
 
 **(a) Bonuses and penalties**
 
@@ -1249,7 +1249,7 @@ The Director of the Office of Foreign Buildings shall provide for a contract sys
 
 The Director of the Office of Foreign Buildings shall require each person awarded a contract for work under the diplomatic construction program to post a surety bond or guarantee, in such amount as the Director may determine, to assure performance under such contract.
 
-(Pub. L. 99–399, title IV, § 406, Aug. 27, 1986, 100 Stat. 866; Pub. L. 109–472, § 8, Jan. 11, 2007, 120 Stat. 3556.)
+(Pub. L. 99–399, title IV, § 406, Aug. 27, 1986, 100 Stat. 866; Pub. L. 109–472, § 8, Jan. 11, 2007, 120 Stat. 3556.)
 
 **Editorial Notes**
 
@@ -1267,43 +1267,43 @@ This subchapter, referred to in subsec. (a), was in the original “this title�
 
 Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
 
-### § 4857. Advisory Panel on Overseas Security
+### § 4857. Advisory Panel on Overseas Security
 
 Not later than 90 days after August 27, 1986, the Secretary of State shall submit a report to the Congress on the implementation of the 91 recommendations contained in the final report of the Advisory Panel on Overseas Security. If any such recommendation has been rejected, the Secretary shall provide the reasons why that recommendation was rejected.
 
-(Pub. L. 99–399, title IV, § 407, Aug. 27, 1986, 100 Stat. 866.)
+(Pub. L. 99–399, title IV, § 407, Aug. 27, 1986, 100 Stat. 866.)
 
-### § 4858. Training to improve perimeter security at United States diplomatic missions abroad
+### § 4858. Training to improve perimeter security at United States diplomatic missions abroad
 
 **(a) Training**
 
 It is the sense of Congress that the President should use the authority under chapter 8 of title II of the Foreign Assistance Act of 1961 [22 U.S.C. 2349aa et seq.] (relating to antiterrorism assistance) to improve perimeter security of United States diplomatic missions abroad.
 
-**(b) Repealed. Pub. L. 103–236, title I, § 139(20), Apr. 30, 1994, 108 Stat. 398; Pub. L. 103–415, § 1(c), Oct. 25, 1994, 108 Stat. 4299**
+**(b) Repealed. Pub. L. 103–236, title I, § 139(20), Apr. 30, 1994, 108 Stat. 398; Pub. L. 103–415, § 1(c), Oct. 25, 1994, 108 Stat. 4299**
 
-(Pub. L. 99–399, title IV, § 408, Aug. 27, 1986, 100 Stat. 866; Pub. L. 103–236, title I, § 139(20), Apr. 30, 1994, 108 Stat. 398; Pub. L. 103–415, § 1(c), Oct. 25, 1994, 108 Stat. 4299.)
+(Pub. L. 99–399, title IV, § 408, Aug. 27, 1986, 100 Stat. 866; Pub. L. 103–236, title I, § 139(20), Apr. 30, 1994, 108 Stat. 398; Pub. L. 103–415, § 1(c), Oct. 25, 1994, 108 Stat. 4299.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 8 of title II of that Act probably means chapter 8 of part II of that Act, which is classified generally to part VIII (§ 2349aa et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 8 of title II of that Act probably means chapter 8 of part II of that Act, which is classified generally to part VIII (§ 2349aa et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Amendments**
 
 1994—Subsec. (b). Pub. L. 103–236, as amended by Pub. L. 103–415, struck out heading and text of subsec. (b). Text read as follows: “Not later than October 1 of each year, the President shall submit a report to the Congress on the progress and problems of improving perimeter security of United States diplomatic missions abroad.”
 
-### § 4859. Protection of public entrances of United States diplomatic missions abroad
+### § 4859. Protection of public entrances of United States diplomatic missions abroad
 
 The Secretary of State shall install and maintain a walk-through metal detector or other advanced screening system at public entrances of each United States diplomatic mission abroad.
 
-(Pub. L. 99–399, title IV, § 409, Aug. 27, 1986, 100 Stat. 866.)
+(Pub. L. 99–399, title IV, § 409, Aug. 27, 1986, 100 Stat. 866.)
 
-### § 4860. Reimbursement of Department of the Treasury
+### § 4860. Reimbursement of Department of the Treasury
 
 The Secretary of State shall reimburse the appropriate appropriations account of the Department of the Treasury out of funds appropriated pursuant to section 4851(a)(1) of this title for the actual costs incurred by the United States Secret Service, as agreed to by the Secretary of the Treasury, for providing protection for the spouses of foreign heads of state during fiscal years 1986 and 1987.
 
-(Pub. L. 99–399, title IV, § 411, Aug. 27, 1986, 100 Stat. 867.)
+(Pub. L. 99–399, title IV, § 411, Aug. 27, 1986, 100 Stat. 867.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1311,7 +1311,7 @@ The Secretary of State shall reimburse the appropriate appropriations account of
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 4861. Inspector General for Department of State
+### § 4861. Inspector General for Department of State
 
 **(a) Direction to establish**
 
@@ -1329,17 +1329,17 @@ Of the amounts made available for fiscal year 1987 for salaries and expenses und
 
 No career member of the Foreign Service, as defined by section 3903 of this title, may be appointed Inspector General of the Department of State.
 
-(Pub. L. 99–399, title IV, § 413, Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–204, title I, § 134, Dec. 22, 1987, 101 Stat. 1344; Pub. L. 117–286, § 4(b)(44), Dec. 27, 2022, 136 Stat. 4348.)
+(Pub. L. 99–399, title IV, § 413, Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–204, title I, § 134, Dec. 22, 1987, 101 Stat. 1344; Pub. L. 117–286, § 4(b)(44), Dec. 27, 2022, 136 Stat. 4348.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 150(a) of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987, referred to in subsec. (b), is section 150(a) of Pub. L. 99–93, title I, Aug. 16, 1985, 99 Stat. 427, which amended sections 2 and 11 of the Inspector General Act of 1978, Pub. L. 95–452, by adding references to the Department and Secretary of State. Subsequent to this amendment, sections 2 and 11 of the Act, which were set out in the Appendix to Title 5, Government Organization and Employees, were significantly amended, and section 11 was renumbered as section 12, prior to their repeal and restatement as sections 402 and 401, respectively, of Title 5 by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4207, 4208, 4361.
+Section 150(a) of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987, referred to in subsec. (b), is section 150(a) of Pub. L. 99–93, title I, Aug. 16, 1985, 99 Stat. 427, which amended sections 2 and 11 of the Inspector General Act of 1978, Pub. L. 95–452, by adding references to the Department and Secretary of State. Subsequent to this amendment, sections 2 and 11 of the Act, which were set out in the Appendix to Title 5, Government Organization and Employees, were significantly amended, and section 11 was renumbered as section 12, prior to their repeal and restatement as sections 402 and 401, respectively, of Title 5 by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4207, 4208, 4361.
 
 **Codification**
 
-Section is comprised of section 413 of Pub. L. 99–399, as amended. Subsec. (e), formerly subsec. (a)(5), of section 413 amended section 5315 of Title 5, Government Organization and Employees. A former subsec. (a)(6) of section 413, which amended section 3929 of this title, was repealed by Pub. L. 99–529, title IV, § 405, Oct. 24, 1986, 100 Stat. 3020. Another subsec. (c) of section 413 amended section 3929a of this title.
+Section is comprised of section 413 of Pub. L. 99–399, as amended. Subsec. (e), formerly subsec. (a)(5), of section 413 amended section 5315 of Title 5, Government Organization and Employees. A former subsec. (a)(6) of section 413, which amended section 3929 of this title, was repealed by Pub. L. 99–529, title IV, § 405, Oct. 24, 1986, 100 Stat. 3020. Another subsec. (c) of section 413 amended section 3929a of this title.
 
 **Amendments**
 
@@ -1351,7 +1351,7 @@ Section is comprised of section 413 of Pub. L. 99–399, as amended. Subsec. (e)
 
 **Evaluation of Policies and Procedures of Department of State on Protection of Classified Information at Department Headquarters**
 
-Pub. L. 107–306, title VIII, § 832, Nov. 27, 2002, 116 Stat. 2431, provided that:
+Pub. L. 107–306, title VIII, § 832, Nov. 27, 2002, 116 Stat. 2431, provided that:
 
 > **“(a) Evaluation Required.—** Not later than December 31 of 2002, 2003, and 2004, the Inspector General of the Department of State shall conduct an evaluation of the policies and procedures of the Department on the protection of classified information at the Headquarters of the Department, including compliance with the directives of the Director of Central Intelligence (DCIDs) regarding the storage and handling of Sensitive Compartmented Information (SCI) material.
 
@@ -1371,11 +1371,11 @@ Pub. L. 107–306, title VIII, § 832, Nov. 27, 2002, 116 Stat. 2431, provided
 
 [Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.]
 
-### § 4862. Prohibition on use of funds for facilities in Israel, Jerusalem, or West Bank
+### § 4862. Prohibition on use of funds for facilities in Israel, Jerusalem, or West Bank
 
 None of the funds authorized to be appropriated by this Act may be obligated or expended for site acquisition, development, or construction of any facility in Israel, Jerusalem, or the West Bank.
 
-(Pub. L. 99–399, title IV, § 414, Aug. 27, 1986, 100 Stat. 868.)
+(Pub. L. 99–399, title IV, § 414, Aug. 27, 1986, 100 Stat. 868.)
 
 **Editorial Notes**
 
@@ -1383,7 +1383,7 @@ None of the funds authorized to be appropriated by this Act may be obligated or 
 
 This Act, referred to in text, is Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 853, known as the Omnibus Diplomatic Security and Antiterrorism Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of this title and Tables.
 
-### § 4863. Use of cleared personnel to ensure secure maintenance and repair of diplomatic facilities abroad
+### § 4863. Use of cleared personnel to ensure secure maintenance and repair of diplomatic facilities abroad
 
 **(a) Policies and regulations**
 
@@ -1393,9 +1393,9 @@ The Secretary of State shall develop and implement policies and regulations to p
 
 The Secretary of State shall conduct a study of the feasibility and necessity of requiring that, in the case of certain United States diplomatic facilities abroad, no contractor shall be hired to perform maintenance or repair services in an area intended for the storage of classified materials or the conduct of classified activities unless such contractor has been granted an appropriate United States security clearance. Such study shall include, but is not limited to, United States facilities located in Cairo, New Delhi, Riyadh, and Tokyo. Not later than 180 days after February 16, 1990, the Secretary of State shall report the results of such study to the Chairman of the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
 
-(Pub. L. 99–399, title IV, § 415, as added Pub. L. 101–246, title I, § 133(a), Feb. 16, 1990, 104 Stat. 32.)
+(Pub. L. 99–399, title IV, § 415, as added Pub. L. 101–246, title I, § 133(a), Feb. 16, 1990, 104 Stat. 32.)
 
-### § 4864. Increased participation of United States contractors in local guard contracts abroad under diplomatic security program
+### § 4864. Increased participation of United States contractors in local guard contracts abroad under diplomatic security program
 
 **(a) Findings** The Congress makes the following findings:
 
@@ -1481,7 +1481,7 @@ With respect to local guard contracts subject to subsection (c), a prime contrac
 
 In evaluating proposals for local guard contracts under this section, the Secretary of State may award such contracts on the basis of best value as determined by a cost-technical tradeoff analysis (as described in Federal Acquisition Regulation part 15.101) and, with respect to such contracts for posts that are not high risk, high threat posts (as such term is defined in section 4803 of this title), subject to congressional notification 15-days prior to any such award.
 
-(Pub. L. 101–246, title I, § 136, Feb. 16, 1990, 104 Stat. 33; Pub. L. 103–236, title I, § 141, Apr. 30, 1994, 108 Stat. 401; Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2210, Oct. 21, 1998, 112 Stat. 2681–811; Pub. L. 114–323, title I, § 112, Dec. 16, 2016, 130 Stat. 1910.)
+(Pub. L. 101–246, title I, § 136, Feb. 16, 1990, 104 Stat. 33; Pub. L. 103–236, title I, § 141, Apr. 30, 1994, 108 Stat. 401; Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2210, Oct. 21, 1998, 112 Stat. 2681–811; Pub. L. 114–323, title I, § 112, Dec. 16, 2016, 130 Stat. 1910.)
 
 **Editorial Notes**
 
@@ -1493,31 +1493,31 @@ Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Y
 
 2016—Subsec. (h). Pub. L. 114–323 added subsec. (h).
 
-1998—Subsec. (c)(3). Pub. L. 105–277, § 2210(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “in evaluating and scoring proposals for such contracts, award not less than 60 percent of the total points on the basis of technical factors and subfactors;”.
+1998—Subsec. (c)(3). Pub. L. 105–277, § 2210(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “in evaluating and scoring proposals for such contracts, award not less than 60 percent of the total points on the basis of technical factors and subfactors;”.
 
-Subsec. (c)(5). Pub. L. 105–277, § 2210(2), inserted “and” at end.
+Subsec. (c)(5). Pub. L. 105–277, § 2210(2), inserted “and” at end.
 
-Subsec. (c)(6). Pub. L. 105–277, § 2210(3), substituted period for “; and” at end.
+Subsec. (c)(6). Pub. L. 105–277, § 2210(3), substituted period for “; and” at end.
 
-Subsec. (c)(7). Pub. L. 105–277, § 2210(4), struck out par. (7) which read as follows: “give preference to United States persons and qualified United States joint venture persons where such persons are price competitive to the non-United States persons bidding on the contract, are properly licensed by the host government, and are otherwise qualified to carry out all the terms of the contract.”
+Subsec. (c)(7). Pub. L. 105–277, § 2210(4), struck out par. (7) which read as follows: “give preference to United States persons and qualified United States joint venture persons where such persons are price competitive to the non-United States persons bidding on the contract, are properly licensed by the host government, and are otherwise qualified to carry out all the terms of the contract.”
 
-1994—Subsec. (c). Pub. L. 103–236, § 141(1), added pars. (2) to (5), redesignated former pars. (2) and (3) as (6) and (7), respectively, and in par. (6) struck out “due to their distance from the post” after “evaluation process”.
+1994—Subsec. (c). Pub. L. 103–236, § 141(1), added pars. (2) to (5), redesignated former pars. (2) and (3) as (6) and (7), respectively, and in par. (6) struck out “due to their distance from the post” after “evaluation process”.
 
-Subsec. (d)(1)(D). Pub. L. 103–236, § 141(2)(A), substituted “or” for “and”.
+Subsec. (d)(1)(D). Pub. L. 103–236, § 141(2)(A), substituted “or” for “and”.
 
-Subsec. (d)(4). Pub. L. 103–236, § 141(2)(B)–(D), added par. (4).
+Subsec. (d)(4). Pub. L. 103–236, § 141(2)(B)–(D), added par. (4).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Strengthening Oversight**
 
-Pub. L. 115–31, div. J, title VII, § 7004(i), May 5, 2017, 131 Stat. 618, provided that: “Funds appropriated by this Act [div. J of Pub. L. 115–31, 131 Stat. 589, see Tables for classification] and prior Acts making appropriations for the Department of State, foreign operations, and related programs under the heading ‘Diplomatic and Consular Programs’ for Worldwide Security Protection shall be made available to strengthen oversight of the local guard force at a critical post abroad through the use of United States Government employees or contractors who are United States citizens: *Provided*, That such funds are in addition to funds otherwise made available by such Acts for such purposes: *Provided further*, That the total annual operating costs associated with providing such oversight in fiscal year 2017 and subsequent fiscal years shall be shared among agencies through the International Cooperative Administrative Support Services program: *Provided further*, That not later than 45 days after enactment of this Act [May 5, 2017], and prior to the obligation of funds for such purposes, the Secretary of State shall consult with the Committees on Appropriations on plans to carry out the requirement of this subsection.”
+Pub. L. 115–31, div. J, title VII, § 7004(i), May 5, 2017, 131 Stat. 618, provided that: “Funds appropriated by this Act [div. J of Pub. L. 115–31, 131 Stat. 589, see Tables for classification] and prior Acts making appropriations for the Department of State, foreign operations, and related programs under the heading ‘Diplomatic and Consular Programs’ for Worldwide Security Protection shall be made available to strengthen oversight of the local guard force at a critical post abroad through the use of United States Government employees or contractors who are United States citizens: *Provided*, That such funds are in addition to funds otherwise made available by such Acts for such purposes: *Provided further*, That the total annual operating costs associated with providing such oversight in fiscal year 2017 and subsequent fiscal years shall be shared among agencies through the International Cooperative Administrative Support Services program: *Provided further*, That not later than 45 days after enactment of this Act [May 5, 2017], and prior to the obligation of funds for such purposes, the Secretary of State shall consult with the Committees on Appropriations on plans to carry out the requirement of this subsection.”
 
 **Authority of Secretary of State**
 
 Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.‘
 
-### § 4865. Security requirements for United States diplomatic facilities
+### § 4865. Security requirements for United States diplomatic facilities
 
 **(a) In general** The following security requirements shall apply with respect to United States diplomatic facilities and specified personnel:
 
@@ -1633,7 +1633,7 @@ All United States diplomatic facilities shall have emergency equipment and recor
 
 Nothing in this section alters or amends existing security requirements not addressed by this section.
 
-(Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 606], Nov. 29, 1999, 113 Stat. 1536, 1501A–454; Pub. L. 114–323, title I, § 102, Dec. 16, 2016, 130 Stat. 1909; Pub. L. 117–263, div. I, title XCIII, § 9301(e)(2), Dec. 23, 2022, 136 Stat. 3881.)
+(Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 606], Nov. 29, 1999, 113 Stat. 1536, 1501A–454; Pub. L. 114–323, title I, § 102, Dec. 16, 2016, 130 Stat. 1909; Pub. L. 117–263, div. I, title XCIII, § 9301(e)(2), Dec. 23, 2022, 136 Stat. 3881.)
 
 **Editorial Notes**
 
@@ -1643,31 +1643,31 @@ Section was enacted as part of the Secure Embassy Construction and Counterterror
 
 **Amendments**
 
-2022—Subsec. (a)(1)(A). Pub. L. 117–263, § 9301(e)(2)(A), substituted “a range of threats, including that” for “the threat”.
+2022—Subsec. (a)(1)(A). Pub. L. 117–263, § 9301(e)(2)(A), substituted “a range of threats, including that” for “the threat”.
 
-Subsec. (a)(2)(A). Pub. L. 117–263, § 9301(e)(2)(B)(i), inserted “in a location that has certain minimum ratings under the Security Environment Threat List as determined by the Secretary in his or her discretion” after “abroad” and “, personnel of the Peace Corps, and personnel of any other type or category of facility that the Secretary may identify” after “military commander”.
+Subsec. (a)(2)(A). Pub. L. 117–263, § 9301(e)(2)(B)(i), inserted “in a location that has certain minimum ratings under the Security Environment Threat List as determined by the Secretary in his or her discretion” after “abroad” and “, personnel of the Peace Corps, and personnel of any other type or category of facility that the Secretary may identify” after “military commander”.
 
-Subsec. (a)(2)(B)(i). Pub. L. 117–263, § 9301(e)(2)(B)(ii)(I), amended cl. (i) generally. Prior to amendment, text read as follows: “Subject to clause (ii), the Secretary of State may waive subparagraph (A) if the Secretary, together with the head of each agency employing personnel that would not be located at the site, determine that security considerations permit and it is in the national interest of the United States.”
+Subsec. (a)(2)(B)(i). Pub. L. 117–263, § 9301(e)(2)(B)(ii)(I), amended cl. (i) generally. Prior to amendment, text read as follows: “Subject to clause (ii), the Secretary of State may waive subparagraph (A) if the Secretary, together with the head of each agency employing personnel that would not be located at the site, determine that security considerations permit and it is in the national interest of the United States.”
 
-Subsec. (a)(2)(B)(ii). Pub. L. 117–263, § 9301(e)(2)(B)(ii)(II), substituted “Prior” for subcl. (I), subcl. (II) designation and heading, and “Not less than 15 days prior”. Prior to amendment, text of subcl. (I) read as follows: “The Secretary may not delegate the waiver authority under clause (i) with respect to a chancery or consulate building.”
+Subsec. (a)(2)(B)(ii). Pub. L. 117–263, § 9301(e)(2)(B)(ii)(II), substituted “Prior” for subcl. (I), subcl. (II) designation and heading, and “Not less than 15 days prior”. Prior to amendment, text of subcl. (I) read as follows: “The Secretary may not delegate the waiver authority under clause (i) with respect to a chancery or consulate building.”
 
-Subsec. (a)(3)(A). Pub. L. 117–263, § 9301(e)(2)(C)(i), amended subpar. (A) generally. Prior to amendment, text read as follows: “Each newly acquired United States diplomatic facility shall be sited not less than 100 feet from the perimeter of the property on which the facility is to be situated.”
+Subsec. (a)(3)(A). Pub. L. 117–263, § 9301(e)(2)(C)(i), amended subpar. (A) generally. Prior to amendment, text read as follows: “Each newly acquired United States diplomatic facility shall be sited not less than 100 feet from the perimeter of the property on which the facility is to be situated.”
 
-Subsec. (a)(3)(B)(i). Pub. L. 117–263, § 9301(e)(2)(C)(ii)(I), struck out “security considerations permit and” after “if the Secretary determines that” and inserted “after taking account of any considerations the Secretary in his or her discretion considers relevant, which may include security conditions” after “national interest of the United States”.
+Subsec. (a)(3)(B)(i). Pub. L. 117–263, § 9301(e)(2)(C)(ii)(I), struck out “security considerations permit and” after “if the Secretary determines that” and inserted “after taking account of any considerations the Secretary in his or her discretion considers relevant, which may include security conditions” after “national interest of the United States”.
 
-Subsec. (a)(3)(B)(ii). Pub. L. 117–263, § 9301(e)(2)(C)(ii)(II), substituted “Prior” for subcl. (I), subcl. (II) designation and heading, and “Not less than 15 days prior”. Prior to amendment, text of subcl. (I) read as follows: “The Secretary may not delegate the waiver authority under clause (i) with respect to a chancery or consulate building.”
+Subsec. (a)(3)(B)(ii). Pub. L. 117–263, § 9301(e)(2)(C)(ii)(II), substituted “Prior” for subcl. (I), subcl. (II) designation and heading, and “Not less than 15 days prior”. Prior to amendment, text of subcl. (I) read as follows: “The Secretary may not delegate the waiver authority under clause (i) with respect to a chancery or consulate building.”
 
-Subsec. (a)(3)(B)(iii). Pub. L. 117–263, § 9301(e)(2)(C)(ii)(III), substituted “a quarterly” for “an annual”.
+Subsec. (a)(3)(B)(iii). Pub. L. 117–263, § 9301(e)(2)(C)(ii)(III), substituted “a quarterly” for “an annual”.
 
-2016—Subsec. (a)(1)(A). Pub. L. 114–323, § 102(1), inserted “and from complex attacks (as such term is defined in section 4866 of this title),” after “attacks from vehicles” and “or such a complex attack” after “an explosive attack”.
+2016—Subsec. (a)(1)(A). Pub. L. 114–323, § 102(1), inserted “and from complex attacks (as such term is defined in section 4866 of this title),” after “attacks from vehicles” and “or such a complex attack” after “an explosive attack”.
 
-Subsec. (a)(7). Pub. L. 114–323, § 102(2), inserted before period at end “, including at high risk, high threat posts (as such term is defined in section 4803 of this title), including options for the deployment of additional military personnel or equipment to bolster security and rapid deployment of armed or surveillance assets in response to an attack”.
+Subsec. (a)(7). Pub. L. 114–323, § 102(2), inserted before period at end “, including at high risk, high threat posts (as such term is defined in section 4803 of this title), including options for the deployment of additional military personnel or equipment to bolster security and rapid deployment of armed or surveillance assets in response to an attack”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Notification Requirements for Authorized and Ordered Departures**
 
-Pub. L. 119–60, div. E, title I, § 5173, Dec. 18, 2025, 139 Stat. 1587, provided that:
+Pub. L. 119–60, div. E, title I, § 5173, Dec. 18, 2025, 139 Stat. 1587, provided that:
 
 > **“(a) Departures Report.—**
 
@@ -1703,7 +1703,7 @@ Pub. L. 119–60, div. E, title I, § 5173, Dec. 18, 2025, 139 Stat. 1587, pro
 
 **Overseas Crisis Response System and Strategy**
 
-Pub. L. 118–159, div. G, title LXXII, § 7216, Dec. 23, 2024, 138 Stat. 2538, provided that:
+Pub. L. 118–159, div. G, title LXXII, § 7216, Dec. 23, 2024, 138 Stat. 2538, provided that:
 
 > **“(a) Senior Focal Point on Crisis Management and Response.—**
 
@@ -1815,7 +1815,7 @@ Pub. L. 118–159, div. G, title LXXII, § 7216, Dec. 23, 2024, 138 Stat. 2538
 
 **Crisis Response Operations**
 
-Pub. L. 118–31, div. F, title LXIV, § 6404, Dec. 22, 2023, 137 Stat. 997, provided that:
+Pub. L. 118–31, div. F, title LXIV, § 6404, Dec. 22, 2023, 137 Stat. 997, provided that:
 
 > **“(a) In General.—** Not later than 120 days after the date of the enactment of this division [Dec. 22, 2023], the Secretary [of State] shall institute the following changes and ensure that the following elements have been integrated into the ongoing crisis response management and response by the Crisis Management and Strategy Office:
 
@@ -1847,7 +1847,7 @@ Pub. L. 118–31, div. F, title LXIV, § 6404, Dec. 22, 2023, 137 Stat. 997, p
 
 **Inclusion of Sensitive Compartmented Information Facilities in United States Diplomatic Facilities in Cuba**
 
-Pub. L. 114–113, div. M, title V, § 513, Dec. 18, 2015, 129 Stat. 2926, provided that:
+Pub. L. 114–113, div. M, title V, § 513, Dec. 18, 2015, 129 Stat. 2926, provided that:
 
 > **“(a) Restricted Access Space Requirement.—** Each United States diplomatic facility in Cuba in which classified information will be processed or in which classified communications occur that, after the date of the enactment of this Act [Dec. 18, 2015], is constructed or undergoes a major construction upgrade shall be constructed to include a sensitive compartmented information facility.
 
@@ -1867,7 +1867,7 @@ Pub. L. 114–113, div. M, title V, § 513, Dec. 18, 2015, 129 Stat. 2926, pro
 
 **Inclusion of Sensitive Compartmented Information Facilities in United States Diplomatic Facilities in the Russian Federation and Adjacent Countries**
 
-Pub. L. 113–293, title III, § 314, Dec. 19, 2014, 128 Stat. 4002, provided that:
+Pub. L. 113–293, title III, § 314, Dec. 19, 2014, 128 Stat. 4002, provided that:
 
 > **“(a) Sensitive Compartmented Information Facility Requirement.—** Each United States diplomatic facility that, after the date of the enactment of this Act [Dec. 19, 2014], is constructed in, or undergoes a construction upgrade in, the Russian Federation, any country that shares a land border with the Russian Federation, or any country that is a former member of the Soviet Union shall be constructed to include a Sensitive Compartmented Information Facility.
 
@@ -1883,7 +1883,7 @@ Pub. L. 113–293, title III, § 314, Dec. 19, 2014, 128 Stat. 4002, provided 
 
 **Capital Security Cost Sharing**
 
-Pub. L. 109–364, div. A, title III, § 357, Oct. 17, 2006, 120 Stat. 2163, as amended by Pub. L. 115–91, div. A, title X, § 1051(*l*), Dec. 12, 2017, 131 Stat. 1564, provided that:
+Pub. L. 109–364, div. A, title III, § 357, Oct. 17, 2006, 120 Stat. 2163, as amended by Pub. L. 115–91, div. A, title X, § 1051(*l*), Dec. 12, 2017, 131 Stat. 1564, provided that:
 
 > **“(a) Reconciliation Required.—** For each fiscal year, the Secretary of Defense shall reconcile (1) the estimate of overseas presence of the Secretary of Defense under subsection (b) for that fiscal year, with (2) the determination of the Secretary of State under section 604(e)(1) of the Secure Embassy Construction and Counterterrorism Act of 1999 [Pub. L. 106–113] (22 U.S.C. 4865 note) of the total overseas presence of the Department of Defense for that fiscal year.
 
@@ -1891,7 +1891,7 @@ Pub. L. 109–364, div. A, title III, § 357, Oct. 17, 2006, 120 Stat. 2163, a
 
 **Findings**
 
-Pub. L. 117–263, div. I, title XCIII, § 9301(b), Dec. 23, 2022, 136 Stat. 3879, provided that:
+Pub. L. 117–263, div. I, title XCIII, § 9301(b), Dec. 23, 2022, 136 Stat. 3879, provided that:
 
 > “Congress makes the following findings:
 
@@ -1909,7 +1909,7 @@ Pub. L. 117–263, div. I, title XCIII, § 9301(b), Dec. 23, 2022, 136 Stat. 3
 
 > **“(B)** the locations of such posts have become less desirable, creating an extremely suboptimal nexus that further hinders United States diplomats who are willing to accept more risk in order to advance United States interests.”
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 602], Nov. 29, 1999, 113 Stat. 1536, 1501A–451, provided that:
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 602], Nov. 29, 1999, 113 Stat. 1536, 1501A–451, provided that:
 
 > “Congress makes the following findings:
 
@@ -1941,9 +1941,9 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 602], Nov. 29
 
 **Authorizations of Appropriations**
 
-Pub. L. 117–263, div. I, title XCVIII, § 9801, Dec. 23, 2022, 136 Stat. 3923, provided that: “For the purposes of calculating the costs of providing new United States diplomatic facilities in any fiscal year, in accordance with section 604(e) of the Secure Embassy Construction and Counterterrorism Act of 1999 [Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI]] (22 U.S.C. 4865 note), the Secretary of State, in consultation with the Director of the Office of Management and Budget, shall determine the annual program level and agency shares for such fiscal year in a manner that is proportional to the contribution of the Department of State for this purpose.”
+Pub. L. 117–263, div. I, title XCVIII, § 9801, Dec. 23, 2022, 136 Stat. 3923, provided that: “For the purposes of calculating the costs of providing new United States diplomatic facilities in any fiscal year, in accordance with section 604(e) of the Secure Embassy Construction and Counterterrorism Act of 1999 [Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI]] (22 U.S.C. 4865 note), the Secretary of State, in consultation with the Director of the Office of Management and Budget, shall determine the annual program level and agency shares for such fiscal year in a manner that is proportional to the contribution of the Department of State for this purpose.”
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 604], Nov. 29, 1999, 113 Stat. 1536, 1501A–453, as amended by Pub. L. 107–228, div. A, title I, § 111(a)(3)(B), Sept. 30, 2002, 116 Stat. 1356; Pub. L. 108–447, div. B, title VI, § 629, Dec. 8, 2004, 118 Stat. 2920; Pub. L. 112–74, div. I, title VII, § 7004(e), Dec. 23, 2011, 125 Stat. 1194; Pub. L. 114–323, title I, § 111(b), Dec. 16, 2016, 130 Stat. 1910, provided that:
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 604], Nov. 29, 1999, 113 Stat. 1536, 1501A–453, as amended by Pub. L. 107–228, div. A, title I, § 111(a)(3)(B), Sept. 30, 2002, 116 Stat. 1356; Pub. L. 108–447, div. B, title VI, § 629, Dec. 8, 2004, 118 Stat. 2920; Pub. L. 112–74, div. I, title VII, § 7004(e), Dec. 23, 2011, 125 Stat. 1194; Pub. L. 114–323, title I, § 111(b), Dec. 16, 2016, 130 Stat. 1910, provided that:
 
 > **“(a) Authorization of Appropriations.—** In addition to amounts otherwise authorized to be appropriated by this or any other Act, there are authorized to be appropriated for ‘Embassy Security, Construction and Maintenance’—
 
@@ -1979,7 +1979,7 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 604], Nov. 29
 
 **Obligations and Expenditures**
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 605], Nov. 29, 1999, 113 Stat. 1536, 1501A–453, as amended by Pub. L. 112–74, div. I, title VII, § 7034(n), Dec. 23, 2011, 125 Stat. 1217, provided that:
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 605], Nov. 29, 1999, 113 Stat. 1536, 1501A–453, as amended by Pub. L. 112–74, div. I, title VII, § 7034(n), Dec. 23, 2011, 125 Stat. 1217, provided that:
 
 > **“(a) Report and Priority of Obligations.—**
 
@@ -1995,9 +1995,9 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 605], Nov. 29
 
 **Definitions**
 
-For definitions of the terms “Secretary” and “appropriate congressional committees” used in this section and in section 1000(a)(7) [div. A, title VI, § 605] of Pub. L. 106–113, set out as a note above, see section 1000(a)(7) [§ 3] of Pub. L. 106–113, set out as a note under section 2651 of this title.
+For definitions of the terms “Secretary” and “appropriate congressional committees” used in this section and in section 1000(a)(7) [div. A, title VI, § 605] of Pub. L. 106–113, set out as a note above, see section 1000(a)(7) [§ 3] of Pub. L. 106–113, set out as a note under section 2651 of this title.
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 603], Nov. 29, 1999, 113 Stat. 1536, 1501A–452, as amended by Pub. L. 117–263, div. I, title XCIII, § 9301(d), Dec. 23, 2022, 136 Stat. 3880, provided that:
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 603], Nov. 29, 1999, 113 Stat. 1536, 1501A–452, as amended by Pub. L. 117–263, div. I, title XCIII, § 9301(d), Dec. 23, 2022, 136 Stat. 3880, provided that:
 
 > “In this title [enacting this section, amending section 4831 of this title, and enacting provisions set out as notes above], the terms ‘United States diplomatic facility’ and ‘diplomatic facility’ mean any chancery, consulate, or other office that—
 
@@ -2019,7 +2019,7 @@ You are hereby authorized and directed to publish this delegation in the Federal
 
 William J. Clinton.
 
-### § 4866. Security training for personnel assigned to a high risk, high threat post
+### § 4866. Security training for personnel assigned to a high risk, high threat post
 
 **(a) In general**
 
@@ -2057,9 +2057,9 @@ The term “complex attack” has the meaning given such term by the North Atlan
 
 The term “high risk, high threat post” has the meaning given such term in section 4803 of this title.
 
-(Pub. L. 99–399, title IV, § 416, as added Pub. L. 114–323, title I, § 121(a), Dec. 16, 2016, 130 Stat. 1913.)
+(Pub. L. 99–399, title IV, § 416, as added Pub. L. 114–323, title I, § 121(a), Dec. 16, 2016, 130 Stat. 1913.)
 
-### § 4867. Security management training for officials assigned to a high risk, high threat post
+### § 4867. Security management training for officials assigned to a high risk, high threat post
 
 **(a) In general**
 
@@ -2089,7 +2089,7 @@ Officials described in subsection (c) who are assigned to a high risk, high thre
 
 The requirements of this section shall take effect beginning on the date that is 1 year after December 16, 2016.
 
-(Pub. L. 99–399, title IV, § 417, as added Pub. L. 114–323, title I, § 121(a), Dec. 16, 2016, 130 Stat. 1913.)
+(Pub. L. 99–399, title IV, § 417, as added Pub. L. 114–323, title I, § 121(a), Dec. 16, 2016, 130 Stat. 1913.)
 
 **Editorial Notes**
 
@@ -2103,7 +2103,7 @@ GS–14 and GS–15, referred to in subsec. (c)(4), are contained in the General
 
 For definition of “high risk, high threat post” as used in this section, see section 4866(d)(2) of this title.
 
-### § 4868. Assignment of personnel at high risk, high threat posts
+### § 4868. Assignment of personnel at high risk, high threat posts
 
 The Secretary to the extent practicable shall station key personnel for sustained periods of time at high risk, high threat posts (as such term is defined in section 4803 of this title) in order to—
 
@@ -2111,7 +2111,7 @@ The Secretary to the extent practicable shall station key personnel for sustaine
 
 **(2)** ensure that necessary security procedures are implemented.
 
-(Pub. L. 114–323, title I, § 117, Dec. 16, 2016, 130 Stat. 1912.)
+(Pub. L. 114–323, title I, § 117, Dec. 16, 2016, 130 Stat. 1912.)
 
 **Editorial Notes**
 
@@ -2129,7 +2129,7 @@ Section was enacted as part of the Department of State Authorities Act, Fiscal Y
 
 The term “Secretary” as used in this section means the Secretary of State, see section 2 of Pub. L. 114–323, set out as a note under section 2651 of this title.
 
-### § 4869. Counter-intelligence training for certain Diplomatic Security special agents
+### § 4869. Counter-intelligence training for certain Diplomatic Security special agents
 
 **(a) In general**
 
@@ -2139,4 +2139,4 @@ Diplomatic Security special agents who are assigned to positions with a primary 
 
 In this section, the term “intelligence community” has the meaning given that term in 3003(4) of title 50.”.
 
-(Pub. L. 99–399, title IV, §418, as added Pub. L. 119–60, div. E, title V, § 5504(a), Dec. 18, 2025, 139 Stat. 1600.)
+(Pub. L. 99–399, title IV, §418, as added Pub. L. 119–60, div. E, title V, § 5504(a), Dec. 18, 2025, 139 Stat. 1600.)

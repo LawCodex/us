@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 91—COMMISSION OF FINE ARTS
 
-## § 9101. Establishment, composition, and vacancies
+## § 9101. Establishment, composition, and vacancies
 
 **(a) Establishment.—** There is a Commission of Fine Arts.
 
@@ -31,7 +31,7 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9101(a), (b) | 40:104 (1st sentence). | May 17, 1910, ch. 243, § 1 (1st, 2d sentences, last sentence words after comma), 36 Stat. 371. |
+| 9101(a), (b) | 40:104 (1st sentence). | May 17, 1910, ch. 243, § 1 (1st, 2d sentences, last sentence words after comma), 36 Stat. 371. |
 | 9101(c) | 40:104 (2d sentence). |  |
 | 9101(d) | 40:104 (last sentence words after comma). |  |
 
@@ -39,7 +39,7 @@ In subsection (a), the word “permanent” is omitted as obsolete.
 
 In subsection (d), the words “the District of Columbia” are substituted for “Washington” for consistency in the revised title and with other titles of the United States Code.
 
-## § 9102. Duties
+## § 9102. Duties
 
 **(a) In General.—** The Commission of Fine Arts shall advise on—
 
@@ -61,7 +61,7 @@ In subsection (d), the words “the District of Columbia” are substituted for 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9102(a) | 40:104 (3d, 6th sentences). | May 17, 1910, ch. 243, § 1 (3d–6th sentences), 36 Stat. 371. |
+| 9102(a) | 40:104 (3d, 6th sentences). | May 17, 1910, ch. 243, § 1 (3d–6th sentences), 36 Stat. 371. |
 | 9102(b) | 40:104 (4th sentence). |  |
 | 9102(c) | 40:104 (5th sentence). |  |
 
@@ -69,7 +69,7 @@ In subsection (b), the words “in each case” are omitted as unnecessary. The 
 
 In subsection (c), the words “buildings of the Library of Congress” are substituted for “building of the Library of Congress” for clarity because the Library of Congress comprises more than one building.
 
-## § 9103. Personnel
+## § 9103. Personnel
 
 The Commission of Fine Arts has a secretary and other assistance the Commission authorizes. The secretary is the executive officer of the Commission.
 
@@ -79,12 +79,12 @@ The Commission of Fine Arts has a secretary and other assistance the Commission 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9103 | 40:104 (last sentence words before comma). | May 17, 1910, ch. 243, § 1 (last sentence words before comma), 36 Stat. 371. |
+| 9103 | 40:104 (last sentence words before comma). | May 17, 1910, ch. 243, § 1 (last sentence words before comma), 36 Stat. 371. |
 |  | 40:105. | June 25, 1910, ch. 384 1 [sic] (8th complete par. on p. 728 (less appropriations)), 36 Stat. 728. |
 
 The text of 40:105 (related to officer in charge of public buildings and grounds) is omitted as obsolete.
 
-## § 9104. Authorization of appropriations
+## § 9104. Authorization of appropriations
 
 Necessary amounts may be appropriated to carry out this chapter.
 
@@ -94,4 +94,4 @@ Necessary amounts may be appropriated to carry out this chapter.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9104 | 40:106. | May 17, 1910, ch. 243, § 2, 36 Stat. 371; May 25, 1955, ch. 76, 69 Stat. 66; May 13, 1960, Pub. L. 86–461, 74 Stat. 128. |
+| 9104 | 40:106. | May 17, 1910, ch. 243, § 2, 36 Stat. 371; May 25, 1955, ch. 76, 69 Stat. 66; May 13, 1960, Pub. L. 86–461, 74 Stat. 128. |

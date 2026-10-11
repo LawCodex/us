@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 24—APPROPRIATIONS AND ANNUAL REPORT
 
-## § 2401. Appropriations
+## § 2401. Appropriations
 
 **(a)** There are appropriated to the Postal Service all revenues received by the Postal Service.
 
@@ -59,7 +59,7 @@ Each year, the Postal Service shall appear before the Committee on Governmental 
 
 **(g)** The rates established under chapter 36 of this title for zone-rated parcels formerly entered under former chapter 67 of this title shall not be more than 10 percent less than the rates for such mail would be if the funds authorized under subsection (b) were not appropriated.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 743; Pub. L. 94–421, § 2(a), (b), Sept. 24, 1976, 90 Stat. 1303; Pub. L. 95–593, § 11(a), Nov. 4, 1978, 92 Stat. 2538; Pub. L. 96–499, title IV, §§ 411, 414(a), Dec. 5, 1980, 94 Stat. 2607; Pub. L. 97–35, title XVII, § 1721, Aug. 13, 1981, 95 Stat. 759; Pub. L. 99–410, title II, § 201(b)(2), Aug. 28, 1986, 100 Stat. 928; Pub. L. 99–509, title VI, § 6003(b), Oct. 21, 1986, 100 Stat. 1933; Pub. L. 101–509, title II, § 1(b), Nov. 5, 1990, 104 Stat. 1398; Pub. L. 102–141, title II, Oct. 28, 1991, 105 Stat. 842; Pub. L. 103–31, § 8(h)(2), May 20, 1993, 107 Stat. 86; Pub. L. 103–123, title VII, §§ 703(a), 704(b)(1), Oct. 28, 1993, 107 Stat. 1267, 1270; Pub. L. 103–437, § 13, Nov. 2, 1994, 108 Stat. 4590; Pub. L. 109–435, title X, § 1010(c)(2), (d)(1), Dec. 20, 2006, 120 Stat. 3261.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 743; Pub. L. 94–421, § 2(a), (b), Sept. 24, 1976, 90 Stat. 1303; Pub. L. 95–593, § 11(a), Nov. 4, 1978, 92 Stat. 2538; Pub. L. 96–499, title IV, §§ 411, 414(a), Dec. 5, 1980, 94 Stat. 2607; Pub. L. 97–35, title XVII, § 1721, Aug. 13, 1981, 95 Stat. 759; Pub. L. 99–410, title II, § 201(b)(2), Aug. 28, 1986, 100 Stat. 928; Pub. L. 99–509, title VI, § 6003(b), Oct. 21, 1986, 100 Stat. 1933; Pub. L. 101–509, title II, § 1(b), Nov. 5, 1990, 104 Stat. 1398; Pub. L. 102–141, title II, Oct. 28, 1991, 105 Stat. 842; Pub. L. 103–31, § 8(h)(2), May 20, 1993, 107 Stat. 86; Pub. L. 103–123, title VII, §§ 703(a), 704(b)(1), Oct. 28, 1993, 107 Stat. 1267, 1270; Pub. L. 103–437, § 13, Nov. 2, 1994, 108 Stat. 4590; Pub. L. 109–435, title X, § 1010(c)(2), (d)(1), Dec. 20, 2006, 120 Stat. 3261.)
 
 **Editorial Notes**
 
@@ -67,33 +67,33 @@ Each year, the Postal Service shall appear before the Committee on Governmental 
 
 Enactment of the Postal Accountability and Enhancement Act, referred to in subsec. (d), means the enactment of Pub. L. 109–435, which was approved Dec. 20, 2006.
 
-Former chapter 67 of title 39, referred to in subsec. (g), means chapter 67 (§ 4551 et seq.) of former Title 39, The Postal Service, prior to the general revision and reenactment of Title 39 by Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719.
+Former chapter 67 of title 39, referred to in subsec. (g), means chapter 67 (§ 4551 et seq.) of former Title 39, The Postal Service, prior to the general revision and reenactment of Title 39 by Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719.
 
 **Amendments**
 
-2006—Subsec. (d). Pub. L. 109–435, § 1010(c)(2), inserted “(as last in effect before enactment of the Postal Accountability and Enhancement Act)” after “section 3626(a)” and after “section 3626(a)(3)(B)(ii)”.
+2006—Subsec. (d). Pub. L. 109–435, § 1010(c)(2), inserted “(as last in effect before enactment of the Postal Accountability and Enhancement Act)” after “section 3626(a)” and after “section 3626(a)(3)(B)(ii)”.
 
-Subsec. (e). Pub. L. 109–435, § 1010(d)(1), substituted “Committee on Government Reform” for “Committee on Post Office and Civil Service” in introductory and concluding provisions and “Each year,” for “Not later than March 15 of each year,” in concluding provisions.
+Subsec. (e). Pub. L. 109–435, § 1010(d)(1), substituted “Committee on Government Reform” for “Committee on Post Office and Civil Service” in introductory and concluding provisions and “Each year,” for “Not later than March 15 of each year,” in concluding provisions.
 
 1994—Subsec. (e). Pub. L. 103–437, in introductory provisions, substituted “Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives” for “Committees on Post Office and Civil Service”, and, in concluding provisions, substituted “Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives” for “Committees on Post Office and Civil Service of the Senate and the House of Representatives”.
 
-1993—Subsec. (c). Pub. L. 103–123, § 703(a), in first sentence substituted “if sections 3217 and 3403 through 3406 had not been enacted” for “if sections 3217, 3403–3406, 3626(a)–(h), 3626(j)–(k), and 3629 of this title, had not been enacted” and “such sections.” for “such sections and Acts.” and in second sentence struck out “(i)” after “Postal Service shall” and substituted “volume.” for “volume; and (ii) calculate the sums requested in respect of mail under former sections 4452(b) and 4452(c) of this title as though all such mail consisted of letter shaped pieces, as such pieces are defined in the then effective classification and rate schedules.”
+1993—Subsec. (c). Pub. L. 103–123, § 703(a), in first sentence substituted “if sections 3217 and 3403 through 3406 had not been enacted” for “if sections 3217, 3403–3406, 3626(a)–(h), 3626(j)–(k), and 3629 of this title, had not been enacted” and “such sections.” for “such sections and Acts.” and in second sentence struck out “(i)” after “Postal Service shall” and substituted “volume.” for “volume; and (ii) calculate the sums requested in respect of mail under former sections 4452(b) and 4452(c) of this title as though all such mail consisted of letter shaped pieces, as such pieces are defined in the then effective classification and rate schedules.”
 
 Pub. L. 103–31 substituted “3626(a)–(h), 3626(j)–(k), and 3629 of this title” for “and 3626(a)–(h) and (j)–(k) of this title,” in first sentence.
 
-Subsec. (d). Pub. L. 103–123, § 704(b)(1)(A), (E), added subsec. (d) and struck out former subsec. (d) which read as follows:
+Subsec. (d). Pub. L. 103–123, § 704(b)(1)(A), (E), added subsec. (d) and struck out former subsec. (d) which read as follows:
 
 “(d)(1) There is authorized to be appropriated to the Postal Service for fiscal year 1976 and for the period beginning July 1, 1976, and ending September 30, 1976, the amount of $500,000,000 to be applied against the accumulated operating indebtedness of the Postal Service as of September 30, 1976.
 
 “(2) There is authorized to be appropriated to the Postal Service for fiscal year 1977 the amount of $500,000,000 to be applied against the accumulated operating indebtedness of the Postal Service as of September 30, 1977.”
 
-Subsec. (e). Pub. L. 103–123, § 704(b)(1)(A), (B), redesignated subsec. (g) as (e) and struck out former subsec. (e) which restricted Postal Service from effectuating any rate of postage exceeding rates in effect on Sept. 24, 1976, diminishing services below July 1, 1976, levels, closing post offices where 35 or more families regularly receive their mail and which was providing service on July 1, 1976, or closing post offices where fewer than 35 families receive their mail and which was providing service on July 1, 1976, unless 60 percent of patrons consent to such closing in writing.
+Subsec. (e). Pub. L. 103–123, § 704(b)(1)(A), (B), redesignated subsec. (g) as (e) and struck out former subsec. (e) which restricted Postal Service from effectuating any rate of postage exceeding rates in effect on Sept. 24, 1976, diminishing services below July 1, 1976, levels, closing post offices where 35 or more families regularly receive their mail and which was providing service on July 1, 1976, or closing post offices where fewer than 35 families receive their mail and which was providing service on July 1, 1976, unless 60 percent of patrons consent to such closing in writing.
 
-Subsec. (f). Pub. L. 103–123, § 704(b)(1)(A)–(C), redesignated subsec. (h) as (f), struck out at end “The failure of the President to request the appropriation of any part of the funds authorized by this section shall not relieve the Postal Service from the responsibility to comply with the provisions of subsections (e) and (f) of this section.”, and struck out former subsec. (f) which read as follows: “During the period beginning on the date of the appropriation of the funds under subsection (d)(1) and ending on the date on which the Commission on Postal Service is required to transmit the final report required under section 7(f)(1) of the Postal Reorganization Act Amendments of 1976 to the President and each House of Congress, the Postal Service shall provide door delivery or curbline delivery to all permanent residential addresses (other than apartment building addresses) to which service is begun on or after the date of enactment of the Postal Reorganization Act Amendments of 1976.”
+Subsec. (f). Pub. L. 103–123, § 704(b)(1)(A)–(C), redesignated subsec. (h) as (f), struck out at end “The failure of the President to request the appropriation of any part of the funds authorized by this section shall not relieve the Postal Service from the responsibility to comply with the provisions of subsections (e) and (f) of this section.”, and struck out former subsec. (f) which read as follows: “During the period beginning on the date of the appropriation of the funds under subsection (d)(1) and ending on the date on which the Commission on Postal Service is required to transmit the final report required under section 7(f)(1) of the Postal Reorganization Act Amendments of 1976 to the President and each House of Congress, the Postal Service shall provide door delivery or curbline delivery to all permanent residential addresses (other than apartment building addresses) to which service is begun on or after the date of enactment of the Postal Reorganization Act Amendments of 1976.”
 
-Subsec. (g). Pub. L. 103–123, § 704(b)(1)(B), (D), redesignated (i) as (g) and substituted “subsection (b)” for “subsections (b) and (d) of this section”. Former subsec. (g) redesignated (e).
+Subsec. (g). Pub. L. 103–123, § 704(b)(1)(B), (D), redesignated (i) as (g) and substituted “subsection (b)” for “subsections (b) and (d) of this section”. Former subsec. (g) redesignated (e).
 
-Subsecs. (h), (i). Pub. L. 103–123, § 704(b)(1)(B), redesignated subsecs. (h) and (i) as (f) and (g), respectively.
+Subsecs. (h), (i). Pub. L. 103–123, § 704(b)(1)(B), redesignated subsecs. (h) and (i) as (f) and (g), respectively.
 
 1991—Subsec. (c). Pub. L. 102–141 amended last sentence generally. Prior to amendment, last sentence read as follows: “In requesting an appropriation under this subsection for a fiscal year, the Postal Service shall include an amount to reconcile sums authorized to be appropriated for prior fiscal years on the basis of estimated mail volume with sums which would have been authorized to be appropriated if based on the final audited mail volume.”
 
@@ -105,15 +105,15 @@ Pub. L. 99–410 substituted “3406” for “3405” and struck out “the Ove
 
 1981—Subsec. (b)(1). Pub. L. 97–35 substituted “$250,000,000” for “an amount equal to 7 percent of such sum for fiscal year 1971” in subpar. (D), substituted “$100,000,000” for “an amount equal to 6 percent of such sum for fiscal year 1971” in subpar. (E), and substituted “no funds are authorized to be appropriated” for “an amount equal to 5 percent of such sum for fiscal year 1971” in subpar. (F).
 
-1980—Subsec. (b)(1)(C). Pub. L. 96–499, § 411, substituted “$486,000,000” for “an amount equal to 8 percent of such sum for fiscal year 1971”.
+1980—Subsec. (b)(1)(C). Pub. L. 96–499, § 411, substituted “$486,000,000” for “an amount equal to 8 percent of such sum for fiscal year 1971”.
 
-Subsec. (c). Pub. L. 96–499, § 414(a), inserted provision requiring Postal Service when requesting an appropriation under subsec. (c) to reconcile sums authorized to be appropriated for prior fiscal years on the basis of estimated mail volume with sums which would have been authorized if based on the final audited mail volume.
+Subsec. (c). Pub. L. 96–499, § 414(a), inserted provision requiring Postal Service when requesting an appropriation under subsec. (c) to reconcile sums authorized to be appropriated for prior fiscal years on the basis of estimated mail volume with sums which would have been authorized if based on the final audited mail volume.
 
 1978—Subsec. (c). Pub. L. 95–593 inserted provisions relating to applicability of Overseas Citizens Voting Rights Act of 1975.
 
-1976—Subsec. (b)(3). Pub. L. 94–421, § 2(a), struck out par. (3) which required Postal Service, when requesting appropriations, to present to the appropriate committees in Congress, a statement of its compliance with the cost policy established under section 101(b) of this title.
+1976—Subsec. (b)(3). Pub. L. 94–421, § 2(a), struck out par. (3) which required Postal Service, when requesting appropriations, to present to the appropriate committees in Congress, a statement of its compliance with the cost policy established under section 101(b) of this title.
 
-Subsecs. (d) to (i). Pub. L. 94–421, § 2(b), added subsecs. (d) to (i).
+Subsecs. (d) to (i). Pub. L. 94–421, § 2(b), added subsecs. (d) to (i).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -125,15 +125,15 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–123, title VII, § 703(b), Oct. 28, 1993, 107 Stat. 1267, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to appropriations for fiscal years beginning after September 30, 1993.”
+Pub. L. 103–123, title VII, § 703(b), Oct. 28, 1993, 107 Stat. 1267, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to appropriations for fiscal years beginning after September 30, 1993.”
 
-Pub. L. 103–123, title VII, § 704(c)(2), Oct. 28, 1993, 107 Stat. 1271, provided that: “The amendments made by subsection (b) [amending this section] shall apply with respect to appropriations for fiscal years beginning after September 30, 1993.”
+Pub. L. 103–123, title VII, § 704(c)(2), Oct. 28, 1993, 107 Stat. 1271, provided that: “The amendments made by subsection (b) [amending this section] shall apply with respect to appropriations for fiscal years beginning after September 30, 1993.”
 
 Amendment by Pub. L. 103–31 effective (1) with respect to a State that, on May 20, 1993, has a provision in the constitution of the State that would preclude compliance with section 20501 et seq. of Title 52, Voting and Elections, unless the State maintained separate Federal and State official lists of eligible voters, on the later of Jan. 1, 1996, or the date that is 120 days after the date by which, under the constitution of the State as in effect on May 20, 1993, it would be legally possible to adopt and place into effect any amendments to the constitution of the State that are necessary to permit compliance with section 20501 et seq. of Title 52 without requiring a special election, and (2) with respect to a State not described in cl. (1) on Jan. 1, 1995, see section 13 of Pub. L. 103–31, set out as an Effective Date note under section 20501 of Title 52.
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–509, title II, § 1(c), Nov. 5, 1990, 104 Stat. 1398, provided that: “The amendment enacted by this section [amending this section and section 3626 of this title] shall become effective ninety days after the date of enactment of this Act [Nov. 5, 1990].”
+Pub. L. 101–509, title II, § 1(c), Nov. 5, 1990, 104 Stat. 1398, provided that: “The amendment enacted by this section [amending this section and section 3626 of this title] shall become effective ninety days after the date of enactment of this Act [Nov. 5, 1990].”
 
 **Effective Date of 1986 Amendments**
 
@@ -147,7 +147,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 1727 of Pub. L.
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–499, title IV, § 415, Dec. 5, 1980, 94 Stat. 2608, provided that: “The provisions of this subtitle, including the amendments made by this subtitle [subtitle B (§§ 411–415) of title IV of Pub. L. 96–499, amending this section and enacting provisions set out as a note under section 403 of this title], shall take effect on the date of the enactment of this Act [Dec. 5, 1980].”
+Pub. L. 96–499, title IV, § 415, Dec. 5, 1980, 94 Stat. 2608, provided that: “The provisions of this subtitle, including the amendments made by this subtitle [subtitle B (§§ 411–415) of title IV of Pub. L. 96–499, amending this section and enacting provisions set out as a note under section 403 of this title], shall take effect on the date of the enactment of this Act [Dec. 5, 1980].”
 
 **Effective Date**
 
@@ -155,13 +155,13 @@ Subsec. (a) of this section effective July 1, 1971, pursuant to Resolution No. 7
 
 **Termination of Reporting Requirements**
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the last item on page 194 identifies a reporting provision which, as subsequently amended, is contained in subsec. (e) of this section), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402(1)] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the last item on page 194 identifies a reporting provision which, as subsequently amended, is contained in subsec. (e) of this section), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402(1)] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
 
 **Reduction of Authorization for Revenue Foregone**
 
-Pub. L. 99–272, title XV, § 15101, Apr. 7, 1986, 100 Stat. 330, provided that: “Notwithstanding subsection (c) of section 2401 of title 39, United States Code, the amount authorized to be appropriated pursuant to such subsection for fiscal year 1986 shall be $749,000,000.”
+Pub. L. 99–272, title XV, § 15101, Apr. 7, 1986, 100 Stat. 330, provided that: “Notwithstanding subsection (c) of section 2401 of title 39, United States Code, the amount authorized to be appropriated pursuant to such subsection for fiscal year 1986 shall be $749,000,000.”
 
-Pub. L. 97–35, title XVII, § 1723, Aug. 13, 1981, 95 Stat. 759, as amended effective Oct. 1, 1982, by Pub. L. 97–216, title I, § 101, July 18, 1982, 96 Stat. 189, provided that:
+Pub. L. 97–35, title XVII, § 1723, Aug. 13, 1981, 95 Stat. 759, as amended effective Oct. 1, 1982, by Pub. L. 97–216, title I, § 101, July 18, 1982, 96 Stat. 189, provided that:
 
 > “Notwithstanding section 2401(c) of title 39, United States Code, the amount authorized to be appropriated under such section shall not exceed—
 
@@ -171,7 +171,7 @@ Pub. L. 97–35, title XVII, § 1723, Aug. 13, 1981, 95 Stat. 759, as amended 
 
 > **“(3)** $760,000,000 for fiscal year 1984.”
 
-## § 2402. Annual report
+## § 2402. Annual report
 
 The Postmaster General shall render an annual report to the Board concerning the operations of the Postal Service under this title. Upon approval thereof, or after making such changes as it considers appropriate, the Board shall transmit such reports to the President and the Congress.
 

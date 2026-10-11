@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 122—TRAVEL AND TOURISM
 
-## § 9801. Defined term
+## § 9801. Defined term
 
 In this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the term “COVID–19 public health emergency”—
 
@@ -27,25 +27,25 @@ the term “COVID–19 public health emergency”—
 
 **(2)** includes any renewal of such declaration pursuant to such section 247d of title 42.
 
-(Pub. L. 117–328, div. BB, title VI, § 600, Dec. 29, 2022, 136 Stat. 5566.)
+(Pub. L. 117–328, div. BB, title VI, § 600, Dec. 29, 2022, 136 Stat. 5566.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This title, referred to in text, is title VI of div. BB of Pub. L. 117–328, Dec. 29, 2022, 136 Stat. 5566. Section 600 and subtitle A (§§ 601–609) of title VI enacted this chapter, amended section 1546 of this title, enacted provisions set out as notes under this section and section 9802 of this title, amended provisions set out as a note under section 2171 of Title 19, Customs Duties, and amended Reorg. Plan No. 3 of 1979, set out in the Appendix to Title 5, Government Organization and Employees. Subtitle B (§ 611) of title VI is not classified to the Code. For complete classification of title VI to the Code, see Tables.
+This title, referred to in text, is title VI of div. BB of Pub. L. 117–328, Dec. 29, 2022, 136 Stat. 5566. Section 600 and subtitle A (§§ 601–609) of title VI enacted this chapter, amended section 1546 of this title, enacted provisions set out as notes under this section and section 9802 of this title, amended provisions set out as a note under section 2171 of Title 19, Customs Duties, and amended Reorg. Plan No. 3 of 1979, set out in the Appendix to Title 5, Government Organization and Employees. Subtitle B (§ 611) of title VI is not classified to the Code. For complete classification of title VI to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–328, div. BB, title VI, § 601, Dec. 29, 2022, 136 Stat. 5566, provided that: “This subtitle [subtitle A (§§ 601–609) of title VI of div. BB of Pub. L. 117–328, enacting sections 9802 to 9805 of this title, amending section 1546 of this title, enacting provisions set out as notes under this section and section 9802 of this title, amending provisions set out as notes under section 2171 of Title 19, Customs Duties, and amended Reorg. Plan No. 3 of 1979, set out in the Appendix to Title 5, Government Organization and Employees] may be cited as the ‘Visit America Act’.”
+Pub. L. 117–328, div. BB, title VI, § 601, Dec. 29, 2022, 136 Stat. 5566, provided that: “This subtitle [subtitle A (§§ 601–609) of title VI of div. BB of Pub. L. 117–328, enacting sections 9802 to 9805 of this title, amending section 1546 of this title, enacting provisions set out as notes under this section and section 9802 of this title, amending provisions set out as notes under section 2171 of Title 19, Customs Duties, and amended Reorg. Plan No. 3 of 1979, set out in the Appendix to Title 5, Government Organization and Employees] may be cited as the ‘Visit America Act’.”
 
 **Completion of Proceeding**
 
-Pub. L. 117–328, div. BB, title VI, § 609, Dec. 29, 2022, 136 Stat. 5570, provided that: “If the Secretary of Commerce, before the date of the enactment of this Act [Dec. 29, 2022], has taken any action that, in whole or in part, implements this title [see References in Text note above] or the amendments made by this title, the Secretary is not required to revisit such action to the extent such action is consistent with this title and the amendments made by this title.”
+Pub. L. 117–328, div. BB, title VI, § 609, Dec. 29, 2022, 136 Stat. 5570, provided that: “If the Secretary of Commerce, before the date of the enactment of this Act [Dec. 29, 2022], has taken any action that, in whole or in part, implements this title [see References in Text note above] or the amendments made by this title, the Secretary is not required to revisit such action to the extent such action is consistent with this title and the amendments made by this title.”
 
-## § 9802. Purposes
+## § 9802. Purposes
 
 The purposes of this subtitle are—
 
@@ -61,19 +61,19 @@ The purposes of this subtitle are—
 
 **(D)** the number of international visitors and the value of national travel exports.
 
-(Pub. L. 117–328, div. BB, title VI, § 602, Dec. 29, 2022, 136 Stat. 5566.)
+(Pub. L. 117–328, div. BB, title VI, § 602, Dec. 29, 2022, 136 Stat. 5566.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subtitle, referred to in text, is subtitle A (§§ 601–609) of title VI of div. BB of Pub. L. 117–328, Dec. 29, 2022, 136 Stat. 5566, which enacted sections 9802 to 9805 of this title, amended section 1546 of this title, enacted provisions set out as notes under this section and section 9801 of this title, and amended provisions set out as a note under section 2171 of Title 19, Customs Duties. For complete classification of this title to the Code, see Short Title of 2022 Amendment note set out under section 9801 of this title and Tables.
+This subtitle, referred to in text, is subtitle A (§§ 601–609) of title VI of div. BB of Pub. L. 117–328, Dec. 29, 2022, 136 Stat. 5566, which enacted sections 9802 to 9805 of this title, amended section 1546 of this title, enacted provisions set out as notes under this section and section 9801 of this title, and amended provisions set out as a note under section 2171 of Title 19, Customs Duties. For complete classification of this title to the Code, see Short Title of 2022 Amendment note set out under section 9801 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Sense of Congress**
 
-Pub. L. 117–328, div. BB, title VI, § 603, Dec. 29, 2022, 136 Stat. 5566, provided that:
+Pub. L. 117–328, div. BB, title VI, § 603, Dec. 29, 2022, 136 Stat. 5566, provided that:
 
 > “It is the sense of Congress that—
 
@@ -87,7 +87,7 @@ Pub. L. 117–328, div. BB, title VI, § 603, Dec. 29, 2022, 136 Stat. 5566, p
 
 > **“(5)** there is an urgent need for a coordinated travel and tourism industry response and strategy to respond to the current state of such industry and future unforeseen circumstances that may impact the travel and tourism industry.”
 
-## § 9803. Responsibilities of the Assistant Secretary of Commerce for Travel and Tourism
+## § 9803. Responsibilities of the Assistant Secretary of Commerce for Travel and Tourism
 
 **(a) Visitation goals** The Assistant Secretary of Commerce for Travel and Tourism (referred to in this section as the “Assistant Secretary”) shall—
 
@@ -189,9 +189,9 @@ In developing the recovery strategies under paragraph (1), the Assistant Secreta
 
 **(B)** shall include questions in the Survey of International Air Travelers regarding wait-times, visits to public lands, and State data, to the extent applicable.
 
-(Pub. L. 117–328, div. BB, title VI, § 605, Dec. 29, 2022, 136 Stat. 5567.)
+(Pub. L. 117–328, div. BB, title VI, § 605, Dec. 29, 2022, 136 Stat. 5567.)
 
-## § 9804. Travel and tourism strategy
+## § 9804. Travel and tourism strategy
 
 Not less frequently than once every 10 years, the Secretary of Commerce, in consultation with the United States Travel and Tourism Advisory Board, the Tourism Policy Council, the Secretary of State, and the Secretary of Homeland Security, shall develop and submit to Congress a 10-year travel and tourism strategy, which shall include—
 
@@ -201,10 +201,10 @@ Not less frequently than once every 10 years, the Secretary of Commerce, in cons
 
 **(3)** recommendations for statutory or regulatory changes that would be necessary to achieve such goals.
 
-(Pub. L. 117–328, div. BB, title VI, § 606, Dec. 29, 2022, 136 Stat. 5569.)
+(Pub. L. 117–328, div. BB, title VI, § 606, Dec. 29, 2022, 136 Stat. 5569.)
 
-## § 9805. Data on domestic travel and tourism
+## § 9805. Data on domestic travel and tourism
 
 The Assistant Secretary of Commerce for Travel and Tourism, subject to the availability of appropriations, shall collect and make public aggregate data on domestic travel and tourism trends.
 
-(Pub. L. 117–328, div. BB, title VI, § 608, Dec. 29, 2022, 136 Stat. 5570.)
+(Pub. L. 117–328, div. BB, title VI, § 608, Dec. 29, 2022, 136 Stat. 5570.)

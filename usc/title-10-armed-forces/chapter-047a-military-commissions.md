@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Codification**
 
-This chapter was originally added by Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2600, and amended by Pub. L. 110–181, Jan. 28, 2008, 122 Stat. 3. This chapter is shown here, however, as having been added by Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2574, without reference to those intervening amendments because of the general amendment of this chapter by Pub. L. 111–84.
+This chapter was originally added by Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2600, and amended by Pub. L. 110–181, Jan. 28, 2008, 122 Stat. 3. This chapter is shown here, however, as having been added by Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2574, without reference to those intervening amendments because of the general amendment of this chapter by Pub. L. 111–84.
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title X, § 1081(a)(10), Aug. 13, 2018, 132 Stat. 1983, substituted “VII. Post-Trial Procedure and Review of Military Commissions” for “VII. Post-Trial Procedures and Review of Military Commissions ... 950a.” in item relating to subchapter VII.
+2018—Pub. L. 115–232, div. A, title X, § 1081(a)(10), Aug. 13, 2018, 132 Stat. 1983, substituted “VII. Post-Trial Procedure and Review of Military Commissions” for “VII. Post-Trial Procedures and Review of Military Commissions ... 950a.” in item relating to subchapter VII.
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 948a. Definitions
+### § 948a. Definitions
 
 In this chapter:
 
@@ -59,27 +59,27 @@ In this chapter:
 
 **(9) Hostilities.—** The term “hostilities” means any conflict subject to the laws of war.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2574.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2574.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 948a, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2601, related to definitions, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 948a, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2601, related to definitions, prior to the general amendment of this chapter by Pub. L. 111–84.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2009 Amendment**
 
-Pub. L. 111–84, div. A, title XVIII, § 1801, Oct. 28, 2009, 123 Stat. 2574, provided that: “This title [enacting this chapter, amending sections 802 and 839 of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 801 of this title] may be cited as the ‘Military Commissions Act of 2009’.”
+Pub. L. 111–84, div. A, title XVIII, § 1801, Oct. 28, 2009, 123 Stat. 2574, provided that: “This title [enacting this chapter, amending sections 802 and 839 of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 801 of this title] may be cited as the ‘Military Commissions Act of 2009’.”
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–366, § 1(a), Oct. 17, 2006, 120 Stat. 2600, provided that: “This Act [see Tables for classification] may be cited as the ‘Military Commissions Act of 2006’.”
+Pub. L. 109–366, § 1(a), Oct. 17, 2006, 120 Stat. 2600, provided that: “This Act [see Tables for classification] may be cited as the ‘Military Commissions Act of 2006’.”
 
 **Prohibition on Enforcement of Military Commission Rulings Preventing Members of the Armed Forces From Carrying Out Otherwise Lawful Duties Based on Member Sex**
 
-Pub. L. 114–328, div. A, title X, § 1056, Dec. 23, 2016, 130 Stat. 2400, provided that:
+Pub. L. 114–328, div. A, title X, § 1056, Dec. 23, 2016, 130 Stat. 2400, provided that:
 
 > **“(a) Prohibition.—** No order, ruling, finding, or other determination of a military commission may be construed or implemented to prohibit or restrict a member of the Armed Forces from carrying out duties otherwise lawfully assigned to such member to the extent that the basis for such prohibition or restriction is the sex of such member.
 
@@ -89,7 +89,7 @@ Pub. L. 114–328, div. A, title X, § 1056, Dec. 23, 2016, 130 Stat. 2400, pr
 
 **Proceedings Under Prior Statute**
 
-Pub. L. 111–84, div. A, title XVIII, § 1804, Oct. 28, 2009, 123 Stat. 2612, provided that:
+Pub. L. 111–84, div. A, title XVIII, § 1804, Oct. 28, 2009, 123 Stat. 2612, provided that:
 
 > **“(a) Prior Convictions.—** The amendment made by section 1802 [generally amending this chapter] shall have no effect on the validity of any conviction pursuant to chapter 47A of title 10, United States Code (as such chapter was in effect on the day before the date of the enactment of this Act [Oct. 28, 2009]).
 
@@ -125,7 +125,7 @@ Pub. L. 111–84, div. A, title XVIII, § 1804, Oct. 28, 2009, 123 Stat. 2612,
 
 **Submittal to Congress of Revised Rules for Military Commissions**
 
-Pub. L. 111–84, div. A, title XVIII, § 1805, Oct. 28, 2009, 123 Stat. 2614, provided that:
+Pub. L. 111–84, div. A, title XVIII, § 1805, Oct. 28, 2009, 123 Stat. 2614, provided that:
 
 > **“(a) Deadline for Submittal.—** Not later than 90 days after the date of the enactment of this Act [Oct. 28, 2009], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives the revised rules for military commissions prescribed by the Secretary for purposes of chapter 47A of title 10, United States Code (as amended by section 1802).
 
@@ -133,7 +133,7 @@ Pub. L. 111–84, div. A, title XVIII, § 1805, Oct. 28, 2009, 123 Stat. 2614,
 
 **Annual Reports to Congress on Trials by Military Commission**
 
-Pub. L. 111–84, div. A, title XVIII, § 1806, Oct. 28, 2009, 123 Stat. 2614, provided that:
+Pub. L. 111–84, div. A, title XVIII, § 1806, Oct. 28, 2009, 123 Stat. 2614, provided that:
 
 > **“(a) Annual Reports Required.—** Not later than January 31 of each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on any trials conducted by military commissions under chapter 47A of title 10, United States Code (as amended by section 1802), during the preceding year.
 
@@ -143,9 +143,9 @@ Pub. L. 111–84, div. A, title XVIII, § 1806, Oct. 28, 2009, 123 Stat. 2614,
 
 **Construction of Presidential Authority To Establish Military Commissions**
 
-Pub. L. 109–366, § 2, Oct. 17, 2006, 120 Stat. 2600, provided that: “The authority to establish military commissions under chapter 47A of title 10, United States Code, as added by section 3(a), may not be construed to alter or limit the authority of the President under the Constitution of the United States and laws of the United States to establish military commissions for areas declared to be under martial law or in occupied territories should circumstances so require.”
+Pub. L. 109–366, § 2, Oct. 17, 2006, 120 Stat. 2600, provided that: “The authority to establish military commissions under chapter 47A of title 10, United States Code, as added by section 3(a), may not be construed to alter or limit the authority of the President under the Constitution of the United States and laws of the United States to establish military commissions for areas declared to be under martial law or in occupied territories should circumstances so require.”
 
-### § 948b. Military commissions generally
+### § 948b. Military commissions generally
 
 **(a) Purpose.—** This chapter establishes procedures governing the use of military commissions to try alien unprivileged enemy belligerents for violations of the law of war and other offenses triable by military commission.
 
@@ -167,13 +167,13 @@ Pub. L. 109–366, § 2, Oct. 17, 2006, 120 Stat. 2600, provided that: “The 
 
 **(e) Geneva Conventions Not Establishing Private Right of Action.—** No alien unprivileged enemy belligerent subject to trial by military commission under this chapter may invoke the Geneva Conventions as a basis for a private right of action.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2575; amended Pub. L. 113–66, div. A, title XVII, § 1702(c)(3)(E), Dec. 26, 2013, 127 Stat. 958.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2575; amended Pub. L. 113–66, div. A, title XVII, § 1702(c)(3)(E), Dec. 26, 2013, 127 Stat. 958.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 948b, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2602, related to military commissions generally, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 948b, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2602, related to military commissions generally, prior to the general amendment of this chapter by Pub. L. 111–84.
 
 **Amendments**
 
@@ -219,47 +219,47 @@ Sec. 4. *General Provisions*. (a) This order shall be implemented in accordance 
 
 George W. Bush.
 
-### § 948c. Persons subject to military commissions
+### § 948c. Persons subject to military commissions
 
 Any alien unprivileged enemy belligerent is subject to trial by military commission as set forth in this chapter.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2576.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2576.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 948c, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2602, related to persons subject to military commissions, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 948c, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2602, related to persons subject to military commissions, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-### § 948d. Jurisdiction of military commissions
+### § 948d. Jurisdiction of military commissions
 
 A military commission under this chapter shall have jurisdiction to try persons subject to this chapter for any offense made punishable by this chapter, sections 904 and 906 of this title (articles 104 and 106 of the Uniform Code of Military Justice), or the law of war, whether such offense was committed before, on, or after September 11, 2001, and may, under such limitations as the President may prescribe, adjudge any punishment not forbidden by this chapter, including the penalty of death when specifically authorized under this chapter. A military commission is a competent tribunal to make a finding sufficient for jurisdiction.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2576.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2576.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 948d, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2603, related to jurisdiction of military commissions, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 948d, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2603, related to jurisdiction of military commissions, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-A prior section 948e, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2603, which required the Secretary of Defense to submit an annual report to congressional committees, was omitted in the general amendment of this chapter by Pub. L. 111–84. See section 1806 of Pub. L. 111–84, set out as a note under section 948a of this title.
+A prior section 948e, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2603, which required the Secretary of Defense to submit an annual report to congressional committees, was omitted in the general amendment of this chapter by Pub. L. 111–84. See section 1806 of Pub. L. 111–84, set out as a note under section 948a of this title.
 
 ## SUBCHAPTER II—COMPOSITION OF MILITARY COMMISSIONS
 
-### § 948h. Who may convene military commissions
+### § 948h. Who may convene military commissions
 
 Military commissions under this chapter may be convened by the Secretary of Defense or by any officer or official of the United States designated by the Secretary for that purpose.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2576.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2576.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 948h, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2603, related to who may convene military commissions, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 948h, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2603, related to who may convene military commissions, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-### § 948i. Who may serve on military commissions
+### § 948i. Who may serve on military commissions
 
 **(a) In General.—** Any commissioned officer of the armed forces on active duty is eligible to serve on a military commission under this chapter, including commissioned officers of the reserve components of the armed forces on active duty, commissioned officers of the National Guard on active duty in Federal service, or retired commissioned officers recalled to active duty.
 
@@ -267,15 +267,15 @@ A prior section 948h, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 
 
 **(c) Excuse of Members.—** Before a military commission under this chapter is assembled for the trial of a case, the convening authority may excuse a member from participating in the case.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2576.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2576.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 948i, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2603, related to who may serve on military commissions, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 948i, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2603, related to who may serve on military commissions, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-### § 948j. Military judge of a military commission
+### § 948j. Military judge of a military commission
 
 **(a) Detail of Military Judge.—** A military judge shall be detailed to each military commission under this chapter. The Secretary of Defense shall prescribe regulations providing for the manner in which military judges are so detailed to military commissions. The military judge shall preside over each military commission to which such military judge has been detailed.
 
@@ -289,15 +289,15 @@ A prior section 948i, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 
 
 **(f) Prohibition on Evaluation of Fitness by Convening Authority.—** The convening authority of a military commission under this chapter may not prepare or review any report concerning the effectiveness, fitness, or efficiency of a military judge detailed to the military commission which relates to such judge’s performance of duty as a military judge on the military commission.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2577.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2577.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 948j, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2604, related to military judges of military commissions, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 948j, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2604, related to military judges of military commissions, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-### § 948k. Detail of trial counsel and defense counsel
+### § 948k. Detail of trial counsel and defense counsel
 
 **(a) Detail of Counsel Generally.—**
 
@@ -341,19 +341,19 @@ A prior section 948j, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 
 
 **(e) Ineligibility of Certain Individuals.—** No person who has acted as an investigator, military judge, or member of a military commission under this chapter in any case may act later as trial counsel or military defense counsel in the same case. No person who has acted for the prosecution before a military commission under this chapter may act later in the same case for the defense, nor may any person who has acted for the defense before a military commission under this chapter act later in the same case for the prosecution.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2577.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2577.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 948k, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2604, related to detail of trial counsel and defense counsel, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 948k, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2604, related to detail of trial counsel and defense counsel, prior to the general amendment of this chapter by Pub. L. 111–84.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Grade of Chief Prosecutor and Chief Defense Counsel in Military Commissions Established To Try Individuals Detained at Guantanamo**
 
-Pub. L. 113–66, div. A, title X, § 1037, Dec. 26, 2013, 127 Stat. 854, provided that:
+Pub. L. 113–66, div. A, title X, § 1037, Dec. 26, 2013, 127 Stat. 854, provided that:
 
 > **“(a) In General.—** For purposes of any military commission established under chapter 47A of title 10, United States Code, to try an alien unprivileged enemy belligerent (as such terms are defined in section 948a of such title) who is detained at United States Naval Station, Guantanamo Bay, Cuba, the chief defense counsel and the chief prosecutor shall have the same grade (as that term is defined in section 101(b)(7) of such title).
 
@@ -375,7 +375,7 @@ Pub. L. 113–66, div. A, title X, § 1037, Dec. 26, 2013, 127 Stat. 854, prov
 
 > **“(c) Guidance.—** Not later than 60 days after the date of the enactment of this Act [Dec. 26, 2013], the Secretary of Defense shall issue guidance to ensure that the office of the chief defense counsel and the office of the chief prosecutor receive equitable resources, personnel support, and logistical support for conducting their respective duties in connection with any military commission established under chapter 47A of title 10, United States Code, to try an alien unprivileged enemy belligerent (as such terms are defined in section 948a of such title) who is detained at United States Naval Station, Guantanamo Bay, Cuba.”
 
-### § 948l. Detail or employment of reporters and interpreters
+### § 948l. Detail or employment of reporters and interpreters
 
 **(a) Court Reporters.—** Under such regulations as the Secretary of Defense may prescribe, the convening authority of a military commission under this chapter shall detail to or employ for the military commission qualified court reporters, who shall prepare a verbatim record of the proceedings of and testimony taken before the military commission.
 
@@ -383,15 +383,15 @@ Pub. L. 113–66, div. A, title X, § 1037, Dec. 26, 2013, 127 Stat. 854, prov
 
 **(c) Transcript; Record.—** The transcript of a military commission under this chapter shall be under the control of the convening authority of the military commission, who shall also be responsible for preparing the record of the proceedings of the military commission.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2578.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2578.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 948*l*, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2605, related to detail or employment of reporters and interpreters, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 948*l*, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2605, related to detail or employment of reporters and interpreters, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-### § 948m. Number of members; excuse of members; absent and additional members
+### § 948m. Number of members; excuse of members; absent and additional members
 
 **(a) Number of Members.—**
 
@@ -419,29 +419,29 @@ A prior section 948*l*, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 12
 
 **(e) Absent and Additional Members.—** Whenever the number of primary members of a military commission under this chapter is reduced below the number of primary members required by subsection (a) and there are no remaining alternate members to replace the excused primary members, the trial may not proceed unless the convening authority details new members sufficient to provide not less than such number. The trial may proceed with the new members present after the recorded evidence previously introduced before the members has been read to the military commission in the presence of the military judge, the accused (except as provided in section 949d of this title), and counsel for both sides. An alternate member who was present for the introduction of all evidence shall not be considered to be a new or additional member.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2579; amended Pub. L. 113–66, div. A, title X, § 1031(a), Dec. 26, 2013, 127 Stat. 849.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2579; amended Pub. L. 113–66, div. A, title X, § 1031(a), Dec. 26, 2013, 127 Stat. 849.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 948m, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2606, related to number of members, excuse of members, and absent and additional members of a military commission, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 948m, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2606, related to number of members, excuse of members, and absent and additional members of a military commission, prior to the general amendment of this chapter by Pub. L. 111–84.
 
 **Amendments**
 
-2013—Subsec. (a)(1). Pub. L. 113–66, § 1031(a)(1)(A), substituted “at least five primary members and as many alternate members as the convening authority shall detail” for “at least five members” and inserted at end “Alternate members shall be designated in the order in which they will replace an excused primary member.”
+2013—Subsec. (a)(1). Pub. L. 113–66, § 1031(a)(1)(A), substituted “at least five primary members and as many alternate members as the convening authority shall detail” for “at least five members” and inserted at end “Alternate members shall be designated in the order in which they will replace an excused primary member.”
 
-Subsec. (a)(2). Pub. L. 113–66, § 1031(a)(1)(B), inserted “primary” before “members”.
+Subsec. (a)(2). Pub. L. 113–66, § 1031(a)(1)(B), inserted “primary” before “members”.
 
-Subsecs. (b), (c). Pub. L. 113–66, § 1031(a)(2)(B), added subsecs. (b) and (c). Former subsecs. (b) and (c) redesignated (d) and (e), respectively.
+Subsecs. (b), (c). Pub. L. 113–66, § 1031(a)(2)(B), added subsecs. (b) and (c). Former subsecs. (b) and (c) redesignated (d) and (e), respectively.
 
-Subsec. (d). Pub. L. 113–66, § 1031(a)(2)(A), (3), redesignated subsec. (b) as (d), inserted “primary or alternate” before “member” in introductory provisions, and added par. (4).
+Subsec. (d). Pub. L. 113–66, § 1031(a)(2)(A), (3), redesignated subsec. (b) as (d), inserted “primary or alternate” before “member” in introductory provisions, and added par. (4).
 
-Subsec. (e). Pub. L. 113–66, § 1031(a)(2)(A), (4), redesignated subsec. (c) as (e), substituted “Whenever the number of primary members of a military commission under this chapter is reduced below the number of primary members required by subsection (a) and there are no remaining alternate members to replace the excused primary members” for “Whenever a military commission under this chapter is reduced below the number of members required by subsection (a)”, and inserted at end “An alternate member who was present for the introduction of all evidence shall not be considered to be a new or additional member.”
+Subsec. (e). Pub. L. 113–66, § 1031(a)(2)(A), (4), redesignated subsec. (c) as (e), substituted “Whenever the number of primary members of a military commission under this chapter is reduced below the number of primary members required by subsection (a) and there are no remaining alternate members to replace the excused primary members” for “Whenever a military commission under this chapter is reduced below the number of members required by subsection (a)”, and inserted at end “An alternate member who was present for the introduction of all evidence shall not be considered to be a new or additional member.”
 
 ## SUBCHAPTER III—PRE-TRIAL PROCEDURE
 
-### § 948q. Charges and specifications
+### § 948q. Charges and specifications
 
 **(a) Charges and Specifications.—** Charges and specifications against an accused in a military commission under this chapter shall be signed by a person subject to chapter 47 of this title under oath before a commissioned officer of the armed forces authorized to administer oaths and shall state—
 
@@ -451,15 +451,15 @@ Subsec. (e). Pub. L. 113–66, § 1031(a)(2)(A), (4), redesignated subsec. (c)
 
 **(b) Notice to Accused.—** Upon the swearing of the charges and specifications in accordance with subsection (a), the accused shall be informed of the charges and specifications against the accused as soon as practicable.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2579.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2579.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 948q, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2606, related to charges and specifications, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 948q, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2606, related to charges and specifications, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-### § 948r. Exclusion of statements obtained by torture or cruel, inhuman, or degrading treatment; prohibition of self-incrimination; admission of other statements of the accused
+### § 948r. Exclusion of statements obtained by torture or cruel, inhuman, or degrading treatment; prohibition of self-incrimination; admission of other statements of the accused
 
 **(a) Exclusion of Statements Obtain by Torture or Cruel, Inhuman, or Degrading Treatment.—** No statement obtained by the use of torture or by cruel, inhuman, or degrading treatment (as defined by section 1003 of the Detainee Treatment Act of 2005 (42 U.S.C. 2000dd)), whether or not under color of law, shall be admissible in a military commission under this chapter, except against a person accused of torture or such treatment as evidence that the statement was made.
 
@@ -483,29 +483,29 @@ A prior section 948q, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 
 
 **(3)** The lapse of time, change of place, or change in identity of the questioners between the statement sought to be admitted and any prior questioning of the accused.
 
-(Added by Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2580.)
+(Added by Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2580.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 948r, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2607; amended Pub. L. 110–181, div. A, title X, § 1063(a)(4), Jan. 28, 2008, 122 Stat. 321, related to prohibition of compulsory self-incrimination and treatment of statements obtained by torture and other statements, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 948r, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2607; amended Pub. L. 110–181, div. A, title X, § 1063(a)(4), Jan. 28, 2008, 122 Stat. 321, related to prohibition of compulsory self-incrimination and treatment of statements obtained by torture and other statements, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-### § 948s. Service of charges
+### § 948s. Service of charges
 
 The trial counsel assigned to a case before a military commission under this chapter shall cause to be served upon the accused and military defense counsel a copy of the charges upon which trial is to be had in English and, if appropriate, in another language that the accused understands, sufficiently in advance of trial to prepare a defense.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2580.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2580.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 948s, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2607, related to service of charges, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 948s, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2607, related to service of charges, prior to the general amendment of this chapter by Pub. L. 111–84.
 
 ## SUBCHAPTER IV—TRIAL PROCEDURE
 
-### § 949a. Rules
+### § 949a. Rules
 
 **(a) Procedures and Rules of Evidence.—** Pretrial, trial, and post-trial procedures, including elements and modes of proof, for cases triable by military commission under this chapter may be prescribed by the Secretary of Defense. Such procedures may not be contrary to or inconsistent with this chapter. Except as otherwise provided in this chapter or chapter 47 of this title, the procedures and rules of evidence applicable in trials by general courts-martial of the United States shall apply in trials by military commission under this chapter.
 
@@ -571,19 +571,19 @@ A prior section 948s, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 
 
 **(d) Notice to Congress of Modification of Rules.—** Not later than 60 days before the date on which any proposed modification of the rules in effect for military commissions under this chapter goes into effect, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report describing the proposed modification.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2581; amended Pub. L. 112–81, div. A, title X, § 1034(a), Dec. 31, 2011, 125 Stat. 1572.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2581; amended Pub. L. 112–81, div. A, title X, § 1034(a), Dec. 31, 2011, 125 Stat. 1572.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 949a, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2608, related to rules, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 949a, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2608, related to rules, prior to the general amendment of this chapter by Pub. L. 111–84.
 
 **Amendments**
 
 2011—Subsec. (b)(2)(C)(i), (ii). Pub. L. 112–81 substituted “sworn” for “preferred”.
 
-### § 949b. Unlawfully influencing action of military commission and United States Court of Military Commission Review
+### § 949b. Unlawfully influencing action of military commission and United States Court of Military Commission Review
 
 **(a) Military Commissions.—**
 
@@ -635,23 +635,23 @@ A prior section 949a, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 
 
 **(2)** give a less favorable rating or evaluation to any commissioned officer because of the zeal with which such officer, in acting as counsel, represented any accused before a military commission under this chapter.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2583; amended Pub. L. 112–81, div. A, title X, § 1034(b), Dec. 31, 2011, 125 Stat. 1573.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2583; amended Pub. L. 112–81, div. A, title X, § 1034(b), Dec. 31, 2011, 125 Stat. 1573.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 949b, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2609, related to unlawfully influencing action of military commission, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 949b, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2609, related to unlawfully influencing action of military commission, prior to the general amendment of this chapter by Pub. L. 111–84.
 
 **Amendments**
 
-2011—Subsec. (b)(1)(A). Pub. L. 112–81, § 1034(b)(1), substituted “a judge on” for “a military appellate judge or other duly appointed judge under this chapter on”.
+2011—Subsec. (b)(1)(A). Pub. L. 112–81, § 1034(b)(1), substituted “a judge on” for “a military appellate judge or other duly appointed judge under this chapter on”.
 
-Subsec. (b)(2). Pub. L. 112–81, § 1034(b)(2), substituted “a judge on” for “a military appellate judge on”.
+Subsec. (b)(2). Pub. L. 112–81, § 1034(b)(2), substituted “a judge on” for “a military appellate judge on”.
 
-Subsec. (b)(3)(B). Pub. L. 112–81, § 1034(b)(3), substituted “a judge on” for “an appellate military judge or a duly appointed appellate judge on”.
+Subsec. (b)(3)(B). Pub. L. 112–81, § 1034(b)(3), substituted “a judge on” for “an appellate military judge or a duly appointed appellate judge on”.
 
-### § 949c. Duties of trial counsel and defense counsel
+### § 949c. Duties of trial counsel and defense counsel
 
 **(a) Trial Counsel.—** The trial counsel of a military commission under this chapter shall prosecute in the name of the United States.
 
@@ -681,15 +681,15 @@ Subsec. (b)(3)(B). Pub. L. 112–81, § 1034(b)(3), substituted “a judge on�
 
 **(7)** Civilian defense counsel shall protect any classified information received during the course of representation of the accused in accordance with all applicable law governing the protection of classified information, and may not divulge such information to any person not authorized to receive it.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2585.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2585.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 949c, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2610, related to duties of trial counsel and defense counsel, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 949c, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2610, related to duties of trial counsel and defense counsel, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-### § 949d. Sessions
+### § 949d. Sessions
 
 **(a) Sessions Without Presence of Members.—**
 
@@ -725,27 +725,27 @@ A prior section 949c, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 
 
 **(2)** to prevent disruption of the proceedings by the accused.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2585.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2585.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 949d, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2611, related to sessions of military commissions, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 949d, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2611, related to sessions of military commissions, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-### § 949e. Continuances
+### § 949e. Continuances
 
 The military judge in a military commission under this chapter may, for reasonable cause, grant a continuance to any party for such time, and as often, as may appear to be just.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2586.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2586.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 949e, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2613, related to continuances, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 949e, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2613, related to continuances, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-### § 949f. Challenges
+### § 949f. Challenges
 
 **(a) Challenges Authorized.—** The military judge and primary or alternate members of a military commission under this chapter may be challenged by the accused or trial counsel for cause stated to the military commission. The military judge shall determine the relevance and validity of challenges for cause, and may not receive a challenge to more than one person at a time. Challenges by trial counsel shall ordinarily be presented and decided before those by the accused are offered.
 
@@ -753,21 +753,21 @@ A prior section 949e, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 
 
 **(c) Challenges Against Additional Members.—** Whenever additional members are detailed to a military commission under this chapter, and after any challenges for cause against such additional members are presented and decided, the accused and trial counsel are each entitled to one peremptory challenge against members not previously subject to peremptory challenge.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2586; amended Pub. L. 113–66, div. A, title X, § 1031(b), Dec. 26, 2013, 127 Stat. 850.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2586; amended Pub. L. 113–66, div. A, title X, § 1031(b), Dec. 26, 2013, 127 Stat. 850.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 949f, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2613, related to challenges, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 949f, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2613, related to challenges, prior to the general amendment of this chapter by Pub. L. 111–84.
 
 **Amendments**
 
-2013—Subsec. (a). Pub. L. 113–66, § 1031(b)(1), inserted “primary or alternate” before “members”.
+2013—Subsec. (a). Pub. L. 113–66, § 1031(b)(1), inserted “primary or alternate” before “members”.
 
-Subsec. (b). Pub. L. 113–66, § 1031(b)(2), inserted at end “Nothing in this section prohibits the military judge from awarding to each party such additional peremptory challenges as may be required in the interests of justice.”
+Subsec. (b). Pub. L. 113–66, § 1031(b)(2), inserted at end “Nothing in this section prohibits the military judge from awarding to each party such additional peremptory challenges as may be required in the interests of justice.”
 
-### § 949g. Oaths
+### § 949g. Oaths
 
 **(a) In General.—**
 
@@ -783,29 +783,29 @@ Subsec. (b). Pub. L. 113–66, § 1031(b)(2), inserted at end “Nothing in th
 
 **(c) Oath Defined.—** In this section, the term “oath” includes an affirmation.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2587.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2587.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 949g, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2613, related to oaths, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 949g, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2613, related to oaths, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-### § 949h. Former jeopardy
+### § 949h. Former jeopardy
 
 **(a) In General.—** No person may, without the person’s consent, be tried by a military commission under this chapter a second time for the same offense.
 
 **(b) Scope of Trial.—** No proceeding in which the accused has been found guilty by military commission under this chapter upon any charge or specification is a trial in the sense of this section until the finding of guilty has become final after review of the case has been fully completed.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2587.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2587.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 949h, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2614, related to former jeopardy, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 949h, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2614, related to former jeopardy, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-### § 949i. Pleas of the accused
+### § 949i. Pleas of the accused
 
 **(a) Plea of Not Guilty.—** If an accused in a military commission under this chapter after a plea of guilty sets up matter inconsistent with the plea, or if it appears that the accused has entered the plea of guilty through lack of understanding of its meaning and effect, or if the accused fails or refuses to plead, a plea of not guilty shall be entered in the record, and the military commission shall proceed as though the accused had pleaded not guilty.
 
@@ -817,23 +817,23 @@ A prior section 949h, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 
 
 **(2)** A plea agreement under this subsection may not provide for a sentence of death imposed by a military judge alone. A sentence of death may only be imposed by the unanimous vote of all members of a military commission concurring in the sentence of death as provided in section 949m(b)(2)(D) of this title.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2587; amended Pub. L. 112–81, div. A, title X, § 1030(b), Dec. 31, 2011, 125 Stat. 1570; Pub. L. 113–291, div. A, title X, § 1071(f)(9), Dec. 19, 2014, 128 Stat. 3510.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2587; amended Pub. L. 112–81, div. A, title X, § 1030(b), Dec. 31, 2011, 125 Stat. 1570; Pub. L. 113–291, div. A, title X, § 1071(f)(9), Dec. 19, 2014, 128 Stat. 3510.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 949i, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2614, related to pleas of the accused, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 949i, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2614, related to pleas of the accused, prior to the general amendment of this chapter by Pub. L. 111–84.
 
 **Amendments**
 
 2014—Subsec. (b). Pub. L. 113–291 substituted a comma for “,,” after “referred capital”.
 
-2011—Subsec. (b). Pub. L. 112–81, § 1030(b)(1), in the first sentence, inserted “, including a charge or specification that has been referred capital,” after “military judge”, “by the military judge” after “may be entered”, and “by the members” after “vote”.
+2011—Subsec. (b). Pub. L. 112–81, § 1030(b)(1), in the first sentence, inserted “, including a charge or specification that has been referred capital,” after “military judge”, “by the military judge” after “may be entered”, and “by the members” after “vote”.
 
-Subsec. (c). Pub. L. 112–81, § 1030(b)(2), added subsec. (c).
+Subsec. (c). Pub. L. 112–81, § 1030(b)(2), added subsec. (c).
 
-### § 949j. Opportunity to obtain witnesses and other evidence
+### § 949j. Opportunity to obtain witnesses and other evidence
 
 **(a) In General.—**
 
@@ -859,15 +859,15 @@ Subsec. (c). Pub. L. 112–81, § 1030(b)(2), added subsec. (c).
 
 **(4)** The disclosure obligations under this subsection encompass evidence that is known or reasonably should be known to any government officials who participated in the investigation and prosecution of the case against the defendant.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2587.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2587.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 949j, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2614, related to the opportunity to obtain witnesses and other evidence, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 949j, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2614, related to the opportunity to obtain witnesses and other evidence, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-### § 949k. Defense of lack of mental responsibility
+### § 949k. Defense of lack of mental responsibility
 
 **(a) Affirmative Defense.—** It is an affirmative defense in a trial by military commission under this chapter that, at the time of the commission of the acts constituting the offense, the accused, as a result of a severe mental disease or defect, was unable to appreciate the nature and quality or the wrongfulness of the acts. Mental disease or defect does not otherwise constitute a defense.
 
@@ -883,15 +883,15 @@ A prior section 949j, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 
 
 **(d) Majority Vote Required for Finding.—** The accused shall be found not guilty by reason of lack of mental responsibility under subsection (c)(3) only if a majority of the members present at the time the vote is taken determines that the defense of lack of mental responsibility has been established.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2588.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2588.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 949k, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2615, related to the defense of lack of mental responsibility, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 949k, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2615, related to the defense of lack of mental responsibility, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-### § 949l. Voting and rulings
+### § 949l. Voting and rulings
 
 **(a) Vote by Secret Written Ballot.—** Voting by members of a military commission under this chapter on the findings and on the sentence shall be by secret written ballot.
 
@@ -911,15 +911,15 @@ A prior section 949k, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 
 
 **(4)** that the burden of proof to establish the guilt of the accused beyond a reasonable doubt is upon the United States.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2589.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2589.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 949*l*, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2615, related to voting and rulings, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 949*l*, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2615, related to voting and rulings, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-### § 949m. Number of votes required
+### § 949m. Number of votes required
 
 **(a) Conviction.—** No person may be convicted by a military commission under this chapter of any offense, except as provided in section 949i(b) of this title or by concurrence of two-thirds of the primary members present at the time the vote is taken.
 
@@ -947,37 +947,37 @@ A prior section 949*l*, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 12
 
 **(2)** In any case described in paragraph (1) in which 12 primary members are not reasonably available for a military commission because of physical conditions or military exigencies, the convening authority shall specify a lesser number of primary members for the military commission (but not fewer than 9 primary members), and the military commission may be assembled, and the trial held, with not less than the number of primary members so specified. In any such case, the convening authority shall make a detailed written statement, to be appended to the record, stating why a greater number of primary members were not reasonably available.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2589; amended Pub. L. 112–81, div. A, title X, § 1030(a), Dec. 31, 2011, 125 Stat. 1570; Pub. L. 113–66, div. A, title X, § 1031(c), Dec. 26, 2013, 127 Stat. 850.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2589; amended Pub. L. 112–81, div. A, title X, § 1030(a), Dec. 31, 2011, 125 Stat. 1570; Pub. L. 113–66, div. A, title X, § 1031(c), Dec. 26, 2013, 127 Stat. 850.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 949m, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2616, related to number of votes required for conviction and sentences and number of members required on military commission for penalty of death, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 949m, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2616, related to number of votes required for conviction and sentences and number of members required on military commission for penalty of death, prior to the general amendment of this chapter by Pub. L. 111–84.
 
 **Amendments**
 
-2013—Pub. L. 113–66, § 1031(c)(1), inserted “primary” before “members” wherever appearing.
+2013—Pub. L. 113–66, § 1031(c)(1), inserted “primary” before “members” wherever appearing.
 
-Subsec. (b)(4). Pub. L. 113–66, § 1031(c)(2), added par. (4).
+Subsec. (b)(4). Pub. L. 113–66, § 1031(c)(2), added par. (4).
 
-2011—Subsec. (b)(2)(C). Pub. L. 112–81, § 1030(a)(1), inserted before semicolon “, or a guilty plea was accepted and not withdrawn prior to announcement of the sentence in accordance with section 949i(b) of this title”.
+2011—Subsec. (b)(2)(C). Pub. L. 112–81, § 1030(a)(1), inserted before semicolon “, or a guilty plea was accepted and not withdrawn prior to announcement of the sentence in accordance with section 949i(b) of this title”.
 
-Subsec. (b)(2)(D). Pub. L. 112–81, § 1030(a)(2), inserted “on the sentence” after “vote was taken”.
+Subsec. (b)(2)(D). Pub. L. 112–81, § 1030(a)(2), inserted “on the sentence” after “vote was taken”.
 
-### § 949n. Military commission to announce action
+### § 949n. Military commission to announce action
 
 A military commission under this chapter shall announce its findings and sentence to the parties as soon as determined.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2590.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2590.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 949n, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2617, required a military commission to announce its findings and sentence as soon as determined, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 949n, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2617, required a military commission to announce its findings and sentence as soon as determined, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-### § 949o. Record of trial
+### § 949o. Record of trial
 
 **(a) Record; Authentication.—** Each military commission under this chapter shall keep a separate, verbatim, record of the proceedings in each case brought before it, and the record shall be authenticated by the signature of the military judge. If the record cannot be authenticated by the military judge by reason of death, disability, or absence, it shall be authenticated by the signature of the trial counsel or by a member of the commission if the trial counsel is unable to authenticate it by reason of death, disability, or absence. Where appropriate, and as provided in regulations prescribed by the Secretary of Defense, the record of a military commission under this chapter may contain a classified annex.
 
@@ -985,17 +985,17 @@ A prior section 949n, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 
 
 **(c) Provision of Copy to Accused.—** A copy of the record of the proceedings of the military commission under this chapter shall be given the accused as soon as it is authenticated. If the record contains classified information, or a classified annex, the accused shall receive a redacted version of the record consistent with the requirements of subchapter V of this chapter. Defense counsel shall have access to the unredacted record, as provided in regulations prescribed by the Secretary of Defense.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2590.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2590.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 949*o*, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2617, related to record of trial, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 949*o*, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2617, related to record of trial, prior to the general amendment of this chapter by Pub. L. 111–84.
 
 ## SUBCHAPTER V—CLASSIFIED INFORMATION PROCEDURES
 
-### § 949p–1. Protection of classified information: applicability of subchapter
+### § 949p–1. Protection of classified information: applicability of subchapter
 
 **(a) Protection of Classified Information.—** Classified information shall be protected and is privileged from disclosure if disclosure would be detrimental to the national security. Under no circumstances may a military judge order the release of classified information to any person not authorized to receive such information.
 
@@ -1005,7 +1005,7 @@ A prior section 949*o*, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 12
 
 **(d) Construction of Provisions.—** The judicial construction of the Classified Information Procedures Act (18 U.S.C. App.) shall be authoritative in the interpretation of this subchapter, except to the extent that such construction is inconsistent with the specific requirements of this chapter.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2590.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2590.)
 
 **Editorial Notes**
 
@@ -1013,7 +1013,7 @@ A prior section 949*o*, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 12
 
 The Classified Information Procedures Act, referred to in subsec. (d), is Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-### § 949p–2. Pretrial conference
+### § 949p–2. Pretrial conference
 
 **(a) Motion.—** At any time after service of charges, any party may move for a pretrial conference to consider matters relating to classified information that may arise in connection with the prosecution.
 
@@ -1037,7 +1037,7 @@ The Classified Information Procedures Act, referred to in subsec. (d), is Pub. L
 
 **(d) Effect of Admissions by Accused at Pretrial Conference.—** No admission made by the accused or by any counsel for the accused at a pretrial conference under this section may be used against the accused unless the admission is in writing and is signed by the accused and by the counsel for the accused.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2591.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2591.)
 
 **Editorial Notes**
 
@@ -1045,13 +1045,13 @@ The Classified Information Procedures Act, referred to in subsec. (d), is Pub. L
 
 The Classified Information Procedures Act, referred to in subsec. (b), is Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-### § 949p–3. Protective orders
+### § 949p–3. Protective orders
 
 Upon motion of the trial counsel, the military judge shall issue an order to protect against the disclosure of any classified information that has been disclosed by the United States to any accused in any military commission under this chapter or that has otherwise been provided to, or obtained by, any such accused in any such military commission.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2591.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2591.)
 
-### § 949p–4. Discovery of, and access to, classified information by the accused
+### § 949p–4. Discovery of, and access to, classified information by the accused
 
 **(a) Limitations on Discovery or Access by the Accused.—**
 
@@ -1075,7 +1075,7 @@ Upon motion of the trial counsel, the military judge shall issue an order to pro
 
 **(c) Reconsideration.—** An order of a military judge authorizing a request of the trial counsel to substitute, summarize, withhold, or prevent access to classified information under this section is not subject to a motion for reconsideration by the accused, if such order was entered pursuant to an ex parte showing under this section.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2592.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2592.)
 
 **Editorial Notes**
 
@@ -1083,7 +1083,7 @@ Upon motion of the trial counsel, the military judge shall issue an order to pro
 
 The Classified Information Procedures Act, referred to in subsec. (b)(2), is Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-### § 949p–5. Notice by accused of intention to disclose classified information
+### § 949p–5. Notice by accused of intention to disclose classified information
 
 **(a) Notice by Accused.—**
 
@@ -1101,9 +1101,9 @@ The Classified Information Procedures Act, referred to in subsec. (b)(2), is Pub
 
 **(2)** may prohibit the examination by the accused of any witness with respect to any such information.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2593.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2593.)
 
-### § 949p–6. Procedure for cases involving classified information
+### § 949p–6. Procedure for cases involving classified information
 
 **(a) Motion for Hearing.—**
 
@@ -1181,9 +1181,9 @@ The Classified Information Procedures Act, referred to in subsec. (b)(2), is Pub
 
 **(B)** may prohibit the examination by the United States of any witness with respect to such information.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2593.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2593.)
 
-### § 949p–7. Introduction of classified information into evidence
+### § 949p–7. Introduction of classified information into evidence
 
 **(a) Preservation of Classification Status.—** Writings, recordings, and photographs containing classified information may be admitted into evidence in proceedings of military commissions under this chapter without change in their classification status.
 
@@ -1207,7 +1207,7 @@ The Classified Information Procedures Act, referred to in subsec. (b)(2), is Pub
 
 **(3) Action by military judge on motion.—** If the military judge finds that disclosure of any portion of the statement identified by the United States as classified would be detrimental to the national security in the degree to warrant classification under the applicable Executive Order, statute, or regulation, that such portion of the statement is consistent with the testimony of the witness, and that the disclosure of such portion is not necessary to afford the accused a fair trial, the military judge shall excise that portion from the statement. If the military judge finds that such portion of the statement is inconsistent with the testimony of the witness or that its disclosure is necessary to afford the accused a fair trial, the military judge, shall, upon the request of the trial counsel, review alternatives to disclosure in accordance with section 949p–6(d) of this title.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2596.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2596.)
 
 **Editorial Notes**
 
@@ -1217,31 +1217,31 @@ The Classified Information Procedures Act, referred to in subsecs. (c)(2) and (d
 
 ## SUBCHAPTER VI—SENTENCES
 
-### § 949s. Cruel or unusual punishments prohibited
+### § 949s. Cruel or unusual punishments prohibited
 
 Punishment by flogging, or by branding, marking, or tattooing on the body, or any other cruel or unusual punishment, may not be adjudged by a military commission under this chapter or inflicted under this chapter upon any person subject to this chapter. The use of irons, single or double, except for the purpose of safe custody, is prohibited under this chapter.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2598.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2598.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 949s, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2617, prohibited cruel or unusual punishments, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 949s, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2617, prohibited cruel or unusual punishments, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-### § 949t. Maximum limits
+### § 949t. Maximum limits
 
 The punishment which a military commission under this chapter may direct for an offense may not exceed such limits as the President or Secretary of Defense may prescribe for that offense.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2598.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2598.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 949t, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2617, related to maximum limits of punishment, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 949t, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2617, related to maximum limits of punishment, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-### § 949u. Execution of confinement
+### § 949u. Execution of confinement
 
 **(a) In General.—** Under such regulations as the Secretary of Defense may prescribe, a sentence of confinement adjudged by a military commission under this chapter may be carried into execution by confinement—
 
@@ -1251,13 +1251,13 @@ A prior section 949t, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 
 
 **(b) Treatment During Confinement by Other Than the Armed Forces.—** Persons confined under subsection (a)(2) in a penal or correctional institution not under the control of an armed force are subject to the same discipline and treatment as persons confined or committed by the courts of the United States or of the State, District of Columbia, or place in which the institution is situated.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2598.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2598.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 949u, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2617, related to execution of a sentence of confinement, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 949u, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2617, related to execution of a sentence of confinement, prior to the general amendment of this chapter by Pub. L. 111–84.
 
 ## SUBCHAPTER VII—POST-TRIAL PROCEDURE AND REVIEW OF MILITARY COMMISSIONS
 
@@ -1265,23 +1265,23 @@ A prior section 949u, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title X, § 1081(a)(11), Aug. 13, 2018, 132 Stat. 1983, substituted “United States Court of Appeals” for “United States Court of Court of Appeals” in item 950g.
+2018—Pub. L. 115–232, div. A, title X, § 1081(a)(11), Aug. 13, 2018, 132 Stat. 1983, substituted “United States Court of Appeals” for “United States Court of Court of Appeals” in item 950g.
 
-### § 950a. Error of law; lesser included offense
+### § 950a. Error of law; lesser included offense
 
 **(a) Error of Law.—** A finding or sentence of a military commission under this chapter may not be held incorrect on the ground of an error of law unless the error materially prejudices the substantial rights of the accused.
 
 **(b) Lesser Included Offense.—** Any reviewing authority with the power to approve or affirm a finding of guilty by a military commission under this chapter may approve or affirm, instead, so much of the finding as includes a lesser included offense.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2599.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2599.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 950a, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2618, related to error of law and lesser included offense, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 950a, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2618, related to error of law and lesser included offense, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-### § 950b. Review by the convening authority
+### § 950b. Review by the convening authority
 
 **(a) Notice to Convening Authority of Findings and Sentence.—** The findings and sentence of a military commission under this chapter shall be reported in writing promptly to the convening authority after the announcement of the sentence.
 
@@ -1339,19 +1339,19 @@ A prior section 950a, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 
 
 **(3)** A rehearing may be ordered by the convening authority if the convening authority disapproves the findings and sentence and states the reasons for disapproval of the findings. If the convening authority disapproves the finding and sentence and does not order a rehearing, the convening authority shall dismiss the charges. A rehearing as to the findings may not be ordered by the convening authority when there is a lack of sufficient evidence in the record to support the findings. A rehearing as to the sentence may be ordered by the convening authority if the convening authority disapproves the sentence.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2599; amended Pub. L. 113–291, div. A, title X, § 1071(f)(10), Dec. 19, 2014, 128 Stat. 3510.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2599; amended Pub. L. 113–291, div. A, title X, § 1071(f)(10), Dec. 19, 2014, 128 Stat. 3510.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 950b, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2618, related to review by the convening authority, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 950b, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2618, related to review by the convening authority, prior to the general amendment of this chapter by Pub. L. 111–84.
 
 **Amendments**
 
 2014—Subsec. (b)(2)(A). Pub. L. 113–291 substituted “given” for “give”.
 
-### § 950c. Appellate referral; waiver or withdrawal of appeal
+### § 950c. Appellate referral; waiver or withdrawal of appeal
 
 **(a) Automatic Referral for Appellate Review.—** Except as provided in subsection (b), in each case in which the final decision of a military commission under this chapter (as approved by the convening authority) includes a finding of guilty, the convening authority shall refer the case to the United States Court of Military Commission Review. Any such referral shall be made in accordance with procedures prescribed under regulations of the Secretary.
 
@@ -1367,15 +1367,15 @@ A prior section 950b, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 
 
 **(d) Effect of Waiver or Withdrawal.—** A waiver of the right to appellate review or the withdrawal of an appeal under this section bars review under section 950f of this title.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2600.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2600.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 950c, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2620, related to appellate referral and waiver or withdrawal of appeal, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 950c, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2620, related to appellate referral and waiver or withdrawal of appeal, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-### § 950d. Interlocutory appeals by the United States
+### § 950d. Interlocutory appeals by the United States
 
 **(a) Interlocutory Appeal.—** Except as provided in subsection (b), in a trial by military commission under this chapter, the United States may take an interlocutory appeal to the United States Court of Military Commission Review of any order or ruling of the military judge—
 
@@ -1421,15 +1421,15 @@ A prior section 950c, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 
 
 **(h) Subsequent Appeal Rights of Accused Not Affected.—** An appeal under paragraph (4) of subsection (a), and a decision on such appeal, shall not affect the right of the accused, in a subsequent appeal from a judgment of conviction, to claim as error reversal by the military judge on remand of a ruling appealed from during trial.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2601.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2601.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 950d, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2620, related to appeal by the United States, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 950d, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2620, related to appeal by the United States, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-### § 950e. Rehearings
+### § 950e. Rehearings
 
 **(a) Composition of Military Commission for Rehearing.—** Each rehearing under this chapter shall take place before a military commission under this chapter composed of members who were not members of the military commission which first heard the case.
 
@@ -1447,15 +1447,15 @@ A prior section 950d, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 
 
 **(2)** Upon a rehearing, if the sentence approved after the first military commission was in accordance with a pretrial agreement and the accused at the rehearing changes his plea with respect to the charges or specifications upon which the pretrial agreement was based, or otherwise does not comply with pretrial agreement, the sentence as to those charges or specifications may include any punishment not in excess of that lawfully adjudged at the first military commission.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2602.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2602.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 950e, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2621, related to rehearings, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 950e, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2621, related to rehearings, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-### § 950f. Review by United States Court of Military Commission Review
+### § 950f. Review by United States Court of Military Commission Review
 
 **(a) Establishment.—** There is a court of record to be known as the “United States Court of Military Commission Review” (in this section referred to as the “Court”). The Court shall consist of one or more panels, each composed of not less than three judges on the Court. For the purpose of reviewing decisions of military commissions under this chapter, the Court may sit in panels or as a whole, in accordance with rules prescribed by the Secretary of Defense.
 
@@ -1499,19 +1499,19 @@ A prior section 950e, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 
 
 **(e) Rehearings.—** If the Court sets aside the findings or sentence, the Court may, except where the setting aside is based on lack of sufficient evidence in the record to support the findings, order a rehearing. If the Court sets aside the findings or sentence and does not order a rehearing, the Court shall order that the charges be dismissed.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2603; amended Pub. L. 112–81, div. A, title X, § 1034(c), Dec. 31, 2011, 125 Stat. 1573; Pub. L. 115–91, div. A, title X, § 1082, Dec. 12, 2017, 131 Stat. 1602; Pub. L. 115–232, div. A, title V, § 541(a), Aug. 13, 2018, 132 Stat. 1761; Pub. L. 118–159, div. A, title V, § 567(a), Dec. 23, 2024, 138 Stat. 1905.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2603; amended Pub. L. 112–81, div. A, title X, § 1034(c), Dec. 31, 2011, 125 Stat. 1573; Pub. L. 115–91, div. A, title X, § 1082, Dec. 12, 2017, 131 Stat. 1602; Pub. L. 115–232, div. A, title V, § 541(a), Aug. 13, 2018, 132 Stat. 1761; Pub. L. 118–159, div. A, title V, § 567(a), Dec. 23, 2024, 138 Stat. 1905.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 950f, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2621; amended Pub. L. 110–181, div. A, title X, § 1063(a)(6), Jan. 28, 2008, 122 Stat. 322, related to review by Court of Military Commission Review, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 950f, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2621; amended Pub. L. 110–181, div. A, title X, § 1063(a)(6), Jan. 28, 2008, 122 Stat. 322, related to review by Court of Military Commission Review, prior to the general amendment of this chapter by Pub. L. 111–84.
 
 **Amendments**
 
-2024—Subsec. (b)(6). Pub. L. 118–159, § 567(a)(1), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and realigned margins; substituted “The term of an appellate military judge assigned or appointed to the Court under this subsection” for “The term of an appellate military judge assigned to the Court under paragraph (2) or appointed to the Court under paragraph (3)”; and added subpar. (B).
+2024—Subsec. (b)(6). Pub. L. 118–159, § 567(a)(1), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and realigned margins; substituted “The term of an appellate military judge assigned or appointed to the Court under this subsection” for “The term of an appellate military judge assigned to the Court under paragraph (2) or appointed to the Court under paragraph (3)”; and added subpar. (B).
 
-Subsec. (b)(7). Pub. L. 118–159, § 567(a)(2), added par. (7).
+Subsec. (b)(7). Pub. L. 118–159, § 567(a)(2), added par. (7).
 
 2018—Subsec. (b)(6). Pub. L. 115–232 added par. (6).
 
@@ -1523,7 +1523,7 @@ Subsec. (b)(7). Pub. L. 118–159, § 567(a)(2), added par. (7).
 
 **Effective Date of 2024 Amendment**
 
-Pub. L. 118–159, div. A, title V, § 567(b), Dec. 23, 2024, 138 Stat. 1905, provided that:
+Pub. L. 118–159, div. A, title V, § 567(b), Dec. 23, 2024, 138 Stat. 1905, provided that:
 
 > **“(1) In general.—** The amendments made by subsection (a) [amending this section] shall take effect on the date that is 180 days after the date of the enactment of this Act [Dec. 23, 2024].
 
@@ -1531,9 +1531,9 @@ Pub. L. 118–159, div. A, title V, § 567(b), Dec. 23, 2024, 138 Stat. 1905, 
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–232, div. A, title V, § 541(b), Aug. 13, 2018, 132 Stat. 1762, provided that: “The amendment made by subsection (a) [amending this section] shall apply to each judge of the United States Court of Military Commission Review serving on that court on the date of the enactment of this Act [Aug. 13, 2018] and each judge assigned or appointed to that court on or after such date.”
+Pub. L. 115–232, div. A, title V, § 541(b), Aug. 13, 2018, 132 Stat. 1762, provided that: “The amendment made by subsection (a) [amending this section] shall apply to each judge of the United States Court of Military Commission Review serving on that court on the date of the enactment of this Act [Aug. 13, 2018] and each judge assigned or appointed to that court on or after such date.”
 
-### § 950g. Review by United States Court of Appeals for the District of Columbia Circuit; writ of certiorari to Supreme Court
+### § 950g. Review by United States Court of Appeals for the District of Columbia Circuit; writ of certiorari to Supreme Court
 
 **(a) Exclusive Appellate Jurisdiction.—** Except as provided in subsection (b), the United States Court of Appeals for the District of Columbia Circuit shall have exclusive jurisdiction to determine the validity of a final judgment rendered by a military commission (as approved by the convening authority and, where applicable, as affirmed or set aside as incorrect in law by the United States Court of Military Commission Review) under this chapter.
 
@@ -1549,25 +1549,25 @@ Pub. L. 115–232, div. A, title V, § 541(b), Aug. 13, 2018, 132 Stat. 1762, 
 
 **(e) Review by Supreme Court.—** The Supreme Court may review by writ of certiorari pursuant to section 1254 of title 28 the final judgment of the United States Court of Appeals for the District of Columbia Circuit under this section.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2603; amended Pub. L. 112–81, div. A, title X, § 1034(d), Dec. 31, 2011, 125 Stat. 1573.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2603; amended Pub. L. 112–81, div. A, title X, § 1034(d), Dec. 31, 2011, 125 Stat. 1573.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 950g, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2622, related to review by the United States Court of Appeals for the District of Columbia Circuit and the Supreme Court, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 950g, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2622, related to review by the United States Court of Appeals for the District of Columbia Circuit and the Supreme Court, prior to the general amendment of this chapter by Pub. L. 111–84.
 
 **Amendments**
 
-2011—Subsec. (a). Pub. L. 112–81, § 1034(d)(1), inserted “as affirmed or set aside as incorrect in law by” after “where applicable,”.
+2011—Subsec. (a). Pub. L. 112–81, § 1034(d)(1), inserted “as affirmed or set aside as incorrect in law by” after “where applicable,”.
 
-Subsec. (c). Pub. L. 112–81, § 1034(d)(2)(A), substituted “in the Court of Appeals—” for “by the accused in the Court of Appeals not later than 20 days after the date on which—” in introductory provisions.
+Subsec. (c). Pub. L. 112–81, § 1034(d)(2)(A), substituted “in the Court of Appeals—” for “by the accused in the Court of Appeals not later than 20 days after the date on which—” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 112–81, § 1034(d)(2)(B), inserted “not later than 20 days after the date on which” before “written notice” and substituted “on the parties” for “on the accused or on defense counsel”.
+Subsec. (c)(1). Pub. L. 112–81, § 1034(d)(2)(B), inserted “not later than 20 days after the date on which” before “written notice” and substituted “on the parties” for “on the accused or on defense counsel”.
 
-Subsec. (c)(2). Pub. L. 112–81, § 1034(d)(2)(C), inserted “if” before “the accused submits” and inserted before period at end “, not later than 20 days after the date on which such notice is submitted”.
+Subsec. (c)(2). Pub. L. 112–81, § 1034(d)(2)(C), inserted “if” before “the accused submits” and inserted before period at end “, not later than 20 days after the date on which such notice is submitted”.
 
-### § 950h. Appellate counsel
+### § 950h. Appellate counsel
 
 **(a) Appointment.—** The Secretary of Defense shall, by regulation, establish procedures for the appointment of appellate counsel for the United States and for the accused in military commissions under this chapter. Appellate counsel shall meet the qualifications of counsel for appearing before military commissions under this chapter.
 
@@ -1579,15 +1579,15 @@ Subsec. (c)(2). Pub. L. 112–81, § 1034(d)(2)(C), inserted “if” before �
 
 **(c) Representation of Accused.—** The accused shall be represented by appellate counsel appointed under subsection (a) before the United States Court of Military Commission Review, the United States Court of Appeals for the District of Columbia Circuit, and the Supreme Court, and by civilian counsel if retained by the accused. Any such civilian counsel shall meet the qualifications under paragraph (3) of section 949c(b) of this title for civilian counsel appearing before military commissions under this chapter and shall be subject to the requirements of paragraph (7) of that section.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2604.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2604.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 950h, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2622, related to appellate counsel, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 950h, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2622, related to appellate counsel, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-### § 950i. Execution of sentence; suspension of sentence
+### § 950i. Execution of sentence; suspension of sentence
 
 **(a) In General.—** The Secretary of Defense is authorized to carry out a sentence imposed by a military commission under this chapter in accordance with such procedures as the Secretary may prescribe.
 
@@ -1611,29 +1611,29 @@ A prior section 950h, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 
 
 **(d) Suspension of Sentence.—** The Secretary of the Defense, or the convening authority acting on the case (if other than the Secretary), may suspend the execution of any sentence or part thereof in the case, except a sentence of death.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2605.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2605.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 950i, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2623, related to execution of sentence, procedures for execution of sentence of death, and suspension of sentence prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 950i, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2623, related to execution of sentence, procedures for execution of sentence of death, and suspension of sentence prior to the general amendment of this chapter by Pub. L. 111–84.
 
-### § 950j. Finality of proceedings, findings, and sentences
+### § 950j. Finality of proceedings, findings, and sentences
 
 The appellate review of records of trial provided by this chapter, and the proceedings, findings, and sentences of military commissions as approved, reviewed, or affirmed as required by this chapter, are final and conclusive. Orders publishing the proceedings of military commissions under this chapter are binding upon all departments, courts, agencies, and officers of the United States, subject only to action by the Secretary or the convening authority as provided in section 950i(c) of this title and the authority of the President.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2605.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2605.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 950j, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2623; amended Pub. L. 110–181, div. A, title X, § 1063(a)(7), Jan. 28, 2008, 122 Stat. 322, related to finality of proceedings, findings, and sentences, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 950j, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2623; amended Pub. L. 110–181, div. A, title X, § 1063(a)(7), Jan. 28, 2008, 122 Stat. 322, related to finality of proceedings, findings, and sentences, prior to the general amendment of this chapter by Pub. L. 111–84.
 
 ## SUBCHAPTER VIII—PUNITIVE MATTERS
 
-### § 950p. Definitions; construction of certain offenses; common circumstances
+### § 950p. Definitions; construction of certain offenses; common circumstances
 
 **(a) Definitions.—** In this subchapter:
 
@@ -1649,7 +1649,7 @@ A prior section 950j, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 
 
 **(d) Effect.—** The provisions of this subchapter codify offenses that have traditionally been triable by military commission. This chapter does not establish new crimes that did not exist before the date of the enactment of this subchapter, as amended by the National Defense Authorization Act for Fiscal Year 2010, but rather codifies those crimes for trial by military commission. Because the provisions of this subchapter codify offenses that have traditionally been triable under the law of war or otherwise triable by military commission, this subchapter does not preclude trial for offenses that occurred before the date of the enactment of this subchapter, as so amended.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2606.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2606.)
 
 **Editorial Notes**
 
@@ -1659,9 +1659,9 @@ The date of the enactment of this subchapter, as amended by the National Defense
 
 **Prior Provisions**
 
-A prior section 950p, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2624, related to statement of substantive offenses, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 950p, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2624, related to statement of substantive offenses, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-### § 950q. Principals
+### § 950q. Principals
 
 Any person punishable under this chapter who—
 
@@ -1673,39 +1673,39 @@ Any person punishable under this chapter who—
 
 is a principal.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2606.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2606.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 950q, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2624, related to principals, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 950q, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2624, related to principals, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-### § 950r. Accessory after the fact
+### § 950r. Accessory after the fact
 
 Any person subject to this chapter who, knowing that an offense punishable by this chapter has been committed, receives, comforts, or assists the offender in order to hinder or prevent his apprehension, trial, or punishment shall be punished as a military commission under this chapter may direct.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2607.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2607.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 950r, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2624, related to accessory after the fact, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 950r, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2624, related to accessory after the fact, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-### § 950s. Conviction of lesser offenses
+### § 950s. Conviction of lesser offenses
 
 An accused may be found guilty of an offense necessarily included in the offense charged or of an attempt to commit either the offense charged or an attempt to commit either the offense charged or an offense necessarily included therein.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2607.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2607.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 950s, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2624, related to conviction of lesser included offense, prior to the general amendment of this chapter by Pub. L. 111–84.
+A prior section 950s, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2624, related to conviction of lesser included offense, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-### § 950t. Crimes triable by military commission
+### § 950t. Crimes triable by military commission
 
 The following offenses shall be triable by military commission under this chapter at any time without limitation:
 
@@ -1799,7 +1799,7 @@ The following offenses shall be triable by military commission under this chapte
 
 **(32) Perjury and obstruction of justice.—** A military commission under this chapter may try offenses and impose such punishment as the military commission may direct for perjury, false testimony, or obstruction of justice related to the military commission.
 
-(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2607; amended Pub. L. 115–232, div. A, title X, § 1081(a)(12), Aug. 13, 2018, 132 Stat. 1983.)
+(Added Pub. L. 111–84, div. A, title XVIII, § 1802, Oct. 28, 2009, 123 Stat. 2607; amended Pub. L. 115–232, div. A, title X, § 1081(a)(12), Aug. 13, 2018, 132 Stat. 1983.)
 
 **Editorial Notes**
 
@@ -1807,18 +1807,18 @@ The following offenses shall be triable by military commission under this chapte
 
 Prior sections 950t to 950w were omitted in the general amendment of this chapter by Pub. L. 111–84.
 
-Section 950t, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2625, related to attempts to commit any offense punishable by this chapter.
+Section 950t, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2625, related to attempts to commit any offense punishable by this chapter.
 
-Section 950u, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2625, related to solicitation.
+Section 950u, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2625, related to solicitation.
 
-Section 950v, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2625, related to definitions, construction, and crimes triable by military commissions.
+Section 950v, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2625, related to definitions, construction, and crimes triable by military commissions.
 
-Section 950w, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2630, related to perjury, obstruction of justice, and contempt.
+Section 950w, added Pub. L. 109–366, § 3(a)(1), Oct. 17, 2006, 120 Stat. 2630, related to perjury, obstruction of justice, and contempt.
 
 **Amendments**
 
-2018—Par. (9). Pub. L. 115–232, § 1081(a)(12)(A), substituted “attack, or” for “attack. or”.
+2018—Par. (9). Pub. L. 115–232, § 1081(a)(12)(A), substituted “attack, or” for “attack. or”.
 
-Par. (16). Pub. L. 115–232, § 1081(a)(12)(B), substituted “shall be punished” for “shall punished”.
+Par. (16). Pub. L. 115–232, § 1081(a)(12)(B), substituted “shall be punished” for “shall punished”.
 
-Par. (22). Pub. L. 115–232, § 1081(a)(12)(C), inserted period at end.
+Par. (22). Pub. L. 115–232, § 1081(a)(12)(C), inserted period at end.

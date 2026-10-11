@@ -19,31 +19,31 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. F, title LXIII, §§ 6001(c), 6304, Dec. 18, 2025, 139 Stat. 1608, 1611, added item 798B. Automatic amendment of “Act” analyses by section 6001(c) was applied to this analysis, to reflect the probable intent of Congress.
+2025—Pub. L. 119–60, div. F, title LXIII, §§ 6001(c), 6304, Dec. 18, 2025, 139 Stat. 1608, 1611, added item 798B. Automatic amendment of “Act” analyses by section 6001(c) was applied to this analysis, to reflect the probable intent of Congress.
 
-1990—Pub. L. 101–647, title XXXV, § 3519(b), Nov. 29, 1990, 104 Stat. 4923, redesignated item 798, “Temporary extension of section 794”, as 798A.
+1990—Pub. L. 101–647, title XXXV, § 3519(b), Nov. 29, 1990, 104 Stat. 4923, redesignated item 798, “Temporary extension of section 794”, as 798A.
 
-1961—Pub. L. 87–369, § 2, Oct. 4, 1961, 75 Stat. 795, struck out item 791 “Scope of chapter”.
+1961—Pub. L. 87–369, § 2, Oct. 4, 1961, 75 Stat. 795, struck out item 791 “Scope of chapter”.
 
-1958—Pub. L. 85–568, title III, § 304(c)(2), July 29, 1958, 72 Stat. 434, added item 799.
+1958—Pub. L. 85–568, title III, § 304(c)(2), July 29, 1958, 72 Stat. 434, added item 799.
 
-1953—Act June 30, 1953, ch. 175, § 3, 67 Stat. 133, added second item 798.
+1953—Act June 30, 1953, ch. 175, § 3, 67 Stat. 133, added second item 798.
 
-1951—Act Oct. 31, 1951, ch. 655, § 23, 65 Stat. 719, added item 798.
+1951—Act Oct. 31, 1951, ch. 655, § 23, 65 Stat. 719, added item 798.
 
-## [§ 791. Repealed. Pub. L. 87–369, § 1, Oct. 4, 1961, 75 Stat. 795]
+## [§ 791. Repealed. Pub. L. 87–369, § 1, Oct. 4, 1961, 75 Stat. 795]
 
 Section, act June 25, 1948, ch. 645, 62 Stat. 736, related to application of this chapter within the admiralty and maritime jurisdiction of the United States, on the high seas, and within the United States.
 
-## § 792. Harboring or concealing persons
+## § 792. Harboring or concealing persons
 
 Whoever harbors or conceals any person who he knows, or has reasonable grounds to believe or suspect, has committed, or is about to commit, an offense under sections 793 or 794 of this title, shall be fined under this title or imprisoned not more than ten years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 736; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 736; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on section 35 of title 50, U.S.C., 1940 ed., War and National Defense (June 15, 1917, ch. 30, title I, § 5, 40 Stat. 219; Mar. 28, 1940, ch. 72, § 2, 54 Stat. 79).
+Based on section 35 of title 50, U.S.C., 1940 ed., War and National Defense (June 15, 1917, ch. 30, title I, § 5, 40 Stat. 219; Mar. 28, 1940, ch. 72, § 2, 54 Stat. 79).
 
 Similar harboring and concealing language was added to section 2388 of this title.
 
@@ -59,9 +59,9 @@ Mandatory punishment provision was rephrased in the alternative.
 
 **Indictment for Violating This Section and Sections 793, 794; Limitation Period**
 
-Act Sept. 23, 1950, ch. 1024, § 19, 64 Stat. 1005, provided that an indictment for any violation of this section and sections 793 and 794 of this title, other than a violation constituting a capital offense, may be found at any time within ten years next after such violation shall have been committed, but that such section 19 shall not authorize prosecution, trial, or punishment for any offense “now” barred by the provisions of existing law.
+Act Sept. 23, 1950, ch. 1024, § 19, 64 Stat. 1005, provided that an indictment for any violation of this section and sections 793 and 794 of this title, other than a violation constituting a capital offense, may be found at any time within ten years next after such violation shall have been committed, but that such section 19 shall not authorize prosecution, trial, or punishment for any offense “now” barred by the provisions of existing law.
 
-## § 793. Gathering, transmitting or losing defense information
+## § 793. Gathering, transmitting or losing defense information
 
 **(a)** Whoever, for the purpose of obtaining information respecting the national defense with intent or reason to believe that the information is to be used to the injury of the United States, or to the advantage of any foreign nation, goes upon, enters, flies over, or otherwise obtains information concerning any vessel, aircraft, work of defense, navy yard, naval station, submarine base, fueling station, fort, battery, torpedo station, dockyard, canal, railroad, arsenal, camp, factory, mine, telegraph, telephone, wireless, or signal station, building, office, research laboratory or station or other place connected with the national defense owned or constructed, or in progress of construction by the United States or under the control of the United States, or of any of its officers, departments, or agencies, or within the exclusive jurisdiction of the United States, or any place in which any vessel, aircraft, arms, munitions, or other materials or instruments for use in time of war are being made, prepared, repaired, stored, or are the subject of research or development, under any contract or agreement with the United States, or any department or agency thereof, or with any person on behalf of the United States, or otherwise on behalf of the United States, or any prohibited place so designated by the President by proclamation in time of war or in case of national emergency in which anything for the use of the Army, Navy, or Air Force is being prepared or constructed or stored, information as to which prohibited place the President has determined would be prejudicial to the national defense; or
 
@@ -97,11 +97,11 @@ if not inconsistent with this subsection.
 
 **(4)** Notwithstanding section 524(c) of title 28, there shall be deposited in the Crime Victims Fund in the Treasury all amounts from the forfeiture of property under this subsection remaining after the payment of expenses for forfeiture and sale authorized by law.
 
-(June 25, 1948, ch. 645, 62 Stat. 736; Sept. 23, 1950, ch. 1024, title I, § 18, 64 Stat. 1003; Pub. L. 99–399, title XIII, § 1306(a), Aug. 27, 1986, 100 Stat. 898; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 103–359, title VIII, § 804(b)(1), Oct. 14, 1994, 108 Stat. 3440; Pub. L. 104–294, title VI, § 607(b), Oct. 11, 1996, 110 Stat. 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 736; Sept. 23, 1950, ch. 1024, title I, § 18, 64 Stat. 1003; Pub. L. 99–399, title XIII, § 1306(a), Aug. 27, 1986, 100 Stat. 898; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 103–359, title VIII, § 804(b)(1), Oct. 14, 1994, 108 Stat. 3440; Pub. L. 104–294, title VI, § 607(b), Oct. 11, 1996, 110 Stat. 3511.)
 
 **Historical and Revision Notes**
 
-Based on sections 31 and 36 of title 50, U.S.C., 1940 ed., War and National Defense (June 15, 1917, ch. 30, title I, §§ 1, 6, 40 Stat. 217, 219; Mar. 28, 1940, ch. 72, § 1, 54 Stat. 79).
+Based on sections 31 and 36 of title 50, U.S.C., 1940 ed., War and National Defense (June 15, 1917, ch. 30, title I, §§ 1, 6, 40 Stat. 217, 219; Mar. 28, 1940, ch. 72, § 1, 54 Stat. 79).
 
 Section consolidated sections 31 and 36 of title 50, U.S.C., 1940 ed., War and National Defense.
 
@@ -133,7 +133,7 @@ Subsec. (h)(3). Pub. L. 103–359 substituted “(p)” for “(*o*)” in two p
 
 Limitation period in connection with indictments for violating this section, see note set out under section 792 of this title.
 
-## § 794. Gathering or delivering defense information to aid foreign government
+## § 794. Gathering or delivering defense information to aid foreign government
 
 **(a)** Whoever, with intent or reason to believe that it is to be used to the injury of the United States or to the advantage of a foreign nation, communicates, delivers, or transmits, or attempts to communicate, deliver, or transmit, to any foreign government, or to any faction or party or military or naval force within a foreign country, whether recognized or unrecognized by the United States, or to any representative, officer, agent, employee, subject, or citizen thereof, either directly or indirectly, any document, writing, code book, signal book, sketch, photograph, photographic negative, blueprint, plan, map, model, note, instrument, appliance, or information relating to the national defense, shall be punished by death or by imprisonment for any term of years or for life, except that the sentence of death shall not be imposed unless the jury or, if there is no jury, the court, further finds that the offense resulted in the identification by a foreign power (as defined in section 101(a) of the Foreign Intelligence Surveillance Act of 1978) of an individual acting as an agent of the United States and consequently in the death of that individual, or directly concerned nuclear weaponry, military spacecraft or satellites, early warning systems, or other means of defense or retaliation against large-scale attack; war plans; communications intelligence or cryptographic information; or any other major weapons system or major element of defense strategy.
 
@@ -165,11 +165,11 @@ if not inconsistent with this subsection.
 
 **(4)** Notwithstanding section 524(c) of title 28, there shall be deposited in the Crime Victims Fund in the Treasury all amounts from the forfeiture of property under this subsection remaining after the payment of expenses for forfeiture and sale authorized by law.
 
-(June 25, 1948, ch. 645, 62 Stat. 737; Sept. 3, 1954, ch. 1261, title II, § 201, 68 Stat. 1219; Pub. L. 99–399, title XIII, § 1306(b), Aug. 27, 1986, 100 Stat. 898; Pub. L. 100–690, title VII, § 7064, Nov. 18, 1988, 102 Stat. 4404; Pub. L. 103–322, title VI, § 60003(a)(2), Sept. 13, 1994, 108 Stat. 1968; Pub. L. 103–359, title VIII, § 804(b)(2), Oct. 14, 1994, 108 Stat. 3440; Pub. L. 104–294, title VI, §§ 604(b)(2), 607(b), Oct. 11, 1996, 110 Stat. 3506, 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 737; Sept. 3, 1954, ch. 1261, title II, § 201, 68 Stat. 1219; Pub. L. 99–399, title XIII, § 1306(b), Aug. 27, 1986, 100 Stat. 898; Pub. L. 100–690, title VII, § 7064, Nov. 18, 1988, 102 Stat. 4404; Pub. L. 103–322, title VI, § 60003(a)(2), Sept. 13, 1994, 108 Stat. 1968; Pub. L. 103–359, title VIII, § 804(b)(2), Oct. 14, 1994, 108 Stat. 3440; Pub. L. 104–294, title VI, §§ 604(b)(2), 607(b), Oct. 11, 1996, 110 Stat. 3506, 3511.)
 
 **Historical and Revision Notes**
 
-Based on sections 32 and 34 of title 50, U.S.C., 1940 ed., War and National Defense (June 15, 1917, ch. 30, title I, §§ 2, 4, 40 Stat. 218, 219).
+Based on sections 32 and 34 of title 50, U.S.C., 1940 ed., War and National Defense (June 15, 1917, ch. 30, title I, §§ 2, 4, 40 Stat. 218, 219).
 
 Section consolidates sections 32 and 34 of title 50, U.S.C., 1940 ed., War and National Defense.
 
@@ -187,11 +187,11 @@ Section 101(a) of the Foreign Intelligence Surveillance Act of 1978, referred to
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–294, § 604(b)(2), amended directory language of Pub. L. 103–322, § 60003(a)(2). See 1994 Amendment note below.
+1996—Subsec. (a). Pub. L. 104–294, § 604(b)(2), amended directory language of Pub. L. 103–322, § 60003(a)(2). See 1994 Amendment note below.
 
-Subsec. (d)(1). Pub. L. 104–294, § 607(b), inserted at end “For the purposes of this subsection, the term ‘State’ includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.”
+Subsec. (d)(1). Pub. L. 104–294, § 607(b), inserted at end “For the purposes of this subsection, the term ‘State’ includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.”
 
-1994—Subsec. (a). Pub. L. 103–322, as amended by Pub. L. 104–294, § 604(b)(2), substituted for period at end “, except that the sentence of death shall not be imposed unless the jury or, if there is no jury, the court, further finds that the offense resulted in the identification by a foreign power (as defined in section 101(a) of the Foreign Intelligence Surveillance Act of 1978) of an individual acting as an agent of the United States and consequently in the death of that individual, or directly concerned nuclear weaponry, military spacecraft or satellites, early warning systems, or other means of defense or retaliation against large-scale attack; war plans; communications intelligence or cryptographic information; or any other major weapons system or major element of defense strategy.”
+1994—Subsec. (a). Pub. L. 103–322, as amended by Pub. L. 104–294, § 604(b)(2), substituted for period at end “, except that the sentence of death shall not be imposed unless the jury or, if there is no jury, the court, further finds that the offense resulted in the identification by a foreign power (as defined in section 101(a) of the Foreign Intelligence Surveillance Act of 1978) of an individual acting as an agent of the United States and consequently in the death of that individual, or directly concerned nuclear weaponry, military spacecraft or satellites, early warning systems, or other means of defense or retaliation against large-scale attack; war plans; communications intelligence or cryptographic information; or any other major weapons system or major element of defense strategy.”
 
 Subsec. (d)(3). Pub. L. 103–359 substituted “(p)” for “(*o*)” in two places.
 
@@ -211,25 +211,25 @@ Amendment by section 604(b)(2) of Pub. L. 104–294 effective Sept. 13, 1994, se
 
 Temporary extension of section, see section 798 of this title.
 
-Act June 30, 1953, ch. 175, § 7, 67 Stat. 133, repealed Joint Res. July 3, 1952, ch. 570, § 1(a)(29), 66 Stat. 333; Joint Res. Mar. 31, 1953, ch. 13, § 1, 67 Stat. 18, which had provided that this section should continue in force until six months after the termination of the National emergency proclaimed by 1950 Proc. No. 2914 which is set out as a note preceding section 1 of Title 50, War and National Defense.
+Act June 30, 1953, ch. 175, § 7, 67 Stat. 133, repealed Joint Res. July 3, 1952, ch. 570, § 1(a)(29), 66 Stat. 333; Joint Res. Mar. 31, 1953, ch. 13, § 1, 67 Stat. 18, which had provided that this section should continue in force until six months after the termination of the National emergency proclaimed by 1950 Proc. No. 2914 which is set out as a note preceding section 1 of Title 50, War and National Defense.
 
-Joint Res. July 3, 1952, ch. 570, § 6, 66 Stat. 334, repealed Joint Res. Apr. 14, 1952, ch. 204, 66 Stat. 54, as amended by Joint Res. May 28, 1952, ch. 339, 66 Stat. 96. Intermediate extensions by Joint Res. June 14, 1952, ch. 437, 66 Stat. 137, and Joint Res. June 30, 1952, ch. 526, 66 Stat. 296, which continued provisions until July 3, 1952, expired by their own terms.
+Joint Res. July 3, 1952, ch. 570, § 6, 66 Stat. 334, repealed Joint Res. Apr. 14, 1952, ch. 204, 66 Stat. 54, as amended by Joint Res. May 28, 1952, ch. 339, 66 Stat. 96. Intermediate extensions by Joint Res. June 14, 1952, ch. 437, 66 Stat. 137, and Joint Res. June 30, 1952, ch. 526, 66 Stat. 296, which continued provisions until July 3, 1952, expired by their own terms.
 
 **Indictment for Violating This Section; Limitation Period**
 
 Limitation period in connection with indictments for violating this section, see note set out under section 792 of this title.
 
-## § 795. Photographing and sketching defense installations
+## § 795. Photographing and sketching defense installations
 
 **(a)** Whenever, in the interests of national defense, the President defines certain vital military and naval installations or equipment as requiring protection against the general dissemination of information relative thereto, it shall be unlawful to make any photograph, sketch, picture, drawing, map, or graphical representation of such vital military and naval installations or equipment without first obtaining permission of the commanding officer of the military or naval post, camp, or station, or naval vessels, military and naval aircraft, and any separate military or naval command concerned, or higher authority, and promptly submitting the product obtained to such commanding officer or higher authority for censorship or such other action as he may deem necessary.
 
 **(b)** Whoever violates this section shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 737; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 737; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on sections 45 and 45c of title 50, U.S.C., 1940 ed., War and National Defense (Jan. 12, 1938, ch. 2, §§ 1, 4, 52 Stat. 3, 4).
+Based on sections 45 and 45c of title 50, U.S.C., 1940 ed., War and National Defense (Jan. 12, 1938, ch. 2, §§ 1, 4, 52 Stat. 3, 4).
 
 Section consolidated sections 45 and 45c of title 50, U.S.C., 1940 ed., War and National Defense.
 
@@ -279,15 +279,15 @@ This order supersedes Executive Order No. 8381 of March 22, 1940 entitled “Def
 
 Harry S. Truman.
 
-## § 796. Use of aircraft for photographing defense installations
+## § 796. Use of aircraft for photographing defense installations
 
 Whoever uses or permits the use of an aircraft or any contrivance used, or designed for navigation or flight in the air, for the purpose of making a photograph, sketch, picture, drawing, map, or graphical representation of vital military or naval installations or equipment, in violation of section 795 of this title, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 738; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 738; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on sections 45, 45a, and 45c of title 50, U.S.C., 1940 ed., War and National Defense (Jan. 12, 1938, ch. 2, §§ 1, 2, 4, 52 Stat. 3, 4).
+Based on sections 45, 45a, and 45c of title 50, U.S.C., 1940 ed., War and National Defense (Jan. 12, 1938, ch. 2, §§ 1, 2, 4, 52 Stat. 3, 4).
 
 Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
 
@@ -301,15 +301,15 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-## § 797. Publication and sale of photographs of defense installations
+## § 797. Publication and sale of photographs of defense installations
 
 On and after thirty days from the date upon which the President defines any vital military or naval installation or equipment as being within the category contemplated under section 795 of this title, whoever reproduces, publishes, sells, or gives away any photograph, sketch, picture, drawing, map, or graphical representation of the vital military or naval installations or equipment so defined, without first obtaining permission of the commanding officer of the military or naval post, camp, or station concerned, or higher authority, unless such photograph, sketch, picture, drawing, map, or graphical representation has clearly indicated thereon that it has been censored by the proper military or naval authority, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 738; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 738; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on sections 45 and 45b, of title 50, U.S.C., 1940 ed., War and National Defense (Jan. 12, 1938, ch. 2, §§ 1, 3, 52 Stat. 3).
+Based on sections 45 and 45b, of title 50, U.S.C., 1940 ed., War and National Defense (Jan. 12, 1938, ch. 2, §§ 1, 3, 52 Stat. 3).
 
 Punishment provision of section 45 of title 50, U.S.C., 1940 ed., War and National Defense, is repeated. Words “upon conviction” were deleted as surplusage since punishment cannot be imposed until a conviction is secured.
 
@@ -321,7 +321,7 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-## § 798. Disclosure of classified information
+## § 798. Disclosure of classified information
 
 **(a)** Whoever knowingly and willfully communicates, furnishes, transmits, or otherwise makes available to an unauthorized person, or publishes, or uses in any manner prejudicial to the safety or interest of the United States or for the benefit of any foreign government to the detriment of the United States any classified information—
 
@@ -369,15 +369,15 @@ The term “unauthorized person” means any person who, or agency which, is not
 
 if not inconsistent with this subsection.
 
-**(4)** Notwithstanding section 524(c) of title 28, there shall be deposited in the Crime Victims Fund established under section 1402 of the Victims of Crime Act of 1984 (42 U.S.C. 10601) 1
+**(4)** Notwithstanding section 524(c) of title 28, there shall be deposited in the Crime Victims Fund established under section 1402 of the Victims of Crime Act of 1984 (42 U.S.C. 10601) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 all amounts from the forfeiture of property under this subsection remaining after the payment of expenses for forfeiture and sale authorized by law.
 
 **(5)** As used in this subsection, the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
-(Added Oct. 31, 1951, ch. 655, § 24(a), 65 Stat. 719; amended Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 103–359, title VIII, § 804(a), Oct. 14, 1994, 108 Stat. 3439; Pub. L. 104–294, title VI, § 602(c), Oct. 11, 1996, 110 Stat. 3503.)
+(Added Oct. 31, 1951, ch. 655, § 24(a), 65 Stat. 719; amended Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 103–359, title VIII, § 804(a), Oct. 14, 1994, 108 Stat. 3439; Pub. L. 104–294, title VI, § 602(c), Oct. 11, 1996, 110 Stat. 3503.)
 
 **Editorial Notes**
 
@@ -397,11 +397,11 @@ Another section 798 was renumbered section 798A of this title.
 
 Subsec. (d). Pub. L. 103–359 added subsec. (d).
 
-## § 798A. Temporary extension of section 794
+## § 798A. Temporary extension of section 794
 
 The provisions of section 794 of this title, as amended and extended by section 1(a)(29) of the Emergency Powers Continuation Act (66 Stat. 333), as further amended by Public Law 12, Eighty-third Congress, in addition to coming into full force and effect in time of war shall remain in full force and effect until six months after the termination of the national emergency proclaimed by the President on December 16, 1950 (Proc. 2912, 3 C.F.R., 1950 Supp., p. 71), or such earlier date as may be prescribed by concurrent resolution of the Congress, and acts which would give rise to legal consequences and penalties under section 794 when performed during a state of war shall give rise to the same legal consequences and penalties when they are performed during the period above provided for.
 
-(Added June 30, 1953, ch. 175, § 4, 67 Stat. 133, § 798; renumbered § 798A, Pub. L. 101–647, title XXXV, § 3519(a), Nov. 29, 1990, 104 Stat. 4923.)
+(Added June 30, 1953, ch. 175, § 4, 67 Stat. 133, § 798; renumbered § 798A, Pub. L. 101–647, title XXXV, § 3519(a), Nov. 29, 1990, 104 Stat. 4923.)
 
 **Editorial Notes**
 
@@ -421,7 +421,7 @@ Proc. 2912, 3 C.F.R., 1950 Supp., p. 71, referred to in text, probably should re
 
 Declaration of national emergency in effect on Sept. 14, 1976, was terminated two years from that date by section 1601 of Title 50, War and National Defense.
 
-## § 798B. Unauthorized access to intelligence community property
+## § 798B. Unauthorized access to intelligence community property
 
 **(a) Prohibited Activity.—** It shall be unlawful, within the jurisdiction of the United States, without authorization to willfully go upon any property—
 
@@ -441,13 +441,13 @@ Declaration of national emergency in effect on Sept. 14, 1976, was terminated tw
 
 **(3)** in the case of a third or subsequent offense after a prior conviction under subsection (a) has become final, be fined under this title, imprisoned not more than 5 years, or both.
 
-(Added Pub. L. 119–60, div. F, title LXIII, § 6304, Dec. 18, 2025, 139 Stat. 1611.)
+(Added Pub. L. 119–60, div. F, title LXIII, § 6304, Dec. 18, 2025, 139 Stat. 1611.)
 
-## § 799. Violation of regulations of National Aeronautics and Space Administration
+## § 799. Violation of regulations of National Aeronautics and Space Administration
 
 Whoever willfully shall violate, attempt to violate, or conspire to violate any regulation or order promulgated by the Administrator of the National Aeronautics and Space Administration for the protection or security of any laboratory, station, base or other facility, or part thereof, or any aircraft, missile, spacecraft, or similar vehicle, or part thereof, or other property or equipment in the custody of the Administration, or any real or personal property or equipment in the custody of any contractor under any contract with the Administration or any subcontractor of any such contractor, shall be fined under this title, or imprisoned not more than one year, or both.
 
-(Added Pub. L. 85–568, title III, § 304(c)(1), July 29, 1958, 72 Stat. 434; amended Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 85–568, title III, § 304(c)(1), July 29, 1958, 72 Stat. 434; amended Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Editorial Notes**
 

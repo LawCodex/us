@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 26—FOOD SAFETY
 
-## § 2101. Findings
+## § 2101. Findings
 
 Congress finds that—
 
@@ -43,9 +43,9 @@ Congress finds that—
 
 **(5)** the number of full-time equivalent Food and Drug Administration employees conducting inspections has decreased from 2003 to 2007.
 
-(Pub. L. 110–85, title X, § 1001, Sept. 27, 2007, 121 Stat. 962.)
+(Pub. L. 110–85, title X, § 1001, Sept. 27, 2007, 121 Stat. 962.)
 
-## § 2102. Ensuring the safety of pet food
+## § 2102. Ensuring the safety of pet food
 
 **(a) Processing and ingredient standards** Not later than 2 years after September 27, 2007, the Secretary of Health and Human Services (referred to in this chapter as the “Secretary”), in consultation with the Association of American Feed Control Officials and other relevant stakeholder groups, including veterinary medical associations, animal health organizations, and pet food manufacturers, shall by regulation establish—
 
@@ -63,7 +63,7 @@ Congress finds that—
 
 **(4)** use such information and conduct such other activities as the Secretary deems appropriate.
 
-(Pub. L. 110–85, title X, § 1002, Sept. 27, 2007, 121 Stat. 963; Pub. L. 115–234, title III, § 306(b), Aug. 14, 2018, 132 Stat. 2441.)
+(Pub. L. 110–85, title X, § 1002, Sept. 27, 2007, 121 Stat. 963; Pub. L. 115–234, title III, § 306(b), Aug. 14, 2018, 132 Stat. 2441.)
 
 **Editorial Notes**
 
@@ -75,7 +75,7 @@ This chapter, referred to in subsec. (a), was in the original “this title”, 
 
 2018—Subsec. (a). Pub. L. 115–234 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “ingredient standards and definitions with respect to pet food;”.
 
-## § 2103. Ensuring efficient and effective communications during a recall
+## § 2103. Ensuring efficient and effective communications during a recall
 
 The Secretary shall, during an ongoing recall of human or pet food regulated by the Secretary—
 
@@ -85,9 +85,9 @@ The Secretary shall, during an ongoing recall of human or pet food regulated by 
 
 **(3)** post information regarding recalled human and pet foods on the Internet Web site of the Food and Drug Administration in a single location, which shall include a searchable database of recalled human foods and a searchable database of recalled pet foods, that is easily accessed and understood by the public.
 
-(Pub. L. 110–85, title X, § 1003, Sept. 27, 2007, 121 Stat. 963.)
+(Pub. L. 110–85, title X, § 1003, Sept. 27, 2007, 121 Stat. 963.)
 
-## § 2104. State and Federal cooperation
+## § 2104. State and Federal cooperation
 
 **(a) In general** The Secretary shall work with the States in undertaking activities and programs that assist in improving the safety of food, including fresh and processed produce, so that State food safety programs and activities conducted by the Secretary function in a coordinated and cost-effective manner. With the assistance provided under subsection (b), the Secretary shall encourage States to—
 
@@ -107,9 +107,9 @@ The Secretary shall, during an ongoing recall of human or pet food regulated by 
 
 The Secretary may, under an agreement entered into with a Federal, State, or local agency, use, on a reimbursable basis or otherwise, the personnel, services, and facilities of the agency to carry out the responsibilities of the agency under this section. An agreement entered into with a State agency under this subsection may provide for training of State employees.
 
-(Pub. L. 110–85, title X, § 1004, Sept. 27, 2007, 121 Stat. 964.)
+(Pub. L. 110–85, title X, § 1004, Sept. 27, 2007, 121 Stat. 964.)
 
-## § 2105. Enhanced aquaculture and seafood inspection
+## § 2105. Enhanced aquaculture and seafood inspection
 
 **(a) Findings** Congress finds the following:
 
@@ -135,13 +135,13 @@ The Secretary is authorized to enhance, as necessary, the inspection regime of t
 
 Upon the request by any State, the Secretary may enter into partnership agreements, as soon as practicable after the request is made, to implement inspection programs to Federal standards regarding the importation of aquaculture and seafood.
 
-(Pub. L. 110–85, title X, § 1006, Sept. 27, 2007, 121 Stat. 969.)
+(Pub. L. 110–85, title X, § 1006, Sept. 27, 2007, 121 Stat. 969.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Regulation of Export of Shrimp to the United States**
 
-Pub. L. 116–260, div. A, title VII, § 787, Dec. 27, 2020, 134 Stat. 1230, provided that:
+Pub. L. 116–260, div. A, title VII, § 787, Dec. 27, 2020, 134 Stat. 1230, provided that:
 
 > **“(a)** The Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs (Commissioner), shall develop and, if it determines feasible, implement a number of options for regulating the export of shrimp to the United States from other countries, including the three largest exporting countries by volume to the United States over the last three calendar years, such as sampling of products prior to export to the United States, increasing foreign inspections of export facilities, increased seafood importer inspections, foreign surveillance inspections at overseas manufacturing sites, enhanced import screening, higher rates of examination and sampling, use of third-party audits, and formal seafood arrangements with foreign competent authorities.
 
@@ -153,13 +153,13 @@ Pub. L. 116–260, div. A, title VII, § 787, Dec. 27, 2020, 134 Stat. 1230, p
 
 > **“(3)** provide an annual report to the Committee before the end of fiscal years 2021, 2022, and 2023 with the reporting requirement goal being to provide the Committee information related to FDA’s oversight of the safety of shrimp products imported into the United States.”
 
-## § 2106. Consultation regarding genetically engineered seafood products
+## § 2106. Consultation regarding genetically engineered seafood products
 
 The Commissioner of Food and Drugs shall consult with the Assistant Administrator of the National Marine Fisheries Service of the National Oceanic and Atmospheric Administration to produce a report on any environmental risks associated with genetically engineered seafood products, including the impact on wild fish stocks.
 
-(Pub. L. 110–85, title X, § 1007, Sept. 27, 2007, 121 Stat. 969.)
+(Pub. L. 110–85, title X, § 1007, Sept. 27, 2007, 121 Stat. 969.)
 
-## § 2107. Sense of Congress
+## § 2107. Sense of Congress
 
 It is the sense of Congress that—
 
@@ -171,9 +171,9 @@ It is the sense of Congress that—
 
 **(4)** Congress should work to develop a comprehensive response to the issue of food safety.
 
-(Pub. L. 110–85, title X, § 1008, Sept. 27, 2007, 121 Stat. 970.)
+(Pub. L. 110–85, title X, § 1008, Sept. 27, 2007, 121 Stat. 970.)
 
-## § 2108. Annual report to Congress
+## § 2108. Annual report to Congress
 
 The Secretary shall, on an annual basis, submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives a report that includes, with respect to the preceding 1-year period—
 
@@ -183,15 +183,15 @@ The Secretary shall, on an annual basis, submit to the Committee on Health, Educ
 
 **(3)** aggregated data on the findings of such inspections, including data related to violations of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 301 et seq.], and enforcement actions used to follow-up on such findings and violations.
 
-(Pub. L. 110–85, title X, § 1009, Sept. 27, 2007, 121 Stat. 970.)
+(Pub. L. 110–85, title X, § 1009, Sept. 27, 2007, 121 Stat. 970.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Food, Drug, and Cosmetic Act, referred to in par. (3), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in par. (3), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
-## § 2109. Publication of annual reports
+## § 2109. Publication of annual reports
 
 **(a) In general** The Commissioner of Food and Drugs shall annually submit to Congress and publish on the Internet Web site of the Food and Drug Administration, a report concerning the results of the Administration’s pesticide residue monitoring program, that includes—
 
@@ -211,9 +211,9 @@ Annual reports under subsection (a) for fiscal years 2004 through 2006 may be co
 
 The Commissioner of Food and Drugs, the Administrator of the Food Safety and Inspection Service, the Department of Commerce, and the head of the Agricultural Marketing Service shall enter into a memorandum of understanding to permit inclusion of data in the reports under subsection (a) relating to testing carried out by the Food Safety and Inspection Service and the Agricultural Marketing Service on meat, poultry, eggs, and certain raw agricultural products, respectively.
 
-(Pub. L. 110–85, title X, § 1010, Sept. 27, 2007, 121 Stat. 970.)
+(Pub. L. 110–85, title X, § 1010, Sept. 27, 2007, 121 Stat. 970.)
 
-## § 2110. Rule of construction
+## § 2110. Rule of construction
 
 Nothing in this chapter (or an amendment made by this chapter) shall be construed to affect—
 
@@ -221,7 +221,7 @@ Nothing in this chapter (or an amendment made by this chapter) shall be construe
 
 **(2)** the adverse event reporting system for dietary supplements created under the Dietary Supplement and Nonprescription Drug Consumer Protection Act (Public Law 109–462).
 
-(Pub. L. 110–85, title X, § 1011, Sept. 27, 2007, 121 Stat. 971.)
+(Pub. L. 110–85, title X, § 1011, Sept. 27, 2007, 121 Stat. 971.)
 
 **Editorial Notes**
 
@@ -237,4 +237,4 @@ The Dietary Supplement and Nonprescription Drug Consumer Protection Act, referre
 
 **Construction**
 
-Pub. L. 110–85, title X, § 1005(g), Sept. 27, 2007, 121 Stat. 969, provided that: “Nothing in this title [enacting this chapter and section 350f of this title, amending sections 321 and 331 of this title, and enacting provisions set out as notes under section 350f of this title], or an amendment made by this title, shall be construed to alter the jurisdiction between the Secretaries of Agriculture and of Health and Human Services, under applicable statutes and regulations.”
+Pub. L. 110–85, title X, § 1005(g), Sept. 27, 2007, 121 Stat. 969, provided that: “Nothing in this title [enacting this chapter and section 350f of this title, amending sections 321 and 331 of this title, and enacting provisions set out as notes under section 350f of this title], or an amendment made by this title, shall be construed to alter the jurisdiction between the Secretaries of Agriculture and of Health and Human Services, under applicable statutes and regulations.”

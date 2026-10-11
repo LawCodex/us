@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1970—Pub. L. 91–452, title IV, § 401(b), Oct. 15, 1970, 84 Stat. 933, added item 1623.
+1970—Pub. L. 91–452, title IV, § 401(b), Oct. 15, 1970, 84 Stat. 933, added item 1623.
 
-## § 1621. Perjury generally
+## § 1621. Perjury generally
 
 Whoever—
 
@@ -31,11 +31,11 @@ Whoever—
 
 is guilty of perjury and shall, except as otherwise expressly provided by law, be fined under this title or imprisoned not more than five years, or both. This section is applicable whether the statement or subscription is made within or without the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 773; Pub. L. 88–619, § 1, Oct. 3, 1964, 78 Stat. 995; Pub. L. 94–550, § 2, Oct. 18, 1976, 90 Stat. 2534; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 773; Pub. L. 88–619, § 1, Oct. 3, 1964, 78 Stat. 995; Pub. L. 94–550, § 2, Oct. 18, 1976, 90 Stat. 2534; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 231, 629 (Mar. 4, 1909, ch. 321, § 125, 35 Stat. 1111; June 15, 1917, ch. 30, title XI, § 19, 40 Stat. 230).
+Based on title 18, U.S.C., 1940 ed., §§ 231, 629 (Mar. 4, 1909, ch. 321, § 125, 35 Stat. 1111; June 15, 1917, ch. 30, title XI, § 19, 40 Stat. 230).
 
 Words “except as otherwise expressly provided by law” were inserted to avoid conflict with perjury provisions in other titles where the punishment and application vary.
 
@@ -55,15 +55,15 @@ Minor verbal changes were made.
 
 1964—Pub. L. 88–619 inserted at end “This section is applicable whether the statement or subscription is made within or without the United States.”
 
-## § 1622. Subornation of perjury
+## § 1622. Subornation of perjury
 
 Whoever procures another to commit any perjury is guilty of subornation of perjury, and shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 774; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 774; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 232 (Mar. 4, 1909, ch. 321, § 126, 35 Stat. 1111).
+Based on title 18, U.S.C., 1940 ed., § 232 (Mar. 4, 1909, ch. 321, § 126, 35 Stat. 1111).
 
 The punishment prescribed in section 1621 of this title was substituted for the reference thereto.
 
@@ -75,7 +75,7 @@ Minor change was made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000”.
 
-## § 1623. False declarations before grand jury or court
+## § 1623. False declarations before grand jury or court
 
 **(a)** Whoever under oath (or in any declaration, certificate, verification, or statement under penalty of perjury as permitted under section 1746 of title 28, United States Code) in any proceeding before or ancillary to any court or grand jury of the United States knowingly makes any false material declaration or makes or uses any other information, including any book, paper, document, record, recording, or other material, knowing the same to contain any false material declaration, shall be fined under this title or imprisoned not more than five years or, if such proceedings are before or ancillary to the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review established by section 103 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1803), imprisoned not more than ten years, or both.
 
@@ -93,13 +93,13 @@ In any prosecution under this section, the falsity of a declaration set forth in
 
 **(e)** Proof beyond a reasonable doubt under this section is sufficient for conviction. It shall not be necessary that such proof be made by any particular number of witnesses or by documentary or other type of evidence.
 
-(Added Pub. L. 91–452, title IV, § 401(a), Oct. 15, 1970, 84 Stat. 932; amended Pub. L. 94–550, § 6, Oct. 18, 1976, 90 Stat. 2535; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 118–49, § 13(d), Apr. 20, 2024, 138 Stat. 882.)
+(Added Pub. L. 91–452, title IV, § 401(a), Oct. 15, 1970, 84 Stat. 932; amended Pub. L. 94–550, § 6, Oct. 18, 1976, 90 Stat. 2535; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 118–49, § 13(d), Apr. 20, 2024, 138 Stat. 882.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (a). Pub. L. 118–49 inserted “or, if such proceedings are before or ancillary to the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review established by section 103 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1803), imprisoned not more than ten years” before “, or both”.
+2024—Subsec. (a). Pub. L. 118–49 inserted “or, if such proceedings are before or ancillary to the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review established by section 103 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1803), imprisoned not more than ten years” before “, or both”.
 
 1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 

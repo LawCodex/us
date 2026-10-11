@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 12E—NIAGARA POWER PROJECT
 
-## § 836. Authorization to license construction and operation; licensing conditions
+## § 836. Authorization to license construction and operation; licensing conditions
 
 **(a)** The Federal Energy Regulatory Commission is expressly authorized and directed to issue a license to the Power Authority of the State of New York for the construction and operation of a power project with capacity to utilize all of the United States share of the water of the Niagara River permitted to be used by international agreement.
 
@@ -35,32 +35,32 @@ retrieved: 2026-10-11
 
 **(7)** The licensee shall pay to the United States and include in its net investment in the project herein authorized the United States share of the cost of the construction of the remedial works, including engineering and economic investigations, undertaken in accordance with article II of the treaty between the United States of America and Canada concerning uses of the waters of the Niagara River signed February 27, 1950, whenever such remedial works are constructed.
 
-(Pub. L. 85–159, § 1, Aug. 21, 1957, 71 Stat. 401; Pub. L. 95–91, title IV, § 402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583.)
+(Pub. L. 85–159, § 1, Aug. 21, 1957, 71 Stat. 401; Pub. L. 95–91, title IV, § 402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Power Act, referred to in subsec. (b), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
+The Federal Power Act, referred to in subsec. (b), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Functions**
 
-“Federal Energy Regulatory Commission” substituted in text for “Federal Power Commission” pursuant to Pub. L. 95–91, § 402(a)(1)(A), which is classified to section 7172(a)(1)(A) of Title 42, The Public Health and Welfare.
+“Federal Energy Regulatory Commission” substituted in text for “Federal Power Commission” pursuant to Pub. L. 95–91, § 402(a)(1)(A), which is classified to section 7172(a)(1)(A) of Title 42, The Public Health and Welfare.
 
 The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
-## § 836a. Rules governing issuance of license
+## § 836a. Rules governing issuance of license
 
 The license issued under the terms of this chapter shall be granted in conformance with Rules of Practice and Procedure of the Federal Energy Regulatory Commission, but in the event of any conflict, the provisions of this chapter shall govern in respect of the project herein authorized.
 
-(Pub. L. 85–159, § 2, Aug. 21, 1957, 71 Stat. 402; Pub. L. 95–91, title IV, § 402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583.)
+(Pub. L. 85–159, § 2, Aug. 21, 1957, 71 Stat. 402; Pub. L. 95–91, title IV, § 402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Functions**
 
-“Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsecs. (a) and (b) pursuant to Pub. L. 95–91, § 402(a)(1)(A), which is classified to section 7172(a)(1)(A) of Title 42, The Public Health and Welfare.
+“Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsecs. (a) and (b) pursuant to Pub. L. 95–91, § 402(a)(1)(A), which is classified to section 7172(a)(1)(A) of Title 42, The Public Health and Welfare.
 
 The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.

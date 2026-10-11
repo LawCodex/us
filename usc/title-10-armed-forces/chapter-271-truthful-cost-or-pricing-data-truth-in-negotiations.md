@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 271, “TRUTHFUL COST OR PRICING DATA”, as added by Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1828, and consisting of reserved section 3701, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1831(a), Jan. 1, 2021, 134 Stat. 4208.
+A prior chapter 271, “TRUTHFUL COST OR PRICING DATA”, as added by Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1828, and consisting of reserved section 3701, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1831(a), Jan. 1, 2021, 134 Stat. 4208.
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title VIII, § 812(c)(1), (2)(A), Dec. 18, 2025, 139 Stat. 952, added item 3709. Amendment was made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title VIII, § 812(c)(1), (2)(A), Dec. 18, 2025, 139 Stat. 952, added item 3709. Amendment was made pursuant to operation of section 102 of this title.
 
-## § 3701. Definitions
+## § 3701. Definitions
 
 In this chapter:
 
@@ -33,17 +33,17 @@ In this chapter:
 
 **(2) Subcontract.—** The term “subcontract” includes a transfer of commercial products or commercial services between divisions, subsidiaries, or affiliates of a contractor or a subcontractor.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1831(a), (b), Jan. 1, 2021, 134 Stat. 4209; Pub. L. 117–81, div. A, title XVII, § 1701(b)(10)(A), Dec. 27, 2021, 135 Stat. 2133.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1831(a), (b), Jan. 1, 2021, 134 Stat. 4209; Pub. L. 117–81, div. A, title XVII, § 1701(b)(10)(A), Dec. 27, 2021, 135 Stat. 2133.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (h) of section 2306a of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1831(b), was based on Pub. L. 99–500, § 101(c) [title X, § 952(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, § 101(c) [title X, § 952(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, § 952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VIII, § 804(a), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 103–355, title I, §§ 1204(1), 1208, Oct. 13, 1994, 108 Stat. 3275, 3277; Pub. L. 104–106, div. D, title XLII, § 4201(a)(2)(B), Feb. 10, 1996, 110 Stat. 651; Pub. L. 111–350, § 5(b)(15), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 115–232, div. A, title VIII, § 836(c)(5)(C), Aug. 13, 2018, 132 Stat. 1865. Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections. Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
+The text of subsec. (h) of section 2306a of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1831(b), was based on Pub. L. 99–500, § 101(c) [title X, § 952(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, § 101(c) [title X, § 952(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, § 952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VIII, § 804(a), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 103–355, title I, §§ 1204(1), 1208, Oct. 13, 1994, 108 Stat. 3275, 3277; Pub. L. 104–106, div. D, title XLII, § 4201(a)(2)(B), Feb. 10, 1996, 110 Stat. 651; Pub. L. 111–350, § 5(b)(15), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 115–232, div. A, title VIII, § 836(c)(5)(C), Aug. 13, 2018, 132 Stat. 1865. Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections. Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1831(b), as amended by Pub. L. 117–81, § 1701(b)(10)(A), transferred subsec. (h) of section 2306a of this title to this section, struck out subsec. (h) designation and heading “Definitions” at beginning, and substituted “this chapter” for “this section” in introductory provisions and “section 3706(a)(2) of this title” for “subsection (e)(1)(B)” in par. (1).
+2021—Pub. L. 116–283, § 1831(b), as amended by Pub. L. 117–81, § 1701(b)(10)(A), transferred subsec. (h) of section 2306a of this title to this section, struck out subsec. (h) designation and heading “Definitions” at beginning, and substituted “this chapter” for “this section” in introductory provisions and “section 3706(a)(2) of this title” for “subsection (e)(1)(B)” in par. (1).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -55,7 +55,7 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3702. Required cost or pricing data and certification
+## § 3702. Required cost or pricing data and certification
 
 **(a) When Required.—** The head of an agency shall require offerors, contractors, and subcontractors to make cost or pricing data available as follows:
 
@@ -75,7 +75,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(ii)** in the case of a prime contract entered into on or before June 30, 2026, the price of the subcontract is expected to exceed $2,000,000..1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 **(B)**
 
@@ -109,77 +109,77 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(g) Adjustment of Amounts.—** Effective on October 1 of each year that is divisible by 5, each amount set forth in subsection (a) shall be adjusted in accordance with section 1908 of title 41.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1831(a), (c), Jan. 1, 2021, 134 Stat. 4209; Pub. L. 117–81, div. A, title VIII, § 804(b), title XVII, § 1701(b)(10)(B)–(G), (c)(3), Dec. 27, 2021, 135 Stat. 1816, 2133, 2134, 2136; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(29), Dec. 22, 2023, 137 Stat. 684; Pub. L. 118–159, div. A, title VIII, § 815, Dec. 23, 2024, 138 Stat. 1980; Pub. L. 119–60, div. A, title XVII, § 1701(a)(25), title XVIII, § 1804(c), Dec. 18, 2025, 139 Stat. 1209, 1234.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1831(a), (c), Jan. 1, 2021, 134 Stat. 4209; Pub. L. 117–81, div. A, title VIII, § 804(b), title XVII, § 1701(b)(10)(B)–(G), (c)(3), Dec. 27, 2021, 135 Stat. 1816, 2133, 2134, 2136; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(29), Dec. 22, 2023, 137 Stat. 684; Pub. L. 118–159, div. A, title VIII, § 815, Dec. 23, 2024, 138 Stat. 1980; Pub. L. 119–60, div. A, title XVII, § 1701(a)(25), title XVIII, § 1804(c), Dec. 18, 2025, 139 Stat. 1209, 1234.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (a) of section 2306a of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1831(c), was based on Pub. L. 99–500, § 101(c) [title X, § 952(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, § 101(c) [title X, § 952(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, § 952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VIII, § 804(b)(1), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, § 803(a)(1), Nov. 5, 1990, 104 Stat. 1589; Pub. L. 102–25, title VII, § 701(b), Apr. 6, 1991, 105 Stat. 113; Pub. L. 102–190, div. A, title VIII, § 804(a)–(c)(1), Dec. 5, 1991, 105 Stat. 1415, 1416; Pub. L. 103–355, title I, §§ 1201, 1202(b), Oct. 13, 1994, 108 Stat. 3273, 3274; Pub. L. 105–85, div. A, title X, § 1073(a)(46), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title VIII, § 805(a), Oct. 17, 1998, 112 Stat. 2083; Pub. L. 114–328, div. A, title VIII, § 822(1), Dec. 23, 2016, 130 Stat. 2276; Pub. L. 115–91, div. A, title VIII, § 811(a)(1), Dec. 12, 2017, 131 Stat. 1459; Pub. L. 116–283, div. A, § 814(a)(1), Jan. 1, 2021, 134 Stat. 3479; Pub. L. 117–81, div. A, title VIII, § 804(a), Dec. 27, 2021, 135 Stat. 1816. Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections. Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
+The text of subsec. (a) of section 2306a of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1831(c), was based on Pub. L. 99–500, § 101(c) [title X, § 952(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, § 101(c) [title X, § 952(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, § 952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VIII, § 804(b)(1), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, § 803(a)(1), Nov. 5, 1990, 104 Stat. 1589; Pub. L. 102–25, title VII, § 701(b), Apr. 6, 1991, 105 Stat. 113; Pub. L. 102–190, div. A, title VIII, § 804(a)–(c)(1), Dec. 5, 1991, 105 Stat. 1415, 1416; Pub. L. 103–355, title I, §§ 1201, 1202(b), Oct. 13, 1994, 108 Stat. 3273, 3274; Pub. L. 105–85, div. A, title X, § 1073(a)(46), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title VIII, § 805(a), Oct. 17, 1998, 112 Stat. 2083; Pub. L. 114–328, div. A, title VIII, § 822(1), Dec. 23, 2016, 130 Stat. 2276; Pub. L. 115–91, div. A, title VIII, § 811(a)(1), Dec. 12, 2017, 131 Stat. 1459; Pub. L. 116–283, div. A, § 814(a)(1), Jan. 1, 2021, 134 Stat. 3479; Pub. L. 117–81, div. A, title VIII, § 804(a), Dec. 27, 2021, 135 Stat. 1816. Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections. Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 **Amendments**
 
-2025—Subsec. (a)(1)(A). Pub. L. 119–60, § 1804(c)(1)(B), substituted “$10,000,000” for “$2,000,000”.
+2025—Subsec. (a)(1)(A). Pub. L. 119–60, § 1804(c)(1)(B), substituted “$10,000,000” for “$2,000,000”.
 
-Pub. L. 119–60, § 1804(c)(1)(A), substituted “June 30, 2026” for “June 30, 2018”.
+Pub. L. 119–60, § 1804(c)(1)(A), substituted “June 30, 2026” for “June 30, 2018”.
 
-Subsec. (a)(1)(B). Pub. L. 119–60, § 1804(c)(1)(C), substituted “$2,000,000” for “$750,000”.
+Subsec. (a)(1)(B). Pub. L. 119–60, § 1804(c)(1)(C), substituted “$2,000,000” for “$750,000”.
 
-Pub. L. 119–60, § 1804(c)(1)(A), substituted “June 30, 2026” for “June 30, 2018”.
+Pub. L. 119–60, § 1804(c)(1)(A), substituted “June 30, 2026” for “June 30, 2018”.
 
-Subsec. (a)(2). Pub. L. 119–60, § 1804(c)(2), substituted “$10,000,000” for “$2,000,000”.
+Subsec. (a)(2). Pub. L. 119–60, § 1804(c)(2), substituted “$10,000,000” for “$2,000,000”.
 
-Subsec. (a)(3)(A). Pub. L. 119–60, § 1804(c)(3), substituted “chapter and—” and cls. (i) and (ii) for “chapter and the price of the subcontract is expected to exceed $2,000,000”.
+Subsec. (a)(3)(A). Pub. L. 119–60, § 1804(c)(3), substituted “chapter and—” and cls. (i) and (ii) for “chapter and the price of the subcontract is expected to exceed $2,000,000”.
 
-Subsec. (a)(3)(B)(ii). Pub. L. 119–60, § 1701(a)(25), substituted “offeror” for “offereor”.
+Subsec. (a)(3)(B)(ii). Pub. L. 119–60, § 1701(a)(25), substituted “offeror” for “offereor”.
 
 2024—Subsec. (a)(3). Pub. L. 118–159 designated existing provisions as subpar. (A) and added subpar. (B).
 
-2023—Subsec. (a)(4). Pub. L. 118–31, § 1801(a)(29)(A), substituted “paragraph (3)” for “subparagraph (C)”.
+2023—Subsec. (a)(4). Pub. L. 118–31, § 1801(a)(29)(A), substituted “paragraph (3)” for “subparagraph (C)”.
 
-Subsec. (f). Pub. L. 118–31, § 1801(a)(29)(B), substituted “paragraphs (1) and (2) of such subsection” for “subparagraphs (B) and (C) of such paragraph”.
+Subsec. (f). Pub. L. 118–31, § 1801(a)(29)(B), substituted “paragraphs (1) and (2) of such subsection” for “subparagraphs (B) and (C) of such paragraph”.
 
-2021—Pub. L. 116–283, § 1831(c)(1), (2)(A), transferred subsec. (a) of section 2306a of this title to this section and redesignated pars. (1) to (7) of such former subsec. (a) as subsecs. (a) to (g), respectively.
+2021—Pub. L. 116–283, § 1831(c)(1), (2)(A), transferred subsec. (a) of section 2306a of this title to this section and redesignated pars. (1) to (7) of such former subsec. (a) as subsecs. (a) to (g), respectively.
 
-Subsec. (a). Pub. L. 116–283, § 1831(c)(2)(A), (B), (3), as amended by Pub. L. 117–81, § 1701(b)(10)(B), after redesignation of section 2306a(a)(1) of this title as subsec. (a) of this section, substituted “When Required” for “Required Cost or Pricing Data and Certification” in heading, redesignated subpars. (A) to (D) as pars. (1) to (4), respectively, and substituted “a prime contract under a chapter 137 legacy provision” for “a prime contract under this chapter” in introductory provisions of pars. (1) and (2).
+Subsec. (a). Pub. L. 116–283, § 1831(c)(2)(A), (B), (3), as amended by Pub. L. 117–81, § 1701(b)(10)(B), after redesignation of section 2306a(a)(1) of this title as subsec. (a) of this section, substituted “When Required” for “Required Cost or Pricing Data and Certification” in heading, redesignated subpars. (A) to (D) as pars. (1) to (4), respectively, and substituted “a prime contract under a chapter 137 legacy provision” for “a prime contract under this chapter” in introductory provisions of pars. (1) and (2).
 
-Subsec. (a)(1). Pub. L. 116–283, § 1831(c)(2)(C), inserted heading and redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively.
+Subsec. (a)(1). Pub. L. 116–283, § 1831(c)(2)(C), inserted heading and redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively.
 
-Subsec. (a)(2). Pub. L. 116–283, § 1831(c)(2)(D)(ii)–(v), which directed amendment of par. (2) by redesignating cls. (i) to (iii) as subpars. (A) to (C), respectively, and making further substitutions in text and which could not be executed, was repealed by Pub. L. 117–81, § 1701(b)(10)(C)(i).
+Subsec. (a)(2). Pub. L. 116–283, § 1831(c)(2)(D)(ii)–(v), which directed amendment of par. (2) by redesignating cls. (i) to (iii) as subpars. (A) to (C), respectively, and making further substitutions in text and which could not be executed, was repealed by Pub. L. 117–81, § 1701(b)(10)(C)(i).
 
-Pub. L. 116–283, § 1831(c)(2)(D), as amended by Pub. L. 117–81, § 1701(b)(10)(C)(ii), inserted heading.
+Pub. L. 116–283, § 1831(c)(2)(D), as amended by Pub. L. 117–81, § 1701(b)(10)(C)(ii), inserted heading.
 
-Subsec. (a)(3). Pub. L. 117–81, § 1701(c)(3)(A), substituted “under this chapter” for “under this section”.
+Subsec. (a)(3). Pub. L. 117–81, § 1701(c)(3)(A), substituted “under this chapter” for “under this section”.
 
-Pub. L. 116–283, § 1831(c)(2)(E)(ii)–(v), which directed amendment of par. (3) by redesignating cls. (i) to (iii) as subpars. (A) to (C), respectively, and making further substitutions in text and which could not be executed, was repealed by Pub. L. 117–81, § 1701(b)(10)(D)(i).
+Pub. L. 116–283, § 1831(c)(2)(E)(ii)–(v), which directed amendment of par. (3) by redesignating cls. (i) to (iii) as subpars. (A) to (C), respectively, and making further substitutions in text and which could not be executed, was repealed by Pub. L. 117–81, § 1701(b)(10)(D)(i).
 
-Pub. L. 116–283, § 1831(c)(2)(E), as amended by Pub. L. 117–81, § 1701(b)(10)(D)(ii), (iii), inserted heading.
+Pub. L. 116–283, § 1831(c)(2)(E), as amended by Pub. L. 117–81, § 1701(b)(10)(D)(ii), (iii), inserted heading.
 
-Subsec. (a)(4). Pub. L. 116–283, § 1831(c)(2)(F)(ii), (iv), (v), which directed amendment of par. (4) by redesignating cls. (i) and (ii) as subpars. (A) and (B), respectively, and making further substitutions in text and which could not be executed, was repealed by Pub. L. 117–81, § 1701(b)(10)(E)(i).
+Subsec. (a)(4). Pub. L. 116–283, § 1831(c)(2)(F)(ii), (iv), (v), which directed amendment of par. (4) by redesignating cls. (i) and (ii) as subpars. (A) and (B), respectively, and making further substitutions in text and which could not be executed, was repealed by Pub. L. 117–81, § 1701(b)(10)(E)(i).
 
-Pub. L. 116–283, § 1831(c)(2)(F)(iii), which directed substitution of “paragraph (3)” for “subparagraph (C)” in introductory provisions of par. (4) and which could not be executed as directed but could be executed in text of par. (4), was repealed by Pub. L. 117–81, § 1701(b)(10)(E)(i).
+Pub. L. 116–283, § 1831(c)(2)(F)(iii), which directed substitution of “paragraph (3)” for “subparagraph (C)” in introductory provisions of par. (4) and which could not be executed as directed but could be executed in text of par. (4), was repealed by Pub. L. 117–81, § 1701(b)(10)(E)(i).
 
-Pub. L. 116–283, § 1831(c)(2)(F), as amended by Pub. L. 117–81, § 1701(b)(10)(E)(ii), (iii), inserted heading.
+Pub. L. 116–283, § 1831(c)(2)(F), as amended by Pub. L. 117–81, § 1701(b)(10)(E)(ii), (iii), inserted heading.
 
-Subsec. (b). Pub. L. 116–283, § 1831(c)(4), as amended by Pub. L. 117–81, § 1701(b)(10)(F), after redesignation of section 2306a(a)(2) of this title as subsec. (b) of this section, inserted heading and substituted “subsection (a)” for “paragraph (1)” and “section 3704 of this title” for “subsection (c)”.
+Subsec. (b). Pub. L. 116–283, § 1831(c)(4), as amended by Pub. L. 117–81, § 1701(b)(10)(F), after redesignation of section 2306a(a)(2) of this title as subsec. (b) of this section, inserted heading and substituted “subsection (a)” for “paragraph (1)” and “section 3704 of this title” for “subsection (c)”.
 
-Subsec. (c). Pub. L. 116–283, § 1831(c)(5), after redesignation of section 2306a(a)(3) of this title as subsec. (c) of this section, inserted heading, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and, in introductory provisions, substituted “subsection (a) (or under section 3704 of this title)” for “paragraph (1) (or under subsection (c))” and “subsection (b)” for “paragraph (2)”.
+Subsec. (c). Pub. L. 116–283, § 1831(c)(5), after redesignation of section 2306a(a)(3) of this title as subsec. (c) of this section, inserted heading, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and, in introductory provisions, substituted “subsection (a) (or under section 3704 of this title)” for “paragraph (1) (or under subsection (c))” and “subsection (b)” for “paragraph (2)”.
 
-Subsec. (d). Pub. L. 117–81, § 1701(c)(3)(B), substituted “this chapter” for “this section”.
+Subsec. (d). Pub. L. 117–81, § 1701(c)(3)(B), substituted “this chapter” for “this section”.
 
-Pub. L. 116–283, § 1831(c)(6), after redesignation of section 2306a(a)(4) of this title as subsec. (d) of this section, inserted heading and substituted “section 3703 of this title” for “subsection (b)”.
+Pub. L. 116–283, § 1831(c)(6), after redesignation of section 2306a(a)(4) of this title as subsec. (d) of this section, inserted heading and substituted “section 3703 of this title” for “subsection (b)”.
 
-Subsec. (e). Pub. L. 116–283, § 1831(c)(7), after redesignation of section 2306a(a)(5) of this title as subsec. (e) of this section, inserted heading and substituted “section 3703(a)(3) of this title” for “subsection (b)(1)(C)”, “subsection (a)(3)” for “paragraph (1)(C)”, and “that subsection” for “that paragraph”.
+Subsec. (e). Pub. L. 116–283, § 1831(c)(7), after redesignation of section 2306a(a)(5) of this title as subsec. (e) of this section, inserted heading and substituted “section 3703(a)(3) of this title” for “subsection (b)(1)(C)”, “subsection (a)(3)” for “paragraph (1)(C)”, and “that subsection” for “that paragraph”.
 
-Subsec. (f). Pub. L. 116–283, § 1831(c)(8)(D), which directed substitution of “paragraphs (2)(B) and (3)(B) of subsection (a)” for “subparagraphs (B)(ii) and (C)(ii) of paragraph (1)”, could not be executed because the phrase “subparagraphs (B)(ii) and (C)(ii) of paragraph (1)” did not appear after the intervening amendment made by Pub. L. 117–81, § 804(a), to subsec. (a)(6) of section 2306a of this title prior to its transfer to subsec. (f) of this section.
+Subsec. (f). Pub. L. 116–283, § 1831(c)(8)(D), which directed substitution of “paragraphs (2)(B) and (3)(B) of subsection (a)” for “subparagraphs (B)(ii) and (C)(ii) of paragraph (1)”, could not be executed because the phrase “subparagraphs (B)(ii) and (C)(ii) of paragraph (1)” did not appear after the intervening amendment made by Pub. L. 117–81, § 804(a), to subsec. (a)(6) of section 2306a of this title prior to its transfer to subsec. (f) of this section.
 
-Pub. L. 116–283, § 1831(c)(8)(C), which directed substitution of “that subsection” for “that paragraph” and could not be executed, was repealed by Pub. L. 117–81, § 1701(b)(10)(G).
+Pub. L. 116–283, § 1831(c)(8)(C), which directed substitution of “that subsection” for “that paragraph” and could not be executed, was repealed by Pub. L. 117–81, § 1701(b)(10)(G).
 
-Pub. L. 116–283, § 1831(c)(8)(B), substituted “subsection (a)” for “paragraph (1)”.
+Pub. L. 116–283, § 1831(c)(8)(B), substituted “subsection (a)” for “paragraph (1)”.
 
-Pub. L. 116–283, § 1831(c)(8)(A), as amended by Pub. L. 117–81, § 804(b), inserted heading.
+Pub. L. 116–283, § 1831(c)(8)(A), as amended by Pub. L. 117–81, § 804(b), inserted heading.
 
-Subsec. (g). Pub. L. 116–283, § 1831(c)(9), after redesignation of section 2306a(a)(7) of this title as subsec. (g) of this section, inserted heading and substituted “subsection (a)” for “paragraph (1)”.
+Subsec. (g). Pub. L. 116–283, § 1831(c)(9), after redesignation of section 2306a(a)(7) of this title as subsec. (g) of this section, inserted heading and substituted “subsection (a)” for “paragraph (1)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -195,7 +195,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **Data Collection**
 
-Pub. L. 117–81, div. A, title VIII, § 862(b), Dec. 27, 2021, 135 Stat. 1852, provided that:
+Pub. L. 117–81, div. A, title VIII, § 862(b), Dec. 27, 2021, 135 Stat. 1852, provided that:
 
 > “The Secretary of Defense shall develop and implement a plan to collect and analyze data on the use of authority under such section 873 [of Pub. L. 114–92, set out below] for the purposes of—
 
@@ -205,7 +205,7 @@ Pub. L. 117–81, div. A, title VIII, § 862(b), Dec. 27, 2021, 135 Stat. 1852
 
 **Pilot Program for Streamlining Awards for Innovative Technology Projects**
 
-Pub. L. 114–92, div. A, title VIII, § 873(a)–(g), Nov. 25, 2015, 129 Stat. 939, 940, as amended by Pub. L. 114–328, div. A, title VIII, § 896, Dec. 23, 2016, 130 Stat. 2326; Pub. L. 116–283, div. A, title VIII, § 832, Jan. 1, 2021, 134 Stat. 3753; Pub. L. 117–81, div. A, title VIII, § 862(a), Dec. 27, 2021, 135 Stat. 1852; Pub. L. 118–159, div. A, title VIII, § 863, Dec. 23, 2024, 138 Stat. 2001, provided that:
+Pub. L. 114–92, div. A, title VIII, § 873(a)–(g), Nov. 25, 2015, 129 Stat. 939, 940, as amended by Pub. L. 114–328, div. A, title VIII, § 896, Dec. 23, 2016, 130 Stat. 2326; Pub. L. 116–283, div. A, title VIII, § 832, Jan. 1, 2021, 134 Stat. 3753; Pub. L. 117–81, div. A, title VIII, § 862(a), Dec. 27, 2021, 135 Stat. 1852; Pub. L. 118–159, div. A, title VIII, § 863, Dec. 23, 2024, 138 Stat. 2001, provided that:
 
 > **“(a) Exception From Certified Cost and Pricing Data Requirements.—** The requirements under section 2306a(a) of title 10, United States Code [now 10 U.S.C. 3702], shall not apply to a contract, subcontract, or modification of a contract or subcontract valued at less than $7,500,000 awarded to a small business or nontraditional defense contractor pursuant to—
 
@@ -237,9 +237,9 @@ Pub. L. 114–92, div. A, title VIII, § 873(a)–(g), Nov. 25, 2015, 129 Stat
 
 > **“(2) Nontraditional defense contractor.—** The term ‘nontraditional defense contractor’ has the meaning given that term in section 2302(9) of title 10, United States Code [now 10 U.S.C. 3014].”
 
-[Section 896(2)(B) of Pub. L. 114–328, which directed amendment of par. (2) of subsec. (b) of section 873 of Pub. L. 114–92, set out above, by inserting “, and if such performance audit is initiated within 18 months of the contract completion” before the period at the end, was executed by making the insertion before the period at the end of the concluding provisions of subsec. (b), to reflect the probable intent of Congress.]
+[Section 896(2)(B) of Pub. L. 114–328, which directed amendment of par. (2) of subsec. (b) of section 873 of Pub. L. 114–92, set out above, by inserting “, and if such performance audit is initiated within 18 months of the contract completion” before the period at the end, was executed by making the insertion before the period at the end of the concluding provisions of subsec. (b), to reflect the probable intent of Congress.]
 
-## § 3703. Exceptions
+## § 3703. Exceptions
 
 **(a) In general.—** Submission of certified cost or pricing data shall not be required under section 3702 of this title in the case of a contract, a subcontract, or modification of a contract or subcontract—
 
@@ -293,45 +293,45 @@ Pub. L. 114–92, div. A, title VIII, § 873(a)–(g), Nov. 25, 2015, 129 Stat
 
 **(f) Determination by prime contractor.—** A prime contractor required to submit certified cost or pricing data under section 3702 of this title with respect to a prime contract shall be responsible for determining whether a subcontract under such contract qualifies for an exception under subsection (a)(1) from such requirement.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1831(a), (d), Jan. 1, 2021, 134 Stat. 4209, 4211; Pub. L. 119–60, div. A, title VIII, § 812(a)(7), Dec. 18, 2025, 139 Stat. 952.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1831(a), (d), Jan. 1, 2021, 134 Stat. 4209, 4211; Pub. L. 119–60, div. A, title VIII, § 812(a)(7), Dec. 18, 2025, 139 Stat. 952.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (b) of section 2306a of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1831(d), was based on Pub. L. 99–500, § 101(c) [title X, § 952(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, § 101(c) [title X, § 952(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, § 952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 103–355, title I, § 1202(a), Oct. 13, 1994, 108 Stat. 3274, as amended by Pub. L. 104–106, div. D, title XLIII, § 4321(a)(2), Feb. 10, 1996, 110 Stat. 671; Pub. L. 104–106, div. D, title XLII, § 4201(a)(1), Feb. 10, 1996, 110 Stat. 649; Pub. L. 108–375, div. A, title VIII, § 818(a), Oct. 28, 2004, 118 Stat. 2015; Pub. L. 110–181, div. A, title VIII, § 814, Jan. 28, 2008, 122 Stat. 222; Pub. L. 113–291, div. A, title X, § 1071(a)(3), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–92, div. A, title VIII, §§ 812, 851(b), 853, Nov. 25, 2015, 129 Stat. 891, 916, 919; Pub. L. 114–328, div. A, title VIII, § 822(2), Dec. 23, 2016, 130 Stat. 2276; Pub. L. 115–232, div. A, title VIII, § 836(c)(5)(A), Aug. 13, 2018, 132 Stat. 1865. Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections. Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
+The text of subsec. (b) of section 2306a of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1831(d), was based on Pub. L. 99–500, § 101(c) [title X, § 952(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, § 101(c) [title X, § 952(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, § 952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 103–355, title I, § 1202(a), Oct. 13, 1994, 108 Stat. 3274, as amended by Pub. L. 104–106, div. D, title XLIII, § 4321(a)(2), Feb. 10, 1996, 110 Stat. 671; Pub. L. 104–106, div. D, title XLII, § 4201(a)(1), Feb. 10, 1996, 110 Stat. 649; Pub. L. 108–375, div. A, title VIII, § 818(a), Oct. 28, 2004, 118 Stat. 2015; Pub. L. 110–181, div. A, title VIII, § 814, Jan. 28, 2008, 122 Stat. 222; Pub. L. 113–291, div. A, title X, § 1071(a)(3), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–92, div. A, title VIII, §§ 812, 851(b), 853, Nov. 25, 2015, 129 Stat. 891, 916, 919; Pub. L. 114–328, div. A, title VIII, § 822(2), Dec. 23, 2016, 130 Stat. 2276; Pub. L. 115–232, div. A, title VIII, § 836(c)(5)(A), Aug. 13, 2018, 132 Stat. 1865. Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections. Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 **Amendments**
 
 2025—Subsec. (a)(1)(A). Pub. L. 119–60 substituted “price competition” for “competition that results in at least two or more responsive and viable competing bids”.
 
-2021—Pub. L. 116–283, § 1831(d)(1), transferred subsec. (b) of section 2306a of this title to this section, struck out subsec. (b) designation and heading “Exceptions” at beginning, and redesignated pars. (1) to (6) as subsecs. (a) to (f), respectively, and realigned margins.
+2021—Pub. L. 116–283, § 1831(d)(1), transferred subsec. (b) of section 2306a of this title to this section, struck out subsec. (b) designation and heading “Exceptions” at beginning, and redesignated pars. (1) to (6) as subsecs. (a) to (f), respectively, and realigned margins.
 
-Subsec. (a). Pub. L. 116–283, § 1831(d)(2)(A), (B), (C), (E), after redesignation of section 2306a(b)(1) of this title as subsec. (a) of this section, substituted “under section 3702 of this title” for “under subsection (a)” in introductory provisions, redesignated subpar. (A) and its cls. (i) and (ii) as par. (1) and subpars. (A) and (B), respectively, redesignated subpars. (B) and (C) as pars. (2) and (3), respectively, and redesignated subpar. (D) and its cls. (i) and (ii) as par. (4) and subpars. (A) and (B), respectively.
+Subsec. (a). Pub. L. 116–283, § 1831(d)(2)(A), (B), (C), (E), after redesignation of section 2306a(b)(1) of this title as subsec. (a) of this section, substituted “under section 3702 of this title” for “under subsection (a)” in introductory provisions, redesignated subpar. (A) and its cls. (i) and (ii) as par. (1) and subpars. (A) and (B), respectively, redesignated subpars. (B) and (C) as pars. (2) and (3), respectively, and redesignated subpar. (D) and its cls. (i) and (ii) as par. (4) and subpars. (A) and (B), respectively.
 
-Subsec. (a)(3). Pub. L. 116–283, § 1831(d)(2)(D), substituted “this chapter” for “this section”.
+Subsec. (a)(3). Pub. L. 116–283, § 1831(d)(2)(D), substituted “this chapter” for “this section”.
 
-Subsec. (b). Pub. L. 116–283, § 1831(d)(3)(A), (B), after redesignation of section 2306a(b)(2) of this title as subsec. (b) of this section, in introductory provisions, substituted “paragraph (1) or (2) of subsection (a)” for “paragraph (1)(A) or (1)(B)” and “under section 3702 of this title” for “under subsection (a)” and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
+Subsec. (b). Pub. L. 116–283, § 1831(d)(3)(A), (B), after redesignation of section 2306a(b)(2) of this title as subsec. (b) of this section, in introductory provisions, substituted “paragraph (1) or (2) of subsection (a)” for “paragraph (1)(A) or (1)(B)” and “under section 3702 of this title” for “under subsection (a)” and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
 
-Subsec. (b)(1). Pub. L. 116–283, § 1831(d)(3)(C), substituted “paragraph (1) or (2) of subsection (a)” for “paragraph (1)(A) or (1)(B)”.
+Subsec. (b)(1). Pub. L. 116–283, § 1831(d)(3)(C), substituted “paragraph (1) or (2) of subsection (a)” for “paragraph (1)(A) or (1)(B)”.
 
-Subsec. (c). Pub. L. 116–283, § 1831(d)(4)(A), (D)(i), after redesignation of section 2306a(b)(3) of this title as subsec. (c) of this section, redesignated subpars. (A), (B), and (C) and its cls. (i) and (ii) as pars. (1), (2), and (3) and subpars. (A) and (B), respectively.
+Subsec. (c). Pub. L. 116–283, § 1831(d)(4)(A), (D)(i), after redesignation of section 2306a(b)(3) of this title as subsec. (c) of this section, redesignated subpars. (A), (B), and (C) and its cls. (i) and (ii) as pars. (1), (2), and (3) and subpars. (A) and (B), respectively.
 
-Subsec. (c)(1). Pub. L. 116–283, § 1831(d)(4)(B), substituted “subsection (a)(2)” for “paragraph (1)(B)”, “section 3702(a)(1)(A) of this title” for “subsection (a)(1)(A)(i)”, and “section 3702(g) of this title” for “subsection (a)(7)”.
+Subsec. (c)(1). Pub. L. 116–283, § 1831(d)(4)(B), substituted “subsection (a)(2)” for “paragraph (1)(B)”, “section 3702(a)(1)(A) of this title” for “subsection (a)(1)(A)(i)”, and “section 3702(g) of this title” for “subsection (a)(7)”.
 
-Subsec. (c)(2). Pub. L. 116–283, § 1831(d)(4)(C), substituted “this subsection” for “this paragraph”.
+Subsec. (c)(2). Pub. L. 116–283, § 1831(d)(4)(C), substituted “this subsection” for “this paragraph”.
 
-Subsec. (c)(3). Pub. L. 116–283, § 1831(d)(4)(D)(ii), (ii) [(iii)], substituted “paragraph (1)” for “subparagraph (A)” in introductory provisions and “paragraph (1) or (3) of subsection (a)” for “subparagraph (A) or (C) of paragraph (1)” in subpar. (A).
+Subsec. (c)(3). Pub. L. 116–283, § 1831(d)(4)(D)(ii), (ii) [(iii)], substituted “paragraph (1)” for “subparagraph (A)” in introductory provisions and “paragraph (1) or (3) of subsection (a)” for “subparagraph (A) or (C) of paragraph (1)” in subpar. (A).
 
-Subsec. (d). Pub. L. 116–283, § 1831(d)(5)(A), (D)(i), after redesignation of section 2306a(b)(4) of this title as subsec. (d) of this section, redesignated subpars. (A), (B), and (C) and its cls. (i) and (ii) as pars. (1), (2), and (3) and subpars. (A) and (B), respectively.
+Subsec. (d). Pub. L. 116–283, § 1831(d)(5)(A), (D)(i), after redesignation of section 2306a(b)(4) of this title as subsec. (d) of this section, redesignated subpars. (A), (B), and (C) and its cls. (i) and (ii) as pars. (1), (2), and (3) and subpars. (A) and (B), respectively.
 
-Subsec. (d)(1). Pub. L. 116–283, § 1831(d)(5)(B), substituted “subsection (a)(2)” for “paragraph (1)(B)”.
+Subsec. (d)(1). Pub. L. 116–283, § 1831(d)(5)(B), substituted “subsection (a)(2)” for “paragraph (1)(B)”.
 
-Subsec. (d)(2). Pub. L. 116–283, § 1831(d)(5)(C), substituted “paragraph (1)” for “subparagraph (A)”.
+Subsec. (d)(2). Pub. L. 116–283, § 1831(d)(5)(C), substituted “paragraph (1)” for “subparagraph (A)”.
 
-Subsec. (d)(3). Pub. L. 116–283, § 1831(d)(5)(D)(ii), substituted “paragraph (2)” for “subparagraph (B)” in introductory provisions.
+Subsec. (d)(3). Pub. L. 116–283, § 1831(d)(5)(D)(ii), substituted “paragraph (2)” for “subparagraph (B)” in introductory provisions.
 
-Subsec. (f). Pub. L. 116–283, § 1831(d)(6), after redesignation of section 2306a(b)(6) of this title as subsec. (f) of this section, substituted “section 3702 of this title” for “subsection (a)” and “subsection (a)(1)” for “paragraph (1)(A)”.
+Subsec. (f). Pub. L. 116–283, § 1831(d)(6), after redesignation of section 2306a(b)(6) of this title as subsec. (f) of this section, substituted “section 3702 of this title” for “subsection (a)” and “subsection (a)(1)” for “paragraph (1)(A)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -339,7 +339,7 @@ Subsec. (f). Pub. L. 116–283, § 1831(d)(6), after redesignation of section 
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3704. Cost or pricing data on below-threshold contracts
+## § 3704. Cost or pricing data on below-threshold contracts
 
 **(a) Authority to require submission.—** Subject to subsection (b), when certified cost or pricing data are not required to be submitted by section 3702 of this title for a contract, subcontract, or modification of a contract or subcontract, such data may nevertheless be required to be submitted by the head of the procuring activity, but only if the head of the procuring activity determines that such data are necessary for the evaluation by the agency of the reasonableness of the price of the contract, subcontract, or modification of a contract or subcontract. In any case in which the head of the procuring activity requires such data to be submitted under this section, the head of the procuring activity shall justify in writing the reason for such requirement.
 
@@ -347,23 +347,23 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(c) Delegation of authority prohibited.—** The head of a procuring activity may not delegate functions under this subsection.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1831(a), (e), Jan. 1, 2021, 134 Stat. 4209, 4213.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1831(a), (e), Jan. 1, 2021, 134 Stat. 4209, 4213.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (c) of section 2306a of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1831(e), was based on Pub. L. 99–500, § 101(c) [title X, § 952(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, § 101(c) [title X, § 952(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, § 952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–510, div. A, title VIII, § 803(d), Nov. 5, 1990, 104 Stat. 1590; Pub. L. 103–355, title I, § 1203, Oct. 13, 1994, 108 Stat. 3274; Pub. L. 104–106, div. D, title XLII, § 4201(a)(1), Feb. 10, 1996, 110 Stat. 650. Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections. Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
+The text of subsec. (c) of section 2306a of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1831(e), was based on Pub. L. 99–500, § 101(c) [title X, § 952(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, § 101(c) [title X, § 952(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, § 952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–510, div. A, title VIII, § 803(d), Nov. 5, 1990, 104 Stat. 1590; Pub. L. 103–355, title I, § 1203, Oct. 13, 1994, 108 Stat. 3274; Pub. L. 104–106, div. D, title XLII, § 4201(a)(1), Feb. 10, 1996, 110 Stat. 650. Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections. Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1831(e)(1)(A), transferred subsec. (c) of section 2306a of this title to this section and struck out subsec. (c) designation and heading “Cost or Pricing Data on Below-Threshold Contracts” at beginning.
+2021—Pub. L. 116–283, § 1831(e)(1)(A), transferred subsec. (c) of section 2306a of this title to this section and struck out subsec. (c) designation and heading “Cost or Pricing Data on Below-Threshold Contracts” at beginning.
 
-Subsec. (a). Pub. L. 116–283, § 1831(e)(1)(B), (2), redesignated par. (1) of section 2306a(c) of this title as subsec. (a) of this section, realigned margin, and substituted “subsection (b)” for “paragraph (2)”, “section 3702 of this title” for “subsection (a)”, and “under this section” for “under this subsection”.
+Subsec. (a). Pub. L. 116–283, § 1831(e)(1)(B), (2), redesignated par. (1) of section 2306a(c) of this title as subsec. (a) of this section, realigned margin, and substituted “subsection (b)” for “paragraph (2)”, “section 3702 of this title” for “subsection (a)”, and “under this section” for “under this subsection”.
 
-Subsec. (b). Pub. L. 116–283, § 1831(e)(1)(B), (3), redesignated par. (2) of section 2306a(c) of this title as subsec. (b) of this section, realigned margin, and substituted “under this subsection” for “under this paragraph” and “paragraph (1) or (2) of section 3703(a) of this title” for “subparagraph (A) or (B) of subsection (b)(1)”.
+Subsec. (b). Pub. L. 116–283, § 1831(e)(1)(B), (3), redesignated par. (2) of section 2306a(c) of this title as subsec. (b) of this section, realigned margin, and substituted “under this subsection” for “under this paragraph” and “paragraph (1) or (2) of section 3703(a) of this title” for “subparagraph (A) or (B) of subsection (b)(1)”.
 
-Subsec. (c). Pub. L. 116–283, § 1831(e)(1)(B), (4), redesignated par. (3) of section 2306a(c) of this title as subsec. (c) of this section, realigned margin, and substituted “under this subsection” for “under this paragraph”.
+Subsec. (c). Pub. L. 116–283, § 1831(e)(1)(B), (4), redesignated par. (3) of section 2306a(c) of this title as subsec. (c) of this section, realigned margin, and substituted “under this subsection” for “under this paragraph”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -371,7 +371,7 @@ Subsec. (c). Pub. L. 116–283, § 1831(e)(1)(B), (4), redesignated par. (3) o
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3705. Submission of other information
+## § 3705. Submission of other information
 
 **(a) Authority to require submission.—** When certified cost or pricing data are not required to be submitted under this chapter for a contract, subcontract, or modification of a contract or subcontract, the offeror shall be required to submit to the contracting officer data other than certified cost or pricing data (if requested by the contracting officer), to the extent necessary to determine the reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract. Except in the case of a contract or subcontract covered by the exceptions in section 3703(a)(1) of this title, the contracting officer shall require that the data submitted include, at a minimum, appropriate information on the prices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price for the procurement. If the contracting officer determines that the offeror does not have access to and cannot provide sufficient information on prices for the same or similar items to determine the reasonableness of price, the contracting officer shall require the submission of information on prices for similar levels of work or effort on related products or services, prices for alternative solutions or approaches, and other information that is relevant to the determination of a fair and reasonable price. Contracting officers shall not determine the price of a contract or subcontract to be fair and reasonable based solely on historical prices paid by the Government.
 
@@ -415,7 +415,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(3)** A statement that any information received relating to commercial products or commercial services that is exempt from disclosure under section 552(b) of title 5 shall not be disclosed by the Federal Government.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1831(a), (f), Jan. 1, 2021, 134 Stat. 4209, 4213; Pub. L. 118–31, div. A, title VIII, § 802, Dec. 22, 2023, 137 Stat. 312; Pub. L. 119–60, div. A, title VIII, § 812(a)(8), Dec. 18, 2025, 139 Stat. 952.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1831(a), (f), Jan. 1, 2021, 134 Stat. 4209, 4213; Pub. L. 118–31, div. A, title VIII, § 802, Dec. 22, 2023, 137 Stat. 312; Pub. L. 119–60, div. A, title VIII, § 812(a)(8), Dec. 18, 2025, 139 Stat. 952.)
 
 **Editorial Notes**
 
@@ -425,27 +425,27 @@ Sections 865 and 882 of the National Defense Authorization Act for Fiscal Year 2
 
 **Codification**
 
-The text of subsec. (d) of section 2306a of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1831(f), was based on Pub. L. 103–355, title I, § 1204, Oct. 13, 1994, 108 Stat. 3275; Pub. L. 104–106, div. D, title XLII, § 4201(a)(1) ,Feb. 10, 1996, 110 Stat. 650; Pub. L. 105–261, div. A, title VIII, § 808(a), Oct. 17, 1998, 112 Stat. 2085; Pub. L. 114–92, div. A, title VIII, § 852(e), 853, Nov. 25, 2015, 129 Stat. 918; Pub. L. 115–91, div. A, title VIII, § 811(b), Dec. 12, 2017, 131 Stat. 1459; Pub. L. 115–232, div. A, title VIII, § 836(c)(5)(B), Aug. 13, 2018, 132 Stat. 1865, as amended by Pub. L. 116–283, div. A, title X, § 1081(d)(4)(B)(i), Jan. 1, 2021, 134 Stat. 3874; Pub. L. 116–92, div. A, title VIII, § 803, Dec. 20, 2019, 133 Stat. 1483.
+The text of subsec. (d) of section 2306a of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1831(f), was based on Pub. L. 103–355, title I, § 1204, Oct. 13, 1994, 108 Stat. 3275; Pub. L. 104–106, div. D, title XLII, § 4201(a)(1) ,Feb. 10, 1996, 110 Stat. 650; Pub. L. 105–261, div. A, title VIII, § 808(a), Oct. 17, 1998, 112 Stat. 2085; Pub. L. 114–92, div. A, title VIII, § 852(e), 853, Nov. 25, 2015, 129 Stat. 918; Pub. L. 115–91, div. A, title VIII, § 811(b), Dec. 12, 2017, 131 Stat. 1459; Pub. L. 115–232, div. A, title VIII, § 836(c)(5)(B), Aug. 13, 2018, 132 Stat. 1865, as amended by Pub. L. 116–283, div. A, title X, § 1081(d)(4)(B)(i), Jan. 1, 2021, 134 Stat. 3874; Pub. L. 116–92, div. A, title VIII, § 803, Dec. 20, 2019, 133 Stat. 1483.
 
 **Amendments**
 
 2025—Subsec. (b)(3). Pub. L. 119–60 added par. (3).
 
-2023—Subsec. (b)(2)(B). Pub. L. 118–31, § 802(1), inserted at end “The Under Secretary shall make appropriate portions of the report available to the leadership of the offerors named in such report.”
+2023—Subsec. (b)(2)(B). Pub. L. 118–31, § 802(1), inserted at end “The Under Secretary shall make appropriate portions of the report available to the leadership of the offerors named in such report.”
 
-Subsec. (b)(2)(C). Pub. L. 118–31, § 802(2), added subpar. (C).
+Subsec. (b)(2)(C). Pub. L. 118–31, § 802(2), added subpar. (C).
 
-2021—Pub. L. 116–283, § 1831(f)(1), transferred subsec. (d) of section 2306a of this title to this section, struck out subsec. (d) designation and heading “Submission of Other Information” at beginning, and redesignated pars. (1) to (3) as subsecs. (a) to (c), respectively, and realigned margins.
+2021—Pub. L. 116–283, § 1831(f)(1), transferred subsec. (d) of section 2306a of this title to this section, struck out subsec. (d) designation and heading “Submission of Other Information” at beginning, and redesignated pars. (1) to (3) as subsecs. (a) to (c), respectively, and realigned margins.
 
-Subsec. (a). Pub. L. 116–283, § 1831(f)(2), after redesignation of section 2306a(d)(1) of this title as subsec. (a) of this section, substituted “under this chapter” for “under this section” and “section 3703(a)(1) of this title” for “subsection (b)(1)(A)”.
+Subsec. (a). Pub. L. 116–283, § 1831(f)(2), after redesignation of section 2306a(d)(1) of this title as subsec. (a) of this section, substituted “under this chapter” for “under this section” and “section 3703(a)(1) of this title” for “subsection (b)(1)(A)”.
 
-Subsec. (b). Pub. L. 116–283, § 1831(f)(3)(A), (B)(i), (C)(i), after redesignation of section 2306a(d)(2) of this title as subsec. (b) of this section, redesignated subpar. (A) and its cls. (i) to (vi) as par. (1) and subpars. (A) to (F), respectively, and redesignated subpar. (B) and its cls. (i) and (ii) as par. (2) and subpars. (A) and (B), respectively.
+Subsec. (b). Pub. L. 116–283, § 1831(f)(3)(A), (B)(i), (C)(i), after redesignation of section 2306a(d)(2) of this title as subsec. (b) of this section, redesignated subpar. (A) and its cls. (i) to (vi) as par. (1) and subpars. (A) to (F), respectively, and redesignated subpar. (B) and its cls. (i) and (ii) as par. (2) and subpars. (A) and (B), respectively.
 
-Subsec. (b)(1). Pub. L. 116–283, § 1831(f)(3)(B)(ii), substituted “subsection (a)” for “paragraph (1)” in introductory provisions.
+Subsec. (b)(1). Pub. L. 116–283, § 1831(f)(3)(B)(ii), substituted “subsection (a)” for “paragraph (1)” in introductory provisions.
 
-Subsec. (b)(2)(A). Pub. L. 116–283, § 1831(f)(3)(C)(ii), substituted “paragraph (1)” for “subparagraph (A)”.
+Subsec. (b)(2)(A). Pub. L. 116–283, § 1831(f)(3)(C)(ii), substituted “paragraph (1)” for “subparagraph (A)”.
 
-Subsec. (c). Pub. L. 116–283, § 1831(f)(4), after redesignation of section 2306a(d)(3) of this title as subsec. (c) of this section, redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and substituted “under subsection (a)” for “under paragraph (1)” in introductory provisions.
+Subsec. (c). Pub. L. 116–283, § 1831(f)(4), after redesignation of section 2306a(d)(3) of this title as subsec. (c) of this section, redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and substituted “under subsection (a)” for “under paragraph (1)” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -453,7 +453,7 @@ Subsec. (c). Pub. L. 116–283, § 1831(f)(4), after redesignation of section 
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3706. Price reductions for defective cost or pricing data
+## § 3706. Price reductions for defective cost or pricing data
 
 **(a) Provision Requiring Adjustment.—**
 
@@ -491,37 +491,37 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(B)** the United States proves that, had the cost or pricing data referred to in paragraph (1)(B) been submitted to the United States before the date of agreement on the price of the contract (or price of the modification) or, if applicable consistent with subsection (a)(2), another date agreed upon between the parties, the submission of such cost or pricing data would not have resulted in an increase in that price in the amount to be offset.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1831(a), (g), Jan. 1, 2021, 134 Stat. 4209, 4214.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1831(a), (g), Jan. 1, 2021, 134 Stat. 4209, 4214.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (e) of section 2306a of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1831(g), was based on Pub. L. 99–500, § 101(c) [title X, § 952(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, § 101(c) [title X, § 952(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, § 952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 103–355, title I, § 1204(1), Oct. 13, 1994, 108 Stat. 3275; Pub. L. 104–106, div. D, title XLIII, § 4321(b)(7)(B), Feb. 10, 1996, 110 Stat. 672. Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections. Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
+The text of subsec. (e) of section 2306a of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1831(g), was based on Pub. L. 99–500, § 101(c) [title X, § 952(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, § 101(c) [title X, § 952(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, § 952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 103–355, title I, § 1204(1), Oct. 13, 1994, 108 Stat. 3275; Pub. L. 104–106, div. D, title XLIII, § 4321(b)(7)(B), Feb. 10, 1996, 110 Stat. 672. Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections. Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1831(g)(1), transferred subsec. (e) of section 2306a of this title to this section, struck out subsec. (e) designation and heading “Price Reductions for Defective Cost or Pricing Data” at beginning, and redesignated pars. (1) to (4) as subsecs. (a) to (d), resepectively.
+2021—Pub. L. 116–283, § 1831(g)(1), transferred subsec. (e) of section 2306a of this title to this section, struck out subsec. (e) designation and heading “Price Reductions for Defective Cost or Pricing Data” at beginning, and redesignated pars. (1) to (4) as subsecs. (a) to (d), resepectively.
 
-Subsec. (a). Pub. L. 116–283, § 1831(g)(2), after redesignation of section 2306a(e)(1) of this title as subsec. (a) of this section, inserted subsec. heading, redesignated subpar. (A) as par. (1), inserted heading, and substituted “section 3702(b) of this title” for “subsection (a)(2)”, and redesignated subpar. (B) as par. (2), inserted heading, and substituted “of this chapter” for “of this section”.
+Subsec. (a). Pub. L. 116–283, § 1831(g)(2), after redesignation of section 2306a(e)(1) of this title as subsec. (a) of this section, inserted subsec. heading, redesignated subpar. (A) as par. (1), inserted heading, and substituted “section 3702(b) of this title” for “subsection (a)(2)”, and redesignated subpar. (B) as par. (2), inserted heading, and substituted “of this chapter” for “of this section”.
 
-Subsec. (b). Pub. L. 116–283, § 1831(g)(3), after redesignation of section 2306a(e)(2) of this title as subsec. (b) of this section, inserted heading and substituted “subsection (a)” for “paragraph (1)”.
+Subsec. (b). Pub. L. 116–283, § 1831(g)(3), after redesignation of section 2306a(e)(2) of this title as subsec. (b) of this section, inserted heading and substituted “subsection (a)” for “paragraph (1)”.
 
-Subsec. (c). Pub. L. 116–283, § 1831(g)(4)(A)–(D), after redesignation of section 2306a(e)(3) of this title as subsec. (c) of this section, inserted heading, redesignated subpar. (A), and its cls. (i) and (ii), and subpars. (B) to (D) as par. (1), subpars. (A) and (B), and pars. (2) to (4), respectively, and substituted “subsection (a)” for “paragraph (1)” in introductory provisions.
+Subsec. (c). Pub. L. 116–283, § 1831(g)(4)(A)–(D), after redesignation of section 2306a(e)(3) of this title as subsec. (c) of this section, inserted heading, redesignated subpar. (A), and its cls. (i) and (ii), and subpars. (B) to (D) as par. (1), subpars. (A) and (B), and pars. (2) to (4), respectively, and substituted “subsection (a)” for “paragraph (1)” in introductory provisions.
 
-Subsec. (c)(4). Pub. L. 116–283, § 1831(g)(4)(E), substituted “section 3702(b) of this title” for “subsection (a)(2)”.
+Subsec. (c)(4). Pub. L. 116–283, § 1831(g)(4)(E), substituted “section 3702(b) of this title” for “subsection (a)(2)”.
 
-Subsec. (d). Pub. L. 116–283, § 1831(g)(5)(A)–(C), after redesignation of section 2306a(e)(4) of this title as subsec. (d) of this section, inserted heading, substituted “subsection (a)” for “paragraph (1)” in introductory provisions, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
+Subsec. (d). Pub. L. 116–283, § 1831(g)(5)(A)–(C), after redesignation of section 2306a(e)(4) of this title as subsec. (d) of this section, inserted heading, substituted “subsection (a)” for “paragraph (1)” in introductory provisions, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
 
-Subsec. (d)(1). Pub. L. 116–283, § 1831(g)(5)(A), (B), (D), inserted heading, substituted “subsection (a)” for “paragraph (1)” in introductory provisions, and redesignated cls. (i) and (ii) of former section 2306a(e)(4)(A) as subpars. (A) and (B), respectively.
+Subsec. (d)(1). Pub. L. 116–283, § 1831(g)(5)(A), (B), (D), inserted heading, substituted “subsection (a)” for “paragraph (1)” in introductory provisions, and redesignated cls. (i) and (ii) of former section 2306a(e)(4)(A) as subpars. (A) and (B), respectively.
 
-Subsec. (d)(1)(B). Pub. L. 116–283, § 1831(g)(5)(E), substituted “subsection (a)(2)” for “paragraph (1)(B)” and “section 3702(c) of this title” for “subsection (a)(3)”.
+Subsec. (d)(1)(B). Pub. L. 116–283, § 1831(g)(5)(E), substituted “subsection (a)(2)” for “paragraph (1)(B)” and “section 3702(c) of this title” for “subsection (a)(3)”.
 
-Subsec. (d)(2). Pub. L. 116–283, § 1831(g)(5)(F)(i), (ii), substituted “paragraph (1)” for “subparagraph (A)” in introductory provisions and redesignated cls. (i) and (ii) of former section 2306a(e)(4)(B) as subpars. (A) and (B), respectively.
+Subsec. (d)(2). Pub. L. 116–283, § 1831(g)(5)(F)(i), (ii), substituted “paragraph (1)” for “subparagraph (A)” in introductory provisions and redesignated cls. (i) and (ii) of former section 2306a(e)(4)(B) as subpars. (A) and (B), respectively.
 
-Subsec. (d)(2)(A). Pub. L. 116–283, § 1831(g)(5)(F)(iii), substituted “section 3702(b) of this title” for “subsection (a)(2)”.
+Subsec. (d)(2)(A). Pub. L. 116–283, § 1831(g)(5)(F)(iii), substituted “section 3702(b) of this title” for “subsection (a)(2)”.
 
-Subsec. (d)(2)(B). Pub. L. 116–283, § 1831(g)(5)(F)(iv), substituted “in paragraph (1)(B)” for “in subparagraph (A)(ii)” and “with subsection (a)(2)” for “with paragraph (1)(B)”.
+Subsec. (d)(2)(B). Pub. L. 116–283, § 1831(g)(5)(F)(iv), substituted “in paragraph (1)(B)” for “in subparagraph (A)(ii)” and “with subsection (a)(2)” for “with paragraph (1)(B)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -529,7 +529,7 @@ Subsec. (d)(2)(B). Pub. L. 116–283, § 1831(g)(5)(F)(iv), substituted “in 
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3707. Interest and penalties for certain overpayments
+## § 3707. Interest and penalties for certain overpayments
 
 **(a) In General.—** If the United States makes an overpayment to a contractor under a contract subject to this chapter and the overpayment was due to the submission by the contractor of defective cost or pricing data, the contractor shall be liable to the United States—
 
@@ -543,7 +543,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(b) Liability Not Affected by Refusal to Submit Certification.—** Any liability under this section of a contractor that submits cost or pricing data but refuses to submit the certification required by section 3702(b) of this title with respect to the cost or pricing data shall not be affected by the refusal to submit such certification.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1831(a), (h), Jan. 1, 2021, 134 Stat. 4209, 4216; Pub. L. 117–81, div. A, title XVII, § 1701(b)(10)(H), Dec. 27, 2021, 135 Stat. 2134.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1831(a), (h), Jan. 1, 2021, 134 Stat. 4209, 4216; Pub. L. 117–81, div. A, title XVII, § 1701(b)(10)(H), Dec. 27, 2021, 135 Stat. 2134.)
 
 **Editorial Notes**
 
@@ -553,15 +553,15 @@ Section 6621 of the Internal Revenue Code of 1986, referred to in subsec. (a)(1)
 
 **Codification**
 
-The text of subsec. (f) of section 2306a of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1831(h), was based on Pub. L. 99–500, § 101(c) [title X, § 952(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, § 101(c) [title X, § 952(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, § 952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VIII, § 804(b)(2), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 102–190, div. A, title X, § 1061(a)(9), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 103–355, title I, §§ 1204(1), 1209, Oct. 13, 1994, 108 Stat. 3275, 3277. Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections. Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
+The text of subsec. (f) of section 2306a of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1831(h), was based on Pub. L. 99–500, § 101(c) [title X, § 952(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, § 101(c) [title X, § 952(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, § 952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VIII, § 804(b)(2), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 102–190, div. A, title X, § 1061(a)(9), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 103–355, title I, §§ 1204(1), 1209, Oct. 13, 1994, 108 Stat. 3275, 3277. Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections. Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1832(h)(1), transferred subsec. (f) of section 2306a of this title to this section, redesignated it as subsec. (a), and redesignated par. (2) as subsec. (b).
+2021—Pub. L. 116–283, § 1832(h)(1), transferred subsec. (f) of section 2306a of this title to this section, redesignated it as subsec. (a), and redesignated par. (2) as subsec. (b).
 
-Subsec. (a). Pub. L. 116–283, § 1831(h)(2), as amended by Pub. L. 117–81, § 1701(b)(10)(H), after redesignation of section 2306a(f) of this title as subsec. (a) of this section, in heading, substituted “In General” for “Interest and Penalties for Certain Overpayments”, in introductory provisions, struck out par. (1) designation at beginning and substituted “this chapter” for “this section”, and redesignated subpar. (A), its cls. (i) and (ii), and subpar. (B) as par. (1), subpars. (A) and (B), and par. (2), respectively.
+Subsec. (a). Pub. L. 116–283, § 1831(h)(2), as amended by Pub. L. 117–81, § 1701(b)(10)(H), after redesignation of section 2306a(f) of this title as subsec. (a) of this section, in heading, substituted “In General” for “Interest and Penalties for Certain Overpayments”, in introductory provisions, struck out par. (1) designation at beginning and substituted “this chapter” for “this section”, and redesignated subpar. (A), its cls. (i) and (ii), and subpar. (B) as par. (1), subpars. (A) and (B), and par. (2), respectively.
 
-Subsec. (b). Pub. L. 116–283, § 1831(h)(3), as amended by Pub. L. 117–81, § 1701(b)(10)(H), after redesignation of section 2306a(f)(2) of this title as subsec. (b) of this section, inserted heading and substituted “this section” for “this subsection” and “section 3702(b) of this title” for “subsection (a)(2)”.
+Subsec. (b). Pub. L. 116–283, § 1831(h)(3), as amended by Pub. L. 117–81, § 1701(b)(10)(H), after redesignation of section 2306a(f)(2) of this title as subsec. (b) of this section, inserted heading and substituted “this section” for “this subsection” and “section 3702(b) of this title” for “subsection (a)(2)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -573,21 +573,21 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3708. Right to examine contractor records
+## § 3708. Right to examine contractor records
 
 For the purpose of evaluating the accuracy, completeness, and currency of cost or pricing data required to be submitted by this chapter, the head of an agency shall have the authority provided by section 3841(b)(2) of this title.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1831(a), (i), Jan. 1, 2021, 134 Stat. 4209, 4216.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1831(a), (i), Jan. 1, 2021, 134 Stat. 4209, 4216.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (g) of section 2306a of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1831(i), was based on Pub. L. 103–355, title I, § 1205, Oct. 13, 1994, 108 Stat. 3276.
+The text of subsec. (g) of section 2306a of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1831(i), was based on Pub. L. 103–355, title I, § 1205, Oct. 13, 1994, 108 Stat. 3276.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1831(i), transferred subsec. (g) of section 2306a of this title to this section, struck out subsec. (g) designation and heading “Right of United States To Examine Contractor Records” at beginning, and substituted “this chapter” for “this section” and “section 3841(b)(2)” for “section 2313(a)(2)”.
+2021—Pub. L. 116–283, § 1831(i), transferred subsec. (g) of section 2306a of this title to this section, struck out subsec. (g) designation and heading “Right of United States To Examine Contractor Records” at beginning, and substituted “this chapter” for “this section” and “section 3841(b)(2)” for “section 2313(a)(2)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -595,7 +595,7 @@ The text of subsec. (g) of section 2306a of this title, which was transferred to
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3709. Program to accelerate contracting and pricing processes
+## § 3709. Program to accelerate contracting and pricing processes
 
 **(a) In General.—** The Secretary of Defense shall establish a program to reform and accelerate the contracting and pricing processes associated with contracts in excess of $50,000,000 by—
 
@@ -609,22 +609,22 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(2)** That each Secretary of a military department has no unique reporting requirements to the Under Secretary of Defense for Acquisition and Sustainment with respect to the program.
 
-(Added and amended Pub. L. 119–60, div. A, title VIII, § 812(c), Dec. 18, 2025, 139 Stat. 952.)
+(Added and amended Pub. L. 119–60, div. A, title VIII, § 812(c), Dec. 18, 2025, 139 Stat. 952.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section is based on Pub. L. 115–232, div. A, title VIII, § 890, Aug. 13, 2018, 132 Stat. 1919, as amended by Pub. L. 116–92, div. A, title VIII, § 825, Dec. 20, 2019, 133 Stat. 1491; Pub. L. 116–283, div. A, title XVIII, § 1831(j)(7), Jan. 1, 2021, 134 Stat. 4217; Pub. L. 117–263, div. A, title VIII, § 818, Dec. 23, 2022, 136 Stat. 2708; Pub. L. 118–31, div. A, title VIII, § 841, Dec. 22, 2023, 137 Stat. 339, which was formerly set out as a note preceding section 3701 of this title before being transferred to this chapter and renumbered as this section by Pub. L. 119–60, div. A, title VIII, § 812(c)(1), Dec. 18, 2025, 139 Stat. 952.
+Section is based on Pub. L. 115–232, div. A, title VIII, § 890, Aug. 13, 2018, 132 Stat. 1919, as amended by Pub. L. 116–92, div. A, title VIII, § 825, Dec. 20, 2019, 133 Stat. 1491; Pub. L. 116–283, div. A, title XVIII, § 1831(j)(7), Jan. 1, 2021, 134 Stat. 4217; Pub. L. 117–263, div. A, title VIII, § 818, Dec. 23, 2022, 136 Stat. 2708; Pub. L. 118–31, div. A, title VIII, § 841, Dec. 22, 2023, 137 Stat. 339, which was formerly set out as a note preceding section 3701 of this title before being transferred to this chapter and renumbered as this section by Pub. L. 119–60, div. A, title VIII, § 812(c)(1), Dec. 18, 2025, 139 Stat. 952.
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 812(c)(2)(A), (B), struck out “Pilot” before “program” in section catchline and “pilot” before “program” wherever appearing in text.
+2025—Pub. L. 119–60, § 812(c)(2)(A), (B), struck out “Pilot” before “program” in section catchline and “pilot” before “program” wherever appearing in text.
 
-Subsec. (a)(2). Pub. L. 119–60, § 812(c)(2)(C), substituted “this chapter” for “chapter 271 of title 10, United States Code”.
+Subsec. (a)(2). Pub. L. 119–60, § 812(c)(2)(C), substituted “this chapter” for “chapter 271 of title 10, United States Code”.
 
-Subsec. (b). Pub. L. 119–60, § 812(c)(2)(D)(i), substituted “section 1737 of this title” for “section 1737 of title 10, United States Code” in introductory provisions.
+Subsec. (b). Pub. L. 119–60, § 812(c)(2)(D)(i), substituted “section 1737 of this title” for “section 1737 of title 10, United States Code” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 119–60, § 812(c)(2)(D)(ii), substituted “no unique reporting” for “minimal reporting”.
+Subsec. (b)(2). Pub. L. 119–60, § 812(c)(2)(D)(ii), substituted “no unique reporting” for “minimal reporting”.
 
-Subsecs. (c), (d). Pub. L. 119–60, § 812(c)(2)(E), struck out subsecs. (c) and (d), which, respectively, required submission of report on pilot program and provided that pilot program would expire on Jan. 2, 2028.
+Subsecs. (c), (d). Pub. L. 119–60, § 812(c)(2)(E), struck out subsecs. (c) and (d), which, respectively, required submission of report on pilot program and provided that pilot program would expire on Jan. 2, 2028.

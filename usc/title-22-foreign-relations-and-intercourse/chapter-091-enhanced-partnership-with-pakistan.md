@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 91—ENHANCED PARTNERSHIP WITH PAKISTAN
 
-## § 8401. Definitions
+## § 8401. Definitions
 
 In this chapter:
 
@@ -65,9 +65,9 @@ The term “security forces of Pakistan” means the military and intelligence s
 
 **(i)** grant assistance to carry out section 2763 of this title; and
 
-**(ii)** assistance under chapter 2 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2311 et. seq 1
+**(ii)** assistance under chapter 2 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2311 et. seq 1
 
-<sup>1</sup>  So in original. Probably should be “et seq.”.
+<sup>1</sup> So in original. Probably should be “et seq.”.
 
 ); but
 
@@ -77,13 +77,13 @@ The term “security forces of Pakistan” means the military and intelligence s
 
 **(ii)** amounts appropriated or otherwise available to the Pakistan Counterinsurgency Capability Fund established under the Supplemental Appropriations Act, 2009 (Public Law 111–32).
 
-(Pub. L. 111–73, § 2, Oct. 15, 2009, 123 Stat. 2060.)
+(Pub. L. 111–73, § 2, Oct. 15, 2009, 123 Stat. 2060.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in par. (11)(A)(ii), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 2 of part II of the Act is classified generally to part II (§ 2311 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in par. (11)(A)(ii), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 2 of part II of the Act is classified generally to part II (§ 2311 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Supplemental Appropriations Act, 2009, referred to in par. (11)(B)(ii), is Pub. L. 111–32, June 24, 2009, 123 Stat. 1859. For complete classification of this Act to the Code, see Tables.
 
@@ -91,9 +91,9 @@ The Supplemental Appropriations Act, 2009, referred to in par. (11)(B)(ii), is P
 
 **Short Title**
 
-Pub. L. 111–73, § 1(a), Oct. 15, 2009, 123 Stat. 2060, provided that: “This Act [enacting this chapter] may be cited as the ‘Enhanced Partnership with Pakistan Act of 2009’.”
+Pub. L. 111–73, § 1(a), Oct. 15, 2009, 123 Stat. 2060, provided that: “This Act [enacting this chapter] may be cited as the ‘Enhanced Partnership with Pakistan Act of 2009’.”
 
-## § 8402. Findings
+## § 8402. Findings
 
 Congress finds the following:
 
@@ -113,9 +113,9 @@ Congress finds the following:
 
 **(8)** On March 27, 2009, President Obama noted, “Multiple intelligence estimates have warned that al Qaeda is actively planning attacks on the United States homeland from its safe-haven in Pakistan.”.
 
-**(9)** According to a Government Accountability Office report (GAO–08–622), “since 2003, the [A]dministration’s national security strategies and Congress have recognized that a comprehensive plan that includes all elements of national power—diplomatic, military, intelligence, development assistance, economic, and law enforcement support—was needed to address the terrorist threat emanating from the FATA” and that such a strategy was also mandated by section 7102(b)(3) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 22 U.S.C. 2656f note) and section 2042(b)(2) of the Implementing the 1
+**(9)** According to a Government Accountability Office report (GAO–08–622), “since 2003, the [A]dministration’s national security strategies and Congress have recognized that a comprehensive plan that includes all elements of national power—diplomatic, military, intelligence, development assistance, economic, and law enforcement support—was needed to address the terrorist threat emanating from the FATA” and that such a strategy was also mandated by section 7102(b)(3) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 22 U.S.C. 2656f note) and section 2042(b)(2) of the Implementing the 1
 
-<sup>1</sup>  So in original. The word “the” probably should not appear.
+<sup>1</sup> So in original. The word “the” probably should not appear.
 
 Recommendations of the 9/11 Commission Act of 2007 (Public Law 110–53; 22 U.S.C. 2375 note).
 
@@ -125,9 +125,9 @@ Recommendations of the 9/11 Commission Act of 2007 (Public Law 110–53; 22 U.S.
 
 **(12)** The 2009 Pakistani military offensive in the NWFP and the FATA displaced millions of residents in one of the gravest humanitarian crises Pakistan has faced, and despite the heroic efforts of Pakistanis to respond to the needs of the displaced millions and facilitate the return of many, it has highlighted the need for Pakistan to develop an effective national counterinsurgency strategy.
 
-(Pub. L. 111–73, § 3, Oct. 15, 2009, 123 Stat. 2061.)
+(Pub. L. 111–73, § 3, Oct. 15, 2009, 123 Stat. 2061.)
 
-## § 8403. Statement of principles
+## § 8403. Statement of principles
 
 Congress declares that the relationship between the United States and Pakistan should be based on the following principles:
 
@@ -169,11 +169,11 @@ Congress declares that the relationship between the United States and Pakistan s
 
 **(N)** to explore means to consult with and utilize the relevant expertise and skills of the Pakistani-American community.
 
-(Pub. L. 111–73, § 4, Oct. 15, 2009, 123 Stat. 2063.)
+(Pub. L. 111–73, § 4, Oct. 15, 2009, 123 Stat. 2063.)
 
 ## SUBCHAPTER I—DEMOCRATIC, ECONOMIC, AND DEVELOPMENT ASSISTANCE FOR PAKISTAN
 
-### § 8411. Authorization of assistance
+### § 8411. Authorization of assistance
 
 **(a) In general** The President is authorized to provide assistance to Pakistan—
 
@@ -281,13 +281,13 @@ Of the amounts appropriated for each fiscal year pursuant to the authorization o
 
 For fiscal years 2010 through 2014, the President shall notify the appropriate congressional committees not later than 15 days before obligating any assistance under this section as budgetary support to the Government of Pakistan or any element of the Government of Pakistan and shall include in such notification a description of the purpose and conditions attached to any such budgetary support.
 
-(Pub. L. 111–73, title I, § 101, Oct. 15, 2009, 123 Stat. 2064.)
+(Pub. L. 111–73, title I, § 101, Oct. 15, 2009, 123 Stat. 2064.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (c)(5), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (c)(5), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -307,17 +307,17 @@ Pub. L. 116–338, Jan. 13, 2021, 134 Stat. 5122, provided that:
 
 > **“(2)** In 2013, Malala Yousafzai and her father Ziauddin Yousafzai co-founded the Malala Fund. The Malala Fund works to secure 12 years of free, safe, and quality education for all girls. Completion of a full 12-year cycle of primary and secondary education ensures a pipeline of girls able to pursue higher education.
 
-> **“(3)** On July 12, 2013, Malala delivered a speech before the United Nations General Assembly calling for expanded access to education for women and girls across the globe. She said, ‘[L]et us wage a glorious struggle against illiteracy, poverty, and terrorism. Let us pick up our books and our pens. They are the most powerful weapons \* \* \*. Education is the only solution.’.
+> **“(3)** On July 12, 2013, Malala delivered a speech before the United Nations General Assembly calling for expanded access to education for women and girls across the globe. She said, ‘[L]et us wage a glorious struggle against illiteracy, poverty, and terrorism. Let us pick up our books and our pens. They are the most powerful weapons \* \* \*. Education is the only solution.’.
 
 > **“(4)** On October 10, 2014, Malala Yousafzai became the co-recipient of the Nobel Peace Prize for her ‘struggle against the suppression of children and young people and for the right of all children to education’.
 
 > **“(5)** According to the United Nations 2016 Global Education Monitoring Report, more than 130 million girls worldwide are out of school. 15 million girls of primary-school age will never enter a classroom. As of 2016, at least 500 million adult women across the globe are illiterate.
 
-> **“(6)** According to the World Bank, ‘Girls’ education is a strategic development priority. Better educated women tend to be healthier, participate more in the formal labor market, earn higher incomes, \* \* \* marry at a later age, and enable better health care and education for their children, should they choose to become mothers. All these factors combined can help lift households, communities, and nations out of poverty.’.
+> **“(6)** According to the World Bank, ‘Girls’ education is a strategic development priority. Better educated women tend to be healthier, participate more in the formal labor market, earn higher incomes, \* \* \* marry at a later age, and enable better health care and education for their children, should they choose to become mothers. All these factors combined can help lift households, communities, and nations out of poverty.’.
 
 > **“(7)** In 2015, all United Nations Member States, including the United States, adopted quality education, including access to higher education, and gender equality as sustainable development goals to be attained by 2030. One of the education goal targets is to ‘ensure equal access for all women and men to affordable and quality technical, vocational and tertiary education, including university’.
 
-> **“(8)** In January 2010, Secretary of State Hillary Rodham Clinton stated, ‘We will open the doors of education to all citizens, but especially to girls and women \* \* \*. We are doing all of these things because we have seen that when women and girls have the tools to stay healthy and the opportunity to contribute to their families’ well-being, they flourish and so do the people around them.[’]
+> **“(8)** In January 2010, Secretary of State Hillary Rodham Clinton stated, ‘We will open the doors of education to all citizens, but especially to girls and women \* \* \*. We are doing all of these things because we have seen that when women and girls have the tools to stay healthy and the opportunity to contribute to their families’ well-being, they flourish and so do the people around them.[’]
 
 > **“(9)** In February 2019, the White House launched the Women’s Global Development and Prosperity Initiative to advance women’s economic empowerment across the globe and reach more than 100,000 women.
 
@@ -377,7 +377,7 @@ Pub. L. 116–338, Jan. 13, 2021, 134 Stat. 5122, provided that:
 
 > **“(5)** the percentage of scholarship recipients who dropped out of school due to retaliation for seeking an education, to the extent that such information is available.”
 
-### § 8412. Authorization of appropriations
+### § 8412. Authorization of appropriations
 
 **(a) In general**
 
@@ -407,15 +407,15 @@ The Secretary of State may waive the limitations in subsection (b) if the Secret
 
 It is the sense of Congress that, subject to an improving political and economic climate in Pakistan, there should be authorized to be appropriated up to $1,500,000,000 for each of the fiscal years 2015 through 2019 for the purpose of providing assistance to Pakistan under the Foreign Assistance Act of 1961 [22 U.S.C. 2151 et seq.].
 
-(Pub. L. 111–73, title I, § 102, Oct. 15, 2009, 123 Stat. 2068.)
+(Pub. L. 111–73, title I, § 102, Oct. 15, 2009, 123 Stat. 2068.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (a), (b)(1)(B)(i), and (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a), (b)(1)(B)(i), and (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-### § 8413. Auditing
+### § 8413. Auditing
 
 **(a) Assistance authorized**
 
@@ -435,11 +435,11 @@ Of the amounts authorized to be appropriated under section 8412 of this title fo
 
 Amounts made available under paragraph (1) are in addition to amounts otherwise available for such purposes.
 
-(Pub. L. 111–73, title I, § 103, Oct. 15, 2009, 123 Stat. 2069.)
+(Pub. L. 111–73, title I, § 103, Oct. 15, 2009, 123 Stat. 2069.)
 
 ## SUBCHAPTER II—SECURITY ASSISTANCE FOR PAKISTAN
 
-### § 8421. Purposes of assistance
+### § 8421. Purposes of assistance
 
 The purposes of assistance under this subchapter are—
 
@@ -451,9 +451,9 @@ The purposes of assistance under this subchapter are—
 
 **(4)** to help strengthen the institutions of democratic governance and promote control of military institutions by a democratically elected civilian government.
 
-(Pub. L. 111–73, title II, § 201, Oct. 15, 2009, 123 Stat. 2069.)
+(Pub. L. 111–73, title II, § 201, Oct. 15, 2009, 123 Stat. 2069.)
 
-### § 8422. Authorization of assistance
+### § 8422. Authorization of assistance
 
 **(a) International military education and training**
 
@@ -483,9 +483,9 @@ It is the sense of Congress that a significant majority of funds made available 
 
 **(3) Additional authority**
 
-Except as provided in sections 2753 and 2799aa–1 of this title, the second section 620J 1
+Except as provided in sections 2753 and 2799aa–1 of this title, the second section 620J 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Foreign Assistance Act of 1961 (as added by Public Law 110–161) [22 U.S.C. 2378d], and any provision of an Act making appropriations for the Department of State, foreign operations, and related programs that restricts assistance to the government of any country whose duly elected head of government is deposed by military coup or decree, and except as otherwise provided in this subchapter, amounts authorized to be made available to carry out paragraph (2) for fiscal years 2010 and 2011 are authorized to be made available notwithstanding any other provision of law.
 
@@ -523,17 +523,17 @@ Amounts authorized to be appropriated to carry out this section for a fiscal yea
 
 There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2010 through 2014 to carry out the program established by this subsection.
 
-(Pub. L. 111–73, title II, § 202, Oct. 15, 2009, 123 Stat. 2069.)
+(Pub. L. 111–73, title II, § 202, Oct. 15, 2009, 123 Stat. 2069.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 5 of part II of the Act is classified generally to part V (§ 2347 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 5 of part II of the Act is classified generally to part V (§ 2347 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The second section 620J of the Foreign Assistance Act of 1961 (as added by Public Law 110–161), referred to in subsec. (b), which is classified to section 2378d of this title, was renumbered section 620M of the Foreign Assistance Act of 1961 by Pub. L. 112–74, div. I, title VII, § 7034(k)(1), Dec. 23, 2011, 125 Stat. 1216.
+The second section 620J of the Foreign Assistance Act of 1961 (as added by Public Law 110–161), referred to in subsec. (b), which is classified to section 2378d of this title, was renumbered section 620M of the Foreign Assistance Act of 1961 by Pub. L. 112–74, div. I, title VII, § 7034(k)(1), Dec. 23, 2011, 125 Stat. 1216.
 
-### § 8423. Limitations on certain assistance
+### § 8423. Limitations on certain assistance
 
 **(a) Limitation on security-related assistance**
 
@@ -579,9 +579,9 @@ The Secretary of State, under the direction of the President, may waive the limi
 
 **(2) Prior notice of waiver**
 
-The Secretary of State, under the direction of the President, may not exercise the authority of paragraph (1) until 7 days after the Secretary of State provides to the appropriate congressional committees a written notice of the intent to issue to waiver 1
+The Secretary of State, under the direction of the President, may not exercise the authority of paragraph (1) until 7 days after the Secretary of State provides to the appropriate congressional committees a written notice of the intent to issue to waiver 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 and the reasons therefor. The notice may be submitted in classified or unclassified form, as necessary.
 
@@ -591,13 +591,13 @@ and the reasons therefor. The notice may be submitted in classified or unclassif
 
 **(2)** the Committee on Foreign Relations, the Committee on Armed Services, and the Select Committee on Intelligence of the Senate.
 
-(Pub. L. 111–73, title II, § 203, Oct. 15, 2009, 123 Stat. 2071.)
+(Pub. L. 111–73, title II, § 203, Oct. 15, 2009, 123 Stat. 2071.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Arms Export Control Act, referred to in subsec. (b), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (b), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The Supplemental Appropriations Act, 2009, referred to in subsec. (d)(1), is Pub. L. 111–32, June 24, 2009, 123 Stat. 1859. For complete classification of this Act to the Code, see Tables.
 
@@ -607,7 +607,7 @@ The Supplemental Appropriations Act, 2009, referred to in subsec. (d)(1), is Pub
 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-### § 8424. Pakistan Counterinsurgency Capability Fund
+### § 8424. Pakistan Counterinsurgency Capability Fund
 
 **(a) For fiscal year 2010**
 
@@ -649,7 +649,7 @@ Any notification required by this section may be submitted in classified or uncl
 
 **(2)** the Committee on Appropriations, the Committee on Armed Services, and the Committee on Foreign Relations of the Senate.
 
-(Pub. L. 111–73, title II, § 204, Oct. 15, 2009, 123 Stat. 2072.)
+(Pub. L. 111–73, title II, § 204, Oct. 15, 2009, 123 Stat. 2072.)
 
 **Editorial Notes**
 
@@ -657,7 +657,7 @@ Any notification required by this section may be submitted in classified or uncl
 
 The Supplemental Appropriations Act, 2009, referred to in subsec. (a)(1), (3)(A), is Pub. L. 111–32, June 24, 2009, 123 Stat. 1859. For complete classification of this Act to the Code, see Tables.
 
-### § 8425. Requirements for civilian control of certain assistance
+### § 8425. Requirements for civilian control of certain assistance
 
 **(a) Requirements**
 
@@ -699,13 +699,13 @@ The Secretary of Defense, in consultation with the Secretary of State, may waive
 
 **(2)** the term “civilian government of Pakistan” does not include any government of Pakistan whose duly elected head of government is deposed by military coup or decree.
 
-(Pub. L. 111–73, title II, § 205, Oct. 15, 2009, 123 Stat. 2074.)
+(Pub. L. 111–73, title II, § 205, Oct. 15, 2009, 123 Stat. 2074.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Security Act of 1947, referred to in subsec. (c)(1), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (c)(1), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 Section 1208 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; 118 Stat. 2086), referred to in subsec. (c)(4), is not classified to the Code.
 
@@ -713,7 +713,7 @@ Section 943 of the Duncan Hunter National Defense Authorization Act for Fiscal Y
 
 ## SUBCHAPTER III—STRATEGY, ACCOUNTABILITY, MONITORING, AND OTHER PROVISIONS
 
-### § 8441. Strategy reports
+### § 8441. Strategy reports
 
 **(a) Pakistan assistance strategy report** Not later than 45 days after October 15, 2009, the Secretary of State shall submit to the appropriate congressional committees a report describing United States policy and strategy with respect to assistance to Pakistan under this chapter. The report shall include the following:
 
@@ -795,7 +795,7 @@ The report shall include a copy of the comprehensive regional security strategy,
 
 Not later than 180 days after October 15, 2009, the Secretary of State shall submit to the appropriate congressional committees a plan for the proposed use of amounts authorized for security-related assistance for each of the fiscal years 2010 through 2014. Such plan shall include an assessment of how the use of such amounts complements or otherwise is related to amounts described in section 8424 of this title.
 
-(Pub. L. 111–73, title III, § 301, Oct. 15, 2009, 123 Stat. 2075.)
+(Pub. L. 111–73, title III, § 301, Oct. 15, 2009, 123 Stat. 2075.)
 
 **Executive Documents**
 
@@ -811,7 +811,7 @@ You are authorized and directed to notify the appropriate congressional committe
 
 Barack Obama.
 
-### § 8442. Monitoring reports
+### § 8442. Monitoring reports
 
 **(a) Semi-annual monitoring report** Not later than 180 days after the submission of the Pakistan Assistance Strategy Report pursuant to section 8441(a) of this title, and every 180 days thereafter through September 30, 2014, the Secretary of State, in consultation with the Secretary of Defense, shall submit to the appropriate congressional committees a report that describes the assistance provided under this chapter during the preceding 180-day period. The report shall include—
 
@@ -885,7 +885,7 @@ The Secretary of State may submit the reports required by this section in conjun
 
 **(2)** the Committee on Appropriations, the Committee on Armed Services, and the Committee on Foreign Relations of the Senate.
 
-(Pub. L. 111–73, title III, § 302, Oct. 15, 2009, 123 Stat. 2077.)
+(Pub. L. 111–73, title III, § 302, Oct. 15, 2009, 123 Stat. 2077.)
 
 **Editorial Notes**
 

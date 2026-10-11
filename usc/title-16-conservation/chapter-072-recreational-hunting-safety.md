@@ -15,19 +15,19 @@ retrieved: 2026-10-11
 
 # CHAPTER 72—RECREATIONAL HUNTING SAFETY
 
-## § 5201. Obstruction of a lawful hunt
+## § 5201. Obstruction of a lawful hunt
 
 It is a violation of this section intentionally to engage in any physical conduct that significantly hinders a lawful hunt.
 
-(Pub. L. 103–322, title XXXII, § 320802, Sept. 13, 1994, 108 Stat. 2121.)
+(Pub. L. 103–322, title XXXII, § 320802, Sept. 13, 1994, 108 Stat. 2121.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 103–322, title XXXII, § 320801, Sept. 13, 1994, 108 Stat. 2121, provided that: “This subtitle [subtitle H (§§ 320801–320808) of title XXXII of Pub. L. 103–322, enacting this chapter] may be cited as the ‘Recreational Hunting Safety and Preservation Act of 1994’.”
+Pub. L. 103–322, title XXXII, § 320801, Sept. 13, 1994, 108 Stat. 2121, provided that: “This subtitle [subtitle H (§§ 320801–320808) of title XXXII of Pub. L. 103–322, enacting this chapter] may be cited as the ‘Recreational Hunting Safety and Preservation Act of 1994’.”
 
-## § 5202. Civil penalties
+## § 5202. Civil penalties
 
 **(a) In general**
 
@@ -65,15 +65,15 @@ the Secretary may request the Attorney General of the United States to institute
 
 **(ii)** on private or State-owned lands when the efforts will also provide a benefit to wildlife management objectives on Federal lands.
 
-(Pub. L. 103–322, title XXXII, § 320803, Sept. 13, 1994, 108 Stat. 2121.)
+(Pub. L. 103–322, title XXXII, § 320803, Sept. 13, 1994, 108 Stat. 2121.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Pitman-Robertson Wildlife Restoration Act, referred to in subsec. (e)(1), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, also known as the Federal Aid in Wildlife Restoration Act, which is classified generally to chapter 5B (§ 669 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
+The Pitman-Robertson Wildlife Restoration Act, referred to in subsec. (e)(1), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, also known as the Federal Aid in Wildlife Restoration Act, which is classified generally to chapter 5B (§ 669 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
 
-## § 5203. Other relief
+## § 5203. Other relief
 
 Injunctive relief against a violation of section 5201 of this title may be sought by—
 
@@ -83,27 +83,27 @@ Injunctive relief against a violation of section 5201 of this title may be sough
 
 **(3)** any person who is or would be adversely affected by the violation.
 
-(Pub. L. 103–322, title XXXII, § 320804, Sept. 13, 1994, 108 Stat. 2122.)
+(Pub. L. 103–322, title XXXII, § 320804, Sept. 13, 1994, 108 Stat. 2122.)
 
-## § 5204. Relationship to State and local law and civil actions
+## § 5204. Relationship to State and local law and civil actions
 
 This chapter does not preempt a State law or local ordinance that provides for civil or criminal penalties for conduct that violates this chapter.
 
-(Pub. L. 103–322, title XXXII, § 320805, Sept. 13, 1994, 108 Stat. 2122.)
+(Pub. L. 103–322, title XXXII, § 320805, Sept. 13, 1994, 108 Stat. 2122.)
 
-## § 5205. Regulations
+## § 5205. Regulations
 
 The Secretary may issue such regulations as are necessary to carry out this chapter.
 
-(Pub. L. 103–322, title XXXII, § 320806, Sept. 13, 1994, 108 Stat. 2122.)
+(Pub. L. 103–322, title XXXII, § 320806, Sept. 13, 1994, 108 Stat. 2122.)
 
-## § 5206. Rule of construction
+## § 5206. Rule of construction
 
 Nothing in this chapter shall be construed to impair a right guaranteed to a person under the first article of amendment to the Constitution or limit any legal remedy for forceful interference with a person’s lawful participation in speech or peaceful assembly.
 
-(Pub. L. 103–322, title XXXII, § 320807, Sept. 13, 1994, 108 Stat. 2122.)
+(Pub. L. 103–322, title XXXII, § 320807, Sept. 13, 1994, 108 Stat. 2122.)
 
-## § 5207. Definitions
+## § 5207. Definitions
 
 As used in this chapter:
 
@@ -155,10 +155,10 @@ The term “wildlife refuge” means lands and waters included in the National W
 
 The term “conduct” does not include speech protected by the first article of amendment to the Constitution.
 
-(Pub. L. 103–322, title XXXII, § 320808, Sept. 13, 1994, 108 Stat. 2122.)
+(Pub. L. 103–322, title XXXII, § 320808, Sept. 13, 1994, 108 Stat. 2122.)
 
 **Editorial Notes**
 
 **Codification**
 
-In par. (4), “section 100501 of title 54” substituted for “section 2(a) of the Act entitled ‘An Act to facilitate the management of the National Park System and miscellaneous areas administered in connection with that system, and for other purposes’, approved August 8, 1953 (16 U.S.C. 1c(a))” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+In par. (4), “section 100501 of title 54” substituted for “section 2(a) of the Act entitled ‘An Act to facilitate the management of the National Park System and miscellaneous areas administered in connection with that system, and for other purposes’, approved August 8, 1953 (16 U.S.C. 1c(a))” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.

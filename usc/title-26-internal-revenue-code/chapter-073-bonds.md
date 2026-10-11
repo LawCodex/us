@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 73—BONDS
 
-## § 7101. Form of bonds
+## § 7101. Form of bonds
 
 Whenever, pursuant to the provisions of this title (other than section 7485), or rules or regulations prescribed under authority of this title, a person is required to furnish a bond or security—
 
@@ -27,7 +27,7 @@ Such bond or security shall be in such form and with such surety or sureties as 
 
 The person required to furnish such bond or security may, in lieu thereof, deposit bonds or notes of the United States as provided in section 9303 of title 31, United States Code.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 847; Pub. L. 92–310, title II, § 230(b), June 6, 1972, 86 Stat. 209; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–258, § 3(f)(11), Sept. 13, 1982, 96 Stat. 1065.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 847; Pub. L. 92–310, title II, § 230(b), June 6, 1972, 86 Stat. 209; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–258, § 3(f)(11), Sept. 13, 1982, 96 Stat. 1065.)
 
 **Editorial Notes**
 
@@ -39,11 +39,11 @@ The person required to furnish such bond or security may, in lieu thereof, depos
 
 1972—Pub. L. 92–310 struck out reference to section 6803(a)(1).
 
-## § 7102. Single bond in lieu of multiple bonds
+## § 7102. Single bond in lieu of multiple bonds
 
 In any case in which two or more bonds are required or authorized, the Secretary may provide for the acceptance of a single bond complying with the requirements for which the several bonds are required or authorized.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 847; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 847; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -51,7 +51,7 @@ In any case in which two or more bonds are required or authorized, the Secretary
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-## § 7103. Cross references—Other provisions for bonds
+## § 7103. Cross references—Other provisions for bonds
 
 **(a) Extensions of time**
 
@@ -81,7 +81,7 @@ In any case in which two or more bonds are required or authorized, the Secretary
 
 **(2)** For bonds relating to alcohol and tobacco taxes, see generally subtitle E.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 847; Pub. L. 89–44, title VIII, § 802(b)(3), June 21, 1965, 79 Stat. 159; Pub. L. 91–513, title III, § 1102(e), Oct. 27, 1970, 84 Stat. 1292; Pub. L. 92–310, title II, § 230(c), June 6, 1972, 86 Stat. 209; Pub. L. 93–490, § 3(b)(7), Oct. 26, 1974, 88 Stat. 1467; Pub. L. 94–455, title XII, § 1204(c)(10), title XIX, § 1906(a)(40), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1699, 1830, 1834; Pub. L. 95–628, § 9(b)(2), Nov. 10, 1978, 92 Stat. 3633; Pub. L. 99–514, title XV, § 1566(c), Oct. 22, 1986, 100 Stat. 2763.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 847; Pub. L. 89–44, title VIII, § 802(b)(3), June 21, 1965, 79 Stat. 159; Pub. L. 91–513, title III, § 1102(e), Oct. 27, 1970, 84 Stat. 1292; Pub. L. 92–310, title II, § 230(c), June 6, 1972, 86 Stat. 209; Pub. L. 93–490, § 3(b)(7), Oct. 26, 1974, 88 Stat. 1467; Pub. L. 94–455, title XII, § 1204(c)(10), title XIX, § 1906(a)(40), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1699, 1830, 1834; Pub. L. 95–628, § 9(b)(2), Nov. 10, 1978, 92 Stat. 3633; Pub. L. 99–514, title XV, § 1566(c), Oct. 22, 1986, 100 Stat. 2763.)
 
 **Editorial Notes**
 
@@ -91,11 +91,11 @@ In any case in which two or more bonds are required or authorized, the Secretary
 
 1978—Subsec. (a)(4). Pub. L. 95–628 added par. (4).
 
-1976—Subsec. (a)(4). Pub. L. 94–455, § 1204(c)(10), struck out par. (4) which made reference to section 6851(e) as covering the furnishing of bond where a taxable years is closed by the Secretary or his delegate.
+1976—Subsec. (a)(4). Pub. L. 94–455, § 1204(c)(10), struck out par. (4) which made reference to section 6851(e) as covering the furnishing of bond where a taxable years is closed by the Secretary or his delegate.
 
-Subsec. (b)(1). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (b)(1). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (d). Pub. L. 94–455, § 1906(a)(40), struck out subsec. (d) which made cross references to provisions covering bonds required with respect to articles taxable under chapter B of chapter 37 processed for exportation without payment of tax, oleomargarine removed from the place of manufacture for exportation to a foreign country, and the manufacture of oleomargarine, process, renovated, or adulterated butter, and white phosphorus matches.
+Subsec. (d). Pub. L. 94–455, § 1906(a)(40), struck out subsec. (d) which made cross references to provisions covering bonds required with respect to articles taxable under chapter B of chapter 37 processed for exportation without payment of tax, oleomargarine removed from the place of manufacture for exportation to a foreign country, and the manufacture of oleomargarine, process, renovated, or adulterated butter, and white phosphorus matches.
 
 1974—Subsec. (d)(3)(C). Pub. L. 93–490 struck out subpar. (C) relating to manufacturers of filled cheese and which made reference to section 4833(c).
 

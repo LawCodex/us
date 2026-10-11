@@ -15,33 +15,33 @@ retrieved: 2026-10-11
 
 # CHAPTER 62—AFRICAN ELEPHANT CONSERVATION
 
-## § 4201. Statement of purpose
+## § 4201. Statement of purpose
 
 The purpose of this chapter is to perpetuate healthy populations of African elephants.
 
-(Pub. L. 100–478, title II, § 2002, Oct. 7, 1988, 102 Stat. 2315.)
+(Pub. L. 100–478, title II, § 2002, Oct. 7, 1988, 102 Stat. 2315.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2007 Amendment**
 
-Pub. L. 110–132, § 1, Dec. 6, 2007, 121 Stat. 1360, provided that: “This Act [amending sections 4211, 4245, 5304, and 5306 of this title] may be cited as the ‘Multinational Species Conservation Funds Reauthorization Act of 2007’.”
+Pub. L. 110–132, § 1, Dec. 6, 2007, 121 Stat. 1360, provided that: “This Act [amending sections 4211, 4245, 5304, and 5306 of this title] may be cited as the ‘Multinational Species Conservation Funds Reauthorization Act of 2007’.”
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–111, § 1, Jan. 8, 2002, 115 Stat. 2095, provided that: “This Act [enacting section 4214 of this title, amending sections 4211, 4212, and 4244 to 4246 of this title, and repealing section 4243 of this title] may be cited as the ‘African Elephant Conservation Reauthorization Act of 2001’.”
+Pub. L. 107–111, § 1, Jan. 8, 2002, 115 Stat. 2095, provided that: “This Act [enacting section 4214 of this title, amending sections 4211, 4212, and 4244 to 4246 of this title, and repealing section 4243 of this title] may be cited as the ‘African Elephant Conservation Reauthorization Act of 2001’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–217, § 1, Aug. 5, 1998, 112 Stat. 911, provided that: “This Act [amending section 4245 of this title] may be cited as the ‘African Elephant Conservation Reauthorization Act of 1998’.”
+Pub. L. 105–217, § 1, Aug. 5, 1998, 112 Stat. 911, provided that: “This Act [amending section 4245 of this title] may be cited as the ‘African Elephant Conservation Reauthorization Act of 1998’.”
 
 **Short Title**
 
-Pub. L. 100–478, title II, § 2001, Oct. 7, 1988, 102 Stat. 2315, provided that: “This title [enacting this chapter and amending section 1538 of this title] may be cited as the ‘African Elephant Conservation Act’.”
+Pub. L. 100–478, title II, § 2001, Oct. 7, 1988, 102 Stat. 2315, provided that: “This title [enacting this chapter and amending section 1538 of this title] may be cited as the ‘African Elephant Conservation Act’.”
 
 **Reporting Requirements**
 
-Pub. L. 118–159, div. E, title LIII, § 5308, Dec. 23, 2024, 138 Stat. 2446, provided that:
+Pub. L. 118–159, div. E, title LIII, § 5308, Dec. 23, 2024, 138 Stat. 2446, provided that:
 
 > **“(a) Reports to Congress.—** Annually, the Secretary of the Interior shall submit to the appropriate committees of Congress a report on the implementation of—
 
@@ -67,7 +67,7 @@ Pub. L. 118–159, div. E, title LIII, § 5308, Dec. 23, 2024, 138 Stat. 2446,
 
 > **“(5)** a description of the projects to be completed and completed under each award.”
 
-## § 4202. Findings
+## § 4202. Findings
 
 The Congress finds the following:
 
@@ -89,15 +89,15 @@ The Congress finds the following:
 
 **(9)** There is no evidence that sport hunting is part of the poaching that contributes to the illegal trade in African elephant ivory, and there is evidence that the proper utilization of well-managed elephant populations provides an important source of funding for African elephant conservation programs.
 
-(Pub. L. 100–478, title II, § 2003, Oct. 7, 1988, 102 Stat. 2315.)
+(Pub. L. 100–478, title II, § 2003, Oct. 7, 1988, 102 Stat. 2315.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Endangered Species Act of 1973, referred to in par. (3), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in par. (3), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-## § 4203. Statement of policy
+## § 4203. Statement of policy
 
 It is the policy of the United States—
 
@@ -105,11 +105,11 @@ It is the policy of the United States—
 
 **(2)** to provide financial resources for those programs.
 
-(Pub. L. 100–478, title II, § 2004, Oct. 7, 1988, 102 Stat. 2316.)
+(Pub. L. 100–478, title II, § 2004, Oct. 7, 1988, 102 Stat. 2316.)
 
 ## SUBCHAPTER I—AFRICAN ELEPHANT CONSERVATION ASSISTANCE
 
-### § 4211. Provision of assistance
+### § 4211. Provision of assistance
 
 **(a) In general**
 
@@ -163,7 +163,7 @@ The Secretary may award to a person who is otherwise eligible for a grant under 
 
 Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.
 
-(Pub. L. 100–478, title II, § 2101, Oct. 7, 1988, 102 Stat. 2316; Pub. L. 107–111, §§ 5, 6(a)(1), Jan. 8, 2002, 115 Stat. 2096; Pub. L. 110–132, § 2(a), Dec. 6, 2007, 121 Stat. 1360; Pub. L. 118–159, div. E, title LIII, § 5303(a), Dec. 23, 2024, 138 Stat. 2445.)
+(Pub. L. 100–478, title II, § 2101, Oct. 7, 1988, 102 Stat. 2316; Pub. L. 107–111, §§ 5, 6(a)(1), Jan. 8, 2002, 115 Stat. 2096; Pub. L. 110–132, § 2(a), Dec. 6, 2007, 121 Stat. 1360; Pub. L. 118–159, div. E, title LIII, § 5303(a), Dec. 23, 2024, 138 Stat. 2445.)
 
 **Editorial Notes**
 
@@ -173,15 +173,15 @@ Nothing in this subsection precludes the Secretary from awarding a grant on an a
 
 2007—Subsec. (c). Pub. L. 110–132, struck out “and to each country within which the project is proposed to be conducted” before period at end in second sentence.
 
-2002—Subsec. (a). Pub. L. 107–111, § 6(a)(1), struck out “African Elephant Conservation” before “Fund”.
+2002—Subsec. (a). Pub. L. 107–111, § 6(a)(1), struck out “African Elephant Conservation” before “Fund”.
 
-Subsecs. (e), (f). Pub. L. 107–111, § 5, added subsec. (e) and redesignated former subsec. (e) as (f).
+Subsecs. (e), (f). Pub. L. 107–111, § 5, added subsec. (e) and redesignated former subsec. (e) as (f).
 
-### § 4212. Acceptance and use of donations
+### § 4212. Acceptance and use of donations
 
 The Secretary may accept and use donations of funds to provide assistance under this subchapter. Amounts received by the Secretary in the form of such donations shall be transferred by the Secretary to the Secretary of the Treasury for deposit into the Fund.
 
-(Pub. L. 100–478, title II, § 2102, Oct. 7, 1988, 102 Stat. 2317; Pub. L. 107–111, § 6(a)(2), Jan. 8, 2002, 115 Stat. 2096.)
+(Pub. L. 100–478, title II, § 2102, Oct. 7, 1988, 102 Stat. 2317; Pub. L. 107–111, § 6(a)(2), Jan. 8, 2002, 115 Stat. 2096.)
 
 **Editorial Notes**
 
@@ -189,15 +189,15 @@ The Secretary may accept and use donations of funds to provide assistance under 
 
 2002—Pub. L. 107–111 redesignated heading and text of subsec. (d) as entire section and struck out former section catchline and headings and text of subsecs. (a) to (c). Prior to amendment, text of subsecs. (a) to (c) related to establishment in the Treasury of the African Elephant Conservation Fund, consisting of deposits by the Secretary of the Treasury of unused funds from penalties under section 4224 of this title, donations under this section, and appropriations, to be used to provide assistance under this subchapter, with not more than three percent of appropriated funds per fiscal year used to administer the Fund.
 
-### § 4213. Omitted
+### § 4213. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 100–478, title II, § 2103, Oct. 7, 1988, 102 Stat. 2317, which required the Secretary of the Interior to submit an annual report to Congress regarding the African Elephant Conservation Fund formerly established by section 4212 of this title and the status of the African elephant, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 107 of House Document No. 103–7.
+Section, Pub. L. 100–478, title II, § 2103, Oct. 7, 1988, 102 Stat. 2317, which required the Secretary of the Interior to submit an annual report to Congress regarding the African Elephant Conservation Fund formerly established by section 4212 of this title and the status of the African elephant, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 107 of House Document No. 103–7.
 
-### § 4214. Advisory group
+### § 4214. Advisory group
 
 **(a) In general**
 
@@ -205,9 +205,9 @@ To assist in carrying out this chapter, the Secretary may convene an advisory gr
 
 **(b) Public participation**
 
-**(1) Meetings** The Advisory Group 1
+**(1) Meetings** The Advisory Group 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 shall—
 
@@ -227,7 +227,7 @@ Minutes of each meeting of the advisory group shall be kept by the Secretary and
 
 Chapter 10 of title 5 shall not apply to the advisory group.
 
-(Pub. L. 100–478, title II, § 2104, as added Pub. L. 107–111, § 4, Jan. 8, 2002, 115 Stat. 2095; amended Pub. L. 107–141, § 5(b)(2)(A), Feb. 12, 2002, 116 Stat. 14; Pub. L. 117–286, § 4(a)(120), Dec. 27, 2022, 136 Stat. 4318.)
+(Pub. L. 100–478, title II, § 2104, as added Pub. L. 107–111, § 4, Jan. 8, 2002, 115 Stat. 2095; amended Pub. L. 107–141, § 5(b)(2)(A), Feb. 12, 2002, 116 Stat. 14; Pub. L. 117–286, § 4(a)(120), Dec. 27, 2022, 136 Stat. 4318.)
 
 **Editorial Notes**
 
@@ -241,11 +241,11 @@ Chapter 10 of title 5 shall not apply to the advisory group.
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–141, § 5(b)(2), Feb. 12, 2002, 116 Stat. 14, provided that the amendment by section 5(b)(2) of Pub. L. 107–141 is effective on the day after Jan. 8, 2002.
+Pub. L. 107–141, § 5(b)(2), Feb. 12, 2002, 116 Stat. 14, provided that the amendment by section 5(b)(2) of Pub. L. 107–141 is effective on the day after Jan. 8, 2002.
 
 ## SUBCHAPTER II—MORATORIA AND PROHIBITED ACTS
 
-### § 4221. Review of African elephant conservation programs
+### § 4221. Review of African elephant conservation programs
 
 **(a) In general** Within one month after October 7, 1988, the Secretary shall issue a call for information on the African elephant conservation program of each ivory producing country by—
 
@@ -271,9 +271,9 @@ Pub. L. 107–141, § 5(b)(2), Feb. 12, 2002, 116 Stat. 14, provided that the 
 
 If the Secretary finds within one year after October 7, 1988, that there is insufficient information upon which to make the determination under paragraph (1), the Secretary may delay issuing the determination until no later than December 31, 1989. The Secretary shall issue and publish in the Federal Register at the time of the finding a statement explaining the reasons for any such delay.
 
-(Pub. L. 100–478, title II, § 2201, Oct. 7, 1988, 102 Stat. 2318.)
+(Pub. L. 100–478, title II, § 2201, Oct. 7, 1988, 102 Stat. 2318.)
 
-### § 4222. Moratoria
+### § 4222. Moratoria
 
 **(a) Ivory producing countries**
 
@@ -323,9 +323,9 @@ Individuals may import sport-hunted elephant trophies that they have legally tak
 
 Trade in raw or worked ivory that is confiscated by an ivory producing country or an intermediary country and is disposed of pursuant to the CITES Ivory Control System shall not be the sole cause for the establishment of a moratorium under this subchapter if all proceeds from the disposal of the confiscated ivory are used solely to enhance wildlife conservation programs or conservation purposes of CITES. With respect to any country that was not a party to CITES at the time of such confiscation, this subsection shall not apply until such country develops appropriate measures to assure that persons with a history of illegal dealings in ivory shall not benefit from the disposal of confiscated ivory.
 
-(Pub. L. 100–478, title II, § 2202, Oct. 7, 1988, 102 Stat. 2318.)
+(Pub. L. 100–478, title II, § 2202, Oct. 7, 1988, 102 Stat. 2318.)
 
-### § 4223. Prohibited acts
+### § 4223. Prohibited acts
 
 Except as provided in section 4222(e) of this title, it is unlawful for any person—
 
@@ -339,9 +339,9 @@ Except as provided in section 4222(e) of this title, it is unlawful for any pers
 
 **(5)** to import raw or worked ivory from a country for which a moratorium is in effect under section 4222 of this title.
 
-(Pub. L. 100–478, title II, § 2203, Oct. 7, 1988, 102 Stat. 2320.)
+(Pub. L. 100–478, title II, § 2203, Oct. 7, 1988, 102 Stat. 2320.)
 
-### § 4224. Penalties and enforcement
+### § 4224. Penalties and enforcement
 
 **(a) Criminal violations**
 
@@ -363,7 +363,7 @@ Subject to appropriations, penalties collected under this section may be used by
 
 The Secretary, the Secretary of the Treasury, and the Secretary of the department in which the Coast Guard is operating shall enforce this subchapter in the same manner such Secretaries carry out enforcement activities under section 1540(e) of this title. Section 1540(c) of this title shall apply to actions arising under this subchapter.
 
-(Pub. L. 100–478, title II, § 2204, Oct. 7, 1988, 102 Stat. 2320.)
+(Pub. L. 100–478, title II, § 2204, Oct. 7, 1988, 102 Stat. 2320.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -371,7 +371,7 @@ The Secretary, the Secretary of the Treasury, and the Secretary of the departmen
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 4225. Rewards
+### § 4225. Rewards
 
 **(a) In general**
 
@@ -385,35 +385,35 @@ The amount of a reward under this section shall be equal to not more than one-ha
 
 An officer or employee of the United States or of any State or local government who furnishes information or renders service in the performance of his or her official duties shall not be eligible for a reward under this section.
 
-(Pub. L. 100–478, title II, § 2205, Oct. 7, 1988, 102 Stat. 2320.)
+(Pub. L. 100–478, title II, § 2205, Oct. 7, 1988, 102 Stat. 2320.)
 
 ## SUBCHAPTER III—MISCELLANEOUS
 
-### § 4241. Relationship to Endangered Species Act of 1973
+### § 4241. Relationship to Endangered Species Act of 1973
 
 The authority of the Secretary under this chapter is in addition to and shall not affect the authority of the Secretary under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) or diminish the Secretary’s authority under the Lacey Act Amendments of 1981 (16 U.S.C. 3371 et seq.).
 
-(Pub. L. 100–478, title II, § 2302, Oct. 7, 1988, 102 Stat. 2321.)
+(Pub. L. 100–478, title II, § 2302, Oct. 7, 1988, 102 Stat. 2321.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Endangered Species Act of 1973, referred to in text, is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in text, is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The Lacey Act Amendments of 1981, referred to in text, is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to chapter 53 (§ 3371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
+The Lacey Act Amendments of 1981, referred to in text, is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to chapter 53 (§ 3371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
 
-### § 4242. Certification under Pelly amendment
+### § 4242. Certification under Pelly amendment
 
 If the Secretary finds in administering this chapter that a country does not adhere to the CITES Ivory Control System, that country is deemed, for purposes of section 1978(a)(2) of title 22, to be diminishing the effectiveness of an international program for endangered or threatened species.
 
-(Pub. L. 100–478, title II, § 2303, Oct. 7, 1988, 102 Stat. 2322.)
+(Pub. L. 100–478, title II, § 2303, Oct. 7, 1988, 102 Stat. 2322.)
 
-### § 4243. Repealed. Pub. L. 107–111, § 6(a)(3), Jan. 8, 2002, 115 Stat. 2096
+### § 4243. Repealed. Pub. L. 107–111, § 6(a)(3), Jan. 8, 2002, 115 Stat. 2096
 
-Section, Pub. L. 100–478, title II, § 2304, Oct. 7, 1988, 102 Stat. 2322, directed Secretary to determine within 3 months after the 8th Conference of the Parties to CITES whether the importation of illegally harvested ivory into the United States had been substantially stopped, and upon a determination that it had not been substantially stopped, to recommend to Congress necessary legislation or other actions to achieve the purposes of this chapter.
+Section, Pub. L. 100–478, title II, § 2304, Oct. 7, 1988, 102 Stat. 2322, directed Secretary to determine within 3 months after the 8th Conference of the Parties to CITES whether the importation of illegally harvested ivory into the United States had been substantially stopped, and upon a determination that it had not been substantially stopped, to recommend to Congress necessary legislation or other actions to achieve the purposes of this chapter.
 
-### § 4244. Definitions
+### § 4244. Definitions
 
 In this chapter—
 
@@ -443,21 +443,21 @@ In this chapter—
 
 **(13)** the term “worked ivory” means any African elephant tusk, and any piece thereof, which is not raw ivory.
 
-(Pub. L. 100–478, title II, § 2305, Oct. 7, 1988, 102 Stat. 2322; Pub. L. 107–111, § 6(a)(4), Jan. 8, 2002, 115 Stat. 2096.)
+(Pub. L. 100–478, title II, § 2305, Oct. 7, 1988, 102 Stat. 2322; Pub. L. 107–111, § 6(a)(4), Jan. 8, 2002, 115 Stat. 2096.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Division A, section 101(e), title I of Public Law 105–277, referred to in par. (4), is Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–232. Provisions under the heading “multinational species conservation fund” in Pub. L. 105–277, § 101(e) [title I] appear at 112 Stat. 2681–237, and are classified in part to section 4246 of this title.
+Division A, section 101(e), title I of Public Law 105–277, referred to in par. (4), is Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–232. Provisions under the heading “multinational species conservation fund” in Pub. L. 105–277, § 101(e) [title I] appear at 112 Stat. 2681–237, and are classified in part to section 4246 of this title.
 
-The Endangered Species Act of 1973, referred to in par. (5), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in par. (5), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 **Amendments**
 
-2002—Par. (4). Pub. L. 107–111 substituted “the account established by division A, section 101(e), title I of Public Law 105–277 under the heading ‘multinational species conservation fund’ ” for “the African Elephant Conservation Fund established by section 4212 of this title”.
+2002—Par. (4). Pub. L. 107–111 substituted “the account established by division A, section 101(e), title I of Public Law 105–277 under the heading ‘multinational species conservation fund’ ” for “the African Elephant Conservation Fund established by section 4212 of this title”.
 
-### § 4245. Authorization of appropriations
+### § 4245. Authorization of appropriations
 
 **(a) In general**
 
@@ -467,7 +467,7 @@ There is authorized to be appropriated to the Fund and to the Secretary a total 
 
 Of amounts available each fiscal year to carry out this chapter, the Secretary may expend not more than 3 percent or $100,000, whichever is greater, to pay the administrative expenses necessary to carry out this chapter.
 
-(Pub. L. 100–478, title II, § 2306, Oct. 7, 1988, 102 Stat. 2323; Pub. L. 102–440, title III, § 302, Oct. 23, 1992, 106 Stat. 2234; Pub. L. 105–217, § 2, Aug. 5, 1998, 112 Stat. 911; Pub. L. 107–111, §§ 2, 3, Jan. 8, 2002, 115 Stat. 2095; Pub. L. 107–141, § 5(b)(2)(B), Feb. 12, 2002, 116 Stat. 14; Pub. L. 110–132, § 2(b), (c), Dec. 6, 2007, 121 Stat. 1360; Pub. L. 116–9, title VII, § 7001(c)(1)(A), Mar. 12, 2019, 133 Stat. 784; Pub. L. 118–159, div. E, title LIII, § 5303(b), Dec. 23, 2024, 138 Stat. 2445.)
+(Pub. L. 100–478, title II, § 2306, Oct. 7, 1988, 102 Stat. 2323; Pub. L. 102–440, title III, § 302, Oct. 23, 1992, 106 Stat. 2234; Pub. L. 105–217, § 2, Aug. 5, 1998, 112 Stat. 911; Pub. L. 107–111, §§ 2, 3, Jan. 8, 2002, 115 Stat. 2095; Pub. L. 107–141, § 5(b)(2)(B), Feb. 12, 2002, 116 Stat. 14; Pub. L. 110–132, § 2(b), (c), Dec. 6, 2007, 121 Stat. 1360; Pub. L. 116–9, title VII, § 7001(c)(1)(A), Mar. 12, 2019, 133 Stat. 784; Pub. L. 118–159, div. E, title LIII, § 5303(b), Dec. 23, 2024, 138 Stat. 2445.)
 
 **Editorial Notes**
 
@@ -477,9 +477,9 @@ Of amounts available each fiscal year to carry out this chapter, the Secretary m
 
 2019—Subsec. (a). Pub. L. 116–9 substituted “2019 through 2023” for “2007 through 2012”.
 
-2007—Subsec. (a). Pub. L. 110–132, § 2(c), substituted “2007 through 2012” for “2001, 2002, 2003, 2004, 2005, 2006, and 2007”.
+2007—Subsec. (a). Pub. L. 110–132, § 2(c), substituted “2007 through 2012” for “2001, 2002, 2003, 2004, 2005, 2006, and 2007”.
 
-Subsec. (b). Pub. L. 110–132, § 2(b), substituted “$100,000” for “$80,000”.
+Subsec. (b). Pub. L. 110–132, § 2(b), substituted “$100,000” for “$80,000”.
 
 2002—Subsec. (b). Pub. L. 107–141 made technical amendment to reference in original act which appears in two places in text as reference to this chapter.
 
@@ -493,19 +493,19 @@ Pub. L. 107–111 designated existing provisions as subsec. (a), inserted headin
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–141, § 5(b)(2), Feb. 12, 2002, 116 Stat. 14, provided that the amendment by section 5(b)(2) of Pub. L. 107–141 is effective on the day after Jan. 8, 2002.
+Pub. L. 107–141, § 5(b)(2), Feb. 12, 2002, 116 Stat. 14, provided that the amendment by section 5(b)(2) of Pub. L. 107–141 is effective on the day after Jan. 8, 2002.
 
-### § 4246. Multinational Species Conservation Fund
+### § 4246. Multinational Species Conservation Fund
 
 In fiscal year 1999 and thereafter, donations to provide assistance under section 5304 of this title, part I of the African Elephant Conservation Act (16 U.S.C. 4211 et seq.), and section 4264 of this title shall be deposited to this Fund and shall be available without further appropriation: *Provided further*, That in fiscal year 1999 and thereafter, all penalties received by the United States under section 2204 of the African Elephant Conservation Act (16 U.S.C. 4224) which are not used to pay rewards under section 2205 of the African Elephant Conservation Act (16 U.S.C. 4225) shall be deposited to this Fund to provide assistance under section 2101 of the African Elephant Conservation Act (16 U.S.C. 4211) and shall be available without further appropriation: *Provided further*, That in fiscal year 1999 and thereafter, not more than three percent of amounts appropriated to this Fund may be used by the Secretary of the Interior to administer the Fund.
 
-(Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–237; Pub. L. 107–111, § 6(b), Jan. 8, 2002, 115 Stat. 2096; Pub. L. 107–112, § 6(b), Jan. 8, 2002, 115 Stat. 2098; Pub. L. 107–141, § 5(b)(1), Feb. 12, 2002, 116 Stat. 14.)
+(Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–237; Pub. L. 107–111, § 6(b), Jan. 8, 2002, 115 Stat. 2096; Pub. L. 107–112, § 6(b), Jan. 8, 2002, 115 Stat. 2098; Pub. L. 107–141, § 5(b)(1), Feb. 12, 2002, 116 Stat. 14.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The African Elephant Conservation Act, referred to in text, is title II of Pub. L. 100–478, Oct. 7, 1988, 102 Stat. 2315. Part I of the Act is classified generally to subchapter I (§ 4211 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4201 of this title and Tables.
+The African Elephant Conservation Act, referred to in text, is title II of Pub. L. 100–478, Oct. 7, 1988, 102 Stat. 2315. Part I of the Act is classified generally to subchapter I (§ 4211 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4201 of this title and Tables.
 
 **Codification**
 

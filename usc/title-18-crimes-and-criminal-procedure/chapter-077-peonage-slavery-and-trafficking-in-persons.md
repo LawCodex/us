@@ -23,29 +23,29 @@ It was felt that further revision of this chapter should be considered at an opp
 
 **Amendments**
 
-2018—Pub. L. 115–393, title II, § 201(b), Dec. 21, 2018, 132 Stat. 5267, added item 1595A.
+2018—Pub. L. 115–393, title II, § 201(b), Dec. 21, 2018, 132 Stat. 5267, added item 1595A.
 
-2013—Pub. L. 113–4, title XII, § 1211(c)(2), Mar. 7, 2013, 127 Stat. 143, added item 1597.
+2013—Pub. L. 113–4, title XII, § 1211(c)(2), Mar. 7, 2013, 127 Stat. 143, added item 1597.
 
-2008—Pub. L. 110–457, title II, §§ 222(d)(2), 223(b), Dec. 23, 2008, 122 Stat. 5070, 5072, added items 1593A and 1596.
+2008—Pub. L. 110–457, title II, §§ 222(d)(2), 223(b), Dec. 23, 2008, 122 Stat. 5070, 5072, added items 1593A and 1596.
 
-2003—Pub. L. 108–193, §§ 4(a)(4)(B), 5(c)(1), Dec. 19, 2003, 117 Stat. 2878, 2879, substituted “PEONAGE, SLAVERY, AND TRAFFICKING IN PERSONS” for “PEONAGE AND SLAVERY” as chapter heading and added item 1595.
+2003—Pub. L. 108–193, §§ 4(a)(4)(B), 5(c)(1), Dec. 19, 2003, 117 Stat. 2878, 2879, substituted “PEONAGE, SLAVERY, AND TRAFFICKING IN PERSONS” for “PEONAGE AND SLAVERY” as chapter heading and added item 1595.
 
-2000—Pub. L. 106–386, div. A, § 112(a)(3), Oct. 28, 2000, 114 Stat. 1489, added items 1589 to 1594.
+2000—Pub. L. 106–386, div. A, § 112(a)(3), Oct. 28, 2000, 114 Stat. 1489, added items 1589 to 1594.
 
-1949—Act May 24, 1949, ch. 139, § 36, 63 Stat. 95, substituted a semicolon for comma after “Peonage” in item 1581.
+1949—Act May 24, 1949, ch. 139, § 36, 63 Stat. 95, substituted a semicolon for comma after “Peonage” in item 1581.
 
-## § 1581. Peonage; obstructing enforcement
+## § 1581. Peonage; obstructing enforcement
 
 **(a)** Whoever holds or returns any person to a condition of peonage, or arrests any person with the intent of placing him in or returning him to a condition of peonage, shall be fined under this title or imprisoned not more than 20 years, or both. If death results from the violation of this section, or if the violation includes kidnapping or an attempt to kidnap, aggravated sexual abuse or the attempt to commit aggravated sexual abuse, or an attempt to kill, the defendant shall be fined under this title or imprisoned for any term of years or life, or both.
 
 **(b)** Whoever obstructs, or attempts to obstruct, or in any way interferes with or prevents the enforcement of this section, shall be liable to the penalties prescribed in subsection (a).
 
-(June 25, 1948, ch. 645, 62 Stat. 772; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title II, § 218(a), Sept. 30, 1996, 110 Stat. 3009–573; Pub. L. 106–386, div. A, § 112(a)(1), Oct. 28, 2000, 114 Stat. 1486.)
+(June 25, 1948, ch. 645, 62 Stat. 772; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title II, § 218(a), Sept. 30, 1996, 110 Stat. 3009–573; Pub. L. 106–386, div. A, § 112(a)(1), Oct. 28, 2000, 114 Stat. 1486.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 444, 445 (Mar. 4, 1909, ch. 321, §§ 269, 270, 35 Stat. 1142).
+Based on title 18, U.S.C., 1940 ed., §§ 444, 445 (Mar. 4, 1909, ch. 321, §§ 269, 270, 35 Stat. 1142).
 
 Section consolidates sections 444 and 445 of said title 18, U.S.C., 1940 ed., with changes in phraseology to amplify and clarify their provisions.
 
@@ -65,17 +65,17 @@ Reference to persons causing or procuring was omitted as unnecessary in view of 
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. C, title II, § 218(d), Sept. 30, 1996, 110 Stat. 3009–574, provided that: “This section [amending this section and sections 1583, 1584, and 1588 of this title and enacting provisions set out as notes under section 994 of Title 28, Judiciary and Judicial Procedure] and the amendments made by this section shall apply with respect to offenses occurring on or after the date of the enactment of this Act [Sept. 30, 1996].”
+Pub. L. 104–208, div. C, title II, § 218(d), Sept. 30, 1996, 110 Stat. 3009–574, provided that: “This section [amending this section and sections 1583, 1584, and 1588 of this title and enacting provisions set out as notes under section 994 of Title 28, Judiciary and Judicial Procedure] and the amendments made by this section shall apply with respect to offenses occurring on or after the date of the enactment of this Act [Sept. 30, 1996].”
 
-## § 1582. Vessels for slave trade
+## § 1582. Vessels for slave trade
 
 Whoever, whether as master, factor, or owner, builds, fits out, equips, loads, or otherwise prepares or sends away any vessel, in any port or place within the United States, or causes such vessel to sail from any such port or place, for the purpose of procuring any person from any foreign kingdom or country to be transported and held, sold, or otherwise disposed of as a slave, or held to service or labor, shall be fined under this title or imprisoned not more than seven years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 772; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 772; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 424 (Mar. 4, 1909, ch. 321, § 249, 35 Stat. 1139).
+Based on title 18, U.S.C., 1940 ed., § 424 (Mar. 4, 1909, ch. 321, § 249, 35 Stat. 1139).
 
 Words “within the United States” were substituted for “within the jurisdiction of the United States”. See section 5 of this title defining “United States”.
 
@@ -91,7 +91,7 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-## § 1583. Enticement into slavery
+## § 1583. Enticement into slavery
 
 **(a)** Whoever—
 
@@ -109,11 +109,11 @@ shall be fined under this title, imprisoned not more than 30 years, or both.
 
 **(2)** the violation includes kidnaping, an attempt to kidnap, aggravated sexual abuse, an attempt to commit aggravated sexual abuse, or an attempt to kill.
 
-(June 25, 1948, ch. 645, 62 Stat. 772; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title II, § 218(a), Sept. 30, 1996, 110 Stat. 3009–573; Pub. L. 106–386, div. A, § 112(a)(1), Oct. 28, 2000, 114 Stat. 1486; Pub. L. 110–457, title II, § 222(b)(1), Dec. 23, 2008, 122 Stat. 5067; Pub. L. 115–392, § 11(1)(A), Dec. 21, 2018, 132 Stat. 5255.)
+(June 25, 1948, ch. 645, 62 Stat. 772; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title II, § 218(a), Sept. 30, 1996, 110 Stat. 3009–573; Pub. L. 106–386, div. A, § 112(a)(1), Oct. 28, 2000, 114 Stat. 1486; Pub. L. 110–457, title II, § 222(b)(1), Dec. 23, 2008, 122 Stat. 5067; Pub. L. 115–392, § 11(1)(A), Dec. 21, 2018, 132 Stat. 5255.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 443 (Mar. 4, 1909, ch. 321, § 268, 35 Stat. 1141).
+Based on title 18, U.S.C., 1940 ed., § 443 (Mar. 4, 1909, ch. 321, § 268, 35 Stat. 1141).
 
 Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
 
@@ -139,17 +139,17 @@ Minor changes were made in paragraphing of section.
 
 Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, see section 218(d) of Pub. L. 104–208, set out as a note under section 1581 of this title.
 
-## § 1584. Sale into involuntary servitude
+## § 1584. Sale into involuntary servitude
 
 **(a)** Whoever knowingly and willfully holds to involuntary servitude or sells into any condition of involuntary servitude, any other person for any term, or brings within the United States any person so held, shall be fined under this title or imprisoned not more than 20 years, or both. If death results from the violation of this section, or if the violation includes kidnapping or an attempt to kidnap, aggravated sexual abuse or the attempt to commit aggravated sexual abuse, or an attempt to kill, the defendant shall be fined under this title or imprisoned for any term of years or life, or both.
 
 **(b)** Whoever obstructs, attempts to obstruct, or in any way interferes with or prevents the enforcement of this section, shall be subject to the penalties described in subsection (a).
 
-(June 25, 1948, ch. 645, 62 Stat. 773; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title II, § 218(a), Sept. 30, 1996, 110 Stat. 3009–573; Pub. L. 106–386, div. A, § 112(a)(1), Oct. 28, 2000, 114 Stat. 1486; Pub. L. 110–457, title II, § 222(b)(2), Dec. 23, 2008, 122 Stat. 5068.)
+(June 25, 1948, ch. 645, 62 Stat. 773; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title II, § 218(a), Sept. 30, 1996, 110 Stat. 3009–573; Pub. L. 106–386, div. A, § 112(a)(1), Oct. 28, 2000, 114 Stat. 1486; Pub. L. 110–457, title II, § 222(b)(2), Dec. 23, 2008, 122 Stat. 5068.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 423, 446 (Mar. 4, 1909, ch. 321, §§ 248, 271, 35 Stat. 1139, 1142).
+Based on title 18, U.S.C., 1940 ed., §§ 423, 446 (Mar. 4, 1909, ch. 321, §§ 248, 271, 35 Stat. 1139, 1142).
 
 Sections consolidated with changes of phraseology necessary to effect consolidation.
 
@@ -185,17 +185,17 @@ Minor changes were made in phraseology.
 
 Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, see section 218(d) of Pub. L. 104–208, set out as a note under section 1581 of this title.
 
-## § 1585. Seizure, detention, transportation or sale of slaves
+## § 1585. Seizure, detention, transportation or sale of slaves
 
 Whoever, being a citizen or resident of the United States and a member of the crew or ship’s company of any foreign vessel engaged in the slave trade, or whoever, being of the crew or ship’s company of any vessel owned in whole or in part, or navigated for, or in behalf of, any citizen of the United States, lands from such vessel, and on any foreign shore seizes any person with intent to make that person a slave, or decoys, or forcibly brings, carries, receives, confines, detains or transports any person as a slave on board such vessel, or, on board such vessel, offers or attempts to sell any such person as a slave, or on the high seas or anywhere on tide water, transfers or delivers to any other vessel any such person with intent to make such person a slave, or lands or delivers on shore from such vessel any person with intent to sell, or having previously sold, such person as a slave, shall be fined under this title or imprisoned not more than seven years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 773; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 773; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 421, 422, 425 (Mar. 4, 1909, ch. 321, §§ 246, 247, 250, 35 Stat. 1138, 1139).
+Based on title 18, U.S.C., 1940 ed., §§ 421, 422, 425 (Mar. 4, 1909, ch. 321, §§ 246, 247, 250, 35 Stat. 1138, 1139).
 
-Section consolidates and restores three basic sections (act May 25, 1820, ch. 113, §§ 4, 5, 3 Stat. 600, 601; act Apr. 20, 1818, ch. 91, § 4, 3 Stat. 451). As reenacted in the Revised Statutes, such sections were extended and broadened beyond such basic acts. The language at the beginning, “being a citizen or resident of the United States”, was inserted from said section 425 of title 18, U.S.C., 1940 ed., as enacted originally. While the basic provisions of said sections 421 and 422 are thus broadened, their application as enacted in the 1909 Criminal Code is narrowed.
+Section consolidates and restores three basic sections (act May 25, 1820, ch. 113, §§ 4, 5, 3 Stat. 600, 601; act Apr. 20, 1818, ch. 91, § 4, 3 Stat. 451). As reenacted in the Revised Statutes, such sections were extended and broadened beyond such basic acts. The language at the beginning, “being a citizen or resident of the United States”, was inserted from said section 425 of title 18, U.S.C., 1940 ed., as enacted originally. While the basic provisions of said sections 421 and 422 are thus broadened, their application as enacted in the 1909 Criminal Code is narrowed.
 
 Designation in said section 421 of title 18, U.S.C., 1940 ed., of offender as a “pirate” was omitted as unnecessary. The punishment provision of section 1582 of this title (incorporated by reference in said section 425) has been adopted as consistent with other slave-trade statutes rather than the life-imprisonment penalty contained in said sections 421 and 422 of title 18, U.S.C., 1940 ed. However, the requirement in section 1582 of this title that one-half the fine be for the “use of the person prosecuting the indictment to effect” was omitted as meaningless.
 
@@ -207,15 +207,15 @@ Mandatory-punishment provisions were rephrased in the alternative.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-## § 1586. Service on vessels in slave trade
+## § 1586. Service on vessels in slave trade
 
 Whoever, being a citizen or resident of the United States, voluntarily serves on board of any vessel employed or made use of in the transportation of slaves from any foreign country or place to another, shall be fined under this title or imprisoned not more than two years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 773; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 773; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 427 (Mar. 4, 1909, ch. 321, § 252, 35 Stat. 1139).
+Based on title 18, U.S.C., 1940 ed., § 427 (Mar. 4, 1909, ch. 321, § 252, 35 Stat. 1139).
 
 Mandatory-punishment provisions were rephrased in the alternative.
 
@@ -225,15 +225,15 @@ Mandatory-punishment provisions were rephrased in the alternative.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000”.
 
-## § 1587. Possession of slaves aboard vessel
+## § 1587. Possession of slaves aboard vessel
 
 Whoever, being the captain, master, or commander of any vessel found in any river, port, bay, harbor, or on the high seas within the jurisdiction of the United States, or hovering off the coast thereof, and having on board any person for the purpose of selling such person as a slave, or with intent to land such person for such purpose, shall be fined under this title or imprisoned not more than 10 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 773; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 115–392, § 11(1)(B), Dec. 21, 2018, 132 Stat. 5255.)
+(June 25, 1948, ch. 645, 62 Stat. 773; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 115–392, § 11(1)(B), Dec. 21, 2018, 132 Stat. 5255.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 426 (Mar. 4, 1909, ch. 321, § 251, 35 Stat. 1139).
+Based on title 18, U.S.C., 1940 ed., § 426 (Mar. 4, 1909, ch. 321, § 251, 35 Stat. 1139).
 
 Mandatory-punishment provisions were rephrased in the alternative.
 
@@ -247,15 +247,15 @@ Minor change was made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-## § 1588. Transportation of slaves from United States
+## § 1588. Transportation of slaves from United States
 
 Whoever, being the master or owner or person having charge of any vessel, receives on board any other person with the knowledge or intent that such person is to be carried from any place within the United States to any other place to be held or sold as a slave, or carries away from any place within the United States any such person with the intent that he may be so held or sold as a slave, shall be fined under this title or imprisoned not more than 10 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 773; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title II, § 218(a), Sept. 30, 1996, 110 Stat. 3009–573.)
+(June 25, 1948, ch. 645, 62 Stat. 773; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title II, § 218(a), Sept. 30, 1996, 110 Stat. 3009–573.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 428 (Mar. 4, 1909, ch. 321, § 253, 35 Stat. 1139).
+Based on title 18, U.S.C., 1940 ed., § 428 (Mar. 4, 1909, ch. 321, § 253, 35 Stat. 1139).
 
 Words “subject to the jurisdiction of” which appeared twice in this section were omitted and “within” substituted, in view of section 5 of this title defining “United States”.
 
@@ -273,7 +273,7 @@ Words “subject to the jurisdiction of” which appeared twice in this section 
 
 Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, see section 218(d) of Pub. L. 104–208, set out as a note under section 1581 of this title.
 
-## § 1589. Forced labor
+## § 1589. Forced labor
 
 **(a)** Whoever knowingly provides or obtains the labor or services of a person by any one of, or by any combination of, the following means—
 
@@ -297,7 +297,7 @@ shall be punished as provided under subsection (d).
 
 **(d)** Whoever violates this section shall be fined under this title, imprisoned not more than 20 years, or both. If death results from a violation of this section, or if the violation includes kidnaping, an attempt to kidnap, aggravated sexual abuse, or an attempt to kill, the defendant shall be fined under this title, imprisoned for any term of years or life, or both.
 
-(Added Pub. L. 106–386, div. A, § 112(a)(2), Oct. 28, 2000, 114 Stat. 1486; amended Pub. L. 110–457, title II, § 222(b)(3), Dec. 23, 2008, 122 Stat. 5068.)
+(Added Pub. L. 106–386, div. A, § 112(a)(2), Oct. 28, 2000, 114 Stat. 1486; amended Pub. L. 110–457, title II, § 222(b)(3), Dec. 23, 2008, 122 Stat. 5068.)
 
 **Editorial Notes**
 
@@ -305,13 +305,13 @@ shall be punished as provided under subsection (d).
 
 2008—Pub. L. 110–457 amended section generally. Prior to amendment, section provided penalties for knowingly providing or obtaining forced labor.
 
-## § 1590. Trafficking with respect to peonage, slavery, involuntary servitude, or forced labor
+## § 1590. Trafficking with respect to peonage, slavery, involuntary servitude, or forced labor
 
 **(a)** Whoever knowingly recruits, harbors, transports, provides, or obtains by any means, any person for labor or services in violation of this chapter shall be fined under this title or imprisoned not more than 20 years, or both. If death results from the violation of this section, or if the violation includes kidnapping or an attempt to kidnap, aggravated sexual abuse, or the attempt to commit aggravated sexual abuse, or an attempt to kill, the defendant shall be fined under this title or imprisoned for any term of years or life, or both.
 
 **(b)** Whoever obstructs, attempts to obstruct, or in any way interferes with or prevents the enforcement of this section, shall be subject to the penalties under subsection (a).
 
-(Added Pub. L. 106–386, div. A, § 112(a)(2), Oct. 28, 2000, 114 Stat. 1487; amended Pub. L. 110–457, title II, § 222(b)(4), Dec. 23, 2008, 122 Stat. 5069.)
+(Added Pub. L. 106–386, div. A, § 112(a)(2), Oct. 28, 2000, 114 Stat. 1487; amended Pub. L. 110–457, title II, § 222(b)(4), Dec. 23, 2008, 122 Stat. 5069.)
 
 **Editorial Notes**
 
@@ -319,7 +319,7 @@ shall be punished as provided under subsection (d).
 
 2008—Pub. L. 110–457 designated existing provisions as subsec. (a) and added subsec. (b).
 
-## § 1591. Sex trafficking of children or by force, fraud, or coercion
+## § 1591. Sex trafficking of children or by force, fraud, or coercion
 
 **(a)** Whoever knowingly—
 
@@ -359,7 +359,7 @@ knowing, or, except where the act constituting the violation of paragraph (1) is
 
 **(6)** The term “venture” means any group of two or more individuals associated in fact, whether or not a legal entity.
 
-(Added Pub. L. 106–386, div. A, § 112(a)(2), Oct. 28, 2000, 114 Stat. 1487; amended Pub. L. 108–21, title I, § 103(a)(3), Apr. 30, 2003, 117 Stat. 653; Pub. L. 108–193, § 5(a), Dec. 19, 2003, 117 Stat. 2879; Pub. L. 109–248, title II, § 208, July 27, 2006, 120 Stat. 615; Pub. L. 110–457, title II, § 222(b)(5), Dec. 23, 2008, 122 Stat. 5069; Pub. L. 114–22, title I, §§ 108(a), 118(b), May 29, 2015, 129 Stat. 238, 247; Pub. L. 115–164, § 5, Apr. 11, 2018, 132 Stat. 1255; Pub. L. 115–392, § 11(1)(C), Dec. 21, 2018, 132 Stat. 5255.)
+(Added Pub. L. 106–386, div. A, § 112(a)(2), Oct. 28, 2000, 114 Stat. 1487; amended Pub. L. 108–21, title I, § 103(a)(3), Apr. 30, 2003, 117 Stat. 653; Pub. L. 108–193, § 5(a), Dec. 19, 2003, 117 Stat. 2879; Pub. L. 109–248, title II, § 208, July 27, 2006, 120 Stat. 615; Pub. L. 110–457, title II, § 222(b)(5), Dec. 23, 2008, 122 Stat. 5069; Pub. L. 114–22, title I, §§ 108(a), 118(b), May 29, 2015, 129 Stat. 238, 247; Pub. L. 115–164, § 5, Apr. 11, 2018, 132 Stat. 1255; Pub. L. 115–392, § 11(1)(C), Dec. 21, 2018, 132 Stat. 5255.)
 
 **Editorial Notes**
 
@@ -369,43 +369,43 @@ knowing, or, except where the act constituting the violation of paragraph (1) is
 
 Subsec. (e)(4) to (6). Pub. L. 115–164 added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
-2015—Subsec. (a). Pub. L. 114–22, § 118(b)(2), inserted “, except where the act constituting the violation of paragraph (1) is advertising,” after “knowing, or” in concluding provisions.
+2015—Subsec. (a). Pub. L. 114–22, § 118(b)(2), inserted “, except where the act constituting the violation of paragraph (1) is advertising,” after “knowing, or” in concluding provisions.
 
-Subsec. (a)(1). Pub. L. 114–22, § 118(b)(1), inserted “advertises,” after “obtains,”.
+Subsec. (a)(1). Pub. L. 114–22, § 118(b)(1), inserted “advertises,” after “obtains,”.
 
-Pub. L. 114–22, § 108(a)(1), substituted “maintains, patronizes, or solicits” for “or maintains”.
+Pub. L. 114–22, § 108(a)(1), substituted “maintains, patronizes, or solicits” for “or maintains”.
 
-Subsec. (b)(1). Pub. L. 114–22, § 118(b)(3)(A), inserted “advertised,” after “obtained,”.
+Subsec. (b)(1). Pub. L. 114–22, § 118(b)(3)(A), inserted “advertised,” after “obtained,”.
 
-Pub. L. 114–22, § 108(a)(2)(A), substituted “obtained, patronized, or solicited” for “or obtained”.
+Pub. L. 114–22, § 108(a)(2)(A), substituted “obtained, patronized, or solicited” for “or obtained”.
 
-Subsec. (b)(2). Pub. L. 114–22, § 118(b)(3)(B), inserted “advertised,” after “obtained,”.
+Subsec. (b)(2). Pub. L. 114–22, § 118(b)(3)(B), inserted “advertised,” after “obtained,”.
 
-Pub. L. 114–22, § 108(a)(2)(B), substituted “obtained, patronized, or solicited” for “or obtained”.
+Pub. L. 114–22, § 108(a)(2)(B), substituted “obtained, patronized, or solicited” for “or obtained”.
 
-Subsec. (c). Pub. L. 114–22, § 108(a)(3), substituted “, maintained, patronized, or solicited” for “or maintained” and “knew, or recklessly disregarded the fact, that the person” for “knew that the person”.
+Subsec. (c). Pub. L. 114–22, § 108(a)(3), substituted “, maintained, patronized, or solicited” for “or maintained” and “knew, or recklessly disregarded the fact, that the person” for “knew that the person”.
 
-2008—Subsec. (a). Pub. L. 110–457, § 222(b)(5)(A)(ii), substituted “, or in reckless disregard of the fact, that means of force, threats of force, fraud, coercion described in subsection (e)(2), or any combination of such means” for “that force, fraud, or coercion described in subsection (c)(2)” in concluding provisions.
+2008—Subsec. (a). Pub. L. 110–457, § 222(b)(5)(A)(ii), substituted “, or in reckless disregard of the fact, that means of force, threats of force, fraud, coercion described in subsection (e)(2), or any combination of such means” for “that force, fraud, or coercion described in subsection (c)(2)” in concluding provisions.
 
-Subsec. (a)(1). Pub. L. 110–457, § 222(b)(5)(A)(i), substituted “obtains, or maintains” for “or obtains”.
+Subsec. (a)(1). Pub. L. 110–457, § 222(b)(5)(A)(i), substituted “obtains, or maintains” for “or obtains”.
 
-Subsec. (b)(1). Pub. L. 110–457, § 222(b)(5)(C), substituted “means of force, threats of force, fraud, or coercion described in subsection (e)(2), or by any combination of such means,” for “force, fraud, or coercion”.
+Subsec. (b)(1). Pub. L. 110–457, § 222(b)(5)(C), substituted “means of force, threats of force, fraud, or coercion described in subsection (e)(2), or by any combination of such means,” for “force, fraud, or coercion”.
 
-Subsecs. (c), (d). Pub. L. 110–457, § 222(b)(5)(D), added subsecs. (c) and (d). Former subsec. (c) redesignated (e).
+Subsecs. (c), (d). Pub. L. 110–457, § 222(b)(5)(D), added subsecs. (c) and (d). Former subsec. (c) redesignated (e).
 
-Subsec. (e). Pub. L. 110–457, § 222(b)(5)(B), (E), redesignated subsec. (c) as (e), added pars. (1) and (4), and redesignated former pars. (1) and (3) as (3) and (5), respectively.
+Subsec. (e). Pub. L. 110–457, § 222(b)(5)(B), (E), redesignated subsec. (c) as (e), added pars. (1) and (4), and redesignated former pars. (1) and (3) as (3) and (5), respectively.
 
-2006—Subsec. (b)(1). Pub. L. 109–248, § 208(1), substituted “and imprisonment for any term of years not less than 15 or for life” for “or imprisonment for any term of years or for life, or both”.
+2006—Subsec. (b)(1). Pub. L. 109–248, § 208(1), substituted “and imprisonment for any term of years not less than 15 or for life” for “or imprisonment for any term of years or for life, or both”.
 
-Subsec. (b)(2). Pub. L. 109–248, § 208(2)(B), which directed amendment of subsec. (b)(2) by striking out “, or both”, could not be executed because that language did not appear in text subsequent to amendment by Pub. L. 109–248, § 208(2)(A). See below.
+Subsec. (b)(2). Pub. L. 109–248, § 208(2)(B), which directed amendment of subsec. (b)(2) by striking out “, or both”, could not be executed because that language did not appear in text subsequent to amendment by Pub. L. 109–248, § 208(2)(A). See below.
 
-Pub. L. 109–248, § 208(2)(A), substituted “and imprisonment for not less than 10 years or for life” for “or imprisonment for not more than 40 years, or both”.
+Pub. L. 109–248, § 208(2)(A), substituted “and imprisonment for not less than 10 years or for life” for “or imprisonment for not more than 40 years, or both”.
 
-2003—Pub. L. 108–193, § 5(a)(1), inserted comma after “fraud” in section catchline.
+2003—Pub. L. 108–193, § 5(a)(1), inserted comma after “fraud” in section catchline.
 
-Subsec. (a)(1). Pub. L. 108–193, § 5(a)(2), substituted “in or affecting interstate or foreign commerce, or within the special maritime and territorial jurisdiction of the United States” for “in or affecting interstate commerce”.
+Subsec. (a)(1). Pub. L. 108–193, § 5(a)(2), substituted “in or affecting interstate or foreign commerce, or within the special maritime and territorial jurisdiction of the United States” for “in or affecting interstate commerce”.
 
-Subsec. (b). Pub. L. 108–193, § 5(a)(3), substituted “the person recruited, enticed, harbored, transported, provided, or obtained” for “the person transported” in pars. (1) and (2).
+Subsec. (b). Pub. L. 108–193, § 5(a)(3), substituted “the person recruited, enticed, harbored, transported, provided, or obtained” for “the person transported” in pars. (1) and (2).
 
 Subsec. (b)(2). Pub. L. 108–21 substituted “40” for “20”.
 
@@ -413,15 +413,15 @@ Subsec. (b)(2). Pub. L. 108–21 substituted “40” for “20”.
 
 **Purpose**
 
-Pub. L. 114–22, title I, § 108(c), May 29, 2015, 129 Stat. 239, provided that: “The purpose of the amendments made by this section [amending this section and section 7102 of Title 22, Foreign Relations and Intercourse] is to clarify the range of conduct punished as sex trafficking.”
+Pub. L. 114–22, title I, § 108(c), May 29, 2015, 129 Stat. 239, provided that: “The purpose of the amendments made by this section [amending this section and section 7102 of Title 22, Foreign Relations and Intercourse] is to clarify the range of conduct punished as sex trafficking.”
 
 **Sense of Congress**
 
-Pub. L. 114–22, title I, § 109, May 29, 2015, 129 Stat. 239, provided that:
+Pub. L. 114–22, title I, § 109, May 29, 2015, 129 Stat. 239, provided that:
 
 > “It is the sense of Congress that—
 
-> **“(1)** section 1591 of title 18, United States Code, defines a sex trafficker as a person who ‘knowingly. . .recruits, entices, harbors, transports, provides, obtains, or maintains by any means a person. . .knowing, or in reckless disregard of the fact, that means of force, threats of force, fraud, coercion. . .or any combination of such means will be used to cause the person to engage in a commercial sex act, or that the person has not attained the age of 18 years and will be caused to engage in a commercial sex act’;
+> **“(1)** section 1591 of title 18, United States Code, defines a sex trafficker as a person who ‘knowingly. . .recruits, entices, harbors, transports, provides, obtains, or maintains by any means a person. . .knowing, or in reckless disregard of the fact, that means of force, threats of force, fraud, coercion. . .or any combination of such means will be used to cause the person to engage in a commercial sex act, or that the person has not attained the age of 18 years and will be caused to engage in a commercial sex act’;
 
 > **“(2)** while use of the word ‘obtains’ in section 1591 [of title 18], United States Code, has been interpreted, prior to the date of enactment of this Act [May 29, 2015], to encompass those who purchase illicit sexual acts from trafficking victims, some confusion persists;
 
@@ -429,7 +429,7 @@ Pub. L. 114–22, title I, § 109, May 29, 2015, 129 Stat. 239, provided that:
 
 > **“(4)** section 108 of this title [title I of Pub. L. 114–22] amends section 1591 of title 18, United States Code, to add the words ‘solicits or patronizes’ to the sex trafficking statute making absolutely clear for judges, juries, prosecutors, and law enforcement officials that criminals who purchase sexual acts from human trafficking victims may be arrested, prosecuted, and convicted as sex trafficking offenders when this is merited by the facts of a particular case.”
 
-## § 1592. Unlawful conduct with respect to documents in furtherance of trafficking, peonage, slavery, involuntary servitude, or forced labor
+## § 1592. Unlawful conduct with respect to documents in furtherance of trafficking, peonage, slavery, involuntary servitude, or forced labor
 
 **(a)** Whoever knowingly destroys, conceals, removes, confiscates, or possesses any actual or purported passport or other immigration document, or any other actual or purported government identification document, of another person—
 
@@ -445,7 +445,7 @@ shall be fined under this title or imprisoned for not more than 5 years, or both
 
 **(c)** Whoever obstructs, attempts to obstruct, or in any way interferes with or prevents the enforcement of this section, shall be subject to the penalties described in subsection (a).
 
-(Added Pub. L. 106–386, div. A, § 112(a)(2), Oct. 28, 2000, 114 Stat. 1488; amended Pub. L. 110–457, title II, § 222(b)(6), Dec. 23, 2008, 122 Stat. 5070.)
+(Added Pub. L. 106–386, div. A, § 112(a)(2), Oct. 28, 2000, 114 Stat. 1488; amended Pub. L. 110–457, title II, § 222(b)(6), Dec. 23, 2008, 122 Stat. 5070.)
 
 **Editorial Notes**
 
@@ -457,7 +457,7 @@ Section 103 of the Trafficking Victims Protection Act of 2000, referred to in su
 
 2008—Subsec. (c). Pub. L. 110–457 added subsec. (c).
 
-## § 1593. Mandatory restitution
+## § 1593. Mandatory restitution
 
 **(a)** Notwithstanding section 3663 or 3663A, and in addition to any other civil or criminal penalties authorized by law, the court shall order restitution for any offense under this chapter.
 
@@ -473,13 +473,13 @@ Section 103 of the Trafficking Victims Protection Act of 2000, referred to in su
 
 **(c)** As used in this section, the term “victim” means the individual harmed as a result of a crime under this chapter, including, in the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim or a representative of the victim’s estate, or another family member, or any other person appointed as suitable by the court, but in no event shall the defendant be named such representative or guardian.
 
-(Added Pub. L. 106–386, div. A, § 112(a)(2), Oct. 28, 2000, 114 Stat. 1488; amended Pub. L. 110–457, title II, § 221(1), Dec. 23, 2008, 122 Stat. 5067; Pub. L. 115–299, § 3(c), Dec. 7, 2018, 132 Stat. 4385.)
+(Added Pub. L. 106–386, div. A, § 112(a)(2), Oct. 28, 2000, 114 Stat. 1488; amended Pub. L. 110–457, title II, § 221(1), Dec. 23, 2008, 122 Stat. 5067; Pub. L. 115–299, § 3(c), Dec. 7, 2018, 132 Stat. 4385.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Fair Labor Standards Act, referred to in subsec. (b)(3), probably means the Fair Labor Standards Act of 1938, act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The Fair Labor Standards Act, referred to in subsec. (b)(3), probably means the Fair Labor Standards Act of 1938, act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
 **Amendments**
 
@@ -487,11 +487,11 @@ The Fair Labor Standards Act, referred to in subsec. (b)(3), probably means the 
 
 2008—Subsec. (b)(4). Pub. L. 110–457 added par. (4).
 
-## § 1593A. Benefitting financially from peonage, slavery, and trafficking in persons
+## § 1593A. Benefitting financially from peonage, slavery, and trafficking in persons
 
 Whoever knowingly benefits, financially or by receiving anything of value, from participation in a venture which has engaged in any act in violation of this chapter, knowing or in reckless disregard of the fact that the venture has engaged in such violation, shall be fined under this title or imprisoned in the same manner as a completed violation of such section.
 
-(Added Pub. L. 110–457, title II, § 222(d)(1), Dec. 23, 2008, 122 Stat. 5070; amended Pub. L. 115–393, title III, § 303(c), Dec. 21, 2018, 132 Stat. 5273.)
+(Added Pub. L. 110–457, title II, § 222(d)(1), Dec. 23, 2008, 122 Stat. 5070; amended Pub. L. 115–393, title III, § 303(c), Dec. 21, 2018, 132 Stat. 5273.)
 
 **Editorial Notes**
 
@@ -499,7 +499,7 @@ Whoever knowingly benefits, financially or by receiving anything of value, from 
 
 2018—Pub. L. 115–393 substituted “this chapter” for “section 1581(a), 1592, or 1595(a)”.
 
-## § 1594. General provisions
+## § 1594. General provisions
 
 **(a)** Whoever attempts to violate section 1581, 1583, 1584, 1589, 1590, or 1591 shall be punishable in the same manner as a completed violation of that section.
 
@@ -533,23 +533,23 @@ Whoever knowingly benefits, financially or by receiving anything of value, from 
 
 **(g) Witness Protection.—** Any violation of this chapter shall be considered an organized criminal activity or other serious offense for the purposes of application of chapter 224 (relating to witness protection).
 
-(Added Pub. L. 106–386, div. A, § 112(a)(2), Oct. 28, 2000, 114 Stat. 1489; amended Pub. L. 110–457, title II, § 222(c), Dec. 23, 2008, 122 Stat. 5070; Pub. L. 114–22, title I, § 105(a), May 29, 2015, 129 Stat. 236.)
+(Added Pub. L. 106–386, div. A, § 112(a)(2), Oct. 28, 2000, 114 Stat. 1489; amended Pub. L. 110–457, title II, § 222(c), Dec. 23, 2008, 122 Stat. 5070; Pub. L. 114–22, title I, § 105(a), May 29, 2015, 129 Stat. 236.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2015—Subsec. (d)(1). Pub. L. 114–22, § 105(a)(1)(A), substituted “that was involved in, used, or” for “that was used or” and inserted “, and any property traceable to such property” after “such violation”.
+2015—Subsec. (d)(1). Pub. L. 114–22, § 105(a)(1)(A), substituted “that was involved in, used, or” for “that was used or” and inserted “, and any property traceable to such property” after “such violation”.
 
-Subsec. (d)(2). Pub. L. 114–22, § 105(a)(1)(B), inserted “, or any property traceable to such property” after “such violation”.
+Subsec. (d)(2). Pub. L. 114–22, § 105(a)(1)(B), inserted “, or any property traceable to such property” after “such violation”.
 
-Subsec. (e)(1)(A). Pub. L. 114–22, § 105(a)(2), substituted “involved in, used, or” for “used or” and inserted “, and any property traceable to such property” after “any violation of this chapter”.
+Subsec. (e)(1)(A). Pub. L. 114–22, § 105(a)(2), substituted “involved in, used, or” for “used or” and inserted “, and any property traceable to such property” after “any violation of this chapter”.
 
-Subsecs. (f), (g). Pub. L. 114–22, § 105(a)(3), (4), added subsec. (f) and redesignated former subsec. (f) as (g).
+Subsecs. (f), (g). Pub. L. 114–22, § 105(a)(3), (4), added subsec. (f) and redesignated former subsec. (f) as (g).
 
 2008—Subsecs. (b) to (f). Pub. L. 110–457 added subsecs. (b) and (c) and redesignated former subsecs. (b) to (d) as (d) to (f), respectively.
 
-## § 1595. Civil remedy
+## § 1595. Civil remedy
 
 **(a)** An individual who is a victim of a violation of this chapter may bring a civil action against the perpetrator (or whoever knowingly benefits, or attempts or conspires to benefit, financially or by receiving anything of value from participation in a venture which that person knew or should have known has engaged in an act in violation of this chapter) in an appropriate district court of the United States and may recover damages and reasonable attorneys fees.
 
@@ -567,7 +567,7 @@ Subsecs. (f), (g). Pub. L. 114–22, § 105(a)(3), (4), added subsec. (f) and 
 
 **(d)** In any case in which the attorney general of a State has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by any person who violates section 1591, the attorney general of the State, as parens patriae, may bring a civil action against such person on behalf of the residents of the State in an appropriate district court of the United States to obtain appropriate relief.
 
-(Added Pub. L. 108–193, § 4(a)(4)(A), Dec. 19, 2003, 117 Stat. 2878; amended Pub. L. 110–457, title II, § 221(2), Dec. 23, 2008, 122 Stat. 5067; Pub. L. 114–22, title I, § 120, May 29, 2015, 129 Stat. 247; Pub. L. 115–164, § 6, Apr. 11, 2018, 132 Stat. 1255; Pub. L. 117–347, title I, § 102, Jan. 5, 2023, 136 Stat. 6200.)
+(Added Pub. L. 108–193, § 4(a)(4)(A), Dec. 19, 2003, 117 Stat. 2878; amended Pub. L. 110–457, title II, § 221(2), Dec. 23, 2008, 122 Stat. 5067; Pub. L. 114–22, title I, § 120, May 29, 2015, 129 Stat. 247; Pub. L. 115–164, § 6, Apr. 11, 2018, 132 Stat. 1255; Pub. L. 117–347, title I, § 102, Jan. 5, 2023, 136 Stat. 6200.)
 
 **Editorial Notes**
 
@@ -575,17 +575,17 @@ Subsecs. (f), (g). Pub. L. 114–22, § 105(a)(3), (4), added subsec. (f) and 
 
 2023—Subsec. (a). Pub. L. 117–347 inserted “or attempts or conspires to benefit,” after “whoever knowingly benefits,”.
 
-2018—Subsecs. (b)(1), (c). Pub. L. 115–164, § 6(b), substituted “subsection (a)” for “this section”.
+2018—Subsecs. (b)(1), (c). Pub. L. 115–164, § 6(b), substituted “subsection (a)” for “this section”.
 
-Subsec. (d). Pub. L. 115–164, § 6(a), added subsec. (d).
+Subsec. (d). Pub. L. 115–164, § 6(a), added subsec. (d).
 
 2015—Subsec. (c). Pub. L. 114–22 substituted “not later than the later of—” for “not later than 10 years after the cause of action arose.” and added pars. (1) and (2).
 
-2008—Subsec. (a). Pub. L. 110–457, § 221(2)(A), struck out “of section 1589, 1590, or 1591” after “victim of a violation” and inserted “(or whoever knowingly benefits, financially or by receiving anything of value from participation in a venture which that person knew or should have known has engaged in an act in violation of this chapter)” after “perpetrator”.
+2008—Subsec. (a). Pub. L. 110–457, § 221(2)(A), struck out “of section 1589, 1590, or 1591” after “victim of a violation” and inserted “(or whoever knowingly benefits, financially or by receiving anything of value from participation in a venture which that person knew or should have known has engaged in an act in violation of this chapter)” after “perpetrator”.
 
-Subsec. (c). Pub. L. 110–457, § 221(2)(B), added subsec. (c).
+Subsec. (c). Pub. L. 110–457, § 221(2)(B), added subsec. (c).
 
-## § 1595A. Civil injunctions
+## § 1595A. Civil injunctions
 
 **(a) In General.—** Whenever it shall appear that any person is engaged or is about to engage in any act that constitutes or will constitute a violation of this chapter, chapter 110, or chapter 117, or a conspiracy under section 371 to commit a violation of this chapter, chapter 110, or chapter 117, the Attorney General may bring a civil action in a district court of the United States seeking an order to enjoin such act.
 
@@ -603,7 +603,7 @@ Subsec. (c). Pub. L. 110–457, § 221(2)(B), added subsec. (c).
 
 **(d) Rule of Construction.—** Nothing in this section shall be construed or applied so as to abridge the exercise of rights guaranteed under the First Amendment to the Constitution of the United States.
 
-(Added Pub. L. 115–393, title II, § 201(a), Dec. 21, 2018, 132 Stat. 5266.)
+(Added Pub. L. 115–393, title II, § 201(a), Dec. 21, 2018, 132 Stat. 5266.)
 
 **Editorial Notes**
 
@@ -613,7 +613,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (c)(1), are set out
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (c)(1), are set out in the Appendix to this title.
 
-## § 1596. Additional jurisdiction in certain trafficking offenses
+## § 1596. Additional jurisdiction in certain trafficking offenses
 
 **(a) In General.—** In addition to any domestic or extra-territorial jurisdiction otherwise provided by law, the courts of the United States have extra-territorial jurisdiction over any offense (or any attempt or conspiracy to commit an offense) under section 1581, 1583, 1584, 1589, 1590, or 1591 if—
 
@@ -623,9 +623,9 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (c)(1), are set 
 
 **(b) Limitation on Prosecutions of Offenses Prosecuted in Other Countries.—** No prosecution may be commenced against a person under this section if a foreign government, in accordance with jurisdiction recognized by the United States, has prosecuted or is prosecuting such person for the conduct constituting such offense, except upon the approval of the Attorney General or the Deputy Attorney General (or a person acting in either such capacity), which function of approval may not be delegated.
 
-(Added Pub. L. 110–457, title II, § 223(a), Dec. 23, 2008, 122 Stat. 5071.)
+(Added Pub. L. 110–457, title II, § 223(a), Dec. 23, 2008, 122 Stat. 5071.)
 
-## § 1597. Unlawful conduct with respect to immigration documents
+## § 1597. Unlawful conduct with respect to immigration documents
 
 **(a) Destruction, Concealment, Removal, Confiscation, or Possession of Immigration Documents.—** It shall be unlawful for any person to knowingly destroy, conceal, remove, confiscate, or possess, an actual or purported passport or other immigration document of another individual—
 
@@ -639,4 +639,4 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (c)(1), are set 
 
 **(c) Obstruction.—** Any person who knowingly obstructs, attempts to obstruct, or in any way interferes with or prevents the enforcement of this section, shall be subject to the penalties described in subsection (b).
 
-(Added Pub. L. 113–4, title XII, § 1211(c)(1), Mar. 7, 2013, 127 Stat. 142.)
+(Added Pub. L. 113–4, title XII, § 1211(c)(1), Mar. 7, 2013, 127 Stat. 142.)

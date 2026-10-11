@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2017—Pub. L. 115–91, div. A, title X, § 1097(e)(2), Dec. 12, 2017, 131 Stat. 1622, added item 7515 and struck out former item 7515 “Discipline of supervisors based on retaliation against whistleblowers”. Item was added to and stricken from analysis for this chapter, notwithstanding directory language adding item to, and striking item from, analysis for subchapter II of this chapter.
+2017—Pub. L. 115–91, div. A, title X, § 1097(e)(2), Dec. 12, 2017, 131 Stat. 1622, added item 7515 and struck out former item 7515 “Discipline of supervisors based on retaliation against whistleblowers”. Item was added to and stricken from analysis for this chapter, notwithstanding directory language adding item to, and striking item from, analysis for subchapter II of this chapter.
 
-Pub. L. 115–73, title I, § 104(b), Oct. 26, 2017, 131 Stat. 1238, added item 7515. Item was added to analysis for this chapter, notwithstanding directory language adding item to analysis for subchapter II of this chapter.
+Pub. L. 115–73, title I, § 104(b), Oct. 26, 2017, 131 Stat. 1238, added item 7515. Item was added to analysis for this chapter, notwithstanding directory language adding item to analysis for subchapter II of this chapter.
 
-1978—Pub. L. 95–454, title II, § 204(b), title IV, § 411(1), Oct. 13, 1978, 92 Stat. 1137, 1173, substituted “SUSPENSION OF 14 DAYS OR LESS” for “COMPETITIVE SERVICE” in subchapter I heading, substituted “Definitions” for “Cause; procedure; exception” in item 7501, added items 7502 to 7504, substituted “REMOVAL, SUSPENSION FOR MORE THAN 14 DAYS, REDUCTION IN GRADE OR PAY, OR FURLOUGH FOR 30 DAYS OR LESS” for “PREFERENCE ELIGIBLES” in subchapter II heading, inserted “; application” in item 7511, substituted “Actions covered” for “Cause; procedure; exception” in item 7512, added items 7513 and 7514, substituted “ADMINISTRATIVE LAW JUDGES” for “HEARING EXAMINERS” in subchapter III heading, substituted “Actions against administrative law judges” for “Removal” in item 7521, and added subchapter V heading and items 7541 to 7543.
+1978—Pub. L. 95–454, title II, § 204(b), title IV, § 411(1), Oct. 13, 1978, 92 Stat. 1137, 1173, substituted “SUSPENSION OF 14 DAYS OR LESS” for “COMPETITIVE SERVICE” in subchapter I heading, substituted “Definitions” for “Cause; procedure; exception” in item 7501, added items 7502 to 7504, substituted “REMOVAL, SUSPENSION FOR MORE THAN 14 DAYS, REDUCTION IN GRADE OR PAY, OR FURLOUGH FOR 30 DAYS OR LESS” for “PREFERENCE ELIGIBLES” in subchapter II heading, inserted “; application” in item 7511, substituted “Actions covered” for “Cause; procedure; exception” in item 7512, added items 7513 and 7514, substituted “ADMINISTRATIVE LAW JUDGES” for “HEARING EXAMINERS” in subchapter III heading, substituted “Actions against administrative law judges” for “Removal” in item 7521, and added subchapter V heading and items 7541 to 7543.
 
 **Executive Documents**
 
 **Executive Order No. 13839**
 
-Ex. Ord. No. 13839, May 25, 2018, 83 F.R. 25343, which related to removal of employees from Federal service for misconduct or unacceptable performance, was revoked by Ex. Ord. No. 14003, § 3(c), Jan. 22, 2021, 86 F.R. 7231, set out in a note under section 3301 of this title.
+Ex. Ord. No. 13839, May 25, 2018, 83 F.R. 25343, which related to removal of employees from Federal service for misconduct or unacceptable performance, was revoked by Ex. Ord. No. 14003, § 3(c), Jan. 22, 2021, 86 F.R. 7231, set out in a note under section 3301 of this title.
 
 [Ex. Ord. No. 13839, formerly set out above, construed to be amended to the extent necessary, by Memorandum of President of the United States, Oct. 11, 2019, 84 F.R. 56095, set out as a note under section 7101 of this title.]
 
@@ -39,9 +39,9 @@ Ex. Ord. No. 13839, May 25, 2018, 83 F.R. 25343, which related to removal of emp
 
 **Amendments**
 
-1978—Pub. L. 95–454, title II, § 204(a), Oct. 13, 1978, 92 Stat. 1134, substituted “SUSPENSION FOR 14 DAYS OR LESS” for “COMPETITIVE SERVICE” in subchapter heading.
+1978—Pub. L. 95–454, title II, § 204(a), Oct. 13, 1978, 92 Stat. 1134, substituted “SUSPENSION FOR 14 DAYS OR LESS” for “COMPETITIVE SERVICE” in subchapter heading.
 
-### § 7501. Definitions
+### § 7501. Definitions
 
 For the purpose of this subchapter—
 
@@ -49,17 +49,17 @@ For the purpose of this subchapter—
 
 **(2)** “suspension” means the placing of an employee, for disciplinary reasons, in a temporary status without duties and pay.
 
-(Added Pub. L. 95–454, title II, § 204(a), Oct. 13, 1978, 92 Stat. 1134; amended Pub. L. 114–92, div. A, title XI, § 1105(c)(3), Nov. 25, 2015, 129 Stat. 1024; Pub. L. 117–81, div. A, title XI, § 1106(b)(2)(C), Dec. 27, 2021, 135 Stat. 1950.)
+(Added Pub. L. 95–454, title II, § 204(a), Oct. 13, 1978, 92 Stat. 1134; amended Pub. L. 114–92, div. A, title XI, § 1105(c)(3), Nov. 25, 2015, 129 Stat. 1024; Pub. L. 117–81, div. A, title XI, § 1106(b)(2)(C), Dec. 27, 2021, 135 Stat. 1950.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 7501, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 527, related to removal or suspension without pay of an individual in the competitive service and procedures applicable to such removal or suspension, prior to repeal by Pub. L. 95–454, § 204(a).
+A prior section 7501, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 527, related to removal or suspension without pay of an individual in the competitive service and procedures applicable to such removal or suspension, prior to repeal by Pub. L. 95–454, § 204(a).
 
 **Amendments**
 
-2021—Par. (1). Pub. L. 117–81 struck out “, except as provided in section 1599e of title 10,” after “initial appointment or,”.
+2021—Par. (1). Pub. L. 117–81 struck out “, except as provided in section 1599e of title 10,” after “initial appointment or,”.
 
 2015—Par. (1). Pub. L. 114–92 substituted “or, except as provided in section 1599e of title 10, who” for “or who”.
 
@@ -75,13 +75,13 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–376, § 1, Aug. 17, 1990, 104 Stat. 461, provided that: “This Act [amending sections 4303, 7511, and 7701 of this title and enacting provisions set out as notes under section 4303 of this title] may be cited as the ‘Civil Service Due Process Amendments’.”
+Pub. L. 101–376, § 1, Aug. 17, 1990, 104 Stat. 461, provided that: “This Act [amending sections 4303, 7511, and 7701 of this title and enacting provisions set out as notes under section 4303 of this title] may be cited as the ‘Civil Service Due Process Amendments’.”
 
-### § 7502. Actions covered
+### § 7502. Actions covered
 
 This subchapter applies to a suspension for 14 days or less, but does not apply to a suspension under section 7521 or 7532 of this title or any action initiated under section 1215 of this title.
 
-(Added Pub. L. 95–454, title II, § 204(a), Oct. 13, 1978, 92 Stat. 1135; amended Pub. L. 101–12, § 9(a)(2), Apr. 10, 1989, 103 Stat. 35.)
+(Added Pub. L. 95–454, title II, § 204(a), Oct. 13, 1978, 92 Stat. 1135; amended Pub. L. 101–12, § 9(a)(2), Apr. 10, 1989, 103 Stat. 35.)
 
 **Editorial Notes**
 
@@ -99,7 +99,7 @@ Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see sec
 
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
-### § 7503. Cause and procedure
+### § 7503. Cause and procedure
 
 **(a)** Under regulations prescribed by the Office of Personnel Management, an employee may be suspended for 14 days or less for such cause as will promote the efficiency of the service (including discourteous conduct to the public confirmed by an immediate supervisor’s report of four such instances within any one-year period or any other pattern of discourteous conduct).
 
@@ -113,13 +113,13 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 **(4)** a written decision and the specific reasons therefor at the earliest practicable date.
 
-**(c)** Copies of the notice of proposed action, the answer of the employee if written, a summary thereof if made orally, the notice of decision and reasons therefor, and any order effecting 1
+**(c)** Copies of the notice of proposed action, the answer of the employee if written, a summary thereof if made orally, the notice of decision and reasons therefor, and any order effecting 1
 
-<sup>1</sup>  So in original. Probably should be “affecting”.
+<sup>1</sup> So in original. Probably should be “affecting”.
 
 the suspension, together with any supporting material, shall be maintained by the agency and shall be furnished to the Merit Systems Protection Board upon its request and to the employee affected upon the employee’s request.
 
-(Added Pub. L. 95–454, title II, § 204(a), Oct. 13, 1978, 92 Stat. 1135.)
+(Added Pub. L. 95–454, title II, § 204(a), Oct. 13, 1978, 92 Stat. 1135.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -129,7 +129,7 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 **Information on Appeal Rights**
 
-Pub. L. 115–91, div. A, title X, § 1097(b)(2), Dec. 12, 2017, 131 Stat. 1617, provided that:
+Pub. L. 115–91, div. A, title X, § 1097(b)(2), Dec. 12, 2017, 131 Stat. 1617, provided that:
 
 > **“(A) In general.—** Any notice provided to an employee under section 7503(b)(1), section 7513(b)(1), or section 7543(b)(1) of title 5, United States Code, shall include detailed information with respect to—
 
@@ -141,11 +141,11 @@ Pub. L. 115–91, div. A, title X, § 1097(b)(2), Dec. 12, 2017, 131 Stat. 161
 
 > **“(B) Development of information.—** The information described in subparagraph (A) shall be developed by the Director of the Office of Personnel Management, in consultation with the Special Counsel, the Merit Systems Protection Board, and the Equal Employment Opportunity Commission.”
 
-### § 7504. Regulations
+### § 7504. Regulations
 
 The Office of Personnel Management may prescribe regulations to carry out the purpose of this subchapter.
 
-(Added Pub. L. 95–454, title II, § 204(a), Oct. 13, 1978, 92 Stat. 1135.)
+(Added Pub. L. 95–454, title II, § 204(a), Oct. 13, 1978, 92 Stat. 1135.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -159,9 +159,9 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 **Amendments**
 
-1978—Pub. L. 95–454, title II, § 204(a), Oct. 13, 1978, 92 Stat. 1135, substituted “REMOVAL, SUSPENSION FOR MORE THAN 14 DAYS, REDUCTION IN GRADE OR PAY, OR FURLOUGH FOR 30 DAYS OR LESS” for “PREFERENCE ELIGIBLES” in subchapter heading.
+1978—Pub. L. 95–454, title II, § 204(a), Oct. 13, 1978, 92 Stat. 1135, substituted “REMOVAL, SUSPENSION FOR MORE THAN 14 DAYS, REDUCTION IN GRADE OR PAY, OR FURLOUGH FOR 30 DAYS OR LESS” for “PREFERENCE ELIGIBLES” in subchapter heading.
 
-### § 7511. Definitions; application
+### § 7511. Definitions; application
 
 **(a)** For the purpose of this subchapter—
 
@@ -209,7 +209,7 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 **(4)** who is receiving an annuity from the Civil Service Retirement and Disability Fund, or the Foreign Service Retirement and Disability Fund, based on the service of such employee;
 
-**[(5)** Repealed. Pub. L. 114–328, div. A, title V, § 512(c), Dec. 23, 2016, 130 Stat. 2112.]
+**[(5)** Repealed. Pub. L. 114–328, div. A, title V, § 512(c), Dec. 23, 2016, 130 Stat. 2112.]
 
 **(6)** who is a member of the Foreign Service, as described in section 103 of the Foreign Service Act of 1980;
 
@@ -223,7 +223,7 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 **(c)** The Office may provide for the application of this subchapter to any position or group of positions excepted from the competitive service by regulation of the Office which is not otherwise covered by this subchapter.
 
-(Added Pub. L. 95–454, title II, § 204(a), Oct. 13, 1978, 92 Stat. 1135; amended Pub. L. 101–376, § 2(a), Aug. 17, 1990, 104 Stat. 461; Pub. L. 102–378, § 6(a), Oct. 2, 1992, 106 Stat. 1358; Pub. L. 103–359, title V, § 501(*l*), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, § 1634(b), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, § 604(b), (f), Dec. 20, 2006, 120 Stat. 3241, 3242; Pub. L. 114–92, div. A, title XI, § 1105(c)(4), Nov. 25, 2015, 129 Stat. 1024; Pub. L. 114–328, div. A, title V, § 512(c), Dec. 23, 2016, 130 Stat. 2112; Pub. L. 117–81, div. A, title XI, § 1106(b)(2)(D), Dec. 27, 2021, 135 Stat. 1950.)
+(Added Pub. L. 95–454, title II, § 204(a), Oct. 13, 1978, 92 Stat. 1135; amended Pub. L. 101–376, § 2(a), Aug. 17, 1990, 104 Stat. 461; Pub. L. 102–378, § 6(a), Oct. 2, 1992, 106 Stat. 1358; Pub. L. 103–359, title V, § 501(*l*), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XVI, § 1634(b), Sept. 23, 1996, 110 Stat. 2752; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, § 604(b), (f), Dec. 20, 2006, 120 Stat. 3241, 3242; Pub. L. 114–92, div. A, title XI, § 1105(c)(4), Nov. 25, 2015, 129 Stat. 1024; Pub. L. 114–328, div. A, title V, § 512(c), Dec. 23, 2016, 130 Stat. 2112; Pub. L. 117–81, div. A, title XI, § 1106(b)(2)(D), Dec. 27, 2021, 135 Stat. 1950.)
 
 **Editorial Notes**
 
@@ -233,7 +233,7 @@ Section 103 of the Foreign Service Act of 1980, referred to in subsec. (b)(6), i
 
 **Prior Provisions**
 
-A prior section 7511, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 528; Pub. L. 94–183, § 2(30), Dec. 31, 1975, 89 Stat. 1058, defined “preference eligible employee” and “adverse action” for purposes of this subchapter, prior to repeal by Pub. L. 95–454, § 204(a).
+A prior section 7511, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 528; Pub. L. 94–183, § 2(30), Dec. 31, 1975, 89 Stat. 1058, defined “preference eligible employee” and “adverse action” for purposes of this subchapter, prior to repeal by Pub. L. 95–454, § 204(a).
 
 **Amendments**
 
@@ -243,9 +243,9 @@ A prior section 7511, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 528; Pub. L. 94�
 
 2015—Subsec. (a)(1)(A)(ii). Pub. L. 114–92 inserted “except as provided in section 1599e of title 10,” before “who”.
 
-2006—Subsec. (a)(1)(B)(ii). Pub. L. 109–435, § 604(b), substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+2006—Subsec. (a)(1)(B)(ii). Pub. L. 109–435, § 604(b), substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
-Subsec. (b)(8). Pub. L. 109–435, § 604(f), substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+Subsec. (b)(8). Pub. L. 109–435, § 604(f), substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
 2004—Subsec. (b)(7). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
@@ -253,9 +253,9 @@ Subsec. (b)(8). Pub. L. 109–435, § 604(f), substituted “Postal Regulatory
 
 1994—Subsec. (b)(8). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
 
-1992—Subsec. (b)(7). Pub. L. 102–378, § 6(a)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “whose position is with the Central Intelligence Agency, the General Accounting Office, or the Veterans Health Services and Research Administration;”.
+1992—Subsec. (b)(7). Pub. L. 102–378, § 6(a)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “whose position is with the Central Intelligence Agency, the General Accounting Office, or the Veterans Health Services and Research Administration;”.
 
-Subsec. (b)(10). Pub. L. 102–378, § 6(a)(2)–(4), added par. (10).
+Subsec. (b)(10). Pub. L. 102–378, § 6(a)(2)–(4), added par. (10).
 
 1990—Pub. L. 101–376 amended section generally. Prior to amendment, section read as follows:
 
@@ -299,7 +299,7 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1635 of Pub. 
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–378, § 6(b), Oct. 2, 1992, 106 Stat. 1359, provided that:
+Pub. L. 102–378, § 6(b), Oct. 2, 1992, 106 Stat. 1359, provided that:
 
 > **“(1)** The amendments made by subsection (a) [amending this section] shall apply with respect to any personnel action taking effect on or after the date of enactment of this Act [Oct. 2, 1992].
 
@@ -327,7 +327,7 @@ Amendment by Pub. L. 101–376 applicable with respect to any personnel action t
 
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
-### § 7512. Actions covered
+### § 7512. Actions covered
 
 This subchapter applies to—
 
@@ -355,13 +355,13 @@ but does not apply to—
 
 **(F)** a suitability action taken by the Office under regulations prescribed by the Office, subject to the rules prescribed by the President under this title for the administration of the competitive service.
 
-(Added Pub. L. 95–454, title II, § 204(a), Oct. 13, 1978, 92 Stat. 1136; amended Pub. L. 101–12, § 9(a)(2), Apr. 10, 1989, 103 Stat. 35; Pub. L. 114–92, div. A, title X, § 1086(f)(9), Nov. 25, 2015, 129 Stat. 1010.)
+(Added Pub. L. 95–454, title II, § 204(a), Oct. 13, 1978, 92 Stat. 1136; amended Pub. L. 101–12, § 9(a)(2), Apr. 10, 1989, 103 Stat. 35; Pub. L. 114–92, div. A, title X, § 1086(f)(9), Nov. 25, 2015, 129 Stat. 1010.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 7512, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 528, related to adverse action against a preference eligible employee and procedures applicable to such adverse action, prior to repeal by Pub. L. 95–454, § 204(a).
+A prior section 7512, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 528, related to adverse action against a preference eligible employee and procedures applicable to such adverse action, prior to repeal by Pub. L. 95–454, § 204(a).
 
 **Amendments**
 
@@ -379,7 +379,7 @@ Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see sec
 
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
-### § 7513. Cause and procedure
+### § 7513. Cause and procedure
 
 **(a)** Under regulations prescribed by the Office of Personnel Management, an agency may take an action covered by this subchapter against an employee only for such cause as will promote the efficiency of the service.
 
@@ -399,7 +399,7 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 **(e)** Copies of the notice of proposed action, the answer of the employee when written, a summary thereof when made orally, the notice of decision and reasons therefor, and any order effecting an action covered by this subchapter, together with any supporting material, shall be maintained by the agency and shall be furnished to the Board upon its request and to the employee affected upon the employee’s request.
 
-(Added Pub. L. 95–454, title II, § 204(a), Oct. 13, 1978, 92 Stat. 1136.)
+(Added Pub. L. 95–454, title II, § 204(a), Oct. 13, 1978, 92 Stat. 1136.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -407,11 +407,11 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
-### § 7514. Regulations
+### § 7514. Regulations
 
 The Office of Personnel Management may prescribe regulations to carry out the purpose of this subchapter, except as it concerns any matter with respect to which the Merit Systems Protection Board may prescribe regulations.
 
-(Added Pub. L. 95–454, title II, § 204(a), Oct. 13, 1978, 92 Stat. 1137.)
+(Added Pub. L. 95–454, title II, § 204(a), Oct. 13, 1978, 92 Stat. 1137.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -419,7 +419,7 @@ The Office of Personnel Management may prescribe regulations to carry out the pu
 
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
-### § 7515. Discipline of supervisors based on retaliation against whistleblowers
+### § 7515. Discipline of supervisors based on retaliation against whistleblowers
 
 **(a) Definitions.—** In this section—
 
@@ -473,13 +473,13 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 **(3) Non-delegation.—** If the head of an agency is responsible for determining whether a supervisor has committed a prohibited personnel action for purposes of paragraph (1), the head of the agency may not delegate that responsibility.
 
-(Added Pub. L. 115–91, div. A, title X, § 1097(e)(1)(B), Dec. 12, 2017, 131 Stat. 1621.)
+(Added Pub. L. 115–91, div. A, title X, § 1097(e)(1)(B), Dec. 12, 2017, 131 Stat. 1621.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 7515, Pub. L. 115–73, title I, § 104(a), Oct. 26, 2017, 131 Stat. 1236, related to discipline of supervisors based on retaliation against whistleblowers, prior to repeal by Pub. L. 115–91, div. A, title X, § 1097(e)(1)(A), Dec. 12, 2017, 131 Stat. 1621.
+A prior section 7515, Pub. L. 115–73, title I, § 104(a), Oct. 26, 2017, 131 Stat. 1236, related to discipline of supervisors based on retaliation against whistleblowers, prior to repeal by Pub. L. 115–91, div. A, title X, § 1097(e)(1)(A), Dec. 12, 2017, 131 Stat. 1621.
 
 ## SUBCHAPTER III—ADMINISTRATIVE LAW JUDGES
 
@@ -487,9 +487,9 @@ A prior section 7515, Pub. L. 115–73, title I, § 104(a), Oct. 26, 2017, 131
 
 **Amendments**
 
-1978—Pub. L. 95–454, title II, § 204(a), Oct. 13, 1978, 92 Stat. 1137, substituted “ADMINISTRATIVE LAW JUDGES” for “HEARING EXAMINERS” in subchapter heading.
+1978—Pub. L. 95–454, title II, § 204(a), Oct. 13, 1978, 92 Stat. 1137, substituted “ADMINISTRATIVE LAW JUDGES” for “HEARING EXAMINERS” in subchapter heading.
 
-### § 7521. Actions against administrative law judges
+### § 7521. Actions against administrative law judges
 
 **(a)** An action may be taken against an administrative law judge appointed under section 3105 of this title by the agency in which the administrative law judge is employed only for good cause established and determined by the Merit Systems Protection Board on the record after opportunity for hearing before the Board.
 
@@ -513,13 +513,13 @@ but do not include—
 
 **(C)** any action initiated under section 1215 of this title.
 
-(Added Pub. L. 95–454, title II, § 204(a), Oct. 13, 1978, 92 Stat. 1137; amended Pub. L. 101–12, § 9(a)(2), Apr. 10, 1989, 103 Stat. 35.)
+(Added Pub. L. 95–454, title II, § 204(a), Oct. 13, 1978, 92 Stat. 1137; amended Pub. L. 101–12, § 9(a)(2), Apr. 10, 1989, 103 Stat. 35.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 7521, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 528; Pub. L. 95–251, § 2(a)(1), Mar. 27, 1978, 92 Stat. 183, related to removal of an administrative law judge appointed under section 3105 of this title, prior to repeal by Pub. L. 95–454, § 204(a).
+A prior section 7521, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 528; Pub. L. 95–251, § 2(a)(1), Mar. 27, 1978, 92 Stat. 183, related to removal of an administrative law judge appointed under section 3105 of this title, prior to repeal by Pub. L. 95–454, § 204(a).
 
 **Amendments**
 
@@ -537,7 +537,7 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 ## SUBCHAPTER IV—NATIONAL SECURITY
 
-### § 7531. Definitions
+### § 7531. Definitions
 
 For the purpose of this subchapter, “agency” means—
 
@@ -567,11 +567,11 @@ The President shall report any designation to the Committees on the Armed Servic
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 22–3. | Aug. 26, 1950, ch. 823, § 3, 64 Stat. 477. |
+|  | 5 U.S.C. 22–3. | Aug. 26, 1950, ch. 823, § 3, 64 Stat. 477. |
 
 Paragraphs (1)–(8) are supplied on authority of former section 22–1, which is carried in part into section 7532. The references to “the Foreign Service of the United States” and “several field services” are omitted as unnecessary since they are within the agencies concerned. The words “military departments” are substituted for the enumeration of the military departments in view of the definition of “military department” in section 102.
 
-The reference to the National Security Resources Board is omitted as the Board was abolished by 1953 Reorg. Plan No. 3, § 6, eff. June 12, 1953, 67 Stat. 636.
+The reference to the National Security Resources Board is omitted as the Board was abolished by 1953 Reorg. Plan No. 3, § 6, eff. June 12, 1953, 67 Stat. 636.
 
 Paragraph (9) is restated to conform to the style of this title.
 
@@ -607,7 +607,7 @@ You are hereby authorized and directed to report these designations to the Commi
 
 Ronald Reagan.
 
-### § 7532. Suspension and removal
+### § 7532. Suspension and removal
 
 **(a)** Notwithstanding other statutes, the head of an agency may suspend without pay an employee of his agency when he considers that action necessary in the interests of national security. To the extent that the head of the agency determines that the interests of national security permit, the suspended employee shall be notified of the reasons for the suspension. Within 30 days after the notification, the suspended employee is entitled to submit to the official designated by the head of the agency statements or affidavits to show why he should be restored to duty.
 
@@ -639,8 +639,8 @@ is entitled, after suspension and before removal, to—
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 22–1 (less 3d–5th provisos). | Aug. 26, 1950, ch. 803, § 1 (less 3d–5th provisos), 64 Stat. 476. |
-|  |  | July 29, 1958, Pub. L. 85–568, § 301(c), 72 Stat. 432. |
+|  | 5 U.S.C. 22–1 (less 3d–5th provisos). | Aug. 26, 1950, ch. 803, § 1 (less 3d–5th provisos), 64 Stat. 476. |
+|  |  | July 29, 1958, Pub. L. 85–568, § 301(c), 72 Stat. 432. |
 
 The application of this section is covered by the definition in section 7531.
 
@@ -650,7 +650,7 @@ In subsections (b) and (c), the words “remove” and “removal” are coexten
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### § 7533. Effect on other statutes
+### § 7533. Effect on other statutes
 
 This subchapter does not impair the powers vested in the Atomic Energy Commission by chapter 23 of title 42, or the requirement in section 2201(d) of title 42 that adequate provision be made for administrative review of a determination to dismiss an employee of the Atomic Energy Commission.
 
@@ -660,7 +660,7 @@ This subchapter does not impair the powers vested in the Atomic Energy Commissio
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 22–2. | Aug. 26, 1950, ch. 803, § 2, 64 Stat. 477. |
+|  | 5 U.S.C. 22–2. | Aug. 26, 1950, ch. 803, § 2, 64 Stat. 477. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -672,7 +672,7 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 ## SUBCHAPTER V—SENIOR EXECUTIVE SERVICE
 
-### § 7541. Definitions
+### § 7541. Definitions
 
 For the purpose of this subchapter—
 
@@ -684,7 +684,7 @@ For the purpose of this subchapter—
 
 **(2)** “suspension” has the meaning set forth in section 7501(2) of this title.
 
-(Added Pub. L. 95–454, title IV, § 411(2), Oct. 13, 1978, 92 Stat. 1174; amended Pub. L. 114–92, div. A, title XI, § 1105(c)(5), Nov. 25, 2015, 129 Stat. 1024; Pub. L. 117–81, div. A, title XI, § 1106(b)(2)(E), Dec. 27, 2021, 135 Stat. 1950.)
+(Added Pub. L. 95–454, title IV, § 411(2), Oct. 13, 1978, 92 Stat. 1174; amended Pub. L. 114–92, div. A, title XI, § 1105(c)(5), Nov. 25, 2015, 129 Stat. 1024; Pub. L. 117–81, div. A, title XI, § 1106(b)(2)(E), Dec. 27, 2021, 135 Stat. 1950.)
 
 **Editorial Notes**
 
@@ -704,11 +704,11 @@ Amendment by Pub. L. 117–81 applied as if effective Dec. 31, 2022, to correspo
 
 Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as a note under section 3131 of this title.
 
-### § 7542. Actions covered
+### § 7542. Actions covered
 
 This subchapter applies to a removal from the civil service or suspension for more than 14 days, but does not apply to an action initiated under section 1215 of this title, to a suspension or removal under section 7532 of this title, or to a removal under section 3592 or 3595 of this title.
 
-(Added Pub. L. 95–454, title IV, § 411(2), Oct. 13, 1978, 92 Stat. 1174; amended Pub. L. 97–35, title XVII, § 1704(d)(1), Aug. 13, 1981, 95 Stat. 758; Pub. L. 101–12, § 9(a)(2), Apr. 10, 1989, 103 Stat. 35.)
+(Added Pub. L. 95–454, title IV, § 411(2), Oct. 13, 1978, 92 Stat. 1174; amended Pub. L. 97–35, title XVII, § 1704(d)(1), Aug. 13, 1981, 95 Stat. 758; Pub. L. 101–12, § 9(a)(2), Apr. 10, 1989, 103 Stat. 35.)
 
 **Editorial Notes**
 
@@ -732,7 +732,7 @@ Amendment by Pub. L. 97–35 effective June 1, 1981, with certain exceptions and
 
 Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as a note under section 3131 of this title.
 
-### § 7543. Cause and procedure
+### § 7543. Cause and procedure
 
 **(a)** Under regulations prescribed by the Office of Personnel Management, an agency may take an action covered by this subchapter against an employee only for misconduct, neglect of duty, malfeasance, or failure to accept a directed reassignment or to accompany a position in a transfer of function.
 
@@ -752,7 +752,7 @@ Section effective 9 months after Oct. 13, 1978, and congressional review of prov
 
 **(e)** Copies of the notice of proposed action, the answer of the employee when written, and a summary thereof when made orally, the notice of decision and reasons therefor, and any order effecting an action covered by this subchapter, together with any supporting material, shall be maintained by the agency and shall be furnished to the Merit Systems Protection Board upon its request and to the employee affected upon the employee’s request.
 
-(Added Pub. L. 95–454, title IV, § 411(2), Oct. 13, 1978, 92 Stat. 1174; amended Pub. L. 97–35, title XVII, § 1704(d)(2), Aug. 13, 1981, 95 Stat. 758; Pub. L. 98–615, title III, § 304(c), Nov. 8, 1984, 98 Stat. 3219.)
+(Added Pub. L. 95–454, title IV, § 411(2), Oct. 13, 1978, 92 Stat. 1174; amended Pub. L. 97–35, title XVII, § 1704(d)(2), Aug. 13, 1981, 95 Stat. 758; Pub. L. 98–615, title III, § 304(c), Nov. 8, 1984, 98 Stat. 3219.)
 
 **Editorial Notes**
 

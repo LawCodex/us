@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 62—CONDOMINIUM AND COOPERATIVE CONVERSION PROTECTION AND ABUSE RELIEF
 
-## § 3601. Congressional findings and purpose
+## § 3601. Congressional findings and purpose
 
 **(a)** The Congress finds and declares that—
 
@@ -29,25 +29,25 @@ retrieved: 2026-10-11
 
 **(b)** The purposes of this chapter are to seek to minimize the adverse impacts of condominium and cooperative conversions particularly on the housing opportunities of low- and moderate-income and elderly and handicapped persons, to assure fair and equitable principles are followed in the establishment of condominium and cooperative opportunities, and to provide appropriate relief where long-term leases of recreation and other cooperative- and condominium-related facilities are determined to be unconscionable.
 
-(Pub. L. 96–399, title VI, § 602, Oct. 8, 1980, 94 Stat. 1672.)
+(Pub. L. 96–399, title VI, § 602, Oct. 8, 1980, 94 Stat. 1672.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 96–399, title VI, § 618, Oct. 8, 1980, 94 Stat. 1680, provided that: “The provisions of this title [enacting this chapter] shall become effective upon enactment [Oct. 8, 1980], except that section 609 [section 3608 of this title], and the prohibition included in section 610 [section 3609 of this title] as it relates to a lease with respect to which a cause of action may be established under section 609, shall become effective one year after enactment.”
+Pub. L. 96–399, title VI, § 618, Oct. 8, 1980, 94 Stat. 1680, provided that: “The provisions of this title [enacting this chapter] shall become effective upon enactment [Oct. 8, 1980], except that section 609 [section 3608 of this title], and the prohibition included in section 610 [section 3609 of this title] as it relates to a lease with respect to which a cause of action may be established under section 609, shall become effective one year after enactment.”
 
 **Short Title**
 
-Pub. L. 96–399, title VI, § 601, Oct. 8, 1980, 94 Stat. 1672, provided that: “This title [enacting this chapter] may be cited as the ‘Condominium and Cooperative Abuse Relief Act of 1980’.”
+Pub. L. 96–399, title VI, § 601, Oct. 8, 1980, 94 Stat. 1672, provided that: “This title [enacting this chapter] may be cited as the ‘Condominium and Cooperative Abuse Relief Act of 1980’.”
 
-## § 3602. Conversion lending
+## § 3602. Conversion lending
 
 It is the sense of the Congress that lending by federally insured lending institutions for the conversion of rental housing to condominiums and cooperative housing should be discouraged where there are adverse impacts on housing opportunities of the low- and moderate-income and elderly and handicapped tenants involved.
 
-(Pub. L. 96–399, title VI, § 603, Oct. 8, 1980, 94 Stat. 1673.)
+(Pub. L. 96–399, title VI, § 603, Oct. 8, 1980, 94 Stat. 1673.)
 
-## § 3603. Definitions
+## § 3603. Definitions
 
 For the purpose of this chapter—
 
@@ -99,9 +99,9 @@ For the purpose of this chapter—
 
 **(24)** “tenants’ organization” means a bona fide organization of tenants who represent a majority of the occupied rental units in a rental housing project.
 
-(Pub. L. 96–399, title VI, § 604, Oct. 8, 1980, 94 Stat. 1673.)
+(Pub. L. 96–399, title VI, § 604, Oct. 8, 1980, 94 Stat. 1673.)
 
-## § 3604. Exemptions
+## § 3604. Exemptions
 
 The provisions of this chapter shall not apply to—
 
@@ -115,21 +115,21 @@ The provisions of this chapter shall not apply to—
 
 **(B)** which establishes a leasehold interest in, or other rights to use, possess, or gain access to, a condominium or cooperative unit.
 
-(Pub. L. 96–399, title VI, § 605, Oct. 8, 1980, 94 Stat. 1675.)
+(Pub. L. 96–399, title VI, § 605, Oct. 8, 1980, 94 Stat. 1675.)
 
-## § 3605. Notice of conversion and opportunity to purchase; responsibility of State and local governments
+## § 3605. Notice of conversion and opportunity to purchase; responsibility of State and local governments
 
 It is the sense of the Congress that, when multifamily rental housing projects are converted to condominium or cooperative use, tenants in those projects are entitled to adequate notice of the pending conversion and to receive the first opportunity to purchase units in the converted projects and that State and local governments which have not already provided for such notice and opportunity for purchase should move toward that end. The Congress believes it is the responsibility of State and local governments to provide for such notice and opportunity to purchase in a prompt manner. The Congress has decided not to intervene and therefore leaves this responsibility to State and local governments to be carried out.
 
-(Pub. L. 96–399, title VI, § 606, Oct. 8, 1980, 94 Stat. 1676.)
+(Pub. L. 96–399, title VI, § 606, Oct. 8, 1980, 94 Stat. 1676.)
 
-## § 3606. Federal Housing Administration mortgage or loan insurance; expedition of application process and decision
+## § 3606. Federal Housing Administration mortgage or loan insurance; expedition of application process and decision
 
 Where an application for mortgage or loan insurance in connection with a conversion or purchase of a rental housing project being undertaken by a tenants’ organization is submitted, the Secretary of Housing and Urban Development shall expedite the processing of the application in every way and shall make a final decision on such application at the earliest practicable time.
 
-(Pub. L. 96–399, title VI, § 607, Oct. 8, 1980, 94 Stat. 1676.)
+(Pub. L. 96–399, title VI, § 607, Oct. 8, 1980, 94 Stat. 1676.)
 
-## § 3607. Termination of self-dealing contracts
+## § 3607. Termination of self-dealing contracts
 
 **(a) Operation, maintenance, and management contracts; penalty** Any contract or portion thereof which is entered into after October 8, 1980, and which—
 
@@ -159,7 +159,7 @@ A termination under this section shall be by a vote of owners of not less than t
 
 Following the unit owners’ vote, the termination shall be effective ninety days after hand delivering notice or mailing notice by prepaid United States mail to the parties to the contract.
 
-(Pub. L. 96–399, title VI, § 608, Oct. 8, 1980, 94 Stat. 1676.)
+(Pub. L. 96–399, title VI, § 608, Oct. 8, 1980, 94 Stat. 1676.)
 
 **Editorial Notes**
 
@@ -167,7 +167,7 @@ Following the unit owners’ vote, the termination shall be effective ninety day
 
 In subsec. (a), “October 8, 1980” was substituted for “the effective date of this title”. See Effective Date note set out under section 3601 of this title.
 
-## § 3608. Judicial determinations respecting uncon­scionable leases
+## § 3608. Judicial determinations respecting uncon­scionable leases
 
 **(a) Lease characteristics; authorization by unit owners; conditions precedent to action** Cooperative and condominium unit owners through the unit owners’ association may bring an action seeking a judicial determination that a lease or leases, or portions thereof, were unconscionable at the time they were made. An action may be brought under this section if each such lease has all of the following characteristics:
 
@@ -209,9 +209,9 @@ Once the rebuttable presumption is established, the court, in making its finding
 
 **(d) Remedial relief; matters considered; attorneys’ fees**
 
-Upon finding that any lease, or portion thereof, is unconscionable, the court shall exercise its authority to grant remedial relief as necessary to avoid an unconscionable result, taking into consideration the economic value of the lease. Such relief may include, but shall not be limited to rescission, reformation, restitution, the award of damages and reasonable attorney fees and court costs. A defendant may recover reasonable attorneys’ fees if the court determines that the cause of action filed by the plantiff 1
+Upon finding that any lease, or portion thereof, is unconscionable, the court shall exercise its authority to grant remedial relief as necessary to avoid an unconscionable result, taking into consideration the economic value of the lease. Such relief may include, but shall not be limited to rescission, reformation, restitution, the award of damages and reasonable attorney fees and court costs. A defendant may recover reasonable attorneys’ fees if the court determines that the cause of action filed by the plantiff 1
 
-<sup>1</sup>  So in original. Probably should be “plaintiff”.
+<sup>1</sup> So in original. Probably should be “plaintiff”.
 
 is frivolous, malicious, or lacking in substantial merit.
 
@@ -221,7 +221,7 @@ is frivolous, malicious, or lacking in substantial merit.
 
 **(2)** reforms any clause in the lease which contained an automatic rent increase clause, unless such agreement was entered into when the leaseholder or his affiliate held a majority of the votes in the owners’ association.
 
-(Pub. L. 96–399, title VI, § 609, Oct. 8, 1980, 94 Stat. 1677.)
+(Pub. L. 96–399, title VI, § 609, Oct. 8, 1980, 94 Stat. 1677.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -229,11 +229,11 @@ is frivolous, malicious, or lacking in substantial merit.
 
 Section effective one year after Oct. 8, 1980, see section 618 of Pub. L. 96–399, set out as a note under section 3601 of this title.
 
-## § 3609. Void lease or contract provisions
+## § 3609. Void lease or contract provisions
 
 Any provision in any lease or contract requiring unit owners or the owners’ association, in any conversion project involving a contract meeting the requirements of section 3607 of this title of in any project involving a lease meeting the requirements of section 3608 of this title, to reimburse, regardless of outcome, the developer, his successor, or affiliate of the developer for attorneys’ fees or money judgments, in a suit between unit owners or the owners’ association and the developer arising under the lease or agreement, is against public policy and void.
 
-(Pub. L. 96–399, title VI, § 610, Oct. 8, 1980, 94 Stat. 1678.)
+(Pub. L. 96–399, title VI, § 610, Oct. 8, 1980, 94 Stat. 1678.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -241,13 +241,13 @@ Any provision in any lease or contract requiring unit owners or the owners’ as
 
 Section effective Oct. 8, 1980, except that prohibition included in this section as it relates to a lease with respect to which a cause of action may be established under section 3608 of this title, shall be effective one year after Oct. 8, 1980, see section 618 of Pub. L. 96–399, set out as a note under section 3601 of this title.
 
-## § 3610. Relationship of statutory provisions to State and local laws
+## § 3610. Relationship of statutory provisions to State and local laws
 
 Nothing in this chapter may be construed to prevent or limit the authority of any State or local government to enact and enforce any law, ordinance, or code with regard to any condominium, cooperative, or conversion project, if such law, ordinance, or code does not abridge, deny, or contravene any standard for consumer protection established under this chapter. Notwithstanding the preceding sentence, the provisions of this chapter, except for the application of section 3608 of this title and the prohibition included in section 3609 of this title as it relates to a lease with respect to which a cause of action may be established under section 3608 of this title, shall not apply in the case of any State or local government which has the authority to enact and enforce such a law, ordinance, or code, if, during the three-year period following October 8, 1980, such State or local government enacts a law, ordinance, or code, or amendments thereto, stating in substance that such provisions of this chapter shall not apply in that State or local government jurisdiction.
 
-(Pub. L. 96–399, title VI, § 611, Oct. 8, 1980, 94 Stat. 1679.)
+(Pub. L. 96–399, title VI, § 611, Oct. 8, 1980, 94 Stat. 1679.)
 
-## § 3611. Additional remedies
+## § 3611. Additional remedies
 
 **(a) Suits at law or equity**
 
@@ -265,34 +265,34 @@ Every person who becomes liable to make any payment under this section may recov
 
 The amounts recoverable under this section may include interest paid, reasonable attorneys’ fees, independent engineer and appraisers’ fees, and court costs. A defendant may recover reasonable attorneys’ fees if the court determines that the cause of action filed by the plaintiff is frivolous, malicious, or lacking in substantial merit.
 
-(Pub. L. 96–399, title VI, § 612, Oct. 8, 1980, 94 Stat. 1679.)
+(Pub. L. 96–399, title VI, § 612, Oct. 8, 1980, 94 Stat. 1679.)
 
-## § 3612. Concurrent State and Federal jurisdiction; venue; removal of cases
+## § 3612. Concurrent State and Federal jurisdiction; venue; removal of cases
 
 The district courts of the United States, the United States courts of any territory, and the United States District Court for the District of Columbia shall have jurisdiction under this chapter and, concurrent with State courts, of actions at law or in equity brought under this chapter without regard to the amount in controversy. Any such action may be brought in the district wherein the defendant is found or is an inhabitant or transacts business, or in the district where the sale took place, and process in such cases may be served in other districts of which the defendant is an inhabitant or wherever the defendant may be found. No case arising under this chapter and brought in any State court of competent jurisdiction shall be removed to any court of the United States, except where any officer or employee of the United States in his official capacity is a party.
 
-(Pub. L. 96–399, title VI, § 613, Oct. 8, 1980, 94 Stat. 1679.)
+(Pub. L. 96–399, title VI, § 613, Oct. 8, 1980, 94 Stat. 1679.)
 
-## § 3613. Limitation of actions
+## § 3613. Limitation of actions
 
 No action shall be maintained to enforce any right or liability created by this chapter unless brought within six years after such cause of action accrued, except that an action pursuant to section 3608 of this title must be brought within four years after October 8, 1980.
 
-(Pub. L. 96–399, title VI, § 614, Oct. 8, 1980, 94 Stat. 1680.)
+(Pub. L. 96–399, title VI, § 614, Oct. 8, 1980, 94 Stat. 1680.)
 
-## § 3614. Waiver of rights as void
+## § 3614. Waiver of rights as void
 
 Any condition, stipulation, or provision binding any person to waive compliance with any provisions of this chapter shall be void.
 
-(Pub. L. 96–399, title VI, § 615, Oct. 8, 1980, 94 Stat. 1680.)
+(Pub. L. 96–399, title VI, § 615, Oct. 8, 1980, 94 Stat. 1680.)
 
-## § 3615. Nonexclusion of other statutory rights and remedies
+## § 3615. Nonexclusion of other statutory rights and remedies
 
 The rights and remedies provided by this chapter shall be in addition to any and all other rights and remedies that may exist under Federal or State law.
 
-(Pub. L. 96–399, title VI, § 616, Oct. 8, 1980, 94 Stat. 1680.)
+(Pub. L. 96–399, title VI, § 616, Oct. 8, 1980, 94 Stat. 1680.)
 
-## § 3616. Separability
+## § 3616. Separability
 
 If any provisions of this chapter or the application thereof to any person or circumstance is held invalid, the remainder of this chapter shall not be affected thereby.
 
-(Pub. L. 96–399, title VI, § 617, Oct. 8, 1980, 94 Stat. 1680.)
+(Pub. L. 96–399, title VI, § 617, Oct. 8, 1980, 94 Stat. 1680.)

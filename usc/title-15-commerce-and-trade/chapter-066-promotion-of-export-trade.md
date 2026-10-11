@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—EXPORT TRADING COMPANIES AND TRADE ASSOCIATIONS
 
-### § 4001. Congressional findings and declaration of purpose
+### § 4001. Congressional findings and declaration of purpose
 
 **(a)** The Congress finds that—
 
@@ -45,7 +45,7 @@ retrieved: 2026-10-11
 
 **(b)** It is the purpose of this chapter to increase United States exports of products and services by encouraging more efficient provision of export trade services to United States producers and suppliers, in particular by establishing an office within the Department of Commerce to promote the formation of export trade associations and export trading companies, by permitting bank holding companies, bankers’ banks, and Edge Act corporations and agreement corporations that are subsidiaries of bank holding companies to invest in export trading companies, by reducing restrictions on trade financing provided by financial institutions, and by modifying the application of the antitrust laws to certain export trade.
 
-(Pub. L. 97–290, title I, § 102, Oct. 8, 1982, 96 Stat. 1233.)
+(Pub. L. 97–290, title I, § 102, Oct. 8, 1982, 96 Stat. 1233.)
 
 **Editorial Notes**
 
@@ -53,19 +53,19 @@ retrieved: 2026-10-11
 
 This chapter, referred to in subsec. (b), was in original “this Act”, meaning Pub. L. 97–290, Oct. 8, 1982, 96 Stat. 1233, which enacted this chapter and section 6a of this title and section 635a–4 of Title 12, Banks and Banking, amended section 45 of this title and sections 372 and 1843 of Title 12, and enacted provisions set out as notes under sections 1, 4001, and 4011 of this title and sections 1841 and 1843 of Title 12. For complete classification of this Act to the Code, see Tables.
 
-Edge Act corporation, referred to in subsec. (b), is a corporation organized under section 25A of the Federal Reserve Act, as added by act Dec. 24, 1919, ch. 18, 41 Stat. 378, and amended, popularly known as the Edge Act, which is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 12 and Tables.
+Edge Act corporation, referred to in subsec. (b), is a corporation organized under section 25A of the Federal Reserve Act, as added by act Dec. 24, 1919, ch. 18, 41 Stat. 378, and amended, popularly known as the Edge Act, which is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 12 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1985 Amendment**
 
-Pub. L. 99–64, § 1, July 12, 1985, 99 Stat. 120, provided that: “Titles I and II of this Act [enacting sections 4051 to 4053 of this title, section 1864 of Title 19, Customs Duties, and section 466c of Title 46, Appendix, Shipping, amending sections 5314 and 5315 of Title 5, Government Organization and Employees, sections 2304 and 2778 of Title 22, Foreign Relations and Intercourse, section 185 of Title 30, Mineral Lands and Mining, and former sections 4601 to 4606, 4609, 4610, 4614, 4615 to 4620, and 4622 of Title 50, War and National Defense, and enacting provisions set out as notes under section 5314 of Title 5 and former sections 4604, 4605, and 4617 of Title 50] may be cited as the ‘Export Administration Amendments Act of 1985’.”
+Pub. L. 99–64, § 1, July 12, 1985, 99 Stat. 120, provided that: “Titles I and II of this Act [enacting sections 4051 to 4053 of this title, section 1864 of Title 19, Customs Duties, and section 466c of Title 46, Appendix, Shipping, amending sections 5314 and 5315 of Title 5, Government Organization and Employees, sections 2304 and 2778 of Title 22, Foreign Relations and Intercourse, section 185 of Title 30, Mineral Lands and Mining, and former sections 4601 to 4606, 4609, 4610, 4614, 4615 to 4620, and 4622 of Title 50, War and National Defense, and enacting provisions set out as notes under section 5314 of Title 5 and former sections 4604, 4605, and 4617 of Title 50] may be cited as the ‘Export Administration Amendments Act of 1985’.”
 
 **Short Title**
 
-Pub. L. 97–290, title I, § 101, Oct. 8, 1982, 96 Stat. 1233, provided that: “This title [enacting this subchapter] may be cited as the ‘Export Trading Company Act of 1982’.”
+Pub. L. 97–290, title I, § 101, Oct. 8, 1982, 96 Stat. 1233, provided that: “This title [enacting this subchapter] may be cited as the ‘Export Trading Company Act of 1982’.”
 
-### § 4002. Definitions
+### § 4002. Definitions
 
 **(a)** For purposes of this subchapter—
 
@@ -89,7 +89,7 @@ Pub. L. 97–290, title I, § 101, Oct. 8, 1982, 96 Stat. 1233, provided that:
 
 **(b)** The Secretary of Commerce may by regulation further define any term defined in subsection (a), in order to carry out this subchapter.
 
-(Pub. L. 97–290, title I, § 103, Oct. 8, 1982, 96 Stat. 1234.)
+(Pub. L. 97–290, title I, § 103, Oct. 8, 1982, 96 Stat. 1234.)
 
 **Executive Documents**
 
@@ -97,11 +97,11 @@ Pub. L. 97–290, title I, § 101, Oct. 8, 1982, 96 Stat. 1233, provided that:
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-### § 4003. Office of Export Trade in Department of Commerce
+### § 4003. Office of Export Trade in Department of Commerce
 
 The Secretary of Commerce shall establish within the Department of Commerce an office to promote and encourage to the greatest extent feasible the formation of export trade associations and export trading companies. Such office shall provide information and advice to interested persons and shall provide a referral service to facilitate contact between producers of exportable goods and services and firms offering export trade services. The office shall establish a program to encourage and assist the operation of other export intermediaries, including existing and newly formed export management companies.
 
-(Pub. L. 97–290, title I, § 104, Oct. 8, 1982, 96 Stat. 1235; Pub. L. 100–418, title II, § 2310, Aug. 23, 1988, 102 Stat. 1346.)
+(Pub. L. 97–290, title I, § 104, Oct. 8, 1982, 96 Stat. 1235; Pub. L. 100–418, title II, § 2310, Aug. 23, 1988, 102 Stat. 1346.)
 
 **Editorial Notes**
 
@@ -111,17 +111,17 @@ The Secretary of Commerce shall establish within the Department of Commerce an o
 
 ## SUBCHAPTER II—EXPORT TRADE CERTIFICATES OF REVIEW
 
-### § 4011. Export trade promotion duties of Secretary of Commerce
+### § 4011. Export trade promotion duties of Secretary of Commerce
 
 To promote and encourage export trade, the Secretary may issue certificates of review and advise and assist any person with respect to applying for certificates of review.
 
-(Pub. L. 97–290, title III, § 301, Oct. 8, 1982, 96 Stat. 1240.)
+(Pub. L. 97–290, title III, § 301, Oct. 8, 1982, 96 Stat. 1240.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 97–290, title III, § 312, Oct. 8, 1982, 96 Stat. 1245, provided that:
+Pub. L. 97–290, title III, § 312, Oct. 8, 1982, 96 Stat. 1245, provided that:
 
 > **“(a)** Except as provided in subsection (b), this title [enacting this subchapter] shall take effect on the date of the enactment of this Act [Oct. 8, 1982].
 
@@ -129,13 +129,13 @@ Pub. L. 97–290, title III, § 312, Oct. 8, 1982, 96 Stat. 1245, provided tha
 
 **Report on Export Trading Companies**
 
-Pub. L. 100–418, title II, § 2311, Aug. 23, 1988, 102 Stat. 1346, directed Secretary of Commerce to submit a report, not later than 18 months after Aug. 23, 1988, to Committee on Banking, Housing, and Urban Affairs of Senate, and to Committee on Banking, Finance and Urban Affairs, Committee on Foreign Affairs, and Committee on the Judiciary of House of Representatives, on activities of Department of Commerce to promote and encourage formation of new and operation of existing and new export promotion intermediaries, including export management companies, export trade associations, bank export trading companies, and export trading companies, with report to include a survey of activities of export management companies, export trade associations, and those bank export trading companies and export trading companies established pursuant to amendments made by title II of the Export Trading Company Act of 1982 and pursuant to title III of that Act, but not to contain any information subject to the protections from disclosure provided in that Act.
+Pub. L. 100–418, title II, § 2311, Aug. 23, 1988, 102 Stat. 1346, directed Secretary of Commerce to submit a report, not later than 18 months after Aug. 23, 1988, to Committee on Banking, Housing, and Urban Affairs of Senate, and to Committee on Banking, Finance and Urban Affairs, Committee on Foreign Affairs, and Committee on the Judiciary of House of Representatives, on activities of Department of Commerce to promote and encourage formation of new and operation of existing and new export promotion intermediaries, including export management companies, export trade associations, bank export trading companies, and export trading companies, with report to include a survey of activities of export management companies, export trade associations, and those bank export trading companies and export trading companies established pursuant to amendments made by title II of the Export Trading Company Act of 1982 and pursuant to title III of that Act, but not to contain any information subject to the protections from disclosure provided in that Act.
 
 **Federal Coal Export Commission**
 
-Pub. L. 99–83, title XIII, § 1304, Aug. 8, 1985, 99 Stat. 282, provided for establishment, membership, etc., of Federal Coal Export Commission, required Commission to convene at least four times a year for consultation on activities leading to increased cooperation among entities involved in United States coal exports, with goal of expanding the United States share of international market, specified activities of Commission, including examination of potential for small- and medium-sized companies to enter export coal trade through exporting trading companies, directed Commission to report its finding and recommendations to President and Congress within two years after its first meeting, and terminated Commission upon submission of its report.
+Pub. L. 99–83, title XIII, § 1304, Aug. 8, 1985, 99 Stat. 282, provided for establishment, membership, etc., of Federal Coal Export Commission, required Commission to convene at least four times a year for consultation on activities leading to increased cooperation among entities involved in United States coal exports, with goal of expanding the United States share of international market, specified activities of Commission, including examination of potential for small- and medium-sized companies to enter export coal trade through exporting trading companies, directed Commission to report its finding and recommendations to President and Congress within two years after its first meeting, and terminated Commission upon submission of its report.
 
-### § 4012. Application for issuance of certificate of review
+### § 4012. Application for issuance of certificate of review
 
 **(a) Written form; limitation to export trade; compliance with regulations** To apply for a certificate of review, a person shall submit to the Secretary a written application which—
 
@@ -155,7 +155,7 @@ Pub. L. 99–83, title XIII, § 1304, Aug. 8, 1985, 99 Stat. 282, provided for
 
 **(C)** any other relevant information (as determined by the Secretary) in the possession of the Secretary, including information regarding the market share of the applicant in the line of commerce to which the conduct specified in the application relates.
 
-(Pub. L. 97–290, title III, § 302, Oct. 8, 1982, 96 Stat. 1240.)
+(Pub. L. 97–290, title III, § 302, Oct. 8, 1982, 96 Stat. 1240.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -163,7 +163,7 @@ Pub. L. 99–83, title XIII, § 1304, Aug. 8, 1985, 99 Stat. 282, provided for
 
 Section effective 90 days after effective date of rules and regulations first promulgated under section 4020 of this title, see section 312(b) of Pub. L. 97–290 set out as a note under section 4011 of this title.
 
-### § 4013. Issuance of certificate
+### § 4013. Issuance of certificate
 
 **(a) Requirements** A certificate of review shall be issued to any applicant that establishes that its specified export trade, export trade activities, and methods of operation will—
 
@@ -201,7 +201,7 @@ If the Secretary denies an application for the issuance of a certificate of revi
 
 A certificate shall be void ab initio with respect to any export trade, export trade activities, or methods of operation for which a certificate was procured by fraud.
 
-(Pub. L. 97–290, title III, § 303, Oct. 8, 1982, 96 Stat. 1241.)
+(Pub. L. 97–290, title III, § 303, Oct. 8, 1982, 96 Stat. 1241.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -209,7 +209,7 @@ A certificate shall be void ab initio with respect to any export trade, export t
 
 Section effective 90 days after effective date of rules and regulations first promulgated under section 4020 of this title, see section 312(b) of Pub. L. 97–290 set out as a note under section 4011 of this title.
 
-### § 4014. Reporting requirement; amendment of certificate; revocation
+### § 4014. Reporting requirement; amendment of certificate; revocation
 
 **(a) Report of changes in matters specified; application to amend; treatment as application for issuance**
 
@@ -229,7 +229,7 @@ Section effective 90 days after effective date of rules and regulations first pr
 
 **(3)** For purposes of carrying out this subsection, the Attorney General, and the Assistant Attorney General in charge of the antitrust division of the Department of Justice, may conduct investigations in the same manner as the Attorney General and the Assistant Attorney General conduct investigations under section 1312 of this title, except that no civil investigative demand may be issued to a person to whom a certificate of review is issued if such person is the target of such investigation.
 
-(Pub. L. 97–290, title III, § 304, Oct. 8, 1982, 96 Stat. 1242.)
+(Pub. L. 97–290, title III, § 304, Oct. 8, 1982, 96 Stat. 1242.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -237,7 +237,7 @@ Section effective 90 days after effective date of rules and regulations first pr
 
 Section effective Oct. 8, 1982, see section 312 of Pub. L. 97–290, set out as a note under section 4011 of this title.
 
-### § 4015. Judicial review; admissibility
+### § 4015. Judicial review; admissibility
 
 **(a) District court review of grants or denials; erroneous determination**
 
@@ -251,7 +251,7 @@ Except as provided in subsection (a), no action by the Secretary or the Attorney
 
 If the Secretary denies, in whole or in part, an application for a certificate of review or for an amendment to a certificate, or revokes or amends a certificate, neither the negative determination nor the statement of reasons therefor shall be admissible in evidence, in any administrative or judicial proceeding, in support of any claim under the antitrust laws.
 
-(Pub. L. 97–290, title III, § 305, Oct. 8, 1982, 96 Stat. 1243.)
+(Pub. L. 97–290, title III, § 305, Oct. 8, 1982, 96 Stat. 1243.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -259,7 +259,7 @@ If the Secretary denies, in whole or in part, an application for a certificate o
 
 Section effective Oct. 8, 1982, see section 312 of Pub. L. 97–290, set out as a note under section 4011 of this title.
 
-### § 4016. Protection conferred by certificate of review
+### § 4016. Protection conferred by certificate of review
 
 **(a) Protection from civil or criminal antitrust actions**
 
@@ -277,7 +277,7 @@ Except as provided in subsection (b), no criminal or civil action may be brought
 
 **(5)** The Attorney General may file suit pursuant to section 25 of this title to enjoin conduct threatening clear and irreparable harm to the national interest.
 
-(Pub. L. 97–290, title III, § 306, Oct. 8, 1982, 96 Stat. 1243.)
+(Pub. L. 97–290, title III, § 306, Oct. 8, 1982, 96 Stat. 1243.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -285,7 +285,7 @@ Except as provided in subsection (b), no criminal or civil action may be brought
 
 Section effective Oct. 8, 1982, see section 312 of Pub. L. 97–290, set out as a note under section 4011 of this title.
 
-### § 4017. Guidelines
+### § 4017. Guidelines
 
 **(a) Issuance; content** To promote greater certainty regarding the application of the antitrust laws to export trade, the Secretary, with the concurrence of the Attorney General, may issue guidelines—
 
@@ -297,7 +297,7 @@ Section effective Oct. 8, 1982, see section 312 of Pub. L. 97–290, set out as 
 
 Section 553 of title 5 shall not apply to the issuance of guidelines under subsection (a).
 
-(Pub. L. 97–290, title III, § 307, Oct. 8, 1982, 96 Stat. 1244.)
+(Pub. L. 97–290, title III, § 307, Oct. 8, 1982, 96 Stat. 1244.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -305,11 +305,11 @@ Section 553 of title 5 shall not apply to the issuance of guidelines under subse
 
 Section effective Oct. 8, 1982, see section 312 of Pub. L. 97–290, set out as a note under section 4011 of this title.
 
-### § 4018. Annual reports
+### § 4018. Annual reports
 
 Every person to whom a certificate of review is issued shall submit to the Secretary an annual report, in such form and at such time as the Secretary may require, that updates where necessary the information required by section 4012(a) of this title.
 
-(Pub. L. 97–290, title III, § 308, Oct. 8, 1982, 96 Stat. 1244.)
+(Pub. L. 97–290, title III, § 308, Oct. 8, 1982, 96 Stat. 1244.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -317,7 +317,7 @@ Every person to whom a certificate of review is issued shall submit to the Secre
 
 Section effective Oct. 8, 1982, see section 312 of Pub. L. 97–290, set out as a note under section 4011 of this title.
 
-### § 4019. Disclosure of information
+### § 4019. Disclosure of information
 
 **(a) Exemption**
 
@@ -341,7 +341,7 @@ Information submitted by any person in connection with the issuance, amendment, 
 
 **(F)** in accordance with any rule or regulation promulgated under section 4020 of this title permitting the disclosure of the information to an agency of the United States or of a State on the condition that the agency will disclose the information only under the circumstances specified in subparagraphs (A) through (E).
 
-(Pub. L. 97–290, title III, § 309, Oct. 8, 1982, 96 Stat. 1244.)
+(Pub. L. 97–290, title III, § 309, Oct. 8, 1982, 96 Stat. 1244.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -349,11 +349,11 @@ Information submitted by any person in connection with the issuance, amendment, 
 
 Section effective Oct. 8, 1982, see section 312 of Pub. L. 97–290, set out as a note under section 4011 of this title.
 
-### § 4020. Rules and regulations
+### § 4020. Rules and regulations
 
 The Secretary, with the concurrence of the Attorney General, shall promulgate such rules and regulations as are necessary to carry out the purposes of this chapter.
 
-(Pub. L. 97–290, title III, § 310, Oct. 8, 1982, 96 Stat. 1245.)
+(Pub. L. 97–290, title III, § 310, Oct. 8, 1982, 96 Stat. 1245.)
 
 **Editorial Notes**
 
@@ -367,7 +367,7 @@ This chapter, referred to in text, was in original “this Act”, meaning Pub. 
 
 Section effective Oct. 8, 1982, see section 312 of Pub. L. 97–290, set out as a note under section 4011 of this title.
 
-### § 4021. Definitions
+### § 4021. Definitions
 
 As used in this subchapter—
 
@@ -393,7 +393,7 @@ As used in this subchapter—
 
 **(8)** the term “Attorney General” means the Attorney General of the United States or his designee.
 
-(Pub. L. 97–290, title III, § 311, Oct. 8, 1982, 96 Stat. 1245.)
+(Pub. L. 97–290, title III, § 311, Oct. 8, 1982, 96 Stat. 1245.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -403,7 +403,7 @@ Section effective Oct. 8, 1982, see section 312 of Pub. L. 97–290, set out as 
 
 ## SUBCHAPTER III—EXPORT PROMOTION PROGRAMS
 
-### § 4051. Requirement of prior authorization
+### § 4051. Requirement of prior authorization
 
 **(a) General rule** Notwithstanding any other provision of law, money appropriated to the Department of Commerce for expenses to carry out any export promotion program may be obligated or expended only if—
 
@@ -441,7 +441,7 @@ The provisions of this section shall not be superseded except by a provision of 
 
 **(2)** Any fees received by the Secretary pursuant to paragraph (1) shall be deposited in a separate account or accounts which may be used to defray directly the costs incurred in conducting activities authorized by paragraph (1) or to repay or make advances to appropriations or other funds available for such activities.
 
-(Pub. L. 99–64, title II, § 201, July 12, 1985, 99 Stat. 157; Pub. L. 100–418, title II, §§ 2305(a), 2308(a), Aug. 23, 1988, 102 Stat. 1344, 1346.)
+(Pub. L. 99–64, title II, § 201, July 12, 1985, 99 Stat. 157; Pub. L. 100–418, title II, §§ 2305(a), 2308(a), Aug. 23, 1988, 102 Stat. 1344, 1346.)
 
 **Editorial Notes**
 
@@ -451,15 +451,15 @@ Section was enacted as part of the Export Administration Amendments Act of 1985,
 
 **Amendments**
 
-1988—Subsec. (d)(5). Pub. L. 100–418, § 2305(a), added par. (5).
+1988—Subsec. (d)(5). Pub. L. 100–418, § 2305(a), added par. (5).
 
-Subsec. (e). Pub. L. 100–418, § 2308(a), added subsec. (e).
+Subsec. (e). Pub. L. 100–418, § 2308(a), added subsec. (e).
 
-### § 4052. Authorization of appropriations
+### § 4052. Authorization of appropriations
 
 There are authorized to be appropriated to the Department of Commerce to carry out export promotion programs such sums as are necessary for fiscal years 1995 and 1996.
 
-(Pub. L. 99–64, title II, § 202, July 12, 1985, 99 Stat. 158; Pub. L. 99–633, § 2, Nov. 7, 1986, 100 Stat. 3522; Pub. L. 100–418, title II, § 2305(b)(1), Aug. 23, 1988, 102 Stat. 1344; Pub. L. 102–429, title II, § 208, Oct. 21, 1992, 106 Stat. 2205; Pub. L. 103–392, title III, § 301, Oct. 22, 1994, 108 Stat. 4099.)
+(Pub. L. 99–64, title II, § 202, July 12, 1985, 99 Stat. 158; Pub. L. 99–633, § 2, Nov. 7, 1986, 100 Stat. 3522; Pub. L. 100–418, title II, § 2305(b)(1), Aug. 23, 1988, 102 Stat. 1344; Pub. L. 102–429, title II, § 208, Oct. 21, 1992, 106 Stat. 2205; Pub. L. 103–392, title III, § 301, Oct. 22, 1994, 108 Stat. 4099.)
 
 **Editorial Notes**
 
@@ -485,7 +485,7 @@ Section was enacted as part of the Export Administration Amendments Act of 1985,
 
 1986—Pub. L. 99–633 substituted provisions authorizing appropriations of $123,922,000 for each of the fiscal years 1987 and 1988 for provisions authorizing appropriations of $113,273,000 for each of the fiscal years 1985 and 1986.
 
-### § 4053. Barter arrangements
+### § 4053. Barter arrangements
 
 **(a) Report on status of Federal barter programs**
 
@@ -509,7 +509,7 @@ The President shall take steps to ensure that, in making any barter described in
 
 The Secretary of Energy shall report to the Congress on the effect on energy security and on domestic energy supplies of any action taken under this section which results in the acquisition by the Government of petroleum or petroleum products. Such report shall be submitted to the Congress not later than 90 days after such acquisition.
 
-(Pub. L. 99–64, title II, § 203, July 12, 1985, 99 Stat. 158.)
+(Pub. L. 99–64, title II, § 203, July 12, 1985, 99 Stat. 158.)
 
 **Editorial Notes**
 

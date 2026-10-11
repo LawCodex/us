@@ -15,25 +15,25 @@ retrieved: 2026-10-11
 
 # CHAPTER 12—LEASE, SALE, OR SURRENDER OF ALLOTTED OR UNALLOTTED LANDS
 
-## § 391. Continuance of restrictions on alienation in patent
+## § 391. Continuance of restrictions on alienation in patent
 
 Prior to the expiration of the trust period of any Indian allottee to whom a trust or other patent containing restrictions upon alienation has been or shall be issued under any law or treaty the President may, in his discretion, continue such restrictions on alienation for such period as he may deem best: *Provided, however*, That this shall not apply to lands in the former Indian Territory.
 
 (June 21, 1906, ch. 3504, 34 Stat. 326.)
 
-## § 391a. Sale for town site; removal of restriction
+## § 391a. Sale for town site; removal of restriction
 
 For the purpose of allowing any Indian allottee to sell for townsite purposes any portion of the lands allotted to him, the Secretary of the Interior may, by order, remove restrictions upon the alienation of such lands and issue fee-simple patents therefor under such rules and regulations as he may prescribe.
 
 (June 21, 1906, ch. 3504, 34 Stat. 373.)
 
-## § 392. Consent to or approval of alienation of allotments by Secretary of the Interior
+## § 392. Consent to or approval of alienation of allotments by Secretary of the Interior
 
 Whenever, in any law or treaty or in any patent issued to Indian allottees for lands in severalty pursuant to such law or treaty, there appears a provision to the effect that the lands so allotted cannot be alienated without the consent of the President of the United States, the Secretary of the Interior shall have full power and authority to consent to or approve of the alienation of such allotments, in whole or in part, in his discretion, by deed, will, lease, or any other form of conveyance, and such consent or approval by the Secretary of the Interior on and after September 21, 1922, had in all such cases shall have the same force and legal effect as though the consent or approval of the President had previously been obtained: *Provided, however*, That the approval by the Secretary of the Interior of wills by Indian allottees or their heirs involving lands held under such patents shall not operate to remove the restrictions against alienation unless such order of approval by said Secretary shall specifically so direct.
 
-(Sept. 21, 1922, ch. 367, § 6, 42 Stat. 995.)
+(Sept. 21, 1922, ch. 367, § 6, 42 Stat. 995.)
 
-## § 393. Leases of restricted allotments
+## § 393. Leases of restricted allotments
 
 The restricted allotment of any Indian may be leased for farming and grazing purposes by the allottee or his heirs, subject only to the approval of the superintendent or other officer in charge of the reservation where the land is located, under such rules and regulations as the Secretary of the Interior may prescribe: *Provided*, That this provision shall not apply to the Five Civilized Tribes.
 
@@ -43,9 +43,9 @@ The restricted allotment of any Indian may be leased for farming and grazing pur
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 393a. Lands of Five Civilized Tribes
+## § 393a. Lands of Five Civilized Tribes
 
 From and after thirty days from February 11, 1936 the restricted lands belonging to Indians of the Five Civilized Tribes in Oklahoma of one-half or more Indian blood, enrolled or unenrolled, may be leased for periods of not to exceed five years for farming and grazing purposes, under such rules and regulations as the Secretary of the Interior may prescribe and not otherwise. Such leases shall be made by the owner or owners of such lands, if adults, subject to approval by the superintendent or other official in charge of the Five Civilized Tribes Agency, and by such superintendent or other official in charge of said agency in cases of minors and of Indians who are non compos mentis.
 
@@ -55,15 +55,15 @@ From and after thirty days from February 11, 1936 the restricted lands belonging
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 394. Leases of arid allotted lands
+## § 394. Leases of arid allotted lands
 
 Whenever it shall appear to the satisfaction of the Secretary of the Interior that the allotted lands of any Indian are arid but susceptible of irrigation and that the allottee, by reason of old age or other disability, cannot personally occupy or improve his allotment or any portion thereof, such lands, or such portion thereof, may be leased for a period not exceeding ten years, under such terms, rules, and regulations as may be prescribed by the Secretary of the Interior.
 
-(May 18, 1916, ch. 125, § 1, 39 Stat. 128.)
+(May 18, 1916, ch. 125, § 1, 39 Stat. 128.)
 
-## § 395. Leases of allotted lands where allottee is in­capacitated
+## § 395. Leases of allotted lands where allottee is in­capacitated
 
 Whenever it shall be made to appear to the Secretary of the Interior that, by reason of age, disability, or inability, any allottee of Indian lands cannot personally, and with benefit to himself, occupy or improve his allotment or any part thereof, the same may be leased upon such terms, regulations, and conditions as shall be prescribed by the Secretary for a term not exceeding five years, for farming purposes only.
 
@@ -91,11 +91,11 @@ Special provisions for leasing allotted lands on certain reservations named in U
 
 Special provisions permitting Indians to whom lands have been allotted on the Yakima Indian reservation in the State of Washington, to lease such lands for agricultural purposes for a term not exceeding 5 years, or unimproved lands for a term not exceeding 10 years were made by acts May 31, 1900, ch. 598, 31 Stat. 246; Mar. 1, 1899, ch. 324, 30 Stat. 941.
 
-## § 396. Leases of allotted lands for mining purposes
+## § 396. Leases of allotted lands for mining purposes
 
 All lands allotted to Indians in severalty, except allotments made to members of the Five Civilized Tribes and Osage Indians in Oklahoma, may by said allottee be leased for mining purposes for any term of years as may be deemed advisable by the Secretary of the Interior; and the Secretary of the Interior is authorized to perform any and all acts and make such rules and regulations as may be necessary for the purpose of carrying the provisions of this section into full force and effect: *Provided*, That if the said allottee is deceased and the heirs to or devisees of any interest in the allotment have not been determined, or, if determined, some or all of them cannot be located, the Secretary of the Interior may offer for sale leases for mining purposes to the highest responsible qualified bidder, at public auction, or on sealed bids, after notice and advertisement, upon such terms and conditions as the Secretary of the Interior may prescribe. The Secretary of the Interior shall have the right to reject all bids whenever in his judgment the interests of the Indians will be served by so doing, and to readvertise such lease for sale.
 
-(Mar. 3, 1909, ch. 263, 35 Stat. 783; Aug. 9, 1955, ch. 615, § 3, 69 Stat. 540.)
+(Mar. 3, 1909, ch. 263, 35 Stat. 783; Aug. 9, 1955, ch. 615, § 3, 69 Stat. 540.)
 
 **Editorial Notes**
 
@@ -107,33 +107,33 @@ All lands allotted to Indians in severalty, except allotments made to members of
 
 **Leases of Certain Allotted Lands**
 
-Pub. L. 106–462, title II, § 201, Nov. 7, 2000, 114 Stat. 2007, authorized the Secretary of the Interior to approve oil or gas leases affecting individually owned Navajo Indian allotted lands in certain circumstances and defined pertinent terms with respect to such leases.
+Pub. L. 106–462, title II, § 201, Nov. 7, 2000, 114 Stat. 2007, authorized the Secretary of the Interior to approve oil or gas leases affecting individually owned Navajo Indian allotted lands in certain circumstances and defined pertinent terms with respect to such leases.
 
-Pub. L. 105–188, § 1, July 7, 1998, 112 Stat. 620, as amended by Pub. L. 106–67, § 1(2), Oct. 6, 1999, 113 Stat. 979, authorized Secretary of the Interior to approve any mineral lease or agreement that affects individually owned land located within Fort Berthold Indian Reservation in North Dakota or certain former Indian reservations located in Oklahoma upon consent of majority interest and best interest determination.
+Pub. L. 105–188, § 1, July 7, 1998, 112 Stat. 620, as amended by Pub. L. 106–67, § 1(2), Oct. 6, 1999, 113 Stat. 979, authorized Secretary of the Interior to approve any mineral lease or agreement that affects individually owned land located within Fort Berthold Indian Reservation in North Dakota or certain former Indian reservations located in Oklahoma upon consent of majority interest and best interest determination.
 
-## § 396a. Leases of unallotted lands for mining purposes; duration of leases
+## § 396a. Leases of unallotted lands for mining purposes; duration of leases
 
 On and after May 11, 1938, unallotted lands within any Indian reservation or lands owned by any tribe, group, or band of Indians under Federal jurisdiction, except those specifically excepted from the provisions of sections 396a to 396g of this title, may, with the approval of the Secretary of the Interior, be leased for mining purposes, by authority of the tribal council or other authorized spokesmen for such Indians, for terms not to exceed ten years and as long thereafter as minerals are produced in paying quantities.
 
-(May 11, 1938, ch. 198, § 1, 52 Stat. 347.)
+(May 11, 1938, ch. 198, § 1, 52 Stat. 347.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Repeal of Inconsistent Acts**
 
-Act May 11, 1938, ch. 198, § 7, 52 Stat. 348, provided that: “All Act [Acts] or parts of Acts inconsistent herewith are hereby repealed.”
+Act May 11, 1938, ch. 198, § 7, 52 Stat. 348, provided that: “All Act [Acts] or parts of Acts inconsistent herewith are hereby repealed.”
 
-## § 396b. Public auction of oil and gas leases; requirements
+## § 396b. Public auction of oil and gas leases; requirements
 
 Leases for oil- and/or gas-mining purposes covering such unallotted lands shall be offered for sale to the highest responsible qualified bidder, at public auction or on sealed bids, after notice and advertisement, upon such terms and subject to such conditions as the Secretary of the Interior may prescribe. Such advertisement shall reserve to the Secretary of the Interior the right to reject all bids whenever in his judgment the interest of the Indians will be served by so doing, and if no satisfactory bid is received, or the accepted bidder fails to complete the lease, or the Secretary of the Interior shall determine that it is unwise in the interest of the Indians to accept the highest bid, said Secretary may readvertise such lease for sale, or with the consent of the tribal council or other governing tribal authorities, a lease may be made by private negotiations: *Provided*, That the foregoing provisions shall in no manner restrict the right of tribes organized and incorporated under sections 16 and 17 of the Act of June 18, 1934 (48 Stat. 984) [25 U.S.C. 5123, 5124], to lease lands for mining purposes as therein provided and in accordance with the provisions of any constitution and charter adopted by any Indian tribe pursuant to the Act of June 18, 1934 [25 U.S.C. 5101 et seq.].
 
-(May 11, 1938, ch. 198, § 2, 52 Stat. 347.)
+(May 11, 1938, ch. 198, § 2, 52 Stat. 347.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of June 18, 1934, referred to in text, is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which is classified generally to chapter 45 (§ 5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
+Act of June 18, 1934, referred to in text, is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which is classified generally to chapter 45 (§ 5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -141,11 +141,11 @@ Act of June 18, 1934, referred to in text, is act June 18, 1934, ch. 576, 48 Sta
 
 For repeal of inconsistent acts, see section 7 of act May 11, 1938, set out as a note under section 396a of this title.
 
-## § 396c. Lessees of restricted lands to furnish bonds for performance
+## § 396c. Lessees of restricted lands to furnish bonds for performance
 
 On and after May 11, 1938, lessees of restricted Indian lands, tribal or allotted, for mining purposes, including oil and gas, shall furnish corporate surety bonds, in amounts satisfactory to the Secretary of the Interior, guaranteeing compliance with the terms of their leases: *Provided*, That personal surety bonds may be accepted where the sureties deposit as collateral with the said Secretary of the Interior any public-debt obligations of the United States guaranteed as to principal and interest by the United States equal to the full amount of such bonds, or other collateral satisfactory to the Secretary of the Interior, or show ownership to unencumbered real estate of a value equal to twice the amount of the bonds.
 
-(May 11, 1938, ch. 198, § 3, 52 Stat. 348.)
+(May 11, 1938, ch. 198, § 3, 52 Stat. 348.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -153,11 +153,11 @@ On and after May 11, 1938, lessees of restricted Indian lands, tribal or allotte
 
 For repeal of inconsistent acts, see section 7 of act May 11, 1938, set out as a note under section 396a of this title.
 
-## § 396d. Rules and regulations governing operations; limitations on oil or gas leases
+## § 396d. Rules and regulations governing operations; limitations on oil or gas leases
 
 All operations under any oil, gas, or other mineral lease issued pursuant to the terms of sections 396a to 396g of this title or any other Act affecting restricted Indian lands shall be subject to the rules and regulations promulgated by the Secretary of the Interior. In the discretion of the said Secretary, any lease for oil or gas issued under the provisions of sections 396a to 396g of this title shall be made subject to the terms of any reasonable cooperative unit or other plan approved or prescribed by said Secretary prior or subsequent to the issuance of any such lease which involves the development or production of oil or gas from land covered by such lease.
 
-(May 11, 1938, ch. 198, § 4, 52 Stat. 348.)
+(May 11, 1938, ch. 198, § 4, 52 Stat. 348.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -165,11 +165,11 @@ All operations under any oil, gas, or other mineral lease issued pursuant to the
 
 For repeal of inconsistent acts, see section 7 of act May 11, 1938, set out as a note under section 396a of this title.
 
-## § 396e. Officials authorized to approve leases
+## § 396e. Officials authorized to approve leases
 
 The Secretary of the Interior may, in his discretion, authorize superintendents or other officials in the Indian Service to approve leases for oil, gas, or other mining purposes covering any restricted Indian lands, tribal or allotted.
 
-(May 11, 1938, ch. 198, § 5, 52 Stat. 348.)
+(May 11, 1938, ch. 198, § 5, 52 Stat. 348.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -181,13 +181,13 @@ For repeal of inconsistent acts, see section 7 of act May 11, 1938, set out as a
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 396f. Lands excepted from leasing provisions
+## § 396f. Lands excepted from leasing provisions
 
 Sections 396a, 396b, 396c, and 396d of this title shall not apply to the Crow Reservation in Montana, the ceded lands of the Shoshone Reservation in Wyoming, the Osage Reservation in Oklahoma, nor to the coal and asphalt lands of the Choctaw and Chickasaw Tribes in Oklahoma.
 
-(May 11, 1938, ch. 198, § 6, 52 Stat. 348; May 27, 1955, ch. 106, § 2, 69 Stat. 68.)
+(May 11, 1938, ch. 198, § 6, 52 Stat. 348; May 27, 1955, ch. 106, § 2, 69 Stat. 68.)
 
 **Editorial Notes**
 
@@ -205,11 +205,11 @@ For repeal of inconsistent acts, see section 7 of act May 11, 1938, set out as a
 
 Section 1 of act May 27, 1955, authorized the leasing of minerals for mining purposes. See note under section 5103 of this title.
 
-## § 396g. Subsurface storage of oil or gas
+## § 396g. Subsurface storage of oil or gas
 
 The Secretary of the Interior, to avoid waste or to promote the conservation of natural resources or the welfare of the Indians, is authorized in his discretion to approve leases of lands that are subject to lease under section 396 or 396a of this title, for the subsurface storage of oil and gas, irrespective of the lands from which initially produced, and the Secretary is authorized, in order to provide for the subsurface storage of oil or gas, to approve modifications, amendments, or extensions of the oil and gas or other mining lease(s), if any, in effect as to restricted Indian lands, tribal or allotted, and may promulgate rules and regulations consistent with such leases, modifications, amendments, and extensions, relating to the storage of oil or gas thereunder. Any such leases may provide for the payment of a storage fee or rental on such stored oil or gas or, in lieu of such fee or rental, for a royalty other than that prescribed in the lease when such stored oil or gas is produced in conjunction with oil or gas not previously produced. It may be provided that any oil and gas lease under which storage of oil or gas is so authorized shall be continued in effect at least for the period of such storage use and so long thereafter as oil or gas not previously produced is produced in paying quantities.
 
-(May 11, 1938, ch. 198, § 8, as added Aug. 1, 1956, ch. 808, 70 Stat. 774.)
+(May 11, 1938, ch. 198, § 8, as added Aug. 1, 1956, ch. 808, 70 Stat. 774.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -217,47 +217,47 @@ The Secretary of the Interior, to avoid waste or to promote the conservation of 
 
 For repeal of inconsistent acts, see section 7 of act May 11, 1938, set out as a note under section 396a of this title.
 
-## § 397. Leases of lands for grazing or mining
+## § 397. Leases of lands for grazing or mining
 
 Where lands are occupied by Indians who have bought and paid for the same, and which lands are not needed for farming or agricultural purposes, and are not desired for individual allotments, the same may be leased by authority of the council speaking for such Indians, for a period not to exceed five years for grazing, or ten years for mining purposes in such quantities and upon such terms and conditions as the agent in charge of such reservation may recommend, subject to the approval of the Secretary of the Interior.
 
-(Feb. 28, 1891, ch. 383, § 3, 26 Stat. 795.)
+(Feb. 28, 1891, ch. 383, § 3, 26 Stat. 795.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 398. Leases of unallotted lands for oil and gas mining purposes
+## § 398. Leases of unallotted lands for oil and gas mining purposes
 
 Unallotted land on Indian reservations other than lands of the Five Civilized Tribes and the Osage Reservation subject to lease for mining purposes for a period of ten years under section 397 of this title may be leased at public auction by the Secretary of the Interior, with the consent of the council speaking for such Indians, for oil and gas mining purposes for a period of not to exceed ten years, and as much longer as oil or gas shall be found in paying quantities, and the terms of any existing oil and gas mining lease may in like manner be amended by extending the term thereof for as long as oil or gas shall be found in paying quantities: *Provided*, That the production of oil and gas and other minerals on such lands may be taxed by the State in which said lands are located in all respects the same as production on unrestricted lands, and the Secretary of the Interior is authorized and directed to cause to be paid the tax so assessed against the royalty interests on said lands: *Provided, however*, That such tax shall not become a lien or charge of any kind or character against the land or the property of the Indian owner.
 
 (May 29, 1924, ch. 210, 43 Stat. 244.)
 
-## § 398a. Leases of unallotted lands for oil and gas mining purposes within Executive order Indian reservations
+## § 398a. Leases of unallotted lands for oil and gas mining purposes within Executive order Indian reservations
 
 Unallotted lands within the limits of any reservation or withdrawal created by Executive order for Indian purposes or for the use or occupancy of any Indians or tribe may be leased for oil and gas mining purposes in accordance with the provisions contained in section 398 of this title.
 
-(Mar. 3, 1927, ch. 299, § 1, 44 Stat. 1347.)
+(Mar. 3, 1927, ch. 299, § 1, 44 Stat. 1347.)
 
-## § 398b. Proceeds from rentals, royalties, and bonuses; disposition
+## § 398b. Proceeds from rentals, royalties, and bonuses; disposition
 
 The proceeds from rentals, royalties, or bonuses of oil and gas leases upon lands within Executive order Indian reservations or withdrawals shall be deposited in the Treasury of the United States to the credit of the tribe of Indians for whose benefit the reservation or withdrawal was created or who are using and occupying the land, and shall draw interest at the rate of 4 per centum per annum and be available for appropriation by Congress for expenses in connection with the supervision of the development and operation of the oil and gas industry and for the use and benefit of such Indians: *Provided*, That said Indians, or their tribal council, shall be consulted in regard to the expenditure of such money, but no per capita payment shall be made except by Act of Congress.
 
-(Mar. 3, 1927, ch. 299, § 2, 44 Stat. 1347.)
+(Mar. 3, 1927, ch. 299, § 2, 44 Stat. 1347.)
 
-## § 398c. Taxes
+## § 398c. Taxes
 
 Taxes may be levied and collected by the State or local authority upon improvements, output of mines or oil and gas wells, or other rights, property, or assets of any lessee upon lands within Executive order Indian reservations in the same manner as such taxes are otherwise levied and collected, and such taxes may be levied against the share obtained for the Indians as bonuses, rentals, and royalties, and the Secretary of the Interior is hereby authorized and directed to cause such taxes to be paid out of the tribal funds in the Treasury: *Provided*, That such taxes shall not become a lien or charge of any kind against the land or other property of such Indians.
 
-(Mar. 3, 1927, ch. 299, § 3, 44 Stat. 1347.)
+(Mar. 3, 1927, ch. 299, § 3, 44 Stat. 1347.)
 
-## § 398d. Changes in boundaries of Executive order reservations
+## § 398d. Changes in boundaries of Executive order reservations
 
 Changes in the boundaries of reservations created by Executive order, proclamation, or otherwise for the use and occupation of Indians shall not be made except by Act of Congress.
 
-(Mar. 3, 1927, ch. 299, § 4, 44 Stat. 1347; Pub. L. 94–579, title VII, § 704(a), Oct. 21, 1976, 90 Stat. 2792.)
+(Mar. 3, 1927, ch. 299, § 4, 44 Stat. 1347; Pub. L. 94–579, title VII, § 704(a), Oct. 21, 1976, 90 Stat. 2792.)
 
 **Editorial Notes**
 
@@ -269,25 +269,25 @@ Changes in the boundaries of reservations created by Executive order, proclamati
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–579, title VII, § 704(a), Oct. 21, 1976, 90 Stat. 2792, provided that the amendment made by that section is effective on and after Oct. 21, 1976.
+Pub. L. 94–579, title VII, § 704(a), Oct. 21, 1976, 90 Stat. 2792, provided that the amendment made by that section is effective on and after Oct. 21, 1976.
 
 **Savings Provision**
 
 Amendment by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see Savings Provision note set out under section 1701 of Title 43, Public Lands.
 
-## § 398e. Applications for permits to prospect for oil and gas filed under other statutes; disposition
+## § 398e. Applications for permits to prospect for oil and gas filed under other statutes; disposition
 
 The Secretary of the Interior is hereby authorized, under such rules and regulations as he may prescribe, to allow any person who prior to May 27, 1924, filed an application for a permit in accordance with the provisions of the Act of February 25, 1920, to prospect for oil and gas upon lands within an Indian reservation or withdrawal created by Executive order who shall show to the satisfaction of the Secretary of the Interior that he, or the party with whom he has contracted, has done prior to January 1, 1926, any or all of the following things, to wit, expended money or labor in geologically surveying the lands covered by such application, has built a road for the benefit of such lands, or has drilled or contributed toward the drilling of the geologic structure upon which such lands are located, or who in good faith has either filed a motion for reinstatement or rehearing; or performed any other act which in the judgment of the Secretary of the Interior entitles him to equitable relief, to prospect for a period of two years from March 3, 1927, or for such further time as the Secretary of the Interior may deem reasonable or necessary for the full exploration of the land described in his application under the terms and conditions therein set out, and a substantial contribution toward the drilling of the geologic structure thereon by such applicant for a permit thereon may be considered as prospecting under the provisions hereof; and upon establishing to the satisfaction of the Secretary of the Interior that valuable deposits of oil and gas have been discovered within the limits of the land embraced in any such application, he shall be entitled to a lease for one-fourth of the land embraced in the application: *Provided*, That the applicant shall be granted a lease for as much as one hundred and sixty acres of said lands if there be that number of acres within the application. The area to be selected by the applicant shall be in compact form and, if surveyed, to be described by the legal subdivisions of the public land surveyed; if unsurveyed, to be surveyed by the Government at the expense of the applicant for lease in accordance with rules and regulations to be prescribed by the Secretary of the Interior, and the lands leased shall be conformed to and taken in accordance with the legal subdivisions of such surveys; deposit made to cover expense of surveys shall be deemed appropriated for that purpose, and any excess deposits may be repaid to the person or persons making such deposit or their legal representatives. Such leases shall be for a term of twenty years upon a royalty of 5 per centum in amount or value of the production and the annual payment in advance of a rental of $1 per acre, the rental paid for any one year to be credited against the royalties as they may accrue for that year, with the preferential right in the lessee to renew the same for successive periods of ten years upon such reasonable terms and conditions as may be prescribed by the Secretary of the Interior. The applicant shall also be entitled to a preference right to a lease for the remainder of the land in his application at a royalty of not less than 12½ per centum in amount or value of the production, the royalty to be determined by competitive bidding or fixed by such other methods as the Secretary of the Interior may by regulations prescribe: *Provided further*, That the Secretary of the Interior shall have the right to reject any or all bids.
 
-(Mar. 3, 1927, ch. 299, § 5, 44 Stat. 1347.)
+(Mar. 3, 1927, ch. 299, § 5, 44 Stat. 1347.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of February 25, 1920, referred to in text, probably means act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
+Act of February 25, 1920, referred to in text, probably means act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
 
-## § 399. Leases of unallotted mineral lands withdrawn from entry under mining laws
+## § 399. Leases of unallotted mineral lands withdrawn from entry under mining laws
 
 [Authority of Secretary of the Interior to lease.] The Secretary of the Interior is authorized and empowered, under general regulations to be fixed by him and under such terms and conditions as he may prescribe, not inconsistent with the terms of this section, to lease to citizens of the United States, or to any association of such persons, or to any corporation organized under the laws of the United States or of any State or Territory thereof, any part of the unallotted lands within any Indian reservation within the States of Arizona, California, Idaho, Montana, Nevada, New Mexico, Oregon, Washington, or Wyoming withdrawn prior to June 30, 1919, from entry under the mining laws for the purpose of mining for deposits of gold, silver, copper, and other valuable metalliferous minerals, and nonmetalliferous minerals, not including oil and gas, which leases shall be irrevocable, except as herein provided, but which may be declared null and void upon breach of any of their terms.
 
@@ -329,7 +329,7 @@ Act of February 25, 1920, referred to in text, probably means act Feb. 25, 1920,
 
 [“Metalliferous” defined.] Wherever the term “metalliferous” is used in this section it shall be defined and construed by the Secretary of the Interior to include magnesite, gypsum, limestone, and asbestos.
 
-(June 30, 1919, ch. 4, § 26, 41 Stat. 31; Mar. 3, 1921, ch. 119, 41 Stat. 1231; Dec. 16, 1926, ch. 12, 44 Stat. 922; Pub. L. 94–550, § 10, Oct. 18, 1976, 90 Stat. 2536.)
+(June 30, 1919, ch. 4, § 26, 41 Stat. 31; Mar. 3, 1921, ch. 119, 41 Stat. 1231; Dec. 16, 1926, ch. 12, 44 Stat. 922; Pub. L. 94–550, § 10, Oct. 18, 1976, 90 Stat. 2536.)
 
 **Editorial Notes**
 
@@ -349,15 +349,15 @@ The mining laws of the United States, referred to in text, are classified genera
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1,2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1,2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 400. Leases for mining purposes of reserved and unallotted lands in Fort Peck and Blackfeet Indian Reservations
+## § 400. Leases for mining purposes of reserved and unallotted lands in Fort Peck and Blackfeet Indian Reservations
 
 Lands reserved for school and agency purposes and all other unallotted lands on the Fort Peck and Blackfeet Indian Reservations, in the State of Montana, reserved from allotment or other disposition, may be leased for mining purposes under regulations prescribed by the Secretary of the Interior.
 
 (Sept. 20, 1922, ch. 347, 42 Stat. 857.)
 
-## § 400a. Lease for mining purposes of land reserved for agency or school; disposition of proceeds; royalty
+## § 400a. Lease for mining purposes of land reserved for agency or school; disposition of proceeds; royalty
 
 The Secretary of the Interior is authorized under such rules and regulations as he may prescribe, to lease at public auction upon not less than thirty days’ public notice for mining purposes land on any Indian reservation reserved for Indian agency or school purposes, in accordance with existing law applicable to other lands in such reservation, and the proceeds arising therefrom shall be deposited in the Treasury of the United States to the credit of the Indians for whose benefit the lands are reserved subject to appropriation by Congress for educational work among the Indians or in paying expenses of administration of agencies: *Provided*, That a royalty of at least one-eighth shall be reserved in all leases.
 
@@ -367,45 +367,45 @@ The Secretary of the Interior is authorized under such rules and regulations as 
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1,2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1,2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 401. Leases for mining purposes of unallotted lands in Kaw Reservation
+## § 401. Leases for mining purposes of unallotted lands in Kaw Reservation
 
 The Secretary of the Interior is authorized to lease for mining purposes lands reserved from allotment to be used as a cemetery and not needed for that purpose, and lands reserved for school and agency purposes in the Kaw Reservation in the State of Oklahoma, and for the use and benefit of the members of the Kansas or Kaw Tribe of Indians, at public auction, upon such terms and conditions and under such rules and regulations as he may prescribe: *Provided*, That the production of oil and gas and other minerals on such lands may be taxed by the State in which said lands are located in all respects the same as production on unrestricted lands, and the Secretary of the Interior is hereby authorized and directed to cause to be paid the tax so assessed against the royalty interests on said lands: *Provided, however*, That such tax shall not become a lien or charge of any kind or character against the land or the property of the Indian owner.
 
 (Apr. 28, 1924, ch. 135, 43 Stat. 111.)
 
-## § 402. Leases of surplus lands
+## § 402. Leases of surplus lands
 
 The surplus lands of any tribe may be leased for farming purposes by the council of such tribe under the same rules and regulations and for the same term of years as was on August 15, 1894, allowed in the case of leases for grazing purposes.
 
-(Aug. 15, 1894, ch. 290, § 1, 28 Stat. 305.)
+(Aug. 15, 1894, ch. 290, § 1, 28 Stat. 305.)
 
-## § 402a. Lease of unallotted irrigable lands for farming purposes
+## § 402a. Lease of unallotted irrigable lands for farming purposes
 
 The unallotted irrigable lands on any Indian reservation may be leased for farming purposes for not to exceed ten years with the consent of the tribal council, business committee, or other authorized body representative of the Indians, under such rules and regulations as the Secretary of the Interior may prescribe.
 
 (July 3, 1926, ch. 787, 44 Stat. 894.)
 
-## § 403. Leases of lands held in trust
+## § 403. Leases of lands held in trust
 
 Any Indian allotment held under a trust patent may be leased by the allottee for a period not to exceed five years, subject to and in conformity with such rules and regulations as the Secretary of the Interior may prescribe, and the proceeds of any such lease shall be paid to the allottee or his heirs, or expended for his or their benefit, in the discretion of the Secretary of the Interior.
 
-(June 25, 1910, ch. 431, § 4, 36 Stat. 856.)
+(June 25, 1910, ch. 431, § 4, 36 Stat. 856.)
 
-## § 403a. Lease of lands on Port Madison and Snohomish or Tulalip Indian Reservations in Washington
+## § 403a. Lease of lands on Port Madison and Snohomish or Tulalip Indian Reservations in Washington
 
 Notwithstanding any other provision of law, any Indian lands on the Port Madison and Snohomish or Tulalip Indian Reservations in the State of Washington, may be leased by the Indians with the approval of the Secretary of the Interior, and upon such terms and conditions as he may prescribe, for a term not exceeding twenty-five years: *Provided, however*, That such leases may provide for renewal for an additional term not exceeding twenty-five years, and the Secretary of the Interior is hereby authorized to prescribe such rules and regulations as may be necessary to carry out the provisions of this section.
 
 (Oct. 9, 1940, ch. 781, 54 Stat. 1057.)
 
-## § 403a–1. Sale or partition by owners of interests in allotted lands in the Tulalip Reservation; termination of Federal title, trust, and restrictions
+## § 403a–1. Sale or partition by owners of interests in allotted lands in the Tulalip Reservation; termination of Federal title, trust, and restrictions
 
 Any owner of an interest in any tract of land in the Tulalip Reservation, Washington, in which any undivided interest is now or hereafter held in trust by the United States for an Indian, or is now or hereafter owned by an Indian subject to restrictions against alienation or taxation imposed by the United States, may commence in a State court of competent jurisdiction an action for the partition in kind or for the sale of such land in accordance with the laws of the State. For the purpose of any such action the Indian owners shall be regarded as vested with an unrestricted fee simple title to the land, the United States shall not be a necessary party to the proceeding, and any partition or conveyance of the land pursuant to the proceedings shall divest the United States of title to the land, terminate the Federal trust, and terminate all restrictions against alienation or taxation of the land imposed by the United States.
 
-(June 18, 1956, ch. 400, § 1, 70 Stat. 290.)
+(June 18, 1956, ch. 400, § 1, 70 Stat. 290.)
 
-## § 403a–2. Acquisition, management, and disposal of lands by Tulalip Tribe
+## § 403a–2. Acquisition, management, and disposal of lands by Tulalip Tribe
 
 **(a) Termination of Federal trust and restrictions on alienation**
 
@@ -423,7 +423,7 @@ The Tulalip Tribes may, with the approval of the Secretary of the Interior, exec
 
 Any moneys or credits received or credited to the Tulalip Tribes from the sale, exchange, mortgage, or granting of any security interest in any tribal land may be used for any tribal purpose.
 
-(June 18, 1956, ch. 400, § 2, 70 Stat. 290; Pub. L. 91–274, § 1, June 2, 1970, 84 Stat. 301.)
+(June 18, 1956, ch. 400, § 2, 70 Stat. 290; Pub. L. 91–274, § 1, June 2, 1970, 84 Stat. 301.)
 
 **Editorial Notes**
 
@@ -431,23 +431,23 @@ Any moneys or credits received or credited to the Tulalip Tribes from the sale, 
 
 1970—Pub. L. 91–274 designated existing provisions as subsec. (a), substituted the Tulalip Tribes for the Tulalip Board of Directors as the agency authorized to sell tribal lands, provided for the continuance of the trust or restricted status of such lands where the purchaser thereof is any member of the Tulalip Tribes, and struck out proviso that the proceeds from the sale of tribal lands acquired otherwise than by purchase be deposited in the U.S. Treasury to the credit of the Tulalip Tribes, and added subsecs. (b) to (d).
 
-## § 403b. Lease of restricted lands in State of Washington
+## § 403b. Lease of restricted lands in State of Washington
 
 Notwithstanding any other provisions of law, with the consent in writing of the individual Indian, association of Indians, or Indian tribe concerned, any restricted Indian lands situated within the State of Washington may be leased for religious, educational, recreational, business, or public purposes, including, but not limited to, airports, experimental station, stockyards, warehouses, and grain elevators, for periods not to exceed twenty-five years under such rules and regulations as the Secretary of the Interior may prescribe: *Provided*, That nothing in this section or section 403c of this title shall be deemed to authorize such leases for the exploitation of any natural resources.
 
-(Aug. 9, 1946, ch. 929, § 1, 60 Stat. 962.)
+(Aug. 9, 1946, ch. 929, § 1, 60 Stat. 962.)
 
-## § 403c. Identity of lessor; period of lease
+## § 403c. Identity of lessor; period of lease
 
 Such leases may be made only by the individual Indian owner of the land or by the authorized representatives of the tribe or group of Indians to whom the land belongs, subject to the approval of the Secretary of the Interior or his authorized representative. Restricted allotments of deceased Indians, when the heirs or devisees cannot agree on a lease, may be leased for them in the manner prescribed by section 380 of this title. No lease shall be made by or on behalf of any tribe for a longer period than is or may be authorized by the tribal constitution, charter, or ordinances. Nothing contained in this section or section 403b of this title shall be construed to repeal any authority to lease restricted lands which any Indian, Indian tribe, or official of the Department of the Interior would have in the absence of such sections.
 
-(Aug. 9, 1946, ch. 929, § 2, 60 Stat. 962.)
+(Aug. 9, 1946, ch. 929, § 2, 60 Stat. 962.)
 
-## § 404. Sale on petition of allottee or heirs
+## § 404. Sale on petition of allottee or heirs
 
 The lands, or any part thereof, allotted to any Indian, or any inherited interest therein, which can be sold under existing law by authority of the Secretary of the Interior, except the lands in Oklahoma and the States of Minnesota and South Dakota, may be sold on the petition of the allottee, or his heirs, on such terms and conditions and under such regulations as the Secretary of the Interior may prescribe; and the lands of a minor, or of a person deemed incompetent by the Secretary of the Interior to petition for himself, may be sold in the same manner, on the petition of the natural guardian in the case of infants, and in the case of Indians deemed incompetent as aforesaid, and of orphans without a natural guardian, on petition of a person designated for the purpose by the Secretary of the Interior. When any Indian who has received an allotment of land dies before the expiration of the trust period, the Secretary of the Interior shall ascertain the legal heirs of such Indian, and if satisfied of their ability to manage their own affairs shall cause to be issued in their names a patent in fee simple for said lands; but if he finds them incapable of managing their own affairs, the land may be sold as hereinbefore provided: *Provided*, That the proceeds derived from all sales hereunder shall be used, during the trust period, for the benefit of the allottee, or heir, so disposing of his interest, under the supervision of the Commissioner of Indian Affairs: *And provided further*, That upon the approval of any sale hereunder by the Secretary of the Interior, he shall cause a patent in fee to issue in the name of the purchaser for the lands so sold: *And provided further*, That nothing in this section shall apply to the States of Minnesota and South Dakota.
 
-(May 29, 1908, ch. 216, § 1, 35 Stat. 444.)
+(May 29, 1908, ch. 216, § 1, 35 Stat. 444.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -459,9 +459,9 @@ Special provisions for sale of interests of Indian minors in lands of the Yakima
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 405. Sale of allotment of noncompetent Indian
+## § 405. Sale of allotment of noncompetent Indian
 
 Any noncompetent Indian to whom a patent containing restrictions against alienation has been issued for an allotment of land in severalty, under any law or treaty, or who may have an interest in any allotment by inheritance, may sell or convey all or any part of such allotment or such inherited interest on such terms and conditions and under such rules and regulations as the Secretary of the Interior may prescribe, and the proceeds derived therefrom shall be used for the benefit of the allottee or heir so disposing of his land or interest, under the supervision of the Commissioner of Indian Affairs; and any conveyance made hereunder and approved by the Secretary of the Interior shall convey full title to the land or interest so sold, the same as if fee-simple patent had been issued to the allottee.
 
@@ -471,9 +471,9 @@ Any noncompetent Indian to whom a patent containing restrictions against alienat
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 406. Sale of timber on lands held under trust
+## § 406. Sale of timber on lands held under trust
 
 **(a) Deductions for administrative expenses; standards guiding sales**
 
@@ -499,19 +499,19 @@ The timber on any Indian land held under a trust or other patent containing rest
 
 A change from a trust or restricted status to an unrestricted status of any interest in timber that has been sold pursuant to this section shall not affect the obligations of the Secretary of the Interior under any contract of sale that is in effect at the time such change in status occurs.
 
-(June 25, 1910, ch. 431, § 8, 36 Stat. 857; Pub. L. 88–301, Apr. 30, 1964, 78 Stat. 187.)
+(June 25, 1910, ch. 431, § 8, 36 Stat. 857; Pub. L. 88–301, Apr. 30, 1964, 78 Stat. 187.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsec. (d), is act June 25, 1910, ch. 431, 36 Stat. 855, which enacted sections 47, 93, 151, 202, 337, 344a, 351, 352, 353, 372, 403, 406, 407, and 408 of this title, section 6a–1 of former Title 41, Public Contracts, and section 148 of Title 43, Public Lands, and amended sections 191, 312, 331, 333, and 336 of this title and sections 104 and 107 of former Title 18, Criminal Code and Criminal Procedure. Sections 104 and 107 of former Title 18 were repealed and restated as sections 1853 and 1856 of Title 18, Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, 62 Stat. 683. Section 6a–1 of former Title 41 was repealed and restated as section 6102(e) of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (d), is act June 25, 1910, ch. 431, 36 Stat. 855, which enacted sections 47, 93, 151, 202, 337, 344a, 351, 352, 353, 372, 403, 406, 407, and 408 of this title, section 6a–1 of former Title 41, Public Contracts, and section 148 of Title 43, Public Lands, and amended sections 191, 312, 331, 333, and 336 of this title and sections 104 and 107 of former Title 18, Criminal Code and Criminal Procedure. Sections 104 and 107 of former Title 18 were repealed and restated as sections 1853 and 1856 of Title 18, Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, 62 Stat. 683. Section 6a–1 of former Title 41 was repealed and restated as section 6102(e) of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
 1964—Pub. L. 88–301 designated existing provisions as subsec. (a), substituted “land” for “allotment”, “owner or owners” for “allottee” in two places, and “their benefit” for “his benefit”, and provided for deductions for administrative expenses from proceeds of sales without violation of treaty obligations or Constitutional compensation provision, for consideration of needs and best interests of owners and heirs, and for standards guiding sales, and added subsecs. (b) to (f).
 
-## § 407. Sale of timber on unallotted lands
+## § 407. Sale of timber on unallotted lands
 
 Under regulations prescribed by the Secretary of the Interior, the timber on unallotted trust land in Indian reservations or on other land held in trust for tribes may be sold in accordance with the principles of sustained-yield management or to convert the land to a more desirable use. After deduction, if any, for administrative expenses under section 413 of this title, the proceeds of the sale shall be used—
 
@@ -519,7 +519,7 @@ Under regulations prescribed by the Secretary of the Interior, the timber on una
 
 **(2)** in the absence of such a governing body, as determined by the Secretary for the tribe concerned.
 
-(June 25, 1910, ch. 431, § 7, 36 Stat. 857; Pub. L. 88–301, Apr. 30, 1964, 78 Stat. 186; Pub. L. 100–580, § 13, Oct. 31, 1988, 102 Stat. 2936.)
+(June 25, 1910, ch. 431, § 7, 36 Stat. 857; Pub. L. 88–301, Apr. 30, 1964, 78 Stat. 186; Pub. L. 100–580, § 13, Oct. 31, 1988, 102 Stat. 2936.)
 
 **Editorial Notes**
 
@@ -529,31 +529,31 @@ Under regulations prescribed by the Secretary of the Interior, the timber on una
 
 1964—Pub. L. 88–301 substituted “timber” for “mature living and dead and down timber”, provided for sale of timber in accordance with principles of sustained yield or in order to convert the land to a more desirable use, provided for deductions for administrative expenses from proceeds of sales, made the Indians who were tribal members the beneficiaries instead of the Indians of the reservation, and struck out proviso which made section inapplicable to Minnesota and Wisconsin.
 
-## §§ 407a to 407c. Omitted
+## §§ 407a to 407c. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section 407a, acts Mar. 4, 1933, ch. 275, § 1, 47 Stat. 1568; June 16, 1933, ch. 104, 48 Stat. 311; Mar. 5, 1934, ch. 46, 48 Stat. 397; May 6, 1936, ch. 340, 49 Stat. 1266, which related to modification of existing contracts for sale of tribal timber, was omitted on authority of act May 6, 1936, which provided that authority to modify existing contracts for sale of tribal timber expire on Sept. 4, 1936.
+Section 407a, acts Mar. 4, 1933, ch. 275, § 1, 47 Stat. 1568; June 16, 1933, ch. 104, 48 Stat. 311; Mar. 5, 1934, ch. 46, 48 Stat. 397; May 6, 1936, ch. 340, 49 Stat. 1266, which related to modification of existing contracts for sale of tribal timber, was omitted on authority of act May 6, 1936, which provided that authority to modify existing contracts for sale of tribal timber expire on Sept. 4, 1936.
 
-Section 407b, act Mar. 4, 1933, ch. 275, § 2, 47 Stat. 1569, which related to modification of contracts for sale of timber to individual allottee, was omitted in view of the expiration of section 407a of this title.
+Section 407b, act Mar. 4, 1933, ch. 275, § 2, 47 Stat. 1569, which related to modification of contracts for sale of timber to individual allottee, was omitted in view of the expiration of section 407a of this title.
 
-Section 407c, act Mar. 4, 1933, ch. 275, § 3, 47 Stat. 1569, which related to preference to indian labor in modified contracts, was omitted in view of the expiration of section 407a of this title.
+Section 407c, act Mar. 4, 1933, ch. 275, § 3, 47 Stat. 1569, which related to preference to indian labor in modified contracts, was omitted in view of the expiration of section 407a of this title.
 
-## § 407d. Charges for special services to purchasers of timber
+## § 407d. Charges for special services to purchasers of timber
 
 The Secretary of the Interior is authorized to charge purchasers of timber on Indian lands that are held by the United States in trust, or that are subject to restrictions against alienation or encumbrance imposed by the United States, for special services requested by the purchasers in connection with scaling, timber marking, or other activities under the contract of purchase that are in addition to the services otherwise provided by the Secretary, and the proceeds derived therefrom shall be deposited to the credit of the appropriation from which the special services were or will be provided.
 
 (July 30, 1956, ch. 781, 70 Stat. 721.)
 
-## § 408. Surrender of allotments by relinquishment for benefit of children
+## § 408. Surrender of allotments by relinquishment for benefit of children
 
 In any case where an Indian has an allotment of land, or any right, title, or interest in such an allotment, the Secretary of the Interior, in his discretion, may permit such Indian to surrender such allotment, or any right, title, or interest therein, by such formal relinquishment as may be prescribed by the Secretary of the Interior, for the benefit of any of his or her children to whom no allotment of land shall have been made; and thereupon the Secretary of the Interior shall cause the estate so relinquished to be allotted to such child or children subject to all conditions which attached to it before such relinquishment.
 
-(June 25, 1910, ch. 431, § 3, 36 Stat. 856.)
+(June 25, 1910, ch. 431, § 3, 36 Stat. 856.)
 
-## § 409. Sale of lands within reclamation projects
+## § 409. Sale of lands within reclamation projects
 
 Any Indian allotted lands under any law or treaty without the power of alienation, and within a reclamation project approved by the Secretary of the Interior, may sell and convey any part thereof, under rules and regulations prescribed by the Secretary of the Interior, but such conveyance shall be subject to his approval, and when so approved shall convey full title to the purchaser the same as if final patent without restrictions had been issued to the allottee: *Provided*, That the consideration shall be placed in the Treasury of the United States, and used by the Commissioner of Indian Affairs to pay the construction charges that may be assessed against the unsold part of the allotment, and to pay the maintenance charges thereon during the trust period, and any surplus shall be a benefit running with the water right to be paid to the holder thereof.
 
@@ -563,9 +563,9 @@ Any Indian allotted lands under any law or treaty without the power of alienatio
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 409a. Sale of restricted lands; reinvestment in other restricted lands
+## § 409a. Sale of restricted lands; reinvestment in other restricted lands
 
 Whenever any nontaxable land of a restricted Indian of the Five Civilized Tribes or of any other Indian tribe is sold to any State, county, or municipality for public-improvement purposes, or is acquired, under existing law, by any State, county, or municipality by condemnation or other proceedings for such public purposes, or is sold under existing law to any other person or corporation for other purposes, the money received for said land may, in the discretion and with the approval of the Secretary of the Interior, be reinvested in other lands selected by said Indian, and such land so selected and purchased shall be restricted as to alienation, lease, or incumbrance, and nontaxable in the same quantity and upon the same terms and conditions as the nontaxable lands from which the reinvested funds were derived, and such restrictions shall appear in the conveyance.
 
@@ -577,19 +577,19 @@ Whenever any nontaxable land of a restricted Indian of the Five Civilized Tribes
 
 1932—Act June 30, 1932, made section applicable to lands of any restricted Indian of any other Indian tribe, and provided for sale of lands to any State and acquisition by any State instead of only to and by the State of Oklahoma.
 
-## § 410. Moneys from lease or sale of trust lands not liable for certain debts
+## § 410. Moneys from lease or sale of trust lands not liable for certain debts
 
 No money accruing from any lease or sale of lands held in trust by the United States for any Indian shall become liable for the payment of any debt of, or claim against, such Indian contracted or arising during such trust period, or, in case of a minor, during his minority, except with the approval and consent of the Secretary of the Interior.
 
 (June 21, 1906, ch. 3504, 34 Stat. 327.)
 
-## § 411. Interest on moneys from proceeds of sale
+## § 411. Interest on moneys from proceeds of sale
 
 The shares of money due minor Indians as their proportion of the proceeds from the sale of ceded or tribal Indian lands, whenever such shares have been withheld from their parents, legal guardians, or others, and retained in the United States Treasury by direction of the Secretary of the Interior, shall draw interest at the rate of 3 per centum per annum, unless otherwise provided for, from the period when such proceeds have been or shall be distributed per capita among the members of the tribe of which such minor is a member; and the Secretary of the Treasury is authorized and directed to allow interest on such unpaid amounts belonging to said minors as shall be certified by the Secretary of the Interior as entitled to draw interest under this section.
 
 (June 21, 1906, ch. 3504, 34 Stat. 327.)
 
-## § 412. Payment of taxes from share of allottee in tribal funds
+## § 412. Payment of taxes from share of allottee in tribal funds
 
 In any case where the restrictions as to alienation have been removed with respect to any Indian allottee, or as to any portion of the lands of any Indian allottee, and such allottee as an individual, or as a member of any tribe, has an interest in any fund held by the United States beyond the amount by law chargeable to such Indian or tribe on account of advances, the Commissioner of Indian Affairs is authorized, prior to the date at which any penalties for the nonpayment of taxes would accrue under the laws of the State or Territory in which such land is situated, to pay such taxes and charge the amount thereof to such allottee, to be deducted from the share of such allottee in the final distribution or payment to him from such fund: *Provided*, That no such payment shall be made by said Commissioner where it is in excess of the amount which will ultimately be due said allottee.
 
@@ -599,13 +599,13 @@ In any case where the restrictions as to alienation have been removed with respe
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 412a. Exemption from taxation of lands subject to restrictions against alienation; determination of homestead
+## § 412a. Exemption from taxation of lands subject to restrictions against alienation; determination of homestead
 
 All homesteads, heretofore purchased out of the trust or restricted funds of individual Indians, are hereby declared to be instrumentalities of the Federal Government and shall be nontaxable until otherwise directed by Congress: *Provided*, That the title to such homesteads shall be held subject to restrictions against alienation or encumbrance except with the approval of the Secretary of the Interior: *And provided further*, That the Indian owner or owners shall select, with the approval of the Secretary of the Interior, either the agricultural and grazing lands, not exceeding a total of one hundred and sixty acres, or the village, town, or city property, not exceeding in cost $5,000, to be designated as a homestead.
 
-(June 20, 1936, ch. 622, § 2, 49 Stat. 1542; May 19, 1937, ch. 227, 50 Stat. 188.)
+(June 20, 1936, ch. 622, § 2, 49 Stat. 1542; May 19, 1937, ch. 227, 50 Stat. 188.)
 
 **Editorial Notes**
 
@@ -613,11 +613,11 @@ All homesteads, heretofore purchased out of the trust or restricted funds of ind
 
 1937—Act May 19, 1937, substituted “All homesteads” and “individual Indians” for “All lands the title to which is now held by an Indian subject to restrictions against alienation or encumbrance except with the consent or approval of the Secretary of the Interior” and “said Indian”, respectively, and inserted two provisos.
 
-## § 413. Fees to cover cost of work performed for Indians
+## § 413. Fees to cover cost of work performed for Indians
 
 The Secretary of the Interior is hereby authorized, in his discretion, and under such rules and regulations as he may prescribe, to collect reasonable fees to cover the cost of any and all work performed for Indian tribes or for individual Indians, to be paid by vendees, lessees, or assignees, or deducted from the proceeds of sale, leases, or other sources of revenue: *Provided*, That the amounts so collected shall be covered into the Treasury as miscellaneous receipts, except when the expenses of the work are paid from Indian tribal funds, in which event they shall be credited to such funds.
 
-(Feb. 14, 1920, ch. 75, § 1, 41 Stat. 415; Mar. 1, 1933, ch. 158, 47 Stat. 1417.)
+(Feb. 14, 1920, ch. 75, § 1, 41 Stat. 415; Mar. 1, 1933, ch. 158, 47 Stat. 1417.)
 
 **Editorial Notes**
 
@@ -625,13 +625,13 @@ The Secretary of the Interior is hereby authorized, in his discretion, and under
 
 1933—Act Mar. 1, 1933, substituted “to collect reasonable fees to cover the cost of any and all work performed for Indian tribes or individual Indians” for “to charge a reasonable fee for the work incident to the sale, leasing, or assigning of such lands, or in the sale of the timber, or in the administration of Indian forests” and “deducted from the proceeds of sale, leases, or other sources of revenue” for “from the proceeds of sales”, struck out introductory text “In the sale of all Indian allotments, or in leases, or assignment of leases covering, tribal or allotted lands for mineral, farming, grazing, business or other purposes, or in the sale of timber thereon” and provided for the use of discretion and the crediting of Indian tribal funds.
 
-## § 414. Reservation of minerals in sale of Choctaw-Chickasaw lands
+## § 414. Reservation of minerals in sale of Choctaw-Chickasaw lands
 
 On and after August 25, 1937, in all sales of tribal lands of the Choctaw and Chickasaw Indians in Oklahoma provided for by existing law, the Secretary of the Interior is hereby authorized to offer such lands for sale subject to a reservation of the mineral rights therein, including oil and gas, for the benefit of said Indians, whenever in his judgment the interests of the Indians will best be served thereby.
 
 (Aug. 25, 1937, ch. 778, 50 Stat. 810.)
 
-## § 415. Leases of restricted lands
+## § 415. Leases of restricted lands
 
 **(a) Authorized purposes; term; approval by Secretary**
 
@@ -785,7 +785,7 @@ The Secretary may provide technical assistance, upon request of the Indian tribe
 
 The technical assistance to be provided by the Secretary pursuant to subparagraph (C) may be made available through contracts, grants, or agreements entered into in accordance with, and made available to entities eligible for, such contracts, grants, or agreements under the Indian Self-Determination Act (25 U.S.C. 450 et seq.).3
 
-<sup>3</sup>  See References in Text note below.
+<sup>3</sup> See References in Text note below.
 
 **(4) Review process**
 
@@ -847,13 +847,13 @@ If, after carrying out a review under subparagraph (A), the Secretary determines
 
 Nothing in this subsection shall affect subsection (e) or any tribal regulations issued under that subsection.
 
-(Aug. 9, 1955, ch. 615, § 1, 69 Stat. 539; Pub. L. 86–326, Sept. 21, 1959, 73 Stat. 597; Pub. L. 86–505, § 2, June 11, 1960, 74 Stat. 199; Pub. L. 87–375, Oct. 4, 1961, 75 Stat. 804; Pub. L. 87–785, Oct. 10, 1962, 76 Stat. 805; Pub. L. 88–167, Nov. 4, 1963, 77 Stat. 301; Pub. L. 89–408, Apr. 27, 1966, 80 Stat. 132; Pub. L. 90–182, Dec. 8, 1967, 81 Stat. 559; Pub. L. 90–184, Dec. 10, 1967, 81 Stat. 560; Pub. L. 90–335, § 1(f), June 10, 1968, 82 Stat. 175; Pub. L. 90–355, June 20, 1968, 82 Stat. 242; Pub. L. 90–534, § 6, Sept. 28, 1968, 82 Stat. 884; Pub. L. 90–570, Oct. 12, 1968, 82 Stat. 1003; Pub. L. 91–274, §§ 2, 3, June 2, 1970, 84 Stat. 302; Pub. L. 91–275, §§ 1, 2, June 2, 1970, 84 Stat. 303; Pub. L. 91–557, § 8, Dec. 17, 1970, 84 Stat. 1468; Pub. L. 92–182, § 6, Dec. 15, 1971, 85 Stat. 626; Pub. L. 92–431, Sept. 26, 1972, 86 Stat. 723; Pub. L. 92–472, § 7, Oct. 9, 1972, 86 Stat. 788; Pub. L. 92–488, § 4, Oct. 13, 1972, 86 Stat. 806; Pub. L. 96–216, Mar. 27, 1980, 94 Stat. 125; Pub. L. 96–491, § 3, Dec. 2, 1980, 94 Stat. 2564; Pub. L. 97–459, title I, § 107, Jan. 12, 1983, 96 Stat. 2516; Pub. L. 98–70, Aug. 8, 1983, 97 Stat. 401; Pub. L. 98–203, § 1(c), Dec. 2, 1983, 97 Stat. 1384; Pub. L. 99–221, § 2, Dec. 26, 1985, 99 Stat. 1735; Pub. L. 99–389, § 3(a), Aug. 23, 1986, 100 Stat. 829; Pub. L. 99–500, § 101(h) [title I, § 122], Oct. 18, 1986, 100 Stat. 1783–242, 1783–267, and Pub. L. 99–591, § 101(h) [title I, § 122], Oct. 30, 1986, 100 Stat. 3341–242, 3341–267; Pub. L. 99–575, § 5, Oct. 28, 1986, 100 Stat. 3246; Pub. L. 101–630, title II, § 201, Nov. 28, 1990, 104 Stat. 4532; Pub. L. 102–497, § 5, Oct. 24, 1992, 106 Stat. 3255; Pub. L. 103–435, § 5, Nov. 2, 1994, 108 Stat. 4569; Pub. L. 104–301, § 9, Oct. 11, 1996, 110 Stat. 3652; Pub. L. 105–256, § 1, Oct. 14, 1998, 112 Stat. 1896; Pub. L. 106–216, § 1(a), June 20, 2000, 114 Stat. 343; Pub. L. 106–568, title XII, § 1203, Dec. 27, 2000, 114 Stat. 2934; Pub. L. 107–102, § 1, Dec. 27, 2001, 115 Stat. 974; Pub. L. 107–159, Apr. 4, 2002, 116 Stat. 122; Pub. L. 107–331, title X, § 1002(a), Dec. 13, 2002, 116 Stat. 2869; Pub. L. 108–199, div. H, § 149, Jan. 23, 2004, 118 Stat. 446; Pub. L. 109–147, § 1(a), Dec. 22, 2005, 119 Stat. 2679; Pub. L. 109–221, title II, § 202(a), May 12, 2006, 120 Stat. 340; Pub. L. 110–453, title II, §§ 202, 204, 205(a), Dec. 2, 2008, 122 Stat. 5029; Pub. L. 111–334, § 1, Dec. 22, 2010, 124 Stat. 3582; Pub. L. 111–336, § 1, Dec. 22, 2010, 124 Stat. 3587; Pub. L. 111–381, § 1, Jan. 4, 2011, 124 Stat. 4133; Pub. L. 112–151, § 2, July 30, 2012, 126 Stat. 1150; Pub. L. 115–227, § 2, Aug. 1, 2018, 132 Stat. 1626; Pub. L. 115–325, title II, §§ 205(a), 206, Dec. 18, 2018, 132 Stat. 4464; Pub. L. 117–346, § 1, Jan. 5, 2023, 136 Stat. 6198.)
+(Aug. 9, 1955, ch. 615, § 1, 69 Stat. 539; Pub. L. 86–326, Sept. 21, 1959, 73 Stat. 597; Pub. L. 86–505, § 2, June 11, 1960, 74 Stat. 199; Pub. L. 87–375, Oct. 4, 1961, 75 Stat. 804; Pub. L. 87–785, Oct. 10, 1962, 76 Stat. 805; Pub. L. 88–167, Nov. 4, 1963, 77 Stat. 301; Pub. L. 89–408, Apr. 27, 1966, 80 Stat. 132; Pub. L. 90–182, Dec. 8, 1967, 81 Stat. 559; Pub. L. 90–184, Dec. 10, 1967, 81 Stat. 560; Pub. L. 90–335, § 1(f), June 10, 1968, 82 Stat. 175; Pub. L. 90–355, June 20, 1968, 82 Stat. 242; Pub. L. 90–534, § 6, Sept. 28, 1968, 82 Stat. 884; Pub. L. 90–570, Oct. 12, 1968, 82 Stat. 1003; Pub. L. 91–274, §§ 2, 3, June 2, 1970, 84 Stat. 302; Pub. L. 91–275, §§ 1, 2, June 2, 1970, 84 Stat. 303; Pub. L. 91–557, § 8, Dec. 17, 1970, 84 Stat. 1468; Pub. L. 92–182, § 6, Dec. 15, 1971, 85 Stat. 626; Pub. L. 92–431, Sept. 26, 1972, 86 Stat. 723; Pub. L. 92–472, § 7, Oct. 9, 1972, 86 Stat. 788; Pub. L. 92–488, § 4, Oct. 13, 1972, 86 Stat. 806; Pub. L. 96–216, Mar. 27, 1980, 94 Stat. 125; Pub. L. 96–491, § 3, Dec. 2, 1980, 94 Stat. 2564; Pub. L. 97–459, title I, § 107, Jan. 12, 1983, 96 Stat. 2516; Pub. L. 98–70, Aug. 8, 1983, 97 Stat. 401; Pub. L. 98–203, § 1(c), Dec. 2, 1983, 97 Stat. 1384; Pub. L. 99–221, § 2, Dec. 26, 1985, 99 Stat. 1735; Pub. L. 99–389, § 3(a), Aug. 23, 1986, 100 Stat. 829; Pub. L. 99–500, § 101(h) [title I, § 122], Oct. 18, 1986, 100 Stat. 1783–242, 1783–267, and Pub. L. 99–591, § 101(h) [title I, § 122], Oct. 30, 1986, 100 Stat. 3341–242, 3341–267; Pub. L. 99–575, § 5, Oct. 28, 1986, 100 Stat. 3246; Pub. L. 101–630, title II, § 201, Nov. 28, 1990, 104 Stat. 4532; Pub. L. 102–497, § 5, Oct. 24, 1992, 106 Stat. 3255; Pub. L. 103–435, § 5, Nov. 2, 1994, 108 Stat. 4569; Pub. L. 104–301, § 9, Oct. 11, 1996, 110 Stat. 3652; Pub. L. 105–256, § 1, Oct. 14, 1998, 112 Stat. 1896; Pub. L. 106–216, § 1(a), June 20, 2000, 114 Stat. 343; Pub. L. 106–568, title XII, § 1203, Dec. 27, 2000, 114 Stat. 2934; Pub. L. 107–102, § 1, Dec. 27, 2001, 115 Stat. 974; Pub. L. 107–159, Apr. 4, 2002, 116 Stat. 122; Pub. L. 107–331, title X, § 1002(a), Dec. 13, 2002, 116 Stat. 2869; Pub. L. 108–199, div. H, § 149, Jan. 23, 2004, 118 Stat. 446; Pub. L. 109–147, § 1(a), Dec. 22, 2005, 119 Stat. 2679; Pub. L. 109–221, title II, § 202(a), May 12, 2006, 120 Stat. 340; Pub. L. 110–453, title II, §§ 202, 204, 205(a), Dec. 2, 2008, 122 Stat. 5029; Pub. L. 111–334, § 1, Dec. 22, 2010, 124 Stat. 3582; Pub. L. 111–336, § 1, Dec. 22, 2010, 124 Stat. 3587; Pub. L. 111–381, § 1, Jan. 4, 2011, 124 Stat. 4133; Pub. L. 112–151, § 2, July 30, 2012, 126 Stat. 1150; Pub. L. 115–227, § 2, Aug. 1, 2018, 132 Stat. 1626; Pub. L. 115–325, title II, §§ 205(a), 206, Dec. 18, 2018, 132 Stat. 4464; Pub. L. 117–346, § 1, Jan. 5, 2023, 136 Stat. 6198.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination Act (25 U.S.C. 450 et seq.), referred to in subsec. (h)(3)(D), probably means title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which was classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title prior to editorial reclassification as subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act (25 U.S.C. 450 et seq.), referred to in subsec. (h)(3)(D), probably means title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which was classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title prior to editorial reclassification as subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
@@ -861,41 +861,41 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 **Amendments**
 
-2023—Subsec. (a). Pub. L. 117–346 inserted “, land held in trust for the Confederated Tribes of the Chehalis Reservation” after “Crow Tribe of Montana”.
+2023—Subsec. (a). Pub. L. 117–346 inserted “, land held in trust for the Confederated Tribes of the Chehalis Reservation” after “Crow Tribe of Montana”.
 
-2018—Subsec. (a). Pub. L. 115–325, § 206, inserted “, land held in trust for the Crow Tribe of Montana” after “Devils Lake Sioux Reservation”.
+2018—Subsec. (a). Pub. L. 115–325, § 206, inserted “, land held in trust for the Crow Tribe of Montana” after “Devils Lake Sioux Reservation”.
 
 Pub. L. 115–227 substituted “Puyallup Tribe of Indians,” for “Puyallup Tribe of Indians,,” and “the land comprising the Moses Allotment Numbered 8” for “the the lands comprising the Moses Allotment Numbered 8”, inserted “Ohkay Owingeh pueblo,” after “Cochiti,” and “the pueblo of Santa Clara,” after “Pojoaque,”, and struck out “lands held in trust for the Pueblo of Santa Clara,” after “Fallon Paiute Shoshone Tribes,” and “lands held in trust for Ohkay Owingeh Pueblo” after “Devils Lake Sioux Reservation, and”.
 
-Subsec. (e)(1). Pub. L. 115–325, § 205(a)(1), substituted “including a lease for” for “except a lease for” in introductory provisions.
+Subsec. (e)(1). Pub. L. 115–325, § 205(a)(1), substituted “including a lease for” for “except a lease for” in introductory provisions.
 
-Subsec. (e)(1)(A). Pub. L. 115–325, § 205(a)(2), added subpar. (A) and struck out former subpar. (A) which read as follows: “in the case of a business or agricultural lease, 25 years, except that any such lease may include an option to renew for up to two additional terms, each of which may not exceed 25 years; and”.
+Subsec. (e)(1)(A). Pub. L. 115–325, § 205(a)(2), added subpar. (A) and struck out former subpar. (A) which read as follows: “in the case of a business or agricultural lease, 25 years, except that any such lease may include an option to renew for up to two additional terms, each of which may not exceed 25 years; and”.
 
-Subsec. (e)(1)(C). Pub. L. 115–325, § 205(a)(3), (4), added subpar. (C).
+Subsec. (e)(1)(C). Pub. L. 115–325, § 205(a)(3), (4), added subpar. (C).
 
-2012—Subsec. (d)(4). Pub. L. 112–151, § 2(1)(A), substituted “an applicable Indian tribe” for “the Navajo Nation”.
+2012—Subsec. (d)(4). Pub. L. 112–151, § 2(1)(A), substituted “an applicable Indian tribe” for “the Navajo Nation”.
 
-Subsec. (d)(6). Pub. L. 112–151, § 2(1)(B), substituted “an Indian tribe” for “the Navajo Nation”.
+Subsec. (d)(6). Pub. L. 112–151, § 2(1)(B), substituted “an Indian tribe” for “the Navajo Nation”.
 
-Subsec. (d)(8). Pub. L. 112–151, § 2(1)(D)(i), (ii), struck out “the Navajo Nation” before “regulations” and substituted “with applicable tribal law” for “with Navajo Nation law”.
+Subsec. (d)(8). Pub. L. 112–151, § 2(1)(D)(i), (ii), struck out “the Navajo Nation” before “regulations” and substituted “with applicable tribal law” for “with Navajo Nation law”.
 
-Subsec. (d)(9), (10). Pub. L. 112–151, § 2(1)(C), (D)(iii), (E), added pars. (9) and (10).
+Subsec. (d)(9), (10). Pub. L. 112–151, § 2(1)(C), (D)(iii), (E), added pars. (9) and (10).
 
-Subsec. (h). Pub. L. 112–151, § 2(2), added subsec. (h).
+Subsec. (h). Pub. L. 112–151, § 2(2), added subsec. (h).
 
 2011—Subsec. (a). Pub. L. 111–381 inserted “and lands held in trust for Ohkay Owingeh Pueblo” after “of land on the Devils Lake Sioux Reservation,”.
 
-2010—Subsec. (a). Pub. L. 111–336, § 1(1), inserted “and land held in trust for the Kalispel Tribe of Indians, the Puyallup Tribe of Indians,” after “the Kalispel Indian Reservation”.
+2010—Subsec. (a). Pub. L. 111–336, § 1(1), inserted “and land held in trust for the Kalispel Tribe of Indians, the Puyallup Tribe of Indians,” after “the Kalispel Indian Reservation”.
 
 Pub. L. 111–334 inserted “land held in trust for the Coquille Indian Tribe, land held in trust for the Confederated Tribes of Siletz Indians, land held in trust for the Confederated Tribes of the Coos, Lower Umpqua, and Siuslaw Indians, land held in trust for the Klamath Tribes, and land held in trust for the Burns Paiute Tribe,” after “lands held in trust for the Confederated Tribes of the Warm Springs Reservation of Oregon,”.
 
-Subsec. (b). Pub. L. 111–336, § 1(2), inserted “, the Puyallup Tribe of Indians, the Swinomish Indian Tribal Community, or the Kalispel Tribe of Indians” after “Tulalip Tribes”.
+Subsec. (b). Pub. L. 111–336, § 1(2), inserted “, the Puyallup Tribe of Indians, the Swinomish Indian Tribal Community, or the Kalispel Tribe of Indians” after “Tulalip Tribes”.
 
-2008—Subsec. (a). Pub. L. 110–453, § 205(a), inserted “and lands held in trust for the Cow Creek Band of Umpqua Tribe of Indians,” after “lands held in trust for the Confederated Tribes of the Warm Springs Reservation of Oregon,”.
+2008—Subsec. (a). Pub. L. 110–453, § 205(a), inserted “and lands held in trust for the Cow Creek Band of Umpqua Tribe of Indians,” after “lands held in trust for the Confederated Tribes of the Warm Springs Reservation of Oregon,”.
 
-Pub. L. 110–453, § 204, inserted “and except leases of land held in trust for the Morongo Band of Mission Indians which may be for a term of not to exceed 50 years,” after “which may be for a term of not to exceed ninety-nine years,”.
+Pub. L. 110–453, § 204, inserted “and except leases of land held in trust for the Morongo Band of Mission Indians which may be for a term of not to exceed 50 years,” after “which may be for a term of not to exceed ninety-nine years,”.
 
-Subsec. (f). Pub. L. 110–453, § 202, substituted “lease or construction contract, affecting” for “lease, affecting”.
+Subsec. (f). Pub. L. 110–453, § 202, substituted “lease or construction contract, affecting” for “lease, affecting”.
 
 2006—Subsec. (a). Pub. L. 109–221, in second sentence, substituted “Moapa Indian Reservation” for “Moapa Indian reservation” and “the lands comprising the Moses Allotment Numbered 8 and the Moses Allotment Numbered 10, Chelan County, Washington,” for “lands comprising the Moses Allotment Numbered 10, Chelan County, Washington,,” and inserted “the Confederated Tribes of the Umatilla Indian Reservation,” before “the Burns Paiute Reservation”, “the” before “Yavapai-Prescott”, “the Muckleshoot Indian Reservation and land held in trust for the Muckleshoot Indian Tribe,” after “the Cabazon Indian Reservation,”, “land held in trust for the Prairie Band Potawatomi Nation,” before “lands held in trust for the Cherokee Nation of Oklahoma”, “land held in trust for the Fallon Paiute Shoshone Tribes,” before “lands held in trust for the Pueblo of Santa Clara”, and “land held in trust for the Yurok Tribe, land held in trust for the Hopland Band of Pomo Indians of the Hopland Rancheria,” after “Pueblo of Santa Clara,”.
 
@@ -907,13 +907,13 @@ Subsec. (f). Pub. L. 110–453, § 202, substituted “lease or construction c
 
 Subsec. (f). Pub. L. 107–159 added subsec. (f).
 
-2001—Subsec. (a). Pub. L. 107–102 inserted “, the reservation of the Confederated Tribes of the Warm Springs Reservation of Oregon,” after “Spanish Grant’)” and “lands held in trust for the Confederated Tribes of the Warm Springs Reservation of Oregon” before “, lands held in trust for the Cherokee Nation of Oklahoma”.
+2001—Subsec. (a). Pub. L. 107–102 inserted “, the reservation of the Confederated Tribes of the Warm Springs Reservation of Oregon,” after “Spanish Grant’)” and “lands held in trust for the Confederated Tribes of the Warm Springs Reservation of Oregon” before “, lands held in trust for the Cherokee Nation of Oklahoma”.
 
 2000—Subsec. (a). Pub. L. 106–216 inserted “lands held in trust for the Torres Martinez Desert Cahuilla Indians, lands held in trust for the Guidiville Band of Pomo Indians of the Guidiville Indian Rancheria, lands held in trust for the Confederated Tribes of the Umatilla Indian Reservation” after “Sparks Indian Colony,”.
 
-Subsec. (d)(3) to (8). Pub. L. 106–568, § 1203(1), added pars. (3) to (8).
+Subsec. (d)(3) to (8). Pub. L. 106–568, § 1203(1), added pars. (3) to (8).
 
-Subsec. (e). Pub. L. 106–568, § 1203(2), added subsec. (e).
+Subsec. (e). Pub. L. 106–568, § 1203(2), added subsec. (e).
 
 1998—Subsec. (a). Pub. L. 105–256, in second sentence, inserted “the Cabazon Indian Reservation,” after “the Navajo Reservation,” and “lands held in trust for the Confederated Tribes of the Grand Ronde Community of Oregon,” after “lands held in trust for the Cahuilla Band of Indians of California,”.
 
@@ -927,15 +927,15 @@ Subsec. (e). Pub. L. 106–568, § 1203(2), added subsec. (e).
 
 1986—Subsec. (a). Pub. L. 99–575 inserted “the Pueblo of Santa Ana (with the exception of the lands known as the ‘Santa Ana Pueblo Spanish Grant’)” after “the Dania Reservation,”.
 
-Pub. L. 99–389 inserted “, and lands held in trust for the Reno Sparks Indian Colony,”.
+Pub. L. 99–389 inserted “, and lands held in trust for the Reno Sparks Indian Colony,”.
 
 Subsec. (b). Pub. L. 99–500 and Pub. L. 99–591 added cl. (3).
 
-1985—Pub. L. 99–221 inserted “, lands held in trust for the Cherokee Nation of Oklahoma,”.
+1985—Pub. L. 99–221 inserted “, lands held in trust for the Cherokee Nation of Oklahoma,”.
 
-1983—Subsec. (a). Pub. L. 98–203 inserted “, and lands held in trust for the Las Vegas Paiute Tribe of Indians,”.
+1983—Subsec. (a). Pub. L. 98–203 inserted “, and lands held in trust for the Las Vegas Paiute Tribe of Indians,”.
 
-Pub. L. 98–70 inserted “, and lands held in trust for the Twenty-nine Palms Band of Luiseno Mission Indians, and the lands held in trust for the Confederated Salish and Kootenai Tribes of the Flathead Reservation, Montana”.
+Pub. L. 98–70 inserted “, and lands held in trust for the Twenty-nine Palms Band of Luiseno Mission Indians, and the lands held in trust for the Confederated Salish and Kootenai Tribes of the Flathead Reservation, Montana”.
 
 Pub. L. 97–459 struck out “and” before “leases of land on the Agua Caliente” and authorized ninety-nine year leases of land on the Devils Lake Sioux Reservation to the Devils Lake Sioux Tribe or any organization of such tribe.
 
@@ -955,9 +955,9 @@ Pub. L. 92–431 inserted provision excepting leases of land located outside the
 
 Pub. L. 91–275 inserted “Yavapai-Prescott Community Reservation,” after “San Carlos Apache Reservation,” and inserted list of factors that the Secretary must consider before approving a lease or an extension of an existing lease.
 
-Pub. L. 91–274, §§ 2, 3, designated existing provisions as subsec. (a) and inserted “the Tulalip Indian Reservation,” after “the Gila River Reservation,”.
+Pub. L. 91–274, §§ 2, 3, designated existing provisions as subsec. (a) and inserted “the Tulalip Indian Reservation,” after “the Gila River Reservation,”.
 
-Subsec. (b). Pub. L. 91–274, § 3, added subsec. (b).
+Subsec. (b). Pub. L. 91–274, § 3, added subsec. (b).
 
 1968—Pub. L. 90–570 inserted “the pueblo of Cochiti, the pueblo of Pojoaque, the pueblo of Tesuque, the pueblo of Zuni,” after “Fort Mojava Reservation,”.
 
@@ -987,51 +987,51 @@ Pub. L. 90–182 inserted “the Gila Reservation,” after “Pyramid Lake Rese
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–453, title II, § 205(b), Dec. 2, 2008, 122 Stat. 5030, provided that: “The amendment made by subsection (a) [amending this section] shall apply to any lease entered into or renewed after the date of the enactment of this Act [Dec. 2, 2008].”
+Pub. L. 110–453, title II, § 205(b), Dec. 2, 2008, 122 Stat. 5030, provided that: “The amendment made by subsection (a) [amending this section] shall apply to any lease entered into or renewed after the date of the enactment of this Act [Dec. 2, 2008].”
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–221, title II, § 202(b), May 12, 2006, 120 Stat. 341, provided that: “The amendments made by subsection (a) [amending this section] shall apply to any lease entered into or renewed after the date of enactment of this Act [May 12, 2006].”
+Pub. L. 109–221, title II, § 202(b), May 12, 2006, 120 Stat. 341, provided that: “The amendments made by subsection (a) [amending this section] shall apply to any lease entered into or renewed after the date of enactment of this Act [May 12, 2006].”
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–147, § 1(b), Dec. 22, 2005, 119 Stat. 2679, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as if included in Public Law 107–159 (116 Stat. 122).”
+Pub. L. 109–147, § 1(b), Dec. 22, 2005, 119 Stat. 2679, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as if included in Public Law 107–159 (116 Stat. 122).”
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–331, title X, § 1002(b), Dec. 13, 2002, 116 Stat. 2870, provided that: “The amendment made by subsection (a) [amending this section] shall apply to any lease entered into or renewed after the date of the enactment of this title [Dec. 13, 2002].”
+Pub. L. 107–331, title X, § 1002(b), Dec. 13, 2002, 116 Stat. 2870, provided that: “The amendment made by subsection (a) [amending this section] shall apply to any lease entered into or renewed after the date of the enactment of this title [Dec. 13, 2002].”
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–102, § 3, Dec. 27, 2001, 115 Stat. 975, provided that: “This Act [amending this section] shall take effect as of April 12, 2000.”
+Pub. L. 107–102, § 3, Dec. 27, 2001, 115 Stat. 975, provided that: “This Act [amending this section] shall take effect as of April 12, 2000.”
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–216, § 1(b), June 20, 2000, 114 Stat. 343, provided that: “The amendment made by subsection (a) [amending this section] shall apply to any lease entered into or renewed after the date of the enactment of this Act [June 20, 2000].”
+Pub. L. 106–216, § 1(b), June 20, 2000, 114 Stat. 343, provided that: “The amendment made by subsection (a) [amending this section] shall apply to any lease entered into or renewed after the date of the enactment of this Act [June 20, 2000].”
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–575, § 6(a), Oct. 28, 1986, 100 Stat. 3246, provided in part that the amendment made by Pub. L. 99–575 is effective Oct. 28, 1986.
+Pub. L. 99–575, § 6(a), Oct. 28, 1986, 100 Stat. 3246, provided in part that the amendment made by Pub. L. 99–575 is effective Oct. 28, 1986.
 
 **Short Title of 2012 Amendment**
 
-Pub. L. 112–151, § 1, July 30, 2012, 126 Stat. 1150, provided that: “This Act [amending this section] may be cited as the ‘Helping Expedite and Advance Responsible Tribal Home Ownership Act of 2012’ or the ‘HEARTH Act of 2012’.”
+Pub. L. 112–151, § 1, July 30, 2012, 126 Stat. 1150, provided that: “This Act [amending this section] may be cited as the ‘Helping Expedite and Advance Responsible Tribal Home Ownership Act of 2012’ or the ‘HEARTH Act of 2012’.”
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–568, title XII, § 1201, Dec. 27, 2000, 114 Stat. 2933, provided that: “This title [amending this section and enacting provisions set out as a note under this section] may be cited as the ‘Navajo Nation Trust Land Leasing Act of 2000’.”
+Pub. L. 106–568, title XII, § 1201, Dec. 27, 2000, 114 Stat. 2933, provided that: “This title [amending this section and enacting provisions set out as a note under this section] may be cited as the ‘Navajo Nation Trust Land Leasing Act of 2000’.”
 
 **Short Title of 1985 Amendment**
 
-Pub. L. 99–221, § 1, Dec. 26, 1985, 99 Stat. 1735, provided that: “This Act [amending this section, section 450i of this title, section 3121 of Title 26, Internal Revenue Code, and section 410 of Title 42, The Public Health and Welfare, and enacting a provision set out as a note under section 410 of Title 42] may be cited as the ‘Cherokee Leasing Act’.”
+Pub. L. 99–221, § 1, Dec. 26, 1985, 99 Stat. 1735, provided that: “This Act [amending this section, section 450i of this title, section 3121 of Title 26, Internal Revenue Code, and section 410 of Title 42, The Public Health and Welfare, and enacting a provision set out as a note under section 410 of Title 42] may be cited as the ‘Cherokee Leasing Act’.”
 
 **Congressional Findings and Declaration of Purposes**
 
-Pub. L. 106–568, title XII, § 1202, Dec. 27, 2000, 114 Stat. 2933, provided that:
+Pub. L. 106–568, title XII, § 1202, Dec. 27, 2000, 114 Stat. 2933, provided that:
 
 > **“(a) Findings.—** Recognizing the special relationship between the United States and the Navajo Nation and its members, and the Federal responsibility to the Navajo people, Congress finds that—
 
-> **“(1)** the third clause of section 8, Article I of the United States Constitution provides that ‘The Congress shall have Power \* \* \* to regulate Commerce \* \* \* with Indian tribes’, and, through this and other constitutional authority, Congress has plenary power over Indian affairs;
+> **“(1)** the third clause of section 8, Article I of the United States Constitution provides that ‘The Congress shall have Power \* \* \* to regulate Commerce \* \* \* with Indian tribes’, and, through this and other constitutional authority, Congress has plenary power over Indian affairs;
 
 > **“(2)** Congress, through statutes, treaties, and the general course of dealing with Indian tribes, has assumed the responsibility for the protection and preservation of Indian tribes and their resources;
 
@@ -1057,37 +1057,37 @@ Pub. L. 106–568, title XII, § 1202, Dec. 27, 2000, 114 Stat. 2933, provided
 
 > **“(5)** To ensure that the United States is faithfully executing its trust obligation to the Navajo Nation by maintaining Federal supervision through oversight of and record keeping related to leases of Navajo Nation tribal trust lands.”
 
-## § 415a. Lease of lands of deceased Indians for benefit of heirs or devisees
+## § 415a. Lease of lands of deceased Indians for benefit of heirs or devisees
 
 Restricted lands of deceased Indians may be leased under sections 415 to 415d of this title, for the benefit of their heirs or devisees, in the circumstances and by the persons prescribed in section 380 of this title: *Provided*, That if the authority of the Secretary under this section is delegated to any subordinate official, then any heir or devisee shall have the right to appeal the action of any such official to the Secretary under such rules and regulations as he may prescribe.
 
-(Aug. 9, 1955, ch. 615, § 2, 69 Stat. 539.)
+(Aug. 9, 1955, ch. 615, § 2, 69 Stat. 539.)
 
-## § 415b. Advance payment of rent or other consideration
+## § 415b. Advance payment of rent or other consideration
 
 No rent or other consideration for the use of land leased under sections 415 to 415d of this title shall be paid or collected more than one year in advance, unless so provided in the lease.
 
-(Aug. 9, 1955, ch. 615, § 4, 69 Stat. 540.)
+(Aug. 9, 1955, ch. 615, § 4, 69 Stat. 540.)
 
-## § 415c. Approval of leases
+## § 415c. Approval of leases
 
 The Secretary of the Interior shall approve no lease pursuant to sections 415 to 415d of this title that contains any provision that will prevent or delay a termination of Federal trust responsibilities with respect to the land during the term of the lease.
 
-(Aug. 9, 1955, ch. 615, § 5, 69 Stat. 540.)
+(Aug. 9, 1955, ch. 615, § 5, 69 Stat. 540.)
 
-## § 415d. Lease of restricted lands under other laws unaffected
+## § 415d. Lease of restricted lands under other laws unaffected
 
 Nothing contained in sections 415 to 415d of this title shall be construed to repeal any authority to lease restricted Indian lands conferred by or pursuant to any other provision of law.
 
-(Aug. 9, 1955, ch. 615, § 6, 69 Stat. 540.)
+(Aug. 9, 1955, ch. 615, § 6, 69 Stat. 540.)
 
-## § 416. Leases of trust or restricted lands on San Xavier and Salt River Pima-Maricopa Indian Reservations for public, religious, educational, recreational, residential, business, farming or grazing purposes
+## § 416. Leases of trust or restricted lands on San Xavier and Salt River Pima-Maricopa Indian Reservations for public, religious, educational, recreational, residential, business, farming or grazing purposes
 
 Any trust or restricted Indian lands, whether tribally or individually owned, located on the San Xavier Indian Reservation and the Salt River Pima-Maricopa Indian Reservation, in the State of Arizona, may be leased by the Indian owners, with the approval of the Secretary of the Interior, for public, religious, educational, recreational, residential, business, farming or grazing purposes, including the development or utilization of natural resources in connection with operations under such leases, but no lease shall be executed under sections 416 to 416j of this title for purposes that are subject to the laws governing mining leases on Indian lands. The term of a grazing lease shall not exceed ten years, the term of a farming lease that does not require the making of a substantial investment in the improvement of the land shall not exceed ten years, and the term of a farming lease that requires the making of a substantial investment in the improvement of the land shall not exceed forty years. The term of any other lease shall not exceed ninety-nine years. No lease shall contain an option to renew which, if exercised, will extend the total term beyond the maximum term permitted by sections 416 to 416j of this title. The Secretary of the Interior shall not approve any lease with a term that is longer than is necessary in his judgment to obtain maximum economic benefits for the Indian owners.
 
-(Pub. L. 89–715, § 1, Nov. 2, 1966, 80 Stat. 1112.)
+(Pub. L. 89–715, § 1, Nov. 2, 1966, 80 Stat. 1112.)
 
-## § 416a. Lease provisions
+## § 416a. Lease provisions
 
 **(a) Covenant not to cause waste, etc.**
 
@@ -1101,7 +1101,7 @@ The State of Arizona, or any political subdivision thereof contiguous with the S
 
 Any contract, including a lease, affecting land within the Salt River Pima-Maricopa Indian Reservation may contain a provision for the binding arbitration of disputes arising out of such contract. Such contracts shall be considered within the meaning of “commerce” as defined and subject to the provisions of section 1 of title 9. Any refusal to submit to arbitration pursuant to a binding agreement for arbitration or the exercise of any right conferred by title 9 to abide by the outcome of arbitration pursuant to the provisions of chapter 1 of title 9, sections 1 through 14, shall be deemed to be a civil action arising under the Constitution, laws or treaties of the United States within the meaning of section 1331 of title 28.
 
-(Pub. L. 89–715, § 2, Nov. 2, 1966, 80 Stat. 1112; Pub. L. 98–163, Nov. 22, 1983, 97 Stat. 1016; Pub. L. 108–329, § 1(a), Oct. 16, 2004, 118 Stat. 1274.)
+(Pub. L. 89–715, § 2, Nov. 2, 1966, 80 Stat. 1112; Pub. L. 98–163, Nov. 22, 1983, 97 Stat. 1016; Pub. L. 108–329, § 1(a), Oct. 16, 2004, 118 Stat. 1274.)
 
 **Editorial Notes**
 
@@ -1115,9 +1115,9 @@ Any contract, including a lease, affecting land within the Salt River Pima-Maric
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–329, § 1(b), Oct. 16, 2004, 118 Stat. 1274, provided that: “The amendments made by this section [amending this section] shall take effect as if included in the Indian Tribal Economic Development and Contract Encouragement Act of 2000 (Public Law 106–179).”
+Pub. L. 108–329, § 1(b), Oct. 16, 2004, 118 Stat. 1274, provided that: “The amendments made by this section [amending this section] shall take effect as if included in the Indian Tribal Economic Development and Contract Encouragement Act of 2000 (Public Law 106–179).”
 
-## § 416b. Development pursuant to lease
+## § 416b. Development pursuant to lease
 
 **(a) Notice requirements prior to approval of lease**
 
@@ -1127,45 +1127,45 @@ The Secretary of the Interior shall, before he approves any lease under sections
 
 It is the intent of the Congress that the terms under which lands located on the San Xavier and Salt River Pima-Maricopa Reservations are developed by non-Indian lessees shall, to the extent reasonably possible, be similar to those applicable under State or local law to the development of non-Indian lands in the municipalities contiguous thereto.
 
-(Pub. L. 89–715, § 3, Nov. 2, 1966, 80 Stat. 1112.)
+(Pub. L. 89–715, § 3, Nov. 2, 1966, 80 Stat. 1112.)
 
-## § 416c. Lease of lands of deceased Indians for benefit of heirs or devisees
+## § 416c. Lease of lands of deceased Indians for benefit of heirs or devisees
 
 Trust or restricted lands of deceased Indians located on the San Xavier and Salt River Pima-Maricopa Reservations may be leased under sections 416 to 416j of this title, for the benefit of their heirs or devisees, in the circumstances and by the persons prescribed in section 380 of this title: *Provided*, That if the authority of the Secretary under this section is delegated to a subordinate official, then any heir or devisee shall have the right to appeal the action of any such official to the Secretary under such rules and regulations as he may prescribe.
 
-(Pub. L. 89–715, § 4, Nov. 2, 1966, 80 Stat. 1113.)
+(Pub. L. 89–715, § 4, Nov. 2, 1966, 80 Stat. 1113.)
 
-## § 416d. Advance payment of rent or other consideration
+## § 416d. Advance payment of rent or other consideration
 
 No rent or other consideration for the use of land leased under sections 416 to 416j of this title shall be paid or collected more than one year in advance, unless so provided in the lease.
 
-(Pub. L. 89–715, § 5, Nov. 2, 1966, 80 Stat. 1113.)
+(Pub. L. 89–715, § 5, Nov. 2, 1966, 80 Stat. 1113.)
 
-## § 416e. Approval of leases
+## § 416e. Approval of leases
 
 The Secretary of the Interior shall approve no lease pursuant to sections 416 to 416j of this title that contains any provision that will prevent or delay a termination of Federal trust responsibilities with respect to the land during the term of the lease.
 
-(Pub. L. 89–715, § 6, Nov. 2, 1966, 80 Stat. 1113.)
+(Pub. L. 89–715, § 6, Nov. 2, 1966, 80 Stat. 1113.)
 
-## § 416f. Dedication of land for public purposes
+## § 416f. Dedication of land for public purposes
 
 Individual or tribal owners of trust or restricted Indian land on the San Xavier and Salt River Pima-Maricopa Reservations may, with the approval of the Secretary, dedicate land to the public for streets, alleys, or other public purposes under those laws of the State of Arizona that are applicable to the dedication of land for public purposes.
 
-(Pub. L. 89–715, § 7, Nov. 2, 1966, 80 Stat. 1113.)
+(Pub. L. 89–715, § 7, Nov. 2, 1966, 80 Stat. 1113.)
 
-## § 416g. Contract for water, sewerage, law enforcement, or other public services
+## § 416g. Contract for water, sewerage, law enforcement, or other public services
 
 The Papago Council and the Salt River Pima-Maricopa Community Council, with the approval of the Secretary of the Interior, may contract with the State of Arizona or its political subdivisions for the furnishing of water, sewerage, law enforcement, or other public services on terms and conditions deemed advantageous to the tribe and individual Indian landowners.
 
-(Pub. L. 89–715, § 8, Nov. 2, 1966, 80 Stat. 1113.)
+(Pub. L. 89–715, § 8, Nov. 2, 1966, 80 Stat. 1113.)
 
-## § 416h. Zoning, building, and sanitary regulations
+## § 416h. Zoning, building, and sanitary regulations
 
 The Papago Council and the Salt River Pima-Maricopa Community Council, with the consent of the Secretary of the Interior, are hereby authorized, for their respective reservations, to enact zoning, building, and sanitary regulations covering the lands on their reservations for which leasing authority is granted by sections 416 to 416j of this title in the absence of State civil and criminal jurisdiction over such particular lands, and said councils may contract with local municipalities for assistance in preparing such regulations.
 
-(Pub. L. 89–715, § 9, Nov. 2, 1966, 80 Stat. 1113.)
+(Pub. L. 89–715, § 9, Nov. 2, 1966, 80 Stat. 1113.)
 
-## § 416i. Restrictions
+## § 416i. Restrictions
 
 Nothing contained in sections 416 to 416j of this title shall—
 
@@ -1177,10 +1177,10 @@ Nothing contained in sections 416 to 416j of this title shall—
 
 **(d)** be construed to repeal any authority to lease or mortgage trust or restricted Indian lands conferred by or pursuant to any other provision of law.
 
-(Pub. L. 89–715, § 10, Nov. 2, 1966, 80 Stat. 1113.)
+(Pub. L. 89–715, § 10, Nov. 2, 1966, 80 Stat. 1113.)
 
-## § 416j. Mission San Xavier del Bac
+## § 416j. Mission San Xavier del Bac
 
 Nothing in sections 416 to 416j of this title shall authorize the Secretary to approve any development which would detract from the scenic, historic, and religious values of the Mission San Xavier del Bac owned by the Franciscan Order of Friars Minor and located on the San Xavier Reservation.
 
-(Pub. L. 89–715, § 11, Nov. 2, 1966, 80 Stat. 1114.)
+(Pub. L. 89–715, § 11, Nov. 2, 1966, 80 Stat. 1114.)

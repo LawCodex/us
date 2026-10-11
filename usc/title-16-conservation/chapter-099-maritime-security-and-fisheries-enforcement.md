@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 99—MARITIME SECURITY AND FISHERIES ENFORCEMENT
 
-## § 8001. Definitions
+## § 8001. Definitions
 
 In this chapter:
 
@@ -103,7 +103,7 @@ The term “transnational organized illegal activity” means criminal activity 
 
 **(C)** deliver supplies to fishing boats, which allows fishing vessels to remain at sea for extended periods without coming into port.
 
-(Pub. L. 116–92, div. C, title XXXV, § 3532, Dec. 20, 2019, 133 Stat. 1997.)
+(Pub. L. 116–92, div. C, title XXXV, § 3532, Dec. 20, 2019, 133 Stat. 1997.)
 
 **Editorial Notes**
 
@@ -115,9 +115,9 @@ This chapter, referred to in text, was in the original “this subtitle”, mean
 
 **Short Title**
 
-Pub. L. 116–92, div. C, title XXXV, § 3531, Dec. 20, 2019, 133 Stat. 1997, provided that: “This subtitle [subtitle C (§§ 3531–3572) of title XXXV of div. C of Pub. L. 116–92, enacting this chapter and amending section 7103 of Title 22, Foreign Relations and Intercourse] may be cited as the ‘Maritime Security and Fisheries Enforcement Act’ or the ‘Maritime SAFE Act’.”
+Pub. L. 116–92, div. C, title XXXV, § 3531, Dec. 20, 2019, 133 Stat. 1997, provided that: “This subtitle [subtitle C (§§ 3531–3572) of title XXXV of div. C of Pub. L. 116–92, enacting this chapter and amending section 7103 of Title 22, Foreign Relations and Intercourse] may be cited as the ‘Maritime Security and Fisheries Enforcement Act’ or the ‘Maritime SAFE Act’.”
 
-## § 8002. Purposes
+## § 8002. Purposes
 
 The purposes of this chapter are—
 
@@ -137,7 +137,7 @@ The purposes of this chapter are—
 
 **(6)** to prevent the use of IUU fishing as a financing source for transnational organized groups that undermine United States and global security interests.
 
-(Pub. L. 116–92, div. C, title XXXV, § 3533, Dec. 20, 2019, 133 Stat. 1999.)
+(Pub. L. 116–92, div. C, title XXXV, § 3533, Dec. 20, 2019, 133 Stat. 1999.)
 
 **Editorial Notes**
 
@@ -145,11 +145,11 @@ The purposes of this chapter are—
 
 This chapter, referred to in text, was in the original “this subtitle”, meaning subtitle C of title XXXV of div. C of Pub. L. 116–92, Dec. 20, 2019, 133 Stat. 1997, known as the Maritime Security and Fisheries Enforcement Act and also as the Maritime SAFE Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8001 of this title and Tables.
 
-## § 8003. Statement of policy
+## § 8003. Statement of policy
 
 It is the policy of the United States\_1
 
-<sup>1</sup>  So in original. Probably should be “States—”.
+<sup>1</sup> So in original. Probably should be “States—”.
 
 **(1)** to take action to curtail the global trade in seafood and seafood products derived from IUU fishing, including its links to forced labor and transnational organized illegal activity;
 
@@ -193,17 +193,17 @@ It is the policy of the United States\_1
 
 **(14)** to promote technological investment and innovation to combat IUU fishing.
 
-(Pub. L. 116–92, div. C, title XXXV, § 3534, Dec. 20, 2019, 133 Stat. 2000.)
+(Pub. L. 116–92, div. C, title XXXV, § 3534, Dec. 20, 2019, 133 Stat. 2000.)
 
 ## SUBCHAPTER I—PROGRAMS TO COMBAT IUU FISHING AND INCREASE MARITIME SECURITY
 
-### § 8011. Coordination with international organizations
+### § 8011. Coordination with international organizations
 
 The Secretary of State, in consultation with the Secretary of Commerce, shall coordinate with Regional Fisheries Management Organizations and the Food and Agriculture Organization of the United Nations, and may coordinate with other relevant international governmental or nongovernmental organizations, or the private sector, as appropriate, to enhance regional responses to IUU fishing and related transnational organized illegal activities.
 
-(Pub. L. 116–92, div. C, title XXXV, § 3541, Dec. 20, 2019, 133 Stat. 2001.)
+(Pub. L. 116–92, div. C, title XXXV, § 3541, Dec. 20, 2019, 133 Stat. 2001.)
 
-### § 8012. Engagement of diplomatic missions of the United States
+### § 8012. Engagement of diplomatic missions of the United States
 
 Not later than 1 year after December 20, 2019, each chief of mission (as defined in section 3902 of title 22) to a relevant country in a priority region or to a priority flag state may, if the Secretary of State determines such action is appropriate—
 
@@ -215,9 +215,9 @@ Not later than 1 year after December 20, 2019, each chief of mission (as defined
 
 **(2)** designate a counter-IUU Fishing Coordinator from among existing personnel at the mission if the chief of mission determines such action is appropriate.
 
-(Pub. L. 116–92, div. C, title XXXV, § 3542, Dec. 20, 2019, 133 Stat. 2001.)
+(Pub. L. 116–92, div. C, title XXXV, § 3542, Dec. 20, 2019, 133 Stat. 2001.)
 
-### § 8013. Assistance by Federal agencies to improve law enforcement within priority regions and priority flag states
+### § 8013. Assistance by Federal agencies to improve law enforcement within priority regions and priority flag states
 
 **(a) In general**
 
@@ -269,17 +269,17 @@ The officials referred to in subsection (a) shall evaluate opportunities to prov
 
 The Secretary of State shall coordinate, as appropriate, with the Secretary of Commerce, the Commandant of the Coast Guard when the Coast Guard is not operating as a service in the Department of the Navy, and with other relevant Federal agencies in accordance with this section.
 
-(Pub. L. 116–92, div. C, title XXXV, § 3543, Dec. 20, 2019, 133 Stat. 2002; Pub. L. 117–263, div. K, title CXIII, § 11339(b), Dec. 23, 2022, 136 Stat. 4105.)
+(Pub. L. 116–92, div. C, title XXXV, § 3543, Dec. 20, 2019, 133 Stat. 2002; Pub. L. 117–263, div. K, title CXIII, § 11339(b), Dec. 23, 2022, 136 Stat. 4105.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (d). Pub. L. 117–263, § 11339(b)(1), struck out “as appropriate,” after “such countries,” in introductory provisions.
+2022—Subsec. (d). Pub. L. 117–263, § 11339(b)(1), struck out “as appropriate,” after “such countries,” in introductory provisions.
 
-Subsec. (d)(3). Pub. L. 117–263, § 11339(b)(2), substituted “for all priority regions identified by the Working Group” for “as appropriate”.
+Subsec. (d)(3). Pub. L. 117–263, § 11339(b)(2), substituted “for all priority regions identified by the Working Group” for “as appropriate”.
 
-### § 8014. Expansion of existing mechanisms to combat IUU fishing
+### § 8014. Expansion of existing mechanisms to combat IUU fishing
 
 **(a) Mechanisms to combat IUU fishing** The Secretary of State, the Administrator of the United States Agency for International Development, the Secretary of the Department in which the Coast Guard is operating when it is not operating as a service in the Department of the Navy, the Secretary of Defense, the Secretary of Commerce, the Attorney General, and the heads of other appropriate Federal agencies shall assess opportunities to combat IUU fishing by expanding, as appropriate, the use of the following mechanisms:
 
@@ -297,9 +297,9 @@ Subsec. (d)(3). Pub. L. 117–263, § 11339(b)(2), substituted “for all prio
 
 The Director of National Intelligence, in conjunction with other agencies, as appropriate, shall develop an enterprise approach to appropriately share information and data within the United States Government or with other countries or nongovernmental organizations, or the private sector, as appropriate, on IUU fishing and other connected transnational organized illegal activity occurring in priority regions and elsewhere, including big data analytics and machine learning.
 
-(Pub. L. 116–92, div. C, title XXXV, § 3544, Dec. 20, 2019, 133 Stat. 2003.)
+(Pub. L. 116–92, div. C, title XXXV, § 3544, Dec. 20, 2019, 133 Stat. 2003.)
 
-### § 8015. Improvement of transparency and traceability programs
+### § 8015. Improvement of transparency and traceability programs
 
 The Secretary of State, the Administrator of the United States Agency for International Development, the Secretary of the Department in which the Coast Guard is operating when it is not operating as a service in the Department of the Navy, the Secretary of Commerce, and the heads of other Federal agencies, if merited, shall work, as appropriate, with priority flag states and key countries in priority regions—
 
@@ -315,9 +315,9 @@ The Secretary of State, the Administrator of the United States Agency for Intern
 
 **(C)** enhance maritime domain awareness.
 
-(Pub. L. 116–92, div. C, title XXXV, § 3545, Dec. 20, 2019, 133 Stat. 2004.)
+(Pub. L. 116–92, div. C, title XXXV, § 3545, Dec. 20, 2019, 133 Stat. 2004.)
 
-### § 8016. Technology programs
+### § 8016. Technology programs
 
 The Secretary of State, the Administrator of the United States Agency for International Development, the Secretary of the Department in which the Coast Guard is operating when it is not operating as a service in the Department of the Navy, the Secretary of Defense, the Secretary of Commerce, and the heads of other Federal agencies, if merited, shall pursue programs, as appropriate, to expand the role of technology for combating IUU fishing, including by—
 
@@ -329,15 +329,15 @@ The Secretary of State, the Administrator of the United States Agency for Intern
 
 **(4)** building partnerships with the private sector, including universities, nonprofit research organizations, the seafood industry, and the technology, transportation and logistics sectors, to leverage new and existing technologies and data analytics to address IUU fishing.
 
-(Pub. L. 116–92, div. C, title XXXV, § 3546, Dec. 20, 2019, 133 Stat. 2004.)
+(Pub. L. 116–92, div. C, title XXXV, § 3546, Dec. 20, 2019, 133 Stat. 2004.)
 
-### § 8017. Savings clause
+### § 8017. Savings clause
 
 No provision of section 8001 of this title or of this subchapter shall impose, or be interpreted to impose, any duty, responsibility, requirement, or obligation on the Department of Defense, the Department of the Navy, the United States Coast Guard when operating as a service in the Department of Homeland Security, or any official or component of either.
 
-(Pub. L. 116–92, div. C, title XXXV, § 3547, Dec. 20, 2019, 133 Stat. 2005.)
+(Pub. L. 116–92, div. C, title XXXV, § 3547, Dec. 20, 2019, 133 Stat. 2005.)
 
-### § 8018. Capacity building in foreign fisheries
+### § 8018. Capacity building in foreign fisheries
 
 The Secretary, in consultation with the heads of other Federal agencies, as appropriate, shall develop and carry out with partner governments and civil society—
 
@@ -345,7 +345,7 @@ The Secretary, in consultation with the heads of other Federal agencies, as appr
 
 **(2)** multi-year capacity-building projects for implementing measures to address illegal, unreported, or unregulated fishing, fraud, forced labor, bycatch, and other conservation measures.
 
-(Pub. L. 117–263, div. K, title CXIII, § 11339(a), Dec. 23, 2022, 136 Stat. 4105.)
+(Pub. L. 117–263, div. K, title CXIII, § 11339(a), Dec. 23, 2022, 136 Stat. 4105.)
 
 **Editorial Notes**
 
@@ -361,7 +361,7 @@ For definitions of terms used in this section, see section 11329 of div. K of Pu
 
 ## SUBCHAPTER II—ESTABLISHMENT OF INTERAGENCY WORKING GROUP ON IUU FISHING
 
-### § 8031. Interagency Working Group on IUU fishing
+### § 8031. Interagency Working Group on IUU fishing
 
 **(a) In general**
 
@@ -449,7 +449,7 @@ There is established a collaborative interagency working group on maritime secur
 
 **(14)** publishing annual reports summarizing nonsensitive information about the Working Group’s efforts to investigate, enforce, and prosecute groups and individuals engaging in IUU fishing.
 
-(Pub. L. 116–92, div. C, title XXXV, § 3551, Dec. 20, 2019, 133 Stat. 2005; Pub. L. 117–263, div. K, title CXIII, § 11331(a), Dec. 23, 2022, 136 Stat. 4099.)
+(Pub. L. 116–92, div. C, title XXXV, § 3551, Dec. 20, 2019, 133 Stat. 2005; Pub. L. 117–263, div. K, title CXIII, § 11331(a), Dec. 23, 2022, 136 Stat. 4099.)
 
 **Editorial Notes**
 
@@ -467,11 +467,11 @@ The High Seas Driftnet Fishing Moratorium Protection Act, referred to in subsec.
 
 **Prohibition on Aggregated Catch Data for Certain Species**
 
-Pub. L. 117–263, div. K, title CXIII, § 11331(b), Dec. 23, 2022, 136 Stat. 4099, provided that: “Beginning not later than 1 year after the date of enactment of this Act [Dec. 23, 2022], for the purposes of compliance with respect to Northern red snapper under the Seafood Import Monitoring Program, the Secretary may not allow an aggregated harvest report of such species, regardless of vessel size.”
+Pub. L. 117–263, div. K, title CXIII, § 11331(b), Dec. 23, 2022, 136 Stat. 4099, provided that: “Beginning not later than 1 year after the date of enactment of this Act [Dec. 23, 2022], for the purposes of compliance with respect to Northern red snapper under the Seafood Import Monitoring Program, the Secretary may not allow an aggregated harvest report of such species, regardless of vessel size.”
 
 [For definition of terms as used in section 11331(b) of Pub. L. 117–263, set out above, see section 11329 of div. K of Pub. L. 117–263, set out as a note under section 1885a of this title.]
 
-### § 8032. Strategic plan
+### § 8032. Strategic plan
 
 **(a) Strategic plan**
 
@@ -495,9 +495,9 @@ The strategic plan submitted under subsection (a) shall identify priority region
 
 **(B)** that lack the capacity to police their fleet.
 
-(Pub. L. 116–92, div. C, title XXXV, § 3552, Dec. 20, 2019, 133 Stat. 2006.)
+(Pub. L. 116–92, div. C, title XXXV, § 3552, Dec. 20, 2019, 133 Stat. 2006.)
 
-### § 8033. Reports
+### § 8033. Reports
 
 Not later than 5 years after the submission of the 5-year integrated strategic plan under section 8032 of this title, and 5 years after, the Working Group shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Foreign Relations of the Senate, the Committee on Appropriations of the Senate, the Committee on the Judiciary of the Senate, the Select Committee on Intelligence of the Senate, the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Natural Resources of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Appropriations of the House of Representatives that contains—
 
@@ -535,7 +535,7 @@ Not later than 5 years after the submission of the 5-year integrated strategic p
 
 **(9)** the status of work with global enforcement partners.
 
-(Pub. L. 116–92, div. C, title XXXV, § 3553, Dec. 20, 2019, 133 Stat. 2007; Pub. L. 117–263, div. K, title CXIII, § 11339(c), Dec. 23, 2022, 136 Stat. 4105.)
+(Pub. L. 116–92, div. C, title XXXV, § 3553, Dec. 20, 2019, 133 Stat. 2007; Pub. L. 117–263, div. K, title CXIII, § 11339(c), Dec. 23, 2022, 136 Stat. 4105.)
 
 **Editorial Notes**
 
@@ -547,7 +547,7 @@ This chapter, referred to in par. (6)(F), was in the original “this subtitle�
 
 2022—Par. (9). Pub. L. 117–263 added par. (9).
 
-### § 8034. Gulf of Mexico IUU Fishing Subworking Group
+### § 8034. Gulf of Mexico IUU Fishing Subworking Group
 
 **(a) In general**
 
@@ -571,7 +571,7 @@ Not later than 90 days after December 20, 2019, the Administrator of the Nationa
 
 **(2)** a timeline for each of the Federal agencies described in subsection (a) to implement each action or policy identified pursuant to subsection (b)(2).
 
-(Pub. L. 116–92, div. C, title XXXV, § 3554, Dec. 20, 2019, 133 Stat. 2008.)
+(Pub. L. 116–92, div. C, title XXXV, § 3554, Dec. 20, 2019, 133 Stat. 2008.)
 
 **Editorial Notes**
 
@@ -581,7 +581,7 @@ The High Seas Driftnet Fishing Moratorium Protection Act, referred to in subsec.
 
 ## SUBCHAPTER III—AUTHORIZATION OF APPROPRIATIONS
 
-### § 8041. Authorization of appropriations
+### § 8041. Authorization of appropriations
 
 **(a) Funding**
 
@@ -591,7 +591,7 @@ Amounts made available to carry out this chapter shall be derived from amounts a
 
 Nothing in this chapter shall be construed to authorize an increase in required or voluntary contributions paid by the United States to any multilateral or international organization.
 
-(Pub. L. 116–92, div. C, title XXXV, § 3571, Dec. 20, 2019, 133 Stat. 2010.)
+(Pub. L. 116–92, div. C, title XXXV, § 3571, Dec. 20, 2019, 133 Stat. 2010.)
 
 **Editorial Notes**
 

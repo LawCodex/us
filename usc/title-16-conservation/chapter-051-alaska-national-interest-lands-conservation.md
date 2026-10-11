@@ -97,7 +97,7 @@ Barack Obama.
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 3101. Congressional statement of purpose
+### § 3101. Congressional statement of purpose
 
 **(a) Establishment of units**
 
@@ -115,13 +115,13 @@ It is further the intent and purpose of this Act consistent with management of f
 
 This Act provides sufficient protection for the national interest in the scenic, natural, cultural and environmental values on the public lands in Alaska, and at the same time provides adequate opportunity for satisfaction of the economic and social needs of the State of Alaska and its people; accordingly, the designation and disposition of the public lands in Alaska pursuant to this Act are found to represent a proper balance between the reservation of national conservation system units and those public lands necessary and appropriate for more intensive use and disposition, and thus Congress believes that the need for future legislation designating new conservation system units, new national conservation areas, or new national recreation areas, has been obviated thereby.
 
-(Pub. L. 96–487, title I, § 101, Dec. 2, 1980, 94 Stat. 2374.)
+(Pub. L. 96–487, title I, § 101, Dec. 2, 1980, 94 Stat. 2374.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The following titles, referred to in subsec. (a), mean titles II to XV of Pub. L. 96–487, Dec. 2, 1980, §§ 201–1503, 94 Stat. 2377–2551. For complete classification of these titles to the Code, see Tables.
+The following titles, referred to in subsec. (a), mean titles II to XV of Pub. L. 96–487, Dec. 2, 1980, §§ 201–1503, 94 Stat. 2377–2551. For complete classification of these titles to the Code, see Tables.
 
 This Act, referred to in subsecs. (b) to (d), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
@@ -129,9 +129,9 @@ This Act, referred to in subsecs. (b) to (d), is Pub. L. 96–487, Dec. 2, 1980,
 
 **Short Title**
 
-Pub. L. 96–487, § 1, Dec. 2, 1980, 94 Stat. 2371, provided that: “This Act [enacting this chapter, sections 410hh to 410hh–5, 460mm to 460mm–4, 539 to 539e, and 1285b of this title, and sections 1631 to 1641 and 1784 of Title 43, Public Lands, amending sections 410bb, 1274, 1276, 1279, and 1280 of this title and sections 1602, 1606, 1607, 1611, 1613, 1614, 1620, and 1621 of Title 43, enacting provisions set out as notes under this section and sections 431, 668dd, 1132, 1274, and 3145 of this title and sections 1605, 1613, and 1618 of Title 43, and amending provisions set out as notes under sections 1611 and 1613 of Title 43 and preceding section 21 of Title 48, Territories and Insular Possessions] may be cited as the ‘Alaska National Interest Lands Conservation Act’.”
+Pub. L. 96–487, § 1, Dec. 2, 1980, 94 Stat. 2371, provided that: “This Act [enacting this chapter, sections 410hh to 410hh–5, 460mm to 460mm–4, 539 to 539e, and 1285b of this title, and sections 1631 to 1641 and 1784 of Title 43, Public Lands, amending sections 410bb, 1274, 1276, 1279, and 1280 of this title and sections 1602, 1606, 1607, 1611, 1613, 1614, 1620, and 1621 of Title 43, enacting provisions set out as notes under this section and sections 431, 668dd, 1132, 1274, and 3145 of this title and sections 1605, 1613, and 1618 of Title 43, and amending provisions set out as notes under sections 1611 and 1613 of Title 43 and preceding section 21 of Title 48, Territories and Insular Possessions] may be cited as the ‘Alaska National Interest Lands Conservation Act’.”
 
-### § 3102. Definitions
+### § 3102. Definitions
 
 As used in this Act (except that in titles IX and XIV the following terms shall have the same meaning as they have in the Alaska Native Claims Settlement Act [43 U.S.C. 1601 et seq.], and the Alaska Statehood Act)—
 
@@ -177,7 +177,7 @@ As used in this Act (except that in titles IX and XIV the following terms shall 
 
 **(18)** The term “take” or “taking” as used with respect to fish or wildlife, means to pursue, hunt, shoot, trap, net capture, collect, kill, harm, or attempt to engage in any such conduct.
 
-(Pub. L. 96–487, title I, § 102, Dec. 2, 1980, 94 Stat. 2375; Pub. L. 105–83, title III, § 316(b)(2), (d), Nov. 14, 1997, 111 Stat. 1592, 1595.)
+(Pub. L. 96–487, title I, § 102, Dec. 2, 1980, 94 Stat. 2375; Pub. L. 105–83, title III, § 316(b)(2), (d), Nov. 14, 1997, 111 Stat. 1592, 1595.)
 
 **Editorial Notes**
 
@@ -185,25 +185,25 @@ As used in this Act (except that in titles IX and XIV the following terms shall 
 
 This Act, referred to in provision preceding par. (1) and in par. (4), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. Title IX of this Act enacted sections 1631 to 1638 of Title 43, Public Lands, amended sections 1614 and 1620 of Title 43, and amended provisions set out as notes under section 1611 of Title 43 and preceding section 21 of Title 48, Territories and Insular Possessions. Title XIV of this Act enacted sections 1639 to 1641 of Title 43, amended sections 1602, 1606, 1607, 1611, 1613, 1620, and 1621 of Title 43, enacted provisions set out as notes under sections 1605, 1613, and 1618 of Title 43, and amended provisions set out as notes under sections 1611 and 1613 of Title 43. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in provision preceding par. (1) and in pars. (3)(B), (C)(5), and (11), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in provision preceding par. (1) and in pars. (3)(B), (C)(5), and (11), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 The Alaska Statehood Act, referred to in provision preceding par. (1) and in pars. (3)(A) and (14), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
-The Wilderness Act, referred to in par. (13), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
+The Wilderness Act, referred to in par. (13), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
 **Amendments**
 
-1997—Par. (2). Pub. L. 105–83, § 316(b)(2), which directed the amendment of par. (2) generally, to read as follows: “The term ‘Federal land’ means lands the title to which is in the United States after December 2, 1980. ‘Federal land’ does not include lands the title to which is in the State, an Alaska Native corporation, or other private ownership.”, was repealed by Pub. L. 105–83, § 316(d). See Effective and Termination Dates of 1997 Amendment note below.
+1997—Par. (2). Pub. L. 105–83, § 316(b)(2), which directed the amendment of par. (2) generally, to read as follows: “The term ‘Federal land’ means lands the title to which is in the United States after December 2, 1980. ‘Federal land’ does not include lands the title to which is in the State, an Alaska Native corporation, or other private ownership.”, was repealed by Pub. L. 105–83, § 316(d). See Effective and Termination Dates of 1997 Amendment note below.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective and Termination Dates of 1997 Amendment**
 
-Pub. L. 105–83, title III, § 316(d), Nov. 14, 1997, 111 Stat. 1595, provided that: “Unless and until laws are adopted in the State of Alaska which provide for the definition, preference, and participation specified in sections 803, 804, and 805 [sections 3113 to 3115 of this title] of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3111 et seq.), the amendments made by subsection (b) of this section [amending this section and sections 3111, 3113 to 3115, 3117, 3124, and 3125 of this title] shall be effective only for the purposes of determining whether the State’s laws provide for such definition, preference, and participation. The Secretary shall certify before December 1, 1998 if such laws have been adopted in the State of Alaska. Subsection (b) shall be repealed on such date if such laws have not been adopted.” [The State of Alaska did not adopt laws specified above by Dec. 1, 1998.]
+Pub. L. 105–83, title III, § 316(d), Nov. 14, 1997, 111 Stat. 1595, provided that: “Unless and until laws are adopted in the State of Alaska which provide for the definition, preference, and participation specified in sections 803, 804, and 805 [sections 3113 to 3115 of this title] of the Alaska National Interest Lands Conservation Act (16 U.S.C. 3111 et seq.), the amendments made by subsection (b) of this section [amending this section and sections 3111, 3113 to 3115, 3117, 3124, and 3125 of this title] shall be effective only for the purposes of determining whether the State’s laws provide for such definition, preference, and participation. The Secretary shall certify before December 1, 1998 if such laws have been adopted in the State of Alaska. Subsection (b) shall be repealed on such date if such laws have not been adopted.” [The State of Alaska did not adopt laws specified above by Dec. 1, 1998.]
 
 **Savings Clause**
 
-Pub. L. 105–83, title III, § 316(c), Nov. 14, 1997, 111 Stat. 1595, provided that:
+Pub. L. 105–83, title III, § 316(c), Nov. 14, 1997, 111 Stat. 1595, provided that:
 
 > “No provision of this section [amending this section and sections 3111, 3113 to 3115, 3117, 3124, and 3125 of this title and enacting provisions set out as notes under this section], amendment made by this section, or exercise of authority pursuant to this section may be construed to validate, invalidate, or in any way affect—
 
@@ -217,9 +217,9 @@ Pub. L. 105–83, title III, § 316(c), Nov. 14, 1997, 111 Stat. 1595, provide
 
 **Moratorium on Federal Management of Subsistence Uses in Alaska**
 
-Pub. L. 105–277, div. A, § 101(e) [title III, § 339], Oct. 21, 1998, 112 Stat. 2681–231, 2681–295, provided that:
+Pub. L. 105–277, div. A, § 101(e) [title III, § 339], Oct. 21, 1998, 112 Stat. 2681–231, 2681–295, provided that:
 
-[“(a) Repealed. Pub. L. 105–277, div. A, § 101(e) [title III, § 339(b)(2)], Oct. 21, 1998, 112 Stat. 2681–231, 2681–295]
+[“(a) Repealed. Pub. L. 105–277, div. A, § 101(e) [title III, § 339(b)(2)], Oct. 21, 1998, 112 Stat. 2681–231, 2681–295]
 
 “(b) Subsection (a) Repealed.—
 
@@ -231,9 +231,9 @@ Pub. L. 105–277, div. A, § 101(e) [title III, § 339], Oct. 21, 1998, 112
 
 “(d) Effect on Tidal and Submerged Land.—Nothing in this section invalidates, validates, or in any other way affects any claim of the State of Alaska to title to any tidal or submerged land in Alaska.”
 
-Pub. L. 105–83, title III, § 316(a), Nov. 14, 1997, 111 Stat. 1592, provided that: “None of the funds made available to the Department of the Interior or the Department of Agriculture by this or any other Act hereafter enacted may be used prior to December 1, 1998 to issue or implement final regulations, rules, or policies pursuant to title VIII of the Alaska National Interest Lands Conservation Act [16 U.S.C. 3111 et seq.] to assert jurisdiction, management, or control over the navigable waters transferred to the State of Alaska pursuant to the Submerged Lands Act of 1953 [43 U.S.C. 1301 et seq.] or the Alaska Statehood Act of 1959 [Pub. L. 85–508, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions].”
+Pub. L. 105–83, title III, § 316(a), Nov. 14, 1997, 111 Stat. 1592, provided that: “None of the funds made available to the Department of the Interior or the Department of Agriculture by this or any other Act hereafter enacted may be used prior to December 1, 1998 to issue or implement final regulations, rules, or policies pursuant to title VIII of the Alaska National Interest Lands Conservation Act [16 U.S.C. 3111 et seq.] to assert jurisdiction, management, or control over the navigable waters transferred to the State of Alaska pursuant to the Submerged Lands Act of 1953 [43 U.S.C. 1301 et seq.] or the Alaska Statehood Act of 1959 [Pub. L. 85–508, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions].”
 
-### § 3103. Maps
+### § 3103. Maps
 
 **(a) Filing and availability for inspection; discrepancies; coastal areas**
 
@@ -247,7 +247,7 @@ As soon as practicable after December 2, 1980, a map and legal description of ea
 
 Only those lands within the boundaries of any conservation system unit which are public lands (as such term is defined in this Act) shall be deemed to be included as a portion of such unit. No lands which, before, on, or after December 2, 1980, are conveyed to the State, to any Native Corporation, or to any private party shall be subject to the regulations applicable solely to public lands within such units. If the State, a Native Corporation, or other owner desires to convey any such lands, the Secretary may acquire such lands in accordance with applicable law (including this Act), and any such lands shall become part of the unit, and be administered accordingly.
 
-(Pub. L. 96–487, title I, § 103, Dec. 2, 1980, 94 Stat. 2376.)
+(Pub. L. 96–487, title I, § 103, Dec. 2, 1980, 94 Stat. 2376.)
 
 **Editorial Notes**
 
@@ -257,7 +257,7 @@ This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371,
 
 ## SUBCHAPTER II—SUBSISTENCE MANAGEMENT AND USE
 
-### § 3111. Congressional declaration of findings
+### § 3111. Congressional declaration of findings
 
 The Congress finds and declares that—
 
@@ -271,17 +271,17 @@ The Congress finds and declares that—
 
 **(5)** the national interest in the proper regulation, protection, and conservation of fish and wildlife on the public lands in Alaska and the continuation of the opportunity for a subsistence way of life by residents of rural Alaska require that an administrative structure be established for the purpose of enabling rural residents who have personal knowledge of local conditions and requirements to have a meaningful role in the management of fish and wildlife and of subsistence uses on the public lands in Alaska.
 
-(Pub. L. 96–487, title VIII, § 801, Dec. 2, 1980, 94 Stat. 2422; Pub. L. 105–83, title III, § 316(b)(3), (d), Nov. 14, 1997, 111 Stat. 1592, 1595.)
+(Pub. L. 96–487, title VIII, § 801, Dec. 2, 1980, 94 Stat. 2422; Pub. L. 105–83, title III, § 316(b)(3), (d), Nov. 14, 1997, 111 Stat. 1592, 1595.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Alaska Native Claims Settlement Act, referred to in par. (4), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (4), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 **Amendments**
 
-1997—Pub. L. 105–83, § 316(b)(3), which directed the designation of existing provisions as subsec. (a) and the addition of subsec. (b) relating to further congressional findings as to subsistence use of public lands by rural residents of Alaska, was repealed by Pub. L. 105–83, § 316(d). See Effective and Termination Dates of 1997 Amendment note below.
+1997—Pub. L. 105–83, § 316(b)(3), which directed the designation of existing provisions as subsec. (a) and the addition of subsec. (b) relating to further congressional findings as to subsistence use of public lands by rural residents of Alaska, was repealed by Pub. L. 105–83, § 316(d). See Effective and Termination Dates of 1997 Amendment note below.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -289,7 +289,7 @@ The Alaska Native Claims Settlement Act, referred to in par. (4), is Pub. L. 92�
 
 Until laws are adopted in Alaska which provide for definition, preference, and participation specified in sections 3113 to 3115 of this title, amendment by Pub. L. 105–83 was effective only for purpose of determining whether State’s laws provide for such definition, preference, and participation, and such amendment was repealed on Dec. 1, 1998, because such laws had not been adopted, see section 316(d) of Pub. L. 105–83 set out as a note under section 3102 of this title.
 
-### § 3112. Congressional statement of policy
+### § 3112. Congressional statement of policy
 
 It is hereby declared to be the policy of Congress that—
 
@@ -299,7 +299,7 @@ It is hereby declared to be the policy of Congress that—
 
 **(3)** except as otherwise provided by this Act or other Federal laws, Federal land managing agencies, in managing subsistence activities on the public lands and in protecting the continued viability of all wild renewable resources in Alaska, shall cooperate with adjacent landowners and land managers, including Native Corporations, appropriate State and Federal agencies, and other nations.
 
-(Pub. L. 96–487, title VIII, § 802, Dec. 2, 1980, 94 Stat. 2422.)
+(Pub. L. 96–487, title VIII, § 802, Dec. 2, 1980, 94 Stat. 2422.)
 
 **Editorial Notes**
 
@@ -307,7 +307,7 @@ It is hereby declared to be the policy of Congress that—
 
 This Act, referred to in pars. (1) and (3), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. Titles II through VII of this Act enacted sections 410hh to 410hh–5, 460mm to 460mm–3, 539 to 539e, and 1285b of this title, amended sections 1274, 1276, 1279, and 1280 of this title, enacted provisions set out as notes under sections 668dd, 1132, 1274, and 3145 of this title, and enacted provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under section 320301 of Title 54, National Park Service and Related Programs. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-### § 3113. Definitions
+### § 3113. Definitions
 
 As used in this Act, the term “subsistence uses” means the customary and traditional uses by rural Alaska residents of wild, renewable resources for direct personal or family consumption as food, shelter, fuel, clothing, tools, or transportation; for the making and selling of handicraft articles out of nonedible byproducts of fish and wildlife resources taken for personal or family consumption; for barter, or sharing for personal or family consumption; and for customary trade. For the purposes of this section, the term—
 
@@ -319,7 +319,7 @@ As used in this Act, the term “subsistence uses” means the customary and tra
 
 **(B)** for other food or for nonedible items other than money if the exchange is of a limited and noncommercial nature.
 
-(Pub. L. 96–487, title VIII, § 803, Dec. 2, 1980, 94 Stat. 2423; Pub. L. 105–83, title III, § 316(b)(4), (d), Nov. 14, 1997, 111 Stat. 1593, 1595.)
+(Pub. L. 96–487, title VIII, § 803, Dec. 2, 1980, 94 Stat. 2423; Pub. L. 105–83, title III, § 316(b)(4), (d), Nov. 14, 1997, 111 Stat. 1593, 1595.)
 
 **Editorial Notes**
 
@@ -329,7 +329,7 @@ This Act, referred to in provision preceding par. (1), is Pub. L. 96–487, Dec.
 
 **Amendments**
 
-1997—Pars. (3) to (5). Pub. L. 105–83, § 316(b)(4), which directed the addition of pars. (3) to (5) was repealed by Pub. L. 105–83, § 316(d). Pars. (3) to (5) read as follows:
+1997—Pars. (3) to (5). Pub. L. 105–83, § 316(b)(4), which directed the addition of pars. (3) to (5) was repealed by Pub. L. 105–83, § 316(d). Pars. (3) to (5) read as follows:
 
 “(3) ‘customary and traditional uses’ means the noncommercial, long-term, and consistent taking of, use of, or reliance upon fish and wildlife in a specific area and the patterns and practices of taking or use of that fish and wildlife that have been established over a reasonable period of time, taking into consideration the availability of the fish and wildlife;
 
@@ -343,7 +343,7 @@ This Act, referred to in provision preceding par. (1), is Pub. L. 96–487, Dec.
 
 Until laws are adopted in Alaska which provide for definition, preference, and participation specified in sections 3113 to 3115 of this title, amendment by Pub. L. 105–83 was effective only for purpose of determining whether State’s laws provide for such definition, preference, and participation, and such amendment was repealed on Dec. 1, 1998, because such laws had not been adopted, see section 316(d) of Pub. L. 105–83 set out as a note under section 3102 of this title.
 
-### § 3114. Preference for subsistence uses
+### § 3114. Preference for subsistence uses
 
 Except as otherwise provided in this Act and other Federal laws, the taking on public lands of fish and wildlife for nonwasteful subsistence uses shall be accorded priority over the taking on such lands of fish and wildlife for other purposes. Whenever it is necessary to restrict the taking of populations of fish and wildlife on such lands for subsistence uses in order to protect the continued viability of such populations, or to continue such uses, such priority shall be implemented through appropriate limitations based on the application of the following criteria:
 
@@ -353,7 +353,7 @@ Except as otherwise provided in this Act and other Federal laws, the taking on p
 
 **(3)** the availability of alternative resources.
 
-(Pub. L. 96–487, title VIII, § 804, Dec. 2, 1980, 94 Stat. 2423; Pub. L. 105–83, title III, § 316(b)(5), (d), Nov. 14, 1997, 111 Stat. 1593, 1595.)
+(Pub. L. 96–487, title VIII, § 804, Dec. 2, 1980, 94 Stat. 2423; Pub. L. 105–83, title III, § 316(b)(5), (d), Nov. 14, 1997, 111 Stat. 1593, 1595.)
 
 **Editorial Notes**
 
@@ -363,7 +363,7 @@ This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371,
 
 **Amendments**
 
-1997—Pub. L. 105–83, § 316(b)(5), which directed the designation of existing provisions as subsec. (a) and the addition of subsec. (b) reading as follows: “The priority granted by this section is for a reasonable opportunity to take fish and wildlife. For the purposes of this subsection, the term ‘reasonable opportunity’ means an opportunity, consistent with customary and traditional uses (as defined in section 3113(3) of this title), to participate in a subsistence hunt or fishery with a reasonable expectation of success, and does not mean a guarantee that fish and wildlife will be taken.” was repealed by Pub. L. 105–83, § 316(d). See Effective and Termination Dates of 1997 Amendment note below.
+1997—Pub. L. 105–83, § 316(b)(5), which directed the designation of existing provisions as subsec. (a) and the addition of subsec. (b) reading as follows: “The priority granted by this section is for a reasonable opportunity to take fish and wildlife. For the purposes of this subsection, the term ‘reasonable opportunity’ means an opportunity, consistent with customary and traditional uses (as defined in section 3113(3) of this title), to participate in a subsistence hunt or fishery with a reasonable expectation of success, and does not mean a guarantee that fish and wildlife will be taken.” was repealed by Pub. L. 105–83, § 316(d). See Effective and Termination Dates of 1997 Amendment note below.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -371,7 +371,7 @@ This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371,
 
 Until laws are adopted in Alaska which provide for definition, preference, and participation specified in sections 3113 to 3115 of this title, amendment by Pub. L. 105–83 was effective only for purpose of determining whether State’s laws provide for such definition, preference, and participation, and such amendment was repealed on Dec. 1, 1998, because such laws had not been adopted, see section 316(d) of Pub. L. 105–83 set out as a note under section 3102 of this title.
 
-### § 3115. Local and regional participation
+### § 3115. Local and regional participation
 
 **(a) Establishment of subsistence resources regions, local advisory committees, and regional advisory councils; membership, duties, and authority of regional advisory councils** Except as otherwise provided in subsection (d) of this section, the Secretary in consultation with the State shall establish—
 
@@ -417,19 +417,19 @@ The Secretary shall not implement subsections (a), (b), and (c) of this section 
 
 **(2)** Total payments to the State under this subsection shall not exceed the sum of $5,000,000 in any one fiscal year. The Secretary shall advise the Congress at least once in every five years as to whether or not the maximum payments specified in this subsection are adequate to ensure the effectiveness of the program established by the State to provide the preference for subsistence uses of fish and wildlife set forth in section 3114 of this title.
 
-(Pub. L. 96–487, title VIII, § 805, Dec. 2, 1980, 94 Stat. 2424; Pub. L. 105–83, title III, § 316(b)(6), (d), Nov. 14, 1997, 111 Stat. 1593, 1595; Pub. L. 105–277, div. A, § 101(e) [title III, § 339(c)], Oct. 21, 1998, 112 Stat. 2681–231, 2681–296.)
+(Pub. L. 96–487, title VIII, § 805, Dec. 2, 1980, 94 Stat. 2424; Pub. L. 105–83, title III, § 316(b)(6), (d), Nov. 14, 1997, 111 Stat. 1593, 1595; Pub. L. 105–277, div. A, § 101(e) [title III, § 339(c)], Oct. 21, 1998, 112 Stat. 2681–231, 2681–296.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–277, § 101(e) [title III, § 339(c)(1)], struck out “one year after December 2, 1980,” before “the Secretary” in introductory provisions.
+1998—Subsec. (a). Pub. L. 105–277, § 101(e) [title III, § 339(c)(1)], struck out “one year after December 2, 1980,” before “the Secretary” in introductory provisions.
 
-Subsec. (d). Pub. L. 105–277, § 101(e) [title III, § 339(c)(2)], struck out “within one year from December 2, 1980,” before “the State enacts” in first sentence.
+Subsec. (d). Pub. L. 105–277, § 101(e) [title III, § 339(c)(2)], struck out “within one year from December 2, 1980,” before “the State enacts” in first sentence.
 
-1997—Subsec. (a). Pub. L. 105–83, § 316(b)(6)(A), which directed the amendment of subsec. (a) by striking out “one year after December 2, 1980,” before “the Secretary” in introductory provisions, was repealed by Pub. L. 105–83, § 316(d). See Effective and Termination Dates of 1997 Amendment note below.
+1997—Subsec. (a). Pub. L. 105–83, § 316(b)(6)(A), which directed the amendment of subsec. (a) by striking out “one year after December 2, 1980,” before “the Secretary” in introductory provisions, was repealed by Pub. L. 105–83, § 316(d). See Effective and Termination Dates of 1997 Amendment note below.
 
-Subsec. (d). Pub. L. 105–83, § 316(b)(6)(B), which directed the amendment of subsec. (d) generally to provide for supersedure by enactment and implementation of State laws governing State responsibility, consideration of recommendations by State rulemaking authority, and for the creation of regional advisory councils, was repealed by Pub. L. 105–83, § 316(d). See Effective and Termination Dates of 1997 Amendment note below.
+Subsec. (d). Pub. L. 105–83, § 316(b)(6)(B), which directed the amendment of subsec. (d) generally to provide for supersedure by enactment and implementation of State laws governing State responsibility, consideration of recommendations by State rulemaking authority, and for the creation of regional advisory councils, was repealed by Pub. L. 105–83, § 316(d). See Effective and Termination Dates of 1997 Amendment note below.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -441,11 +441,11 @@ Until laws are adopted in Alaska which provide for definition, preference, and p
 
 Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-### § 3116. Federal monitoring; reports to State and Congressional committees
+### § 3116. Federal monitoring; reports to State and Congressional committees
 
 The Secretary shall monitor the provisions by the State of the subsistence preference set forth in section 3114 of this title and shall advise the State and the Committees on Natural Resources and on Merchant Marine and Fisheries of the House of Representatives and the Committees on Energy and Natural Resources and Environment and Public Works of the Senate annually and at such other times as he deems necessary of his views on the effectiveness of the implementation of this subchapter including the State’s provision of such preference, any exercise of his closure or other administrative authority to protect subsistence resources or uses, the views of the State, and any recommendations he may have.
 
-(Pub. L. 96–487, title VIII, § 806, Dec. 2, 1980, 94 Stat. 2425; Pub. L. 103–437, § 6(y), Nov. 2, 1994, 108 Stat. 4587.)
+(Pub. L. 96–487, title VIII, § 806, Dec. 2, 1980, 94 Stat. 2425; Pub. L. 103–437, § 6(y), Nov. 2, 1994, 108 Stat. 4587.)
 
 **Editorial Notes**
 
@@ -459,25 +459,25 @@ The Secretary shall monitor the provisions by the State of the subsistence prefe
 
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-### § 3117. Judicial enforcement
+### § 3117. Judicial enforcement
 
 **(a) Exhaustion of administrative remedies; civil action; parties; preliminary injunctive relief; other relief; costs and attorney’s fees**
 
 Local residents and other persons and organizations aggrieved by a failure of the State or the Federal Government to provide for the priority for subsistence uses set forth in section 3114 of this title (or with respect to the State as set forth in a State law of general applicability if the State has fulfilled the requirements of section 3115(d) of this title) may, upon exhaustion of any State or Federal (as appropriate) administrative remedies which may be available, file a civil action in the United States District Court for the District of Alaska to require such actions to be taken as are necessary to provide for the priority. In a civil action filed against the State, the Secretary may be joined as a party to such action. The court may grant preliminary injunctive relief in any civil action if the granting of such relief is appropriate under the facts upon which the action is based. No order granting preliminary relief shall be issued until after an opportunity for hearing. In a civil action filed against the State, the court shall provide relief, other than preliminary relief, by directing the State to submit regulations which satisfy the requirements of section 3114 of this title; when approved by the court, such regulations shall be incorporated as part of the final judicial order, and such order shall be valid only for such period of time as normally provided by State law for the regulations at issue. Local residents and other persons and organizations who are prevailing parties in an action filed pursuant to this section shall be awarded their costs and attorney’s fees.
 
-**(b) Repealed. Pub. L. 98–620, title IV, § 402(22)(A), Nov. 8, 1984, 98 Stat. 3358**
+**(b) Repealed. Pub. L. 98–620, title IV, § 402(22)(A), Nov. 8, 1984, 98 Stat. 3358**
 
 **(c) Section as sole Federal judicial remedy**
 
 This section is the sole Federal judicial remedy created by this subchapter for local residents and other residents who, and organizations which, are aggrieved by a failure of the State to provide for the priority of subsistence uses set forth in section 3114 of this title.
 
-(Pub. L. 96–487, title VII, § 807, Dec. 2, 1980, 94 Stat. 2426; Pub. L. 98–620, title IV, § 402(22)(A), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 105–83, title III, § 316(b)(7), (d), Nov. 14, 1997, 111 Stat. 1594, 1595.)
+(Pub. L. 96–487, title VII, § 807, Dec. 2, 1980, 94 Stat. 2426; Pub. L. 98–620, title IV, § 402(22)(A), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 105–83, title III, § 316(b)(7), (d), Nov. 14, 1997, 111 Stat. 1594, 1595.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1997—Subsec. (b). Pub. L. 105–83, § 316(b)(7), which directed amendment of section by adding subsec. (b) reading as follows: “State agency actions may be declared invalid by the court only if they are arbitrary, capricious, or an abuse of discretion, or otherwise not in accordance with law. When reviewing any action within the specialized knowledge of a State agency, the court shall give the decision of the State agency the same deference it would give the same decision of a comparable Federal agency.”, was repealed by Pub. L. 105–83, § 316(d). See Effective and Termination Dates of 1997 Amendments note below.
+1997—Subsec. (b). Pub. L. 105–83, § 316(b)(7), which directed amendment of section by adding subsec. (b) reading as follows: “State agency actions may be declared invalid by the court only if they are arbitrary, capricious, or an abuse of discretion, or otherwise not in accordance with law. When reviewing any action within the specialized knowledge of a State agency, the court shall give the decision of the State agency the same deference it would give the same decision of a comparable Federal agency.”, was repealed by Pub. L. 105–83, § 316(d). See Effective and Termination Dates of 1997 Amendments note below.
 
 1984—Subsec. (b). Pub. L. 98–620 struck out subsec. (b) which had provided that a civil action filed pursuant to this section was to be assigned for hearing at the earliest possible date, was to take precedence over other matters pending on the docket of the United States district court at that time, and was to be expedited in every way by such court and any appellate court.
 
@@ -491,7 +491,7 @@ Until laws are adopted in Alaska which provide for definition, preference, and p
 
 Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 
-### § 3118. Park and park monument subsistence resource commissions
+### § 3118. Park and park monument subsistence resource commissions
 
 **(a) Appointment of members; development of subsistence hunting program; annual review of program**
 
@@ -505,7 +505,7 @@ The Secretary shall promptly implement the program and recommendations submitted
 
 Pending the implementation of a program under subsection (a) of this section, the Secretary shall permit subsistence uses by local residents in accordance with the provisions of this subchapter and other applicable Federal and State law.
 
-(Pub. L. 96–487, title VIII, § 808, Dec. 2, 1980, 94 Stat. 2426.)
+(Pub. L. 96–487, title VIII, § 808, Dec. 2, 1980, 94 Stat. 2426.)
 
 **Editorial Notes**
 
@@ -513,13 +513,13 @@ Pending the implementation of a program under subsection (a) of this section, th
 
 This Act, referred to in subsec. (a), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-### § 3119. Cooperative agreements
+### § 3119. Cooperative agreements
 
 The Secretary may enter into cooperative agreements or otherwise cooperate with other Federal agencies, the State, Native Corporations, other appropriate persons and organizations, and, acting through the Secretary of State, other nations to effectuate the purposes and policies of this subchapter.
 
-(Pub. L. 96–487, title VIII, § 809, Dec. 2, 1980, 94 Stat. 2427.)
+(Pub. L. 96–487, title VIII, § 809, Dec. 2, 1980, 94 Stat. 2427.)
 
-### § 3120. Subsistence and land use decisions
+### § 3120. Subsistence and land use decisions
 
 **(a) Factors considered; requirements** In determining whether to withdraw, reserve, lease, or otherwise permit the use, occupancy, or disposition of public lands under any provision of law authorizing such actions, the head of the Federal agency having primary jurisdiction over such lands or his designee shall evaluate the effect of such use, occupancy, or disposition on subsistence uses and needs, the availability of other lands for the purposes sought to be achieved, and other alternatives which would reduce or eliminate the use, occupancy, or disposition of public lands needed for subsistence purposes. No such withdrawal, reservation, lease, permit, or other use, occupancy or disposition of such lands which would significantly restrict subsistence uses shall be effected until the head of such Federal agency—
 
@@ -541,7 +541,7 @@ Nothing herein shall be construed to prohibit or impair the ability of the State
 
 After compliance with the procedural requirements of this section and other applicable law, the head of the appropriate Federal agency may manage or dispose of public lands under his primary jurisdiction for any of those uses or purposes authorized by this Act or other law.
 
-(Pub. L. 96–487, title VIII, § 810, Dec. 2, 1980, 94 Stat. 2427.)
+(Pub. L. 96–487, title VIII, § 810, Dec. 2, 1980, 94 Stat. 2427.)
 
 **Editorial Notes**
 
@@ -549,11 +549,11 @@ After compliance with the procedural requirements of this section and other appl
 
 The Alaska Statehood Act, referred to in subsec. (c), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (c), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set our under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (c), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set our under section 1601 of Title 43 and Tables.
 
 This Act, referred to in subsec. (d), is Pub. L 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-### § 3121. Rural residents engaged in subsistence uses
+### § 3121. Rural residents engaged in subsistence uses
 
 **(a) Access to subsistence resources**
 
@@ -563,7 +563,7 @@ The Secretary shall ensure that rural residents engaged in subsistence uses shal
 
 Notwithstanding any other provision of this Act or other law, the Secretary shall permit on the public lands appropriate use for subsistence purposes of snowmobiles, motorboats, and other means of surface transportation traditionally employed for such purposes by local residents, subject to reasonable regulation.
 
-(Pub. L. 96–487, title VIII, § 811, Dec. 2, 1980, 94 Stat. 2428.)
+(Pub. L. 96–487, title VIII, § 811, Dec. 2, 1980, 94 Stat. 2428.)
 
 **Editorial Notes**
 
@@ -571,13 +571,13 @@ Notwithstanding any other provision of this Act or other law, the Secretary shal
 
 This Act, referred to in subsec. (b), is Pub. L 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-### § 3122. Research
+### § 3122. Research
 
 The Secretary, in cooperation with the State and other appropriate Federal agencies, shall undertake research on fish and wildlife and subsistence uses on the public lands; seek data from, consult with and make use of, the special knowledge of local residents engaged in subsistence uses; and make the results of such research available to the State, the local and regional councils established by the Secretary or State pursuant to section 3115 of this title, and other appropriate persons and organizations.
 
-(Pub. L. 96–487, title VIII, § 812, Dec. 2, 1980, 94 Stat. 2428.)
+(Pub. L. 96–487, title VIII, § 812, Dec. 2, 1980, 94 Stat. 2428.)
 
-### § 3123. Periodic reports
+### § 3123. Periodic reports
 
 Within four years after December 2, 1980, and within every three-year period thereafter, the Secretary, in consultation with the Secretary of Agriculture, shall prepare and submit a report to the President of the Senate and the Speaker of the House of Representatives on the implementation of this subchapter. The report shall include—
 
@@ -597,7 +597,7 @@ Within four years after December 2, 1980, and within every three-year period the
 
 A notice of the report shall be published in the Federal Register and the report shall be made available to the public.
 
-(Pub. L. 96–487, title VIII, § 813, Dec. 2, 1980, 94 Stat. 2428.)
+(Pub. L. 96–487, title VIII, § 813, Dec. 2, 1980, 94 Stat. 2428.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -605,17 +605,17 @@ A notice of the report shall be published in the Federal Register and the report
 
 For termination, effective May 15, 2000, of provisions in this section relating to submitting, within every three-year period, a report on the implementation of this subchapter to the President of the Senate and the Speaker of the House of Representatives, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 112 of House Document No. 103–7.
 
-### § 3124. Regulations
+### § 3124. Regulations
 
 The Secretary shall prescribe such regulations as are necessary and appropriate to carry out his responsibilities under this subchapter.
 
-(Pub. L. 96–487, title VIII, § 814, Dec. 2, 1980, 94 Stat. 2429; Pub. L. 105–83, title III, § 316(b)(8), (d), Nov. 14, 1997, 111 Stat. 1594, 1595.)
+(Pub. L. 96–487, title VIII, § 814, Dec. 2, 1980, 94 Stat. 2429; Pub. L. 105–83, title III, § 316(b)(8), (d), Nov. 14, 1997, 111 Stat. 1594, 1595.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1997—Pub. L. 105–83, § 316(b)(8), which directed amendment of section by inserting “, and the State at any time the State has complied with section 3115(d) of this title” after “The Secretary” and inserting at end “During any time that the State has complied with section 3115(d) of this title, the Secretary shall not make or enforce regulations implementing section 3115(a), (b), or (c) of this title.”, was repealed by Pub. L. 105–83, § 316(d). See Effective and Termination Dates of 1997 Amendment note below.
+1997—Pub. L. 105–83, § 316(b)(8), which directed amendment of section by inserting “, and the State at any time the State has complied with section 3115(d) of this title” after “The Secretary” and inserting at end “During any time that the State has complied with section 3115(d) of this title, the Secretary shall not make or enforce regulations implementing section 3115(a), (b), or (c) of this title.”, was repealed by Pub. L. 105–83, § 316(d). See Effective and Termination Dates of 1997 Amendment note below.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -623,7 +623,7 @@ The Secretary shall prescribe such regulations as are necessary and appropriate 
 
 Until laws are adopted in Alaska which provide for definition, preference, and participation specified in sections 3113 to 3115 of this title, amendment by Pub. L. 105–83 was effective only for purpose of determining whether State’s laws provide for such definition, preference, and participation, and such amendment was repealed on Dec. 1, 1998, because such laws had not been adopted, see section 316(d) of Pub. L. 105–83 set out as a note under section 3102 of this title.
 
-### § 3125. Limitations and savings clauses
+### § 3125. Limitations and savings clauses
 
 Nothing in this subchapter shall be construed as—
 
@@ -635,7 +635,7 @@ Nothing in this subchapter shall be construed as—
 
 **(4)** modifying or repealing the provisions of any Federal law governing the conservation or protection of fish and wildlife, including the National Wildlife Refuge System Administration Act of 1966 (80 Stat. 927; 16 U.S.C. 668dd–jj), section 100101(b)(1), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54, the Fur Seal Act of 1966 (80 Stat. 1091; 16 U.S.C. 1187) [16 U.S.C. 1151 et seq.], the Endangered Species Act of 1973 (87 Stat. 884; 16 U.S.C. 1531–1543), the Marine Mammal Protection Act of 1972 (86 Stat. 1027; 16 U.S.C. 1361–1407), the Act entitled “An Act for the Protection of the Bald Eagle”, approved June 8, 1940 (54 Stat. 250; 16 U.S.C. 742a–754) [16 U.S.C. 668 et seq.], the Migratory Bird Treaty Act (40 Stat. 755; 16 U.S.C. 703–711), the Federal Aid in Wildlife Restoration Act (50 Stat. 917; 16 U.S.C. 669–669i), the Magnuson-Stevens Fishery Conservation and Management Act (90 Stat. 331; 16 U.S.C. 1801–1882), the Federal Aid in Fish Restoration Act (64 Stat. 430; 16 U.S.C. 777–777k), or any amendments to any one or more of such Acts or such title.
 
-(Pub. L. 96–487, title VIII, § 815, Dec. 2, 1980, 94 Stat. 2429; Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 105–83, title III, § 316(b)(9), (d), Nov. 14, 1997, 111 Stat. 1594, 1595; Pub. L. 113–287, § 5(d)(33), Dec. 19, 2014, 128 Stat. 3267.)
+(Pub. L. 96–487, title VIII, § 815, Dec. 2, 1980, 94 Stat. 2429; Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 105–83, title III, § 316(b)(9), (d), Nov. 14, 1997, 111 Stat. 1594, 1595; Pub. L. 113–287, § 5(d)(33), Dec. 19, 2014, 128 Stat. 3267.)
 
 **Editorial Notes**
 
@@ -643,27 +643,27 @@ Nothing in this subchapter shall be construed as—
 
 The National Wildlife Refuge System Administration Act of 1966, referred to in par. (4), consists of sections 4 and 5 of Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, and is classified to sections 668dd and 668ee of this title. For further details, see Short Title note set out under section 668dd of this title.
 
-The Fur Seal Act of 1966, referred to in par. (4), is Pub. L. 89–702, Nov. 2 1966, 80 Stat. 1091, which is classified principally to chapter 24 (§ 1151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1151 of this title and Tables.
+The Fur Seal Act of 1966, referred to in par. (4), is Pub. L. 89–702, Nov. 2 1966, 80 Stat. 1091, which is classified principally to chapter 24 (§ 1151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1151 of this title and Tables.
 
-The Endangered Species Act of 1973, referred to in par. (4), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in par. (4), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The Marine Mammal Protection Act of 1972, referred to in par. (4), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
+The Marine Mammal Protection Act of 1972, referred to in par. (4), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
 
-The Act entitled “An Act for the Protection of the Bald Eagle”, approved June 8, 1940, referred to in par. (4), is act June 8, 1940, ch. 278, 54 Stat. 250, which is classified generally to subchapter II (§ 668 et seq.) of chapter 5A of this title. For complete classification of this Act to the Code, see Tables.
+The Act entitled “An Act for the Protection of the Bald Eagle”, approved June 8, 1940, referred to in par. (4), is act June 8, 1940, ch. 278, 54 Stat. 250, which is classified generally to subchapter II (§ 668 et seq.) of chapter 5A of this title. For complete classification of this Act to the Code, see Tables.
 
-The Migratory Bird Treaty Act, referred to in par. (4), is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
+The Migratory Bird Treaty Act, referred to in par. (4), is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
 
-The Federal Aid in Wildlife Restoration Act, referred to in par. (4), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, also known as the Pittman-Robertson Wildlife Restoration Act, which is classified generally to chapter 5B (§ 669 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
+The Federal Aid in Wildlife Restoration Act, referred to in par. (4), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, also known as the Pittman-Robertson Wildlife Restoration Act, which is classified generally to chapter 5B (§ 669 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (4), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (4), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Federal Aid in Fish Restoration Act, referred to in par. (4), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, also known as the Dingell-Johnson Sport Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§ 777 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 777 of this title and Tables.
+The Federal Aid in Fish Restoration Act, referred to in par. (4), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, also known as the Dingell-Johnson Sport Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§ 777 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 777 of this title and Tables.
 
 **Amendments**
 
 2014—Par. (4). Pub. L. 113–287 substituted “section 100101(b)(1), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54” for “the National Park Service Organic Act (39 Stat. 535, 16 U.S.C. 1, 2, 3, 4)” and inserted “or such title” after “such Acts”.
 
-1997—Par. (5). Pub. L. 105–83, § 316(b)(9), which directed amendment of section by adding par. (5) reading as follows: “prohibiting the Secretary or the State from entering into co-management agreements with Alaska Native organizations or other local or regional entities when such organization or entity is managing fish and wildlife on public lands in Alaska for subsistence uses.”, was repealed by Pub. L. 105–83, § 316(d). See Effective and Termination Dates of 1997 Amendment note below.
+1997—Par. (5). Pub. L. 105–83, § 316(b)(9), which directed amendment of section by adding par. (5) reading as follows: “prohibiting the Secretary or the State from entering into co-management agreements with Alaska Native organizations or other local or regional entities when such organization or entity is managing fish and wildlife on public lands in Alaska for subsistence uses.”, was repealed by Pub. L. 105–83, § 316(d). See Effective and Termination Dates of 1997 Amendment note below.
 
 1996—Par. (4). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
@@ -677,13 +677,13 @@ Until laws are adopted in Alaska which provide for definition, preference, and p
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
-### § 3126. Closure to subsistence uses
+### § 3126. Closure to subsistence uses
 
 **(a) National parks and park monuments in Alaska; authorization of subsistence uses and sport fishing**
 
@@ -693,7 +693,7 @@ All national parks and park monuments in Alaska shall be closed to the taking of
 
 Except as specifically provided otherwise by this section, nothing in this subchapter is intended to enlarge or diminish the authority of the Secretary to designate areas where, and establish periods when, no taking of fish and wildlife shall be permitted on the public lands for reasons of public safety, administration, or to assure the continued viability of a particular fish or wildlife population. Notwithstanding any other provision of this Act or other law, the Secretary, after consultation with the State and adequate notice and public hearing, may temporarily close any public lands (including those within any conservation system unit), or any portion thereof, to subsistence uses of a particular fish or wildlife population only if necessary for reasons of public safety, administration, or to assure the continued viability of such population. If the Secretary determines that an emergency situation exists and that extraordinary measures must be taken for public safety or to assure the continued viability of a particular fish or wildlife population, the Secretary may immediately close the public lands, or any portion thereof, to the subsistence uses of such population and shall publish the reasons justifying the closure in the Federal Register. Such emergency closure shall be effective when made, shall not extend for a period exceeding sixty days, and may not subsequently be extended unless the Secretary affirmatively establishes, after notice and public hearing, that such closure should be extended.
 
-(Pub. L. 96–487, title VIII, § 816, Dec. 2, 1980, 94 Stat. 2430.)
+(Pub. L. 96–487, title VIII, § 816, Dec. 2, 1980, 94 Stat. 2430.)
 
 **Editorial Notes**
 
@@ -703,7 +703,7 @@ This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371,
 
 ## SUBCHAPTER III—FEDERAL NORTH SLOPE LANDS STUDIES, OIL AND GAS LEASING PROGRAM AND MINERAL ASSESSMENTS
 
-### § 3141. Overall study program
+### § 3141. Overall study program
 
 **(a) Area designated**
 
@@ -741,7 +741,7 @@ The Secretary shall submit the study and his findings to the President and the C
 
 Nothing in this subchapter shall be construed as impeding, delaying, or otherwise affecting the selection and conveyance of land to the State pursuant to the Alaska Statehood Act, or any other Federal law referred to in section 3102(3)(A) of this title, and to the Natives pursuant to the Alaska Native Claims Settlement Act [43 U.S.C. 1601 et seq.] and this Act.
 
-(Pub. L. 96–487, title X, § 1001, Dec. 2, 1980, 94 Stat. 2448.)
+(Pub. L. 96–487, title X, § 1001, Dec. 2, 1980, 94 Stat. 2448.)
 
 **Editorial Notes**
 
@@ -749,11 +749,11 @@ Nothing in this subchapter shall be construed as impeding, delaying, or otherwis
 
 This Act, referred to in subsecs. (a) and (f), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (f), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (f), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 The Alaska Statehood Act, referred to in subsec. (f), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
-### § 3142. Arctic National Wildlife Refuge coastal plain resource assessment
+### § 3142. Arctic National Wildlife Refuge coastal plain resource assessment
 
 **(a) Purpose**
 
@@ -845,7 +845,7 @@ If at any time while exploratory activity is being carried out under an explorat
 
 Until otherwise provided for in law enacted after December 2, 1980, all public lands within the coastal plain are withdrawn from all forms of entry or appropriation under the mining laws, and from operation of the mineral leasing laws, of the United States.
 
-(Pub. L. 96–487, title X § 1002, Dec. 2, 1980, 94 Stat. 2449; Pub. L. 97–394, title I, § 110, Dec. 30, 1982, 96 Stat. 1982.)
+(Pub. L. 96–487, title X § 1002, Dec. 2, 1980, 94 Stat. 2449; Pub. L. 97–394, title I, § 110, Dec. 30, 1982, 96 Stat. 1982.)
 
 **Editorial Notes**
 
@@ -853,17 +853,17 @@ Until otherwise provided for in law enacted after December 2, 1980, all public l
 
 1982—Subsec. (e)(2)(C). Pub. L. 97–394 inserted proviso that the Secretary prohibit by regulation any person who obtains access to such data and information from the Secretary or from any person other than a permittee from participation in any lease sale which includes the areas from which the information was obtained and from any commercial use of the information, and that Secretary require that any permittee make available such data to any person at fair cost.
 
-### § 3143. Production of oil and gas from Arctic National Wildlife Refuge prohibited
+### § 3143. Production of oil and gas from Arctic National Wildlife Refuge prohibited
 
 Production of oil and gas from the Arctic National Wildlife Refuge is prohibited and no leasing or other development leading to production of oil and gas from the range shall be undertaken until authorized by an Act of Congress.
 
-(Pub. L. 96–487, title X, § 1003, Dec. 2, 1980, 94 Stat. 2452.)
+(Pub. L. 96–487, title X, § 1003, Dec. 2, 1980, 94 Stat. 2452.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Alaska Oil and Gas Leasing**
 
-Pub. L. 119–21, title V, § 50104, July 4, 2025, 139 Stat. 142, provided that:
+Pub. L. 119–21, title V, § 50104, July 4, 2025, 139 Stat. 142, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -913,7 +913,7 @@ Pub. L. 119–21, title V, § 50104, July 4, 2025, 139 Stat. 142, provided tha
 
 **Oil and Gas Program**
 
-Pub. L. 115–97, title II, § 20001, Dec. 22, 2017, 131 Stat. 2235, provided that:
+Pub. L. 115–97, title II, § 20001, Dec. 22, 2017, 131 Stat. 2235, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -967,7 +967,7 @@ Pub. L. 115–97, title II, § 20001, Dec. 22, 2017, 131 Stat. 2235, provided 
 
 > **“(3) Surface development.—** In administering this section, the Secretary shall authorize up to 2,000 surface acres of Federal land on the Coastal Plain to be covered by production and support facilities (including airstrips and any area covered by gravel berms or piers for support of pipelines) during the term of the leases under the oil and gas program under this section.”
 
-### § 3144. Wilderness portion of study
+### § 3144. Wilderness portion of study
 
 **(a) Suitability of lands for preservation as wilderness; report to President**
 
@@ -981,9 +981,9 @@ The President shall advise the Senate and the House of Representatives of his re
 
 Subject to valid existing rights and the provisions of section 3142 of this title, the wilderness study area designated by this section shall, until Congress determines otherwise, be administered by the Secretary so as to maintain presently existing wilderness character and potential for inclusion in the National Wilderness Preservation System. Already established uses may be permitted to continue, subject to such restrictions as the Secretary deems desirable, in the manner and degree in which the same were being conducted on December 2, 1980.
 
-(Pub. L. 96–487, title X, § 1004, Dec. 2, 1980, 94 Stat. 2452.)
+(Pub. L. 96–487, title X, § 1004, Dec. 2, 1980, 94 Stat. 2452.)
 
-### § 3145. Wildlife resources portion of study and impact of potential oil spills in Arctic Ocean
+### § 3145. Wildlife resources portion of study and impact of potential oil spills in Arctic Ocean
 
 **(a) Wildlife resources**
 
@@ -1023,7 +1023,7 @@ The Congress calls upon the Secretary of State, in consultation with the Secreta
 
 The Secretary of State shall report to the Congress on the Secretary’s efforts pursuant to this section no later than June 1, 1991.
 
-(Pub. L. 96–487, title X, § 1005, Dec. 2, 1980, 94 Stat. 2453; Pub. L. 101–380, title VIII, § 8302, Aug. 18, 1990, 104 Stat. 572.)
+(Pub. L. 96–487, title X, § 1005, Dec. 2, 1980, 94 Stat. 2453; Pub. L. 101–380, title VIII, § 8302, Aug. 18, 1990, 104 Stat. 572.)
 
 **Editorial Notes**
 
@@ -1039,13 +1039,13 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 **Study on Barren-Ground Caribou**
 
-Pub. L. 96–487, title III, § 306, Dec. 2, 1980, 94 Stat. 2396, provided:
+Pub. L. 96–487, title III, § 306, Dec. 2, 1980, 94 Stat. 2396, provided:
 
 > **“(a)** The Congress finds that the barren-ground caribou are a migratory species deserving of careful study and special protection, and that the Western Arctic and the Porcupine herds of such caribou are of national and international significance.
 
 > **“(b)** The Secretary of the Interior shall conduct, and the Governor of Alaska is urged to cooperate with the Secretary in conducting, an ecological study of the barren-ground caribou herds north of the Yukon River and the herds that have been known to migrate between the United States and Canada, including, but not limited to, a determination of the seasonal migration patterns, reproduction and mortality rates, composition and age structure, behavioral characteristics, habitats (including but not limited to calving, feeding, summering and wintering areas, and key migration routes) that are critical to their natural stability and productivity and the effects on the herds of development by man, predation, and disease. In conducting this study the Secretary shall review the experience of other Arctic circumpolar countries with caribou and is authorized to enter into such contracts as he deems necessary to carry out portions or all of this study.”
 
-### § 3146. Transportation alternatives portion of study
+### § 3146. Transportation alternatives portion of study
 
 In studying oil and gas alternative transportation systems, the Secretary shall consult with the Secretary of Transportation and shall consider—
 
@@ -1055,9 +1055,9 @@ In studying oil and gas alternative transportation systems, the Secretary shall 
 
 **(3)** the environmental and economic costs and other values associated with such alternative routes.
 
-(Pub. L. 96–487, title X, § 1006, Dec. 2, 1980, 94 Stat. 2453.)
+(Pub. L. 96–487, title X, § 1006, Dec. 2, 1980, 94 Stat. 2453.)
 
-### § 3147. Arctic research study
+### § 3147. Arctic research study
 
 **(a) Mission, facilities, and administration of Naval Arctic Research Laboratory**
 
@@ -1097,9 +1097,9 @@ The Secretaries shall submit the study and their recommendations to the Congress
 
 Pending submission of the study to the Congress, the President is directed to continue the operation of NARL at the level of funding provided for in fiscal year 1979.
 
-(Pub. L. 96–487, title X, § 1007, Dec. 2, 1980, 94 Stat. 2453.)
+(Pub. L. 96–487, title X, § 1007, Dec. 2, 1980, 94 Stat. 2453.)
 
-### § 3148. Oil and gas leasing program for non-North Slope Federal lands
+### § 3148. Oil and gas leasing program for non-North Slope Federal lands
 
 **(a) Establishment; restrictions**
 
@@ -1117,13 +1117,13 @@ The Secretary shall establish, pursuant to the Mineral Leasing Act of 1920, as a
 
 **(3)** The Secretary shall encourage the State to undertake similar studies on lands associated, either through geological or other land values or because of possible transportation needs, with Federal lands. The Secretary shall integrate these studies, to the maximum extent practicable, with studies on Federal lands so that needs for cooperation between the Federal Government and the State of Alaska in managing energy and other natural resources, including fish and wildlife, can be established early in the program.
 
-**(c) Repealed. Pub. L. 100–203, title V, § 5105(1), Dec. 22, 1987, 101 Stat. 1330–259**
+**(c) Repealed. Pub. L. 100–203, title V, § 5105(1), Dec. 22, 1987, 101 Stat. 1330–259**
 
 **(d) Issuance of leases; competitive bidding**
 
 Pursuant to the Mineral Leasing Act of 1920, as amended [30 U.S.C. 181 et seq.], the Secretary is authorized to issue leases, on the Federal lands described in this section, under such terms and conditions as he may, by regulation, prescribe.
 
-**(e) Repealed. Pub. L. 100–203, title V, § 5105(1), Dec. 22, 1987, 101 Stat. 1330–259**
+**(e) Repealed. Pub. L. 100–203, title V, § 5105(1), Dec. 22, 1987, 101 Stat. 1330–259**
 
 **(f) Exploration plan**
 
@@ -1141,13 +1141,13 @@ The Secretary shall monitor the performance of the lessee and, if he determines 
 
 If the Secretary determines that immediate and irreparable damage will result from continuation in force of a lease, that the threat will not disappear and that the advantages of cancellation outweigh the advantages of continuation in force of a lease, he shall suspend operations for up to five years. If such a threat persists beyond such five-year suspension period, he shall cancel a lease and provide compensation to the lease under such terms as the Secretary establishes, by regulation, to be appropriate.
 
-(Pub. L. 96–487, title X, § 1008, Dec. 2, 1980, 94 Stat. 2454; Pub. L. 100–203, title V, § 5105, Dec. 22, 1987, 101 Stat. 1330–259.)
+(Pub. L. 96–487, title X, § 1008, Dec. 2, 1980, 94 Stat. 2454; Pub. L. 100–203, title V, § 5105, Dec. 22, 1987, 101 Stat. 1330–259.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Mineral Leasing Act of 1920, as amended, referred to in subsecs. (a) and (d), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
+The Mineral Leasing Act of 1920, as amended, referred to in subsecs. (a) and (d), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
 
 **Codification**
 
@@ -1155,13 +1155,13 @@ Subsec. (b)(4) of this section, which required the Secretary to report yearly to
 
 **Amendments**
 
-1987—Subsec. (c). Pub. L. 100–203, § 5105(1), struck out subsec. (c) which read as follows: “At such time as the studies requested in subsection (b)(4) of this section are completed by the Secretary, or at such time as the Secretary determines that sufficient interest has been indicated in exploring an area for oil or gas, and leasing should be commenced, he shall identify those areas which he determines to be favorable for the discovery of oil or gas (hereinafter referred to as ‘favorable petroleum geological provinces’). In making such determination, the Secretary shall utilize all information obtained in studies conducted under subsection (b) of this section as well as any other information he may develop or require by regulation to be transmitted.”
+1987—Subsec. (c). Pub. L. 100–203, § 5105(1), struck out subsec. (c) which read as follows: “At such time as the studies requested in subsection (b)(4) of this section are completed by the Secretary, or at such time as the Secretary determines that sufficient interest has been indicated in exploring an area for oil or gas, and leasing should be commenced, he shall identify those areas which he determines to be favorable for the discovery of oil or gas (hereinafter referred to as ‘favorable petroleum geological provinces’). In making such determination, the Secretary shall utilize all information obtained in studies conducted under subsection (b) of this section as well as any other information he may develop or require by regulation to be transmitted.”
 
-Subsec. (d). Pub. L. 100–203, § 5105(2), struck out at end “Areas which are determined by the Secretary to be within favorable petroleum geological provinces shall be leased only by competitive bidding.”
+Subsec. (d). Pub. L. 100–203, § 5105(2), struck out at end “Areas which are determined by the Secretary to be within favorable petroleum geological provinces shall be leased only by competitive bidding.”
 
-Subsec. (e). Pub. L. 100–203, § 5105(1), struck out subsec. (e) which read as follows: “At such time as paying quantities of oil or gas are discovered under a noncompetitive lease issued pursuant to the Mineral Leasing Act of 1920, the Secretary shall suspend all further noncompetitive leasing in the area and shall determine the favorable petroleum geological province in proximity to such discovery. All further leasing in such area shall be in accordance with the requirements of subsection (d) of this section.”
+Subsec. (e). Pub. L. 100–203, § 5105(1), struck out subsec. (e) which read as follows: “At such time as paying quantities of oil or gas are discovered under a noncompetitive lease issued pursuant to the Mineral Leasing Act of 1920, the Secretary shall suspend all further noncompetitive leasing in the area and shall determine the favorable petroleum geological province in proximity to such discovery. All further leasing in such area shall be in accordance with the requirements of subsection (d) of this section.”
 
-### § 3149. Oil and gas lease applications
+### § 3149. Oil and gas lease applications
 
 **(a) Lands within National Wildlife Refuge System but not part of National Wilderness Preservation System**
 
@@ -1175,15 +1175,15 @@ Any decision to issue or not to issue a lease shall be accompanied by a statemen
 
 If the Secretary determines that the requirements of section 4332(2)(C) of title 42 do not apply to his decision, the Secretary shall render his decision within six months after receipt of a lease application. If such requirements are applicable to the Secretary’s decision, he shall render his decision within three months after publication of the final environmental impact statement.
 
-(Pub. L. 96–487, title X, § 1009, Dec. 2, 1980, 94 Stat. 2456.)
+(Pub. L. 96–487, title X, § 1009, Dec. 2, 1980, 94 Stat. 2456.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Mineral Leasing Act of 1920, referred to in subsec. (a), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
+The Mineral Leasing Act of 1920, referred to in subsec. (a), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
 
-### § 3150. Alaska mineral resource assessment program
+### § 3150. Alaska mineral resource assessment program
 
 **(a) Mineral assessments**
 
@@ -1195,27 +1195,27 @@ The Secretary shall, to the full extent of his authority, assess the oil, gas, a
 
 **(2)** which is compatible with the purposes for which such units are established.
 
-(Pub. L. 96–487, title X, § 1010, Dec. 2, 1980, 94 Stat. 2456.)
+(Pub. L. 96–487, title X, § 1010, Dec. 2, 1980, 94 Stat. 2456.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
+The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
 This Act, referred to in subsec. (a), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-### § 3151. Omitted
+### § 3151. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 96–487, title X, § 1011, Dec. 2, 1980, 94 Stat. 2457; Pub. L. 102–285, § 10(b), May 18, 1992, 106 Stat. 172, which required the President to annually transmit to Congress all pertinent public information relating to minerals in Alaska gathered by the United States Geological Surveys, United States Bureau of Mines, and any other Federal agency, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 32 of House Document No. 103–7.
+Section, Pub. L. 96–487, title X, § 1011, Dec. 2, 1980, 94 Stat. 2457; Pub. L. 102–285, § 10(b), May 18, 1992, 106 Stat. 172, which required the President to annually transmit to Congress all pertinent public information relating to minerals in Alaska gathered by the United States Geological Surveys, United States Bureau of Mines, and any other Federal agency, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 32 of House Document No. 103–7.
 
 ## SUBCHAPTER IV—TRANSPORTATION AND UTILITY SYSTEMS IN AND ACROSS, AND ACCESS INTO, CONSERVATION SYSTEM UNITS
 
-### § 3161. Congressional declaration of findings
+### § 3161. Congressional declaration of findings
 
 Congress finds that—
 
@@ -1225,7 +1225,7 @@ Congress finds that—
 
 **(c)** to minimize the adverse impacts of siting transportation and utility systems within units established or expanded by this Act and to insure the effectiveness of the decisionmaking process, a single comprehensive statutory authority for the approval or disapproval of applications for such systems must be provided in this Act.
 
-(Pub. L. 96–487, title XI, § 1101, Dec. 2, 1980, 94 Stat. 2457.)
+(Pub. L. 96–487, title XI, § 1101, Dec. 2, 1980, 94 Stat. 2457.)
 
 **Editorial Notes**
 
@@ -1233,7 +1233,7 @@ Congress finds that—
 
 This Act, referred to in subsec. (c), is Pub. L 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-### § 3162. Definitions
+### § 3162. Definitions
 
 For purposes of this subchapter—
 
@@ -1265,15 +1265,15 @@ For purposes of this subchapter—
 
 Any system described in this subparagraph includes such related structures and facilities (both temporary and permanent) along the route of the system as may be minimally necessary for the construction, operation, and maintenance of the system. Such related structures and facilities shall be described in the application required by section 3164 of this title, and shall be approved or disapproved in accordance with the procedures set forth in this subchapter.
 
-(Pub. L. 96–487, title XI, § 1102, Dec. 2, 1980, 94 Stat. 2458.)
+(Pub. L. 96–487, title XI, § 1102, Dec. 2, 1980, 94 Stat. 2458.)
 
-### § 3163. Effect on other laws
+### § 3163. Effect on other laws
 
 Except as specifically provided for in this subchapter, applicable law shall apply with respect to the authorization and administration of transportation or utility systems.
 
-(Pub. L. 96–487, title XI, § 1103, Dec. 2, 1980, 94 Stat. 2459.)
+(Pub. L. 96–487, title XI, § 1103, Dec. 2, 1980, 94 Stat. 2459.)
 
-### § 3164. Procedural requirements
+### § 3164. Procedural requirements
 
 **(a) In general**
 
@@ -1329,17 +1329,17 @@ During both the nine-month period, and the succeeding three-month period plus an
 
 **(H)** the short- and long-term public values which may be adversely affected by approval of the transportation or utility system versus the short- and long-term public benefits which may accrue from such approval.
 
-(Pub. L. 96–487, title XI, § 1104, Dec. 2, 1980, 94 Stat. 2459.)
+(Pub. L. 96–487, title XI, § 1104, Dec. 2, 1980, 94 Stat. 2459.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (f), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (f), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-### § 3165. Standards for granting certain authorizations
+### § 3165. Standards for granting certain authorizations
 
 In any case in which there is no applicable law with respect to a transportation or utility system, the head of the Federal agency concerned shall, within four months after the date of filing of any final Environmental Impact Statement, make recommendations, for purposes of section 3166(b) of this title, to grant such authorizations as may be necessary to establish such system, in whole or in part, within the conservation system unit concerned if he determines that—
 
@@ -1347,9 +1347,9 @@ In any case in which there is no applicable law with respect to a transportation
 
 **(2)** there is no economically feasible and prudent alternative route for the system.
 
-(Pub. L. 96–487, title XI, § 1105, Dec. 2, 1980, 94 Stat. 2461.)
+(Pub. L. 96–487, title XI, § 1105, Dec. 2, 1980, 94 Stat. 2461.)
 
-### § 3166. Agency, Presidential, and Congressional actions
+### § 3166. Agency, Presidential, and Congressional actions
 
 **(a) Agency action in cases other than those involving section 3165 or wilderness areas**
 
@@ -1375,9 +1375,9 @@ In any case in which there is no applicable law with respect to a transportation
 
 **(B)** a report setting forth in detail the relevant factual background and the reasons for his findings and recommendation;
 
-**(C)** the joint environmental impact statement; 1
+**(C)** the joint environmental impact statement; 1
 
-<sup>1</sup>  So in original. Probably should be followed by “and”.
+<sup>1</sup> So in original. Probably should be followed by “and”.
 
 **(D)** a statement of the conditions and stipulations which would govern the use of the system if approved by the Congress.
 
@@ -1397,13 +1397,13 @@ In any case in which there is no applicable law with respect to a transportation
 
 **(B)** with full recognition of the constitutional right of either House to change the rules (so far as those relate to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of such House.
 
-**(4)** For the purposes of this subsection, the term “resolution” means a joint resolution, the resolving clause of which is as follows: “That the House of Representatives and Senate approve the application for      under title XI of the Alaska National Interest Lands Conservation Act submitted by the President to the Congress on       , 19 .”; the first blank space therein to be filled in with the appropriate transportation or utility system and the second blank therein to be filled with the date on which the President submits the application to the House of Representatives and the Senate.
+**(4)** For the purposes of this subsection, the term “resolution” means a joint resolution, the resolving clause of which is as follows: “That the House of Representatives and Senate approve the application for under title XI of the Alaska National Interest Lands Conservation Act submitted by the President to the Congress on , 19 .”; the first blank space therein to be filled in with the appropriate transportation or utility system and the second blank therein to be filled with the date on which the President submits the application to the House of Representatives and the Senate.
 
 **(5)** Except as otherwise provided in this subsection, the provisions of section 719f(d) of title 15 shall apply to the consideration of the resolution.
 
 **(6)** After an application for a transportation or utility system has been approved under subsection (a), the appropriate Federal agencies shall issue appropriate authorizations in accordance with applicable law. In any case in which an application for a transportation or utility system has been approved pursuant to subsection (b), the appropriate Federal agencies shall issue appropriate authorizations in accordance with title V of the Federal Lands Policy Management Act [43 U.S.C. 1761 et seq.] or other applicable law. After issuance pursuant to this subsection, the appropriate land managing agency shall administer the right-of-way in accordance with relevant management authorities of the land managing agency and title V of the Federal Lands Policy Management Act.
 
-(Pub. L. 96–487, title XI, § 1106, Dec. 2, 1980, 94 Stat. 2461.)
+(Pub. L. 96–487, title XI, § 1106, Dec. 2, 1980, 94 Stat. 2461.)
 
 **Editorial Notes**
 
@@ -1411,9 +1411,9 @@ In any case in which there is no applicable law with respect to a transportation
 
 The Alaska National Interest Lands Conservation Act, referred to in subsec. (c)(4), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371. Title XI of the Alaska National Interest Lands Conservation Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Federal Land Policy and Management Act, referred to in subsec. (c)(6), probably means the Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743. Title V of the Federal Land Policy and Management Act of 1976 is classified generally to subchapter V (§ 1761 et seq.) of chapter 35 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act, referred to in subsec. (c)(6), probably means the Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743. Title V of the Federal Land Policy and Management Act of 1976 is classified generally to subchapter V (§ 1761 et seq.) of chapter 35 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
-### § 3167. Rights-of-way terms and conditions
+### § 3167. Rights-of-way terms and conditions
 
 **(a) Terms and conditions** The Secretary, or the Secretary of Agriculture where national forest wilderness is involved, shall include in any right-of-way issued pursuant to an application under this subchapter, terms and conditions which shall include, but not be limited to—
 
@@ -1443,13 +1443,13 @@ Any transportation or utility system approved pursuant to this subchapter which 
 
 In the case of a pipeline described in section 185(a) of title 30, a right-of-way issued pursuant to this subchapter shall be issued in the same manner as a right-of-way is granted under section 185 of title 30, and the provisions of subsections (c) through (j), (*l*) through (q), and (u) through (y) of section 185 of title 30 shall apply to rights-of-way issued pursuant to this subchapter.
 
-(Pub. L. 96–487, title XI, § 1107, Dec. 2, 1980, 94 Stat. 2463.)
+(Pub. L. 96–487, title XI, § 1107, Dec. 2, 1980, 94 Stat. 2463.)
 
-### § 3168. Injunctive relief
+### § 3168. Injunctive relief
 
 No court shall have jurisdiction to grant any injunctive relief lasting longer than ninety days against any action pursuant to this subchapter except in conjunction with a final judgment entered in a case involving an action pursuant to this subchapter.
 
-(Pub. L. 96–487, title XI, § 1108, Dec. 2, 1980, 94 Stat. 2464; Pub. L. 98–620, title IV, § 402(22)(B), Nov. 8, 1984, 98 Stat. 3358.)
+(Pub. L. 96–487, title XI, § 1108, Dec. 2, 1980, 94 Stat. 2464; Pub. L. 98–620, title IV, § 402(22)(B), Nov. 8, 1984, 98 Stat. 3358.)
 
 **Editorial Notes**
 
@@ -1463,13 +1463,13 @@ No court shall have jurisdiction to grant any injunctive relief lasting longer t
 
 Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 
-### § 3169. Valid existing right of access
+### § 3169. Valid existing right of access
 
 Nothing in this subchapter shall be construed to adversely affect any valid existing right of access.
 
-(Pub. L. 96–487, title XI, § 1109, Dec. 2, 1980, 94 Stat. 2464.)
+(Pub. L. 96–487, title XI, § 1109, Dec. 2, 1980, 94 Stat. 2464.)
 
-### § 3170. Special access and access to inholdings
+### § 3170. Special access and access to inholdings
 
 **(a) Use of snowmachines, motorboats, airplanes, nonmotorized surface transportation, etc. for traditional activities and for travel**
 
@@ -1479,7 +1479,7 @@ Notwithstanding any other provision of this Act or other law, the Secretary shal
 
 Notwithstanding any other provisions of this Act or other law, in any case in which State owned or privately owned land, including subsurface rights of such owners underlying public lands, or a valid mining claim or other valid occupancy is within or is effectively surrounded by one or more conservation system units, national recreation areas, national conservation areas, or those public lands designated as wilderness study, the State or private owner or occupier shall be given by the Secretary such rights as may be necessary to assure adequate and feasible access for economic and other purposes to the concerned land by such State or private owner or occupier and their successors in interest. Such rights shall be subject to reasonable regulations issued by the Secretary to protect the natural and other values of such lands.
 
-(Pub. L. 96–487, title XI, § 1110, Dec. 2, 1980, 94 Stat. 2464.)
+(Pub. L. 96–487, title XI, § 1110, Dec. 2, 1980, 94 Stat. 2464.)
 
 **Editorial Notes**
 
@@ -1487,7 +1487,7 @@ Notwithstanding any other provisions of this Act or other law, in any case in wh
 
 This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-### § 3171. Temporary access
+### § 3171. Temporary access
 
 **(a) In general**
 
@@ -1497,7 +1497,7 @@ Notwithstanding any other provision of this Act or other law the Secretary shall
 
 In providing temporary access pursuant to subsection (a), the Secretary may include such stipulations and conditions he deems necessary to insure that the private use of public lands is accomplished in a manner that is not inconsistent with the purposes for which the public lands are reserved and which insures that no permanent harm will result to the resources of the unit, area, Reserve or lands.
 
-(Pub. L. 96–487, title XI, § 1111, Dec. 2, 1980, 94 Stat. 2465.)
+(Pub. L. 96–487, title XI, § 1111, Dec. 2, 1980, 94 Stat. 2465.)
 
 **Editorial Notes**
 
@@ -1505,7 +1505,7 @@ In providing temporary access pursuant to subsection (a), the Secretary may incl
 
 This Act, referred to in subsec. (a), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-### § 3172. North Slope Haul Road
+### § 3172. North Slope Haul Road
 
 **(a) In general**
 
@@ -1519,13 +1519,13 @@ The removal of restrictions shall not be conditioned upon repayment by the State
 
 The provisions of this section shall apply to that section of the North Slope Haul Road, which extends from the southern terminus of the Yukon River Bridge to the northern terminus of the Road at Prudhoe Bay.
 
-(Pub. L. 96–487, title XI, § 1112, Dec. 2, 1980, 94 Stat. 2465.)
+(Pub. L. 96–487, title XI, § 1112, Dec. 2, 1980, 94 Stat. 2465.)
 
-### § 3173. Stikine River region; Presidential study and report to Congress
+### § 3173. Stikine River region; Presidential study and report to Congress
 
 Congress finds that there is a need to study the effect of this Act upon the ability of the Government of Canada to obtain access in the Stikine River region of southeast Alaska. Accordingly, within five years from December 2, 1980, the President shall consult with the Government of Canada and shall submit a report to the Congress containing his findings and recommendations concerning the need, if any, to provide for such access. Such report shall include, among other things, an analysis of the need for access and the social, environmental and economic impacts which may result from various forms of access including, but not limited to, a road along the Stikine and Iskut Rivers, or other alternative routes, should such access be permitted.
 
-(Pub. L. 96–487, title XI, § 1113, Dec. 2, 1980, 94 Stat. 2466.)
+(Pub. L. 96–487, title XI, § 1113, Dec. 2, 1980, 94 Stat. 2466.)
 
 **Editorial Notes**
 
@@ -1535,7 +1535,7 @@ This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2466,
 
 ## SUBCHAPTER V—FEDERAL-STATE COOPERATION
 
-### § 3181. Alaska Land Use Council
+### § 3181. Alaska Land Use Council
 
 **(a) Establishment**
 
@@ -1567,7 +1567,7 @@ If the State elects not to participate on the Council or elects to end its parti
 
 **(3)** While away from their homes or regular places of business in the performance of services for the Council, members of the Council who are Federal employees, or members of the Council referred to in subsection (c)(3), shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) of title 5.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(4)** The State Cochairman and other State members of the Council have been compensated in accordance with applicable State law.
 
@@ -1643,13 +1643,13 @@ Unless extended by the Congress, the Council shall terminate ten years after Dec
 
 **(2)** A system for (A) the identification of persons and communities, in rural and urban Alaska, who or which may be directly or significantly affected by studies conducted, or advice and recommendations given by the Council pursuant to this section, and (B) guidelines for, and implementation of, a system for effective public participation by such persons or communities in the development of such studies, advice and recommendations by the Council.
 
-(Pub. L. 96–487, title XII, § 1201, Dec. 2, 1980, 94 Stat. 2466.)
+(Pub. L. 96–487, title XII, § 1201, Dec. 2, 1980, 94 Stat. 2466.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 5703 of title 5, referred to in subsec. (e)(3), was amended generally by Pub. L. 94–22, § 4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
+Section 5703 of title 5, referred to in subsec. (e)(3), was amended generally by Pub. L. 94–22, § 4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
 This Act, referred to in subsecs. (f)(3), (5) and (i)(2)(A)(i), (ii), and (iii), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
@@ -1659,13 +1659,13 @@ This Act, referred to in subsecs. (f)(3), (5) and (i)(2)(A)(i), (ii), and (iii),
 
 For termination, effective May 15, 2000, of provisions in subsec. (g) of this section relating to submitting report to Congress no later than February 1 of each calendar year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 154 of House Document No. 103–7.
 
-### § 3182. Federal Coordination Committee
+### § 3182. Federal Coordination Committee
 
 There is hereby established a Federal Coordination Committee composed of the Secretaries (or their designees) of Agriculture, Energy, the Interior, and Transportation; the Administrators of the Environmental Protection Agency, and the National Oceanic and Atmospheric Administration; and the Federal and State Cochairmen of the Council. Such Committee shall meet at least once every four months in order to coordinate those programs and functions of their respective agencies which could affect the administration of lands and resources in Alaska. The Federal Cochairman shall be the Chairman of the Committee. He shall be responsible for formulating an agenda for each meeting, after consultation with the other agency heads referred to herein, for providing any necessary staff support, and for preparing a brief summary of the disposition of matters discussed at each meeting. Such summary shall be published in the Federal Register.
 
-(Pub. L. 96–487, title XII, § 1202, Dec. 2, 1980, 94 Stat. 2470.)
+(Pub. L. 96–487, title XII, § 1202, Dec. 2, 1980, 94 Stat. 2470.)
 
-### § 3183. Bristol Bay Cooperative Region
+### § 3183. Bristol Bay Cooperative Region
 
 **(a) Definitions** For purposes of this section—
 
@@ -1727,7 +1727,7 @@ the Secretary shall prepare a plan containing the provisions referred to in subs
 
 On December 2, 1980, and for a period of three years thereafter, all Federal land within the region (except that land conveyed by title IX of this Act to the State of Alaska and Federal lands located within the boundaries of conservation system units) shall be withdrawn from all forms of appropriation under the public land laws, including selections by the State, and from location and entry under the mining laws and from leasing under the Mineral Leasing Act [30 U.S.C. 181 et seq.], and shall be managed by the Bureau of Land Management under its existing statutory authority and consistent with provisions of this section.
 
-(Pub. L. 96–487, title XII, § 1203, Dec. 2, 1980, 94 Stat. 2470.)
+(Pub. L. 96–487, title XII, § 1203, Dec. 2, 1980, 94 Stat. 2470.)
 
 **Editorial Notes**
 
@@ -1737,11 +1737,11 @@ Section 6 of the Alaska Statehood Act, referred to in subsec. (b)(4), is section
 
 This Act, referred to in subsecs. (b)(4) and (f), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. Title IX of this Act enacted sections 1631 to 1638 of Title 43, Public Lands, amended sections 1614 and 1620 of Title 43, and amended provisions set out as notes under section 1611 of Title 43 and preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Mineral Leasing Act, referred to in subsec. (f), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
+The Mineral Leasing Act, referred to in subsec. (f), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
 
 ## SUBCHAPTER VI—ADMINISTRATIVE PROVISIONS
 
-### § 3191. Management plans
+### § 3191. Management plans
 
 **(a) Development; transmittal to Congressional committees**
 
@@ -1785,7 +1785,7 @@ Within five years from December 2, 1980, the Secretary shall develop and transmi
 
 **(4)** Concerned local, State, and National organizations and interested individuals.
 
-(Pub. L. 96–487, title XIII, § 1301, Dec. 2, 1980, 94 Stat. 2472.)
+(Pub. L. 96–487, title XIII, § 1301, Dec. 2, 1980, 94 Stat. 2472.)
 
 **Editorial Notes**
 
@@ -1795,7 +1795,7 @@ This Act, referred to in subsecs. (a) and (b), is Pub. L. 96–487, Dec. 2, 1980
 
 Subchapter LIX–F of chapter 1 of this title, referred to in subsec. (b), commences with section 410hh of this title.
 
-### § 3192. Land acquisition authority
+### § 3192. Land acquisition authority
 
 **(a) General authority**
 
@@ -1853,7 +1853,7 @@ The Secretary shall give prompt and careful consideration to any offer made by t
 
 **(2)** Any such lands so acquired shall become a part of such conservation system unit.
 
-(Pub. L. 96–487, title XIII, § 1302, Dec. 2, 1980, 94 Stat. 2474; Pub. L. 100–395, title II, § 201, Aug. 16, 1988, 102 Stat. 981.)
+(Pub. L. 96–487, title XIII, § 1302, Dec. 2, 1980, 94 Stat. 2474; Pub. L. 100–395, title II, § 201, Aug. 16, 1988, 102 Stat. 981.)
 
 **Editorial Notes**
 
@@ -1867,11 +1867,11 @@ Section 6(i) of the Alaska Statehood Act, referred to in subsec. (h)(1), is sect
 
 1988—Subsec. (h). Pub. L. 100–395 designated existing provisions as par. (1) and added par. (2).
 
-### § 3192a. Restrictions on use of appropriated funds
+### § 3192a. Restrictions on use of appropriated funds
 
 Notwithstanding any other provision of law, none of the funds provided in this Act or any other Act hereafter enacted may be used by the Secretary of the Interior, except with respect to land exchange costs and costs associated with the preparation of land acquisitions, in the acquisition of State, private, or other non-federal lands (or any interest therein) in the State of Alaska, unless, in the acquisition of any State, private, or other non-federal lands (or interest therein) in the State of Alaska, the Secretary seeks to exchange unreserved public lands before purchasing all or any portion of such lands (or interest therein) in the State of Alaska.
 
-(Pub. L. 105–277, div. A, § 101(e) [title I, § 127], Oct. 21, 1998, 112 Stat. 2681–231, 2681–261.)
+(Pub. L. 105–277, div. A, § 101(e) [title I, § 127], Oct. 21, 1998, 112 Stat. 2681–231, 2681–261.)
 
 **Editorial Notes**
 
@@ -1879,7 +1879,7 @@ Notwithstanding any other provision of law, none of the funds provided in this A
 
 Section was enacted as part of Department of the Interior and Related Agencies Appropriations Act, 1999, and also as part of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of Alaska National Interest Lands Conservation Act which comprises this chapter.
 
-### § 3193. Use of cabins and other sites of occupancy on conservation system units
+### § 3193. Use of cabins and other sites of occupancy on conservation system units
 
 **(a) Improved property on National Park System lands**
 
@@ -1937,7 +1937,7 @@ The Secretary may, on a case by case basis, subject to reasonable regulations, e
 
 Nothing in this Act shall preclude the renewal or continuation of valid leases or permits in effect on December 2, 1980, for cabins, homesites, or similar structures on Federal lands. Unless the Secretary, or in the case of national forest lands, the Secretary of Agriculture, issues specific findings following notice and an opportunity for the lease-holder or permittee to respond, that renewal or continuation of such valid permit or lease constitutes a direct threat to or a significant impairment to the purposes for which a conservation system unit was established (in the case of a structure located within a conservation system unit) or the public domain or national forest (in case of a structure located outside conservation system units), he shall renew such valid leases or permits upon their expiration in accordance with the provisions of the original lease or permit, subject to such reasonable regulations as he may prescribe. Subject to the provisions of the original lease or permit, nothing in this Act or subsection shall necessarily preclude the appropriate Secretary from transferring such a lease or permit to another person at the election or death of the original permittee or leasee.
 
-(Pub. L. 96–487, title XIII, § 1303, Dec. 2, 1980, 94 Stat. 2476.)
+(Pub. L. 96–487, title XIII, § 1303, Dec. 2, 1980, 94 Stat. 2476.)
 
 **Editorial Notes**
 
@@ -1945,7 +1945,7 @@ Nothing in this Act shall preclude the renewal or continuation of valid leases o
 
 This Act, referred to in subsecs. (a)(1), (2), (b), and (d), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-### § 3194. Archeological and paleontological sites
+### § 3194. Archeological and paleontological sites
 
 Notwithstanding any acreage or boundary limitations contained in this Act with respect to the Cape Krusenstern National Monument, the Bering Land Bridge National Preserve, the Yukon-Charley Rivers National Preserve, and the Kobuk Valley National Park, the Secretary may designate Federal lands or he may acquire by purchase with the consent of the owner, donation, or exchange any significant archeological or paleontological site in Alaska located outside of the boundaries of such areas and containing resources which are closely associated with any such area. If any such site is so designated or acquired, it shall be included in and managed as part of such area. Not more than seven thousand five hundred acres of land may be designated or acquired under this section for inclusion in any single area. Before designation or acquisition of any property in excess of one hundred acres under the provisions of this section, the Secretary shall—
 
@@ -1953,7 +1953,7 @@ Notwithstanding any acreage or boundary limitations contained in this Act with r
 
 **(2)** publish notice of such proposed designation or acquisition in the Federal Register.
 
-(Pub. L. 96–487, title XIII, § 1304, Dec. 2, 1980, 94 Stat. 2478.)
+(Pub. L. 96–487, title XIII, § 1304, Dec. 2, 1980, 94 Stat. 2478.)
 
 **Editorial Notes**
 
@@ -1961,17 +1961,17 @@ Notwithstanding any acreage or boundary limitations contained in this Act with r
 
 This Act, referred to in provision preceding par. (1), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-### § 3195. Cooperative information and education centers
+### § 3195. Cooperative information and education centers
 
 The Secretary is authorized in consultation with other Federal agencies, to investigate and plan for an information and education center for visitors to Alaska on not to exceed one thousand acres of Federal land at a site adjacent to the Alaska Highway, and to investigate and plan for similar centers in Anchorage and Fairbanks, Alaska. For the purposes of this investigation, the Secretary shall seek participation in the program planning and/or operation of such centers from appropriate agencies of the State of Alaska, and he is authorized to accept contributions of funds, personnel, and planning and program assistance from such State agencies, other Federal agencies, and Native representatives. The Secretary of Agriculture is authorized to investigate and plan for, in a similar manner, an information and education center for visitors to Alaska in either Juneau, Ketchikan, or Sitka, Alaska. No information center shall be developed pursuant to investigations and plans conducted under authority of this section unless and until such development is specifically authorized by Congress.
 
-(Pub. L. 96–487, title XIII, § 1305, Dec. 2, 1980, 94 Stat. 2478.)
+(Pub. L. 96–487, title XIII, § 1305, Dec. 2, 1980, 94 Stat. 2478.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Authorization of Appropriations; Purposes of Center; Operation of Center; Development Plans**
 
-Pub. L. 99–664, § 11, Nov. 17, 1986, 100 Stat. 4308, provided that:
+Pub. L. 99–664, § 11, Nov. 17, 1986, 100 Stat. 4308, provided that:
 
 > **“(a) Authorization.—** There is hereby authorized to be appropriated $250,000 to be used by the Secretary of Agriculture to conduct surveys, develop designs, and carry out other preliminary work related to the establishment of an Information and Education Center provided for in section 1305 of Public Law 96–487 [16 U.S.C. 3195].
 
@@ -1991,7 +1991,7 @@ Pub. L. 99–664, § 11, Nov. 17, 1986, 100 Stat. 4308, provided that:
 
 > **“(f) Development Plan.—** Within one year after the date of enactment of this Act [Nov. 17, 1986], and after consultation with the individuals and organizations listed in subsections (c) and (d), the Secretary of Agriculture shall submit to Congress a development plan for the Center along with an estimate of the cost.”
 
-### § 3196. Administrative sites and visitor facilities
+### § 3196. Administrative sites and visitor facilities
 
 **(a) Establishment** In conformity with the conservation and management plans prepared for each unit and the purposes of assuring the preservation, protection, and proper management of any conservation system unit, the Secretary may establish sites and visitor facilities—
 
@@ -2009,7 +2009,7 @@ To the extent practicable and desirable, the Secretary shall attempt to locate s
 
 **(3)** the Secretary may construct, operate, and maintain such permanent and temporary buildings and facilities as he deems appropriate on land which is within, or in the vicinity of, any conservation system unit and with respect to which the Secretary has acquired authority under this subsection to use the property for the purpose of establishing an administrative site or visitor facility under subsection (a), except that the Secretary may not begin construction of buildings and facilities on land not owned by the United States until the owner of such land has entered into an agreement with the Secretary, the terms of which assure the continued use of such buildings and facilities in furtherance of the purposes of this Act.
 
-(Pub. L. 96–487, title XIII, § 1306, Dec. 2, 1980, 94 Stat. 2479.)
+(Pub. L. 96–487, title XIII, § 1306, Dec. 2, 1980, 94 Stat. 2479.)
 
 **Editorial Notes**
 
@@ -2017,7 +2017,7 @@ To the extent practicable and desirable, the Secretary shall attempt to locate s
 
 This Act, referred to in subsecs. (a)(1) and (b)(3), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-### § 3197. Revenue-producing visitor services
+### § 3197. Revenue-producing visitor services
 
 **(a) Continuation of existing visitor services**
 
@@ -2035,7 +2035,7 @@ Notwithstanding any other provision of law, the Secretary, under such terms and 
 
 As used in this section, the term “visitor service” means any service made available for a fee or charge to persons who visit a conservation system unit, including such services as providing food, accommodations, transportation, tours, and guides excepting the guiding of sport hunting and fishing. Nothing in this Act shall limit or affect the authority of the Federal Government or the State of Alaska to license and regulate transportation services.
 
-(Pub. L. 96–487, title XIII, § 1307, Dec. 2, 1980, 94 Stat. 2479; Pub. L. 105–333, § 10, Oct. 31, 1998, 112 Stat. 3134.)
+(Pub. L. 96–487, title XIII, § 1307, Dec. 2, 1980, 94 Stat. 2479; Pub. L. 105–333, § 10, Oct. 31, 1998, 112 Stat. 3134.)
 
 **Editorial Notes**
 
@@ -2049,7 +2049,7 @@ Section 12 of the Act of January 2, 1976 (Public Law 94–204), referred to in s
 
 1998—Subsec. (b)(1). Pub. L. 105–333 substituted “Native Corporations” for “Native Corporation” and “are most directly affected” for “is most directly affected”.
 
-### § 3198. Local hire
+### § 3198. Local hire
 
 **(a) Program** After consultation with the Office of Personnel Management, the Secretary shall establish an excepted service appointment authority, under which any individual who, by reason of having lived or worked in or near public lands, has special knowledge or expertise concerning the natural or cultural resources of public lands and the management thereof (as determined by the Secretary) shall be considered for selection for any position within public lands without regard to—
 
@@ -2103,17 +2103,17 @@ Not later than 60 days after March 30, 2009, with respect to any person hired in
 
 **(ii)** not later than 90 days of the submission of a request under clause (i), the Secretary shall redesignate the service of the person as being part of the competitive service.
 
-(Pub. L. 96–487, title XIII, § 1308, Dec. 2, 1980, 94 Stat. 2480; Pub. L. 100–689, title IV, § 401, Nov. 18, 1988, 102 Stat. 4177; Pub. L. 102–415, § 16, Oct. 14, 1992, 106 Stat. 2124; Pub. L. 108–199, div. H, § 147, Jan. 23, 2004, 118 Stat. 445; Pub. L. 111–11, title VI, § 6101, Mar. 30, 2009, 123 Stat. 1170; Pub. L. 112–74, div. E, title I, § 121(b), Dec. 23, 2011, 125 Stat. 1012.)
+(Pub. L. 96–487, title XIII, § 1308, Dec. 2, 1980, 94 Stat. 2480; Pub. L. 100–689, title IV, § 401, Nov. 18, 1988, 102 Stat. 4177; Pub. L. 102–415, § 16, Oct. 14, 1992, 106 Stat. 2124; Pub. L. 108–199, div. H, § 147, Jan. 23, 2004, 118 Stat. 445; Pub. L. 111–11, title VI, § 6101, Mar. 30, 2009, 123 Stat. 1170; Pub. L. 112–74, div. E, title I, § 121(b), Dec. 23, 2011, 125 Stat. 1012.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2011—Subsec. (a). Pub. L. 112–74, § 121(b)(1), substituted “establish an excepted service appointment authority,” for “establish a program” in introductory provisions.
+2011—Subsec. (a). Pub. L. 112–74, § 121(b)(1), substituted “establish an excepted service appointment authority,” for “establish a program” in introductory provisions.
 
-Subsec. (b). Pub. L. 112–74, § 121(b)(2), substituted “excepted service as defined in section 2103 of such title” for “competitive service as defined in section 2102 of such title for which such person is eligible under subchapter I of chapter 33 of such title, in selection to such position”.
+Subsec. (b). Pub. L. 112–74, § 121(b)(2), substituted “excepted service as defined in section 2103 of such title” for “competitive service as defined in section 2102 of such title for which such person is eligible under subchapter I of chapter 33 of such title, in selection to such position”.
 
-Subsec. (e)(2), (3). Pub. L. 112–74, § 121(b)(3), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (e)(2), (3). Pub. L. 112–74, § 121(b)(3), added par. (2) and redesignated former par. (2) as (3).
 
 2009—Subsec. (e). Pub. L. 111–11 added subsec. (e).
 
@@ -2127,7 +2127,7 @@ Subsec. (e)(2), (3). Pub. L. 112–74, § 121(b)(3), added par. (2) and redesi
 
 **Pilot Program**
 
-Pub. L. 106–488, § 2, Nov. 9, 2000, 114 Stat. 2205, provided that:
+Pub. L. 106–488, § 2, Nov. 9, 2000, 114 Stat. 2205, provided that:
 
 > **“(a)** In furtherance of the goals of sections 1307 and 1308 of the Alaska National Interest Lands Conservation Act [16 U.S.C. 3197, 3198] and the provisions of the Indian Self-Determination and Education Assistance Act [25 U.S.C. 5301 et seq.], the Secretary [of the Interior] shall—
 
@@ -2147,9 +2147,9 @@ Pub. L. 106–488, § 2, Nov. 9, 2000, 114 Stat. 2205, provided that:
 
 **Local Hire Report**
 
-Pub. L. 105–333, § 11, Oct. 31, 1998, 112 Stat. 3135, provided that not later than 18 months after Oct. 31, 1998, the Secretary of the Interior would transmit to Congress a report indicating the actions taken in carrying out subsection (b) of this section, addressing the recruitment processes that may restrict employees hired under subsection (a) of this section from successfully obtaining positions in the competitive service, and describing the actions of the Secretary of the Interior in contracting with Alaska Native Corporations to provide services with respect to public lands in Alaska.
+Pub. L. 105–333, § 11, Oct. 31, 1998, 112 Stat. 3135, provided that not later than 18 months after Oct. 31, 1998, the Secretary of the Interior would transmit to Congress a report indicating the actions taken in carrying out subsection (b) of this section, addressing the recruitment processes that may restrict employees hired under subsection (a) of this section from successfully obtaining positions in the competitive service, and describing the actions of the Secretary of the Interior in contracting with Alaska Native Corporations to provide services with respect to public lands in Alaska.
 
-### § 3199. Navigation aids and other facilities
+### § 3199. Navigation aids and other facilities
 
 **(a) Existing facilities**
 
@@ -2159,7 +2159,7 @@ Within conservation system units established or expanded by this Act, reasonable
 
 The establishment, operation, and maintenance within any conservation system unit of new air and water navigation aids and related facilities, facilities for national defense purposes, and related air and water navigation aids, and facilities for weather, climate, and fisheries research and monitoring shall be permitted but only (1) after consultation with the Secretary or the Secretary of Agriculture, as appropriate, by the head of the Federal department or agency undertaking such establishment, operation, or maintenance, and (2) in accordance with such terms and conditions as may be mutually agreed in order to minimize the adverse effects of such activities within such unit.
 
-(Pub. L. 96–487, title XIII, § 1310, Dec. 2, 1980, 94 Stat. 2481.)
+(Pub. L. 96–487, title XIII, § 1310, Dec. 2, 1980, 94 Stat. 2481.)
 
 **Editorial Notes**
 
@@ -2167,9 +2167,9 @@ The establishment, operation, and maintenance within any conservation system uni
 
 This Act, referred to in subsec. (a), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
+The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
-### § 3200. Denali Scenic Highway study
+### § 3200. Denali Scenic Highway study
 
 **(a) Withdrawal**
 
@@ -2187,7 +2187,7 @@ In conducting the studies required by this section, the Secretary shall cooperat
 
 Within three years after December 2, 1980, the Secretary shall report to the President the results of the studies carried out pursuant to this section together with his recommendation as to whether the scenic highway studied should be established and, if his recommendation is to establish the scenic highway, the lands described in subsection (a) which should be included therein. Such report shall include the views and recommendations of all members of the study team. The President shall advise the President of the Senate and the Speaker of the House of Representatives of his recommendations and those of the Governor of Alaska with respect to creation of the scenic highways,1
 
-<sup>1</sup>  So in original. Probably should be “highway,”.
+<sup>1</sup> So in original. Probably should be “highway,”.
 
 together with maps thereof, a definition of boundaries thereof, an estimate of costs, recommendations on administration, and proposed legislation to create such a scenic highway, if creation of one is recommended.
 
@@ -2195,7 +2195,7 @@ together with maps thereof, a definition of boundaries thereof, an estimate of c
 
 The lands withdrawn under subsection (a) of this section shall remain withdrawn until such time as the Congress acts on the President’s recommendation, but not to exceed two years after the recommendation is transmitted to the Congress.
 
-(Pub. L. 96–487, title XIII, § 1311, Dec. 2, 1980, 94 Stat. 2481.)
+(Pub. L. 96–487, title XIII, § 1311, Dec. 2, 1980, 94 Stat. 2481.)
 
 **Editorial Notes**
 
@@ -2203,11 +2203,11 @@ The lands withdrawn under subsection (a) of this section shall remain withdrawn 
 
 GS–15, referred to in subsec. (b), is contained in the General Schedule, which is set out under section 5332 of Title 5, Government Organization and Employees.
 
-### § 3201. Administration of national preserves
+### § 3201. Administration of national preserves
 
 A National Preserve in Alaska shall be administered and managed as a unit of the National Park System in the same manner as a national park except as otherwise provided in this Act and except that the taking of fish and wildlife for sport purposes and subsistence uses, and trapping shall be allowed in a national preserve under applicable State and Federal law and regulation. Consistent with the provisions of section 3126 of this title, within national preserves the Secretary may designate zones where and periods when no hunting, fishing, trapping, or entry may be permitted for reasons of public safety, administration, floral and faunal protection, or public use and enjoyment. Except in emergencies, any regulations prescribing such restrictions relating to hunting, fishing, or trapping shall be put into effect only after consultation with the appropriate State agency having responsibility over hunting, fishing, and trapping activities.
 
-(Pub. L. 96–487, title XIII, § 1313, Dec. 2, 1980, 94 Stat. 2483.)
+(Pub. L. 96–487, title XIII, § 1313, Dec. 2, 1980, 94 Stat. 2483.)
 
 **Editorial Notes**
 
@@ -2215,7 +2215,7 @@ A National Preserve in Alaska shall be administered and managed as a unit of the
 
 This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-### § 3202. Taking of fish and wildlife
+### § 3202. Taking of fish and wildlife
 
 **(a) Responsibility and authority of State of Alaska**
 
@@ -2231,7 +2231,7 @@ Except as specifically provided otherwise by this Act, nothing in this Act is in
 
 **(2)** fishing shall be permitted by the Secretary in accordance with the provisions of this Act and other applicable State and Federal law.
 
-(Pub. L. 96–487, title XIII, § 1314, Dec. 2, 1980, 94 Stat. 2484.)
+(Pub. L. 96–487, title XIII, § 1314, Dec. 2, 1980, 94 Stat. 2484.)
 
 **Editorial Notes**
 
@@ -2239,7 +2239,7 @@ Except as specifically provided otherwise by this Act, nothing in this Act is in
 
 This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-### § 3203. Wilderness management
+### § 3203. Wilderness management
 
 **(a) Application only to Alaska**
 
@@ -2263,19 +2263,19 @@ The Secretary of Agriculture is hereby directed to modify any existing national 
 
 **(f) Beach log salvage**
 
-Within National Forest wilderness and national forest monuments desginated 1
+Within National Forest wilderness and national forest monuments desginated 1
 
-<sup>1</sup>  So in original. Probably should be “designated”.
+<sup>1</sup> So in original. Probably should be “designated”.
 
 by this Act, the Secretary of Agriculture may permit or otherwise regulate the recovery and salvage of logs from coastlines.
 
-(Pub. L. 96–487, title XIII, § 1315, Dec. 2, 1980, 94 Stat. 2484; Pub. L. 103–437, § 6(d)(31), Nov. 2, 1994, 108 Stat. 4584.)
+(Pub. L. 96–487, title XIII, § 1315, Dec. 2, 1980, 94 Stat. 2484; Pub. L. 103–437, § 6(d)(31), Nov. 2, 1994, 108 Stat. 4584.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
+The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
 This Act, referred to in subsecs. (b) to (f), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
@@ -2283,7 +2283,7 @@ This Act, referred to in subsecs. (b) to (f), is Pub. L. 96–487, Dec. 2, 1980,
 
 1994—Subsec. (d). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
 
-### § 3204. Allowed uses
+### § 3204. Allowed uses
 
 **(a) Establishment and use of new facilities**
 
@@ -2293,7 +2293,7 @@ On all public lands where the taking of fish and wildlife is permitted in accord
 
 Notwithstanding the foregoing provisions, the Secretary may determine, after adequate notice, that the establishment and use of such new facilities or equipment would constitute a significant expansion of existing facilities or uses which would be detrimental to the purposes for which the affected conservation system unit was established, including the wilderness character of any wilderness area within such unit, and may thereupon deny such proposed use or establishment.
 
-(Pub. L. 96–487, title XIII, § 1316, Dec. 2, 1980, 94 Stat. 2485.)
+(Pub. L. 96–487, title XIII, § 1316, Dec. 2, 1980, 94 Stat. 2485.)
 
 **Editorial Notes**
 
@@ -2301,7 +2301,7 @@ Notwithstanding the foregoing provisions, the Secretary may determine, after ade
 
 This Act, referred to in subsec. (a), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-### § 3205. General wilderness review
+### § 3205. General wilderness review
 
 **(a) Suitability of lands for preservation; report to President**
 
@@ -2309,9 +2309,9 @@ Within five years from December 2, 1980, the Secretary shall, in accordance with
 
 **(b) Presidential recommendations to Congress**
 
-The Secretary shall conduct his review, and the President shall advise the United States Senate and House of Representatives of his recommendations, in accordance with the provisions of sections 1
+The Secretary shall conduct his review, and the President shall advise the United States Senate and House of Representatives of his recommendations, in accordance with the provisions of sections 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 1132(c) and (d) of this title. The President shall advise the Congress of his recommendations with respect to such areas within seven years from December 2, 1980.
 
@@ -2319,7 +2319,7 @@ The Secretary shall conduct his review, and the President shall advise the Unite
 
 Nothing in this section shall be construed as affecting the administration of any unit of the National Park System or unit of National Wildlife Refuge System in accordance with this Act or other applicable provisions of law unless and until Congress provides otherwise by taking action on any Presidential recommendation made pursuant to subsection (b) of this section.
 
-(Pub. L. 96–487, title XIII, § 1317, Dec. 2, 1980, 94 Stat. 2485.)
+(Pub. L. 96–487, title XIII, § 1317, Dec. 2, 1980, 94 Stat. 2485.)
 
 **Editorial Notes**
 
@@ -2327,19 +2327,19 @@ Nothing in this section shall be construed as affecting the administration of an
 
 This Act, referred to in subsecs. (a) and (c), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-### § 3206. Statewide cultural assistance program
+### § 3206. Statewide cultural assistance program
 
 In furtherance of the national policy set forth in section 320101 of title 54, and in furtherance of the need to protect and interpret for the public benefit cultural and archeological resources and objects of national significance relating to prehistoric and historic human use and occupation of lands and waters in Alaska, the Secretary may, upon the application of a Native Corporation or Native Group, provide advice, assistance, and technical expertise to the applicant in the preservation, display, and interpretation of cultural resources, without regard as to whether title to such resources is in the United States. Such assistance may include making available personnel to assist in the planning, design, and operation of buildings, facilities, and interpretive displays for the public and personnel to train individuals in the identification, recovery, preservation, demonstration, and management of cultural resources.
 
-(Pub. L. 96–487, title XIII, § 1318, Dec. 2, 1980, 94 Stat. 2486.)
+(Pub. L. 96–487, title XIII, § 1318, Dec. 2, 1980, 94 Stat. 2486.)
 
 **Editorial Notes**
 
 **Codification**
 
-In text, “section 320101 of title 54” substituted for “the first section of the Act entitled ‘An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes’, approved August 21, 1935 (49 Stat. 666)” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+In text, “section 320101 of title 54” substituted for “the first section of the Act entitled ‘An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes’, approved August 21, 1935 (49 Stat. 666)” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
-### § 3207. Effect on existing rights; water resources
+### § 3207. Effect on existing rights; water resources
 
 Nothing in this Act shall be construed as limiting or restricting the power and authority of the United States or—
 
@@ -2349,7 +2349,7 @@ Nothing in this Act shall be construed as limiting or restricting the power and 
 
 **(3)** as superseding, modifying, or repealing, except as specifically set forth in this Act, existing laws applicable to the various Federal agencies which are authorized to develop or participate in the development of water resources or to exercise licensing or regulatory functions in relation thereto.
 
-(Pub. L. 96–487, title XIII, § 1319, Dec. 2, 1980, 94 Stat. 2486.)
+(Pub. L. 96–487, title XIII, § 1319, Dec. 2, 1980, 94 Stat. 2486.)
 
 **Editorial Notes**
 
@@ -2357,15 +2357,15 @@ Nothing in this Act shall be construed as limiting or restricting the power and 
 
 This Act, referred to in provision preceding par. (1) and par. (3), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-### § 3208. Authorization of appropriations; contract authority
+### § 3208. Authorization of appropriations; contract authority
 
-**(a)**  1
+**(a)** 1
 
-<sup>1</sup>  So in original. No subsec. (b) has been enacted.
+<sup>1</sup> So in original. No subsec. (b) has been enacted.
 
 There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act for fiscal years beginning after the fiscal year 1980. No authority to enter into contracts or to make payments or to expend previously appropriated funds under this Act shall be effective except to the extent or in such amounts as are provided in advance in appropriation Acts.
 
-(Pub. L. 96–487, title XIII, § 1321, Dec. 2, 1980, 94 Stat. 2487.)
+(Pub. L. 96–487, title XIII, § 1321, Dec. 2, 1980, 94 Stat. 2487.)
 
 **Editorial Notes**
 
@@ -2373,7 +2373,7 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-### § 3209. Effect on prior withdrawals
+### § 3209. Effect on prior withdrawals
 
 **(a) Rescission of prior reservations and withdrawals; management by Secretary and Secretary of Agriculture of lands outside boundaries established by this Act**
 
@@ -2383,7 +2383,7 @@ The withdrawals and reservations of the public lands made by Public Land Orders 
 
 This section shall become effective upon the relinquishment by the State of Alaska of selections made on November 14, 1978, pursuant to the Alaska Statehood Act which are located within the boundaries of conservation system units, national conservation areas, national recreation areas, and forest additions, established, designated, or expanded by this Act.
 
-(Pub. L. 96–487, title XIII, § 1322, Dec. 2, 1980, 94 Stat. 2487.)
+(Pub. L. 96–487, title XIII, § 1322, Dec. 2, 1980, 94 Stat. 2487.)
 
 **Editorial Notes**
 
@@ -2395,11 +2395,11 @@ This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371,
 
 The effective date of this Act, referred in to subsec. (a), probably means the date of enactment of Pub. L. 96–487, which was approved Dec. 2, 1980.
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
 The Alaska Statehood Act, referred to in subsec. (b), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
-### § 3210. Access by owner to nonfederally owned land
+### § 3210. Access by owner to nonfederally owned land
 
 **(a) Reasonable use and enjoyment of land within boundaries of National Forest System**
 
@@ -2409,19 +2409,19 @@ Notwithstanding any other provision of law, and subject to such terms and condit
 
 Notwithstanding any other provision of law, and subject to such terms and conditions as the Secretary of the Interior may prescribe, the Secretary shall provide such access to nonfederally owned land surrounded by public lands managed by the Secretary under the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701–82) as the Secretary deems adequate to secure to the owner the reasonable use and enjoyment thereof: *Provided*, That such owner comply with rules and regulations applicable to access across public lands.
 
-(Pub. L. 96–487, title XIII, § 1323, Dec. 2, 1980, 94 Stat. 2488.)
+(Pub. L. 96–487, title XIII, § 1323, Dec. 2, 1980, 94 Stat. 2488.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
-### § 3211. Yukon Flats National Wildlife Refuge agricultural use
+### § 3211. Yukon Flats National Wildlife Refuge agricultural use
 
 Nothing in this Act or other existing law shall be construed as necessarily prohibiting or mandating the development of agricultural potential within the Yukon Flats National Wildlife Refuge pursuant to existing law. The permissibility of such development shall be determined by the Secretary on a case-by-case basis under existing law. Any such development permitted within the Yukon Flats National Wildlife Refuge shall be designed and conducted in such a manner as to minimize to the maximum extent possible any adverse effects of the natural values of the unit.
 
-(Pub. L. 96–487, title XIII, § 1324, Dec. 2, 1980, 94 Stat. 2488.)
+(Pub. L. 96–487, title XIII, § 1324, Dec. 2, 1980, 94 Stat. 2488.)
 
 **Editorial Notes**
 
@@ -2429,11 +2429,11 @@ Nothing in this Act or other existing law shall be construed as necessarily proh
 
 This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-### § 3212. Terror Lake Hydroelectric Project in Kodiak National Wildlife Refuge
+### § 3212. Terror Lake Hydroelectric Project in Kodiak National Wildlife Refuge
 
 Nothing in this Act or the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd) shall be construed as necessarily prohibiting or mandating the construction of the Terror Lake Hydroelectric Project within the Kodiak National Wildlife Refuge. The permissibility of such development shall be determined by the Secretary on a case-by-case basis under existing law.
 
-(Pub. L. 96–487, title XIII, § 1325, Dec. 2, 1980, 94 Stat. 2488.)
+(Pub. L. 96–487, title XIII, § 1325, Dec. 2, 1980, 94 Stat. 2488.)
 
 **Editorial Notes**
 
@@ -2443,13 +2443,13 @@ This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371,
 
 The National Wildlife Refuge System Administration Act of 1966, referred to in text, consists of sections 4 and 5 of Pub. L. 89–699, Oct. 15, 1966, 80 Stat. 927, and is classified to sections 668dd and 668ee of this title. For further details, see Short Title note set out under section 668dd of this title.
 
-### § 3213. Future executive branch actions
+### § 3213. Future executive branch actions
 
 **(a)** No future executive branch action which withdraws more than five thousand acres, in the aggregate, of public lands within the State of Alaska shall be effective except by compliance with this subsection. To the extent authorized by existing law, the President or the Secretary may withdraw public lands in the State of Alaska exceeding five thousand acres in the aggregate, which withdrawal shall not become effective until notice is provided in the Federal Register and to both Houses of Congress. Such withdrawal shall terminate unless Congress passes a joint resolution of approval within one year after the notice of such withdrawal has been submitted to Congress.
 
 **(b)** No further studies of Federal lands in the State of Alaska for the single purpose of considering the establishment of a conservation system unit, national recreation area, national conservation area, or for related or similar purposes shall be conducted unless authorized by this Act or further Act of Congress.
 
-(Pub. L. 96–487, title XIII, § 1326, Dec. 2, 1980, 94 Stat. 2488.)
+(Pub. L. 96–487, title XIII, § 1326, Dec. 2, 1980, 94 Stat. 2488.)
 
 **Editorial Notes**
 
@@ -2457,11 +2457,11 @@ The National Wildlife Refuge System Administration Act of 1966, referred to in t
 
 This Act, referred to in subsec. (b), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-### § 3214. Alaska gas pipeline
+### § 3214. Alaska gas pipeline
 
 Nothing in this Act shall be construed as imposing any additional requirements in connection with the construction and operation of the transportation system designated by the President and approved by the Congress pursuant to the Alaska Natural Gas Transportation Act of 1976 (Public Law 94–586; 90 Stat. 2903) [15 U.S.C. 719 et seq.], or as imposing any limitations upon the authority of the Secretary concerning such system.
 
-(Pub. L. 96–487, title XIII, § 1327, Dec. 2, 1980, 94 Stat. 2489.)
+(Pub. L. 96–487, title XIII, § 1327, Dec. 2, 1980, 94 Stat. 2489.)
 
 **Editorial Notes**
 
@@ -2469,23 +2469,23 @@ Nothing in this Act shall be construed as imposing any additional requirements i
 
 This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Alaska Natural Gas Transportation Act of 1976 (Public Law 94–586; 90 Stat. 2903), referred to in text, is Pub. L. 94–586, Oct. 22, 1976, 90 Stat. 2903, which is classified generally to chapter 15C (§ 719 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 719 of Title 15 and Tables.
+The Alaska Natural Gas Transportation Act of 1976 (Public Law 94–586; 90 Stat. 2903), referred to in text, is Pub. L. 94–586, Oct. 22, 1976, 90 Stat. 2903, which is classified generally to chapter 15C (§ 719 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 719 of Title 15 and Tables.
 
-### § 3215. Public land entries in Alaska
+### § 3215. Public land entries in Alaska
 
 **(a) Application approval; adjudication; protests; voluntary relinquishment of application**
 
 **(1)** Subject to valid existing rights, all applications made pursuant to the Acts of June 1, 1938 (52 Stat. 609),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 May 3, 1927 (44 Stat. 1364),1 May 14, 1898 (30 Stat. 413),1 and March 3, 1891 (26 Stat. 1097), which were filed with the Department of the Interior within the time provided by applicable law, and which describe land in Alaska that was available for entry under the aforementioned statutes when such entry occurred, are hereby approved on the one hundred and eightieth day following the effective date of this Act, except where provided otherwise by paragraph (3) or (4) of this subsection, or where the land description of the entry must be adjusted pursuant to subsection (b) of this section, in which cases approval pursuant to the terms of this subsection shall be effective at the time the adjustment becomes final.
 
 **(2)** Where an application describes land within the boundaries of a unit of the National Park System or a unit of the National Wildlife Refuge System, or a unit of the National Wilderness Preservation System in the Tongass or Chugach National Forests established before the effective date of this Act or by this Act, and the described land was not withdrawn pursuant to section 11(a)(1) of the Alaska Native Claims Settlement Act [43 U.S.C. 1610(a)(1)], or where an application describes land which has been patented or deeded to the State of Alaska or which on or before the date of entry was validly selected by, tentatively approved, patented, deeded or confirmed to the State of Alaska pursuant to applicable law and was not withdrawn pursuant to section 11(a)(1)(A) of the Alaska Native Claims Settlement Act [43 U.S.C. 1610(a)(1)(A)] from those lands made available for selection by section 11(a)(2) of the Act [43 U.S.C. 1610(a)(2)] by any Native Village certified as eligible pursuant to section 11(b) of such Act [43 U.S.C. 1610(b)], paragraph (1) of this subsection and subsection (c) of this section shall not apply and the application shall be adjudicated pursuant to the requirements of the Acts referred to in paragraph (1) of this subsection, the Alaska Native Claims Settlement Act [43 U.S.C. 1601 et seq.], and other applicable law.
 
-**(3)** Paragraph (1) of this subsection and subsection (c) shall not apply and the application shall be adjudicated pursuant to the requirements of the Acts referred to in paragraph (1) of this subsection, if on or before the one hundred and eightieth day following the effective date of the 2
+**(3)** Paragraph (1) of this subsection and subsection (c) shall not apply and the application shall be adjudicated pursuant to the requirements of the Acts referred to in paragraph (1) of this subsection, if on or before the one hundred and eightieth day following the effective date of the 2
 
-<sup>2</sup>  So in original. Probably should be “this”.
+<sup>2</sup> So in original. Probably should be “this”.
 
 Act—
 
@@ -2513,17 +2513,17 @@ Where the land described in application (or such an application as adjusted or a
 
 Prior to issuing a patent for an entry subject to this section, the Secretary shall identify and adjudicate any record entry or application for title to land described in the application, other than the Alaska Native Claims Settlement Act [43 U.S.C. 1601 et seq.], the Alaska Statehood Act, or the Act of May 17, 1906, as amended, which entry or application claims land also described in the application, and shall determine whether such entry or application represents a valid existing right to which the application is subject. Nothing in this section shall be construed to affect rights, if any, acquired by actual use of the described land prior to its withdrawal or classification, as affecting National Forest lands.
 
-(Pub. L. 96–487, title XIII, § 1328, Dec. 2, 1980, 94 Stat. 2489.)
+(Pub. L. 96–487, title XIII, § 1328, Dec. 2, 1980, 94 Stat. 2489.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of June 1, 1938 (52 Stat. 609), referred to in subsec. (a)(1), is act June 1, 1938, ch. 317, 52 Stat. 609, which was classified to sections 682a to 682e of Title 43, Public Lands, was repealed by Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787, 2789.
+Act of June 1, 1938 (52 Stat. 609), referred to in subsec. (a)(1), is act June 1, 1938, ch. 317, 52 Stat. 609, which was classified to sections 682a to 682e of Title 43, Public Lands, was repealed by Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787, 2789.
 
-Act of May 3, 1927 (44 Stat. 1364), referred to in subsec. (a)(1), probably means act Mar. 3, 1927, ch. 323, 44 Stat. 1364, which was classified to section 687a of Title 43, and was repealed by Pub. L. 94–579, title VII, § 703(b), Oct. 21, 1976, 90 Stat. 2789, 2791.
+Act of May 3, 1927 (44 Stat. 1364), referred to in subsec. (a)(1), probably means act Mar. 3, 1927, ch. 323, 44 Stat. 1364, which was classified to section 687a of Title 43, and was repealed by Pub. L. 94–579, title VII, § 703(b), Oct. 21, 1976, 90 Stat. 2789, 2791.
 
-Act of May 14, 1898, referred to in subsec. (a)(1), is act May 14, 1898, ch. 299, 30 Stat. 409, which is classified to sections 607a and 615a of this title, sections 270, 270–4, 687a, 687a–2, 687a–3, 687a–4, 687a–5, and 942–1 to 942–9 of Title 43, and section 392 of Title 48, Territories and Insular Possessions. Section 270 of Title 43 was repealed by Pub. L. 94–579, title VII, § 703(a), Oct. 21, 1976, 90 Stat. 2789. Section 270–4 of Title 43 was repealed by Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787. Sections 687a and 687a–2 to 687a–5 of Title 43 were repealed by Pub. L. 94–579, title VII, §§ 703(a), 704(a), Oct. 21, 1976, 90 Stat. 2789, 2792. Section 392 of Title 48 was eliminated from the Code as obsolete. For complete classification of this Act to the Code, see Tables.
+Act of May 14, 1898, referred to in subsec. (a)(1), is act May 14, 1898, ch. 299, 30 Stat. 409, which is classified to sections 607a and 615a of this title, sections 270, 270–4, 687a, 687a–2, 687a–3, 687a–4, 687a–5, and 942–1 to 942–9 of Title 43, and section 392 of Title 48, Territories and Insular Possessions. Section 270 of Title 43 was repealed by Pub. L. 94–579, title VII, § 703(a), Oct. 21, 1976, 90 Stat. 2789. Section 270–4 of Title 43 was repealed by Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787. Sections 687a and 687a–2 to 687a–5 of Title 43 were repealed by Pub. L. 94–579, title VII, §§ 703(a), 704(a), Oct. 21, 1976, 90 Stat. 2789, 2792. Section 392 of Title 48 was eliminated from the Code as obsolete. For complete classification of this Act to the Code, see Tables.
 
 Act of March 3, 1891, referred to in subsec. (a)(1), is act Mar. 3, 1891, ch. 561, 26 Stat. 1095, which is classified to sections 161, 162, 165, 173, 174, 185, 202, 212, 321, 323, 325, 327 to 329, 663, 671, 687a–6, 718, 728, 732, 893, 946 to 949, 989, 1165, 1166, 1181, and 1197 of this title, sections 471, 607, 611, 611a, and 613 of Title 16, Conservation, former section 495 of Title 25, Indians, and sections 30, 36, 44, 45, 48; and 52 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Tables.
 
@@ -2531,23 +2531,23 @@ The effective date of this Act, referred to in subsecs. (a) to (c), probably mea
 
 This Act, referred to in subsec. (a)(2) and (3)(E), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in subsecs. (a)(2), (3)(A) and (d), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsecs. (a)(2), (3)(A) and (d), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Federal Power Act and that Act, referred to in subsec. (c), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of this title. Part I of the Federal Power Act of June 10, 1920 as amended, is classified generally to subchapter I (§ 791a et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
+The Federal Power Act and that Act, referred to in subsec. (c), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of this title. Part I of the Federal Power Act of June 10, 1920 as amended, is classified generally to subchapter I (§ 791a et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
 The Alaska Statehood Act, referred to in subsec. (d), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
-Act of May 17, 1906, as amended, referred to in subsec. (d), is act May 17, 1906, ch. 2469, 34 Stat. 197, which was classified to sections 270–1 to 270–3 of Title 43, Public Lands, prior to its repeal by Pub. L. 92–203, § 18(a), Dec. 18, 1971, 85 Stat. 710. See section 1617 of Title 43.
+Act of May 17, 1906, as amended, referred to in subsec. (d), is act May 17, 1906, ch. 2469, 34 Stat. 197, which was classified to sections 270–1 to 270–3 of Title 43, Public Lands, prior to its repeal by Pub. L. 92–203, § 18(a), Dec. 18, 1971, 85 Stat. 710. See section 1617 of Title 43.
 
 ## SUBCHAPTER VII—NATIONAL NEED MINERAL ACTIVITY RECOMMENDATION PROCESS
 
-### § 3231. Areas subject to national need recommendation process
+### § 3231. Areas subject to national need recommendation process
 
 The process contained in this subchapter shall apply to all public lands within Alaska except for lands within units of the National Park System and the Arctic National Wildlife Refuge.
 
-(Pub. L. 96–487, title XV, § 1501, Dec. 2, 1980, 94 Stat. 2549.)
+(Pub. L. 96–487, title XV, § 1501, Dec. 2, 1980, 94 Stat. 2549.)
 
-### § 3232. Recommendations of President to Congress
+### § 3232. Recommendations of President to Congress
 
 **(a) Recommendation**
 
@@ -2577,7 +2577,7 @@ Any recommendation under this section shall take effect only upon enactment of a
 
 **(2)** the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the one-hundred-and-twenty-day calendar period.
 
-(Pub. L. 96–487, title XV, § 1502, Dec. 2, 1980, 94 Stat. 2549.)
+(Pub. L. 96–487, title XV, § 1502, Dec. 2, 1980, 94 Stat. 2549.)
 
 **Editorial Notes**
 
@@ -2585,9 +2585,9 @@ Any recommendation under this section shall take effect only upon enactment of a
 
 This Act, referred to in subsec. (a), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-### § 3233. Expedited Congressional review
+### § 3233. Expedited Congressional review
 
 **(a) Rulemaking** This subsection is enacted by Congress—
 
@@ -2597,7 +2597,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (c)(3), is
 
 **(b) Resolution**
 
-For purposes of this section, the term “resolution” means a joint resolution, the resolving clause of which is as follows: “That the House of Representatives and Senate approve the recommendation of the President for              in              submitted to the Congress on              19    .”, the first blank space therein to be filled in with appropriate activity, the second blank space therein to be filled in with the name or description of the area of land affected by the activity, and the third blank space therein to be filled with the date on which the President submits his recommendation to the House of Representatives and the Senate. Such resolution may also include material relating to the application and effect of the National Environmental Policy Act of 1969 [42 U.S.C. 4321 et seq.] to the recommendation.
+For purposes of this section, the term “resolution” means a joint resolution, the resolving clause of which is as follows: “That the House of Representatives and Senate approve the recommendation of the President for in submitted to the Congress on 19 .”, the first blank space therein to be filled in with appropriate activity, the second blank space therein to be filled in with the name or description of the area of land affected by the activity, and the third blank space therein to be filled with the date on which the President submits his recommendation to the House of Representatives and the Senate. Such resolution may also include material relating to the application and effect of the National Environmental Policy Act of 1969 [42 U.S.C. 4321 et seq.] to the recommendation.
 
 **(c) Referral**
 
@@ -2607,10 +2607,10 @@ A resolution once introduced with respect to such Presidential recommendation sh
 
 Except as otherwise provided in this section the provisions of section 719f(d) of title 15 shall apply to the consideration of the resolution.
 
-(Pub. L. 96–487, title XV, § 1503, Dec. 2, 1980, 94 Stat. 2550.)
+(Pub. L. 96–487, title XV, § 1503, Dec. 2, 1980, 94 Stat. 2550.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.

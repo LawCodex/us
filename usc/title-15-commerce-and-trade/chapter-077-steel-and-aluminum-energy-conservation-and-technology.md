@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 77—STEEL AND ALUMINUM ENERGY CONSERVATION AND TECHNOLOGY COMPETITIVENESS
 
-## § 5101. Findings and purposes
+## § 5101. Findings and purposes
 
 **(a) Findings** The Congress finds that—
 
@@ -29,21 +29,21 @@ retrieved: 2026-10-11
 
 **(2)** continue steel research and development initiative efforts begun under title II of the Interior and Related Agencies portion of the joint resolution entitled “Joint Resolution making further continuing appropriations for the fiscal year 1986, and for other purposes”, approved December 19, 1985 (Public Law 99–190).
 
-(Pub. L. 100–680, § 2, Nov. 17, 1988, 102 Stat. 4073.)
+(Pub. L. 100–680, § 2, Nov. 17, 1988, 102 Stat. 4073.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title II of the Interior and Related Agencies portion of the joint resolution entitled “Joint Resolution making further continuing appropriations for the fiscal year 1986, and for other purposes”, approved December 19, 1985 (Public Law 99–190), referred to in subsec. (b)(2), is Pub. L. 99–190, § 101(d) [title II], Dec. 19, 1985, 99 Stat. 1224, 1244. The provisions relating to steel research and development are not classified to the Code.
+Title II of the Interior and Related Agencies portion of the joint resolution entitled “Joint Resolution making further continuing appropriations for the fiscal year 1986, and for other purposes”, approved December 19, 1985 (Public Law 99–190), referred to in subsec. (b)(2), is Pub. L. 99–190, § 101(d) [title II], Dec. 19, 1985, 99 Stat. 1224, 1244. The provisions relating to steel research and development are not classified to the Code.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 100–680, § 1, Nov. 17, 1988, 102 Stat. 4073, provided that: “This Act [enacting this chapter] may be cited as the ‘Steel and Aluminum Energy Conservation and Technology Competitiveness Act of 1988’.”
+Pub. L. 100–680, § 1, Nov. 17, 1988, 102 Stat. 4073, provided that: “This Act [enacting this chapter] may be cited as the ‘Steel and Aluminum Energy Conservation and Technology Competitiveness Act of 1988’.”
 
-## § 5102. Definitions
+## § 5102. Definitions
 
 As used in this chapter—
 
@@ -55,9 +55,9 @@ As used in this chapter—
 
 **(4)** the term “research plan” means the Steel Initiative Research Plan issued in April 1988 by the Department of Energy, and updates to that plan.
 
-(Pub. L. 100–680, § 3, Nov. 17, 1988, 102 Stat. 4073.)
+(Pub. L. 100–680, § 3, Nov. 17, 1988, 102 Stat. 4073.)
 
-## § 5103. Establishment of scientific research and development program to develop competitive manufacturing technologies and increase energy efficiency in steel and aluminum industries
+## § 5103. Establishment of scientific research and development program to develop competitive manufacturing technologies and increase energy efficiency in steel and aluminum industries
 
 **(a) General authority**
 
@@ -127,23 +127,23 @@ may provide appropriate protections against the dissemination of such informatio
 
 The Secretary shall arrange for participation and review by representatives of each affected industry and by labor in the updating of the management and research plans and in the evaluation of the progress of research and development activities for their industry conducted under this chapter.
 
-(Pub. L. 100–680, § 4, Nov. 17, 1988, 102 Stat. 4074; Pub. L. 102–486, title XXI, § 2106(a)(1), Oct. 24, 1992, 106 Stat. 3070; Pub. L. 110–229, title VI, § 602(b), May 8, 2008, 122 Stat. 853.)
+(Pub. L. 100–680, § 4, Nov. 17, 1988, 102 Stat. 4074; Pub. L. 102–486, title XXI, § 2106(a)(1), Oct. 24, 1992, 106 Stat. 3070; Pub. L. 110–229, title VI, § 602(b), May 8, 2008, 122 Stat. 853.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Nonnuclear Research and Development Act of 1974, referred to in subsec. (a), probably means the Federal Nonnuclear Energy Research and Development Act of 1974, Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§ 5901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.
+The Federal Nonnuclear Research and Development Act of 1974, referred to in subsec. (a), probably means the Federal Nonnuclear Energy Research and Development Act of 1974, Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§ 5901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.
 
 **Amendments**
 
-2008—Subsec. (c)(1)(H). Pub. L. 110–229, § 602(b)(1), substituted “sheet and bar steels” for “coatings for sheet steels”.
+2008—Subsec. (c)(1)(H). Pub. L. 110–229, § 602(b)(1), substituted “sheet and bar steels” for “coatings for sheet steels”.
 
-Subsec. (c)(1)(K). Pub. L. 110–229, § 602(b)(2), added subpar. (K).
+Subsec. (c)(1)(K). Pub. L. 110–229, § 602(b)(2), added subpar. (K).
 
 1992—Subsec. (b)(5). Pub. L. 102–486 substituted “Industrial Technologies” for “Industrial Programs”.
 
-## § 5104. Protection of proprietary rights
+## § 5104. Protection of proprietary rights
 
 **(a) Proprietary rights**
 
@@ -153,29 +153,29 @@ No trade secrets or commercial or financial information that is privileged or co
 
 All patent rights from inventions developed under the management plan or the research plan implemented pursuant to this chapter shall be vested in accordance with section 5908 of title 42.
 
-(Pub. L. 100–680, § 5, Nov. 17, 1988, 102 Stat. 4075.)
+(Pub. L. 100–680, § 5, Nov. 17, 1988, 102 Stat. 4075.)
 
-## § 5105. Coordination
+## § 5105. Coordination
 
 The Secretary shall coordinate the research and development conducted under this chapter with other research and development being conducted by the Department of Energy and other Federal agencies in order to increase efficiency and avoid duplication of effort.
 
-(Pub. L. 100–680, § 6, Nov. 17, 1988, 102 Stat. 4076.)
+(Pub. L. 100–680, § 6, Nov. 17, 1988, 102 Stat. 4076.)
 
-## § 5106. Repealed. Pub. L. 110–229, title VI, § 602(c)(1), May 8, 2008, 122 Stat. 853
+## § 5106. Repealed. Pub. L. 110–229, title VI, § 602(c)(1), May 8, 2008, 122 Stat. 853
 
-Section, Pub. L. 100–680, § 7, Nov. 17, 1988, 102 Stat. 4076, related to expanded steel and aluminum research program in the National Institute of Standards and Technology.
+Section, Pub. L. 100–680, § 7, Nov. 17, 1988, 102 Stat. 4076, related to expanded steel and aluminum research program in the National Institute of Standards and Technology.
 
-## § 5107. Reports
+## § 5107. Reports
 
 The Secretary shall prepare and submit annually to the President and the Congress at the close of each fiscal year, beginning with fiscal year 2008, a complete report of the research and development activities carried out under this chapter during the fiscal year involved, including the actual and anticipated obligation of funds, for such activities, together with such recommendations as the Secretary may consider appropriate for further legislative, administrative, and other actions, including actions by the American steel, aluminum, copper, and other metals industries, which should be taken in order to achieve the purposes of this chapter. The report submitted at the close of fiscal year 1991 shall also contain a complete summary of activities under the management plan and the research plan from the first year of their operation, along with an analysis of the extent to which they have succeeded in accomplishing the purposes of this chapter. The reports submitted at the close of fiscal years 1993, 1995, and 1997 shall also contain a complete summary of activities under the management plan and the research plan from the first year of their operation, along with an analysis of the extent to which they have succeeded in accomplishing the purposes of this chapter.
 
-(Pub. L. 100–680, § 8, Nov. 17, 1988, 102 Stat. 4076; Pub. L. 102–486, title XXI, § 2106(a)(2), Oct. 24, 1992, 106 Stat. 3070; Pub. L. 110–229, title VI, § 602(c)(2), May 8, 2008, 122 Stat. 853.)
+(Pub. L. 100–680, § 8, Nov. 17, 1988, 102 Stat. 4076; Pub. L. 102–486, title XXI, § 2106(a)(2), Oct. 24, 1992, 106 Stat. 3070; Pub. L. 110–229, title VI, § 602(c)(2), May 8, 2008, 122 Stat. 853.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Pub. L. 110–229 inserted “, beginning with fiscal year 2008,” after “close of each fiscal year”.
+2008—Pub. L. 110–229 inserted “, beginning with fiscal year 2008,” after “close of each fiscal year”.
 
 1992—Pub. L. 102–486 inserted sentence at end relating to reports submitted at the close of fiscal years 1993, 1995, and 1997.
 
@@ -185,11 +185,11 @@ The Secretary shall prepare and submit annually to the President and the Congres
 
 For termination, effective May 15, 2000, of provisions in this section relating to submitting annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 90 of House Document No. 103–7.
 
-## § 5108. Authorization of appropriations
+## § 5108. Authorization of appropriations
 
 There are authorized to be appropriated to the Secretary to carry out this chapter $12,000,000 for each of the fiscal years 2008 through 2012.
 
-(Pub. L. 100–680, § 9, Nov. 17, 1988, 102 Stat. 4076; Pub. L. 102–486, title XXI, § 2106(a)(3), (4), Oct. 24, 1992, 106 Stat. 3070; Pub. L. 110–229, title VI, § 602(a), May 8, 2008, 122 Stat. 853.)
+(Pub. L. 100–680, § 9, Nov. 17, 1988, 102 Stat. 4076; Pub. L. 102–486, title XXI, § 2106(a)(3), (4), Oct. 24, 1992, 106 Stat. 3070; Pub. L. 110–229, title VI, § 602(a), May 8, 2008, 122 Stat. 853.)
 
 **Editorial Notes**
 
@@ -197,29 +197,29 @@ There are authorized to be appropriated to the Secretary to carry out this chapt
 
 2008—Pub. L. 110–229 amended section generally. Prior to amendment, section authorized appropriations to the Secretary and to the Director of the National Institute of Standards and Technology to carry out functions under this chapter.
 
-1992—Subsec. (a)(1). Pub. L. 102–486, § 2106(3), substituted “$25,000,000 for fiscal year 1991, $17,968,000 for fiscal year 1992, and $18,091,000 for each of the fiscal years 1993 through 1997, to be derived from sums authorized under section 13451(e) of title 42” for “and $25,000,000 for fiscal year 1991”.
+1992—Subsec. (a)(1). Pub. L. 102–486, § 2106(3), substituted “$25,000,000 for fiscal year 1991, $17,968,000 for fiscal year 1992, and $18,091,000 for each of the fiscal years 1993 through 1997, to be derived from sums authorized under section 13451(e) of title 42” for “and $25,000,000 for fiscal year 1991”.
 
-Subsec. (b). Pub. L. 102–486, § 2106(4), substituted “1991, 1992, 1993, 1994, 1995, 1996, and 1997, to be derived from sums otherwise authorized to be appropriated to the Institute” for “and 1991”.
+Subsec. (b). Pub. L. 102–486, § 2106(4), substituted “1991, 1992, 1993, 1994, 1995, 1996, and 1997, to be derived from sums otherwise authorized to be appropriated to the Institute” for “and 1991”.
 
-## § 5109. Relation of existing program
+## § 5109. Relation of existing program
 
 Proposals received by the Department of Energy before November 17, 1988, may be carried out without regard to changes in the management plan and research plan required by this chapter.
 
-(Pub. L. 100–680, § 10, Nov. 17, 1988, 102 Stat. 4076.)
+(Pub. L. 100–680, § 10, Nov. 17, 1988, 102 Stat. 4076.)
 
-## § 5110. Drug-free workplace
+## § 5110. Drug-free workplace
 
 **(a)** No department, agency, or instrumentality of the United States receiving funds authorized to be appropriated under this chapter for fiscal year 1989, fiscal year 1990, fiscal year 1991, fiscal year 1992, fiscal year 1993, fiscal year 1994, fiscal year 1995, fiscal year 1996, and fiscal year 1997, or under any other Act authorizing appropriations for fiscal year 1989, fiscal year 1990, fiscal year 1991, fiscal year 1992, fiscal year 1993, fiscal year 1994, fiscal year 1995, fiscal year 1996, and fiscal year 1997, shall obligate or spend any such funds, unless such department, agency, or instrumentality has in place, and will continue to administer in good faith, a written policy designed to ensure that all of its work places are free from the illegal use, possession, or distribution of controlled substances (as defined in the Controlled Substances Act [21 U.S.C. 801 et seq.]) by the officers and employees of such department, agency, or instrumentality.
 
 **(b)** No funds so authorized to be appropriated to any such department, agency, or instrumentality shall be available for payment in connection with any grant, contract, or other agreement, unless the recipient of such grant, contract, or party to such agreement, as the case may be, has in place and will continue to administer in good faith a written policy, adopted by such recipient, contractor, or party’s board of directors or other governing authority, satisfactory to the head of the department, agency, or instrumentality making such payment, designed to ensure that all of the workplace of such recipient, contractor, or party are free from the illegal use, possession, or distribution of controlled substances (as defined in the Controlled Substances Act [21 U.S.C. 801 et seq.]) by the officers and employees of such recipient, contractor, or party.
 
-(Pub. L. 100–680, § 11, Nov. 17, 1988, 102 Stat. 4077; Pub. L. 102–486, title XXI, § 2106(a)(5), Oct. 24, 1992, 106 Stat. 3070.)
+(Pub. L. 100–680, § 11, Nov. 17, 1988, 102 Stat. 4077; Pub. L. 102–486, title XXI, § 2106(a)(5), Oct. 24, 1992, 106 Stat. 3070.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Controlled Substances Act, referred to in text, is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in text, is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 **Amendments**
 
@@ -229,7 +229,7 @@ The Controlled Substances Act, referred to in text, is title II of Pub. L. 91–
 
 **Effective Date**
 
-Pub. L. 100–685, title II, § 215, Nov. 17, 1988, 102 Stat. 4093, provided that:
+Pub. L. 100–685, title II, § 215, Nov. 17, 1988, 102 Stat. 4093, provided that:
 
 > **“(a)** No funds authorized to be appropriated under this Act, or under any other Act authorizing appropriations for fiscal year 1989 through 1993 for the [National Aeronautics and Space] Administration, shall be obligated or expended unless the Administration has in place, and will continue to administer in good faith, a written policy designed to ensure that all of its workplaces are free from the illegal use, possession, or distribution of controlled substances (as defined in the Controlled Substances Act [21 U.S.C. 801 et seq.]) by the officers and employees of the Administration.
 

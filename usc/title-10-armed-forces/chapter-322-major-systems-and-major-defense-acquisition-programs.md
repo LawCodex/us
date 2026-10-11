@@ -19,7 +19,7 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-Pub. L. 117–81, div. A, title XVII, § 1701(b)(16)(A), Dec. 27, 2021, 135 Stat. 2134, amended Pub. L. 116–283, div. A, title XVIII, § 1847(a), Jan. 1, 2021, 134 Stat. 4252, which added this analysis, by adding item for subchapter V and striking out a second item for subchapter III “Contractors”.
+Pub. L. 117–81, div. A, title XVII, § 1701(b)(16)(A), Dec. 27, 2021, 135 Stat. 2134, amended Pub. L. 116–283, div. A, title XVIII, § 1847(a), Jan. 1, 2021, 134 Stat. 4252, which added this analysis, by adding item for subchapter V and striking out a second item for subchapter III “Contractors”.
 
 ## SUBCHAPTER I—MANAGEMENT
 
@@ -27,13 +27,13 @@ Pub. L. 117–81, div. A, title XVII, § 1701(b)(16)(A), Dec. 27, 2021, 135 St
 
 **Amendments**
 
-2021—Pub. L. 117–81, div. A, title XVII, § 1701(f)(7), Dec. 27, 2021, 135 Stat. 2139, added item 4212 and struck out former item 4212 “Risk management and mitigation”.
+2021—Pub. L. 117–81, div. A, title XVII, § 1701(f)(7), Dec. 27, 2021, 135 Stat. 2139, added item 4212 and struck out former item 4212 “Risk management and mitigation”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Should-Cost Management**
 
-Pub. L. 115–91, div. A, title VIII, § 837, Dec. 12, 2017, 131 Stat. 1474, provided that:
+Pub. L. 115–91, div. A, title VIII, § 837, Dec. 12, 2017, 131 Stat. 1474, provided that:
 
 > **“(a) Requirement for Regulations.—** Not later than 180 days after the date of the enactment of this Act [Dec. 12, 2017], the Secretary of Defense shall amend the Defense Supplement to the Federal Acquisition Regulation to provide for the appropriate use of the should-cost review process of a major weapon system in a manner that is transparent, objective, and provides for the efficiency of the systems acquisition process in the Department of the Defense.
 
@@ -53,13 +53,13 @@ Pub. L. 115–91, div. A, title VIII, § 837, Dec. 12, 2017, 131 Stat. 1474, p
 
 **Management of Manufacturing Risk in Major Defense Acquisition Programs**
 
-Pub. L. 111–383, div. A, title VIII, § 812, Jan. 7, 2011, 124 Stat. 4264, as amended by Pub. L. 112–81, div. A, title VIII, § 834, Dec. 31, 2011, 125 Stat. 1506, which related to comprehensive guidance on the management of manufacturing risk in major defense acquisition programs, the inclusion of an assessment of the critical manufacturing readiness knowledge and skills needed in the acquisition workforce in the acquisition workforce chapter of the annual strategic workforce plan required by former section 115b of this title, and a plan of action for addressing any gaps in such knowledge and skills, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(12)(B), Dec. 18, 2025, 139 Stat. 949.
+Pub. L. 111–383, div. A, title VIII, § 812, Jan. 7, 2011, 124 Stat. 4264, as amended by Pub. L. 112–81, div. A, title VIII, § 834, Dec. 31, 2011, 125 Stat. 1506, which related to comprehensive guidance on the management of manufacturing risk in major defense acquisition programs, the inclusion of an assessment of the critical manufacturing readiness knowledge and skills needed in the acquisition workforce in the acquisition workforce chapter of the annual strategic workforce plan required by former section 115b of this title, and a plan of action for addressing any gaps in such knowledge and skills, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(12)(B), Dec. 18, 2025, 139 Stat. 949.
 
 **Congressional Notification of Cancellation of Major Automated Information Systems**
 
-Pub. L. 109–163, div. A, title VIII, § 806, Jan. 6, 2006, 119 Stat. 3373, which required notification to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives prior to cancellation of a major automated information system program that had been fielded or approved to be fielded or making a change that would significantly reduce the scope of such a program, was repealed by Pub. L. 118–159, div. A, title XVII, § 1701(g), Dec. 23, 2024, 138 Stat. 2207.
+Pub. L. 109–163, div. A, title VIII, § 806, Jan. 6, 2006, 119 Stat. 3373, which required notification to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives prior to cancellation of a major automated information system program that had been fielded or approved to be fielded or making a change that would significantly reduce the scope of such a program, was repealed by Pub. L. 118–159, div. A, title XVII, § 1701(g), Dec. 23, 2024, 138 Stat. 2207.
 
-### § 4211. Acquisition strategy
+### § 4211. Acquisition strategy
 
 **(a) Acquisition Strategy Required.—** There shall be an acquisition strategy for each major defense acquisition program and each major system approved by a decision authority.
 
@@ -103,65 +103,65 @@ Pub. L. 109–163, div. A, title VIII, § 806, Jan. 6, 2006, 119 Stat. 3373, w
 
 **(e) Decision Authority Defined.—** In this section, the term “decision authority”, with respect to a major defense acquisition program or major system, means the official within the Department of Defense designated with the overall responsibility and authority for acquisition decisions for the program or system, including authority to approve entry of the program or system into the next phase of the acquisition process.
 
-(Added Pub. L. 114–92, div. A, title VIII, § 821(a)(1), Nov. 25, 2015, 129 Stat. 897, § 2431a; amended Pub. L. 114–328, div. A, title VIII, § 848, Dec. 23, 2016, 130 Stat. 2292; Pub. L. 115–91, div. A, title X, § 1081(a)(39), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–92, div. A, title IX, § 902(70), Dec. 20, 2019, 133 Stat. 1551; renumbered § 4211 and amended Pub. L. 116–283, div. A, title XVIII, § 1847(b)(1), (2), Jan. 1, 2021, 134 Stat. 4253; Pub. L. 117–81, div. A, title XVII, § 1701(s)(1), Dec. 27, 2021, 135 Stat. 2149; Pub. L. 118–159, div. A, title XVII, § 1701(a)(39), Dec. 23, 2024, 138 Stat. 2205; Pub. L. 119–60, div. A, title XVIII, § 1805(a), Dec. 18, 2025, 139 Stat. 1235.)
+(Added Pub. L. 114–92, div. A, title VIII, § 821(a)(1), Nov. 25, 2015, 129 Stat. 897, § 2431a; amended Pub. L. 114–328, div. A, title VIII, § 848, Dec. 23, 2016, 130 Stat. 2292; Pub. L. 115–91, div. A, title X, § 1081(a)(39), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–92, div. A, title IX, § 902(70), Dec. 20, 2019, 133 Stat. 1551; renumbered § 4211 and amended Pub. L. 116–283, div. A, title XVIII, § 1847(b)(1), (2), Jan. 1, 2021, 134 Stat. 4253; Pub. L. 117–81, div. A, title XVII, § 1701(s)(1), Dec. 27, 2021, 135 Stat. 2149; Pub. L. 118–159, div. A, title XVII, § 1701(a)(39), Dec. 23, 2024, 138 Stat. 2205; Pub. L. 119–60, div. A, title XVIII, § 1805(a), Dec. 18, 2025, 139 Stat. 1235.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 1805(a)(1), struck out “milestone” before “decision authority”.
+2025—Subsec. (a). Pub. L. 119–60, § 1805(a)(1), struck out “milestone” before “decision authority”.
 
-Subsec. (b). Pub. L. 119–60, § 1805(a)(2), in introductory provisions, struck out “milestone” before “decision authority” in two places.
+Subsec. (b). Pub. L. 119–60, § 1805(a)(2), in introductory provisions, struck out “milestone” before “decision authority” in two places.
 
-Subsec. (c)(1). Pub. L. 119–60, § 1805(a)(3)(A)(i), in introductory provisions, struck out “milestone” before “decision authority” in two places.
+Subsec. (c)(1). Pub. L. 119–60, § 1805(a)(3)(A)(i), in introductory provisions, struck out “milestone” before “decision authority” in two places.
 
-Subsec. (c)(1)(A). Pub. L. 119–60, § 1805(a)(3)(A)(ii), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the strategy clearly describes the proposed top-level business and technical management approach for the program or system, in sufficient detail to allow the milestone decision authority to assess the viability of the proposed approach, the method of implementing laws and policies, and program objectives;”.
+Subsec. (c)(1)(A). Pub. L. 119–60, § 1805(a)(3)(A)(ii), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the strategy clearly describes the proposed top-level business and technical management approach for the program or system, in sufficient detail to allow the milestone decision authority to assess the viability of the proposed approach, the method of implementing laws and policies, and program objectives;”.
 
-Subsec. (c)(1)(B). Pub. L. 119–60, § 1805(a)(3)(A)(iii), substituted “the resources, such as time, funding, and management capacity, necessary to meet capability requirements” for “how the strategy is designed to be implemented with available resources, such as time, funding, and management capacity”.
+Subsec. (c)(1)(B). Pub. L. 119–60, § 1805(a)(3)(A)(iii), substituted “the resources, such as time, funding, and management capacity, necessary to meet capability requirements” for “how the strategy is designed to be implemented with available resources, such as time, funding, and management capacity”.
 
-Subsec. (c)(2). Pub. L. 119–60, § 1805(a)(3)(B), amended par. (2) generally. Prior to amendment, par. (2) related to considerations for each acquisition strategy for a major defense acquisition program or major system.
+Subsec. (c)(2). Pub. L. 119–60, § 1805(a)(3)(B), amended par. (2) generally. Prior to amendment, par. (2) related to considerations for each acquisition strategy for a major defense acquisition program or major system.
 
-Subsecs. (d), (e). Pub. L. 119–60, § 1805(a)(4), added subsecs. (d) and (e) and struck out former subsecs. (d) and (e) which related to times for review and approval of the acquisition strategy and provided definitions for the section, respectively.
+Subsecs. (d), (e). Pub. L. 119–60, § 1805(a)(4), added subsecs. (d) and (e) and struck out former subsecs. (d) and (e) which related to times for review and approval of the acquisition strategy and provided definitions for the section, respectively.
 
-2024—Subsec. (a). Pub. L. 118–159, § 1701(a)(39)(B), struck out “, each major automated information system,” after “defense acquisition program”.
+2024—Subsec. (a). Pub. L. 118–159, § 1701(a)(39)(B), struck out “, each major automated information system,” after “defense acquisition program”.
 
-Subsec. (c)(1). Pub. L. 118–159, § 1701(a)(39)(A), struck out “, major automated information system,” after “defense acquisition program” in introductory provisions.
+Subsec. (c)(1). Pub. L. 118–159, § 1701(a)(39)(A), struck out “, major automated information system,” after “defense acquisition program” in introductory provisions.
 
-Subsec. (c)(2)(H). Pub. L. 118–159, § 1701(a)(39)(C), substituted “section 3501 of this title” for “sections 3501 through 3511 of this title”.
+Subsec. (c)(2)(H). Pub. L. 118–159, § 1701(a)(39)(C), substituted “section 3501 of this title” for “sections 3501 through 3511 of this title”.
 
-Subsecs. (d), (e). Pub. L. 118–159, § 1701(a)(39)(A), struck out “, major automated information system,” after “defense acquisition program” wherever appearing.
+Subsecs. (d), (e). Pub. L. 118–159, § 1701(a)(39)(A), struck out “, major automated information system,” after “defense acquisition program” wherever appearing.
 
-2021—Pub. L. 116–283, § 1847(b)(1)(A), renumbered section 2431a of this title as this section.
+2021—Pub. L. 116–283, § 1847(b)(1)(A), renumbered section 2431a of this title as this section.
 
-Subsec. (c)(2)(B). Pub. L. 116–283, § 1847(b)(2), formerly § 1847(b)(2)(B), as redesignated and amended by Pub. L. 117–81, § 1701(s)(1), substituted “section 4820 of this title” for “section 2440 of this title”.
+Subsec. (c)(2)(B). Pub. L. 116–283, § 1847(b)(2), formerly § 1847(b)(2)(B), as redesignated and amended by Pub. L. 117–81, § 1701(s)(1), substituted “section 4820 of this title” for “section 2440 of this title”.
 
-Subsec. (c)(2)(D). Pub. L. 116–283, § 1847(b)(1)(B)(i)(I), substituted “section 4324” for “section 2337”.
+Subsec. (c)(2)(D). Pub. L. 116–283, § 1847(b)(1)(B)(i)(I), substituted “section 4324” for “section 2337”.
 
-Subsec. (c)(2)(F). Pub. L. 116–283, § 1847(b)(1)(B)(i)(II), substituted “sections 3771 through 3775” for “section 2320”.
+Subsec. (c)(2)(F). Pub. L. 116–283, § 1847(b)(1)(B)(i)(II), substituted “sections 3771 through 3775” for “section 2320”.
 
-Subsec. (c)(2)(H). Pub. L. 116–283, § 1847(b)(1)(B)(i)(III), substituted “sections 3501 through 3511” for “section 2306b”.
+Subsec. (c)(2)(H). Pub. L. 116–283, § 1847(b)(1)(B)(i)(III), substituted “sections 3501 through 3511” for “section 2306b”.
 
-Subsec. (c)(3). Pub. L. 116–283, § 1847(b)(2)(A), which directed the transfer of section 2440 of this title to subsec. (c)(3) of this section and substitution of “section 4811” for “section 2501” in text, was repealed by Pub. L. 117–81, § 1701(s)(1)(A).
+Subsec. (c)(3). Pub. L. 116–283, § 1847(b)(2)(A), which directed the transfer of section 2440 of this title to subsec. (c)(3) of this section and substitution of “section 4811” for “section 2501” in text, was repealed by Pub. L. 117–81, § 1701(s)(1)(A).
 
-Subsec. (e). Pub. L. 116–283, § 1847(b)(1)(C), which directed amendment of subsec. (e) by striking pars. (1) and (2) and redesignating pars. (3) to (10) as (1) to (8), respectively, was executed by striking pars. (1) and (2) and redesignating former pars. (3) to (9) as (1) to (7), respectively, to reflect the probable intent of Congress, as no par. (10) had been enacted. Prior to amendment, pars. (1) and (2) defined “major defense acquisition program” and “major system”, respectively.
+Subsec. (e). Pub. L. 116–283, § 1847(b)(1)(C), which directed amendment of subsec. (e) by striking pars. (1) and (2) and redesignating pars. (3) to (10) as (1) to (8), respectively, was executed by striking pars. (1) and (2) and redesignating former pars. (3) to (9) as (1) to (7), respectively, to reflect the probable intent of Congress, as no par. (10) had been enacted. Prior to amendment, pars. (1) and (2) defined “major defense acquisition program” and “major system”, respectively.
 
-Subsec. (e)(4). Pub. L. 116–283, § 1847(b)(1)(B)(ii)(I), substituted “section 4172(e)(7)” for “section 2366(e)(7)”.
+Subsec. (e)(4). Pub. L. 116–283, § 1847(b)(1)(B)(ii)(I), substituted “section 4172(e)(7)” for “section 2366(e)(7)”.
 
-Subsec. (e)(7). Pub. L. 116–283, § 1847(b)(1)(B)(ii)(II), substituted “section 4371(a)(2)” for “section 2433(a)(4)”.
+Subsec. (e)(7). Pub. L. 116–283, § 1847(b)(1)(B)(ii)(II), substituted “section 4371(a)(2)” for “section 2433(a)(4)”.
 
-Subsec. (e)(8). Pub. L. 116–283, § 1847(b)(1)(B)(ii)(III), substituted “section 4371(a)(3)” for “section 2433(a)(5)”.
+Subsec. (e)(8). Pub. L. 116–283, § 1847(b)(1)(B)(ii)(III), substituted “section 4371(a)(3)” for “section 2433(a)(5)”.
 
 2019—Subsec. (b). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics” in introductory provisions.
 
 2017—Subsec. (d)(1). Pub. L. 115–91 inserted “(1)” before “The milestone”.
 
-2016—Subsec. (b). Pub. L. 114–328, § 848(1), in introductory provisions, inserted “, or the milestone decision authority, when the milestone decision authority is the service acquisition executive of the military department that is managing the program,” after “the Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+2016—Subsec. (b). Pub. L. 114–328, § 848(1), in introductory provisions, inserted “, or the milestone decision authority, when the milestone decision authority is the service acquisition executive of the military department that is managing the program,” after “the Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
-Subsec. (c)(1). Pub. L. 114–328, § 848(2)(A), in introductory provisions, inserted “, or the milestone decision authority, when the milestone decision authority is the service acquisition executive of the military department that is managing the program,” after “the Under Secretary”.
+Subsec. (c)(1). Pub. L. 114–328, § 848(2)(A), in introductory provisions, inserted “, or the milestone decision authority, when the milestone decision authority is the service acquisition executive of the military department that is managing the program,” after “the Under Secretary”.
 
-Subsec. (c)(2)(C). Pub. L. 114–328, § 848(2)(B), struck out “, in accordance with section 2431b of this title” before period at end.
+Subsec. (c)(2)(C). Pub. L. 114–328, § 848(2)(B), struck out “, in accordance with section 2431b of this title” before period at end.
 
-Subsec. (d). Pub. L. 114–328, § 848(3), substituted “The” for “(1) Subject to the authority, direction, and control of the Under Secretary of Defense for Acquisition, Technology, and Logistics, the” and, in par. (2), inserted “because of a change described in paragraph (1)(F)” after “for a program or system”.
+Subsec. (d). Pub. L. 114–328, § 848(3), substituted “The” for “(1) Subject to the authority, direction, and control of the Under Secretary of Defense for Acquisition, Technology, and Logistics, the” and, in par. (2), inserted “because of a change described in paragraph (1)(F)” after “for a program or system”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -171,7 +171,7 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-### § 4212. Risk management and mitigation in major defense acquisition programs and major systems
+### § 4212. Risk management and mitigation in major defense acquisition programs and major systems
 
 **(a) Requirement.—** The Secretary of Defense shall ensure that the initial acquisition strategy (required under section 4211 of this title) approved by the milestone decision authority and any subsequent revisions include the following:
 
@@ -213,17 +213,17 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **(d) Concurrency Defined.—** In this section, the term “concurrency” means, with respect to an acquisition strategy, the combination or overlap of program phases or activities.
 
-(Added Pub. L. 114–92, div. A, title VIII, § 822(a)(1), Nov. 25, 2015, 129 Stat. 900, § 2431b; amended Pub. L. 114–328, div. A, title X, § 1081(a)(7), Dec. 23, 2016, 130 Stat. 2417; renumbered § 4212 and amended Pub. L. 116–283, div. A, title XVIII, § 1847(b)(3), Jan. 1, 2021, 134 Stat. 4254.)
+(Added Pub. L. 114–92, div. A, title VIII, § 822(a)(1), Nov. 25, 2015, 129 Stat. 900, § 2431b; amended Pub. L. 114–328, div. A, title X, § 1081(a)(7), Dec. 23, 2016, 130 Stat. 2417; renumbered § 4212 and amended Pub. L. 116–283, div. A, title XVIII, § 1847(b)(3), Jan. 1, 2021, 134 Stat. 4254.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1847(b)(3), renumbered section 2431b of this title as this section.
+2021—Pub. L. 116–283, § 1847(b)(3), renumbered section 2431b of this title as this section.
 
-Subsec. (a). Pub. L. 116–283, § 1847(b)(3)(A), substituted “section 4211” for “section 2431a”.
+Subsec. (a). Pub. L. 116–283, § 1847(b)(3)(A), substituted “section 4211” for “section 2431a”.
 
-Subsec. (d). Pub. L. 116–283, § 1847(b)(3)(B), substituted “Concurrency Defined” for “Definitions” in subsec. heading, struck out par. (1) designation and heading, substituted “In this section, the term” for “The term”, and struck out par. (2) which defined “major defense acquisition program” and “major system”.
+Subsec. (d). Pub. L. 116–283, § 1847(b)(3)(B), substituted “Concurrency Defined” for “Definitions” in subsec. heading, struck out par. (1) designation and heading, substituted “In this section, the term” for “The term”, and struck out par. (2) which defined “major defense acquisition program” and “major system”.
 
 2016—Subsec. (d). Pub. L. 114–328 amended subsec. (d) generally. Prior to amendment, subsec. (d) defined terms “major defense acquisition program” and “major system”.
 
@@ -233,7 +233,7 @@ Subsec. (d). Pub. L. 116–283, § 1847(b)(3)(B), substituted “Concurrency D
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-### § 4214. Baseline description
+### § 4214. Baseline description
 
 **(a) Baseline Description Requirement.—**
 
@@ -269,19 +269,19 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **(4)** Procedures for submission to, and approval by, the Secretary of Defense of revised baseline descriptions.
 
-(Added Pub. L. 99–500, § 101(c) [title X, § 904(a)(1)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–133, and Pub. L. 99–591, § 101(c) [title X, § 904(a)(1)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–133, § 2435; Pub. L. 99–661, div. A, title IX, formerly title IV, § 904(a)(1), Nov. 14, 1986, 100 Stat. 3912, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–26, § 7(b)(6), Apr. 21, 1987, 101 Stat. 280; Pub. L. 100–180, div. A, title VIII, § 803(a), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 100–370, § 1(i)(1), July 19, 1988, 102 Stat. 848; Pub. L. 100–456, div. A, title XII, § 1233(*l*)(4), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title VIII, § 811(b), Nov. 29, 1989, 103 Stat. 1493; Pub. L. 101–510, div. A, title XII, § 1207(b), title XIV, § 1484(k)(11), Nov. 5, 1990, 104 Stat. 1665, 1719; Pub. L. 103–160, div. A, title IX, § 904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title III, § 3005(a), Oct. 13, 1994, 108 Stat. 3330; Pub. L. 107–107, div. A, title VIII, § 821(d), title X, § 1048(b)(2), Dec. 28, 2001, 115 Stat. 1182, 1225; Pub. L. 109–163, div. A, title VIII, § 802(d)(1), Jan. 6, 2006, 119 Stat. 3369; Pub. L. 109–364, div. A, title VIII, § 806, Oct. 17, 2006, 120 Stat. 2315; Pub. L. 110–417, [div. A], title VIII, § 811(d), Oct. 14, 2008, 122 Stat. 4524; Pub. L. 116–92, div. A, title IX, § 902(71), Dec. 20, 2019, 133 Stat. 1551; renumbered § 4214 and amended Pub. L. 116–283, div. A, title XVIII, § 1847(b)(4), Jan. 1, 2021, 134 Stat. 4254; Pub. L. 117–81, div. A, title XVII, § 1701(*o*)(6)(C)(i), Dec. 27, 2021, 135 Stat. 2147.)
+(Added Pub. L. 99–500, § 101(c) [title X, § 904(a)(1)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–133, and Pub. L. 99–591, § 101(c) [title X, § 904(a)(1)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–133, § 2435; Pub. L. 99–661, div. A, title IX, formerly title IV, § 904(a)(1), Nov. 14, 1986, 100 Stat. 3912, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 100–26, § 7(b)(6), Apr. 21, 1987, 101 Stat. 280; Pub. L. 100–180, div. A, title VIII, § 803(a), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 100–370, § 1(i)(1), July 19, 1988, 102 Stat. 848; Pub. L. 100–456, div. A, title XII, § 1233(*l*)(4), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–189, div. A, title VIII, § 811(b), Nov. 29, 1989, 103 Stat. 1493; Pub. L. 101–510, div. A, title XII, § 1207(b), title XIV, § 1484(k)(11), Nov. 5, 1990, 104 Stat. 1665, 1719; Pub. L. 103–160, div. A, title IX, § 904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–355, title III, § 3005(a), Oct. 13, 1994, 108 Stat. 3330; Pub. L. 107–107, div. A, title VIII, § 821(d), title X, § 1048(b)(2), Dec. 28, 2001, 115 Stat. 1182, 1225; Pub. L. 109–163, div. A, title VIII, § 802(d)(1), Jan. 6, 2006, 119 Stat. 3369; Pub. L. 109–364, div. A, title VIII, § 806, Oct. 17, 2006, 120 Stat. 2315; Pub. L. 110–417, [div. A], title VIII, § 811(d), Oct. 14, 2008, 122 Stat. 4524; Pub. L. 116–92, div. A, title IX, § 902(71), Dec. 20, 2019, 133 Stat. 1551; renumbered § 4214 and amended Pub. L. 116–283, div. A, title XVIII, § 1847(b)(4), Jan. 1, 2021, 134 Stat. 4254; Pub. L. 117–81, div. A, title XVII, § 1701(*o*)(6)(C)(i), Dec. 27, 2021, 135 Stat. 2147.)
 
 **Historical and Revision Notes**
 
 **1988 Act**
 
-Subsection (c) is based on Pub. L. 98–525, title XII, § 1243, Oct. 19, 1984, 98 Stat. 2609, as amended by Pub. L. 100–26, § 110(a)(1), Apr. 21, 1987, 101 Stat. 288.
+Subsection (c) is based on Pub. L. 98–525, title XII, § 1243, Oct. 19, 1984, 98 Stat. 2609, as amended by Pub. L. 100–26, § 110(a)(1), Apr. 21, 1987, 101 Stat. 288.
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 110–417, § 811(d)(2)(B), (3)(B), (4)(B)(i), which directed amendment of this section by inserting “or subprogram” after “the program” in subsec. (b) and after “the program” each place it appeared in subsecs. (c) and (d), was executed by making the insertions after “the program” each place it appeared in those subsecs. except after “designated major subprogram under the program”, to reflect the probable intent of Congress.
+Pub. L. 110–417, § 811(d)(2)(B), (3)(B), (4)(B)(i), which directed amendment of this section by inserting “or subprogram” after “the program” in subsec. (b) and after “the program” each place it appeared in subsecs. (c) and (d), was executed by making the insertions after “the program” each place it appeared in those subsecs. except after “designated major subprogram under the program”, to reflect the probable intent of Congress.
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
@@ -289,27 +289,27 @@ Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical section
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1847(b)(4), renumbered section 2435 of this title as this section.
+2021—Pub. L. 116–283, § 1847(b)(4), renumbered section 2435 of this title as this section.
 
-Subsec. (a)(2). Pub. L. 116–283, § 1847(b)(4)(A), substituted “sections 4371 through 4375” for “section 2433”.
+Subsec. (a)(2). Pub. L. 116–283, § 1847(b)(4)(A), substituted “sections 4371 through 4375” for “section 2433”.
 
-Subsec. (d)(1). Pub. L. 116–283, § 1847(b)(4)(B)(i), substituted “In this subpart” for “In this chapter”.
+Subsec. (d)(1). Pub. L. 116–283, § 1847(b)(4)(B)(i), substituted “In this subpart” for “In this chapter”.
 
-Subsec. (d)(2). Pub. L. 116–283, § 1847(b)(4)(A), (B)(ii), substituted “sections 4371 through 4375” for “section 2433” and “section 4374 of this title” for “subsection (d) of such section”.
+Subsec. (d)(2). Pub. L. 116–283, § 1847(b)(4)(A), (B)(ii), substituted “sections 4371 through 4375” for “section 2433” and “section 4374 of this title” for “subsection (d) of such section”.
 
-Subsec. (d)(3). Pub. L. 116–283, § 1847(b)(4)(B)(iii), as amended by Pub. L. 117–81, § 1701(*o*)(6)(C)(i), substituted “section 4351” for “section 2432”.
+Subsec. (d)(3). Pub. L. 116–283, § 1847(b)(4)(B)(iii), as amended by Pub. L. 117–81, § 1701(*o*)(6)(C)(i), substituted “section 4351” for “section 2432”.
 
 2019—Subsecs. (b), (e)(2). Pub. L. 116–92 substituted “the Under Secretary of Defense for Acquisition and Sustainment” for “the Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
-2008—Subsec. (a). Pub. L. 110–417, § 811(d)(1), inserted “and for each designated major subprogram under the program” after “major defense acquisition program” in par. (1) and “or designated major subprogram” after “major defense acquisition program” in par. (2).
+2008—Subsec. (a). Pub. L. 110–417, § 811(d)(1), inserted “and for each designated major subprogram under the program” after “major defense acquisition program” in par. (1) and “or designated major subprogram” after “major defense acquisition program” in par. (2).
 
-Subsec. (b). Pub. L. 110–417, § 811(d)(2), inserted “or any designated major subprogram under the program” after “major defense acquisition program” and “or subprogram” after “after the program”. See Codification note above.
+Subsec. (b). Pub. L. 110–417, § 811(d)(2), inserted “or any designated major subprogram under the program” after “major defense acquisition program” and “or subprogram” after “after the program”. See Codification note above.
 
-Subsec. (c). Pub. L. 110–417, § 811(d)(3), inserted “or any designated major subprogram under the program” after “major defense acquisition program” in introductory provisions and “or subprogram” after “the program” in pars. (1) to (3). See Codification note above.
+Subsec. (c). Pub. L. 110–417, § 811(d)(3), inserted “or any designated major subprogram under the program” after “major defense acquisition program” in introductory provisions and “or subprogram” after “the program” in pars. (1) to (3). See Codification note above.
 
-Subsec. (d). Pub. L. 110–417, § 811(d)(4), inserted “or any designated major subprogram under the program” after “major defense acquisition program” wherever appearing, in par. (1), inserted “or subprogram” after “to the program”, “before the program”, and “at program”, and, in par. (2), inserted “or subprogram” after “for the program” in two places. See Codification note above.
+Subsec. (d). Pub. L. 110–417, § 811(d)(4), inserted “or any designated major subprogram under the program” after “major defense acquisition program” wherever appearing, in par. (1), inserted “or subprogram” after “to the program”, “before the program”, and “at program”, and, in par. (2), inserted “or subprogram” after “for the program” in two places. See Codification note above.
 
-Subsec. (e)(2). Pub. L. 110–417, § 811(d)(5), inserted “(or in the case of a major defense acquisition program with one or more designated major subprograms, approved baseline descriptions for such subprograms)” after “baseline description” and “or subprogram” before period at end and substituted “any such baseline description” for “the baseline”.
+Subsec. (e)(2). Pub. L. 110–417, § 811(d)(5), inserted “(or in the case of a major defense acquisition program with one or more designated major subprograms, approved baseline descriptions for such subprograms)” after “baseline description” and “or subprogram” before period at end and substituted “any such baseline description” for “the baseline”.
 
 2006—Subsec. (d). Pub. L. 109–163 added subsec. (d). Former subsec. (d) redesignated (e).
 
@@ -317,39 +317,39 @@ Subsec. (d)(1). Pub. L. 109–364 inserted “prepared before the program enters
 
 Subsec. (e). Pub. L. 109–163 redesignated subsec. (d) as (e).
 
-2001—Subsec. (b). Pub. L. 107–107, §§ 821(d)(1), 1048(b)(2), substituted “system development and demonstration” for “engineering and manufacturing development” and “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+2001—Subsec. (b). Pub. L. 107–107, §§ 821(d)(1), 1048(b)(2), substituted “system development and demonstration” for “engineering and manufacturing development” and “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
-Subsec. (c)(1). Pub. L. 107–107, § 821(d)(2)(A), substituted “system development and demonstration” for “demonstration and validation”.
+Subsec. (c)(1). Pub. L. 107–107, § 821(d)(2)(A), substituted “system development and demonstration” for “demonstration and validation”.
 
-Subsec. (c)(2). Pub. L. 107–107, § 821(d)(2)(B), substituted “production and deployment” for “engineering and manufacturing development”.
+Subsec. (c)(2). Pub. L. 107–107, § 821(d)(2)(B), substituted “production and deployment” for “engineering and manufacturing development”.
 
-Subsec. (c)(3). Pub. L. 107–107, § 821(d)(2)(C), substituted “full rate production” for “production and deployment”.
+Subsec. (c)(3). Pub. L. 107–107, § 821(d)(2)(C), substituted “full rate production” for “production and deployment”.
 
-Subsec. (d)(2). Pub. L. 107–107, § 1048(b)(2), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+Subsec. (d)(2). Pub. L. 107–107, § 1048(b)(2), substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
 1994—Pub. L. 103–355 amended section generally. Prior to amendment, section related to enhanced program stability.
 
 1993—Subsec. (b)(2)(B). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
 
-1990—Subsec. (b)(1). Pub. L. 101–510, § 1484(k)(11), struck out closing parenthesis after “such Secretary” in introductory provisions.
+1990—Subsec. (b)(1). Pub. L. 101–510, § 1484(k)(11), struck out closing parenthesis after “such Secretary” in introductory provisions.
 
-Subsec. (c). Pub. L. 101–510, § 1207(b), struck out subsec. (c) which read as follows: “Stability of Program Managers.—(1) The tour of duty of an officer of the armed forces as a program manager of a major defense acquisition program shall be (A) not less than four years, or (B) until completion of a major program milestone (as defined in regulations prescribed by the Secretary of Defense).
+Subsec. (c). Pub. L. 101–510, § 1207(b), struck out subsec. (c) which read as follows: “Stability of Program Managers.—(1) The tour of duty of an officer of the armed forces as a program manager of a major defense acquisition program shall be (A) not less than four years, or (B) until completion of a major program milestone (as defined in regulations prescribed by the Secretary of Defense).
 
 “(2) The Secretary of the military department concerned may waive the length of the tour of duty prescribed in paragraph (1). The authority under the preceding sentence may not be delegated.”
 
-1989—Subsec. (a)(2)(B)(iv). Pub. L. 101–189, § 811(b)(1), substituted “production” for “development”.
+1989—Subsec. (a)(2)(B)(iv). Pub. L. 101–189, § 811(b)(1), substituted “production” for “development”.
 
-Subsec. (b)(1). Pub. L. 101–189, § 811(b)(2)(A), substituted “service acquisition executive designated by such Secretary” for “senior procurement executive of such military department (designated pursuant to section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3))”.
+Subsec. (b)(1). Pub. L. 101–189, § 811(b)(2)(A), substituted “service acquisition executive designated by such Secretary” for “senior procurement executive of such military department (designated pursuant to section 16(3) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(3))”.
 
-Subsec. (b)(2). Pub. L. 101–189, § 811(b)(2)(B), substituted “180 days” for “90 days” in introductory provisions.
+Subsec. (b)(2). Pub. L. 101–189, § 811(b)(2)(B), substituted “180 days” for “90 days” in introductory provisions.
 
-1988—Subsec. (b)(2). Pub. L. 100–456 clarified amendment by Pub. L. 100–180, § 803(a). See 1987 Amendment note below.
+1988—Subsec. (b)(2). Pub. L. 100–456 clarified amendment by Pub. L. 100–180, § 803(a). See 1987 Amendment note below.
 
 Subsec. (c). Pub. L. 100–370 added subsec. (c).
 
 1987—Subsec. (b)(2). Pub. L. 100–180, as amended by Pub. L. 100–456, substituted “under paragraph (1), and for which the total cost of completion of the stage will exceed by 15 percent or more, in the case of a development stage, or by 5 percent or more, in the case of a production stage, the amount specified in the baseline description established under subsection (a) for such stage; or any milestone specified in such baseline description will be missed by more than 90 days” for first reference to “under paragraph (1)”.
 
-Subsec. (c). Pub. L. 100–26, § 7(b)(6), struck out subsec. (c) which defined “major defense acquisition program”.
+Subsec. (c). Pub. L. 100–26, § 7(b)(6), struck out subsec. (c) which defined “major defense acquisition program”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -361,7 +361,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–163, div. A, title VIII, § 802(e), Jan. 6, 2006, 119 Stat. 3370, provided that:
+Pub. L. 109–163, div. A, title VIII, § 802(e), Jan. 6, 2006, 119 Stat. 3370, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section and former section 2433 of this title] shall take effect on the date of the enactment of this Act [Jan. 6, 2006], and shall apply with respect to any major defense acquisition program for which an original Baseline Estimate is first established before, on, or after that date.
 
@@ -379,7 +379,7 @@ Pub. L. 109–163, div. A, title VIII, § 802(e), Jan. 6, 2006, 119 Stat. 3370
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–510, div. A, title XII, § 1207(b), Nov. 5, 1990, 104 Stat. 1665, provided that the amendment made by that section is effective Oct. 1, 1991.
+Pub. L. 101–510, div. A, title XII, § 1207(b), Nov. 5, 1990, 104 Stat. 1665, provided that the amendment made by that section is effective Oct. 1, 1991.
 
 **Effective Date of 1988 Amendment**
 
@@ -387,7 +387,7 @@ Amendment by Pub. L. 100–456 applicable as if included in the enactment of Pub
 
 **Effective Date**
 
-Pub. L. 99–500, § 101(c) [title X, § 904(b)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–134, and Pub. L. 99–591, § 101(c) [title X, § 904(b)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–134, and Pub. L. 99–661, div. A, title IX, formerly title IV, § 904(b), Nov. 14, 1986, 100 Stat. 3914, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “Section 2435 of title 10, United States Code [now 10 U.S.C. 4214] (as added by subsection (a)(1)), shall apply to major defense acquisition programs that enter full-scale engineering development or full-rate production after the date of the enactment of this Act [Oct. 18, 1986].”
+Pub. L. 99–500, § 101(c) [title X, § 904(b)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–134, and Pub. L. 99–591, § 101(c) [title X, § 904(b)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–134, and Pub. L. 99–661, div. A, title IX, formerly title IV, § 904(b), Nov. 14, 1986, 100 Stat. 3914, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “Section 2435 of title 10, United States Code [now 10 U.S.C. 4214] (as added by subsection (a)(1)), shall apply to major defense acquisition programs that enter full-scale engineering development or full-rate production after the date of the enactment of this Act [Oct. 18, 1986].”
 
 ## SUBCHAPTER II—CONTRACTING
 
@@ -395,13 +395,13 @@ Pub. L. 99–500, § 101(c) [title X, § 904(b)], Oct. 18, 1986, 100 Stat. 1
 
 **Amendments**
 
-2021—Pub. L. 117–81, div. A, title XVII, § 1701(f)(8), Dec. 27, 2021, 135 Stat. 2139, added item 4232 and struck out former item 4232 “Use of lowest price technically acceptable source selection process: prohibition”.
+2021—Pub. L. 117–81, div. A, title XVII, § 1701(f)(8), Dec. 27, 2021, 135 Stat. 2139, added item 4232 and struck out former item 4232 “Use of lowest price technically acceptable source selection process: prohibition”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Limitation on use of Cost-Type Contracts**
 
-Pub. L. 112–239, div. A, title VIII, § 811, Jan. 2, 2013, 126 Stat. 1828, as amended by Pub. L. 116–92, div. A, title IX, § 902(66), Dec. 20, 2019, 133 Stat. 1550, provided that:
+Pub. L. 112–239, div. A, title VIII, § 811, Jan. 2, 2013, 126 Stat. 1828, as amended by Pub. L. 116–92, div. A, title IX, § 902(66), Dec. 20, 2019, 133 Stat. 1550, provided that:
 
 > **“(a) Prohibition With Respect to Production of Major Defense Acquisition Programs.—** Not later than 120 days after the date of the enactment of this Act [Jan. 2, 2013], the Secretary of Defense shall modify the acquisition regulations of the Department of Defense to prohibit the Department from entering into cost-type contracts for the production of major defense acquisition programs.
 
@@ -427,11 +427,11 @@ Pub. L. 112–239, div. A, title VIII, § 811, Jan. 2, 2013, 126 Stat. 1828, a
 
 **Estimates of Potential Termination Liability of Contracts for the Development or Production of Major Defense Acquisition Programs**
 
-Pub. L. 112–239, div. A, title VIII, § 812, Jan. 2, 2013, 126 Stat. 1829, directed the Under Secretary of Defense for Acquisition, Technology, and Logistics to review, not later than 180 days after Jan. 2, 2013, relevant acquisition guidance and ensure that program managers for major defense acquisition programs are preparing estimates of potential termination liability for certain covered contracts and directed the Comptroller General of the United States to submit to the congressional defense committees, not later than 270 days after Jan. 2, 2013, a report on the extent to which the Department of Defense is considering potential termination liability as a factor in entering into and in terminating covered contracts.
+Pub. L. 112–239, div. A, title VIII, § 812, Jan. 2, 2013, 126 Stat. 1829, directed the Under Secretary of Defense for Acquisition, Technology, and Logistics to review, not later than 180 days after Jan. 2, 2013, relevant acquisition guidance and ensure that program managers for major defense acquisition programs are preparing estimates of potential termination liability for certain covered contracts and directed the Comptroller General of the United States to submit to the congressional defense committees, not later than 270 days after Jan. 2, 2013, a report on the extent to which the Department of Defense is considering potential termination liability as a factor in entering into and in terminating covered contracts.
 
 **Determination of Contract Type for Development Programs**
 
-Pub. L. 109–364, div. A, title VIII, § 818(b)–(g), Oct. 17, 2006, 120 Stat. 2329, 2330, as amended by Pub. L. 117–263, div. A, title VIII, § 808(a), Dec. 23, 2022, 136 Stat. 2705; Pub. L. 118–159, div. A, title VIII, § 823, Dec. 23, 2024, 138 Stat. 1983; Pub. L. 119–60, div. A, title XVIII, § 1805(b)(4), Dec. 18, 2025, 139 Stat. 1237, provided that:
+Pub. L. 109–364, div. A, title VIII, § 818(b)–(g), Oct. 17, 2006, 120 Stat. 2329, 2330, as amended by Pub. L. 117–263, div. A, title VIII, § 808(a), Dec. 23, 2022, 136 Stat. 2705; Pub. L. 118–159, div. A, title VIII, § 823, Dec. 23, 2024, 138 Stat. 1983; Pub. L. 119–60, div. A, title XVIII, § 1805(b)(4), Dec. 18, 2025, 139 Stat. 1237, provided that:
 
 > **“(b) Modification of Regulations.—** Not later than 120 days after the date of the enactment of this Act [Oct. 17, 2006], the Secretary of Defense shall modify the regulations of the Department of Defense regarding the determination of contract type for development programs.
 
@@ -487,9 +487,9 @@ Pub. L. 109–364, div. A, title VIII, § 818(b)–(g), Oct. 17, 2006, 120 Sta
 
 > **“(C)** The term ‘detail design’ means design using computer-aided modeling to enable the generation of work instructions for construction of the ship, where such work instructions show detailed system information and support construction, including guidance for subcontractors and suppliers, installation drawings, schedules, material lists, and lists of prefabricated materials and parts.”
 
-[Pub. L. 117–263, div. A, title VIII, § 808(b), Dec. 23, 2022, 136 Stat. 2705, provided that: “Not later than 120 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation and any applicable regulations regarding the use of fixed-price type contracts for a major defense acquisition program (as defined in section 4201 of title 10, United States Code) to carry out this section [enacting section 818(f) of Pub. L. 109–364, set out above] and the amendments made by this section.” ]
+[Pub. L. 117–263, div. A, title VIII, § 808(b), Dec. 23, 2022, 136 Stat. 2705, provided that: “Not later than 120 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation and any applicable regulations regarding the use of fixed-price type contracts for a major defense acquisition program (as defined in section 4201 of title 10, United States Code) to carry out this section [enacting section 818(f) of Pub. L. 109–364, set out above] and the amendments made by this section.” ]
 
-### § 4231. Major systems: determination of quantity for low-rate initial production
+### § 4231. Major systems: determination of quantity for low-rate initial production
 
 **(a) Determination of Quantities To Be Procured for Low-Rate Initial Production.—**
 
@@ -517,29 +517,29 @@ Pub. L. 109–364, div. A, title VIII, § 818(b)–(g), Oct. 17, 2006, 120 Sta
 
 **(c) Low-Rate Initial Production of Naval Vessel and Satellite Programs.—** With respect to naval vessel programs and military satellite programs, low-rate initial production is production of items at the minimum quantity and rate that (1) preserves the mobilization production base for that system, and (2) is feasible, as determined pursuant to regulations prescribed by the Secretary of Defense.
 
-(Added Pub. L. 101–189, div. A, title VIII, § 803(a), Nov. 29, 1989, 103 Stat. 1487, § 2400; amended Pub. L. 103–355, title III, § 3015, Oct. 13, 1994, 108 Stat. 3332; Pub. L. 104–106, div. A, title X, § 1062(d), div. D, title XLIII, § 4321(b)(13), Feb. 10, 1996, 110 Stat. 444, 673; Pub. L. 107–107, div. A, title VIII, § 821(c), Dec. 28, 2001, 115 Stat. 1182; renumbered § 4231 and amended Pub. L. 116–283, div. A, title XVIII, § 1847(c)(1), Jan. 1, 2021, 134 Stat. 4254; Pub. L. 117–81, div. A, title XVII, § 1701(*o*)(6)(C)(ii), Dec. 27, 2021, 135 Stat. 2147.)
+(Added Pub. L. 101–189, div. A, title VIII, § 803(a), Nov. 29, 1989, 103 Stat. 1487, § 2400; amended Pub. L. 103–355, title III, § 3015, Oct. 13, 1994, 108 Stat. 3332; Pub. L. 104–106, div. A, title X, § 1062(d), div. D, title XLIII, § 4321(b)(13), Feb. 10, 1996, 110 Stat. 444, 673; Pub. L. 107–107, div. A, title VIII, § 821(c), Dec. 28, 2001, 115 Stat. 1182; renumbered § 4231 and amended Pub. L. 116–283, div. A, title XVIII, § 1847(c)(1), Jan. 1, 2021, 134 Stat. 4254; Pub. L. 117–81, div. A, title XVII, § 1701(*o*)(6)(C)(ii), Dec. 27, 2021, 135 Stat. 2147.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1847(c)(1)(B), amended section catchline generally. Prior to amendment, section catchline read as follows: “Low-rate initial production of new systems”.
+2021—Pub. L. 116–283, § 1847(c)(1)(B), amended section catchline generally. Prior to amendment, section catchline read as follows: “Low-rate initial production of new systems”.
 
-Pub. L. 116–283, § 1847(c)(1)(A), renumbered section 2400 of this title as this section.
+Pub. L. 116–283, § 1847(c)(1)(A), renumbered section 2400 of this title as this section.
 
-Subsec. (a)(5). Pub. L. 116–283, § 1847(c)(1)(A)(i), as amended by Pub. L. 117–81, § 1701(*o*)(6)(C)(ii), substituted “section 4351” for “section 2432”.
+Subsec. (a)(5). Pub. L. 116–283, § 1847(c)(1)(A)(i), as amended by Pub. L. 117–81, § 1701(*o*)(6)(C)(ii), substituted “section 4351” for “section 2432”.
 
-Subsec. (b)(1). Pub. L. 116–283, § 1847(c)(1)(A)(ii), substituted “section 4171” for “section 2399”.
+Subsec. (b)(1). Pub. L. 116–283, § 1847(c)(1)(A)(ii), substituted “section 4171” for “section 2399”.
 
-2001—Subsec. (a)(1)(A). Pub. L. 107–107, § 821(c)(1), substituted “milestone B” for “milestone II”.
+2001—Subsec. (a)(1)(A). Pub. L. 107–107, § 821(c)(1), substituted “milestone B” for “milestone II”.
 
 Subsec. (a)(2). Pub. L. 107–107 substituted “milestone B” for “milestone II” and “system development and demonstration” for “engineering and manufacturing development”.
 
-Subsec. (a)(4), (5). Pub. L. 107–107, § 821(c)(1), substituted “milestone B” for “milestone II”.
+Subsec. (a)(4), (5). Pub. L. 107–107, § 821(c)(1), substituted “milestone B” for “milestone II”.
 
-1996—Subsec. (a)(5). Pub. L. 104–106, § 4321(b)(13), substituted “this paragraph” for “the preceding sentence”.
+1996—Subsec. (a)(5). Pub. L. 104–106, § 4321(b)(13), substituted “this paragraph” for “the preceding sentence”.
 
-Subsec. (c). Pub. L. 104–106, § 1062(d), struck out “(1)” before “With respect to”, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows: “For each naval vessel program and military satellite program, the Secretary of Defense shall submit to Congress a report providing—
+Subsec. (c). Pub. L. 104–106, § 1062(d), struck out “(1)” before “With respect to”, redesignated subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows: “For each naval vessel program and military satellite program, the Secretary of Defense shall submit to Congress a report providing—
 
 “(A) an explanation of the rate and quantity prescribed for low-rate initial production and the considerations in establishing that rate and quantity;
 
@@ -547,11 +547,11 @@ Subsec. (c). Pub. L. 104–106, § 1062(d), struck out “(1)” before “Wit
 
 “(C) an acquisition strategy for that program that has been approved by the Secretary, to include the procurement objectives in terms of total quantity of articles to be procured and annual production rates.”
 
-1994—Subsec. (a)(2). Pub. L. 103–355, § 3015(1), substituted “this section” for “paragraph (1)” and “engineering and manufacturing development” for “full-scale engineering development”.
+1994—Subsec. (a)(2). Pub. L. 103–355, § 3015(1), substituted “this section” for “paragraph (1)” and “engineering and manufacturing development” for “full-scale engineering development”.
 
-Subsec. (a)(4). Pub. L. 103–355, § 3015(2), (3), added par. (4) and redesignated former par. (4) as (5).
+Subsec. (a)(4). Pub. L. 103–355, § 3015(2), (3), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (a)(5). Pub. L. 103–355, § 3015(2), redesignated par. (4) as (5) and inserted after first sentence “If the quantity exceeds 10 percent of the total number of articles to be produced, as determined at the milestone II decision with respect to that system, the Secretary shall include in the statement the reasons for such quantity.”
+Subsec. (a)(5). Pub. L. 103–355, § 3015(2), redesignated par. (4) as (5) and inserted after first sentence “If the quantity exceeds 10 percent of the total number of articles to be produced, as determined at the milestone II decision with respect to that system, the Secretary shall include in the statement the reasons for such quantity.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -565,7 +565,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 For effective date and applicability of amendment by section 4321(b)(13) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2220 of this title.
 
-### § 4232. Prohibition on use of lowest price technically acceptable source selection process
+### § 4232. Prohibition on use of lowest price technically acceptable source selection process
 
 **(a) In General.—** The Department of Defense shall not use a lowest price technically acceptable source selection process for the engineering and manufacturing development contract of a major defense acquisition program.
 
@@ -575,7 +575,7 @@ For effective date and applicability of amendment by section 4321(b)(13) of Pub.
 
 **(2) Engineering and manufacturing development contract.—** The term “engineering and manufacturing development contract” means a prime contract for the engineering and manufacturing development of a major defense acquisition program.
 
-(Added Pub. L. 115–91, div. A, title VIII, § 832(a)(1), Dec. 12, 2017, 131 Stat. 1468, § 2442; renumbered § 4232 and amended Pub. L. 116–283, div. A, title XVIII, § 1847(c)(2), Jan. 1, 2021, 134 Stat. 4254.)
+(Added Pub. L. 115–91, div. A, title VIII, § 832(a)(1), Dec. 12, 2017, 131 Stat. 1468, § 2442; renumbered § 4232 and amended Pub. L. 116–283, div. A, title XVIII, § 1847(c)(2), Jan. 1, 2021, 134 Stat. 4254.)
 
 **Editorial Notes**
 
@@ -591,13 +591,13 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Effective Date**
 
-Pub. L. 115–91, div. A, title VIII, § 832(b), Dec. 12, 2017, 131 Stat. 1468, provided that: “The requirements of section 2442 of title 10, United States Code [now 10 U.S.C. 4232], as added by subsection (a), shall apply to major defense acquisition programs for which budgetary authority is requested for fiscal year 2019 or a subsequent fiscal year.”
+Pub. L. 115–91, div. A, title VIII, § 832(b), Dec. 12, 2017, 131 Stat. 1468, provided that: “The requirements of section 2442 of title 10, United States Code [now 10 U.S.C. 4232], as added by subsection (a), shall apply to major defense acquisition programs for which budgetary authority is requested for fiscal year 2019 or a subsequent fiscal year.”
 
-### § 4236. Negotiation of price for technical data before development, production, or sustainment of major weapon systems
+### § 4236. Negotiation of price for technical data before development, production, or sustainment of major weapon systems
 
 The Secretary of Defense shall ensure, to the maximum extent practicable, that the Department of Defense, before selecting a contractor for the engineering and manufacturing development of a major weapon system, production of a major weapon system, or sustainment of a major weapon system, negotiates a price for technical data to be delivered under a contract for such development, production, or sustainment.
 
-(Added Pub. L. 115–91, div. A, title VIII, § 835(a)(1), Dec. 12, 2017, 131 Stat. 1471, § 2439; amended Pub. L. 115–232, div. A, title VIII, § 867, Aug. 13, 2018, 132 Stat. 1901; renumbered § 4236, Pub. L. 116–283, div. A, title XVIII, § 1847(c)(3), Jan. 1, 2021, 134 Stat. 4254.)
+(Added Pub. L. 115–91, div. A, title VIII, § 835(a)(1), Dec. 12, 2017, 131 Stat. 1471, § 2439; amended Pub. L. 115–232, div. A, title VIII, § 867, Aug. 13, 2018, 132 Stat. 1901; renumbered § 4236, Pub. L. 116–283, div. A, title XVIII, § 1847(c)(3), Jan. 1, 2021, 134 Stat. 4254.)
 
 **Editorial Notes**
 
@@ -605,9 +605,9 @@ The Secretary of Defense shall ensure, to the maximum extent practicable, that t
 
 2021—Pub. L. 116–283 renumbered section 2439 of this title as this section.
 
-2018—Pub. L. 115–232, § 867(4), substituted “, production, or sustainment” for “or production” in section catchline.
+2018—Pub. L. 115–232, § 867(4), substituted “, production, or sustainment” for “or production” in section catchline.
 
-Pub. L. 115–232, § 867(1)–(3), inserted “, to the maximum extent practicable,” after “shall ensure” and substituted “production of a major weapon system, or sustainment of a major weapon system” for “or for the production of a major weapon system” and “, production, or sustainment” for “or production”.
+Pub. L. 115–232, § 867(1)–(3), inserted “, to the maximum extent practicable,” after “shall ensure” and substituted “production of a major weapon system, or sustainment of a major weapon system” for “or for the production of a major weapon system” and “, production, or sustainment” for “or production”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -617,7 +617,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Effective Date**
 
-Pub. L. 115–91, div. A, title VIII, § 835(a)(3), Dec. 12, 2017, 131 Stat. 1471, provided that: “Section 2439 of title 10, United States Code [now 10 U.S.C. 4236], as added by paragraph (1), shall apply with respect to any contract for engineering and manufacturing development of a major weapon system, or for the production of a major weapon system, for which the contract solicitation is issued on or after the date occurring one year after the date of the enactment of this Act [Dec. 12, 2017].”
+Pub. L. 115–91, div. A, title VIII, § 835(a)(3), Dec. 12, 2017, 131 Stat. 1471, provided that: “Section 2439 of title 10, United States Code [now 10 U.S.C. 4236], as added by paragraph (1), shall apply with respect to any contract for engineering and manufacturing development of a major weapon system, or for the production of a major weapon system, for which the contract solicitation is issued on or after the date occurring one year after the date of the enactment of this Act [Dec. 12, 2017].”
 
 ## SUBCHAPTER III—MILESTONES FOR MAJOR DEFENSE ACQUISITION PROGRAMS
 
@@ -625,9 +625,9 @@ Pub. L. 115–91, div. A, title VIII, § 835(a)(3), Dec. 12, 2017, 131 Stat. 1
 
 **Amendments**
 
-2024—Pub. L. 118–159, div. A, title VIII, §§ 806(a)(2), 807(1), Dec. 23, 2024, 138 Stat. 1974, substituted “factors to be considered” for “determination required” in item 4251 and “factors to be considered before” for “certification required before” in item 4252. Amendment to item 4252 was made pursuant to operation of section 102 of this title.
+2024—Pub. L. 118–159, div. A, title VIII, §§ 806(a)(2), 807(1), Dec. 23, 2024, 138 Stat. 1974, substituted “factors to be considered” for “determination required” in item 4251 and “factors to be considered before” for “certification required before” in item 4252. Amendment to item 4252 was made pursuant to operation of section 102 of this title.
 
-### § 4251. Major defense acquisition programs: factors to be considered before Milestone A approval
+### § 4251. Major defense acquisition programs: factors to be considered before Milestone A approval
 
 **(a) Responsibilities.—** Before granting Milestone A approval for a major defense acquisition program or a major subprogram, the milestone decision authority for the program or subprogram shall ensure that—
 
@@ -673,7 +673,7 @@ Pub. L. 115–91, div. A, title VIII, § 835(a)(3), Dec. 12, 2017, 131 Stat. 1
 
 **(5)** The term “congressional intelligence committees” has the meaning given that term in section 437(c) of this title.
 
-(Added Pub. L. 110–181, div. A, title IX, § 943(a)(1), Jan. 28, 2008, 122 Stat. 288, § 2366b; renumbered § 2366a and amended Pub. L. 110–417, [div. A], title VIII, § 813(b), (e)(1), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, § 101(d)(3), title II, §§ 201(e), 204(a), (b), May 22, 2009, 123 Stat. 1710, 1720, 1723; Pub. L. 111–383, div. A, title VIII, § 814(b), title X, § 1075(b)(33), Jan. 7, 2011, 124 Stat. 4266, 4370; Pub. L. 112–81, div. A, title VIII, § 801(a), (e)(1), Dec. 31, 2011, 125 Stat. 1482, 1483; Pub. L. 112–239, div. A, title III, § 322(e)(1), title X, § 1076(a)(10), Jan. 2, 2013, 126 Stat. 1695, 1948; Pub. L. 114–92, div. A, title VIII, § 823(a), Nov. 25, 2015, 129 Stat. 902; Pub. L. 114–328, div. A, title VIII, §§ 806(b), 807(d), 808(a), Dec. 23, 2016, 130 Stat. 2259, 2262; Pub. L. 115–232, div. A, title VIII, § 831(b)(2), Aug. 13, 2018, 132 Stat. 1857; Pub. L. 116–92, div. A, title XVII, § 1731(a)(44), Dec. 20, 2019, 133 Stat. 1814; renumbered § 4251 and amended Pub. L. 116–283, div. A, title XVIII, § 1847(d)(1), Jan. 1, 2021, 134 Stat. 4254; Pub. L. 118–159, div. A, title VIII, § 806(a)(1), Dec. 23, 2024, 138 Stat. 1972; Pub. L. 119–60, div. A, title XVIII, § 1811(g)(2), Dec. 18, 2025, 139 Stat. 1243.)
+(Added Pub. L. 110–181, div. A, title IX, § 943(a)(1), Jan. 28, 2008, 122 Stat. 288, § 2366b; renumbered § 2366a and amended Pub. L. 110–417, [div. A], title VIII, § 813(b), (e)(1), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, § 101(d)(3), title II, §§ 201(e), 204(a), (b), May 22, 2009, 123 Stat. 1710, 1720, 1723; Pub. L. 111–383, div. A, title VIII, § 814(b), title X, § 1075(b)(33), Jan. 7, 2011, 124 Stat. 4266, 4370; Pub. L. 112–81, div. A, title VIII, § 801(a), (e)(1), Dec. 31, 2011, 125 Stat. 1482, 1483; Pub. L. 112–239, div. A, title III, § 322(e)(1), title X, § 1076(a)(10), Jan. 2, 2013, 126 Stat. 1695, 1948; Pub. L. 114–92, div. A, title VIII, § 823(a), Nov. 25, 2015, 129 Stat. 902; Pub. L. 114–328, div. A, title VIII, §§ 806(b), 807(d), 808(a), Dec. 23, 2016, 130 Stat. 2259, 2262; Pub. L. 115–232, div. A, title VIII, § 831(b)(2), Aug. 13, 2018, 132 Stat. 1857; Pub. L. 116–92, div. A, title XVII, § 1731(a)(44), Dec. 20, 2019, 133 Stat. 1814; renumbered § 4251 and amended Pub. L. 116–283, div. A, title XVIII, § 1847(d)(1), Jan. 1, 2021, 134 Stat. 4254; Pub. L. 118–159, div. A, title VIII, § 806(a)(1), Dec. 23, 2024, 138 Stat. 1972; Pub. L. 119–60, div. A, title XVIII, § 1811(g)(2), Dec. 18, 2025, 139 Stat. 1243.)
 
 **Editorial Notes**
 
@@ -681,135 +681,135 @@ Pub. L. 115–91, div. A, title VIII, § 835(a)(3), Dec. 12, 2017, 131 Stat. 1
 
 2025—Subsec. (e)(1). Pub. L. 119–60 struck out “approved by the Joint Requirements Oversight Council” after “capabilities requirement document”.
 
-2024—Pub. L. 118–159, § 806(a)(1)(A), substituted “factors to be considered” for “determination required” in section catchline.
+2024—Pub. L. 118–159, § 806(a)(1)(A), substituted “factors to be considered” for “determination required” in section catchline.
 
-Subsec. (a)(2). Pub. L. 118–159, § 806(a)(1)(B)(ii), inserted “do not overly constrain future trade space” after “with regard to the program”.
+Subsec. (a)(2). Pub. L. 118–159, § 806(a)(1)(B)(ii), inserted “do not overly constrain future trade space” after “with regard to the program”.
 
-Pub. L. 118–159, § 806(a)(1)(B)(i), which directed striking out “the Secretary of the military department concerned and the Chief of the armed forces concerned concur in”, was executed by striking out “the Secretary of the military department concerned and the Chief of the armed force concerned concur in” before “the cost”, to reflect the probable intent of Congress.
+Pub. L. 118–159, § 806(a)(1)(B)(i), which directed striking out “the Secretary of the military department concerned and the Chief of the armed forces concerned concur in”, was executed by striking out “the Secretary of the military department concerned and the Chief of the armed force concerned concur in” before “the cost”, to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 118–159, § 806(a)(1)(C), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to written determination requirements for approval.
+Subsec. (b). Pub. L. 118–159, § 806(a)(1)(C), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to written determination requirements for approval.
 
-Subsec. (c). Pub. L. 118–159, § 806(a)(1)(E), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 118–159, § 806(a)(1)(E), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 118–159, § 806(a)(1)(D), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 118–159, § 806(a)(1)(D), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (d)(1). Pub. L. 118–159, § 806(a)(1)(F)(i)(II), substituted “a written record of the milestone decision.” for “a brief summary report that contains the following elements:” and struck out subpars. (A) to (G) which listed elements to be included in the brief summary report required for Milestone A approval.
+Subsec. (d)(1). Pub. L. 118–159, § 806(a)(1)(F)(i)(II), substituted “a written record of the milestone decision.” for “a brief summary report that contains the following elements:” and struck out subpars. (A) to (G) which listed elements to be included in the brief summary report required for Milestone A approval.
 
-Pub. L. 118–159, § 806(a)(1)(F)(i)(I), which directed substitution of “notification” for “brief summary report” in heading, was executed by substituting “Notification” for “Brief summary report”, to reflect the probable intent of Congress.
+Pub. L. 118–159, § 806(a)(1)(F)(i)(I), which directed substitution of “notification” for “brief summary report” in heading, was executed by substituting “Notification” for “Brief summary report”, to reflect the probable intent of Congress.
 
-Subsec. (d)(2). Pub. L. 118–159, § 806(a)(1)(F)(ii), amended par. (2) generally. Prior to amendment, par. (2) related to requests for additional explanation of the basis for a determination.
+Subsec. (d)(2). Pub. L. 118–159, § 806(a)(1)(F)(ii), amended par. (2) generally. Prior to amendment, par. (2) related to requests for additional explanation of the basis for a determination.
 
-Subsec. (e). Pub. L. 118–159, § 806(a)(1)(D), (G), redesignated subsec. (d) as (e) and substituted “requirements document” for “initial capabilities document” in par. (1), redesignated pars. (5) and (8) as (4) and (5), respectively, and struck out former pars. (4), (6), and (7) which defined core logistics capabilities, fielding target, and major system component, respectively.
+Subsec. (e). Pub. L. 118–159, § 806(a)(1)(D), (G), redesignated subsec. (d) as (e) and substituted “requirements document” for “initial capabilities document” in par. (1), redesignated pars. (5) and (8) as (4) and (5), respectively, and struck out former pars. (4), (6), and (7) which defined core logistics capabilities, fielding target, and major system component, respectively.
 
-2021—Pub. L. 116–283, § 1847(d)(1)(A), renumbered section 2366a of this title as this section.
+2021—Pub. L. 116–283, § 1847(d)(1)(A), renumbered section 2366a of this title as this section.
 
-Subsec. (b)(4). Pub. L. 116–283, § 1847(d)(1)(B)(i), substituted “section 4272(a)(1)” for “section 2448b(a)(1)”.
+Subsec. (b)(4). Pub. L. 116–283, § 1847(d)(1)(B)(i), substituted “section 4272(a)(1)” for “section 2448b(a)(1)”.
 
-Subsec. (b)(8). Pub. L. 116–283, § 1847(d)(1)(B)(ii), substituted “subchapter II of chapter 327” for “subchapter II of chapter 144B”.
+Subsec. (b)(8). Pub. L. 116–283, § 1847(d)(1)(B)(ii), substituted “subchapter II of chapter 327” for “subchapter II of chapter 144B”.
 
-Subsec. (c)(1)(A). Pub. L. 116–283, § 1847(d)(1)(C)(i), substituted “section 4271(a)” for “section 2448a(a)”.
+Subsec. (c)(1)(A). Pub. L. 116–283, § 1847(d)(1)(C)(i), substituted “section 4271(a)” for “section 2448a(a)”.
 
-Subsec. (c)(1)(C). Pub. L. 116–283, § 1847(d)(1)(C)(ii), substituted “section 3221(b)(6)” for “section 2334(a)(6)”.
+Subsec. (c)(1)(C). Pub. L. 116–283, § 1847(d)(1)(C)(ii), substituted “section 3221(b)(6)” for “section 2334(a)(6)”.
 
-Subsec. (c)(1)(E). Pub. L. 116–283, § 1847(d)(1)(C)(iii), substituted “section 4272” for “section 2448b”.
+Subsec. (c)(1)(E). Pub. L. 116–283, § 1847(d)(1)(C)(iii), substituted “section 4272” for “section 2448b”.
 
-Subsec. (d)(1), (2). Pub. L. 116–283, § 1847(d)(1)(D)(i), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which defined “major defense acquisition program”.
+Subsec. (d)(1), (2). Pub. L. 116–283, § 1847(d)(1)(D)(i), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which defined “major defense acquisition program”.
 
-Subsec. (d)(3). Pub. L. 116–283, § 1847(d)(1)(D)(ii), substituted “section 4172(e)(7)” for “section 2366(e)(7)”.
+Subsec. (d)(3). Pub. L. 116–283, § 1847(d)(1)(D)(ii), substituted “section 4172(e)(7)” for “section 2366(e)(7)”.
 
-Pub. L. 116–283, § 1847(d)(1)(D)(i), redesignated par. (4) as (3). Former par. (3) redesignated (2).
+Pub. L. 116–283, § 1847(d)(1)(D)(i), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
-Subsec. (d)(4), (5). Pub. L. 116–283, § 1847(d)(1)(D)(i), redesignated pars. (5) and (7) as (4) and (5), respectively. Former par. (4) redesignated (3).
+Subsec. (d)(4), (5). Pub. L. 116–283, § 1847(d)(1)(D)(i), redesignated pars. (5) and (7) as (4) and (5), respectively. Former par. (4) redesignated (3).
 
-Subsec. (d)(6). Pub. L. 116–283, § 1847(d)(1)(D)(iii), substituted “section 4271(a)” for “section 2448a(a)”.
+Subsec. (d)(6). Pub. L. 116–283, § 1847(d)(1)(D)(iii), substituted “section 4271(a)” for “section 2448a(a)”.
 
-Pub. L. 116–283, § 1847(d)(1)(D)(i), redesignated par. (8) as (6) and struck out former par. (6) which defined “major subprogram”.
+Pub. L. 116–283, § 1847(d)(1)(D)(i), redesignated par. (8) as (6) and struck out former par. (6) which defined “major subprogram”.
 
-Subsec. (d)(7). Pub. L. 116–283, § 1847(d)(1)(D)(iv), substituted “section 4401(b)(3)” for “section 2446a(b)(3)”.
+Subsec. (d)(7). Pub. L. 116–283, § 1847(d)(1)(D)(iv), substituted “section 4401(b)(3)” for “section 2446a(b)(3)”.
 
-Pub. L. 116–283, § 1847(d)(1)(D)(i), redesignated par. (9) as (7). Former par. (7) redesignated (5).
+Pub. L. 116–283, § 1847(d)(1)(D)(i), redesignated par. (9) as (7). Former par. (7) redesignated (5).
 
-Subsec. (d)(8) to (10). Pub. L. 116–283, § 1847(d)(1)(D)(i), redesignated pars. (8) to (10) as (6) to (8), respectively.
+Subsec. (d)(8) to (10). Pub. L. 116–283, § 1847(d)(1)(D)(i), redesignated pars. (8) to (10) as (6) to (8), respectively.
 
 2019—Subsec. (c)(1)(F). Pub. L. 116–92 substituted “subsection (b)(6)” for “section 2366a(b)(6) of this title”.
 
 2018—Subsec. (c)(1)(A). Pub. L. 115–232 struck out “by the Secretary of Defense” after “established”.
 
-2016—Subsec. (b)(4). Pub. L. 114–328, § 807(d), inserted “, including risks determined by the identification of critical technologies required under section 2448b(a)(1) of this title or any other risk assessment” after “areas of risk”.
+2016—Subsec. (b)(4). Pub. L. 114–328, § 807(d), inserted “, including risks determined by the identification of critical technologies required under section 2448b(a)(1) of this title or any other risk assessment” after “areas of risk”.
 
-Subsec. (b)(8), (9). Pub. L. 114–328, § 806(b), added par. (8) and redesignated former par. (8) as (9).
+Subsec. (b)(8), (9). Pub. L. 114–328, § 806(b), added par. (8) and redesignated former par. (8) as (9).
 
-Subsec. (c). Pub. L. 114–328, § 808(a)(1), amended subsec. (c) generally. Prior to amendment, text of subsec. (c) read as follows: “At the request of any of the congressional defense committees, the Secretary of Defense shall submit to the committee an explanation of the basis for a determination made under subsection (b) with respect to a major defense acquisition program, together with a copy of the written determination. The explanation shall be submitted in unclassified form, but may include a classified annex.”
+Subsec. (c). Pub. L. 114–328, § 808(a)(1), amended subsec. (c) generally. Prior to amendment, text of subsec. (c) read as follows: “At the request of any of the congressional defense committees, the Secretary of Defense shall submit to the committee an explanation of the basis for a determination made under subsection (b) with respect to a major defense acquisition program, together with a copy of the written determination. The explanation shall be submitted in unclassified form, but may include a classified annex.”
 
-Subsec. (d)(8) to (10). Pub. L. 114–328, § 808(a)(2), added pars. (8) to (10).
+Subsec. (d)(8) to (10). Pub. L. 114–328, § 808(a)(2), added pars. (8) to (10).
 
 2015—Pub. L. 114–92 amended section generally. Prior to amendment, section related to certification required before Milestone A approval of major defense acquisition programs.
 
-2013—Pub. L. 112–239, § 1076(a)(10)(C), made technical amendment to directory language of Pub. L. 112–81, § 801(e)(1)(A). See 2011 Amendment note below.
+2013—Pub. L. 112–239, § 1076(a)(10)(C), made technical amendment to directory language of Pub. L. 112–81, § 801(e)(1)(A). See 2011 Amendment note below.
 
-Subsec. (a)(4). Pub. L. 112–239, § 322(e)(1), substituted “core logistics capabilities” for “core depot-level maintenance and repair capabilities”.
+Subsec. (a)(4). Pub. L. 112–239, § 322(e)(1), substituted “core logistics capabilities” for “core depot-level maintenance and repair capabilities”.
 
-Subsec. (a)(5), (6). Pub. L. 112–239, § 1076(a)(10)(A), made technical amendment to directory language of Pub. L. 112–81, § 801(a)(1)(B). See 2011 Amendment notes below.
+Subsec. (a)(5), (6). Pub. L. 112–239, § 1076(a)(10)(A), made technical amendment to directory language of Pub. L. 112–81, § 801(a)(1)(B). See 2011 Amendment notes below.
 
-Subsec. (c)(7). Pub. L. 112–239, § 1076(a)(10)(B), made technical amendment to directory language of Pub. L. 112–81, § 801(a)(2). See 2011 Amendment note below.
+Subsec. (c)(7). Pub. L. 112–239, § 1076(a)(10)(B), made technical amendment to directory language of Pub. L. 112–81, § 801(a)(2). See 2011 Amendment note below.
 
-Pub. L. 112–239, § 322(e)(1), substituted “core logistics capabilities” for “core depot-level maintenance and repair capabilities” in two places.
+Pub. L. 112–239, § 322(e)(1), substituted “core logistics capabilities” for “core depot-level maintenance and repair capabilities” in two places.
 
-2011—Pub. L. 112–81, § 801(e)(1)(A), as amended by Pub. L. 112–239, § 1076(a)(10)(C), struck out “or Key Decision Point A” after “Milestone A” in section catchline.
+2011—Pub. L. 112–81, § 801(e)(1)(A), as amended by Pub. L. 112–239, § 1076(a)(10)(C), struck out “or Key Decision Point A” after “Milestone A” in section catchline.
 
-Subsec. (a). Pub. L. 112–81, § 801(e)(1)(B), struck out “, or Key Decision Point A approval in the case of a space program,” after “Milestone A approval” and “, or Key Decision Point B approval in the case of a space program,” after “Milestone B approval” in introductory provisions.
+Subsec. (a). Pub. L. 112–81, § 801(e)(1)(B), struck out “, or Key Decision Point A approval in the case of a space program,” after “Milestone A approval” and “, or Key Decision Point B approval in the case of a space program,” after “Milestone B approval” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 112–81, § 801(a)(1)(A), substituted “function” for “core competency”.
+Subsec. (a)(2). Pub. L. 112–81, § 801(a)(1)(A), substituted “function” for “core competency”.
 
-Subsec. (a)(4). Pub. L. 112–81, § 801(a)(1)(C), added par. (4). Former par. (4) redesignated (5).
+Subsec. (a)(4). Pub. L. 112–81, § 801(a)(1)(C), added par. (4). Former par. (4) redesignated (5).
 
-Subsec. (a)(5). Pub. L. 112–81, § 801(a)(1)(B), as amended by Pub. L. 112–239, § 1076(a)(10)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+Subsec. (a)(5). Pub. L. 112–81, § 801(a)(1)(B), as amended by Pub. L. 112–239, § 1076(a)(10)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Subsec. (a)(6). Pub. L. 112–81, § 801(a)(1)(D), substituted “develop, procure, and sustain” for “develop and procure”.
+Subsec. (a)(6). Pub. L. 112–81, § 801(a)(1)(D), substituted “develop, procure, and sustain” for “develop and procure”.
 
-Pub. L. 112–81, § 801(a)(1)(B), as amended by Pub. L. 112–239, § 1076(a)(10)(A), redesignated par. (5) as (6).
+Pub. L. 112–81, § 801(a)(1)(B), as amended by Pub. L. 112–239, § 1076(a)(10)(A), redesignated par. (5) as (6).
 
-Subsec. (b)(1). Pub. L. 112–81, § 801(e)(1)(C)(i), struck out “(or Key Decision Point A approval in the case of a space program)” after “Milestone A approval”.
+Subsec. (b)(1). Pub. L. 112–81, § 801(e)(1)(C)(i), struck out “(or Key Decision Point A approval in the case of a space program)” after “Milestone A approval”.
 
-Pub. L. 111–383, § 814(b)(1)(A), substituted “a major defense acquisition program certified by the Milestone Decision Authority under subsection (a) or a designated major subprogram of such program, if the projected cost of the program or subprogram” for “a major defense acquisition program certified by the Milestone Decision Authority under subsection (a), if the projected cost of the program”.
+Pub. L. 111–383, § 814(b)(1)(A), substituted “a major defense acquisition program certified by the Milestone Decision Authority under subsection (a) or a designated major subprogram of such program, if the projected cost of the program or subprogram” for “a major defense acquisition program certified by the Milestone Decision Authority under subsection (a), if the projected cost of the program”.
 
-Subsec. (b)(2). Pub. L. 111–383, § 814(b)(1)(B), inserted “or designated major subprogram” after “major defense acquisition program”.
+Subsec. (b)(2). Pub. L. 111–383, § 814(b)(1)(B), inserted “or designated major subprogram” after “major defense acquisition program”.
 
-Subsec. (b)(2)(C)(ii). Pub. L. 112–81, § 801(e)(1)(C)(ii), struck out “, or Key Decision Point A approval in the case of a space program,” after “Milestone A approval”.
+Subsec. (b)(2)(C)(ii). Pub. L. 112–81, § 801(e)(1)(C)(ii), struck out “, or Key Decision Point A approval in the case of a space program,” after “Milestone A approval”.
 
-Subsec. (c). Pub. L. 111–383, § 1075(b)(33)(A), inserted a space after “(c)”.
+Subsec. (c). Pub. L. 111–383, § 1075(b)(33)(A), inserted a space after “(c)”.
 
-Subsec. (c)(2) to (5). Pub. L. 111–383, § 814(b)(2), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively. Former par. (5) redesignated (6).
+Subsec. (c)(2) to (5). Pub. L. 111–383, § 814(b)(2), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively. Former par. (5) redesignated (6).
 
-Pub. L. 111–383, § 1075(b)(33)(B), which directed substitution of “section 118b(c)(3) of this title” for “section 125a(a) of this title” in par. (4), was executed by making the substitution in par. (5) to reflect the probable intent of Congress and the amendment by Pub. L. 111–383, § 814(b)(2)(A). See above.
+Pub. L. 111–383, § 1075(b)(33)(B), which directed substitution of “section 118b(c)(3) of this title” for “section 125a(a) of this title” in par. (4), was executed by making the substitution in par. (5) to reflect the probable intent of Congress and the amendment by Pub. L. 111–383, § 814(b)(2)(A). See above.
 
-Subsec. (c)(6). Pub. L. 111–383, § 814(b)(2)(A), redesignated par. (5) as (6).
+Subsec. (c)(6). Pub. L. 111–383, § 814(b)(2)(A), redesignated par. (5) as (6).
 
-Subsec. (c)(7). Pub. L. 112–81, § 801(a)(2), as amended by Pub. L. 112–239, § 1076(a)(10)(B), added par. (7).
+Subsec. (c)(7). Pub. L. 112–81, § 801(a)(2), as amended by Pub. L. 112–239, § 1076(a)(10)(B), added par. (7).
 
-2009—Subsec. (a). Pub. L. 111–23, § 204(a), substituted “may not receive Milestone A approval, or Key Decision Point A approval in the case of a space program, or otherwise be initiated prior to Milestone B approval, or Key Decision Point B approval in the case of a space program,” for “may not receive Milestone A approval, or Key Decision Point A approval in the case of a space program,” in introductory provisions.
+2009—Subsec. (a). Pub. L. 111–23, § 204(a), substituted “may not receive Milestone A approval, or Key Decision Point A approval in the case of a space program, or otherwise be initiated prior to Milestone B approval, or Key Decision Point B approval in the case of a space program,” for “may not receive Milestone A approval, or Key Decision Point A approval in the case of a space program,” in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 111–23, § 201(e)(1), struck out “and” at end.
+Subsec. (a)(3). Pub. L. 111–23, § 201(e)(1), struck out “and” at end.
 
-Subsec. (a)(4). Pub. L. 111–23, § 201(e)(3), added par. (4). Former par. (4) redesignated (5).
+Subsec. (a)(4). Pub. L. 111–23, § 201(e)(3), added par. (4). Former par. (4) redesignated (5).
 
-Pub. L. 111–23, § 101(d)(3), inserted “, with the concurrence of the Director of Cost Assessment and Program Evaluation,” after “has been submitted”.
+Pub. L. 111–23, § 101(d)(3), inserted “, with the concurrence of the Director of Cost Assessment and Program Evaluation,” after “has been submitted”.
 
-Subsec. (a)(5). Pub. L. 111–23, § 201(e)(2), redesignated par. (4) as (5).
+Subsec. (a)(5). Pub. L. 111–23, § 201(e)(2), redesignated par. (4) as (5).
 
-Subsec. (b). Pub. L. 111–23, § 204(b), designated existing provisions as par. (1), substituted “by at least 25 percent, or the program manager determines that the period of time required for the delivery of an initial operational capability is likely to exceed the schedule objective established pursuant to section 181(b)(5) of this title by more than 25 percent,” for “by at least 25 percent,”, and added par. (2).
+Subsec. (b). Pub. L. 111–23, § 204(b), designated existing provisions as par. (1), substituted “by at least 25 percent, or the program manager determines that the period of time required for the delivery of an initial operational capability is likely to exceed the schedule objective established pursuant to section 181(b)(5) of this title by more than 25 percent,” for “by at least 25 percent,”, and added par. (2).
 
-2008—Pub. L. 110–417, § 813(b), renumbered section 2366b of this title as this section.
+2008—Pub. L. 110–417, § 813(b), renumbered section 2366b of this title as this section.
 
-Subsec. (a)(1), (2). Pub. L. 110–417, § 813(e)(1)(A), substituted “program” for “system”.
+Subsec. (a)(1), (2). Pub. L. 110–417, § 813(e)(1)(A), substituted “program” for “system”.
 
-Subsec. (a)(3). Pub. L. 110–417, § 813(e)(1)(B), substituted “if the program” for “if the system” and “such program” for “such system”.
+Subsec. (a)(3). Pub. L. 110–417, § 813(e)(1)(B), substituted “if the program” for “if the system” and “such program” for “such system”.
 
-Subsec. (a)(4). Pub. L. 110–417, § 813(e)(1)(A), substituted “program” for “system” in two places.
+Subsec. (a)(4). Pub. L. 110–417, § 813(e)(1)(A), substituted “program” for “system” in two places.
 
-Subsec. (b). Pub. L. 110–417, § 813(e)(1)(C), substituted “major defense acquisition program” for “major system”, “cost of the program” for “cost of the system”, “estimate for the program” for “estimate for the system”, “the program concerned” for “the system concerned”, and “procure the program” for “procure the system”.
+Subsec. (b). Pub. L. 110–417, § 813(e)(1)(C), substituted “major defense acquisition program” for “major system”, “cost of the program” for “cost of the system”, “estimate for the program” for “estimate for the system”, “the program concerned” for “the system concerned”, and “procure the program” for “procure the system”.
 
-Subsec. (c)(1). Pub. L. 110–417, § 813(e)(1)(D), substituted “ ‘major defense acquisition program’ ” for “ ‘major system’ ” and “2430” for “2302(5)”.
+Subsec. (c)(1). Pub. L. 110–417, § 813(e)(1)(D), substituted “ ‘major defense acquisition program’ ” for “ ‘major system’ ” and “2430” for “2302(5)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -819,17 +819,17 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title III, § 322(f), Jan. 2, 2013, 126 Stat. 1695, provided that: “This section [enacting sections 2460 and 2464 of this title, amending this section and sections 2366b, 2460, and 2464 of this title, repealing sections 2460 and 2464 of this title, and amending provisions set out as a note under this section] and the amendments made by this section shall take effect on December 31, 2011, the date of the enactment of the National Defense Authorization Act for Fiscal Year 2012 [Pub. L. 112–81], immediately after the enactment of that Act.”
+Pub. L. 112–239, div. A, title III, § 322(f), Jan. 2, 2013, 126 Stat. 1695, provided that: “This section [enacting sections 2460 and 2464 of this title, amending this section and sections 2366b, 2460, and 2464 of this title, repealing sections 2460 and 2464 of this title, and amending provisions set out as a note under this section] and the amendments made by this section shall take effect on December 31, 2011, the date of the enactment of the National Defense Authorization Act for Fiscal Year 2012 [Pub. L. 112–81], immediately after the enactment of that Act.”
 
-Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(10) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(10) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 **Effective Date**
 
-Pub. L. 110–181, div. A, title IX, § 943(c), Jan. 28, 2008, 122 Stat. 289, as amended by Pub. L. 110–417, [div. A], title VIII, § 813(e)(2)(B), Oct. 14, 2008, 122 Stat. 4528, provided that: “Section 2366b of title 10, United States Code [now 10 U.S.C. 4251], as added by subsection (a), shall apply to major defense acquisition programs on and after March 1, 2008. In the case of the certification required by [former] paragraph (2) of subsection (a) of such section, during the period prior to the completion of the first quadrennial roles and missions review required by [former] section 118b of title 10, United States Code, the certification required by that paragraph shall be that the system is being executed by an entity with a relevant core competency as identified by the Secretary of Defense.”
+Pub. L. 110–181, div. A, title IX, § 943(c), Jan. 28, 2008, 122 Stat. 289, as amended by Pub. L. 110–417, [div. A], title VIII, § 813(e)(2)(B), Oct. 14, 2008, 122 Stat. 4528, provided that: “Section 2366b of title 10, United States Code [now 10 U.S.C. 4251], as added by subsection (a), shall apply to major defense acquisition programs on and after March 1, 2008. In the case of the certification required by [former] paragraph (2) of subsection (a) of such section, during the period prior to the completion of the first quadrennial roles and missions review required by [former] section 118b of title 10, United States Code, the certification required by that paragraph shall be that the system is being executed by an entity with a relevant core competency as identified by the Secretary of Defense.”
 
 **Analysis of Alternatives Pursuant to Materiel Development Decisions**
 
-Pub. L. 116–92, div. A, title VIII, § 832, Dec. 20, 2019, 133 Stat. 1493, provided that:
+Pub. L. 116–92, div. A, title VIII, § 832, Dec. 20, 2019, 133 Stat. 1493, provided that:
 
 > **“(a) Timeline.—** Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall update existing guidance for analyses of alternatives conducted pursuant to a materiel development decision for a major defense acquisition program to incorporate the following:
 
@@ -879,13 +879,13 @@ Pub. L. 116–92, div. A, title VIII, § 832, Dec. 20, 2019, 133 Stat. 1493, p
 
 **Milestone A Decisions**
 
-Pub. L. 114–92, div. A, title VIII, § 802(d)(2), Nov. 25, 2015, 129 Stat. 880, which required the Chief of the Armed Force concerned to provide the Chief’s views on cost, schedule, technical feasibility, and performance trade-offs to the milestone decision authority for a major defense acquisition program prior to a Milestone A decision, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(8)(A), Dec. 18, 2025, 139 Stat. 948.
+Pub. L. 114–92, div. A, title VIII, § 802(d)(2), Nov. 25, 2015, 129 Stat. 880, which required the Chief of the Armed Force concerned to provide the Chief’s views on cost, schedule, technical feasibility, and performance trade-offs to the milestone decision authority for a major defense acquisition program prior to a Milestone A decision, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(8)(A), Dec. 18, 2025, 139 Stat. 948.
 
 **Guidance**
 
-Pub. L. 112–81, div. A, title VIII, § 801(d), Dec. 31, 2011, 125 Stat. 1483, provided that: “Not later than 120 days after the date of the enactment of this Act [Dec. 31, 2011], the Secretary of Defense shall issue guidance implementing the amendments made by subsections (a) and (b) [amending this section and section 2366b of this title], and subsection (c) [set out as a note preceding section 4321 of this title], in a manner that is consistent across the Department of Defense.”
+Pub. L. 112–81, div. A, title VIII, § 801(d), Dec. 31, 2011, 125 Stat. 1483, provided that: “Not later than 120 days after the date of the enactment of this Act [Dec. 31, 2011], the Secretary of Defense shall issue guidance implementing the amendments made by subsections (a) and (b) [amending this section and section 2366b of this title], and subsection (c) [set out as a note preceding section 4321 of this title], in a manner that is consistent across the Department of Defense.”
 
-### § 4252. Major defense acquisition programs: factors to be considered before Milestone B approval
+### § 4252. Major defense acquisition programs: factors to be considered before Milestone B approval
 
 **(a) Responsibilities.—** Before granting Milestone B approval for a major defense acquisition program or major subprogram, the milestone decision authority for the program or subprogram shall ensure that—
 
@@ -959,7 +959,7 @@ Pub. L. 112–81, div. A, title VIII, § 801(d), Dec. 31, 2011, 125 Stat. 1483
 
 **(5)** The term “written record of milestone decision”, with respect to a major defense acquisition program or a major subprogram, means a document signed by the milestone decision authority that formalizes approved entry of the program or subprogram into the next phase of the acquisition process.
 
-(Added Pub. L. 109–163, div. A, title VIII, § 801(a), Jan. 6, 2006, 119 Stat. 3366, § 2366a; amended Pub. L. 109–364, div. A, title VIII, § 805, Oct. 17, 2006, 120 Stat. 2314; Pub. L. 110–181, div. A, title VIII, § 812, Jan. 28, 2008, 122 Stat. 219; renumbered § 2366b, Pub. L. 110–417, [div. A], title VIII, § 813(a), (b), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, § 101(d)(4), title II, §§ 201(f), 205(a), May 22, 2009, 123 Stat. 1710, 1720, 1724; Pub. L. 111–383, div. A, title VIII, §§ 813(d)(1), 814(c), title IX, § 901(j)(4), title X, § 1075(k)(1), Jan. 7, 2011, 124 Stat. 4265, 4266, 4324, 4378; Pub. L. 112–81, div. A, title VIII, §§ 801(b), (e)(2), 819(b), Dec. 31, 2011, 125 Stat. 1483, 1484, 1501; Pub. L. 112–239, div. A, title III, § 322(e)(2), title IX, § 904(e)(2), Jan. 2, 2013, 126 Stat. 1695, 1867; Pub. L. 113–66, div. A, title VIII, §§ 821(a), 822(a), title X, § 1091(b)(1), Dec. 26, 2013, 127 Stat. 809, 876; Pub. L. 114–92, div. A, title VIII, § 824(a), Nov. 25, 2015, 129 Stat. 903; Pub. L. 114–328, div. A, title VIII, §§ 805(a)(3), 807(e), 808(b), 843, Dec. 23, 2016, 130 Stat. 2255, 2262, 2263, 2290; Pub. L. 115–91, div. A, title VIII, §§ 835(b)(1), 838(a)(1), Dec. 12, 2017, 131 Stat. 1471, 1474; Pub. L. 115–232, div. A, title VIII, § 831(b)(3), Aug. 13, 2018, 132 Stat. 1857; Pub. L. 116–92, div. A, title VIII, § 833, Dec. 20, 2019, 133 Stat. 1494; renumbered § 4252 and amended Pub. L. 116–283, div. A, title VIII, § 802(b), title XVIII, §§ 1847(d)(2), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3732, 4255, 4294; Pub. L. 117–81, div. A, title XVII, § 1701(*o*)(6)(C)(iii), Dec. 27, 2021, 135 Stat. 2147; Pub. L. 118–159, div. A, title VIII, § 807, Dec. 23, 2024, 138 Stat. 1974; Pub. L. 119–60, div. A, title XVIII, § 1811(g)(3), Dec. 18, 2025, 139 Stat. 1243.)
+(Added Pub. L. 109–163, div. A, title VIII, § 801(a), Jan. 6, 2006, 119 Stat. 3366, § 2366a; amended Pub. L. 109–364, div. A, title VIII, § 805, Oct. 17, 2006, 120 Stat. 2314; Pub. L. 110–181, div. A, title VIII, § 812, Jan. 28, 2008, 122 Stat. 219; renumbered § 2366b, Pub. L. 110–417, [div. A], title VIII, § 813(a), (b), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, § 101(d)(4), title II, §§ 201(f), 205(a), May 22, 2009, 123 Stat. 1710, 1720, 1724; Pub. L. 111–383, div. A, title VIII, §§ 813(d)(1), 814(c), title IX, § 901(j)(4), title X, § 1075(k)(1), Jan. 7, 2011, 124 Stat. 4265, 4266, 4324, 4378; Pub. L. 112–81, div. A, title VIII, §§ 801(b), (e)(2), 819(b), Dec. 31, 2011, 125 Stat. 1483, 1484, 1501; Pub. L. 112–239, div. A, title III, § 322(e)(2), title IX, § 904(e)(2), Jan. 2, 2013, 126 Stat. 1695, 1867; Pub. L. 113–66, div. A, title VIII, §§ 821(a), 822(a), title X, § 1091(b)(1), Dec. 26, 2013, 127 Stat. 809, 876; Pub. L. 114–92, div. A, title VIII, § 824(a), Nov. 25, 2015, 129 Stat. 903; Pub. L. 114–328, div. A, title VIII, §§ 805(a)(3), 807(e), 808(b), 843, Dec. 23, 2016, 130 Stat. 2255, 2262, 2263, 2290; Pub. L. 115–91, div. A, title VIII, §§ 835(b)(1), 838(a)(1), Dec. 12, 2017, 131 Stat. 1471, 1474; Pub. L. 115–232, div. A, title VIII, § 831(b)(3), Aug. 13, 2018, 132 Stat. 1857; Pub. L. 116–92, div. A, title VIII, § 833, Dec. 20, 2019, 133 Stat. 1494; renumbered § 4252 and amended Pub. L. 116–283, div. A, title VIII, § 802(b), title XVIII, §§ 1847(d)(2), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3732, 4255, 4294; Pub. L. 117–81, div. A, title XVII, § 1701(*o*)(6)(C)(iii), Dec. 27, 2021, 135 Stat. 2147; Pub. L. 118–159, div. A, title VIII, § 807, Dec. 23, 2024, 138 Stat. 1974; Pub. L. 119–60, div. A, title XVIII, § 1811(g)(3), Dec. 18, 2025, 139 Stat. 1243.)
 
 **Editorial Notes**
 
@@ -967,109 +967,109 @@ Pub. L. 112–81, div. A, title VIII, § 801(d), Dec. 31, 2011, 125 Stat. 1483
 
 2025—Subsec. (b)(9) to (15). Pub. L. 119–60 redesignated pars. (10) to (15) as (9) to (14), respectively, and struck out former par. (9) which read as follows: “The Joint Requirements Oversight Council has accomplished its duties with respect to the program or subprogram pursuant to section 181(b) of this title, including an analysis of the operational requirements for the program or subprogram.”
 
-2024—Pub. L. 118–159, § 807(1), substituted “factors to be considered before” for “certification required before” in section catchline.
+2024—Pub. L. 118–159, § 807(1), substituted “factors to be considered before” for “certification required before” in section catchline.
 
-Subsec. (a). Pub. L. 118–159, § 807(4), added subsec. (a). Former subsec. (a) redesignated (b).
+Subsec. (a). Pub. L. 118–159, § 807(4), added subsec. (a). Former subsec. (a) redesignated (b).
 
-Subsec. (b). Pub. L. 118–159, § 807(3), (5), redesignated subsec. (a) as (b) and amended it generally. Prior to amendment, subsec. related to certifications and determinations required for Milestone B approval.
+Subsec. (b). Pub. L. 118–159, § 807(3), (5), redesignated subsec. (a) as (b) and amended it generally. Prior to amendment, subsec. related to certifications and determinations required for Milestone B approval.
 
-Subsec. (c). Pub. L. 118–159, § 807(6), added subsec. (c). Former subsec. (c) redesignated (e).
+Subsec. (c). Pub. L. 118–159, § 807(6), added subsec. (c). Former subsec. (c) redesignated (e).
 
-Subsec. (d). Pub. L. 118–159, § 807(7)(A), substituted “Basis for Milestone Approval” for “Certifications or Determination” in heading.
+Subsec. (d). Pub. L. 118–159, § 807(7)(A), substituted “Basis for Milestone Approval” for “Certifications or Determination” in heading.
 
-Pub. L. 118–159, § 807(2), (3), redesignated subsec. (b) as (d) and struck out former subsec. (d) which related to waiver of the certification and determination requirements to a major defense acquisition program in order to meet critical national security objectives.
+Pub. L. 118–159, § 807(2), (3), redesignated subsec. (b) as (d) and struck out former subsec. (d) which related to waiver of the certification and determination requirements to a major defense acquisition program in order to meet critical national security objectives.
 
-Subsec. (d)(1). Pub. L. 118–159, § 807(7)(B)(i), in introductory provisions, substituted “a written record of the milestone decision under subsection (c)” for “certifications or a determination under subsection (a)”.
+Subsec. (d)(1). Pub. L. 118–159, § 807(7)(B)(i), in introductory provisions, substituted “a written record of the milestone decision under subsection (c)” for “certifications or a determination under subsection (a)”.
 
-Subsec. (d)(1)(A). Pub. L. 118–159, § 807(7)(B)(ii), substituted “decision of the milestone decision authority” for “certifications or determination of the milestone decision authority” and “decision specified in subsection (b)” for “certifications or determination specified in paragraph (1), (2), or (3) of subsection (a)”.
+Subsec. (d)(1)(A). Pub. L. 118–159, § 807(7)(B)(ii), substituted “decision of the milestone decision authority” for “certifications or determination of the milestone decision authority” and “decision specified in subsection (b)” for “certifications or determination specified in paragraph (1), (2), or (3) of subsection (a)”.
 
-Subsec. (d)(1)(B). Pub. L. 118–159, § 807(7)(B)(iii), substituted “such decision” for “such certifications or determination”.
+Subsec. (d)(1)(B). Pub. L. 118–159, § 807(7)(B)(iii), substituted “such decision” for “such certifications or determination”.
 
-Subsec. (d)(2). Pub. L. 118–159, § 807(7)(C), struck out “withdraw the certifications or determination concerned or” after “milestone decision authority may” and substituted “approval is” for “certifications, determination, or approval are”.
+Subsec. (d)(2). Pub. L. 118–159, § 807(7)(C), struck out “withdraw the certifications or determination concerned or” after “milestone decision authority may” and substituted “approval is” for “certifications, determination, or approval are”.
 
-Subsec. (e). Pub. L. 118–159, § 807(3), (8), redesignated subsec. (c) as (e) and amended it generally. Prior to amendment, subsec. related to submission to Congress of brief summary reports on Milestone B. Former subsec. (e) struck out.
+Subsec. (e). Pub. L. 118–159, § 807(3), (8), redesignated subsec. (c) as (e) and amended it generally. Prior to amendment, subsec. related to submission to Congress of brief summary reports on Milestone B. Former subsec. (e) struck out.
 
-Pub. L. 118–159, § 807(2), struck out subsec. (e). Text read as follows: “Any budget request, budget justification material, budget display, reprogramming request, Selected Acquisition Report, or other budget documentation or performance report submitted by the Secretary of Defense to the President regarding a major defense acquisition program receiving a waiver pursuant to subsection (d) shall prominently and clearly indicate that such program has not fully satisfied the certification requirements of this section until such time as the milestone decision authority makes the determination that such program has satisfied all such certification requirements.”
+Pub. L. 118–159, § 807(2), struck out subsec. (e). Text read as follows: “Any budget request, budget justification material, budget display, reprogramming request, Selected Acquisition Report, or other budget documentation or performance report submitted by the Secretary of Defense to the President regarding a major defense acquisition program receiving a waiver pursuant to subsection (d) shall prominently and clearly indicate that such program has not fully satisfied the certification requirements of this section until such time as the milestone decision authority makes the determination that such program has satisfied all such certification requirements.”
 
-Subsec. (f). Pub. L. 118–159, § 807(2), (3), redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “The milestone decision authority may not delegate the certification requirement under subsection (a) or the authority to waive any component of such requirement under subsection (d).”
+Subsec. (f). Pub. L. 118–159, § 807(2), (3), redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “The milestone decision authority may not delegate the certification requirement under subsection (a) or the authority to waive any component of such requirement under subsection (d).”
 
-Subsec. (f)(4) to (6). Pub. L. 118–159, § 807(9), added par. (5), redesignated par. (6) as (4), and struck out former pars. (4) and (5) which defined the terms fielding target and major system component, respectively.
+Subsec. (f)(4) to (6). Pub. L. 118–159, § 807(9), added par. (5), redesignated par. (6) as (4), and struck out former pars. (4) and (5) which defined the terms fielding target and major system component, respectively.
 
-2021—Pub. L. 116–283, § 1847(d)(2)(A), renumbered section 2366b of this title as this section.
+2021—Pub. L. 116–283, § 1847(d)(2)(A), renumbered section 2366b of this title as this section.
 
-Subsec. (a)(2). Pub. L. 116–283, § 1847(d)(2)(B)(i), substituted “section 4272” for “section 2448b”.
+Subsec. (a)(2). Pub. L. 116–283, § 1847(d)(2)(B)(i), substituted “section 4272” for “section 2448b”.
 
-Subsec. (a)(3)(D). Pub. L. 116–283, § 1847(d)(2)(B)(ii)(I), substituted “section 4214 of this title” for “section 2435” and “section 4271(a)” for “section 2448a(a)”.
+Subsec. (a)(3)(D). Pub. L. 116–283, § 1847(d)(2)(B)(ii)(I), substituted “section 4214 of this title” for “section 2435” and “section 4271(a)” for “section 2448a(a)”.
 
-Subsec. (a)(3)(N). Pub. L. 116–283, § 1847(d)(2)(B)(ii)(II), substituted “section 4402(e)” for “section 2446b(e)”.
+Subsec. (a)(3)(N). Pub. L. 116–283, § 1847(d)(2)(B)(ii)(II), substituted “section 4402(e)” for “section 2446b(e)”.
 
-Pub. L. 116–283, § 802(b)(1)(A), struck out “and” after “met;”.
+Pub. L. 116–283, § 802(b)(1)(A), struck out “and” after “met;”.
 
-Subsec. (a)(3)(O). Pub. L. 116–283, § 802(b)(1)(B), which directed amendment of subpar. (O) by substituting “; and” for period at the end, was executed by making the substitution for semicolon at end to reflect the probable intent of Congress.
+Subsec. (a)(3)(O). Pub. L. 116–283, § 802(b)(1)(B), which directed amendment of subpar. (O) by substituting “; and” for period at the end, was executed by making the substitution for semicolon at end to reflect the probable intent of Congress.
 
-Subsec. (a)(3)(P). Pub. L. 116–283, § 1883(b)(2), substituted “section 4324(b)” for “section 2337(b)”.
+Subsec. (a)(3)(P). Pub. L. 116–283, § 1883(b)(2), substituted “section 4324(b)” for “section 2337(b)”.
 
-Pub. L. 116–283, § 802(b)(1)(C), added subpar. (P).
+Pub. L. 116–283, § 802(b)(1)(C), added subpar. (P).
 
-Subsec. (c)(1)(A). Pub. L. 116–283, § 1847(d)(2)(C)(i)(I), substituted “section 4271(a)” for “section 2448a(a)”.
+Subsec. (c)(1)(A). Pub. L. 116–283, § 1847(d)(2)(C)(i)(I), substituted “section 4271(a)” for “section 2448a(a)”.
 
-Subsec. (c)(1)(C). Pub. L. 116–283, § 1847(d)(2)(C)(i)(II), substituted “section 3221(b)(6)” for “section 2334(a)(6)” in introductory provisions.
+Subsec. (c)(1)(C). Pub. L. 116–283, § 1847(d)(2)(C)(i)(II), substituted “section 3221(b)(6)” for “section 2334(a)(6)” in introductory provisions.
 
-Subsec. (c)(1)(E). Pub. L. 116–283, § 1847(d)(2)(C)(i)(III), substituted “section 4272” for “section 2448b”.
+Subsec. (c)(1)(E). Pub. L. 116–283, § 1847(d)(2)(C)(i)(III), substituted “section 4272” for “section 2448b”.
 
-Subsec. (c)(1)(H). Pub. L. 116–283, § 1883(b)(2), substituted “section 4324” for “section 2337”.
+Subsec. (c)(1)(H). Pub. L. 116–283, § 1883(b)(2), substituted “section 4324” for “section 2337”.
 
-Pub. L. 116–283, § 802(b)(2)(B), added subpar. (H). Former subpar. (H) redesignated (I).
+Pub. L. 116–283, § 802(b)(2)(B), added subpar. (H). Former subpar. (H) redesignated (I).
 
-Subsec. (c)(1)(I). Pub. L. 116–283, § 802(b)(2)(A), redesignated subpar. (H) as (I).
+Subsec. (c)(1)(I). Pub. L. 116–283, § 802(b)(2)(A), redesignated subpar. (H) as (I).
 
-Subsec. (c)(2)(A). Pub. L. 116–283, § 1847(d)(2)(C)(ii), as amended by Pub. L. 117–81, § 1701(*o*)(6)(C)(iii), substituted “section 4351” for “section 2432”.
+Subsec. (c)(2)(A). Pub. L. 116–283, § 1847(d)(2)(C)(ii), as amended by Pub. L. 117–81, § 1701(*o*)(6)(C)(iii), substituted “section 4351” for “section 2432”.
 
-Subsec. (d)(3). Pub. L. 116–283, § 1847(d)(2)(D), substituted “section 4377” for “section 2433a(c)” in introductory provisions.
+Subsec. (d)(3). Pub. L. 116–283, § 1847(d)(2)(D), substituted “section 4377” for “section 2433a(c)” in introductory provisions.
 
-Subsec. (g)(1). Pub. L. 116–283, § 1847(d)(2)(E)(i), redesignated par. (3) as (1) and struck out former par. (1) which defined “major defense acquisition program”.
+Subsec. (g)(1). Pub. L. 116–283, § 1847(d)(2)(E)(i), redesignated par. (3) as (1) and struck out former par. (1) which defined “major defense acquisition program”.
 
-Subsec. (g)(2). Pub. L. 116–283, § 1847(d)(2)(E)(i), (ii), redesignated par. (4) as (2), substituted “section 4172(e)(7)” for “section 2366(e)(7)”, and struck out former par. (2) which defined “designated major subprogram”.
+Subsec. (g)(2). Pub. L. 116–283, § 1847(d)(2)(E)(i), (ii), redesignated par. (4) as (2), substituted “section 4172(e)(7)” for “section 2366(e)(7)”, and struck out former par. (2) which defined “designated major subprogram”.
 
-Subsec. (g)(3). Pub. L. 116–283, § 1847(d)(2)(E)(i), redesignated par. (5) as (3). Former par. (3) redesignated (1).
+Subsec. (g)(3). Pub. L. 116–283, § 1847(d)(2)(E)(i), redesignated par. (5) as (3). Former par. (3) redesignated (1).
 
-Subsec. (g)(4). Pub. L. 116–283, § 1847(d)(2)(E)(i), (iii), redesignated par. (6) as (4) and substituted “section 4271(a)” for “section 2448a(a)”. Former par. (4) redesignated (2).
+Subsec. (g)(4). Pub. L. 116–283, § 1847(d)(2)(E)(i), (iii), redesignated par. (6) as (4) and substituted “section 4271(a)” for “section 2448a(a)”. Former par. (4) redesignated (2).
 
-Subsec. (g)(5). Pub. L. 116–283, § 1847(d)(2)(E)(i), (iv), redesignated par. (7) as (5) and substituted “section 4401(b)(3)” for “section 2446a(b)(3)”. Former par. (5) redesignated (3).
+Subsec. (g)(5). Pub. L. 116–283, § 1847(d)(2)(E)(i), (iv), redesignated par. (7) as (5) and substituted “section 4401(b)(3)” for “section 2446a(b)(3)”. Former par. (5) redesignated (3).
 
-Subsec. (g)(6) to (8). Pub. L. 116–283, § 1847(d)(2)(E)(i), redesignated pars. (6) to (8) as (4) to (6), respectively.
+Subsec. (g)(6) to (8). Pub. L. 116–283, § 1847(d)(2)(E)(i), redesignated pars. (6) to (8) as (4) to (6), respectively.
 
 2019—Subsec. (a)(5). Pub. L. 116–92 added par. (5).
 
-2018—Subsec. (a)(3)(D). Pub. L. 115–232, § 831(b)(3)(A), struck out “Secretary of Defense after a request for such increase or delay by the” before “milestone decision authority”.
+2018—Subsec. (a)(3)(D). Pub. L. 115–232, § 831(b)(3)(A), struck out “Secretary of Defense after a request for such increase or delay by the” before “milestone decision authority”.
 
-Subsec. (c)(1)(A). Pub. L. 115–232, § 831(b)(3)(B), struck out “by the Secretary of Defense” after “established”.
+Subsec. (c)(1)(A). Pub. L. 115–232, § 831(b)(3)(B), struck out “by the Secretary of Defense” after “established”.
 
-2017—Subsec. (a)(3)(O). Pub. L. 115–91, § 835(b)(1), added subpar. (O).
+2017—Subsec. (a)(3)(O). Pub. L. 115–91, § 835(b)(1), added subpar. (O).
 
-Subsec. (c)(1)(G), (H). Pub. L. 115–91, § 838(a)(1), added subpar. (G) and redesignated former subpar. (G) as (H).
+Subsec. (c)(1)(G), (H). Pub. L. 115–91, § 838(a)(1), added subpar. (G) and redesignated former subpar. (G) as (H).
 
-2016—Subsec. (a)(2). Pub. L. 114–328, § 807(e)(1), substituted “technical risk assessment conducted under section 2448b of this title” for “assessment by the Assistant Secretary of Defense for Research and Engineering, in consultation with the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation”.
+2016—Subsec. (a)(2). Pub. L. 114–328, § 807(e)(1), substituted “technical risk assessment conducted under section 2448b of this title” for “assessment by the Assistant Secretary of Defense for Research and Engineering, in consultation with the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation”.
 
-Subsec. (a)(3)(B). Pub. L. 114–328, § 843(1), substituted “life-cycle cost;” for “acquisition cost in the context of the total resources available during the period covered by the future-years defense program submitted during the fiscal year in which the certification is made;”.
+Subsec. (a)(3)(B). Pub. L. 114–328, § 843(1), substituted “life-cycle cost;” for “acquisition cost in the context of the total resources available during the period covered by the future-years defense program submitted during the fiscal year in which the certification is made;”.
 
-Subsec. (a)(3)(C). Pub. L. 114–328, § 807(e)(2)(A), struck out “and” at end.
+Subsec. (a)(3)(C). Pub. L. 114–328, § 807(e)(2)(A), struck out “and” at end.
 
-Subsec. (a)(3)(D). Pub. L. 114–328, § 807(e)(2)(C), added subpar. (D). Former subpar. (D) redesignated (E).
+Subsec. (a)(3)(D). Pub. L. 114–328, § 807(e)(2)(C), added subpar. (D). Former subpar. (D) redesignated (E).
 
-Subsec. (a)(3)(E). Pub. L. 114–328, § 843(2), which directed amendment of subpar. (D) by substituting “funding is expected to be available to execute the product development and production plan for the program,” for “funding is” and all that followed through “made,”, was executed by making the substitution for “funding is available to execute the product development and production plan under the program, through the period covered by the future-years defense program submitted during the fiscal year in which the certification is made,” in subpar. (E), to reflect the probable intent of Congress and the amendment by Pub. L. 114–328, § 807(e)(2)(B). See below.
+Subsec. (a)(3)(E). Pub. L. 114–328, § 843(2), which directed amendment of subpar. (D) by substituting “funding is expected to be available to execute the product development and production plan for the program,” for “funding is” and all that followed through “made,”, was executed by making the substitution for “funding is available to execute the product development and production plan under the program, through the period covered by the future-years defense program submitted during the fiscal year in which the certification is made,” in subpar. (E), to reflect the probable intent of Congress and the amendment by Pub. L. 114–328, § 807(e)(2)(B). See below.
 
-Pub. L. 114–328, § 807(e)(2)(B), redesignated subpar. (D) as (E). Former subpar. (E) redesignated (F).
+Pub. L. 114–328, § 807(e)(2)(B), redesignated subpar. (D) as (E). Former subpar. (E) redesignated (F).
 
-Subsec. (a)(3)(F) to (L). Pub. L. 114–328, § 807(e)(2)(B), redesignated subpars. (E) to (K) as (F) to (L), respectively. Former subpar. (L) redesignated (M).
+Subsec. (a)(3)(F) to (L). Pub. L. 114–328, § 807(e)(2)(B), redesignated subpars. (E) to (K) as (F) to (L), respectively. Former subpar. (L) redesignated (M).
 
-Subsec. (a)(3)(M). Pub. L. 114–328, § 807(e)(2)(B), redesignated subpar. (L) as (M). Former subpar. (M) redesignated (N).
+Subsec. (a)(3)(M). Pub. L. 114–328, § 807(e)(2)(B), redesignated subpar. (L) as (M). Former subpar. (M) redesignated (N).
 
-Pub. L. 114–328, § 805(a)(3), added subpar. (M).
+Pub. L. 114–328, § 805(a)(3), added subpar. (M).
 
-Subsec. (a)(3)(N). Pub. L. 114–328, § 807(e)(2)(B), redesignated subpar. (M) as (N).
+Subsec. (a)(3)(N). Pub. L. 114–328, § 807(e)(2)(B), redesignated subpar. (M) as (N).
 
-Subsec. (c). Pub. L. 114–328, § 808(b)(1), amended subsec. (c) generally. Prior to amendment, text read as follows:
+Subsec. (c). Pub. L. 114–328, § 808(b)(1), amended subsec. (c) generally. Prior to amendment, text read as follows:
 
 “(1) The certifications and determination under subsection (a) with respect to a major defense acquisition program shall be submitted to the congressional defense committees with the first Selected Acquisition Report submitted under section 2432 of this title after completion of the certification.
 
@@ -1077,91 +1077,91 @@ Subsec. (c). Pub. L. 114–328, § 808(b)(1), amended subsec. (c) generally. P
 
 “(3) At the request of any of the congressional defense committees, the Secretary of Defense shall submit to the committee an explanation of the basis for the certifications and determination under paragraphs (1), (2), and (3) of subsection (a) with respect to a major defense acquisition program. The explanation shall be submitted in unclassified form, but may include a classified annex.”
 
-Subsec. (g)(6) to (8). Pub. L. 114–328, § 808(b)(2), added pars. (6) to (8).
+Subsec. (g)(6) to (8). Pub. L. 114–328, § 808(b)(2), added pars. (6) to (8).
 
 2015—Pub. L. 114–92 amended section generally. Prior to amendment, section related to certification required before Milestone B approval of major defense acquisition programs.
 
-2013—Subsec. (a)(3)(D). Pub. L. 112–239, § 904(e)(2), substituted “the Assistant Secretary of Defense for Research and Engineering, in consultation with the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation” for “the Assistant Secretary of Defense for Research and Engineering”.
+2013—Subsec. (a)(3)(D). Pub. L. 112–239, § 904(e)(2), substituted “the Assistant Secretary of Defense for Research and Engineering, in consultation with the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation” for “the Assistant Secretary of Defense for Research and Engineering”.
 
-Subsec. (a)(3)(F). Pub. L. 112–239, § 322(e)(2), as amended by Pub. L. 113–66, § 1091(b)(1), substituted “core logistics capabilities” for “core depot-level maintenance and repair capabilities, as well as the associated logistics capabilities”.
+Subsec. (a)(3)(F). Pub. L. 112–239, § 322(e)(2), as amended by Pub. L. 113–66, § 1091(b)(1), substituted “core logistics capabilities” for “core depot-level maintenance and repair capabilities, as well as the associated logistics capabilities”.
 
-Subsec. (a)(3)(G), (H). Pub. L. 113–66, § 821(a), added subpar. (G) and redesignated former subpar. (G) as (H).
+Subsec. (a)(3)(G), (H). Pub. L. 113–66, § 821(a), added subpar. (G) and redesignated former subpar. (G) as (H).
 
-Subsec. (a)(4). Pub. L. 113–66, § 822(a), added par. (4).
+Subsec. (a)(4). Pub. L. 113–66, § 822(a), added par. (4).
 
-2011—Pub. L. 112–81, § 801(e)(2)(A), struck out “or Key Decision Point B” after “Milestone B” in section catchline.
+2011—Pub. L. 112–81, § 801(e)(2)(A), struck out “or Key Decision Point B” after “Milestone B” in section catchline.
 
-Subsec. (a). Pub. L. 112–81, § 801(e)(2)(B), struck out “, or Key Decision Point B approval in the case of a space program,” after “Milestone B approval” in introductory provisions.
+Subsec. (a). Pub. L. 112–81, § 801(e)(2)(B), struck out “, or Key Decision Point B approval in the case of a space program,” after “Milestone B approval” in introductory provisions.
 
-Subsec. (a)(3)(D). Pub. L. 111–383, § 901(j)(4), substituted “Assistant Secretary of Defense for Research and Engineering” for “Director of Defense Research and Engineering”.
+Subsec. (a)(3)(D). Pub. L. 111–383, § 901(j)(4), substituted “Assistant Secretary of Defense for Research and Engineering” for “Director of Defense Research and Engineering”.
 
-Subsec. (a)(3)(E) to (G). Pub. L. 112–81, § 801(b)(1), added subpars. (E) and (F) and redesignated former subpar. (E) as (G).
+Subsec. (a)(3)(E) to (G). Pub. L. 112–81, § 801(b)(1), added subpars. (E) and (F) and redesignated former subpar. (E) as (G).
 
-Subsec. (b)(1). Pub. L. 111–383, § 814(c)(1)(A), substituted “any changes to the program or a designated major subprogram of such program” for “any changes to the program” in introductory provisions.
+Subsec. (b)(1). Pub. L. 111–383, § 814(c)(1)(A), substituted “any changes to the program or a designated major subprogram of such program” for “any changes to the program” in introductory provisions.
 
-Subsec. (b)(1)(B). Pub. L. 111–383, § 814(c)(1)(B), substituted “otherwise cause the program or subprogram” for “otherwise cause the program”.
+Subsec. (b)(1)(B). Pub. L. 111–383, § 814(c)(1)(B), substituted “otherwise cause the program or subprogram” for “otherwise cause the program”.
 
-Subsec. (b)(2). Pub. L. 112–81, § 801(e)(2)(C), struck out “(or Key Decision Point B approval in the case of a space program)” after “Milestone B approval”.
+Subsec. (b)(2). Pub. L. 112–81, § 801(e)(2)(C), struck out “(or Key Decision Point B approval in the case of a space program)” after “Milestone B approval”.
 
-Subsec. (d)(1). Pub. L. 112–81, § 801(e)(2)(C), struck out “(or Key Decision Point B approval in the case of a space program)” after “Milestone B approval” in two places.
+Subsec. (d)(1). Pub. L. 112–81, § 801(e)(2)(C), struck out “(or Key Decision Point B approval in the case of a space program)” after “Milestone B approval” in two places.
 
-Pub. L. 111–383, § 813(d)(1)(A), substituted “(as specified in paragraph (1), (2), or (3) of subsection (a))” for “(as specified in paragraph (1) or (2) of subsection (a))”.
+Pub. L. 111–383, § 813(d)(1)(A), substituted “(as specified in paragraph (1), (2), or (3) of subsection (a))” for “(as specified in paragraph (1) or (2) of subsection (a))”.
 
-Subsec. (d)(2)(B). Pub. L. 111–383, § 1075(k)(1), which directed amendment of directory language of Pub. L. 111–23, § 205(a)(1)(B), resulting in substitution of “paragraphs (1), (2), and (3)” for “paragraphs (1) and (2)” in text, was not executed because of the prior identical amendment by Pub. L. 111–383, § 813(d)(1)(B). See below.
+Subsec. (d)(2)(B). Pub. L. 111–383, § 1075(k)(1), which directed amendment of directory language of Pub. L. 111–23, § 205(a)(1)(B), resulting in substitution of “paragraphs (1), (2), and (3)” for “paragraphs (1) and (2)” in text, was not executed because of the prior identical amendment by Pub. L. 111–383, § 813(d)(1)(B). See below.
 
-Pub. L. 111–383, § 813(d)(1)(B), substituted “specified in paragraphs (1), (2), and (3) of subsection (a)” for “specified in paragraphs (1) and (2) of subsection (a)”.
+Pub. L. 111–383, § 813(d)(1)(B), substituted “specified in paragraphs (1), (2), and (3) of subsection (a)” for “specified in paragraphs (1) and (2) of subsection (a)”.
 
-Subsec. (d)(3). Pub. L. 112–81, § 819(b), added par. (3).
+Subsec. (d)(3). Pub. L. 112–81, § 819(b), added par. (3).
 
-Subsec. (g)(2) to (4). Pub. L. 111–383, § 814(c)(2), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
+Subsec. (g)(2) to (4). Pub. L. 111–383, § 814(c)(2), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
 
-Subsec. (g)(5). Pub. L. 112–81, § 801(b)(2), added par. (5) and struck out former par. (5) which read as follows: “The term ‘Key Decision Point B’ means the official program initiation of a National Security Space program of the Department of Defense, which triggers a formal review to determine maturity of technology and the program’s readiness to begin the preliminary system design.”
+Subsec. (g)(5). Pub. L. 112–81, § 801(b)(2), added par. (5) and struck out former par. (5) which read as follows: “The term ‘Key Decision Point B’ means the official program initiation of a National Security Space program of the Department of Defense, which triggers a formal review to determine maturity of technology and the program’s readiness to begin the preliminary system design.”
 
-Pub. L. 111–383, § 814(c)(2)(A), redesignated par. (4) as (5).
+Pub. L. 111–383, § 814(c)(2)(A), redesignated par. (4) as (5).
 
-2009—Subsec. (a)(1)(B). Pub. L. 111–23, § 201(f), inserted “appropriate trade-offs among cost, schedule, and performance objectives have been made to ensure that” before “the program is affordable”.
+2009—Subsec. (a)(1)(B). Pub. L. 111–23, § 201(f), inserted “appropriate trade-offs among cost, schedule, and performance objectives have been made to ensure that” before “the program is affordable”.
 
-Subsec. (a)(1)(C). Pub. L. 111–23, § 101(d)(4), inserted “, with the concurrence of the Director of Cost Assessment and Program Evaluation,” before “the product”.
+Subsec. (a)(1)(C). Pub. L. 111–23, § 101(d)(4), inserted “, with the concurrence of the Director of Cost Assessment and Program Evaluation,” before “the product”.
 
-Subsec. (a)(1)(D). Pub. L. 111–23, § 205(a)(3)(A), struck out “and” at end.
+Subsec. (a)(1)(D). Pub. L. 111–23, § 205(a)(3)(A), struck out “and” at end.
 
-Subsec. (a)(2), (3). Pub. L. 111–23, § 205(a)(3)(B), (C), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (a)(2), (3). Pub. L. 111–23, § 205(a)(3)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (a)(3)(D). Pub. L. 111–23, § 205(a)(3)(D)(i), substituted “, as determined by the Milestone Decision Authority on the basis of an independent review and assessment by the Director of Defense Research and Engineering; and” for semicolon.
+Subsec. (a)(3)(D). Pub. L. 111–23, § 205(a)(3)(D)(i), substituted “, as determined by the Milestone Decision Authority on the basis of an independent review and assessment by the Director of Defense Research and Engineering; and” for semicolon.
 
-Subsec. (a)(3)(E), (F). Pub. L. 111–23, § 205(a)(3)(D)(ii), (iii), redesignated subpar. (F) as (E) and struck out former subpar. (E) which read as follows: “the program demonstrates a high likelihood of accomplishing its intended mission; and”.
+Subsec. (a)(3)(E), (F). Pub. L. 111–23, § 205(a)(3)(D)(ii), (iii), redesignated subpar. (F) as (E) and struck out former subpar. (E) which read as follows: “the program demonstrates a high likelihood of accomplishing its intended mission; and”.
 
-Subsec. (d). Pub. L. 111–23, § 205(a)(1), designated existing provisions as par. (1) and substituted par. (2) for “Whenever the milestone decision authority makes such a determination and authorizes such a waiver, the waiver, the determination, and the reasons for the determination shall be submitted in writing to the congressional defense committees within 30 days after the waiver is authorized.”
+Subsec. (d). Pub. L. 111–23, § 205(a)(1), designated existing provisions as par. (1) and substituted par. (2) for “Whenever the milestone decision authority makes such a determination and authorizes such a waiver, the waiver, the determination, and the reasons for the determination shall be submitted in writing to the congressional defense committees within 30 days after the waiver is authorized.”
 
-Subsecs. (e) to (g). Pub. L. 111–23, § 205(a)(2), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
+Subsecs. (e) to (g). Pub. L. 111–23, § 205(a)(2), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
-2008—Pub. L. 110–417, § 813(a), (b), renumbered section 2366a of this title as this section.
+2008—Pub. L. 110–417, § 813(a), (b), renumbered section 2366a of this title as this section.
 
-Subsec. (a). Pub. L. 110–181, § 812(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) consisted of pars. (1) to (10) relating to required certifications by milestone decision authority for major defense acquisition program to receive Milestone B approval, or Key Decision Point B approval in the case of a space program.
+Subsec. (a). Pub. L. 110–181, § 812(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) consisted of pars. (1) to (10) relating to required certifications by milestone decision authority for major defense acquisition program to receive Milestone B approval, or Key Decision Point B approval in the case of a space program.
 
-Subsec. (b). Pub. L. 110–181, § 812(3), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 110–181, § 812(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 110–181, § 812(4), designated existing provisions as par. (1) and added par. (2).
+Subsec. (c). Pub. L. 110–181, § 812(4), designated existing provisions as par. (1) and added par. (2).
 
-Pub. L. 110–181, § 812(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+Pub. L. 110–181, § 812(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 110–181, § 812(5), substituted “authority may, at the time of Milestone B approval (or Key Decision Point B approval in the case of a space program) or at the time that such milestone decision authority withdraws a certification or rescinds Milestone B approval (or Key Decision Point B approval in the case of a space program) pursuant to subsection (b)(2), waive” for “authority may waive” and “paragraph (1) or (2)” for “paragraph (1), (2), (3), (4), (5), (6), (7), (8), or (9)”.
+Subsec. (d). Pub. L. 110–181, § 812(5), substituted “authority may, at the time of Milestone B approval (or Key Decision Point B approval in the case of a space program) or at the time that such milestone decision authority withdraws a certification or rescinds Milestone B approval (or Key Decision Point B approval in the case of a space program) pursuant to subsection (b)(2), waive” for “authority may waive” and “paragraph (1) or (2)” for “paragraph (1), (2), (3), (4), (5), (6), (7), (8), or (9)”.
 
-Pub. L. 110–181, § 812(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Pub. L. 110–181, § 812(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 110–181, § 812(6), substituted “subsection (d)” for “subsection (c)”.
+Subsec. (e). Pub. L. 110–181, § 812(6), substituted “subsection (d)” for “subsection (c)”.
 
-Pub. L. 110–181, § 812(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Pub. L. 110–181, § 812(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 110–181, § 812(2), redesignated subsec. (e) as (f).
+Subsec. (f). Pub. L. 110–181, § 812(2), redesignated subsec. (e) as (f).
 
-2006—Subsec. (a)(1) to (7). Pub. L. 109–364, § 805(a)(1)–(3), added par. (1) and redesignated former pars. (1) to (6) as (2) to (7), respectively. Former par. (7) redesignated (10).
+2006—Subsec. (a)(1) to (7). Pub. L. 109–364, § 805(a)(1)–(3), added par. (1) and redesignated former pars. (1) to (6) as (2) to (7), respectively. Former par. (7) redesignated (10).
 
-Subsec. (a)(8), (9). Pub. L. 109–364, § 805(a)(4), (5), added pars. (8) and (9).
+Subsec. (a)(8), (9). Pub. L. 109–364, § 805(a)(4), (5), added pars. (8) and (9).
 
-Subsec. (a)(10). Pub. L. 109–364, § 805(a)(1), redesignated par. (7) as (10).
+Subsec. (a)(10). Pub. L. 109–364, § 805(a)(1), redesignated par. (7) as (10).
 
-Subsec. (c). Pub. L. 109–364, § 805(b), substituted “(5), (6), (7), (8), or (9)” for “(5), or (6)”.
+Subsec. (c). Pub. L. 109–364, § 805(b), substituted “(5), (6), (7), (8), or (9)” for “(5), or (6)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1173,27 +1173,27 @@ Amendment by sections 1847(d)(2) and 1883(b)(2) of Pub. L. 116–283 effective J
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–91, div. A, title VIII, § 835(b)(2), Dec. 12, 2017, 131 Stat. 1471, provided that: “Section 2366b(a)(3)(O) of title 10, United States Code [now 10 U.S.C. 4252(a)(3)(O)], as added by paragraph (1), shall apply with respect to any major defense acquisition program receiving Milestone B approval on or after the date occurring one year after the date of the enactment of this Act [Dec. 12, 2017].”
+Pub. L. 115–91, div. A, title VIII, § 835(b)(2), Dec. 12, 2017, 131 Stat. 1471, provided that: “Section 2366b(a)(3)(O) of title 10, United States Code [now 10 U.S.C. 4252(a)(3)(O)], as added by paragraph (1), shall apply with respect to any major defense acquisition program receiving Milestone B approval on or after the date occurring one year after the date of the enactment of this Act [Dec. 12, 2017].”
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 113–66, div. A, title VIII, § 821(b), Dec. 26, 2013, 127 Stat. 809, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 26, 2013], and shall apply with respect to major defense acquisition programs which are subject to Milestone B approval on or after the date occurring six months after the date of the enactment of this Act.”
+Pub. L. 113–66, div. A, title VIII, § 821(b), Dec. 26, 2013, 127 Stat. 809, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 26, 2013], and shall apply with respect to major defense acquisition programs which are subject to Milestone B approval on or after the date occurring six months after the date of the enactment of this Act.”
 
-Pub. L. 113–66, div. A, title X, § 1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment made by section 1091(b)(1) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.
+Pub. L. 113–66, div. A, title X, § 1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment made by section 1091(b)(1) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.
 
 Amendment by section 322(e)(2) of Pub. L. 112–239 effective Dec. 31, 2011, immediately after enactment of Pub. L. 112–81, see section 322(f) of Pub. L. 112–239, set out as an note under section 4251 of this title.
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 111–383, div. A, title VIII, § 813(d)(1), Jan. 7, 2011, 124 Stat. 4265, provided that the amendment made by section 813(d)(1) is effective as of May 22, 2009.
+Pub. L. 111–383, div. A, title VIII, § 813(d)(1), Jan. 7, 2011, 124 Stat. 4265, provided that the amendment made by section 813(d)(1) is effective as of May 22, 2009.
 
 Amendment by section 901(j)(4) of Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as a note under section 131 of this title.
 
-Pub. L. 111–383, div. A, title X, § 1075(k), Jan. 7, 2011, 124 Stat. 4378, provided that the amendment made by section 1075(k)(1) is effective as of May 22, 2009, and as if included in Pub. L. 111–23 as enacted.
+Pub. L. 111–383, div. A, title X, § 1075(k), Jan. 7, 2011, 124 Stat. 4378, provided that the amendment made by section 1075(k)(1) is effective as of May 22, 2009, and as if included in Pub. L. 111–23 as enacted.
 
 **Responsibility for Conducting Assessments**
 
-Pub. L. 115–91, div. A, title VIII, § 838(a)(3), Dec. 12, 2017, 131 Stat. 1474, provided that:
+Pub. L. 115–91, div. A, title VIII, § 838(a)(3), Dec. 12, 2017, 131 Stat. 1474, provided that:
 
 > “For purposes of the sufficiency assessments required by section 2366b(c)(1) [now 10 U.S.C. 4252(c)(1)] and section 2366c(a)(4) [now 10 U.S.C. 4253(a)(4)] of such title [meaning title 10, United States Code], as added by paragraphs (1) and (2), with respect to a major defense acquisition program—
 
@@ -1203,7 +1203,7 @@ Pub. L. 115–91, div. A, title VIII, § 838(a)(3), Dec. 12, 2017, 131 Stat. 1
 
 **Guidance**
 
-Pub. L. 115–91, div. A, title VIII, § 838(a)(4), Dec. 12, 2017, 131 Stat. 1475, provided that:
+Pub. L. 115–91, div. A, title VIII, § 838(a)(4), Dec. 12, 2017, 131 Stat. 1475, provided that:
 
 > “Within one year after the date of the enactment of this Act [Dec. 12, 2017], the senior Department of Defense official with responsibility for developmental testing shall develop guidance for the sufficiency assessments required by section 2366b(c)(1) and section 2366c(a)(4) of title 10, United States Code [now 10 U.S.C. 4252(c)(1) and 4253(a)(4)], as added by paragraphs (1) and (2). At a minimum, the guidance shall require—
 
@@ -1233,11 +1233,11 @@ Pub. L. 115–91, div. A, title VIII, § 838(a)(4), Dec. 12, 2017, 131 Stat. 1
 
 **Milestone B Decisions**
 
-Pub. L. 114–92, div. A, title VIII, § 802(d)(3), Nov. 25, 2015, 129 Stat. 880, provided that: “The Chief of the Armed Force concerned shall advise the milestone decision authority for a major defense acquisition program of the Chief’s views on cost, schedule, technical feasibility, and performance trade-offs that have been made with regard to the program, as provided in section 2366b(b)(3) of title 10, United States Code [now 10 U.S.C. 4252(b)(3)], as amended by section 824 of this Act, prior to a Milestone B decision on the program.”
+Pub. L. 114–92, div. A, title VIII, § 802(d)(3), Nov. 25, 2015, 129 Stat. 880, provided that: “The Chief of the Armed Force concerned shall advise the milestone decision authority for a major defense acquisition program of the Chief’s views on cost, schedule, technical feasibility, and performance trade-offs that have been made with regard to the program, as provided in section 2366b(b)(3) of title 10, United States Code [now 10 U.S.C. 4252(b)(3)], as amended by section 824 of this Act, prior to a Milestone B decision on the program.”
 
 **Formal Review Process for Bandwidth Requirements**
 
-Pub. L. 110–417, [div. A], title X, § 1047(d), Oct. 14, 2008, 122 Stat. 4603, as amended by Pub. L. 111–84, div. A, title X, § 1033, Oct. 28, 2009, 123 Stat. 2449; Pub. L. 115–232, div. A, title VIII, § 813(c), Aug. 13, 2018, 132 Stat. 1851, provided that:
+Pub. L. 110–417, [div. A], title X, § 1047(d), Oct. 14, 2008, 122 Stat. 4603, as amended by Pub. L. 111–84, div. A, title X, § 1033, Oct. 28, 2009, 123 Stat. 2449; Pub. L. 115–232, div. A, title VIII, § 813(c), Aug. 13, 2018, 132 Stat. 1851, provided that:
 
 > “The Secretary of Defense and the Director of National Intelligence shall, as part of the Milestone B or Key Decision Point B approval process for any major defense acquisition program or major system acquisition program, establish a formal review process to ensure that—
 
@@ -1245,7 +1245,7 @@ Pub. L. 110–417, [div. A], title X, § 1047(d), Oct. 14, 2008, 122 Stat. 460
 
 > **“(B)** a determination will be made with respect to how to meet the bandwidth requirements for such program.”
 
-### § 4253. Major defense acquisition programs: submissions to Congress on Milestone C
+### § 4253. Major defense acquisition programs: submissions to Congress on Milestone C
 
 **(a) Brief Summary Report.—** Not later than 15 days after granting Milestone C approval for a major defense acquisition program, the milestone decision authority for the program shall provide to the congressional defense committees and, in the case of intelligence or intelligence-related activities, the congressional intelligence committees a brief summary report that contains the following:
 
@@ -1269,7 +1269,7 @@ Pub. L. 110–417, [div. A], title X, § 1047(d), Oct. 14, 2008, 122 Stat. 460
 
 **(c) Congressional Intelligence Committees Defined.—** In this section, the term “congressional intelligence committees” has the meaning given that term in section 437(c) of this title.
 
-(Added Pub. L. 114–328, div. A, title VIII, § 808(c)(1), Dec. 23, 2016, 130 Stat. 2265, § 2366c; amended Pub. L. 115–91, div. A, title VIII, § 838(a)(2), Dec. 12, 2017, 131 Stat. 1474; renumbered § 4253 and amended Pub. L. 116–283, div. A, title XVIII, § 1847(d)(3), Jan. 1, 2021, 134 Stat. 4256.)
+(Added Pub. L. 114–328, div. A, title VIII, § 808(c)(1), Dec. 23, 2016, 130 Stat. 2265, § 2366c; amended Pub. L. 115–91, div. A, title VIII, § 838(a)(2), Dec. 12, 2017, 131 Stat. 1474; renumbered § 4253 and amended Pub. L. 116–283, div. A, title XVIII, § 1847(d)(3), Jan. 1, 2021, 134 Stat. 4256.)
 
 **Editorial Notes**
 
@@ -1295,9 +1295,9 @@ For provisions designating officials responsible for conducting assessments and 
 
 **Amendments**
 
-2021—Pub. L. 117–81, div. A, title XVII, § 1701(r)(1)(A), Dec. 27, 2021, 135 Stat. 2149, amended Pub. L. 116–283, div. A, title XVIII. § 1847(a), Jan. 1, 2021, 134 Stat. 4253, which added this analysis, by substituting “[Reserved]” for “Acquisition-related functions of chiefs: adherence to requirements in major defense acquisition programs” in item 4274.
+2021—Pub. L. 117–81, div. A, title XVII, § 1701(r)(1)(A), Dec. 27, 2021, 135 Stat. 2149, amended Pub. L. 116–283, div. A, title XVIII. § 1847(a), Jan. 1, 2021, 134 Stat. 4253, which added this analysis, by substituting “[Reserved]” for “Acquisition-related functions of chiefs: adherence to requirements in major defense acquisition programs” in item 4274.
 
-### § 4271. Program cost, fielding, and performance goals in planning major defense acquisition programs
+### § 4271. Program cost, fielding, and performance goals in planning major defense acquisition programs
 
 **(a) Program Cost and Fielding Targets.—**
 
@@ -1323,21 +1323,21 @@ For provisions designating officials responsible for conducting assessments and 
 
 **(2)** The term “initial capabilities document” has the meaning provided in section 4251(d)(1) of this title.
 
-(Added Pub. L. 114–328, div. A, title VIII, § 807(a)(1), Dec. 23, 2016, 130 Stat. 2260, § 2448a; amended Pub. L. 115–232, div. A, title VIII, § 831(a), Aug. 13, 2018, 132 Stat. 1857; renumbered § 4271 and amended Pub. L. 116–283, div. A, title XVIII, § 1847(e)(1), Jan. 1, 2021, 134 Stat. 4256; Pub. L. 117–81, div. A, title XVII, § 1701(*o*)(6)(C)(iv), Dec. 27, 2021, 135 Stat. 2147.)
+(Added Pub. L. 114–328, div. A, title VIII, § 807(a)(1), Dec. 23, 2016, 130 Stat. 2260, § 2448a; amended Pub. L. 115–232, div. A, title VIII, § 831(a), Aug. 13, 2018, 132 Stat. 1857; renumbered § 4271 and amended Pub. L. 116–283, div. A, title XVIII, § 1847(e)(1), Jan. 1, 2021, 134 Stat. 4256; Pub. L. 117–81, div. A, title XVII, § 1701(*o*)(6)(C)(iv), Dec. 27, 2021, 135 Stat. 2147.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1847(e)(1), renumbered section 2448a of this title as the section.
+2021—Pub. L. 116–283, § 1847(e)(1), renumbered section 2448a of this title as the section.
 
-Subsec. (b)(1). Pub. L. 116–283, § 1847(e)(1)(A), as amended by Pub. L. 117–81, § 1701(*o*)(6)(C)(iv), substituted “section 4351(a)(2)” for “section 2432(a)(2)”.
+Subsec. (b)(1). Pub. L. 116–283, § 1847(e)(1)(A), as amended by Pub. L. 117–81, § 1701(*o*)(6)(C)(iv), substituted “section 4351(a)(2)” for “section 2432(a)(2)”.
 
-Subsec. (b)(2). Pub. L. 116–283, § 1847(e)(1)(B), substituted “section 4251(d)(1)” for “section 2366a(d)(2)”.
+Subsec. (b)(2). Pub. L. 116–283, § 1847(e)(1)(B), substituted “section 4251(d)(1)” for “section 2366a(d)(2)”.
 
-2018—Subsec. (a)(1). Pub. L. 115–232, § 831(a)(1), (2), in introductory provisions, substituted “designated milestone decision authority for the program shall ensure, by establishing the goals described in paragraph (2), that the program” for “Secretary of Defense shall ensure, by establishing the goals described in paragraph (2), that the milestone decision authority for the major defense acquisition program approves a program that”.
+2018—Subsec. (a)(1). Pub. L. 115–232, § 831(a)(1), (2), in introductory provisions, substituted “designated milestone decision authority for the program shall ensure, by establishing the goals described in paragraph (2), that the program” for “Secretary of Defense shall ensure, by establishing the goals described in paragraph (2), that the milestone decision authority for the major defense acquisition program approves a program that”.
 
-Subsecs. (b), (c). Pub. L. 115–232, § 831(a)(3), (4), redesignated subsec. (c) as (b) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “The responsibilities of the Secretary of Defense in subsection (a) may be delegated only to the Deputy Secretary of Defense.”
+Subsecs. (b), (c). Pub. L. 115–232, § 831(a)(3), (4), redesignated subsec. (c) as (b) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “The responsibilities of the Secretary of Defense in subsection (a) may be delegated only to the Deputy Secretary of Defense.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1349,23 +1349,23 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Effective Date**
 
-Pub. L. 114–328, div. A, title VIII, § 807(a)(2), Dec. 23, 2016, 130 Stat. 2261, provided that: “[Former] Subchapter III of chapter 144B of title 10, United States Code [see 10 U.S.C. 4271, 4272], as added by paragraph (1), shall apply with respect to major defense acquisition programs that reach Milestone A after October 1, 2017.”
+Pub. L. 114–328, div. A, title VIII, § 807(a)(2), Dec. 23, 2016, 130 Stat. 2261, provided that: “[Former] Subchapter III of chapter 144B of title 10, United States Code [see 10 U.S.C. 4271, 4272], as added by paragraph (1), shall apply with respect to major defense acquisition programs that reach Milestone A after October 1, 2017.”
 
 **Program Cost and Field Targets**
 
-Pub. L. 114–328, div. A, title IX, § 925(b), Dec. 23, 2016, 130 Stat. 2361, as amended by Pub. L. 115–232, div. A, title VIII, § 831(b)(4), Aug. 13, 2018, 132 Stat. 1857, which required the establishment of a process to develop program cost and fielding targets pursuant to section 4271 of this title, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(7), Dec. 18, 2025, 139 Stat. 948.
+Pub. L. 114–328, div. A, title IX, § 925(b), Dec. 23, 2016, 130 Stat. 2361, as amended by Pub. L. 115–232, div. A, title VIII, § 831(b)(4), Aug. 13, 2018, 132 Stat. 1857, which required the establishment of a process to develop program cost and fielding targets pursuant to section 4271 of this title, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(7), Dec. 18, 2025, 139 Stat. 948.
 
 **Configuration Steering Boards for Cost Control Under Major Defense Acquisition Programs**
 
-Pub. L. 110–417, [div. A], title VIII, § 814, Oct. 14, 2008, 122 Stat. 4528, as amended by Pub. L. 114–92, div. A, title VIII, § 830, Nov. 25, 2015, 129 Stat. 912; Pub. L. 115–91, div. A, title VIII, § 826, Dec. 12, 2017, 131 Stat. 1467; Pub. L. 116–92, div. A, title IX, § 902(67), Dec. 20, 2019, 133 Stat. 1550, which required each Secretary of a military department to establish one or more Configuration Steering Boards for the major defense acquisition programs of such department, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(14)(D), Dec. 18, 2025, 139 Stat. 949.
+Pub. L. 110–417, [div. A], title VIII, § 814, Oct. 14, 2008, 122 Stat. 4528, as amended by Pub. L. 114–92, div. A, title VIII, § 830, Nov. 25, 2015, 129 Stat. 912; Pub. L. 115–91, div. A, title VIII, § 826, Dec. 12, 2017, 131 Stat. 1467; Pub. L. 116–92, div. A, title IX, § 902(67), Dec. 20, 2019, 133 Stat. 1550, which required each Secretary of a military department to establish one or more Configuration Steering Boards for the major defense acquisition programs of such department, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(14)(D), Dec. 18, 2025, 139 Stat. 949.
 
-### § 4272. Independent technical risk assessments
+### § 4272. Independent technical risk assessments
 
 **(a) In General.—** With respect to a major defense acquisition program, the Secretary of Defense shall conduct or approve independent technical risk assessments before any decision to grant Milestone B approval for the program pursuant to section 4252 of this title, any decision to enter into low-rate initial production or full-rate production, or at any other time considered appropriate by the Secretary, that includes the identification of any critical technologies or manufacturing processes that have not been successfully demonstrated in a relevant environment.
 
 **(b) Guidance.—** The Secretary shall issue guidance and a framework for the conduct, execution, and approval of independent technical risk assessments.
 
-(Added Pub. L. 114–328, div. A, title VIII, § 807(a)(1), Dec. 23, 2016, 130 Stat. 2261, § 2448b; amended Pub. L. 116–92, div. A, title IX, § 902(73), Dec. 20, 2019, 133 Stat. 1552; renumbered § 4272 and amended Pub. L. 116–283, div. A, title XVIII, § 1847(e)(2), Jan. 1, 2021, 134 Stat. 4256; Pub. L. 118–159, div. A, title VIII, § 806(b)(1), Dec. 23, 2024, 138 Stat. 1974.)
+(Added Pub. L. 114–328, div. A, title VIII, § 807(a)(1), Dec. 23, 2016, 130 Stat. 2261, § 2448b; amended Pub. L. 116–92, div. A, title IX, § 902(73), Dec. 20, 2019, 133 Stat. 1552; renumbered § 4272 and amended Pub. L. 116–283, div. A, title XVIII, § 1847(e)(2), Jan. 1, 2021, 134 Stat. 4256; Pub. L. 118–159, div. A, title VIII, § 806(b)(1), Dec. 23, 2024, 138 Stat. 1974.)
 
 **Editorial Notes**
 
@@ -1373,11 +1373,11 @@ Pub. L. 110–417, [div. A], title VIII, § 814, Oct. 14, 2008, 122 Stat. 4528
 
 2024—Subsec. (a). Pub. L. 118–159 struck out dash after “risk assessments” and par. (2) designation before “before any decision” and struck out par. (1) which read as follows: “before any decision to grant Milestone A approval for the program pursuant to section 4251 of this title, that identifies critical technologies and manufacturing processes that need to be matured; and”.
 
-2021—Pub. L. 116–283, § 1847(e)(2), renumbered section 2448b of this title as this section.
+2021—Pub. L. 116–283, § 1847(e)(2), renumbered section 2448b of this title as this section.
 
-Subsec. (a)(1). Pub. L. 116–283, § 1847(e)(2)(A), substituted “section 4251” for “section 2366a”.
+Subsec. (a)(1). Pub. L. 116–283, § 1847(e)(2)(A), substituted “section 4251” for “section 2366a”.
 
-Subsec. (a)(2). Pub. L. 116–283, § 1847(e)(2)(B), substituted “section 4252” for “section 2366b”.
+Subsec. (a)(2). Pub. L. 116–283, § 1847(e)(2)(B), substituted “section 4252” for “section 2366b”.
 
 2019—Pub. L. 116–92 added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 
@@ -1399,7 +1399,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 Section applicable with respect to major defense acquisition programs that reach Milestone A after Oct. 1, 2017, see section 807(a)(2) of Pub. L. 114–328, set out as a note under section 4271 of this title.
 
-### § 4273. Performance assessments and root cause analyses
+### § 4273. Performance assessments and root cause analyses
 
 **(a) Designation of Senior Official Responsibility for Performance Assessments and Root Cause Analyses.—**
 
@@ -1453,13 +1453,13 @@ Section applicable with respect to major defense acquisition programs that reach
 
 **(e) Support of Applicable Capabilities and Expertise.—** The Secretary of Defense shall ensure that the senior official designated under subsection (a) has the support of other Department of Defense officials with relevant capabilities and expertise needed to carry out the requirements of this section.
 
-(Added and amended Pub. L. 111–383, div. A, title IX, § 901(d), (k)(1)(F), Jan. 7, 2011, 124 Stat. 4321, 4325, § 2438; Pub. L. 112–239, div. A, title X, § 1076(f)(27), Jan. 2, 2013, 126 Stat. 1953; Pub. L. 114–92, div. A, title X, § 1077(b), Nov. 25, 2015, 129 Stat. 998; Pub. L. 116–92, div. A, title IX, § 902(72), Dec. 20, 2019, 133 Stat. 1551; renumbered § 4273 and amended Pub. L. 116–283, div. A, title XVIII, § 1847(e)(3), Jan. 1, 2021, 134 Stat. 4256; Pub. L. 117–81, div. A, title XVII, § 1701(b)(16)(B), Dec. 27, 2021, 135 Stat. 2134; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(34), Dec. 22, 2023, 137 Stat. 685; Pub. L. 118–159, div. A, title XVII, § 1701(a)(44), Dec. 23, 2024, 138 Stat. 2206.)
+(Added and amended Pub. L. 111–383, div. A, title IX, § 901(d), (k)(1)(F), Jan. 7, 2011, 124 Stat. 4321, 4325, § 2438; Pub. L. 112–239, div. A, title X, § 1076(f)(27), Jan. 2, 2013, 126 Stat. 1953; Pub. L. 114–92, div. A, title X, § 1077(b), Nov. 25, 2015, 129 Stat. 998; Pub. L. 116–92, div. A, title IX, § 902(72), Dec. 20, 2019, 133 Stat. 1551; renumbered § 4273 and amended Pub. L. 116–283, div. A, title XVIII, § 1847(e)(3), Jan. 1, 2021, 134 Stat. 4256; Pub. L. 117–81, div. A, title XVII, § 1701(b)(16)(B), Dec. 27, 2021, 135 Stat. 2134; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(34), Dec. 22, 2023, 137 Stat. 685; Pub. L. 118–159, div. A, title XVII, § 1701(a)(44), Dec. 23, 2024, 138 Stat. 2206.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section 103 of Pub. L. 111–23, formerly set out as a note under section 2430 of this title, which was transferred to chapter 144 of this title, renumbered as section 2438, and amended by Pub. L. 111–383, § 901(d), (k)(1)(F), and subsequently renumbered as this section and amended by Pub. L. 116–283, § 1847(e)(3), was based on Pub. L. 111–23, title I, § 103, May 22, 2009, 123 Stat. 1715.
+Section 103 of Pub. L. 111–23, formerly set out as a note under section 2430 of this title, which was transferred to chapter 144 of this title, renumbered as section 2438, and amended by Pub. L. 111–383, § 901(d), (k)(1)(F), and subsequently renumbered as this section and amended by Pub. L. 116–283, § 1847(e)(3), was based on Pub. L. 111–23, title I, § 103, May 22, 2009, 123 Stat. 1715.
 
 **Amendments**
 
@@ -1467,13 +1467,13 @@ Section 103 of Pub. L. 111–23, formerly set out as a note under section 2430 o
 
 2023—Subsec. (b)(5)(A). Pub. L. 118–31 substituted “sections 4376” for “sections 4736”.
 
-2021—Pub. L. 116–283, § 1847(e)(3), renumbered section 2438 of this title as this section.
+2021—Pub. L. 116–283, § 1847(e)(3), renumbered section 2438 of this title as this section.
 
-Subsec. (b)(2). Pub. L. 116–283, § 1847(e)(3)(A), as amended by Pub. L. 117–81, § 1701(b)(16)(B), substituted “section 4376(a)(1)” for “section 2433a(a)(1)”.
+Subsec. (b)(2). Pub. L. 116–283, § 1847(e)(3)(A), as amended by Pub. L. 117–81, § 1701(b)(16)(B), substituted “section 4376(a)(1)” for “section 2433a(a)(1)”.
 
-Subsec. (b)(5)(A). Pub. L. 116–283, § 1847(e)(3)(B), substituted “sections 4736 and 4377” for “section 2433a”.
+Subsec. (b)(5)(A). Pub. L. 116–283, § 1847(e)(3)(B), substituted “sections 4736 and 4377” for “section 2433a”.
 
-Subsec. (d). Pub. L. 116–283, § 1847(e)(3)(B), substituted “sections 4736 and 4377” for “section 2433a” in introductory provisions.
+Subsec. (d). Pub. L. 116–283, § 1847(e)(3)(B), substituted “sections 4736 and 4377” for “section 2433a” in introductory provisions.
 
 2019—Subsec. (b)(1), (2). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology and Logistics”.
 
@@ -1481,19 +1481,19 @@ Subsec. (d). Pub. L. 116–283, § 1847(e)(3)(B), substituted “sections 4736
 
 2013—Subsec. (a)(3). Pub. L. 112–239 inserted “the senior” before “official’s”.
 
-2011—Pub. L. 111–383, § 901(k)(1)(F), substituted “Performance assessments and root cause analyses” for “performance assessments and root cause analyses for major defense acquisition programs” in section catchline.
+2011—Pub. L. 111–383, § 901(k)(1)(F), substituted “Performance assessments and root cause analyses” for “performance assessments and root cause analyses for major defense acquisition programs” in section catchline.
 
-Pub. L. 111–383, § 901(d), transferred section 103 of Pub. L. 111–23 to this chapter and renumbered it as this section. See Codification note above.
+Pub. L. 111–383, § 901(d), transferred section 103 of Pub. L. 111–23 to this chapter and renumbered it as this section. See Codification note above.
 
-Subsec. (b)(2). Pub. L. 111–383, § 901(d)(1), substituted “section 2433a(a)(1) of this title” for “section 2433a(a)(1) of title 10, United States Code (as added by section 206(a) of this Act)”.
+Subsec. (b)(2). Pub. L. 111–383, § 901(d)(1), substituted “section 2433a(a)(1) of this title” for “section 2433a(a)(1) of title 10, United States Code (as added by section 206(a) of this Act)”.
 
-Subsec. (b)(5)(A). Pub. L. 111–383, § 901(d)(2), substituted “before” for “prior to” and “section 2433a of this title” for “section 2433a of title 10, United States Code (as so added)”.
+Subsec. (b)(5)(A). Pub. L. 111–383, § 901(d)(2), substituted “before” for “prior to” and “section 2433a of this title” for “section 2433a of title 10, United States Code (as so added)”.
 
-Subsec. (b)(5)(B). Pub. L. 111–383, § 901(d)(2)(B), substituted “before” for “prior to”.
+Subsec. (b)(5)(B). Pub. L. 111–383, § 901(d)(2)(B), substituted “before” for “prior to”.
 
-Subsec. (d). Pub. L. 111–383, § 901(d)(3), substituted “section 2433a of this title” for “section 2433a of title 10, United States Code (as so added)” in introductory provisions.
+Subsec. (d). Pub. L. 111–383, § 901(d)(3), substituted “section 2433a of this title” for “section 2433a of title 10, United States Code (as so added)” in introductory provisions.
 
-Subsec. (f). Pub. L. 111–383, § 901(d)(4), struck out “beginning in 2010,” after “each year,”.
+Subsec. (f). Pub. L. 111–383, § 901(d)(4), struck out “beginning in 2010,” after “each year,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1507,13 +1507,13 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as an Effective Date of 2011 Amendment note under section 131 of this title.
 
-### [§ 4274. Omitted]
+### [§ 4274. Omitted]
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 116–283, div. A, title XVIII, § 1847(e)(4), (5), Jan. 1, 2021, 134 Stat. 4256, 4257, enacted this section, transferred subsec. (b) of section 2547 of this title to this section, and made additional amendments, which were all to become effective Jan. 1, 2022. Subsequently, Pub. L. 117–81, div. A, title XVII, § 1701(r)(1)(B), Dec. 27, 2021, 135 Stat. 2149, repealed section 1847(e)(4), (5) of Pub. L. 116–283, effective as if included therein, thereby omitting this section and eliminating the amendments before they took effect.
+Pub. L. 116–283, div. A, title XVIII, § 1847(e)(4), (5), Jan. 1, 2021, 134 Stat. 4256, 4257, enacted this section, transferred subsec. (b) of section 2547 of this title to this section, and made additional amendments, which were all to become effective Jan. 1, 2022. Subsequently, Pub. L. 117–81, div. A, title XVII, § 1701(r)(1)(B), Dec. 27, 2021, 135 Stat. 2149, repealed section 1847(e)(4), (5) of Pub. L. 116–283, effective as if included therein, thereby omitting this section and eliminating the amendments before they took effect.
 
 ## SUBCHAPTER V—CONTRACTORS
 
@@ -1521,7 +1521,7 @@ Pub. L. 116–283, div. A, title XVIII, § 1847(e)(4), (5), Jan. 1, 2021, 134 
 
 **Program for Distribution Support and Services for Contractors**
 
-Pub. L. 114–328, div. A, title VIII, § 883, Dec. 23, 2016, 130 Stat. 2316, as amended by Pub. L. 117–263, div. A, title VIII, § 819, Dec. 23, 2022, 136 Stat. 2709; Pub. L. 118–31, div. A, title VIII, § 855, Dec. 22, 2023, 137 Stat. 345; Pub. L. 118–159, div. A, title VIII, § 862, Dec. 23, 2024, 138 Stat. 2000, provided that:
+Pub. L. 114–328, div. A, title VIII, § 883, Dec. 23, 2016, 130 Stat. 2316, as amended by Pub. L. 117–263, div. A, title VIII, § 819, Dec. 23, 2022, 136 Stat. 2709; Pub. L. 118–31, div. A, title VIII, § 855, Dec. 22, 2023, 137 Stat. 345; Pub. L. 118–159, div. A, title VIII, § 862, Dec. 23, 2024, 138 Stat. 2000, provided that:
 
 > **“(a) Authority.—** The Secretary of Defense may carry out a program under which the Secretary may make available storage and distribution services support to a contractor in support of the performance by the contractor of a contract entered into by the Department of Defense.
 
@@ -1559,7 +1559,7 @@ Pub. L. 114–328, div. A, title VIII, § 883, Dec. 23, 2016, 130 Stat. 2316, 
 
 **Nontraditional and Small Contractor Innovation Prototyping Program**
 
-Pub. L. 114–328, div. A, title VIII, § 884, Dec. 23, 2016, 130 Stat. 2318, as amended by Pub. L. 115–91, div. A, title VIII, § 865, Dec. 12, 2017, 131 Stat. 1495; Pub. L. 116–283, div. A, title XVIII, § 1806(e)(3)(D), Jan. 1, 2021, 134 Stat. 4156; Pub. L. 118–159, div. A, title VIII, § 804(c)(8), Dec. 23, 2024, 138 Stat. 1969, provided that:
+Pub. L. 114–328, div. A, title VIII, § 884, Dec. 23, 2016, 130 Stat. 2318, as amended by Pub. L. 115–91, div. A, title VIII, § 865, Dec. 12, 2017, 131 Stat. 1495; Pub. L. 116–283, div. A, title XVIII, § 1806(e)(3)(D), Jan. 1, 2021, 134 Stat. 4156; Pub. L. 118–159, div. A, title VIII, § 804(c)(8), Dec. 23, 2024, 138 Stat. 1969, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall conduct a pilot program for nontraditional defense contractors and small business concerns to design, develop, and demonstrate innovative prototype military platforms of significant scope for the purpose of demonstrating new capabilities that could provide alternatives to existing acquisition programs and assets. The Secretary shall establish the pilot program within the Departments of the Army, Navy, and Air Force, the Missile Defense Agency, and the United States Special Operations Command.
 
@@ -1613,9 +1613,9 @@ Pub. L. 114–328, div. A, title VIII, § 884, Dec. 23, 2016, 130 Stat. 2318, 
 
 **Organizational Conflicts of Interest in Major Defense Acquisition Programs**
 
-Pub. L. 111–23, title II, § 207(a)–(c), May 22, 2009, 123 Stat. 1728, 1729, directed the Secretary of Defense to revise, not later than 270 days after May 22, 2009, the Defense Supplement to the Federal Acquisition Regulation to provide uniform guidance and tighten existing requirements for organizational conflicts of interest by contractors in major defense acquisition programs and directed the Panel on Contracting Integrity established pursuant to former section 813 of Pub. L. 109–364 (former 10 U.S.C. 2304 note) to present recommendations on measures to eliminate or mitigate organizational conflicts of interest in major defense acquisition programs.
+Pub. L. 111–23, title II, § 207(a)–(c), May 22, 2009, 123 Stat. 1728, 1729, directed the Secretary of Defense to revise, not later than 270 days after May 22, 2009, the Defense Supplement to the Federal Acquisition Regulation to provide uniform guidance and tighten existing requirements for organizational conflicts of interest by contractors in major defense acquisition programs and directed the Panel on Contracting Integrity established pursuant to former section 813 of Pub. L. 109–364 (former 10 U.S.C. 2304 note) to present recommendations on measures to eliminate or mitigate organizational conflicts of interest in major defense acquisition programs.
 
-### § 4292. Contracts: limitations on lead system integrators
+### § 4292. Contracts: limitations on lead system integrators
 
 **(a) In General.—** Except as provided in subsection (b), no entity performing lead system integrator functions in the acquisition of a major system by the Department of Defense may have any direct financial interest in the development or construction of any individual system or element of any system of systems.
 
@@ -1631,7 +1631,7 @@ Pub. L. 111–23, title II, § 207(a)–(c), May 22, 2009, 123 Stat. 1728, 172
 
 **(c) Construction.—** Nothing in this section shall be construed to preclude an entity described in subsection (a) from performing work necessary to integrate two or more individual systems or elements of a system of systems with each other.
 
-(Added Pub. L. 109–364, div. A, title VIII, § 807(a)(1), Oct. 17, 2006, 120 Stat. 2315, § 2410p; renumbered § 4292, Pub. L. 116–283, div. A, title XVIII, § 1847(f)(1), Jan. 1, 2021, 134 Stat. 4258.)
+(Added Pub. L. 109–364, div. A, title VIII, § 807(a)(1), Oct. 17, 2006, 120 Stat. 2315, § 2410p; renumbered § 4292, Pub. L. 116–283, div. A, title XVIII, § 1847(f)(1), Jan. 1, 2021, 134 Stat. 4258.)
 
 **Editorial Notes**
 
@@ -1647,11 +1647,11 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Effective Date**
 
-Pub. L. 109–364, div. A, title VIII, § 807(a)(3), Oct. 17, 2006, 120 Stat. 2316, provided that: “Section 2410p of title 10, United States Code [now 10 U.S.C. 4292], as added by paragraph (1), shall apply with respect to contracts entered into after December 31, 2006.”
+Pub. L. 109–364, div. A, title VIII, § 807(a)(3), Oct. 17, 2006, 120 Stat. 2316, provided that: “Section 2410p of title 10, United States Code [now 10 U.S.C. 4292], as added by paragraph (1), shall apply with respect to contracts entered into after December 31, 2006.”
 
 **Prohibition on New Lead Systems Integrators**
 
-Pub. L. 110–181, div. A, title VIII, § 802, Jan. 28, 2008, 122 Stat. 206, as amended by Pub. L. 110–417, [div. A], title I, § 112, Oct. 14, 2008, 122 Stat. 4374; Pub. L. 116–92, div. A, title IX, § 902(100), Dec. 20, 2019, 133 Stat. 1555, provided that:
+Pub. L. 110–181, div. A, title VIII, § 802, Jan. 28, 2008, 122 Stat. 206, as amended by Pub. L. 110–417, [div. A], title I, § 112, Oct. 14, 2008, 122 Stat. 4374; Pub. L. 116–92, div. A, title IX, § 902(100), Dec. 20, 2019, 133 Stat. 1555, provided that:
 
 > **“(a) Prohibitions on the Use of Lead Systems Integrators.—**
 
@@ -1713,7 +1713,7 @@ Pub. L. 110–181, div. A, title VIII, § 802, Jan. 28, 2008, 122 Stat. 206, a
 
 > **“(2) New contracts.—** In applying subsection (a)(1) or (a)(2), any modification to the existing contract for the Future Combat Systems program, for the purpose of entering into full-rate production of major systems or subsystems, shall be considered a new contract.”
 
-### § 4293. Major defense acquisition programs: incentive program for contractors to purchase capital assets manufactured in United States
+### § 4293. Major defense acquisition programs: incentive program for contractors to purchase capital assets manufactured in United States
 
 **(a) Establishment of Incentive Program.—** The Secretary of Defense shall plan and establish an incentive program in accordance with this section for contractors to purchase capital assets manufactured in the United States in part with funds available to the Department of Defense.
 
@@ -1723,7 +1723,7 @@ Pub. L. 110–181, div. A, title VIII, § 802, Jan. 28, 2008, 122 Stat. 206, a
 
 **(d) Consideration.—** The Secretary of Defense shall provide consideration in source selection in any request for proposals for a major defense acquisition program for offerors with eligible capital assets.
 
-(Added Pub. L. 108–136, div. A, title VIII, § 822(a)(1), Nov. 24, 2003, 117 Stat. 1546, § 2436; renumbered § 4293, Pub. L. 116–283, div. A, title XVIII, § 1847(f)(2), Jan. 1, 2021, 134 Stat. 4258.)
+(Added Pub. L. 108–136, div. A, title VIII, § 822(a)(1), Nov. 24, 2003, 117 Stat. 1546, § 2436; renumbered § 4293, Pub. L. 116–283, div. A, title XVIII, § 1847(f)(2), Jan. 1, 2021, 134 Stat. 4258.)
 
 **Editorial Notes**
 
@@ -1735,29 +1735,29 @@ Section 814 of the National Defense Authorization Act for Fiscal Year 2004, refe
 
 Prior sections 4301 to 4303 and 4306 were renumbered sections 7401 to 7403 and 7406 of this title, respectively.
 
-Prior sections 4307 and 4308 were repealed by Pub. L. 104–106, div. A, title XVI, § 1624(a)(1), (c) Feb. 10, 1996, 110 Stat. 522, effective on the earlier of the date on which the Secretary of the Army submits a certification in accordance with section 5523 of former Title 36, Patriotic Societies and Observances, or Oct. 1, 1996.
+Prior sections 4307 and 4308 were repealed by Pub. L. 104–106, div. A, title XVI, § 1624(a)(1), (c) Feb. 10, 1996, 110 Stat. 522, effective on the earlier of the date on which the Secretary of the Army submits a certification in accordance with section 5523 of former Title 36, Patriotic Societies and Observances, or Oct. 1, 1996.
 
 Section 4307, act Aug. 10, 1956, ch. 1041, 70A Stat. 235, permitted President to detail commissioned officer of the Army or of the Marine Corps as director of civilian marksmanship.
 
-Section 4308, acts Aug. 10, 1956, ch. 1041, 70A Stat. 236; Nov. 14, 1986, Pub. L. 99–661, div. A, title III, § 318(a), 100 Stat. 3855; Nov. 5, 1990, Pub. L. 101–510, div. A, title III, § 328(b)–(d), (g)(1), 104 Stat. 1533, 1534; Oct. 23, 1992, Pub. L. 102–484, div. A, title III, § 380(a)(1), 106 Stat. 2389; Nov. 30, 1993, Pub. L. 103–160, div. A, title III, § 372, 107 Stat. 1635, related to authority of Secretary of the Army to promote civilian marksmanship. See section 40701 et seq. of Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
+Section 4308, acts Aug. 10, 1956, ch. 1041, 70A Stat. 236; Nov. 14, 1986, Pub. L. 99–661, div. A, title III, § 318(a), 100 Stat. 3855; Nov. 5, 1990, Pub. L. 101–510, div. A, title III, § 328(b)–(d), (g)(1), 104 Stat. 1533, 1534; Oct. 23, 1992, Pub. L. 102–484, div. A, title III, § 380(a)(1), 106 Stat. 2389; Nov. 30, 1993, Pub. L. 103–160, div. A, title III, § 372, 107 Stat. 1635, related to authority of Secretary of the Army to promote civilian marksmanship. See section 40701 et seq. of Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 
 A prior section 4309 was renumbered section 7409 of this title.
 
-Prior sections 4310 and 4311 were repealed by Pub. L. 104–106, div. A, title XVI, § 1624(a)(1), (c), Feb. 10, 1996, 110 Stat. 522, effective on the earlier of the date on which the Secretary of the Army submits a certification in accordance with section 5523 of former Title 36, Patriotic Societies and Observances, or Oct. 1, 1996.
+Prior sections 4310 and 4311 were repealed by Pub. L. 104–106, div. A, title XVI, § 1624(a)(1), (c), Feb. 10, 1996, 110 Stat. 522, effective on the earlier of the date on which the Secretary of the Army submits a certification in accordance with section 5523 of former Title 36, Patriotic Societies and Observances, or Oct. 1, 1996.
 
 Section 4310, act Aug. 10, 1956, ch. 1041, 70A Stat. 236, permitted President and Secretary of the Army to detail members of Army as rifle instructors for civilians.
 
-Section 4311, acts Aug. 10, 1956, ch. 1041, 70A Stat. 237; Nov. 5, 1990, Pub. L. 101–510, div. A, title III, § 328(f), 104 Stat. 1534, permitted Secretary of the Army to provide for issue of military rifles and sale of ammunition for use in rifle instruction for civilians.
+Section 4311, acts Aug. 10, 1956, ch. 1041, 70A Stat. 237; Nov. 5, 1990, Pub. L. 101–510, div. A, title III, § 328(f), 104 Stat. 1534, permitted Secretary of the Army to provide for issue of military rifles and sale of ammunition for use in rifle instruction for civilians.
 
-Prior sections 4312 and 4313 were repealed by Pub. L. 105–225, § 6(b), Aug. 12, 1998, 112 Stat. 1499.
+Prior sections 4312 and 4313 were repealed by Pub. L. 105–225, § 6(b), Aug. 12, 1998, 112 Stat. 1499.
 
 Section 4312, act Aug. 10, 1956, ch. 1041, 70A Stat. 237, related to National rifle and pistol matches and small-arms firing school.
 
-Section 4313, act Aug. 10, 1956, ch. 1041, 70A Stat. 237; Pub. L. 99–145, title XIII, § 1301(b)(3)(B), Nov. 8, 1985, 99 Stat. 735; Pub. L. 99–661, div. A, title III, § 318(b), Nov. 14, 1986, 100 Stat. 3855; Pub. L. 101–510, div. A, title III, § 328(a), Nov. 5, 1990, 104 Stat. 1533; Pub. L. 102–484, div. A, title III, § 380(c)(1), Oct. 23, 1992, 106 Stat. 2391; Pub. L. 103–35, title II, § 201(g)(10)(A), May 31, 1993, 107 Stat. 100; Pub. L. 104–106, div. A, title XVI, § 1624(b)(1), Feb. 10, 1996, 110 Stat. 522, related to expenses of National Matches and small-arms school.
+Section 4313, act Aug. 10, 1956, ch. 1041, 70A Stat. 237; Pub. L. 99–145, title XIII, § 1301(b)(3)(B), Nov. 8, 1985, 99 Stat. 735; Pub. L. 99–661, div. A, title III, § 318(b), Nov. 14, 1986, 100 Stat. 3855; Pub. L. 101–510, div. A, title III, § 328(a), Nov. 5, 1990, 104 Stat. 1533; Pub. L. 102–484, div. A, title III, § 380(c)(1), Oct. 23, 1992, 106 Stat. 2391; Pub. L. 103–35, title II, § 201(g)(10)(A), May 31, 1993, 107 Stat. 100; Pub. L. 104–106, div. A, title XVI, § 1624(b)(1), Feb. 10, 1996, 110 Stat. 522, related to expenses of National Matches and small-arms school.
 
 Prior sections 4314 and 4315 were renumbered sections 7414 and 7415 of this title, respectively.
 
-A prior section 4316, added Pub. L. 102–484, div. A, title III, § 380(d)(1), Oct. 23, 1992, 106 Stat. 2391; amended Pub. L. 104–106, div. A, title XVI, § 1624(b)(2), Feb. 10, 1996, 110 Stat. 522, related to reporting requirements of the Secretary of the Army, prior to repeal by Pub. L. 115–91, div. A, title X, § 1051(a)(27)(A), Dec. 12, 2017, 131 Stat. 1562.
+A prior section 4316, added Pub. L. 102–484, div. A, title III, § 380(d)(1), Oct. 23, 1992, 106 Stat. 2391; amended Pub. L. 104–106, div. A, title XVI, § 1624(b)(2), Feb. 10, 1996, 110 Stat. 522, related to reporting requirements of the Secretary of the Army, prior to repeal by Pub. L. 115–91, div. A, title X, § 1051(a)(27)(A), Dec. 12, 2017, 131 Stat. 1562.
 
 Prior sections 4317 to 4320 were renumbered sections 7417 to 7420 of this title, respectively.
 
@@ -1773,11 +1773,11 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Effective Date**
 
-Pub. L. 108–136, div. A, title VIII, § 822(c), Nov. 24, 2003, 117 Stat. 1547, provided that: “Section 2436 of title 10, United States Code [now 10 U.S.C. 4293], as added by subsection (a), shall apply with respect to contracts entered into after the expiration of the 18-month period beginning on the date of the enactment of this Act [Nov. 24, 2003].”
+Pub. L. 108–136, div. A, title VIII, § 822(c), Nov. 24, 2003, 117 Stat. 1547, provided that: “Section 2436 of title 10, United States Code [now 10 U.S.C. 4293], as added by subsection (a), shall apply with respect to contracts entered into after the expiration of the 18-month period beginning on the date of the enactment of this Act [Nov. 24, 2003].”
 
 **Regulations**
 
-Pub. L. 108–136, div. A, title VIII, § 822(b), Nov. 24, 2003, 117 Stat. 1547, provided that:
+Pub. L. 108–136, div. A, title VIII, § 822(b), Nov. 24, 2003, 117 Stat. 1547, provided that:
 
 > **“(1)** The Secretary of Defense shall prescribe regulations as necessary to carry out section 2436 of title 10, United States Code [now 10 U.S.C. 4293], as added by this section.
 

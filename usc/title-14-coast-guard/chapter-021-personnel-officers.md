@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior analysis for chapter 21 “COAST GUARD RESERVE” consisted of items 701 “Organization”, 702 “Authorized strength”, 703 “Coast Guard Reserve Boards”, 704 “Grades and ratings; military authority”, 705 “Benefits”, 706 “Temporary members of the Reserve; eligibility and compensation”, 707 “Temporary members of the Reserve; disability or death benefits”, 708 “Temporary members of the Reserve; certificate of honorable service”, 709 “Reserve student aviation pilots; Reserve aviation pilots; appointments in commissioned grade”, 709a “Reserve student pre-commissioning assistance program”, 710 “Appointment or wartime promotion; retention of grade upon release from active duty”, 711 “Exclusiveness of service”, 712 “Active duty for emergency augmentation of regular forces”, 713 “Enlistment of members engaged in schooling”, 720 “Definitions”, 721 “Applicability of this subchapter”, 722 “Suspension of this subchapter in time of war or national emergency”, 723 “Effect of this subchapter on retirement and retired pay”, 724 “Authorized number of officers”, 725 “Precedence”, 726 “Running mates”, 727 “Constructive credit upon initial appointment”, 728 “Promotion of Reserve officers on active duty”, 729 “Promotion; recommendations of selection boards”, 730 “Selection boards; appointment”, 731 “Establishment of promotion zones under running mate system”, 732 “Eligibility for promotion”, 733 “Recommendation for promotion of an officer previously removed from an active status”, 734 “Qualifications for promotion”, 735 “Promotion; acceptance; oath of office”, 736 “Date of rank upon promotion; entitlement to pay”, 737 “Type of promotion; temporary”, 738 “Effect of removal by the President or failure of consent of the Senate”, 739 “Failure of selection for promotion”, 740 “Failure of selection and removal from an active status”, 741 “Retention boards; removal from an active status to provide a flow of promotion”, 742 “Maximum ages for retention in an active status”, 743 “Rear admiral and rear admiral (lower half); maximum service in grade”, 744 “Appointment of a former Navy or Coast Guard officer”, 745 “Grade on entry upon active duty”, and 746 “Recall of a retired officer; grade upon release”, prior to repeal by Pub. L. 115–282, title I, § 112(a), Dec. 4, 2018, 132 Stat. 4215.
+A prior analysis for chapter 21 “COAST GUARD RESERVE” consisted of items 701 “Organization”, 702 “Authorized strength”, 703 “Coast Guard Reserve Boards”, 704 “Grades and ratings; military authority”, 705 “Benefits”, 706 “Temporary members of the Reserve; eligibility and compensation”, 707 “Temporary members of the Reserve; disability or death benefits”, 708 “Temporary members of the Reserve; certificate of honorable service”, 709 “Reserve student aviation pilots; Reserve aviation pilots; appointments in commissioned grade”, 709a “Reserve student pre-commissioning assistance program”, 710 “Appointment or wartime promotion; retention of grade upon release from active duty”, 711 “Exclusiveness of service”, 712 “Active duty for emergency augmentation of regular forces”, 713 “Enlistment of members engaged in schooling”, 720 “Definitions”, 721 “Applicability of this subchapter”, 722 “Suspension of this subchapter in time of war or national emergency”, 723 “Effect of this subchapter on retirement and retired pay”, 724 “Authorized number of officers”, 725 “Precedence”, 726 “Running mates”, 727 “Constructive credit upon initial appointment”, 728 “Promotion of Reserve officers on active duty”, 729 “Promotion; recommendations of selection boards”, 730 “Selection boards; appointment”, 731 “Establishment of promotion zones under running mate system”, 732 “Eligibility for promotion”, 733 “Recommendation for promotion of an officer previously removed from an active status”, 734 “Qualifications for promotion”, 735 “Promotion; acceptance; oath of office”, 736 “Date of rank upon promotion; entitlement to pay”, 737 “Type of promotion; temporary”, 738 “Effect of removal by the President or failure of consent of the Senate”, 739 “Failure of selection for promotion”, 740 “Failure of selection and removal from an active status”, 741 “Retention boards; removal from an active status to provide a flow of promotion”, 742 “Maximum ages for retention in an active status”, 743 “Rear admiral and rear admiral (lower half); maximum service in grade”, 744 “Appointment of a former Navy or Coast Guard officer”, 745 “Grade on entry upon active duty”, and 746 “Recall of a retired officer; grade upon release”, prior to repeal by Pub. L. 115–282, title I, § 112(a), Dec. 4, 2018, 132 Stat. 4215.
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. G, title LXXII, §§ 7221(b), 7223(d)(2), Dec. 18, 2025, 139 Stat. 1700, 1702, added item 2132 and struck out item 2160 “Boards of review”.
+2025—Pub. L. 119–60, div. G, title LXXII, §§ 7221(b), 7223(d)(2), Dec. 18, 2025, 139 Stat. 1700, 1702, added item 2132 and struck out item 2160 “Boards of review”.
 
-2022—Pub. L. 117–263, div. K, title CXII, §§ 11235(b), 11245(b)(2), Dec. 23, 2022, 136 Stat. 4035, 4045, added items 2120a and 2166.
+2022—Pub. L. 117–263, div. K, title CXII, §§ 11235(b), 11245(b)(2), Dec. 23, 2022, 136 Stat. 4035, 4045, added items 2120a and 2166.
 
-2021—Pub. L. 116–283, div. G, title LVXXXII [LXXXII], §§ 8203(b), 8276(b), Jan. 1, 2021, 134 Stat. 4645, 4687, added items 2130 and 2131. Item 2130 was added at the end of the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language adding that item “at the end” of the analysis for subchapter I of this chapter, and item 2131 was added after item 2130 at that location.
+2021—Pub. L. 116–283, div. G, title LVXXXII [LXXXII], §§ 8203(b), 8276(b), Jan. 1, 2021, 134 Stat. 4645, 4687, added items 2130 and 2131. Item 2130 was added at the end of the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language adding that item “at the end” of the analysis for subchapter I of this chapter, and item 2131 was added after item 2130 at that location.
 
-2018—Pub. L. 115–282, title I, § 112(a), Dec. 4, 2018, 132 Stat. 4215, inserted chapter 21 designation and heading and added items 2101 to 2182.
+2018—Pub. L. 115–282, title I, § 112(a), Dec. 4, 2018, 132 Stat. 4215, inserted chapter 21 designation and heading and added items 2101 to 2182.
 
 ## SUBCHAPTER I—APPOINTMENT AND PROMOTION
 
@@ -37,17 +37,17 @@ A prior analysis for chapter 21 “COAST GUARD RESERVE” consisted of items 701
 
 **Prior Provisions**
 
-A prior subchapter A of chapter 21 designation and accompanying heading “GENERAL” were repealed by Pub. L. 115–282, title I, § 112(c)(1), Dec. 4, 2018, 132 Stat. 4220.
+A prior subchapter A of chapter 21 designation and accompanying heading “GENERAL” were repealed by Pub. L. 115–282, title I, § 112(c)(1), Dec. 4, 2018, 132 Stat. 4220.
 
 **Amendments**
 
-2018—Pub. L. 115–282, title I, § 112(c)(2), Dec. 4, 2018, 132 Stat. 4220, inserted subchapter I designation and heading.
+2018—Pub. L. 115–282, title I, § 112(c)(2), Dec. 4, 2018, 132 Stat. 4220, inserted subchapter I designation and heading.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Officer Evaluation Report**
 
-Pub. L. 115–282, title VIII, § 803, Dec. 4, 2018, 132 Stat. 4299, provided that:
+Pub. L. 115–282, title VIII, § 803, Dec. 4, 2018, 132 Stat. 4299, provided that:
 
 > **“(a) In General.—** Not later than 3 years after the date of the enactment of this Act [Dec. 4, 2018], the Commandant of the Coast Guard shall reduce lieutenant junior grade evaluation reports to the same length as an ensign or place lieutenant junior grade evaluations on an annual schedule.
 
@@ -93,7 +93,7 @@ Pub. L. 115–282, title VIII, § 803, Dec. 4, 2018, 132 Stat. 4299, provided 
 
 > **“(2) Format.—** The report under paragraph (1) shall be formatted by each rank, type of board, and position, as applicable.”
 
-### § 2101. Original appointment of permanent commissioned officers
+### § 2101. Original appointment of permanent commissioned officers
 
 **(a)**
 
@@ -117,7 +117,7 @@ Pub. L. 115–282, title VIII, § 803, Dec. 4, 2018, 132 Stat. 4299, provided 
 
 **(d)** For the purposes of this section, the term “original”, with respect to the appointment of a member of the Coast Guard, refers to that member’s most recent appointment in the Coast Guard that is neither a promotion nor a demotion.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 177, § 211; amended Pub. L. 89–444, § 1(11), June 9, 1966, 80 Stat. 196; Pub. L. 98–557, § 15(a)(3)(B), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 109–241, title II, § 217(a), July 11, 2006, 120 Stat. 525; Pub. L. 112–213, title II, § 206, Dec. 20, 2012, 126 Stat. 1546; renumbered § 2101, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(13), Jan. 1, 2021, 134 Stat. 4748.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 177, § 211; amended Pub. L. 89–444, § 1(11), June 9, 1966, 80 Stat. 196; Pub. L. 98–557, § 15(a)(3)(B), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 109–241, title II, § 217(a), July 11, 2006, 120 Stat. 525; Pub. L. 112–213, title II, § 206, Dec. 20, 2012, 126 Stat. 1546; renumbered § 2101, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(13), Jan. 1, 2021, 134 Stat. 4748.)
 
 **Editorial Notes**
 
@@ -139,7 +139,7 @@ Pub. L. 115–282, title VIII, § 803, Dec. 4, 2018, 132 Stat. 4299, provided 
 
 **Savings Provision**
 
-Pub. L. 88–130, § 5, Sept. 24, 1963, 77 Stat. 193, as amended by Pub. L. 89–444, § 3, June 9, 1966, 80 Stat. 198, provided that:
+Pub. L. 88–130, § 5, Sept. 24, 1963, 77 Stat. 193, as amended by Pub. L. 89–444, § 3, June 9, 1966, 80 Stat. 198, provided that:
 
 > **“(a)** Officers in each grade who have been recommended as qualified for temporary promotion under laws and regulations in effect the day before the effective date of this Act [Sept. 24, 1963] but not promoted to the grade for which they were recommended shall be placed on a list of selectees in order of their precedence, and they shall be promoted as if they had been selected for promotion in the approved report of a selection board convened under this Act [enacting sections 41a, 211 to 214, 251 to 262, 271 to 277, 281 to 294, 321 to 327, 331 to 335, of this title amending sections 42, 44, 46, 47, 190, 433, 759a, and 791 of this title, and enacting provisions set out as notes under sections 262, 285, and 289 of this title, and repealing sections 221 to 248, 301 to 313a, 435 to 437, 439, and 440 of this title, and act Sept. 21, 1961, 75 Stat. 538, set out as a note under section 435 of this title].
 
@@ -211,7 +211,7 @@ Sec. 7. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 J.R. Biden, Jr.
 
-### § 2102. Active duty promotion list
+### § 2102. Active duty promotion list
 
 **(a)** The Secretary shall maintain a single active duty promotion list of officers of the Coast Guard on active duty in the grades of ensign and above. Reserve officers on active duty, other than pursuant to an active duty agreement executed under section 12311 of title 10, retired officers, officers of the permanent commissioned teaching staff of the Coast Guard Academy, and officers designated by the Secretary pursuant this section shall not be included on the active duty promotion list.
 
@@ -221,7 +221,7 @@ J.R. Biden, Jr.
 
 **(d)** A Reserve officer, other than one excluded by subsection (a), shall, when he enters on active duty, be placed on the active duty promotion list in accordance with his grade and seniority. The position of such a Reserve officer among other officers of the Coast Guard on active duty who have the same date of rank shall be determined by the Secretary.
 
-(Added Pub. L. 88–130, § 1(1), Sept. 24, 1963, 77 Stat. 174, § 41a; amended Pub. L. 91–278, § 1(2), June 12, 1970, 84 Stat. 304; Pub. L. 93–174, § 1(1), Dec. 5, 1973, 87 Stat. 692; Pub. L. 97–136, § 6(a), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 103–206, title II, § 205(a), Dec. 20, 1993, 107 Stat. 2422; Pub. L. 103–337, div. A, title XVI, § 1677(b)(1), Oct. 5, 1994, 108 Stat. 3019; renumbered § 2102, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(14), Jan. 1, 2021, 134 Stat. 4748; Pub. L. 119–60, div. G, title LXXII, § 7221(c)(1), Dec. 18, 2025, 139 Stat. 1700.)
+(Added Pub. L. 88–130, § 1(1), Sept. 24, 1963, 77 Stat. 174, § 41a; amended Pub. L. 91–278, § 1(2), June 12, 1970, 84 Stat. 304; Pub. L. 93–174, § 1(1), Dec. 5, 1973, 87 Stat. 692; Pub. L. 97–136, § 6(a), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 103–206, title II, § 205(a), Dec. 20, 1993, 107 Stat. 2422; Pub. L. 103–337, div. A, title XVI, § 1677(b)(1), Oct. 5, 1994, 108 Stat. 3019; renumbered § 2102, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(14), Jan. 1, 2021, 134 Stat. 4748; Pub. L. 119–60, div. G, title LXXII, § 7221(c)(1), Dec. 18, 2025, 139 Stat. 1700.)
 
 **Editorial Notes**
 
@@ -235,13 +235,13 @@ J.R. Biden, Jr.
 
 1994—Subsec. (a). Pub. L. 103–337 substituted “section 12311 of title 10” for “section 679 of title 10”.
 
-1993—Subsec. (b). Pub. L. 103–206 struck out before period at end of second sentence “, except that the rear admiral serving as Chief of Staff shall be the senior rear admiral for all purposes other than pay”.
+1993—Subsec. (b). Pub. L. 103–206 struck out before period at end of second sentence “, except that the rear admiral serving as Chief of Staff shall be the senior rear admiral for all purposes other than pay”.
 
-1981—Subsec. (a). Pub. L. 97–136, § 6(a)(1), substituted “Reserve officers on active duty, other than pursuant to an active duty agreement executed under section 679 of title 10, retired officers, and officers of the permanent commissioned teaching staff of the Coast Guard Academy shall not” for “Retired officers and officers of the permanent commissioned teaching staff of the Coast Guard Academy shall not be included on the active duty promotion list. Reserve officers on extended active duty, other than those serving in connection with organizing, administering, recruiting, instructing, or training the Reserve components or assigned to the Selective Service System, shall”.
+1981—Subsec. (a). Pub. L. 97–136, § 6(a)(1), substituted “Reserve officers on active duty, other than pursuant to an active duty agreement executed under section 679 of title 10, retired officers, and officers of the permanent commissioned teaching staff of the Coast Guard Academy shall not” for “Retired officers and officers of the permanent commissioned teaching staff of the Coast Guard Academy shall not be included on the active duty promotion list. Reserve officers on extended active duty, other than those serving in connection with organizing, administering, recruiting, instructing, or training the Reserve components or assigned to the Selective Service System, shall”.
 
-Subsec. (b). Pub. L. 97–136, § 6(a)(2), inserted exception that rear admiral serving as Chief of Staff shall be senior rear admiral for all purposes other than pay.
+Subsec. (b). Pub. L. 97–136, § 6(a)(2), inserted exception that rear admiral serving as Chief of Staff shall be senior rear admiral for all purposes other than pay.
 
-Subsec. (d). Pub. L. 97–136, § 6(a)(3), substituted “enters on active duty” for “enters on extended active duty”.
+Subsec. (d). Pub. L. 97–136, § 6(a)(3), substituted “enters on active duty” for “enters on extended active duty”.
 
 1973—Subsec. (a). Pub. L. 93–174 substituted “Retired officers and officers” for “Retired officers, officers” and struck out “, and officers of the Women’s Reserve” after “Coast Guard Academy”.
 
@@ -253,7 +253,7 @@ Subsec. (d). Pub. L. 97–136, § 6(a)(3), substituted “enters on active dut
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
 
-### § 2103. Number and distribution of commissioned officers on active duty promotion list
+### § 2103. Number and distribution of commissioned officers on active duty promotion list
 
 **(a) Maximum Total Number.—**
 
@@ -301,11 +301,11 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 **(3)** the officers of the Reserve serving in connection with organizing, administering, recruiting, instructing, or training the reserve components.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 497, § 42; July 20, 1956, ch. 647, § 2, 70 Stat. 588; Pub. L. 86–474, § 1(2), May 14, 1960, 74 Stat. 144; Pub. L. 88–130, § 1(2), Sept. 24, 1963, 77 Stat. 174; Pub. L. 89–444, § 1(2), June 9, 1966, 80 Stat. 195; Pub. L. 90–385, July 5, 1968, 82 Stat. 293; Pub. L. 92–451, § 1(2), Oct. 2, 1972, 86 Stat. 755; Pub. L. 93–174, § 1(2), Dec. 5, 1973, 87 Stat. 692; Pub. L. 96–23, § 4, June 13, 1979, 93 Stat. 68; Pub. L. 97–417, § 2(2), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 97–449, § 5(b), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 98–557, § 25(a)(1), Oct. 30, 1984, 98 Stat. 2872; Pub. L. 99–145, title V, § 514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 103–206, title II, § 201, Dec. 20, 1993, 107 Stat. 2420; Pub. L. 108–293, title II, § 214, Aug. 9, 2004, 118 Stat. 1037; Pub. L. 111–281, title II, § 204(a), Oct. 15, 2010, 124 Stat. 2910; Pub. L. 113–281, title II, § 201, Dec. 18, 2014, 128 Stat. 3024; renumbered § 2103, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216; Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8217, Jan. 1, 2021, 134 Stat. 4653; Pub. L. 117–263, div. K, title CXII, § 11236(a), Dec. 23, 2022, 136 Stat. 4035; Pub. L. 119–60, div. G, title LXXII, § 7221(c)(2), Dec. 18, 2025, 139 Stat. 1700.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 497, § 42; July 20, 1956, ch. 647, § 2, 70 Stat. 588; Pub. L. 86–474, § 1(2), May 14, 1960, 74 Stat. 144; Pub. L. 88–130, § 1(2), Sept. 24, 1963, 77 Stat. 174; Pub. L. 89–444, § 1(2), June 9, 1966, 80 Stat. 195; Pub. L. 90–385, July 5, 1968, 82 Stat. 293; Pub. L. 92–451, § 1(2), Oct. 2, 1972, 86 Stat. 755; Pub. L. 93–174, § 1(2), Dec. 5, 1973, 87 Stat. 692; Pub. L. 96–23, § 4, June 13, 1979, 93 Stat. 68; Pub. L. 97–417, § 2(2), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 97–449, § 5(b), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 98–557, § 25(a)(1), Oct. 30, 1984, 98 Stat. 2872; Pub. L. 99–145, title V, § 514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 103–206, title II, § 201, Dec. 20, 1993, 107 Stat. 2420; Pub. L. 108–293, title II, § 214, Aug. 9, 2004, 118 Stat. 1037; Pub. L. 111–281, title II, § 204(a), Oct. 15, 2010, 124 Stat. 2910; Pub. L. 113–281, title II, § 201, Dec. 18, 2014, 128 Stat. 3024; renumbered § 2103, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216; Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8217, Jan. 1, 2021, 134 Stat. 4653; Pub. L. 117–263, div. K, title CXII, § 11236(a), Dec. 23, 2022, 136 Stat. 4035; Pub. L. 119–60, div. G, title LXXII, § 7221(c)(2), Dec. 18, 2025, 139 Stat. 1700.)
 
 **Historical and Revision Notes**
 
-Based on title 14, U.S.C., 1946 ed., § 6a (July 23, 1947, ch. 301, § 1, 61 Stat. 409).
+Based on title 14, U.S.C., 1946 ed., § 6a (July 23, 1947, ch. 301, § 1, 61 Stat. 409).
 
 The only change is in phraseology in the second sentence, it being necessary to include the extra numbers authorized by the act of July 23, 1947, in the figure given as the present number of extra numbers in the Coast Guard. 81st Congress, House Report No. 557.
 
@@ -325,9 +325,9 @@ The only change is in phraseology in the second sentence, it being necessary to 
 
 2010—Pub. L. 111–281 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to number and distribution of commissioned officers.
 
-2004—Subsec. (a). Pub. L. 108–293, § 214(1), substituted “6,700 in each fiscal year 2004, 2005, and 2006” for “6,200”.
+2004—Subsec. (a). Pub. L. 108–293, § 214(1), substituted “6,700 in each fiscal year 2004, 2005, and 2006” for “6,200”.
 
-Subsec. (b). Pub. L. 108–293, § 214(2), substituted “commander 15.0; lieutenant commander 22.0” for “commander 12.0; lieutenant commander 18.0”.
+Subsec. (b). Pub. L. 108–293, § 214(2), substituted “commander 15.0; lieutenant commander 22.0” for “commander 12.0; lieutenant commander 18.0”.
 
 1993—Subsec. (a). Pub. L. 103–206 substituted “6,200” for “6,000”.
 
@@ -341,7 +341,7 @@ Subsec. (e). Pub. L. 97–449 substituted “section 324(d) of title 49” for �
 
 1979—Subsec. (a). Pub. L. 96–23 substituted “6,000” for “five thousand”.
 
-1973—Subsec. (e). Pub. L. 93–174 substituted “Coast Guard Academy and of the” for “Coast Guard Academy, of the” and struck out “, and of the Women’s Reserve” after “training and reserve components”.
+1973—Subsec. (e). Pub. L. 93–174 substituted “Coast Guard Academy and of the” for “Coast Guard Academy, of the” and struck out “, and of the Women’s Reserve” after “training and reserve components”.
 
 1972—Subsec. (e). Pub. L. 92–451 inserted provision that officers excluded under section 1657(d)(1) of Title 49 shall not be counted in determining authorized strengths.
 
@@ -361,7 +361,7 @@ Subsec. (e). Pub. L. 97–449 substituted “section 324(d) of title 49” for �
 
 Amendment by Pub. L. 92–451 effective Oct. 2, 1972, except that continuation boards may not be held until one year thereafter, see section 3 of Pub. L. 92–451, set out as a note under section 2151 of this title.
 
-### § 2104. Appointment of temporary officers
+### § 2104. Appointment of temporary officers
 
 **(a)** The president may appoint temporary commissioned officers—
 
@@ -375,7 +375,7 @@ Amendment by Pub. L. 92–451 effective Oct. 2, 1972, except that continuation b
 
 **(d)** Appointees under this section shall take precedence in the grade to which appointed in accordance with the dates of their appointments as officers in such grade. Appointees whose dates of appointment are the same shall take precedence with each other as the Secretary shall determine.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 178, § 214; amended Pub. L. 89–444, § 1(12)–(14), June 9, 1966, 80 Stat. 196; Pub. L. 93–283, § 1(5), May 14, 1974, 88 Stat. 140; Pub. L. 96–376, § 6, Oct. 3, 1980, 94 Stat. 1509; Pub. L. 98–557, § 15(a)(3)(B), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 103–337, div. A, title V, § 541(f)(6), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 104–324, title II, § 211(a), Oct. 19, 1996, 110 Stat. 3915; Pub. L. 111–281, title II, § 211, Oct. 15, 2010, 124 Stat. 2914; renumbered § 2104, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(15), Jan. 1, 2021, 134 Stat. 4748.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 178, § 214; amended Pub. L. 89–444, § 1(12)–(14), June 9, 1966, 80 Stat. 196; Pub. L. 93–283, § 1(5), May 14, 1974, 88 Stat. 140; Pub. L. 96–376, § 6, Oct. 3, 1980, 94 Stat. 1509; Pub. L. 98–557, § 15(a)(3)(B), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 103–337, div. A, title V, § 541(f)(6), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 104–324, title II, § 211(a), Oct. 19, 1996, 110 Stat. 3915; Pub. L. 111–281, title II, § 211, Oct. 15, 2010, 124 Stat. 2914; renumbered § 2104, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(15), Jan. 1, 2021, 134 Stat. 4748.)
 
 **Editorial Notes**
 
@@ -387,13 +387,13 @@ Amendment by Pub. L. 92–451 effective Oct. 2, 1972, except that continuation b
 
 2010—Subsec. (a). Pub. L. 111–281 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The President may appoint temporary commissioned officers in the Regular Coast Guard in a grade, not above lieutenant, appropriate to their qualifications, experience, and length of service, as the needs of the Coast Guard may require, from among the commissioned warrant officers, warrant officers, and enlisted members of the Coast Guard, and from licensed officers of the United States merchant marine.”
 
-1996—Pub. L. 104–324, § 211(a)(1), substituted “Appointment” for “Original appointment” in section catchline.
+1996—Pub. L. 104–324, § 211(a)(1), substituted “Appointment” for “Original appointment” in section catchline.
 
-Subsec. (b). Pub. L. 104–324, § 211(a)(2), redesignated subsec. (d) as (b).
+Subsec. (b). Pub. L. 104–324, § 211(a)(2), redesignated subsec. (d) as (b).
 
-Subsec. (c). Pub. L. 104–324, § 211(a)(2), (3), redesignated subsec. (e) as (c) and inserted “, or a subsequent promotion appointment of a temporary officer,” after “section”.
+Subsec. (c). Pub. L. 104–324, § 211(a)(2), (3), redesignated subsec. (e) as (c) and inserted “, or a subsequent promotion appointment of a temporary officer,” after “section”.
 
-Subsecs. (d) to (f). Pub. L. 104–324, § 211(a)(2), redesignated subsecs. (d) to (f) as (b) to (d), respectively.
+Subsecs. (d) to (f). Pub. L. 104–324, § 211(a)(2), redesignated subsecs. (d) to (f) as (b) to (d), respectively.
 
 1994—Subsecs. (b), (c). Pub. L. 103–337 struck out subsecs. (b) and (c) which read as follows:
 
@@ -407,11 +407,11 @@ Subsecs. (d) to (f). Pub. L. 104–324, § 211(a)(2), redesignated subsecs. (d
 
 1974—Subsec. (d). Pub. L. 93–283 prohibited any reduction in the pay and allowances to which a temporary officer was entitled under a prior temporary appointment in a lower grade.
 
-1966—Subsec. (a). Pub. L. 89–444, § 1(12), added licensed officers of the United States merchant marine to the group from which the President may appoint temporary commissioned officers for the Regular Coast Guard not above lieutenant.
+1966—Subsec. (a). Pub. L. 89–444, § 1(12), added licensed officers of the United States merchant marine to the group from which the President may appoint temporary commissioned officers for the Regular Coast Guard not above lieutenant.
 
-Subsec. (b). Pub. L. 89–444, § 1(13), added licensed officers of the United States merchant marine to the group from which the President may appoint temporary commissioned warrant officers for the Regular Coast Guard.
+Subsec. (b). Pub. L. 89–444, § 1(13), added licensed officers of the United States merchant marine to the group from which the President may appoint temporary commissioned warrant officers for the Regular Coast Guard.
 
-Subsec. (c). Pub. L. 89–444, § 1(14), added licensed officers of the United States merchant marine to the group from which the Secretary may appoint temporary warrant officers (W–1) in the Regular Coast Guard.
+Subsec. (c). Pub. L. 89–444, § 1(14), added licensed officers of the United States merchant marine to the group from which the Secretary may appoint temporary warrant officers (W–1) in the Regular Coast Guard.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -421,9 +421,9 @@ Amendment by Pub. L. 103–337 effective on the first day of the fourth month be
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–283, § 2, May 14, 1974, 88 Stat. 141, provided that: “Paragraphs (5) and (8) of section 1 of this Act [amending this section and section 288 of this title] are effective as of the original date of enactment [Sept. 24, 1963] of the sections thereby amended.”
+Pub. L. 93–283, § 2, May 14, 1974, 88 Stat. 141, provided that: “Paragraphs (5) and (8) of section 1 of this Act [amending this section and section 288 of this title] are effective as of the original date of enactment [Sept. 24, 1963] of the sections thereby amended.”
 
-**Temporary Appointments Prior to September 24, 1963**
+**Temporary Appointments Prior to September 24, 1963**
 
 Savings provisions in section 5(e) of Pub. L. 88–130 considering officers appointed with temporary commissions prior to Sept. 24, 1963, as appointed under this section, are set out as a note under section 2101 of this title.
 
@@ -431,15 +431,15 @@ Savings provisions in section 5(e) of Pub. L. 88–130 considering officers appo
 
 **Delegation of Authority**
 
-Authority of President under subsec. (a) of this section to make temporary appointments not above lieutenant in the Regular Coast Guard and Coast Guard Reserve delegated to Secretary of Homeland Security by Ex. Ord. No. 14106, § 1(e), Aug. 14, 2023, 88 F.R. 55905, set out in a note under section 2101 of this title.
+Authority of President under subsec. (a) of this section to make temporary appointments not above lieutenant in the Regular Coast Guard and Coast Guard Reserve delegated to Secretary of Homeland Security by Ex. Ord. No. 14106, § 1(e), Aug. 14, 2023, 88 F.R. 55905, set out in a note under section 2101 of this title.
 
-### § 2105. Rank of warrant officers
+### § 2105. Rank of warrant officers
 
 **(a)** Among warrant officer grades, warrant officers of a higher numerical designation are senior to warrant officer grades of a lower numerical designation.
 
 **(b)** Warrant officers shall take precedence in the grade to which appointed in accordance with the dates of their commissions as commissioned officers in the Coast Guard in such grade. Precedence among warrant officers of the same grade who have the same date of commission shall be determined by regulations prescribed by the Secretary.
 
-(Added Pub. L. 103–337, div. A, title V, § 541(e)(1), Oct. 5, 1994, 108 Stat. 2766, § 215; renumbered § 2105, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216.)
+(Added Pub. L. 103–337, div. A, title V, § 541(e)(1), Oct. 5, 1994, 108 Stat. 2766, § 215; renumbered § 2105, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216.)
 
 **Editorial Notes**
 
@@ -453,11 +453,11 @@ Authority of President under subsec. (a) of this section to make temporary appoi
 
 Section effective on the first day of the fourth month beginning after Oct. 5, 1994, see section 541(h) of Pub. L. 103–337, set out as an Effective Date of 1994 Amendment note under section 571 of Title 10, Armed Forces.
 
-### § 2106. Selection boards; convening of boards
+### § 2106. Selection boards; convening of boards
 
 At least once a year and at such other times as the needs of the service require, the Secretary shall convene selection boards to recommend for promotion to the next higher grade officers on the active duty promotion list in each grade from lieutenant (junior grade) through captain, with separate boards for each grade. However, the Secretary is not required to convene a board to recommend officers for promotion to a grade when no vacancies exist in the grade concerned, and he estimates that none will occur in the next twelve months.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 178, § 251; renumbered § 2106, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 178, § 251; renumbered § 2106, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216.)
 
 **Editorial Notes**
 
@@ -465,27 +465,27 @@ At least once a year and at such other times as the needs of the service require
 
 2018—Pub. L. 115–282 renumbered section 251 of this title as this section.
 
-### § 2107. Selection boards; composition of boards
+### § 2107. Selection boards; composition of boards
 
 A board convened under section 2106 of this title shall consist of five or more officers on the active duty promotion list who are serving in or above the grade to which the board may recommend officers for promotion. No officer may be a member of two successive boards convened to consider officers of the same grade for promotion.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 179, § 252; renumbered § 2107 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 179, § 252; renumbered § 2107 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251”.
+2018—Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251”.
 
-Pub. L. 115–282, § 112(b), renumbered section 252 of this title as this section.
+Pub. L. 115–282, § 112(b), renumbered section 252 of this title as this section.
 
-### § 2108. Selection boards; notice of convening; communication with board
+### § 2108. Selection boards; notice of convening; communication with board
 
 **(a)** Before a board is convened under section 2106 of this title, notice of the convening date, the promotion zone to be considered, and the officers eligible for consideration shall be given to the service at large.
 
 **(b)** Each officer eligible for consideration by a selection board convened under section 2106 of this title may send a communication through official channels to the board, to arrive not later than the date the board convenes, inviting attention to any matter of record in the armed forces concerning such officer. A communication sent under this section may not criticize any officer or reflect upon the character, conduct, or motive of any officer.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 179, § 253; amended Pub. L. 89–444, § 1(15), June 9, 1966, 80 Stat. 196; Pub. L. 111–281, title II, § 212(1), Oct. 15, 2010, 124 Stat. 2914; renumbered § 2108 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8506(b), Jan. 1, 2021, 134 Stat. 4752.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 179, § 253; amended Pub. L. 89–444, § 1(15), June 9, 1966, 80 Stat. 196; Pub. L. 111–281, title II, § 212(1), Oct. 15, 2010, 124 Stat. 2914; renumbered § 2108 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8506(b), Jan. 1, 2021, 134 Stat. 4752.)
 
 **Editorial Notes**
 
@@ -493,15 +493,15 @@ Pub. L. 115–282, § 112(b), renumbered section 252 of this title as this sec
 
 2021—Subsec. (b). Pub. L. 116–283 substituted “such officer” for “himself”.
 
-2018—Pub. L. 115–282, § 112(b), renumbered section 253 of this title as this section.
+2018—Pub. L. 115–282, § 112(b), renumbered section 253 of this title as this section.
 
-Subsecs. (a), (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251”.
+Subsecs. (a), (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251”.
 
-2010—Subsec. (a). Pub. L. 111–281 inserted “and” after “zone to be considered,” and struck out “, and the number of officers the board may recommend for promotion” after “eligible for consideration”.
+2010—Subsec. (a). Pub. L. 111–281 inserted “and” after “zone to be considered,” and struck out “, and the number of officers the board may recommend for promotion” after “eligible for consideration”.
 
 1966—Subsec. (a). Pub. L. 89–444 added officers eligible for consideration to list of items for which notice must be given to the service at large before a board is convened under section 251 of this title.
 
-### § 2109. Selection boards; oath of members
+### § 2109. Selection boards; oath of members
 
 Each member of a selection board shall swear—
 
@@ -509,33 +509,33 @@ Each member of a selection board shall swear—
 
 **(2)** an oath in accordance with section 931.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 179, § 254; amended Pub. L. 112–213, title II, § 207, Dec. 20, 2012, 126 Stat. 1546; renumbered § 2109 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 179, § 254; amended Pub. L. 112–213, title II, § 207, Dec. 20, 2012, 126 Stat. 1546; renumbered § 2109 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 112(b), renumbered section 254 of this title as this section.
+2018—Pub. L. 115–282, § 112(b), renumbered section 254 of this title as this section.
 
-Par. (2). Pub. L. 115–282, § 123(b)(2), substituted “section 931” for “section 635”.
+Par. (2). Pub. L. 115–282, § 123(b)(2), substituted “section 931” for “section 635”.
 
 2012—Pub. L. 112–213 amended section generally. Prior to amendment, text read as follows: “Each member of a selection board shall swear that he will, without prejudice or partiality, and having in view both the special fitness of officers and the efficiency of the Coast Guard, perform the duties imposed upon him.”
 
-### § 2110. Number of officers to be selected for promotion
+### § 2110. Number of officers to be selected for promotion
 
 Before convening a board under section 2106 of this title to recommend officers for promotion to any grade, the Secretary shall determine the total number of officers to be selected for promotion to that grade. This number shall be equal to the number of vacancies existing in the grade, plus the number of additional vacancies estimated for the next twelve months, less the number of officers on the selection list for the grade.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 179, § 255; renumbered § 2110 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 179, § 255; renumbered § 2110 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251”.
+2018—Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251”.
 
-Pub. L. 115–282, § 112(b), renumbered section 255 of this title as this section.
+Pub. L. 115–282, § 112(b), renumbered section 255 of this title as this section.
 
-### § 2111. Promotion zones
+### § 2111. Promotion zones
 
 **(a)** Before convening a selection board to recommend officers for promotion to any grade above lieutenant (junior grade) and below rear admiral (lower half), the Secretary shall establish a promotion zone for the grade to be considered. The promotion zone for each grade shall consist of the most senior officers of that grade on the active duty promotion list who are eligible for consideration for promotion to the next higher grade and who have not previously been placed in a promotion zone for selection for promotion to the next higher grade. The number of officers in each zone shall be determined after considering—
 
@@ -549,15 +549,15 @@ However, such number of officers shall not exceed the number to be selected for 
 
 **(b)** Promotion zones from which officers will be selected for promotion to the grade of rear admiral (lower half) shall be established by the Secretary as the needs of the service require.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 179, § 256; amended Pub. L. 89–444, § 1(16), June 9, 1966, 80 Stat. 196; Pub. L. 97–417, § 2(3), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 99–145, title V, § 514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 99–661, div. A, title XIII, § 1343(c), Nov. 14, 1986, 100 Stat. 3995; renumbered § 2111 and amended Pub. L. 115–282, title I, § 112(b), title III, § 312, Dec. 4, 2018, 132 Stat. 4216, 4249.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 179, § 256; amended Pub. L. 89–444, § 1(16), June 9, 1966, 80 Stat. 196; Pub. L. 97–417, § 2(3), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 99–145, title V, § 514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 99–661, div. A, title XIII, § 1343(c), Nov. 14, 1986, 100 Stat. 3995; renumbered § 2111 and amended Pub. L. 115–282, title I, § 112(b), title III, § 312, Dec. 4, 2018, 132 Stat. 4216, 4249.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 112(b), renumbered section 256 of this title as this section.
+2018—Pub. L. 115–282, § 112(b), renumbered section 256 of this title as this section.
 
-Subsec. (a). Pub. L. 115–282, § 312, substituted “one-half.” for “six-tenths.” in concluding provisions.
+Subsec. (a). Pub. L. 115–282, § 312, substituted “one-half.” for “six-tenths.” in concluding provisions.
 
 1986—Subsec. (b). Pub. L. 99–661 substituted “rear admiral (lower half)” for “commodore”.
 
@@ -567,11 +567,11 @@ Subsec. (a). Pub. L. 115–282, § 312, substituted “one-half.” for “six
 
 1966—Subsec. (a). Pub. L. 89–444 limited promotion zone by requiring that list of officers under consideration be officers eligible for consideration for promotion to next higher grade.
 
-### § 2112. Promotion year; defined
+### § 2112. Promotion year; defined
 
 For the purposes of this chapter, “promotion year” means the period which commences on July 1 of each year and ends on June 30 of the following year.
 
-(Added Pub. L. 94–546, § 1(17), Oct. 18, 1976, 90 Stat. 2520, § 256a; renumbered § 2112, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216.)
+(Added Pub. L. 94–546, § 1(17), Oct. 18, 1976, 90 Stat. 2520, § 256a; renumbered § 2112, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216.)
 
 **Editorial Notes**
 
@@ -579,7 +579,7 @@ For the purposes of this chapter, “promotion year” means the period which co
 
 2018—Pub. L. 115–282 renumbered section 256a of this title as this section.
 
-### § 2113. Eligibility of officers for consideration for promotion
+### § 2113. Eligibility of officers for consideration for promotion
 
 **(a)** An officer on the active duty promotion list becomes eligible for consideration for promotion to the next higher grade at the beginning of the promotion year in which he completes the following amount of service computed from his date of rank in the grade in which he is serving:
 
@@ -619,7 +619,7 @@ For the purposes of this chapter, “promotion year” means the period which co
 
 **(C)** the officer has not previously failed of selection for promotion to the grade for which the officer requests the exclusion from consideration.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 179, § 257; amended Pub. L. 94–546, § 1(19), Oct. 18, 1976, 90 Stat. 2520; Pub. L. 98–557, § 17(b)(1), Oct. 30, 1984, 98 Stat. 2867; Pub. L. 109–241, title II, § 203, July 11, 2006, 120 Stat. 520; renumbered § 2113 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240; Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8202(a), Jan. 1, 2021, 134 Stat. 4642.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 179, § 257; amended Pub. L. 94–546, § 1(19), Oct. 18, 1976, 90 Stat. 2520; Pub. L. 98–557, § 17(b)(1), Oct. 30, 1984, 98 Stat. 2867; Pub. L. 109–241, title II, § 203, July 11, 2006, 120 Stat. 520; renumbered § 2113 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240; Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8202(a), Jan. 1, 2021, 134 Stat. 4642.)
 
 **Editorial Notes**
 
@@ -627,27 +627,27 @@ For the purposes of this chapter, “promotion year” means the period which co
 
 2021—Subsec. (g). Pub. L. 116–283 added subsec. (g).
 
-2018—Pub. L. 115–282, § 112(b), renumbered section 257 of this title as this section.
+2018—Pub. L. 115–282, § 112(b), renumbered section 257 of this title as this section.
 
-Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2125” for “section 275”.
+Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2125” for “section 275”.
 
-Subsec. (e). Pub. L. 115–282, § 123(b)(2), substituted “section 2156” for “section 295”.
+Subsec. (e). Pub. L. 115–282, § 123(b)(2), substituted “section 2156” for “section 295”.
 
 2006—Subsec. (f). Pub. L. 109–241 added subsec. (f).
 
 1984—Subsec. (e). Pub. L. 98–557 added subsec. (e).
 
-1976—Subsec. (a). Pub. L. 94–546, § 1(19)(a), substituted “promotion year” for “fiscal year”.
+1976—Subsec. (a). Pub. L. 94–546, § 1(19)(a), substituted “promotion year” for “fiscal year”.
 
-Subsec. (d). Pub. L. 94–546, § 1(19)(b), struck out cl. (3) “if serving in a grade below captain, has not twice failed of selection for promotion to the next higher grade.”
+Subsec. (d). Pub. L. 94–546, § 1(19)(b), struck out cl. (3) “if serving in a grade below captain, has not twice failed of selection for promotion to the next higher grade.”
 
-### § 2114. United States Deputy Marshals in Alaska
+### § 2114. United States Deputy Marshals in Alaska
 
 Commissioned officers may be appointed as United States Deputy Marshals in Alaska.
 
-(Added Pub. L. 115–282, title I, § 112(c)(3), Dec. 4, 2018, 132 Stat. 4221.)
+(Added Pub. L. 115–282, title I, § 112(c)(3), Dec. 4, 2018, 132 Stat. 4221.)
 
-### § 2115. Selection boards; information to be furnished boards
+### § 2115. Selection boards; information to be furnished boards
 
 **(a) In General.—** The Secretary shall furnish the appropriate selection board convened under section 2106 of this title with—
 
@@ -667,7 +667,7 @@ Commissioned officers may be appointed as United States Deputy Marshals in Alask
 
 **(2)** Selections made based on the direction and guidance provided under this subsection shall not exceed the maximum percentage of officers who may be selected from below the announced promotion zone at any given selection board convened under section 2106 of this title.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 180, § 258; amended Pub. L. 89–444, § 1(17), June 9, 1966, 80 Stat. 196; Pub. L. 104–324, title II, § 212, Oct. 19, 1996, 110 Stat. 3915; Pub. L. 111–281, title II, § 212(2), Oct. 15, 2010, 124 Stat. 2914; renumbered § 2115 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240; Pub. L. 117–263, div. K, title CXII, § 11245(a), Dec. 23, 2022, 136 Stat. 4043.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 180, § 258; amended Pub. L. 89–444, § 1(17), June 9, 1966, 80 Stat. 196; Pub. L. 104–324, title II, § 212, Oct. 19, 1996, 110 Stat. 3915; Pub. L. 111–281, title II, § 212(2), Oct. 15, 2010, 124 Stat. 2914; renumbered § 2115 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240; Pub. L. 117–263, div. K, title CXII, § 11245(a), Dec. 23, 2022, 136 Stat. 4043.)
 
 **Editorial Notes**
 
@@ -675,19 +675,19 @@ Commissioned officers may be appointed as United States Deputy Marshals in Alask
 
 2022—Subsec. (a)(3). Pub. L. 117–263 added par. (3).
 
-2018—Pub. L. 115–282, § 112(b), renumbered section 258 of this title as this section.
+2018—Pub. L. 115–282, § 112(b), renumbered section 258 of this title as this section.
 
-Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251” in introductory provisions.
+Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251”.
+Subsec. (b)(2). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251”.
 
 2010—Pub. L. 111–281 designated existing provisions as subsec. (a), inserted heading, substituted “with—” for “with:” in introductory provisions, and added subsec. (b).
 
-1996—Cl. (2). Pub. L. 104–324 struck out “, with identification of those officers who are in the promotion zone” after “officers for promotion”.
+1996—Cl. (2). Pub. L. 104–324 struck out “, with identification of those officers who are in the promotion zone” after “officers for promotion”.
 
 1966—Pub. L. 89–444 substituted “officers who are eligible for consideration for promotion to the grade to which the board will recommend officers for promotion” for “officers to be considered by the board” in cl. 2.
 
-### § 2116. Officers to be recommended for promotion
+### § 2116. Officers to be recommended for promotion
 
 **(a)** A selection board convened to recommend officers for promotion shall recommend those eligible officers whom the board, giving due consideration to the needs of the Coast Guard for officers with particular skills so noted in specific direction furnished to the board by the Secretary under section 2115 of this title, considers best qualified of the officers under consideration for promotion. No officer may be recommended for promotion unless he receives the recommendation of at least a majority of the members of a board composed of five members, or at least two-thirds of the members of a board composed of more than five members.
 
@@ -709,7 +709,7 @@ unless such percentage is a number less than one, in which case the board may re
 
 **(3)** The Secretary shall submit any finding made by the Secretary pursuant to paragraph (2) to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 180, § 259; amended Pub. L. 97–417, § 2(4), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 99–145, title V, § 514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 107–295, title III, § 313(1), Nov. 25, 2002, 116 Stat. 2102; Pub. L. 111–281, title II, § 212(3), Oct. 15, 2010, 124 Stat. 2915; Pub. L. 112–213, title II, § 217(3), Dec. 20, 2012, 126 Stat. 1557; renumbered § 2116 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240; Pub. L. 117–263, div. K, title CXII, § 11238, Dec. 23, 2022, 136 Stat. 4037.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 180, § 259; amended Pub. L. 97–417, § 2(4), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 99–145, title V, § 514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 107–295, title III, § 313(1), Nov. 25, 2002, 116 Stat. 2102; Pub. L. 111–281, title II, § 212(3), Oct. 15, 2010, 124 Stat. 2915; Pub. L. 112–213, title II, § 217(3), Dec. 20, 2012, 126 Stat. 1557; renumbered § 2116 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240; Pub. L. 117–263, div. K, title CXII, § 11238, Dec. 23, 2022, 136 Stat. 4037.)
 
 **Editorial Notes**
 
@@ -717,17 +717,17 @@ unless such percentage is a number less than one, in which case the board may re
 
 2022—Subsec. (c)(1). Pub. L. 117–263 inserted “three times” after “may not exceed”.
 
-2018—Pub. L. 115–282, § 112(b), renumbered section 259 of this title as this section.
+2018—Pub. L. 115–282, § 112(b), renumbered section 259 of this title as this section.
 
-Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 2115” for “section 258”.
+Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 2115” for “section 258”.
 
-Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251” in introductory provisions.
+Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 115–282, § 123(b)(2), substituted “section 2121(a)” for “section 271(a)”.
+Subsec. (c)(1). Pub. L. 115–282, § 123(b)(2), substituted “section 2121(a)” for “section 271(a)”.
 
 2012—Subsec. (c)(1). Pub. L. 112–213 substituted “In selecting” for “After selecting”.
 
-2010—Subsec. (a). Pub. L. 111–281 inserted “, giving due consideration to the needs of the Coast Guard for officers with particular skills so noted in specific direction furnished to the board by the Secretary under section 258 of this title,” after “whom the board”.
+2010—Subsec. (a). Pub. L. 111–281 inserted “, giving due consideration to the needs of the Coast Guard for officers with particular skills so noted in specific direction furnished to the board by the Secretary under section 258 of this title,” after “whom the board”.
 
 2002—Subsec. (c). Pub. L. 107–295 added subsec. (c).
 
@@ -735,29 +735,29 @@ Subsec. (c)(1). Pub. L. 115–282, § 123(b)(2), substituted “section 2121(a
 
 1983—Subsec. (b). Pub. L. 97–417 substituted “commodore” for “real admiral”.
 
-### § 2117. Selection boards; reports
+### § 2117. Selection boards; reports
 
 **(a)** Each board convened under section 2106 of this title shall submit a report in writing, signed by all the members thereof, containing the names of the officers recommended for promotion and the names of those officers recommended to be advanced to the top of the list of selectees established by the Secretary under section 2121(a) of this title.
 
 **(b)** A board convened under section 2106 of this title shall certify that, in the opinion of at least a majority of the members if the board has five members, or in the opinion of at least two-thirds of the members if the board has more than five members, the officers recommended for promotion are the best qualified for promotion to meet the needs of the service (as noted in specific direction furnished the board by the Secretary under section 2115 of this title) of those officers whose names have been furnished to the board.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 180, § 260; amended Pub. L. 107–295, title III, § 313(2), Nov. 25, 2002, 116 Stat. 2103; Pub. L. 111–281, title II, § 212(4), Oct. 15, 2010, 124 Stat. 2915; renumbered § 2117 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 180, § 260; amended Pub. L. 107–295, title III, § 313(2), Nov. 25, 2002, 116 Stat. 2103; Pub. L. 111–281, title II, § 212(4), Oct. 15, 2010, 124 Stat. 2915; renumbered § 2117 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 112(b), renumbered section 260 of this title as this section.
+2018—Pub. L. 115–282, § 112(b), renumbered section 260 of this title as this section.
 
-Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251” and “section 2121(a)” for “section 271(a)”.
+Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251” and “section 2121(a)” for “section 271(a)”.
 
-Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251” and “section 2115” for “section 258”.
+Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251” and “section 2115” for “section 258”.
 
 2010—Subsec. (b). Pub. L. 111–281 inserted “to meet the needs of the service (as noted in specific direction furnished the board by the Secretary under section 258 of this title)” after “qualified for promotion”.
 
 2002—Subsec. (a). Pub. L. 107–295 inserted “and the names of those officers recommended to be advanced to the top of the list of selectees established by the Secretary under section 271(a) of this title” before period at end.
 
-### § 2118. Selection boards; submission of reports
+### § 2118. Selection boards; submission of reports
 
 **(a)** A board convened under section 2106 of this title shall submit its report to the Secretary. If the board has acted contrary to law or regulation, the Secretary may return the report for proceedings in revision and resubmission to the Secretary. After his final review, the Secretary shall submit the report of the board to the President for his approval, modification, or disapproval.
 
@@ -769,7 +769,7 @@ Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” f
 
 **(e)** If the Secretary makes a recommendation under this section that the name of an officer be removed from a report of a selection board and the recommendation is accompanied by information that was not presented to that selection board, that information shall be made available to that officer. The officer shall then be afforded a reasonable opportunity to submit comments on that information to the officials making the recommendation and the officials reviewing the recommendation. If an eligible officer cannot be given access to such information because of its classification status, the officer shall, to the maximum extent practicable, be provided with an appropriate summary of the information.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 181, § 261; amended Pub. L. 112–213, title II, § 208(b), Dec. 20, 2012, 126 Stat. 1549; renumbered § 2118 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(16), Jan. 1, 2021, 134 Stat. 4748; Pub. L. 117–263, div. K, title CXII, § 11245(c), Dec. 23, 2022, 136 Stat. 4045.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 181, § 261; amended Pub. L. 112–213, title II, § 208(b), Dec. 20, 2012, 126 Stat. 1549; renumbered § 2118 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(16), Jan. 1, 2021, 134 Stat. 4748; Pub. L. 117–263, div. K, title CXII, § 11245(c), Dec. 23, 2022, 136 Stat. 4045.)
 
 **Editorial Notes**
 
@@ -779,11 +779,11 @@ Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” f
 
 2021—Subsec. (d). Pub. L. 116–283 substituted “individual who is” for “person”.
 
-2018—Pub. L. 115–282, § 112(b), renumbered section 261 of this title as this section.
+2018—Pub. L. 115–282, § 112(b), renumbered section 261 of this title as this section.
 
-Subsecs. (a), (c). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251”.
+Subsecs. (a), (c). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251”.
 
-Subsec. (d). Pub. L. 115–282, § 123(b)(2), substituted “section 2120” for “section 263”.
+Subsec. (d). Pub. L. 115–282, § 123(b)(2), substituted “section 2120” for “section 263”.
 
 2012—Subsec. (d). Pub. L. 112–213 substituted “selection board, including a special selection board convened under section 263,” for “selection board”.
 
@@ -791,27 +791,27 @@ Subsec. (d). Pub. L. 115–282, § 123(b)(2), substituted “section 2120” f
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–213, title II, § 208(e)(1), Dec. 20, 2012, 126 Stat. 1549, provided that: “The amendments made by this section [enacting section 263 of this title and amending this section and section 262 of this title] shall take effect on the date of enactment of this Act [Dec. 20, 2012] and the Secretary may convene a special selection board on or after that date under section 263 [now 2120] of title 14, United States Code, with respect to any error or other action for which such a board may be convened if that error or other action occurred on or after the date that is 1 year before the date of enactment of this Act.”
+Pub. L. 112–213, title II, § 208(e)(1), Dec. 20, 2012, 126 Stat. 1549, provided that: “The amendments made by this section [enacting section 263 of this title and amending this section and section 262 of this title] shall take effect on the date of enactment of this Act [Dec. 20, 2012] and the Secretary may convene a special selection board on or after that date under section 263 [now 2120] of title 14, United States Code, with respect to any error or other action for which such a board may be convened if that error or other action occurred on or after the date that is 1 year before the date of enactment of this Act.”
 
 **Executive Documents**
 
 **Delegation of Authority**
 
-Authority of President under subsecs. (a) and (b) of this section to approve, modify, or disapprove the report of a selection board, and to remove a name of an officer from a selection board report, respectively, delegated to Secretary of Homeland Security by Ex. Ord. No. 14106, § 1(a), (b), Aug. 14, 2023, 88 F.R. 55905, set out in a note under section 2101 of this title.
+Authority of President under subsecs. (a) and (b) of this section to approve, modify, or disapprove the report of a selection board, and to remove a name of an officer from a selection board report, respectively, delegated to Secretary of Homeland Security by Ex. Ord. No. 14106, § 1(a), (b), Aug. 14, 2023, 88 F.R. 55905, set out in a note under section 2101 of this title.
 
-### § 2119. Failure of selection for promotion
+### § 2119. Failure of selection for promotion
 
 An officer, other than an officer serving in the grade of captain, who is, or is senior to, the junior officer in the promotion zone established for his grade under section 2111 of this title, fails of selection if he is not selected for promotion by the selection board which considered him, or if having been recommended for promotion by the board, his name is thereafter removed from the report of the board by the President.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 181, § 262; amended Pub. L. 112–213, title II, § 208(c), Dec. 20, 2012, 126 Stat. 1549; renumbered § 2119 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 181, § 262; amended Pub. L. 112–213, title II, § 208(c), Dec. 20, 2012, 126 Stat. 1549; renumbered § 2119 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 123(b)(2), substituted “section 2111” for “section 256”.
+2018—Pub. L. 115–282, § 123(b)(2), substituted “section 2111” for “section 256”.
 
-Pub. L. 115–282, § 112(b), renumbered section 262 of this title as this section.
+Pub. L. 115–282, § 112(b), renumbered section 262 of this title as this section.
 
 2012—Pub. L. 112–213 amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) describing failure of selection for promotion with an exception made if an officer was not considered because of administrative error.
 
@@ -823,13 +823,13 @@ Amendment by Pub. L. 112–213 effective Dec. 20, 2012, with provision for conve
 
 **Placement Out of Line of Promotion Prior to September 24, 1963**
 
-Pub. L. 88–130, § 2(a), (b), Sept. 24, 1963, 77 Stat. 190, provided that:
+Pub. L. 88–130, § 2(a), (b), Sept. 24, 1963, 77 Stat. 190, provided that:
 
 > **“(a)** Officers who have been placed permanently out of line of promotion under laws and regulations of the Secretary in effect the day before the effective date of this Act [Sept. 24, 1963] shall be considered as having failed of selection for promotion to the next higher grade for the second time on the day before the effective date of this Act, and shall be subject to the provisions of sections 282 through 285 [now 2142 through 2145] of title 14, United States Code, as appropriate. No officer shall be separated from the service under the above provisions prior to the last day of the sixth calendar month following the effective date of this Act.
 
 > **“(b)** Officers who have been placed temporarily out of line of promotion for appointment for temporary service under laws and regulations of the Secretary in effect the day before the effective date of this Act [Sept. 24, 1963] shall be considered as having once failed of selection for promotion to the next higher grade.”
 
-### § 2120. Special selection boards; correction of errors
+### § 2120. Special selection boards; correction of errors
 
 **(a) Officers Not Considered Due to Administrative Error.—**
 
@@ -901,25 +901,25 @@ the Secretary shall convene a special selection board to determine whether such 
 
 **(h) Designation of Boards.—** The Secretary may designate a selection board convened under section 2106 as a special selection board convened under this section. A selection board so designated may function in the capacity of a selection board convened under section 2106 and a special selection board convened under this section.
 
-(Added Pub. L. 112–213, title II, § 208(a), Dec. 20, 2012, 126 Stat. 1546, § 263; renumbered § 2120 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
+(Added Pub. L. 112–213, title II, § 208(a), Dec. 20, 2012, 126 Stat. 1546, § 263; renumbered § 2120 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 112(b), renumbered section 263 of this title as this section.
+2018—Pub. L. 115–282, § 112(b), renumbered section 263 of this title as this section.
 
-Subsec. (a)(1)(A). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251”.
+Subsec. (a)(1)(A). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251”.
 
-Subsec. (b)(1). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251” in introductory provisions.
+Subsec. (b)(1). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 115–282, § 123(b)(2), substituted “section 2107” for “section 252” and “section 2109” for “section 254”.
+Subsec. (c)(1). Pub. L. 115–282, § 123(b)(2), substituted “section 2107” for “section 252” and “section 2109” for “section 254”.
 
-Subsec. (c)(3). Pub. L. 115–282, § 123(b)(2), substituted “sections 2117 and 2118” for “sections 260 and 261”.
+Subsec. (c)(3). Pub. L. 115–282, § 123(b)(2), substituted “sections 2117 and 2118” for “sections 260 and 261”.
 
-Subsec. (f). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251” in introductory provisions.
+Subsec. (f). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251” in introductory provisions.
 
-Subsec. (h). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251” in two places.
+Subsec. (h). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251” in two places.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -927,7 +927,7 @@ Subsec. (h). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” f
 
 Section effective Dec. 20, 2012, with provision for convening a special selection board for certain errors occurring on or after the date that is 1 year before Dec. 20, 2012, see section 208(e)(1) of Pub. L. 112–213, set out as an Effective Date of 2012 Amendment note under section 2118 of this title.
 
-### § 2120a. Special selection review boards
+### § 2120a. Special selection review boards
 
 **(a) In General.—**
 
@@ -1015,9 +1015,9 @@ Section effective Dec. 20, 2012, with provision for convening a special selectio
 
 **(h) Promotion Board Defined.—** In this section, the term “promotion board” means a selection board convened by the Secretary under section 2106 of this title.
 
-(Added Pub. L. 117–263, div. K, title CXII, § 11245(b)(1), Dec. 23, 2022, 136 Stat. 4043.)
+(Added Pub. L. 117–263, div. K, title CXII, § 11245(b)(1), Dec. 23, 2022, 136 Stat. 4043.)
 
-### § 2121. Promotions; appointments
+### § 2121. Promotions; appointments
 
 **(a)** When the report of a board convened to recommend officers for promotion has been approved by the President, the Secretary shall place the names of all officers selected and approved on a list of selectees in the order of their seniority on the active duty promotion list. The names of all officers approved by the President and recommended by the board to be placed at the top of the list of selectees shall be placed at the top of the list of selectees in the order of seniority on the active duty promotion list.
 
@@ -1053,7 +1053,7 @@ Section effective Dec. 20, 2012, with provision for convening a special selectio
 
 **(3)** An officer whose promotion is delayed under this subsection and who is subsequently promoted shall be given the date of rank and position on the active duty promotion list in the grade to which promoted that he would have held had his promotion not been so delayed.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 181, § 271; amended Pub. L. 91–278, § 1(8), June 12, 1970, 84 Stat. 305; Pub. L. 97–417, § 2(5), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 99–145, title V, § 514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 101–225, title II, § 203(2), Dec. 12, 1989, 103 Stat. 1911; Pub. L. 103–337, div. A, title XVI, § 1677(b)(2), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 107–295, title III, § 313(3), Nov. 25, 2002, 116 Stat. 2103; renumbered § 2121 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240; Pub. L. 117–263, div. K, title CXII, § 11245(d), Dec. 23, 2022, 136 Stat. 4046.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 181, § 271; amended Pub. L. 91–278, § 1(8), June 12, 1970, 84 Stat. 305; Pub. L. 97–417, § 2(5), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 99–145, title V, § 514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 101–225, title II, § 203(2), Dec. 12, 1989, 103 Stat. 1911; Pub. L. 103–337, div. A, title XVI, § 1677(b)(2), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 107–295, title III, § 313(3), Nov. 25, 2002, 116 Stat. 2103; renumbered § 2121 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240; Pub. L. 117–263, div. K, title CXII, § 11245(d), Dec. 23, 2022, 136 Stat. 4046.)
 
 **Editorial Notes**
 
@@ -1061,9 +1061,9 @@ Section effective Dec. 20, 2012, with provision for convening a special selectio
 
 2022—Subsec. (f). Pub. L. 117–263 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The promotion of an officer who is under investigation or against whom proceedings of a court-martial or a board of officers are pending may be delayed without prejudice by the Secretary until completion of the investigation or proceedings. However, unless the Secretary determines that a further delay is necessary in the public interest, a promotion may not be delayed under this subsection for more than one year after the date the officer would otherwise have been promoted. An officer whose promotion is delayed under this subsection and who is subsequently promoted shall be given the date of rank and position on the active duty promotion list in the grade to which promoted that he would have held had his promotion not been so delayed.”
 
-2018—Pub. L. 115–282, § 112(b), renumbered section 271 of this title as this section.
+2018—Pub. L. 115–282, § 112(b), renumbered section 271 of this title as this section.
 
-Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2103” for “section 42”.
+Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2103” for “section 42”.
 
 2002—Subsec. (a). Pub. L. 107–295 inserted at end “The names of all officers approved by the President and recommended by the board to be placed at the top of the list of selectees shall be placed at the top of the list of selectees in the order of seniority on the active duty promotion list.”
 
@@ -1073,9 +1073,9 @@ Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2103” f
 
 1985—Subsec. (d). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
 
-1983—Subsec. (c). Pub. L. 97–417, § 2(5)(A), inserted a comma after “ensign may”.
+1983—Subsec. (c). Pub. L. 97–417, § 2(5)(A), inserted a comma after “ensign may”.
 
-Subsecs. (d) to (f). Pub. L. 97–417, § 2(5)(B), (C), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+Subsecs. (d) to (f). Pub. L. 97–417, § 2(5)(B), (C), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
 1970—Subsec. (c). Pub. L. 91–278 substituted “twelve” for “eighteen”.
 
@@ -1087,7 +1087,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 **Rule of Construction**
 
-Pub. L. 112–213, title II, § 208(e)(2), Dec. 20, 2012, 126 Stat. 1549, provided that:
+Pub. L. 112–213, title II, § 208(e)(2), Dec. 20, 2012, 126 Stat. 1549, provided that:
 
 > “Sections 271, 272, and 273 [now 2121, 2122, and 2123] of title 14, United States Code, apply to the activities of—
 
@@ -1097,7 +1097,7 @@ Pub. L. 112–213, title II, § 208(e)(2), Dec. 20, 2012, 126 Stat. 1549, prov
 
 **Permanent Grades and Titles for Officers Holding Certain Grades on January 3, 1983**
 
-Pub. L. 97–417, § 4, Jan. 4, 1983, 96 Stat. 2087, provided that:
+Pub. L. 97–417, § 4, Jan. 4, 1983, 96 Stat. 2087, provided that:
 
 > **“(a)** An officer of the Coast Guard who on the day before the effective date of this Act [Jan. 4, 1983]—
 
@@ -1145,9 +1145,9 @@ Savings provisions in section 5(a), (b), and (d) of Pub. L. 88–130, protecting
 
 **Delegation of Authority**
 
-Authority of President under subsec. (e) of this section to appoint officers in the grades of lieutenant (junior grade) and lieutenant delegated to Secretary of Homeland Security by Ex. Ord. No. 14106, § 1(d), Aug. 14, 2023, 88 F.R. 55905, set out in a note under section 2101 of this title.
+Authority of President under subsec. (e) of this section to appoint officers in the grades of lieutenant (junior grade) and lieutenant delegated to Secretary of Homeland Security by Ex. Ord. No. 14106, § 1(d), Aug. 14, 2023, 88 F.R. 55905, set out in a note under section 2101 of this title.
 
-### § 2122. Removal of officer from list of selectees for promotion
+### § 2122. Removal of officer from list of selectees for promotion
 
 **(a)** The President may remove the name of any officer from a list of selectees established under section 2121 of this title.
 
@@ -1155,55 +1155,55 @@ Authority of President under subsec. (e) of this section to appoint officers in 
 
 **(c)** An officer whose name is removed from a list under subsection (a) or (b) continues to be eligible for consideration for promotion. If he is selected for promotion by the next selection board and promoted, he shall be given the date of rank and position on the active duty promotion list in the grade to which promoted that he would have held if his name had not been removed. However, if the officer is not selected by the next selection board or if his name is again removed from the list of selectees, he shall be considered for all purposes as having twice failed of selection for promotion.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 182, § 272; renumbered § 2122 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 182, § 272; renumbered § 2122 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 112(b), renumbered section 272 of this title as this section.
+2018—Pub. L. 115–282, § 112(b), renumbered section 272 of this title as this section.
 
-Subsecs. (a), (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2121” for “section 271”.
+Subsecs. (a), (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2121” for “section 271”.
 
 **Executive Documents**
 
 **Delegation of Authority**
 
-Authority of President under subsec. (a) of this section to remove a name of an officer from a list of selectees delegated to Secretary of Homeland Security by Ex. Ord. No. 14106, § 1(b), Aug. 14, 2023, 88 F.R. 55905, set out in a note under section 2101 of this title.
+Authority of President under subsec. (a) of this section to remove a name of an officer from a list of selectees delegated to Secretary of Homeland Security by Ex. Ord. No. 14106, § 1(b), Aug. 14, 2023, 88 F.R. 55905, set out in a note under section 2101 of this title.
 
-### § 2123. Promotions; acceptance; oath of office
+### § 2123. Promotions; acceptance; oath of office
 
 **(a)** An officer who receives an appointment under section 2121 of this title is considered to have accepted his appointment on its effective date, unless he expressly declines the appointment.
 
 **(b)** An officer who has served continuously since he subscribed to the oath of office prescribed in section 3331 of title 5 is not required to take a new oath upon his appointment in a higher grade.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 182, § 273; amended Pub. L. 94–546, § 1(20), Oct. 18, 1976, 90 Stat. 2520; renumbered § 2123 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 182, § 273; amended Pub. L. 94–546, § 1(20), Oct. 18, 1976, 90 Stat. 2520; renumbered § 2123 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 112(b), renumbered section 273 of this title as this section.
+2018—Pub. L. 115–282, § 112(b), renumbered section 273 of this title as this section.
 
-Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 2121” for “section 271”.
+Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 2121” for “section 271”.
 
 1976—Subsec. (b). Pub. L. 94–546 substituted reference to section 3331 of title 5 for reference to section 16 of title 5.
 
-### § 2124. Promotions; pay and allowances
+### § 2124. Promotions; pay and allowances
 
 An officer who is promoted under section 2121 of this title shall be entitled to the pay and allowances of the grade to which promoted from his date of rank in such grade.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 182, § 274; renumbered § 2124 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 182, § 274; renumbered § 2124 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 123(b)(2), substituted “section 2121” for “section 271”.
+2018—Pub. L. 115–282, § 123(b)(2), substituted “section 2121” for “section 271”.
 
-Pub. L. 115–282, § 112(b), renumbered section 274 of this title as this section.
+Pub. L. 115–282, § 112(b), renumbered section 274 of this title as this section.
 
-### § 2125. Wartime temporary service promotions
+### § 2125. Wartime temporary service promotions
 
 **(a)** In time of war, or of national emergency declared by the President or Congress, the President may suspend any section of this chapter relating to the selection, promotion, or involuntary separation of officers. Such a suspension may not continue beyond six months after the termination of the war or national emergency.
 
@@ -1211,7 +1211,7 @@ Pub. L. 115–282, § 112(b), renumbered section 274 of this title as this sec
 
 **(c)** In time of war, or of national emergency declared by the President or Congress, the President may, under regulations to be prescribed by him, promote to the next higher warrant officer grade any warrant officer serving on active duty in a grade below chief warrant officer, W–4.
 
-**[(d)** Repealed. Pub. L. 97–417, § 2(6), Jan. 4, 1983, 96 Stat. 2085.]
+**[(d)** Repealed. Pub. L. 97–417, § 2(6), Jan. 4, 1983, 96 Stat. 2085.]
 
 **(e)** A promotion under this section to a grade above lieutenant may be made only upon the recommendation of a board of officers convened for that purpose.
 
@@ -1223,15 +1223,15 @@ Pub. L. 115–282, § 112(b), renumbered section 274 of this title as this sec
 
 **(i)** Not later than six months after the end of the war or national emergency the President shall, under such regulations as he may prescribe, reestablish the active duty promotion list with adjustments and additions appropriate to the conditions of original appointment and wartime service of all officers to be included thereon. The President may, by and with the advice and consent of the Senate, appoint officers on the reestablished active duty promotion list to fill vacancies in the authorized active duty strength of each grade. Such appointments shall be considered to have been made under section 2121 of this title.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 182, § 275; amended Pub. L. 92–129, title VI, § 605, Sept. 28, 1971, 85 Stat. 362; Pub. L. 97–417, § 2(6), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 109–241, title II, § 217(b), July 11, 2006, 120 Stat. 526; renumbered § 2125 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 182, § 275; amended Pub. L. 92–129, title VI, § 605, Sept. 28, 1971, 85 Stat. 362; Pub. L. 97–417, § 2(6), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 109–241, title II, § 217(b), July 11, 2006, 120 Stat. 526; renumbered § 2125 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 112(b), renumbered section 275 of this title as this section.
+2018—Pub. L. 115–282, § 112(b), renumbered section 275 of this title as this section.
 
-Subsec. (i). Pub. L. 115–282, § 123(b)(2), substituted “section 2121” for “section 271”.
+Subsec. (i). Pub. L. 115–282, § 123(b)(2), substituted “section 2121” for “section 271”.
 
 2006—Subsec. (f). Pub. L. 109–241 substituted “Original appointments under this section in the grades of lieutenant commander and above shall be made by the President by and with the advice and consent of the Senate. Original appointments under this section in the grades of ensign through lieutenant shall be made by the President alone.” for “An appointment under this section to a grade above captain shall be made by the President by and with the advice and consent of the Senate. An appointment under this section to grade above lieutenant commander of an officer in the Coast Guard Reserve shall be made by the President, by and with the advice and consent of the Senate.”
 
@@ -1243,15 +1243,15 @@ Subsec. (i). Pub. L. 115–282, § 123(b)(2), substituted “section 2121” f
 
 **Delegation of Authority**
 
-Authority of President under this section, during a time of war or national emergency, to suspend the operation of any law relating to the selection, promotion, or involuntary separation of officers of the Coast Guard, and to temporarily promote officers serving on active duty and chief warrant officers serving on active duty, delegated to Secretary of Homeland Security without the approval, ratification, or other action by the President by Ex. Ord. No. 14106, § 2(a), Aug. 14, 2023, 88 F.R. 55905, set out in a note under section 2101 of this title.
+Authority of President under this section, during a time of war or national emergency, to suspend the operation of any law relating to the selection, promotion, or involuntary separation of officers of the Coast Guard, and to temporarily promote officers serving on active duty and chief warrant officers serving on active duty, delegated to Secretary of Homeland Security without the approval, ratification, or other action by the President by Ex. Ord. No. 14106, § 2(a), Aug. 14, 2023, 88 F.R. 55905, set out in a note under section 2101 of this title.
 
 Authority of President under subsec. (a) of this section, as invoked by section 2 of Ex. Ord. No. 13223, Sept. 14, 2001, 66 F.R. 48201, delegated to Secretary of Homeland Security by section 5 of Ex. Ord. No. 13223, set out as a note under section 12302 of Title 10, Armed Forces.
 
-### § 2126. Promotion of officers not included on active duty promotion list
+### § 2126. Promotion of officers not included on active duty promotion list
 
 Officers who are not included on the active duty promotion list may be promoted under regulations to be prescribed by the Secretary. These regulations shall, as to officers serving in connection with organizing, administering, recruiting, instructing, or training the reserve components and as to officers designated by the Secretary pursuant to this section, provide as nearly as practicable, that such officers will be selected and promoted in the same manner and will be afforded equal opportunity for promotion as officers of the corresponding grade on the active duty promotion list.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 183, § 276; renumbered § 2126, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216; amended Pub. L. 119–60, div. G, title LXXII, § 7221(c)(3), Dec. 18, 2025, 139 Stat. 1700.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 183, § 276; renumbered § 2126, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216; amended Pub. L. 119–60, div. G, title LXXII, § 7221(c)(3), Dec. 18, 2025, 139 Stat. 1700.)
 
 **Editorial Notes**
 
@@ -1261,11 +1261,11 @@ Officers who are not included on the active duty promotion list may be promoted 
 
 2018—Pub. L. 115–282 renumbered section 276 of this title as this section.
 
-### § 2127. Recall to active duty during war or national emergency
+### § 2127. Recall to active duty during war or national emergency
 
 In time of war or national emergency, the Secretary may order any regular officer on the retired list to active duty.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 189, § 331; renumbered § 2127, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 189, § 331; renumbered § 2127, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216.)
 
 **Editorial Notes**
 
@@ -1279,13 +1279,13 @@ In time of war or national emergency, the Secretary may order any regular office
 
 For delegation of authority under this section, as invoked by section 2 of Ex. Ord. No. 13223, Sept. 14, 2001, 66 F.R. 48201, to Secretary of Homeland Security when Coast Guard is not serving as part of Navy, see section 5 of Ex. Ord. No. 13223, set out as a note under section 12302 of Title 10, Armed Forces.
 
-### § 2128. Recall to active duty with consent of officer
+### § 2128. Recall to active duty with consent of officer
 
 **(a)** Any regular officer on the retired list may, with that officer’s consent, be assigned to such duties as that officer may be able to perform.
 
 **(b)** The number of retired officers on active duty in the grade of lieutenant commander, commander, or captain shall not exceed 2 percent of the authorized number of officers on active duty in each such grade. However, this limitation does not apply to retired officers of these grades recalled to serve as members of courts, boards, panels, surveys, or special projects for periods not to exceed one year.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 189, § 332; amended Pub. L. 89–444, § 1(18), June 9, 1966, 80 Stat. 196; Pub. L. 91–278, § 1(9), June 12, 1970, 84 Stat. 305; Pub. L. 102–241, § 14, Dec. 19, 1991, 105 Stat. 2213; renumbered § 2128, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 189, § 332; amended Pub. L. 89–444, § 1(18), June 9, 1966, 80 Stat. 196; Pub. L. 91–278, § 1(9), June 12, 1970, 84 Stat. 305; Pub. L. 102–241, § 14, Dec. 19, 1991, 105 Stat. 2213; renumbered § 2128, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216.)
 
 **Editorial Notes**
 
@@ -1293,33 +1293,33 @@ For delegation of authority under this section, as invoked by section 2 of Ex. O
 
 2018—Pub. L. 115–282 renumbered section 332 of this title as this section.
 
-1991—Subsec. (a). Pub. L. 102–241, § 14(b), substituted “that officer’s” for “his” and “that officer” for “he”.
+1991—Subsec. (a). Pub. L. 102–241, § 14(b), substituted “that officer’s” for “his” and “that officer” for “he”.
 
-Subsec. (b). Pub. L. 102–241, § 14(a), substituted “2” for “1”.
+Subsec. (b). Pub. L. 102–241, § 14(a), substituted “2” for “1”.
 
 1970—Subsec. (a). Pub. L. 91–278 struck out prohibition against recall to duty in time of peace of any officer on retired list who reached age of sixty-two years.
 
 1966—Subsec. (b). Pub. L. 89–444 provided that the percentage limitation on the number of retired officers on active duty in the grade of lieutenant commander, commander, or captain should not apply to retired officers of those grades recalled to serve as members of courts, boards, panels, surveys, or special projects for periods not to exceed one year.
 
-### § 2129. Aviation cadets; appointment as Reserve officers
+### § 2129. Aviation cadets; appointment as Reserve officers
 
 **(a)** An aviation cadet designated under section 2317 who fulfills the eligibility requirements of section 2003 of title 10 for designation as a naval aviator may be appointed an ensign in the Coast Guard Reserve and designated a Coast Guard aviator.
 
 **(b)** Aviation cadets who complete their training at approximately the same time are considered for all purposes to have begun their commissioned service on the same date, and the decision of the Secretary in this regard is conclusive.
 
-(Added Pub. L. 89–444, § 1(20), June 9, 1966, 80 Stat. 197, § 373; amended Pub. L. 94–546, § 1(28), Oct. 18, 1976, 90 Stat. 2521; renumbered § 2129 and amended Pub. L. 115–282, title I, § 112(b), title III, § 313, Dec. 4, 2018, 132 Stat. 4216, 4249.)
+(Added Pub. L. 89–444, § 1(20), June 9, 1966, 80 Stat. 197, § 373; amended Pub. L. 94–546, § 1(28), Oct. 18, 1976, 90 Stat. 2521; renumbered § 2129 and amended Pub. L. 115–282, title I, § 112(b), title III, § 313, Dec. 4, 2018, 132 Stat. 4216, 4249.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 112(b), renumbered section 373 of this title as this section.
+2018—Pub. L. 115–282, § 112(b), renumbered section 373 of this title as this section.
 
-Subsec. (a). Pub. L. 115–282, § 313, inserted “designated under section 2317” after “cadet”.
+Subsec. (a). Pub. L. 115–282, § 313, inserted “designated under section 2317” after “cadet”.
 
 1976—Subsec. (a). Pub. L. 94–546 substituted reference to section 2003 of title 10 for reference to section 6023(b) of title 10.
 
-### § 2130. Promotion to certain grades for officers with critical skills: captain, commander, lieutenant commander, lieutenant
+### § 2130. Promotion to certain grades for officers with critical skills: captain, commander, lieutenant commander, lieutenant
 
 **(a) In General.—** An officer in the grade of lieutenant (junior grade), lieutenant, lieutenant commander, or commander who is described in subsection (b) may be temporarily promoted to the grade of lieutenant, lieutenant commander, commander, or captain under regulations prescribed by the Secretary. Appointments under this section shall be made by the President, by and with the advice and consent of the Senate.
 
@@ -1363,9 +1363,9 @@ Subsec. (a). Pub. L. 115–282, § 313, inserted “designated under section 2
 
 **(4)** As captain, 2.6 percent.
 
-(Added Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8203(a), Jan. 1, 2021, 134 Stat. 4643.)
+(Added Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8203(a), Jan. 1, 2021, 134 Stat. 4643.)
 
-### § 2131. College student pre-commissioning initiative
+### § 2131. College student pre-commissioning initiative
 
 **(a) In General.—** There is authorized within the Coast Guard a college student pre-commissioning initiative program (in this section referred to as the “Program” ) for eligible undergraduate students to enlist and receive a guaranteed commission as an officer in the Coast Guard.
 
@@ -1397,9 +1397,9 @@ Subsec. (a). Pub. L. 115–282, § 313, inserted “designated under section 2
 
 **(ii)** an undergraduate sophomore or junior enrolled at an institution of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)) that, at the time of application of the sophomore or junior, has had for 3 consecutive years an enrollment of undergraduate full-time equivalent students (as defined in section 312(e) of such Act (20 U.S.C. 1058(e))) that is a total of at least 50 percent Black American, Hispanic, Asian American (as defined in section 371(c) of such Act (20 U.S.C. 1067q(c))), Native American Pacific Islander (as defined in such section), or Native American (as defined in such section), among other criteria, as determined by the Commandant.
 
-**(B) Location.—** The institution at which such student is an undergraduate must be within 100 miles of a Coast guard 1
+**(B) Location.—** The institution at which such student is an undergraduate must be within 100 miles of a Coast guard 1
 
-<sup>1</sup>  So in original. Probably should be “Guard”.
+<sup>1</sup> So in original. Probably should be “Guard”.
 
 unit or Coast Guard Recruiting Office unless otherwise approved by the Commandant.
 
@@ -1435,9 +1435,9 @@ unit or Coast Guard Recruiting Office unless otherwise approved by the Commandan
 
 **(v)** educational institution.
 
-(Added Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8276(a), Jan. 1, 2021, 134 Stat. 4685.)
+(Added Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8276(a), Jan. 1, 2021, 134 Stat. 4685.)
 
-### § 2132. Designation of officers with particular expertise in military justice or healthcare
+### § 2132. Designation of officers with particular expertise in military justice or healthcare
 
 **(a) Secretary Designation.—** The Secretary may designate a limited number of officers of the Coast Guard as having particular expertise in—
 
@@ -1453,7 +1453,7 @@ unit or Coast Guard Recruiting Office unless otherwise approved by the Commandan
 
 **(3)** may not be promoted to a grade higher than captain.
 
-(Added Pub. L. 119–60, div. G, title LXXII, § 7221(a), Dec. 18, 2025, 139 Stat. 1699.)
+(Added Pub. L. 119–60, div. G, title LXXII, § 7221(a), Dec. 18, 2025, 139 Stat. 1699.)
 
 ## SUBCHAPTER II—DISCHARGES; RETIREMENTS; REVOCATION OF COMMISSIONS; SEPARATION FOR CAUSE
 
@@ -1461,17 +1461,17 @@ unit or Coast Guard Recruiting Office unless otherwise approved by the Commandan
 
 **Prior Provisions**
 
-A prior subchapter B of chapter 21 designation and accompanying heading “COMMISSIONED OFFICERS” were repealed by Pub. L. 115–282, title I, § 112(c)(1), Dec. 4, 2018, 132 Stat. 4220.
+A prior subchapter B of chapter 21 designation and accompanying heading “COMMISSIONED OFFICERS” were repealed by Pub. L. 115–282, title I, § 112(c)(1), Dec. 4, 2018, 132 Stat. 4220.
 
 **Amendments**
 
-2018—Pub. L. 115–282, title I, § 112(c)(4), Dec. 4, 2018, 132 Stat. 4221, inserted subchapter II designation and heading.
+2018—Pub. L. 115–282, title I, § 112(c)(4), Dec. 4, 2018, 132 Stat. 4221, inserted subchapter II designation and heading.
 
-### § 2141. Revocation of commissions during first five years of commissioned service
+### § 2141. Revocation of commissions during first five years of commissioned service
 
 The Secretary, under such regulations as he may prescribe, may revoke the commission of any regular officer on active duty who, at the date of such revocation, has had less than five years of continuous service as a commissioned officer in the Regular Coast Guard.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 183, § 281; amended Pub. L. 107–295, title IV, § 416(a)(1), Nov. 25, 2002, 116 Stat. 2121; renumbered § 2141, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 183, § 281; amended Pub. L. 107–295, title IV, § 416(a)(1), Nov. 25, 2002, 116 Stat. 2121; renumbered § 2141, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216.)
 
 **Editorial Notes**
 
@@ -1481,7 +1481,7 @@ The Secretary, under such regulations as he may prescribe, may revoke the commis
 
 2002—Pub. L. 107–295 substituted “five” for “three” in section catchline and text.
 
-### § 2142. Regular lieutenants (junior grade); separation for failure of selection for promotion
+### § 2142. Regular lieutenants (junior grade); separation for failure of selection for promotion
 
 Each officer of the Regular Coast Guard appointed under section 2101 of this title who is serving in the grade of lieutenant (junior grade) and who has failed of selection for promotion to the grade of lieutenant for the second time, shall:
 
@@ -1491,15 +1491,15 @@ Each officer of the Regular Coast Guard appointed under section 2101 of this tit
 
 **(3)** if, on the date specified for his discharge in this section, he is eligible for retirement under any law, be retired on that date.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 184, § 282; amended Pub. L. 94–546, § 1(21), Oct. 18, 1976, 90 Stat. 2520; renumbered § 2142 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 184, § 282; amended Pub. L. 94–546, § 1(21), Oct. 18, 1976, 90 Stat. 2520; renumbered § 2142 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 123(b)(2), substituted “section 2101” for “section 211” in introductory provisions.
+2018—Pub. L. 115–282, § 123(b)(2), substituted “section 2101” for “section 211” in introductory provisions.
 
-Pub. L. 115–282, § 112(b), renumbered section 282 of this title as this section.
+Pub. L. 115–282, § 112(b), renumbered section 282 of this title as this section.
 
 1976—Pub. L. 94–546 substituted “promotion year” for “fiscal year” in cl. (1).
 
@@ -1513,7 +1513,7 @@ Savings provisions in section 5(g) of Pub. L. 88–130 providing that Pub. L. 88
 
 Savings provisions in section 5(h) of Pub. L. 88–130 providing that notwithstanding section 1431 of Title 10, Armed Forces, an election, change or revocation thereof affecting an annuity, by an officer retired under this section, is effective if made prior to the first day of the third month following September 1963, are set out as a note under section 2101 of this title.
 
-### § 2143. Regular lieutenants; separation for failure of selection for promotion; continuation
+### § 2143. Regular lieutenants; separation for failure of selection for promotion; continuation
 
 **(a)** Each officer of the Regular Coast Guard appointed under section 2101 of this title who is serving in the grade of lieutenant and who has failed of selection for promotion to the grade of lieutenant commander for the second time shall:
 
@@ -1539,19 +1539,19 @@ Savings provisions in section 5(h) of Pub. L. 88–130 providing that notwithsta
 
 **(c)** Each officer who has been continued on active duty under subsection (b) shall, unless earlier removed from active duty, be retired on the last day of the month in which he completes twenty years of active service.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 184, § 283; amended Pub. L. 93–283, § 1(6), May 14, 1974, 88 Stat. 140; Pub. L. 94–546, § 1(22), Oct. 18, 1976, 90 Stat. 2520; Pub. L. 97–295, § 2(9), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 104–324, title II, § 205, Oct. 19, 1996, 110 Stat. 3907; Pub. L. 107–295, title IV, § 416(a)(2), Nov. 25, 2002, 116 Stat. 2121; renumbered § 2143 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 184, § 283; amended Pub. L. 93–283, § 1(6), May 14, 1974, 88 Stat. 140; Pub. L. 94–546, § 1(22), Oct. 18, 1976, 90 Stat. 2520; Pub. L. 97–295, § 2(9), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 104–324, title II, § 205, Oct. 19, 1996, 110 Stat. 3907; Pub. L. 107–295, title IV, § 416(a)(2), Nov. 25, 2002, 116 Stat. 2121; renumbered § 2143 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 112(b), renumbered section 283 of this title as this section.
+2018—Pub. L. 115–282, § 112(b), renumbered section 283 of this title as this section.
 
-Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 2101” for “section 211” in introductory provisions.
+Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 2101” for “section 211” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251”.
+Subsec. (b)(1). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251”.
 
-Subsec. (b)(2)(A). Pub. L. 115–282, § 123(b)(2), substituted “section 2146” for “section 286”.
+Subsec. (b)(2)(A). Pub. L. 115–282, § 123(b)(2), substituted “section 2146” for “section 286”.
 
 2002—Subsec. (b)(2)(A). Pub. L. 107–295 substituted “separation” for “severance”.
 
@@ -1577,7 +1577,7 @@ Savings provisions in section 5(g) of Pub. L. 88–130 providing that Pub. L. 88
 
 Savings provisions in section 5(h) of Pub. L. 88–130 providing that notwithstanding section 1431 of Title 10, Armed Forces, an election, change or revocation thereof affecting an annuity, by an officer retired under this section, is effective if made prior to the first day of the third month following September 1963, are set out as a note under section 2101 of this title.
 
-### § 2144. Regular Coast Guard; officers serving under temporary appointments
+### § 2144. Regular Coast Guard; officers serving under temporary appointments
 
 **(a)** Each officer of the Regular Coast Guard appointed under section 2104 of this title who is serving in the grade of lieutenant (junior grade) or lieutenant and who has failed of selection for promotion to the grade of lieutenant or lieutenant commander, respectively, for the second time shall:
 
@@ -1589,15 +1589,15 @@ Savings provisions in section 5(h) of Pub. L. 88–130 providing that notwithsta
 
 **(b)** Each officer subject to discharge or retirement under subsection (a) may elect to revert to his permanent grade.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 184, § 284; amended Pub. L. 94–546, § 1(23), Oct. 18, 1976, 90 Stat. 2520; renumbered § 2144 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 184, § 284; amended Pub. L. 94–546, § 1(23), Oct. 18, 1976, 90 Stat. 2520; renumbered § 2144 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 112(b), renumbered section 284 of this title as this section.
+2018—Pub. L. 115–282, § 112(b), renumbered section 284 of this title as this section.
 
-Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 2104” for “section 214” in introductory provisions.
+Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 2104” for “section 214” in introductory provisions.
 
 1976—Subsec. (a)(1). Pub. L. 94–546 substituted “promotion year” for “fiscal year”.
 
@@ -1611,7 +1611,7 @@ Savings provisions in section 5(g) of Pub. L. 88–130 providing that Pub. L. 88
 
 Savings provisions in section 5(h) of Pub. L. 88–130 providing that notwithstanding section 1431 of Title 10, Armed Forces, an election, change or revocation thereof affecting an annuity, by an officer retired under this section, is effective if made prior to the first day of the third month following September 1963, are set out as a note under section 2101 of this title.
 
-### § 2145. Regular lieutenant commanders and commanders; retirement for failure of selection for promotion
+### § 2145. Regular lieutenant commanders and commanders; retirement for failure of selection for promotion
 
 **(a)** Each officer of the Regular Coast Guard serving in the grade of lieutenant commander or commander, who has failed of selection for promotion to the grade of commander or captain, respectively, for the second time shall:
 
@@ -1627,15 +1627,15 @@ Savings provisions in section 5(h) of Pub. L. 88–130 providing that notwithsta
 
 **(2)** Unless retired or discharged under another provision of law, each officer who is continued on active duty under subsection (b) but is not subsequently promoted or continued on active duty, and is not on a list of officers recommended for continuation or for promotion to the next higher grade, shall, if eligible for retirement under any provision of law, be retired under that law on the first day of the first month following the month in which the period of continued service is completed.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 185, § 285; amended Pub. L. 93–283, § 1(7), May 14, 1974, 88 Stat. 140; Pub. L. 94–546, § 1(24), Oct. 18, 1976, 90 Stat. 2521; Pub. L. 107–295, title IV, § 412, Nov. 25, 2002, 116 Stat. 2118; renumbered § 2145 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 185, § 285; amended Pub. L. 93–283, § 1(7), May 14, 1974, 88 Stat. 140; Pub. L. 94–546, § 1(24), Oct. 18, 1976, 90 Stat. 2521; Pub. L. 107–295, title IV, § 412, Nov. 25, 2002, 116 Stat. 2118; renumbered § 2145 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 112(b), renumbered section 285 of this title as this section.
+2018—Pub. L. 115–282, § 112(b), renumbered section 285 of this title as this section.
 
-Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251”.
+Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251”.
 
 2002—Pub. L. 107–295 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
@@ -1653,7 +1653,7 @@ Savings provisions in section 5(g) of Pub. L. 88–130 providing that Pub. L. 88
 
 Savings provisions in section 5(h) of Pub. L. 88–130 providing that notwithstanding section 1431 of Title 10, Armed Forces, an election, change or revocation thereof affecting an annuity, by an officer retired under this section, is effective if made prior to the first day of the third month following September 1963, are set out as a note under section 2101 of this title.
 
-### § 2146. Discharge in lieu of retirement; separation pay
+### § 2146. Discharge in lieu of retirement; separation pay
 
 **(a)** Each officer who is retained on active duty under section 2143(a)(4), 2143(b), or 2145 of this title may, if he so requests, with the approval of the Secretary, be honorably discharged at any time prior to the date otherwise specified for his retirement or discharge.
 
@@ -1663,21 +1663,21 @@ Savings provisions in section 5(h) of Pub. L. 88–130 providing that notwithsta
 
 **(d)** Notwithstanding subsections (a) and (b), an officer discharged under this chapter for twice failing of selection for promotion to the next higher grade is not entitled to separation pay under this section if the officer requested in writing or otherwise sought not to be selected for promotion, or requested removal from the list of selectees.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 185, § 286; amended Pub. L. 107–295, title IV, § 416(a)(3), Nov. 25, 2002, 116 Stat. 2121; renumbered § 2146 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), (c)(2)(A), Dec. 4, 2018, 132 Stat. 4216, 4240.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 185, § 286; amended Pub. L. 107–295, title IV, § 416(a)(3), Nov. 25, 2002, 116 Stat. 2121; renumbered § 2146 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), (c)(2)(A), Dec. 4, 2018, 132 Stat. 4216, 4240.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 112(b), renumbered section 286 of this title as this section.
+2018—Pub. L. 115–282, § 112(b), renumbered section 286 of this title as this section.
 
-Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 2143(a)(4), 2143(b), or 2145” for “section 283(a)(4), 283(b), or 285”.
+Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 2143(a)(4), 2143(b), or 2145” for “section 283(a)(4), 283(b), or 285”.
 
-Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2142, 2143, or 2144” for “section 282, 283, or 284”.
+Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2142, 2143, or 2144” for “section 282, 283, or 284”.
 
-Subsec. (c). Pub. L. 115–282, § 123(b)(2), substituted “section 2164” for “section 327”.
+Subsec. (c). Pub. L. 115–282, § 123(b)(2), substituted “section 2164” for “section 327”.
 
-Subsec. (d). Pub. L. 115–282, § 123(c)(2)(A), substituted “this chapter” for “chapter 11 of this title”.
+Subsec. (d). Pub. L. 115–282, § 123(c)(2)(A), substituted “this chapter” for “chapter 11 of this title”.
 
 2002—Pub. L. 107–295 substituted “separation” for “severance” in section catchline, added subsecs. (b) to (d), and struck out former subsec. (b) which read as follows: “Each officer discharged under this section or under section 282, 283, or 284 of this title is entitled to a lump-sum payment computed by multiplying his years of active commissioned service, but not more than twelve, by two months’ basic pay of the grade in which he is serving on the date of his discharge. In determining the total number of years of active service to be used as a multiplier in computing this payment, a part of a year that is six months or more is counted as a whole year and a part of a year that is less than six months is disregarded. The acceptance of a lump-sum payment under this section does not deprive a person of any retirement benefits from the United States. However, there shall be deducted from each of his retirement payments so much thereof as is based on the service for which he has received payment under this section until the total amount deducted equals the amount of the lump-sum payment.”
 
@@ -1685,9 +1685,9 @@ Subsec. (d). Pub. L. 115–282, § 123(c)(2)(A), substituted “this chapter�
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–295, title IV, § 416(c), Nov. 25, 2002, 116 Stat. 2122, provided that: “The amendments made by paragraphs (2), (3), (4), and (5) of subsection (a) [amending this section and sections 283, 286a, and 327 of this title] shall take effect 4 years after the date of enactment of this Act [Nov. 25, 2002], except that subsection (d) of section 286 [now 2146] of title 14, United States Code, as amended by paragraph (3) of subsection (a) of this section, shall take effect on the date of enactment of this Act and shall apply with respect to conduct on or after that date. The amendments made to the table of sections of [former] chapter 11 of title 14, United States Code, by paragraphs (2), (3), and (4) of subsection (b) of this section shall take effect 4 years after the date of enactment of this Act.”
+Pub. L. 107–295, title IV, § 416(c), Nov. 25, 2002, 116 Stat. 2122, provided that: “The amendments made by paragraphs (2), (3), (4), and (5) of subsection (a) [amending this section and sections 283, 286a, and 327 of this title] shall take effect 4 years after the date of enactment of this Act [Nov. 25, 2002], except that subsection (d) of section 286 [now 2146] of title 14, United States Code, as amended by paragraph (3) of subsection (a) of this section, shall take effect on the date of enactment of this Act and shall apply with respect to conduct on or after that date. The amendments made to the table of sections of [former] chapter 11 of title 14, United States Code, by paragraphs (2), (3), and (4) of subsection (b) of this section shall take effect 4 years after the date of enactment of this Act.”
 
-### § 2147. Regular warrant officers: separation pay
+### § 2147. Regular warrant officers: separation pay
 
 **(a)** A regular warrant officer of the Coast Guard who is discharged under section 580 of title 10, and has completed 6 or more, but less than 20, continuous years of active service immediately before that discharge is entitled to separation pay computed under subsection (d)(1) of section 1174 of title 10.
 
@@ -1697,7 +1697,7 @@ Pub. L. 107–295, title IV, § 416(c), Nov. 25, 2002, 116 Stat. 2122, provide
 
 **(d)** The acceptance of separation pay under this section does not deprive an individual of any retirement benefits from the United States. However, there shall be deducted from each of his retirement payments so much thereof as is based on the service for which he has received separation pay under this section, until the total deductions equal the amount of such separation pay.
 
-(Added Pub. L. 96–513, title V, § 505(a)(1), Dec. 12, 1980, 94 Stat. 2918, § 286a; amended Pub. L. 102–190, div. A, title XI, § 1125(b)(1), Dec. 5, 1991, 105 Stat. 1505; Pub. L. 103–337, div. A, title V, § 541(f)(2), Oct. 5, 1994, 108 Stat. 2766; Pub. L. 105–383, title II, § 201(a), (b), Nov. 13, 1998, 112 Stat. 3414; Pub. L. 107–295, title IV, § 416(a)(4), Nov. 25, 2002, 116 Stat. 2121; Pub. L. 112–213, title II, § 217(4), Dec. 20, 2012, 126 Stat. 1557; renumbered § 2147, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(17), Jan. 1, 2021, 134 Stat. 4748.)
+(Added Pub. L. 96–513, title V, § 505(a)(1), Dec. 12, 1980, 94 Stat. 2918, § 286a; amended Pub. L. 102–190, div. A, title XI, § 1125(b)(1), Dec. 5, 1991, 105 Stat. 1505; Pub. L. 103–337, div. A, title V, § 541(f)(2), Oct. 5, 1994, 108 Stat. 2766; Pub. L. 105–383, title II, § 201(a), (b), Nov. 13, 1998, 112 Stat. 3414; Pub. L. 107–295, title IV, § 416(a)(4), Nov. 25, 2002, 116 Stat. 2121; Pub. L. 112–213, title II, § 217(4), Dec. 20, 2012, 126 Stat. 1557; renumbered § 2147, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(17), Jan. 1, 2021, 134 Stat. 4748.)
 
 **Editorial Notes**
 
@@ -1711,9 +1711,9 @@ Pub. L. 107–295, title IV, § 416(c), Nov. 25, 2002, 116 Stat. 2122, provide
 
 2002—Pub. L. 107–295 substituted “separation” for “severance” in section catchline, added subsecs. (a) to (c), and struck out former subsecs. (a) to (c) which related to, in subsec. (a), severance pay of a regular warrant officer of the Coast Guard who is separated under section 580(a)(4)(A) of title 10, in subsec. (b), severance pay of a regular warrant officer of the Coast Guard who is separated under section 1166 of title 10, and, in subsec. (c), the calculation of part of the year of service for the purposes of this section.
 
-1998—Subsec. (b). Pub. L. 105–383, § 201(b), inserted before period at end “, unless the Secretary determines that the conditions under which the officer is discharged or separated do not warrant payment of that amount of severance pay”.
+1998—Subsec. (b). Pub. L. 105–383, § 201(b), inserted before period at end “, unless the Secretary determines that the conditions under which the officer is discharged or separated do not warrant payment of that amount of severance pay”.
 
-Subsec. (d). Pub. L. 105–383, § 201(a), struck out at end “However, no person is entitled to severance pay under this section in an amount that is more than $15,000.”
+Subsec. (d). Pub. L. 105–383, § 201(a), struck out at end “However, no person is entitled to severance pay under this section in an amount that is more than $15,000.”
 
 1994—Subsec. (a). Pub. L. 103–337 substituted “section 580(a)(4)(A) of title 10” for “section 564(a)(3) of title 10 (as in effect on the day before the effective date of the Warrant Officer Management Act)”.
 
@@ -1741,19 +1741,19 @@ Section effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out a
 
 For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513, and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of Title 10, Armed Forces.
 
-### § 2148. Separation for failure of selection for promotion or continuation; time of
+### § 2148. Separation for failure of selection for promotion or continuation; time of
 
 If, under section 2142, 2143, 2144, 2145, 2150, or 2151 of this title, the discharge or retirement of any officer would be required less than six months following approval of the report of the board which considered but did not select him for promotion or continuation, the discharge or retirement of such officer shall be deferred until the last day of the sixth calendar month after such approval.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 185, § 287; amended Pub. L. 92–451, § 1(6), Oct. 2, 1972, 86 Stat. 755; renumbered § 2148 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 185, § 287; amended Pub. L. 92–451, § 1(6), Oct. 2, 1972, 86 Stat. 755; renumbered § 2148 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 123(b)(2), substituted “section 2142, 2143, 2144, 2145, 2150, or 2151” for “section 282, 283, 284, 285, 289, or 290”.
+2018—Pub. L. 115–282, § 123(b)(2), substituted “section 2142, 2143, 2144, 2145, 2150, or 2151” for “section 282, 283, 284, 285, 289, or 290”.
 
-Pub. L. 115–282, § 112(b), renumbered section 287 of this title as this section.
+Pub. L. 115–282, § 112(b), renumbered section 287 of this title as this section.
 
 1972—Pub. L. 92–451 inserted reference to section 290.
 
@@ -1763,23 +1763,23 @@ Pub. L. 115–282, § 112(b), renumbered section 287 of this title as this sec
 
 Amendment by Pub. L. 92–451 effective Oct. 2, 1972, except that continuation boards may not be held until one year thereafter, see section 3 of Pub. L. 92–451, set out as a note under section 2151 of this title.
 
-### § 2149. Regular captains; retirement
+### § 2149. Regular captains; retirement
 
 **(a)** Each officer of the Regular Coast Guard serving in the grade of captain whose name is not carried on an approved list of officers selected for promotion to the grade of rear admiral (lower half) shall, unless retired under some other provision of law, be retired on June 30 of the promotion year in which he, or any captain junior to him on the active duty promotion list who has not lost numbers or precedence, completes thirty years of active commissioned service in the Coast Guard. An officer advanced in precedence on the active duty promotion list because of his promotion resulting from selection for promotion from below the zone, or from being placed at the top of the list of selectees promulgated by the Secretary under section 2121(a) of this title, is not subject to involuntary retirement under this section earlier than if he had not been selected from below the zone or placed at the top of the list of selectees, as applicable.
 
 **(b)** Retired pay computed under section 2504(a) of this title of an officer retired under this section shall not be less than 50 percent of the basic pay upon which the computation of his retired pay is based.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 185, § 288; amended Pub. L. 93–283, § 1(8), May 14, 1974, 88 Stat. 140; Pub. L. 94–546, § 1(25), Oct. 18, 1976, 90 Stat. 2521; Pub. L. 96–342, title VIII, § 813(f)(1), Sept. 8, 1980, 94 Stat. 1109; Pub. L. 97–417, § 2(7), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 99–348, title II, § 205(b)(4), July 1, 1986, 100 Stat. 700; Pub. L. 99–661, div. A, title XIII, § 1343(c), Nov. 14, 1986, 100 Stat. 3995; renumbered § 2149 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), title III, § 309, Dec. 4, 2018, 132 Stat. 4216, 4240, 4248.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 185, § 288; amended Pub. L. 93–283, § 1(8), May 14, 1974, 88 Stat. 140; Pub. L. 94–546, § 1(25), Oct. 18, 1976, 90 Stat. 2521; Pub. L. 96–342, title VIII, § 813(f)(1), Sept. 8, 1980, 94 Stat. 1109; Pub. L. 97–417, § 2(7), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 99–348, title II, § 205(b)(4), July 1, 1986, 100 Stat. 700; Pub. L. 99–661, div. A, title XIII, § 1343(c), Nov. 14, 1986, 100 Stat. 3995; renumbered § 2149 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), title III, § 309, Dec. 4, 2018, 132 Stat. 4216, 4240, 4248.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 112(b), renumbered section 288 of this title as this section.
+2018—Pub. L. 115–282, § 112(b), renumbered section 288 of this title as this section.
 
-Subsec. (a). Pub. L. 115–282, § 309, substituted “zone, or from being placed at the top of the list of selectees promulgated by the Secretary under section 2121(a) of this title, is” for “zone is” and inserted “or placed at the top of the list of selectees, as applicable” before period at end.
+Subsec. (a). Pub. L. 115–282, § 309, substituted “zone, or from being placed at the top of the list of selectees promulgated by the Secretary under section 2121(a) of this title, is” for “zone is” and inserted “or placed at the top of the list of selectees, as applicable” before period at end.
 
-Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2504(a)” for “section 423(a)”.
+Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2504(a)” for “section 423(a)”.
 
 1986—Subsec. (a). Pub. L. 99–661 substituted “rear admiral (lower half)” for “commodore”.
 
@@ -1803,7 +1803,7 @@ Amendment by Pub. L. 93–283 effective Sept. 24, 1963, see section 2 of Pub. L.
 
 Savings provisions in section 5(f)–(h) of Pub. L. 88–130 relating to retirement, retirement pay, and election, change or revocation of election of an annuity, are set out as a note under section 2101 of this title.
 
-### § 2150. Captains; continuation on active duty; involuntary retirement
+### § 2150. Captains; continuation on active duty; involuntary retirement
 
 **(a)** The Secretary may, whenever the needs of the service require, but not more often than annually, convene a board consisting of not less than six officers of the grade of rear admiral (lower half) or rear admiral to recommend for continuation on active duty officers on the active duty promotion list serving in the grade of captain, who during the promotion year in which the board meets will complete at least three years’ service in that grade and who have not been selected for promotion to the grade of rear admiral (lower half). Officers who are subject to retirement under section 2149 of this title during the promotion year in which the board meets shall not be considered by this board.
 
@@ -1821,7 +1821,7 @@ Savings provisions in section 5(f)–(h) of Pub. L. 88–130 relating to retirem
 
 **(h)** Notwithstanding subsection (g) and section 2149 of this title, the Commandant may by annual action retain on active duty from promotion year to promotion year any officer who would otherwise be retired under subsection (g) or section 2149 of this title. An officer so retained, unless retired under some other provision of law, shall be retired on June 30 of that promotion year in which no action is taken to further retain the officer under this subsection.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 186, § 289; amended Pub. L. 94–546, § 1(26), Oct. 18, 1976, 90 Stat. 2521; Pub. L. 97–417, § 2(8), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 99–145, title V, § 514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 101–225, title II, § 203(3), Dec. 12, 1989, 103 Stat. 1911; Pub. L. 104–324, title II, § 203, Oct. 19, 1996, 110 Stat. 3907; Pub. L. 107–295, title IV, § 414, Nov. 25, 2002, 116 Stat. 2120; renumbered § 2150 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(18), Jan. 1, 2021, 134 Stat. 4748.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 186, § 289; amended Pub. L. 94–546, § 1(26), Oct. 18, 1976, 90 Stat. 2521; Pub. L. 97–417, § 2(8), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 99–145, title V, § 514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 101–225, title II, § 203(3), Dec. 12, 1989, 103 Stat. 1911; Pub. L. 104–324, title II, § 203, Oct. 19, 1996, 110 Stat. 3907; Pub. L. 107–295, title IV, § 414, Nov. 25, 2002, 116 Stat. 2120; renumbered § 2150 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(18), Jan. 1, 2021, 134 Stat. 4748.)
 
 **Editorial Notes**
 
@@ -1829,13 +1829,13 @@ Savings provisions in section 5(f)–(h) of Pub. L. 88–130 relating to retirem
 
 2021—Subsec. (f). Pub. L. 116–283 substituted “individual who is” for “person”.
 
-2018—Pub. L. 115–282, § 112(b), renumbered section 289 of this title as this section.
+2018—Pub. L. 115–282, § 112(b), renumbered section 289 of this title as this section.
 
-Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 2149” for “section 288”.
+Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 2149” for “section 288”.
 
-Subsec. (d). Pub. L. 115–282, § 123(b)(2), substituted “sections 2108, 2109, 2115, and 2117” for “sections 253, 254, 258, and 260”.
+Subsec. (d). Pub. L. 115–282, § 123(b)(2), substituted “sections 2108, 2109, 2115, and 2117” for “sections 253, 254, 258, and 260”.
 
-Subsec. (h). Pub. L. 115–282, § 123(b)(2), substituted “section 2149” for “section 288” in two places.
+Subsec. (h). Pub. L. 115–282, § 123(b)(2), substituted “section 2149” for “section 288” in two places.
 
 2002—Subsec. (h). Pub. L. 107–295 added subsec. (h).
 
@@ -1853,11 +1853,11 @@ Subsec. (h). Pub. L. 115–282, § 123(b)(2), substituted “section 2149” f
 
 **Effective Date**
 
-Pub. L. 88–130, § 6, Sept. 24, 1963, 77 Stat. 193, provided that: “Section 289 [now 2150] of title 14, United States Code, as enacted by section 1(10)(C) of this Act [see section 5(a) of Pub. L. 88–130, set out as a note under section 2101 of this title], becomes effective three years after the effective date of this Act [Sept. 24, 1963], or on July 1, 1966, whichever is later.”
+Pub. L. 88–130, § 6, Sept. 24, 1963, 77 Stat. 193, provided that: “Section 289 [now 2150] of title 14, United States Code, as enacted by section 1(10)(C) of this Act [see section 5(a) of Pub. L. 88–130, set out as a note under section 2101 of this title], becomes effective three years after the effective date of this Act [Sept. 24, 1963], or on July 1, 1966, whichever is later.”
 
 **Consideration for Retention on Active Duty Under Former Section 248 of This Title**
 
-Pub. L. 88–130, § 2(c), Sept. 24, 1963, 77 Stat. 191, provided that: “Officers who, prior to the effective date of this Act [Sept. 24, 1963], were considered but not selected for retention on active duty under the provisions of [former] section 248, title 14, United States Code, shall remain subject to the provisions of subsections (b) and (c) of that section.”
+Pub. L. 88–130, § 2(c), Sept. 24, 1963, 77 Stat. 191, provided that: “Officers who, prior to the effective date of this Act [Sept. 24, 1963], were considered but not selected for retention on active duty under the provisions of [former] section 248, title 14, United States Code, shall remain subject to the provisions of subsections (b) and (c) of that section.”
 
 **Retired Pay on or Prior to September 24, 1963**
 
@@ -1867,9 +1867,9 @@ Savings provisions in section 5(g) of Pub. L. 88–130 providing that Pub. L. 88
 
 **Delegation of Authority**
 
-Authority of President under subsec. (f) of this section to approve the report of a board convened to recommend for continuation on active duty officers serving in the grade of captain delegated to Secretary of Homeland Security by Ex. Ord. No. 14106, § 1(f), Aug. 14, 2023, 88 F.R. 55905, set out in a note under section 2101 of this title.
+Authority of President under subsec. (f) of this section to approve the report of a board convened to recommend for continuation on active duty officers serving in the grade of captain delegated to Secretary of Homeland Security by Ex. Ord. No. 14106, § 1(f), Aug. 14, 2023, 88 F.R. 55905, set out in a note under section 2101 of this title.
 
-### § 2151. Rear admirals and rear admirals (lower half); continuation on active duty; involuntary retirement
+### § 2151. Rear admirals and rear admirals (lower half); continuation on active duty; involuntary retirement
 
 **(a)** The Secretary shall from time to time convene boards to recommend for continuation on active duty the most senior officers on the active duty promotion list serving in the grade of rear admiral (lower half) or rear admiral who have not previously been considered for continuation in that grade. Officers serving for the time being or who have served in or above the grade of vice admiral are not subject to consideration for continuation under this subsection, and as to all other provisions of this section shall be considered as having been continued at the grade of rear admiral. A board shall consist of at least 5 officers (other than the Commandant) serving in the grade of admiral or vice admiral or as rear admirals previously continued. Boards shall be convened frequently enough to assure that each officer serving in the grade of rear admiral (lower half) or rear admiral is subject to consideration for continuation during a promotion year in which that officer completes not less than four or more than five years combined service in the grades of rear admiral (lower half) and rear admiral.
 
@@ -1893,17 +1893,17 @@ Authority of President under subsec. (f) of this section to approve the report o
 
 **(2)** The Commandant, with the approval of the Secretary, may by annual action retain on active duty from promotion year to promotion year any officer who would otherwise be retired under paragraph (1). Unless selected for or serving in the grade of admiral or retired under another provision of law, an officer so retained shall be retired on July 1 of the promotion year immediately following the promotion year in which no action is taken to further retain that officer under this paragraph.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 187, § 290; amended Pub. L. 92–451, § 1(7), Oct. 2, 1972, 86 Stat. 756; Pub. L. 94–546, § 1(27), Oct. 18, 1976, 90 Stat. 2521; Pub. L. 97–136, § 6(b), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–417, § 2(9)(A), Jan. 4, 1983, 96 Stat. 2086; Pub. L. 98–557, § 25(a)(2), Oct. 30, 1984, 98 Stat. 2872; Pub. L. 99–145, title V, § 514(c)(1), (2)(A), Nov. 8, 1985, 99 Stat. 629; Pub. L. 102–241, § 5, Dec. 19, 1991, 105 Stat. 2210; Pub. L. 103–206, title II, § 205(d), Dec. 20, 1993, 107 Stat. 2422; Pub. L. 111–281, title V, § 511(e), Oct. 15, 2010, 124 Stat. 2952; Pub. L. 112–213, title II, § 217(5), Dec. 20, 2012, 126 Stat. 1557; Pub. L. 114–328, div. C, title XXXV, § 3522, Dec. 23, 2016, 130 Stat. 2793; Pub. L. 115–232, div. C, title XXXV, § 3537, Aug. 13, 2018, 132 Stat. 2322; renumbered § 2151 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 187, § 290; amended Pub. L. 92–451, § 1(7), Oct. 2, 1972, 86 Stat. 756; Pub. L. 94–546, § 1(27), Oct. 18, 1976, 90 Stat. 2521; Pub. L. 97–136, § 6(b), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–417, § 2(9)(A), Jan. 4, 1983, 96 Stat. 2086; Pub. L. 98–557, § 25(a)(2), Oct. 30, 1984, 98 Stat. 2872; Pub. L. 99–145, title V, § 514(c)(1), (2)(A), Nov. 8, 1985, 99 Stat. 629; Pub. L. 102–241, § 5, Dec. 19, 1991, 105 Stat. 2210; Pub. L. 103–206, title II, § 205(d), Dec. 20, 1993, 107 Stat. 2422; Pub. L. 111–281, title V, § 511(e), Oct. 15, 2010, 124 Stat. 2952; Pub. L. 112–213, title II, § 217(5), Dec. 20, 2012, 126 Stat. 1557; Pub. L. 114–328, div. C, title XXXV, § 3522, Dec. 23, 2016, 130 Stat. 2793; Pub. L. 115–232, div. C, title XXXV, § 3537, Aug. 13, 2018, 132 Stat. 2322; renumbered § 2151 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 112(b), renumbered section 290 of this title as this section.
+2018—Pub. L. 115–282, § 112(b), renumbered section 290 of this title as this section.
 
 Subsec. (a). Pub. L. 115–232 substituted “Officers serving” for “Officers, other than the Commandant, serving”.
 
-Subsec. (c). Pub. L. 115–282, § 123(b)(2), substituted “sections 2108, 2109, 2115, and 2117” for “sections 253, 254, 258, and 260”.
+Subsec. (c). Pub. L. 115–282, § 123(b)(2), substituted “sections 2108, 2109, 2115, and 2117” for “sections 253, 254, 258, and 260”.
 
 2016—Subsec. (a). Pub. L. 114–328 substituted “5 officers (other than the Commandant) serving in the grade of admiral or vice admiral” for “five officers serving in the grade of vice admiral”.
 
@@ -1911,31 +1911,31 @@ Subsec. (c). Pub. L. 115–282, § 123(b)(2), substituted “sections 2108, 21
 
 2010—Subsec. (a). Pub. L. 111–281 substituted “Officers, other than the Commandant, serving for the time being or who have served in the grade of vice admiral are not subject to consideration for continuation under this subsection, and as to all other provisions of this section shall be considered as having been continued at the grade of rear admiral.” for “Officers serving for the time being or who have served in the grade of vice admiral are not subject to consideration for continuation under this subsection, and as to all other provisions of this section shall be considered as having been continued in the grade of rear admiral.”
 
-1993—Subsec. (a). Pub. L. 103–206, § 205(d)(1), struck out “or in the position of Chief of Staff” before “are not subject to” in second sentence.
+1993—Subsec. (a). Pub. L. 103–206, § 205(d)(1), struck out “or in the position of Chief of Staff” before “are not subject to” in second sentence.
 
-Subsec. (f). Pub. L. 103–206, § 205(d)(2), (3), struck out “Chief of Staff or” before “Superintendent” in pars. (1) and (2).
+Subsec. (f). Pub. L. 103–206, § 205(d)(2), (3), struck out “Chief of Staff or” before “Superintendent” in pars. (1) and (2).
 
-1991—Subsec. (a). Pub. L. 102–241, § 5(b)(1), substituted “that officer” for “he”.
+1991—Subsec. (a). Pub. L. 102–241, § 5(b)(1), substituted “that officer” for “he”.
 
-Subsec. (d). Pub. L. 102–241, § 5(b)(2), struck out “his” before “final review” and “approval”.
+Subsec. (d). Pub. L. 102–241, § 5(b)(2), struck out “his” before “final review” and “approval”.
 
-Subsec. (e). Pub. L. 102–241, § 5(a)(1), substituted “July 1 of the promotion year immediately following” for “June 30 of”.
+Subsec. (e). Pub. L. 102–241, § 5(a)(1), substituted “July 1 of the promotion year immediately following” for “June 30 of”.
 
-Subsecs. (f), (g). Pub. L. 102–241, § 5(a)(2), added subsecs. (f) and (g) and struck out former subsecs. (f) and (g), which read as follows:
+Subsecs. (f), (g). Pub. L. 102–241, § 5(a)(2), added subsecs. (f) and (g) and struck out former subsecs. (f) and (g), which read as follows:
 
 “(f) Each officer who is continued on active duty under the provisions of this section shall, unless retired under some other provision of law, be retired on June 30 of the promotion year in which he completes a total of thirty-six years of active commissioned service, including service creditable for retirement purposes under sections 432, 433, 434 of this title.
 
 “(g) Notwithstanding subsection (f) of this section, the Commandant, with the approval of the Secretary, may by annual action retain on active duty from promotion year to promotion year any officer who would otherwise be retired under subsection (f). An officer so retained, unless retired under some other provision of law, shall be retired on June 30 of that promotion year in which no action is taken to further retain him under this subsection.”
 
-1985—Pub. L. 99–145, § 514(c)(2)(A), substituted “rear admirals (lower half)” for “commodores” in section catchline.
+1985—Pub. L. 99–145, § 514(c)(2)(A), substituted “rear admirals (lower half)” for “commodores” in section catchline.
 
-Subsec. (a). Pub. L. 99–145, § 514(c)(1), substituted “rear admiral (lower half)” for “commodore” in three places.
+Subsec. (a). Pub. L. 99–145, § 514(c)(1), substituted “rear admiral (lower half)” for “commodore” in three places.
 
 1984—Subsec. (a). Pub. L. 98–557 substituted “Boards” for “Board”.
 
-1983—Pub. L. 97–417, § 2(9)(A)(i), inserted “and commodores” after “Rear admirals” in section catchline.
+1983—Pub. L. 97–417, § 2(9)(A)(i), inserted “and commodores” after “Rear admirals” in section catchline.
 
-Subsec. (a). Pub. L. 97–417, § 2(9)(A)(ii), substituted “commodore or rear admiral” for “rear admiral” after “promotion list serving in the grade of” and after “each officer serving in the grade of”, and “five years combined service in the grades of commodore and rear admiral” for “five years service in that grade”.
+Subsec. (a). Pub. L. 97–417, § 2(9)(A)(ii), substituted “commodore or rear admiral” for “rear admiral” after “promotion list serving in the grade of” and after “each officer serving in the grade of”, and “five years combined service in the grades of commodore and rear admiral” for “five years service in that grade”.
 
 1981—Subsec. (a). Pub. L. 97–136 inserted “or in the position of Chief of Staff” after “vice admiral”.
 
@@ -1957,17 +1957,17 @@ Subsec. (g). Pub. L. 92–451 incorporated provisions of former subsec. (b) in p
 
 **Effective Date of 1972 Amendment**
 
-Pub. L. 92–451, § 3, Oct. 2, 1972, 86 Stat. 757, provided that: “This Act [enacting sections 50 and 51 of this title, and amending this section, sections 41, 42, 44, 47, and 287 of this title, and section 202 of Title 37, Pay and Allowances of the Uniformed Services] is effective upon enactment [Oct. 2, 1972] except that continuation boards, pursuant to subsection (a) of section 290 [now 2151] of title 14, United States Code, as amended by this Act [subsec. (a) of this section], may not be held until one year following enactment hereof [Oct. 2, 1972]. During the period of one year following enactment hereof the Secretary of the Department in which the Coast Guard is operating shall convene a board consisting of not less than three Coast Guard officers serving in the grade of vice admiral to recommend for continuation on active duty Coast Guard officers on the active duty promotion list serving in the grade of rear admiral, who during the fiscal year in which the board meets will complete not less than five years’ service in that grade. Subsections (b) through (g) of section 290 [now 2151] and other sections of title 14, United States Code, as amended by this Act [sections 41, 42, 44, 47, 50, 51, and 287 of this title], apply to continuation board action taken pursuant to this section. No officer who is entitled to the basic pay of a rear admiral of the upper half may have his basic pay reduced because of the reduction which results from this Act in the number of officers entitled to the basic pay of a rear admiral of the upper half.”
+Pub. L. 92–451, § 3, Oct. 2, 1972, 86 Stat. 757, provided that: “This Act [enacting sections 50 and 51 of this title, and amending this section, sections 41, 42, 44, 47, and 287 of this title, and section 202 of Title 37, Pay and Allowances of the Uniformed Services] is effective upon enactment [Oct. 2, 1972] except that continuation boards, pursuant to subsection (a) of section 290 [now 2151] of title 14, United States Code, as amended by this Act [subsec. (a) of this section], may not be held until one year following enactment hereof [Oct. 2, 1972]. During the period of one year following enactment hereof the Secretary of the Department in which the Coast Guard is operating shall convene a board consisting of not less than three Coast Guard officers serving in the grade of vice admiral to recommend for continuation on active duty Coast Guard officers on the active duty promotion list serving in the grade of rear admiral, who during the fiscal year in which the board meets will complete not less than five years’ service in that grade. Subsections (b) through (g) of section 290 [now 2151] and other sections of title 14, United States Code, as amended by this Act [sections 41, 42, 44, 47, 50, 51, and 287 of this title], apply to continuation board action taken pursuant to this section. No officer who is entitled to the basic pay of a rear admiral of the upper half may have his basic pay reduced because of the reduction which results from this Act in the number of officers entitled to the basic pay of a rear admiral of the upper half.”
 
 **Retired Pay on or Prior to September 24, 1963**
 
 Savings provisions in section 5(g) of Pub. L. 88–130 providing that Pub. L. 88–130 does not affect the retired pay of anyone retired on or prior to Sept. 24, 1963, are set out as a note under section 2101 of this title.
 
-### § 2152. Voluntary retirement after twenty years’ service
+### § 2152. Voluntary retirement after twenty years’ service
 
 Any regular commissioned officer who has completed twenty years’ active service in the Coast Guard, Navy, Army, Air Force, Marine Corps, or Space Force, or the Reserve components thereof, including active duty for training, at least ten years of which shall have been active commissioned service, may, upon his own application, in the discretion of the President, be retired from active service.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 187, § 291; amended Pub. L. 99–348, title II, § 205(b)(5), July 1, 1986, 100 Stat. 700; renumbered § 2152, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216; Pub. L. 116–283, div. A, title IX, § 927(b)(1), Jan. 1, 2021, 134 Stat. 3831.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 187, § 291; amended Pub. L. 99–348, title II, § 205(b)(5), July 1, 1986, 100 Stat. 700; renumbered § 2152, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216; Pub. L. 116–283, div. A, title IX, § 927(b)(1), Jan. 1, 2021, 134 Stat. 3831.)
 
 **Editorial Notes**
 
@@ -1977,7 +1977,7 @@ Any regular commissioned officer who has completed twenty years’ active servic
 
 2018—Pub. L. 115–282 renumbered section 291 of this title as this section.
 
-1986—Pub. L. 99–348 struck out “, with retired pay of the grade with which retired” after “from active service”.
+1986—Pub. L. 99–348 struck out “, with retired pay of the grade with which retired” after “from active service”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1985,13 +1985,13 @@ Any regular commissioned officer who has completed twenty years’ active servic
 
 Savings provisions in section 5(g) of Pub. L. 88–130 providing that Pub. L. 88–130 does not affect the retired pay of anyone retired on or prior to Sept. 24, 1963, are set out as a note under section 2101 of this title.
 
-### § 2153. Voluntary retirement after thirty years’ service
+### § 2153. Voluntary retirement after thirty years’ service
 
 Any regular commissioned officer who has completed thirty years’ service may, upon his own application, in the discretion of the Secretary, be retired from active service.1
 
-<sup>1</sup>  See 1986 Amendment note below.
+<sup>1</sup> See 1986 Amendment note below.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 187, § 292; amended Pub. L. 99–348, title II, § 205(b)(5), July 1, 1986, 100 Stat. 700; renumbered § 2153, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 187, § 292; amended Pub. L. 99–348, title II, § 205(b)(5), July 1, 1986, 100 Stat. 700; renumbered § 2153, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216.)
 
 **Editorial Notes**
 
@@ -1999,7 +1999,7 @@ Any regular commissioned officer who has completed thirty years’ service may, 
 
 2018—Pub. L. 115–282 renumbered section 292 of this title as this section.
 
-1986—Pub. L. 99–348 which directed that “, with retired pay of the grade with which retired” be struck out was executed by striking out that phrase after “from active service” as the probable intent of Congress even though there was no comma before “with retired”.
+1986—Pub. L. 99–348 which directed that “, with retired pay of the grade with which retired” be struck out was executed by striking out that phrase after “from active service” as the probable intent of Congress even though there was no comma before “with retired”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2007,7 +2007,7 @@ Any regular commissioned officer who has completed thirty years’ service may, 
 
 Savings provisions in section 5(g) of Pub. L. 88–130, providing that Pub. L. 88–130 does not affect the retired pay of anyone retired on or prior to Sept. 24, 1963, are set out as a note under section 2101 of this title.
 
-### § 2154. Compulsory retirement
+### § 2154. Compulsory retirement
 
 **(a) Regular Commissioned Officers.—** Any regular commissioned officer, except a commissioned warrant officer, serving in a grade below rear admiral (lower half) shall be retired on the first day of the month following the month in which the officer becomes 62 years of age.
 
@@ -2045,7 +2045,7 @@ Savings provisions in section 5(g) of Pub. L. 88–130, providing that Pub. L. 8
 
 **(C)** a member of a category designated by the Secretary under paragraph (3).
 
-(Added Pub. L. 111–281, title II, § 215(a), Oct. 15, 2010, 124 Stat. 2916, § 293; renumbered § 2154, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216; amended Pub. L. 119–60, div. G, title LXXII, § 7222(a), Dec. 18, 2025, 139 Stat. 1700.)
+(Added Pub. L. 111–281, title II, § 215(a), Oct. 15, 2010, 124 Stat. 2916, § 293; renumbered § 2154, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216; amended Pub. L. 119–60, div. G, title LXXII, § 7222(a), Dec. 18, 2025, 139 Stat. 1700.)
 
 **Editorial Notes**
 
@@ -2055,11 +2055,11 @@ Savings provisions in section 5(g) of Pub. L. 88–130, providing that Pub. L. 8
 
 2018—Pub. L. 115–282 renumbered section 293 of this title as this section.
 
-### § 2155. Retirement for physical disability after selection for promotion; grade in which retired
+### § 2155. Retirement for physical disability after selection for promotion; grade in which retired
 
 An officer whose name appears on an approved list of officers selected for promotion to the next higher grade and who is retired for physical disability under the provisions of chapter 61 of title 10 prior to being promoted shall be retired in the grade to which he was selected for promotion.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 187, § 294; renumbered § 2155, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 187, § 294; renumbered § 2155, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216.)
 
 **Editorial Notes**
 
@@ -2073,7 +2073,7 @@ An officer whose name appears on an approved list of officers selected for promo
 
 Savings provisions in section 5(g) of Pub. L. 88–130 providing that Pub. L. 88–130 does not affect the retired pay of anyone retired on or prior to Sept. 24, 1963, are set out as a note under section 2101 of this title.
 
-### § 2156. Deferment of retirement or separation for medical reasons
+### § 2156. Deferment of retirement or separation for medical reasons
 
 **(a)** Subject to subsection (b), the Secretary may defer the retirement or separation of a commissioned officer, other than a commissioned warrant officer, if the evaluation of the physical condition of the officer and determination of the officer’s entitlement to retirement or separation for physical disability require hospitalization, medical observation, or other physical disability processing that cannot be completed before the date on which the officer would otherwise be retired or separated.
 
@@ -2083,7 +2083,7 @@ Savings provisions in section 5(g) of Pub. L. 88–130 providing that Pub. L. 88
 
 **(2)** if the Secretary receives written notice from the officer withdrawing that consent, shall end not later than the end of the sixty-day period beginning on the date the Secretary receives that notice.
 
-(Added Pub. L. 98–557, § 17(b)(2)(A), Oct. 30, 1984, 98 Stat. 2867, § 295; renumbered § 2156, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216.)
+(Added Pub. L. 98–557, § 17(b)(2)(A), Oct. 30, 1984, 98 Stat. 2867, § 295; renumbered § 2156, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216.)
 
 **Editorial Notes**
 
@@ -2091,11 +2091,11 @@ Savings provisions in section 5(g) of Pub. L. 88–130 providing that Pub. L. 88
 
 2018—Pub. L. 115–282 renumbered section 295 of this title as this section.
 
-### § 2157. Flag officers
+### § 2157. Flag officers
 
 During any period in which the Coast Guard is not operating as a service in the Navy, section 1216(d) of title 10 does not apply with respect to flag officers of the Coast Guard.
 
-(Added Pub. L. 113–281, title II, § 212(a), Dec. 18, 2014, 128 Stat. 3029, § 296; renumbered § 2157, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216.)
+(Added Pub. L. 113–281, title II, § 212(a), Dec. 18, 2014, 128 Stat. 3029, § 296; renumbered § 2157, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216.)
 
 **Editorial Notes**
 
@@ -2103,7 +2103,7 @@ During any period in which the Coast Guard is not operating as a service in the 
 
 2018—Pub. L. 115–282 renumbered section 296 of this title as this section.
 
-### § 2158. Review of records of officers
+### § 2158. Review of records of officers
 
 The Secretary shall prescribe, by regulation, procedures to review the record of any officer of the Regular Coast Guard to determine whether he shall be required to show cause for his retention on active duty—
 
@@ -2111,7 +2111,7 @@ The Secretary shall prescribe, by regulation, procedures to review the record of
 
 **(2)** because of moral dereliction, professional dereliction, or because his retention is not clearly consistent with the interests of national security.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 187, § 321; renumbered § 2158, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216; amended Pub. L. 119–60, div. G, title LXXII, § 7223(a), Dec. 18, 2025, 139 Stat. 1702.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 187, § 321; renumbered § 2158, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216; amended Pub. L. 119–60, div. G, title LXXII, § 7223(a), Dec. 18, 2025, 139 Stat. 1702.)
 
 **Editorial Notes**
 
@@ -2121,7 +2121,7 @@ The Secretary shall prescribe, by regulation, procedures to review the record of
 
 2018—Pub. L. 115–282 renumbered section 321 of this title as this section.
 
-### § 2159. Boards of inquiry
+### § 2159. Boards of inquiry
 
 **(a)** Boards of inquiry shall be convened at such places as the Secretary may prescribe to receive evidence and make findings and recommendations whether an officer who is required to show cause for retention under section 2158 of this title should be retained on active duty.
 
@@ -2131,7 +2131,7 @@ The Secretary shall prescribe, by regulation, procedures to review the record of
 
 **(d)** If a board of inquiry determines that the officer has established that he should be retained, his case is closed. However, at any time after one year from the date of the determination in a case arising under clause (1) of section 2158 of this title, and at any time after the date of the determination in a case arising under clause (2) of that section, an officer may again be required to show cause for retention.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 188, § 322; amended Pub. L. 97–295, § 2(10), Oct. 12, 1982, 96 Stat. 1302; renumbered § 2159 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240; Pub. L. 119–60, div. G, title LXXII, § 7223(b), Dec. 18, 2025, 139 Stat. 1702.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 188, § 322; amended Pub. L. 97–295, § 2(10), Oct. 12, 1982, 96 Stat. 1302; renumbered § 2159 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240; Pub. L. 119–60, div. G, title LXXII, § 7223(b), Dec. 18, 2025, 139 Stat. 1702.)
 
 **Editorial Notes**
 
@@ -2139,23 +2139,23 @@ The Secretary shall prescribe, by regulation, procedures to review the record of
 
 2025—Subsec. (c). Pub. L. 119–60 substituted “recommend to the Secretary that the officer not be retained on active duty” for “send the record of its proceedings to a board of review”.
 
-2018—Pub. L. 115–282, § 112(b), renumbered section 322 of this title as this section.
+2018—Pub. L. 115–282, § 112(b), renumbered section 322 of this title as this section.
 
-Subsecs. (a), (d). Pub. L. 115–282, § 123(b)(2), substituted “section 2158” for “section 321”.
+Subsecs. (a), (d). Pub. L. 115–282, § 123(b)(2), substituted “section 2158” for “section 321”.
 
 1982—Subsec. (d). Pub. L. 97–295 inserted “of this title” after “section 321”.
 
-### [§ 2160. Repealed. Pub. L. 119–60, div. G, title LXXII, § 7223(c), Dec. 18, 2025, 139 Stat. 1702]
+### [§ 2160. Repealed. Pub. L. 119–60, div. G, title LXXII, § 7223(c), Dec. 18, 2025, 139 Stat. 1702]
 
-Section, added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 188, § 323; amended Pub. L. 97–295, § 2(10), Oct. 12, 1982, 96 Stat. 1302; renumbered § 2160 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240, related to boards of review.
+Section, added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 188, § 323; amended Pub. L. 97–295, § 2(10), Oct. 12, 1982, 96 Stat. 1302; renumbered § 2160 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240, related to boards of review.
 
-### § 2161. Composition of boards
+### § 2161. Composition of boards
 
 **(a)** A board convened under section 2158 or 2159 of this title shall consist of at least three officers of the grade of commander or above, all of whom are serving in a grade senior to the grade of any officer considered by the board.
 
 **(b)** No individual may be a member of more than one board convened under section 2158 or 2159 of this title to consider the same officer.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 188, § 324; renumbered § 2161 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(19), Jan. 1, 2021, 134 Stat. 4748; Pub. L. 119–60, div. G, title LXXII, § 7223(d)(1)(A), Dec. 18, 2025, 139 Stat. 1702.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 188, § 324; renumbered § 2161 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(19), Jan. 1, 2021, 134 Stat. 4748; Pub. L. 119–60, div. G, title LXXII, § 7223(d)(1)(A), Dec. 18, 2025, 139 Stat. 1702.)
 
 **Editorial Notes**
 
@@ -2165,11 +2165,11 @@ Section, added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 188, §
 
 2021—Subsec. (b). Pub. L. 116–283 substituted “individual” for “person”.
 
-2018—Pub. L. 115–282, § 123(b)(2), substituted “section 2158, 2159, or 2160” for “section 321, 322, or 323” in subsecs. (a) and (b).
+2018—Pub. L. 115–282, § 123(b)(2), substituted “section 2158, 2159, or 2160” for “section 321, 322, or 323” in subsecs. (a) and (b).
 
-Pub. L. 115–282, § 112(b), renumbered section 324 of this title as this section.
+Pub. L. 115–282, § 112(b), renumbered section 324 of this title as this section.
 
-### § 2162. Rights and procedures
+### § 2162. Rights and procedures
 
 Each officer under consideration for removal under section 2159 of this title shall be—
 
@@ -2181,21 +2181,21 @@ Each officer under consideration for removal under section 2159 of this title sh
 
 **(4)** allowed full access to, and furnished copies of, records relevant to the case at all stages of the proceeding, except that a board shall withhold any records that the Secretary determines should be withheld in the interests of national security. In any case where any records are withheld under this clause, the officer whose case is under consideration shall, to the extent that the national security permits, be furnished a summary of the records so withheld.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 188, § 325; renumbered § 2162 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 188, § 325; renumbered § 2162 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 123(b)(2), substituted “section 2159” for “section 322” in introductory provisions.
+2018—Pub. L. 115–282, § 123(b)(2), substituted “section 2159” for “section 322” in introductory provisions.
 
-Pub. L. 115–282, § 112(b), renumbered section 325 of this title as this section.
+Pub. L. 115–282, § 112(b), renumbered section 325 of this title as this section.
 
-### § 2163. Removal of officer from active duty; action by Secretary
+### § 2163. Removal of officer from active duty; action by Secretary
 
 The Secretary may remove an officer from active duty if his removal is recommended by a board of inquiry under section 2159 of this title. The Secretary’s action in such as case is final and conclusive.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 189, § 326; renumbered § 2163 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240; Pub. L. 119–60, div. G, title LXXII, § 7223(d)(1)(B), Dec. 18, 2025, 139 Stat. 1702.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 189, § 326; renumbered § 2163 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240; Pub. L. 119–60, div. G, title LXXII, § 7223(d)(1)(B), Dec. 18, 2025, 139 Stat. 1702.)
 
 **Editorial Notes**
 
@@ -2203,11 +2203,11 @@ The Secretary may remove an officer from active duty if his removal is recommend
 
 2025—Pub. L. 119–60 substituted “board of inquiry under section 2159 of this title” for “board of review under section 2160 of this title”.
 
-2018—Pub. L. 115–282, § 123(b)(2), substituted “section 2160” for “section 323”.
+2018—Pub. L. 115–282, § 123(b)(2), substituted “section 2160” for “section 323”.
 
-Pub. L. 115–282, § 112(b), renumbered section 326 of this title as this section.
+Pub. L. 115–282, § 112(b), renumbered section 326 of this title as this section.
 
-### § 2164. Officers considered for removal; retirement or discharge; separation benefits
+### § 2164. Officers considered for removal; retirement or discharge; separation benefits
 
 **(a)** At any time during proceedings under section 2159 of this title, and before the removal of an officer, the Secretary may grant a request—
 
@@ -2221,7 +2221,7 @@ Pub. L. 115–282, § 112(b), renumbered section 326 of this title as this sec
 
 **(2)** if on that date the officer is ineligible for voluntary retirement under any law, be honorably discharged with separation benefits under section 2146(c) of this title, unless under regulations promulgated by the Secretary the condition under which the officer is discharged does not warrant an honorable discharge.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 189, § 327; amended Pub. L. 97–295, § 2(10), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 99–348, title II, § 205(b)(6), July 1, 1986, 100 Stat. 700; Pub. L. 105–383, title II, § 201(c), Nov. 13, 1998, 112 Stat. 3414; Pub. L. 107–295, title IV, § 416(a)(5), Nov. 25, 2002, 116 Stat. 2122; renumbered § 2164 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240; Pub. L. 119–60, div. G, title LXXII, § 7223(d)(1)(C), Dec. 18, 2025, 139 Stat. 1702.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 189, § 327; amended Pub. L. 97–295, § 2(10), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 99–348, title II, § 205(b)(6), July 1, 1986, 100 Stat. 700; Pub. L. 105–383, title II, § 201(c), Nov. 13, 1998, 112 Stat. 3414; Pub. L. 107–295, title IV, § 416(a)(5), Nov. 25, 2002, 116 Stat. 2122; renumbered § 2164 and amended Pub. L. 115–282, title I, §§ 112(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4216, 4240; Pub. L. 119–60, div. G, title LXXII, § 7223(d)(1)(C), Dec. 18, 2025, 139 Stat. 1702.)
 
 **Editorial Notes**
 
@@ -2229,29 +2229,29 @@ Pub. L. 115–282, § 112(b), renumbered section 326 of this title as this sec
 
 2025—Subsec. (a). Pub. L. 119–60 struck out “or 2160” after “section 2159” in introductory provisions.
 
-2018—Pub. L. 115–282, § 112(b), renumbered section 327 of this title as this section.
+2018—Pub. L. 115–282, § 112(b), renumbered section 327 of this title as this section.
 
-Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 2159 or 2160” for “section 322 or 323” in introductory provisions.
+Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 2159 or 2160” for “section 322 or 323” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 115–282, § 123(b)(2), substituted “section 2146(c)” for “section 286(c)”.
+Subsec. (a)(2). Pub. L. 115–282, § 123(b)(2), substituted “section 2146(c)” for “section 286(c)”.
 
-Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2163” for “section 326” in introductory provisions.
+Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2163” for “section 326” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 115–282, § 123(b)(2), substituted “section 2146(c)” for “section 286(c)”.
+Subsec. (b)(2). Pub. L. 115–282, § 123(b)(2), substituted “section 2146(c)” for “section 286(c)”.
 
-2002—Pub. L. 107–295, § 416(a)(5)(A), substituted “separation” for “severance” in section catchline.
+2002—Pub. L. 107–295, § 416(a)(5)(A), substituted “separation” for “severance” in section catchline.
 
-Subsec. (a)(2). Pub. L. 107–295, § 416(a)(5)(B), added par. (2) and struck out former par. (2) which read as follows: “for honorable discharge with severance benefits under subsection (b) in those cases arising under clause (1) of section 321 of this title; or”.
+Subsec. (a)(2). Pub. L. 107–295, § 416(a)(5)(B), added par. (2) and struck out former par. (2) which read as follows: “for honorable discharge with severance benefits under subsection (b) in those cases arising under clause (1) of section 321 of this title; or”.
 
-Subsec. (a)(3). Pub. L. 107–295, § 416(a)(5)(C), struck out par. (3) which read as follows: “for discharge with severance benefits under subsection (b) in those cases arising under clause (2) of section 321 of this title.”
+Subsec. (a)(3). Pub. L. 107–295, § 416(a)(5)(C), struck out par. (3) which read as follows: “for discharge with severance benefits under subsection (b) in those cases arising under clause (2) of section 321 of this title.”
 
-Subsec. (b)(2). Pub. L. 107–295, § 416(a)(5)(D), added par. (2) and struck out former par. (2) which read as follows: “if on that date the officer is ineligible for voluntary retirement under any law, be honorably discharged in the grade then held with severance pay computed by multiplying his years of active commissioned service, but not more than twelve, by one month’s basic pay of that grade, in those cases arising under clause (1) of section 321 of this title; or”.
+Subsec. (b)(2). Pub. L. 107–295, § 416(a)(5)(D), added par. (2) and struck out former par. (2) which read as follows: “if on that date the officer is ineligible for voluntary retirement under any law, be honorably discharged in the grade then held with severance pay computed by multiplying his years of active commissioned service, but not more than twelve, by one month’s basic pay of that grade, in those cases arising under clause (1) of section 321 of this title; or”.
 
-Subsec. (b)(3). Pub. L. 107–295, § 416(a)(5)(E), struck out par. (3) which read as follows: “if on that date the officer is ineligible for voluntary retirement under any law, be discharged in the grade then held with severance pay computed by multiplying his years of active commissioned service, but not more than twelve, by one month’s basic pay of that grade, in those cases arising under clause (2) of section 321 of this title, unless the Secretary determines that the conditions under which the officer is discharged or separated do not warrant payment of that amount of severance pay.”
+Subsec. (b)(3). Pub. L. 107–295, § 416(a)(5)(E), struck out par. (3) which read as follows: “if on that date the officer is ineligible for voluntary retirement under any law, be discharged in the grade then held with severance pay computed by multiplying his years of active commissioned service, but not more than twelve, by one month’s basic pay of that grade, in those cases arising under clause (2) of section 321 of this title, unless the Secretary determines that the conditions under which the officer is discharged or separated do not warrant payment of that amount of severance pay.”
 
-1998—Subsec. (b)(3). Pub. L. 105–383 inserted before period at end “, unless the Secretary determines that the conditions under which the officer is discharged or separated do not warrant payment of that amount of severance pay”.
+1998—Subsec. (b)(3). Pub. L. 105–383 inserted before period at end “, unless the Secretary determines that the conditions under which the officer is discharged or separated do not warrant payment of that amount of severance pay”.
 
-1986—Subsec. (b)(1). Pub. L. 99–348 struck out “, and with the pay” after “in the grade”.
+1986—Subsec. (b)(1). Pub. L. 99–348 struck out “, and with the pay” after “in the grade”.
 
 1982—Pub. L. 97–295 inserted “of this title” after “section 322 or 323” and “section 321” wherever appearing.
 
@@ -2261,11 +2261,11 @@ Subsec. (b)(3). Pub. L. 107–295, § 416(a)(5)(E), struck out par. (3) which 
 
 Amendment by Pub. L. 107–295 effective 4 years after Nov. 25, 2002, see section 416(c) of Pub. L. 107–295, set out as a note under section 2146 of this title.
 
-### § 2165. Relief of retired officer promoted while on active duty
+### § 2165. Relief of retired officer promoted while on active duty
 
 Any regular officer on the retired list recalled to active duty who during such active duty is advanced to a higher grade under an appointment shall, upon relief from active duty, if his performance of duty under such appointment has been satisfactory, be advanced on the retired list to the highest grade held while on such active duty.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 189, § 333; renumbered § 2165, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 189, § 333; renumbered § 2165, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216.)
 
 **Editorial Notes**
 
@@ -2273,7 +2273,7 @@ Any regular officer on the retired list recalled to active duty who during such 
 
 2018—Pub. L. 115–282 renumbered section 333 of this title as this section.
 
-### § 2166. Continuation on active duty; Coast Guard officers with certain critical skills
+### § 2166. Continuation on active duty; Coast Guard officers with certain critical skills
 
 **(a) In General.—** The Commandant may authorize an officer in a grade above grade O–2 to remain on active duty after the date otherwise provided for the retirement of such officer in section 2154 of this title, if the officer possesses a critical skill, or specialty, or is in a career field designated pursuant to subsection (b).
 
@@ -2283,7 +2283,7 @@ Any regular officer on the retired list recalled to active duty who during such 
 
 **(d) Policy.—** The Commandant shall carry out this section by prescribing policy which shall specify the criteria to be used in designating any critical skill, specialty, or career field for purposes of subsection (b).
 
-(Added Pub. L. 117–263, div. K, title CXII, § 11235(a), Dec. 23, 2022, 136 Stat. 4035.)
+(Added Pub. L. 117–263, div. K, title CXII, § 11235(a), Dec. 23, 2022, 136 Stat. 4035.)
 
 ## SUBCHAPTER III—GENERAL PROVISIONS
 
@@ -2291,13 +2291,13 @@ Any regular officer on the retired list recalled to active duty who during such 
 
 **Amendments**
 
-2018—Pub. L. 115–282, title I, § 112(c)(5), Dec. 4, 2018, 132 Stat. 4221, inserted subchapter III designation and heading.
+2018—Pub. L. 115–282, title I, § 112(c)(5), Dec. 4, 2018, 132 Stat. 4221, inserted subchapter III designation and heading.
 
-### § 2181. Physical fitness of officers
+### § 2181. Physical fitness of officers
 
 The Secretary shall prescribe regulations under which the physical fitness of officers to perform their duties shall be periodically determined.
 
-(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 190, § 335; renumbered § 2181, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216.)
+(Added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Stat. 190, § 335; renumbered § 2181, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216.)
 
 **Editorial Notes**
 
@@ -2305,7 +2305,7 @@ The Secretary shall prescribe regulations under which the physical fitness of of
 
 2018—Pub. L. 115–282 renumbered section 335 of this title as this section.
 
-### § 2182. Multirater assessment of certain personnel
+### § 2182. Multirater assessment of certain personnel
 
 **(a) Multirater Assessment of Certain Personnel.—**
 
@@ -2345,7 +2345,7 @@ The Secretary shall prescribe regulations under which the physical fitness of of
 
 **(b) Multirater Assessment Defined.—** In this section, the term “multirater assessment” means a review that seeks opinion from members senior to the reviewee and the peers and subordinates of the reviewee.
 
-(Added Pub. L. 114–120, title II, § 214(a)(1), Feb. 8, 2016, 130 Stat. 43, § 429; amended Pub. L. 114–328, div. C, title XXXV, § 3503(a), Dec. 23, 2016, 130 Stat. 2775; Pub. L. 115–232, div. C, title XXXV, § 3531(c)(12), Aug. 13, 2018, 132 Stat. 2320; renumbered § 2182, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216; Pub. L. 117–263, div. K, title CXII, § 11244(a), Dec. 23, 2022, 136 Stat. 4042.)
+(Added Pub. L. 114–120, title II, § 214(a)(1), Feb. 8, 2016, 130 Stat. 43, § 429; amended Pub. L. 114–328, div. C, title XXXV, § 3503(a), Dec. 23, 2016, 130 Stat. 2775; Pub. L. 115–232, div. C, title XXXV, § 3531(c)(12), Aug. 13, 2018, 132 Stat. 2320; renumbered § 2182, Pub. L. 115–282, title I, § 112(b), Dec. 4, 2018, 132 Stat. 4216; Pub. L. 117–263, div. K, title CXII, § 11244(a), Dec. 23, 2022, 136 Stat. 4042.)
 
 **Editorial Notes**
 
@@ -2367,4 +2367,4 @@ Subsec. (a)(1). Pub. L. 115–232 substituted “Commandant” for “Commandant
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–328, div. C, title XXXV, § 3503(e), Dec. 23, 2016, 130 Stat. 2775, provided that: “The amendments made by this section [amending this section, sections 315, 676a, and 2702 of this title, sections 3104, 4503, and 7510 of Title 46, Shipping, and provisions set out as a note under section 1151 of Title 16, Conservation] shall take effect as if included in the enactment of Public Law 114–120 [Feb. 8, 2016].”
+Pub. L. 114–328, div. C, title XXXV, § 3503(e), Dec. 23, 2016, 130 Stat. 2775, provided that: “The amendments made by this section [amending this section, sections 315, 676a, and 2702 of this title, sections 3104, 4503, and 7510 of Title 46, Shipping, and provisions set out as a note under section 1151 of Title 16, Conservation] shall take effect as if included in the enactment of Public Law 114–120 [Feb. 8, 2016].”

@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 806(d)(2), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 909 of this title as this chapter and items 9441 to 9448 as 9491 to 9498, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 806(d)(2), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 909 of this title as this chapter and items 9441 to 9448 as 9491 to 9498, respectively.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1090(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–294, amended chapter heading and analysis generally, substituting items 9441 to 9448 for former items 9441 “Status: support by Air Force; employment” and 9442 “Assistance by other agencies”.
+2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1090(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–294, amended chapter heading and analysis generally, substituting items 9441 to 9448 for former items 9441 “Status: support by Air Force; employment” and 9442 “Assistance by other agencies”.
 
-## § 9491. Status as federally chartered corporation; purposes
+## § 9491. Status as federally chartered corporation; purposes
 
 **(a) Status.—**
 
@@ -33,15 +33,15 @@ retrieved: 2026-10-11
 
 **(b) Purposes.—** The purposes of the Civil Air Patrol are set forth in section 40302 of title 36.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1090(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–295, § 9441; renumbered § 9491 and amended Pub. L. 115–232, div. A, title VIII, §§ 806(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1832, 1840.)
+(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1090(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–295, § 9441; renumbered § 9491 and amended Pub. L. 115–232, div. A, title VIII, §§ 806(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1832, 1840.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 806(a)(1), renumbered section 9441 of this title as this section.
+2018—Pub. L. 115–232, § 806(a)(1), renumbered section 9441 of this title as this section.
 
-Subsec. (a)(2). Pub. L. 115–232, § 809(a), substituted “section 9492(b)(2)” for “section 9442(b)(2)”.
+Subsec. (a)(2). Pub. L. 115–232, § 809(a), substituted “section 9492(b)(2)” for “section 9442(b)(2)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -51,9 +51,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date**
 
-Pub. L. 106–398, § 1 [[div. A], title X, § 1090(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–300, provided that: “The amendments made by this section [enacting this section and sections 9492 to 9498 of this title and amending sections 40302 and 40303 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations] shall take effect 120 days after the date of the enactment of this Act [Oct. 30, 2000].”
+Pub. L. 106–398, § 1 [[div. A], title X, § 1090(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–300, provided that: “The amendments made by this section [enacting this section and sections 9492 to 9498 of this title and amending sections 40302 and 40303 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations] shall take effect 120 days after the date of the enactment of this Act [Oct. 30, 2000].”
 
-## § 9492. Status as volunteer civilian auxiliary of the Air Force
+## § 9492. Status as volunteer civilian auxiliary of the Air Force
 
 **(a) Volunteer Civilian Auxiliary.—** The Civil Air Patrol is a volunteer civilian auxiliary of the Air Force when the services of the Civil Air Patrol are used by any department or agency in any branch of the Federal Government.
 
@@ -63,7 +63,7 @@ Pub. L. 106–398, § 1 [[div. A], title X, § 1090(c)], Oct. 30, 2000, 114 
 
 **(2)** The Civil Air Patrol shall be deemed to be an instrumentality of the United States with respect to any act or omission of the Civil Air Patrol, including any member of the Civil Air Patrol, in carrying out a mission assigned by the Secretary of the Air Force.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1090(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–295, § 9442; renumbered § 9492, Pub. L. 115–232, div. A, title VIII, § 806(a)(1), Aug. 13, 2018, 132 Stat. 1832.)
+(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1090(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–295, § 9442; renumbered § 9492, Pub. L. 115–232, div. A, title VIII, § 806(a)(1), Aug. 13, 2018, 132 Stat. 1832.)
 
 **Editorial Notes**
 
@@ -79,9 +79,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date**
 
-Section effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X, § 1090(c)] of Pub. L. 106–398, set out as a note under section 9491 of this title.
+Section effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X, § 1090(c)] of Pub. L. 106–398, set out as a note under section 9491 of this title.
 
-## § 9493. Activities performed as federally chartered nonprofit corporation
+## § 9493. Activities performed as federally chartered nonprofit corporation
 
 **(a) Use of Federally Provided Resources.—** In its status as a federally chartered nonprofit corporation, the Civil Air Patrol may use equipment, supplies, and other resources, including aircraft, motor vehicles, computers, and communications equipment, provided to the Civil Air Patrol by a department or agency of the Federal Government or acquired by or for the Civil Air Patrol with appropriated funds (or with funds of the Civil Air Patrol, but reimbursed from appropriated funds)—
 
@@ -95,7 +95,7 @@ Section effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X
 
 **(d) Liability Insurance.—** The Secretary of the Air Force may provide the Civil Air Patrol with funds for paying the cost of liability insurance to cover missions and activities carried out under this section.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1090(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–295, § 9443; renumbered § 9493, Pub. L. 115–232, div. A, title VIII, § 806(a)(1), Aug. 13, 2018, 132 Stat. 1832.)
+(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1090(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–295, § 9443; renumbered § 9493, Pub. L. 115–232, div. A, title VIII, § 806(a)(1), Aug. 13, 2018, 132 Stat. 1832.)
 
 **Editorial Notes**
 
@@ -111,9 +111,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date**
 
-Section effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X, § 1090(c)] of Pub. L. 106–398, set out as a note under section 9491 of this title.
+Section effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X, § 1090(c)] of Pub. L. 106–398, set out as a note under section 9491 of this title.
 
-## § 9494. Activities performed as auxiliary of the Air Force
+## § 9494. Activities performed as auxiliary of the Air Force
 
 **(a) Air Force Support for Activities.—** The Secretary of the Air Force may furnish to the Civil Air Patrol in accordance with this section any equipment, supplies, and other resources that the Secretary determines necessary to enable the Civil Air Patrol to fulfill the missions assigned by the Secretary to the Civil Air Patrol as an auxiliary of the Air Force.
 
@@ -163,15 +163,15 @@ Section effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X
 
 **(3)** Each arrangement under this subsection shall be made in accordance with regulations prescribed under section 9498 of this title.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1090(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–296, § 9444; amended Pub. L. 107–217, § 3(b)(35), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 111–350, § 5(b)(54), Jan. 4, 2011, 124 Stat. 3847; renumbered § 9494 and amended Pub. L. 115–232, div. A, title VIII, §§ 806(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1832, 1840.)
+(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1090(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–296, § 9444; amended Pub. L. 107–217, § 3(b)(35), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 111–350, § 5(b)(54), Jan. 4, 2011, 124 Stat. 3847; renumbered § 9494 and amended Pub. L. 115–232, div. A, title VIII, §§ 806(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1832, 1840.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 806(a)(1), renumbered section 9444 of this title as this section.
+2018—Pub. L. 115–232, § 806(a)(1), renumbered section 9444 of this title as this section.
 
-Subsec. (c)(3). Pub. L. 115–232, § 809(a), substituted “section 9498” for “section 9448”.
+Subsec. (c)(3). Pub. L. 115–232, § 809(a), substituted “section 9498” for “section 9448”.
 
 2011—Subsec. (b)(1). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” in introductory provisions.
 
@@ -185,13 +185,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date**
 
-Section effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X, § 1090(c)] of Pub. L. 106–398, set out as a note under section 9491 of this title.
+Section effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X, § 1090(c)] of Pub. L. 106–398, set out as a note under section 9491 of this title.
 
-## § 9495. Funds appropriated for the Civil Air Patrol
+## § 9495. Funds appropriated for the Civil Air Patrol
 
 Funds appropriated for the Civil Air Patrol shall be available only for the exclusive use of the Civil Air Patrol.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1090(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–297, § 9445; renumbered § 9495, Pub. L. 115–232, div. A, title VIII, § 806(a)(1), Aug. 13, 2018, 132 Stat. 1832.)
+(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1090(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–297, § 9445; renumbered § 9495, Pub. L. 115–232, div. A, title VIII, § 806(a)(1), Aug. 13, 2018, 132 Stat. 1832.)
 
 **Editorial Notes**
 
@@ -207,9 +207,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date**
 
-Section effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X, § 1090(c)] of Pub. L. 106–398, set out as a note under section 9491 of this title.
+Section effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X, § 1090(c)] of Pub. L. 106–398, set out as a note under section 9491 of this title.
 
-## § 9496. Miscellaneous personnel authorities
+## § 9496. Miscellaneous personnel authorities
 
 **(a) Use of Retired Air Force Personnel.—**
 
@@ -221,15 +221,15 @@ Section effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X
 
 **(b) Use of Civil Air Patrol Chaplains.—** The Secretary of the Air Force may use the services of Civil Air Patrol chaplains in support of the Air Force active duty and reserve component forces to the extent and under conditions that the Secretary determines appropriate.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1090(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–297, § 9446; renumbered § 9496 and amended Pub. L. 115–232, div. A, title VIII, §§ 806(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1832, 1840.)
+(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1090(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–297, § 9446; renumbered § 9496 and amended Pub. L. 115–232, div. A, title VIII, §§ 806(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1832, 1840.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 806(a)(1), renumbered section 9446 of this title as this section.
+2018—Pub. L. 115–232, § 806(a)(1), renumbered section 9446 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 115–232, § 809(a), substituted “section 9498” for “section 9448”.
+Subsec. (a)(1). Pub. L. 115–232, § 809(a), substituted “section 9498” for “section 9448”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -239,9 +239,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date**
 
-Section effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X, § 1090(c)] of Pub. L. 106–398, set out as a note under section 9491 of this title.
+Section effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X, § 1090(c)] of Pub. L. 106–398, set out as a note under section 9491 of this title.
 
-## § 9497. Board of Governors
+## § 9497. Board of Governors
 
 **(a) Governing Body.—** The Board of Governors of the Civil Air Patrol is the governing body of the Civil Air Patrol.
 
@@ -293,13 +293,13 @@ Section effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X
 
 **(4)** The protections provided under this subsection are in addition to the protections provided under subsection (f).
 
-(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1090(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–298, § 9447; renumbered § 9497, Pub. L. 115–232, div. A, title VIII, § 806(a)(1), Aug. 13, 2018, 132 Stat. 1832.)
+(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1090(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–298, § 9447; renumbered § 9497, Pub. L. 115–232, div. A, title VIII, § 806(a)(1), Aug. 13, 2018, 132 Stat. 1832.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 806(a)(1), renumbered section 9447 of this title as this section.
+2018—Pub. L. 115–232, § 806(a)(1), renumbered section 9447 of this title as this section.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -309,9 +309,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date**
 
-Section effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X, § 1090(c)] of Pub. L. 106–398, set out as a note under section 9491 of this title.
+Section effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X, § 1090(c)] of Pub. L. 106–398, set out as a note under section 9491 of this title.
 
-## § 9498. Regulations
+## § 9498. Regulations
 
 **(a) Authority.—** The Secretary of the Air Force shall prescribe regulations for the administration of this chapter.
 
@@ -325,19 +325,19 @@ Section effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X
 
 **(c) Approval by Secretary of Defense.—** The regulations required by subsection (b)(2) shall be subject to the approval of the Secretary of Defense.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1090(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–299, § 9448; renumbered § 9498 and amended Pub. L. 115–232, div. A, title VIII, §§ 806(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1832, 1840.)
+(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1090(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–299, § 9448; renumbered § 9498 and amended Pub. L. 115–232, div. A, title VIII, §§ 806(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1832, 1840.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 806(a)(1), renumbered section 9448 of this title as this section.
+2018—Pub. L. 115–232, § 806(a)(1), renumbered section 9448 of this title as this section.
 
-Subsec. (b)(1). Pub. L. 115–232, § 809(a), substituted “section 9492” for “section 9442”.
+Subsec. (b)(1). Pub. L. 115–232, § 809(a), substituted “section 9492” for “section 9442”.
 
-Subsec. (b)(2). Pub. L. 115–232, § 809(a), substituted “section 9494” for “section 9444”.
+Subsec. (b)(2). Pub. L. 115–232, § 809(a), substituted “section 9494” for “section 9444”.
 
-Subsec. (b)(3). Pub. L. 115–232, § 809(a), substituted “section 9496(a)” for “section 9446(a)”.
+Subsec. (b)(3). Pub. L. 115–232, § 809(a), substituted “section 9496(a)” for “section 9446(a)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -347,4 +347,4 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date**
 
-Section effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X, § 1090(c)] of Pub. L. 106–398, set out as a note under section 9491 of this title.
+Section effective 120 days after Oct. 30, 2000, see section 1 [[div. A], title X, § 1090(c)] of Pub. L. 106–398, set out as a note under section 9491 of this title.

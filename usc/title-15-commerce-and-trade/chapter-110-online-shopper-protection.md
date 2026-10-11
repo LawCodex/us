@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 110—ONLINE SHOPPER PROTECTION
 
-## § 8401. Findings; declaration of policy
+## § 8401. Findings; declaration of policy
 
 The Congress finds the following:
 
@@ -35,15 +35,15 @@ The Congress finds the following:
 
 **(8)** Third party sellers used a free trial period to enroll members, after which they periodically charged consumers until consumers affirmatively canceled the memberships. This use of “free-to-pay conversion” and “negative option” sales took advantage of consumers’ expectations that they would have an opportunity to accept or reject the membership club offer at the end of the trial period.
 
-(Pub. L. 111–345, § 2, Dec. 29, 2010, 124 Stat. 3618.)
+(Pub. L. 111–345, § 2, Dec. 29, 2010, 124 Stat. 3618.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 111–345, § 1, Dec. 29, 2010, 124 Stat. 3618, provided that: “This Act [enacting this chapter] may be cited as the ‘Restore Online Shoppers’ Confidence Act’.”
+Pub. L. 111–345, § 1, Dec. 29, 2010, 124 Stat. 3618, provided that: “This Act [enacting this chapter] may be cited as the ‘Restore Online Shoppers’ Confidence Act’.”
 
-## § 8402. Prohibitions against certain unfair and deceptive Internet sales practices
+## § 8402. Prohibitions against certain unfair and deceptive Internet sales practices
 
 **(a) Requirements for certain Internet-based sales** It shall be unlawful for any post-transaction third party seller to charge or attempt to charge any consumer’s credit card, debit card, bank account, or other financial account for any good or service sold in a transaction effected on the Internet, unless—
 
@@ -71,9 +71,9 @@ It shall be unlawful for an initial merchant to disclose a credit card, debit ca
 
 **(c) Application with other law**
 
-Nothing in this chapter shall be construed to supersede, modify, or otherwise affect the requirements of the Electronic Funds 1
+Nothing in this chapter shall be construed to supersede, modify, or otherwise affect the requirements of the Electronic Funds 1
 
-<sup>1</sup>  So in original. Probably should be “Fund”.
+<sup>1</sup> So in original. Probably should be “Fund”.
 
 Transfer Act (15 U.S.C. 1693 et seq.) or any regulation promulgated thereunder.
 
@@ -97,15 +97,15 @@ The term “initial merchant” means a person that has obtained a consumer’s 
 
 **(iii)** a successor of an entity described in clause (i) or (ii).
 
-(Pub. L. 111–345, § 3, Dec. 29, 2010, 124 Stat. 3619.)
+(Pub. L. 111–345, § 3, Dec. 29, 2010, 124 Stat. 3619.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Electronic Fund Transfer Act, referred to in subsec. (c), is title IX of Pub. L. 90–321, as added by Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3728, which is classified generally to subchapter VI (§ 1693 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+The Electronic Fund Transfer Act, referred to in subsec. (c), is title IX of Pub. L. 90–321, as added by Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3728, which is classified generally to subchapter VI (§ 1693 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
-## § 8403. Negative option marketing on the Internet
+## § 8403. Negative option marketing on the Internet
 
 It shall be unlawful for any person to charge or attempt to charge any consumer for any goods or services sold in a transaction effected on the Internet through a negative option feature (as defined in the Federal Trade Commission’s Telemarketing Sales Rule in part 310 of title 16, Code of Federal Regulations), unless the person—
 
@@ -115,9 +115,9 @@ It shall be unlawful for any person to charge or attempt to charge any consumer 
 
 **(3)** provides simple mechanisms for a consumer to stop recurring charges from being placed on the consumer’s credit card, debit card, bank account, or other financial account.
 
-(Pub. L. 111–345, § 4, Dec. 29, 2010, 124 Stat. 3620.)
+(Pub. L. 111–345, § 4, Dec. 29, 2010, 124 Stat. 3620.)
 
-## § 8404. Enforcement by Federal Trade Commission
+## § 8404. Enforcement by Federal Trade Commission
 
 **(a) In general**
 
@@ -131,15 +131,15 @@ Any person who violates this chapter or any regulation prescribed under this cha
 
 Nothing in this section shall be construed to limit the authority of the Commission under any other provision of law.
 
-(Pub. L. 111–345, § 5, Dec. 29, 2010, 124 Stat. 3620.)
+(Pub. L. 111–345, § 5, Dec. 29, 2010, 124 Stat. 3620.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in subsecs. (a) and (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsecs. (a) and (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-## § 8405. Enforcement by State attorneys general
+## § 8405. Enforcement by State attorneys general
 
 **(a) Right of action**
 
@@ -165,4 +165,4 @@ A State shall provide prior written notice to the Federal Trade Commission of an
 
 No separate suit shall be brought under this section if, at the time the suit is brought, the same alleged violation is the subject of a pending action by the Federal Trade Commission or the United States under this chapter.
 
-(Pub. L. 111–345, § 6, Dec. 29, 2010, 124 Stat. 3621.)
+(Pub. L. 111–345, § 6, Dec. 29, 2010, 124 Stat. 3621.)

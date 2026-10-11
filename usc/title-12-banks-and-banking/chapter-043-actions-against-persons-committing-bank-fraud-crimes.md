@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—DECLARATIONS PROVIDING NEW CLAIMS TO UNITED STATES
 
-### § 4201. Filing of confidential declarations by private persons
+### § 4201. Filing of confidential declarations by private persons
 
 **(a) In general**
 
@@ -27,15 +27,15 @@ Any person may file a declaration of a violation giving rise to an action for ci
 
 A declaration under subsection (a) shall be filed with the Attorney General of the United States or with an agent designated by the Attorney General for receiving declarations under this section.
 
-(Pub. L. 101–647, title XXV, § 2561, Nov. 29, 1990, 104 Stat. 4894.)
+(Pub. L. 101–647, title XXV, § 2561, Nov. 29, 1990, 104 Stat. 4894.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 101–647, title XXV, § 2560, Nov. 29, 1990, 104 Stat. 4893, provided that: “This subtitle [subtitle H (§§ 2560–2594) of title XXV of Pub. L. 101–647, enacting this chapter and section 3059A of Title 18, Crimes and Criminal Procedure, and amending section 1831k of this title] may be cited as the ‘Financial Institutions Anti-Fraud Enforcement Act of 1990’.”
+Pub. L. 101–647, title XXV, § 2560, Nov. 29, 1990, 104 Stat. 4893, provided that: “This subtitle [subtitle H (§§ 2560–2594) of title XXV of Pub. L. 101–647, enacting this chapter and section 3059A of Title 18, Crimes and Criminal Procedure, and amending section 1831k of this title] may be cited as the ‘Financial Institutions Anti-Fraud Enforcement Act of 1990’.”
 
-### § 4202. Contents of declarations
+### § 4202. Contents of declarations
 
 A declaration filed pursuant to section 4201 of this title shall—
 
@@ -47,9 +47,9 @@ A declaration filed pursuant to section 4201 of this title shall—
 
 **(4)** set forth all facts supporting the allegation of a violation described in paragraph (2) known to the declarant, along with the names of material witnesses and the nature and location of documentary evidence known to the declarant.
 
-(Pub. L. 101–647, title XXV, § 2562, Nov. 29, 1990, 104 Stat. 4894.)
+(Pub. L. 101–647, title XXV, § 2562, Nov. 29, 1990, 104 Stat. 4894.)
 
-### § 4203. Confidentiality of declarations
+### § 4203. Confidentiality of declarations
 
 **(a) Period of confidentiality** A declarant and the declarant’s agents shall not disclose the existence or filing of a declaration filed pursuant to section 4201 of this title until—
 
@@ -69,11 +69,11 @@ A declaration filed pursuant to section 4201 of this title shall—
 
 A declarant who discloses, except as provided by this chapter,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the existence or filing of a declaration or the contents thereof to anyone other than a duly authorized Federal or State investigator or the declarant’s attorney shall immediately lose all rights under this subchapter.
 
-(Pub. L. 101–647, title XXV, § 2563, Nov. 29, 1990, 104 Stat. 4894.)
+(Pub. L. 101–647, title XXV, § 2563, Nov. 29, 1990, 104 Stat. 4894.)
 
 **Editorial Notes**
 
@@ -81,11 +81,11 @@ the existence or filing of a declaration or the contents thereof to anyone other
 
 This chapter, referred to in subsec. (c), was in the original “this title”, and was translated as reading “this subtitle”, meaning subtitle H of title XXV of Pub. L. 101–647, known as the Financial Institutions Anti-Fraud Enforcement Act of 1990, which is classified principally to this chapter, as the probable intent of Congress. For complete classification of subtitle H to the Code, see Short Title note set out under section 4201 of this title and Tables.
 
-### § 4204. Ineligibility to file valid declarations
+### § 4204. Ineligibility to file valid declarations
 
-**(a) In general** A declaration filed pursuant to section 4201 1
+**(a) In general** A declaration filed pursuant to section 4201 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title and in accordance with sections 4202 and 4203 of this title is valid unless—
 
@@ -107,7 +107,7 @@ For the purposes of subsection (a)(5), the term “original source” means a pe
 
 If the Attorney General determines at any time that a declaration is invalid under this section, that a declaration fails to meet the requirements of section 4202 of this title, or that a declaration has been disclosed in violation of section 4203 of this title, the Attorney General shall notify the person who filed the declaration in writing that the declaration is invalid, and the declarant shall not enjoy any of the rights of the declarant listed in section 4205 or 4206 of this title.
 
-(Pub. L. 101–647, title XXV, § 2564, Nov. 29, 1990, 104 Stat. 4895; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 101–647, title XXV, § 2564, Nov. 29, 1990, 104 Stat. 4895; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -119,7 +119,7 @@ Section 4201 of this title, referred to in subsec. (a), was in the original “s
 
 2004—Subsec. (a)(5). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-### § 4205. Rights of declarants; participation in actions, awards
+### § 4205. Rights of declarants; participation in actions, awards
 
 **(a) In general**
 
@@ -131,9 +131,9 @@ If the Attorney General determines that a cause of action referred to in section
 
 **(c) Criminal conviction**
 
-**(1)** When the United States obtains a criminal conviction and the Attorney General determines that the conviction was based in whole or in part on the information contained in a valid declaration filed under section 4201 of this title the Attorney General may, in his discretion, pay a reward to the declarant 1
+**(1)** When the United States obtains a criminal conviction and the Attorney General determines that the conviction was based in whole or in part on the information contained in a valid declaration filed under section 4201 of this title the Attorney General may, in his discretion, pay a reward to the declarant 1
 
-<sup>1</sup>  So in original. Probably should be followed by a period.
+<sup>1</sup> So in original. Probably should be followed by a period.
 
 **(2)** In determining the size of any award under paragraph (1), the Attorney General may, in the Attorney General’s discretion, consider any appropriate factor, including—
 
@@ -171,19 +171,19 @@ If the Attorney General determines that a cause of action referred to in section
 
 **(B)** In distributing any such award between 2 or more declarants, the Attorney General may, in the Attorney General’s discretion, consider any appropriate factor.
 
-**(e) Repealed. Pub. L. 107–273, div. A, title III, § 301(c)(3), Nov. 2, 2002, 116 Stat. 1781**
+**(e) Repealed. Pub. L. 107–273, div. A, title III, § 301(c)(3), Nov. 2, 2002, 116 Stat. 1781**
 
 **(f) Appropriate Federal banking agency exception**
 
 For purposes of this section, funds or assets acquired by the United States shall not include any funds or assets acquired by any appropriate Federal banking agency acting in any capacity or the Resolution Trust Corporation acting in any capacity, except for any civil money penalties recovered by a Federal banking agency through a final judgment, order or settlement.
 
-(Pub. L. 101–647, title XXV, § 2565, Nov. 29, 1990, 104 Stat. 4896; Pub. L. 107–273, div. A, title III, § 301(c)(3), Nov. 2, 2002, 116 Stat. 1781.)
+(Pub. L. 101–647, title XXV, § 2565, Nov. 29, 1990, 104 Stat. 4896; Pub. L. 107–273, div. A, title III, § 301(c)(3), Nov. 2, 2002, 116 Stat. 1781.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Subsec. (c)(1). Pub. L. 107–273 substituted “the Attorney General may, in his discretion, pay a reward to the declarant” for “, the declarant shall have the right to receive not less than $5,000 and not more than $100,000, any such award to be paid from the Financial Institution Information Award Fund established under section 4209 of this title.”
+2002—Subsec. (c)(1). Pub. L. 107–273 substituted “the Attorney General may, in his discretion, pay a reward to the declarant” for “, the declarant shall have the right to receive not less than $5,000 and not more than $100,000, any such award to be paid from the Financial Institution Information Award Fund established under section 4209 of this title.”
 
 Subsec. (e). Pub. L. 107–273 struck out heading and text of subsec. (e). Text read as follows:
 
@@ -191,7 +191,7 @@ Subsec. (e). Pub. L. 107–273 struck out heading and text of subsec. (e). Text 
 
 “(2) When a person qualifies for both an award under this section and a reward under either section 1831k of this title or section 3509A of title 18 for providing the same or substantially similar information, the person may notify the Attorney General in writing of the person’s election to seek an award under this section or a reward under such other section.”
 
-### § 4206. Rights of declarants; notifications; Government accountability
+### § 4206. Rights of declarants; notifications; Government accountability
 
 **(a) In general**
 
@@ -231,9 +231,9 @@ If, after review, the Attorney General concludes that the information contained 
 
 All notices provided to a declarant under this section shall be kept confidential by the declarant in the same manner, and subject to the same penalties, as the declaration under section 4203 of this title.
 
-(Pub. L. 101–647, title XXV, § 2566, Nov. 29, 1990, 104 Stat. 4897.)
+(Pub. L. 101–647, title XXV, § 2566, Nov. 29, 1990, 104 Stat. 4897.)
 
-### § 4207. Unreviewed declarations; petition to pursue action as private contractor
+### § 4207. Unreviewed declarations; petition to pursue action as private contractor
 
 **(a) Notification**
 
@@ -251,27 +251,27 @@ All notices provided to a declarant under this section shall be kept confidentia
 
 If the Attorney General decides to grant a contract, the declarant, after consultation with the Attorney General, shall have the right to select counsel to prosecute an action, and the declarant and the declarant’s counsel shall act in accordance with subchapter III.
 
-(Pub. L. 101–647, title XXV, § 2567, Nov. 29, 1990, 104 Stat. 4898.)
+(Pub. L. 101–647, title XXV, § 2567, Nov. 29, 1990, 104 Stat. 4898.)
 
-### § 4208. Nonreviewability of action by Attorney General
+### § 4208. Nonreviewability of action by Attorney General
 
 Notwithstanding any other law, no court shall have jurisdiction over any claim based on any action taken by the Attorney General or any refusal to take action under this subchapter, except for failure to provide notification under section 4206 of this title.
 
-(Pub. L. 101–647, title XXV, § 2568, Nov. 29, 1990, 104 Stat. 4898.)
+(Pub. L. 101–647, title XXV, § 2568, Nov. 29, 1990, 104 Stat. 4898.)
 
-### § 4209. Repealed. Pub. L. 107–273, div. A, title III, § 301(c)(3), Nov. 2, 2002, 116 Stat. 1781
+### § 4209. Repealed. Pub. L. 107–273, div. A, title III, § 301(c)(3), Nov. 2, 2002, 116 Stat. 1781
 
-Section, Pub. L. 101–647, title XXV, § 2569, Nov. 29, 1990, 104 Stat. 4898, related to Financial Institution Information Award Fund.
+Section, Pub. L. 101–647, title XXV, § 2569, Nov. 29, 1990, 104 Stat. 4898, related to Financial Institution Information Award Fund.
 
-### § 4210. Sources of payments to declarants
+### § 4210. Sources of payments to declarants
 
-Notwithstanding any other law, an award under this chapter 1
+Notwithstanding any other law, an award under this chapter 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 may be paid to a declarant, or to an individual providing information, from the amounts recovered through civil actions based in whole or in part on the information provided in a valid declaration under this chapter.1
 
-(Pub. L. 101–647, title XXV, § 2570, Nov. 29, 1990, 104 Stat. 4899.)
+(Pub. L. 101–647, title XXV, § 2570, Nov. 29, 1990, 104 Stat. 4899.)
 
 **Editorial Notes**
 
@@ -279,35 +279,35 @@ may be paid to a declarant, or to an individual providing information, from the 
 
 This chapter, referred to in text, was in the original “this title”, and was translated as reading “this subtitle”, meaning subtitle H of title XXV of Pub. L. 101–647, known as the Financial Institutions Anti-Fraud Enforcement Act of 1990, which is classified principally to this chapter, as the probable intent of Congress. For complete classification of subtitle H to the Code, see Short Title note set out under section 4201 of this title and Tables.
 
-### § 4211. Repealed. Pub. L. 105–362, title X, § 1001(e), Nov. 10, 1998, 112 Stat. 3291
+### § 4211. Repealed. Pub. L. 105–362, title X, § 1001(e), Nov. 10, 1998, 112 Stat. 3291
 
-Section, Pub. L. 101–647, title XXV, § 2571, Nov. 29, 1990, 104 Stat. 4899, related to Government accountability and public reports on processing of declarations.
+Section, Pub. L. 101–647, title XXV, § 2571, Nov. 29, 1990, 104 Stat. 4899, related to Government accountability and public reports on processing of declarations.
 
-### § 4212. Protection for declarants
+### § 4212. Protection for declarants
 
-A declarant under this subchapter shall enjoy the protections of section 3059A(e) 1
+A declarant under this subchapter shall enjoy the protections of section 3059A(e) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 18.
 
-(Pub. L. 101–647, title XXV, § 2572, Nov. 29, 1990, 104 Stat. 4899.)
+(Pub. L. 101–647, title XXV, § 2572, Nov. 29, 1990, 104 Stat. 4899.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3059A(e) of title 18, referred to in text, was repealed by Pub. L. 107–273, div. A, title III, § 301(c)(2), Nov. 2, 2002, 116 Stat. 1781.
+Section 3059A(e) of title 18, referred to in text, was repealed by Pub. L. 107–273, div. A, title III, § 301(c)(2), Nov. 2, 2002, 116 Stat. 1781.
 
-### § 4213. Promulgation of regulations
+### § 4213. Promulgation of regulations
 
 The Attorney General may promulgate any rules, regulations, or guidelines that, in the Attorney General’s judgment, are necessary and appropriate to the effective administration of this subchapter.
 
-(Pub. L. 101–647, title XXV, § 2573, Nov. 29, 1990, 104 Stat. 4899.)
+(Pub. L. 101–647, title XXV, § 2573, Nov. 29, 1990, 104 Stat. 4899.)
 
 ## SUBCHAPTER II—DECLARATIONS PROVIDING UNITED STATES WITH NEW INFORMATION CONCERNING RECOVERY OF ASSETS
 
-### § 4221. Filing of confidential declarations by private persons identifying specific assets
+### § 4221. Filing of confidential declarations by private persons identifying specific assets
 
 **(a) In general**
 
@@ -317,9 +317,9 @@ After the United States obtains a final judgment or settlement in any action ref
 
 A declaration under subsection (a) shall be filed with the Attorney General of the United States or with an agent designated by him for receiving declarations under this section.
 
-(Pub. L. 101–647, title XXV, § 2576, Nov. 29, 1990, 104 Stat. 4899.)
+(Pub. L. 101–647, title XXV, § 2576, Nov. 29, 1990, 104 Stat. 4899.)
 
-### § 4222. Contents of declarations
+### § 4222. Contents of declarations
 
 A declaration filed pursuant to section 4221 of this title shall—
 
@@ -329,9 +329,9 @@ A declaration filed pursuant to section 4221 of this title shall—
 
 **(3)** allege under oath or affirmation specific facts that establish a prima facie case showing that the asset is legally subject to attachment, garnishment, sequestration, or other proceeding in satisfaction of the judgment referred to in section 4221 of this title.
 
-(Pub. L. 101–647, title XXV, § 2577, Nov. 29, 1990, 104 Stat. 4900.)
+(Pub. L. 101–647, title XXV, § 2577, Nov. 29, 1990, 104 Stat. 4900.)
 
-### § 4223. Confidentiality of declarations
+### § 4223. Confidentiality of declarations
 
 **(a) Period of confidentiality** A declarant and the declarant’s agents shall not disclose the existence or filing of a declaration filed pursuant to section 4221 of this title until:
 
@@ -351,17 +351,17 @@ A declaration filed pursuant to section 4221 of this title shall—
 
 A declarant who discloses, except as provided by this subchapter, the existence or filing of a declaration or the contents thereof to anyone other than a duly authorized Federal or State investigator or the declarant’s attorney shall immediately lose all rights under this subchapter.
 
-(Pub. L. 101–647, title XXV, § 2578, Nov. 29, 1990, 104 Stat. 4900.)
+(Pub. L. 101–647, title XXV, § 2578, Nov. 29, 1990, 104 Stat. 4900.)
 
-### § 4224. Ineligibility to file valid declarations
+### § 4224. Ineligibility to file valid declarations
 
 **(a) In general** A declaration filed pursuant to section 4221 of this title and in accordance with sections 4222 and 4223 of this title is valid unless—
 
 **(1)** the declaration is filed by a current or former officer or employee of a Federal or State government agency or instrumentality who discovered or gathered the information in the declaration, in whole or in part, while acting within the course of the declarant’s government employment;
 
-**(2)** the declaration is filed by a person who knowingly participated in the violation of section 1517 of title 18 or any of the sections of title 18 referred to in section 4201 1
+**(2)** the declaration is filed by a person who knowingly participated in the violation of section 1517 of title 18 or any of the sections of title 18 referred to in section 4201 1
 
-<sup>1</sup>  So in original. Probably should be section “1833a(c)”.
+<sup>1</sup> So in original. Probably should be section “1833a(c)”.
 
 of this title, or any other fraudulent conduct with respect to which the declaration is made;
 
@@ -379,7 +379,7 @@ For the purposes of subsection (a)(5), the term “original source” means a pe
 
 If the Attorney General determines at any time that a declaration is invalid under this section, that a declaration fails to meet the requirements of section 4222 of this title, or that a declaration has been disclosed in violation of section 4223 of this title, the Attorney General shall notify the person who filed the declaration in writing that the declaration is invalid, and the declarant shall not enjoy any of the rights of the declarant listed in section 4225 or 4226 of this title.
 
-(Pub. L. 101–647, title XXV, § 2579, Nov. 29, 1990, 104 Stat. 4900; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 101–647, title XXV, § 2579, Nov. 29, 1990, 104 Stat. 4900; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -387,7 +387,7 @@ If the Attorney General determines at any time that a declaration is invalid und
 
 2004—Subsec. (a)(5). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-### § 4225. Rights of declarants; participation in actions, awards
+### § 4225. Rights of declarants; participation in actions, awards
 
 **(a) In general**
 
@@ -403,27 +403,27 @@ When the United States recovers any asset or assets specifically identified in a
 
 **(d) Prohibition of double awards**
 
-**(1)** No person shall receive both an award under this section and a reward under either section 1831k of this title or section 3509A 1
+**(1)** No person shall receive both an award under this section and a reward under either section 1831k of this title or section 3509A 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 18 for providing the same or substantially similar information.
 
-**(2)** When a person qualifies for both an award under this section and a reward under either section 1831k of this title or section 3509A <sup>1</sup> of title 18 for providing the same or substantially similar information, the person may notify the Attorney General in writing of the person’s election to seek an award under this section or a reward under such other section.
+**(2)** When a person qualifies for both an award under this section and a reward under either section 1831k of this title or section 3509A <sup>1</sup> of title 18 for providing the same or substantially similar information, the person may notify the Attorney General in writing of the person’s election to seek an award under this section or a reward under such other section.
 
 **(e) Appropriate Federal banking agency exception**
 
 For purposes of this section, funds or assets acquired by the United States shall not include any funds or assets acquired by any appropriate Federal banking agency acting in any capacity or the Resolution Trust Corporation acting in any capacity, except for any civil money penalties recovered by a Federal banking agency through a final judgement, order, or settlement.
 
-(Pub. L. 101–647, title XXV, § 2580, Nov. 29, 1990, 104 Stat. 4901.)
+(Pub. L. 101–647, title XXV, § 2580, Nov. 29, 1990, 104 Stat. 4901.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3509A of title 18, referred to in subsec. (d), probably is a reference to former section 3059A of title 18, which was repealed by Pub. L. 107–273, div. A, title III, § 301(c)(2), Nov. 2, 2002, 116 Stat. 1781.
+Section 3509A of title 18, referred to in subsec. (d), probably is a reference to former section 3059A of title 18, which was repealed by Pub. L. 107–273, div. A, title III, § 301(c)(2), Nov. 2, 2002, 116 Stat. 1781.
 
-### § 4226. Rights of declarants; notifications; Government accountability
+### § 4226. Rights of declarants; notifications; Government accountability
 
 **(a) In general**
 
@@ -435,9 +435,9 @@ If, after review, the Attorney General concludes that the information contained 
 
 **(c) Judgment, order, or settlement**
 
-**(1)** When the United States obtains a final judgment, order, or settlement transferring to the United States title to an asset or assets identified in a valid declaration filed under section 4221 1
+**(1)** When the United States obtains a final judgment, order, or settlement transferring to the United States title to an asset or assets identified in a valid declaration filed under section 4221 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, the Attorney General shall notify the declarant in writing of the entry of the judgment, order, or settlement.
 
@@ -461,7 +461,7 @@ of this title, the Attorney General shall notify the declarant in writing of the
 
 All notices provided to a declarant under this section shall be kept confidential by the declarant in the same manner, and subject to the same penalties, as the declaration under section 4223 of this title.
 
-(Pub. L. 101–647, title XXV, § 2581, Nov. 29, 1990, 104 Stat. 4902.)
+(Pub. L. 101–647, title XXV, § 2581, Nov. 29, 1990, 104 Stat. 4902.)
 
 **Editorial Notes**
 
@@ -469,7 +469,7 @@ All notices provided to a declarant under this section shall be kept confidentia
 
 Section 4221 of this title, referred to in subsec. (c)(1), was in the original “section 831”, and was translated as reading “section 2576”, meaning section 2576 of Pub. L. 101–647, as the probable intent of Congress, because Pub. L. 101–647 does not contain a section 831.
 
-### § 4227. Unreviewed declarations; petition to pursue action as private contractor
+### § 4227. Unreviewed declarations; petition to pursue action as private contractor
 
 **(a) Notification**
 
@@ -487,39 +487,39 @@ Section 4221 of this title, referred to in subsec. (c)(1), was in the original �
 
 If the Attorney General decides to grant a contract, the declarant, after consultation with the Attorney General, shall have the right to select counsel to prosecute an action, and the declarant and the declarant’s counsel shall act in accordance with subchapter III.
 
-(Pub. L. 101–647, title XXV, § 2582, Nov. 29, 1990, 104 Stat. 4903.)
+(Pub. L. 101–647, title XXV, § 2582, Nov. 29, 1990, 104 Stat. 4903.)
 
-### § 4228. Nonreviewability of action by Attorney Gen­eral
+### § 4228. Nonreviewability of action by Attorney Gen­eral
 
 Notwithstanding any other law, no court shall have jurisdiction over any claim based on any action taken by the Attorney General or any refusal to take action under this subchapter, except for failure to provide notification under section 4226 of this title.
 
-(Pub. L. 101–647, title XXV, § 2583, Nov. 29, 1990, 104 Stat. 4903.)
+(Pub. L. 101–647, title XXV, § 2583, Nov. 29, 1990, 104 Stat. 4903.)
 
-### § 4229. Protection for declarants
+### § 4229. Protection for declarants
 
-A declarant under this subchapter shall enjoy the protections of section 3059A(e) 1
+A declarant under this subchapter shall enjoy the protections of section 3059A(e) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 18.
 
-(Pub. L. 101–647, title XXV, § 2584, Nov. 29, 1990, 104 Stat. 4903.)
+(Pub. L. 101–647, title XXV, § 2584, Nov. 29, 1990, 104 Stat. 4903.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3059A(e) of title 18, referred to in text, was repealed by Pub. L. 107–273, div. A, title III, § 301(c)(2), Nov. 2, 2002, 116 Stat. 1781.
+Section 3059A(e) of title 18, referred to in text, was repealed by Pub. L. 107–273, div. A, title III, § 301(c)(2), Nov. 2, 2002, 116 Stat. 1781.
 
-### § 4230. Promulgation of regulations
+### § 4230. Promulgation of regulations
 
 The Attorney General may promulgate any rules, regulations, or guidelines that, in the Attorney General’s judgment, are necessary and appropriate to the effective administration of this subchapter.
 
-(Pub. L. 101–647, title XXV, § 2585, Nov. 29, 1990, 104 Stat. 4903.)
+(Pub. L. 101–647, title XXV, § 2585, Nov. 29, 1990, 104 Stat. 4903.)
 
 ## SUBCHAPTER III—USE OF PRIVATE LEGAL RESOURCES
 
-### § 4241. Authority to enter into contracts for private counsel
+### § 4241. Authority to enter into contracts for private counsel
 
 **(a) In general**
 
@@ -537,21 +537,21 @@ The amount of the contingency fee payable for legal services furnished under a c
 
 Notwithstanding section 3302(b) of title 31, a contract under this section shall provide that a fee that the United States pays private counsel for services is payable from the amount recovered and shall be based on a percentage of the civil penalties or assets recovered.
 
-(Pub. L. 101–647, title XXV, § 2588, Nov. 29, 1990, 104 Stat. 4905.)
+(Pub. L. 101–647, title XXV, § 2588, Nov. 29, 1990, 104 Stat. 4905.)
 
-### § 4242. Contract decisions nonreviewable
+### § 4242. Contract decisions nonreviewable
 
 Notwithstanding any other law, no court shall have jurisdiction over any claim based on the Attorney General’s decision to refuse to enter into a contract for legal services referred to in section 4241 of this title.
 
-(Pub. L. 101–647, title XXV, § 2589, Nov. 29, 1990, 104 Stat. 4905.)
+(Pub. L. 101–647, title XXV, § 2589, Nov. 29, 1990, 104 Stat. 4905.)
 
-### § 4243. Representation
+### § 4243. Representation
 
 Notwithstanding sections 516, 518(b), 519, and 547(2) of title 28, private counsel retained under section 4241 of this title may represent the United States in litigation in connection with legal services furnished pursuant to the contract entered into with that counsel, subject to the requirements specified in section 4244 of this title.
 
-(Pub. L. 101–647, title XXV, § 2590, Nov. 29, 1990, 104 Stat. 4906.)
+(Pub. L. 101–647, title XXV, § 2590, Nov. 29, 1990, 104 Stat. 4906.)
 
-### § 4244. Contract provisions
+### § 4244. Contract provisions
 
 A contract made with a private counsel under section 4241 of this title shall include—
 
@@ -561,22 +561,22 @@ A contract made with a private counsel under section 4241 of this title shall in
 
 **(3)** a provision requiring that the initiation, settlement, dismissal, or compromise of a claim be approved by a duly appointed officer of the United States.
 
-(Pub. L. 101–647, title XXV, § 2591, Nov. 29, 1990, 104 Stat. 4906.)
+(Pub. L. 101–647, title XXV, § 2591, Nov. 29, 1990, 104 Stat. 4906.)
 
-### § 4245. Counterclaims
+### § 4245. Counterclaims
 
 Any counterclaim filed in any action brought on behalf of the United States by private counsel retained under section 4241 of this title may not be asserted unless the counterclaim has been served directly on the Attorney General and the United States Attorney for the judicial district in which, or embracing the place in which, the action is pending. Such service shall be made in accordance with the rules of procedure of the court in which the action on behalf of the United States is pending.
 
-(Pub. L. 101–647, title XXV, § 2592, Nov. 29, 1990, 104 Stat. 4906.)
+(Pub. L. 101–647, title XXV, § 2592, Nov. 29, 1990, 104 Stat. 4906.)
 
-### § 4246. Awards of costs and fees to prevailing plaintiff
+### § 4246. Awards of costs and fees to prevailing plaintiff
 
 When the United States, through private counsel retained under this subchapter, prevails in any civil action, the court, in its discretion, may allow the United States reasonable attorney’s fees and other expenses of litigation as part of the costs.
 
-(Pub. L. 101–647, title XXV, § 2593, Nov. 29, 1990, 104 Stat. 4906.)
+(Pub. L. 101–647, title XXV, § 2593, Nov. 29, 1990, 104 Stat. 4906.)
 
-### § 4247. Promulgation of regulations
+### § 4247. Promulgation of regulations
 
 The Attorney General may promulgate any rules, regulations, or guidelines that, in the Attorney General’s judgment, are necessary and appropriate to the effective administration of this subchapter.
 
-(Pub. L. 101–647, title XXV, § 2594, Nov. 29, 1990, 104 Stat. 4906.)
+(Pub. L. 101–647, title XXV, § 2594, Nov. 29, 1990, 104 Stat. 4906.)

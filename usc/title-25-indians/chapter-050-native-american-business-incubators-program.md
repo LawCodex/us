@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 50—NATIVE AMERICAN BUSINESS INCUBATORS PROGRAM
 
-## § 5801. Findings
+## § 5801. Findings
 
 Congress finds that—
 
@@ -39,15 +39,15 @@ Congress finds that—
 
 **(5)** business incubators will stimulate economic development by providing Native entrepreneurs with the tools necessary to grow businesses that offer products and services to reservation communities.
 
-(Pub. L. 116–174, § 2, Oct. 20, 2020, 134 Stat. 839.)
+(Pub. L. 116–174, § 2, Oct. 20, 2020, 134 Stat. 839.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 116–174, § 1, Oct. 20, 2020, 134 Stat. 839, provided that: “This Act [enacting this chapter] may be cited as the ‘Native American Business Incubators Program Act’.”
+Pub. L. 116–174, § 1, Oct. 20, 2020, 134 Stat. 839, provided that: “This Act [enacting this chapter] may be cited as the ‘Native American Business Incubators Program Act’.”
 
-## § 5802. Definitions
+## § 5802. Definitions
 
 In this chapter:
 
@@ -105,9 +105,9 @@ The term “Secretary” means the Secretary of the Interior.
 
 The term “tribal college or university” has the meaning given the term “Tribal College or University” in section 1059c(b) of title 20.
 
-(Pub. L. 116–174, § 3, Oct. 20, 2020, 134 Stat. 839.)
+(Pub. L. 116–174, § 3, Oct. 20, 2020, 134 Stat. 839.)
 
-## § 5803. Establishment of program
+## § 5803. Establishment of program
 
 **(a) In general**
 
@@ -399,26 +399,26 @@ Not later than 2 years after the date on which the Secretary first awards fundin
 
 **(V)** an evaluation of the overall performance of the business incubator.
 
-(Pub. L. 116–174, § 4, Oct. 20, 2020, 134 Stat. 840.)
+(Pub. L. 116–174, § 4, Oct. 20, 2020, 134 Stat. 840.)
 
-## § 5804. Regulations
+## § 5804. Regulations
 
 Not later than 180 days after October 20, 2020, the Secretary shall promulgate regulations to implement the program.
 
-(Pub. L. 116–174, § 5, Oct. 20, 2020, 134 Stat. 847.)
+(Pub. L. 116–174, § 5, Oct. 20, 2020, 134 Stat. 847.)
 
-## § 5805. Schools to business incubator pipeline
+## § 5805. Schools to business incubator pipeline
 
 The Secretary shall facilitate the establishment of relationships between eligible applicants receiving funds through the program and educational institutions serving Native American communities, including tribal colleges and universities.
 
-(Pub. L. 116–174, § 6, Oct. 20, 2020, 134 Stat. 847.)
+(Pub. L. 116–174, § 6, Oct. 20, 2020, 134 Stat. 847.)
 
-## § 5806. Agency partnerships
+## § 5806. Agency partnerships
 
 The Secretary shall coordinate with the Secretary of Agriculture, the Secretary of Commerce, the Secretary of the Treasury, and the Administrator of the Small Business Administration to ensure, to the maximum extent practicable, that business incubators receiving grant funds under the program have the information and materials needed to provide Native businesses and Native entrepreneurs with the information and assistance necessary to apply for business and entrepreneurial development programs administered by the Department of Agriculture, the Department of Commerce, the Department of the Treasury, and the Small Business Administration.
 
-(Pub. L. 116–174, § 7, Oct. 20, 2020, 134 Stat. 847.)
+(Pub. L. 116–174, § 7, Oct. 20, 2020, 134 Stat. 847.)
 
-## § 5807. Authorizations of appropriations
+## § 5807. Authorizations of appropriations
 
 There are authorized to be appropriated to carry out the program $5,000,000 for each of fiscal years 2020 through 2024.

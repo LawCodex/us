@@ -15,40 +15,40 @@ retrieved: 2026-10-11
 
 # CHAPTER 9—NATIONAL WEATHER SERVICE
 
-## § 311. Omitted
+## § 311. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Oct. 1, 1890, ch. 1266, § 1, 26 Stat. 653, as amended, relating to the establishment of a Weather Bureau in the Department of Commerce, was omitted because the Weather Bureau was consolidated with the Coast and Geodetic Survey to form a new agency in the Department to be known as the Environmental Science Services Administration, and the office of Chief of the Weather Bureau was abolished, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note below. The Reorg. Plan also transferred to the Secretary of Commerce all functions of the Bureau and the Chief of the Bureau.
+Section, act Oct. 1, 1890, ch. 1266, § 1, 26 Stat. 653, as amended, relating to the establishment of a Weather Bureau in the Department of Commerce, was omitted because the Weather Bureau was consolidated with the Coast and Geodetic Survey to form a new agency in the Department to be known as the Environmental Science Services Administration, and the office of Chief of the Weather Bureau was abolished, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note below. The Reorg. Plan also transferred to the Secretary of Commerce all functions of the Bureau and the Chief of the Bureau.
 
 Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out as a note under section 1511 of this title, abolished the Environmental Science Services Administration, including the offices of Administrator and Deputy Administrator, and established the National Oceanic and Atmospheric Administration within the Department of Commerce. By Department Organization Order 25–5A, republished 39 F.R. 27486, July 29, 1974, the Secretary of Commerce delegated to the National Oceanic and Atmospheric Administration a number of functions vested in him, including his functions under this chapter of the Code. By order of the Acting Associate Administrator, 35 F.R. 19249, Dec. 19, 1970, the following organizational names appearing in chapter IX of subtitle B of Title 15, Code of Federal Regulations, relating to the Administration, were changed: Environmental Science Services Administration to National Oceanic and Atmospheric Administration (ESSA to NOAA); Coast and Geodetic Survey to National Ocean Survey, and Weather Bureau to National Weather Service.
 
-Prior to Oct. 1, 1890, the functions of the Weather Bureau were exercised by the Signal Corps of the Army. Act October 1, 1890, created the present Bureau in the Department of Agriculture. By Reorg. Plan No. IV of 1940, § 8, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1236, the Bureau and its functions were transferred to the Department of Commerce, “*Provided*, That the Department of Agriculture may continue to make snow surveys and to conduct research concerning: (a) relationships between weather and crops, (b) long-range weather forecasting, and (c) relationships between weather and soil erosion.”
+Prior to Oct. 1, 1890, the functions of the Weather Bureau were exercised by the Signal Corps of the Army. Act October 1, 1890, created the present Bureau in the Department of Agriculture. By Reorg. Plan No. IV of 1940, § 8, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1236, the Bureau and its functions were transferred to the Department of Commerce, “*Provided*, That the Department of Agriculture may continue to make snow surveys and to conduct research concerning: (a) relationships between weather and crops, (b) long-range weather forecasting, and (c) relationships between weather and soil erosion.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2014 Amendment**
 
-Pub. L. 113–86, § 1, Mar. 6, 2014, 128 Stat. 1015, provided that: “This Act [amending section 313d of this title and amending provisions set out as a note under section 313d of this title] may be cited as the ‘National Integrated Drought Information System Reauthorization Act of 2014’.”
+Pub. L. 113–86, § 1, Mar. 6, 2014, 128 Stat. 1015, provided that: “This Act [amending section 313d of this title and amending provisions set out as a note under section 313d of this title] may be cited as the ‘National Integrated Drought Information System Reauthorization Act of 2014’.”
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–430, § 1, Dec. 20, 2006, 120 Stat. 2918, provided that: “This Act [enacting section 313d of this title and provisions set out as notes under section 313d of this title] may be cited as the ‘National Integrated Drought Information System Act of 2006’.”
+Pub. L. 109–430, § 1, Dec. 20, 2006, 120 Stat. 2918, provided that: “This Act [enacting section 313d of this title and provisions set out as notes under section 313d of this title] may be cited as the ‘National Integrated Drought Information System Act of 2006’.”
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–253, § 1, Oct. 29, 2002, 116 Stat. 1731, provided that: “This Act [enacting section 313c of this title and provisions set out as notes under section 313c of this title] may be cited as the ‘Inland Flood Forecasting and Warning System Act of 2002’.”
+Pub. L. 107–253, § 1, Oct. 29, 2002, 116 Stat. 1731, provided that: “This Act [enacting section 313c of this title and provisions set out as notes under section 313c of this title] may be cited as the ‘Inland Flood Forecasting and Warning System Act of 2002’.”
 
 **Weather Modification Program**
 
-Act Aug. 13, 1953, ch. 426, 67 Stat. 559, as amended by act July 9, 1956, ch. 522, 70 Stat. 509, related to research and experimentation in the field of weather modification and created the Advisory Committee on Weather Control. Pub. L. 85–170, ch. II, § 201, Aug. 28, 1957, 71 Stat. 427, provided in part that the Advisory Committee on Weather Control shall complete its report and terminate its activities by Dec. 31, 1957.
+Act Aug. 13, 1953, ch. 426, 67 Stat. 559, as amended by act July 9, 1956, ch. 522, 70 Stat. 509, related to research and experimentation in the field of weather modification and created the Advisory Committee on Weather Control. Pub. L. 85–170, ch. II, § 201, Aug. 28, 1957, 71 Stat. 427, provided in part that the Advisory Committee on Weather Control shall complete its report and terminate its activities by Dec. 31, 1957.
 
 **Executive Documents**
 
 ****REORGANIZATION PLAN NO. 2 OF 1965**
-Eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, as amended Pub. L. 90–83, § 10(c), Sept. 11, 1967, 81 Stat. 224**
+Eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, as amended Pub. L. 90–83, § 10(c), Sept. 11, 1967, 81 Stat. 224**
 
 Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, May 13, 1965, pursuant to the provisions of the Reorganization Act of 1949, 63 Stat. 203, as amended [see 5 U.S.C. 901 et seq.].
 
@@ -82,7 +82,7 @@ All functions vested by law in the Weather Bureau, the Chief of the Weather Bure
 
 (d) At any one time, one principal constituent organizational entity of the Administration may, if the Secretary so elects, be headed by a commissioned officer of the Administration, who shall be designated by the Secretary. Such designation of an officer shall create a vacancy on the active list and while serving under this paragraph the officer shall have rank, pay and allowances not exceeding those of a Rear Admiral (upper half).
 
-(e) Any commissioned officer of the Administration who has served as Deputy Administrator or has served in a rank above that of Captain as the head of a principal constituent organizational entity of the Administration, and is retired while so serving or is retired after the completion of such service while serving in a lower rank or grade, shall be retired with the rank, pay and allowances authorized by law for the highest grade and rank held by him; but any such officer, upon termination of his appointment in a rank above that of Captain shall, unless appointed or assigned to some other position for which a higher rank or grade is provided, revert to the grade and number he would have occupied had he not served in a rank above that of Captain and such officer shall be an extra number in that grade. [As amended Pub. L. 90–83 § 10(c), Sept. 11, 1967, 81 Stat. 224.]
+(e) Any commissioned officer of the Administration who has served as Deputy Administrator or has served in a rank above that of Captain as the head of a principal constituent organizational entity of the Administration, and is retired while so serving or is retired after the completion of such service while serving in a lower rank or grade, shall be retired with the rank, pay and allowances authorized by law for the highest grade and rank held by him; but any such officer, upon termination of his appointment in a rank above that of Captain shall, unless appointed or assigned to some other position for which a higher rank or grade is provided, revert to the grade and number he would have occupied had he not served in a rank above that of Captain and such officer shall be an extra number in that grade. [As amended Pub. L. 90–83 § 10(c), Sept. 11, 1967, 81 Stat. 224.]
 
 **Sec. 5. Authority of the Secretary**
 
@@ -132,11 +132,11 @@ Lyndon B. Johnson.
 
 The White House, May 13, 1965.
 
-## § 312. Employees
+## § 312. Employees
 
 The National Weather Service shall consist of such civilian employees as Congress may annually provide for and as may be necessary to properly perform the duties devolving on said Service by law.
 
-(Oct. 1, 1890, ch. 1266, § 4, 26 Stat. 653; July 8, 1898, No. 57, 30 Stat. 752; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(Oct. 1, 1890, ch. 1266, § 4, 26 Stat. 653; July 8, 1898, No. 57, 30 Stat. 752; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -150,11 +150,11 @@ Joint Res. July 8, 1898, provided: “That the laws authorizing the detail and a
 
 Office of Chief of Weather Bureau abolished and Weather Bureau consolidated with Coast and Geodetic Survey to form new agency in Department of Commerce known as Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 311 of this title. The Reorg. Plan also transferred to Secretary of Commerce functions of Bureau and Chief of Bureau. Subsequently, Environmental Science Services Administration abolished and National Oceanic and Atmospheric Administration established. By Department Organization Order 25–5A, Secretary delegated to NOAA his functions under this chapter of the Code. By order of Acting Associate Administrator of NOAA, organizational name of Weather Bureau changed to National Weather Service. For further details, see Codification note set out under section 311 of this title.
 
-## § 313. Duties of Secretary of Commerce
+## § 313. Duties of Secretary of Commerce
 
 The Secretary of Commerce shall have charge of the forecasting of weather, the issue of storm warnings, the display of weather and flood signals for the benefit of agriculture, commerce, and navigation, the gauging and reporting of rivers, the maintenance and operation of seacoast telegraph lines and the collection and transmission of marine intelligence for the benefit of commerce and navigation, the reporting of temperature and rain-fall conditions for the cotton interests, the display of frost and cold-wave signals, the distribution of meteorological information in the interests of agriculture and commerce, and the taking of such meteorological observations as may be necessary to establish and record the climatic conditions of the United States, or as are essential for the proper execution of the foregoing duties.
 
-(Oct. 1, 1890, ch. 1266, § 3, 26 Stat. 653; May 20, 1926, ch. 344, § 5 (e), 44 Stat. 571; June 23, 1938, ch. 601, title XI, § 1107(k), 52 Stat. 1029; 1940 Reorg. Plan No. IV, § 8, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1236; 1965 Reorg. Plan No. 2, §§ 1, 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318.)
+(Oct. 1, 1890, ch. 1266, § 3, 26 Stat. 653; May 20, 1926, ch. 344, § 5 (e), 44 Stat. 571; June 23, 1938, ch. 601, title XI, § 1107(k), 52 Stat. 1029; 1940 Reorg. Plan No. IV, § 8, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1236; 1965 Reorg. Plan No. 2, §§ 1, 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318.)
 
 **Editorial Notes**
 
@@ -168,11 +168,11 @@ The Secretary of Commerce shall have charge of the forecasting of weather, the i
 
 **Repeals**
 
-Pub. L. 85–726, title XIV, § 1401(b), Aug. 23, 1958, 72 Stat. 806, repealed act June 23, 1938, ch. 601, title XI, § 1107(k), 52 Stat. 1029, cited to the credit of this section.
+Pub. L. 85–726, title XIV, § 1401(b), Aug. 23, 1958, 72 Stat. 806, repealed act June 23, 1938, ch. 601, title XI, § 1107(k), 52 Stat. 1029, cited to the credit of this section.
 
 **Conduct of Weather Reconnaissance in the United States**
 
-Pub. L. 118–31, div. A, title X, § 1090, Dec. 22, 2023, 137 Stat. 420, provided that:
+Pub. L. 118–31, div. A, title X, § 1090, Dec. 22, 2023, 137 Stat. 420, provided that:
 
 > **“(a) Conduct of Reconnaissance.—**
 
@@ -248,39 +248,39 @@ Pub. L. 118–31, div. A, title X, § 1090, Dec. 22, 2023, 137 Stat. 420, prov
 
 **Use of Funds for Hurricane Reconnaissance Program**
 
-Pub. L. 108–199, div. B, title II, § 203, Jan. 23, 2004, 118 Stat. 72, provided in part that: “Hereafter, none of the funds made available by this or any other Act for the National Oceanic and Atmospheric Administration may be used to support the hurricane reconnaissance aircraft and activities that are under the control of the United States Air Force or the United States Air Force Reserve.”
+Pub. L. 108–199, div. B, title II, § 203, Jan. 23, 2004, 118 Stat. 72, provided in part that: “Hereafter, none of the funds made available by this or any other Act for the National Oceanic and Atmospheric Administration may be used to support the hurricane reconnaissance aircraft and activities that are under the control of the United States Air Force or the United States Air Force Reserve.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 108–7, div. B, title II, § 203, Feb. 20, 2003, 117 Stat. 77.
+Pub. L. 108–7, div. B, title II, § 203, Feb. 20, 2003, 117 Stat. 77.
 
-Pub. L. 107–77, title II, § 203, Nov. 28, 2001, 115 Stat. 778.
+Pub. L. 107–77, title II, § 203, Nov. 28, 2001, 115 Stat. 778.
 
-Pub. L. 106–553, § 1(a)(2) [title II, § 203], Dec. 21, 2000, 114 Stat. 2762, 2762A–78.
+Pub. L. 106–553, § 1(a)(2) [title II, § 203], Dec. 21, 2000, 114 Stat. 2762, 2762A–78.
 
-Pub. L. 106–113, div. B, § 1000(a)(1) [title II, § 203], Nov. 29, 1999, 113 Stat. 1535, 1501A–31.
+Pub. L. 106–113, div. B, § 1000(a)(1) [title II, § 203], Nov. 29, 1999, 113 Stat. 1535, 1501A–31.
 
-Pub. L. 105–277, div. A, § 101(b) [title II, § 203], Oct. 21, 1998, 112 Stat. 2681–50, 2681–86.
+Pub. L. 105–277, div. A, § 101(b) [title II, § 203], Oct. 21, 1998, 112 Stat. 2681–50, 2681–86.
 
-Pub. L. 105–119, title II, § 203, Nov. 26, 1997, 111 Stat. 2479.
+Pub. L. 105–119, title II, § 203, Nov. 26, 1997, 111 Stat. 2479.
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 203], Sept. 30, 1996, 110 Stat. 3009, 3009–39.
+Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 203], Sept. 30, 1996, 110 Stat. 3009, 3009–39.
 
-Pub. L. 104–134, title I, § 101[(a)] [title II, § 203], Apr. 26, 1996, 110 Stat. 1321, 1321–30; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+Pub. L. 104–134, title I, § 101[(a)] [title II, § 203], Apr. 26, 1996, 110 Stat. 1321, 1321–30; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
-Pub. L. 103–317, title II, § 203, Aug. 26, 1994, 108 Stat. 1749.
+Pub. L. 103–317, title II, § 203, Aug. 26, 1994, 108 Stat. 1749.
 
-Pub. L. 103–121, title II, § 203, Oct. 27, 1993, 107 Stat. 1176.
+Pub. L. 103–121, title II, § 203, Oct. 27, 1993, 107 Stat. 1176.
 
-Pub. L. 102–395, title II, § 203, Oct. 6, 1992, 106 Stat. 1855.
+Pub. L. 102–395, title II, § 203, Oct. 6, 1992, 106 Stat. 1855.
 
-Pub. L. 102–140, title II, § 203, Oct. 28, 1991, 105 Stat. 806.
+Pub. L. 102–140, title II, § 203, Oct. 28, 1991, 105 Stat. 806.
 
-Pub. L. 101–515, title I, § 103, Nov. 5, 1990, 104 Stat. 2107.
+Pub. L. 101–515, title I, § 103, Nov. 5, 1990, 104 Stat. 2107.
 
 **Hurricane Reconnaissance Program**
 
-Pub. L. 102–567, title I, § 107, Oct. 29, 1992, 106 Stat. 4275, provided that:
+Pub. L. 102–567, title I, § 107, Oct. 29, 1992, 106 Stat. 4275, provided that:
 
 > **“(a) Establishment of Program.—**
 
@@ -304,7 +304,7 @@ Pub. L. 102–567, title I, § 107, Oct. 29, 1992, 106 Stat. 4275, provided th
 
 **United States Weather Research Program**
 
-Pub. L. 102–567, title I, § 108, Oct. 29, 1992, 106 Stat. 4276, as amended by Pub. L. 115–25, title I, § 109, Apr. 18, 2017, 131 Stat. 97, formerly set out as a note under this section, was transferred to section 8520 of this title.
+Pub. L. 102–567, title I, § 108, Oct. 29, 1992, 106 Stat. 4276, as amended by Pub. L. 115–25, title I, § 109, Apr. 18, 2017, 131 Stat. 97, formerly set out as a note under this section, was transferred to section 8520 of this title.
 
 **Weather Service Modernization**
 
@@ -470,11 +470,11 @@ Pub. L. 102–567, title VII, Oct. 29, 1992, 106 Stat. 4303, provided that:
 
 > “[Amended section 407 of Pub. L. 100–685, set out below, and repealed section 408 of Pub. L. 100–685, formerly set out below.]”
 
-[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.]
+[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.]
 
 **Purchase of Atmospheric Wind Data**
 
-Pub. L. 101–595, title III, § 320, Nov. 16, 1990, 104 Stat. 2989, provided that:
+Pub. L. 101–595, title III, § 320, Nov. 16, 1990, 104 Stat. 2989, provided that:
 
 > “The National Oceanic and Atmospheric Administration is authorized to enter into a contract for the future purchase of atmospheric wind data. Any and all obligations of the Government under such contract shall be contingent upon the following terms:
 
@@ -484,19 +484,19 @@ Pub. L. 101–595, title III, § 320, Nov. 16, 1990, 104 Stat. 2989, provided 
 
 **National Weather Service 10-Year Strategic Plan**
 
-Pub. L. 100–685, title IV, § 407, Nov. 17, 1988, 102 Stat. 4098, as amended by Pub. L. 102–567, title VII, § 709(1), Oct. 29, 1992, 106 Stat. 4309, directed Secretary of Commerce to prepare and submit to Congress, not later than 90 days after Nov. 17, 1988, a 10-year strategic plan for comprehensive modernization of National Weather Service, setting forth basic service improvement objectives of modernization as well as critical new technological components and associated operational changes necessary to fulfill objectives of weather and flood warning service improvements.
+Pub. L. 100–685, title IV, § 407, Nov. 17, 1988, 102 Stat. 4098, as amended by Pub. L. 102–567, title VII, § 709(1), Oct. 29, 1992, 106 Stat. 4309, directed Secretary of Commerce to prepare and submit to Congress, not later than 90 days after Nov. 17, 1988, a 10-year strategic plan for comprehensive modernization of National Weather Service, setting forth basic service improvement objectives of modernization as well as critical new technological components and associated operational changes necessary to fulfill objectives of weather and flood warning service improvements.
 
 **Degradation-of-Weather-Services Standard for Providing Services**
 
-Pub. L. 100–685, title IV, § 408, Nov. 17, 1988, 102 Stat. 4099, prohibited Secretary of Commerce from closing, consolidating, automating, or relocating, any Weather Service Office or Weather Service Forecast Office pursuant to the implementation of the strategic plan required by section 407 of Pub. L. 100–685 [formerly set out above] unless the Secretary certified to Committee on Commerce, Science, and Transportation of the Senate and Committee on Science, Space, and Technology of the House of Representatives that such action would not result in any degradation of weather services provided to the affected area, prior to repeal by Pub. L. 102–567, title VII, § 709(2), Oct. 29, 1992, 106 Stat. 4309.
+Pub. L. 100–685, title IV, § 408, Nov. 17, 1988, 102 Stat. 4099, prohibited Secretary of Commerce from closing, consolidating, automating, or relocating, any Weather Service Office or Weather Service Forecast Office pursuant to the implementation of the strategic plan required by section 407 of Pub. L. 100–685 [formerly set out above] unless the Secretary certified to Committee on Commerce, Science, and Transportation of the Senate and Committee on Science, Space, and Technology of the House of Representatives that such action would not result in any degradation of weather services provided to the affected area, prior to repeal by Pub. L. 102–567, title VII, § 709(2), Oct. 29, 1992, 106 Stat. 4309.
 
 **Weather and Climate Information in Agriculture**
 
-Pub. L. 99–198, title XVII, § 1762, Dec. 23, 1985, 99 Stat. 1651, as amended by Pub. L. 115–25, title II, § 201, Apr. 18, 2017, 131 Stat. 98, formerly set out as a note under this section, was transferred to section 8521 of this title.
+Pub. L. 99–198, title XVII, § 1762, Dec. 23, 1985, 99 Stat. 1651, as amended by Pub. L. 115–25, title II, § 201, Apr. 18, 2017, 131 Stat. 98, formerly set out as a note under this section, was transferred to section 8521 of this title.
 
 **National Weather Service; Congressional Approval Requisite To Sale, Lease, Transfer, or Dismantling of Agency**
 
-Pub. L. 98–8, title I, § 104, Mar. 24, 1983, 97 Stat. 34, provided that:
+Pub. L. 98–8, title I, § 104, Mar. 24, 1983, 97 Stat. 34, provided that:
 
 > “Since the Administration has proposed to sell the weather (METSAT) and land (LANDSAT) satellite systems;
 
@@ -512,7 +512,7 @@ Pub. L. 98–8, title I, § 104, Mar. 24, 1983, 97 Stat. 34, provided that:
 
 **Study of Thunderstorms and Atmospheric Disturbances; Reports; Expenditures; Cooperation of Other Departments**
 
-Act June 16, 1948, ch. 483, 62 Stat. 470, as amended Oct. 19, 1980, Pub. L. 96–470, title I, § 103(b), 94 Stat. 2237, provided:
+Act June 16, 1948, ch. 483, 62 Stat. 470, as amended Oct. 19, 1980, Pub. L. 96–470, title I, § 103(b), 94 Stat. 2237, provided:
 
 > “That the Chief of the Weather Bureau is authorized and directed to study fully and thoroughly the internal structure of thunderstorms, hurricanes, cyclones, and other severe atmospheric disturbances, particularly the degree of turbulence within such storms and the development, maintenance, and magnitude of updrafts and downdrafts with a view to establishing methods by which the characteristics of particular thunderstorms may be forecast and methods by which the characteristics of such storms may be determined on visual observation from outside of the immediate thunderstorm area. Such study shall be concluded at the earliest practicable date and a final report submitted to Congress.
 
@@ -530,11 +530,11 @@ Act June 16, 1948, ch. 483, 62 Stat. 470, as amended Oct. 19, 1980, Pub. L. 96�
 
 Office of Chief of Weather Bureau abolished and functions transferred to Secretary of Commerce by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Reorg. Plan No. IV of 1940 transferred Weather Bureau from Department of Agriculture to Department of Commerce. For further details, see notes set out under section 311 of this title.
 
-## § 313a. Establishment of meteorological observation stations in the Arctic region
+## § 313a. Establishment of meteorological observation stations in the Arctic region
 
 In order to improve the weather forecasting service of the United States and to promote safety and efficiency in civil air navigation to the highest possible degree, the Secretary of Commerce shall, in addition to his other functions and duties, take such action as may be necessary in the development of an international basic meteorological reporting network in the Arctic region of the Western Hemisphere, including the establishment, operation, and maintenance of such reporting stations in cooperation with the State Department and other United States governmental departments and agencies, with the meteorological services of foreign countries and with persons engaged in air commerce.
 
-(Feb. 12, 1946, ch. 4, § 1, 60 Stat. 4; 1965 Reorg. Plan No. 2, §§ 1, 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318.)
+(Feb. 12, 1946, ch. 4, § 1, 60 Stat. 4; 1965 Reorg. Plan No. 2, §§ 1, 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -548,23 +548,23 @@ Section 2 of act Feb. 12, 1946, authorized appropriation of necessary funds to c
 
 Office of Chief of Weather Bureau abolished and functions transferred to Secretary of Commerce by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. For further details, see notes set out under section 311 of this title.
 
-## § 313b. Institute for Aviation Weather Prediction
+## § 313b. Institute for Aviation Weather Prediction
 
-The Administrator of the National Oceanic and Atmospheric Administration shall establish an Institute for Aviation Weather Prediction. The Institute shall provide forecasts, weather warnings, and other weather services to the United States aviation community. The Institute shall expand upon the activities of the aviation unit currently at the National Severe Storms Forecast Center in Kansas City, Missouri, and shall be established in the Kansas City 1
+The Administrator of the National Oceanic and Atmospheric Administration shall establish an Institute for Aviation Weather Prediction. The Institute shall provide forecasts, weather warnings, and other weather services to the United States aviation community. The Institute shall expand upon the activities of the aviation unit currently at the National Severe Storms Forecast Center in Kansas City, Missouri, and shall be established in the Kansas City 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
-Missouri 1 area. The Administrator of the National Oceanic and Atmospheric Administration shall provide a full and fair opportunity for employees at the National Severe Storms Center to assume comparable duties and responsibilities within the Institute.
+Missouri 1 area. The Administrator of the National Oceanic and Atmospheric Administration shall provide a full and fair opportunity for employees at the National Severe Storms Center to assume comparable duties and responsibilities within the Institute.
 
-(Pub. L. 102–588, title II, § 222, Nov. 4, 1992, 106 Stat. 5119.)
+(Pub. L. 102–588, title II, § 222, Nov. 4, 1992, 106 Stat. 5119.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Similar Provisions**
 
-Similar provisions were contained in Pub. L. 102–567, title I, § 112, Oct. 29, 1992, 106 Stat. 4278.
+Similar provisions were contained in Pub. L. 102–567, title I, § 112, Oct. 29, 1992, 106 Stat. 4278.
 
-## § 313c. Authorized activities of the National Oceanic and Atmospheric Administration
+## § 313c. Authorized activities of the National Oceanic and Atmospheric Administration
 
 The National Oceanic and Atmospheric Administration, through the United States Weather Research Program, shall—
 
@@ -582,19 +582,19 @@ The National Oceanic and Atmospheric Administration, through the United States W
 
 **(B)** how shifts in climate, development, and erosion patterns might make certain regions vulnerable to more continual or escalating flood damage in the future.
 
-(Pub. L. 107–253, § 2, Oct. 29, 2002, 116 Stat. 1731.)
+(Pub. L. 107–253, § 2, Oct. 29, 2002, 116 Stat. 1731.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Authorization of Appropriations**
 
-Pub. L. 107–253, § 3, Oct. 29, 2002, 116 Stat. 1731, provided that: “There are authorized to be appropriated to the National Oceanic and Atmospheric Administration for carrying out this Act [see Short Title of 2002 Amendment note set out under section 311 of this title] $1,250,000 for each of the fiscal years 2003 through 2005, of which $100,000 for each fiscal year shall be available for competitive merit-reviewed grants to institutions of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)) to carry out the activities described in section 2(5) [15 U.S.C. 313c(5)], and $1,150,000 for each of the fiscal years 2006 and 2007. Of the amounts authorized under this section, $250,000 for each fiscal year shall be available for competitive merit-reviewed grants to institutions of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)) to develop models that can improve the ability to forecast the coastal and estuary-inland flooding that is influenced by tropical cyclones. The models should incorporate the interaction of such factors as storm surges, soil saturation, and other relevant phenomena.”
+Pub. L. 107–253, § 3, Oct. 29, 2002, 116 Stat. 1731, provided that: “There are authorized to be appropriated to the National Oceanic and Atmospheric Administration for carrying out this Act [see Short Title of 2002 Amendment note set out under section 311 of this title] $1,250,000 for each of the fiscal years 2003 through 2005, of which $100,000 for each fiscal year shall be available for competitive merit-reviewed grants to institutions of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)) to carry out the activities described in section 2(5) [15 U.S.C. 313c(5)], and $1,150,000 for each of the fiscal years 2006 and 2007. Of the amounts authorized under this section, $250,000 for each fiscal year shall be available for competitive merit-reviewed grants to institutions of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)) to develop models that can improve the ability to forecast the coastal and estuary-inland flooding that is influenced by tropical cyclones. The models should incorporate the interaction of such factors as storm surges, soil saturation, and other relevant phenomena.”
 
 **Report**
 
-Pub. L. 107–253, § 4, Oct. 29, 2002, 116 Stat. 1732, required the National Oceanic and Atmospheric Administration to provide Congress with annual reports through fiscal year 2007 on its activities under Pub. L. 107–253 (see Short Title note set out under section 311 of this title) and the success and acceptance of the inland flood warning index developed under par. (2) of this section and also to report by Jan. 1, 2006, on the likely long-term trends in inland flooding for use in outreach activities conducted under par. (4) of this section.
+Pub. L. 107–253, § 4, Oct. 29, 2002, 116 Stat. 1732, required the National Oceanic and Atmospheric Administration to provide Congress with annual reports through fiscal year 2007 on its activities under Pub. L. 107–253 (see Short Title note set out under section 311 of this title) and the success and acceptance of the inland flood warning index developed under par. (2) of this section and also to report by Jan. 1, 2006, on the likely long-term trends in inland flooding for use in outreach activities conducted under par. (4) of this section.
 
-## § 313d. NIDIS program
+## § 313d. NIDIS program
 
 **(a) In general**
 
@@ -644,7 +644,7 @@ Each Federal agency shall cooperate as appropriate with the Under Secretary in c
 
 Not later than 1 year after January 7, 2019, the Under Secretary, acting through the National Integrated Drought Information System, shall develop a strategy for a national coordinated soil moisture monitoring network.
 
-(Pub. L. 109–430, § 3, Dec. 20, 2006, 120 Stat. 2918; Pub. L. 113–86, § 2, Mar. 6, 2014, 128 Stat. 1015; Pub. L. 115–423, § 2(a), Jan. 7, 2019, 132 Stat. 5454.)
+(Pub. L. 109–430, § 3, Dec. 20, 2006, 120 Stat. 2918; Pub. L. 113–86, § 2, Mar. 6, 2014, 128 Stat. 1015; Pub. L. 115–423, § 2(a), Jan. 7, 2019, 132 Stat. 5454.)
 
 **Editorial Notes**
 
@@ -654,37 +654,37 @@ This section, referred to in subsec. (e), was in the original “this Act”, me
 
 **Amendments**
 
-2019—Subsec. (b)(1)(A). Pub. L. 115–423, § 2(a)(1)(A), substituted “, including precipitation, soil moisture, and evaporative demand, in order to make usable, reliable, and timely forecasts of drought and” for “in order to make usable, reliable, and timely forecasts of drought, including”.
+2019—Subsec. (b)(1)(A). Pub. L. 115–423, § 2(a)(1)(A), substituted “, including precipitation, soil moisture, and evaporative demand, in order to make usable, reliable, and timely forecasts of drought and” for “in order to make usable, reliable, and timely forecasts of drought, including”.
 
-Subsec. (b)(3). Pub. L. 115–423, § 2(a)(1)(B), inserted “watershed,” after “regional,”.
+Subsec. (b)(3). Pub. L. 115–423, § 2(a)(1)(B), inserted “watershed,” after “regional,”.
 
-Subsec. (b)(4). Pub. L. 115–423, § 2(a)(1)(C), inserted “, through interagency agreements” after “integrate”and “information” after “warning”.
+Subsec. (b)(4). Pub. L. 115–423, § 2(a)(1)(C), inserted “, through interagency agreements” after “integrate”and “information” after “warning”.
 
-Subsec. (b)(5). Pub. L. 115–423, § 2(a)(1)(D), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “build upon existing forecasting and assessment programs and partnerships, including through the designation of one or more cooperative institutes to assist with National Integrated Drought Information System functions; and”.
+Subsec. (b)(5). Pub. L. 115–423, § 2(a)(1)(D), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “build upon existing forecasting and assessment programs and partnerships, including through the designation of one or more cooperative institutes to assist with National Integrated Drought Information System functions; and”.
 
-Subsec. (b)(6). Pub. L. 115–423, § 2(a)(1)(E), inserted “the prediction,” after “relating to”.
+Subsec. (b)(6). Pub. L. 115–423, § 2(a)(1)(E), inserted “the prediction,” after “relating to”.
 
-Subsec. (c). Pub. L. 115–423, § 2(a)(3), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 115–423, § 2(a)(3), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 115–423, § 2(a)(2), (4), redesignated subsec. (c) as (d) and inserted “and sustainment” after “development”. Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 115–423, § 2(a)(2), (4), redesignated subsec. (c) as (d) and inserted “and sustainment” after “development”. Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 115–423, § 2(a)(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 115–423, § 2(a)(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 115–423, § 2(a)(5), added subsec. (f) and struck out former subsec. (f), which related to report by Under Secretary to congressional committees regarding National Integrated Drought Information System program not later than 18 months after Mar. 6, 2014.
+Subsec. (f). Pub. L. 115–423, § 2(a)(5), added subsec. (f) and struck out former subsec. (f), which related to report by Under Secretary to congressional committees regarding National Integrated Drought Information System program not later than 18 months after Mar. 6, 2014.
 
-Pub. L. 115–423, § 2(a)(2), redesignated subsec. (e) as (f).
+Pub. L. 115–423, § 2(a)(2), redesignated subsec. (e) as (f).
 
-2014—Subsec. (a). Pub. L. 113–86, § 2(1), inserted “to better inform and provide for more timely decisionmaking to reduce drought related impacts and costs” before period at end.
+2014—Subsec. (a). Pub. L. 113–86, § 2(1), inserted “to better inform and provide for more timely decisionmaking to reduce drought related impacts and costs” before period at end.
 
-Subsec. (b). Pub. L. 113–86, § 2(2), added subsec. (b) and struck out former subsec. (b) which set out required functions of the National Integrated Drought Information System.
+Subsec. (b). Pub. L. 113–86, § 2(2), added subsec. (b) and struck out former subsec. (b) which set out required functions of the National Integrated Drought Information System.
 
-Subsec. (e). Pub. L. 113–86, § 2(3), added subsec. (e).
+Subsec. (e). Pub. L. 113–86, § 2(3), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Authorization of Appropriations**
 
-Pub. L. 109–430, § 4, Dec. 20, 2006, 120 Stat. 2919, as amended by Pub. L. 113–86, § 3, Mar. 6, 2014, 128 Stat. 1016; Pub. L. 115–423, § 2(b), Jan. 7, 2019, 132 Stat. 5455, provided that:
+Pub. L. 109–430, § 4, Dec. 20, 2006, 120 Stat. 2919, as amended by Pub. L. 113–86, § 3, Mar. 6, 2014, 128 Stat. 1016; Pub. L. 115–423, § 2(b), Jan. 7, 2019, 132 Stat. 5455, provided that:
 
 > “There are authorized to be appropriated to carry out this Act—
 
@@ -700,7 +700,7 @@ Pub. L. 109–430, § 4, Dec. 20, 2006, 120 Stat. 2919, as amended by Pub. L. 
 
 **Definitions**
 
-Pub. L. 109–430, § 2, Dec. 20, 2006, 120 Stat. 2918, provided that:
+Pub. L. 109–430, § 2, Dec. 20, 2006, 120 Stat. 2918, provided that:
 
 > “In this Act [see Short Title of 2006 Amendment note set out under section 311 of this title]:
 
@@ -716,7 +716,7 @@ Pub. L. 109–430, § 2, Dec. 20, 2006, 120 Stat. 2918, provided that:
 
 > **“(2) Under secretary.—** The term ‘Under Secretary’ means the Under Secretary of Commerce for Oceans and Atmosphere.”
 
-## § 314. Omitted
+## § 314. Omitted
 
 **Editorial Notes**
 
@@ -724,11 +724,11 @@ Pub. L. 109–430, § 2, Dec. 20, 2006, 120 Stat. 2918, provided that:
 
 Section, act Aug. 8, 1894, ch. 238, 28 Stat. 273, related to making promotions in service without prejudice to those transferred from Signal Service of War Department.
 
-## § 315. Changes or assignment to duty
+## § 315. Changes or assignment to duty
 
 The Secretary of Commerce is authorized to make such changes or assignment to duty in the personnel or detailed force of the National Weather Service for limiting or reducing expenses as he may deem necessary.
 
-(Mar. 2, 1895, ch. 169, 28 Stat. 737; 1940 Reorg. Plan No. IV, § 8, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1236; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(Mar. 2, 1895, ch. 169, 28 Stat. 737; 1940 Reorg. Plan No. IV, § 8, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1236; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 **Executive Documents**
 
@@ -736,19 +736,19 @@ The Secretary of Commerce is authorized to make such changes or assignment to du
 
 Weather Bureau consolidated with Coast and Geodetic Survey to form new agency in Department of Commerce known as Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 311 of this title. Functions of Bureau and Chief of Bureau transferred to Secretary of Commerce by Reorg. Plan. Subsequently, Environmental Science Services Administration abolished and National Oceanic and Atmospheric Administration established. By Department Organization Order 25–5A, Secretary delegated to NOAA his functions under this chapter of the Code. By order of Acting Associate Administrator of NOAA, organizational name of Weather Bureau changed to National Weather Service. For further details, see Codification note set out under section 311 of this title.
 
-## § 316. Omitted
+## § 316. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Mar. 4, 1913, ch. 145, § 1 [part], 37 Stat. 830, related to travel expenses, and has been superseded by section 5701 et seq. of Title 5, Government Organization and Employees.
+Section, act Mar. 4, 1913, ch. 145, § 1 [part], 37 Stat. 830, related to travel expenses, and has been superseded by section 5701 et seq. of Title 5, Government Organization and Employees.
 
-## § 317. Appropriations and estimates
+## § 317. Appropriations and estimates
 
 The appropriations for the support of the National Weather Service shall be made with those of the other bureaus of the Department of Commerce, and it shall be the duty of the Secretary of Commerce to prepare future estimates for the National Weather Service which shall be specially developed and extended in the interests of agriculture.
 
-(Oct. 1, 1890, ch. 1266, § 9, 26 Stat. 653; 1940 Reorg. Plan No. IV, § 8, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1236; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(Oct. 1, 1890, ch. 1266, § 9, 26 Stat. 653; 1940 Reorg. Plan No. IV, § 8, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1236; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 **Editorial Notes**
 
@@ -764,17 +764,17 @@ Weather Bureau consolidated with Coast and Geodetic Survey to form new agency in
 
 Reorg. Plan No. IV of 1940 transferred Weather Bureau from Department of Agriculture to Department of Commerce.
 
-## § 318. Weather signals on mail cars
+## § 318. Weather signals on mail cars
 
 The Secretary of Commerce, in cooperation with the United States Postal Service, may arrange a plan by which there shall be displayed on all cars and other conveyances used for transporting United States mail suitable flags or other signals to indicate weather forecasts, cold-wave warnings, frost warnings, and so forth, to be furnished by the Secretary.
 
-(Apr. 25, 1896, ch. 140, 29 Stat. 108; 1940 Reorg. Plan No. IV, § 8, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1236; 1965 Reorg. Plan No. 2, §§ 1, 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; Pub. L. 91–375, § 4(a), Aug. 12, 1970, 84 Stat. 773.)
+(Apr. 25, 1896, ch. 140, 29 Stat. 108; 1940 Reorg. Plan No. IV, § 8, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1236; 1965 Reorg. Plan No. 2, §§ 1, 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; Pub. L. 91–375, § 4(a), Aug. 12, 1970, 84 Stat. 773.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Functions**
 
-“United States Postal Service” substituted in text for “Postmaster General” pursuant to Pub. L. 91–375, § 4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service, which abolished the office of Postmaster General of the Post Office Department and transferred its functions to the United States Postal Service.
+“United States Postal Service” substituted in text for “Postmaster General” pursuant to Pub. L. 91–375, § 4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service, which abolished the office of Postmaster General of the Post Office Department and transferred its functions to the United States Postal Service.
 
 **Executive Documents**
 
@@ -782,7 +782,7 @@ The Secretary of Commerce, in cooperation with the United States Postal Service,
 
 Office of Chief of Weather Bureau abolished and functions transferred to Secretary of Commerce by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Reorg. Plan No. IV of 1940 transferred Weather Bureau from Department of Agriculture to Department of Commerce. For further details, see notes set out under section 311 of this title.
 
-## § 319. Omitted
+## § 319. Omitted
 
 **Editorial Notes**
 
@@ -790,19 +790,19 @@ Office of Chief of Weather Bureau abolished and functions transferred to Secreta
 
 Section, act June 3, 1948, ch. 400, title III, 62 Stat. 328, was from the Department of Commerce Appropriation Act, 1949, and was not repeated in subsequent appropriations acts. Similar provisions were contained in prior appropriations acts back to 1925. Section related to printing by Weather Bureau. See section 326 of this title.
 
-## § 320. Repealed. Oct. 31, 1951, ch. 654, § 1(34), 65 Stat. 702
+## § 320. Repealed. Oct. 31, 1951, ch. 654, § 1(34), 65 Stat. 702
 
 Section, act Mar. 4, 1907, ch. 2907, 34 Stat. 1258, related to sale of maps or publications.
 
-## § 321. Repealed. Oct. 25, 1951, ch. 562, § 1(15), 65 Stat. 638
+## § 321. Repealed. Oct. 25, 1951, ch. 562, § 1(15), 65 Stat. 638
 
 Section, act May 25, 1900, ch. 555, 31 Stat. 204, relating to destruction of old telegrams. See section 3301 et seq. of Title 44, Public Printing and Documents.
 
-## § 322. Odd jobs for part-time employees
+## § 322. Odd jobs for part-time employees
 
 National Weather Service part-time employees, appointed by designation or otherwise under regulations of the Director of the Office of Personnel Management for observational work, may perform odd jobs in the installation, repair, improvement, alteration, cleaning, or removal of Government property and receive compensation therefor under regulations to be prescribed by the Secretary of Commerce.
 
-(July 1, 1943, ch. 182, title III, 57 Stat. 300; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; 1978 Reorg. Plan No. 2, § 102, 43 F.R. 36037, 92 Stat. 3783.)
+(July 1, 1943, ch. 182, title III, 57 Stat. 300; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; 1978 Reorg. Plan No. 2, § 102, 43 F.R. 36037, 92 Stat. 3783.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -830,11 +830,11 @@ June 29, 1937, ch. 404, 50 Stat. 403.
 
 Weather Bureau consolidated with Coast and Geodetic Survey to form new agency in Department of Commerce known as Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 311 of this title. Functions of Bureau and Chief of Bureau transferred to Secretary of Commerce by Reorg. Plan. Subsequently, Environmental Science Services Administration abolished and National Oceanic and Atmospheric Administration established. By Department Organization Order 25–5A, Secretary delegated to NOAA his functions under this chapter of the Code. By order of Acting Associate Administrator of NOAA, organizational name of Weather Bureau changed to National Weather Service. For further details, see Codification note set out under section 311 of this title.
 
-## § 323. Repealed. July 25, 1947, ch. 327, § 1, 61 Stat. 449
+## § 323. Repealed. July 25, 1947, ch. 327, § 1, 61 Stat. 449
 
 Section, act Oct. 29, 1942, ch. 632, 56 Stat. 1012, related to scholarships for meteorological students in weather forecasting during World War II.
 
-## § 324. Omitted
+## § 324. Omitted
 
 **Editorial Notes**
 
@@ -858,17 +858,17 @@ June 28, 1944, ch. 294, title III, 58 Stat. 424.
 
 July 1, 1943, ch. 182, title III, 57 Stat. 301.
 
-## § 325. Authority for certain functions and activities
+## § 325. Authority for certain functions and activities
 
 Appropriations now or hereafter provided for the National Weather Service shall be available for (a) furnishing food and shelter, without repayment therefor, to employees of the Government assigned to Arctic stations; (b) equipment and maintenance of meteorological offices and stations, and maintenance and operation of meteorological facilities outside the United States by contract or otherwise; (c) repairing, altering, and improving of buildings occupied by the National Weather Service, and care and preservation of grounds, including the construction of necessary outbuildings and sidewalks on public streets abutting National Weather Service grounds; (d) arranging for communication services at rates to be fixed by the Secretary of Commerce by agreement with the companies performing the services when determined to be advantageous to the Government; and (e) purchasing tabulating cards and continuous form tabulating paper.
 
-(June 2, 1948, ch. 373, § 1, 62 Stat. 286; 1965 Reorg. Plan No. 2, 1970 eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(June 2, 1948, ch. 373, § 1, 62 Stat. 286; 1965 Reorg. Plan No. 2, 1970 eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Cooperative Weather Observer Program**
 
-Pub. L. 102–567, title I, § 101(c), Oct. 29, 1992, 106 Stat. 4270, provided that:
+Pub. L. 102–567, title I, § 101(c), Oct. 29, 1992, 106 Stat. 4270, provided that:
 
 > “The Secretary of Commerce may use funds otherwise available for conducting weather observations to strengthen the Cooperative Weather Observer Program and encourage public participation in the program. The Secretary may—
 
@@ -882,11 +882,11 @@ Pub. L. 102–567, title I, § 101(c), Oct. 29, 1992, 106 Stat. 4270, provided
 
 Weather Bureau consolidated with Coast and Geodetic Survey to form new agency in Department of Commerce known as Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 311 of this title. Functions of Bureau and Chief of Bureau transferred to Secretary of Commerce by Reorg. Plan. Subsequently, Environmental Science Services Administration abolished and National Oceanic and Atmospheric Administration established. By Department Organization Order 25–5A, Secretary delegated to NOAA his functions under this chapter of the Code. By order of Acting Associate Administrator of NOAA, organizational name of Weather Bureau changed to National Weather Service. For further details, see Codification note set out under section 311 of this title.
 
-## § 326. Maintenance of printing office in Washington, D.C.
+## § 326. Maintenance of printing office in Washington, D.C.
 
 When so specified in appropriation Acts, the National Weather Service is authorized to maintain a printing office in the city of Washington for the printing of weather maps, bulletins, circulars, forms, and other publications: *Provided*, That no printing shall be done by the National Weather Service which could be done at the Government Publishing Office without impairing the service of said Service.
 
-(June 2, 1948, ch. 373, § 2, 62 Stat. 286; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(June 2, 1948, ch. 373, § 2, 62 Stat. 286; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -900,17 +900,17 @@ When so specified in appropriation Acts, the National Weather Service is authori
 
 Weather Bureau consolidated with Coast and Geodetic Survey to form new agency in Department of Commerce known as Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 311 of this title. Functions of Bureau and Chief of Bureau transferred to Secretary of Commerce by Reorg. Plan. Subsequently, Environmental Science Services Administration abolished and National Oceanic and Atmospheric Administration established. By Department Organization Order 25–5A, Secretary delegated to NOAA his functions under this chapter of the Code. By order of Acting Associate Administrator of NOAA, organizational name of Weather Bureau changed to National Weather Service. For further details, see Codification note set out under section 311 of this title.
 
-## § 327. Employees for conduct of meteorological investigations in Arctic region; appointment and compensation; extra compensation to other Government employees for taking observations
+## § 327. Employees for conduct of meteorological investigations in Arctic region; appointment and compensation; extra compensation to other Government employees for taking observations
 
 The Secretary of Commerce is authorized to (a) appoint employees for the conduct of meteorological investigations in the Arctic region without regard to the civil service laws and fix their compensation without regard to chapter 51 and subchapter III of chapter 53 of title 5, and sections 5542, 5543, 5545, and 5546 of title 5, at base rates not to exceed the maximum scheduled rate for GS–12, and (b) grant extra compensation to employees of other Government agencies for taking and transmitting meteorological observations without regard to section 5533 of title 5.
 
-(June 2, 1948, ch. 373, § 3, 62 Stat. 286; Pub. L. 86–397, § 2, Mar. 28, 1960, 74 Stat. 11; Pub. L. 88–448, title IV, § 401(m), Aug. 19, 1964, 78 Stat. 491.)
+(June 2, 1948, ch. 373, § 3, 62 Stat. 286; Pub. L. 86–397, § 2, Mar. 28, 1960, 74 Stat. 11; Pub. L. 88–448, title IV, § 401(m), Aug. 19, 1964, 78 Stat. 491.)
 
 **Editorial Notes**
 
 **Codification**
 
-In this section, “chapter 51 and subchapter III of chapter 53 of title 5”, “sections 5542, 5543, 5545, and 5546 of title 5”, and “section 5533 of title 5” substituted for “the Classification Act of 1949, as amended (5 U.S.C. 1071 and the following)”, “titles II and III of the Federal Employees Pay Act of 1945, as amended (5 U.S.C. 911 and the following)”, and “section 301 of the Dual Compensation Act”, respectively, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In this section, “chapter 51 and subchapter III of chapter 53 of title 5”, “sections 5542, 5543, 5545, and 5546 of title 5”, and “section 5533 of title 5” substituted for “the Classification Act of 1949, as amended (5 U.S.C. 1071 and the following)”, “titles II and III of the Federal Employees Pay Act of 1945, as amended (5 U.S.C. 911 and the following)”, and “section 301 of the Dual Compensation Act”, respectively, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 **Amendments**
 
@@ -924,11 +924,11 @@ In this section, “chapter 51 and subchapter III of chapter 53 of title 5”, �
 
 Amendment by Pub. L. 88–448 effective on first day of first month which begins later than ninetieth day following Aug. 19, 1964, see section 403 of Pub. L. 88–448.
 
-## § 328. Transfer from other Government Departments of surplus equipment and supplies for Arctic stations
+## § 328. Transfer from other Government Departments of surplus equipment and supplies for Arctic stations
 
 Subject to approval of the President, and without charge to the National Weather Service, the Secretary of the Army, the Secretary of the Air Force, and the Secretary of the Navy are authorized to transfer to the National Weather Service equipment and supplies which are surplus to the needs of their respective Departments and necessary for the establishment, maintenance, and operation of Arctic weather stations.
 
-(June 2, 1948, ch. 373, § 4, 62 Stat. 286; 1965 Reorg. Plan No. 2, 1970 eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(June 2, 1948, ch. 373, § 4, 62 Stat. 286; 1965 Reorg. Plan No. 2, 1970 eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 **Executive Documents**
 
@@ -938,10 +938,10 @@ Functions vested by law (including reorganization plan) in Bureau of the Budget 
 
 Weather Bureau consolidated with Coast and Geodetic Survey to form new agency in Department of Commerce known as Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 311 of this title. Functions of Bureau and Chief of Bureau transferred to Secretary of Commerce by Reorg. Plan. Subsequently, Environmental Science Services Administration abolished and National Oceanic and Atmospheric Administration established. By Department Organization Order 25–5A, Secretary delegated to NOAA his functions under this chapter of the Code. By order of Acting Associate Administrator of NOAA, organizational name of Weather Bureau changed to National Weather Service. For further details, see Codification note set out under section 311 of this title.
 
-## § 329. Omitted
+## § 329. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 85–469, title I, § 101, June 25, 1958, 72 Stat. 234; Pub. L. 86–88, title I, § 101, July 13, 1959, 73 Stat. 207, which prescribed the maximum base rate of pay for employees conducting meteorological investigations in the Arctic region, was from an appropriation act and was omitted in view of section 327 of this title which authorizes the Secretary of Commerce to establish the rates of compensation for such personnel. Provisions of this section were repeated in Pub. L. 86–451, title I, § 101, May 13, 1960, 74 Stat. 99.
+Section, Pub. L. 85–469, title I, § 101, June 25, 1958, 72 Stat. 234; Pub. L. 86–88, title I, § 101, July 13, 1959, 73 Stat. 207, which prescribed the maximum base rate of pay for employees conducting meteorological investigations in the Arctic region, was from an appropriation act and was omitted in view of section 327 of this title which authorizes the Secretary of Commerce to establish the rates of compensation for such personnel. Provisions of this section were repeated in Pub. L. 86–451, title I, § 101, May 13, 1960, 74 Stat. 99.

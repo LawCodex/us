@@ -35,23 +35,23 @@ Subchapter F, Silver bullion, comprising sections 4891 to 4897.
 
 Prior sections 4701 to 4897 were based on act Aug. 16, 1954, ch. 736, 68A Stat. 549–592, as amended.
 
-Sections 4701–4776 were repealed by Pub. L. 91–513, title III, § 1101(b)(3)(A), Oct. 27, 1970, 84 Stat. 1292. See section 801 et seq. of Title 21, Food and Drugs.
+Sections 4701–4776 were repealed by Pub. L. 91–513, title III, § 1101(b)(3)(A), Oct. 27, 1970, 84 Stat. 1292. See section 801 et seq. of Title 21, Food and Drugs.
 
-Sections 4801–4826, 4851–4873, and 4875–4886 were repealed by Pub. L. 94–455, title XIX, §§ 1904(a)(16)–(18), 1952(b), Oct. 4, 1976, 90 Stat. 1814, 1841.
+Sections 4801–4826, 4851–4873, and 4875–4886 were repealed by Pub. L. 94–455, title XIX, §§ 1904(a)(16)–(18), 1952(b), Oct. 4, 1976, 90 Stat. 1814, 1841.
 
-Sections 4831–4834 and 4836–4846 were repealed by Pub. L. 93–490, § 3(a)(1), Oct. 26, 1974, 88 Stat. 1466.
+Sections 4831–4834 and 4836–4846 were repealed by Pub. L. 93–490, § 3(a)(1), Oct. 26, 1974, 88 Stat. 1466.
 
-Section 4835 was repealed by Pub. L. 85–881, § 1(b)(1), Sept. 2, 1958, 72 Stat. 1704.
+Section 4835 was repealed by Pub. L. 85–881, § 1(b)(1), Sept. 2, 1958, 72 Stat. 1704.
 
-Section 4874 was repealed by Pub. L. 91–452, title II, § 231(a), Oct. 15, 1970, 84 Stat. 930.
+Section 4874 was repealed by Pub. L. 91–452, title II, § 231(a), Oct. 15, 1970, 84 Stat. 930.
 
-Sections 4891–4897 were repealed by Pub. L. 88–36, title II, § 201(a), June 4, 1963, 77 Stat. 54.
+Sections 4891–4897 were repealed by Pub. L. 88–36, title II, § 201(a), June 4, 1963, 77 Stat. 54.
 
 **Amendments**
 
-1982—Pub. L. 97–248, title III, § 310(b)(4)(A), Sept. 3, 1982, 96 Stat. 597, added chapter heading and section analysis.
+1982—Pub. L. 97–248, title III, § 310(b)(4)(A), Sept. 3, 1982, 96 Stat. 597, added chapter heading and section analysis.
 
-## § 4701. Tax on issuer of registration-required obligation not in registered form
+## § 4701. Tax on issuer of registration-required obligation not in registered form
 
 **(a) Imposition of tax** In the case of any person who issues a registration-required obligation which is not in registered form, there is hereby imposed on such person on the issuance of such obligation a tax in an amount equal to the product of—
 
@@ -81,7 +81,7 @@ Sections 4891–4897 were repealed by Pub. L. 88–36, title II, § 201(a), Ju
 
 The term “registered form” has the same meaning as when used in section 163(f).
 
-(Added Pub. L. 97–248, title III, § 310(b)(4)(A), Sept. 3, 1982, 96 Stat. 598; amended Pub. L. 99–514, title XIII, § 1301(j)(5), Oct. 22, 1986, 100 Stat. 2657; Pub. L. 111–147, title V, § 502(e), Mar. 18, 2010, 124 Stat. 108.)
+(Added Pub. L. 97–248, title III, § 310(b)(4)(A), Sept. 3, 1982, 96 Stat. 598; amended Pub. L. 99–514, title XIII, § 1301(j)(5), Oct. 22, 1986, 100 Stat. 2657; Pub. L. 111–147, title V, § 502(e), Mar. 18, 2010, 124 Stat. 108.)
 
 **Editorial Notes**
 

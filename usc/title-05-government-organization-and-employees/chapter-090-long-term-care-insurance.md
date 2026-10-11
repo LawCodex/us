@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 90—LONG-TERM CARE INSURANCE
 
-## § 9001. Definitions
+## § 9001. Definitions
 
 For purposes of this chapter:
 
@@ -81,7 +81,7 @@ For purposes of this chapter:
 
 **(D)** with respect to the commissioned corps of the Public Health Service, the Secretary of Health and Human Services.
 
-(Added Pub. L. 106–265, title I, § 1002(a), Sept. 19, 2000, 114 Stat. 762; amended Pub. L. 107–104, § 1, Dec. 27, 2001, 115 Stat. 1001; Pub. L. 107–107, div. A, title X, § 1048(i)(6), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 107–314, div. A, title XI, § 1101(a), Dec. 2, 2002, 116 Stat. 2660; Pub. L. 108–7, div. C, title III, § 138(a), Feb. 20, 2003, 117 Stat. 129; Pub. L. 108–136, div. A, title V, § 561, Nov. 24, 2003, 117 Stat. 1482; Pub. L. 109–241, title IX, § 902(a)(3), July 11, 2006, 120 Stat. 566; Pub. L. 109–356, title I, § 117(a)(3), Oct. 16, 2006, 120 Stat. 2027.)
+(Added Pub. L. 106–265, title I, § 1002(a), Sept. 19, 2000, 114 Stat. 762; amended Pub. L. 107–104, § 1, Dec. 27, 2001, 115 Stat. 1001; Pub. L. 107–107, div. A, title X, § 1048(i)(6), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 107–314, div. A, title XI, § 1101(a), Dec. 2, 2002, 116 Stat. 2660; Pub. L. 108–7, div. C, title III, § 138(a), Feb. 20, 2003, 117 Stat. 129; Pub. L. 108–136, div. A, title V, § 561, Nov. 24, 2003, 117 Stat. 1482; Pub. L. 109–241, title IX, § 902(a)(3), July 11, 2006, 120 Stat. 566; Pub. L. 109–356, title I, § 117(a)(3), Oct. 16, 2006, 120 Stat. 2027.)
 
 **Editorial Notes**
 
@@ -95,15 +95,15 @@ Section 7702B of the Internal Revenue Code of 1986, referred to in par. (9), is 
 
 Par. (10)(B). Pub. L. 109–241 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
-2003—Par. (1). Pub. L. 108–136, § 561(a), substituted a period for a comma at end of subpar. (D) and struck out concluding provisions which read: “but does not include an individual employed by the government of the District of Columbia (other than an employee of the District of Columbia Courts).”
+2003—Par. (1). Pub. L. 108–136, § 561(a), substituted a period for a comma at end of subpar. (D) and struck out concluding provisions which read: “but does not include an individual employed by the government of the District of Columbia (other than an employee of the District of Columbia Courts).”
 
 Pub. L. 108–7 inserted “(other than an employee of the District of Columbia Courts)” before period at end of concluding provisions.
 
-Par. (2)(A). Pub. L. 108–136, § 561(d), struck out “of this subsection” after “paragraph (1)”.
+Par. (2)(A). Pub. L. 108–136, § 561(d), struck out “of this subsection” after “paragraph (1)”.
 
-Par. (2)(C). Pub. L. 108–136, § 561(b), added subpar. (C).
+Par. (2)(C). Pub. L. 108–136, § 561(b), added subpar. (C).
 
-Par. (4). Pub. L. 108–136, § 561(c), substituted “and a member who has been transferred to the Retired Reserve and who would be entitled to retired pay under chapter 1223 of title 10 but for not having” for “including a member or former member retired under chapter 1223 of title 10 who has”.
+Par. (4). Pub. L. 108–136, § 561(c), substituted “and a member who has been transferred to the Retired Reserve and who would be entitled to retired pay under chapter 1223 of title 10 but for not having” for “including a member or former member retired under chapter 1223 of title 10 who has”.
 
 2002—Par. (1)(D). Pub. L. 107–314 added subpar. (D).
 
@@ -115,21 +115,21 @@ Par. (3)(A). Pub. L. 107–107 substituted “or” for “and” after semicolo
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–104, § 3, Dec. 27, 2001, 115 Stat. 1002, provided that: “The amendments made by this Act [amending this section and section 9005 of this title] shall take effect as if included in the enactment of section 1002 of the Long-Term Care Security Act (Public Law 106–265; 114 Stat. 762).”
+Pub. L. 107–104, § 3, Dec. 27, 2001, 115 Stat. 1002, provided that: “The amendments made by this Act [amending this section and section 9005 of this title] shall take effect as if included in the enactment of section 1002 of the Long-Term Care Security Act (Public Law 106–265; 114 Stat. 762).”
 
 **Effective Date**
 
-Pub. L. 106–265, title I, § 1003, Sept. 19, 2000, 114 Stat. 770, provided that: “The Office of Personnel Management shall take such measures as may be necessary to ensure that long-term care insurance coverage under title 5, United States Code, as amended by this title [enacting this chapter], may be obtained in time to take effect not later than the first day of the first applicable pay period of the first fiscal year which begins after the end of the 18-month period beginning on the date of the enactment of this Act [Sept. 19, 2000].”
+Pub. L. 106–265, title I, § 1003, Sept. 19, 2000, 114 Stat. 770, provided that: “The Office of Personnel Management shall take such measures as may be necessary to ensure that long-term care insurance coverage under title 5, United States Code, as amended by this title [enacting this chapter], may be obtained in time to take effect not later than the first day of the first applicable pay period of the first fiscal year which begins after the end of the 18-month period beginning on the date of the enactment of this Act [Sept. 19, 2000].”
 
 **Short Title**
 
-Pub. L. 106–265, title I, § 1001, Sept. 19, 2000, 114 Stat. 762, provided that: “This title [enacting this chapter] may be cited as the ‘Long-Term Care Security Act’.”
+Pub. L. 106–265, title I, § 1001, Sept. 19, 2000, 114 Stat. 762, provided that: “This title [enacting this chapter] may be cited as the ‘Long-Term Care Security Act’.”
 
 **Transfer of Functions**
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 9002. Availability of insurance
+## § 9002. Availability of insurance
 
 **(a) In General.—** The Office of Personnel Management shall establish and, in consultation with the appropriate Secretaries, administer a program through which an individual described in paragraph (1), (2), (3), (4), or (5) of section 9001 may obtain long-term care insurance coverage under this chapter for such individual.
 
@@ -157,7 +157,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(f) Guaranteed Renewability.—** The benefits and coverage made available to eligible individuals under any insurance contract under this chapter shall be guaranteed renewable (as defined by section 7A(2) of the model regulations described in section 7702B(g)(2) of the Internal Revenue Code of 1986), including the right to have insurance remain in effect so long as premiums continue to be timely made. However, the authority to revise premiums under this chapter shall be available only on a class basis and only to the extent otherwise allowable under section 9003(b).
 
-(Added Pub. L. 106–265, title I, § 1002(a), Sept. 19, 2000, 114 Stat. 764; amended Pub. L. 107–314, div. A, title XI, § 1101(b), Dec. 2, 2002, 116 Stat. 2660.)
+(Added Pub. L. 106–265, title I, § 1002(a), Sept. 19, 2000, 114 Stat. 764; amended Pub. L. 107–314, div. A, title XI, § 1101(b), Dec. 2, 2002, 116 Stat. 2660.)
 
 **Editorial Notes**
 
@@ -169,7 +169,7 @@ Section 7702B(g)(2) of the Internal Revenue Code of 1986, referred to in subsec.
 
 2002—Subsecs. (b) to (f). Pub. L. 107–314 added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
 
-## § 9003. Contracting authority
+## § 9003. Contracting authority
 
 **(a) In General.—** The Office of Personnel Management shall, without regard to section 6101(b) to (d) of title 41 or any other statute requiring competitive bidding, contract with one or more qualified carriers for a policy or policies of long-term care insurance. The Office shall ensure that each resulting contract (hereafter in this chapter referred to as a “master contract”) is awarded on the basis of contractor qualifications, price, and reasonable competition.
 
@@ -227,7 +227,7 @@ Section 7702B(g)(2) of the Internal Revenue Code of 1986, referred to in subsec.
 
 **(e) Effect of Government Shutdown.—** Coverage under a master contract under this chapter for long-term care insurance for an employee or member of the uniformed services enrolled under such contract and who, due to a lapse in appropriations, is furloughed or excepted from furlough and working without pay shall continue during such lapse and may not be cancelled as a result of nonpayment of premiums or other periodic charges due to such lapse.
 
-(Added Pub. L. 106–265, title I, § 1002(a), Sept. 19, 2000, 114 Stat. 764; amended Pub. L. 111–350, § 5(a)(18), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 116–92, div. A, title XI, § 1111(a)(3), Dec. 20, 2019, 133 Stat. 1601.)
+(Added Pub. L. 106–265, title I, § 1002(a), Sept. 19, 2000, 114 Stat. 764; amended Pub. L. 111–350, § 5(a)(18), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 116–92, div. A, title XI, § 1111(a)(3), Dec. 20, 2019, 133 Stat. 1601.)
 
 **Editorial Notes**
 
@@ -235,13 +235,13 @@ Section 7702B(g)(2) of the Internal Revenue Code of 1986, referred to in subsec.
 
 2019—Subsec. (e). Pub. L. 116–92 added subsec. (e).
 
-2011—Subsec. (a). Pub. L. 111–350, § 5(a)(18)(A), substituted “section 6101(b) to (d) of title 41” for “section 5 of title 41”.
+2011—Subsec. (a). Pub. L. 111–350, § 5(a)(18)(A), substituted “section 6101(b) to (d) of title 41” for “section 5 of title 41”.
 
-Subsec. (c)(3). Pub. L. 111–350, § 5(a)(18)(B), substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978” in introductory provisions.
+Subsec. (c)(3). Pub. L. 111–350, § 5(a)(18)(B), substituted “chapter 71 of title 41” for “the Contract Disputes Act of 1978” in introductory provisions.
 
-Subsec. (c)(3)(A). Pub. L. 111–350, § 5(a)(18)(C), struck out “(after appropriate arrangements, as described in section 8(c) of such Act)” after “specify in writing”.
+Subsec. (c)(3)(A). Pub. L. 111–350, § 5(a)(18)(C), struck out “(after appropriate arrangements, as described in section 8(c) of such Act)” after “specify in writing”.
 
-Subsec. (c)(3)(B). Pub. L. 111–350, § 5(a)(18)(D), substituted “section 7104(b)(1) of title 41” for “section 10(a)(1) of such Act”.
+Subsec. (c)(3)(B). Pub. L. 111–350, § 5(a)(18)(D), substituted “section 7104(b)(1) of title 41” for “section 10(a)(1) of such Act”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -259,7 +259,7 @@ Amendment by Pub. L. 116–92 applicable to any contract for long-term care insu
 
 For provisions requiring promulgation of regulations related to payment of unpaid premiums during furlough resulting from a lapse in appropriations, including provision for direct payment to carrier for certain individuals, see section 1111(b) of Pub. L. 116–92, set out as a note under section 8956 of this title.
 
-## § 9004. Financing
+## § 9004. Financing
 
 **(a) In General.—** Each eligible individual obtaining long-term care insurance coverage under this chapter shall be responsible for 100 percent of the premiums for such coverage.
 
@@ -297,9 +297,9 @@ For provisions requiring promulgation of regulations related to payment of unpai
 
 **(B) Reimbursement requirement.—** Each master contract under this chapter shall include appropriate provisions under which the carrier involved shall, during each year, make such periodic contributions to the Long-Term Care Administrative Account as necessary to ensure that the reasonable anticipated expenses of the Office in administering this chapter during such year (adjusted to reconcile for any earlier overestimates or underestimates under this subparagraph) are defrayed.
 
-(Added Pub. L. 106–265, title I, § 1002(a), Sept. 19, 2000, 114 Stat. 766.)
+(Added Pub. L. 106–265, title I, § 1002(a), Sept. 19, 2000, 114 Stat. 766.)
 
-## § 9005. Preemption
+## § 9005. Preemption
 
 **(a) Contractual Provisions.—** The terms of any contract under this chapter which relate to the nature, provision, or extent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any State or local law, or any regulation issued thereunder, which relates to long-term care insurance or contracts.
 
@@ -309,7 +309,7 @@ For provisions requiring promulgation of regulations related to payment of unpai
 
 **(2) Rule of construction.—** Paragraph (1) shall not be construed to exempt any company or other entity issuing a policy of insurance under this chapter from the imposition, payment, or collection of a tax, fee, or other monetary payment on the net income or profit accruing to or realized by such entity from business conducted under this chapter, if that tax, fee, or payment is applicable to a broad range of business activity.
 
-(Added Pub. L. 106–265, title I, § 1002(a), Sept. 19, 2000, 114 Stat. 768; amended Pub. L. 107–104, § 2, Dec. 27, 2001, 115 Stat. 1001.)
+(Added Pub. L. 106–265, title I, § 1002(a), Sept. 19, 2000, 114 Stat. 768; amended Pub. L. 107–104, § 2, Dec. 27, 2001, 115 Stat. 1001.)
 
 **Editorial Notes**
 
@@ -323,7 +323,7 @@ For provisions requiring promulgation of regulations related to payment of unpai
 
 Amendment by Pub. L. 107–104 effective as if included in the enactment of section 1002 of Pub. L. 106–265, see section 3 of Pub. L. 107–104, set out as a note under section 9001 of this title.
 
-## § 9006. Studies, reports, and audits
+## § 9006. Studies, reports, and audits
 
 **(a) Provisions Relating to Carriers.—** Each master contract under this chapter shall contain provisions requiring the carrier—
 
@@ -335,7 +335,7 @@ Amendment by Pub. L. 107–104 effective as if included in the enactment of sect
 
 **(c) Reports by the Government Accountability Office.—** The Government Accountability Office shall prepare and submit to the President, the Office of Personnel Management, and each House of Congress, before the end of the third and fifth years during which the program under this chapter is in effect, a written report evaluating such program. Each such report shall include an analysis of the competitiveness of the program, as compared to both group and individual coverage generally available to individuals in the private insurance market. The Office shall cooperate with the Government Accountability Office to provide periodic evaluations of the program.
 
-(Added Pub. L. 106–265, title I, § 1002(a), Sept. 19, 2000, 114 Stat. 768; amended Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Added Pub. L. 106–265, title I, § 1002(a), Sept. 19, 2000, 114 Stat. 768; amended Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -345,13 +345,13 @@ Amendment by Pub. L. 107–104 effective as if included in the enactment of sect
 
 Subsec. (c). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading and two places in text.
 
-## § 9007. Jurisdiction of courts
+## § 9007. Jurisdiction of courts
 
 The district courts of the United States have original jurisdiction of a civil action or claim described in paragraph (1) or (2) of section 9003(c), after such administrative remedies as required under such paragraph (1) or (2) (as applicable) have been exhausted, but only to the extent judicial review is not precluded by any dispute resolution or other remedy under this chapter.
 
-(Added Pub. L. 106–265, title I, § 1002(a), Sept. 19, 2000, 114 Stat. 768.)
+(Added Pub. L. 106–265, title I, § 1002(a), Sept. 19, 2000, 114 Stat. 768.)
 
-## § 9008. Administrative functions
+## § 9008. Administrative functions
 
 **(a) In General.—** The Office of Personnel Management shall prescribe regulations necessary to carry out this chapter.
 
@@ -383,13 +383,13 @@ The district courts of the United States have original jurisdiction of a civil a
 
 **(4)** The advantages and disadvantages of long-term care insurance generally, relative to other means of accumulating or otherwise acquiring the assets that may be needed to meet the costs of long-term care, such as through tax-qualified retirement programs or other investment vehicles.
 
-(Added Pub. L. 106–265, title I, § 1002(a), Sept. 19, 2000, 114 Stat. 768.)
+(Added Pub. L. 106–265, title I, § 1002(a), Sept. 19, 2000, 114 Stat. 768.)
 
-## § 9009. Cost accounting standards
+## § 9009. Cost accounting standards
 
 The cost accounting standards issued pursuant to section 1502(a) and (b) of title 41 shall not apply with respect to a long-term care insurance contract under this chapter.
 
-(Added Pub. L. 106–265, title I, § 1002(a), Sept. 19, 2000, 114 Stat. 769; amended Pub. L. 111–350, § 5(a)(19), Jan. 4, 2011, 124 Stat. 3842.)
+(Added Pub. L. 106–265, title I, § 1002(a), Sept. 19, 2000, 114 Stat. 769; amended Pub. L. 111–350, § 5(a)(19), Jan. 4, 2011, 124 Stat. 3842.)
 
 **Editorial Notes**
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 48—OCEAN AND COASTAL MAPPING INTEGRATION
 
-## § 3501. Establishment of program
+## § 3501. Establishment of program
 
 **(a) In general** The President, in coordination with the Interagency Working Group on Ocean and Coastal Mapping under section 3502 of this title and affected coastal states, shall establish and maintain a program to coordinate comprehensive Federal ocean and coastal mapping efforts for the Great Lakes and coastal state waters, the territorial sea, the exclusive economic zone, and the continental shelf of the United States that—
 
@@ -55,9 +55,9 @@ retrieved: 2026-10-11
 
 **(B)** the National Ocean Mapping, Exploration, and Characterization Council established under section 5405 of the National Ocean Exploration Act.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Pub. L. 111–11, title XII, § 12202, Mar. 30, 2009, 123 Stat. 1421; Pub. L. 117–263, div. J, title CIII, § 10307(a), (b)(1)(A), Dec. 23, 2022, 136 Stat. 3974, 3975.)
+(Pub. L. 111–11, title XII, § 12202, Mar. 30, 2009, 123 Stat. 1421; Pub. L. 117–263, div. J, title CIII, § 10307(a), (b)(1)(A), Dec. 23, 2022, 136 Stat. 3974, 3975.)
 
 **Editorial Notes**
 
@@ -67,29 +67,29 @@ Section 5405 of the National Ocean Exploration Act, referred to in subsec. (b)(1
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–263, § 10307(b)(1)(A)(i), substituted “Interagency Working Group on Ocean and Coastal Mapping under section 3502 of this title” for “Interagency Committee on Ocean and Coastal Mapping” in introductory provisions.
+2022—Subsec. (a). Pub. L. 117–263, § 10307(b)(1)(A)(i), substituted “Interagency Working Group on Ocean and Coastal Mapping under section 3502 of this title” for “Interagency Committee on Ocean and Coastal Mapping” in introductory provisions.
 
-Pub. L. 117–263, § 10307(a)(1), substituted “establish and maintain a program to coordinate” for “establish a program to develop a coordinated and”, “efforts” for “plan”, and “that—” for “that enhances ecosystem approaches in decision-making for conservation and management of marine resources and habitats, establishes research and mapping priorities, supports the siting of research and other platforms, and advances ocean and coastal science.” and added pars. (1) to (4).
+Pub. L. 117–263, § 10307(a)(1), substituted “establish and maintain a program to coordinate” for “establish a program to develop a coordinated and”, “efforts” for “plan”, and “that—” for “that enhances ecosystem approaches in decision-making for conservation and management of marine resources and habitats, establishes research and mapping priorities, supports the siting of research and other platforms, and advances ocean and coastal science.” and added pars. (1) to (4).
 
-Subsec. (b). Pub. L. 117–263, § 10307(a)(3)(A), (b)(1)(A)(ii), substituted “maintaining” for “developing” and “Working Group” for “Committee” in introductory provisions.
+Subsec. (b). Pub. L. 117–263, § 10307(a)(3)(A), (b)(1)(A)(ii), substituted “maintaining” for “developing” and “Working Group” for “Committee” in introductory provisions.
 
-Pub. L. 117–263, § 10307(a)(2), redesignated subsec. (c) as (b) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “The Committee shall be comprised of high-level representatives of the Department of Commerce, through the National Oceanic and Atmospheric Administration, the Department of the Interior, the National Science Foundation, the Department of Defense, the Environmental Protection Agency, the Department of Homeland Security, the National Aeronautics and Space Administration, and other appropriate Federal agencies involved in ocean and coastal mapping.”
+Pub. L. 117–263, § 10307(a)(2), redesignated subsec. (c) as (b) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “The Committee shall be comprised of high-level representatives of the Department of Commerce, through the National Oceanic and Atmospheric Administration, the Department of the Interior, the National Science Foundation, the Department of Defense, the Environmental Protection Agency, the Department of Homeland Security, the National Aeronautics and Space Administration, and other appropriate Federal agencies involved in ocean and coastal mapping.”
 
-Subsec. (b)(2). Pub. L. 117–263, § 10307(a)(3)(B), inserted “and for leveraging existing Federal geospatial services capacities and contract vehicles for efficiencies” after “coastal mapping”.
+Subsec. (b)(2). Pub. L. 117–263, § 10307(a)(3)(B), inserted “and for leveraging existing Federal geospatial services capacities and contract vehicles for efficiencies” after “coastal mapping”.
 
-Subsec. (b)(7). Pub. L. 117–263, § 10307(a)(3)(C), substituted “with mapping programs, in conjunction with Federal and State agencies, Tribal governments, private industry, academia, and nongovernmental organizations” for “with coastal state and local government programs”.
+Subsec. (b)(7). Pub. L. 117–263, § 10307(a)(3)(C), substituted “with mapping programs, in conjunction with Federal and State agencies, Tribal governments, private industry, academia, and nongovernmental organizations” for “with coastal state and local government programs”.
 
-Subsec. (b)(8). Pub. L. 117–263, § 10307(a)(3)(D), substituted “of tide data and water-level data and the development and dissemination” for “of real-time tide data and the development”.
+Subsec. (b)(8). Pub. L. 117–263, § 10307(a)(3)(D), substituted “of tide data and water-level data and the development and dissemination” for “of real-time tide data and the development”.
 
-Subsec. (b)(11). Pub. L. 117–263, § 10307(a)(3)(E)–(G), added par. (11).
+Subsec. (b)(11). Pub. L. 117–263, § 10307(a)(3)(E)–(G), added par. (11).
 
-Subsec. (c). Pub. L. 117–263, § 10307(a)(2), redesignated subsec. (c) as (b).
+Subsec. (c). Pub. L. 117–263, § 10307(a)(2), redesignated subsec. (c) as (b).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 111–11, title XII, § 12201, Mar. 30, 2009, 123 Stat. 1421, provided that: “This subtitle [subtitle B (§§ 12201–12208) of title XII of Pub. L. 111–11, enacting this chapter] may be cited as the ‘Ocean and Coastal Mapping Integration Act’.”
+Pub. L. 111–11, title XII, § 12201, Mar. 30, 2009, 123 Stat. 1421, provided that: “This subtitle [subtitle B (§§ 12201–12208) of title XII of Pub. L. 111–11, enacting this chapter] may be cited as the ‘Ocean and Coastal Mapping Integration Act’.”
 
 **Executive Documents**
 
@@ -133,13 +133,13 @@ Sec. 5. *General Provisions*. (a) Nothing in this memorandum shall be construed 
 
 Donald J. Trump.
 
-## § 3502. Interagency Working Group on Ocean and Coastal Mapping
+## § 3502. Interagency Working Group on Ocean and Coastal Mapping
 
 **(a) In general**
 
 The Administrator of the National Oceanic and Atmospheric Administration, not later than 30 days after the date of the enactment of the National Ocean Exploration Act,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall use the Interagency Working Group on Ocean and Coastal Mapping in existence as of the date of the enactment of such Act to implement section 3501 of this title.
 
@@ -177,9 +177,9 @@ The Working Group shall meet on a quarterly basis, but each subordinate group sh
 
 **(g) Support functions**
 
-The Working Group shall support the National Ocean Mapping, Exploration, and Characterization Council established under section 5405 of the National Ocean Exploration Act <sup>1</sup> and the Ocean Science and Technology Subcommittee of the Ocean Policy Committee established under section 8932(c) of title 10 on ocean mapping activities and associated technology development across the Federal Government, State governments, coastal Indian Tribes, private industry, nongovernmental organizations, and academia.
+The Working Group shall support the National Ocean Mapping, Exploration, and Characterization Council established under section 5405 of the National Ocean Exploration Act <sup>1</sup> and the Ocean Science and Technology Subcommittee of the Ocean Policy Committee established under section 8932(c) of title 10 on ocean mapping activities and associated technology development across the Federal Government, State governments, coastal Indian Tribes, private industry, nongovernmental organizations, and academia.
 
-(Pub. L. 111–11, title XII, § 12203, Mar. 30, 2009, 123 Stat. 1423; Pub. L. 117–263, div. J, title CIII, § 10307(b)(1)(B), (2)–(9), Dec. 23, 2022, 136 Stat. 3975, 3976.)
+(Pub. L. 111–11, title XII, § 12203, Mar. 30, 2009, 123 Stat. 1423; Pub. L. 117–263, div. J, title CIII, § 10307(b)(1)(B), (2)–(9), Dec. 23, 2022, 136 Stat. 3975, 3976.)
 
 **Editorial Notes**
 
@@ -191,21 +191,21 @@ Section 5405 of the National Ocean Exploration Act, referred to in subsec. (g), 
 
 **Amendments**
 
-2022—Pub. L. 117–263, § 10307(b)(1)(B)(i), substituted “Working Group” for “committee” in section catchline.
+2022—Pub. L. 117–263, § 10307(b)(1)(B)(i), substituted “Working Group” for “committee” in section catchline.
 
-Subsec. (a). Pub. L. 117–263, § 10307(b)(2), substituted “not later than 30 days after the date of the enactment of the National Ocean Exploration Act, shall use the Interagency Working Group on Ocean and Coastal Mapping in existence as of the date of the enactment of such Act to implement section 3501 of this title.” for “within 30 days after March 30, 2009, shall convene or utilize an existing interagency committee on ocean and coastal mapping to implement section 3501 of this title.”
+Subsec. (a). Pub. L. 117–263, § 10307(b)(2), substituted “not later than 30 days after the date of the enactment of the National Ocean Exploration Act, shall use the Interagency Working Group on Ocean and Coastal Mapping in existence as of the date of the enactment of such Act to implement section 3501 of this title.” for “within 30 days after March 30, 2009, shall convene or utilize an existing interagency committee on ocean and coastal mapping to implement section 3501 of this title.”
 
-Subsec. (b). Pub. L. 117–263, § 10307(b)(3), substituted “senior-level” for “senior” in two places, “the Department of the Navy” for “the Chief of Naval Operations”, and “the Bureau of Ocean Energy Management of the Department of the Interior, the Office of the Assistant Secretary, Fish and Wildlife and Parks of the Department of the Interior” for “the Minerals Management Service” and struck out “The representatives shall be high-ranking officials of their respective agencies or departments and, whenever possible, the head of the portion of the agency or department that is most relevant to the purposes of this chapter.” after “surveying responsibilities.”
+Subsec. (b). Pub. L. 117–263, § 10307(b)(3), substituted “senior-level” for “senior” in two places, “the Department of the Navy” for “the Chief of Naval Operations”, and “the Bureau of Ocean Energy Management of the Department of the Interior, the Office of the Assistant Secretary, Fish and Wildlife and Parks of the Department of the Interior” for “the Minerals Management Service” and struck out “The representatives shall be high-ranking officials of their respective agencies or departments and, whenever possible, the head of the portion of the agency or department that is most relevant to the purposes of this chapter.” after “surveying responsibilities.”
 
-Pub. L. 117–263, § 10307(b)(1)(B)(ii), substituted “Working Group” for “committee”.
+Pub. L. 117–263, § 10307(b)(1)(B)(ii), substituted “Working Group” for “committee”.
 
-Subsec. (c). Pub. L. 117–263, § 10307(b)(4), amended subsec. (c) generally. Prior to amendment, text read as follows: “The Committee shall be co-chaired by the representative of the Department of Commerce and a representative of the Department of the Interior.”
+Subsec. (c). Pub. L. 117–263, § 10307(b)(4), amended subsec. (c) generally. Prior to amendment, text read as follows: “The Committee shall be co-chaired by the representative of the Department of Commerce and a representative of the Department of the Interior.”
 
-Subsec. (d). Pub. L. 117–263, § 10307(b)(5), amended subsec. (d) generally. Prior to amendment, text read as follows: “The co-chairmen shall establish a subcommittee to carry out the day-to-day work of the Committee, comprised of senior representatives of any member agency of the committee. Working groups may be formed by the full Committee to address issues of short duration. The subcommittee shall be chaired by the representative from the National Oceanic and Atmospheric Administration. The chairmen of the Committee may create such additional subcommittees and working groups as may be needed to carry out the work of Committee.”
+Subsec. (d). Pub. L. 117–263, § 10307(b)(5), amended subsec. (d) generally. Prior to amendment, text read as follows: “The co-chairmen shall establish a subcommittee to carry out the day-to-day work of the Committee, comprised of senior representatives of any member agency of the committee. Working groups may be formed by the full Committee to address issues of short duration. The subcommittee shall be chaired by the representative from the National Oceanic and Atmospheric Administration. The chairmen of the Committee may create such additional subcommittees and working groups as may be needed to carry out the work of Committee.”
 
-Subsec. (e). Pub. L. 117–263, § 10307(b)(1)(B)(iii), (6), substituted “Working Group” for “committee” and “each subordinate group” for “each subcommittee and each working group”.
+Subsec. (e). Pub. L. 117–263, § 10307(b)(1)(B)(iii), (6), substituted “Working Group” for “committee” and “each subordinate group” for “each subcommittee and each working group”.
 
-Subsec. (f). Pub. L. 117–263, § 10307(b)(7), added pars. (1) to (6) and struck out former pars. (1) to (5) which read as follows:
+Subsec. (f). Pub. L. 117–263, § 10307(b)(7), added pars. (1) to (6) and struck out former pars. (1) to (5) which read as follows:
 
 “(1) other Federal efforts, including the Digital Coast, Geospatial One-Stop, and the Federal Geographic Data Committee;
 
@@ -217,15 +217,15 @@ Subsec. (f). Pub. L. 117–263, § 10307(b)(7), added pars. (1) to (6) and str
 
 “(5) representatives of nongovernmental entities.”
 
-Pub. L. 117–263, § 10307(b)(1)(B)(iv), substituted “Working Group” for “committee” in introductory provisions.
+Pub. L. 117–263, § 10307(b)(1)(B)(iv), substituted “Working Group” for “committee” in introductory provisions.
 
-Subsec. (g). Pub. L. 117–263, § 10307(b)(8), (9), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “The Administrator may convene an ocean and coastal mapping advisory panel consisting of representatives from non-governmental entities to provide input regarding activities of the committee in consultation with the interagency committee.”
+Subsec. (g). Pub. L. 117–263, § 10307(b)(8), (9), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “The Administrator may convene an ocean and coastal mapping advisory panel consisting of representatives from non-governmental entities to provide input regarding activities of the committee in consultation with the interagency committee.”
 
-## § 3503. Biennial reports
+## § 3503. Biennial reports
 
 Not later than 18 months after the date of the enactment of the National Ocean Exploration Act,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and biennially thereafter until 2040, the co-chairs of the Working Group, in coordination with the National Ocean Mapping, Exploration, and Characterization Council established under section 5405 of such Act,1 shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Energy and Natural Resources of the Senate, and the Committee on Natural Resources and the Committee on Science, Space, and Technology of the House of Representatives, a report detailing progress made in implementing this chapter, including—
 
@@ -261,7 +261,7 @@ and biennially thereafter until 2040, the co-chairs of the Working Group, in coo
 
 **(16)** a timetable for implementation and completion of the plan described in paragraph (3), including recommendations for integrating new approaches into the program.
 
-(Pub. L. 111–11, title XII, § 12204, Mar. 30, 2009, 123 Stat. 1423; Pub. L. 117–263, div. J, title CIII, § 10307(c), Dec. 23, 2022, 136 Stat. 3977.)
+(Pub. L. 111–11, title XII, § 12204, Mar. 30, 2009, 123 Stat. 1423; Pub. L. 117–263, div. J, title CIII, § 10307(c), Dec. 23, 2022, 136 Stat. 3977.)
 
 **Editorial Notes**
 
@@ -273,21 +273,21 @@ Section 5405 of such Act, referred to in text, means section 5405 of the Nationa
 
 **Amendments**
 
-2022—Pub. L. 117–263, § 10307(c)(1), substituted “Not later than 18 months after the date of the enactment of the National Ocean Exploration Act, and biennially thereafter until 2040, the co-chairs of the Working Group, in coordination with the National Ocean Mapping, Exploration, and Characterization Council established under section 5405 of such Act, shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Energy and Natural Resources of the Senate, and the Committee on Natural Resources and the Committee on Science, Space, and Technology of the House of Representatives,” for “No later than 18 months after March 30, 2009, and biennially thereafter, the co-chairmen of the Committee shall transmit to the Committees on Commerce, Science, and Transportation and Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” in introductory provisions.
+2022—Pub. L. 117–263, § 10307(c)(1), substituted “Not later than 18 months after the date of the enactment of the National Ocean Exploration Act, and biennially thereafter until 2040, the co-chairs of the Working Group, in coordination with the National Ocean Mapping, Exploration, and Characterization Council established under section 5405 of such Act, shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Energy and Natural Resources of the Senate, and the Committee on Natural Resources and the Committee on Science, Space, and Technology of the House of Representatives,” for “No later than 18 months after March 30, 2009, and biennially thereafter, the co-chairmen of the Committee shall transmit to the Committees on Commerce, Science, and Transportation and Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” in introductory provisions.
 
-Par. (1). Pub. L. 117–263, § 10307(c)(2), inserted “, including the data maintained by the National Centers for Environmental Information of the National Oceanic and Atmospheric Administration,” after “mapping data”.
+Par. (1). Pub. L. 117–263, § 10307(c)(2), inserted “, including the data maintained by the National Centers for Environmental Information of the National Oceanic and Atmospheric Administration,” after “mapping data”.
 
-Par. (3). Pub. L. 117–263, § 10307(c)(3), inserted “, including a plan to map the coasts of the United States on a requirements-based cycle, with mapping agencies and partners coordinating on a unified approach that factors in recent related studies, meets multiple user requirements, and identifies gaps” after “accomplished”.
+Par. (3). Pub. L. 117–263, § 10307(c)(3), inserted “, including a plan to map the coasts of the United States on a requirements-based cycle, with mapping agencies and partners coordinating on a unified approach that factors in recent related studies, meets multiple user requirements, and identifies gaps” after “accomplished”.
 
-Par. (10). Pub. L. 117–263, § 10307(c)(4), (5), redesignated par. (11) as (10), substituted “with international, coastal State, and local government and nongovernmental mapping programs” for “with coastal state and local government programs”, and struck out former par. (10) which related to a resource plan for a digital coast integrated mapping pilot project for the northern Gulf of Mexico.
+Par. (10). Pub. L. 117–263, § 10307(c)(4), (5), redesignated par. (11) as (10), substituted “with international, coastal State, and local government and nongovernmental mapping programs” for “with coastal state and local government programs”, and struck out former par. (10) which related to a resource plan for a digital coast integrated mapping pilot project for the northern Gulf of Mexico.
 
-Par. (11). Pub. L. 117–263, § 10307(c)(4), (6), redesignated par. (12) as (11), substituted “streamline and expand” for “increase”, inserted “for the purpose of fulfilling Federal mapping and charting responsibilities, plans, and strategies” after “entities”, and struck out “and” at end. Former par. (11) redesignated (10).
+Par. (11). Pub. L. 117–263, § 10307(c)(4), (6), redesignated par. (12) as (11), substituted “streamline and expand” for “increase”, inserted “for the purpose of fulfilling Federal mapping and charting responsibilities, plans, and strategies” after “entities”, and struck out “and” at end. Former par. (11) redesignated (10).
 
-Par. (12). Pub. L. 117–263, § 10307(c)(4), (7), redesignated par. (13) as (12) and substituted semicolon for period at end. Former par. (12) redesignated (11).
+Par. (12). Pub. L. 117–263, § 10307(c)(4), (7), redesignated par. (13) as (12) and substituted semicolon for period at end. Former par. (12) redesignated (11).
 
-Pars. (13) to (16). Pub. L. 117–263, § 10307(c)(8), added pars. (13) to (16). Former par. (13) redesignated (12).
+Pars. (13) to (16). Pub. L. 117–263, § 10307(c)(8), added pars. (13) to (16). Former par. (13) redesignated (12).
 
-## § 3504. NOAA joint ocean and coastal mapping centers
+## § 3504. NOAA joint ocean and coastal mapping centers
 
 The Administrator may maintain and operate up to three joint ocean and coastal mapping centers, including a joint hydrographic center, which shall each be co-located with an institution of higher education. The centers shall serve as hydrographic centers of excellence and may conduct activities necessary to carry out the purposes of this chapter, including—
 
@@ -301,23 +301,23 @@ The Administrator may maintain and operate up to three joint ocean and coastal m
 
 **(5)** providing graduate education and training in ocean and coastal mapping sciences for members of the National Oceanic and Atmospheric Administration Commissioned Officer Corps, personnel of other agencies with ocean and coastal mapping programs, and civilian personnel.
 
-(Pub. L. 111–11, title XII, § 12205, Mar. 30, 2009, 123 Stat. 1424; Pub. L. 117–263, div. J, title CIII, § 10307(d)(1), (2), Dec. 23, 2022, 136 Stat. 3978.)
+(Pub. L. 111–11, title XII, § 12205, Mar. 30, 2009, 123 Stat. 1424; Pub. L. 117–263, div. J, title CIII, § 10307(d)(1), (2), Dec. 23, 2022, 136 Stat. 3978.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Pub. L. 117–263, § 10307(d)(2), substituted “NOAA joint ocean and coastal mapping centers” for “Plan” in section catchline, redesignated subsec. (c) as entire section, struck out subsec. (c) heading “NOAA joint ocean and coastal mapping centers” before introductory provisions, and struck out subsecs. (a), (b), and (d) which related to development of a plan for an integrated ocean and coastal mapping initiative, requirements for the plan, and strategy for expanding contracting with non-governmental entities, respectively.
+2022—Pub. L. 117–263, § 10307(d)(2), substituted “NOAA joint ocean and coastal mapping centers” for “Plan” in section catchline, redesignated subsec. (c) as entire section, struck out subsec. (c) heading “NOAA joint ocean and coastal mapping centers” before introductory provisions, and struck out subsecs. (a), (b), and (d) which related to development of a plan for an integrated ocean and coastal mapping initiative, requirements for the plan, and strategy for expanding contracting with non-governmental entities, respectively.
 
-Subsec. (c). Pub. L. 117–263, § 10307(d)(1), in subsec. (c) prior to its redesignation as entire section, substituted “three” for “3” in introductory provisions and inserted “and uncrewed” after “sensing” in par. (4).
+Subsec. (c). Pub. L. 117–263, § 10307(d)(1), in subsec. (c) prior to its redesignation as entire section, substituted “three” for “3” in introductory provisions and inserted “and uncrewed” after “sensing” in par. (4).
 
-## § 3504a. Ocean and coastal mapping Federal funding opportunity
+## § 3504a. Ocean and coastal mapping Federal funding opportunity
 
 **(a) In general**
 
 Not later than one year after the date of the enactment of the National Ocean Exploration Act,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the Administrator shall develop an integrated ocean and coastal mapping Federal funding match opportunity, to be known as the “Brennan Ocean Mapping Fund” in memory of Rear Admiral Richard T. Brennan, within the National Oceanic and Atmospheric Administration with Federal, State, Tribal, local, nonprofit, private industry, or academic partners in order to increase the coordinated acquisition, processing, stewardship, and archival of new ocean and coastal mapping data in United States waters.
 
@@ -333,7 +333,7 @@ the Administrator shall develop an integrated ocean and coastal mapping Federal 
 
 The ocean and coastal mapping Federal funding match opportunity developed under subsection (a) shall leverage Federal expertise and capacities for geospatial services and Federal geospatial contract vehicles using the private sector for acquisition efficiencies.
 
-(Pub. L. 111–11, title XII, § 12206, as added Pub. L. 117–263, div. J, title CIII, § 10307(e)(2), Dec. 23, 2022, 136 Stat. 3978.)
+(Pub. L. 111–11, title XII, § 12206, as added Pub. L. 117–263, div. J, title CIII, § 10307(e)(2), Dec. 23, 2022, 136 Stat. 3978.)
 
 **Editorial Notes**
 
@@ -345,7 +345,7 @@ The date of the enactment of the National Ocean Exploration Act, referred to in 
 
 A prior section 12206 of Pub. L. 111–11 was renumbered 12208 and is classified to section 3505 of this title.
 
-## § 3504b. Agreements and financial assistance
+## § 3504b. Agreements and financial assistance
 
 **(a) Agreements**
 
@@ -355,7 +355,7 @@ Subject to the availability of appropriations for such purpose, the head of a Fe
 
 The Administrator may make financial assistance awards (grants of cooperative agreements) to any State or subdivision thereof or any public or private organization or individual to carry out the purposes of this chapter.
 
-(Pub. L. 111–11, title XII, § 12207, as added Pub. L. 117–263, div. J, title CIII, § 10307(e)(2), Dec. 23, 2022, 136 Stat. 3979.)
+(Pub. L. 111–11, title XII, § 12207, as added Pub. L. 117–263, div. J, title CIII, § 10307(e)(2), Dec. 23, 2022, 136 Stat. 3979.)
 
 **Editorial Notes**
 
@@ -363,11 +363,11 @@ The Administrator may make financial assistance awards (grants of cooperative ag
 
 A prior section 12207 of Pub. L. 111–11 was renumbered section 12209 and is classified to section 3506 of this title.
 
-## § 3505. Effect on other laws
+## § 3505. Effect on other laws
 
 Nothing in this chapter shall be construed to supersede or alter the existing authorities of any Federal agency with respect to ocean and coastal mapping.
 
-(Pub. L. 111–11, title XII, § 12208, formerly § 12206, Mar. 30, 2009, 123 Stat. 1426; renumbered § 12208, Pub. L. 117–263, div. J, title CIII, § 10307(e)(1), Dec. 23, 2022, 136 Stat. 3978.)
+(Pub. L. 111–11, title XII, § 12208, formerly § 12206, Mar. 30, 2009, 123 Stat. 1426; renumbered § 12208, Pub. L. 117–263, div. J, title CIII, § 10307(e)(1), Dec. 23, 2022, 136 Stat. 3978.)
 
 **Editorial Notes**
 
@@ -375,7 +375,7 @@ Nothing in this chapter shall be construed to supersede or alter the existing au
 
 A prior section 12208 of Pub. L. 111–11 was renumbered 12210 is classified to section 3507 of this title.
 
-## § 3506. Authorization of appropriations
+## § 3506. Authorization of appropriations
 
 **(a) In general**
 
@@ -383,9 +383,9 @@ In addition to the amounts authorized by section 892d of this title, there are a
 
 **(b) Joint ocean and coastal mapping centers**
 
-Of the amounts appropriated pursuant to subsection (a), the following amounts shall be used to carry out section 3504(c) 1
+Of the amounts appropriated pursuant to subsection (a), the following amounts shall be used to carry out section 3504(c) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title $15,000,000 for each of fiscal years 2023 through 2028.
 
@@ -393,31 +393,31 @@ of this title $15,000,000 for each of fiscal years 2023 through 2028.
 
 Of amounts authorized pursuant to subsection (a), $20,000,000 is authorized to carry out section 3504a of this title.
 
-(Pub. L. 111–11, title XII, § 12209, formerly § 12207, Mar. 30, 2009, 123 Stat. 1426; renumbered § 12209 and amended Pub. L. 117–263, div. J, title CIII, § 10307(e)(1), (f), Dec. 23, 2022, 136 Stat. 3978, 3979.)
+(Pub. L. 111–11, title XII, § 12209, formerly § 12207, Mar. 30, 2009, 123 Stat. 1426; renumbered § 12209 and amended Pub. L. 117–263, div. J, title CIII, § 10307(e)(1), (f), Dec. 23, 2022, 136 Stat. 3978, 3979.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3504 of this title, referred to in subsec. (b), was amended by Pub. L. 117–263, div. J, title CIII, § 10307(d)(2)(B), (C), Dec. 23, 2022, 136 Stat. 3978, by striking out the subsec. (c) designation and striking all the other subsections, thereby redesignating subsec. (c) as all of section 3504 of this title.
+Section 3504 of this title, referred to in subsec. (b), was amended by Pub. L. 117–263, div. J, title CIII, § 10307(d)(2)(B), (C), Dec. 23, 2022, 136 Stat. 3978, by striking out the subsec. (c) designation and striking all the other subsections, thereby redesignating subsec. (c) as all of section 3504 of this title.
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–263, § 10307(f)(1), substituted “this chapter $45,000,000 for each of fiscal years 2023 through 2028.” for “this chapter—” and struck out pars. (1) to (4) which authorized appropriations for fiscal years 2009 through 2015.
+2022—Subsec. (a). Pub. L. 117–263, § 10307(f)(1), substituted “this chapter $45,000,000 for each of fiscal years 2023 through 2028.” for “this chapter—” and struck out pars. (1) to (4) which authorized appropriations for fiscal years 2009 through 2015.
 
-Subsec. (b). Pub. L. 117–263, § 10307(f)(2), substituted “this title $15,000,000 for each of fiscal years 2023 through 2028.” for “this title:” and struck out pars. (1) to (4) which authorized appropriations for fiscal years 2009 through 2015.
+Subsec. (b). Pub. L. 117–263, § 10307(f)(2), substituted “this title $15,000,000 for each of fiscal years 2023 through 2028.” for “this title:” and struck out pars. (1) to (4) which authorized appropriations for fiscal years 2009 through 2015.
 
-Subsec. (c). Pub. L. 117–263, § 10307(f)(3), (4), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “To carry out interagency activities under section 3502 of this title, the head of any department or agency may execute a cooperative agreement with the Administrator, including those authorized by section 883e of this title.”
+Subsec. (c). Pub. L. 117–263, § 10307(f)(3), (4), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “To carry out interagency activities under section 3502 of this title, the head of any department or agency may execute a cooperative agreement with the Administrator, including those authorized by section 883e of this title.”
 
-## § 3507. Definitions
+## § 3507. Definitions
 
 In this chapter:
 
 **(1) Administrator**
 
-The term “Administrator’ ” 1
+The term “Administrator’ ” 1
 
-<sup>1</sup>  So in original. Closing single quotation mark probably should not appear.
+<sup>1</sup> So in original. Closing single quotation mark probably should not appear.
 
 means the Administrator of the National Oceanic and Atmospheric Administration.
 
@@ -445,7 +445,7 @@ The term “territorial sea” means the belt of sea measured from the baseline 
 
 The term “nongovernmental entities” includes nongovernmental organizations, members of the academic community, and private sector organizations that provide products and services associated with measuring, locating, and preparing maps, charts, surveys, aerial photographs, satellite imagines,2
 
-<sup>2</sup>  So in original. Probably should be “images,”.
+<sup>2</sup> So in original. Probably should be “images,”.
 
 or other graphical or digital presentations depicting natural or manmade physical features, phenomena, and legal boundaries of the Earth.
 
@@ -457,7 +457,7 @@ The term “Outer Continental Shelf” means all submerged lands lying seaward a
 
 The term “coastal Indian Tribe” means an “Indian Tribe”, as defined in section 5304 of title 25, the land of which is located in a coastal State.
 
-(Pub. L. 111–11, title XII, § 12210, formerly § 12208, Mar. 30, 2009, 123 Stat. 1426; renumbered § 12210 and amended Pub. L. 117–263, div. J, title CIII, § 10307(b)(1)(C), (e)(1), (g), Dec. 23, 2022, 136 Stat. 3976, 3978, 3979.)
+(Pub. L. 111–11, title XII, § 12210, formerly § 12208, Mar. 30, 2009, 123 Stat. 1426; renumbered § 12210 and amended Pub. L. 117–263, div. J, title CIII, § 10307(b)(1)(C), (e)(1), (g), Dec. 23, 2022, 136 Stat. 3976, 3978, 3979.)
 
 **Editorial Notes**
 
@@ -469,8 +469,8 @@ Presidential Proclamation Number 5928, referred to in par. (6), is set out under
 
 **Amendments**
 
-2022—Par. (3). Pub. L. 117–263, § 10307(b)(1)(C), amended par. (3) generally. Prior to amendment, text read as follows: “The term ‘Committee’ means the Interagency Ocean and Coastal Mapping Committee established by section 3502 of this title.”
+2022—Par. (3). Pub. L. 117–263, § 10307(b)(1)(C), amended par. (3) generally. Prior to amendment, text read as follows: “The term ‘Committee’ means the Interagency Ocean and Coastal Mapping Committee established by section 3502 of this title.”
 
-Par. (5). Pub. L. 117–263, § 10307(g)(1), substituted “processing, management, maintenance, interpretation, certification, and dissemination” for “processing, and management”.
+Par. (5). Pub. L. 117–263, § 10307(g)(1), substituted “processing, management, maintenance, interpretation, certification, and dissemination” for “processing, and management”.
 
-Par. (9). Pub. L. 117–263, § 10307(g)(2), added par. (9).
+Par. (9). Pub. L. 117–263, § 10307(g)(2), added par. (9).

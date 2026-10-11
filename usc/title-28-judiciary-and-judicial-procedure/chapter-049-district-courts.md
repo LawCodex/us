@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 49—DISTRICT COURTS
 
-## § 751. Clerks
+## § 751. Clerks
 
 **(a)** Each district court may appoint a clerk who shall be subject to removal by the court.
 
@@ -33,11 +33,11 @@ He shall make returns thereof to the Director of the Administrative Office of th
 
 **(f)** When the Court of International Trade is sitting in a judicial district, other than the Southern District or Eastern District of New York, the clerk of the district court of such judicial district or an authorized deputy clerk, upon the request of the chief judge of the Court of International Trade and with the approval of such district court, shall act in the district as clerk of the Court of International Trade, as prescribed by the rules and orders of the Court of International Trade for all purposes relating to the civil action then pending before such court.
 
-(June 25, 1948, ch. 646, 62 Stat. 920; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 96–417, title V, § 504, Oct. 10, 1980, 94 Stat. 1743; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(June 25, 1948, ch. 646, 62 Stat. 920; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 96–417, title V, § 504, Oct. 10, 1980, 94 Stat. 1743; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 6, 7, 8, 524, 557, 567, 568, and 569, sections 644 and 863 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, and section 11–401 of the District of Columbia Code, 1940 ed. (R.S. § 833; June 20, 1874, ch. 328, § 2, 18 Stat. 109; May 28, 1896, ch. 252, § 8, 29 Stat. 181; Apr. 12, 1900, ch. 191, § 34, 31 Stat. 84; Apr. 30, 1900, ch. 339, § 86, 31 Stat. 158; Mar. 3, 1901, ch. 854, § 174, 31 Stat. 1218; June 28, 1902, ch. 1301, § 1, 32 Stat. 475; June 30, 1902, ch. 1329, 32 Stat. 527; June 30, 1906, ch. 3914, § 1, 34 Stat. 754; Mar. 3, 1909, ch. 269, § 1, 35 Stat. 838; Mar. 3, 1911, ch. 231, §§ 3, 4, 291, 36 Stat. 1087, 1167; Jan. 7, 1913, ch. 6, 37 Stat. 648; Mar. 2, 1917, ch. 145, § 41, 39 Stat. 965; Feb. 26, 1919, ch. 49, §§ 1, 4, 9, 40 Stat. 1182, 1183; Feb. 11, 1921, ch. 46, 41 Stat. 1099; Mar. 4, 1921, ch. 161, § 1, 41 Stat. 1412, 1413; June 10, 1921, ch. 18, §§ 301, 310, 42 Stat. 23, 25; June 16, 1921, ch. 23, § 1, 42 Stat. 41; July 9, 1921, ch. 42, § 313, 42 Stat. 119; June 1, 1922, ch. 204, Title II, 42 Stat. 614, 616; Jan. 3, 1923, ch. 21 title II, 42 Stat. 1084; Feb. 12, 1925, ch. 220, 43 Stat. 890; Dec. 13, 1926, ch. 6, § 1, 44 Stat. 919; May 17, 1932, ch. 190, 47 Stat. 158; June 25, 1936, ch. 804, 49 Stat. 1921; Mar. 26, 1938, ch. 51, § 2, 52 Stat. 118; June 16, 1938, ch. 465, 52 Stat. 752; June 14, 1941, ch. 203, §§ 1, 2, 55 Stat. 251).
+Based on title 28, U.S.C., 1940 ed., §§ 6, 7, 8, 524, 557, 567, 568, and 569, sections 644 and 863 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, and section 11–401 of the District of Columbia Code, 1940 ed. (R.S. § 833; June 20, 1874, ch. 328, § 2, 18 Stat. 109; May 28, 1896, ch. 252, § 8, 29 Stat. 181; Apr. 12, 1900, ch. 191, § 34, 31 Stat. 84; Apr. 30, 1900, ch. 339, § 86, 31 Stat. 158; Mar. 3, 1901, ch. 854, § 174, 31 Stat. 1218; June 28, 1902, ch. 1301, § 1, 32 Stat. 475; June 30, 1902, ch. 1329, 32 Stat. 527; June 30, 1906, ch. 3914, § 1, 34 Stat. 754; Mar. 3, 1909, ch. 269, § 1, 35 Stat. 838; Mar. 3, 1911, ch. 231, §§ 3, 4, 291, 36 Stat. 1087, 1167; Jan. 7, 1913, ch. 6, 37 Stat. 648; Mar. 2, 1917, ch. 145, § 41, 39 Stat. 965; Feb. 26, 1919, ch. 49, §§ 1, 4, 9, 40 Stat. 1182, 1183; Feb. 11, 1921, ch. 46, 41 Stat. 1099; Mar. 4, 1921, ch. 161, § 1, 41 Stat. 1412, 1413; June 10, 1921, ch. 18, §§ 301, 310, 42 Stat. 23, 25; June 16, 1921, ch. 23, § 1, 42 Stat. 41; July 9, 1921, ch. 42, § 313, 42 Stat. 119; June 1, 1922, ch. 204, Title II, 42 Stat. 614, 616; Jan. 3, 1923, ch. 21 title II, 42 Stat. 1084; Feb. 12, 1925, ch. 220, 43 Stat. 890; Dec. 13, 1926, ch. 6, § 1, 44 Stat. 919; May 17, 1932, ch. 190, 47 Stat. 158; June 25, 1936, ch. 804, 49 Stat. 1921; Mar. 26, 1938, ch. 51, § 2, 52 Stat. 118; June 16, 1938, ch. 465, 52 Stat. 752; June 14, 1941, ch. 203, §§ 1, 2, 55 Stat. 251).
 
 This section consolidates provisions of section 11–401 of the District of Columbia Code, 1940 ed., sections 644 and 863 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, and title 28, U.S.C., 1940 ed., sections 6, 7, 8, 524, 557, 567, 568, and 569 relating to district court clerks. Other provisions of such sections 8 and 524 are incorporated in sections 505 [now 545], 541 [see 561], and 954 of this title and other provisions of such section 11–401 of the District of Columbia Code have been retained in such Code.
 
@@ -55,7 +55,7 @@ References in section 7 of title 28, U.S.C., 1940 ed., that the clerk recommend 
 
 The provision that each clerk shall be subject to removal by the court is new. No tenure was provided for by title 28, U.S.C., 1940 ed., but said title contained provisions that other clerks should hold office during the pleasure of the courts which appointed them, and that deputies should hold office during the pleasure of the clerks. The Supreme Court held, in 1839, that a judge of a district court could remove the clerk thereof at pleasure in absence of any law fixing the clerk’s tenure. *In re Hennen*, 38 U.S. 230, 13 Pet. 230, 10 L.Ed. 138. (See also, *Meyers v. U.S*., 47 S.Ct. 21, 272 U.S. 52, 71 L.Ed. 160.)
 
-Words “circuit or” after “Every clerk of the” in section 524 of title 28, U.S.C., 1940 ed., were omitted because of the abolition of the circuit courts by act Mar. 3, 1911, ch. 231, § 289, 36 Stat. 1167, title 28, U.S.C., 1940 ed., § 430.
+Words “circuit or” after “Every clerk of the” in section 524 of title 28, U.S.C., 1940 ed., were omitted because of the abolition of the circuit courts by act Mar. 3, 1911, ch. 231, § 289, 36 Stat. 1167, title 28, U.S.C., 1940 ed., § 430.
 
 The provisions in section 524 of title 28, U.S.C., 1940 ed., that the clerk shall give his personal attention to his official duties, and declaring his office vacant upon removal from his district or neglect of duty, were omitted as covered by the removal provision of this section.
 
@@ -83,7 +83,7 @@ Changes were made in phraseology.
 
 **References in Text**
 
-Section 742 of Title 8, referred to in subsec. (e), was repealed by act June 27, 1952, ch. 477, title IV, § 403(a)(42), 66 Stat. 280. See section 1455 of Title 8, Aliens and Nationality.
+Section 742 of Title 8, referred to in subsec. (e), was repealed by act June 27, 1952, ch. 477, title IV, § 403(a)(42), 66 Stat. 280. See section 1455 of Title 8, Aliens and Nationality.
 
 **Amendments**
 
@@ -93,21 +93,21 @@ Section 742 of Title 8, referred to in subsec. (e), was repealed by act June 27,
 
 **Change of Name**
 
-“United States magistrate judges” substituted for “United States magistrates” in subsec. (d) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title. Previously, “United States magistrates” substituted for “United States commissioners” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of this title.
+“United States magistrate judges” substituted for “United States magistrates” in subsec. (d) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title. Previously, “United States magistrates” substituted for “United States commissioners” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of this title.
 
 **Effective Date of 1980 Amendment**
 
 Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of this title.
 
-## § 752. Law clerks and secretaries
+## § 752. Law clerks and secretaries
 
 District judges may appoint necessary law clerks and secretaries subject to any limitation on the aggregate salaries of such employees which may be imposed by law. A law clerk appointed under this section shall be exempt from the provisions of subchapter I of chapter 63 of title 5, unless specifically included by the appointing judge or by local rule of court.
 
-(June 25, 1948, ch. 646, 62 Stat. 921; Pub. L. 86–221, Sept. 1, 1959, 73 Stat. 452; Pub. L. 100–702, title X, § 1003(a)(3), Nov. 19, 1988, 102 Stat. 4665.)
+(June 25, 1948, ch. 646, 62 Stat. 921; Pub. L. 86–221, Sept. 1, 1959, 73 Stat. 452; Pub. L. 100–702, title X, § 1003(a)(3), Nov. 19, 1988, 102 Stat. 4665.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 5b and 128 (Mar. 3, 1911, ch. 231, § 118b, as added Feb. 17, 1936, ch. 75, 49 Stat. 1140; May 14, 1940, ch. 189, title IV, 54 Stat. 210; June 28, 1941, ch. 258, title IV, 55 Stat. 301; July 2, 1942, ch. 472, title IV, 56 Stat. 504).
+Based on title 28, U.S.C., 1940 ed., §§ 5b and 128 (Mar. 3, 1911, ch. 231, § 118b, as added Feb. 17, 1936, ch. 75, 49 Stat. 1140; May 14, 1940, ch. 189, title IV, 54 Stat. 210; June 28, 1941, ch. 258, title IV, 55 Stat. 301; July 2, 1942, ch. 472, title IV, 56 Stat. 504).
 
 This section consolidates provisions of sections 5b and 128 of title 28, U.S.C., 1940 ed., relating to appointment of law clerks for district judges.
 
@@ -123,7 +123,7 @@ Minor changes were made in phraseology.
 
 **Senate Revision Amendment**
 
-As finally enacted, sections 374c and 374d of Title 28, U.S.C., 1946 ed., which were derived from act July 23, 1947, ch. 300, §§ 1, 2, 61 Stat. 409, were an additional source of this section. Hence, by Senate amendment, the section was changed to conform with such sections, and such act was included in the schedule of repeals. See 80th Congress Senate Report No. 1559.
+As finally enacted, sections 374c and 374d of Title 28, U.S.C., 1946 ed., which were derived from act July 23, 1947, ch. 300, §§ 1, 2, 61 Stat. 409, were an additional source of this section. Hence, by Senate amendment, the section was changed to conform with such sections, and such act was included in the schedule of repeals. See 80th Congress Senate Report No. 1559.
 
 **Editorial Notes**
 
@@ -133,7 +133,7 @@ As finally enacted, sections 374c and 374d of Title 28, U.S.C., 1946 ed., which 
 
 1959—Pub. L. 86–221 substituted provision permitting district judges to appoint necessary law clerks and secretaries subject to aggregate salary limitations for provisions permitting a district judge to appoint a secretary and also a law clerk upon certification of necessity by the chief judge of the circuit and permitting the chief judge of a district court having five or more district judges to appoint an assistant secretary.
 
-## § 753. Reporters
+## § 753. Reporters
 
 **(a)** Each district court of the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, and the District Court of the Virgin Islands shall appoint one or more court reporters.
 
@@ -145,9 +145,9 @@ Each such court, with the approval of the Director of the Administrative Office 
 
 If any such court and the Judicial Conference are of the opinion that it is in the public interest that the duties of reporter should be combined with those of any other employee of the court, the Judicial Conference may authorize such a combination and fix the salary for the performance of the duties combined.
 
-**(b)** Each session of the court and every other proceeding designated by rule or order of the court or by one of the judges shall be recorded verbatim by shorthand, mechanical means, electronic sound recording, or any other method, subject to regulations promulgated by the Judicial Conference and subject to the discretion and approval of the judge. The regulations promulgated pursuant to the preceding sentence shall prescribe the types of electronic sound recording or other means which may be used. Proceedings to be recorded under this section include (1) all proceedings in criminal cases had in open court; (2) all proceedings in other cases had in open court unless the parties with the approval of the judge shall agree specifically to the contrary; and (3) such other proceedings as a judge of the court may direct or as may be required by rule or order of court as 1
+**(b)** Each session of the court and every other proceeding designated by rule or order of the court or by one of the judges shall be recorded verbatim by shorthand, mechanical means, electronic sound recording, or any other method, subject to regulations promulgated by the Judicial Conference and subject to the discretion and approval of the judge. The regulations promulgated pursuant to the preceding sentence shall prescribe the types of electronic sound recording or other means which may be used. Proceedings to be recorded under this section include (1) all proceedings in criminal cases had in open court; (2) all proceedings in other cases had in open court unless the parties with the approval of the judge shall agree specifically to the contrary; and (3) such other proceedings as a judge of the court may direct or as may be required by rule or order of court as 1
 
-<sup>1</sup>  So in original. Probably should be “or as”.
+<sup>1</sup> So in original. Probably should be “or as”.
 
 may be requested by any party to the proceeding.
 
@@ -181,11 +181,11 @@ The original notes or other original records and the copy of the transcript in t
 
 **(g)** If, upon the advice of the chief judge of any district court within the circuit, the judicial council of any circuit determines that the number of court reporters provided such district court pursuant to subsection (a) of this section is insufficient to meet temporary demands and needs and that the services of additional court reporters for such district court should be provided the judges of such district court (including the senior judges thereof when such senior judges are performing substantial judicial services for such court) on a contract basis, rather than by appointment of court reporters as otherwise provided in this section, and such judicial council notifies the Director of the Administrative Office, in writing, of such determination, the Director of the Administrative Office is authorized to and shall contract, without regard to section 6101(b) to (d) of title 41, with any suitable person, firm, association, or corporation for the providing of court reporters to serve such district court under such terms and conditions as the Director of the Administrative Office finds, after consultation with the chief judge of the district court, will best serve the needs of such district court.
 
-(June 25, 1948, ch. 646, 62 Stat. 921; Oct. 31, 1951, ch. 655, § 46, 65 Stat. 726; June 28, 1955, ch. 189, § 3(c), 69 Stat. 176; Pub. L. 85–462, § 3(c), June 20, 1958, 72 Stat. 207; Pub. L. 85–508, § 12(e), July 7, 1958, 72 Stat. 348; Pub. L. 86–568, title I, § 116(c), July 1, 1960, 74 Stat. 303; Pub. L. 89–163, Sept. 2, 1965, 79 Stat. 619; Pub. L. 89–167, Sept. 2, 1965, 79 Stat. 647; Pub. L. 91–272, § 14, June 2, 1970, 84 Stat. 298; Pub. L. 91–545, Dec. 11, 1970, 84 Stat. 1412; Pub. L. 97–164, title IV, § 401(a), Apr. 2, 1982, 96 Stat. 56; Pub. L. 104–317, title III, § 305, Oct. 19, 1996, 110 Stat. 3852; Pub. L. 111–350, § 5(g)(4), Jan. 4, 2011, 124 Stat. 3848.)
+(June 25, 1948, ch. 646, 62 Stat. 921; Oct. 31, 1951, ch. 655, § 46, 65 Stat. 726; June 28, 1955, ch. 189, § 3(c), 69 Stat. 176; Pub. L. 85–462, § 3(c), June 20, 1958, 72 Stat. 207; Pub. L. 85–508, § 12(e), July 7, 1958, 72 Stat. 348; Pub. L. 86–568, title I, § 116(c), July 1, 1960, 74 Stat. 303; Pub. L. 89–163, Sept. 2, 1965, 79 Stat. 619; Pub. L. 89–167, Sept. 2, 1965, 79 Stat. 647; Pub. L. 91–272, § 14, June 2, 1970, 84 Stat. 298; Pub. L. 91–545, Dec. 11, 1970, 84 Stat. 1412; Pub. L. 97–164, title IV, § 401(a), Apr. 2, 1982, 96 Stat. 56; Pub. L. 104–317, title III, § 305, Oct. 19, 1996, 110 Stat. 3852; Pub. L. 111–350, § 5(g)(4), Jan. 4, 2011, 124 Stat. 3848.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 9a(a), (b), (c), (d), and section 644 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions (Apr. 30, 1900, ch. 339, § 86, 31 Stat. 158; Mar. 3, 1909, ch. 269, § 1, 35 Stat. 838; Mar. 3, 1911, ch. 231, § 5a, as added Jan. 20, 1944, ch. 3, § 1(a), (b), (c), (d), 58 Stat. 5, 6, 7; Mar. 4, 1921, ch. 161, § 1, 41 Stat. 1412; July 9, 1921, ch. 42, § 313, 42 Stat. 119; June 1, 1922, ch. 204, title II, 42 Stat. 614, 616; Jan. 3, 1923, ch. 21, title II, 52 Stat. 1084; Feb. 12, 1925, ch. 220, 43 Stat. 890).
+Based on title 28, U.S.C., 1940 ed., § 9a(a), (b), (c), (d), and section 644 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions (Apr. 30, 1900, ch. 339, § 86, 31 Stat. 158; Mar. 3, 1909, ch. 269, § 1, 35 Stat. 838; Mar. 3, 1911, ch. 231, § 5a, as added Jan. 20, 1944, ch. 3, § 1(a), (b), (c), (d), 58 Stat. 5, 6, 7; Mar. 4, 1921, ch. 161, § 1, 41 Stat. 1412; July 9, 1921, ch. 42, § 313, 42 Stat. 119; June 1, 1922, ch. 204, title II, 42 Stat. 614, 616; Jan. 3, 1923, ch. 21, title II, 52 Stat. 1084; Feb. 12, 1925, ch. 220, 43 Stat. 890).
 
 Section consolidates section 9a(a), (b), (c), (d) of title 28, U.S.C., 1940 ed., and part of section 644 of title 48, U.S.C., 1940 ed., relating to reporters.
 
@@ -213,11 +213,11 @@ The Criminal Justice Act, referred to in subsec. (f), probably means Pub. L. 88�
 
 1982—Subsec. (b). Pub. L. 97–164, amended subsec. (b) generally, substituting provisions permitting proceedings to be recorded using electronic sound recording, or any other method, subject to the approval and authorization of the Judicial Conference and of the presiding judge, for provisions requiring that an official court reporter attend each session of the court and every other proceeding designated by rule or order of the court or one of the judges.
 
-1970—Subsec. (e). Pub. L. 91–272, § 14(1), struck out provisions limiting to the $3,000 to $7,630 range the annual salary paid to reporters.
+1970—Subsec. (e). Pub. L. 91–272, § 14(1), struck out provisions limiting to the $3,000 to $7,630 range the annual salary paid to reporters.
 
 Subsec. (f). Pub. L. 91–545 restricted authorization of United States to pay fees for transcripts furnished in criminal proceedings to transcripts furnished to persons proceeding under the Criminal Justice Act.
 
-Subsec. (g). Pub. L. 91–272, § 14(2), added subsec. (g)
+Subsec. (g). Pub. L. 91–272, § 14(2), added subsec. (g)
 
 1965—Subsec. (b). Pub. L. 89–163 made provision for recording of proceedings in United States District Courts by means of electronic sound recording devices, made subject to the Judicial Conference the types of electronic sound recording means used by the reporters, made electronic sound recordings of proceedings on arraignment, plea, and sentence in a criminal case when properly certified by the court reporter admissible evidence to establish the record of that part of the proceedings, required the transcribing of arraignments in addition to the criminal proceedings already required to be transcribed, and waived the transcribing requirement for arraignments, pleas, and sentencing proceedings when such proceedings have been electronically recorded and such records certified and filed as provided in this subsection.
 
@@ -249,7 +249,7 @@ Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska int
 
 **Savings Provision**
 
-Pub. L. 97–164, title IV, § 401(b), Apr. 2, 1982, 96 Stat. 57, provided that: “The regulations promulgated by the Judicial Conference pursuant to subsection (b) of section 753 of title 28, as amended by subsection (a) of this section, shall not take effect before one year after the effective date of this Act [Oct. 1, 1982]. During the one-year period after the date of the enactment of this Act [Apr. 2, 1982], the Judicial Conference shall experiment with the different methods of recording court proceedings. Prior to the effective date of such regulations, the law and regulations in effect the day before the date of enactment of this Act shall remain in full force and effect.”
+Pub. L. 97–164, title IV, § 401(b), Apr. 2, 1982, 96 Stat. 57, provided that: “The regulations promulgated by the Judicial Conference pursuant to subsection (b) of section 753 of title 28, as amended by subsection (a) of this section, shall not take effect before one year after the effective date of this Act [Oct. 1, 1982]. During the one-year period after the date of the enactment of this Act [Apr. 2, 1982], the Judicial Conference shall experiment with the different methods of recording court proceedings. Prior to the effective date of such regulations, the law and regulations in effect the day before the date of enactment of this Act shall remain in full force and effect.”
 
 **Termination of United States District Court for the District of the Canal Zone**
 
@@ -257,17 +257,17 @@ For termination of the United States District Court for the District of the Cana
 
 **Salary Limitation for Court Reporters**
 
-1967—Pub. L. 90–206, title II, § 213(c), Dec. 16, 1967, 81 Stat. 635, inserted a new salary limitation for court reporters effective the first pay period which begins on or after Oct. 1, 1967, which reflected the respective applicable pay increases provided by section 202(a) of Pub. L. 90–206 in corresponding rates of compensation for particular officers and employees of the government.
+1967—Pub. L. 90–206, title II, § 213(c), Dec. 16, 1967, 81 Stat. 635, inserted a new salary limitation for court reporters effective the first pay period which begins on or after Oct. 1, 1967, which reflected the respective applicable pay increases provided by section 202(a) of Pub. L. 90–206 in corresponding rates of compensation for particular officers and employees of the government.
 
-1966—Pub. L. 89–504, title II, § 202(c), July 18, 1966, 80 Stat. 294, inserted a new salary limitation for court reporters effective the first pay period which begins on or after July 1, 1966, which reflected the respective applicable pay increases provided by section 102(a) of title I of Pub. L. 89–504 in corresponding rates of compensation for particular officers and employees of the government.
+1966—Pub. L. 89–504, title II, § 202(c), July 18, 1966, 80 Stat. 294, inserted a new salary limitation for court reporters effective the first pay period which begins on or after July 1, 1966, which reflected the respective applicable pay increases provided by section 102(a) of title I of Pub. L. 89–504 in corresponding rates of compensation for particular officers and employees of the government.
 
-1965—Pub. L. 89–301, § 12(c), Oct. 29, 1965, 79 Stat. 1122, inserted a new salary limitation for court reporters which reflected the applicable pay increases provided by section 2(a) of Pub. L. 89–301 in corresponding rates of compensation for particular government officers and employees.
+1965—Pub. L. 89–301, § 12(c), Oct. 29, 1965, 79 Stat. 1122, inserted a new salary limitation for court reporters which reflected the applicable pay increases provided by section 2(a) of Pub. L. 89–301 in corresponding rates of compensation for particular government officers and employees.
 
-1964—Pub. L. 88–426, title IV, § 402(c), Aug. 14, 1964, 78 Stat. 434, inserted a new salary limitation for court reporters which reflected the applicable pay increases provided by title I of Pub. L. 88–426 in corresponding rates of compensation for particular government officers and employees.
+1964—Pub. L. 88–426, title IV, § 402(c), Aug. 14, 1964, 78 Stat. 434, inserted a new salary limitation for court reporters which reflected the applicable pay increases provided by title I of Pub. L. 88–426 in corresponding rates of compensation for particular government officers and employees.
 
-1962—Pub. L. 87–793, title VI, § 1004(c), Oct. 11, 1962, 76 Stat. 866, inserted a new salary limitation for court reporters effective for the pay period beginning on or after Oct. 11, 1962, and ending immediately prior to the first pay period beginning on or after Jan. 1, 1964, and provided for a second salary limitation effective for the first pay period beginning on or after Jan. 1, 1964, which reflected applicable pay increases provided by title II of Pub. L. 87–793 in corresponding rates of compensation for particular government officers and employees.
+1962—Pub. L. 87–793, title VI, § 1004(c), Oct. 11, 1962, 76 Stat. 866, inserted a new salary limitation for court reporters effective for the pay period beginning on or after Oct. 11, 1962, and ending immediately prior to the first pay period beginning on or after Jan. 1, 1964, and provided for a second salary limitation effective for the first pay period beginning on or after Jan. 1, 1964, which reflected applicable pay increases provided by title II of Pub. L. 87–793 in corresponding rates of compensation for particular government officers and employees.
 
-## § 754. Receivers of property in different districts
+## § 754. Receivers of property in different districts
 
 A receiver appointed in any civil action or proceeding involving property, real, personal or mixed, situated in different districts shall, upon giving bond as required by the court, be vested with complete jurisdiction and control of all such property with the right to take possession thereof.
 
@@ -279,7 +279,7 @@ Such receiver shall, within ten days after the entry of his order of appointment
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 117 (Mar. 3, 1911, ch. 231, § 56, 36 Stat. 1102).
+Based on title 28, U.S.C., 1940 ed., § 117 (Mar. 3, 1911, ch. 231, § 56, 36 Stat. 1102).
 
 Word “action” was substituted for “suit”, in view of Rule 2 of the Federal Rules of Civil Procedure.
 
@@ -293,7 +293,7 @@ Under section 117 of title 28, U.S.C., 1940 ed., failure to file copies of the c
 
 Changes were made in phraseology.
 
-## § 755. Criers and bailiffs
+## § 755. Criers and bailiffs
 
 Each district judge may appoint a crier for the court in which he presides who shall perform also the duties of bailiff and messenger. A crier may perform also the duties of law clerk if he is qualified to do so and the district judge who appointed him designates him to serve as a crier-law clerk. A crier designated to serve as a crier-law clerk shall receive the compensation of a law clerk, but only so much of that compensation as is in excess of the compensation to which he would be entitled as a crier shall be deemed the compensation of a law clerk for the purposes of any limitation imposed by law upon the aggregate salaries of law clerks and secretaries appointed by a district judge.
 
@@ -301,11 +301,11 @@ Each United States marshal may employ, with the approval of the judge, not excee
 
 If the position of crier or bailiff is to be filled by the appointment of a person who has not previously served as either crier or bailiff, preference in the appointment shall be given to a person who has served in the military or naval forces of the United States in time of war and who has been honorably discharged therefrom, if in the opinion of the appointing officer such person is as well qualified as any other available person to perform to the satisfaction of the appointing officer all the duties of the position.
 
-(June 25, 1948, ch. 646, 62 Stat. 923; Pub. L. 89–281, Oct. 21, 1965, 79 Stat. 1012; Pub. L. 100–690, title VII, § 7608(b), Nov. 18, 1988, 102 Stat. 4515.)
+(June 25, 1948, ch. 646, 62 Stat. 923; Pub. L. 89–281, Oct. 21, 1965, 79 Stat. 1012; Pub. L. 100–690, title VII, § 7608(b), Nov. 18, 1988, 102 Stat. 4515.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 9, 595, 596 (R.S. § 715; Mar. 3, 1905, ch. 1487, 33 Stat. 1259; Mar. 3, 1911, ch. 231, § 5, 36 Stat. 1088; June 1, 1922, ch. 204, title II, 42 Stat. 617; Jan. 3, 1923, ch. 21, title II, 42 Stat. 1084; May 28, 1924, ch. 204, title II, 43 Stat. 221; May 14, 1940, ch. 189, title III, 54 Stat. 204; June 28, 1941, ch. 258, title III, 55 Stat. 295; July 2, 1942, ch. 472, title III, 56 Stat. 486; July 1, 1943, ch. 182, title II, 57 Stat. 286; June 28, 1944, ch. 294, title II, 58 Stat. 410; Dec. 7, 1944, ch. 522, §§ 1, 2, 58 Stat. 796; May 21, 1945, ch. 129, title II, 59 Stat. 184).
+Based on title 28, U.S.C., 1940 ed., §§ 9, 595, 596 (R.S. § 715; Mar. 3, 1905, ch. 1487, 33 Stat. 1259; Mar. 3, 1911, ch. 231, § 5, 36 Stat. 1088; June 1, 1922, ch. 204, title II, 42 Stat. 617; Jan. 3, 1923, ch. 21, title II, 42 Stat. 1084; May 28, 1924, ch. 204, title II, 43 Stat. 221; May 14, 1940, ch. 189, title III, 54 Stat. 204; June 28, 1941, ch. 258, title III, 55 Stat. 295; July 2, 1942, ch. 472, title III, 56 Stat. 486; July 1, 1943, ch. 182, title II, 57 Stat. 286; June 28, 1944, ch. 294, title II, 58 Stat. 410; Dec. 7, 1944, ch. 522, §§ 1, 2, 58 Stat. 796; May 21, 1945, ch. 129, title II, 59 Stat. 184).
 
 Section consolidates parts of sections 9, 595, and 596 of title 28, U.S.C., 1940 ed. The other provisions of such sections appear in section 604 of this title.
 
@@ -319,7 +319,7 @@ Compensation of criers and other court attendants, except bailiffs under section
 
 1965—Pub. L. 89–281 inserted provisions to first par. permitting a crier to perform duties of law clerk if he is qualified to do so and district judge who appointed him designates him to serve as a crier-law clerk, specifying that a crier-law clerk shall receive compensation of a law clerk, and requiring that only so much of that compensation as is in excess of compensation to which he would be entitled as a crier shall be deemed compensation of a law clerk for purposes of any limitation imposed by law upon aggregate salaries of law clerks and secretaries appointed by a district judge.
 
-## § 756. Power to appoint
+## § 756. Power to appoint
 
 Whenever a majority of the district judges of any district court cannot agree upon the appointment of any officer of such court, the chief judge shall make such appointment.
 
@@ -327,7 +327,7 @@ Whenever a majority of the district judges of any district court cannot agree up
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 375 (Mar. 3, 1911, ch. 231, § 260, 36 Stat. 1161; Feb. 25, 1919, ch.29, § 6, 40 Stat. 1157; Mar. 1, 1929, ch. 419, 45 Stat. 1422; May 11, 1944, ch. 192, §§ 1, 3, 58 Stat. 218, 219).
+Based on title 28, U.S.C., 1940 ed., § 375 (Mar. 3, 1911, ch. 231, § 260, 36 Stat. 1161; Feb. 25, 1919, ch.29, § 6, 40 Stat. 1157; Mar. 1, 1929, ch. 419, 45 Stat. 1422; May 11, 1944, ch. 192, §§ 1, 3, 58 Stat. 218, 219).
 
 Only part of section 375 of title 28, U.S.C., 1940 ed., appears in this section. The remainder is incorporated in sections 136, 294 and 371 of this title.
 

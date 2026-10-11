@@ -19,49 +19,49 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2022—Pub. L. 117–263, div. A, title XV, § 1531, Dec. 23, 2022, 136 Stat. 2900, added item 1124a.
+2022—Pub. L. 117–263, div. A, title XV, § 1531, Dec. 23, 2022, 136 Stat. 2900, added item 1124a.
 
-2019—Pub. L. 116–92, div. A, title V, § 582(a)(2), Dec. 20, 2019, 133 Stat. 1412, added item 1136.
+2019—Pub. L. 116–92, div. A, title V, § 582(a)(2), Dec. 20, 2019, 133 Stat. 1412, added item 1136.
 
-2014—Pub. L. 113–291, div. A, title V, § 571(a)(1)(B), Dec. 19, 2014, 128 Stat. 3387, added item 1129a.
+2014—Pub. L. 113–291, div. A, title V, § 571(a)(1)(B), Dec. 19, 2014, 128 Stat. 3387, added item 1129a.
 
-2013—Pub. L. 113–66, div. A, title V, § 563(a)(2), Dec. 26, 2013, 127 Stat. 767, added item 1134a.
+2013—Pub. L. 113–66, div. A, title V, § 563(a)(2), Dec. 26, 2013, 127 Stat. 767, added item 1134a.
 
-2011—Pub. L. 111–383, div. A, title V, § 571(b), Jan. 7, 2011, 124 Stat. 4223, added item 1133 and struck out former item 1133 “Bronze star: limitation to members receiving imminent danger pay”.
+2011—Pub. L. 111–383, div. A, title V, § 571(b), Jan. 7, 2011, 124 Stat. 4223, added item 1133 and struck out former item 1133 “Bronze star: limitation to members receiving imminent danger pay”.
 
-2008—Pub. L. 110–417, [div. A], title V, § 571(b), Oct. 14, 2008, 122 Stat. 4472, added item 1135.
+2008—Pub. L. 110–417, [div. A], title V, § 571(b), Oct. 14, 2008, 122 Stat. 4472, added item 1135.
 
-2004—Pub. L. 108–375, div. A, title V, § 561(b), Oct. 28, 2004, 118 Stat. 1918, added item 1134.
+2004—Pub. L. 108–375, div. A, title V, § 561(b), Oct. 28, 2004, 118 Stat. 1918, added item 1134.
 
-2003—Pub. L. 108–136, div. A, title X, § 1031(a)(10)(B), Nov. 24, 2003, 117 Stat. 1597, struck out “and recommendation” after “review” in item 1130.
+2003—Pub. L. 108–136, div. A, title X, § 1031(a)(10)(B), Nov. 24, 2003, 117 Stat. 1597, struck out “and recommendation” after “review” in item 1130.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title V, § 541(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–114, added item 1133.
+2000—Pub. L. 106–398, § 1 [[div. A], title V, § 541(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–114, added item 1133.
 
-1998—Pub. L. 105–261, div. A, title V, § 537(b), Oct. 17, 1998, 112 Stat. 2019, added item 1132.
+1998—Pub. L. 105–261, div. A, title V, § 537(b), Oct. 17, 1998, 112 Stat. 2019, added item 1132.
 
-1997—Pub. L. 105–85, div. A, title V, § 571(a)(2), Nov. 18, 1997, 111 Stat. 1756, added item 1131.
+1997—Pub. L. 105–85, div. A, title V, § 571(a)(2), Nov. 18, 1997, 111 Stat. 1756, added item 1131.
 
-1996—Pub. L. 104–106, div. A, title V, § 526(b), Feb. 10, 1996, 110 Stat. 314, added item 1130.
+1996—Pub. L. 104–106, div. A, title V, § 526(b), Feb. 10, 1996, 110 Stat. 314, added item 1130.
 
-1993—Pub. L. 103–160, div. A, title XI, § 1141(b), Nov. 30, 1993, 107 Stat. 1757, added item 1129.
+1993—Pub. L. 103–160, div. A, title XI, § 1141(b), Nov. 30, 1993, 107 Stat. 1757, added item 1129.
 
-1985—Pub. L. 99–145, title V, § 532(a)(2), title XII, § 1225(a)(2)(B), Nov. 8, 1985, 99 Stat. 634, 730, inserted “disclosures,” and substituted “and” for “or” in item 1124, and added item 1128.
+1985—Pub. L. 99–145, title V, § 532(a)(2), title XII, § 1225(a)(2)(B), Nov. 8, 1985, 99 Stat. 634, 730, inserted “disclosures,” and substituted “and” for “or” in item 1124, and added item 1128.
 
-1984—Pub. L. 98–525, title V, § 553(b), Oct. 19, 1984, 98 Stat. 2532, added item 1127.
+1984—Pub. L. 98–525, title V, § 553(b), Oct. 19, 1984, 98 Stat. 2532, added item 1127.
 
-1966—Pub. L. 89–718, § 9, Nov. 2, 1966, 80 Stat. 1117, redesignated item 1124, added by Pub. L. 89–534, § 1(2), Aug. 11, 1966, 80 Stat. 345, as 1126.
+1966—Pub. L. 89–718, § 9, Nov. 2, 1966, 80 Stat. 1117, redesignated item 1124, added by Pub. L. 89–534, § 1(2), Aug. 11, 1966, 80 Stat. 345, as 1126.
 
-Pub. L. 89–534, § 1(2), Aug. 11, 1966, 80 Stat. 345, added item 1124, relating to eligibility for and distribution of gold star lapel button.
+Pub. L. 89–534, § 1(2), Aug. 11, 1966, 80 Stat. 345, added item 1124, relating to eligibility for and distribution of gold star lapel button.
 
-Pub. L. 89–529, § 1(2), Aug. 11, 1966, 80 Stat. 339, added item 1125.
+Pub. L. 89–529, § 1(2), Aug. 11, 1966, 80 Stat. 339, added item 1125.
 
-1965—Pub. L. 89–198, § 1(2), Sept. 22, 1965, 79 Stat. 831, added item 1124, relating to payment of cash awards for members of armed forces for suggestions, inventions, or scientific achievements.
+1965—Pub. L. 89–198, § 1(2), Sept. 22, 1965, 79 Stat. 831, added item 1124, relating to payment of cash awards for members of armed forces for suggestions, inventions, or scientific achievements.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Establishment of the Atomic Veterans Commemorative Service Medal**
 
-Pub. L. 117–81, div. A, title V, § 583, Dec. 27, 2021, 135 Stat. 1757, provided that:
+Pub. L. 117–81, div. A, title V, § 583, Dec. 27, 2021, 135 Stat. 1757, provided that:
 
 > **“(a) Service Medal Required.—** The Secretary of Defense shall design and produce a commemorative military service medal, to be known as the ‘Atomic Veterans Commemorative Service Medal’, to commemorate the service and sacrifice of veterans who were instrumental in the development of our nations [sic] atomic and nuclear weapons programs.
 
@@ -85,7 +85,7 @@ Pub. L. 117–81, div. A, title V, § 583, Dec. 27, 2021, 135 Stat. 1757, prov
 
 **Development of Guidelines for Use of Unofficial Sources of Information To Determine Eligibility of Members and Former Members of the Armed Forces for Decorations When the Service Records Are Incomplete Because of Damage to the Official Record**
 
-Pub. L. 116–92, div. A, title V, § 528, Dec. 20, 2019, 133 Stat. 1357, provided that:
+Pub. L. 116–92, div. A, title V, § 528, Dec. 20, 2019, 133 Stat. 1357, provided that:
 
 > **“(a) Guidelines Required.—** The Secretary of Defense shall develop guidelines regarding the use by the Secretaries of the military departments of unofficial sources of information, including eyewitness statements, to determine the eligibility of a member or former member of the Armed Forces for decorations when the service records of the member are incomplete because of damage to the records as a result of the 1973 fire at the National Personnel Records Center in St. Louis, Missouri, or any subsequent incident while the records were in the possession of the Department of Defense.
 
@@ -93,7 +93,7 @@ Pub. L. 116–92, div. A, title V, § 528, Dec. 20, 2019, 133 Stat. 1357, prov
 
 **Atomic Veterans Service Certificate**
 
-Pub. L. 115–232, div. A, title V, § 581, Aug. 13, 2018, 132 Stat. 1787, provided that:
+Pub. L. 115–232, div. A, title V, § 581, Aug. 13, 2018, 132 Stat. 1787, provided that:
 
 > **“(a) Service Certificate Required.—** The Secretary of Defense shall design and produce a military service certificate, to be known as the ‘Atomic Veterans Service Certificate’, to honor retired and former members of the Armed Forces who are radiation-exposed veterans (as such term is defined in section 1112(c)(3) of title 38, United States Code).
 
@@ -105,7 +105,7 @@ Pub. L. 115–232, div. A, title V, § 581, Aug. 13, 2018, 132 Stat. 1787, pro
 
 **Award of Medals or Other Commendations to Handlers of Military Working Dogs**
 
-Pub. L. 115–232, div. A, title V, § 582, Aug. 13, 2018, 132 Stat. 1787, provided that:
+Pub. L. 115–232, div. A, title V, § 582, Aug. 13, 2018, 132 Stat. 1787, provided that:
 
 > **“(a) Program of Award Required.—** Each Secretary of a military department shall carry out a program to provide for the award of one or more medals or other commendations to handlers of military working dogs under the jurisdiction of such Secretary to recognize valor or meritorious achievement by such handlers and dogs.
 
@@ -117,11 +117,11 @@ Pub. L. 115–232, div. A, title V, § 582, Aug. 13, 2018, 132 Stat. 1787, pro
 
 **Promotional Materials and Recognition Items for Participants in Operation Enduring Freedom or Operation Iraqi Freedom**
 
-Pub. L. 110–116, div. A, title VIII, § 8099, Nov. 13, 2007, 121 Stat. 1337, provided that: “Hereafter, the Secretary of Defense may present promotional materials, including a United States flag, to any member of an Active or Reserve component under the Secretary’s jurisdiction who, as determined by the Secretary, participates in Operation Enduring Freedom or Operation Iraqi Freedom, along with other recognition items in conjunction with any week-long national observation and day of national celebration, if established by Presidential proclamation, for any such members returning from such operations.”
+Pub. L. 110–116, div. A, title VIII, § 8099, Nov. 13, 2007, 121 Stat. 1337, provided that: “Hereafter, the Secretary of Defense may present promotional materials, including a United States flag, to any member of an Active or Reserve component under the Secretary’s jurisdiction who, as determined by the Secretary, participates in Operation Enduring Freedom or Operation Iraqi Freedom, along with other recognition items in conjunction with any week-long national observation and day of national celebration, if established by Presidential proclamation, for any such members returning from such operations.”
 
 **Report on Department of Defense Process for Awarding Decorations**
 
-Pub. L. 109–364, div. A, title V, § 557, Oct. 17, 2006, 120 Stat. 2219, provided that:
+Pub. L. 109–364, div. A, title V, § 557, Oct. 17, 2006, 120 Stat. 2219, provided that:
 
 > **“(a) Review.—** The Secretary of Defense shall conduct a review of the policy, procedures, and processes of the military departments for awarding decorations to members of the Armed Forces.
 
@@ -137,9 +137,9 @@ Pub. L. 109–364, div. A, title V, § 557, Oct. 17, 2006, 120 Stat. 2219, pro
 
 **Separate Military Campaign Medals To Recognize Service in Operation Enduring Freedom and Service in Operation Iraqi Freedom**
 
-Pub. L. 109–163, div. A, title V, § 576, Jan. 6, 2006, 119 Stat. 3274, provided that: “For purposes of eligibility for the campaign medal for Operation Enduring Freedom established pursuant to Public Law 108–234 (10 U.S.C. 1121 note), the beginning date of Operation Enduring Freedom is September 11, 2001.”
+Pub. L. 109–163, div. A, title V, § 576, Jan. 6, 2006, 119 Stat. 3274, provided that: “For purposes of eligibility for the campaign medal for Operation Enduring Freedom established pursuant to Public Law 108–234 (10 U.S.C. 1121 note), the beginning date of Operation Enduring Freedom is September 11, 2001.”
 
-Pub. L. 108–234, § 1, May 28, 2004, 118 Stat. 655, provided that:
+Pub. L. 108–234, § 1, May 28, 2004, 118 Stat. 655, provided that:
 
 > **“(a) Requirement.—** The President shall establish a campaign medal specifically to recognize service by members of the uniformed services in Operation Enduring Freedom and a separate campaign medal specifically to recognize service by members of the uniformed services in Operation Iraqi Freedom.
 
@@ -147,7 +147,7 @@ Pub. L. 108–234, § 1, May 28, 2004, 118 Stat. 655, provided that:
 
 **Commendation of Members of Armed Forces and Government Civilian Personnel Who Served During Cold War**
 
-Pub. L. 105–85, div. A, title X, § 1084, Nov. 18, 1997, 111 Stat. 1919, provided that:
+Pub. L. 105–85, div. A, title X, § 1084, Nov. 18, 1997, 111 Stat. 1919, provided that:
 
 > **“(a) Findings.—** The Congress finds the following:
 
@@ -169,7 +169,7 @@ Pub. L. 105–85, div. A, title X, § 1084, Nov. 18, 1997, 111 Stat. 1919, pro
 
 **Ex. Ord. No. 8809. Good Conduct Medal**
 
-Ex. Ord. No. 8809, June 28, 1941, 6 F.R. 3209, as amended by Ex. Ord. No. 9323, Mar. 31, 1943, 8 F.R. 4225; Ex. Ord. No. 10444, Apr. 10, 1953, 18 F.R. 2069; Ex. Ord. No. 14085, § 2, Oct. 3, 2022, 87 F.R. 60541, provided:
+Ex. Ord. No. 8809, June 28, 1941, 6 F.R. 3209, as amended by Ex. Ord. No. 9323, Mar. 31, 1943, 8 F.R. 4225; Ex. Ord. No. 10444, Apr. 10, 1953, 18 F.R. 2069; Ex. Ord. No. 14085, § 2, Oct. 3, 2022, 87 F.R. 60541, provided:
 
 By virtue of the authority vested in me as President of the United States and as Commander in Chief of the Armed Forces of the United States, it is ordered as follows:
 
@@ -177,7 +177,7 @@ There is hereby established the Good Conduct Medal, which shall include suitable
 
 **Ex. Ord. No. 9158. Air Medal**
 
-Ex. Ord. No. 9158, May 11, 1942, 7 F.R. 3541, as amended by Ex. Ord. No. 9242–A, Sept. 11, 1942, 7 F.R. 7874; Ex. Ord. No. 14085, § 1, Oct. 3, 2022, 87 F.R. 60541, provided:
+Ex. Ord. No. 9158, May 11, 1942, 7 F.R. 3541, as amended by Ex. Ord. No. 9242–A, Sept. 11, 1942, 7 F.R. 7874; Ex. Ord. No. 14085, § 1, Oct. 3, 2022, 87 F.R. 60541, provided:
 
 By virtue of the authority vested in me as President of the United States and as Commander in Chief of the Armed Forces of the United States, it is hereby ordered that an Air Medal, with accompanying ribbons, be established for award to those individuals who, while serving in any capacity in or with the Army, Navy, Marine Corps, Air Force, Space Force, or Coast Guard of the United States, subsequent to September 8, 1939, distinguish, or have distinguished, themselves by meritorious achievement while participating in an aerial flight.
 
@@ -189,7 +189,7 @@ The regulations of the Secretaries of the military departments concerned with re
 
 **Ex. Ord. No. 10694. Authorizing the Secretaries of the Army, Navy, and Air Force to Issue Citations in the Name of the President of the United States to Military and Naval Units for Outstanding Performance in Action**
 
-Ex. Ord. No. 10694, Jan. 10, 1957, 22 F.R. 253, as amended by Ex. Ord. No. 13286, § 74, Feb. 28, 2003, 68 F.R. 10631; Ex. Ord. No. 14085, § 3, Oct. 3, 2022, 87 F.R. 60542, provided:
+Ex. Ord. No. 10694, Jan. 10, 1957, 22 F.R. 253, as amended by Ex. Ord. No. 13286, § 74, Feb. 28, 2003, 68 F.R. 10631; Ex. Ord. No. 14085, § 3, Oct. 3, 2022, 87 F.R. 60542, provided:
 
 By virtue of the authority vested in me as President of the United States and as Commander in Chief of the armed forces of the United States, it is hereby ordered as follows:
 
@@ -205,7 +205,7 @@ By virtue of the authority vested in me as President of the United States and as
 
 **Ex. Ord. No. 11448. Meritorious Service Medal**
 
-Ex. Ord. No. 11448, Jan. 16, 1969, 34 F.R. 915, as amended by Ex. Ord. No. 12312, July 2, 1981, 46 F.R. 35251; Ex. Ord. No. 13286, § 61, Feb. 28, 2003, 68 F.R. 10629, provided:
+Ex. Ord. No. 11448, Jan. 16, 1969, 34 F.R. 915, as amended by Ex. Ord. No. 12312, July 2, 1981, 46 F.R. 35251; Ex. Ord. No. 13286, § 61, Feb. 28, 2003, 68 F.R. 10629, provided:
 
 By virtue of the authority vested in me as President of the United States and as Commander in Chief of the Armed Forces of the United States, it is ordered as follows:
 
@@ -239,7 +239,7 @@ Gerald R. Ford.
 
 **Ex. Ord. No. 11926. Vice Presidential Service Badge**
 
-Ex. Ord. No. 11926, July 19, 1976, 41 F.R. 29805, as amended by Ex. Ord. No. 13286, § 56, Feb. 28, 2003, 68 F.R. 10629; Ex. Ord. No. 13373, § 1, Mar. 10, 2005, 70 F.R. 12579; Ex. Ord. No. 14131, § 2, Dec. 20, 2024, 89 F.R. 105377, provided:
+Ex. Ord. No. 11926, July 19, 1976, 41 F.R. 29805, as amended by Ex. Ord. No. 13286, § 56, Feb. 28, 2003, 68 F.R. 10629; Ex. Ord. No. 13373, § 1, Mar. 10, 2005, 70 F.R. 12579; Ex. Ord. No. 14131, § 2, Dec. 20, 2024, 89 F.R. 105377, provided:
 
 By virtue of the authority vested in me as President of the United States of America, and as Commander in Chief of the Armed Forces of the United States, it is hereby ordered as follows:
 
@@ -259,7 +259,7 @@ Sec. 7. Executive Order No. 11544 of July 8, 1970, is hereby superseded; however
 
 **Ex. Ord. No. 11965. Humanitarian Service Medal**
 
-Ex. Ord. No. 11965, Jan. 19, 1977, 42 F.R. 4329, as amended by Ex. Ord. No. 13286, § 55, Feb. 28, 2003, 68 F.R. 10629, provided:
+Ex. Ord. No. 11965, Jan. 19, 1977, 42 F.R. 4329, as amended by Ex. Ord. No. 13286, § 55, Feb. 28, 2003, 68 F.R. 10629, provided:
 
 By virtue of the authority vested in me as President of the United States of America, and as Commander in Chief of the Armed Forces, it is hereby ordered as follows:
 
@@ -287,7 +287,7 @@ Sec. 4. The Defense Meritorious Service Medal or device may be awarded posthumou
 
 **Ex. Ord. No. 12793. Presidential Service Certificate and Presidential Service Badge**
 
-Ex. Ord. No. 12793, Mar. 20, 1992, 57 F.R. 10281, as amended by Ex. Ord. No. 13286, § 31, Feb. 28, 2003, 68 F.R. 10625; Ex. Ord. No. 14131, § 1, Dec. 20, 2024, 89 F.R. 105377, provided:
+Ex. Ord. No. 12793, Mar. 20, 1992, 57 F.R. 10281, as amended by Ex. Ord. No. 13286, § 31, Feb. 28, 2003, 68 F.R. 10625; Ex. Ord. No. 14131, § 1, Dec. 20, 2024, 89 F.R. 105377, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and as Commander in Chief of the Armed Forces of the United States, it is ordered of follows:
 
@@ -303,7 +303,7 @@ Sec. 5. This order shall supersede Executive Order No. 10879 of June 1, 1960, as
 
 **Ex. Ord. No. 12830. Military Outstanding Volunteer Service Medal**
 
-Ex. Ord. No. 12830, Jan. 9, 1993, 58 F.R. 4061, as amended by Ex. Ord. No. 13286, § 28, Feb. 28, 2003, 68 F.R. 10625, provided:
+Ex. Ord. No. 12830, Jan. 9, 1993, 58 F.R. 4061, as amended by Ex. Ord. No. 13286, § 28, Feb. 28, 2003, 68 F.R. 10625, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and as Commander in Chief of the Armed Forces, it is hereby ordered as follows:
 
@@ -317,7 +317,7 @@ Sec. 4. The Military Outstanding Volunteer Service Medal may be awarded posthumo
 
 **Ex. Ord. No. 12985. Establishing Armed Forces Service Medal**
 
-Ex. Ord. No. 12985, Jan. 11, 1996, 61 F.R. 1209, as amended by Ex. Ord. No. 13286, § 20, Feb. 28, 2003, 68 F.R. 10624, provided:
+Ex. Ord. No. 12985, Jan. 11, 1996, 61 F.R. 1209, as amended by Ex. Ord. No. 13286, § 20, Feb. 28, 2003, 68 F.R. 10624, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including my authority as Commander in Chief of the Armed Forces of the United States, it is hereby ordered as follows:
 
@@ -353,7 +353,7 @@ George W. Bush.
 
 **Ex. Ord. No. 13830. Delegation of Authority To Approve Certain Military Decorations**
 
-Ex. Ord. No. 13830, Apr. 20, 2018, 83 F.R. 18191, as amended by Ex. Ord. No. 14085, § 5, Oct. 3, 2022, 87 F.R. 60542, provided:
+Ex. Ord. No. 13830, Apr. 20, 2018, 83 F.R. 18191, as amended by Ex. Ord. No. 14085, § 5, Oct. 3, 2022, 87 F.R. 60542, provided:
 
 For the purpose of carrying into effect the provisions of sections 1121, 7272, 7273, 7276, 7279, 7280, 8292, 8293, 8294, 8295, 8296, 9272, 9273, 9276, 9279, 9280, and 9280a of title 10, and sections 2735, 2736, 2737, 2738, and 2739 of title 14, United States Code, the following rules and regulations pertaining to the award of the Distinguished Service Cross, Navy Cross, Air Force Cross, Coast Guard Cross, Distinguished Service Medal, Silver Star Medal, Legion of Merit, Distinguished Flying Cross, Soldier’s Medal, Navy and Marine Corps Medal, Airman’s Medal, and Coast Guard Medal are promulgated:
 
@@ -435,7 +435,7 @@ Sec. 8. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 (e) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-## § 1121. Legion of Merit: award
+## § 1121. Legion of Merit: award
 
 The President, under regulations to be prescribed by him, may award a decoration called the “Legion of Merit”, having suitable appurtenances and devices and not more than four degrees, to any member of the armed forces of the United States or of any friendly foreign nation who, after September 8, 1939, has distinguished himself by exceptionally meritorious conduct in performing outstanding services.
 
@@ -445,11 +445,11 @@ The President, under regulations to be prescribed by him, may award a decoration
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1121 | 10:1408b(1). | July 20, 1942, ch. 508, § 2(1), 56 Stat. 662. |
+| 1121 | 10:1408b(1). | July 20, 1942, ch. 508, § 2(1), 56 Stat. 662. |
 
 The words “Government of the Philippines” are omitted as covered by the words “any friendly foreign nation”. The words “There is created”, “rules and”, and “the proclamation of an emergency by the President on” are omitted as surplusage.
 
-## § 1122. Medal for Merit: award
+## § 1122. Medal for Merit: award
 
 The President, under regulations to be prescribed by him, may award a decoration called the “Medal for Merit”, having distinctive appurtenances and devices and only one degree, to any civilian of any nation prosecuting the war in existence on July 20, 1942, under the joint declaration of the United Nations, as then constituted, or of any other friendly foreign nation, who, after September 8, 1939, has distinguished himself by exceptionally meritorious conduct in performing outstanding services. The Medal for Merit may be awarded to a civilian of a foreign nation but only for performing an exceptionally meritorious or courageous act in the furtherance of the war efforts of the United Nations as then constituted.
 
@@ -459,7 +459,7 @@ The President, under regulations to be prescribed by him, may award a decoration
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1122 | 10:1408b (less (1)). | July 20, 1942, ch. 508, § 2 (less (1)), 56 Stat. 663. |
+| 1122 | 10:1408b (less (1)). | July 20, 1942, ch. 508, § 2 (less (1)), 56 Stat. 663. |
 
 The words “in existence on July 20, 1942” are inserted for clarity and refer to the war in existence on the date of enactment of the source statute. The words “as then constituted” are inserted for clarity, since the United Nations organization in existence on July 20, 1942, was not the present United Nations organization. The words “There is created”, “rules and”, and “the proclamation of an emergency by the President on” are omitted as surplusage.
 
@@ -481,13 +481,13 @@ Ex. Ord. No. 9637, Oct. 3, 1945, 10 F.R. 12543, as amended by Ex. Ord. No. 9857A
 
 \6. The Medal for Merit shall not be awarded for any services relating to the prosecution of World War II performed subsequent to the cessation of hostilities, as proclaimed by Proclamation No. 2714 of December 31, 1946, and no proposal for an award for such services submitted after June 30, 1947, shall be considered by the Medal for Merit Board.
 
-## § 1123. Right to wear badges of military societies
+## § 1123. Right to wear badges of military societies
 
 **(a)** A member of the Army, Navy, Air Force, Marine Corps, or Space Force who is a member of a military society originally composed of men who served in an armed force of the United States during the Revolutionary War, the War of 1812, the Mexican War, the Civil War, the Spanish-American War, the Philippine Insurrection, or the Chinese Relief Expedition of 1900 may wear, on occasions of ceremony, the distinctive badges adopted by that society.
 
 **(b)** A member of the Army, Navy, Air Force, Marine Corps, or Space Force who is a member of the Army and Navy Union of the United States may wear, on public occasions of ceremony, the distinctive badges adopted by that society.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 88; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(Q), Jan. 1, 2021, 134 Stat. 3821.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 88; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(Q), Jan. 1, 2021, 134 Stat. 3821.)
 
 **Historical and Revision Notes**
 
@@ -495,13 +495,13 @@ Ex. Ord. No. 9637, Oct. 3, 1945, 10 F.R. 12543, as amended by Ex. Ord. No. 9857A
 |---|---|---|
 | 1123(a) | 10:1427 (1st sentence). 34:371 (1st sentence). | Sept. 25, 1890, J. Res. 50, 26 Stat. 681. |
 | 1123(b) | 10:1427 (less 1st sentence). | May 11, 1894, J. Res. 26, 28 Stat. 583. |
-|  | 34:371 (less 1st sentence). | Feb. 2, 1901, ch. 192, § 41, 31 Stat. 758. |
+|  | 34:371 (less 1st sentence). | Feb. 2, 1901, ch. 192, § 41, 31 Stat. 758. |
 |  |  | Jan. 12, 1903, J. Res. 2, 32 Stat. 1229. |
 |  |  | Mar. 2, 1907, J. Res. 18, 34 Stat. 1423. |
 
 In subsection (a), the words “an armed force” are substituted for the words “armies and navies”. The words “Revolutionary War”, “Civil War”, and “Philippine Insurrection” are substituted for the words “War of the Revolution”, “War of the Rebellion”, and “incident insurrection in the Philippines”, respectively, to reflect present terminology. The words “originally composed” are substituted for the words “in their own right”, to reflect an opinion of the Attorney General (see 23 Op. Atty. Gen. 454).
 
-In subsections (a) and (b), the word “member” is substituted for the words “officers and enlisted men”. The words “Navy \* \* \* or Marine Corps” are substituted for the word “Navy”, since the word “Navy” in the source statute has, by long-standing administrative interpretation, been construed to include the Marine Corps.
+In subsections (a) and (b), the word “member” is substituted for the words “officers and enlisted men”. The words “Navy \* \* \* or Marine Corps” are substituted for the word “Navy”, since the word “Navy” in the source statute has, by long-standing administrative interpretation, been construed to include the Marine Corps.
 
 In subsection (b), the words “in their own right” are omitted as surplusage.
 
@@ -511,7 +511,7 @@ In subsection (b), the words “in their own right” are omitted as surplusage.
 
 2021—Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps” in subsecs. (a) and (b).
 
-## § 1124. Cash awards for disclosures, suggestions, inventions, and scientific achievements
+## § 1124. Cash awards for disclosures, suggestions, inventions, and scientific achievements
 
 **(a)** The Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may authorize the payment of a cash award to, and incur necessary expense for the honorary recognition of, a member of the armed forces under his jurisdiction who by his disclosure, suggestion, invention, or scientific achievement contributes to the efficiency, economy, or other improvement of operations or programs relating to the armed forces.
 
@@ -533,7 +533,7 @@ In subsection (b), the words “in their own right” are omitted as surplusage.
 
 **(h)** For the purposes of this section, a member of the Commissioned Corps of the National Oceanic and Atmospheric Administration or of the Public Health Service who is serving with an armed force shall be treated as if he were a member of that armed force.
 
-(Added Pub. L. 89–198, § 1(1), Sept. 22, 1965, 79 Stat. 830; amended Pub. L. 89–718, § 10, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–623, § 2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–470, title I, § 112(c), Oct. 19, 1980, 94 Stat. 2240; Pub. L. 96–513, title V, § 511(40), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 96–527, title VII, § 772, Dec. 15, 1980, 94 Stat. 3093; Pub. L. 99–145, title XII, § 1225(a)(1), (2)(A), Nov. 8, 1985, 99 Stat. 730; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 89–198, § 1(1), Sept. 22, 1965, 79 Stat. 830; amended Pub. L. 89–718, § 10, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–623, § 2(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–470, title I, § 112(c), Oct. 19, 1980, 94 Stat. 2240; Pub. L. 96–513, title V, § 511(40), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 96–527, title VII, § 772, Dec. 15, 1980, 94 Stat. 3093; Pub. L. 99–145, title XII, § 1225(a)(1), (2)(A), Nov. 8, 1985, 99 Stat. 730; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 **Editorial Notes**
 
@@ -565,7 +565,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–145, title XII, § 1225(a)(3), Nov. 8, 1985, 99 Stat. 730, provided that: “The amendments made by this subsection [amending this section] shall take effect on October 1, 1985.”
+Pub. L. 99–145, title XII, § 1225(a)(3), Nov. 8, 1985, 99 Stat. 730, provided that: “The amendments made by this subsection [amending this section] shall take effect on October 1, 1985.”
 
 **Effective Date of 1980 Amendment**
 
@@ -583,7 +583,7 @@ For transfer of functions of Public Health Service, see note set out under secti
 
 **Ex. Ord. No. 11438. Procedures Governing Interdepartmental Cash Awards**
 
-Ex. Ord. No. 11438, Dec. 3, 1968, 33 F.R. 18085, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 13286, § 63, Feb. 28, 2003, 68 F.R. 10629, provided:
+Ex. Ord. No. 11438, Dec. 3, 1968, 33 F.R. 18085, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 13286, § 63, Feb. 28, 2003, 68 F.R. 10629, provided:
 
 By virtue of the authority vested in me by section 1124(b) and (e) of title 10, United States Code, and section 301 of title 3, United States Code, and as President of the United States, it is ordered as follows:
 
@@ -595,7 +595,7 @@ Sec. 3. No cash awards hereunder for a single suggestion, invention, or scientif
 
 Sec. 4. Funds to cover the costs of cash awards to members of the armed forces shall be transferred from the account of any executive department or agency which recommends the award to the appropriate account of the Department of Homeland Security or the Department of Defense, as the case may be. When several executive departments or agencies benefit from the adoption or use of the suggestion, invention, or scientific achievement, the amount transferred from each such benefiting department or agency to the Department of Homeland Security or the Department of Defense to cover the proportionate share of the cost of the cash award shall be determined under procedures prescribed by the Office of Personnel Management in accordance with the same guidelines and standards applying to awards to civilian employees.
 
-## § 1124a. Cyber operations-peculiar awards
+## § 1124a. Cyber operations-peculiar awards
 
 **(a) Authority.—** The Secretary of Defense and the Secretaries of the military departments may authorize the payment of a cash award to, and incur necessary expense for the honorary recognition of, a member of the covered armed forces whose novel actions, invention, or technical achievement enables or ensures operational outcomes in or through cyberspace against threats to national security.
 
@@ -613,9 +613,9 @@ Sec. 4. Funds to cover the costs of cash awards to members of the armed forces s
 
 **(f) Covered Armed Forces Defined.—** In this section, the term “covered armed forces” means the Army, Navy, Air Force, Marine Corps, and Space Force.
 
-(Added Pub. L. 117–263, div. A, title XV, § 1531, Dec. 23, 2022, 136 Stat. 2900.)
+(Added Pub. L. 117–263, div. A, title XV, § 1531, Dec. 23, 2022, 136 Stat. 2900.)
 
-## § 1125. Recognition for accomplishments: award of trophies
+## § 1125. Recognition for accomplishments: award of trophies
 
 The Secretary of Defense may—
 
@@ -623,13 +623,13 @@ The Secretary of Defense may—
 
 **(2)** provide badges or buttons in recognition of special service, good conduct, and discharge under conditions other than dishonorable.
 
-(Added Pub. L. 89–529, § 1(1), Aug. 11, 1966, 80 Stat. 339.)
+(Added Pub. L. 89–529, § 1(1), Aug. 11, 1966, 80 Stat. 339.)
 
 **Executive Documents**
 
 **Ex. Ord. No. 11545. Defense Distinguished Service Medal**
 
-Ex. Ord. 11545, July 9, 1970, 35 F.R. 11161, as amended by Ex. Ord. No. 14085, § 6, Oct. 3, 2022, 87 F.R. 60543, provided:
+Ex. Ord. 11545, July 9, 1970, 35 F.R. 11161, as amended by Ex. Ord. No. 14085, § 6, Oct. 3, 2022, 87 F.R. 60543, provided:
 
 By virtue of the authority vested in me as President of the United States and as Commander in Chief of the Armed Forces of the United States, it is ordered as follows:
 
@@ -641,7 +641,7 @@ Sec. 3. No more than one Defense Distinguished Service Medal shall be awarded to
 
 Sec. 4. The Defense Distinguished Service Medal or device may be awarded posthumously and, when so awarded, may be presented to such representative of the deceased as may be deemed appropriate by the Secretary of Defense.
 
-## § 1126. Gold star lapel button: eligibility and distribution
+## § 1126. Gold star lapel button: eligibility and distribution
 
 **(a)** A lapel button, to be known as the gold star lapel button, shall be designed, as approved by the Secretary of Defense, to identify next of kin of members of the armed forces—
 
@@ -677,37 +677,37 @@ Sec. 4. The Defense Distinguished Service Medal or device may be awarded posthum
 
 **(5)** The term “peacekeeping force” includes those personnel assigned to a force engaged in a peacekeeping operation authorized by the United Nations Security Council.
 
-(Added Pub. L. 89–534, § 1(1), Aug. 11, 1966, 80 Stat. 345, § 1124; renumbered § 1126, Pub. L. 89–718, § 9, Nov. 2, 1966, 80 Stat. 1117; amended Pub. L. 98–94, title XII, § 1268(8), Sept. 24, 1983, 97 Stat. 706; Pub. L. 100–26, § 7(k)(5), Apr. 21, 1987, 101 Stat. 284; Pub. L. 103–160, div. A, title XI, § 1143, Nov. 30, 1993, 107 Stat. 1757; Pub. L. 116–92, div. A, title V, § 581, Dec. 20, 2019, 133 Stat. 1411.)
+(Added Pub. L. 89–534, § 1(1), Aug. 11, 1966, 80 Stat. 345, § 1124; renumbered § 1126, Pub. L. 89–718, § 9, Nov. 2, 1966, 80 Stat. 1117; amended Pub. L. 98–94, title XII, § 1268(8), Sept. 24, 1983, 97 Stat. 706; Pub. L. 100–26, § 7(k)(5), Apr. 21, 1987, 101 Stat. 284; Pub. L. 103–160, div. A, title XI, § 1143, Nov. 30, 1993, 107 Stat. 1757; Pub. L. 116–92, div. A, title V, § 581, Dec. 20, 2019, 133 Stat. 1411.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 1 to 3 of act Aug. 1, 1947, ch. 426, 61 Stat. 710, which were classified to sections 182a to 182c of former Title 36, Patriotic Societies and Observances, prior to repeal by Pub. L. 89–534, § 2, Aug. 11, 1966, 80 Stat. 345.
+Provisions similar to those in this section were contained in sections 1 to 3 of act Aug. 1, 1947, ch. 426, 61 Stat. 710, which were classified to sections 182a to 182c of former Title 36, Patriotic Societies and Observances, prior to repeal by Pub. L. 89–534, § 2, Aug. 11, 1966, 80 Stat. 345.
 
 **Amendments**
 
-2019—Subsec. (a). Pub. L. 116–92, § 581(a)(1), struck out “widows, parents, and” after “identify” in introductory provisions.
+2019—Subsec. (a). Pub. L. 116–92, § 581(a)(1), struck out “widows, parents, and” after “identify” in introductory provisions.
 
-Subsec. (b). Pub. L. 116–92, § 581(a)(2), substituted “each” for “the widow and to each parent and”.
+Subsec. (b). Pub. L. 116–92, § 581(a)(2), substituted “each” for “the widow and to each parent and”.
 
-Subsec. (c). Pub. L. 116–92, § 581(b), substituted “and without cost.” for “and payment of an amount sufficient to cover the cost of manufacture and distribution.”
+Subsec. (c). Pub. L. 116–92, § 581(b), substituted “and without cost.” for “and payment of an amount sufficient to cover the cost of manufacture and distribution.”
 
-Subsec. (d). Pub. L. 116–92, § 581(a)(3), added par. (1), redesignated pars. (5) to (8) as (2) to (5), respectively, and struck out former pars. (1), (2), (3), and (4) which defined “widow”, “parents”, “next of kin”, and “children”, respectively.
+Subsec. (d). Pub. L. 116–92, § 581(a)(3), added par. (1), redesignated pars. (5) to (8) as (2) to (5), respectively, and struck out former pars. (1), (2), (3), and (4) which defined “widow”, “parents”, “next of kin”, and “children”, respectively.
 
-1993—Subsec. (a). Pub. L. 103–160, § 1143(a), struck out “of the United States” after “armed forces” in introductory provisions, redesignated cls. (i) to (iii) of par. (2) as subpars. (A) to (C), respectively, and added par. (3).
+1993—Subsec. (a). Pub. L. 103–160, § 1143(a), struck out “of the United States” after “armed forces” in introductory provisions, redesignated cls. (i) to (iii) of par. (2) as subpars. (A) to (C), respectively, and added par. (3).
 
-Subsec. (d)(7), (8). Pub. L. 103–160, § 1143(b), added pars. (7) and (8).
+Subsec. (d)(7), (8). Pub. L. 103–160, § 1143(b), added pars. (7) and (8).
 
-1987—Subsec. (d). Pub. L. 100–26 substituted colon for dash at end of introductory provisions, inserted “The term” in each par., and substituted periods for semicolons in pars. (1) to (4) and period for “; and” in par. (5).
+1987—Subsec. (d). Pub. L. 100–26 substituted colon for dash at end of introductory provisions, inserted “The term” in each par., and substituted periods for semicolons in pars. (1) to (4) and period for “; and” in par. (5).
 
 1983—Subsec. (a)(1). Pub. L. 98–94 substituted “who” for “Who”.
 
-## § 1127. Precedence of the award of the Purple Heart
+## § 1127. Precedence of the award of the Purple Heart
 
 In prescribing regulations establishing the order of precedence of awards and decorations authorized to be displayed on the uniforms of members of the armed forces, the Secretary of the military department concerned shall accord the Purple Heart a position of precedence, in relation to other awards and decorations authorized to be displayed, not lower than that immediately following the bronze star.
 
-(Added Pub. L. 98–525, title V, § 553(a), Oct. 19, 1984, 98 Stat. 2532; amended Pub. L. 99–145, title V, § 533, Nov. 8, 1985, 99 Stat. 634.)
+(Added Pub. L. 98–525, title V, § 553(a), Oct. 19, 1984, 98 Stat. 2532; amended Pub. L. 99–145, title V, § 533, Nov. 8, 1985, 99 Stat. 634.)
 
 **Editorial Notes**
 
@@ -715,7 +715,7 @@ In prescribing regulations establishing the order of precedence of awards and de
 
 1985—Pub. L. 99–145 substituted “the bronze star” for “the lowest position accorded any award or decoration for valor”.
 
-## § 1128. Prisoner-of-war medal: issue
+## § 1128. Prisoner-of-war medal: issue
 
 **(a)** The Secretary concerned shall issue a prisoner-of-war medal to any person who, while serving in any capacity with the armed forces, was taken prisoner and held captive—
 
@@ -745,15 +745,15 @@ In prescribing regulations establishing the order of precedence of awards and de
 
 **(i)** The Secretary of Defense shall ensure that regulations prescribed by the Secretaries of the military departments under this section are uniform so far as practicable.
 
-(Added Pub. L. 99–145, title V, § 532(a)(1), Nov. 8, 1985, 99 Stat. 633; amended Pub. L. 101–189, div. A, title V, § 516(a), Nov. 29, 1989, 103 Stat. 1441; Pub. L. 112–239, div. A, title V, § 584, Jan. 2, 2013, 126 Stat. 1767.)
+(Added Pub. L. 99–145, title V, § 532(a)(1), Nov. 8, 1985, 99 Stat. 633; amended Pub. L. 101–189, div. A, title V, § 516(a), Nov. 29, 1989, 103 Stat. 1441; Pub. L. 112–239, div. A, title V, § 584, Jan. 2, 2013, 126 Stat. 1767.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2013—Subsec. (a)(2) to (4). Pub. L. 112–239, § 584(1), inserted “or” at end of par. (2), substituted period at end for “; or” in par. (3), and struck out par. (4) which read as follows: “by foreign armed forces that are hostile to the United States, under circumstances which the Secretary concerned finds to have been comparable to those under which persons have generally been held captive by enemy armed forces during periods of armed conflict.”
+2013—Subsec. (a)(2) to (4). Pub. L. 112–239, § 584(1), inserted “or” at end of par. (2), substituted period at end for “; or” in par. (3), and struck out par. (4) which read as follows: “by foreign armed forces that are hostile to the United States, under circumstances which the Secretary concerned finds to have been comparable to those under which persons have generally been held captive by enemy armed forces during periods of armed conflict.”
 
-Subsecs. (b) to (i). Pub. L. 112–239, § 584(2), (3), added subsec. (b) and redesignated former subsecs. (b) to (h) as (c) to (i), respectively.
+Subsecs. (b) to (i). Pub. L. 112–239, § 584(2), (3), added subsec. (b) and redesignated former subsecs. (b) to (h) as (c) to (i), respectively.
 
 1989—Subsec. (a)(4). Pub. L. 101–189 added par. (4).
 
@@ -761,13 +761,13 @@ Subsecs. (b) to (i). Pub. L. 112–239, § 584(2), (3), added subsec. (b) and 
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–189, div. A, title V, § 516(b), Nov. 29, 1989, 103 Stat. 1442, provided that: “Paragraph (4) of section 1128(a) of title 10, United States Code, as added by subsection (a), applies with respect to periods of captivity after April 5, 1917.”
+Pub. L. 101–189, div. A, title V, § 516(b), Nov. 29, 1989, 103 Stat. 1442, provided that: “Paragraph (4) of section 1128(a) of title 10, United States Code, as added by subsection (a), applies with respect to periods of captivity after April 5, 1917.”
 
 **Effective Date**
 
-Pub. L. 99–145, title V, § 532(b), Nov. 8, 1985, 99 Stat. 634, provided that: “Section 1128 of title 10, United States Code, as added by subsection (a), applies with respect to any person taken prisoner and held captive after April 5, 1917.”
+Pub. L. 99–145, title V, § 532(b), Nov. 8, 1985, 99 Stat. 634, provided that: “Section 1128 of title 10, United States Code, as added by subsection (a), applies with respect to any person taken prisoner and held captive after April 5, 1917.”
 
-## § 1129. Purple Heart: members killed or wounded in action by friendly fire
+## § 1129. Purple Heart: members killed or wounded in action by friendly fire
 
 **(a)** For purposes of the award of the Purple Heart, the Secretary concerned shall treat a member of the armed forces described in subsection (b) in the same manner as a member who is killed or wounded in action as the result of an act of an enemy of the United States.
 
@@ -775,7 +775,7 @@ Pub. L. 99–145, title V, § 532(b), Nov. 8, 1985, 99 Stat. 634, provided tha
 
 **(c)** This section applies to members of the armed forces who are killed or wounded on or after December 7, 1941. In the case of a member killed or wounded as described in subsection (b) on or after December 7, 1941, and before November 30, 1993, the Secretary concerned shall award the Purple Heart under subsection (a) in each case which is known to the Secretary before such date or for which an application is made to the Secretary in such manner as the Secretary requires.
 
-(Added Pub. L. 103–160, div. A, title XI, § 1141(a), Nov. 30, 1993, 107 Stat. 1756; amended Pub. L. 105–85, div. A, title X, § 1073(a)(18), Nov. 18, 1997, 111 Stat. 1901.)
+(Added Pub. L. 103–160, div. A, title XI, § 1141(a), Nov. 30, 1993, 107 Stat. 1756; amended Pub. L. 105–85, div. A, title X, § 1073(a)(18), Nov. 18, 1997, 111 Stat. 1901.)
 
 **Editorial Notes**
 
@@ -787,7 +787,7 @@ Pub. L. 99–145, title V, § 532(b), Nov. 8, 1985, 99 Stat. 634, provided tha
 
 **Enhanced Information Related to Awarding of the Purple Heart; Publication of Award Criteria**
 
-Pub. L. 117–263, div. A, title V, § 584(a), Dec. 23, 2022, 136 Stat. 2611, provided that:
+Pub. L. 117–263, div. A, title V, § 584(a), Dec. 23, 2022, 136 Stat. 2611, provided that:
 
 > “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], each Chief of an Armed Force shall publish on a publicly available website of such Armed Force includes [sic] a link to—
 
@@ -799,7 +799,7 @@ Pub. L. 117–263, div. A, title V, § 584(a), Dec. 23, 2022, 136 Stat. 2611, 
 
 **Award of Purple Heart to Persons Wounded While Held as Prisoners of War Before April 25, 1962**
 
-Pub. L. 104–106, div. A, title V, § 521, Feb. 10, 1996, 110 Stat. 309, as amended by Pub. L. 108–136, div. A, title V, § 544, Nov. 24, 2003, 117 Stat. 1478, provided that:
+Pub. L. 104–106, div. A, title V, § 521, Feb. 10, 1996, 110 Stat. 309, as amended by Pub. L. 108–136, div. A, title V, § 544, Nov. 24, 2003, 117 Stat. 1478, provided that:
 
 > **“(a) Award of Purple Heart.—** For purposes of the award of the Purple Heart, the Secretary concerned (as defined in section 101 of title 10, United States Code) shall treat a former prisoner of war who was wounded before April 25, 1962, while held as a prisoner of war (or while being taken captive) in the same manner as a former prisoner of war who is wounded on or after that date while held as a prisoner of war (or while being taken captive).
 
@@ -821,7 +821,7 @@ Pub. L. 104–106, div. A, title V, § 521, Feb. 10, 1996, 110 Stat. 309, as a
 
 **Ex. Ord. No. 11016. Authorizing Award of the Purple Heart**
 
-Ex. Ord. No. 11016, Apr. 25, 1962, 27 F.R. 4139, as amended by Ex. Ord. No. 11382, § 13(4), Nov. 28, 1967, 32 F.R. 16247; Ex. Ord. No. 12464, Feb. 23, 1984, 49 F.R. 7099; Ex. Ord. No. 13286, § 71, Feb. 28, 2003, 68 F.R. 10630; Ex. Ord. No. 13758, Jan. 12, 2017, 82 F.R. 5321, provided:
+Ex. Ord. No. 11016, Apr. 25, 1962, 27 F.R. 4139, as amended by Ex. Ord. No. 11382, § 13(4), Nov. 28, 1967, 32 F.R. 16247; Ex. Ord. No. 12464, Feb. 23, 1984, 49 F.R. 7099; Ex. Ord. No. 13286, § 71, Feb. 28, 2003, 68 F.R. 10630; Ex. Ord. No. 13758, Jan. 12, 2017, 82 F.R. 5321, provided:
 
 WHEREAS General George Washington, at Newburg-on-the-Hudson, on August 7, 1782, during the War of the Revolution, issued an Order establishing the Honorary Badge of Distinction, otherwise known as the Badge of Military Merit or Decoration of the Purple Heart; and
 
@@ -875,7 +875,7 @@ NOW, THEREFORE, by virtue of the authority vested in me as President of the Unit
 
 \9. This order supersedes Executive Order No. 10409 of November 12, 1952, entitled “Award of the Purple Heart to Persons Serving with the Navy, Marine Corps, or Coast Guard of the United States”. However, existing regulations prescribed pursuant to that order, together with regulations prescribed under the authority of General Orders No. 3, War Department, February 22, 1932, shall, so far as they are not inconsistent with this order, remain in effect until modified or revoked by regulations prescribed by the Secretary of the department concerned under this order.
 
-## § 1129a. Purple Heart: members killed or wounded in attacks by foreign terrorist organizations
+## § 1129a. Purple Heart: members killed or wounded in attacks by foreign terrorist organizations
 
 **(a) In General.—** For purposes of the award of the Purple Heart, the Secretary concerned shall treat a member of the armed forces described in subsection (b) in the same manner as a member who is killed or wounded as a result of an international terrorist attack against the United States.
 
@@ -891,13 +891,13 @@ NOW, THEREFORE, by virtue of the authority vested in me as President of the Unit
 
 **(c) Foreign Terrorist Organization Defined.—** In this section, the term “foreign terrorist organization” means an entity designated as a foreign terrorist organization by the Secretary of State pursuant to section 219 of the Immigration and Nationality Act (8 U.S.C. 1189).
 
-(Added Pub. L. 113–291, div. A, title V, § 571(a)(1)(A), Dec. 19, 2014, 128 Stat. 3387.)
+(Added Pub. L. 113–291, div. A, title V, § 571(a)(1)(A), Dec. 19, 2014, 128 Stat. 3387.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Retroactive Effective Date and Application**
 
-Pub. L. 113–291, div. A, title V, § 571(a)(2), Dec. 19, 2014, 128 Stat. 3387, provided that:
+Pub. L. 113–291, div. A, title V, § 571(a)(2), Dec. 19, 2014, 128 Stat. 3387, provided that:
 
 > **“(A) Effective date.—** The amendments made by paragraph (1) [enacting this section] shall take effect as of September 11, 2001.
 
@@ -907,7 +907,7 @@ Pub. L. 113–291, div. A, title V, § 571(a)(2), Dec. 19, 2014, 128 Stat. 338
 
 > **“(D) Secretary concerned defined.—** In this paragraph, the term ‘Secretary concerned’ has the meaning given that term in section 101(a)(9) of title 10, United States Code.”
 
-## § 1130. Consideration of proposals for decorations not previously submitted in timely fashion: procedures for review
+## § 1130. Consideration of proposals for decorations not previously submitted in timely fashion: procedures for review
 
 **(a)** Upon request of a Member of Congress, the Secretary concerned shall review a proposal for the award or presentation of a decoration (or the upgrading of a decoration), either for an individual or a unit, that is not otherwise authorized to be presented or awarded due to limitations established by law or policy for timely submission of a recommendation for such award or presentation. Based upon such review, the Secretary shall make a determination as to the merits of approving the award or presentation of the decoration.
 
@@ -925,7 +925,7 @@ Pub. L. 113–291, div. A, title V, § 571(a)(2), Dec. 19, 2014, 128 Stat. 338
 
 **(2)** The term “decoration” means any decoration or award that may be presented or awarded to a member or unit of the armed forces.
 
-(Added Pub. L. 104–106, div. A, title V, § 526(a), Feb. 10, 1996, 110 Stat. 313; amended Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, § 1031(a)(10), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 112–81, div. A, title V, § 524, Dec. 31, 2011, 125 Stat. 1401.)
+(Added Pub. L. 104–106, div. A, title V, § 526(a), Feb. 10, 1996, 110 Stat. 313; amended Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, § 1031(a)(10), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 112–81, div. A, title V, § 524, Dec. 31, 2011, 125 Stat. 1401.)
 
 **Editorial Notes**
 
@@ -933,11 +933,11 @@ Pub. L. 113–291, div. A, title V, § 571(a)(2), Dec. 19, 2014, 128 Stat. 338
 
 2011—Subsec. (b). Pub. L. 112–81 inserted at end “If the determination includes a favorable recommendation for the award of the Medal of Honor, the Secretary of Defense, instead of the Secretary concerned, shall make the submission under this subsection.”
 
-2003—Pub. L. 108–136, § 1031(a)(10)(B), struck out “and recommendation” after “review” in section catchline.
+2003—Pub. L. 108–136, § 1031(a)(10)(B), struck out “and recommendation” after “review” in section catchline.
 
-Subsec. (a). Pub. L. 108–136, § 1031(a)(10)(A)(i), struck out “and the other determinations necessary to comply with subsection (b)” after “of the decoration”.
+Subsec. (a). Pub. L. 108–136, § 1031(a)(10)(A)(i), struck out “and the other determinations necessary to comply with subsection (b)” after “of the decoration”.
 
-Subsec. (b). Pub. L. 108–136, § 1031(a)(10)(A)(ii), substituted “to the requesting Member of Congress a detailed discussion of the rationale supporting the determination.” for “to the requesting member of Congress notice in writing of one of the following:
+Subsec. (b). Pub. L. 108–136, § 1031(a)(10)(A)(ii), substituted “to the requesting Member of Congress a detailed discussion of the rationale supporting the determination.” for “to the requesting member of Congress notice in writing of one of the following:
 
 “(1) The award or presentation of the decoration does not warrant approval on the merits.
 
@@ -955,7 +955,7 @@ A notice under paragraph (1) or (4) shall be accompanied by a statement of the r
 
 **Eligibility for Armed Forces Expeditionary Medal for Participation in Operation Joint Endeavor or Operation Joint Guard**
 
-Pub. L. 105–85, div. A, title V, § 572, Nov. 18, 1997, 111 Stat. 1756, provided that:
+Pub. L. 105–85, div. A, title V, § 572, Nov. 18, 1997, 111 Stat. 1756, provided that:
 
 > **“(a) Inclusion of Operations.—** For the purpose of determining the eligibility of members and former members of the Armed Forces for the Armed Forces Expeditionary Medal, the Secretary of Defense shall designate participation in Operation Joint Endeavor or Operation Joint Guard in the Republic of Bosnia and Herzegovina, and in such other areas in the region as the Secretary considers appropriate, as service in an area that meets the general requirements for the award of that medal.
 
@@ -975,11 +975,11 @@ Pub. L. 105–85, div. A, title V, § 572, Nov. 18, 1997, 111 Stat. 1756, prov
 
 **Eligibility of Certain World War II Military Organizations for Award of Unit Decorations**
 
-Pub. L. 105–85, div. A, title V, § 576, Nov. 18, 1997, 111 Stat. 1758, authorized award of a unit decoration for any unit or other organization of the Armed Forces that had supported the planning or execution of combat operations during World War II primarily through unit personnel who had been attached to other units of the Armed Forces or of other allied armed forces, and that had not been otherwise eligible for award of the decoration by reason of not usually having been deployed as a unit in support of such operations, and required that any recommendation for such an award be submitted to the Secretary concerned not later than two years after Nov. 18, 1997.
+Pub. L. 105–85, div. A, title V, § 576, Nov. 18, 1997, 111 Stat. 1758, authorized award of a unit decoration for any unit or other organization of the Armed Forces that had supported the planning or execution of combat operations during World War II primarily through unit personnel who had been attached to other units of the Armed Forces or of other allied armed forces, and that had not been otherwise eligible for award of the decoration by reason of not usually having been deployed as a unit in support of such operations, and required that any recommendation for such an award be submitted to the Secretary concerned not later than two years after Nov. 18, 1997.
 
 **Authority To Award Decorations Recognizing Acts of Valor Performed in Combat During the Vietnam Conflict**
 
-Pub. L. 104–106, div. A, title V, § 522, Feb. 10, 1996, 110 Stat. 310, provided that:
+Pub. L. 104–106, div. A, title V, § 522, Feb. 10, 1996, 110 Stat. 310, provided that:
 
 > **“(a) Findings.—** Congress makes the following findings:
 
@@ -1031,7 +1031,7 @@ Pub. L. 104–106, div. A, title V, § 522, Feb. 10, 1996, 110 Stat. 310, prov
 
 **Military Intelligence Personnel Prevented by Secrecy From Being Considered for Decorations and Awards**
 
-Pub. L. 104–106, div. A, title V, § 523, Feb. 10, 1996, 110 Stat. 311, as amended by Pub. L. 105–85, div. A, title V, § 575, Nov. 18, 1997, 111 Stat. 1758, provided that:
+Pub. L. 104–106, div. A, title V, § 523, Feb. 10, 1996, 110 Stat. 311, as amended by Pub. L. 105–85, div. A, title V, § 575, Nov. 18, 1997, 111 Stat. 1758, provided that:
 
 > **“(a) Waiver on Restrictions of Awards.—**
 
@@ -1065,17 +1065,17 @@ Pub. L. 104–106, div. A, title V, § 523, Feb. 10, 1996, 110 Stat. 311, as a
 
 **Eligibility for Armed Forces Expeditionary Medal Based Upon Service in El Salvador**
 
-Pub. L. 104–106, div. A, title V, § 525, Feb. 10, 1996, 110 Stat. 312, provided that:
+Pub. L. 104–106, div. A, title V, § 525, Feb. 10, 1996, 110 Stat. 312, provided that:
 
 > **“(a) In General.—** For the purpose of determining eligibility of members and former members of the Armed Forces for the Armed Forces Expeditionary Medal, the country of El Salvador during the period beginning on January 1, 1981 and ending on February 1, 1992, shall be treated as having been designated as an area and a period of time in which members of the Armed Forces participated in operations in significant numbers and otherwise met the general requirements for the award of that medal.
 
 > **“(b) Individual Determination.—** The Secretary of the military department concerned shall determine whether individual members or former members of the Armed Forces who served in El Salvador during the period beginning on January 1, 1981 and ending on February 1, 1992 meet the individual service requirements for award of the Armed Forces Expeditionary Medal as established in applicable regulations. Such determinations shall be made as expeditiously as possible after the date of the enactment of this Act [Feb. 10, 1996].”
 
-## § 1131. Purple Heart: limitation to members of the armed forces
+## § 1131. Purple Heart: limitation to members of the armed forces
 
 The decoration known as the Purple Heart (authorized to be awarded pursuant to Executive Order 11016) may only be awarded to a person who is a member of the armed forces at the time the person is killed or wounded under circumstances otherwise qualifying that person for award of the Purple Heart.
 
-(Added Pub. L. 105–85, div. A, title V, § 571(a)(1), Nov. 18, 1997, 111 Stat. 1756.)
+(Added Pub. L. 105–85, div. A, title V, § 571(a)(1), Nov. 18, 1997, 111 Stat. 1756.)
 
 **Editorial Notes**
 
@@ -1087,9 +1087,9 @@ Executive Order 11016, referred to in text, is Ex. Ord. No. 11016, Apr. 25, 1962
 
 **Effective Date**
 
-Pub. L. 105–85, div. A, title V, § 571(b), Nov. 18, 1997, 111 Stat. 1756, provided that: “Section 1131 of title 10, United States Code, as added by subsection (a), shall apply with respect to persons who are killed or wounded after the end of the 180-day period beginning on the date of the enactment of this Act [Nov. 18, 1997].”
+Pub. L. 105–85, div. A, title V, § 571(b), Nov. 18, 1997, 111 Stat. 1756, provided that: “Section 1131 of title 10, United States Code, as added by subsection (a), shall apply with respect to persons who are killed or wounded after the end of the 180-day period beginning on the date of the enactment of this Act [Nov. 18, 1997].”
 
-## § 1132. Presentation of decorations: prohibition on entering correctional facilities for presentation to prisoners convicted of serious violent felonies
+## § 1132. Presentation of decorations: prohibition on entering correctional facilities for presentation to prisoners convicted of serious violent felonies
 
 **(a) Prohibition.—** A member of the armed forces may not enter a Federal, State, local, or foreign correctional facility to present a decoration to a person who is incarcerated due to conviction of a serious violent felony.
 
@@ -1099,9 +1099,9 @@ Pub. L. 105–85, div. A, title V, § 571(b), Nov. 18, 1997, 111 Stat. 1756, p
 
 **(2)** The term “serious violent felony” has the meaning given that term in section 3559(c)(2)(F) of title 18.
 
-(Added Pub. L. 105–261, div. A, title V, § 537(a), Oct. 17, 1998, 112 Stat. 2019.)
+(Added Pub. L. 105–261, div. A, title V, § 537(a), Oct. 17, 1998, 112 Stat. 2019.)
 
-## § 1133. Bronze Star: limitation on persons eligible to receive
+## § 1133. Bronze Star: limitation on persons eligible to receive
 
 The decoration known as the “Bronze Star” may only be awarded to a member of a military force who—
 
@@ -1109,7 +1109,7 @@ The decoration known as the “Bronze Star” may only be awarded to a member of
 
 **(2)** receives special pay under section 310 or paragraph (1) or (3) of section 351(a) of title 37 as a result of those events.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title V, § 541(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–114; amended Pub. L. 111–383, div. A, title V, § 571(a), Jan. 7, 2011, 124 Stat. 4222.)
+(Added Pub. L. 106–398, § 1 [[div. A], title V, § 541(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–114; amended Pub. L. 111–383, div. A, title V, § 571(a), Jan. 7, 2011, 124 Stat. 4222.)
 
 **Editorial Notes**
 
@@ -1121,15 +1121,15 @@ The decoration known as the “Bronze Star” may only be awarded to a member of
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 111–383, div. A, title V, § 571(c), Jan. 7, 2011, 124 Stat. 4223, provided that: “The amendment made by subsection (a) [amending this section] applies to the award of the Bronze Star after October 30, 2000.”
+Pub. L. 111–383, div. A, title V, § 571(c), Jan. 7, 2011, 124 Stat. 4223, provided that: “The amendment made by subsection (a) [amending this section] applies to the award of the Bronze Star after October 30, 2000.”
 
-## § 1134. Medal of honor: award to individual interred in Tomb of the Unknowns as representative of casualties of a war
+## § 1134. Medal of honor: award to individual interred in Tomb of the Unknowns as representative of casualties of a war
 
 The medal of honor awarded posthumously to a deceased member of the armed forces who, as an unidentified casualty of a particular war or other armed conflict, is interred in the Tomb of the Unknowns at Arlington National Cemetery, Virginia, is awarded to the member as the representative of the members of the armed forces who died in such war or other armed conflict and whose remains have not been identified, and not to the individual personally.
 
-(Added Pub. L. 108–375, div. A, title V, § 561(a), Oct. 28, 2004, 118 Stat. 1917.)
+(Added Pub. L. 108–375, div. A, title V, § 561(a), Oct. 28, 2004, 118 Stat. 1917.)
 
-## § 1134a. Medal of honor: Army, Navy, Air Force, and Coast Guard Medal of Honor Roll
+## § 1134a. Medal of honor: Army, Navy, Air Force, and Coast Guard Medal of Honor Roll
 
 **(a) Establishment.—** There shall be in the Department of the Army, the Department of the Navy, the Department of the Air Force, and the Department in which the Coast Guard is operating a roll designated as the “Army, Navy, Air Force, and Coast Guard Medal of Honor Roll”.
 
@@ -1139,7 +1139,7 @@ The medal of honor awarded posthumously to a deceased member of the armed forces
 
 **(d) Entitlement to Special Pension; Notice to Secretary of Veterans Affairs.—** The Secretary concerned shall deliver to the Secretary of Veterans Affairs a certified copy of each certificate of enrollment issued under subsection (c). The copy of the certificate shall authorize the Secretary of Veterans Affairs to pay the special pension provided by section 1562 of title 38 to the person named in the certificate.
 
-(Added Pub. L. 113–66, div. A, title V, § 563(a)(1), Dec. 26, 2013, 127 Stat. 767; amended Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(15), Dec. 22, 2023, 137 Stat. 684.)
+(Added Pub. L. 113–66, div. A, title V, § 563(a)(1), Dec. 26, 2013, 127 Stat. 767; amended Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(15), Dec. 22, 2023, 137 Stat. 684.)
 
 **Editorial Notes**
 
@@ -1157,9 +1157,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date**
 
-Pub. L. 113–66, div. A, title V, § 563(d), Dec. 26, 2013, 127 Stat. 768, provided that: “The amendments made by this section [enacting this section, amending section 1562 of Title 38, Veterans’ Benefits, and repealing sections 1560 and 1561 of Title 38] shall apply with respect to Medals of Honor awarded on or after the date of the enactment of this Act [Dec. 26, 2013].”
+Pub. L. 113–66, div. A, title V, § 563(d), Dec. 26, 2013, 127 Stat. 768, provided that: “The amendments made by this section [enacting this section, amending section 1562 of Title 38, Veterans’ Benefits, and repealing sections 1560 and 1561 of Title 38] shall apply with respect to Medals of Honor awarded on or after the date of the enactment of this Act [Dec. 26, 2013].”
 
-## § 1135. Replacement of military decorations
+## § 1135. Replacement of military decorations
 
 **(a) Replacement.—** In addition to other authorities available to the Secretary concerned to replace a military decoration, the Secretary concerned shall replace, on a one-time basis and without charge, a military decoration upon the request of the recipient of the military decoration or the immediate next of kin of a deceased recipient.
 
@@ -1171,7 +1171,7 @@ Pub. L. 113–66, div. A, title V, § 563(d), Dec. 26, 2013, 127 Stat. 768, pr
 
 **(c) Military Decoration Defined.—** In this section, the term “decoration” means any decoration or award (other than the medal of honor) that may be presented or awarded by the President or the Secretary concerned to a member of the armed forces.
 
-(Added Pub. L. 110–417, [div. A], title V, § 571(a), Oct. 14, 2008, 122 Stat. 4471; amended Pub. L. 113–66, div. A, title V, § 564, Dec. 26, 2013, 127 Stat. 768; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840.)
+(Added Pub. L. 110–417, [div. A], title V, § 571(a), Oct. 14, 2008, 122 Stat. 4471; amended Pub. L. 113–66, div. A, title V, § 564, Dec. 26, 2013, 127 Stat. 768; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
 **Editorial Notes**
 
@@ -1187,8 +1187,8 @@ Pub. L. 113–66, div. A, title V, § 563(d), Dec. 26, 2013, 127 Stat. 768, pr
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 1136. Honorable service requirement for award of military decorations
+## § 1136. Honorable service requirement for award of military decorations
 
 No military decoration, including a medal, cross, or bar, or an associated emblem or insignia, may be awarded or presented to any person, or to a representative of the person, if the service of the person after the person distinguished himself or herself has not been honorable.
 
-(Added Pub. L. 116–92, div. A, title V, § 582(a)(1), Dec. 20, 2019, 133 Stat. 1411.)
+(Added Pub. L. 116–92, div. A, title V, § 582(a)(1), Dec. 20, 2019, 133 Stat. 1411.)

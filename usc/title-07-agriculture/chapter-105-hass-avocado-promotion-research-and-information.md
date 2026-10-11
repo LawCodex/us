@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 105—HASS AVOCADO PROMOTION, RESEARCH, AND INFORMATION
 
-## § 7801. Findings and declaration of policy
+## § 7801. Findings and declaration of policy
 
 **(a) Findings** Congress finds the following:
 
@@ -41,15 +41,15 @@ retrieved: 2026-10-11
 
 Nothing in this chapter may be construed to provide for the control of production or otherwise limit the right of any person to produce, handle, or import Hass avocados.
 
-(Pub. L. 106–387, § 1(a) [title XII, § 1202], Oct. 28, 2000, 114 Stat. 1549, 1549A–79.)
+(Pub. L. 106–387, § 1(a) [title XII, § 1202], Oct. 28, 2000, 114 Stat. 1549, 1549A–79.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 106–387, § 1(a) [title XII, § 1201], Oct. 28, 2000, 114 Stat. 1549, 1549A–79, provided that: “This title [enacting this chapter] may be cited as the ‘Hass Avocado Promotion, Research, and Information Act of 2000’.”
+Pub. L. 106–387, § 1(a) [title XII, § 1201], Oct. 28, 2000, 114 Stat. 1549, 1549A–79, provided that: “This title [enacting this chapter] may be cited as the ‘Hass Avocado Promotion, Research, and Information Act of 2000’.”
 
-## § 7802. Definitions
+## § 7802. Definitions
 
 As used in this chapter:
 
@@ -141,7 +141,7 @@ The term “State” means each of the several States of the United States, the 
 
 The term “United States” means the United States collectively.
 
-(Pub. L. 106–387, § 1(a) [title XII, § 1203], Oct. 28, 2000, 114 Stat. 1549, 1549A–79.)
+(Pub. L. 106–387, § 1(a) [title XII, § 1203], Oct. 28, 2000, 114 Stat. 1549, 1549A–79.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -149,7 +149,7 @@ The term “United States” means the United States collectively.
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-## § 7803. Issuance of orders
+## § 7803. Issuance of orders
 
 **(a) In general**
 
@@ -189,9 +189,9 @@ The order shall be issued and become effective only after an affirmative vote in
 
 The Secretary, from time to time, may amend an order. The provisions of this chapter applicable to an order shall be applicable to any amendment to an order.
 
-(Pub. L. 106–387, § 1(a) [title XII, § 1204], Oct. 28, 2000, 114 Stat. 1549, 1549A–81.)
+(Pub. L. 106–387, § 1(a) [title XII, § 1204], Oct. 28, 2000, 114 Stat. 1549, 1549A–81.)
 
-## § 7804. Required terms in orders
+## § 7804. Required terms in orders
 
 **(a) In general**
 
@@ -583,13 +583,13 @@ A committee appointed under subparagraph (A) shall consult directly with the Boa
 
 The order shall contain such other terms and provisions, consistent with this chapter, as are necessary to carry out this chapter (including provision for the assessment of interest and a charge for each late payment of assessments under subsection (h)).
 
-(Pub. L. 106–387, § 1(a) [title XII, § 1205], Oct. 28, 2000, 114 Stat. 1549, 1549A–82.)
+(Pub. L. 106–387, § 1(a) [title XII, § 1205], Oct. 28, 2000, 114 Stat. 1549, 1549A–82.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Commodity Promotion, Research, and Information Act of 1996, referred to in subsec. (c)(7), is subtitle B of title V of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 1032, which is classified generally to subchapter II (§ 7411 et seq.) of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+The Commodity Promotion, Research, and Information Act of 1996, referred to in subsec. (c)(7), is subtitle B of title V of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 1032, which is classified generally to subchapter II (§ 7411 et seq.) of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -597,7 +597,7 @@ The Commodity Promotion, Research, and Information Act of 1996, referred to in s
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-## § 7805. Referenda
+## § 7805. Referenda
 
 **(a) Requirements for initial referendum**
 
@@ -649,9 +649,9 @@ The Secretary shall notify all producers and importers at least 30 days prior to
 
 **(2)** suspend or terminate, as appropriate, activities under the order as soon as practicable and in an orderly manner.
 
-(Pub. L. 106–387, § 1(a) [title XII, § 1206], Oct. 28, 2000, 114 Stat. 1549, 1549A–91.)
+(Pub. L. 106–387, § 1(a) [title XII, § 1206], Oct. 28, 2000, 114 Stat. 1549, 1549A–91.)
 
-## § 7806. Petition and review
+## § 7806. Petition and review
 
 **(a) Petition and hearing**
 
@@ -693,7 +693,7 @@ Service of process in proceedings under this subsection shall be conducted in ac
 
 The pendency of proceedings instituted under this section shall not impede, hinder, or delay the Attorney General or the Secretary from obtaining relief under section 7807 of this title.
 
-(Pub. L. 106–387, § 1(a) [title XII, § 1207], Oct. 28, 2000, 114 Stat. 1549, 1549A–92.)
+(Pub. L. 106–387, § 1(a) [title XII, § 1207], Oct. 28, 2000, 114 Stat. 1549, 1549A–92.)
 
 **Editorial Notes**
 
@@ -701,7 +701,7 @@ The pendency of proceedings instituted under this section shall not impede, hind
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(2), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-## § 7807. Enforcement
+## § 7807. Enforcement
 
 **(a) Jurisdiction**
 
@@ -779,9 +779,9 @@ In an action by the Attorney General under paragraph (1), the validity and appro
 
 The remedies provided in this chapter shall be in addition to, and not exclusive of, other remedies that may be available.
 
-(Pub. L. 106–387, § 1(a) [title XII, § 1208], Oct. 28, 2000, 114 Stat. 1549, 1549A–93.)
+(Pub. L. 106–387, § 1(a) [title XII, § 1208], Oct. 28, 2000, 114 Stat. 1549, 1549A–93.)
 
-## § 7808. Investigations and power to subpoena
+## § 7808. Investigations and power to subpoena
 
 **(a) Investigations**
 
@@ -815,9 +815,9 @@ Any failure to obey the order of the court may be punished by the court as a con
 
 Process in any proceeding under this subsection may be served in the United States judicial district in which the person being proceeded against resides or conducts business, or wherever the person may be found.
 
-(Pub. L. 106–387, § 1(a) [title XII, § 1209], Oct. 28, 2000, 114 Stat. 1549, 1549A–95.)
+(Pub. L. 106–387, § 1(a) [title XII, § 1209], Oct. 28, 2000, 114 Stat. 1549, 1549A–95.)
 
-## § 7809. Confidentiality
+## § 7809. Confidentiality
 
 **(a) Prohibition**
 
@@ -835,9 +835,9 @@ No information obtained under this chapter may be made available to any agency o
 
 Nothing in this chapter shall be construed to authorize the withholding of information from Congress.
 
-(Pub. L. 106–387, § 1(a) [title XII, § 1210], Oct. 28, 2000, 114 Stat. 1549, 1549A–96.)
+(Pub. L. 106–387, § 1(a) [title XII, § 1210], Oct. 28, 2000, 114 Stat. 1549, 1549A–96.)
 
-## § 7810. Authority for Secretary to suspend or terminate order
+## § 7810. Authority for Secretary to suspend or terminate order
 
 **(a) Grounds for suspension or termination**
 
@@ -847,9 +847,9 @@ If the Secretary finds that an order, or any provision of the order, obstructs o
 
 If, as a result of a referendum, the Secretary determines that the order is not approved, the Secretary shall, within 180 days after making the determination, suspend, or terminate, as appropriate, collection of assessments under the order, and suspend or terminate, as appropriate, activities under the order in an orderly manner as soon as possible.
 
-(Pub. L. 106–387, § 1(a) [title XII, § 1211], Oct. 28, 2000, 114 Stat. 1549, 1549A–96.)
+(Pub. L. 106–387, § 1(a) [title XII, § 1211], Oct. 28, 2000, 114 Stat. 1549, 1549A–96.)
 
-## § 7811. Rules of construction
+## § 7811. Rules of construction
 
 **(a) Termination or suspension not an order**
 
@@ -865,15 +865,15 @@ The termination or suspension of an order, or a provision of an order, shall not
 
 Nothing in this chapter may be construed to preempt or supersede any other program relating to Hass avocado promotion, research, industry information, and consumer information organized and operated under the laws of the United States or of a State.
 
-(Pub. L. 106–387, § 1(a) [title XII, § 1212], Oct. 28, 2000, 114 Stat. 1549, 1549A–96.)
+(Pub. L. 106–387, § 1(a) [title XII, § 1212], Oct. 28, 2000, 114 Stat. 1549, 1549A–96.)
 
-## § 7812. Regulations
+## § 7812. Regulations
 
 The Secretary may issue such regulations as are necessary to carry out this chapter and the powers vested in the Secretary by this chapter, including regulations relating to the assessment of late payment charges and interest.
 
-(Pub. L. 106–387, § 1(a) [title XII, § 1213], Oct. 28, 2000, 114 Stat. 1549, 1549A–97.)
+(Pub. L. 106–387, § 1(a) [title XII, § 1213], Oct. 28, 2000, 114 Stat. 1549, 1549A–97.)
 
-## § 7813. Authorization of appropriations
+## § 7813. Authorization of appropriations
 
 **(a) In general**
 
@@ -883,4 +883,4 @@ There are authorized to be appropriated for each fiscal year such sums as are ne
 
 Funds appropriated under subsection (a) may not be used for the payment of the expenses or expenditures of the Board in administering a provision of an order.
 
-(Pub. L. 106–387, § 1(a) [title XII, § 1214], Oct. 28, 2000, 114 Stat. 1549, 1549A–97.)
+(Pub. L. 106–387, § 1(a) [title XII, § 1214], Oct. 28, 2000, 114 Stat. 1549, 1549A–97.)

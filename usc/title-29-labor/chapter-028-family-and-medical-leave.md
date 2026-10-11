@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 28—FAMILY AND MEDICAL LEAVE
 
-## § 2601. Findings and purposes
+## § 2601. Findings and purposes
 
 **(a) Findings** Congress finds that—
 
@@ -43,7 +43,7 @@ retrieved: 2026-10-11
 
 **(5)** to promote the goal of equal employment opportunity for women and men, pursuant to such clause.
 
-(Pub. L. 103–3, § 2, Feb. 5, 1993, 107 Stat. 6.)
+(Pub. L. 103–3, § 2, Feb. 5, 1993, 107 Stat. 6.)
 
 **Editorial Notes**
 
@@ -55,7 +55,7 @@ This Act, referred to in subsec. (b), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat
 
 **Effective Date**
 
-Pub. L. 103–3, title IV, § 405, Feb. 5, 1993, 107 Stat. 26, provided that:
+Pub. L. 103–3, title IV, § 405, Feb. 5, 1993, 107 Stat. 26, provided that:
 
 > **“(a) Title III.—** Title III [enacting subchapter II of this chapter] shall take effect on the date of the enactment of this Act [Feb. 5, 1993].
 
@@ -71,21 +71,21 @@ Pub. L. 103–3, title IV, § 405, Feb. 5, 1993, 107 Stat. 26, provided that:
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–127, § 1, Mar. 18, 2020, 134 Stat. 178, provided that: “This Act [see Tables for classification] may be cited as the ‘Families First Coronavirus Response Act’.”
+Pub. L. 116–127, § 1, Mar. 18, 2020, 134 Stat. 178, provided that: “This Act [see Tables for classification] may be cited as the ‘Families First Coronavirus Response Act’.”
 
-Pub. L. 116–127, div. C, § 3101, Mar. 18, 2020, 134 Stat. 189, provided that: “This Act [div. C of Pub. L. 116–127, enacting section 2620 of this title, amending section 2612 of this title, and enacting provisions set out as notes under section 2620 of this title] may be cited as [the] ‘Emergency Family and Medical Leave Expansion Act’.”
+Pub. L. 116–127, div. C, § 3101, Mar. 18, 2020, 134 Stat. 189, provided that: “This Act [div. C of Pub. L. 116–127, enacting section 2620 of this title, amending section 2612 of this title, and enacting provisions set out as notes under section 2620 of this title] may be cited as [the] ‘Emergency Family and Medical Leave Expansion Act’.”
 
 **Short Title of 2009 Amendment**
 
-Pub. L. 111–119, § 1, Dec. 21, 2009, 123 Stat. 3476, provided that: “This Act [amending sections 2611 and 2612 of this title] may be cited as the ‘Airline Flight Crew Technical Corrections Act’.”
+Pub. L. 111–119, § 1, Dec. 21, 2009, 123 Stat. 3476, provided that: “This Act [amending sections 2611 and 2612 of this title] may be cited as the ‘Airline Flight Crew Technical Corrections Act’.”
 
 **Short Title**
 
-Pub. L. 103–3, § 1(a), Feb. 5, 1993, 107 Stat. 6, provided that: “This Act [enacting this chapter, sections 60m and 60n of Title 2, The Congress, and sections 6381 to 6387 of Title 5, Government Organization and Employees, amending section 2105 of Title 5, and enacting provisions set out above] may be cited as the ‘Family and Medical Leave Act of 1993’.”
+Pub. L. 103–3, § 1(a), Feb. 5, 1993, 107 Stat. 6, provided that: “This Act [enacting this chapter, sections 60m and 60n of Title 2, The Congress, and sections 6381 to 6387 of Title 5, Government Organization and Employees, amending section 2105 of Title 5, and enacting provisions set out above] may be cited as the ‘Family and Medical Leave Act of 1993’.”
 
 **Emergency Paid Sick Leave Related to COVID–19**
 
-Pub. L. 116–127, div. E, Mar. 18, 2020, 134 Stat. 195, as amended by Pub. L. 116–136, div. A, title III, §§ 3602, 3604(b), 3611(2), (5), (6), (8), (9), Mar. 27, 2020, 134 Stat. 410, 411, 414, 415, provided that:
+Pub. L. 116–127, div. E, Mar. 18, 2020, 134 Stat. 195, as amended by Pub. L. 116–136, div. A, title III, §§ 3602, 3604(b), 3611(2), (5), (6), (8), (9), Mar. 27, 2020, 134 Stat. 410, 411, 414, 415, provided that:
 
 > **“SEC. 5101. SHORT TITLE.**
 
@@ -323,7 +323,7 @@ Pub. L. 116–127, div. E, Mar. 18, 2020, 134 Stat. 195, as amended by Pub. L. 1
 
 ## SUBCHAPTER I—GENERAL REQUIREMENTS FOR LEAVE
 
-### § 2611. Definitions
+### § 2611. Definitions
 
 As used in this subchapter:
 
@@ -471,7 +471,7 @@ The term “next of kin”, used with respect to an individual, means the neares
 
 The term “veteran” has the meaning given the term in section 101 of title 38.
 
-(Pub. L. 103–3, title I, § 101, Feb. 5, 1993, 107 Stat. 7; Pub. L. 104–1, title II, § 202(c)(1)(A), Jan. 23, 1995, 109 Stat. 9; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–181, div. A, title V, § 585(a)(1), Jan. 28, 2008, 122 Stat. 128; Pub. L. 111–84, div. A, title V, § 565(a)(1)(A), (2), (3), Oct. 28, 2009, 123 Stat. 2309, 2310; Pub. L. 111–119, § 2(a), Dec. 21, 2009, 123 Stat. 3476; Pub. L. 116–92, div. F, title LXXVI, § 7604(b), Dec. 20, 2019, 133 Stat. 2308.)
+(Pub. L. 103–3, title I, § 101, Feb. 5, 1993, 107 Stat. 7; Pub. L. 104–1, title II, § 202(c)(1)(A), Jan. 23, 1995, 109 Stat. 9; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–181, div. A, title V, § 585(a)(1), Jan. 28, 2008, 122 Stat. 128; Pub. L. 111–84, div. A, title V, § 565(a)(1)(A), (2), (3), Oct. 28, 2009, 123 Stat. 2309, 2310; Pub. L. 111–119, § 2(a), Dec. 21, 2009, 123 Stat. 3476; Pub. L. 116–92, div. F, title LXXVI, § 7604(b), Dec. 20, 2019, 133 Stat. 2308.)
 
 **Editorial Notes**
 
@@ -481,21 +481,21 @@ The term “veteran” has the meaning given the term in section 101 of title 38
 
 2009—Par. (2)(D). Pub. L. 111–119 added subpar. (D).
 
-Par. (14). Pub. L. 111–84, § 565(a)(1)(A)(i), added par. (14) and struck out former par. (14). Prior to amendment, text read as follows: “The term ‘active duty’ means duty under a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) of title 10.”
+Par. (14). Pub. L. 111–84, § 565(a)(1)(A)(i), added par. (14) and struck out former par. (14). Prior to amendment, text read as follows: “The term ‘active duty’ means duty under a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) of title 10.”
 
-Par. (15). Pub. L. 111–84, § 565(a)(2), amended par. (15) generally. Prior to amendment, text read as follows: “The term ‘covered servicemember’ means a member of the Armed Forces, including a member of the National Guard or Reserves, who is undergoing medical treatment, recuperation, or therapy, is otherwise in outpatient status, or is otherwise on the temporary disability retired list, for a serious injury or illness.”
+Par. (15). Pub. L. 111–84, § 565(a)(2), amended par. (15) generally. Prior to amendment, text read as follows: “The term ‘covered servicemember’ means a member of the Armed Forces, including a member of the National Guard or Reserves, who is undergoing medical treatment, recuperation, or therapy, is otherwise in outpatient status, or is otherwise on the temporary disability retired list, for a serious injury or illness.”
 
-Pub. L. 111–84, § 565(a)(1)(A)(ii), redesignated par. (16) as (15) and struck out former par. (15). Prior to amendment, text read as follows: “The term ‘contingency operation’ has the same meaning given such term in section 101(a)(13) of title 10.”
+Pub. L. 111–84, § 565(a)(1)(A)(ii), redesignated par. (16) as (15) and struck out former par. (15). Prior to amendment, text read as follows: “The term ‘contingency operation’ has the same meaning given such term in section 101(a)(13) of title 10.”
 
-Pars. (16), (17). Pub. L. 111–84, § 565(a)(1)(A)(ii), redesignated pars. (17) and (18) as (16) and (17), respectively. Former par. (16) redesignated (15).
+Pars. (16), (17). Pub. L. 111–84, § 565(a)(1)(A)(ii), redesignated pars. (17) and (18) as (16) and (17), respectively. Former par. (16) redesignated (15).
 
-Par. (18). Pub. L. 111–84, § 565(a)(3), added par. (18) and struck out former par. (18). Prior to amendment, text read as follows: “The term ‘serious injury or illness’, in the case of a member of the Armed Forces, including a member of the National Guard or Reserves, means an injury or illness incurred by the member in line of duty on active duty in the Armed Forces that may render the member medically unfit to perform the duties of the member’s office, grade, rank, or rating.”
+Par. (18). Pub. L. 111–84, § 565(a)(3), added par. (18) and struck out former par. (18). Prior to amendment, text read as follows: “The term ‘serious injury or illness’, in the case of a member of the Armed Forces, including a member of the National Guard or Reserves, means an injury or illness incurred by the member in line of duty on active duty in the Armed Forces that may render the member medically unfit to perform the duties of the member’s office, grade, rank, or rating.”
 
-Pub. L. 111–84, § 565(a)(1)(A)(ii), redesignated par. (19) as (18). Former par. (18) redesignated (17).
+Pub. L. 111–84, § 565(a)(1)(A)(ii), redesignated par. (19) as (18). Former par. (18) redesignated (17).
 
-Par. (19). Pub. L. 111–84, § 565(a)(3), added par. (19).
+Par. (19). Pub. L. 111–84, § 565(a)(3), added par. (19).
 
-Pub. L. 111–84, § 565(a)(1)(A)(ii), redesignated par. (19) as (18).
+Pub. L. 111–84, § 565(a)(1)(A)(ii), redesignated par. (19) as (18).
 
 2008—Pars. (14) to (19). Pub. L. 110–181 added pars. (14) to (19).
 
@@ -507,7 +507,7 @@ Pub. L. 111–84, § 565(a)(1)(A)(ii), redesignated par. (19) as (18).
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–92, div. F, title LXXVI, § 7604(c), Dec. 20, 2019, 133 Stat. 2308, provided that: “The amendments made by this section [amending this section and section 2612 of this title] shall not be effective with respect to any birth or placement occurring before October 1, 2020.”
+Pub. L. 116–92, div. F, title LXXVI, § 7604(c), Dec. 20, 2019, 133 Stat. 2308, provided that: “The amendments made by this section [amending this section and section 2612 of this title] shall not be effective with respect to any birth or placement occurring before October 1, 2020.”
 
 **Effective Date of 1995 Amendment**
 
@@ -519,11 +519,11 @@ Section effective 6 months after Feb. 5, 1993, except that, in the case of colle
 
 **Regulations**
 
-Pub. L. 111–84, div. A, title V, § 565(a)(5), Oct. 28, 2009, 123 Stat. 2311, provided that: “In prescribing regulations to carry out the amendments made by this subsection [amending this section and sections 2612 and 2613 of this title], the Secretary of Labor shall consult with the Secretary of Defense and the Secretary of Veterans Affairs, as applicable.”
+Pub. L. 111–84, div. A, title V, § 565(a)(5), Oct. 28, 2009, 123 Stat. 2311, provided that: “In prescribing regulations to carry out the amendments made by this subsection [amending this section and sections 2612 and 2613 of this title], the Secretary of Labor shall consult with the Secretary of Defense and the Secretary of Veterans Affairs, as applicable.”
 
 **FMLA: Including Military Service in Determining Eligibility**
 
-Pub. L. 118–31, div. A, title XI, § 1114(b), Dec. 22, 2023, 137 Stat. 432, provided that:
+Pub. L. 118–31, div. A, title XI, § 1114(b), Dec. 22, 2023, 137 Stat. 432, provided that:
 
 > **“(1) In general.—** A covered employee who has completed 12 months of service which qualifies as honorable active service in the Army, Navy, Air Force, Space Force, or Marine Corps of the United States shall be deemed to have met the service requirement in section 101(1)(A) [probably should be 101(2)(A)] of the Family and Medical Leave Act of 1993 [29 U.S.C. 2611(2)(A)], notwithstanding the requirements of such section 101(1)(A).
 
@@ -541,7 +541,7 @@ Pub. L. 118–31, div. A, title XI, § 1114(b), Dec. 22, 2023, 137 Stat. 432, 
 
 > **“(B)** does not include any member of the Commissioned Corps of the Public Health Service or the Commissioned Corps of the National Oceanic and Atmospheric Administration, [sic]”
 
-### § 2612. Leave requirement
+### § 2612. Leave requirement
 
 **(a) In general**
 
@@ -671,7 +671,7 @@ In any case in which the necessity for leave under subsection (a)(1)(E) is fores
 
 If the leave taken by the husband and wife includes leave described in paragraph (1), the limitation in paragraph (1) shall apply to the leave described in paragraph (1).
 
-(Pub. L. 103–3, title I, § 102, Feb. 5, 1993, 107 Stat. 9; Pub. L. 110–181, div. A, title V, § 585(a)(2), (3)(A)–(D), Jan. 28, 2008, 122 Stat. 129, 130; Pub. L. 111–84, div. A, title V, § 565(a)(1)(B), (4), Oct. 28, 2009, 123 Stat. 2309, 2311; Pub. L. 111–119, § 2(b), Dec. 21, 2009, 123 Stat. 3477; Pub. L. 116–92, div. F, title LXXVI, § 7604(a), Dec. 20, 2019, 133 Stat. 2307; Pub. L. 116–127, div. C, § 3102(a), Mar. 18, 2020, 134 Stat. 189.)
+(Pub. L. 103–3, title I, § 102, Feb. 5, 1993, 107 Stat. 9; Pub. L. 110–181, div. A, title V, § 585(a)(2), (3)(A)–(D), Jan. 28, 2008, 122 Stat. 129, 130; Pub. L. 111–84, div. A, title V, § 565(a)(1)(B), (4), Oct. 28, 2009, 123 Stat. 2309, 2311; Pub. L. 111–119, § 2(b), Dec. 21, 2009, 123 Stat. 3477; Pub. L. 116–92, div. F, title LXXVI, § 7604(a), Dec. 20, 2019, 133 Stat. 2307; Pub. L. 116–127, div. C, § 3102(a), Mar. 18, 2020, 134 Stat. 189.)
 
 **Editorial Notes**
 
@@ -685,43 +685,43 @@ For information regarding the constitutionality of certain provisions of this se
 
 **Amendments**
 
-2020—Subsec. (a)(1)(F). Pub. L. 116–127, § 3102(a)(1), added subpar. (F).
+2020—Subsec. (a)(1)(F). Pub. L. 116–127, § 3102(a)(1), added subpar. (F).
 
-Subsec. (c). Pub. L. 116–127, § 3102(a)(2), substituted “under subsection (a) (other than certain periods of leave under subsection (a)(1)(F))” for “under subsection (a)”.
+Subsec. (c). Pub. L. 116–127, § 3102(a)(2), substituted “under subsection (a) (other than certain periods of leave under subsection (a)(1)(F))” for “under subsection (a)”.
 
-2019—Subsec. (a)(1). Pub. L. 116–92, § 7604(a)(1)(A), inserted “and subsection (d)(3)” after “section 2613 of this title” in introductory provisions.
+2019—Subsec. (a)(1). Pub. L. 116–92, § 7604(a)(1)(A), inserted “and subsection (d)(3)” after “section 2613 of this title” in introductory provisions.
 
-Subsec. (a)(4). Pub. L. 116–92, § 7604(a)(1)(B), substituted “Subject to subsection (d)(3), during” for “During”.
+Subsec. (a)(4). Pub. L. 116–92, § 7604(a)(1)(B), substituted “Subject to subsection (d)(3), during” for “During”.
 
-Subsec. (d)(3), (4). Pub. L. 116–92, § 7604(a)(2), added pars. (3) and (4).
+Subsec. (d)(3), (4). Pub. L. 116–92, § 7604(a)(2), added pars. (3) and (4).
 
-2009—Subsec. (a)(1)(E). Pub. L. 111–84, § 565(a)(1)(B)(i), substituted “covered active duty” for “active duty” in two places and struck out “in support of a contingency operation” before period.
+2009—Subsec. (a)(1)(E). Pub. L. 111–84, § 565(a)(1)(B)(i), substituted “covered active duty” for “active duty” in two places and struck out “in support of a contingency operation” before period.
 
 Subsec. (a)(5). Pub. L. 111–119 added par. (5).
 
-Subsec. (e)(2)(A). Pub. L. 111–84, § 565(a)(4), substituted “parent, or covered servicemember” for “or parent”.
+Subsec. (e)(2)(A). Pub. L. 111–84, § 565(a)(4), substituted “parent, or covered servicemember” for “or parent”.
 
-Subsec. (e)(3). Pub. L. 111–84, § 565(a)(1)(B)(ii), substituted “covered active duty” for “active duty” in heading and in two places in text and struck out “in support of a contingency operation” before “, the employee shall provide”.
+Subsec. (e)(3). Pub. L. 111–84, § 565(a)(1)(B)(ii), substituted “covered active duty” for “active duty” in heading and in two places in text and struck out “in support of a contingency operation” before “, the employee shall provide”.
 
-2008—Subsec. (a)(1)(E). Pub. L. 110–181, § 585(a)(2)(A), added subpar. (E).
+2008—Subsec. (a)(1)(E). Pub. L. 110–181, § 585(a)(2)(A), added subpar. (E).
 
-Subsec. (a)(3), (4). Pub. L. 110–181, § 585(a)(2)(B), added pars. (3) and (4).
+Subsec. (a)(3), (4). Pub. L. 110–181, § 585(a)(2)(B), added pars. (3) and (4).
 
-Subsec. (b)(1). Pub. L. 110–181, § 585(a)(3)(A)(i), (ii), in second sentence, substituted “subsection (b)(5) or (f) (as appropriate) of section 2613” for “section 2613(b)(5)” and inserted “or under subsection (a)(3)” after “subsection (a)(1)” and, after second sentence, inserted “Subject to subsection (e)(3) and section 2613(f) of this title, leave under subsection (a)(1)(E) may be taken intermittently or on a reduced leave schedule.”
+Subsec. (b)(1). Pub. L. 110–181, § 585(a)(3)(A)(i), (ii), in second sentence, substituted “subsection (b)(5) or (f) (as appropriate) of section 2613” for “section 2613(b)(5)” and inserted “or under subsection (a)(3)” after “subsection (a)(1)” and, after second sentence, inserted “Subject to subsection (e)(3) and section 2613(f) of this title, leave under subsection (a)(1)(E) may be taken intermittently or on a reduced leave schedule.”
 
-Subsec. (b)(2). Pub. L. 110–181, § 585(a)(3)(A)(iii), inserted “or under subsection (a)(3)” after “subsection (a)(1)”.
+Subsec. (b)(2). Pub. L. 110–181, § 585(a)(3)(A)(iii), inserted “or under subsection (a)(3)” after “subsection (a)(1)”.
 
-Subsec. (d)(1). Pub. L. 110–181, § 585(a)(3)(B)(i), inserted “(or 26 workweeks in the case of leave provided under subsection (a)(3))” after “fewer than 12 workweeks” and “(or 26 workweeks, as appropriate)” after “attain the 12 workweeks”.
+Subsec. (d)(1). Pub. L. 110–181, § 585(a)(3)(B)(i), inserted “(or 26 workweeks in the case of leave provided under subsection (a)(3))” after “fewer than 12 workweeks” and “(or 26 workweeks, as appropriate)” after “attain the 12 workweeks”.
 
-Subsec. (d)(2)(A). Pub. L. 110–181, § 585(a)(3)(B)(ii), substituted “(C), or (E)” for “or (C)”.
+Subsec. (d)(2)(A). Pub. L. 110–181, § 585(a)(3)(B)(ii), substituted “(C), or (E)” for “or (C)”.
 
-Subsec. (d)(2)(B). Pub. L. 110–181, § 585(a)(3)(B)(iii), inserted at end “An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, family leave, or medical or sick leave of the employee for leave provided under subsection (a)(3) for any part of the 26-week period of such leave under such subsection, except that nothing in this subchapter requires an employer to provide paid sick leave or paid medical leave in any situation in which the employer would not normally provide any such paid leave.”
+Subsec. (d)(2)(B). Pub. L. 110–181, § 585(a)(3)(B)(iii), inserted at end “An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, family leave, or medical or sick leave of the employee for leave provided under subsection (a)(3) for any part of the 26-week period of such leave under such subsection, except that nothing in this subchapter requires an employer to provide paid sick leave or paid medical leave in any situation in which the employer would not normally provide any such paid leave.”
 
-Subsec. (e)(2). Pub. L. 110–181, § 585(a)(3)(C)(i), inserted “or under subsection (a)(3)” after “subsection (a)(1)” in introductory provisions.
+Subsec. (e)(2). Pub. L. 110–181, § 585(a)(3)(C)(i), inserted “or under subsection (a)(3)” after “subsection (a)(1)” in introductory provisions.
 
-Subsec. (e)(3). Pub. L. 110–181, § 585(a)(3)(C)(ii), added par. (3).
+Subsec. (e)(3). Pub. L. 110–181, § 585(a)(3)(C)(ii), added par. (3).
 
-Subsec. (f). Pub. L. 110–181, § 585(a)(3)(D), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and added par. (2).
+Subsec. (f). Pub. L. 110–181, § 585(a)(3)(D), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -739,9 +739,9 @@ Section effective 6 months after Feb. 5, 1993, except that, in the case of colle
 
 **Clarification for Members of the National Guard and Reserves: GAO and Library of Congress Employees**
 
-Pub. L. 116–92, div. F, title LXXVI, § 7605(c), Dec. 20, 2019, 133 Stat. 2308, provided that: “For purposes of determining the eligibility of an employee of the Government Accountability Office or Library of Congress who is a member of the National Guard or Reserves to take leave under section 102(a) of the Family and Medical Leave Act of 1993 [29 U.S.C. 2612(a)], any service by such employee on active duty (as defined in section 101(14) of such Act [29 U.S.C. 2611(14)]) shall be counted as time during which such employee has been employed for purposes of section 101(2)(A) of such Act [29 U.S.C. 2611(2)(A)].”
+Pub. L. 116–92, div. F, title LXXVI, § 7605(c), Dec. 20, 2019, 133 Stat. 2308, provided that: “For purposes of determining the eligibility of an employee of the Government Accountability Office or Library of Congress who is a member of the National Guard or Reserves to take leave under section 102(a) of the Family and Medical Leave Act of 1993 [29 U.S.C. 2612(a)], any service by such employee on active duty (as defined in section 101(14) of such Act [29 U.S.C. 2611(14)]) shall be counted as time during which such employee has been employed for purposes of section 101(2)(A) of such Act [29 U.S.C. 2611(2)(A)].”
 
-### § 2613. Certification
+### § 2613. Certification
 
 **(a) In general**
 
@@ -795,7 +795,7 @@ The employer may require that the eligible employee obtain subsequent recertific
 
 An employer may require that a request for leave under section 2612(a)(1)(E) of this title be supported by a certification issued at such time and in such manner as the Secretary may by regulation prescribe. If the Secretary issues a regulation requiring such certification, the employee shall provide, in a timely manner, a copy of such certification to the employer.
 
-(Pub. L. 103–3, title I, § 103, Feb. 5, 1993, 107 Stat. 11; Pub. L. 110–181, div. A, title V, § 585(a)(3)(E), Jan. 28, 2008, 122 Stat. 130; Pub. L. 111–84, div. A, title V, § 565(a)(1)(C), Oct. 28, 2009, 123 Stat. 2310.)
+(Pub. L. 103–3, title I, § 103, Feb. 5, 1993, 107 Stat. 11; Pub. L. 110–181, div. A, title V, § 585(a)(3)(E), Jan. 28, 2008, 122 Stat. 130; Pub. L. 111–84, div. A, title V, § 565(a)(1)(C), Oct. 28, 2009, 123 Stat. 2310.)
 
 **Editorial Notes**
 
@@ -803,9 +803,9 @@ An employer may require that a request for leave under section 2612(a)(1)(E) of 
 
 2009—Subsec. (f). Pub. L. 111–84 substituted “covered active duty” for “active duty” in two places in heading.
 
-2008—Subsec. (a). Pub. L. 110–181, § 585(a)(3)(E)(i), substituted “paragraph (1) or paragraph (3) of section 2612(a)” for “section 2612(a)(1)” and inserted “or of the next of kin of an individual in the case of leave taken under such paragraph (3),” after “parent of the employee,”.
+2008—Subsec. (a). Pub. L. 110–181, § 585(a)(3)(E)(i), substituted “paragraph (1) or paragraph (3) of section 2612(a)” for “section 2612(a)(1)” and inserted “or of the next of kin of an individual in the case of leave taken under such paragraph (3),” after “parent of the employee,”.
 
-Subsec. (f). Pub. L. 110–181, § 585(a)(3)(E)(ii), added subsec. (f).
+Subsec. (f). Pub. L. 110–181, § 585(a)(3)(E)(ii), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -813,7 +813,7 @@ Subsec. (f). Pub. L. 110–181, § 585(a)(3)(E)(ii), added subsec. (f).
 
 Section effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements in effect on that effective date, section applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 months after Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under section 2601 of this title.
 
-### § 2614. Employment and benefits protection
+### § 2614. Employment and benefits protection
 
 **(a) Restoration to position**
 
@@ -895,15 +895,15 @@ The certification described in subparagraph (A)(ii) shall be sufficient if the c
 
 The certification described in subparagraph (A)(i) shall be sufficient if the certification states that the employee is needed to care for the son, daughter, spouse, or parent who has a serious health condition on the date that the leave of the employee expired.
 
-(Pub. L. 103–3, title I, § 104, Feb. 5, 1993, 107 Stat. 12; Pub. L. 110–181, div. A, title V, § 585(a)(3)(F), Jan. 28, 2008, 122 Stat. 131.)
+(Pub. L. 103–3, title I, § 104, Feb. 5, 1993, 107 Stat. 12; Pub. L. 110–181, div. A, title V, § 585(a)(3)(F), Jan. 28, 2008, 122 Stat. 131.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (c)(2)(B)(i). Pub. L. 110–181, § 585(a)(3)(F)(i), inserted “or under section 2612(a)(3) of this title” before semicolon.
+2008—Subsec. (c)(2)(B)(i). Pub. L. 110–181, § 585(a)(3)(F)(i), inserted “or under section 2612(a)(3) of this title” before semicolon.
 
-Subsec. (c)(3)(A)(iii). Pub. L. 110–181, § 585(a)(3)(F)(ii), added cl. (iii).
+Subsec. (c)(3)(A)(iii). Pub. L. 110–181, § 585(a)(3)(F)(ii), added cl. (iii).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -911,7 +911,7 @@ Subsec. (c)(3)(A)(iii). Pub. L. 110–181, § 585(a)(3)(F)(ii), added cl. (iii
 
 Section effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements in effect on that effective date, section applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 months after Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under section 2601 of this title.
 
-### § 2615. Prohibited acts
+### § 2615. Prohibited acts
 
 **(a) Interference with rights**
 
@@ -931,7 +931,7 @@ It shall be unlawful for any employer to discharge or in any other manner discri
 
 **(3)** has testified, or is about to testify, in any inquiry or proceeding relating to any right provided under this subchapter.
 
-(Pub. L. 103–3, title I, § 105, Feb. 5, 1993, 107 Stat. 14.)
+(Pub. L. 103–3, title I, § 105, Feb. 5, 1993, 107 Stat. 14.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -939,7 +939,7 @@ It shall be unlawful for any employer to discharge or in any other manner discri
 
 Section effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements in effect on that effective date, section applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 months after Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under section 2601 of this title.
 
-### § 2616. Investigative authority
+### § 2616. Investigative authority
 
 **(a) In general**
 
@@ -957,7 +957,7 @@ The Secretary shall not under the authority of this section require any employer
 
 For the purposes of any investigation provided for in this section, the Secretary shall have the subpoena authority provided for under section 209 of this title.
 
-(Pub. L. 103–3, title I, § 106, Feb. 5, 1993, 107 Stat. 15.)
+(Pub. L. 103–3, title I, § 106, Feb. 5, 1993, 107 Stat. 15.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -965,7 +965,7 @@ For the purposes of any investigation provided for in this section, the Secretar
 
 Section effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements in effect on that effective date, section applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 months after Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under section 2601 of this title.
 
-### § 2617. Enforcement
+### § 2617. Enforcement
 
 **(a) Civil action by employees**
 
@@ -1045,7 +1045,7 @@ The Solicitor of Labor may appear for and represent the Secretary on any litigat
 
 In the case of the Government Accountability Office and the Library of Congress, the authority of the Secretary of Labor under this subchapter shall be exercised respectively by the Comptroller General of the United States and the Librarian of Congress.
 
-(Pub. L. 103–3, title I, § 107, Feb. 5, 1993, 107 Stat. 15; Pub. L. 104–1, title II, § 202(c)(1)(B), Jan. 23, 1995, 109 Stat. 9; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–181, div. A, title V, § 585(a)(3)(G), Jan. 28, 2008, 122 Stat. 131.)
+(Pub. L. 103–3, title I, § 107, Feb. 5, 1993, 107 Stat. 15; Pub. L. 104–1, title II, § 202(c)(1)(B), Jan. 23, 1995, 109 Stat. 9; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–181, div. A, title V, § 585(a)(3)(G), Jan. 28, 2008, 122 Stat. 131.)
 
 **Editorial Notes**
 
@@ -1067,7 +1067,7 @@ Amendment by Pub. L. 104–1 effective one year after transmission to Congress o
 
 Section effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements in effect on that effective date, section applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 months after Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under section 2601 of this title.
 
-### § 2618. Special rules concerning employees of local educational agencies
+### § 2618. Special rules concerning employees of local educational agencies
 
 **(a) Application**
 
@@ -1133,15 +1133,15 @@ For purposes of determinations under section 2614(a)(1)(B) of this title (relati
 
 If a local educational agency or a private elementary or secondary school that has violated this subchapter proves to the satisfaction of the court that the agency, school, or department had reasonable grounds for believing that the underlying act or omission was not a violation of this subchapter, such court may, in the discretion of the court, reduce the amount of the liability provided for under section 2617(a)(1)(A) of this title to the amount and interest determined under clauses (i) and (ii), respectively, of such section.
 
-(Pub. L. 103–3, title I, § 108, Feb. 5, 1993, 107 Stat. 17; Pub. L. 103–382, title III, § 394(e), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 107–110, title X, § 1076(v), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 110–181, div. A, title V, § 585(a)(3)(H), Jan. 28, 2008, 122 Stat. 131; Pub. L. 114–95, title IX, § 9215(hh), Dec. 10, 2015, 129 Stat. 2175.)
+(Pub. L. 103–3, title I, § 108, Feb. 5, 1993, 107 Stat. 17; Pub. L. 103–382, title III, § 394(e), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 107–110, title X, § 1076(v), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 110–181, div. A, title V, § 585(a)(3)(H), Jan. 28, 2008, 122 Stat. 131; Pub. L. 114–95, title IX, § 9215(hh), Dec. 10, 2015, 129 Stat. 2175.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Individuals with Disabilities Education Act, referred to in subsec. (b), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (b), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 **Amendments**
 
@@ -1167,7 +1167,7 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 Section effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements in effect on that effective date, section applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 months after Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under section 2601 of this title.
 
-### § 2619. Notice
+### § 2619. Notice
 
 **(a) In general**
 
@@ -1177,7 +1177,7 @@ Each employer shall post and keep posted, in conspicuous places on the premises 
 
 Any employer that willfully violates this section may be assessed a civil money penalty not to exceed $100 for each separate offense.
 
-(Pub. L. 103–3, title I, § 109, Feb. 5, 1993, 107 Stat. 19.)
+(Pub. L. 103–3, title I, § 109, Feb. 5, 1993, 107 Stat. 19.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1185,7 +1185,7 @@ Any employer that willfully violates this section may be assessed a civil money 
 
 Section effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements in effect on that effective date, section applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 months after Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under section 2601 of this title.
 
-### § 2620. Public health emergency leave
+### § 2620. Public health emergency leave
 
 **(a) Definitions** The following shall apply with respect to leave under section 2612(a)(1)(F) of this title:
 
@@ -1197,7 +1197,7 @@ Section effective 6 months after Feb. 5, 1993, except that, in the case of colle
 
 In lieu of the definition in sections 2611(2)(A) and 2611(2)(B)(ii) of this title, the term “eligible employee” means an employee who has been employed for at least 30 calendar days by the employer with respect to whom leave is requested under section 2612(a)(1)(F) of this title.
 
-**(ii) 1 [footnote: 1 So in original. Two cls. (ii) have been enacted.] Rule regarding rehired employees**
+**(ii) 1 [footnote: 1 So in original. Two cls. (ii) have been enacted.] Rule regarding rehired employees**
 
 For purposes of clause (i), the term “employed for at least 30 calendar days”, used with respect to an employee and an employer described in clause (i), includes an employee who was laid off by that employer not earlier than March 1, 2020, had worked for the employer for not less than 30 of the last 60 calendar days prior to the employee’s layoff, and was rehired by the employer.
 
@@ -1303,45 +1303,45 @@ Section 2614(a)(1) of this title shall not apply with respect to an employee of 
 
 **(B)** the date that is 12 weeks after the date on which the employee’s leave under section 2612(a)(1)(F) of this title commences.
 
-(Pub. L. 103–3, title I, § 110, as added Pub. L. 116–127, div. C, § 3102(b), Mar. 18, 2020, 134 Stat. 189; Pub. L. 116–136, div. A, title III, §§ 3601, 3604(a), 3605, 3611(1), (3), (7), div. B, title IX, § 19008, Mar. 27, 2020, 134 Stat. 410, 411, 414, 415, 579.)
+(Pub. L. 103–3, title I, § 110, as added Pub. L. 116–127, div. C, § 3102(b), Mar. 18, 2020, 134 Stat. 189; Pub. L. 116–136, div. A, title III, §§ 3601, 3604(a), 3605, 3611(1), (3), (7), div. B, title IX, § 19008, Mar. 27, 2020, 134 Stat. 410, 411, 414, 415, 579.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Congressional Accountability Act of 1995, referred to in subsec. (a)(1)(A)(ii), is Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to chapter 24 (§ 1301 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note under section 1301 of Title 2 and Tables.
+The Congressional Accountability Act of 1995, referred to in subsec. (a)(1)(A)(ii), is Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to chapter 24 (§ 1301 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note under section 1301 of Title 2 and Tables.
 
 This Act, referred to in subsec. (a)(3)(C), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, known as the Family and Medical Leave Act of 1993, which enacted this chapter, sections 60m and 60n of Title 2, The Congress, and sections 6381 to 6387 of Title 5, Government Organization and Employees, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
-The Families First Coronavirus Response Act, referred to in subsec. (a)(3)(C), is Pub. L. 116–127, Mar. 18, 2020, 134 Stat. 178. Division E (§§ 5101–5112) of the Act, known as the Emergency Paid Sick Leave Act, is set out as a note under section 2601 of this title. Division G (§§ 7001–7005) of the Act is set out as notes under sections 1401 and 3111 of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under section 2601 of this title and Tables.
+The Families First Coronavirus Response Act, referred to in subsec. (a)(3)(C), is Pub. L. 116–127, Mar. 18, 2020, 134 Stat. 178. Division E (§§ 5101–5112) of the Act, known as the Emergency Paid Sick Leave Act, is set out as a note under section 2601 of this title. Division G (§§ 7001–7005) of the Act is set out as notes under sections 1401 and 3111 of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under section 2601 of this title and Tables.
 
 **Amendments**
 
-2020—Subsec. (a)(1)(A). Pub. L. 116–136, § 19008(1), which directed amendment of subpar. (A) by inserting cl. (i) designation and heading before “In lieu of”, was not executed due to intervening amendment by Pub. L. 116–136, § 3605, see below.
+2020—Subsec. (a)(1)(A). Pub. L. 116–136, § 19008(1), which directed amendment of subpar. (A) by inserting cl. (i) designation and heading before “In lieu of”, was not executed due to intervening amendment by Pub. L. 116–136, § 3605, see below.
 
-Pub. L. 116–136, § 3605, amended subpar. (A) generally. Prior to amendment, text read as follows: “In lieu of the definition in sections 2611(2)(A) and 2611(2)(B)(ii) of this title, the term ‘eligible employee’ means an employee who has been employed for at least 30 calendar days by the employer with respect to whom leave is requested under section 2612(a)(1)(F) of this title.”
+Pub. L. 116–136, § 3605, amended subpar. (A) generally. Prior to amendment, text read as follows: “In lieu of the definition in sections 2611(2)(A) and 2611(2)(B)(ii) of this title, the term ‘eligible employee’ means an employee who has been employed for at least 30 calendar days by the employer with respect to whom leave is requested under section 2612(a)(1)(F) of this title.”
 
-Subsec. (a)(1)(A)(ii). Pub. L. 116–136, § 19008(2), added cl. (ii) related to special rule regarding eligible employees.
+Subsec. (a)(1)(A)(ii). Pub. L. 116–136, § 19008(2), added cl. (ii) related to special rule regarding eligible employees.
 
-Subsec. (a)(3). Pub. L. 116–136, § 3611(1), substituted “553(d)(3)” for “553(d)(A)” in introductory provisions.
+Subsec. (a)(3). Pub. L. 116–136, § 3611(1), substituted “553(d)(3)” for “553(d)(A)” in introductory provisions.
 
-Subsec. (a)(3)(C). Pub. L. 116–136, § 3611(7), added subpar. (C).
+Subsec. (a)(3)(C). Pub. L. 116–136, § 3611(7), added subpar. (C).
 
-Subsec. (a)(4). Pub. L. 116–136, § 3604(a), added par. (4).
+Subsec. (a)(4). Pub. L. 116–136, § 3604(a), added par. (4).
 
-Subsec. (b)(2)(B)(ii). Pub. L. 116–136, § 3601, added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: “In no event shall such paid leave exceed $200 per day and $10,000 in the aggregate.”
+Subsec. (b)(2)(B)(ii). Pub. L. 116–136, § 3601, added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: “In no event shall such paid leave exceed $200 per day and $10,000 in the aggregate.”
 
-Subsec. (c). Pub. L. 116–136, § 3611(3), substituted “subsection (a)(2)(A)” for “subsection (a)(2)(A)(iii)”.
+Subsec. (c). Pub. L. 116–136, § 3611(3), substituted “subsection (a)(2)(A)” for “subsection (a)(2)(A)(iii)”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 116–127, div. C, § 3106, Mar. 18, 2020, 134 Stat. 192, provided that: “This Act [div. C of Pub. L. 116–127, enacting this section, amending section 2612 of this title, and enacting provisions set out as notes under this section] shall take effect not later than 15 days after the date of enactment of this Act [Mar. 18, 2020].”
+Pub. L. 116–127, div. C, § 3106, Mar. 18, 2020, 134 Stat. 192, provided that: “This Act [div. C of Pub. L. 116–127, enacting this section, amending section 2612 of this title, and enacting provisions set out as notes under this section] shall take effect not later than 15 days after the date of enactment of this Act [Mar. 18, 2020].”
 
 **Employment Under Multi-Employer Bargaining Agreements**
 
-Pub. L. 116–127, div. C, § 3103, Mar. 18, 2020, 134 Stat. 192, provided that:
+Pub. L. 116–127, div. C, § 3103, Mar. 18, 2020, 134 Stat. 192, provided that:
 
 > **“(a) Employers.—** An employer signatory to a multiemployer collective bargaining agreement may, consistent with its bargaining obligations and its collective bargaining agreement, fulfill its obligations under section 110(b)(2) of title I of the Family and Medical Leave Act of 1993 [29 U.S.C. 2620(b)(2)], as added by the Families First Coronavirus Response Act [Pub. L. 116–127], by making contributions to a multiemployer fund, plan, or program based on the paid leave each of its employees is entitled to under such section while working under the multiemployer collective bargaining agreement, provided that the fund, plan, or program enables employees to secure pay from such fund, plan, or program based on hours they have worked under the multiemployer collective bargaining agreement for paid leave taken under section 102(a)(1)(F) of title I of the Family and Medical Leave Act of 1993 [29 U.S.C. 2612(a)(1)(F)], as added by the Families First Coronavirus Response Act.
 
@@ -1349,21 +1349,21 @@ Pub. L. 116–127, div. C, § 3103, Mar. 18, 2020, 134 Stat. 192, provided tha
 
 **Special Rule for Certain Employers**
 
-Pub. L. 116–127, div. C, § 3104, Mar. 18, 2020, 134 Stat. 192, as amended by Pub. L. 116–136, div. A, title III, § 3611(4), Mar. 27, 2020, 134 Stat. 414, provided that: “An employer under section 110(a)(1)(B) of the Family and Medical Leave Act of 1993 [29 U.S.C. 2620(a)(1)(B)] shall not be subject to section 107(a) of such Act [29 U.S.C. 2617(a)] for a violation of section 102(a)(1)(F) of such Act [29 U.S.C. 2612(a)(1)(F)] if the employer does not meet the definition of employer set forth in section 101(4)(A)(i) of such Act [29 U.S.C. 2611(4)(A)(i)].”
+Pub. L. 116–127, div. C, § 3104, Mar. 18, 2020, 134 Stat. 192, as amended by Pub. L. 116–136, div. A, title III, § 3611(4), Mar. 27, 2020, 134 Stat. 414, provided that: “An employer under section 110(a)(1)(B) of the Family and Medical Leave Act of 1993 [29 U.S.C. 2620(a)(1)(B)] shall not be subject to section 107(a) of such Act [29 U.S.C. 2617(a)] for a violation of section 102(a)(1)(F) of such Act [29 U.S.C. 2612(a)(1)(F)] if the employer does not meet the definition of employer set forth in section 101(4)(A)(i) of such Act [29 U.S.C. 2611(4)(A)(i)].”
 
 **Special Rule for Health Care Providers and Emergency Responders**
 
-Pub. L. 116–127, div. C, § 3105, Mar. 18, 2020, 134 Stat. 192, provided that: “An employer of an employee who is a health care provider or an emergency responder may elect to exclude such employee from the application of the provisions in the amendments made under of [sic] section 3102 of this Act [div. C of Pub. L. 116–127, enacting this section and amending section 2612 of this title].”
+Pub. L. 116–127, div. C, § 3105, Mar. 18, 2020, 134 Stat. 192, provided that: “An employer of an employee who is a health care provider or an emergency responder may elect to exclude such employee from the application of the provisions in the amendments made under of [sic] section 3102 of this Act [div. C of Pub. L. 116–127, enacting this section and amending section 2612 of this title].”
 
 ## SUBCHAPTER II—COMMISSION ON LEAVE
 
-### § 2631. Establishment
+### § 2631. Establishment
 
 There is established a commission to be known as the Commission on Leave (referred to in this subchapter as the “Commission”).
 
-(Pub. L. 103–3, title III, § 301, Feb. 5, 1993, 107 Stat. 23.)
+(Pub. L. 103–3, title III, § 301, Feb. 5, 1993, 107 Stat. 23.)
 
-### § 2632. Duties
+### § 2632. Duties
 
 The Commission shall—
 
@@ -1387,7 +1387,7 @@ The Commission shall—
 
 **(2)** not later than 2 years after the date on which the Commission first meets, prepare and submit, to the appropriate Committees of Congress, a report concerning the subjects listed in paragraph (1).
 
-(Pub. L. 103–3, title III, § 302, Feb. 5, 1993, 107 Stat. 23.)
+(Pub. L. 103–3, title III, § 302, Feb. 5, 1993, 107 Stat. 23.)
 
 **Editorial Notes**
 
@@ -1395,7 +1395,7 @@ The Commission shall—
 
 This Act, referred to in par. (1)(A), (D), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, known as the Family and Medical Leave Act of 1993, which enacted this chapter, sections 60m and 60n of Title 2, The Congress, and sections 6381 to 6387 of Title 5, Government Organization and Employees, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
-### § 2633. Membership
+### § 2633. Membership
 
 **(a) Composition**
 
@@ -1441,9 +1441,9 @@ The Commission shall elect a chairperson and a vice chairperson from among the m
 
 Eight members of the Commission shall constitute a quorum for all purposes, except that a lesser number may constitute a quorum for the purpose of holding hearings.
 
-(Pub. L. 103–3, title III, § 303, Feb. 5, 1993, 107 Stat. 24.)
+(Pub. L. 103–3, title III, § 303, Feb. 5, 1993, 107 Stat. 24.)
 
-### § 2634. Compensation
+### § 2634. Compensation
 
 **(a) Pay**
 
@@ -1453,9 +1453,9 @@ Members of the Commission shall serve without compensation.
 
 Members of the Commission shall be allowed reasonable travel expenses, including a per diem allowance, in accordance with section 5703 of title 5 when performing duties of the Commission.
 
-(Pub. L. 103–3, title III, § 304, Feb. 5, 1993, 107 Stat. 25.)
+(Pub. L. 103–3, title III, § 304, Feb. 5, 1993, 107 Stat. 25.)
 
-### § 2635. Powers
+### § 2635. Powers
 
 **(a) Meetings**
 
@@ -1481,17 +1481,17 @@ On the request of the Commission, the head of any Federal agency may detail any 
 
 Notwithstanding section 1342 of title 31, the chairperson of the Commission may accept for the Commission voluntary services provided by a member of the Commission.
 
-(Pub. L. 103–3, title III, § 305, Feb. 5, 1993, 107 Stat. 25.)
+(Pub. L. 103–3, title III, § 305, Feb. 5, 1993, 107 Stat. 25.)
 
-### § 2636. Termination
+### § 2636. Termination
 
 The Commission shall terminate 30 days after the date of the submission of the report of the Commission to Congress.
 
-(Pub. L. 103–3, title III, § 306, Feb. 5, 1993, 107 Stat. 25.)
+(Pub. L. 103–3, title III, § 306, Feb. 5, 1993, 107 Stat. 25.)
 
 ## SUBCHAPTER III—MISCELLANEOUS PROVISIONS
 
-### § 2651. Effect on other laws
+### § 2651. Effect on other laws
 
 **(a) Federal and State antidiscrimination laws**
 
@@ -1501,7 +1501,7 @@ Nothing in this Act or any amendment made by this Act shall be construed to modi
 
 Nothing in this Act or any amendment made by this Act shall be construed to supersede any provision of any State or local law that provides greater family or medical leave rights than the rights established under this Act or any amendment made by this Act.
 
-(Pub. L. 103–3, title IV, § 401, Feb. 5, 1993, 107 Stat. 26.)
+(Pub. L. 103–3, title IV, § 401, Feb. 5, 1993, 107 Stat. 26.)
 
 **Editorial Notes**
 
@@ -1515,7 +1515,7 @@ This Act, referred to in text, is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, kn
 
 Section effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 103–3, set out as a note under section 2601 of this title.
 
-### § 2652. Effect on existing employment benefits
+### § 2652. Effect on existing employment benefits
 
 **(a) More protective**
 
@@ -1525,7 +1525,7 @@ Nothing in this Act or any amendment made by this Act shall be construed to dimi
 
 The rights established for employees under this Act or any amendment made by this Act shall not be diminished by any collective bargaining agreement or any employment benefit program or plan.
 
-(Pub. L. 103–3, title IV, § 402, Feb. 5, 1993, 107 Stat. 26.)
+(Pub. L. 103–3, title IV, § 402, Feb. 5, 1993, 107 Stat. 26.)
 
 **Editorial Notes**
 
@@ -1539,11 +1539,11 @@ This Act, referred to in text, is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, kn
 
 Section effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 103–3, set out as a note under section 2601 of this title.
 
-### § 2653. Encouragement of more generous leave policies
+### § 2653. Encouragement of more generous leave policies
 
 Nothing in this Act or any amendment made by this Act shall be construed to discourage employers from adopting or retaining leave policies more generous than any policies that comply with the requirements under this Act or any amendment made by this Act.
 
-(Pub. L. 103–3, title IV, § 403, Feb. 5, 1993, 107 Stat. 26.)
+(Pub. L. 103–3, title IV, § 403, Feb. 5, 1993, 107 Stat. 26.)
 
 **Editorial Notes**
 
@@ -1557,11 +1557,11 @@ This Act, referred to in text, is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, kn
 
 Section effective 6 months after Feb. 5, 1993, see section 405(b)(1) of Pub. L. 103–3, set out as a note under section 2601 of this title.
 
-### § 2654. Regulations
+### § 2654. Regulations
 
 The Secretary of Labor shall prescribe such regulations as are necessary to carry out subchapter I and this subchapter not later than 120 days after February 5, 1993.
 
-(Pub. L. 103–3, title IV, § 404, Feb. 5, 1993, 107 Stat. 26.)
+(Pub. L. 103–3, title IV, § 404, Feb. 5, 1993, 107 Stat. 26.)
 
 **Statutory Notes and Related Subsidiaries**
 

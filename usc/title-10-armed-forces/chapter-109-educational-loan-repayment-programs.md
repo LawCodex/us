@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2002—Pub. L. 107–314, div. A, title VI, § 651(a)(2), Dec. 2, 2002, 116 Stat. 2579, added item 2174.
+2002—Pub. L. 107–314, div. A, title VI, § 651(a)(2), Dec. 2, 2002, 116 Stat. 2579, added item 2174.
 
-1997—Pub. L. 105–85, div. A, title VI, § 651(b), Nov. 18, 1997, 111 Stat. 1803, added item 2173.
+1997—Pub. L. 105–85, div. A, title VI, § 651(b), Nov. 18, 1997, 111 Stat. 1803, added item 2173.
 
-1994—Pub. L. 103–337, div. A, title XVI, § 1671(b)(13), Oct. 5, 1994, 108 Stat. 3014, added item 2171 and struck out former items 2171 “General educational loan repayment program” and 2172 “Education loans for certain health professionals who serve in the Selected Reserve”.
+1994—Pub. L. 103–337, div. A, title XVI, § 1671(b)(13), Oct. 5, 1994, 108 Stat. 3014, added item 2171 and struck out former items 2171 “General educational loan repayment program” and 2172 “Education loans for certain health professionals who serve in the Selected Reserve”.
 
-## § 2171. Education loan repayment program: enlisted members on active duty in specified military specialties
+## § 2171. Education loan repayment program: enlisted members on active duty in specified military specialties
 
 **(a)**
 
@@ -65,13 +65,13 @@ Repayment of any such loan shall be made on the basis of each complete year of s
 
 **(h)** The Secretary of Defense may prescribe, by regulations, procedures for implementing this section, including standards for qualified loans and authorized payees and other terms and conditions for making loan repayments. Such regulations may include exceptions that would allow for the payment as a lump sum of any loan repayment due to a member under a written agreement that existed at the time of a member’s death or disability.
 
-(Added Pub. L. 99–145, title VI, § 671(a)(1), Nov. 8, 1985, 99 Stat. 661; amended Pub. L. 103–337, div. A, title XVI, § 1663(e), Oct. 5, 1994, 108 Stat. 3009; Pub. L. 104–106, div. A, title X, § 1079(a), Feb. 10, 1996, 110 Stat. 451; Pub. L. 109–163, div. A, title V, § 537, Jan. 6, 2006, 119 Stat. 3249; Pub. L. 111–383, div. A, title V, § 552(a), Jan. 7, 2011, 124 Stat. 4220; Pub. L. 115–91, div. A, title VI, § 618(a)(1)(H), Dec. 12, 2017, 131 Stat. 1426.)
+(Added Pub. L. 99–145, title VI, § 671(a)(1), Nov. 8, 1985, 99 Stat. 661; amended Pub. L. 103–337, div. A, title XVI, § 1663(e), Oct. 5, 1994, 108 Stat. 3009; Pub. L. 104–106, div. A, title X, § 1079(a), Feb. 10, 1996, 110 Stat. 451; Pub. L. 109–163, div. A, title V, § 537, Jan. 6, 2006, 119 Stat. 3249; Pub. L. 111–383, div. A, title V, § 552(a), Jan. 7, 2011, 124 Stat. 4220; Pub. L. 115–91, div. A, title VI, § 618(a)(1)(H), Dec. 12, 2017, 131 Stat. 1426.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Higher Education Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified to parts B (§ 1071 et seq.), D (§ 1087a et seq.), and E (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified to parts B (§ 1071 et seq.), D (§ 1087a et seq.), and E (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 **Amendments**
 
@@ -79,17 +79,17 @@ The Higher Education Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89�
 
 2011—Subsecs. (g), (h). Pub. L. 111–383 added subsecs. (g) and (h).
 
-2006—Subsec. (a)(1)(D). Pub. L. 109–163, § 537(a), added subpar. (D).
+2006—Subsec. (a)(1)(D). Pub. L. 109–163, § 537(a), added subpar. (D).
 
-Subsec. (a)(2). Pub. L. 109–163, § 537(b), substituted “a member in an officer program or military specialty” for “an enlisted member in a military specialty”.
+Subsec. (a)(2). Pub. L. 109–163, § 537(b), substituted “a member in an officer program or military specialty” for “an enlisted member in a military specialty”.
 
 1996—Subsec. (a)(1). Pub. L. 104–106 struck out “or” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
 
-1994—Pub. L. 103–337, § 1663(e)(6), substituted “Education loan repayment program: enlisted members on active duty in specified military specialties” for “General educational loan repayment program” as section catchline.
+1994—Pub. L. 103–337, § 1663(e)(6), substituted “Education loan repayment program: enlisted members on active duty in specified military specialties” for “General educational loan repayment program” as section catchline.
 
-Subsec. (a)(1)(B). Pub. L. 103–337, § 1663(e)(1), struck out “or” after “(B)”.
+Subsec. (a)(1)(B). Pub. L. 103–337, § 1663(e)(1), struck out “or” after “(B)”.
 
-Subsec. (a)(2). Pub. L. 103–337, § 1663(e)(2), substituted “case of any person for—
+Subsec. (a)(2). Pub. L. 103–337, § 1663(e)(2), substituted “case of any person for—
 
 “(A) service performed—
 
@@ -101,15 +101,15 @@ Subsec. (a)(2). Pub. L. 103–337, § 1663(e)(2), substituted “case of any p
 
 and struck out at end “In the case of service described in clause (A) of the first sentence of this paragraph, the Secretary may repay a loan described in paragraph (1) only if the person to whom the loan was made performed such service after the loan was made.”
 
-Subsec. (b). Pub. L. 103–337, § 1663(e)(3), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The portion or amount of a loan that may be repaid under subsection (a) is—
+Subsec. (b). Pub. L. 103–337, § 1663(e)(3), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The portion or amount of a loan that may be repaid under subsection (a) is—
 
 “(1) 15 percent or $500, whichever is greater, for each year of service, in the case of service described in subsection (a)(2)(A); or
 
 “(2) 33⅓ percent or $1,500, whichever is greater, for each year of service, in the case of service described in subsection (a)(2)(B).”
 
-Subsec. (e). Pub. L. 103–337, § 1663(e)(4), substituted “A person who transfers from service making the person eligible for repayment of loans under this section (as described in subsection (a)(2)) to service making the person eligible for repayment of loans under section 16301 of this title (as described in subsection (a)(2) of that section)” for “Any individual who transfers from service described in clause (A) or (B) of subsection (a)(2) to service described in the other clause of such subsection”.
+Subsec. (e). Pub. L. 103–337, § 1663(e)(4), substituted “A person who transfers from service making the person eligible for repayment of loans under this section (as described in subsection (a)(2)) to service making the person eligible for repayment of loans under section 16301 of this title (as described in subsection (a)(2) of that section)” for “Any individual who transfers from service described in clause (A) or (B) of subsection (a)(2) to service described in the other clause of such subsection”.
 
-Subsec. (f). Pub. L. 103–337, § 1663(e)(5), inserted “and section 16301 of this title” after “this section” and “and section 16301(a) of this title” after “subsection (a)”.
+Subsec. (f). Pub. L. 103–337, § 1663(e)(5), inserted “and section 16301 of this title” after “this section” and “and section 16301(a) of this title” after “subsection (a)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -119,7 +119,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 **Effective Date**
 
-Pub. L. 99–145, title VI, § 671(b)(1), Nov. 8, 1985, 99 Stat. 663, provided that:
+Pub. L. 99–145, title VI, § 671(b)(1), Nov. 8, 1985, 99 Stat. 663, provided that:
 
 > “The authority provided under section 2171 of title 10, United States Code, as added by subsection (a), shall apply only—
 
@@ -129,9 +129,9 @@ Pub. L. 99–145, title VI, § 671(b)(1), Nov. 8, 1985, 99 Stat. 663, provided
 
 > **“(C)** with respect to loans made after October 1, 1975.”
 
-## [§ 2172. Renumbered § 16302]
+## [§ 2172. Renumbered § 16302]
 
-## § 2173. Education loan repayment program: commissioned officers in specified health professions
+## § 2173. Education loan repayment program: commissioned officers in specified health professions
 
 **(a) Authority To Repay Education Loans.—** For the purpose of maintaining adequate numbers of commissioned officers of the armed forces on active duty who are qualified in the various health professions, the Secretary of a military department may repay, in the case of a person described in subsection (b), a loan that—
 
@@ -183,7 +183,7 @@ Pub. L. 99–145, title VI, § 671(b)(1), Nov. 8, 1985, 99 Stat. 663, provided
 
 **(h) Regulations.—** The Secretary of Defense shall prescribe regulations to carry out this section, including standards for qualified loans and authorized payees and other terms and conditions for the making of loan repayments.
 
-(Added Pub. L. 105–85, div. A, title VI, § 651(a), Nov. 18, 1997, 111 Stat. 1802; amended Pub. L. 107–314, div. A, title V, § 573, Dec. 2, 2002, 116 Stat. 2558; Pub. L. 109–163, div. A, title VI, § 687(c)(7), Jan. 6, 2006, 119 Stat. 3334; Pub. L. 109–364, div. A, title V, § 537(a), Oct. 17, 2006, 120 Stat. 2209; Pub. L. 111–383, div. A, title V, § 553, Jan. 7, 2011, 124 Stat. 4220; Pub. L. 115–91, div. A, title VI, § 618(a)(1)(I), Dec. 12, 2017, 131 Stat. 1426.)
+(Added Pub. L. 105–85, div. A, title VI, § 651(a), Nov. 18, 1997, 111 Stat. 1802; amended Pub. L. 107–314, div. A, title V, § 573, Dec. 2, 2002, 116 Stat. 2558; Pub. L. 109–163, div. A, title VI, § 687(c)(7), Jan. 6, 2006, 119 Stat. 3334; Pub. L. 109–364, div. A, title V, § 537(a), Oct. 17, 2006, 120 Stat. 2209; Pub. L. 111–383, div. A, title V, § 553, Jan. 7, 2011, 124 Stat. 4220; Pub. L. 115–91, div. A, title VI, § 618(a)(1)(I), Dec. 12, 2017, 131 Stat. 1426.)
 
 **Editorial Notes**
 
@@ -197,15 +197,15 @@ Pub. L. 99–145, title VI, § 671(b)(1), Nov. 8, 1985, 99 Stat. 663, provided
 
 Subsec. (g). Pub. L. 109–163 designated existing provisions as par. (1) and added par. (2).
 
-2002—Subsec. (d). Pub. L. 107–314, § 573(a), substituted “Students” for “Participants of the Armed Forces Health Professions Scholarship and Financial Assistance program under subchapter I of chapter 105 of this title and students”.
+2002—Subsec. (d). Pub. L. 107–314, § 573(a), substituted “Students” for “Participants of the Armed Forces Health Professions Scholarship and Financial Assistance program under subchapter I of chapter 105 of this title and students”.
 
-Subsec. (e)(2). Pub. L. 107–314, § 573(b), struck out at end “The total amount that may be repaid on behalf of any person may not exceed an amount determined on the basis of a four-year active duty service obligation.”
+Subsec. (e)(2). Pub. L. 107–314, § 573(b), struck out at end “The total amount that may be repaid on behalf of any person may not exceed an amount determined on the basis of a four-year active duty service obligation.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–364, div. A, title V, § 537(b), Oct. 17, 2006, 120 Stat. 2209, provided that:
+Pub. L. 109–364, div. A, title V, § 537(b), Oct. 17, 2006, 120 Stat. 2209, provided that:
 
 > **“(1) In general.—** The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2006, and shall apply to agreements entered into or revised under section 2173 of title 10, United States Code, on or after that date.
 
@@ -215,7 +215,7 @@ Pub. L. 109–364, div. A, title V, § 537(b), Oct. 17, 2006, 120 Stat. 2209, 
 
 For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
 
-## § 2174. Interest payment program: members on active duty
+## § 2174. Interest payment program: members on active duty
 
 **(a) Authority.—**
 
@@ -255,19 +255,19 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 **(g) Special Allowance Defined.—** In this section, the term “special allowance” means a special allowance that is payable under section 438 of the Higher Education Act of 1965 (20 U.S.C. 1087–1).
 
-(Added Pub. L. 107–314, div. A, title VI, § 651(a)(1), Dec. 2, 2002, 116 Stat. 2578.)
+(Added Pub. L. 107–314, div. A, title VI, § 651(a)(1), Dec. 2, 2002, 116 Stat. 2578.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Higher Education Act of 1965, referred to in subsecs. (c) and (f)(2)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified to parts B (§ 1071 et seq.), D (§ 1087a et seq.), and E (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsecs. (c) and (f)(2)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified to parts B (§ 1071 et seq.), D (§ 1087a et seq.), and E (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 107–314, div. A, title VI, § 651(e), Dec. 2, 2002, 116 Stat. 2581, provided that: “The amendments made by this section [enacting this section and amending sections 1078, 1087e, and 1087dd of Title 20, Education] shall apply with respect to interest, and any special allowance under section 438 of the Higher Education Act of 1965 [20 U.S.C. 1087–1], that accrue for months beginning on or after October 1, 2003, on student loans described in subsection (c) of section 2174 of title 10, United States Code (as added by subsection (a)), that were made before, on, or after such date to members of the Armed Forces who are on active duty (as defined in section 101(d) of title 10, United States Code) on or after that date.”
+Pub. L. 107–314, div. A, title VI, § 651(e), Dec. 2, 2002, 116 Stat. 2581, provided that: “The amendments made by this section [enacting this section and amending sections 1078, 1087e, and 1087dd of Title 20, Education] shall apply with respect to interest, and any special allowance under section 438 of the Higher Education Act of 1965 [20 U.S.C. 1087–1], that accrue for months beginning on or after October 1, 2003, on student loans described in subsection (c) of section 2174 of title 10, United States Code (as added by subsection (a)), that were made before, on, or after such date to members of the Armed Forces who are on active duty (as defined in section 101(d) of title 10, United States Code) on or after that date.”
 
 **Transfer of Functions**
 

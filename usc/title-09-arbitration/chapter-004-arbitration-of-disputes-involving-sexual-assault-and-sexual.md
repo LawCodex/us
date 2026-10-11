@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 4—ARBITRATION OF DISPUTES INVOLVING SEXUAL ASSAULT AND SEXUAL HARASSMENT
 
-## § 401. Definitions
+## § 401. Definitions
 
 In this chapter:
 
@@ -27,21 +27,21 @@ In this chapter:
 
 **(4) Sexual harassment dispute.—** The term “sexual harassment dispute” means a dispute relating to conduct that is alleged to constitute sexual harassment under applicable Federal, Tribal, or State law.
 
-(Added Pub. L. 117–90, § 2(a), Mar. 3, 2022, 136 Stat. 26.)
+(Added Pub. L. 117–90, § 2(a), Mar. 3, 2022, 136 Stat. 26.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 117–90, § 3, Mar. 3, 2022, 136 Stat. 28, provided that: “This Act [see Short Title of 2022 Amendment note set out under section 1 of this title], and the amendments made by this Act, shall apply with respect to any dispute or claim that arises or accrues on or after the date of enactment of this Act [Mar. 3, 2022].”
+Pub. L. 117–90, § 3, Mar. 3, 2022, 136 Stat. 28, provided that: “This Act [see Short Title of 2022 Amendment note set out under section 1 of this title], and the amendments made by this Act, shall apply with respect to any dispute or claim that arises or accrues on or after the date of enactment of this Act [Mar. 3, 2022].”
 
-## § 402. No validity or enforceability
+## § 402. No validity or enforceability
 
 **(a) In General.—** Notwithstanding any other provision of this title, at the election of the person alleging conduct constituting a sexual harassment dispute or sexual assault dispute, or the named representative of a class or in a collective action alleging such conduct, no predispute arbitration agreement or predispute joint-action waiver shall be valid or enforceable with respect to a case which is filed under Federal, Tribal, or State law and relates to the sexual assault dispute or the sexual harassment dispute.
 
 **(b) Determination of Applicability.—** An issue as to whether this chapter applies with respect to a dispute shall be determined under Federal law. The applicability of this chapter to an agreement to arbitrate and the validity and enforceability of an agreement to which this chapter applies shall be determined by a court, rather than an arbitrator, irrespective of whether the party resisting arbitration challenges the arbitration agreement specifically or in conjunction with other terms of the contract containing such agreement, and irrespective of whether the agreement purports to delegate such determinations to an arbitrator.
 
-(Added Pub. L. 117–90, § 2(a), Mar. 3, 2022, 136 Stat. 27.)
+(Added Pub. L. 117–90, § 2(a), Mar. 3, 2022, 136 Stat. 27.)
 
 **Statutory Notes and Related Subsidiaries**
 

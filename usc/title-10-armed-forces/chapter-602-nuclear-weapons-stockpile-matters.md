@@ -29,9 +29,9 @@ Subchapter analysis added pursuant to operation of section 102 of this title.
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. C, title XXXI, §§ 3111(d)(1)(D), 3113(a)(2), Dec. 18, 2025, 139 Stat. 1462, 1463, added item 6137. Amendment was made pursuant to operation of section 102 of this title. See Codification note set out under section 6137 of this title.
+2025—Pub. L. 119–60, div. C, title XXXI, §§ 3111(d)(1)(D), 3113(a)(2), Dec. 18, 2025, 139 Stat. 1462, 1463, added item 6137. Amendment was made pursuant to operation of section 102 of this title. See Codification note set out under section 6137 of this title.
 
-### § 6111. Stockpile stewardship program
+### § 6111. Stockpile stewardship program
 
 **(a) Establishment.—** The Secretary of Energy, acting through the Administrator, shall establish a stewardship program to ensure—
 
@@ -63,21 +63,21 @@ Subchapter analysis added pursuant to operation of section 102 of this title.
 
 **(D)** the experimental facilities at the Nevada National Security Site.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1344.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1344.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 6111, act Aug. 10, 1956, ch. 1041, 70A Stat. 381, related to withholding of pay during absence due to use of alcohol or drugs, and is covered by section 802 of Title 37, Pay and Allowances of the Uniformed Services, prior to repeal by Pub. L. 87–649, § 14c(35), Sept. 7, 1962, 76 Stat. 501, effective Nov. 1, 1962.
+A prior section 6111, act Aug. 10, 1956, ch. 1041, 70A Stat. 381, related to withholding of pay during absence due to use of alcohol or drugs, and is covered by section 802 of Title 37, Pay and Allowances of the Uniformed Services, prior to repeal by Pub. L. 87–649, § 14c(35), Sept. 7, 1962, 76 Stat. 501, effective Nov. 1, 1962.
 
-Provisions similar to those in this section were contained in section 2521 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2521 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Consultation Requirement With Respect To Transfer to Private Entities of Plutonium or Plutonium Materials; Report**
 
-Pub. L. 119–60, div. C, title XXXI, § 3128, Dec. 18, 2025, 139 Stat. 1470, provided that:
+Pub. L. 119–60, div. C, title XXXI, § 3128, Dec. 18, 2025, 139 Stat. 1470, provided that:
 
 > **“(a) Consultation Required.—**
 
@@ -135,7 +135,7 @@ Pub. L. 119–60, div. C, title XXXI, § 3128, Dec. 18, 2025, 139 Stat. 1470, 
 
 **Plan for Developing Exascale Computing and Incorporating Such Computing Into the Stockpile Stewardship Program**
 
-Pub. L. 113–66, div. C, title XXXI, § 3129, Dec. 26, 2013, 127 Stat. 1066, as amended by Pub. L. 119–60, div. C, title XXXI, § 3111(c)(2)(H), Dec. 18, 2025, 139 Stat. 1460, provided that:
+Pub. L. 113–66, div. C, title XXXI, § 3129, Dec. 26, 2013, 127 Stat. 1066, as amended by Pub. L. 119–60, div. C, title XXXI, § 3111(c)(2)(H), Dec. 18, 2025, 139 Stat. 1460, provided that:
 
 > **“(a) Plan Required.—** The Administrator for Nuclear Security shall develop and carry out a plan to develop exascale computing and incorporate such computing into the stockpile stewardship program under section 6111 of title 10, United States Code, during the 10-year period beginning on the date of the enactment of this Act [Dec. 26, 2013].
 
@@ -161,7 +161,7 @@ Pub. L. 113–66, div. C, title XXXI, § 3129, Dec. 26, 2013, 127 Stat. 1066, 
 
 > **“(f) Exascale Computing Defined.—** In this section, the term ‘exascale computing’ means computing through the use of a computing machine that performs near or above 10 to the 18th power floating point operations per second.”
 
-### § 6112. Portfolio management framework for National Nuclear Security Administration
+### § 6112. Portfolio management framework for National Nuclear Security Administration
 
 **(a) In General.—** Not later than one year after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81), the Administrator shall—
 
@@ -183,7 +183,7 @@ Pub. L. 113–66, div. C, title XXXI, § 3129, Dec. 26, 2013, 127 Stat. 1066, 
 
 **(2)** the plans of the Administrator for implementing the recommendations of the Comptroller General in the report referred to in paragraph (1)(D) of that subsection.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1345.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1345.)
 
 **Editorial Notes**
 
@@ -193,17 +193,17 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 **Prior Provisions**
 
-A prior section 6112, acts Aug. 10, 1956, ch. 1041, 70A Stat. 381; Oct. 9, 1962, Pub. L. 87–777, § 1, 76 Stat. 777, prohibited employment of officers of the Regular Navy and Regular Marine Corps, other than a retired officer, from being employed by any person furnishing naval supplies or war materials to the United States under pain of loss of payment from the United States during that employment, prior to repeal by Pub. L. 87–649, § 14c(36), Sept. 7, 1962, 76 Stat. 501, and by Pub. L. 89–718, § 75(6), (7), Nov. 2, 1966, 80 Stat. 1124.
+A prior section 6112, acts Aug. 10, 1956, ch. 1041, 70A Stat. 381; Oct. 9, 1962, Pub. L. 87–777, § 1, 76 Stat. 777, prohibited employment of officers of the Regular Navy and Regular Marine Corps, other than a retired officer, from being employed by any person furnishing naval supplies or war materials to the United States under pain of loss of payment from the United States during that employment, prior to repeal by Pub. L. 87–649, § 14c(36), Sept. 7, 1962, 76 Stat. 501, and by Pub. L. 89–718, § 75(6), (7), Nov. 2, 1966, 80 Stat. 1124.
 
-Provisions similar to those in this section were contained in section 3121 of Pub. L. 117–81, which was set out as a note under section 2521 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(10).
+Provisions similar to those in this section were contained in section 3121 of Pub. L. 117–81, which was set out as a note under section 2521 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(10).
 
-### § 6113. Stockpile stewardship criteria
+### § 6113. Stockpile stewardship criteria
 
 **(a) Requirement for Criteria.—** The Secretary of Energy shall develop clear and specific criteria for judging whether the science-based tools being used by the Department of Energy for determining the safety and reliability of the nuclear weapons stockpile are performing in a manner that will provide an adequate degree of certainty that the stockpile is safe and reliable.
 
 **(b) Coordination With Secretary of Defense.—** The Secretary of Energy, in developing the criteria required by subsection (a), shall coordinate with the Secretary of Defense.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1345.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1345.)
 
 **Editorial Notes**
 
@@ -211,9 +211,9 @@ Provisions similar to those in this section were contained in section 3121 of Pu
 
 A prior section 6113 was renumbered section 8253 of this title.
 
-Provisions similar to those in this section were contained in section 2522 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2522 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6114. Nuclear weapons stockpile stewardship, management, and responsiveness plan
+### § 6114. Nuclear weapons stockpile stewardship, management, and responsiveness plan
 
 **(a) Plan Requirement.—** The Administrator, in consultation with the Secretary of Defense and other appropriate officials of the departments and agencies of the Federal Government, shall develop and annually update a plan for sustaining the nuclear weapons stockpile. The plan shall cover, at a minimum, stockpile stewardship, stockpile management, stockpile responsiveness, stockpile surveillance, program direction, infrastructure modernization, human capital, and nuclear test readiness. The plan shall be consistent with the programmatic and technical requirements of the most recent annual Nuclear Weapons Stockpile Memorandum.
 
@@ -357,9 +357,9 @@ Provisions similar to those in this section were contained in section 2522 of Ti
 
 **(8)** An assessment of whether the programs described by the report can be executed with current and projected budgets and any associated risks.
 
-**(9)** Identification of any modifications or updates to the plan since the previous summary or 1
+**(9)** Identification of any modifications or updates to the plan since the previous summary or 1
 
-<sup>1</sup>  So in original. The words “summary or” probably should not appear.
+<sup>1</sup> So in original. The words “summary or” probably should not appear.
 
 detailed report was submitted under subsection (b).
 
@@ -371,11 +371,11 @@ detailed report was submitted under subsection (b).
 
 **(i)** whether the plan supports the requirements of the national security strategy of the United States referred to in subsection (d)(4)(A)(i),2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 the most recent the national defense strategy, and the most recent Nuclear Posture Review;
 
-**(ii)** whether the modernization and refurbishment measures described under subparagraph (A) of subsection (d)(4) <sup>2</sup> and the schedule described under subparagraph (B) of such subsection <sup>2</sup> are adequate to support such requirements; and
+**(ii)** whether the modernization and refurbishment measures described under subparagraph (A) of subsection (d)(4) <sup>2</sup> and the schedule described under subparagraph (B) of such subsection <sup>2</sup> are adequate to support such requirements; and
 
 **(iii)** whether the plan supports the stockpile responsiveness program under section 6131 in a manner that meets the objectives of such program and an identification of any improvements that may be made to the plan to better carry out such program.
 
@@ -413,15 +413,15 @@ the most recent the national defense strategy, and the most recent Nuclear Postu
 
 **(E)** nuclear incident response.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, §§ 3111(a), (d)(1)(A), (2)(B), 3121, Dec. 18, 2025, 139 Stat. 1346, 1461, 1462, 1466.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, §§ 3111(a), (d)(1)(A), (2)(B), 3121, Dec. 18, 2025, 139 Stat. 1346, 1461, 1462, 1466.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subsection (d)(4)(A), referred to in subsec. (d)(1)(A)(i), (ii), was resdesignated subsec. (c)(4)(A) of this section by Pub. L. 119–60, div. C, title XXXI, §§ 3111(d)(1)(A), 3121(3), Dec. 18, 2025, 139 Stat. 1461, 1466.
+Subsection (d)(4)(A), referred to in subsec. (d)(1)(A)(i), (ii), was resdesignated subsec. (c)(4)(A) of this section by Pub. L. 119–60, div. C, title XXXI, §§ 3111(d)(1)(A), 3121(3), Dec. 18, 2025, 139 Stat. 1461, 1466.
 
-Subsection (d)(4)(B), referred to in subsec. (d)(1)(A)(ii), was redesignated subpar. (C) of subsec. (c)(4) of this section by Pub. L. 119–60, div. C, title XXXI, §§ 3111(d)(1)(A), 3121(3), (4)(B)(ii), Dec. 18, 2025, 139 Stat. 1461, 1466.
+Subsection (d)(4)(B), referred to in subsec. (d)(1)(A)(ii), was redesignated subpar. (C) of subsec. (c)(4) of this section by Pub. L. 119–60, div. C, title XXXI, §§ 3111(d)(1)(A), 3121(3), (4)(B)(ii), Dec. 18, 2025, 139 Stat. 1461, 1466.
 
 **Codification**
 
@@ -429,37 +429,37 @@ Amendment by section 3121 of Pub. L. 119–60 directed to section 4203 of Pub. L
 
 **Prior Provisions**
 
-A prior section 6114, act Aug. 10, 1956, ch. 1041, 70A Stat. 381, set forth restrictions on civilian employment for enlisted members of the naval service on active duty, prior to repeal by Pub. L. 90–235, § 6(a)(7), Jan. 2, 1968, 81 Stat. 762.
+A prior section 6114, act Aug. 10, 1956, ch. 1041, 70A Stat. 381, set forth restrictions on civilian employment for enlisted members of the naval service on active duty, prior to repeal by Pub. L. 90–235, § 6(a)(7), Jan. 2, 1968, 81 Stat. 762.
 
-Provisions similar to those in this section were contained in section 2523 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2523 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-Subsec. (b)(1). Pub. L. 119–60, §§ 3111(d)(1)(A), 3121(1)(C)(i), (ii), substituted “subsection (c)” for “subsection (d)” and “45 days after each date on which a budget for an odd-numbered fiscal year is submitted to Congress” for “March 15 of each odd-numbered year”. See Codification note above.
+Subsec. (b)(1). Pub. L. 119–60, §§ 3111(d)(1)(A), 3121(1)(C)(i), (ii), substituted “subsection (c)” for “subsection (d)” and “45 days after each date on which a budget for an odd-numbered fiscal year is submitted to Congress” for “March 15 of each odd-numbered year”. See Codification note above.
 
-Pub. L. 119–60, §§ 3111(d)(1)(A), 3121(1)(A), (B), redesignated par. (2) as (1) and realigned margins, and struck out par. (1) which read as follows: “In accordance with subsection (c), not later than March 15 of each even-numbered year, the Administrator shall submit to the congressional defense committees a summary of the plan developed under subsection (a).” See Codification note above.
+Pub. L. 119–60, §§ 3111(d)(1)(A), 3121(1)(A), (B), redesignated par. (2) as (1) and realigned margins, and struck out par. (1) which read as follows: “In accordance with subsection (c), not later than March 15 of each even-numbered year, the Administrator shall submit to the congressional defense committees a summary of the plan developed under subsection (a).” See Codification note above.
 
-Subsec. (b)(2). Pub. L. 119–60, §§ 3111(d)(1)(A), 3121(1)(B), (C)(iii), redesignated par. (3) as (2) and realigned margins and substituted “report” for “summaries and reports”. Former par. (2) redesignated (1). See Codification note above.
+Subsec. (b)(2). Pub. L. 119–60, §§ 3111(d)(1)(A), 3121(1)(B), (C)(iii), redesignated par. (3) as (2) and realigned margins and substituted “report” for “summaries and reports”. Former par. (2) redesignated (1). See Codification note above.
 
-Subsec. (b)(3). Pub. L. 119–60, §§ 3111(d)(1)(A), 3121(1)(B), redesignated par. (3) as (2). See Codification note above.
+Subsec. (b)(3). Pub. L. 119–60, §§ 3111(d)(1)(A), 3121(1)(B), redesignated par. (3) as (2). See Codification note above.
 
-Subsec. (c). Pub. L. 119–60, §§ 3111(d)(1)(A), 3121(2)–(4)(A), redesignated subsec. (d) as (c), substituted “subsection (b)(1)” for “subsection (b)(2)” in introductory provisions, and struck out former subsec. (c) which listed the minimum elements required in the biennial plan summary. See Codification note above.
+Subsec. (c). Pub. L. 119–60, §§ 3111(d)(1)(A), 3121(2)–(4)(A), redesignated subsec. (d) as (c), substituted “subsection (b)(1)” for “subsection (b)(2)” in introductory provisions, and struck out former subsec. (c) which listed the minimum elements required in the biennial plan summary. See Codification note above.
 
-Subsec. (c)(4)(A). Pub. L. 119–60, §§ 3111(d)(1)(A), 3121(4)(B)(i), substituted “construction, modernization, and refurbishment” for “modernization and refurbishment” in introductory provisions. See Codification note above.
+Subsec. (c)(4)(A). Pub. L. 119–60, §§ 3111(d)(1)(A), 3121(4)(B)(i), substituted “construction, modernization, and refurbishment” for “modernization and refurbishment” in introductory provisions. See Codification note above.
 
-Subsec. (c)(4)(B) to (G). Pub. L. 119–60, §§ 3111(d)(1)(A), 3121(4)(B)(ii)–(iv), added subpars. (B), (D), and (E) and redesignated former subpars. (B), (C), and (D) as (C), (F), and (G), respectively. See Codification note above.
+Subsec. (c)(4)(B) to (G). Pub. L. 119–60, §§ 3111(d)(1)(A), 3121(4)(B)(ii)–(iv), added subpars. (B), (D), and (E) and redesignated former subpars. (B), (C), and (D) as (C), (F), and (G), respectively. See Codification note above.
 
-Subsec. (d). Pub. L. 119–60, §§ 3111(d)(1)(A), 3121(3), (5), redesignated subsec. (d) as (c) and substituted “subsection (b)(1)” for “subsection (b)(2)” in introductory provisions of pars. (1) and (2). See Codification note above.
+Subsec. (d). Pub. L. 119–60, §§ 3111(d)(1)(A), 3121(3), (5), redesignated subsec. (d) as (c) and substituted “subsection (b)(1)” for “subsection (b)(2)” in introductory provisions of pars. (1) and (2). See Codification note above.
 
-Subsecs. (e), (f). Pub. L. 119–60, §§ 3111(d)(1)(A), 3121(3), redesignated subsecs. (e) and (f) as (d) and (e), respectively. See Codification note above.
+Subsecs. (e), (f). Pub. L. 119–60, §§ 3111(d)(1)(A), 3121(3), redesignated subsecs. (e) and (f) as (d) and (e), respectively. See Codification note above.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Further Technical Amendments**
 
-Pub. L. 119–60, div. C, title XXXI, § 3111(d)(1), Dec. 18, 2025, 139 Stat. 1461, provided that:
+Pub. L. 119–60, div. C, title XXXI, § 3111(d)(1), Dec. 18, 2025, 139 Stat. 1461, provided that:
 
 > **“(1) Coordination with other amendments made by this act.—** The amendments made by sections 3112 [amending section 6128 of this title], 3113 [enacting section 6137 of this title and amending section 6131 of this title], 3114 [amending section 6227 of this title], 3115 [amending section 6241 of this title], 3116 [amending section 6284 of this title], 3117 [enacting section 6340 of this title], and 3122 [probably should be “3121”, amending section 6114 of this title] of this Act shall take effect immediately after the amendment made by subsection (a) [enacting this subpart] and shall be executed in subpart B of part VI of subtitle A of title 10, United States Code [10 U.S.C. 6101 et seq.], as added by subsection (a), as follows:
 
@@ -481,7 +481,7 @@ Pub. L. 119–60, div. C, title XXXI, § 3111(d)(1), Dec. 18, 2025, 139 Stat. 
 
 **Report on the Plan for the Nuclear Weapons Stockpile, Nuclear Weapons Complex, and Delivery Platforms and Sense of Congress on Follow-on Negotiations to START Treaty**
 
-Pub. L. 111–84, div. A, title XII, § 1251, Oct. 28, 2009, 123 Stat. 2549, provided that:
+Pub. L. 111–84, div. A, title XII, § 1251, Oct. 28, 2009, 123 Stat. 2549, provided that:
 
 > **“(a) Report on the Plan for the Nuclear Weapons Stockpile, Nuclear Weapons Complex, and Delivery Platforms.—**
 
@@ -525,7 +525,7 @@ The Secretary of Defense is authorized and directed to publish this memorandum i
 
 Barack Obama.
 
-### § 6115. Major warhead refurbishment program
+### § 6115. Major warhead refurbishment program
 
 In fiscal year 2015 and subsequent fiscal years, the Secretary of Energy shall submit to the congressional defense committees a report, on each major warhead refurbishment program that reaches the Phase 6.3 milestone, that provides an analysis of alternatives. Such report shall include—
 
@@ -541,17 +541,17 @@ In fiscal year 2015 and subsequent fiscal years, the Secretary of Energy shall s
 
 **(6)** a life-cycle cost estimate for the alternative selected that details the overall cost, scope, and schedule planning assumptions.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1352.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1352.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 6115, act Aug. 10, 1956, ch. 1041, 70A Stat. 382, prescribed a time limit for filing claims for drill pay and for the uniform gratuity. Section was also amended by Pub. L. 85–861, § 33(a)(31), which amended catchline by substituting “uniform gratuity” for “unform gratuity”, prior to repeal by Pub. L. 85–861, § 36B(17), Sept. 2, 1958, 72 Stat. 1571.
+A prior section 6115, act Aug. 10, 1956, ch. 1041, 70A Stat. 382, prescribed a time limit for filing claims for drill pay and for the uniform gratuity. Section was also amended by Pub. L. 85–861, § 33(a)(31), which amended catchline by substituting “uniform gratuity” for “unform gratuity”, prior to repeal by Pub. L. 85–861, § 36B(17), Sept. 2, 1958, 72 Stat. 1571.
 
-Provisions similar to those in this section were contained in section 2523c of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(3).
+Provisions similar to those in this section were contained in section 2523c of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(3).
 
-### § 6116. Stockpile management program
+### § 6116. Stockpile management program
 
 **(a) Program Required.—** The Secretary of Energy, acting through the Administrator and in consultation with the Secretary of Defense, shall carry out a program, in support of the stockpile stewardship program, to provide for the effective management, modernization, and replacement, as required, of the weapons in the nuclear weapons stockpile. The program shall have the following objectives:
 
@@ -583,17 +583,17 @@ Provisions similar to those in this section were contained in section 2523c of T
 
 **(c) Program Budget.—** In accordance with the requirements under section 6120, for each budget submitted by the President to Congress under section 1105 of title 31, the amounts requested for the program under this section shall be clearly identified in the budget justification materials submitted to Congress in support of that budget.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1352.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1352.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 6116, act Aug. 10, 1956, ch. 1041, 70A Stat. 382, provided that in computing length of service, no officer of the Navy or Marine Corps could be credited with service as a midshipman at the Naval Academy or as a cadet at the Military Academy, if he was appointed as a midshipman or cadet after Mar. 4, 1913. See section 971 of this title, prior to repeal by Pub. L. 90–235, § 6(a)(2), Jan. 2, 1968, 81 Stat. 761.
+A prior section 6116, act Aug. 10, 1956, ch. 1041, 70A Stat. 382, provided that in computing length of service, no officer of the Navy or Marine Corps could be credited with service as a midshipman at the Naval Academy or as a cadet at the Military Academy, if he was appointed as a midshipman or cadet after Mar. 4, 1913. See section 971 of this title, prior to repeal by Pub. L. 90–235, § 6(a)(2), Jan. 2, 1968, 81 Stat. 761.
 
-Provisions similar to those in this section were contained in section 2524 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2524 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6117. Annual assessments and reports to the President and Congress regarding the condition of the United States nuclear weapons stockpile
+### § 6117. Annual assessments and reports to the President and Congress regarding the condition of the United States nuclear weapons stockpile
 
 **(a) Annual Assessments Required.—** For each nuclear weapon type in the stockpile of the United States, each official specified in subsection (b) on an annual basis shall, to the extent such official is directly responsible for the safety, reliability, performance, or military effectiveness of that nuclear weapon type, complete an assessment of the safety, reliability, performance, or military effectiveness (as the case may be) of that nuclear weapon type.
 
@@ -683,31 +683,31 @@ Provisions similar to those in this section were contained in section 2524 of Ti
 
 **(2)** the Secretary of Defense, with respect to matters concerning the Department of Defense.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1353, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1353, 1462.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2525 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2525 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-### § 6118. Form of certifications regarding the safety or reliability of the nuclear weapons stockpile
+### § 6118. Form of certifications regarding the safety or reliability of the nuclear weapons stockpile
 
 Any certification submitted to the President by the Secretary of Defense or the Secretary of Energy regarding confidence in the safety or reliability of a nuclear weapon type in the United States nuclear weapons stockpile shall be submitted in classified form only.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1356.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1356.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2526 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2526 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6119. Nuclear test ban readiness program
+### § 6119. Nuclear test ban readiness program
 
 **(a) Establishment of Program.—** The Secretary of Energy shall establish and support a program to assure that the United States is in a position to maintain the reliability, safety, and continued deterrent effect of its stockpile of existing nuclear weapons designs in the event that a low-threshold or comprehensive ban on nuclear explosives testing is negotiated and ratified within the framework agreed to by the United States and the Russian Federation.
 
@@ -721,15 +721,15 @@ Provisions similar to those in this section were contained in section 2526 of Ti
 
 **(c) Conduct of Program.—** The Secretary of Energy shall carry out the program provided for in subsection (a). The program shall be carried out with the participation of representatives of the Department of Defense, the nuclear weapons production facilities, and the national security laboratories.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1356.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1356.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2527 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2527 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6120. Requirements for specific request for new or modified nuclear weapons
+### § 6120. Requirements for specific request for new or modified nuclear weapons
 
 **(a) Requirement for Request for Funds for Development.—**
 
@@ -771,33 +771,33 @@ Provisions similar to those in this section were contained in section 2527 of Ti
 
 **(B)** in production as of that date.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1357, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1357, 1462.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2529 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2529 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Development of Low-Yield Nuclear Weapons; Authorization and Limitation**
 
-Pub. L. 115–232, div. C, title XXXI, § 3111(a), Aug. 13, 2018, 132 Stat. 2289, provided that: “The Secretary of Energy, acting through the Administrator for Nuclear Security, may carry out the engineering development phase, and any subsequent phase, to modify or develop a low-yield nuclear warhead for submarine-launched ballistic missiles.”
+Pub. L. 115–232, div. C, title XXXI, § 3111(a), Aug. 13, 2018, 132 Stat. 2289, provided that: “The Secretary of Energy, acting through the Administrator for Nuclear Security, may carry out the engineering development phase, and any subsequent phase, to modify or develop a low-yield nuclear warhead for submarine-launched ballistic missiles.”
 
-Pub. L. 108–136, div. C, title XXXI, § 3116(c), Nov. 24, 2003, 117 Stat. 1746, as amended by Pub. L. 115–232, div. C, title XXXI, § 3111(b), Aug. 13, 2018, 132 Stat. 2289; Pub. L. 119–60, div. C, title XXXI, § 3111(c)(2)(I), Dec. 18, 2025, 139 Stat. 1461, provided that: “The Secretary of Energy may not commence the engineering development phase, or any subsequent phase, of a low-yield nuclear weapon unless the Secretary specifically requests funding for the development of that weapon pursuant to section 6120 of title 10, United States Code.”
+Pub. L. 108–136, div. C, title XXXI, § 3116(c), Nov. 24, 2003, 117 Stat. 1746, as amended by Pub. L. 115–232, div. C, title XXXI, § 3111(b), Aug. 13, 2018, 132 Stat. 2289; Pub. L. 119–60, div. C, title XXXI, § 3111(c)(2)(I), Dec. 18, 2025, 139 Stat. 1461, provided that: “The Secretary of Energy may not commence the engineering development phase, or any subsequent phase, of a low-yield nuclear weapon unless the Secretary specifically requests funding for the development of that weapon pursuant to section 6120 of title 10, United States Code.”
 
-### § 6121. Testing of nuclear weapons
+### § 6121. Testing of nuclear weapons
 
 **(a) Underground Testing.—** No underground test of nuclear weapons may be conducted by the United States after September 30, 1996, unless a foreign state conducts a nuclear test after this date, at which time the prohibition on United States nuclear testing is lifted.
 
 **(b) Atmospheric Testing.—** None of the funds appropriated pursuant to the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; 107 Stat. 1547) or any other Act for any fiscal year may be available to maintain the capability of the United States to conduct atmospheric testing of a nuclear weapon.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1358.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1358.)
 
 **Editorial Notes**
 
@@ -807,9 +807,9 @@ The National Defense Authorization Act for Fiscal Year 1994, referred to in subs
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2530 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2530 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6122. Manufacturing infrastructure for refabrication and certification of nuclear weapons stockpile
+### § 6122. Manufacturing infrastructure for refabrication and certification of nuclear weapons stockpile
 
 **(a) Manufacturing Program.—**
 
@@ -839,19 +839,19 @@ Provisions similar to those in this section were contained in section 2530 of Ti
 
 **(5)** The non-nuclear component capabilities of the Kansas City National Security Campus, Kansas City, Missouri.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1358, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1358, 1462.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2532 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2532 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-### § 6123. Acceleration of depleted uranium manufacturing processes
+### § 6123. Acceleration of depleted uranium manufacturing processes
 
 **(a) Acceleration of Manufacturing.—** The Administrator shall require the nuclear security enterprise to accelerate the modernization of manufacturing processes for depleted uranium by 2030 so that the nuclear security enterprise—
 
@@ -871,15 +871,15 @@ Provisions similar to those in this section were contained in section 2532 of Ti
 
 **(3)** the ability of the nuclear security enterprise to convert depleted uranium fluoride hexafluoride to depleted uranium tetrafluoride.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1359.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1359.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 3121 of Pub. L. 117–263, which was set out as a note under section 2532 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(11).
+Provisions similar to those in this section were contained in section 3121 of Pub. L. 117–263, which was set out as a note under section 2532 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(11).
 
-### § 6124. Reports on critical difficulties at national security laboratories and nuclear weapons production facilities
+### § 6124. Reports on critical difficulties at national security laboratories and nuclear weapons production facilities
 
 **(a) Reports by Heads of Laboratories and Facilities.—** In the event of a difficulty at a national security laboratory or a nuclear weapons production facility that has a significant bearing on confidence in the safety or reliability of a nuclear weapon or nuclear weapon type, the head of the laboratory or facility, as the case may be, shall submit to the Administrator a report on the difficulty. The head of the laboratory or facility shall submit the report as soon as practicable after discovery of the difficulty.
 
@@ -887,13 +887,13 @@ Provisions similar to those in this section were contained in section 3121 of Pu
 
 **(c) Inclusion of Reports in Annual Stockpile Assessment.—** Any report submitted pursuant to subsection (a) shall also be submitted to the President and Congress with the matters required to be submitted under section 6117(f) for the year in which such report is submitted.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1359.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1359.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2533 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2533 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -903,7 +903,7 @@ For transfer of functions, personnel, assets, and liabilities of the advanced sc
 
 All national security functions and activities performed immediately before Oct. 5, 1999, by nuclear weapons laboratories and production facilities defined in this section, transferred to the Administrator for Nuclear Security of the National Nuclear Security Administration of the Department of Energy, see section 2481 of Title 50, War and National Defense.
 
-### § 6125. Selected acquisition reports 1 [footnote: 1 So in original. Probably should be “Selected Acquisition Reports”.] and independent cost estimates and reviews of certain programs and facilities
+### § 6125. Selected acquisition reports 1 [footnote: 1 So in original. Probably should be “Selected Acquisition Reports”.] and independent cost estimates and reviews of certain programs and facilities
 
 **(a) Selected Acquisition Reports.—**
 
@@ -949,19 +949,19 @@ All national security functions and activities performed immediately before Oct.
 
 **(c) Authority for Further Assessments.—** Upon the request of the Administrator, the Secretary of Defense, acting through the Director of Cost Assessment and Program Evaluation and in consultation with the Administrator, may conduct an independent cost assessment of any initiative or program of the Administration that is estimated to cost more than $500,000,000.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1360, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1360, 1462.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2537 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2537 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-### § 6126. Advice to President and Congress regarding safety, security, and reliability of United States nuclear weapons stockpile
+### § 6126. Advice to President and Congress regarding safety, security, and reliability of United States nuclear weapons stockpile
 
 **(a) Policy.—**
 
@@ -1003,21 +1003,21 @@ Provisions similar to those in this section were contained in section 2537 of Ti
 
 **(4)** Any official of the Office of Management and Budget.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1361, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1361, 1462.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2538 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2538 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-Subsec. (a). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (3) headings which read as follows: “In general”, “Nuclear weapons stockpile”, and “Sense of congress”, respectively.
+Subsec. (a). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (3) headings which read as follows: “In general”, “Nuclear weapons stockpile”, and “Sense of congress”, respectively.
 
-Subsec. (c). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which read as follows: “In general” and “Construction”, respectively.
+Subsec. (c). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which read as follows: “In general” and “Construction”, respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1027,21 +1027,21 @@ For transfer of functions, personnel, assets, and liabilities of the advanced sc
 
 All national security functions and activities performed immediately before Oct. 5, 1999, by nuclear weapons laboratories and production plants defined in this section, transferred to the Administrator for Nuclear Security of the National Nuclear Security Administration of the Department of Energy, see section 2481 of Title 50, War and National Defense.
 
-### § 6127. Notification of certain regulations that impact the National Nuclear Security Administration
+### § 6127. Notification of certain regulations that impact the National Nuclear Security Administration
 
 **(a) In General.—** If a director of a national security laboratory of the Administration determines that a Federal regulation could inhibit the ability of the Administrator to maintain the safety, security, or effectiveness of the nuclear weapons stockpile without engaging in explosive nuclear testing, such director, not later than 15 days after making such determination, shall submit to Congress a notification of such determination.
 
 **(b) Form.—** Each notification required by subsection (a) shall be submitted in unclassified form, but may include a classified annex.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1362.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1362.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 3125 of Pub. L. 118–159, which was set out as a note under section 2538 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(12).
+Provisions similar to those in this section were contained in section 3125 of Pub. L. 118–159, which was set out as a note under section 2538 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(12).
 
-### § 6128. Plutonium pit production capacity
+### § 6128. Plutonium pit production capacity
 
 **(a) Requirement.—** Consistent with the requirements of the Secretary of Defense, the Secretary of Energy shall ensure that the nuclear security enterprise—
 
@@ -1115,7 +1115,7 @@ Provisions similar to those in this section were contained in section 3125 of Pu
 
 **(2)** the Plutonium Pit Production Project, Los Alamos National Laboratory, Los Alamos, New Mexico (Project 21–D–512).
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, §§ 3111(a), (d)(1)(B), (2), 3112, Dec. 18, 2025, 139 Stat. 1363, 1461, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, §§ 3111(a), (d)(1)(B), (2), 3112, Dec. 18, 2025, 139 Stat. 1363, 1461, 1462.)
 
 **Editorial Notes**
 
@@ -1125,25 +1125,25 @@ Amendment by section 3112 of Pub. L. 119–60 directed to section 4219 of Pub. L
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2538a of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2538a of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-Subsec. (d). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which read as follows: “Requirement” and “Failure to certify”, respectively.
+Subsec. (d). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which read as follows: “Requirement” and “Failure to certify”, respectively.
 
-Subsec. (e). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which read as follows: “Requirement” and “Elements”, respectively.
+Subsec. (e). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which read as follows: “Requirement” and “Elements”, respectively.
 
-Subsec. (f). Pub. L. 119–60, §§ 3111(d)(1)(B), 3112(4), added subsec. (f). Former subsec. (f) redesignated (g). See Codification note above.
+Subsec. (f). Pub. L. 119–60, §§ 3111(d)(1)(B), 3112(4), added subsec. (f). Former subsec. (f) redesignated (g). See Codification note above.
 
-Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (3) headings which read as follows: “In general”, “Exceptions”, and “Definitions”, respectively.
+Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (3) headings which read as follows: “In general”, “Exceptions”, and “Definitions”, respectively.
 
-Subsec. (g). Pub. L. 119–60, §§ 3111(d)(1)(B), 3112(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (i). See Codification note above.
+Subsec. (g). Pub. L. 119–60, §§ 3111(d)(1)(B), 3112(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (i). See Codification note above.
 
-Subsec. (i). Pub. L. 119–60, §§ 3111(d)(1)(B), 3112(1)–(3), redesignated subsec. (g) as (i) and moved subsec. (i) so as to appear after subsec. (h) and substituted “this section” for “this subsection” in introductory provisions. See Codification note above.
+Subsec. (i). Pub. L. 119–60, §§ 3111(d)(1)(B), 3112(1)–(3), redesignated subsec. (g) as (i) and moved subsec. (i) so as to appear after subsec. (h) and substituted “this section” for “this subsection” in introductory provisions. See Codification note above.
 
-### § 6129. Certification of completion of milestones with respect to plutonium pit aging
+### § 6129. Certification of completion of milestones with respect to plutonium pit aging
 
 **(a) Requirement.—** The Administrator shall complete the milestones on plutonium pit aging identified in the report entitled “Research Program Plan for Plutonium and Pit Aging”, published by the Administration in September 2021.
 
@@ -1171,7 +1171,7 @@ Subsec. (i). Pub. L. 119–60, §§ 3111(d)(1)(B), 3112(1)–(3), redesignated
 
 **(C)** specifying new dates for the completion of the milestones the Administrator anticipates the Administration will meet.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1365.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1365.)
 
 **Editorial Notes**
 
@@ -1181,9 +1181,9 @@ The date of the enactment of this Act, referred to in subsecs. (b)(1) and (c), i
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 3124 of Pub. L. 117–263, which was set out as a note under section 2538a of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(11).
+Provisions similar to those in this section were contained in section 3124 of Pub. L. 117–263, which was set out as a note under section 2538a of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(11).
 
-### § 6130. Authorization of workforce development and training partnership programs within National Nuclear Security Administration
+### § 6130. Authorization of workforce development and training partnership programs within National Nuclear Security Administration
 
 **(a) Authority.—** The Administrator for Nuclear Security may authorize management and operating contractors at covered facilities to develop and implement workforce development and training partnership programs to further the education and training of employees or prospective employees of such management and operating contractors to meet the requirements of section 6128.
 
@@ -1199,15 +1199,15 @@ Provisions similar to those in this section were contained in section 3124 of Pu
 
 **(2)** The term “prospective employee” means an individual who has applied (or who, based on their field of study and experience, is likely to apply) for a position of employment with a management and operating contractor to support plutonium pit production at a covered facility.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1366.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1366.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 3126 of Pub. L. 117–263, which was set out as a note under section 2538a of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(11).
+Provisions similar to those in this section were contained in section 3126 of Pub. L. 117–263, which was set out as a note under section 2538a of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(11).
 
-### § 6131. Stockpile responsiveness program
+### § 6131. Stockpile responsiveness program
 
 **(a) Statement of Policy.—** It is the policy of the United States to identify, sustain, enhance, integrate, and continually exercise all capabilities required to conceptualize, study, design, develop, engineer, certify, produce, and deploy nuclear weapons to ensure the nuclear deterrent of the United States remains safe, secure, reliable, credible, and responsive.
 
@@ -1229,7 +1229,7 @@ Provisions similar to those in this section were contained in section 3126 of Pu
 
 **(d) Joint Nuclear Weapons Life Cycle Process Defined.—** In this section, the term “joint nuclear weapons life cycle process” means the process developed and maintained by the Secretary of Defense and the Secretary of Energy for the development, production, maintenance, and retirement of nuclear weapons.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, §§ 3111(a), (d)(1)(C), 3113(a), Dec. 18, 2025, 139 Stat. 1366, 1461, 1463.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, §§ 3111(a), (d)(1)(C), 3113(a), Dec. 18, 2025, 139 Stat. 1366, 1461, 1463.)
 
 **Editorial Notes**
 
@@ -1239,15 +1239,15 @@ Amendment by section 3113 of Pub. L. 119–60 directed to section 4220(c) of Pub
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2538b of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2538b of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Subsec. (c)(3). Pub. L. 119–60, §§ 3111(d)(1)(C), 3113(a)(1)(A), substituted “Continually” for “Periodically” and inserted “integrated system demonstrations,” after “flight testing,”. See Codification note above.
+2025—Subsec. (c)(3). Pub. L. 119–60, §§ 3111(d)(1)(C), 3113(a)(1)(A), substituted “Continually” for “Periodically” and inserted “integrated system demonstrations,” after “flight testing,”. See Codification note above.
 
-Subsec. (c)(4). Pub. L. 119–60, §§ 3111(d)(1)(C), 3113(a)(1)(B), substituted “Develop technologies for transition to a nuclear stockpile life extension program or new nuclear weapon program project that have the potential to reduce” for “Shorten” and “cost and schedule” for “and timelines to minimize the amount of time and costs leading to an engineering prototype and production”. See Codification note above.
+Subsec. (c)(4). Pub. L. 119–60, §§ 3111(d)(1)(C), 3113(a)(1)(B), substituted “Develop technologies for transition to a nuclear stockpile life extension program or new nuclear weapon program project that have the potential to reduce” for “Shorten” and “cost and schedule” for “and timelines to minimize the amount of time and costs leading to an engineering prototype and production”. See Codification note above.
 
-### § 6132. Long-term plan for meeting national security requirements for unencumbered uranium
+### § 6132. Long-term plan for meeting national security requirements for unencumbered uranium
 
 **(a) In General.—** Not later than December 31 of each odd-numbered year through 2031, the Secretary of Energy shall submit to the congressional defense committees a plan for meeting national security requirements for unencumbered uranium through 2070.
 
@@ -1285,15 +1285,15 @@ Subsec. (c)(4). Pub. L. 119–60, §§ 3111(d)(1)(C), 3113(a)(1)(B), substitut
 
 **(2)** The term “unencumbered”, with respect to uranium, means that the United States has no obligation to foreign governments to use the uranium for only peaceful purposes.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1367.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1367.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2538c of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2538c of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6133. Plan for domestic enrichment capability to satisfy Department of Defense uranium requirements
+### § 6133. Plan for domestic enrichment capability to satisfy Department of Defense uranium requirements
 
 **(a) Report.—** Not later than 120 days after the date of the enactment of National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31), the Administrator shall submit to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives a report that contains a plan to establish a domestic enrichment capability sufficient to meet defense requirements for enriched uranium. Such plan shall include—
 
@@ -1327,7 +1327,7 @@ Provisions similar to those in this section were contained in section 2538c of T
 
 **(c) Form of Reports.—** The report under subsection (a) and each annual certification under subsection (b) shall be submitted in unclassified form, but may include a classified annex.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1368, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1368, 1462.)
 
 **Editorial Notes**
 
@@ -1339,15 +1339,15 @@ The date of the enactment of this Act, referred to in subsec. (a)(1), is the dat
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 3133 of Pub. L. 118–31, which was set out as a note under section 2538c of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(13).
+Provisions similar to those in this section were contained in section 3133 of Pub. L. 118–31, which was set out as a note under section 2538c of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(13).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-Subsec. (b). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which read as follows: “In general” and “Termination date”, respectively.
+Subsec. (b). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which read as follows: “In general” and “Termination date”, respectively.
 
-### § 6134. Incorporation of integrated surety architecture
+### § 6134. Incorporation of integrated surety architecture
 
 **(a) Shipments.—**
 
@@ -1369,19 +1369,19 @@ Subsec. (b). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) 
 
 **(d) Termination.—** The requirements of subsections (a) and (b) shall terminate on December 31, 2029.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1369, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1369, 1462.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2538d of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2538d of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-### § 6135. W93 nuclear warhead acquisition process
+### § 6135. W93 nuclear warhead acquisition process
 
 **(a) Reporting Requirements.—**
 
@@ -1443,23 +1443,23 @@ Provisions similar to those in this section were contained in section 2538d of T
 
 **(d) Joint Nuclear Weapons Life Cycle Defined.—** In this section, the term “joint nuclear weapons life cycle” has the meaning given that term in section 6131.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1370, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1370, 1462.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2538e of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2538e of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-Subsec. (a)(1). Pub. L. 119–60, § 3111(d)(2)(A), struck out par. (1) heading which read as follows: “Phase 1”.
+Subsec. (a)(1). Pub. L. 119–60, § 3111(d)(2)(A), struck out par. (1) heading which read as follows: “Phase 1”.
 
-Subsec. (a)(2). Pub. L. 119–60, § 3111(d)(2)(A), struck out headings for par. (2) “Phase 2” and subpars. (A) and (B) “In general” and “Requirements for process”, respectively.
+Subsec. (a)(2). Pub. L. 119–60, § 3111(d)(2)(A), struck out headings for par. (2) “Phase 2” and subpars. (A) and (B) “In general” and “Requirements for process”, respectively.
 
-### § 6136. Earned value management and technology readiness levels for life extension programs
+### § 6136. Earned value management and technology readiness levels for life extension programs
 
 **(a) Review of Contractor Earned Value Management Systems.—** The Administrator shall enter into an arrangement with an independent entity under which that entity shall—
 
@@ -1477,15 +1477,15 @@ Subsec. (a)(2). Pub. L. 119–60, § 3111(d)(2)(A), struck out headings for pa
 
 **(d) Definition.—** In this section, the term “earned value management national standard” means the most recent version of the EIA-748 Earned Value Management System Standard published by the National Defense Industrial Association.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1371.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1371.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2538f of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2538f of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6137. Rapid capabilities program
+### § 6137. Rapid capabilities program
 
 **(a) In General.—** The Secretary of Energy, acting through the Administrator and in coordination with the Secretary of Defense, shall carry out a program (to be known as the “rapid capabilities program”) to develop new nuclear weapons or modified nuclear weapons that meet military requirements.
 
@@ -1517,7 +1517,7 @@ Provisions similar to those in this section were contained in section 2538f of T
 
 **(e) Joint Nuclear Weapons Life Cycle Process Defined.—** In this section, the term “joint nuclear weapons life cycle process” means the process developed and maintained by the Secretary of Defense and the Secretary of Energy for the development, production, maintenance, and retirement of nuclear weapons.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, §§ 3111(d)(1)(D), 3113(a)(2), Dec. 18, 2025, 139 Stat. 1462, 1463.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, §§ 3111(d)(1)(D), 3113(a)(2), Dec. 18, 2025, 139 Stat. 1462, 1463.)
 
 **Editorial Notes**
 
@@ -1533,7 +1533,7 @@ Amendment by section 3113 of Pub. L. 119–60, which was directed to subtitle A 
 
 Subchapter analysis added pursuant to operation of section 102 of this title.
 
-### § 6141. Tritium production program
+### § 6141. Tritium production program
 
 **(a) Establishment of Program.—** The Secretary of Energy shall establish a tritium production program that is capable of meeting the tritium requirements of the United States for nuclear weapons.
 
@@ -1541,7 +1541,7 @@ Subchapter analysis added pursuant to operation of section 102 of this title.
 
 **(c) In-reactor Tests.—** The Secretary may perform in-reactor tests of tritium target rods as part of the activities carried out under the commercial light water reactor program.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1372.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1372.)
 
 **Editorial Notes**
 
@@ -1549,9 +1549,9 @@ Subchapter analysis added pursuant to operation of section 102 of this title.
 
 A prior section 6141 was renumbered section 8261 of this title.
 
-Provisions similar to those in this section were contained in section 2541 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2541 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6142. Tritium recycling
+### § 6142. Tritium recycling
 
 **(a) In General.—** Except as provided in subsection (b), the following activities shall be carried out at the Savannah River Site, South Carolina:
 
@@ -1567,17 +1567,17 @@ Provisions similar to those in this section were contained in section 2541 of Ti
 
 **(3)** Provision of technical assistance to the Savannah River Site regarding the weapons surveillance program.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1372.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1372.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 6142, act Aug. 10, 1956, ch. 1041, 70A Stat. 382, provided for assignments of pay due to enlisted members. See section 705 of Title 37, Pay and Allowances of the Uniformed Services, prior to repeal by Pub. L. 87–649, § 14c(38–43), Sept. 7, 1962, 76 Stat. 501, effective Nov. 1, 1962.
+A prior section 6142, act Aug. 10, 1956, ch. 1041, 70A Stat. 382, provided for assignments of pay due to enlisted members. See section 705 of Title 37, Pay and Allowances of the Uniformed Services, prior to repeal by Pub. L. 87–649, § 14c(38–43), Sept. 7, 1962, 76 Stat. 501, effective Nov. 1, 1962.
 
-Provisions similar to those in this section were contained in section 2542 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2542 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6143. Modernization and consolidation of tritium recycling facilities
+### § 6143. Modernization and consolidation of tritium recycling facilities
 
 The Secretary of Energy shall carry out activities at the Savannah River Site, South Carolina, to—
 
@@ -1585,17 +1585,17 @@ The Secretary of Energy shall carry out activities at the Savannah River Site, S
 
 **(2)** provide a modern tritium extraction facility so as to ensure that such facilities have a capacity to recycle tritium from weapons that is adequate to meet the requirements for tritium for weapons specified in the Nuclear Weapons Stockpile Memorandum.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1372.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1372.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 6143, act Aug. 10, 1956, ch. 1041, 70A Stat. 383, related to discouragement of sale of pay. See section 805 of Title 37, Pay and Allowances of the Uniformed Services, prior to repeal by Pub. L. 87–649, § 14c(38–43), Sept. 7, 1962, 76 Stat. 501, effective Nov. 1, 1962.
+A prior section 6143, act Aug. 10, 1956, ch. 1041, 70A Stat. 383, related to discouragement of sale of pay. See section 805 of Title 37, Pay and Allowances of the Uniformed Services, prior to repeal by Pub. L. 87–649, § 14c(38–43), Sept. 7, 1962, 76 Stat. 501, effective Nov. 1, 1962.
 
-Provisions similar to those in this section were contained in section 2544 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2544 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-Prior sections 6144 to 6147 were repealed by Pub. L. 87–649, § 14c(38–43), Sept. 7, 1962, 76 Stat. 501, effective Nov. 1, 1962.
+Prior sections 6144 to 6147 were repealed by Pub. L. 87–649, § 14c(38–43), Sept. 7, 1962, 76 Stat. 501, effective Nov. 1, 1962.
 
 Section 6144, act Aug. 10, 1956, ch. 1041, 70A Stat. 383, provided for settlement of pay accounts when lost with vessel. See section 902 of Title 37, Pay and Allowances of the Uniformed Services.
 
@@ -1605,8 +1605,8 @@ Section 6146, act Aug. 10, 1956, ch. 1041, 70A Stat. 383, provided for allotment
 
 Section 6147, act Aug. 10, 1956, ch. 1041, 70A Stat. 383, related to allowances for prisoners. See section 426 of Title 37, Pay and Allowances of the Uniformed Services.
 
-A prior section 6148, acts Aug. 10, 1956, ch. 1041, 70A Stat. 383; Sept. 2, 1958, Pub. L. 85–861, §§ 1(137), 36B(18), 72 Stat. 1507, 1571; Sept. 7, 1962, Pub. L. 87–649, § 6(e), 76 Stat. 494; Sept. 7, 1962, Pub. L. 87–651, title I, § 123(a), 76 Stat. 514; Oct. 19, 1984, Pub. L. 98–525, title VI, § 631(b), 98 Stat. 2543; Nov. 8, 1985, Pub. L. 99–145, title XIII, § 1303(a)(22), 99 Stat. 739, related to disability and death benefits for members of Naval Reserve and Marine Corps Reserve, prior to repeal by Pub. L. 99–661, div. A, title VI, § 604(f)(1)(A), Nov. 14, 1986, 100 Stat. 3877.
+A prior section 6148, acts Aug. 10, 1956, ch. 1041, 70A Stat. 383; Sept. 2, 1958, Pub. L. 85–861, §§ 1(137), 36B(18), 72 Stat. 1507, 1571; Sept. 7, 1962, Pub. L. 87–649, § 6(e), 76 Stat. 494; Sept. 7, 1962, Pub. L. 87–651, title I, § 123(a), 76 Stat. 514; Oct. 19, 1984, Pub. L. 98–525, title VI, § 631(b), 98 Stat. 2543; Nov. 8, 1985, Pub. L. 99–145, title XIII, § 1303(a)(22), 99 Stat. 739, related to disability and death benefits for members of Naval Reserve and Marine Corps Reserve, prior to repeal by Pub. L. 99–661, div. A, title VI, § 604(f)(1)(A), Nov. 14, 1986, 100 Stat. 3877.
 
-A prior section 6149, act Aug. 10, 1956, ch. 1041, 70A Stat. 385, related to computation of retired pay on basis of rates of pay for officers on the active list, prior to repeal by Pub. L. 88–132, § 5(h)(3), Oct. 2, 1963, 77 Stat. 214, effective Oct. 1, 1963.
+A prior section 6149, act Aug. 10, 1956, ch. 1041, 70A Stat. 385, related to computation of retired pay on basis of rates of pay for officers on the active list, prior to repeal by Pub. L. 88–132, § 5(h)(3), Oct. 2, 1963, 77 Stat. 214, effective Oct. 1, 1963.
 
-A prior section 6150, acts Aug. 10, 1956, ch. 1041, 70A Stat. 385; Sept. 2, 1958, Pub. L. 85–861, § 33(a)(32), 72 Stat. 1566, authorized advancement to a higher retired grade for officers specially commended, prior to repeal by Pub. L. 86–155, § 9(a)(1), Aug. 11, 1959, 73 Stat. 337, effective Nov. 1, 1959.
+A prior section 6150, acts Aug. 10, 1956, ch. 1041, 70A Stat. 385; Sept. 2, 1958, Pub. L. 85–861, § 33(a)(32), 72 Stat. 1566, authorized advancement to a higher retired grade for officers specially commended, prior to repeal by Pub. L. 86–155, § 9(a)(1), Aug. 11, 1959, 73 Stat. 337, effective Nov. 1, 1959.

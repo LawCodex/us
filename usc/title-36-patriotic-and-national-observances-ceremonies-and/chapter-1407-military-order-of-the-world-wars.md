@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1407—MILITARY ORDER OF THE WORLD WARS"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1407—MILITARY ORDER OF THE WORLD WARS"
 identifier: "/us/usc/t36/stII/ptB/ch1407"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1407—MILITARY ORDER OF THE WORLD WARS
 
-## § 140701. Definition
+## § 140701. Definition
 
 For purposes of this chapter, “State” includes the District of Columbia and the territories and possessions of the United States.
 
@@ -25,11 +25,11 @@ For purposes of this chapter, “State” includes the District of Columbia and 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140701 | 36:5016. | Oct. 23, 1992, Pub. L. 102–484, title XVIII, § 1817, 106 Stat. 2584. |
+| 140701 | 36:5016. | Oct. 23, 1992, Pub. L. 102–484, title XVIII, § 1817, 106 Stat. 2584. |
 
 The words “the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands” are omitted as included in “the territories and possessions of the United States”.
 
-## § 140702. Organization
+## § 140702. Organization
 
 **(a) Federal Charter.—** Military Order of the World Wars (in this chapter, the “corporation”), a nonprofit corporation incorporated in the District of Columbia, is a federally chartered corporation.
 
@@ -47,14 +47,14 @@ The words “the Commonwealth of Puerto Rico, the Commonwealth of the Northern M
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140702(a) | 36:5001. | Oct. 23, 1992, Pub. L. 102–484, title XVIII, §§ 1801, 1815 (last sentence), 1816, 106 Stat. 2581, 2583. |
+| 140702(a) | 36:5001. | Oct. 23, 1992, Pub. L. 102–484, title XVIII, §§ 1801, 1815 (last sentence), 1816, 106 Stat. 2581, 2583. |
 | 140702(b) | 36:5014 (last sentence). 36:5015. |  |
 
 Subsection (a) is substituted for the source provision for consistency in the revised title.
 
 In subsection (b), the words “restriction or other” in 36:5015 are omitted as unnecessary. The text of 36:5014 (last sentence) is omitted as unnecessary because of clause (2) of the revised subsection.
 
-## § 140703. Purposes
+## § 140703. Purposes
 
 The purposes of the corporation are as provided in the articles of incorporation and bylaws and include—
 
@@ -76,11 +76,11 @@ The purposes of the corporation are as provided in the articles of incorporation
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140703 | 36:5003. | Oct. 23, 1992, Pub. L. 102–484, title XVIII, § 1803, 106 Stat. 2582. |
+| 140703 | 36:5003. | Oct. 23, 1992, Pub. L. 102–484, title XVIII, § 1803, 106 Stat. 2582. |
 
 The word “objects” is omitted as unnecessary.
 
-## § 140704. Membership
+## § 140704. Membership
 
 **(a) Eligibility.—** Except as provided in this chapter, eligibility for membership in the corporation and the rights and privileges of members are as provided in the articles of incorporation and bylaws.
 
@@ -92,14 +92,14 @@ The word “objects” is omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140704(a) | 36:5005. | Oct. 23, 1992, Pub. L. 102–484, title XVIII, §§ 1805, 1808 (related to membership), 106 Stat. 2582. |
+| 140704(a) | 36:5005. | Oct. 23, 1992, Pub. L. 102–484, title XVIII, §§ 1805, 1808 (related to membership), 106 Stat. 2582. |
 | 140704(b) | 36:5008 (related to membership). |  |
 
 In subsection (a), the words “Except as provided in this chapter” are substituted for “Except as provided in section 5008 of this title” for consistency in the revised title.
 
 In subsection (b), the words “The terms of membership” are substituted for “In establishing the conditions of membership in the corporation” for consistency in the revised title and to eliminate unnecessary words.
 
-## § 140705. Governing body
+## § 140705. Governing body
 
 **(a) Board of Directors.—** The board of directors and the responsibilities of the board are as provided in the articles of incorporation.
 
@@ -113,13 +113,13 @@ In subsection (b), the words “The terms of membership” are substituted for �
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140705(a) | 36:5006. | Oct. 23, 1992, Pub. L. 102–484, title XVIII, §§ 1806, 1807, 1808 (related to directors and officers), 106 Stat. 2582. |
+| 140705(a) | 36:5006. | Oct. 23, 1992, Pub. L. 102–484, title XVIII, §§ 1806, 1807, 1808 (related to directors and officers), 106 Stat. 2582. |
 | 140705(b) | 36:5007. |  |
 | 140705(c) | 36:5008 (related to directors and officers). |  |
 
 In subsections (a) and (b), the words “Except as provided in section 5008 of this title” and “in conformity with the laws of the State in which it is incorporated” are omitted as unnecessary.
 
-## § 140706. Powers
+## § 140706. Powers
 
 The corporation has only the powers provided in its bylaws and articles of incorporation filed in the State in which it is incorporated.
 
@@ -129,11 +129,11 @@ The corporation has only the powers provided in its bylaws and articles of incor
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140706 | 36:5002. | Oct. 23, 1992, Pub. L. 102–484, title XVIII, § 1802, 106 Stat. 2581. |
+| 140706 | 36:5002. | Oct. 23, 1992, Pub. L. 102–484, title XVIII, § 1802, 106 Stat. 2581. |
 
 The words “and subject to the laws of such State” are omitted as unnecessary.
 
-## § 140707. Restrictions
+## § 140707. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -149,14 +149,14 @@ The words “and subject to the laws of such State” are omitted as unnecessary
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140707(a) | 36:5009(c). | Oct. 23, 1992, Pub. L. 102–484, title XVIII, § 1809, 106 Stat. 2582. |
+| 140707(a) | 36:5009(c). | Oct. 23, 1992, Pub. L. 102–484, title XVIII, § 1809, 106 Stat. 2582. |
 | 140707(b) | 36:5009(a). |  |
 | 140707(c) | 36:5009(b). |  |
 | 140707(d) | 36:5009(d). |  |
 
 In subsection (a), the words “any shares of” are omitted as unnecessary.
 
-## § 140708. Duty to maintain tax-exempt status
+## § 140708. Duty to maintain tax-exempt status
 
 The corporation shall maintain its status as an organization exempt from taxation under the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.).
 
@@ -166,9 +166,9 @@ The corporation shall maintain its status as an organization exempt from taxatio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140708 | 36:5014 (1st sentence). | Oct. 23, 1992, Pub. L. 102–484, title XVIII, § 1815 (1st sentence), 106 Stat. 2583. |
+| 140708 | 36:5014 (1st sentence). | Oct. 23, 1992, Pub. L. 102–484, title XVIII, § 1815 (1st sentence), 106 Stat. 2583. |
 
-## § 140709. Records and inspection
+## § 140709. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -186,11 +186,11 @@ The corporation shall maintain its status as an organization exempt from taxatio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140709 | 36:5011. | Oct. 23, 1992, Pub. L. 102–484, title XVIII, § 1811, 106 Stat. 2583. |
+| 140709 | 36:5011. | Oct. 23, 1992, Pub. L. 102–484, title XVIII, § 1811, 106 Stat. 2583. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code. The words “Nothing in this section shall be construed to contravene any applicable State law” are omitted as unnecessary.
 
-## § 140710. Service of process
+## § 140710. Service of process
 
 The corporation shall comply with the law on service of process of each State in which it is incorporated and each State in which it carries on activities.
 
@@ -200,11 +200,11 @@ The corporation shall comply with the law on service of process of each State in
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140710 | 36:5004. | Oct. 23, 1992, Pub. L. 102–484, title XVIII, § 1804, 106 Stat. 2582. |
+| 140710 | 36:5004. | Oct. 23, 1992, Pub. L. 102–484, title XVIII, § 1804, 106 Stat. 2582. |
 
 The words “in furtherance of its corporate purposes” are omitted as unnecessary.
 
-## § 140711. Liability for acts of officers and agents
+## § 140711. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -214,9 +214,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140711 | 36:5010. | Oct. 23, 1992, Pub. L. 102–484, title XVIII, § 1810, 106 Stat. 2583. |
+| 140711 | 36:5010. | Oct. 23, 1992, Pub. L. 102–484, title XVIII, § 1810, 106 Stat. 2583. |
 
-## § 140712. Annual report
+## § 140712. Annual report
 
 The corporation shall submit an annual report to Congress on the activities of the corporation during the prior fiscal year. The report shall be submitted at the same time as the report of the audit required by section 10101 of this title. The report may not be printed as a public document.
 
@@ -226,4 +226,4 @@ The corporation shall submit an annual report to Congress on the activities of t
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140712 | 36:5012. | Oct. 23, 1992, Pub. L. 102–484, title XVIII, § 1813, 106 Stat. 2583. |
+| 140712 | 36:5012. | Oct. 23, 1992, Pub. L. 102–484, title XVIII, § 1813, 106 Stat. 2583. |

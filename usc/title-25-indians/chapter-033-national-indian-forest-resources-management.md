@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 33—NATIONAL INDIAN FOREST RESOURCES MANAGEMENT
 
-## § 3101. Findings
+## § 3101. Findings
 
 The Congress finds and declares that—
 
@@ -39,19 +39,19 @@ The Congress finds and declares that—
 
 **(6)** there is a serious threat to Indian forest lands arising from trespass and unauthorized harvesting of Indian forest land resources.
 
-(Pub. L. 101–630, title III, § 302, Nov. 28, 1990, 104 Stat. 4532.)
+(Pub. L. 101–630, title III, § 302, Nov. 28, 1990, 104 Stat. 4532.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–278, § 1, July 22, 2004, 118 Stat. 868, provided that: “This Act [enacting section 3115a of this title and enacting provisions set out as a note under section 3115b of this title] may be cited as the ‘Tribal Forest Protection Act of 2004’.”
+Pub. L. 108–278, § 1, July 22, 2004, 118 Stat. 868, provided that: “This Act [enacting section 3115a of this title and enacting provisions set out as a note under section 3115b of this title] may be cited as the ‘Tribal Forest Protection Act of 2004’.”
 
 **Short Title**
 
-Pub. L. 101–630, title III, § 301, Nov. 28, 1990, 104 Stat. 4532, provided that: “This title [enacting this chapter] may be cited as the ‘National Indian Forest Resources Management Act’.”
+Pub. L. 101–630, title III, § 301, Nov. 28, 1990, 104 Stat. 4532, provided that: “This title [enacting this chapter] may be cited as the ‘National Indian Forest Resources Management Act’.”
 
-## § 3102. Purposes
+## § 3102. Purposes
 
 The purposes of this chapter are to—
 
@@ -63,9 +63,9 @@ The purposes of this chapter are to—
 
 **(4)** provide for the authorization of necessary appropriations to carry out this chapter for the protection, conservation, utilization, management, and enhancement of Indian forest lands.
 
-(Pub. L. 101–630, title III, § 303, Nov. 28, 1990, 104 Stat. 4532.)
+(Pub. L. 101–630, title III, § 303, Nov. 28, 1990, 104 Stat. 4532.)
 
-## § 3103. Definitions
+## § 3103. Definitions
 
 For the purposes of this chapter, the term—
 
@@ -175,9 +175,9 @@ For the purposes of this chapter, the term—
 
 **(15)** “tribal integrated resource management plan” means a document, approved by an Indian tribe and the Secretary, which provides coordination for the comprehensive management of such tribe’s natural resources.
 
-(Pub. L. 101–630, title III, § 304, Nov. 28, 1990, 104 Stat. 4533.)
+(Pub. L. 101–630, title III, § 304, Nov. 28, 1990, 104 Stat. 4533.)
 
-## § 3104. Management of Indian forest land
+## § 3104. Management of Indian forest land
 
 **(a) Management activities**
 
@@ -207,15 +207,15 @@ The Secretary shall undertake forest land management activities on Indian forest
 
 **(7)** the maintenance and improvement of timber productivity, grazing, wildlife, fisheries, recreation, aesthetic, cultural and other traditional values.
 
-(Pub. L. 101–630, title III, § 305, Nov. 28, 1990, 104 Stat. 4535.)
+(Pub. L. 101–630, title III, § 305, Nov. 28, 1990, 104 Stat. 4535.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination Act, referred to in subsec. (a), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (a), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-## § 3105. Forest management deduction
+## § 3105. Forest management deduction
 
 **(a) Withholding of deduction**
 
@@ -243,9 +243,9 @@ The full amount of any deduction collected by the Secretary shall be expended ac
 
 **(2)** No other forest management deductions derived from Indian forest lands shall be collected to be covered into the general funds of the United States Treasury.
 
-(Pub. L. 101–630, title III, § 306, Nov. 28, 1990, 104 Stat. 4536.)
+(Pub. L. 101–630, title III, § 306, Nov. 28, 1990, 104 Stat. 4536.)
 
-## § 3106. Forest trespass
+## § 3106. Forest trespass
 
 **(a) Civil penalties; regulations** Not later than 18 months from November 28, 1990, the Secretary shall issue regulations that—
 
@@ -269,9 +269,9 @@ The proceeds of civil penalties collected under this section shall be treated as
 
 Indian tribes which adopt the regulations promulgated by the Secretary pursuant to subsection (a) shall have concurrent civil jurisdiction to enforce the provisions of this section and the regulation promulgated thereunder. The Bureau of Indian Affairs and other agencies of the Federal Government shall, at the request of the tribe, defer to tribal prosecutions of forest trespass cases. Tribal court judgments regarding forest trespass shall be entitled to full faith and credit in Federal and State courts to the same extent as a Federal court judgment obtained under this section.
 
-(Pub. L. 101–630, title III, § 307, Nov. 28, 1990, 104 Stat. 4537.)
+(Pub. L. 101–630, title III, § 307, Nov. 28, 1990, 104 Stat. 4537.)
 
-## § 3107. Direct payment of forest products receipts
+## § 3107. Direct payment of forest products receipts
 
 **(a) Regulations**
 
@@ -281,9 +281,9 @@ Notwithstanding any other law, the Secretary shall, within 1 year from November 
 
 Upon the request of an Indian tribe, the Secretary shall provide that the purchaser of the forest products of such tribe, which are harvested under a timber sale contract, permit or other harvest sale document which has been approved by the Secretary, shall make prompt direct payments of the gross proceeds of sales of such forest products, less any amounts segregated as forest management deductions pursuant to section 3105 of this title, into a bank depository account designated by such Indian tribe.
 
-(Pub. L. 101–630, title III, § 308, Nov. 28, 1990, 104 Stat. 4537.)
+(Pub. L. 101–630, title III, § 308, Nov. 28, 1990, 104 Stat. 4537.)
 
-## § 3108. Secretarial recognition of tribal laws
+## § 3108. Secretarial recognition of tribal laws
 
 Subject to the Secretary’s responsibilities as reflected in sections 3101(2) and 3102(1) of this title and unless otherwise prohibited by Federal statutory law, the Secretary shall comply with tribal laws pertaining to Indian forest lands, including laws regulating the environment or historic or cultural preservation, and shall cooperate with the enforcement of such laws on Indian forest lands. Such cooperation shall include—
 
@@ -293,9 +293,9 @@ Subject to the Secretary’s responsibilities as reflected in sections 3101(2) a
 
 **(3)** upon the request of an Indian tribe, the appearance in tribal forums.
 
-(Pub. L. 101–630, title III, § 309, Nov. 28, 1990, 104 Stat. 4538.)
+(Pub. L. 101–630, title III, § 309, Nov. 28, 1990, 104 Stat. 4538.)
 
-## § 3109. Indian forest land assistance account
+## § 3109. Indian forest land assistance account
 
 **(a) Establishment**
 
@@ -321,9 +321,9 @@ Funds deposited in such account shall be for the purpose of conducting forest la
 
 At the request of an Indian tribe or upon the Secretary’s own volition, the Secretary may conduct audits of the Indian forest land assistance account and shall publish the results of such audit.
 
-(Pub. L. 101–630, title III, § 310, Nov. 28, 1990, 104 Stat. 4538.)
+(Pub. L. 101–630, title III, § 310, Nov. 28, 1990, 104 Stat. 4538.)
 
-## § 3110. Tribal forestry programs
+## § 3110. Tribal forestry programs
 
 **(a) Establishment**
 
@@ -347,9 +347,9 @@ The Secretary shall establish within the Bureau of Indian Affairs a program to p
 
 **(3)** In any fiscal year that appropriations are not sufficient to fully fund tribal forestry programs at each level of assistance under the formula required to be established in this section, available funds for each level of assistance shall be evenly divided among the tribes qualifying for that level of assistance.
 
-(Pub. L. 101–630, title III, § 311, Nov. 28, 1990, 104 Stat. 4538.)
+(Pub. L. 101–630, title III, § 311, Nov. 28, 1990, 104 Stat. 4538.)
 
-## § 3111. Assessment of Indian forest land and management programs
+## § 3111. Assessment of Indian forest land and management programs
 
 **(a) Initial assessment**
 
@@ -389,17 +389,17 @@ The Secretary shall submit, within 1 year of the first full fiscal year after No
 
 The Secretary of Agriculture, through the Forest Service, is authorized to provide, upon the request of the Secretary of the Interior, on a nonreimbursable basis, technical assistance in the conduct of such research and evaluation activities as may be necessary for the completion of any reports or assessments required by this chapter.
 
-(Pub. L. 101–630, title III, § 312, Nov. 28, 1990, 104 Stat. 4539; Pub. L. 103–437, § 10(f), Nov. 2, 1994, 108 Stat. 4589.)
+(Pub. L. 101–630, title III, § 312, Nov. 28, 1990, 104 Stat. 4539; Pub. L. 103–437, § 10(f), Nov. 2, 1994, 108 Stat. 4589.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsec. (a)(4). Pub. L. 103–437, § 10(f)(1), substituted “Committee on Indian” for “Select Committee on Indian” and “Natural Resources” for “Interior and Insular Affairs”.
+1994—Subsec. (a)(4). Pub. L. 103–437, § 10(f)(1), substituted “Committee on Indian” for “Select Committee on Indian” and “Natural Resources” for “Interior and Insular Affairs”.
 
 Subsec. (c). Pub. L. 103–437, inserted “the” after “report to” and substituted “Committee on Indian” for “Select Committee on Indian” and “Natural Resources” for “Interior and Insular Affairs”.
 
-## § 3112. Alaska Native technical assistance program
+## § 3112. Alaska Native technical assistance program
 
 **(a) Establishment**
 
@@ -409,17 +409,17 @@ The Secretary, in consultation with the village and regional corporations establ
 
 The technical assistance to be provided by the Secretary pursuant to subsection (a) shall be made available through contracts, grants or agreements entered into in accordance with, and made available to entities eligible for, such contracts, grants, or agreements under the Indian Self-Determination Act [25 U.S.C. 5321 et seq.].
 
-(Pub. L. 101–630, title III, § 313, Nov. 28, 1990, 104 Stat. 4540.)
+(Pub. L. 101–630, title III, § 313, Nov. 28, 1990, 104 Stat. 4540.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (a), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (a), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Indian Self-Determination Act, referred to in subsec. (b), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (b), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-## § 3113. Establishment of Indian and Alaska Native forestry education assistance
+## § 3113. Establishment of Indian and Alaska Native forestry education assistance
 
 **(a) Forester intern program**
 
@@ -477,15 +477,15 @@ The Secretary shall conduct, through the Bureau of Indian Affairs, and in consul
 
 The Secretary shall administer the programs described in this section until a sufficient number of Indians and Alaska Natives are trained to ensure that there is an adequate number of qualified, professional Indian foresters to manage the Bureau of Indian Affairs forestry programs and forestry programs maintained by or for Indian tribes.
 
-(Pub. L. 101–630, title III, § 314, Nov. 28, 1990, 104 Stat. 4540.)
+(Pub. L. 101–630, title III, § 314, Nov. 28, 1990, 104 Stat. 4540.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination Act, referred to in subsec. (c)(2)(B), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (c)(2)(B), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-## § 3114. Postgraduation recruitment, education and training programs
+## § 3114. Postgraduation recruitment, education and training programs
 
 **(a) Postgraduation recruitment**
 
@@ -493,7 +493,7 @@ The Secretary shall establish and maintain a program to attract Indian and Alask
 
 **(b) Postgraduate intergovernmental internships** For the purposes of training, skill development and orientation of Indian, Alaska native,1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 and Federal forestry personnel, and the enhancement of tribal and Bureau of Indian Affairs forestry programs, the Secretary shall establish and actively conduct a program for the cooperative internship of Federal, Indian, and Alaska Native forestry personnel. Such program shall—
 
@@ -519,9 +519,9 @@ and Federal forestry personnel, and the enhancement of tribal and Bureau of Indi
 
 **(3)** developmental training of Indian and Alaska Native personnel in forest land based enterprises and marketing.
 
-(Pub. L. 101–630, title III, § 315, Nov. 28, 1990, 104 Stat. 4542.)
+(Pub. L. 101–630, title III, § 315, Nov. 28, 1990, 104 Stat. 4542.)
 
-## § 3115. Cooperative agreement between Department of the Interior and Indian tribes
+## § 3115. Cooperative agreement between Department of the Interior and Indian tribes
 
 **(a) Cooperative agreements**
 
@@ -539,19 +539,19 @@ The Secretary may enter into such agreements when the Secretary determines the p
 
 **(b) Supervision**
 
-In any agreement authorized by this section, Indian tribes and their employees may perform cooperative work under the supervision of the Department of the Interior in emergencies or otherwise as mutually agreed to, but shall not be deemed to be Federal employees other than for purposes of section 1
+In any agreement authorized by this section, Indian tribes and their employees may perform cooperative work under the supervision of the Department of the Interior in emergencies or otherwise as mutually agreed to, but shall not be deemed to be Federal employees other than for purposes of section 1
 
-<sup>1</sup>  So in original. Probably should be “sections”.
+<sup>1</sup> So in original. Probably should be “sections”.
 
-2671 through 2680 of title 28 and section 1 8101 through 8193 of title 5.
+2671 through 2680 of title 28 and section 1 8101 through 8193 of title 5.
 
 **(c) Savings provision**
 
 Nothing in this chapter shall be construed to limit the authority of the Secretary to enter into cooperative agreements otherwise authorized by law.
 
-(Pub. L. 101–630, title III, § 316, Nov. 28, 1990, 104 Stat. 4543.)
+(Pub. L. 101–630, title III, § 316, Nov. 28, 1990, 104 Stat. 4543.)
 
-## § 3115a. Tribal forest assets protection
+## § 3115a. Tribal forest assets protection
 
 **(a) Definitions** In this Act:
 
@@ -659,7 +659,7 @@ Following completion of any necessary environmental analysis, the Secretary may 
 
 Not later than 4 years after July 22, 2004, the Secretary shall submit to Congress a report that describes the Indian tribal requests received and agreements or contracts that have been entered into under this Act.
 
-(Pub. L. 108–278, § 2, July 22, 2004, 118 Stat. 868; Pub. L. 115–325, title II, § 202(b)(1), Dec. 18, 2018, 132 Stat. 4459.)
+(Pub. L. 108–278, § 2, July 22, 2004, 118 Stat. 868; Pub. L. 115–325, title II, § 202(b)(1), Dec. 18, 2018, 132 Stat. 4459.)
 
 **Editorial Notes**
 
@@ -667,7 +667,7 @@ Not later than 4 years after July 22, 2004, the Secretary shall submit to Congre
 
 This Act, referred to in subsecs. (a), (f), and (g), is Pub. L. 108–278, July 22, 2004, 118 Stat. 868, which enacted this section and provisions set out as notes under sections 3101 and 3115b of this title.
 
-Section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999, referred to in subsecs. (b)(1) and (f)(1), was section § 101(e) [title III, § 347] of Pub. L. 105–277, div. A, as amended, which was set out as a note under section 2104 of Title 16, Conservation, prior to repeal by Pub. L. 113–79, title VIII, § 8205(b), Feb. 7, 2014, 128 Stat. 921. Provisions similar to § 101(e) [title III, § 347] of Pub. L. 105–277, div. A, as amended, were enacted by Pub. L. 108–148, title VI, § 604, as added Pub. L. 113–79, title VIII, § 8205(a), Feb. 7, 2014, 128 Stat. 918 and are classified to section 6591c of Title 16, Conservation.
+Section 347 of the Department of the Interior and Related Agencies Appropriations Act, 1999, referred to in subsecs. (b)(1) and (f)(1), was section § 101(e) [title III, § 347] of Pub. L. 105–277, div. A, as amended, which was set out as a note under section 2104 of Title 16, Conservation, prior to repeal by Pub. L. 113–79, title VIII, § 8205(b), Feb. 7, 2014, 128 Stat. 921. Provisions similar to § 101(e) [title III, § 347] of Pub. L. 105–277, div. A, as amended, were enacted by Pub. L. 108–148, title VI, § 604, as added Pub. L. 113–79, title VIII, § 8205(a), Feb. 7, 2014, 128 Stat. 918 and are classified to section 6591c of Title 16, Conservation.
 
 **Codification**
 
@@ -677,7 +677,7 @@ Section was enacted as part of the Tribal Forest Protection Act of 2004, and not
 
 2018—Subsec. (a). Pub. L. 115–325 substituted “In this Act” for “In this section” in introductory provisions.
 
-## § 3115b. Tribal forest management demonstration project
+## § 3115b. Tribal forest management demonstration project
 
 **(a) In general**
 
@@ -695,7 +695,7 @@ The Secretary of the Interior and the Secretary may carry out demonstration proj
 
 **(3)** the contract or project shall be entered into under, and in accordance with, section 403(b)(2) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5363(b)(2)).
 
-(Pub. L. 115–334, title VIII, § 8703, Dec. 20, 2018, 132 Stat. 4877.)
+(Pub. L. 115–334, title VIII, § 8703, Dec. 20, 2018, 132 Stat. 4877.)
 
 **Editorial Notes**
 
@@ -703,9 +703,9 @@ The Secretary of the Interior and the Secretary may carry out demonstration proj
 
 The Tribal Forest Protection Act of 2004, referred to in subsecs. (a) and (b)(2)(B), is Pub. L. 108–278, July 22, 2004, 118 Stat. 868. For complete classification of this Act to the Code, see section 1 of Pub. L. 108–278, set out as a Short Title of 2004 Amendment note under section 3101 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (a) and (b)(1), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see section 1 of Pub. L. 93–638, set out as a Short Title note under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (a) and (b)(1), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see section 1 of Pub. L. 93–638, set out as a Short Title note under section 5301 of this title and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b)(2)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(2)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Codification**
 
@@ -715,11 +715,11 @@ Section was enacted as part of the Agriculture Improvement Act of 2018, and not 
 
 **Purpose**
 
-Pub. L. 115–325, title II, § 202(a), Dec. 18, 2018, 132 Stat. 4459, provided that: “The purpose of this section [amending section 3115a of this title and enacting provisions set out as notes under this section] is to establish a biomass demonstration project for federally recognized Indian tribes and Alaska Native corporations to promote biomass energy production.”
+Pub. L. 115–325, title II, § 202(a), Dec. 18, 2018, 132 Stat. 4459, provided that: “The purpose of this section [amending section 3115a of this title and enacting provisions set out as notes under this section] is to establish a biomass demonstration project for federally recognized Indian tribes and Alaska Native corporations to promote biomass energy production.”
 
 **Alaska Native Biomass Demonstration Project**
 
-Pub. L. 115–325, title II, § 202(c), Dec. 18, 2018, 132 Stat. 4461, provided that:
+Pub. L. 115–325, title II, § 202(c), Dec. 18, 2018, 132 Stat. 4461, provided that:
 
 > **“(1) Definitions.—** In this subsection:
 
@@ -787,7 +787,7 @@ Pub. L. 115–325, title II, § 202(c), Dec. 18, 2018, 132 Stat. 4461, provide
 
 **Tribal Biomass Demonstration Project**
 
-Pub. L. 108–278, § 3, as added by Pub. L. 115–325, title II, § 202(b)(2), Dec. 18, 2018, 132 Stat. 4459, provided that:
+Pub. L. 108–278, § 3, as added by Pub. L. 115–325, title II, § 202(b)(2), Dec. 18, 2018, 132 Stat. 4459, provided that:
 
 > **“(a) Stewardship Contracts or Similar Agreements.—** For each of fiscal years 2017 through 2021, the Secretary shall enter into stewardship contracts or similar agreements (excluding direct service contracts) with Indian tribes to carry out demonstration projects to promote biomass energy production (including biofuel, heat, and electricity generation) on Indian forest land and in nearby communities by providing reliable supplies of woody biomass from Federal land.
 
@@ -851,7 +851,7 @@ Pub. L. 108–278, § 3, as added by Pub. L. 115–325, title II, § 202(b)(
 
 “Secretary” as meaning the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under section 9001 of Title 7, Agriculture.
 
-## § 3116. Obligated service; breach of contract
+## § 3116. Obligated service; breach of contract
 
 **(a) Obligated service**
 
@@ -861,32 +861,32 @@ Where an individual enters into an agreement for obligated service in return for
 
 Where an individual fails to accept a reasonable offer of employment in fulfillment of such obligated service or unreasonably terminates or fails to perform the duties of such employment, the Secretary shall require a repayment of the financial assistance provided, prorated for the amount of time of obligated service performed, together with interest on such amount which would be payable if at the time the amounts were paid they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States.
 
-(Pub. L. 101–630, title III, § 317, Nov. 28, 1990, 104 Stat. 4544.)
+(Pub. L. 101–630, title III, § 317, Nov. 28, 1990, 104 Stat. 4544.)
 
-## § 3117. Authorization of appropriations
+## § 3117. Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this chapter.
 
-(Pub. L. 101–630, title III, § 318, Nov. 28, 1990, 104 Stat. 4544.)
+(Pub. L. 101–630, title III, § 318, Nov. 28, 1990, 104 Stat. 4544.)
 
-## § 3118. Regulations
+## § 3118. Regulations
 
-Except as otherwise provided by this chapter, the Secretary is directed to promulgate final regulations for the implementation of the 1
+Except as otherwise provided by this chapter, the Secretary is directed to promulgate final regulations for the implementation of the 1
 
-<sup>1</sup>  So in original. Probably should be “this”.
+<sup>1</sup> So in original. Probably should be “this”.
 
 chapter within eighteen months from November 28, 1990. All regulations promulgated pursuant to this chapter shall be developed by the Secretary with the participation of the affected Indian tribes.
 
-(Pub. L. 101–630, title III, § 319, Nov. 28, 1990, 104 Stat. 4544.)
+(Pub. L. 101–630, title III, § 319, Nov. 28, 1990, 104 Stat. 4544.)
 
-## § 3119. Severability
+## § 3119. Severability
 
 If any provision of this chapter, or the application of any provision of this chapter to any person or circumstance, is held invalid, the application of such provision or circumstance and the remainder of this chapter shall not be affected thereby.
 
-(Pub. L. 101–630, title III, § 320, Nov. 28, 1990, 104 Stat. 4544.)
+(Pub. L. 101–630, title III, § 320, Nov. 28, 1990, 104 Stat. 4544.)
 
-## § 3120. Trust responsibility
+## § 3120. Trust responsibility
 
 Nothing in this chapter shall be construed to diminish or expand the trust responsibility of the United States toward Indian forest lands, or any legal obligation or remedy resulting therefrom.
 
-(Pub. L. 101–630, title III, § 321, Nov. 28, 1990, 104 Stat. 4544.)
+(Pub. L. 101–630, title III, § 321, Nov. 28, 1990, 104 Stat. 4544.)

@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2002—Pub. L. 107–314, div. A, title VIII, § 825(b)(3)(A), Dec. 2, 2002, 116 Stat. 2616, and Pub. L. 107–347, title II, § 210(h)(3)(B), Dec. 17, 2002, 116 Stat. 2938, amended chapter heading identically, substituting “PROGRAM” for “PROGRAMS”.
+2002—Pub. L. 107–314, div. A, title VIII, § 825(b)(3)(A), Dec. 2, 2002, 116 Stat. 2616, and Pub. L. 107–347, title II, § 210(h)(3)(B), Dec. 17, 2002, 116 Stat. 2938, amended chapter heading identically, substituting “PROGRAM” for “PROGRAMS”.
 
-Pub. L. 107–314, div. A, title VIII, § 825(b)(3)(C), (D), Dec. 2, 2002, 116 Stat. 2616, and Pub. L. 107–347, title II, § 210(h)(3)(D), (E), Dec. 17, 2002, 116 Stat. 2938, amended items for subchapters I and II identically, substituting “PROGRAM” for “PROGRAMS”.
+Pub. L. 107–314, div. A, title VIII, § 825(b)(3)(C), (D), Dec. 2, 2002, 116 Stat. 2616, and Pub. L. 107–347, title II, § 210(h)(3)(D), (E), Dec. 17, 2002, 116 Stat. 2938, amended items for subchapters I and II identically, substituting “PROGRAM” for “PROGRAMS”.
 
-Pub. L. 107–314, div. A, title VIII, § 825(b)(3)(E), Dec. 2, 2002, 116 Stat. 2616, and Pub. L. 107–347, title II, § 210(h)(3)(F), Dec. 17, 2002, 116 Stat. 2938, amended item 11501 identically, substituting “program” for “programs”.
+Pub. L. 107–314, div. A, title VIII, § 825(b)(3)(E), Dec. 2, 2002, 116 Stat. 2616, and Pub. L. 107–347, title II, § 210(h)(3)(F), Dec. 17, 2002, 116 Stat. 2938, amended item 11501 identically, substituting “program” for “programs”.
 
-Pub. L. 107–347, title II, § 210(h)(3)(G), Dec. 17, 2002, 116 Stat. 2939, struck out item 11521 “Share-in-savings pilot program”, and directed redesignation of item 11522 as item 11521, which could not be executed because of repeal of item 11522 by Pub. L. 107–314, § 825(b)(3)(F). See below.
+Pub. L. 107–347, title II, § 210(h)(3)(G), Dec. 17, 2002, 116 Stat. 2939, struck out item 11521 “Share-in-savings pilot program”, and directed redesignation of item 11522 as item 11521, which could not be executed because of repeal of item 11522 by Pub. L. 107–314, § 825(b)(3)(F). See below.
 
-Pub. L. 107–314, div. A, title VIII, § 825(b)(3)(F), Dec. 2, 2002, 116 Stat. 2616, struck out item 11522 “Solutions-based contracting pilot program”.
+Pub. L. 107–314, div. A, title VIII, § 825(b)(3)(F), Dec. 2, 2002, 116 Stat. 2616, struck out item 11522 “Solutions-based contracting pilot program”.
 
 ## SUBCHAPTER I—CONDUCT OF PILOT PROGRAM
 
@@ -35,15 +35,15 @@ Pub. L. 107–314, div. A, title VIII, § 825(b)(3)(F), Dec. 2, 2002, 116 Stat
 
 **Amendments**
 
-2002—Pub. L. 107–314, div. A, title VIII, § 825(b)(3)(B), Dec. 2, 2002, 116 Stat. 2616, and Pub. L. 107–347, title II, § 210(h)(3)(C), Dec. 17, 2002, 116 Stat. 2938, amended subchapter heading identically, substituting “PROGRAM” for “PROGRAMS”.
+2002—Pub. L. 107–314, div. A, title VIII, § 825(b)(3)(B), Dec. 2, 2002, 116 Stat. 2616, and Pub. L. 107–347, title II, § 210(h)(3)(C), Dec. 17, 2002, 116 Stat. 2938, amended subchapter heading identically, substituting “PROGRAM” for “PROGRAMS”.
 
-### § 11501. Authority to conduct pilot program
+### § 11501. Authority to conduct pilot program
 
 **(a) In General.—**
 
-**(1) Purpose.—** In consultation with the Administrator for the Office of Information and Regulatory Affairs, the Administrator for Federal Procurement Policy may conduct a pilot program pursuant to the requirements of section 11521 of this title 1
+**(1) Purpose.—** In consultation with the Administrator for the Office of Information and Regulatory Affairs, the Administrator for Federal Procurement Policy may conduct a pilot program pursuant to the requirements of section 11521 of this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 to test alternative approaches for the acquisition of information technology by executive agencies.
 
@@ -57,39 +57,39 @@ to test alternative approaches for the acquisition of information technology by 
 
 **(2) Continuing validity of contracts.—** A contract entered into under the pilot program before the expiration of that program remains in effect according to the terms of the contract after the expiration of the program.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1245; Pub. L. 107–314, div. A, title VIII, § 825(b)(2)(A), Dec. 2, 2002, 116 Stat. 2615; Pub. L. 107–347, title II, § 210(h)(2)(A), Dec. 17, 2002, 116 Stat. 2938.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1245; Pub. L. 107–314, div. A, title VIII, § 825(b)(2)(A), Dec. 2, 2002, 116 Stat. 2615; Pub. L. 107–347, title II, § 210(h)(2)(A), Dec. 17, 2002, 116 Stat. 2938.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 11501 | 40:1471. | Pub. L. 104–106, div. E, title LIII, § 5301, Feb. 10, 1996, 110 Stat. 691. |
+| 11501 | 40:1471. | Pub. L. 104–106, div. E, title LIII, § 5301, Feb. 10, 1996, 110 Stat. 691. |
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 11521 of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 107–347, title II, § 210(h)(1), Dec. 17, 2002, 116 Stat. 2938. Section 210(h)(3)(A) of Pub. L. 107–347 directed the redesignation of section 11522 of this title as section 11521 of this title, but it could not be executed because of the repeal of section 11522 by Pub. L. 107–314, div. A, title VIII, § 825(b)(1), Dec. 2, 2002, 116 Stat. 2615.
+Section 11521 of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 107–347, title II, § 210(h)(1), Dec. 17, 2002, 116 Stat. 2938. Section 210(h)(3)(A) of Pub. L. 107–347 directed the redesignation of section 11522 of this title as section 11521 of this title, but it could not be executed because of the repeal of section 11522 by Pub. L. 107–314, div. A, title VIII, § 825(b)(1), Dec. 2, 2002, 116 Stat. 2615.
 
 **Amendments**
 
-2002—Pub. L. 107–314, § 825(b)(2)(A)(i), and Pub. L. 107–347, § 210(h)(2)(A)(i), amended section catchline identically, substituting “program” for “programs”.
+2002—Pub. L. 107–314, § 825(b)(2)(A)(i), and Pub. L. 107–347, § 210(h)(2)(A)(i), amended section catchline identically, substituting “program” for “programs”.
 
-Subsec. (a)(1). Pub. L. 107–314, § 825(b)(2)(A)(ii), and Pub. L. 107–347, § 210(h)(2)(A)(ii), amended par. (1) identically, substituting “conduct a pilot program pursuant to the requirements of section 11521 of this title” for “conduct pilot programs”.
+Subsec. (a)(1). Pub. L. 107–314, § 825(b)(2)(A)(ii), and Pub. L. 107–347, § 210(h)(2)(A)(ii), amended par. (1) identically, substituting “conduct a pilot program pursuant to the requirements of section 11521 of this title” for “conduct pilot programs”.
 
-Subsec. (a)(2). Pub. L. 107–314, § 825(b)(2)(A)(iii), and Pub. L. 107–347, § 210(h)(2)(A)(iii), amended par. (2) identically, substituting “the pilot program conducted” for “each pilot program conducted”.
+Subsec. (a)(2). Pub. L. 107–314, § 825(b)(2)(A)(iii), and Pub. L. 107–347, § 210(h)(2)(A)(iii), amended par. (2) identically, substituting “the pilot program conducted” for “each pilot program conducted”.
 
-Subsec. (b). Pub. L. 107–347, § 210(h)(2)(A)(iv), which directed amendment of subsec. (b) by substituting the heading “Limitation on Amount” and text “The total amount obligated for contracts entered into under the pilot program conducted under this chapter may not exceed $375,000,000.” for the heading “Limitations” and all that followed through “$750,000,000.”, was executed by making the substitution for “Limitation on Amount” in the heading and “The total amount obligated for contracts entered into under the pilot program conducted under this chapter may not exceed $750,000,000.” in text to reflect the probable intent of Congress and the amendment by Pub. L. 107–314, § 825(b)(2)(A)(iv)(I). See below.
+Subsec. (b). Pub. L. 107–347, § 210(h)(2)(A)(iv), which directed amendment of subsec. (b) by substituting the heading “Limitation on Amount” and text “The total amount obligated for contracts entered into under the pilot program conducted under this chapter may not exceed $375,000,000.” for the heading “Limitations” and all that followed through “$750,000,000.”, was executed by making the substitution for “Limitation on Amount” in the heading and “The total amount obligated for contracts entered into under the pilot program conducted under this chapter may not exceed $750,000,000.” in text to reflect the probable intent of Congress and the amendment by Pub. L. 107–314, § 825(b)(2)(A)(iv)(I). See below.
 
-Pub. L. 107–314, § 825(b)(2)(A)(iv)(II), substituted “subsection.” for “paragraph.”
+Pub. L. 107–314, § 825(b)(2)(A)(iv)(II), substituted “subsection.” for “paragraph.”
 
-Pub. L. 107–314, § 825(b)(2)(A)(iv)(I), substituted “Limitation on Amount.—The total amount obligated for contracts entered into under the pilot program conducted” for “Limitations.—
+Pub. L. 107–314, § 825(b)(2)(A)(iv)(I), substituted “Limitation on Amount.—The total amount obligated for contracts entered into under the pilot program conducted” for “Limitations.—
 
 “(1) Number.—Not more than two pilot programs may be conducted under this chapter, including one pilot program each pursuant to the requirements of sections 11521 and 11522 of this title.
 
 “(2) Amount.—The total amount obligated for contracts entered into under the pilot programs conducted”.
 
-Subsec. (c)(1). Pub. L. 107–314, § 825(b)(2)(A)(v), and Pub. L. 107–347, § 210(h)(2)(A)(v), amended par. (1) identically, substituting “the pilot” for “a pilot”.
+Subsec. (c)(1). Pub. L. 107–314, § 825(b)(2)(A)(v), and Pub. L. 107–347, § 210(h)(2)(A)(v), amended par. (1) identically, substituting “the pilot” for “a pilot”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -97,19 +97,19 @@ Subsec. (c)(1). Pub. L. 107–314, § 825(b)(2)(A)(v), and Pub. L. 107–347, 
 
 Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
 
-### § 11502. Evaluation criteria and plans
+### § 11502. Evaluation criteria and plans
 
 **(a) Measurable Test Criteria.—** To the maximum extent practicable, the head of each executive agency conducting the pilot program under section 11501 of this title shall establish measurable criteria for evaluating the effects of the procedures or techniques to be tested under the program.
 
 **(b) Test Plan.—** Before the pilot program may be conducted under section 11501 of this title, the Administrator for Federal Procurement Policy shall submit to Congress a detailed test plan for the program, including a detailed description of the procedures to be used and a list of regulations that are to be waived.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1246; Pub. L. 107–314, div. A, title VIII, § 825(b)(2)(B)(i), (ii), Dec. 2, 2002, 116 Stat. 2616; Pub. L. 107–347, title II, § 210(h)(2)(B)(i), (ii), Dec. 17, 2002, 116 Stat. 2938.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1246; Pub. L. 107–314, div. A, title VIII, § 825(b)(2)(B)(i), (ii), Dec. 2, 2002, 116 Stat. 2616; Pub. L. 107–347, title II, § 210(h)(2)(B)(i), (ii), Dec. 17, 2002, 116 Stat. 2938.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 11502 | 40:1472. | Pub. L. 104–106, div. E, title LIII, § 5302, Feb. 10, 1996, 110 Stat. 691. |
+| 11502 | 40:1472. | Pub. L. 104–106, div. E, title LIII, § 5302, Feb. 10, 1996, 110 Stat. 691. |
 
 **Editorial Notes**
 
@@ -123,7 +123,7 @@ Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see secti
 
 Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
 
-### § 11503. Report
+### § 11503. Report
 
 **(a) Requirement.—** Not later than 180 days after the completion of the pilot program under this chapter, the Administrator for Federal Procurement Policy shall—
 
@@ -137,13 +137,13 @@ Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see secti
 
 **(2)** a discussion of legislation that the Administrator recommends, or changes in regulations that the Administrator considers necessary, to improve overall information resources management in the Federal Government.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1246; Pub. L. 107–314, div. A, title VIII, § 825(b)(2)(B)(iii), Dec. 2, 2002, 116 Stat. 2616; Pub. L. 107–347, title II, § 210(h)(2)(B)(iii), Dec. 17, 2002, 116 Stat. 2938.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1246; Pub. L. 107–314, div. A, title VIII, § 825(b)(2)(B)(iii), Dec. 2, 2002, 116 Stat. 2616; Pub. L. 107–347, title II, § 210(h)(2)(B)(iii), Dec. 17, 2002, 116 Stat. 2938.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 11503 | 40:1473. | Pub. L. 104–106, div. E, title LIII, § 5303, Feb. 10, 1996, 110 Stat. 692. |
+| 11503 | 40:1473. | Pub. L. 104–106, div. E, title LIII, § 5303, Feb. 10, 1996, 110 Stat. 692. |
 
 **Editorial Notes**
 
@@ -157,17 +157,17 @@ Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see secti
 
 Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
 
-### § 11504. Recommended legislation
+### § 11504. Recommended legislation
 
 If the Director of the Office of Management and Budget determines that the results and findings under the pilot program under this chapter indicate that legislation is necessary or desirable to improve the process for acquisition of information technology, the Director shall transmit the Director’s recommendations for that legislation to Congress.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1246; Pub. L. 107–314, div. A, title VIII, § 825(b)(2)(B)(iv), Dec. 2, 2002, 116 Stat. 2616; Pub. L. 107–347, title II, § 210(h)(2)(B)(iv), Dec. 17, 2002, 116 Stat. 2938.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1246; Pub. L. 107–314, div. A, title VIII, § 825(b)(2)(B)(iv), Dec. 2, 2002, 116 Stat. 2616; Pub. L. 107–347, title II, § 210(h)(2)(B)(iv), Dec. 17, 2002, 116 Stat. 2938.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 11504 | 40:1474. | Pub. L. 104–106, div. E, title LIII, § 5304, Feb. 10, 1996, 110 Stat. 692. |
+| 11504 | 40:1474. | Pub. L. 104–106, div. E, title LIII, § 5304, Feb. 10, 1996, 110 Stat. 692. |
 
 **Editorial Notes**
 
@@ -181,17 +181,17 @@ If the Director of the Office of Management and Budget determines that the resul
 
 Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
 
-### § 11505. Rule of construction
+### § 11505. Rule of construction
 
 This chapter does not authorize the appropriation or obligation of amounts for the pilot program authorized under this chapter.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1246; Pub. L. 107–314, div. A, title VIII, § 825(b)(2)(C), Dec. 2, 2002, 116 Stat. 2616; Pub. L. 107–347, title II, § 210(h)(2)(C), Dec. 17, 2002, 116 Stat. 2938.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1246; Pub. L. 107–314, div. A, title VIII, § 825(b)(2)(C), Dec. 2, 2002, 116 Stat. 2616; Pub. L. 107–347, title II, § 210(h)(2)(C), Dec. 17, 2002, 116 Stat. 2938.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 11505 | 40:1475. | Pub. L. 104–106, div. E, title LIII, § 5305, Feb. 10, 1996, 110 Stat. 692. |
+| 11505 | 40:1475. | Pub. L. 104–106, div. E, title LIII, § 5305, Feb. 10, 1996, 110 Stat. 692. |
 
 **Editorial Notes**
 
@@ -211,9 +211,9 @@ Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see secti
 
 **Amendments**
 
-2002—Pub. L. 107–314, div. A, title VIII, § 825(b)(3)(B), Dec. 2, 2002, 116 Stat. 2616, and Pub. L. 107–347, title II, § 210(h)(3)(C), Dec. 17, 2002, 116 Stat. 2938, amended subchapter heading identically, substituting “PROGRAM” for “PROGRAMS”.
+2002—Pub. L. 107–314, div. A, title VIII, § 825(b)(3)(B), Dec. 2, 2002, 116 Stat. 2616, and Pub. L. 107–347, title II, § 210(h)(3)(C), Dec. 17, 2002, 116 Stat. 2938, amended subchapter heading identically, substituting “PROGRAM” for “PROGRAMS”.
 
-### [§ 11521. Repealed. Pub. L. 107–347, title II, § 210(h)(1), Dec. 17, 2002, 116 Stat. 2938]
+### [§ 11521. Repealed. Pub. L. 107–347, title II, § 210(h)(1), Dec. 17, 2002, 116 Stat. 2938]
 
 Section, Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1247, related to the share-in-savings pilot program.
 
@@ -223,6 +223,6 @@ Section, Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1247, related to the share-
 
 Repeal effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
 
-### [§ 11522. Repealed. Pub. L. 107–314, div. A, title VIII, § 825(b)(1), Dec. 2, 2002, 116 Stat. 2615]
+### [§ 11522. Repealed. Pub. L. 107–314, div. A, title VIII, § 825(b)(1), Dec. 2, 2002, 116 Stat. 2615]
 
-Section, Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1247, related to a pilot program to test the feasibility of using solutions-based contracting for the acquisition of information technology. Subsequent to repeal, Pub. L. 107–347, title II, § 210(h)(3)(A), Dec. 17, 2002, 116 Stat. 2938, directed that this section be renumbered section 11521 of this title.
+Section, Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1247, related to a pilot program to test the feasibility of using solutions-based contracting for the acquisition of information technology. Subsequent to repeal, Pub. L. 107–347, title II, § 210(h)(3)(A), Dec. 17, 2002, 116 Stat. 2938, directed that this section be renumbered section 11521 of this title.

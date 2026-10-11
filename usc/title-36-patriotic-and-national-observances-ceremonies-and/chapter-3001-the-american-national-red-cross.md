@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle III—Treaty Obligation Organizations / CHAPTER 3001—THE AMERICAN NATIONAL RED CROSS"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle III—Treaty Obligation Organizations / CHAPTER 3001—THE AMERICAN NATIONAL RED CROSS"
 identifier: "/us/usc/t36/stIII/ch3001"
 type: code
 jurisdiction: us
@@ -11,7 +11,7 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle III—Treaty Obligation Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle III—Treaty Obligation Organizations*
 
 # CHAPTER 3001—THE AMERICAN NATIONAL RED CROSS
 
@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2007—Pub. L. 110–26, § 11(b), May 11, 2007, 121 Stat. 110, added items 300111 to 300113 and struck out former item 300111 “Reservation of right to amend or repeal”.
+2007—Pub. L. 110–26, § 11(b), May 11, 2007, 121 Stat. 110, added items 300111 to 300113 and struck out former item 300111 “Reservation of right to amend or repeal”.
 
-## § 300101. Organization
+## § 300101. Organization
 
 **(a) Federal Charter.—** The American National Red Cross (in this chapter, the “corporation”) is a Federally chartered instrumentality of the United States and a body corporate and politic in the District of Columbia.
 
@@ -29,15 +29,15 @@ retrieved: 2026-10-11
 
 **(c) Perpetual Existence.—** Except as otherwise provided, the corporation has perpetual existence.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1490; Pub. L. 110–26, § 3, May 11, 2007, 121 Stat. 105.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1490; Pub. L. 110–26, § 3, May 11, 2007, 121 Stat. 105.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 300101 | 36:1. | Jan. 5, 1905, ch. 23, § 1, 33 Stat. 599. |
-|  | 36:1a. | May 8, 1947, ch. 50, § 8, 61 Stat. 83. |
-|  | 36:2 (1st sentence words before 2d comma). | Jan. 5, 1905, ch. 23, § 2 (1st sentence words before 2d comma), 33 Stat. 600; May 8, 1947, ch. 50, § 3, 61 Stat. 81. |
+| 300101 | 36:1. | Jan. 5, 1905, ch. 23, § 1, 33 Stat. 599. |
+|  | 36:1a. | May 8, 1947, ch. 50, § 8, 61 Stat. 83. |
+|  | 36:2 (1st sentence words before 2d comma). | Jan. 5, 1905, ch. 23, § 2 (1st sentence words before 2d comma), 33 Stat. 600; May 8, 1947, ch. 50, § 3, 61 Stat. 81. |
 
 This section is substituted for the source provisions to eliminate unnecessary and obsolete language.
 
@@ -45,15 +45,15 @@ This section is substituted for the source provisions to eliminate unnecessary a
 
 **Amendments**
 
-2007—Subsec. (a). Pub. L. 110–26, § 3(1), inserted “a Federally chartered instrumentality of the United States and” before “a body corporate and politic”.
+2007—Subsec. (a). Pub. L. 110–26, § 3(1), inserted “a Federally chartered instrumentality of the United States and” before “a body corporate and politic”.
 
-Subsec. (b). Pub. L. 110–26, § 3(2), inserted at end “The corporation may conduct its business and affairs, and otherwise hold itself out, as the ‘American Red Cross’ in any jurisdiction.”
+Subsec. (b). Pub. L. 110–26, § 3(2), inserted at end “The corporation may conduct its business and affairs, and otherwise hold itself out, as the ‘American Red Cross’ in any jurisdiction.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Findings; Sense of Congress**
 
-Pub. L. 110–26, § 2, May 11, 2007, 121 Stat. 103, provided that:
+Pub. L. 110–26, § 2, May 11, 2007, 121 Stat. 103, provided that:
 
 > **“(a) Findings.—** Congress makes the following findings:
 
@@ -129,7 +129,7 @@ Pub. L. 110–26, § 2, May 11, 2007, 121 Stat. 103, provided that:
 
 > **“(5)** while The American National Red Cross is and will remain a Federally chartered instrumentality of the United States, and it has the rights and obligations consistent with that status, The American National Red Cross nevertheless should maintain appropriate communications and collaborations with local, community, and faith-based non-profit organizations, including those organizations that work within minority communities.”
 
-## § 300102. Purposes
+## § 300102. Purposes
 
 The purposes of the corporation are—
 
@@ -149,13 +149,13 @@ The purposes of the corporation are—
 
 **(5)** to conduct other activities consistent with the foregoing purposes.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1490; Pub. L. 110–26, § 4, May 11, 2007, 121 Stat. 105.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1490; Pub. L. 110–26, § 4, May 11, 2007, 121 Stat. 105.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 300102 | 36:3. | Jan. 5, 1905, ch. 23, § 3, 33 Stat. 600; May 8, 1947, ch. 50, § 4, 61 Stat. 81; July 17, 1953, ch. 222, § 4(a), (b), 67 Stat. 179. |
+| 300102 | 36:3. | Jan. 5, 1905, ch. 23, § 3, 33 Stat. 600; May 8, 1947, ch. 50, § 4, 61 Stat. 81; July 17, 1953, ch. 222, § 4(a), (b), 67 Stat. 179. |
 
 In this section, the text of 36:3 (“Third” par.) is omitted as executed.
 
@@ -173,7 +173,7 @@ In clause (4), the word “continue” is omitted as included in “carry out”
 
 2007—Par. (5). Pub. L. 110–26 added par. (5).
 
-## § 300103. Membership and chapters
+## § 300103. Membership and chapters
 
 **(a) Membership.—** Membership in the corporation is open to all the people of the United States and its territories and possessions, on payment of an amount specified, or as otherwise provided, in the bylaws.
 
@@ -191,30 +191,30 @@ In clause (4), the word “continue” is omitted as included in “carry out”
 
 **(2)** The policies and regulations shall require that each chapter adhere to the democratic principles of election specified in the bylaws in electing the governing body of the chapter and selecting delegates to the annual meeting of the corporation.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1491; Pub. L. 110–26, § 5, May 11, 2007, 121 Stat. 106.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1491; Pub. L. 110–26, § 5, May 11, 2007, 121 Stat. 106.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 300103(a) | 36:4a (1st par.). | Jan. 5, 1905, ch. 23, § 4a, as added May 8, 1947, ch. 50, § 5, 61 Stat. 81. |
+| 300103(a) | 36:4a (1st par.). | Jan. 5, 1905, ch. 23, § 4a, as added May 8, 1947, ch. 50, § 5, 61 Stat. 81. |
 | 300103(b) | 36:4a (last par.). |  |
 
 In subsection (a), the word “possessions” is substituted for “dependencies” for clarity and consistency in the revised title. The words “from time to time” are omitted as unnecessary.
 
-In subsection (b)(1), before clause (A), the words “within the States and Territories of the United States” are omitted as unnecessary. The words “The board of governors shall prescribe regulations related to” are substituted for “The regulations with respect to . . . shall be as determined from time to time by the Board of Governors” for consistency in the revised title. In clause (D), the word “regulations” is substituted for “rules” for clarity and consistency in the revised title and with other titles of the United States Code.
+In subsection (b)(1), before clause (A), the words “within the States and Territories of the United States” are omitted as unnecessary. The words “The board of governors shall prescribe regulations related to” are substituted for “The regulations with respect to . . . shall be as determined from time to time by the Board of Governors” for consistency in the revised title. In clause (D), the word “regulations” is substituted for “rules” for clarity and consistency in the revised title and with other titles of the United States Code.
 
 **Editorial Notes**
 
 **Amendments**
 
-2007—Subsec. (a). Pub. L. 110–26, § 5(1), inserted “, or as otherwise provided,” before “in the bylaws”.
+2007—Subsec. (a). Pub. L. 110–26, § 5(1), inserted “, or as otherwise provided,” before “in the bylaws”.
 
-Subsec. (b)(1). Pub. L. 110–26, § 5(2), in introductory provisions, substituted “corporation shall” for “board of governors shall” and inserted “policies and” before “regulations related”.
+Subsec. (b)(1). Pub. L. 110–26, § 5(2), in introductory provisions, substituted “corporation shall” for “board of governors shall” and inserted “policies and” before “regulations related”.
 
-Subsec. (b)(2). Pub. L. 110–26, § 5(3), inserted “policies and” before “regulations shall require” and substituted “annual meeting” for “national convention”.
+Subsec. (b)(2). Pub. L. 110–26, § 5(3), inserted “policies and” before “regulations shall require” and substituted “annual meeting” for “national convention”.
 
-## § 300104. Board of governors
+## § 300104. Board of governors
 
 **(a) Board of Governors.—**
 
@@ -302,13 +302,13 @@ Procedures to implement the preceding sentence shall be provided in the bylaws.
 
 **(2)** the term “emergency” shall have such meaning as may be provided in the bylaws.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1491; Pub. L. 110–26, § 6, May 11, 2007, 121 Stat. 106.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1491; Pub. L. 110–26, § 6, May 11, 2007, 121 Stat. 106.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 300104(a) | 36:5 (matter before (a)), (a), (b), (c) (1st, 3d pars.). | Jan. 5, 1905, ch. 23, § 5 (matter before (a)), (a), (b), (c) (1st–5th pars., last par.), 33 Stat. 601; Dec. 10, 1912, ch. 1, § 1, 37 Stat. 647; Mar. 3, 1921, ch. 131, § 1, 41 Stat. 1354; May 8, 1947, ch. 50, § 6, 61 Stat. 82, 83. |
+| 300104(a) | 36:5 (matter before (a)), (a), (b), (c) (1st, 3d pars.). | Jan. 5, 1905, ch. 23, § 5 (matter before (a)), (a), (b), (c) (1st–5th pars., last par.), 33 Stat. 601; Dec. 10, 1912, ch. 1, § 1, 37 Stat. 647; Mar. 3, 1921, ch. 131, § 1, 41 Stat. 1354; May 8, 1947, ch. 50, § 6, 61 Stat. 82, 83. |
 | 300104(b) | 36:5(c) (2d, 4th pars.). |  |
 | 300104(c) | 36:5(c) (5th par.). |  |
 | 300104(d) | 36:5(c) (last par.). |  |
@@ -329,7 +329,7 @@ In subsection (c)(2), the words “of the corporation” are substituted for “
 
 2007—Pub. L. 110–26 reenacted section catchline without change and amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to the board of governors, its terms of office and filling of vacancies, the executive committee, and voting by proxy.
 
-## § 300105. Powers
+## § 300105. Powers
 
 **(a) General.—** The corporation may—
 
@@ -347,13 +347,13 @@ In subsection (c)(2), the words “of the corporation” are substituted for “
 
 **(b) Designation.—** The corporation is designated as the organization authorized to act in matters of relief under the treaties of Geneva, August 22, 1864, July 27, 1929, and August 12, 1949.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1492; Pub. L. 110–26, § 7, May 11, 2007, 121 Stat. 108.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1492; Pub. L. 110–26, § 7, May 11, 2007, 121 Stat. 108.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 300105 | 36:2 (1st sentence words between 2d comma and 3d semicolon and after 4th semicolon). | Jan. 5, 1905, ch. 23, § 2 (1st sentence words between 2d comma and 3d semicolon and after 4th semicolon), 33 Stat. 600; May 8, 1947, ch. 50, § 3, 61 Stat. 81. |
+| 300105 | 36:2 (1st sentence words between 2d comma and 3d semicolon and after 4th semicolon). | Jan. 5, 1905, ch. 23, § 2 (1st sentence words between 2d comma and 3d semicolon and after 4th semicolon), 33 Stat. 600; May 8, 1947, ch. 50, § 3, 61 Stat. 81. |
 
 In subsection (a)(1), the word “adopt” is substituted for “ordain and establish” for consistency in the revised title. The words “not inconsistent with the laws of the United States of America or any State thereof” are omitted as unnecessary.
 
@@ -373,7 +373,7 @@ In subsection (b), the words “treaties of Geneva, August 22, 1864, July 27, 19
 
 2007—Subsec. (a)(1). Pub. L. 110–26 substituted “policies” for “bylaws”.
 
-## § 300106. Emblem, badge, and brassard
+## § 300106. Emblem, badge, and brassard
 
 **(a) Emblem and Badge.—** In carrying out its purposes under this chapter, the corporation may have and use, as an emblem and badge, a Greek red cross on a white ground, as described in the treaties of Geneva, August 22, 1864, July 27, 1929, and August 12, 1949, and adopted by the nations acceding to those treaties.
 
@@ -385,12 +385,12 @@ In subsection (b), the words “treaties of Geneva, August 22, 1864, July 27, 19
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 300106(a) | 36:2 (1st sentence words between 3d and 4th semicolons). | Jan. 5, 1905, ch. 23, § 2 (1st sentence words between 3d and 4th semicolons, last sentence), 33 Stat. 600; May 8, 1947, ch. 50, § 3, 61 Stat. 81. |
+| 300106(a) | 36:2 (1st sentence words between 3d and 4th semicolons). | Jan. 5, 1905, ch. 23, § 2 (1st sentence words between 3d and 4th semicolons, last sentence), 33 Stat. 600; May 8, 1947, ch. 50, § 3, 61 Stat. 81. |
 | 300106(b) | 36:2 (last sentence). |  |
 
 In subsection (a), the words “under this chapter” are substituted for “hereinafter designated” for clarity. The date “August 12, 1949” is added to include the reference to a subsequent treaty.
 
-## § 300107. Annual meeting
+## § 300107. Annual meeting
 
 **(a) In General.—** The annual meeting of the corporation is the annual meeting of delegates of the chapters.
 
@@ -408,13 +408,13 @@ In subsection (a), the words “under this chapter” are substituted for “her
 
 **(B) Periodic review.—** The board of governors shall review the allocation of votes at least every 5 years.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1493; Pub. L. 110–26, § 8, May 11, 2007, 121 Stat. 108.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1493; Pub. L. 110–26, § 8, May 11, 2007, 121 Stat. 108.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 300107 | 36:5(c) (6th par.). | Jan. 5, 1905, ch. 23, § 5(c) (6th par.), 33 Stat. 601; Dec. 10, 1912, ch. 1, § 1, 37 Stat. 647; Mar. 3, 1921, ch. 131, § 1, 41 Stat. 1354; May 8, 1947, ch. 50, § 6, 61 Stat. 83.) |
+| 300107 | 36:5(c) (6th par.). | Jan. 5, 1905, ch. 23, § 5(c) (6th par.), 33 Stat. 601; Dec. 10, 1912, ch. 1, § 1, 37 Stat. 647; Mar. 3, 1921, ch. 131, § 1, 41 Stat. 1354; May 8, 1947, ch. 50, § 6, 61 Stat. 83.) |
 
 The words “The board shall determine on an equitable basis the number of votes” are substituted for “shall be determined according to allocation by the Board of Governors, which shall be established on an equitable basis” for clarity and to eliminate unnecessary words. The words “the populations served” are substituted for “the populations in the territories served” for clarity and to eliminate unnecessary words.
 
@@ -424,7 +424,7 @@ The words “The board shall determine on an equitable basis the number of votes
 
 2007—Pub. L. 110–26 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “The annual meeting of the corporation is the national convention of delegates of the chapters. The national convention shall be held annually on a date and at a place specified by the board of governors. In matters requiring a vote at the national convention, each chapter is entitled to at least one vote. The board shall determine on an equitable basis the number of votes that each chapter is entitled to cast, taking into consideration the size of the membership of the chapters and of the populations served by the chapters. The board shall review the allocation of votes at least every 5 years.”
 
-## § 300108. Buildings
+## § 300108. Buildings
 
 **(a) Ownership.—** The United States Government shall retain ownership of the corporation’s permanent headquarters, comprised of buildings erected on square 172 in the District of Columbia, including—
 
@@ -442,14 +442,14 @@ The words “The board shall determine on an equitable basis the number of votes
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 300108 | 36:13. | Feb. 7, 1930, ch. 42, §§ 1, 5, 46 Stat. 66. |
-|  | 36:15. | June 7, 1924, ch. 369, §§ 1, 2, 4, 43 Stat. 665, 666. |
+| 300108 | 36:13. | Feb. 7, 1930, ch. 42, §§ 1, 5, 46 Stat. 66. |
+|  | 36:15. | June 7, 1924, ch. 369, §§ 1, 2, 4, 43 Stat. 665, 666. |
 
 Subsection (a)(1) is substituted for “land occupied in part on June 7, 1924, by the Memorial to the Women of the Civil War, the permanent headquarters of the American Red Cross” in 36:15 because the words in the source refer to the building, provided for by the Act of October 22, 1913 (ch. 32 (par. under heading “Monument to Commemorate the Women of the Civil War”), 38 Stat. 233), that was built as the permanent headquarters of the American Red Cross, the predecessor organization to the corporation.
 
-In subsection (a)(2), the words “That there is hereby authorized to be appropriated out of any money in the Treasury not otherwise appropriated the sum of $150,000 as a part contribution to the erection of . . . with equipment” in section 1 of the Act June 7, 1924 (ch. 369, 43 Stat. 665), are omitted as executed. The words “That said memorial shall be a building monumental in design and character . . . and shall cost not less than $300,000: *Provided*, That this expenditure shall include complete equipment” in section 2 of that Act are omitted as executed. The words “The expenditures for said memorial building shall be made under the direction of a commission consisting of the chairman of the Senate Committee on the Library and the chairman of the House Committee on the Library” in section 4 (last par.) of that Act are omitted as executed. The text of section 4 (1st par.) of that Act is omitted as executed. The words “of America” are omitted as unnecessary. The words “its territories and possessions” are substituted for “its insular possessions” for clarity and consistency in the revised title and with other titles of the United States Code. The words “World War I” are substituted for “the World War” for clarity.
+In subsection (a)(2), the words “That there is hereby authorized to be appropriated out of any money in the Treasury not otherwise appropriated the sum of $150,000 as a part contribution to the erection of . . . with equipment” in section 1 of the Act June 7, 1924 (ch. 369, 43 Stat. 665), are omitted as executed. The words “That said memorial shall be a building monumental in design and character . . . and shall cost not less than $300,000: *Provided*, That this expenditure shall include complete equipment” in section 2 of that Act are omitted as executed. The words “The expenditures for said memorial building shall be made under the direction of a commission consisting of the chairman of the Senate Committee on the Library and the chairman of the House Committee on the Library” in section 4 (last par.) of that Act are omitted as executed. The text of section 4 (1st par.) of that Act is omitted as executed. The words “of America” are omitted as unnecessary. The words “its territories and possessions” are substituted for “its insular possessions” for clarity and consistency in the revised title and with other titles of the United States Code. The words “World War I” are substituted for “the World War” for clarity.
 
-In subsection (a)(3), the words “That authority be, and is hereby, given to the American National Red Cross to erect . . . in replacement of the temporary building or buildings erected on such lot under Public Resolution Numbered 3, Sixty–fifth Congress (S.J. Res. 61)” in section 1 of the Act of February 7, 1930 (ch. 42, 46 Stat. 66) are omitted as executed.
+In subsection (a)(3), the words “That authority be, and is hereby, given to the American National Red Cross to erect . . . in replacement of the temporary building or buildings erected on such lot under Public Resolution Numbered 3, Sixty–fifth Congress (S.J. Res. 61)” in section 1 of the Act of February 7, 1930 (ch. 42, 46 Stat. 66) are omitted as executed.
 
 In subsection (b), the words “Administrator of General Services” are substituted for “Superintendent of Public Buildings and Grounds” in section 4 (last par.) of the Act June 7, 1924 (ch. 369, 43 Stat. 666) and “Director of Public Buildings and Public Parks of the National Capital” in section 5 of the Act of February 7, 1930 (ch. 42, 46 Stat. 66) to reflect subsequent transfers of functions. The office of Public Buildings and Grounds under the Chief of Engineers was abolished and the functions of the Chief of Engineers, United States Army, were transferred to the Director of Public Buildings and Public Parks of the National Capital by section 3 of the Act of February 26, 1925 (ch. 339, 43 Stat. 983). The office of Public Buildings and Public Parks of the National Capital was abolished and its functions transferred to the Office of National Parks, Buildings and Reservations of the Department of the Interior by section 2 of Executive Order No. 6166, effective June 10, 1933. The name of the latter office was changed to “National Park Service” by section 1 of the Act of March 2, 1934 (ch. 38, 48 Stat. 389). The functions of the Director of the National Park Service related to public buildings were transferred to the Federal Works Administrator by section 303(b) of Reorganization Plan No. I of 1939 (5 App. U.S.C.). The functions of the Federal Works Administrator were transferred to the Administrator of General Services by section 103(a) of the Act of June 30, 1949 (ch. 288, 63 Stat. 380). The words “the corporation shall care for and maintain the buildings” are substituted for “the American National Red Cross shall at all times be charged with the responsibility, the care, keeping, and maintenance of said building” in 36:13, and “the American Red Cross shall at all times be charged with the responsibility, the care, keeping, and maintenance of the said memorial building” in 36:15, for clarity and to eliminate unnecessary words.
 
@@ -457,7 +457,7 @@ In subsection (b), the words “Administrator of General Services” are substit
 
 **Permanent Building for District of Columbia Chapter**
 
-Act July 1, 1947, ch. 195, 61 Stat. 241, as amended by Pub. L. 100–637, § 1, Nov. 8, 1988, 102 Stat. 3325, provided:
+Act July 1, 1947, ch. 195, 61 Stat. 241, as amended by Pub. L. 100–637, § 1, Nov. 8, 1988, 102 Stat. 3325, provided:
 
 > “That authority be, and is hereby, given to the American National Red Cross to erect upon the south half of square 104 in the city of Washington, District of Columbia, a permanent building for the use of the District of Columbia Chapter, American National Red Cross, in connection with its work, in cooperation with the Government of the United States and its responsibilities under its charter granted by the Congress of the United States.
 
@@ -515,17 +515,17 @@ Act July 1, 1947, ch. 195, 61 Stat. 241, as amended by Pub. L. 100–637, § 1
 
 > **“(b)** The enactment of this section may not be construed as establishing a policy of the United States Government to furnish building sites for Red Cross chapters or any eleemosynary institution at any other place.”
 
-## § 300109. Endowment fund
+## § 300109. Endowment fund
 
 The endowment fund of the corporation shall be kept and invested under the management and control of a board of trustees elected by the board of governors. The corporation shall prescribe policies and regulations on terms and tenure of office, accountability, and expenses of the board of trustees.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1493; Pub. L. 110–26, § 9, May 11, 2007, 121 Stat. 109.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1493; Pub. L. 110–26, § 9, May 11, 2007, 121 Stat. 109.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 300109 | 36:9. | Jan. 5, 1905, ch. 23, § 8, as added June 23, 1910, ch. 372, § 2, 36 Stat. 604; May 8, 1947, ch. 50, § 7, 61 Stat. 83. |
+| 300109 | 36:9. | Jan. 5, 1905, ch. 23, § 8, as added June 23, 1910, ch. 372, § 2, 36 Stat. 604; May 8, 1947, ch. 50, § 7, 61 Stat. 83. |
 
 The words “from time to time” are omitted [as] unnecessary.
 
@@ -535,7 +535,7 @@ The words “from time to time” are omitted [as] unnecessary.
 
 2007—Pub. L. 110–26 struck out “nine” before “trustees elected” in first sentence and substituted “The corporation shall prescribe policies and regulations on terms and tenure of office, accountability, and expenses of the board of trustees.” for “The board of governors shall prescribe regulations on terms and tenure of office, accountability, and expenses of the board of trustees.”
 
-## § 300110. Annual report and audit
+## § 300110. Annual report and audit
 
 **(a) Submission of Report.—** As soon as practicable after the end of the corporation’s fiscal year, which may be changed from time to time by the board of governors, the corporation shall submit a report to the Secretary of Defense on the activities of the corporation during such fiscal year, including a complete, itemized report of all receipts and expenditures.
 
@@ -543,14 +543,14 @@ The words “from time to time” are omitted [as] unnecessary.
 
 **(c) Payment of Audit Expenses.—** The corporation shall reimburse the Secretary each year for auditing its accounts. The amount paid shall be deposited in the Treasury of the United States as a miscellaneous receipt.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1493; Pub. L. 110–26, § 10, May 11, 2007, 121 Stat. 109.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1493; Pub. L. 110–26, § 10, May 11, 2007, 121 Stat. 109.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 300110(a)–(c) | 36:6. | Jan. 5, 1905, ch. 23, § 6, 33 Stat. 602; Feb. 27, 1917, ch. 137, 39 Stat. 946; July 17, 1953, ch. 222, § 4(c), 67 Stat. 179. |
-|  | 36:7. | May 29, 1920, ch. 214, § 1 (1st complete par. on p. 659), 41 Stat. 659; July 17, 1953, ch. 222, § 5, 67 Stat. 179. |
+| 300110(a)–(c) | 36:6. | Jan. 5, 1905, ch. 23, § 6, 33 Stat. 602; Feb. 27, 1917, ch. 137, 39 Stat. 946; July 17, 1953, ch. 222, § 4(c), 67 Stat. 179. |
+|  | 36:7. | May 29, 1920, ch. 214, § 1 (1st complete par. on p. 659), 41 Stat. 659; July 17, 1953, ch. 222, § 5, 67 Stat. 179. |
 
 In subsection (a), the words “make and”, “next preceding”, and “full” are omitted as unnecessary. The word “activities” is substituted for “proceedings” for consistency in the revised title. The words “all receipts and expenditures” are substituted for “receipts and expenditures of whatever kind” to eliminate unnecessary words.
 
@@ -562,11 +562,11 @@ In subsections (b) and (c), the word “Secretary” is substituted for “Depar
 
 2007—Subsec. (a). Pub. L. 110–26 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “As soon as practicable after July 1 of each year, the corporation shall submit a report to the Secretary of Defense on the activities of the corporation during the fiscal year ending June 30, including a complete, itemized report of all receipts and expenditures.”
 
-## § 300111. Authority of the Comptroller General of the United States
+## § 300111. Authority of the Comptroller General of the United States
 
 The Comptroller General of the United States is authorized to review the corporation’s involvement in any Federal program or activity the Government carries out under law.
 
-(Added Pub. L. 110–26, § 11(a), May 11, 2007, 121 Stat. 109.)
+(Added Pub. L. 110–26, § 11(a), May 11, 2007, 121 Stat. 109.)
 
 **Editorial Notes**
 
@@ -574,7 +574,7 @@ The Comptroller General of the United States is authorized to review the corpora
 
 A prior section 300111 was renumbered section 300113 of this title.
 
-## § 300112. Office of the Ombudsman
+## § 300112. Office of the Ombudsman
 
 **(a) Establishment.—** The corporation shall establish an Office of the Ombudsman with such duties and responsibilities as may be provided in the bylaws or a resolution of the board of governors.
 
@@ -608,19 +608,19 @@ A prior section 300111 was renumbered section 300113 of this title.
 
 **(v)** the Committee on Ways and Means.
 
-(Added Pub. L. 110–26, § 11(a), May 11, 2007, 121 Stat. 110.)
+(Added Pub. L. 110–26, § 11(a), May 11, 2007, 121 Stat. 110.)
 
-## § 300113. Reservation of right to amend or repeal
+## § 300113. Reservation of right to amend or repeal
 
 Congress reserves the right to amend or repeal the provisions of this chapter.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1494, § 300111; renumbered § 300113, Pub. L. 110–26, § 11(a), May 11, 2007, 121 Stat. 109.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1494, § 300111; renumbered § 300113, Pub. L. 110–26, § 11(a), May 11, 2007, 121 Stat. 109.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 300111 | 36:8 | Jan. 5, 1905, ch. 23, § 7, 33 Stat. 602. |
+| 300111 | 36:8 | Jan. 5, 1905, ch. 23, § 7, 33 Stat. 602. |
 
 **Editorial Notes**
 

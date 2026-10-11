@@ -19,29 +19,29 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 5 related to Joint Chiefs of Staff, prior to the general revision of this chapter by Pub. L. 99–433, title II, § 201, Oct. 1, 1986, 100 Stat. 1004, consisted of sections 141 to 143 as follows:
+A prior chapter 5 related to Joint Chiefs of Staff, prior to the general revision of this chapter by Pub. L. 99–433, title II, § 201, Oct. 1, 1986, 100 Stat. 1004, consisted of sections 141 to 143 as follows:
 
-Section 141, acts Aug. 10, 1956, ch. 1041, 70A Stat. 6; Aug. 6, 1958, Pub. L. 85–599, § 7, 72 Stat. 519; Sept. 7, 1962, Pub. L. 87–651, title II, § 204, 76 Stat. 519; Oct. 20, 1978, Pub. L. 95–485, title VIII, § 807, 92 Stat. 1622, provided for composition and functions of Joint Chiefs. See section 151 of this title.
+Section 141, acts Aug. 10, 1956, ch. 1041, 70A Stat. 6; Aug. 6, 1958, Pub. L. 85–599, § 7, 72 Stat. 519; Sept. 7, 1962, Pub. L. 87–651, title II, § 204, 76 Stat. 519; Oct. 20, 1978, Pub. L. 95–485, title VIII, § 807, 92 Stat. 1622, provided for composition and functions of Joint Chiefs. See section 151 of this title.
 
-Section 142, acts Aug. 10, 1956, ch. 1041, 70A Stat. 7; Sept. 7, 1962, Pub. L. 87–649, § 14c(1), 76 Stat. 501; Oct. 19, 1984, Pub. L. 98–525, title XIII, § 1301(b), 98 Stat. 2611, provided for appointment and duties of Chairman of Joint Chiefs. See sections 152 and 153 of this title.
+Section 142, acts Aug. 10, 1956, ch. 1041, 70A Stat. 7; Sept. 7, 1962, Pub. L. 87–649, § 14c(1), 76 Stat. 501; Oct. 19, 1984, Pub. L. 98–525, title XIII, § 1301(b), 98 Stat. 2611, provided for appointment and duties of Chairman of Joint Chiefs. See sections 152 and 153 of this title.
 
-Section 143, acts Aug. 10, 1956, ch. 1041, 70A Stat. 7; Aug. 6, 1958, Pub. L. 85–599, § 5(a), 72 Stat. 517; Oct. 19, 1984, Pub. L. 98–525, title XIII, § 1301(c), 98 Stat. 2611, provided for a Joint Staff. See section 155 of this title.
+Section 143, acts Aug. 10, 1956, ch. 1041, 70A Stat. 7; Aug. 6, 1958, Pub. L. 85–599, § 5(a), 72 Stat. 517; Oct. 19, 1984, Pub. L. 98–525, title XIII, § 1301(c), 98 Stat. 2611, provided for a Joint Staff. See section 155 of this title.
 
 **Amendments**
 
-2016—Pub. L. 114–328, div. A, title V, § 502(a)(2), Dec. 23, 2016, 130 Stat. 2102, struck out item 155a “Assistants to the Chairman of the Joint Chiefs of Staff for National Guard matters and Reserve matters”.
+2016—Pub. L. 114–328, div. A, title V, § 502(a)(2), Dec. 23, 2016, 130 Stat. 2102, struck out item 155a “Assistants to the Chairman of the Joint Chiefs of Staff for National Guard matters and Reserve matters”.
 
-2013—Pub. L. 112–239, div. A, title V, § 511(b), Jan. 2, 2013, 126 Stat. 1718, added item 155a.
+2013—Pub. L. 112–239, div. A, title V, § 511(b), Jan. 2, 2013, 126 Stat. 1718, added item 155a.
 
-2008—Pub. L. 110–417, [div. A], title X, § 1061(a)(2), Oct. 14, 2008, 122 Stat. 4612, inserted period at end of item 156.
+2008—Pub. L. 110–417, [div. A], title X, § 1061(a)(2), Oct. 14, 2008, 122 Stat. 4612, inserted period at end of item 156.
 
-Pub. L. 110–181, div. A, title V, § 543(e)(2), Jan. 28, 2008, 122 Stat. 115, added item 156.
+Pub. L. 110–181, div. A, title V, § 543(e)(2), Jan. 28, 2008, 122 Stat. 115, added item 156.
 
-1987—Pub. L. 100–180, div. A, title XIII, § 1314(b)(1)(B), Dec. 4, 1987, 101 Stat. 1175, substituted “grade and rank” for “rank” in item 152.
+1987—Pub. L. 100–180, div. A, title XIII, § 1314(b)(1)(B), Dec. 4, 1987, 101 Stat. 1175, substituted “grade and rank” for “rank” in item 152.
 
-1986—Pub. L. 99–433, title II, § 201, Oct. 1, 1986, 100 Stat. 1005, amended chapter 5 heading and analysis generally, substituting items 151–155 for items 141–143.
+1986—Pub. L. 99–433, title II, § 201, Oct. 1, 1986, 100 Stat. 1005, amended chapter 5 heading and analysis generally, substituting items 151–155 for items 141–143.
 
-## § 151. Joint Chiefs of Staff: composition; functions
+## § 151. Joint Chiefs of Staff: composition; functions
 
 **(a) Composition.—** There are in the Department of Defense the Joint Chiefs of Staff, headed by the Chairman of the Joint Chiefs of Staff. The Joint Chiefs of Staff consist of the following:
 
@@ -85,7 +85,7 @@ Pub. L. 110–181, div. A, title V, § 543(e)(2), Jan. 28, 2008, 122 Stat. 115
 
 **(3)** The Chairman shall establish procedures to ensure that the presentation of his own advice to the President, the National Security Council, the Homeland Security Council, or the Secretary of Defense is not unduly delayed by reason of the submission of the individual advice or opinion of another member of the Joint Chiefs of Staff.
 
-**[(e)** Repealed. Pub. L. 114–328, div. A, title IX, § 921(a)(2)(C), Dec. 23, 2016, 130 Stat. 2351.]
+**[(e)** Repealed. Pub. L. 114–328, div. A, title IX, § 921(a)(2)(C), Dec. 23, 2016, 130 Stat. 2351.]
 
 **(f) Recommendations to Congress.—** After first informing the Secretary of Defense, a member of the Joint Chiefs of Staff may make such recommendations to Congress relating to the Department of Defense as he considers appropriate.
 
@@ -109,7 +109,7 @@ Pub. L. 110–181, div. A, title V, § 543(e)(2), Jan. 28, 2008, 122 Stat. 115
 
 **(2)** Nothing in this subsection prohibits a personnel action authorized by another provision of law.
 
-(Added Pub. L. 99–433, title II, § 201, Oct. 1, 1986, 100 Stat. 1005; amended Pub. L. 102–484, div. A, title IX, § 911(a), Oct. 23, 1992, 106 Stat. 2473; Pub. L. 109–163, div. A, title IX, § 908(a), Jan. 6, 2006, 119 Stat. 3403; Pub. L. 112–81, div. A, title V, § 512(a), Dec. 31, 2011, 125 Stat. 1393; Pub. L. 114–328, div. A, title IX, § 921(a), Dec. 23, 2016, 130 Stat. 2351; Pub. L. 116–92, div. A, title IX, § 953(c), Dec. 20, 2019, 133 Stat. 1564; Pub. L. 119–60, div. A, title IX, § 911(a), Dec. 18, 2025, 139 Stat. 1015.)
+(Added Pub. L. 99–433, title II, § 201, Oct. 1, 1986, 100 Stat. 1005; amended Pub. L. 102–484, div. A, title IX, § 911(a), Oct. 23, 1992, 106 Stat. 2473; Pub. L. 109–163, div. A, title IX, § 908(a), Jan. 6, 2006, 119 Stat. 3403; Pub. L. 112–81, div. A, title V, § 512(a), Dec. 31, 2011, 125 Stat. 1393; Pub. L. 114–328, div. A, title IX, § 921(a), Dec. 23, 2016, 130 Stat. 2351; Pub. L. 116–92, div. A, title IX, § 953(c), Dec. 20, 2019, 133 Stat. 1564; Pub. L. 119–60, div. A, title IX, § 911(a), Dec. 18, 2025, 139 Stat. 1015.)
 
 **Editorial Notes**
 
@@ -119,13 +119,13 @@ Pub. L. 110–181, div. A, title V, § 543(e)(2), Jan. 28, 2008, 122 Stat. 115
 
 2019—Subsec. (a)(8). Pub. L. 116–92 added par. (8).
 
-2016—Subsec. (b)(2). Pub. L. 114–328, § 921(a)(2)(A), substituted “subsection (d)” for “subsections (d) and (e)”.
+2016—Subsec. (b)(2). Pub. L. 114–328, § 921(a)(2)(A), substituted “subsection (d)” for “subsections (d) and (e)”.
 
-Subsec. (c)(1). Pub. L. 114–328, § 921(a)(1), substituted “as necessary” for “as he considers appropriate” in introductory provisions.
+Subsec. (c)(1). Pub. L. 114–328, § 921(a)(1), substituted “as necessary” for “as he considers appropriate” in introductory provisions.
 
-Subsec. (d). Pub. L. 114–328, § 921(a)(2)(B), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+Subsec. (d). Pub. L. 114–328, § 921(a)(2)(B), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
-Subsec. (e). Pub. L. 114–328, § 921(a)(2)(C), struck out subsec. (e) which required members of the Joint Chiefs of Staff to provide advice on request to the President, the National Security Council, the Homeland Security Council, or the Secretary of Defense.
+Subsec. (e). Pub. L. 114–328, § 921(a)(2)(C), struck out subsec. (e) which required members of the Joint Chiefs of Staff to provide advice on request to the President, the National Security Council, the Homeland Security Council, or the Secretary of Defense.
 
 2011—Subsec. (a)(7). Pub. L. 112–81 added par. (7).
 
@@ -137,9 +137,9 @@ Subsec. (e). Pub. L. 114–328, § 921(a)(2)(C), struck out subsec. (e) which 
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–92, div. A, title IX, § 953(c), Dec. 20, 2019, 133 Stat. 1564, provided that the amendment made by section 953(c) is effective on the date that is one year after Dec. 20, 2019.
+Pub. L. 116–92, div. A, title IX, § 953(c), Dec. 20, 2019, 133 Stat. 1564, provided that the amendment made by section 953(c) is effective on the date that is one year after Dec. 20, 2019.
 
-## § 152. Chairman: appointment; grade and rank
+## § 152. Chairman: appointment; grade and rank
 
 **(a) Appointment; Term of Office.—**
 
@@ -163,7 +163,7 @@ Pub. L. 116–92, div. A, title IX, § 953(c), Dec. 20, 2019, 133 Stat. 1564, 
 
 **(c) Grade and Rank.—** The Chairman, while so serving, holds the grade of general or, in the case of the Navy, admiral, and outranks all other officers of the armed forces. However, he may not exercise military command over the Joint Chiefs of Staff or any of the armed forces.
 
-(Added Pub. L. 99–433, title II, § 201, Oct. 1, 1986, 100 Stat. 1006; amended Pub. L. 100–180, div. A, title XIII, § 1314(b)(1)(A), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 114–328, div. A, title IX, § 921(b)(1), Dec. 23, 2016, 130 Stat. 2351; Pub. L. 116–283, div. A, title IX, § 924(b)(7)(A), Jan. 1, 2021, 134 Stat. 3822; Pub. L. 118–159, div. A, title V, § 521(a), Dec. 23, 2024, 138 Stat. 1880.)
+(Added Pub. L. 99–433, title II, § 201, Oct. 1, 1986, 100 Stat. 1006; amended Pub. L. 100–180, div. A, title XIII, § 1314(b)(1)(A), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 114–328, div. A, title IX, § 921(b)(1), Dec. 23, 2016, 130 Stat. 2351; Pub. L. 116–283, div. A, title IX, § 924(b)(7)(A), Jan. 1, 2021, 134 Stat. 3822; Pub. L. 118–159, div. A, title V, § 521(a), Dec. 23, 2024, 138 Stat. 1880.)
 
 **Editorial Notes**
 
@@ -171,13 +171,13 @@ Pub. L. 116–92, div. A, title IX, § 953(c), Dec. 20, 2019, 133 Stat. 1564, 
 
 2024—Subsec. (c). Pub. L. 118–159 substituted “general or, in the case of the Navy, admiral” for “general, in the case of the Navy, admiral, or, in the case of an officer of the Space Force, the equivalent grade”.
 
-2021—Subsec. (b)(1)(B). Pub. L. 116–283, § 924(b)(7)(A)(i), which directed substitution of “the Commandant of the Marine Corps, or the Chief of Space Operations” for “or the Commandant of the Marine Corps” in subpar. (C), was executed by making the substitution in subpar. (B), to reflect the probable intent of Congress.
+2021—Subsec. (b)(1)(B). Pub. L. 116–283, § 924(b)(7)(A)(i), which directed substitution of “the Commandant of the Marine Corps, or the Chief of Space Operations” for “or the Commandant of the Marine Corps” in subpar. (C), was executed by making the substitution in subpar. (B), to reflect the probable intent of Congress.
 
-Subsec. (c). Pub. L. 116–283, § 924(b)(7)(A)(ii), which directed substitution of “, in the case of the Navy, admiral, or, in the case of an officer of the Space Force, the equivalent grade,” for “or, in the case of the Navy, admiral”, was executed by making the substitution for “or, in the case of an officer of the Navy, admiral”, to reflect the probable intent of Congress.
+Subsec. (c). Pub. L. 116–283, § 924(b)(7)(A)(ii), which directed substitution of “, in the case of the Navy, admiral, or, in the case of an officer of the Space Force, the equivalent grade,” for “or, in the case of the Navy, admiral”, was executed by making the substitution for “or, in the case of an officer of the Navy, admiral”, to reflect the probable intent of Congress.
 
-2016—Subsec. (a)(1). Pub. L. 114–328, § 921(b)(1)(A), substituted “four years, beginning on October 1 of an odd-numbered year. The limitation does not apply in time of war.” for “two years, beginning on October 1 of odd-numbered years. Subject to paragraph (3), an officer serving as Chairman may be reappointed in the same manner for two additional terms. However, in time of war there is no limit on the number of reappointments.”
+2016—Subsec. (a)(1). Pub. L. 114–328, § 921(b)(1)(A), substituted “four years, beginning on October 1 of an odd-numbered year. The limitation does not apply in time of war.” for “two years, beginning on October 1 of odd-numbered years. Subject to paragraph (3), an officer serving as Chairman may be reappointed in the same manner for two additional terms. However, in time of war there is no limit on the number of reappointments.”
 
-Subsec. (a)(3). Pub. L. 114–328, § 921(b)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “An officer may not serve as Chairman or Vice Chairman of the Joint Chiefs of Staff if the combined period of service of such officer in such positions exceeds six years. However, the President may extend to eight years the combined period of service an officer may serve in such positions if he determines such action is in the national interest. The limitations of this paragraph do not apply in time of war.”
+Subsec. (a)(3). Pub. L. 114–328, § 921(b)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “An officer may not serve as Chairman or Vice Chairman of the Joint Chiefs of Staff if the combined period of service of such officer in such positions exceeds six years. However, the President may extend to eight years the combined period of service an officer may serve in such positions if he determines such action is in the national interest. The limitations of this paragraph do not apply in time of war.”
 
 1987—Pub. L. 100–180 substituted “grade and rank” for “rank” in section catchline.
 
@@ -185,9 +185,9 @@ Subsec. (a)(3). Pub. L. 114–328, § 921(b)(1)(B), added par. (3) and struck 
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–328, div. A, title IX, § 921(b)(2), Dec. 23, 2016, 130 Stat. 2351, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on January 1, 2019, and shall apply to individuals appointed as Chairman of the Joint Chiefs of Staff on or after that date.”
+Pub. L. 114–328, div. A, title IX, § 921(b)(2), Dec. 23, 2016, 130 Stat. 2351, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on January 1, 2019, and shall apply to individuals appointed as Chairman of the Joint Chiefs of Staff on or after that date.”
 
-## § 153. Chairman: functions
+## § 153. Chairman: functions
 
 **(a) Planning; Advice; Policy Formulation.—** Subject to the authority, direction, and control of the President and the Secretary of Defense, the Chairman of the Joint Chiefs of Staff shall be responsible for the following:
 
@@ -363,7 +363,7 @@ Pub. L. 114–328, div. A, title IX, § 921(b)(2), Dec. 23, 2016, 130 Stat. 23
 
 **(C)** if the risk assessment is not delivered at or before the time of the briefing, a timeline for when the risk assessment will be submitted to the Committees on Armed Services of the Senate and the House of Representatives.
 
-(Added Pub. L. 99–433, title II, § 201, Oct. 1, 1986, 100 Stat. 1007; amended Pub. L. 106–65, div. A, title X, § 1033, Oct. 5, 1999, 113 Stat. 751; Pub. L. 106–398, § 1 [[div. A], title IX, § 905], Oct. 30, 2000, 114 Stat. 1654, 1654A–226; Pub. L. 107–107, div. A, title IX, § 921(b), Dec. 28, 2001, 115 Stat. 1198; Pub. L. 107–314, div. A, title X, § 1062(a)(1), Dec. 2, 2002, 116 Stat. 2649; Pub. L. 108–136, div. A, title IX, § 903, title X, § 1043(b)(2), Nov. 24, 2003, 117 Stat. 1558, 1610; Pub. L. 112–81, div. A, title VIII, § 820(b), title IX, § 941, Dec. 31, 2011, 125 Stat. 1501, 1548; Pub. L. 112–239, div. A, title VIII, § 845(b), title IX, §§ 951(a), 952, Jan. 2, 2013, 126 Stat. 1848, 1891, 1892; Pub. L. 113–66, div. A, title IX, § 905, Dec. 26, 2013, 127 Stat. 817; Pub. L. 113–291, div. A, title X, § 1071(c)(2), (g)(3), Dec. 19, 2014, 128 Stat. 3508, 3511; Pub. L. 114–92, div. A, title IX, § 901, title X, § 1081(a)(3), Nov. 25, 2015, 129 Stat. 956, 1000; Pub. L. 114–328, div. A, title IX, §§ 921(c), 943, title X, § 1064(c), Dec. 23, 2016, 130 Stat. 2351, 2369, 2409; Pub. L. 115–91, div. A, title X, § 1081(a)(8), (d)(10), Dec. 12, 2017, 131 Stat. 1594, 1600; Pub. L. 115–232, div. A, title IX, §§ 912, 913, Aug. 13, 2018, 132 Stat. 1923; Pub. L. 117–81, div. A, title III, § 311(c), Dec. 27, 2021, 135 Stat. 1626; Pub. L. 118–31, div. A, title X, § 1041(c), Dec. 22, 2023, 137 Stat. 388.)
+(Added Pub. L. 99–433, title II, § 201, Oct. 1, 1986, 100 Stat. 1007; amended Pub. L. 106–65, div. A, title X, § 1033, Oct. 5, 1999, 113 Stat. 751; Pub. L. 106–398, § 1 [[div. A], title IX, § 905], Oct. 30, 2000, 114 Stat. 1654, 1654A–226; Pub. L. 107–107, div. A, title IX, § 921(b), Dec. 28, 2001, 115 Stat. 1198; Pub. L. 107–314, div. A, title X, § 1062(a)(1), Dec. 2, 2002, 116 Stat. 2649; Pub. L. 108–136, div. A, title IX, § 903, title X, § 1043(b)(2), Nov. 24, 2003, 117 Stat. 1558, 1610; Pub. L. 112–81, div. A, title VIII, § 820(b), title IX, § 941, Dec. 31, 2011, 125 Stat. 1501, 1548; Pub. L. 112–239, div. A, title VIII, § 845(b), title IX, §§ 951(a), 952, Jan. 2, 2013, 126 Stat. 1848, 1891, 1892; Pub. L. 113–66, div. A, title IX, § 905, Dec. 26, 2013, 127 Stat. 817; Pub. L. 113–291, div. A, title X, § 1071(c)(2), (g)(3), Dec. 19, 2014, 128 Stat. 3508, 3511; Pub. L. 114–92, div. A, title IX, § 901, title X, § 1081(a)(3), Nov. 25, 2015, 129 Stat. 956, 1000; Pub. L. 114–328, div. A, title IX, §§ 921(c), 943, title X, § 1064(c), Dec. 23, 2016, 130 Stat. 2351, 2369, 2409; Pub. L. 115–91, div. A, title X, § 1081(a)(8), (d)(10), Dec. 12, 2017, 131 Stat. 1594, 1600; Pub. L. 115–232, div. A, title IX, §§ 912, 913, Aug. 13, 2018, 132 Stat. 1923; Pub. L. 117–81, div. A, title III, § 311(c), Dec. 27, 2021, 135 Stat. 1626; Pub. L. 118–31, div. A, title X, § 1041(c), Dec. 22, 2023, 137 Stat. 388.)
 
 **Editorial Notes**
 
@@ -373,31 +373,31 @@ Pub. L. 114–328, div. A, title IX, § 921(b)(2), Dec. 23, 2016, 130 Stat. 23
 
 2021—Subsec. (b)(2)(B)(vii). Pub. L. 117–81 added cl. (vii).
 
-2018—Subsec. (a)(6)(D). Pub. L. 115–232, § 912, amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “formulating policies for concept development and experimentation for the joint employment of the armed forces;”.
+2018—Subsec. (a)(6)(D). Pub. L. 115–232, § 912, amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “formulating policies for concept development and experimentation for the joint employment of the armed forces;”.
 
-Subsec. (b)(1)(D)(iii). Pub. L. 115–232, § 913(1), substituted “military risk” for “military strategic and operational risks”.
+Subsec. (b)(1)(D)(iii). Pub. L. 115–232, § 913(1), substituted “military risk” for “military strategic and operational risks”.
 
-Subsec. (b)(2)(B)(ii). Pub. L. 115–232, § 913(2), substituted “military strategic risks to United States interests and military risks in executing the National Military Strategy (or update)” for “military strategic and operational risks to United States interests and the military strategic and operational risks in executing the National Military Strategy (or update)”.
+Subsec. (b)(2)(B)(ii). Pub. L. 115–232, § 913(2), substituted “military strategic risks to United States interests and military risks in executing the National Military Strategy (or update)” for “military strategic and operational risks to United States interests and the military strategic and operational risks in executing the National Military Strategy (or update)”.
 
-2017—Subsec. (a). Pub. L. 115–91, § 1081(d)(10), made technical amendment to directory language of Pub. L. 114–328, § 921(c). See 2016 Amendment note below.
+2017—Subsec. (a). Pub. L. 115–91, § 1081(d)(10), made technical amendment to directory language of Pub. L. 114–328, § 921(c). See 2016 Amendment note below.
 
-Pub. L. 115–91, § 1081(a)(8), in introductory provisions, inserted colon after “the following”.
+Pub. L. 115–91, § 1081(a)(8), in introductory provisions, inserted colon after “the following”.
 
-2016—Subsec. (a). Pub. L. 114–328, § 921(c), as amended by Pub. L. 115–91, § 1081(d)(10), amended the text of subsec. (a) generally. Prior to amendment, subsec. (a) related to Chairman’s functions of planning, advice, and policy formulation.
+2016—Subsec. (a). Pub. L. 114–328, § 921(c), as amended by Pub. L. 115–91, § 1081(d)(10), amended the text of subsec. (a) generally. Prior to amendment, subsec. (a) related to Chairman’s functions of planning, advice, and policy formulation.
 
-Subsec. (b)(1). Pub. L. 114–328, § 943(a), amended par. (1) generally. Prior to amendment, par. (1) consisted of subpars. (A) to (F) and related to national military strategy.
+Subsec. (b)(1). Pub. L. 114–328, § 943(a), amended par. (1) generally. Prior to amendment, par. (1) consisted of subpars. (A) to (F) and related to national military strategy.
 
-Subsec. (b)(2)(A). Pub. L. 114–328, § 943(b)(1), substituted “in the report” for “of the report” in third sentence.
+Subsec. (b)(2)(A). Pub. L. 114–328, § 943(b)(1), substituted “in the report” for “of the report” in third sentence.
 
-Subsec. (b)(2)(B). Pub. L. 114–328, § 943(b)(2)(A), inserted “(or update)” after “National Military Strategy” wherever appearing.
+Subsec. (b)(2)(B). Pub. L. 114–328, § 943(b)(2)(A), inserted “(or update)” after “National Military Strategy” wherever appearing.
 
-Subsec. (b)(2)(B)(ii). Pub. L. 114–328, § 943(b)(2)(B), substituted “military strategic and operational risks to United States interests and the military strategic and operational risks in executing the National Military Strategy (or update).” for “strategic risks to United States interests and the military risks in executing the missions of the National Military Strategy (or update).”
+Subsec. (b)(2)(B)(ii). Pub. L. 114–328, § 943(b)(2)(B), substituted “military strategic and operational risks to United States interests and the military strategic and operational risks in executing the National Military Strategy (or update).” for “strategic risks to United States interests and the military risks in executing the missions of the National Military Strategy (or update).”
 
-Subsec. (b)(2)(B)(iii). Pub. L. 114–328, § 943(b)(2)(C), struck out “distinguishing between the concepts of probability and consequences” after “levels of risk”.
+Subsec. (b)(2)(B)(iii). Pub. L. 114–328, § 943(b)(2)(C), struck out “distinguishing between the concepts of probability and consequences” after “levels of risk”.
 
-Subsec. (b)(2)(B)(iv)(II). Pub. L. 114–328, § 943(b)(2)(D), struck out “most” before “current future-years defense program”.
+Subsec. (b)(2)(B)(iv)(II). Pub. L. 114–328, § 943(b)(2)(D), struck out “most” before “current future-years defense program”.
 
-Subsec. (b)(2)(B)(v). Pub. L. 114–328, § 943(b)(2)(E), substituted “of external support, as appropriate.” for “or support of—
+Subsec. (b)(2)(B)(v). Pub. L. 114–328, § 943(b)(2)(E), substituted “of external support, as appropriate.” for “or support of—
 
 “(I) other departments and agencies of the United States Government (including their capabilities and availability);
 
@@ -405,57 +405,57 @@ Subsec. (b)(2)(B)(v). Pub. L. 114–328, § 943(b)(2)(E), substituted “of ex
 
 “(III) contractors.”
 
-Subsec. (b)(3)(C). Pub. L. 114–328, § 943(c), added subpar. (C).
+Subsec. (b)(3)(C). Pub. L. 114–328, § 943(c), added subpar. (C).
 
-Subsec. (c)(1). Pub. L. 114–328, § 1064(c), substituted “Not later than 25 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to section 1105(a) of title 31” for “At or about the time that the budget is submitted to Congress for a fiscal year under section 1105(a) of title 31”.
+Subsec. (c)(1). Pub. L. 114–328, § 1064(c), substituted “Not later than 25 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to section 1105(a) of title 31” for “At or about the time that the budget is submitted to Congress for a fiscal year under section 1105(a) of title 31”.
 
-2015—Subsec. (a)(5). Pub. L. 114–92, § 1081(a)(3), substituted “Joint Force Development Activities” for “Joint force development activities” in heading.
+2015—Subsec. (a)(5). Pub. L. 114–92, § 1081(a)(3), substituted “Joint Force Development Activities” for “Joint force development activities” in heading.
 
-Subsec. (a)(5)(F). Pub. L. 114–92, § 901, added subpar. (F).
+Subsec. (a)(5)(F). Pub. L. 114–92, § 901, added subpar. (F).
 
-2014—Subsec. (a)(5). Pub. L. 113–291, § 1071(g)(3), amended Pub. L. 113–66, § 905(b). See 2013 Amendment note below.
+2014—Subsec. (a)(5). Pub. L. 113–291, § 1071(g)(3), amended Pub. L. 113–66, § 905(b). See 2013 Amendment note below.
 
-Subsec. (b)(1)(C)(i). Pub. L. 113–291, § 1071(c)(2), substituted “(50 U.S.C. 3043)” for “(50 U.S.C. 404a)”.
+Subsec. (b)(1)(C)(i). Pub. L. 113–291, § 1071(c)(2), substituted “(50 U.S.C. 3043)” for “(50 U.S.C. 404a)”.
 
-2013—Subsec. (a)(3)(F). Pub. L. 112–239, § 845(b), added subpar. (F).
+2013—Subsec. (a)(3)(F). Pub. L. 112–239, § 845(b), added subpar. (F).
 
-Subsec. (a)(4)(F), (G). Pub. L. 112–239, § 951(a), added subpars. (F) and (G) and struck out former subpar. (F) which read as follows: “Assessing military requirements for defense acquisition programs.”
+Subsec. (a)(4)(F), (G). Pub. L. 112–239, § 951(a), added subpars. (F) and (G) and struck out former subpar. (F) which read as follows: “Assessing military requirements for defense acquisition programs.”
 
-Subsec. (a)(5). Pub. L. 113–66, § 905(b), as amended by Pub. L. 113–291, § 1071(g)(3), which directed substitution of “Joint force development activities” for “Doctrine, Training, and education” in heading, was executed by making the substitution for “Doctrine, Training, and Education” to reflect the probable intent of Congress.
+Subsec. (a)(5). Pub. L. 113–66, § 905(b), as amended by Pub. L. 113–291, § 1071(g)(3), which directed substitution of “Joint force development activities” for “Doctrine, Training, and education” in heading, was executed by making the substitution for “Doctrine, Training, and Education” to reflect the probable intent of Congress.
 
-Subsec. (a)(5)(B). Pub. L. 113–66, § 905(a)(1), inserted “and technical standards, and executing actions,” after “policies”.
+Subsec. (a)(5)(B). Pub. L. 113–66, § 905(a)(1), inserted “and technical standards, and executing actions,” after “policies”.
 
-Subsec. (a)(5)(C). Pub. L. 113–66, § 905(a)(2), struck out “and training” after “education”.
+Subsec. (a)(5)(C). Pub. L. 113–66, § 905(a)(2), struck out “and training” after “education”.
 
-Subsec. (a)(5)(D), (E). Pub. L. 113–66, § 905(a)(3), added subpars. (D) and (E).
+Subsec. (a)(5)(D), (E). Pub. L. 113–66, § 905(a)(3), added subpars. (D) and (E).
 
-Subsec. (b). Pub. L. 112–239, § 952(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to risks under National Military Strategy.
+Subsec. (b). Pub. L. 112–239, § 952(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to risks under National Military Strategy.
 
-Subsec. (d). Pub. L. 112–239, § 952(b), struck out subsec. (d) which related to biennial review of National Military Strategy.
+Subsec. (d). Pub. L. 112–239, § 952(b), struck out subsec. (d) which related to biennial review of National Military Strategy.
 
-2011—Subsec. (a)(3)(C) to (E). Pub. L. 112–81, § 820(b)(1), added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
+2011—Subsec. (a)(3)(C) to (E). Pub. L. 112–81, § 820(b)(1), added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
 
-Subsec. (a)(4)(E). Pub. L. 112–81, § 820(b)(2), inserted “and contractor support” after “area of manpower”.
+Subsec. (a)(4)(E). Pub. L. 112–81, § 820(b)(2), inserted “and contractor support” after “area of manpower”.
 
-Subsec. (b)(1). Pub. L. 112–81, § 941(1), substituted “assessment of—” for “assessment of the nature and magnitude of the strategic and military risks associated with executing the missions called for under the current National Military Strategy.” and added subpars. (A) and (B).
+Subsec. (b)(1). Pub. L. 112–81, § 941(1), substituted “assessment of—” for “assessment of the nature and magnitude of the strategic and military risks associated with executing the missions called for under the current National Military Strategy.” and added subpars. (A) and (B).
 
-Subsec. (b)(2). Pub. L. 112–81, § 941(2), inserted “or that critical deficiencies in force capabilities exist for a contingency plan,” after “National Military Strategy is significant,” and “or deficiency” before period at end.
+Subsec. (b)(2). Pub. L. 112–81, § 941(2), inserted “or that critical deficiencies in force capabilities exist for a contingency plan,” after “National Military Strategy is significant,” and “or deficiency” before period at end.
 
-Subsec. (d)(2)(I). Pub. L. 112–81, § 820(b)(3)(A), added subpar. (I).
+Subsec. (d)(2)(I). Pub. L. 112–81, § 820(b)(3)(A), added subpar. (I).
 
-Subsec. (d)(3)(B). Pub. L. 112–81, § 820(b)(3)(B), substituted “the levels of support from allies and other friendly nations, and the levels of contractor support” for “and the levels of support from allies and other friendly nations”.
+Subsec. (d)(3)(B). Pub. L. 112–81, § 820(b)(3)(B), substituted “the levels of support from allies and other friendly nations, and the levels of contractor support” for “and the levels of support from allies and other friendly nations”.
 
-2003—Subsec. (b)(1). Pub. L. 108–136, § 903(b), substituted “of each odd-numbered year” for “each year”.
+2003—Subsec. (b)(1). Pub. L. 108–136, § 903(b), substituted “of each odd-numbered year” for “each year”.
 
-Subsec. (c). Pub. L. 108–136, § 1043(b)(2), in par. (1), substituted “congressional defense committees” for “committees of Congress named in paragraph (2)”, designated the second sentence of par. (1) as par. (2), in par. (2), substituted “Each report under paragraph (1)” for “The report”, and struck out former par. (2) which read as follows: “The committees of Congress referred to in paragraph (1) are the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives.”
+Subsec. (c). Pub. L. 108–136, § 1043(b)(2), in par. (1), substituted “congressional defense committees” for “committees of Congress named in paragraph (2)”, designated the second sentence of par. (1) as par. (2), in par. (2), substituted “Each report under paragraph (1)” for “The report”, and struck out former par. (2) which read as follows: “The committees of Congress referred to in paragraph (1) are the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives.”
 
-Subsec. (d). Pub. L. 108–136, § 903(a), added subsec. (d).
+Subsec. (d). Pub. L. 108–136, § 903(a), added subsec. (d).
 
 2002—Pub. L. 107–314 inserted subsec. (a) heading and redesignated subsecs. (c) and (d) as (b) and (c), respectively.
 
-2001—Subsec. (a). Pub. L. 107–107, § 921(b)(1), struck out “(a) Planning; Advice; Policy Formulation.—” before “Subject to the authority”.
+2001—Subsec. (a). Pub. L. 107–107, § 921(b)(1), struck out “(a) Planning; Advice; Policy Formulation.—” before “Subject to the authority”.
 
-Subsec. (b). Pub. L. 107–107, § 921(b)(2), struck out heading and text of subsec. (b) which read as follows:
+Subsec. (b). Pub. L. 107–107, § 921(b)(2), struck out heading and text of subsec. (b) which read as follows:
 
 “(b) Report on Assignment of Roles and Missions.—(1) Not less than once every three years, or upon the request of the President or the Secretary of Defense, the Chairman shall submit to the Secretary of Defense a report containing such recommendations for changes in the assignment of functions (or roles and missions) to the armed forces as the Chairman considers necessary to achieve maximum effectiveness of the armed forces. In preparing each such report, the Chairman shall consider (among other matters) the following:
 
@@ -467,9 +467,9 @@ Subsec. (b). Pub. L. 107–107, § 921(b)(2), struck out heading and text of s
 
 “(2) The Chairman shall include in each such report recommendations for such changes in policies, directives, regulations, and legislation as may be necessary to achieve the changes in the assignment of functions recommended by the Chairman.”
 
-2000—Subsec. (d)(1). Pub. L. 106–398, § 1 [[div. A], title IX, § 905(b)], substituted “At or about the time that the budget is submitted to Congress for a fiscal year under section 1105(a) of title 31,” for “Not later than August 15 of each year,” in introductory provisions.
+2000—Subsec. (d)(1). Pub. L. 106–398, § 1 [[div. A], title IX, § 905(b)], substituted “At or about the time that the budget is submitted to Congress for a fiscal year under section 1105(a) of title 31,” for “Not later than August 15 of each year,” in introductory provisions.
 
-Subsec. (d)(1)(C), (D). Pub. L. 106–398, § 1 [[div. A], title IX, § 905(a)], added subpars. (C) and (D).
+Subsec. (d)(1)(C), (D). Pub. L. 106–398, § 1 [[div. A], title IX, § 905(a)], added subpars. (C) and (D).
 
 1999—Subsecs. (c), (d). Pub. L. 106–65 added subsecs. (c) and (d).
 
@@ -477,11 +477,11 @@ Subsec. (d)(1)(C), (D). Pub. L. 106–398, § 1 [[div. A], title IX, § 905(
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–91, div. A, title X, § 1081(d), Dec. 12, 2017, 131 Stat. 1599, provided that the amendment made by section 1081(d)(10) is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted.
+Pub. L. 115–91, div. A, title X, § 1081(d), Dec. 12, 2017, 131 Stat. 1599, provided that the amendment made by section 1081(d)(10) is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted.
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–291, div. A, title X, § 1071(g), Dec. 19, 2014, 128 Stat. 3511, provided that the amendment made by section 1071(g)(3) is effective as of Dec. 26, 2013, and as if included in Pub. L. 113–66 as enacted.
+Pub. L. 113–291, div. A, title X, § 1071(g), Dec. 19, 2014, 128 Stat. 3511, provided that the amendment made by section 1071(g)(3) is effective as of Dec. 26, 2013, and as if included in Pub. L. 113–66 as enacted.
 
 **Termination of Reporting Requirements**
 
@@ -489,7 +489,7 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this s
 
 **Inclusion of Assessment of Joint Military Training and Force Allocations in Quadrennial Defense Review and National Military Strategy**
 
-Pub. L. 112–81, div. A, title III, § 348, Dec. 31, 2011, 125 Stat. 1375, provided that:
+Pub. L. 112–81, div. A, title III, § 348, Dec. 31, 2011, 125 Stat. 1375, provided that:
 
 > “The assessments of the National Military Strategy conducted by the Chairman of the Joint Chiefs of Staff under section 153(b) of this title [sic; probably means Title 10, Armed Forces], and the quadrennial roles and missions review pursuant to [former] section 118b of this title [sic], shall include an assessment of joint military training and force allocations to determine—
 
@@ -499,7 +499,7 @@ Pub. L. 112–81, div. A, title III, § 348, Dec. 31, 2011, 125 Stat. 1375, pr
 
 **Common Measurement of Operations Tempo and Personnel Tempo**
 
-Pub. L. 105–85, div. A, title III, § 326, Nov. 18, 1997, 111 Stat. 1679, provided that:
+Pub. L. 105–85, div. A, title III, § 326, Nov. 18, 1997, 111 Stat. 1679, provided that:
 
 > **“(a) Means for Measurement.—** The Chairman of the Joint Chiefs of Staff shall, to the maximum extent practicable, develop (1) a common means of measuring the operations tempo (OPTEMPO) of each of the Armed Forces, and (2) a common means of measuring the personnel tempo (PERSTEMPO) of each of the Armed Forces. The Chairman shall consult with the other members of the Joint Chiefs of Staff in developing those common means of measurement.
 
@@ -507,17 +507,17 @@ Pub. L. 105–85, div. A, title III, § 326, Nov. 18, 1997, 111 Stat. 1679, pr
 
 **Annual Assessment of Force Readiness**
 
-Pub. L. 103–160, div. A, title III, § 376, Nov. 30, 1993, 107 Stat. 1637, provided for an annual assessment of readiness and capability of the Armed Forces by the Chairman of the Joint Chiefs of Staff to be submitted to Congress not later than March 1 of each of 1994, 1995, and 1996 and for interim assessments between annual submissions in the event of a significant change in readiness or capability of the Armed Forces.
+Pub. L. 103–160, div. A, title III, § 376, Nov. 30, 1993, 107 Stat. 1637, provided for an annual assessment of readiness and capability of the Armed Forces by the Chairman of the Joint Chiefs of Staff to be submitted to Congress not later than March 1 of each of 1994, 1995, and 1996 and for interim assessments between annual submissions in the event of a significant change in readiness or capability of the Armed Forces.
 
 **Report of Chairman of Joint Chiefs of Staff on Roles and Missions of Armed Forces**
 
-Pub. L. 102–484, div. A, title IX, § 901, Oct. 23, 1992, 106 Stat. 2469, provided for the Secretary of Defense to transmit to Congress a copy of the first report relating to the roles and missions of the Armed Forces that was submitted by the Chairman of the Joint Chiefs of Staff under subsec. (b) of this section after Jan. 1, 1992, and directed the Chairman to include in the report comments and recommendations.
+Pub. L. 102–484, div. A, title IX, § 901, Oct. 23, 1992, 106 Stat. 2469, provided for the Secretary of Defense to transmit to Congress a copy of the first report relating to the roles and missions of the Armed Forces that was submitted by the Chairman of the Joint Chiefs of Staff under subsec. (b) of this section after Jan. 1, 1992, and directed the Chairman to include in the report comments and recommendations.
 
 **Transition Provisions**
 
-Pub. L. 99–433, title II, § 204(a), (b), Oct. 1, 1986, 100 Stat. 1011, provided dates for establishment of the uniform system of evaluating the preparedness of each unified and specified combatant command and for submission of the first report.
+Pub. L. 99–433, title II, § 204(a), (b), Oct. 1, 1986, 100 Stat. 1011, provided dates for establishment of the uniform system of evaluating the preparedness of each unified and specified combatant command and for submission of the first report.
 
-## § 154. Vice Chairman
+## § 154. Vice Chairman
 
 **(a) Appointment.—**
 
@@ -539,9 +539,9 @@ Pub. L. 99–433, title II, § 204(a), (b), Oct. 1, 1986, 100 Stat. 1011, prov
 
 **(A)** has the joint specialty under section 661 of this title; and
 
-**(B)** has completed a full tour of duty in a joint duty assignment (as defined in section 664(f) 1
+**(B)** has completed a full tour of duty in a joint duty assignment (as defined in section 664(f) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title) as a general or flag officer.
 
@@ -555,23 +555,23 @@ of this title) as a general or flag officer.
 
 **(f) Grade and Rank.—** The Vice Chairman, while so serving, holds the grade of general or, in the case of an officer of the Navy, admiral and outranks all other officers of the armed forces except the Chairman. The Vice Chairman may not exercise military command over the Joint Chiefs of Staff or any of the armed forces.
 
-(Added Pub. L. 99–433, title II, § 201, Oct. 1, 1986, 100 Stat. 1008; amended Pub. L. 100–456, div. A, title V, § 519(a)(1), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 102–484, div. A, title IX, § 911(b)(1), Oct. 23, 1992, 106 Stat. 2473; Pub. L. 114–328, div. A, title IX, § 921(d)(1), (2), Dec. 23, 2016, 130 Stat. 2354.)
+(Added Pub. L. 99–433, title II, § 201, Oct. 1, 1986, 100 Stat. 1008; amended Pub. L. 100–456, div. A, title V, § 519(a)(1), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 102–484, div. A, title IX, § 911(b)(1), Oct. 23, 1992, 106 Stat. 2473; Pub. L. 114–328, div. A, title IX, § 921(d)(1), (2), Dec. 23, 2016, 130 Stat. 2354.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 664(f) of this title, referred to in subsec. (b)(1)(B), was redesignated as section 664(d) of this title by Pub. L. 114–328, div. A, title V, § 510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
+Section 664(f) of this title, referred to in subsec. (b)(1)(B), was redesignated as section 664(d) of this title by Pub. L. 114–328, div. A, title V, § 510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
 
 **Amendments**
 
-2016—Subsec. (a)(3). Pub. L. 114–328, § 921(d)(1), substituted “for a single term of four years, beginning on October 1 of an odd-numbered year, except that the term may not begin in the same year as the term of a Chairman. In time of war, there is no limit on the number of reappointments.” for “for a term of two years and may be reappointed in the same manner for two additional terms. However, in time of war there is no limit on the number of reappointments.”
+2016—Subsec. (a)(3). Pub. L. 114–328, § 921(d)(1), substituted “for a single term of four years, beginning on October 1 of an odd-numbered year, except that the term may not begin in the same year as the term of a Chairman. In time of war, there is no limit on the number of reappointments.” for “for a term of two years and may be reappointed in the same manner for two additional terms. However, in time of war there is no limit on the number of reappointments.”
 
-Subsec. (a)(4). Pub. L. 114–328, § 921(d)(2), added par. (4).
+Subsec. (a)(4). Pub. L. 114–328, § 921(d)(2), added par. (4).
 
-1992—Subsec. (c). Pub. L. 102–484, § 911(b)(1)(A), substituted “the duties prescribed for him as a member of the Joint Chiefs of Staff and such other” for “such”.
+1992—Subsec. (c). Pub. L. 102–484, § 911(b)(1)(A), substituted “the duties prescribed for him as a member of the Joint Chiefs of Staff and such other” for “such”.
 
-Subsecs. (f), (g). Pub. L. 102–484, § 911(b)(1)(B), (C), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “Participation in JCS Meetings.—The Vice Chairman may participate in all meetings of the Joint Chiefs of Staff, but may not vote on a matter before the Joint Chiefs of Staff except when acting as Chairman.”
+Subsecs. (f), (g). Pub. L. 102–484, § 911(b)(1)(B), (C), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “Participation in JCS Meetings.—The Vice Chairman may participate in all meetings of the Joint Chiefs of Staff, but may not vote on a matter before the Joint Chiefs of Staff except when acting as Chairman.”
 
 1988—Subsec. (b)(1)(B). Pub. L. 100–456 substituted “completed a full tour of duty in a joint duty assignment (as defined in section 664(f) of this title)” for “served in at least one joint duty assignment (as defined under section 668(b) of this title)”.
 
@@ -579,17 +579,17 @@ Subsecs. (f), (g). Pub. L. 102–484, § 911(b)(1)(B), (C), redesignated subse
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–328, div. A, title IX, § 921(d)(3), Dec. 23, 2016, 130 Stat. 2354, provided that: “The amendments made by this subsection [amending this section] shall take effect on January 1, 2021, and shall apply to individuals appointed as Vice Chairman of the Joint Chiefs of Staff on or after that date.”
+Pub. L. 114–328, div. A, title IX, § 921(d)(3), Dec. 23, 2016, 130 Stat. 2354, provided that: “The amendments made by this subsection [amending this section] shall take effect on January 1, 2021, and shall apply to individuals appointed as Vice Chairman of the Joint Chiefs of Staff on or after that date.”
 
 **Extension of Term of Office of Vice Chairman of Joint Chiefs of Staff**
 
-Pub. L. 100–526, title I, § 107, Oct. 24, 1988, 102 Stat. 2625, authorized President to extend until June 1, 1989, term of office of officer serving as Vice Chairman of Joint Chiefs of Staff for term which began on Feb. 6, 1987.
+Pub. L. 100–526, title I, § 107, Oct. 24, 1988, 102 Stat. 2625, authorized President to extend until June 1, 1989, term of office of officer serving as Vice Chairman of Joint Chiefs of Staff for term which began on Feb. 6, 1987.
 
 **Waiver of Qualifications for Appointment as Vice Chairman of Joint Chiefs of Staff**
 
-Pub. L. 99–433, title II, § 204(c), Oct. 1, 1986, 100 Stat. 1011, authorized President, until Oct. 1, 1990, to waive certain requirements otherwise applicable for appointment of an officer as Vice Chairman of Joint Chiefs of Staff.
+Pub. L. 99–433, title II, § 204(c), Oct. 1, 1986, 100 Stat. 1011, authorized President, until Oct. 1, 1990, to waive certain requirements otherwise applicable for appointment of an officer as Vice Chairman of Joint Chiefs of Staff.
 
-## § 155. Joint Staff
+## § 155. Joint Staff
 
 **(a) Appointment of Officers to Joint Staff.—**
 
@@ -649,7 +649,7 @@ Pub. L. 99–433, title II, § 204(c), Oct. 1, 1986, 100 Stat. 1011, authorize
 
 **(4)** Each limitation in paragraphs (1) and (2) may be exceeded by a number equal to 15 percent of such limitation in time of national emergency.
 
-(Added Pub. L. 99–433, title II, § 201, Oct. 1, 1986, 100 Stat. 1009; amended Pub. L. 100–180, div. A, title XIII, § 1314(b)(2), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–510, div. A, title IX, § 902, Nov. 5, 1990, 104 Stat. 1620; Pub. L. 102–484, div. A, title IX, § 911(b)(2), Oct. 23, 1992, 106 Stat. 2473; Pub. L. 103–35, title II, § 202(a)(8), May 31, 1993, 107 Stat. 101; Pub. L. 113–291, div. A, title X, § 1071(c)(1), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–328, div. A, title IX, § 903(b)(1), Dec. 23, 2016, 130 Stat. 2344; Pub. L. 116–92, div. A, title IX, § 901(a)(2)(A), Dec. 20, 2019, 133 Stat. 1541; Pub. L. 116–283, div. A, title IX, § 924(b)(7)(B), Jan. 1, 2021, 134 Stat. 3822.)
+(Added Pub. L. 99–433, title II, § 201, Oct. 1, 1986, 100 Stat. 1009; amended Pub. L. 100–180, div. A, title XIII, § 1314(b)(2), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–510, div. A, title IX, § 902, Nov. 5, 1990, 104 Stat. 1620; Pub. L. 102–484, div. A, title IX, § 911(b)(2), Oct. 23, 1992, 106 Stat. 2473; Pub. L. 103–35, title II, § 202(a)(8), May 31, 1993, 107 Stat. 101; Pub. L. 113–291, div. A, title X, § 1071(c)(1), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–328, div. A, title IX, § 903(b)(1), Dec. 23, 2016, 130 Stat. 2344; Pub. L. 116–92, div. A, title IX, § 901(a)(2)(A), Dec. 20, 2019, 133 Stat. 1541; Pub. L. 116–283, div. A, title IX, § 924(b)(7)(B), Jan. 1, 2021, 134 Stat. 3822.)
 
 **Editorial Notes**
 
@@ -675,23 +675,23 @@ Pub. L. 99–433, title II, § 204(c), Oct. 1, 1986, 100 Stat. 1011, authorize
 
 “(B) during a national emergency declared by the President or Congress.”
 
-1987—Subsec. (f)(4)(B). Pub. L. 100–180, § 1314(b)(2)(A), inserted “or Congress” after “by the President”.
+1987—Subsec. (f)(4)(B). Pub. L. 100–180, § 1314(b)(2)(A), inserted “or Congress” after “by the President”.
 
-Subsec. (g)(2)(B). Pub. L. 100–180, § 1314(b)(2)(B), inserted “the President or” after “declared by”.
+Subsec. (g)(2)(B). Pub. L. 100–180, § 1314(b)(2)(B), inserted “the President or” after “declared by”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–92, div. A, title IX, § 901(a)(2)(B), Dec. 20, 2019, 133 Stat. 1541, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect on December 31, 2019, immediately after the coming into effect of the amendment made by section 903(b) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2344) [amending this section], to which such amendments relate[.]”
+Pub. L. 116–92, div. A, title IX, § 901(a)(2)(B), Dec. 20, 2019, 133 Stat. 1541, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect on December 31, 2019, immediately after the coming into effect of the amendment made by section 903(b) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2344) [amending this section], to which such amendments relate[.]”
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–328, div. A, title IX, § 903(b)(2), Dec. 23, 2016, 130 Stat. 2344, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on December 31, 2019.”
+Pub. L. 114–328, div. A, title IX, § 903(b)(2), Dec. 23, 2016, 130 Stat. 2344, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on December 31, 2019.”
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–35, title II, § 202(b), May 31, 1993, 107 Stat. 102, provided that: “The amendments made by this section [amending this section, sections 1079, 1086a, 1174a, 1463, 2323, 2347, 2391, and 2410d of this title, and sections 5013 and 5113 of former Title 36, Patriotic Societies and Observances, and amending provisions set out as notes under sections 664, 2350a, 2431, 2501, 2505, 10105, and 12681 of this title and section 5611 of Title 15, Commerce and Trade] shall apply as if included in the enactment of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484).”
+Pub. L. 103–35, title II, § 202(b), May 31, 1993, 107 Stat. 102, provided that: “The amendments made by this section [amending this section, sections 1079, 1086a, 1174a, 1463, 2323, 2347, 2391, and 2410d of this title, and sections 5013 and 5113 of former Title 36, Patriotic Societies and Observances, and amending provisions set out as notes under sections 664, 2350a, 2431, 2501, 2505, 10105, and 12681 of this title and section 5611 of Title 15, Commerce and Trade] shall apply as if included in the enactment of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484).”
 
 **Transfer of Functions**
 
@@ -699,7 +699,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Establishment of Chairman’s Controlled Activity Within Joint Staff for Intelligence, Surveillance, and Reconnaissance**
 
-Pub. L. 115–91, div. A, title XVI, § 1627, Dec. 12, 2017, 131 Stat. 1734, provided that:
+Pub. L. 115–91, div. A, title XVI, § 1627, Dec. 12, 2017, 131 Stat. 1734, provided that:
 
 > **“(a) Chairman’s Controlled Activity.—** The Chairman of the Joint Chiefs of Staff shall—
 
@@ -723,7 +723,7 @@ Pub. L. 115–91, div. A, title XVI, § 1627, Dec. 12, 2017, 131 Stat. 1734, p
 
 **Increased Flexibility in Use of Funds for Joint Staff Exercises**
 
-Pub. L. 109–364, div. A, title X, § 1052, Oct. 17, 2006, 120 Stat. 2396, provided that:
+Pub. L. 109–364, div. A, title X, § 1052, Oct. 17, 2006, 120 Stat. 2396, provided that:
 
 > **“(a) In General.—** Amounts available to the Chairman of the Joint Chiefs of Staff for joint staff exercises may be available for any expenses as follows:
 
@@ -737,27 +737,27 @@ Pub. L. 109–364, div. A, title X, § 1052, Oct. 17, 2006, 120 Stat. 2396, pr
 
 **Assistants to Chairman of the Joint Chiefs of Staff for National Guard Matters and for Reserve Matters**
 
-Pub. L. 105–85, div. A, title IX, § 901, Nov. 18, 1997, 111 Stat. 1853, as amended by Pub. L. 109–163, div. A, title V, § 515(h), Jan. 6, 2006, 119 Stat. 3237, which established the positions of Assistant to the Chairman of the Joint Chiefs of Staff for National Guard Matters and Assistant to the Chairman of the Joint Chiefs of Staff for Reserve Matters within the Joint Staff, was repealed and restated as former section 155a of this title by Pub. L. 112–239, § 511(a), (c), Jan. 2, 2013, 126 Stat. 1717, 1718.
+Pub. L. 105–85, div. A, title IX, § 901, Nov. 18, 1997, 111 Stat. 1853, as amended by Pub. L. 109–163, div. A, title V, § 515(h), Jan. 6, 2006, 119 Stat. 3237, which established the positions of Assistant to the Chairman of the Joint Chiefs of Staff for National Guard Matters and Assistant to the Chairman of the Joint Chiefs of Staff for Reserve Matters within the Joint Staff, was repealed and restated as former section 155a of this title by Pub. L. 112–239, § 511(a), (c), Jan. 2, 2013, 126 Stat. 1717, 1718.
 
-## [§ 155a. Repealed. Pub. L. 114–328, div. A, title V, § 502(a)(1), Dec. 23, 2016, 130 Stat. 2102]
+## [§ 155a. Repealed. Pub. L. 114–328, div. A, title V, § 502(a)(1), Dec. 23, 2016, 130 Stat. 2102]
 
-Section, added Pub. L. 112–239, div. A, title V, § 511(a), Jan. 2, 2013, 126 Stat. 1717, related to Assistants to the Chairman of the Joint Chiefs of Staff for National Guard matters and Reserve matters.
+Section, added Pub. L. 112–239, div. A, title V, § 511(a), Jan. 2, 2013, 126 Stat. 1717, related to Assistants to the Chairman of the Joint Chiefs of Staff for National Guard matters and Reserve matters.
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those formerly contained in this section were contained in Pub. L. 105–85, div. A, title IX, § 901, Nov. 18, 1997, 111 Stat. 1853, which was set out as a note under section 155 of this title, prior to repeal by Pub. L. 112–239, § 511(c).
+Provisions similar to those formerly contained in this section were contained in Pub. L. 105–85, div. A, title IX, § 901, Nov. 18, 1997, 111 Stat. 1853, which was set out as a note under section 155 of this title, prior to repeal by Pub. L. 112–239, § 511(c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Retention of Grade of Incumbents in Positions on Effective Date**
 
-Pub. L. 114–328, div. A, title V, § 502(tt), as added by Pub. L. 115–91, div. A, title V, § 506(a)(1), Dec. 12, 2017, 131 Stat. 1374, provided that: “The grade of service of an officer serving as of the date of the enactment of this Act [Dec. 23, 2016, see below] in a position whose statutory grade is affected by an amendment made by this section [see Tables for classification] may not be reduced after that date by reason of such amendment as long as the officer remains in continuous service in such position after that date.”
+Pub. L. 114–328, div. A, title V, § 502(tt), as added by Pub. L. 115–91, div. A, title V, § 506(a)(1), Dec. 12, 2017, 131 Stat. 1374, provided that: “The grade of service of an officer serving as of the date of the enactment of this Act [Dec. 23, 2016, see below] in a position whose statutory grade is affected by an amendment made by this section [see Tables for classification] may not be reduced after that date by reason of such amendment as long as the officer remains in continuous service in such position after that date.”
 
-[Pub. L. 115–91, div. A, title V, § 506(a)(2), Dec. 12, 2017, 131 Stat. 1374, provided that: “The amendment made by paragraph (1) [enacting section 502(tt) of Pub. L. 114–328, set out above] shall take effect as of December 23, 2016, and be treated as if included in the enactment of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328).” ]
+[Pub. L. 115–91, div. A, title V, § 506(a)(2), Dec. 12, 2017, 131 Stat. 1374, provided that: “The amendment made by paragraph (1) [enacting section 502(tt) of Pub. L. 114–328, set out above] shall take effect as of December 23, 2016, and be treated as if included in the enactment of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328).” ]
 
-## § 156. Legal Counsel to the Chairman of the Joint Chiefs of Staff
+## § 156. Legal Counsel to the Chairman of the Joint Chiefs of Staff
 
 **(a) In General.—** There is a Legal Counsel to the Chairman of the Joint Chiefs of Staff.
 
@@ -769,7 +769,7 @@ Pub. L. 114–328, div. A, title V, § 502(tt), as added by Pub. L. 115–91, 
 
 **(2)** No officer or employee of the Department of Defense may interfere with the ability of the Legal Counsel to give independent legal advice to the Chairman of the Joint Chiefs of Staff and to the Joint Chiefs of Staff.
 
-(Added Pub. L. 110–181, div. A, title V, § 543(e)(1), Jan. 28, 2008, 122 Stat. 115; amended Pub. L. 110–417, [div. A], title V, § 591, Oct. 14, 2008, 122 Stat. 4474; Pub. L. 111–84, div. A, title V, § 501(a), Oct. 28, 2009, 123 Stat. 2272; Pub. L. 114–328, div. A, title V, § 502(b), Dec. 23, 2016, 130 Stat. 2102.)
+(Added Pub. L. 110–181, div. A, title V, § 543(e)(1), Jan. 28, 2008, 122 Stat. 115; amended Pub. L. 110–417, [div. A], title V, § 591, Oct. 14, 2008, 122 Stat. 4474; Pub. L. 111–84, div. A, title V, § 501(a), Oct. 28, 2009, 123 Stat. 2272; Pub. L. 114–328, div. A, title V, § 502(b), Dec. 23, 2016, 130 Stat. 2102.)
 
 **Editorial Notes**
 
@@ -777,7 +777,7 @@ Pub. L. 114–328, div. A, title V, § 502(tt), as added by Pub. L. 115–91, 
 
 2016—Subsecs. (c), (d). Pub. L. 114–328 redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “An officer appointed to serve as Legal Counsel to the Chairman of the Joint Chiefs of Staff shall be appointed in the regular grade of brigadier general or rear admiral (lower half).”
 
-2009—Subsec. (c). Pub. L. 111–84 substituted “be appointed in the regular” for “, while so serving, hold the”.
+2009—Subsec. (c). Pub. L. 111–84 substituted “be appointed in the regular” for “, while so serving, hold the”.
 
 2008—Subsec. (d). Pub. L. 110–417 designated existing provisions as par. (1) and added par. (2).
 
@@ -785,4 +785,4 @@ Pub. L. 114–328, div. A, title V, § 502(tt), as added by Pub. L. 115–91, 
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–84, div. A, title V, § 501(b), Oct. 28, 2009, 123 Stat. 2272, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Oct. 28, 2009], and shall apply with respect to individuals appointed as Legal Counsel to the Chairman of the Joint Chiefs of Staff on or after that date.”
+Pub. L. 111–84, div. A, title V, § 501(b), Oct. 28, 2009, 123 Stat. 2272, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Oct. 28, 2009], and shall apply with respect to individuals appointed as Legal Counsel to the Chairman of the Joint Chiefs of Staff on or after that date.”

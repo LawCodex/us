@@ -15,13 +15,13 @@ retrieved: 2026-10-11
 
 # CHAPTER 11—IMPORTATION OF PRE-COLUMBIAN MONUMENTAL OR ARCHITECTURAL SCULPTURE OR MURALS
 
-## § 2091. List of stone carvings and wall art; promulgation and revision; criteria for classification
+## § 2091. List of stone carvings and wall art; promulgation and revision; criteria for classification
 
 The Secretary, after consultation with the Secretary of State, by regulation shall promulgate, and thereafter when appropriate shall revise, a list of stone carvings and wall art which are pre-Columbian monumental or architectural sculpture or murals within the meaning of paragraph (3) of section 2095 of this title. Such stone carvings and wall art may be listed by type or other classification deemed appropriate by the Secretary.
 
-(Pub. L. 92–587, title II, § 201, Oct. 27, 1972, 86 Stat. 1297.)
+(Pub. L. 92–587, title II, § 201, Oct. 27, 1972, 86 Stat. 1297.)
 
-## § 2092. Export certification requirement
+## § 2092. Export certification requirement
 
 **(a) Issuance by country of export**
 
@@ -37,7 +37,7 @@ No pre-Columbian monumental or architectural sculpture or mural which is exporte
 
 the customs officer concerned shall take the sculpture or mural into customs custody and send it to a bonded warehouse or public store to be held at the risk and expense of the consignee until such certificate or evidence is filed with such officer. If such certificate or evidence is not presented within the 90-day period after the date on which such sculpture or mural is taken into customs custody, or such longer period as may be allowed by the Secretary for good cause shown, the importation of such sculpture or mural into the United States is in violation of this chapter.
 
-(Pub. L. 92–587, title II, § 202, Oct. 27, 1972, 86 Stat. 1297.)
+(Pub. L. 92–587, title II, § 202, Oct. 27, 1972, 86 Stat. 1297.)
 
 **Editorial Notes**
 
@@ -45,7 +45,7 @@ the customs officer concerned shall take the sculpture or mural into customs cus
 
 References to section 202 of Pub. L. 92–587 in the original were translated as section 2091 of this title in the classification of Pub. L. 92–587 as the probable intent of Congress.
 
-## § 2093. Forfeiture of unlawful imports
+## § 2093. Forfeiture of unlawful imports
 
 **(a) Seizure**
 
@@ -57,15 +57,15 @@ Any pre-Columbian monumental or architectural sculpture or mural imported into t
 
 **(2)** if not returned to the country of origin, be disposed of in the manner prescribed by law for articles forfeited for violation of the customs laws.
 
-(Pub. L. 92–587, title II, § 203, Oct. 27, 1972, 86 Stat. 1297.)
+(Pub. L. 92–587, title II, § 203, Oct. 27, 1972, 86 Stat. 1297.)
 
-## § 2094. Rules and regulations
+## § 2094. Rules and regulations
 
 The Secretary shall prescribe such rules and regulations as are necessary and appropriate to carry out the provisions of this chapter.
 
-(Pub. L. 92–587, title II, § 204, Oct. 27, 1972, 86 Stat. 1297.)
+(Pub. L. 92–587, title II, § 204, Oct. 27, 1972, 86 Stat. 1297.)
 
-## § 2095. Definitions
+## § 2095. Definitions
 
 For the purposes of this chapter—
 
@@ -87,4 +87,4 @@ For the purposes of this chapter—
 
 **(4)** The term “country of origin”, as applied to any pre-Columbian monumental or architectural sculpture or mural, means the country where such sculpture or mural was first discovered.
 
-(Pub. L. 92–587, title II, § 205, Oct. 27, 1972, 86 Stat. 1297.)
+(Pub. L. 92–587, title II, § 205, Oct. 27, 1972, 86 Stat. 1297.)

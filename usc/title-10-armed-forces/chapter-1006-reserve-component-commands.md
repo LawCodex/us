@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2006—Pub. L. 109–163, div. A, title V, § 515(b)(4)(F), Jan. 6, 2006, 119 Stat. 3235, substituted “Navy Reserve” for “Naval Reserve” in item 10172.
+2006—Pub. L. 109–163, div. A, title V, § 515(b)(4)(F), Jan. 6, 2006, 119 Stat. 3235, substituted “Navy Reserve” for “Naval Reserve” in item 10172.
 
-## § 10171. United States Army Reserve Command
+## § 10171. United States Army Reserve Command
 
 **(a) Command.—** The United States Army Reserve Command is a separate command of the Army commanded by the Chief of Army Reserve.
 
@@ -33,7 +33,7 @@ retrieved: 2026-10-11
 
 **(2)** except as otherwise directed by the Secretary of Defense in the case of forces assigned to carry out functions of the Secretary of the Army specified in section 7013 of this title, shall assign all such forces of the Army Reserve to the commander of the United States Atlantic Command.
 
-(Added Pub. L. 104–201, div. A, title XII, § 1211(a)(1), Sept. 23, 1996, 110 Stat. 2689; amended Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840.)
+(Added Pub. L. 104–201, div. A, title XII, § 1211(a)(1), Sept. 23, 1996, 110 Stat. 2689; amended Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
 **Editorial Notes**
 
@@ -49,9 +49,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Implementation Schedule for Reserve Component Commands**
 
-Pub. L. 104–201, div. A, title XII, § 1211(c), Sept. 23, 1996, 110 Stat. 2691, provided that: “Implementation of chapter 1006 of title 10, United States Code, as added by subsection (a), shall begin not later than 90 days after the date of the enactment of this Act [Sept. 23, 1996] and shall be completed not later than one year after such date.”
+Pub. L. 104–201, div. A, title XII, § 1211(c), Sept. 23, 1996, 110 Stat. 2691, provided that: “Implementation of chapter 1006 of title 10, United States Code, as added by subsection (a), shall begin not later than 90 days after the date of the enactment of this Act [Sept. 23, 1996] and shall be completed not later than one year after such date.”
 
-## § 10172. Navy Reserve Force
+## § 10172. Navy Reserve Force
 
 **(a) Establishment of Command.—** The Secretary of the Navy, with the advice and assistance of the Chief of Naval Operations, shall establish a Navy Reserve Force. The Navy Reserve Force shall be operated as a separate command of the Navy.
 
@@ -63,7 +63,7 @@ Pub. L. 104–201, div. A, title XII, § 1211(c), Sept. 23, 1996, 110 Stat. 26
 
 **(2)** except as otherwise directed by the Secretary of Defense in the case of forces assigned to carry out functions of the Secretary of the Navy specified in section 8013 of this title, shall assign to the combatant commands all such forces assigned to the Navy Reserve Force under paragraph (1) in the manner specified by the Secretary of Defense.
 
-(Added Pub. L. 104–201, div. A, title XII, § 1211(a)(1), Sept. 23, 1996, 110 Stat. 2689; amended Pub. L. 109–163, div. A, title V, § 515(b)(1)(BB), (3)(G), Jan. 6, 2006, 119 Stat. 3233, 3234; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840.)
+(Added Pub. L. 104–201, div. A, title XII, § 1211(a)(1), Sept. 23, 1996, 110 Stat. 2689; amended Pub. L. 109–163, div. A, title V, § 515(b)(1)(BB), (3)(G), Jan. 6, 2006, 119 Stat. 3233, 3234; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
 **Editorial Notes**
 
@@ -71,9 +71,9 @@ Pub. L. 104–201, div. A, title XII, § 1211(c), Sept. 23, 1996, 110 Stat. 26
 
 2018—Subsec. (c)(2). Pub. L. 115–232 substituted “section 8013” for “section 5013”.
 
-2006—Pub. L. 109–163, § 515(b)(3)(G), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
+2006—Pub. L. 109–163, § 515(b)(3)(G), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
 
-Pub. L. 109–163, § 515(b)(1)(BB), substituted “Navy Reserve” for “Naval Reserve” wherever appearing in text.
+Pub. L. 109–163, § 515(b)(1)(BB), substituted “Navy Reserve” for “Naval Reserve” wherever appearing in text.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -81,7 +81,7 @@ Pub. L. 109–163, § 515(b)(1)(BB), substituted “Navy Reserve” for “Nav
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 10173. Marine Forces Reserve
+## § 10173. Marine Forces Reserve
 
 **(a) Establishment.—** The Secretary of the Navy, with the advice and assistance of the Commandant of the Marine Corps, shall establish in the Marine Corps a command known as the Marine Forces Reserve.
 
@@ -93,7 +93,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(2)** except as otherwise directed by the Secretary of Defense in the case of forces assigned to carry out functions of the Secretary of the Navy specified in section 8013 of this title, shall assign to the combatant commands (through the Marine Corps component commander for each such command) all such forces assigned to the Marine Forces Reserve under paragraph (1) in the manner specified by the Secretary of Defense.
 
-(Added Pub. L. 104–201, div. A, title XII, § 1211(a)(1), Sept. 23, 1996, 110 Stat. 2690; amended Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840.)
+(Added Pub. L. 104–201, div. A, title XII, § 1211(a)(1), Sept. 23, 1996, 110 Stat. 2690; amended Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
 **Editorial Notes**
 
@@ -107,7 +107,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 10174. Air Force Reserve Command
+## § 10174. Air Force Reserve Command
 
 **(a) Establishment of Command.—** The Secretary of the Air Force, with the advice and assistance of the Chief of Staff of the Air Force, shall establish an Air Force Reserve Command. The Air Force Reserve Command shall be operated as a separate command of the Air Force.
 
@@ -119,7 +119,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(2)** except as otherwise directed by the Secretary of Defense in the case of forces assigned to carry out functions of the Secretary of the Air Force specified in section 9013 of this title, shall assign to the combatant commands all such forces assigned to the Air Force Reserve Command under paragraph (1) in the manner specified by the Secretary of Defense.
 
-(Added Pub. L. 104–201, div. A, title XII, § 1211(a)(1), Sept. 23, 1996, 110 Stat. 2690; amended Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840.)
+(Added Pub. L. 104–201, div. A, title XII, § 1211(a)(1), Sept. 23, 1996, 110 Stat. 2690; amended Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
 **Editorial Notes**
 

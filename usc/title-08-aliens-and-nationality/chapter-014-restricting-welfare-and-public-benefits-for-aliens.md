@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 14—RESTRICTING WELFARE AND PUBLIC BENEFITS FOR ALIENS
 
-## § 1601. Statements of national policy concerning welfare and immigration
+## § 1601. Statements of national policy concerning welfare and immigration
 
 The Congress makes the following statements concerning national policy with respect to welfare and immigration:
 
@@ -37,7 +37,7 @@ The Congress makes the following statements concerning national policy with resp
 
 **(7)** With respect to the State authority to make determinations concerning the eligibility of qualified aliens for public benefits in this chapter, a State that chooses to follow the Federal classification in determining the eligibility of such aliens for public assistance shall be considered to have chosen the least restrictive means available for achieving the compelling governmental interest of assuring that aliens be self-reliant in accordance with national immigration policy.
 
-(Pub. L. 104–193, title IV, § 400, Aug. 22, 1996, 110 Stat. 2260.)
+(Pub. L. 104–193, title IV, § 400, Aug. 22, 1996, 110 Stat. 2260.)
 
 **Editorial Notes**
 
@@ -49,7 +49,7 @@ This chapter, referred to in par. (7), was in the original “this title” mean
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–328, § 1, Sept. 30, 2008, 122 Stat. 3567, provided that: “This Act [amending section 1612 of this title and sections 3304, 6103, and 6402 of Title 26, Internal Revenue Code, and enacting provisions set out as a note under section 3304 of Title 26] may be cited as the ‘SSI Extension for Elderly and Disabled Refugees Act’.”
+Pub. L. 110–328, § 1, Sept. 30, 2008, 122 Stat. 3567, provided that: “This Act [amending section 1612 of this title and sections 3304, 6103, and 6402 of Title 26, Internal Revenue Code, and enacting provisions set out as a note under section 3304 of Title 26] may be cited as the ‘SSI Extension for Elderly and Disabled Refugees Act’.”
 
 **Executive Documents**
 
@@ -127,7 +127,7 @@ Donald J. Trump.
 
 ## SUBCHAPTER I—ELIGIBILITY FOR FEDERAL BENEFITS
 
-### § 1611. Aliens who are not qualified aliens ineligible for Federal public benefits
+### § 1611. Aliens who are not qualified aliens ineligible for Federal public benefits
 
 **(a) In general**
 
@@ -171,37 +171,37 @@ Notwithstanding any other provision of law and except as provided in subsection 
 
 **(C)** to the issuance of a professional license to, or the renewal of a professional license by, a foreign national not physically present in the United States.
 
-(Pub. L. 104–193, title IV, § 401, Aug. 22, 1996, 110 Stat. 2261; Pub. L. 105–33, title V, §§ 5561, 5565, Aug. 5, 1997, 111 Stat. 638, 639; Pub. L. 105–306, §§ 2, 5(a), Oct. 28, 1998, 112 Stat. 2926, 2927.)
+(Pub. L. 104–193, title IV, § 401, Aug. 22, 1996, 110 Stat. 2261; Pub. L. 105–33, title V, §§ 5561, 5565, Aug. 5, 1997, 111 Stat. 638, 639; Pub. L. 105–306, §§ 2, 5(a), Oct. 28, 1998, 112 Stat. 2926, 2927.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, IV, XVI, XVIII, and XIX of the Act are classified generally to subchapters II (§ 401 et seq.), IV (§ 601 et seq.), XVI (§ 1381 et seq.), XVIII (§ 1395 et seq.), and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part A of title XVIII of the Act is classified generally to part A (§ 1395c et seq.) of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, IV, XVI, XVIII, and XIX of the Act are classified generally to subchapters II (§ 401 et seq.), IV (§ 601 et seq.), XVI (§ 1381 et seq.), XVIII (§ 1395 et seq.), and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part A of title XVIII of the Act is classified generally to part A (§ 1395c et seq.) of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Housing Act of 1949, referred to in subsec. (b)(1)(E), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Act is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+The Housing Act of 1949, referred to in subsec. (b)(1)(E), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Act is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
-The Railroad Retirement Act of 1974, referred to in subsec. (b)(4), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+The Railroad Retirement Act of 1974, referred to in subsec. (b)(4), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
-The Railroad Unemployment Insurance Act, referred to in subsec. (b)(4), is act June 25, 1938, ch. 680, 52 Stat. 1094, which is classified principally to chapter 11 (§ 351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
+The Railroad Unemployment Insurance Act, referred to in subsec. (b)(4), is act June 25, 1938, ch. 680, 52 Stat. 1094, which is classified principally to chapter 11 (§ 351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
 
 This chapter, referred to in subsec. (c)(1), was in the original “this title” meaning title IV of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, which enacted this chapter, section 1183a of this title, and sections 611a and 1437y of Title 42, The Public Health and Welfare, amended section 1383 of this title, sections 32 and 6213 of Title 26, Internal Revenue Code, and sections 1436a and 1471 of Title 42, and enacted provisions set out as notes under section 1183a of this title and section 32 of Title 26. For complete classification of title IV to the Code, see Tables.
 
 Section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658, referred to in subsec. (c)(2)(A), means section 141 of the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, set out as a note under section 1901 of Title 48, Territories and Insular Possessions, and section 141 of the Compact of Free Association between the United States and the Government of Palau, which is contained in section 201 of Pub. L. 99–658, set out as a note under section 1931 of Title 48.
 
-The Immigration and Nationality Act, referred to in subsec. (c)(2)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+The Immigration and Nationality Act, referred to in subsec. (c)(2)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 **Amendments**
 
-1998—Subsec. (b)(5). Pub. L. 105–306, § 2, added par. (5).
+1998—Subsec. (b)(5). Pub. L. 105–306, § 2, added par. (5).
 
-Subsec. (c)(2)(C). Pub. L. 105–306, § 5(a), added subpar. (C).
+Subsec. (c)(2)(C). Pub. L. 105–306, § 5(a), added subpar. (C).
 
-1997—Subsec. (b)(3). Pub. L. 105–33, § 5561(a), added par. (3).
+1997—Subsec. (b)(3). Pub. L. 105–33, § 5561(a), added par. (3).
 
-Subsec. (b)(4). Pub. L. 105–33, § 5561(b), added par. (4).
+Subsec. (b)(4). Pub. L. 105–33, § 5561(b), added par. (4).
 
-Subsec. (c)(2)(A). Pub. L. 105–33, § 5565, inserted before semicolon “, or to a citizen of a freely associated state, if section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658 (or a successor provision) is in effect”.
+Subsec. (c)(2)(A). Pub. L. 105–33, § 5565, inserted before semicolon “, or to a citizen of a freely associated state, if section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658 (or a successor provision) is in effect”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -215,7 +215,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 **Additional Funding for State Emergency Health Services Furnished to Undocumented Aliens**
 
-Pub. L. 105–33, title IV, § 4723, Aug. 5, 1997, 111 Stat. 515, provided that:
+Pub. L. 105–33, title IV, § 4723, Aug. 5, 1997, 111 Stat. 515, provided that:
 
 > **“(a) Total Amount Available for Allotment.—** There are available for allotments under this section for each of the 4 consecutive fiscal years (beginning with fiscal year 1998) $25,000,000 for payments to certain States under this section.
 
@@ -233,9 +233,9 @@ Pub. L. 105–33, title IV, § 4723, Aug. 5, 1997, 111 Stat. 515, provided tha
 
 **Study and Report on Alien Student Eligibility for Postsecondary Federal Student Financial Assistance**
 
-Pub. L. 104–208, div. C, title V, § 506, Sept. 30, 1996, 110 Stat. 3009–672, provided that not later than one year after Sept. 30, 1996, the Comptroller General was to submit to Congress a report on the extent to which aliens who were not lawfully admitted for permanent residence were receiving postsecondary Federal student financial assistance, and the Secretary of Education and the Commissioner of Social Security were jointly to submit to Congress a report on the computer matching program of the Department of Education under section 1091(p) of title 20.
+Pub. L. 104–208, div. C, title V, § 506, Sept. 30, 1996, 110 Stat. 3009–672, provided that not later than one year after Sept. 30, 1996, the Comptroller General was to submit to Congress a report on the extent to which aliens who were not lawfully admitted for permanent residence were receiving postsecondary Federal student financial assistance, and the Secretary of Education and the Commissioner of Social Security were jointly to submit to Congress a report on the computer matching program of the Department of Education under section 1091(p) of title 20.
 
-### § 1612. Limited eligibility of qualified aliens for certain Federal programs
+### § 1612. Limited eligibility of qualified aliens for certain Federal programs
 
 **(a) Limited eligibility for specified Federal programs**
 
@@ -297,9 +297,9 @@ Not later than March 31, 1997, the Commissioner of Social Security shall notify 
 
 **(I) In general**
 
-With respect to the specified Federal program described in paragraph (3)(B), ineligibility under paragraph (1) shall not apply until April 1, 1997, to an alien who received benefits under such program on August 22, 1996, unless such alien is determined to be ineligible to receive such benefits under the Food Stamp Act of 1977 1
+With respect to the specified Federal program described in paragraph (3)(B), ineligibility under paragraph (1) shall not apply until April 1, 1997, to an alien who received benefits under such program on August 22, 1996, unless such alien is determined to be ineligible to receive such benefits under the Food Stamp Act of 1977 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 [7 U.S.C. 2011 et seq.]. The State agency shall recertify the eligibility of all such aliens during the period beginning April 1, 1997, and ending August 22, 1997.
 
@@ -323,9 +323,9 @@ With respect to eligibility for benefits for the program defined in paragraph (3
 
 **(II)** is blind or disabled (as defined in paragraph (2) or (3) of section 1614(a) of the Social Security Act (42 U.S.C. 1382c(a))); and
 
-**(ii)** in the case of the specified Federal program described in paragraph (3)(B), is receiving benefits or assistance for blindness or disability (within the meaning of section 3(j) of the Food Stamp Act of 1977 <sup>1</sup> (7 U.S.C. 2012(r))).2
+**(ii)** in the case of the specified Federal program described in paragraph (3)(B), is receiving benefits or assistance for blindness or disability (within the meaning of section 3(j) of the Food Stamp Act of 1977 <sup>1</sup> (7 U.S.C. 2012(r))).2
 
-<sup>2</sup>  So in original. Probably should be “2012(j))).”.
+<sup>2</sup> So in original. Probably should be “2012(j))).”.
 
 **(G) Exception for certain Indians** With respect to eligibility for benefits for the specified Federal programs described in paragraph (3), section 1611(a) of this title and paragraph (1) shall not apply to any individual—
 
@@ -443,11 +443,11 @@ Notwithstanding any other provision of law and except as provided in section 161
 
 **(IV)** an alien is granted status as a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980); or
 
-**(V)** an alien 3
+**(V)** an alien 3
 
-<sup>3</sup>  So in original. Probably should be “alien is”.
+<sup>3</sup> So in original. Probably should be “alien is”.
 
-admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) <sup>1</sup> until 5 years after the date of such alien’s entry into the United States.
+admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) <sup>1</sup> until 5 years after the date of such alien’s entry into the United States.
 
 **(ii) Other designated Federal programs** With respect to the designated Federal programs under paragraph (3) (other than subparagraph (C)), paragraph (1) shall not apply to an alien until 5 years after the date—
 
@@ -459,7 +459,7 @@ admitted to the United States as an Amerasian immigrant as described in subsecti
 
 **(IV)** an alien is granted status as a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980); or
 
-**(V)** an alien <sup>3</sup> admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) <sup>1</sup> until 5 years after the date of such alien’s entry into the United States.
+**(V)** an alien <sup>3</sup> admitted to the United States as an Amerasian immigrant as described in subsection (a)(2)(A)(i)(V) <sup>1</sup> until 5 years after the date of such alien’s entry into the United States.
 
 **(B) Certain permanent resident aliens** An alien who—
 
@@ -507,31 +507,31 @@ The program of block grants to States for social services under title XX of the 
 
 A State plan approved under title XIX of the Social Security Act [42 U.S.C. 1396 et seq.], other than medical assistance described in section 1611(b)(1)(A) of this title.
 
-(Pub. L. 104–193, title IV, § 402, Aug. 22, 1996, 110 Stat. 2262; Pub. L. 104–208, div. C, title V, § 510, Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–18, title II, § 6005(a), June 12, 1997, 111 Stat. 191; Pub. L. 105–33, title V, §§ 5301–5302(b), 5303(a), (b), 5304, 5305(b), 5306(a), (b), 5562, 5563, Aug. 5, 1997, 111 Stat. 597, 598, 600–602, 638; Pub. L. 105–185, title V, §§ 503–508, June 23, 1998, 112 Stat. 578, 579; Pub. L. 107–171, title IV, § 4401(a), (b)(1), (c)(1), May 13, 2002, 116 Stat. 333; Pub. L. 110–234, title IV, § 4115(c)(2)(D), May 22, 2008, 122 Stat. 1110; Pub. L. 110–246, § 4(a), title IV, § 4115(c)(2)(D), June 18, 2008, 122 Stat. 1664, 1871; Pub. L. 110–328, § 2, Sept. 30, 2008, 122 Stat. 3567; Pub. L. 116–260, div. CC, title II, § 208(a), Dec. 27, 2020, 134 Stat. 2985; Pub. L. 118–42, div. G, title II, § 209(f)(1), Mar. 9, 2024, 138 Stat. 445.)
+(Pub. L. 104–193, title IV, § 402, Aug. 22, 1996, 110 Stat. 2262; Pub. L. 104–208, div. C, title V, § 510, Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–18, title II, § 6005(a), June 12, 1997, 111 Stat. 191; Pub. L. 105–33, title V, §§ 5301–5302(b), 5303(a), (b), 5304, 5305(b), 5306(a), (b), 5562, 5563, Aug. 5, 1997, 111 Stat. 597, 598, 600–602, 638; Pub. L. 105–185, title V, §§ 503–508, June 23, 1998, 112 Stat. 578, 579; Pub. L. 107–171, title IV, § 4401(a), (b)(1), (c)(1), May 13, 2002, 116 Stat. 333; Pub. L. 110–234, title IV, § 4115(c)(2)(D), May 22, 2008, 122 Stat. 1110; Pub. L. 110–246, § 4(a), title IV, § 4115(c)(2)(D), June 18, 2008, 122 Stat. 1664, 1871; Pub. L. 110–328, § 2, Sept. 30, 2008, 122 Stat. 3567; Pub. L. 116–260, div. CC, title II, § 208(a), Dec. 27, 2020, 134 Stat. 2985; Pub. L. 118–42, div. G, title II, § 209(f)(1), Mar. 9, 2024, 138 Stat. 445.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 243 of such Act and section 243 of the Immigration and Nationality Act, referred to in subsecs. (a)(2)(A)(iii), (M)(i)(III)(dd) and (b)(2)(A)(i)(III), (ii)(III), are section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, § 307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Section 243 of such Act and section 243 of the Immigration and Nationality Act, referred to in subsecs. (a)(2)(A)(iii), (M)(i)(III)(dd) and (b)(2)(A)(i)(III), (ii)(III), are section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, § 307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in subsecs. (a)(2)(A)(iv), (M)(i)(III)(cc) and (b)(2)(A)(i)(IV), (ii)(IV), is section 501(e) of Pub. L. 96–422, which is set out in a note under section 1522 of this title.
 
-Section 584 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988, as contained in section 101(e) of Public Law 100–202, referred to in subsec. (a)(2)(A)(v), is section 101(e) [title V, § 584] of Pub. L. 100–202, Dec. 22, 1987, 101 Stat. 1329–183, which is set out as an Amerasian Immigration note under section 1101 of this title.
+Section 584 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988, as contained in section 101(e) of Public Law 100–202, referred to in subsec. (a)(2)(A)(v), is section 101(e) [title V, § 584] of Pub. L. 100–202, Dec. 22, 1987, 101 Stat. 1329–183, which is set out as an Amerasian Immigration note under section 1101 of this title.
 
 The 9th proviso under migration and refugee assistance in title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989, Public Law 100–461, referred to in subsec. (a)(2)(A)(v), is contained in Pub. L. 100–461, title II, Oct. 1, 1988, 102 Stat. 2268–15, which is set out as an Amerasian Immigration note under section 1101 of this title.
 
-The Immigration and Nationality Act, referred to in subsecs. (a)(2)(B)(i) and (b)(2)(B)(i), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+The Immigration and Nationality Act, referred to in subsecs. (a)(2)(B)(i) and (b)(2)(B)(i), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-The Social Security Act, referred to in subsecs. (a)(2)(B)(ii)(I), (M)(i)(II), (3)(A) and (b)(2)(B)(ii)(I), (F), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, XIX, and XX of the Act are classified generally to subchapters II (§ 401 et seq.), XVI (§ 1381 et seq.), XIX (§ 1396 et seq.) and XX (§ 1397 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a)(2)(B)(ii)(I), (M)(i)(II), (3)(A) and (b)(2)(B)(ii)(I), (F), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, XIX, and XX of the Act are classified generally to subchapters II (§ 401 et seq.), XVI (§ 1381 et seq.), XIX (§ 1396 et seq.) and XX (§ 1397 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Food Stamp Act of 1977, referred to in subsec. (a)(2)(D)(ii)(I), (F)(ii), (3)(B), subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. Section 3(*l*) of the Act, which defined “supplemental nutrition assistance program”, was classified to section 2012(*l*) of Title 7, prior to repeal by Pub. L. 113–79, title IV, § 4030(a)(3), Feb. 7, 2014, 128 Stat. 813. Such term is now defined in section 2012(t) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food Stamp Act of 1977, referred to in subsec. (a)(2)(D)(ii)(I), (F)(ii), (3)(B), subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. Section 3(*l*) of the Act, which defined “supplemental nutrition assistance program”, was classified to section 2012(*l*) of Title 7, prior to repeal by Pub. L. 113–79, title IV, § 4030(a)(3), Feb. 7, 2014, 128 Stat. 813. Such term is now defined in section 2012(t) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 This chapter, referred to in subsecs. (a)(3) and (b)(3), was in the original “this title” meaning title IV of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, which enacted this chapter, section 1183a of this title, and sections 611a and 1437y of Title 42, The Public Health and Welfare, amended section 1383 of this title, sections 32 and 6213 of Title 26, Internal Revenue Code, and sections 1436a and 1471 of Title 42, and enacted provisions set out as notes under section 1183a of this title and section 32 of Title 26. For complete classification of title IV to the Code, see Tables.
 
 Section 212(b) of Public Law 93–66, referred to in subsec. (a)(3)(A), is set out as a note under section 1382 of Title 42, The Public Health and Welfare.
 
-Subsection (a)(2)(A)(i)(V) of this section, referred to in subsec. (b)(2)(A)(i)(V), (ii)(V), was redesignated section 1612(a)(2)(A)(v) of this title by Pub. L. 105–185, title V, § 503(2), (3), June 23, 1998, 112 Stat. 578.
+Subsection (a)(2)(A)(i)(V) of this section, referred to in subsec. (b)(2)(A)(i)(V), (ii)(V), was redesignated section 1612(a)(2)(A)(v) of this title by Pub. L. 105–185, title V, § 503(2), (3), June 23, 1998, 112 Stat. 578.
 
 **Codification**
 
@@ -539,47 +539,47 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2024—Subsec. (a)(2)(N). Pub. L. 118–42, § 209(f)(1)(A), added subpar. (N).
+2024—Subsec. (a)(2)(N). Pub. L. 118–42, § 209(f)(1)(A), added subpar. (N).
 
-Subsec. (b)(2)(G). Pub. L. 118–42, § 209(f)(1)(B), substituted “Exception for” for “Medicaid exception for” in heading and “any designated Federal program” for “the designated Federal program defined in paragraph (3)(C) (relating to the Medicaid program)” in text.
+Subsec. (b)(2)(G). Pub. L. 118–42, § 209(f)(1)(B), substituted “Exception for” for “Medicaid exception for” in heading and “any designated Federal program” for “the designated Federal program defined in paragraph (3)(C) (relating to the Medicaid program)” in text.
 
 2020—Subsec. (b)(2)(G). Pub. L. 116–260 added subpar. (G).
 
-2008—Subsec. (a)(2)(F)(ii). Pub. L. 110–246, § 4115(c)(2)(D)(i), substituted “section 3(j)” for “section 3(r)”.
+2008—Subsec. (a)(2)(F)(ii). Pub. L. 110–246, § 4115(c)(2)(D)(i), substituted “section 3(j)” for “section 3(r)”.
 
 Subsec. (a)(2)(M). Pub. L. 110–328 added subpar. (M).
 
-Subsec. (a)(3)(B). Pub. L. 110–246, § 4115(c)(2)(D)(ii), substituted “section 3(*l*)” for “section 3(h)”.
+Subsec. (a)(3)(B). Pub. L. 110–246, § 4115(c)(2)(D)(ii), substituted “section 3(*l*)” for “section 3(h)”.
 
-2002—Subsec. (a)(2)(F). Pub. L. 107–171, § 4401(a), added cl. (i), substituted “(ii) in the case” for “(II) in the case”, and struck out former cls. (i) and (ii)(I) which read as follows:
+2002—Subsec. (a)(2)(F). Pub. L. 107–171, § 4401(a), added cl. (i), substituted “(ii) in the case” for “(II) in the case”, and struck out former cls. (i) and (ii)(I) which read as follows:
 
 “(i) was lawfully residing in the United States on August 22, 1996; and
 
 “(ii)(I) in the case of the specified Federal program described in paragraph (3)(A), is blind or disabled, as defined in section 1614(a)(2) or 1614(a)(3) of the Social Security Act; and”.
 
-Subsec. (a)(2)(J). Pub. L. 107–171, § 4401(b)(1), substituted “who is under 18 years of age.” for “who—
+Subsec. (a)(2)(J). Pub. L. 107–171, § 4401(b)(1), substituted “who is under 18 years of age.” for “who—
 
 “(i) was lawfully residing in the United States on August 22, 1996; and
 
 “(ii) is under 18 years of age.”
 
-Subsec. (a)(2)(L). Pub. L. 107–171, § 4401(c)(1), added subpar. (L).
+Subsec. (a)(2)(L). Pub. L. 107–171, § 4401(c)(1), added subpar. (L).
 
-1998—Subsec. (a)(2)(A). Pub. L. 105–185, § 503, struck out cl. (i) designation and heading after subpar. (A) heading, substituted “programs described in paragraph (3)” for “program described in paragraph (3)(A)” in introductory provisions, redesignated subcls. (I) to (V) as cls. (i) to (v), respectively, and realigned their margins, and struck out heading and text of former cl. (ii) which related to eligibility of certain aliens for the food stamp program.
+1998—Subsec. (a)(2)(A). Pub. L. 105–185, § 503, struck out cl. (i) designation and heading after subpar. (A) heading, substituted “programs described in paragraph (3)” for “program described in paragraph (3)(A)” in introductory provisions, redesignated subcls. (I) to (V) as cls. (i) to (v), respectively, and realigned their margins, and struck out heading and text of former cl. (ii) which related to eligibility of certain aliens for the food stamp program.
 
-Subsec. (a)(2)(F). Pub. L. 105–185, § 504(1), substituted “specified Federal programs described in paragraph (3)” for “program defined in paragraph (3)(A) (relating to the supplemental security income program)” in introductory provisions.
+Subsec. (a)(2)(F). Pub. L. 105–185, § 504(1), substituted “specified Federal programs described in paragraph (3)” for “program defined in paragraph (3)(A) (relating to the supplemental security income program)” in introductory provisions.
 
-Subsec. (a)(2)(F)(ii). Pub. L. 105–185, § 504(2), designated existing provisions as subcl. (I), inserted “in the case of the specified Federal program described in paragraph (3)(A),” before “is blind”, substituted “; and” for period at end, and added subcl. (II).
+Subsec. (a)(2)(F)(ii). Pub. L. 105–185, § 504(2), designated existing provisions as subcl. (I), inserted “in the case of the specified Federal program described in paragraph (3)(A),” before “is blind”, substituted “; and” for period at end, and added subcl. (II).
 
-Subsec. (a)(2)(G). Pub. L. 105–185, § 505, substituted “Exception” for “SSI exception” in subpar. heading and “specified Federal programs described in paragraph (3)” for “program defined in paragraph (3)(A) (relating to the supplemental security income program)” in introductory provisions.
+Subsec. (a)(2)(G). Pub. L. 105–185, § 505, substituted “Exception” for “SSI exception” in subpar. heading and “specified Federal programs described in paragraph (3)” for “program defined in paragraph (3)(A) (relating to the supplemental security income program)” in introductory provisions.
 
-Subsec. (a)(2)(I). Pub. L. 105–185, § 506, added subpar. (I).
+Subsec. (a)(2)(I). Pub. L. 105–185, § 506, added subpar. (I).
 
-Subsec. (a)(2)(J). Pub. L. 105–185, § 507, added subpar. (J).
+Subsec. (a)(2)(J). Pub. L. 105–185, § 507, added subpar. (J).
 
-Subsec. (a)(2)(K). Pub. L. 105–185, § 508, added subpar. (K).
+Subsec. (a)(2)(K). Pub. L. 105–185, § 508, added subpar. (K).
 
-1997—Subsec. (a)(2)(A). Pub. L. 105–33, § 5302(a), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “Paragraph (1) shall not apply to an alien until 5 years after the date—
+1997—Subsec. (a)(2)(A). Pub. L. 105–33, § 5302(a), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “Paragraph (1) shall not apply to an alien until 5 years after the date—
 
 “(i) an alien is admitted to the United States as a refugee under section 207 of the Immigration and Nationality Act;
 
@@ -587,37 +587,37 @@ Subsec. (a)(2)(K). Pub. L. 105–185, § 508, added subpar. (K).
 
 “(iii) an alien’s deportation is withheld under section 243(h) of such Act.”
 
-Subsec. (a)(2)(A)(i)(III). Pub. L. 105–33, § 5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
+Subsec. (a)(2)(A)(i)(III). Pub. L. 105–33, § 5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
 
-Subsec. (a)(2)(A)(i)(V). Pub. L. 105–33, § 5306(a)(1), added subcl. (V).
+Subsec. (a)(2)(A)(i)(V). Pub. L. 105–33, § 5306(a)(1), added subcl. (V).
 
-Subsec. (a)(2)(A)(ii)(III). Pub. L. 105–33, § 5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
+Subsec. (a)(2)(A)(ii)(III). Pub. L. 105–33, § 5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
 
-Subsec. (a)(2)(A)(ii)(V). Pub. L. 105–33, § 5306(a)(2), added subcl. (V).
+Subsec. (a)(2)(A)(ii)(V). Pub. L. 105–33, § 5306(a)(2), added subcl. (V).
 
-Subsec. (a)(2)(C)(i). Pub. L. 105–33, § 5563(c), inserted “, 1101, or 1301, or as described in section 107” after “section 101”.
+Subsec. (a)(2)(C)(i). Pub. L. 105–33, § 5563(c), inserted “, 1101, or 1301, or as described in section 107” after “section 101”.
 
-Pub. L. 105–33, § 5563(a), inserted “and who fulfills the minimum active-duty service requirements of section 5303A(d) of title 38” after “alienage”.
+Pub. L. 105–33, § 5563(a), inserted “and who fulfills the minimum active-duty service requirements of section 5303A(d) of title 38” after “alienage”.
 
-Subsec. (a)(2)(C)(iii). Pub. L. 105–33, § 5563(b), inserted before period at end “or the unremarried surviving spouse of an individual described in clause (i) or (ii) who is deceased if the marriage fulfills the requirements of section 1304 of title 38”.
+Subsec. (a)(2)(C)(iii). Pub. L. 105–33, § 5563(b), inserted before period at end “or the unremarried surviving spouse of an individual described in clause (i) or (ii) who is deceased if the marriage fulfills the requirements of section 1304 of title 38”.
 
-Subsec. (a)(2)(D)(i)(I). Pub. L. 105–33, § 5301(c)(1), substituted “September 30, 1998,” for “September 30, 1997,”.
+Subsec. (a)(2)(D)(i)(I). Pub. L. 105–33, § 5301(c)(1), substituted “September 30, 1998,” for “September 30, 1997,”.
 
-Pub. L. 105–18, § 6005(a)(1), substituted “September 30, 1997” for “the date which is 1 year after August 22, 1996”.
+Pub. L. 105–18, § 6005(a)(1), substituted “September 30, 1997” for “the date which is 1 year after August 22, 1996”.
 
-Subsec. (a)(2)(D)(i)(III). Pub. L. 105–33, § 5301(c)(2), substituted “September 30, 1998” for “September 30, 1997,”.
+Subsec. (a)(2)(D)(i)(III). Pub. L. 105–33, § 5301(c)(2), substituted “September 30, 1998” for “September 30, 1997,”.
 
-Pub. L. 105–18, § 6005(a)(2), substituted “September 30, 1997,” for “the date of the redetermination with respect to such individual”.
+Pub. L. 105–18, § 6005(a)(2), substituted “September 30, 1997,” for “the date of the redetermination with respect to such individual”.
 
-Subsec. (a)(2)(E). Pub. L. 105–33, § 5301(a), added subpar. (E).
+Subsec. (a)(2)(E). Pub. L. 105–33, § 5301(a), added subpar. (E).
 
-Subsec. (a)(2)(F). Pub. L. 105–33, § 5301(b), added subpar. (F).
+Subsec. (a)(2)(F). Pub. L. 105–33, § 5301(b), added subpar. (F).
 
-Subsec. (a)(2)(G). Pub. L. 105–33, § 5303(a), added subpar. (G).
+Subsec. (a)(2)(G). Pub. L. 105–33, § 5303(a), added subpar. (G).
 
-Subsec. (a)(2)(H). Pub. L. 105–33, § 5304, added subpar. (H).
+Subsec. (a)(2)(H). Pub. L. 105–33, § 5304, added subpar. (H).
 
-Subsec. (b)(2)(A). Pub. L. 105–33, § 5302(b), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows:
+Subsec. (b)(2)(A). Pub. L. 105–33, § 5302(b), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows:
 
 “(i) An alien who is admitted to the United States as a refugee under section 207 of the Immigration and Nationality Act until 5 years after the date of an alien’s entry into the United States.
 
@@ -625,23 +625,23 @@ Subsec. (b)(2)(A). Pub. L. 105–33, § 5302(b), amended heading and text of s
 
 “(iii) An alien whose deportation is being withheld under section 243(h) of such Act until 5 years after such withholding.”
 
-Subsec. (b)(2)(A)(i)(III). Pub. L. 105–33, § 5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
+Subsec. (b)(2)(A)(i)(III). Pub. L. 105–33, § 5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
 
-Subsec. (b)(2)(A)(i)(V). Pub. L. 105–33, § 5306(b)(1), added subcl. (V).
+Subsec. (b)(2)(A)(i)(V). Pub. L. 105–33, § 5306(b)(1), added subcl. (V).
 
-Subsec. (b)(2)(A)(ii)(III). Pub. L. 105–33, § 5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
+Subsec. (b)(2)(A)(ii)(III). Pub. L. 105–33, § 5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
 
-Subsec. (b)(2)(A)(ii)(V). Pub. L. 105–33, § 5306(b)(2), added subcl. (V).
+Subsec. (b)(2)(A)(ii)(V). Pub. L. 105–33, § 5306(b)(2), added subcl. (V).
 
-Subsec. (b)(2)(C)(i). Pub. L. 105–33, § 5563(c), inserted “, 1101, or 1301, or as described in section 107” after “section 101”.
+Subsec. (b)(2)(C)(i). Pub. L. 105–33, § 5563(c), inserted “, 1101, or 1301, or as described in section 107” after “section 101”.
 
-Pub. L. 105–33, § 5563(a), inserted “and who fulfills the minimum active-duty service requirements of section 5303A(d) of title 38” after “alienage”.
+Pub. L. 105–33, § 5563(a), inserted “and who fulfills the minimum active-duty service requirements of section 5303A(d) of title 38” after “alienage”.
 
-Subsec. (b)(2)(C)(iii). Pub. L. 105–33, § 5563(b), inserted before period at end “or the unremarried surviving spouse of an individual described in clause (i) or (ii) who is deceased if the marriage fulfills the requirements of section 1304 of title 38”.
+Subsec. (b)(2)(C)(iii). Pub. L. 105–33, § 5563(b), inserted before period at end “or the unremarried surviving spouse of an individual described in clause (i) or (ii) who is deceased if the marriage fulfills the requirements of section 1304 of title 38”.
 
-Subsec. (b)(2)(E). Pub. L. 105–33, § 5303(b), added subpar. (E).
+Subsec. (b)(2)(E). Pub. L. 105–33, § 5303(b), added subpar. (E).
 
-Subsec. (b)(2)(F). Pub. L. 105–33, § 5305(b), added subpar. (F).
+Subsec. (b)(2)(F). Pub. L. 105–33, § 5305(b), added subpar. (F).
 
 1996—Subsec. (a)(2)(D)(ii)(I). Pub. L. 104–208 amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “With respect to the specified Federal program described in paragraph (3)(B), during the period beginning on August 22, 1996, and ending on the date which is 1 year after August 22, 1996, the State agency shall, at the time of the recertification, recertify the eligibility of any individual who is receiving benefits under such program as of August 22, 1996, and whose eligibility for such benefits may terminate by reason of the provisions of this subsection.”
 
@@ -653,7 +653,7 @@ References to the food stamp program established under the Food and Nutrition Ac
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. CC, title II, § 208(e), Dec. 27, 2020, 134 Stat. 2986, provided that: “The amendments made by this section [amending this section and sections 1613 and 1641 of this title and section 1308 of Title 42, The Public Health and Welfare] shall apply to benefits for items and services furnished on or after the date of the enactment of this Act [Dec. 27, 2020].”
+Pub. L. 116–260, div. CC, title II, § 208(e), Dec. 27, 2020, 134 Stat. 2986, provided that: “The amendments made by this section [amending this section and sections 1613 and 1641 of this title and section 1308 of Title 42, The Public Health and Welfare] shall apply to benefits for items and services furnished on or after the date of the enactment of this Act [Dec. 27, 2020].”
 
 **Effective Date of 2008 Amendment**
 
@@ -667,25 +667,25 @@ Amendment by section 4401(a) of Pub. L. 107–171 effective Oct. 1, 2002, except
 
 Amendment by section 4401(b)(1) of Pub. L. 107–171 effective Oct. 1, 2003, see section 4401(b)(3) of Pub. L. 107–171, set out as a note under section 2014 of Title 7, Agriculture.
 
-Pub. L. 107–171, title IV, § 4401(c)(2), May 13, 2002, 116 Stat. 334, provided that: “The amendment made by paragraph (1) [amending this section] takes effect on April 1, 2003.”
+Pub. L. 107–171, title IV, § 4401(c)(2), May 13, 2002, 116 Stat. 334, provided that: “The amendment made by paragraph (1) [amending this section] takes effect on April 1, 2003.”
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–185, title V, § 510(b), June 23, 1998, 112 Stat. 580, provided that: “The amendments made by sections 503 through 509 [amending this section and section 1613 of this title] take effect on November 1, 1998.”
+Pub. L. 105–185, title V, § 510(b), June 23, 1998, 112 Stat. 580, provided that: “The amendments made by sections 503 through 509 [amending this section and section 1613 of this title] take effect on November 1, 1998.”
 
 **Effective Date of 1997 Amendments**
 
-Pub. L. 105–33, title V, § 5308, Aug. 5, 1997, 111 Stat. 603, provided that: “Except as otherwise provided, the amendments made by this subtitle [subtitle D (§§ 5301–5308) of title V of Pub. L. 105–33, enacting sections 1625 and 1646 of this title and amending this section and sections 1613, 1622, and 1641 of this title] shall be effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 [Pub. L. 104–193].”
+Pub. L. 105–33, title V, § 5308, Aug. 5, 1997, 111 Stat. 603, provided that: “Except as otherwise provided, the amendments made by this subtitle [subtitle D (§§ 5301–5308) of title V of Pub. L. 105–33, enacting sections 1625 and 1646 of this title and amending this section and sections 1613, 1622, and 1641 of this title] shall be effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 [Pub. L. 104–193].”
 
 Amendment by sections 5562 and 5563 of Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
 
-Pub. L. 105–18, title II, § 6005(b), June 12, 1997, 111 Stat. 191, provided that: “The amendment made by subsection (a) [amending this section] shall be effective as if included in the enactment of section 402 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 [this section].”
+Pub. L. 105–18, title II, § 6005(b), June 12, 1997, 111 Stat. 191, provided that: “The amendment made by subsection (a) [amending this section] shall be effective as if included in the enactment of section 402 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 [this section].”
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. C, title V, § 510, Sept. 30, 1996, 110 Stat. 3009–673, provided that the amendment made by section 510 is effective as if included in the enactment of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193.
+Pub. L. 104–208, div. C, title V, § 510, Sept. 30, 1996, 110 Stat. 3009–673, provided that the amendment made by section 510 is effective as if included in the enactment of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193.
 
-### § 1613. Five-year limited eligibility of qualified aliens for Federal means-tested public benefit
+### § 1613. Five-year limited eligibility of qualified aliens for Federal means-tested public benefit
 
 **(a) In general**
 
@@ -703,9 +703,9 @@ Notwithstanding any other provision of law and except as provided in subsections
 
 **(D)** An alien who is a Cuban and Haitian entrant as defined in section 501(e) of the Refugee Education Assistance Act of 1980.
 
-**(E)** An alien admitted to the United States as an Amerasian immigrant as described in section 1612(a)(2)(A)(i)(V) 1
+**(E)** An alien admitted to the United States as an Amerasian immigrant as described in section 1612(a)(2)(A)(i)(V) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -715,9 +715,9 @@ of this title.
 
 **(B)** on active duty (other than active duty for training) in the Armed Forces of the United States, or
 
-**(C)** the spouse or unmarried dependent child of an individual described in subparagraph (A) or (B) or the unremarried surviving spouse of an individual described in clause (i) or (ii) 2
+**(C)** the spouse or unmarried dependent child of an individual described in subparagraph (A) or (B) or the unremarried surviving spouse of an individual described in clause (i) or (ii) 2
 
-<sup>2</sup>  So in original. Probably should be “subparagraph (A) or (B)”.
+<sup>2</sup> So in original. Probably should be “subparagraph (A) or (B)”.
 
 who is deceased if the marriage fulfills the requirements of section 1304 of title 38.
 
@@ -753,7 +753,7 @@ An individual described in section 1612(b)(2)(G) of this title.
 
 **(K)** Benefits under title I of the Workforce Innovation and Opportunity Act [29 U.S.C. 3111 et seq.].
 
-**(L)** Assistance or benefits provided to individuals under the age of 18 under the Food Stamp Act of 1977 <sup>1</sup> (7 U.S.C. 2011 et seq.).
+**(L)** Assistance or benefits provided to individuals under the age of 18 under the Food Stamp Act of 1977 <sup>1</sup> (7 U.S.C. 2011 et seq.).
 
 **(d) Benefits for certain groups** Notwithstanding any other provision of law, the limitations under section 1611(a) of this title and subsection (a) shall not apply to—
 
@@ -761,39 +761,39 @@ An individual described in section 1612(b)(2)(G) of this title.
 
 **(2)** an individual, spouse, or dependent described in section 1612(a)(2)(K) of this title, but only with respect to the specified Federal program described in section 1612(a)(3)(B) of this title.
 
-(Pub. L. 104–193, title IV, § 403, Aug. 22, 1996, 110 Stat. 2265; Pub. L. 105–33, title V, §§ 5302(c)(1), 5303(c), 5306(c), 5562, 5563, Aug. 5, 1997, 111 Stat. 599, 600, 602, 638; Pub. L. 105–185, title V, § 509, June 23, 1998, 112 Stat. 580; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(3)(A), (f)(3)(A)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–429; Pub. L. 106–78, title VII, § 752(b)(6), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 107–171, title IV, § 4401(b)(2)(A), May 13, 2002, 116 Stat. 333; Pub. L. 113–128, title V, § 512(x), July 22, 2014, 128 Stat. 1716; Pub. L. 116–260, div. CC, title II, § 208(b), Dec. 27, 2020, 134 Stat. 2985; Pub. L. 118–42, div. G, title II, § 209(f)(2), Mar. 9, 2024, 138 Stat. 445.)
+(Pub. L. 104–193, title IV, § 403, Aug. 22, 1996, 110 Stat. 2265; Pub. L. 105–33, title V, §§ 5302(c)(1), 5303(c), 5306(c), 5562, 5563, Aug. 5, 1997, 111 Stat. 599, 600, 602, 638; Pub. L. 105–185, title V, § 509, June 23, 1998, 112 Stat. 580; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(3)(A), (f)(3)(A)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–429; Pub. L. 106–78, title VII, § 752(b)(6), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 107–171, title IV, § 4401(b)(2)(A), May 13, 2002, 116 Stat. 333; Pub. L. 113–128, title V, § 512(x), July 22, 2014, 128 Stat. 1716; Pub. L. 116–260, div. CC, title II, § 208(b), Dec. 27, 2020, 134 Stat. 2985; Pub. L. 118–42, div. G, title II, § 209(f)(2), Mar. 9, 2024, 138 Stat. 445.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 243 of such Act, referred to in subsec. (b)(1)(C), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, § 307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Section 243 of such Act, referred to in subsec. (b)(1)(C), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, § 307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in subsec. (b)(1)(D), is section 501(e) of Pub. L. 96–422, which is set out in a note under section 1522 of this title.
 
-Section 1612(a)(2)(A)(i)(V) of this title, referred to in subsec. (b)(1)(E), was redesignated section 1612(a)(2)(A)(v) of this title by Pub. L. 105–185, title V, § 503(2), (3), June 23, 1998, 112 Stat. 578.
+Section 1612(a)(2)(A)(i)(V) of this title, referred to in subsec. (b)(1)(E), was redesignated section 1612(a)(2)(A)(v) of this title by Pub. L. 105–185, title V, § 503(2), (3), June 23, 1998, 112 Stat. 578.
 
-The Richard B. Russell National School Lunch Act, referred to in subsec. (c)(2)(C), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (c)(2)(C), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
-The Child Nutrition Act of 1966, referred to in subsec. (c)(2)(D), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
+The Child Nutrition Act of 1966, referred to in subsec. (c)(2)(D), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
-The Social Security Act, referred to in subsec. (c)(2)(E), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV and title XIX of the Act are classified generally to parts B (§ 620 et seq.) and E (§ 670 et seq.) of subchapter IV and subchapter XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(2)(E), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV and title XIX of the Act are classified generally to parts B (§ 620 et seq.) and E (§ 670 et seq.) of subchapter IV and subchapter XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (c)(2)(H), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Titles IV, V, IX, and X of the Act are classified generally to subchapters IV (§ 1070 et seq.), V (§ 1101 et seq.), IX (§ 1134 et seq.), and X (§ 1135 et seq.), respectively, of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (c)(2)(H), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Titles IV, V, IX, and X of the Act are classified generally to subchapters IV (§ 1070 et seq.), V (§ 1101 et seq.), IX (§ 1134 et seq.), and X (§ 1135 et seq.), respectively, of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Public Health Service Act, referred to in subsec. (c)(2)(H), is act July 1, 1944, ch. 373, 58 Stat. 682. Titles III, VII, and VIII of the Act are classified generally to subchapters II (§ 241 et seq.), V (§ 292 et seq.), and VI (§ 296 et seq.), respectively, of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (c)(2)(H), is act July 1, 1944, ch. 373, 58 Stat. 682. Titles III, VII, and VIII of the Act are classified generally to subchapters II (§ 241 et seq.), V (§ 292 et seq.), and VI (§ 296 et seq.), respectively, of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(2)(I), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(2)(I), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
-The Head Start Act, referred to in subsec. (c)(2)(J), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+The Head Start Act, referred to in subsec. (c)(2)(J), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (c)(2)(K), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (c)(2)(K), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
-The Food Stamp Act of 1977, referred to in subsec. (c)(2)(L), subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food Stamp Act of 1977, referred to in subsec. (c)(2)(L), subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 **Amendments**
 
-2024—Subsec. (b)(3). Pub. L. 118–42 struck out “, but only with respect to the designated Federal program defined in section 1612(b)(3)(C) of this title” before period at end.
+2024—Subsec. (b)(3). Pub. L. 118–42 struck out “, but only with respect to the designated Federal program defined in section 1612(b)(3)(C) of this title” before period at end.
 
 2020—Subsec. (b)(3). Pub. L. 116–260 added par. (3).
 
@@ -803,27 +803,27 @@ The Food Stamp Act of 1977, referred to in subsec. (c)(2)(L), subsequently renam
 
 1999—Subsec. (c)(2)(C). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
-1998—Subsec. (c)(2)(K). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(3)(A)], struck out “Job Training Partnership Act or” before “title I of”.
+1998—Subsec. (c)(2)(K). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(3)(A)], struck out “Job Training Partnership Act or” before “title I of”.
 
-Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(3)(A)], substituted “Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “Job Training Partnership Act”.
+Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(3)(A)], substituted “Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “Job Training Partnership Act”.
 
-Subsec. (d). Pub. L. 105–185 substituted “Benefits for certain groups” for “SSI and medicaid benefits for certain Indians” in heading, designated provisions beginning “an individual” as par. (1), substituted “to—” for “to”, “(a)(3)” for “(a)(3)(A)”, and “; or” for period at end, and added par. (2).
+Subsec. (d). Pub. L. 105–185 substituted “Benefits for certain groups” for “SSI and medicaid benefits for certain Indians” in heading, designated provisions beginning “an individual” as par. (1), substituted “to—” for “to”, “(a)(3)” for “(a)(3)(A)”, and “; or” for period at end, and added par. (2).
 
-1997—Subsec. (b)(1)(C). Pub. L. 105–33, § 5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
+1997—Subsec. (b)(1)(C). Pub. L. 105–33, § 5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
 
-Subsec. (b)(1)(D). Pub. L. 105–33, § 5302(c)(1)(A), added subpar. (D).
+Subsec. (b)(1)(D). Pub. L. 105–33, § 5302(c)(1)(A), added subpar. (D).
 
-Subsec. (b)(1)(E). Pub. L. 105–33, § 5306(c), added subpar. (E).
+Subsec. (b)(1)(E). Pub. L. 105–33, § 5306(c), added subpar. (E).
 
-Subsec. (b)(2)(A). Pub. L. 105–33, § 5563(c), inserted “, 1101, or 1301, or as described in section 107” after “section 101”.
+Subsec. (b)(2)(A). Pub. L. 105–33, § 5563(c), inserted “, 1101, or 1301, or as described in section 107” after “section 101”.
 
-Pub. L. 105–33, § 5563(a), inserted “and who fulfills the minimum active-duty service requirements of section 5303A(d) of title 38” after “alienage”.
+Pub. L. 105–33, § 5563(a), inserted “and who fulfills the minimum active-duty service requirements of section 5303A(d) of title 38” after “alienage”.
 
-Subsec. (b)(2)(C). Pub. L. 105–33, § 5563(b), inserted before period at end “or the unremarried surviving spouse of an individual described in clause (i) or (ii) who is deceased if the marriage fulfills the requirements of section 1304 of title 38”.
+Subsec. (b)(2)(C). Pub. L. 105–33, § 5563(b), inserted before period at end “or the unremarried surviving spouse of an individual described in clause (i) or (ii) who is deceased if the marriage fulfills the requirements of section 1304 of title 38”.
 
-Subsec. (d). Pub. L. 105–33, § 5303(c), added subsec. (d).
+Subsec. (d). Pub. L. 105–33, § 5303(c), added subsec. (d).
 
-Pub. L. 105–33, § 5302(c)(1)(B), struck out heading and text of subsec. (d). Text read as follows: “The limitation under subsection (a) of this section shall not apply to refugee and entrant assistance activities, authorized by title IV of the Immigration and Nationality Act [8 U.S.C. 1521 et seq.] and section 501 of the Refugee Education Assistance Act of 1980, for Cuban and Haitian entrants as defined in section 501(e)(2) of the Refugee Education Assistance Act of 1980.”
+Pub. L. 105–33, § 5302(c)(1)(B), struck out heading and text of subsec. (d). Text read as follows: “The limitation under subsection (a) of this section shall not apply to refugee and entrant assistance activities, authorized by title IV of the Immigration and Nationality Act [8 U.S.C. 1521 et seq.] and section 501 of the Refugee Education Assistance Act of 1980, for Cuban and Haitian entrants as defined in section 501(e)(2) of the Refugee Education Assistance Act of 1980.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -841,7 +841,7 @@ Amendment by section 4401(b)(2)(A) of Pub. L. 107–171 effective Oct. 1, 2003, 
 
 **Effective Date of 1998 Amendments**
 
-Amendment by section 101(f) [title VIII, § 405(d)(3)(A)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(3)(A)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) [title VIII, § 405(d)(3)(A)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(3)(A)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 Amendment by Pub. L. 105–185 effective Nov. 1, 1998, see section 510(b) of Pub. L. 105–185, set out as a note under section 1612 of this title.
 
@@ -851,11 +851,11 @@ Amendment by sections 5302(c)(1), 5303(c), and 5306(c) of Pub. L. 105–33 effec
 
 Amendment by sections 5562 and 5563 of Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
 
-### § 1614. Notification and information reporting
+### § 1614. Notification and information reporting
 
 Each Federal agency that administers a program to which section 1611, 1612, or 1613 of this title applies shall, directly or through the States, post information and provide general notification to the public and to program recipients of the changes regarding eligibility for any such program pursuant to this subchapter.
 
-(Pub. L. 104–193, title IV, § 404(a), Aug. 22, 1996, 110 Stat. 2267.)
+(Pub. L. 104–193, title IV, § 404(a), Aug. 22, 1996, 110 Stat. 2267.)
 
 **Editorial Notes**
 
@@ -863,7 +863,7 @@ Each Federal agency that administers a program to which section 1611, 1612, or 1
 
 This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A of title IV of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2261, which enacted this subchapter and sections 611a and 1437y of Title 42, The Public Health and Welfare, and amended section 1383 of Title 42. For complete classification of this subtitle to the Code, see Tables.
 
-### § 1615. Requirements relating to provision of benefits based on citizenship, alienage, or immigration status under the Richard B. Russell National School Lunch Act, the Child Nutrition Act of 1966, and certain other Acts
+### § 1615. Requirements relating to provision of benefits based on citizenship, alienage, or immigration status under the Richard B. Russell National School Lunch Act, the Child Nutrition Act of 1966, and certain other Acts
 
 **(a) School lunch and breakfast programs**
 
@@ -885,7 +885,7 @@ Nothing in this Act shall prohibit or require a State to provide to an individua
 
 **(D)** The food distribution program on Indian reservations established under section 2013(b) of title 7.
 
-(Pub. L. 104–193, title VII, § 742, Aug. 22, 1996, 110 Stat. 2307; Pub. L. 106–78, title VII, § 752(b)(6), Oct. 22, 1999, 113 Stat. 1169.)
+(Pub. L. 104–193, title VII, § 742, Aug. 22, 1996, 110 Stat. 2307; Pub. L. 106–78, title VII, § 752(b)(6), Oct. 22, 1999, 113 Stat. 1169.)
 
 **Editorial Notes**
 
@@ -893,13 +893,13 @@ Nothing in this Act shall prohibit or require a State to provide to an individua
 
 This Act, referred to in subsecs. (a) and (b)(1), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105, known as the “Personal Responsibility and Work Opportunity Reconciliation Act of 1996”. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 1305 of Title 42, The Public Health and Welfare, and Tables.
 
-The Richard B. Russell National School Lunch Act, referred to in subsecs. (a) and (b)(2)(A), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsecs. (a) and (b)(2)(A), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
-The Child Nutrition Act of 1966, referred to in subsec. (b)(2)(A), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
+The Child Nutrition Act of 1966, referred to in subsec. (b)(2)(A), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
 Section 4 of the Agriculture and Consumer Protection Act of 1973, referred to in subsec. (b)(2)(B), is section 4 of Pub. L. 93–86, which is set out as a note under section 612c of Title 7, Agriculture.
 
-The Emergency Food Assistance Act of 1983, referred to in subsec. (b)(2)(C), is title II of Pub. L. 98–8, Mar. 24, 1983, 97 Stat. 35, which is classified generally to chapter 102 (§ 7501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 7501 of Title 7, and Tables.
+The Emergency Food Assistance Act of 1983, referred to in subsec. (b)(2)(C), is title II of Pub. L. 98–8, Mar. 24, 1983, 97 Stat. 35, which is classified generally to chapter 102 (§ 7501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 7501 of Title 7, and Tables.
 
 **Codification**
 
@@ -911,7 +911,7 @@ Section was enacted as part of title VII of the Personal Responsibility and Work
 
 ## SUBCHAPTER II—ELIGIBILITY FOR STATE AND LOCAL PUBLIC BENEFITS PROGRAMS
 
-### § 1621. Aliens who are not qualified aliens or nonimmigrants ineligible for State and local public benefits
+### § 1621. Aliens who are not qualified aliens or nonimmigrants ineligible for State and local public benefits
 
 **(a) In general** Notwithstanding any other provision of law and except as provided in subsections (b) and (d), an alien who is not—
 
@@ -955,13 +955,13 @@ is not eligible for any State or local public benefit (as defined in subsection 
 
 A State may provide that an alien who is not lawfully present in the United States is eligible for any State or local public benefit for which such alien would otherwise be ineligible under subsection (a) only through the enactment of a State law after August 22, 1996, which affirmatively provides for such eligibility.
 
-(Pub. L. 104–193, title IV, § 411, Aug. 22, 1996, 110 Stat. 2268; Pub. L. 105–33, title V, §§ 5565, 5581(b)(1), Aug. 5, 1997, 111 Stat. 639, 642; Pub. L. 105–306, § 5(b), Oct. 28, 1998, 112 Stat. 2927.)
+(Pub. L. 104–193, title IV, § 411, Aug. 22, 1996, 110 Stat. 2268; Pub. L. 105–33, title V, §§ 5565, 5581(b)(1), Aug. 5, 1997, 111 Stat. 639, 642; Pub. L. 105–306, § 5(b), Oct. 28, 1998, 112 Stat. 2927.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Immigration and Nationality Act, referred to in subsecs. (a)(2) and (c)(2)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+The Immigration and Nationality Act, referred to in subsecs. (a)(2) and (c)(2)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 Section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658, referred to in subsec. (c)(2)(A), means section 141 of the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, set out as a note under section 1901 of Title 48, Territories and Insular Possessions, and section 141 of the Compact of Free Association between the United States and the Government of Palau, which is contained in section 201 of Pub. L. 99–658, set out as a note under section 1931 of Title 48.
 
@@ -969,9 +969,9 @@ Section 141 of the applicable compact of free association approved in Public Law
 
 1998—Subsec. (c)(2)(C). Pub. L. 105–306 added subpar. (C).
 
-1997—Subsec. (c)(2)(A). Pub. L. 105–33, § 5565, inserted before semicolon “, or to a citizen of a freely associated state, if section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658 (or a successor provision) is in effect”.
+1997—Subsec. (c)(2)(A). Pub. L. 105–33, § 5565, inserted before semicolon “, or to a citizen of a freely associated state, if section 141 of the applicable compact of free association approved in Public Law 99–239 or 99–658 (or a successor provision) is in effect”.
 
-Subsec. (c)(3). Pub. L. 105–33, § 5581(b)(1), made technical amendment to reference in original act which appears in text as reference to section 1611(c) of this title.
+Subsec. (c)(3). Pub. L. 105–33, § 5581(b)(1), made technical amendment to reference in original act which appears in text as reference to section 1611(c) of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -981,9 +981,9 @@ Amendment by Pub. L. 105–33 effective as if included in the enactment of title
 
 **Pilot Programs on Limiting Issuance of Driver’s License to Illegal Aliens**
 
-Pub. L. 104–208, div. C, title V, § 502, Sept. 30, 1996, 110 Stat. 3009–671, provided that pursuant to guidelines by the Attorney General, all States could conduct pilot programs to determine the viability, advisability, and cost-effectiveness of denying driver’s licenses to aliens not lawfully present in the United States and, not later than 3 years after Sept. 30, 1996, the Attorney General should submit a report to the Judiciary Committees of Congress.
+Pub. L. 104–208, div. C, title V, § 502, Sept. 30, 1996, 110 Stat. 3009–671, provided that pursuant to guidelines by the Attorney General, all States could conduct pilot programs to determine the viability, advisability, and cost-effectiveness of denying driver’s licenses to aliens not lawfully present in the United States and, not later than 3 years after Sept. 30, 1996, the Attorney General should submit a report to the Judiciary Committees of Congress.
 
-### § 1622. State authority to limit eligibility of qualified aliens for State public benefits
+### § 1622. State authority to limit eligibility of qualified aliens for State public benefits
 
 **(a) In general**
 
@@ -1001,9 +1001,9 @@ Notwithstanding any other provision of law and except as provided in subsection 
 
 **(D)** An alien who is a Cuban and Haitian entrant as defined in section 501(e) of the Refugee Education Assistance Act of 1980 until 5 years after the alien is granted such status.
 
-**(E)** An alien admitted to the United States as an Amerasian immigrant as described in section 1612(a)(2)(A)(i)(V) 1
+**(E)** An alien admitted to the United States as an Amerasian immigrant as described in section 1612(a)(2)(A)(i)(V) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -1021,9 +1021,9 @@ of this title.
 
 **(B)** on active duty (other than active duty for training) in the Armed Forces of the United States, or
 
-**(C)** the spouse or unmarried dependent child of an individual described in subparagraph (A) or (B) or the unremarried surviving spouse of an individual described in clause (i) or (ii) 2
+**(C)** the spouse or unmarried dependent child of an individual described in subparagraph (A) or (B) or the unremarried surviving spouse of an individual described in clause (i) or (ii) 2
 
-<sup>2</sup>  So in original. Probably should be “subparagraph (A) or (B)”.
+<sup>2</sup> So in original. Probably should be “subparagraph (A) or (B)”.
 
 who is deceased if the marriage fulfills the requirements of section 1304 of title 38.
 
@@ -1031,37 +1031,37 @@ who is deceased if the marriage fulfills the requirements of section 1304 of tit
 
 An alien who on August 22, 1996, is lawfully residing in any State and is receiving benefits on August 22, 1996, shall continue to be eligible to receive such benefits until January 1, 1997.
 
-(Pub. L. 104–193, title IV, § 412, Aug. 22, 1996, 110 Stat. 2269; Pub. L. 105–33, title V, §§ 5302(c)(2), 5306(d), 5562, 5563, 5581(b)(3), Aug. 5, 1997, 111 Stat. 599, 602, 638, 643.)
+(Pub. L. 104–193, title IV, § 412, Aug. 22, 1996, 110 Stat. 2269; Pub. L. 105–33, title V, §§ 5302(c)(2), 5306(d), 5562, 5563, 5581(b)(3), Aug. 5, 1997, 111 Stat. 599, 602, 638, 643.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Immigration and Nationality Act, referred to in subsecs. (a) and (b)(2)(A), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+The Immigration and Nationality Act, referred to in subsecs. (a) and (b)(2)(A), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-Section 243 of such Act, referred to in subsec. (b)(1)(C), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, § 307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Section 243 of such Act, referred to in subsec. (b)(1)(C), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, § 307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in subsec. (b)(1)(D), is section 501(e) of Pub. L. 96–422, which is set out in a note under section 1522 of this title.
 
-Section 1612(a)(2)(A)(i)(V) of this title, referred to in subsec. (b)(1)(E), was redesignated section 1612(a)(2)(A)(v) of this title by Pub. L. 105–185, title V, § 503(2), (3), June 23, 1998, 112 Stat. 578.
+Section 1612(a)(2)(A)(i)(V) of this title, referred to in subsec. (b)(1)(E), was redesignated section 1612(a)(2)(A)(v) of this title by Pub. L. 105–185, title V, § 503(2), (3), June 23, 1998, 112 Stat. 578.
 
-The Social Security Act, referred to in subsec. (b)(2)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(2)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
-1997—Subsec. (b)(1)(C). Pub. L. 105–33, § 5581(b)(3), substituted “withholding” for “with-holding”.
+1997—Subsec. (b)(1)(C). Pub. L. 105–33, § 5581(b)(3), substituted “withholding” for “with-holding”.
 
-Pub. L. 105–33, § 5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
+Pub. L. 105–33, § 5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
 
-Subsec. (b)(1)(D). Pub. L. 105–33, § 5302(c)(2), added subpar. (D).
+Subsec. (b)(1)(D). Pub. L. 105–33, § 5302(c)(2), added subpar. (D).
 
-Subsec. (b)(1)(E). Pub. L. 105–33, § 5306(d), added subpar. (E).
+Subsec. (b)(1)(E). Pub. L. 105–33, § 5306(d), added subpar. (E).
 
-Subsec. (b)(3)(A). Pub. L. 105–33, § 5563(c), inserted “, 1101, or 1301, or as described in section 107” after “section 101”.
+Subsec. (b)(3)(A). Pub. L. 105–33, § 5563(c), inserted “, 1101, or 1301, or as described in section 107” after “section 101”.
 
-Pub. L. 105–33, § 5563(a), inserted “and who fulfills the minimum active-duty service requirements of section 5303A(d) of title 38” after “alienage”.
+Pub. L. 105–33, § 5563(a), inserted “and who fulfills the minimum active-duty service requirements of section 5303A(d) of title 38” after “alienage”.
 
-Subsec. (b)(3)(C). Pub. L. 105–33, § 5563(b), inserted before period at end “or the unremarried surviving spouse of an individual described in clause (i) or (ii) who is deceased if the marriage fulfills the requirements of section 1304 of title 38”.
+Subsec. (b)(3)(C). Pub. L. 105–33, § 5563(b), inserted before period at end “or the unremarried surviving spouse of an individual described in clause (i) or (ii) who is deceased if the marriage fulfills the requirements of section 1304 of title 38”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1071,7 +1071,7 @@ Amendment by sections 5302(c)(2) and 5306(d) of Pub. L. 105–33 effective, exce
 
 Amendment by sections 5562, 5563, and 5581(b)(3) of Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
 
-### § 1623. Limitation on eligibility for preferential treatment of aliens not lawfully present on basis of residence for higher education benefits
+### § 1623. Limitation on eligibility for preferential treatment of aliens not lawfully present on basis of residence for higher education benefits
 
 **(a) In general**
 
@@ -1081,7 +1081,7 @@ Notwithstanding any other provision of law, an alien who is not lawfully present
 
 This section shall apply to benefits provided on or after July 1, 1998.
 
-(Pub. L. 104–208, div. C, title V, § 505, Sept. 30, 1996, 110 Stat. 3009–672.)
+(Pub. L. 104–208, div. C, title V, § 505, Sept. 30, 1996, 110 Stat. 3009–672.)
 
 **Editorial Notes**
 
@@ -1089,7 +1089,7 @@ This section shall apply to benefits provided on or after July 1, 1998.
 
 Section was enacted as part of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, and as part of the Omnibus Consolidated Appropriations Act, 1997, and not as part of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 which comprises this chapter.
 
-### § 1624. Authority of States and political subdivisions of States to limit assistance to aliens and to distinguish among classes of aliens in providing general cash public assistance
+### § 1624. Authority of States and political subdivisions of States to limit assistance to aliens and to distinguish among classes of aliens in providing general cash public assistance
 
 **(a) In general**
 
@@ -1099,7 +1099,7 @@ Subject to subsection (b) and notwithstanding any other provision of law, a Stat
 
 The authority provided for under subsection (a) may be exercised only to the extent that any prohibitions, limitations, or restrictions imposed by a State or political subdivision of a State are not more restrictive than the prohibitions, limitations, or restrictions imposed under comparable Federal programs. For purposes of this section, attribution to an alien of a sponsor’s income and resources (as described in section 1631 of this title) for purposes of determining eligibility for, and the amount of, benefits shall be considered less restrictive than a prohibition of eligibility for such benefits.
 
-(Pub. L. 104–208, div. C, title V, § 553, Sept. 30, 1996, 110 Stat. 3009–681.)
+(Pub. L. 104–208, div. C, title V, § 553, Sept. 30, 1996, 110 Stat. 3009–681.)
 
 **Editorial Notes**
 
@@ -1107,11 +1107,11 @@ The authority provided for under subsection (a) may be exercised only to the ext
 
 Section was enacted as part of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, and as part of the Omnibus Consolidated Appropriations Act, 1997, and not as part of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 which comprises this chapter.
 
-### § 1625. Authorization for verification of eligibility for State and local public benefits
+### § 1625. Authorization for verification of eligibility for State and local public benefits
 
 A State or political subdivision of a State is authorized to require an applicant for State and local public benefits (as defined in section 1621(c) of this title) to provide proof of eligibility.
 
-(Pub. L. 104–193, title IV, § 413, as added Pub. L. 105–33, title V, § 5307(a), Aug. 5, 1997, 111 Stat. 602.)
+(Pub. L. 104–193, title IV, § 413, as added Pub. L. 105–33, title V, § 5307(a), Aug. 5, 1997, 111 Stat. 602.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1121,7 +1121,7 @@ Section effective, except as otherwise provided, as if included in the enactment
 
 ## SUBCHAPTER III—ATTRIBUTION OF INCOME AND AFFIDAVITS OF SUPPORT
 
-### § 1631. Federal attribution of sponsor’s income and resources to alien
+### § 1631. Federal attribution of sponsor’s income and resources to alien
 
 **(a) In general** Notwithstanding any other provision of law, in determining the eligibility and the amount of benefits of an alien for any Federal means-tested public benefits program (as provided under section 1613 of this title), the income and resources of the alien shall be deemed to include the following:
 
@@ -1147,9 +1147,9 @@ Whenever an alien is required to reapply for benefits under any Federal means-te
 
 **(2)** If on August 22, 1996, a Federal means-tested public benefits program does not attribute a sponsor’s income and resources to an alien in determining the alien’s eligibility and the amount of benefits for an alien, this section shall apply to any such determination beginning 180 days after August 22, 1996.
 
-**(3)** This section shall not apply to assistance or benefits under the Food Stamp Act of 1977 1
+**(3)** This section shall not apply to assistance or benefits under the Food Stamp Act of 1977 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (7 U.S.C. 2011 et seq.) to the extent that a qualified alien is eligible under section 1612(a)(2)(J) of this title.
 
@@ -1175,7 +1175,7 @@ A determination described in this paragraph is a determination by an agency that
 
 The exception under paragraph (1) shall not apply to benefits for an alien during any period in which the individual responsible for such battery or cruelty resides in the same household or family eligibility unit as the individual who was subjected to such battery or cruelty.
 
-(Pub. L. 104–193, title IV, § 421, Aug. 22, 1996, 110 Stat. 2270; Pub. L. 104–208, div. C, title V, §§ 551(b)(1), 552, Sept. 30, 1996, 110 Stat. 3009–679, 3009–680; Pub. L. 105–33, title V, § 5571(d), Aug. 5, 1997, 111 Stat. 641; Pub. L. 107–171, title IV, § 4401(b)(2)(B), May 13, 2002, 116 Stat. 333.)
+(Pub. L. 104–193, title IV, § 421, Aug. 22, 1996, 110 Stat. 2270; Pub. L. 104–208, div. C, title V, §§ 551(b)(1), 552, Sept. 30, 1996, 110 Stat. 3009–679, 3009–680; Pub. L. 105–33, title V, § 5571(d), Aug. 5, 1997, 111 Stat. 641; Pub. L. 107–171, title IV, § 4401(b)(2)(B), May 13, 2002, 116 Stat. 333.)
 
 **Editorial Notes**
 
@@ -1183,11 +1183,11 @@ The exception under paragraph (1) shall not apply to benefits for an alien durin
 
 Section 213A of the Immigration and Nationality Act (as added by section 423 and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996), referred to in subsec. (a)(1), is section 1183a of this title as added by section 423 of Pub. L. 104–193 and amended by section 551(a) of div. C of Pub. L. 104–208.
 
-The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163. Chapter 2 of title III of the Act is classified generally to part II (§ 1421 et seq.) of subchapter III of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163. Chapter 2 of title III of the Act is classified generally to part II (§ 1421 et seq.) of subchapter III of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-The Social Security Act, referred to in subsec. (b)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Food Stamp Act of 1977, referred to in subsec. (d)(3), subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food Stamp Act of 1977, referred to in subsec. (d)(3), subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 **Amendments**
 
@@ -1195,9 +1195,9 @@ The Food Stamp Act of 1977, referred to in subsec. (d)(3), subsequently renamed 
 
 1997—Subsec. (f)(1)(A). Pub. L. 105–33 struck out “or” before “(ii) the alien’s child” and substituted “or (iii) the alien is a child whose parent (who resides in the same household as the alien child) has been battered or subjected to extreme cruelty in the United States by that parent’s spouse, or by a member of the spouse’s family residing in the same household as the parent and the spouse consented to, or acquiesced in, such battery or cruelty, and the battery or cruelty described in clause (i), (ii), or (iii)” for “and the battery or cruelty described in clause (i) or (ii)”.
 
-1996—Subsec. (a)(1). Pub. L. 104–208, § 551(b)(1), inserted “and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996” after “section 423”.
+1996—Subsec. (a)(1). Pub. L. 104–208, § 551(b)(1), inserted “and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996” after “section 423”.
 
-Subsecs. (e), (f). Pub. L. 104–208, § 552, added subsecs. (e) and (f).
+Subsecs. (e), (f). Pub. L. 104–208, § 552, added subsecs. (e) and (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1217,7 +1217,7 @@ Amendment by section 551(b)(1) of Pub. L. 104–208 applicable to affidavits of 
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-### § 1632. Authority for States to provide for attribution of sponsors income and resources to the alien with respect to State programs
+### § 1632. Authority for States to provide for attribution of sponsors income and resources to the alien with respect to State programs
 
 **(a) Optional application to State programs** Except as provided in subsection (b), in determining the eligibility and the amount of benefits of an alien for any State public benefits, the State or political subdivision that offers the benefits is authorized to provide that the income and resources of the alien shall be deemed to include—
 
@@ -1241,7 +1241,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 **(7)** Programs, services, or assistance (such as soup kitchens, crisis counseling and intervention, and short-term shelter) specified by the Attorney General of a State, after consultation with appropriate agencies and departments, which (A) deliver in-kind services at the community level, including through public or private nonprofit agencies; (B) do not condition the provision of assistance, the amount of assistance provided, or the cost of assistance provided on the individual recipient’s income or resources; and (C) are necessary for the protection of life or safety.
 
-(Pub. L. 104–193, title IV, § 422, Aug. 22, 1996, 110 Stat. 2271; Pub. L. 104–208, div. C, title V, § 551(b)(1), Sept. 30, 1996, 110 Stat. 3009–679; Pub. L. 105–33, title V, § 5581(b)(2), Aug. 5, 1997, 111 Stat. 643; Pub. L. 106–78, title VII, § 752(b)(6), Oct. 22, 1999, 113 Stat. 1169.)
+(Pub. L. 104–193, title IV, § 422, Aug. 22, 1996, 110 Stat. 2271; Pub. L. 104–208, div. C, title V, § 551(b)(1), Sept. 30, 1996, 110 Stat. 3009–679; Pub. L. 105–33, title V, § 5581(b)(2), Aug. 5, 1997, 111 Stat. 643; Pub. L. 106–78, title VII, § 752(b)(6), Oct. 22, 1999, 113 Stat. 1169.)
 
 **Editorial Notes**
 
@@ -1249,9 +1249,9 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 Section 1183a of this title (as added by section 423 and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996), referred to in subsec. (a)(1), is section 1183a of this title as added by section 423 of Pub. L. 104–193 and amended by section 551(a) of div. C of Pub. L. 104–208.
 
-The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(3), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(3), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
-The Child Nutrition Act of 1966, referred to in subsec. (b)(4), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
+The Child Nutrition Act of 1966, referred to in subsec. (b)(4), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
 **Amendments**
 
@@ -1273,7 +1273,7 @@ Amendment by Pub. L. 104–208 applicable to affidavits of support executed on o
 
 ## SUBCHAPTER IV—GENERAL PROVISIONS
 
-### § 1641. Definitions
+### § 1641. Definitions
 
 **(a) In general**
 
@@ -1311,11 +1311,11 @@ Except as otherwise provided in this chapter, the terms used in this chapter hav
 
 **(iii)** suspension of deportation under section 244(a)(3) of the Immigration and Nationality Act [8 U.S.C. 1254(a)(3)] (as in effect before the title III–A effective date in section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996).1
 
-<sup>1</sup>  So in original. The period probably should be a comma.
+<sup>1</sup> So in original. The period probably should be a comma.
 
-**(iv)** status as a spouse or child of a United States citizen pursuant to clause (i) of section 204(a)(1)(A) of such Act [8 U.S.C. 1154(a)(1)(A)(i)], or classification pursuant to clause (i) of section 204(a)(1)(B) of such Act [8 U.S.C. 1154(a)(1)(B)(i)]; 2
+**(iv)** status as a spouse or child of a United States citizen pursuant to clause (i) of section 204(a)(1)(A) of such Act [8 U.S.C. 1154(a)(1)(A)(i)], or classification pursuant to clause (i) of section 204(a)(1)(B) of such Act [8 U.S.C. 1154(a)(1)(B)(i)]; 2
 
-<sup>2</sup>  So in original. The semicolon probably should be “, or”.
+<sup>2</sup> So in original. The semicolon probably should be “, or”.
 
 **(v)** cancellation of removal pursuant to section 240A(b)(2) of such Act [8 U.S.C. 1229b(b)(2)];
 
@@ -1337,7 +1337,7 @@ This subsection shall not apply to an alien during any period in which the indiv
 
 After consultation with the Secretaries of Health and Human Services, Agriculture, and Housing and Urban Development, the Commissioner of Social Security, and with the heads of such Federal agencies administering benefits as the Attorney General considers appropriate, the Attorney General shall issue guidance (in the Attorney General’s sole and unreviewable discretion) for purposes of this subsection and section 1631(f) of this title, concerning the meaning of the terms “battery” and “extreme cruelty”, and the standards and methods to be used for determining whether a substantial connection exists between battery or cruelty suffered and an individual’s need for benefits under a specific Federal, State, or local program.
 
-(Pub. L. 104–193, title IV, § 431, Aug. 22, 1996, 110 Stat. 2274; Pub. L. 104–208, div. C, title III, § 308(g)(8)(E), title V, § 501, Sept. 30, 1996, 110 Stat. 3009–624, 3009–670; Pub. L. 105–33, title V, §§ 5302(c)(3), 5562, 5571(a)–(c), 5581(b)(6), (7), Aug. 5, 1997, 111 Stat. 599, 638, 640, 643; Pub. L. 106–386, div. B, title V, § 1508, Oct. 28, 2000, 114 Stat. 1530; Pub. L. 110–457, title II, § 211(a), Dec. 23, 2008, 122 Stat. 5063; Pub. L. 116–260, div. CC, title II, § 208(c), Dec. 27, 2020, 134 Stat. 2985; Pub. L. 118–42, div. G, title II, § 209(f)(3), Mar. 9, 2024, 138 Stat. 445.)
+(Pub. L. 104–193, title IV, § 431, Aug. 22, 1996, 110 Stat. 2274; Pub. L. 104–208, div. C, title III, § 308(g)(8)(E), title V, § 501, Sept. 30, 1996, 110 Stat. 3009–624, 3009–670; Pub. L. 105–33, title V, §§ 5302(c)(3), 5562, 5571(a)–(c), 5581(b)(6), (7), Aug. 5, 1997, 111 Stat. 599, 638, 640, 643; Pub. L. 106–386, div. B, title V, § 1508, Oct. 28, 2000, 114 Stat. 1530; Pub. L. 110–457, title II, § 211(a), Dec. 23, 2008, 122 Stat. 5063; Pub. L. 116–260, div. CC, title II, § 208(c), Dec. 27, 2020, 134 Stat. 2985; Pub. L. 118–42, div. G, title II, § 209(f)(3), Mar. 9, 2024, 138 Stat. 445.)
 
 **Editorial Notes**
 
@@ -1345,11 +1345,11 @@ After consultation with the Secretaries of Health and Human Services, Agricultur
 
 This chapter, referred to in text, was in the original “this title” meaning title IV of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, which enacted this chapter, section 1183a of this title, and sections 611a and 1437y of Title 42, The Public Health and Welfare, amended section 1383 of this title, sections 32 and 6213 of Title 26, Internal Revenue Code, and sections 1436a and 1471 of Title 42, and enacted provisions set out as notes under section 1183a of this title and section 32 of Title 26. For complete classification of title IV to the Code, see Tables.
 
-The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-Section 243 of such Act, referred to in subsec. (b)(5), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, § 307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Section 243 of such Act, referred to in subsec. (b)(5), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, § 307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
-Section 203(a)(7) of such Act as in effect prior to April 1, 1980, referred to in subsec. (b)(6), means section 203(a)(7) of act June 27, 1952, which was classified to section 1153(a)(7) of this title. Section 1153(a)(7) of this title was repealed and section 1153(a)(8) was redesignated section 1153(a)(7) by Pub. L. 96–212, title II, § 203(c)(3), (6), Mar. 17, 1980, 94 Stat. 107, effective Apr. 1, 1980.
+Section 203(a)(7) of such Act as in effect prior to April 1, 1980, referred to in subsec. (b)(6), means section 203(a)(7) of act June 27, 1952, which was classified to section 1153(a)(7) of this title. Section 1153(a)(7) of this title was repealed and section 1153(a)(8) was redesignated section 1153(a)(7) by Pub. L. 96–212, title II, § 203(c)(3), (6), Mar. 17, 1980, 94 Stat. 107, effective Apr. 1, 1980.
 
 Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in subsec. (b)(7), is section 501(e) of Pub. L. 96–422, which is set out in a note under section 1522 of this title.
 
@@ -1357,7 +1357,7 @@ Section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act o
 
 **Amendments**
 
-2024—Subsec. (b)(8). Pub. L. 118–42 struck out “, but only with respect to the designated Federal program defined in section 1612(b)(3)(C) of this title (relating to the Medicaid program)” before period at end.
+2024—Subsec. (b)(8). Pub. L. 118–42 struck out “, but only with respect to the designated Federal program defined in section 1612(b)(3)(C) of this title (relating to the Medicaid program)” before period at end.
 
 2020—Subsec. (b)(8). Pub. L. 116–260 added par. (8).
 
@@ -1365,27 +1365,27 @@ Section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act o
 
 2000—Subsec. (c)(1)(B)(iii). Pub. L. 106–386 amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “cancellation of removal under section 240A of such Act (as in effect prior to April 1, 1997),”.
 
-1997—Subsec. (b)(5). Pub. L. 105–33, § 5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
+1997—Subsec. (b)(5). Pub. L. 105–33, § 5562, substituted “section 243(h) of such Act (as in effect immediately before the effective date of section 307 of division C of Public Law 104–208) or section 241(b)(3) of such Act (as amended by section 305(a) of division C of Public Law 104–208)” for “section 243(h) of such Act”.
 
-Subsec. (b)(7). Pub. L. 105–33, § 5302(c)(3), added par. (7).
+Subsec. (b)(7). Pub. L. 105–33, § 5302(c)(3), added par. (7).
 
-Subsec. (c). Pub. L. 105–33, § 5571(b), inserted at end “After consultation with the Secretaries of Health and Human Services, Agriculture, and Housing and Urban Development, the Commissioner of Social Security, and with the heads of such Federal agencies administering benefits as the Attorney General considers appropriate, the Attorney General shall issue guidance (in the Attorney General’s sole and unreviewable discretion) for purposes of this subsection and section 1631(f) of this title, concerning the meaning of the terms ‘battery’ and ‘extreme cruelty’, and the standards and methods to be used for determining whether a substantial connection exists between battery or cruelty suffered and an individual’s need for benefits under a specific Federal, State, or local program.”
+Subsec. (c). Pub. L. 105–33, § 5571(b), inserted at end “After consultation with the Secretaries of Health and Human Services, Agriculture, and Housing and Urban Development, the Commissioner of Social Security, and with the heads of such Federal agencies administering benefits as the Attorney General considers appropriate, the Attorney General shall issue guidance (in the Attorney General’s sole and unreviewable discretion) for purposes of this subsection and section 1631(f) of this title, concerning the meaning of the terms ‘battery’ and ‘extreme cruelty’, and the standards and methods to be used for determining whether a substantial connection exists between battery or cruelty suffered and an individual’s need for benefits under a specific Federal, State, or local program.”
 
-Subsec. (c)(1)(A). Pub. L. 105–33, § 5571(a), substituted “agency providing such benefits)” for “Attorney General, which opinion is not subject to review by any court)”.
+Subsec. (c)(1)(A). Pub. L. 105–33, § 5571(a), substituted “agency providing such benefits)” for “Attorney General, which opinion is not subject to review by any court)”.
 
-Subsec. (c)(1)(B)(iii). Pub. L. 105–33, § 5581(b)(7)(A), substituted “(as in effect prior to April 1, 1997),” for “, or”.
+Subsec. (c)(1)(B)(iii). Pub. L. 105–33, § 5581(b)(7)(A), substituted “(as in effect prior to April 1, 1997),” for “, or”.
 
-Subsec. (c)(1)(B)(v). Pub. L. 105–33, § 5581(b)(7)(B), added cl. (v).
+Subsec. (c)(1)(B)(v). Pub. L. 105–33, § 5581(b)(7)(B), added cl. (v).
 
-Subsec. (c)(2)(A). Pub. L. 105–33, § 5571(a), substituted “agency providing such benefits)” for “Attorney General, which opinion is not subject to review by any court)”.
+Subsec. (c)(2)(A). Pub. L. 105–33, § 5571(a), substituted “agency providing such benefits)” for “Attorney General, which opinion is not subject to review by any court)”.
 
-Subsec. (c)(2)(B). Pub. L. 105–33, § 5581(b)(6), substituted “subparagraph (B) of paragraph (1)” for “clause (ii) of subparagraph (A)”.
+Subsec. (c)(2)(B). Pub. L. 105–33, § 5581(b)(6), substituted “subparagraph (B) of paragraph (1)” for “clause (ii) of subparagraph (A)”.
 
-Subsec. (c)(3). Pub. L. 105–33, § 5571(c), added par. (3).
+Subsec. (c)(3). Pub. L. 105–33, § 5571(c), added par. (3).
 
-1996—Subsec. (c). Pub. L. 104–208, § 501, added subsec. (c).
+1996—Subsec. (c). Pub. L. 104–208, § 501, added subsec. (c).
 
-Subsec. (c)(1)(B)(iii). Pub. L. 104–208, § 308(g)(8)(E), substituted “cancellation of removal under section 240A of such Act” for “suspension of deportation and adjustment of status pursuant to section 244(a)(3) of such Act”.
+Subsec. (c)(1)(B)(iii). Pub. L. 104–208, § 308(g)(8)(E), substituted “cancellation of removal under section 240A of such Act” for “suspension of deportation and adjustment of status pursuant to section 244(a)(3) of such Act”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1395,7 +1395,7 @@ Amendment by section 208(c) of Pub. L. 116–260 applicable to benefits for item
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–457, title II, § 211(b), Dec. 23, 2008, 122 Stat. 5063, provided that: “The amendments made by subsection (a) [amending this section] shall apply to applications for public benefits and public benefits provided on or after the date of the enactment of this Act [Dec. 23, 2008] without regard to whether regulations have been implemented to carry out such amendments.”
+Pub. L. 110–457, title II, § 211(b), Dec. 23, 2008, 122 Stat. 5063, provided that: “The amendments made by subsection (a) [amending this section] shall apply to applications for public benefits and public benefits provided on or after the date of the enactment of this Act [Dec. 23, 2008] without regard to whether regulations have been implemented to carry out such amendments.”
 
 **Effective Date of 1997 Amendment**
 
@@ -1409,7 +1409,7 @@ Amendment by section 308(g)(8)(E) of Pub. L. 104–208 effective, with certain t
 
 Amendment by section 501 of Pub. L. 104–208 effective Sept. 30, 1996, see section 591 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
-### § 1642. Verification of eligibility for Federal public benefits
+### § 1642. Verification of eligibility for Federal public benefits
 
 **(a) In general**
 
@@ -1431,25 +1431,25 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 Subject to subsection (a), a nonprofit charitable organization, in providing any Federal public benefit (as defined in section 1611(c) of this title) or any State or local public benefit (as defined in section 1621(c) of this title), is not required under this chapter to determine, verify, or otherwise require proof of eligibility of any applicant for such benefits.
 
-(Pub. L. 104–193, title IV, § 432, Aug. 22, 1996, 110 Stat. 2274; Pub. L. 104–208, div. C, title V, §§ 504, 508, Sept. 30, 1996, 110 Stat. 3009–672, 3009–673; Pub. L. 105–33, title V, § 5572(a), Aug. 5, 1997, 111 Stat. 641.)
+(Pub. L. 104–193, title IV, § 432, Aug. 22, 1996, 110 Stat. 2274; Pub. L. 104–208, div. C, title V, §§ 504, 508, Sept. 30, 1996, 110 Stat. 3009–672, 3009–673; Pub. L. 105–33, title V, § 5572(a), Aug. 5, 1997, 111 Stat. 641.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Immigration and Nationality Act, referred to in subsec. (a)(3), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+The Immigration and Nationality Act, referred to in subsec. (a)(3), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 This chapter, referred to in subsec. (d), was in the original “this title” meaning title IV of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, which enacted this chapter, section 1183a of this title, and sections 611a and 1437y of Title 42, The Public Health and Welfare, amended section 1383 of this title, sections 32 and 6213 of Title 26, Internal Revenue Code, and sections 1436a and 1471 of Title 42, and enacted provisions set out as notes under section 1183a of this title and section 32 of Title 26. For complete classification of title IV to the Code, see Tables.
 
 **Amendments**
 
-1997—Subsec. (a)(1). Pub. L. 105–33, § 5572(a)(1), inserted at end “Not later than 90 days after August 5, 1997, the Attorney General of the United States, after consultation with the Secretary of Health and Human Services, shall issue interim verification guidance.”
+1997—Subsec. (a)(1). Pub. L. 105–33, § 5572(a)(1), inserted at end “Not later than 90 days after August 5, 1997, the Attorney General of the United States, after consultation with the Secretary of Health and Human Services, shall issue interim verification guidance.”
 
-Subsec. (a)(3). Pub. L. 105–33, § 5572(a)(2), added par. (3).
+Subsec. (a)(3). Pub. L. 105–33, § 5572(a)(2), added par. (3).
 
-1996—Subsec. (a). Pub. L. 104–208, § 504, designated existing provisions as par. (1) and added par. (2).
+1996—Subsec. (a). Pub. L. 104–208, § 504, designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (d). Pub. L. 104–208, § 508, added subsec. (d).
+Subsec. (d). Pub. L. 104–208, § 508, added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1457,7 +1457,7 @@ Subsec. (d). Pub. L. 104–208, § 508, added subsec. (d).
 
 Amendment by Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
 
-### § 1643. Statutory construction
+### § 1643. Statutory construction
 
 **(a) Limitation**
 
@@ -1479,7 +1479,7 @@ This chapter does not apply to any Federal, State, or local governmental program
 
 If any provision of this chapter or the application of such provision to any person or circumstance is held to be unconstitutional, the remainder of this chapter and the application of the provisions of such to any person or circumstance shall not be affected thereby.
 
-(Pub. L. 104–193, title IV, § 433, Aug. 22, 1996, 110 Stat. 2275; Pub. L. 105–33, title V, § 5574, Aug. 5, 1997, 111 Stat. 642.)
+(Pub. L. 104–193, title IV, § 433, Aug. 22, 1996, 110 Stat. 2275; Pub. L. 105–33, title V, § 5574, Aug. 5, 1997, 111 Stat. 642.)
 
 **Editorial Notes**
 
@@ -1487,7 +1487,7 @@ If any provision of this chapter or the application of such provision to any per
 
 This chapter, referred to in text, was in the original “this title” meaning title IV of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, which enacted this chapter, section 1183a of this title, and sections 611a and 1437y of Title 42, The Public Health and Welfare, amended section 1383 of this title, sections 32 and 6213 of Title 26, Internal Revenue Code, and sections 1436a and 1471 of Title 42, and enacted provisions set out as notes under section 1183a of this title and section 32 of Title 26. For complete classification of title IV to the Code, see Tables.
 
-The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 **Amendments**
 
@@ -1499,11 +1499,11 @@ The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 
 
 Amendment by Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
 
-### § 1644. Communication between State and local government agencies and Immigration and Naturalization Service
+### § 1644. Communication between State and local government agencies and Immigration and Naturalization Service
 
 Notwithstanding any other provision of Federal, State, or local law, no State or local government entity may be prohibited, or in any way restricted, from sending to or receiving from the Immigration and Naturalization Service information regarding the immigration status, lawful or unlawful, of an alien in the United States.
 
-(Pub. L. 104–193, title IV, § 434, Aug. 22, 1996, 110 Stat. 2275.)
+(Pub. L. 104–193, title IV, § 434, Aug. 22, 1996, 110 Stat. 2275.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1511,7 +1511,7 @@ Notwithstanding any other provision of Federal, State, or local law, no State or
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
-### § 1645. Qualifying quarters
+### § 1645. Qualifying quarters
 
 For purposes of this chapter, in determining the number of qualifying quarters of coverage under title II of the Social Security Act [42 U.S.C. 401 et seq.] an alien shall be credited with—
 
@@ -1521,7 +1521,7 @@ For purposes of this chapter, in determining the number of qualifying quarters o
 
 No such qualifying quarter of coverage that is creditable under title II of the Social Security Act for any period beginning after December 31, 1996, may be credited to an alien under paragraph (1) or (2) if the parent or spouse (as the case may be) of such alien received any Federal means-tested public benefit (as provided under section 1613 of this title) during the period for which such qualifying quarter of coverage is so credited. Notwithstanding section 6103 of title 26, the Commissioner of Social Security is authorized to disclose quarters of coverage information concerning an alien and an alien’s spouse or parents to a government agency for the purposes of this chapter.
 
-(Pub. L. 104–193, title IV, § 435, Aug. 22, 1996, 110 Stat. 2275; Pub. L. 105–33, title V, § 5573, Aug. 5, 1997, 111 Stat. 641.)
+(Pub. L. 104–193, title IV, § 435, Aug. 22, 1996, 110 Stat. 2275; Pub. L. 105–33, title V, § 5573, Aug. 5, 1997, 111 Stat. 641.)
 
 **Editorial Notes**
 
@@ -1529,13 +1529,13 @@ No such qualifying quarter of coverage that is creditable under title II of the 
 
 This chapter, referred to in text, was in the original “this title” meaning title IV of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, which enacted this chapter, section 1183a of this title, and sections 611a and 1437y of Title 42, The Public Health and Welfare, amended section 1383 of this title, sections 32 and 6213 of Title 26, Internal Revenue Code, and sections 1436a and 1471 of Title 42, and enacted provisions set out as notes under section 1183a of this title and section 32 of Title 26. For complete classification of title IV to the Code, see Tables.
 
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
-1997—Pub. L. 105–33, § 5573(a), inserted at end “Notwithstanding section 6103 of title 26, the Commissioner of Social Security is authorized to disclose quarters of coverage information concerning an alien and an alien’s spouse or parents to a government agency for the purposes of this chapter.”
+1997—Pub. L. 105–33, § 5573(a), inserted at end “Notwithstanding section 6103 of title 26, the Commissioner of Social Security is authorized to disclose quarters of coverage information concerning an alien and an alien’s spouse or parents to a government agency for the purposes of this chapter.”
 
-Par. (1). Pub. L. 105–33, § 5573(b), substituted “before the date on which the alien attains age 18,” for “while the alien was under age 18,”.
+Par. (1). Pub. L. 105–33, § 5573(b), substituted “before the date on which the alien attains age 18,” for “while the alien was under age 18,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1543,11 +1543,11 @@ Par. (1). Pub. L. 105–33, § 5573(b), substituted “before the date on whic
 
 Amendment by Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
 
-### § 1646. Derivative eligibility for benefits
+### § 1646. Derivative eligibility for benefits
 
 Notwithstanding any other provision of law, an alien who under the provisions of this chapter is ineligible for benefits under the food stamp program (as defined in section 1612(a)(3)(B) of this title) shall not be eligible for such benefits because the alien receives benefits under the supplemental security income program (as defined in section 1612(a)(3)(A) of this title).
 
-(Pub. L. 104–193, title IV, § 436, as added Pub. L. 105–33, title V, § 5305(a), Aug. 5, 1997, 111 Stat. 601.)
+(Pub. L. 104–193, title IV, § 436, as added Pub. L. 105–33, title V, § 5305(a), Aug. 5, 1997, 111 Stat. 601.)
 
 **Editorial Notes**
 

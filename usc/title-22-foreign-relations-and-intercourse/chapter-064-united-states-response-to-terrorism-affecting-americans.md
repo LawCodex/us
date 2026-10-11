@@ -15,15 +15,15 @@ retrieved: 2026-10-11
 
 # CHAPTER 64—UNITED STATES RESPONSE TO TERRORISM AFFECTING AMERICANS ABROAD
 
-## § 5501. International negotiations concerning aviation security
+## § 5501. International negotiations concerning aviation security
 
 **(a) United States policy** It is the policy of the United States—
 
 **(1)** to seek bilateral agreements to achieve United States aviation security objectives with foreign governments;
 
-**(2)** to continue to press vigorously for security improvements through the Foreign Airport Security Act 1
+**(2)** to continue to press vigorously for security improvements through the Foreign Airport Security Act 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and the foreign airport assessment program; and
 
@@ -35,25 +35,25 @@ and the foreign airport assessment program; and
 
 **(A)** for enhanced aviation security objectives;
 
-**(B)** to implement the Foreign Airport Security Act <sup>1</sup> and the foreign airport assessment program to the fullest extent practicable; and
+**(B)** to implement the Foreign Airport Security Act <sup>1</sup> and the foreign airport assessment program to the fullest extent practicable; and
 
 **(C)** to achieve improved availability of passenger manifest information.
 
 **(2)** A principal objective of bilateral and multilateral negotiations with foreign governments and the International Civil Aviation Organization shall be improved availability of passenger manifest information.
 
-(Pub. L. 101–604, title II, § 201, Nov. 16, 1990, 104 Stat. 3081.)
+(Pub. L. 101–604, title II, § 201, Nov. 16, 1990, 104 Stat. 3081.)
 
 **Editorial Notes**
 
 **References in Text**
 
-No act with the title Foreign Airport Security Act, referred to in subsecs. (a)(2) and (b)(1)(B), has been enacted. The Foreign Airport Security Act probably means part B (§§ 551–559) of title V of Pub. L. 99–83, Aug. 8, 1985, 99 Stat. 222. For complete classification of part B to the Code, see Tables.
+No act with the title Foreign Airport Security Act, referred to in subsecs. (a)(2) and (b)(1)(B), has been enacted. The Foreign Airport Security Act probably means part B (§§ 551–559) of title V of Pub. L. 99–83, Aug. 8, 1985, 99 Stat. 222. For complete classification of part B to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Congressional Findings**
 
-Pub. L. 101–604, § 2, Nov. 16, 1990, 104 Stat. 3066, provided that:
+Pub. L. 101–604, § 2, Nov. 16, 1990, 104 Stat. 3066, provided that:
 
 > “Congress finds that—
 
@@ -81,13 +81,13 @@ Pub. L. 101–604, § 2, Nov. 16, 1990, 104 Stat. 3066, provided that:
 
 > **“(12)** the United States must have the national will to take every feasible action to prevent, counter, and respond to terrorist activities.”
 
-## § 5502. Coordinator for Counterterrorism
+## § 5502. Coordinator for Counterterrorism
 
 The Coordinator for Counterterrorism shall be responsible for the coordination of international aviation security for the Department of State.
 
-(Pub. L. 101–604, title II, § 202, Nov. 16, 1990, 104 Stat. 3082.)
+(Pub. L. 101–604, title II, § 202, Nov. 16, 1990, 104 Stat. 3082.)
 
-## § 5503. Department of State notification of families of victims
+## § 5503. Department of State notification of families of victims
 
 **(a) Department of State policy**
 
@@ -97,9 +97,9 @@ It is the policy of the Department of State pursuant to section 2715 of this tit
 
 Not later than 60 days after November 16, 1990, the Secretary of State shall issue such regulations, guidelines, and circulars as are necessary to ensure that the policy under subsection (a) is fully implemented.
 
-(Pub. L. 101–604, title II, § 204, Nov. 16, 1990, 104 Stat. 3083.)
+(Pub. L. 101–604, title II, § 204, Nov. 16, 1990, 104 Stat. 3083.)
 
-## § 5504. Designation of State Department-family liaison and toll-free family communications system
+## § 5504. Designation of State Department-family liaison and toll-free family communications system
 
 **(a) Designation of State Department-family liaison**
 
@@ -109,9 +109,9 @@ Not later than 60 days after November 16, 1990, the Secretary of State shall iss
 
 In the establishment of the Department of State toll-free communications system to facilitate inquiries concerning the affect of any disaster abroad on United States citizens residing or traveling abroad, the Secretary of State shall ensure that a toll-free telephone number is reserved for the exclusive use of the families of citizens who have been determined to be directly involved in any such disaster.
 
-(Pub. L. 101–604, title II, § 205, Nov. 16, 1990, 104 Stat. 3083.)
+(Pub. L. 101–604, title II, § 205, Nov. 16, 1990, 104 Stat. 3083.)
 
-## § 5505. Disaster training for State Department personnel
+## § 5505. Disaster training for State Department personnel
 
 **(a) Additional training**
 
@@ -127,9 +127,9 @@ The Secretary of State shall institute a supplemental program of training in dis
 
 **(B)** securing outside experts to be brought in during the initial phases to assist consular personnel.
 
-(Pub. L. 101–604, title II, § 206, Nov. 16, 1990, 104 Stat. 3084.)
+(Pub. L. 101–604, title II, § 206, Nov. 16, 1990, 104 Stat. 3084.)
 
-## § 5506. Department of State responsibilities and procedures at international disaster site
+## § 5506. Department of State responsibilities and procedures at international disaster site
 
 **(a) Dispatch of senior State Department official to site**
 
@@ -147,7 +147,7 @@ Not later than 60 days after November 16, 1990, the Secretary of State shall iss
 
 Not later than 60 days after November 16, 1990, the Secretary of State shall promulgate procedures for the deployment of a “crisis team”, which may include public affairs, forensic, and bereavement experts, to the site of any international disaster involving United States citizens abroad to augment in-country Embassy and consulate staff. The Secretary of State shall promptly issue such rules and guidelines as are necessary to implement procedures developed pursuant to this subsection.
 
-(Pub. L. 101–604, title II, § 207, Nov. 16, 1990, 104 Stat. 3084.)
+(Pub. L. 101–604, title II, § 207, Nov. 16, 1990, 104 Stat. 3084.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -155,13 +155,13 @@ Not later than 60 days after November 16, 1990, the Secretary of State shall pro
 
 Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
 
-## § 5507. Recovery and disposition of remains and personal effects
+## § 5507. Recovery and disposition of remains and personal effects
 
 It is the policy of the Department of State (pursuant to section 2715 of this title) to provide liaison with foreign governments and persons and with United States air carriers concerning arrangements for the preparation and transport to the United States of the remains of citizens who die abroad, as well as the disposition of personal effects. The Secretary of State shall ensure that regulations and guidelines of the Department of State reflect such policy and that such assistance is rendered to the families of United States citizens who are killed in terrorist incidents and disasters abroad.
 
-(Pub. L. 101–604, title II, § 208, Nov. 16, 1990, 104 Stat. 3085.)
+(Pub. L. 101–604, title II, § 208, Nov. 16, 1990, 104 Stat. 3085.)
 
-## § 5508. Assessment of Lockerbie experience
+## § 5508. Assessment of Lockerbie experience
 
 **(a) Assessment**
 
@@ -171,15 +171,15 @@ The Secretary of State shall compile an assessment of the Department of State re
 
 The Secretary of State shall establish, based on the assessment compiled under subsection (a) and other relevant factors, guidelines for future Department of State responses to comparable disasters and shall distribute such guidelines to all United States diplomatic and consular posts abroad.
 
-(Pub. L. 101–604, title II, § 209, Nov. 16, 1990, 104 Stat. 3085.)
+(Pub. L. 101–604, title II, § 209, Nov. 16, 1990, 104 Stat. 3085.)
 
-## § 5509. Official Department of State recognition
+## § 5509. Official Department of State recognition
 
 Not later than 60 days after November 16, 1990, the Secretary of State shall promulgate guidelines for appropriate ceremonies or other official expressions of respect and support for the families of United States citizens who are killed through acts of terrorism abroad.
 
-(Pub. L. 101–604, title II, § 210, Nov. 16, 1990, 104 Stat. 3085.)
+(Pub. L. 101–604, title II, § 210, Nov. 16, 1990, 104 Stat. 3085.)
 
-## § 5510. United States Government compensation for victims of terrorism
+## § 5510. United States Government compensation for victims of terrorism
 
 **(a) Compensation**
 
@@ -201,7 +201,7 @@ The President may establish a board to develop criteria for compensation and to 
 
 In no case may the tax benefit pursuant to paragraph (1) for any taxable year, for any individual, exceed an amount equal to 28 percent of the annual rate of basic pay at Level V of the Executive Schedule of the United States as of December 21, 1988.
 
-(Pub. L. 101–604, title II, § 211, Nov. 16, 1990, 104 Stat. 3085.)
+(Pub. L. 101–604, title II, § 211, Nov. 16, 1990, 104 Stat. 3085.)
 
 **Editorial Notes**
 
@@ -209,11 +209,11 @@ In no case may the tax benefit pursuant to paragraph (1) for any taxable year, f
 
 Level V of the Executive Schedule, referred to in subsec. (c)(2), is set out in section 5316 of Title 5, Government Organization and Employees.
 
-## § 5511. Overseas Security Electronic Bulletin Board
+## § 5511. Overseas Security Electronic Bulletin Board
 
 Not later than 60 days after November 16, 1990, the Secretary of State shall issue such rules and regulations as may be necessary to establish, under the Bureau of Consular Affairs, an electronic bulletin board accessible to the general public. Such bulletin board shall contain all information, updated daily, which is available on the Overseas Security Electronic Bulletin Board of the Bureau of Diplomatic Security.
 
-(Pub. L. 101–604, title II, § 212, Nov. 16, 1990, 104 Stat. 3086.)
+(Pub. L. 101–604, title II, § 212, Nov. 16, 1990, 104 Stat. 3086.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -221,7 +221,7 @@ Not later than 60 days after November 16, 1990, the Secretary of State shall iss
 
 Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
 
-## § 5512. Antiterrorism measures
+## § 5512. Antiterrorism measures
 
 **(a) Guidelines for international aviation travelers**
 
@@ -233,9 +233,9 @@ The Secretary of State and the Secretary of Transportation in all appropriate fo
 
 **(c) Publication of rewards for terrorism-related information**
 
-For the purpose of notifying the public, the Secretary of State shall publish the availability of United States Government rewards for information on international terrorist-related activities, including rewards available under section 2708(a) 1
+For the purpose of notifying the public, the Secretary of State shall publish the availability of United States Government rewards for information on international terrorist-related activities, including rewards available under section 2708(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title and chapter 204 of title 18. To the extent appropriate and feasible, notices making such publication shall be posted and prominently displayed domestically and abroad in international airports.
 
@@ -243,16 +243,16 @@ of this title and chapter 204 of title 18. To the extent appropriate and feasibl
 
 It is the sense of Congress that the Secretary of Transportation should take appropriate measures to utilize and train properly the officers and employees of other United States Government agencies who have functions at international airports in the United States and abroad in the detection of explosives and firearms which could be a threat to international civil aviation.
 
-(Pub. L. 101–604, title II, § 214, Nov. 16, 1990, 104 Stat. 3087.)
+(Pub. L. 101–604, title II, § 214, Nov. 16, 1990, 104 Stat. 3087.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2708 of this title, referred to in subsec. (c), was amended generally by Pub. L. 105–323, title I, § 101, Oct. 30, 1998, 112 Stat. 3029, and, as so amended, provisions authorizing awards, formerly contained in section 2708(a), are now contained in section 2708(b).
+Section 2708 of this title, referred to in subsec. (c), was amended generally by Pub. L. 105–323, title I, § 101, Oct. 30, 1998, 112 Stat. 3029, and, as so amended, provisions authorizing awards, formerly contained in section 2708(a), are now contained in section 2708(b).
 
-## § 5513. Proposal for consideration by International Civil Aviation Organization
+## § 5513. Proposal for consideration by International Civil Aviation Organization
 
 Not later than 60 days after November 16, 1990, the Secretary of State, in consultation with the Secretary of Transportation, shall propose to the International Civil Aviation Organization the establishment of a comprehensive aviation security program which shall include (1) training for airport security personnel, (2) grants for security equipment acquisition for certain nations, and (3) expansion of the appropriate utilization of canine teams in the detection of explosive devices in all airport areas, including use in passenger screening areas and nonpublic baggage assembly and processing areas.
 
-(Pub. L. 101–604, title II, § 215, Nov. 16, 1990, 104 Stat. 3087.)
+(Pub. L. 101–604, title II, § 215, Nov. 16, 1990, 104 Stat. 3087.)

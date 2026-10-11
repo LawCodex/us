@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1982—Pub. L. 97–164, title I, § 138, Apr. 2, 1982, 96 Stat. 42, struck out item 2353 “Decision of the Plant Variety Protection Office”.
+1982—Pub. L. 97–164, title I, § 138, Apr. 2, 1982, 96 Stat. 42, struck out item 2353 “Decision of the Plant Variety Protection Office”.
 
-1966—Pub. L. 89–773, § 4, Nov. 6, 1966, 80 Stat. 1323, struck out item 2352 “Rules”.
+1966—Pub. L. 89–773, § 4, Nov. 6, 1966, 80 Stat. 1323, struck out item 2352 “Rules”.
 
-## § 2341. Definitions
+## § 2341. Definitions
 
 As used in this chapter—
 
@@ -43,18 +43,18 @@ As used in this chapter—
 
 **(E)** the Board, when the order was entered by the Surface Transportation Board.
 
-(Added Pub. L. 89–554, § 4(e), Sept. 6, 1966, 80 Stat. 622; amended Pub. L. 93–584, § 3, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 100–430, § 11(b), Sept. 13, 1988, 102 Stat. 1635; Pub. L. 102–365, § 5(c)(1), Sept. 3, 1992, 106 Stat. 975; Pub. L. 104–88, title III, § 305(d)(1)–(4), Dec. 29, 1995, 109 Stat. 945.)
+(Added Pub. L. 89–554, § 4(e), Sept. 6, 1966, 80 Stat. 622; amended Pub. L. 93–584, § 3, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 100–430, § 11(b), Sept. 13, 1988, 102 Stat. 1635; Pub. L. 102–365, § 5(c)(1), Sept. 3, 1992, 106 Stat. 975; Pub. L. 104–88, title III, § 305(d)(1)–(4), Dec. 29, 1995, 109 Stat. 945.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1031. | Dec. 29, 1950, ch. 1189, § 1, 64 Stat. 1129. |
-|  |  | Aug. 30, 1954, ch. 1073, § 2(a), 68 Stat. 961. |
+|  | 5 U.S.C. 1031. | Dec. 29, 1950, ch. 1189, § 1, 64 Stat. 1129. |
+|  |  | Aug. 30, 1954, ch. 1073, § 2(a), 68 Stat. 961. |
 
 Subsection (a) of former section 1031 of title 5 is omitted as unnecessary because the term “court of appeals” as used in title 28 means a United States Court of Appeals and no additional definition is necessary.
 
-In paragraph (3), reference to the United States Maritime Commission is omitted because that Commission was abolished by 1950 Reorg. Plan No. 21, § 306, eff. May 24, 1950, 64 Stat. 1277. Reference to “Federal Maritime Commission” is substituted for “Federal Maritime Board” on authority of 1961 Reorg. Plan No. 7, eff. Aug. 12, 1961, 75 Stat. 840.
+In paragraph (3), reference to the United States Maritime Commission is omitted because that Commission was abolished by 1950 Reorg. Plan No. 21, § 306, eff. May 24, 1950, 64 Stat. 1277. Reference to “Federal Maritime Commission” is substituted for “Federal Maritime Board” on authority of 1961 Reorg. Plan No. 7, eff. Aug. 12, 1961, 75 Stat. 840.
 
 **Editorial Notes**
 
@@ -64,9 +64,9 @@ Section 812 of the Fair Housing Act, referred to in par. (3)(D), is classified t
 
 **Amendments**
 
-1995—Par. (3)(A). Pub. L. 104–88, § 305(d)(1), struck out “the Interstate Commerce Commission,” after “Maritime Commission,”.
+1995—Par. (3)(A). Pub. L. 104–88, § 305(d)(1), struck out “the Interstate Commerce Commission,” after “Maritime Commission,”.
 
-Par. (3)(E). Pub. L. 104–88, § 305(d)(2)–(4), added subpar. (E).
+Par. (3)(E). Pub. L. 104–88, § 305(d)(2)–(4), added subpar. (E).
 
 1992—Par. (3)(B). Pub. L. 102–365 inserted “or the Secretary of Transportation” after “Secretary of Agriculture”.
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 93–584 not applicable to actions commenced on or before l
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See, also, Transfer of Functions notes set out under those sections.
 
-## § 2342. Jurisdiction of court of appeals
+## § 2342. Jurisdiction of court of appeals
 
 The court of appeals (other than the United States Court of Appeals for the Federal Circuit) has exclusive jurisdiction to enjoin, set aside, suspend (in whole or in part), or to determine the validity of—
 
@@ -106,7 +106,7 @@ The court of appeals (other than the United States Court of Appeals for the Fede
 
 **(B)** the Federal Maritime Commission issued pursuant to section 305,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 41304, 41308, or 41309 or chapter 421 or 441 of title 46;
 
@@ -120,34 +120,34 @@ The court of appeals (other than the United States Court of Appeals for the Fede
 
 Jurisdiction is invoked by filing a petition as provided by section 2344 of this title.
 
-(Added Pub. L. 89–554, § 4(e), Sept. 6, 1966, 80 Stat. 622; amended Pub. L. 93–584, § 4, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 95–454, title II, § 206, Oct. 13, 1978, 92 Stat. 1144; Pub. L. 96–454, § 8(b)(2), Oct. 15, 1980, 94 Stat. 2021; Pub. L. 97–164, title I, § 137, Apr. 2, 1982, 96 Stat. 41; Pub. L. 98–554, title II, § 227(a)(4), Oct. 30, 1984, 98 Stat. 2852; Pub. L. 99–336, § 5(a), June 19, 1986, 100 Stat. 638; Pub. L. 100–430, § 11(a), Sept. 13, 1988, 102 Stat. 1635; Pub. L. 102–365, § 5(c)(2), Sept. 3, 1992, 106 Stat. 975; Pub. L. 103–272, § 5(h), July 5, 1994, 108 Stat. 1375; Pub. L. 104–88, title III, § 305(d)(5)–(8), Dec. 29, 1995, 109 Stat. 945; Pub. L. 104–287, § 6(f)(2), Oct. 11, 1996, 110 Stat. 3399; Pub. L. 109–59, title IV, § 4125(a), Aug. 10, 2005, 119 Stat. 1738; Pub. L. 109–304, § 17(f)(3), Oct. 6, 2006, 120 Stat. 1708.)
+(Added Pub. L. 89–554, § 4(e), Sept. 6, 1966, 80 Stat. 622; amended Pub. L. 93–584, § 4, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 95–454, title II, § 206, Oct. 13, 1978, 92 Stat. 1144; Pub. L. 96–454, § 8(b)(2), Oct. 15, 1980, 94 Stat. 2021; Pub. L. 97–164, title I, § 137, Apr. 2, 1982, 96 Stat. 41; Pub. L. 98–554, title II, § 227(a)(4), Oct. 30, 1984, 98 Stat. 2852; Pub. L. 99–336, § 5(a), June 19, 1986, 100 Stat. 638; Pub. L. 100–430, § 11(a), Sept. 13, 1988, 102 Stat. 1635; Pub. L. 102–365, § 5(c)(2), Sept. 3, 1992, 106 Stat. 975; Pub. L. 103–272, § 5(h), July 5, 1994, 108 Stat. 1375; Pub. L. 104–88, title III, § 305(d)(5)–(8), Dec. 29, 1995, 109 Stat. 945; Pub. L. 104–287, § 6(f)(2), Oct. 11, 1996, 110 Stat. 3399; Pub. L. 109–59, title IV, § 4125(a), Aug. 10, 2005, 119 Stat. 1738; Pub. L. 109–304, § 17(f)(3), Oct. 6, 2006, 120 Stat. 1708.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1032. | Dec. 29, 1950, ch. 1189, § 2, 64 Stat. 1129. |
-|  |  | Aug. 30, 1954, ch. 1073, § 2(b), 68 Stat. 961. |
+|  | 5 U.S.C. 1032. | Dec. 29, 1950, ch. 1189, § 2, 64 Stat. 1129. |
+|  |  | Aug. 30, 1954, ch. 1073, § 2(b), 68 Stat. 961. |
 
 The words “have exclusive jurisdiction” are substituted for “shall have exclusive jurisdiction”.
 
 In paragraph (1), the word “by” is substituted for “in accordance with”.
 
-In paragraph (3), the word “now” is omitted as unnecessary. The word “under” is substituted for “pursuant to the provisions of”. Reference to “Federal Maritime Commission” is substituted for “Federal Maritime Board” on authority of 1961 Reorg. Plan No. 7, eff. Aug. 12, 1961, 75 Stat. 840. Reference to the United States Maritime Commission is omitted because that Commission was abolished by 1950 Reorg. Plan No. 21, § 306, eff. May 24, 1951, 64 Stat. 1277, and any existing rights are preserved by technical sections 7 and 8.
+In paragraph (3), the word “now” is omitted as unnecessary. The word “under” is substituted for “pursuant to the provisions of”. Reference to “Federal Maritime Commission” is substituted for “Federal Maritime Board” on authority of 1961 Reorg. Plan No. 7, eff. Aug. 12, 1961, 75 Stat. 840. Reference to the United States Maritime Commission is omitted because that Commission was abolished by 1950 Reorg. Plan No. 21, § 306, eff. May 24, 1951, 64 Stat. 1277, and any existing rights are preserved by technical sections 7 and 8.
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 305 of title 46, referred to in par. (3)(B), was redesignated section 46105 of Title 46, Shipping, by Pub. L. 116–283, div. G, title LVXXXVI, § 8605(a)(3), Jan. 1, 2021, 134 Stat. 4765.
+Section 305 of title 46, referred to in par. (3)(B), was redesignated section 46105 of Title 46, Shipping, by Pub. L. 116–283, div. G, title LVXXXVI, § 8605(a)(3), Jan. 1, 2021, 134 Stat. 4765.
 
 Section 812 of the Fair Housing Act, referred to in par. (6), is classified to section 3612 of Title 42, The Public Health and Welfare.
 
 **Amendments**
 
-2006—Par. (3)(A). Pub. L. 109–304, § 17(f)(3)(A), substituted “section 50501, 50502, 56101–56104, or 57109 of title 46” for “section 2, 9, 37, or 41 of the Shipping Act, 1916 (46 U.S.C. App. 802, 803, 808, 835, 839, and 841a)”.
+2006—Par. (3)(A). Pub. L. 109–304, § 17(f)(3)(A), substituted “section 50501, 50502, 56101–56104, or 57109 of title 46” for “section 2, 9, 37, or 41 of the Shipping Act, 1916 (46 U.S.C. App. 802, 803, 808, 835, 839, and 841a)”.
 
-Par. (3)(B). Pub. L. 109–304, § 17(f)(3)(B), added subpar. (B) and struck out former subpar. (B) which read as follows:
+Par. (3)(B). Pub. L. 109–304, § 17(f)(3)(B), added subpar. (B) and struck out former subpar. (B) which read as follows:
 
 “(B) the Federal Maritime Commission issued pursuant to—
 
@@ -157,21 +157,21 @@ Par. (3)(B). Pub. L. 109–304, § 17(f)(3)(B), added subpar. (B) and struck o
 
 “(iii) section 2(d) or 3(d) of the Act of November 6, 1966 (46 U.S.C. App. 817d(d) or 817e(d);”.
 
-2005—Par. (3)(A). Pub. L. 109–59 inserted “, subchapter III of chapter 311, chapter 313, or chapter 315” before “of title 49”.
+2005—Par. (3)(A). Pub. L. 109–59 inserted “, subchapter III of chapter 311, chapter 313, or chapter 315” before “of title 49”.
 
-1996—Par. (3)(A). Pub. L. 104–287 amended Pub. L. 104–88, § 305(d)(6). See 1995 Amendment note below.
+1996—Par. (3)(A). Pub. L. 104–287 amended Pub. L. 104–88, § 305(d)(6). See 1995 Amendment note below.
 
-1995—Par. (3)(A). Pub. L. 104–88, § 305(d)(6), as amended by Pub. L. 104–287, inserted “or pursuant to part B or C of subtitle IV of title 49” before the semicolon.
+1995—Par. (3)(A). Pub. L. 104–88, § 305(d)(6), as amended by Pub. L. 104–287, inserted “or pursuant to part B or C of subtitle IV of title 49” before the semicolon.
 
-Pub. L. 104–88, § 305(d)(5), substituted “or 41” for “41, or 43”.
+Pub. L. 104–88, § 305(d)(5), substituted “or 41” for “41, or 43”.
 
-Par. (3)(B). Pub. L. 104–88, § 305(d)(7), redesignated cls. (ii), (iv), and (v) as (i), (ii), and (iii), respectively, and struck out former cls. (i) and (iii) which read as follows:
+Par. (3)(B). Pub. L. 104–88, § 305(d)(7), redesignated cls. (ii), (iv), and (v) as (i), (ii), and (iii), respectively, and struck out former cls. (i) and (iii) which read as follows:
 
 “(i) section 23, 25, or 43 of the Shipping Act, 1916 (46 U.S.C. App. 822, 824, or 841a);
 
 “(iii) section 2, 3, 4, or 5 of the Intercoastal Shipping Act, 1933 (46 U.S.C. App. 844, 845, 845a, or 845b);”.
 
-Par. (5). Pub. L. 104–88, § 305(d)(8), added par. (5) and struck out former par. (5) which read as follows: “all rules, regulations, or final orders of the Interstate Commerce Commission made reviewable by section 2321 of this title and all final orders of such Commission made reviewable under section 11901(j)(2) of title 49, United States Code;”.
+Par. (5). Pub. L. 104–88, § 305(d)(8), added par. (5) and struck out former par. (5) which read as follows: “all rules, regulations, or final orders of the Interstate Commerce Commission made reviewable by section 2321 of this title and all final orders of such Commission made reviewable under section 11901(j)(2) of title 49, United States Code;”.
 
 1994—Par. (7). Pub. L. 103–272 substituted “section 20114(c) of title 49” for “section 202(f) of the Federal Railroad Safety Act of 1970”.
 
@@ -195,7 +195,7 @@ Par. (5). Pub. L. 104–88, § 305(d)(8), added par. (5) and struck out former
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–287, § 6(f), Oct. 11, 1996, 110 Stat. 3399, provided that the amendment made by that section is effective Dec. 29, 1995.
+Pub. L. 104–287, § 6(f), Oct. 11, 1996, 110 Stat. 3399, provided that the amendment made by that section is effective Dec. 29, 1995.
 
 **Effective Date of 1995 Amendment**
 
@@ -207,7 +207,7 @@ Amendment by Pub. L. 100–430 effective on 180th day beginning after Sept. 13, 
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–336, § 5(b), June 19, 1986, 100 Stat. 638, provided that: “The amendment made by this section [amending this section] shall apply with respect to any rule, regulation, or final order described in such amendment which is issued on or after the date of the enactment of this Act [June 19, 1986].”
+Pub. L. 99–336, § 5(b), June 19, 1986, 100 Stat. 638, provided that: “The amendment made by this section [amending this section] shall apply with respect to any rule, regulation, or final order described in such amendment which is issued on or after the date of the enactment of this Act [June 19, 1986].”
 
 **Effective Date of 1982 Amendment**
 
@@ -225,21 +225,21 @@ Amendment by Pub. L. 93–584 not applicable to actions commenced on or before l
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See, also, Transfer of Functions notes set out under those sections.
 
-## § 2343. Venue
+## § 2343. Venue
 
 The venue of a proceeding under this chapter is in the judicial circuit in which the petitioner resides or has its principal office, or in the United States Court of Appeals for the District of Columbia Circuit.
 
-(Added Pub. L. 89–554, § 4(e), Sept. 6, 1966, 80 Stat. 622.)
+(Added Pub. L. 89–554, § 4(e), Sept. 6, 1966, 80 Stat. 622.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1033. | Dec. 29, 1950, ch. 1189, § 3, 64 Stat. 1130. |
+|  | 5 U.S.C. 1033. | Dec. 29, 1950, ch. 1189, § 3, 64 Stat. 1130. |
 
 The section is reorganized for clarity and conciseness. The word “is” is substituted for “shall be”. The word “petitioner” is substituted for “party or any of the parties filing the petition for review” in view of the definition of “petitioner” in section 2341 of this title.
 
-## § 2344. Review of orders; time; notice; contents of petition; service
+## § 2344. Review of orders; time; notice; contents of petition; service
 
 On the entry of a final order reviewable under this chapter, the agency shall promptly give notice thereof by service or publication in accordance with its rules. Any party aggrieved by the final order may, within 60 days after its entry, file a petition to review the order in the court of appeals wherein venue lies. The action shall be against the United States. The petition shall contain a concise statement of—
 
@@ -253,44 +253,44 @@ On the entry of a final order reviewable under this chapter, the agency shall pr
 
 The petitioner shall attach to the petition, as exhibits, copies of the order, report, or decision of the agency. The clerk shall serve a true copy of the petition on the agency and on the Attorney General by registered mail, with request for a return receipt.
 
-(Added Pub. L. 89–554, § 4(e), Sept. 6, 1966, 80 Stat. 622.)
+(Added Pub. L. 89–554, § 4(e), Sept. 6, 1966, 80 Stat. 622.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1034. | Dec. 29, 1950, ch. 1189, § 4, 64 Stat. 1130. |
+|  | 5 U.S.C. 1034. | Dec. 29, 1950, ch. 1189, § 4, 64 Stat. 1130. |
 
 The section is reorganized, with minor changes in phraseology. The words “as prescribed by section 1033 of this title” are omitted as surplusage. The words “of the United States” following “Attorney General” are omitted as unnecessary.
 
-## § 2345. Prehearing conference
+## § 2345. Prehearing conference
 
 The court of appeals may hold a prehearing conference or direct a judge of the court to hold a prehearing conference.
 
-(Added Pub. L. 89–554, § 4(e), Sept. 6, 1966, 80 Stat. 622.)
+(Added Pub. L. 89–554, § 4(e), Sept. 6, 1966, 80 Stat. 622.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1035. | Dec. 29, 1950, ch. 1189, § 5, 64 Stat. 1130. |
+|  | 5 U.S.C. 1035. | Dec. 29, 1950, ch. 1189, § 5, 64 Stat. 1130. |
 
-## § 2346. Certification of record on review
+## § 2346. Certification of record on review
 
 Unless the proceeding has been terminated on a motion to dismiss the petition, the agency shall file in the office of the clerk the record on review as provided by section 2112 of this title.
 
-(Added Pub. L. 89–554, § 4(e), Sept. 6, 1966, 80 Stat. 623.)
+(Added Pub. L. 89–554, § 4(e), Sept. 6, 1966, 80 Stat. 623.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1036. | Dec. 29, 1950, ch. 1189, § 6, 64 Stat. 1130. |
-|  |  | Aug. 28, 1958, Pub. L. 85–791, § 31(a), 72 Stat. 951. |
+|  | 5 U.S.C. 1036. | Dec. 29, 1950, ch. 1189, § 6, 64 Stat. 1130. |
+|  |  | Aug. 28, 1958, Pub. L. 85–791, § 31(a), 72 Stat. 951. |
 
 The words “of the court of appeals in which the proceeding is pending” are omitted as unnecessary in view of the definition of “clerk” in section 2341 of this title, and by reason of the exclusive jurisdiction of the court of appeals set forth in section 2342 of this title.
 
-## § 2347. Petitions to review; proceedings
+## § 2347. Petitions to review; proceedings
 
 **(a)** Unless determined on a motion to dismiss, petitions to review orders reviewable under this chapter are heard in the court of appeals on the record of the pleadings, evidence adduced, and proceedings before the agency, when the agency has held a hearing whether or not required to do so by law.
 
@@ -310,14 +310,14 @@ The words “of the court of appeals in which the proceeding is pending” are o
 
 the court may order the additional evidence and any counterevidence the opposite party desires to offer to be taken by the agency. The agency may modify its findings of fact, or make new findings, by reason of the additional evidence so taken, and may modify or set aside its order, and shall file in the court the additional evidence, the modified findings or new findings, and the modified order or the order setting aside the original order.
 
-(Added Pub. L. 89–554, § 4(e), Sept. 6, 1966, 80 Stat. 623.)
+(Added Pub. L. 89–554, § 4(e), Sept. 6, 1966, 80 Stat. 623.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1037. | Dec. 29, 1950, ch. 1189, § 7, 64 Stat. 1130. |
-|  |  | Aug. 28, 1958, Pub. L. 85–791, § 31(b), 72 Stat. 951. |
+|  | 5 U.S.C. 1037. | Dec. 29, 1950, ch. 1189, § 7, 64 Stat. 1130. |
+|  |  | Aug. 28, 1958, Pub. L. 85–791, § 31(b), 72 Stat. 951. |
 
 The headnotes of the subsections are omitted as unnecessary and to conform to the style of title 28.
 
@@ -333,36 +333,36 @@ In subsection (c), the words “applies” and “shows” are substituted for �
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(3), are set out in the Appendix to this title.
 
-## § 2348. Representation in proceeding; intervention
+## § 2348. Representation in proceeding; intervention
 
 The Attorney General is responsible for and has control of the interests of the Government in all court proceedings under this chapter. The agency, and any party in interest in the proceeding before the agency whose interests will be affected if an order of the agency is or is not enjoined, set aside, or suspended, may appear as parties thereto of their own motion and as of right, and be represented by counsel in any proceeding to review the order. Communities, associations, corporations, firms, and individuals, whose interests are affected by the order of the agency, may intervene in any proceeding to review the order. The Attorney General may not dispose of or discontinue the proceeding to review over the objection of any party or intervenor, but any intervenor may prosecute, defend, or continue the proceeding unaffected by the action or inaction of the Attorney General.
 
-(Added Pub. L. 89–554, § 4(e), Sept. 6, 1966, 80 Stat. 623.)
+(Added Pub. L. 89–554, § 4(e), Sept. 6, 1966, 80 Stat. 623.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1038. | Dec. 29, 1950, ch. 1189, § 8, 64 Stat. 1131. |
+|  | 5 U.S.C. 1038. | Dec. 29, 1950, ch. 1189, § 8, 64 Stat. 1131. |
 
 In the first sentence, the words “is responsible for and has control” are substituted for “shall be responsible for and have charge and control”.
 
 In the last sentence, the word “may” is substituted for “shall”. The word “aforesaid” following “any party or intervenor” is omitted as unnecessary. The words “any intervenor” and “inaction” are substituted for “said intervenor or intervenors” and “nonaction”, respectively.
 
-## § 2349. Jurisdiction of the proceeding
+## § 2349. Jurisdiction of the proceeding
 
 **(a)** The court of appeals has jurisdiction of the proceeding on the filing and service of a petition to review. The court of appeals in which the record on review is filed, on the filing, has jurisdiction to vacate stay orders or interlocutory injunctions previously granted by any court, and has exclusive jurisdiction to make and enter, on the petition, evidence, and proceedings set forth in the record on review, a judgment determining the validity of, and enjoining, setting aside, or suspending, in whole or in part, the order of the agency.
 
 **(b)** The filing of the petition to review does not of itself stay or suspend the operation of the order of the agency, but the court of appeals in its discretion may restrain or suspend, in whole or in part, the operation of the order pending the final hearing and determination of the petition. When the petitioner makes application for an interlocutory injunction restraining or suspending the enforcement, operation, or execution of, or setting aside, in whole or in part, any order reviewable under this chapter, at least 5 days’ notice of the hearing thereon shall be given to the agency and to the Attorney General. In a case in which irreparable damage would otherwise result to the petitioner, the court of appeals may, on hearing, after reasonable notice to the agency and to the Attorney General, order a temporary stay or suspension, in whole or in part, of the operation of the order of the agency for not more than 60 days from the date of the order pending the hearing on the application for the interlocutory injunction, in which case the order of the court of appeals shall contain a specific finding, based on evidence submitted to the court of appeals, and identified by reference thereto, that irreparable damage would result to the petitioner and specifying the nature of the damage. The court of appeals, at the time of hearing the application for an interlocutory injunction, on a like finding, may continue the temporary stay or suspension, in whole or in part, until decision on the application.
 
-(Added Pub. L. 89–554, § 4(e), Sept. 6, 1966, 80 Stat. 624; amended Pub. L. 98–620, title IV, § 402(29)(F), Nov. 8, 1984, 98 Stat. 3359.)
+(Added Pub. L. 89–554, § 4(e), Sept. 6, 1966, 80 Stat. 624; amended Pub. L. 98–620, title IV, § 402(29)(F), Nov. 8, 1984, 98 Stat. 3359.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1039. | Dec. 29, 1950, ch. 1189, § 9, 64 Stat. 1131. |
-|  |  | Sept. 13, 1961, Pub. L. 87–225, § 1, 75 Stat. 497. |
+|  | 5 U.S.C. 1039. | Dec. 29, 1950, ch. 1189, § 9, 64 Stat. 1131. |
+|  |  | Sept. 13, 1961, Pub. L. 87–225, § 1, 75 Stat. 497. |
 
 The headnotes of the subsections are omitted as unnecessary and to conform to the style of title 28.
 
@@ -382,23 +382,23 @@ In subsection (b), the words “does not” are substituted for “shall not”.
 
 Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620 set out as an Effective Date note under section 1657 of this title.
 
-## § 2350. Review in Supreme Court on certiorari or certification
+## § 2350. Review in Supreme Court on certiorari or certification
 
 **(a)** An order granting or denying an interlocutory injunction under section 2349(b) of this title and a final judgment of the court of appeals in a proceeding to review under this chapter are subject to review by the Supreme Court on a writ of certiorari as provided by section 1254(1) of this title. Application for the writ shall be made within 45 days after entry of the order and within 90 days after entry of the judgment, as the case may be. The United States, the agency, or an aggrieved party may file a petition for a writ of certiorari.
 
 **(b)** The provisions of section 1254(2) of this title, regarding certification, and of section 2101(f) of this title, regarding stays, also apply to proceedings under this chapter.
 
-(Added Pub. L. 89–554, § 4(e), Sept. 6, 1966, 80 Stat. 624; amended Pub. L. 100–352, § 5(e), June 27, 1988, 102 Stat. 663.)
+(Added Pub. L. 89–554, § 4(e), Sept. 6, 1966, 80 Stat. 624; amended Pub. L. 100–352, § 5(e), June 27, 1988, 102 Stat. 663.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1040. | Dec. 29, 1950, ch. 1189, § 10, 64 Stat. 1132. |
+|  | 5 U.S.C. 1040. | Dec. 29, 1950, ch. 1189, § 10, 64 Stat. 1132. |
 
 The words “of the United States” following “Supreme Court” are omitted as unnecessary because the term “Supreme Court” as used in title 28 means the Supreme Court of the United States.
 
-The words “section 2101(f) of this title” are substituted for “section 2101(e) of Title 28” on authority of the Act of May 24, 1949, ch. 139, § 106(b), 63 Stat. 104, which redesignated subsection (e) of section 2101 as subsection (f).
+The words “section 2101(f) of this title” are substituted for “section 2101(e) of Title 28” on authority of the Act of May 24, 1949, ch. 139, § 106(b), 63 Stat. 104, which redesignated subsection (e) of section 2101 as subsection (f).
 
 **Editorial Notes**
 
@@ -412,33 +412,33 @@ The words “section 2101(f) of this title” are substituted for “section 210
 
 Amendment by Pub. L. 100–352 effective ninety days after June 27, 1988, except that such amendment not to apply to cases pending in Supreme Court on such effective date or affect right to review or manner of reviewing judgment or decree of court which was entered before such effective date, see section 7 of Pub. L. 100–352, set out as a note under section 1254 of this title.
 
-## § 2351. Enforcement of orders by district courts
+## § 2351. Enforcement of orders by district courts
 
 The several district courts have jurisdiction specifically to enforce, and to enjoin and restrain any person from violating any order issued under section 193 of title 7.
 
-(Added Pub. L. 89–554, § 4(e), Sept. 6, 1966, 80 Stat. 624.)
+(Added Pub. L. 89–554, § 4(e), Sept. 6, 1966, 80 Stat. 624.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1042. | Dec. 29, 1950, ch. 1189, § 12, 64 Stat. 1132. |
+|  | 5 U.S.C. 1042. | Dec. 29, 1950, ch. 1189, § 12, 64 Stat. 1132. |
 
 The words “United States” preceding “district court” are omitted as unnecessary because the term “district court” as used in title 28 means a United States district court. See section 451 of title 28, United States Code. The words “have jurisdiction” are substituted for “are vested with jurisdiction”. The words “heretofore or hereafter” following “order” are omitted as unnecessary and any existing rights and liabilities are preserved by technical sections 7 and 8.
 
-## [§ 2352. Repealed. Pub. L. 89–773, § 4, Nov. 6, 1966, 80 Stat. 1323]
+## [§ 2352. Repealed. Pub. L. 89–773, § 4, Nov. 6, 1966, 80 Stat. 1323]
 
-Section, Pub. L. 89–554, § 4(e), Sept. 6, 1966, 80 Stat. 624, directed the several courts of appeals to adopt and promulgate rules, subject to the approval of the Judicial Conference of the United States, governing the practice and procedure, including prehearing conference procedure, in proceedings to review orders under this chapter. See section 2072 of this title.
+Section, Pub. L. 89–554, § 4(e), Sept. 6, 1966, 80 Stat. 624, directed the several courts of appeals to adopt and promulgate rules, subject to the approval of the Judicial Conference of the United States, governing the practice and procedure, including prehearing conference procedure, in proceedings to review orders under this chapter. See section 2072 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Savings Provision**
 
-Pub. L. 89–773, § 4, Nov. 6, 1966, 80 Stat. 1323, provided in part that the repeal of this section shall not operate to invalidate or repeal rules adopted under the authority of this section prior to the enactment of Pub. L. 89–773, which rules shall remain in effect until superseded by rules prescribed under authority of section 2072 of this title as amended by Pub. L. 89–773.
+Pub. L. 89–773, § 4, Nov. 6, 1966, 80 Stat. 1323, provided in part that the repeal of this section shall not operate to invalidate or repeal rules adopted under the authority of this section prior to the enactment of Pub. L. 89–773, which rules shall remain in effect until superseded by rules prescribed under authority of section 2072 of this title as amended by Pub. L. 89–773.
 
-## [§ 2353. Repealed. Pub. L. 97–164, title I, § 138, Apr. 2, 1982, 96 Stat. 42]
+## [§ 2353. Repealed. Pub. L. 97–164, title I, § 138, Apr. 2, 1982, 96 Stat. 42]
 
-Section, added Pub. L. 91–577, title III, § 143(c), Dec. 24, 1970, 84 Stat. 1559, gave the court of appeals nonexclusive jurisdiction to hear appeals under section 71 of the Plant Variety Protection Act (7 U.S.C. 2461). See section 1295(a)(8) of this title.
+Section, added Pub. L. 91–577, title III, § 143(c), Dec. 24, 1970, 84 Stat. 1559, gave the court of appeals nonexclusive jurisdiction to hear appeals under section 71 of the Plant Variety Protection Act (7 U.S.C. 2461). See section 1295(a)(8) of this title.
 
 **Statutory Notes and Related Subsidiaries**
 

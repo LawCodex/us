@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 109B—SEX OFFENDER AND CRIMES AGAINST CHILDREN REGISTRY
 
-## § 2250. Failure to register
+## § 2250. Failure to register
 
 **(a) In General.—** Whoever—
 
@@ -33,9 +33,9 @@ shall be fined under this title or imprisoned not more than 10 years, or both.
 
 **(b) International Travel Reporting Violations.—** Whoever—
 
-**(1)** is required to register under the Sex Offender Registration and Notification Act (42 U.S.C. 16901 et seq.); 1
+**(1)** is required to register under the Sex Offender Registration and Notification Act (42 U.S.C. 16901 et seq.); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(2)** knowingly fails to provide information required by the Sex Offender Registration and Notification Act relating to intended travel in foreign commerce; and
 
@@ -57,15 +57,15 @@ shall be fined under this title, imprisoned not more than 10 years, or both.
 
 **(2) Additional punishment.—** The punishment provided in paragraph (1) shall be in addition and consecutive to the punishment provided for the violation described in subsection (a) or (b).
 
-(Added Pub. L. 109–248, title I, § 141(a)(1), July 27, 2006, 120 Stat. 602; amended Pub. L. 114–119, § 6(b), Feb. 8, 2016, 130 Stat. 23.)
+(Added Pub. L. 109–248, title I, § 141(a)(1), July 27, 2006, 120 Stat. 602; amended Pub. L. 114–119, § 6(b), Feb. 8, 2016, 130 Stat. 23.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Sex Offender Registration and Notification Act, referred to in subsecs. (a)(1), (2)(A), (3) and (b)(1), (2), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which was classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare, prior to editorial reclassification as chapter 209 (§ 20901 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of Title 34 and Tables.
+The Sex Offender Registration and Notification Act, referred to in subsecs. (a)(1), (2)(A), (3) and (b)(1), (2), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which was classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare, prior to editorial reclassification as chapter 209 (§ 20901 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of Title 34 and Tables.
 
-The Uniform Code of Military Justice, referred to in subsecs. (a)(2)(A) and (d)(1), is classified generally to chapter 47 (§ 801 et seq.) of Title 10, Armed Forces.
+The Uniform Code of Military Justice, referred to in subsecs. (a)(2)(A) and (d)(1), is classified generally to chapter 47 (§ 801 et seq.) of Title 10, Armed Forces.
 
 **Amendments**
 

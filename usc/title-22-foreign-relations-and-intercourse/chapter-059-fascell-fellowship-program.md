@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 59—FASCELL FELLOWSHIP PROGRAM
 
-## § 4901. Fellowship program for temporary service at United States missions abroad
+## § 4901. Fellowship program for temporary service at United States missions abroad
 
 **(a) Establishment**
 
@@ -37,7 +37,7 @@ To receive a fellowship under this chapter, an individual must be a United State
 
 In carrying out this section, the Secretary of State shall actively recruit women and members of minority groups.
 
-(Pub. L. 99–399, title X, § 1002, Aug. 27, 1986, 100 Stat. 893; Pub. L. 101–454, § 9(b), Oct. 24, 1990, 104 Stat. 1065; Pub. L. 103–199, title III, § 303, Dec. 17, 1993, 107 Stat. 2323.)
+(Pub. L. 99–399, title X, § 1002, Aug. 27, 1986, 100 Stat. 893; Pub. L. 101–454, § 9(b), Oct. 24, 1990, 104 Stat. 1065; Pub. L. 103–199, title III, § 303, Dec. 17, 1993, 107 Stat. 2323.)
 
 **Editorial Notes**
 
@@ -45,23 +45,23 @@ In carrying out this section, the Secretary of State shall actively recruit wome
 
 1993—Pub. L. 103–199 substituted “abroad” for “in the Soviet Union and Eastern Europe” in section catchline.
 
-1990—Subsec. (a). Pub. L. 101–454, § 9(b)(1), substituted “which would otherwise be” for “formerly” and “abroad” for “in the Soviet Union or Eastern European countries”.
+1990—Subsec. (a). Pub. L. 101–454, § 9(b)(1), substituted “which would otherwise be” for “formerly” and “abroad” for “in the Soviet Union or Eastern European countries”.
 
-Subsec. (c). Pub. L. 101–454, § 9(b)(2), substituted “abroad” for “in the Soviet Union or an Eastern European country” and “that country’s” for “Soviet or Eastern European”.
+Subsec. (c). Pub. L. 101–454, § 9(b)(2), substituted “abroad” for “in the Soviet Union or an Eastern European country” and “that country’s” for “Soviet or Eastern European”.
 
-Subsec. (d). Pub. L. 101–454, § 9(b)(3), substituted “international affairs, foreign languages, or career and professional experience or interest in international affairs,” for “Soviet or Eastern European area studies or languages”.
+Subsec. (d). Pub. L. 101–454, § 9(b)(3), substituted “international affairs, foreign languages, or career and professional experience or interest in international affairs,” for “Soviet or Eastern European area studies or languages”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–454, § 9(a), Oct. 24, 1990, 104 Stat. 1065, provided that: “This section [amending this section and sections 4902 and 4904 of this title, and enacting provisions set out as a note under section 4902 of this title] may be cited as the ‘Fascell Fellowship Amendments Act of 1990’.”
+Pub. L. 101–454, § 9(a), Oct. 24, 1990, 104 Stat. 1065, provided that: “This section [amending this section and sections 4902 and 4904 of this title, and enacting provisions set out as a note under section 4902 of this title] may be cited as the ‘Fascell Fellowship Amendments Act of 1990’.”
 
 **Short Title**
 
-Pub. L. 99–399, title X, § 1001, Aug. 27, 1986, 100 Stat. 893, provided that: “This title [enacting this chapter] may be cited as the ‘Fascell Fellowship Act’.”
+Pub. L. 99–399, title X, § 1001, Aug. 27, 1986, 100 Stat. 893, provided that: “This title [enacting this chapter] may be cited as the ‘Fascell Fellowship Act’.”
 
-## § 4902. Fellowship Board
+## § 4902. Fellowship Board
 
 **(a) Establishment and function**
 
@@ -73,9 +73,9 @@ There is hereby established a Fellowship Board (hereafter in this chapter referr
 
 **(2)** An officer or employee of the Department of Commerce, designated by the Secretary of Commerce.
 
-**(3)** Five academic specialists in international affairs or foreign languages, appointed by the Secretary of State (in consultation with the chairman and ranking minority member of the Committee on Foreign Affairs of the House of Representatives and the chairman and ranking minority 1
+**(3)** Five academic specialists in international affairs or foreign languages, appointed by the Secretary of State (in consultation with the chairman and ranking minority member of the Committee on Foreign Affairs of the House of Representatives and the chairman and ranking minority 1
 
-<sup>1</sup>  So in original. Probably should be followed by “member”.
+<sup>1</sup> So in original. Probably should be followed by “member”.
 
 of the Committee on Foreign Relations of the Senate).
 
@@ -87,15 +87,15 @@ The Board shall meet at least once each year to select the individuals who will 
 
 Members of the Board shall receive no compensation on account of their service on the Board, but while away from their homes or regular places of business in the performance of their duties under this chapter, may be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
 
-(Pub. L. 99–399, title X, § 1003, Aug. 27, 1986, 100 Stat. 893; Pub. L. 101–454, § 9(c)(1), Oct. 24, 1990, 104 Stat. 1066; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(f), Oct. 21, 1998, 112 Stat. 2681–788.)
+(Pub. L. 99–399, title X, § 1003, Aug. 27, 1986, 100 Stat. 893; Pub. L. 101–454, § 9(c)(1), Oct. 24, 1990, 104 Stat. 1066; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(f), Oct. 21, 1998, 112 Stat. 2681–788.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Subsec. (b). Pub. L. 105–277, § 1335(f)(1), substituted “7 members” for “9 members” in introductory provisions.
+1998—Subsec. (b). Pub. L. 105–277, § 1335(f)(1), substituted “7 members” for “9 members” in introductory provisions.
 
-Subsec. (b)(3), (4). Pub. L. 105–277, § 1335(f)(2)–(4), redesignated par. (4) as (3), substituted “Five” for “Six”, and struck out former par. (3) which read as follows: “An officer or employee of the United States Information Agency, designated by the Director of that Agency.”
+Subsec. (b)(3), (4). Pub. L. 105–277, § 1335(f)(2)–(4), redesignated par. (4) as (3), substituted “Five” for “Six”, and struck out former par. (3) which read as follows: “An officer or employee of the United States Information Agency, designated by the Director of that Agency.”
 
 1990—Subsec. (b)(4). Pub. L. 101–454 substituted “international affairs or foreign languages,” for “Soviet or Eastern European area studies or languages,”.
 
@@ -107,9 +107,9 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–454, § 9(c)(2), Oct. 24, 1990, 104 Stat. 1066, provided that: “The amendment made by paragraph (1) [amending this section] shall apply only to appointments to the Fascell Fellowship Board after the date of the enactment of this section [Oct. 24, 1990] and shall not affect the service of members of such board on the date of the enactment of this section.”
+Pub. L. 101–454, § 9(c)(2), Oct. 24, 1990, 104 Stat. 1066, provided that: “The amendment made by paragraph (1) [amending this section] shall apply only to appointments to the Fascell Fellowship Board after the date of the enactment of this section [Oct. 24, 1990] and shall not affect the service of members of such board on the date of the enactment of this section.”
 
-## § 4903. Fellowships
+## § 4903. Fellowships
 
 **(a) Number**
 
@@ -135,7 +135,7 @@ Each Fellow may be given appropriate training at the George P. Shultz National F
 
 Subsection (d) of this section shall not take effect until October 1, 1986.
 
-(Pub. L. 99–399, title X, § 1004, Aug. 27, 1986, 100 Stat. 894; Pub. L. 102–511, title VIII, § 804(a), Oct. 24, 1992, 106 Stat. 3353; Pub. L. 107–132, § 1(b), Jan. 16, 2002, 115 Stat. 2412.)
+(Pub. L. 99–399, title X, § 1004, Aug. 27, 1986, 100 Stat. 894; Pub. L. 102–511, title VIII, § 804(a), Oct. 24, 1992, 106 Stat. 3353; Pub. L. 107–132, § 1(b), Jan. 16, 2002, 115 Stat. 2412.)
 
 **Editorial Notes**
 
@@ -149,9 +149,9 @@ Subsection (d) of this section shall not take effect until October 1, 1986.
 
 **Funding**
 
-Pub. L. 102–511, title VIII, § 804(b), Oct. 24, 1992, 106 Stat. 3353, provided that: “In addition to the funds made available pursuant to section 1005(c) of that Act [22 U.S.C. 4904(c)], funds authorized to be appropriated by chapter 11 of part I of the Foreign Assistance Act of 1961 [22 U.S.C. 2295 et seq.] may be used in carrying out the amendment made by subsection (a) [amending this section] with respect to missions in the independent states of the former Soviet Union.”
+Pub. L. 102–511, title VIII, § 804(b), Oct. 24, 1992, 106 Stat. 3353, provided that: “In addition to the funds made available pursuant to section 1005(c) of that Act [22 U.S.C. 4904(c)], funds authorized to be appropriated by chapter 11 of part I of the Foreign Assistance Act of 1961 [22 U.S.C. 2295 et seq.] may be used in carrying out the amendment made by subsection (a) [amending this section] with respect to missions in the independent states of the former Soviet Union.”
 
-## § 4904. Secretary of State
+## § 4904. Secretary of State
 
 **(a) Determinations**
 
@@ -169,7 +169,7 @@ The Secretary of State shall determine which of the individuals selected by the 
 
 Funds appropriated to the Department of State for “Salaries and Expenses” shall be used for the expenses incurred in carrying out this chapter.
 
-(Pub. L. 99–399, title X, § 1005, Aug. 27, 1986, 100 Stat. 894; Pub. L. 100–204, title I, § 187, Dec. 22, 1987, 101 Stat. 1368; Pub. L. 101–454, § 9(d), Oct. 24, 1990, 104 Stat. 1066.)
+(Pub. L. 99–399, title X, § 1005, Aug. 27, 1986, 100 Stat. 894; Pub. L. 100–204, title I, § 187, Dec. 22, 1987, 101 Stat. 1368; Pub. L. 101–454, § 9(d), Oct. 24, 1990, 104 Stat. 1066.)
 
 **Editorial Notes**
 

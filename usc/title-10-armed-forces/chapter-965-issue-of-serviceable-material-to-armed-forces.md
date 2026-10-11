@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 806(d)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 935 of this title as this chapter.
+2018—Pub. L. 115–232, div. A, title VIII, § 806(d)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 935 of this title as this chapter.
 
-## § 9561. Rations
+## § 9561. Rations
 
 **(a)** The President may prescribe the components, and the quantities thereof, of the Air Force ration and the Space Force ration. He may direct the issue of equivalent articles in place of the prescribed components whenever, in his opinion, economy and the health and comfort of the members of the Air Force or the Space Force so require.
 
@@ -29,13 +29,13 @@ retrieved: 2026-10-11
 
 **(c)** Fresh or preserved fruits, milk, butter, and eggs necessary for the proper diet of the sick in hospitals shall be provided under regulations approved by the Secretary.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 577; Pub. L. 116–283, div. A, title IX, § 923(e)(2), Jan. 1, 2021, 134 Stat. 3816.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 577; Pub. L. 116–283, div. A, title IX, § 923(e)(2), Jan. 1, 2021, 134 Stat. 3816.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9561(a) 9561(b) | 10:724. 10:716b. 10:725. | Feb. 2, 1901, ch. 192 § 40, 31 Stat. 758. |
+| 9561(a) 9561(b) | 10:724. 10:716b. 10:725. | Feb. 2, 1901, ch. 192 § 40, 31 Stat. 758. |
 | 9561(c) | 10:726. | R.S. 1293, July 16, 1892, ch. 195 (last 15 words before proviso under “Subsistence of the Army”), 27 Stat. 178. |
 |  |  | Mar. 2, 1907, ch. 2511 (1st proviso under “Subsistence Department”), 34 Stat. 1165. R.S. 1175. |
 
@@ -49,9 +49,9 @@ In subsection (c), the words “as the Surgeon General” are omitted, since the
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 116–283, § 923(e)(2)(A), inserted “and the Space Force ration” after “the Air Force ration” and “or the Space Force” after “the Air Force”.
+2021—Subsec. (a). Pub. L. 116–283, § 923(e)(2)(A), inserted “and the Space Force ration” after “the Air Force ration” and “or the Space Force” after “the Air Force”.
 
-Subsec. (b). Pub. L. 116–283, § 923(e)(2)(B), inserted “or the Space Force” after “the Air Force”.
+Subsec. (b). Pub. L. 116–283, § 923(e)(2)(B), inserted “or the Space Force” after “the Air Force”.
 
 **Executive Documents**
 
@@ -59,11 +59,11 @@ Subsec. (b). Pub. L. 116–283, § 923(e)(2)(B), inserted “or the Space Forc
 
 Authority of President under subsec. (a) of this section to prescribe uniform military ration applicable to Air Force delegated to Secretary of Defense by section 3(a) of Ex. Ord. No. 12781, Nov. 20, 1991, 56 F.R. 59203, set out as a note under section 301 of Title 3, The President.
 
-## § 9562. Clothing
+## § 9562. Clothing
 
 The President may prescribe the quantity and kind of clothing to be issued annually to members of the Air Force and members of the Space Force.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 577; Pub. L. 116–283, div. A, title IX, § 923(e)(3), Jan. 1, 2021, 134 Stat. 3816.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 577; Pub. L. 116–283, div. A, title IX, § 923(e)(3), Jan. 1, 2021, 134 Stat. 3816.)
 
 **Historical and Revision Notes**
 
@@ -79,11 +79,11 @@ The words “members of the Air Force” are substituted for the words “troops
 
 2021—Pub. L. 116–283 inserted “and members of the Space Force” after “the Air Force”.
 
-## § 9563. Clothing: replacement when destroyed to prevent contagion
+## § 9563. Clothing: replacement when destroyed to prevent contagion
 
 The Secretary of the Air Force may order a gratuitous issue of clothing to any enlisted member of the Air Force or the Space Force who has had a contagious disease, and to any hospital attendant who attended him while he had that disease, to replace clothing destroyed by order of a medical officer to prevent contagion.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 577; Pub. L. 116–283, div. A, title IX, § 923(e)(4), Jan. 1, 2021, 134 Stat. 3816.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 577; Pub. L. 116–283, div. A, title IX, § 923(e)(4), Jan. 1, 2021, 134 Stat. 3816.)
 
 **Historical and Revision Notes**
 
@@ -99,7 +99,7 @@ The words “enlisted member” are substituted for the word “soldiers”. The
 
 2021—Pub. L. 116–283 inserted “or the Space Force” after “member of the Air Force”.
 
-## § 9564. Navy and Marine Corps: camp equipment and transportation; when on shore duty with Air Force
+## § 9564. Navy and Marine Corps: camp equipment and transportation; when on shore duty with Air Force
 
 While any detachment of the Navy or Marine Corps is on shore duty in cooperation with troops of the Air Force, the Secretary of the Air Force shall, upon the requisition of the officer of the Navy or Marine Corps in command of the detachment, issue rations and camp equipment, and furnish transportation, to that detachment.
 
@@ -109,12 +109,12 @@ While any detachment of the Navy or Marine Corps is on shore duty in cooperation
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9564 | 10:1259d. 10:1259e. 34:541. | R.S. 1143; June 28, 1950, ch. 383, § 402(a), 64 Stat. 272. |
-|  |  | R.S. 1135; June 28, 1950, ch. 383, § 402(a), 64 Stat. 272. |
+| 9564 | 10:1259d. 10:1259e. 34:541. | R.S. 1143; June 28, 1950, ch. 383, § 402(a), 64 Stat. 272. |
+|  |  | R.S. 1135; June 28, 1950, ch. 383, § 402(a), 64 Stat. 272. |
 
-The words “While \* \* \* on shore duty” are substituted for the words “under orders to act on shore”, in 10:1259d and 1259e, and 34:541. The words “the Secretary of the Air Force” are substituted for the words “the branch, office, or officers of the Army, the Secretary of the Army may from time to time designate”, in 10:1259d and 1259e, and 34:541, since the functions which, for the Army, are assigned by statute to subordinate officers of the Army, are, for the Air Force, assigned to the Secretary of the Air Force. The words “during the time such detachment is so acting or proceeding to act”, in 10:1259d and 1259e, and 34:541, are omitted as surplusage. The words “their baggage, provisions, and cannon”, in 10:1259e and 34:541, are omitted as surplusage. The words “and shall furnish the naval officer commanding any such detachment, and his necessary aides, with horses, accouterments, and forage”, in 10:1259e and 34:541, are omitted as obsolete.
+The words “While \* \* \* on shore duty” are substituted for the words “under orders to act on shore”, in 10:1259d and 1259e, and 34:541. The words “the Secretary of the Air Force” are substituted for the words “the branch, office, or officers of the Army, the Secretary of the Army may from time to time designate”, in 10:1259d and 1259e, and 34:541, since the functions which, for the Army, are assigned by statute to subordinate officers of the Army, are, for the Air Force, assigned to the Secretary of the Air Force. The words “during the time such detachment is so acting or proceeding to act”, in 10:1259d and 1259e, and 34:541, are omitted as surplusage. The words “their baggage, provisions, and cannon”, in 10:1259e and 34:541, are omitted as surplusage. The words “and shall furnish the naval officer commanding any such detachment, and his necessary aides, with horses, accouterments, and forage”, in 10:1259e and 34:541, are omitted as obsolete.
 
-## § 9565. Colors, standards, and guidons of demobilized organizations: disposition
+## § 9565. Colors, standards, and guidons of demobilized organizations: disposition
 
 **(a)** The Secretary of the Air Force may dispose of colors, standards, and guidons of demobilized organizations of the Air Force or the Space Force, as follows:
 
@@ -128,13 +128,13 @@ Those that cannot be returned or sent under clause (1) or (2) of this subsection
 
 **(c)** No color, standard, or guidon may be disposed of under this section unless provision satisfactory to the Secretary has been made for its preservation and care.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 578; Pub. L. 116–283, div. A, title IX, § 923(e)(5), Jan. 1, 2021, 134 Stat. 3816.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 578; Pub. L. 116–283, div. A, title IX, § 923(e)(5), Jan. 1, 2021, 134 Stat. 3816.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9565(a) | 5:202 (less 3d and last sentences). | Mar. 4, 1921, ch. 166, § 2, 41 Stat. 1438. |
+| 9565(a) | 5:202 (less 3d and last sentences). | Mar. 4, 1921, ch. 166, § 2, 41 Stat. 1438. |
 | 9565(b) | 5:202 (3d sentence). |  |
 | 9565(c) | 5:202 (last sentence). |  |
 
@@ -144,6 +144,6 @@ In subsection (a), the words “Any which were used during their service by such
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 116–283, § 923(e)(5)(A), inserted “or the Space Force” after “organizations of the Air Force” in introductory provisions.
+2021—Subsec. (a). Pub. L. 116–283, § 923(e)(5)(A), inserted “or the Space Force” after “organizations of the Air Force” in introductory provisions.
 
-Subsec. (b). Pub. L. 116–283, § 923(e)(5)(B), inserted “or the Space Force” after “the Air Force”.
+Subsec. (b). Pub. L. 116–283, § 923(e)(5)(B), inserted “or the Space Force” after “the Air Force”.

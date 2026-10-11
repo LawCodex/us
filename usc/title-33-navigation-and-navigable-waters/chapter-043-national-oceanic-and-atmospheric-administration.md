@@ -17,23 +17,23 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 3001. Commissioned officer corps
+### § 3001. Commissioned officer corps
 
 There shall be in the National Oceanic and Atmospheric Administration a commissioned officer corps.
 
-(Pub. L. 107–372, title II, § 211, Dec. 19, 2002, 116 Stat. 3082.)
+(Pub. L. 107–372, title II, § 211, Dec. 19, 2002, 116 Stat. 3082.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–259, § 1(a), Dec. 23, 2020, 134 Stat. 1153, provided that: “This Act [see Tables for classification] may be cited as the ‘National Oceanic and Atmospheric Administration Commissioned Officer Corps Amendments Act of 2020’.”
+Pub. L. 116–259, § 1(a), Dec. 23, 2020, 134 Stat. 1153, provided that: “This Act [see Tables for classification] may be cited as the ‘National Oceanic and Atmospheric Administration Commissioned Officer Corps Amendments Act of 2020’.”
 
 **Short Title**
 
-Pub. L. 107–372, title II, § 201, Dec. 19, 2002, 116 Stat. 3082, provided that: “This title [enacting this chapter, amending section 1406 of Title 10, Armed Services, and section 2396 of Title 22, Foreign Relations and Intercourse, repealing sections 853a to 853*l*, 853*o*, 853p to 853r, 853t to 854, 855, 856 to 857–5, 858, 864, and 874 of this title, amending provisions set out as a note under section 1293 of Title 10, and repealing provisions set out as notes under sections 853a and 857–1 of this title and section 101 of Title 38, Veterans’ Benefits] may be cited as the ‘National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002’.”
+Pub. L. 107–372, title II, § 201, Dec. 19, 2002, 116 Stat. 3082, provided that: “This title [enacting this chapter, amending section 1406 of Title 10, Armed Services, and section 2396 of Title 22, Foreign Relations and Intercourse, repealing sections 853a to 853*l*, 853*o*, 853p to 853r, 853t to 854, 855, 856 to 857–5, 858, 864, and 874 of this title, amending provisions set out as a note under section 1293 of Title 10, and repealing provisions set out as notes under sections 853a and 857–1 of this title and section 101 of Title 38, Veterans’ Benefits] may be cited as the ‘National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002’.”
 
-### § 3002. Definitions
+### § 3002. Definitions
 
 **(a) Applicability of definitions in title 10**
 
@@ -73,7 +73,7 @@ The term “Administration” means the National Oceanic and Atmospheric Adminis
 
 The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere.
 
-(Pub. L. 107–372, title II, § 212, Dec. 19, 2002, 116 Stat. 3082; Pub. L. 116–259, title III, § 305(c), Dec. 23, 2020, 134 Stat. 1173; Pub. L. 117–263, div. K, title CXVII, § 11701, Dec. 23, 2022, 136 Stat. 4156.)
+(Pub. L. 107–372, title II, § 212, Dec. 19, 2002, 116 Stat. 3082; Pub. L. 116–259, title III, § 305(c), Dec. 23, 2020, 134 Stat. 1173; Pub. L. 117–263, div. K, title CXVII, § 11701, Dec. 23, 2022, 136 Stat. 4156.)
 
 **Editorial Notes**
 
@@ -91,7 +91,7 @@ Provisions similar to those in this section were contained in section 857–1 of
 
 2020—Subsec. (b)(4) to (7). Pub. L. 116–259 added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
 
-### § 3003. Authorized number on the active list
+### § 3003. Authorized number on the active list
 
 **(a) Annual strength on active list**
 
@@ -101,9 +101,9 @@ The annual strength of the commissioned corps in officers on the lineal list of 
 
 The Secretary shall maintain a list, known as the “lineal list”, of officers on active duty. Officers shall be carried on the lineal list by grade and, within grade, by seniority in grade.
 
-(Pub. L. 107–372, title II, § 213, Dec. 19, 2002, 116 Stat. 3083.)
+(Pub. L. 107–372, title II, § 213, Dec. 19, 2002, 116 Stat. 3083.)
 
-### § 3004. Strength and distribution in grade
+### § 3004. Strength and distribution in grade
 
 **(a) Grades** The commissioned grades in the commissioned officer corps of the Administration are the following, in relative rank with officers of the Navy:
 
@@ -155,7 +155,7 @@ Officers serving in positions designated under section 3028(a) of this title and
 
 No officer may be reduced in grade or pay or separated from the commissioned officer corps of the Administration as the result of a computation made to determine the authorized number of officers in the various grades.
 
-(Pub. L. 107–372, title II, § 214, Dec. 19, 2002, 116 Stat. 3083; Pub. L. 116–259, title I, § 101, Dec. 23, 2020, 134 Stat. 1154.)
+(Pub. L. 107–372, title II, § 214, Dec. 19, 2002, 116 Stat. 3083; Pub. L. 116–259, title I, § 101, Dec. 23, 2020, 134 Stat. 1154.)
 
 **Editorial Notes**
 
@@ -167,7 +167,7 @@ Provisions similar to those in this section were contained in section 853a of th
 
 2020—Pub. L. 116–259 amended section generally. Prior to amendment, section established strength and distribution of officers in grades.
 
-### § 3005. Number of authorized commissioned officers
+### § 3005. Number of authorized commissioned officers
 
 **(a) In general**
 
@@ -179,7 +179,7 @@ The total number of authorized commissioned officers on the lineal list of the c
 
 **(2)** may not count against such number.
 
-(Pub. L. 107–372, title II, § 215, Dec. 19, 2002, 116 Stat. 3084; Pub. L. 110–386, § 6, Oct. 10, 2008, 122 Stat. 4108; Pub. L. 116–259, title I, § 102(a), Dec. 23, 2020, 134 Stat. 1155.)
+(Pub. L. 107–372, title II, § 215, Dec. 19, 2002, 116 Stat. 3084; Pub. L. 110–386, § 6, Oct. 10, 2008, 122 Stat. 4108; Pub. L. 116–259, title I, § 102(a), Dec. 23, 2020, 134 Stat. 1155.)
 
 **Editorial Notes**
 
@@ -199,7 +199,7 @@ Provisions similar to those in this section were contained in section 853a of th
 
 “(3) 299 officers for fiscal year 2005.”
 
-### § 3006. Obligated service requirement
+### § 3006. Obligated service requirement
 
 **(a) In general**
 
@@ -235,7 +235,7 @@ A discharge in bankruptcy under title 11 that is entered less than five years af
 
 **(B)** determined to be unqualified for service in the commissioned officer corps of the Administration because of a physical or medical condition that was not the result of the officer’s own willful misconduct.
 
-(Pub. L. 107–372, title II, § 216, as added Pub. L. 116–259, title I, § 103(a), Dec. 23, 2020, 134 Stat. 1155; Pub. L. 119–60, div. H, title LXXXIV, § 8405, Dec. 18, 2025, 139 Stat. 1913.)
+(Pub. L. 107–372, title II, § 216, as added Pub. L. 116–259, title I, § 103(a), Dec. 23, 2020, 134 Stat. 1155; Pub. L. 119–60, div. H, title LXXXIV, § 8405, Dec. 18, 2025, 139 Stat. 1913.)
 
 **Editorial Notes**
 
@@ -243,7 +243,7 @@ A discharge in bankruptcy under title 11 that is entered less than five years af
 
 2025—Subsec. (c)(2)(B). Pub. L. 119–60 substituted “willful misconduct” for “misconduct or grossly negligent conduct”.
 
-### § 3007. Training and physical fitness
+### § 3007. Training and physical fitness
 
 **(a) Training** The Secretary may take such measures as may be necessary to ensure that officers are prepared to carry out their duties in the commissioned officer corps of the Administration and proficient in the skills necessary to carry out such duties. Such measures may include the following:
 
@@ -257,9 +257,9 @@ A discharge in bankruptcy under title 11 that is entered less than five years af
 
 The Secretary shall ensure that officers maintain a high physical state of readiness by establishing standards of physical fitness for officers that are substantially equivalent to those prescribed for officers in the Coast Guard.
 
-(Pub. L. 107–372, title II, § 217, as added Pub. L. 116–259, title I, § 104(a), Dec. 23, 2020, 134 Stat. 1156.)
+(Pub. L. 107–372, title II, § 217, as added Pub. L. 116–259, title I, § 104(a), Dec. 23, 2020, 134 Stat. 1156.)
 
-### § 3008. Cooperative aviation centers
+### § 3008. Cooperative aviation centers
 
 **(a) Definitions** In this section:
 
@@ -301,49 +301,49 @@ The Administrator shall assign an officer or employee of the commissioned office
 
 **(B)** serve as the chief aviation recruiting officer for the commissioned officer corps of the Administration.
 
-(Pub. L. 107–372, title II, § 218, as added Pub. L. 116–259, title I, § 105(a), Dec. 23, 2020, 134 Stat. 1157; amended Pub. L. 119–60, div. H, title LXXXIV, § 8403(a), Dec. 18, 2025, 139 Stat. 1910.)
+(Pub. L. 107–372, title II, § 218, as added Pub. L. 116–259, title I, § 105(a), Dec. 23, 2020, 134 Stat. 1157; amended Pub. L. 119–60, div. H, title LXXXIV, § 8403(a), Dec. 18, 2025, 139 Stat. 1910.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 8403(a)(1), substituted “Cooperative aviation centers” for “Aviation accession training programs” in section catchline.
+2025—Pub. L. 119–60, § 8403(a)(1), substituted “Cooperative aviation centers” for “Aviation accession training programs” in section catchline.
 
-Subsec. (a)(2), (3). Pub. L. 119–60, § 8403(a)(2), added par. (2) and struck out former pars. (2) and (3), which defined, respectively, “member of the program” and “program”.
+Subsec. (a)(2), (3). Pub. L. 119–60, § 8403(a)(2), added par. (2) and struck out former pars. (2) and (3), which defined, respectively, “member of the program” and “program”.
 
-Subsec. (b). Pub. L. 119–60, § 8403(a)(3)(A), substituted “Cooperative aviation centers” for “Aviation accession training programs” in heading.
+Subsec. (b). Pub. L. 119–60, § 8403(a)(3)(A), substituted “Cooperative aviation centers” for “Aviation accession training programs” in heading.
 
-Subsec. (b)(1) to (3). Pub. L. 119–60, § 8403(a)(3)(B)–(D), added pars. (1) and (2), struck out former par. (1), which authorized aviation accession training programs, redesignated par. (2) as (3), and struck out former par. (3), which placed limitations on particular institutions.
+Subsec. (b)(1) to (3). Pub. L. 119–60, § 8403(a)(3)(B)–(D), added pars. (1) and (2), struck out former par. (1), which authorized aviation accession training programs, redesignated par. (2) as (3), and struck out former par. (3), which placed limitations on particular institutions.
 
-Subsec. (b)(3)(A). Pub. L. 119–60, § 8403(a)(3)(E)(ii), substituted “applies” for “that requests”.
+Subsec. (b)(3)(A). Pub. L. 119–60, § 8403(a)(3)(E)(ii), substituted “applies” for “that requests”.
 
-Subsec. (b)(3)(B). Pub. L. 119–60, § 8403(a)(3)(E)(iii), substituted “has” for “that has” and “; and” for semicolon.
+Subsec. (b)(3)(B). Pub. L. 119–60, § 8403(a)(3)(E)(iii), substituted “has” for “that has” and “; and” for semicolon.
 
-Subsec. (b)(3)(C). Pub. L. 119–60, § 8403(a)(3)(E)(iv), substituted “is located” for “that is located” and struck out “that—” after “geographic area” in introductory provisions; in cl. (i), struck out cl. (i) designation and substituted “that experiences” for “experiences” and a period for “; and”; and struck out cl. (ii), which read as follows: “has a climate that can accommodate both primary and advanced flight training activity at least 75 percent of the year; and”.
+Subsec. (b)(3)(C). Pub. L. 119–60, § 8403(a)(3)(E)(iv), substituted “is located” for “that is located” and struck out “that—” after “geographic area” in introductory provisions; in cl. (i), struck out cl. (i) designation and substituted “that experiences” for “experiences” and a period for “; and”; and struck out cl. (ii), which read as follows: “has a climate that can accommodate both primary and advanced flight training activity at least 75 percent of the year; and”.
 
-Subsec. (b)(3)(D). Pub. L. 119–60, § 8403(a)(3)(E)(v), struck out subpar. (D) which read as follows: “at which the Administrator determines that—
+Subsec. (b)(3)(D). Pub. L. 119–60, § 8403(a)(3)(E)(v), struck out subpar. (D) which read as follows: “at which the Administrator determines that—
 
 “(i) there will be at least one student enrolled in the program; and
 
 “(ii) the provisions of this section are otherwise satisfied.”
 
-Subsecs. (c) to (e). Pub. L. 119–60, § 8403(a)(4), added subsec. (c) and struck out former subsecs. (c) to (e), which related, respectively, to program membership, financial assistance for qualified members, and repayment of unearned portion of financial assistance when conditions of payment are not met.
+Subsecs. (c) to (e). Pub. L. 119–60, § 8403(a)(4), added subsec. (c) and struck out former subsecs. (c) to (e), which related, respectively, to program membership, financial assistance for qualified members, and repayment of unearned portion of financial assistance when conditions of payment are not met.
 
-### § 3009. Use of recruiting materials for public relations
+### § 3009. Use of recruiting materials for public relations
 
 The Secretary may use for public relations purposes of the Department of Commerce any advertising materials developed for use for recruitment and retention of personnel for the commissioned officer corps of the Administration. Any such use shall be under such conditions and subject to such restrictions as the Secretary shall prescribe.
 
-(Pub. L. 107–372, title II, § 219, as added Pub. L. 116–259, title I, § 106(a), Dec. 23, 2020, 134 Stat. 1159.)
+(Pub. L. 107–372, title II, § 219, as added Pub. L. 116–259, title I, § 106(a), Dec. 23, 2020, 134 Stat. 1159.)
 
-### § 3010. Awards and decorations
+### § 3010. Awards and decorations
 
 The Under Secretary may provide ribbons, medals, badges, trophies, and similar devices to members of the commissioned officer corps of the Administration and to members of other uniformed services for service and achievement in support of the missions of the Administration.
 
-(Pub. L. 107–372, title II, § 220, as added Pub. L. 117–263, div. K, title CXVII, § 11704(a), Dec. 23, 2022, 136 Stat. 4156.)
+(Pub. L. 107–372, title II, § 220, as added Pub. L. 117–263, div. K, title CXVII, § 11704(a), Dec. 23, 2022, 136 Stat. 4156.)
 
 ## SUBCHAPTER II—APPOINTMENT AND PROMOTION OF OFFICERS
 
-### § 3021. Original appointments and reappointments
+### § 3021. Original appointments and reappointments
 
 **(a) Original appointments**
 
@@ -415,7 +415,7 @@ An appointment under paragraph (1) to a position of importance and responsibilit
 
 **(2)** not be given.1
 
-<sup>1</sup>  So in original. The period probably should not appear.
+<sup>1</sup> So in original. The period probably should not appear.
 
 to an individual until the individual’s mental, moral, physical, and professional fitness to perform the duties of an officer has been established under such regulations as the Secretary shall prescribe.
 
@@ -431,7 +431,7 @@ Appointees under this section shall take precedence in the grade to which appoin
 
 **(3)** reappoint such inter-service transfers to the equivalent grade in the commissioned officer corps of the Administration.
 
-(Pub. L. 107–372, title II, § 221, Dec. 19, 2002, 116 Stat. 3084; Pub. L. 116–259, title III, § 301(a), Dec. 23, 2020, 134 Stat. 1169; Pub. L. 117–263, div. K, title CXVII, § 11702, Dec. 23, 2022, 136 Stat. 4156.)
+(Pub. L. 107–372, title II, § 221, Dec. 19, 2002, 116 Stat. 3084; Pub. L. 116–259, title III, § 301(a), Dec. 23, 2020, 134 Stat. 1169; Pub. L. 117–263, div. K, title CXVII, § 11702, Dec. 23, 2022, 136 Stat. 4156.)
 
 **Editorial Notes**
 
@@ -451,7 +451,7 @@ for “may not be given”.
 
 2020—Pub. L. 116–259 substituted “Original appointments and reappointments” for “Original appointments” in section catchline and amended text generally. Prior to amendment, text related to original appointments in the grades of ensign, lieutenant (junior grade), and lieutenant.
 
-### § 3022. Personnel boards
+### § 3022. Personnel boards
 
 **(a) Convening**
 
@@ -495,7 +495,7 @@ The Director of the National Oceanic and Atmospheric Administration Commissioned
 
 **(C)** the officer has not previously failed selection for promotion to the grade for which the officer requests the exclusion from consideration.
 
-(Pub. L. 107–372, title II, § 222, Dec. 19, 2002, 116 Stat. 3085; Pub. L. 116–259, title III, § 302, Dec. 23, 2020, 134 Stat. 1171.)
+(Pub. L. 107–372, title II, § 222, Dec. 19, 2002, 116 Stat. 3085; Pub. L. 116–259, title III, § 302, Dec. 23, 2020, 134 Stat. 1171.)
 
 **Editorial Notes**
 
@@ -511,11 +511,11 @@ Provisions similar to those in this section were contained in section 853r of th
 
 2020—Pub. L. 116–259 amended section generally. Prior to amendment, section related to convening, duties and recommendations of personnel boards.
 
-### § 3023. Separation of ensigns found not fully qualified
+### § 3023. Separation of ensigns found not fully qualified
 
 If an officer in the grade of ensign is at any time found not fully qualified, the officer shall be separated from the commissioned service.
 
-(Pub. L. 107–372, title II, § 223, Dec. 19, 2002, 116 Stat. 3085; Pub. L. 117–263, div. K, title CXVII, § 11703(a), Dec. 23, 2022, 136 Stat. 4156; Pub. L. 119–60, div. H, title LXXXIV, § 8407, Dec. 18, 2025, 139 Stat. 1913.)
+(Pub. L. 107–372, title II, § 223, Dec. 19, 2002, 116 Stat. 3085; Pub. L. 117–263, div. K, title CXVII, § 11703(a), Dec. 23, 2022, 136 Stat. 4156; Pub. L. 119–60, div. H, title LXXXIV, § 8407, Dec. 18, 2025, 139 Stat. 1913.)
 
 **Editorial Notes**
 
@@ -535,11 +535,11 @@ Provisions similar to those in this section were contained in section 853e of th
 
 As amended by Pub. L. 117–263, text of section is identical to that of former subsec. (b) of this section. For delegation of functions of President under former subsec. (b) of this section to Secretary of Commerce, see section 1(a) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended, set out as a note under section 301 of Title 3, The President.
 
-### § 3024. Promotion by selection to permanent grades above lieutenant (junior grade)
+### § 3024. Promotion by selection to permanent grades above lieutenant (junior grade)
 
 Promotion to fill vacancies in each permanent grade above the grade of lieutenant (junior grade) shall be made by selection from the next lower grade upon recommendation of the personnel board.
 
-(Pub. L. 107–372, title II, § 224, Dec. 19, 2002, 116 Stat. 3085.)
+(Pub. L. 107–372, title II, § 224, Dec. 19, 2002, 116 Stat. 3085.)
 
 **Editorial Notes**
 
@@ -547,7 +547,7 @@ Promotion to fill vacancies in each permanent grade above the grade of lieutenan
 
 Provisions similar to those in this section were contained in section 853b of this title prior to repeal by Pub. L. 107–372.
 
-### § 3025. Length of service for promotion purposes
+### § 3025. Length of service for promotion purposes
 
 **(a) General rule**
 
@@ -557,7 +557,7 @@ Each officer shall be assumed to have, for promotion purposes, at least the same
 
 Notwithstanding subsection (a), an officer who has lost numbers shall be assumed to have, for promotion purposes, no greater service than the officer next above such officer in such officer’s new position on the lineal list.
 
-(Pub. L. 107–372, title II, § 225, Dec. 19, 2002, 116 Stat. 3085.)
+(Pub. L. 107–372, title II, § 225, Dec. 19, 2002, 116 Stat. 3085.)
 
 **Editorial Notes**
 
@@ -565,7 +565,7 @@ Notwithstanding subsection (a), an officer who has lost numbers shall be assumed
 
 Provisions similar to those in this section were contained in section 853f of this title prior to repeal by Pub. L. 107–372.
 
-### § 3026. Appointments and promotions to permanent grades
+### § 3026. Appointments and promotions to permanent grades
 
 **(a) In general**
 
@@ -575,7 +575,7 @@ Appointments in and promotions to all permanent grades, other than a grade descr
 
 Appointments in and promotions to the grade of rear admiral (upper half) or above shall be made by the President, by and with the advice and consent of the Senate.
 
-(Pub. L. 107–372, title II, § 226, Dec. 19, 2002, 116 Stat. 3085; Pub. L. 112–166, § 2(gg)(1), Aug. 10, 2012, 126 Stat. 1290; Pub. L. 119–60, div. H, title LXXXIV, § 8401(b), Dec. 18, 2025, 139 Stat. 1908.)
+(Pub. L. 107–372, title II, § 226, Dec. 19, 2002, 116 Stat. 3085; Pub. L. 112–166, § 2(gg)(1), Aug. 10, 2012, 126 Stat. 1290; Pub. L. 119–60, div. H, title LXXXIV, § 8401(b), Dec. 18, 2025, 139 Stat. 1908.)
 
 **Editorial Notes**
 
@@ -585,9 +585,9 @@ Provisions similar to those in this section were contained in section 853i(a) of
 
 **Amendments**
 
-2025—Pub. L. 119–60 designated existing provisions as subsec. (a) and inserted heading, inserted “, other than a grade described in subsection (b),” after “all permanent grades” and added subsec. (b).
+2025—Pub. L. 119–60 designated existing provisions as subsec. (a) and inserted heading, inserted “, other than a grade described in subsection (b),” after “all permanent grades” and added subsec. (b).
 
-2012—Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end.
+2012—Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -595,11 +595,11 @@ Provisions similar to those in this section were contained in section 853i(a) of
 
 Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
-### § 3027. General qualification of officers for promotion to higher permanent grade
+### § 3027. General qualification of officers for promotion to higher permanent grade
 
 No officer may be promoted to a higher permanent grade on the active list until the officer has passed a satisfactory mental and physical examination in accordance with regulations prescribed by the Secretary.
 
-(Pub. L. 107–372, title II, § 227, Dec. 19, 2002, 116 Stat. 3085.)
+(Pub. L. 107–372, title II, § 227, Dec. 19, 2002, 116 Stat. 3085.)
 
 **Editorial Notes**
 
@@ -607,7 +607,7 @@ No officer may be promoted to a higher permanent grade on the active list until 
 
 Provisions similar to those in this section were contained in section 854 of this title prior to repeal by Pub. L. 107–372.
 
-### § 3028. Positions of importance and responsibility
+### § 3028. Positions of importance and responsibility
 
 **(a) Designation of positions**
 
@@ -645,7 +645,7 @@ An officer appointed to a grade under this section, while serving in that grade 
 
 **(2)** creates a vacancy on the active list.
 
-(Pub. L. 107–372, title II, § 228, Dec. 19, 2002, 116 Stat. 3086; Pub. L. 112–166, § 2(gg)(2), Aug. 10, 2012, 126 Stat. 1290; Pub. L. 116–259, title III, § 303, Dec. 23, 2020, 134 Stat. 1171; Pub. L. 119–60, div. H, title LXXXIV, § 8401(a)(1), Dec. 18, 2025, 139 Stat. 1907.)
+(Pub. L. 107–372, title II, § 228, Dec. 19, 2002, 116 Stat. 3086; Pub. L. 112–166, § 2(gg)(2), Aug. 10, 2012, 126 Stat. 1290; Pub. L. 116–259, title III, § 303, Dec. 23, 2020, 134 Stat. 1171; Pub. L. 119–60, div. H, title LXXXIV, § 8401(a)(1), Dec. 18, 2025, 139 Stat. 1907.)
 
 **Editorial Notes**
 
@@ -657,11 +657,11 @@ Provisions similar to those in this section were contained in section 853u of th
 
 2025—Subsec. (c). Pub. L. 119–60 substituted “Commissioned Officer Corps and Assistant Administrator for” for “Corps and Office of” in heading, “who has served, on the date of such appointment, in the grade of captain or above for not less than one year” for “serving in or above the grade of rear admiral (lower half)” in second sentence, and “Assistant Administrator of the National Oceanic and Atmospheric Administration for” for “Director of the Office of” in fourth sentence.
 
-2020—Subsec. (c). Pub. L. 116–259, § 303(1), substituted “The President shall designate one position” for “The Secretary shall designate one position under this section” in first sentence, and “The President shall fill that position by appointing, by and with the advice and consent of the Senate,” for “That position shall be filled by” in second sentence.
+2020—Subsec. (c). Pub. L. 116–259, § 303(1), substituted “The President shall designate one position” for “The Secretary shall designate one position under this section” in first sentence, and “The President shall fill that position by appointing, by and with the advice and consent of the Senate,” for “That position shall be filled by” in second sentence.
 
-Subsec. (d)(2). Pub. L. 116–259, § 303(2), inserted “or immediately beginning a period of terminal leave” after “for which a higher grade is designated”.
+Subsec. (d)(2). Pub. L. 116–259, § 303(2), inserted “or immediately beginning a period of terminal leave” after “for which a higher grade is designated”.
 
-Subsec. (e). Pub. L. 116–259, § 303(3), amended subsec. (e) generally. Prior to amendment, text read as follows:
+Subsec. (e). Pub. L. 116–259, § 303(3), amended subsec. (e) generally. Prior to amendment, text read as follows:
 
 “(1) Overall limit.—The total number of officers serving on active duty at any one time in the grade of rear admiral (lower half) or above may not exceed four.
 
@@ -673,9 +673,9 @@ Subsec. (e). Pub. L. 116–259, § 303(3), amended subsec. (e) generally. Prio
 
 “(C) two in the grade of rear admiral (lower half).”
 
-Subsec. (f). Pub. L. 116–259, § 303(4), inserted “or in a period of annual leave used at the end of the appointment” after “serving in that grade”.
+Subsec. (f). Pub. L. 116–259, § 303(4), inserted “or in a period of annual leave used at the end of the appointment” after “serving in that grade”.
 
-2012—Subsec. (d)(1). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end.
+2012—Subsec. (d)(1). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -685,9 +685,9 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 
 **Appointment of Commissioned Officers**
 
-Pub. L. 98–498, title III, § 320(c)(2), Oct. 19, 1984, 98 Stat. 2309, provided that: “After the date of the enactment of this Act [Oct. 19, 1984], no appointment of a commissioned officer may be made under section 2(d) or 2(f) of Reorganization Plan Numbered 4 of 1970 (84 Stat. 2090, 5 U.S.C. App.).”
+Pub. L. 98–498, title III, § 320(c)(2), Oct. 19, 1984, 98 Stat. 2309, provided that: “After the date of the enactment of this Act [Oct. 19, 1984], no appointment of a commissioned officer may be made under section 2(d) or 2(f) of Reorganization Plan Numbered 4 of 1970 (84 Stat. 2090, 5 U.S.C. App.).”
 
-### § 3029. Temporary appointments
+### § 3029. Temporary appointments
 
 **(a) Appointments by President**
 
@@ -705,7 +705,7 @@ Appointees under subsection (a) shall take precedence in the grade to which appo
 
 When determined by the Secretary to be in the best interest of the commissioned officer corps of the Administration, officers in any permanent grade may be temporarily promoted one grade by the President. Any such temporary promotion terminates upon the transfer of the officer to a new assignment.
 
-(Pub. L. 107–372, title II, § 229, Dec. 19, 2002, 116 Stat. 3087; Pub. L. 112–166, § 2(gg)(3), Aug. 10, 2012, 126 Stat. 1290; Pub. L. 116–259, title III, § 304(a), Dec. 23, 2020, 134 Stat. 1172.)
+(Pub. L. 107–372, title II, § 229, Dec. 19, 2002, 116 Stat. 3087; Pub. L. 112–166, § 2(gg)(3), Aug. 10, 2012, 126 Stat. 1290; Pub. L. 116–259, title III, § 304(a), Dec. 23, 2020, 134 Stat. 1172.)
 
 **Editorial Notes**
 
@@ -731,7 +731,7 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 
 Functions of President under this section delegated to Secretary of Commerce by section 1(b)–(d) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended, set out as a note under section 301 of Title 3, The President.
 
-### § 3030. Temporary appointment or advancement of commissioned officers in time of war or national emergency
+### § 3030. Temporary appointment or advancement of commissioned officers in time of war or national emergency
 
 **(a) In general**
 
@@ -745,7 +745,7 @@ Officers of the Administration shall be subject in like manner and to the same e
 
 **(3)** Temporary appointments may be made in all grades to which original appointments in the Administration are authorized, except that the number of officers holding temporary appointments may not exceed the number of officers transferred to a military department under section 3061 of this title.
 
-(Pub. L. 107–372, title II, § 230, Dec. 19, 2002, 116 Stat. 3087.)
+(Pub. L. 107–372, title II, § 230, Dec. 19, 2002, 116 Stat. 3087.)
 
 **Editorial Notes**
 
@@ -759,7 +759,7 @@ Provisions similar to this section are contained in section 854a–1 of this tit
 
 Functions of President under subsec. (b) of this section delegated to Secretary of Commerce by section 1(h)–(j) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended, set out as a note under section 301 of Title 3, The President.
 
-### § 3031. Pay and allowances; date of acceptance of promotion
+### § 3031. Pay and allowances; date of acceptance of promotion
 
 **(a) Acceptance and date of promotion** An officer of the commissioned corps who is promoted to a higher grade—
 
@@ -771,7 +771,7 @@ Functions of President under subsec. (b) of this section delegated to Secretary 
 
 An officer who subscribed to the oath of office required by section 3331 of title 5 shall not be required to renew such oath or to take a new oath upon promotion to a higher grade, if the service of the officer after the taking of such oath is continuous.
 
-(Pub. L. 107–372, title II, § 231, Dec. 19, 2002, 116 Stat. 3087.)
+(Pub. L. 107–372, title II, § 231, Dec. 19, 2002, 116 Stat. 3087.)
 
 **Editorial Notes**
 
@@ -779,11 +779,11 @@ An officer who subscribed to the oath of office required by section 3331 of titl
 
 Provisions similar to this section are contained in section 854a–2 of this title.
 
-### § 3032. Service credit as deck officer or junior engineer for promotion purposes
+### § 3032. Service credit as deck officer or junior engineer for promotion purposes
 
 For purposes of promotion, there shall be counted in addition to active commissioned service, service as deck officer or junior engineer.
 
-(Pub. L. 107–372, title II, § 232, Dec. 19, 2002, 116 Stat. 3088.)
+(Pub. L. 107–372, title II, § 232, Dec. 19, 2002, 116 Stat. 3088.)
 
 **Editorial Notes**
 
@@ -791,11 +791,11 @@ For purposes of promotion, there shall be counted in addition to active commissi
 
 Provisions similar to this section are contained in section 854a of this title.
 
-### § 3033. Suspension during war or emergency
+### § 3033. Suspension during war or emergency
 
 In time of emergency declared by the President or by the Congress, and in time of war, the President is authorized, in the President’s discretion, to suspend the operation of all or any part of the provisions of law pertaining to promotion of commissioned officers of the Administration.
 
-(Pub. L. 107–372, title II, § 233, Dec. 19, 2002, 116 Stat. 3088.)
+(Pub. L. 107–372, title II, § 233, Dec. 19, 2002, 116 Stat. 3088.)
 
 **Editorial Notes**
 
@@ -803,7 +803,7 @@ In time of emergency declared by the President or by the Congress, and in time o
 
 Provisions similar to those in this section were contained in section 853i(b) of this title prior to repeal by Pub. L. 107–372.
 
-### § 3034. Officer candidates
+### § 3034. Officer candidates
 
 **(a) Determination of number**
 
@@ -843,15 +843,15 @@ Each officer candidate shall sign an agreement with the Secretary in accordance 
 
 An officer candidate or former officer candidate who does not fulfill the terms of the obligation to serve as specified under subsection (d) shall be subject to the repayment provisions of section 3006(b) of this title.
 
-(Pub. L. 107–372, title II, § 234, as added Pub. L. 116–259, title III, § 305(a), Dec. 23, 2020, 134 Stat. 1172.)
+(Pub. L. 107–372, title II, § 234, as added Pub. L. 116–259, title III, § 305(a), Dec. 23, 2020, 134 Stat. 1172.)
 
-### § 3035. Procurement of personnel
+### § 3035. Procurement of personnel
 
 The Secretary may take such measures as the Secretary determines necessary in order to obtain recruits for the commissioned officer corps of the Administration, including advertising.
 
-(Pub. L. 107–372, title II, § 235, as added Pub. L. 116–259, title III, § 306(a), Dec. 23, 2020, 134 Stat. 1174.)
+(Pub. L. 107–372, title II, § 235, as added Pub. L. 116–259, title III, § 306(a), Dec. 23, 2020, 134 Stat. 1174.)
 
-### § 3036. Career flexibility to enhance retention of officers
+### § 3036. Career flexibility to enhance retention of officers
 
 **(a) Programs authorized**
 
@@ -961,7 +961,7 @@ An officer participating in a program under this section shall not, while partic
 
 **(2)** retirement or separation for physical disability under the provisions of subchapter III.
 
-(Pub. L. 107–372, title II, § 236, as added Pub. L. 116–259, title III, § 307(a), Dec. 23, 2020, 134 Stat. 1174; Pub. L. 117–263, div. A, title VI, § 626(f), Dec. 23, 2022, 136 Stat. 2629.)
+(Pub. L. 107–372, title II, § 236, as added Pub. L. 116–259, title III, § 307(a), Dec. 23, 2020, 134 Stat. 1174; Pub. L. 117–263, div. A, title VI, § 626(f), Dec. 23, 2022, 136 Stat. 2629.)
 
 **Editorial Notes**
 
@@ -971,7 +971,7 @@ An officer participating in a program under this section shall not, while partic
 
 ## SUBCHAPTER III—SEPARATION AND RETIREMENT OF OFFICERS
 
-### § 3041. Involuntary retirement or separation
+### § 3041. Involuntary retirement or separation
 
 **(a) Transfer of officers to retired list; separation from service** As recommended by a personnel board convened under section 3022 of this title—
 
@@ -1013,7 +1013,7 @@ A deferment may only be made with the written consent of the officer involved. I
 
 A deferment of retirement or separation under this subsection may not extend for more than 30 days after completion of the evaluation requiring hospitalization or medical observation.
 
-(Pub. L. 107–372, title II, § 241, Dec. 19, 2002, 116 Stat. 3088; Pub. L. 116–259, title IV, § 401, Dec. 23, 2020, 134 Stat. 1177; Pub. L. 117–263, div. K, title CXVII, § 11705(a), Dec. 23, 2022, 136 Stat. 4157; Pub. L. 119–60, div. H, title LXXXIV, § 8406, Dec. 18, 2025, 139 Stat. 1913.)
+(Pub. L. 107–372, title II, § 241, Dec. 19, 2002, 116 Stat. 3088; Pub. L. 116–259, title IV, § 401, Dec. 23, 2020, 134 Stat. 1177; Pub. L. 117–263, div. K, title CXVII, § 11705(a), Dec. 23, 2022, 136 Stat. 4157; Pub. L. 119–60, div. H, title LXXXIV, § 8406, Dec. 18, 2025, 139 Stat. 1913.)
 
 **Editorial Notes**
 
@@ -1029,7 +1029,7 @@ Provisions similar to those in this section were contained in section 853g of th
 
 2020—Subsec. (d). Pub. L. 116–259 added subsec. (d).
 
-### § 3042. Separation pay
+### § 3042. Separation pay
 
 **(a) Authorization of payment**
 
@@ -1057,7 +1057,7 @@ The provisions of subsections (f), (g), and (h) of section 1174 of title 10 shal
 
 **(2)** requests removal from the list of selectees.
 
-(Pub. L. 107–372, title II, § 242, Dec. 19, 2002, 116 Stat. 3088; Pub. L. 116–259, title IV, § 402, Dec. 23, 2020, 134 Stat. 1178.)
+(Pub. L. 107–372, title II, § 242, Dec. 19, 2002, 116 Stat. 3088; Pub. L. 116–259, title IV, § 402, Dec. 23, 2020, 134 Stat. 1178.)
 
 **Editorial Notes**
 
@@ -1069,7 +1069,7 @@ Provisions similar to those in this section were contained in section 853h of th
 
 2020—Subsec. (d). Pub. L. 116–259 added subsec. (d).
 
-### § 3043. Mandatory retirement for age
+### § 3043. Mandatory retirement for age
 
 **(a) Officers below grade of rear admiral (lower half)**
 
@@ -1079,7 +1079,7 @@ Unless retired or separated earlier, each officer on the lineal list of the comm
 
 Notwithstanding subsection (a), the President may defer the retirement of an officer serving in a position that carries a grade above captain for such period as the President considers advisable, but such a deferment may not extend beyond the first day of the month following the month in which the officer becomes 64 years of age.
 
-(Pub. L. 107–372, title II, § 243, Dec. 19, 2002, 116 Stat. 3089; Pub. L. 117–263, div. K, title CXVII, § 11705(b), Dec. 23, 2022, 136 Stat. 4157.)
+(Pub. L. 107–372, title II, § 243, Dec. 19, 2002, 116 Stat. 3089; Pub. L. 117–263, div. K, title CXVII, § 11705(b), Dec. 23, 2022, 136 Stat. 4157.)
 
 **Editorial Notes**
 
@@ -1097,11 +1097,11 @@ Provisions similar to those in this section were contained in section 853k of th
 
 Functions of President under subsec. (b) of this section delegated to Secretary of Commerce by section 1(e) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended, set out as a note under section 301 of Title 3, The President.
 
-### § 3044. Retirement for length of service
+### § 3044. Retirement for length of service
 
 An officer who has completed 20 years of service, of which at least 10 years was service as a commissioned officer, may at any time thereafter, upon application by such officer and in the discretion of the President, be placed on the retired list.
 
-(Pub. L. 107–372, title II, § 244, Dec. 19, 2002, 116 Stat. 3089.)
+(Pub. L. 107–372, title II, § 244, Dec. 19, 2002, 116 Stat. 3089.)
 
 **Editorial Notes**
 
@@ -1115,7 +1115,7 @@ Provisions similar to those in this section were contained in section 853*l* of 
 
 Functions of President under this section delegated to Secretary of Commerce by section 1(f) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended, set out as a note under section 301 of Title 3, The President.
 
-### § 3045. Computation of retired pay
+### § 3045. Computation of retired pay
 
 **(a) Officers first becoming members before September 8, 1980** Each officer on the retired list who first became a member of a uniformed service before September 8, 1980, shall receive retired pay at the rate determined by multiplying—
 
@@ -1143,7 +1143,7 @@ The retired pay so computed may not exceed 75 percent of the retired pay base.
 
 Retired pay computed under this section, if not a multiple of $1, shall be rounded to the next lower multiple of $1.
 
-(Pub. L. 107–372, title II, § 245, Dec. 19, 2002, 116 Stat. 3089; Pub. L. 114–92, div. A, title VI, § 631(c)(3), Nov. 25, 2015, 129 Stat. 844.)
+(Pub. L. 107–372, title II, § 245, Dec. 19, 2002, 116 Stat. 3089; Pub. L. 114–92, div. A, title VI, § 631(c)(3), Nov. 25, 2015, 129 Stat. 844.)
 
 **Editorial Notes**
 
@@ -1161,7 +1161,7 @@ Provisions similar to those in this section were contained in section 853*o* of 
 
 Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as a note under section 8432 of Title 5, Government Organization and Employees.
 
-### § 3046. Retired grade and retired pay
+### § 3046. Retired grade and retired pay
 
 Each officer retired pursuant to law shall be placed on the retired list with the highest grade satisfactorily held by that officer while on active duty including active duty pursuant to recall, under permanent or temporary appointment, and shall receive retired pay based on such highest grade, if—
 
@@ -1169,7 +1169,7 @@ Each officer retired pursuant to law shall be placed on the retired list with th
 
 **(2)** unless retired for disability, the officer’s length of service in such highest grade is no less than that required by the Secretary of officers retiring under permanent appointment in that grade.
 
-(Pub. L. 107–372, title II, § 246, Dec. 19, 2002, 116 Stat. 3090.)
+(Pub. L. 107–372, title II, § 246, Dec. 19, 2002, 116 Stat. 3090.)
 
 **Editorial Notes**
 
@@ -1177,11 +1177,11 @@ Each officer retired pursuant to law shall be placed on the retired list with th
 
 Provisions similar to those in this section were contained in sections 853p and 857–2 of this title prior to repeal by Pub. L. 107–372.
 
-### § 3047. Retired rank and pay held pursuant to other laws unaffected
+### § 3047. Retired rank and pay held pursuant to other laws unaffected
 
 Nothing in this subchapter shall prevent an officer from being placed on the retired list with the highest rank and with the highest retired pay to which the officer is entitled under any other provision of law.
 
-(Pub. L. 107–372, title II, § 247, Dec. 19, 2002, 116 Stat. 3090.)
+(Pub. L. 107–372, title II, § 247, Dec. 19, 2002, 116 Stat. 3090.)
 
 **Editorial Notes**
 
@@ -1189,21 +1189,21 @@ Nothing in this subchapter shall prevent an officer from being placed on the ret
 
 Provisions similar to those in this section were contained in section 853q of this title prior to repeal by Pub. L. 107–372.
 
-### § 3048. Continuation on active duty; deferral of retirement
+### § 3048. Continuation on active duty; deferral of retirement
 
 The provisions of subchapter IV of chapter 36 of title 10 relating to continuation on active duty and deferral of retirement shall apply to commissioned officers of the Administration.
 
-(Pub. L. 107–372, title II, § 248, Dec. 19, 2002, 116 Stat. 3090.)
+(Pub. L. 107–372, title II, § 248, Dec. 19, 2002, 116 Stat. 3090.)
 
-### § 3049. Recall to active duty
+### § 3049. Recall to active duty
 
 The provisions of chapter 39 of title 10 relating to recall of retired officers to active duty, including the limitations on such recalls, shall apply to commissioned officers of the Administration.
 
-(Pub. L. 107–372, title II, § 249, Dec. 19, 2002, 116 Stat. 3090.)
+(Pub. L. 107–372, title II, § 249, Dec. 19, 2002, 116 Stat. 3090.)
 
 ## SUBCHAPTER IV—SERVICE OF OFFICERS WITH THE MILITARY DEPARTMENTS
 
-### § 3061. Cooperation with and transfer to military departments
+### § 3061. Cooperation with and transfer to military departments
 
 **(a) Transfers of resources and officers during national emergency**
 
@@ -1231,7 +1231,7 @@ This section does not authorize the transfer of an officer of the Administration
 
 An officer of the Administration transferred under this section, shall, while under the jurisdiction of a military department, have proper military status and shall be subject to the laws, regulations, and orders for the government of the Army, Navy, or Air Force, as the case may be, insofar as the same may be applicable to persons whose retention permanently in the military service of the United States is not contemplated by law.
 
-(Pub. L. 107–372, title II, § 251, Dec. 19, 2002, 116 Stat. 3090.)
+(Pub. L. 107–372, title II, § 251, Dec. 19, 2002, 116 Stat. 3090.)
 
 **Editorial Notes**
 
@@ -1245,11 +1245,11 @@ Provisions similar to those in this section were contained in section 855 of thi
 
 Functions of President under this section delegated to Secretary of Commerce by section 1(k) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended, set out as a note under section 301 of Title 3, The President.
 
-### § 3062. Relative rank of officers when serving with Army, Navy, or Air Force
+### § 3062. Relative rank of officers when serving with Army, Navy, or Air Force
 
 When serving with the Army, Navy, or Air Force, an officer of the Administration shall rank with and after officers of corresponding grade in the Army, Navy, or Air Force of the same length of service in grade. Nothing in this subchapter shall be construed to affect or alter an officer’s rates of pay and allowances when not assigned to military duty.
 
-(Pub. L. 107–372, title II, § 252, Dec. 19, 2002, 116 Stat. 3091.)
+(Pub. L. 107–372, title II, § 252, Dec. 19, 2002, 116 Stat. 3091.)
 
 **Editorial Notes**
 
@@ -1257,7 +1257,7 @@ When serving with the Army, Navy, or Air Force, an officer of the Administration
 
 Provisions similar to those in this section were contained in section 856 of this title prior to repeal by Pub. L. 107–372.
 
-### § 3063. Rules and regulations when cooperating with military departments
+### § 3063. Rules and regulations when cooperating with military departments
 
 **(a) Joint regulations** The Secretary of Defense and the Secretary of Commerce shall jointly prescribe regulations—
 
@@ -1273,7 +1273,7 @@ Regulations under subsection (a) shall not be effective unless approved by each 
 
 Regulations under subsection (a) may provide procedures for making reports and communications between a military department and the Administration.
 
-(Pub. L. 107–372, title II, § 253, Dec. 19, 2002, 116 Stat. 3091.)
+(Pub. L. 107–372, title II, § 253, Dec. 19, 2002, 116 Stat. 3091.)
 
 **Editorial Notes**
 
@@ -1283,7 +1283,7 @@ Provisions similar to those in this section were contained in section 858 of thi
 
 ## SUBCHAPTER V—RIGHTS AND BENEFITS
 
-### § 3071. Applicability of certain provisions of title 10
+### § 3071. Applicability of certain provisions of title 10
 
 **(a) Provisions made applicable to the corps** The rules of law that apply to the Armed Forces under the following provisions of title 10, as those provisions are in effect from time to time, apply also to the commissioned officer corps of the Administration:
 
@@ -1349,7 +1349,7 @@ The authority vested by title 10 in the “military departments”, “the Secre
 
 The Secretary may prescribe regulations to carry out the application of section 1034 of title 10 to the commissioned officer corps of the Administration, including by prescribing such administrative procedures for investigation and appeal within the commissioned officer corps as the Secretary considers appropriate.
 
-(Pub. L. 107–372, title II, § 261, Dec. 19, 2002, 116 Stat. 3091; Pub. L. 116–259, title II, §§ 205(a), 207, Dec. 23, 2020, 134 Stat. 1166, 1168; Pub. L. 117–263, div. K, title CXVII, § 11705(c), Dec. 23, 2022, 136 Stat. 4157.)
+(Pub. L. 107–372, title II, § 261, Dec. 19, 2002, 116 Stat. 3091; Pub. L. 116–259, title II, §§ 205(a), 207, Dec. 23, 2020, 134 Stat. 1166, 1168; Pub. L. 117–263, div. K, title CXVII, § 11705(c), Dec. 23, 2022, 136 Stat. 4157.)
 
 **Editorial Notes**
 
@@ -1361,15 +1361,15 @@ Provisions similar to those in this section were contained in section 857a of th
 
 2022—Subsec. (a)(17) to (27). Pub. L. 117–263 added par. (17) and redesignated former pars. (17) to (26) as (18) to (27), respectively.
 
-2020—Subsec. (a). Pub. L. 116–259, § 207(a), added par. (8) and redesignated former pars. (8) to (25) (as added and redesignated by section 205(a), see note below) as (9) to (26), respectively.
+2020—Subsec. (a). Pub. L. 116–259, § 207(a), added par. (8) and redesignated former pars. (8) to (25) (as added and redesignated by section 205(a), see note below) as (9) to (26), respectively.
 
-Pub. L. 116–259, § 205(a), added pars. (4) to (7), (11) to (13), (20), and (21), and redesignated former pars. (4) to (6) as (8) to (10), former pars. (7) to (12) as (14) to (19), and former pars. (13) to (16) as (22) to (25), respectively.
+Pub. L. 116–259, § 205(a), added pars. (4) to (7), (11) to (13), (20), and (21), and redesignated former pars. (4) to (6) as (8) to (10), former pars. (7) to (12) as (14) to (19), and former pars. (13) to (16) as (22) to (25), respectively.
 
-Subsec. (b). Pub. L. 116–259, § 207(b), inserted at end “For purposes of paragraph (8) of subsection (a), the term ‘Inspector General’ in section 1034 of such title 10 shall mean the Inspector General of the Department of Commerce.”
+Subsec. (b). Pub. L. 116–259, § 207(b), inserted at end “For purposes of paragraph (8) of subsection (a), the term ‘Inspector General’ in section 1034 of such title 10 shall mean the Inspector General of the Department of Commerce.”
 
-Subsec. (c). Pub. L. 116–259, § 207(c), added subsec. (c).
+Subsec. (c). Pub. L. 116–259, § 207(c), added subsec. (c).
 
-### § 3071a. Applicability of certain provisions of title 37
+### § 3071a. Applicability of certain provisions of title 37
 
 The provisions of law applicable to the Armed Forces under the following provisions of title 37 shall apply to the commissioned officer corps of the Administration:
 
@@ -1379,9 +1379,9 @@ The provisions of law applicable to the Armed Forces under the following provisi
 
 **(3)** Section 488, relating to allowances for recruiting expenses.
 
-(Pub. L. 107–372, title II, § 261A, as added Pub. L. 116–259, title II, § 206(a), Dec. 23, 2020, 134 Stat. 1167.)
+(Pub. L. 107–372, title II, § 261A, as added Pub. L. 116–259, title II, § 206(a), Dec. 23, 2020, 134 Stat. 1167.)
 
-### § 3072. Eligibility for veterans benefits and other rights, privileges, immunities, and benefits under certain provisions of law
+### § 3072. Eligibility for veterans benefits and other rights, privileges, immunities, and benefits under certain provisions of law
 
 **(a) In general** Active service of officers of the Administration shall be deemed to be active military service for the purposes of all rights, privileges, immunities, and benefits under the following:
 
@@ -1395,13 +1395,13 @@ The provisions of law applicable to the Armed Forces under the following provisi
 
 In the administration of the laws and regulations referred to in subsection (a), with respect to the Administration, the authority vested in the Secretary of Defense and the Secretaries of the military departments and their respective departments shall be exercised by the Secretary of Commerce.
 
-(Pub. L. 107–372, title II, § 262, Dec. 19, 2002, 116 Stat. 3092; Pub. L. 108–189, § 2(g), Dec. 19, 2003, 117 Stat. 2866.)
+(Pub. L. 107–372, title II, § 262, Dec. 19, 2002, 116 Stat. 3092; Pub. L. 108–189, § 2(g), Dec. 19, 2003, 117 Stat. 2866.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Servicemembers Civil Relief Act, referred to in subsec. (a)(2), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which is classified principally to chapter 50 (§ 3901 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Servicemembers Civil Relief Act, referred to in subsec. (a)(2), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which is classified principally to chapter 50 (§ 3901 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 **Prior Provisions**
 
@@ -1411,11 +1411,11 @@ Provisions similar to those in this section were contained in sections 857 and 8
 
 2003—Subsec. (a)(2). Pub. L. 108–189 amended par. (2) generally substituting “The Servicemembers Civil Relief Act” for “The Soldiers’ and Sailors’ Civil Relief Act of 1940 (50 App. U.S.C. 501 et seq.)”.
 
-### § 3073. Medical and dental care
+### § 3073. Medical and dental care
 
 The Secretary may provide medical and dental care, including care in private facilities, for personnel of the Administration entitled to that care by law or regulation.
 
-(Pub. L. 107–372, title II, § 263, Dec. 19, 2002, 116 Stat. 3093.)
+(Pub. L. 107–372, title II, § 263, Dec. 19, 2002, 116 Stat. 3093.)
 
 **Editorial Notes**
 
@@ -1423,7 +1423,7 @@ The Secretary may provide medical and dental care, including care in private fac
 
 Provisions similar to those in this section were contained in section 857–3(b) of this title prior to repeal by Pub. L. 107–372.
 
-### § 3074. Commissary privileges
+### § 3074. Commissary privileges
 
 **(a) Extension of privilege**
 
@@ -1437,7 +1437,7 @@ The Secretary may purchase ration supplies for messes, stores, uniforms, accoute
 
 Rights extended to members of the uniformed services in this section are extended to their surviving spouses and to such others as are designated by the Secretary concerned.
 
-(Pub. L. 107–372, title II, § 264, Dec. 19, 2002, 116 Stat. 3093.)
+(Pub. L. 107–372, title II, § 264, Dec. 19, 2002, 116 Stat. 3093.)
 
 **Editorial Notes**
 
@@ -1445,7 +1445,7 @@ Rights extended to members of the uniformed services in this section are extende
 
 Provisions similar to those in this section were contained in section 857–4 of this title prior to repeal by Pub. L. 107–372.
 
-### § 3075. Authority to use appropriated funds for transportation and reimbursement of certain items
+### § 3075. Authority to use appropriated funds for transportation and reimbursement of certain items
 
 **(a) Transportation of effects of deceased officers**
 
@@ -1457,7 +1457,7 @@ In the case of an officer who dies on active duty, the Secretary may provide, fr
 
 **(2)** to shipwrecked persons who are temporarily provided for by the officer.
 
-(Pub. L. 107–372, title II, § 265, Dec. 19, 2002, 116 Stat. 3093.)
+(Pub. L. 107–372, title II, § 265, Dec. 19, 2002, 116 Stat. 3093.)
 
 **Editorial Notes**
 
@@ -1465,7 +1465,7 @@ In the case of an officer who dies on active duty, the Secretary may provide, fr
 
 Provisions similar to those in this section were contained in section 874 of this title prior to repeal by Pub. L. 107–372.
 
-### § 3076. Presentation of United States flag upon retirement
+### § 3076. Presentation of United States flag upon retirement
 
 **(a) Presentation of flag upon retirement**
 
@@ -1479,7 +1479,7 @@ An officer is not eligible for presentation of a flag under subsection (a) if th
 
 The presentation of a flag under this section shall be at no cost to the recipient.
 
-(Pub. L. 107–372, title II, § 266, Dec. 19, 2002, 116 Stat. 3093.)
+(Pub. L. 107–372, title II, § 266, Dec. 19, 2002, 116 Stat. 3093.)
 
 **Editorial Notes**
 
@@ -1487,7 +1487,7 @@ The presentation of a flag under this section shall be at no cost to the recipie
 
 Provisions similar to those in this section were contained in section 853v of this title prior to repeal by Pub. L. 107–372.
 
-### § 3077. Education loan repayment program
+### § 3077. Education loan repayment program
 
 **(a) Authority to repay education loans** For the purpose of maintaining adequate numbers of officers of the commissioned officer corps of the Administration on active duty who have skills required by the commissioned officer corps, the Secretary may repay, in the case of a person described in subsection (b), a loan that—
 
@@ -1559,9 +1559,9 @@ An officer who does not complete the period of active duty specified in the agre
 
 **(2)** other terms and conditions for the making of loan repayments.
 
-(Pub. L. 107–372, title II, § 267, as added Pub. L. 116–259, title II, § 201(a), Dec. 23, 2020, 134 Stat. 1160.)
+(Pub. L. 107–372, title II, § 267, as added Pub. L. 116–259, title II, § 201(a), Dec. 23, 2020, 134 Stat. 1160.)
 
-### § 3078. Interest payment program
+### § 3078. Interest payment program
 
 **(a) Authority**
 
@@ -1597,9 +1597,9 @@ The Secretary shall consult with the Secretary of Education regarding the admini
 
 **(2) Reimbursement authorized** The Secretary is authorized to reimburse the Secretary of Education—
 
-**(A)** for the funds necessary to pay interest and special allowances on student loans under this section (in accordance with sections 428(*o*), 455(*l*), and 464(j) of the Higher Education Act of 1965 (20 U.S.C. 1078(*o*), 1087e(*l*), and 1087dd(j)); 1
+**(A)** for the funds necessary to pay interest and special allowances on student loans under this section (in accordance with sections 428(*o*), 455(*l*), and 464(j) of the Higher Education Act of 1965 (20 U.S.C. 1078(*o*), 1087e(*l*), and 1087dd(j)); 1
 
-<sup>1</sup>  So in original. The semicolon probably should be preceded by a third closing parenthesis.
+<sup>1</sup> So in original. The semicolon probably should be preceded by a third closing parenthesis.
 
 and
 
@@ -1609,15 +1609,15 @@ and
 
 In this section, the term ‘special allowance’ means a special allowance that is payable under section 438 of the Higher Education Act of 1965 (20 U.S.C. 1087–1).
 
-(Pub. L. 107–372, title II, § 268, as added Pub. L. 116–259, title II, § 202(a), Dec. 23, 2020, 134 Stat. 1162.)
+(Pub. L. 107–372, title II, § 268, as added Pub. L. 116–259, title II, § 202(a), Dec. 23, 2020, 134 Stat. 1162.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Higher Education Act of 1965, referred to in subsecs. (c) and (e)(2)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified generally to parts B (§ 1071 et seq.), D (§ 1087a et seq.), and E (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see section 1 of Pub. L. 89–329, set out as a Short Title note under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsecs. (c) and (e)(2)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified generally to parts B (§ 1071 et seq.), D (§ 1087a et seq.), and E (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see section 1 of Pub. L. 89–329, set out as a Short Title note under section 1001 of Title 20 and Tables.
 
-### § 3079. Student pre-commissioning education assistance program
+### § 3079. Student pre-commissioning education assistance program
 
 **(a) Authority to provide financial assistance** For the purpose of maintaining adequate numbers of officers of the commissioned officer corps of the Administration on active duty, the Secretary may provide financial assistance to a person described in subsection (b) for expenses of the person while the person is pursuing on a full-time basis at an accredited educational institution (as determined by the Secretary of Education) a program of education approved by the Secretary that leads to—
 
@@ -1723,13 +1723,13 @@ The Secretary may prescribe such regulations and orders as the Secretary conside
 
 A service obligation under this section may be completed concurrently with a service obligation under section 3006 of this title.
 
-(Pub. L. 107–372, title II, § 269, as added Pub. L. 116–259, title II, § 203(a), Dec. 23, 2020, 134 Stat. 1163.)
+(Pub. L. 107–372, title II, § 269, as added Pub. L. 116–259, title II, § 203(a), Dec. 23, 2020, 134 Stat. 1163.)
 
-### § 3079–1. Repealed. Pub. L. 119–60, div. H, title LXXXIV, § 8408(a), Dec. 18, 2025, 139 Stat. 1913
+### § 3079–1. Repealed. Pub. L. 119–60, div. H, title LXXXIV, § 8408(a), Dec. 18, 2025, 139 Stat. 1913
 
-Section, (Pub. L. 116–259, title II, § 204, Dec. 23, 2020, 134 Stat. 1165, limited financial educational assistance to candidates under sections 3077, 3078, and 3079 of this title.
+Section, (Pub. L. 116–259, title II, § 204, Dec. 23, 2020, 134 Stat. 1165, limited financial educational assistance to candidates under sections 3077, 3078, and 3079 of this title.
 
-### § 3079a. Treatment of commission in commissioned officer corps as employment in Administration for purposes of certain hiring decisions
+### § 3079a. Treatment of commission in commissioned officer corps as employment in Administration for purposes of certain hiring decisions
 
 **(a) In general**
 
@@ -1743,9 +1743,9 @@ If the Secretary selects an application submitted by an officer described in sub
 
 In this section, the term “competitive service” has the meaning given the term in section 2102 of title 5.
 
-(Pub. L. 107–372, title II, § 269A, as added Pub. L. 116–259, title II, § 209(a), Dec. 23, 2020, 134 Stat. 1168.)
+(Pub. L. 107–372, title II, § 269A, as added Pub. L. 116–259, title II, § 209(a), Dec. 23, 2020, 134 Stat. 1168.)
 
-### § 3079b. Shore leave for professional mariners
+### § 3079b. Shore leave for professional mariners
 
 **(a) In general**
 
@@ -1761,9 +1761,9 @@ The Under Secretary may prescribe regulations relating to shore leave for profes
 
 In this section, the term “professional mariner” means an individual employed on a vessel of the Administration who has the necessary expertise to serve in the engineering, deck, steward, electronic technician, or survey department.
 
-(Pub. L. 107–372, title II, § 269B, as added Pub. L. 117–263, div. K, title CXVII, § 11706(a), Dec. 23, 2022, 136 Stat. 4157.)
+(Pub. L. 107–372, title II, § 269B, as added Pub. L. 117–263, div. K, title CXVII, § 11706(a), Dec. 23, 2022, 136 Stat. 4157.)
 
-### § 3079c. Eligibility of former officers to compete for certain positions
+### § 3079c. Eligibility of former officers to compete for certain positions
 
 **(a) In general**
 
@@ -1797,4 +1797,4 @@ The Director of the Office of Personnel Management shall prescribe regulations n
 
 This section shall be repealed on the date that is 5 years after December 18, 2025.
 
-(Pub. L. 107–372, title II, § 269C, as added Pub. L. 119–60, div. H, title LXXXIV, § 8404(a), Dec. 18, 2025, 139 Stat. 1912.)
+(Pub. L. 107–372, title II, § 269C, as added Pub. L. 119–60, div. H, title LXXXIV, § 8404(a), Dec. 18, 2025, 139 Stat. 1912.)

@@ -15,13 +15,13 @@ retrieved: 2026-10-11
 
 # CHAPTER 79—STEM-TRAINING GRANT PROGRAM
 
-## § 9901. Purpose
+## § 9901. Purpose
 
 The purpose of this chapter is to replicate and implement programs at institutions of higher education that provide integrated courses of study in science, technology, engineering, or mathematics, and teacher education, that lead to a baccalaureate degree in science, technology, engineering, or mathematics with concurrent teacher certification.
 
-(Pub. L. 111–358, title V, § 551, Jan. 4, 2011, 124 Stat. 4021.)
+(Pub. L. 111–358, title V, § 551, Jan. 4, 2011, 124 Stat. 4021.)
 
-## § 9902. Program requirements
+## § 9902. Program requirements
 
 The Director shall replicate and implement undergraduate degree programs under this chapter that—
 
@@ -39,9 +39,9 @@ The Director shall replicate and implement undergraduate degree programs under t
 
 **(7)** require students participating in the program to successfully complete a final evaluation of their teaching proficiency, based on their classroom teaching performance, conducted by multiple trained observers, and a portfolio of their accomplishments.
 
-(Pub. L. 111–358, title V, § 552, Jan. 4, 2011, 124 Stat. 4022.)
+(Pub. L. 111–358, title V, § 552, Jan. 4, 2011, 124 Stat. 4022.)
 
-## § 9903. Grant program
+## § 9903. Grant program
 
 **(a) In general**
 
@@ -77,9 +77,9 @@ In the administration of this chapter, the Director shall take such steps as may
 
 **(5)** require that master teachers employed by the institution will supervise field experiences of students in the program;
 
-**(6)** require that the program complies with State certification or licensing requirements and the requirements under section 9101(23) 1
+**(6)** require that the program complies with State certification or licensing requirements and the requirements under section 9101(23) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(23)) for highly qualified teachers;
 
@@ -121,7 +121,7 @@ of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801(23)) for h
 
 Within 90 days after January 4, 2011, the Director shall initiate a proceeding to promulgate guidance for the administration of the grant program established under subsection (a).
 
-(Pub. L. 111–358, title V, § 553, Jan. 4, 2011, 124 Stat. 4022.)
+(Pub. L. 111–358, title V, § 553, Jan. 4, 2011, 124 Stat. 4022.)
 
 **Editorial Notes**
 
@@ -129,7 +129,7 @@ Within 90 days after January 4, 2011, the Director shall initiate a proceeding t
 
 Section 9101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(6), was amended by Pub. L. 114–95 and, as so amended, is now section 8101 of the Act and no longer relates to highly qualified teachers. A reference in this section to “highly qualified”, as defined in section 9101 of the Act, with respect to a teacher, means that the teacher meets applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification. See section 9214(a)(2) of Pub. L. 114–95, set out as a Use of the Term “Highly Qualified” in Other Laws note under section 1070g–2 of this title.
 
-## § 9904. Grant oversight and administration
+## § 9904. Grant oversight and administration
 
 **(a) In general** The Director may execute a contract for program oversight and fiscal management with an organization at an institution of higher education, a non-profit organization, or other entity that demonstrates capacity for and experience in—
 
@@ -171,7 +171,7 @@ At the request of the Director, the organization under contract under subsection
 
 The Director shall submit a copy of the annual report required by subsection (b)(1)(F) to the Senate Committee on Commerce, Science, and Transportation, the Senate Committee on Health, Education, Labor, and Pensions, the House of Representatives Committee on Science and Technology, and the House of Representatives Committee on Education and Labor.
 
-(Pub. L. 111–358, title V, § 554, Jan. 4, 2011, 124 Stat. 4024.)
+(Pub. L. 111–358, title V, § 554, Jan. 4, 2011, 124 Stat. 4024.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -181,7 +181,7 @@ Committee on Education and Labor of House of Representatives changed to Committe
 
 Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
-## § 9905. Definitions
+## § 9905. Definitions
 
 In this chapter:
 
@@ -211,10 +211,10 @@ The term “mentor teacher” means an elementary or secondary school classroom 
 
 The term “Director” means the Director of the National Science Foundation.
 
-(Pub. L. 111–358, title V, § 555, Jan. 4, 2011, 124 Stat. 4025.)
+(Pub. L. 111–358, title V, § 555, Jan. 4, 2011, 124 Stat. 4025.)
 
-## § 9906. Authorization of appropriations
+## § 9906. Authorization of appropriations
 
 There are authorized to be appropriated to the Director to carry out this chapter $10,000,000 for each of fiscal years 2011 through 2013.
 
-(Pub. L. 111–358, title V, § 556, Jan. 4, 2011, 124 Stat. 4026.)
+(Pub. L. 111–358, title V, § 556, Jan. 4, 2011, 124 Stat. 4026.)

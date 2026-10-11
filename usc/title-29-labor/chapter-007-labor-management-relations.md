@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 141. Short title; Congressional declaration of purpose and policy
+### § 141. Short title; Congressional declaration of purpose and policy
 
 **(a)** This chapter may be cited as the “Labor Management Relations Act, 1947”.
 
@@ -25,19 +25,19 @@ retrieved: 2026-10-11
 
 It is the purpose and policy of this chapter, in order to promote the full flow of commerce, to prescribe the legitimate rights of both employees and employers in their relations affecting commerce, to provide orderly and peaceful procedures for preventing the interference by either with the legitimate rights of the other, to protect the rights of individual employees in their relations with labor organizations whose activities affect commerce, to define and proscribe practices on the part of labor and management which affect commerce and are inimical to the general welfare, and to protect the rights of the public in connection with labor disputes affecting commerce.
 
-(June 23, 1947, ch. 120, § 1, 61 Stat. 136.)
+(June 23, 1947, ch. 120, § 1, 61 Stat. 136.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (a), was in the original “This Act” meaning act June 23, 1947, ch. 120, 61 Stat. 136, which is classified principally to this subchapter and subchapters III (§ 171 et seq.) and IV (§ 185 et seq.) of this chapter. For complete classification of this act to the Code, see Tables.
+This chapter, referred to in subsec. (a), was in the original “This Act” meaning act June 23, 1947, ch. 120, 61 Stat. 136, which is classified principally to this subchapter and subchapters III (§ 171 et seq.) and IV (§ 185 et seq.) of this chapter. For complete classification of this act to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1978 Amendment**
 
-Pub. L. 95–524, § 6(a), Oct. 27, 1978, 92 Stat. 2020, provided that: “This section [enacting section 175a of this title, amending sections 173 and 186 of this title, and enacting provisions set out as notes under section 175a of this title] may be cited as the ‘Labor Management Cooperation Act of 1978’.”
+Pub. L. 95–524, § 6(a), Oct. 27, 1978, 92 Stat. 2020, provided that: “This section [enacting section 175a of this title, amending sections 173 and 186 of this title, and enacting provisions set out as notes under section 175a of this title] may be cited as the ‘Labor Management Cooperation Act of 1978’.”
 
 **National Commission on Technology, Automation, and Economic Progress**
 
@@ -63,7 +63,7 @@ Ex. Ord. No. 14025, Apr. 26, 2021, 86 F.R. 22829, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. *Policy and Findings*. The National Labor Relations Act (29 U.S.C. 151 [et seq.]) proclaims that the policy of the United States is to encourage worker organizing and collective bargaining and to promote equality of bargaining power between employers and employees. In the Federal Service Labor-Management Relations Statute (5 U.S.C. 7101(a)(1)), the Congress found that “experience in both private and public employment indicates that the statutory protection of the right of employees to organize, bargain collectively, and participate through labor organizations of their own choosing in decisions which affect them … safeguards the public interest, … contributes to the effective conduct of public business, and … facilitates and encourages the amicable settlements of disputes between employees and their employers involving conditions of employment.”
+Section 1. *Policy and Findings*. The National Labor Relations Act (29 U.S.C. 151 [et seq.]) proclaims that the policy of the United States is to encourage worker organizing and collective bargaining and to promote equality of bargaining power between employers and employees. In the Federal Service Labor-Management Relations Statute (5 U.S.C. 7101(a)(1)), the Congress found that “experience in both private and public employment indicates that the statutory protection of the right of employees to organize, bargain collectively, and participate through labor organizations of their own choosing in decisions which affect them … safeguards the public interest, … contributes to the effective conduct of public business, and … facilitates and encourages the amicable settlements of disputes between employees and their employers involving conditions of employment.”
 
 In the past few decades, the Federal Government has not used its full authority to promote and implement this policy of support for workers organizing unions and bargaining collectively with their employers. During this period, economic change in the United States and globally, technological developments, and the failure to modernize Federal organizing and labor-management relations laws to respond appropriately to the reality found in American workplaces, have made worker organizing exceedingly difficult.
 
@@ -161,7 +161,7 @@ Sec. 5. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 J.R. Biden, Jr.
 
-### § 142. Definitions
+### § 142. Definitions
 
 When used in this chapter—
 
@@ -171,25 +171,25 @@ When used in this chapter—
 
 **(3)** The terms “commerce”, “labor disputes”, “employer”, “employee”, “labor organization”, “representative”, “person”, and “supervisor” shall have the same meaning as when used in subchapter II of this chapter.
 
-(June 23, 1947, ch. 120, title V, § 501, 61 Stat. 161.)
+(June 23, 1947, ch. 120, title V, § 501, 61 Stat. 161.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subchapter II of this chapter, referred to in par. (3), was in the original “the National Labor Relations Act as amended by this Act” [29 U.S.C. § 151 et seq.].
+Subchapter II of this chapter, referred to in par. (3), was in the original “the National Labor Relations Act as amended by this Act” [29 U.S.C. § 151 et seq.].
 
-### § 143. Saving provisions
+### § 143. Saving provisions
 
 Nothing in this chapter shall be construed to require an individual employee to render labor or service without his consent, nor shall anything in this chapter be construed to make the quitting of his labor by an individual employee an illegal act; nor shall any court issue any process to compel the performance by an individual employee of such labor or service, without his consent; nor shall the quitting of labor by an employee or employees in good faith because of abnormally dangerous conditions for work at the place of employment of such employee or employees be deemed a strike under this chapter.
 
-(June 23, 1947, ch. 120, title V, § 502, 61 Stat. 162.)
+(June 23, 1947, ch. 120, title V, § 502, 61 Stat. 162.)
 
-### § 144. Separability
+### § 144. Separability
 
 If any provision of this chapter, or the application of such provision to any person or circumstance, shall be held invalid, the remainder of this chapter, or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.
 
-(June 23, 1947, ch. 120, title V, § 503, 61 Stat. 162.)
+(June 23, 1947, ch. 120, title V, § 503, 61 Stat. 162.)
 
 ## SUBCHAPTER II—NATIONAL LABOR RELATIONS
 
@@ -199,7 +199,7 @@ If any provision of this chapter, or the application of such provision to any pe
 
 This subchapter is comprised of the National Labor Relations Act, and is not part of the Labor Management Relations Act, 1947, which comprises this chapter.
 
-### § 151. Findings and declaration of policy
+### § 151. Findings and declaration of policy
 
 The denial by some employers of the right of employees to organize and the refusal by some employers to accept the procedure of collective bargaining lead to strikes and other forms of industrial strife or unrest, which have the intent or the necessary effect of burdening or obstructing commerce by (a) impairing the efficiency, safety, or operation of the instrumentalities of commerce; (b) occurring in the current of commerce; (c) materially affecting, restraining, or controlling the flow of raw materials or manufactured or processed goods from or into the channels of commerce, or the prices of such materials or goods in commerce; or (d) causing diminution of employment and wages in such volume as substantially to impair or disrupt the market for goods flowing from or into the channels of commerce.
 
@@ -211,7 +211,7 @@ Experience has further demonstrated that certain practices by some labor organiz
 
 It is hereby declared to be the policy of the United States to eliminate the causes of certain substantial obstructions to the free flow of commerce and to mitigate and eliminate these obstructions when they have occurred by encouraging the practice and procedure of collective bargaining and by protecting the exercise by workers of full freedom of association, self-organization, and designation of representatives of their own choosing, for the purpose of negotiating the terms and conditions of their employment or other mutual aid or protection.
 
-(July 5, 1935, ch. 372, § 1, 49 Stat. 449; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 136.)
+(July 5, 1935, ch. 372, § 1, 49 Stat. 449; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 136.)
 
 **Editorial Notes**
 
@@ -223,9 +223,9 @@ It is hereby declared to be the policy of the United States to eliminate the cau
 
 **Effective Date of 1947 Amendment**
 
-Act June 23, 1947, ch. 120, title I, § 104, 61 Stat. 152, provided that: “The amendments made by this title [amending this subchapter] shall take effect sixty days after the date of the enactment of this Act [June 23, 1947], except that the authority of the President to appoint certain officers conferred upon him by section 3 of the National Labor Relations Act as amended by this title [section 153 of this title] may be exercised forthwith.”
+Act June 23, 1947, ch. 120, title I, § 104, 61 Stat. 152, provided that: “The amendments made by this title [amending this subchapter] shall take effect sixty days after the date of the enactment of this Act [June 23, 1947], except that the authority of the President to appoint certain officers conferred upon him by section 3 of the National Labor Relations Act as amended by this title [section 153 of this title] may be exercised forthwith.”
 
-### § 152. Definitions
+### § 152. Definitions
 
 When used in this subchapter—
 
@@ -265,23 +265,23 @@ any employee, who (i) has completed the courses of specialized intellectual inst
 
 **(14)** The term “health care institution” shall include any hospital, convalescent hospital, health maintenance organization, health clinic, nursing home, extended care facility, or other institution devoted to the care of sick, infirm, or aged person.1
 
-<sup>1</sup>  So in original. Probably should be “persons.”
+<sup>1</sup> So in original. Probably should be “persons.”
 
-(July 5, 1935, ch. 372, § 2, 49 Stat. 450; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 137; Pub. L. 93–360, § 1(a), (b), July 26, 1974, 88 Stat. 395; Pub. L. 95–598, title III, § 319, Nov. 6, 1978, 92 Stat. 2678.)
+(July 5, 1935, ch. 372, § 2, 49 Stat. 450; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 137; Pub. L. 93–360, § 1(a), (b), July 26, 1974, 88 Stat. 395; Pub. L. 95–598, title III, § 319, Nov. 6, 1978, 92 Stat. 2678.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Railway Labor Act, referred to in pars. (2) and (3), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+The Railway Labor Act, referred to in pars. (2) and (3), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
 **Amendments**
 
 1978—Par. (1). Pub. L. 95–598 substituted “cases under title 11” for “bankruptcy”.
 
-1974—Par. (2). Pub. L. 93–360, § 1(a), struck out provisions which had excepted from definition of “employer” corporations and associations operating hospitals if no part of the net earnings inured to the benefit of any private shareholder or individual.
+1974—Par. (2). Pub. L. 93–360, § 1(a), struck out provisions which had excepted from definition of “employer” corporations and associations operating hospitals if no part of the net earnings inured to the benefit of any private shareholder or individual.
 
-Par. (14). Pub. L. 93–360, § 1(b), added par. (14).
+Par. (14). Pub. L. 93–360, § 1(b), added par. (14).
 
 1947—Act June 23, 1947, amended section generally to redefine terms used in this subchapter and to define several new terms.
 
@@ -299,7 +299,7 @@ Amendment by Pub. L. 93–360 effective on thirtieth day after July 26, 1974, se
 
 For effective date of amendment by act June 23, 1947, see section 104 of act June 23, 1947, set out as a note under section 151 of this title.
 
-### § 153. National Labor Relations Board
+### § 153. National Labor Relations Board
 
 **(a) Creation, composition, appointment, and tenure; Chairman; removal of members**
 
@@ -317,7 +317,7 @@ The Board shall at the close of each fiscal year make a report in writing to Con
 
 There shall be a General Counsel of the Board who shall be appointed by the President, by and with the advice and consent of the Senate, for a term of four years. The General Counsel of the Board shall exercise general supervision over all attorneys employed by the Board (other than administrative law judges and legal assistants to Board members) and over the officers and employees in the regional offices. He shall have final authority, on behalf of the Board, in respect of the investigation of charges and issuance of complaints under section 160 of this title, and in respect of the prosecution of such complaints before the Board, and shall have such other duties as the Board may prescribe or as may be provided by law. In case of a vacancy in the office of the General Counsel the President is authorized to designate the officer or employee who shall act as General Counsel during such vacancy, but no person or persons so designated shall so act (1) for more than forty days when the Congress is in session unless a nomination to fill such vacancy shall have been submitted to the Senate, or (2) after the adjournment sine die of the session of the Senate in which such nomination was submitted.
 
-(July 5, 1935, ch. 372, § 3, 49 Stat. 451; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 139; Pub. L. 86–257, title VII, §§ 701(b), 703, Sept. 14, 1959, 73 Stat. 542; Pub. L. 93–608, § 3(3), Jan. 2, 1975, 88 Stat. 1972; Pub. L. 95–251, § 3, Mar. 27, 1978, 92 Stat. 184; Pub. L. 97–375, title II, § 213, Dec. 21, 1982, 96 Stat. 1826.)
+(July 5, 1935, ch. 372, § 3, 49 Stat. 451; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 139; Pub. L. 86–257, title VII, §§ 701(b), 703, Sept. 14, 1959, 73 Stat. 542; Pub. L. 93–608, § 3(3), Jan. 2, 1975, 88 Stat. 1972; Pub. L. 95–251, § 3, Mar. 27, 1978, 92 Stat. 184; Pub. L. 97–375, title II, § 213, Dec. 21, 1982, 96 Stat. 1826.)
 
 **Editorial Notes**
 
@@ -335,9 +335,9 @@ In subsec. (d), “administrative law judges” substituted for “trial examine
 
 1975—Subsec. (c). Pub. L. 93–608 struck out requirement that report contain the names, salaries, and duties of all employees and officers employed or supervised by the Board.
 
-1959—Subsec. (b). Pub. L. 86–257, § 701(b), authorized the Board to delegate to its regional directors its powers under section 159 of this title to determine the unit appropriate for the purpose of collective bargaining, to investigate and provide for hearings, and determine whether a question of representation exists, and to direct an election or take a secret ballot under section 159(c) or 159(e) of this title and certify the results thereof.
+1959—Subsec. (b). Pub. L. 86–257, § 701(b), authorized the Board to delegate to its regional directors its powers under section 159 of this title to determine the unit appropriate for the purpose of collective bargaining, to investigate and provide for hearings, and determine whether a question of representation exists, and to direct an election or take a secret ballot under section 159(c) or 159(e) of this title and certify the results thereof.
 
-Subsec. (d). Pub. L. 86–257, § 703, authorized the President to designate the officer or employee who shall act as General Counsel in the case of a vacancy in the office of the General Counsel.
+Subsec. (d). Pub. L. 86–257, § 703, authorized the President to designate the officer or employee who shall act as General Counsel in the case of a vacancy in the office of the General Counsel.
 
 1947—Act June 23, 1947, amended section generally by increasing membership from three to five, delegating its powers and duties to a quorum of any three members, and by appointing a General Counsel and outlining his powers and duties.
 
@@ -345,19 +345,19 @@ Subsec. (d). Pub. L. 86–257, § 703, authorized the President to designate t
 
 **Effective Date of 1959 Amendment**
 
-Pub. L. 86–257, title VII, § 707, Sept. 14, 1959, 73 Stat. 546, provided that: “The amendments made by this title [amending this section and sections 158, 159, and 160 of this title] shall take effect sixty days after the date of the enactment of this Act [Sept. 14, 1959] and no provision of this title shall be deemed to make an unfair labor practice, any act which is performed prior to such effective date which did not constitute an unfair labor practice prior thereto.”
+Pub. L. 86–257, title VII, § 707, Sept. 14, 1959, 73 Stat. 546, provided that: “The amendments made by this title [amending this section and sections 158, 159, and 160 of this title] shall take effect sixty days after the date of the enactment of this Act [Sept. 14, 1959] and no provision of this title shall be deemed to make an unfair labor practice, any act which is performed prior to such effective date which did not constitute an unfair labor practice prior thereto.”
 
 **Termination of Reporting Requirements**
 
 For termination, effective May 15, 2000, of provisions in subsec. (c) of this section relating to making a report in writing to Congress at the close of each fiscal year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 184 of House Document No. 103–7.
 
-### § 154. National Labor Relations Board; eligibility for reappointment; officers and employees; payment of expenses
+### § 154. National Labor Relations Board; eligibility for reappointment; officers and employees; payment of expenses
 
 **(a)** Each member of the Board and the General Counsel of the Board shall be eligible for reappointment, and shall not engage in any other business, vocation, or employment. The Board shall appoint an executive secretary, and such attorneys, examiners, and regional directors, and such other employees as it may from time to time find necessary for the proper performance of its duties. The Board may not employ any attorneys for the purpose of reviewing transcripts of hearings or preparing drafts of opinions except that any attorney employed for assignment as a legal assistant to any Board member may for such Board member review such transcripts and prepare such drafts. No administrative law judge’s report shall be reviewed, either before or after its publication, by any person other than a member of the Board or his legal assistant, and no administrative law judge shall advise or consult with the Board with respect to exceptions taken to his findings, rulings, or recommendations. The Board may establish or utilize such regional, local, or other agencies, and utilize such voluntary and uncompensated services, as may from time to time be needed. Attorneys appointed under this section may, at the direction of the Board, appear for and represent the Board in any case in court. Nothing in this subchapter shall be construed to authorize the Board to appoint individuals for the purpose of conciliation or mediation, or for economic analysis.
 
 **(b)** All of the expenses of the Board, including all necessary traveling and subsistence expenses outside the District of Columbia incurred by the members or employees of the Board under its orders, shall be allowed and paid on the presentation of itemized vouchers therefor approved by the Board or by any individual it designates for that purpose.
 
-(July 5, 1935, ch. 372, § 4, 49 Stat. 451; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 139; Pub. L. 95–251, § 3, Mar. 27, 1978, 92 Stat. 184.)
+(July 5, 1935, ch. 372, § 4, 49 Stat. 451; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 139; Pub. L. 95–251, § 3, Mar. 27, 1978, 92 Stat. 184.)
 
 **Editorial Notes**
 
@@ -377,11 +377,11 @@ In subsec. (a), “administrative law judge’s” and “administrative law jud
 
 For effective date of amendment by act June 23, 1947, see section 104 of act June 23, 1947, set out as a note under section 151 of this title.
 
-### § 155. National Labor Relations Board; principal office, conducting inquiries throughout country; participation in decisions or inquiries conducted by member
+### § 155. National Labor Relations Board; principal office, conducting inquiries throughout country; participation in decisions or inquiries conducted by member
 
 The principal office of the Board shall be in the District of Columbia, but it may meet and exercise any or all of its powers at any other place. The Board may, by one or more of its members or by such agents or agencies as it may designate, prosecute any inquiry necessary to its functions in any part of the United States. A member who participates in such an inquiry shall not be disqualified from subsequently participating in a decision of the Board in the same case.
 
-(July 5, 1935, ch. 372, § 5, 49 Stat. 452; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 140.)
+(July 5, 1935, ch. 372, § 5, 49 Stat. 452; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 140.)
 
 **Editorial Notes**
 
@@ -395,17 +395,17 @@ The principal office of the Board shall be in the District of Columbia, but it m
 
 For effective date of amendment by act June 23, 1947, see section 104 of act June 23, 1947, set out as a note under section 151 of this title.
 
-### § 156. Rules and regulations
+### § 156. Rules and regulations
 
 The Board shall have authority from time to time to make, amend, and rescind, in the manner prescribed by subchapter II of chapter 5 of title 5, such rules and regulations as may be necessary to carry out the provisions of this subchapter.
 
-(July 5, 1935, ch. 372, § 6, 49 Stat. 452; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 140.)
+(July 5, 1935, ch. 372, § 6, 49 Stat. 452; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 140.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Subchapter II of chapter 5 of title 5” substituted in text for “the Administrative Procedure Act” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+“Subchapter II of chapter 5 of title 5” substituted in text for “the Administrative Procedure Act” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 **Amendments**
 
@@ -417,11 +417,11 @@ The Board shall have authority from time to time to make, amend, and rescind, in
 
 For effective date of amendment by act June 23, 1947, see section 104 of act June 23, 1947, set out as a note under section 151 of this title.
 
-### § 157. Right of employees as to organization, collective bargaining, etc.
+### § 157. Right of employees as to organization, collective bargaining, etc.
 
 Employees shall have the right to self-organization, to form, join, or assist labor organizations, to bargain collectively through representatives of their own choosing, and to engage in other concerted activities for the purpose of collective bargaining or other mutual aid or protection, and shall also have the right to refrain from any or all of such activities except to the extent that such right may be affected by an agreement requiring membership in a labor organization as a condition of employment as authorized in section 158(a)(3) of this title.
 
-(July 5, 1935, ch. 372, § 7, 49 Stat. 452; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 140.)
+(July 5, 1935, ch. 372, § 7, 49 Stat. 452; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 140.)
 
 **Editorial Notes**
 
@@ -435,7 +435,7 @@ Employees shall have the right to self-organization, to form, join, or assist la
 
 For effective date of amendment by act June 23, 1947, see section 104 of act June 23, 1947, set out as a note under section 151 of this title.
 
-### § 158. Unfair labor practices
+### § 158. Unfair labor practices
 
 **(a) Unfair labor practices by employer** It shall be an unfair labor practice for an employer—
 
@@ -517,9 +517,9 @@ The duties imposed upon employers, employees, and labor organizations by paragra
 
 **(e) Enforceability of contract or agreement to boycott any other employer; exception**
 
-It shall be an unfair labor practice for any labor organization and any employer to enter into any contract or agreement, express or implied, whereby such employer ceases or refrains or agrees to cease or refrain from handling, using, selling, transporting or otherwise dealing in any of the products of any other employer, or to cease doing business with any other person, and any contract or agreement entered into heretofore or hereafter containing such an agreement shall be to such extent unenforcible 1
+It shall be an unfair labor practice for any labor organization and any employer to enter into any contract or agreement, express or implied, whereby such employer ceases or refrains or agrees to cease or refrain from handling, using, selling, transporting or otherwise dealing in any of the products of any other employer, or to cease doing business with any other person, and any contract or agreement entered into heretofore or hereafter containing such an agreement shall be to such extent unenforcible 1
 
-<sup>1</sup>  So in original. Probably should be “unenforceable”.
+<sup>1</sup> So in original. Probably should be “unenforceable”.
 
 and void: *Provided*, That nothing in this subsection shall apply to an agreement between a labor organization and an employer in the construction industry relating to the contracting or subcontracting of work to be done at the site of the construction, alteration, painting, or repair of a building, structure, or other work: *Provided further*, That for the purposes of this subsection and subsection (b)(4)(B) the terms “any employer”, “any person engaged in commerce or an industry affecting commerce”, and “any person” when used in relation to the terms “any other producer, processor, or manufacturer”, “any other employer”, or “any other person” shall not include persons in the relation of a jobber, manufacturer, contractor, or subcontractor working on the goods or premises of the jobber or manufacturer or performing parts of an integrated process of production in the apparel and clothing industry: *Provided further*, That nothing in this subchapter shall prohibit the enforcement of any agreement which is within the foregoing exception.
 
@@ -531,25 +531,25 @@ It shall not be an unfair labor practice under subsections (a) and (b) of this s
 
 A labor organization before engaging in any strike, picketing, or other concerted refusal to work at any health care institution shall, not less than ten days prior to such action, notify the institution in writing and the Federal Mediation and Conciliation Service of that intention, except that in the case of bargaining for an initial agreement following certification or recognition the notice required by this subsection shall not be given until the expiration of the period specified in clause (B) of the last sentence of subsection (d). The notice shall state the date and time that such action will commence. The notice, once given, may be extended by the written agreement of both parties.
 
-(July 5, 1935, ch. 372, § 8, 49 Stat. 452; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 140; Oct. 22, 1951, ch. 534, § 1(b), 65 Stat. 601; Pub. L. 86–257, title II, § 201(e), title VII, §§ 704(a)–(c), 705(a), Sept. 14, 1959, 73 Stat. 525, 542–545; Pub. L. 93–360, § 1(c)–(e), July 26, 1974, 88 Stat. 395, 396.)
+(July 5, 1935, ch. 372, § 8, 49 Stat. 452; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 140; Oct. 22, 1951, ch. 534, § 1(b), 65 Stat. 601; Pub. L. 86–257, title II, § 201(e), title VII, §§ 704(a)–(c), 705(a), Sept. 14, 1959, 73 Stat. 525, 542–545; Pub. L. 93–360, § 1(c)–(e), July 26, 1974, 88 Stat. 395, 396.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1974—Subsec. (d). Pub. L. 93–360, § 1(c), (d), substituted “any notice” for “the sixty-day” and inserted “, or who engages in any strike within the appropriate period specified in subsection (g) of this section,” in loss-of-employee-status provision and inserted enumeration of modifications to this subsection which are to be applied whenever the collective bargaining involves employees of a health care institution.
+1974—Subsec. (d). Pub. L. 93–360, § 1(c), (d), substituted “any notice” for “the sixty-day” and inserted “, or who engages in any strike within the appropriate period specified in subsection (g) of this section,” in loss-of-employee-status provision and inserted enumeration of modifications to this subsection which are to be applied whenever the collective bargaining involves employees of a health care institution.
 
-Subsec. (g). Pub. L. 93–360, § 1(e), added subsec. (g).
+Subsec. (g). Pub. L. 93–360, § 1(e), added subsec. (g).
 
-1959—Subsec. (a)(3). Pub. L. 86–257, § 201(e), struck out “and has at the time the agreement was made or within the preceding twelve months received from the Board a notice of compliance with sections 159(f), (g), (h) of this title” after “such agreement when made” in cl. (i).
+1959—Subsec. (a)(3). Pub. L. 86–257, § 201(e), struck out “and has at the time the agreement was made or within the preceding twelve months received from the Board a notice of compliance with sections 159(f), (g), (h) of this title” after “such agreement when made” in cl. (i).
 
-Subsec. (b)(4). Pub. L. 86–257, § 704(a), among other changes, substituted “induce or encourage any individual employed by any person engaged in commerce or in an industry affecting commerce to engage in, a strike or a refusal in the course of his employment” for “induce or encourage the employees of any employer to engage in, a strike or a concerted refusal in the course of their employment” in cl. (i), added cl. (ii), and inserted provisions relating to agreements prohibited by subsection (e) of this section in cl. (A), the proviso relating to primary strikes and primary picketing in cl. (B), and the last proviso relating to publicity.
+Subsec. (b)(4). Pub. L. 86–257, § 704(a), among other changes, substituted “induce or encourage any individual employed by any person engaged in commerce or in an industry affecting commerce to engage in, a strike or a refusal in the course of his employment” for “induce or encourage the employees of any employer to engage in, a strike or a concerted refusal in the course of their employment” in cl. (i), added cl. (ii), and inserted provisions relating to agreements prohibited by subsection (e) of this section in cl. (A), the proviso relating to primary strikes and primary picketing in cl. (B), and the last proviso relating to publicity.
 
-Subsec. (b)(7). Pub. L. 86–257, § 704(c), added par. (7).
+Subsec. (b)(7). Pub. L. 86–257, § 704(c), added par. (7).
 
-Subsec. (e). Pub. L. 86–257, § 704(b), added subsec. (e).
+Subsec. (e). Pub. L. 86–257, § 704(b), added subsec. (e).
 
-Subsec. (f). Pub. L. 86–257, § 705(a), added subsec. (f).
+Subsec. (f). Pub. L. 86–257, § 705(a), added subsec. (f).
 
 1951—Subsec. (a)(3). Act Oct. 22, 1951, substituted “and has at the time the agreement was made or within the preceding twelve months received from the Board a notice of compliance with section 159(f), (g), (h) of this title, and (ii) unless following an election held as provided in section 159(e) of this title within one year preceding the effective date of such agreement, the Board shall have certified that at least a majority of the employees eligible to vote in such election have voted to rescind the authority of such labor organization to make such an agreement:” for “; and (ii) if, following the most recent election held as provided in section 159(e) of this title the Board shall have certified that at least a majority of the employees eligible to vote in such election have voted to authorize such labor organization to make such an agreement:”.
 
@@ -575,13 +575,13 @@ Section 705(b) of Pub. L. 86–257 provided that: “Nothing contained in the am
 
 **Unfair Labor Practices Prior to June 23, 1947**
 
-Act June 23, 1947, ch. 120, title I, § 102, 61 Stat. 152, provided that: “No provision of this title [amending this subchapter] shall be deemed to make an unfair labor practice any act which was performed prior to the date of the enactment of this act [June 23, 1947] which did not constitute an unfair labor practice prior thereto, and the provisions of section 8(a)(3) and section 8(b)(2) of the National Labor Relations Act as amended by this title [subsecs. (a)(3) and (b)(2) of this section] shall not make an unfair labor practice the performance of any obligation under a collective-bargaining agreement entered into prior to the date of the enactment of this Act [June 23, 1947], or (in the case of an agreement for a period of not more than one year) entered into on or after such date of enactment, but prior to the effective date of this title, if the performance of such obligation would not have constituted an unfair labor practice under section 8(3) [see subsec. (a)(3) of this section] of the National Labor Relations Act prior to the effective date of this title [sixty days after June 23, 1947] unless such agreement was renewed or extended subsequent thereto.”
+Act June 23, 1947, ch. 120, title I, § 102, 61 Stat. 152, provided that: “No provision of this title [amending this subchapter] shall be deemed to make an unfair labor practice any act which was performed prior to the date of the enactment of this act [June 23, 1947] which did not constitute an unfair labor practice prior thereto, and the provisions of section 8(a)(3) and section 8(b)(2) of the National Labor Relations Act as amended by this title [subsecs. (a)(3) and (b)(2) of this section] shall not make an unfair labor practice the performance of any obligation under a collective-bargaining agreement entered into prior to the date of the enactment of this Act [June 23, 1947], or (in the case of an agreement for a period of not more than one year) entered into on or after such date of enactment, but prior to the effective date of this title, if the performance of such obligation would not have constituted an unfair labor practice under section 8(3) [see subsec. (a)(3) of this section] of the National Labor Relations Act prior to the effective date of this title [sixty days after June 23, 1947] unless such agreement was renewed or extended subsequent thereto.”
 
-### § 158a. Providing facilities for operations of Federal Credit Unions
+### § 158a. Providing facilities for operations of Federal Credit Unions
 
 Provision by an employer of facilities for the operations of a Federal Credit Union on the premises of such employer shall not be deemed to be intimidation, coercion, interference, restraint or discrimination within the provisions of sections 157 and 158 of this title, or acts amendatory thereof.
 
-(Dec. 6, 1937, ch. 3, § 5, 51 Stat. 5.)
+(Dec. 6, 1937, ch. 3, § 5, 51 Stat. 5.)
 
 **Editorial Notes**
 
@@ -589,7 +589,7 @@ Provision by an employer of facilities for the operations of a Federal Credit Un
 
 This section was not enacted either as part of the Labor Management Relations Act, 1947, which comprises this chapter, or as part of the National Labor Relations Act, which comprises this subchapter.
 
-### § 159. Representatives and elections
+### § 159. Representatives and elections
 
 **(a) Exclusive representatives; employees’ adjustment of grievances directly with employer**
 
@@ -627,21 +627,21 @@ Whenever an order of the Board made pursuant to section 160(c) of this title is 
 
 **(2)** No election shall be conducted pursuant to this subsection in any bargaining unit or any subdivision within which, in the preceding twelve-month period, a valid election shall have been held.
 
-(July 5, 1935, ch. 372, § 9, 49 Stat. 453; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 143; Oct. 22, 1951, ch. 534, § 1(c), (d), 65 Stat. 601; Pub. L. 86–257, title II, § 201(d), title VII, § 702, Sept. 14, 1959, 73 Stat. 525, 542.)
+(July 5, 1935, ch. 372, § 9, 49 Stat. 453; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 143; Oct. 22, 1951, ch. 534, § 1(c), (d), 65 Stat. 601; Pub. L. 86–257, title II, § 201(d), title VII, § 702, Sept. 14, 1959, 73 Stat. 525, 542.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1959—Subsec. (c)(3). Pub. L. 86–257, § 702, substituted “Employees engaged in an economic strike who are not entitled to reinstatement shall be eligible to vote under such regulations as the Board shall find are consistent with the purposes and provisions of this subchapter in any election conducted within twelve months after the commencement of the strike” for “Employees on strike who are not entitled to reinstatement shall not be eligible to vote.”
+1959—Subsec. (c)(3). Pub. L. 86–257, § 702, substituted “Employees engaged in an economic strike who are not entitled to reinstatement shall be eligible to vote under such regulations as the Board shall find are consistent with the purposes and provisions of this subchapter in any election conducted within twelve months after the commencement of the strike” for “Employees on strike who are not entitled to reinstatement shall not be eligible to vote.”
 
-Subsecs. (f), (g). Pub. L. 86–257, § 201(d), repealed subsecs. (f) and (g) which required unions to file their constitutions, bylaws and a report, prescribed the contents of the report and directed the filing of annual financial reports, and are now covered by section 431 of this title.
+Subsecs. (f), (g). Pub. L. 86–257, § 201(d), repealed subsecs. (f) and (g) which required unions to file their constitutions, bylaws and a report, prescribed the contents of the report and directed the filing of annual financial reports, and are now covered by section 431 of this title.
 
-Subsec. (h). Pub. L. 86–257, § 201(d), repealed subsec. (h) which related to affidavits showing union’s officers free from Communist Party affiliation or belief.
+Subsec. (h). Pub. L. 86–257, § 201(d), repealed subsec. (h) which related to affidavits showing union’s officers free from Communist Party affiliation or belief.
 
-1951—Subsec. (e). Act Oct. 22, 1951, § 1(c), struck out par. (1) and renumbered pars. (2) and (3) as (1) and (2).
+1951—Subsec. (e). Act Oct. 22, 1951, § 1(c), struck out par. (1) and renumbered pars. (2) and (3) as (1) and (2).
 
-Subsecs. (f) to (h). Act Oct. 22, 1951, § 1(d), struck out “No petition under section 159(e)(1) shall be entertained” wherever appearing.
+Subsecs. (f) to (h). Act Oct. 22, 1951, § 1(d), struck out “No petition under section 159(e)(1) shall be entertained” wherever appearing.
 
 1947—Act June 23, 1947, amended section generally to allow employees to carry their grievances directly to the employer, to circumscribe certain powers of the Board, to make the union file with the Secretary of Labor its constitution, bylaws, and report before being certified as a bargaining agent, to require annual reports by labor unions, and to require labor unions to file affidavits with the Board showing that none of its officers are affiliated with or believe in the Communist Party.
 
@@ -657,9 +657,9 @@ For effective date of amendment by act June 23, 1947, see section 104 of act Jun
 
 **Certain Certifications of Bargaining Units Unaffected**
 
-Act June 23, 1947, ch. 120, title I, § 103, 61 Stat. 152, provided that: “No provisions of this title [amending this subchapter] shall affect any certification of representatives or any determination as to the appropriate collective-bargaining unit, which was made under section 9 of the National Labor Relations Act [this section] prior to the effective date of this title [sixty days after June 23, 1947] until one year after the date of such certification or if, in respect of any such certification, a collective-bargaining contract was entered into prior to the effective date of this title [sixty days after June 23, 1947], until the end of the contract period or until one year after such date, whichever first occurs.”
+Act June 23, 1947, ch. 120, title I, § 103, 61 Stat. 152, provided that: “No provisions of this title [amending this subchapter] shall affect any certification of representatives or any determination as to the appropriate collective-bargaining unit, which was made under section 9 of the National Labor Relations Act [this section] prior to the effective date of this title [sixty days after June 23, 1947] until one year after the date of such certification or if, in respect of any such certification, a collective-bargaining contract was entered into prior to the effective date of this title [sixty days after June 23, 1947], until the end of the contract period or until one year after such date, whichever first occurs.”
 
-### § 160. Prevention of unfair labor practices
+### § 160. Prevention of unfair labor practices
 
 **(a) Powers of Board generally**
 
@@ -693,7 +693,7 @@ The commencement of proceedings under subsection (e) or (f) of this section shal
 
 When granting appropriate temporary relief or a restraining order, or making and entering a decree enforcing, modifying, and enforcing as so modified or setting aside in whole or in part an order of the Board, as provided in this section, the jurisdiction of courts sitting in equity shall not be limited by chapter 6 of this title.
 
-**(i) Repealed. Pub. L. 98–620, title IV, § 402(31), Nov. 8, 1984, 98 Stat. 3360**
+**(i) Repealed. Pub. L. 98–620, title IV, § 402(31), Nov. 8, 1984, 98 Stat. 3360**
 
 **(j) Injunctions**
 
@@ -711,7 +711,7 @@ Whenever it is charged that any person has engaged in an unfair labor practice w
 
 Whenever it is charged that any person has engaged in an unfair labor practice within the meaning of subsection (a)(3) or (b)(2) of section 158 of this title, such charge shall be given priority over all other cases except cases of like character in the office where it is filed or to which it is referred and cases given priority under subsection (*l*).
 
-(July 5, 1935, ch. 372, § 10, 49 Stat. 453; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 146; June 25, 1948, ch. 646, § 32(a), (b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 85–791, § 13, Aug. 28, 1958, 72 Stat. 945; Pub. L. 86–257, title VII, §§ 704(d), 706, Sept. 14, 1959, 73 Stat. 544; Pub. L. 95–251, § 3, Mar. 27, 1978, 92 Stat. 184; Pub. L. 98–620, title IV, § 402(31), Nov. 8, 1984, 98 Stat. 3360.)
+(July 5, 1935, ch. 372, § 10, 49 Stat. 453; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 146; June 25, 1948, ch. 646, § 32(a), (b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 85–791, § 13, Aug. 28, 1958, 72 Stat. 945; Pub. L. 86–257, title VII, §§ 704(d), 706, Sept. 14, 1959, 73 Stat. 544; Pub. L. 95–251, § 3, Mar. 27, 1978, 92 Stat. 184; Pub. L. 98–620, title IV, § 402(31), Nov. 8, 1984, 98 Stat. 3360.)
 
 **Editorial Notes**
 
@@ -721,7 +721,7 @@ The rules of evidence applicable in the district courts of the United States, re
 
 The rules of civil procedure for the district courts of the United States, referred to in subsec. (b), are set out in the Appendix to Title 28.
 
-Chapter 6 (§ 101 et seq.) of this title, referred to in subsec. (h), is a reference to act Mar. 23, 1932, ch. 90, 47 Stat. 70, popularly known as the Norris-LaGuardia Act.
+Chapter 6 (§ 101 et seq.) of this title, referred to in subsec. (h), is a reference to act Mar. 23, 1932, ch. 90, 47 Stat. 70, popularly known as the Norris-LaGuardia Act.
 
 **Codification**
 
@@ -737,15 +737,15 @@ As originally enacted subsecs. (j) and (*l*) contained references to the Distric
 
 1984—Subsec. (i). Pub. L. 98–620 struck out subsec. (i) which provided for expeditious hearings on petitions.
 
-1959—Subsec. (*l*). Pub. L. 86–257, § 704(d), included unfair labor practices within the meaning of sections 158(e) and 158(b)(7) of this title, and inserted proviso prohibiting the officer or regional attorney from applying for any restraining order under section 158(b)(7) of this title if a charge against the employer under section 158(a)(2) of this title has been filed and after the preliminary investigation, he has reasonable cause to believe that such charge is true and that a complaint should issue.
+1959—Subsec. (*l*). Pub. L. 86–257, § 704(d), included unfair labor practices within the meaning of sections 158(e) and 158(b)(7) of this title, and inserted proviso prohibiting the officer or regional attorney from applying for any restraining order under section 158(b)(7) of this title if a charge against the employer under section 158(a)(2) of this title has been filed and after the preliminary investigation, he has reasonable cause to believe that such charge is true and that a complaint should issue.
 
-Subsec. (m). Pub. L. 86–257, § 706, added subsec. (m).
+Subsec. (m). Pub. L. 86–257, § 706, added subsec. (m).
 
-1958—Subsec. (d). Pub. L. 85–791, § 13(a), struck out “a transcript of” after “until”.
+1958—Subsec. (d). Pub. L. 85–791, § 13(a), struck out “a transcript of” after “until”.
 
-Subsec. (e). Pub. L. 85–791, § 13(b), struck out “(including the United States Court of Appeals for the District of Columbia)” before “, or if all the courts”, and substituted “file in the court the record in the proceedings, as provided in section 2112 of title 28” for “certify and file in the court a transcript of the entire record in the proceedings including the pleadings and testimony upon which such order was entered and the findings and order of the Board” in first sentence, in second sentence substituted “the filing of such petition” for “such filing of” and struck out “upon the pleadings, testimony and proceedings set forth in such transcript” after “make and enter”, in fifth sentence substituted “member” for “members” after “before the Board, its”, and substituted “record” for “transcript”, and in seventh sentence, substituted “Upon the filing of the record with it the” for “The”, and “section 1254 of title 28” for “sections 346 and 347 of title 28”.
+Subsec. (e). Pub. L. 85–791, § 13(b), struck out “(including the United States Court of Appeals for the District of Columbia)” before “, or if all the courts”, and substituted “file in the court the record in the proceedings, as provided in section 2112 of title 28” for “certify and file in the court a transcript of the entire record in the proceedings including the pleadings and testimony upon which such order was entered and the findings and order of the Board” in first sentence, in second sentence substituted “the filing of such petition” for “such filing of” and struck out “upon the pleadings, testimony and proceedings set forth in such transcript” after “make and enter”, in fifth sentence substituted “member” for “members” after “before the Board, its”, and substituted “record” for “transcript”, and in seventh sentence, substituted “Upon the filing of the record with it the” for “The”, and “section 1254 of title 28” for “sections 346 and 347 of title 28”.
 
-Subsec. (f). Pub. L. 85–791, § 13(c), substituted “transmitted by the clerk of the court to” for “served upon” and “the record in the proceeding, certified by the Board, as provided in section 2112 of title 28” for “a transcript of the entire record in the proceeding, certified by the Board including the pleading and testimony upon which the order complained of was entered, and the findings and order of the Board” in second sentence, and in third sentence substituted “the filing of such petition,” for “such filing”, and struck out “exclusive” before “jurisdiction”.
+Subsec. (f). Pub. L. 85–791, § 13(c), substituted “transmitted by the clerk of the court to” for “served upon” and “the record in the proceeding, certified by the Board, as provided in section 2112 of title 28” for “a transcript of the entire record in the proceeding, certified by the Board including the pleading and testimony upon which the order complained of was entered, and the findings and order of the Board” in second sentence, and in third sentence substituted “the filing of such petition,” for “such filing”, and struck out “exclusive” before “jurisdiction”.
 
 1947—Act June 23, 1947, amended section generally and added subsecs. (j) to (*l*) which gives the Board general power to petition district court for temporary relief or restraining order, directs Board to hear and determine jurisdictional strikes, and to investigate boycotts and strikes to force recognition of an uncertified labor union and to petition district court for injunctive relief.
 
@@ -763,7 +763,7 @@ Amendment by Pub. L. 86–257 effective sixty days after Sept. 14, 1959, see sec
 
 For effective date of amendment by act June 23, 1947, see section 104 of act June 23, 1947, set out as a note under section 151 of this title.
 
-### § 161. Investigatory powers of Board
+### § 161. Investigatory powers of Board
 
 For the purpose of all hearings and investigations, which, in the opinion of the Board, are necessary and proper for the exercise of the powers vested in it by sections 159 and 160 of this title—
 
@@ -775,7 +775,7 @@ The Board, or its duly authorized agents or agencies, shall at all reasonable ti
 
 In case of contumacy or refusal to obey a subpena issued to any person, any district court of the United States or the United States courts of any Territory or possession, within the jurisdiction of which the inquiry is carried on or within the jurisdiction of which said person guilty of contumacy or refusal to obey is found or resides or transacts business, upon application by the Board shall have jurisdiction to issue to such person an order requiring such person to appear before the Board, its member, agent, or agency, there to produce evidence if so ordered, or there to give testimony touching the matter under investigation or in question; and any failure to obey such order of the court may be punished by said court as a contempt thereof.
 
-**(3) Repealed. Pub. L. 91–452, title II, § 234, Oct. 15, 1970, 84 Stat. 930**
+**(3) Repealed. Pub. L. 91–452, title II, § 234, Oct. 15, 1970, 84 Stat. 930**
 
 **(4) Process, service and return; fees of witnesses**
 
@@ -789,7 +789,7 @@ All process of any court to which application may be made under this subchapter 
 
 The several departments and agencies of the Government, when directed by the President, shall furnish the Board, upon its request, all records, papers, and information in their possession relating to any matter before the Board.
 
-(July 5, 1935, ch. 372, § 11, 49 Stat. 455; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 150; June 25, 1948, ch. 646, § 32(b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 91–452, title II, § 234, Oct. 15, 1970, 84 Stat. 930; Pub. L. 86–507, § 1(57), June 11, 1960, as added Pub. L. 96–245, May 21, 1980, 94 Stat. 347.)
+(July 5, 1935, ch. 372, § 11, 49 Stat. 455; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 150; June 25, 1948, ch. 646, § 32(b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 91–452, title II, § 234, Oct. 15, 1970, 84 Stat. 930; Pub. L. 86–507, § 1(57), June 11, 1960, as added Pub. L. 96–245, May 21, 1980, 94 Stat. 347.)
 
 **Editorial Notes**
 
@@ -815,11 +815,11 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 
 For effective date of amendment by act June 23, 1947, see section 104 of act June 23, 1947, set out as a note under section 151 of this title.
 
-### § 162. Offenses and penalties
+### § 162. Offenses and penalties
 
 Any person who shall willfully resist, prevent, impede, or interfere with any member of the Board or any of its agents or agencies in the performance of duties pursuant to this subchapter shall be punished by a fine of not more than $5,000 or by imprisonment for not more than one year, or both.
 
-(July 5, 1935, ch. 372, § 12, 49 Stat. 456; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 151.)
+(July 5, 1935, ch. 372, § 12, 49 Stat. 456; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 151.)
 
 **Editorial Notes**
 
@@ -833,11 +833,11 @@ Any person who shall willfully resist, prevent, impede, or interfere with any me
 
 For effective date of amendment by act June 23, 1947, see section 104 of act June 23, 1947, set out as a note under section 151 of this title.
 
-### § 163. Right to strike preserved
+### § 163. Right to strike preserved
 
 Nothing in this subchapter, except as specifically provided for herein, shall be construed so as either to interfere with or impede or diminish in any way the right to strike, or to affect the limitations or qualifications on that right.
 
-(July 5, 1935, ch. 372, § 13, 49 Stat. 457; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 151.)
+(July 5, 1935, ch. 372, § 13, 49 Stat. 457; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 151.)
 
 **Editorial Notes**
 
@@ -851,7 +851,7 @@ Nothing in this subchapter, except as specifically provided for herein, shall be
 
 For effective date of amendment by act June 23, 1947, see section 104 of act June 23, 1947, set out as a note under section 151 of this title.
 
-### § 164. Construction of provisions
+### § 164. Construction of provisions
 
 **(a) Supervisors as union members**
 
@@ -867,13 +867,13 @@ Nothing in this subchapter shall be construed as authorizing the execution or ap
 
 **(2)** Nothing in this subchapter shall be deemed to prevent or bar any agency or the courts of any State or Territory (including the Commonwealth of Puerto Rico, Guam, and the Virgin Islands), from assuming and asserting jurisdiction over labor disputes over which the Board declines, pursuant to paragraph (1) of this subsection, to assert jurisdiction.
 
-(July 5, 1935, ch. 372, § 14, 49 Stat. 457; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 151; Pub. L. 86–257, title VII, § 701(a), Sept. 14, 1959, 73 Stat. 541.)
+(July 5, 1935, ch. 372, § 14, 49 Stat. 457; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 151; Pub. L. 86–257, title VII, § 701(a), Sept. 14, 1959, 73 Stat. 541.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (c)(1), “subchapter II of chapter 5 of title 5” substituted for “the Administrative Procedure Act” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (c)(1), “subchapter II of chapter 5 of title 5” substituted for “the Administrative Procedure Act” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 **Amendments**
 
@@ -887,17 +887,17 @@ In subsec. (c)(1), “subchapter II of chapter 5 of title 5” substituted for �
 
 For effective date of amendment by act June 23, 1947, see section 104 of act June 23, 1947, set out as a note under section 151 of this title.
 
-### § 165. Conflict of laws
+### § 165. Conflict of laws
 
 Wherever the application of the provisions of section 272 of chapter 10 of the Act entitled “An Act to establish a uniform system of bankruptcy throughout the United States”, approved July 1, 1898, and Acts amendatory thereof and supplementary thereto (U.S.C., title 11, sec. 672), conflicts with the application of the provisions of this subchapter, this subchapter shall prevail: *Provided*, That in any situation where the provisions of this subchapter cannot be validly enforced, the provisions of such other Acts shall remain in full force and effect.
 
-(July 5, 1935, ch. 372, § 15, 49 Stat. 457; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 151.)
+(July 5, 1935, ch. 372, § 15, 49 Stat. 457; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 151.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Act approved July 1, 1898, referred to in text, popularly known as the Bankruptcy Act, was classified generally to former Title 11, Bankruptcy, and was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11.
+The Act approved July 1, 1898, referred to in text, popularly known as the Bankruptcy Act, was classified generally to former Title 11, Bankruptcy, and was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11.
 
 **Amendments**
 
@@ -909,11 +909,11 @@ The Act approved July 1, 1898, referred to in text, popularly known as the Bankr
 
 For effective date of amendment by act June 23, 1947, see section 104 of act June 23, 1947, set out as a note under section 151 of this title.
 
-### § 166. Separability
+### § 166. Separability
 
 If any provision of this subchapter, or the application of such provision to any person or circumstances, shall be held invalid, the remainder of this subchapter, or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.
 
-(July 5, 1935, ch. 372, § 16, 49 Stat. 457; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 151.)
+(July 5, 1935, ch. 372, § 16, 49 Stat. 457; June 23, 1947, ch. 120, title I, § 101, 61 Stat. 151.)
 
 **Editorial Notes**
 
@@ -927,11 +927,11 @@ If any provision of this subchapter, or the application of such provision to any
 
 For effective date of amendment by act June 23, 1947, see section 104 of act June 23, 1947, set out as a note under section 151 of this title.
 
-### § 167. Short title of subchapter
+### § 167. Short title of subchapter
 
 This subchapter may be cited as the “National Labor Relations Act”.
 
-(July 5, 1935, ch. 372, § 17, as added June 23, 1947, ch. 120, title I, § 101, 61 Stat. 152.)
+(July 5, 1935, ch. 372, § 17, as added June 23, 1947, ch. 120, title I, § 101, 61 Stat. 152.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -939,23 +939,23 @@ This subchapter may be cited as the “National Labor Relations Act”.
 
 For effective date of amendment by act June 23, 1947, see section 104 of act June 23, 1947, set out as a note under section 151 of this title.
 
-### § 168. Validation of certificates and other Board actions
+### § 168. Validation of certificates and other Board actions
 
 No petition entertained, no investigation made, no election held, and no certification issued by the National Labor Relations Board, under any of the provisions of section 159 of this title, shall be invalid by reason of the failure of the Congress of Industrial Organizations to have complied with the requirements of section 159(f), (g), or (h) of this title prior to December 22, 1949, or by reason of the failure of the American Federation of Labor to have complied with the provisions of section 159(f), (g), or (h) of this title prior to November 7, 1947: *Provided*, That no liability shall be imposed under any provision of this chapter upon any person for failure to honor any election or certificate referred to above, prior to October 22, 1951: *Provided, however*, That this proviso shall not have the effect of setting aside or in any way affecting judgments or decrees heretofore entered under section 160(e) or (f) of this title and which have become final.
 
-(July 5, 1935, ch. 372, § 18, as added Oct. 22, 1951, ch. 534, § 1(a), 65 Stat. 601.)
+(July 5, 1935, ch. 372, § 18, as added Oct. 22, 1951, ch. 534, § 1(a), 65 Stat. 601.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 159(f), (g), or (h) of this title, referred to in text, was repealed by Pub. L. 86–257, title II, § 201(d), 73 Stat. 525. See section 431 of this title.
+Section 159(f), (g), or (h) of this title, referred to in text, was repealed by Pub. L. 86–257, title II, § 201(d), 73 Stat. 525. See section 431 of this title.
 
-### § 169. Employees with religious convictions; payment of dues and fees
+### § 169. Employees with religious convictions; payment of dues and fees
 
 Any employee who is a member of and adheres to established and traditional tenets or teachings of a bona fide religion, body, or sect which has historically held conscientious objections to joining or financially supporting labor organizations shall not be required to join or financially support any labor organization as a condition of employment; except that such employee may be required in a contract between such employees’ employer and a labor organization in lieu of periodic dues and initiation fees, to pay sums equal to such dues and initiation fees to a nonreligious, nonlabor organization charitable fund exempt from taxation under section 501(c)(3) of title 26, chosen by such employee from a list of at least three such funds, designated in such contract or if the contract fails to designate such funds, then to any such fund chosen by the employee. If such employee who holds conscientious objections pursuant to this section requests the labor organization to use the grievance-arbitration procedure on the employee’s behalf, the labor organization is authorized to charge the employee for the reasonable cost of using such procedure.
 
-(July 5, 1935, ch. 372, § 19, as added Pub. L. 93–360, § 3, July 26, 1974, 88 Stat. 397; amended Pub. L. 96–593, Dec. 24, 1980, 94 Stat. 3452.)
+(July 5, 1935, ch. 372, § 19, as added Pub. L. 93–360, § 3, July 26, 1974, 88 Stat. 397; amended Pub. L. 96–593, Dec. 24, 1980, 94 Stat. 3452.)
 
 **Editorial Notes**
 
@@ -967,11 +967,11 @@ Any employee who is a member of and adheres to established and traditional tenet
 
 **Effective Date**
 
-Pub. L. 93–360, § 4, July 26, 1974, 88 Stat. 397, provided that: “The amendments made by this Act [enacting this section and section 183 of this title and amending sections 152 and 158 of this title] shall become effective on the thirtieth day after its date of enactment [July 26, 1974].”
+Pub. L. 93–360, § 4, July 26, 1974, 88 Stat. 397, provided that: “The amendments made by this Act [enacting this section and section 183 of this title and amending sections 152 and 158 of this title] shall become effective on the thirtieth day after its date of enactment [July 26, 1974].”
 
 ## SUBCHAPTER III—CONCILIATION OF LABOR DISPUTES; NATIONAL EMERGENCIES
 
-### § 171. Declaration of purpose and policy
+### § 171. Declaration of purpose and policy
 
 It is the policy of the United States that—
 
@@ -981,7 +981,7 @@ It is the policy of the United States that—
 
 **(c)** certain controversies which arise between parties to collective-bargaining agreements may be avoided or minimized by making available full and adequate governmental facilities for furnishing assistance to employers and the representatives of their employees in formulating for inclusion within such agreements provision for adequate notice of any proposed changes in the terms of such agreements, for the final adjustment of grievances or questions regarding the application or interpretation of such agreements, and other provisions designed to prevent the subsequent arising of such controversies.
 
-(June 23, 1947, ch. 120, title II, § 201, 61 Stat. 152.)
+(June 23, 1947, ch. 120, title II, § 201, 61 Stat. 152.)
 
 **Executive Documents**
 
@@ -993,7 +993,7 @@ Ex. Ord. No. 11482, Sept. 22, 1969, 34 F.R. 14723, which related to the Construc
 
 Ex. Ord. No. 11849, Apr. 1, 1975, 40 F.R. 14887, which related to the Collective Bargaining Committee in Construction, was revoked by Ex. Ord. No. 12110, Dec. 28, 1978, 44 F.R. 1069, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
-### § 172. Federal Mediation and Conciliation Service
+### § 172. Federal Mediation and Conciliation Service
 
 **(a) Creation; appointment of Director**
 
@@ -1011,21 +1011,21 @@ The principal office of the Service shall be in the District of Columbia, but th
 
 All mediation and conciliation functions of the Secretary of Labor or the United States Conciliation Service under section 51 of this title, and all functions of the United States Conciliation Service under any other law are transferred to the Federal Mediation and Conciliation Service, together with the personnel and records of the United States Conciliation Service. Such transfer shall take effect upon the sixtieth day after June 23, 1947. Such transfer shall not affect any proceedings pending before the United States Conciliation Service or any certification, order, rule, or regulation theretofore made by it or by the Secretary of Labor. The Director and the Service shall not be subject in any way to the jurisdiction or authority of the Secretary of Labor or any official or division of the Department of Labor.
 
-(June 23, 1947, ch. 120, title II, § 202, 61 Stat. 153; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972.)
+(June 23, 1947, ch. 120, title II, § 202, 61 Stat. 153; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 51 of this title, referred to in subsec. (d), was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 642.
+Section 51 of this title, referred to in subsec. (d), was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 642.
 
 **Codification**
 
 Provisions of subsec. (a) which prescribed the basic annual compensation of the Director were omitted to conform to the provisions of the Executive Schedule. See section 5314 of Title 5, Government Organization and Employees.
 
-In subsec. (b), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
+In subsec. (b), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
 
-Provisions of subsec. (b) that authorized the Director to fix the compensation of conciliators and mediators without regard to the Classification Act of 1923, as amended, have been omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the Classification Act of 1923 and all other laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exceptions contained in this section because of section 1106(b) which provided that the application of the 1949 Act to any position, officer, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, § 8(a), 80 Stat. 632 (of which section 1 revised and enacted Title 5, Government Organization and Employees, into law). Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
+Provisions of subsec. (b) that authorized the Director to fix the compensation of conciliators and mediators without regard to the Classification Act of 1923, as amended, have been omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the Classification Act of 1923 and all other laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exceptions contained in this section because of section 1106(b) which provided that the application of the 1949 Act to any position, officer, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, § 8(a), 80 Stat. 632 (of which section 1 revised and enacted Title 5, Government Organization and Employees, into law). Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
 
 **Amendments**
 
@@ -1035,13 +1035,13 @@ Provisions of subsec. (b) that authorized the Director to fix the compensation o
 
 **Repeals**
 
-Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
+Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
 **Termination of Reporting Requirements**
 
 For termination, effective May 15, 2000, of provisions in subsec. (c) requiring the Director to make an annual report in writing to Congress at the end of the fiscal year, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 171 of House Document No. 103–7.
 
-### § 173. Functions of Service
+### § 173. Functions of Service
 
 **(a) Settlement of disputes through conciliation and mediation**
 
@@ -1067,13 +1067,13 @@ The Service is authorized and directed to encourage and support the establishmen
 
 The Service may make its services available to Federal agencies to aid in the resolution of disputes under the provisions of subchapter IV of chapter 5 of title 5. Functions performed by the Service may include assisting parties to disputes related to administrative programs, training persons in skills and procedures employed in alternative means of dispute resolution, and furnishing officers and employees of the Service to act as neutrals. Only officers and employees who are qualified in accordance with section 573 of title 5 may be assigned to act as neutrals. The Service shall consult with the agency designated by, or the interagency committee designated or established by, the President under section 573 of title 5 in maintaining rosters of neutrals and arbitrators, and to adopt such procedures and rules as are necessary to carry out the services authorized in this subsection.
 
-(June 23, 1947, ch. 120, title II, § 203, 61 Stat. 153; Pub. L. 95–524, § 6(c)(1), Oct. 27, 1978, 92 Stat. 2020; Pub. L. 101–552, § 7, Nov. 15, 1990, 104 Stat. 2746; Pub. L. 102–354, § 5(b)(5), Aug. 26, 1992, 106 Stat. 946; Pub. L. 104–320, § 4(c), Oct. 19, 1996, 110 Stat. 3871.)
+(June 23, 1947, ch. 120, title II, § 203, 61 Stat. 153; Pub. L. 95–524, § 6(c)(1), Oct. 27, 1978, 92 Stat. 2020; Pub. L. 101–552, § 7, Nov. 15, 1990, 104 Stat. 2746; Pub. L. 102–354, § 5(b)(5), Aug. 26, 1992, 106 Stat. 946; Pub. L. 104–320, § 4(c), Oct. 19, 1996, 110 Stat. 3871.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (c), was in the original “this Act” meaning act June 23, 1947, ch. 120, 61 Stat. 136, known as the Labor Management Relations Act, 1947, which is classified principally to this subchapter and subchapters III (§ 171 et seq.) and IV (§ 185 et seq.) of this chapter. For complete classification of this act to the Code, see Tables.
+This chapter, referred to in subsec. (c), was in the original “this Act” meaning act June 23, 1947, ch. 120, 61 Stat. 136, known as the Labor Management Relations Act, 1947, which is classified principally to this subchapter and subchapters III (§ 171 et seq.) and IV (§ 185 et seq.) of this chapter. For complete classification of this act to the Code, see Tables.
 
 **Amendments**
 
@@ -1091,11 +1091,11 @@ This chapter, referred to in subsec. (c), was in the original “this Act” mea
 
 Amendment by Pub. L. 95–524 not to affect terms and conditions of any collective bargaining agreement whether in effect prior to or entered into after Oct. 27, 1978, see section 6(e) of Pub. L. 95–524, set out as a note under section 175a of this title.
 
-### § 174. Co-equal obligations of employees, their representatives, and management to minimize labor disputes
+### § 174. Co-equal obligations of employees, their representatives, and management to minimize labor disputes
 
-**(a)**  1
+**(a)** 1
 
-<sup>1</sup>  So in original. No subsec. (b) has been enacted.
+<sup>1</sup> So in original. No subsec. (b) has been enacted.
 
 In order to prevent or minimize interruptions of the free flow of commerce growing out of labor disputes, employers and employees and their representatives, in any industry affecting commerce, shall—
 
@@ -1105,17 +1105,17 @@ In order to prevent or minimize interruptions of the free flow of commerce growi
 
 **(3)** in case such dispute is not settled by conference, participate fully and promptly in such meetings as may be undertaken by the Service under this chapter for the purpose of aiding in a settlement of the dispute.
 
-(June 23, 1947, ch. 120, title II, § 204, 61 Stat. 154.)
+(June 23, 1947, ch. 120, title II, § 204, 61 Stat. 154.)
 
-### § 175. National Labor-Management Panel; creation and composition; appointment, tenure, and compensation; duties
+### § 175. National Labor-Management Panel; creation and composition; appointment, tenure, and compensation; duties
 
 **(a)** There is created a National Labor-Management Panel which shall be composed of twelve members appointed by the President, six of whom shall be selected from among persons outstanding in the field of management and six of whom shall be selected from among persons outstanding in the field of labor. Each member shall hold office for a term of three years, except that any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term, and the terms of office of the members first taking office shall expire, as designated by the President at the time of appointment, four at the end of the first year, four at the end of the second year, and four at the end of the third year after the date of appointment. Members of the panel, when serving on business of the panel, shall be paid compensation at the rate of $25 per day, and shall also be entitled to receive an allowance for actual and necessary travel and subsistence expenses while so serving away from their places of residence.
 
 **(b)** It shall be the duty of the panel, at the request of the Director, to advise in the avoidance of industrial controversies and the manner in which mediation and voluntary adjustment shall be administered, particularly with reference to controversies affecting the general welfare of the country.
 
-(June 23, 1947, ch. 120, title II, § 205, 61 Stat. 154.)
+(June 23, 1947, ch. 120, title II, § 205, 61 Stat. 154.)
 
-### § 175a. Assistance to plant, area, and industrywide labor management committees
+### § 175a. Assistance to plant, area, and industrywide labor management committees
 
 **(a) Establishment and operation of plant, area, and industrywide committees**
 
@@ -1143,7 +1143,7 @@ The Service shall carry out the provisions of this section through an office est
 
 There are authorized to be appropriated to carry out the provisions of this section $10,000,000 for the fiscal year 1979, and such sums as may be necessary thereafter.
 
-(June 23, 1947, ch. 120, title II, § 205A, as added Pub. L. 95–524, § 6(c)(2), Oct. 27, 1978, 92 Stat. 2020.)
+(June 23, 1947, ch. 120, title II, § 205A, as added Pub. L. 95–524, § 6(c)(2), Oct. 27, 1978, 92 Stat. 2020.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1153,7 +1153,7 @@ For short title of section 6 of Pub. L. 95–524 as the Labor Management Coopera
 
 **Congressional Statement of Purpose**
 
-Pub. L. 95–524, § 6(b), Oct. 27, 1978, 92 Stat. 2020, provided that:
+Pub. L. 95–524, § 6(b), Oct. 27, 1978, 92 Stat. 2020, provided that:
 
 > “It is the purpose of this section [enacting this section and amending sections 173 and 186 of this title]—
 
@@ -1173,13 +1173,13 @@ Pub. L. 95–524, § 6(b), Oct. 27, 1978, 92 Stat. 2020, provided that:
 
 **Applicability to Collective Bargaining Agreements**
 
-Pub. L. 95–524, § 6(e), Oct. 27, 1978, 92 Stat. 2021, provided that: “Nothing in this section or the amendments made by this section [enacting this section, amending sections 173 and 186 of this title, and enacting provisions set out as notes under this section] shall affect the terms and conditions of any collective bargaining agreement whether in effect prior to or entered into after the date of enactment of this section [Oct. 27, 1978].”
+Pub. L. 95–524, § 6(e), Oct. 27, 1978, 92 Stat. 2021, provided that: “Nothing in this section or the amendments made by this section [enacting this section, amending sections 173 and 186 of this title, and enacting provisions set out as notes under this section] shall affect the terms and conditions of any collective bargaining agreement whether in effect prior to or entered into after the date of enactment of this section [Oct. 27, 1978].”
 
-### § 176. National emergencies; appointment of board of inquiry by President; report; contents; filing with Service
+### § 176. National emergencies; appointment of board of inquiry by President; report; contents; filing with Service
 
 Whenever in the opinion of the President of the United States, a threatened or actual strike or lockout affecting an entire industry or a substantial part thereof engaged in trade, commerce, transportation, transmission, or communication among the several States or with foreign nations, or engaged in the production of goods for commerce, will, if permitted to occur or to continue, imperil the national health or safety, he may appoint a board of inquiry to inquire into the issues involved in the dispute and to make a written report to him within such time as he shall prescribe. Such report shall include a statement of the facts with respect to the dispute, including each party’s statement of its position but shall not contain any recommendations. The President shall file a copy of such report with the Service and shall make its contents available to the public.
 
-(June 23, 1947, ch. 120, title II, § 206, 61 Stat. 155.)
+(June 23, 1947, ch. 120, title II, § 206, 61 Stat. 155.)
 
 **Executive Documents**
 
@@ -1187,7 +1187,7 @@ Whenever in the opinion of the President of the United States, a threatened or a
 
 Ex. Ord. No. 11621, Oct. 4, 1971, 36 F.R. 19435, as amended by Ex. Ord. No. 11622, Oct. 5, 1971, 36 F.R. 19491, which created a Board of Inquiry to inquire into issues involved in certain labor disputes, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
-### § 177. Board of inquiry
+### § 177. Board of inquiry
 
 **(a) Composition**
 
@@ -1201,9 +1201,9 @@ Members of a board of inquiry shall receive compensation at the rate of $50 for 
 
 For the purpose of any hearing or inquiry conducted by any board appointed under this title, the provisions of sections 49 and 50 of title 15 (relating to the attendance of witnesses and the production of books, papers, and documents) are made applicable to the powers and duties of such board.
 
-(June 23, 1947, ch. 120, title II, § 207, 61 Stat. 155.)
+(June 23, 1947, ch. 120, title II, § 207, 61 Stat. 155.)
 
-### § 178. Injunctions during national emergency
+### § 178. Injunctions during national emergency
 
 **(a) Petition to district court by Attorney General on direction of President** Upon receiving a report from a board of inquiry the President may direct the Attorney General to petition any district court of the United States having jurisdiction of the parties to enjoin such strike or lock-out or the continuing thereof, and if the court finds that such threatened or actual strike or lock-out—
 
@@ -1219,13 +1219,13 @@ In any case, the provisions of chapter 6 of this title shall not be applicable.
 
 The order or orders of the court shall be subject to review by the appropriate United States court of appeals and by the Supreme Court upon writ of certiorari or certification as provided in section 1254 of title 28.
 
-(June 23, 1947, ch. 120, title II, § 208, 61 Stat. 155; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107.)
+(June 23, 1947, ch. 120, title II, § 208, 61 Stat. 155; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 6 (§ 101 et seq.) of this title, referred to in subsec. (b), is a reference to act Mar. 23, 1932, ch. 90, 47 Stat. 70, popularly known as the Norris-LaGuardia Act.
+Chapter 6 (§ 101 et seq.) of this title, referred to in subsec. (b), is a reference to act Mar. 23, 1932, ch. 90, 47 Stat. 70, popularly known as the Norris-LaGuardia Act.
 
 **Codification**
 
@@ -1233,7 +1233,7 @@ In subsec. (c), “court of appeals” substituted for “circuit court of appea
 
 In subsec. (c), “section 1254 of title 28” substituted for “sections 239 and 240 of the Judicial Code, as amended (U.S.C. title 28, secs. 346 and 347)” on authority of act June 25, 1948, ch. 646, 62 Stat. 869, section 1 of which enacted Title 28, Judiciary and Judicial Procedure.
 
-### § 179. Injunctions during national emergency; adjustment efforts by parties during injunction period
+### § 179. Injunctions during national emergency; adjustment efforts by parties during injunction period
 
 **(a) Assistance of Service; acceptance of Service’s proposed settlement**
 
@@ -1243,35 +1243,35 @@ Whenever a district court has issued an order under section 178 of this title en
 
 Upon the issuance of such order, the President shall reconvene the board of inquiry which has previously reported with respect to the dispute. At the end of a sixty-day period (unless the dispute has been settled by that time), the board of inquiry shall report to the President the current position of the parties and the efforts which have been made for settlement, and shall include a statement by each party of its position and a statement of the employer’s last offer of settlement. The President shall make such report available to the public. The National Labor Relations Board, within the succeeding fifteen days, shall take a secret ballot of the employees of each employer involved in the dispute on the question of whether they wish to accept the final offer of settlement made by their employer as stated by him and shall certify the results thereof to the Attorney General within five days thereafter.
 
-(June 23, 1947, ch. 120, title II, § 209, 61 Stat. 155.)
+(June 23, 1947, ch. 120, title II, § 209, 61 Stat. 155.)
 
-### § 180. Discharge of injunction upon certification of results of election or settlement; report to Congress
+### § 180. Discharge of injunction upon certification of results of election or settlement; report to Congress
 
 Upon the certification of the results of such ballot or upon a settlement being reached, whichever happens sooner, the Attorney General shall move the court to discharge the injunction, which motion shall then be granted and the injunction discharged. When such motion is granted, the President shall submit to the Congress a full and comprehensive report of the proceedings, including the findings of the board of inquiry and the ballot taken by the National Labor Relations Board, together with such recommendations as he may see fit to make for consideration and appropriate action.
 
-(June 23, 1947, ch. 120, title II, § 210, 61 Stat. 156.)
+(June 23, 1947, ch. 120, title II, § 210, 61 Stat. 156.)
 
-### § 181. Compilation of collective bargaining agreements, etc.; use of data
+### § 181. Compilation of collective bargaining agreements, etc.; use of data
 
 **(a)** For the guidance and information of interested representatives of employers, employees, and the general public, the Bureau of Labor Statistics of the Department of Labor shall maintain a file of copies of all available collective bargaining agreements and other available agreements and actions thereunder settling or adjusting labor disputes. Such file shall be open to inspection under appropriate conditions prescribed by the Secretary of Labor, except that no specific information submitted in confidence shall be disclosed.
 
 **(b)** The Bureau of Labor Statistics in the Department of labor is authorized to furnish upon request of the Service, or employers, employees, or their representatives, all available data and factual information which may aid in the settlement of any labor dispute, except that no specific information submitted in confidence shall be disclosed.
 
-(June 23, 1947, ch. 120, title II, § 211, 61 Stat. 156.)
+(June 23, 1947, ch. 120, title II, § 211, 61 Stat. 156.)
 
-### § 182. Exemption of Railway Labor Act from subchapter
+### § 182. Exemption of Railway Labor Act from subchapter
 
 The provisions of this subchapter shall not be applicable with respect to any matter which is subject to the provisions of the Railway Labor Act [45 U.S.C. 151 et seq.], as amended from time to time.
 
-(June 23, 1947, ch. 120, title II, § 212, 61 Stat. 156.)
+(June 23, 1947, ch. 120, title II, § 212, 61 Stat. 156.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Railway Labor Act, as amended, referred to in text, is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+The Railway Labor Act, as amended, referred to in text, is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
-### § 183. Conciliation of labor disputes in the health care industry
+### § 183. Conciliation of labor disputes in the health care industry
 
 **(a) Establishment of Boards of Inquiry; membership**
 
@@ -1291,7 +1291,7 @@ After the establishment of a board under subsection (a) of this section and for 
 
 There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
 
-(June 23, 1947, ch. 120, title II, § 213, as added Pub. L. 93–360, § 2, July 26, 1974, 88 Stat. 396.)
+(June 23, 1947, ch. 120, title II, § 213, as added Pub. L. 93–360, § 2, July 26, 1974, 88 Stat. 396.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1301,11 +1301,11 @@ Section effective on thirtieth day after July 26, 1974, see section 4 of Pub. L.
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 ## SUBCHAPTER IV—LIABILITIES OF AND RESTRICTIONS ON LABOR AND MANAGEMENT
 
-### § 185. Suits by and against labor organizations
+### § 185. Suits by and against labor organizations
 
 **(a) Venue, amount, and citizenship**
 
@@ -1327,15 +1327,15 @@ The service of summons, subpena, or other legal process of any court of the Unit
 
 For the purposes of this section, in determining whether any person is acting as an “agent” of another person so as to make such other person responsible for his acts, the question of whether the specific acts performed were actually authorized or subsequently ratified shall not be controlling.
 
-(June 23, 1947, ch. 120, title III, § 301, 61 Stat. 156.)
+(June 23, 1947, ch. 120, title III, § 301, 61 Stat. 156.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsecs. (a) and (b), was in the original “this Act” meaning act June 23, 1947, ch. 120, 61 Stat. 136, known as the Labor Management Relations Act, 1947, which is classified principally to this subchapter and subchapters III (§ 171 et seq.) and IV (§ 185 et seq.) of this chapter. For complete classification of this act to the Code, see Tables.
+This chapter, referred to in subsecs. (a) and (b), was in the original “this Act” meaning act June 23, 1947, ch. 120, 61 Stat. 136, known as the Labor Management Relations Act, 1947, which is classified principally to this subchapter and subchapters III (§ 171 et seq.) and IV (§ 185 et seq.) of this chapter. For complete classification of this act to the Code, see Tables.
 
-### § 186. Restrictions on financial transactions
+### § 186. Restrictions on financial transactions
 
 **(a) Payment or lending, etc., of money by employer or agent to employees, representatives, or labor organizations** It shall be unlawful for any employer or association of employers or any person who acts as a labor relations expert, adviser, or consultant to an employer or who acts in the interest of an employer to pay, lend, or deliver, or agree to pay, lend, or deliver, any money or other thing of value—
 
@@ -1375,19 +1375,19 @@ This section shall not apply to any contract in force on June 23, 1947, until th
 
 Compliance with the restrictions contained in subsection (c)(5)(B) upon contributions to trust funds, otherwise lawful, shall not be applicable to contributions to such trust funds established by collective agreement prior to January 1, 1946, nor shall subsection (c)(5)(A) be construed as prohibiting contributions to such trust funds if prior to January 1, 1947, such funds contained provisions for pooled vacation benefits.
 
-(June 23, 1947, ch. 120, title III, § 302, 61 Stat. 157; Pub. L. 86–257, title V, § 505, Sept. 14, 1959, 73 Stat. 537; Pub. L. 91–86, Oct. 14, 1969, 83 Stat. 133; Pub. L. 93–95, Aug. 15, 1973, 87 Stat. 314; Pub. L. 95–524, § 6(d), Oct. 27, 1978, 92 Stat. 2021; Pub. L. 98–473, title II, § 801, Oct. 12, 1984, 98 Stat. 2131; Pub. L. 101–273, § 1, Apr. 18, 1990, 104 Stat. 138; Pub. L. 104–88, title III, § 337, Dec. 29, 1995, 109 Stat. 954.)
+(June 23, 1947, ch. 120, title III, § 302, 61 Stat. 157; Pub. L. 86–257, title V, § 505, Sept. 14, 1959, 73 Stat. 537; Pub. L. 91–86, Oct. 14, 1969, 83 Stat. 133; Pub. L. 93–95, Aug. 15, 1973, 87 Stat. 314; Pub. L. 95–524, § 6(d), Oct. 27, 1978, 92 Stat. 2021; Pub. L. 98–473, title II, § 801, Oct. 12, 1984, 98 Stat. 2131; Pub. L. 101–273, § 1, Apr. 18, 1990, 104 Stat. 138; Pub. L. 104–88, title III, § 337, Dec. 29, 1995, 109 Stat. 954.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Labor-Management Reporting and Disclosure Act of 1959, referred to in subsec. (c)(8), is Pub. L. 86–257, Sept. 14, 1959, 73 Stat. 519, which is classified principally to chapter 11 (§ 401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title and Tables.
+The Labor-Management Reporting and Disclosure Act of 1959, referred to in subsec. (c)(8), is Pub. L. 86–257, Sept. 14, 1959, 73 Stat. 519, which is classified principally to chapter 11 (§ 401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title and Tables.
 
 Section 5(b) of the Labor Management Cooperation Act of 1978, referred to in subsec. (c)(9), probably means section 6(b) of Pub. L. 95–524, which is set out as a note under section 175a of this title.
 
 Section 381 of title 28, referred to in subsec. (e), was omitted from the revision of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 869. See rule 65 of Federal Rules of Civil Procedure set out in the Appendix to Title 28.
 
-Chapter 6 (§ 101 et seq.) of this title, referred to in subsec. (e), is a reference to act Mar. 23, 1932, ch. 90, 47 Stat. 70, popularly known as the Norris-LaGuardia Act.
+Chapter 6 (§ 101 et seq.) of this title, referred to in subsec. (e), is a reference to act Mar. 23, 1932, ch. 90, 47 Stat. 70, popularly known as the Norris-LaGuardia Act.
 
 **Amendments**
 
@@ -1419,17 +1419,17 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 Amendment by Pub. L. 95–524 not to affect terms and conditions of any collective bargaining agreement whether in effect prior to or entered into after Oct. 27, 1978, see section 6(e) of Pub. L. 95–524, set out as an Effective Date note under section 175a of this title.
 
-### § 187. Unlawful activities or conduct; right to sue; jurisdiction; limitations; damages
+### § 187. Unlawful activities or conduct; right to sue; jurisdiction; limitations; damages
 
 **(a)** It shall be unlawful, for the purpose of this section only, in an industry or activity affecting commerce, for any labor organization to engage in any activity or conduct defined as an unfair labor practice in section 158(b)(4) of this title.
 
-**(b)** Whoever shall be injured in his business or property by reason or 1
+**(b)** Whoever shall be injured in his business or property by reason or 1
 
-<sup>1</sup>  So in original. Probably should be “of”.
+<sup>1</sup> So in original. Probably should be “of”.
 
 any violation of subsection (a) may sue therefor in any district court of the United States subject to the limitations and provisions of section 185 of this title without respect to the amount in controversy, or in any other court having jurisdiction of the parties, and shall recover the damages by him sustained and the cost of the suit.
 
-(June 23, 1947, ch. 120, title III, § 303, 61 Stat. 158; Pub. L. 86–257, title VII, § 704(e), Sept. 14, 1959, 73 Stat. 545.)
+(June 23, 1947, ch. 120, title III, § 303, 61 Stat. 158; Pub. L. 86–257, title VII, § 704(e), Sept. 14, 1959, 73 Stat. 545.)
 
 **Editorial Notes**
 
@@ -1437,28 +1437,28 @@ any violation of subsection (a) may sue therefor in any district court of the Un
 
 1959—Subsec. (a). Pub. L. 86–257 struck out provisions which specified particular practices that were unlawful, and inserted reference to practices defined in section 158(b)(4) of this title, which section defines the unfair labor practices formerly enumerated in this subsection.
 
-### § 188. Repealed. Aug. 9, 1955, ch. 690, § 4(3), 69 Stat. 625
+### § 188. Repealed. Aug. 9, 1955, ch. 690, § 4(3), 69 Stat. 625
 
-Section, act June 23, 1947, ch. 120, title III, § 305, 61 Stat. 160, forbade striking by Government employees, required discharge of striking employee and forfeiture of his civil-service status, and made him ineligible for employment for three years. See sections 3333 and 7311 of Title 5, Government Organization and Employees, and section 1918 of Title 18, Crimes and Criminal Procedure.
+Section, act June 23, 1947, ch. 120, title III, § 305, 61 Stat. 160, forbade striking by Government employees, required discharge of striking employee and forfeiture of his civil-service status, and made him ineligible for employment for three years. See sections 3333 and 7311 of Title 5, Government Organization and Employees, and section 1918 of Title 18, Crimes and Criminal Procedure.
 
 ## SUBCHAPTER V—CONGRESSIONAL JOINT COMMITTEE ON LABOR-MANAGEMENT RELATIONS
 
-### §§ 191 to 197. Omitted
+### §§ 191 to 197. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section 191, act June 23, 1947, ch. 120, title IV, § 401, 61 Stat. 160, related to establishment and composition of Joint Committee on Labor-Management Relations.
+Section 191, act June 23, 1947, ch. 120, title IV, § 401, 61 Stat. 160, related to establishment and composition of Joint Committee on Labor-Management Relations.
 
-Section 192, act June 23, 1947, ch. 120, title IV, § 402, 61 Stat. 160, related to a study by committee of the entire field of labor-management relations.
+Section 192, act June 23, 1947, ch. 120, title IV, § 402, 61 Stat. 160, related to a study by committee of the entire field of labor-management relations.
 
-Section 193, acts June 23, 1947, ch. 120, title IV, § 403, 61 Stat. 160; Aug. 10, 1948, ch. 833, 62 Stat. 1286, related to a final report to Congress to be submitted no later than March 1, 1949.
+Section 193, acts June 23, 1947, ch. 120, title IV, § 403, 61 Stat. 160; Aug. 10, 1948, ch. 833, 62 Stat. 1286, related to a final report to Congress to be submitted no later than March 1, 1949.
 
-Section 194, act June 23, 1947, ch. 120, title IV, § 404, 61 Stat. 161, related to employment and compensation of experts and other personnel.
+Section 194, act June 23, 1947, ch. 120, title IV, § 404, 61 Stat. 161, related to employment and compensation of experts and other personnel.
 
-Section 195, act June 23, 1947, ch. 120, title IV, § 405, 61 Stat. 161, related to hearings, calling of witnesses, production of evidence.
+Section 195, act June 23, 1947, ch. 120, title IV, § 405, 61 Stat. 161, related to hearings, calling of witnesses, production of evidence.
 
-Section 196, act June 23, 1947, ch. 120, title IV, § 406, 61 Stat. 161, related to reimbursement of committee members for expenses.
+Section 196, act June 23, 1947, ch. 120, title IV, § 406, 61 Stat. 161, related to reimbursement of committee members for expenses.
 
-Section 197, act June 23, 1947, ch. 120, title IV, § 407, 61 Stat. 161, related to appropriation of funds.
+Section 197, act June 23, 1947, ch. 120, title IV, § 407, 61 Stat. 161, related to appropriation of funds.

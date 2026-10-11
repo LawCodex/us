@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—FOREIGN AND NATIONAL SECURITY POLICY OBJECTIVES AND RESTRAINTS
 
-### § 2751. Need for international defense cooperation and military export controls; Presidential waiver; report to Congress; arms sales policy
+### § 2751. Need for international defense cooperation and military export controls; Presidential waiver; report to Congress; arms sales policy
 
 As declared by the Congress in the Arms Control and Disarmament Act [22 U.S.C. 2551 et seq.], an ultimate goal of the United States continues to be a world which is free from the scourge of war and the dangers and burdens of armaments; in which the use of force has been subordinated to the rule of law; and in which international adjustments to a changing world are achieved peacefully. In furtherance of that goal, it remains the policy of the United States to encourage regional arms control and disarmament agreements and to discourage arms races.
 
@@ -41,23 +41,23 @@ in any fiscal year should not exceed current levels.
 
 It is the sense of the Congress that the President maintain adherence to a policy of restraint in conventional arms transfers and that, in implementing this policy worldwide, a balanced approach should be taken and full regard given to the security interests of the United States in all regions of the world and that particular attention should be paid to controlling the flow of conventional arms to the nations of the developing world. To this end, the President is encouraged to continue discussions with other arms suppliers in order to restrain the flow of conventional arms to less developed countries.
 
-(Pub. L. 90–629, ch. 1, § 1, Oct. 22, 1968, 82 Stat. 1321; Pub. L. 91–672, § 4, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 93–189, § 25(1), Dec. 17, 1973, 87 Stat. 729; Pub. L. 94–329, title II, § 202, formerly § 202(a), June 30, 1976, 90 Stat. 734, renumbered and amended Pub. L. 95–384, §§ 15(a), 29(c)(1)(A), Sept. 26, 1978, 92 Stat. 739, 747; Pub. L. 97–113, title VII, § 734(a)(10), Dec. 29, 1981, 95 Stat. 1560.)
+(Pub. L. 90–629, ch. 1, § 1, Oct. 22, 1968, 82 Stat. 1321; Pub. L. 91–672, § 4, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 93–189, § 25(1), Dec. 17, 1973, 87 Stat. 729; Pub. L. 94–329, title II, § 202, formerly § 202(a), June 30, 1976, 90 Stat. 734, renumbered and amended Pub. L. 95–384, §§ 15(a), 29(c)(1)(A), Sept. 26, 1978, 92 Stat. 739, 747; Pub. L. 97–113, title VII, § 734(a)(10), Dec. 29, 1981, 95 Stat. 1560.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Arms Control and Disarmament Act, referred to in text, is Pub. L. 87–297, Sept. 26, 1961, 75 Stat. 631, which is classified generally to chapter 35 (§ 2551 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2551 of this title, and Tables.
+The Arms Control and Disarmament Act, referred to in text, is Pub. L. 87–297, Sept. 26, 1961, 75 Stat. 631, which is classified generally to chapter 35 (§ 2551 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2551 of this title, and Tables.
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-The Foreign Assistance Act of 1961, as amended, referred to in text, is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, as amended, referred to in text, is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Amendments**
 
 1981—Pub. L. 97–113 struck out paragraph which provided that it was the sense of Congress that sales and guaranties under sections 2761, 2762, 2763, and 2764 of this title not be approved where they would have had the effect of arming military dictators who were denying the growth of fundamental rights or social progress to their own people but allowing the President to waive this limitation when he determined it would be important to the security of the United States, and promptly so reported to the Speaker of the House of Representatives and the Committee on Foreign Relations in the Senate.
 
-1978—Pub. L. 95–384, § 15(a), inserted paragraph relating to adherence to a policy of restraint in conventional arms transfer.
+1978—Pub. L. 95–384, § 15(a), inserted paragraph relating to adherence to a policy of restraint in conventional arms transfer.
 
 1976—Pub. L. 94–329 substituted in last paragraph provision relating to a new statement of policy whereby the United States shall exert leadership in the reduction of international trade in arms, and in that regard, the President to initiate discussions and actively work with other nations with a view towards control of international trade in arms, for provisions relating to a reduction in the role of the United States in furnishing of defense articles and defense services to foreign countries and international organizations by decreasing sales, credit sales and guarantees of such articles and services.
 
@@ -69,51 +69,51 @@ The Foreign Assistance Act of 1961, as amended, referred to in text, is Pub. L. 
 
 **Short Title of 2025 Amendment**
 
-Pub. L. 119–60, div. A, title X, § 1085(a), Dec. 18, 2025, 139 Stat. 1054, provided that:
+Pub. L. 119–60, div. A, title X, § 1085(a), Dec. 18, 2025, 139 Stat. 1054, provided that:
 
 > “This section [amending section 2778 of this title and enacting provisions set out as a note under section 2778 of this title] may be cited as the ‘AUKUS Improvement Act of 2025’.”
 
 **References to Foreign Military Sales Act Deemed Reference to Arms Export Control Act**
 
-Pub. L. 94–329, title II, § 201(b), June 30, 1976, 90 Stat. 734, provided that: “Any reference to the Foreign Military Sales Act [see Short Title note below] shall be deemed to be a reference to the Arms Export Control Act.”
+Pub. L. 94–329, title II, § 201(b), June 30, 1976, 90 Stat. 734, provided that: “Any reference to the Foreign Military Sales Act [see Short Title note below] shall be deemed to be a reference to the Arms Export Control Act.”
 
 **References to Present Instead of Past Provisions; Specific Application of Other Provisions to This Chapter**
 
-Pub. L. 90–629, ch. 4, § 45(c), Oct. 22, 1968, 82 Stat. 1327, provided that: “References in law to the provisions of law repealed by subsection (a) of this section [repealing sections 2341 to 2343, 2344(b)(3), 2345, 2394(g), and 2399a of this title] shall hereafter [on and after Oct. 22, 1968] be deemed to be references to this Act [this chapter] or appropriate provisions of this Act. Except for the laws specified in section 44 [section 2793 of this title], no other provision of law shall be deemed to apply to this Act unless it refers specifically to this Act or refers generally to sales of defense articles and defense services under any Act.”
+Pub. L. 90–629, ch. 4, § 45(c), Oct. 22, 1968, 82 Stat. 1327, provided that: “References in law to the provisions of law repealed by subsection (a) of this section [repealing sections 2341 to 2343, 2344(b)(3), 2345, 2394(g), and 2399a of this title] shall hereafter [on and after Oct. 22, 1968] be deemed to be references to this Act [this chapter] or appropriate provisions of this Act. Except for the laws specified in section 44 [section 2793 of this title], no other provision of law shall be deemed to apply to this Act unless it refers specifically to this Act or refers generally to sales of defense articles and defense services under any Act.”
 
 **Effective Date**
 
-Pub. L. 90–629, ch. 4, § 41, Oct. 22, 1968, 82 Stat. 1326, provided that: “This Act [enacting this chapter, amending sections 2344, 2382, 2392, 2394, and 2403 of this title, repealing sections 2341 to 2343, 2345, and 2399a of this title, and enacting provisions set out as notes under this section and section 2341 of this title] shall take effect on July 1, 1968.”
+Pub. L. 90–629, ch. 4, § 41, Oct. 22, 1968, 82 Stat. 1326, provided that: “This Act [enacting this chapter, amending sections 2344, 2382, 2392, 2394, and 2403 of this title, repealing sections 2341 to 2343, 2345, and 2399a of this title, and enacting provisions set out as notes under this section and section 2341 of this title] shall take effect on July 1, 1968.”
 
 **Short Title of 2016 Amendment**
 
-Pub. L. 114–123, § 1, Feb. 18, 2016, 130 Stat. 117, provided that: “This Act [enacting provisions set out as a note under section 2753 of this title] may be cited as the ‘United States-Jordan Defense Cooperation Act of 2015’.”
+Pub. L. 114–123, § 1, Feb. 18, 2016, 130 Stat. 117, provided that: “This Act [enacting provisions set out as a note under section 2753 of this title] may be cited as the ‘United States-Jordan Defense Cooperation Act of 2015’.”
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–266, § 1, Oct. 8, 2010, 124 Stat. 2797, provided that: “This Act [amending sections 2321h, 2753, 2755, 2761, 2765, 2776, 2778, 2779, 2779a, 2796a, and 2796b of this title and enacting provisions set out as notes under this section and section 2778 of this title] may be cited as the ‘Security Cooperation Act of 2010’.”
+Pub. L. 111–266, § 1, Oct. 8, 2010, 124 Stat. 2797, provided that: “This Act [amending sections 2321h, 2753, 2755, 2761, 2765, 2776, 2778, 2779, 2779a, 2796a, and 2796b of this title and enacting provisions set out as notes under this section and section 2778 of this title] may be cited as the ‘Security Cooperation Act of 2010’.”
 
-Pub. L. 111–266, title I, § 101, Oct. 8, 2010, 124 Stat. 2797, provided that: “This title [amending sections 2753, 2755, 2765, 2776, 2778, 2779, and 2779a of this title and enacting provisions set out as notes under section 2778 of this title] may be cited as the ‘Defense Trade Cooperation Treaties Implementation Act of 2010’.”
+Pub. L. 111–266, title I, § 101, Oct. 8, 2010, 124 Stat. 2797, provided that: “This title [amending sections 2753, 2755, 2765, 2776, 2778, 2779, and 2779a of this title and enacting provisions set out as notes under section 2778 of this title] may be cited as the ‘Defense Trade Cooperation Treaties Implementation Act of 2010’.”
 
 **Short Title of 1999 Amendment**
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, § 1001], Nov. 29, 1999, 113 Stat. 1536, 1501A–485, provided that: “This division [div. B of H.R. 3427 as enacted by section 1000(a)(7) of Pub. L. 106–113, see Tables for classification] may be cited as the ‘Arms Control, Nonproliferation, and Security Assistance Act of 1999’.”
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, § 1001], Nov. 29, 1999, 113 Stat. 1536, 1501A–485, provided that: “This division [div. B of H.R. 3427 as enacted by section 1000(a)(7) of Pub. L. 106–113, see Tables for classification] may be cited as the ‘Arms Control, Nonproliferation, and Security Assistance Act of 1999’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–194, § 1, July 14, 1998, 112 Stat. 627, provided that: “This Act [amending section 2799aa–1 of this title and enacting provisions set out as notes under section 2799aa–1 of this title] may be cited as the ‘Agriculture Export Relief Act of 1998’.”
+Pub. L. 105–194, § 1, July 14, 1998, 112 Stat. 627, provided that: “This Act [amending section 2799aa–1 of this title and enacting provisions set out as notes under section 2799aa–1 of this title] may be cited as the ‘Agriculture Export Relief Act of 1998’.”
 
 **Short Title of 1991 Amendment**
 
-Pub. L. 102–228, § 1, Dec. 12, 1991, 105 Stat. 1691, provided that: “This Act [enacting sections 2595b–1 and 2799 to 2799d of this title, amending sections 2581, 2589, 2595, and 2595c of this title, and enacting provisions set out as notes under section 2551 of this title] may be cited as the ‘Conventional Forces in Europe Treaty Implementation Act of 1991’.”
+Pub. L. 102–228, § 1, Dec. 12, 1991, 105 Stat. 1691, provided that: “This Act [enacting sections 2595b–1 and 2799 to 2799d of this title, amending sections 2581, 2589, 2595, and 2595c of this title, and enacting provisions set out as notes under section 2551 of this title] may be cited as the ‘Conventional Forces in Europe Treaty Implementation Act of 1991’.”
 
 **Short Title**
 
-Pub. L. 90–629, § 1, Oct. 22, 1968, 82 Stat. 1320, as amended by Pub. L. 94–329, title II, § 201(a), June 30, 1976, 90 Stat. 734, provided: “That this Act [enacting this chapter, amending sections 2382, 2392, 2394, and 2403 of this title, repealing sections 2341 to 2343, 2344, 2345, 2394, and 2399 of this title, and enacting provisions set out as notes under this section and section 2341 of this title] may be cited as the ‘Arms Export Control Act’.”
+Pub. L. 90–629, § 1, Oct. 22, 1968, 82 Stat. 1320, as amended by Pub. L. 94–329, title II, § 201(a), June 30, 1976, 90 Stat. 734, provided: “That this Act [enacting this chapter, amending sections 2382, 2392, 2394, and 2403 of this title, repealing sections 2341 to 2343, 2344, 2345, 2394, and 2399 of this title, and enacting provisions set out as notes under this section and section 2341 of this title] may be cited as the ‘Arms Export Control Act’.”
 
 **Advancements in Defense Cooperation Between the United States and India**
 
-Pub. L. 115–91, div. A, title XII, § 1258, Dec. 12, 2017, 131 Stat. 1683, provided that:
+Pub. L. 115–91, div. A, title XII, § 1258, Dec. 12, 2017, 131 Stat. 1683, provided that:
 
 > **“(a) In General.—**
 
@@ -139,7 +139,7 @@ Pub. L. 115–91, div. A, title XII, § 1258, Dec. 12, 2017, 131 Stat. 1683, p
 
 **Enhancing Defense and Security Cooperation With India**
 
-Pub. L. 114–328, div. A, title XII, § 1292, Dec. 23, 2016, 130 Stat. 2559, as amended by Pub. L. 115–91, div. A, title XII, § 1258(a), (c)(2), Dec. 12, 2017, 131 Stat. 1683, 1684; Pub. L. 115–232, div. A, title XII, § 1266, Aug. 13, 2018, 132 Stat. 2064, provided that:
+Pub. L. 114–328, div. A, title XII, § 1292, Dec. 23, 2016, 130 Stat. 2559, as amended by Pub. L. 115–91, div. A, title XII, § 1258(a), (c)(2), Dec. 12, 2017, 131 Stat. 1683, 1684; Pub. L. 115–232, div. A, title XII, § 1266, Aug. 13, 2018, 132 Stat. 2064, provided that:
 
 > **“(a) Actions.—**
 
@@ -215,7 +215,7 @@ Pub. L. 114–328, div. A, title XII, § 1292, Dec. 23, 2016, 130 Stat. 2559, 
 
 **Registration and End-Use Monitoring of Defense Articles and Defense Services Transferred to Afghanistan and Pakistan**
 
-Pub. L. 111–84, div. A, title XII, § 1225, Oct. 28, 2009, 123 Stat. 2523, provided that:
+Pub. L. 111–84, div. A, title XII, § 1225, Oct. 28, 2009, 123 Stat. 2523, provided that:
 
 > **“(a) Program Required.—**
 
@@ -293,7 +293,7 @@ Pub. L. 111–84, div. A, title XII, § 1225, Oct. 28, 2009, 123 Stat. 2523, p
 
 **Tracking and Monitoring of Defense Articles Provided to the Government of Iraq and Other Individuals and Groups in Iraq**
 
-Pub. L. 110–181, div. A, title XII, § 1228, Jan. 28, 2008, 122 Stat. 377, provided that:
+Pub. L. 110–181, div. A, title XII, § 1228, Jan. 28, 2008, 122 Stat. 377, provided that:
 
 > **“(a) Export and Transfer Control Policy.—** The President shall implement a policy to control the export and transfer of defense articles into Iraq, including implementation of the registration and monitoring system under subsection (c).
 
@@ -349,7 +349,7 @@ Pub. L. 110–181, div. A, title XII, § 1228, Jan. 28, 2008, 122 Stat. 377, p
 
 **Man-Portable Air Defense Systems (MANPADS)**
 
-Pub. L. 109–472, § 12, Jan. 11, 2007, 120 Stat. 3558, provided that:
+Pub. L. 109–472, § 12, Jan. 11, 2007, 120 Stat. 3558, provided that:
 
 > **“(a) Statement of Policy.—** Congress declares that it should be the policy of the United States to hold foreign governments accountable for knowingly transferring MANPADS to state-sponsors of terrorism or terrorist organizations.
 
@@ -393,7 +393,7 @@ Pub. L. 109–472, § 12, Jan. 11, 2007, 120 Stat. 3558, provided that:
 
 > **“(B)** any other surface-to-air missile system designed to be operated and fired by more than one individual acting as a crew and portable by several individuals.”
 
-Pub. L. 108–458, title IV, § 4026, Dec. 17, 2004, 118 Stat. 3724, provided that:
+Pub. L. 108–458, title IV, § 4026, Dec. 17, 2004, 118 Stat. 3724, provided that:
 
 > **“(a) United States Policy on Nonproliferation and Export Control.—**
 
@@ -469,7 +469,7 @@ Pub. L. 108–458, title IV, § 4026, Dec. 17, 2004, 118 Stat. 3724, provided 
 
 **Bilateral Exchanges and Trade in Defense Articles and Defense Services Between the United States and the United Kingdom and Australia**
 
-Pub. L. 108–375, div. A, title XII, § 1225, Oct. 28, 2004, 118 Stat. 2091, provided that:
+Pub. L. 108–375, div. A, title XII, § 1225, Oct. 28, 2004, 118 Stat. 2091, provided that:
 
 > **“(a) Policy.—** It is the policy of Congress that bilateral exchanges and trade in defense articles and defense services between the United States and the United Kingdom and Australia are in the national security interest of the United States and that such exchanges and trade should be subjected to accelerated review and processing consistent with national security and the requirements of the Arms Export Control Act (22 U.S.C. 2751 et seq.).
 
@@ -479,11 +479,11 @@ Pub. L. 108–375, div. A, title XII, § 1225, Oct. 28, 2004, 118 Stat. 2091, 
 
 **Eligibility of Panama Under Arms Export Control Act**
 
-Pub. L. 104–164, title I, § 154, July 21, 1996, 110 Stat. 1440, provided that: “The Government of the Republic of Panama shall be eligible to purchase defense articles and defense services under the Arms Export Control Act (22 U.S.C. 2751 et seq.), except as otherwise specifically provided by law.”
+Pub. L. 104–164, title I, § 154, July 21, 1996, 110 Stat. 1440, provided that: “The Government of the Republic of Panama shall be eligible to purchase defense articles and defense services under the Arms Export Control Act (22 U.S.C. 2751 et seq.), except as otherwise specifically provided by law.”
 
 **Reports on Counterproliferation Activities and Programs**
 
-Pub. L. 103–337, div. A, title XV, § 1503, Oct. 5, 1994, 108 Stat. 2916; Pub. L. 104–201, div. A, title XIII, § 1309(d), Sept. 23, 1996, 110 Stat. 2710; Pub. L. 106–65, div. A, title XV, § 1504(c), Oct. 5, 1999, 113 Stat. 808; Pub. L. 107–314, div. A, title XII, § 1208(b), (c), Dec. 2, 2002, 116 Stat. 2668; Pub. L. 110–181, div. A, title XII, § 1256(d), Jan. 28, 2008, 122 Stat. 404, provided that:
+Pub. L. 103–337, div. A, title XV, § 1503, Oct. 5, 1994, 108 Stat. 2916; Pub. L. 104–201, div. A, title XIII, § 1309(d), Sept. 23, 1996, 110 Stat. 2710; Pub. L. 106–65, div. A, title XV, § 1504(c), Oct. 5, 1999, 113 Stat. 808; Pub. L. 107–314, div. A, title XII, § 1208(b), (c), Dec. 2, 2002, 116 Stat. 2668; Pub. L. 110–181, div. A, title XII, § 1256(d), Jan. 28, 2008, 122 Stat. 404, provided that:
 
 > **“(a) Biennial Report Required.—** Not later than May 1 each odd-numbered year, the Secretary of Defense shall submit to Congress a report of the findings of the Counterproliferation Program Review Committee established by subsection (a) of the Review Committee charter.
 
@@ -513,7 +513,7 @@ Pub. L. 103–337, div. A, title XV, § 1503, Oct. 5, 1994, 108 Stat. 2916; Pu
 
 **Arab League Boycott of Israel**
 
-Pub. L. 103–236, title V, § 564, Apr. 30, 1994, 108 Stat. 484, as amended by Pub. L. 103–415, § 1(*l*), Oct. 25, 1994, 108 Stat. 4301, provided that:
+Pub. L. 103–236, title V, § 564, Apr. 30, 1994, 108 Stat. 484, as amended by Pub. L. 103–415, § 1(*l*), Oct. 25, 1994, 108 Stat. 4301, provided that:
 
 > **“(a) Prohibition.—** No defense article or defense service may be sold or leased by the United States Government to any country or international organization that, as a matter of policy or practice, is known to have sent letters to United States firms requesting compliance with, or soliciting information regarding compliance with, the Arab League secondary or tertiary boycott of Israel, unless the President determines, and so certifies to the appropriate congressional committees, that that country or organization does not currently maintain a policy or practice of making such requests or solicitations.
 
@@ -547,7 +547,7 @@ Pub. L. 103–236, title V, § 564, Apr. 30, 1994, 108 Stat. 484, as amended b
 
 **Counterproliferation Policy and Programs of United States**
 
-Pub. L. 103–160, div. A, title XVI, §§ 1603, 1605, 1607, Nov. 30, 1993, 107 Stat. 1843, 1845, 1847, as amended by Pub. L. 103–337, div. A, title XV, §§ 1502, 1505(a), (b), Oct. 5, 1994, 108 Stat. 2914, 2919; Pub. L. 104–106, div. A, title XV, § 1504(b), Feb. 10, 1996, 110 Stat. 513; Pub. L. 104–201, div. A, title XIII, § 1309(a)–(c), Sept. 23, 1996, 110 Stat. 2710; Pub. L. 106–65, div. A, title XV, § 1504(a), (b), Oct. 5, 1999, 113 Stat. 808; Pub. L. 107–314, div. A, title XII, § 1208(a), (d), Dec. 2, 2002, 116 Stat. 2668; Pub. L. 109–163, div. A, title X, § 1056(f), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 110–181, div. A, title XII, § 1256(a)–(c), Jan. 28, 2008, 122 Stat. 403; Pub. L. 112–239, div. A, title X, § 1076(c)(1), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 115–91, div. A, title X, § 1051(f), Dec. 12, 2017, 131 Stat. 1563, provided that:
+Pub. L. 103–160, div. A, title XVI, §§ 1603, 1605, 1607, Nov. 30, 1993, 107 Stat. 1843, 1845, 1847, as amended by Pub. L. 103–337, div. A, title XV, §§ 1502, 1505(a), (b), Oct. 5, 1994, 108 Stat. 2914, 2919; Pub. L. 104–106, div. A, title XV, § 1504(b), Feb. 10, 1996, 110 Stat. 513; Pub. L. 104–201, div. A, title XIII, § 1309(a)–(c), Sept. 23, 1996, 110 Stat. 2710; Pub. L. 106–65, div. A, title XV, § 1504(a), (b), Oct. 5, 1999, 113 Stat. 808; Pub. L. 107–314, div. A, title XII, § 1208(a), (d), Dec. 2, 2002, 116 Stat. 2668; Pub. L. 109–163, div. A, title X, § 1056(f), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 110–181, div. A, title XII, § 1256(a)–(c), Jan. 28, 2008, 122 Stat. 403; Pub. L. 112–239, div. A, title X, § 1076(c)(1), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 115–91, div. A, title X, § 1051(f), Dec. 12, 2017, 131 Stat. 1563, provided that:
 
 > **“SEC. 1603. STUDIES RELATING TO UNITED STATES COUNTERPROLIFERATION POLICY.**
 
@@ -637,7 +637,7 @@ Pub. L. 103–160, div. A, title XVI, §§ 1603, 1605, 1607, Nov. 30, 1993, 10
 
 > **“SEC. 1607. DEFINITIONS.**
 
-> “For purposes of this subtitle [subtitle A, §§ 1601–1607, of title XVI of div. A of Pub. L. 103–160, amending section 5859a of this title and enacting this note]:
+> “For purposes of this subtitle [subtitle A, §§ 1601–1607, of title XVI of div. A of Pub. L. 103–160, amending section 5859a of this title and enacting this note]:
 
 > **“(1)** The term ‘appropriate congressional committees’ means—
 
@@ -651,7 +651,7 @@ Pub. L. 103–160, div. A, title XVI, §§ 1603, 1605, 1607, Nov. 30, 1993, 10
 
 **Restriction on Arms Sales to Saudi Arabia and Kuwait**
 
-Pub. L. 102–229, title I, § 104, Dec. 12, 1991, 105 Stat. 1707, provided that:
+Pub. L. 102–229, title I, § 104, Dec. 12, 1991, 105 Stat. 1707, provided that:
 
 > **“(a)** No funds appropriated or otherwise made available by this or any other Act may be used in any fiscal year to conduct, support, or administer any sale of defense articles or defense services to Saudi Arabia or Kuwait until that country has paid in full, either in cash or in mutually agreed in-kind contributions, the following commitments made to the United States to support Operation Desert Shield/Desert Storm:
 
@@ -667,67 +667,67 @@ Pub. L. 102–229, title I, § 104, Dec. 12, 1991, 105 Stat. 1707, provided th
 
 **Annual Report on Proliferation of Missiles and Essential Components of Nuclear, Biological, and Chemical Weapons**
 
-Pub. L. 102–190, div. A, title X, § 1097, Dec. 5, 1991, 105 Stat. 1489, as amended by Pub. L. 104–106, div. A, title XV, §§ 1502(c)(3), 1504(d), Feb. 10, 1996, 110 Stat. 507, 514; Pub. L. 106–65, div. A, title X, § 1067(9), Oct. 5, 1999, 113 Stat. 774, required the President to submit to Congress annual reports on transfers by any country of weapons, technology, or materials that can be used to deliver, manufacture, or weaponize nuclear, biological, or chemical weapons to any country (other than certain specified countries) seeking to acquire such weapons, technology, or materials, and specified time, coverage, contents and classification of such reports, prior to repeal by Pub. L. 107–228, div. B, title XIII, § 1308(g)(1)(A), Sept. 30, 2002, 116 Stat. 1441.
+Pub. L. 102–190, div. A, title X, § 1097, Dec. 5, 1991, 105 Stat. 1489, as amended by Pub. L. 104–106, div. A, title XV, §§ 1502(c)(3), 1504(d), Feb. 10, 1996, 110 Stat. 507, 514; Pub. L. 106–65, div. A, title X, § 1067(9), Oct. 5, 1999, 113 Stat. 774, required the President to submit to Congress annual reports on transfers by any country of weapons, technology, or materials that can be used to deliver, manufacture, or weaponize nuclear, biological, or chemical weapons to any country (other than certain specified countries) seeking to acquire such weapons, technology, or materials, and specified time, coverage, contents and classification of such reports, prior to repeal by Pub. L. 107–228, div. B, title XIII, § 1308(g)(1)(A), Sept. 30, 2002, 116 Stat. 1441.
 
 **Conventional Arms Transfers**
 
-Pub. L. 99–83, title I, § 129, Aug. 8, 1985, 99 Stat. 206, directed President, at the earliest possible date, in consultation with United States allies, to initiate discussions with the Soviet Union and France aimed at beginning multilateral negotiations to limit and control the transfer of conventional arms to less developed countries, and, within one year after Aug. 8, 1985, submit to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate a report which specifies steps being taken to fulfill such requirements and which examines and analyzes, among specified matters, United States policies concerning the export of conventional arms, especially sophisticated weapons, and possible approaches to developing multilateral limitations on conventional arms sales.
+Pub. L. 99–83, title I, § 129, Aug. 8, 1985, 99 Stat. 206, directed President, at the earliest possible date, in consultation with United States allies, to initiate discussions with the Soviet Union and France aimed at beginning multilateral negotiations to limit and control the transfer of conventional arms to less developed countries, and, within one year after Aug. 8, 1985, submit to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate a report which specifies steps being taken to fulfill such requirements and which examines and analyzes, among specified matters, United States policies concerning the export of conventional arms, especially sophisticated weapons, and possible approaches to developing multilateral limitations on conventional arms sales.
 
 **Termination of Nonrecurring Activities Under Foreign Assistance Act of 1961 and This Chapter and Removal From Law**
 
-Pub. L. 97–113, title VII, § 734(c), Dec. 29, 1981, 95 Stat. 1561, provided that: “Except as otherwise explicitly provided by their terms, amendments to the Foreign Assistance Act of 1961 [22 U.S.C. 2151 et seq.] and the Arms Export Control Act [this chapter] which are applicable only to a single fiscal or calendar year or which require reports or other actions on a nonrecurring basis shall be deemed to have expired and shall be removed from law upon the expiration of the applicable time periods for the fulfillment of the required actions.”
+Pub. L. 97–113, title VII, § 734(c), Dec. 29, 1981, 95 Stat. 1561, provided that: “Except as otherwise explicitly provided by their terms, amendments to the Foreign Assistance Act of 1961 [22 U.S.C. 2151 et seq.] and the Arms Export Control Act [this chapter] which are applicable only to a single fiscal or calendar year or which require reports or other actions on a nonrecurring basis shall be deemed to have expired and shall be removed from law upon the expiration of the applicable time periods for the fulfillment of the required actions.”
 
 **Report to Congress by President on Multilateral Discussions Concerning Arms Transfer Policy**
 
-Pub. L. 95–384, § 15(b), Sept. 26, 1978, 92 Stat. 740, directed President, not later than Dec. 31, 1979, to transmit to Congress a detailed report assessing results and commenting on implications of multilateral discussion referred to in paragraph added to this section by section 15(a) of Pub. L. 95–384, relating to adherence to a policy of restraint in conventional arms transfer, prior to repeal by Pub. L. 97–113, title VII, § 734(a)(12), Dec. 29, 1981, 95 Stat. 1560.
+Pub. L. 95–384, § 15(b), Sept. 26, 1978, 92 Stat. 740, directed President, not later than Dec. 31, 1979, to transmit to Congress a detailed report assessing results and commenting on implications of multilateral discussion referred to in paragraph added to this section by section 15(a) of Pub. L. 95–384, relating to adherence to a policy of restraint in conventional arms transfer, prior to repeal by Pub. L. 97–113, title VII, § 734(a)(12), Dec. 29, 1981, 95 Stat. 1560.
 
 **Report by President on Review of Arms Sales Controls on Non-Lethal Items**
 
-Pub. L. 95–384, § 25, Sept. 26, 1978, 92 Stat. 746, directed President, within 120 days after Sept. 26, 1978, to report in writing to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate the results of the review conducted pursuant to Pub. L. 95–92, § 27, Aug. 4, 1977, 91 Stat. 626, set out below, prior to repeal by Pub. L. 97–113, title VII, § 734(a)(12), Dec. 29, 1981, 95 Stat. 1560.
+Pub. L. 95–384, § 25, Sept. 26, 1978, 92 Stat. 746, directed President, within 120 days after Sept. 26, 1978, to report in writing to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate the results of the review conducted pursuant to Pub. L. 95–92, § 27, Aug. 4, 1977, 91 Stat. 626, set out below, prior to repeal by Pub. L. 97–113, title VII, § 734(a)(12), Dec. 29, 1981, 95 Stat. 1560.
 
 **Report by President on Impact of Foreign Arms Sales and Transfers to Foreign Governments on Defense Readiness and National Security of United States**
 
-Pub. L. 95–92, § 23, Aug. 4, 1977, 91 Stat. 624, set forth provisions respecting Presidential report on impact of United States foreign arms sales and transfers on defense readiness and national security, prior to repeal by Pub. L. 95–384, § 29(c)(2)(B), Sept. 26, 1978, 92 Stat. 747.
+Pub. L. 95–92, § 23, Aug. 4, 1977, 91 Stat. 624, set forth provisions respecting Presidential report on impact of United States foreign arms sales and transfers on defense readiness and national security, prior to repeal by Pub. L. 95–384, § 29(c)(2)(B), Sept. 26, 1978, 92 Stat. 747.
 
 **Study by President of National Security and Military Implications of International Transfers of Technology; Scope of Study; Utilization of Executive Departments and Agencies**
 
-Pub. L. 95–92, § 24, Aug. 4, 1977, 91 Stat. 624, as amended by Pub. L. 97–113, title VII, § 734(a)(13), Dec. 29, 1981, 95 Stat. 1560, directed President to conduct a comprehensive study of policies and practices of United States Government with respect to national security and military implications of international transfers of technology in order to determine whether such policies and practices should be changed, with President to utilize resources and expertise of Arms Control and Disarmament Agency, Department of State, Department of Defense, Department of Commerce, National Science Foundation, Office of Science and Technology Policy, and such other entities within the Executive branch as he deemed necessary.
+Pub. L. 95–92, § 24, Aug. 4, 1977, 91 Stat. 624, as amended by Pub. L. 97–113, title VII, § 734(a)(13), Dec. 29, 1981, 95 Stat. 1560, directed President to conduct a comprehensive study of policies and practices of United States Government with respect to national security and military implications of international transfers of technology in order to determine whether such policies and practices should be changed, with President to utilize resources and expertise of Arms Control and Disarmament Agency, Department of State, Department of Defense, Department of Commerce, National Science Foundation, Office of Science and Technology Policy, and such other entities within the Executive branch as he deemed necessary.
 
 **Statement of Policy Regarding United States Arms Sales to Israel**
 
-Pub. L. 95–92, § 26, Aug. 4, 1977, 91 Stat. 625, provided that: “In accordance with the historic special relationship between the United States and Israel and previous agreements and continuing understandings, the Congress joins with the President in reaffirming that a policy of restraint in United States arms transfers, including arms sales ceilings, shall not impair Israel’s deterrent strength or undermine the military balance in the Middle East.”
+Pub. L. 95–92, § 26, Aug. 4, 1977, 91 Stat. 625, provided that: “In accordance with the historic special relationship between the United States and Israel and previous agreements and continuing understandings, the Congress joins with the President in reaffirming that a policy of restraint in United States arms transfers, including arms sales ceilings, shall not impair Israel’s deterrent strength or undermine the military balance in the Middle East.”
 
 **Review by President of Categories and Arms Sales Controls on Lethal and Non-Lethal Items**
 
-Pub. L. 95–92, § 27, Aug. 4, 1977, 91 Stat. 626, directed President to undertake a review of all regulations relating to arms control for the purpose of defining and categorizing lethal and non-lethal products and establishing the appropriate level of control for each category.
+Pub. L. 95–92, § 27, Aug. 4, 1977, 91 Stat. 626, directed President to undertake a review of all regulations relating to arms control for the purpose of defining and categorizing lethal and non-lethal products and establishing the appropriate level of control for each category.
 
 **Study of United States Arms Sales Policies and Practices by President; Report to Congress**
 
-Pub. L. 94–329, title II, § 202(b), June 30, 1976, 90 Stat. 735, set forth provisions respecting study and report to Congress of United States arms sales policies and practices, prior to repeal by Pub. L. 95–384, § 29(c)(1)(A), Sept. 26, 1978, 92 Stat. 747.
+Pub. L. 94–329, title II, § 202(b), June 30, 1976, 90 Stat. 735, set forth provisions respecting study and report to Congress of United States arms sales policies and practices, prior to repeal by Pub. L. 95–384, § 29(c)(1)(A), Sept. 26, 1978, 92 Stat. 747.
 
 **Presidential Report Regarding Sales of Excess Defense Articles to Foreign Governments and International Organizations**
 
-Pub. L. 94–329, title II, § 217, June 30, 1976, 90 Stat. 747, set forth provisions respecting report by the President of all sales under this chapter of excess defense articles to foreign governments and international organizations, prior to repeal by Pub. L. 95–384, § 29(c)(1)(B), Sept. 26, 1978, 92 Stat. 747.
+Pub. L. 94–329, title II, § 217, June 30, 1976, 90 Stat. 747, set forth provisions respecting report by the President of all sales under this chapter of excess defense articles to foreign governments and international organizations, prior to repeal by Pub. L. 95–384, § 29(c)(1)(B), Sept. 26, 1978, 92 Stat. 747.
 
 **Study by Secretaries of State and Defense on Consequences of Enactment of Arms Export Control Provisions**
 
-Pub. L. 94–329, title II, § 218, June 30, 1976, 90 Stat. 748, set forth provisions respecting study by the Secretaries of State and Defense on consequences of enactment of arms export control provisions by title II of Pub. L. 94–329, prior to repeal by Pub. L. 95–384, § 29(c)(1)(C), Sept. 26, 1978, 92 Stat. 747.
+Pub. L. 94–329, title II, § 218, June 30, 1976, 90 Stat. 748, set forth provisions respecting study by the Secretaries of State and Defense on consequences of enactment of arms export control provisions by title II of Pub. L. 94–329, prior to repeal by Pub. L. 95–384, § 29(c)(1)(C), Sept. 26, 1978, 92 Stat. 747.
 
 **Total Number of Credits To Be Extended Between July 1, 1976, and September 30, 1976**
 
-Pub. L. 94–329, title V, § 506(b), June 30, 1976, 90 Stat. 764, provided that the total number of credits extended pursuant to this chapter, between July 1, 1976, and Sept. 30, 1976, not exceed an amount equal to one-fourth of the total amount of credits extended and guaranteed for fiscal year 1976.
+Pub. L. 94–329, title V, § 506(b), June 30, 1976, 90 Stat. 764, provided that the total number of credits extended pursuant to this chapter, between July 1, 1976, and Sept. 30, 1976, not exceed an amount equal to one-fourth of the total amount of credits extended and guaranteed for fiscal year 1976.
 
 **Additional Military and Civilian Personnel for Department of Defense**
 
-Pub. L. 94–329, title VI, § 605(a), June 30, 1976, 90 Stat. 768, provided that: “Nothing in this Act [see Short Title of 1976 Amendment note set out under section 2151 of the title] is intended to authorize any additional military or civilian personnel for the Department of Defense for the purposes of this Act, the Foreign Assistance Act of 1961 [section 2151 et seq. of this title], or the Arms Export Control Act [this chapter]. Personnel levels authorized in statutes authorizing appropriations for military and civilian personnel of the Department of Defense shall be controlling over all military and civilian personnel of the Department of Defense assigned to carry out functions under the Arms Export Control Act and the Foreign Assistance Act of 1961.”
+Pub. L. 94–329, title VI, § 605(a), June 30, 1976, 90 Stat. 768, provided that: “Nothing in this Act [see Short Title of 1976 Amendment note set out under section 2151 of the title] is intended to authorize any additional military or civilian personnel for the Department of Defense for the purposes of this Act, the Foreign Assistance Act of 1961 [section 2151 et seq. of this title], or the Arms Export Control Act [this chapter]. Personnel levels authorized in statutes authorizing appropriations for military and civilian personnel of the Department of Defense shall be controlling over all military and civilian personnel of the Department of Defense assigned to carry out functions under the Arms Export Control Act and the Foreign Assistance Act of 1961.”
 
 **Sales to the Middle East; Requests for Additional Appropriations**
 
-Pub. L. 91–672, § 5, Jan. 12, 1971, 84 Stat. 2053, provided that it was the sense of Congress that (1) the President should press forward with efforts to negotiate with the Soviet Union and other powers a limitation on arms shipments to the Middle East, (2) the President should be supported in the position that arms will be made available and credits provided to Israel and other friendly states to meet threats to the security and independence of such states, and (3) the President could submit to the Congress requests for appropriate supplementary appropriations.
+Pub. L. 91–672, § 5, Jan. 12, 1971, 84 Stat. 2053, provided that it was the sense of Congress that (1) the President should press forward with efforts to negotiate with the Soviet Union and other powers a limitation on arms shipments to the Middle East, (2) the President should be supported in the position that arms will be made available and credits provided to Israel and other friendly states to meet threats to the security and independence of such states, and (3) the President could submit to the Congress requests for appropriate supplementary appropriations.
 
 **Review of Military Aid Programs and Efforts for Regulation of Conventional Arms Trade**
 
-Pub. L. 91–672, § 6, Jan. 12, 1971, 84 Stat. 2053, provided that:
+Pub. L. 91–672, § 6, Jan. 12, 1971, 84 Stat. 2053, provided that:
 
 > “It is the sense of the Congress that—
 
@@ -749,7 +749,7 @@ Ex. Ord. No. 11501, Dec. 22, 1969, 34 F.R. 20169, as amended by Ex. Ord. No. 116
 
 **Executive Order No. 11958**
 
-Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended by Ex. Ord. No. 12118, Feb. 6, 1979, 44 F.R. 7939; Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673; Ex. Ord. No. 12210, Apr. 16, 1980, 45 F.R. 26313; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12680, July 5, 1989, 54 F.R. 28995; Ex. Ord. No. 12738, § 7, Dec. 14, 1990, 55 F.R. 52035; Ex. Ord. No. 13030, § 2, Dec. 12, 1996, 61 F.R. 66187; Ex. Ord. No. 13091, § 1, June 29, 1998, 63 F.R. 36153; Ex. Ord. No. 13118, § 10(8), Mar. 31, 1999, 64 F.R. 16598; Ex. Ord. No. 13284, § 13, Jan. 23, 2003, 68 F.R. 4076, which related to the administration of arms export controls, was revoked by Ex. Ord. No. 13637, § 4, Mar. 8, 2013, 78 F.R. 16131, set out below.
+Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended by Ex. Ord. No. 12118, Feb. 6, 1979, 44 F.R. 7939; Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673; Ex. Ord. No. 12210, Apr. 16, 1980, 45 F.R. 26313; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12680, July 5, 1989, 54 F.R. 28995; Ex. Ord. No. 12738, § 7, Dec. 14, 1990, 55 F.R. 52035; Ex. Ord. No. 13030, § 2, Dec. 12, 1996, 61 F.R. 66187; Ex. Ord. No. 13091, § 1, June 29, 1998, 63 F.R. 36153; Ex. Ord. No. 13118, § 10(8), Mar. 31, 1999, 64 F.R. 16598; Ex. Ord. No. 13284, § 13, Jan. 23, 2003, 68 F.R. 4076, which related to the administration of arms export controls, was revoked by Ex. Ord. No. 13637, § 4, Mar. 8, 2013, 78 F.R. 16131, set out below.
 
 **Ex. Ord. No. 13637. Administration of Reformed Export Controls**
 
@@ -903,7 +903,7 @@ Sec. 5. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-### § 2752. Coordination with foreign policy
+### § 2752. Coordination with foreign policy
 
 **(a) Noninfringement of powers or functions of Secretary of State**
 
@@ -925,7 +925,7 @@ to the end that sales, financing, leases, cooperative projects, and exports will
 
 The President shall prescribe appropriate procedures to assure coordination among representatives of the United States Government in each country, under the leadership of the Chief of the United States Diplomatic Mission. The Chief of the diplomatic mission shall make sure that recommendations of such representatives pertaining to sales are coordinated with political and economic considerations, and his comments shall accompany such recommendations if he so desires.
 
-(Pub. L. 90–629, ch. 1, § 2, Oct. 22, 1968, 82 Stat. 1322; Pub. L. 94–329, title II, § 212(a)(2), June 30, 1976, 90 Stat. 745; Pub. L. 97–113, title I, § 109(b)(1), Dec. 29, 1981, 95 Stat. 1526; Pub. L. 99–83, title I, § 115(b)(1), Aug. 8, 1985, 99 Stat. 201; Pub. L. 99–145, title XI, § 1102(a)(2), (5), Nov. 8, 1985, 99 Stat. 710; Pub. L. 99–661, div. A, title XIII, § 1342(e), Nov. 14, 1986, 100 Stat. 3991.)
+(Pub. L. 90–629, ch. 1, § 2, Oct. 22, 1968, 82 Stat. 1322; Pub. L. 94–329, title II, § 212(a)(2), June 30, 1976, 90 Stat. 745; Pub. L. 97–113, title I, § 109(b)(1), Dec. 29, 1981, 95 Stat. 1526; Pub. L. 99–83, title I, § 115(b)(1), Aug. 8, 1985, 99 Stat. 201; Pub. L. 99–145, title XI, § 1102(a)(2), (5), Nov. 8, 1985, 99 Stat. 710; Pub. L. 99–661, div. A, title XIII, § 1342(e), Nov. 14, 1986, 100 Stat. 3991.)
 
 **Editorial Notes**
 
@@ -939,7 +939,7 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this A
 
 1985—Subsec. (b). Pub. L. 99–83 amended subsec. (b) generally, substituting reference to the food for peace program for reference to food for freedom and adding financing and cooperative projects under this chapter to the list of responsibilities of the Secretary of State.
 
-Pub. L. 99–145, § 1102(a)(2), which enacted amendments similar to those provided in Pub. L. 99–83, was repealed. See 1986 Amendment note above and Repeals; Effective Date note below.
+Pub. L. 99–145, § 1102(a)(2), which enacted amendments similar to those provided in Pub. L. 99–83, was repealed. See 1986 Amendment note above and Repeals; Effective Date note below.
 
 1981—Subsec. (b). Pub. L. 97–113 substituted “sales, leases,” for “sales” in two places and “such sale, lease,” for “such sale” and inserted “whether there shall be a lease to a country,” after “whether there shall be a sale to a country and the amount thereof,”.
 
@@ -957,9 +957,9 @@ Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a
 
 **Repeals**
 
-Pub. L. 99–145, title XI, § 1102(a)(5), Nov. 8, 1985, 99 Stat. 710, which provided for the repeal of the amendments made by § 1102(a) of Pub. L. 99–145, effective as of the effective date of similar amendments by Pub. L. 99–83, was repealed by Pub. L. 99–661, div. A, title XIII, § 1342(e), Nov. 14, 1986, 100 Stat. 3991.
+Pub. L. 99–145, title XI, § 1102(a)(5), Nov. 8, 1985, 99 Stat. 710, which provided for the repeal of the amendments made by § 1102(a) of Pub. L. 99–145, effective as of the effective date of similar amendments by Pub. L. 99–83, was repealed by Pub. L. 99–661, div. A, title XIII, § 1342(e), Nov. 14, 1986, 100 Stat. 3991.
 
-### § 2753. Eligibility for defense services or defense articles
+### § 2753. Eligibility for defense services or defense articles
 
 **(a) Prerequisites for consent by President; report to Congress** No defense article or defense service shall be sold or leased by the United States Government under this chapter to any country or international organization, and no agreement shall be entered into for a cooperative project (as defined in section 2767 of this title), unless—
 
@@ -1079,7 +1079,7 @@ unless the President states in his certification that an emergency exists which 
 
 **(B)** a transfer of defense articles or defense services valued (in terms of its original acquisition cost) at $100,000,000 or more).1
 
-<sup>1</sup>  So in original. The closing parenthesis probably should not appear.
+<sup>1</sup> So in original. The closing parenthesis probably should not appear.
 
 **(e) Transfers without consent of President; report to Congress**
 
@@ -1093,7 +1093,7 @@ No sales or leases shall be made to any country that the President has determine
 
 Any agreement for the sale or lease of any article on the United States Munitions List entered into by the United States Government after November 29, 1999, shall state that the United States Government retains the right to verify credible reports that such article has been used for a purpose not authorized under section 2754 of this title or, if such agreement provides that such article may only be used for purposes more limited than those authorized under section 2754 of this title, for a purpose not authorized under such agreement.
 
-(Pub. L. 90–629, ch. 1, § 3, Oct. 22, 1968, 82 Stat. 1322; Pub. L. 91–672, § 1, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 93–189, § 25(2), Dec. 17, 1973, 87 Stat. 729; Pub. L. 93–559, § 45(a)(1), Dec. 30, 1974, 88 Stat. 1813; Pub. L. 94–329, title II, §§ 203(a), 204(a), (b)(1), title III, § 304(b), June 30, 1976, 90 Stat. 735, 736, 754, 755; Pub. L. 95–92, §§ 15–18, Aug. 4, 1977, 91 Stat. 622; Pub. L. 96–92, § 11, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, § 101, Dec. 16, 1980, 94 Stat. 3131; Pub. L. 97–113, title I, §§ 101(a), 102(a), 109(b)(2), Dec. 29, 1981, 95 Stat. 1519, 1520, 1526; Pub. L. 99–83, title I, § 115(b)(2), title V, § 503(b), Aug. 8, 1985, 99 Stat. 201, 221; Pub. L. 99–145, title XI, § 1102(a)(3), (5), Nov. 8, 1985, 99 Stat. 710; Pub. L. 99–247, § 1(a), Feb. 12, 1986, 100 Stat. 9; Pub. L. 99–661, div. A, title XIII, § 1342(e), Nov. 14, 1986, 100 Stat. 3991; Pub. L. 100–461, title V, § 577, Oct. 1, 1988, 102 Stat. 2268–45; Pub. L. 101–222, § 2(b), Dec. 12, 1989, 103 Stat. 1896; Pub. L. 103–236, title VIII, § 822(a)(1), Apr. 30, 1994, 108 Stat. 511; Pub. L. 104–164, title I, §§ 141(a), (b), 142, July 21, 1996, 110 Stat. 1430, 1431, 1433; Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, § 1225], Nov. 29, 1999, 113 Stat. 1536, 1501A–499; Pub. L. 107–228, div. B, title XIV, § 1405(a)(1), Sept. 30, 2002, 116 Stat. 1456; Pub. L. 110–429, title II, § 203(b)(1), (2), Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title I, §§ 102(a), 104(a), title III, § 301, Oct. 8, 2010, 124 Stat. 2797, 2799, 2804; Pub. L. 113–276, title II, § 208(a)(1), Dec. 18, 2014, 128 Stat. 2992.)
+(Pub. L. 90–629, ch. 1, § 3, Oct. 22, 1968, 82 Stat. 1322; Pub. L. 91–672, § 1, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 93–189, § 25(2), Dec. 17, 1973, 87 Stat. 729; Pub. L. 93–559, § 45(a)(1), Dec. 30, 1974, 88 Stat. 1813; Pub. L. 94–329, title II, §§ 203(a), 204(a), (b)(1), title III, § 304(b), June 30, 1976, 90 Stat. 735, 736, 754, 755; Pub. L. 95–92, §§ 15–18, Aug. 4, 1977, 91 Stat. 622; Pub. L. 96–92, § 11, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, § 101, Dec. 16, 1980, 94 Stat. 3131; Pub. L. 97–113, title I, §§ 101(a), 102(a), 109(b)(2), Dec. 29, 1981, 95 Stat. 1519, 1520, 1526; Pub. L. 99–83, title I, § 115(b)(2), title V, § 503(b), Aug. 8, 1985, 99 Stat. 201, 221; Pub. L. 99–145, title XI, § 1102(a)(3), (5), Nov. 8, 1985, 99 Stat. 710; Pub. L. 99–247, § 1(a), Feb. 12, 1986, 100 Stat. 9; Pub. L. 99–661, div. A, title XIII, § 1342(e), Nov. 14, 1986, 100 Stat. 3991; Pub. L. 100–461, title V, § 577, Oct. 1, 1988, 102 Stat. 2268–45; Pub. L. 101–222, § 2(b), Dec. 12, 1989, 103 Stat. 1896; Pub. L. 103–236, title VIII, § 822(a)(1), Apr. 30, 1994, 108 Stat. 511; Pub. L. 104–164, title I, §§ 141(a), (b), 142, July 21, 1996, 110 Stat. 1430, 1431, 1433; Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, § 1225], Nov. 29, 1999, 113 Stat. 1536, 1501A–499; Pub. L. 107–228, div. B, title XIV, § 1405(a)(1), Sept. 30, 2002, 116 Stat. 1456; Pub. L. 110–429, title II, § 203(b)(1), (2), Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title I, §§ 102(a), 104(a), title III, § 301, Oct. 8, 2010, 124 Stat. 2797, 2799, 2804; Pub. L. 113–276, title II, § 208(a)(1), Dec. 18, 2014, 128 Stat. 2992.)
 
 **Editorial Notes**
 
@@ -1107,37 +1107,37 @@ Section 601(b) of the International Security Assistance and Arms Export Control 
 
 2014—Subsecs. (a), (d)(1), (3)(A), (e). Pub. L. 113–276 substituted “the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and” for “the Speaker of the House of Representatives and”.
 
-2010—Subsec. (b). Pub. L. 111–266, § 102(a), inserted “a treaty referred to in section 2778(j)(1)(C)(i) of this title permits such transfer without prior consent of the President, or if” after “under this chapter if” in introductory provisions.
+2010—Subsec. (b). Pub. L. 111–266, § 102(a), inserted “a treaty referred to in section 2778(j)(1)(C)(i) of this title permits such transfer without prior consent of the President, or if” after “under this chapter if” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 111–266, § 301(2), inserted “the Government of Israel,” before “or the Government of New Zealand”.
+Subsec. (b)(2). Pub. L. 111–266, § 301(2), inserted “the Government of Israel,” before “or the Government of New Zealand”.
 
-Subsec. (d)(2)(B). Pub. L. 111–266, § 301(1), inserted “Israel,” before “or New Zealand”.
+Subsec. (d)(2)(B). Pub. L. 111–266, § 301(1), inserted “Israel,” before “or New Zealand”.
 
-Subsec. (d)(3)(A). Pub. L. 111–266, § 104(a), inserted in introductory provisions “or has been exempted from the licensing requirements of this chapter pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title where such treaty does not authorize the transfer without prior United States Government approval” after “approved under section 2778 of this title”.
+Subsec. (d)(3)(A). Pub. L. 111–266, § 104(a), inserted in introductory provisions “or has been exempted from the licensing requirements of this chapter pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title where such treaty does not authorize the transfer without prior United States Government approval” after “approved under section 2778 of this title”.
 
-Subsec. (d)(3)(A)(i). Pub. L. 111–266, § 301(1), inserted “Israel,” before “or New Zealand”.
+Subsec. (d)(3)(A)(i). Pub. L. 111–266, § 301(1), inserted “Israel,” before “or New Zealand”.
 
-Subsec. (d)(5). Pub. L. 111–266, § 301(1), inserted “Israel,” before “or New Zealand” in introductory provisions.
+Subsec. (d)(5). Pub. L. 111–266, § 301(1), inserted “Israel,” before “or New Zealand” in introductory provisions.
 
-2008—Subsec. (b)(2). Pub. L. 110–429, § 203(b)(2), inserted “the Government of the Republic of Korea,” before “or the Government of New Zealand”.
+2008—Subsec. (b)(2). Pub. L. 110–429, § 203(b)(2), inserted “the Government of the Republic of Korea,” before “or the Government of New Zealand”.
 
-Subsec. (d)(2)(B), (3)(A)(i), (5). Pub. L. 110–429, § 203(b)(1), inserted “the Republic of Korea,” before “or New Zealand”.
+Subsec. (d)(2)(B), (3)(A)(i), (5). Pub. L. 110–429, § 203(b)(1), inserted “the Republic of Korea,” before “or New Zealand”.
 
-2002—Subsec. (d)(1), (3)(A). Pub. L. 107–228, § 1405(a)(1)(A), substituted “Subject to paragraph (5), the President may not” for “The President may not” in introductory provisions.
+2002—Subsec. (d)(1), (3)(A). Pub. L. 107–228, § 1405(a)(1)(A), substituted “Subject to paragraph (5), the President may not” for “The President may not” in introductory provisions.
 
-Subsec. (d)(5). Pub. L. 107–228, § 1405(a)(1)(B), added par. (5).
+Subsec. (d)(5). Pub. L. 107–228, § 1405(a)(1)(B), added par. (5).
 
 1999—Subsec. (g). Pub. L. 106–113 added subsec. (g).
 
-1996—Subsec. (b). Pub. L. 104–164, § 142, added subsec. (b).
+1996—Subsec. (b). Pub. L. 104–164, § 142, added subsec. (b).
 
-Subsec. (d)(2)(A). Pub. L. 104–164, § 141(a)(1), struck out “, as provided for in sections 2776(b)(2) and 2776(b)(3) of this title” after “joint resolution”.
+Subsec. (d)(2)(A). Pub. L. 104–164, § 141(a)(1), struck out “, as provided for in sections 2776(b)(2) and 2776(b)(3) of this title” after “joint resolution”.
 
-Subsec. (d)(2)(B). Pub. L. 104–164, § 141(a)(2), substituted “joint resolution prohibiting the proposed transfer” for “law prohibiting the proposed transfer”.
+Subsec. (d)(2)(B). Pub. L. 104–164, § 141(a)(2), substituted “joint resolution prohibiting the proposed transfer” for “law prohibiting the proposed transfer”.
 
-Subsec. (d)(2)(C), (D). Pub. L. 104–164, § 141(a)(3), added subpars. (C) and (D).
+Subsec. (d)(2)(C), (D). Pub. L. 104–164, § 141(a)(3), added subpars. (C) and (D).
 
-Subsec. (d)(3)(A). Pub. L. 104–164, § 141(b), designated existing provisions as subpar. (A), struck out “at least 30 calendar days” before “before giving such consent the President”, substituted “a certification” for “a report” after “Committee on Foreign Relations of the Senate”, and substituted “Such certification shall be submitted—
+Subsec. (d)(3)(A). Pub. L. 104–164, § 141(b), designated existing provisions as subpar. (A), struck out “at least 30 calendar days” before “before giving such consent the President”, substituted “a certification” for “a report” after “Committee on Foreign Relations of the Senate”, and substituted “Such certification shall be submitted—
 
 “(i) at least 15 calendar days before such consent is given in the case of a transfer to a country which is a member of the North Atlantic Treaty Organization or Australia, Japan, or New Zealand; and
 
@@ -1145,67 +1145,67 @@ Subsec. (d)(3)(A). Pub. L. 104–164, § 141(b), designated existing provision
 
 unless the President states in his certification that an emergency exists which requires that consent to the proposed transfer become effective immediately in the national security interests of the United States. If the President states in his certification that such an emergency exists (thus waiving the requirements of clause (i) or (ii), as the case may be, and of subparagraph (B)) the President shall set forth in the certification a detailed justification for his determination, including a description of the emergency circumstances which necessitate that consent to the proposed transfer become effective immediately and a discussion of the national security interests involved.” for “Such consent shall become effective then only if the Congress does not enact, within a 30-day period, a joint resolution, as provided for in sections 2776(c)(2) and 2776(c)(3) of this title prohibiting the proposed transfer.”
 
-Subsec. (d)(3)(B), (C). Pub. L. 104–164, § 141(b)(3), added subpars. (B) and (C).
+Subsec. (d)(3)(B), (C). Pub. L. 104–164, § 141(b)(3), added subpars. (B) and (C).
 
 1994—Subsec. (f). Pub. L. 103–236 added subsec. (f).
 
 1989—Subsec. (f). Pub. L. 101–222 struck out subsec. (f) which directed termination of sales under this chapter to countries granting sanctuary to international terrorists. See section 2780 of this title.
 
-1988—Subsec. (d)(2)(A). Pub. L. 100–461, § 577(1), substituted “joint resolution, as provided for in sections 2776(b)(2) and 2776(b)(3) of this title” for “law”.
+1988—Subsec. (d)(2)(A). Pub. L. 100–461, § 577(1), substituted “joint resolution, as provided for in sections 2776(b)(2) and 2776(b)(3) of this title” for “law”.
 
-Subsec. (d)(3). Pub. L. 100–461, § 577(2), inserted at end “Such consent shall become effective then only if the Congress does not enact, within a 30-day period, a joint resolution, as provided for in sections 2776(c)(2) and 2776(c)(3) of this title prohibiting the proposed transfer.”
+Subsec. (d)(3). Pub. L. 100–461, § 577(2), inserted at end “Such consent shall become effective then only if the Congress does not enact, within a 30-day period, a joint resolution, as provided for in sections 2776(c)(2) and 2776(c)(3) of this title prohibiting the proposed transfer.”
 
 1986—Subsec. (a). Pub. L. 99–661 repealed section 1102(a)(3) of Pub. L. 99–145 and the amendments made by that section, and provided that this section shall apply as if that section had never been enacted. See 1985 Amendments note below.
 
-Subsec. (d)(2)(A). Pub. L. 99–247, § 1(a)(1), substituted “enact, within such 30-day period, a law prohibiting” for “adopt, within such 30-day period, a concurrent resolution disapproving”.
+Subsec. (d)(2)(A). Pub. L. 99–247, § 1(a)(1), substituted “enact, within such 30-day period, a law prohibiting” for “adopt, within such 30-day period, a concurrent resolution disapproving”.
 
-Subsec. (d)(2)(B). Pub. L. 99–247, § 1(a)(2), substituted “enact, within such fifteen-day period, a law prohibiting” for “adopt, within such fifteen-day period, a concurrent resolution disapproving”.
+Subsec. (d)(2)(B). Pub. L. 99–247, § 1(a)(2), substituted “enact, within such fifteen-day period, a law prohibiting” for “adopt, within such fifteen-day period, a concurrent resolution disapproving”.
 
-1985—Subsec. (a). Pub. L. 99–83, § 115(b)(2), in introductory text and in par. (2) inserted provisions relating to cooperative projects, and in par. (3) inserted “or service” after “such article” in two places.
+1985—Subsec. (a). Pub. L. 99–83, § 115(b)(2), in introductory text and in par. (2) inserted provisions relating to cooperative projects, and in par. (3) inserted “or service” after “such article” in two places.
 
-Pub. L. 99–145, § 1102(a)(3), which enacted amendments similar to those provided in Pub. L. 99–83, § 115(b)(2), was repealed. See 1986 Amendments note above and former section 1105(a)(5) of Pub. L. 99–145 set out as a Repeals; Effective Date note under section 2752 of this title.
+Pub. L. 99–145, § 1102(a)(3), which enacted amendments similar to those provided in Pub. L. 99–83, § 115(b)(2), was repealed. See 1986 Amendments note above and former section 1105(a)(5) of Pub. L. 99–145 set out as a Repeals; Effective Date note under section 2752 of this title.
 
-Subsec. (f). Pub. L. 99–83, § 503(b), struck out “, credits, and guaranties” and “, credits, or guaranties” wherever appearing in pars. (1) and (2).
+Subsec. (f). Pub. L. 99–83, § 503(b), struck out “, credits, and guaranties” and “, credits, or guaranties” wherever appearing in pars. (1) and (2).
 
-1981—Subsec. (a). Pub. L. 97–113, § 109(b)(2), substituted in introductory text “sold or leased” for “sold”, and in par. (4) “purchase or lease” for “purchase”.
+1981—Subsec. (a). Pub. L. 97–113, § 109(b)(2), substituted in introductory text “sold or leased” for “sold”, and in par. (4) “purchase or lease” for “purchase”.
 
-Subsec. (d)(1). Pub. L. 97–113, § 101(a)(1), substituted in introductory text “, or under section 2314(a)(1) or 2314(a)(4) of this title, to a transfer of any major defense equipment valued (in terms of its original acquisition cost) at $14,000,000 or more, or any defense article or related training or other defense service valued (in terms of its original acquisition cost) at $50,000,000 or more,” for “to a transfer of a defense article, or related training or other defense service, sold under this chapter and may not give his consent to such a transfer under section 2314(a)(1) or (a)(4) of this title”, in subpar. (B) “a description of the article or service proposed to be transferred, including its acquisition cost” for “a description of the defense article or related training or other defense service proposed to be transferred, including the original acquisition cost of such defense article or related training or other defense service”, in subpar. (C) “article or service” for “defense article or related training or other defense service”, and in provision following subpar. (E) “articles or services” for “defense articles, or related training or other defense services,”.
+Subsec. (d)(1). Pub. L. 97–113, § 101(a)(1), substituted in introductory text “, or under section 2314(a)(1) or 2314(a)(4) of this title, to a transfer of any major defense equipment valued (in terms of its original acquisition cost) at $14,000,000 or more, or any defense article or related training or other defense service valued (in terms of its original acquisition cost) at $50,000,000 or more,” for “to a transfer of a defense article, or related training or other defense service, sold under this chapter and may not give his consent to such a transfer under section 2314(a)(1) or (a)(4) of this title”, in subpar. (B) “a description of the article or service proposed to be transferred, including its acquisition cost” for “a description of the defense article or related training or other defense service proposed to be transferred, including the original acquisition cost of such defense article or related training or other defense service”, in subpar. (C) “article or service” for “defense article or related training or other defense service”, and in provision following subpar. (E) “articles or services” for “defense articles, or related training or other defense services,”.
 
-Subsec. (d)(2). Pub. L. 97–113, § 102(a), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), unless” for “Unless”, and added subpar. (B).
+Subsec. (d)(2). Pub. L. 97–113, § 102(a), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), unless” for “Unless”, and added subpar. (B).
 
-Subsec. (d)(3). Pub. L. 97–113, § 101(a)(2), substituted “transfer of any major defense equipment valued (in terms of its original acquisition cost) at $14,000,000 or more, or of any defense article or defense service valued (in terms of its original acquisition cost) at $50,000,000 or more” for “transfer to a third country of a defense article or a defense service valued (in terms of its original acquisition costs) at $25,000,000 or more, or of major defense equipment valued (in terms of its original acquisition costs) at $7,000,000 or more”.
+Subsec. (d)(3). Pub. L. 97–113, § 101(a)(2), substituted “transfer of any major defense equipment valued (in terms of its original acquisition cost) at $14,000,000 or more, or of any defense article or defense service valued (in terms of its original acquisition cost) at $50,000,000 or more” for “transfer to a third country of a defense article or a defense service valued (in terms of its original acquisition costs) at $25,000,000 or more, or of major defense equipment valued (in terms of its original acquisition costs) at $7,000,000 or more”.
 
-Subsec. (d)(4). Pub. L. 97–113, § 101(a)(3), struck out subpar. (D), which provided that subsec. (d) of this section not apply to transfers to the North Atlantic Treaty Organization, any member country of such organization, Japan, Australia, or New Zealand, of any major defense equipment valued (in terms of its original acquisition cost) at less than $7,000,000 or of any defense article or related training or other defense service valued (in terms of its original acquisition cost) at less than $25,000,000.
+Subsec. (d)(4). Pub. L. 97–113, § 101(a)(3), struck out subpar. (D), which provided that subsec. (d) of this section not apply to transfers to the North Atlantic Treaty Organization, any member country of such organization, Japan, Australia, or New Zealand, of any major defense equipment valued (in terms of its original acquisition cost) at less than $7,000,000 or of any defense article or related training or other defense service valued (in terms of its original acquisition cost) at less than $25,000,000.
 
-1980—Subsec. (d)(1). Pub. L. 96–533, § 101(a)(2)(A), substituted “pursuant to this paragraph” for “pursuant to this subsection”.
+1980—Subsec. (d)(1). Pub. L. 96–533, § 101(a)(2)(A), substituted “pursuant to this paragraph” for “pursuant to this subsection”.
 
-Subsec. (d)(2). Pub. L. 96–533, § 101(a)(2)(B), substituted “paragraph (1) of this subsection” for “this subsection”.
+Subsec. (d)(2). Pub. L. 96–533, § 101(a)(2)(B), substituted “paragraph (1) of this subsection” for “this subsection”.
 
-Subsec. (d)(3). Pub. L. 96–533, § 101(a)(1)(B), added par. (3). Former par. (3) redesignated (4).
+Subsec. (d)(3). Pub. L. 96–533, § 101(a)(1)(B), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (d)(4). Pub. L. 96–533, § 101(a)(1)(A), (b), redesignated former par. (3) as (4) and, in par (4) as so redesignated, added subpar. (D).
+Subsec. (d)(4). Pub. L. 96–533, § 101(a)(1)(A), (b), redesignated former par. (3) as (4) and, in par (4) as so redesignated, added subpar. (D).
 
 1979—Subsec. (d)(3)(C). Pub. L. 96–92 made subsec. (d) of this section inapplicable to arrangements between the North Atlantic Treaty Organization and any of its member countries, incorporated existing text in provisions designated cl. (i) and added cl. (ii).
 
-1977—Subsec. (b). Pub. L. 95–92, § 15, struck out subsec. (b) which related to prohibitions on sales, etc., to countries seizing or fining American fishing vessels for fishing in waters more than twelve miles from their coastlines.
+1977—Subsec. (b). Pub. L. 95–92, § 15, struck out subsec. (b) which related to prohibitions on sales, etc., to countries seizing or fining American fishing vessels for fishing in waters more than twelve miles from their coastlines.
 
-Subsec. (d). Pub. L. 95–92, §§ 16, 17, redesignated existing provisions as par. (1), struck out “, 30 days prior to giving such consent,” before “the President submits”, redesignated pars. (1) to (5) as subpars. (A) to (E), respectively, and added pars. (2) and (3).
+Subsec. (d). Pub. L. 95–92, §§ 16, 17, redesignated existing provisions as par. (1), struck out “, 30 days prior to giving such consent,” before “the President submits”, redesignated pars. (1) to (5) as subpars. (A) to (E), respectively, and added pars. (2) and (3).
 
-Subsec. (f). Pub. L. 95–92, § 18, added subsec. (f).
+Subsec. (f). Pub. L. 95–92, § 18, added subsec. (f).
 
-1976—Subsec. (a). Pub. L. 94–329, §§ 203(a), 204(b)(1), inserted in par. (2) “or related training or other defense service” after “article” wherever appearing and struck out provisions following par. (4) relating to the President’s notification of his consent to transfer war implements to another country, in writing, to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate indicating his justification for the transfer and the particular war implement transferred.
+1976—Subsec. (a). Pub. L. 94–329, §§ 203(a), 204(b)(1), inserted in par. (2) “or related training or other defense service” after “article” wherever appearing and struck out provisions following par. (4) relating to the President’s notification of his consent to transfer war implements to another country, in writing, to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate indicating his justification for the transfer and the particular war implement transferred.
 
-Subsec. (c). Pub. L. 94–329, § 304(b)(1), provided that the President, by so stating in writing to Congress, or Congress, by joint resolution, terminate credits, guaranties or sales upon determining a violation, permitted cash sales and deliveries pursuant to previous sales to be made if the President certifies in writing to Congress that termination thereof would be adverse to national security unless Congress adopts or has adopted a joint resolution determining such eligibility, and specified conditions for reinstatement of eligibility.
+Subsec. (c). Pub. L. 94–329, § 304(b)(1), provided that the President, by so stating in writing to Congress, or Congress, by joint resolution, terminate credits, guaranties or sales upon determining a violation, permitted cash sales and deliveries pursuant to previous sales to be made if the President certifies in writing to Congress that termination thereof would be adverse to national security unless Congress adopts or has adopted a joint resolution determining such eligibility, and specified conditions for reinstatement of eligibility.
 
-Subsec. (d). Pub. L. 94–329, §§ 204(a), 304(b)(2), added subsec. (d). Former subsec. (d), which related to conditions for reinstatement after a determination of ineligibility, was repealed and is now covered by subsec. (c).
+Subsec. (d). Pub. L. 94–329, §§ 204(a), 304(b)(2), added subsec. (d). Former subsec. (d), which related to conditions for reinstatement after a determination of ineligibility, was repealed and is now covered by subsec. (c).
 
-Subsec. (e). Pub. L. 94–329, §§ 204(a), 304(b)(2), added subsec. (e).
+Subsec. (e). Pub. L. 94–329, §§ 204(a), 304(b)(2), added subsec. (e).
 
 1974—Subsec. (d). Pub. L. 93–559 struck out first sentence provision respecting furnishing of sophisticated weapons to countries in violation of agreements pursuant to subsec. (a)(2) of this section, section 2314(a) of this title, or other similar provisions and substituted “in accordance with subsection (c) of this section” for “in accordance with this subsection”.
 
-1973—Subsec. (a). Pub. L. 93–189, § 25(2)(A)–(C), in par. (2) inserted requirement not to use or permit the use of such articles for purposes other than those for which furnished, redesignated former par. (3) as (4), added a new par. (3), and following par. (4), as so redesignated, inserted provisions relating to Presidential consideration of requests prior to consent under par. (2).
+1973—Subsec. (a). Pub. L. 93–189, § 25(2)(A)–(C), in par. (2) inserted requirement not to use or permit the use of such articles for purposes other than those for which furnished, redesignated former par. (3) as (4), added a new par. (3), and following par. (4), as so redesignated, inserted provisions relating to Presidential consideration of requests prior to consent under par. (2).
 
-Subsecs. (c), (d). Pub. L. 93–189, § 25(2)(D), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 93–189, § 25(2)(D), added subsecs. (c) and (d).
 
 1971—Subsec. (b). Pub. L. 91–672 extended the retaliatory measures against countries seizing, taking custody or fining American vessels for fishing outside of twelve miles of their coast, to sales, credits, guaranties, and laid down a period of one year as the extent of such prohibition, and added assurances of future restraint received from such countries as an additional ground for waiver, and provided exception that the prohibition will not apply in cases governed by international agreements to which the United States is a party.
 
@@ -1213,7 +1213,7 @@ Subsecs. (c), (d). Pub. L. 93–189, § 25(2)(D), added subsecs. (c) and (d).
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–164, title I, § 141(f), July 21, 1996, 110 Stat. 1433, provided that: “The amendments made by this section [amending this section and sections 2776, 2796a, and 2796b of this title] apply with respect to certifications required to be submitted on or after the date of the enactment of this Act [July 21, 1996].”
+Pub. L. 104–164, title I, § 141(f), July 21, 1996, 110 Stat. 1433, provided that: “The amendments made by this section [amending this section and sections 2776, 2796a, and 2796b of this title] apply with respect to certifications required to be submitted on or after the date of the enactment of this Act [July 21, 1996].”
 
 **Effective Date of 1994 Amendment**
 
@@ -1225,7 +1225,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–329, title II, § 203(a), June 30, 1976, 90 Stat. 735, provided that the amendment made by that section is effective July 1, 1976.
+Pub. L. 94–329, title II, § 203(a), June 30, 1976, 90 Stat. 735, provided that the amendment made by that section is effective July 1, 1976.
 
 **Effective Date**
 
@@ -1233,11 +1233,11 @@ Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a
 
 **Security Assistance for Baltic Nations for Joint Program for Interoperability and Deterrence Against Aggression**
 
-Pub. L. 115–91, div. A, title XII, § 1279D, Dec. 12, 2017, 131 Stat. 1702, as amended by Pub. L. 116–92, div. A, title XII, § 1246(c)–(e), Dec. 20, 2019, 133 Stat. 1662, provided the Secretary of Defense could, with the concurrence of the Secretary of State, conduct or support a single joint program of the Baltic nations to improve their interoperability and build their capacity to deter and resist aggression by the Russian Federation and such assistance would not be provided after Dec. 31, 2021.
+Pub. L. 115–91, div. A, title XII, § 1279D, Dec. 12, 2017, 131 Stat. 1702, as amended by Pub. L. 116–92, div. A, title XII, § 1246(c)–(e), Dec. 20, 2019, 133 Stat. 1662, provided the Secretary of Defense could, with the concurrence of the Secretary of State, conduct or support a single joint program of the Baltic nations to improve their interoperability and build their capacity to deter and resist aggression by the Russian Federation and such assistance would not be provided after Dec. 31, 2021.
 
 **Enhanced Defense Cooperation**
 
-Pub. L. 114–123, § 5, Feb. 18, 2016, 130 Stat. 118, provided that:
+Pub. L. 114–123, § 5, Feb. 18, 2016, 130 Stat. 118, provided that:
 
 > **“(a) In General.—** During the 3-year period beginning on the date of the enactment of this Act [Feb. 18, 2016], the Hashemite Kingdom of Jordan shall be treated as if it were a country listed in the provisions of law described in subsection (b) for purposes of applying and administering such provisions of law.
 
@@ -1255,7 +1255,7 @@ Pub. L. 114–123, § 5, Feb. 18, 2016, 130 Stat. 118, provided that:
 
 **Pilot Program on Repair, Overhaul, and Refurbishment of Defense Articles for Sale or Transfer to Eligible Foreign Countries and Entities**
 
-Pub. L. 112–239, div. A, title XII, § 1285, Jan. 2, 2013, 126 Stat. 2036, provided that:
+Pub. L. 112–239, div. A, title XII, § 1285, Jan. 2, 2013, 126 Stat. 2036, provided that:
 
 > **“(a) Pilot Program Authorized.—** The Secretary of Defense may carry out a pilot program to repair, overhaul, or refurbish in-stock defense articles in anticipation of the sale or transfer of such defense articles to eligible foreign countries or international organizations under law.
 
@@ -1347,7 +1347,7 @@ Pub. L. 112–239, div. A, title XII, § 1285, Jan. 2, 2013, 126 Stat. 2036, p
 
 **Security Cooperation With the Republic of Korea**
 
-Pub. L. 110–429, title II, § 203(a), Oct. 15, 2008, 122 Stat. 4844, provided that:
+Pub. L. 110–429, title II, § 203(a), Oct. 15, 2008, 122 Stat. 4844, provided that:
 
 > “Congress makes the following findings:
 
@@ -1365,7 +1365,7 @@ Pub. L. 110–429, title II, § 203(a), Oct. 15, 2008, 122 Stat. 4844, provide
 
 **Reporting Requirements**
 
-Pub. L. 105–277, div. A, § 101(d) [title V, § 594], Oct. 21, 1998, 112 Stat. 2681–150, 2681–215, as amended by Pub. L. 106–31, title V, § 5002(c)–(e), May 21, 1999, 113 Stat. 109, provided that:
+Pub. L. 105–277, div. A, § 101(d) [title V, § 594], Oct. 21, 1998, 112 Stat. 2681–150, 2681–215, as amended by Pub. L. 106–31, title V, § 5002(c)–(e), May 21, 1999, 113 Stat. 109, provided that:
 
 > **“(a) Notification.—** No less than 15 days prior to the export to any country identified pursuant to subparagraph (c) of any lethal defense article or service in the amount of $14,000,000 or less, the President shall provide a detailed notification to the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and International Relations [now Committee on Foreign Affairs] of the House of Representatives.
 
@@ -1379,11 +1379,11 @@ Pub. L. 105–277, div. A, § 101(d) [title V, § 594], Oct. 21, 1998, 112 S
 
 > **“(d) Exclusions.—** Information reportable under title V of the National Security Act of 1947 [50 U.S.C. 3091 et seq.] is excluded from the requirements of this section.”
 
-[For delegation of functions of President under section 101(d) [title V, § 594] of div. A of Pub. L. 105–277, set out above, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.]
+[For delegation of functions of President under section 101(d) [title V, § 594] of div. A of Pub. L. 105–277, set out above, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.]
 
 **Eligibility of Baltic States for Nonlethal Defense Articles**
 
-Pub. L. 102–511, title IX, § 906, Oct. 24, 1992, 106 Stat. 3356, provided that:
+Pub. L. 102–511, title IX, § 906, Oct. 24, 1992, 106 Stat. 3356, provided that:
 
 > **“(a) Eligibility.—** Estonia, Latvia, and Lithuania shall each be eligible—
 
@@ -1407,11 +1407,11 @@ Pub. L. 102–511, title IX, § 906, Oct. 24, 1992, 106 Stat. 3356, provided t
 
 For delegation of certain functions of the President under this section, see section 1(a) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
-### § 2754. Purposes for which military sales or leases by the United States are authorized; report to Congress
+### § 2754. Purposes for which military sales or leases by the United States are authorized; report to Congress
 
 Defense articles and defense services shall be sold or leased by the United States Government under this chapter to friendly countries solely for internal security, for legitimate self-defense, for preventing or hindering the proliferation of weapons of mass destruction and of the means of delivering such weapons, to permit the recipient country to participate in regional or collective arrangements or measures consistent with the Charter of the United Nations, or otherwise to permit the recipient country to participate in collective measures requested by the United Nations for the purpose of maintaining or restoring international peace and security, or for the purpose of enabling foreign military forces in less developed friendly countries to construct public works and to engage in other activities helpful to the economic and social development of such friendly countries. It is the sense of the Congress that such foreign military forces should not be maintained or established solely for civic action activities and that such civic action activities not significantly detract from the capability of the military forces to perform their military missions and be coordinated with and form part of the total economic and social development effort: *Provided*, That none of the funds contained in this authorization shall be used to guarantee, or extend credit, or participate in an extension of credit in connection with any sale of sophisticated weapons systems, such as missile systems and jet aircraft for military purposes, to any underdeveloped country other than Greece, Turkey, Iran, Israel, the Republic of China, the Philippines and Korea unless the President determines that such financing is important to the national security of the United States and reports within thirty days each such determination to the Congress.
 
-(Pub. L. 90–629, ch. 1, § 4, Oct. 22, 1968, 82 Stat. 1322; Pub. L. 97–113, title I, § 109(b)(3), Dec. 29, 1981, 95 Stat. 1526; Pub. L. 107–228, div. B, title XII, § 1202(a), Sept. 30, 2002, 116 Stat. 1427.)
+(Pub. L. 90–629, ch. 1, § 4, Oct. 22, 1968, 82 Stat. 1322; Pub. L. 97–113, title I, § 109(b)(3), Dec. 29, 1981, 95 Stat. 1526; Pub. L. 107–228, div. B, title XII, § 1202(a), Sept. 30, 2002, 116 Stat. 1427.)
 
 **Editorial Notes**
 
@@ -1431,7 +1431,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a note under section 2751 of this title.
 
-### § 2755. Discrimination prohibited if based on race, religion, national origin, or sex
+### § 2755. Discrimination prohibited if based on race, religion, national origin, or sex
 
 **(a) Congressional declaration of policy**
 
@@ -1473,7 +1473,7 @@ The President shall promptly transmit reports to the Speaker of the House of Rep
 
 **(C)** The term “certification”, as used in section 601 of such Act, means, for the purposes of this paragraph, a statement transmitted under paragraph (1) of this subsection.
 
-(Pub. L. 90–629, ch. 1, § 5, as added Pub. L. 94–329, title III, § 302(b), June 30, 1976, 90 Stat. 752; amended Pub. L. 95–105, title I, § 109(a)(5), Aug. 17, 1977, 91 Stat. 846; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–236, title I, § 162(f), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, § 9(a)(7), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 111–266, title I, § 104(b), Oct. 8, 2010, 124 Stat. 2799; Pub. L. 113–276, title II, § 208(a)(1), Dec. 18, 2014, 128 Stat. 2992.)
+(Pub. L. 90–629, ch. 1, § 5, as added Pub. L. 94–329, title III, § 302(b), June 30, 1976, 90 Stat. 752; amended Pub. L. 95–105, title I, § 109(a)(5), Aug. 17, 1977, 91 Stat. 846; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–236, title I, § 162(f), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, § 9(a)(7), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 111–266, title I, § 104(b), Oct. 8, 2010, 124 Stat. 2799; Pub. L. 113–276, title II, § 208(a)(1), Dec. 18, 2014, 128 Stat. 2992.)
 
 **Editorial Notes**
 
@@ -1509,11 +1509,11 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 
 For delegation of functions of the President under this section, see section 1(b) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
-### § 2756. Foreign intimidation and harassment of individuals in United States
+### § 2756. Foreign intimidation and harassment of individuals in United States
 
 No letters of offer may be issued, no credits or guarantees may be extended, and no export licenses may be issued under this chapter with respect to any country determined by the President to be engaged in a consistent pattern of acts of intimidation or harassment directed against individuals in the United States. The President shall report any such determination promptly to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate.
 
-(Pub. L. 90–629, ch. 1, § 6, as added Pub. L. 97–113, title I, § 115, Dec. 29, 1981, 95 Stat. 1528; amended Pub. L. 113–276, title II, § 208(a)(1), Dec. 18, 2014, 128 Stat. 2992.)
+(Pub. L. 90–629, ch. 1, § 6, as added Pub. L. 97–113, title I, § 115, Dec. 29, 1981, 95 Stat. 1528; amended Pub. L. 113–276, title II, § 208(a)(1), Dec. 18, 2014, 128 Stat. 2992.)
 
 **Editorial Notes**
 
@@ -1527,7 +1527,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 ## SUBCHAPTER II—FOREIGN MILITARY SALES AUTHORIZATIONS
 
-### § 2761. Sales from stocks
+### § 2761. Sales from stocks
 
 **(a) Eligible countries or international organizations; basis of payment; valuation of certain defense articles**
 
@@ -1637,13 +1637,13 @@ The President may enter into North Atlantic Treaty Organization standardization 
 
 A certification described in subparagraph (E) shall take effect on the date on which such certification is transmitted and shall remain in effect for not to exceed one year.
 
-**(2)** No delivery may be made under any sale which is required to be reported under paragraph (1) of this subsection unless the certification required to be transmitted by paragraph 1
+**(2)** No delivery may be made under any sale which is required to be reported under paragraph (1) of this subsection unless the certification required to be transmitted by paragraph 1
 
-<sup>1</sup>  So in original. Probably should be “subparagraph”.
+<sup>1</sup> So in original. Probably should be “subparagraph”.
 
 (E) of paragraph (1) is in effect.
 
-**(j) Repealed. Pub. L. 104–106, div. A, title I, § 112, Feb. 10, 1996, 110 Stat. 206**
+**(j) Repealed. Pub. L. 104–106, div. A, title I, § 112, Feb. 10, 1996, 110 Stat. 206**
 
 **(k) Effect of sales of excess defense articles on national technology and industrial base**
 
@@ -1715,7 +1715,7 @@ Upon acquisition and acceptance by the United States Government of a defense art
 
 The authority of the President to accept the return of a defense article as provided in paragraph (1) shall not be subject to chapter 137 legacy provisions (as such term is defined in section 3016 of title 10) of title 10 or any other provision of law relating to the conclusion of contracts.
 
-(Pub. L. 90–629, ch. 2, § 21, Oct. 22, 1968, 82 Stat. 1323; Pub. L. 94–329, title II, §§ 205, 206, June 30, 1976, 90 Stat. 736, 738; Pub. L. 95–384, § 16, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–92, § 12, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §§ 102, 103, 105(b)(1), 115(b)(2), Dec. 16, 1980, 94 Stat. 3132, 3134, 3140; Pub. L. 97–113, title I, §§ 103, 104, Dec. 29, 1981, 95 Stat. 1521; Pub. L. 97–392, § 3, Dec. 29, 1982, 96 Stat. 1963; Pub. L. 98–473, title I, § 101(1) [title III, § 301], Oct. 12, 1984, 98 Stat. 1884, 1895; Pub. L. 99–83, title I, §§ 107(a), 108–111, Aug. 8, 1985, 99 Stat. 196, 197; Pub. L. 100–202, § 101(e) [title V, § 580], Dec. 22, 1987, 101 Stat. 1329–131, 1329–181; Pub. L. 100–456, div. A, title X, § 1002, Sept. 29, 1988, 102 Stat. 2037; Pub. L. 101–165, title IX, § 9104(c), Nov. 21, 1989, 103 Stat. 1152; Pub. L. 102–25, title VII, § 705(d)(1), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–484, div. A, title I, § 114, Oct. 23, 1992, 106 Stat. 2333; Pub. L. 103–236, title VII, § 731(d), Apr. 30, 1994, 108 Stat. 503; Pub. L. 104–106, div. A, title I, § 112, div. D, title XLIII, § 4303(a), Feb. 10, 1996, 110 Stat. 206, 658; Pub. L. 104–164, title I, §§ 104(b)(1), 112(c)(2), 147(a)(3)(A), (b), 152(a), (b), July 21, 1996, 110 Stat. 1426, 1428, 1435, 1438, 1439; Pub. L. 104–201, div. B, title XXVIII, § 2802(d)(2), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, § 1222], Nov. 29, 1999, 113 Stat. 1536, 1501A–498; Pub. L. 109–102, title V, § 534(*l*)(1), (2), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 110–429, title II, § 203(b)(1), (3), (4), Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title III, § 301(1), Oct. 8, 2010, 124 Stat. 2804; Pub. L. 113–66, div. A, title XII, § 1250(b), Dec. 26, 2013, 127 Stat. 926; Pub. L. 113–276, title II, § 208(a)(1), (2), Dec. 18, 2014, 128 Stat. 2992, 2993; Pub. L. 115–232, div. A, title XII, § 1279(b), Aug. 13, 2018, 132 Stat. 2072; Pub. L. 117–81, div. A, title XVII, § 1702(*l*)(3), Dec. 27, 2021, 135 Stat. 2160.)
+(Pub. L. 90–629, ch. 2, § 21, Oct. 22, 1968, 82 Stat. 1323; Pub. L. 94–329, title II, §§ 205, 206, June 30, 1976, 90 Stat. 736, 738; Pub. L. 95–384, § 16, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–92, § 12, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §§ 102, 103, 105(b)(1), 115(b)(2), Dec. 16, 1980, 94 Stat. 3132, 3134, 3140; Pub. L. 97–113, title I, §§ 103, 104, Dec. 29, 1981, 95 Stat. 1521; Pub. L. 97–392, § 3, Dec. 29, 1982, 96 Stat. 1963; Pub. L. 98–473, title I, § 101(1) [title III, § 301], Oct. 12, 1984, 98 Stat. 1884, 1895; Pub. L. 99–83, title I, §§ 107(a), 108–111, Aug. 8, 1985, 99 Stat. 196, 197; Pub. L. 100–202, § 101(e) [title V, § 580], Dec. 22, 1987, 101 Stat. 1329–131, 1329–181; Pub. L. 100–456, div. A, title X, § 1002, Sept. 29, 1988, 102 Stat. 2037; Pub. L. 101–165, title IX, § 9104(c), Nov. 21, 1989, 103 Stat. 1152; Pub. L. 102–25, title VII, § 705(d)(1), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–484, div. A, title I, § 114, Oct. 23, 1992, 106 Stat. 2333; Pub. L. 103–236, title VII, § 731(d), Apr. 30, 1994, 108 Stat. 503; Pub. L. 104–106, div. A, title I, § 112, div. D, title XLIII, § 4303(a), Feb. 10, 1996, 110 Stat. 206, 658; Pub. L. 104–164, title I, §§ 104(b)(1), 112(c)(2), 147(a)(3)(A), (b), 152(a), (b), July 21, 1996, 110 Stat. 1426, 1428, 1435, 1438, 1439; Pub. L. 104–201, div. B, title XXVIII, § 2802(d)(2), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, § 1222], Nov. 29, 1999, 113 Stat. 1536, 1501A–498; Pub. L. 109–102, title V, § 534(*l*)(1), (2), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 110–429, title II, § 203(b)(1), (3), (4), Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title III, § 301(1), Oct. 8, 2010, 124 Stat. 2804; Pub. L. 113–66, div. A, title XII, § 1250(b), Dec. 26, 2013, 127 Stat. 926; Pub. L. 113–276, title II, § 208(a)(1), (2), Dec. 18, 2014, 128 Stat. 2992, 2993; Pub. L. 115–232, div. A, title XII, § 1279(b), Aug. 13, 2018, 132 Stat. 2072; Pub. L. 117–81, div. A, title XVII, § 1702(*l*)(3), Dec. 27, 2021, 135 Stat. 2160.)
 
 **Editorial Notes**
 
@@ -1723,7 +1723,7 @@ The authority of the President to accept the return of a defense article as prov
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1)(C) and (c)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. Chapter 5 of part II of such Act is classified generally to part V of subchapter II (§ 2347 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1)(C) and (c)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. Chapter 5 of part II of such Act is classified generally to part V of subchapter II (§ 2347 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 Section 814 of the act of October 7, 1975 (Public Law 94–106), referred to in subsec. (g), is not classified to the Code.
 
@@ -1735,47 +1735,47 @@ Amendment by Pub. L. 98–473 is based on section 102 of S. 2346, Ninety-eighth 
 
 2021—Subsecs. (*l*)(4), (m)(4). Pub. L. 117–81 substituted “chapter 137 legacy provisions (as such term is defined in section 3016 of title 10)” for “chapter 137”.
 
-2018—Subsec. (e)(3)(A). Pub. L. 115–232, § 1279(b)(1)(A), substituted “North Atlantic Treaty Organization (NATO) Support and Procurement Organization” for “North Atlantic Treaty Organization (NATO) Support Organization” in introductory provisions.
+2018—Subsec. (e)(3)(A). Pub. L. 115–232, § 1279(b)(1)(A), substituted “North Atlantic Treaty Organization (NATO) Support and Procurement Organization” for “North Atlantic Treaty Organization (NATO) Support Organization” in introductory provisions.
 
-Subsec. (e)(3)(A)(i). Pub. L. 115–232, § 1279(b)(1)(B), substituted “support or procurement partnership agreement” for “support partnership agreement”.
+Subsec. (e)(3)(A)(i). Pub. L. 115–232, § 1279(b)(1)(B), substituted “support or procurement partnership agreement” for “support partnership agreement”.
 
-Subsec. (e)(3)(C)(i). Pub. L. 115–232, § 1279(b)(2), in introductory provisions, substituted “ ‘support or procurement partnership agreement’ ” for “ ‘weapon system partnership agreement’ ” and “North Atlantic Treaty Organization (NATO) Support and Procurement Organization” for “North Atlantic Treaty Organization (NATO) Support Organization”.
+Subsec. (e)(3)(C)(i). Pub. L. 115–232, § 1279(b)(2), in introductory provisions, substituted “ ‘support or procurement partnership agreement’ ” for “ ‘weapon system partnership agreement’ ” and “North Atlantic Treaty Organization (NATO) Support and Procurement Organization” for “North Atlantic Treaty Organization (NATO) Support Organization”.
 
-2014—Subsec. (g). Pub. L. 113–276, § 208(a)(1), substituted “the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and” for “the Speaker of the House of Representatives and”.
+2014—Subsec. (g). Pub. L. 113–276, § 208(a)(1), substituted “the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and” for “the Speaker of the House of Representatives and”.
 
-Subsec. (i)(1). Pub. L. 113–276, § 208(a)(2), inserted “, the Committees on Foreign Affairs and Armed Services of the House of Representatives,” after “the Speaker of the House of Representatives” in introductory provisions.
+Subsec. (i)(1). Pub. L. 113–276, § 208(a)(2), inserted “, the Committees on Foreign Affairs and Armed Services of the House of Representatives,” after “the Speaker of the House of Representatives” in introductory provisions.
 
-2013—Subsec. (e)(3)(A). Pub. L. 113–66, § 1250(b)(1), substituted “North Atlantic Treaty Organization (NATO) Support Organization and its executive agencies” for “Maintenance and Supply Agency of the North Atlantic Treaty Organization” in introductory provisions.
+2013—Subsec. (e)(3)(A). Pub. L. 113–66, § 1250(b)(1), substituted “North Atlantic Treaty Organization (NATO) Support Organization and its executive agencies” for “Maintenance and Supply Agency of the North Atlantic Treaty Organization” in introductory provisions.
 
-Subsec. (e)(3)(A)(i). Pub. L. 113–66, § 1250(b)(2), substituted “support partnership agreement” for “weapon system partnership agreement”.
+Subsec. (e)(3)(A)(i). Pub. L. 113–66, § 1250(b)(2), substituted “support partnership agreement” for “weapon system partnership agreement”.
 
-Subsec. (e)(3)(C)(i). Pub. L. 113–66, § 1250(b)(1), substituted “North Atlantic Treaty Organization (NATO) Support Organization and its executive agencies” for “Maintenance and Supply Agency of the North Atlantic Treaty Organization” in introductory provisions.
+Subsec. (e)(3)(C)(i). Pub. L. 113–66, § 1250(b)(1), substituted “North Atlantic Treaty Organization (NATO) Support Organization and its executive agencies” for “Maintenance and Supply Agency of the North Atlantic Treaty Organization” in introductory provisions.
 
-Subsec. (e)(3)(C)(i)(II). Pub. L. 113–66, § 1250(b)(3), substituted “activities” for “a specific weapon system”.
+Subsec. (e)(3)(C)(i)(II). Pub. L. 113–66, § 1250(b)(3), substituted “activities” for “a specific weapon system”.
 
 2010—Subsec. (e)(2)(A). Pub. L. 111–266 inserted “Israel,” before “or New Zealand”.
 
-2008—Subsec. (e)(2)(A). Pub. L. 110–429, § 203(b)(1), inserted “the Republic of Korea,” before “or New Zealand”.
+2008—Subsec. (e)(2)(A). Pub. L. 110–429, § 203(b)(1), inserted “the Republic of Korea,” before “or New Zealand”.
 
-Subsec. (h)(1)(A). Pub. L. 110–429, § 203(b)(3), inserted “the Republic of Korea,” before “or Israel”.
+Subsec. (h)(1)(A). Pub. L. 110–429, § 203(b)(3), inserted “the Republic of Korea,” before “or Israel”.
 
-Subsec. (h)(2). Pub. L. 110–429, § 203(b)(4), substituted “, to any member government of that Organization, or to the Governments of the Republic of Korea, Australia, New Zealand, Japan, or Israel if that Organization, member government, or the Governments of the Republic of Korea, Australia, New Zealand, Japan, or Israel” for “or to any member government of that Organization if that Organization or member government”.
+Subsec. (h)(2). Pub. L. 110–429, § 203(b)(4), substituted “, to any member government of that Organization, or to the Governments of the Republic of Korea, Australia, New Zealand, Japan, or Israel if that Organization, member government, or the Governments of the Republic of Korea, Australia, New Zealand, Japan, or Israel” for “or to any member government of that Organization if that Organization or member government”.
 
-2005—Subsec. (h)(1)(A). Pub. L. 109–102, § 534(*l*)(1), inserted “or the Governments of Australia, New Zealand, Japan, or Israel” after “North Atlantic Treaty Organization”.
+2005—Subsec. (h)(1)(A). Pub. L. 109–102, § 534(*l*)(1), inserted “or the Governments of Australia, New Zealand, Japan, or Israel” after “North Atlantic Treaty Organization”.
 
-Subsec. (h)(2). Pub. L. 109–102, § 534(*l*)(2), which directed the substitution of “, to any member of that Organization, or to the Governments of Australia, New Zealand, Japan, or Israel if that Organization, member government, or the Governments of Australia, New Zealand, Japan, or Israel” for “or to any member government that Organization if that Organization or member government”, could not be executed because the phrase “or to any member government that Organization if that Organization or member government” does not appear in text.
+Subsec. (h)(2). Pub. L. 109–102, § 534(*l*)(2), which directed the substitution of “, to any member of that Organization, or to the Governments of Australia, New Zealand, Japan, or Israel if that Organization, member government, or the Governments of Australia, New Zealand, Japan, or Israel” for “or to any member government that Organization if that Organization or member government”, could not be executed because the phrase “or to any member government that Organization if that Organization or member government” does not appear in text.
 
 1999—Subsec. (a)(1). Pub. L. 106–113 inserted “and the Coast Guard” after “Department of Defense” in introductory provisions.
 
-1996—Subsec. (a)(1)(C). Pub. L. 104–164, § 112(c)(2), inserted “or to any high-income foreign country (as described in that chapter)”.
+1996—Subsec. (a)(1)(C). Pub. L. 104–164, § 112(c)(2), inserted “or to any high-income foreign country (as described in that chapter)”.
 
-Subsec. (e)(2). Pub. L. 104–106, § 4303(a), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
+Subsec. (e)(2). Pub. L. 104–106, § 4303(a), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
-Subsec. (g). Pub. L. 104–164, § 147(a)(3)(A), (b), substituted “similar agreements with countries” for “similar agreements with Japan, Australia, and New Zealand, and with other countries” in first sentence and struck out at end “As used in this subsection, the term ‘major non-NATO allies’ means those countries designated as major non-NATO allies for purposes of section 2350a(i)(3) of title 10.”
+Subsec. (g). Pub. L. 104–164, § 147(a)(3)(A), (b), substituted “similar agreements with countries” for “similar agreements with Japan, Australia, and New Zealand, and with other countries” in first sentence and struck out at end “As used in this subsection, the term ‘major non-NATO allies’ means those countries designated as major non-NATO allies for purposes of section 2350a(i)(3) of title 10.”
 
 Subsec. (h)(1)(B). Pub. L. 104–201 substituted “Security Investment program” for “Infrastructure Program”.
 
-Subsec. (j). Pub. L. 104–106, § 112, struck out heading and text of subsec. (j). Text read as follows:
+Subsec. (j). Pub. L. 104–106, § 112, struck out heading and text of subsec. (j). Text read as follows:
 
 “(1) Funds received from the sale of tanks under this section shall be available for the upgrading of tanks for fielding to the Army.
 
@@ -1785,11 +1785,11 @@ Subsec. (j). Pub. L. 104–106, § 112, struck out heading and text of subsec.
 
 “(4) This subsection applies with respect to funds received from sales occurring after September 30, 1989.”
 
-Subsec. (k). Pub. L. 104–164, § 104(b)(1), substituted “the President shall determine that the sale of such articles will not have an adverse impact on the national technology and industrial base and, particularly, will not reduce the opportunities of entities in the national technology and industrial base to sell new or used equipment to the countries to which such articles are transferred.” for “the President shall first consider the effects of the sale of the articles on the national technology and industrial base, particularly the extent, if any, to which the sale reduces the opportunities of entities in the national technology and industrial base to sell new equipment to the country or countries to which the excess defense articles are sold.”
+Subsec. (k). Pub. L. 104–164, § 104(b)(1), substituted “the President shall determine that the sale of such articles will not have an adverse impact on the national technology and industrial base and, particularly, will not reduce the opportunities of entities in the national technology and industrial base to sell new or used equipment to the countries to which such articles are transferred.” for “the President shall first consider the effects of the sale of the articles on the national technology and industrial base, particularly the extent, if any, to which the sale reduces the opportunities of entities in the national technology and industrial base to sell new equipment to the country or countries to which the excess defense articles are sold.”
 
-Subsec. (*l*). Pub. L. 104–164, § 152(a), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 104–164, § 152(a), added subsec. (*l*).
 
-Subsec. (m). Pub. L. 104–164, § 152(b), added subsec. (m).
+Subsec. (m). Pub. L. 104–164, § 152(b), added subsec. (m).
 
 1994—Subsec. (k). Pub. L. 103–236 added subsec. (k).
 
@@ -1797,31 +1797,31 @@ Subsec. (m). Pub. L. 104–164, § 152(b), added subsec. (m).
 
 1991—Subsec. (g). Pub. L. 102–25 substituted “section 2350a(i)(3) of title 10” for “section 2767a of this title”.
 
-1989—Subsec. (e)(1)(A). Pub. L. 101–165, § 9104(c)(1), inserted reference to section 2792(b) and (c) of this title.
+1989—Subsec. (e)(1)(A). Pub. L. 101–165, § 9104(c)(1), inserted reference to section 2792(b) and (c) of this title.
 
-Subsec. (e)(1)(B). Pub. L. 101–165, § 9104(c)(2), (3), redesignated subpar. (C) as (B) and inserted exception for equipment wholly paid for from funds transferred under the Foreign Assistance Act of 1961 or from funds made available under section 2763 of this title. Former subpar. (B), which included charges for any use of plant and production equipment in connection with defense articles, was struck out.
+Subsec. (e)(1)(B). Pub. L. 101–165, § 9104(c)(2), (3), redesignated subpar. (C) as (B) and inserted exception for equipment wholly paid for from funds transferred under the Foreign Assistance Act of 1961 or from funds made available under section 2763 of this title. Former subpar. (B), which included charges for any use of plant and production equipment in connection with defense articles, was struck out.
 
-Subsec. (e)(1)(C), (D). Pub. L. 101–165, § 9104(c)(3), redesignated subpar. (D) as (C). Former subpar. (C) redesignated (B).
+Subsec. (e)(1)(C), (D). Pub. L. 101–165, § 9104(c)(3), redesignated subpar. (D) as (C). Former subpar. (C) redesignated (B).
 
-Subsec. (e)(2). Pub. L. 101–165, § 9104(c)(4), substituted reference to par. (1)(B) for reference to pars. (1)(B) and (1)(C).
+Subsec. (e)(2). Pub. L. 101–165, § 9104(c)(4), substituted reference to par. (1)(B) for reference to pars. (1)(B) and (1)(C).
 
 1988—Subsec. (e)(3). Pub. L. 100–456 added par. (3).
 
 1987—Subsec. (g). Pub. L. 100–202 inserted “and with other countries which are major non-NATO allies,” after “New Zealand,” and inserted last sentence defining “major non-NATO allies”.
 
-1985—Subsec. (a)(1). Pub. L. 99–83, § 107(a)(1), (2), designated existing provisions as par. (1), and substituted “(A)”, “(B)”, and “(C)” for “(1)”, “(2)”, and “(3)”, respectively.
+1985—Subsec. (a)(1). Pub. L. 99–83, § 107(a)(1), (2), designated existing provisions as par. (1), and substituted “(A)”, “(B)”, and “(C)” for “(1)”, “(2)”, and “(3)”, respectively.
 
-Subsec. (a)(1)(C). Pub. L. 99–83, § 108(a), inserted provisions relating to training sold to a purchaser receiving assistance under chapter 5 of part II of the Foreign Assistance Act of 1961.
+Subsec. (a)(1)(C). Pub. L. 99–83, § 108(a), inserted provisions relating to training sold to a purchaser receiving assistance under chapter 5 of part II of the Foreign Assistance Act of 1961.
 
-Subsec. (a)(2). Pub. L. 99–83, § 107(a)(3), added par. (2).
+Subsec. (a)(2). Pub. L. 99–83, § 107(a)(3), added par. (2).
 
-Subsec. (e)(1)(A). Pub. L. 99–83, § 109, inserted provisions excluding pro rata share of fixed base operation costs.
+Subsec. (e)(1)(A). Pub. L. 99–83, § 109, inserted provisions excluding pro rata share of fixed base operation costs.
 
-Subsec. (g). Pub. L. 99–83, § 108(b), added subsec. (g).
+Subsec. (g). Pub. L. 99–83, § 108(b), added subsec. (g).
 
-Subsec. (h)(1). Pub. L. 99–83, §§ 110, 111(1), (2), designated existing provisions as par. (1), inserted applicability to contract administrative services, and substituted “(A)” and “(B)” for “(1)” and “(2)”, respectively.
+Subsec. (h)(1). Pub. L. 99–83, §§ 110, 111(1), (2), designated existing provisions as par. (1), inserted applicability to contract administrative services, and substituted “(A)” and “(B)” for “(1)” and “(2)”, respectively.
 
-Subsec. (h)(2). Pub. L. 99–83, § 111(3), added par. (2).
+Subsec. (h)(2). Pub. L. 99–83, § 111(3), added par. (2).
 
 1984—Subsec. (a)(3). Pub. L. 98–473 struck out “sold to a purchaser who is concurrently receiving assistance under chapter 5 of part II of the Foreign Assistance Act of 1961” after “in the case of training”.
 
@@ -1829,31 +1829,31 @@ Subsec. (g). Pub. L. 98–473 struck out subsec. (g) which related to NATO stand
 
 1982—Subsec. (i)(1). Pub. L. 97–392 inserted reference to proposals to sell under the authority of subchapter II–B.
 
-1981—Subsec. (c)(2). Pub. L. 97–113, § 103, substituted provision for a report within forty-eight hours of existence of or change in status of significant hostilities or terrorist acts or series of such acts, which may endanger American lives or property for provision for a report within 48 hours after outbreak of significant hostilities and omitted provision for statement of relation between the defense services and hostilities in the country, the location and precise nature of personnel activities, and likelihood of personnel engagement in the hostilities.
+1981—Subsec. (c)(2). Pub. L. 97–113, § 103, substituted provision for a report within forty-eight hours of existence of or change in status of significant hostilities or terrorist acts or series of such acts, which may endanger American lives or property for provision for a report within 48 hours after outbreak of significant hostilities and omitted provision for statement of relation between the defense services and hostilities in the country, the location and precise nature of personnel activities, and likelihood of personnel engagement in the hostilities.
 
-Subsec. (e)(2). Pub. L. 97–113, § 104, authorized reduction or waiver of charges for use and nonrecurring research, development, and production costs respecting sales significantly advancing United States interests in standardization with Armed Forces of Japan, Australia, or New Zealand in furtherance of the mutual defense treaties between the United States and those countries.
+Subsec. (e)(2). Pub. L. 97–113, § 104, authorized reduction or waiver of charges for use and nonrecurring research, development, and production costs respecting sales significantly advancing United States interests in standardization with Armed Forces of Japan, Australia, or New Zealand in furtherance of the mutual defense treaties between the United States and those countries.
 
-1980—Subsec. (a)(3). Pub. L. 96–533, § 115(b)(2), included payment, in case of training sold to a purchaser currently receiving international military education and training assistance, of additional costs incurred by the United States Government in furnishing the training.
+1980—Subsec. (a)(3). Pub. L. 96–533, § 115(b)(2), included payment, in case of training sold to a purchaser currently receiving international military education and training assistance, of additional costs incurred by the United States Government in furnishing the training.
 
-Subsec. (c). Pub. L. 96–533, § 102, designated existing provision as par. (1), substituted “training and advising that may engage United States personnel in combat activities” for “training, advising, or otherwise providing assistance regarding combat activities”, and added par. (2).
+Subsec. (c). Pub. L. 96–533, § 102, designated existing provision as par. (1), substituted “training and advising that may engage United States personnel in combat activities” for “training, advising, or otherwise providing assistance regarding combat activities”, and added par. (2).
 
-Subsec. (g). Pub. L. 96–533, § 103, authorized the President to enter into standardization agreements with Japan, Australia, and New Zealand.
+Subsec. (g). Pub. L. 96–533, § 103, authorized the President to enter into standardization agreements with Japan, Australia, and New Zealand.
 
-Subsec. (h). Pub. L. 96–533, § 105(b)(1), substituted “defense articles, defense services, or design and construction services” for “defense articles or defense services” in two places.
+Subsec. (h). Pub. L. 96–533, § 105(b)(1), substituted “defense articles, defense services, or design and construction services” for “defense articles or defense services” in two places.
 
 1979—Subsecs. (h), (i). Pub. L. 96–92 added subsec. (h) and redesignated former subsec. (h) as (i).
 
 1978—Subsec. (e)(1)(D). Pub. L. 95–384 added subpar. (D).
 
-1976—Subsec. (a). Pub. L. 94–329, § 205, designated existing provisions as subsec. (a) and substituted provisions authorizing President to sell defense articles and defense services from Department of Defense stocks to eligible countries and international organizations who agree to pay specified values for such articles and services in United States dollars, for provisions requiring that payment for defense articles and defense services from stocks be made in advance, or if in the best interest of the United States as determined by the President, within a reasonable period not to exceed 120 days after delivery of the articles or rendering of the services.
+1976—Subsec. (a). Pub. L. 94–329, § 205, designated existing provisions as subsec. (a) and substituted provisions authorizing President to sell defense articles and defense services from Department of Defense stocks to eligible countries and international organizations who agree to pay specified values for such articles and services in United States dollars, for provisions requiring that payment for defense articles and defense services from stocks be made in advance, or if in the best interest of the United States as determined by the President, within a reasonable period not to exceed 120 days after delivery of the articles or rendering of the services.
 
-Subsecs. (b) to (h). Pub. L. 94–329, §§ 205, 206, added subsecs. (b) to (h).
+Subsecs. (b) to (h). Pub. L. 94–329, §§ 205, 206, added subsecs. (b) to (h).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. D, title XLIII, § 4303(b)–(d), Feb. 10, 1996, 110 Stat. 659, provided that:
+Pub. L. 104–106, div. D, title XLIII, § 4303(b)–(d), Feb. 10, 1996, 110 Stat. 659, provided that:
 
 > **“(b) Conditions.—** Subsection (a) [amending this section] shall be effective only if—
 
@@ -1875,7 +1875,7 @@ Pub. L. 104–106, div. D, title XLIII, § 4303(b)–(d), Feb. 10, 1996, 110 S
 
 > **“(2)** The term ‘PayGo scorecard’ means the estimates that are made by the Director of the Congressional Budget Office and the Director of the Office of Management and Budget under section 252(d) of the Balanced Budget and Emergency Deficit Control Act of 1985 [2 U.S.C. 902(d)].”
 
-[Qualifying offsetting legislation was enacted by Pub. L. 104–201, § 3303, listed in a Materials in the National Defense Stockpile table under section 98d of Title 50, War and National Defense.]
+[Qualifying offsetting legislation was enacted by Pub. L. 104–201, § 3303, listed in a Materials in the National Defense Stockpile table under section 98d of Title 50, War and National Defense.]
 
 **Effective Date of 1985 Amendment**
 
@@ -1887,7 +1887,7 @@ Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a
 
 **Regulations**
 
-Pub. L. 104–164, title I, § 152(c), July 21, 1996, 110 Stat. 1439, provided that: “Under the direction of the President, the Secretary of Defense shall promulgate regulations to implement subsections (*l*) and (m) of section 21 of the Arms Export Control Act [22 U.S.C. 2761(*l*), (m)], as added by this section.”
+Pub. L. 104–164, title I, § 152(c), July 21, 1996, 110 Stat. 1439, provided that: “Under the direction of the President, the Secretary of Defense shall promulgate regulations to implement subsections (*l*) and (m) of section 21 of the Arms Export Control Act [22 U.S.C. 2761(*l*), (m)], as added by this section.”
 
 **Transfer of Functions**
 
@@ -1895,7 +1895,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Improvements to Security Cooperation Workforce and Defense Acquisition Workforce**
 
-Pub. L. 119–60, div. A, title XII, § 1211, Dec. 18, 2025, 139 Stat. 1082, provided that:
+Pub. L. 119–60, div. A, title XII, § 1211, Dec. 18, 2025, 139 Stat. 1082, provided that:
 
 > **“(a) Responsibilities of Secretary of Defense.—** The Secretary of Defense shall, consistent with the requirements of section 384 of title 10, United States Code, seek to ensure that—
 
@@ -1945,7 +1945,7 @@ Pub. L. 119–60, div. A, title XII, § 1211, Dec. 18, 2025, 139 Stat. 1082, p
 
 **Modifications to Foreign Military Sales Processes**
 
-Pub. L. 119–60, div. A, title XII, § 1212, Dec. 18, 2025, 139 Stat. 1084, provided that:
+Pub. L. 119–60, div. A, title XII, § 1212, Dec. 18, 2025, 139 Stat. 1084, provided that:
 
 > **“(a) Acquisition Strategies.—** The Secretary of Defense shall, with respect to the foreign military sales process—
 
@@ -1991,7 +1991,7 @@ Pub. L. 119–60, div. A, title XII, § 1212, Dec. 18, 2025, 139 Stat. 1084, p
 
 **Improvements to Defense Acquisition Workforce for Foreign Military Sales**
 
-Pub. L. 118–159, div. A, title XII, § 1210(b), (c), Dec. 23, 2024, 138 Stat. 2098, as amended by Pub. L. 119–60, div. A, title XII, § 1211(c), Dec. 18, 2025, 139 Stat. 1083, provided that:
+Pub. L. 118–159, div. A, title XII, § 1210(b), (c), Dec. 23, 2024, 138 Stat. 2098, as amended by Pub. L. 119–60, div. A, title XII, § 1211(c), Dec. 18, 2025, 139 Stat. 1083, provided that:
 
 > **“(b) Foreign Military Sales Continuous Process Improvement Board.—**
 
@@ -2039,7 +2039,7 @@ Pub. L. 118–159, div. A, title XII, § 1210(b), (c), Dec. 23, 2024, 138 Stat
 
 **Notional Milestones and Standard Timelines for Contracts for Foreign Military Sales**
 
-Pub. L. 115–91, div. A, title VIII, § 887, Dec. 12, 2017, 131 Stat. 1506, as amended by Pub. L. 116–283, div. A, title VIII, § 887, Jan. 1, 2021, 134 Stat. 3791, provided that:
+Pub. L. 115–91, div. A, title VIII, § 887, Dec. 12, 2017, 131 Stat. 1506, as amended by Pub. L. 116–283, div. A, title VIII, § 887, Jan. 1, 2021, 134 Stat. 3791, provided that:
 
 > **“(a) Establishment.—**
 
@@ -2079,7 +2079,7 @@ Pub. L. 115–91, div. A, title VIII, § 887, Dec. 12, 2017, 131 Stat. 1506, a
 
 **International Sales Process Improvements**
 
-Pub. L. 114–328, div. A, title XII, § 1297, Dec. 23, 2016, 130 Stat. 2563, provided that:
+Pub. L. 114–328, div. A, title XII, § 1297, Dec. 23, 2016, 130 Stat. 2563, provided that:
 
 > **“(a) Plan Required.—** Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2016], the Secretary of Defense shall develop a plan to improve the management and use of fees collected on transfer of defense articles and services via sale, lease, or grant to international customers under programs over which the Defense Security Cooperation Agency has administration responsibilities. The plan shall include options to use fees more effectively—
 
@@ -2095,7 +2095,7 @@ Pub. L. 114–328, div. A, title XII, § 1297, Dec. 23, 2016, 130 Stat. 2563, 
 
 For delegation of certain functions of the President under this section, see section 1(c) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
-### § 2762. Procurement for cash sales
+### § 2762. Procurement for cash sales
 
 **(a) Authority of President; dependable undertaking by foreign country or international organization; interest rates**
 
@@ -2115,7 +2115,7 @@ The provisions of the Renegotiation Act of 1951 do not apply to procurement cont
 
 **(2)** Direct costs associated with meeting additional or unique requirements of the purchaser shall be allowable under contracts described in paragraph (1). Loadings applicable to such direct costs shall be permitted at the same rates applicable to procurement of like items purchased by the Department of Defense for its own use.
 
-(Pub. L. 90–629, ch. 2, § 22, Oct. 22, 1968, 82 Stat. 1323; Pub. L. 93–189, § 25(3), Dec. 17, 1973, 87 Stat. 730; Pub. L. 94–329, title II, § 207, June 30, 1976, 90 Stat. 738; Pub. L. 95–384, § 17, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–533, title I, § 105(b)(2), Dec. 16, 1980, 94 Stat. 3134; Pub. L. 104–107, title V, § 531A(a), Feb. 12, 1996, 110 Stat. 731; Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, § 1223], Nov. 29, 1999, 113 Stat. 1536, 1501A–498.)
+(Pub. L. 90–629, ch. 2, § 22, Oct. 22, 1968, 82 Stat. 1323; Pub. L. 93–189, § 25(3), Dec. 17, 1973, 87 Stat. 730; Pub. L. 94–329, title II, § 207, June 30, 1976, 90 Stat. 738; Pub. L. 95–384, § 17, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–533, title I, § 105(b)(2), Dec. 16, 1980, 94 Stat. 3134; Pub. L. 104–107, title V, § 531A(a), Feb. 12, 1996, 110 Stat. 731; Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, § 1223], Nov. 29, 1999, 113 Stat. 1536, 1501A–498.)
 
 **Editorial Notes**
 
@@ -2135,9 +2135,9 @@ The Renegotiation Act of 1951, referred to in subsec. (c), is act Mar. 23, 1951,
 
 1978—Subsec. (c). Pub. L. 95–384 added subsec. (c).
 
-1976—Subsec. (a). Pub. L. 94–329, § 207(a), inserted provisions requiring interest to be charged on any net amount a country or international organization is in arrears and the rate of interest to be determined by the Secretary of Treasury considering current average market yield of short-term obligations of United States on a particular day.
+1976—Subsec. (a). Pub. L. 94–329, § 207(a), inserted provisions requiring interest to be charged on any net amount a country or international organization is in arrears and the rate of interest to be determined by the Secretary of Treasury considering current average market yield of short-term obligations of United States on a particular day.
 
-Subsec. (b). Pub. L. 94–329, § 207(b), substituted provisions authorizing President to issue letters of offer with provisions for billing on delivery of article or rendering of service and payment within 120 days after billing date where President determines that emergency conditions exist, for provisions authorizing President to accept a dependable undertaking of a foreign country or international organization with respect to sales of defense articles and services and to make payment within 120 days of delivery of article or rendering of service.
+Subsec. (b). Pub. L. 94–329, § 207(b), substituted provisions authorizing President to issue letters of offer with provisions for billing on delivery of article or rendering of service and payment within 120 days after billing date where President determines that emergency conditions exist, for provisions authorizing President to accept a dependable undertaking of a foreign country or international organization with respect to sales of defense articles and services and to make payment within 120 days of delivery of article or rendering of service.
 
 1973—Pub. L. 93–189 designated text preceding first proviso as subsec. (a) and inserted “Except as otherwise provided in this section,” before “the President”, designated first proviso as subsec. (b) and inserted reference to acceptance of a dependable undertaking of a foreign country or international organization, and struck out further provisions setting forth Presidential powers with respect to sales agreements with and payments by purchasing countries or international organizations.
 
@@ -2145,7 +2145,7 @@ Subsec. (b). Pub. L. 94–329, § 207(b), substituted provisions authorizing P
 
 **Effective Date of 1996 Amendment; Implementing Regulations**
 
-Pub. L. 104–107, title V, § 531A(b), Feb. 12, 1996, 110 Stat. 731, provided that:
+Pub. L. 104–107, title V, § 531A(b), Feb. 12, 1996, 110 Stat. 731, provided that:
 
 > “Section 22(d) of the Arms Export Control Act [subsec. (d) of this section], as added by subsection (a)—
 
@@ -2163,21 +2163,21 @@ Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a
 
 Provisions similar to those comprising subsec. (d)(2) of this section were contained in the following appropriation acts:
 
-Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 556], Nov. 29, 1999, 113 Stat. 1535, 1501A–100.
+Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 556], Nov. 29, 1999, 113 Stat. 1535, 1501A–100.
 
-Pub. L. 105–277, div. A, § 101(d) [title V, § 536], Oct. 21, 1998, 112 Stat. 2681–150, 2681–181.
+Pub. L. 105–277, div. A, § 101(d) [title V, § 536], Oct. 21, 1998, 112 Stat. 2681–150, 2681–181.
 
-Pub. L. 105–118, title V, § 535, Nov. 26, 1997, 111 Stat. 2416.
+Pub. L. 105–118, title V, § 535, Nov. 26, 1997, 111 Stat. 2416.
 
-Pub. L. 104–208, div. A, title I, § 101(c) [title V, § 533A], Sept. 30, 1996, 110 Stat. 3009–121, 3009–153.
+Pub. L. 104–208, div. A, title I, § 101(c) [title V, § 533A], Sept. 30, 1996, 110 Stat. 3009–121, 3009–153.
 
-Pub. L. 104–107, title V, § 531A(c), Feb. 12, 1996, 110 Stat. 731.
+Pub. L. 104–107, title V, § 531A(c), Feb. 12, 1996, 110 Stat. 731.
 
 **Requirement To Use Firm Fixed-Price Contracts for Foreign Military Sales**
 
-Pub. L. 116–92, div. A, title VIII, § 807(c), Dec. 20, 2019, 133 Stat. 1486, provided that the regulations prescribed pursuant to section 830(a) of title VIII of div. A of Pub. L. 114–328, formerly set out as a note below, would not take effect until Dec. 31, 2020.
+Pub. L. 116–92, div. A, title VIII, § 807(c), Dec. 20, 2019, 133 Stat. 1486, provided that the regulations prescribed pursuant to section 830(a) of title VIII of div. A of Pub. L. 114–328, formerly set out as a note below, would not take effect until Dec. 31, 2020.
 
-Pub. L. 114–328, div. A, title VIII, § 830, Dec. 23, 2016, 130 Stat. 2282, as amended by Pub. L. 115–91, div. A, title VIII, § 812, Dec. 12, 2017, 131 Stat. 1461, which directed the Secretary of Defense to prescribe regulations to require firm fixed-price contracts for foreign military sales not later than 180 days after Dec. 23, 2016, and to establish a pilot program for acceleration of foreign military sales, was repealed by Pub. L. 116–283, div. A, title VIII, § 888, Jan. 1, 2021, 134 Stat. 3791.
+Pub. L. 114–328, div. A, title VIII, § 830, Dec. 23, 2016, 130 Stat. 2282, as amended by Pub. L. 115–91, div. A, title VIII, § 812, Dec. 12, 2017, 131 Stat. 1461, which directed the Secretary of Defense to prescribe regulations to require firm fixed-price contracts for foreign military sales not later than 180 days after Dec. 23, 2016, and to establish a pilot program for acceleration of foreign military sales, was repealed by Pub. L. 116–283, div. A, title VIII, § 888, Jan. 1, 2021, 134 Stat. 3791.
 
 **Executive Documents**
 
@@ -2185,7 +2185,7 @@ Pub. L. 114–328, div. A, title VIII, § 830, Dec. 23, 2016, 130 Stat. 2282, 
 
 For delegation of functions of the President under subsec. (a) of this section, see section 1(d) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
-### § 2763. Credit sales
+### § 2763. Credit sales
 
 **(a) Financing procurement of defense articles and services, and design and construction services**
 
@@ -2229,7 +2229,7 @@ For each fiscal year, the Secretary of Defense, as requested by the Director of 
 
 Of the amounts made available for a fiscal year to carry out this section, not more than $100,000,000 for such fiscal year may be made available for countries other than Israel and Egypt for the purpose of financing the procurement of defense articles, defense services, and design and construction services that are not sold by the United States Government under this chapter.
 
-(Pub. L. 90–629, ch. 2, § 23, Oct. 22, 1968, 82 Stat. 1324; Pub. L. 93–559, § 45(a)(2), Dec. 30, 1974, 88 Stat. 1813; Pub. L. 94–329, title II, § 208(a), June 30, 1976, 90 Stat. 739; Pub. L. 96–533, title I, § 105(b)(3), Dec. 16, 1980, 94 Stat. 3134; Pub. L. 99–83, title I, § 102, Aug. 8, 1985, 99 Stat. 195; Pub. L. 100–202, § 101(e) [title V, § 572], Dec. 22, 1987, 101 Stat. 1329–131, 1329–176; Pub. L. 101–513, title V, § 580, Nov. 5, 1990, 104 Stat. 2045; Pub. L. 104–164, title I, § 102(a)–(c), July 21, 1996, 110 Stat. 1422.)
+(Pub. L. 90–629, ch. 2, § 23, Oct. 22, 1968, 82 Stat. 1324; Pub. L. 93–559, § 45(a)(2), Dec. 30, 1974, 88 Stat. 1813; Pub. L. 94–329, title II, § 208(a), June 30, 1976, 90 Stat. 739; Pub. L. 96–533, title I, § 105(b)(3), Dec. 16, 1980, 94 Stat. 3134; Pub. L. 99–83, title I, § 102, Aug. 8, 1985, 99 Stat. 195; Pub. L. 100–202, § 101(e) [title V, § 572], Dec. 22, 1987, 101 Stat. 1329–131, 1329–176; Pub. L. 101–513, title V, § 580, Nov. 5, 1990, 104 Stat. 2045; Pub. L. 104–164, title I, § 102(a)–(c), July 21, 1996, 110 Stat. 1422.)
 
 **Editorial Notes**
 
@@ -2237,7 +2237,7 @@ Of the amounts made available for a fiscal year to carry out this section, not m
 
 This chapter, referred to in subsecs. (a), (g)(1), and (h), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (g)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (g)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Amendments**
 
@@ -2267,7 +2267,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–329, title II, § 208(b), June 30, 1976, 90 Stat. 739, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to financing under agreements entered into on or after the date of enactment of this Act [June 30, 1976] for the procurement of defense articles to be delivered, or defense services to be rendered, after such date.”
+Pub. L. 94–329, title II, § 208(b), June 30, 1976, 90 Stat. 739, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to financing under agreements entered into on or after the date of enactment of this Act [June 30, 1976] for the procurement of defense articles to be delivered, or defense services to be rendered, after such date.”
 
 **Effective Date**
 
@@ -2277,75 +2277,75 @@ Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a
 
 Provisions similar to those in last sentence of subsec. (a) of this section which were applicable to NATO and major non-NATO allies in addition to Israel and Egypt were contained in the following appropriation acts:
 
-Pub. L. 119–75, div. F, title VII, § 7035(b)(3), Feb. 3, 2026, 140 Stat. 574.
+Pub. L. 119–75, div. F, title VII, § 7035(b)(3), Feb. 3, 2026, 140 Stat. 574.
 
-Pub. L. 118–47, div. F, title VII, § 7035(b)(3), Mar. 23, 2024, 138 Stat. 795.
+Pub. L. 118–47, div. F, title VII, § 7035(b)(3), Mar. 23, 2024, 138 Stat. 795.
 
-Pub. L. 117–328, div. K, title VII, § 7035(b)(3), Dec. 29, 2022, 136 Stat. 5037.
+Pub. L. 117–328, div. K, title VII, § 7035(b)(3), Dec. 29, 2022, 136 Stat. 5037.
 
-Pub. L. 117–103, div. K, title VII, § 7035(b)(4), Mar. 15, 2022, 136 Stat. 629.
+Pub. L. 117–103, div. K, title VII, § 7035(b)(4), Mar. 15, 2022, 136 Stat. 629.
 
-Pub. L. 116–260, div. G, title VII, § 7035(b)(4), Dec. 27, 2020, 134 Stat. 1756.
+Pub. L. 116–260, div. G, title VII, § 7035(b)(4), Dec. 27, 2020, 134 Stat. 1756.
 
-Pub. L. 116–94, div. G, title VII, § 7035(b)(4), Dec. 20, 2019, 133 Stat. 2878.
+Pub. L. 116–94, div. G, title VII, § 7035(b)(4), Dec. 20, 2019, 133 Stat. 2878.
 
-Pub. L. 116–6, div. F, title VII, § 7049(b)(5), Feb. 15, 2019, 133 Stat. 366.
+Pub. L. 116–6, div. F, title VII, § 7049(b)(5), Feb. 15, 2019, 133 Stat. 366.
 
-Pub. L. 115–141, div. K, title VII, § 7068, Mar. 23, 2018, 132 Stat. 950.
+Pub. L. 115–141, div. K, title VII, § 7068, Mar. 23, 2018, 132 Stat. 950.
 
-Pub. L. 115–31, div. J, title VII, § 7068, May 5, 2017, 131 Stat. 704.
+Pub. L. 115–31, div. J, title VII, § 7068, May 5, 2017, 131 Stat. 704.
 
-Pub. L. 114–113, div. K, title VII, § 7068, Dec. 18, 2015, 129 Stat. 2811.
+Pub. L. 114–113, div. K, title VII, § 7068, Dec. 18, 2015, 129 Stat. 2811.
 
-Pub. L. 113–235, div. J, title VII, § 7068, Dec. 16, 2014, 128 Stat. 2676.
+Pub. L. 113–235, div. J, title VII, § 7068, Dec. 16, 2014, 128 Stat. 2676.
 
-Pub. L. 113–76, div. K, title VII, § 7068, Jan. 17, 2014, 128 Stat. 558.
+Pub. L. 113–76, div. K, title VII, § 7068, Jan. 17, 2014, 128 Stat. 558.
 
-Pub. L. 112–74, div. I, title VII, § 7069, Dec. 23, 2011, 125 Stat. 1253.
+Pub. L. 112–74, div. I, title VII, § 7069, Dec. 23, 2011, 125 Stat. 1253.
 
-Pub. L. 111–117, div. F, title VII, § 7083, Dec. 16, 2009, 123 Stat. 3400.
+Pub. L. 111–117, div. F, title VII, § 7083, Dec. 16, 2009, 123 Stat. 3400.
 
-Pub. L. 111–8, div. H, title VII, § 7085, Mar. 11, 2009, 123 Stat. 912.
+Pub. L. 111–8, div. H, title VII, § 7085, Mar. 11, 2009, 123 Stat. 912.
 
-Pub. L. 110–161, div. J, title VI, § 610, Dec. 26, 2007, 121 Stat. 2316.
+Pub. L. 110–161, div. J, title VI, § 610, Dec. 26, 2007, 121 Stat. 2316.
 
-Pub. L. 109–102, title V, § 510, Nov. 14, 2005, 119 Stat. 2198.
+Pub. L. 109–102, title V, § 510, Nov. 14, 2005, 119 Stat. 2198.
 
-Pub. L. 108–447, div. D, title V, § 510, Dec. 8, 2004, 118 Stat. 2993.
+Pub. L. 108–447, div. D, title V, § 510, Dec. 8, 2004, 118 Stat. 2993.
 
-Pub. L. 108–199, div. D, title V, § 510, Jan. 23, 2004, 118 Stat. 170.
+Pub. L. 108–199, div. D, title V, § 510, Jan. 23, 2004, 118 Stat. 170.
 
-Pub. L. 108–7, div. E, title V, § 575, Feb. 20, 2003, 117 Stat. 210.
+Pub. L. 108–7, div. E, title V, § 575, Feb. 20, 2003, 117 Stat. 210.
 
-Pub. L. 107–115, title V, § 580, Jan. 10, 2002, 115 Stat. 2170.
+Pub. L. 107–115, title V, § 580, Jan. 10, 2002, 115 Stat. 2170.
 
-Pub. L. 106–429, § 101(a) [title V, § 589], Nov. 6, 2000, 114 Stat. 1900, 1900A–59.
+Pub. L. 106–429, § 101(a) [title V, § 589], Nov. 6, 2000, 114 Stat. 1900, 1900A–59.
 
-Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 528], Nov. 29, 1999, 113 Stat. 1535, 1501A–90.
+Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 528], Nov. 29, 1999, 113 Stat. 1535, 1501A–90.
 
-Pub. L. 105–277, div. A, § 101(d) [title V, § 529], Oct. 21, 1998, 112 Stat. 2681–150, 2681–178.
+Pub. L. 105–277, div. A, § 101(d) [title V, § 529], Oct. 21, 1998, 112 Stat. 2681–150, 2681–178.
 
-Pub. L. 105–118, title V, § 528, Nov. 26, 1997, 111 Stat. 2413.
+Pub. L. 105–118, title V, § 528, Nov. 26, 1997, 111 Stat. 2413.
 
-Pub. L. 104–208, div. A, title I, § 101(c) [title V, § 528], Sept. 30, 1996, 110 Stat. 3009–121, 3009–149.
+Pub. L. 104–208, div. A, title I, § 101(c) [title V, § 528], Sept. 30, 1996, 110 Stat. 3009–121, 3009–149.
 
-Pub. L. 104–107, title V, § 528, Feb. 12, 1996, 110 Stat. 730.
+Pub. L. 104–107, title V, § 528, Feb. 12, 1996, 110 Stat. 730.
 
-Pub. L. 103–306, title V, § 530, Aug. 23, 1994, 108 Stat. 1635.
+Pub. L. 103–306, title V, § 530, Aug. 23, 1994, 108 Stat. 1635.
 
-Pub. L. 103–87, title V, § 530, Sept. 30, 1993, 107 Stat. 954.
+Pub. L. 103–87, title V, § 530, Sept. 30, 1993, 107 Stat. 954.
 
-Pub. L. 102–391, title V, § 558, Oct. 6, 1992, 106 Stat. 1676.
+Pub. L. 102–391, title V, § 558, Oct. 6, 1992, 106 Stat. 1676.
 
-Pub. L. 101–513, title V, § 561, Nov. 5, 1990, 104 Stat. 2026.
+Pub. L. 101–513, title V, § 561, Nov. 5, 1990, 104 Stat. 2026.
 
-Pub. L. 101–167, title V, § 571, Nov. 21, 1989, 103 Stat. 1245.
+Pub. L. 101–167, title V, § 571, Nov. 21, 1989, 103 Stat. 1245.
 
-Pub. L. 100–461, title V, § 580, Oct. 1, 1988, 102 Stat. 2268–48.
+Pub. L. 100–461, title V, § 580, Oct. 1, 1988, 102 Stat. 2268–48.
 
 **Modernizing the Defense Capabilities of the Philippines**
 
-Pub. L. 119–60, div. A, title XII, § 1270, Dec. 18, 2025, 139 Stat. 1125, provided that:
+Pub. L. 119–60, div. A, title XII, § 1270, Dec. 18, 2025, 139 Stat. 1125, provided that:
 
 > **“(a) Purpose.—** In addition to the purposes otherwise authorized for Foreign Military Financing with respect to the Philippines, the Secretary of State shall use the authorities under this section to—
 
@@ -2539,7 +2539,7 @@ Pub. L. 116–332, Jan. 13, 2021, 134 Stat. 5111, provided that:
 
 For delegation of functions of the President under this section and section 7069 of div. I of Pub. L. 112–74 (see Similar Provisions note below), with certain conditions and exceptions, see section 1(e) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
-### § 2764. Guaranties
+### § 2764. Guaranties
 
 **(a) Guaranty against political and credit risks of nonpayment**
 
@@ -2553,7 +2553,7 @@ The President may sell to any individual, corporation, partnership, or other jur
 
 Funds obligated under this section before December 16, 1980, which constitute a single reserve for the payment of claims under guaranties issued under this section shall remain available for expenditure for the purposes of this section on and after that date. That single reserve may, on and after August 8, 1985, be referred to as the “Guaranty Reserve Fund”. Funds provided for necessary expenses to carry out the provisions of section 2763 of this title and of section 2311 of this title may be used to pay claims on the Guaranty Reserve Fund to the extent that funds in the Guaranty Reserve Fund are inadequate for that purpose. For purposes of any provision in this chapter or any other Act relating to a prohibition or limitation on the availability of funds under this chapter, whenever a guaranty is issued under this section, the principal amount of the loan so guaranteed shall be deemed to be funds made available for use under this chapter. Any guaranties issued hereunder shall be backed by the full faith and credit of the United States.
 
-(Pub. L. 90–629, ch. 2, § 24, Oct. 22, 1968, 82 Stat. 1324; Pub. L. 93–189, § 25(4), Dec. 17, 1973, 87 Stat. 730; Pub. L. 93–559, § 45(a)(3), (4), Dec. 30, 1974, 88 Stat. 1814; Pub. L. 96–533, title I, §§ 104(a), 105(b)(3), Dec. 16, 1980, 94 Stat. 3132, 3134; Pub. L. 99–83, title I, § 106(b), (c), Aug. 8, 1985, 99 Stat. 196; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 409.)
+(Pub. L. 90–629, ch. 2, § 24, Oct. 22, 1968, 82 Stat. 1324; Pub. L. 93–189, § 25(4), Dec. 17, 1973, 87 Stat. 730; Pub. L. 93–559, § 45(a)(3), (4), Dec. 30, 1974, 88 Stat. 1814; Pub. L. 96–533, title I, §§ 104(a), 105(b)(3), Dec. 16, 1980, 94 Stat. 3132, 3134; Pub. L. 99–83, title I, § 106(b), (c), Aug. 8, 1985, 99 Stat. 196; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 409.)
 
 **Editorial Notes**
 
@@ -2567,13 +2567,13 @@ This chapter, referred to in subsec. (c), was in the original “this Act”, me
 
 1985—Subsec. (c). Pub. L. 99–83 inserted provisions authorizing the single reserve to be termed the “Guaranty Reserve Fund”, and substituted provisions relating to payment of claims under guarantees, for provisions relating to report to Congress respecting any payment of claims reducing the single reserve.
 
-1980—Subsec. (a). Pub. L. 96–533, § 105(b)(3), substituted “defense articles, defense services, and design and construction services” for “defense articles and defense services”.
+1980—Subsec. (a). Pub. L. 96–533, § 105(b)(3), substituted “defense articles, defense services, and design and construction services” for “defense articles and defense services”.
 
-Subsec. (c). Pub. L. 96–533, § 104(a), substituted provisions making funds obligated before Dec. 16, 1980 available for expenditure after such date for payment of guaranteed claims, requiring the President to report to Congress the reduction of the single reserve below $750,000,000 with recommendation for an appropriations authorization of additional funds and deeming the principal amount of a guaranteed loan to be funds made available for use under this chapter for purposes of any limitation on availability of funds for prior provisions for obligation of available funds in an amount equal to 10 per centum of principal amount of contractual liability related to a guaranty under this section, making such funds a single reserve for payment of guaranteed claims, and providing for transfer of any funds deobligated during any current fiscal year to the general fund of the Treasury.
+Subsec. (c). Pub. L. 96–533, § 104(a), substituted provisions making funds obligated before Dec. 16, 1980 available for expenditure after such date for payment of guaranteed claims, requiring the President to report to Congress the reduction of the single reserve below $750,000,000 with recommendation for an appropriations authorization of additional funds and deeming the principal amount of a guaranteed loan to be funds made available for use under this chapter for purposes of any limitation on availability of funds for prior provisions for obligation of available funds in an amount equal to 10 per centum of principal amount of contractual liability related to a guaranty under this section, making such funds a single reserve for payment of guaranteed claims, and providing for transfer of any funds deobligated during any current fiscal year to the general fund of the Treasury.
 
-1974—Subsecs. (a), (b). Pub. L. 93–559, § 45(a)(3), inserted “other than the Federal Financing Bank” in parenthetical text.
+1974—Subsecs. (a), (b). Pub. L. 93–559, § 45(a)(3), inserted “other than the Federal Financing Bank” in parenthetical text.
 
-Subsec. (c). Pub. L. 93–559, § 45(a)(4), substituted “10” for “25” in two places.
+Subsec. (c). Pub. L. 93–559, § 45(a)(4), substituted “10” for “25” in two places.
 
 1973—Subsec. (c). Pub. L. 93–189 substituted “to carry out this chapter” for “pursuant to section 2771 of this title” and inserted “principal amount of” before “contractual liability” wherever appearing.
 
@@ -2585,7 +2585,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 **Effective Date of 1974 Amendment; Adjustment of Obligations Charged Against Appropriations; Credit for Fiscal Year 1975 Appropriations**
 
-Pub. L. 93–559, § 45(b), Dec. 30, 1974, 88 Stat. 1815, provided that: “The amendment made by paragraph (4) of subsection (a) [amending this section] shall take effect on July 1, 1974. Obligations initially charged against appropriations made available for purposes authorized by section 31(a) of the Foreign Military Sales Act [section 2771(a) of this title] after June 30, 1974, and prior to the enactment of this section [Dec. 30, 1974] in an amount equal to 25 per centum of the principal amount of contractual liability related to guaranties issued pursuant to section 24(a) of that Act [subsec. (a) of this section] shall be adjusted to reflect such amendment with proper credit to the appropriations made available in the fiscal year 1975 to carry out that Act [this chapter].”
+Pub. L. 93–559, § 45(b), Dec. 30, 1974, 88 Stat. 1815, provided that: “The amendment made by paragraph (4) of subsection (a) [amending this section] shall take effect on July 1, 1974. Obligations initially charged against appropriations made available for purposes authorized by section 31(a) of the Foreign Military Sales Act [section 2771(a) of this title] after June 30, 1974, and prior to the enactment of this section [Dec. 30, 1974] in an amount equal to 25 per centum of the principal amount of contractual liability related to guaranties issued pursuant to section 24(a) of that Act [subsec. (a) of this section] shall be adjusted to reflect such amendment with proper credit to the appropriations made available in the fiscal year 1975 to carry out that Act [this chapter].”
 
 **Effective Date**
 
@@ -2593,19 +2593,19 @@ Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a
 
 **Foreign Military Sales Debt Reform**
 
-Pub. L. 102–145, § 118, as added by Pub. L. 102–266, § 102, Apr. 1, 1992, 106 Stat. 93, provided that the authority and conditions provided under the heading “Foreign Military Sales Debt Reform” in H.R. 2621, One Hundred Second Congress, 1st session, as passed by the House of Representatives on June 19, 1991, shall be applicable to funds appropriated by Pub. L. 102–145 (and are hereby enacted) in lieu of the authority and conditions provided under the heading “Foreign Military Sales Debt Reform” in Pub. L. 101–513 [set out below]. Provisions under the heading “Foreign Military Sales Debt Reform” in H.R. 2621, as referred to above, provided that: “Subsection (b) under the heading ‘Foreign Military Sales Debt Reform’ in the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988 [Pub. L. 100–202, § 101(e) [title III, § 301], set out below], is hereby repealed.”
+Pub. L. 102–145, § 118, as added by Pub. L. 102–266, § 102, Apr. 1, 1992, 106 Stat. 93, provided that the authority and conditions provided under the heading “Foreign Military Sales Debt Reform” in H.R. 2621, One Hundred Second Congress, 1st session, as passed by the House of Representatives on June 19, 1991, shall be applicable to funds appropriated by Pub. L. 102–145 (and are hereby enacted) in lieu of the authority and conditions provided under the heading “Foreign Military Sales Debt Reform” in Pub. L. 101–513 [set out below]. Provisions under the heading “Foreign Military Sales Debt Reform” in H.R. 2621, as referred to above, provided that: “Subsection (b) under the heading ‘Foreign Military Sales Debt Reform’ in the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988 [Pub. L. 100–202, § 101(e) [title III, § 301], set out below], is hereby repealed.”
 
-Pub. L. 101–513, title III, Nov. 5, 1990, 104 Stat. 1999, provided that: “Funds made available by the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988 [Pub. L. 100–202, § 101(e) [title III], set out below], for obligation and expenditure after October 1, 1988, subject to a Presidential budget request, under the heading ‘Foreign Military Sales Debt Reform’, subsection (b) ‘Interest Rate Reduction’ shall be available, subject to the same conditions and provisos, only after October 1, 1991.” Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 101–513, title III, Nov. 5, 1990, 104 Stat. 1999, provided that: “Funds made available by the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988 [Pub. L. 100–202, § 101(e) [title III], set out below], for obligation and expenditure after October 1, 1988, subject to a Presidential budget request, under the heading ‘Foreign Military Sales Debt Reform’, subsection (b) ‘Interest Rate Reduction’ shall be available, subject to the same conditions and provisos, only after October 1, 1991.” Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 101–167, title III, Nov. 21, 1989, 103 Stat. 1214.
 
 Pub. L. 100–461, title III, Oct. 1, 1988, 102 Stat. 2268–18.
 
-Pub. L. 100–202, § 101(e) [title III], Dec. 22, 1987, 101 Stat. 1329–131, 1329–148, as amended by Pub. L. 101–167, title III, Nov. 21, 1989, 103 Stat. 1214; Pub. L. 102–145, § 118, as added by Pub. L. 102–266, § 102, Apr. 1, 1992, 106 Stat. 93, provided in part that:
+Pub. L. 100–202, § 101(e) [title III], Dec. 22, 1987, 101 Stat. 1329–131, 1329–148, as amended by Pub. L. 101–167, title III, Nov. 21, 1989, 103 Stat. 1214; Pub. L. 102–145, § 118, as added by Pub. L. 102–266, § 102, Apr. 1, 1992, 106 Stat. 93, provided in part that:
 
 > **“(a) Refinancing.—** Notwithstanding any other provision of law, the President is authorized during fiscal years 1988 through 1991 to transfer existing United States guaranties of outstanding Foreign Military Sales (FMS) credit debt, or to issue new guaranties, either of which would be applied to loans, bonds, notes or other obligations made or issued (as the case may be) by private United States financial institutions (the private lender) to finance the prepayment at par of the principal amounts maturing after September 30, 1989 of existing FMS loans bearing interest rates of eight percent or higher, and arrearages thereon. The loans, bonds, notes or other obligations are hereinafter referred to as the ‘private loan’: *Provided*, That such guaranties which are transferred or are made pursuant to paragraph (a) shall cover no more and no less than ninety percent of the private loan or any portion or derivative thereof plus unpaid accrued interest and arrearages, if any, outstanding at the time of guaranty transfer or extension: *Provided further*, That the total amount of the guaranty of the private loan cannot exceed ninety percent of the outstanding principal, unpaid accrued interest and arrearages, if any, at any time: *Provided further*, That of the total amount of the private loan, the ninety percent guaranteed portion of the private loan cannot be separated from the private loan at any time: *Provided further*, That no sums in addition to the payment of the outstanding principal amounts maturing after September 30, 1989 of the loan (or advance), plus unpaid accrued interest thereon, and arrearages, if any, shall be charged by the private lender or the Federal Financing Bank as a result of such prepayment against the borrower, the guarantor, or the Guaranty Reserve Fund (GRF), except that the private lender may include, in the interest rate charged, a standard fee to cover costs, such fee which will be set at prevailing market rates, and no guaranty fee shall be charged on guarantees transferred or issued pursuant to this provision: *Provided further*, That the terms of guaranties transferred or issued under this paragraph shall be exactly the same as the existing loans or guarantees, except as modified by this paragraph and including but not limited to the final maturity and principal and interest payment structure of the existing loans which shall not be altered, except that the repayments of the private loan issued debt may be consolidated into two payments per year: *Provided further*, That the private loan or guarantees transferred or issued pursuant to this paragraph shall be fully and freely transferable, except that any guaranty transferred or extended shall cease to be effective if the private loan or any derivative thereof is to be used to provide significant support for any non-registered obligation: *Provided further*, That for purposes of sections 23 and 24 of the Arms Export Control Act (AECA) [22 U.S.C. 2763, 2764], the term ‘defense services’ shall be deemed to include the refinancing of FMS debt outstanding at the date of the enactment of this Act [Dec. 22, 1987]: *Provided further*, That not later than ninety days after the enactment of this Act, the Secretary of the Treasury (Secretary) shall issue regulations to carry out the purposes of this heading and that in issuing such regulations, the Secretary shall (1) facilitate the prepayment of loans and loan advances hereunder, (2) provide for full processing of each application within thirty days of its submission to the Secretary, and (3) except as provided in section 24(a) of the AECA, impose no restriction that increases the cost to borrowers of obtaining private financing for prepayment hereunder or that inhibits the ability of the borrower to enter into prepayment arrangements hereunder: *Provided further*, That the Secretary of State shall transmit to the Committee on Foreign Affairs of the House of Representatives, the Committee on Foreign Relations of the Senate, and the Committees on Appropriations of the House of Representatives and Senate, a copy of the text of any agreement entered into pursuant to this section not more than thirty days after its entry into force, together with a description of the transaction.
 
-> **“[(b)** Repealed. Pub. L. 102–145, § 118, as added by Pub. L. 102–266, § 102, Apr. 1, 1992, 106 Stat. 93.]
+> **“[(b)** Repealed. Pub. L. 102–145, § 118, as added by Pub. L. 102–266, § 102, Apr. 1, 1992, 106 Stat. 93.]
 
 > **“(c) Arrearages.—**
 
@@ -2621,11 +2621,11 @@ Pub. L. 100–202, § 101(e) [title III], Dec. 22, 1987, 101 Stat. 1329–131,
 
 For delegation of functions of the President under this section, with certain conditions, see section 1(f) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
-### § 2765. Annual estimate and justification for sales program
+### § 2765. Annual estimate and justification for sales program
 
-**(a) Report to Congress; contents** Except as provided in subsection (d) 1
+**(a) Report to Congress; contents** Except as provided in subsection (d) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this section, no later than February 1 of each year, the President shall transmit to the appropriate congressional committees, as a part of the annual presentation materials for security assistance programs proposed for the next fiscal year, a report which sets forth—
 
@@ -2641,7 +2641,7 @@ of this section, no later than February 1 of each year, the President shall tran
 
 **(A)** an estimate of the aggregate dollar value and quantity of defense articles and defense services, military education and training, grant military assistance, and credits and guarantees, to be furnished by the United States to each foreign country and international organization in the next fiscal year; and
 
-**(B)** for each country that is proposed to be furnished credits or guaranties under this chapter in the next fiscal year and that has been approved for cash flow financing (as defined in subsection (d) <sup>1</sup> of this section) in excess of $100,000,000 as of October 1 of the current fiscal year—
+**(B)** for each country that is proposed to be furnished credits or guaranties under this chapter in the next fiscal year and that has been approved for cash flow financing (as defined in subsection (d) <sup>1</sup> of this section) in excess of $100,000,000 as of October 1 of the current fiscal year—
 
 **(i)** the amount of such approved cash flow financing,
 
@@ -2679,11 +2679,11 @@ Not later than thirty days following the receipt of a request made by any of the
 
 The President shall make every effort to submit all of the information required by subsection (a) or (b) wholly in unclassified form. Whenever the President submits any such information in classified form, he shall submit such classified information in an addendum and shall also submit simultaneously a detailed summary, in unclassified form, of such classified information.
 
-**(d) 2 [footnote: 2 So in original. Two subsecs. (d) have been enacted.] “Cash flow financing” defined**
+**(d) 2 [footnote: 2 So in original. Two subsecs. (d) have been enacted.] “Cash flow financing” defined**
 
-For the purposes of subsection (a)(5)(B) of this section, the term “cash flow financing” means the dollar amount of the difference between the total estimated price of a Letter of Offer and Acceptance or other purchase agreement that has been approved for financing under this chapter or under section 503(a)(3) of the Foreign Assistance Act of 1961 [22 U.S.C. 2311(a)(3)] and the amount of the financing that has been approved therefor; 3
+For the purposes of subsection (a)(5)(B) of this section, the term “cash flow financing” means the dollar amount of the difference between the total estimated price of a Letter of Offer and Acceptance or other purchase agreement that has been approved for financing under this chapter or under section 503(a)(3) of the Foreign Assistance Act of 1961 [22 U.S.C. 2311(a)(3)] and the amount of the financing that has been approved therefor; 3
 
-<sup>3</sup>  So in original. The semicolon probably should be a period.
+<sup>3</sup> So in original. The semicolon probably should be a period.
 
 **(d) <sup>2</sup> Transmission of information to Congress**
 
@@ -2693,7 +2693,7 @@ The information required by subsection (a)(4) of this section shall be transmitt
 
 As used in this section, the term “appropriate congressional committees” means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives.
 
-(Pub. L. 90–629, ch. 2, § 25, as added Pub. L. 94–329, title II, § 209(a), June 30, 1976, 90 Stat. 739; amended Pub. L. 95–384, § 18, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–92, §§ 13, 14, Oct. 29, 1979, 93 Stat. 706; Pub. L. 96–533, title I, §§ 104(c), 107(d), Dec. 16, 1980, 94 Stat. 3133, 3137; Pub. L. 97–113, title VII, § 732, Dec. 29, 1981, 95 Stat. 1557; Pub. L. 99–83, title I, §§ 112, 113, Aug. 8, 1985, 99 Stat. 198; Pub. L. 104–164, title I, § 102(d), July 21, 1996, 110 Stat. 1423; Pub. L. 105–118, title V, § 519, Nov. 26, 1997, 111 Stat. 2411; Pub. L. 107–228, div. B, title XII, § 1232, Sept. 30, 2002, 116 Stat. 1433; Pub. L. 111–266, title I, § 104(c), Oct. 8, 2010, 124 Stat. 2799; Pub. L. 113–276, title II, § 208(a)(3), Dec. 18, 2014, 128 Stat. 2993.)
+(Pub. L. 90–629, ch. 2, § 25, as added Pub. L. 94–329, title II, § 209(a), June 30, 1976, 90 Stat. 739; amended Pub. L. 95–384, § 18, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–92, §§ 13, 14, Oct. 29, 1979, 93 Stat. 706; Pub. L. 96–533, title I, §§ 104(c), 107(d), Dec. 16, 1980, 94 Stat. 3133, 3137; Pub. L. 97–113, title VII, § 732, Dec. 29, 1981, 95 Stat. 1557; Pub. L. 99–83, title I, §§ 112, 113, Aug. 8, 1985, 99 Stat. 198; Pub. L. 104–164, title I, § 102(d), July 21, 1996, 110 Stat. 1423; Pub. L. 105–118, title V, § 519, Nov. 26, 1997, 111 Stat. 2411; Pub. L. 107–228, div. B, title XII, § 1232, Sept. 30, 2002, 116 Stat. 1433; Pub. L. 111–266, title I, § 104(c), Oct. 8, 2010, 124 Stat. 2799; Pub. L. 113–276, title II, § 208(a)(3), Dec. 18, 2014, 128 Stat. 2993.)
 
 **Editorial Notes**
 
@@ -2705,33 +2705,33 @@ This chapter, referred to in subsecs. (a)(1), (5)(B), (6) and (d), was in the or
 
 Subsection (d) of this section, referred to in subsec. (a)(5)(B), probably means the subsec. (d) added by section 112(b) of Pub. L. 99–83, defining cash flow financing.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(11), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(11), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Amendments**
 
 2014—Subsec. (e). Pub. L. 113–276 substituted “Foreign Affairs” for “International Relations”.
 
-2010—Subsec. (a)(1). Pub. L. 111–266, § 104(c)(1), inserted “, as well as exports pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title,” after “commercial exports under this chapter”.
+2010—Subsec. (a)(1). Pub. L. 111–266, § 104(c)(1), inserted “, as well as exports pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title,” after “commercial exports under this chapter”.
 
-Subsec. (a)(2). Pub. L. 111–266, § 104(c)(2), inserted “, as well as exports pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title,” after “commercial exports”.
+Subsec. (a)(2). Pub. L. 111–266, § 104(c)(2), inserted “, as well as exports pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title,” after “commercial exports”.
 
 2002—Subsec. (a)(13), (14). Pub. L. 107–228 added par. (13) and redesignated former par. (13) as (14).
 
-1997—Subsec. (a). Pub. L. 105–118, § 519(1), substituted “appropriate congressional committees” for “Congress” in introductory provisions.
+1997—Subsec. (a). Pub. L. 105–118, § 519(1), substituted “appropriate congressional committees” for “Congress” in introductory provisions.
 
-Subsec. (b). Pub. L. 105–118, § 519(2), substituted “any of the congressional committees described in subsection (e)” for “the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives”.
+Subsec. (b). Pub. L. 105–118, § 519(2), substituted “any of the congressional committees described in subsection (e)” for “the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives”.
 
-Subsec. (e). Pub. L. 105–118, § 519(3), added subsec. (e).
+Subsec. (e). Pub. L. 105–118, § 519(3), added subsec. (e).
 
 1996—Subsec. (a)(12), (13). Pub. L. 104–164 added par. (12) and redesignated former par. (12) as (13).
 
-1985—Subsec. (a). Pub. L. 99–83, § 113(1), substituted “Except as provided in subsection (d) of this section, no” for “No”.
+1985—Subsec. (a). Pub. L. 99–83, § 113(1), substituted “Except as provided in subsection (d) of this section, no” for “No”.
 
-Subsec. (a)(5). Pub. L. 99–83, § 112(a), designated existing provisions as subpar. (A) and added subpar. (B).
+Subsec. (a)(5). Pub. L. 99–83, § 112(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (d). Pub. L. 99–83, § 112(b), added subsec. (d) defining “cash flow financing”.
+Subsec. (d). Pub. L. 99–83, § 112(b), added subsec. (d) defining “cash flow financing”.
 
-Pub. L. 99–83, § 113(2), added subsec. (d) relating to transmittal of information to Congress.
+Pub. L. 99–83, § 113(2), added subsec. (d) relating to transmittal of information to Congress.
 
 1981—Subsec. (a). Pub. L. 97–113, in provision preceding par. (1), required transmission of the report no later than Feb. 1 of each year and substituted provision for annual presentation materials for programs proposed for next fiscal year for provision for presentation materials for programs proposed for each fiscal year.
 
@@ -2761,17 +2761,17 @@ Subsec. (d). Pub. L. 97–113 incorporated in subsec. (a) introductory text and 
 
 Subsec. (e). Pub. L. 97–113 incorporated, in subsec. (a) introductory text and subsec. (a)(4), provisions of former subsec. (e) which had required transmission to Congress on or before Nov. 15 of each year executive estimates of international arms traffic, including estimates on an annual basis of the sale and delivery of weapons and weapons-related defense equipment by all major arms suppliers to all major recipient countries during the preceding three years.
 
-1980—Subsec. (a)(3) to (5). Pub. L. 96–533, § 104(c), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+1980—Subsec. (a)(3) to (5). Pub. L. 96–533, § 104(c), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
-Subsec. (d)(1). Pub. L. 96–533, § 107(d), included coverage of licensed commercial exports and substituted “letter of offer or of an export license” for “letter of offer”.
+Subsec. (d)(1). Pub. L. 96–533, § 107(d), included coverage of licensed commercial exports and substituted “letter of offer or of an export license” for “letter of offer”.
 
-1979—Subsec. (d). Pub. L. 96–92, § 13(1)–(4), designated existing provision as par. (1), substituted “major weapons or weapons-related defense equipment” for “major defense equipment” and “weapons or weapons-related defense equipment” for “defense articles or defense services”, required identification of sales likely to result in issuance of a letter of offer in the furnished reports, and added par. (2).
+1979—Subsec. (d). Pub. L. 96–92, § 13(1)–(4), designated existing provision as par. (1), substituted “major weapons or weapons-related defense equipment” for “major defense equipment” and “weapons or weapons-related defense equipment” for “defense articles or defense services”, required identification of sales likely to result in issuance of a letter of offer in the furnished reports, and added par. (2).
 
-Subsec. (e). Pub. L. 96–92, § 14, added subsec. (e).
+Subsec. (e). Pub. L. 96–92, § 14, added subsec. (e).
 
-1978—Subsec. (c). Pub. L. 95–384, § 18(b), substituted “subsection (a) or (b)” for “this section”.
+1978—Subsec. (c). Pub. L. 95–384, § 18(b), substituted “subsection (a) or (b)” for “this section”.
 
-Subsec. (d). Pub. L. 95–384, § 18(a), added subsec. (d).
+Subsec. (d). Pub. L. 95–384, § 18(a), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2785,7 +2785,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 For delegation of functions of the President under this section, with certain conditions, see section 1(g) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
-### § 2766. Security assistance surveys
+### § 2766. Security assistance surveys
 
 **(a) Statement of findings and policy**
 
@@ -2803,7 +2803,7 @@ Upon a request of the chairman of the Committee on Foreign Affairs of the House 
 
 As used in this section, the term “security assistance surveys” means any survey or study conducted in a foreign country by United States Government personnel for the purpose of assessing the needs of that country for security assistance, and includes defense requirement surveys, site surveys, general surveys or studies, and engineering assessment surveys.
 
-(Pub. L. 90–629, ch. 2, § 26, as added Pub. L. 95–384, § 19, Sept. 26, 1978, 92 Stat. 740; amended Pub. L. 99–83, title I, § 114, Aug. 8, 1985, 99 Stat. 198; Pub. L. 103–437, § 9(a)(7), Nov. 2, 1994, 108 Stat. 4588.)
+(Pub. L. 90–629, ch. 2, § 26, as added Pub. L. 95–384, § 19, Sept. 26, 1978, 92 Stat. 740; amended Pub. L. 99–83, title I, § 114, Aug. 8, 1985, 99 Stat. 198; Pub. L. 103–437, § 9(a)(7), Nov. 2, 1994, 108 Stat. 4588.)
 
 **Editorial Notes**
 
@@ -2815,13 +2815,13 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 1994—Subsec. (c). Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations”.
 
-1985—Pub. L. 99–83, § 114(a)(1), substituted “Security assistance” for “Defense requirement” in section catchline.
+1985—Pub. L. 99–83, § 114(a)(1), substituted “Security assistance” for “Defense requirement” in section catchline.
 
-Subsecs. (a), (b). Pub. L. 99–83, § 114(a)(2), substituted “security assistance” for “defense requirement” wherever appearing.
+Subsecs. (a), (b). Pub. L. 99–83, § 114(a)(2), substituted “security assistance” for “defense requirement” wherever appearing.
 
-Subsec. (c). Pub. L. 99–83, § 114(a)(2), (b), substituted “submit to that committee copies of security assistance surveys” for “grant that committee access to defense requirement surveys”.
+Subsec. (c). Pub. L. 99–83, § 114(a)(2), (b), substituted “submit to that committee copies of security assistance surveys” for “grant that committee access to defense requirement surveys”.
 
-Subsec. (d). Pub. L. 99–83, § 114(a)(3), added subsec. (d).
+Subsec. (d). Pub. L. 99–83, § 114(a)(3), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2829,7 +2829,7 @@ Subsec. (d). Pub. L. 99–83, § 114(a)(3), added subsec. (d).
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
 
-### § 2767. Authority of President to enter into cooperative projects with friendly foreign countries
+### § 2767. Authority of President to enter into cooperative projects with friendly foreign countries
 
 **(a) Authority of President**
 
@@ -2865,9 +2865,9 @@ The President may enter into contracts or incur other obligations for a cooperat
 
 **(e) Waiver of charges; administrative surcharges**
 
-**(1)** For those cooperative projects entered into on or after the effective date 1
+**(1)** For those cooperative projects entered into on or after the effective date 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the International Security and Development Cooperation Act of 1985, the President may reduce or waive the charge or charges which would otherwise be considered appropriate under section 2761(e) of this title in connection with sales under sections 2761 and 2762 of this title when such sales are made as part of such cooperative project, if the other participants agree to reduce or waive corresponding charges.
 
@@ -2879,9 +2879,9 @@ of the International Security and Development Cooperation Act of 1985, the Presi
 
 **(2)** an estimate of the quantity of the defense articles expected to be produced in furtherance of such cooperative project;
 
-**(3)** an estimate of the full cost of the cooperative project, with an estimate of the part of the full cost to be incurred by the United States Government, including an estimate of the costs as a result of waivers of section 2
+**(3)** an estimate of the full cost of the cooperative project, with an estimate of the part of the full cost to be incurred by the United States Government, including an estimate of the costs as a result of waivers of section 2
 
-<sup>2</sup>  So in original. Probably should be “sections”.
+<sup>2</sup> So in original. Probably should be “sections”.
 
 2761(e)(1)(A) and 2792(b) of this title, for its participation in such cooperative project and an estimate of that part of the full costs to be incurred by the other participants;
 
@@ -2897,7 +2897,7 @@ of the International Security and Development Cooperation Act of 1985, the Presi
 
 In the case of a cooperative project with a North Atlantic Treaty Organization country, section,3
 
-<sup>3</sup>  So in original. The comma probably should not appear.
+<sup>3</sup> So in original. The comma probably should not appear.
 
 2776(b) of this title shall not apply to sales made under section 2761 or 2762 of this title and to production and exports made pursuant to cooperative projects under this section, and section 2776(c) of this title shall not apply to the issuance of licenses or other approvals under section 2778 of this title, if such sales are made, such production and exports ensue, or such licenses or approvals are issued, as part of a cooperative project.
 
@@ -2907,13 +2907,13 @@ The authority under this section is in addition to the authority under sections 
 
 **(i) Agreements entered into before October 1, 1985**
 
-**(1)** With the approval of the Secretary of State and the Secretary of Defense, a cooperative agreement which was entered into by the United States before the effective date <sup>1</sup> of the amendment to this section made by the International Security and Development Cooperation Act of 1985 and which meets the requirements of this section as so amended may be treated on and after such date as having been made under this section as so amended.
+**(1)** With the approval of the Secretary of State and the Secretary of Defense, a cooperative agreement which was entered into by the United States before the effective date <sup>1</sup> of the amendment to this section made by the International Security and Development Cooperation Act of 1985 and which meets the requirements of this section as so amended may be treated on and after such date as having been made under this section as so amended.
 
-**(2)** Notwithstanding the amendment made 4
+**(2)** Notwithstanding the amendment made 4
 
-<sup>4</sup>  So in original. The word “made” probably should not appear.
+<sup>4</sup> So in original. The word “made” probably should not appear.
 
-to this section made by the International Security and Development Cooperation Act of 1985, projects entered into under the authority of this section before the effective date <sup>1</sup> of that amendment may be carried through to conclusion in accordance with the terms of this section as in effect immediately before the effective date <sup>1</sup> of that amendment.
+to this section made by the International Security and Development Cooperation Act of 1985, projects entered into under the authority of this section before the effective date <sup>1</sup> of that amendment may be carried through to conclusion in accordance with the terms of this section as in effect immediately before the effective date <sup>1</sup> of that amendment.
 
 **(j) Cooperative project agreements with friendly foreign countries not members of NATO**
 
@@ -2921,7 +2921,7 @@ to this section made by the International Security and Development Cooperation A
 
 **(2)** Omitted.
 
-(Pub. L. 90–629, ch. 2, § 27, as added Pub. L. 96–92, § 15, Oct. 29, 1979, 93 Stat. 706; amended Pub. L. 99–83, title I, § 115(a), Aug. 8, 1985, 99 Stat. 199; Pub. L. 99–145, title XI, § 1102(a)(1), (5), Nov. 8, 1985, 99 Stat. 708, 710; Pub. L. 99–661, div. A, title XI, § 1103(a), title XIII, § 1342(e), Nov. 14, 1986, 100 Stat. 3962, 3991; Pub. L. 100–180, div. A, title X, § 1022, Dec. 4, 1987, 101 Stat. 1144; Pub. L. 102–484, div. A, title VIII, § 843(a), Oct. 23, 1992, 106 Stat. 2468; Pub. L. 113–276, title II, § 208(a)(4), Dec. 18, 2014, 128 Stat. 2993.)
+(Pub. L. 90–629, ch. 2, § 27, as added Pub. L. 96–92, § 15, Oct. 29, 1979, 93 Stat. 706; amended Pub. L. 99–83, title I, § 115(a), Aug. 8, 1985, 99 Stat. 199; Pub. L. 99–145, title XI, § 1102(a)(1), (5), Nov. 8, 1985, 99 Stat. 708, 710; Pub. L. 99–661, div. A, title XI, § 1103(a), title XIII, § 1342(e), Nov. 14, 1986, 100 Stat. 3962, 3991; Pub. L. 100–180, div. A, title X, § 1022, Dec. 4, 1987, 101 Stat. 1144; Pub. L. 102–484, div. A, title VIII, § 843(a), Oct. 23, 1992, 106 Stat. 2468; Pub. L. 113–276, title II, § 208(a)(4), Dec. 18, 2014, 128 Stat. 2993.)
 
 **Editorial Notes**
 
@@ -2945,23 +2945,23 @@ Subsec. (j)(2) of this section, which required the President to submit to certai
 
 1987—Subsec. (b)(1)(C). Pub. L. 100–180 inserted “or for procurement by the United States of munitions from the North Atlantic Treaty Organization or a subsidiary of such organization” after “member country”.
 
-1986—Pub. L. 99–661, § 1342(e), repealed section 1102(a)(1) of Pub. L. 99–145 and the amendments made by that section, and provided that this section shall apply as if that section had never been enacted. See 1985 Amendments note below.
+1986—Pub. L. 99–661, § 1342(e), repealed section 1102(a)(1) of Pub. L. 99–145 and the amendments made by that section, and provided that this section shall apply as if that section had never been enacted. See 1985 Amendments note below.
 
-Pub. L. 99–661, § 1103(a)(2), substituted “Authority of President to enter into cooperative projects with friendly foreign countries” for “North Atlantic Treaty Organization cooperative projects” in section catchline.
+Pub. L. 99–661, § 1103(a)(2), substituted “Authority of President to enter into cooperative projects with friendly foreign countries” for “North Atlantic Treaty Organization cooperative projects” in section catchline.
 
-Subsec. (b)(1). Pub. L. 99–661, § 1103(a)(1)(A)(i), inserted “, in the case of an agreement with the North Atlantic Treaty Organization or with one or more member countries of that Organization,” in introductory provisions.
+Subsec. (b)(1). Pub. L. 99–661, § 1103(a)(1)(A)(i), inserted “, in the case of an agreement with the North Atlantic Treaty Organization or with one or more member countries of that Organization,” in introductory provisions.
 
-Subsec. (b)(2), (3). Pub. L. 99–661, § 1103(a)(1)(A)(ii)–(iv), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (b)(2), (3). Pub. L. 99–661, § 1103(a)(1)(A)(ii)–(iv), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (f)(3). Pub. L. 99–661, § 1103(a)(1)(B), inserted “, including an estimate of the costs as a result of waivers of section 2761(e)(1)(A) and 2792(b) of this title,”.
+Subsec. (f)(3). Pub. L. 99–661, § 1103(a)(1)(B), inserted “, including an estimate of the costs as a result of waivers of section 2761(e)(1)(A) and 2792(b) of this title,”.
 
-Subsec. (g). Pub. L. 99–661, § 1103(a)(1)(C), substituted “In the case of a cooperative project with a North Atlantic Treaty Organization country, section,” for “Section”.
+Subsec. (g). Pub. L. 99–661, § 1103(a)(1)(C), substituted “In the case of a cooperative project with a North Atlantic Treaty Organization country, section,” for “Section”.
 
-Subsec. (j). Pub. L. 99–661, § 1103(a)(1)(D), added subsec. (j).
+Subsec. (j). Pub. L. 99–661, § 1103(a)(1)(D), added subsec. (j).
 
 1985—Pub. L. 99–83 amended section generally, substituting in subsec. (a) provisions relating to authority of the President, for provisions defining “cooperative project”, substituting in subsec. (b) provisions defining “cooperative project” and “other participant”, for provisions relating to reduction or waiver of charges, sales not subject to compensatory increases in administrative surcharges, and contribution requirements, substituting in subsec. (c) provisions relating to agreements for equitable share of costs and limiting the nature of such agreements, for provisions relating to transmission of numbered certification of proposed agreement, contents of such certification, and statutory provisions applicable to sales, and adding subsecs. (d) to (i).
 
-Pub. L. 99–145, § 1102(a)(1), which enacted a general amendment of this section similar to that provided in Pub. L. 99–83 was repealed. See 1986 Amendments note above and former section 1105(a)(5) of Pub. L. 99–145 set out as a Repeals; Effective Date note under section 2752 of this title.
+Pub. L. 99–145, § 1102(a)(1), which enacted a general amendment of this section similar to that provided in Pub. L. 99–83 was repealed. See 1986 Amendments note above and former section 1105(a)(5) of Pub. L. 99–145 set out as a Repeals; Effective Date note under section 2752 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2971,7 +2971,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 **Assessment of Risk Associated With Development of Major Weapon Systems To Be Procured Under Cooperative Projects With Friendly Foreign Countries**
 
-Pub. L. 112–81, div. A, title VIII, § 836, Dec. 31, 2011, 125 Stat. 1508, as amended by Pub. L. 116–92, div. A, title IX, § 902(84), Dec. 20, 2019, 133 Stat. 1553; Pub. L. 119–60, div. A, title VIII, § 811(c)(3)(C), Dec. 18, 2025, 139 Stat. 950, provided that:
+Pub. L. 112–81, div. A, title VIII, § 836, Dec. 31, 2011, 125 Stat. 1508, as amended by Pub. L. 116–92, div. A, title IX, § 902(84), Dec. 20, 2019, 133 Stat. 1553; Pub. L. 119–60, div. A, title VIII, § 811(c)(3)(C), Dec. 18, 2025, 139 Stat. 950, provided that:
 
 > **“(a) Assessment of Risk Required.—**
 
@@ -2995,7 +2995,7 @@ Pub. L. 112–81, div. A, title VIII, § 836, Dec. 31, 2011, 125 Stat. 1508, a
 
 > **“(2)** The term ‘major weapon system’ has the meaning given that term in section 101(a) of title 10, United States Code.”
 
-[Pub. L. 116–92, § 902(84), which directed the amendment of section 836(a)(2) of Pub. L. 112–81, set out above, by substituting “the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering,” for “the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Assistant Secretary of Defense for Research,”, was executed by making the substitution for “the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Assistant Secretary of Defense for Research and Engineering,” to reflect the probable intent of Congress.]
+[Pub. L. 116–92, § 902(84), which directed the amendment of section 836(a)(2) of Pub. L. 112–81, set out above, by substituting “the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering,” for “the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Assistant Secretary of Defense for Research,”, was executed by making the substitution for “the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Assistant Secretary of Defense for Research and Engineering,” to reflect the probable intent of Congress.]
 
 **Executive Documents**
 
@@ -3003,21 +3003,21 @@ Pub. L. 112–81, div. A, title VIII, § 836, Dec. 31, 2011, 125 Stat. 1508, a
 
 For delegation of functions of the President under this section, with certain conditions, see section 1(f) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
-### § 2767a. Repealed. Pub. L. 101–189, div. A, title IX, § 931(d)(2), Nov. 29, 1989, 103 Stat. 1535
+### § 2767a. Repealed. Pub. L. 101–189, div. A, title IX, § 931(d)(2), Nov. 29, 1989, 103 Stat. 1535
 
-Section, Pub. L. 99–661, div. A, title XI, § 1105, Nov. 14, 1986, 100 Stat. 3965; Pub. L. 100–456, div. A, title X, § 1007, Sept. 29, 1988, 102 Stat. 2040, related to cooperative research and development with major non-NATO allies. See section 2350a of Title 10, Armed Forces.
+Section, Pub. L. 99–661, div. A, title XI, § 1105, Nov. 14, 1986, 100 Stat. 3965; Pub. L. 100–456, div. A, title X, § 1007, Sept. 29, 1988, 102 Stat. 2040, related to cooperative research and development with major non-NATO allies. See section 2350a of Title 10, Armed Forces.
 
-### § 2768. Repealed. Pub. L. 104–106, div. A, title X, § 1064(a), Feb. 10, 1996, 110 Stat. 445
+### § 2768. Repealed. Pub. L. 104–106, div. A, title X, § 1064(a), Feb. 10, 1996, 110 Stat. 445
 
-Section, Pub. L. 90–629, ch. 2, § 28, as added Pub. L. 96–92, § 16(a), Oct. 29, 1979, 93 Stat. 708; amended Pub. L. 97–113, title I, § 101(b), Dec. 29, 1981, 95 Stat. 1520; Pub. L. 100–461, title V, § 588(a), Oct. 1, 1988, 102 Stat. 2268–51, related to reports on price and availability estimates.
+Section, Pub. L. 90–629, ch. 2, § 28, as added Pub. L. 96–92, § 16(a), Oct. 29, 1979, 93 Stat. 708; amended Pub. L. 97–113, title I, § 101(b), Dec. 29, 1981, 95 Stat. 1520; Pub. L. 100–461, title V, § 588(a), Oct. 1, 1988, 102 Stat. 2268–51, related to reports on price and availability estimates.
 
 ## SUBCHAPTER II–A—FOREIGN MILITARY CONSTRUCTION SALES
 
-### § 2769. Foreign military construction sales
+### § 2769. Foreign military construction sales
 
 The President may sell design and construction services to any eligible foreign country or international organization if such country or international organization agrees to pay in United States dollars not less than the full cost to the United States Government of furnishing such services. Payment shall be made to the United States Government in advance of the performance of such services by officers or employees of the United States Government. The President may, without requirement for charge to any appropriation or contract authorization otherwise provided, enter into contracts for the procurement of design and construction services for sale under this section if such country or international organization provides the United States Government with a dependable undertaking (1) to pay the full amount of such contract which will assure the United States Government against any loss on the contract, and (2) to make funds available in such amounts and at such time as may be required to meet the payments required by the contract and any damages and costs that may accrue from the cancellation of such contract, in advance of the time such payments, damages, or costs are due.
 
-(Pub. L. 90–629, ch. 2A, § 29, as added Pub. L. 96–533, title I, § 105(a), Dec. 16, 1980, 94 Stat. 3133.)
+(Pub. L. 90–629, ch. 2A, § 29, as added Pub. L. 96–533, title I, § 105(a), Dec. 16, 1980, 94 Stat. 3133.)
 
 **Executive Documents**
 
@@ -3027,7 +3027,7 @@ For delegation of functions of the President under this section, see section 1(d
 
 ## SUBCHAPTER II–B—SALES TO UNITED STATES COMPANIES FOR INCORPORATION INTO END ITEMS
 
-### § 2770. General authority
+### § 2770. General authority
 
 **(a) Sale of defense articles and services by President to United States companies; restriction on performance of services; reimbursement credited to selling agency**
 
@@ -3041,7 +3041,7 @@ Defense articles and defense services may be sold, procured and sold, or manufac
 
 For the purpose of this section, the terms “defense articles” and “defense services” mean defense articles and defense services as defined in section 2794(3) and (4) of this title.
 
-(Pub. L. 90–629, ch. 2B, § 30, as added Pub. L. 97–392, § 1, Dec. 29, 1982, 96 Stat. 1962; amended Pub. L. 101–165, title IX, § 9097, Nov. 21, 1989, 103 Stat. 1150.)
+(Pub. L. 90–629, ch. 2B, § 30, as added Pub. L. 97–392, § 1, Dec. 29, 1982, 96 Stat. 1962; amended Pub. L. 101–165, title IX, § 9097, Nov. 21, 1989, 103 Stat. 1150.)
 
 **Editorial Notes**
 
@@ -3057,7 +3057,7 @@ For delegation of functions of the President under this section, see section 1(d
 
 ## SUBCHAPTER II–C—EXCHANGE OF TRAINING AND RELATED SUPPORT
 
-### § 2770a. Exchange of training and related support
+### § 2770a. Exchange of training and related support
 
 **(a) Authorization; eligibility; scope**
 
@@ -3075,7 +3075,7 @@ Training and related support under this section shall be provided under regulati
 
 Not later than February 1 of each year, the President shall submit to the Congress a report on the activities conducted pursuant to this section during the preceding fiscal year, including the estimated full costs of the training and related support provided by the United States to each country and international organization and the estimated value of the training and related support provided to the United States by that country or international organization.
 
-(Pub. L. 90–629, ch. 2C, § 30A, as added Pub. L. 99–83, title I, § 116, Aug. 8, 1985, 99 Stat. 201.)
+(Pub. L. 90–629, ch. 2C, § 30A, as added Pub. L. 99–83, title I, § 116, Aug. 8, 1985, 99 Stat. 201.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3091,7 +3091,7 @@ For delegation of functions of the President under this section, see section 1(d
 
 ## SUBCHAPTER III—MILITARY EXPORT CONTROLS
 
-### § 2771. Military sales authorizations and ceilings
+### § 2771. Military sales authorizations and ceilings
 
 **(a) Authorization for foreign military sales credit and guarantee program**
 
@@ -3107,7 +3107,7 @@ There are authorized to be appropriated to the President to carry out this chapt
 
 Loans available under section 2763 of this title shall be provided at rates of interest that are not less than the current average market yield on outstanding marketable obligations of the United States of comparable maturities.
 
-(Pub. L. 90–629, ch. 3, § 31, Oct. 22, 1968, 82 Stat. 1324; Pub. L. 91–672, § 2, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 92–226, pt. IV, § 401(a), (b), Feb. 7, 1972, 86 Stat. 32; Pub. L. 93–189, § 25(5), (6), Dec. 17, 1973, 87 Stat. 730; Pub. L. 93–559, § 45(a)(6), (7), Dec. 30, 1974, 88 Stat. 1815; Pub. L. 94–329, title II, § 210(a)–(c)(1), June 30, 1976, 90 Stat. 740; Pub. L. 95–92, § 19, Aug. 4, 1977, 91 Stat. 623; Pub. L. 95–384, § 20, Sept. 26, 1978, 92 Stat. 741; Pub. L. 96–92, § 17(a), Oct. 29, 1979, 93 Stat. 708; Pub. L. 96–533, title I, §§ 104(d), 105(b)(3), 106(a)–(c), Dec. 16, 1980, 94 Stat. 3133–3136; Pub. L. 97–113, title I, § 105, Dec. 29, 1981, 95 Stat. 1521; Pub. L. 98–151, § 101(b)(2), Nov. 14, 1983, 97 Stat. 969, 970; Pub. L. 99–83, title I, § 101(a), (b), Aug. 8, 1985, 99 Stat. 193; Pub. L. 101–513, title V, § 596(c), Nov. 5, 1990, 104 Stat. 2062; Pub. L. 104–164, title I, §§ 101, 104(b)(2)(C), July 21, 1996, 110 Stat. 1422, 1427.)
+(Pub. L. 90–629, ch. 3, § 31, Oct. 22, 1968, 82 Stat. 1324; Pub. L. 91–672, § 2, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 92–226, pt. IV, § 401(a), (b), Feb. 7, 1972, 86 Stat. 32; Pub. L. 93–189, § 25(5), (6), Dec. 17, 1973, 87 Stat. 730; Pub. L. 93–559, § 45(a)(6), (7), Dec. 30, 1974, 88 Stat. 1815; Pub. L. 94–329, title II, § 210(a)–(c)(1), June 30, 1976, 90 Stat. 740; Pub. L. 95–92, § 19, Aug. 4, 1977, 91 Stat. 623; Pub. L. 95–384, § 20, Sept. 26, 1978, 92 Stat. 741; Pub. L. 96–92, § 17(a), Oct. 29, 1979, 93 Stat. 708; Pub. L. 96–533, title I, §§ 104(d), 105(b)(3), 106(a)–(c), Dec. 16, 1980, 94 Stat. 3133–3136; Pub. L. 97–113, title I, § 105, Dec. 29, 1981, 95 Stat. 1521; Pub. L. 98–151, § 101(b)(2), Nov. 14, 1983, 97 Stat. 969, 970; Pub. L. 99–83, title I, § 101(a), (b), Aug. 8, 1985, 99 Stat. 193; Pub. L. 101–513, title V, § 596(c), Nov. 5, 1990, 104 Stat. 2062; Pub. L. 104–164, title I, §§ 101, 104(b)(2)(C), July 21, 1996, 110 Stat. 1422, 1427.)
 
 **Editorial Notes**
 
@@ -3117,17 +3117,17 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 **Amendments**
 
-1996—Subsec. (c). Pub. L. 104–164, § 101, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For fiscal year 1986 and fiscal year 1987, the principal amount of credits provided under section 2763 of this title at market rates of interest with respect to Greece, the Republic of Korea, the Philippines, Portugal, Spain, Thailand, and Turkey shall (if and to the extent each country so desires) be repaid in not more than twenty years, following a grace period of ten years on repayment of principal.”
+1996—Subsec. (c). Pub. L. 104–164, § 101, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For fiscal year 1986 and fiscal year 1987, the principal amount of credits provided under section 2763 of this title at market rates of interest with respect to Greece, the Republic of Korea, the Philippines, Portugal, Spain, Thailand, and Turkey shall (if and to the extent each country so desires) be repaid in not more than twenty years, following a grace period of ten years on repayment of principal.”
 
-Subsec. (d). Pub. L. 104–164, § 104(b)(2)(C), struck out subsec. (d) which read as follows: “The aggregate acquisition cost to the United States of excess defense articles ordered by the President in any fiscal year after fiscal year 1976 for delivery to foreign countries or international organizations under the authority of chapter 2 of part II of the Foreign Assistance Act of 1961 or pursuant to sales under this chapter may not exceed $250,000,000 (exclusive of ships and their onboard stores and supplies transferred in accordance with law, and of any defense articles with respect to which the President submits a certification under section 2776(b) of this title.).”
+Subsec. (d). Pub. L. 104–164, § 104(b)(2)(C), struck out subsec. (d) which read as follows: “The aggregate acquisition cost to the United States of excess defense articles ordered by the President in any fiscal year after fiscal year 1976 for delivery to foreign countries or international organizations under the authority of chapter 2 of part II of the Foreign Assistance Act of 1961 or pursuant to sales under this chapter may not exceed $250,000,000 (exclusive of ships and their onboard stores and supplies transferred in accordance with law, and of any defense articles with respect to which the President submits a certification under section 2776(b) of this title.).”
 
-1990—Subsec. (d). Pub. L. 101–513 inserted “, and of any defense articles with respect to which the President submits a certification under section 2776(b) of this title.” after “law”.
+1990—Subsec. (d). Pub. L. 101–513 inserted “, and of any defense articles with respect to which the President submits a certification under section 2776(b) of this title.” after “law”.
 
-1985—Subsec. (a). Pub. L. 99–83, § 101(a), substituted provisions authorizing appropriations of $5,371,000,000 for fiscal years 1986 and 1987, for provisions authorizing appropriations of $800,000,000 for fiscal years 1982 and 1983.
+1985—Subsec. (a). Pub. L. 99–83, § 101(a), substituted provisions authorizing appropriations of $5,371,000,000 for fiscal years 1986 and 1987, for provisions authorizing appropriations of $800,000,000 for fiscal years 1982 and 1983.
 
-Subsec. (b). Pub. L. 99–83, § 101(b), amended subsec. (b) generally, substituting provisions relating to maximum amount of credits authorized for fiscal years 1986 and 1987 and maximum amounts of such credits available at concessional rates of interest for such years, for provisions relating to maximum amounts of credits (or participations in credits) and loans guaranteed for fiscal years 1982 and 1983, and credit, etc., programs with respect to specific countries.
+Subsec. (b). Pub. L. 99–83, § 101(b), amended subsec. (b) generally, substituting provisions relating to maximum amount of credits authorized for fiscal years 1986 and 1987 and maximum amounts of such credits available at concessional rates of interest for such years, for provisions relating to maximum amounts of credits (or participations in credits) and loans guaranteed for fiscal years 1982 and 1983, and credit, etc., programs with respect to specific countries.
 
-Subsec. (c). Pub. L. 99–83, § 101(b), amended subsec. (c) generally, substituting provisions relating to extended repayment terms for credits provided for fiscal years 1986 and 1987, for provisions relating to funds made available for fiscal year 1984 to finance procurement of defense articles, etc., by Israel.
+Subsec. (c). Pub. L. 99–83, § 101(b), amended subsec. (c) generally, substituting provisions relating to extended repayment terms for credits provided for fiscal years 1986 and 1987, for provisions relating to funds made available for fiscal year 1984 to finance procurement of defense articles, etc., by Israel.
 
 1983—Subsec. (b)(3). Pub. L. 98–151 amended par. (3) generally, substituting provisions authorizing not less than $1,700,000,000 for fiscal year 1984 as available to Israel, of which not less than $850,000,000 shall be available as credits under section 2763 of this title, and provisions relating to availability of funds part of the total aggregate credit ceiling made available to Israel, for provisions authorizing not less than $1,400,000,000 for the fiscal years 1982 and 1983 as available to Israel, of which not less than $550,000,000 for each year shall be available as credits.
 
@@ -3137,61 +3137,61 @@ Subsec. (b)(6). Pub. L. 98–151 amended par. (6) generally, inserting provision
 
 Subsec. (c). Pub. L. 98–151 substituted provisions relating to applicability to fiscal year 1984, for provisions relating to applicability to fiscal years 1982 and 1983, and substituted “$850,000,000” for “$550,000,000”.
 
-1981—Subsec. (a). Pub. L. 97–113, § 105(a), substituted “$800,000,000 for the fiscal year 1982 and $800,000,000 for the fiscal year 1983” for “$500,000,000 for the fiscal year 1981”.
+1981—Subsec. (a). Pub. L. 97–113, § 105(a), substituted “$800,000,000 for the fiscal year 1982 and $800,000,000 for the fiscal year 1983” for “$500,000,000 for the fiscal year 1981”.
 
-Subsec. (b). Pub. L. 97–113, § 105(b), prescribed in par. (1) $800,000,000 limit on credits for fiscal years 1982 and 1983, striking out $500,000,000 limit for fiscal year 1981, in par. (2) $3,269,525,000 limit on total principal amount of guaranteed loans for fiscal years 1982 and 1983, striking out $2,616,000,000 limit for fiscal year 1981, and in par. (3) $1,400,000,000 minimum for Israel in fiscal years 1982 and 1983, the same sum made available for fiscal year 1981, including requirement of $550,000,000 minimum of such funds for such fiscal years as credits under section 2763 of this title, striking out requirement for Israeli use of $200,000,000 of available funds only for relocation costs from the Sinai, and added pars. (4) to (7).
+Subsec. (b). Pub. L. 97–113, § 105(b), prescribed in par. (1) $800,000,000 limit on credits for fiscal years 1982 and 1983, striking out $500,000,000 limit for fiscal year 1981, in par. (2) $3,269,525,000 limit on total principal amount of guaranteed loans for fiscal years 1982 and 1983, striking out $2,616,000,000 limit for fiscal year 1981, and in par. (3) $1,400,000,000 minimum for Israel in fiscal years 1982 and 1983, the same sum made available for fiscal year 1981, including requirement of $550,000,000 minimum of such funds for such fiscal years as credits under section 2763 of this title, striking out requirement for Israeli use of $200,000,000 of available funds only for relocation costs from the Sinai, and added pars. (4) to (7).
 
-Subsec. (c). Pub. L. 97–113, § 105(c)(1)–(3), substituted “fiscal year 1982 and for the fiscal year 1983” for “fiscal year 1981”, “$550,000,000” for “$500,000,000”, and “each such year” for “such year”.
+Subsec. (c). Pub. L. 97–113, § 105(c)(1)–(3), substituted “fiscal year 1982 and for the fiscal year 1983” for “fiscal year 1981”, “$550,000,000” for “$500,000,000”, and “each such year” for “such year”.
 
-1980—Subsec. (a). Pub. L. 96–533, §§ 104(d), 106(a), placed a limit on extension of credits and loan guaranties not to exceed amount established in appropriation of funds to carry out this chapter and substituted “$500,000,000 for the fiscal year 1981” for “$673,500,000 for the fiscal year 1980”.
+1980—Subsec. (a). Pub. L. 96–533, §§ 104(d), 106(a), placed a limit on extension of credits and loan guaranties not to exceed amount established in appropriation of funds to carry out this chapter and substituted “$500,000,000 for the fiscal year 1981” for “$673,500,000 for the fiscal year 1980”.
 
-Subsec. (b). Pub. L. 96–533, § 106(b), in revising subsec. (b), substituted par. (1) and (2) limits on amount of credits or participations in credits and loan guaranties for fiscal year 1981 in amounts of $500,000,000 and $2,616,000,000 for prior combined sum limited to $2,235,000,000 for fiscal year 1980 and substituted par. (3) earmarking minimum of $1,400,000,000 only for Israel for fiscal year 1981, including availability of $200,000,000 for costs associated with relocation of Israeli forces from the Sinai for prior prescription of minimum sum of $1,000,000,000 as available only for Israel.
+Subsec. (b). Pub. L. 96–533, § 106(b), in revising subsec. (b), substituted par. (1) and (2) limits on amount of credits or participations in credits and loan guaranties for fiscal year 1981 in amounts of $500,000,000 and $2,616,000,000 for prior combined sum limited to $2,235,000,000 for fiscal year 1980 and substituted par. (3) earmarking minimum of $1,400,000,000 only for Israel for fiscal year 1981, including availability of $200,000,000 for costs associated with relocation of Israeli forces from the Sinai for prior prescription of minimum sum of $1,000,000,000 as available only for Israel.
 
-Subsec. (c). Pub. L. 96–533, §§ 105(b)(3), 106(c), substituted “defense articles, defense services, and design and construction services” for “defense articles and defense services” in two places, “1981” for “1980” in two places, and “$500,000,000” for “one-half”.
+Subsec. (c). Pub. L. 96–533, §§ 105(b)(3), 106(c), substituted “defense articles, defense services, and design and construction services” for “defense articles and defense services” in two places, “1981” for “1980” in two places, and “$500,000,000” for “one-half”.
 
-1979—Subsec. (a). Pub. L. 96–92, § 17(a)(1), substituted “$673,500,000 for the fiscal year 1980” for “$682,000,000 for the fiscal year 1978 and $674,300,000 for the fiscal year 1979”.
+1979—Subsec. (a). Pub. L. 96–92, § 17(a)(1), substituted “$673,500,000 for the fiscal year 1980” for “$682,000,000 for the fiscal year 1978 and $674,300,000 for the fiscal year 1979”.
 
-Subsec. (b). Pub. L. 96–92, § 17(a)(2), substituted “$2,235,000,000 for the fiscal year 1980, of which” for “$2,152,350,000 for the fiscal year 1978 and $2,085,500,000 for the fiscal year 1979, of which amount for each such year”.
+Subsec. (b). Pub. L. 96–92, § 17(a)(2), substituted “$2,235,000,000 for the fiscal year 1980, of which” for “$2,152,350,000 for the fiscal year 1978 and $2,085,500,000 for the fiscal year 1979, of which amount for each such year”.
 
-Subsec. (c). Pub. L. 96–92, § 17(a)(3), substituted “fiscal year 1980” for “fiscal year 1979”.
+Subsec. (c). Pub. L. 96–92, § 17(a)(3), substituted “fiscal year 1980” for “fiscal year 1979”.
 
-Subsec. (d). Pub. L. 96–92, § 17(a)(4), substituted “$250,000,000” for “$150,000,000”.
+Subsec. (d). Pub. L. 96–92, § 17(a)(4), substituted “$250,000,000” for “$150,000,000”.
 
-1978—Subsec. (a). Pub. L. 95–384, § 20(a), substituted “$682,000,000 for the fiscal year 1978 and $674,300,000 for the fiscal year 1979” for “$677,000,000 for the fiscal year 1978”.
+1978—Subsec. (a). Pub. L. 95–384, § 20(a), substituted “$682,000,000 for the fiscal year 1978 and $674,300,000 for the fiscal year 1979” for “$677,000,000 for the fiscal year 1978”.
 
-Subsec. (b). Pub. L. 95–384, § 20(b), substituted “$2,152,350,000 for the fiscal year 1978 and $2,085,500,000 for the fiscal year 1979, of which amount for each such year” for “$2,102,350,000 for the fiscal year 1978, of which”.
+Subsec. (b). Pub. L. 95–384, § 20(b), substituted “$2,152,350,000 for the fiscal year 1978 and $2,085,500,000 for the fiscal year 1979, of which amount for each such year” for “$2,102,350,000 for the fiscal year 1978, of which”.
 
-Subsec. (c). Pub. L. 95–384, § 20(c), substituted “fiscal year 1979” for “fiscal year 1978”.
+Subsec. (c). Pub. L. 95–384, § 20(c), substituted “fiscal year 1979” for “fiscal year 1978”.
 
-Subsec. (d). Pub. L. 95–384, § 20(d), substituted “$150,000,000” for “$100,000,000”.
+Subsec. (d). Pub. L. 95–384, § 20(d), substituted “$150,000,000” for “$100,000,000”.
 
-1977—Subsec. (a). Pub. L. 95–92, § 19(1), substituted “$677,000,000 for the fiscal year 1978” for “$1,039,000,000 for the fiscal year 1976 and not to exceed $740,000,000 for the fiscal year 1977”.
+1977—Subsec. (a). Pub. L. 95–92, § 19(1), substituted “$677,000,000 for the fiscal year 1978” for “$1,039,000,000 for the fiscal year 1976 and not to exceed $740,000,000 for the fiscal year 1977”.
 
-Subsec. (b). Pub. L. 95–92, § 19(2), substituted “$2,102,350,000 for the fiscal year 1978” for “$2,374,700,000 for the fiscal year 1976, of which not less than $1,500,000,000 shall be available only for Israel, and shall not exceed $2,022,100,000 for the fiscal year 1977”.
+Subsec. (b). Pub. L. 95–92, § 19(2), substituted “$2,102,350,000 for the fiscal year 1978” for “$2,374,700,000 for the fiscal year 1976, of which not less than $1,500,000,000 shall be available only for Israel, and shall not exceed $2,022,100,000 for the fiscal year 1977”.
 
-Subsec. (c). Pub. L. 95–92, § 19(3), substituted “year 1978” for “years 1976 and 1977” and struck out “each” before “such year”.
+Subsec. (c). Pub. L. 95–92, § 19(3), substituted “year 1978” for “years 1976 and 1977” and struck out “each” before “such year”.
 
-1976—Subsec. (a). Pub. L. 94–329, § 210(a), substituted provisions authorizing appropriations not to exceed $1,039,000,000 for the fiscal year 1976 and not to exceed $740,000,000 for the fiscal year 1977, for provisions authorizing appropriations not to exceed $405,000,000 for the fiscal year 1975.
+1976—Subsec. (a). Pub. L. 94–329, § 210(a), substituted provisions authorizing appropriations not to exceed $1,039,000,000 for the fiscal year 1976 and not to exceed $740,000,000 for the fiscal year 1977, for provisions authorizing appropriations not to exceed $405,000,000 for the fiscal year 1975.
 
-Subsec. (b). Pub. L. 94–329, § 210(b), substituted provisions setting out the foreign military sales credit ceiling of $2,374,700,000 for the fiscal year 1976, of which not less than $1,500,000,000 shall be available only for Israel, and $2,022,100,000 for the fiscal year 1977, of which not less than $1,000,000,000 shall be available only for Israel, for provisions setting out such ceiling of $872,500,000 for the fiscal year 1975, of which amount not less than $300,000,000 shall be available to Israel only, and struck out provisions relating to obligation of $100,000,000 for financing procurement of defense articles and services by Israel and for release of Israel from contractual liability to repay United States Government for the defense article and services so financed.
+Subsec. (b). Pub. L. 94–329, § 210(b), substituted provisions setting out the foreign military sales credit ceiling of $2,374,700,000 for the fiscal year 1976, of which not less than $1,500,000,000 shall be available only for Israel, and $2,022,100,000 for the fiscal year 1977, of which not less than $1,000,000,000 shall be available only for Israel, for provisions setting out such ceiling of $872,500,000 for the fiscal year 1975, of which amount not less than $300,000,000 shall be available to Israel only, and struck out provisions relating to obligation of $100,000,000 for financing procurement of defense articles and services by Israel and for release of Israel from contractual liability to repay United States Government for the defense article and services so financed.
 
-Subsecs. (c), (d). Pub. L. 94–329, § 210(c)(1), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 94–329, § 210(c)(1), added subsecs. (c) and (d).
 
-1974—Subsec. (a). Pub. L. 93–559, § 45(a)(6), substituted “$405,000,000 for the fiscal year 1975” for “$325,000,000 for the fiscal year 1974”.
+1974—Subsec. (a). Pub. L. 93–559, § 45(a)(6), substituted “$405,000,000 for the fiscal year 1975” for “$325,000,000 for the fiscal year 1974”.
 
-Subsec. (b). Pub. L. 93–559, § 45(a)(7), substituted “$872,500,000 for the fiscal year 1975” for “$730,000,000 for the fiscal year 1974” and provided for obligation of $100,000,000 for financing procurement of defense articles and defense services by Israel and for release of Israel from contractual liability to repay the United States Government for the defense articles and defense services so financed.
+Subsec. (b). Pub. L. 93–559, § 45(a)(7), substituted “$872,500,000 for the fiscal year 1975” for “$730,000,000 for the fiscal year 1974” and provided for obligation of $100,000,000 for financing procurement of defense articles and defense services by Israel and for release of Israel from contractual liability to repay the United States Government for the defense articles and defense services so financed.
 
-1973—Subsec. (a). Pub. L. 93–189, § 25(5), substituted provision authorizing appropriation of not more than $325,000,000 for the fiscal year 1974, for provision authorizing appropriation of not more than $400,000,000 for the fiscal year 1972.
+1973—Subsec. (a). Pub. L. 93–189, § 25(5), substituted provision authorizing appropriation of not more than $325,000,000 for the fiscal year 1974, for provision authorizing appropriation of not more than $400,000,000 for the fiscal year 1972.
 
-Subsec. (b). Pub. L. 93–189, § 25(6), substituted provisions setting out the foreign military sales credit ceiling of $730,000,000 for the fiscal year 1974, of which amount not less than $300,000,000 shall be made available to Israel, for provisions setting out such ceiling of $550,000,000 for the fiscal year 1972, of which amount not less than $300,000,000 shall be made available to Israel, and such amount to exclude credits covered by guaranties issued under section 2764(b) of this title.
+Subsec. (b). Pub. L. 93–189, § 25(6), substituted provisions setting out the foreign military sales credit ceiling of $730,000,000 for the fiscal year 1974, of which amount not less than $300,000,000 shall be made available to Israel, for provisions setting out such ceiling of $550,000,000 for the fiscal year 1972, of which amount not less than $300,000,000 shall be made available to Israel, and such amount to exclude credits covered by guaranties issued under section 2764(b) of this title.
 
-1972—Subsec. (a). Pub. L. 92–226, § 401(a), substituted provision authorizing appropriation of not more than $400,000,000 for the fiscal year 1972, for provisions authorizing appropriation of not more than $250,000,000 for each of the fiscal years 1970 and 1971.
+1972—Subsec. (a). Pub. L. 92–226, § 401(a), substituted provision authorizing appropriation of not more than $400,000,000 for the fiscal year 1972, for provisions authorizing appropriation of not more than $250,000,000 for each of the fiscal years 1970 and 1971.
 
-Subsec. (b). Pub. L. 92–226, § 401(b), substituted provisions setting out the foreign military sales credit ceiling of $550,000,000 for the fiscal year 1972, of which amount not less than $300,000,000 shall be made available to Israel, for provisions setting out such ceiling of $340,000,000 for the fiscal years 1970 and 1971.
+Subsec. (b). Pub. L. 92–226, § 401(b), substituted provisions setting out the foreign military sales credit ceiling of $550,000,000 for the fiscal year 1972, of which amount not less than $300,000,000 shall be made available to Israel, for provisions setting out such ceiling of $340,000,000 for the fiscal years 1970 and 1971.
 
-1971—Subsec. (a). Pub. L. 91–672, § 2(1), substituted provisions authorizing appropriation of not more than $250,000,000 for each of the fiscal years 1970 and 1971 for provisions authorizing appropriation of not more than $296,000,000 for the fiscal year 1969.
+1971—Subsec. (a). Pub. L. 91–672, § 2(1), substituted provisions authorizing appropriation of not more than $250,000,000 for each of the fiscal years 1970 and 1971 for provisions authorizing appropriation of not more than $296,000,000 for the fiscal year 1969.
 
-Subsec. (b). Pub. L. 91–672, § 2(2), substituted provisions setting out the foreign military sales credit ceiling of $340,000,000 for the fiscal years 1970 and 1971 for provisions setting out such ceiling of $296,000,000 for the fiscal year 1969.
+Subsec. (b). Pub. L. 91–672, § 2(2), substituted provisions setting out the foreign military sales credit ceiling of $340,000,000 for the fiscal years 1970 and 1971 for provisions setting out such ceiling of $296,000,000 for the fiscal year 1969.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3205,7 +3205,7 @@ Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a
 
 **Ceilings on Loans for Greece, Sudan, and Turkey, Fiscal Year 1980; Repayment Period; Grace Period for Repayment of Principal**
 
-Pub. L. 96–92, § 17(b), Oct. 29, 1979, 93 Stat. 709, provided that:
+Pub. L. 96–92, § 17(b), Oct. 29, 1979, 93 Stat. 709, provided that:
 
 > “Of the principal amount of loans guaranteed for the fiscal year 1980 under section 24 of the Arms Export Control Act [section 2764 of this title]—
 
@@ -3217,15 +3217,15 @@ Pub. L. 96–92, § 17(b), Oct. 29, 1979, 93 Stat. 709, provided that:
 
 > shall be repaid in not less than 20 years, following a grace period of 10 years on repayment of principal.”
 
-### § 2772. Repealed. Pub. L. 102–429, title I, § 112(e), Oct. 21, 1992, 106 Stat. 2195
+### § 2772. Repealed. Pub. L. 102–429, title I, § 112(e), Oct. 21, 1992, 106 Stat. 2195
 
-Section, Pub. L. 90–629, ch. 3, § 32, Oct. 22, 1968, 82 Stat. 1325, prohibited certain military export financing by Export-Import Bank.
+Section, Pub. L. 90–629, ch. 3, § 32, Oct. 22, 1968, 82 Stat. 1325, prohibited certain military export financing by Export-Import Bank.
 
-### § 2773. Restraint in arms sales to Sub-Saharan Africa
+### § 2773. Restraint in arms sales to Sub-Saharan Africa
 
 It is the sense of the Congress that the problems of Sub-Saharan Africa are primarily those of economic development and that United States policy should assist in limiting the development of costly military conflict in that region. Therefore, the President shall exercise restraint in selling defense articles and defense services, and in providing financing for sales of defense articles and defense services, to countries in Sub-Saharan Africa.
 
-(Pub. L. 90–629, ch. 3, § 33, Oct. 22, 1968, 82 Stat. 1325; Pub. L. 91–672, § 3, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 92–226, pt. IV, § 401(c), (d), Feb. 7, 1972, 86 Stat. 32; Pub. L. 93–189, § 25(7)–(9), Dec. 17, 1973, 87 Stat. 731; Pub. L. 93–559, § 45(a)(8), Dec. 30, 1974, 88 Stat. 1815; Pub. L. 96–92, § 18, Oct. 29, 1979, 93 Stat. 709.)
+(Pub. L. 90–629, ch. 3, § 33, Oct. 22, 1968, 82 Stat. 1325; Pub. L. 91–672, § 3, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 92–226, pt. IV, § 401(c), (d), Feb. 7, 1972, 86 Stat. 32; Pub. L. 93–189, § 25(7)–(9), Dec. 17, 1973, 87 Stat. 731; Pub. L. 93–559, § 45(a)(8), Dec. 30, 1974, 88 Stat. 1815; Pub. L. 96–92, § 18, Oct. 29, 1979, 93 Stat. 709.)
 
 **Editorial Notes**
 
@@ -3233,23 +3233,23 @@ It is the sense of the Congress that the problems of Sub-Saharan Africa are prim
 
 1979—Pub. L. 96–92 substituted provisions respecting restraint in arms sales to Sub-Saharan Africa for provisions imposing regional ceilings on foreign military sales to African countries and Presidential waiver and report thereof to Congress.
 
-1974—Subsec. (a). Pub. L. 93–559, § 45(a)(8)(A), (B), repealed subsec. (a) which prescribed a ceiling of $150,000,000 in each fiscal year on the total amount of military assistance, credits, participations in credits, guaranteed loans, and loans and sales under section 7307 of Title 10, for Latin American countries, and redesignated subsec. (b) as (a).
+1974—Subsec. (a). Pub. L. 93–559, § 45(a)(8)(A), (B), repealed subsec. (a) which prescribed a ceiling of $150,000,000 in each fiscal year on the total amount of military assistance, credits, participations in credits, guaranteed loans, and loans and sales under section 7307 of Title 10, for Latin American countries, and redesignated subsec. (b) as (a).
 
-Subsec. (b). Pub. L. 93–559, § 45(a)(8)(B), (C), added subsec. (b) and redesignated former subsec. (b) as (a).
+Subsec. (b). Pub. L. 93–559, § 45(a)(8)(B), (C), added subsec. (b) and redesignated former subsec. (b) as (a).
 
-1973—Subsec. (a). Pub. L. 93–189, § 25(7), struck out reference to cash sales pursuant to sections 2761 and 2762 of this title reference to exclusion of credits covered by guaranties issued under section 2764(b) of this title, and reference to the face amount of contracts of guaranty issued under section 2764(a) and (b) of this title, inserted reference to the principal amount of loans guaranteed under section 2764(a) of this title, and substituted “$150,000,000” for “$100,000,000”.
+1973—Subsec. (a). Pub. L. 93–189, § 25(7), struck out reference to cash sales pursuant to sections 2761 and 2762 of this title reference to exclusion of credits covered by guaranties issued under section 2764(b) of this title, and reference to the face amount of contracts of guaranty issued under section 2764(a) and (b) of this title, inserted reference to the principal amount of loans guaranteed under section 2764(a) of this title, and substituted “$150,000,000” for “$100,000,000”.
 
-Subsec. (b). Pub. L. 93–189, § 25(8), struck out reference to cash sales pursuant to sections 2761 and 2762 of this title, reference to exclusion of credits covered by guaranties issued under section 2764(b) of this title, and reference to the face amount of contracts of guaranty issued under section 2764(a) and (b) of this title, and inserted reference to the principal amount of loans guaranteed under section 2764(a) of this title.
+Subsec. (b). Pub. L. 93–189, § 25(8), struck out reference to cash sales pursuant to sections 2761 and 2762 of this title, reference to exclusion of credits covered by guaranties issued under section 2764(b) of this title, and reference to the face amount of contracts of guaranty issued under section 2764(a) and (b) of this title, and inserted reference to the principal amount of loans guaranteed under section 2764(a) of this title.
 
-Subsec. (c). Pub. L. 93–189, § 25(9), struck out subsec. (c) which provided for Presidential waiver of limitations on amounts authorized under this section and set forth geographical limitations on the aggregate amounts of military assistance to be made available and percentage deviations from such ceiling amounts.
+Subsec. (c). Pub. L. 93–189, § 25(9), struck out subsec. (c) which provided for Presidential waiver of limitations on amounts authorized under this section and set forth geographical limitations on the aggregate amounts of military assistance to be made available and percentage deviations from such ceiling amounts.
 
-1972—Subsec. (a). Pub. L. 92–226, § 401(c), substituted “$100,000,000” for “$75,000,000”.
+1972—Subsec. (a). Pub. L. 92–226, § 401(c), substituted “$100,000,000” for “$75,000,000”.
 
-Subsec. (c). Pub. L. 92–226, § 401(d), substituted provisions for waiver of limitations when overriding requirements of the national security of the United States justify waiver for prior provisions for such a waiver when important to the security of the United States, required a written report with reasons for findings and statement in detail of expenditures when in excess of applicable geographical limitations, and prescribed percentage limitation for exceeding aggregate of geographical ceiling limitation.
+Subsec. (c). Pub. L. 92–226, § 401(d), substituted provisions for waiver of limitations when overriding requirements of the national security of the United States justify waiver for prior provisions for such a waiver when important to the security of the United States, required a written report with reasons for findings and statement in detail of expenditures when in excess of applicable geographical limitations, and prescribed percentage limitation for exceeding aggregate of geographical ceiling limitation.
 
-1971—Subsec. (a). Pub. L. 91–672, § 3(1), made fiscal year 1969 ceiling of $75,000,000 for Latin American countries a continuing ceiling applicable in each fiscal year.
+1971—Subsec. (a). Pub. L. 91–672, § 3(1), made fiscal year 1969 ceiling of $75,000,000 for Latin American countries a continuing ceiling applicable in each fiscal year.
 
-Subsec. (b). Pub. L. 91–672, § 3(2), made fiscal year 1969 ceiling of $40,000,000 for African countries a continuing ceiling applicable in each fiscal year.
+Subsec. (b). Pub. L. 91–672, § 3(2), made fiscal year 1969 ceiling of $40,000,000 for African countries a continuing ceiling applicable in each fiscal year.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3257,11 +3257,11 @@ Subsec. (b). Pub. L. 91–672, § 3(2), made fiscal year 1969 ceiling of $40,0
 
 Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a note under section 2751 of this title.
 
-### § 2774. Foreign military sales credit standards
+### § 2774. Foreign military sales credit standards
 
 The President shall establish standards and criteria for credit and guaranty transactions under sections 2763 and 2764 of this title in accordance with the foreign, national security, and financial policies of the United States.
 
-(Pub. L. 90–629, ch. 3, § 34, Oct. 22, 1968, 82 Stat. 1325.)
+(Pub. L. 90–629, ch. 3, § 34, Oct. 22, 1968, 82 Stat. 1325.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3275,21 +3275,21 @@ Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a
 
 For delegation of functions of the President under this section, with certain conditions, see section 1(h) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
-### § 2775. Foreign military sales to less developed countries
+### § 2775. Foreign military sales to less developed countries
 
 **(a)** When the President finds that any economically less developed country is diverting development assistance furnished pursuant to the Foreign Assistance Act of 1961, as amended [22 U.S.C. 2151 et seq.], or sales under the Food for Peace Act, as amended [7 U.S.C. 1691 et seq.], to military expenditures, or is diverting its own resources to unnecessary military expenditures, to a degree which materially interferes with its development, such country shall be immediately ineligible for further sales and guarantees under sections 2761, 2762, 2763, and 2764 of this title, until the President is assured that such diversion will no longer take place.
 
-**(b)** Repealed. Pub. L. 93–559, § 45(a)(5), Dec. 30, 1974, 88 Stat. 1814.
+**(b)** Repealed. Pub. L. 93–559, § 45(a)(5), Dec. 30, 1974, 88 Stat. 1814.
 
-(Pub. L. 90–629, ch. 3, § 35, Oct. 22, 1968, 82 Stat. 1325; Pub. L. 93–559, § 45(a)(5), Dec. 30, 1974, 88 Stat. 1814; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(T), June 18, 2008, 122 Stat. 1820, 1821.)
+(Pub. L. 90–629, ch. 3, § 35, Oct. 22, 1968, 82 Stat. 1325; Pub. L. 93–559, § 45(a)(5), Dec. 30, 1974, 88 Stat. 1814; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(T), June 18, 2008, 122 Stat. 1820, 1821.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, as amended, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, as amended, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Food for Peace Act, as amended, referred to in subsec. (a), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, as amended, referred to in subsec. (a), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 **Amendments**
 
@@ -3313,7 +3313,7 @@ Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a
 
 For delegation of functions of the President under subsec. (a) of this section, see section 1(i) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16130, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
-### § 2776. Reports and certifications to Congress on military exports
+### § 2776. Reports and certifications to Congress on military exports
 
 **(a) Report by President; contents** The President shall transmit to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate not more than sixty days after the end of each quarter an unclassified report (except that any material which was transmitted in classified form under subsection (b)(1) or (c)(1) of this section may be contained in a classified addendum to such report, and any letter of offer referred to in paragraph (1) of this subsection may be listed in such addendum unless such letter of offer has been the subject of an unclassified certification pursuant to subsection (b)(1) of this section, and any information provided under paragraph (11) of this subsection may also be provided in a classified addendum) containing—
 
@@ -3365,11 +3365,11 @@ For each letter of offer to sell under paragraphs (1) and (2), the report shall 
 
 **(b) Letter of offer to sell defense articles, services, design and construction services, or major equipment; submission of numbered Presidential certification and additional statement; contents; emergency justification statement; enhancements or upgrades in sensitivity of technology or capability of major defense articles, equipment, or services**
 
-**(1)** Subject to paragraph (6), in the case of any letter of offer to sell any defense articles or services under this chapter for $50,000,000 or more, any design and construction services for $200,000,000 or more, or any major defense equipment for $14,000,000 or more, before such letter of offer is issued, the President shall submit to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate a numbered certification with respect to such offer to sell containing the information specified in clauses (i) through (iv) of subsection (a), or (in the case of a sale of design and construction services) the information specified in clauses (A) through (D) of paragraph (9) 1
+**(1)** Subject to paragraph (6), in the case of any letter of offer to sell any defense articles or services under this chapter for $50,000,000 or more, any design and construction services for $200,000,000 or more, or any major defense equipment for $14,000,000 or more, before such letter of offer is issued, the President shall submit to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate a numbered certification with respect to such offer to sell containing the information specified in clauses (i) through (iv) of subsection (a), or (in the case of a sale of design and construction services) the information specified in clauses (A) through (D) of paragraph (9) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of subsection (a), and a description, containing the information specified in paragraph (8) 1 of subsection (a), of any contribution, gift, commission, or fee paid or offered or agreed to be paid in order to solicit, promote, or otherwise to secure such letter of offer. Such numbered certifications shall also contain an item, classified if necessary, identifying the sensitivity of technology contained in the defense articles, defense services, or design and construction services, proposed to be sold, and a detailed justification of the reasons necessitating the sale of such articles or services in view of the sensitivity of such technology. In a case in which such articles or services listed on the Missile Technology Control Regime Annex are intended to support the design, development, or production of a Category I space launch vehicle system (as defined in section 2797c of this title), such report shall include a description of the proposed export and rationale for approving such export, including the consistency of such export with United States missile nonproliferation policy. Each such numbered certification shall contain an item indicating whether any offset agreement is proposed to be entered into in connection with such letter of offer to sell (if known on the date of transmittal of such certification). In addition, the President shall, upon the request of such committee or the Committee on Foreign Affairs of the House of Representatives, transmit promptly to both such committees a statement setting forth, to the extent specified in such request—
+of subsection (a), and a description, containing the information specified in paragraph (8) 1 of subsection (a), of any contribution, gift, commission, or fee paid or offered or agreed to be paid in order to solicit, promote, or otherwise to secure such letter of offer. Such numbered certifications shall also contain an item, classified if necessary, identifying the sensitivity of technology contained in the defense articles, defense services, or design and construction services, proposed to be sold, and a detailed justification of the reasons necessitating the sale of such articles or services in view of the sensitivity of such technology. In a case in which such articles or services listed on the Missile Technology Control Regime Annex are intended to support the design, development, or production of a Category I space launch vehicle system (as defined in section 2797c of this title), such report shall include a description of the proposed export and rationale for approving such export, including the consistency of such export with United States missile nonproliferation policy. Each such numbered certification shall contain an item indicating whether any offset agreement is proposed to be entered into in connection with such letter of offer to sell (if known on the date of transmittal of such certification). In addition, the President shall, upon the request of such committee or the Committee on Foreign Affairs of the House of Representatives, transmit promptly to both such committees a statement setting forth, to the extent specified in such request—
 
 **(A)** a detailed description of the defense articles, defense services, or design and construction services to be offered, including a brief description of the capabilities of any defense article to be offered;
 
@@ -3419,7 +3419,7 @@ A certification transmitted pursuant to this subsection shall be unclassified, e
 
 **(3)** For the purpose of expediting the consideration and enactment of joint resolutions under this subsection, a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.
 
-**(4)** In addition to the other information required to be contained in a certification submitted to the Congress under this subsection, each such certification shall cite any quarterly report submitted pursuant to section 2768 <sup>1</sup> of this title which listed a price and availability estimate, or a request for the issuance of a letter of offer, which was a basis for the proposed sale which is the subject of such certification.
+**(4)** In addition to the other information required to be contained in a certification submitted to the Congress under this subsection, each such certification shall cite any quarterly report submitted pursuant to section 2768 <sup>1</sup> of this title which listed a price and availability estimate, or a request for the issuance of a letter of offer, which was a basis for the proposed sale which is the subject of such certification.
 
 **(5)**
 
@@ -3521,7 +3521,7 @@ unless the President states in his certification that an emergency exists which 
 
 **(g) Confidentiality**
 
-Information relating to offset agreements provided pursuant to subparagraph (C) of the fifth sentence of subsection (b)(1) and the second sentence of subsection (c)(1) shall be treated as confidential information in accordance with section 4614(c) <sup>1</sup> of title 50.
+Information relating to offset agreements provided pursuant to subparagraph (C) of the fifth sentence of subsection (b)(1) and the second sentence of subsection (c)(1) shall be treated as confidential information in accordance with section 4614(c) <sup>1</sup> of title 50.
 
 **(h) Certification requirement relating to Israel’s qualitative military edge**
 
@@ -3551,7 +3551,7 @@ In this subsection, the term “qualitative military edge” means the ability t
 
 At least 30 days prior to a shipment of defense articles subject to the requirements of subsection (b) at the joint request of the Chairman and Ranking Member of the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives, the President shall provide notification of such pending shipment, in unclassified form, with a classified annex as necessary, to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
 
-(Pub. L. 90–629, ch. 3, § 36, Oct. 22, 1968, 82 Stat. 1326; Pub. L. 93–189, § 25(10), Dec. 17, 1973, 87 Stat. 731; Pub. L. 93–559, § 45(a)(5), Dec. 30, 1974, 88 Stat. 1814; Pub. L. 94–329, title II, § 211(a), title VI, § 604(a), June 30, 1976, 90 Stat. 740, 766; Pub. L. 95–384, § 21, Sept. 26, 1978, 92 Stat. 741; Pub. L. 96–92, §§ 16(b), 19(a), (c), 20(b), Oct. 29, 1979, 93 Stat. 708–710; Pub. L. 96–533, title I, §§ 105(c), (d), 107(b), 109(f), Dec. 16, 1980, 94 Stat. 3134, 3136, 3138; Pub. L. 97–113, title I, §§ 101(c)–(e), 102(b), 109(d)(2), Dec. 29, 1981, 95 Stat. 1520, 1526; Pub. L. 99–83, title I, §§ 117, 118, title XII, § 1209(c), Aug. 8, 1985, 99 Stat. 202, 203, 279; Pub. L. 99–247, § 1(b), (c), Feb. 12, 1986, 100 Stat. 9; Pub. L. 101–222, §§ 3(b), 7, Dec. 12, 1989, 103 Stat. 1896, 1899; Pub. L. 103–236, title VII, §§ 732, 735(a), (b), Apr. 30, 1994, 108 Stat. 503, 505, 506; Pub. L. 103–437, § 9(a)(7), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–164, title I, §§ 141(c), (d), 155, July 21, 1996, 110 Stat. 1431, 1432, 1440; Pub. L. 104–201, div. A, title X, § 1045(a), Sept. 23, 1996, 110 Stat. 2644; Pub. L. 105–277, div. G, subdiv. A, title XII, § 1225(a)(1), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, §§ 1224, 1245, title XIII, §§ 1301, 1302(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–498, 1501A–502, 1501A–510, 1501A–511; Pub. L. 106–280, title I, § 102(c)(1), Oct. 6, 2000, 114 Stat. 849; Pub. L. 107–228, div. B, title XII, §§ 1205(a), 1262(c), title XIV, § 1405(a)(2), Sept. 30, 2002, 116 Stat. 1427, 1434, 1457; Pub. L. 110–429, title II, §§ 201(d), 203(b)(1), Oct. 15, 2008, 122 Stat. 4843, 4845; Pub. L. 111–266, title I, § 104(d), title III, § 301(1), Oct. 8, 2010, 124 Stat. 2799, 2804; Pub. L. 113–276, title II, §§ 201, 208(a)(1), Dec. 18, 2014, 128 Stat. 2990, 2992; Pub. L. 113–296, § 11(b), Dec. 19, 2014, 128 Stat. 4078.)
+(Pub. L. 90–629, ch. 3, § 36, Oct. 22, 1968, 82 Stat. 1326; Pub. L. 93–189, § 25(10), Dec. 17, 1973, 87 Stat. 731; Pub. L. 93–559, § 45(a)(5), Dec. 30, 1974, 88 Stat. 1814; Pub. L. 94–329, title II, § 211(a), title VI, § 604(a), June 30, 1976, 90 Stat. 740, 766; Pub. L. 95–384, § 21, Sept. 26, 1978, 92 Stat. 741; Pub. L. 96–92, §§ 16(b), 19(a), (c), 20(b), Oct. 29, 1979, 93 Stat. 708–710; Pub. L. 96–533, title I, §§ 105(c), (d), 107(b), 109(f), Dec. 16, 1980, 94 Stat. 3134, 3136, 3138; Pub. L. 97–113, title I, §§ 101(c)–(e), 102(b), 109(d)(2), Dec. 29, 1981, 95 Stat. 1520, 1526; Pub. L. 99–83, title I, §§ 117, 118, title XII, § 1209(c), Aug. 8, 1985, 99 Stat. 202, 203, 279; Pub. L. 99–247, § 1(b), (c), Feb. 12, 1986, 100 Stat. 9; Pub. L. 101–222, §§ 3(b), 7, Dec. 12, 1989, 103 Stat. 1896, 1899; Pub. L. 103–236, title VII, §§ 732, 735(a), (b), Apr. 30, 1994, 108 Stat. 503, 505, 506; Pub. L. 103–437, § 9(a)(7), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–164, title I, §§ 141(c), (d), 155, July 21, 1996, 110 Stat. 1431, 1432, 1440; Pub. L. 104–201, div. A, title X, § 1045(a), Sept. 23, 1996, 110 Stat. 2644; Pub. L. 105–277, div. G, subdiv. A, title XII, § 1225(a)(1), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, §§ 1224, 1245, title XIII, §§ 1301, 1302(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–498, 1501A–502, 1501A–510, 1501A–511; Pub. L. 106–280, title I, § 102(c)(1), Oct. 6, 2000, 114 Stat. 849; Pub. L. 107–228, div. B, title XII, §§ 1205(a), 1262(c), title XIV, § 1405(a)(2), Sept. 30, 2002, 116 Stat. 1427, 1434, 1457; Pub. L. 110–429, title II, §§ 201(d), 203(b)(1), Oct. 15, 2008, 122 Stat. 4843, 4845; Pub. L. 111–266, title I, § 104(d), title III, § 301(1), Oct. 8, 2010, 124 Stat. 2799, 2804; Pub. L. 113–276, title II, §§ 201, 208(a)(1), Dec. 18, 2014, 128 Stat. 2990, 2992; Pub. L. 113–296, § 11(b), Dec. 19, 2014, 128 Stat. 4078.)
 
 **Editorial Notes**
 
@@ -3559,39 +3559,39 @@ At least 30 days prior to a shipment of defense articles subject to the requirem
 
 This chapter, referred to in subsecs. (a)(1) and (b)(1), (6)(A), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The National Security Act of 1947, referred to in subsec. (a)(10), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Title V of the National Security Act of 1947 is now classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (a)(10), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Title V of the National Security Act of 1947 is now classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
-Paragraphs (8) and (9) of subsection (a), referred to in subsec. (b)(1), were redesignated as paragraphs (7) and (8), respectively, of subsection (a) by Pub. L. 107–228, div. B, title XII, § 1262(c)(2), Sept. 30, 2002, 116 Stat. 1434.
+Paragraphs (8) and (9) of subsection (a), referred to in subsec. (b)(1), were redesignated as paragraphs (7) and (8), respectively, of subsection (a) by Pub. L. 107–228, div. B, title XII, § 1262(c)(2), Sept. 30, 2002, 116 Stat. 1434.
 
 Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsecs. (b)(2), (c)(3)(A), and (d)(5)(A), is section 601(b) of Pub. L. 94–329, June 30, 1976, 90 Stat. 729, which made provision for expedited procedures in the Senate, and was not classified to the Code.
 
-Section 2768 of this title, referred to in subsec. (b)(4), was repealed by Pub. L. 104–106, div. A, title X, § 1064(a), Feb. 10, 1996, 110 Stat. 445.
+Section 2768 of this title, referred to in subsec. (b)(4), was repealed by Pub. L. 104–106, div. A, title X, § 1064(a), Feb. 10, 1996, 110 Stat. 445.
 
-Section 4614(c) of title 50, referred to in subsec. (g), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+Section 4614(c) of title 50, referred to in subsec. (g), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 **Amendments**
 
-2014—Subsecs. (a), (b)(1), (5)(C), (c)(1), (f). Pub. L. 113–276, § 208(a)(1), substituted “the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and” for “the Speaker of the House of Representatives and”.
+2014—Subsecs. (a), (b)(1), (5)(C), (c)(1), (f). Pub. L. 113–276, § 208(a)(1), substituted “the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and” for “the Speaker of the House of Representatives and”.
 
 Subsec. (h)(2), (3). Pub. L. 113–296 added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (i). Pub. L. 113–276, § 201, added subsec. (i).
+Subsec. (i). Pub. L. 113–276, § 201, added subsec. (i).
 
-2010—Subsec. (b). Pub. L. 111–266, § 301(1), inserted “Israel,” before “or New Zealand” in concluding provisions of par (1), in par. (2), and in introductory provisions of par. (6).
+2010—Subsec. (b). Pub. L. 111–266, § 301(1), inserted “Israel,” before “or New Zealand” in concluding provisions of par (1), in par. (2), and in introductory provisions of par. (6).
 
-Subsec. (c). Pub. L. 111–266, § 301(1), inserted “Israel,” before “or New Zealand” in par. (2)(A) and in introductory provisions of par. (5).
+Subsec. (c). Pub. L. 111–266, § 301(1), inserted “Israel,” before “or New Zealand” in par. (2)(A) and in introductory provisions of par. (5).
 
-Subsec. (c)(6). Pub. L. 111–266, § 104(d)(1), added par. (6).
+Subsec. (c)(6). Pub. L. 111–266, § 104(d)(1), added par. (6).
 
-Subsec. (d)(2)(A). Pub. L. 111–266, § 301(1), inserted “Israel,” before “or New Zealand”.
+Subsec. (d)(2)(A). Pub. L. 111–266, § 301(1), inserted “Israel,” before “or New Zealand”.
 
-Subsec. (d)(6). Pub. L. 111–266, § 104(d)(2), added par. (6).
+Subsec. (d)(6). Pub. L. 111–266, § 104(d)(2), added par. (6).
 
-2008—Subsecs. (b), (c), (d)(2)(A). Pub. L. 110–429, § 203(b)(1), inserted “the Republic of Korea,” before “or New Zealand” wherever appearing.
+2008—Subsecs. (b), (c), (d)(2)(A). Pub. L. 110–429, § 203(b)(1), inserted “the Republic of Korea,” before “or New Zealand” wherever appearing.
 
-Subsec. (h). Pub. L. 110–429, § 201(d), added subsec. (h).
+Subsec. (h). Pub. L. 110–429, § 201(d), added subsec. (h).
 
-2002—Subsec. (a)(7) to (13). Pub. L. 107–228, § 1262(c), redesignated pars. (8) to (13) as (7) to (12), respectively, and struck out former par. (7) which read as follows: “an estimate of—
+2002—Subsec. (a)(7) to (13). Pub. L. 107–228, § 1262(c), redesignated pars. (8) to (13) as (7) to (12), respectively, and struck out former par. (7) which read as follows: “an estimate of—
 
 “(A) the number of United States military personnel, the number of United States Government civilian personnel, and the number of United States civilian contract personnel, who were in each foreign country at the end of that quarter, and
 
@@ -3599,35 +3599,35 @@ Subsec. (h). Pub. L. 110–429, § 201(d), added subsec. (h).
 
 in implementation of sales and commercial exports under this chapter or of assistance under chapter 2, 5, 6, or 8 of part II of the Foreign Assistance Act of 1961, including both personnel assigned to the country and personnel temporarily in the country by detail or otherwise;”.
 
-Subsec. (b)(1). Pub. L. 107–228, § 1405(a)(2)(A)(i), substituted “(1) Subject to paragraph (6), in the case of” for “(1) In the case of” in introductory provisions.
+Subsec. (b)(1). Pub. L. 107–228, § 1405(a)(2)(A)(i), substituted “(1) Subject to paragraph (6), in the case of” for “(1) In the case of” in introductory provisions.
 
-Subsec. (b)(5)(C). Pub. L. 107–228, § 1405(a)(2)(A)(ii), substituted “Subject to paragraph (6), if” for “If”.
+Subsec. (b)(5)(C). Pub. L. 107–228, § 1405(a)(2)(A)(ii), substituted “Subject to paragraph (6), if” for “If”.
 
-Subsec. (b)(6). Pub. L. 107–228, § 1405(a)(2)(A)(iii), added par. (6).
+Subsec. (b)(6). Pub. L. 107–228, § 1405(a)(2)(A)(iii), added par. (6).
 
-Subsec. (c)(1). Pub. L. 107–228, § 1405(a)(2)(B)(i), substituted “(1) Subject to paragraph (5), in the case of” for “(1) In the case of”.
+Subsec. (c)(1). Pub. L. 107–228, § 1405(a)(2)(B)(i), substituted “(1) Subject to paragraph (5), in the case of” for “(1) In the case of”.
 
-Pub. L. 107–228, § 1205(a), inserted “(or, in the case of a defense article that is a firearm controlled under category I of the United States Munitions List, $1,000,000 or more)” after “$50,000,000 or more”.
+Pub. L. 107–228, § 1205(a), inserted “(or, in the case of a defense article that is a firearm controlled under category I of the United States Munitions List, $1,000,000 or more)” after “$50,000,000 or more”.
 
-Subsec. (c)(5). Pub. L. 107–228, § 1405(a)(2)(B)(ii), added par. (5).
+Subsec. (c)(5). Pub. L. 107–228, § 1405(a)(2)(B)(ii), added par. (5).
 
 2000—Subsec. (c)(2)(B), (C). Pub. L. 106–280 added subpar. (B) and redesignated former subpar. (B) as (C).
 
-1999—Subsec. (a)(13). Pub. L. 106–113, § 1000(a)(7) [title XIII, § 1302(b)], added par. (13).
+1999—Subsec. (a)(13). Pub. L. 106–113, § 1000(a)(7) [title XIII, § 1302(b)], added par. (13).
 
-Subsec. (b)(1). Pub. L. 106–113, § 1000(a)(7) [title XIII, § 1301(b)(1)], in sixth sentence, inserted before period at end “, in which case the information shall be accompanied by a description of the damage to the national security that could be expected to result from public disclosure of the information”.
+Subsec. (b)(1). Pub. L. 106–113, § 1000(a)(7) [title XIII, § 1301(b)(1)], in sixth sentence, inserted before period at end “, in which case the information shall be accompanied by a description of the damage to the national security that could be expected to result from public disclosure of the information”.
 
-Subsec. (b)(1)(C). Pub. L. 106–113, § 1000(a)(7) [title XII, § 1245(a)(1)], substituted “and a description of any offset agreement with respect to such sale;” for “and a description from such contractor of any offset agreements proposed to be entered into in connection with such sale (if known on the date of transmittal of such statement);”.
+Subsec. (b)(1)(C). Pub. L. 106–113, § 1000(a)(7) [title XII, § 1245(a)(1)], substituted “and a description of any offset agreement with respect to such sale;” for “and a description from such contractor of any offset agreements proposed to be entered into in connection with such sale (if known on the date of transmittal of such statement);”.
 
-Subsec. (c)(1). Pub. L. 106–113, § 1000(a)(7) [title XIII, § 1301(b)(2)], in last sentence, inserted before period at end “, in which case the information shall be accompanied by a description of the damage to the national security that could be expected to result from public disclosure of the information”.
+Subsec. (c)(1). Pub. L. 106–113, § 1000(a)(7) [title XIII, § 1301(b)(2)], in last sentence, inserted before period at end “, in which case the information shall be accompanied by a description of the damage to the national security that could be expected to result from public disclosure of the information”.
 
-Pub. L. 106–113, § 1000(a)(7) [title XII, § 1245(a)(2)], in second sentence, substituted “and a description of any such offset agreement” for “(if known on the date of transmittal of such certification)”.
+Pub. L. 106–113, § 1000(a)(7) [title XII, § 1245(a)(2)], in second sentence, substituted “and a description of any such offset agreement” for “(if known on the date of transmittal of such certification)”.
 
-Subsec. (c)(4). Pub. L. 106–113, § 1000(a)(7) [title XII, § 1224], added par. (4).
+Subsec. (c)(4). Pub. L. 106–113, § 1000(a)(7) [title XII, § 1224], added par. (4).
 
-Subsec. (e). Pub. L. 106–113, § 1000(a)(7) [title XII, § 1245(b)(1)], redesignated subsec. (e), relating to publication of arms sales certifications, as (f).
+Subsec. (e). Pub. L. 106–113, § 1000(a)(7) [title XII, § 1245(b)(1)], redesignated subsec. (e), relating to publication of arms sales certifications, as (f).
 
-Subsec. (f). Pub. L. 106–113, § 1000(a)(7) [title XIII, § 1301(a)], which directed amendment of subsec. (e), relating to publication of arms sales certifications, by inserting “in a timely manner” after “to be published” and by substituting “the full unclassified text of—
+Subsec. (f). Pub. L. 106–113, § 1000(a)(7) [title XIII, § 1301(a)], which directed amendment of subsec. (e), relating to publication of arms sales certifications, by inserting “in a timely manner” after “to be published” and by substituting “the full unclassified text of—
 
 “(1) each numbered certification submitted pursuant to subsection (b);
 
@@ -3635,99 +3635,99 @@ Subsec. (f). Pub. L. 106–113, § 1000(a)(7) [title XIII, § 1301(a)], whic
 
 “(3) each notification of a proposed commercial technical assistance or manufacturing licensing agreement submitted under subsection (d).” for “the full unclassified text of each numbered certification submitted pursuant to subsection (b) of this section and each notification of a proposed commercial sale submitted under subsection (c) of this section.”, was executed by making the amendment in subsec. (f) to reflect the probable intent of Congress and the redesignation of that subsec. (e) as (f). See 1999 Amendment note below.
 
-Pub. L. 106–113, § 1000(a)(7) [title XII, § 1245(b)(1)], redesignated subsec. (e), relating to publication of arms sales certifications, as (f).
+Pub. L. 106–113, § 1000(a)(7) [title XII, § 1245(b)(1)], redesignated subsec. (e), relating to publication of arms sales certifications, as (f).
 
-Subsec. (g). Pub. L. 106–113, § 1000(a)(7) [title XII, § 1245(b)(2)], added subsec. (g).
+Subsec. (g). Pub. L. 106–113, § 1000(a)(7) [title XII, § 1245(b)(2)], added subsec. (g).
 
 1998—Subsec. (b)(1)(D). Pub. L. 105–277, in introductory provisions, substituted “Secretary of State in consultation with the Secretary of Defense and the Director of Central Intelligence” for “Director of the Arms Control and Disarmament Agency in consultation with the Secretary of State and the Secretary of Defense”.
 
 1996—Subsec. (a)(12). Pub. L. 104–201 added par. (12).
 
-Subsec. (c)(2)(A), (B). Pub. L. 104–164, § 141(c), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
+Subsec. (c)(2)(A), (B). Pub. L. 104–164, § 141(c), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
 
 “(A) shall not be issued until at least 30 calendar days after the Congress receives such certification; and
 
 “(B) shall not be issued then if the Congress, within such 30-day period, enacts a joint resolution prohibiting the proposed export, except that this subparagraph does not apply with respect to a license issued for an export to the North Atlantic Treaty Organization, any member country of that Organization, Japan, Australia, or New Zealand.”
 
-Subsec. (d). Pub. L. 104–164, § 141(d), designated existing provisions as par. (1), struck out “for or in a country not a member of the North Atlantic Treaty Organization” after “manufacturing licensing agreement”, and added pars. (2) to (5).
+Subsec. (d). Pub. L. 104–164, § 141(d), designated existing provisions as par. (1), struck out “for or in a country not a member of the North Atlantic Treaty Organization” after “manufacturing licensing agreement”, and added pars. (2) to (5).
 
-Subsec. (e). Pub. L. 104–164, § 155, added subsec. (e) relating to publication of arms sales certifications.
+Subsec. (e). Pub. L. 104–164, § 155, added subsec. (e) relating to publication of arms sales certifications.
 
 1994—Subsec. (b)(1). Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations”.
 
-Pub. L. 103–236, §§ 732(a)(1), 735(a), inserted after second sentence “In a case in which such articles or services listed on the Missile Technology Control Regime Annex are intended to support the design, development, or production of a Category I space launch vehicle system (as defined in section 2797c of this title), such report shall include a description of the proposed export and rationale for approving such export, including the consistency of such export with United States missile nonproliferation policy. Each such numbered certification shall contain an item indicating whether any offset agreement is proposed to be entered into in connection with such letter of offer to sell (if known on the date of transmittal of such certification).”
+Pub. L. 103–236, §§ 732(a)(1), 735(a), inserted after second sentence “In a case in which such articles or services listed on the Missile Technology Control Regime Annex are intended to support the design, development, or production of a Category I space launch vehicle system (as defined in section 2797c of this title), such report shall include a description of the proposed export and rationale for approving such export, including the consistency of such export with United States missile nonproliferation policy. Each such numbered certification shall contain an item indicating whether any offset agreement is proposed to be entered into in connection with such letter of offer to sell (if known on the date of transmittal of such certification).”
 
-Subsec. (b)(1)(C). Pub. L. 103–236, § 732(a)(2), inserted “and a description from such contractor of any offset agreements proposed to be entered into in connection with such sale” after “sold”.
+Subsec. (b)(1)(C). Pub. L. 103–236, § 732(a)(2), inserted “and a description from such contractor of any offset agreements proposed to be entered into in connection with such sale” after “sold”.
 
 Subsec. (c)(1). Pub. L. 103–437 substituted “Foreign Affairs” for “International Relations”.
 
-Pub. L. 103–236, § 735(b), which directed amendment of par. (1) by inserting after “in consultation with the Secretary of Defense.” the following new sentence: “In a case in which such articles or services are listed on the Missile Technology Control Regime Annex and are intended to support the design, development, or production of a Category I space launch vehicle system (as defined in section 2797c of this title), such report shall include a description of the proposed export and rationale for approving such export, including the consistency of such export with United States missile nonproliferation policy.”, was executed by making the insertion after “in consultation with the Secretary of Defense and a description from the person who has submitted the license application of any offset agreement proposed to be entered into in connection with such export (if known on the date of transmittal of such statement).” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 103–236, § 732(b)(2). See below.
+Pub. L. 103–236, § 735(b), which directed amendment of par. (1) by inserting after “in consultation with the Secretary of Defense.” the following new sentence: “In a case in which such articles or services are listed on the Missile Technology Control Regime Annex and are intended to support the design, development, or production of a Category I space launch vehicle system (as defined in section 2797c of this title), such report shall include a description of the proposed export and rationale for approving such export, including the consistency of such export with United States missile nonproliferation policy.”, was executed by making the insertion after “in consultation with the Secretary of Defense and a description from the person who has submitted the license application of any offset agreement proposed to be entered into in connection with such export (if known on the date of transmittal of such statement).” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 103–236, § 732(b)(2). See below.
 
-Pub. L. 103–236, § 732(b)(2), inserted “and a description from the person who has submitted the license application of any offset agreement proposed to be entered into in connection with such export (if known on the date of transmittal of such statement)” after “Secretary of Defense”.
+Pub. L. 103–236, § 732(b)(2), inserted “and a description from the person who has submitted the license application of any offset agreement proposed to be entered into in connection with such export (if known on the date of transmittal of such statement)” after “Secretary of Defense”.
 
-Pub. L. 103–236, § 732(b)(1), inserted after first sentence “Each such numbered certification shall also contain an item indicating whether any offset agreement is proposed to be entered into in connection with such export (if known on the date of transmittal of such certification).”
+Pub. L. 103–236, § 732(b)(1), inserted after first sentence “Each such numbered certification shall also contain an item indicating whether any offset agreement is proposed to be entered into in connection with such export (if known on the date of transmittal of such certification).”
 
-Subsec. (e). Pub. L. 103–236, § 732(c), added subsec. (e).
+Subsec. (e). Pub. L. 103–236, § 732(c), added subsec. (e).
 
-1989—Subsec. (a). Pub. L. 101–222, § 7(b), inserted “, and any information provided under paragraph (11) of this subsection may also be provided in a classified addendum” after “(b)(1) of this section” in introductory provisions.
+1989—Subsec. (a). Pub. L. 101–222, § 7(b), inserted “, and any information provided under paragraph (11) of this subsection may also be provided in a classified addendum” after “(b)(1) of this section” in introductory provisions.
 
-Subsec. (a)(10), (11). Pub. L. 101–222, § 7(a), added pars. (10) and (11).
+Subsec. (a)(10), (11). Pub. L. 101–222, § 7(a), added pars. (10) and (11).
 
-Subsec. (b)(1)(D)(ii) to (v). Pub. L. 101–222, § 3(b), added cl. (ii) and redesignated former cls. (ii) through (iv) as (iii) through (v), respectively.
+Subsec. (b)(1)(D)(ii) to (v). Pub. L. 101–222, § 3(b), added cl. (ii) and redesignated former cls. (ii) through (iv) as (iii) through (v), respectively.
 
-1986—Subsec. (b)(1). Pub. L. 99–247, § 1(b)(1), substituted “enacts a joint resolution prohibiting” for “adopts a concurrent resolution stating that it objects to” in concluding provisions.
+1986—Subsec. (b)(1). Pub. L. 99–247, § 1(b)(1), substituted “enacts a joint resolution prohibiting” for “adopts a concurrent resolution stating that it objects to” in concluding provisions.
 
-Subsec. (b)(2). Pub. L. 99–247, § 1(b)(2), inserted “joint” before “resolution” in four places.
+Subsec. (b)(2). Pub. L. 99–247, § 1(b)(2), inserted “joint” before “resolution” in four places.
 
-Subsec. (b)(3). Pub. L. 99–247, § 1(b)(3), substituted “enactment of joint resolutions” for “adoption of concurrent resolutions” and “such joint resolution” for “such resolution”.
+Subsec. (b)(3). Pub. L. 99–247, § 1(b)(3), substituted “enactment of joint resolutions” for “adoption of concurrent resolutions” and “such joint resolution” for “such resolution”.
 
-Subsec. (c)(2)(B). Pub. L. 99–247, § 1(c)(1), substituted “enacts a joint resolution prohibiting” for “adopts a concurrent resolution stating that it objects to”.
+Subsec. (c)(2)(B). Pub. L. 99–247, § 1(c)(1), substituted “enacts a joint resolution prohibiting” for “adopts a concurrent resolution stating that it objects to”.
 
-Subsec. (c)(3)(A). Pub. L. 99–247, § 1(c)(2), inserted “joint” before “resolution”.
+Subsec. (c)(3)(A). Pub. L. 99–247, § 1(c)(2), inserted “joint” before “resolution”.
 
-Subsec. (c)(3)(B). Pub. L. 99–247, § 1(c)(3), substituted “enactment of joint resolutions” for “adoption of concurrent resolutions” and “such joint resolution” for “such resolution”.
+Subsec. (c)(3)(B). Pub. L. 99–247, § 1(c)(3), substituted “enactment of joint resolutions” for “adoption of concurrent resolutions” and “such joint resolution” for “such resolution”.
 
-1985—Subsec. (a)(5). Pub. L. 99–83, § 1209(c)(1), substituted “sales” for “cash sales” and struck out provisions relating to credits under section 2763 of this title and guaranty agreements under section 2764 of this title.
+1985—Subsec. (a)(5). Pub. L. 99–83, § 1209(c)(1), substituted “sales” for “cash sales” and struck out provisions relating to credits under section 2763 of this title and guaranty agreements under section 2764 of this title.
 
-Subsec. (a)(6). Pub. L. 99–83, § 1209(c)(2), substituted “sales expected to be made to” for “cash sales expected to be made and credits expected to be extended to”.
+Subsec. (a)(6). Pub. L. 99–83, § 1209(c)(2), substituted “sales expected to be made to” for “cash sales expected to be made and credits expected to be extended to”.
 
-Subsec. (a)(7). Pub. L. 99–83, § 117, amended par. (7) generally. Prior to amendment, par. (7) read as follows: “an estimate of the number of officers and employees of the United States Government and of United States civilian contract personnel present in each such country at the end of that quarter for assignments in implementation of sales and commercial exports under this chapter;”.
+Subsec. (a)(7). Pub. L. 99–83, § 117, amended par. (7) generally. Prior to amendment, par. (7) read as follows: “an estimate of the number of officers and employees of the United States Government and of United States civilian contract personnel present in each such country at the end of that quarter for assignments in implementation of sales and commercial exports under this chapter;”.
 
-Subsec. (b)(1). Pub. L. 99–83, § 118(1), inserted requirement respecting detailed justification of reasons for sale of sensitive articles or services.
+Subsec. (b)(1). Pub. L. 99–83, § 118(1), inserted requirement respecting detailed justification of reasons for sale of sensitive articles or services.
 
-Subsec. (b)(5). Pub. L. 99–83, § 118(2), added par. (5).
+Subsec. (b)(5). Pub. L. 99–83, § 118(2), added par. (5).
 
-1981—Subsec. (a)(10). Pub. L. 97–113, § 109(d)(2), struck out par. (10) which required that Presidential report to Congress contain a listing (classified if necessary) of property valued at $1,000,000 or more which was leased, during the quarter for which a report was required, to a foreign government for a period of more than six months under section 2667 of title 10. See section 2796 et seq. of this title.
+1981—Subsec. (a)(10). Pub. L. 97–113, § 109(d)(2), struck out par. (10) which required that Presidential report to Congress contain a listing (classified if necessary) of property valued at $1,000,000 or more which was leased, during the quarter for which a report was required, to a foreign government for a period of more than six months under section 2667 of title 10. See section 2796 et seq. of this title.
 
-Subsec. (b)(1). Pub. L. 97–113, §§ 101(c), 102(b)(1), increased the certification requirement limits to $50,000,000 and $14,000,000 from $25,000,000 and $7,000,000 respecting offers to sell defense articles or services, and major defense equipment; and prescribed a fifteen-calendar-day period after receiving a certification for a concurrent resolution objecting to a proposed sale to the North Atlantic Treaty Organization, any member country of such Organization, Japan, Australia, or New Zealand, and made the existing thirty-calendar-day period applicable only with respect to a proposed sale to any other country or organization.
+Subsec. (b)(1). Pub. L. 97–113, §§ 101(c), 102(b)(1), increased the certification requirement limits to $50,000,000 and $14,000,000 from $25,000,000 and $7,000,000 respecting offers to sell defense articles or services, and major defense equipment; and prescribed a fifteen-calendar-day period after receiving a certification for a concurrent resolution objecting to a proposed sale to the North Atlantic Treaty Organization, any member country of such Organization, Japan, Australia, or New Zealand, and made the existing thirty-calendar-day period applicable only with respect to a proposed sale to any other country or organization.
 
-Subsec. (b)(2). Pub. L. 97–113, § 102(b)(2), authorized a motion in the Senate for the discharge of the committee to which a resolution respecting the North Atlantic Treaty Organization, any member country of such Organization, Japan, Australia, or New Zealand was referred for failure to report the resolution at end of five calendar days after its introduction.
+Subsec. (b)(2). Pub. L. 97–113, § 102(b)(2), authorized a motion in the Senate for the discharge of the committee to which a resolution respecting the North Atlantic Treaty Organization, any member country of such Organization, Japan, Australia, or New Zealand was referred for failure to report the resolution at end of five calendar days after its introduction.
 
-Subsec. (c)(1). Pub. L. 97–113, § 101(d), increased sales contract limits to $14,000,000 and $50,000,000 from $7,000,000 and $25,000,000 respecting sales of major defense equipment and defense articles or services.
+Subsec. (c)(1). Pub. L. 97–113, § 101(d), increased sales contract limits to $14,000,000 and $50,000,000 from $7,000,000 and $25,000,000 respecting sales of major defense equipment and defense articles or services.
 
-Subsec. (d). Pub. L. 97–113, § 101(e), substituted “subsection (c)(1)” for “subsection (c)”.
+Subsec. (d). Pub. L. 97–113, § 101(e), substituted “subsection (c)(1)” for “subsection (c)”.
 
-1980—Subsec. (a)(9), (10). Pub. L. 96–533, §§ 105(c), 109(f), added pars. (9) and (10).
+1980—Subsec. (a)(9), (10). Pub. L. 96–533, §§ 105(c), 109(f), added pars. (9) and (10).
 
-Subsec. (b)(1). Pub. L. 96–533, § 105(d), required certification respecting offer to sell any design and construction services for $200,000,000 or more, required such certification to contain the information specified in subsec. (a)(9)(A)–(D) of this section, required such certification to contain an item identifying the sensitivity of technology contained in the design and construction services, and made subpar. (A), (C), (E), (I)–(N) provisions applicable to design and construction services.
+Subsec. (b)(1). Pub. L. 96–533, § 105(d), required certification respecting offer to sell any design and construction services for $200,000,000 or more, required such certification to contain the information specified in subsec. (a)(9)(A)–(D) of this section, required such certification to contain an item identifying the sensitivity of technology contained in the design and construction services, and made subpar. (A), (C), (E), (I)–(N) provisions applicable to design and construction services.
 
-Subsec. (c). Pub. L. 96–533, § 107(b), designated existing provisions as par. (1), struck out “not less than 30 days” before “before issuing such license”, redesignated as cls. (A) to (C) former pars. (1) to (3), and substituted “clause (B)” and “clause (C)” for “paragraph (1)” and “paragraph (2)”, respectively, and added pars. (2) and (3).
+Subsec. (c). Pub. L. 96–533, § 107(b), designated existing provisions as par. (1), struck out “not less than 30 days” before “before issuing such license”, redesignated as cls. (A) to (C) former pars. (1) to (3), and substituted “clause (B)” and “clause (C)” for “paragraph (1)” and “paragraph (2)”, respectively, and added pars. (2) and (3).
 
-1979—Subsec. (a). Pub. L. 96–92, § 19(a), increased to sixty from thirty days the period for submission of the President’s report at end of each quarter and struck out par. (9) which required that the report contain an analysis and description of the services of Federal personnel under provisions relating to sales from stock, including numbers employed.
+1979—Subsec. (a). Pub. L. 96–92, § 19(a), increased to sixty from thirty days the period for submission of the President’s report at end of each quarter and struck out par. (9) which required that the report contain an analysis and description of the services of Federal personnel under provisions relating to sales from stock, including numbers employed.
 
-Subsec. (b)(1). Pub. L. 96–92, §§ 19(c), 20(b), required executive emergency justification statement and the numbered certifications to contain an item, classified if necessary, identifying the sensitivity of technology contained in the defense articles or defense services proposed to be sold.
+Subsec. (b)(1). Pub. L. 96–92, §§ 19(c), 20(b), required executive emergency justification statement and the numbered certifications to contain an item, classified if necessary, identifying the sensitivity of technology contained in the defense articles or defense services proposed to be sold.
 
-Subsec. (b)(4). Pub. L. 96–92, § 16(b), added par. (4).
+Subsec. (b)(4). Pub. L. 96–92, § 16(b), added par. (4).
 
 1978—Subsec. (b)(1)(D), (N) to (P). Pub. L. 95–384 in subpar. (D) substituted provisions requiring an evaluation relating to the proposed sale to be prepared by the Director of the Arms Control and Disarmament Agency in consultation with the Secretary of State and the Secretary of Defense for provisions requiring an analysis of the arms control impact pertinent to the offer to sell prepared in consultation with the Secretary of Defense and added subpars. (N) to (P).
 
-1976—Subsec. (a). Pub. L. 94–329, §§ 211(a), 604(a)(1), expanded existing provisions to provide for increased comprehensiveness of the quarterly reports on sales of defense articles or defense services, whether through governmental channels or commercial channels.
+1976—Subsec. (a). Pub. L. 94–329, §§ 211(a), 604(a)(1), expanded existing provisions to provide for increased comprehensiveness of the quarterly reports on sales of defense articles or defense services, whether through governmental channels or commercial channels.
 
-Subsec. (b). Pub. L. 94–329, §§ 211(a), 604(a)(2), increased from 20 days to 30 days the period allowed Congress to reject a proposed offer to sell defense articles or defense services and inserted provisions covering any major defense equipment for $7,000,000 or more, requiring additional information with respect to any letter of offer to sell defense articles or defense services if requested by Congress and requiring that a certification be transmitted pursuant to this subsection in unclassified form unless public disclosure would be detrimental to the United States.
+Subsec. (b). Pub. L. 94–329, §§ 211(a), 604(a)(2), increased from 20 days to 30 days the period allowed Congress to reject a proposed offer to sell defense articles or defense services and inserted provisions covering any major defense equipment for $7,000,000 or more, requiring additional information with respect to any letter of offer to sell defense articles or defense services if requested by Congress and requiring that a certification be transmitted pursuant to this subsection in unclassified form unless public disclosure would be detrimental to the United States.
 
-Subsec. (c). Pub. L. 94–329, § 211(a), substituted provisions relating to application by person for license for export of any major defense equipment sold and contracted for $7,000,000 or more or defense articles or defense services for $25,000,000 or more, requiring the President to transmit to Congress an unclassified numbered certification with respect to such application, for provisions construing this section as not modifying in any way section 1934 of this title.
+Subsec. (c). Pub. L. 94–329, § 211(a), substituted provisions relating to application by person for license for export of any major defense equipment sold and contracted for $7,000,000 or more or defense articles or defense services for $25,000,000 or more, requiring the President to transmit to Congress an unclassified numbered certification with respect to such application, for provisions construing this section as not modifying in any way section 1934 of this title.
 
-Subsec. (d). Pub. L. 94–329, § 211(a), added subsec. (d).
+Subsec. (d). Pub. L. 94–329, § 211(a), added subsec. (d).
 
 1974—Subsecs. (a), (b). Pub. L. 93–559 added subsecs. (a) and (b).
 
@@ -3745,7 +3745,7 @@ Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. 
 
 **Effective Date of 1996 Amendments**
 
-Pub. L. 104–201, title X, § 1045(b), Sept. 23, 1996, 110 Stat. 2645, provided that: “Paragraph (12) of section 36(a) of the Arms Export Control Act [now 22 U.S.C. 2776(a)(11)], as added by subsection (a)(3), does not apply with respect to an agreement described in such paragraph entered into before the date of the enactment of this Act [Sept. 23, 1996].”
+Pub. L. 104–201, title X, § 1045(b), Sept. 23, 1996, 110 Stat. 2645, provided that: “Paragraph (12) of section 36(a) of the Arms Export Control Act [now 22 U.S.C. 2776(a)(11)], as added by subsection (a)(3), does not apply with respect to an agreement described in such paragraph entered into before the date of the enactment of this Act [Sept. 23, 1996].”
 
 Amendment by section 141(c), (d) of Pub. L. 104–164 applicable with respect to certifications required to be submitted on or after July 21, 1996, see section 141(f) of Pub. L. 104–164, set out as a note under section 2753 of this title.
 
@@ -3755,9 +3755,9 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–329, title II, § 211(b), June 30, 1976, 90 Stat. 744, provided that: “The amendment made by subsection (a) of this section [amending this section] shall apply with respect to letters of offer for which a certification is transmitted pursuant to section 36(b) of the Arms Export Control Act [subsec. (b) of this section] on or after the date of enactment of this Act [June 30, 1976] and to export licenses for which an application is filed under section 38 of such Act [section 2778 of this title] on or after such date.”
+Pub. L. 94–329, title II, § 211(b), June 30, 1976, 90 Stat. 744, provided that: “The amendment made by subsection (a) of this section [amending this section] shall apply with respect to letters of offer for which a certification is transmitted pursuant to section 36(b) of the Arms Export Control Act [subsec. (b) of this section] on or after the date of enactment of this Act [June 30, 1976] and to export licenses for which an application is filed under section 38 of such Act [section 2778 of this title] on or after such date.”
 
-Pub. L. 94–329, title VI, § 604(c), June 30, 1976, 90 Stat. 768, provided that: “The amendments made by this section [amending this section and enacting section 2779 of this title] shall take effect sixty days after the date of enactment of this Act [June 30, 1976].”
+Pub. L. 94–329, title VI, § 604(c), June 30, 1976, 90 Stat. 768, provided that: “The amendments made by this section [amending this section and enacting section 2779 of this title] shall take effect sixty days after the date of enactment of this Act [June 30, 1976].”
 
 **Effective Date**
 
@@ -3765,7 +3765,7 @@ Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a
 
 **Assessment of Israel’s Qualitative Military Edge Over Military Threats**
 
-Pub. L. 110–429, title II, § 201, Oct. 15, 2008, 122 Stat. 4843, as amended by Pub. L. 113–296, § 11(a), Dec. 19, 2014, 128 Stat. 4078, provided that:
+Pub. L. 110–429, title II, § 201, Oct. 15, 2008, 122 Stat. 4843, as amended by Pub. L. 113–296, § 11(a), Dec. 19, 2014, 128 Stat. 4078, provided that:
 
 > **“(a) Assessment Required.—** The President shall carry out an empirical and qualitative assessment on an ongoing basis of the extent to which Israel possesses a qualitative military edge over military threats to Israel. The assessment required under this subsection shall be sufficiently robust so as to facilitate comparability of data over concurrent years.
 
@@ -3797,7 +3797,7 @@ Pub. L. 110–429, title II, § 201, Oct. 15, 2008, 122 Stat. 4843, as amended
 
 **National Disclosure Policy for Sensitive Weapons Technology; Report to Congress**
 
-Pub. L. 96–92, § 20(a), Oct. 29, 1979, 93 Stat. 710, directed President to undertake a thorough review of interagency procedures and disclosure criteria used by United States in determining whether sensitive weapons technology will be transferred to other countries, and not later than Feb. 15, 1980 to transmit a report to Congress setting forth the results of such review, together with such recommendations as are necessary to improve the current disclosure system, prior to repeal by Pub. L. 97–113, title VII, § 734(a)(11), Dec. 29, 1981, 95 Stat. 1560.
+Pub. L. 96–92, § 20(a), Oct. 29, 1979, 93 Stat. 710, directed President to undertake a thorough review of interagency procedures and disclosure criteria used by United States in determining whether sensitive weapons technology will be transferred to other countries, and not later than Feb. 15, 1980 to transmit a report to Congress setting forth the results of such review, together with such recommendations as are necessary to improve the current disclosure system, prior to repeal by Pub. L. 97–113, title VII, § 734(a)(11), Dec. 29, 1981, 95 Stat. 1560.
 
 **Executive Documents**
 
@@ -3805,11 +3805,11 @@ Pub. L. 96–92, § 20(a), Oct. 29, 1979, 93 Stat. 710, directed President to 
 
 For delegation of certain functions of the President under this section, with certain conditions, see section 1(j)–(m) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16130, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
-### § 2776a. Repealed. Pub. L. 112–81, div. A, title X, § 1062(d)(4), Dec. 31, 2011, 125 Stat. 1585
+### § 2776a. Repealed. Pub. L. 112–81, div. A, title X, § 1062(d)(4), Dec. 31, 2011, 125 Stat. 1585
 
-Section, Pub. L. 109–364, div. A, title XII, § 1231, Oct. 17, 2006, 120 Stat. 2430; Pub. L. 110–181, div. A, title X, § 1063(c)(11), Jan. 28, 2008, 122 Stat. 323, required annual report on foreign sales of significant military equipment manufactured in the United States.
+Section, Pub. L. 109–364, div. A, title XII, § 1231, Oct. 17, 2006, 120 Stat. 2430; Pub. L. 110–181, div. A, title X, § 1063(c)(11), Jan. 28, 2008, 122 Stat. 323, required annual report on foreign sales of significant military equipment manufactured in the United States.
 
-### § 2777. Fiscal provisions relating to foreign military sales credits
+### § 2777. Fiscal provisions relating to foreign military sales credits
 
 **(a) Permissible uses of cash payments under sections 2761, 2762, 2763, and 2769**
 
@@ -3823,15 +3823,15 @@ Amounts received from foreign governments and international organizations as rep
 
 Notwithstanding the provisions of subsection (b), to the extent that any of the funds constituting the reserve under section 2764(c) of this title are paid out for a claim arising out of a loan guaranteed under section 2764 of this title, amounts received from a foreign government or international organization after the date of such payment, with respect to such claim, shall be credited to such reserve, shall be merged with the funds in such reserve, and shall be available for any purpose for which funds in such reserve are available.
 
-(Pub. L. 90–629, ch. 3, § 37, Oct. 22, 1968, 82 Stat. 1326; Pub. L. 93–189, § 25(11), Dec. 17, 1973, 87 Stat. 731; Pub. L. 96–533, title I, §§ 104(b), 105(e)(1), Dec. 16, 1980, 94 Stat. 3133, 3135.)
+(Pub. L. 90–629, ch. 3, § 37, Oct. 22, 1968, 82 Stat. 1326; Pub. L. 93–189, § 25(11), Dec. 17, 1973, 87 Stat. 731; Pub. L. 96–533, title I, §§ 104(b), 105(e)(1), Dec. 16, 1980, 94 Stat. 3133, 3135.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1980—Subsec. (a). Pub. L. 96–533, § 105(e)(1), inserted reference to section 2769 of this title.
+1980—Subsec. (a). Pub. L. 96–533, § 105(e)(1), inserted reference to section 2769 of this title.
 
-Subsec. (c). Pub. L. 96–533, § 104(b), added subsec. (c).
+Subsec. (c). Pub. L. 96–533, § 104(b), added subsec. (c).
 
 1973—Subsec. (b). Pub. L. 93–189 inserted provisions relating to indebtedness under section 2764(b) of this title and exclusions of portions of the sales proceeds required at the time of disposition as a reserve for payment of claims under guaranties issued under section 2764(b) of this title.
 
@@ -3841,7 +3841,7 @@ Subsec. (c). Pub. L. 96–533, § 104(b), added subsec. (c).
 
 Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a note under section 2751 of this title.
 
-### § 2778. Control of arms exports and imports
+### § 2778. Control of arms exports and imports
 
 **(a) Presidential control of exports and imports of defense articles and services, guidance of policy, etc.; designation of United States Munitions List; issuance of export licenses; negotiations information**
 
@@ -3897,13 +3897,13 @@ Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a
 
 Any person who willfully violates any provision of this section, section 2779 of this title, a treaty referred to in subsection (j)(1)(C)(i), or any rule or regulation issued under this section or section 2779 of this title, including any rule or regulation issued to implement or enforce a treaty referred to in subsection (j)(1)(C)(i) or an implementing arrangement pursuant to such treaty, or who willfully, in a registration or license application or required report, makes any untrue statement of a material fact or omits to state a material fact required to be stated therein or necessary to make the statements therein not misleading, shall upon conviction be fined for each violation not more than $1,000,000 or imprisoned not more than 20 years, or both.
 
-**(d) Repealed. Pub. L. 96–70, title III, § 3303(a)(4), Sept. 27, 1979, 93 Stat. 499**
+**(d) Repealed. Pub. L. 96–70, title III, § 3303(a)(4), Sept. 27, 1979, 93 Stat. 499**
 
 **(e) Enforcement powers of President**
 
-In carrying out functions under this section with respect to the export of defense articles and defense services, including defense articles and defense services exported or imported pursuant to a treaty referred to in subsection (j)(1)(C)(i), the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies and officials by subsections (c) and (d) of section 1760 of the Export Control Reform Act of 2018 (50 U.S.C. 4819), and by subsections (a)(1), (a)(2), (a)(3), (a)(4), (a)(7), (c), and (h) of section 1761 of such Act (50 U.S.C. 4820), subject to the same terms and conditions as are applicable to such powers under such Act, except that section 1760(c)(2) of such Act (50 U.S.C. 4819(c)(2)) shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that the names of the countries and the types and quantities of defense articles for which licenses are issued under this section shall not be withheld from public disclosure unless the President determines that the release of such information would be contrary to the national interest. Nothing in this subsection shall be construed as authorizing the withholding of information from the Congress. Notwithstanding section section 1
+In carrying out functions under this section with respect to the export of defense articles and defense services, including defense articles and defense services exported or imported pursuant to a treaty referred to in subsection (j)(1)(C)(i), the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies and officials by subsections (c) and (d) of section 1760 of the Export Control Reform Act of 2018 (50 U.S.C. 4819), and by subsections (a)(1), (a)(2), (a)(3), (a)(4), (a)(7), (c), and (h) of section 1761 of such Act (50 U.S.C. 4820), subject to the same terms and conditions as are applicable to such powers under such Act, except that section 1760(c)(2) of such Act (50 U.S.C. 4819(c)(2)) shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that the names of the countries and the types and quantities of defense articles for which licenses are issued under this section shall not be withheld from public disclosure unless the President determines that the release of such information would be contrary to the national interest. Nothing in this subsection shall be construed as authorizing the withholding of information from the Congress. Notwithstanding section section 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 1760(c) of the Export Control Reform Act of 2018 (50 U.S.C. 4819(c)), the civil penalty for each violation involving controls imposed on the export of defense articles and defense services under this section may not exceed the greater of $1,200,000 or the amount that is twice the value of the transaction that is the basis of the violation with respect to which the penalty is imposed..1
 
@@ -3955,7 +3955,7 @@ In carrying out functions under this section with respect to the export of defen
 
 **(ii)** section 11 of the Export Administration Act of 1979 (50 U.S.C. App. 2410),2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 **(iii)** section 793, 794, or 798 of title 18 (relating to espionage involving defense or classified information) or section 2339A of such title (relating to providing material support to terrorists),
 
@@ -4269,7 +4269,7 @@ Any exemption described in paragraph (2) shall terminate on the date that is 15 
 
 The Secretary of State may renew such exemption for 5 years upon a certification to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives that such exemption is in the vital national interest of the United States with a detailed justification for such certification.
 
-(Pub. L. 90–629, ch. 3, § 38, as added Pub. L. 94–329, title II, § 212(a)(1), June 30, 1976, 90 Stat. 744; amended Pub. L. 95–92, § 20, Aug. 4, 1977, 91 Stat. 623; Pub. L. 96–70, title III, § 3303(a)(4), Sept. 27, 1979, 93 Stat. 499; Pub. L. 96–72, § 22(a), Sept. 29, 1979, 93 Stat. 535; Pub. L. 96–92, § 21, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, § 107(a), (c), Dec. 16, 1980, 94 Stat. 3136; Pub. L. 97–113, title I, §§ 106, 107, Dec. 29, 1981, 95 Stat. 1522; Pub. L. 99–64, title I, § 123(a), July 12, 1985, 99 Stat. 156; Pub. L. 99–83, title I, § 119(a), (b), Aug. 8, 1985, 99 Stat. 203, 204; Pub. L. 100–202, § 101(b) [title VIII, § 8142(a)], Dec. 22, 1987, 101 Stat. 1329–43, 1329–88; Pub. L. 100–204, title XII, § 1255, Dec. 22, 1987, 101 Stat. 1429; Pub. L. 101–222, §§ 3(a), 6, Dec. 12, 1989, 103 Stat. 1896, 1899; Pub. L. 103–236, title VII, § 714(a)(1), Apr. 30, 1994, 108 Stat. 497; Pub. L. 104–164, title I, §§ 151(a), 156, July 21, 1996, 110 Stat. 1437, 1440; Pub. L. 105–277, div. G, subdiv. A, title XII, § 1225(a)(2), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XIII, §§ 1302(a), 1303, 1304], Nov. 29, 1999, 113 Stat. 1536, 1501A–510, 1501A–511; Pub. L. 106–280, title I, § 102(a), (b), Oct. 6, 2000, 114 Stat. 846, 848; Pub. L. 107–228, div. B, title XIV, § 1406, Sept. 30, 2002, 116 Stat. 1458; Pub. L. 108–458, title VI, § 6910, Dec. 17, 2004, 118 Stat. 3774; Pub. L. 111–195, title I, § 107(a)(2), July 1, 2010, 124 Stat. 1337; Pub. L. 111–266, title I, §§ 102(b)–103(c), Oct. 8, 2010, 124 Stat. 2797, 2799; Pub. L. 113–276, title II, §§ 204, 205, 208(a)(1), (3), (b)(1)(A), Dec. 18, 2014, 128 Stat. 2990–2993; Pub. L. 117–263, div. I, title XCVII, § 9708, Dec. 23, 2022, 136 Stat. 3918; Pub. L. 118–31, div. A, title XIII, §§ 1343(a), 1345(a), Dec. 22, 2023, 137 Stat. 510, 514; Pub. L. 119–60, div. A, title X, § 1085(b), Dec. 18, 2025, 139 Stat. 1054.)
+(Pub. L. 90–629, ch. 3, § 38, as added Pub. L. 94–329, title II, § 212(a)(1), June 30, 1976, 90 Stat. 744; amended Pub. L. 95–92, § 20, Aug. 4, 1977, 91 Stat. 623; Pub. L. 96–70, title III, § 3303(a)(4), Sept. 27, 1979, 93 Stat. 499; Pub. L. 96–72, § 22(a), Sept. 29, 1979, 93 Stat. 535; Pub. L. 96–92, § 21, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, § 107(a), (c), Dec. 16, 1980, 94 Stat. 3136; Pub. L. 97–113, title I, §§ 106, 107, Dec. 29, 1981, 95 Stat. 1522; Pub. L. 99–64, title I, § 123(a), July 12, 1985, 99 Stat. 156; Pub. L. 99–83, title I, § 119(a), (b), Aug. 8, 1985, 99 Stat. 203, 204; Pub. L. 100–202, § 101(b) [title VIII, § 8142(a)], Dec. 22, 1987, 101 Stat. 1329–43, 1329–88; Pub. L. 100–204, title XII, § 1255, Dec. 22, 1987, 101 Stat. 1429; Pub. L. 101–222, §§ 3(a), 6, Dec. 12, 1989, 103 Stat. 1896, 1899; Pub. L. 103–236, title VII, § 714(a)(1), Apr. 30, 1994, 108 Stat. 497; Pub. L. 104–164, title I, §§ 151(a), 156, July 21, 1996, 110 Stat. 1437, 1440; Pub. L. 105–277, div. G, subdiv. A, title XII, § 1225(a)(2), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XIII, §§ 1302(a), 1303, 1304], Nov. 29, 1999, 113 Stat. 1536, 1501A–510, 1501A–511; Pub. L. 106–280, title I, § 102(a), (b), Oct. 6, 2000, 114 Stat. 846, 848; Pub. L. 107–228, div. B, title XIV, § 1406, Sept. 30, 2002, 116 Stat. 1458; Pub. L. 108–458, title VI, § 6910, Dec. 17, 2004, 118 Stat. 3774; Pub. L. 111–195, title I, § 107(a)(2), July 1, 2010, 124 Stat. 1337; Pub. L. 111–266, title I, §§ 102(b)–103(c), Oct. 8, 2010, 124 Stat. 2797, 2799; Pub. L. 113–276, title II, §§ 204, 205, 208(a)(1), (3), (b)(1)(A), Dec. 18, 2014, 128 Stat. 2990–2993; Pub. L. 117–263, div. I, title XCVII, § 9708, Dec. 23, 2022, 136 Stat. 3918; Pub. L. 118–31, div. A, title XIII, §§ 1343(a), 1345(a), Dec. 22, 2023, 137 Stat. 510, 514; Pub. L. 119–60, div. A, title X, § 1085(b), Dec. 18, 2025, 139 Stat. 1054.)
 
 **Editorial Notes**
 
@@ -4277,109 +4277,109 @@ The Secretary of State may renew such exemption for 5 years upon a certification
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-Such Act, referred to in subsec. (e), means the Export Control Reform Act of 2018, subtitle B (§§ 1741–1781) of title XVII of div. A of Pub. L. 115–232, Aug. 13, 2018, 132 Stat. 2208, which is classified principally to chapter 58 (§ 4801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 50 and Tables.
+Such Act, referred to in subsec. (e), means the Export Control Reform Act of 2018, subtitle B (§§ 1741–1781) of title XVII of div. A of Pub. L. 115–232, Aug. 13, 2018, 132 Stat. 2208, which is classified principally to chapter 58 (§ 4801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 50 and Tables.
 
-Section 11 of the Export Administration Act of 1979, referred to in subsec. (g)(1)(A)(ii), was classified to section 2410 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 4610 of Title 50. Section 11 of the Act was subsequently repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions relating to penalties are covered generally in section 4819 of Title 50, as enacted by Pub. L. 115–232.
+Section 11 of the Export Administration Act of 1979, referred to in subsec. (g)(1)(A)(ii), was classified to section 2410 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 4610 of Title 50. Section 11 of the Act was subsequently repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions relating to penalties are covered generally in section 4819 of Title 50, as enacted by Pub. L. 115–232.
 
 Section 104 of the Foreign Corrupt Practices Act (15 U.S.C. 78dd–2), referred to in subsec. (g)(1)(A)(vi), probably means section 104 of the Foreign Corrupt Practices Act of 1977, which is classified to section 78dd–2 of Title 15, Commerce and Trade.
 
 Sections 3, 4, 5, and 6 of the Prevention of Terrorist Access to Destructive Weapons Act of 2004, referred to in subsec. (g)(1)(A)(xii), probably means sections 6903, 6904, 6905, and 6906, respectively, of Pub. L. 108–458, which enacted section 2332g of Title 18, Crimes and Criminal Procedure, amended sections 2122 and 2272 of Title 42, The Public Health and Welfare, and enacted sections 2332h and 175c of Title 18.
 
-The Immigration and Nationality Act, referred to in subsec. (g)(9)(C), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (g)(9)(C), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
-The International Emergency Economic Powers Act, referred to in subsec. (k)(3)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (k)(3)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 **Amendments**
 
-2025—Subsec. (*l*)(2). Pub. L. 119–60, § 1085(b)(1), inserted at end “The congressional notification requirements of subsections (c) and (d) of section 2776 of this title shall not apply with respect to the export or transfer of defense articles or defense services subject to the exemption described in this paragraph.”
+2025—Subsec. (*l*)(2). Pub. L. 119–60, § 1085(b)(1), inserted at end “The congressional notification requirements of subsections (c) and (d) of section 2776 of this title shall not apply with respect to the export or transfer of defense articles or defense services subject to the exemption described in this paragraph.”
 
-Subsec. (*l*)(7), (8). Pub. L. 119–60, § 1085(b)(2), (3), added par. (7) and redesignated former par. (7) as (8).
+Subsec. (*l*)(7), (8). Pub. L. 119–60, § 1085(b)(2), (3), added par. (7) and redesignated former par. (7) as (8).
 
-2023—Subsec. (f)(3). Pub. L. 118–31, § 1345(a), inserted “, the United Kingdom, or Australia” after “Canada”.
+2023—Subsec. (f)(3). Pub. L. 118–31, § 1345(a), inserted “, the United Kingdom, or Australia” after “Canada”.
 
-Subsec. (*l*). Pub. L. 118–31, § 1343(a), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 118–31, § 1343(a), added subsec. (*l*).
 
 2022—Subsec. (e). Pub. L. 117–263 substituted “subsections (c) and (d) of section 1760 of the Export Control Reform Act of 2018 (50 U.S.C. 4819), and by subsections (a)(1), (a)(2), (a)(3), (a)(4), (a)(7), (c), and (h) of section 1761 of such Act (50 U.S.C. 4820)” for “subsections (c), (d), (e), and (g) of section 11 of the Export Administration Act of 1979, and by subsections (a) and (c) of section 12 of such Act”, “1760(c)(2) of such Act (50 U.S.C. 4819(c)(2))” for “11(c)(2)(B) of such Act”, “section 1760(c) of the Export Control Reform Act of 2018 (50 U.S.C. 4819(c))” for “11(c) of the Export Administration Act of 1979”, and “the greater of $1,200,000 or the amount that is twice the value of the transaction that is the basis of the violation with respect to which the penalty is imposed.” for “$500,000”.
 
-2014—Subsec. (b)(1)(B), (C). Pub. L. 113–276, § 208(b)(1)(A)(i), redesignated subpar. (B) relating to review by Secretary of the Treasury of munitions control registrations as (C).
+2014—Subsec. (b)(1)(B), (C). Pub. L. 113–276, § 208(b)(1)(A)(i), redesignated subpar. (B) relating to review by Secretary of the Treasury of munitions control registrations as (C).
 
-Subsec. (f)(1). Pub. L. 113–276, § 208(a)(1), substituted “the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and” for “the Speaker of the House of Representatives and”.
+Subsec. (f)(1). Pub. L. 113–276, § 208(a)(1), substituted “the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and” for “the Speaker of the House of Representatives and”.
 
-Subsec. (f)(2). Pub. L. 113–276, § 208(a)(3), substituted “Foreign Affairs” for “International Relations” in introductory provisions.
+Subsec. (f)(2). Pub. L. 113–276, § 208(a)(3), substituted “Foreign Affairs” for “International Relations” in introductory provisions.
 
-Subsec. (f)(5). Pub. L. 113–276, § 205(a), added par. (5).
+Subsec. (f)(5). Pub. L. 113–276, § 205(a), added par. (5).
 
-Subsec. (f)(6). Pub. L. 113–276, § 205(b), added par. (6).
+Subsec. (f)(6). Pub. L. 113–276, § 205(b), added par. (6).
 
-Subsec. (g)(1)(A)(xi). Pub. L. 113–276, § 208(b)(1)(A)(ii)(I), substituted “, or” for “; or”.
+Subsec. (g)(1)(A)(xi). Pub. L. 113–276, § 208(b)(1)(A)(ii)(I), substituted “, or” for “; or”.
 
-Subsec. (g)(1)(A)(xii). Pub. L. 113–276, § 208(b)(1)(A)(ii)(II), substituted “sections” for “section” and “(18 U.S.C. 175c)” for “(18 U.S.C. 175b)”.
+Subsec. (g)(1)(A)(xii). Pub. L. 113–276, § 208(b)(1)(A)(ii)(II), substituted “sections” for “section” and “(18 U.S.C. 175c)” for “(18 U.S.C. 175b)”.
 
-Subsec. (j)(2). Pub. L. 113–276, § 208(b)(1)(A)(iii), inserted “in” before “paragraph (1)” in introductory provisions.
+Subsec. (j)(2). Pub. L. 113–276, § 208(b)(1)(A)(iii), inserted “in” before “paragraph (1)” in introductory provisions.
 
-Subsec. (j)(3), (4)(B)(i). Pub. L. 113–276, § 208(a)(3), substituted “Foreign Affairs” for “International Relations”.
+Subsec. (j)(3), (4)(B)(i). Pub. L. 113–276, § 208(a)(3), substituted “Foreign Affairs” for “International Relations”.
 
-Subsec. (k). Pub. L. 113–276, § 204, added subsec. (k).
+Subsec. (k). Pub. L. 113–276, § 204, added subsec. (k).
 
-2010—Subsec. (c). Pub. L. 111–266, § 103(a), substituted “this section, section 2779 of this title, a treaty referred to in subsection (j)(1)(C)(i), or any rule or regulation issued under this section or section 2779 of this title, including any rule or regulation issued to implement or enforce a treaty referred to in subsection (j)(1)(C)(i) or an implementing arrangement pursuant to such treaty” for “this section or section 2779 of this title, or any rule or regulation issued under either section”.
+2010—Subsec. (c). Pub. L. 111–266, § 103(a), substituted “this section, section 2779 of this title, a treaty referred to in subsection (j)(1)(C)(i), or any rule or regulation issued under this section or section 2779 of this title, including any rule or regulation issued to implement or enforce a treaty referred to in subsection (j)(1)(C)(i) or an implementing arrangement pursuant to such treaty” for “this section or section 2779 of this title, or any rule or regulation issued under either section”.
 
 Pub. L. 111–195 substituted “20 years” for “ten years”.
 
-Subsec. (e). Pub. L. 111–266, § 103(b), substituted “defense services, including defense articles and defense services exported or imported pursuant to a treaty referred to in subsection (j)(1)(C)(i),” for “defense services,”.
+Subsec. (e). Pub. L. 111–266, § 103(b), substituted “defense services, including defense articles and defense services exported or imported pursuant to a treaty referred to in subsection (j)(1)(C)(i),” for “defense services,”.
 
-Subsec. (f)(4). Pub. L. 111–266, § 103(c), added par. (4).
+Subsec. (f)(4). Pub. L. 111–266, § 103(c), added par. (4).
 
-Subsec. (j)(1)(B). Pub. L. 111–266, § 102(b)(1), inserted “for Canada” after “Exception” in heading.
+Subsec. (j)(1)(B). Pub. L. 111–266, § 102(b)(1), inserted “for Canada” after “Exception” in heading.
 
-Subsec. (j)(1)(C). Pub. L. 111–266, § 102(b)(2), added subpar. (C).
+Subsec. (j)(1)(C). Pub. L. 111–266, § 102(b)(2), added subpar. (C).
 
 2004—Subsec. (g)(1)(A)(xii). Pub. L. 108–458 added cl. (xii).
 
 2002—Subsec. (f)(1). Pub. L. 107–228 substituted “The President may not remove any item from the Munitions List until 30 days after the date on which the President has provided notice of the proposed removal to the Committee on International Relations of the House of Representatives and to the Committee on Foreign Relations of the Senate in accordance with the procedures applicable to reprogramming notifications under section 2394–1(a) of this title. Such notice shall describe the nature of any controls to be imposed on that item under any other provision of law.” for “Such a report shall be submitted at least 30 days before any item is removed from the Munitions List and shall describe the nature of any controls to be imposed on that item under the Export Administration Act of 1979.”
 
-2000—Subsec. (f). Pub. L. 106–280, § 102(b), designated existing provisions as par. (1) and added pars. (2) and (3).
+2000—Subsec. (f). Pub. L. 106–280, § 102(b), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Subsec. (j). Pub. L. 106–280, § 102(a), added subsec. (j).
+Subsec. (j). Pub. L. 106–280, § 102(a), added subsec. (j).
 
-1999—Subsec. (e). Pub. L. 106–113, § 1000(a)(7) [title XIII, § 1303], in first sentence, inserted “section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that” after “except that”.
+1999—Subsec. (e). Pub. L. 106–113, § 1000(a)(7) [title XIII, § 1303], in first sentence, inserted “section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that” after “except that”.
 
-Subsec. (g)(1)(A)(iii). Pub. L. 106–113, § 1000(a)(7) [title XIII, § 1304], inserted “or section 2339A of such title (relating to providing material support to terrorists)” before comma at end.
+Subsec. (g)(1)(A)(iii). Pub. L. 106–113, § 1000(a)(7) [title XIII, § 1304], inserted “or section 2339A of such title (relating to providing material support to terrorists)” before comma at end.
 
-Subsec. (i). Pub. L. 106–113, § 1000(a)(7) [title XIII, § 1302(a)], added subsec. (i).
+Subsec. (i). Pub. L. 106–113, § 1000(a)(7) [title XIII, § 1302(a)], added subsec. (i).
 
 1998—Subsec. (a)(2). Pub. L. 105–277 substituted “take into account” for “be made in coordination with the Director of the United States Arms Control and Disarmament Agency, taking into account the Director’s assessment as to” and struck out at end “The Director of the Arms Control and Disarmament Agency is authorized, whenever the Director determines that the issuance of an export license under this section would be detrimental to the national security of the United States, to recommend to the President that such export license be disapproved.”
 
-1996—Subsec. (b)(1)(A). Pub. L. 104–164, § 151(a), designated existing provisions of subpar. (A) as cl. (i) and added cl. (ii).
+1996—Subsec. (b)(1)(A). Pub. L. 104–164, § 151(a), designated existing provisions of subpar. (A) as cl. (i) and added cl. (ii).
 
-Subsec. (e). Pub. L. 104–164, § 156, inserted before period at end of first sentence “, except that the names of the countries and the types and quantities of defense articles for which licenses are issued under this section shall not be withheld from public disclosure unless the President determines that the release of such information would be contrary to the national interest”.
+Subsec. (e). Pub. L. 104–164, § 156, inserted before period at end of first sentence “, except that the names of the countries and the types and quantities of defense articles for which licenses are issued under this section shall not be withheld from public disclosure unless the President determines that the release of such information would be contrary to the national interest”.
 
 1994—Subsec. (a)(2). Pub. L. 103–236 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Decisions on issuing export licenses under this section shall be made in coordination with the Director of the United States Arms Control and Disarmament Agency and shall take into account the Director’s opinion as to whether the export of an article will contribute to an arms race, support international terrorism, increase the possibility of outbreak or escalation of conflict, or prejudice the development of bilateral or multilateral arms control arrangements.”
 
-1989—Subsec. (a)(2). Pub. L. 101–222, § 3(a), inserted “support international terrorism,” after “arms race,”.
+1989—Subsec. (a)(2). Pub. L. 101–222, § 3(a), inserted “support international terrorism,” after “arms race,”.
 
-Subsec. (h). Pub. L. 101–222, § 6, added subsec. (h).
+Subsec. (h). Pub. L. 101–222, § 6, added subsec. (h).
 
-1987—Subsec. (b)(1). Pub. L. 100–204, § 1255(b), designated existing provisions as subpar. (A) and added subpar. (B) relating to review by Secretary of the Treasury of munitions control registrations.
+1987—Subsec. (b)(1). Pub. L. 100–204, § 1255(b), designated existing provisions as subpar. (A) and added subpar. (B) relating to review by Secretary of the Treasury of munitions control registrations.
 
 Pub. L. 100–202 designated existing provisions as subpar. (A) and added subpar. (B) relating to allowance of return to United States of certain military firearms, etc., under certain circumstances.
 
-Subsec. (b)(3). Pub. L. 100–204, § 1255(c), added par. (3).
+Subsec. (b)(3). Pub. L. 100–204, § 1255(c), added par. (3).
 
-Subsec. (g). Pub. L. 100–204, § 1255(a), added subsec. (g).
+Subsec. (g). Pub. L. 100–204, § 1255(a), added subsec. (g).
 
-1985—Subsec. (c). Pub. L. 99–83, § 119(a), inserted “for each violation” before “not more” and substituted “$1,000,000” for “$100,000” and “ten” for “two”.
+1985—Subsec. (c). Pub. L. 99–83, § 119(a), inserted “for each violation” before “not more” and substituted “$1,000,000” for “$100,000” and “ten” for “two”.
 
-Subsec. (e). Pub. L. 99–83, § 119(b), inserted provisions relating to civil penalty for each violation.
+Subsec. (e). Pub. L. 99–83, § 119(b), inserted provisions relating to civil penalty for each violation.
 
 Pub. L. 99–64 substituted “(g)” for “(f)”.
 
-1981—Subsec. (b)(3). Pub. L. 97–113, § 106, struck out par. (3) which placed a $100,000,000 ceiling on commercial arms exports of major defense equipment to all countries other than NATO countries, Japan, Australia, and New Zealand.
+1981—Subsec. (b)(3). Pub. L. 97–113, § 106, struck out par. (3) which placed a $100,000,000 ceiling on commercial arms exports of major defense equipment to all countries other than NATO countries, Japan, Australia, and New Zealand.
 
-Subsec. (f). Pub. L. 97–113, § 107, added subsec. (f).
+Subsec. (f). Pub. L. 97–113, § 107, added subsec. (f).
 
-1980—Subsec. (a)(3). Pub. L. 96–533, § 107(c), added par. (3).
+1980—Subsec. (a)(3). Pub. L. 96–533, § 107(c), added par. (3).
 
-Subsec. (b)(3). Pub. L. 96–533, § 107(a), increased the limitation in the sale of major defense equipment exports to $100,000,000 from $35,000,000.
+Subsec. (b)(3). Pub. L. 96–533, § 107(a), increased the limitation in the sale of major defense equipment exports to $100,000,000 from $35,000,000.
 
 1979—Subsec. (b)(3). Pub. L. 96–92 increased the limitation in the sale of major defense equipment exports to $35,000,000 from $25,000,000.
 
@@ -4393,7 +4393,7 @@ Subsec. (e). Pub. L. 96–72 substituted “subsections (c), (d), (e), and (f) o
 
 **Reference to Section 1934 of This Title Deemed Reference to This Section**
 
-Pub. L. 94–329, title II, § 212(b)(1), June 30, 1976, 90 Stat. 745, provided in part that: “Any reference to such section [section 1934 of this title] shall be deemed to be a reference to section 38 of the Arms Export Control Act [this section] and any reference to licenses issued under section 38 of the Arms Export Control Act [this section] shall be deemed to include a reference to licenses issued under section 414 of the Mutual Security Act of 1954.”
+Pub. L. 94–329, title II, § 212(b)(1), June 30, 1976, 90 Stat. 745, provided in part that: “Any reference to such section [section 1934 of this title] shall be deemed to be a reference to section 38 of the Arms Export Control Act [this section] and any reference to licenses issued under section 38 of the Arms Export Control Act [this section] shall be deemed to include a reference to licenses issued under section 414 of the Mutual Security Act of 1954.”
 
 **Change of Name**
 
@@ -4405,11 +4405,11 @@ Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. 
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–164, title I, § 151(b), July 21, 1996, 110 Stat. 1438, provided that: “Section 38(b)(1)(A)(ii) of the Arms Export Control Act, as added by subsection (a) [22 U.S.C. 2778(b)(1)(A)(ii)], shall apply with respect to brokering activities engaged in beginning on or after 120 days after the enactment of this Act [July 21, 1996].”
+Pub. L. 104–164, title I, § 151(b), July 21, 1996, 110 Stat. 1438, provided that: “Section 38(b)(1)(A)(ii) of the Arms Export Control Act, as added by subsection (a) [22 U.S.C. 2778(b)(1)(A)(ii)], shall apply with respect to brokering activities engaged in beginning on or after 120 days after the enactment of this Act [July 21, 1996].”
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–202, § 101(b) [title VIII, § 8142(b)], Dec. 22, 1987, 101 Stat. 1329–43, 1329–88, provided that:
+Pub. L. 100–202, § 101(b) [title VIII, § 8142(b)], Dec. 22, 1987, 101 Stat. 1329–43, 1329–88, provided that:
 
 > **“(1)** Except as provided in paragraphs (2) and (3), subparagraph (B) of section 38(b)(1) of the Arms Export Control Act [subsec. (b)(1)(B) of this section], as added by subsection (a), shall take effect at the end of the ninety-day period beginning on the date of the enactment of this Act [Dec. 22, 1987].
 
@@ -4423,21 +4423,21 @@ Pub. L. 100–202, § 101(b) [title VIII, § 8142(b)], Dec. 22, 1987, 101 St
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–83, title I, § 119(c), Aug. 8, 1985, 99 Stat. 204, provided that: “This section [amending this section] shall take effect upon the date of enactment of this Act [Aug. 8, 1985] or October 1, 1985, whichever is later. The amendments made by this section apply with respect to violations occurring after the effective date of this section.”
+Pub. L. 99–83, title I, § 119(c), Aug. 8, 1985, 99 Stat. 204, provided that: “This section [amending this section] shall take effect upon the date of enactment of this Act [Aug. 8, 1985] or October 1, 1985, whichever is later. The amendments made by this section apply with respect to violations occurring after the effective date of this section.”
 
 **Effective Date of 1979 Amendments**
 
-Amendment by Pub. L. 96–72 effective upon the expiration of the Export Administration Act of 1969, which terminated on Sept. 30, 1979, or upon any prior date which the Congress by concurrent resolution or the President by proclamation designated, see Pub. L. 96–72, § 19(a), Sept. 29, 1979, 93 Stat. 535, which was classified to section 4621 of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+Amendment by Pub. L. 96–72 effective upon the expiration of the Export Administration Act of 1969, which terminated on Sept. 30, 1979, or upon any prior date which the Congress by concurrent resolution or the President by proclamation designated, see Pub. L. 96–72, § 19(a), Sept. 29, 1979, 93 Stat. 535, which was classified to section 4621 of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of this title.
 
 **Regulations**
 
-Pub. L. 111–266, title I, § 106, Oct. 8, 2010, 124 Stat. 2802, provided that: “The President is authorized to issue regulations pursuant to the Arms Export Control Act (22 U.S.C. 2751 et seq.) to implement and enforce the Treaty Between the Government of the United States of America and the Government of the United Kingdom of Great Britain and Northern Ireland Concerning Defense Trade Cooperation, done at Washington and London on June 21 and 26, 2007 (and any implementing arrangement thereto) and the Treaty Between the Government of the United States of America and the Government of Australia Concerning Defense Trade Cooperation, done at Sydney, September 5, 2007 (and any implementing arrangement thereto), consistent with other applicable provisions of the Arms Export Control Act, as amended by this Act [see Short Title of 2010 Amendment notes set out under section 2751 of this title], and with the terms of any resolution of advice and consent adopted by the Senate with respect to either treaty.”
+Pub. L. 111–266, title I, § 106, Oct. 8, 2010, 124 Stat. 2802, provided that: “The President is authorized to issue regulations pursuant to the Arms Export Control Act (22 U.S.C. 2751 et seq.) to implement and enforce the Treaty Between the Government of the United States of America and the Government of the United Kingdom of Great Britain and Northern Ireland Concerning Defense Trade Cooperation, done at Washington and London on June 21 and 26, 2007 (and any implementing arrangement thereto) and the Treaty Between the Government of the United States of America and the Government of Australia Concerning Defense Trade Cooperation, done at Sydney, September 5, 2007 (and any implementing arrangement thereto), consistent with other applicable provisions of the Arms Export Control Act, as amended by this Act [see Short Title of 2010 Amendment notes set out under section 2751 of this title], and with the terms of any resolution of advice and consent adopted by the Senate with respect to either treaty.”
 
 **Rule of Construction**
 
-Pub. L. 111–266, title I, § 107, Oct. 8, 2010, 124 Stat. 2802, provided that: “Nothing in this title [see section 101 of Pub. L. 111–266, set out as a Short Title of 2010 Amendment note under section 2751 of this title], the Treaty Between the Government of the United States of America and the Government of the United Kingdom of Great Britain and Northern Ireland Concerning Defense Trade Cooperation, done at Washington and London on June 21 and 26, 2007 (and any implementing arrangement thereto), the Treaty Between the Government of the United States of America and the Government of Australia Concerning Defense Trade Cooperation, done at Sydney, September 5, 2007 (and any implementing arrangement thereto), or in any regulation issued to implement either treaty, shall be construed to modify or supersede any provision of law or regulation other than the Arms Export Control Act (22 U.S.C. 2751 et seq.), as amended by this Act [see Short Title of 2010 Amendment notes set out under section 2751 of this title], and the International Traffic in Arms Regulations (subchapter M of chapter I of title 22, Code of Federal Regulations).”
+Pub. L. 111–266, title I, § 107, Oct. 8, 2010, 124 Stat. 2802, provided that: “Nothing in this title [see section 101 of Pub. L. 111–266, set out as a Short Title of 2010 Amendment note under section 2751 of this title], the Treaty Between the Government of the United States of America and the Government of the United Kingdom of Great Britain and Northern Ireland Concerning Defense Trade Cooperation, done at Washington and London on June 21 and 26, 2007 (and any implementing arrangement thereto), the Treaty Between the Government of the United States of America and the Government of Australia Concerning Defense Trade Cooperation, done at Sydney, September 5, 2007 (and any implementing arrangement thereto), or in any regulation issued to implement either treaty, shall be construed to modify or supersede any provision of law or regulation other than the Arms Export Control Act (22 U.S.C. 2751 et seq.), as amended by this Act [see Short Title of 2010 Amendment notes set out under section 2751 of this title], and the International Traffic in Arms Regulations (subchapter M of chapter I of title 22, Code of Federal Regulations).”
 
 **Review of Excluded Technology List**
 
@@ -4455,7 +4455,7 @@ Pub. L. 111–266, title I, § 107, Oct. 8, 2010, 124 Stat. 2802, provided tha
 
 **Reports**
 
-Pub. L. 118–31, div. A, title XIII, § 1343(b), Dec. 22, 2023, 137 Stat. 513, provided that:
+Pub. L. 118–31, div. A, title XIII, § 1343(b), Dec. 22, 2023, 137 Stat. 513, provided that:
 
 > **“(1) In general.—** Not later than one year after the date of the enactment of this Act [Dec. 22, 2023], and annually thereafter until no exemptions described in subsection (*l*)(2) of section 38 of the Arms Export Control Act (22 U.S.C. 2778), as added by subsection (a) of this section, remain in effect, the Secretary of State shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on the operation of exemptions described in such subsection (*l*)(2), including whether any changes to such exemptions are likely to be made in the coming year.
 
@@ -4465,7 +4465,7 @@ Pub. L. 118–31, div. A, title XIII, § 1343(b), Dec. 22, 2023, 137 Stat. 513
 
 **United States Munitions List Periodic Reviews**
 
-Pub. L. 118–31, div. A, title XIII, § 1345(b), Dec. 22, 2023, 137 Stat. 514, provided that:
+Pub. L. 118–31, div. A, title XIII, § 1345(b), Dec. 22, 2023, 137 Stat. 514, provided that:
 
 > **“(1) In general.—** The Secretary of State, acting through authority delegated by the President to carry out periodic reviews of items on the United States Munitions List under section 38(f) of the Arms Export Control Act (22 U.S.C. 2778(f)) and in coordination with the Secretary of Defense, the Secretary of Energy, the Secretary of Commerce, and the Director of the Office of Management and Budget, shall carry out such reviews not less frequently than every 3 years.
 
@@ -4483,7 +4483,7 @@ Pub. L. 118–31, div. A, title XIII, § 1345(b), Dec. 22, 2023, 137 Stat. 514
 
 **Satellites and Related Items**
 
-Pub. L. 112–239, div. A, title XII, subtitle E, Jan. 2, 2013, 126 Stat. 2018, as amended by Pub. L. 117–263, div. F, title LXVIII, § 6811(g), Dec. 23, 2022, 136 Stat. 3601, provided that:
+Pub. L. 112–239, div. A, title XII, subtitle E, Jan. 2, 2013, 126 Stat. 2018, as amended by Pub. L. 117–263, div. F, title LXVIII, § 6811(g), Dec. 23, 2022, 136 Stat. 3601, provided that:
 
 > **“SEC. 1261. REMOVAL OF SATELLITES AND RELATED ITEMS FROM THE UNITED STATES MUNITIONS LIST.**
 
@@ -4595,7 +4595,7 @@ Pub. L. 112–239, div. A, title XII, subtitle E, Jan. 2, 2013, 126 Stat. 2018, 
 
 **Limitation on Implementing Arrangements**
 
-Pub. L. 111–266, title I, § 105, Oct. 8, 2010, 124 Stat. 2800, provided that:
+Pub. L. 111–266, title I, § 105, Oct. 8, 2010, 124 Stat. 2800, provided that:
 
 > **“(a) In General.—** No amendment to an implementing arrangement concluded pursuant to a treaty referred to in section 38(j)(1)(C)(i) of the Arms Export Control Act, as added by this Act [22 U.S.C. 2778(j)(1)(C)(i)], shall enter into effect for the United States unless the Congress adopts, and there is enacted, legislation approving the entry into effect of that amendment for the United States.
 
@@ -4655,7 +4655,7 @@ Pub. L. 111–266, title I, § 105, Oct. 8, 2010, 124 Stat. 2800, provided tha
 
 **Information Management Priorities**
 
-Pub. L. 107–228, div. B, title XIV, § 1403, Sept. 30, 2002, 116 Stat. 1453, provided that:
+Pub. L. 107–228, div. B, title XIV, § 1403, Sept. 30, 2002, 116 Stat. 1453, provided that:
 
 > **“(a) Objective.—** The Secretary shall establish a secure, Internet-based system for the filing and review of applications for export of Munitions List items.
 
@@ -4681,7 +4681,7 @@ Pub. L. 107–228, div. B, title XIV, § 1403, Sept. 30, 2002, 116 Stat. 1453,
 
 **Effective Regulation of Satellite Export Activities**
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XIII, § 1309], Nov. 29, 1999, 113 Stat. 1536, 1501A–513, provided that:
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XIII, § 1309], Nov. 29, 1999, 113 Stat. 1536, 1501A–513, provided that:
 
 > **“(a) Licensing regime.—**
 
@@ -4713,7 +4713,7 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XIII, § 1309], Nov.
 
 **Proliferation and Export Controls**
 
-Pub. L. 106–65, div. A, title XIV, §§ 1402–1405, 1408–1412, Oct. 5, 1999, 113 Stat. 798–804, as amended by Pub. L. 106–398, § 1 [[div. A], title XII, § 1204], Oct. 30, 2000, 114 Stat. 1654, 1654A–325; Pub. L. 107–107, div. A, title X, § 1048(g)(8), Dec. 28, 2001, 115 Stat. 1228, provided that:
+Pub. L. 106–65, div. A, title XIV, §§ 1402–1405, 1408–1412, Oct. 5, 1999, 113 Stat. 798–804, as amended by Pub. L. 106–398, § 1 [[div. A], title XII, § 1204], Oct. 30, 2000, 114 Stat. 1654, 1654A–325; Pub. L. 107–107, div. A, title X, § 1048(g)(8), Dec. 28, 2001, 115 Stat. 1228, provided that:
 
 > **“SEC. 1402. ANNUAL REPORT ON TRANSFERS OF MILITARILY SENSITIVE TECHNOLOGY TO COUNTRIES AND ENTITIES OF CONCERN**
 
@@ -4921,7 +4921,7 @@ Pub. L. 106–65, div. A, title XIV, §§ 1402–1405, 1408–1412, Oct. 5, 19
 
 **Satellite Export Controls**
 
-Pub. L. 105–261, div. A, title XV, subtitle B, Oct. 17, 1998, 112 Stat. 2173, as amended by Pub. L. 105–277, div. C, title I, § 146(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 112–239, div. A, title XII, § 1261(a), Jan. 2, 2013, 126 Stat. 2018, provided that:
+Pub. L. 105–261, div. A, title XV, subtitle B, Oct. 17, 1998, 112 Stat. 2173, as amended by Pub. L. 105–277, div. C, title I, § 146(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 112–239, div. A, title XII, § 1261(a), Jan. 2, 2013, 126 Stat. 2018, provided that:
 
 > **“SEC. 1511. SENSE OF CONGRESS.**
 
@@ -4957,7 +4957,7 @@ Pub. L. 105–261, div. A, title XV, subtitle B, Oct. 17, 1998, 112 Stat. 2173, 
 
 > **“SEC. 1513. SATELLITE CONTROLS UNDER THE UNITED STATES MUNITIONS LIST.**
 
-> **“[(a)** Repealed. Pub. L. 112–239, div. A, title XII, § 1261(a)(1), Jan. 2, 2013, 126 Stat. 2018.]
+> **“[(a)** Repealed. Pub. L. 112–239, div. A, title XII, § 1261(a)(1), Jan. 2, 2013, 126 Stat. 2018.]
 
 > **“(b) Defense Trade Controls Registration Fees.—**
 
@@ -5059,9 +5059,9 @@ Pub. L. 105–261, div. A, title XV, subtitle B, Oct. 17, 1998, 112 Stat. 2173, 
 
 > “In this subtitle, the term ‘related items’ means the satellite fuel, ground support equipment, test equipment, payload adapter or interface hardware, replacement parts, and non-embedded solid propellant orbit transfer engines described in the report submitted to Congress by the Department of State on February 6, 1998, pursuant to section 38(f) of the Arms Export Control Act (22 U.S.C. 2778(f)).”
 
-[Pub. L. 105–277, div. C, title I, § 146(b), Oct. 21, 1998, 112 Stat. 2681–610, provided that:
+[Pub. L. 105–277, div. C, title I, § 146(b), Oct. 21, 1998, 112 Stat. 2681–610, provided that:
 
-> “The amendments made by this section [amending Pub. L. 105–261, § 1512, set out above] shall take effect on the later of—
+> “The amendments made by this section [amending Pub. L. 105–261, § 1512, set out above] shall take effect on the later of—
 
 > [“(1) the enactment of this Act [Oct. 21, 1998]; or
 
@@ -5075,7 +5075,7 @@ Pub. L. 105–261, div. A, title XV, subtitle B, Oct. 17, 1998, 112 Stat. 2173, 
 
 **Landmine Export Moratorium**
 
-Pub. L. 102–484, div. A, title XIII, § 1365, Oct. 23, 1992, 106 Stat. 2561, as amended by Pub. L. 103–160, div. A, title XI, § 1182(c)(3), title XIV, § 1423(c), Nov. 30, 1993, 107 Stat. 1772, 1832; Pub. L. 104–107, title V, § 558, Feb. 12, 1996, 110 Stat. 743; Pub. L. 104–208, div. A, title I, § 101(c) [title V, § 556], Sept. 30, 1996, 110 Stat. 3009–121, 3009–161; Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 553], Nov. 29, 1999, 113 Stat. 1535, 1501A–99; Pub. L. 107–115, title V, § 548, Jan. 10, 2002, 115 Stat. 2156; Pub. L. 110–161, div. J, title VI, § 634(j), Dec. 26, 2007, 121 Stat. 2329, provided that:
+Pub. L. 102–484, div. A, title XIII, § 1365, Oct. 23, 1992, 106 Stat. 2561, as amended by Pub. L. 103–160, div. A, title XI, § 1182(c)(3), title XIV, § 1423(c), Nov. 30, 1993, 107 Stat. 1772, 1832; Pub. L. 104–107, title V, § 558, Feb. 12, 1996, 110 Stat. 743; Pub. L. 104–208, div. A, title I, § 101(c) [title V, § 556], Sept. 30, 1996, 110 Stat. 3009–121, 3009–161; Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 553], Nov. 29, 1999, 113 Stat. 1535, 1501A–99; Pub. L. 107–115, title V, § 548, Jan. 10, 2002, 115 Stat. 2156; Pub. L. 110–161, div. J, title VI, § 634(j), Dec. 26, 2007, 121 Stat. 2329, provided that:
 
 > **“(a) Findings.—** The Congress makes the following findings:
 
@@ -5115,11 +5115,11 @@ Pub. L. 102–484, div. A, title XIII, § 1365, Oct. 23, 1992, 106 Stat. 2561,
 
 [Section 634(j) of title VI of div. J of Pub. L. 110–161, which directed the amendment of section 1365(c) of Pub. L. 102–484, set out above, by substituting “During the 22 year period beginning on October 23, 1992” for “During the 16 year period beginning on October 23, 1992” before the period at the end, was executed by making the substitution in the introductory provisions, to reflect the probable intent of Congress.]
 
-[Section 1000(a)(2) [title V, § 553] of div. B of Pub. L. 106–113, which directed the amendment of section 1365(c) of Pub. L. 102–484, set out above, by substituting “During the 11-year” for “During the five-year”, was executed by making the substitution for “During the eight-year”.]
+[Section 1000(a)(2) [title V, § 553] of div. B of Pub. L. 106–113, which directed the amendment of section 1365(c) of Pub. L. 102–484, set out above, by substituting “During the 11-year” for “During the five-year”, was executed by making the substitution for “During the eight-year”.]
 
 **Arms Transfers Restraint Policy for Middle East and Persian Gulf Region**
 
-Pub. L. 102–138, title IV, Oct. 28, 1991, 105 Stat. 718, as amended by Pub. L. 114–323, title VII, § 715(a)(2), Dec. 16, 2016, 130 Stat. 1946, provided that:
+Pub. L. 102–138, title IV, Oct. 28, 1991, 105 Stat. 718, as amended by Pub. L. 114–323, title VII, § 715(a)(2), Dec. 16, 2016, 130 Stat. 1946, provided that:
 
 > **“SEC. 401. FINDINGS.**
 
@@ -5235,13 +5235,13 @@ Pub. L. 102–138, title IV, Oct. 28, 1991, 105 Stat. 718, as amended by Pub. L.
 
 > **“[SEC. 404.**
 
-> Repealed. Pub. L. 114–323, title VII, § 715(a)(2), Dec. 16, 2016, 130 Stat. 1946.]
+> Repealed. Pub. L. 114–323, title VII, § 715(a)(2), Dec. 16, 2016, 130 Stat. 1946.]
 
 > **“SEC. 405. RELEVANT CONGRESSIONAL COMMITTEES DEFINED.**
 
 > “As used in this title, the term ‘relevant congressional committees’ means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.”
 
-[Ex. Ord. No. 12851, § 3, June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of this title, delegated to Secretary of State, in consultation with Secretary of Defense and other agencies, certification and reporting functions of the President under section 403 and former section 404 of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993, Public Law 102–138, set out above.]
+[Ex. Ord. No. 12851, § 3, June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of this title, delegated to Secretary of State, in consultation with Secretary of Defense and other agencies, certification and reporting functions of the President under section 403 and former section 404 of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993, Public Law 102–138, set out above.]
 
 [Memorandum of President of the United States, Dec. 27, 1991, 56 F.R. 1069, delegated to Secretary of State, in consultation with heads of other executive agencies and departments, certification and reporting obligations of the President under section 403 and former section 404 of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993, Public Law 102–138, set out above.]
 
@@ -5267,49 +5267,49 @@ Barack Obama.
 
 **Continuation of Export Control Regulations**
 
-Ex. Ord. No. 13222, § 3, Aug. 17, 2001, 66 F.R. 44025, listed in a table under section 1701 of Title 50, War and National Defense, provided that: “Provisions for administration of section 38(e) of the Arms Export Control Act (22 U.S.C. 2778(e)) may be made and shall continue in full force and effect until amended or revoked under the authority of section 203 of the Act (50 U.S.C. 1702). To the extent permitted by law, this order also shall constitute authority for the issuance and continuation in full force and effect of all rules and regulations by the President or his delegate, and all orders, licenses, and other forms of administrative actions issued, taken, or continued in effect pursuant thereto, relating to the administration of section 38(e).”
+Ex. Ord. No. 13222, § 3, Aug. 17, 2001, 66 F.R. 44025, listed in a table under section 1701 of Title 50, War and National Defense, provided that: “Provisions for administration of section 38(e) of the Arms Export Control Act (22 U.S.C. 2778(e)) may be made and shall continue in full force and effect until amended or revoked under the authority of section 203 of the Act (50 U.S.C. 1702). To the extent permitted by law, this order also shall constitute authority for the issuance and continuation in full force and effect of all rules and regulations by the President or his delegate, and all orders, licenses, and other forms of administrative actions issued, taken, or continued in effect pursuant thereto, relating to the administration of section 38(e).”
 
 Prior provisions relating to issuance and continued effect of rules, regulations, orders, licenses, and other forms of administrative action relating to administration of subsec. (e) of this section were contained in the following:
 
-Ex. Ord. No. 12924, § 3, Aug. 19, 1994, 59 F.R. 43437, listed in a table under section 1701 of Title 50, prior to revocation by Ex. Ord. No. 13206, § 1, Apr. 4, 2001, 66 F.R. 18397.
+Ex. Ord. No. 12924, § 3, Aug. 19, 1994, 59 F.R. 43437, listed in a table under section 1701 of Title 50, prior to revocation by Ex. Ord. No. 13206, § 1, Apr. 4, 2001, 66 F.R. 18397.
 
-Ex. Ord. No. 12923, § 3, June 30, 1994, 59 F.R. 34551, listed in a table under section 1701 of Title 50, prior to revocation by Ex. Ord. No. 12924, § 4, Aug. 19, 1994, 59 F.R. 43438.
+Ex. Ord. No. 12923, § 3, June 30, 1994, 59 F.R. 34551, listed in a table under section 1701 of Title 50, prior to revocation by Ex. Ord. No. 12924, § 4, Aug. 19, 1994, 59 F.R. 43438.
 
-Ex. Ord. No. 12867, § 3, Sept. 30, 1993, 58 F.R. 51747, listed in a table under section 1701 of Title 50.
+Ex. Ord. No. 12867, § 3, Sept. 30, 1993, 58 F.R. 51747, listed in a table under section 1701 of Title 50.
 
-Ex. Ord. No. 12730, § 3, Sept. 30, 1990, 55 F.R. 40373, listed in a table under section 1701 of Title 50, prior to revocation by Ex. Ord. No. 12867, Sept. 30, 1993, 58 F.R. 51747.
+Ex. Ord. No. 12730, § 3, Sept. 30, 1990, 55 F.R. 40373, listed in a table under section 1701 of Title 50, prior to revocation by Ex. Ord. No. 12867, Sept. 30, 1993, 58 F.R. 51747.
 
-Ex. Ord. No. 12525, § 3, July 12, 1985, 50 F.R. 28757, listed in a table under section 1701 of Title 50.
+Ex. Ord. No. 12525, § 3, July 12, 1985, 50 F.R. 28757, listed in a table under section 1701 of Title 50.
 
-Ex. Ord. No. 12470, § 3, Mar. 30, 1984, 49 F.R. 13099, listed in a table under section 1701 of Title 50, prior to revocation by Ex. Ord. No. 12525, July 12, 1985, 50 F.R. 28757.
+Ex. Ord. No. 12470, § 3, Mar. 30, 1984, 49 F.R. 13099, listed in a table under section 1701 of Title 50, prior to revocation by Ex. Ord. No. 12525, July 12, 1985, 50 F.R. 28757.
 
-Ex. Ord. No. 12451, § 3, Dec. 20, 1983, 48 F.R. 56563, listed in a table under section 1701 of Title 50.
+Ex. Ord. No. 12451, § 3, Dec. 20, 1983, 48 F.R. 56563, listed in a table under section 1701 of Title 50.
 
-Ex. Ord. No. 12444, § 3, Oct. 14, 1983, 48 F.R. 48215, listed in a table under section 1701 of Title 50, prior to revocation by Ex. Ord. No. 12451, Dec. 20, 1983, 48 F.R. 56563.
+Ex. Ord. No. 12444, § 3, Oct. 14, 1983, 48 F.R. 48215, listed in a table under section 1701 of Title 50, prior to revocation by Ex. Ord. No. 12451, Dec. 20, 1983, 48 F.R. 56563.
 
-### § 2778a. Exportation of uranium depleted in the isotope 235
+### § 2778a. Exportation of uranium depleted in the isotope 235
 
 Upon a finding that an export of uranium depleted in the isotope 235 is incorporated in defense articles or commodities solely to take advantage of high density or pyrophoric characteristics unrelated to its radioactivity, such exports shall be exempt from the provisions of the Atomic Energy Act of 1954 [42 U.S.C. 2011 et seq.] and of the Nuclear Non-Proliferation Act of 1978 [22 U.S.C. 3201 et seq.] when such exports are subject to the controls established under the Arms Export Control Act [22 U.S.C. 2751 et seq.] or the Export Administration Act of 1979.
 
-(Pub. L. 96–533, title I, § 110, Dec. 16, 1980, 94 Stat. 3138.)
+(Pub. L. 96–533, title I, § 110, Dec. 16, 1980, 94 Stat. 3138.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Atomic Energy Act of 1954, referred to in text, is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, referred to in text, is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
-The Nuclear Non-Proliferation Act of 1978, referred to in text, is Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, which is classified principally to chapter 47 (§ 3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
+The Nuclear Non-Proliferation Act of 1978, referred to in text, is Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, which is classified principally to chapter 47 (§ 3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
 
-The Arms Export Control Act, referred to in text, is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to this chapter (§ 2751 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in text, is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to this chapter (§ 2751 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The Export Administration Act of 1979, referred to in text, is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
+The Export Administration Act of 1979, referred to in text, is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
 
 **Codification**
 
 Section was enacted as part of the International Security and Development Cooperation Act of 1980, and not as part of the Arms Export Control Act which comprises this chapter.
 
-### § 2779. Fees of military sales agents
+### § 2779. Fees of military sales agents
 
 **(a) Adequate and timely reports to Secretary of State; maintenance of records** In accordance with such regulations as he may prescribe, the Secretary of State shall require adequate and timely reporting on political contributions, gifts, commissions and fees paid, or offered or agreed to be paid, by any person in connection with—
 
@@ -5335,7 +5335,7 @@ No such contribution, gift, commission, or fee may be included, in whole or in p
 
 **(2)** Access by an agency of the United States Government to records maintained under this section shall be on the same terms and conditions which govern the access by such agency to the books and records of the person concerned.
 
-(Pub. L. 90–629, ch. 3, § 39, as added Pub. L. 94–329, title VI, § 604(b), June 30, 1976, 90 Stat. 767; amended Pub. L. 96–533, title I, § 105(e)(2), Dec. 16, 1980, 94 Stat. 3135; Pub. L. 111–266, title I, § 104(e), Oct. 8, 2010, 124 Stat. 2800.)
+(Pub. L. 90–629, ch. 3, § 39, as added Pub. L. 94–329, title VI, § 604(b), June 30, 1976, 90 Stat. 767; amended Pub. L. 96–533, title I, § 105(e)(2), Dec. 16, 1980, 94 Stat. 3135; Pub. L. 111–266, title I, § 104(e), Oct. 8, 2010, 124 Stat. 2800.)
 
 **Editorial Notes**
 
@@ -5347,9 +5347,9 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 2010—Subsec. (a)(3). Pub. L. 111–266, which directed amendment of subsec. (a) by adding par. (3) at the end, was executed by adding par. (3) after par. (2) to reflect the probable intent of Congress.
 
-1980—Subsec. (a)(1). Pub. L. 96–533, § 105(e)(2)(A), inserted reference to sales of design and construction services under section 2769 of this title.
+1980—Subsec. (a)(1). Pub. L. 96–533, § 105(e)(2)(A), inserted reference to sales of design and construction services under section 2769 of this title.
 
-Subsec. (c). Pub. L. 96–533, § 105(e)(2)(B), inserted reference to section 2769 of this title.
+Subsec. (c). Pub. L. 96–533, § 105(e)(2)(B), inserted reference to section 2769 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5363,7 +5363,7 @@ Section effective 60 days after June 30, 1976, see section 604(c) of Pub. L. 94�
 
 For delegation of functions of the President under subsec. (b) of this section, with certain conditions, see section 1(*o*) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16130, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
-### § 2779a. Prohibition on incentive payments
+### § 2779a. Prohibition on incentive payments
 
 **(a) In general**
 
@@ -5375,11 +5375,11 @@ Any person who violates the provisions of this section shall be subject to the i
 
 **(c) Presidential authority**
 
-In the enforcement of this section, the President is authorized to exercise the same powers concerning violations and enforcement and imposition of civil penalties which are conferred upon departments, agencies and officials by subsections (c), (d), (e), and (f) of section 11 1
+In the enforcement of this section, the President is authorized to exercise the same powers concerning violations and enforcement and imposition of civil penalties which are conferred upon departments, agencies and officials by subsections (c), (d), (e), and (f) of section 11 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of the Export Administration Act of 1979, and section 12(a) 1 of such Act, subject to the same terms and conditions as are applicable to such powers under that Act, except that section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that notwithstanding section 11(c) of that Act, the civil penalty for each violation of this section may not exceed $500,000 or five times the amount of the prohibited incentive payment, whichever is greater.
+of the Export Administration Act of 1979, and section 12(a) 1 of such Act, subject to the same terms and conditions as are applicable to such powers under that Act, except that section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that notwithstanding section 11(c) of that Act, the civil penalty for each violation of this section may not exceed $500,000 or five times the amount of the prohibited incentive payment, whichever is greater.
 
 **(d) Definitions** For purposes of this section—
 
@@ -5397,7 +5397,7 @@ of the Export Administration Act of 1979, and section 12(a) 1 of such Act, sub
 
 **(ii)** owned or controlled in fact by individuals described in subparagraph (A) or by an entity described in clause (i).
 
-(Pub. L. 90–629, ch. 3, § 39A, as added Pub. L. 103–236, title VII, § 733, Apr. 30, 1994, 108 Stat. 504; amended Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, § 1246, title XIII, § 1303], Nov. 29, 1999, 113 Stat. 1536, 1501A–502, 1501A–511; Pub. L. 111–266, title I, § 103(d), Oct. 8, 2010, 124 Stat. 2799.)
+(Pub. L. 90–629, ch. 3, § 39A, as added Pub. L. 103–236, title VII, § 733, Apr. 30, 1994, 108 Stat. 504; amended Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, § 1246, title XIII, § 1303], Nov. 29, 1999, 113 Stat. 1536, 1501A–502, 1501A–511; Pub. L. 111–266, title I, § 103(d), Oct. 8, 2010, 124 Stat. 2799.)
 
 **Editorial Notes**
 
@@ -5405,17 +5405,17 @@ of the Export Administration Act of 1979, and section 12(a) 1 of such Act, sub
 
 This chapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The Export Administration Act of 1979, referred to in subsec. (c), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). Sections 11 and 12 of the Act were classified to sections 4610 and 4614, respectively, of Title 50 prior to repeal.
+The Export Administration Act of 1979, referred to in subsec. (c), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). Sections 11 and 12 of the Act were classified to sections 4610 and 4614, respectively, of Title 50 prior to repeal.
 
 **Amendments**
 
 2010—Subsec. (a). Pub. L. 111–266 inserted “or exported pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title” after “under this chapter”.
 
-1999—Subsec. (a). Pub. L. 106–113, § 1000(a)(7) [title XII, § 1246(a)], inserted “or licensed” after “sold” and “or export” after “sale”.
+1999—Subsec. (a). Pub. L. 106–113, § 1000(a)(7) [title XII, § 1246(a)], inserted “or licensed” after “sold” and “or export” after “sale”.
 
-Subsec. (c). Pub. L. 106–113, § 1000(a)(7) [title XIII, § 1303], inserted “section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that” after “except that”.
+Subsec. (c). Pub. L. 106–113, § 1000(a)(7) [title XIII, § 1303], inserted “section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that” after “except that”.
 
-Subsec. (d)(3)(B)(ii). Pub. L. 106–113, § 1000(a)(7) [title XII, § 1246(b)], inserted “or by an entity described in clause (i)” after “subparagraph (A)”.
+Subsec. (d)(3)(B)(ii). Pub. L. 106–113, § 1000(a)(7) [title XII, § 1246(b)], inserted “or by an entity described in clause (i)” after “subparagraph (A)”.
 
 **Executive Documents**
 
@@ -5423,7 +5423,7 @@ Subsec. (d)(3)(B)(ii). Pub. L. 106–113, § 1000(a)(7) [title XII, § 1246(
 
 Functions of President under this section delegated to Secretary of State by Memorandum of President of the United States, July 26, 1994, 59 F.R. 40205, set out as a note under section 2370a of this title.
 
-### § 2780. Transactions with countries supporting acts of international terrorism
+### § 2780. Transactions with countries supporting acts of international terrorism
 
 **(a) Prohibited transactions by United States Government** The following transactions by the United States Government are prohibited:
 
@@ -5549,17 +5549,17 @@ Any person who willfully violates this section shall be fined for each violation
 
 **(k) Civil penalties; enforcement**
 
-In the enforcement of this section, the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies, and officials by sections 11(c), 11(e), 11(g), and 12(a) 1
+In the enforcement of this section, the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies, and officials by sections 11(c), 11(e), 11(g), and 12(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Export Administration Act of 1979 (subject to the same terms and conditions as are applicable to such powers under that Act), except that section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that, notwithstanding section 11(c) of that Act, the civil penalty for each violation of this section may not exceed $500,000.
 
 **(l) Definitions** As used in this section—
 
-**(1)** the term “munitions item” means any item enumerated on the United States Munitions list 2
+**(1)** the term “munitions item” means any item enumerated on the United States Munitions list 2
 
-<sup>2</sup>  So in original. Probably should be capitalized.
+<sup>2</sup> So in original. Probably should be capitalized.
 
 (without regard to whether the item is imported into or exported from the United States);
 
@@ -5585,7 +5585,7 @@ with respect to that person’s actions while outside the United States;
 
 **(5)** the term “unsafeguarded special nuclear material” has the meaning given that term in section 6305(8) of this title.
 
-(Pub. L. 90–629, ch. 3, § 40, as added Pub. L. 99–399, title V, § 509(a), Aug. 27, 1986, 100 Stat. 874; amended Pub. L. 101–222, § 2(a), Dec. 12, 1989, 103 Stat. 1892; Pub. L. 102–138, title III, § 321, Oct. 28, 1991, 105 Stat. 710; Pub. L. 103–236, title VIII, § 822(a)(2), Apr. 30, 1994, 108 Stat. 511; Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XIII, § 1303], Nov. 29, 1999, 113 Stat. 1536, 1501A–511; Pub. L. 107–228, div. B, title XII, § 1204, Sept. 30, 2002, 116 Stat. 1427; Pub. L. 111–195, title I, § 107(a)(3), July 1, 2010, 124 Stat. 1337; Pub. L. 113–276, title II, § 208(a)(1), Dec. 18, 2014, 128 Stat. 2992.)
+(Pub. L. 90–629, ch. 3, § 40, as added Pub. L. 99–399, title V, § 509(a), Aug. 27, 1986, 100 Stat. 874; amended Pub. L. 101–222, § 2(a), Dec. 12, 1989, 103 Stat. 1892; Pub. L. 102–138, title III, § 321, Oct. 28, 1991, 105 Stat. 710; Pub. L. 103–236, title VIII, § 822(a)(2), Apr. 30, 1994, 108 Stat. 511; Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XIII, § 1303], Nov. 29, 1999, 113 Stat. 1536, 1501A–511; Pub. L. 107–228, div. B, title XII, § 1204, Sept. 30, 2002, 116 Stat. 1427; Pub. L. 111–195, title I, § 107(a)(3), July 1, 2010, 124 Stat. 1337; Pub. L. 113–276, title II, § 208(a)(1), Dec. 18, 2014, 128 Stat. 2992.)
 
 **Editorial Notes**
 
@@ -5593,15 +5593,15 @@ with respect to that person’s actions while outside the United States;
 
 This chapter, referred to in subsecs. (a)(1), (2), (i)(1), and (k), was in the original “this Act”, and this chapter, referred to in subsec. (i)(2), was in the original “the Arms Export Control Act”, both of which mean Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1), (2) and (i)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1), (2) and (i)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 Section 40(d) of the Arms Export Control Act, referred to in subsec. (f)(2)(A), is classified to subsec. (d) of this section.
 
-Paragraphs (3) through (7) of section 8066(c) of the Department of Defense Appropriations Act (as contained in Public Law 98–473), referred to in subsec. (f)(2)(B), is Pub. L. 98–473, title I, § 101(h) [title VIII, § 8066(c)(3)–(7)], Oct. 12, 1984, 98 Stat. 1904, 1936, 1937, which is not classified to the Code.
+Paragraphs (3) through (7) of section 8066(c) of the Department of Defense Appropriations Act (as contained in Public Law 98–473), referred to in subsec. (f)(2)(B), is Pub. L. 98–473, title I, § 101(h) [title VIII, § 8066(c)(3)–(7)], Oct. 12, 1984, 98 Stat. 1904, 1936, 1937, which is not classified to the Code.
 
-The National Security Act of 1947, referred to in subsec. (h), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (h), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
-The Export Administration Act of 1979, referred to in subsec. (k), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). Sections 11 and 12 of the Act were classified to sections 4610 and 4614, respectively, of Title 50 prior to repeal.
+The Export Administration Act of 1979, referred to in subsec. (k), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). Sections 11 and 12 of the Act were classified to sections 4610 and 4614, respectively, of Title 50 prior to repeal.
 
 **Amendments**
 
@@ -5609,15 +5609,15 @@ The Export Administration Act of 1979, referred to in subsec. (k), is Pub. L. 96
 
 2010—Subsec. (j). Pub. L. 111–195 substituted “20 years” for “10 years”.
 
-2002—Subsec. (d). Pub. L. 107–228 substituted “groups,” for “groups or” in second sentence and inserted before period at end “, or willfully aid or abet the efforts of an individual or group to use, develop, produce, stockpile, or otherwise acquire chemical, biological, or radiological weapons”.
+2002—Subsec. (d). Pub. L. 107–228 substituted “groups,” for “groups or” in second sentence and inserted before period at end “, or willfully aid or abet the efforts of an individual or group to use, develop, produce, stockpile, or otherwise acquire chemical, biological, or radiological weapons”.
 
 1999—Subsec. (k). Pub. L. 106–113 inserted “section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that” after “except that”.
 
-1994—Subsec. (d). Pub. L. 103–236, § 822(a)(2)(A), inserted at end “For purposes of this subsection, such acts shall include all activities that the Secretary determines willfully aid or abet the international proliferation of nuclear explosive devices to individuals or groups or willfully aid or abet an individual or groups in acquiring unsafeguarded special nuclear material.”
+1994—Subsec. (d). Pub. L. 103–236, § 822(a)(2)(A), inserted at end “For purposes of this subsection, such acts shall include all activities that the Secretary determines willfully aid or abet the international proliferation of nuclear explosive devices to individuals or groups or willfully aid or abet an individual or groups in acquiring unsafeguarded special nuclear material.”
 
-Subsec. (*l*). Pub. L. 103–236, § 822(a)(2)(B), amended subsec. (*l*) by striking “and” after the semicolon in par. (2), substituting a semicolon for the period at the end of par. (3), and adding pars. (4) and (5).
+Subsec. (*l*). Pub. L. 103–236, § 822(a)(2)(B), amended subsec. (*l*) by striking “and” after the semicolon in par. (2), substituting a semicolon for the period at the end of par. (3), and adding pars. (4) and (5).
 
-1991—Subsec. (f). Pub. L. 102–138, § 321, designated existing provisions as par. (1), redesignated former par. (1) as subpar. (A) and former subpars. (A) to (C) as cls. (i) to (iii), respectively, redesignated former par. (2) as subpar. (B) and former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added par. (2). So much of Pub. L. 102–138, § 321(1), as directed that subpar. (C) of former par. (2) be redesignated cl. (iii) of par. (1)(B), could not be executed because no such subpar. (C) had been enacted.
+1991—Subsec. (f). Pub. L. 102–138, § 321, designated existing provisions as par. (1), redesignated former par. (1) as subpar. (A) and former subpars. (A) to (C) as cls. (i) to (iii), respectively, redesignated former par. (2) as subpar. (B) and former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added par. (2). So much of Pub. L. 102–138, § 321(1), as directed that subpar. (C) of former par. (2) be redesignated cl. (iii) of par. (1)(B), could not be executed because no such subpar. (C) had been enacted.
 
 1989—Pub. L. 101–222 substituted “Transactions with” for “Exports to” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
@@ -5631,7 +5631,7 @@ Subsec. (*l*). Pub. L. 103–236, § 822(a)(2)(B), amended subsec. (*l*) by st
 
 Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
 
-### § 2781. Transactions with countries not fully cooperating with United States antiterrorism efforts
+### § 2781. Transactions with countries not fully cooperating with United States antiterrorism efforts
 
 **(a) Prohibited transactions**
 
@@ -5641,7 +5641,7 @@ No defense article or defense service may be sold or licensed for export under t
 
 The President may waive the prohibition set forth in subsection (a) with respect to a specific transaction if the President determines that the transaction is important to the national interests of the United States.
 
-(Pub. L. 90–629, ch. 3, § 40A, as added Pub. L. 104–132, title III, § 330, Apr. 24, 1996, 110 Stat. 1258.)
+(Pub. L. 90–629, ch. 3, § 40A, as added Pub. L. 104–132, title III, § 330, Apr. 24, 1996, 110 Stat. 1258.)
 
 **Editorial Notes**
 
@@ -5661,7 +5661,7 @@ For delegation of functions of the President under this section, see section 1(q
 
 ## SUBCHAPTER III–A—END-USE MONITORING OF DEFENSE ARTICLES AND DEFENSE SERVICES
 
-### § 2785. End-use monitoring of defense articles and defense services
+### § 2785. End-use monitoring of defense articles and defense services
 
 **(a) Establishment of monitoring program**
 
@@ -5693,7 +5693,7 @@ Not later than 6 months after July 21, 1996, and annually thereafter as a part o
 
 For purposes of this section, defense articles and defense services sold, leased, or exported under this chapter or the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) includes defense articles and defense services that are transferred to a third country or other third party.
 
-(Pub. L. 90–629, ch. 3A, § 40A, as added Pub. L. 104–164, title I, § 150(a), July 21, 1996, 110 Stat. 1436; amended Pub. L. 107–228, div. B, title XII, § 1205(b), Sept. 30, 2002, 116 Stat. 1428.)
+(Pub. L. 90–629, ch. 3A, § 40A, as added Pub. L. 104–164, title I, § 150(a), July 21, 1996, 110 Stat. 1436; amended Pub. L. 107–228, div. B, title XII, § 1205(b), Sept. 30, 2002, 116 Stat. 1428.)
 
 **Editorial Notes**
 
@@ -5701,7 +5701,7 @@ For purposes of this section, defense articles and defense services sold, leased
 
 This chapter, referred to in subsecs. (a)(1) and (d), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1) and (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1) and (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Codification**
 
@@ -5715,7 +5715,7 @@ Another section 40A of Pub. L. 90–629 is classified to section 2781 of this ti
 
 **Effective Date**
 
-Pub. L. 104–164, title I, § 150(b), July 21, 1996, 110 Stat. 1437, provided that: “Section 40A of the Arms Export Control Act, as added by subsection (a) [22 U.S.C. 2785], applies with respect to defense articles and defense services provided before or after the date of the enactment of this Act [July 21, 1996].”
+Pub. L. 104–164, title I, § 150(b), July 21, 1996, 110 Stat. 1437, provided that: “Section 40A of the Arms Export Control Act, as added by subsection (a) [22 U.S.C. 2785], applies with respect to defense articles and defense services provided before or after the date of the enactment of this Act [July 21, 1996].”
 
 **Executive Documents**
 
@@ -5725,7 +5725,7 @@ For delegation of functions of the President under this section, with certain co
 
 ## SUBCHAPTER IV—GENERAL, ADMINISTRATIVE, AND MISCELLANEOUS PROVISIONS
 
-### § 2791. General provisions
+### § 2791. General provisions
 
 **(a) Considerations in procurement outside United States**
 
@@ -5771,7 +5771,7 @@ Funds made available under this chapter may be used for procurement outside the 
 
 The President shall, to the maximum extent possible and consistent with the purposes of this chapter, use civilian contract personnel in any foreign country to perform defense services sold under this chapter.
 
-(Pub. L. 90–629, ch. 4, § 42, Oct. 22, 1968, 82 Stat. 1326; Pub. L. 92–226, pt. IV, § 401(e), (f), Feb. 7, 1972, 86 Stat. 33; Pub. L. 94–141, title I, § 150(b), Nov. 29, 1975, 89 Stat. 760; Pub. L. 94–329, title II, § 213, title VI, § 605(b), June 30, 1976, 90 Stat. 745, 768; Pub. L. 96–533, title I, § 105(e)(3), Dec. 16, 1980, 94 Stat. 3135; Pub. L. 97–392, § 2, Dec. 29, 1982, 96 Stat. 1963; Pub. L. 99–83, title I, § 115(b)(3), Aug. 8, 1985, 99 Stat. 201; Pub. L. 99–145, title XI, § 1102(a)(4), (5), Nov. 8, 1985, 99 Stat. 710; Pub. L. 99–661, div. A, title XIII, § 1342(e), Nov. 14, 1986, 100 Stat. 3991; Pub. L. 103–236, title VII, § 714(a)(2), Apr. 30, 1994, 108 Stat. 497; Pub. L. 105–277, div. G, subdiv. A, title XII, § 1225(a)(3), Oct. 21, 1998, 112 Stat. 2681–773.)
+(Pub. L. 90–629, ch. 4, § 42, Oct. 22, 1968, 82 Stat. 1326; Pub. L. 92–226, pt. IV, § 401(e), (f), Feb. 7, 1972, 86 Stat. 33; Pub. L. 94–141, title I, § 150(b), Nov. 29, 1975, 89 Stat. 760; Pub. L. 94–329, title II, § 213, title VI, § 605(b), June 30, 1976, 90 Stat. 745, 768; Pub. L. 96–533, title I, § 105(e)(3), Dec. 16, 1980, 94 Stat. 3135; Pub. L. 97–392, § 2, Dec. 29, 1982, 96 Stat. 1963; Pub. L. 99–83, title I, § 115(b)(3), Aug. 8, 1985, 99 Stat. 201; Pub. L. 99–145, title XI, § 1102(a)(4), (5), Nov. 8, 1985, 99 Stat. 710; Pub. L. 99–661, div. A, title XIII, § 1342(e), Nov. 14, 1986, 100 Stat. 3991; Pub. L. 103–236, title VII, § 714(a)(2), Apr. 30, 1994, 108 Stat. 497; Pub. L. 105–277, div. G, subdiv. A, title XII, § 1225(a)(3), Oct. 21, 1998, 112 Stat. 2681–773.)
 
 **Editorial Notes**
 
@@ -5781,7 +5781,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–277 struck out par. (1) designation, struck out “the assessment of the Director of the United States Arms Control and Disarmament Agency as to” after “, and (C)”, and struck out par. (2) which read as follows: “Any proposed sale made pursuant to this chapter shall be approved only after consultation with the Director of the United States Arms Control and Disarmament Agency. The Director of the Arms Control and Disarmament Agency is authorized, whenever the Director determines that a sale under this section would be detrimental to the national security of the United States, to recommend to the President that such sale be disapproved.”
+1998—Subsec. (a). Pub. L. 105–277 struck out par. (1) designation, struck out “the assessment of the Director of the United States Arms Control and Disarmament Agency as to” after “, and (C)”, and struck out par. (2) which read as follows: “Any proposed sale made pursuant to this chapter shall be approved only after consultation with the Director of the United States Arms Control and Disarmament Agency. The Director of the Arms Control and Disarmament Agency is authorized, whenever the Director determines that a sale under this section would be detrimental to the national security of the United States, to recommend to the President that such sale be disapproved.”
 
 1994—Subsec. (a). Pub. L. 103–236 designated existing provisions as par. (1), redesignated former cls. (1) to (3) as cls. (A) to (C), respectively, amended cl. (C) generally, and added par. (2). Prior to being amended generally, cl. (C) read as follows: “in coordination with the Director of the United States Arms Control and Disarmament Agency, the Director’s opinion as to the extent to which such sale might contribute to an arms race, or increase the possibility of outbreak or escalation of conflict, or prejudice the development of bilateral or multilateral arms control arrangements.”
 
@@ -5789,21 +5789,21 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 1985—Subsec. (e)(1), (3). Pub. L. 99–83 inserted reference to contracts under section 2767(d) of this title.
 
-Pub. L. 99–145, § 1102(a)(4), which enacted amendments similar to those provided in Pub. L. 99–83, was repealed. See 1986 Amendments note below and former section 1102(a)(5) of Pub. L. 99–145 set out as a Repeals; Effective Date note under section 2752 of this title.
+Pub. L. 99–145, § 1102(a)(4), which enacted amendments similar to those provided in Pub. L. 99–83, was repealed. See 1986 Amendments note below and former section 1102(a)(5) of Pub. L. 99–145 set out as a Repeals; Effective Date note under section 2752 of this title.
 
 1982—Subsecs. (d)(1), (e)(1), (3)(A). Pub. L. 97–392 substituted “2769 and 2770” for “and 2769”.
 
-1980—Subsecs. (d)(1), (e)(1), (3). Pub. L. 96–533, § 105(e)(3), inserted reference to section 2769 of this title.
+1980—Subsecs. (d)(1), (e)(1), (3). Pub. L. 96–533, § 105(e)(3), inserted reference to section 2769 of this title.
 
-1976—Subsec. (e). Pub. L. 94–329, § 213, added subsec. (e).
+1976—Subsec. (e). Pub. L. 94–329, § 213, added subsec. (e).
 
-Subsec. (f). Pub. L. 94–329, § 605(b), added subsec. (f).
+Subsec. (f). Pub. L. 94–329, § 605(b), added subsec. (f).
 
 1975—Subsec. (a)(3). Pub. L. 94–141 inserted provision relating to coordination with the Director of the United States Arms Control and Disarmament Agency.
 
-1972—Subsec. (a). Pub. L. 92–226, § 401(e), (f)(1), added cl. (3) and inserted “, subject to the provisions of subsection (b) of this section,” before “consideration shall also be given”, respectively.
+1972—Subsec. (a). Pub. L. 92–226, § 401(e), (f)(1), added cl. (3) and inserted “, subject to the provisions of subsection (b) of this section,” before “consideration shall also be given”, respectively.
 
-Subsecs. (b) to (d). Pub. L. 92–226, § 401(f)(2), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d).
+Subsecs. (b) to (d). Pub. L. 92–226, § 401(f)(2), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5825,7 +5825,7 @@ Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a
 
 For delegation of functions of the President under subsecs. (c) and (f) of this section, with certain conditions, see section 1(r) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16131, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
-### § 2792. Administrative expenses
+### § 2792. Administrative expenses
 
 **(a) Availability of funds**
 
@@ -5843,7 +5843,7 @@ Funds made available under other law for the operations of United States Governm
 
 Not more than $86,500 of the funds derived from charges for administrative services pursuant to section 2761(e)(1)(A) of this title may be used each fiscal year for official reception and representation expenses.
 
-(Pub. L. 90–629, ch. 4, § 43, Oct. 22, 1968, 82 Stat. 1327; Pub. L. 94–329, title II, § 214, June 30, 1976, 90 Stat. 746; Pub. L. 95–92, § 7(d), Aug. 4, 1977, 91 Stat. 617; Pub. L. 96–92, § 19(b), Oct. 29, 1979, 93 Stat. 709; Pub. L. 97–113, title VII, § 734(a)(10), Dec. 29, 1981, 95 Stat. 1560; Pub. L. 99–83, title I, § 120, Aug. 8, 1985, 99 Stat. 204; Pub. L. 101–165, title IX, § 9104(b)(1), Nov. 21, 1989, 103 Stat. 1152; Pub. L. 107–228, div. B, title XII, § 1203, Sept. 30, 2002, 116 Stat. 1427.)
+(Pub. L. 90–629, ch. 4, § 43, Oct. 22, 1968, 82 Stat. 1327; Pub. L. 94–329, title II, § 214, June 30, 1976, 90 Stat. 746; Pub. L. 95–92, § 7(d), Aug. 4, 1977, 91 Stat. 617; Pub. L. 96–92, § 19(b), Oct. 29, 1979, 93 Stat. 709; Pub. L. 97–113, title VII, § 734(a)(10), Dec. 29, 1981, 95 Stat. 1560; Pub. L. 99–83, title I, § 120, Aug. 8, 1985, 99 Stat. 204; Pub. L. 101–165, title IX, § 9104(b)(1), Nov. 21, 1989, 103 Stat. 1152; Pub. L. 107–228, div. B, title XII, § 1203, Sept. 30, 2002, 116 Stat. 1427.)
 
 **Editorial Notes**
 
@@ -5857,9 +5857,9 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this A
 
 1989—Subsec. (b)(3). Pub. L. 101–165 added par. (3).
 
-1985—Subsec. (b). Pub. L. 99–83, § 120(1), inserted “and official reception and representation expenses”.
+1985—Subsec. (b). Pub. L. 99–83, § 120(1), inserted “and official reception and representation expenses”.
 
-Subsec. (c). Pub. L. 99–83, § 120(2), added subsec. (c).
+Subsec. (c). Pub. L. 99–83, § 120(2), added subsec. (c).
 
 1981—Subsec. (c). Pub. L. 97–113 struck out subsec. (c) which required a Presidential report to Congress no later than Jan. 15 of each year containing analysis and description of Federal personnel arms export control services performed previous fiscal year. See section 2765(a)(6) of this title.
 
@@ -5879,11 +5879,11 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a note under section 2751 of this title.
 
-### § 2793. Other provisions unaffected
+### § 2793. Other provisions unaffected
 
 No provision of this chapter shall be construed as modifying in any way the provisions of the Atomic Energy Act of 1954, as amended [42 U.S.C. 2011 et seq.], or section 8677 of title 10.
 
-(Pub. L. 90–629, ch. 4, § 44, Oct. 22, 1968, 82 Stat. 1327; Pub. L. 115–232, div. A, title VIII, § 809(f), Aug. 13, 2018, 132 Stat. 1842.)
+(Pub. L. 90–629, ch. 4, § 44, Oct. 22, 1968, 82 Stat. 1327; Pub. L. 115–232, div. A, title VIII, § 809(f), Aug. 13, 2018, 132 Stat. 1842.)
 
 **Editorial Notes**
 
@@ -5891,7 +5891,7 @@ No provision of this chapter shall be construed as modifying in any way the prov
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The Atomic Energy Act of 1954, as amended, referred to in text, is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, as amended, referred to in text, is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 **Amendments**
 
@@ -5911,7 +5911,7 @@ Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a
 
 Except for laws specified in this section, other provisions inapplicable to this chapter without a specific reference thereto or to sales of defense articles and defense services under any Act, see section 45(c) of Pub. L. 90–629, set out as a note under section 2751 of this title.
 
-### § 2794. Definitions
+### § 2794. Definitions
 
 For purposes of this chapter, the term—
 
@@ -5955,7 +5955,7 @@ but does not include merchant vessels or (as defined by the Atomic Energy Act of
 
 **(11)** “Sales territory” means a country or group of countries to which a defense article or defense service is authorized to be reexported.
 
-(Pub. L. 90–629, ch. 4, § 47, as added Pub. L. 93–189, § 25(12), Dec. 17, 1973, 87 Stat. 731; amended Pub. L. 94–329, title II, § 215, June 30, 1976, 90 Stat. 746; Pub. L. 96–92, § 22, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, § 105(f), Dec. 16, 1980, 94 Stat. 3135; Pub. L. 99–83, title I, § 107(b), title XII, § 1211(b)(3), Aug. 8, 1985, 99 Stat. 197, 279; Pub. L. 104–164, title I, § 144, July 21, 1996, 110 Stat. 1434; Pub. L. 107–228, div. B, title XII, § 1202(b), title XIV, § 1405(a)(4), Sept. 30, 2002, 116 Stat. 1427, 1458; Pub. L. 113–276, title II, §§ 207, 208(b)(1)(B), Dec. 18, 2014, 128 Stat. 2992, 2993.)
+(Pub. L. 90–629, ch. 4, § 47, as added Pub. L. 93–189, § 25(12), Dec. 17, 1973, 87 Stat. 731; amended Pub. L. 94–329, title II, § 215, June 30, 1976, 90 Stat. 746; Pub. L. 96–92, § 22, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, § 105(f), Dec. 16, 1980, 94 Stat. 3135; Pub. L. 99–83, title I, § 107(b), title XII, § 1211(b)(3), Aug. 8, 1985, 99 Stat. 197, 279; Pub. L. 104–164, title I, § 144, July 21, 1996, 110 Stat. 1434; Pub. L. 107–228, div. B, title XII, § 1202(b), title XIV, § 1405(a)(4), Sept. 30, 2002, 116 Stat. 1427, 1458; Pub. L. 113–276, title II, §§ 207, 208(b)(1)(B), Dec. 18, 2014, 128 Stat. 2992, 2993.)
 
 **Editorial Notes**
 
@@ -5963,29 +5963,29 @@ but does not include merchant vessels or (as defined by the Atomic Energy Act of
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The Atomic Energy Act of 1954, referred to in par. (3), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, referred to in par. (3), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 **Amendments**
 
-2014—Par. (2). Pub. L. 113–276, § 208(b)(1)(B), substituted “2761(a) of this title,” for “2761(a) of this title,,” in introductory provisions.
+2014—Par. (2). Pub. L. 113–276, § 208(b)(1)(B), substituted “2761(a) of this title,” for “2761(a) of this title,,” in introductory provisions.
 
-Par. (3). Pub. L. 113–276, § 207(1), in introductory provisions, substituted “means, with respect to a sale or transfer by the United States under the authority of this chapter or any other foreign assistance or sales program of the United States—” for “includes—”.
+Par. (3). Pub. L. 113–276, § 207(1), in introductory provisions, substituted “means, with respect to a sale or transfer by the United States under the authority of this chapter or any other foreign assistance or sales program of the United States—” for “includes—”.
 
-Par. (4). Pub. L. 113–276, § 207(2), substituted “means, with respect to a sale or transfer by the United States under the authority of this chapter or any other foreign assistance or sales program of the United States,” for “includes”.
+Par. (4). Pub. L. 113–276, § 207(2), substituted “means, with respect to a sale or transfer by the United States under the authority of this chapter or any other foreign assistance or sales program of the United States,” for “includes”.
 
-2002—Par. (10). Pub. L. 107–228, § 1202(b), added par. (10).
+2002—Par. (10). Pub. L. 107–228, § 1202(b), added par. (10).
 
-Par. (11). Pub. L. 107–228, § 1405(a)(4), added par. (11).
+Par. (11). Pub. L. 107–228, § 1405(a)(4), added par. (11).
 
 1996—Par. (9). Pub. L. 104–164 added par. (9).
 
-1985—Par. (2). Pub. L. 99–83, § 107(b), inserted “, except as otherwise provided in section 2761(a) of this title,”.
+1985—Par. (2). Pub. L. 99–83, § 107(b), inserted “, except as otherwise provided in section 2761(a) of this title,”.
 
-Par. (6). Pub. L. 99–83, § 1211(b)(3), substituted “military” for “combat”.
+Par. (6). Pub. L. 99–83, § 1211(b)(3), substituted “military” for “combat”.
 
-1980—Par. (4). Pub. L. 96–533, § 105(f)(1), excluded from term “defense service” design and construction services under section 2769 of this title.
+1980—Par. (4). Pub. L. 96–533, § 105(f)(1), excluded from term “defense service” design and construction services under section 2769 of this title.
 
-Par. (8). Pub. L. 96–533, § 105(f)(2)–(4), added par. (8).
+Par. (8). Pub. L. 96–533, § 105(f)(2)–(4), added par. (8).
 
 1979—Par. (3). Pub. L. 96–92 defined “defense article” to include uranium depleted in the isotope 235 which is incorporated in defense articles solely to take advantage of high density or pyrophoric characteristics unrelated to radioactivity.
 
@@ -5999,7 +5999,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 ## SUBCHAPTER V—SPECIAL DEFENSE ACQUISITION FUND
 
-### § 2795. Fund
+### § 2795. Fund
 
 **(a) Establishment; purposes; special requirements and responsibilities; continuous orders for certain articles and services; articles for narcotics control purposes**
 
@@ -6027,7 +6027,7 @@ together with such funds as may be authorized and appropriated or otherwise made
 
 **(2)** Amounts in the Fund shall be available for obligation in any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
-(Pub. L. 90–629, ch. 5, § 51, as added Pub. L. 97–113, title I, § 108(a), Dec. 29, 1981, 95 Stat. 1522; amended Pub. L. 99–83, title I, § 121, Aug. 8, 1985, 99 Stat. 204; Pub. L. 99–139, § 1(a), Oct. 30, 1985, 99 Stat. 562; Pub. L. 99–433, title I, § 110(h)(1), Oct. 1, 1986, 100 Stat. 1004; Pub. L. 101–231, § 4, Dec. 13, 1989, 103 Stat. 1957; Pub. L. 104–164, title I, § 145(b), July 21, 1996, 110 Stat. 1434.)
+(Pub. L. 90–629, ch. 5, § 51, as added Pub. L. 97–113, title I, § 108(a), Dec. 29, 1981, 95 Stat. 1522; amended Pub. L. 99–83, title I, § 121, Aug. 8, 1985, 99 Stat. 204; Pub. L. 99–139, § 1(a), Oct. 30, 1985, 99 Stat. 562; Pub. L. 99–433, title I, § 110(h)(1), Oct. 1, 1986, 100 Stat. 1004; Pub. L. 101–231, § 4, Dec. 13, 1989, 103 Stat. 1957; Pub. L. 104–164, title I, § 145(b), July 21, 1996, 110 Stat. 1434.)
 
 **Editorial Notes**
 
@@ -6035,7 +6035,7 @@ together with such funds as may be authorized and appropriated or otherwise made
 
 This chapter, referred to in subsec. (a)(1) to (3), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (b)(3), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (b)(3), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Amendments**
 
@@ -6045,7 +6045,7 @@ The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (b)(3), is P
 
 1986—Subsec. (c)(1). Pub. L. 99–433 substituted “section 114(c)” for “section 138(g)”.
 
-1985—Subsec. (a)(3). Pub. L. 99–83, § 121(a), added par. (3).
+1985—Subsec. (a)(3). Pub. L. 99–83, § 121(a), added par. (3).
 
 Subsec. (b). Pub. L. 99–139 amended subsec. (b) generally, so as to read similar to how it read prior to the amendment by Pub. L. 99–83.
 
@@ -6055,11 +6055,11 @@ Pub. L. 99–83 amended subsec. (b) to read as follows: “The Fund shall consis
 
 **Effective Date of 1985 Amendments**
 
-Pub. L. 99–139, § 1(b), Oct. 30, 1985, 99 Stat. 562, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of October 1, 1985.”
+Pub. L. 99–139, § 1(b), Oct. 30, 1985, 99 Stat. 562, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of October 1, 1985.”
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
 
-### § 2795a. Use and transfer of items procured by Fund
+### § 2795a. Use and transfer of items procured by Fund
 
 **(a) Authorization**
 
@@ -6073,7 +6073,7 @@ The President may authorize the temporary use by the United States Armed Forces 
 
 Except as provided in subsection (b) of this section, the Fund may be used to pay for storage, maintenance, and other costs related to the preservation and preparation for transfer of defense articles and defense services acquired under this subchapter prior to their transfer, as well as the administrative costs of the Department of Defense incurred in the acquisition of such items to the extent not reimbursed pursuant to section 2792(b) of this title.
 
-(Pub. L. 90–629, ch. 5, § 52, as added Pub. L. 97–113, title I, § 108(a), Dec. 29, 1981, 95 Stat. 1523.)
+(Pub. L. 90–629, ch. 5, § 52, as added Pub. L. 97–113, title I, § 108(a), Dec. 29, 1981, 95 Stat. 1523.)
 
 **Editorial Notes**
 
@@ -6081,7 +6081,7 @@ Except as provided in subsection (b) of this section, the Fund may be used to pa
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Executive Documents**
 
@@ -6089,13 +6089,13 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–
 
 For delegation of functions of the President under subsec. (b) of this section, see section 1(s) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16131, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
-### § 2795b. Repealed. Pub. L. 104–164, title I, § 145(a), July 21, 1996, 110 Stat. 1434
+### § 2795b. Repealed. Pub. L. 104–164, title I, § 145(a), July 21, 1996, 110 Stat. 1434
 
-Section, Pub. L. 90–629, ch. 5, § 53, as added Pub. L. 97–113, title I, § 108(a), Dec. 29, 1981, 95 Stat. 1524; amended Pub. L. 99–433, title I, § 110(h)(2), Oct. 1, 1986, 100 Stat. 1004, directed President to submit annual report to Congress on acquisitions of defense articles and services under this subchapter and required report to include estimate of likely procurements to be made through Special Defense Acquisition Fund.
+Section, Pub. L. 90–629, ch. 5, § 53, as added Pub. L. 97–113, title I, § 108(a), Dec. 29, 1981, 95 Stat. 1524; amended Pub. L. 99–433, title I, § 110(h)(2), Oct. 1, 1986, 100 Stat. 1004, directed President to submit annual report to Congress on acquisitions of defense articles and services under this subchapter and required report to include estimate of likely procurements to be made through Special Defense Acquisition Fund.
 
 ## SUBCHAPTER VI—LEASES OF DEFENSE ARTICLES AND LOAN AUTHORITY FOR COOPERATIVE RESEARCH AND DEVELOPMENT PURPOSES
 
-### § 2796. Leasing authority
+### § 2796. Leasing authority
 
 **(a) Preconditions** The President may lease defense articles in the stocks of the Department of Defense to an eligible foreign country or international organization if—
 
@@ -6115,9 +6115,9 @@ The requirement of paragraph (4) shall not apply to leases entered into for purp
 
 **(A)** may be exercised only if the President submits to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate, in accordance with the regular notification procedures of those Committees, a detailed notification for each lease with respect to which the authority is exercised; and
 
-**(B)** may be exercised only during the fiscal year 1
+**(B)** may be exercised only during the fiscal year 1
 
-<sup>1</sup>  So in original. The words “the fiscal year” probably should not appear.
+<sup>1</sup> So in original. The words “the fiscal year” probably should not appear.
 
 the current fiscal year and only with respect to one country, unless the Congress hereafter provides otherwise.
 
@@ -6133,7 +6133,7 @@ The preceding sentence does not constitute authorization of appropriations for p
 
 Defense articles in the stocks of the Department of Defense may be leased or loaned to a foreign country or international organization only under the authority of this subchapter or chapter 2 of part II of the Foreign Assistance Act of 1961 [22 U.S.C. 2311 et seq.], and may not be leased to a foreign country or international organization under the authority of section 2667 of title 10.
 
-(Pub. L. 90–629, ch. 6, § 61, as added Pub. L. 97–113, title I, § 109(a), Dec. 29, 1981, 95 Stat. 1524; amended Pub. L. 99–500, § 147, Oct. 18, 1986, 100 Stat. 1783–351, and Pub. L. 99–591, § 147, Oct. 30, 1986, 100 Stat. 3341–354; Pub. L. 100–202, § 101(e) [title V, § 556], Dec. 22, 1987, 101 Stat. 1329–131, 1329–170; Pub. L. 100–461, title V, § 552, Oct. 1, 1988, 102 Stat. 2268–35; Pub. L. 101–167, title V, § 550, Nov. 21, 1989, 103 Stat. 1235; Pub. L. 101–513, title V, § 546, Nov. 5, 1990, 104 Stat. 2019; Pub. L. 102–145, § 118, as added Pub. L. 102–266, § 102, Apr. 1, 1992, 106 Stat. 93; Pub. L. 102–391, title V, § 544, Oct. 6, 1992, 106 Stat. 1672; Pub. L. 103–87, title V, § 524, Sept. 30, 1993, 107 Stat. 952; Pub. L. 103–236, title VII, § 731(e), Apr. 30, 1994, 108 Stat. 503; Pub. L. 103–306, title V, § 524, Aug. 23, 1994, 108 Stat. 1632; Pub. L. 104–107, title V, § 524, Feb. 12, 1996, 110 Stat. 729; Pub. L. 104–164, title I, §§ 146, 153(a), July 21, 1996, 110 Stat. 1434, 1440; Pub. L. 104–208, div. A, title I, § 101(c) [title V, § 524], Sept. 30, 1996, 110 Stat. 3009–121, 3009–149; Pub. L. 105–118, title V, § 524, Nov. 26, 1997, 111 Stat. 2412; Pub. L. 105–277, div. A, § 101(d) [title V, § 524], Oct. 21, 1998, 112 Stat. 2681–150, 2681–177; Pub. L. 107–228, div. B, title XII, § 1233, Sept. 30, 2002, 116 Stat. 1433.)
+(Pub. L. 90–629, ch. 6, § 61, as added Pub. L. 97–113, title I, § 109(a), Dec. 29, 1981, 95 Stat. 1524; amended Pub. L. 99–500, § 147, Oct. 18, 1986, 100 Stat. 1783–351, and Pub. L. 99–591, § 147, Oct. 30, 1986, 100 Stat. 3341–354; Pub. L. 100–202, § 101(e) [title V, § 556], Dec. 22, 1987, 101 Stat. 1329–131, 1329–170; Pub. L. 100–461, title V, § 552, Oct. 1, 1988, 102 Stat. 2268–35; Pub. L. 101–167, title V, § 550, Nov. 21, 1989, 103 Stat. 1235; Pub. L. 101–513, title V, § 546, Nov. 5, 1990, 104 Stat. 2019; Pub. L. 102–145, § 118, as added Pub. L. 102–266, § 102, Apr. 1, 1992, 106 Stat. 93; Pub. L. 102–391, title V, § 544, Oct. 6, 1992, 106 Stat. 1672; Pub. L. 103–87, title V, § 524, Sept. 30, 1993, 107 Stat. 952; Pub. L. 103–236, title VII, § 731(e), Apr. 30, 1994, 108 Stat. 503; Pub. L. 103–306, title V, § 524, Aug. 23, 1994, 108 Stat. 1632; Pub. L. 104–107, title V, § 524, Feb. 12, 1996, 110 Stat. 729; Pub. L. 104–164, title I, §§ 146, 153(a), July 21, 1996, 110 Stat. 1434, 1440; Pub. L. 104–208, div. A, title I, § 101(c) [title V, § 524], Sept. 30, 1996, 110 Stat. 3009–121, 3009–149; Pub. L. 105–118, title V, § 524, Nov. 26, 1997, 111 Stat. 2412; Pub. L. 105–277, div. A, § 101(d) [title V, § 524], Oct. 21, 1998, 112 Stat. 2681–150, 2681–177; Pub. L. 107–228, div. B, title XII, § 1233, Sept. 30, 2002, 116 Stat. 1433.)
 
 **Editorial Notes**
 
@@ -6141,11 +6141,11 @@ Defense articles in the stocks of the Department of Defense may be leased or loa
 
 This chapter, referred to in subsec. (a)(1), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (c), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 2 of part II of that Act is classified generally to part II (§ 2311 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (c), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 2 of part II of that Act is classified generally to part II (§ 2311 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Codification**
 
-Amendment by Pub. L. 102–145 is based on section 545 of H.R. 2621, One Hundred Second Congress, 1st Session, as passed by the House of Representatives on June 19, 1991, which was enacted into law by Pub. L. 102–145, § 118, as added by Pub. L. 102–266, § 102, Apr. 1, 1992, 106 Stat. 93. Section 118 of Pub. L. 102–145 provided that the authority and conditions provided in such section 545 shall be applicable to funds appropriated by Pub. L. 102–145 (and are hereby enacted) in lieu of the authority and conditions provided in section 546 of Pub. L. 101–513. See 1990, 1991, and 1992 Amendment notes below.
+Amendment by Pub. L. 102–145 is based on section 545 of H.R. 2621, One Hundred Second Congress, 1st Session, as passed by the House of Representatives on June 19, 1991, which was enacted into law by Pub. L. 102–145, § 118, as added by Pub. L. 102–266, § 102, Apr. 1, 1992, 106 Stat. 93. Section 118 of Pub. L. 102–145 provided that the authority and conditions provided in such section 545 shall be applicable to funds appropriated by Pub. L. 102–145 (and are hereby enacted) in lieu of the authority and conditions provided in section 546 of Pub. L. 101–513. See 1990, 1991, and 1992 Amendment notes below.
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
@@ -6157,13 +6157,13 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 1997—Subsec. (a). Pub. L. 105–118 substituted “1998” for “1997” in par. (B).
 
-1996—Subsec. (a). Pub. L. 104–164, § 153(a), struck out “, or to any defense article which has passed three-quarters of its normal service life.” after “electronics interface projects” in second sentence and inserted after second sentence “The President may waive the requirement of paragraph (4) for reimbursement of depreciation for any defense article which has passed three-quarters of its normal service life if the President determines that to do so is important to the national security interest of the United States.”
+1996—Subsec. (a). Pub. L. 104–164, § 153(a), struck out “, or to any defense article which has passed three-quarters of its normal service life.” after “electronics interface projects” in second sentence and inserted after second sentence “The President may waive the requirement of paragraph (4) for reimbursement of depreciation for any defense article which has passed three-quarters of its normal service life if the President determines that to do so is important to the national security interest of the United States.”
 
 Pub. L. 104–208 substituted “1997” for “1996” in par. (B).
 
 Pub. L. 104–107 substituted “1996” for “1995” in par. (B).
 
-Subsec. (a)(4). Pub. L. 104–164, § 146, substituted “and, if the articles are lost or destroyed while leased—
+Subsec. (a)(4). Pub. L. 104–164, § 146, substituted “and, if the articles are lost or destroyed while leased—
 
 “(A) in the event the United States intends to replace the articles lost or destroyed, the replacement cost (less any depreciation in the value) of the articles; or
 
@@ -6177,9 +6177,9 @@ Pub. L. 103–236 struck out “and” at end of par. (2), added par. (3), redes
 
 1992—Subsec. (a). Pub. L. 102–391 substituted “1993” for “1992” in par. (B).
 
-Pub. L. 102–266 added Pub. L. 102–145, § 118. See 1991 Amendment note below.
+Pub. L. 102–266 added Pub. L. 102–145, § 118. See 1991 Amendment note below.
 
-1991—Subsec. (a). Pub. L. 102–145, § 118, as added by Pub. L. 102–266, substituted “1992” for “1991” in par. (B). See Codification note above.
+1991—Subsec. (a). Pub. L. 102–145, § 118, as added by Pub. L. 102–266, substituted “1992” for “1991” in par. (B). See Codification note above.
 
 1990—Subsec. (a). Pub. L. 101–513 substituted “1991” for “1990” in par. (B).
 
@@ -6195,7 +6195,7 @@ Pub. L. 102–266 added Pub. L. 102–145, § 118. See 1991 Amendment note bel
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–164, title I, § 153(b), July 21, 1996, 110 Stat. 1440, provided that: “The third sentence of section 61(a) of the Arms Export Control Act, as added by subsection (a)(2) [22 U.S.C. 2796(a)], shall apply only with respect to a defense article leased on or after the date of the enactment of this Act [July 21, 1996].”
+Pub. L. 104–164, title I, § 153(b), July 21, 1996, 110 Stat. 1440, provided that: “The third sentence of section 61(a) of the Arms Export Control Act, as added by subsection (a)(2) [22 U.S.C. 2796(a)], shall apply only with respect to a defense article leased on or after the date of the enactment of this Act [July 21, 1996].”
 
 **Executive Documents**
 
@@ -6203,7 +6203,7 @@ Pub. L. 104–164, title I, § 153(b), July 21, 1996, 110 Stat. 1440, provided
 
 For delegation of functions of the President under this section, see section 1(t) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16131, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
-### § 2796a. Reports to Congress
+### § 2796a. Reports to Congress
 
 **(a) Written certification to Speaker of the House and chairmen of Congressional committees** Before entering into or renewing any agreement with a foreign country or international organization to lease any defense article under this subchapter, or to loan any defense article under chapter 2 of part II of the Foreign Assistance Act of 1961 [22 U.S.C. 2311 et seq.], for a period of one year or longer, the President shall transmit to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate and the chairman of the Committee on Armed Services of the Senate, a written certification which specifies—
 
@@ -6225,13 +6225,13 @@ The President may waive the requirements of this section (and in the case of an 
 
 **(2)** not less than 30 calendar days before the agreement is entered into or renewed in the case of an agreement with any other organization or country.
 
-(Pub. L. 90–629, ch. 6, § 62, as added Pub. L. 97–113, title I, § 109(a), Dec. 29, 1981, 95 Stat. 1525; amended Pub. L. 104–164, title I, § 141(e)(1), July 21, 1996, 110 Stat. 1432; Pub. L. 110–429, title II, § 203(b)(1), Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title III, § 301(1), Oct. 8, 2010, 124 Stat. 2804; Pub. L. 113–276, title II, § 208(a)(4), Dec. 18, 2014, 128 Stat. 2993.)
+(Pub. L. 90–629, ch. 6, § 62, as added Pub. L. 97–113, title I, § 109(a), Dec. 29, 1981, 95 Stat. 1525; amended Pub. L. 104–164, title I, § 141(e)(1), July 21, 1996, 110 Stat. 1432; Pub. L. 110–429, title II, § 203(b)(1), Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title III, § 301(1), Oct. 8, 2010, 124 Stat. 2804; Pub. L. 113–276, title II, § 208(a)(4), Dec. 18, 2014, 128 Stat. 2993.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 2 of part II of that Act is classified generally to part II (§ 2311 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 2 of part II of that Act is classified generally to part II (§ 2311 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 This chapter, referred to in subsec. (a)(4), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
@@ -6243,11 +6243,11 @@ This chapter, referred to in subsec. (a)(4), was in the original “this Act”,
 
 2008—Subsec. (c)(1). Pub. L. 110–429 inserted “the Republic of Korea,” before “or New Zealand”.
 
-1996—Subsec. (a). Pub. L. 104–164, § 141(e)(1)(A), substituted “Before” for “Not less than 30 days before”.
+1996—Subsec. (a). Pub. L. 104–164, § 141(e)(1)(A), substituted “Before” for “Not less than 30 days before”.
 
-Subsec. (b). Pub. L. 104–164, § 141(e)(1)(B), substituted “states in his certification” for “determines, and immediately reports to the Congress” and inserted at end “If the President states in his certification that such an emergency exists, he shall set forth in the certification a detailed justification for his determination, including a description of the emergency circumstances which necessitate that the lease be entered into immediately and a discussion of the national security interests involved.”
+Subsec. (b). Pub. L. 104–164, § 141(e)(1)(B), substituted “states in his certification” for “determines, and immediately reports to the Congress” and inserted at end “If the President states in his certification that such an emergency exists, he shall set forth in the certification a detailed justification for his determination, including a description of the emergency circumstances which necessitate that the lease be entered into immediately and a discussion of the national security interests involved.”
 
-Subsec. (c). Pub. L. 104–164, § 141(e)(1)(C), added subsec. (c).
+Subsec. (c). Pub. L. 104–164, § 141(e)(1)(C), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6261,7 +6261,7 @@ Amendment by Pub. L. 104–164 applicable with respect to certifications require
 
 For delegation of functions of the President under subsec. (a) of this section, see section 1(t) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16131, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
-### § 2796b. Legislative review procedures
+### § 2796b. Legislative review procedures
 
 **(a) Applicability**
 
@@ -6281,13 +6281,13 @@ Any joint resolution under subsection (a) shall be considered in the Senate in a
 
 For the purpose of expediting the consideration and enactment of joint resolutions under subsection (a), a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.
 
-(Pub. L. 90–629, ch. 6, § 63, as added Pub. L. 97–113, title I, § 109(a), Dec. 29, 1981, 95 Stat. 1525; amended Pub. L. 99–247, § 1(d), Feb. 12, 1986, 100 Stat. 9; Pub. L. 104–164, title I, § 141(e)(2), July 21, 1996, 110 Stat. 1433; Pub. L. 107–228, div. B, title XIV, § 1405(a)(3), Sept. 30, 2002, 116 Stat. 1457; Pub. L. 110–429, title II, § 203(b)(1), Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title III, § 301(1), Oct. 8, 2010, 124 Stat. 2804.)
+(Pub. L. 90–629, ch. 6, § 63, as added Pub. L. 97–113, title I, § 109(a), Dec. 29, 1981, 95 Stat. 1525; amended Pub. L. 99–247, § 1(d), Feb. 12, 1986, 100 Stat. 9; Pub. L. 104–164, title I, § 141(e)(2), July 21, 1996, 110 Stat. 1433; Pub. L. 107–228, div. B, title XIV, § 1405(a)(3), Sept. 30, 2002, 116 Stat. 1457; Pub. L. 110–429, title II, § 203(b)(1), Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title III, § 301(1), Oct. 8, 2010, 124 Stat. 2804.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 2 of part II of that Act is classified generally to part II (§ 2311 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 2 of part II of that Act is classified generally to part II (§ 2311 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (b), is section 601(b) of Pub. L. 94–329, June 30, 1976, 90 Stat. 765, which made provision for expedited procedures in the Senate, and was not classified to the Code.
 
@@ -6301,11 +6301,11 @@ Section 601(b) of the International Security Assistance and Arms Export Control 
 
 1996—Subsec. (a). Pub. L. 104–164 redesignated par. (1) as entire subsec. (a), substituted “the 15-day or 30-day period specified in section 2796a(c)(1) or (2) of this title, as the case may be” for “30 calendar days after receiving the certification with respect to that proposed agreement pursuant to section 2796a(a) of this title”, and struck out par. (2) which read as follows: “This section shall not apply with respect to a loan or lease to the North Atlantic Treaty Organization, any member country of that Organization, Japan, Australia, or New Zealand.”
 
-1986—Subsec. (a)(1). Pub. L. 99–247, § 1(d)(1), substituted “enacts a joint resolution prohibiting” for “adopts a concurrent resolution stating that it objects to”.
+1986—Subsec. (a)(1). Pub. L. 99–247, § 1(d)(1), substituted “enacts a joint resolution prohibiting” for “adopts a concurrent resolution stating that it objects to”.
 
-Subsec. (b). Pub. L. 99–247, § 1(d)(2), inserted “joint” before “resolution”.
+Subsec. (b). Pub. L. 99–247, § 1(d)(2), inserted “joint” before “resolution”.
 
-Subsec. (c). Pub. L. 99–247, § 1(d)(3), substituted “enactment of joint resolutions” for “adoption of concurrent resolutions” and “such joint resolution” for “such resolution”.
+Subsec. (c). Pub. L. 99–247, § 1(d)(3), substituted “enactment of joint resolutions” for “adoption of concurrent resolutions” and “such joint resolution” for “such resolution”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6313,11 +6313,11 @@ Subsec. (c). Pub. L. 99–247, § 1(d)(3), substituted “enactment of joint r
 
 Amendment by Pub. L. 104–164 applicable with respect to certifications required to be submitted on or after July 21, 1996, see section 141(f) of Pub. L. 104–164, set out as a note under section 2753 of this title.
 
-### § 2796c. Applicability of other statutory provisions
+### § 2796c. Applicability of other statutory provisions
 
 Any reference to sales of defense articles under this chapter in any provision of law restricting the countries or organizations to which such sales may be made shall be deemed to include a reference to leases of defense articles under this subchapter.
 
-(Pub. L. 90–629, ch. 6, § 64, as added Pub. L. 97–113, title I, § 109(a), Dec. 29, 1981, 95 Stat. 1526.)
+(Pub. L. 90–629, ch. 6, § 64, as added Pub. L. 97–113, title I, § 109(a), Dec. 29, 1981, 95 Stat. 1526.)
 
 **Editorial Notes**
 
@@ -6325,7 +6325,7 @@ Any reference to sales of defense articles under this chapter in any provision o
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-### § 2796d. Loan of materials, supplies, and equipment for research and development purposes
+### § 2796d. Loan of materials, supplies, and equipment for research and development purposes
 
 **(a) Loan or gift transactions; written agreement; covered programs**
 
@@ -6349,7 +6349,7 @@ The Secretary of Defense may not loan to a country under this section any materi
 
 For purposes of this section, the term “NATO ally” means a member country of the North Atlantic Treaty Organization (other than the United States).
 
-(Pub. L. 90–629, ch. 6, § 65, as added Pub. L. 100–456, div. A, title X, § 1003(a), Sept. 29, 1988, 102 Stat. 2038; amended Pub. L. 102–25, title VII, § 705(d)(2), Apr. 6, 1991, 105 Stat. 120; Pub. L. 104–164, title I, § 147(a)(3)(B), July 21, 1996, 110 Stat. 1435.)
+(Pub. L. 90–629, ch. 6, § 65, as added Pub. L. 100–456, div. A, title X, § 1003(a), Sept. 29, 1988, 102 Stat. 2038; amended Pub. L. 102–25, title VII, § 705(d)(2), Apr. 6, 1991, 105 Stat. 120; Pub. L. 104–164, title I, § 147(a)(3)(B), July 21, 1996, 110 Stat. 1435.)
 
 **Editorial Notes**
 
@@ -6361,13 +6361,13 @@ For purposes of this section, the term “NATO ally” means a member country of
 
 ## SUBCHAPTER VII—CONTROL OF MISSILES AND MISSILE EQUIPMENT OR TECHNOLOGY
 
-### § 2797. Licensing
+### § 2797. Licensing
 
 **(a) Establishment of list of controlled items**
 
-The Secretary of State, in consultation with the Secretary of Defense and the heads of other appropriate departments and agencies, shall establish and maintain, as part of the United States Munitions List, a list of all items on the MTCR Annex the export of which is not controlled under section 4605(*l*) 1
+The Secretary of State, in consultation with the Secretary of Defense and the heads of other appropriate departments and agencies, shall establish and maintain, as part of the United States Munitions List, a list of all items on the MTCR Annex the export of which is not controlled under section 4605(*l*) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 50.
 
@@ -6385,13 +6385,13 @@ The Secretary of State shall establish a procedure for sharing information with 
 
 Within 15 days after the issuance of a license (including any brokering license) for the export of items valued at less than $50,000,000 that are controlled under this chapter pursuant to United States obligations under the Missile Technology Control Regime and are goods or services that are intended to support the design, utilization, development, or production of a space launch vehicle system listed in Category I of the MTCR Annex, the Secretary shall transmit to the Congress a report describing the licensed export and rationale for approving such export, including the consistency of such export with United States missile nonproliferation policy. The requirement contained in the preceding sentence shall not apply to licenses for exports to countries that were members of the MTCR as of April 17, 1987.
 
-(Pub. L. 90–629, ch. 7, § 71, as added Pub. L. 101–510, div. A, title XVII, § 1703, Nov. 5, 1990, 104 Stat. 1745; amended Pub. L. 103–236, title VII, §§ 714(a)(3)–(6), 735(c), Apr. 30, 1994, 108 Stat. 497, 506; Pub. L. 105–277, div. G, subdiv. A, title XII, § 1225(a)(4)–(7), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–280, title VII, § 708(c), Oct. 6, 2000, 114 Stat. 863.)
+(Pub. L. 90–629, ch. 7, § 71, as added Pub. L. 101–510, div. A, title XVII, § 1703, Nov. 5, 1990, 104 Stat. 1745; amended Pub. L. 103–236, title VII, §§ 714(a)(3)–(6), 735(c), Apr. 30, 1994, 108 Stat. 497, 506; Pub. L. 105–277, div. G, subdiv. A, title XII, § 1225(a)(4)–(7), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–280, title VII, § 708(c), Oct. 6, 2000, 114 Stat. 863.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4605(*l*) of title 50, referred to in subsec. (a), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+Section 4605(*l*) of title 50, referred to in subsec. (a), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 This chapter, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
@@ -6399,23 +6399,23 @@ This chapter, referred to in subsec. (d), was in the original “this Act”, me
 
 2000—Subsec. (d). Pub. L. 106–280 substituted “Within 15 days after the issuance of a license (including any brokering license) for the export of items valued at less than $50,000,000 that are controlled under this chapter pursuant to United States obligations under the Missile Technology Control Regime and are goods or services that are intended to support the design, utilization, development, or production of a space launch vehicle system listed in Category I of the MTCR Annex,” for “Within 15 days after the issuance of a license for the export of items valued at less than $14,000,000 that are controlled under this chapter pursuant to United States obligations under the Missile Technology Control Regime and intended to support the design, development, or production of a space launch vehicle system listed in Category I of the MTCR Annex,”.
 
-1998—Subsec. (a). Pub. L. 105–277, § 1225(a)(4), struck out “, the Director of the Arms Control and Disarmament Agency,” after “Secretary of Defense”.
+1998—Subsec. (a). Pub. L. 105–277, § 1225(a)(4), struck out “, the Director of the Arms Control and Disarmament Agency,” after “Secretary of Defense”.
 
-Subsec. (b)(1). Pub. L. 105–277, § 1225(a)(5), struck out “and the Director of the United States Arms Control and Disarmament Agency” after “Secretary of Defense”.
+Subsec. (b)(1). Pub. L. 105–277, § 1225(a)(5), struck out “and the Director of the United States Arms Control and Disarmament Agency” after “Secretary of Defense”.
 
-Subsec. (b)(2). Pub. L. 105–277, § 1225(a)(6), substituted “and the Secretary of Commerce” for “the Secretary of Commerce, and the Director of the United States Arms Control and Disarmament Agency” and struck out “or the Director” after “the relevant Secretary”.
+Subsec. (b)(2). Pub. L. 105–277, § 1225(a)(6), substituted “and the Secretary of Commerce” for “the Secretary of Commerce, and the Director of the United States Arms Control and Disarmament Agency” and struck out “or the Director” after “the relevant Secretary”.
 
-Subsec. (c). Pub. L. 105–277, § 1225(a)(7), struck out “with the Director of the United States Arms Control and Disarmament Agency,” after “Director of Central Intelligence,”.
+Subsec. (c). Pub. L. 105–277, § 1225(a)(7), struck out “with the Director of the United States Arms Control and Disarmament Agency,” after “Director of Central Intelligence,”.
 
-1994—Subsec. (a). Pub. L. 103–236, § 714(a)(3), inserted “, the Director of the Arms Control and Disarmament Agency,” after “the Secretary of Defense”.
+1994—Subsec. (a). Pub. L. 103–236, § 714(a)(3), inserted “, the Director of the Arms Control and Disarmament Agency,” after “the Secretary of Defense”.
 
-Subsec. (b)(1). Pub. L. 103–236, § 714(a)(4), inserted “and the Director of the United States Arms Control and Disarmament Agency” after “Secretary of Defense”.
+Subsec. (b)(1). Pub. L. 103–236, § 714(a)(4), inserted “and the Director of the United States Arms Control and Disarmament Agency” after “Secretary of Defense”.
 
-Subsec. (b)(2). Pub. L. 103–236, § 714(a)(5), substituted “, the Secretary of Commerce, and the Director of the United States Arms Control and Disarmament Agency” for “and the Secretary of Commerce” and inserted “or the Director” after “relevant Secretary”.
+Subsec. (b)(2). Pub. L. 103–236, § 714(a)(5), substituted “, the Secretary of Commerce, and the Director of the United States Arms Control and Disarmament Agency” for “and the Secretary of Commerce” and inserted “or the Director” after “relevant Secretary”.
 
-Subsec. (c). Pub. L. 103–236, § 714(a)(6), inserted “with the Director of the United States Arms Control and Disarmament Agency,” after “Director of Central Intelligence,”.
+Subsec. (c). Pub. L. 103–236, § 714(a)(6), inserted “with the Director of the United States Arms Control and Disarmament Agency,” after “Director of Central Intelligence,”.
 
-Subsec. (d). Pub. L. 103–236, § 735(c), added subsec. (d).
+Subsec. (d). Pub. L. 103–236, § 735(c), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6429,7 +6429,7 @@ Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. 
 
 **Policy and Sense of Congress on Nonproliferation of Ballistic Missiles**
 
-Pub. L. 108–375, div. A, title XII, § 1212, Oct. 28, 2004, 118 Stat. 2087, provided that:
+Pub. L. 108–375, div. A, title XII, § 1212, Oct. 28, 2004, 118 Stat. 2087, provided that:
 
 > **“(a) Findings.—** Congress makes the following findings:
 
@@ -6449,21 +6449,21 @@ Pub. L. 108–375, div. A, title XII, § 1212, Oct. 28, 2004, 118 Stat. 2087, 
 
 **MTCR Report Transmittals**
 
-Pub. L. 106–280, title VII, § 704, Oct. 6, 2000, 114 Stat. 861, provided that: “For purposes of section 71(d) of the Arms Export Control Act (22 U.S.C. 2797(d)), the requirement that reports under that section shall be transmitted to the Congress shall be considered to be a requirement that such reports shall be transmitted to the Committee on International Relations [now Committee on Foreign Affairs] of the House of Representatives and the Committee on Foreign Relations and the Committee on Banking, Housing and Urban Affairs of the Senate.”
+Pub. L. 106–280, title VII, § 704, Oct. 6, 2000, 114 Stat. 861, provided that: “For purposes of section 71(d) of the Arms Export Control Act (22 U.S.C. 2797(d)), the requirement that reports under that section shall be transmitted to the Congress shall be considered to be a requirement that such reports shall be transmitted to the Committee on International Relations [now Committee on Foreign Affairs] of the House of Representatives and the Committee on Foreign Relations and the Committee on Banking, Housing and Urban Affairs of the Senate.”
 
 **Report on Missile Proliferation**
 
-Pub. L. 101–510, div. A, title XVII, § 1704, Nov. 5, 1990, 104 Stat. 1749, directed President to submit to Congress reports on international transfers of aircraft which the Secretary had reason to believe may be intended to be used for delivery of nuclear, biological, or chemical weapons and international transfers of MTCR equipment or technology to any country seeking to acquire such equipment or technology, and which provided for contents of reports, countries excluded from such reports, classification of information, and definitions, prior to repeal by Pub. L. 102–190, div. A, title X, § 1097(g), Dec. 5, 1991, 105 Stat. 1491.
+Pub. L. 101–510, div. A, title XVII, § 1704, Nov. 5, 1990, 104 Stat. 1749, directed President to submit to Congress reports on international transfers of aircraft which the Secretary had reason to believe may be intended to be used for delivery of nuclear, biological, or chemical weapons and international transfers of MTCR equipment or technology to any country seeking to acquire such equipment or technology, and which provided for contents of reports, countries excluded from such reports, classification of information, and definitions, prior to repeal by Pub. L. 102–190, div. A, title X, § 1097(g), Dec. 5, 1991, 105 Stat. 1491.
 
 **Executive Documents**
 
 **Delegation of Functions**
 
-Memorandum of President of the United States, June 25, 1991, 56 F.R. 31041, which provided for delegation of certain functions of the President, was superseded by Ex. Ord. No. 12851, § 7, June 11, 1993, 58 F.R. 33181, set out below.
+Memorandum of President of the United States, June 25, 1991, 56 F.R. 31041, which provided for delegation of certain functions of the President, was superseded by Ex. Ord. No. 12851, § 7, June 11, 1993, 58 F.R. 33181, set out below.
 
 **Ex. Ord. No. 12851. Administration of Proliferation Sanctions, Middle East Arms Control, and Related Congressional Reporting Responsibilities**
 
-Ex. Ord. No. 12851, June 11, 1993, 58 F.R. 33181, as amended by Ex. Ord. No. 13883, § 3, Aug. 1, 2019, 84 F.R. 38113, provided:
+Ex. Ord. No. 12851, June 11, 1993, 58 F.R. 33181, as amended by Ex. Ord. No. 13883, § 3, Aug. 1, 2019, 84 F.R. 38113, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code; sections 1701–1703 of the National Defense Authorization Act for Fiscal Year 1991, Public Law 101–510 (50 U.S.C. App. 2402 note, 2405, 2410b [now 50 U.S.C. 4602 note, former 4605, former 4612]; 22 U.S.C. 2797–2797c); sections 303, 324 [105 Stat. 708, 711], and 401–405 [22 U.S.C. 2778 note] of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993, Public Law 102–138; sections 305–308 of the Chemical and Biological Weapons Control and Warfare Elimination Act of 1991, Public Law 102–182 (50 U.S.C. App. 2410c [now 50 U.S.C. 4613]; 22 U.S.C. 2798, 5604–5606); sections 241 [105 Stat. 1326] and 1097 [former 22 U.S.C. 2751 note] of the National Defense Authorization Act for Fiscal Years 1992 and 1993, Public Law 102–190; and section 1364 of the National Defense Authorization Act for Fiscal Year 1993, Public Law 102–484 [106 Stat. 2561], I hereby order as follows:
 
@@ -6517,15 +6517,15 @@ Sec. 7. *Priority*. This order supercedes the Memorandum of the President, “De
 
 [For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.]
 
-### § 2797a. Denial of transfer of missile equipment or technology by United States persons
+### § 2797a. Denial of transfer of missile equipment or technology by United States persons
 
 **(a) Sanctions**
 
 **(1)** If the President determines that a United States person knowingly—
 
-**(A)** exports, transfers, or otherwise engages in the trade of any item on the MTCR Annex, in violation of the provisions of section 2778 of this title, section 4604 or 4605 1
+**(A)** exports, transfers, or otherwise engages in the trade of any item on the MTCR Annex, in violation of the provisions of section 2778 of this title, section 4604 or 4605 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 50 or any regulations or orders issued under any such provisions,
 
@@ -6555,11 +6555,11 @@ In the case of any determination made pursuant to subsection (a), the President 
 
 **(c) Presumption**
 
-In determining whether to apply sanctions under subsection (a) to a United States person involved in the export, transfer, or trade of an item on the MTCR Annex, it should be a rebuttable presumption that such item is designed for use in a missile listed in the MTCR Annex if the President determines that the final destination of the item is a country the government of which the Secretary of State has determined, for purposes of 2
+In determining whether to apply sanctions under subsection (a) to a United States person involved in the export, transfer, or trade of an item on the MTCR Annex, it should be a rebuttable presumption that such item is designed for use in a missile listed in the MTCR Annex if the President determines that the final destination of the item is a country the government of which the Secretary of State has determined, for purposes of 2
 
-<sup>2</sup>  So in original. Probably should be followed by “section”.
+<sup>2</sup> So in original. Probably should be followed by “section”.
 
-4605(j)(1)(A) <sup>1</sup> of title 50, has repeatedly provided support for acts of international terrorism.
+4605(j)(1)(A) <sup>1</sup> of title 50, has repeatedly provided support for acts of international terrorism.
 
 **(d) Waiver** The President may waive the imposition of sanctions under subsection (a) with respect to a product or service if the President certifies to the Congress that—
 
@@ -6567,13 +6567,13 @@ In determining whether to apply sanctions under subsection (a) to a United State
 
 **(2)** such person is a sole source supplier of the product or service, the product or service is not available from any alternative reliable supplier, and the need for the product or service cannot be met in a timely manner by improved manufacturing processes or technological developments.
 
-(Pub. L. 90–629, ch. 7, § 72, as added Pub. L. 101–510, div. A, title XVII, § 1703, Nov. 5, 1990, 104 Stat. 1745; amended Pub. L. 103–236, title VII, § 734(a), Apr. 30, 1994, 108 Stat. 505.)
+(Pub. L. 90–629, ch. 7, § 72, as added Pub. L. 101–510, div. A, title XVII, § 1703, Nov. 5, 1990, 104 Stat. 1745; amended Pub. L. 103–236, title VII, § 734(a), Apr. 30, 1994, 108 Stat. 505.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 4604 and 4605 of title 50, referred to in subsecs. (a)(1)(A) and (c), were repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+Sections 4604 and 4605 of title 50, referred to in subsecs. (a)(1)(A) and (c), were repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 This chapter, referred to in subsec. (a)(2)(A)(ii), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
@@ -6585,15 +6585,15 @@ This chapter, referred to in subsec. (a)(2)(A)(ii), was in the original “this 
 
 **Delegation of Functions**
 
-For delegation of certain functions of the President under this section, see Ex. Ord. No. 12851, § 2(a), June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of this title.
+For delegation of certain functions of the President under this section, see Ex. Ord. No. 12851, § 2(a), June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of this title.
 
-### § 2797b. Transfers of missile equipment or technology by foreign persons
+### § 2797b. Transfers of missile equipment or technology by foreign persons
 
 **(a) Sanctions**
 
 **(1)** Subject to subsections (c) through (g),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 if the President determines that a foreign person, after November 5, 1990, knowingly—
 
@@ -6655,9 +6655,9 @@ The Secretary of State, in consultation with the Secretary of Defense and the Se
 
 **(f) Presumption**
 
-In determining whether to apply sanctions under subsection (a) to a foreign person involved in the export, transfer, or trade of an item on the MTCR Annex, it should be a rebuttable presumption that such item is designed for use in a missile listed in the MTCR Annex if the President determines that the final destination of the item is a country the government of which the Secretary of State has determined, for purposes of 4605(j)(1)(A) 2
+In determining whether to apply sanctions under subsection (a) to a foreign person involved in the export, transfer, or trade of an item on the MTCR Annex, it should be a rebuttable presumption that such item is designed for use in a missile listed in the MTCR Annex if the President determines that the final destination of the item is a country the government of which the Secretary of State has determined, for purposes of 4605(j)(1)(A) 2
 
-<sup>2</sup>  So in original. Probably should be preceded by “section”.
+<sup>2</sup> So in original. Probably should be preceded by “section”.
 
 of title 50, has repeatedly provided support for acts of international terrorism.
 
@@ -6689,13 +6689,13 @@ of title 50, has repeatedly provided support for acts of international terrorism
 
 **(D)** information and technology essential to United States products or production.
 
-(Pub. L. 90–629, ch. 7, § 73, as added Pub. L. 101–510, div. A, title XVII, § 1703, Nov. 5, 1990, 104 Stat. 1746; amended Pub. L. 102–138, title III, § 323(a), Oct. 28, 1991, 105 Stat. 711; Pub. L. 103–236, title VII, §§ 714(a)(7), 734(b), Apr. 30, 1994, 108 Stat. 497, 505; Pub. L. 104–106, div. A, title XIV, § 1408(d), Feb. 10, 1996, 110 Stat. 494; Pub. L. 105–277, div. G, subdiv. A, title XII, § 1225(a)(8), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1136(b), (c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–495; Pub. L. 113–276, title II, § 208(a)(5), Dec. 18, 2014, 128 Stat. 2993.)
+(Pub. L. 90–629, ch. 7, § 73, as added Pub. L. 101–510, div. A, title XVII, § 1703, Nov. 5, 1990, 104 Stat. 1746; amended Pub. L. 102–138, title III, § 323(a), Oct. 28, 1991, 105 Stat. 711; Pub. L. 103–236, title VII, §§ 714(a)(7), 734(b), Apr. 30, 1994, 108 Stat. 497, 505; Pub. L. 104–106, div. A, title XIV, § 1408(d), Feb. 10, 1996, 110 Stat. 494; Pub. L. 105–277, div. G, subdiv. A, title XII, § 1225(a)(8), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1136(b), (c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–495; Pub. L. 113–276, title II, § 208(a)(5), Dec. 18, 2014, 128 Stat. 2993.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subsections (f) and (g), referred to in subsec. (a)(1), were redesignated subsecs. (g) and (h), respectively, by Pub. L. 103–236, title VII, § 734(b)(1), Apr. 30, 1994, 108 Stat. 505.
+Subsections (f) and (g), referred to in subsec. (a)(1), were redesignated subsecs. (g) and (h), respectively, by Pub. L. 103–236, title VII, § 734(b)(1), Apr. 30, 1994, 108 Stat. 505.
 
 This chapter, referred to in subsec. (a)(1)(A), (2)(A)(ii), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
@@ -6703,9 +6703,9 @@ This chapter, referred to in subsec. (a)(1)(A), (2)(A)(ii), was in the original 
 
 2014—Subsec. (e)(2). Pub. L. 113–276 substituted “the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives” for “the Committee on National Security and the Committee on International Relations of the House of Representatives”.
 
-1999—Subsec. (b). Pub. L. 106–113, § 1000(a)(7) [title XI, § 1136(b)], designated existing provisions as par. (1), inserted par. heading, in introductory provisions, substituted “Except as provided in paragraph (2), subsection (a)” for “Subsection (a)”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+1999—Subsec. (b). Pub. L. 106–113, § 1000(a)(7) [title XI, § 1136(b)], designated existing provisions as par. (1), inserted par. heading, in introductory provisions, substituted “Except as provided in paragraph (2), subsection (a)” for “Subsection (a)”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
-Subsec. (c). Pub. L. 106–113, § 1000(a)(7) [title XI, § 1136(c)], inserted before period at end “, and if the President certifies to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives that—
+Subsec. (c). Pub. L. 106–113, § 1000(a)(7) [title XI, § 1136(c)], inserted before period at end “, and if the President certifies to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives that—
 
 “(1) for any judicial or other enforcement action taken by the MTCR adherent, such action has—
 
@@ -6715,13 +6715,13 @@ Subsec. (c). Pub. L. 106–113, § 1000(a)(7) [title XI, § 1136(c)], insert
 
 “(2) with respect to any finding of innocence of wrongdoing, the United States is satisfied with the basis for such finding”.
 
-1998—Subsec. (d). Pub. L. 105–277 substituted “and the Secretary of Commerce” for “, the Secretary of Commerce, and the Director of the United States Arms Control and Disarmament Agency”.
+1998—Subsec. (d). Pub. L. 105–277 substituted “and the Secretary of Commerce” for “, the Secretary of Commerce, and the Director of the United States Arms Control and Disarmament Agency”.
 
 1996—Subsec. (e)(2). Pub. L. 104–106 substituted “the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on National Security and the Committee on International Relations of the House of Representatives” for “the Congress” and “45 working days” for “20 working days”.
 
-1994—Subsec. (d). Pub. L. 103–236, § 714(a)(7), substituted “, the Secretary of Commerce, and the Director of the United States Arms Control and Disarmament Agency,” for “and the Secretary of Commerce,”.
+1994—Subsec. (d). Pub. L. 103–236, § 714(a)(7), substituted “, the Secretary of Commerce, and the Director of the United States Arms Control and Disarmament Agency,” for “and the Secretary of Commerce,”.
 
-Subsecs. (f) to (h). Pub. L. 103–236, § 734(b), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+Subsecs. (f) to (h). Pub. L. 103–236, § 734(b), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
 1991—Subsec. (a)(1)(A). Pub. L. 102–138 inserted “acquisition,” before “design,”.
 
@@ -6737,7 +6737,7 @@ Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. 
 
 **Space Cooperation With Russian Persons**
 
-Pub. L. 106–280, title VII, § 708, Oct. 6, 2000, 114 Stat. 862, as amended by Pub. L. 109–112, § 4(e)(2), Nov. 22, 2005, 119 Stat. 2370, provided that:
+Pub. L. 106–280, title VII, § 708, Oct. 6, 2000, 114 Stat. 862, as amended by Pub. L. 109–112, § 4(e)(2), Nov. 22, 2005, 119 Stat. 2370, provided that:
 
 > **“(a) Annual Certification.—**
 
@@ -6777,9 +6777,9 @@ Pub. L. 106–280, title VII, § 708, Oct. 6, 2000, 114 Stat. 862, as amended 
 
 **Delegation of Functions**
 
-For delegation of certain functions of the President under this section, see Ex. Ord. No. 12851, § 2(a), June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of this title.
+For delegation of certain functions of the President under this section, see Ex. Ord. No. 12851, § 2(a), June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of this title.
 
-### § 2797b–1. Notification of admittance of MTCR adherents
+### § 2797b–1. Notification of admittance of MTCR adherents
 
 **(a) Policy report**
 
@@ -6789,7 +6789,7 @@ Following any action by the United States that results in a country becoming a M
 
 At such times that a report is transmitted pursuant to subsection (a), the Director of Central Intelligence shall promptly prepare and submit to the Congress a separate report containing any credible information indicating that the country described in subsection (a) has engaged in any activity identified under subparagraph (A), (B), or (C) of section 2797b(a)(1) of this title within the previous two years.
 
-(Pub. L. 90–629, ch. 7, § 73A, as added Pub. L. 103–236, title VII, § 735(d), Apr. 30, 1994, 108 Stat. 506; amended Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1136(d)], Nov. 29, 1999, 113 Stat. 1536, 1501A–496.)
+(Pub. L. 90–629, ch. 7, § 73A, as added Pub. L. 103–236, title VII, § 735(d), Apr. 30, 1994, 108 Stat. 506; amended Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1136(d)], Nov. 29, 1999, 113 Stat. 1536, 1501A–496.)
 
 **Editorial Notes**
 
@@ -6809,13 +6809,13 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 Functions of President under this section delegated to Secretary of State by Memorandum of President of the United States, July 26, 1994, 59 F.R. 40205, set out as a note under section 2370a of this title.
 
-### § 2797b–2. Authority relating to MTCR adherents
+### § 2797b–2. Authority relating to MTCR adherents
 
 Notwithstanding section 2797b(b) of this title, the President may take the actions under section 2797b(a)(2) of this title under the circumstances described in section 2797c(b)(2) of this title.
 
-(Pub. L. 90–629, ch. 7, § 73B, as added Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1137], Nov. 29, 1999, 113 Stat. 1536, 1501A–496).
+(Pub. L. 90–629, ch. 7, § 73B, as added Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1137], Nov. 29, 1999, 113 Stat. 1536, 1501A–496).
 
-### § 2797c. Definitions
+### § 2797c. Definitions
 
 **(a) In general** For purposes of this subchapter—
 
@@ -6829,9 +6829,9 @@ Notwithstanding section 2797b(b) of this title, the President may take the actio
 
 **(5)** the terms “missile equipment or technology” and “MTCR equipment or technology” mean those items listed in category I or category II of the MTCR Annex;
 
-**(6)** the term “United States person” has the meaning given that term in section 4618(2) 1
+**(6)** the term “United States person” has the meaning given that term in section 4618(2) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 50;
 
@@ -6855,13 +6855,13 @@ of title 50;
 
 **(2)** any specific understanding by a country that, notwithstanding section 2797b(b) of this title, the United States retains the right to take the actions under section 2797b(a)(2) of this title in the case of any export or transfer of any MTCR equipment or technology that contributes to the acquisition, design, development, or production of missiles in a country that is not an MTCR adherent and would be, if it were United States-origin equipment or technology, subject to the jurisdiction of the United States under this chapter.
 
-(Pub. L. 90–629, ch. 7, § 74, as added Pub. L. 101–510, div. A, title XVII, § 1703, Nov. 5, 1990, 104 Stat. 1748; amended Pub. L. 102–138, title III, § 323(b), (c), Oct. 28, 1991, 105 Stat. 711; Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1136(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–495.)
+(Pub. L. 90–629, ch. 7, § 74, as added Pub. L. 101–510, div. A, title XVII, § 1703, Nov. 5, 1990, 104 Stat. 1748; amended Pub. L. 102–138, title III, § 323(b), (c), Oct. 28, 1991, 105 Stat. 711; Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1136(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–495.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4618(2) of title 50, referred to in subsec. (a)(6), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+Section 4618(2) of title 50, referred to in subsec. (a)(6), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
@@ -6869,13 +6869,13 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 1999—Pub. L. 106–113 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-1991—Par. (8)(B). Pub. L. 102–138, § 323(b), substituted “countries with non-market economies (excluding former members of the Warsaw Pact)” for “countries where it may be impossible to identify a specific governmental entity referred to in subparagraph (A)”.
+1991—Par. (8)(B). Pub. L. 102–138, § 323(b), substituted “countries with non-market economies (excluding former members of the Warsaw Pact)” for “countries where it may be impossible to identify a specific governmental entity referred to in subparagraph (A)”.
 
-Par. (8)(B)(ii). Pub. L. 102–138, § 323(c), substituted “electronics, space systems or equipment, and military aircraft” for “aircraft, electronics, and space systems or equipment”.
+Par. (8)(B)(ii). Pub. L. 102–138, § 323(c), substituted “electronics, space systems or equipment, and military aircraft” for “aircraft, electronics, and space systems or equipment”.
 
 ## SUBCHAPTER VIII—CHEMICAL OR BIOLOGICAL WEAPONS PROLIFERATION
 
-### § 2798. Sanctions against certain foreign persons
+### § 2798. Sanctions against certain foreign persons
 
 **(a) Imposition of sanctions**
 
@@ -6887,7 +6887,7 @@ Par. (8)(B)(ii). Pub. L. 102–138, § 323(c), substituted “electronics, spa
 
 **(C)** through any other transaction not subject to sanctions pursuant to the Export Administration Act of 1979,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 to the efforts by any foreign country, project, or entity described in paragraph (2) to use, develop, produce, stockpile, or otherwise acquire chemical or biological weapons.
 
@@ -6901,7 +6901,7 @@ to the efforts by any foreign country, project, or entity described in paragraph
 
 **(iii)** made substantial preparations to engage in the activities described in clause (i) or (ii);
 
-**(B)** any foreign country whose government is determined for purposes of section 6(j) <sup>1</sup> of the Export Administration Act of 1979 to be a government that has repeatedly provided support for acts of international terrorism; or
+**(B)** any foreign country whose government is determined for purposes of section 6(j) <sup>1</sup> of the Export Administration Act of 1979 to be a government that has repeatedly provided support for acts of international terrorism; or
 
 **(C)** any other foreign country, project, or entity designated by the President for purposes of this section.
 
@@ -6985,31 +6985,31 @@ If the President decides to exercise the waiver authority provided in paragraph 
 
 **(2)** a corporation, partnership, or other entity which is created or organized under the laws of a foreign country or which has its principal place of business outside the United States.
 
-(Pub. L. 90–629, ch. 8, § 81, as added and amended Pub. L. 102–182, title III, §§ 305(b), 309(b)(2), Dec. 4, 1991, 105 Stat. 1250, 1258.)
+(Pub. L. 90–629, ch. 8, § 81, as added and amended Pub. L. 102–182, title III, §§ 305(b), 309(b)(2), Dec. 4, 1991, 105 Stat. 1250, 1258.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Export Administration Act of 1979, referred to in subsec. (a)(1)(C), (2)(B), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). Section 6 of the Act was classified to section 4605 of Title 50 prior to repeal.
+The Export Administration Act of 1979, referred to in subsec. (a)(1)(C), (2)(B), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). Section 6 of the Act was classified to section 4605 of Title 50 prior to repeal.
 
 **Prior Provisions**
 
-A prior subchapter VIII, consisting of former section 2798, as added by Pub. L. 102–138, title V, § 505(b), Oct. 28, 1991, 105 Stat. 727, was substantially identical to subchapter VIII, as added by section 305(b) of Pub. L. 102–182, prior to repeal by Pub. L. 102–182, title III, § 309(a), Dec. 4, 1991, 105 Stat. 1258.
+A prior subchapter VIII, consisting of former section 2798, as added by Pub. L. 102–138, title V, § 505(b), Oct. 28, 1991, 105 Stat. 727, was substantially identical to subchapter VIII, as added by section 305(b) of Pub. L. 102–182, prior to repeal by Pub. L. 102–182, title III, § 309(a), Dec. 4, 1991, 105 Stat. 1258.
 
 **Amendments**
 
-1991—Subsec. (a)(1). Pub. L. 101–182, § 309(b)(2), substituted “October 28, 1991” for reference to the “date of the enactment of this section” which was enacted Dec. 4, 1991.
+1991—Subsec. (a)(1). Pub. L. 101–182, § 309(b)(2), substituted “October 28, 1991” for reference to the “date of the enactment of this section” which was enacted Dec. 4, 1991.
 
 **Executive Documents**
 
 **Delegation of Functions**
 
-For delegation of certain functions of the President under this section, see Ex. Ord. No. 12851, § 1(a), June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of this title.
+For delegation of certain functions of the President under this section, see Ex. Ord. No. 12851, § 1(a), June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of this title.
 
 ## SUBCHAPTER IX—TRANSFER OF CERTAIN CFE TREATY-LIMITED EQUIPMENT TO NATO MEMBERS
 
-### § 2799. Purpose
+### § 2799. Purpose
 
 The purpose of this subchapter is to authorize the President to support, consistent with the CFE Treaty, a NATO equipment transfer program that will—
 
@@ -7019,15 +7019,15 @@ The purpose of this subchapter is to authorize the President to support, consist
 
 **(3)** better distribute defense burdens within the NATO alliance.
 
-(Pub. L. 90–629, ch. 9, § 91, as added Pub. L. 102–228, § 2, Dec. 12, 1991, 105 Stat. 1691.)
+(Pub. L. 90–629, ch. 9, § 91, as added Pub. L. 102–228, § 2, Dec. 12, 1991, 105 Stat. 1691.)
 
-### § 2799a. CFE Treaty obligations
+### § 2799a. CFE Treaty obligations
 
 The authorities provided in this subchapter shall be exercised consistent with the obligations incurred by the United States in connection with the CFE Treaty.
 
-(Pub. L. 90–629, ch. 9, § 92, as added Pub. L. 102–228, § 2, Dec. 12, 1991, 105 Stat. 1691.)
+(Pub. L. 90–629, ch. 9, § 92, as added Pub. L. 102–228, § 2, Dec. 12, 1991, 105 Stat. 1691.)
 
-### § 2799b. Authorities
+### § 2799b. Authorities
 
 **(a) General authority** The President may transfer to any NATO/CFE country, in accordance with NATO plans, defense articles—
 
@@ -7067,7 +7067,7 @@ Except as provided in paragraph (2), the authority of subsection (a) expires at 
 
 Paragraph (1) does not apply with respect to a transfer of defense articles for which notification under section 2799c(a) of this title is submitted before the end of the period described in that paragraph.
 
-(Pub. L. 90–629, ch. 9, § 93, as added Pub. L. 102–228, § 2, Dec. 12, 1991, 105 Stat. 1691.)
+(Pub. L. 90–629, ch. 9, § 93, as added Pub. L. 102–228, § 2, Dec. 12, 1991, 105 Stat. 1691.)
 
 **Editorial Notes**
 
@@ -7089,7 +7089,7 @@ The Secretary of State is authorized and directed to publish this memorandum in 
 
 George Bush.
 
-### § 2799c. Notifications and reports to Congress
+### § 2799c. Notifications and reports to Congress
 
 **(a) Notifications**
 
@@ -7107,7 +7107,7 @@ Not less than 15 days before transferring any defense articles pursuant to secti
 
 **(B)** by each country of the Eastern Group of States Parties in implementing the CFE Treaty.
 
-(Pub. L. 90–629, ch. 9, § 94, as added Pub. L. 102–228, § 2, Dec. 12, 1991, 105 Stat. 1692; amended Pub. L. 103–199, title IV, § 402(1), Dec. 17, 1993, 107 Stat. 2324.)
+(Pub. L. 90–629, ch. 9, § 94, as added Pub. L. 102–228, § 2, Dec. 12, 1991, 105 Stat. 1692; amended Pub. L. 103–199, title IV, § 402(1), Dec. 17, 1993, 107 Stat. 2324.)
 
 **Editorial Notes**
 
@@ -7121,7 +7121,7 @@ Not less than 15 days before transferring any defense articles pursuant to secti
 
 Functions of President under this section delegated to Secretary of Defense by Memorandum of President of the United States, Feb. 13, 1992, 57 F.R. 6663, set out as a note under section 2799b of this title.
 
-### § 2799d. Definitions
+### § 2799d. Definitions
 
 As used in this subchapter—
 
@@ -7135,7 +7135,7 @@ As used in this subchapter—
 
 **(5)** the term “country of the Eastern Group of States Parties” means a country that is listed in paragraph 1(A) of article II of the CFE Treaty within the group of States Parties that signed the Treaty of Warsaw of 1955 or a successor state to such a country.
 
-(Pub. L. 90–629, ch. 9, § 95, as added Pub. L. 102–228, § 2, Dec. 12, 1991, 105 Stat. 1693; amended Pub. L. 103–199, title IV, § 402(2), Dec. 17, 1993, 107 Stat. 2324.)
+(Pub. L. 90–629, ch. 9, § 95, as added Pub. L. 102–228, § 2, Dec. 12, 1991, 105 Stat. 1693; amended Pub. L. 103–199, title IV, § 402(2), Dec. 17, 1993, 107 Stat. 2324.)
 
 **Editorial Notes**
 
@@ -7145,7 +7145,7 @@ As used in this subchapter—
 
 ## SUBCHAPTER X—NUCLEAR NONPROLIFERATION CONTROLS
 
-### § 2799aa. Nuclear enrichment transfers
+### § 2799aa. Nuclear enrichment transfers
 
 **(a) Prohibitions; safeguards and management** Except as provided in subsection (b) of this section, no funds made available to carry out the Foreign Assistance Act of 1961 [22 U.S.C. 2151 et seq.] or this chapter may be used for the purpose of providing economic assistance (including assistance under chapter 4 of part II of the Foreign Assistance Act of 1961 [22 U.S.C. 2346 et seq.]), providing military assistance or grant military education and training, providing assistance under chapter 6 of part II of that Act [22 U.S.C. 2348 et seq.], or extending military credits or making guarantees, to any country which the President determines delivers nuclear enrichment equipment, materials, or technology to any other country on or after August 4, 1977, or receives such equipment, materials, or technology from any other country on or after August 4, 1977, unless before such delivery—
 
@@ -7169,13 +7169,13 @@ Such certification shall set forth the reasons supporting such determination in 
 
 **(B)** Any joint resolution under this paragraph shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
 
-(Pub. L. 90–629, ch. 10, § 101, as added Pub. L. 103–236, title VIII, § 826(a), Apr. 30, 1994, 108 Stat. 515; amended Pub. L. 113–276, title II, § 208(a)(1), Dec. 18, 2014, 128 Stat. 2992.)
+(Pub. L. 90–629, ch. 10, § 101, as added Pub. L. 103–236, title VIII, § 826(a), Apr. 30, 1994, 108 Stat. 515; amended Pub. L. 113–276, title II, § 208(a)(1), Dec. 18, 2014, 128 Stat. 2992.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. Chapters 4 and 6 of part II of the Act are classified generally to parts IV (§ 2346 et seq.) and VI (§ 2348 et seq.), respectively, of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. Chapters 4 and 6 of part II of the Act are classified generally to parts IV (§ 2346 et seq.) and VI (§ 2348 et seq.), respectively, of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
@@ -7189,7 +7189,7 @@ Section 601(b) of the International Security Assistance and Arms Export Control 
 
 **References to Sections 2429 and 2429a of This Title Deemed To Be References to Sections 2799aa and 2799aa–1 of This Title**
 
-Pub. L. 103–236, title VIII, § 826(c), Apr. 30, 1994, 108 Stat. 519, provided that: “Any reference in law as of the date of enactment of this Act [Apr. 30, 1994] to section 669 or 670 of the Foreign Assistance Act of 1961 [former 22 U.S.C. 2429, 2429a] shall, after such date, be deemed to be a reference to section 101 or 102, as the case may be, of the Arms Export Control Act [22 U.S.C. 2799aa, 2799aa–1].”
+Pub. L. 103–236, title VIII, § 826(c), Apr. 30, 1994, 108 Stat. 519, provided that: “Any reference in law as of the date of enactment of this Act [Apr. 30, 1994] to section 669 or 670 of the Foreign Assistance Act of 1961 [former 22 U.S.C. 2429, 2429a] shall, after such date, be deemed to be a reference to section 101 or 102, as the case may be, of the Arms Export Control Act [22 U.S.C. 2799aa, 2799aa–1].”
 
 **Effective Date**
 
@@ -7203,7 +7203,7 @@ Sanctions contained in this section waived in certain regards with respect to In
 
 Sanctions contained in this section waived in certain regards with respect to India and Pakistan by Determination of President of the United States, No. 2000–4, Oct. 27, 1999, 64 F.R. 60649, set out as a note under section 2799aa–1 of this title.
 
-### § 2799aa–1. Nuclear reprocessing transfers, illegal exports for nuclear explosive devices, transfers of nuclear explosive devices, and nuclear detonations
+### § 2799aa–1. Nuclear reprocessing transfers, illegal exports for nuclear explosive devices, transfers of nuclear explosive devices, and nuclear detonations
 
 **(a) Prohibitions on assistance to countries involved in transfer of nuclear reprocessing equipment, materials, or technology; exceptions; procedures applicable**
 
@@ -7265,9 +7265,9 @@ then the President shall forthwith report in writing his determination to the Co
 
 **(F)** The United States Government shall prohibit any United States bank from making any loan or providing any credit to the government of that country, except for loans or credits for the purpose of purchasing food or other agricultural commodities, which includes fertilizer.
 
-**(G)** The authorities of section 4605 1
+**(G)** The authorities of section 4605 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 50 shall be used to prohibit exports to that country of specific goods and technology (excluding food and other agricultural commodities), except that such prohibition shall not apply to any transaction subject to the reporting requirements of title V of the National Security Act of 1947 [50 U.S.C. 3091 et seq.] (relating to congressional oversight of intelligence activities).
 
@@ -7303,13 +7303,13 @@ of title 50 shall be used to prohibit exports to that country of specific goods 
 
 As used in this section, the term “non-­nuclear-weapon state” means any country which is not a nuclear-weapon state, as defined in Article IX(3) of the Treaty on the Non-Proliferation of Nuclear Weapons.
 
-(Pub. L. 90–629, ch. 10, § 102, as added Pub. L. 103–236, title VIII, § 826(a), Apr. 30, 1994, 108 Stat. 516; amended Pub. L. 105–194, § 2(a)–(c), July 14, 1998, 112 Stat. 627; Pub. L. 113–276, title II, § 208(a)(1), Dec. 18, 2014, 128 Stat. 2992.)
+(Pub. L. 90–629, ch. 10, § 102, as added Pub. L. 103–236, title VIII, § 826(a), Apr. 30, 1994, 108 Stat. 516; amended Pub. L. 105–194, § 2(a)–(c), July 14, 1998, 112 Stat. 627; Pub. L. 113–276, title II, § 208(a)(1), Dec. 18, 2014, 128 Stat. 2992.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1) and (b)(2)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. Chapters 4 and 6 of part II of the Act are classified generally to parts IV (§ 2346 et seq.) and VI (§ 2348 et seq.), respectively, of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1) and (b)(2)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. Chapters 4 and 6 of part II of the Act are classified generally to parts IV (§ 2346 et seq.) and VI (§ 2348 et seq.), respectively, of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 This chapter, referred to in subsecs. (a)(1) and (b)(2)(B)(i), (C), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
@@ -7317,9 +7317,9 @@ Section 601(b) of the International Security Assistance and Arms Export Control 
 
 For effective date of part B of the Nuclear Proliferation Prevention Act of 1994 [part B of title VIII of Pub. L. 103–236], referred to in subsec. (b)(1), as 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
 
-The National Security Act of 1947, referred to in subsec. (b)(2)(D)(i), (G), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (b)(2)(D)(i), (G), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
-Section 4605 of title 50, referred to in subsec. (b)(2)(G), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+Section 4605 of title 50, referred to in subsec. (b)(2)(G), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 Section 102 of the Arms Export Control Act, referred to in subsec. (b)(4)(D), is classified to this section.
 
@@ -7327,11 +7327,11 @@ Section 102 of the Arms Export Control Act, referred to in subsec. (b)(4)(D), is
 
 2014—Subsec. (a)(2). Pub. L. 113–276 substituted “the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and” for “the Speaker of the House of Representatives and”.
 
-1998—Subsec. (b)(2)(D)(ii). Pub. L. 105–194, § 2(c), inserted “medicines, medical equipment, and” after “to”.
+1998—Subsec. (b)(2)(D)(ii). Pub. L. 105–194, § 2(c), inserted “medicines, medical equipment, and” after “to”.
 
-Subsec. (b)(2)(D)(iii). Pub. L. 105–194, § 2(a), added cl. (iii).
+Subsec. (b)(2)(D)(iii). Pub. L. 105–194, § 2(a), added cl. (iii).
 
-Subsec. (b)(2)(F). Pub. L. 105–194, § 2(b), inserted “, which includes fertilizer” before period at end.
+Subsec. (b)(2)(F). Pub. L. 105–194, § 2(b), inserted “, which includes fertilizer” before period at end.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7341,7 +7341,7 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–194, § 2(d), July 14, 1998, 112 Stat. 627, provided that: “The amendment made by subsection (a)(3) [amending this section] shall apply to any credit, credit guarantee, or other financial assistance provided by the Department of Agriculture before, on, or after the date of enactment of this Act [July 14, 1998] through September 30, 1999.”
+Pub. L. 105–194, § 2(d), July 14, 1998, 112 Stat. 627, provided that: “The amendment made by subsection (a)(3) [amending this section] shall apply to any credit, credit guarantee, or other financial assistance provided by the Department of Agriculture before, on, or after the date of enactment of this Act [July 14, 1998] through September 30, 1999.”
 
 **Effective Date**
 
@@ -7349,7 +7349,7 @@ Section effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–
 
 **Waiver of Certain Sanctions Against North Korea**
 
-Pub. L. 110–252, title I, § 1405, June 30, 2008, 122 Stat. 2337, as amended by Pub. L. 113–188, title VIII, § 801, Nov. 26, 2014, 128 Stat. 2020; Pub. L. 113–235, div. J, title VII, § 7034(i), Dec. 16, 2014, 128 Stat. 2624, provided that:
+Pub. L. 110–252, title I, § 1405, June 30, 2008, 122 Stat. 2337, as amended by Pub. L. 113–188, title VIII, § 801, Nov. 26, 2014, 128 Stat. 2020; Pub. L. 113–235, div. J, title VII, § 7034(i), Dec. 16, 2014, 128 Stat. 2624, provided that:
 
 > **“(a) Waiver Authority.—**
 
@@ -7397,11 +7397,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 106–291, title I, Oct. 11, 2000, 114 Stat. 927.
 
-Pub. L. 106–113, div. B, § 1000(a)(3) [title I], Nov. 29, 1999, 113 Stat. 1535, 1501A–141.
+Pub. L. 106–113, div. B, § 1000(a)(3) [title I], Nov. 29, 1999, 113 Stat. 1535, 1501A–141.
 
 **Waiver of Certain Sanctions Against India and Pakistan**
 
-Pub. L. 106–79, title IX, § 9001, Oct. 25, 1999, 113 Stat. 1283, as amended by Pub. L. 107–228, div. B, title XIV, § 1405(b), Sept. 30, 2002, 116 Stat. 1458, provided that:
+Pub. L. 106–79, title IX, § 9001, Oct. 25, 1999, 113 Stat. 1283, as amended by Pub. L. 107–228, div. B, title XIV, § 1405(b), Sept. 30, 2002, 116 Stat. 1458, provided that:
 
 > **“(a) Waiver Authority.—** Except as provided in subsections (b) and (c) of this section, the President may waive, with respect to India and Pakistan, the application of any sanction contained in section 101 or 102 of the Arms Export Control Act (22 U.S.C. 2799aa or 22 U.S.C. 2799aa–1), section 2(b)(4) of the Export Import Bank Act of 1945 (12 U.S.C. 635(b)(4)), or section 620E(e) of the Foreign Assistance Act of 1961, as amended, (22 U.S.C. 2375(e)).
 
@@ -7427,11 +7427,11 @@ Pub. L. 106–79, title IX, § 9001, Oct. 25, 1999, 113 Stat. 1283, as amended
 
 **India-Pakistan Relief**
 
-Pub. L. 105–277, div. A, § 101(a) [title IX], Oct. 21, 1998, 112 Stat. 2681, 2681–40, known as the India-Pakistan Relief Act, provided for a one-year waiver of certain sanctions against India and Pakistan under the Arms Export Control Act, prior to repeal by Pub. L. 106–79, title IX, § 9001(f), Oct. 25, 1999, 113 Stat. 1284, effective Oct. 21, 1999.
+Pub. L. 105–277, div. A, § 101(a) [title IX], Oct. 21, 1998, 112 Stat. 2681, 2681–40, known as the India-Pakistan Relief Act, provided for a one-year waiver of certain sanctions against India and Pakistan under the Arms Export Control Act, prior to repeal by Pub. L. 106–79, title IX, § 9001(f), Oct. 25, 1999, 113 Stat. 1284, effective Oct. 21, 1999.
 
 **Effect on Existing Sanctions**
 
-Pub. L. 105–194, § 2(e), July 14, 1998, 112 Stat. 627, provided that: “Any sanction imposed under section 102(b)(1) of the Arms Export Control Act [subsec. (b)(1) of this section] before the date of the enactment of this Act [July 14, 1998] shall cease to apply upon that date with respect to the items described in the amendments made by subsections (b) and (c) [amending this section]. In the case of the amendment made by subsection (a)(3) [amending this section], any sanction imposed under section 102(b)(1) of the Arms Export Control Act before the date of the enactment of this Act shall not be in effect during the period beginning on that date and ending on September 30, 1999, with respect to the activities and items described in the amendment.”
+Pub. L. 105–194, § 2(e), July 14, 1998, 112 Stat. 627, provided that: “Any sanction imposed under section 102(b)(1) of the Arms Export Control Act [subsec. (b)(1) of this section] before the date of the enactment of this Act [July 14, 1998] shall cease to apply upon that date with respect to the items described in the amendments made by subsections (b) and (c) [amending this section]. In the case of the amendment made by subsection (a)(3) [amending this section], any sanction imposed under section 102(b)(1) of the Arms Export Control Act before the date of the enactment of this Act shall not be in effect during the period beginning on that date and ending on September 30, 1999, with respect to the activities and items described in the amendment.”
 
 **Executive Documents**
 
@@ -7449,7 +7449,7 @@ Determination of President of the United States, No. 98–25, May 30, 1998, 63 F
 
 **Waiver of Certain Sanctions Against India and Pakistan**
 
-Provisions relating to waiver of sanctions against India and Pakistan consistent with section 9001 of Pub. L. 106–79, set out as a note above, or section 101(a) [title IX, § 902] of Pub. L. 105–277, formerly set out in a note above, were contained in the following:
+Provisions relating to waiver of sanctions against India and Pakistan consistent with section 9001 of Pub. L. 106–79, set out as a note above, or section 101(a) [title IX, § 902] of Pub. L. 105–277, formerly set out in a note above, were contained in the following:
 
 Determination of President of the United States, No. 2001–28, Sept. 22, 2001, 66 F.R. 50095.
 
@@ -7463,11 +7463,11 @@ Determination of President of the United States, No. 2000–4, Oct. 27, 1999, 64
 
 Determination of President of the United States, No. 99–7, Dec. 1, 1998, 34 Weekly Compilation of Presidential Documents 2402, Dec. 7, 1998.
 
-### § 2799aa–2. “Nuclear explosive device” defined
+### § 2799aa–2. “Nuclear explosive device” defined
 
 As used in this subchapter, the term “nuclear explosive device” has the meaning given that term in section 6305(4) of this title.
 
-(Pub. L. 90–629, ch. 10, § 103, as added Pub. L. 103–236, title VIII, § 826(a), Apr. 30, 1994, 108 Stat. 519.)
+(Pub. L. 90–629, ch. 10, § 103, as added Pub. L. 103–236, title VIII, § 826(a), Apr. 30, 1994, 108 Stat. 519.)
 
 **Statutory Notes and Related Subsidiaries**
 

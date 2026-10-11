@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 56A—PACIFIC SALMON FISHING
 
-## § 3631. Definitions
+## § 3631. Definitions
 
 As used in this chapter, unless the context otherwise requires, the term—
 
@@ -49,11 +49,11 @@ and shall also include Steelhead (Salmo gairdneri);
 
 **(j)** “United States Section” means the four United States Commissioners appointed by the President pursuant to this chapter.
 
-(Pub. L. 99–5, § 2, Mar. 15, 1985, 99 Stat. 7; Pub. L. 102–251, title III, § 306(a), Mar. 9, 1992, 106 Stat. 66; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+(Pub. L. 99–5, § 2, Mar. 15, 1985, 99 Stat. 7; Pub. L. 102–251, title III, § 306(a), Mar. 9, 1992, 106 Stat. 66; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 **Amendment of Section**
 
-Pub. L. 102–251, title III, §§ 306(a), 308, Mar. 9, 1992, 106 Stat. 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended by redesignating subsections (h) to (j) as (i) to (k), respectively, and by inserting after subsection (g) the following new subsection:
+Pub. L. 102–251, title III, §§ 306(a), 308, Mar. 9, 1992, 106 Stat. 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended by redesignating subsections (h) to (j) as (i) to (k), respectively, and by inserting after subsection (g) the following new subsection:
 
 *(h) “Special areas” means the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, the term refers to those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.*
 
@@ -61,7 +61,7 @@ Pub. L. 102–251, title III, §§ 306(a), 308, Mar. 9, 1992, 106 Stat. 66, pr
 
 **References in Text**
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 **Amendments**
 
@@ -71,7 +71,7 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 **Effective Date of 1992 Amendment**
 
@@ -79,7 +79,7 @@ Amendment by Pub. L. 102–251 effective on date on which Agreement between Unit
 
 **Short Title**
 
-Pub. L. 99–5, § 1, Mar. 15, 1985, 99 Stat. 7, provided: “That this Act [enacting this chapter and repealing sections 776 to 776f of this title and provisions set out as notes under section 776 of this title] may be cited as the ‘Pacific Salmon Treaty Act of 1985’.”
+Pub. L. 99–5, § 1, Mar. 15, 1985, 99 Stat. 7, provided: “That this Act [enacting this chapter and repealing sections 776 to 776f of this title and provisions set out as notes under section 776 of this title] may be cited as the ‘Pacific Salmon Treaty Act of 1985’.”
 
 **Executive Documents**
 
@@ -87,17 +87,17 @@ Pub. L. 99–5, § 1, Mar. 15, 1985, 99 Stat. 7, provided: “That this Act [e
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
-## § 3632. United States Section
+## § 3632. United States Section
 
 **(a) Commissioners**
 
-The United States shall be represented on the Commission by four United States Commissioners who are knowledgeable or experienced concerning Pacific salmon, to be appointed by and serve at the pleasure of the President. Of these, one shall be an official of the United States Government who shall be a nonvoting member of the United States Section; one shall be a resident of the State of Alaska and shall be appointed from a list of at least six qualified individuals nominated by the Governor of that State; one shall be a resident of the States 1
+The United States shall be represented on the Commission by four United States Commissioners who are knowledgeable or experienced concerning Pacific salmon, to be appointed by and serve at the pleasure of the President. Of these, one shall be an official of the United States Government who shall be a nonvoting member of the United States Section; one shall be a resident of the State of Alaska and shall be appointed from a list of at least six qualified individuals nominated by the Governor of that State; one shall be a resident of the States 1
 
-<sup>1</sup>  So in original. Probably should be “State”.
+<sup>1</sup> So in original. Probably should be “State”.
 
 of Oregon,2
 
-<sup>2</sup>  So in original. The comma probably should not appear.
+<sup>2</sup> So in original. The comma probably should not appear.
 
 or Washington and shall be appointed from a list of at least six qualified individuals nominated by the Governors of those States; and one shall be appointed from a list of at least six qualified individuals nominated by the treaty Indian tribes of the States of Idaho, Oregon or Washington. Two of the initial appointments shall be for two-year terms; all other appointments shall be for four-year terms. Each Commissioner is eligible for reappointment. Any individual appointed to fill a vacancy occurring prior to the expiration of any term of office shall be appointed for the remainder of that term. Unless otherwise agreed, the chairmanship of the United States Section shall rotate annually among all four members with the order of rotation determined by lot at the first meeting.
 
@@ -151,9 +151,9 @@ Panel members described in subsections (c)(2), (c)(3), (d)(2), and (e)(2) shall 
 
 **(1)** Except as provided in paragraph (2), the United States Section shall operate with the objective of attaining consensus decisions in the development and exercise of its single vote within the Commission. A decision of the United States Section shall be taken when there is no dissenting vote.
 
-**(2)** A decision of the United States Section with respect to any salmon fishery regime covered by chapter 1 or 2 (except paragraph 4 of chapter 2) of Annex IV to the Pacific Salmon Treaty of 1985 shall be taken upon the affirmative vote of the United States Commissioner appointed from the list submitted by the Governor of Alaska pursuant to subsection (a). A decision of the United States Section with respect to any salmon fishery regime covered by chapter 4, 5 (except paragraph 2(b) of chapter 5), or 6 of the Pacific Salmon Treaty of 1985 shall be taken upon the affirmative vote of both the United States Commissioner appointed from the list submitted by the Governors of Washington and Oregon pursuant to subsection (a) and the United States Commissioner appointed from the list submitted by the treaty Indian tribes of the State of Idaho, Oregon, or Washington pursuant to subsection (a). Before a decision of the United States Section is made under this paragraph, the voting Commissioner or Commissioners shall consult with the Commissioner who is an official of the United States Government under subsection (a) 3
+**(2)** A decision of the United States Section with respect to any salmon fishery regime covered by chapter 1 or 2 (except paragraph 4 of chapter 2) of Annex IV to the Pacific Salmon Treaty of 1985 shall be taken upon the affirmative vote of the United States Commissioner appointed from the list submitted by the Governor of Alaska pursuant to subsection (a). A decision of the United States Section with respect to any salmon fishery regime covered by chapter 4, 5 (except paragraph 2(b) of chapter 5), or 6 of the Pacific Salmon Treaty of 1985 shall be taken upon the affirmative vote of both the United States Commissioner appointed from the list submitted by the Governors of Washington and Oregon pursuant to subsection (a) and the United States Commissioner appointed from the list submitted by the treaty Indian tribes of the State of Idaho, Oregon, or Washington pursuant to subsection (a). Before a decision of the United States Section is made under this paragraph, the voting Commissioner or Commissioners shall consult with the Commissioner who is an official of the United States Government under subsection (a) 3
 
-<sup>3</sup>  So in original. Probably should be followed by a period.
+<sup>3</sup> So in original. Probably should be followed by a period.
 
 **(3)** All decisions and recommendations of the United States Section of the northern, southern, and transboundary Panels shall require the concurring vote of a majority of the United States Panel members present and voting, except that decisions and recommendations of the southern Panel shall require the concurring vote of the members designated in subsections (c)(2) and (c)(3) and one of those members designated in subsection (c)(4).
 
@@ -171,7 +171,7 @@ Panel members described in subsections (c)(2), (c)(3), (d)(2), and (e)(2) shall 
 
 In carrying out their functions under the Treaty, the Commissioners and Panel members may consult with such other interested parties as they consider appropriate. Chapter 10 of title 5 shall not apply.
 
-(Pub. L. 99–5, § 3, Mar. 15, 1985, 99 Stat. 8; Pub. L. 99–5, § 16(c), formerly Pub. L. 106–113, div. B, § 1000(a)(1) [title VI, § 623(c)], Nov. 29, 1999, 113 Stat. 1535, 1501A–59, renumbered Pub. L. 109–479, title III, § 302(d)(1), Jan. 12, 2007, 120 Stat. 3623; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(5)], Dec. 21, 2000, 114 Stat. 2763, 2763A–239; Pub. L. 117–286, § 4(a)(118), Dec. 27, 2022, 136 Stat. 4318.)
+(Pub. L. 99–5, § 3, Mar. 15, 1985, 99 Stat. 8; Pub. L. 99–5, § 16(c), formerly Pub. L. 106–113, div. B, § 1000(a)(1) [title VI, § 623(c)], Nov. 29, 1999, 113 Stat. 1535, 1501A–59, renumbered Pub. L. 109–479, title III, § 302(d)(1), Jan. 12, 2007, 120 Stat. 3623; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(5)], Dec. 21, 2000, 114 Stat. 2763, 2763A–239; Pub. L. 117–286, § 4(a)(118), Dec. 27, 2022, 136 Stat. 4318.)
 
 **Editorial Notes**
 
@@ -179,21 +179,21 @@ In carrying out their functions under the Treaty, the Commissioners and Panel me
 
 2022—Subsec. (i). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act”.
 
-2000—Subsec. (f). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(5)(A)], added subsec. (f). Former subsec. (f) redesignated (g).
+2000—Subsec. (f). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(5)(A)], added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(5)(B), (C)], redesignated subsec. (f) as (g) and substituted “For the northern, southern, and Fraser River panels, the appointing authorities” for “The appointing authorities”. Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(5)(B), (C)], redesignated subsec. (f) as (g) and substituted “For the northern, southern, and Fraser River panels, the appointing authorities” for “The appointing authorities”. Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(5)(B)], redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(5)(B)], redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
-Subsec. (h)(3). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(5)(D)], substituted “northern, southern, and transboundary” for “northern and southern”.
+Subsec. (h)(3). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(5)(D)], substituted “northern, southern, and transboundary” for “northern and southern”.
 
-Subsec. (i). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(5)(B)], redesignated subsec. (h) as (i).
+Subsec. (i). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(5)(B)], redesignated subsec. (h) as (i).
 
-1999—Subsec. (g)(1). Pub. L. 99–5, § 16(c)(1), formerly Pub. L. 106–113, § 1000(a)(1) [title II, § 623(c)(1)], as renumbered by Pub. L. 109–479, § 302(d)(1), substituted “Except as provided in paragraph (2), the” for “The”.
+1999—Subsec. (g)(1). Pub. L. 99–5, § 16(c)(1), formerly Pub. L. 106–113, § 1000(a)(1) [title II, § 623(c)(1)], as renumbered by Pub. L. 109–479, § 302(d)(1), substituted “Except as provided in paragraph (2), the” for “The”.
 
-Subsec. (g)(2) to (8). Pub. L. 99–5, § 16(c)(2), (3), formerly Pub. L. 106–113, § 1000(a)(1) [title II, § 623(c)(2), (3)], as renumbered by Pub. L. 109–479, § 302(d)(1), added par. (2) and redesignated former pars. (2) to (7) as (3) to (8), respectively.
+Subsec. (g)(2) to (8). Pub. L. 99–5, § 16(c)(2), (3), formerly Pub. L. 106–113, § 1000(a)(1) [title II, § 623(c)(2), (3)], as renumbered by Pub. L. 109–479, § 302(d)(1), added par. (2) and redesignated former pars. (2) to (7) as (3) to (8), respectively.
 
-## § 3633. Authority and responsibility
+## § 3633. Authority and responsibility
 
 **(a) Secretary of State** The Secretary of State is authorized to—
 
@@ -211,9 +211,9 @@ Recommendations of the Commission on fishery regimes or Fraser River Panel regul
 
 In cooperation with the appropriate Regional Fishery Management Councils, States and treaty Indian tribes, the Secretary shall prepare, as appropriate, all statements, reports, and information required by the Treaty and submit such documents to the Secretary of State, who shall transmit them to the Commission.
 
-(Pub. L. 99–5, § 4, Mar. 15, 1985, 99 Stat. 10.)
+(Pub. L. 99–5, § 4, Mar. 15, 1985, 99 Stat. 10.)
 
-## § 3634. Interagency cooperation
+## § 3634. Interagency cooperation
 
 **(a) States, United States agencies, treaty Indian tribes, private institutions and organizations**
 
@@ -223,15 +223,15 @@ In carrying out the provisions of the Treaty and this chapter, the Secretary, in
 
 Agencies of the United States may cooperate in the conduct of scientific and other programs, and may furnish facilities and personnel, for the purposes of assisting the Commission and Panels in carrying out their responsibilities under the Treaty. Such agencies may accept reimbursement from the Commission for providing such services, facilities, and personnel.
 
-(Pub. L. 99–5, § 5, Mar. 15, 1985, 99 Stat. 11.)
+(Pub. L. 99–5, § 5, Mar. 15, 1985, 99 Stat. 11.)
 
-## § 3635. Preemption
+## § 3635. Preemption
 
 If any State or treaty Indian tribe has taken any action, or omitted to take any action, the results of which place the United States in jeopardy of not fulfilling its international obligations under the Treaty, or any fishery regime or Fraser River Panel regulation adopted thereunder, the Secretary shall inform the State or tribe of the manner in which the action or inaction places the United States in jeopardy of not fulfilling its international obligations under the Treaty, of any remedial action which would relieve this concern, and of the intention to promulgate Federal regulations if such remedial actions are not undertaken within fifteen days unless an earlier action is required to avoid violation of United States Treaty obligations. Should United States action be required to meet Treaty obligations to Canada in respect to treaty Indian fisheries conducted in terminal areas subject to the continuing jurisdiction of a United States district court, such action shall be taken within the framework of such court jurisdiction. Otherwise, regulations may be promulgated by the Secretary pursuant to section 3636(a) of this title which shall supersede any State or treaty Indian tribal law, regulation or order determined by the Secretary to place the United States in jeopardy of not fulfilling its international obligations under the Treaty. Timely notice of all such determinations shall be disseminated by electronic media and shall be published in local newspapers in the major fishing ports affected and in the Federal Register. In order to enable the United States to fulfill its obligations under article IV(7) of the Treaty, the States of Alaska, Idaho, Oregon and Washington and the treaty Indian tribes shall advise the Secretary of all pertinent laws or regulations pertaining to the harvest of Pacific salmon, together with such amendments thereto as may be adopted from time to time.
 
-(Pub. L. 99–5, § 6, Mar. 15, 1985, 99 Stat. 11.)
+(Pub. L. 99–5, § 6, Mar. 15, 1985, 99 Stat. 11.)
 
-## § 3636. Rulemaking
+## § 3636. Rulemaking
 
 **(a) Promulgation of regulations by Secretary of Commerce**
 
@@ -245,17 +245,17 @@ The Secretary, in cooperation with the Regional Fishery Management Councils, Sta
 
 Regulations promulgated by the Secretary under this chapter shall be subject to judicial review by the district courts of the United States to the extent authorized by, and in accordance with, chapter 7 of title 5; except that section 705 of such title is not applicable, and the appropriate court shall only set aside any such regulation on a ground specified in section 706(2)(A), (B), (C), or (D) of such title. A civil action filed pursuant to this section shall be assigned for hearing at the earliest possible date, shall take precedence over other matters pending on the docket of the United States district court at that time, and shall be expedited in every way by such court and any appellate court.
 
-(Pub. L. 99–5, § 7, Mar. 15, 1985, 99 Stat. 12; Pub. L. 102–251, title III, § 306(b), Mar. 9, 1992, 106 Stat. 66.)
+(Pub. L. 99–5, § 7, Mar. 15, 1985, 99 Stat. 12; Pub. L. 102–251, title III, § 306(b), Mar. 9, 1992, 106 Stat. 66.)
 
 **Amendment of Subsection (a)**
 
-Pub. L. 102–251, title III, §§ 306(b), 308, Mar. 9, 1992, 106 Stat. 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (a) is amended by inserting “and special areas” after “Exclusive Economic Zone”.
+Pub. L. 102–251, title III, §§ 306(b), 308, Mar. 9, 1992, 106 Stat. 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (a) is amended by inserting “and special areas” after “Exclusive Economic Zone”.
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act, referred to in subsec. (a), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act, referred to in subsec. (a), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -267,7 +267,7 @@ Amendment by Pub. L. 102–251 effective on date on which Agreement between Unit
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 3637. Prohibited acts and penalties
+## § 3637. Prohibited acts and penalties
 
 **(a) Unlawful acts** It is unlawful for any person or vessel subject to the jurisdiction of the United States—
 
@@ -287,21 +287,21 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 For additional prohibitions relating to this chapter and enforcement of this chapter, see section 1826g of this title.
 
-(Pub. L. 99–5, § 8, Mar. 15, 1985, 99 Stat. 12; Pub. L. 114–81, title I, § 104, Nov. 5, 2015, 129 Stat. 657.)
+(Pub. L. 99–5, § 8, Mar. 15, 1985, 99 Stat. 12; Pub. L. 114–81, title I, § 104, Nov. 5, 2015, 129 Stat. 657.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2015—Subsec. (a)(2). Pub. L. 114–81, § 104(1)(B), made technical amendment to reference in original act which appears in text as reference to “this chapter”.
+2015—Subsec. (a)(2). Pub. L. 114–81, § 104(1)(B), made technical amendment to reference in original act which appears in text as reference to “this chapter”.
 
-Pub. L. 114–81, § 104(1)(A), inserted “, investigation,” after “search”.
+Pub. L. 114–81, § 104(1)(A), inserted “, investigation,” after “search”.
 
-Subsec. (a)(3). Pub. L. 114–81, § 104(2), inserted “, investigation,” after “search” and substituted “paragraph (2);” for “subparagraph (2);”.
+Subsec. (a)(3). Pub. L. 114–81, § 104(2), inserted “, investigation,” after “search” and substituted “paragraph (2);” for “subparagraph (2);”.
 
-Subsec. (a)(5). Pub. L. 114–81, § 104(3), made technical amendment to reference in original act which appears as a reference to “this chapter” and struck out “or” at end.
+Subsec. (a)(5). Pub. L. 114–81, § 104(3), made technical amendment to reference in original act which appears as a reference to “this chapter” and struck out “or” at end.
 
-Subsecs. (b) to (f). Pub. L. 114–81, § 104(4), added subsec. (b) and struck out former subsecs. (b) to (f), which related to civil penalty, criminal penalty, forfeiture, enforcement authority, and jurisdiction.
+Subsecs. (b) to (f). Pub. L. 114–81, § 104(4), added subsec. (b) and struck out former subsecs. (b) to (f), which related to civil penalty, criminal penalty, forfeiture, enforcement authority, and jurisdiction.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -309,11 +309,11 @@ Subsecs. (b) to (f). Pub. L. 114–81, § 104(4), added subsec. (b) and struck
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 3638. General standard
+## § 3638. General standard
 
 All actions taken under sections 3632(g),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 3633, 3635, and 3636 of this title shall—
 
@@ -323,15 +323,15 @@ All actions taken under sections 3632(g),1
 
 **(c)** be consistent with United States obligations under the Treaty, domestic Indian treaties and other applicable law.
 
-(Pub. L. 99–5, § 9, Mar. 15, 1985, 99 Stat. 13.)
+(Pub. L. 99–5, § 9, Mar. 15, 1985, 99 Stat. 13.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3632(g) of this title, referred to in text, was redesignated section 3632(h) of this title by Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(5)(B)], Dec. 21, 2000, 114 Stat. 2763, 2763A–239.
+Section 3632(g) of this title, referred to in text, was redesignated section 3632(h) of this title by Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(5)(B)], Dec. 21, 2000, 114 Stat. 2763, 2763A–239.
 
-## § 3639. Advisory committee
+## § 3639. Advisory committee
 
 **(a) Appointment; membership**
 
@@ -349,7 +349,7 @@ The members of the advisory committee shall receive no compensation for their se
 
 The Chairman of the United States Section shall call a meeting of the advisory committee at least one time each year.
 
-(Pub. L. 99–5, § 10, Mar. 15, 1985, 99 Stat. 13.)
+(Pub. L. 99–5, § 10, Mar. 15, 1985, 99 Stat. 13.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -357,7 +357,7 @@ The Chairman of the United States Section shall call a meeting of the advisory c
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
-## § 3640. Administrative matters
+## § 3640. Administrative matters
 
 **(a) Compensation of Commissioners and Alternate Commissioners**
 
@@ -373,21 +373,21 @@ Travel and other necessary expenses shall be paid for all United States Commissi
 
 **(d) Individuals not considered Federal employees**
 
-Except for officials of the United States Government, such individuals shall not be considered to be Federal employees while engaged in the actual performance of duties for the United States Section or for the Commission, except for the purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 71 1
+Except for officials of the United States Government, such individuals shall not be considered to be Federal employees while engaged in the actual performance of duties for the United States Section or for the Commission, except for the purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 71 1
 
-<sup>1</sup>  So in original. Probably should be chapter “171”.
+<sup>1</sup> So in original. Probably should be chapter “171”.
 
 of title 28.
 
-(Pub. L. 99–5, § 11, Mar. 15, 1985, 99 Stat. 14.)
+(Pub. L. 99–5, § 11, Mar. 15, 1985, 99 Stat. 14.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 3641. Authorization of appropriations
+## § 3641. Authorization of appropriations
 
 There are authorized to be appropriated from time to time such sums as may be necessary for carrying out the purposes and provisions of the Treaty and this chapter including—
 
@@ -399,33 +399,33 @@ There are authorized to be appropriated from time to time such sums as may be ne
 
 **(d)** such amounts as may be due to settle accounts upon termination of the International Pacific Salmon Fisheries Commission.
 
-(Pub. L. 99–5, § 12, Mar. 15, 1985, 99 Stat. 14.)
+(Pub. L. 99–5, § 12, Mar. 15, 1985, 99 Stat. 14.)
 
-## § 3642. Disposition of property of International Pacific Salmon Fisheries Commission
+## § 3642. Disposition of property of International Pacific Salmon Fisheries Commission
 
 The Secretary of State shall dispose of any United States property held by the International Pacific Salmon Fisheries Commission on the date of its termination in a manner which would further the purposes of this chapter.
 
-(Pub. L. 99–5, § 13 (part), Mar. 15, 1985, 99 Stat. 15.)
+(Pub. L. 99–5, § 13 (part), Mar. 15, 1985, 99 Stat. 15.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section consists of a part of section 13 of Pub. L. 99–5. The remainder of section 13 of Pub. L. 99–5 provided for the repeal, effective Dec. 31, 1985, of the Sockeye Salmon or Pink Salmon Fishing Act of 1947, act July 29, 1947, ch. 345, 61 Stat. 511, as amended, which was classified to chapter 10A (§ 776 et seq.) of this title.
+Section consists of a part of section 13 of Pub. L. 99–5. The remainder of section 13 of Pub. L. 99–5 provided for the repeal, effective Dec. 31, 1985, of the Sockeye Salmon or Pink Salmon Fishing Act of 1947, act July 29, 1947, ch. 345, 61 Stat. 511, as amended, which was classified to chapter 10A (§ 776 et seq.) of this title.
 
-## § 3643. Savings provision
+## § 3643. Savings provision
 
 This chapter shall not be interpreted or applied so as to affect or modify rights established in existing Indian treaties and other existing Federal laws, including the Order entered in Confederated Tribes and Bands of the Yakima Indian Nation v. Baldrige, Civil No. 80–342 (WD WASH.). This section shall not be interpreted or applied so as to affect or modify any rights or obligations of the United States pursuant to the Treaty.
 
-(Pub. L. 99–5, § 14, Mar. 15, 1985, 99 Stat. 15.)
+(Pub. L. 99–5, § 14, Mar. 15, 1985, 99 Stat. 15.)
 
-## § 3644. Restriction on spending authority
+## § 3644. Restriction on spending authority
 
 New spending authority or authority to enter into contracts provided in this chapter shall be effective only to such extent, or in such amounts, as are provided in advance in appropriation Acts.
 
-(Pub. L. 99–5, § 15, Mar. 15, 1985, 99 Stat. 15.)
+(Pub. L. 99–5, § 15, Mar. 15, 1985, 99 Stat. 15.)
 
-## § 3645. Northern and Southern Funds; treaty implementation; additional authorization of appropriations
+## § 3645. Northern and Southern Funds; treaty implementation; additional authorization of appropriations
 
 **(a) Northern Fund and Southern Fund**
 
@@ -483,41 +483,41 @@ New spending authority or authority to enter into contracts provided in this cha
 
 **(2) Pacific coastal salmon recovery**
 
-**(A)** For salmon habitat restoration, salmon stock enhancement, sustainable salmon fisheries, and salmon research, including the construction of salmon research and related facilities, there is authorized to be appropriated for each of fiscal years 2000, 2001, 2002, and 1
+**(A)** For salmon habitat restoration, salmon stock enhancement, sustainable salmon fisheries, and salmon research, including the construction of salmon research and related facilities, there is authorized to be appropriated for each of fiscal years 2000, 2001, 2002, and 1
 
-<sup>1</sup>  So in original. The word “and” probably should not appear.
+<sup>1</sup> So in original. The word “and” probably should not appear.
 
 2003, 2005, 2006, 2007, 2008, and 2009, $90,000,000 to the States of Alaska, Washington, Oregon, Idaho, Nevada, and California. Amounts appropriated pursuant to this subparagraph shall be made available as direct payments. The State of Alaska may allocate a portion of any funds it receives under this subsection to eligible activities outside Alaska.
 
 **(B)** For salmon habitat restoration, salmon stock enhancement, salmon research, and supplementation activities, there is authorized to be appropriated in each of fiscal years 2000, 2001, 2002, and 2003, $10,000,000 to be divided between the Pacific Coastal tribes (as defined by the Secretary of Commerce) and the Columbia River tribes (as defined by the Secretary of Commerce).
 
-(Pub. L. 99–5, § 16, formerly Pub. L. 106–113, div. B, § 1000(a)(1) [title VI, § 623], Nov. 29, 1999, 113 Stat. 1535, 1501A–56; Pub. L. 106–553, § 1(a)(2) [title VI, § 628], Dec. 21, 2000, 114 Stat. 2762, 2762A–108; Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2881; renumbered Pub. L. 99–5, § 16, and amended Pub. L. 109–479, title III, § 302(d), Jan. 12, 2007, 120 Stat. 3623; Pub. L. 111–8, div. B, title I, § 110, Mar. 11, 2009, 123 Stat. 569.)
+(Pub. L. 99–5, § 16, formerly Pub. L. 106–113, div. B, § 1000(a)(1) [title VI, § 623], Nov. 29, 1999, 113 Stat. 1535, 1501A–56; Pub. L. 106–553, § 1(a)(2) [title VI, § 628], Dec. 21, 2000, 114 Stat. 2762, 2762A–108; Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2881; renumbered Pub. L. 99–5, § 16, and amended Pub. L. 109–479, title III, § 302(d), Jan. 12, 2007, 120 Stat. 3623; Pub. L. 111–8, div. B, title I, § 110, Mar. 11, 2009, 123 Stat. 569.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Public Law 93–205, referred to in subsec. (b)(1)(B)(iii), (3), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, known as the Endangered Species Act of 1973, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+Public Law 93–205, referred to in subsec. (b)(1)(B)(iii), (3), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, known as the Endangered Species Act of 1973, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 **Codification**
 
 Section is comprised of section 16 of Pub. L. 99–5. Section 16(c) of Pub. L. 99–5 amended section 3632 of this title.
 
-Pub. L. 109–479, § 302(d)(1), which directed that the text of section 623 of title VI of H.R. 3421 (113 Stat. 1501A–56), as introduced on November 17, 1999, enacted into law by section 1000(a)(1) of Pub. L. 106–113 and amended by Pub. L. 106–533, 114 Stat. 2762A–108, be transferred to and renumbered as section 16 of the Pacific Salmon Treaty Act, was executed by transferring Pub. L. 106–113, div. B, § 1000(a)(1) [title VI, § 623], as amended by Pub. L. 106–553, § 1(a)(2) [title VI, § 628], to and renumbering it as section 16 of Pub. L. 99–5, which is the Pacific Salmon Treaty Act of 1985, to reflect the probable intent of Congress. See source credit above.
+Pub. L. 109–479, § 302(d)(1), which directed that the text of section 623 of title VI of H.R. 3421 (113 Stat. 1501A–56), as introduced on November 17, 1999, enacted into law by section 1000(a)(1) of Pub. L. 106–113 and amended by Pub. L. 106–533, 114 Stat. 2762A–108, be transferred to and renumbered as section 16 of the Pacific Salmon Treaty Act, was executed by transferring Pub. L. 106–113, div. B, § 1000(a)(1) [title VI, § 623], as amended by Pub. L. 106–553, § 1(a)(2) [title VI, § 628], to and renumbering it as section 16 of Pub. L. 99–5, which is the Pacific Salmon Treaty Act of 1985, to reflect the probable intent of Congress. See source credit above.
 
 **Amendments**
 
 2009—Subsec. (d)(2)(A). Pub. L. 111–8, which directed amendment of “Section (d)(2)(A) of title 16 U.S.C. 3645” by inserting “Nevada,” after “Idaho,”, was executed by making the amendment to section 16 of Pub. L. 99–5, which is classified to this section, to reflect the probable intent of Congress.
 
-2007—Pub. L. 109–479, § 302(d)(1)(B)(ii), inserted section catchline.
+2007—Pub. L. 109–479, § 302(d)(1)(B)(ii), inserted section catchline.
 
-Subsec. (d)(2)(A). Pub. L. 109–479, § 302(d)(2), inserted “sustainable salmon fisheries,” after “enhancement,”, “2005, 2006, 2007, 2008, and 2009,” after “2003,”, and “Idaho,” after “Oregon,”.
+Subsec. (d)(2)(A). Pub. L. 109–479, § 302(d)(2), inserted “sustainable salmon fisheries,” after “enhancement,”, “2005, 2006, 2007, 2008, and 2009,” after “2003,”, and “Idaho,” after “Oregon,”.
 
 2004—Pub. L. 108–447, which directed the amendment of section 628(2)(A) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001, Pub. L. 106–553, by substituting “2005” for “2000, 2001, 2002, and 2003” and inserting “Idaho,” after “Oregon,”, was not executed, because this section was enacted by Pub. L. 106–113, and section 628 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001, was an amendatory provision. See 2007 Amendment note above and 2000 Amendment note below.
 
-2000—Subsec. (a)(1). Pub. L. 106–553, § 1(a)(2) [title VI, § 628(a)], which directed the amendment of par. (1) by striking out “The Northern Fund and Southern Fund shall each receive $10,000,000 of the amounts authorized by this section.”, was executed by striking out “The Northern Fund and Southern Fund shall each receive $10,000,000, of the amounts authorized by this section.” after the second sentence, to reflect the probable intent of Congress.
+2000—Subsec. (a)(1). Pub. L. 106–553, § 1(a)(2) [title VI, § 628(a)], which directed the amendment of par. (1) by striking out “The Northern Fund and Southern Fund shall each receive $10,000,000 of the amounts authorized by this section.”, was executed by striking out “The Northern Fund and Southern Fund shall each receive $10,000,000, of the amounts authorized by this section.” after the second sentence, to reflect the probable intent of Congress.
 
-Subsec. (d). Pub. L. 106–553, § 1(a)(2) [title VI, § 628(b)], added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows:
+Subsec. (d). Pub. L. 106–553, § 1(a)(2) [title VI, § 628(b)], added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows:
 
 “(1) For capitalizing the Northern Fund and the Southern Fund, there is authorized to be appropriated in fiscal year 2000, $20,000,000.
 

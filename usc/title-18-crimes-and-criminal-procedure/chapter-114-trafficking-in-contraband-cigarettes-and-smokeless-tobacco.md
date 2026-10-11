@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2006—Pub. L. 109–177, title I, § 121(g)(3), (4)(A), Mar. 9, 2006, 120 Stat. 224, substituted “TRAFFICKING IN CONTRABAND CIGARETTES AND SMOKELESS TOBACCO” for “TRAFFICKING IN CONTRABAND CIGARETTES” in chapter heading, added items 2343 and 2345, and struck out former items 2343 “Recordkeeping and inspection” and 2345 “Effect on State law”.
+2006—Pub. L. 109–177, title I, § 121(g)(3), (4)(A), Mar. 9, 2006, 120 Stat. 224, substituted “TRAFFICKING IN CONTRABAND CIGARETTES AND SMOKELESS TOBACCO” for “TRAFFICKING IN CONTRABAND CIGARETTES” in chapter heading, added items 2343 and 2345, and struck out former items 2343 “Recordkeeping and inspection” and 2345 “Effect on State law”.
 
-## § 2341. Definitions
+## § 2341. Definitions
 
 As used in this chapter—
 
@@ -55,9 +55,9 @@ As used in this chapter—
 
 **(7)** the term “contraband smokeless tobacco” means a quantity in excess of 500 single-unit consumer-sized cans or packages of smokeless tobacco, or their equivalent, that are in the possession of any person other than—
 
-**(A)** a person holding a permit issued pursuant to chapter 52 of the Internal Revenue Code of 1986 as manufacturer 1
+**(A)** a person holding a permit issued pursuant to chapter 52 of the Internal Revenue Code of 1986 as manufacturer 1
 
-<sup>1</sup>  So in original. Probably should be “a manufacturer”.
+<sup>1</sup> So in original. Probably should be “a manufacturer”.
 
 of tobacco products or as an export warehouse proprietor, a person operating a customs bonded warehouse pursuant to section 311 or 555 of the Tariff Act of 1930 (19 U.S.C. 1311, 1555), or an agent of such person;
 
@@ -69,25 +69,25 @@ of tobacco products or as an export warehouse proprietor, a person operating a c
 
 **(ii)** has complied with the accounting, tax, and payment requirements relating to such license or authorization with respect to such smokeless tobacco; or
 
-**(D)** an officer, employee, or agent of the United States or a State, or any department, agency, or instrumentality of the United States or a State (including any political subdivision of a State), having possession of such smokeless tobacco in connection with the performance of official duties; 2
+**(D)** an officer, employee, or agent of the United States or a State, or any department, agency, or instrumentality of the United States or a State (including any political subdivision of a State), having possession of such smokeless tobacco in connection with the performance of official duties; 2
 
-<sup>2</sup>  So in original. The semicolon probably should be a period.
+<sup>2</sup> So in original. The semicolon probably should be a period.
 
-(Added Pub. L. 95–575, § 1, Nov. 2, 1978, 92 Stat. 2463; amended Pub. L. 97–449, § 5(c), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 107–296, title XI, § 1112(i)(1), Nov. 25, 2002, 116 Stat. 2277; Pub. L. 109–177, title I, § 121(a)(1), (b)(1), (6), Mar. 9, 2006, 120 Stat. 221, 222.)
+(Added Pub. L. 95–575, § 1, Nov. 2, 1978, 92 Stat. 2463; amended Pub. L. 97–449, § 5(c), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 107–296, title XI, § 1112(i)(1), Nov. 25, 2002, 116 Stat. 2277; Pub. L. 109–177, title I, § 121(a)(1), (b)(1), (6), Mar. 9, 2006, 120 Stat. 221, 222.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 52 of the Internal Revenue Code of 1986, referred to in pars. (2)(A) and (7)(A), is classified generally to chapter 52 (§ 5701 et seq.) of Title 26, Internal Revenue Code.
+Chapter 52 of the Internal Revenue Code of 1986, referred to in pars. (2)(A) and (7)(A), is classified generally to chapter 52 (§ 5701 et seq.) of Title 26, Internal Revenue Code.
 
 **Amendments**
 
-2006—Par. (2). Pub. L. 109–177, § 121(b)(6), which directed amendment of par. (2) by substituting “State or local cigarette taxes in the State or locality where such cigarettes are found, if the State or local government” for “State cigarette taxes in the State where such cigarettes are found, if the State” in introductory provisions, was executed by making the substitution for “State cigarette taxes in the State where such cigarettes are found, if such State”, to reflect the probable intent of Congress.
+2006—Par. (2). Pub. L. 109–177, § 121(b)(6), which directed amendment of par. (2) by substituting “State or local cigarette taxes in the State or locality where such cigarettes are found, if the State or local government” for “State cigarette taxes in the State where such cigarettes are found, if the State” in introductory provisions, was executed by making the substitution for “State cigarette taxes in the State where such cigarettes are found, if such State”, to reflect the probable intent of Congress.
 
-Pub. L. 109–177, § 121(a)(1), substituted “10,000 cigarettes” for “60,000 cigarettes” in introductory provisions.
+Pub. L. 109–177, § 121(a)(1), substituted “10,000 cigarettes” for “60,000 cigarettes” in introductory provisions.
 
-Pars. (6), (7). Pub. L. 109–177, § 121(b)(1), added pars. (6) and (7).
+Pars. (6), (7). Pub. L. 109–177, § 121(b)(1), added pars. (6) and (7).
 
 2002—Par. (5). Pub. L. 107–296 added par. (5) and struck out former par. (5) which read as follows: “the term ‘Secretary’ means the Secretary of the Treasury.”
 
@@ -103,7 +103,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 **Effective Date**
 
-Pub. L. 95–575, § 4, Nov. 2, 1978, 92 Stat. 2466, provided:
+Pub. L. 95–575, § 4, Nov. 2, 1978, 92 Stat. 2466, provided:
 
 > **“(a)** Except as provided in subsection (b), this Act [enacting this chapter, amending section 1961 of this title and sections 781 and 787 of former Title 49, Transportation, and enacting provisions set out as a note under this section] shall take effect on the date of its enactment [Nov. 2, 1978].
 
@@ -111,23 +111,23 @@ Pub. L. 95–575, § 4, Nov. 2, 1978, 92 Stat. 2466, provided:
 
 **Authorization of Appropriations**
 
-Pub. L. 95–575, § 5, Nov. 2, 1978, 92 Stat. 2466, provided that: “There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of chapter 114 of title 18, United States Code, added by the first section of this Act.”
+Pub. L. 95–575, § 5, Nov. 2, 1978, 92 Stat. 2466, provided that: “There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of chapter 114 of title 18, United States Code, added by the first section of this Act.”
 
-## § 2342. Unlawful acts
+## § 2342. Unlawful acts
 
 **(a)** It shall be unlawful for any person knowingly to ship, transport, receive, possess, sell, distribute, or purchase contraband cigarettes or contraband smokeless tobacco.
 
 **(b)** It shall be unlawful for any person knowingly to make any false statement or representation with respect to the information required by this chapter to be kept in the records of any person who ships, sells, or distributes any quantity of cigarettes in excess of 10,000 in a single transaction.
 
-(Added Pub. L. 95–575, § 1, Nov. 2, 1978, 92 Stat. 2464; amended Pub. L. 109–177, title I, § 121(a)(2), (b)(2), Mar. 9, 2006, 120 Stat. 221, 222.)
+(Added Pub. L. 95–575, § 1, Nov. 2, 1978, 92 Stat. 2464; amended Pub. L. 109–177, title I, § 121(a)(2), (b)(2), Mar. 9, 2006, 120 Stat. 221, 222.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Subsec. (a). Pub. L. 109–177, § 121(b)(2), inserted “or contraband smokeless tobacco” after “contraband cigarettes”.
+2006—Subsec. (a). Pub. L. 109–177, § 121(b)(2), inserted “or contraband smokeless tobacco” after “contraband cigarettes”.
 
-Subsec. (b). Pub. L. 109–177, § 121(a)(2), substituted “10,000” for “60,000”.
+Subsec. (b). Pub. L. 109–177, § 121(a)(2), substituted “10,000” for “60,000”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -135,7 +135,7 @@ Subsec. (b). Pub. L. 109–177, § 121(a)(2), substituted “10,000” for “
 
 Subsec. (a) of this section effective Nov. 2, 1978, and subsec. (b) of this section effective on first day of first month beginning more than 120 days after Nov. 2, 1978, see section 4 of Pub. L. 95–575, set out as a note under section 2341 of this title.
 
-## § 2343. Recordkeeping, reporting, and inspection
+## § 2343. Recordkeeping, reporting, and inspection
 
 **(a)** Any person who ships, sells, or distributes any quantity of cigarettes in excess of 10,000, or any quantity of smokeless tobacco in excess of 500 single-unit consumer-sized cans or packages, in a single transaction shall maintain such information about the shipment, receipt, sale, and distribution of cigarettes as the Attorney General may prescribe by rule or regulation. The Attorney General may require such person to keep such information as the Attorney General considers appropriate for purposes of enforcement of this chapter, including—
 
@@ -177,7 +177,7 @@ Such information shall be contained on business records kept in the normal cours
 
 **(f)** In this section, the term “interstate commerce” means commerce between a State and any place outside the State, or commerce between points in the same State but through any place outside the State.
 
-(Added Pub. L. 95–575, § 1, Nov. 2, 1978, 92 Stat. 2464; amended Pub. L. 107–296, title XI, § 1112(i)(2), Nov. 25, 2002, 116 Stat. 2277; Pub. L. 109–177, title I, § 121(a)(3), (b)(3), (c), (g)(1), Mar. 9, 2006, 120 Stat. 221, 222, 224; Pub. L. 111–154, § 4, Mar. 31, 2010, 124 Stat. 1109.)
+(Added Pub. L. 95–575, § 1, Nov. 2, 1978, 92 Stat. 2464; amended Pub. L. 107–296, title XI, § 1112(i)(2), Nov. 25, 2002, 116 Stat. 2277; Pub. L. 109–177, title I, § 121(a)(3), (b)(3), (c), (g)(1), Mar. 9, 2006, 120 Stat. 221, 222, 224; Pub. L. 111–154, § 4, Mar. 31, 2010, 124 Stat. 1109.)
 
 **Editorial Notes**
 
@@ -185,17 +185,17 @@ Such information shall be contained on business records kept in the normal cours
 
 2010—Subsec. (c). Pub. L. 111–154 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Upon the consent of any person who ships, sells, or distributes any quantity of cigarettes in excess of 10,000 in a single transaction, or pursuant to a duly issued search warrant, the Attorney General may enter the premises (including places of storage) of such person for the purpose of inspecting any records or information required to be maintained by such person under this chapter, and any cigarettes kept or stored by such person at such premises.”
 
-2006—Pub. L. 109–177, § 121(g)(1), substituted “Recordkeeping, reporting, and inspection” for “Recordkeeping and inspection” in section catchline.
+2006—Pub. L. 109–177, § 121(g)(1), substituted “Recordkeeping, reporting, and inspection” for “Recordkeeping and inspection” in section catchline.
 
-Subsec. (a). Pub. L. 109–177, § 121(a)(3)(A), (b)(3), (c)(1), in introductory provisions, substituted “10,000, or any quantity of smokeless tobacco in excess of 500 single-unit consumer-sized cans or packages,” for “60,000” and “such information as the Attorney General considers appropriate for purposes of enforcement of this chapter, including—” for “only—” and, in concluding provisions, struck out “Nothing contained herein shall authorize the Attorney General to require reporting under this section.” at end.
+Subsec. (a). Pub. L. 109–177, § 121(a)(3)(A), (b)(3), (c)(1), in introductory provisions, substituted “10,000, or any quantity of smokeless tobacco in excess of 500 single-unit consumer-sized cans or packages,” for “60,000” and “such information as the Attorney General considers appropriate for purposes of enforcement of this chapter, including—” for “only—” and, in concluding provisions, struck out “Nothing contained herein shall authorize the Attorney General to require reporting under this section.” at end.
 
-Subsec. (b). Pub. L. 109–177, § 121(c)(3), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 109–177, § 121(c)(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Pub. L. 109–177, § 121(a)(3)(B), substituted “10,000” for “60,000”.
+Pub. L. 109–177, § 121(a)(3)(B), substituted “10,000” for “60,000”.
 
-Subsec. (c). Pub. L. 109–177, § 121(c)(2), redesignated subsec. (b) as (c).
+Subsec. (c). Pub. L. 109–177, § 121(c)(2), redesignated subsec. (b) as (c).
 
-Subsecs. (d) to (f). Pub. L. 109–177, § 121(c)(4), added subsecs. (d) to (f).
+Subsecs. (d) to (f). Pub. L. 109–177, § 121(c)(4), added subsecs. (d) to (f).
 
 2002—Pub. L. 107–296 substituted “Attorney General” for “Secretary” wherever appearing.
 
@@ -209,7 +209,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 Section effective on first day of first month beginning more than 120 days after Nov. 2, 1978, see section 4 of Pub. L. 95–575, set out as a note under section 2341 of this title.
 
-## § 2344. Penalties
+## § 2344. Penalties
 
 **(a)** Whoever knowingly violates section 2342(a) of this title shall be fined under this title or imprisoned not more than five years, or both.
 
@@ -221,7 +221,7 @@ Section effective on first day of first month beginning more than 120 days after
 
 **(2)** used for undercover investigative operations for the detection and prosecution of crimes, and then destroyed and not resold.
 
-(Added Pub. L. 95–575, § 1, Nov. 2, 1978, 92 Stat. 2464; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–322, title XXXIII, § 330016(1)(K), (S), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 109–177, title I, § 121(b)(4), (d), Mar. 9, 2006, 120 Stat. 222, 223.)
+(Added Pub. L. 95–575, § 1, Nov. 2, 1978, 92 Stat. 2464; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–322, title XXXIII, § 330016(1)(K), (S), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 109–177, title I, § 121(b)(4), (d), Mar. 9, 2006, 120 Stat. 222, 223.)
 
 **Editorial Notes**
 
@@ -229,31 +229,31 @@ Section effective on first day of first month beginning more than 120 days after
 
 2006—Subsec. (c). Pub. L. 109–177 inserted “or contraband smokeless tobacco” after “contraband cigarettes”, substituted “seizure and forfeiture. The provisions of chapter 46 of title 18 relating to civil forfeitures shall extend to any seizure or civil forfeiture under this section. Any cigarettes or smokeless tobacco so seized and forfeited shall be either—” for “seizure and forfeiture, and all provisions of the Internal Revenue Code of 1986 relating to the seizure, forfeiture, and disposition of firearms, as defined in section 5845(a) of such Code, shall, so far as applicable, extend to seizures and forfeitures under the provisions of this chapter.”, and added pars. (1) and (2).
 
-1994—Subsec. (a). Pub. L. 103–322, § 330016(1)(S), substituted “fined under this title” for “fined not more than $100,000”.
+1994—Subsec. (a). Pub. L. 103–322, § 330016(1)(S), substituted “fined under this title” for “fined not more than $100,000”.
 
-Subsec. (b). Pub. L. 103–322, § 330016(1)(K), substituted “fined under this title” for “fined not more than $5,000”.
+Subsec. (b). Pub. L. 103–322, § 330016(1)(K), substituted “fined under this title” for “fined not more than $5,000”.
 
 1986—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-## § 2345. Effect on State and local law
+## § 2345. Effect on State and local law
 
 **(a)** Nothing in this chapter shall be construed to affect the concurrent jurisdiction of a State or local government to enact and enforce its own cigarette tax laws, to provide for the confiscation of cigarettes or smokeless tobacco and other property seized for violation of such laws, and to provide for penalties for the violation of such laws.
 
 **(b)** Nothing in this chapter shall be construed to inhibit or otherwise affect any coordinated law enforcement effort by a number of State or local governments, through interstate compact or otherwise, to provide for the administration of State or local cigarette tax laws, to provide for the confiscation of cigarettes or smokeless tobacco and other property seized in violation of such laws, and to establish cooperative programs for the administration of such laws.
 
-(Added Pub. L. 95–575, § 1, Nov. 2, 1978, 92 Stat. 2465; amended Pub. L. 109–177, title I, § 121(b)(5), (e), (g)(2), Mar. 9, 2006, 120 Stat. 222–224.)
+(Added Pub. L. 95–575, § 1, Nov. 2, 1978, 92 Stat. 2465; amended Pub. L. 109–177, title I, § 121(b)(5), (e), (g)(2), Mar. 9, 2006, 120 Stat. 222–224.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Pub. L. 109–177, § 121(g)(2), substituted “Effect on State and local law” for “Effect on State law” in section catchline.
+2006—Pub. L. 109–177, § 121(g)(2), substituted “Effect on State and local law” for “Effect on State law” in section catchline.
 
-Subsec. (a). Pub. L. 109–177, § 121(b)(5), (e)(1), substituted “a State or local government to enact and enforce its own” for “a State to enact and enforce” and inserted “or smokeless tobacco” after “cigarettes”.
+Subsec. (a). Pub. L. 109–177, § 121(b)(5), (e)(1), substituted “a State or local government to enact and enforce its own” for “a State to enact and enforce” and inserted “or smokeless tobacco” after “cigarettes”.
 
-Subsec. (b). Pub. L. 109–177, § 121(b)(5), (e)(2), substituted “of State or local governments, through interstate compact or otherwise, to provide for the administration of State or local” for “of States, through interstate compact or otherwise, to provide for the administration of State” and inserted “or smokeless tobacco” after “cigarettes”.
+Subsec. (b). Pub. L. 109–177, § 121(b)(5), (e)(2), substituted “of State or local governments, through interstate compact or otherwise, to provide for the administration of State or local” for “of States, through interstate compact or otherwise, to provide for the administration of State” and inserted “or smokeless tobacco” after “cigarettes”.
 
-## § 2346. Enforcement and regulations
+## § 2346. Enforcement and regulations
 
 **(a)** The Attorney General, subject to the provisions of section 2343(a) of this title, shall enforce the provisions of this chapter and may prescribe such rules and regulations as he deems reasonably necessary to carry out the provisions of this chapter.
 
@@ -269,13 +269,13 @@ Subsec. (b). Pub. L. 109–177, § 121(b)(5), (e)(2), substituted “of State 
 
 **(5)** Nothing in this chapter shall be construed to expand, restrict, or otherwise modify any right of an authorized local government official to proceed in State court, or take other enforcement actions, on the basis of an alleged violation of local or other law.
 
-(Added Pub. L. 95–575, § 1, Nov. 2, 1978, 92 Stat. 2465; amended Pub. L. 107–296, title XI, § 1112(i)(2), Nov. 25, 2002, 116 Stat. 2277; Pub. L. 109–177, title I, § 121(f), Mar. 9, 2006, 120 Stat. 223.)
+(Added Pub. L. 95–575, § 1, Nov. 2, 1978, 92 Stat. 2465; amended Pub. L. 107–296, title XI, § 1112(i)(2), Nov. 25, 2002, 116 Stat. 2277; Pub. L. 109–177, title I, § 121(f), Mar. 9, 2006, 120 Stat. 223.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 52 of the Internal Revenue Code of 1986, referred to in subsec. (b)(1), is classified generally to chapter 52 (§ 5701 et seq.) of Title 26, Internal Revenue Code.
+Chapter 52 of the Internal Revenue Code of 1986, referred to in subsec. (b)(1), is classified generally to chapter 52 (§ 5701 et seq.) of Title 26, Internal Revenue Code.
 
 **Amendments**
 

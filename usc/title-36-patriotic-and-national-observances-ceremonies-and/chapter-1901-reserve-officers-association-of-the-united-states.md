@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1901—RESERVE OFFICERS ASSOCIATION OF THE UNITED STATES"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1901—RESERVE OFFICERS ASSOCIATION OF THE UNITED STATES"
 identifier: "/us/usc/t36/stII/ptB/ch1901"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1901—RESERVE OFFICERS ASSOCIATION OF THE UNITED STATES
 
-## § 190101. Organization
+## § 190101. Organization
 
 **(a) Federal Charter.—** Reserve Officers Association of the United States (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -27,13 +27,13 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 190101 | 36:221. | June 30, 1950, ch. 431, §§ 1, 2, 4 (related to perpetual succession), 64 Stat. 312, 313. |
+| 190101 | 36:221. | June 30, 1950, ch. 431, §§ 1, 2, 4 (related to perpetual succession), 64 Stat. 312, 313. |
 |  | 36:222. |  |
 |  | 36:224 (related to perpetual succession). |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate unnecessary and executed words.
 
-## § 190102. Purposes
+## § 190102. Purposes
 
 The purposes of the corporation are to support and promote the development and execution of a military policy for the United States that will provide adequate national security.
 
@@ -43,11 +43,11 @@ The purposes of the corporation are to support and promote the development and e
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 190102 | 36:223. | June 30, 1950, ch. 431, § 3, 64 Stat. 313. |
+| 190102 | 36:223. | June 30, 1950, ch. 431, § 3, 64 Stat. 313. |
 
 The word “object” is omitted as unnecessary.
 
-## § 190103. Membership
+## § 190103. Membership
 
 **(a) Eligibility.—** Eligibility for membership in the corporation is as provided in the constitution and bylaws of the corporation.
 
@@ -59,10 +59,10 @@ The word “object” is omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 190103(a) | 36:225. | June 30, 1950, ch. 431, §§ 5, 7(e), 64 Stat. 313, 314. |
+| 190103(a) | 36:225. | June 30, 1950, ch. 431, §§ 5, 7(e), 64 Stat. 313, 314. |
 | 190103(b) | 36:227(e). |  |
 
-## § 190104. Governing body
+## § 190104. Governing body
 
 **(a) National Convention.—** The corporation shall hold an annual national convention. The national convention shall be composed of delegates elected by the various departments.
 
@@ -86,13 +86,13 @@ The word “object” is omitted as unnecessary.
 
 **(2)** If the president is absent or the office of president is vacant, the national vice president of the same service as the president shall act as president.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1447; Pub. L. 111–113, § 2(a)–(c), Dec. 14, 2009, 123 Stat. 3026.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1447; Pub. L. 111–113, § 2(a)–(c), Dec. 14, 2009, 123 Stat. 3026.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 190104(a) | 36:227(b) (1st sentence 12th–14th words), (c). | June 30, 1950, ch. 431, §§ 6, 7(a)–(d), 64 Stat. 313. |
+| 190104(a) | 36:227(b) (1st sentence 12th–14th words), (c). | June 30, 1950, ch. 431, §§ 6, 7(a)–(d), 64 Stat. 313. |
 | 190104(b) | 36:227(a), (d). |  |
 | 190104(c)(1) | 36:226. |  |
 | 190104(c)(2) | 36:227(b) (1st sentence 1st–14th words, 32d–last words). |  |
@@ -114,15 +114,15 @@ In subsection (d)(2), the words “If the president is absent or the office of p
 
 **Amendments**
 
-2009—Subsec. (b)(2). Pub. L. 111–113, § 2(a), inserted “the president elect,” after “the president,” and “a minimum of” before “3 national executive committee members,” and substituted “except the president elect and the executive director,” for “except the executive director,”.
+2009—Subsec. (b)(2). Pub. L. 111–113, § 2(a), inserted “the president elect,” after “the president,” and “a minimum of” before “3 national executive committee members,” and substituted “except the president elect and the executive director,” for “except the executive director,”.
 
-Subsec. (c)(1). Pub. L. 111–113, § 2(b)(1), inserted “a president elect,” after “a president,” and “a minimum of” before “3 national executive committee members,”, struck out “a surgeon, a chaplain, a historian, a public relations officer,” after “a judge advocate,”, and substituted “specified in the constitution of the corporation” for “as decided at the national convention”.
+Subsec. (c)(1). Pub. L. 111–113, § 2(b)(1), inserted “a president elect,” after “a president,” and “a minimum of” before “3 national executive committee members,”, struck out “a surgeon, a chaplain, a historian, a public relations officer,” after “a judge advocate,”, and substituted “specified in the constitution of the corporation” for “as decided at the national convention”.
 
-Subsec. (c)(2). Pub. L. 111–113, § 2(b)(2), inserted “and take office” after “be elected” and substituted “the judge advocate, and any other national officers specified in the constitution of the corporation,” for “and the national public relations officer,”.
+Subsec. (c)(2). Pub. L. 111–113, § 2(b)(2), inserted “and take office” after “be elected” and substituted “the judge advocate, and any other national officers specified in the constitution of the corporation,” for “and the national public relations officer,”.
 
-Subsec. (d)(1). Pub. L. 111–113, § 2(c), substituted “president, president elect, and last past president,” for “president and last past president,”.
+Subsec. (d)(1). Pub. L. 111–113, § 2(c), substituted “president, president elect, and last past president,” for “president and last past president,”.
 
-## § 190105. Powers
+## § 190105. Powers
 
 The corporation may—
 
@@ -148,7 +148,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 190105 | 36:224 (less perpetual succession). | June 30, 1950, ch. 431, §§ 4 (less perpetual succession), 8, 64 Stat. 313, 314. |
+| 190105 | 36:224 (less perpetual succession). | June 30, 1950, ch. 431, §§ 4 (less perpetual succession), 8, 64 Stat. 313, 314. |
 |  | 36:228. |  |
 
 In this section, the text of 36:228 is omitted as executed and obsolete.
@@ -157,9 +157,9 @@ In clause (1), the words “not inconsistent with the laws of the United States 
 
 Clause (4) is substituted for “acquire, hold, lease, and dispose of such real and personal property as may be necessary to carry out the corporate object and purpose” and “accept gifts, legacies, and devises in furtherance of the corporate object and purpose” for consistency in the revised title and to eliminate unnecessary words.
 
-In clause (8), the words “and all . . . and things” and “object” are omitted as unnecessary.
+In clause (8), the words “and all . . . and things” and “object” are omitted as unnecessary.
 
-## § 190106. Exclusive right to name, seals, emblems, and badges
+## § 190106. Exclusive right to name, seals, emblems, and badges
 
 The corporation and its subordinate departmental subdivisions and local chapters have the exclusive right to use the name “Reserve Officers Association of the United States” and seals, emblems, and badges the corporation adopts.
 
@@ -169,11 +169,11 @@ The corporation and its subordinate departmental subdivisions and local chapters
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 190106 | 36:238. | June 30, 1950, ch. 431, § 18, 64 Stat. 315. |
+| 190106 | 36:238. | June 30, 1950, ch. 431, § 18, 64 Stat. 315. |
 
 The words “sole”, “to have, and”, “in carrying out its object and purpose”, and “lawfully” are omitted as unnecessary.
 
-## § 190107. Restrictions
+## § 190107. Restrictions
 
 **(a) Profit.—** The corporation may not engage in business for profit.
 
@@ -191,7 +191,7 @@ The words “sole”, “to have, and”, “in carrying out its object and purp
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 190107(a), (b) | 36:229. | June 30, 1950, ch. 431, §§ 9, 10, 11 (words before 2d comma), 14, 64 Stat. 314. |
+| 190107(a), (b) | 36:229. | June 30, 1950, ch. 431, §§ 9, 10, 11 (words before 2d comma), 14, 64 Stat. 314. |
 | 190107(c) | 36:230. |  |
 | 190107(d) | 36:231 (words before 2d comma). |  |
 | 190107(e) | 36:234. |  |
@@ -204,7 +204,7 @@ In subsection (d), the words “inure to the benefit of” are substituted for �
 
 In subsection (e), the words “or advance” are added in 2 places for consistency in the subsection.
 
-## § 190108. Headquarters
+## § 190108. Headquarters
 
 The headquarters of the corporation shall be in the District of Columbia.
 
@@ -214,11 +214,11 @@ The headquarters of the corporation shall be in the District of Columbia.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 190108 | 36:236 (1st sentence). | June 30, 1950, ch. 431, § 16 (1st sentence), 64 Stat. 315 |
+| 190108 | 36:236 (1st sentence). | June 30, 1950, ch. 431, § 16 (1st sentence), 64 Stat. 315 |
 
 The word “national” is omitted as unnecessary.
 
-## § 190109. Records and inspection
+## § 190109. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -230,13 +230,13 @@ The word “national” is omitted as unnecessary.
 
 **(b) Inspection.—** A member entitled to vote, or an agent or attorney of the member, may inspect the records of the corporation for any proper purpose, at any reasonable time.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1448; Pub. L. 111–113, § 2(d), Dec. 14, 2009, 123 Stat. 3027.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1448; Pub. L. 111–113, § 2(d), Dec. 14, 2009, 123 Stat. 3027.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 190109 | 36:233. | June 30, 1950, ch. 431, § 13, 64 Stat. 314. |
+| 190109 | 36:233. | June 30, 1950, ch. 431, § 13, 64 Stat. 314. |
 
 In this section, the word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
 
@@ -248,7 +248,7 @@ In subsection (a)(1), the word “correct” is substituted for “current” fo
 
 2009—Subsec. (a)(2). Pub. L. 111–113 substituted “other national entities of the corporation;” for “national council;”.
 
-## § 190110. Service of process
+## § 190110. Service of process
 
 **(a) District of Columbia.—** The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Notice to or service on the agent is notice to or service on the corporation.
 
@@ -260,12 +260,12 @@ In subsection (a)(1), the word “correct” is substituted for “current” fo
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 190110(a) | 36:236 (2d, last sentences). | June 30, 1950, ch. 431, §§ 16 (2d, last sentences), 17, 64 Stat. 315. |
+| 190110(a) | 36:236 (2d, last sentences). | June 30, 1950, ch. 431, §§ 16 (2d, last sentences), 17, 64 Stat. 315. |
 | 190110(b) | 36:237. |  |
 
 In subsection (b), the words “precedent” and “or conferred” are omitted as unnecessary. The words “with the secretary of state or other designated official” are substituted for “in the office of the secretary of state, or similar officer” for consistency in the revised title. The words “post office” are omitted as unnecessary.
 
-## § 190111. Liability for acts of officers and agents
+## § 190111. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -275,9 +275,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 190111 | 36:232. | June 30, 1950, ch. 431, § 12, 64 Stat. 314. |
+| 190111 | 36:232. | June 30, 1950, ch. 431, § 12, 64 Stat. 314. |
 
-## § 190112. Distribution of assets on dissolution or final liquidation
+## § 190112. Distribution of assets on dissolution or final liquidation
 
 On dissolution or final liquidation of the corporation, any assets remaining after the discharge of all liabilities shall be divided equally among the then active officers and members.
 
@@ -287,6 +287,6 @@ On dissolution or final liquidation of the corporation, any assets remaining aft
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 190112 | 36:231 (words after 2d comma). | June 30, 1950, ch. 431, § 11 (words after 2d comma), 64 Stat. 314. |
+| 190112 | 36:231 (words after 2d comma). | June 30, 1950, ch. 431, § 11 (words after 2d comma), 64 Stat. 314. |
 
 The word “satisfaction” is omitted as included in “discharge”, and the word “obligations” is omitted as included in “liabilities”. The word “outstanding” is omitted as unnecessary.

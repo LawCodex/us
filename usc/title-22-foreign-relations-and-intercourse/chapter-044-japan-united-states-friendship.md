@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 44—JAPAN-UNITED STATES FRIENDSHIP
 
-## § 2901. Congressional statement of findings and declaration of purpose
+## § 2901. Congressional statement of findings and declaration of purpose
 
 **(a)** The Congress hereby finds that—
 
@@ -27,15 +27,15 @@ retrieved: 2026-10-11
 
 **(b)** It is therefore the purpose of this chapter to provide for the use of an amount equal to a part of the total sum payable by Japan to the United States in connection with the reversion of Okinawa to Japanese administration and the remaining funds of the amount set aside in 1962 for educational and cultural exchange with Japan (known as the G.A.R.I.O.A. Account) to aid education and culture at the highest level in order to enhance reciprocal people-to-people understanding and to support the close friendship and mutuality of interests between the United States and Japan.
 
-(Pub. L. 94–118, § 2, Oct. 20, 1975, 89 Stat. 603.)
+(Pub. L. 94–118, § 2, Oct. 20, 1975, 89 Stat. 603.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 94–118, § 1, Oct. 20, 1975, 89 Stat. 603, provided: “That this Act [enacting this chapter] may be cited as the ‘Japan-United States Friendship Act’.”
+Pub. L. 94–118, § 1, Oct. 20, 1975, 89 Stat. 603, provided: “That this Act [enacting this chapter] may be cited as the ‘Japan-United States Friendship Act’.”
 
-## § 2902. Japan-United States Friendship Trust Fund
+## § 2902. Japan-United States Friendship Trust Fund
 
 **(a) Establishment**
 
@@ -71,7 +71,7 @@ There is authorized to be appropriated to the Fund, for fiscal year 1976, an amo
 
 **(3)** Any unappropriated portion of the amount authorized to be appropriated by subsection (d) of this section and paragraph (1) of this subsection for fiscal year 1976 may be appropriated in any subsequent fiscal year.
 
-(Pub. L. 94–118, § 3, Oct. 20, 1975, 89 Stat. 603; Pub. L. 94–350, title IV, § 401(2), (3)(A), July 12, 1976, 90 Stat. 833.)
+(Pub. L. 94–118, § 3, Oct. 20, 1975, 89 Stat. 603; Pub. L. 94–350, title IV, § 401(2), (3)(A), July 12, 1976, 90 Stat. 833.)
 
 **Editorial Notes**
 
@@ -79,7 +79,7 @@ There is authorized to be appropriated to the Fund, for fiscal year 1976, an amo
 
 1976—Subsecs. (d), (e)(1). Pub. L. 94–350 included interest and proceeds accruing to the Fund in accordance with sections 2905(4) and 2906 of this title.
 
-## § 2903. Japan-United States Friendship Commission
+## § 2903. Japan-United States Friendship Commission
 
 **(a) Establishment; composition** There is established a commission to be known as the Japan-United States Friendship Commission (hereafter referred to as the “Commission”). The Commission shall be composed of—
 
@@ -101,15 +101,15 @@ Members of the Commission who are not full-time officers or employees of the Uni
 
 The Chairman of the United States Panel of the Joint Committee on United States-Japan Cultural and Educational Cooperation shall be the Chairman of the Commission. A majority of the members of the Commission shall constitute a quorum. The Commission shall meet at least twice in each year.
 
-(Pub. L. 94–118, § 4, Oct. 20, 1975, 89 Stat. 604.)
+(Pub. L. 94–118, § 4, Oct. 20, 1975, 89 Stat. 604.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 2904. Functions of Commission
+## § 2904. Functions of Commission
 
 **(a) Promotion of scholarly, cultural, and artistic activities; grants** The Commission is authorized to—
 
@@ -121,9 +121,9 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 The Commission shall submit to the President and to the Congress an annual report of its activities under this chapter together with such recommendations as the Commission determines appropriate.
 
-(Pub. L. 94–118, § 5, Oct. 20, 1975, 89 Stat. 605.)
+(Pub. L. 94–118, § 5, Oct. 20, 1975, 89 Stat. 605.)
 
-## § 2905. Administrative powers of Commission
+## § 2905. Administrative powers of Commission
 
 In order to carry out its functions under this chapter, the Commission is authorized to—
 
@@ -149,7 +149,7 @@ In order to carry out its functions under this chapter, the Commission is author
 
 **(11)** transmit its official mail as penalty mail in the same manner and upon the same conditions as an officer of the United States other than a Member of Congress is permitted to transmit official mail as penalty mail under section 3202 of title 39.
 
-(Pub. L. 94–118, § 6, Oct. 20, 1975, 89 Stat. 605; Pub. L. 94–350, title IV, § 401(1), July 12, 1976, 90 Stat. 833; Pub. L. 95–426, title VII, § 703(a), Oct. 7, 1978, 92 Stat. 992; Pub. L. 97–241, title V, § 503(a), Aug. 24, 1982, 96 Stat. 298; Pub. L. 102–138, title I, § 167, Oct. 28, 1991, 105 Stat. 676; Pub. L. 105–277, div. A, § 101(b) [title IV, § 404(a)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–101.)
+(Pub. L. 94–118, § 6, Oct. 20, 1975, 89 Stat. 605; Pub. L. 94–350, title IV, § 401(1), July 12, 1976, 90 Stat. 833; Pub. L. 95–426, title VII, § 703(a), Oct. 7, 1978, 92 Stat. 992; Pub. L. 97–241, title V, § 503(a), Aug. 24, 1982, 96 Stat. 298; Pub. L. 102–138, title I, § 167, Oct. 28, 1991, 105 Stat. 676; Pub. L. 105–277, div. A, § 101(b) [title IV, § 404(a)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–101.)
 
 **Editorial Notes**
 
@@ -159,7 +159,7 @@ In order to carry out its functions under this chapter, the Commission is author
 
 1991—Par. (4). Pub. L. 102–138 inserted “or for not more than 50 percent of administrative expenses in the United States” after “Japan”.
 
-1982—Par. (4). Pub. L. 97–241 substituted “, any amount of the contributions deposited in the Fund from nonappropriated sources pursuant to paragraph (2) or (3) of this section, and not to exceed 5 percent annually of the principal of the total amount appropriated to the Fund” for “and not to exceed 5 per centum annually of the principal of the Fund”.
+1982—Par. (4). Pub. L. 97–241 substituted “, any amount of the contributions deposited in the Fund from nonappropriated sources pursuant to paragraph (2) or (3) of this section, and not to exceed 5 percent annually of the principal of the total amount appropriated to the Fund” for “and not to exceed 5 per centum annually of the principal of the Fund”.
 
 1978—Par. (11). Pub. L. 95–426 added par. (11).
 
@@ -169,13 +169,13 @@ In order to carry out its functions under this chapter, the Commission is author
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–426, title VII, § 703(b), Oct. 7, 1978, 92 Stat. 992, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 1978.”
+Pub. L. 95–426, title VII, § 703(b), Oct. 7, 1978, 92 Stat. 992, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 1978.”
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 2906. Management of the Friendship Trust Fund
+## § 2906. Management of the Friendship Trust Fund
 
 **(a) Constituent amounts** The Fund shall consist of—
 
@@ -201,13 +201,13 @@ The interest on, and the proceeds from the sale or redemption of, any obligation
 
 In accordance with section 2905(4) of this title, the Secretary shall pay out of the Fund such amounts, including expenses of the Commission, as the Commission considers necessary to carry out the provisions of this chapter; except that amounts in the Fund, other than amounts which have been appropriated and amounts received (including amounts earned as interest on, and proceeds from the sale or redemption of, obligations purchased with amounts received) by the Commission pursuant to sections 2905(2) and (3) of this title, shall be subject to the appropriation process.
 
-(Pub. L. 94–118, § 7, Oct. 20, 1975, 89 Stat. 606; Pub. L. 94–350, title IV, § 401(3)(B), July 12, 1976, 90 Stat. 833; Pub. L. 97–241, title V, § 503(b), Aug. 24, 1982, 96 Stat. 298; Pub. L. 105–277, div. A, § 101(b) [title IV, § 404(b)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–101.)
+(Pub. L. 94–118, § 7, Oct. 20, 1975, 89 Stat. 606; Pub. L. 94–350, title IV, § 401(3)(B), July 12, 1976, 90 Stat. 833; Pub. L. 97–241, title V, § 503(b), Aug. 24, 1982, 96 Stat. 298; Pub. L. 105–277, div. A, § 101(b) [title IV, § 404(b)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–101.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 

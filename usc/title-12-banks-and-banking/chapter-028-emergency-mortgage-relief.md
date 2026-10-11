@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 28—EMERGENCY MORTGAGE RELIEF
 
-## § 2701. Congressional findings and declaration of purpose
+## § 2701. Congressional findings and declaration of purpose
 
 **(a)** The Congress finds that—
 
@@ -27,17 +27,17 @@ retrieved: 2026-10-11
 
 **(b)** It is the purpose of this chapter to provide a standby authority which will prevent widespread mortgage foreclosures and distress sales of homes resulting from the temporary loss of employment and income through a program of emergency loans and advances and emergency mortgage relief payments to homeowners to defray mortgage expenses.
 
-(Pub. L. 94–50, title I, § 102, July 2, 1975, 89 Stat. 249.)
+(Pub. L. 94–50, title I, § 102, July 2, 1975, 89 Stat. 249.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 94–50, § 1, July 2, 1975, 89 Stat. 249, provided: “That this Act [enacting this chapter, amending sections 1723e and 1735b of this title and sections 1452 and 4106 of Title 42, The Public Health and Welfare, enacting provisions set out as a note under this section, and amending provisions set out as a note under section 1723e of this title] may be cited as the ‘Emergency Housing Act of 1975’.”
+Pub. L. 94–50, § 1, July 2, 1975, 89 Stat. 249, provided: “That this Act [enacting this chapter, amending sections 1723e and 1735b of this title and sections 1452 and 4106 of Title 42, The Public Health and Welfare, enacting provisions set out as a note under this section, and amending provisions set out as a note under section 1723e of this title] may be cited as the ‘Emergency Housing Act of 1975’.”
 
-Pub. L. 94–50, title I, § 101, July 2, 1975, 89 Stat. 249, provided that: “This title [enacting this chapter] may be cited as the ‘Emergency Homeowners’ Relief Act’.”
+Pub. L. 94–50, title I, § 101, July 2, 1975, 89 Stat. 249, provided that: “This title [enacting this chapter] may be cited as the ‘Emergency Homeowners’ Relief Act’.”
 
-## § 2702. Mortgages eligible for assistance
+## § 2702. Mortgages eligible for assistance
 
 No assistance shall be extended with respect to any mortgage under this chapter unless—
 
@@ -53,15 +53,15 @@ No assistance shall be extended with respect to any mortgage under this chapter 
 
 **(6)** the mortgaged property is the principal residence of the mortgagor.
 
-(Pub. L. 94–50, title I, § 103, July 2, 1975, 89 Stat. 249; Pub. L. 111–203, title XIV, § 1496(b)(1), July 21, 2010, 124 Stat. 2207.)
+(Pub. L. 94–50, title I, § 103, July 2, 1975, 89 Stat. 249; Pub. L. 111–203, title XIV, § 1496(b)(1), July 21, 2010, 124 Stat. 2207.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Par. (2). Pub. L. 111–203, § 1496(b)(1)(A), substituted “have certified” for “have indicated in writing to the Secretary of Housing and Urban Development (hereinafter referred to as the ‘Secretary’) and to any agency or department of the Federal Government responsible for the regulation of the holder” and struck out “(such as the volume of delinquent loans in its portfolio)” after “circumstances” and “, except that such statement by the holder of the mortgage may be waived by the Secretary if in his judgment such waiver would further the purposes of this chapter” after “by this chapter”.
+2010—Par. (2). Pub. L. 111–203, § 1496(b)(1)(A), substituted “have certified” for “have indicated in writing to the Secretary of Housing and Urban Development (hereinafter referred to as the ‘Secretary’) and to any agency or department of the Federal Government responsible for the regulation of the holder” and struck out “(such as the volume of delinquent loans in its portfolio)” after “circumstances” and “, except that such statement by the holder of the mortgage may be waived by the Secretary if in his judgment such waiver would further the purposes of this chapter” after “by this chapter”.
 
-Par. (4). Pub. L. 111–203, § 1496(b)(1)(B), inserted “or medical conditions” after “adverse economic conditions”.
+Par. (4). Pub. L. 111–203, § 1496(b)(1)(B), inserted “or medical conditions” after “adverse economic conditions”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -69,7 +69,7 @@ Par. (4). Pub. L. 111–203, § 1496(b)(1)(B), inserted “or medical conditio
 
 Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 
-## § 2703. Manner of assistance and repayment
+## § 2703. Manner of assistance and repayment
 
 **(a) Form of assistance**
 
@@ -91,21 +91,21 @@ Emergency loans or advances of credit made and insured under section 2704 of thi
 
 The Secretary may provide for the deferral of the commencement of the repayment of a loan or advance insured under section 2704 of this title or emergency mortgage relief payments made under section 2705 of this title until one year following the date of the last disbursement of the proceeds of the loan or advance or payments or for such longer period as the Secretary determines would further the purpose of this chapter. Any eligible homeowner who receives a grant or an advance of credit under this chapter may repay the loan in full, without penalty, by lump sum or by installment payments at any time before the loan becomes due and payable. The Secretary shall by regulation require such security for the repayment of insured loans or advances of credit or emergency mortgage relief payments as he deems appropriate and may require that such repayment be secured by a lien on the mortgaged property.
 
-(Pub. L. 94–50, title I, § 104, July 2, 1975, 89 Stat. 250; Pub. L. 111–203, title XIV, § 1496(b)(2), July 21, 2010, 124 Stat. 2208.)
+(Pub. L. 94–50, title I, § 104, July 2, 1975, 89 Stat. 250; Pub. L. 111–203, title XIV, § 1496(b)(2), July 21, 2010, 124 Stat. 2208.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Housing Act, referred to in subsec. (d)(1), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the Act is classified generally to subchapter II (§ 1707 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in subsec. (d)(1), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the Act is classified generally to subchapter II (§ 1707 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
 **Amendments**
 
-2010—Subsec. (b). Pub. L. 111–203, § 1496(b)(2)(A), substituted “. The amount of assistance provided to a homeowner under this chapter shall be an amount that the Secretary determines is reasonably necessary to supplement such amount as the homeowner is capable of contributing toward such mortgage payment, except that the aggregate amount of such assistance provided for any homeowner shall not exceed $50,000.” for “, but such assistance shall not exceed the lesser of $250 per month or the amount determined to be reasonably necessary to supplement such amount as the homeowner is capable of contributing toward such mortgage payment.”
+2010—Subsec. (b). Pub. L. 111–203, § 1496(b)(2)(A), substituted “. The amount of assistance provided to a homeowner under this chapter shall be an amount that the Secretary determines is reasonably necessary to supplement such amount as the homeowner is capable of contributing toward such mortgage payment, except that the aggregate amount of such assistance provided for any homeowner shall not exceed $50,000.” for “, but such assistance shall not exceed the lesser of $250 per month or the amount determined to be reasonably necessary to supplement such amount as the homeowner is capable of contributing toward such mortgage payment.”
 
-Subsec. (d). Pub. L. 111–203, § 1496(b)(2)(B), substituted “(1) the rate of interest on any loan or advance of credit insured under this chapter shall be fixed for the life of the loan or advance of credit and shall not exceed the rate of interest that is generally charged for mortgages on single-family housing insured by the Secretary of Housing and Urban Development under title II of the National Housing Act at the time such loan or advance of credit is made, and (2) no interest shall be charged on interest which is deferred on a loan or advance of credit made under this chapter. In establishing rates, terms and conditions for loans or advances of credit made under this chapter, the Secretary shall take into account a homeowner’s ability to repay such loan or advance of credit.” for “interest on a loan or advance of credit insured under section 2704 of this title or emergency mortgage relief payments made under section 2705 of this title shall not be charged at a rate which exceeds the maximum interest rate applicable with respect to mortgages insured pursuant to section 1709(b) of this title.”
+Subsec. (d). Pub. L. 111–203, § 1496(b)(2)(B), substituted “(1) the rate of interest on any loan or advance of credit insured under this chapter shall be fixed for the life of the loan or advance of credit and shall not exceed the rate of interest that is generally charged for mortgages on single-family housing insured by the Secretary of Housing and Urban Development under title II of the National Housing Act at the time such loan or advance of credit is made, and (2) no interest shall be charged on interest which is deferred on a loan or advance of credit made under this chapter. In establishing rates, terms and conditions for loans or advances of credit made under this chapter, the Secretary shall take into account a homeowner’s ability to repay such loan or advance of credit.” for “interest on a loan or advance of credit insured under section 2704 of this title or emergency mortgage relief payments made under section 2705 of this title shall not be charged at a rate which exceeds the maximum interest rate applicable with respect to mortgages insured pursuant to section 1709(b) of this title.”
 
-Subsec. (e). Pub. L. 111–203, § 1496(b)(2)(C), inserted “Any eligible homeowner who receives a grant or an advance of credit under this chapter may repay the loan in full, without penalty, by lump sum or by installment payments at any time before the loan becomes due and payable.” after “purpose of this chapter.”
+Subsec. (e). Pub. L. 111–203, § 1496(b)(2)(C), inserted “Any eligible homeowner who receives a grant or an advance of credit under this chapter may repay the loan in full, without penalty, by lump sum or by installment payments at any time before the loan becomes due and payable.” after “purpose of this chapter.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -113,7 +113,7 @@ Subsec. (e). Pub. L. 111–203, § 1496(b)(2)(C), inserted “Any eligible hom
 
 Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 
-## § 2704. Insurance for emergency mortgage loans and advances
+## § 2704. Insurance for emergency mortgage loans and advances
 
 **(a) Institutions eligible**
 
@@ -135,17 +135,17 @@ The aggregate amount of loans and advances insured under this section and emerge
 
 The Secretary shall establish underwriting guidelines or procedures to allocate amounts made available for loans and advances insured under this section and for emergency relief payments made under section 2705 of this title based on the likelihood that a mortgagor will be able to resume mortgage payments, pursuant to the requirement under section 2702(5) of this title.
 
-(Pub. L. 94–50, title I, § 105, July 2, 1975, 89 Stat. 251; Pub. L. 111–203, title XIV, § 1496(b)(3), July 21, 2010, 124 Stat. 2208.)
+(Pub. L. 94–50, title I, § 105, July 2, 1975, 89 Stat. 251; Pub. L. 111–203, title XIV, § 1496(b)(3), July 21, 2010, 124 Stat. 2208.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsecs. (b) to (d). Pub. L. 111–203, § 1496(b)(3)(A), (C), redesignated subsecs. (c) to (e) as (b) to (d), respectively, and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “In no case shall the insurance granted by the Secretary under this section to any financial institution on loans and advances made by such financial institution for the purposes of this chapter exceed 40 per centum of the total amount of such loans and advances made by the institution, except that, with respect to any individual loan or advance of credit, the amount of any claim for loss on such individual loan or advance of credit paid by the Secretary under the provision of this section shall not exceed 90 per centum of such loss.”
+2010—Subsecs. (b) to (d). Pub. L. 111–203, § 1496(b)(3)(A), (C), redesignated subsecs. (c) to (e) as (b) to (d), respectively, and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “In no case shall the insurance granted by the Secretary under this section to any financial institution on loans and advances made by such financial institution for the purposes of this chapter exceed 40 per centum of the total amount of such loans and advances made by the institution, except that, with respect to any individual loan or advance of credit, the amount of any claim for loss on such individual loan or advance of credit paid by the Secretary under the provision of this section shall not exceed 90 per centum of such loss.”
 
-Subsec. (e). Pub. L. 111–203, § 1496(b)(3)(D), added subsec. (e). Former subsec. (e) redesignated (d).
+Subsec. (e). Pub. L. 111–203, § 1496(b)(3)(D), added subsec. (e). Former subsec. (e) redesignated (d).
 
-Pub. L. 111–203, § 1496(b)(3)(B), inserted “and emergency mortgage relief payments made under section 2705 of this title” after “insured under this section” and substituted “$3,000,000,000” for “$1,500,000,000 at any one time”.
+Pub. L. 111–203, § 1496(b)(3)(B), inserted “and emergency mortgage relief payments made under section 2705 of this title” after “insured under this section” and substituted “$3,000,000,000” for “$1,500,000,000 at any one time”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -153,13 +153,13 @@ Pub. L. 111–203, § 1496(b)(3)(B), inserted “and emergency mortgage relief
 
 Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 
-## § 2705. Emergency mortgage relief payments
+## § 2705. Emergency mortgage relief payments
 
 **(a) Direct payments to mortgagee**
 
-In the case of any mortgagee which would otherwise be eligible to participate in the program authorized under section 2704 of this title but does not qualify for an advance or advances as authorized by section 2712 1
+In the case of any mortgagee which would otherwise be eligible to participate in the program authorized under section 2704 of this title but does not qualify for an advance or advances as authorized by section 2712 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title or under section 1430, 1430b, or 1431 of this title or otherwise elects not to participate in the program authorized under section 2704 of this title, the Secretary is authorized to make repayable emergency mortgage relief payments directly to such mortgagee on behalf of homeowners whose mortgages are held by such financial institution and who are delinquent in their mortgage payments.
 
@@ -171,15 +171,15 @@ Emergency mortgage relief payments shall be made under this section only with re
 
 The Secretary may make such delegations and accept such certifications with respect to the processing of mortgage relief payments provided under this section as he deems appropriate to facilitate the prompt and efficient implementation of the assistance authorized under this section.
 
-(Pub. L. 94–50, title I, § 106, July 2, 1975, 89 Stat. 251.)
+(Pub. L. 94–50, title I, § 106, July 2, 1975, 89 Stat. 251.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2712 of this title, referred to in subsec. (a), was repealed by Pub. L. 111–203, title XIV, § 1496(b)(7), July 21, 2010, 124 Stat. 2209.
+Section 2712 of this title, referred to in subsec. (a), was repealed by Pub. L. 111–203, title XIV, § 1496(b)(7), July 21, 2010, 124 Stat. 2209.
 
-## § 2706. Emergency Homeowners’ Relief Fund
+## § 2706. Emergency Homeowners’ Relief Fund
 
 To carry out the purposes of this chapter, the Secretary is authorized to establish in the Treasury of the United States an Emergency Homeowners’ Relief Fund (hereinafter in this chapter referred to as the “fund”) which shall be available to the Secretary without fiscal year limitation—
 
@@ -189,7 +189,7 @@ To carry out the purposes of this chapter, the Secretary is authorized to establ
 
 **(3)** to pay such administrative expenses (or portion of such expenses) of carrying out the provisions of this chapter as the Secretary may deem necessary.
 
-(Pub. L. 94–50, title I, § 107, July 2, 1975, 89 Stat. 252; Pub. L. 98–479, title II, § 204(m)(1), Oct. 17, 1984, 98 Stat. 2234; Pub. L. 111–203, title XIV, § 1496(b)(4), July 21, 2010, 124 Stat. 2208.)
+(Pub. L. 94–50, title I, § 107, July 2, 1975, 89 Stat. 252; Pub. L. 98–479, title II, § 204(m)(1), Oct. 17, 1984, 98 Stat. 2234; Pub. L. 111–203, title XIV, § 1496(b)(4), July 21, 2010, 124 Stat. 2208.)
 
 **Editorial Notes**
 
@@ -201,9 +201,9 @@ To carry out the purposes of this chapter, the Secretary is authorized to establ
 
 “(2) such amounts as may be appropriated for the purposes of this chapter.”
 
-1984—Subsec. (a). Pub. L. 98–479, § 204(m)(1)(A), (B), redesignated subsec. (a)(1) as subsec. (a) and subpars. (A), (B), and (C) as pars. (1), (2), and (3), respectively.
+1984—Subsec. (a). Pub. L. 98–479, § 204(m)(1)(A), (B), redesignated subsec. (a)(1) as subsec. (a) and subpars. (A), (B), and (C) as pars. (1), (2), and (3), respectively.
 
-Subsec. (b). Pub. L. 98–479, § 204(m)(1)(C), (D), redesignated subsec. (a)(2) as subsec. (b) and subpars. (A) and (B) as pars. (1) and (2), respectively.
+Subsec. (b). Pub. L. 98–479, § 204(m)(1)(C), (D), redesignated subsec. (a)(2) as subsec. (b) and subpars. (A) and (B) as pars. (1) and (2), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -213,9 +213,9 @@ Amendment by Pub. L. 111–203 effective on the date on which final regulations 
 
 **Emergency Mortgage Relief**
 
-Pub. L. 111–203, title XIV, § 1496(a), July 21, 2010, 124 Stat. 2207, provided that: “Effective October 1, 2010, and notwithstanding any other provision of law, there is hereby made available to the Secretary of Housing and Urban Development such sums as are necessary to provide $1,000,000,000 in assistance through the Emergency Homeowners’ Relief Fund, which such Secretary shall establish pursuant to section 107 of the Emergency Housing Act of 1975 (12 U.S.C. 2706), as such Act is amended by this section, for use for emergency mortgage assistance in accordance with title I of such Act [12 U.S.C. 2701 et seq.].”
+Pub. L. 111–203, title XIV, § 1496(a), July 21, 2010, 124 Stat. 2207, provided that: “Effective October 1, 2010, and notwithstanding any other provision of law, there is hereby made available to the Secretary of Housing and Urban Development such sums as are necessary to provide $1,000,000,000 in assistance through the Emergency Homeowners’ Relief Fund, which such Secretary shall establish pursuant to section 107 of the Emergency Housing Act of 1975 (12 U.S.C. 2706), as such Act is amended by this section, for use for emergency mortgage assistance in accordance with title I of such Act [12 U.S.C. 2701 et seq.].”
 
-## § 2707. Authority of Secretary
+## § 2707. Authority of Secretary
 
 **(a) Rules and regulations**
 
@@ -235,7 +235,7 @@ Notwithstanding any other provision of law relating to the acquisition, handling
 
 The Secretary shall allow funds to be administered by a State that has an existing program that is determined by the Secretary to provide substantially similar assistance to homeowners. After such determination is made such State shall not be required to modify such program to comply with the provisions of this chapter.
 
-(Pub. L. 94–50, title I, § 108, July 2, 1975, 89 Stat. 252; Pub. L. 111–203, title XIV, § 1496(b)(5), July 21, 2010, 124 Stat. 2208.)
+(Pub. L. 94–50, title I, § 108, July 2, 1975, 89 Stat. 252; Pub. L. 111–203, title XIV, § 1496(b)(5), July 21, 2010, 124 Stat. 2208.)
 
 **Editorial Notes**
 
@@ -249,11 +249,11 @@ The Secretary shall allow funds to be administered by a State that has an existi
 
 Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 
-## § 2708. Expiration date
+## § 2708. Expiration date
 
 No loans or advance of credit shall be insured and no emergency mortgage relief payments made under this chapter after September 30, 2011, except if such loan or advance or such payments are made with respect to a mortgagor receiving the benefit of a loan or advance insured, or emergency mortgage relief payments made, under this chapter on such date.
 
-(Pub. L. 94–50, title I, § 109, July 2, 1975, 89 Stat. 253; Pub. L. 94–375, § 13(a), Aug. 3, 1976, 90 Stat. 1075; Pub. L. 111–203, title XIV, § 1496(b)(6), July 21, 2010, 124 Stat. 2209.)
+(Pub. L. 94–50, title I, § 109, July 2, 1975, 89 Stat. 253; Pub. L. 94–375, § 13(a), Aug. 3, 1976, 90 Stat. 1075; Pub. L. 111–203, title XIV, § 1496(b)(6), July 21, 2010, 124 Stat. 2209.)
 
 **Editorial Notes**
 
@@ -269,11 +269,11 @@ No loans or advance of credit shall be insured and no emergency mortgage relief 
 
 Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 
-## §§ 2709, 2710. Repealed. Pub. L. 111–203, title XIV, § 1496(b)(7), July 21, 2010, 124 Stat. 2209
+## §§ 2709, 2710. Repealed. Pub. L. 111–203, title XIV, § 1496(b)(7), July 21, 2010, 124 Stat. 2209
 
-Section 2709, Pub. L. 94–50, title I, § 110, July 2, 1975, 89 Stat. 253; Pub. L. 94–375, § 13(b), Aug. 3, 1976, 90 Stat. 1075; Pub. L. 98–479, title II, § 204(m)(2), Oct. 17, 1984, 98 Stat. 2234; Pub. L. 111–203, title III, § 361, July 21, 2010, 124 Stat. 1549, related to waiver and relaxation by institutions and approved mortgagees of limitations with respect to mortgage delinquencies; notification to Federal supervisory agency prior to foreclosure proceedings.
+Section 2709, Pub. L. 94–50, title I, § 110, July 2, 1975, 89 Stat. 253; Pub. L. 94–375, § 13(b), Aug. 3, 1976, 90 Stat. 1075; Pub. L. 98–479, title II, § 204(m)(2), Oct. 17, 1984, 98 Stat. 2234; Pub. L. 111–203, title III, § 361, July 21, 2010, 124 Stat. 1549, related to waiver and relaxation by institutions and approved mortgagees of limitations with respect to mortgage delinquencies; notification to Federal supervisory agency prior to foreclosure proceedings.
 
-Section 2710, Pub. L. 94–50, title I, § 111, July 2, 1975, 89 Stat. 253; Pub. L. 94–375, § 13(c), Aug. 3, 1976, 90 Stat. 1075, related to reports to Congress; time; contents.
+Section 2710, Pub. L. 94–50, title I, § 111, July 2, 1975, 89 Stat. 253; Pub. L. 94–375, § 13(c), Aug. 3, 1976, 90 Stat. 1075, related to reports to Congress; time; contents.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -281,17 +281,17 @@ Section 2710, Pub. L. 94–50, title I, § 111, July 2, 1975, 89 Stat. 253; Pu
 
 Repeal effective on the date on which final regulations implementing such repeal take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1601 of Title 15, Commerce and Trade.
 
-## § 2711. Nonapplicability of other laws
+## § 2711. Nonapplicability of other laws
 
 Notwithstanding any provision of law which limits the nature, amount, term, form, or rate of interest, or the nature, amount, or form of security of loans or advances of credit, loans, or advances of credit may be made in accordance with the provisions of this chapter without regard to such provision of law.
 
-(Pub. L. 94–50, title I, § 110, formerly § 112, July 2, 1975, 89 Stat. 254; renumbered § 110, Pub. L. 111–203, title XIV, § 1496(b)(8), July 21, 2010, 124 Stat. 2209.)
+(Pub. L. 94–50, title I, § 110, formerly § 112, July 2, 1975, 89 Stat. 254; renumbered § 110, Pub. L. 111–203, title XIV, § 1496(b)(8), July 21, 2010, 124 Stat. 2209.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 110 of Pub. L. 94–50, which related to waiver and relaxation by institutions and approved mortgagees of limitations with respect to mortgage delinquencies; notification to Federal supervisory agency prior to foreclosure proceedings, was classified to section 2709 of this title prior to repeal by Pub. L. 111–203, title XIV, § 1496(b)(7), July 21, 2010, 124 Stat. 2209.
+A prior section 110 of Pub. L. 94–50, which related to waiver and relaxation by institutions and approved mortgagees of limitations with respect to mortgage delinquencies; notification to Federal supervisory agency prior to foreclosure proceedings, was classified to section 2709 of this title prior to repeal by Pub. L. 111–203, title XIV, § 1496(b)(7), July 21, 2010, 124 Stat. 2209.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -299,9 +299,9 @@ A prior section 110 of Pub. L. 94–50, which related to waiver and relaxation b
 
 Amendment of section by renumbering section 112 of Pub. L. 94–50 as section 110 of Pub. L. 94–50 effective on the date on which final regulations implementing such amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 
-## § 2712. Repealed. Pub. L. 111–203, title XIV, § 1496(b)(7), July 21, 2010, 124 Stat. 2209
+## § 2712. Repealed. Pub. L. 111–203, title XIV, § 1496(b)(7), July 21, 2010, 124 Stat. 2209
 
-Section, Pub. L. 94–50, title I, § 113, July 2, 1975, 89 Stat. 254, related to Federal Deposit Insurance Corporation advances to insured banks.
+Section, Pub. L. 94–50, title I, § 113, July 2, 1975, 89 Stat. 254, related to Federal Deposit Insurance Corporation advances to insured banks.
 
 **Statutory Notes and Related Subsidiaries**
 

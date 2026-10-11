@@ -34,13 +34,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1994—Pub. L. 103–337, div. A, title IX, § 924(c)(3)(B), Oct. 5, 1994, 108 Stat. 2832, substituted “United States Court of Appeals for the Armed Forces” for “Court of Military Appeals” in item for subchapter XII.
+1994—Pub. L. 103–337, div. A, title IX, § 924(c)(3)(B), Oct. 5, 1994, 108 Stat. 2832, substituted “United States Court of Appeals for the Armed Forces” for “Court of Military Appeals” in item for subchapter XII.
 
-1989—Pub. L. 101–189, div. A, title XIII, § 1304(a)(1), Nov. 29, 1989, 103 Stat. 1576, added item for subchapter XII.
+1989—Pub. L. 101–189, div. A, title XIII, § 1304(a)(1), Nov. 29, 1989, 103 Stat. 1576, added item for subchapter XII.
 
-1983—Pub. L. 98–209, § 5(h)(1), Dec. 6, 1983, 97 Stat. 1400, substituted “IX. Post-Trial Procedure and Review of Courts-Martial” for “IX. Review of Courts-Martial”.
+1983—Pub. L. 98–209, § 5(h)(1), Dec. 6, 1983, 97 Stat. 1400, substituted “IX. Post-Trial Procedure and Review of Courts-Martial” for “IX. Review of Courts-Martial”.
 
-1958—Pub. L. 85–861, § 33(a)(6), Sept. 2, 1958, 72 Stat. 1564, substituted 801, 807, 815, 816, 822, 830, 836, 855, 859, 877 and 935 for 1901, 1913, 1929, 1931, 1943, 1959, 1971, 2009, 2017, 2053 and 2169, respectively.
+1958—Pub. L. 85–861, § 33(a)(6), Sept. 2, 1958, 72 Stat. 1564, substituted 801, 807, 815, 816, 822, 830, 836, 855, 859, 877 and 935 for 1901, 1913, 1929, 1931, 1943, 1959, 1971, 2009, 2017, 2053 and 2169, respectively.
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
@@ -59,11 +59,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2013—Pub. L. 113–66, div. A, title XVII, § 1701(a)(2), Dec. 26, 2013, 127 Stat. 953, added item 806b.
+2013—Pub. L. 113–66, div. A, title XVII, § 1701(a)(2), Dec. 26, 2013, 127 Stat. 953, added item 806b.
 
-1989—Pub. L. 101–189, div. A, title XIII, § 1304(a)(2), Nov. 29, 1989, 103 Stat. 1576, added item 806a.
+1989—Pub. L. 101–189, div. A, title XIII, § 1304(a)(2), Nov. 29, 1989, 103 Stat. 1576, added item 806a.
 
-### § 801. Article 1. Definitions
+### § 801. Article 1. Definitions
 
 In this chapter (the Uniform Code of Military Justice):
 
@@ -121,13 +121,13 @@ In this chapter (the Uniform Code of Military Justice):
 
 **(18)** The term “special trial counsel” means a judge advocate detailed as a special trial counsel in accordance with section 824a of this title (article 24a) and includes a judge advocate appointed as a lead special trial counsel pursuant to section 1044f(a)(2) of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 36; Pub. L. 89–670, § 10(g), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–179, § 1(1), (2), Dec. 8, 1967, 81 Stat. 545; Pub. L. 90–632, § 2(1), Oct. 24, 1968, 82 Stat. 1335; Pub. L. 98–209, §§ 2(a), 6(a), Dec. 6, 1983, 97 Stat. 1393, 1400; Pub. L. 100–180, div. A, title XII, § 1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, § 1233(f)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 104–106, div. A, title XI, § 1141(b), Feb. 10, 1996, 110 Stat. 467; Pub. L. 107–296, title XVII, § 1704(b)(2), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–241, title II, § 218(a), July 11, 2006, 120 Stat. 526; Pub. L. 114–328, div. E, title LI, § 5101, Dec. 23, 2016, 130 Stat. 2894; Pub. L. 115–91, div. A, title X, § 1081(a)(21), (c)(1)(A), Dec. 12, 2017, 131 Stat. 1595, 1597; Pub. L. 117–81, div. A, title V, § 533, Dec. 27, 2021, 135 Stat. 1695; Pub. L. 117–263, div. A, title V, § 541(a)(1), (b)(1), Dec. 23, 2022, 136 Stat. 2579, 2580.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 36; Pub. L. 89–670, § 10(g), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–179, § 1(1), (2), Dec. 8, 1967, 81 Stat. 545; Pub. L. 90–632, § 2(1), Oct. 24, 1968, 82 Stat. 1335; Pub. L. 98–209, §§ 2(a), 6(a), Dec. 6, 1983, 97 Stat. 1393, 1400; Pub. L. 100–180, div. A, title XII, § 1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, § 1233(f)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 104–106, div. A, title XI, § 1141(b), Feb. 10, 1996, 110 Stat. 467; Pub. L. 107–296, title XVII, § 1704(b)(2), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–241, title II, § 218(a), July 11, 2006, 120 Stat. 526; Pub. L. 114–328, div. E, title LI, § 5101, Dec. 23, 2016, 130 Stat. 2894; Pub. L. 115–91, div. A, title X, § 1081(a)(21), (c)(1)(A), Dec. 12, 2017, 131 Stat. 1595, 1597; Pub. L. 117–81, div. A, title V, § 533, Dec. 27, 2021, 135 Stat. 1695; Pub. L. 117–263, div. A, title V, § 541(a)(1), (b)(1), Dec. 23, 2022, 136 Stat. 2579, 2580.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 801 | 50:551 (less (9)). | May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108. |
+| 801 | 50:551 (less (9)). | May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108. |
 
 The words “In this chapter” are substituted for the introductory clause.
 
@@ -135,7 +135,7 @@ In the introductory clause and throughout the revised chapter the word “chapte
 
 Clauses (1), (2), and (5) of 50:551 are omitted as respectively covered by the definitions in clauses (4), (6), and (14) of section 101 of this title. The words “commissioned officer” are substituted for the word “officer” for clarity throughout this chapter, since the latter term was defined in the limited sense of commissioned officer in clause (5) of 50:551, and is now covered by section 101(14) of this title.
 
-In clauses (1), (4)–(7), and (9)–(12) of the revised section, the word “means” is substituted for the words “shall be construed to refer to” and “shall be construed to refer \* \* \* to”.
+In clauses (1), (4)–(7), and (9)–(12) of the revised section, the word “means” is substituted for the words “shall be construed to refer to” and “shall be construed to refer \* \* \* to”.
 
 In clause (1), the words “service in” are substituted for the words “part of” to conform to section 1 of title 14. The words “Department of the Treasury” are substituted for the words “Treasury Department”.
 
@@ -151,27 +151,27 @@ In clause (12), the words “Marine Corps” are inserted to make explicit that 
 
 **Amendments**
 
-2022—Par. (17)(A). Pub. L. 117–263, § 541(b)(1), struck out “or” after “section 932 (article 132),” and substituted “, or the standalone offense of sexual harassment punishable under section 934 (article 134) of this title in each instance in which a formal complaint is made and such formal complaint is substantiated in accordance with regulations prescribed by the Secretary concerned” for “of this title”.
+2022—Par. (17)(A). Pub. L. 117–263, § 541(b)(1), struck out “or” after “section 932 (article 132),” and substituted “, or the standalone offense of sexual harassment punishable under section 934 (article 134) of this title in each instance in which a formal complaint is made and such formal complaint is substantiated in accordance with regulations prescribed by the Secretary concerned” for “of this title”.
 
-Pub. L. 117–263, § 541(a)(1), substituted “section 919a (article 119a), section 920 (article 120), section 920a (article 120a)” for “section 920 (article 120)”.
+Pub. L. 117–263, § 541(a)(1), substituted “section 919a (article 119a), section 920 (article 120), section 920a (article 120a)” for “section 920 (article 120)”.
 
-2021—Par. (11). Pub. L. 117–81, § 533(1), added par. (11).
+2021—Par. (11). Pub. L. 117–81, § 533(1), added par. (11).
 
-Pars. (17), (18). Pub. L. 117–81, § 533(2), added pars. (17) and (18).
+Pars. (17), (18). Pub. L. 117–81, § 533(2), added pars. (17) and (18).
 
-2017—Pub. L. 115–91, § 1081(c)(1)(A), which directed insertion of “(the Uniform Code of Military Justice)” after “chapter” in introductory provisions, was not executed in light of the prior amendment by section 1081(a)(21) of Pub. L. 115–91, to reflect the probable intent of Congress. See Amendment note below and section 1081(c)(4) of Pub. L. 115–91, set out as an Effective Date of 2017 Amendment note below.
+2017—Pub. L. 115–91, § 1081(c)(1)(A), which directed insertion of “(the Uniform Code of Military Justice)” after “chapter” in introductory provisions, was not executed in light of the prior amendment by section 1081(a)(21) of Pub. L. 115–91, to reflect the probable intent of Congress. See Amendment note below and section 1081(c)(4) of Pub. L. 115–91, set out as an Effective Date of 2017 Amendment note below.
 
-Pub. L. 115–91, § 1081(a)(21), inserted “(the Uniform Code of Military Justice)” after “chapter” in introductory provisions.
+Pub. L. 115–91, § 1081(a)(21), inserted “(the Uniform Code of Military Justice)” after “chapter” in introductory provisions.
 
-2016—Cl. (10). Pub. L. 114–328, § 5101(a), amended cl. (10) generally. Prior to amendment, cl. (10) read as follows: “The term ‘military judge’ means an official of a general or special court-martial detailed in accordance with section 826 of this title (article 26).”
+2016—Cl. (10). Pub. L. 114–328, § 5101(a), amended cl. (10) generally. Prior to amendment, cl. (10) read as follows: “The term ‘military judge’ means an official of a general or special court-martial detailed in accordance with section 826 of this title (article 26).”
 
-Cl. (13)(A). Pub. L. 114–328, § 5101(b)(1), substituted “the Army, the Navy, or the Air Force” for “the Army or the Navy”.
+Cl. (13)(A). Pub. L. 114–328, § 5101(b)(1), substituted “the Army, the Navy, or the Air Force” for “the Army or the Navy”.
 
-Cl. (13)(B). Pub. L. 114–328, § 5101(b)(2), struck out “the Air Force or” after “an officer of”.
+Cl. (13)(B). Pub. L. 114–328, § 5101(b)(2), struck out “the Air Force or” after “an officer of”.
 
-2006—Cl. (11). Pub. L. 109–241, § 218(a)(1), struck out cl. (11) which read as follows: “The term ‘law specialist’ means a commissioned officer of the Coast Guard designated for special duty (law).”
+2006—Cl. (11). Pub. L. 109–241, § 218(a)(1), struck out cl. (11) which read as follows: “The term ‘law specialist’ means a commissioned officer of the Coast Guard designated for special duty (law).”
 
-Cl. (13)(C). Pub. L. 109–241, § 218(a)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “an officer of the Coast Guard who is designated as a law specialist.”
+Cl. (13)(C). Pub. L. 109–241, § 218(a)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “an officer of the Coast Guard who is designated as a law specialist.”
 
 2002—Cl. (1). Pub. L. 107–296 substituted “an official designated to serve as Judge Advocate General of the Coast Guard by the Secretary of Homeland Security” for “the General Counsel of the Department of Transportation”.
 
@@ -181,15 +181,15 @@ Cl. (13)(C). Pub. L. 109–241, § 218(a)(2), added subpar. (C) and struck out
 
 1987—Cls. (1), (3) to (14). Pub. L. 100–180 inserted “The term” after each clause designation and revised first word in quotes in each clause to make initial letter of such word lowercase.
 
-1983—Cl. (13). Pub. L. 98–209, § 2(a), added officers of the Coast Guard who are designated as law specialists to definition of “Judge Advocate”.
+1983—Cl. (13). Pub. L. 98–209, § 2(a), added officers of the Coast Guard who are designated as law specialists to definition of “Judge Advocate”.
 
-Cl. (14). Pub. L. 98–209, § 6(a), added cl. (14).
+Cl. (14). Pub. L. 98–209, § 6(a), added cl. (14).
 
 1968—Cl. (10). Pub. L. 90–632 substituted “military judge” for “law officer” as term being defined and inserted reference to special court-martial in the definition thereof.
 
-1967—Cl. (11). Pub. L. 90–179, § 1(1), struck out “Navy or” before “Coast Guard”.
+1967—Cl. (11). Pub. L. 90–179, § 1(1), struck out “Navy or” before “Coast Guard”.
 
-Cl. (13). Pub. L. 90–179, § 1(2), added cl. (13).
+Cl. (13). Pub. L. 90–179, § 1(2), added cl. (13).
 
 1966—Pub. L. 89–670 substituted the General Counsel of the Department of Transportation for the General Counsel of the Department of the Treasury in definition of “Judge Advocate General” applicable to the Coast Guard when operating as a service in the Navy.
 
@@ -197,15 +197,15 @@ Cl. (13). Pub. L. 90–179, § 1(2), added cl. (13).
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–263, div. A, title V, § 541(a)(2), Dec. 23, 2022, 136 Stat. 2580, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect immediately after the coming into effect of the amendments made by section 533 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 135 Stat. 1695) [amending this section] as provided in section 539C of that Act (10 U.S.C. 801 note) and shall apply with respect to offenses that occur after that date.”
+Pub. L. 117–263, div. A, title V, § 541(a)(2), Dec. 23, 2022, 136 Stat. 2580, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect immediately after the coming into effect of the amendments made by section 533 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 135 Stat. 1695) [amending this section] as provided in section 539C of that Act (10 U.S.C. 801 note) and shall apply with respect to offenses that occur after that date.”
 
-Pub. L. 117–263, div. A, title V, § 541(b)(2), Dec. 23, 2022, 136 Stat. 2580, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on January 1, 2025, and shall apply with respect to offenses that occur after that date.”
+Pub. L. 117–263, div. A, title V, § 541(b)(2), Dec. 23, 2022, 136 Stat. 2580, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on January 1, 2025, and shall apply with respect to offenses that occur after that date.”
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 117–81, div. A, title V, § 539C, Dec. 27, 2021, 135 Stat. 1699, as amended by Pub. L. 118–31, div. A, title V, § 531(c)(2), Dec. 22, 2023, 137 Stat. 259, provided that:
+Pub. L. 117–81, div. A, title V, § 539C, Dec. 27, 2021, 135 Stat. 1699, as amended by Pub. L. 118–31, div. A, title V, § 531(c)(2), Dec. 22, 2023, 137 Stat. 259, provided that:
 
-> **“(a) In General.—** Except as provided in subsection (b), the amendments made by this part [part 1 (§§ 531–539C) of subtitle D of title V of div. A of Pub. L. 117–81, enacting sections 824a and 1044f of this title and amending this section and sections 822, 823, 827, 832, 834, 844, 853a, 865 to 867, and 869 of this title] shall take effect on the date that is two years after the date of the enactment of this Act [Dec. 27, 2021] and, except as provided in section 824a(d) of title 10, United States Code (article 24a(d) of the Uniform Code of Military Justice), shall apply with respect to offenses that occur after that date.
+> **“(a) In General.—** Except as provided in subsection (b), the amendments made by this part [part 1 (§§ 531–539C) of subtitle D of title V of div. A of Pub. L. 117–81, enacting sections 824a and 1044f of this title and amending this section and sections 822, 823, 827, 832, 834, 844, 853a, 865 to 867, and 869 of this title] shall take effect on the date that is two years after the date of the enactment of this Act [Dec. 27, 2021] and, except as provided in section 824a(d) of title 10, United States Code (article 24a(d) of the Uniform Code of Military Justice), shall apply with respect to offenses that occur after that date.
 
 > **“(b) Regulations.—**
 
@@ -215,15 +215,15 @@ Pub. L. 117–81, div. A, title V, § 539C, Dec. 27, 2021, 135 Stat. 1699, as 
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–91, div. A, title V, § 531(p), Dec. 12, 2017, 131 Stat. 1388, provided that: “The amendments made by this section [amending sections 806b, 830a, 838, 853a, 856, 858a, 858b, 862, 863, 866, 946, 1059, and 1408 of this title and provisions set out as a note below] shall take effect immediately after the amendments made by the Military Justice Act of 2016 (division E [§§ 5001–5542] of Public Law 114–328 [enacting, amending, and transferring numerous sections throughout this chapter]) take effect as provided for in section 5542 of that Act (130 Stat. 2967) [set out below].”
+Pub. L. 115–91, div. A, title V, § 531(p), Dec. 12, 2017, 131 Stat. 1388, provided that: “The amendments made by this section [amending sections 806b, 830a, 838, 853a, 856, 858a, 858b, 862, 863, 866, 946, 1059, and 1408 of this title and provisions set out as a note below] shall take effect immediately after the amendments made by the Military Justice Act of 2016 (division E [§§ 5001–5542] of Public Law 114–328 [enacting, amending, and transferring numerous sections throughout this chapter]) take effect as provided for in section 5542 of that Act (130 Stat. 2967) [set out below].”
 
-Pub. L. 115–91, div. A, title X, § 1081(c)(4), Dec. 12, 2017, 131 Stat. 1599, provided that: “The amendments made by this subsection [amending this section and sections 673, 674, 806b, 816, 839, 843, 848, 853, 853a, 864, 865, 866, 869, 882, 919a, 920, 928, 932, 937, 1034, and 1044e of this title and section 8312 of Title 5, Government Organization and Employees] shall take effect immediately after the amendments made by the Military Justice Act of 2016 (division E [§§ 5001–5542] of Public Law 114–328 [enacting, amending, and transferring numerous sections throughout this chapter]) take effect as provided for in section 5542 of that Act (130 Stat. 2967) [set out below].”
+Pub. L. 115–91, div. A, title X, § 1081(c)(4), Dec. 12, 2017, 131 Stat. 1599, provided that: “The amendments made by this subsection [amending this section and sections 673, 674, 806b, 816, 839, 843, 848, 853, 853a, 864, 865, 866, 869, 882, 919a, 920, 928, 932, 937, 1034, and 1044e of this title and section 8312 of Title 5, Government Organization and Employees] shall take effect immediately after the amendments made by the Military Justice Act of 2016 (division E [§§ 5001–5542] of Public Law 114–328 [enacting, amending, and transferring numerous sections throughout this chapter]) take effect as provided for in section 5542 of that Act (130 Stat. 2967) [set out below].”
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–328, div. E, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2967, as amended by Pub. L. 115–91, div. A, title V, § 531(n)(1), Dec. 12, 2017, 131 Stat. 1387, provided that:
+Pub. L. 114–328, div. E, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2967, as amended by Pub. L. 115–91, div. A, title V, § 531(n)(1), Dec. 12, 2017, 131 Stat. 1387, provided that:
 
-> **“(a) In General.—** Except as otherwise provided in this division [div. E (§§ 5001–5542) of Pub. L. 114–328, see Tables for classification], the amendments made by this division [enacting, amending, and transferring numerous sections throughout this chapter] shall take effect on the date designated by the President [Jan. 1, 2019, with certain conditions and exceptions, see Ex. Ord. No. 13825, set out below], which date shall be not later than the first day of the first calendar month that begins two years after the date of the enactment of this Act [Dec. 23, 2016].
+> **“(a) In General.—** Except as otherwise provided in this division [div. E (§§ 5001–5542) of Pub. L. 114–328, see Tables for classification], the amendments made by this division [enacting, amending, and transferring numerous sections throughout this chapter] shall take effect on the date designated by the President [Jan. 1, 2019, with certain conditions and exceptions, see Ex. Ord. No. 13825, set out below], which date shall be not later than the first day of the first calendar month that begins two years after the date of the enactment of this Act [Dec. 23, 2016].
 
 > **“(b) Implementing Regulations.—** The President shall prescribe regulations implementing this division and the amendments made by this division by not later than one year after the date of the enactment of this Act, except as otherwise provided in this division.
 
@@ -235,11 +235,11 @@ Pub. L. 114–328, div. E, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2967
 
 > **“(3) Punitive article amendments.—**
 
-> **“(A) In general.—** The amendments made by title LX [§§ 5401–5452 of div. E of Pub. L. 114–328, enacting, amending, and transferring numerous sections within subchapter X of this chapter, see Tables for classification] shall not apply to any offense committed before the effective date of such amendments.
+> **“(A) In general.—** The amendments made by title LX [§§ 5401–5452 of div. E of Pub. L. 114–328, enacting, amending, and transferring numerous sections within subchapter X of this chapter, see Tables for classification] shall not apply to any offense committed before the effective date of such amendments.
 
 > **“(B) Construction.—** Nothing in subparagraph (A) shall be construed to invalidate the prosecution of any offense committed before the effective date of such amendments.
 
-> **“(4) Sentencing amendments.—** The regulations prescribing the authorized punishments for any offense committed before the effective date of the amendments made by title LVIII [§§ 5301–5303 of div. E of Pub. L. 114–328, amending sections 856 to 857a, 858a, 858b, and 871 of this title] shall apply to the authorized punishments for the offense, as in effect at the time the offense is committed.”
+> **“(4) Sentencing amendments.—** The regulations prescribing the authorized punishments for any offense committed before the effective date of the amendments made by title LVIII [§§ 5301–5303 of div. E of Pub. L. 114–328, amending sections 856 to 857a, 858a, 858b, and 871 of this title] shall apply to the authorized punishments for the offense, as in effect at the time the offense is committed.”
 
 **Effective Date of 2002 Amendment**
 
@@ -247,7 +247,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–209, § 12(a), Dec. 6, 1983, 97 Stat. 1407, provided that:
+Pub. L. 98–209, § 12(a), Dec. 6, 1983, 97 Stat. 1407, provided that:
 
 > **“(1)** The amendments made by this Act [see Short Title of 1983 Amendment note below] shall take effect on the first day of the eighth calendar month that begins after the date of enactment of this Act [Dec. 6, 1983], except that the amendments made by sections 9, 11 and 13 [amending sections 802, 815, 825, 867, 1552, and 1553 of this title and enacting provisions set out as a note under section 867 of this title] shall be effective on the date of the enactment of this Act. The amendments made by section 11 [amending sections 1552 and 1553 of this title] shall only apply with respect to cases filed after the date of enactment of this Act with the boards established under sections 1552 and 1553 of title 10, United States Code.
 
@@ -261,7 +261,7 @@ Pub. L. 98–209, § 12(a), Dec. 6, 1983, 97 Stat. 1407, provided that:
 
 **Effective Date of 1968 Amendment**
 
-Pub. L. 90–632, § 4, Oct. 24, 1968, 82 Stat. 1343, provided that:
+Pub. L. 90–632, § 4, Oct. 24, 1968, 82 Stat. 1343, provided that:
 
 > **“(a)** Except for the amendments made by paragraphs (30) and (33) of section 2, this Act [see Short Title of 1968 Amendment note below] shall become effective on the first day of the tenth month following the month in which it is enacted [October 1968].
 
@@ -271,31 +271,31 @@ Pub. L. 90–632, § 4, Oct. 24, 1968, 82 Stat. 1343, provided that:
 
 **Effective Date of 1966 Amendment**
 
-Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by the President and published in the Federal Register, see section 16(a), formerly § 15(a), of Pub. L. 89–670, and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
+Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by the President and published in the Federal Register, see section 16(a), formerly § 15(a), of Pub. L. 89–670, and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
 **Effective Date**
 
-Act Aug. 10, 1956, ch. 1041, § 51, 70A Stat. 640, provided that: “Chapter 47 of title 10, United States Code, enacted by section 1 of this Act, takes effect January 1, 1957.”
+Act Aug. 10, 1956, ch. 1041, § 51, 70A Stat. 640, provided that: “Chapter 47 of title 10, United States Code, enacted by section 1 of this Act, takes effect January 1, 1957.”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title XI, § 1101, Feb. 10, 1996, 110 Stat. 461, provided that: “This title [enacting sections 857a, 858b, and 876b of this title, amending this section and sections 802, 832, 847, 857, 860, 862, 866, 895, 920, and 937 of this title, repealing section 804 of Title 37, Pay and Allowances of the Uniformed Services, enacting provisions set out as notes under sections 802, 857, 858b, and 876b of this title, and amending provisions set out as a note under section 942 of this title] may be cited as the ‘Military Justice Amendments of 1995’.”
+Pub. L. 104–106, div. A, title XI, § 1101, Feb. 10, 1996, 110 Stat. 461, provided that: “This title [enacting sections 857a, 858b, and 876b of this title, amending this section and sections 802, 832, 847, 857, 860, 862, 866, 895, 920, and 937 of this title, repealing section 804 of Title 37, Pay and Allowances of the Uniformed Services, enacting provisions set out as notes under sections 802, 857, 858b, and 876b of this title, and amending provisions set out as a note under section 942 of this title] may be cited as the ‘Military Justice Amendments of 1995’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–661, div. A, title VIII, § 801(a), Nov. 14, 1986, 100 Stat. 3905, provided that: “This title [enacting section 850a of this title, amending sections 802, 803, 806, 825, 843, 860, 936, and 937 of this title, and enacting provisions set out as notes under sections 802, 806, 825, 843, 850a, and 860 of this title] may be cited as the ‘Military Justice Amendments of 1986’.”
+Pub. L. 99–661, div. A, title VIII, § 801(a), Nov. 14, 1986, 100 Stat. 3905, provided that: “This title [enacting section 850a of this title, amending sections 802, 803, 806, 825, 843, 860, 936, and 937 of this title, and enacting provisions set out as notes under sections 802, 806, 825, 843, 850a, and 860 of this title] may be cited as the ‘Military Justice Amendments of 1986’.”
 
 **Short Title of 1983 Amendment**
 
-Pub. L. 98–209, § 1(a), Dec. 6, 1983, 97 Stat. 1393, provided that: “This Act [enacting sections 912a of this title and section 1259 of Title 28, Judiciary and Judicial Procedure, amending this section, sections 802, 806, 815, 816, 825, 826, 827, 829, 834, 838, 842, 849, 854, 857, 860 to 867, 869, 870, 871, 876a, 936, 1552, and 1553 of this title, and section 2101 of Title 28, and enacting provisions set out as notes under sections 801, 867, and 869 of this title and amending provisions set out as a note under section 706 of this title] may be cited as the ‘Military Justice Act of 1983’.”
+Pub. L. 98–209, § 1(a), Dec. 6, 1983, 97 Stat. 1393, provided that: “This Act [enacting sections 912a of this title and section 1259 of Title 28, Judiciary and Judicial Procedure, amending this section, sections 802, 806, 815, 816, 825, 826, 827, 829, 834, 838, 842, 849, 854, 857, 860 to 867, 869, 870, 871, 876a, 936, 1552, and 1553 of this title, and section 2101 of Title 28, and enacting provisions set out as notes under sections 801, 867, and 869 of this title and amending provisions set out as a note under section 706 of this title] may be cited as the ‘Military Justice Act of 1983’.”
 
 **Short Title of 1981 Amendment**
 
-Pub. L. 97–81, § 1(a), Nov. 20, 1981, 95 Stat. 1085, provided that: “This Act [enacting sections 706, 707, and 876a of this title, amending sections 701, 813, 832, 838, 867, and 869 of this title, and enacting provisions set out as a note under section 706 of this title] may be cited as the ‘Military Justice Amendments of 1981’.”
+Pub. L. 97–81, § 1(a), Nov. 20, 1981, 95 Stat. 1085, provided that: “This Act [enacting sections 706, 707, and 876a of this title, amending sections 701, 813, 832, 838, 867, and 869 of this title, and enacting provisions set out as a note under section 706 of this title] may be cited as the ‘Military Justice Amendments of 1981’.”
 
 **Short Title of 1968 Amendment**
 
-Pub. L. 90–632, § 1, Oct. 24, 1968, 82 Stat. 1335, provided: “That this Act [amending this section and sections 806, 816, 818, 819, 820, 825, 826, 827, 829, 835, 837, 838, 839, 840, 841, 842, 845, 849, 851, 852, 854, 857, 865, 866, 867, 868, 869, 870, 871, 873, and 936 of this title and enacting provisions set out as notes under this section and sections 826 and 866 of this title] may be cited as the ‘Military Justice Act of 1968’.”
+Pub. L. 90–632, § 1, Oct. 24, 1968, 82 Stat. 1335, provided: “That this Act [amending this section and sections 806, 816, 818, 819, 820, 825, 826, 827, 829, 835, 837, 838, 839, 840, 841, 842, 845, 849, 851, 852, 854, 857, 865, 866, 867, 868, 869, 870, 871, 873, and 936 of this title and enacting provisions set out as notes under this section and sections 826 and 866 of this title] may be cited as the ‘Military Justice Act of 1968’.”
 
 **Redesignation of Navy Law Specialists as Judge Advocates**
 
@@ -307,7 +307,7 @@ Rights, duties, and proceedings not affected by Pub. L. 90–179 establishing Ju
 
 **Legislative Construction**
 
-Act Aug. 10, 1956, ch. 1041, § 49(e), 70A Stat. 640, provided that: “In chapter 47 of title 10, United States Code [this chapter], enacted by section 1 of this Act, no inference of a legislative construction is to be drawn from the part in which any article is placed nor from the catchlines of the part or the article as set out in that chapter.”
+Act Aug. 10, 1956, ch. 1041, § 49(e), 70A Stat. 640, provided that: “In chapter 47 of title 10, United States Code [this chapter], enacted by section 1 of this Act, no inference of a legislative construction is to be drawn from the part in which any article is placed nor from the catchlines of the part or the article as set out in that chapter.”
 
 **Transfer of Functions**
 
@@ -315,11 +315,11 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Applicability to the United States Coast Guard**
 
-Pub. L. 117–81, div. A, title V, § 539B, Dec. 27, 2021, 135 Stat. 1699, provided that: “The Secretary of Defense shall consult and enter into an agreement with the Secretary of Homeland Security to apply the provisions of this part [part 1 (§§ 531–539C) of subtitle D of title V of div. A of Pub. L. 117–81, enacting sections 824a and 1044f of this title, amending this section and sections 822, 823, 827, 832, 834, 844, 853a, 865 to 867, and 869 of this title, and enacting provisions set out as a note under this section] and the amendments made by this part, and the policies, mechanisms, and processes established pursuant to such provisions, to the United States Coast Guard when it is operating as a service in the Department of Homeland Security.”
+Pub. L. 117–81, div. A, title V, § 539B, Dec. 27, 2021, 135 Stat. 1699, provided that: “The Secretary of Defense shall consult and enter into an agreement with the Secretary of Homeland Security to apply the provisions of this part [part 1 (§§ 531–539C) of subtitle D of title V of div. A of Pub. L. 117–81, enacting sections 824a and 1044f of this title, amending this section and sections 822, 823, 827, 832, 834, 844, 853a, 865 to 867, and 869 of this title, and enacting provisions set out as a note under this section] and the amendments made by this part, and the policies, mechanisms, and processes established pursuant to such provisions, to the United States Coast Guard when it is operating as a service in the Department of Homeland Security.”
 
 **Assessment of Racial, Ethnic, and Gender Disparities in the Military Justice System**
 
-Pub. L. 116–92, div. A, title V, § 540I, Dec. 20, 2019, 133 Stat. 1369, provided that:
+Pub. L. 116–92, div. A, title V, § 540I, Dec. 20, 2019, 133 Stat. 1369, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall provide for the carrying out of the activities described in subsections (b) and (c) in order to improve the ability of the Department of Defense to detect and address racial, ethnic, and gender disparities in the military justice system.
 
@@ -375,7 +375,7 @@ Pub. L. 116–92, div. A, title V, § 540I, Dec. 20, 2019, 133 Stat. 1369, pro
 
 **Pilot Programs on Defense Investigators in the Military Justice System**
 
-Pub. L. 116–92, div. A, title V, § 540J, Dec. 20, 2019, 133 Stat. 1371, provided that:
+Pub. L. 116–92, div. A, title V, § 540J, Dec. 20, 2019, 133 Stat. 1371, provided that:
 
 > **“(a) In General.—** Each Secretary of a military department shall carry out a pilot program on defense investigators within the military justice system under the jurisdiction of such Secretary in order to do the following:
 
@@ -409,7 +409,7 @@ Pub. L. 116–92, div. A, title V, § 540J, Dec. 20, 2019, 133 Stat. 1371, pro
 
 **Chief Medical Officer at United States Naval Station, Guantanamo Bay, Cuba**
 
-Pub. L. 116–92, div. A, title X, § 1046, Dec. 20, 2019, 133 Stat. 1586, provided that:
+Pub. L. 116–92, div. A, title X, § 1046, Dec. 20, 2019, 133 Stat. 1586, provided that:
 
 > **“(a) Chief Medical Officer.—**
 
@@ -469,7 +469,7 @@ Pub. L. 116–92, div. A, title X, § 1046, Dec. 20, 2019, 133 Stat. 1586, pro
 
 **Sentencing in Certain Transitional Cases**
 
-Pub. L. 115–91, div. A, title V, § 531(*o*), Dec. 12, 2017, 131 Stat. 1387, provided that:
+Pub. L. 115–91, div. A, title V, § 531(*o*), Dec. 12, 2017, 131 Stat. 1387, provided that:
 
 > **“(1) In general.—** In any transition-period court-martial, the relevant sentencing sections of chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), shall be applied as follows:
 
@@ -489,11 +489,11 @@ Pub. L. 115–91, div. A, title V, § 531(*o*), Dec. 12, 2017, 131 Stat. 1387,
 
 **Improved Implementation of Changes to Uniform Code of Military Justice**
 
-Pub. L. 114–92, div. A, title V, § 543, Nov. 25, 2015, 129 Stat. 820, provided that: “The Secretary of Defense shall examine the Department of Defense process for implementing statutory changes to the Uniform Code of Military Justice for the purpose of developing options for streamlining such process. The Secretary shall adopt procedures to ensure that legal guidance is published as soon as practicable whenever statutory changes to the Uniform Code of Military Justice are implemented.”
+Pub. L. 114–92, div. A, title V, § 543, Nov. 25, 2015, 129 Stat. 820, provided that: “The Secretary of Defense shall examine the Department of Defense process for implementing statutory changes to the Uniform Code of Military Justice for the purpose of developing options for streamlining such process. The Secretary shall adopt procedures to ensure that legal guidance is published as soon as practicable whenever statutory changes to the Uniform Code of Military Justice are implemented.”
 
 **Reenactment and Modification of Certain Prior Requirements for Certifications Relating to Transfer of Detainees at United States Naval Station, Guantanamo Bay, Cuba, to Foreign Countries and Other Foreign Entities**
 
-Pub. L. 114–92, div. A, title X, § 1034(a)–(f), Nov. 25, 2015, 129 Stat. 969, 970, provided that:
+Pub. L. 114–92, div. A, title X, § 1034(a)–(f), Nov. 25, 2015, 129 Stat. 969, 970, provided that:
 
 > **“(a) Certification Required Prior to Transfer.—**
 
@@ -575,15 +575,15 @@ Pub. L. 114–92, div. A, title X, § 1034(a)–(f), Nov. 25, 2015, 129 Stat. 
 
 **Transfers to Foreign Countries of Individuals Detained at United States Naval Station, Guantanamo Bay, Cuba**
 
-Pub. L. 113–66, div. A, title X, § 1035(a)–(e), Dec. 26, 2013, 127 Stat. 851–853, which related to authority, determinations, and notification regarding transfers to foreign countries of individuals detained at United States Naval Station, Guantanamo Bay, Cuba, was repealed by Pub. L. 114–92, div. A, title X, § 1034(g), Nov. 25, 2015, 129 Stat. 971.
+Pub. L. 113–66, div. A, title X, § 1035(a)–(e), Dec. 26, 2013, 127 Stat. 851–853, which related to authority, determinations, and notification regarding transfers to foreign countries of individuals detained at United States Naval Station, Guantanamo Bay, Cuba, was repealed by Pub. L. 114–92, div. A, title X, § 1034(g), Nov. 25, 2015, 129 Stat. 971.
 
 **Notice to Congress on Use of Naval Vessels for Detention of Individuals**
 
-Pub. L. 112–239, div. A, title X, § 1024(a), Jan. 2, 2013, 126 Stat 1912, provided that: “Not later than 30 days after first detaining an individual pursuant to the Authorization for Use of Military Force (Public Law 107–40; 50 U.S.C. 1541 note) on a naval vessel outside the United States, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives notice of the detention. In the case of such an individual who is transferred or released before the submittal of the notice of the individual’s detention, the Secretary shall also submit to such Committees notice of the transfer or release.”
+Pub. L. 112–239, div. A, title X, § 1024(a), Jan. 2, 2013, 126 Stat 1912, provided that: “Not later than 30 days after first detaining an individual pursuant to the Authorization for Use of Military Force (Public Law 107–40; 50 U.S.C. 1541 note) on a naval vessel outside the United States, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives notice of the detention. In the case of such an individual who is transferred or released before the submittal of the notice of the individual’s detention, the Secretary shall also submit to such Committees notice of the transfer or release.”
 
 **Notice Required Prior To Transfer of Certain Individuals Detained at the Detention Facility at Parwan, Afghanistan**
 
-Pub. L. 112–239, div. A, title X, § 1025, Jan. 2, 2013, 126 Stat. 1913, provided that:
+Pub. L. 112–239, div. A, title X, § 1025, Jan. 2, 2013, 126 Stat. 1913, provided that:
 
 > **“(a) Notice Required.—** The Secretary of Defense shall submit to the appropriate congressional committees notice in writing of the proposed transfer of any individual detained pursuant to the Authorization for Use of Military Force (Public Law 107–40; 50 U.S.C. 1541 note) who is a national of a country other than the United States or Afghanistan from detention at the Detention Facility at Parwan, Afghanistan, to the custody of the Government of Afghanistan or of any other country. Such notice shall be provided not later than 10 days before such a transfer may take place.
 
@@ -601,15 +601,15 @@ Pub. L. 112–239, div. A, title X, § 1025, Jan. 2, 2013, 126 Stat. 1913, pro
 
 **Requirements for Certifications Relating to the Transfer of Detainees at United States Naval Station, Guantanamo Bay, Cuba, to Foreign Countries and Other Foreign Entities**
 
-Pub. L. 112–239, div. A, title X, § 1028, Jan. 2, 2013, 126 Stat. 1914, related to requirements for certifications relating to the transfer of detainees at United States Naval Station, Guantanamo Bay, Cuba, to foreign countries and other foreign entities, prior to repeal by Pub. L. 113–66, div. A, title X, § 1035(f)(2), Dec. 26, 2013, 127 Stat. 853.
+Pub. L. 112–239, div. A, title X, § 1028, Jan. 2, 2013, 126 Stat. 1914, related to requirements for certifications relating to the transfer of detainees at United States Naval Station, Guantanamo Bay, Cuba, to foreign countries and other foreign entities, prior to repeal by Pub. L. 113–66, div. A, title X, § 1035(f)(2), Dec. 26, 2013, 127 Stat. 853.
 
 **Rights Unaffected**
 
-Pub. L. 112–239, div. A, title X, § 1029, Jan. 2, 2013, 126 Stat. 1917, provided that: “Nothing in the Authorization for Use of Military Force (Public Law 107–40; 50 U.S.C. 1541 note) or the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81 [see Tables for classification]) shall be construed to deny the availability of the writ of habeas corpus or to deny any Constitutional rights in a court ordained or established by or under Article III of the Constitution to any person inside the United States who would be entitled to the availability of such writ or to such rights in the absence of such laws.”
+Pub. L. 112–239, div. A, title X, § 1029, Jan. 2, 2013, 126 Stat. 1917, provided that: “Nothing in the Authorization for Use of Military Force (Public Law 107–40; 50 U.S.C. 1541 note) or the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81 [see Tables for classification]) shall be construed to deny the availability of the writ of habeas corpus or to deny any Constitutional rights in a court ordained or established by or under Article III of the Constitution to any person inside the United States who would be entitled to the availability of such writ or to such rights in the absence of such laws.”
 
 **Notification of Transfer of a Detainee Held at United States Naval Station, Guantanamo Bay, Cuba**
 
-Pub. L. 112–87, title III, § 308, Jan. 3, 2012, 125 Stat. 1883, provided that:
+Pub. L. 112–87, title III, § 308, Jan. 3, 2012, 125 Stat. 1883, provided that:
 
 > **“(a) Requirement for Notification.—** The President shall submit to Congress, in classified form, at least 30 days prior to the transfer or release of an individual detained at Naval Station, Guantanamo Bay, Cuba, as of June 24, 2009, to the country of such individual’s nationality or last habitual residence or to any other foreign country or to a freely associated State the following information:
 
@@ -633,7 +633,7 @@ Pub. L. 112–87, title III, § 308, Jan. 3, 2012, 125 Stat. 1883, provided th
 
 **Detention Authority and Procedures, Transfer Certifications and Prosecution Consultation Requirement**
 
-Pub. L. 112–81, div. A, title X, §§ 1021–1025, 1028, 1029, Dec. 31, 2011, 125 Stat. 1562–1565, 1567, 1569, as amended by Pub. L. 113–66, div. A, title X, § 1035(f)(1), Dec. 26, 2013, 127 Stat. 853, provided that:
+Pub. L. 112–81, div. A, title X, §§ 1021–1025, 1028, 1029, Dec. 31, 2011, 125 Stat. 1562–1565, 1567, 1569, as amended by Pub. L. 113–66, div. A, title X, § 1035(f)(1), Dec. 26, 2013, 127 Stat. 853, provided that:
 
 > **“SEC. 1021. AFFIRMATION OF AUTHORITY OF THE ARMED FORCES OF THE UNITED STATES TO DETAIN COVERED PERSONS PURSUANT TO THE AUTHORIZATION FOR USE OF MILITARY FORCE.**
 
@@ -777,7 +777,7 @@ Pub. L. 112–81, div. A, title X, §§ 1021–1025, 1028, 1029, Dec. 31, 2011
 
 > **“[SEC. 1028.**
 
-> Repealed. Pub. L. 113–66, div. A, title X, § 1035(f)(1), Dec. 26, 2013, 127 Stat. 853.]
+> Repealed. Pub. L. 113–66, div. A, title X, § 1035(f)(1), Dec. 26, 2013, 127 Stat. 853.]
 
 > **“SEC. 1029. REQUIREMENT FOR CONSULTATION REGARDING PROSECUTION OF TERRORISTS.**
 
@@ -797,7 +797,7 @@ Pub. L. 112–81, div. A, title X, §§ 1021–1025, 1028, 1029, Dec. 31, 2011
 
 **Prohibition on Interrogation of Detainees by Contractor Personnel**
 
-Pub. L. 111–84, div. A, title X, § 1038, Oct. 28, 2009, 123 Stat. 2451, provided that:
+Pub. L. 111–84, div. A, title X, § 1038, Oct. 28, 2009, 123 Stat. 2451, provided that:
 
 > **“(a) Prohibition.—** Except as provided in subsection (b), effective one year after the date of the enactment of this Act [Oct. 28, 2009], no enemy prisoner of war, civilian internee, retained personnel, other detainee, or any other individual who is in the custody or under the effective control of the Department of Defense or otherwise under detention in a Department of Defense facility in connection with hostilities may be interrogated by contractor personnel.
 
@@ -823,7 +823,7 @@ Pub. L. 111–84, div. A, title X, § 1038, Oct. 28, 2009, 123 Stat. 2451, pro
 
 **No Miranda Warnings for Al Qaeda Terrorists**
 
-Pub. L. 111–84, div. A, title X, § 1040, Oct. 28, 2009, 123 Stat. 2454, provided that:
+Pub. L. 111–84, div. A, title X, § 1040, Oct. 28, 2009, 123 Stat. 2454, provided that:
 
 > **“(a) No Miranda Warnings.—**
 
@@ -851,7 +851,7 @@ Pub. L. 111–84, div. A, title X, § 1040, Oct. 28, 2009, 123 Stat. 2454, pro
 
 **Requirement for Videotaping or Otherwise Electronically Recording Strategic Intelligence Interrogations of Persons in the Custody of or Under the Effective Control of the Department of Defense**
 
-Pub. L. 111–84, div. A, title X, § 1080, Oct. 28, 2009, 123 Stat. 2479, as amended by Pub. L. 111–383, div. A, title X, § 1075(d)(15), Jan. 7, 2011, 124 Stat. 4373, provided that:
+Pub. L. 111–84, div. A, title X, § 1080, Oct. 28, 2009, 123 Stat. 2479, as amended by Pub. L. 111–383, div. A, title X, § 1075(d)(15), Jan. 7, 2011, 124 Stat. 4373, provided that:
 
 > **“(a) Videotaping or Other Electronic Recording Required.—** In accordance with the Army Field Manual on Human Intelligence Collector Operations (FM 2–22.3, September 2006), or any successor thereto, and the guidelines developed pursuant to subsection (f), the Secretary of Defense shall ensure that each strategic intelligence interrogation of any person who is in the custody or under the effective control of the Department of Defense or under detention in a Department of Defense facility is videotaped or otherwise electronically recorded.
 
@@ -911,7 +911,7 @@ Pub. L. 111–84, div. A, title X, § 1080, Oct. 28, 2009, 123 Stat. 2479, as 
 
 **Reports on Guantanamo Bay Prisoner Population**
 
-Pub. L. 111–32, title III, § 319, June 24, 2009, 123 Stat. 1874, as amended by Pub. L. 114–92, div. A, title X, §§ 1038(a), 1039, Nov. 25, 2015, 129 Stat. 974; Pub. L. 116–92, div. E, title LVII, § 5701(a)(2), Dec. 20, 2019, 133 Stat. 2159, provided that:
+Pub. L. 111–32, title III, § 319, June 24, 2009, 123 Stat. 1874, as amended by Pub. L. 114–92, div. A, title X, §§ 1038(a), 1039, Nov. 25, 2015, 129 Stat. 974; Pub. L. 116–92, div. E, title LVII, § 5701(a)(2), Dec. 20, 2019, 133 Stat. 2159, provided that:
 
 > **“(a) Reports Required.—** Not later than 60 days after the date of the enactment of this Act [June 24, 2009] and annually thereafter, the President shall submit to the members and committees of Congress specified in subsection (b) a report on the prisoner population at the detention facility at Naval Station Guantanamo Bay, Cuba.
 
@@ -961,13 +961,13 @@ Pub. L. 111–32, title III, § 319, June 24, 2009, 123 Stat. 1874, as amended
 
 > **“(3)** An assessment of lessons learned from previous releases and transfers of individuals who returned to terrorist activities for reducing the risk that detainees released or transferred from Naval Station Guantanamo Bay will return to terrorist activities after their release or transfer.”
 
-[Pub. L. 114–92, div. A, title X, § 1038(b), Nov. 25, 2015, 129 Stat. 974, provided that: “Nothing in the amendment made by subsection (a) [amending section 319(c) of Pub. L. 111–32, set out above, by adding par. (6)] shall be construed to terminate, alter, modify, override, or otherwise affect any reporting of information required under section 319(c) of the Supplemental Appropriations Act, 2009 [Pub. L. 111–32, set out above] before the date of the enactment of this section [Nov. 25, 2015].” ]
+[Pub. L. 114–92, div. A, title X, § 1038(b), Nov. 25, 2015, 129 Stat. 974, provided that: “Nothing in the amendment made by subsection (a) [amending section 319(c) of Pub. L. 111–32, set out above, by adding par. (6)] shall be construed to terminate, alter, modify, override, or otherwise affect any reporting of information required under section 319(c) of the Supplemental Appropriations Act, 2009 [Pub. L. 111–32, set out above] before the date of the enactment of this section [Nov. 25, 2015].” ]
 
 [Memorandum of President of the United States, July 17, 2009, 74 F.R. 35765, provided that the reporting function conferred upon the President by section 319(a), (c)(1) to (3) of Pub. L. 111–32, set out above, is assigned to the Attorney General, and the reporting function specified in section 319(a), (c)(4), (5), (d) of Pub. L. 111–32 is assigned to the Director of National Intelligence, in consultation with the Secretary of Defense.]
 
 **Policy on Role of Military Medical and Behavioral Science Personnel in Interrogation of Detainees**
 
-Pub. L. 109–163, div. A, title VII, § 750, Jan. 6, 2006, 119 Stat. 3364, provided that:
+Pub. L. 109–163, div. A, title VII, § 750, Jan. 6, 2006, 119 Stat. 3364, provided that:
 
 > **“(a) Policy Required.—** The Secretary of Defense shall establish the policy of the Department of Defense on the role of military medical and behavioral science personnel in the interrogation of persons detained by the Armed Forces. The policy shall apply uniformly throughout the Armed Forces.
 
@@ -975,7 +975,7 @@ Pub. L. 109–163, div. A, title VII, § 750, Jan. 6, 2006, 119 Stat. 3364, pr
 
 **Detainee Interrogation, Status Review, and Treatment**
 
-Pub. L. 109–163, div. A, title XIV, §§ 1402, 1405, 1406, Jan. 6, 2006, 119 Stat. 3475, 3476, 3479, as amended by Pub. L. 111–84, div. A, title XVIII, § 1803(b)(2), as added Pub. L. 111–383, div. A, title X, § 1075(d)(21), Jan. 7, 2011, 124 Stat. 4374, provided that:
+Pub. L. 109–163, div. A, title XIV, §§ 1402, 1405, 1406, Jan. 6, 2006, 119 Stat. 3475, 3476, 3479, as amended by Pub. L. 111–84, div. A, title XVIII, § 1803(b)(2), as added Pub. L. 111–383, div. A, title X, § 1075(d)(21), Jan. 7, 2011, 124 Stat. 4374, provided that:
 
 > **“SEC. 1402. UNIFORM STANDARDS FOR THE INTERROGATION OF PERSONS UNDER THE DETENTION OF THE DEPARTMENT OF DEFENSE.**
 
@@ -1045,7 +1045,7 @@ Pub. L. 109–163, div. A, title XIV, §§ 1402, 1405, 1406, Jan. 6, 2006, 119
 
 > **“(D) Termination on release from custody.—** The jurisdiction of the United States Court of Appeals for the District of Columbia Circuit with respect to the claims of an alien under this paragraph shall cease upon the release of such alien from the custody of the Department of Defense.
 
-> **“[(3)** Repealed. Pub. L. 111–84, div. A, title XVIII, § 1803(b)(2), as added Pub. L. 111–383, div. A, title X, § 1075(d)(21), Jan. 7, 2011, 124 Stat. 4374.]
+> **“[(3)** Repealed. Pub. L. 111–84, div. A, title XVIII, § 1803(b)(2), as added Pub. L. 111–383, div. A, title X, § 1075(d)(21), Jan. 7, 2011, 124 Stat. 4374.]
 
 > **“(4) Respondent.—** The Secretary of Defense shall be the named respondent in any appeal to the United States Court of Appeals for the District of Columbia Circuit under this subsection.
 
@@ -1081,7 +1081,7 @@ Pub. L. 109–163, div. A, title XIV, §§ 1402, 1405, 1406, Jan. 6, 2006, 119
 
 [For termination, effective Dec. 31, 2021, of annual reporting provisions in section 1405(d) of Pub. L. 109–163, set out above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.]
 
-Pub. L. 109–148, div. A, title X, §§ 1002, 1005, 1006, Dec. 30, 2005, 119 Stat. 2739, 2740, 2744, as amended by Pub. L. 109–366, §§ 9, 10, Oct. 17, 2006, 120 Stat. 2636, 2637; Pub. L. 110–181, div. A, title X, § 1063(d)(2), Jan. 28, 2008, 122 Stat. 323; Pub. L. 111–84, div. A, title XVIII, § 1803(b)(1), formerly § 1803(b), Oct. 28, 2009, 123 Stat. 2612, as renumbered § 1803(b)(1) by Pub. L. 111–383, div. A, title X, § 1075(d)(21), Jan. 7, 2011, 124 Stat. 4374, provided that:
+Pub. L. 109–148, div. A, title X, §§ 1002, 1005, 1006, Dec. 30, 2005, 119 Stat. 2739, 2740, 2744, as amended by Pub. L. 109–366, §§ 9, 10, Oct. 17, 2006, 120 Stat. 2636, 2637; Pub. L. 110–181, div. A, title X, § 1063(d)(2), Jan. 28, 2008, 122 Stat. 323; Pub. L. 111–84, div. A, title XVIII, § 1803(b)(1), formerly § 1803(b), Oct. 28, 2009, 123 Stat. 2612, as renumbered § 1803(b)(1) by Pub. L. 111–383, div. A, title X, § 1075(d)(21), Jan. 7, 2011, 124 Stat. 4374, provided that:
 
 > **“SEC. 1002. UNIFORM STANDARDS FOR THE INTERROGATION OF PERSONS UNDER THE DETENTION OF THE DEPARTMENT OF DEFENSE.**
 
@@ -1151,7 +1151,7 @@ Pub. L. 109–148, div. A, title X, §§ 1002, 1005, 1006, Dec. 30, 2005, 119 
 
 > **“(D) Termination on release from custody.—** The jurisdiction of the United States Court of Appeals for the District of Columbia Circuit with respect to the claims of an alien under this paragraph shall cease upon the release of such alien from the custody of the Department of Defense.
 
-> **“[(3)** Repealed. Pub. L. 111–84, div. A, title XVIII, § 1803(b)(1), formerly § 1803(b), Oct. 28, 2009, 123 Stat. 2612, as renumbered § 1803(b)(1) by Pub. L. 111–383, div. A, title X, § 1075(d)(21), Jan. 7, 2011, 124 Stat. 4374.]
+> **“[(3)** Repealed. Pub. L. 111–84, div. A, title XVIII, § 1803(b)(1), formerly § 1803(b), Oct. 28, 2009, 123 Stat. 2612, as renumbered § 1803(b)(1) by Pub. L. 111–383, div. A, title X, § 1075(d)(21), Jan. 7, 2011, 124 Stat. 4374.]
 
 > **“(4) Respondent.—** The Secretary of Defense shall be the named respondent in any appeal to the United States Court of Appeals for the District of Columbia Circuit under this subsection.
 
@@ -1187,7 +1187,7 @@ Pub. L. 109–148, div. A, title X, §§ 1002, 1005, 1006, Dec. 30, 2005, 119 
 
 **Sense of Congress Concerning Detainees; Actions To Prevent Abuse**
 
-Pub. L. 108–375, div. A, title X, §§ 1091, 1092, Oct. 28, 2004, 118 Stat. 2068, 2069, provided that:
+Pub. L. 108–375, div. A, title X, §§ 1091, 1092, Oct. 28, 2004, 118 Stat. 2068, 2069, provided that:
 
 > **“SEC. 1091. SENSE OF CONGRESS AND POLICY CONCERNING PERSONS DETAINED BY THE UNITED STATES.**
 
@@ -1343,7 +1343,7 @@ George W. Bush.
 
 **Ex. Ord. No. 13492. Review and Disposition of Individuals Detained At the Guantanamo Bay Naval Base and Closure of Detention Facilities**
 
-Ex. Ord. No. 13492, Jan. 22, 2009, 74 F.R. 4897, as amended by Ex. Ord. No. 13823, § 2(a), Jan. 30, 2018, 83 F.R. 4831, provided:
+Ex. Ord. No. 13492, Jan. 22, 2009, 74 F.R. 4897, as amended by Ex. Ord. No. 13823, § 2(a), Jan. 30, 2018, 83 F.R. 4831, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, in order to effect the appropriate disposition of individuals currently detained by the Department of Defense at the Guantanamo Bay Naval Base (Guantanamo) and promptly to close detention facilities at Guantanamo, consistent with the national security and foreign policy interests of the United States and the interests of justice, I hereby order as follows:
 
@@ -1379,7 +1379,7 @@ Sec. 2. *Findings*.
 
 (g) It is in the interests of the United States that the executive branch conduct a prompt and thorough review of the circumstances of the individuals currently detained at Guantanamo who have been charged with offenses before military commissions pursuant to the Military Commissions Act of 2006, Public Law 109–366, as well as of the military commission process more generally.
 
-Sec. 3. [Revoked by Ex. Ord. No. 13823, § 2(a), Jan. 30, 2018, 83 F.R. 4831, set out below.]
+Sec. 3. [Revoked by Ex. Ord. No. 13823, § 2(a), Jan. 30, 2018, 83 F.R. 4831, set out below.]
 
 Sec. 4. *Immediate Review of All Guantanamo Detentions.*
 
@@ -1611,7 +1611,7 @@ Additions and amendments to the Manual for Courts-Martial, United States, prescr
 
 1984—Ex. Ord. No. 12484, July 13, 1984, 49 F.R. 28825.
 
-### § 802. Art. 2. Persons subject to this chapter
+### § 802. Art. 2. Persons subject to this chapter
 
 **(a)** The following persons are subject to this chapter:
 
@@ -1699,7 +1699,7 @@ is subject to this chapter until such person’s active service has been termina
 
 **(e)** The provisions of this section are subject to section 876b(d)(2) of this title (article 76b(d)(2)).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 37; Pub. L. 86–70, § 6(b), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, § 4(b), July 12, 1960, 74 Stat. 411; Pub. L. 87–651, title I, § 104, Sept. 7, 1962, 76 Stat. 508; Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–107, title VIII, § 801(a), Nov. 9, 1979, 93 Stat. 810; Pub. L. 96–513, title V, § 511(24), Dec. 12, 1980, 94 Stat. 2922; Pub. L. 98–209, § 13(a), Dec. 6, 1983, 97 Stat. 1408; Pub. L. 99–661, div. A, title VIII, § 804(a), Nov. 14, 1986, 100 Stat. 3906; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 104–106, div. A, title XI, § 1133(b), Feb. 10, 1996, 110 Stat. 466; Pub. L. 109–364, div. A, title V, § 552, Oct. 17, 2006, 120 Stat. 2217; Pub. L. 109–366, § 4(a)(1), Oct. 17, 2006, 120 Stat. 2631; Pub. L. 111–84, div. A, title XVIII, § 1803(a)(1), Oct. 28, 2009, 123 Stat. 2612; Pub. L. 113–66, div. A, title XVII, § 1702(c)(3)(A), Dec. 26, 2013, 127 Stat. 957; Pub. L. 114–328, div. E, title LI, § 5102, Dec. 23, 2016, 130 Stat. 2894; Pub. L. 118–31, div. A, title XVII, § 1722(f)(1), Dec. 22, 2023, 137 Stat. 671; Pub. L. 118–159, div. A, title V, § 561, Dec. 23, 2024, 138 Stat. 1903.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 37; Pub. L. 86–70, § 6(b), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, § 4(b), July 12, 1960, 74 Stat. 411; Pub. L. 87–651, title I, § 104, Sept. 7, 1962, 76 Stat. 508; Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–107, title VIII, § 801(a), Nov. 9, 1979, 93 Stat. 810; Pub. L. 96–513, title V, § 511(24), Dec. 12, 1980, 94 Stat. 2922; Pub. L. 98–209, § 13(a), Dec. 6, 1983, 97 Stat. 1408; Pub. L. 99–661, div. A, title VIII, § 804(a), Nov. 14, 1986, 100 Stat. 3906; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 104–106, div. A, title XI, § 1133(b), Feb. 10, 1996, 110 Stat. 466; Pub. L. 109–364, div. A, title V, § 552, Oct. 17, 2006, 120 Stat. 2217; Pub. L. 109–366, § 4(a)(1), Oct. 17, 2006, 120 Stat. 2631; Pub. L. 111–84, div. A, title XVIII, § 1803(a)(1), Oct. 28, 2009, 123 Stat. 2612; Pub. L. 113–66, div. A, title XVII, § 1702(c)(3)(A), Dec. 26, 2013, 127 Stat. 957; Pub. L. 114–328, div. E, title LI, § 5102, Dec. 23, 2016, 130 Stat. 2894; Pub. L. 118–31, div. A, title XVII, § 1722(f)(1), Dec. 22, 2023, 137 Stat. 671; Pub. L. 118–159, div. A, title V, § 561, Dec. 23, 2024, 138 Stat. 1903.)
 
 **Historical and Revision Notes**
 
@@ -1707,7 +1707,7 @@ is subject to this chapter until such person’s active service has been termina
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 802 | 50:552. | May 5, 1950, ch. 169, § 1 (Art. 2), 64 Stat. 109. |
+| 802 | 50:552. | May 5, 1950, ch. 169, § 1 (Art. 2), 64 Stat. 109. |
 
 In clause (1), the words “Members of” are substituted for the words “All persons belonging to”. The words “all” and “the same” are omitted as surplusage. The word “when” is inserted after the word “dates”.
 
@@ -1729,7 +1729,7 @@ In clause (12), the words “Secretary concerned” are substituted for the word
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 802(11), (12) | 50:552(11) and (12). | Aug. 1, 1956, ch. 852, § 23, 70 Stat. 911. |
+| 802(11), (12) | 50:552(11) and (12). | Aug. 1, 1956, ch. 852, § 23, 70 Stat. 911. |
 
 The Act of August 1, 1956, was enacted during the pendency of the codification bill.
 
@@ -1743,19 +1743,19 @@ Another section 1722(f) of Pub. L. 118–31 amended section 973 of this title.
 
 2024—Subsec. (a)(14). Pub. L. 118–159 inserted “20601 or” before “20603”.
 
-2023—Subsec. (a)(1). Pub. L. 118–31, § 1722(f)(1)(A)(i), inserted “and members of the Space Force on active duty under section 20105 of this title,” after “regular component of the armed forces,”.
+2023—Subsec. (a)(1). Pub. L. 118–31, § 1722(f)(1)(A)(i), inserted “and members of the Space Force on active duty under section 20105 of this title,” after “regular component of the armed forces,”.
 
-Subsec. (a)(3)(A)(i). Pub. L. 118–31, § 1722(f)(1)(A)(ii), inserted “or the Space Force” after “reserve component”.
+Subsec. (a)(3)(A)(i). Pub. L. 118–31, § 1722(f)(1)(A)(ii), inserted “or the Space Force” after “reserve component”.
 
-Subsec. (a)(5). Pub. L. 118–31, § 1722(f)(1)(A)(iii), inserted “, or retired members of the Space Force who qualified for a non-regular retirement and are receiving retired pay,” after “a reserve component”.
+Subsec. (a)(5). Pub. L. 118–31, § 1722(f)(1)(A)(iii), inserted “, or retired members of the Space Force who qualified for a non-regular retirement and are receiving retired pay,” after “a reserve component”.
 
-Subsec. (a)(14). Pub. L. 118–31, § 1722(f)(1)(A)(iv), added par. (14).
+Subsec. (a)(14). Pub. L. 118–31, § 1722(f)(1)(A)(iv), added par. (14).
 
-Subsec. (d)(1). Pub. L. 118–31, § 1722(f)(1)(B)(i), inserted “or the Space Force” after “reserve component” in introductory provisions.
+Subsec. (d)(1). Pub. L. 118–31, § 1722(f)(1)(B)(i), inserted “or the Space Force” after “reserve component” in introductory provisions.
 
-Subsec. (d)(2). Pub. L. 118–31, § 1722(f)(1)(B)(ii), inserted “or the Space Force” after “a reserve component” in introductory provisions.
+Subsec. (d)(2). Pub. L. 118–31, § 1722(f)(1)(B)(ii), inserted “or the Space Force” after “a reserve component” in introductory provisions.
 
-Subsec. (d)(4). Pub. L. 118–31, § 1722(f)(1)(B)(iii), inserted “or the Space Force” after “in a regular component of the armed forces”.
+Subsec. (d)(4). Pub. L. 118–31, § 1722(f)(1)(B)(iii), inserted “or the Space Force” after “in a regular component of the armed forces”.
 
 2016—Subsec. (a)(3). Pub. L. 114–328 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Members of a reserve component while on inactive-duty training, but in the case of members of the Army National Guard of the United States or the Air National Guard of the United States only when in Federal service.”
 
@@ -1771,13 +1771,13 @@ Subsec. (a)(13). Pub. L. 109–366 added par. (13).
 
 1988—Subsec. (a)(11), (12). Pub. L. 100–456 struck out “the Canal Zone,” before “the Commonwealth”.
 
-1986—Subsec. (a)(3). Pub. L. 99–661, § 804(a)(1), substituted “on inactive-duty training, but in the case of members of the Army National Guard of the United States or the Air National Guard of the United States only when in Federal service” for “they are on inactive duty training authorized by written orders which are voluntarily accepted by them and which specify that they are subject to this chapter”.
+1986—Subsec. (a)(3). Pub. L. 99–661, § 804(a)(1), substituted “on inactive-duty training, but in the case of members of the Army National Guard of the United States or the Air National Guard of the United States only when in Federal service” for “they are on inactive duty training authorized by written orders which are voluntarily accepted by them and which specify that they are subject to this chapter”.
 
-Subsec. (d). Pub. L. 99–661, § 804(a)(2), added subsec. (d).
+Subsec. (d). Pub. L. 99–661, § 804(a)(2), added subsec. (d).
 
-1983—Subsec. (a)(11), (12). Pub. L. 98–209, § 13(a)(1), substituted “outside the Canal Zone” for “outside the following: the Canal Zone” and inserted “the Commonwealth of” before “Puerto Rico”.
+1983—Subsec. (a)(11), (12). Pub. L. 98–209, § 13(a)(1), substituted “outside the Canal Zone” for “outside the following: the Canal Zone” and inserted “the Commonwealth of” before “Puerto Rico”.
 
-Subsec. (b). Pub. L. 98–209, § 13(a)(2), struck out “of this section” after “subsection (a)”.
+Subsec. (b). Pub. L. 98–209, § 13(a)(2), struck out “of this section” after “subsection (a)”.
 
 1980—Subsec. (a)(8). Pub. L. 96–513 substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
@@ -1803,15 +1803,15 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 113–66, div. A, title XVII, § 1702(d)(1), Dec. 26, 2013, 127 Stat. 958, as amended by Pub. L. 113–291, div. A, title V, § 531(g)(1), Dec. 19, 2014, 128 Stat. 3365, provided that: “The amendments made by subsections (a) and (c)(3) [amending this section and sections 832, 834, 838, 847, and 948b of this title] shall take effect on the later of December 26, 2014, or the date of the enactment of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015 [Dec. 19, 2014] and shall apply with respect to preliminary hearings conducted on or after that effective date.”
+Pub. L. 113–66, div. A, title XVII, § 1702(d)(1), Dec. 26, 2013, 127 Stat. 958, as amended by Pub. L. 113–291, div. A, title V, § 531(g)(1), Dec. 19, 2014, 128 Stat. 3365, provided that: “The amendments made by subsections (a) and (c)(3) [amending this section and sections 832, 834, 838, 847, and 948b of this title] shall take effect on the later of December 26, 2014, or the date of the enactment of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015 [Dec. 19, 2014] and shall apply with respect to preliminary hearings conducted on or after that effective date.”
 
-[Pub. L. 113–291, div. A, title V, § 531(g)(1), Dec. 19, 2014, 128 Stat. 3365, provided that the amendment by section 531(g)(1) to section 1702(d)(1) of Pub. L. 113–66, set out above, is effective as of Dec. 26, 2013, and as if included in section 1702(d)(1) of Pub. L. 113–66, as enacted.]
+[Pub. L. 113–291, div. A, title V, § 531(g)(1), Dec. 19, 2014, 128 Stat. 3365, provided that the amendment by section 531(g)(1) to section 1702(d)(1) of Pub. L. 113–66, set out above, is effective as of Dec. 26, 2013, and as if included in section 1702(d)(1) of Pub. L. 113–66, as enacted.]
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–661, div. A, title VIII, § 804(e), Nov. 14, 1986, 100 Stat. 3908, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 803 of this title] shall apply only to an offense committed on or after the effective date of this title [see section 808 of Pub. L. 99–661, set out below].”
+Pub. L. 99–661, div. A, title VIII, § 804(e), Nov. 14, 1986, 100 Stat. 3908, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 803 of this title] shall apply only to an offense committed on or after the effective date of this title [see section 808 of Pub. L. 99–661, set out below].”
 
-Pub. L. 99–661, div. A, title VIII, § 808, Nov. 14, 1986, 100 Stat. 3909, provided that:
+Pub. L. 99–661, div. A, title VIII, § 808, Nov. 14, 1986, 100 Stat. 3909, provided that:
 
 > “Except as provided in sections 802(b), 805(c), and 807(b) [set out as notes under sections 850a, 843, and 806, respectively, of this title], this title and the amendments made by this title [enacting section 850a of this title, amending this section and sections 803, 806, 825, 843, 860, 936, and 937 of this title, and enacting provisions set out as notes under this section and sections 801, 806, 825, 843, 850a, and 860 of this title] shall take effect on the earlier of—
 
@@ -1829,15 +1829,15 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Repeals**
 
-The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
+The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
 
 **Applicability of Uniform Code of Military Justice to Members of the Armed Forces Ordered to Duty Overseas in Inactive Duty for Training Status**
 
-Pub. L. 109–364, div. A, title V, § 551, Oct. 17, 2006, 120 Stat. 2217, provided that: “Not later than March 1, 2007, the Secretaries of the military departments shall prescribe regulations, or amend current regulations, in order to provide that members of the Armed Forces who are ordered to duty at locations overseas in an inactive duty for training status are subject to the jurisdiction of the Uniform Code of Military Justice, pursuant to the provisions of section 802(a)(3) of title 10, United States Code (article 2(a)(3) of the Uniform Code of Military Justice), continuously from the commencement of execution of such orders to the conclusion of such orders.”
+Pub. L. 109–364, div. A, title V, § 551, Oct. 17, 2006, 120 Stat. 2217, provided that: “Not later than March 1, 2007, the Secretaries of the military departments shall prescribe regulations, or amend current regulations, in order to provide that members of the Armed Forces who are ordered to duty at locations overseas in an inactive duty for training status are subject to the jurisdiction of the Uniform Code of Military Justice, pursuant to the provisions of section 802(a)(3) of title 10, United States Code (article 2(a)(3) of the Uniform Code of Military Justice), continuously from the commencement of execution of such orders to the conclusion of such orders.”
 
 **Advisory Committee on Criminal Law Jurisdiction Over Civilians Accompanying Armed Forces in Time of Armed Conflict**
 
-Pub. L. 104–106, div. A, title XI, § 1151, Feb. 10, 1996, 110 Stat. 467, directed the Secretary of Defense and the Attorney General, not later than 45 days after Feb. 10, 1996, to jointly appoint an advisory committee to review and make recommendations concerning the appropriate forum for criminal jurisdiction over civilians accompanying the Armed Forces outside the United States in time of armed conflict, directed the committee to transmit to the Secretary of Defense and the Attorney General a report setting forth its findings and recommendations not later than Dec. 15, 1996, directed the Secretary of Defense and the Attorney General to jointly transmit the report of the committee to Congress not later than Jan. 15, 1997, and provided that the committee would terminate 30 days after the date on which the report had been submitted to Congress.
+Pub. L. 104–106, div. A, title XI, § 1151, Feb. 10, 1996, 110 Stat. 467, directed the Secretary of Defense and the Attorney General, not later than 45 days after Feb. 10, 1996, to jointly appoint an advisory committee to review and make recommendations concerning the appropriate forum for criminal jurisdiction over civilians accompanying the Armed Forces outside the United States in time of armed conflict, directed the committee to transmit to the Secretary of Defense and the Attorney General a report setting forth its findings and recommendations not later than Dec. 15, 1996, directed the Secretary of Defense and the Attorney General to jointly transmit the report of the committee to Congress not later than Jan. 15, 1997, and provided that the committee would terminate 30 days after the date on which the report had been submitted to Congress.
 
 **Executive Documents**
 
@@ -1847,7 +1847,7 @@ All functions of Public Health Service, of the Surgeon General of the Public Hea
 
 **Ex. Ord. No. 10631. Code of Conduct for Members of the Armed Forces**
 
-Ex. Ord. No. 10631, Aug. 17, 1955, 20 F.R. 6057, as amended by Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Ex. Ord. No. 12017, Nov. 3, 1977, 42 F.R. 57941; Ex. Ord. No. 12633, Mar. 28, 1988, 53 F.R. 10355; Ex. Ord. No. 13286, § 76, Feb. 28, 2003, 68 F.R. 106231, provided:
+Ex. Ord. No. 10631, Aug. 17, 1955, 20 F.R. 6057, as amended by Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Ex. Ord. No. 12017, Nov. 3, 1977, 42 F.R. 57941; Ex. Ord. No. 12633, Mar. 28, 1988, 53 F.R. 10355; Ex. Ord. No. 13286, § 76, Feb. 28, 2003, 68 F.R. 106231, provided:
 
 By virtue of the authority vested in me as President of the United States, and as Commander in Chief of the armed forces of the United States, I hereby prescribe the Code of Conduct for Members of the Armed Forces of the United States which is attached to this order and hereby made a part thereof.
 
@@ -1881,7 +1881,7 @@ When questioned, should I become a prisoner of war, I am required to give name, 
 
 I will never forget that I am an American, fighting for freedom, responsible for my actions, and dedicated to the principles which made my country free. I will trust in my God and in the United States of America.
 
-### § 803. Art. 3. Jurisdiction to try certain personnel
+### § 803. Art. 3. Jurisdiction to try certain personnel
 
 **(a)** Subject to section 843 of this title (article 43), a person who is in a status in which the person is subject to this chapter and who committed an offense against this chapter while formerly in a status in which the person was subject to this chapter is not relieved from amenability to the jurisdiction of this chapter for that offense by reason of a termination of that person’s former status.
 
@@ -1891,19 +1891,19 @@ I will never forget that I am an American, fighting for freedom, responsible for
 
 **(d)** A member of a reserve component or the Space Force who is subject to this chapter is not, by virtue of the termination of a period of active duty or inactive-duty training, relieved from amenability to the jurisdiction of this chapter for an offense against this chapter committed during such period of active duty or inactive-duty training.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 38; Pub. L. 99–661, div. A, title VIII, § 804(b), Nov. 14, 1986, 100 Stat. 3907; Pub. L. 102–484, div. A, title X, § 1063, Oct. 23, 1992, 106 Stat. 2505; Pub. L. 118–31, div. A, title XVII, § 1722(f)(2), Dec. 22, 2023, 137 Stat. 671.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 38; Pub. L. 99–661, div. A, title VIII, § 804(b), Nov. 14, 1986, 100 Stat. 3907; Pub. L. 102–484, div. A, title X, § 1063, Oct. 23, 1992, 106 Stat. 2505; Pub. L. 118–31, div. A, title XVII, § 1722(f)(2), Dec. 22, 2023, 137 Stat. 671.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 803(a) 803(b) 803(c) | 50:553(a). 50:553(b). 50:553(c). | May 5, 1950, ch. 169, § 1 (Art. 3), 64 Stat. 109. |
+| 803(a) 803(b) 803(c) | 50:553(a). 50:553(b). 50:553(c). | May 5, 1950, ch. 169, § 1 (Art. 3), 64 Stat. 109. |
 
-In subsection (a), the words “the provisions of” are omitted as surplusage. The words “no \* \* \* may” are substituted for the words “any \* \* \* shall not”. The word “for” is substituted for the word “of” before the words “five years”. The words “of a State, a Territory, or” are substituted for the words “any State or Territory thereof or of”. The word “court-martial” is substituted for the word “courts-martial”.
+In subsection (a), the words “the provisions of” are omitted as surplusage. The words “no \* \* \* may” are substituted for the words “any \* \* \* shall not”. The word “for” is substituted for the word “of” before the words “five years”. The words “of a State, a Territory, or” are substituted for the words “any State or Territory thereof or of”. The word “court-martial” is substituted for the word “courts-martial”.
 
-In subsection (b), the words “Each person” are substituted for the words “All persons”. The words “who is later” are substituted for the word “subsequently”. The words “his discharge is” are substituted for the words “said discharge shall \* \* \* be”. The words “the provisions of” are omitted as surplusage. The word “is” is substituted for the words “shall \* \* \* be”. The words “he is” are substituted for the words “they shall be”. The word “before” is substituted for the words “prior to”.
+In subsection (b), the words “Each person” are substituted for the words “All persons”. The words “who is later” are substituted for the word “subsequently”. The words “his discharge is” are substituted for the words “said discharge shall \* \* \* be”. The words “the provisions of” are omitted as surplusage. The word “is” is substituted for the words “shall \* \* \* be”. The words “he is” are substituted for the words “they shall be”. The word “before” is substituted for the words “prior to”.
 
-In subsection (c), the words “No \* \* \* may” are substituted for the words “Any \* \* \* shall not”. The word “later” is substituted for the word “subsequent”.
+In subsection (c), the words “No \* \* \* may” are substituted for the words “Any \* \* \* shall not”. The word “later” is substituted for the word “subsequent”.
 
 **Editorial Notes**
 
@@ -1923,13 +1923,13 @@ Another section 1722(f) of Pub. L. 118–31 amended section 973 of this title.
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–484, div. A, title X, § 1067, Oct. 23, 1992, 106 Stat. 2506, provided that: “The amendments made by sections 1063, 1064, 1065, and 1066 [amending this section and sections 857, 863, 911, 918, and 920 of this title] shall take effect on the date of the enactment of this Act [Oct. 23, 1992] and shall apply with respect to offenses committed on or after that date.”
+Pub. L. 102–484, div. A, title X, § 1067, Oct. 23, 1992, 106 Stat. 2506, provided that: “The amendments made by sections 1063, 1064, 1065, and 1066 [amending this section and sections 857, 863, 911, 918, and 920 of this title] shall take effect on the date of the enactment of this Act [Oct. 23, 1992] and shall apply with respect to offenses committed on or after that date.”
 
 **Effective Date of 1986 Amendment**
 
 Amendment by Pub. L. 99–661 applicable to offenses committed on or after the earlier of (1) the last day of the 120-day period beginning on Nov. 14, 1986; or (2) the date specified in an Executive order, see sections 804(e) and 808 of Pub. L. 99–661, set out as notes under section 802 of this title.
 
-### § 804. Art. 4. Dismissed officer’s right to trial by court-martial
+### § 804. Art. 4. Dismissed officer’s right to trial by court-martial
 
 **(a)** If any commissioned officer, dismissed by order of the President, makes a written application for trial by court-martial, setting forth, under oath, that he has been wrongfully dismissed, the President, as soon as practicable, shall convene a general court-martial to try that officer on the charges on which he was dismissed. A court-martial so convened has jurisdiction to try the dismissed officer on those charges, and he shall be considered to have waived the right to plead any statute of limitations applicable to any offense with which he is charged. The court-martial may, as part of its sentence, adjudge the affirmance of the dismissal, but if the court-martial acquits the accused or if the sentence adjudged, as finally approved or affirmed, does not include dismissal or death, the Secretary concerned shall substitute for the dismissal ordered by the President a form of discharge authorized for administrative issue.
 
@@ -1945,7 +1945,7 @@ Amendment by Pub. L. 99–661 applicable to offenses committed on or after the e
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 804(a) 804(b) | 50:554(a). 50:554(b). | May 5, 1950, ch. 169, § 1 (Art. 4), 64 Stat. 110. |
+| 804(a) 804(b) | 50:554(a). 50:554(b). | May 5, 1950, ch. 169, § 1 (Art. 4), 64 Stat. 110. |
 | 804(c) | 50:554(c). |  |
 | 804(d) | 50:554(d). |  |
 
@@ -1963,7 +1963,7 @@ In subsection (d), the word “If” is substituted for the word “When”. The
 
 For delegation to Secretary of Homeland Security of certain authority vested in President by this section, see section 2 of Ex. Ord. No. 10637, Sept. 16, 1955, 20 F.R. 7025, as amended, set out as a note under section 301 of Title 3, The President.
 
-### § 805. Art. 5. Territorial applicability of this chapter
+### § 805. Art. 5. Territorial applicability of this chapter
 
 This chapter applies in all places.
 
@@ -1973,11 +1973,11 @@ This chapter applies in all places.
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 805 | 50:555. | May 5, 1950, ch. 169, § 1 (Art. 5), 64 Stat. 110. |
+| 805 | 50:555. | May 5, 1950, ch. 169, § 1 (Art. 5), 64 Stat. 110. |
 
 The word “applies” is substituted for the words “shall be applicable”.
 
-### § 806. Art. 6. Judge advocates and legal officers
+### § 806. Art. 6. Judge advocates and legal officers
 
 **(a)**
 
@@ -2021,13 +2021,13 @@ The word “applies” is substituted for the words “shall be applicable”.
 
 **(2)** The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations providing that reimbursement may be a condition of assistance by judge advocates assigned or detailed under section 973(b)(2)(B) of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 39; Pub. L. 90–179, § 1(3), Dec. 8, 1967, 81 Stat. 545; Pub. L. 90–632, § 2(2), Oct. 24, 1968, 82 Stat. 1335; Pub. L. 98–209, § 2(b), Dec. 6, 1983, 97 Stat. 1393; Pub. L. 99–661, div. A, title VIII, § 807(a), Nov. 14, 1986, 100 Stat. 3909; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–239, div. A, title V, § 531(d)(1), Jan. 2, 2013, 126 Stat. 1726; Pub. L. 114–328, div. E, title LI, § 5103, Dec. 23, 2016, 130 Stat. 2895; Pub. L. 119–60, div. A, title V, §§ 561(a), 562, Dec. 18, 2025, 139 Stat. 881, 882.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 39; Pub. L. 90–179, § 1(3), Dec. 8, 1967, 81 Stat. 545; Pub. L. 90–632, § 2(2), Oct. 24, 1968, 82 Stat. 1335; Pub. L. 98–209, § 2(b), Dec. 6, 1983, 97 Stat. 1393; Pub. L. 99–661, div. A, title VIII, § 807(a), Nov. 14, 1986, 100 Stat. 3909; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–239, div. A, title V, § 531(d)(1), Jan. 2, 2013, 126 Stat. 1726; Pub. L. 114–328, div. E, title LI, § 5103, Dec. 23, 2016, 130 Stat. 2895; Pub. L. 119–60, div. A, title V, §§ 561(a), 562, Dec. 18, 2025, 139 Stat. 881, 882.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 806(a) 806(b) | 50:556(a). 50:556(b). | May 5, 1950, ch. 169, § 1 (Art. 6), 64 Stat. 110. |
+| 806(a) 806(b) | 50:556(a). 50:556(b). | May 5, 1950, ch. 169, § 1 (Art. 6), 64 Stat. 110. |
 | 806(c) | 50:556(c). |  |
 
 In subsection (b), the word “entitled” is substituted for the word “authorized”.
@@ -2038,13 +2038,13 @@ In subsection (c), the words “may later” are substituted for the words “sh
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 561(a), added subsec. (a). Former subsec. (a) redesignated (b).
+2025—Subsec. (a). Pub. L. 119–60, § 561(a), added subsec. (a). Former subsec. (a) redesignated (b).
 
-Subsec. (b). Pub. L. 119–60, § 562, designated existing provisions as par. (1) and added par. (2).
+Subsec. (b). Pub. L. 119–60, § 562, designated existing provisions as par. (1) and added par. (2).
 
-Pub. L. 119–60, § 561(a), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
+Pub. L. 119–60, § 561(a), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
 
-Subsecs. (c) to (e). Pub. L. 119–60, § 561(a), redesignated subsecs. (b) to (d) as (c) to (e), respectively.
+Subsecs. (c) to (e). Pub. L. 119–60, § 561(a), redesignated subsecs. (b) to (d) as (c) to (e), respectively.
 
 2016—Subsec. (c). Pub. L. 114–328 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “No person who has acted as member, military judge, trial counsel, assistant trial counsel, defense counsel, assistant defense counsel, or investigating officer in any case may later act as a staff judge advocate or legal officer to any reviewing authority upon the same case.”
 
@@ -2072,7 +2072,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–661, div. A, title VIII, § 807(b), Nov. 14, 1986, 100 Stat. 3909, provided that:
+Pub. L. 99–661, div. A, title VIII, § 807(b), Nov. 14, 1986, 100 Stat. 3909, provided that:
 
 > “The amendment made by subsection (a) [amending this section]—
 
@@ -2088,13 +2088,13 @@ Amendment by Pub. L. 98–209 effective first day of eighth calendar month begin
 
 Amendment by Pub. L. 90–632 effective first day of tenth month following October 1968, see section 4 of Pub. L. 90–632, set out as a note under section 801 of this title.
 
-### § 806a. Art. 6a. Investigation and disposition of matters pertaining to the fitness of military judges
+### § 806a. Art. 6a. Investigation and disposition of matters pertaining to the fitness of military judges
 
 **(a)** The President shall prescribe procedures for the investigation and disposition of charges, allegations, or information pertaining to the fitness of a military appellate judge, military judge, or military magistrate to perform the duties of the position involved. To the extent practicable, the procedures shall be uniform for all armed forces.
 
 **(b)** The President shall transmit a copy of the procedures prescribed pursuant to this section to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
-(Added Pub. L. 101–189, div. A, title XIII, § 1303, Nov. 29, 1989, 103 Stat. 1576; amended Pub. L. 104–106, div. A, title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 114–328, div. E, title LI, § 5104, Dec. 23, 2016, 130 Stat. 2895.)
+(Added Pub. L. 101–189, div. A, title XIII, § 1303, Nov. 29, 1989, 103 Stat. 1576; amended Pub. L. 104–106, div. A, title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 114–328, div. E, title LI, § 5104, Dec. 23, 2016, 130 Stat. 2895.)
 
 **Editorial Notes**
 
@@ -2112,7 +2112,7 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 806b. Art. 6b. Rights of the victim of an offense under this chapter
+### § 806b. Art. 6b. Rights of the victim of an offense under this chapter
 
 **(a) Rights of a Victim of an Offense Under This Chapter.—** A victim of an offense under this chapter has the following rights:
 
@@ -2198,7 +2198,7 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **(2)** If requested by an alleged victim who is subject to a request for interview under paragraph (1), any interview of the victim by counsel for the accused shall take place only in the presence of the counsel for the Government, a counsel for the victim, or, if applicable, a victim advocate.
 
-(Added Pub. L. 113–66, div. A, title XVII, § 1701(a)(1), Dec. 26, 2013, 127 Stat. 952; amended Pub. L. 113–291, div. A, title V, §§ 531(f), 535, Dec. 19, 2014, 128 Stat. 3364, 3368; Pub. L. 114–92, div. A, title V, § 531, Nov. 25, 2015, 129 Stat. 814; Pub. L. 114–328, div. E, title LI, § 5105, title LVI, § 5203(e)(1), Dec. 23, 2016, 130 Stat. 2895, 2906; Pub. L. 115–91, div. A, title V, § 531(a), title X, § 1081(a)(22), (c)(1)(B), Dec. 12, 2017, 131 Stat. 1384, 1595, 1597; Pub. L. 116–283, div. A, title V, § 541, Jan. 1, 2021, 134 Stat. 3611; Pub. L. 117–81, div. A, title V, § 541, Dec. 27, 2021, 135 Stat. 1708.)
+(Added Pub. L. 113–66, div. A, title XVII, § 1701(a)(1), Dec. 26, 2013, 127 Stat. 952; amended Pub. L. 113–291, div. A, title V, §§ 531(f), 535, Dec. 19, 2014, 128 Stat. 3364, 3368; Pub. L. 114–92, div. A, title V, § 531, Nov. 25, 2015, 129 Stat. 814; Pub. L. 114–328, div. E, title LI, § 5105, title LVI, § 5203(e)(1), Dec. 23, 2016, 130 Stat. 2895, 2906; Pub. L. 115–91, div. A, title V, § 531(a), title X, § 1081(a)(22), (c)(1)(B), Dec. 12, 2017, 131 Stat. 1384, 1595, 1597; Pub. L. 116–283, div. A, title V, § 541, Jan. 1, 2021, 134 Stat. 3611; Pub. L. 117–81, div. A, title V, § 541, Dec. 27, 2021, 135 Stat. 1708.)
 
 **Editorial Notes**
 
@@ -2208,19 +2208,19 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 Subsec. (a)(8), (9). Pub. L. 117–81 added par. (8) and redesignated former par. (8) as (9).
 
-2017—Subsec. (b). Pub. L. 115–91, § 1081(c)(1)(B), which directed striking out “(the Uniform Code of Military Justice)” after “this chapter”, was not executed in light of the prior amendment by section 1081(a)(22) of Pub. L. 115–91, to reflect the probable intent of Congress. See Amendment note below and Effective Date of 2017 Amendment note below.
+2017—Subsec. (b). Pub. L. 115–91, § 1081(c)(1)(B), which directed striking out “(the Uniform Code of Military Justice)” after “this chapter”, was not executed in light of the prior amendment by section 1081(a)(22) of Pub. L. 115–91, to reflect the probable intent of Congress. See Amendment note below and Effective Date of 2017 Amendment note below.
 
-Pub. L. 115–91, § 1081(a)(22), struck out “(the Uniform Code of Military Justice)” after “this chapter”.
+Pub. L. 115–91, § 1081(a)(22), struck out “(the Uniform Code of Military Justice)” after “this chapter”.
 
-Subsec. (e)(3). Pub. L. 115–91, § 531(a), designated existing provisions as subpar. (A), substituted “prescribed by the President, subject to section 830a of this title (article 30a)” for “prescribed by the President, and, to the extent practicable, shall have priority over all other proceedings before the court”, and added subpars. (B) and (C).
+Subsec. (e)(3). Pub. L. 115–91, § 531(a), designated existing provisions as subpar. (A), substituted “prescribed by the President, subject to section 830a of this title (article 30a)” for “prescribed by the President, and, to the extent practicable, shall have priority over all other proceedings before the court”, and added subpars. (B) and (C).
 
-2016—Subsec. (a)(3). Pub. L. 114–328, § 5203(e)(1), substituted “preliminary hearing officer” for “investigating officer”.
+2016—Subsec. (a)(3). Pub. L. 114–328, § 5203(e)(1), substituted “preliminary hearing officer” for “investigating officer”.
 
-Subsec. (c). Pub. L. 114–328, § 5105(a), substituted “the legal guardians of the victim or the representatives of the victim’s estate, family members, or any other person designated as suitable by the military judge, may assume the rights of the victim under this section.” for “the military judge shall designate a representative of the estate of the victim, a family member, or another suitable individual to assume the victim’s rights under this section.”
+Subsec. (c). Pub. L. 114–328, § 5105(a), substituted “the legal guardians of the victim or the representatives of the victim’s estate, family members, or any other person designated as suitable by the military judge, may assume the rights of the victim under this section.” for “the military judge shall designate a representative of the estate of the victim, a family member, or another suitable individual to assume the victim’s rights under this section.”
 
-Subsec. (d)(3). Pub. L. 114–328, § 5105(b), added par. (3).
+Subsec. (d)(3). Pub. L. 114–328, § 5105(b), added par. (3).
 
-Subsec. (f). Pub. L. 114–328, § 5105(c), added subsec. (f).
+Subsec. (f). Pub. L. 114–328, § 5105(c), added subsec. (f).
 
 2015—Subsec. (e). Pub. L. 114–92 amended subsec. (e) generally. Prior to amendment, text read as follows:
 
@@ -2232,19 +2232,19 @@ Subsec. (f). Pub. L. 114–328, § 5105(c), added subsec. (f).
 
 “(B) Military Rule of Evidence 412, relating to the admission of evidence regarding a victim’s sexual background.”
 
-2014—Subsec. (b). Pub. L. 113–291, § 531(f)(1), substituted “an individual” for “a person”.
+2014—Subsec. (b). Pub. L. 113–291, § 531(f)(1), substituted “an individual” for “a person”.
 
-Subsec. (c). Pub. L. 113–291, § 531(f)(2), in heading, substituted “Appointment of Individuals to Assume Rights” for “Legal Guardian” and, in text, inserted “(but who is not a member of the armed forces)” after “under 18 years of age” and substituted “designate a representative” for “designate a legal guardian from among the representatives”, “another suitable individual” for “other suitable person”, and “the individual” for “the person”.
+Subsec. (c). Pub. L. 113–291, § 531(f)(2), in heading, substituted “Appointment of Individuals to Assume Rights” for “Legal Guardian” and, in text, inserted “(but who is not a member of the armed forces)” after “under 18 years of age” and substituted “designate a representative” for “designate a legal guardian from among the representatives”, “another suitable individual” for “other suitable person”, and “the individual” for “the person”.
 
-Subsec. (e). Pub. L. 113–291, § 535, added subsec. (e).
+Subsec. (e). Pub. L. 113–291, § 535, added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2017 Amendment**
 
-Amendment by section 531(a) of Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by section 531(a) of Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
-Amendment by section 1081(c)(1)(B) of Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by section 1081(c)(1)(B) of Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 **Effective Date of 2016 Amendment**
 
@@ -2252,11 +2252,11 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **Notice to Victims of Alleged Sex-Related and Domestic Violence-Related Offenses of Pendency of Further Administrative Action Following a Determination Not To Refer to Trial by Court-Martial**
 
-Pub. L. 116–92, div. A, title V, § 549, Dec. 20, 2019, 133 Stat. 1379, as amended by Pub. L. 117–81, div. A, title V, § 545, Dec. 27, 2021, 135 Stat. 1711; Pub. L. 118–159, div. A, title V, § 569C, Dec. 23, 2024, 138 Stat. 1907, provided that: “Notwithstanding section 552a of title 5, United States Code, and under regulations prescribed by the Secretary of Defense, upon a determination not to refer a case of an alleged sex-related offense (as defined in section 1044e(h) of title 10, United States Code), or a case of an alleged domestic violence-related offense (as defined by the Secretary), for trial by court-martial under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), the commander making such determination shall ensure that the victim (or the victim’s legal counsel if so requested by the victim) is periodically notified of the status of a final determination on further action on such case, whether non-judicial punishment under section 815 of such title (article 15 of the Uniform Code of Military Justice), other administrative action, or no further action. Such notifications shall continue not less frequently than monthly until such final determination. Upon such final determination, the commander shall ensure that the victim (or the victim’s legal counsel if so requested by the victim) is notified of the type of action taken on such case, the outcome of the action (including any punishments assigned or characterization of service, as applicable), and such other information as the commander determines to be relevant.”
+Pub. L. 116–92, div. A, title V, § 549, Dec. 20, 2019, 133 Stat. 1379, as amended by Pub. L. 117–81, div. A, title V, § 545, Dec. 27, 2021, 135 Stat. 1711; Pub. L. 118–159, div. A, title V, § 569C, Dec. 23, 2024, 138 Stat. 1907, provided that: “Notwithstanding section 552a of title 5, United States Code, and under regulations prescribed by the Secretary of Defense, upon a determination not to refer a case of an alleged sex-related offense (as defined in section 1044e(h) of title 10, United States Code), or a case of an alleged domestic violence-related offense (as defined by the Secretary), for trial by court-martial under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), the commander making such determination shall ensure that the victim (or the victim’s legal counsel if so requested by the victim) is periodically notified of the status of a final determination on further action on such case, whether non-judicial punishment under section 815 of such title (article 15 of the Uniform Code of Military Justice), other administrative action, or no further action. Such notifications shall continue not less frequently than monthly until such final determination. Upon such final determination, the commander shall ensure that the victim (or the victim’s legal counsel if so requested by the victim) is notified of the type of action taken on such case, the outcome of the action (including any punishments assigned or characterization of service, as applicable), and such other information as the commander determines to be relevant.”
 
 **Implementation**
 
-Pub. L. 113–66, div. A, title XVII, § 1701(b), Dec. 26, 2013, 127 Stat. 953, provided that:
+Pub. L. 113–66, div. A, title XVII, § 1701(b), Dec. 26, 2013, 127 Stat. 953, provided that:
 
 > **“(1) Issuance.—** Not later than one year after the date of the enactment of this Act [Dec. 26, 2013]—
 
@@ -2293,11 +2293,11 @@ Pub. L. 113–66, div. A, title XVII, § 1701(b), Dec. 26, 2013, 127 Stat. 953
 
 **Amendments**
 
-2017—Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, made technical amendment to Pub. L. 114–328, § 5541(1). See 2016 Amendment note below.
+2017—Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, made technical amendment to Pub. L. 114–328, § 5541(1). See 2016 Amendment note below.
 
-2016—Pub. L. 114–328, div. E, title LXIII, § 5541(1), Dec. 23, 2016, 130 Stat. 2965, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, substituted “Restraint of persons charged” for “Restraint of persons charged with offenses” in item 810 and “Prohibition of confinement of members of the armed forces with enemy prisoners and certain others” for “Confinement with enemy prisoners prohibited” in item 812.
+2016—Pub. L. 114–328, div. E, title LXIII, § 5541(1), Dec. 23, 2016, 130 Stat. 2965, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, substituted “Restraint of persons charged” for “Restraint of persons charged with offenses” in item 810 and “Prohibition of confinement of members of the armed forces with enemy prisoners and certain others” for “Confinement with enemy prisoners prohibited” in item 812.
 
-### § 807. Art. 7. Apprehension
+### § 807. Art. 7. Apprehension
 
 **(a)** Apprehension is the taking of a person into custody.
 
@@ -2311,26 +2311,26 @@ Pub. L. 113–66, div. A, title XVII, § 1701(b), Dec. 26, 2013, 127 Stat. 953
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 807(a) 807(b) | 50:561(a). 50:561(b). | May 5, 1950, ch. 169, § 1 (Art. 7), 64 Stat. 111. |
+| 807(a) 807(b) | 50:561(a). 50:561(b). | May 5, 1950, ch. 169, § 1 (Art. 7), 64 Stat. 111. |
 | 807(c) | 50:561(c). |  |
 
 In subsection (a), the words “into custody” and “of a person” are transposed.
 
 In subsection (c), the words “All” and “shall” are omitted as surplusage. The word “Commissioned” is inserted before the word “officers” for clarity. The word “therein” is substituted for the words “in the same”.
 
-### § 808. Art. 8. Apprehension of deserters
+### § 808. Art. 8. Apprehension of deserters
 
 Any civil officer having authority to apprehend offenders under the laws of the United States or of a State, Commonwealth, possession, or the District of Columbia may summarily apprehend a deserter from the armed forces and deliver him into the custody of those forces.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 40; Pub. L. 109–163, div. A, title X, § 1057(a)(4), Jan. 6, 2006, 119 Stat. 3440.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 40; Pub. L. 109–163, div. A, title X, § 1057(a)(4), Jan. 6, 2006, 119 Stat. 3440.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 808 | 50:562. | May 5, 1950, ch. 169, § 1 (Art. 8), 64 Stat. 111. |
+| 808 | 50:562. | May 5, 1950, ch. 169, § 1 (Art. 8), 64 Stat. 111. |
 
-The word “may” is substituted for the words “It shall be lawful for \* \* \* to”. The words “a State, Territory, Commonwealth, or possession, or the District of Columbia” are substituted for the words “any State, District, Territory, or possession of the United States”. The words “of the United States”, before the words “and deliver”, are omitted as surplusage. The words “those forces” are substituted for the words “the armed forces of the United States”, after the words “custody of”.
+The word “may” is substituted for the words “It shall be lawful for \* \* \* to”. The words “a State, Territory, Commonwealth, or possession, or the District of Columbia” are substituted for the words “any State, District, Territory, or possession of the United States”. The words “of the United States”, before the words “and deliver”, are omitted as surplusage. The words “those forces” are substituted for the words “the armed forces of the United States”, after the words “custody of”.
 
 **Editorial Notes**
 
@@ -2338,7 +2338,7 @@ The word “may” is substituted for the words “It shall be lawful for \* \
 
 2006—Pub. L. 109–163 substituted “Commonwealth, possession,” for “Territory, Commonwealth, or possession,”.
 
-### § 809. Art. 9. Imposition of restraint
+### § 809. Art. 9. Imposition of restraint
 
 **(a)** Arrest is the restraint of a person by an order, not imposed as a punishment for an offense, directing him to remain within certain specified limits. Confinement is the physical restraint of a person.
 
@@ -2356,7 +2356,7 @@ The word “may” is substituted for the words “It shall be lawful for \* \
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 809(a) 809(b) | 50:563(a). 50:563(b). | May 5, 1950, ch. 169, § 1 (Art. 9), 64 Stat. 111. |
+| 809(a) 809(b) | 50:563(a). 50:563(b). | May 5, 1950, ch. 169, § 1 (Art. 9), 64 Stat. 111. |
 | 809(c) | 50:563(c). |  |
 | 809(d) | 50:563(d). |  |
 | 809(e) | 50:563(e). |  |
@@ -2369,7 +2369,7 @@ In subsection (d), the word “may” is substituted for the word “shall”.
 
 In subsection (e), the word “limits” is substituted for the words “shall be construed to limit”.
 
-### § 810. Art. 10. Restraint of persons charged
+### § 810. Art. 10. Restraint of persons charged
 
 **(a) In General.—**
 
@@ -2387,13 +2387,13 @@ In subsection (e), the word “limits” is substituted for the words “shall b
 
 **(2)** To facilitate compliance with paragraph (1), the President shall prescribe regulations setting forth procedures relating to referral for trial, including procedures for prompt forwarding of the charges and specifications and, if applicable, the preliminary hearing report submitted under section 832 of this title (article 32).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 40; Pub. L. 114–328, div. E, title LII, § 5121, Dec. 23, 2016, 130 Stat. 2896.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 40; Pub. L. 114–328, div. E, title LII, § 5121, Dec. 23, 2016, 130 Stat. 2896.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 810 | 50:564. | May 5, 1950, ch. 169, § 1 (Art. 10), 64 Stat. 111. |
+| 810 | 50:564. | May 5, 1950, ch. 169, § 1 (Art. 10), 64 Stat. 111. |
 
 The word “he” is substituted for the words “such person”.
 
@@ -2409,7 +2409,7 @@ The word “he” is substituted for the words “such person”.
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 811. Art. 11. Reports and receiving of prisoners
+### § 811. Art. 11. Reports and receiving of prisoners
 
 **(a)** No provost marshal, commander of a guard, or master at arms may refuse to receive or keep any prisoner committed to his charge by a commissioned officer of the armed forces, when the committing officer furnishes a statement, signed by him, of the offense charged against the prisoner.
 
@@ -2421,11 +2421,11 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 811(a) 811(b) | 50:565(a). 50:565(b). | May 5, 1950, ch. 169, § 1 (Art. 11), 64 Stat. 112. |
+| 811(a) 811(b) | 50:565(a). 50:565(b). | May 5, 1950, ch. 169, § 1 (Art. 11), 64 Stat. 112. |
 
 In subsection (a), the word “may” is substituted for the word “shall”. The words “a commissioned” are substituted for the word “an” for clarity.
 
-### § 812. Art. 12. Prohibition of confinement of members of the armed forces with enemy prisoners and certain others
+### § 812. Art. 12. Prohibition of confinement of members of the armed forces with enemy prisoners and certain others
 
 No member of the armed forces may be placed in confinement in immediate association with—
 
@@ -2437,13 +2437,13 @@ No member of the armed forces may be placed in confinement in immediate associat
 
 **(B)** who are not members of the armed forces.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 41; Pub. L. 114–328, div. E, title LII, § 5122, Dec. 23, 2016, 130 Stat. 2896.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 41; Pub. L. 114–328, div. E, title LII, § 5122, Dec. 23, 2016, 130 Stat. 2896.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 812 | 50:566. | May 5, 1950, ch. 169, § 1 (Art. 12), 64 Stat. 112. |
+| 812 | 50:566. | May 5, 1950, ch. 169, § 1 (Art. 12), 64 Stat. 112. |
 
 The words “of the United States” are omitted as surplusage. The word “may” is substituted for the word “shall”.
 
@@ -2459,17 +2459,17 @@ The words “of the United States” are omitted as surplusage. The word “may�
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 813. Art. 13. Punishment prohibited before trial
+### § 813. Art. 13. Punishment prohibited before trial
 
 No person, while being held for trial, may be subjected to punishment or penalty other than arrest or confinement upon the charges pending against him, nor shall the arrest or confinement imposed upon him be any more rigorous than the circumstances require to insure his presence, but he may be subjected to minor punishment during that period for infractions of discipline.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 41; Pub. L. 97–81, § 3, Nov. 20, 1981, 95 Stat. 1087.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 41; Pub. L. 97–81, § 3, Nov. 20, 1981, 95 Stat. 1087.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 813 | 50:567. | May 5, 1950, ch. 169, § 1 (Art. 13), 64 Stat. 112. |
+| 813 | 50:567. | May 5, 1950, ch. 169, § 1 (Art. 13), 64 Stat. 112. |
 
 The words “the provisions of” are omitted as surplusage. The word “results” is changed to the singular. The word “may” is substituted for the word “shall”.
 
@@ -2485,7 +2485,7 @@ The words “the provisions of” are omitted as surplusage. The word “results
 
 Amendment by Pub. L. 97–81 to take effect at the end of the 60-day period beginning on Nov. 20, 1981, and to apply to each person held as the result of a court-martial sentence announced on or after that date, see section 7(a) and (b)(2) of Pub. L. 97–81, set out as an Effective Date note under section 706 of this title.
 
-### § 814. Art. 14. Delivery of offenders to civil authorities
+### § 814. Art. 14. Delivery of offenders to civil authorities
 
 **(a)** Under such regulations as the Secretary concerned may prescribe, a member of the armed forces accused of an offense against civil authority may be delivered, upon request, to the civil authority for trial.
 
@@ -2497,7 +2497,7 @@ Amendment by Pub. L. 97–81 to take effect at the end of the 60-day period begi
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 814(a) 814(b) | 50:568(a). 50:568(b). | May 5, 1950, ch. 169, § 1 (Art. 14), 64 Stat. 112. |
+| 814(a) 814(b) | 50:568(a). 50:568(b). | May 5, 1950, ch. 169, § 1 (Art. 14), 64 Stat. 112. |
 
 In subsection (a), the words “Secretary concerned” are substituted for the words “Secretary of the Department”.
 
@@ -2507,7 +2507,7 @@ In subsection (b), the word “interrupts” is substituted for the words “sha
 
 **Regulations for Delivery of Military Personnel to Civil Authorities When Charged With Certain Offenses**
 
-Pub. L. 100–456, div. A, title VII, § 721, Sept. 29, 1988, 102 Stat. 2001, directed the Secretary of Defense to ensure that the Secretaries of the military departments had issued uniform regulations pursuant to this section not later than 90 days after Sept. 29, 1988, and to transmit to committees of Congress a copy of such regulations and any recommendations for additional legislation not later than 120 days after Sept. 29, 1988.
+Pub. L. 100–456, div. A, title VII, § 721, Sept. 29, 1988, 102 Stat. 2001, directed the Secretary of Defense to ensure that the Secretaries of the military departments had issued uniform regulations pursuant to this section not later than 90 days after Sept. 29, 1988, and to transmit to committees of Congress a copy of such regulations and any recommendations for additional legislation not later than 120 days after Sept. 29, 1988.
 
 ## SUBCHAPTER III—NON-JUDICIAL PUNISHMENT
 
@@ -2515,7 +2515,7 @@ Pub. L. 100–456, div. A, title VII, § 721, Sept. 29, 1988, 102 Stat. 2001, 
 |---|---|---|
 | 815. | 15. | Commanding officer’s non-judicial punishment. |
 
-### § 815. Art. 15. Commanding officer’s non-judicial punishment
+### § 815. Art. 15. Commanding officer’s non-judicial punishment
 
 **(a)** Under such regulations as the President may prescribe, and under such additional regulations as may be prescribed by the Secretary concerned, limitations may be placed on the powers granted by this article with respect to the kind and amount of punishment authorized, the categories of commanding officers and warrant officers exercising command authorized to exercise those powers, the applicability of this article to an accused who demands trial by court-martial, and the kinds of courts-martial to which the case may be referred upon such a demand. However, except in the case of a member attached to or embarked in a vessel, punishment may not be imposed upon any member of the armed forces under this article if the member has, before the imposition of such punishment, demanded trial by court-martial in lieu of such punishment. Under similar regulations, rules may be prescribed with respect to the suspension of punishments authorized hereunder. If authorized by regulations of the Secretary concerned, a commanding officer exercising general court-martial jurisdiction or an officer of general or flag rank in command may delegate his powers under this article to a principal assistant.
 
@@ -2605,13 +2605,13 @@ the authority who is to act on the appeal shall refer the case to a judge advoca
 
 **(g)** The Secretary concerned may, by regulation, prescribe the form of records to be kept of proceedings under this article and may also prescribe that certain categories of those proceedings shall be in writing.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 41; Pub. L. 87–648, § 1, Sept. 7, 1962, 76 Stat. 447; Pub. L. 90–179, § 1(4), Dec. 8, 1967, 81 Stat. 545; Pub. L. 90–623, § 2(4), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 98–209, §§ 2(c), 13(b), Dec. 6, 1983, 97 Stat. 1393, 1408; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 114–328, div. E, title LIII, § 5141, Dec. 23, 2016, 130 Stat. 2897.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 41; Pub. L. 87–648, § 1, Sept. 7, 1962, 76 Stat. 447; Pub. L. 90–179, § 1(4), Dec. 8, 1967, 81 Stat. 545; Pub. L. 90–623, § 2(4), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 98–209, §§ 2(c), 13(b), Dec. 6, 1983, 97 Stat. 1393, 1408; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 114–328, div. E, title LIII, § 5141, Dec. 23, 2016, 130 Stat. 2897.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 815(a) 815(b) | 50:571(a). 50:571(b). | May 5, 1950, ch. 169, § 1 (Art. 15), 64 Stat. 112. |
+| 815(a) 815(b) | 50:571(a). 50:571(b). | May 5, 1950, ch. 169, § 1 (Art. 15), 64 Stat. 112. |
 | 815(c) | 50:571(c). |  |
 | 815(d) | 50:571(d). |  |
 | 815(e) | 50:571(e). |  |
@@ -2628,7 +2628,7 @@ In subsection (c), the word “subsections” is substituted for the word “sub
 
 In subsections (d) and (e), the words “authority of” are omitted as surplusage.
 
-In subsection (d), the word “considers” is substituted for the word “deems”. The word “may” is substituted for the words “shall have power to \* \* \* to”.
+In subsection (d), the word “considers” is substituted for the word “deems”. The word “may” is substituted for the words “shall have power to \* \* \* to”.
 
 In subsection (e), the words “is not” are substituted for the words “shall not be”.
 
@@ -2636,21 +2636,21 @@ In subsection (e), the words “is not” are substituted for the words “shall
 
 **Amendments**
 
-2016—Subsec. (b)(2). Pub. L. 114–328, § 5141(1)(B), struck out “on bread and water or diminished rations” after “in quarters, confinement” in concluding provisions.
+2016—Subsec. (b)(2). Pub. L. 114–328, § 5141(1)(B), struck out “on bread and water or diminished rations” after “in quarters, confinement” in concluding provisions.
 
-Subsec. (b)(2)(A). Pub. L. 114–328, § 5141(1)(A), struck out “on bread and water or diminished rations” after “confinement”.
+Subsec. (b)(2)(A). Pub. L. 114–328, § 5141(1)(A), struck out “on bread and water or diminished rations” after “confinement”.
 
-Subsec. (d)(2), (3). Pub. L. 114–328, § 5141(2), struck out “on bread and water or diminished rations” after “confinement”.
+Subsec. (d)(2), (3). Pub. L. 114–328, § 5141(2), struck out “on bread and water or diminished rations” after “confinement”.
 
 2002—Subsec. (e). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” in concluding provisions.
 
-1983—Pub. L. 98–209, § 13(b)(1), substituted “non-judicial” for “nonjudicial” in section catchline.
+1983—Pub. L. 98–209, § 13(b)(1), substituted “non-judicial” for “nonjudicial” in section catchline.
 
-Subsec. (b). Pub. L. 98–209, § 13(b)(2)(A), struck out “of this section” after “subsection (a)” in provisions preceding par. (1).
+Subsec. (b). Pub. L. 98–209, § 13(b)(2)(A), struck out “of this section” after “subsection (a)” in provisions preceding par. (1).
 
-Subsec. (b)(2)(H)(i). Pub. L. 98–209, § 13(b)(2)(B), substituted “clause (A)” for “subsection (b)(2)(A)”.
+Subsec. (b)(2)(H)(i). Pub. L. 98–209, § 13(b)(2)(B), substituted “clause (A)” for “subsection (b)(2)(A)”.
 
-Subsec. (e). Pub. L. 98–209, § 2(c), substituted “or a lawyer of the” for “of the Army, Navy, Air Force, or Marine Corps, or a law specialist or lawyer of the Coast Guard or”.
+Subsec. (e). Pub. L. 98–209, § 2(c), substituted “or a lawyer of the” for “of the Army, Navy, Air Force, or Marine Corps, or a law specialist or lawyer of the Coast Guard or”.
 
 1968—Subsec. (e). Pub. L. 90–623 substituted “or a law specialist or lawyer of the Coast Guard or Department of Transportation” for “or a law specialist or lawyer of the Marine Corps, Coast Guard, or Treasury Department”.
 
@@ -2686,7 +2686,7 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 **Effective Date of 1962 Amendment**
 
-Pub. L. 87–648, § 2, Sept. 7, 1962, 76 Stat. 450, provided that: “This Act [amending this section] becomes effective on the first day of the fifth month following the month in which it is enacted [September 1962].”
+Pub. L. 87–648, § 2, Sept. 7, 1962, 76 Stat. 450, provided that: “This Act [amending this section] becomes effective on the first day of the fifth month following the month in which it is enacted [September 1962].”
 
 ## SUBCHAPTER IV—COURT-MARTIAL JURISDICTION
 
@@ -2699,7 +2699,7 @@ Pub. L. 87–648, § 2, Sept. 7, 1962, 76 Stat. 450, provided that: “This Ac
 | 820. | 20. | Jurisdiction of summary courts-martial. |
 | 821. | 21. | Jurisdiction of courts-martial not exclusive. |
 
-### § 816. Art. 16. Courts-martial classified
+### § 816. Art. 16. Courts-martial classified
 
 **(a) In General.—** The three kinds of courts-martial in each of the armed forces are the following:
 
@@ -2729,13 +2729,13 @@ Pub. L. 87–648, § 2, Sept. 7, 1962, 76 Stat. 450, provided that: “This Ac
 
 **(d) Summary Court-martial.—** A summary court-martial consists of one commissioned officer.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 42; Pub. L. 90–632, § 2(3), Oct. 24, 1968, 82 Stat. 1335; Pub. L. 98–209, § 3(a), Dec. 6, 1983, 97 Stat. 1394; Pub. L. 107–107, div. A, title V, § 582(a), Dec. 28, 2001, 115 Stat. 1124; Pub. L. 114–328, div. E, title LIV, § 5161, Dec. 23, 2016, 130 Stat. 2897; Pub. L. 115–91, div. A, title X, § 1081(c)(1)(C), Dec. 12, 2017, 131 Stat. 1597; Pub. L. 118–31, div. A, title V, § 531(b)(1), Dec. 22, 2023, 137 Stat. 258.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 42; Pub. L. 90–632, § 2(3), Oct. 24, 1968, 82 Stat. 1335; Pub. L. 98–209, § 3(a), Dec. 6, 1983, 97 Stat. 1394; Pub. L. 107–107, div. A, title V, § 582(a), Dec. 28, 2001, 115 Stat. 1124; Pub. L. 114–328, div. E, title LIV, § 5161, Dec. 23, 2016, 130 Stat. 2897; Pub. L. 115–91, div. A, title X, § 1081(c)(1)(C), Dec. 12, 2017, 131 Stat. 1597; Pub. L. 118–31, div. A, title V, § 531(b)(1), Dec. 22, 2023, 137 Stat. 258.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 816 | 50:576. | May 5, 1950, ch. 169, § 1 (Art. 16), 64 Stat. 113. |
+| 816 | 50:576. | May 5, 1950, ch. 169, § 1 (Art. 16), 64 Stat. 113. |
 
 The word “The” is substituted for the words “There shall be”. The word “are” is substituted for the word “namely”. The words “not less than five members” are substituted for the words “any number of members not less than five”. The words “not less than three members” are substituted for the words “any number of members not less than three”. The word “commissioned” is inserted before the word “officer” in clause (3) for clarity.
 
@@ -2759,11 +2759,11 @@ The word “The” is substituted for the words “There shall be”. The word �
 
 **Effective Date of 2023 Amendment**
 
-Pub. L. 118–31, div. A, title V, § 531(e), Dec. 22, 2023, 137 Stat. 260, provided that: “The amendments made by subsection (b) and subsection (c)(1) [amending this section and sections 824a and 825 of this title] shall take effect immediately after the coming into effect of the amendments made by part 1 of subtitle D of title V of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81) as provided in section 539C of that Act (10 U.S.C. 801 note).”
+Pub. L. 118–31, div. A, title V, § 531(e), Dec. 22, 2023, 137 Stat. 260, provided that: “The amendments made by subsection (b) and subsection (c)(1) [amending this section and sections 824a and 825 of this title] shall take effect immediately after the coming into effect of the amendments made by part 1 of subtitle D of title V of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81) as provided in section 539C of that Act (10 U.S.C. 801 note).”
 
 **Effective Date of 2017 Amendment**
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 **Effective Date of 2016 Amendment**
 
@@ -2771,7 +2771,7 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–107, div. A, title V, § 582(d), Dec. 28, 2001, 115 Stat. 1125, provided that: “The amendments made by this section [enacting section 825a of this title and amending this section and section 829 of this title] shall apply with respect to offenses committed after December 31, 2002.”
+Pub. L. 107–107, div. A, title V, § 582(d), Dec. 28, 2001, 115 Stat. 1125, provided that: “The amendments made by this section [enacting section 825a of this title and amending this section and section 829 of this title] shall apply with respect to offenses committed after December 31, 2002.”
 
 **Effective Date of 1983 Amendment**
 
@@ -2781,7 +2781,7 @@ Amendment by Pub. L. 98–209 effective first day of eighth calendar month begin
 
 Amendment by Pub. L. 90–632 effective first day of tenth month following October 1968, see section 4 of Pub. L. 90–632, set out as a note under section 801 of this title.
 
-### § 817. Art. 17. Jurisdiction of courts-martial in general
+### § 817. Art. 17. Jurisdiction of courts-martial in general
 
 **(a)** Each armed force has court-martial jurisdiction over all persons subject to this chapter. The exercise of jurisdiction by one armed force over personnel of another armed force shall be in accordance with regulations prescribed by the President.
 
@@ -2793,13 +2793,13 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 817(a) 817(b) | 50:577(a). 50:577(b). | May 5, 1950, ch. 169, § 1 (Art. 17), 64 Stat. 114. |
+| 817(a) 817(b) | 50:577(a). 50:577(b). | May 5, 1950, ch. 169, § 1 (Art. 17), 64 Stat. 114. |
 
 In subsection (a), the word “has” is substituted for the words “shall have”.
 
 In subsection (b), the word “after” is substituted for the words “subsequent to”. The words “the provisions of” are omitted as surplusage. The words “department that includes the” are inserted before the words “armed force”, since the review is carried out by the department and not by the armed force.
 
-### § 818. Art. 18. Jurisdiction of general courts-martial
+### § 818. Art. 18. Jurisdiction of general courts-martial
 
 **(a)** Subject to section 817 of this title (article 17), general courts-martial have jurisdiction to try persons subject to this chapter for any offense made punishable by this chapter and may, under such limitations as the President may prescribe, adjudge any punishment not forbidden by this chapter, including the penalty of death when specifically authorized by this chapter. General courts-martial also have jurisdiction to try any person who by the law of war is subject to trial by a military tribunal and may adjudge any punishment permitted by the law of war.
 
@@ -2813,13 +2813,13 @@ In subsection (b), the word “after” is substituted for the words “subseque
 
 **(3)** An attempt to commit an offense specified in paragraph (1) or (2) that is punishable under section 880 of this title (article 80).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 43; Pub. L. 90–632, § 2(4), Oct. 24, 1968, 82 Stat. 1335; Pub. L. 113–66, div. A, title XVII, § 1705(b), Dec. 26, 2013, 127 Stat. 959; Pub. L. 114–328, div. E, title LIV, § 5162, Dec. 23, 2016, 130 Stat. 2898.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 43; Pub. L. 90–632, § 2(4), Oct. 24, 1968, 82 Stat. 1335; Pub. L. 113–66, div. A, title XVII, § 1705(b), Dec. 26, 2013, 127 Stat. 959; Pub. L. 114–328, div. E, title LIV, § 5162, Dec. 23, 2016, 130 Stat. 2898.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 818 | 50:578. | May 5, 1950, ch. 169, § 1 (Art. 18), 64 Stat. 114. |
+| 818 | 50:578. | May 5, 1950, ch. 169, § 1 (Art. 18), 64 Stat. 114. |
 
 The word “shall” is omitted as surplusage wherever it occurs.
 
@@ -2827,9 +2827,9 @@ The word “shall” is omitted as surplusage wherever it occurs.
 
 **Amendments**
 
-2016—Subsec. (b). Pub. L. 114–328, § 5162(1), substituted “section 816(b)(3) of this title (article 16(b)(3))” for “section 816(1)(B) of this title (article 16(1)(B))”.
+2016—Subsec. (b). Pub. L. 114–328, § 5162(1), substituted “section 816(b)(3) of this title (article 16(b)(3))” for “section 816(1)(B) of this title (article 16(1)(B))”.
 
-Subsec. (c). Pub. L. 114–328, § 5162(2), added subsec. (c) and struck out former subsec. (c) which read as follows: “Consistent with sections 819, 820, and 856(b) of this title (articles 19, 20, and 56(b)), only general courts-martial have jurisdiction over an offense specified in section 856(b)(2) of this title (article 56(b)(2)).”
+Subsec. (c). Pub. L. 114–328, § 5162(2), added subsec. (c) and struck out former subsec. (c) which read as follows: “Consistent with sections 819, 820, and 856(b) of this title (articles 19, 20, and 56(b)), only general courts-martial have jurisdiction over an offense specified in section 856(b)(2) of this title (article 56(b)(2)).”
 
 2013—Pub. L. 113–66 designated the first two sentences as subsec. (a), designated third sentence as subsec. (b) and substituted “A general court-martial” for “However, a general court-martial”, and added subsec. (c).
 
@@ -2843,13 +2843,13 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 113–66, div. A, title XVII, § 1705(c), Dec. 26, 2013, 127 Stat. 960, provided that: “The amendments made by this section [amending this section and section 856 of this title] shall take effect 180 days after the date of the enactment of this Act [Dec. 26, 2013], and apply to offenses specified in section 856(b)(2) of title 10, United States Code (article 56(b)(2) of the Uniform Code of Military Justice), as added by subsection (a)(1), committed on or after that date.”
+Pub. L. 113–66, div. A, title XVII, § 1705(c), Dec. 26, 2013, 127 Stat. 960, provided that: “The amendments made by this section [amending this section and section 856 of this title] shall take effect 180 days after the date of the enactment of this Act [Dec. 26, 2013], and apply to offenses specified in section 856(b)(2) of title 10, United States Code (article 56(b)(2) of the Uniform Code of Military Justice), as added by subsection (a)(1), committed on or after that date.”
 
 **Effective Date of 1968 Amendment**
 
 Amendment by Pub. L. 90–632 effective first day of tenth month following October 1968, see section 4 of Pub. L. 90–632, set out as a note under section 801 of this title.
 
-### § 819. Art. 19. Jurisdiction of special courts-martial
+### § 819. Art. 19. Jurisdiction of special courts-martial
 
 **(a) In General.—** Subject to section 817 of this title (article 17), special courts-martial have jurisdiction to try persons subject to this chapter for any noncapital offense made punishable by this chapter and, under such regulations as the President may prescribe, for capital offenses. Special courts-martial may, under such limitations as the President may prescribe, adjudge any punishment not forbidden by this chapter except death, dishonorable discharge, dismissal, confinement for more than one year, hard labor without confinement for more than three months, forfeiture of pay exceeding two-thirds pay per month, or forfeiture of pay for more than one year.
 
@@ -2857,13 +2857,13 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 **(c) Military Magistrate.—** If charges and specifications are referred to a special court-martial consisting of a military judge alone under section 816(c)(2)(A) of this title (article 16(c)(2)(A)), the military judge, with the consent of the parties, may designate a military magistrate to preside over the special court-martial.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 43; Pub. L. 90–632, § 2(5), Oct. 24, 1968, 82 Stat. 1335; Pub. L. 106–65, div. A, title V, § 577(a), Oct. 5, 1999, 113 Stat. 625; Pub. L. 107–107, div. A, title X, § 1048(g)(4), Dec. 28, 2001, 115 Stat. 1228; Pub. L. 114–328, div. E, title LIV, § 5163, Dec. 23, 2016, 130 Stat. 2898.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 43; Pub. L. 90–632, § 2(5), Oct. 24, 1968, 82 Stat. 1335; Pub. L. 106–65, div. A, title V, § 577(a), Oct. 5, 1999, 113 Stat. 625; Pub. L. 107–107, div. A, title X, § 1048(g)(4), Dec. 28, 2001, 115 Stat. 1228; Pub. L. 114–328, div. E, title LIV, § 5163, Dec. 23, 2016, 130 Stat. 2898.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 819 | 50:579. | May 5, 1950, ch. 169, § 1 (Art. 19), 64 Stat. 114. |
+| 819 | 50:579. | May 5, 1950, ch. 169, § 1 (Art. 19), 64 Stat. 114. |
 
 The word “shall” in the first sentence is omitted as surplusage. The words “for more than” are substituted for the words “in excess of”. The words “more than” are substituted for the words “a period exceeding”. The word “may” is substituted for the word “shall” in the last sentence.
 
@@ -2873,11 +2873,11 @@ The word “shall” in the first sentence is omitted as surplusage. The words �
 
 2016—Pub. L. 114–328 designated existing provisions as subsec. (a) and inserted heading, struck out “A bad-conduct discharge, confinement for more than six months, or forfeiture of pay for more than six months may not be adjudged unless a complete record of the proceedings and testimony has been made, counsel having the qualifications prescribed under section 827(b) of this title (article 27(b)) was detailed to represent the accused, and a military judge was detailed to the trial, except in any case in which a military judge could not be detailed to the trial because of physical conditions or military exigencies. In any such case in which a military judge was not detailed to the trial, the convening authority shall make a detailed written statement, to be appended to the record, stating the reason or reasons a military judge could not be detailed.” after “one year.”, and added subsecs. (b) and (c).
 
-2001—Pub. L. 107–107, § 1048(g)(4), amended directory language of Pub. L. 106–65, § 577(a)(2). See 1999 Amendment note below.
+2001—Pub. L. 107–107, § 1048(g)(4), amended directory language of Pub. L. 106–65, § 577(a)(2). See 1999 Amendment note below.
 
-1999—Pub. L. 106–65, § 577(a)(2), as amended by Pub. L. 107–107, § 1048(g)(4), inserted “, confinement for more than six months, or forfeiture of pay for more than six months” after “A bad-conduct discharge” in third sentence.
+1999—Pub. L. 106–65, § 577(a)(2), as amended by Pub. L. 107–107, § 1048(g)(4), inserted “, confinement for more than six months, or forfeiture of pay for more than six months” after “A bad-conduct discharge” in third sentence.
 
-Pub. L. 106–65, § 577(a)(1), substituted “one year” for “six months” in two places in second sentence.
+Pub. L. 106–65, § 577(a)(1), substituted “one year” for “six months” in two places in second sentence.
 
 1968—Pub. L. 90–632 provided that before a bad-conduct discharge may be adjudged by a special court-martial the accused must be detailed counsel who is legally qualified under the Code and a military judge must be detailed to the trial, with a detailed written statement appended to the record if a military judge was not detailed to the trial, because of physical conditions and military exigencies, stating the reasons that a military judge could not be so detailed.
 
@@ -2889,29 +2889,29 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–107, div. A, title X, § 1048(g), Dec. 28, 2001, 115 Stat. 1228, provided that the amendment made by section 1048(g)(4) is effective as of Oct. 5, 1999, and as if included in Pub. L. 106–65 as enacted.
+Pub. L. 107–107, div. A, title X, § 1048(g), Dec. 28, 2001, 115 Stat. 1228, provided that the amendment made by section 1048(g)(4) is effective as of Oct. 5, 1999, and as if included in Pub. L. 106–65 as enacted.
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–65, div. A, title V, § 577(b), Oct. 5, 1999, 113 Stat. 625, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the first day of the sixth month beginning after the date of the enactment of this Act [Oct. 5, 1999] and shall apply with respect to charges referred on or after that effective date to trial by special courts-martial.”
+Pub. L. 106–65, div. A, title V, § 577(b), Oct. 5, 1999, 113 Stat. 625, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the first day of the sixth month beginning after the date of the enactment of this Act [Oct. 5, 1999] and shall apply with respect to charges referred on or after that effective date to trial by special courts-martial.”
 
 **Effective Date of 1968 Amendment**
 
 Amendment by Pub. L. 90–632 effective first day of tenth month following October 1968, see section 4 of Pub. L. 90–632, set out as a note under section 801 of this title.
 
-### § 820. Art. 20. Jurisdiction of summary courts-martial
+### § 820. Art. 20. Jurisdiction of summary courts-martial
 
 **(a) In General.—** Subject to section 817 of this title (article 17), summary courts-martial have jurisdiction to try persons subject to this chapter, except officers, cadets, aviation cadets, and midshipmen, for any noncapital offense made punishable by this chapter. No person with respect to whom summary courts-martial have jurisdiction may be brought to trial before a summary court-martial if he objects thereto. If objection to trial by summary court-martial is made by an accused, trial may be ordered by special or general court-martial as may be appropriate. Summary courts-martial may, under such limitations as the President may prescribe, adjudge any punishment not forbidden by this chapter except death, dismissal, dishonorable or bad-conduct discharge, confinement for more than one month, hard-labor without confinement for more than 45 days, restriction to specified limits for more than two months, or forfeiture of more than two-thirds of one month’s pay.
 
 **(b) Non-criminal Forum.—** A summary court-martial is a non-criminal forum. A finding of guilty at a summary court-martial does not constitute a criminal conviction.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 43; Pub. L. 90–632, § 2(6), Oct. 24, 1968, 82 Stat. 1336; Pub. L. 114–328, div. E, title LIV, § 5164, Dec. 23, 2016, 130 Stat. 2899.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 43; Pub. L. 90–632, § 2(6), Oct. 24, 1968, 82 Stat. 1336; Pub. L. 114–328, div. E, title LIV, § 5164, Dec. 23, 2016, 130 Stat. 2899.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 820 | 50:580. | May 5, 1950, ch. 169, § 1 (Art. 20), 64 Stat. 114. |
+| 820 | 50:580. | May 5, 1950, ch. 169, § 1 (Art. 20), 64 Stat. 114. |
 
 The word “shall” in the first sentence is omitted as surplusage. The word “may” is substituted for the word “shall” in the second sentence. The words “the provisions of” are omitted as surplusage. The word “If” is substituted for the word “Where”. The words “for more than” are substituted for the words “in excess of”. The words “more than” are substituted for the words “pay in excess of”.
 
@@ -2933,17 +2933,17 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 Amendment by Pub. L. 90–632 effective first day of tenth month following October 1968, see section 4 of Pub. L. 90–632, set out as a note under section 801 of this title.
 
-### § 821. Art. 21. Jurisdiction of courts-martial not exclusive
+### § 821. Art. 21. Jurisdiction of courts-martial not exclusive
 
 The provisions of this chapter conferring jurisdiction upon courts-martial do not deprive military commissions, provost courts, or other military tribunals of concurrent jurisdiction with respect to offenders or offenses that by statute or by the law of war may be tried by military commissions, provost courts, or other military tribunals. This section does not apply to a military commission established under chapter 47A of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 44; Pub. L. 109–366, § 4(a)(2), Oct. 17, 2006, 120 Stat. 2631.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 44; Pub. L. 109–366, § 4(a)(2), Oct. 17, 2006, 120 Stat. 2631.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 821 | 50:581. | May 5, 1950, ch. 169, § 1 (Art. 21), 64 Stat. 115. |
+| 821 | 50:581. | May 5, 1950, ch. 169, § 1 (Art. 21), 64 Stat. 115. |
 
 The words “do not deprive” are substituted for the words “shall not be construed as depriving”. The words “with respect to” are substituted for the words “in respect of”.
 
@@ -2973,17 +2973,17 @@ The words “do not deprive” are substituted for the words “shall not be con
 
 **Amendments**
 
-2021—Pub. L. 117–81, div. A, title V, § 531(b), Dec. 27, 2021, 135 Stat. 1693, added item 824a.
+2021—Pub. L. 117–81, div. A, title V, § 531(b), Dec. 27, 2021, 135 Stat. 1693, added item 824a.
 
-2017—Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), (B), Dec. 12, 2017, 131 Stat. 1601, amended Pub. L. 114–328, § 5541(2). See 2016 Amendment note below.
+2017—Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), (B), Dec. 12, 2017, 131 Stat. 1601, amended Pub. L. 114–328, § 5541(2). See 2016 Amendment note below.
 
-2016—Pub. L. 114–328, div. E, title LXIII, § 5541(2), Dec. 23, 2016, 130 Stat. 2965, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), (B), Dec. 12, 2017, 131 Stat. 1601, added items 825a, 826a, and 829 and struck out former items 825a “Art. 25a. Number of members in capital cases” and 829 “Art. 29. Absent and additional members”.
+2016—Pub. L. 114–328, div. E, title LXIII, § 5541(2), Dec. 23, 2016, 130 Stat. 2965, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), (B), Dec. 12, 2017, 131 Stat. 1601, added items 825a, 826a, and 829 and struck out former items 825a “Art. 25a. Number of members in capital cases” and 829 “Art. 29. Absent and additional members”.
 
-2001—Pub. L. 107–107, div. A, title V, § 582(b)(2), Dec. 28, 2001, 115 Stat. 1124, added item 825a.
+2001—Pub. L. 107–107, div. A, title V, § 582(b)(2), Dec. 28, 2001, 115 Stat. 1124, added item 825a.
 
-1968—Pub. L. 90–632, § 2(8), Oct. 24, 1968, 82 Stat. 1336, substituted “Military judge of a general or special court-martial” for “Law officer of a general court-martial” in item 826.
+1968—Pub. L. 90–632, § 2(8), Oct. 24, 1968, 82 Stat. 1336, substituted “Military judge of a general or special court-martial” for “Law officer of a general court-martial” in item 826.
 
-### § 822. Art. 22. Who may convene general courts-martial
+### § 822. Art. 22. Who may convene general courts-martial
 
 **(a)** General courts-martial may be convened by—
 
@@ -3011,13 +3011,13 @@ The words “do not deprive” are substituted for the words “shall not be con
 
 **(2)** A commanding officer shall not be considered an accuser solely due to the role of the commanding officer in convening a general court-martial to which charges and specifications were referred by a special trial counsel in accordance with this chapter.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 44; Pub. L. 99–433, title II, § 211(b), Oct. 1, 1986, 100 Stat. 1017; Pub. L. 109–163, div. A, title X, § 1057(a)(2), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 114–328, div. E, title LV, § 5181, Dec. 23, 2016, 130 Stat. 2899; Pub. L. 116–283, div. A, title IX, § 924(b)(21)(A), Jan. 1, 2021, 134 Stat. 3824; Pub. L. 117–81, div. A, title V, § 534(a), Dec. 27, 2021, 135 Stat. 1696.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 44; Pub. L. 99–433, title II, § 211(b), Oct. 1, 1986, 100 Stat. 1017; Pub. L. 109–163, div. A, title X, § 1057(a)(2), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 114–328, div. E, title LV, § 5181, Dec. 23, 2016, 130 Stat. 2899; Pub. L. 116–283, div. A, title IX, § 924(b)(21)(A), Jan. 1, 2021, 134 Stat. 3824; Pub. L. 117–81, div. A, title V, § 534(a), Dec. 27, 2021, 135 Stat. 1696.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 822(a) 822(b) | 50:586(a). 50:586(b). | May 5, 1950, ch. 169, § 1 (Art. 22), 64 Stat. 115. |
+| 822(a) 822(b) | 50:586(a). 50:586(b). | May 5, 1950, ch. 169, § 1 (Art. 22), 64 Stat. 115. |
 
 Subsection (a)(2) is substituted for the words “the Secretary of a Department”.
 
@@ -3053,13 +3053,13 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **Training for Sexual Assault Initial Disposition Authorities on Exercise of Disposition Authority for Sexual Assault and Collateral Offenses**
 
-Pub. L. 116–92, div. A, title V, § 540A, Dec. 20, 2019, 133 Stat. 1365, provided that:
+Pub. L. 116–92, div. A, title V, § 540A, Dec. 20, 2019, 133 Stat. 1365, provided that:
 
 > **“(a) In General.—** The training for sexual assault initial disposition authorities on the exercise of disposition authority under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), shall include comprehensive training on the exercise of disposition authority with respect to cases for which disposition authority is withheld to such authorities pursuant to the memorandum described in subsection (b) for the purpose of promoting confidence and trust in the military justice process with respect to such cases.
 
 > **“(b) Memorandum Described.—** The memorandum described in this subsection is the memorandum of the Secretary of Defense titled ‘Withholding Initial Disposition Authority Under the Uniform Code of Military Justice in Certain Sexual Assault Cases’ and dated April 20, 2012, or any successor memorandum.”
 
-### § 823. Art. 23. Who may convene special courts-martial
+### § 823. Art. 23. Who may convene special courts-martial
 
 **(a)** Special courts-martial may be convened by—
 
@@ -3083,13 +3083,13 @@ Pub. L. 116–92, div. A, title V, § 540A, Dec. 20, 2019, 133 Stat. 1365, pro
 
 **(2)** A commanding officer shall not be considered an accuser solely due to the role of the commanding officer in convening a special court-martial to which charges and specifications were referred by a special trial counsel in accordance with this chapter.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 44; Pub. L. 116–283, div. A, title IX, § 924(b)(21)(B), Jan. 1, 2021, 134 Stat. 3824; Pub. L. 117–81, div. A, title V, § 534(b), title X, § 1081(a)(13), Dec. 27, 2021, 135 Stat. 1696, 1920.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 44; Pub. L. 116–283, div. A, title IX, § 924(b)(21)(B), Jan. 1, 2021, 134 Stat. 3824; Pub. L. 117–81, div. A, title V, § 534(b), title X, § 1081(a)(13), Dec. 27, 2021, 135 Stat. 1696, 1920.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 823(a) 823(b) | 50:587(a). 50:587(b). | May 5, 1950, ch. 169, § 1 (Art. 23), 64 Stat. 115. |
+| 823(a) 823(b) | 50:587(a). 50:587(b). | May 5, 1950, ch. 169, § 1 (Art. 23), 64 Stat. 115. |
 
 In subsection (a)(7), the words “Secretary concerned” are substituted for the words “Secretary of a Department”.
 
@@ -3099,13 +3099,13 @@ In subsection (b), the word “If” is substituted for the word “When”. The
 
 **Amendments**
 
-2021—Subsec. (a)(2). Pub. L. 117–81, § 1081(a)(13), inserted comma after “Army”.
+2021—Subsec. (a)(2). Pub. L. 117–81, § 1081(a)(13), inserted comma after “Army”.
 
-Pub. L. 116–283, § 924(b)(21)(B)(i), substituted “Air Force or Space Force military installation” for “Air Force base” and “the Air Force, or the Space Force” for “or the Air Force”.
+Pub. L. 116–283, § 924(b)(21)(B)(i), substituted “Air Force or Space Force military installation” for “Air Force base” and “the Air Force, or the Space Force” for “or the Air Force”.
 
-Subsec. (a)(4). Pub. L. 116–283, § 924(b)(21)(B)(ii), inserted “or a corresponding unit of the Space Force” after “Air Force”.
+Subsec. (a)(4). Pub. L. 116–283, § 924(b)(21)(B)(ii), inserted “or a corresponding unit of the Space Force” after “Air Force”.
 
-Subsec. (b). Pub. L. 117–81, § 534(b), designated existing provisions as par. (1) and added par. (2).
+Subsec. (b). Pub. L. 117–81, § 534(b), designated existing provisions as par. (1) and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3117,7 +3117,7 @@ Amendment by section 534(b) of Pub. L. 117–81 effective on the date that is tw
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 824. Art. 24. Who may convene summary courts-martial
+### § 824. Art. 24. Who may convene summary courts-martial
 
 **(a)** Summary courts-martial may be convened by—
 
@@ -3131,13 +3131,13 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(b)** When only one commissioned officer is present with a command or detachment he shall be the summary court-martial of that command or detachment and shall hear and determine all summary court-martial cases brought before him. Summary courts-martial may, however, be convened in any case by superior competent authority when considered desirable by him.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 45; Pub. L. 116–283, div. A, title IX, § 924(b)(21)(C), Jan. 1, 2021, 134 Stat. 3824.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 45; Pub. L. 116–283, div. A, title IX, § 924(b)(21)(C), Jan. 1, 2021, 134 Stat. 3824.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 824(a) 824(b) | 50:588(a). 50:588(b). | May 5, 1950, ch. 169, § 1 (Art. 24), 64 Stat. 116. |
+| 824(a) 824(b) | 50:588(a). 50:588(b). | May 5, 1950, ch. 169, § 1 (Art. 24), 64 Stat. 116. |
 
 In subsection (a)(4), the words “Secretary concerned” are substituted for the words “Secretary of a Department”.
 
@@ -3149,7 +3149,7 @@ In subsection (b), the words “only one commissioned” are substituted for the
 
 2021—Subsec. (a)(3). Pub. L. 116–283 inserted “or a corresponding unit of the Space Force” after “Air Force”.
 
-### § 824a. Art. 24a. Special trial counsel
+### § 824a. Art. 24a. Special trial counsel
 
 **(a) Detail of Special Trial Counsel.—** Each Secretary concerned shall promulgate regulations for the detail of commissioned officers to serve as special trial counsel.
 
@@ -3227,7 +3227,7 @@ In subsection (b), the words “only one commissioned” are substituted for the
 
 **(B) Known or related offenses.—** If a special trial counsel exercises authority over an offense pursuant to subsection (c)(2)(A) or paragraph (1) or (2) of this subsection, the special trial counsel may exercise the authority of the special trial counsel under subparagraph (B) of subsection (c)(2) with respect to other offenses described in that subparagraph without regard to the date on which the other offenses occur.
 
-(Added Pub. L. 117–81, div. A, title V, § 531(a), Dec. 27, 2021, 135 Stat. 1692; amended Pub. L. 117–263, div. A, title V, § 542(a), Dec. 23, 2022, 136 Stat. 2581; Pub. L. 118–31, div. A, title V, § 531(c)(1), Dec. 22, 2023, 137 Stat. 258; Pub. L. 118–159, div. A, title V, § 562, Dec. 23, 2024, 138 Stat. 1903; Pub. L. 119–60, div. A, title V, § 561(b)(2), Dec. 18, 2025, 139 Stat. 882.)
+(Added Pub. L. 117–81, div. A, title V, § 531(a), Dec. 27, 2021, 135 Stat. 1692; amended Pub. L. 117–263, div. A, title V, § 542(a), Dec. 23, 2022, 136 Stat. 2581; Pub. L. 118–31, div. A, title V, § 531(c)(1), Dec. 22, 2023, 137 Stat. 258; Pub. L. 118–159, div. A, title V, § 562, Dec. 23, 2024, 138 Stat. 1903; Pub. L. 119–60, div. A, title V, § 561(b)(2), Dec. 18, 2025, 139 Stat. 882.)
 
 **Editorial Notes**
 
@@ -3235,19 +3235,19 @@ In subsection (b), the words “only one commissioned” are substituted for the
 
 2025—Subsec. (b)(1)(A). Pub. L. 119–60 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “is a member of the bar of a Federal court or a member of the bar of the highest court of a State; and”.
 
-2024—Subsec. (d)(1)(A). Pub. L. 118–159, § 562(1), substituted “section 919a (article 119a), section 920 (article 120), section 920a (article 120a),” for “section 920 (article 120),”.
+2024—Subsec. (d)(1)(A). Pub. L. 118–159, § 562(1), substituted “section 919a (article 119a), section 920 (article 120), section 920a (article 120a),” for “section 920 (article 120),”.
 
-Subsec. (d)(2), (3). Pub. L. 118–159, § 562(2), (3), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (d)(2), (3). Pub. L. 118–159, § 562(2), (3), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (d)(3)(A). Pub. L. 118–159, § 562(4)(A), inserted “or (2)” after “paragraph (1)”.
+Subsec. (d)(3)(A). Pub. L. 118–159, § 562(4)(A), inserted “or (2)” after “paragraph (1)”.
 
-Subsec. (d)(3)(B). Pub. L. 118–159, § 562(4)(B), substituted “subsection (c)(2)(A) or paragraph (1) or (2) of this subsection” for “paragraph (1)”.
+Subsec. (d)(3)(B). Pub. L. 118–159, § 562(4)(B), substituted “subsection (c)(2)(A) or paragraph (1) or (2) of this subsection” for “paragraph (1)”.
 
 2023—Subsec. (d). Pub. L. 118–31 added subsec. (d).
 
-2022—Subsec. (c)(3). Pub. L. 117–263, § 542(a)(1), substituted “Subject to paragraph (5)” for “Subject to paragraph (4)” in introductory provisions.
+2022—Subsec. (c)(3). Pub. L. 117–263, § 542(a)(1), substituted “Subject to paragraph (5)” for “Subject to paragraph (4)” in introductory provisions.
 
-Subsec. (c)(3)(D). Pub. L. 117–263, § 542(a)(2), substituted “an authorized rehearing” for “an ordered rehearing”.
+Subsec. (c)(3)(D). Pub. L. 117–263, § 542(a)(2), substituted “an authorized rehearing” for “an ordered rehearing”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3257,7 +3257,7 @@ Amendment by Pub. L. 118–31 effective immediately after amendment by part 1 of
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–263, div. A, title V, § 542(b), Dec. 23, 2022, 136 Stat. 2581, provided that: “The amendments made by subsection (a) [amending this section] shall take effect immediately after the coming into effect of the amendments made by section 531 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 135 Stat. 1692) [enacting this section] as provided in section 539C of that Act (10 U.S.C. 801 note).”
+Pub. L. 117–263, div. A, title V, § 542(b), Dec. 23, 2022, 136 Stat. 2581, provided that: “The amendments made by subsection (a) [amending this section] shall take effect immediately after the coming into effect of the amendments made by section 531 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 135 Stat. 1692) [enacting this section] as provided in section 539C of that Act (10 U.S.C. 801 note).”
 
 **Effective Date**
 
@@ -3265,9 +3265,9 @@ Section effective on the date that is two years after Dec. 27, 2021, and applica
 
 **Residual Prosecutorial Duties and Other Judicial Functions of Convening Authorities in Covered Cases**
 
-Pub. L. 117–263, div. A, title V, § 541(c), Dec. 23, 2022, 136 Stat. 2580, provided that: “The President shall prescribe regulations to ensure that residual prosecutorial duties and other judicial functions of convening authorities, including granting immunity, ordering depositions, and hiring experts, with respect to charges and specifications over which a special trial counsel exercises authority pursuant to section 824a of title 10, United States Code (article 24a of the Uniform Code of Military Justice) (as added by section 531 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 135 Stat. 1692)), are transferred to the military judge, the special trial counsel, or other authority as appropriate in such cases by no later than the effective date established in section 539C of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 801 note), in consideration of due process for all parties involved in such a case.”
+Pub. L. 117–263, div. A, title V, § 541(c), Dec. 23, 2022, 136 Stat. 2580, provided that: “The President shall prescribe regulations to ensure that residual prosecutorial duties and other judicial functions of convening authorities, including granting immunity, ordering depositions, and hiring experts, with respect to charges and specifications over which a special trial counsel exercises authority pursuant to section 824a of title 10, United States Code (article 24a of the Uniform Code of Military Justice) (as added by section 531 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 135 Stat. 1692)), are transferred to the military judge, the special trial counsel, or other authority as appropriate in such cases by no later than the effective date established in section 539C of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 801 note), in consideration of due process for all parties involved in such a case.”
 
-### § 825. Art. 25. Who may serve on courts-martial
+### § 825. Art. 25. Who may serve on courts-martial
 
 **(a)** Any commissioned officer on active duty is eligible to serve on all courts-martial for the trial of any person who may lawfully be brought before such courts for trial.
 
@@ -3307,13 +3307,13 @@ Pub. L. 117–263, div. A, title V, § 541(c), Dec. 23, 2022, 136 Stat. 2580, 
 
 **(f)** Before a court-martial is assembled for the trial of a case, the convening authority may excuse a member of the court from participating in the case. Under such regulations as the Secretary concerned may prescribe, the convening authority may delegate the authority of the convening authority under this subsection to the staff judge advocate or legal officer of the convening authority or to any other principal assistant.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 45; Pub. L. 90–632, § 2(7), Oct. 24, 1968, 82 Stat. 1336; Pub. L. 98–209, §§ 3(b), 13(c), Dec. 6, 1983, 97 Stat. 1394, 1408; Pub. L. 99–661, div. A, title VIII, § 803(a), Nov. 14, 1986, 100 Stat. 3906; Pub. L. 114–328, div. E, title LV, § 5182, title LVI, § 5203(e)(2), Dec. 23, 2016, 130 Stat. 2899, 2906; Pub. L. 117–263, div. A, title V, § 543(a), Dec. 23, 2022, 136 Stat. 2582; Pub. L. 118–31, div. A, title V, § 531(b)(2), Dec. 22, 2023, 137 Stat. 258.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 45; Pub. L. 90–632, § 2(7), Oct. 24, 1968, 82 Stat. 1336; Pub. L. 98–209, §§ 3(b), 13(c), Dec. 6, 1983, 97 Stat. 1394, 1408; Pub. L. 99–661, div. A, title VIII, § 803(a), Nov. 14, 1986, 100 Stat. 3906; Pub. L. 114–328, div. E, title LV, § 5182, title LVI, § 5203(e)(2), Dec. 23, 2016, 130 Stat. 2899, 2906; Pub. L. 117–263, div. A, title V, § 543(a), Dec. 23, 2022, 136 Stat. 2582; Pub. L. 118–31, div. A, title V, § 531(b)(2), Dec. 22, 2023, 137 Stat. 258.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 825(a) 825(b) | 50:589(a). 50:589(b). | May 5, 1950, ch. 169, § 1 (Art. 25), 64 Stat. 116. |
+| 825(a) 825(b) | 50:589(a). 50:589(b). | May 5, 1950, ch. 169, § 1 (Art. 25), 64 Stat. 116. |
 | 825(c) | 50:589(c). |  |
 | 825(d) | 50:589(d). |  |
 
@@ -3337,35 +3337,35 @@ In subsection (d)(2), the word “is” is substituted for the words “shall be
 
 **Amendments**
 
-2023—Subsec. (d)(1). Pub. L. 118–31, § 531(b)(2)(A)(i), substituted “shall be sentenced by the military judge” for “may, after the findings are announced and before any matter is presented in the sentencing phase, request, orally on the record or in writing, sentencing by members”.
+2023—Subsec. (d)(1). Pub. L. 118–31, § 531(b)(2)(A)(i), substituted “shall be sentenced by the military judge” for “may, after the findings are announced and before any matter is presented in the sentencing phase, request, orally on the record or in writing, sentencing by members”.
 
-Subsec. (d)(2). Pub. L. 118–31, § 531(b)(2)(A)(ii), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In a capital case, the accused shall be sentenced by the members for all offenses for which the court-martial may sentence the accused to death in accordance with section 853(c) of this title (article 53(c)).”
+Subsec. (d)(2). Pub. L. 118–31, § 531(b)(2)(A)(ii), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In a capital case, the accused shall be sentenced by the members for all offenses for which the court-martial may sentence the accused to death in accordance with section 853(c) of this title (article 53(c)).”
 
-Subsec. (e)(1). Pub. L. 118–31, § 531(b)(2)(B)(i), substituted “the member being tried” for “him”.
+Subsec. (e)(1). Pub. L. 118–31, § 531(b)(2)(B)(i), substituted “the member being tried” for “him”.
 
-Subsec. (e)(2). Pub. L. 118–31, § 531(b)(2)(B)(ii), substituted “the opinion of the convening authority” for “his opinion” and “the member” for “he”.
+Subsec. (e)(2). Pub. L. 118–31, § 531(b)(2)(B)(ii), substituted “the opinion of the convening authority” for “his opinion” and “the member” for “he”.
 
-Subsec. (f). Pub. L. 118–31, § 531(b)(2)(C), substituted “the authority of the convening authority” for “his authority” and “the staff judge advocate or legal officer of the convening authority” for “his staff judge advocate or legal officer”.
+Subsec. (f). Pub. L. 118–31, § 531(b)(2)(C), substituted “the authority of the convening authority” for “his authority” and “the staff judge advocate or legal officer of the convening authority” for “his staff judge advocate or legal officer”.
 
 2022—Subsec. (e)(4). Pub. L. 117–263 added par. (4).
 
-2016—Subsec. (c). Pub. L. 114–328, § 5182(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to service on general and special courts-martial by enlisted members.
+2016—Subsec. (c). Pub. L. 114–328, § 5182(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to service on general and special courts-martial by enlisted members.
 
-Subsec. (d). Pub. L. 114–328, § 5182(b)(2), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 114–328, § 5182(b)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 114–328, § 5182(b)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 114–328, § 5182(b)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (e)(2). Pub. L. 114–328, § 5203(e)(2), which directed amendment of this section by substituting “preliminary hearing officer” for “investigating officer” in subsec. (d)(2), was executed by making the substitution in subsec. (e)(2) to reflect the probable intent of Congress and the redesignation of subsec. (d) as (e) by Pub. L. 114–328, § 5182(b)(1).
+Subsec. (e)(2). Pub. L. 114–328, § 5203(e)(2), which directed amendment of this section by substituting “preliminary hearing officer” for “investigating officer” in subsec. (d)(2), was executed by making the substitution in subsec. (e)(2) to reflect the probable intent of Congress and the redesignation of subsec. (d) as (e) by Pub. L. 114–328, § 5182(b)(1).
 
-Subsec. (e)(3). Pub. L. 114–328, § 5182(c), added par. (3).
+Subsec. (e)(3). Pub. L. 114–328, § 5182(c), added par. (3).
 
-Subsec. (f). Pub. L. 114–328, § 5182(b)(1), redesignated subsec. (e) as (f).
+Subsec. (f). Pub. L. 114–328, § 5182(b)(1), redesignated subsec. (e) as (f).
 
 1986—Subsec. (c)(1). Pub. L. 99–661 substituted “has requested orally on the record or in writing” for “has requested in writing”.
 
-1983—Subsec. (c)(2). Pub. L. 98–209, § 13(c), struck out “the word” before “ ‘unit’ ”.
+1983—Subsec. (c)(2). Pub. L. 98–209, § 13(c), struck out “the word” before “ ‘unit’ ”.
 
-Subsec. (e). Pub. L. 98–209, § 3(b), added subsec. (e).
+Subsec. (e). Pub. L. 98–209, § 3(b), added subsec. (e).
 
 1968—Subsec. (c)(1). Pub. L. 90–632 inserted requirement that an accused’s request for inclusion of enlisted members on his court-martial be made before conclusion of a pre-trial session called by the military judge under section 839(a) or before the court is assembled for his trial and substituted “assembled” for “convened” to describe the calling together of the court for the trial in provision allowing such calling together without requested enlisted members if such members cannot be obtained.
 
@@ -3377,7 +3377,7 @@ Amendment by Pub. L. 118–31 effective immediately after amendment by part 1 of
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–263, div. A, title V, § 543(b), Dec. 23, 2022, 136 Stat. 2582, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date that is two years after the date of the enactment of this Act [Dec. 23, 2022] and shall apply with respect to courts-martial convened on or after that effective date.”
+Pub. L. 117–263, div. A, title V, § 543(b), Dec. 23, 2022, 136 Stat. 2582, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date that is two years after the date of the enactment of this Act [Dec. 23, 2022] and shall apply with respect to courts-martial convened on or after that effective date.”
 
 **Effective Date of 2016 Amendment**
 
@@ -3385,7 +3385,7 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–661, div. A, title VIII, § 803(b), Nov. 14, 1986, 100 Stat. 3906, provided that: “The amendment made by subsection (a) [amending this section] shall apply only to a case in which arraignment is completed on or after the effective date of this title.”
+Pub. L. 99–661, div. A, title VIII, § 803(b), Nov. 14, 1986, 100 Stat. 3906, provided that: “The amendment made by subsection (a) [amending this section] shall apply only to a case in which arraignment is completed on or after the effective date of this title.”
 
 Title VIII of Pub. L. 99–661 effective the earlier of (1) the last day of the 120-day period beginning on Nov. 14, 1986; or (2) the date specified in an Executive order for such amendment to take effect, see section 808 of Pub. L. 99–661, set out as a note under section 802 of this title.
 
@@ -3399,9 +3399,9 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 **Regulations**
 
-Pub. L. 117–263, div. A, title V, § 543(c), Dec. 23, 2022, 136 Stat. 2582, provided that: “Not later than the effective date specified in subsection (b) [see Effective Date of 2022 Amendment note above], the President shall prescribe regulations implementing the requirement under paragraph (4) of section 825(e) of title 10, United States Code (article 25(e) of the Uniform Code of Military Justice), as added by subsection (a) of this section.”
+Pub. L. 117–263, div. A, title V, § 543(c), Dec. 23, 2022, 136 Stat. 2582, provided that: “Not later than the effective date specified in subsection (b) [see Effective Date of 2022 Amendment note above], the President shall prescribe regulations implementing the requirement under paragraph (4) of section 825(e) of title 10, United States Code (article 25(e) of the Uniform Code of Military Justice), as added by subsection (a) of this section.”
 
-### § 825a. Art. 25a. Number of court-martial members in capital cases
+### § 825a. Art. 25a. Number of court-martial members in capital cases
 
 **(a) In General.—** In a case in which the accused may be sentenced to death, the number of members shall be 12.
 
@@ -3411,7 +3411,7 @@ Pub. L. 117–263, div. A, title V, § 543(c), Dec. 23, 2022, 136 Stat. 2582, 
 
 **(2)** if a case is referred for trial as a capital case and, after the members are impaneled, the accused may no longer be sentenced to death, the number of members shall remain 12.
 
-(Added Pub. L. 107–107, div. A, title V, § 582(b)(1), Dec. 28, 2001, 115 Stat. 1124; amended Pub. L. 114–328, div. E, title LV, § 5183, Dec. 23, 2016, 130 Stat. 2900.)
+(Added Pub. L. 107–107, div. A, title V, § 582(b)(1), Dec. 28, 2001, 115 Stat. 1124; amended Pub. L. 114–328, div. E, title LV, § 5183, Dec. 23, 2016, 130 Stat. 2900.)
 
 **Editorial Notes**
 
@@ -3429,7 +3429,7 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 Section applicable with respect to offenses committed after Dec. 31, 2002, see section 582(d) of Pub. L. 107–107, set out as an Effective Date of 2001 Amendment note under section 816 of this title.
 
-### § 826. Art. 26. Military judge of a general or special court-martial
+### § 826. Art. 26. Military judge of a general or special court-martial
 
 **(a)** A military judge shall be detailed to each general and special court-martial. The Secretary concerned shall prescribe regulations providing for the manner in which military judges are detailed for such courts-martial and for the persons who are authorized to detail military judges for such courts-martial. The military judge shall preside over each open session of the court-martial to which he has been detailed.
 
@@ -3457,13 +3457,13 @@ Section applicable with respect to offenses committed after Dec. 31, 2002, see s
 
 **(g)** In accordance with regulations prescribed by the President, each Judge Advocate General shall designate a chief trial judge from among the members of the applicable trial judiciary.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 46; Pub. L. 90–632, § 2(9), Oct. 24, 1968, 82 Stat. 1336; Pub. L. 98–209, § 3(c)(1), Dec. 6, 1983, 97 Stat. 1394; Pub. L. 114–328, div. E, title LV, § 5184, title LVI, § 5203(e)(3), Dec. 23, 2016, 130 Stat. 2901, 2906.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 46; Pub. L. 90–632, § 2(9), Oct. 24, 1968, 82 Stat. 1336; Pub. L. 98–209, § 3(c)(1), Dec. 6, 1983, 97 Stat. 1394; Pub. L. 114–328, div. E, title LV, § 5184, title LVI, § 5203(e)(3), Dec. 23, 2016, 130 Stat. 2901, 2906.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 826(a) 826(b) | 50:590(a). 50:590(b). | May 5, 1950, ch. 169, § 1 (Art. 26), 64 Stat. 117. |
+| 826(a) 826(b) | 50:590(a). 50:590(b). | May 5, 1950, ch. 169, § 1 (Art. 26), 64 Stat. 117. |
 
 In subsection (a), the words “a commissioned” are substituted for the word “an” for clarity. The words “of the United States” are omitted as surplusage. The word “is” is substituted for the words “shall be”. The word “if” is substituted for the word “when”. The word “detail” is substituted for the word “appoint”, since the filling of the position involved is not appointment to an office in the constitutional sense.
 
@@ -3473,21 +3473,21 @@ In subsection (b), the word “may” is substituted for the word “shall”.
 
 **Amendments**
 
-2016—Subsec. (a). Pub. L. 114–328, § 5184(a), inserted “and special” after “each general” and struck out “Subject to regulations of the Secretary concerned, a military judge may be detailed to any special court-martial.” before “The military judge”.
+2016—Subsec. (a). Pub. L. 114–328, § 5184(a), inserted “and special” after “each general” and struck out “Subject to regulations of the Secretary concerned, a military judge may be detailed to any special court-martial.” before “The military judge”.
 
-Subsec. (b). Pub. L. 114–328, § 5184(b), substituted “qualified, by reason of education, training, experience, and judicial temperament, for duty” for “qualified for duty”.
+Subsec. (b). Pub. L. 114–328, § 5184(b), substituted “qualified, by reason of education, training, experience, and judicial temperament, for duty” for “qualified for duty”.
 
-Subsec. (c). Pub. L. 114–328, § 5184(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The military judge of a general court-martial shall be designated by the Judge Advocate General, or his designee, of the armed force of which the military judge is a member for detail in accordance with regulations prescribed under subsection (a). Unless the court-martial was convened by the President or the Secretary concerned, neither the convening authority nor any member of his staff shall prepare or review any report concerning the effectiveness, fitness, or efficiency of the military judge so detailed, which relates to his performance of duty as a military judge. A commissioned officer who is certified to be qualified for duty as a military judge of a general court-martial may perform such duties only when he is assigned and directly responsible to the Judge Advocate General, or his designee, of the armed force of which the military judge is a member and may perform duties of a judicial or nonjudicial nature other than those relating to his primary duty as a military judge of a general court-martial when such duties are assigned to him by or with the approval of that Judge Advocate General or his designee.”
+Subsec. (c). Pub. L. 114–328, § 5184(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The military judge of a general court-martial shall be designated by the Judge Advocate General, or his designee, of the armed force of which the military judge is a member for detail in accordance with regulations prescribed under subsection (a). Unless the court-martial was convened by the President or the Secretary concerned, neither the convening authority nor any member of his staff shall prepare or review any report concerning the effectiveness, fitness, or efficiency of the military judge so detailed, which relates to his performance of duty as a military judge. A commissioned officer who is certified to be qualified for duty as a military judge of a general court-martial may perform such duties only when he is assigned and directly responsible to the Judge Advocate General, or his designee, of the armed force of which the military judge is a member and may perform duties of a judicial or nonjudicial nature other than those relating to his primary duty as a military judge of a general court-martial when such duties are assigned to him by or with the approval of that Judge Advocate General or his designee.”
 
-Subsec. (d). Pub. L. 114–328, § 5203(e)(3), substituted “preliminary hearing officer” for “investigating officer”.
+Subsec. (d). Pub. L. 114–328, § 5203(e)(3), substituted “preliminary hearing officer” for “investigating officer”.
 
-Subsec. (f). Pub. L. 114–328, § 5184(d), added subsec. (f).
+Subsec. (f). Pub. L. 114–328, § 5184(d), added subsec. (f).
 
-Subsec. (g). Pub. L. 114–328, § 5184(e), added subsec. (g).
+Subsec. (g). Pub. L. 114–328, § 5184(e), added subsec. (g).
 
-1983—Subsec. (a). Pub. L. 98–209, § 3(c)(1)(A), amended subsec. (a) generally, inserting provision requiring the Secretary concerned to prescribe regulations providing for the manner in which military judges are detailed for courts-martial and for the persons who are authorized to detail military judges for such courts-martial.
+1983—Subsec. (a). Pub. L. 98–209, § 3(c)(1)(A), amended subsec. (a) generally, inserting provision requiring the Secretary concerned to prescribe regulations providing for the manner in which military judges are detailed for courts-martial and for the persons who are authorized to detail military judges for such courts-martial.
 
-Subsec. (c). Pub. L. 98–209, § 3(c)(1)(B), substituted “in accordance with regulations prescribed under subsection (a). Unless” for “by the convening authority, and, unless”.
+Subsec. (c). Pub. L. 98–209, § 3(c)(1)(B), substituted “in accordance with regulations prescribed under subsection (a). Unless” for “by the convening authority, and, unless”.
 
 1968—Pub. L. 90–632 substituted “military judge” for “law officer” and inserted reference to special court-martial.
 
@@ -3513,9 +3513,9 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 **Statutory References to Law Officer Deemed References to Military Judge**
 
-Pub. L. 90–632, § 3(a), Oct. 24, 1968, 82 Stat. 1343, provided that: “Whenever the term law officer is used, with reference to any officer detailed to a court-martial pursuant to section 826(a) (article 26(a)) of title 10, United States Code [subsec. (a) of this section], in any provision of Federal law (other than provisions amended by this Act [see Short Title of 1968 Amendment note set out under section 801 of this title] or in any regulation, document, or record of the United States, such term shall be deemed to mean military judge.”
+Pub. L. 90–632, § 3(a), Oct. 24, 1968, 82 Stat. 1343, provided that: “Whenever the term law officer is used, with reference to any officer detailed to a court-martial pursuant to section 826(a) (article 26(a)) of title 10, United States Code [subsec. (a) of this section], in any provision of Federal law (other than provisions amended by this Act [see Short Title of 1968 Amendment note set out under section 801 of this title] or in any regulation, document, or record of the United States, such term shall be deemed to mean military judge.”
 
-### § 826a. Art. 26a. Military magistrates
+### § 826a. Art. 26a. Military magistrates
 
 **(a) Qualifications.—** A military magistrate shall be a commissioned officer of the armed forces who—
 
@@ -3525,7 +3525,7 @@ Pub. L. 90–632, § 3(a), Oct. 24, 1968, 82 Stat. 1343, provided that: “Whe
 
 **(b) Duties.—** In accordance with regulations prescribed by the Secretary concerned, in addition to duties when designated under section 819 or 830a of this title (article 19 or 30a), a military magistrate may be assigned to perform other duties of a nonjudicial nature.
 
-(Added Pub. L. 114–328, div. E, title LV, § 5185, Dec. 23, 2016, 130 Stat. 2901.)
+(Added Pub. L. 114–328, div. E, title LV, § 5185, Dec. 23, 2016, 130 Stat. 2901.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3533,7 +3533,7 @@ Pub. L. 90–632, § 3(a), Oct. 24, 1968, 82 Stat. 1343, provided that: “Whe
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. 13825, set out as notes under section 801 of this title.
 
-### § 827. Art. 27. Detail of trial counsel and defense counsel
+### § 827. Art. 27. Detail of trial counsel and defense counsel
 
 **(a)**
 
@@ -3561,13 +3561,13 @@ Section effective on Jan. 1, 2019, as designated by the President, with implemen
 
 **(2)** a special trial counsel may detail other trial counsel as necessary who are judge advocates.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 46; Pub. L. 90–179, § 1(5), Dec. 8, 1967, 81 Stat. 546; Pub. L. 90–632, § 2(10), Oct. 24, 1968, 82 Stat. 1337; Pub. L. 98–209, §§ 2(d), 3(c)(2), Dec. 6, 1983, 97 Stat. 1393, 1394; Pub. L. 114–328, div. E, title LV, § 5186, Dec. 23, 2016, 130 Stat. 2902; Pub. L. 117–81, div. A, title V, § 535, Dec. 27, 2021, 135 Stat. 1696; Pub. L. 119–60, div. A, title V, § 561(b)(1), Dec. 18, 2025, 139 Stat. 881.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 46; Pub. L. 90–179, § 1(5), Dec. 8, 1967, 81 Stat. 546; Pub. L. 90–632, § 2(10), Oct. 24, 1968, 82 Stat. 1337; Pub. L. 98–209, §§ 2(d), 3(c)(2), Dec. 6, 1983, 97 Stat. 1393, 1394; Pub. L. 114–328, div. E, title LV, § 5186, Dec. 23, 2016, 130 Stat. 2902; Pub. L. 117–81, div. A, title V, § 535, Dec. 27, 2021, 135 Stat. 1696; Pub. L. 119–60, div. A, title V, § 561(b)(1), Dec. 18, 2025, 139 Stat. 881.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 827(a) 827(b) | 50:591(a). 50:591(b). | May 5, 1950, ch. 169, § 1 (Art. 27), 64 Stat. 117. |
+| 827(a) 827(b) | 50:591(a). 50:591(b). | May 5, 1950, ch. 169, § 1 (Art. 27), 64 Stat. 117. |
 | 827(c) | 50:591(c). |  |
 
 The words, “detail” and “detailed” are substituted for the words “appoint” and “appointed” throughout the revised section, since the filling of the position involved is not appointment to an office in the constitutional sense.
@@ -3576,7 +3576,7 @@ In subsection (a), the word “and” is substituted for the words “together w
 
 In subsections (b) and (c), the word “must” is substituted for the word “shall”, since the clauses prescribe conditions and not commands.
 
-In subsection (b), the word “for” is substituted for the words “in the case of”. The words “person \* \* \* a person who is” are omitted as surplusage.
+In subsection (b), the word “for” is substituted for the words “in the case of”. The words “person \* \* \* a person who is” are omitted as surplusage.
 
 **Editorial Notes**
 
@@ -3586,11 +3586,11 @@ In subsection (b), the word “for” is substituted for the words “in the cas
 
 2021—Subsec. (e). Pub. L. 117–81 added subsec. (e).
 
-2016—Subsec. (a)(2). Pub. L. 114–328, § 5186(1), substituted “No person who, with respect to a case, has served as a preliminary hearing officer, court member, military judge, military magistrate, or appellate judge, may later serve as trial counsel,” for “No person who has acted as investigating officer, military judge, or court member in any case may act later as trial counsel,”.
+2016—Subsec. (a)(2). Pub. L. 114–328, § 5186(1), substituted “No person who, with respect to a case, has served as a preliminary hearing officer, court member, military judge, military magistrate, or appellate judge, may later serve as trial counsel,” for “No person who has acted as investigating officer, military judge, or court member in any case may act later as trial counsel,”.
 
-Subsec. (b). Pub. L. 114–328, § 5186(2), substituted “Trial counsel, defense counsel, or assistant defense counsel” for “Trial counsel or defense counsel” in introductory provisions.
+Subsec. (b). Pub. L. 114–328, § 5186(2), substituted “Trial counsel, defense counsel, or assistant defense counsel” for “Trial counsel or defense counsel” in introductory provisions.
 
-Subsecs. (c), (d). Pub. L. 114–328, § 5186(3), added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: “In the case of a special court-martial—
+Subsecs. (c), (d). Pub. L. 114–328, § 5186(3), added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: “In the case of a special court-martial—
 
 “(1) the accused shall be afforded the opportunity to be represented at the trial by counsel having the qualifications prescribed under section 827(b) of this title (article 27(b)) unless counsel having such qualifications cannot be obtained on account of physical conditions or military exigencies. If counsel having such qualifications cannot be obtained, the court may be convened and the trial held but the convening authority shall make a detailed written statement, to be appended to the record, stating why counsel with such qualifications could not be obtained;
 
@@ -3598,17 +3598,17 @@ Subsecs. (c), (d). Pub. L. 114–328, § 5186(3), added subsecs. (c) and (d) a
 
 “(3) if the trial counsel is a judge advocate or a member of the bar of a Federal court or the highest court of a State, the defense counsel detailed by the convening authority must be one of the foregoing.”
 
-1983—Subsec. (a)(1). Pub. L. 98–209, § 3(c)(2)(A), designated first sentence of existing provisions as par. (1), substituted provisions requiring that trial counsel and defense counsel be detailed for each general and special court-martial, and permitting the detailing of assistant trial counsel and assistant and associate defense counsel for each general and special court-martial for provisions requiring that for each general and special court-martial the authority convening the court had to detail trial counsel and defense counsel and such assistants as he considered appropriate, and inserted provision requiring the Secretary concerned to prescribe regulations providing for the manner in which counsel are detailed for such courts-martial and for the persons who are authorized to detail counsel for such courts-martial.
+1983—Subsec. (a)(1). Pub. L. 98–209, § 3(c)(2)(A), designated first sentence of existing provisions as par. (1), substituted provisions requiring that trial counsel and defense counsel be detailed for each general and special court-martial, and permitting the detailing of assistant trial counsel and assistant and associate defense counsel for each general and special court-martial for provisions requiring that for each general and special court-martial the authority convening the court had to detail trial counsel and defense counsel and such assistants as he considered appropriate, and inserted provision requiring the Secretary concerned to prescribe regulations providing for the manner in which counsel are detailed for such courts-martial and for the persons who are authorized to detail counsel for such courts-martial.
 
-Subsec. (a)(2). Pub. L. 98–209, § 3(c)(2)(B), designated existing provision, less first sentence, as par. (2) and substituted “assistant or associate defense counsel” for “assistant defense counsel”.
+Subsec. (a)(2). Pub. L. 98–209, § 3(c)(2)(B), designated existing provision, less first sentence, as par. (2) and substituted “assistant or associate defense counsel” for “assistant defense counsel”.
 
-Subsec. (b)(1). Pub. L. 98–209, § 2(d)(1), substituted “judge advocate” for “judge advocate of the Army, Navy, Air Force, or Marine Corps or a law specialist of the Coast Guard,”.
+Subsec. (b)(1). Pub. L. 98–209, § 2(d)(1), substituted “judge advocate” for “judge advocate of the Army, Navy, Air Force, or Marine Corps or a law specialist of the Coast Guard,”.
 
-Subsec. (c)(3). Pub. L. 98–209, § 2(d)(2), struck out “, or a law specialist,” after “is a judge advocate”.
+Subsec. (c)(3). Pub. L. 98–209, § 2(d)(2), struck out “, or a law specialist,” after “is a judge advocate”.
 
-1968—Subsec. (a). Pub. L. 90–632, § 2(10)(A), substituted “military judge” for “law officer”.
+1968—Subsec. (a). Pub. L. 90–632, § 2(10)(A), substituted “military judge” for “law officer”.
 
-Subsec. (c). Pub. L. 90–632, § 2(10)(B), redesignated former pars. (1) and (2) as pars. (2) and (3), respectively, and added par. (1).
+Subsec. (c). Pub. L. 90–632, § 2(10)(B), redesignated former pars. (1) and (2) as pars. (2) and (3), respectively, and added par. (1).
 
 1967—Subsec. (b)(1). Pub. L. 90–179 inserted reference to judge advocate of the Marine Corps and substituted reference to judge advocate of the Navy for reference to law specialist of the Navy.
 
@@ -3632,7 +3632,7 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 **Military Defense Counsel**
 
-Pub. L. 117–81, div. A, title V, § 549D, Dec. 27, 2021, 135 Stat. 1726, provided that:
+Pub. L. 117–81, div. A, title V, § 549D, Dec. 27, 2021, 135 Stat. 1726, provided that:
 
 > “Each Secretary of a military department shall—
 
@@ -3644,7 +3644,7 @@ Pub. L. 117–81, div. A, title V, § 549D, Dec. 27, 2021, 135 Stat. 1726, pro
 
 **Effective Prosecution and Defense in Courts-Martial and Pilot Programs on Professional Military Justice Development for Judge Advocates**
 
-Pub. L. 114–328, div. A, title V, § 542, Dec. 23, 2016, 130 Stat. 2126, as amended by Pub. L. 115–91, div. A, title V, § 532, Dec. 12, 2017, 131 Stat. 1388, provided that:
+Pub. L. 114–328, div. A, title V, § 542, Dec. 23, 2016, 130 Stat. 2126, as amended by Pub. L. 115–91, div. A, title V, § 532, Dec. 12, 2017, 131 Stat. 1388, provided that:
 
 > **“(a) Program for Effective Prosecution and Defense.—** The Secretary concerned shall carry out a program to ensure that—
 
@@ -3682,17 +3682,17 @@ Pub. L. 114–328, div. A, title V, § 542, Dec. 23, 2016, 130 Stat. 2126, as 
 
 > **“(e) Secretary Concerned Defined.—** In this section, the term ‘Secretary concerned’ has the meaning given that term in section 101(a)(9) of title 10, United States Code.”
 
-### § 828. Art. 28. Detail or employment of reporters and interpreters
+### § 828. Art. 28. Detail or employment of reporters and interpreters
 
 Under such regulations as the Secretary concerned may prescribe, the convening authority of a court-martial, military commission, or court of inquiry shall detail or employ qualified court reporters, who shall record the proceedings of and testimony taken before that court or commission. Under like regulations the convening authority of a court-martial, military commission, or court of inquiry may detail or employ interpreters who shall interpret for the court or commission. This section does not apply to a military commission established under chapter 47A of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 47; Pub. L. 109–366, § 4(a)(2), Oct. 17, 2006, 120 Stat. 2631.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 47; Pub. L. 109–366, § 4(a)(2), Oct. 17, 2006, 120 Stat. 2631.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 828 | 50:592. | May 5, 1950, ch. 169, § 1 (Art. 28), 64 Stat. 117. |
+| 828 | 50:592. | May 5, 1950, ch. 169, § 1 (Art. 28), 64 Stat. 117. |
 
 The words “Secretary concerned” are substituted for the words “Secretary of the Department”. The words, “detail or employ” are substituted for the word “appoint”, since the filling of the position involved is not appointment to an office in the constitutional sense.
 
@@ -3702,7 +3702,7 @@ The words “Secretary concerned” are substituted for the words “Secretary o
 
 2006—Pub. L. 109–366 inserted last sentence.
 
-### § 829. Art. 29. Assembly and impaneling of members; detail of new members and military judges
+### § 829. Art. 29. Assembly and impaneling of members; detail of new members and military judges
 
 **(a) Assembly.—** The military judge shall announce the assembly of a general or special court-martial with members. After such a court-martial is assembled, no member may be absent, unless the member is excused—
 
@@ -3758,13 +3758,13 @@ the trial may not proceed unless the convening authority details new members and
 
 **(2)** In the case of a new military judge under subsection (e), the trial shall proceed as if no evidence had been introduced, unless the evidence previously introduced is read or, in the case of audiotape, videotape, or similar recording, is played, in the presence of the new military judge, the accused, and counsel for both sides.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 47; Pub. L. 90–632, § 2(11), Oct. 24, 1968, 82 Stat. 1337; Pub. L. 98–209, § 3(d), Dec. 6, 1983, 97 Stat. 1394; Pub. L. 107–107, div. A, title V, § 582(c), Dec. 28, 2001, 115 Stat. 1124; Pub. L. 114–328, div. E, title LV, § 5187, Dec. 23, 2016, 130 Stat. 2902.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 47; Pub. L. 90–632, § 2(11), Oct. 24, 1968, 82 Stat. 1337; Pub. L. 98–209, § 3(d), Dec. 6, 1983, 97 Stat. 1394; Pub. L. 107–107, div. A, title V, § 582(c), Dec. 28, 2001, 115 Stat. 1124; Pub. L. 114–328, div. E, title LV, § 5187, Dec. 23, 2016, 130 Stat. 2902.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 829(a) 829(b) | 50:593(a). 50:593(b). | May 5, 1950, ch. 169, § 1 (Art. 29), 64 Stat. 117. |
+| 829(a) 829(b) | 50:593(a). 50:593(b). | May 5, 1950, ch. 169, § 1 (Art. 29), 64 Stat. 117. |
 | 829(c) | 50:593(c). |  |
 
 In subsections (a), (b), and (c), the word “may” is substituted for the word “shall”.
@@ -3781,13 +3781,13 @@ In subsections (b) and (c), the word “details” is substituted for the word �
 
 1983—Subsec. (a). Pub. L. 98–209 substituted “unless excused as a result of a challenge, excused by the military judge for physical disability or other good cause, or excused by order of the convening authority for good cause” for “except for physical disability or as a result of a challenge or by order of the convening authority for good cause”.
 
-1968—Subsec. (a). Pub. L. 90–632, § 2(11)(A), substituted “court has been assembled for the trial of the accused” for “accused has been arraigned”.
+1968—Subsec. (a). Pub. L. 90–632, § 2(11)(A), substituted “court has been assembled for the trial of the accused” for “accused has been arraigned”.
 
-Subsec. (b). Pub. L. 90–632, § 2(11)(B), inserted reference to court-martial composed of a military judge alone, struck out reference to oath of members, and inserted provisions requiring that only the evidence which has been introduced before members of the court be read to the court and that all evidence, not merely testimony, be included.
+Subsec. (b). Pub. L. 90–632, § 2(11)(B), inserted reference to court-martial composed of a military judge alone, struck out reference to oath of members, and inserted provisions requiring that only the evidence which has been introduced before members of the court be read to the court and that all evidence, not merely testimony, be included.
 
-Subsec. (c). Pub. L. 90–632, § 2(11)(C), inserted reference to court-martial composed of a military judge alone, struck out reference to oath of members, and substituted evidence previously introduced for testimony of previously examined witnesses as the body of evidence which the verbatim record must cover.
+Subsec. (c). Pub. L. 90–632, § 2(11)(C), inserted reference to court-martial composed of a military judge alone, struck out reference to oath of members, and substituted evidence previously introduced for testimony of previously examined witnesses as the body of evidence which the verbatim record must cover.
 
-Subsec. (d) Pub. L. 90–632, § 2(11)(D), added subsec. (d).
+Subsec. (d) Pub. L. 90–632, § 2(11)(D), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3823,15 +3823,15 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 **Amendments**
 
-2019—Pub. L. 116–92, div. A, title V, § 531(b)(2), Dec. 20, 2019, 133 Stat. 1359, substituted “Proceedings conducted before referral” for “Certain proceedings conducted before referral” in item 830a.
+2019—Pub. L. 116–92, div. A, title V, § 531(b)(2), Dec. 20, 2019, 133 Stat. 1359, substituted “Proceedings conducted before referral” for “Certain proceedings conducted before referral” in item 830a.
 
-2017—Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), (C), Dec. 12, 2017, 131 Stat. 1601, amended Pub. L. 114–328, § 5541(3). See 2016 Amendment note below.
+2017—Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), (C), Dec. 12, 2017, 131 Stat. 1601, amended Pub. L. 114–328, § 5541(3). See 2016 Amendment note below.
 
-2016—Pub. L. 114–328, div. E, title LXIII, § 5541(3), Dec. 23, 2016, 130 Stat. 2965, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), (C), Dec. 12, 2017, 131 Stat. 1601, added item 830a and substituted “Preliminary hearing required before referral to general court-martial” for “Preliminary hearing” in item 832, “Disposition guidance” for “Forwarding of charges” in item 833, “Advice to convening authority before referral for trial” for “Advice of staff judge advocate and reference for trial” in item 834, and “Service of charges; commencement of trial” for “Service of charges” in item 835.
+2016—Pub. L. 114–328, div. E, title LXIII, § 5541(3), Dec. 23, 2016, 130 Stat. 2965, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), (C), Dec. 12, 2017, 131 Stat. 1601, added item 830a and substituted “Preliminary hearing required before referral to general court-martial” for “Preliminary hearing” in item 832, “Disposition guidance” for “Forwarding of charges” in item 833, “Advice to convening authority before referral for trial” for “Advice of staff judge advocate and reference for trial” in item 834, and “Service of charges; commencement of trial” for “Service of charges” in item 835.
 
-2013—Pub. L. 113–66, div. A, title XVII, § 1702(a)(2), Dec. 26, 2013, 127 Stat. 955, substituted “Preliminary hearing” for “Investigation” in item 832.
+2013—Pub. L. 113–66, div. A, title XVII, § 1702(a)(2), Dec. 26, 2013, 127 Stat. 955, substituted “Preliminary hearing” for “Investigation” in item 832.
 
-### § 830. Art. 30. Charges and specifications
+### § 830. Art. 30. Charges and specifications
 
 **(a) In General.—** Charges and specifications—
 
@@ -3851,13 +3851,13 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 **(2)** determine what disposition should be made of the charges and specifications in the interest of justice and discipline.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 47; Pub. L. 114–328, div. E, title LVI, § 5201, Dec. 23, 2016, 130 Stat. 2904.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 47; Pub. L. 114–328, div. E, title LVI, § 5201, Dec. 23, 2016, 130 Stat. 2904.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 830(a) 830(b) | 50:601(a). 50:601(b). | May 5, 1950, ch. 169, § 1 (Art. 30), 64 Stat. 118. |
+| 830(a) 830(b) | 50:601(a). 50:601(b). | May 5, 1950, ch. 169, § 1 (Art. 30), 64 Stat. 118. |
 
 In subsection (a), the word “they” is substituted for the words “the same”. The word “commissioned” is inserted for clarity.
 
@@ -3883,13 +3883,13 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **Timely Disposition of Nonprosecutable Sex-Related Offenses**
 
-Pub. L. 116–92, div. A, title V, § 540C, Dec. 20, 2019, 133 Stat. 1366, provided that:
+Pub. L. 116–92, div. A, title V, § 540C, Dec. 20, 2019, 133 Stat. 1366, provided that:
 
 > **“(a) Policy Required.—** Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall develop and implement a policy to ensure the timely disposition of nonprosecutable sex-related offenses.
 
 > **“(b) Nonprosecutable Sex-related Offense Defined.—** In this section, the term ‘nonprosecutable sex-related offense’ means an alleged sex-related offense (as that term is defined in section 1044e(g) of title 10, United States Code) that a court-martial convening authority has declined to refer for trial by a general or special court-martial under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), due to a determination that there is insufficient evidence to support prosecution of the sex-related offense.”
 
-### § 830a. Art. 30a. Proceedings conducted before referral
+### § 830a. Art. 30a. Proceedings conducted before referral
 
 **(a) In General.—**
 
@@ -3927,15 +3927,15 @@ Pub. L. 116–92, div. A, title V, § 540C, Dec. 20, 2019, 133 Stat. 1366, pro
 
 **(c) Discretion to Designate Magistrate to Preside.—** In accordance with regulations prescribed by the Secretary concerned, a military judge detailed to a proceeding under subsection (a)(1), other than a proceeding described in subparagraph (B) of that subsection, may designate a military magistrate to preside over the proceeding.
 
-(Added Pub. L. 114–328, div. E, title LVI, § 5202, Dec. 23, 2016, 130 Stat. 2904; amended Pub. L. 115–91, div. A, title V, § 531(b), Dec. 12, 2017, 131 Stat. 1384; Pub. L. 116–92, div. A, title V, § 531(a), (b)(1), Dec. 20, 2019, 133 Stat. 1359.)
+(Added Pub. L. 114–328, div. E, title LVI, § 5202, Dec. 23, 2016, 130 Stat. 2904; amended Pub. L. 115–91, div. A, title V, § 531(b), Dec. 12, 2017, 131 Stat. 1384; Pub. L. 116–92, div. A, title V, § 531(a), (b)(1), Dec. 20, 2019, 133 Stat. 1359.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Pub. L. 116–92, § 531(b)(1), substituted “Proceedings conducted before referral” for “Certain proceedings conducted before referral” in section catchline.
+2019—Pub. L. 116–92, § 531(b)(1), substituted “Proceedings conducted before referral” for “Certain proceedings conducted before referral” in section catchline.
 
-Subsec. (a)(1), (2). Pub. L. 116–92, § 531(a), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+Subsec. (a)(1), (2). Pub. L. 116–92, § 531(a), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
 “(1) Proceedings may be conducted to review, or otherwise act on, the following matters before referral of charges and specifications to court-martial for trial in accordance with regulations prescribed by the President:
 
@@ -3953,9 +3953,9 @@ Subsec. (a)(1), (2). Pub. L. 116–92, § 531(a), added pars. (1) and (2) and 
 
 “(B) provide such limitations on the relief that may be ordered under this section as the President considers appropriate.”
 
-2017—Subsec. (a)(1). Pub. L. 115–91, § 531(b)(1), inserted “, or otherwise act on,” after “to review” in introductory provisions.
+2017—Subsec. (a)(1). Pub. L. 115–91, § 531(b)(1), inserted “, or otherwise act on,” after “to review” in introductory provisions.
 
-Subsec. (a)(1)(D). Pub. L. 115–91, § 531(b)(2), added subpar. (D).
+Subsec. (a)(1)(D). Pub. L. 115–91, § 531(b)(2), added subpar. (D).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3967,7 +3967,7 @@ Amendment by Pub. L. 115–91 effective immediately after this section takes eff
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. 13825, set out as notes under section 801 of this title.
 
-### § 831. Art. 31. Compulsory self-incrimination prohibited
+### § 831. Art. 31. Compulsory self-incrimination prohibited
 
 **(a)** No person subject to this chapter may compel any person to incriminate himself or to answer any question the answer to which may tend to incriminate him.
 
@@ -3983,13 +3983,13 @@ Section effective on Jan. 1, 2019, as designated by the President, with implemen
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 831(a) 831(b) | 50:602(a). 50:602(b). | May 5, 1950, ch. 169, § 1 (Art 31), 64 Stat. 118. |
+| 831(a) 831(b) | 50:602(a). 50:602(b). | May 5, 1950, ch. 169, § 1 (Art 31), 64 Stat. 118. |
 | 831(c) | 50:602(c). |  |
 | 831(d) | 50:602(d). |  |
 
 The word “may” is substituted for the word “shall” throughout the revised section.
 
-### § 832. Art. 32. Preliminary hearing required before referral to general court-martial
+### § 832. Art. 32. Preliminary hearing required before referral to general court-martial
 
 **(a) In General.—**
 
@@ -4069,13 +4069,13 @@ The word “may” is substituted for the word “shall” throughout the revise
 
 **(2)** is named in one of the specifications.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 48; Pub. L. 97–81, § 4(a), Nov. 20, 1981, 95 Stat. 1088; Pub. L. 104–106, div. A, title XI, § 1131, Feb. 10, 1996, 110 Stat. 464; Pub. L. 113–66, div. A, title XVII, § 1702(a)(1), Dec. 26, 2013, 127 Stat. 954; Pub. L. 113–291, div. A, title V, § 531(a)(4)(A), Dec. 19, 2014, 128 Stat. 3363; Pub. L. 114–328, div. E, title LVI, § 5203(a)–(d), Dec. 23, 2016, 130 Stat. 2905, 2906; Pub. L. 117–81, div. A, title V, § 536, Dec. 27, 2021, 135 Stat. 1696.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 48; Pub. L. 97–81, § 4(a), Nov. 20, 1981, 95 Stat. 1088; Pub. L. 104–106, div. A, title XI, § 1131, Feb. 10, 1996, 110 Stat. 464; Pub. L. 113–66, div. A, title XVII, § 1702(a)(1), Dec. 26, 2013, 127 Stat. 954; Pub. L. 113–291, div. A, title V, § 531(a)(4)(A), Dec. 19, 2014, 128 Stat. 3363; Pub. L. 114–328, div. E, title LVI, § 5203(a)–(d), Dec. 23, 2016, 130 Stat. 2905, 2906; Pub. L. 117–81, div. A, title V, § 536, Dec. 27, 2021, 135 Stat. 1696.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 832(a) 832(b) | 50:603(a). 50:603(b). | May 5, 1950, ch. 169, § 1 (Art. 32), 64 Stat. 118. |
+| 832(a) 832(b) | 50:603(a). 50:603(b). | May 5, 1950, ch. 169, § 1 (Art. 32), 64 Stat. 118. |
 | 832(c) | 50:603(c). |  |
 | 832(d) | 50:603(d). |  |
 
@@ -4091,31 +4091,31 @@ In subsection (d), the word “are” is substituted for the words “shall be.�
 
 **Amendments**
 
-2021—Subsec. (a)(1)(A). Pub. L. 117–81, § 536(a)(1), substituted “hearing officer detailed in accordance with subparagraph (C).” for “hearing officer, detailed by the convening authority in accordance with subsection (b).”
+2021—Subsec. (a)(1)(A). Pub. L. 117–81, § 536(a)(1), substituted “hearing officer detailed in accordance with subparagraph (C).” for “hearing officer, detailed by the convening authority in accordance with subsection (b).”
 
-Subsec. (a)(1)(B). Pub. L. 117–81, § 536(a)(2), substituted “written waiver to—” and cls. (i) and (ii) for “written waiver to the convening authority and the convening authority determines that a hearing is not required.”
+Subsec. (a)(1)(B). Pub. L. 117–81, § 536(a)(2), substituted “written waiver to—” and cls. (i) and (ii) for “written waiver to the convening authority and the convening authority determines that a hearing is not required.”
 
-Subsec. (a)(1)(C). Pub. L. 117–81, § 536(a)(3), added subpar. (C).
+Subsec. (a)(1)(C). Pub. L. 117–81, § 536(a)(3), added subpar. (C).
 
-Subsec. (c). Pub. L. 117–81, § 536(b), inserted “or Special Trial Counsel” after “Convening Authority” in heading and substituted “to the convening authority or, in the case of a preliminary hearing in which the hearing officer is provided at the request of a special trial counsel to the special trial counsel,” for “to the convening authority” in introductory provisions.
+Subsec. (c). Pub. L. 117–81, § 536(b), inserted “or Special Trial Counsel” after “Convening Authority” in heading and substituted “to the convening authority or, in the case of a preliminary hearing in which the hearing officer is provided at the request of a special trial counsel to the special trial counsel,” for “to the convening authority” in introductory provisions.
 
-2016—Pub. L. 114–328, § 5203(a), substituted “Preliminary hearing required before referral to general court-martial” for “Preliminary hearing” in section catchline.
+2016—Pub. L. 114–328, § 5203(a), substituted “Preliminary hearing required before referral to general court-martial” for “Preliminary hearing” in section catchline.
 
-Subsecs. (a) to (c). Pub. L. 114–328, § 5203(a), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which related to requirement of preliminary hearing, hearing officer, and report of hearing results, respectively.
+Subsecs. (a) to (c). Pub. L. 114–328, § 5203(a), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which related to requirement of preliminary hearing, hearing officer, and report of hearing results, respectively.
 
-Subsec. (d)(1). Pub. L. 114–328, § 5203(b)(1), substituted “this section” for “subsection (a)”.
+Subsec. (d)(1). Pub. L. 114–328, § 5203(b)(1), substituted “this section” for “subsection (a)”.
 
-Subsec. (d)(2). Pub. L. 114–328, § 5203(b)(2), substituted “that is relevant to the issues for determination under subsection (a)(2).” for “in defense and mitigation, relevant to the limited purposes of the hearing, as provided for in paragraph (4) and subsection (a)(2).”
+Subsec. (d)(2). Pub. L. 114–328, § 5203(b)(2), substituted “that is relevant to the issues for determination under subsection (a)(2).” for “in defense and mitigation, relevant to the limited purposes of the hearing, as provided for in paragraph (4) and subsection (a)(2).”
 
-Subsec. (d)(3). Pub. L. 114–328, § 5203(b)(3), inserted at end “A declination under this paragraph shall not serve as the sole basis for ordering a deposition under section 849 of this title (article 49).”
+Subsec. (d)(3). Pub. L. 114–328, § 5203(b)(3), inserted at end “A declination under this paragraph shall not serve as the sole basis for ordering a deposition under section 849 of this title (article 49).”
 
-Subsec. (d)(4). Pub. L. 114–328, § 5203(b)(4), substituted “determinations under subsection (a)(2)” for “the limited purposes of the hearing, as provided in subsection (a)(2)”.
+Subsec. (d)(4). Pub. L. 114–328, § 5203(b)(4), substituted “determinations under subsection (a)(2)” for “the limited purposes of the hearing, as provided in subsection (a)(2)”.
 
-Subsec. (e). Pub. L. 114–328, § 5203(c), substituted “under such rules as the President may prescribe” for “as prescribed by the Manual for Courts-Martial”.
+Subsec. (e). Pub. L. 114–328, § 5203(c), substituted “under such rules as the President may prescribe” for “as prescribed by the Manual for Courts-Martial”.
 
-Subsec. (g). Pub. L. 114–328, § 5203(d), inserted at end “A defect in a report under subsection (c) is not a basis for relief if the report is in substantial compliance with that subsection.”
+Subsec. (g). Pub. L. 114–328, § 5203(d), inserted at end “A defect in a report under subsection (c) is not a basis for relief if the report is in substantial compliance with that subsection.”
 
-2014—Subsec. (a)(1). Pub. L. 113–291 inserted “, unless such hearing is waived by the accused” after “preliminary hearing”.
+2014—Subsec. (a)(1). Pub. L. 113–291 inserted “, unless such hearing is waived by the accused” after “preliminary hearing”.
 
 2013—Pub. L. 113–66 substituted “Preliminary hearing” for “Investigation” in section catchline and amended text generally. Prior to amendment, section provided that no charge or specification may be referred to general court-martial for trial until thorough and impartial investigation of all the matters had been made.
 
@@ -4141,17 +4141,17 @@ Amendment by Pub. L. 113–66 effective on the later of Dec. 26, 2014, or the da
 
 Amendment by Pub. L. 97–81 to take effect at end of 60-day period beginning on Nov. 20, 1981, and to apply with respect to investigations under this section that begin on or after that date, see section 7(a) and (b)(3) of Pub. L. 97–81, set out as an Effective Date note under section 706 of this title.
 
-### § 833. Art. 33. Disposition guidance
+### § 833. Art. 33. Disposition guidance
 
 The President shall direct the Secretary of Defense to issue, in consultation with the Secretary of the department in which the Coast Guard is operating when it is not operating as a service in the Navy, non-binding guidance regarding factors that commanders, convening authorities, staff judge advocates, and judge advocates should take into account when exercising their duties with respect to disposition of charges and specifications in the interest of justice and discipline under sections 830 and 834 of this title (articles 30 and 34). Such guidance shall take into account, with appropriate consideration of military requirements, the principles contained in official guidance of the Attorney General to attorneys for the Government with respect to disposition of Federal criminal cases in accordance with the principle of fair and evenhanded administration of Federal criminal law.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 49; Pub. L. 114–328, div. E, title LVI, § 5204, Dec. 23, 2016, 130 Stat. 2906.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 49; Pub. L. 114–328, div. E, title LVI, § 5204, Dec. 23, 2016, 130 Stat. 2906.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 833 | 50:604. | May 5, 1950, ch. 169, § 1 (Art. 33), 64 Stat. 119. |
+| 833 | 50:604. | May 5, 1950, ch. 169, § 1 (Art. 33), 64 Stat. 119. |
 
 **Editorial Notes**
 
@@ -4165,7 +4165,7 @@ The President shall direct the Secretary of Defense to issue, in consultation wi
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 834. Art. 34. Advice to convening authority before referral for trial
+### § 834. Art. 34. Advice to convening authority before referral for trial
 
 **(a) General Court-martial.—**
 
@@ -4203,13 +4203,13 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **(e) Referral Defined.—** In this section, the term “referral” means the order of a convening authority or, with respect to charges and specifications over which a special trial counsel exercises authority in accordance with section 824a of this title (article 24a), a special trial counsel, that charges and specifications against an accused be tried by a specified court-martial.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 49; Pub. L. 98–209, § 4, Dec. 6, 1983, 97 Stat. 1395; Pub. L. 113–66, div. A, title XVII, § 1702(c)(3)(B), Dec. 26, 2013, 127 Stat. 957; Pub. L. 113–291, div. A, title V, § 531(a)(4)(B), Dec. 19, 2014, 128 Stat. 3363; Pub. L. 114–328, div. E, title LVI, § 5205, Dec. 23, 2016, 130 Stat. 2907; Pub. L. 117–81, div. A, title V, § 537, Dec. 27, 2021, 135 Stat. 1697.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 49; Pub. L. 98–209, § 4, Dec. 6, 1983, 97 Stat. 1395; Pub. L. 113–66, div. A, title XVII, § 1702(c)(3)(B), Dec. 26, 2013, 127 Stat. 957; Pub. L. 113–291, div. A, title V, § 531(a)(4)(B), Dec. 19, 2014, 128 Stat. 3363; Pub. L. 114–328, div. E, title LVI, § 5205, Dec. 23, 2016, 130 Stat. 2907; Pub. L. 117–81, div. A, title V, § 537, Dec. 27, 2021, 135 Stat. 1697.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 834(a) 834(b) | 50:605(a). 50:605(b). | May 5, 1950, ch. 169, § 1 (Art. 34), 64 Stat. 119. |
+| 834(a) 834(b) | 50:605(a). 50:605(b). | May 5, 1950, ch. 169, § 1 (Art. 34), 64 Stat. 119. |
 
 In subsection (a), the word “may” is substituted for the word “shall”.
 
@@ -4217,15 +4217,15 @@ In subsection (a), the word “may” is substituted for the word “shall”.
 
 **Amendments**
 
-2021—Subsec. (a)(1). Pub. L. 117–81, § 537(1), substituted “Subject to subsection (c), before referral” for “Before referral” in introductory provisions.
+2021—Subsec. (a)(1). Pub. L. 117–81, § 537(1), substituted “Subject to subsection (c), before referral” for “Before referral” in introductory provisions.
 
-Subsec. (b). Pub. L. 117–81, § 537(2), substituted “Subject to subsection (c), before referral” for “Before referral”.
+Subsec. (b). Pub. L. 117–81, § 537(2), substituted “Subject to subsection (c), before referral” for “Before referral”.
 
-Subsecs. (c), (d). Pub. L. 117–81, § 537(3), (4), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Subsecs. (c), (d). Pub. L. 117–81, § 537(3), (4), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 117–81, § 537(5), inserted “or, with respect to charges and specifications over which a special trial counsel exercises authority in accordance with section 824a of this title (article 24a), a special trial counsel,” after “convening authority”.
+Subsec. (e). Pub. L. 117–81, § 537(5), inserted “or, with respect to charges and specifications over which a special trial counsel exercises authority in accordance with section 824a of this title (article 24a), a special trial counsel,” after “convening authority”.
 
-Pub. L. 117–81, § 537(3), redesignated subsec. (d) as (e).
+Pub. L. 117–81, § 537(3), redesignated subsec. (d) as (e).
 
 2016—Pub. L. 114–328 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to reference of charge to staff judge advocate for consideration and advice before trial, written and signed statement of advice by the staff judge advocate, and corrections to charges and specifications, respectively.
 
@@ -4233,9 +4233,9 @@ Pub. L. 117–81, § 537(3), redesignated subsec. (d) as (e).
 
 2013—Subsec. (a)(2). Pub. L. 113–66 substituted “a preliminary hearing under section 832 of this title (article 32)” for “investigation under section 832 of this title (article 32) (if there is such a report)”.
 
-1983—Subsec. (a). Pub. L. 98–209, § 4(a), substituted “judge advocate” for “judge advocate or legal officer”, and provisions that the convening authority may not refer a specification under a charge to a general court-martial for trial unless he has been advised in writing by the staff judge advocate that the specification alleges an offense under this chapter, the specification is warranted by the evidence indicated in the report of investigation under section 832 of this title (article 32) (if there is such a report), and a court-martial would have jurisdiction over the accused and the offense, for provision that the convening authority could not refer a charge to a general court-martial for trial unless he found that the charge alleged an offense under this chapter and was warranted by evidence indicated in the report of investigation.
+1983—Subsec. (a). Pub. L. 98–209, § 4(a), substituted “judge advocate” for “judge advocate or legal officer”, and provisions that the convening authority may not refer a specification under a charge to a general court-martial for trial unless he has been advised in writing by the staff judge advocate that the specification alleges an offense under this chapter, the specification is warranted by the evidence indicated in the report of investigation under section 832 of this title (article 32) (if there is such a report), and a court-martial would have jurisdiction over the accused and the offense, for provision that the convening authority could not refer a charge to a general court-martial for trial unless he found that the charge alleged an offense under this chapter and was warranted by evidence indicated in the report of investigation.
 
-Subsecs. (b), (c). Pub. L. 98–209, § 4(b), added subsec. (b) and redesignated former subsec. (b) as (c).
+Subsecs. (b), (c). Pub. L. 98–209, § 4(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4257,7 +4257,7 @@ Amendment by Pub. L. 98–209 effective first day of eighth calendar month begin
 
 **Review of Decisions Not To Refer Charges of Certain Sex-Related Offenses for Trial by Court-Martial**
 
-Pub. L. 113–66, div. A, title XVII, § 1744, Dec. 26, 2013, 127 Stat. 980, as amended by Pub. L. 113–291, div. A, title V, § 541, Dec. 19, 2014, 128 Stat. 3371, provided that:
+Pub. L. 113–66, div. A, title XVII, § 1744, Dec. 26, 2013, 127 Stat. 980, as amended by Pub. L. 113–291, div. A, title V, § 541, Dec. 19, 2014, 128 Stat. 3371, provided that:
 
 > **“(a) Review Required.—**
 
@@ -4309,7 +4309,7 @@ Pub. L. 113–66, div. A, title XVII, § 1744, Dec. 26, 2013, 127 Stat. 980, a
 
 > **“(g) Victim Allegation of Sex-related Offense.—** The Secretary of Defense shall require the Secretaries of the military departments to develop a system to ensure that a victim of a possible sex-related offense under the Uniform Code of Military Justice is given the opportunity to state, either at the time of making an unrestricted report of the allegation or during the criminal investigation of the allegation, whether or not the victim believes that the offense alleged is a sex-related offense subject to the requirements of this section.”
 
-### § 835. Art. 35. Service of charges; commencement of trial
+### § 835. Art. 35. Service of charges; commencement of trial
 
 **(a) In General.—** Trial counsel detailed for a court-martial under section 827 of this title (article 27) shall cause to be served upon the accused a copy of the charges and specifications referred for trial.
 
@@ -4325,13 +4325,13 @@ Pub. L. 113–66, div. A, title XVII, § 1744, Dec. 26, 2013, 127 Stat. 980, a
 
 **(3)** This subsection shall not apply in time of war.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 49; Pub. L. 90–632, § 2(12), Oct. 24, 1968, 82 Stat. 1337; Pub. L. 114–328, div. E, title LVI, § 5206, Dec. 23, 2016, 130 Stat. 2908.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 49; Pub. L. 90–632, § 2(12), Oct. 24, 1968, 82 Stat. 1337; Pub. L. 114–328, div. E, title LVI, § 5206, Dec. 23, 2016, 130 Stat. 2908.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 835 | 50:606. | May 5, 1950, ch. 169, § 1 (Art. 35), 64 Stat. 119. |
+| 835 | 50:606. | May 5, 1950, ch. 169, § 1 (Art. 35), 64 Stat. 119. |
 
 The word “may” is substituted for the word “shall”. The word “after” is substituted for the words “subsequent to”.
 
@@ -4383,29 +4383,29 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 **Amendments**
 
-2021—Pub. L. 116–283, div. A, title X, § 1081(a)(20), Jan. 1, 2021, 134 Stat. 3871, added item 837 and struck out former item 837 “837. Art. 37. Command influence”.
+2021—Pub. L. 116–283, div. A, title X, § 1081(a)(20), Jan. 1, 2021, 134 Stat. 3871, added item 837 and struck out former item 837 “837. Art. 37. Command influence”.
 
-2019—Pub. L. 116–92, div. A, title V, § 532(b), Dec. 20, 2019, 133 Stat. 1361, in item 837 substituted “Art. 37. Command influence” for “37. Unlawfully influencing action of court”.
+2019—Pub. L. 116–92, div. A, title V, § 532(b), Dec. 20, 2019, 133 Stat. 1361, in item 837 substituted “Art. 37. Command influence” for “37. Unlawfully influencing action of court”.
 
-2017—Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, made technical amendment to Pub. L. 114–328, § 5541(4). See 2016 Amendment note below.
+2017—Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, made technical amendment to Pub. L. 114–328, § 5541(4). See 2016 Amendment note below.
 
-2016—Pub. L. 114–328, div. E, title LXIII, § 5541(4), Dec. 23, 2016, 130 Stat. 2966, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, added item 853a and substituted “Opportunity to obtain witnesses and other evidence in trials by court-martial” for “Opportunity to obtain witnesses and other evidence” in item 846, “Refusal of person not subject to chapter to appear, testify, or produce evidence” for “Refusal to appear or testify” in item 847, “Contempt” for “Contempts” in item 848, “Admissibility of sworn testimony from records of courts of inquiry” for “Admissibility of records of courts of inquiry” in item 850, “Votes required for conviction, sentencing, and other matters” for “Number of votes required” in item 852, and “Findings and sentencing” for “Court to announce action” in item 853.
+2016—Pub. L. 114–328, div. E, title LXIII, § 5541(4), Dec. 23, 2016, 130 Stat. 2966, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, added item 853a and substituted “Opportunity to obtain witnesses and other evidence in trials by court-martial” for “Opportunity to obtain witnesses and other evidence” in item 846, “Refusal of person not subject to chapter to appear, testify, or produce evidence” for “Refusal to appear or testify” in item 847, “Contempt” for “Contempts” in item 848, “Admissibility of sworn testimony from records of courts of inquiry” for “Admissibility of records of courts of inquiry” in item 850, “Votes required for conviction, sentencing, and other matters” for “Number of votes required” in item 852, and “Findings and sentencing” for “Court to announce action” in item 853.
 
-1986—Pub. L. 99–661, div. A, title VIII, § 802(a)(2), Nov. 14, 1986, 100 Stat. 3906, added item 850a.
+1986—Pub. L. 99–661, div. A, title VIII, § 802(a)(2), Nov. 14, 1986, 100 Stat. 3906, added item 850a.
 
-### § 836. Art. 36. President may prescribe rules
+### § 836. Art. 36. President may prescribe rules
 
 **(a)** Pretrial, trial, and post-trial procedures, including modes of proof, for cases arising under this chapter triable in courts-martial, military commissions and other military tribunals, and procedures for courts of inquiry, may be prescribed by the President by regulations which shall, so far as he considers practicable, apply the principles of law and the rules of evidence generally recognized in the trial of criminal cases in the United States district courts, but which may not, except as provided in chapter 47A of this title, be contrary to or inconsistent with this chapter.
 
 **(b)** All rules and regulations made under this article shall be uniform insofar as practicable, except insofar as applicable to military commissions established under chapter 47A of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 50; Pub. L. 96–107, title VIII, § 801(b), Nov. 9, 1979, 93 Stat. 811; Pub. L. 101–510, div. A, title XIII, § 1301(4), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 109–366, § 4(a)(3), Oct. 17, 2006, 120 Stat. 2631.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 50; Pub. L. 96–107, title VIII, § 801(b), Nov. 9, 1979, 93 Stat. 811; Pub. L. 101–510, div. A, title XIII, § 1301(4), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 109–366, § 4(a)(3), Oct. 17, 2006, 120 Stat. 2631.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 836(a) 836(b) | 50:611(a). 50:611(b). | May 5, 1950, ch. 169, § 1 (Art. 36), 64 Stat. 120. |
+| 836(a) 836(b) | 50:611(a). 50:611(b). | May 5, 1950, ch. 169, § 1 (Art. 36), 64 Stat. 120. |
 
 In subsection (a), the word “considers” is substituted for the word “deems”. The word “may” is substituted for the word “shall”.
 
@@ -4415,15 +4415,15 @@ In subsection (b), the word “under” is substituted for the words “in pursu
 
 **Amendments**
 
-2006—Subsec. (a). Pub. L. 109–366, § 4(a)(3)(A), inserted “, except as provided in chapter 47A of this title,” after “but which may not”.
+2006—Subsec. (a). Pub. L. 109–366, § 4(a)(3)(A), inserted “, except as provided in chapter 47A of this title,” after “but which may not”.
 
-Subsec. (b). Pub. L. 109–366, § 4(a)(3)(B), inserted before period at end “, except insofar as applicable to military commissions established under chapter 47A of this title”.
+Subsec. (b). Pub. L. 109–366, § 4(a)(3)(B), inserted before period at end “, except insofar as applicable to military commissions established under chapter 47A of this title”.
 
 1990—Subsec. (b). Pub. L. 101–510 struck out “and shall be reported to Congress” after “as practicable”.
 
 1979—Subsec. (a). Pub. L. 96–107 substituted provisions authorizing pretrial, trial, and post-trial procedures for cases under this chapter triable in courts-martial, military commissions and other military tribunals, for provisions authorizing procedure in cases before courts-martial, military commissions, and other military tribunals.
 
-### § 837. Art. 37. Command influence
+### § 837. Art. 37. Command influence
 
 **(a)**
 
@@ -4461,13 +4461,13 @@ Subsec. (b). Pub. L. 109–366, § 4(a)(3)(B), inserted before period at end �
 
 **(2)** Except as provided in paragraph (1) or as otherwise authorized by this chapter, a superior convening authority or commanding officer may not limit the discretion of a subordinate convening authority or officer to act with respect to a case for which the subordinate convening authority or officer has authority to dispose of the offenses.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 50; Pub. L. 90–632, § 2(13), Oct. 24, 1968, 82 Stat. 1338; Pub. L. 116–92, div. A, title V, § 532(a), Dec. 20, 2019, 133 Stat. 1359.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 50; Pub. L. 90–632, § 2(13), Oct. 24, 1968, 82 Stat. 1338; Pub. L. 116–92, div. A, title V, § 532(a), Dec. 20, 2019, 133 Stat. 1359.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 837 | 50:612. | May 5, 1950, ch. 169, § 1 (Art. 37), 64 Stat. 120. |
+| 837 | 50:612. | May 5, 1950, ch. 169, § 1 (Art. 37), 64 Stat. 120. |
 
 The word “may” is substituted for the word “shall”.
 
@@ -4475,13 +4475,13 @@ The word “may” is substituted for the word “shall”.
 
 **Amendments**
 
-2019—Pub. L. 116–92, § 532(a)(1), substituted “Command influence” for “Unlawfully influencing action of court” in section catchline.
+2019—Pub. L. 116–92, § 532(a)(1), substituted “Command influence” for “Unlawfully influencing action of court” in section catchline.
 
-Subsec. (a). Pub. L. 116–92, § 532(a)(2), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “No authority convening a general, special, or summary court-martial, nor any other commanding officer, may censure, reprimand, or admonish the court or any member, military judge, or counsel thereof, with respect to the findings or sentence adjudged by the court, or with respect to any other exercise of its or his functions in the conduct of the proceeding. No person subject to this chapter may attempt to coerce or, by any unauthorized means, influence the action of a court-martial or any other military tribunal or any member thereof, in reaching the findings or sentence in any case, or the action of any convening, approving, or reviewing authority with respect to his judicial acts. The foregoing provisions of the subsection shall not apply with respect to (1) general instructional or informational courses in military justice if such courses are designed solely for the purpose of instructing members of a command in the substantive and procedural aspects of courts-martial, or (2) to statements and instructions given in open court by the military judge, president of a special court-martial, or counsel.”
+Subsec. (a). Pub. L. 116–92, § 532(a)(2), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “No authority convening a general, special, or summary court-martial, nor any other commanding officer, may censure, reprimand, or admonish the court or any member, military judge, or counsel thereof, with respect to the findings or sentence adjudged by the court, or with respect to any other exercise of its or his functions in the conduct of the proceeding. No person subject to this chapter may attempt to coerce or, by any unauthorized means, influence the action of a court-martial or any other military tribunal or any member thereof, in reaching the findings or sentence in any case, or the action of any convening, approving, or reviewing authority with respect to his judicial acts. The foregoing provisions of the subsection shall not apply with respect to (1) general instructional or informational courses in military justice if such courses are designed solely for the purpose of instructing members of a command in the substantive and procedural aspects of courts-martial, or (2) to statements and instructions given in open court by the military judge, president of a special court-martial, or counsel.”
 
-Subsec. (b). Pub. L. 116–92, § 532(a)(3), substituted “advanced in grade” for “advanced, in grade” and “person in a court-martial proceeding” for “accused before a court-martial”.
+Subsec. (b). Pub. L. 116–92, § 532(a)(3), substituted “advanced in grade” for “advanced, in grade” and “person in a court-martial proceeding” for “accused before a court-martial”.
 
-Subsecs. (c), (d). Pub. L. 116–92, § 532(a)(4), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 116–92, § 532(a)(4), added subsecs. (c) and (d).
 
 1968—Pub. L. 90–632 designated existing provisions as subsec. (a), substituted “military judge” for “law officer”, inserted provisions specifically exempting instructional or general informational lectures on military justice and statements and instructions given in open court by the military judge, president of a special court-martial, or counsel from prohibitions of subsec. (a), and added subsec. (b).
 
@@ -4489,13 +4489,13 @@ Subsecs. (c), (d). Pub. L. 116–92, § 532(a)(4), added subsecs. (c) and (d).
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–92, div. A, title V, § 532(c), Dec. 20, 2019, 133 Stat. 1361, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 20, 2019] and shall apply with respect to violations of section 837 of title 10, United States Code (article 37 of the Uniform Code of Military Justice), committed on or after such date.”
+Pub. L. 116–92, div. A, title V, § 532(c), Dec. 20, 2019, 133 Stat. 1361, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 20, 2019] and shall apply with respect to violations of section 837 of title 10, United States Code (article 37 of the Uniform Code of Military Justice), committed on or after such date.”
 
 **Effective Date of 1968 Amendment**
 
 Amendment by Pub. L. 90–632 effective first day of tenth month following October 1968, see section 4 of Pub. L. 90–632, set out as a note under section 801 of this title.
 
-### § 838. Art. 38. Duties of trial counsel and defense counsel
+### § 838. Art. 38. Duties of trial counsel and defense counsel
 
 **(a)** The trial counsel of a general or special court-martial shall prosecute in the name of the United States, and shall, under the direction of the court, prepare the record of the proceedings.
 
@@ -4535,13 +4535,13 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 **(e)** An assistant defense counsel of a general or special court-martial may perform any duty imposed by law, regulation, or the custom of the service upon counsel for the accused.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 50; Pub. L. 90–632, § 2(14), Oct. 24, 1968, 82 Stat. 1338; Pub. L. 97–81, § 4(b), Nov. 20, 1981, 95 Stat. 1088; Pub. L. 98–209, § 3(e), Dec. 6, 1983, 97 Stat. 1394; Pub. L. 104–106, div. A, title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 113–66, div. A, title XVII, § 1702(c)(3)(C), Dec. 26, 2013, 127 Stat. 957; Pub. L. 114–328, div. E, title LVII, § 5221, Dec. 23, 2016, 130 Stat. 2909; Pub. L. 115–91, div. A, title V, § 531(c), Dec. 12, 2017, 131 Stat. 1384.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 50; Pub. L. 90–632, § 2(14), Oct. 24, 1968, 82 Stat. 1338; Pub. L. 97–81, § 4(b), Nov. 20, 1981, 95 Stat. 1088; Pub. L. 98–209, § 3(e), Dec. 6, 1983, 97 Stat. 1394; Pub. L. 104–106, div. A, title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 113–66, div. A, title XVII, § 1702(c)(3)(C), Dec. 26, 2013, 127 Stat. 957; Pub. L. 114–328, div. E, title LVII, § 5221, Dec. 23, 2016, 130 Stat. 2909; Pub. L. 115–91, div. A, title V, § 531(c), Dec. 12, 2017, 131 Stat. 1384.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 838(a) 838(b) 838(c) | 50:613(a). 50:613(b). 50:613(c). | May 5, 1950, ch. 169, § 1 (Art. 38), 64 Stat. 120. |
+| 838(a) 838(b) 838(c) | 50:613(a). 50:613(b). 50:613(c). | May 5, 1950, ch. 169, § 1 (Art. 38), 64 Stat. 120. |
 | 838(d) | 50:613(d). |  |
 | 838(e) | 50:613(e). |  |
 
@@ -4555,7 +4555,7 @@ In subsection (c), the word “considers” is substituted for the words “may 
 
 2017—Subsec. (c)(2). Pub. L. 115–91 substituted “section 860, 860a, or 860b of this title (article 60, 60a, or 60b)” for “section 860 of this title (article 60)”.
 
-2016—Subsec. (e). Pub. L. 114–328 struck out “, under the direction of the defense counsel or when he is qualified to be the defense counsel as required by section 827 of this title (article 27),” after “court-martial may”.
+2016—Subsec. (e). Pub. L. 114–328 struck out “, under the direction of the defense counsel or when he is qualified to be the defense counsel as required by section 827 of this title (article 27),” after “court-martial may”.
 
 2013—Subsec. (b)(1). Pub. L. 113–66 substituted “a preliminary hearing under section 832” for “an investigation under section 832”.
 
@@ -4563,11 +4563,11 @@ In subsection (c), the word “considers” is substituted for the words “may 
 
 1996—Subsec. (b)(7). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
-1983—Subsec. (b)(6). Pub. L. 98–209, § 3(e)(1), substituted “the person authorized under regulations prescribed under section 827 of this title (article 27) to detail counsel” for “a convening authority”.
+1983—Subsec. (b)(6). Pub. L. 98–209, § 3(e)(1), substituted “the person authorized under regulations prescribed under section 827 of this title (article 27) to detail counsel” for “a convening authority”.
 
-Subsec. (b)(7). Pub. L. 98–209, § 3(e)(2), inserted provision that such regulations may not prescribe any limitation based on the reasonable availability of counsel solely on the grounds that the counsel selected by the accused is from an armed force other than the armed force of which the accused is a member.
+Subsec. (b)(7). Pub. L. 98–209, § 3(e)(2), inserted provision that such regulations may not prescribe any limitation based on the reasonable availability of counsel solely on the grounds that the counsel selected by the accused is from an armed force other than the armed force of which the accused is a member.
 
-Subsec. (c). Pub. L. 98–209, § 3(e)(3), designated existing provisions as par. (1), made minor changes in phraseology and punctuation, and added pars. (2) and (3).
+Subsec. (c). Pub. L. 98–209, § 3(e)(3), designated existing provisions as par. (1), made minor changes in phraseology and punctuation, and added pars. (2) and (3).
 
 1981—Subsec. (b). Pub. L. 97–81 revised subsec. (b) by dividing its provisions into seven numbered paragraphs and inserted provisions relating to the right to counsel at an investigation under section 832 of this title (article 32), authorizing the promulgation of regulations relating to the “reasonable availability” of military counsel, and authorizing the detailing of additional military counsel for the accused under specified circumstances.
 
@@ -4577,7 +4577,7 @@ Subsec. (c). Pub. L. 98–209, § 3(e)(3), designated existing provisions as p
 
 **Effective Date of 2017 Amendment**
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 **Effective Date of 2016 Amendment**
 
@@ -4599,7 +4599,7 @@ Amendment by Pub. L. 97–81 to take effect at end of 60-day period beginning on
 
 Amendment by Pub. L. 90–632 effective on first day of tenth month following October 1968, see section 4 of Pub. L. 90–632, set out as a note under section 801 of this title.
 
-### § 839. Art. 39. Sessions
+### § 839. Art. 39. Sessions
 
 **(a)** At any time after the service of charges which have been referred for trial to a court-martial composed of a military judge and members, the military judge may, subject to section 835 of this title (article 35), call the court into session without the presence of the members for the purpose of—
 
@@ -4623,13 +4623,13 @@ Amendment by Pub. L. 90–632 effective on first day of tenth month following Oc
 
 **(2)** may not form the basis of any holding, decision, or other determination of a court-martial.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 51; Pub. L. 90–632, § 2(15), Oct. 24, 1968, 82 Stat. 1338; Pub. L. 101–510, div. A, title V, § 541(a), Nov. 5, 1990, 104 Stat. 1565; Pub. L. 109–163, div. A, title V, § 556, Jan. 6, 2006, 119 Stat. 3266; Pub. L. 111–84, div. A, title XVIII, § 1803(a)(2), Oct. 28, 2009, 123 Stat. 2612; Pub. L. 114–328, div. E, title LVII, § 5222, Dec. 23, 2016, 130 Stat. 2909; Pub. L. 115–91, div. A, title X, § 1081(c)(1)(D), Dec. 12, 2017, 131 Stat. 1598.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 51; Pub. L. 90–632, § 2(15), Oct. 24, 1968, 82 Stat. 1338; Pub. L. 101–510, div. A, title V, § 541(a), Nov. 5, 1990, 104 Stat. 1565; Pub. L. 109–163, div. A, title V, § 556, Jan. 6, 2006, 119 Stat. 3266; Pub. L. 111–84, div. A, title XVIII, § 1803(a)(2), Oct. 28, 2009, 123 Stat. 2612; Pub. L. 114–328, div. E, title LVII, § 5222, Dec. 23, 2016, 130 Stat. 2909; Pub. L. 115–91, div. A, title X, § 1081(c)(1)(D), Dec. 12, 2017, 131 Stat. 1598.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 839 | 50:614. | May 5, 1950, ch. 169, § 1 (Art. 39), 64 Stat. 121. |
+| 839 | 50:614. | May 5, 1950, ch. 169, § 1 (Art. 39), 64 Stat. 121. |
 
 The word “When” is substituted for the word “Whenever”. The words “deliberates or votes” are substituted for the words “is to deliberate or vote”. The word “may” is substituted for the word “shall”. The word “shall” is inserted before the words “be in the presence” for clarity.
 
@@ -4639,11 +4639,11 @@ The word “When” is substituted for the word “Whenever”. The words “del
 
 2017—Subsec. (a)(4). Pub. L. 115–91 substituted “under section 853(b)(1) of this title (article 53(b)(1))” for “in non-capital cases unless the accused requests sentencing by members under section 825 of this title (article 25)”.
 
-2016—Subsec. (a)(3). Pub. L. 114–328, § 5222(1)(A), struck out “if permitted by regulations of the Secretary concerned,” before “holding” and “and” after “accused;”.
+2016—Subsec. (a)(3). Pub. L. 114–328, § 5222(1)(A), struck out “if permitted by regulations of the Secretary concerned,” before “holding” and “and” after “accused;”.
 
-Subsec. (a)(4), (5). Pub. L. 114–328, § 5222(1)(B), (C), added par. (4) and redesignated former par. (4) as (5).
+Subsec. (a)(4), (5). Pub. L. 114–328, § 5222(1)(B), (C), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (c). Pub. L. 114–328, § 5222(2), struck out “, in cases in which a military judge has been detailed to the court,” after “the trial counsel, and”.
+Subsec. (c). Pub. L. 114–328, § 5222(2), struck out “, in cases in which a military judge has been detailed to the court,” after “the trial counsel, and”.
 
 2009—Subsec. (d). Pub. L. 111–84 added subsec. (d).
 
@@ -4657,7 +4657,7 @@ Subsec. (c). Pub. L. 114–328, § 5222(2), struck out “, in cases in whic
 
 **Effective Date of 2017 Amendment**
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 **Effective Date of 2016 Amendment**
 
@@ -4665,23 +4665,23 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–510, div. A, title V, § 541(e), Nov. 5, 1990, 104 Stat. 1565, provided that: “The amendments made by subsections (a) through (d) [amending this section and section 841 of this title] shall apply only to a court-martial convened on or after the date of the enactment of this Act [Nov. 5, 1990].”
+Pub. L. 101–510, div. A, title V, § 541(e), Nov. 5, 1990, 104 Stat. 1565, provided that: “The amendments made by subsections (a) through (d) [amending this section and section 841 of this title] shall apply only to a court-martial convened on or after the date of the enactment of this Act [Nov. 5, 1990].”
 
 **Effective Date of 1968 Amendment**
 
 Amendment by Pub. L. 90–632 effective first day of tenth month following October 1968, see section 4 of Pub. L. 90–632, set out as a note under section 801 of this title.
 
-### § 840. Art. 40. Continuances
+### § 840. Art. 40. Continuances
 
 The military judge or a summary court-martial may, for reasonable cause, grant a continuance to any party for such time, and as often, as may appear to be just.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 51; Pub. L. 90–632, § 2(16), Oct. 24, 1968, 82 Stat. 1339; Pub. L. 114–328, div. E, title LVII, § 5223, Dec. 23, 2016, 130 Stat. 2909.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 51; Pub. L. 90–632, § 2(16), Oct. 24, 1968, 82 Stat. 1339; Pub. L. 114–328, div. E, title LVII, § 5223, Dec. 23, 2016, 130 Stat. 2909.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 840 | 50:615. | May 5, 1950, ch. 169, § 1 (Art. 40), 64 Stat. 121. |
+| 840 | 50:615. | May 5, 1950, ch. 169, § 1 (Art. 40), 64 Stat. 121. |
 
 **Editorial Notes**
 
@@ -4701,7 +4701,7 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 Amendment by Pub. L. 90–632 effective first day of tenth month following October 1968, see section 4 of Pub. L. 90–632, set out as a note under section 801 of this title.
 
-### § 841. Art. 41. Challenges
+### § 841. Art. 41. Challenges
 
 **(a)**
 
@@ -4717,13 +4717,13 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 **(c)** Whenever additional members are detailed to the court, and after any challenges for cause against such additional members are presented and decided, each accused and the trial counsel are entitled to one peremptory challenge against members not previously subject to peremptory challenge.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 51; Pub. L. 90–632, § 2(17), Oct. 24, 1968, 82 Stat. 1339; Pub. L. 101–510, div. A, title V, § 541(b)–(d), Nov. 5, 1990, 104 Stat. 1565; Pub. L. 111–383, div. A, title X, § 1075(b)(13), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 114–328, div. E, title LVII, § 5224, Dec. 23, 2016, 130 Stat. 2909.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 51; Pub. L. 90–632, § 2(17), Oct. 24, 1968, 82 Stat. 1339; Pub. L. 101–510, div. A, title V, § 541(b)–(d), Nov. 5, 1990, 104 Stat. 1565; Pub. L. 111–383, div. A, title X, § 1075(b)(13), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 114–328, div. E, title LVII, § 5224, Dec. 23, 2016, 130 Stat. 2909.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 841(a) 841(b) | 50:616(a). 50:616(b). | May 5, 1950, ch. 169, § 1 (Art. 41), 64 Stat. 121. |
+| 841(a) 841(b) | 50:616(a). 50:616(b). | May 5, 1950, ch. 169, § 1 (Art. 41), 64 Stat. 121. |
 
 In subsection (a), the word “may” is substituted for the word “shall” before the words “not receive”.
 
@@ -4733,23 +4733,23 @@ In subsection (b), the word “the” is inserted before the word “trial”. T
 
 **Amendments**
 
-2016—Subsec. (a)(1). Pub. L. 114–328, § 5224(1), struck out “, or, if none, the court,” before “shall determine”.
+2016—Subsec. (a)(1). Pub. L. 114–328, § 5224(1), struck out “, or, if none, the court,” before “shall determine”.
 
-Subsec. (a)(2). Pub. L. 114–328, § 5224(2), struck out “minimum” after “below the”.
+Subsec. (a)(2). Pub. L. 114–328, § 5224(2), struck out “minimum” after “below the”.
 
-Subsec. (b)(2). Pub. L. 114–328, § 5224(3), struck out “minimum” after “below the”.
+Subsec. (b)(2). Pub. L. 114–328, § 5224(3), struck out “minimum” after “below the”.
 
 2011—Subsec. (c). Pub. L. 111–383 substituted “trial counsel” for “trail counsel”.
 
-1990—Subsec. (a). Pub. L. 101–510, § 541(b), designated existing provision as par. (1) and added par. (2).
+1990—Subsec. (a). Pub. L. 101–510, § 541(b), designated existing provision as par. (1) and added par. (2).
 
-Subsec. (b). Pub. L. 101–510, § 541(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Each accused and the trial counsel is entitled to one peremptory challenge, but the military judge may not be challenged except for cause.”
+Subsec. (b). Pub. L. 101–510, § 541(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Each accused and the trial counsel is entitled to one peremptory challenge, but the military judge may not be challenged except for cause.”
 
-Subsec. (c). Pub. L. 101–510, § 541(d), added subsec. (c).
+Subsec. (c). Pub. L. 101–510, § 541(d), added subsec. (c).
 
-1968—Subsec. (a). Pub. L. 90–632, § 2(17)(A), (B), inserted reference to the military judge and struck out references to the law officer of a general court-martial.
+1968—Subsec. (a). Pub. L. 90–632, § 2(17)(A), (B), inserted reference to the military judge and struck out references to the law officer of a general court-martial.
 
-Subsec. (b). Pub. L. 90–632, § 2(17)(C), substituted “military judge” for “law officer”.
+Subsec. (b). Pub. L. 90–632, § 2(17)(C), substituted “military judge” for “law officer”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4765,19 +4765,19 @@ Amendment by Pub. L. 101–510 applicable only to court-martial convened on or a
 
 Amendment by Pub. L. 90–632 effective first day of tenth month following October 1968, see section 4 of Pub. L. 90–632, set out as a note under section 801 of this title.
 
-### § 842. Art. 42. Oaths
+### § 842. Art. 42. Oaths
 
 **(a)** Before performing their respective duties, military judges, members of general and special courts-martial, trial counsel, assistant trial counsel, defense counsel, assistant or associate defense counsel, reporters, and interpreters shall take an oath to perform their duties faithfully. The form of the oath, the time and place of the taking thereof, the manner of recording the same, and whether the oath shall be taken for all cases in which these duties are to be performed or for a particular case, shall be as prescribed in regulations of the Secretary concerned. These regulations may provide that an oath to perform faithfully duties as a military judge, trial counsel, assistant trial counsel, defense counsel, or assistant or associate defense counsel may be taken at any time by any judge advocate or other person certified to be qualified or competent for the duty, and if such an oath is taken it need not again be taken at the time the judge advocate or other person is detailed to that duty.
 
 **(b)** Each witness before a court-martial shall be examined on oath.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 51; Pub. L. 90–632, § 2(18), Oct. 24, 1968, 82 Stat. 1339; Pub. L. 98–209, §§ 2(e), 3(f), Dec. 6, 1983, 97 Stat. 1393, 1395.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 51; Pub. L. 90–632, § 2(18), Oct. 24, 1968, 82 Stat. 1339; Pub. L. 98–209, §§ 2(e), 3(f), Dec. 6, 1983, 97 Stat. 1393, 1395.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 842(a) 842(b) | 50:617(a). 50:617(b). | May 5, 1950, ch. 169, § 1 (Art. 42), 64 Stat. 121. |
+| 842(a) 842(b) | 50:617(a). 50:617(b). | May 5, 1950, ch. 169, § 1 (Art. 42), 64 Stat. 121. |
 
 In subsection (a), the word “all” and the word “the” before the words “members”, “trial”, “defense”, and “reporter” are omitted as surplusage.
 
@@ -4789,7 +4789,7 @@ In subsection (b), the words “Each witness” are substituted for the words �
 
 **Amendments**
 
-1983—Subsec. (a). Pub. L. 98–209 struck out “, law specialist,” after “judge advocate” in two places, substituted “assistant or associate defense counsel” for “assistant defense counsel”.
+1983—Subsec. (a). Pub. L. 98–209 struck out “, law specialist,” after “judge advocate” in two places, substituted “assistant or associate defense counsel” for “assistant defense counsel”.
 
 1968—Subsec. (a). Pub. L. 90–632 struck out requirement that the oath given to court-martial personnel be taken in the presence of the accused and provided that the form of the oath, the time and place of its taking, the manner of recording thereof, and whether the oath shall be taken for all cases or for a particular case shall be as prescribed by regulations of the Secretary concerned and contemplated secretarial regulations allowing the administration of an oath to certified legal personnel on a one-time basis.
 
@@ -4803,7 +4803,7 @@ Amendment by Pub. L. 98–209 effective first day of eighth calendar month begin
 
 Amendment by Pub. L. 90–632 effective first day of tenth month following October 1968, see section 4 of Pub. L. 90–632, set out as a note under section 801 of this title.
 
-### § 843. Art. 43. Statute of limitations
+### § 843. Art. 43. Statute of limitations
 
 **(a) No Limitation for Certain Offenses.—** A person charged with absence without leave or missing movement in time of war, with murder, rape or sexual assault, or rape or sexual assault of a child, maiming of a child, kidnapping of a child, or with any other offense punishable by death, may be tried and punished at any time without limitation.
 
@@ -4865,13 +4865,13 @@ trial and punishment under new charges and specifications are not barred by the 
 
 **(i) DNA Evidence.—** If DNA testing implicates an identified person in the commission of an offense punishable by confinement for more than one year, no statute of limitations that would otherwise preclude prosecution of the offense shall preclude such prosecution until a period of time following the implication of the person by DNA testing has elapsed that is equal to the otherwise applicable limitation period.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 51; Pub. L. 99–661, div. A, title VIII, § 805(a), (b), Nov. 14, 1986, 100 Stat. 3908; Pub. L. 108–136, div. A, title V, § 551, Nov. 24, 2003, 117 Stat. 1481; Pub. L. 109–163, div. A, title V, §§ 552(e), 553, Jan. 6, 2006, 119 Stat. 3263, 3264; Pub. L. 109–364, div. A, title X, § 1071(a)(4), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 111–383, div. A, title X, § 1075(b)(14), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 112–81, div. A, title V, § 541(d)(1), Dec. 31, 2011, 125 Stat. 1410; Pub. L. 112–239, div. A, title X, § 1076(f)(8), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 113–66, div. A, title XVII, § 1703(a), (b), Dec. 26, 2013, 127 Stat. 958; Pub. L. 113–291, div. A, title V, § 531(d)(2)(A), Dec. 19, 2014, 128 Stat. 3364; Pub. L. 114–328, div. E, title LVII, § 5225(a)–(e), Dec. 23, 2016, 130 Stat. 2909, 2910; Pub. L. 115–91, div. A, title X, § 1081(c)(1)(E), Dec. 12, 2017, 131 Stat. 1598; Pub. L. 116–92, div. A, title V, § 533(a), Dec. 20, 2019, 133 Stat. 1361.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 51; Pub. L. 99–661, div. A, title VIII, § 805(a), (b), Nov. 14, 1986, 100 Stat. 3908; Pub. L. 108–136, div. A, title V, § 551, Nov. 24, 2003, 117 Stat. 1481; Pub. L. 109–163, div. A, title V, §§ 552(e), 553, Jan. 6, 2006, 119 Stat. 3263, 3264; Pub. L. 109–364, div. A, title X, § 1071(a)(4), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 111–383, div. A, title X, § 1075(b)(14), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 112–81, div. A, title V, § 541(d)(1), Dec. 31, 2011, 125 Stat. 1410; Pub. L. 112–239, div. A, title X, § 1076(f)(8), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 113–66, div. A, title XVII, § 1703(a), (b), Dec. 26, 2013, 127 Stat. 958; Pub. L. 113–291, div. A, title V, § 531(d)(2)(A), Dec. 19, 2014, 128 Stat. 3364; Pub. L. 114–328, div. E, title LVII, § 5225(a)–(e), Dec. 23, 2016, 130 Stat. 2909, 2910; Pub. L. 115–91, div. A, title X, § 1081(c)(1)(E), Dec. 12, 2017, 131 Stat. 1598; Pub. L. 116–92, div. A, title V, § 533(a), Dec. 20, 2019, 133 Stat. 1361.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 843(a) 843(b) | 50:618(a). 50:618(b). | May 5, 1950, ch. 169, § 1 (Art. 43), 64 Stat. 121. |
+| 843(a) 843(b) | 50:618(a). 50:618(b). | May 5, 1950, ch. 169, § 1 (Art. 43), 64 Stat. 121. |
 | 843(c) | 50:618(c). |  |
 | 843(d) | 50:618(d). |  |
 | 843(e) | 50:618(e). |  |
@@ -4889,9 +4889,9 @@ In subsection (f), the word “is” is substituted for the words “shall be”
 
 **Amendments**
 
-2019—Subsec. (a). Pub. L. 116–92, § 533(a)(1), inserted “maiming of a child, kidnapping of a child,” after “sexual assault of a child,”.
+2019—Subsec. (a). Pub. L. 116–92, § 533(a)(1), inserted “maiming of a child, kidnapping of a child,” after “sexual assault of a child,”.
 
-Subsec. (b)(2)(B)(ii) to (iv). Pub. L. 116–92, § 533(a)(2), redesignated cl. (iii) as (ii) and struck out former cls. (ii) and (iv) which read as follows:
+Subsec. (b)(2)(B)(ii) to (iv). Pub. L. 116–92, § 533(a)(2), redesignated cl. (iii) as (ii) and struck out former cls. (ii) and (iv) which read as follows:
 
 “(ii) Maiming in violation of section 928a of this title (article 128a).
 
@@ -4899,11 +4899,11 @@ Subsec. (b)(2)(B)(ii) to (iv). Pub. L. 116–92, § 533(a)(2), redesignated cl
 
 2017—Subsec. (i). Pub. L. 115–91 substituted “DNA Evidence” for “Dna Evidence” in heading.
 
-2016—Pub. L. 114–328, § 5225(e), inserted headings in subsecs. (a) to (g).
+2016—Pub. L. 114–328, § 5225(e), inserted headings in subsecs. (a) to (g).
 
-Subsec. (b)(2)(A). Pub. L. 114–328, § 5225(a), substituted “ten years” for “five years”.
+Subsec. (b)(2)(A). Pub. L. 114–328, § 5225(a), substituted “ten years” for “five years”.
 
-Subsec. (b)(2)(B)(i) to (v). Pub. L. 114–328, § 5225(d), added pars. (i) to (iv) and struck out former pars. (i) to (v) which read as follows:
+Subsec. (b)(2)(B)(i) to (v). Pub. L. 114–328, § 5225(d), added pars. (i) to (iv) and struck out former pars. (i) to (v) which read as follows:
 
 “(i) Any offense in violation of section 920, 920a, 920b, or 920c of this title (article 120, 120a, 120b, or 120c), unless the offense is covered by subsection (a).
 
@@ -4915,47 +4915,47 @@ Subsec. (b)(2)(B)(i) to (v). Pub. L. 114–328, § 5225(d), added pars. (i) to
 
 “(v) Kidnaping, assault with intent to commit murder, voluntary manslaughter, rape, or forcible sodomy, or indecent acts in violation of section 934 of this title (article 134).”
 
-Subsec. (h). Pub. L. 114–328, § 5225(b), added subsec. (h).
+Subsec. (h). Pub. L. 114–328, § 5225(b), added subsec. (h).
 
-Subsec. (i). Pub. L. 114–328, § 5225(c), added subsec. (i).
+Subsec. (i). Pub. L. 114–328, § 5225(c), added subsec. (i).
 
-2014—Subsec. (b)(2)(B)(iii). Pub. L. 113–291, § 531(d)(2)(A)(i), substituted “Forcible sodomy” for “Sodomy”.
+2014—Subsec. (b)(2)(B)(iii). Pub. L. 113–291, § 531(d)(2)(A)(i), substituted “Forcible sodomy” for “Sodomy”.
 
-Subsec. (b)(2)(B)(v). Pub. L. 113–291, § 531(d)(2)(A)(ii), substituted “forcible sodomy” for “sodomy”.
+Subsec. (b)(2)(B)(v). Pub. L. 113–291, § 531(d)(2)(A)(ii), substituted “forcible sodomy” for “sodomy”.
 
-2013—Subsec. (a). Pub. L. 113–66, § 1703(a), substituted “rape or sexual assault, or rape or sexual assault of a child” for “rape, or rape of a child”.
+2013—Subsec. (a). Pub. L. 113–66, § 1703(a), substituted “rape or sexual assault, or rape or sexual assault of a child” for “rape, or rape of a child”.
 
-Subsec. (b)(2)(B)(i). Pub. L. 113–66, § 1703(b), inserted “, unless the offense is covered by subsection (a)” before period at end.
+Subsec. (b)(2)(B)(i). Pub. L. 113–66, § 1703(b), inserted “, unless the offense is covered by subsection (a)” before period at end.
 
 Subsec. (b)(2)(B)(v). Pub. L. 112–239 substituted “Kidnaping,” for “Kidnaping,,”.
 
-2011—Subsec. (b)(2)(B)(i). Pub. L. 112–81, § 541(d)(1)(A), substituted “section 920, 920a, 920b, or 920c of this title (article 120, 120a, 120b, or 120c)” for “section 920 of this title (article 120)”.
+2011—Subsec. (b)(2)(B)(i). Pub. L. 112–81, § 541(d)(1)(A), substituted “section 920, 920a, 920b, or 920c of this title (article 120, 120a, 120b, or 120c)” for “section 920 of this title (article 120)”.
 
-Subsec. (b)(2)(B)(v). Pub. L. 112–81, § 541(d)(1)(B), struck out “indecent assault” after “Kidnaping,” and “or liberties with a child” after “indecent acts”.
+Subsec. (b)(2)(B)(v). Pub. L. 112–81, § 541(d)(1)(B), struck out “indecent assault” after “Kidnaping,” and “or liberties with a child” after “indecent acts”.
 
 Pub. L. 111–383 substituted “Kidnaping, indecent assault,” for “Kidnaping; indecent assault;”.
 
-2006—Subsec. (a). Pub. L. 109–163, § 553(a), substituted “with murder or rape, or with any other offense punishable by death” for “or with any offense punishable by death”.
+2006—Subsec. (a). Pub. L. 109–163, § 553(a), substituted “with murder or rape, or with any other offense punishable by death” for “or with any offense punishable by death”.
 
-Pub. L. 109–163, § 552(e), substituted “, rape, or rape of a child,” for “or rape,”.
+Pub. L. 109–163, § 552(e), substituted “, rape, or rape of a child,” for “or rape,”.
 
-Subsec. (b)(2)(A). Pub. L. 109–163, § 553(b)(1), substituted “during the life of the child or within five years after the date on which the offense was committed, whichever provides a longer period,” for “before the child attains the age of 25 years”.
+Subsec. (b)(2)(A). Pub. L. 109–163, § 553(b)(1), substituted “during the life of the child or within five years after the date on which the offense was committed, whichever provides a longer period,” for “before the child attains the age of 25 years”.
 
-Subsec. (b)(2)(B). Pub. L. 109–163, § 553(b)(2)(A), struck out “sexual or physical” before “abuse of a person” in introductory provisions.
+Subsec. (b)(2)(B). Pub. L. 109–163, § 553(b)(2)(A), struck out “sexual or physical” before “abuse of a person” in introductory provisions.
 
-Subsec. (b)(2)(B)(i). Pub. L. 109–163, § 553(b)(2)(B), substituted “Any offense” for “Rape or carnal knowledge”.
+Subsec. (b)(2)(B)(i). Pub. L. 109–163, § 553(b)(2)(B), substituted “Any offense” for “Rape or carnal knowledge”.
 
-Subsec. (b)(2)(B)(iii). Pub. L. 109–364, § 1071(a)(4)(A), substituted “125” for “126”.
+Subsec. (b)(2)(B)(iii). Pub. L. 109–364, § 1071(a)(4)(A), substituted “125” for “126”.
 
-Subsec. (b)(2)(B)(v). Pub. L. 109–163, § 553(b)(2)(C), substituted “Kidnaping; indecent assault;” for “Indecent assault,”.
+Subsec. (b)(2)(B)(v). Pub. L. 109–163, § 553(b)(2)(C), substituted “Kidnaping; indecent assault;” for “Indecent assault,”.
 
-Subsec. (b)(2)(C). Pub. L. 109–364, § 1071(a)(4)(B), substituted “under chapter 110 or 117 of title 18 or under section 1591 of that title” for “under chapter 110 or 117, or under section 1591, of title 18”.
+Subsec. (b)(2)(C). Pub. L. 109–364, § 1071(a)(4)(B), substituted “under chapter 110 or 117 of title 18 or under section 1591 of that title” for “under chapter 110 or 117, or under section 1591, of title 18”.
 
-Pub. L. 109–163, § 553(b)(3), added subpar. (C).
+Pub. L. 109–163, § 553(b)(3), added subpar. (C).
 
 2003—Subsec. (b)(2), (3). Pub. L. 108–136 added par. (2) and redesignated former par. (2) as (3).
 
-1986—Subsecs. (a) to (c). Pub. L. 99–661, § 805(a), amended subsecs. (a) to (c) generally. Prior to amendment, subsecs. (a) to (c) read as follows:
+1986—Subsecs. (a) to (c). Pub. L. 99–661, § 805(a), amended subsecs. (a) to (c) generally. Prior to amendment, subsecs. (a) to (c) read as follows:
 
 “(a) A person charged with desertion or absence without leave in time of war, or with aiding the enemy, mutiny, or murder, may be tried and punished at any time without limitation.
 
@@ -4963,51 +4963,51 @@ Pub. L. 109–163, § 553(b)(3), added subpar. (C).
 
 “(c) Except as otherwise provided in this article, a person charged with any offense is not liable to be tried by court-martial or punished under section 815 of this title (article 15) if the offense was committed more than two years before the receipt of sworn charges and specifications by an officer exercising summary court-martial jurisdiction over the command or before the imposition of punishment under section 815 of this title (article 15).”
 
-Subsec. (g). Pub. L. 99–661, § 805(b), added subsec. (g).
+Subsec. (g). Pub. L. 99–661, § 805(b), added subsec. (g).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–92, div. A, title V, § 533(b), Dec. 20, 2019, 133 Stat. 1361, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 20, 2019] and shall apply with respect to the prosecution of offenses committed before, on, or after the date of the enactment of this Act if the applicable limitation period has not yet expired.”
+Pub. L. 116–92, div. A, title V, § 533(b), Dec. 20, 2019, 133 Stat. 1361, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 20, 2019] and shall apply with respect to the prosecution of offenses committed before, on, or after the date of the enactment of this Act if the applicable limitation period has not yet expired.”
 
 **Effective Date of 2017 Amendment**
 
-Amendment by section 1081(c)(1)(E) of Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by section 1081(c)(1)(E) of Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–328, div. E, title LVII, § 5225(f), Dec. 23, 2016, 130 Stat. 2910, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(17), Dec. 12, 2017, 131 Stat. 1600, provided that: “The amendments made by subsections (a), (b), (c), and (d) [amending this section] shall apply to the prosecution of any offense committed before, on, or after the date of the enactment of this section [Dec. 23, 2016] if the applicable limitation period has not yet expired.”
+Pub. L. 114–328, div. E, title LVII, § 5225(f), Dec. 23, 2016, 130 Stat. 2910, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(17), Dec. 12, 2017, 131 Stat. 1600, provided that: “The amendments made by subsections (a), (b), (c), and (d) [amending this section] shall apply to the prosecution of any offense committed before, on, or after the date of the enactment of this section [Dec. 23, 2016] if the applicable limitation period has not yet expired.”
 
-[Pub. L. 115–91, div. A, title X, § 1081(d), Dec. 12, 2017, 131 Stat. 1599, provided that the amendment made by section 1081(d)(17) to section 5225(f) of Pub. L. 114–328, set out above, is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted.]
+[Pub. L. 115–91, div. A, title X, § 1081(d), Dec. 12, 2017, 131 Stat. 1599, provided that the amendment made by section 1081(d)(17) to section 5225(f) of Pub. L. 114–328, set out above, is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted.]
 
 Amendment by section 5225(e) of Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 113–66, div. A, title XVII, § 1703(c), Dec. 26, 2013, 127 Stat. 958, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Dec. 26, 2013], and shall apply with respect to an offense covered by section 920(b) or 920b(b) of title 10, United States Code (article 120(b) or 120b(b) of the Uniform Code of Military Justice), that is committed on or after that date.”
+Pub. L. 113–66, div. A, title XVII, § 1703(c), Dec. 26, 2013, 127 Stat. 958, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Dec. 26, 2013], and shall apply with respect to an offense covered by section 920(b) or 920b(b) of title 10, United States Code (article 120(b) or 120b(b) of the Uniform Code of Military Justice), that is committed on or after that date.”
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–81, div. A, title V, § 541(f), Dec. 31, 2011, 125 Stat. 1411, provided that: “The amendments made by this section [enacting sections 920b and 920c of this title and amending this section and sections 918 and 920 of this title] shall take effect 180 days after the date of the enactment of this Act [Dec. 31, 2011] and shall apply with respect to offenses committed on or after such effective date.”
+Pub. L. 112–81, div. A, title V, § 541(f), Dec. 31, 2011, 125 Stat. 1411, provided that: “The amendments made by this section [enacting sections 920b and 920c of this title and amending this section and sections 918 and 920 of this title] shall take effect 180 days after the date of the enactment of this Act [Dec. 31, 2011] and shall apply with respect to offenses committed on or after such effective date.”
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–163, div. A, title V, § 552(f), Jan. 6, 2006, 119 Stat. 3263, provided that: “The amendments made by this section [amending this section and sections 918 and 920 of this title and enacting provisions set out as notes under section 920 of this title] shall take effect on October 1, 2007.”
+Pub. L. 109–163, div. A, title V, § 552(f), Jan. 6, 2006, 119 Stat. 3263, provided that: “The amendments made by this section [amending this section and sections 918 and 920 of this title and enacting provisions set out as notes under section 920 of this title] shall take effect on October 1, 2007.”
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–661, div. A, title VIII, § 805(c), Nov. 14, 1986, 100 Stat. 3908, provided that: “The amendments made by this section [amending this section] shall apply to an offense committed on or after the date of the enactment of this Act [Nov. 14, 1986].”
+Pub. L. 99–661, div. A, title VIII, § 805(c), Nov. 14, 1986, 100 Stat. 3908, provided that: “The amendments made by this section [amending this section] shall apply to an offense committed on or after the date of the enactment of this Act [Nov. 14, 1986].”
 
 **Applicability of Subsections (b)(2)(B) and (h)**
 
-Pub. L. 115–91, div. A, title V, § 531(n)(2), (3), Dec. 12, 2017, 131 Stat. 1387, provided that:
+Pub. L. 115–91, div. A, title V, § 531(n)(2), (3), Dec. 12, 2017, 131 Stat. 1387, provided that:
 
 > **“(2) Child abuse offenses.—** With respect to offenses committed before the date designated by the President under section 5542(a) of the Military Justice Act of 2016 (division E of Public Law 114–328; 130 Stat. 2967) [10 U.S.C. 801 note], subsection (b)(2)(B) of section 843 of title 10, United States Code (article 43 of the Uniform Code of Military Justice), shall be applied as in effect on December 22, 2016.
 
 > **“(3) Fraudulent enlistment or appointment offenses.—** With respect to the period beginning on December 23, 2016, and ending on the day before the date designated by the President under section 5542(a) of the Military Justice Act of 2016 (division E of Public Law 114–328; 130 Stat. 2967), in the application of subsection (h) of section 843 of title 10, United States Code (article 43 of the Uniform Code of Military Justice), as added by section 5225(b) of that Act (130 Stat. 2909), the reference in such subsection (h) to section 904a(1) of title 10, United States Code (article 104a(1) of the Uniform Code of Military Justice), shall be deemed to be a reference to section 883(1) of title 10, United States Code (article 83(1) of the Uniform Code of Military Justice).”
 
-### § 844. Art. 44. Former jeopardy
+### § 844. Art. 44. Former jeopardy
 
 **(a)** No person may, without his consent, be tried a second time for the same offense.
 
@@ -5031,13 +5031,13 @@ the case is dismissed or terminated by the convening authority or the special tr
 
 the case is dismissed or terminated by the convening authority or the special trial counsel or on motion of the prosecution for failure of available evidence or witnesses.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 52; Pub. L. 114–328, div. E, title LVII, § 5226, Dec. 23, 2016, 130 Stat. 2910; Pub. L. 117–81, div. A, title V, § 538, Dec. 27, 2021, 135 Stat. 1698.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 52; Pub. L. 114–328, div. E, title LVII, § 5226, Dec. 23, 2016, 130 Stat. 2910; Pub. L. 117–81, div. A, title V, § 538, Dec. 27, 2021, 135 Stat. 1698.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 844(a) 844(b) 844(c) | 50:619(a). 50:619(b). 50:619(c). | May 5, 1950, ch. 169, § 1 (Art. 44), 64 Stat. 122. |
+| 844(a) 844(b) 844(c) | 50:619(a). 50:619(b). 50:619(c). | May 5, 1950, ch. 169, § 1 (Art. 44), 64 Stat. 122. |
 
 In subsection (a), the word “may” is substituted for the word “shall”.
 
@@ -5063,7 +5063,7 @@ Amendment by Pub. L. 117–81 effective on the date that is two years after Dec.
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 845. Art. 45. Pleas of the accused
+### § 845. Art. 45. Pleas of the accused
 
 **(a) Irregular and Similar Pleas.—** If an accused after arraignment makes an irregular pleading, or after a plea of guilty sets up matter inconsistent with the plea, or if it appears that he has entered the plea of guilty improvidently or through lack of understanding of its meaning and effect, or if he fails or refuses to plead, a plea of not guilty shall be entered in the record, and the court shall proceed as though he had pleaded not guilty.
 
@@ -5071,13 +5071,13 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **(c) Harmless Error.—** A variance from the requirements of this article is harmless error if the variance does not materially prejudice the substantial rights of the accused.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 52; Pub. L. 90–632, § 2(19), Oct. 24, 1968, 82 Stat. 1339; Pub. L. 114–328, div. E, title LVII, § 5227, Dec. 23, 2016, 130 Stat. 2911.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 52; Pub. L. 90–632, § 2(19), Oct. 24, 1968, 82 Stat. 1339; Pub. L. 114–328, div. E, title LVII, § 5227, Dec. 23, 2016, 130 Stat. 2911.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 845(a) 845(b) | 50:620(a). 50:620(b). | May 5, 1950, ch. 169, § 1 (Art. 45), 64 Stat. 122. |
+| 845(a) 845(b) | 50:620(a). 50:620(b). | May 5, 1950, ch. 169, § 1 (Art. 45), 64 Stat. 122. |
 
 In subsection (b), the word “may” is substituted for the word “shall”.
 
@@ -5085,17 +5085,17 @@ In subsection (b), the word “may” is substituted for the word “shall”.
 
 **Amendments**
 
-2016—Subsec. (a). Pub. L. 114–328, § 5227(c)(1), inserted heading.
+2016—Subsec. (a). Pub. L. 114–328, § 5227(c)(1), inserted heading.
 
-Subsec. (b). Pub. L. 114–328, § 5227(c)(2), inserted heading.
+Subsec. (b). Pub. L. 114–328, § 5227(c)(2), inserted heading.
 
-Pub. L. 114–328, § 5227(a), substituted “is mandatory” for “may be adjudged” and struck out “or by a court-martial without a military judge” after “by the military judge” and “, if permitted by regulations of the Secretary concerned,” after “charge or specification may”.
+Pub. L. 114–328, § 5227(a), substituted “is mandatory” for “may be adjudged” and struck out “or by a court-martial without a military judge” after “by the military judge” and “, if permitted by regulations of the Secretary concerned,” after “charge or specification may”.
 
-Subsec. (c). Pub. L. 114–328, § 5227(b), added subsec. (c).
+Subsec. (c). Pub. L. 114–328, § 5227(b), added subsec. (c).
 
-1968—Subsec. (a). Pub. L. 90–632, § 2(19)(A), substituted “after arraignment” for “arraigned before a court-martial”.
+1968—Subsec. (a). Pub. L. 90–632, § 2(19)(A), substituted “after arraignment” for “arraigned before a court-martial”.
 
-Subsec. (b). Pub. L. 90–632, § 2(19)(B), inserted provisions covering the making and accepting of a guilty plea to charges or specifications other than charges and specifications alleging an offense for which the death penalty may be adjudged.
+Subsec. (b). Pub. L. 90–632, § 2(19)(B), inserted provisions covering the making and accepting of a guilty plea to charges or specifications other than charges and specifications alleging an offense for which the death penalty may be adjudged.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5107,7 +5107,7 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 Amendment by Pub. L. 90–632 effective first day of tenth month following October 1968, see section 4 of Pub. L. 90–632, set out as a note under section 801 of this title.
 
-### § 846. Art. 46. Opportunity to obtain witnesses and other evidence in trials by court-martial
+### § 846. Art. 46. Opportunity to obtain witnesses and other evidence in trials by court-martial
 
 **(a) Opportunity To Obtain Witnesses and Other Evidence.—** In a case referred for trial by court-martial, the trial counsel, the defense counsel, and the court-martial shall have equal opportunity to obtain witnesses and other evidence in accordance with such regulations as the President may prescribe.
 
@@ -5149,13 +5149,13 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 **(2)** order the person to comply with the subpoena or other process.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 53; Pub. L. 109–163, div. A, title X, § 1057(a)(6), Jan. 6, 2006, 119 Stat. 3441; Pub. L. 113–66, div. A, title XVII, § 1704, Dec. 26, 2013, 127 Stat. 958; Pub. L. 113–291, div. A, title V, § 531(b), Dec. 19, 2014, 128 Stat. 3363; Pub. L. 114–328, div. E, title LVII, § 5228(a), Dec. 23, 2016, 130 Stat. 2911.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 53; Pub. L. 109–163, div. A, title X, § 1057(a)(6), Jan. 6, 2006, 119 Stat. 3441; Pub. L. 113–66, div. A, title XVII, § 1704, Dec. 26, 2013, 127 Stat. 958; Pub. L. 113–291, div. A, title V, § 531(b), Dec. 19, 2014, 128 Stat. 3363; Pub. L. 114–328, div. E, title LVII, § 5228(a), Dec. 23, 2016, 130 Stat. 2911.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 846 | 50:621. | May 5, 1950, ch. 169, § 1 (Art. 46), 64 Stat. 122. |
+| 846 | 50:621. | May 5, 1950, ch. 169, § 1 (Art. 46), 64 Stat. 122. |
 
 The word “Commonwealths” is inserted to reflect the present status of Puerto Rico.
 
@@ -5163,23 +5163,23 @@ The word “Commonwealths” is inserted to reflect the present status of Puerto
 
 **Amendments**
 
-2016—Pub. L. 114–328, § 5228(a)(5), amended section catchline generally, substituting “Opportunity to obtain witnesses and other evidence in trials by court-martial” for “Opportunity to obtain witnesses and other evidence”.
+2016—Pub. L. 114–328, § 5228(a)(5), amended section catchline generally, substituting “Opportunity to obtain witnesses and other evidence in trials by court-martial” for “Opportunity to obtain witnesses and other evidence”.
 
-Subsec. (a). Pub. L. 114–328, § 5228(a)(1), substituted “In a case referred for trial by court-martial, the trial counsel, the defense counsel,” for “The counsel for the Government, the counsel for the accused,”.
+Subsec. (a). Pub. L. 114–328, § 5228(a)(1), substituted “In a case referred for trial by court-martial, the trial counsel, the defense counsel,” for “The counsel for the Government, the counsel for the accused,”.
 
-Subsec. (b). Pub. L. 114–328, § 5228(a)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to request by counsel for accused to interview the victim of an alleged sex-related offense.
+Subsec. (b). Pub. L. 114–328, § 5228(a)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to request by counsel for accused to interview the victim of an alleged sex-related offense.
 
-Subsec. (c). Pub. L. 114–328, § 5228(a)(3), amended subsec. (c) generally. Prior to amendment, text read as follows: “Process issued in court-martial cases to compel witnesses to appear and testify and to compel the production of other evidence shall be similar to that which courts of the United States having criminal jurisdiction may lawfully issue and shall run to any part of the United States, or the Commonwealths and possessions.”
+Subsec. (c). Pub. L. 114–328, § 5228(a)(3), amended subsec. (c) generally. Prior to amendment, text read as follows: “Process issued in court-martial cases to compel witnesses to appear and testify and to compel the production of other evidence shall be similar to that which courts of the United States having criminal jurisdiction may lawfully issue and shall run to any part of the United States, or the Commonwealths and possessions.”
 
-Subsecs. (d), (e). Pub. L. 114–328, § 5228(a)(4), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 114–328, § 5228(a)(4), added subsecs. (d) and (e).
 
-2014—Subsec. (a). Pub. L. 113–291, § 531(b)(2), (3)(B), substituted “counsel for the Government” for “trial counsel” and “counsel for the accused” for “defense counsel”.
+2014—Subsec. (a). Pub. L. 113–291, § 531(b)(2), (3)(B), substituted “counsel for the Government” for “trial counsel” and “counsel for the accused” for “defense counsel”.
 
-Subsec. (b). Pub. L. 113–291, § 531(b)(3)(A), which directed substitution of “Counsel for Accused” for “Defense Counsel” in heading of section, was executed by making the substitution in the heading of subsec. (b) to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 113–291, § 531(b)(3)(A), which directed substitution of “Counsel for Accused” for “Defense Counsel” in heading of section, was executed by making the substitution in the heading of subsec. (b) to reflect the probable intent of Congress.
 
-Pub. L. 113–291, § 531(b)(2), (3)(B), substituted “counsel for the Government” for “trial counsel” and “counsel for the accused” for “defense counsel” wherever appearing.
+Pub. L. 113–291, § 531(b)(2), (3)(B), substituted “counsel for the Government” for “trial counsel” and “counsel for the accused” for “defense counsel” wherever appearing.
 
-Subsec. (b)(1). Pub. L. 113–291, § 531(b)(1), substituted “through the Special Victims’ Counsel or other counsel for the victim, if applicable” for “through trial counsel”.
+Subsec. (b)(1). Pub. L. 113–291, § 531(b)(1), substituted “through the Special Victims’ Counsel or other counsel for the victim, if applicable” for “through trial counsel”.
 
 2013—Pub. L. 113–66 designated first sentence as subsec. (a) and second sentence as subsec. (c), inserted headings, and added subsec. (b).
 
@@ -5191,7 +5191,7 @@ Subsec. (b)(1). Pub. L. 113–291, § 531(b)(1), substituted “through the Sp
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 847. Art. 47. Refusal of person not subject to chapter to appear, testify, or produce evidence
+### § 847. Art. 47. Refusal of person not subject to chapter to appear, testify, or produce evidence
 
 **(a) In General.—**
 
@@ -5219,13 +5219,13 @@ is guilty of an offense against the United States.
 
 **(d)** The fees and mileage of witnesses shall be advanced or paid out of the appropriations for the compensation of witnesses.
 
-(Aug. 10, 1956, ch. 1041. 70A Stat. 53; Pub. L. 104–106, div. A, title XI, § 1111, Feb. 10, 1996, 110 Stat. 461; Pub. L. 109–163, div. A, title X, § 1057(a)(5), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 112–81, div. A, title V, § 542(a), (b), Dec. 31, 2011, 125 Stat. 1411; Pub. L. 113–66, div. A, title XVII, § 1702(c)(3)(D), Dec. 26, 2013, 127 Stat. 958; Pub. L. 114–328, div. E, title LVII, § 5229, Dec. 23, 2016, 130 Stat. 2913.)
+(Aug. 10, 1956, ch. 1041. 70A Stat. 53; Pub. L. 104–106, div. A, title XI, § 1111, Feb. 10, 1996, 110 Stat. 461; Pub. L. 109–163, div. A, title X, § 1057(a)(5), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 112–81, div. A, title V, § 542(a), (b), Dec. 31, 2011, 125 Stat. 1411; Pub. L. 113–66, div. A, title XVII, § 1702(c)(3)(D), Dec. 26, 2013, 127 Stat. 958; Pub. L. 114–328, div. E, title LVII, § 5229, Dec. 23, 2016, 130 Stat. 2913.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 847(a) 847(b) | 50:622(a). 50:622(b). | May 5, 1950, ch. 169, § 1 (Art. 47), 64 Stat. 123. |
+| 847(a) 847(b) | 50:622(a). 50:622(b). | May 5, 1950, ch. 169, § 1 (Art. 47), 64 Stat. 123. |
 | 847(c) | 50:622(c). |  |
 | 847(d) | 50:622(d). |  |
 
@@ -5233,15 +5233,15 @@ In subsection (a), the word “Any” is substituted for the word “Every”. T
 
 In subsection (b), the words “named in subsection (a)” are substituted for the words “denounced by this article”. The words “Territories, Commonwealths, or” are substituted for the word “Territorial”. The words “not more than” are substituted for the words “a period not exceeding”.
 
-In subsection (c), the words “It shall be the duty of \* \* \* to” are omitted as surplusage. The words “United States Attorney” are substituted for the words “United States district attorney”, to conform to the terminology of section 501 of title 28. The word “shall” is inserted after the word “jurisdiction”.
+In subsection (c), the words “It shall be the duty of \* \* \* to” are omitted as surplusage. The words “United States Attorney” are substituted for the words “United States district attorney”, to conform to the terminology of section 501 of title 28. The word “shall” is inserted after the word “jurisdiction”.
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Pub. L. 114–328, § 5229(b), amended section catchline generally, substituting “Refusal of person not subject to chapter to appear, testify, or produce evidence” for “Refusal to appear or testify”.
+2016—Pub. L. 114–328, § 5229(b), amended section catchline generally, substituting “Refusal of person not subject to chapter to appear, testify, or produce evidence” for “Refusal to appear or testify”.
 
-Subsec. (a). Pub. L. 114–328, § 5229(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any person not subject to this chapter who—
+Subsec. (a). Pub. L. 114–328, § 5229(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any person not subject to this chapter who—
 
 “(1) has been duly subpoenaed to appear as a witness before a court-martial, military commission, court of inquiry, or any other military court or board, or before any military or civil officer designated to take a deposition to be read in evidence before such a court, commission, or board, or has been duly issued a subpoena duces tecum for a preliminary hearing pursuant to section 832 of this title (article 32);
 
@@ -5253,13 +5253,13 @@ is guilty of an offense against the United States.”
 
 2013—Subsec. (a)(1). Pub. L. 113–66 substituted “a preliminary hearing pursuant to section 832 of this title (article 32)” for “an investigation pursuant to section 832(b) of this title (article 32(b))”.
 
-2011—Subsec. (a). Pub. L. 112–81, § 542(b), substituted “subpoenaed” for “subpenaed” in two places.
+2011—Subsec. (a). Pub. L. 112–81, § 542(b), substituted “subpoenaed” for “subpenaed” in two places.
 
-Subsec. (a)(1). Pub. L. 112–81, § 542(a)(1)(A), substituted “board, or has been duly issued a subpoena duces tecum for an investigation pursuant to section 832(b) of this title (article 32(b));” for “board;”.
+Subsec. (a)(1). Pub. L. 112–81, § 542(a)(1)(A), substituted “board, or has been duly issued a subpoena duces tecum for an investigation pursuant to section 832(b) of this title (article 32(b));” for “board;”.
 
-Subsec. (a)(2). Pub. L. 112–81, § 542(a)(1)(B), substituted “provided a means for reimbursement from the Government for fees and mileage” for “duly paid or tendered the fees and mileage of a witness” and inserted “or, in the case of extraordinary hardship, is advanced such fees and mileage” before semicolon.
+Subsec. (a)(2). Pub. L. 112–81, § 542(a)(1)(B), substituted “provided a means for reimbursement from the Government for fees and mileage” for “duly paid or tendered the fees and mileage of a witness” and inserted “or, in the case of extraordinary hardship, is advanced such fees and mileage” before semicolon.
 
-Subsec. (c). Pub. L. 112–81, § 542(a)(2), substituted “board, or convening authority” for “or board”.
+Subsec. (c). Pub. L. 112–81, § 542(a)(2), substituted “board, or convening authority” for “or board”.
 
 2006—Subsec. (b). Pub. L. 109–163 substituted “Commonwealths or possessions” for “Territories, Commonwealths, or possessions”.
 
@@ -5277,9 +5277,9 @@ Amendment by Pub. L. 113–66 effective on the later of Dec. 26, 2014, or the da
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–81, div. A, title V, § 542(c), Dec. 31, 2011, 125 Stat. 1411, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to subpoenas issued after the date of the enactment of this Act [Dec. 31, 2011].”
+Pub. L. 112–81, div. A, title V, § 542(c), Dec. 31, 2011, 125 Stat. 1411, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to subpoenas issued after the date of the enactment of this Act [Dec. 31, 2011].”
 
-### § 848. Art. 48. Contempt
+### § 848. Art. 48. Contempt
 
 **(a) Authority To Punish.—**
 
@@ -5313,13 +5313,13 @@ Pub. L. 112–81, div. A, title V, § 542(c), Dec. 31, 2011, 125 Stat. 1411, p
 
 **(d) Inapplicability to Military Commissions Under Chapter 47A.—** This section does not apply to a military commission established under chapter 47A of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 53; Pub. L. 109–366, § 4(a)(2), Oct. 17, 2006, 120 Stat. 2631; Pub. L. 111–383, div. A, title V, § 542(a), Jan. 7, 2011, 124 Stat. 4218; Pub. L. 114–328, div. E, title LVII, § 5230, Dec. 23, 2016, 130 Stat. 2913; Pub. L. 115–91, div. A, title X, § 1081(c)(1)(F), Dec. 12, 2017, 131 Stat. 1598.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 53; Pub. L. 109–366, § 4(a)(2), Oct. 17, 2006, 120 Stat. 2631; Pub. L. 111–383, div. A, title V, § 542(a), Jan. 7, 2011, 124 Stat. 4218; Pub. L. 114–328, div. E, title LVII, § 5230, Dec. 23, 2016, 130 Stat. 2913; Pub. L. 115–91, div. A, title X, § 1081(c)(1)(F), Dec. 12, 2017, 131 Stat. 1598.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 848 | 50:623. | May 5, 1950, ch. 169, § 1 (Art. 48), 64 Stat. 123. |
+| 848 | 50:623. | May 5, 1950, ch. 169, § 1 (Art. 48), 64 Stat. 123. |
 
 The word “may” is substituted for the word “shall”.
 
@@ -5329,9 +5329,9 @@ The word “may” is substituted for the word “shall”.
 
 2017—Subsec. (c)(1). Pub. L. 115–91 substituted “section 866(h) of this title (article 66(h))” for “section 866(g) of this title (article 66(g))”.
 
-2016—Pub. L. 114–328, § 5230(c), amended section catchline generally, substituting “Contempt” for “Contempts”.
+2016—Pub. L. 114–328, § 5230(c), amended section catchline generally, substituting “Contempt” for “Contempts”.
 
-Subsec. (a). Pub. L. 114–328, § 5230(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “A judge detailed to a court-martial, a court of inquiry, the United States Court of Appeals for the Armed Forces, a military Court of Criminal Appeals, a provost court, or a military commission may punish for contempt any person who—
+Subsec. (a). Pub. L. 114–328, § 5230(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “A judge detailed to a court-martial, a court of inquiry, the United States Court of Appeals for the Armed Forces, a military Court of Criminal Appeals, a provost court, or a military commission may punish for contempt any person who—
 
 “(1) uses any menacing word, sign, or gesture in the presence of the judge during the proceedings of the court-martial, court, or military commission;
 
@@ -5339,7 +5339,7 @@ Subsec. (a). Pub. L. 114–328, § 5230(a), amended subsec. (a) generally. Pri
 
 “(3) willfully disobeys the lawful writ, process, order, rule, decree, or command of the court-martial, court, or military commission.”
 
-Subsecs. (c), (d). Pub. L. 114–328, § 5230(b), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 114–328, § 5230(b), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 2011—Pub. L. 111–383 amended section generally. Prior to amendment, text read as follows: “A court-martial, provost court, or military commission may punish for contempt any person who uses any menacing word, sign, or gesture in its presence, or who disturbs its proceedings by any riot or disorder. The punishment may not exceed confinement for 30 days or a fine of $100, or both. This section does not apply to a military commission established under chapter 47A of this title.”
 
@@ -5349,7 +5349,7 @@ Subsecs. (c), (d). Pub. L. 114–328, § 5230(b), added subsec. (c) and redesi
 
 **Effective Date of 2017 Amendment**
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 **Effective Date of 2016 Amendment**
 
@@ -5357,9 +5357,9 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 111–383, div. A, title V, § 542(b), Jan. 7, 2011, 124 Stat. 4218, provided that: “Section 848 of title 10, United States Code (article 48 of the Uniform Code of Military Justice), as amended by subsection (a), shall apply with respect to acts of contempt committed after the date of the enactment of this Act [Jan. 7, 2011].”
+Pub. L. 111–383, div. A, title V, § 542(b), Jan. 7, 2011, 124 Stat. 4218, provided that: “Section 848 of title 10, United States Code (article 48 of the Uniform Code of Military Justice), as amended by subsection (a), shall apply with respect to acts of contempt committed after the date of the enactment of this Act [Jan. 7, 2011].”
 
-### § 849. Art. 49. Depositions
+### § 849. Art. 49. Depositions
 
 **(a) In General.—**
 
@@ -5381,13 +5381,13 @@ Pub. L. 111–383, div. A, title V, § 542(b), Jan. 7, 2011, 124 Stat. 4218, p
 
 **(d) Capital Cases.—** Testimony by deposition may be presented in capital cases only by the defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 53; Pub. L. 90–632, § 2(20), Oct. 24, 1968, 82 Stat. 1340; Pub. L. 98–209, § 6(b), Dec. 6, 1983, 97 Stat. 1400; Pub. L. 109–163, div. A, title X, § 1057(a)(3), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 113–291, div. A, title V, § 532, Dec. 19, 2014, 128 Stat. 3366; Pub. L. 114–328, div. E, title LVII, § 5231, Dec. 23, 2016, 130 Stat. 2914.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 53; Pub. L. 90–632, § 2(20), Oct. 24, 1968, 82 Stat. 1340; Pub. L. 98–209, § 6(b), Dec. 6, 1983, 97 Stat. 1400; Pub. L. 109–163, div. A, title X, § 1057(a)(3), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 113–291, div. A, title V, § 532, Dec. 19, 2014, 128 Stat. 3366; Pub. L. 114–328, div. E, title LVII, § 5231, Dec. 23, 2016, 130 Stat. 2914.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 849(a) 849(b) | 50:624(a). 50:624(b). | May 5, 1950, ch. 169, § 1 (Art. 49), 64 Stat. 123. |
+| 849(a) 849(b) | 50:624(a). 50:624(b). | May 5, 1950, ch. 169, § 1 (Art. 49), 64 Stat. 123. |
 | 849(c) | 50:624(c). |  |
 | 849(d) | 50:624(d). |  |
 | 849(e) | 50:624(e). |  |
@@ -5429,7 +5429,7 @@ Amendment by Pub. L. 98–209 effective on first day of eighth calendar month be
 
 Amendment by Pub. L. 90–632 effective first day of tenth month following October 1968, see section 4 of Pub. L. 90–632, set out as a note under section 801 of this title.
 
-### § 850. Art. 50. Admissibility of sworn testimony from records of courts of inquiry
+### § 850. Art. 50. Admissibility of sworn testimony from records of courts of inquiry
 
 **(a) Use as Evidence by Any Party.—** In any case not capital and not extending to the dismissal of a commissioned officer, the sworn testimony, contained in the duly authenticated record of proceedings of a court of inquiry, of a person whose oral testimony cannot be obtained, may, if otherwise admissible under the rules of evidence, be read in evidence by any party before a court-martial or military commission if the accused was a party before the court of inquiry and if the same issue was involved or if the accused consents to the introduction of such evidence. This section does not apply to a military commission established under chapter 47A of this title.
 
@@ -5445,13 +5445,13 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 is admissible before a court-martial, military commission, court of inquiry, or military board, to the same extent as sworn testimony may be read in evidence before any such body under subsection (a), (b), or (c).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 54; Pub. L. 109–366, § 4(a)(2), Oct. 17, 2006, 120 Stat. 2631; Pub. L. 114–328, div. E, title LVII, § 5232, Dec. 23, 2016, 130 Stat. 2915.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 54; Pub. L. 109–366, § 4(a)(2), Oct. 17, 2006, 120 Stat. 2631; Pub. L. 114–328, div. E, title LVII, § 5232, Dec. 23, 2016, 130 Stat. 2915.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 850(a) 850(b) | 50:625(a). 50:625(b). | May 5, 1950, ch. 169, § 1 (Art. 50), 64 Stat. 124. |
+| 850(a) 850(b) | 50:625(a). 50:625(b). | May 5, 1950, ch. 169, § 1 (Art. 50), 64 Stat. 124. |
 | 850(c) | 50:625(c). |  |
 
 In subsections (a) and (b), the word “commissioned” is inserted for clarity.
@@ -5460,15 +5460,15 @@ In subsections (a) and (b), the word “commissioned” is inserted for clarity.
 
 **Amendments**
 
-2016—Pub. L. 114–328, § 5232(b), amended section catchline generally, substituting “Admissibility of sworn testimony from records of courts of inquiry” for “Admissibility of records of courts of inquiry”.
+2016—Pub. L. 114–328, § 5232(b), amended section catchline generally, substituting “Admissibility of sworn testimony from records of courts of inquiry” for “Admissibility of records of courts of inquiry”.
 
-Subsec. (a). Pub. L. 114–328, § 5232(c)(1), inserted heading.
+Subsec. (a). Pub. L. 114–328, § 5232(c)(1), inserted heading.
 
-Subsec. (b). Pub. L. 114–328, § 5232(c)(2), inserted heading.
+Subsec. (b). Pub. L. 114–328, § 5232(c)(2), inserted heading.
 
-Subsec. (c). Pub. L. 114–328, § 5232(c)(3), inserted heading.
+Subsec. (c). Pub. L. 114–328, § 5232(c)(3), inserted heading.
 
-Subsec. (d). Pub. L. 114–328, § 5232(a), added subsec. (d).
+Subsec. (d). Pub. L. 114–328, § 5232(a), added subsec. (d).
 
 2006—Subsec. (a). Pub. L. 109–366 inserted last sentence.
 
@@ -5478,7 +5478,7 @@ Subsec. (d). Pub. L. 114–328, § 5232(a), added subsec. (d).
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 850a. Art. 50a. Defense of lack of mental responsibility
+### § 850a. Art. 50a. Defense of lack of mental responsibility
 
 **(a)** It is an affirmative defense in a trial by court-martial that, at the time of the commission of the acts constituting the offense, the accused, as a result of a severe mental disease or defect, was unable to appreciate the nature and quality or the wrongfulness of the acts. Mental disease or defect does not otherwise constitute a defense.
 
@@ -5506,13 +5506,13 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **(2)** in the case of a court-martial composed of a military judge only, the military judge determines that the defense of lack of mental responsibility has been established.
 
-(Added Pub. L. 99–661, div. A, title VIII, § 802(a)(1), Nov. 14, 1986, 100 Stat. 3905; Pub. L. 114–328, div. E, title LVII, § 5233, Dec. 23, 2016, 130 Stat. 2915.)
+(Added Pub. L. 99–661, div. A, title VIII, § 802(a)(1), Nov. 14, 1986, 100 Stat. 3905; Pub. L. 114–328, div. E, title LVII, § 5233, Dec. 23, 2016, 130 Stat. 2915.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Subsec. (c). Pub. L. 114–328, in introductory provisions, struck out “, or the president of a court-martial without a military judge,” after “the military judge”.
+2016—Subsec. (c). Pub. L. 114–328, in introductory provisions, struck out “, or the president of a court-martial without a military judge,” after “the military judge”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5522,9 +5522,9 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **Effective Date**
 
-Pub. L. 99–661, div. A, title VIII, § 802(b), Nov. 14, 1986, 100 Stat. 3906, provided that: “Section 850a of title 10, United States Code, as added by subsection (a)(1), shall apply only to offenses committed on or after the date of the enactment of this Act [Nov. 14, 1986].”
+Pub. L. 99–661, div. A, title VIII, § 802(b), Nov. 14, 1986, 100 Stat. 3906, provided that: “Section 850a of title 10, United States Code, as added by subsection (a)(1), shall apply only to offenses committed on or after the date of the enactment of this Act [Nov. 14, 1986].”
 
-### § 851. Art. 51. Voting and rulings
+### § 851. Art. 51. Voting and rulings
 
 **(a)** Voting by members of a general or special court-martial on the findings and on the sentence shall be by secret written ballot. The junior member of the court shall count the votes. The count shall be checked by the president, who shall forthwith announce the result of the ballot to the members of the court.
 
@@ -5542,18 +5542,18 @@ Pub. L. 99–661, div. A, title VIII, § 802(b), Nov. 14, 1986, 100 Stat. 3906
 
 **(d)** Subsections (a), (b), and (c) do not apply to a court-martial composed of a military judge only. The military judge of such a court-martial shall determine all questions of law and fact arising during the proceedings and, if the accused is convicted, adjudge an appropriate sentence. The military judge of such a court-martial shall make a general finding and shall in addition on request find the facts specially. If an opinion or memorandum of decision is filed, it will be sufficient if the findings of fact appear therein.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 54; Pub. L. 90–632, § 2(21), Oct. 24, 1968, 82 Stat. 1340; Pub. L. 114–328, div. E, title LVII, § 5234, Dec. 23, 2016, 130 Stat. 2915.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 54; Pub. L. 90–632, § 2(21), Oct. 24, 1968, 82 Stat. 1340; Pub. L. 114–328, div. E, title LVII, § 5234, Dec. 23, 2016, 130 Stat. 2915.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 851(a) 851(b) | 50:626(a). 50:626(b). | May 5, 1950, ch. 169, § 1 (Art. 51), 64 Stat. 124. |
+| 851(a) 851(b) | 50:626(a). 50:626(b). | May 5, 1950, ch. 169, § 1 (Art. 51), 64 Stat. 124. |
 | 851(c) | 50:626(c). |  |
 
 In subsection (a), the words “in each case” are omitted as surplusage.
 
-In subsection (b), the word “is” is substituted for the words “shall be” in the second sentence. The word “constitutes” is substituted for the words “shall constitute”. The word “However,” is substituted for the word “but”. The word “his” is substituted for the words “any such”. The words “the ruling is” are substituted for the words “such ruling be”. The words “voice vote” are substituted for the words “vote \* \* \* viva voce”.
+In subsection (b), the word “is” is substituted for the words “shall be” in the second sentence. The word “constitutes” is substituted for the words “shall constitute”. The word “However,” is substituted for the word “but”. The word “his” is substituted for the words “any such”. The words “the ruling is” are substituted for the words “such ruling be”. The words “voice vote” are substituted for the words “vote \* \* \* viva voce”.
 
 In subsection (c), the word “must” is substituted for the word “shall” in clause (2), since a condition is prescribed, not a command. The words “United States” are substituted for the word “Government”.
 
@@ -5561,19 +5561,19 @@ In subsection (c), the word “must” is substituted for the word “shall” i
 
 **Amendments**
 
-2016—Subsec. (a). Pub. L. 114–328, § 5234(1), struck out “, and by members of a court-martial without a military judge upon questions of challenge,” after “on the sentence”.
+2016—Subsec. (a). Pub. L. 114–328, § 5234(1), struck out “, and by members of a court-martial without a military judge upon questions of challenge,” after “on the sentence”.
 
-Subsec. (b). Pub. L. 114–328, § 5234(2), struck out “and, except for questions of challenge, the president of a court-martial without a military judge” after “The military judge” and substituted “is final and constitutes the ruling of the court, except that the military judge may change a ruling at any time during trial.” for “, or by the president of a court-martial without a military judge upon any question of law other than a motion for a finding of not guilty, is final and constitutes the ruling of the court. However, the military judge or the president of a court-martial without a military judge may change his ruling at any time during trial. Unless the ruling is final, if any member objects thereto, the court shall be cleared and closed and the question decided by a voice vote as provided in section 852 of this title (article 52), beginning with the junior in rank.”
+Subsec. (b). Pub. L. 114–328, § 5234(2), struck out “and, except for questions of challenge, the president of a court-martial without a military judge” after “The military judge” and substituted “is final and constitutes the ruling of the court, except that the military judge may change a ruling at any time during trial.” for “, or by the president of a court-martial without a military judge upon any question of law other than a motion for a finding of not guilty, is final and constitutes the ruling of the court. However, the military judge or the president of a court-martial without a military judge may change his ruling at any time during trial. Unless the ruling is final, if any member objects thereto, the court shall be cleared and closed and the question decided by a voice vote as provided in section 852 of this title (article 52), beginning with the junior in rank.”
 
-Subsec. (c). Pub. L. 114–328, § 5234(3), struck out “or the president of a court-martial without a military judge” after “the military judge” in introductory provisions.
+Subsec. (c). Pub. L. 114–328, § 5234(3), struck out “or the president of a court-martial without a military judge” after “the military judge” in introductory provisions.
 
-1968—Subsec. (a). Pub. L. 90–632, § 2(21)(A), limited the balloting on the question of challenges to courts-martial without military judges.
+1968—Subsec. (a). Pub. L. 90–632, § 2(21)(A), limited the balloting on the question of challenges to courts-martial without military judges.
 
-Subsec. (b). Pub. L. 90–632, § 2(21)(B), substituted “military judge” for “law officer” and inserted reference to the military judge’s ruling upon challenges for cause when a military judge is part of a court-martial and reference to questions of law.
+Subsec. (b). Pub. L. 90–632, § 2(21)(B), substituted “military judge” for “law officer” and inserted reference to the military judge’s ruling upon challenges for cause when a military judge is part of a court-martial and reference to questions of law.
 
-Subsec. (c). Pub. L. 90–632, § 2(21)(C), substituted “military judge” for “law officer” and made minor changes in phraseology eliminating the division between general and special court-martials.
+Subsec. (c). Pub. L. 90–632, § 2(21)(C), substituted “military judge” for “law officer” and made minor changes in phraseology eliminating the division between general and special court-martials.
 
-Subsec. (d). Pub. L. 90–632, § 2(21)(D), added subsec. (d).
+Subsec. (d). Pub. L. 90–632, § 2(21)(D), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5585,7 +5585,7 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 Amendment by Pub. L. 90–632 effective first day of tenth month following October 1968, see section 4 of Pub. L. 90–632, set out as a note under section 801 of this title.
 
-### § 852. Art. 52. Votes required for conviction, sentencing, and other matters
+### § 852. Art. 52. Votes required for conviction, sentencing, and other matters
 
 **(a) In General.—** No person may be convicted of an offense in a general or special court-martial, other than—
 
@@ -5601,13 +5601,13 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 **(2) Sentencing.—** A sentence of death requires (A) a unanimous finding of guilty of an offense in this chapter expressly made punishable by death and (B) a unanimous determination by the members that the sentence for that offense shall include death. All other sentences imposed by members shall be determined by the concurrence of at least three-fourths of the members present when the vote is taken.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 55; Pub. L. 90–632, § 2(22), Oct. 24, 1968, 82 Stat. 1340; Pub. L. 114–328, div. E, title LVII, § 5235, Dec. 23, 2016, 130 Stat. 2916.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 55; Pub. L. 90–632, § 2(22), Oct. 24, 1968, 82 Stat. 1340; Pub. L. 114–328, div. E, title LVII, § 5235, Dec. 23, 2016, 130 Stat. 2916.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 852(a) 852(b) | 50:627(a). 50:627(b) | May 5, 1950, ch. 169, § 1 (Art. 52), 64 Stat. 125. |
+| 852(a) 852(b) | 50:627(a). 50:627(b) | May 5, 1950, ch. 169, § 1 (Art. 52), 64 Stat. 125. |
 | 852(c) | 50:627(c). |  |
 
 In subsections (a) and (b), the word “may” is substituted for the word “shall”.
@@ -5622,9 +5622,9 @@ In subsection (c), the word “disqualifies” is substituted for the words “s
 
 2016—Pub. L. 114–328 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to number of votes required for conviction of an offense for which the death penalty is mandatory, sentences, and all other questions, respectively.
 
-1968—Subsec. (a)(2). Pub. L. 90–632, § 2(22)(A), inserted reference to the exception provided in section 845(b) of this title (article 45(b)).
+1968—Subsec. (a)(2). Pub. L. 90–632, § 2(22)(A), inserted reference to the exception provided in section 845(b) of this title (article 45(b)).
 
-Subsec. (c). Pub. L. 90–632, § 2(22)(B), provided that a determination to reconsider a finding of guilty or to reconsider a sentence, with a view toward decreasing it, may be made by a vote of less than a majority vote which indicates that the reconsideration is not opposed by the number of votes required for that finding or sentence.
+Subsec. (c). Pub. L. 90–632, § 2(22)(B), provided that a determination to reconsider a finding of guilty or to reconsider a sentence, with a view toward decreasing it, may be made by a vote of less than a majority vote which indicates that the reconsideration is not opposed by the number of votes required for that finding or sentence.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5636,7 +5636,7 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 Amendment by Pub. L. 90–632 effective first day of tenth month following October 1968, see section 4 of Pub. L. 90–632, set out as a note under section 801 of this title.
 
-### § 853. Art. 53. Findings and sentencing
+### § 853. Art. 53. Findings and sentencing
 
 **(a) Announcement.—** A court-martial shall announce its findings and sentence to the parties as soon as determined.
 
@@ -5662,13 +5662,13 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 **(3) Other non-capital offenses.—** In a capital case, if the accused is convicted of a non-capital offense, the accused shall be sentenced for such non-capital offense in accordance with subsection (b), regardless of whether the accused is convicted of an offense for which the court-martial may sentence the accused to death.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 56; Pub. L. 114–328, div. E, title LVII, § 5236, Dec. 23, 2016, 130 Stat. 2916; Pub. L. 115–91, div. A, title X, § 1081(c)(1)(G), Dec. 12, 2017, 131 Stat. 1598; Pub. L. 117–81, div. A, title V, § 539E(a), Dec. 27, 2021, 135 Stat. 1700.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 56; Pub. L. 114–328, div. E, title LVII, § 5236, Dec. 23, 2016, 130 Stat. 2916; Pub. L. 115–91, div. A, title X, § 1081(c)(1)(G), Dec. 12, 2017, 131 Stat. 1598; Pub. L. 117–81, div. A, title V, § 539E(a), Dec. 27, 2021, 135 Stat. 1700.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 853 | 50:628. | May 5, 1950, ch. 169, § 1 (Art. 53), 64 Stat. 125. |
+| 853 | 50:628. | May 5, 1950, ch. 169, § 1 (Art. 53), 64 Stat. 125. |
 
 The word “A” is substituted for the word “Every”.
 
@@ -5676,11 +5676,11 @@ The word “A” is substituted for the word “Every”.
 
 **Amendments**
 
-2021—Subsec. (b)(1). Pub. L. 117–81, § 539E(a)(1), amended par. (1) generally. Prior to amendment, par. (1) provided that, except for capital offenses, accused who is convicted in trial by general or special court-martial shall be sentenced by military judge or, if court-martial consisted of military judge and members, accused may elect sentencing by members.
+2021—Subsec. (b)(1). Pub. L. 117–81, § 539E(a)(1), amended par. (1) generally. Prior to amendment, par. (1) provided that, except for capital offenses, accused who is convicted in trial by general or special court-martial shall be sentenced by military judge or, if court-martial consisted of military judge and members, accused may elect sentencing by members.
 
-Subsec. (c)(1). Pub. L. 117–81, § 539E(a)(2)(A), amended par. (1) generally. Prior to amendment, text read as follows: “In a capital case, if the accused is convicted of an offense for which the court-martial may sentence the accused to death, the members shall determine whether the sentence for that offense shall be death or a lesser authorized punishment.”
+Subsec. (c)(1). Pub. L. 117–81, § 539E(a)(2)(A), amended par. (1) generally. Prior to amendment, text read as follows: “In a capital case, if the accused is convicted of an offense for which the court-martial may sentence the accused to death, the members shall determine whether the sentence for that offense shall be death or a lesser authorized punishment.”
 
-Subsec. (c)(2). Pub. L. 117–81, § 539E(a)(2)(B), substituted “the military judge” for “the court-martial”.
+Subsec. (c)(2). Pub. L. 117–81, § 539E(a)(2)(B), substituted “the military judge” for “the court-martial”.
 
 2017—Subsec. (b)(1)(B). Pub. L. 115–91 struck out “in a trial” after “convicted of an offense”.
 
@@ -5690,17 +5690,17 @@ Subsec. (c)(2). Pub. L. 117–81, § 539E(a)(2)(B), substituted “the militar
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 117–81, div. A, title V, § 539E(f), Dec. 27, 2021, 135 Stat. 1706, provided that: “The amendments made by this section [amending this section and sections 853a, 856, and 866 of this title and repealing provisions set out as a note under section 856 of this title] shall take effect on the date that is two years after the date of the enactment of this Act [Dec. 27, 2021] and shall apply to sentences adjudged in cases in which all findings of guilty are for offenses that occurred after the date that is two years after the date of the enactment of this Act.”
+Pub. L. 117–81, div. A, title V, § 539E(f), Dec. 27, 2021, 135 Stat. 1706, provided that: “The amendments made by this section [amending this section and sections 853a, 856, and 866 of this title and repealing provisions set out as a note under section 856 of this title] shall take effect on the date that is two years after the date of the enactment of this Act [Dec. 27, 2021] and shall apply to sentences adjudged in cases in which all findings of guilty are for offenses that occurred after the date that is two years after the date of the enactment of this Act.”
 
 **Effective Date of 2017 Amendment**
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 **Effective Date of 2016 Amendment**
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 853a. Art. 53a. Plea agreements
+### § 853a. Art. 53a. Plea agreements
 
 **(a) In General.—**
 
@@ -5740,7 +5740,7 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **(e) Binding Effect of Plea Agreement.—** Upon acceptance by the military judge of a general or special court-martial, a plea agreement shall bind the parties (including the convening authority and the special trial counsel in the case of a plea agreement entered into under subsection (a)(3)) and the court-martial.
 
-(Added Pub. L. 114–328, div. E, title LVII, § 5237, Dec. 23, 2016, 130 Stat. 2917; amended Pub. L. 115–91, div. A, title V, § 531(d), title X, § 1081(c)(1)(H), Dec. 12, 2017, 131 Stat. 1384, 1598; Pub. L. 117–81, div. A, title V, §§ 539, 539E(b), Dec. 27, 2021, 135 Stat. 1698, 1701.)
+(Added Pub. L. 114–328, div. E, title LVII, § 5237, Dec. 23, 2016, 130 Stat. 2917; amended Pub. L. 115–91, div. A, title V, § 531(d), title X, § 1081(c)(1)(H), Dec. 12, 2017, 131 Stat. 1384, 1598; Pub. L. 117–81, div. A, title V, §§ 539, 539E(b), Dec. 27, 2021, 135 Stat. 1698, 1701.)
 
 **Editorial Notes**
 
@@ -5750,23 +5750,23 @@ Section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, 
 
 **Amendments**
 
-2021—Subsec. (a)(1). Pub. L. 117–81, § 539(a)(1), substituted “Subject to paragraph (3), at any time” for “At any time” in introductory provisions.
+2021—Subsec. (a)(1). Pub. L. 117–81, § 539(a)(1), substituted “Subject to paragraph (3), at any time” for “At any time” in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 117–81, § 539(a)(2), added par. (3).
+Subsec. (a)(3). Pub. L. 117–81, § 539(a)(2), added par. (3).
 
-Subsecs. (b), (c). Pub. L. 117–81, § 539E(b), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
+Subsecs. (b), (c). Pub. L. 117–81, § 539E(b), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 117–81, § 539E(b)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 117–81, § 539E(b)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Pub. L. 117–81, § 539(b), inserted “(including the convening authority and the special trial counsel in the case of a plea agreement entered into under subsection (a)(3))” after “parties”.
+Pub. L. 117–81, § 539(b), inserted “(including the convening authority and the special trial counsel in the case of a plea agreement entered into under subsection (a)(3))” after “parties”.
 
-Subsec. (e). Pub. L. 117–81, § 539E(b)(1), redesignated subsec. (d) as (e).
+Subsec. (e). Pub. L. 117–81, § 539E(b)(1), redesignated subsec. (d) as (e).
 
-2017—Subsec. (b)(4), (5). Pub. L. 115–91, § 531(d)(1), added pars. (4) and (5).
+2017—Subsec. (b)(4), (5). Pub. L. 115–91, § 531(d)(1), added pars. (4) and (5).
 
-Subsec. (d). Pub. L. 115–91, § 1081(c)(1)(H), which directed substitution of “court-martial” for “military judge” the second place it appeared, could not be executed because of the prior amendment by Pub. L. 115–91, § 531(d)(2). See below.
+Subsec. (d). Pub. L. 115–91, § 1081(c)(1)(H), which directed substitution of “court-martial” for “military judge” the second place it appeared, could not be executed because of the prior amendment by Pub. L. 115–91, § 531(d)(2). See below.
 
-Pub. L. 115–91, § 531(d)(2), substituted “shall bind the parties and the court-martial” for “shall bind the parties and the military judge”.
+Pub. L. 115–91, § 531(d)(2), substituted “shall bind the parties and the court-martial” for “shall bind the parties and the military judge”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5778,15 +5778,15 @@ Amendment by section 539E(b) of Pub. L. 117–81 effective on the date that is t
 
 **Effective Date of 2017 Amendment**
 
-Amendment by section 531(d) of Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by section 531(d) of Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
-Amendment by section 1081(c)(1)(H) of Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by section 1081(c)(1)(H) of Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 **Effective Date**
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. 13825, set out as notes under section 801 of this title.
 
-### § 854. Art. 54. Record of trial
+### § 854. Art. 54. Record of trial
 
 **(a) General and Special Courts-martial.—** Each general or special court-martial shall keep a separate record of the proceedings in each case brought before it. The record shall be certified by a court-reporter, except that in the case of death, disability, or absence of a court reporter, the record shall be certified by an official selected as the President may prescribe by regulation.
 
@@ -5802,13 +5802,13 @@ Section effective on Jan. 1, 2019, as designated by the President, with implemen
 
 **(e) Copy to Victim.—** In the case of a general or special court-martial, upon request, a copy of all prepared records of the proceedings of the court-martial shall be given to the victim of the offense if the victim testified during the proceedings. The records of the proceedings shall be provided without charge and as soon as the records are certified. The victim shall be notified of the opportunity to receive the records of the proceedings.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 56; Pub. L. 90–632, § 2(23), Oct. 24, 1968, 82 Stat. 1340; Pub. L. 98–209, § 6(c), Dec. 6, 1983, 97 Stat. 1400; Pub. L. 106–398, § 1 [[div. A], title V, § 555(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–127; Pub. L. 112–81, div. A, title V, § 586(e), Dec. 31, 2011, 125 Stat. 1435; Pub. L. 114–328, div. E, title LVII, § 5238, Dec. 23, 2016, 130 Stat. 2918.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 56; Pub. L. 90–632, § 2(23), Oct. 24, 1968, 82 Stat. 1340; Pub. L. 98–209, § 6(c), Dec. 6, 1983, 97 Stat. 1400; Pub. L. 106–398, § 1 [[div. A], title V, § 555(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–127; Pub. L. 112–81, div. A, title V, § 586(e), Dec. 31, 2011, 125 Stat. 1435; Pub. L. 114–328, div. E, title LVII, § 5238, Dec. 23, 2016, 130 Stat. 2918.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 854(a) 854(b) | 50:629(a). 50:629(b). | May 5, 1950, ch. 169, § 1 (Art. 54), 64 Stat. 125. |
+| 854(a) 854(b) | 50:629(a). 50:629(b). | May 5, 1950, ch. 169, § 1 (Art. 54), 64 Stat. 125. |
 | 854(c) | 50:629(c). |  |
 
 In subsection (a), the word “If” is substituted for the words “In case”. The words “any of those” are substituted for the word “such” in the last sentence.
@@ -5825,25 +5825,25 @@ Another section 586(e) of Pub. L. 112–81 is set out in a note under section 15
 
 **Amendments**
 
-2016—Subsec. (a). Pub. L. 114–328, § 5238(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “Each general court-martial shall keep a separate record of the proceedings in each case brought before it, and the record shall be authenticated by the signature of the military judge. If the record cannot be authenticated by the military judge by reason of his death, disability, or absence, it shall be authenticated by the signature of the trial counsel or by that of a member if the trial counsel is unable to authenticate it by reason of his death, disability, or absence. In a court-martial consisting of only a military judge the record shall be authenticated by the court reporter under the same conditions which would impose such a duty on a member under this subsection.”
+2016—Subsec. (a). Pub. L. 114–328, § 5238(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “Each general court-martial shall keep a separate record of the proceedings in each case brought before it, and the record shall be authenticated by the signature of the military judge. If the record cannot be authenticated by the military judge by reason of his death, disability, or absence, it shall be authenticated by the signature of the trial counsel or by that of a member if the trial counsel is unable to authenticate it by reason of his death, disability, or absence. In a court-martial consisting of only a military judge the record shall be authenticated by the court reporter under the same conditions which would impose such a duty on a member under this subsection.”
 
-Subsec. (b). Pub. L. 114–328, § 5238(2), substituted “Summary Courts-martial.—Each summary court-martial” for “Each special and summary court-martial” and “certified” for “authenticated”.
+Subsec. (b). Pub. L. 114–328, § 5238(2), substituted “Summary Courts-martial.—Each summary court-martial” for “Each special and summary court-martial” and “certified” for “authenticated”.
 
-Subsec. (c). Pub. L. 114–328, § 5238(3), added subsec. (c) and struck out former subsec. (c) which related to preparation of complete record of proceedings.
+Subsec. (c). Pub. L. 114–328, § 5238(3), added subsec. (c) and struck out former subsec. (c) which related to preparation of complete record of proceedings.
 
-Subsec. (d). Pub. L. 114–328, § 5238(4), inserted heading and substituted “certified” for “authenticated”.
+Subsec. (d). Pub. L. 114–328, § 5238(4), inserted heading and substituted “certified” for “authenticated”.
 
-Subsec. (e). Pub. L. 114–328, § 5238(5), inserted heading and substituted “, upon request,” for “involving a sexual assault or other offense covered by section 920 of this title (article 120),” and “certified” for “authenticated”.
+Subsec. (e). Pub. L. 114–328, § 5238(5), inserted heading and substituted “, upon request,” for “involving a sexual assault or other offense covered by section 920 of this title (article 120),” and “certified” for “authenticated”.
 
 2011—Subsec. (e). Pub. L. 112–81 added subsec. (e).
 
-2000—Subsec. (c)(1)(B). Pub. L. 106–398 inserted “, confinement for more than six months, or forfeiture of pay for more than six months” after “bad-conduct discharge”.
+2000—Subsec. (c)(1)(B). Pub. L. 106–398 inserted “, confinement for more than six months, or forfeiture of pay for more than six months” after “bad-conduct discharge”.
 
-1983—Subsec. (a). Pub. L. 98–209, § 6(c)(1), struck out provision that if the proceedings had resulted in an acquittal of all charges and specifications or, if not affecting a general or flag officer, in a sentence not including discharge and not in excess of that which could otherwise be adjudged by a special court-martial, the record had to contain such matters as might be prescribed by regulations of the President.
+1983—Subsec. (a). Pub. L. 98–209, § 6(c)(1), struck out provision that if the proceedings had resulted in an acquittal of all charges and specifications or, if not affecting a general or flag officer, in a sentence not including discharge and not in excess of that which could otherwise be adjudged by a special court-martial, the record had to contain such matters as might be prescribed by regulations of the President.
 
-Subsec. (b). Pub. L. 98–209, § 6(c)(2), substituted “the record” for “the record shall contain the matter and”.
+Subsec. (b). Pub. L. 98–209, § 6(c)(2), substituted “the record” for “the record shall contain the matter and”.
 
-Subsecs. (c), (d). Pub. L. 98–209, § 6(c)(3), (4), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 98–209, § 6(c)(3), (4), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 1968—Subsec. (a). Pub. L. 90–632 provided for authentication of a record of trial by general court-martial by the signature of the military judge, for alternate methods of authentication if the military judge for specified reasons is unable to authenticate it, for authentication when a court-martial consists only of a military judge, and for summarized records of trial in specified cases.
 
@@ -5855,7 +5855,7 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–398, § 1 [[div. A], title V, § 555(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–127, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of April 1, 2000, and shall apply with respect to charges referred on or after that date to trial by special court-martial.”
+Pub. L. 106–398, § 1 [[div. A], title V, § 555(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–127, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of April 1, 2000, and shall apply with respect to charges referred on or after that date to trial by special court-martial.”
 
 **Effective Date of 1983 Amendment**
 
@@ -5882,21 +5882,21 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 **Amendments**
 
-2017—Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, made technical amendment to Pub. L. 114–328, § 5541(5). See 2016 Amendment note below.
+2017—Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, made technical amendment to Pub. L. 114–328, § 5541(5). See 2016 Amendment note below.
 
-Pub. L. 115–91, div. A, title V, § 531(f)(3), Dec. 12, 2017, 131 Stat. 1385, added item 858a and struck out former item 858a “Sentences: reduction in enlisted grade upon approval”.
+Pub. L. 115–91, div. A, title V, § 531(f)(3), Dec. 12, 2017, 131 Stat. 1385, added item 858a and struck out former item 858a “Sentences: reduction in enlisted grade upon approval”.
 
-2016—Pub. L. 114–328, div. E, title LXIII, § 5541(5), Dec. 23, 2016, 130 Stat. 2966, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, substituted “Sentencing” for “Maximum and minimum limits” in item 856 and struck out items 856a “Art. 56a. Sentence of confinement for life without eligibility for parole” and 857a “Art. 57a. Deferment of sentences”.
+2016—Pub. L. 114–328, div. E, title LXIII, § 5541(5), Dec. 23, 2016, 130 Stat. 2966, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, substituted “Sentencing” for “Maximum and minimum limits” in item 856 and struck out items 856a “Art. 56a. Sentence of confinement for life without eligibility for parole” and 857a “Art. 57a. Deferment of sentences”.
 
-2013—Pub. L. 113–66, div. A, title XVII, § 1705(a)(2)(B), Dec. 26, 2013, 127 Stat. 959, substituted “Maximum and minimum limits” for “Maximum limits” in item 856.
+2013—Pub. L. 113–66, div. A, title XVII, § 1705(a)(2)(B), Dec. 26, 2013, 127 Stat. 959, substituted “Maximum and minimum limits” for “Maximum limits” in item 856.
 
-1997—Pub. L. 105–85, div. A, title V, § 581(a)(2), Nov. 18, 1997, 111 Stat. 1760, added item 856a.
+1997—Pub. L. 105–85, div. A, title V, § 581(a)(2), Nov. 18, 1997, 111 Stat. 1760, added item 856a.
 
-1996—Pub. L. 104–106, div. A, title XI, §§ 1122(a)(2), 1123(b), Feb. 10, 1996, 110 Stat. 463, 464, added items 857a and 858b.
+1996—Pub. L. 104–106, div. A, title XI, §§ 1122(a)(2), 1123(b), Feb. 10, 1996, 110 Stat. 463, 464, added items 857a and 858b.
 
-1960—Pub. L. 86–633, § 1(2), July 12, 1960, 74 Stat. 468, added item 858a.
+1960—Pub. L. 86–633, § 1(2), July 12, 1960, 74 Stat. 468, added item 858a.
 
-### § 855. Art. 55. Cruel and unusual punishments prohibited
+### § 855. Art. 55. Cruel and unusual punishments prohibited
 
 Punishment by flogging, or by branding, marking, or tattooing on the body, or any other cruel or unusual punishment, may not be adjudged by any court-martial or inflicted upon any person subject to this chapter. The use of irons, single or double, except for the purpose of safe custody, is prohibited.
 
@@ -5906,19 +5906,19 @@ Punishment by flogging, or by branding, marking, or tattooing on the body, or an
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 855 | 50:636. | May 5, 1950, ch. 169, § 1 (Art. 55), 64 Stat. 126. |
+| 855 | 50:636. | May 5, 1950, ch. 169, § 1 (Art. 55), 64 Stat. 126. |
 
 The word “may” is substituted for the word “shall”.
 
-### § 856. Art. 56. Sentencing
+### § 856. Art. 56. Sentencing
 
 **(a) Sentence Maximums.—** The punishment which a court-martial may direct for an offense may not exceed such limits as the President may prescribe for that offense.
 
 **(b) Sentence Minimums for Certain Offenses.—**
 
-**(1)** Except as provided in subsection (c) 1
+**(1)** Except as provided in subsection (c) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of section 853a of this title (article 53a), punishment for any offense specified in paragraph (2) shall include dismissal or dishonorable discharge, as applicable.
 
@@ -6008,13 +6008,13 @@ of section 853a of this title (article 53a), punishment for any offense specifie
 
 **(2)** An appeal under this subsection must be filed within 60 days after the date on which the judgment of a court-martial is entered into the record under section 860c of this title (article 60c).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 56; Pub. L. 113–66, div. A, title XVII, § 1702(a)(1), (2)(A), Dec. 26, 2013, 127 Stat. 959; Pub. L. 114–328, div. E, title LVIII, § 5301(a), Dec. 23, 2016, 130 Stat. 2919; Pub. L. 115–91, div. A, title V, § 531(e), Dec. 12, 2017, 131 Stat. 1385; Pub. L. 117–81, div. A, title V, § 539E(c), title X, § 1081(a)(14), Dec. 27, 2021, 135 Stat. 1701, 1920.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 56; Pub. L. 113–66, div. A, title XVII, § 1702(a)(1), (2)(A), Dec. 26, 2013, 127 Stat. 959; Pub. L. 114–328, div. E, title LVIII, § 5301(a), Dec. 23, 2016, 130 Stat. 2919; Pub. L. 115–91, div. A, title V, § 531(e), Dec. 12, 2017, 131 Stat. 1385; Pub. L. 117–81, div. A, title V, § 539E(c), title X, § 1081(a)(14), Dec. 27, 2021, 135 Stat. 1701, 1920.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 856 | 50:637. | May 5, 1950, ch. 169, § 1 (Art. 56), 64 Stat. 126. |
+| 856 | 50:637. | May 5, 1950, ch. 169, § 1 (Art. 56), 64 Stat. 126. |
 
 The word “may” is substituted for the word “shall”.
 
@@ -6022,27 +6022,27 @@ The word “may” is substituted for the word “shall”.
 
 **References in Text**
 
-Subsection (c) of section 853a of this title, referred to in subsec. (b)(1), was redesignated subsec. (d) of section 853a of this title by Pub. L. 117–81, div. A, title V, § 539E(b)(1), Dec. 27, 2021, 135 Stat. 1701.
+Subsection (c) of section 853a of this title, referred to in subsec. (b)(1), was redesignated subsec. (d) of section 853a of this title by Pub. L. 117–81, div. A, title V, § 539E(b)(1), Dec. 27, 2021, 135 Stat. 1701.
 
 Section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsecs. (c)(1)(E), (2)(A), (3), (d)(1)(B), is section 539E(e) of Pub. L. 117–81, which is set out as a note below.
 
 **Amendments**
 
-2021—Subsec. (b)(1). Pub. L. 117–81, § 1081(a)(14), substituted “subsection (c) of section 853a” for “subsection (d) of section 853a”.
+2021—Subsec. (b)(1). Pub. L. 117–81, § 1081(a)(14), substituted “subsection (c) of section 853a” for “subsection (d) of section 853a”.
 
-Subsec. (c)(1)(E). Pub. L. 117–81, § 539E(c)(1)(A), added subpar. (E).
+Subsec. (c)(1)(E). Pub. L. 117–81, § 539E(c)(1)(A), added subpar. (E).
 
-Subsec. (c)(2) to (6). Pub. L. 117–81, § 539E(c)(1)(B), added pars. (2) to (6) and struck out former pars. (2) to (4) which related to sentencing by military judge, sentencing by members, and sentence of confinement for life without eligibility for parole, respectively.
+Subsec. (c)(2) to (6). Pub. L. 117–81, § 539E(c)(1)(B), added pars. (2) to (6) and struck out former pars. (2) to (4) which related to sentencing by military judge, sentencing by members, and sentence of confinement for life without eligibility for parole, respectively.
 
-Subsec. (d)(1)(B). Pub. L. 117–81, § 539E(c)(4)(C), added subpar. (B). Former subpar. (B) redesignated (C).
+Subsec. (d)(1)(B). Pub. L. 117–81, § 539E(c)(4)(C), added subpar. (B). Former subpar. (B) redesignated (C).
 
-Subsec. (d)(1)(C). Pub. L. 117–81, § 539E(c)(4)(D), struck out “, as determined in accordance with standards and procedures prescribed by the President” after “unreasonable”.
+Subsec. (d)(1)(C). Pub. L. 117–81, § 539E(c)(4)(D), struck out “, as determined in accordance with standards and procedures prescribed by the President” after “unreasonable”.
 
-Pub. L. 117–81, § 539E(c)(4)(A), (B), redesignated subpar. (B) as (C).
+Pub. L. 117–81, § 539E(c)(4)(A), (B), redesignated subpar. (B) as (C).
 
-2017—Subsec. (d)(1). Pub. L. 115–91, § 531(e)(1), inserted “and consistent with standards and procedures set forth in regulations prescribed by the President,” after “concerned,” in introductory provisions.
+2017—Subsec. (d)(1). Pub. L. 115–91, § 531(e)(1), inserted “and consistent with standards and procedures set forth in regulations prescribed by the President,” after “concerned,” in introductory provisions.
 
-Subsec. (d)(1)(B). Pub. L. 115–91, § 531(e)(2), inserted “, as determined in accordance with standards and procedures prescribed by the President” before period at end.
+Subsec. (d)(1)(B). Pub. L. 115–91, § 531(e)(2), inserted “, as determined in accordance with standards and procedures prescribed by the President” before period at end.
 
 2016—Pub. L. 114–328 amended section generally. Prior to amendment, section related to maximum and minimum sentencing limits.
 
@@ -6056,7 +6056,7 @@ Amendment by section 539E(c) of Pub. L. 117–81 effective on the date that is t
 
 **Effective Date of 2017 Amendment**
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 **Effective Date of 2016 Amendment**
 
@@ -6068,7 +6068,7 @@ Amendment by Pub. L. 113–66 effective 180 days after Dec. 26, 2013, and applic
 
 **Establishment of Sentencing Parameters and Sentencing Criteria**
 
-Pub. L. 117–81, div. A, title V, § 539E(e), Dec. 27, 2021, 135 Stat. 1704, provided that:
+Pub. L. 117–81, div. A, title V, § 539E(e), Dec. 27, 2021, 135 Stat. 1704, provided that:
 
 > **“(1) In general.—** Not later than two years after the date of the enactment of this Act [Dec. 27, 2021], the President shall prescribe regulations establishing sentencing parameters and sentencing criteria related to offenses under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), in accordance with this subsection. Such parameters and criteria—
 
@@ -6148,7 +6148,7 @@ Pub. L. 117–81, div. A, title V, § 539E(e), Dec. 27, 2021, 135 Stat. 1704, 
 
 **Guidelines on Sentences for Offenses Committed Under the Uniform Code of Military Justice**
 
-Pub. L. 116–92, div. A, title V, § 537, Dec. 20, 2019, 133 Stat. 1363, which required the Secretary of Defense to develop nonbinding guidelines on sentences for offenses under chapter 47 of this title, not later than one year after date on which first report of Military Justice Review Panel is submitted to Committees on Armed Services of Senate and House of Representatives pursuant to section 946(f)(5) of this title, was repealed by Pub. L. 117–81, div. A, title V, § 539E(g), Dec. 27, 2021, 135 Stat. 1706. See section 539E(e) of Pub. L. 117–81, set out as a note above.
+Pub. L. 116–92, div. A, title V, § 537, Dec. 20, 2019, 133 Stat. 1363, which required the Secretary of Defense to develop nonbinding guidelines on sentences for offenses under chapter 47 of this title, not later than one year after date on which first report of Military Justice Review Panel is submitted to Committees on Armed Services of Senate and House of Representatives pursuant to section 946(f)(5) of this title, was repealed by Pub. L. 117–81, div. A, title V, § 539E(g), Dec. 27, 2021, 135 Stat. 1706. See section 539E(e) of Pub. L. 117–81, set out as a note above.
 
 **Executive Documents**
 
@@ -6170,9 +6170,9 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 J.R. Biden, Jr.
 
-### [§ 856a. Repealed. Pub. L. 114–328, div. E, title LVIII, § 5301(b), Dec. 23, 2016, 130 Stat. 2920]
+### [§ 856a. Repealed. Pub. L. 114–328, div. E, title LVIII, § 5301(b), Dec. 23, 2016, 130 Stat. 2920]
 
-Section, added Pub. L. 105–85, div. A, title V, § 581(a)(1), Nov. 18, 1997, 111 Stat. 1759, related to sentence of confinement for life without eligibility for parole.
+Section, added Pub. L. 105–85, div. A, title V, § 581(a)(1), Nov. 18, 1997, 111 Stat. 1759, related to sentence of confinement for life without eligibility for parole.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6180,7 +6180,7 @@ Section, added Pub. L. 105–85, div. A, title V, § 581(a)(1), Nov. 18, 1997,
 
 Repeal effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 857. Art. 57. Effective date of sentences
+### § 857. Art. 57. Effective date of sentences
 
 **(a) Execution of Sentences.—** A court-martial sentence shall be executed and take effect as follows:
 
@@ -6238,13 +6238,13 @@ Repeal effective on Jan. 1, 2019, as designated by the President, with implement
 
 **(2) Completion as final judgment of legality of proceedings.—** The completion of appellate review shall constitute a final judgment as to the legality of the proceedings.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 56; Pub. L. 90–632, § 2(24), Oct. 24, 1968, 82 Stat. 1341; Pub. L. 98–209, § 5(f), Dec. 6, 1983, 97 Stat. 1400; Pub. L. 102–484, div. A, title X, § 1064, Oct. 23, 1992, 106 Stat. 2505; Pub. L. 104–106, div. A, title XI, §§ 1121(a), 1123(a)(1), (2), Feb. 10, 1996, 110 Stat. 462–464; Pub. L. 114–328, div. E, title LVIII, § 5302(a), Dec. 23, 2016, 130 Stat. 2921.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 56; Pub. L. 90–632, § 2(24), Oct. 24, 1968, 82 Stat. 1341; Pub. L. 98–209, § 5(f), Dec. 6, 1983, 97 Stat. 1400; Pub. L. 102–484, div. A, title X, § 1064, Oct. 23, 1992, 106 Stat. 2505; Pub. L. 104–106, div. A, title XI, §§ 1121(a), 1123(a)(1), (2), Feb. 10, 1996, 110 Stat. 462–464; Pub. L. 114–328, div. E, title LVIII, § 5302(a), Dec. 23, 2016, 130 Stat. 2921.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 857(a) 857(b) | 50:638(a). 50:638(b). | May 5, 1950, ch. 169, § 1 (Art. 57), 64 Stat. 126. |
+| 857(a) 857(b) | 50:638(a). 50:638(b). | May 5, 1950, ch. 169, § 1 (Art. 57), 64 Stat. 126. |
 | 857(c) | 50:638(c). |  |
 
 In subsection (a), the word “may” is substituted for the word “shall”.
@@ -6259,9 +6259,9 @@ In subsection (c), the word “are” is substituted for the words “shall beco
 
 2016—Pub. L. 114–328 amended section generally. Prior to amendment, section related to effective date of sentences.
 
-1996—Subsec. (a). Pub. L. 104–106, § 1121(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “No forfeiture may extend to any pay or allowances accrued before the date on which the sentence is approved by the person acting under section 860(c) of this title (article 60(c)).”
+1996—Subsec. (a). Pub. L. 104–106, § 1121(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “No forfeiture may extend to any pay or allowances accrued before the date on which the sentence is approved by the person acting under section 860(c) of this title (article 60(c)).”
 
-Subsecs. (d), (e). Pub. L. 104–106, § 1123(a)(1), (2), redesignated subsecs. (d) and (e) as section 857a(a) and (b), respectively, of this title.
+Subsecs. (d), (e). Pub. L. 104–106, § 1123(a)(1), (2), redesignated subsecs. (d) and (e) as section 857a(a) and (b), respectively, of this title.
 
 1992—Subsec. (e). Pub. L. 102–484 added subsec. (e).
 
@@ -6281,7 +6281,7 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title XI, § 1121(b), Feb. 10, 1996, 110 Stat. 462, provided that: “The amendment made by subsection (a) [amending this section] shall apply to a case in which a sentence is adjudged by a court-martial on or after the first day of the first month that begins at least 30 days after the date of the enactment of this Act [Feb. 10, 1996].”
+Pub. L. 104–106, div. A, title XI, § 1121(b), Feb. 10, 1996, 110 Stat. 462, provided that: “The amendment made by subsection (a) [amending this section] shall apply to a case in which a sentence is adjudged by a court-martial on or after the first day of the first month that begins at least 30 days after the date of the enactment of this Act [Feb. 10, 1996].”
 
 **Effective Date of 1992 Amendment**
 
@@ -6295,9 +6295,9 @@ Amendment by Pub. L. 98–209 effective first day of eighth calendar month begin
 
 Amendment by Pub. L. 90–632 effective first day of tenth month following October 1968, see section 4 of Pub. L. 90–632, set out as a note under section 801 of this title.
 
-### [§ 857a. Repealed. Pub. L. 114–328, div. E, title LVIII, § 5302(b)(1), Dec. 23, 2016, 130 Stat. 2923]
+### [§ 857a. Repealed. Pub. L. 114–328, div. E, title LVIII, § 5302(b)(1), Dec. 23, 2016, 130 Stat. 2923]
 
-Section, added Pub. L. 90–632, § 2(24), Oct. 24, 1968, 82 Stat. 1341, § 857(d); amended Pub. L. 102–484, div. A, title X, § 1064, Oct. 23, 1992, 106 Stat. 2505; renumbered § 857a and amended Pub. L. 104–106, div. A, title XI, § 1123(a), Feb. 10, 1996, 110 Stat. 463, related to deferment of sentence to confinement.
+Section, added Pub. L. 90–632, § 2(24), Oct. 24, 1968, 82 Stat. 1341, § 857(d); amended Pub. L. 102–484, div. A, title X, § 1064, Oct. 23, 1992, 106 Stat. 2505; renumbered § 857a and amended Pub. L. 104–106, div. A, title XI, § 1123(a), Feb. 10, 1996, 110 Stat. 463, related to deferment of sentence to confinement.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6305,19 +6305,19 @@ Section, added Pub. L. 90–632, § 2(24), Oct. 24, 1968, 82 Stat. 1341, § 
 
 Repeal effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 858. Art. 58. Execution of confinement
+### § 858. Art. 58. Execution of confinement
 
 **(a)** Under such instructions as the Secretary concerned may prescribe, a sentence of confinement adjudged by a court-martial or other military tribunal, whether or not the sentence includes discharge or dismissal, and whether or not the discharge or dismissal has been executed, may be carried into execution by confinement in any place of confinement under the control of any of the armed forces or in any penal or correctional institution under the control of the United States, or which the United States may be allowed to use. Persons so confined in a penal or correctional institution not under the control of one of the armed forces are subject to the same discipline and treatment as persons confined or committed by the courts of the United States or of the State, District of Columbia, or place in which the institution is situated.
 
 **(b)** The omission of the words “hard labor” from any sentence of a court-martial adjudging confinement does not deprive the authority executing that sentence of the power to require hard labor as a part of the punishment.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 57; Pub. L. 109–163, div. A, title X, § 1057(a)(3), Jan. 6, 2006, 119 Stat. 3440.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 57; Pub. L. 109–163, div. A, title X, § 1057(a)(3), Jan. 6, 2006, 119 Stat. 3440.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 858(a) 858(b) | 50:639(a). 50:639(b). | May 5, 1950, ch. 169, § 1 (Art. 58), 64 Stat. 126. |
+| 858(a) 858(b) | 50:639(a). 50:639(b). | May 5, 1950, ch. 169, § 1 (Art. 58), 64 Stat. 126. |
 
 In subsection (a), the words “Secretary concerned” are substituted for the words “Department concerned”, since the “Department” as an entity, cannot issue instructions. The word “are” is substituted for the words “shall be”. The words “of Columbia” are inserted after “District” for clarity.
 
@@ -6329,7 +6329,7 @@ In subsection (b), the word “from” is substituted for the word “in”. The
 
 2006—Subsec. (a). Pub. L. 109–163 struck out “Territory,” after “State,”.
 
-### § 858a. Art. 58a. Sentences: reduction in enlisted grade
+### § 858a. Art. 58a. Sentences: reduction in enlisted grade
 
 **(a)** A court-martial sentence of an enlisted member in a pay grade above E–1, as set forth in the judgment of the court-martial entered into the record under section 860c of this title (article 60c), that includes—
 
@@ -6343,31 +6343,31 @@ reduces that member to pay grade E–1, if such a reduction is authorized by reg
 
 **(b)** If the sentence of a member who is reduced in pay grade under subsection (a) is set aside or reduced, or, as finally affirmed, does not include any punishment named in subsection (a)(1), (2), or (3), the rights and privileges of which he was deprived because of that reduction shall be restored to him and he is entitled to the pay and allowances to which he would have been entitled, for the period the reduction was in effect, had he not been so reduced.
 
-(Added Pub. L. 86–633, § 1(1), July 12, 1960, 74 Stat. 468; amended Pub. L. 114–328, div. E, title LVIII, § 5303, Dec. 23, 2016, 130 Stat. 2923; Pub. L. 115–91, div. A, title V, § 531(f)(1), (2), Dec. 12, 2017, 131 Stat. 1385.)
+(Added Pub. L. 86–633, § 1(1), July 12, 1960, 74 Stat. 468; amended Pub. L. 114–328, div. E, title LVIII, § 5303, Dec. 23, 2016, 130 Stat. 2923; Pub. L. 115–91, div. A, title V, § 531(f)(1), (2), Dec. 12, 2017, 131 Stat. 1385.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Pub. L. 115–91, § 531(f)(2), struck out “upon approval” after “reduction in enlisted grade” in section catchline.
+2017—Pub. L. 115–91, § 531(f)(2), struck out “upon approval” after “reduction in enlisted grade” in section catchline.
 
-Subsec. (a). Pub. L. 115–91, § 531(f)(1), substituted “, if such a reduction is authorized by regulation prescribed by the President. The reduction in pay grade shall take effect on the date” for “, effective on the date” in concluding provisions.
+Subsec. (a). Pub. L. 115–91, § 531(f)(1), substituted “, if such a reduction is authorized by regulation prescribed by the President. The reduction in pay grade shall take effect on the date” for “, effective on the date” in concluding provisions.
 
-2016—Subsec. (a). Pub. L. 114–328, § 5303(1), in introductory provisions, substituted “A” for “Unless otherwise provided in regulations to be prescribed by the Secretary concerned, a” and “as set forth in the judgment of the court-martial entered into the record under section 860c of this title (article 60c)” for “as approved by the convening authority”, and, in concluding provisions, substituted “on which the judgment is so entered” for “of that approval”.
+2016—Subsec. (a). Pub. L. 114–328, § 5303(1), in introductory provisions, substituted “A” for “Unless otherwise provided in regulations to be prescribed by the Secretary concerned, a” and “as set forth in the judgment of the court-martial entered into the record under section 860c of this title (article 60c)” for “as approved by the convening authority”, and, in concluding provisions, substituted “on which the judgment is so entered” for “of that approval”.
 
-Subsec. (b). Pub. L. 114–328, § 5303(2), substituted “reduced, or, as finally affirmed” for “disapproved, or, as finally approved”.
+Subsec. (b). Pub. L. 114–328, § 5303(2), substituted “reduced, or, as finally affirmed” for “disapproved, or, as finally approved”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2017 Amendment**
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 **Effective Date of 2016 Amendment**
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 858b. Art. 58b. Sentences: forfeiture of pay and allowances during confinement
+### § 858b. Art. 58b. Sentences: forfeiture of pay and allowances during confinement
 
 **(a)**
 
@@ -6383,7 +6383,7 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **(c)** If the sentence of a member who forfeits pay and allowances under subsection (a) is set aside or disapproved or, as finally approved, does not provide for a punishment referred to in subsection (a)(2), the member shall be paid the pay and allowances which the member would have been paid, except for the forfeiture, for the period during which the forfeiture was in effect.
 
-(Added Pub. L. 104–106, div. A, title XI, § 1122(a)(1), Feb. 10, 1996, 110 Stat. 463; amended Pub. L. 104–201, div. A, title X, § 1068(a)(1), Sept. 23, 1996, 110 Stat. 2655; Pub. L. 105–85, div. A, title X, § 1073(a)(9), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 114–328, div. E, title LVIII, § 5302(b)(3), Dec. 23, 2016, 130 Stat. 2923; Pub. L. 115–91, div. A, title V, § 531(g), Dec. 12, 2017, 131 Stat. 1385.)
+(Added Pub. L. 104–106, div. A, title XI, § 1122(a)(1), Feb. 10, 1996, 110 Stat. 463; amended Pub. L. 104–201, div. A, title X, § 1068(a)(1), Sept. 23, 1996, 110 Stat. 2655; Pub. L. 105–85, div. A, title X, § 1073(a)(9), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 114–328, div. E, title LVIII, § 5302(b)(3), Dec. 23, 2016, 130 Stat. 2923; Pub. L. 115–91, div. A, title V, § 531(g), Dec. 12, 2017, 131 Stat. 1385.)
 
 **Editorial Notes**
 
@@ -6395,15 +6395,15 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 1997—Subsec. (a)(1). Pub. L. 105–85 substituted “forfeiture of pay, or of pay and allowances, due that member” for “forfeiture of pay and (if adjudged by a general court-martial) allowances due that member” in first sentence.
 
-1996—Subsec. (a)(1). Pub. L. 104–201, § 1068(a)(1)(B), substituted “two-thirds of all pay” for “two-thirds of all pay and allowances” in third sentence.
+1996—Subsec. (a)(1). Pub. L. 104–201, § 1068(a)(1)(B), substituted “two-thirds of all pay” for “two-thirds of all pay and allowances” in third sentence.
 
-Pub. L. 104–201, § 1068(a)(1)(A), which directed amendment of first sentence by inserting “(if adjudged by a general court-martial)” after “all pay and”, was executed by making the insertion after “of pay and” in first sentence to reflect the probable intent of Congress.
+Pub. L. 104–201, § 1068(a)(1)(A), which directed amendment of first sentence by inserting “(if adjudged by a general court-martial)” after “all pay and”, was executed by making the insertion after “of pay and” in first sentence to reflect the probable intent of Congress.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2017 Amendment**
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 **Effective Date of 2016 Amendment**
 
@@ -6411,11 +6411,11 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–201, div. A, title X, § 1068(a)(2), Sept. 23, 1996, 110 Stat. 2655, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect as of April 1, 1996, and shall apply to any case in which a sentence is adjudged by a court-martial on or after that date.”
+Pub. L. 104–201, div. A, title X, § 1068(a)(2), Sept. 23, 1996, 110 Stat. 2655, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect as of April 1, 1996, and shall apply to any case in which a sentence is adjudged by a court-martial on or after that date.”
 
 **Effective Date**
 
-Pub. L. 104–106, div. A, title XI, § 1122(b), Feb. 10, 1996, 110 Stat. 463, provided that: “The section (article) added by the amendment made by subsection (a)(1) [this section] shall apply to a case in which a sentence is adjudged by a court-martial on or after the first day of the first month that begins at least 30 days after the date of the enactment of this Act [Feb. 10, 1996].”
+Pub. L. 104–106, div. A, title XI, § 1122(b), Feb. 10, 1996, 110 Stat. 463, provided that: “The section (article) added by the amendment made by subsection (a)(1) [this section] shall apply to a case in which a sentence is adjudged by a court-martial on or after the first day of the first month that begins at least 30 days after the date of the enactment of this Act [Feb. 10, 1996].”
 
 ## SUBCHAPTER IX—POST-TRIAL PROCEDURE AND REVIEW OF COURTS-MARTIAL
 
@@ -6450,29 +6450,29 @@ Pub. L. 104–106, div. A, title XI, § 1122(b), Feb. 10, 1996, 110 Stat. 463,
 
 **Amendments**
 
-2017—Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, made technical amendment to Pub. L. 114–328, § 5541(6)(A) to (C). See 2016 Amendment notes below.
+2017—Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, made technical amendment to Pub. L. 114–328, § 5541(6)(A) to (C). See 2016 Amendment notes below.
 
-2016—Pub. L. 114–328, div. E, title LXIII, § 5541(6)(D), Dec. 23, 2016, 130 Stat. 2967, struck out item 871 “Art. 71. Execution of sentence; suspension of sentence”.
+2016—Pub. L. 114–328, div. E, title LXIII, § 5541(6)(D), Dec. 23, 2016, 130 Stat. 2967, struck out item 871 “Art. 71. Execution of sentence; suspension of sentence”.
 
-Pub. L. 114–328, div. E, title LXIII, § 5541(6)(B), (C), Dec. 23, 2016, 130 Stat. 2967, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, substituted “Judge advocate review of finding of guilty in summary court-martial” for “Review by a judge advocate” in item 864, “Transmittal and review of records” for “Disposition of records” in item 865, “Courts of Criminal Appeals” for “Review by Court of Criminal Appeals” in item 866, and “Review by Judge Advocate General” for “Review in the office of the Judge Advocate General” in item 869.
+Pub. L. 114–328, div. E, title LXIII, § 5541(6)(B), (C), Dec. 23, 2016, 130 Stat. 2967, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, substituted “Judge advocate review of finding of guilty in summary court-martial” for “Review by a judge advocate” in item 864, “Transmittal and review of records” for “Disposition of records” in item 865, “Courts of Criminal Appeals” for “Review by Court of Criminal Appeals” in item 866, and “Review by Judge Advocate General” for “Review in the office of the Judge Advocate General” in item 869.
 
-Pub. L. 114–328, div. E, title LXIII, § 5541(6)(A), Dec. 23, 2016, 130 Stat. 2966, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, added items 860a to 860c and substituted “Post-trial processing in general and special courts-martial” for “Action by the convening authority” in item 860.
+Pub. L. 114–328, div. E, title LXIII, § 5541(6)(A), Dec. 23, 2016, 130 Stat. 2966, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, added items 860a to 860c and substituted “Post-trial processing in general and special courts-martial” for “Action by the convening authority” in item 860.
 
-Pub. L. 114–328, div. E, title LXIII, § 5541(6)(A), Dec. 23, 2016, 130 Stat. 2966, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, which directed amendment of analysis by striking out item “61” and inserting item 861, was amended by striking out item 861 “Waiver or withdrawal of appeal” and adding new item 861 to reflect the probable intent of Congress.
+Pub. L. 114–328, div. E, title LXIII, § 5541(6)(A), Dec. 23, 2016, 130 Stat. 2966, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, which directed amendment of analysis by striking out item “61” and inserting item 861, was amended by striking out item 861 “Waiver or withdrawal of appeal” and adding new item 861 to reflect the probable intent of Congress.
 
-1996—Pub. L. 104–106, div. A, title XI, § 1133(a)(2), Feb. 10, 1996, 110 Stat. 466, added item 876b.
+1996—Pub. L. 104–106, div. A, title XI, § 1133(a)(2), Feb. 10, 1996, 110 Stat. 466, added item 876b.
 
-1994—Pub. L. 103–337, div. A, title IX, § 924(c)(4)(C), Oct. 5, 1994, 108 Stat. 2832, substituted “Court of Criminal Appeals” for “Court of Military Review” in item 866 and “Court of Appeals for the Armed Forces” for “Court of Military Appeals” in item 867.
+1994—Pub. L. 103–337, div. A, title IX, § 924(c)(4)(C), Oct. 5, 1994, 108 Stat. 2832, substituted “Court of Criminal Appeals” for “Court of Military Review” in item 866 and “Court of Appeals for the Armed Forces” for “Court of Military Appeals” in item 867.
 
-1990—Pub. L. 101–510, div. A, title XIV, § 1484(i)(1), Nov. 5, 1990, 104 Stat. 1718, added item 867a.
+1990—Pub. L. 101–510, div. A, title XIV, § 1484(i)(1), Nov. 5, 1990, 104 Stat. 1718, added item 867a.
 
-1983—Pub. L. 98–209, §§ 5(a)(2), (b)(2), (c)(2), (h)(2), 6(d)(2), 7(a)(2), Dec. 6, 1983, 97 Stat. 1397, 1398, 1400–1402, substituted “Post-trial Procedure and Review of Courts-Martial” for “Review of Courts-Martial” as subchapter heading, “Action by the convening authority” for “Initial action on the record” in item 860, “Waiver or withdrawal of appeal” for “Same—General court-martial records” in item 861, “Appeal by the United States” for “Reconsideration and revision” in item 862, “Review by a judge advocate” for “Approval by the convening authority” in item 864, and “Disposition of records” for “Disposition of records after review by the convening authority” in item 865.
+1983—Pub. L. 98–209, §§ 5(a)(2), (b)(2), (c)(2), (h)(2), 6(d)(2), 7(a)(2), Dec. 6, 1983, 97 Stat. 1397, 1398, 1400–1402, substituted “Post-trial Procedure and Review of Courts-Martial” for “Review of Courts-Martial” as subchapter heading, “Action by the convening authority” for “Initial action on the record” in item 860, “Waiver or withdrawal of appeal” for “Same—General court-martial records” in item 861, “Appeal by the United States” for “Reconsideration and revision” in item 862, “Review by a judge advocate” for “Approval by the convening authority” in item 864, and “Disposition of records” for “Disposition of records after review by the convening authority” in item 865.
 
-1981—Pub. L. 97–81, § 2(c)(2), Nov. 20, 1981, 95 Stat. 1087, added item 876a.
+1981—Pub. L. 97–81, § 2(c)(2), Nov. 20, 1981, 95 Stat. 1087, added item 876a.
 
-1968—Pub. L. 90–632, § 2(25), Oct. 24, 1968, 82 Stat. 1341, substituted “Court of Military Review” for “board of review” in item 866 (article 66).
+1968—Pub. L. 90–632, § 2(25), Oct. 24, 1968, 82 Stat. 1341, substituted “Court of Military Review” for “board of review” in item 866 (article 66).
 
-### § 859. Art. 59. Error of law; lesser included offense
+### § 859. Art. 59. Error of law; lesser included offense
 
 **(a)** A finding or sentence of a court-martial may not be held incorrect on the ground of an error of law unless the error materially prejudices the substantial rights of the accused.
 
@@ -6484,11 +6484,11 @@ Pub. L. 114–328, div. E, title LXIII, § 5541(6)(A), Dec. 23, 2016, 130 Stat
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 859(a) 859(b) | 50:646(a). 50:646(b). | May 5, 1950, ch. 169, § 1 (Art. 59), 64 Stat. 127. |
+| 859(a) 859(b) | 50:646(a). 50:646(b). | May 5, 1950, ch. 169, § 1 (Art. 59), 64 Stat. 127. |
 
 The word “may” is substituted for the word “shall”.
 
-### § 860. Art. 60. Post-trial processing in general and special courts-martial
+### § 860. Art. 60. Post-trial processing in general and special courts-martial
 
 **(a) Statement of Trial Results.—**
 
@@ -6508,13 +6508,13 @@ The word “may” is substituted for the word “shall”.
 
 **(2)** are subject to resolution by the military judge before entry of judgment.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 57; Pub. L. 98–209, § 5(a)(1), Dec. 6, 1983, 97 Stat. 1395; Pub. L. 99–661, div. A, title VIII, § 806(a)–(c), Nov. 14, 1986, 100 Stat. 3908, 3909; Pub. L. 104–106, div. A, title XI, § 1132, Feb. 10, 1996, 110 Stat. 464; Pub. L. 113–66, div. A, title XVII, §§ 1702(b), (c)(1), 1706, Dec. 26, 2013, 127 Stat. 955–957, 960; Pub. L. 113–291, div. A, title V, § 531(a)(1)–(3), (5), Dec. 19, 2014, 128 Stat. 3362, 3363; Pub. L. 114–328, div. E, title LIX, § 5321, Dec. 23, 2016, 130 Stat. 2924.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 57; Pub. L. 98–209, § 5(a)(1), Dec. 6, 1983, 97 Stat. 1395; Pub. L. 99–661, div. A, title VIII, § 806(a)–(c), Nov. 14, 1986, 100 Stat. 3908, 3909; Pub. L. 104–106, div. A, title XI, § 1132, Feb. 10, 1996, 110 Stat. 464; Pub. L. 113–66, div. A, title XVII, §§ 1702(b), (c)(1), 1706, Dec. 26, 2013, 127 Stat. 955–957, 960; Pub. L. 113–291, div. A, title V, § 531(a)(1)–(3), (5), Dec. 19, 2014, 128 Stat. 3362, 3363; Pub. L. 114–328, div. E, title LIX, § 5321, Dec. 23, 2016, 130 Stat. 2924.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 860 | 50:647. | May 5, 1950, ch. 169, § 1 (Art. 60), 64 Stat. 127. |
+| 860 | 50:647. | May 5, 1950, ch. 169, § 1 (Art. 60), 64 Stat. 127. |
 
 The word “a” is substituted for the word “every”. The word “by” before the words “any officer” is omitted as surplusage. The word “person” is substituted for the word “officer” before the words “who convened”, since, under sections 823 and 824 of this title (articles 23 and 24), noncommissioned officers who are “officers in charge” may convene special and summary courts-martial.
 
@@ -6524,57 +6524,57 @@ The word “a” is substituted for the word “every”. The word “by” befo
 
 2016—Pub. L. 114–328 amended section generally. Prior to amendment, section related to action by the convening authority.
 
-2014—Subsec. (c)(3)(A). Pub. L. 113–291, § 531(a)(1)(A), inserted “and may be taken only with respect to a qualifying offense” after “is not required”.
+2014—Subsec. (c)(3)(A). Pub. L. 113–291, § 531(a)(1)(A), inserted “and may be taken only with respect to a qualifying offense” after “is not required”.
 
-Subsec. (c)(3)(B)(i). Pub. L. 113–291, § 531(a)(1)(B), struck out “, other than a charge or specification for a qualifying offense,” after “specification” and inserted “, but may take such action with respect to a qualifying offense” before semicolon.
+Subsec. (c)(3)(B)(i). Pub. L. 113–291, § 531(a)(1)(B), struck out “, other than a charge or specification for a qualifying offense,” after “specification” and inserted “, but may take such action with respect to a qualifying offense” before semicolon.
 
-Subsec. (c)(3)(B)(ii). Pub. L. 113–291, § 531(a)(1)(C), struck out “, other than a charge or specification for a qualifying offense,” after “to a charge or specification” and inserted “, but may take such action with respect to a qualifying offense” before period.
+Subsec. (c)(3)(B)(ii). Pub. L. 113–291, § 531(a)(1)(C), struck out “, other than a charge or specification for a qualifying offense,” after “to a charge or specification” and inserted “, but may take such action with respect to a qualifying offense” before period.
 
-Subsec. (c)(3)(C). Pub. L. 113–291, § 531(a)(2), struck out “(other than a qualifying offense)” after “offense”.
+Subsec. (c)(3)(C). Pub. L. 113–291, § 531(a)(2), struck out “(other than a qualifying offense)” after “offense”.
 
-Subsec. (c)(4)(C)(ii). Pub. L. 113–291, § 531(a)(5), inserted “pursuant to section 856(b) of this title (article 56(b))” after “applies”.
+Subsec. (c)(4)(C)(ii). Pub. L. 113–291, § 531(a)(5), inserted “pursuant to section 856(b) of this title (article 56(b))” after “applies”.
 
-Subsec. (d)(2)(A)(i). Pub. L. 113–291, § 531(a)(3)(A)(i), inserted “, if applicable” before semicolon.
+Subsec. (d)(2)(A)(i). Pub. L. 113–291, § 531(a)(3)(A)(i), inserted “, if applicable” before semicolon.
 
-Subsec. (d)(2)(A)(ii). Pub. L. 113–291, § 531(a)(3)(A)(ii), struck out “if applicable,” before “the date”.
+Subsec. (d)(2)(A)(ii). Pub. L. 113–291, § 531(a)(3)(A)(ii), struck out “if applicable,” before “the date”.
 
-Subsec. (d)(5). Pub. L. 113–291, § 531(a)(3)(B), substituted “harm” for “loss”.
+Subsec. (d)(5). Pub. L. 113–291, § 531(a)(3)(B), substituted “harm” for “loss”.
 
-2013—Subsec. (b)(1). Pub. L. 113–66, § 1706(c), substituted “subsection (e)” for “subsection (d)”.
+2013—Subsec. (b)(1). Pub. L. 113–66, § 1706(c), substituted “subsection (e)” for “subsection (d)”.
 
-Subsec. (b)(2). Pub. L. 113–66, § 1702(c)(1)(A), substituted “or another person authorized to act under this section” for “or other person taking action under this section”.
+Subsec. (b)(2). Pub. L. 113–66, § 1702(c)(1)(A), substituted “or another person authorized to act under this section” for “or other person taking action under this section”.
 
-Subsec. (b)(5). Pub. L. 113–66, § 1706(b), added par. (5).
+Subsec. (b)(5). Pub. L. 113–66, § 1706(b), added par. (5).
 
-Subsec. (c). Pub. L. 113–66, § 1702(b), amended subsec. (c) generally. Prior to amendment, text related to the command prerogative of the convening authority to modify the findings and sentence of a court-martial.
+Subsec. (c). Pub. L. 113–66, § 1702(b), amended subsec. (c) generally. Prior to amendment, text related to the command prerogative of the convening authority to modify the findings and sentence of a court-martial.
 
-Subsec. (d). Pub. L. 113–66, § 1706(a)(2), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 113–66, § 1706(a)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Pub. L. 113–66, § 1702(c)(1)(B), substituted “or another person authorized to act under this section” for “or other person taking action under this section” in first sentence.
+Pub. L. 113–66, § 1702(c)(1)(B), substituted “or another person authorized to act under this section” for “or other person taking action under this section” in first sentence.
 
-Subsec. (e). Pub. L. 113–66, § 1706(a)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 113–66, § 1706(a)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (e)(1). Pub. L. 113–66, § 1702(c)(1)(C), substituted “or another person authorized to act under this section” for “or other person taking action under this section, in his sole discretion,”.
+Subsec. (e)(1). Pub. L. 113–66, § 1702(c)(1)(C), substituted “or another person authorized to act under this section” for “or other person taking action under this section, in his sole discretion,”.
 
-Subsec. (e)(3). Pub. L. 113–66, § 1702(c)(1)(D), substituted “or another person authorized to act under this section” for “or other person taking action under this section”.
+Subsec. (e)(3). Pub. L. 113–66, § 1702(c)(1)(D), substituted “or another person authorized to act under this section” for “or other person taking action under this section”.
 
-Subsec. (f). Pub. L. 113–66, § 1706(a)(1), redesignated subsec. (e) as (f).
+Subsec. (f). Pub. L. 113–66, § 1706(a)(1), redesignated subsec. (e) as (f).
 
 1996—Subsec. (b)(1). Pub. L. 104–106 inserted after first sentence “Any such submission shall be in writing.”
 
-1986—Subsec. (b)(1). Pub. L. 99–661, § 806(a)(3), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Within 30 days after the sentence of a general court-martial or of a special court-martial which has adjudged a bad-conduct discharge has been announced, the accused may submit to the convening authority matters for consideration by the convening authority with respect to the findings and the sentence. In the case of all other special courts-martial, the accused may make such a submission to the convening authority within 20 days after the sentence is announced. In the case of all summary courts-martial the accused may make such a submission to the convening authority within seven days after the sentence is announced. If the accused shows that additional time is required for the accused to submit such matters, the convening authority or other person taking action under this section, for good cause, may extend the period—
+1986—Subsec. (b)(1). Pub. L. 99–661, § 806(a)(3), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Within 30 days after the sentence of a general court-martial or of a special court-martial which has adjudged a bad-conduct discharge has been announced, the accused may submit to the convening authority matters for consideration by the convening authority with respect to the findings and the sentence. In the case of all other special courts-martial, the accused may make such a submission to the convening authority within 20 days after the sentence is announced. In the case of all summary courts-martial the accused may make such a submission to the convening authority within seven days after the sentence is announced. If the accused shows that additional time is required for the accused to submit such matters, the convening authority or other person taking action under this section, for good cause, may extend the period—
 
 “(A) in the case of a general court-martial or a special court-martial which has adjudged a bad-conduct discharge, for not more than an additional 20 days; and
 
 “(B) in the case of all other courts-martial, for not more than an additional 10 days.”
 
-Subsec. (b)(2). Pub. L. 99–661, § 806(a)(2), (3), added par. (2). Former par. (2) redesignated (3).
+Subsec. (b)(2). Pub. L. 99–661, § 806(a)(2), (3), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (b)(3). Pub. L. 99–661, § 806(a)(1), (2), redesignated par. (2) as (3), inserted a comma after “case”, and struck out former par. (3) which read as follows: “In no event shall the accused in any general or special court-martial case have less than a seven-day period after the day on which a copy of the authenticated record of trial has been given to him within which to make a submission under paragraph (1). The convening authority or other person taking action on the case, for good cause, may extend this period for up to an additional 10 days.”
+Subsec. (b)(3). Pub. L. 99–661, § 806(a)(1), (2), redesignated par. (2) as (3), inserted a comma after “case”, and struck out former par. (3) which read as follows: “In no event shall the accused in any general or special court-martial case have less than a seven-day period after the day on which a copy of the authenticated record of trial has been given to him within which to make a submission under paragraph (1). The convening authority or other person taking action on the case, for good cause, may extend this period for up to an additional 10 days.”
 
-Subsec. (c)(2). Pub. L. 99–661, § 806(b), struck out “and, if applicable, under subsection (d),” after “under subsection (b)”.
+Subsec. (c)(2). Pub. L. 99–661, § 806(b), struck out “and, if applicable, under subsection (d),” after “under subsection (b)”.
 
-Subsec. (d). Pub. L. 99–661, § 806(c), substituted “who may submit any matter in response under subsection (b)” for “who shall have five days from the date of receipt in which to submit any matter in response. The convening authority or other person taking action under this section, for good cause, may extend that period for up to an additional 20 days.”
+Subsec. (d). Pub. L. 99–661, § 806(c), substituted “who may submit any matter in response under subsection (b)” for “who shall have five days from the date of receipt in which to submit any matter in response. The convening authority or other person taking action under this section, for good cause, may extend that period for up to an additional 20 days.”
 
 1983—Pub. L. 98–209 amended section generally, substituting “Action by the convening authority” for “Initial action on the record” as section catchline, and, in text, substituting new provision for provision that after a trial by court-martial the record had to be forwarded to the convening authority, and action thereon could be taken by the person who convened the court, a commissioned officer commanding for the time being, a successor in command, or any officer exercising general court-martial jurisdiction.
 
@@ -6586,17 +6586,17 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 113–66, div. A, title XVII, § 1702(d)(2), Dec. 26, 2013, 127 Stat. 958, as amended by Pub. L. 113–291, div. A, title V, § 531(g)(2)(A), Dec. 19, 2014, 128 Stat. 3365, provided that:
+Pub. L. 113–66, div. A, title XVII, § 1702(d)(2), Dec. 26, 2013, 127 Stat. 958, as amended by Pub. L. 113–291, div. A, title V, § 531(g)(2)(A), Dec. 19, 2014, 128 Stat. 3365, provided that:
 
 > **“(A)** Except as provided in subparagraph (B), the amendments made by subsection (b) and paragraphs (1) and (2) of subsection (c) [amending this section and section 871 of this title] shall take effect 180 days after the date of the enactment of this Act [Dec. 26, 2013] and shall apply with respect to offenses committed under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), on or after that effective date.
 
 > **“(B)** With respect to the findings and sentence of a court-martial that includes both a conviction for an offense committed before the effective date specified in subparagraph (A) and a conviction for an offense committed on or after that effective date, the convening authority shall have the same authority to take action on such findings and sentence as was in effect on the day before such effective date, except with respect to a mandatory minimum sentence under section 856(b) of title 10, United States Code (article 56(b) of the Uniform Code of Military Justice).”
 
-[Pub. L. 113–291, div. A, title V, § 531(g)(2)(B), Dec. 19, 2014, 128 Stat. 3366, provided that: “The amendments made by subparagraph (A) [amending section 1702(d)(2) of Pub. L. 113–66, set out above] shall not apply to the findings and sentence of a court-martial with respect to which the convening authority has taken action before the date that is 30 days after the date of the enactment of this Act [Dec. 19, 2014].” ]
+[Pub. L. 113–291, div. A, title V, § 531(g)(2)(B), Dec. 19, 2014, 128 Stat. 3366, provided that: “The amendments made by subparagraph (A) [amending section 1702(d)(2) of Pub. L. 113–66, set out above] shall not apply to the findings and sentence of a court-martial with respect to which the convening authority has taken action before the date that is 30 days after the date of the enactment of this Act [Dec. 19, 2014].” ]
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–661, div. A, title VIII, § 806(c) [(d)], Nov. 14, 1986, 100 Stat. 3909, provided that: “The amendments made by this section [amending this section] shall apply in cases in which the sentence is adjudged on or after the effective date of this title.”
+Pub. L. 99–661, div. A, title VIII, § 806(c) [(d)], Nov. 14, 1986, 100 Stat. 3909, provided that: “The amendments made by this section [amending this section] shall apply in cases in which the sentence is adjudged on or after the effective date of this title.”
 
 Title VIII of Pub. L. 99–661 effective the earlier of (1) the last day of the 120-day period beginning on Nov. 14, 1986; or (2) the date specified in an Executive order for such amendment to take effect, see section 808 of Pub. L. 99–661, set out as a note under section 802 of this title.
 
@@ -6604,7 +6604,7 @@ Title VIII of Pub. L. 99–661 effective the earlier of (1) the last day of the 
 
 Amendment by Pub. L. 98–209 effective first day of eighth calendar month beginning after Dec. 6, 1983, but not to apply to any case in which the findings and sentence were adjudged by a court-martial before that date, and the proceedings in any such case to be held in the same manner and with the same effect as if such amendments had not been enacted, see section 12(a)(1), (4) of Pub. L. 98–209, set out as a note under section 801 of this title.
 
-### § 860a. Art. 60a. Limited authority to act on sentence in specified post-trial circumstances
+### § 860a. Art. 60a. Limited authority to act on sentence in specified post-trial circumstances
 
 **(a) In General.—**
 
@@ -6682,7 +6682,7 @@ Amendment by Pub. L. 98–209 effective first day of eighth calendar month begin
 
 **(3)** If, under subsection (d)(2), the convening authority reduces, commutes, or suspends the sentence, the decision of the convening authority shall be forwarded to the chief trial judge for appropriate modification of the entry of judgment, which shall be transmitted to the Judge Advocate General for appropriate action.
 
-(Added Pub. L. 114–328, div. E, title LIX, § 5322, Dec. 23, 2016, 130 Stat. 2924.)
+(Added Pub. L. 114–328, div. E, title LIX, § 5322, Dec. 23, 2016, 130 Stat. 2924.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6690,7 +6690,7 @@ Amendment by Pub. L. 98–209 effective first day of eighth calendar month begin
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. 13825, set out as notes under section 801 of this title.
 
-### § 860b. Art. 60b. Post-trial actions in summary courts-martial and certain general and special courts-martial
+### § 860b. Art. 60b. Post-trial actions in summary courts-martial and certain general and special courts-martial
 
 **(a) In General.—**
 
@@ -6732,7 +6732,7 @@ Section effective on Jan. 1, 2019, as designated by the President, with implemen
 
 **(2)** If the convening authority acts on the findings or the sentence under subsection (a)(1), the decision of the convening authority shall include a written explanation of the reasons for such action.
 
-(Added Pub. L. 114–328, div. E, title LIX, § 5323, Dec. 23, 2016, 130 Stat. 2926.)
+(Added Pub. L. 114–328, div. E, title LIX, § 5323, Dec. 23, 2016, 130 Stat. 2926.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6740,7 +6740,7 @@ Section effective on Jan. 1, 2019, as designated by the President, with implemen
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. 13825, set out as notes under section 801 of this title.
 
-### § 860c. Art. 60c. Entry of judgment
+### § 860c. Art. 60c. Entry of judgment
 
 **(a) Entry of Judgment of General or Special Court-martial.—**
 
@@ -6762,7 +6762,7 @@ Section effective on Jan. 1, 2019, as designated by the President, with implemen
 
 **(b) Summary Court-martial Judgment.—** The findings and sentence of a summary court-martial, as modified by any post-trial action by the convening authority under section 860b of this title (article 60b), constitutes the judgment of the court-martial and shall be recorded and distributed under rules prescribed by the President.
 
-(Added Pub. L. 114–328, div. E, title LIX, § 5324, Dec. 23, 2016, 130 Stat. 2927.)
+(Added Pub. L. 114–328, div. E, title LIX, § 5324, Dec. 23, 2016, 130 Stat. 2927.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6770,7 +6770,7 @@ Section effective on Jan. 1, 2019, as designated by the President, with implemen
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. 13825, set out as notes under section 801 of this title.
 
-### § 861. Art. 61. Waiver of right to appeal; withdrawal of appeal
+### § 861. Art. 61. Waiver of right to appeal; withdrawal of appeal
 
 **(a) Waiver of Right to Appeal.—** After entry of judgment in a general or special court-martial, under procedures prescribed by the Secretary concerned, the accused may waive the right to appellate review in each case subject to such review under section 866 of this title (article 66). Such a waiver shall be—
 
@@ -6784,13 +6784,13 @@ Section effective on Jan. 1, 2019, as designated by the President, with implemen
 
 **(d) Waiver or Withdrawal as Bar.—** Except as provided by section 869(c)(2) of this title (article 69(c)(2)), a waiver or withdrawal under this section bars review under section 866 of this title (article 66).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 58; Pub. L. 98–209, § 5(b)(1), Dec. 6, 1983, 97 Stat. 1397; Pub. L. 114–328, div. E, title LIX, § 5325, Dec. 23, 2016, 130 Stat. 2928; Pub. L. 117–263, div. A, title V, § 544(a), Dec. 23, 2022, 136 Stat. 2582.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 58; Pub. L. 98–209, § 5(b)(1), Dec. 6, 1983, 97 Stat. 1397; Pub. L. 114–328, div. E, title LIX, § 5325, Dec. 23, 2016, 130 Stat. 2928; Pub. L. 117–263, div. A, title V, § 544(a), Dec. 23, 2022, 136 Stat. 2582.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 861 | 50:648. | May 5, 1950, ch. 169, § 1 (Art. 61), 64 Stat. 127. |
+| 861 | 50:648. | May 5, 1950, ch. 169, § 1 (Art. 61), 64 Stat. 127. |
 
 The word “each” is substituted for the word “every”.
 
@@ -6808,7 +6808,7 @@ The word “each” is substituted for the word “every”.
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–263, div. A, title V, § 544(d), Dec. 23, 2022, 136 Stat. 2583, provided that:
+Pub. L. 117–263, div. A, title V, § 544(d), Dec. 23, 2022, 136 Stat. 2583, provided that:
 
 > “The amendments made by this section [amending this section and sections 866 and 869 of this title] shall not apply to—
 
@@ -6824,7 +6824,7 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 Amendment by Pub. L. 98–209 effective first day of eighth calendar month beginning after Dec. 6, 1983, but not to apply to any case in which the findings and sentence were adjudged by a court-martial before that date, and the proceedings in any such case to be held in the same manner and with the same effect as if such amendments had not been enacted, see section 12(a)(1), (4) of Pub. L. 98–209, set out as a note under section 801 of this title.
 
-### § 862. Art. 62. Appeal by the United States
+### § 862. Art. 62. Appeal by the United States
 
 **(a)**
 
@@ -6860,27 +6860,27 @@ Amendment by Pub. L. 98–209 effective first day of eighth calendar month begin
 
 **(e)** The provisions of this section shall be liberally construed to effect its purposes.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 58; Pub. L. 98–209, § 5(c)(1), Dec. 6, 1983, 97 Stat. 1398; Pub. L. 103–337, div. A, title IX, § 924(c)(2), Oct. 5, 1994, 108 Stat. 2831; Pub. L. 104–106, div. A, title XI, § 1141(a), Feb. 10, 1996, 110 Stat. 466; Pub. L. 114–328, div. E, title LIX, § 5326, Dec. 23, 2016, 130 Stat. 2928; Pub. L. 115–91, div. A, title V, § 531(h), Dec. 12, 2017, 131 Stat. 1385.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 58; Pub. L. 98–209, § 5(c)(1), Dec. 6, 1983, 97 Stat. 1398; Pub. L. 103–337, div. A, title IX, § 924(c)(2), Oct. 5, 1994, 108 Stat. 2831; Pub. L. 104–106, div. A, title XI, § 1141(a), Feb. 10, 1996, 110 Stat. 466; Pub. L. 114–328, div. E, title LIX, § 5326, Dec. 23, 2016, 130 Stat. 2928; Pub. L. 115–91, div. A, title V, § 531(h), Dec. 12, 2017, 131 Stat. 1385.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 862(a) 862(b) | 50:649(a). 50:649(b). | May 5, 1950, ch. 169, § 1 (Art. 62), 64 Stat. 127. |
+| 862(a) 862(b) | 50:649(a). 50:649(b). | May 5, 1950, ch. 169, § 1 (Art. 62), 64 Stat. 127. |
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Subsec. (b). Pub. L. 115–91 struck out “, notwithstanding section 866(c) of this title (article 66(c))” after “matters of law”.
+2017—Subsec. (b). Pub. L. 115–91 struck out “, notwithstanding section 866(c) of this title (article 66(c))” after “matters of law”.
 
-2016—Subsec. (a)(1). Pub. L. 114–328, § 5326(1)(A), in introductory provisions, substituted “general or special court-martial, or in a pretrial proceeding under section 830a of this title (article 30a), the United States may appeal the following:” for “court-martial in which a military judge presides and in which a punitive discharge may be adjudged, the United States may appeal the following (other than an order or ruling that is, or that amounts to, a finding of not guilty with respect to the charge or specification):”.
+2016—Subsec. (a)(1). Pub. L. 114–328, § 5326(1)(A), in introductory provisions, substituted “general or special court-martial, or in a pretrial proceeding under section 830a of this title (article 30a), the United States may appeal the following:” for “court-martial in which a military judge presides and in which a punitive discharge may be adjudged, the United States may appeal the following (other than an order or ruling that is, or that amounts to, a finding of not guilty with respect to the charge or specification):”.
 
-Subsec. (a)(1)(G). Pub. L. 114–328, § 5326(1)(B), added subpar. (G).
+Subsec. (a)(1)(G). Pub. L. 114–328, § 5326(1)(B), added subpar. (G).
 
-Subsec. (a)(2). Pub. L. 114–328, § 5326(2), designated existing provisions as subpar. (A) and added subpar. (B).
+Subsec. (a)(2). Pub. L. 114–328, § 5326(2), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsecs. (d), (e). Pub. L. 114–328, § 5326(3), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 114–328, § 5326(3), added subsecs. (d) and (e).
 
 1996—Subsec. (a)(1). Pub. L. 104–106 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In a trial by court-martial in which a military judge presides and in which a punitive discharge may be adjudged, the United States may appeal an order or ruling of the military judge which terminates the proceedings with respect to a charge or specification or which excludes evidence that is substantial proof of a fact material in the proceeding. However, the United States may not appeal an order or ruling that is, or that amounts to, a finding of not guilty with respect to the charge or specification.”
 
@@ -6892,7 +6892,7 @@ Subsecs. (d), (e). Pub. L. 114–328, § 5326(3), added subsecs. (d) and (e).
 
 **Effective Date of 2017 Amendment**
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 **Effective Date of 2016 Amendment**
 
@@ -6902,7 +6902,7 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 Amendment by Pub. L. 98–209 effective first day of eighth calendar month beginning after Dec. 6, 1983, but not to apply to any case in which the findings and sentence were adjudged by a court-martial before that date, and the proceedings in any such case to be held in the same manner and with the same effect as if such amendments had not been enacted, see section 12(a)(1), (4) of Pub. L. 98–209, set out as a note under section 801 of this title.
 
-### § 863. Art. 63. Rehearings
+### § 863. Art. 63. Rehearings
 
 **(a)** Each rehearing under this chapter shall take place before a court-martial composed of members not members of the court-martial which first heard the case. Upon a rehearing the accused may not be tried for any offense of which he was found not guilty by the first court-martial, and no sentence in excess of or more severe than the original sentence may be adjudged, unless the sentence is based upon a finding of guilty of an offense not considered upon the merits in the original proceedings, or unless the sentence prescribed for the offense is mandatory.
 
@@ -6910,13 +6910,13 @@ Amendment by Pub. L. 98–209 effective first day of eighth calendar month begin
 
 **(c)** If, after appeal by the Government under section 856(d) of this title (article 56(d)), the sentence adjudged is set aside and a rehearing on sentence is ordered by the Court of Criminal Appeals or Court of Appeals for the Armed Forces, the court-martial may impose any sentence that is in accordance with the order or ruling setting aside the adjudged sentence, subject to such limitations as the President may prescribe by regulation.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 58; Pub. L. 98–209, § 5(d), Dec. 6, 1983, 97 Stat. 1398; Pub. L. 102–484, div. A, title X, § 1065, Oct. 23, 1992, 106 Stat. 2506; Pub. L. 114–328, div. E, title LIX, § 5327, Dec. 23, 2016, 130 Stat. 2929; Pub. L. 115–91, div. A, title V, § 531(i), Dec. 12, 2017, 131 Stat. 1385.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 58; Pub. L. 98–209, § 5(d), Dec. 6, 1983, 97 Stat. 1398; Pub. L. 102–484, div. A, title X, § 1065, Oct. 23, 1992, 106 Stat. 2506; Pub. L. 114–328, div. E, title LIX, § 5327, Dec. 23, 2016, 130 Stat. 2929; Pub. L. 115–91, div. A, title V, § 531(i), Dec. 12, 2017, 131 Stat. 1385.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 863(a) 863(b) | 50:650(a). 50:650(b). | May 5, 1950, ch. 169, § 1 (Art. 63), 64 Stat. 127. |
+| 863(a) 863(b) | 50:650(a). 50:650(b). | May 5, 1950, ch. 169, § 1 (Art. 63), 64 Stat. 127. |
 
 In subsection (a), the words “In such a” are substituted for the words “in which”.
 
@@ -6926,7 +6926,7 @@ In subsection (b), the word “Each” is substituted for the word “Every”. 
 
 **Amendments**
 
-2017—Subsec. (b). Pub. L. 115–91 inserted “, subject to such limitations as the President may prescribe by regulation” before period at end.
+2017—Subsec. (b). Pub. L. 115–91 inserted “, subject to such limitations as the President may prescribe by regulation” before period at end.
 
 2016—Pub. L. 114–328 designated existing provisions as subsec. (a), substituted “may be adjudged” for “may be approved” in second sentence, struck out at end “If the sentence approved after the first court-martial was in accordance with a pretrial agreement and the accused at the rehearing changes his plea with respect to the charges or specifications upon which the pretrial agreement was based, or otherwise does not comply with the pretrial agreement, the approved sentence as to those charges or specifications may include any punishment not in excess of that lawfully adjudged at the first court-martial.”, and added subsecs. (b) and (c).
 
@@ -6938,7 +6938,7 @@ In subsection (b), the word “Each” is substituted for the word “Every”. 
 
 **Effective Date of 2017 Amendment**
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 **Effective Date of 2016 Amendment**
 
@@ -6952,7 +6952,7 @@ Amendment by Pub. L. 102–484 effective Oct. 23, 1992, and applicable with resp
 
 Amendment by Pub. L. 98–209 effective first day of eighth calendar month beginning after Dec. 6, 1983, but not to apply to any case in which the findings and sentence were adjudged by a court-martial before that date, and the proceedings in any such case to be held in the same manner and with the same effect as if such amendments had not been enacted, see section 12(a)(1), (4) of Pub. L. 98–209, set out as a note under section 801 of this title.
 
-### § 864. Art. 64. Judge advocate review of finding of guilty in summary court-martial
+### § 864. Art. 64. Judge advocate review of finding of guilty in summary court-martial
 
 **(a) In General.—** Under regulations prescribed by the Secretary concerned, each summary court-martial in which there is a finding of guilty shall be reviewed by a judge advocate. A judge advocate may not review a case under this subsection if the judge advocate has acted in the same case as an accuser, preliminary hearing officer, member of the court, military judge, or counsel or has otherwise acted on behalf of the prosecution or defense. The judge advocate’s review shall be in writing and shall contain the following:
 
@@ -6990,13 +6990,13 @@ Amendment by Pub. L. 98–209 effective first day of eighth calendar month begin
 
 **(3)** If the opinion of the judge advocate in the judge advocate’s review under subsection (a) is that corrective action is required as a matter of law and if the person required to take action under subsection (b) does not take action that is at least as favorable to the accused as that recommended by the judge advocate, the record of trial and action thereon shall be sent to the Judge Advocate General for review under section 869 of this title (article 69).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 58; Pub. L. 98–209, § 7(a)(1), Dec. 6, 1983, 97 Stat. 1401; Pub. L. 114–328, div. E, title LIX, § 5328, Dec. 23, 2016, 130 Stat. 2929; Pub. L. 115–91, div. A, title X, § 1081(c)(1)(I), Dec. 12, 2017, 131 Stat. 1598.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 58; Pub. L. 98–209, § 7(a)(1), Dec. 6, 1983, 97 Stat. 1401; Pub. L. 114–328, div. E, title LIX, § 5328, Dec. 23, 2016, 130 Stat. 2929; Pub. L. 115–91, div. A, title X, § 1081(c)(1)(I), Dec. 12, 2017, 131 Stat. 1598.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 864 | 50:651. | May 5, 1950, ch. 169, § 1 (Art. 64), 64 Stat. 128. |
+| 864 | 50:651. | May 5, 1950, ch. 169, § 1 (Art. 64), 64 Stat. 128. |
 
 The word “may” is substituted for the word “shall”. The word “is” is substituted for the words “shall constitute”.
 
@@ -7006,15 +7006,15 @@ The word “may” is substituted for the word “shall”. The word “is” is
 
 2017—Subsec. (a). Pub. L. 115–91 substituted “(a) In General.—” for “(a) (a) In General.—”.
 
-2016—Pub. L. 114–328, § 5328(b)(1), substituted “Judge advocate review of finding of guilty in summary court-martial” for “Review by a judge advocate” in section catchline.
+2016—Pub. L. 114–328, § 5328(b)(1), substituted “Judge advocate review of finding of guilty in summary court-martial” for “Review by a judge advocate” in section catchline.
 
-Subsec. (a). Pub. L. 114–328, § 5328(a), inserted subsec. (a) designation, heading, and first two sentences, and struck out former first two sentences which read as follows: “Each case in which there has been a finding of guilty that is not reviewed under section 866 or 869(a) of this title (article 66 or 69(a)) shall be reviewed by a judge advocate under regulations of the Secretary concerned. A judge advocate may not review a case under this subsection if he has acted in the same case as an accuser, investigating officer, member of the court, military judge, or counsel or has otherwise acted on behalf of the prosecution or defense.”
+Subsec. (a). Pub. L. 114–328, § 5328(a), inserted subsec. (a) designation, heading, and first two sentences, and struck out former first two sentences which read as follows: “Each case in which there has been a finding of guilty that is not reviewed under section 866 or 869(a) of this title (article 66 or 69(a)) shall be reviewed by a judge advocate under regulations of the Secretary concerned. A judge advocate may not review a case under this subsection if he has acted in the same case as an accuser, investigating officer, member of the court, military judge, or counsel or has otherwise acted on behalf of the prosecution or defense.”
 
-Subsec. (b). Pub. L. 114–328, § 5328(b)(2)(A), inserted heading.
+Subsec. (b). Pub. L. 114–328, § 5328(b)(2)(A), inserted heading.
 
-Subsec. (b)(2), (3). Pub. L. 114–328, § 5328(b)(2)(B)–(D), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “the sentence approved under section 860(c) of this title (article 60(c)) extends to dismissal, a bad-conduct or dishonorable discharge, or confinement for more than six months; or”.
+Subsec. (b)(2), (3). Pub. L. 114–328, § 5328(b)(2)(B)–(D), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “the sentence approved under section 860(c) of this title (article 60(c)) extends to dismissal, a bad-conduct or dishonorable discharge, or confinement for more than six months; or”.
 
-Subsec. (c)(3). Pub. L. 114–328, § 5328(b)(3), substituted “section 869 of this title (article 69).” for “section 869(b) of this title (article 69(b)).”
+Subsec. (c)(3). Pub. L. 114–328, § 5328(b)(3), substituted “section 869 of this title (article 69).” for “section 869(b) of this title (article 69(b)).”
 
 1983—Pub. L. 98–209 amended section generally, substituting “Review by a judge advocate” for “Approval by the convening authority” in section catchline, and, in text, substituting provisions relating to review by a judge advocate for provision that in acting on the findings and sentence of a court-martial, the convening authority could approve only such findings of guilty, and the sentence or such part or amount of the sentence, as he found correct in law and fact and as he in his discretion determined should be approved, and that unless he indicated otherwise, approval of the sentence was approval of the findings and sentence.
 
@@ -7022,7 +7022,7 @@ Subsec. (c)(3). Pub. L. 114–328, § 5328(b)(3), substituted “section 869 o
 
 **Effective Date of 2017 Amendment**
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 **Effective Date of 2016 Amendment**
 
@@ -7032,7 +7032,7 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 Amendment by Pub. L. 98–209 effective first day of eighth calendar month beginning after Dec. 6, 1983, but not to apply to any case in which the findings and sentence were adjudged by a court-martial before that date, and the proceedings in any such case to be held in the same manner and with the same effect as if such amendments had not been enacted, see section 12(a)(1), (4) of Pub. L. 98–209, set out as a note under section 801 of this title.
 
-### § 865. Art. 65. Transmittal and review of records
+### § 865. Art. 65. Transmittal and review of records
 
 **(a) Transmittal of Records.—**
 
@@ -7108,13 +7108,13 @@ Amendment by Pub. L. 98–209 effective first day of eighth calendar month begin
 
 **(ii) Cases referred by special trial counsel.—** If a case was referred to trial by a special trial counsel, a special trial counsel shall determine if a rehearing is impracticable and shall dismiss the charges if the special trial counsel so determines.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 59; Pub. L. 90–179, § 1(6), Dec. 8, 1967, 81 Stat. 546; Pub. L. 90–632, § 2(26), Oct. 24, 1968, 82 Stat. 1341; Pub. L. 96–513, title V, § 511(25), Dec. 12, 1980, 94 Stat. 2922; Pub. L. 98–209, § 6(d)(1), Dec. 6, 1983, 97 Stat. 1401; Pub. L. 114–328, div. E, title LIX, § 5329, Dec. 23, 2016, 130 Stat. 2930; Pub. L. 115–91, div. A, title X, § 1081(c)(1)(J), Dec. 12, 2017, 131 Stat. 1598; Pub. L. 117–81, div. A, title V, § 539A(a), Dec. 27, 2021, 135 Stat. 1698; Pub. L. 118–159, div. A, title V, § 563, Dec. 23, 2024, 138 Stat. 1903.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 59; Pub. L. 90–179, § 1(6), Dec. 8, 1967, 81 Stat. 546; Pub. L. 90–632, § 2(26), Oct. 24, 1968, 82 Stat. 1341; Pub. L. 96–513, title V, § 511(25), Dec. 12, 1980, 94 Stat. 2922; Pub. L. 98–209, § 6(d)(1), Dec. 6, 1983, 97 Stat. 1401; Pub. L. 114–328, div. E, title LIX, § 5329, Dec. 23, 2016, 130 Stat. 2930; Pub. L. 115–91, div. A, title X, § 1081(c)(1)(J), Dec. 12, 2017, 131 Stat. 1598; Pub. L. 117–81, div. A, title V, § 539A(a), Dec. 27, 2021, 135 Stat. 1698; Pub. L. 118–159, div. A, title V, § 563, Dec. 23, 2024, 138 Stat. 1903.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 865(a) 865(b) | 50:652(a). 50:652(b). | May 5, 1950, ch. 169, § 1 (Art. 65), 64 Stat. 128. |
+| 865(a) 865(b) | 50:652(a). 50:652(b). | May 5, 1950, ch. 169, § 1 (Art. 65), 64 Stat. 128. |
 | 865(c) | 50:652(c). |  |
 
 In subsection (b), the word “If” is substituted for the word “Where”.
@@ -7127,15 +7127,15 @@ In subsection (c), the words “Secretary concerned” are substituted for the w
 
 **Amendments**
 
-2024—Subsec. (b)(1). Pub. L. 118–159, § 563(1), substituted “forward—” for “forward”, inserted subpar. (A) designation before “the record”, and added subpar. (B).
+2024—Subsec. (b)(1). Pub. L. 118–159, § 563(1), substituted “forward—” for “forward”, inserted subpar. (A) designation before “the record”, and added subpar. (B).
 
-Subsec. (b)(2)(A). Pub. L. 118–159, § 563(2)(A)(i), substituted “shall, upon written request of the accused” for “shall” in introductory provisions.
+Subsec. (b)(2)(A). Pub. L. 118–159, § 563(2)(A)(i), substituted “shall, upon written request of the accused” for “shall” in introductory provisions.
 
-Subsec. (b)(2)(A)(i). Pub. L. 118–159, § 563(2)(A)(ii), struck out “, upon request of the accused,” after “review the case and”.
+Subsec. (b)(2)(A)(i). Pub. L. 118–159, § 563(2)(A)(ii), struck out “, upon request of the accused,” after “review the case and”.
 
-Subsec. (b)(2)(A)(ii). Pub. L. 118–159, § 563(2)(A)(iii), struck out “upon written request of the accused,” before “forward a copy”.
+Subsec. (b)(2)(A)(ii). Pub. L. 118–159, § 563(2)(A)(iii), struck out “upon written request of the accused,” before “forward a copy”.
 
-Subsec. (b)(2)(B). Pub. L. 118–159, § 563(2)(B), substituted “accused” for “accused—”, struck out cl. (i) designation before “waives”, and struck out cl. (ii) which read as follows: “declines in writing the detailing of appellate defense counsel under subparagraph (A)(i).”
+Subsec. (b)(2)(B). Pub. L. 118–159, § 563(2)(B), substituted “accused” for “accused—”, struck out cl. (i) designation before “waives”, and struck out cl. (ii) which read as follows: “declines in writing the detailing of appellate defense counsel under subparagraph (A)(i).”
 
 2021—Subsec. (e)(3)(B). Pub. L. 117–81 substituted “impracticable” for “impractical” in subpar. heading, designated existing provisions as cl. (i), inserted cl. (i) heading, substituted “Subject to clause (ii), if the Judge Advocate General” for “If the Judge Advocate General” and “impracticable” for “impractical”, and added cl. (ii).
 
@@ -7159,7 +7159,7 @@ Amendment by Pub. L. 117–81 effective on the date that is two years after Dec.
 
 **Effective Date of 2017 Amendment**
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 **Effective Date of 2016 Amendment**
 
@@ -7177,7 +7177,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 Amendment by Pub. L. 90–632 effective first day of tenth month following October 1968, see section 4 of Pub. L. 90–632, set out as a note under section 801 of this title.
 
-### § 866. Art. 66. Courts of Criminal Appeals
+### § 866. Art. 66. Courts of Criminal Appeals
 
 **(a) Courts of Criminal Appeals.—**
 
@@ -7287,19 +7287,19 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 **(j) Ineligibility of Members of Courts To Review Records of Cases Involving Certain Prior Member Service.—** No member of a Court of Criminal Appeals shall be eligible to review the record of any trial if such member served as investigating officer in the case or served as a member of the court-martial before which such trial was conducted, or served as military judge, trial or defense counsel, or reviewing officer of such trial.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 59; Pub. L. 90–632, § 2(27), Oct. 24, 1968, 82 Stat. 1341; Pub. L. 98–209, §§ 7(b), (c), 10(c)(1), Dec. 6, 1983, 97 Stat. 1402, 1406; Pub. L. 103–337, div. A, title IX, § 924(b)(2), (c)(1), (4)(A), Oct. 5, 1994, 108 Stat. 2831, 2832; Pub. L. 104–106, div. A, title XI, § 1153, Feb. 10, 1996, 110 Stat. 468; Pub. L. 114–328, div. E, title LIX, § 5330, Dec. 23, 2016, 130 Stat. 2932; Pub. L. 115–91, div. A, title V, § 531(j), title X, § 1081(c)(1)(K), Dec. 12, 2017, 131 Stat. 1385, 1598; Pub. L. 116–283, div. A, title V, § 542(a), (b), Jan. 1, 2021, 134 Stat. 3611; Pub. L. 117–81, div. A, title V, §§ 539A(b), 539E(d), Dec. 27, 2021, 135 Stat. 1698, 1703; Pub. L. 117–263, div. A, title V, § 544(b), Dec. 23, 2022, 136 Stat. 2582.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 59; Pub. L. 90–632, § 2(27), Oct. 24, 1968, 82 Stat. 1341; Pub. L. 98–209, §§ 7(b), (c), 10(c)(1), Dec. 6, 1983, 97 Stat. 1402, 1406; Pub. L. 103–337, div. A, title IX, § 924(b)(2), (c)(1), (4)(A), Oct. 5, 1994, 108 Stat. 2831, 2832; Pub. L. 104–106, div. A, title XI, § 1153, Feb. 10, 1996, 110 Stat. 468; Pub. L. 114–328, div. E, title LIX, § 5330, Dec. 23, 2016, 130 Stat. 2932; Pub. L. 115–91, div. A, title V, § 531(j), title X, § 1081(c)(1)(K), Dec. 12, 2017, 131 Stat. 1385, 1598; Pub. L. 116–283, div. A, title V, § 542(a), (b), Jan. 1, 2021, 134 Stat. 3611; Pub. L. 117–81, div. A, title V, §§ 539A(b), 539E(d), Dec. 27, 2021, 135 Stat. 1698, 1703; Pub. L. 117–263, div. A, title V, § 544(b), Dec. 23, 2022, 136 Stat. 2582.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 866(a) 866(b) | 50:653(a). 50:653(b). | May 5, 1950, ch. 169, § 1 (Art. 66), 64 Stat. 128. |
+| 866(a) 866(b) | 50:653(a). 50:653(b). | May 5, 1950, ch. 169, § 1 (Art. 66), 64 Stat. 128. |
 | 866(c) | 50:653(c). |  |
 | 866(d) | 50:653(d). |  |
 | 866(e) | 50:653(e). |  |
 | 866(f) | 50:653(f). |  |
 
-In subsection (a), the word “Each” is substituted for the words “The \* \* \* of each of the armed forces”. The word “must” is substituted for the word “shall” after the word “whom”, since a condition is prescribed, not a command. The words “of the United States” are omitted as surplusage.
+In subsection (a), the word “Each” is substituted for the words “The \* \* \* of each of the armed forces”. The word “must” is substituted for the word “shall” after the word “whom”, since a condition is prescribed, not a command. The words “of the United States” are omitted as surplusage.
 
 In subsections (a) and (b), the word “commissioned” is inserted before the word “officer”.
 
@@ -7317,7 +7317,7 @@ Section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, 
 
 **Amendments**
 
-2022—Subsec. (b)(1). Pub. L. 117–263, § 544(b)(1), substituted “shall have jurisdiction over—” and subpars. (A) and (B) for “shall have jurisdiction over a timely appeal from the judgment of a court-martial, entered into the record under section 860c of this title (article 60c), as follows:
+2022—Subsec. (b)(1). Pub. L. 117–263, § 544(b)(1), substituted “shall have jurisdiction over—” and subpars. (A) and (B) for “shall have jurisdiction over a timely appeal from the judgment of a court-martial, entered into the record under section 860c of this title (article 60c), as follows:
 
 “(A) On appeal by the accused in a case in which the sentence extends to confinement for more than six months and the case is not subject to automatic review under paragraph (3).
 
@@ -7327,7 +7327,7 @@ Section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, 
 
 “(D) In a case in which the accused filed an application for review with the Court under section 869(d)(1)(B) of this title (article 69(d)(1)(B)) and the application has been granted by the Court.”
 
-Subsec. (c). Pub. L. 117–263, § 544(b)(2), substituted “is timely if—” and pars. (1) and (2) for “is timely if it is filed as follows:
+Subsec. (c). Pub. L. 117–263, § 544(b)(2), substituted “is timely if—” and pars. (1) and (2) for “is timely if it is filed as follows:
 
 “(1) In the case of an appeal by the accused under subsection (b)(1)(A) or (b)(1)(B), if filed before the later of—
 
@@ -7341,61 +7341,61 @@ Subsec. (c). Pub. L. 117–263, § 544(b)(2), substituted “is timely if—�
 
 “(B) the date set by the Court of Criminal Appeals by rule or order.”
 
-2021—Subsec. (a). Pub. L. 116–283, § 542(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
+2021—Subsec. (a). Pub. L. 116–283, § 542(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Subsec. (d)(1). Pub. L. 116–283, § 542(b), amended par. (1) generally. Prior to amendment, text read as follows: “In any case before the Court of Criminal Appeals under subsection (b), the Court may act only with respect to the findings and sentence as entered into the record under section 860c of this title (article 60c). The Court may affirm only such findings of guilty, and the sentence or such part or amount of the sentence, as the Court finds correct in law and fact and determines, on the basis of the entire record, should be approved. In considering the record, the Court may weigh the evidence, judge the credibility of witnesses, and determine controverted questions of fact, recognizing that the trial court saw and heard the witnesses.”
+Subsec. (d)(1). Pub. L. 116–283, § 542(b), amended par. (1) generally. Prior to amendment, text read as follows: “In any case before the Court of Criminal Appeals under subsection (b), the Court may act only with respect to the findings and sentence as entered into the record under section 860c of this title (article 60c). The Court may affirm only such findings of guilty, and the sentence or such part or amount of the sentence, as the Court finds correct in law and fact and determines, on the basis of the entire record, should be approved. In considering the record, the Court may weigh the evidence, judge the credibility of witnesses, and determine controverted questions of fact, recognizing that the trial court saw and heard the witnesses.”
 
-Subsec. (d)(1)(A). Pub. L. 117–81, § 539E(d)(1), struck out at end “The Court may affirm only the sentence, or such part or amount of the sentence, as the Court finds correct in law and fact and determines, on the basis of the entire record, should be approved.”
+Subsec. (d)(1)(A). Pub. L. 117–81, § 539E(d)(1), struck out at end “The Court may affirm only the sentence, or such part or amount of the sentence, as the Court finds correct in law and fact and determines, on the basis of the entire record, should be approved.”
 
-Subsec. (e). Pub. L. 117–81, § 539E(d)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) provided that, in considering sentence on appeal or review, Court of Criminal Appeals may consider whether the sentence violates the law and whether the sentence is plainly unreasonable and detailed what should be included in record on appeal or review.
+Subsec. (e). Pub. L. 117–81, § 539E(d)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) provided that, in considering sentence on appeal or review, Court of Criminal Appeals may consider whether the sentence violates the law and whether the sentence is plainly unreasonable and detailed what should be included in record on appeal or review.
 
-Subsec. (f)(1)(C). Pub. L. 117–81, § 539A(b), substituted “Impracticable” for “impracticable” in subpar. heading, designated existing provisions as cl. (i), inserted cl. (i) heading, substituted “Subject to clause (ii), if the Court of Criminal Appeals” for “If the Court of Criminal Appeals”, and added cl. (ii).
+Subsec. (f)(1)(C). Pub. L. 117–81, § 539A(b), substituted “Impracticable” for “impracticable” in subpar. heading, designated existing provisions as cl. (i), inserted cl. (i) heading, substituted “Subject to clause (ii), if the Court of Criminal Appeals” for “If the Court of Criminal Appeals”, and added cl. (ii).
 
-2017—Subsec. (e)(2)(C). Pub. L. 115–91, § 531(j)(1), inserted “by regulation prescribed by the President or” after “required”.
+2017—Subsec. (e)(2)(C). Pub. L. 115–91, § 531(j)(1), inserted “by regulation prescribed by the President or” after “required”.
 
-Subsec. (f)(3). Pub. L. 115–91, §§ 531(j)(2)(A) and 1081(c)(1)(K), amended par. (3) identically, substituting “If the Court of Criminal Appeals” for “If the Court”.
+Subsec. (f)(3). Pub. L. 115–91, §§ 531(j)(2)(A) and 1081(c)(1)(K), amended par. (3) identically, substituting “If the Court of Criminal Appeals” for “If the Court”.
 
-Pub. L. 115–91, § 531(j)(2)(B), inserted at end “If the Court of Appeals for the Armed Forces determines that additional proceedings are warranted, the Court of Criminal Appeals shall order a hearing or other proceeding in accordance with the direction of the Court of Appeals for the Armed Forces.”
+Pub. L. 115–91, § 531(j)(2)(B), inserted at end “If the Court of Appeals for the Armed Forces determines that additional proceedings are warranted, the Court of Criminal Appeals shall order a hearing or other proceeding in accordance with the direction of the Court of Appeals for the Armed Forces.”
 
-2016—Pub. L. 114–328, § 5330(d), substituted “Courts of Criminal Appeals” for “Review by Court of Criminal Appeals” in section catchline.
+2016—Pub. L. 114–328, § 5330(d), substituted “Courts of Criminal Appeals” for “Review by Court of Criminal Appeals” in section catchline.
 
-Subsec. (a). Pub. L. 114–328, § 5330(e)(1), inserted heading.
+Subsec. (a). Pub. L. 114–328, § 5330(e)(1), inserted heading.
 
-Pub. L. 114–328, § 5330(a), substituted “subsection (h)” for “subsection (f)”, inserted “and must be certified by the Judge Advocate General as qualified, by reason of education, training, experience, and judicial temperament, for duty as an appellate military judge” after “highest court of a State”, and inserted at end “In accordance with regulations prescribed by the President, assignments of appellate military judges under this section (article) shall be for appropriate minimum periods, subject to such exceptions as may be authorized in the regulations.”
+Pub. L. 114–328, § 5330(a), substituted “subsection (h)” for “subsection (f)”, inserted “and must be certified by the Judge Advocate General as qualified, by reason of education, training, experience, and judicial temperament, for duty as an appellate military judge” after “highest court of a State”, and inserted at end “In accordance with regulations prescribed by the President, assignments of appellate military judges under this section (article) shall be for appropriate minimum periods, subject to such exceptions as may be authorized in the regulations.”
 
-Subsecs. (b) to (f). Pub. L. 114–328, § 5330(b)(2), added subsecs. (b) to (f) and struck out former subsecs. (b) to (d) which related to referral of records in certain cases to a Court of Criminal Appeals, criteria by which a Court of Criminal Appeals may act in a referred case, and possible outcomes if a Court of Criminal Appeals sets aside the findings and sentence. Former subsecs. (e) and (f) redesignated (g) and (h), respectively.
+Subsecs. (b) to (f). Pub. L. 114–328, § 5330(b)(2), added subsecs. (b) to (f) and struck out former subsecs. (b) to (d) which related to referral of records in certain cases to a Court of Criminal Appeals, criteria by which a Court of Criminal Appeals may act in a referred case, and possible outcomes if a Court of Criminal Appeals sets aside the findings and sentence. Former subsecs. (e) and (f) redesignated (g) and (h), respectively.
 
-Subsec. (g). Pub. L. 114–328, § 5330(b)(1), (c), (e)(2), redesignated subsec. (e) as (g), inserted heading, substituted “appropriate authority” for “convening authority”, and struck out last sentence which read as follows: “If the Court of Criminal Appeals has ordered a rehearing but the convening authority finds a rehearing impracticable, he may dismiss the charges.”
+Subsec. (g). Pub. L. 114–328, § 5330(b)(1), (c), (e)(2), redesignated subsec. (e) as (g), inserted heading, substituted “appropriate authority” for “convening authority”, and struck out last sentence which read as follows: “If the Court of Criminal Appeals has ordered a rehearing but the convening authority finds a rehearing impracticable, he may dismiss the charges.”
 
-Subsecs. (h) to (j). Pub. L. 114–328, § 5330(b)(1), (e)(3)–(5), redesignated subsecs. (f) to (h) as (h) to (j), respectively, and inserted headings.
+Subsecs. (h) to (j). Pub. L. 114–328, § 5330(b)(1), (e)(3)–(5), redesignated subsecs. (f) to (h) as (h) to (j), respectively, and inserted headings.
 
 1996—Subsec. (f). Pub. L. 104–106 substituted “Courts of Criminal Appeals” for “Courts of Military Review” in two places.
 
-1994—Pub. L. 103–337, § 924(c)(4)(A), substituted “Court of Criminal Appeals” for “Court of Military Review” in section catchline.
+1994—Pub. L. 103–337, § 924(c)(4)(A), substituted “Court of Criminal Appeals” for “Court of Military Review” in section catchline.
 
-Pub. L. 103–337, § 924(b)(2), substituted “Court of Criminal Appeals” for “Court of Military Review” wherever appearing.
+Pub. L. 103–337, § 924(b)(2), substituted “Court of Criminal Appeals” for “Court of Military Review” wherever appearing.
 
-Pub. L. 103–337, § 924(c)(1), substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals” in subsec. (e).
+Pub. L. 103–337, § 924(c)(1), substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals” in subsec. (e).
 
-1983—Subsec. (a). Pub. L. 98–209, § 7(b), inserted provision that any decision of a panel may be reconsidered by the court sitting as a whole in accordance with the rules.
+1983—Subsec. (a). Pub. L. 98–209, § 7(b), inserted provision that any decision of a panel may be reconsidered by the court sitting as a whole in accordance with the rules.
 
-Subsec. (b). Pub. L. 98–209, § 7(c), amended subsec. (b) generally, designating existing provisions as par. (1), struck out provision extending applicability of provisions to sentences affecting a general or flag officer, and added par. (2).
+Subsec. (b). Pub. L. 98–209, § 7(c), amended subsec. (b) generally, designating existing provisions as par. (1), struck out provision extending applicability of provisions to sentences affecting a general or flag officer, and added par. (2).
 
-Subsec. (e). Pub. L. 98–209, § 10(c)(1), substituted “the Court of Military Appeals, or the Supreme Court” for “or the Court of Military Appeals”.
+Subsec. (e). Pub. L. 98–209, § 10(c)(1), substituted “the Court of Military Appeals, or the Supreme Court” for “or the Court of Military Appeals”.
 
-1968—Subsec. (a). Pub. L. 90–632, § 2(27)(A), (B), substituted “Court of Military Review” for “board of review” in section catchline and, in subsec. (a), substituted “Court of Military Review” for “board of review” as name of reviewing body established by each Judge Advocate General, and inserted provisions setting out procedures for such Courts of Military Review, their composition and functions.
+1968—Subsec. (a). Pub. L. 90–632, § 2(27)(A), (B), substituted “Court of Military Review” for “board of review” in section catchline and, in subsec. (a), substituted “Court of Military Review” for “board of review” as name of reviewing body established by each Judge Advocate General, and inserted provisions setting out procedures for such Courts of Military Review, their composition and functions.
 
-Subsecs. (b) to (e). Pub. L. 90–632, § 2(27)(C), substituted “Court of Military Review” for “board of review” wherever appearing.
+Subsecs. (b) to (e). Pub. L. 90–632, § 2(27)(C), substituted “Court of Military Review” for “board of review” wherever appearing.
 
-Subsec. (f). Pub. L. 90–632, § 2(27)(D), substituted “Courts of Military Review” for “boards of review” in two places.
+Subsec. (f). Pub. L. 90–632, § 2(27)(D), substituted “Courts of Military Review” for “boards of review” in two places.
 
-Subsecs. (g), (h). Pub. L. 90–632, § 2(27)(E), added subsecs. (g) and (h).
+Subsecs. (g), (h). Pub. L. 90–632, § 2(27)(E), added subsecs. (g) and (h).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-Pub. L. 103–337, div. A, title IX, § 924(b)(1), Oct. 5, 1994, 108 Stat. 2831, provided that: “Each Court of Military Review shall hereafter be known and designated as a Court of Criminal Appeals.”
+Pub. L. 103–337, div. A, title IX, § 924(b)(1), Oct. 5, 1994, 108 Stat. 2831, provided that: “Each Court of Military Review shall hereafter be known and designated as a Court of Criminal Appeals.”
 
 **Effective Date of 2022 Amendment**
 
@@ -7407,7 +7407,7 @@ Amendment by section 539A(b) of Pub. L. 117–81 effective on the date that is t
 
 Amendment by section 539E(d) of Pub. L. 117–81 effective on the date that is two years after Dec. 27, 2021, and applicable to sentences adjudged in cases in which all findings of guilty are for offenses that occurred after the date that is two years after Dec. 27, 2021, see section 539E(f) of Pub. L. 117–81, set out as a note under section 853 of this title.
 
-Pub. L. 116–283, div. A, title V, § 542(e), Jan. 1, 2021, 134 Stat. 3612, provided that:
+Pub. L. 116–283, div. A, title V, § 542(e), Jan. 1, 2021, 134 Stat. 3612, provided that:
 
 > **“(1) Qualifications of certain judges.—** The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Jan. 1, 2021], and shall apply with respect to the assignment of appellate military judges on or after that date.
 
@@ -7415,9 +7415,9 @@ Pub. L. 116–283, div. A, title V, § 542(e), Jan. 1, 2021, 134 Stat. 3612, p
 
 **Effective Date of 2017 Amendment**
 
-Amendment by section 531(j) of Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by section 531(j) of Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
-Amendment by section 1081(c)(1)(K) of Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by section 1081(c)(1)(K) of Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 **Effective Date of 2016 Amendment**
 
@@ -7433,9 +7433,9 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 **Statutory References to Board of Review Deemed References to Court of Military Review**
 
-Pub. L. 90–632, § 3(b), Oct. 24, 1968, 82 Stat. 1343, provided that: “Whenever the term board of review is used, with reference to or in connection with the appellate review of courts-martial cases, in any provision of Federal law (other than provisions amended by this Act) [see Short Title of 1968 Amendment note under section 801 of this title] or in any regulation, document, or record of the United States, such term shall be deemed to mean Court of Military Review [now Court of Criminal Appeals].”
+Pub. L. 90–632, § 3(b), Oct. 24, 1968, 82 Stat. 1343, provided that: “Whenever the term board of review is used, with reference to or in connection with the appellate review of courts-martial cases, in any provision of Federal law (other than provisions amended by this Act) [see Short Title of 1968 Amendment note under section 801 of this title] or in any regulation, document, or record of the United States, such term shall be deemed to mean Court of Military Review [now Court of Criminal Appeals].”
 
-### § 867. Art. 67. Review by the Court of Appeals for the Armed Forces
+### § 867. Art. 67. Review by the Court of Appeals for the Armed Forces
 
 **(a)** The Court of Appeals for the Armed Forces shall review the record in—
 
@@ -7473,7 +7473,7 @@ The Court of Appeals for the Armed Forces shall act upon such a petition promptl
 
 **(e)** After it has acted on a case, the Court of Appeals for the Armed Forces may direct the Judge Advocate General to return the record to the Court of Criminal Appeals for further review in accordance with the decision of the court. Otherwise, unless there is to be further action by the President or the Secretary concerned, the Judge Advocate General shall instruct the convening authority to take action in accordance with that decision. If the court has ordered a rehearing, but the convening authority finds a rehearing impracticable, he may dismiss the charges. Notwithstanding the preceding sentence, if a case was referred to trial by a special trial counsel, a special trial counsel shall determine if a rehearing is impracticable and shall dismiss the charges if the special trial counsel so determines.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 60; Pub. L. 88–426, title IV, § 403(j), Aug. 14, 1964, 78 Stat. 434; Pub. L. 90–340, § 1, June 15, 1968, 82 Stat. 178; Pub. L. 90–632, § 2(28), Oct. 24, 1968, 82 Stat. 1342; Pub. L. 96–579, § 12(a), Dec. 23, 1980, 94 Stat. 3369; Pub. L. 97–81, § 5, Nov. 20, 1981, 95 Stat. 1088; Pub. L. 97–295, § 1(12), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–209, §§ 7(d), 9(a), 10(c)(2), 13(d), Dec. 6, 1983, 97 Stat. 1402, 1404, 1406, 1408; Pub. L. 100–26, § 7(a)(2), Apr. 21, 1987, 101 Stat. 275; Pub. L. 100–456, div. A, title VII, § 722(a), (c), Sept. 29, 1988, 102 Stat. 2002, 2003; Pub. L. 101–189, div. A, title XIII, § 1301(a), Nov. 29, 1989, 103 Stat. 1569; Pub. L. 103–337, div. A, title IX, § 924(c)(1), (2), (4)(B), Oct. 5, 1994, 108 Stat. 2831, 2832; Pub. L. 114–328, div. E, title LIX, § 5331, Dec. 23, 2016, 130 Stat. 2934; Pub. L. 116–283, div. A, title V, § 542(c), Jan. 1, 2021, 134 Stat. 3612; Pub. L. 117–81, div. A, title V, § 539A(c), Dec. 27, 2021, 135 Stat. 1699.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 60; Pub. L. 88–426, title IV, § 403(j), Aug. 14, 1964, 78 Stat. 434; Pub. L. 90–340, § 1, June 15, 1968, 82 Stat. 178; Pub. L. 90–632, § 2(28), Oct. 24, 1968, 82 Stat. 1342; Pub. L. 96–579, § 12(a), Dec. 23, 1980, 94 Stat. 3369; Pub. L. 97–81, § 5, Nov. 20, 1981, 95 Stat. 1088; Pub. L. 97–295, § 1(12), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–209, §§ 7(d), 9(a), 10(c)(2), 13(d), Dec. 6, 1983, 97 Stat. 1402, 1404, 1406, 1408; Pub. L. 100–26, § 7(a)(2), Apr. 21, 1987, 101 Stat. 275; Pub. L. 100–456, div. A, title VII, § 722(a), (c), Sept. 29, 1988, 102 Stat. 2002, 2003; Pub. L. 101–189, div. A, title XIII, § 1301(a), Nov. 29, 1989, 103 Stat. 1569; Pub. L. 103–337, div. A, title IX, § 924(c)(1), (2), (4)(B), Oct. 5, 1994, 108 Stat. 2831, 2832; Pub. L. 114–328, div. E, title LIX, § 5331, Dec. 23, 2016, 130 Stat. 2934; Pub. L. 116–283, div. A, title V, § 542(c), Jan. 1, 2021, 134 Stat. 3612; Pub. L. 117–81, div. A, title V, § 539A(c), Dec. 27, 2021, 135 Stat. 1699.)
 
 **Historical and Revision Notes**
 
@@ -7481,12 +7481,12 @@ The Court of Appeals for the Armed Forces shall act upon such a petition promptl
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 867(a) 867(b) 867(c) 867(d) | 50:654(a). 50:654(b). 50:654(c). 50:654(d). | May 5, 1950, ch. 169, § 1 (Art. 67), 64 Stat. 129; Mar. 2, 1955, ch. 9, § 1(i), 69 Stat. 10. |
+| 867(a) 867(b) 867(c) 867(d) | 50:654(a). 50:654(b). 50:654(c). 50:654(d). | May 5, 1950, ch. 169, § 1 (Art. 67), 64 Stat. 129; Mar. 2, 1955, ch. 9, § 1(i), 69 Stat. 10. |
 | 867(e) | 50:654(e). |  |
 | 867(f) | 50:654(f). |  |
 | 867(g) | 50:654(g). |  |
 
-In subsection (a)(1), the word “is” is substituted for the words “is hereby established”. The words “all” and “which shall be” are omitted as surplusage. The word “consists” is substituted for the words “shall consist”. The word “civil” is substituted for the word “civilian”. The word “may” is substituted for the word “shall” before the words “be appointed”. The word “is” is substituted for the word “shall” before the words “any person”. The words “is entitled to” are substituted for the words “shall receive”. The word “is” is substituted for the words “shall be” in the fourth sentence. The word “may” is substituted for the words “shall have power to \* \* \* to”. The word “does” is substituted for the word “shall” in the next to the last sentence. In the last sentence, the words “is entitled \* \* \* to” are substituted for the word “shall”. The word “outside” is substituted for the words “at a place other than his official station. The official station of such judges for such purpose shall be”. The words “also” and “actually” are omitted as surplusage.
+In subsection (a)(1), the word “is” is substituted for the words “is hereby established”. The words “all” and “which shall be” are omitted as surplusage. The word “consists” is substituted for the words “shall consist”. The word “civil” is substituted for the word “civilian”. The word “may” is substituted for the word “shall” before the words “be appointed”. The word “is” is substituted for the word “shall” before the words “any person”. The words “is entitled to” are substituted for the words “shall receive”. The word “is” is substituted for the words “shall be” in the fourth sentence. The word “may” is substituted for the words “shall have power to \* \* \* to”. The word “does” is substituted for the word “shall” in the next to the last sentence. In the last sentence, the words “is entitled \* \* \* to” are substituted for the word “shall”. The word “outside” is substituted for the words “at a place other than his official station. The official station of such judges for such purpose shall be”. The words “also” and “actually” are omitted as surplusage.
 
 In subsection (a)(2), the words “February 28, 1951,” are substituted for the words “the effective date of this subdivision”. The word “shall” in the first sentence, and the word “shall” before the word “expire” in the second sentence, are omitted as surplusage. The word “before” is substituted for the words “prior to”. The word “may” is substituted for the word “shall” before the words “be appointed”.
 
@@ -7518,35 +7518,35 @@ The change in subsection (g) reflects the transfer of functions from the Secreta
 
 Subsec. (e). Pub. L. 117–81 inserted at end “Notwithstanding the preceding sentence, if a case was referred to trial by a special trial counsel, a special trial counsel shall determine if a rehearing is impracticable and shall dismiss the charges if the special trial counsel so determines.”
 
-2016—Subsec. (a)(2). Pub. L. 114–328, § 5331(a), inserted “, after appropriate notification to the other Judge Advocates General and the Staff Judge Advocate to the Commandant of the Marine Corps,” after “the Judge Advocate General”.
+2016—Subsec. (a)(2). Pub. L. 114–328, § 5331(a), inserted “, after appropriate notification to the other Judge Advocates General and the Staff Judge Advocate to the Commandant of the Marine Corps,” after “the Judge Advocate General”.
 
-Subsec. (c). Pub. L. 114–328, § 5331(b), designated first sentence as par. (1) and substituted “only with respect to—” and subpars. (A) and (B) for “only with respect to the issues raised by him.” and designated second to fourth sentences as pars. (2) to (4), respectively.
+Subsec. (c). Pub. L. 114–328, § 5331(b), designated first sentence as par. (1) and substituted “only with respect to—” and subpars. (A) and (B) for “only with respect to the issues raised by him.” and designated second to fourth sentences as pars. (2) to (4), respectively.
 
-1994—Pub. L. 103–337, § 924(c)(4)(B), substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals” in section catchline.
+1994—Pub. L. 103–337, § 924(c)(4)(B), substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals” in section catchline.
 
-Pub. L. 103–337, § 924(c)(2), substituted “Court of Criminal Appeals” for “Court of Military Review” wherever appearing in subsecs. (a) to (c) and (e).
+Pub. L. 103–337, § 924(c)(2), substituted “Court of Criminal Appeals” for “Court of Military Review” wherever appearing in subsecs. (a) to (c) and (e).
 
-Pub. L. 103–337, § 924(c)(1), substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals” wherever appearing.
+Pub. L. 103–337, § 924(c)(1), substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals” wherever appearing.
 
 1989—Pub. L. 101–189 redesignated subsecs. (b) to (f) as (a) to (e), respectively, struck out former subsec. (a) which related to establishment of the United States Court of Military Appeals, and appointment, removal, allowances and compensation, etc., of judges of such court, struck out subsec. (g) which related to a committee required to make annual comprehensive surveys of the operation of this chapter, struck out subsec. (h) which related to review of decisions of the Court of Military Appeals by the Supreme Court, and struck out subsec. (i) which related to annuities for judges and former or retired judges, and survivors and former spouses of judges and former judges.
 
-1988—Subsec. (a)(4). Pub. L. 100–456, § 722(c), inserted “or an annuity under subsection (i) or subchapter III of chapter 83 or chapter 84 of title 5” after “retired pay” in two places.
+1988—Subsec. (a)(4). Pub. L. 100–456, § 722(c), inserted “or an annuity under subsection (i) or subchapter III of chapter 83 or chapter 84 of title 5” after “retired pay” in two places.
 
-Subsec. (i). Pub. L. 100–456, § 722(a), added subsec. (i).
+Subsec. (i). Pub. L. 100–456, § 722(a), added subsec. (i).
 
 1987—Subsec. (g)(1). Pub. L. 100–26 substituted “the Staff Judge Advocate to the Commandant of the Marine Corps” for “the Director, Judge Advocate Division, Headquarters, United States Marine Corps”.
 
-1983—Subsec. (a)(3). Pub. L. 98–209, § 13(d), inserted “Circuit” after “District of Columbia”.
+1983—Subsec. (a)(3). Pub. L. 98–209, § 13(d), inserted “Circuit” after “District of Columbia”.
 
-Subsec. (b)(1). Pub. L. 98–209, § 7(d), struck out “affects a general or flag officer or” before “extends to death”.
+Subsec. (b)(1). Pub. L. 98–209, § 7(d), struck out “affects a general or flag officer or” before “extends to death”.
 
-Subsec. (g). Pub. L. 98–209, § 9(a), designated existing provisions as par. (1), substituted “A committee consisting of the judges of the Court of Military Appeals, the Judge Advocates General of the Army, Navy, and Air Force, the Chief Counsel of the Coast Guard, the Director, Judge Advocate Division, Headquarters, United States Marine Corps, and two members of the public appointed by the Secretary of Defense shall meet at least annually. The committee shall make an annual comprehensive survey of the operation of this chapter. After each such survey, the committee shall report” for “The Court of Military Appeals and the Judge Advocates General shall meet annually to make a comprehensive survey of the operation of this chapter and report”, and added pars. (2) and (3).
+Subsec. (g). Pub. L. 98–209, § 9(a), designated existing provisions as par. (1), substituted “A committee consisting of the judges of the Court of Military Appeals, the Judge Advocates General of the Army, Navy, and Air Force, the Chief Counsel of the Coast Guard, the Director, Judge Advocate Division, Headquarters, United States Marine Corps, and two members of the public appointed by the Secretary of Defense shall meet at least annually. The committee shall make an annual comprehensive survey of the operation of this chapter. After each such survey, the committee shall report” for “The Court of Military Appeals and the Judge Advocates General shall meet annually to make a comprehensive survey of the operation of this chapter and report”, and added pars. (2) and (3).
 
-Subsec. (h). Pub. L. 98–209, § 10(c)(2), added subsec. (h).
+Subsec. (h). Pub. L. 98–209, § 10(c)(2), added subsec. (h).
 
-1982—Subsec. (d). Pub. L. 97–295, § 1(12)(A), substituted “Court of Military Review” for “board of review” after “incorrect in law by the”.
+1982—Subsec. (d). Pub. L. 97–295, § 1(12)(A), substituted “Court of Military Review” for “board of review” after “incorrect in law by the”.
 
-Subsec. (g). Pub. L. 97–295, § 1(12)(B), substituted “Secretary of Transportation” for “Secretary of the Treasury” after “military departments, and the”.
+Subsec. (g). Pub. L. 97–295, § 1(12)(B), substituted “Secretary of Transportation” for “Secretary of the Treasury” after “military departments, and the”.
 
 1981—Subsec. (c). Pub. L. 97–81 substituted provisions authorizing the accused to petition the Court of Military Appeals for review of a decision of a Court of Military Review within 60 days from the earlier of (1) the date on which the accused is notified of the decision of the Court of Military Review, or (2) the date on which a copy of the decision of the Court of Military Review, after being served on appellate counsel of record for the accused (if any), is deposited in the United States mails for delivery by first-class certified mail to the accused at an address provided by the accused or, if no such address has been provided by the accused, at the latest address listed for the accused in his official service record, and directing the Court of Military Appeals to act upon such a petition promptly in accordance with the rules of the court for provision which had given the accused 30 days from the time when he was notified of the decision of a board of review to petition the Court of Military Appeals for review and which had directed the court to act upon such a petition within 30 days of the receipt thereof.
 
@@ -7578,7 +7578,7 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–456, div. A, title VII, § 722(d), Sept. 29, 1988, 102 Stat. 2003, provided that: “Subsection (i) of section 867 of title 10, United States Code, as added by subsection (a), shall apply with respect to judges of the United States Court of Military Appeals [now United States Court of Appeals for the Armed Forces] whose term of service on such court ends on or after the date of the enactment of this Act [Sept. 29, 1988] and to the survivors of such judges.”
+Pub. L. 100–456, div. A, title VII, § 722(d), Sept. 29, 1988, 102 Stat. 2003, provided that: “Subsection (i) of section 867 of title 10, United States Code, as added by subsection (a), shall apply with respect to judges of the United States Court of Military Appeals [now United States Court of Appeals for the Armed Forces] whose term of service on such court ends on or after the date of the enactment of this Act [Sept. 29, 1988] and to the survivors of such judges.”
 
 **Effective Date of 1983 Amendment**
 
@@ -7598,15 +7598,15 @@ For effective date of amendment by Pub. L. 88–426, see section 501 of Pub. L. 
 
 **Commission To Study and Make Recommendations Concerning Sentencing Authority, Jurisdiction, Tenure, and Retirement of Military Judges; Establishment; Composition; Report to Congressional Committees**
 
-Pub. L. 98–209, § 9(b), Dec. 6, 1983, 97 Stat. 1404, as amended by Pub. L. 98–525, title XV, § 1521, Oct. 19, 1984, 98 Stat. 2628, directed Secretary of Defense to establish a commission to study the sentencing authority, jurisdiction, tenure, and retirement system of military judges, and to report, not later than Dec. 15, 1984, its findings and recommendations to committees of Congress and to the committee established under former section 867(g) of this title.
+Pub. L. 98–209, § 9(b), Dec. 6, 1983, 97 Stat. 1404, as amended by Pub. L. 98–525, title XV, § 1521, Oct. 19, 1984, 98 Stat. 2628, directed Secretary of Defense to establish a commission to study the sentencing authority, jurisdiction, tenure, and retirement system of military judges, and to report, not later than Dec. 15, 1984, its findings and recommendations to committees of Congress and to the committee established under former section 867(g) of this title.
 
 **Terms of Office of Judges of United States Court of Military Appeals**
 
-Pub. L. 96–579, § 12(b), Dec. 23, 1980, 94 Stat. 3369, provided that the term of office of a judge of United States Court of Military Appeals serving on such court on Dec. 23, 1980, expire (1) on the date the term of such judge would have expired under the law in effect on the day before Dec. 23, 1980, or (2) ten years after the date on which such judge took office as a judge of the United States Court of Military Appeals, whichever is later.
+Pub. L. 96–579, § 12(b), Dec. 23, 1980, 94 Stat. 3369, provided that the term of office of a judge of United States Court of Military Appeals serving on such court on Dec. 23, 1980, expire (1) on the date the term of such judge would have expired under the law in effect on the day before Dec. 23, 1980, or (2) ten years after the date on which such judge took office as a judge of the United States Court of Military Appeals, whichever is later.
 
 **Continuation of Powers and Jurisdiction of Court of Military Appeals; Status of Judges**
 
-Pub. L. 90–340, § 2, June 15, 1968, 82 Stat. 178, provided that: “The United States Court of Military Appeals [now United States Court of Appeals for the Armed Forces] established under this Act [which amended subsec. (a) of this section] is a continuation of the Court of Military Appeals as it existed prior to the effective date of this Act [June 15, 1968], and no loss of rights or powers, interruption of jurisdiction, or prejudice to matters pending in the Court of Military Appeals before the effective date of this Act shall result. A judge of the Court of Military Appeals so serving on the day before the effective date of this Act shall, for all purposes, be a judge of the United States Court of Military Appeals under this Act.”
+Pub. L. 90–340, § 2, June 15, 1968, 82 Stat. 178, provided that: “The United States Court of Military Appeals [now United States Court of Appeals for the Armed Forces] established under this Act [which amended subsec. (a) of this section] is a continuation of the Court of Military Appeals as it existed prior to the effective date of this Act [June 15, 1968], and no loss of rights or powers, interruption of jurisdiction, or prejudice to matters pending in the Court of Military Appeals before the effective date of this Act shall result. A judge of the Court of Military Appeals so serving on the day before the effective date of this Act shall, for all purposes, be a judge of the United States Court of Military Appeals under this Act.”
 
 **Executive Documents**
 
@@ -7622,13 +7622,13 @@ Pub. L. 90–340, § 2, June 15, 1968, 82 Stat. 178, provided that: “The Uni
 
 Ex. Ord. No. 12063, June 5, 1978, 43 F.R. 24659, which related to the United States Court of Military Appeals Nominating Commission, was revoked by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, formerly set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
 
-### § 867a. Art. 67a. Review by the Supreme Court
+### § 867a. Art. 67a. Review by the Supreme Court
 
 **(a)** Decisions of the United States Court of Appeals for the Armed Forces are subject to review by the Supreme Court by writ of certiorari as provided in section 1259 of title 28.
 
 **(b)** The accused may petition the Supreme Court for a writ of certiorari without prepayment of fees and costs or security therefor and without filing the affidavit required by section 1915(a) of title 28.
 
-(Added Pub. L. 101–189, div. A, title XIII, § 1301(b), Nov. 29, 1989, 103 Stat. 1569; amended Pub. L. 103–337, div. A, title IX, § 924(c)(1), Oct. 5, 1994, 108 Stat. 2831; Pub. L. 114–328, div. E, title LIX, § 5332, Dec. 23, 2016, 130 Stat. 2935; Pub. L. 118–31, div. A, title V, § 533(a)(2)(A), Dec. 22, 2023, 137 Stat. 261.)
+(Added Pub. L. 101–189, div. A, title XIII, § 1301(b), Nov. 29, 1989, 103 Stat. 1569; amended Pub. L. 103–337, div. A, title IX, § 924(c)(1), Oct. 5, 1994, 108 Stat. 2831; Pub. L. 114–328, div. E, title LIX, § 5332, Dec. 23, 2016, 130 Stat. 2935; Pub. L. 118–31, div. A, title V, § 533(a)(2)(A), Dec. 22, 2023, 137 Stat. 261.)
 
 **Editorial Notes**
 
@@ -7644,7 +7644,7 @@ Ex. Ord. No. 12063, June 5, 1978, 43 F.R. 24659, which related to the United Sta
 
 **Effective Date of 2023 Amendment**
 
-Pub. L. 118–31, div. A, title V, § 533(b), Dec. 22, 2023, 137 Stat. 261, provided that:
+Pub. L. 118–31, div. A, title V, § 533(b), Dec. 22, 2023, 137 Stat. 261, provided that:
 
 > **“(1) In general.—** The amendments made by subsection (a) [amending this section and sections 1259 and 2101 of Title 28, Judiciary and Judicial Procedure] shall take effect on the date that is one year after the date of the enactment of this Act [Dec. 22, 2023] and shall apply with respect to any action of the United States Court of Appeals for the Armed Forces in granting or refusing to grant a petition for review submitted to such Court for the first time on or after such effective date.
 
@@ -7658,17 +7658,17 @@ Pub. L. 118–31, div. A, title V, § 533(b), Dec. 22, 2023, 137 Stat. 261, pr
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 868. Art. 68. Branch offices
+### § 868. Art. 68. Branch offices
 
 The Secretary concerned may direct the Judge Advocate General to establish a branch office with any command. The branch office shall be under an Assistant Judge Advocate General who, with the consent of the Judge Advocate General, may establish a Court of Criminal Appeals with one or more panels. That Assistant Judge Advocate General and any Court of Criminal Appeals established by him may perform for that command under the general supervision of the Judge Advocate General, the respective duties which the Judge Advocate General and a Court of Criminal Appeals established by the Judge Advocate General would otherwise be required to perform as to all cases involving sentences not requiring approval by the President.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 61; Pub. L. 90–632, § 2(29), Oct. 24, 1968, 82 Stat. 1342; Pub. L. 103–337, div. A, title IX, § 924(c)(2), Oct. 5, 1994, 108 Stat. 2831.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 61; Pub. L. 90–632, § 2(29), Oct. 24, 1968, 82 Stat. 1342; Pub. L. 103–337, div. A, title IX, § 924(c)(2), Oct. 5, 1994, 108 Stat. 2831.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 868 | 50:655. | May 5, 1950, ch. 169, § 1 (Art. 68), 64 Stat. 130. |
+| 868 | 50:655. | May 5, 1950, ch. 169, § 1 (Art. 68), 64 Stat. 130. |
 
 The word “considers” is substituted for the word “deems”. The word “may” is substituted for the words “shall be empowered to”. The word “respective” is inserted for clarity.
 
@@ -7686,7 +7686,7 @@ The word “considers” is substituted for the word “deems”. The word “ma
 
 Amendment by Pub. L. 90–632 effective first day of tenth month following October 1968, see section 4 of Pub. L. 90–632, set out as a note under section 801 of this title.
 
-### § 869. Art. 69. Review by Judge Advocate General
+### § 869. Art. 69. Review by Judge Advocate General
 
 **(a) In General.—** Upon application by the accused or receipt of the record pursuant to section 864(c)(3) of this title (article 64(c)(3)) and subject to subsections (b), (c), and (d), the Judge Advocate General may—
 
@@ -7744,13 +7744,13 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 **(e) Action Only on Matters of Law.—** Notwithstanding section 866 of this title (article 66), in any case reviewed by a Court of Criminal Appeals under subsection (d), the Court may take action only with respect to matters of law.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 61; Pub. L. 90–632, § 2(30), Oct. 24, 1968, 82 Stat. 1342; Pub. L. 97–81, § 6, Nov. 20, 1981, 95 Stat. 1089; Pub. L. 98–209, § 7(e)(1), Dec. 6, 1983, 97 Stat. 1402; Pub. L. 101–189, div. A, title XIII, §§ 1302(a), 1304(b)(1), Nov. 29, 1989, 103 Stat. 1576, 1577; Pub. L. 103–337, div. A, title IX, § 924(c)(2), Oct. 5, 1994, 108 Stat. 2831; Pub. L. 114–328, div. E, title LIX, § 5333, Dec. 23, 2016, 130 Stat. 2935; Pub. L. 115–91, div. A, title X, § 1081(c)(1)(L), Dec. 12, 2017, 131 Stat. 1598; Pub. L. 117–81, div. A, title V, § 539A(d), Dec. 27, 2021, 135 Stat. 1699; Pub. L. 117–263, div. A, title V, § 544(c), Dec. 23, 2022, 136 Stat. 2582.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 61; Pub. L. 90–632, § 2(30), Oct. 24, 1968, 82 Stat. 1342; Pub. L. 97–81, § 6, Nov. 20, 1981, 95 Stat. 1089; Pub. L. 98–209, § 7(e)(1), Dec. 6, 1983, 97 Stat. 1402; Pub. L. 101–189, div. A, title XIII, §§ 1302(a), 1304(b)(1), Nov. 29, 1989, 103 Stat. 1576, 1577; Pub. L. 103–337, div. A, title IX, § 924(c)(2), Oct. 5, 1994, 108 Stat. 2831; Pub. L. 114–328, div. E, title LIX, § 5333, Dec. 23, 2016, 130 Stat. 2935; Pub. L. 115–91, div. A, title X, § 1081(c)(1)(L), Dec. 12, 2017, 131 Stat. 1598; Pub. L. 117–81, div. A, title V, § 539A(d), Dec. 27, 2021, 135 Stat. 1699; Pub. L. 117–263, div. A, title V, § 544(c), Dec. 23, 2022, 136 Stat. 2582.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 869 | 50:656. | May 5, 1950, ch. 169, § 1 (Art. 69), 64 Stat. 130. |
+| 869 | 50:656. | May 5, 1950, ch. 169, § 1 (Art. 69), 64 Stat. 130. |
 
 The word “may” is substituted for the word “will”. The word “under” is substituted for the words “pursuant to the provisions of”.
 
@@ -7758,21 +7758,21 @@ The word “may” is substituted for the word “will”. The word “under” 
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–263, § 544(c)(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “Upon application by the accused and subject to subsections (b), (c), and (d), the Judge Advocate General may modify or set aside, in whole or in part, the findings and sentence in a court-martial that is not reviewed under section 866 of this title (article 66).”
+2022—Subsec. (a). Pub. L. 117–263, § 544(c)(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “Upon application by the accused and subject to subsections (b), (c), and (d), the Judge Advocate General may modify or set aside, in whole or in part, the findings and sentence in a court-martial that is not reviewed under section 866 of this title (article 66).”
 
-Subsec. (b). Pub. L. 117–263, § 544(c)(2), designated existing provisions as par. (1), substituted “not later than—” and subpars. (A) and (B) for “not later than one year after the date of completion of review under section 864 or 865 of this title (article 64 or 65), as the case may be. The Judge Advocate General may, for good cause shown, extend the period for submission of an application, but may not consider an application submitted more than three years after such completion date.” and added par. (2).
+Subsec. (b). Pub. L. 117–263, § 544(c)(2), designated existing provisions as par. (1), substituted “not later than—” and subpars. (A) and (B) for “not later than one year after the date of completion of review under section 864 or 865 of this title (article 64 or 65), as the case may be. The Judge Advocate General may, for good cause shown, extend the period for submission of an application, but may not consider an application submitted more than three years after such completion date.” and added par. (2).
 
-Subsec. (c)(1)(A). Pub. L. 117–263, § 544(c)(3)(A), substituted “section 864 of this title (article 64)” for “section 864 or 865(b) of this title (article 64 or 65(b))”.
+Subsec. (c)(1)(A). Pub. L. 117–263, § 544(c)(3)(A), substituted “section 864 of this title (article 64)” for “section 864 or 865(b) of this title (article 64 or 65(b))”.
 
-Subsec. (c)(2). Pub. L. 117–263, § 544(c)(3)(B), substituted “the Judge Advocate General shall send the case to the Court of Criminal Appeals” for “the Judge Advocate General shall order appropriate corrective action under rules prescribed by the President”.
+Subsec. (c)(2). Pub. L. 117–263, § 544(c)(3)(B), substituted “the Judge Advocate General shall send the case to the Court of Criminal Appeals” for “the Judge Advocate General shall order appropriate corrective action under rules prescribed by the President”.
 
-Subsec. (d)(1). Pub. L. 117–263, § 544(c)(4)(A), substituted “under subsection (c)(1) in a case submitted” for “under subsection (c)—
+Subsec. (d)(1). Pub. L. 117–263, § 544(c)(4)(A), substituted “under subsection (c)(1) in a case submitted” for “under subsection (c)—
 
 “(A) in a case sent to the Court of Criminal Appeals by order of the Judge Advocate General; or
 
 “(B) in a case submitted”.
 
-Subsec. (d)(2). Pub. L. 117–263, § 544(c)(4)(B), substituted “paragraph (1)” for “paragraph (1)(B)” in introductory provisions.
+Subsec. (d)(2). Pub. L. 117–263, § 544(c)(4)(B), substituted “paragraph (1)” for “paragraph (1)(B)” in introductory provisions.
 
 2021—Subsec. (c)(1)(D). Pub. L. 117–81 designated existing provisions as cl. (i), substituted “Subject to clause (ii), if the Judge Advocate General” for “If the Judge Advocate General” and “impracticable” for “impractical”, and added cl. (ii).
 
@@ -7782,11 +7782,11 @@ Subsec. (d)(2). Pub. L. 117–263, § 544(c)(4)(B), substituted “paragraph (
 
 1994—Subsecs. (d), (e). Pub. L. 103–337 substituted “Court of Criminal Appeals” for “Court of Military Review” wherever appearing.
 
-1989—Subsec. (a). Pub. L. 101–189, § 1304(b)(1), which directed amendment of subsec. (a) by striking “section 867(b)(2) of this title (article 67(b)(2))” in the third sentence and inserting in lieu thereof “section 867(a)(2) of this title (article 67(a)(2))”, could not be executed because of the intervening amendment by Pub. L. 101–189, § 1302(a)(1), which struck out the third sentence, see below.
+1989—Subsec. (a). Pub. L. 101–189, § 1304(b)(1), which directed amendment of subsec. (a) by striking “section 867(b)(2) of this title (article 67(b)(2))” in the third sentence and inserting in lieu thereof “section 867(a)(2) of this title (article 67(a)(2))”, could not be executed because of the intervening amendment by Pub. L. 101–189, § 1302(a)(1), which struck out the third sentence, see below.
 
-Pub. L. 101–189, § 1302(a)(1), struck out the third sentence, which read as follows: “If the Judge Advocate General so directs, the record shall be reviewed by a Court of Military Review under section 866 of this title (article 66), but in that event there may be no further review by the Court of Military Appeals except under section 867(b)(2) of this title (article 67(b)(2)).”
+Pub. L. 101–189, § 1302(a)(1), struck out the third sentence, which read as follows: “If the Judge Advocate General so directs, the record shall be reviewed by a Court of Military Review under section 866 of this title (article 66), but in that event there may be no further review by the Court of Military Appeals except under section 867(b)(2) of this title (article 67(b)(2)).”
 
-Subsecs. (d), (e). Pub. L. 101–189, § 1302(a)(2), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 101–189, § 1302(a)(2), added subsecs. (d) and (e).
 
 1983—Pub. L. 98–209 amended section generally. Prior to amendment section provided that every record of trial by general court-martial, in which there had been a finding of guilty and a sentence, the appellate review of which was not otherwise provided for by section 866 of this title, was to be examined in the office of the Judge Advocate General; that if any part of the findings or sentence was found unsupported in law, or if the Judge Advocate General so directed, the record was to be reviewed by a board of review in accordance with section 866 of this title, but in that event there could be no further review by the Court of Military Appeals except under section 867(b)(2) of this title, that notwithstanding section 876 of this title, the findings or sentence, or both, in a court-martial case which had been finally reviewed, but had not been reviewed by a Court of Military Review could be vacated or modified, in whole or in part, by the Judge Advocate General on the ground of newly discovered evidence, fraud on the court, lack of jurisdiction over the accused or the offense, or error prejudicial to the substantial rights of the accused; and that when such a case was considered upon application of the accused, the application had to be filed in the Office of the Judge Advocate General by the accused before: (1) October 1, 1983, or (2) the last day of the two-year period beginning on the date the sentence was approved by the convening authority or, in a special court-martial case which required action under section 865(b) of this title, the officer exercising general court-martial jurisdiction, whichever was later, unless the accused established good cause for failure to file within that time.
 
@@ -7806,7 +7806,7 @@ Amendment by Pub. L. 117–81 effective on the date that is two years after Dec.
 
 **Effective Date of 2017 Amendment**
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 **Effective Date of 2016 Amendment**
 
@@ -7814,7 +7814,7 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–189, div. A, title XIII, § 1302(b), Nov. 29, 1989, 103 Stat. 1576, provided that: “Subsection (e) of section 869 of title 10, United States Code, as added by subsection (a), shall apply with respect to cases in which a finding of guilty is adjudged by a general court-martial after the date of the enactment of this Act [Nov. 29, 1989].”
+Pub. L. 101–189, div. A, title XIII, § 1302(b), Nov. 29, 1989, 103 Stat. 1576, provided that: “Subsection (e) of section 869 of title 10, United States Code, as added by subsection (a), shall apply with respect to cases in which a finding of guilty is adjudged by a general court-martial after the date of the enactment of this Act [Nov. 29, 1989].”
 
 **Effective Date of 1983 Amendment**
 
@@ -7830,9 +7830,9 @@ Amendment by Pub. L. 90–632 effective Oct. 24, 1968, see section 4(b) of Pub. 
 
 **Two-Year Period for Applications for Modification or Set-Aside Inapplicable to Applications Filed On or Before October 1, 1983**
 
-Pub. L. 98–209, § 7(e)(2), Dec. 6, 1983, 97 Stat. 1403, provided that the two-year period specified under the second sentence of subsec. (b) of this section did not apply to any application filed in the office of the appropriate Judge Advocate General on or before Oct. 1, 1983, and that the application in such a case would be considered in the same manner and with the same effect as if such two-year period had not been enacted.
+Pub. L. 98–209, § 7(e)(2), Dec. 6, 1983, 97 Stat. 1403, provided that the two-year period specified under the second sentence of subsec. (b) of this section did not apply to any application filed in the office of the appropriate Judge Advocate General on or before Oct. 1, 1983, and that the application in such a case would be considered in the same manner and with the same effect as if such two-year period had not been enacted.
 
-### § 870. Art. 70. Appellate counsel
+### § 870. Art. 70. Appellate counsel
 
 **(a)** The Judge Advocate General shall detail in his office one or more commissioned officers as appellate Government counsel, and one or more commissioned officers as appellate defense counsel, who are qualified under section 827(b)(1) of this title (article 27(b)(1)).
 
@@ -7852,20 +7852,20 @@ Pub. L. 98–209, § 7(e)(2), Dec. 6, 1983, 97 Stat. 1403, provided that the t
 
 **(f)** To the greatest extent practicable, in any capital case, at least one defense counsel under subsection (c) shall, as determined by the Judge Advocate General, be learned in the law applicable to such cases. If necessary, this counsel may be a civilian and, if so, may be compensated in accordance with regulations prescribed by the Secretary of Defense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 62; Pub. L. 90–632, § 2(31), Oct. 24, 1968, 82 Stat. 1342; Pub. L. 98–209, § 10(c)(3), Dec. 6, 1983, 97 Stat. 1406; Pub. L. 103–337, div. A, title IX, § 924(c)(1), (2), Oct. 5, 1994, 108 Stat. 2831; Pub. L. 114–328, div. E, title LIX, § 5334, Dec. 23, 2016, 130 Stat. 2936.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 62; Pub. L. 90–632, § 2(31), Oct. 24, 1968, 82 Stat. 1342; Pub. L. 98–209, § 10(c)(3), Dec. 6, 1983, 97 Stat. 1406; Pub. L. 103–337, div. A, title IX, § 924(c)(1), (2), Oct. 5, 1994, 108 Stat. 2831; Pub. L. 114–328, div. E, title LIX, § 5334, Dec. 23, 2016, 130 Stat. 2936.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 870(a) 870(b) | 50:657(a). 50:657(b). | May 5, 1950, ch. 169, § 1 (Art. 70), 64 Stat. 130. |
+| 870(a) 870(b) | 50:657(a). 50:657(b). | May 5, 1950, ch. 169, § 1 (Art. 70), 64 Stat. 130. |
 | 870(c) | 50:657(c). |  |
 | 870(d) | 50:657(d). |  |
 | 870(e) | 50:657(e). |  |
 
 In subsection (a), the word “detail” is substituted for the word “appoint”, since the filling of the position involved is not appointment to an office in the constitutional sense. The word “commissioned” is inserted for clarity. The word “are” is substituted for the words “shall be”. The words “the provisions of” are omitted as surplusage.
 
-In subsections (b) and (c), the word “shall” is substituted for the words “It shall be the duty of \* \* \* to”.
+In subsections (b) and (c), the word “shall” is substituted for the words “It shall be the duty of \* \* \* to”.
 
 In subsection (c)(3), the word “sent” is substituted for the word “transmitted”.
 
@@ -7881,9 +7881,9 @@ In subsection (e), the word “directs” is substituted for the words “shall 
 
 1994—Subsecs. (b) to (d). Pub. L. 103–337 substituted “Court of Criminal Appeals” for “Court of Military Review” and “Court of Appeals for the Armed Forces” for “Court of Military Appeals” wherever appearing.
 
-1983—Subsec. (b). Pub. L. 98–209, § 10(c)(3)(A), inserted provision that Appellate Government counsel may represent the United States before the Supreme Court in cases arising under this chapter when requested to do so by the Attorney General.
+1983—Subsec. (b). Pub. L. 98–209, § 10(c)(3)(A), inserted provision that Appellate Government counsel may represent the United States before the Supreme Court in cases arising under this chapter when requested to do so by the Attorney General.
 
-Subsecs. (c), (d). Pub. L. 98–209, § 10(c)(3)(B), amended subsecs. (c) and (d) generally, inserting references to the Supreme Court.
+Subsecs. (c), (d). Pub. L. 98–209, § 10(c)(3)(B), amended subsecs. (c) and (d) generally, inserting references to the Supreme Court.
 
 1968—Subsecs. (b) to (d). Pub. L. 90–632 substituted “Court of Military Review” for “board of review” wherever appearing.
 
@@ -7901,9 +7901,9 @@ Amendment by Pub. L. 98–209 effective first day of eighth calendar month begin
 
 Amendment by Pub. L. 90–632 effective first day of tenth month following October 1968, see section 4 of Pub. L. 90–632, set out as a note under section 801 of this title.
 
-### [§ 871. Repealed. Pub. L. 114–328, div. E, title LVIII, § 5302(b)(2), Dec. 23, 2016, 130 Stat. 2923]
+### [§ 871. Repealed. Pub. L. 114–328, div. E, title LVIII, § 5302(b)(2), Dec. 23, 2016, 130 Stat. 2923]
 
-Section, Aug. 10, 1956, ch. 1041, 70A Stat. 62; Pub. L. 90–632, § 2(32), Oct. 24, 1968, 82 Stat. 1342; Pub. L. 98–209, § 5(e), Dec. 6, 1983, 97 Stat. 1399; Pub. L. 103–337, div. A, title IX, § 924(c)(1), (2), Oct. 5, 1994, 108 Stat. 2831; Pub. L. 113–66, div. A, title XVII, § 1702(c)(2), Dec. 26, 2013, 127 Stat. 957, related to execution and suspension of various types of sentences.
+Section, Aug. 10, 1956, ch. 1041, 70A Stat. 62; Pub. L. 90–632, § 2(32), Oct. 24, 1968, 82 Stat. 1342; Pub. L. 98–209, § 5(e), Dec. 6, 1983, 97 Stat. 1399; Pub. L. 103–337, div. A, title IX, § 924(c)(1), (2), Oct. 5, 1994, 108 Stat. 2831; Pub. L. 113–66, div. A, title XVII, § 1702(c)(2), Dec. 26, 2013, 127 Stat. 957, related to execution and suspension of various types of sentences.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7911,7 +7911,7 @@ Section, Aug. 10, 1956, ch. 1041, 70A Stat. 62; Pub. L. 90–632, § 2(32), Oc
 
 Repeal effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 872. Art. 72. Vacation of suspension
+### § 872. Art. 72. Vacation of suspension
 
 **(a)** Before the vacation of the suspension of a special court-martial sentence which as approved includes a bad-conduct discharge, or of any general court-martial sentence, the officer having special court-martial jurisdiction over the probationer shall hold a hearing on the alleged violation of probation. The special court-martial convening authority may detail a judge advocate, who is certified under section 827(b) of this title (article 27(b)), to conduct the hearing. The probationer shall be represented at the hearing by counsel if the probationer so desires.
 
@@ -7919,28 +7919,28 @@ Repeal effective on Jan. 1, 2019, as designated by the President, with implement
 
 **(c)** The suspension of any other sentence may be vacated by any authority competent to convene, for the command in which the accused is serving or assigned, a court of the kind that imposed the sentence.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 63; Pub. L. 114–328, div. E, title LIX, § 5335, Dec. 23, 2016, 130 Stat. 2936.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 63; Pub. L. 114–328, div. E, title LIX, § 5335, Dec. 23, 2016, 130 Stat. 2936.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 872(a) 872(b) | 50:659(a). 50:659(b). | May 5, 1950, ch. 169, § 1 (Art. 72), 64 Stat. 131. |
+| 872(a) 872(b) | 50:659(a). 50:659(b). | May 5, 1950, ch. 169, § 1 (Art. 72), 64 Stat. 131. |
 | 872(c) | 50:659(c). |  |
 
 In subsection (a), the word “Before” is substituted for the words “Prior to”.
 
-In subsection (b), the words “be effective \* \* \* to” are omitted as surplusage.
+In subsection (b), the words “be effective \* \* \* to” are omitted as surplusage.
 
-The second sentence is restated to make it clear that the execution of the rest of the court-martial sentence is not automatic. The word “is” is substituted for the words “shall \* \* \* be” in the last sentence. The word “sent” is substituted for the word “forwarded”. The words “Secretary concerned” are substituted for the words “Secretary of the Department”.
+The second sentence is restated to make it clear that the execution of the rest of the court-martial sentence is not automatic. The word “is” is substituted for the words “shall \* \* \* be” in the last sentence. The word “sent” is substituted for the word “forwarded”. The words “Secretary concerned” are substituted for the words “Secretary of the Department”.
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Subsec. (a). Pub. L. 114–328, § 5335(a), (b)(1), inserted “The special court-martial convening authority may detail a judge advocate, who is certified under section 827(b) of this title (article 27(b)), to conduct the hearing.” after first sentence and substituted “if the probationer so desires” for “if he so desires” in last sentence.
+2016—Subsec. (a). Pub. L. 114–328, § 5335(a), (b)(1), inserted “The special court-martial convening authority may detail a judge advocate, who is certified under section 827(b) of this title (article 27(b)), to conduct the hearing.” after first sentence and substituted “if the probationer so desires” for “if he so desires” in last sentence.
 
-Subsec. (b). Pub. L. 114–328, § 5335(b)(2), substituted “If the officer exercising general court-martial jurisdiction” for “If he” and “section 857 of this title (article 57)” for “section 871(c) of this title (article 71(c))”.
+Subsec. (b). Pub. L. 114–328, § 5335(b)(2), substituted “If the officer exercising general court-martial jurisdiction” for “If he” and “section 857 of this title (article 57)” for “section 871(c) of this title (article 71(c))”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7948,17 +7948,17 @@ Subsec. (b). Pub. L. 114–328, § 5335(b)(2), substituted “If the officer e
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 873. Art. 73. Petition for a new trial
+### § 873. Art. 73. Petition for a new trial
 
 At any time within three years after the date of the entry of judgment under section 860c of this title (article 60c), the accused may petition the Judge Advocate General for a new trial on the grounds of newly discovered evidence or fraud on the court. If the accused’s case is pending before a Court of Criminal Appeals or before the Court of Appeals for the Armed Forces, the Judge Advocate General shall refer the petition to the appropriate court for action. Otherwise the Judge Advocate General shall act upon the petition.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 63; Pub. L. 90–632, § 2(33), Oct. 24, 1968, 82 Stat. 1342; Pub. L. 103–337, div. A, title IX, § 924(c)(1), (2), Oct. 5, 1994, 108 Stat. 2831; Pub. L. 114–328, div. E, title LIX, § 5336, Dec. 23, 2016, 130 Stat. 2937.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 63; Pub. L. 90–632, § 2(33), Oct. 24, 1968, 82 Stat. 1342; Pub. L. 103–337, div. A, title IX, § 924(c)(1), (2), Oct. 5, 1994, 108 Stat. 2831; Pub. L. 114–328, div. E, title LIX, § 5336, Dec. 23, 2016, 130 Stat. 2937.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 873 | 50:660. | May 5, 1950, ch. 169, § 1 (Art. 73), 64 Stat. 132. |
+| 873 | 50:660. | May 5, 1950, ch. 169, § 1 (Art. 73), 64 Stat. 132. |
 
 The words “the ground” are substituted for the word “grounds”. The words “as the case may be” are substituted for the word “respectively”, since the prescribed action is alternative, not distributive.
 
@@ -7982,19 +7982,19 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 Amendment by Pub. L. 90–632 to apply in the case of all court-martial sentences approved by the convening authority on or after, or not more than two years before Oct. 24, 1968, see section 4(c) of Pub. L. 90–632, set out as a note under section 801 of this title.
 
-### § 874. Art. 74. Remission and suspension
+### § 874. Art. 74. Remission and suspension
 
 **(a)** The Secretary concerned and, when designated by him, any Under Secretary, Assistant Secretary, Judge Advocate General, or commanding officer may remit or suspend any part or amount of the unexecuted part of any sentence, including all uncollected forfeitures other than a sentence approved by the President. However, in the case of a sentence of confinement for life without eligibility for parole that is adjudged for an offense committed after October 29, 2000, after the sentence is ordered executed, the authority of the Secretary concerned under the preceding sentence (1) may not be delegated, and (2) may be exercised only after the service of a period of confinement of not less than 20 years.
 
 **(b)** The Secretary concerned may, for good cause, substitute an administrative form of discharge for a discharge or dismissal executed in accordance with the sentence of a court-martial.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 63; Pub. L. 106–398, § 1 [[div. A], title V, § 553(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–125; Pub. L. 107–107, div. A, title X, § 1048(a)(8), Dec. 28, 2001, 115 Stat. 1223.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 63; Pub. L. 106–398, § 1 [[div. A], title V, § 553(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–125; Pub. L. 107–107, div. A, title X, § 1048(a)(8), Dec. 28, 2001, 115 Stat. 1223.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 874(a) 874(b) | 50:661(a). 50:661(b). | May 5, 1950, ch. 169, §  1 (Art. 74), 64 Stat. 132. |
+| 874(a) 874(b) | 50:661(a). 50:661(b). | May 5, 1950, ch. 169, § 1 (Art. 74), 64 Stat. 132. |
 
 In subsections (a) and (b), the words “Secretary concerned” are substituted for the words “Secretary of the Department”.
 
@@ -8010,9 +8010,9 @@ In subsections (a) and (b), the words “Secretary concerned” are substituted 
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–398, § 1 [[div. A], title V, § 553(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–125, provided that: “The amendment made by subsection (a) [amending this section] shall not apply with respect to a sentence of confinement for life without eligibility for parole that is adjudged for an offense committed before the date of the enactment of this Act [Oct. 30, 2000].”
+Pub. L. 106–398, § 1 [[div. A], title V, § 553(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–125, provided that: “The amendment made by subsection (a) [amending this section] shall not apply with respect to a sentence of confinement for life without eligibility for parole that is adjudged for an offense committed before the date of the enactment of this Act [Oct. 30, 2000].”
 
-### § 875. Art. 75. Restoration
+### § 875. Art. 75. Restoration
 
 **(a)** Under such regulations as the President may prescribe, all rights, privileges, and property affected by an executed part of a court-martial sentence which has been set aside or disapproved, except an executed dismissal or discharge, shall be restored unless a new trial or rehearing is ordered and such executed part is included in a sentence imposed upon the new trial or rehearing.
 
@@ -8022,13 +8022,13 @@ Pub. L. 106–398, § 1 [[div. A], title V, § 553(b)], Oct. 30, 2000, 114 S
 
 **(d)** The President shall prescribe regulations, with such limitations as the President considers appropriate, governing eligibility for pay and allowances for the period after the date on which an executed part of a court-martial sentence is set aside.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 63; Pub. L. 114–328, div. E, title LIX, § 5337, Dec. 23, 2016, 130 Stat. 2937.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 63; Pub. L. 114–328, div. E, title LIX, § 5337, Dec. 23, 2016, 130 Stat. 2937.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 875(a) 875(b) | 50:662(a). 50:662(b). | May 5, 1950, ch. 169, § 1 (Art. 75), 64 Stat. 132. |
+| 875(a) 875(b) | 50:662(a). 50:662(b). | May 5, 1950, ch. 169, § 1 (Art. 75), 64 Stat. 132. |
 | 875(c) | 50:662(c). |  |
 
 In subsections (b) and (c), the word “If” is substituted for the word “Where”. The word “imposed” is substituted for the word “sustained”. The words “Secretary concerned” are substituted for the words “Secretary of the Department”.
@@ -8053,7 +8053,7 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 For delegation to Secretary of Homeland Security of certain authority vested in President by this section, see section 2(b) of Ex. Ord. No. 10637, Sept. 16, 1955, 20 F.R. 7025, as amended, set out as a note under section 301 of Title 3, The President.
 
-### § 876. Art. 76. Finality of proceedings, findings, and sentences
+### § 876. Art. 76. Finality of proceedings, findings, and sentences
 
 The appellate review of records of trial provided by this chapter, the proceedings, findings, and sentences of courts-martial as approved, reviewed, or affirmed as required by this chapter, and all dismissals and discharges carried into execution under sentences by courts-martial following approval, review, or affirmation as required by this chapter, are final and conclusive. Orders publishing the proceedings of courts-martial and all action taken pursuant to those proceedings are binding upon all departments, courts, agencies, and officers of the United States, subject only to action upon a petition for a new trial as provided in section 873 of this title (article 73) and to action by the Secretary concerned as provided in section 874 of this title (article 74) and the authority of the President.
 
@@ -8063,21 +8063,21 @@ The appellate review of records of trial provided by this chapter, the proceedin
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 876 | 50:663. | May 5, 1950, ch. 169, § 1 (Art. 76), 64 Stat. 132. |
+| 876 | 50:663. | May 5, 1950, ch. 169, § 1 (Art. 76), 64 Stat. 132. |
 
 The word “under” is substituted for the words “pursuant to”. The word “are” is substituted for the words “shall be”. The words “Secretary concerned” are substituted for the words “Secretary of a Department”.
 
-### § 876a. Art. 76a. Leave required to be taken pending review of certain court-martial convictions
+### § 876a. Art. 76a. Leave required to be taken pending review of certain court-martial convictions
 
 Under regulations prescribed by the Secretary concerned, an accused who has been sentenced by a court-martial may be required to take leave pending completion of action under this subchapter if the sentence includes an unsuspended dismissal or an unsuspended dishonorable or bad-conduct discharge. The accused may be required to begin such leave on the date of the entry of judgment under section 860c of this title (article 60c) or at any time after such date, and such leave may be continued until the date on which action under this subchapter is completed or may be terminated at any earlier time.
 
-(Added Pub. L. 97–81, § 2(c)(1), Nov. 20, 1981, 95 Stat. 1087; amended Pub. L. 98–209, § 5(g), Dec. 6, 1983, 97 Stat. 1400; Pub. L. 114–328, div. E, title LIX, § 5338, Dec. 23, 2016, 130 Stat. 2937.)
+(Added Pub. L. 97–81, § 2(c)(1), Nov. 20, 1981, 95 Stat. 1087; amended Pub. L. 98–209, § 5(g), Dec. 6, 1983, 97 Stat. 1400; Pub. L. 114–328, div. E, title LIX, § 5338, Dec. 23, 2016, 130 Stat. 2937.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Pub. L. 114–328 struck out “, as approved under section 860 of this title (article 60),” after “if the sentence” and substituted “of the entry of judgment under section 860c of this title (article 60c)” for “on which the sentence is approved under section 860 of this title (article 60)”.
+2016—Pub. L. 114–328 struck out “, as approved under section 860 of this title (article 60),” after “if the sentence” and substituted “of the entry of judgment under section 860c of this title (article 60c)” for “on which the sentence is approved under section 860 of this title (article 60)”.
 
 1983—Pub. L. 98–209 substituted “under section 860 of this title (article 60)” for “under section 864 or 865 of this title (article 64 or 65) by the officer exercising general court-martial jurisdiction” and “by the officer exercising general court-martial jurisdiction”, respectively.
 
@@ -8095,7 +8095,7 @@ Amendment by Pub. L. 98–209 effective first day of eighth calendar month begin
 
 Section to take effect at end of 60-day period beginning on Nov. 20, 1981, to apply to each member whose sentence by court-martial is approved on or after Jan. 20, 1982, under section 864 or 865 of this title by the officer exercising general court-martial jurisdiction under the provisions of such section as it existed on the day before the effective date of the Military Justice Act of 1983 (Pub. L. 98–209), or under section 860 of this title by the officer empowered to act on the sentence on or after that effective date, see section 7(a), (b)(1) of Pub. L. 97–81, set out as a note under section 706 of this title.
 
-### § 876b. Art. 76b. Lack of mental capacity or mental responsibility: commitment of accused for examination and treatment
+### § 876b. Art. 76b. Lack of mental capacity or mental responsibility: commitment of accused for examination and treatment
 
 **(a) Persons Incompetent To Stand Trial.—**
 
@@ -8143,19 +8143,19 @@ Section to take effect at end of 60-day period beginning on Nov. 20, 1981, to ap
 
 **(2)** If the status of a person as described in section 802 of this title (article 2) terminates while the person is, pursuant to this section, in the custody of the Attorney General, hospitalized, or on conditional release under a prescribed regimen of medical, psychiatric, or psychological care or treatment, the provisions of this section establishing requirements and procedures regarding a person no longer subject to this chapter shall continue to apply to that person notwithstanding the change of status.
 
-(Added Pub. L. 104–106, div. A, title XI, § 1133(a)(1), Feb. 10, 1996, 110 Stat. 464.)
+(Added Pub. L. 104–106, div. A, title XI, § 1133(a)(1), Feb. 10, 1996, 110 Stat. 464.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 104–106, div. A, title XI, § 1133(c), Feb. 10, 1996, 110 Stat. 466, provided that: “Section 876b of title 10, United States Code (article 76b of the Uniform Code of Military Justice), as added by subsection (a), shall take effect at the end of the six-month period beginning on the date of the enactment of this Act [Feb. 10, 1996] and shall apply with respect to charges referred to courts-martial after the end of that period.”
+Pub. L. 104–106, div. A, title XI, § 1133(c), Feb. 10, 1996, 110 Stat. 466, provided that: “Section 876b of title 10, United States Code (article 76b of the Uniform Code of Military Justice), as added by subsection (a), shall take effect at the end of the six-month period beginning on the date of the enactment of this Act [Feb. 10, 1996] and shall apply with respect to charges referred to courts-martial after the end of that period.”
 
 ## SUBCHAPTER X—PUNITIVE ARTICLES
 
 <table>
 <tr><th>Sec.</th><th>Art.</th><th></th></tr>
-<tr><td colspan="3">1 Editorially added, see second 2017 Amendment note below.</td></tr>
+<tr><td colspan="3">1 Editorially added, see second 2017 Amendment note below.</td></tr>
 <tr><td>877.</td><td>77.</td><td>Principals.</td></tr>
 <tr><td>878.</td><td>78.</td><td>Accessory after the fact.</td></tr>
 <tr><td>879.</td><td>79.</td><td>Conviction of offense charged, lesser included offenses, and attempts.</td></tr>
@@ -8256,39 +8256,39 @@ Pub. L. 104–106, div. A, title XI, § 1133(c), Feb. 10, 1996, 110 Stat. 466,
 
 **Amendments**
 
-2021—Pub. L. 117–81, div. A, title V, § 542(b), Dec. 27, 2021, 135 Stat. 1709, substituted “Conduct unbecoming an officer” for “Conduct unbecoming an officer and a gentleman” in item 933.
+2021—Pub. L. 117–81, div. A, title V, § 542(b), Dec. 27, 2021, 135 Stat. 1709, substituted “Conduct unbecoming an officer” for “Conduct unbecoming an officer and a gentleman” in item 933.
 
-2018—Pub. L. 115–232, div. A, title V, § 532(a)(2), Aug. 13, 2018, 132 Stat. 1759, added item 928b.
+2018—Pub. L. 115–232, div. A, title V, § 532(a)(2), Aug. 13, 2018, 132 Stat. 1759, added item 928b.
 
-2017—Pub. L. 115–91, div. A, title X, § 1081(d)(18), Dec. 12, 2017, 131 Stat. 1600, amended Pub. L. 114–328, § 5452. See 2016 Amendment note below.
+2017—Pub. L. 115–91, div. A, title X, § 1081(d)(18), Dec. 12, 2017, 131 Stat. 1600, amended Pub. L. 114–328, § 5452. See 2016 Amendment note below.
 
-Pub. L. 115–91, div. A, title V, § 533(b), Dec. 12, 2017, 131 Stat. 1390, added item 917a. As amended generally by section 5452 of Pub. L. 114–328, which was enacted Dec. 23, 2016, but effective Jan. 1, 2019 (see 2016 Amendment note below), analysis no longer included item 917a, but item was added back editorially, to reflect the probable intent of Congress.
+Pub. L. 115–91, div. A, title V, § 533(b), Dec. 12, 2017, 131 Stat. 1390, added item 917a. As amended generally by section 5452 of Pub. L. 114–328, which was enacted Dec. 23, 2016, but effective Jan. 1, 2019 (see 2016 Amendment note below), analysis no longer included item 917a, but item was added back editorially, to reflect the probable intent of Congress.
 
-2016—Pub. L. 114–328, div. E, title LX, § 5452, Dec. 23, 2016, 130 Stat. 2958, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(18), Dec. 12, 2017, 131 Stat. 1600, amended analysis generally, substituting items 877 to 934 for former items 877 to 934.
+2016—Pub. L. 114–328, div. E, title LX, § 5452, Dec. 23, 2016, 130 Stat. 2958, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(18), Dec. 12, 2017, 131 Stat. 1600, amended analysis generally, substituting items 877 to 934 for former items 877 to 934.
 
-2013—Pub. L. 113–66, div. A, title XVII, § 1707(b), Dec. 26, 2013, 127 Stat. 961, substituted “Forcible sodomy; bestiality” for “Sodomy” in item 925.
+2013—Pub. L. 113–66, div. A, title XVII, § 1707(b), Dec. 26, 2013, 127 Stat. 961, substituted “Forcible sodomy; bestiality” for “Sodomy” in item 925.
 
-2011—Pub. L. 112–81, div. A, title V, § 541(e), Dec. 31, 2011, 125 Stat. 1410, substituted “Rape and sexual assault generally” for “Rape, sexual assault, and other sexual misconduct” in item 920 and added items 920b and 920c.
+2011—Pub. L. 112–81, div. A, title V, § 541(e), Dec. 31, 2011, 125 Stat. 1410, substituted “Rape and sexual assault generally” for “Rape, sexual assault, and other sexual misconduct” in item 920 and added items 920b and 920c.
 
-2006—Pub. L. 109–163, div. A, title V, § 552(a)(2), Jan. 6, 2006, 119 Stat. 3262, substituted “Rape, sexual assault, and other sexual misconduct” for “Rape and carnal knowledge” in item 920.
+2006—Pub. L. 109–163, div. A, title V, § 552(a)(2), Jan. 6, 2006, 119 Stat. 3262, substituted “Rape, sexual assault, and other sexual misconduct” for “Rape and carnal knowledge” in item 920.
 
-Pub. L. 109–163, div. A, title V, § 551(a)(2), Jan. 6, 2006, 119 Stat. 3256, added item 920a.
+Pub. L. 109–163, div. A, title V, § 551(a)(2), Jan. 6, 2006, 119 Stat. 3256, added item 920a.
 
-2004—Pub. L. 108–212, § 3(b), Apr. 1, 2004, 118 Stat. 570, added item 919a.
+2004—Pub. L. 108–212, § 3(b), Apr. 1, 2004, 118 Stat. 570, added item 919a.
 
-1997—Pub. L. 105–85, div. A, title X, § 1073(a)(10), Nov. 18, 1997, 111 Stat. 1900, struck out “Art.” before “95” in item 895.
+1997—Pub. L. 105–85, div. A, title X, § 1073(a)(10), Nov. 18, 1997, 111 Stat. 1900, struck out “Art.” before “95” in item 895.
 
-1996—Pub. L. 104–106, div. A, title XI, § 1112(b), Feb. 10, 1996, 110 Stat. 461, inserted “flight,” after “Resistance,” in item 895.
+1996—Pub. L. 104–106, div. A, title XI, § 1112(b), Feb. 10, 1996, 110 Stat. 461, inserted “flight,” after “Resistance,” in item 895.
 
-1992—Pub. L. 102–484, div. A, title X, § 1066(a)(2), Oct. 23, 1992, 106 Stat. 2506, substituted “operation of a vehicle, aircraft, or vessel” for “driving” in item 911.
+1992—Pub. L. 102–484, div. A, title X, § 1066(a)(2), Oct. 23, 1992, 106 Stat. 2506, substituted “operation of a vehicle, aircraft, or vessel” for “driving” in item 911.
 
-1985—Pub. L. 99–145, title V, § 534(b), Nov. 8, 1985, 99 Stat. 635, added item 906a.
+1985—Pub. L. 99–145, title V, § 534(b), Nov. 8, 1985, 99 Stat. 635, added item 906a.
 
-1983—Pub. L. 98–209, § 8(b), Dec. 6, 1983, 97 Stat. 1404, added item 912a.
+1983—Pub. L. 98–209, § 8(b), Dec. 6, 1983, 97 Stat. 1404, added item 912a.
 
-1961—Pub. L. 87–385, § 1(2), Oct. 4, 1961, 75 Stat. 814, added item 923a.
+1961—Pub. L. 87–385, § 1(2), Oct. 4, 1961, 75 Stat. 814, added item 923a.
 
-### § 877. Art. 77. Principals
+### § 877. Art. 77. Principals
 
 Any person punishable under this chapter who—
 
@@ -8304,9 +8304,9 @@ is a principal.
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 877 | 50:671. | May 5, 1950, ch. 169, § 1 (Art. 77), 64 Stat. 134. |
+| 877 | 50:671. | May 5, 1950, ch. 169, § 1 (Art. 77), 64 Stat. 134. |
 
-### § 878. Art. 78. Accessory after the fact
+### § 878. Art. 78. Accessory after the fact
 
 Any person subject to this chapter who, knowing that an offense punishable by this chapter has been committed, receives, comforts, or assists the offender in order to hinder or prevent his apprehension, trial, or punishment shall be punished as a court-martial may direct.
 
@@ -8316,9 +8316,9 @@ Any person subject to this chapter who, knowing that an offense punishable by th
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 878 | 50:672. | May 5, 1950, ch. 169, § 1 (Art. 78), 64 Stat. 134. |
+| 878 | 50:672. | May 5, 1950, ch. 169, § 1 (Art. 78), 64 Stat. 134. |
 
-### § 879. Art. 79. Conviction of offense charged, lesser included offenses, and attempts
+### § 879. Art. 79. Conviction of offense charged, lesser included offenses, and attempts
 
 **(a) In General.—** An accused may be found guilty of any of the following:
 
@@ -8338,13 +8338,13 @@ Any person subject to this chapter who, knowing that an offense punishable by th
 
 **(c) Regulatory Authority.—** Any designation of a lesser included offense in a regulation referred to in subsection (b) shall be reasonably included in the greater offense.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 65; Pub. L. 114–328, div. E, title LX, § 5402, Dec. 23, 2016, 130 Stat. 2939.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 65; Pub. L. 114–328, div. E, title LX, § 5402, Dec. 23, 2016, 130 Stat. 2939.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 879 | 50:673. | May 5, 1950, ch. 169, § 1 (Art. 79), 64 Stat. 134. |
+| 879 | 50:673. | May 5, 1950, ch. 169, § 1 (Art. 79), 64 Stat. 134. |
 
 **Editorial Notes**
 
@@ -8358,7 +8358,7 @@ Any person subject to this chapter who, knowing that an offense punishable by th
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 880. Art. 80. Attempts
+### § 880. Art. 80. Attempts
 
 **(a)** An act, done with specific intent to commit an offense under this chapter, amounting to more than mere preparation and tending, even though failing, to effect its commission, is an attempt to commit that offense.
 
@@ -8372,24 +8372,24 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 880(a) 880(b) | 50:674(a). 50:674(b). | May 5, 1950, ch. 169, § 1 (Art. 80), 64 Stat. 134. |
+| 880(a) 880(b) | 50:674(a). 50:674(b). | May 5, 1950, ch. 169, § 1 (Art. 80), 64 Stat. 134. |
 | 880(c) | 50:674(c). |  |
 
 In subsection (a), the words “even though” are substituted for the word “but” for clarity.
 
-### § 881. Art. 81. Conspiracy
+### § 881. Art. 81. Conspiracy
 
 **(a)** Any person subject to this chapter who conspires with any other person to commit an offense under this chapter shall, if one or more of the conspirators does an act to effect the object of the conspiracy, be punished as a court-martial may direct.
 
 **(b)** Any person subject to this chapter who conspires with any other person to commit an offense under the law of war, and who knowingly does an overt act to effect the object of the conspiracy, shall be punished, if death results to one or more of the victims, by death or such other punishment as a court-martial or military commission may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a court-martial or military commission may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 66; Pub. L. 109–366, § 4(b), Oct. 17, 2006, 120 Stat. 2631.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 66; Pub. L. 109–366, § 4(b), Oct. 17, 2006, 120 Stat. 2631.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 881 | 50:675. | May 5, 1950, ch. 169, § 1 (Art. 81), 64 Stat. 134. |
+| 881 | 50:675. | May 5, 1950, ch. 169, § 1 (Art. 81), 64 Stat. 134. |
 
 The words “or persons” are omitted as surplusage, since under section 1 of title 1 words importing the singular may apply to several persons.
 
@@ -8399,7 +8399,7 @@ The words “or persons” are omitted as surplusage, since under section 1 of t
 
 2006—Pub. L. 109–366 designated existing provisions as subsec. (a) and added subsec. (b).
 
-### § 882. Art. 82. Soliciting commission of offenses
+### § 882. Art. 82. Soliciting commission of offenses
 
 **(a) Soliciting Commission of Offenses Generally.—** Any person subject to this chapter who solicits or advises another to commit an offense under this chapter (other than an offense specified in subsection (b)) shall be punished as a court-martial may direct.
 
@@ -8409,13 +8409,13 @@ The words “or persons” are omitted as surplusage, since under section 1 of t
 
 **(2)** if the offense solicited or advised is not attempted or committed, shall be punished as a court-martial may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 66; Pub. L. 114–328, div. E, title LX, § 5403, Dec. 23, 2016, 130 Stat. 2939; Pub. L. 115–91, div. A, title X, § 1081(c)(1)(M), Dec. 12, 2017, 131 Stat. 1598.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 66; Pub. L. 114–328, div. E, title LX, § 5403, Dec. 23, 2016, 130 Stat. 2939; Pub. L. 115–91, div. A, title X, § 1081(c)(1)(M), Dec. 12, 2017, 131 Stat. 1598.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 882(a) 882(b) | 50:676(a). 50:676(b). | May 5, 1950, ch. 169, § 1, (Art. 82), 64 Stat. 134. |
+| 882(a) 882(b) | 50:676(a). 50:676(b). | May 5, 1950, ch. 169, § 1, (Art. 82), 64 Stat. 134. |
 
 **Editorial Notes**
 
@@ -8429,13 +8429,13 @@ The words “or persons” are omitted as surplusage, since under section 1 of t
 
 **Effective Date of 2017 Amendment**
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 **Effective Date of 2016 Amendment**
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 883. Art. 83. Malingering
+### § 883. Art. 83. Malingering
 
 Any person subject to this chapter who, with the intent to avoid work, duty, or service—
 
@@ -8445,7 +8445,7 @@ Any person subject to this chapter who, with the intent to avoid work, duty, or 
 
 shall be punished as a court-martial may direct.
 
-(Added Pub. L. 114–328, div. E, title LX, § 5404, Dec. 23, 2016, 130 Stat. 2940.)
+(Added Pub. L. 114–328, div. E, title LX, § 5404, Dec. 23, 2016, 130 Stat. 2940.)
 
 **Editorial Notes**
 
@@ -8459,7 +8459,7 @@ A prior section 883 was renumbered section 904a of this title.
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 884. Art. 84. Breach of medical quarantine
+### § 884. Art. 84. Breach of medical quarantine
 
 Any person subject to this chapter—
 
@@ -8469,7 +8469,7 @@ Any person subject to this chapter—
 
 shall be punished as a court-martial may direct.
 
-(Added Pub. L. 114–328, div. E, title LX, § 5405, Dec. 23, 2016, 130 Stat. 2940.)
+(Added Pub. L. 114–328, div. E, title LX, § 5405, Dec. 23, 2016, 130 Stat. 2940.)
 
 **Editorial Notes**
 
@@ -8483,7 +8483,7 @@ A prior section 884 was renumbered section 904b of this title.
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 885. Art. 85. Desertion
+### § 885. Art. 85. Desertion
 
 **(a)** Any member of the armed forces who—
 
@@ -8505,7 +8505,7 @@ is guilty of desertion.
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 885(a) 885(b) | 50:679(a). 50:679(b). | May 5, 1950, ch. 169, § 1 (Art. 85), 64 Stat. 135. |
+| 885(a) 885(b) | 50:679(a). 50:679(b). | May 5, 1950, ch. 169, § 1 (Art. 85), 64 Stat. 135. |
 | 885(c) | 50:679(c). |  |
 
 In subsection (a), the word “unit” is substituted for the words “place of service” to conform to clause (2) of this section and section 886(3) of this title. The word “proper” is omitted as surplusage.
@@ -8514,7 +8514,7 @@ In subsection (b), the word “commissioned” is inserted for clarity. The word
 
 In subsection (c), the words “attempt to desert” are substituted for the words “attempted desertion”.
 
-### § 886. Art. 86. Absence without leave
+### § 886. Art. 86. Absence without leave
 
 Any member of the armed forces who, without authority—
 
@@ -8532,23 +8532,23 @@ shall be punished as a court-martial may direct.
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 886 | 50:680. | May 5, 1950, ch. 169, § 1 (Art. 86), 64 Stat. 135. |
+| 886 | 50:680. | May 5, 1950, ch. 169, § 1 (Art. 86), 64 Stat. 135. |
 
 The words “proper” and “other” are omitted as surplusage.
 
-### § 887. Art. 87. Missing movement; jumping from vessel
+### § 887. Art. 87. Missing movement; jumping from vessel
 
 **(a) Missing Movement.—** Any person subject to this chapter who, through neglect or design, misses the movement of a ship, aircraft, or unit with which the person is required in the course of duty to move shall be punished as a court-martial may direct.
 
 **(b) Jumping From Vessel Into the Water.—** Any person subject to this chapter who wrongfully and intentionally jumps into the water from a vessel in use by the armed forces shall be punished as a court-martial may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 67; Pub. L. 114–328, div. E, title LX, § 5406, Dec. 23, 2016, 130 Stat. 2940.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 67; Pub. L. 114–328, div. E, title LX, § 5406, Dec. 23, 2016, 130 Stat. 2940.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 887 | 50:681. | May 5, 1950, ch. 169, § 1 (Art. 87), 64 Stat. 135. |
+| 887 | 50:681. | May 5, 1950, ch. 169, § 1 (Art. 87), 64 Stat. 135. |
 
 **Editorial Notes**
 
@@ -8562,7 +8562,7 @@ The words “proper” and “other” are omitted as surplusage.
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 887a. Art. 87a. Resistance, flight, breach of arrest, and escape
+### § 887a. Art. 87a. Resistance, flight, breach of arrest, and escape
 
 Any person subject to this chapter who—
 
@@ -8576,13 +8576,13 @@ Any person subject to this chapter who—
 
 shall be punished as a court-martial may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 69, § 895; Pub. L. 104–106, div. A, title XI, § 1112(a), Feb. 10, 1996, 110 Stat. 461; renumbered § 887a, Pub. L. 114–328, div. E, title LX, § 5401(2), Dec. 23, 2016, 130 Stat. 2938.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 69, § 895; Pub. L. 104–106, div. A, title XI, § 1112(a), Feb. 10, 1996, 110 Stat. 461; renumbered § 887a, Pub. L. 114–328, div. E, title LX, § 5401(2), Dec. 23, 2016, 130 Stat. 2938.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 895 | 50:689. | May 5, 1950, ch. 169, § 1 (Art. 95), 64 Stat. 136. |
+| 895 | 50:689. | May 5, 1950, ch. 169, § 1 (Art. 95), 64 Stat. 136. |
 
 **Editorial Notes**
 
@@ -8596,7 +8596,7 @@ shall be punished as a court-martial may direct.
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 887b. Art. 87b. Offenses against correctional custody and restriction
+### § 887b. Art. 87b. Offenses against correctional custody and restriction
 
 **(a) Escape From Correctional Custody.—** Any person subject to this chapter—
 
@@ -8626,7 +8626,7 @@ shall be punished as a court-martial may direct.
 
 shall be punished as a court-martial may direct.
 
-(Added Pub. L. 114–328, div. E, title LX, § 5407, Dec. 23, 2016, 130 Stat. 2941.)
+(Added Pub. L. 114–328, div. E, title LX, § 5407, Dec. 23, 2016, 130 Stat. 2941.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8634,17 +8634,17 @@ shall be punished as a court-martial may direct.
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 888. Art. 88. Contempt toward officials
+### § 888. Art. 88. Contempt toward officials
 
 Any commissioned officer who uses contemptuous words against the President, the Vice President, Congress, the Secretary of Defense, the Secretary of a military department, the Secretary of Homeland Security, or the Governor or legislature of any State, Commonwealth, or possession in which he is on duty or present shall be punished as a court-martial may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 67; Pub. L. 96–513, title V, § 511(25), Dec. 12, 1980, 94 Stat. 2922; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title X, § 1057(a)(3), Jan. 6, 2006, 119 Stat. 3440.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 67; Pub. L. 96–513, title V, § 511(25), Dec. 12, 1980, 94 Stat. 2922; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title X, § 1057(a)(3), Jan. 6, 2006, 119 Stat. 3440.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 888 | 50:682. | May 5, 1950, ch. 169, § 1 (Art. 88), 64 Stat. 135. |
+| 888 | 50:682. | May 5, 1950, ch. 169, § 1 (Art. 88), 64 Stat. 135. |
 
 The word “commissioned” is inserted for clarity. The words “the Vice President, Congress, the Secretary of Defense, the Secretary of a military department, the Secretary of the Treasury, or the Governor or legislature of any State, Territory, Commonwealth, or possession” are substituted for the words “Vice President, Congress, Secretary of Defense, or a Secretary of a Department, a Governor or a legislature of any State, Territory, or other possession of the United States”.
 
@@ -8668,7 +8668,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-### § 889. Art. 89. Disrespect toward superior commissioned officer; assault of superior commissioned officer
+### § 889. Art. 89. Disrespect toward superior commissioned officer; assault of superior commissioned officer
 
 **(a) Disrespect.—** Any person subject to this chapter who behaves with disrespect toward that person’s superior commissioned officer shall be punished as a court-martial may direct.
 
@@ -8678,13 +8678,13 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **(2)** if the offense is committed at any other time, by such punishment, other than death, as a court-martial may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 67; Pub. L. 114–328, div. E, title LX, § 5408, Dec. 23, 2016, 130 Stat. 2941.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 67; Pub. L. 114–328, div. E, title LX, § 5408, Dec. 23, 2016, 130 Stat. 2941.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 889 | 50:683. | May 5, 1950, ch. 169, § 1 (Art. 89), 64 Stat. 135. |
+| 889 | 50:683. | May 5, 1950, ch. 169, § 1 (Art. 89), 64 Stat. 135. |
 
 The word “commissioned” is inserted for clarity.
 
@@ -8692,7 +8692,7 @@ The word “commissioned” is inserted for clarity.
 
 **Prior Provisions**
 
-Provisions similar to those in subsec. (b) of this section were contained in section 890 of this title, prior to amendment by Pub. L. 114–328, div. E, title LX, § 5409, Dec. 23, 2016, 130 Stat. 2942.
+Provisions similar to those in subsec. (b) of this section were contained in section 890 of this title, prior to amendment by Pub. L. 114–328, div. E, title LX, § 5409, Dec. 23, 2016, 130 Stat. 2942.
 
 **Amendments**
 
@@ -8704,7 +8704,7 @@ Provisions similar to those in subsec. (b) of this section were contained in sec
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 890. Art. 90. Willfully disobeying superior commissioned officer
+### § 890. Art. 90. Willfully disobeying superior commissioned officer
 
 Any person subject to this chapter who willfully disobeys a lawful command of that person’s superior commissioned officer shall be punished—
 
@@ -8712,13 +8712,13 @@ Any person subject to this chapter who willfully disobeys a lawful command of th
 
 **(2)** if the offense is committed at any other time, by such punishment, other than death, as a court-martial may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 68; Pub. L. 114–328, div. E, title LX, § 5409, Dec. 23, 2016, 130 Stat. 2942.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 68; Pub. L. 114–328, div. E, title LX, § 5409, Dec. 23, 2016, 130 Stat. 2942.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 890 | 50:684. | May 5, 1950, ch. 169, § 1 (Art. 90), 64 Stat. 135. |
+| 890 | 50:684. | May 5, 1950, ch. 169, § 1 (Art. 90), 64 Stat. 135. |
 
 The word “commissioned” is inserted for clarity.
 
@@ -8734,7 +8734,7 @@ The word “commissioned” is inserted for clarity.
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 891. Art. 91. Insubordinate conduct toward warrant officer, noncommissioned officer, or petty officer
+### § 891. Art. 91. Insubordinate conduct toward warrant officer, noncommissioned officer, or petty officer
 
 Any warrant officer or enlisted member who—
 
@@ -8752,11 +8752,11 @@ shall be punished as a court-martial may direct.
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 891 | 50:685. | May 5, 1950, ch. 169, § 1 (Art. 91), 64 Stat. 136. |
+| 891 | 50:685. | May 5, 1950, ch. 169, § 1 (Art. 91), 64 Stat. 136. |
 
 The word “member” is substituted for the word “person”.
 
-### § 892. Art. 92. Failure to obey order or regulation
+### § 892. Art. 92. Failure to obey order or regulation
 
 Any person subject to this chapter who—
 
@@ -8774,11 +8774,11 @@ shall be punished as a court-martial may direct.
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 892 | 50:686. | May 5, 1950, ch. 169, § 1 (Art. 92), 64 Stat. 136. |
+| 892 | 50:686. | May 5, 1950, ch. 169, § 1 (Art. 92), 64 Stat. 136. |
 
 The word “order” is substituted for the word “same”.
 
-### § 893. Art. 93. Cruelty and maltreatment
+### § 893. Art. 93. Cruelty and maltreatment
 
 Any person subject to this chapter who is guilty of cruelty toward, or oppression or maltreatment of, any person subject to his orders shall be punished as a court-martial may direct.
 
@@ -8788,9 +8788,9 @@ Any person subject to this chapter who is guilty of cruelty toward, or oppressio
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 893 | 50:687. | May 5, 1950, ch. 169, § 1 (Art. 93), 64 Stat. 136. |
+| 893 | 50:687. | May 5, 1950, ch. 169, § 1 (Art. 93), 64 Stat. 136. |
 
-### § 893a. Art. 93a. Prohibited activities with military recruit or trainee by person in position of special trust
+### § 893a. Art. 93a. Prohibited activities with military recruit or trainee by person in position of special trust
 
 **(a) Abuse of Training Leadership Position.—** Any person subject to this chapter—
 
@@ -8834,7 +8834,7 @@ shall be punished as a court-martial may direct.
 
 **(5) Prohibited sexual activity.—** The term “prohibited sexual activity” means, as specified in regulations prescribed by the Secretary concerned, inappropriate physical intimacy under circumstances described in such regulations.
 
-(Added Pub. L. 114–328, div. E, title LX, § 5410, Dec. 23, 2016, 130 Stat. 2942.)
+(Added Pub. L. 114–328, div. E, title LX, § 5410, Dec. 23, 2016, 130 Stat. 2942.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8842,7 +8842,7 @@ shall be punished as a court-martial may direct.
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 894. Art. 94. Mutiny or sedition
+### § 894. Art. 94. Mutiny or sedition
 
 **(a)** Any person subject to this chapter who—
 
@@ -8860,13 +8860,13 @@ Section effective on Jan. 1, 2019, as designated by the President, with implemen
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 894(a) 894(b) | 50:688(a). 50:688(b). | May 5, 1950, ch. 169, § 1 (Art. 94), 64 Stat. 136. |
+| 894(a) 894(b) | 50:688(a). 50:688(b). | May 5, 1950, ch. 169, § 1 (Art. 94), 64 Stat. 136. |
 
 In subsection (a)(1) and (2), the words “or persons” are omitted, since, under section 1 of title 1, words importing the singular may apply to several persons.
 
 In subsection (a)(3), the word “a” is substituted for the words “an offense of”. The words “commissioned officer” are inserted after the word “superior”, for clarity.
 
-### § 895. Art. 95. Offenses by sentinel or lookout
+### § 895. Art. 95. Offenses by sentinel or lookout
 
 **(a) Drunk or Sleeping on Post, or Leaving Post Before Being Relieved.—** Any sentinel or lookout who is drunk on post, who sleeps on post, or who leaves post before being regularly relieved, shall be punished—
 
@@ -8876,13 +8876,13 @@ In subsection (a)(3), the word “a” is substituted for the words “an offens
 
 **(b) Loitering or Wrongfully Sitting on Post.—** Any sentinel or lookout who loiters or wrongfully sits down on post shall be punished as a court-martial may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 72, § 913; renumbered § 895 and amended Pub. L. 114–328, div. E, title LX, §§ 5401(8), 5411, Dec. 23, 2016, 130 Stat. 2938, 2943.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 72, § 913; renumbered § 895 and amended Pub. L. 114–328, div. E, title LX, §§ 5401(8), 5411, Dec. 23, 2016, 130 Stat. 2938, 2943.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 913 | 50:707. | May 5, 1950, ch. 169, § 1 (Art. 113), 64 Stat. 139. |
+| 913 | 50:707. | May 5, 1950, ch. 169, § 1 (Art. 113), 64 Stat. 139. |
 
 **Prior Provisions**
 
@@ -8892,9 +8892,9 @@ A prior section 895 was renumbered section 887a of this title.
 
 **Amendments**
 
-2016—Pub. L. 114–328, § 5411, amended section generally. Prior to amendment, text read as follows: “Any sentinel or look-out who is found drunk or sleeping upon his post, or leaves it before he is regularly relieved, shall be punished, if the offense is committed in time of war, by death or such other punishment as a court-martial may direct, but if the offense is committed at any other time, by such punishment other than death as a court-martial may direct.”
+2016—Pub. L. 114–328, § 5411, amended section generally. Prior to amendment, text read as follows: “Any sentinel or look-out who is found drunk or sleeping upon his post, or leaves it before he is regularly relieved, shall be punished, if the offense is committed in time of war, by death or such other punishment as a court-martial may direct, but if the offense is committed at any other time, by such punishment other than death as a court-martial may direct.”
 
-Pub. L. 114–328, § 5401(8), renumbered section 913 of this title as this section.
+Pub. L. 114–328, § 5401(8), renumbered section 913 of this title as this section.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8902,13 +8902,13 @@ Pub. L. 114–328, § 5401(8), renumbered section 913 of this title as this se
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 895a. Art. 95a. Disrespect toward sentinel or lookout
+### § 895a. Art. 95a. Disrespect toward sentinel or lookout
 
 **(a) Disrespectful Language Toward Sentinel or Lookout.—** Any person subject to this chapter who, knowing that another person is a sentinel or lookout, uses wrongful and disrespectful language that is directed toward and within the hearing of the sentinel or lookout, who is in the execution of duties as a sentinel or lookout, shall be punished as a court-martial may direct.
 
 **(b) Disrespectful Behavior Toward Sentinel or Lookout.—** Any person subject to this chapter who, knowing that another person is a sentinel or lookout, behaves in a wrongful and disrespectful manner that is directed toward and within the sight of the sentinel or lookout, who is in the execution of duties as a sentinel or lookout, shall be punished as a court-martial may direct.
 
-(Added Pub. L. 114–328, div. E, title LX, § 5412, Dec. 23, 2016, 130 Stat. 2943.)
+(Added Pub. L. 114–328, div. E, title LX, § 5412, Dec. 23, 2016, 130 Stat. 2943.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8916,7 +8916,7 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 896. Art. 96. Release of prisoner without authority; drinking with prisoner
+### § 896. Art. 96. Release of prisoner without authority; drinking with prisoner
 
 **(a) Release of Prisoner Without Authority.—** Any person subject to this chapter—
 
@@ -8928,13 +8928,13 @@ shall be punished as a court-martial may direct, whether or not the prisoner was
 
 **(b) Drinking With Prisoner.—** Any person subject to this chapter who unlawfully drinks any alcoholic beverage with a prisoner shall be punished as a court-martial may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 69; Pub. L. 114–328, div. E, title LX, § 5413, Dec. 23, 2016, 130 Stat. 2944.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 69; Pub. L. 114–328, div. E, title LX, § 5413, Dec. 23, 2016, 130 Stat. 2944.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 896 | 50:690. | May 5, 1950, ch. 169, § 1 (Art. 96), 64 Stat. 136. |
+| 896 | 50:690. | May 5, 1950, ch. 169, § 1 (Art. 96), 64 Stat. 136. |
 
 The words “whether or not the prisoner was committed in strict compliance with law” are substituted for the word “duly”, to reflect the long standing construction expressed in the Manual for Courts-Martial, United States, 1951, par. 175a.
 
@@ -8950,7 +8950,7 @@ The words “whether or not the prisoner was committed in strict compliance with
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 897. Art. 97. Unlawful detention
+### § 897. Art. 97. Unlawful detention
 
 Any person subject to this chapter who, except as provided by law, apprehends, arrests, or confines any person shall be punished as a court-martial may direct.
 
@@ -8960,9 +8960,9 @@ Any person subject to this chapter who, except as provided by law, apprehends, a
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 897 | 50:691. | May 5, 1950, ch. 169, § 1 (Art. 97), 64 Stat. 137. |
+| 897 | 50:691. | May 5, 1950, ch. 169, § 1 (Art. 97), 64 Stat. 137. |
 
-### § 898. Art. 98. Misconduct as prisoner
+### § 898. Art. 98. Misconduct as prisoner
 
 Any person subject to this chapter who, while in the hands of the enemy in time of war—
 
@@ -8972,13 +8972,13 @@ Any person subject to this chapter who, while in the hands of the enemy in time 
 
 shall be punished as a court-martial may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 71, § 905; renumbered § 898, Pub. L. 114–328, div. E, title LX, § 5401(6), Dec. 23, 2016, 130 Stat. 2938.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 71, § 905; renumbered § 898, Pub. L. 114–328, div. E, title LX, § 5401(6), Dec. 23, 2016, 130 Stat. 2938.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 905 | 50:699. | May 5, 1950, ch. 169, § 1 (Art. 105), 64 Stat. 138. |
+| 905 | 50:699. | May 5, 1950, ch. 169, § 1 (Art. 105), 64 Stat. 138. |
 
 **Editorial Notes**
 
@@ -8996,7 +8996,7 @@ A prior section 898 was renumbered section 931f of this title.
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 899. Art. 99. Misbehavior before the enemy
+### § 899. Art. 99. Misbehavior before the enemy
 
 Any member of the armed forces who before or in the presence of the enemy—
 
@@ -9026,9 +9026,9 @@ shall be punished by death or such other punishment as a court-martial may direc
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 899 | 50:693. | May 5, 1950, ch. 169, § 1 (Art. 99), 64 Stat. 137. |
+| 899 | 50:693. | May 5, 1950, ch. 169, § 1 (Art. 99), 64 Stat. 137. |
 
-### § 900. Art. 100. Subordinate compelling surrender
+### § 900. Art. 100. Subordinate compelling surrender
 
 Any person subject to this chapter who compels or attempts to compel the commander of any place, vessel, aircraft, or other military property, or of any body of members of the armed forces, to give it up to an enemy or to abandon it, or who strikes the colors or flag to an enemy without proper authority, shall be punished by death or such other punishment as a court-martial may direct.
 
@@ -9038,9 +9038,9 @@ Any person subject to this chapter who compels or attempts to compel the command
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 900 | 50:694. | May 5, 1950, ch. 169, § 1 (Art. 100), 64 Stat. 137. |
+| 900 | 50:694. | May 5, 1950, ch. 169, § 1 (Art. 100), 64 Stat. 137. |
 
-### § 901. Art. 101. Improper use of countersign
+### § 901. Art. 101. Improper use of countersign
 
 Any person subject to this chapter who in time of war discloses the parole or countersign to any person not entitled to receive it or who gives to another who is entitled to receive and use the parole or countersign a different parole or countersign from that which, to his knowledge, he was authorized and required to give, shall be punished by death or such other punishment as a court-martial may direct.
 
@@ -9050,9 +9050,9 @@ Any person subject to this chapter who in time of war discloses the parole or co
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 901 | 50:695. | May 5, 1950, ch. 169, § 1 (Art. 101), 64 Stat. 137. |
+| 901 | 50:695. | May 5, 1950, ch. 169, § 1 (Art. 101), 64 Stat. 137. |
 
-### § 902. Art. 102. Forcing a safeguard
+### § 902. Art. 102. Forcing a safeguard
 
 Any person subject to this chapter who forces a safeguard shall suffer death or such other punishment as a court-martial may direct.
 
@@ -9062,19 +9062,19 @@ Any person subject to this chapter who forces a safeguard shall suffer death or 
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 902 | 50:696. | May 5, 1950, ch. 169, § 1 (Art. 102), 64 Stat. 137. |
+| 902 | 50:696. | May 5, 1950, ch. 169, § 1 (Art. 102), 64 Stat. 137. |
 
-### § 903. Art. 103. Spies
+### § 903. Art. 103. Spies
 
 Any person who in time of war is found lurking as a spy or acting as a spy in or about any place, vessel, or aircraft, within the control or jurisdiction of any of the armed forces, or in or about any shipyard, any manufacturing or industrial plant, or any other place or institution engaged in work in aid of the prosecution of the war by the United States, or elsewhere, shall be tried by a general court-martial or by a military commission and on conviction shall be punished by death or such other punishment as a court-martial or a military commission may direct. This section does not apply to a military commission established under chapter 47A of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 71, § 906; Pub. L. 109–366, § 4(a)(2), Oct. 17, 2006, 120 Stat. 2631; renumbered § 903 and amended Pub. L. 114–328, div. E, title LX, §§ 5401(7), 5414, Dec. 23, 2016, 130 Stat. 2938, 2944.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 71, § 906; Pub. L. 109–366, § 4(a)(2), Oct. 17, 2006, 120 Stat. 2631; renumbered § 903 and amended Pub. L. 114–328, div. E, title LX, §§ 5401(7), 5414, Dec. 23, 2016, 130 Stat. 2938, 2944.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 906 | 50:700. | May 5, 1950, ch. 169, § 1 (Art. 106), 64 Stat. 138. |
+| 906 | 50:700. | May 5, 1950, ch. 169, § 1 (Art. 106), 64 Stat. 138. |
 
 The words “of the United States” are omitted as surplusage.
 
@@ -9086,9 +9086,9 @@ A prior section 903 was renumbered section 908a of this title.
 
 **Amendments**
 
-2016—Pub. L. 114–328, § 5414, inserted “or such other punishment as a court-martial or a military commission may direct” after “punished by death”.
+2016—Pub. L. 114–328, § 5414, inserted “or such other punishment as a court-martial or a military commission may direct” after “punished by death”.
 
-Pub. L. 114–328, § 5401(7), renumbered section 906 of this title as this section.
+Pub. L. 114–328, § 5401(7), renumbered section 906 of this title as this section.
 
 2006—Pub. L. 109–366 inserted last sentence.
 
@@ -9108,7 +9108,7 @@ Whereas the safety of the United States demands that all enemies who have entere
 
 Now, therefore, I, Franklin D. Roosevelt, President of the United States of America and Commander in Chief of the Army and Navy of the United States, by virtue of the authority vested in me by the Constitution and the statutes of the United States, do hereby proclaim that all persons who are subjects, citizens or residents of any nation at war with the United States or who give obedience to or act under the direction of any such nation, and who during time of war enter or attempt to enter the United States or any territory or possession thereof, through coastal or boundary defenses, and are charged with committing or attempting or preparing to commit sabotage, espionage, hostile or warlike acts, or violations of the law of war, shall be subject to the law of war and to the jurisdiction of military tribunals; and that such persons shall not be privileged to seek any remedy or maintain any proceeding directly or indirectly, or to have any such remedy or proceeding sought on their behalf, in the courts of the United States, or of its States, territories, and possessions, except under such regulations as the Attorney General, with the approval of the Secretary of War, may from time to time prescribe.
 
-### § 903a. Art. 103a. Espionage
+### § 903a. Art. 103a. Espionage
 
 **(a)**
 
@@ -9152,7 +9152,7 @@ Now, therefore, I, Franklin D. Roosevelt, President of the United States of Amer
 
 **(4)** Any other factor that may be prescribed by the President by regulations under section 836 of this title (article 36).
 
-(Added Pub. L. 99–145, title V, § 534(a), Nov. 8, 1985, 99 Stat. 634, § 906a; renumbered § 903a, Pub. L. 114–328, div. E, title LX, § 5401(7), Dec. 23, 2016, 130 Stat. 2938.)
+(Added Pub. L. 99–145, title V, § 534(a), Nov. 8, 1985, 99 Stat. 634, § 906a; renumbered § 903a, Pub. L. 114–328, div. E, title LX, § 5401(7), Dec. 23, 2016, 130 Stat. 2938.)
 
 **Editorial Notes**
 
@@ -9166,7 +9166,7 @@ Now, therefore, I, Franklin D. Roosevelt, President of the United States of Amer
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 903b. Art. 103b. Aiding the enemy
+### § 903b. Art. 103b. Aiding the enemy
 
 Any person who—
 
@@ -9176,13 +9176,13 @@ Any person who—
 
 shall suffer death or such other punishment as a court-martial or military commission may direct. This section does not apply to a military commission established under chapter 47A of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 70, § 904; Pub. L. 109–366, § 4(a)(2), Oct. 17, 2006, 120 Stat. 2631; renumbered § 903b, Pub. L. 114–328, div. E, title LX, § 5401(5), Dec. 23, 2016, 130 Stat. 2938; Pub. L. 118–159, div. A, title V, § 564, Dec. 23, 2024, 138 Stat. 1904.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 70, § 904; Pub. L. 109–366, § 4(a)(2), Oct. 17, 2006, 120 Stat. 2631; renumbered § 903b, Pub. L. 114–328, div. E, title LX, § 5401(5), Dec. 23, 2016, 130 Stat. 2938; Pub. L. 118–159, div. A, title V, § 564, Dec. 23, 2024, 138 Stat. 1904.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 904 | 50:698. | May 5, 1950, ch. 169, § 1 (Art. 104), 64 Stat. 138. |
+| 904 | 50:698. | May 5, 1950, ch. 169, § 1 (Art. 104), 64 Stat. 138. |
 
 **Editorial Notes**
 
@@ -9198,7 +9198,7 @@ shall suffer death or such other punishment as a court-martial or military commi
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 904. Art. 104. Public records offenses
+### § 904. Art. 104. Public records offenses
 
 Any person subject to this chapter who, willfully and unlawfully—
 
@@ -9208,7 +9208,7 @@ Any person subject to this chapter who, willfully and unlawfully—
 
 shall be punished as a court-martial may direct.
 
-(Added Pub. L. 114–328, div. E, title LX, § 5415, Dec. 23, 2016, 130 Stat. 2944.)
+(Added Pub. L. 114–328, div. E, title LX, § 5415, Dec. 23, 2016, 130 Stat. 2944.)
 
 **Editorial Notes**
 
@@ -9222,7 +9222,7 @@ A prior section 904 was renumbered section 903b of this title.
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 904a. Art. 104a. Fraudulent enlistment, appointment, or separation
+### § 904a. Art. 104a. Fraudulent enlistment, appointment, or separation
 
 Any person who—
 
@@ -9232,13 +9232,13 @@ Any person who—
 
 shall be punished as a court-martial may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 66, § 883; renumbered § 904a, Pub. L. 114–328, div. E, title LX, § 5401(1), Dec. 23, 2016, 130 Stat. 2938.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 66, § 883; renumbered § 904a, Pub. L. 114–328, div. E, title LX, § 5401(1), Dec. 23, 2016, 130 Stat. 2938.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 883 | 50:677. | May 5, 1950, ch. 169, § 1 (Art. 83), 64 Stat. 134. |
+| 883 | 50:677. | May 5, 1950, ch. 169, § 1 (Art. 83), 64 Stat. 134. |
 
 In clauses (1) and (2), the words “means of” are omitted as surplusage.
 
@@ -9254,17 +9254,17 @@ In clauses (1) and (2), the words “means of” are omitted as surplusage.
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 904b. Art. 104b. Unlawful enlistment, appointment, or separation
+### § 904b. Art. 104b. Unlawful enlistment, appointment, or separation
 
 Any person subject to this chapter who effects an enlistment or appointment in or a separation from the armed forces of any person who is known to him to be ineligible for that enlistment, appointment, or separation because it is prohibited by law, regulation, or order shall be punished as a court-martial may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 66, § 884; renumbered § 904b, Pub. L. 114–328, title LX, § 5401(1), Dec. 23, 2016, 130 Stat. 2938.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 66, § 884; renumbered § 904b, Pub. L. 114–328, title LX, § 5401(1), Dec. 23, 2016, 130 Stat. 2938.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 884 | 50:678. | May 5, 1950, ch. 169, § 1 (Art. 84), 64 Stat. 135. |
+| 884 | 50:678. | May 5, 1950, ch. 169, § 1 (Art. 84), 64 Stat. 135. |
 
 **Editorial Notes**
 
@@ -9278,7 +9278,7 @@ Any person subject to this chapter who effects an enlistment or appointment in o
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 905. Art. 105. Forgery
+### § 905. Art. 105. Forgery
 
 Any person subject to this chapter who, with intent to defraud—
 
@@ -9288,13 +9288,13 @@ Any person subject to this chapter who, with intent to defraud—
 
 is guilty of forgery and shall be punished as a court-martial may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 74, § 923; renumbered § 905, Pub. L. 114–328, div. E, title LX, § 5401(12), Dec. 23, 2016, 130 Stat. 2939.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 74, § 923; renumbered § 905, Pub. L. 114–328, div. E, title LX, § 5401(12), Dec. 23, 2016, 130 Stat. 2939.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 923 | 50:717. | May 5, 1950, ch. 169, § 1 (Art. 123), 64 Stat. 141. |
+| 923 | 50:717. | May 5, 1950, ch. 169, § 1 (Art. 123), 64 Stat. 141. |
 
 **Editorial Notes**
 
@@ -9312,7 +9312,7 @@ A prior section 905 was renumbered section 898 of this title.
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 905a. Art. 105a. False or unauthorized pass offenses
+### § 905a. Art. 105a. False or unauthorized pass offenses
 
 **(a) Wrongful Making, Altering, etc.—** Any person subject to this chapter who, wrongfully and falsely, makes, alters, counterfeits, or tampers with a military or official pass, permit, discharge certificate, or identification card shall be punished as a court-martial may direct.
 
@@ -9320,7 +9320,7 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **(c) Wrongful Use or Possession.—** Any person subject to this chapter who wrongfully uses or possesses a false or unauthorized military or official pass, permit, discharge certificate, or identification card, knowing that the pass, permit, discharge certificate, or identification card is false or unauthorized, shall be punished as a court-martial may direct.
 
-(Added Pub. L. 114–328, div. E, title LX, § 5416, Dec. 23, 2016, 130 Stat. 2944.)
+(Added Pub. L. 114–328, div. E, title LX, § 5416, Dec. 23, 2016, 130 Stat. 2944.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9328,7 +9328,7 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 906. Art. 106. Impersonation of officer, noncommissioned or petty officer, or agent or official
+### § 906. Art. 106. Impersonation of officer, noncommissioned or petty officer, or agent or official
 
 **(a) In General.—** Any person subject to this chapter who, wrongfully and willfully, impersonates—
 
@@ -9344,7 +9344,7 @@ shall be punished as a court-martial may direct.
 
 **(c) Impersonation of Government Official Without Intent to Defraud.—** Any person subject to this chapter who, wrongfully, willfully, and without intent to defraud, impersonates an official of a government by committing an act that exercises or asserts the authority of the office that the person claims to have shall be punished as a court-martial may direct.
 
-(Added Pub. L. 114–328, title LX, § 5417, Dec. 23, 2016, 130 Stat. 2945.)
+(Added Pub. L. 114–328, title LX, § 5417, Dec. 23, 2016, 130 Stat. 2945.)
 
 **Editorial Notes**
 
@@ -9358,7 +9358,7 @@ A prior section 906 was renumbered section 903 of this title.
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 906a. Art. 106a. Wearing unauthorized insignia, decoration, badge, ribbon, device, or lapel button
+### § 906a. Art. 106a. Wearing unauthorized insignia, decoration, badge, ribbon, device, or lapel button
 
 Any person subject to this chapter—
 
@@ -9368,7 +9368,7 @@ Any person subject to this chapter—
 
 shall be punished as a court-martial may direct.
 
-(Added Pub. L. 114–328, div. E, title LX, § 5418, Dec. 23, 2016, 130 Stat. 2945.)
+(Added Pub. L. 114–328, div. E, title LX, § 5418, Dec. 23, 2016, 130 Stat. 2945.)
 
 **Editorial Notes**
 
@@ -9382,7 +9382,7 @@ A prior section 906a was renumbered section 903a of this title.
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 907. Art. 107. False official statements; false swearing
+### § 907. Art. 107. False official statements; false swearing
 
 **(a) False Official Statements.—** Any person subject to this chapter who, with intent to deceive—
 
@@ -9404,13 +9404,13 @@ shall be punished as a court-martial may direct.
 
 if the statement is false and at the time of taking the oath, the person does not believe the statement to be true, shall be punished as a court-martial may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 71; Pub. L. 114–328, div. E, title LX, § 5419, Dec. 23, 2016, 130 Stat. 2946.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 71; Pub. L. 114–328, div. E, title LX, § 5419, Dec. 23, 2016, 130 Stat. 2946.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 907 | 50:701. | May 5, 1950, ch. 169, § 1 (Art. 107), 64 Stat. 138. |
+| 907 | 50:701. | May 5, 1950, ch. 169, § 1 (Art. 107), 64 Stat. 138. |
 
 The word “it” is substituted for the words “the same”.
 
@@ -9426,7 +9426,7 @@ The word “it” is substituted for the words “the same”.
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 907a. Art. 107a. Parole violation
+### § 907a. Art. 107a. Parole violation
 
 Any person subject to this chapter—
 
@@ -9436,7 +9436,7 @@ Any person subject to this chapter—
 
 shall be punished as a court-martial may direct.
 
-(Added Pub. L. 114–328, div. E, title LX, § 5420, Dec. 23, 2016, 130 Stat. 2946.)
+(Added Pub. L. 114–328, div. E, title LX, § 5420, Dec. 23, 2016, 130 Stat. 2946.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9444,7 +9444,7 @@ shall be punished as a court-martial may direct.
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 908. Art. 108. Military property of United States—Loss, damage, destruction, or wrongful disposition
+### § 908. Art. 108. Military property of United States—Loss, damage, destruction, or wrongful disposition
 
 Any person subject to this chapter who, without proper authority—
 
@@ -9462,9 +9462,9 @@ any military property of the United States, shall be punished as a court-martial
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 908 | 50:702. | May 5, 1950, ch. 169, § 1 (Art. 108), 64 Stat. 138. |
+| 908 | 50:702. | May 5, 1950, ch. 169, § 1 (Art. 108), 64 Stat. 138. |
 
-### § 908a. Art. 108a. Captured or abandoned property
+### § 908a. Art. 108a. Captured or abandoned property
 
 **(a)** All persons subject to this chapter shall secure all public property taken from the enemy for the service of the United States, and shall give notice and turn over to the proper authority without delay all captured or abandoned property in their possession, custody, or control.
 
@@ -9478,13 +9478,13 @@ any military property of the United States, shall be punished as a court-martial
 
 shall be punished as a court-martial may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 70, § 903; renumbered § 908a, Pub. L. 114–328, div. E, title LX, § 5401(4), Dec. 23, 2016, 130 Stat. 2938.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 70, § 903; renumbered § 908a, Pub. L. 114–328, div. E, title LX, § 5401(4), Dec. 23, 2016, 130 Stat. 2938.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 903(a) 903(b) | 50:697(a). 50:697(b). | May 5, 1950, ch. 169, § 1 (Art. 103), 64 Stat. 138. |
+| 903(a) 903(b) | 50:697(a). 50:697(b). | May 5, 1950, ch. 169, § 1 (Art. 103), 64 Stat. 138. |
 
 In subsection (b)(1), the words “of this section” are omitted as surplusage.
 
@@ -9500,7 +9500,7 @@ In subsection (b)(1), the words “of this section” are omitted as surplusage.
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 909. Art. 109. Property other than military property of United States—Waste, spoilage, or destruction
+### § 909. Art. 109. Property other than military property of United States—Waste, spoilage, or destruction
 
 Any person subject to this chapter who willfully or recklessly wastes, spoils, or otherwise willfully and wrongfully destroys or damages any property other than military property of the United States shall be punished as a court-martial may direct.
 
@@ -9510,15 +9510,15 @@ Any person subject to this chapter who willfully or recklessly wastes, spoils, o
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 909 | 50:703. | May 5, 1950, ch. 169, § 1 (Art. 109), 64 Stat. 139. |
+| 909 | 50:703. | May 5, 1950, ch. 169, § 1 (Art. 109), 64 Stat. 139. |
 
-### § 909a. Art. 109a. Mail matter: wrongful taking, opening, etc.
+### § 909a. Art. 109a. Mail matter: wrongful taking, opening, etc.
 
 **(a) Taking.—** Any person subject to this chapter who, with the intent to obstruct the correspondence of, or to pry into the business or secrets of, any person or organization, wrongfully takes mail matter before the mail matter is delivered to or received by the addressee shall be punished as a court-martial may direct.
 
 **(b) Opening, Secreting, Destroying, Stealing.—** Any person subject to this chapter who wrongfully opens, secretes, destroys, or steals mail matter before the mail matter is delivered to or received by the addressee shall be punished as a court-martial may direct.
 
-(Added Pub. L. 114–328, div. E, title LX, § 5421, Dec. 23, 2016, 130 Stat. 2946.)
+(Added Pub. L. 114–328, div. E, title LX, § 5421, Dec. 23, 2016, 130 Stat. 2946.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9526,19 +9526,19 @@ Any person subject to this chapter who willfully or recklessly wastes, spoils, o
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 910. Art. 110. Improper hazarding of vessel or aircraft
+### § 910. Art. 110. Improper hazarding of vessel or aircraft
 
 **(a) Willful and Wrongful Hazarding.—** Any person subject to this chapter who, willfully and wrongfully, hazards or suffers to be hazarded any vessel or aircraft of the armed forces shall be punished by death or such other punishment as a court-martial may direct.
 
 **(b) Negligent Hazarding.—** Any person subject to this chapter who negligently hazards or suffers to be hazarded any vessel or aircraft of the armed forces shall be punished as a court-martial may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 71; Pub. L. 114–328, div. E, title LX, § 5422, Dec. 23, 2016, 130 Stat. 2947.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 71; Pub. L. 114–328, div. E, title LX, § 5422, Dec. 23, 2016, 130 Stat. 2947.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 910(a) 910(b) | 50:704(a). 50:704(b). | May 5, 1950, ch. 169, § 1 (Art. 110), 64 Stat. 139. |
+| 910(a) 910(b) | 50:704(a). 50:704(b). | May 5, 1950, ch. 169, § 1 (Art. 110), 64 Stat. 139. |
 
 **Editorial Notes**
 
@@ -9556,7 +9556,7 @@ Section effective on Jan. 1, 2019, as designated by the President, with implemen
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 911. Art. 111. Leaving scene of vehicle accident
+### § 911. Art. 111. Leaving scene of vehicle accident
 
 **(a) Driver.—** Any person subject to this chapter—
 
@@ -9584,7 +9584,7 @@ shall be punished as a court-martial may direct.
 
 shall be punished as a court-martial may direct.
 
-(Added Pub. L. 114–328, div. E, title LX, § 5423, Dec. 23, 2016, 130 Stat. 2947.)
+(Added Pub. L. 114–328, div. E, title LX, § 5423, Dec. 23, 2016, 130 Stat. 2947.)
 
 **Editorial Notes**
 
@@ -9598,7 +9598,7 @@ A prior section 911 was renumbered section 913 of this title.
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 912. Art. 112. Drunkenness and other incapacitation offenses
+### § 912. Art. 112. Drunkenness and other incapacitation offenses
 
 **(a) Drunk on Duty.—** Any person subject to this chapter who is drunk on duty shall be punished as a court-martial may direct.
 
@@ -9606,13 +9606,13 @@ Section effective on Jan. 1, 2019, as designated by the President, with implemen
 
 **(c) Drunk Prisoner.—** Any person subject to this chapter who is a prisoner and, while in such status, is drunk shall be punished as a court-martial may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 72; Pub. L. 114–328, div. E, title LX, § 5424, Dec. 23, 2016, 130 Stat. 2947.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 72; Pub. L. 114–328, div. E, title LX, § 5424, Dec. 23, 2016, 130 Stat. 2947.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 912 | 50:706. | May 5, 1950, ch. 169, § 1 (Art. 112), 64 Stat. 139. |
+| 912 | 50:706. | May 5, 1950, ch. 169, § 1 (Art. 112), 64 Stat. 139. |
 
 **Editorial Notes**
 
@@ -9626,7 +9626,7 @@ Section effective on Jan. 1, 2019, as designated by the President, with implemen
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 912a. Art. 112a. Wrongful use, possession, etc., of controlled substances
+### § 912a. Art. 112a. Wrongful use, possession, etc., of controlled substances
 
 **(a)** Any person subject to this chapter who wrongfully uses, possesses, manufactures, distributes, imports into the customs territory of the United States, exports from the United States, or introduces into an installation, vessel, vehicle, or aircraft used by or under the control of the armed forces a substance described in subsection (b) shall be punished as a court-martial may direct.
 
@@ -9638,7 +9638,7 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **(3)** Any other substance not specified in clause (1) or contained on a list prescribed by the President under clause (2) that is listed in schedules I through V of section 202 of the Controlled Substances Act (21 U.S.C. 812).
 
-(Added Pub. L. 98–209, § 8(a), Dec. 6, 1983, 97 Stat. 1403.)
+(Added Pub. L. 98–209, § 8(a), Dec. 6, 1983, 97 Stat. 1403.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9648,7 +9648,7 @@ Section effective first day of eighth calendar month beginning after Dec. 6, 198
 
 **Procedures for Forensic Examination of Certain Physiological Evidence**
 
-Pub. L. 100–180, div. A, title XII, § 1248, Dec. 4, 1987, 101 Stat. 1166, provided that:
+Pub. L. 100–180, div. A, title XII, § 1248, Dec. 4, 1987, 101 Stat. 1166, provided that:
 
 > **“(a) Establishment of Procedures.—** The Secretary of Defense shall establish procedures to ensure that whenever, in connection with a criminal investigation conducted by or for a military department, a physiological specimen is obtained from a person for the purpose of determining whether that person has used a controlled substance—
 
@@ -9670,7 +9670,7 @@ Pub. L. 100–180, div. A, title XII, § 1248, Dec. 4, 1987, 101 Stat. 1166, p
 
 > **“(f) Report.—** Not later than March 1, 1988, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives, a report describing the procedures established under this section.”
 
-### § 913. Art. 113. Drunken or reckless operation of a vehicle, aircraft, or vessel
+### § 913. Art. 113. Drunken or reckless operation of a vehicle, aircraft, or vessel
 
 **(a)** Any person subject to this chapter who—
 
@@ -9702,13 +9702,13 @@ shall be punished as a court-martial may direct.
 
 **(B)** The term “United States” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, and American Samoa and the term “State” includes each of those jurisdictions.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 72, § 911; Pub. L. 99–570, title III, § 3055, Oct. 27, 1986, 100 Stat. 3207–76; Pub. L. 102–484, div. A, title X, § 1066(a)(1), Oct. 23, 1992, 106 Stat. 2506; Pub. L. 103–160, div. A, title V, § 576(a), Nov. 30, 1993, 107 Stat. 1677; Pub. L. 107–107, div. A, title V, § 581, Dec. 28, 2001, 115 Stat. 1123; Pub. L. 108–136, div. A, title V, § 552, Nov. 24, 2003, 117 Stat. 1481; renumbered § 913 and amended Pub. L. 114–328, div. E, title LX, §§ 5401(9), 5425, Dec. 23, 2016, 130 Stat. 2939, 2948.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 72, § 911; Pub. L. 99–570, title III, § 3055, Oct. 27, 1986, 100 Stat. 3207–76; Pub. L. 102–484, div. A, title X, § 1066(a)(1), Oct. 23, 1992, 106 Stat. 2506; Pub. L. 103–160, div. A, title V, § 576(a), Nov. 30, 1993, 107 Stat. 1677; Pub. L. 107–107, div. A, title V, § 581, Dec. 28, 2001, 115 Stat. 1123; Pub. L. 108–136, div. A, title V, § 552, Nov. 24, 2003, 117 Stat. 1481; renumbered § 913 and amended Pub. L. 114–328, div. E, title LX, §§ 5401(9), 5425, Dec. 23, 2016, 130 Stat. 2939, 2948.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 911 | 50:705. | May 5, 1950, ch. 169, § 1 (Art. 111), 64 Stat. 139. |
+| 911 | 50:705. | May 5, 1950, ch. 169, § 1 (Art. 111), 64 Stat. 139. |
 
 **Editorial Notes**
 
@@ -9718,17 +9718,17 @@ A prior section 913 was renumbered section 895 of this title.
 
 **Amendments**
 
-2016—Pub. L. 114–328, § 5401(9), renumbered section 911 of this title as this section.
+2016—Pub. L. 114–328, § 5401(9), renumbered section 911 of this title as this section.
 
-Subsec. (b)(3). Pub. L. 114–328, § 5425, substituted “0.08 grams” for “0.10 grams” in two places and inserted at end “The Secretary may by regulation prescribe limits that are lower than the limits specified in the preceding sentence, if such lower limits are based on scientific developments, as reflected in Federal law of general applicability.”
+Subsec. (b)(3). Pub. L. 114–328, § 5425, substituted “0.08 grams” for “0.10 grams” in two places and inserted at end “The Secretary may by regulation prescribe limits that are lower than the limits specified in the preceding sentence, if such lower limits are based on scientific developments, as reflected in Federal law of general applicability.”
 
-2003—Subsec. (a)(2). Pub. L. 108–136, § 552(1), substituted “is equal to or exceeds” for “is in excess of”.
+2003—Subsec. (a)(2). Pub. L. 108–136, § 552(1), substituted “is equal to or exceeds” for “is in excess of”.
 
-Subsec. (b)(1)(A). Pub. L. 108–136, § 552(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In the case of the operation or control of a vehicle, aircraft, or vessel in the United States, such limit is the blood alcohol content limit under the law of the State in which the conduct occurred, except as may be provided under paragraph (2) for conduct on a military installation that is in more than one State and subject to the maximum blood alcohol content limit specified in paragraph (3).”
+Subsec. (b)(1)(A). Pub. L. 108–136, § 552(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In the case of the operation or control of a vehicle, aircraft, or vessel in the United States, such limit is the blood alcohol content limit under the law of the State in which the conduct occurred, except as may be provided under paragraph (2) for conduct on a military installation that is in more than one State and subject to the maximum blood alcohol content limit specified in paragraph (3).”
 
-Subsec. (b)(1)(B), (3). Pub. L. 108–136, § 552(2)(B), struck out “maximum” before “blood alcohol content specified” in par. (1)(B) and before “blood alcohol content” in par. (3).
+Subsec. (b)(1)(B), (3). Pub. L. 108–136, § 552(2)(B), struck out “maximum” before “blood alcohol content specified” in par. (1)(B) and before “blood alcohol content” in par. (3).
 
-Subsec. (b)(4)(A). Pub. L. 108–136, § 552(2)(C), substituted “amount of alcohol concentration in a person’s blood or breath at which operation or control of a vehicle, aircraft, or vessel is prohibited.” for “maximum permissible alcohol concentration in a person’s blood or breath for purposes of operation or control of a vehicle, aircraft, or vessel.”
+Subsec. (b)(4)(A). Pub. L. 108–136, § 552(2)(C), substituted “amount of alcohol concentration in a person’s blood or breath at which operation or control of a vehicle, aircraft, or vessel is prohibited.” for “maximum permissible alcohol concentration in a person’s blood or breath for purposes of operation or control of a vehicle, aircraft, or vessel.”
 
 2001—Pub. L. 107–107 designated existing provisions as subsec. (a), substituted “in excess of the applicable limit under subsection (b)” for “0.10 grams or more of alcohol per 100 milliliters of blood or 0.10 grams or more of alcohol per 210 liters of breath, as shown by chemical analysis” in par. (2), and added subsec. (b).
 
@@ -9746,13 +9746,13 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–160, div. A, title V, § 576(b), Nov. 30, 1993, 107 Stat. 1677, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as if included in the amendment to section 911 of title 10, United States Code, made by section 1066(a)(1) of Public Law 102–484 on October 23, 1992.”
+Pub. L. 103–160, div. A, title V, § 576(b), Nov. 30, 1993, 107 Stat. 1677, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as if included in the amendment to section 911 of title 10, United States Code, made by section 1066(a)(1) of Public Law 102–484 on October 23, 1992.”
 
 **Effective Date of 1992 Amendment**
 
 Amendment by Pub. L. 102–484 effective Oct. 23, 1992, and applicable with respect to offenses committed on or after that date, see section 1067 of Pub. L. 102–484, set out as a note under section 803 of this title.
 
-### § 914. Art. 114. Endangerment offenses
+### § 914. Art. 114. Endangerment offenses
 
 **(a) Reckless Endangerment.—** Any person subject to this chapter who engages in conduct that—
 
@@ -9774,13 +9774,13 @@ shall be punished as a court-martial may direct.
 
 **(d) Carrying Concealed Weapon.—** Any person subject to this chapter who unlawfully carries a dangerous weapon concealed on or about his person shall be punished as a court-martial may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 72; Pub. L. 114–328, div. E, title LX, § 5426, Dec. 23, 2016, 130 Stat. 2948.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 72; Pub. L. 114–328, div. E, title LX, § 5426, Dec. 23, 2016, 130 Stat. 2948.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 914 | 50:708. | May 5, 1950, ch. 169, § 1 (Art. 114), 64 Stat. 139. |
+| 914 | 50:708. | May 5, 1950, ch. 169, § 1 (Art. 114), 64 Stat. 139. |
 
 **Editorial Notes**
 
@@ -9794,7 +9794,7 @@ shall be punished as a court-martial may direct.
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 915. Art. 115. Communicating threats
+### § 915. Art. 115. Communicating threats
 
 **(a) Communicating Threats Generally.—** Any person subject to this chapter who wrongfully communicates a threat to injure the person, property, or reputation of another shall be punished as a court-martial may direct.
 
@@ -9802,13 +9802,13 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **(c) Communicating False Threat Concerning Use of Explosive, etc.—** Any person subject to this chapter who maliciously communicates a false threat concerning injury to the person or property of another by use of (1) an explosive, (2) a weapon of mass destruction, (3) a biological or chemical agent, substance, or weapon, or (4) a hazardous material, shall be punished as a court-martial may direct. As used in the preceding sentence, the term “false threat” means a threat that, at the time the threat is communicated, is known to be false by the person communicating the threat.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 72; Pub. L. 114–328, div. E, title LX, § 5427, Dec. 23, 2016, 130 Stat. 2948.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 72; Pub. L. 114–328, div. E, title LX, § 5427, Dec. 23, 2016, 130 Stat. 2948.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 915 | 50:709. | May 5, 1950, ch. 169, § 1 (Art. 115), 64 Stat. 139. |
+| 915 | 50:709. | May 5, 1950, ch. 169, § 1 (Art. 115), 64 Stat. 139. |
 
 **Editorial Notes**
 
@@ -9822,7 +9822,7 @@ Pub. L. 114–328 amended section generally. Prior to amendment, section related
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 916. Art. 116. Riot or breach of peace
+### § 916. Art. 116. Riot or breach of peace
 
 Any person subject to this chapter who causes or participates in any riot or breach of the peace shall be punished as a court-martial may direct.
 
@@ -9832,9 +9832,9 @@ Any person subject to this chapter who causes or participates in any riot or bre
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 916 | 50:710. | May 5, 1950, ch. 169, § 1 (Art. 116), 64 Stat. 139. |
+| 916 | 50:710. | May 5, 1950, ch. 169, § 1 (Art. 116), 64 Stat. 139. |
 
-### § 917. Art. 117. Provoking speeches or gestures
+### § 917. Art. 117. Provoking speeches or gestures
 
 Any person subject to this chapter who uses provoking or reproachful words or gestures towards any other person subject to this chapter shall be punished as a court-martial may direct.
 
@@ -9844,9 +9844,9 @@ Any person subject to this chapter who uses provoking or reproachful words or ge
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 917 | 50:711. | May 5, 1950, ch. 169, § 1 (Art. 117), 64 Stat. 139. |
+| 917 | 50:711. | May 5, 1950, ch. 169, § 1 (Art. 117), 64 Stat. 139. |
 
-### § 917a. Art. 117a. Wrongful broadcast or distribution of intimate visual images
+### § 917a. Art. 117a. Wrongful broadcast or distribution of intimate visual images
 
 **(a) Prohibition.—** Any person subject to this chapter—
 
@@ -9892,9 +9892,9 @@ is guilty of wrongful distribution of intimate visual images or visual images of
 
 **(C)** Any digital or electronic data capable of conversion into a visual image.
 
-(Added Pub. L. 115–91, div. A, title V, § 533(a), Dec. 12, 2017, 131 Stat. 1389.)
+(Added Pub. L. 115–91, div. A, title V, § 533(a), Dec. 12, 2017, 131 Stat. 1389.)
 
-### § 918. Art. 118. Murder
+### § 918. Art. 118. Murder
 
 Any person subject to this chapter who, without justification or excuse, unlawfully kills a human being, when such person—
 
@@ -9908,13 +9908,13 @@ Any person subject to this chapter who, without justification or excuse, unlawfu
 
 is guilty of murder, and shall suffer such punishment as a court-martial may direct, except that if found guilty under clause (1) or (4), such person shall suffer death or imprisonment for life as a court-martial may direct, unless such person is otherwise sentenced in accordance with a plea agreement entered into between the parties under section 853a of this title (article 53a).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 72; Pub. L. 102–484, div. A, title X, § 1066(b), Oct. 23, 1992, 106 Stat. 2506; Pub. L. 109–163, div. A, title V, § 552(d), Jan. 6, 2006, 119 Stat. 3263; Pub. L. 112–81, div. A, title V, § 541(d)(2), Dec. 31, 2011, 125 Stat. 1410; Pub. L. 113–291, div. A, title V, § 531(d)(2)(B), Dec. 19, 2014, 128 Stat. 3364; Pub. L. 114–328, div. E, title LX, § 5428, Dec. 23, 2016, 130 Stat. 2949; Pub. L. 118–31, div. A, title V, § 531(a), Dec. 22, 2023, 137 Stat. 257.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 72; Pub. L. 102–484, div. A, title X, § 1066(b), Oct. 23, 1992, 106 Stat. 2506; Pub. L. 109–163, div. A, title V, § 552(d), Jan. 6, 2006, 119 Stat. 3263; Pub. L. 112–81, div. A, title V, § 541(d)(2), Dec. 31, 2011, 125 Stat. 1410; Pub. L. 113–291, div. A, title V, § 531(d)(2)(B), Dec. 19, 2014, 128 Stat. 3364; Pub. L. 114–328, div. E, title LX, § 5428, Dec. 23, 2016, 130 Stat. 2949; Pub. L. 118–31, div. A, title V, § 531(a), Dec. 22, 2023, 137 Stat. 257.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 918 | 50:712. | May 5, 1950, ch. 169, § 1 (Art. 118), 64 Stat. 140. |
+| 918 | 50:712. | May 5, 1950, ch. 169, § 1 (Art. 118), 64 Stat. 140. |
 
 The words “of this section” are omitted as surplusage.
 
@@ -9952,7 +9952,7 @@ Amendment by Pub. L. 109–163 effective on Oct. 1, 2007, see section 552(f) of 
 
 Amendment by Pub. L. 102–484 effective Oct. 23, 1992, and applicable with respect to offenses committed on or after that date, see section 1067 of Pub. L. 102–484, set out as a note under section 803 of this title.
 
-### § 919. Art. 119. Manslaughter
+### § 919. Art. 119. Manslaughter
 
 **(a)** Any person subject to this chapter who, with an intent to kill or inflict great bodily harm, unlawfully kills a human being in the heat of sudden passion caused by adequate provocation is guilty of voluntary manslaughter and shall be punished as a court-martial may direct.
 
@@ -9970,11 +9970,11 @@ is guilty of involuntary manslaughter and shall be punished as a court-martial m
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 919(a) 919(b) | 50:713(a). 50:713(b). | May 5, 1950, ch. 169, § 1 (Art. 119), 64 Stat. 140. |
+| 919(a) 919(b) | 50:713(a). 50:713(b). | May 5, 1950, ch. 169, § 1 (Art. 119), 64 Stat. 140. |
 
 The word “named” is substituted for the word “specified”.
 
-### § 919a. Art. 119a. Death or injury of an unborn child
+### § 919a. Art. 119a. Death or injury of an unborn child
 
 **(a)**
 
@@ -10002,7 +10002,7 @@ The word “named” is substituted for the word “specified”.
 
 **(d)** In this section, the term “unborn child” means a child in utero, and the term “child in utero” or “child, who is in utero” means a member of the species homo sapiens, at any stage of development, who is carried in the womb.
 
-(Added Pub. L. 108–212, § 3(a), Apr. 1, 2004, 118 Stat. 569; amended Pub. L. 114–328, div. E, title LX, § 5401(13)(B), Dec. 23, 2016, 130 Stat. 2939; Pub. L. 115–91, div. A, title X, § 1081(c)(1)(N), Dec. 12, 2017, 131 Stat. 1598.)
+(Added Pub. L. 108–212, § 3(a), Apr. 1, 2004, 118 Stat. 569; amended Pub. L. 114–328, div. E, title LX, § 5401(13)(B), Dec. 23, 2016, 130 Stat. 2939; Pub. L. 115–91, div. A, title X, § 1081(c)(1)(N), Dec. 12, 2017, 131 Stat. 1598.)
 
 **Editorial Notes**
 
@@ -10016,13 +10016,13 @@ The word “named” is substituted for the word “specified”.
 
 **Effective Date of 2017 Amendment**
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 **Effective Date of 2016 Amendment**
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 919b. Art. 119b. Child endangerment
+### § 919b. Art. 119b. Child endangerment
 
 Any person subject to this chapter—
 
@@ -10032,7 +10032,7 @@ Any person subject to this chapter—
 
 shall be punished as a court-martial may direct.
 
-(Added Pub. L. 114–328, div. E, title LX, § 5429, Dec. 23, 2016, 130 Stat. 2949.)
+(Added Pub. L. 114–328, div. E, title LX, § 5429, Dec. 23, 2016, 130 Stat. 2949.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10040,7 +10040,7 @@ shall be punished as a court-martial may direct.
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 920. Art. 120. Rape and sexual assault generally
+### § 920. Art. 120. Rape and sexual assault generally
 
 **(a) Rape.—** Any person subject to this chapter who commits a sexual act upon another person by—
 
@@ -10128,13 +10128,13 @@ is guilty of sexual assault and shall be punished as a court-martial may direct.
 
 **(B)** physically incapable of declining participation in, or communicating unwillingess to engage in, the sexual act at issue.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 73; Pub. L. 102–484, div. A, title X, § 1066(c), Oct. 23, 1992, 106 Stat. 2506; Pub. L. 104–106, div. A, title XI, § 1113, Feb. 10, 1996, 110 Stat. 462; Pub. L. 109–163, div. A, title V, § 552(a)(1), Jan. 6, 2006, 119 Stat. 3256; Pub. L. 112–81, div. A, title V, § 541(a), Dec. 31, 2011, 125 Stat. 1404; Pub. L. 112–239, div. A, title X, § 1076(f)(9), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 114–328, div. E, title LX, § 5430(a), (b), Dec. 23, 2016, 130 Stat. 2949; Pub. L. 115–91, div. A, title X, § 1081(c)(1)(O), Dec. 12, 2017, 131 Stat. 1598.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 73; Pub. L. 102–484, div. A, title X, § 1066(c), Oct. 23, 1992, 106 Stat. 2506; Pub. L. 104–106, div. A, title XI, § 1113, Feb. 10, 1996, 110 Stat. 462; Pub. L. 109–163, div. A, title V, § 552(a)(1), Jan. 6, 2006, 119 Stat. 3256; Pub. L. 112–81, div. A, title V, § 541(a), Dec. 31, 2011, 125 Stat. 1404; Pub. L. 112–239, div. A, title X, § 1076(f)(9), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 114–328, div. E, title LX, § 5430(a), (b), Dec. 23, 2016, 130 Stat. 2949; Pub. L. 115–91, div. A, title X, § 1081(c)(1)(O), Dec. 12, 2017, 131 Stat. 1598.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 920(a) 920(b) 920(c) | 50:714(a). 50:714(b). 50:714(c). | May 5, 1950, ch. 169, § 1 (Art. 120), 64 Stat. 140. |
+| 920(a) 920(b) 920(c) | 50:714(a). 50:714(b). 50:714(c). | May 5, 1950, ch. 169, § 1 (Art. 120), 64 Stat. 140. |
 
 In subsection (c), the words “either of” are inserted for clarity.
 
@@ -10144,99 +10144,99 @@ In subsection (c), the words “either of” are inserted for clarity.
 
 2017—Subsec. (g)(2). Pub. L. 115–91 substituted “breast” for “brest”.
 
-2016—Subsec. (b)(1)(B) to (D). Pub. L. 114–328, § 5430(a)(1), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B) which read as follows: “causing bodily harm to that other person;”.
+2016—Subsec. (b)(1)(B) to (D). Pub. L. 114–328, § 5430(a)(1), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B) which read as follows: “causing bodily harm to that other person;”.
 
-Subsec. (b)(2). Pub. L. 114–328, § 5430(a)(2), inserted dash after “another person”, added subpar. (A), and inserted subpar. (B) designation before “when the person”.
+Subsec. (b)(2). Pub. L. 114–328, § 5430(a)(2), inserted dash after “another person”, added subpar. (A), and inserted subpar. (B) designation before “when the person”.
 
-Subsec. (g)(1). Pub. L. 114–328, § 5430(b)(1), amended par. (1) generally. Prior to amendment, par. (1) defined “sexual act”.
+Subsec. (g)(1). Pub. L. 114–328, § 5430(b)(1), amended par. (1) generally. Prior to amendment, par. (1) defined “sexual act”.
 
-Subsec. (g)(2). Pub. L. 114–328, § 5430(b)(2), amended par. (2) generally. Prior to amendment, par. (2) defined “sexual contact”.
+Subsec. (g)(2). Pub. L. 114–328, § 5430(b)(2), amended par. (2) generally. Prior to amendment, par. (2) defined “sexual contact”.
 
-Subsec. (g)(3) to (6). Pub. L. 114–328, § 5430(b)(3), redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which defined “bodily harm”.
+Subsec. (g)(3) to (6). Pub. L. 114–328, § 5430(b)(3), redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which defined “bodily harm”.
 
-Subsec. (g)(7). Pub. L. 114–328, § 5430(b)(3)(B), redesignated par. (8) as (7). Former par. (7) redesignated (6).
+Subsec. (g)(7). Pub. L. 114–328, § 5430(b)(3)(B), redesignated par. (8) as (7). Former par. (7) redesignated (6).
 
-Subsec. (g)(7)(A). Pub. L. 114–328, § 5430(b)(4)(A)(iii), substituted “does not” for “shall not” in last sentence.
+Subsec. (g)(7)(A). Pub. L. 114–328, § 5430(b)(4)(A)(iii), substituted “does not” for “shall not” in last sentence.
 
-Pub. L. 114–328, § 5430(b)(4)(A)(i), (ii), which directed amendment of subpar. (A) by striking out “or submission resulting from the use of force, threat of force, or placing another in fear” in the second sentence and by inserting “Submission resulting from the use of force, threat of force, or placing another person in fear also does not constitute consent.” after the second sentence, was executed by striking out “or submission resulting from the use of force, threat of force, or placing another person in fear” after “physical resistance” in the third sentence and by making the insertion after the third sentence, to reflect the probable intent of Congress.
+Pub. L. 114–328, § 5430(b)(4)(A)(i), (ii), which directed amendment of subpar. (A) by striking out “or submission resulting from the use of force, threat of force, or placing another in fear” in the second sentence and by inserting “Submission resulting from the use of force, threat of force, or placing another person in fear also does not constitute consent.” after the second sentence, was executed by striking out “or submission resulting from the use of force, threat of force, or placing another person in fear” after “physical resistance” in the third sentence and by making the insertion after the third sentence, to reflect the probable intent of Congress.
 
-Subsec. (g)(7)(B). Pub. L. 114–328, § 5430(b)(4)(B), which directed substitution of “subparagraph (B) or (C)” for “subparagraph (B) or (D)”, was executed by making the substitution for “subparagraph (C) or (D)”, to reflect the probable intent of Congress.
+Subsec. (g)(7)(B). Pub. L. 114–328, § 5430(b)(4)(B), which directed substitution of “subparagraph (B) or (C)” for “subparagraph (B) or (D)”, was executed by making the substitution for “subparagraph (C) or (D)”, to reflect the probable intent of Congress.
 
-Subsec. (g)(7)(C). Pub. L. 114–328, § 5430(b)(4)(C), struck out “Lack of consent may be inferred based on the circumstances of the offense.” at beginning and “, or whether a person did not resist or ceased to resist only because of another person’s actions” before period at end.
+Subsec. (g)(7)(C). Pub. L. 114–328, § 5430(b)(4)(C), struck out “Lack of consent may be inferred based on the circumstances of the offense.” at beginning and “, or whether a person did not resist or ceased to resist only because of another person’s actions” before period at end.
 
-Subsec. (g)(8). Pub. L. 114–328, § 5430(b)(5), added par. (8). Former par. (8) redesignated (7).
+Subsec. (g)(8). Pub. L. 114–328, § 5430(b)(5), added par. (8). Former par. (8) redesignated (7).
 
 2013—Subsec. (g)(7). Pub. L. 112–239 struck out second period at end.
 
-2011—Pub. L. 112–81, § 541(a)(11), substituted “Art. 120. Rape and sexual assault generally” for “Art. 120. Rape, sexual assault, and other sexual misconduct” in section catchline.
+2011—Pub. L. 112–81, § 541(a)(11), substituted “Art. 120. Rape and sexual assault generally” for “Art. 120. Rape, sexual assault, and other sexual misconduct” in section catchline.
 
-Subsec. (a). Pub. L. 112–81, § 541(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to rape.
+Subsec. (a). Pub. L. 112–81, § 541(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to rape.
 
-Subsec. (b). Pub. L. 112–81, § 541(a)(3), redesignated subsec. (c) as (b) and amended it generally. Pub. L. 112–81, § 541(a)(2), struck out subsec. (b) which related to rape of a child.
+Subsec. (b). Pub. L. 112–81, § 541(a)(3), redesignated subsec. (c) as (b) and amended it generally. Pub. L. 112–81, § 541(a)(2), struck out subsec. (b) which related to rape of a child.
 
-Subsec. (c). Pub. L. 112–81, § 541(a)(4), redesignated subsec. (e) as (c) and substituted “commits” for “engages in” and “upon” for “with”. Former subsec. (c) redesignated (b).
+Subsec. (c). Pub. L. 112–81, § 541(a)(4), redesignated subsec. (e) as (c) and substituted “commits” for “engages in” and “upon” for “with”. Former subsec. (c) redesignated (b).
 
-Subsec. (d). Pub. L. 112–81, § 541(a)(5), redesignated subsec. (h) as (d) and substituted “commits” for “engages in”, “upon” for “with”, and “subsection (b) (sexual assault)” for “subsection (c) (aggravated sexual assault)”.
+Subsec. (d). Pub. L. 112–81, § 541(a)(5), redesignated subsec. (h) as (d) and substituted “commits” for “engages in”, “upon” for “with”, and “subsection (b) (sexual assault)” for “subsection (c) (aggravated sexual assault)”.
 
-Pub. L. 112–81, § 541(a)(2), struck out subsec. (d) which related to aggravated sexual assault of a child.
+Pub. L. 112–81, § 541(a)(2), struck out subsec. (d) which related to aggravated sexual assault of a child.
 
-Subsec. (e). Pub. L. 112–81, § 541(a)(7), redesignated subsec. (p) as (e) and substituted “a person made” for “the accused made” and “the person actually” for “the accused actually” and inserted “or had the ability to carry out the threat” before period at end. Former subsec. (e) redesignated (c).
+Subsec. (e). Pub. L. 112–81, § 541(a)(7), redesignated subsec. (p) as (e) and substituted “a person made” for “the accused made” and “the person actually” for “the accused actually” and inserted “or had the ability to carry out the threat” before period at end. Former subsec. (e) redesignated (c).
 
-Subsec. (f). Pub. L. 112–81, § 541(a)(8), redesignated subsec. (q) as (f) and amended it generally.
+Subsec. (f). Pub. L. 112–81, § 541(a)(8), redesignated subsec. (q) as (f) and amended it generally.
 
-Pub. L. 112–81, § 541(a)(2), struck out subsec. (f) which related to aggravated sexual abuse of a child.
+Pub. L. 112–81, § 541(a)(2), struck out subsec. (f) which related to aggravated sexual abuse of a child.
 
-Subsec. (g). Pub. L. 112–81, § 541(a)(2), (10), redesignated subsec. (t) as (g) and struck out former subsec. (g) which related to aggravated sexual contact with a child.
+Subsec. (g). Pub. L. 112–81, § 541(a)(2), (10), redesignated subsec. (t) as (g) and struck out former subsec. (g) which related to aggravated sexual contact with a child.
 
-Subsec. (g)(1)(A). Pub. L. 112–81, § 541(a)(10)(A)(i), inserted “or anus or mouth” after “vulva”.
+Subsec. (g)(1)(A). Pub. L. 112–81, § 541(a)(10)(A)(i), inserted “or anus or mouth” after “vulva”.
 
-Subsec. (g)(1)(B). Pub. L. 112–81, § 541(a)(10)(A)(ii), substituted “vulva or anus or mouth,” for “genital opening” and “any part of the body” for “a hand or finger”.
+Subsec. (g)(1)(B). Pub. L. 112–81, § 541(a)(10)(A)(ii), substituted “vulva or anus or mouth,” for “genital opening” and “any part of the body” for “a hand or finger”.
 
-Subsec. (g)(2). Pub. L. 112–81, § 541(a)(10)(B), amended par. (2) generally. Prior to amendment, par. (2) defined “sexual contact”.
+Subsec. (g)(2). Pub. L. 112–81, § 541(a)(10)(B), amended par. (2) generally. Prior to amendment, par. (2) defined “sexual contact”.
 
-Subsec. (g)(3). Pub. L. 112–81, § 541(a)(10)(D), redesignated par. (8) as (3) and inserted “, including any nonconsensual sexual act or nonconsensual sexual contact” before period at end. Former par. (3) redesignated (4).
+Subsec. (g)(3). Pub. L. 112–81, § 541(a)(10)(D), redesignated par. (8) as (3) and inserted “, including any nonconsensual sexual act or nonconsensual sexual contact” before period at end. Former par. (3) redesignated (4).
 
-Subsec. (g)(4). Pub. L. 112–81, § 541(a)(10)(E), struck out at end “It does not include minor injuries such as a black eye or a bloody nose. It is the same level of injury as in section 928 (article 128) of this chapter, and a lesser degree of injury than in section 2246(4) of title 18.”
+Subsec. (g)(4). Pub. L. 112–81, § 541(a)(10)(E), struck out at end “It does not include minor injuries such as a black eye or a bloody nose. It is the same level of injury as in section 928 (article 128) of this chapter, and a lesser degree of injury than in section 2246(4) of title 18.”
 
-Pub. L. 112–81, § 541(a)(10)(C), redesignated par. (3) as (4) and struck out former par. (4) which defined “dangerous weapon or object”.
+Pub. L. 112–81, § 541(a)(10)(C), redesignated par. (3) as (4) and struck out former par. (4) which defined “dangerous weapon or object”.
 
-Subsec. (g)(5). Pub. L. 112–81, § 541(a)(10)(F), (H), added par. (5) and struck out former par. (5) which defined “force”.
+Subsec. (g)(5). Pub. L. 112–81, § 541(a)(10)(F), (H), added par. (5) and struck out former par. (5) which defined “force”.
 
-Subsec. (g)(6). Pub. L. 112–81, § 541(a)(10)(H), added par. (6). Former par. (6) redesignated (7).
+Subsec. (g)(6). Pub. L. 112–81, § 541(a)(10)(H), added par. (6). Former par. (6) redesignated (7).
 
-Subsec. (g)(7). Pub. L. 112–81, § 541(a)(10)(G), (I), redesignated par. (6) as (7), struck out “under paragraph (3) of subsection (a) (rape), or under subsection (e) (aggravated sexual contact),” after “person in fear’ ”, and substituted “the wrongful action contemplated by the communication or action.” for “death, grievous bodily harm, or kidnapping”.
+Subsec. (g)(7). Pub. L. 112–81, § 541(a)(10)(G), (I), redesignated par. (6) as (7), struck out “under paragraph (3) of subsection (a) (rape), or under subsection (e) (aggravated sexual contact),” after “person in fear’ ”, and substituted “the wrongful action contemplated by the communication or action.” for “death, grievous bodily harm, or kidnapping”.
 
-Pub. L. 112–81, § 541(a)(10)(F), struck out par. (7) which defined “threatening or placing that other person in fear”.
+Pub. L. 112–81, § 541(a)(10)(F), struck out par. (7) which defined “threatening or placing that other person in fear”.
 
-Subsec. (g)(8). Pub. L. 112–81, § 541(a)(10)(K), redesignated par. (14) as (8), designated introductory provisions as subpar. (A), in first sentence, struck out “words or overt acts indicating” before “a freely given” and “sexual” before “conduct”, in third sentence, struck out “accused’s” before “use of force”, in fourth sentence, inserted “or social or sexual” before “relationship” and struck out “sexual” before “conduct” and last sentence, including subpars. (A) and (B), which related to a person who cannot consent to sexual activity, and added subpars. (B) and (C). Former par. (8) redesignated (3).
+Subsec. (g)(8). Pub. L. 112–81, § 541(a)(10)(K), redesignated par. (14) as (8), designated introductory provisions as subpar. (A), in first sentence, struck out “words or overt acts indicating” before “a freely given” and “sexual” before “conduct”, in third sentence, struck out “accused’s” before “use of force”, in fourth sentence, inserted “or social or sexual” before “relationship” and struck out “sexual” before “conduct” and last sentence, including subpars. (A) and (B), which related to a person who cannot consent to sexual activity, and added subpars. (B) and (C). Former par. (8) redesignated (3).
 
-Subsec. (g)(9) to (13). Pub. L. 112–81, § 541(a)(10)(J), struck out pars. (9) to (13) which defined “child”, “lewd act”, “indecent liberty”, “indecent conduct”, and “act of prostitution”, respectively.
+Subsec. (g)(9) to (13). Pub. L. 112–81, § 541(a)(10)(J), struck out pars. (9) to (13) which defined “child”, “lewd act”, “indecent liberty”, “indecent conduct”, and “act of prostitution”, respectively.
 
-Subsec. (g)(14). Pub. L. 112–81, § 541(a)(10)(K), redesignated par. (14) as (8).
+Subsec. (g)(14). Pub. L. 112–81, § 541(a)(10)(K), redesignated par. (14) as (8).
 
-Subsec. (g)(15), (16). Pub. L. 112–81, § 541(a)(10)(L), struck out pars. (15) and (16) which defined “mistake of fact as to consent” and “affirmative defense”, respectively.
+Subsec. (g)(15), (16). Pub. L. 112–81, § 541(a)(10)(L), struck out pars. (15) and (16) which defined “mistake of fact as to consent” and “affirmative defense”, respectively.
 
-Subsec. (h). Pub. L. 112–81, § 541(a)(5), redesignated subsec. (h) as (d).
+Subsec. (h). Pub. L. 112–81, § 541(a)(5), redesignated subsec. (h) as (d).
 
-Subsecs. (i), (j). Pub. L. 112–81, § 541(a)(2), struck out subsecs. (i) and (j) which related to abusive sexual contact with a child and indecent liberty with a child, respectively.
+Subsecs. (i), (j). Pub. L. 112–81, § 541(a)(2), struck out subsecs. (i) and (j) which related to abusive sexual contact with a child and indecent liberty with a child, respectively.
 
-Subsecs. (k) to (n). Pub. L. 112–81, § 541(a)(6), struck out subsecs. (k) to (n) which related to indecent act, forcible pandering, wrongful sexual contact, and indecent exposure, respectively.
+Subsecs. (k) to (n). Pub. L. 112–81, § 541(a)(6), struck out subsecs. (k) to (n) which related to indecent act, forcible pandering, wrongful sexual contact, and indecent exposure, respectively.
 
-Subsec. (*o*). Pub. L. 112–81, § 541(a)(2), struck out subsec. (*o*) which related to age of child.
+Subsec. (*o*). Pub. L. 112–81, § 541(a)(2), struck out subsec. (*o*) which related to age of child.
 
-Subsec. (p). Pub. L. 112–81, § 541(a)(7), redesignated subsec. (p) as (e).
+Subsec. (p). Pub. L. 112–81, § 541(a)(7), redesignated subsec. (p) as (e).
 
-Subsec. (q). Pub. L. 112–81, § 541(a)(8), redesignated subsec. (q) as (f).
+Subsec. (q). Pub. L. 112–81, § 541(a)(8), redesignated subsec. (q) as (f).
 
-Subsecs. (r), (s). Pub. L. 112–81, § 541(a)(9), struck out subsecs. (r) and (s) which related to consent and mistake of fact as to consent and other affirmative defenses not precluded, respectively.
+Subsecs. (r), (s). Pub. L. 112–81, § 541(a)(9), struck out subsecs. (r) and (s) which related to consent and mistake of fact as to consent and other affirmative defenses not precluded, respectively.
 
-Subsec. (t). Pub. L. 112–81, § 541(a)(10), redesignated subsec. (t) as (g).
+Subsec. (t). Pub. L. 112–81, § 541(a)(10), redesignated subsec. (t) as (g).
 
 2006—Pub. L. 109–163 amended section generally, substituting subsecs. (a) to (t) relating to rape, sexual assault, and other sexual misconduct for subsecs. (a) to (d) relating to rape and carnal knowledge.
 
-1996—Subsec. (b). Pub. L. 104–106, § 1113(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Any person subject to this chapter who, under circumstances not amounting to rape, commits an act of sexual intercourse with a female not his wife who has not attained the age of sixteen years, is guilty of carnal knowledge and shall be punished as a court-martial may direct.”
+1996—Subsec. (b). Pub. L. 104–106, § 1113(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Any person subject to this chapter who, under circumstances not amounting to rape, commits an act of sexual intercourse with a female not his wife who has not attained the age of sixteen years, is guilty of carnal knowledge and shall be punished as a court-martial may direct.”
 
-Subsec. (d). Pub. L. 104–106, § 1113(b), added subsec. (d).
+Subsec. (d). Pub. L. 104–106, § 1113(b), added subsec. (d).
 
 1992—Subsec. (a). Pub. L. 102–484 struck out “with a female not his wife” after “intercourse” and “her” after “without”.
 
@@ -10244,7 +10244,7 @@ Subsec. (d). Pub. L. 104–106, § 1113(b), added subsec. (d).
 
 **Effective Date of 2017 Amendment**
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 **Effective Date of 2016 Amendment**
 
@@ -10256,7 +10256,7 @@ Amendment by Pub. L. 112–81 effective 180 days after Dec. 31, 2011, and applic
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–163, div. A, title V, § 552(c), Jan. 6, 2006, 119 Stat. 3263, provided that: “Section 920 of title 10, United States Code (article 120 of the Uniform Code of Military Justice), as amended by subsection (a), shall apply with respect to offenses committed on or after the effective date specified in subsection (f) [see note below].”
+Pub. L. 109–163, div. A, title V, § 552(c), Jan. 6, 2006, 119 Stat. 3263, provided that: “Section 920 of title 10, United States Code (article 120 of the Uniform Code of Military Justice), as amended by subsection (a), shall apply with respect to offenses committed on or after the effective date specified in subsection (f) [see note below].”
 
 Amendment by Pub. L. 109–163 effective on Oct. 1, 2007, see section 552(f) of Pub. L. 109–163, set out as a note under section 843 of this title.
 
@@ -10266,7 +10266,7 @@ Amendment by Pub. L. 102–484 effective Oct. 23, 1992, and applicable with resp
 
 **Interim Maximum Punishments**
 
-Pub. L. 109–163, div. A, title V, § 552(b), Jan. 6, 2006, 119 Stat. 3263, provided that:
+Pub. L. 109–163, div. A, title V, § 552(b), Jan. 6, 2006, 119 Stat. 3263, provided that:
 
 > “Until the President otherwise provides pursuant to section 856 of title 10, United States Code (article 56 of the Uniform Code of Military Justice), the punishment which a court-martial may direct for an offense under section 920 of such title (article 120 of the Uniform Code of Military Justice), as amended by subsection (a), may not exceed the following limits:
 
@@ -10286,11 +10286,11 @@ Pub. L. 109–163, div. A, title V, § 552(b), Jan. 6, 2006, 119 Stat. 3263, p
 
 [See 2011 Amendment notes above for extensive amendment of section 920 of title 10 by Pub. L. 112–81, effective 180 days after Dec. 31, 2011, and applicable with respect to offenses committed on or after such effective date.]
 
-### § 920a. Art. 120a. Mails: deposit of obscene matter
+### § 920a. Art. 120a. Mails: deposit of obscene matter
 
 Any person subject to this chapter who, wrongfully and knowingly, deposits obscene matter for mailing and delivery shall be punished as a court-martial may direct.
 
-(Added Pub. L. 114–328, div. E, title LX, § 5431, Dec. 23, 2016, 130 Stat. 2951.)
+(Added Pub. L. 114–328, div. E, title LX, § 5431, Dec. 23, 2016, 130 Stat. 2951.)
 
 **Editorial Notes**
 
@@ -10304,7 +10304,7 @@ A prior section 920a was renumbered section 930 of this title.
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 920b. Art. 120b. Rape and sexual assault of a child
+### § 920b. Art. 120b. Rape and sexual assault of a child
 
 **(a) Rape of a Child.—** Any person subject to this chapter who—
 
@@ -10364,7 +10364,7 @@ In the case of a parent-child or similar relationship, the use or abuse of paren
 
 **(D)** any indecent conduct, intentionally done with or in the presence of a child, including via any communication technology, that amounts to a form of immorality relating to sexual impurity which is grossly vulgar, obscene, and repugnant to common propriety, and tends to excite sexual desire or deprave morals with respect to sexual relations.
 
-(Added Pub. L. 112–81, div. A, title V, § 541(b), Dec. 31, 2011, 125 Stat. 1407; amended Pub. L. 112–239, div. A, title X, § 1076(a)(3), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 114–328, div. E, title LX, § 5430(c), Dec. 23, 2016, 130 Stat. 2950; Pub. L. 118–159, div. A, title V, § 565, Dec. 23, 2024, 138 Stat. 1904.)
+(Added Pub. L. 112–81, div. A, title V, § 541(b), Dec. 31, 2011, 125 Stat. 1407; amended Pub. L. 112–239, div. A, title X, § 1076(a)(3), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 114–328, div. E, title LX, § 5430(c), Dec. 23, 2016, 130 Stat. 2950; Pub. L. 118–159, div. A, title V, § 565, Dec. 23, 2024, 138 Stat. 1904.)
 
 **Editorial Notes**
 
@@ -10372,9 +10372,9 @@ In the case of a parent-child or similar relationship, the use or abuse of paren
 
 2024—Subsec. (f). Pub. L. 118–159 redesignated subsec. (g) as (f), struck out “not legally married to the person committing the sexual act, lewd act, or use of force” before “cannot consent to any sexual act”, and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “In a prosecution under subsection (b) (sexual assault of a child) or subsection (c) (sexual abuse of a child), it is a defense, which the accused must prove by a preponderance of the evidence, that the persons engaging in the sexual act or lewd act were at that time married to each other, except where the accused commits a sexual act upon the person when the accused knows or reasonably should know that the other person is asleep, unconscious, or otherwise unaware that the sexual act is occurring or when the other person is incapable of consenting to the sexual act due to impairment by any drug, intoxicant, or other similar substance, and that condition was known or reasonably should have been known by the accused.”
 
-Subsecs. (g), (h). Pub. L. 118–159, § 565(2), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+Subsecs. (g), (h). Pub. L. 118–159, § 565(2), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
-2016—Subsec. (h)(1). Pub. L. 114–328 inserted before period at end “, except that the term ‘sexual act’ also includes the intentional touching, not through the clothing, of the genitalia of another person who has not attained the age of 16 years with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person”.
+2016—Subsec. (h)(1). Pub. L. 114–328 inserted before period at end “, except that the term ‘sexual act’ also includes the intentional touching, not through the clothing, of the genitalia of another person who has not attained the age of 16 years with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person”.
 
 2013—Pub. L. 112–239 made technical amendment to directory language of Pub. L. 112–81, which enacted this section.
 
@@ -10386,13 +10386,13 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(3) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(3) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 **Effective Date**
 
 Amendment by Pub. L. 112–81 effective 180 days after Dec. 31, 2011, and applicable with respect to offenses committed on or after such effective date, see section 541(f) of Pub. L. 112–81, set out as an Effective Date of 2011 Amendment note under section 843 of this title.
 
-### § 920c. Art. 120c. Other sexual misconduct
+### § 920c. Art. 120c. Other sexual misconduct
 
 **(a) Indecent Viewing, Visual Recording, or Broadcasting.—** Any person subject to this chapter who, without legal justification or lawful authorization—
 
@@ -10426,7 +10426,7 @@ is guilty of an offense under this section and shall be punished as a court-mart
 
 **(6) Indecent manner.—** The term “indecent manner” means conduct that amounts to a form of immorality relating to sexual impurity which is grossly vulgar, obscene, and repugnant to common propriety, and tends to excite sexual desire or deprave morals with respect to sexual relations.
 
-(Added Pub. L. 112–81, div. A, title V, § 541(c), Dec. 31, 2011, 125 Stat. 1409.)
+(Added Pub. L. 112–81, div. A, title V, § 541(c), Dec. 31, 2011, 125 Stat. 1409.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10434,7 +10434,7 @@ is guilty of an offense under this section and shall be punished as a court-mart
 
 Amendment by Pub. L. 112–81 effective 180 days after Dec. 31, 2011, and applicable with respect to offenses committed on or after such effective date, see section 541(f) of Pub. L. 112–81, set out as an Effective Date of 2011 Amendment note under section 843 of this title.
 
-### § 921. Art. 121. Larceny and wrongful appropriation
+### § 921. Art. 121. Larceny and wrongful appropriation
 
 **(a)** Any person subject to this chapter who wrongfully takes, obtains, or withholds, by any means, from the possession of the owner or of any other person any money, personal property, or article of value of any kind—
 
@@ -10450,11 +10450,11 @@ Amendment by Pub. L. 112–81 effective 180 days after Dec. 31, 2011, and applic
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 921(a) 921(b) | 50:715(a). 50:715(b). | May 5, 1950, ch. 169, § 1 (Art. 121), 64 Stat. 140. |
+| 921(a) 921(b) | 50:715(a). 50:715(b). | May 5, 1950, ch. 169, § 1 (Art. 121), 64 Stat. 140. |
 
 In subsection (a), the words “whatever” and “true” are omitted as surplusage. The word “it” is substituted for the words “the same” in clauses (1) and (2).
 
-### § 921a. Art. 121a. Fraudulent use of credit cards, debit cards, and other access devices
+### § 921a. Art. 121a. Fraudulent use of credit cards, debit cards, and other access devices
 
 **(a) In General.—** Any person subject to this chapter who, knowingly and with intent to defraud, uses—
 
@@ -10468,7 +10468,7 @@ to obtain money, property, services, or anything else of value shall be punished
 
 **(b) Access Device Defined.—** In this section (article), the term “access device” has the meaning given that term in section 1029 of title 18.
 
-(Added Pub. L. 114–328, div. E, title LX, § 5432, Dec. 23, 2016, 130 Stat. 2951.)
+(Added Pub. L. 114–328, div. E, title LX, § 5432, Dec. 23, 2016, 130 Stat. 2951.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10476,11 +10476,11 @@ to obtain money, property, services, or anything else of value shall be punished
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 921b. Art. 121b. False pretenses to obtain services
+### § 921b. Art. 121b. False pretenses to obtain services
 
 Any person subject to this chapter who, with intent to defraud, knowingly uses false pretenses to obtain services shall be punished as a court-martial may direct.
 
-(Added Pub. L. 114–328, div. E, title LX, § 5433, Dec. 23, 2016, 130 Stat. 2951.)
+(Added Pub. L. 114–328, div. E, title LX, § 5433, Dec. 23, 2016, 130 Stat. 2951.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10488,17 +10488,17 @@ Any person subject to this chapter who, with intent to defraud, knowingly uses f
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 922. Art. 122. Robbery
+### § 922. Art. 122. Robbery
 
 Any person subject to this chapter who takes anything of value from the person or in the presence of another, against his will, by means of force or violence or fear of immediate or future injury to his person or property or to the person or property of a relative or member of his family or of anyone in his company at the time of the robbery, is guilty of robbery and shall be punished as a court-martial may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 73; Pub. L. 114–328, div. E, title LX, § 5434, Dec. 23, 2016, 130 Stat. 2951.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 73; Pub. L. 114–328, div. E, title LX, § 5434, Dec. 23, 2016, 130 Stat. 2951.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 922 | 50:716. | May 5, 1950, ch. 169, § 1 (Art. 122), 64 Stat. 140. |
+| 922 | 50:716. | May 5, 1950, ch. 169, § 1 (Art. 122), 64 Stat. 140. |
 
 **Editorial Notes**
 
@@ -10512,11 +10512,11 @@ Any person subject to this chapter who takes anything of value from the person o
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 922a. Art. 122a. Receiving stolen property
+### § 922a. Art. 122a. Receiving stolen property
 
 Any person subject to this chapter who wrongfully receives, buys, or conceals stolen property, knowing the property to be stolen property, shall be punished as a court-martial may direct.
 
-(Added Pub. L. 114–328, div. E, title LX, § 5435, Dec. 23, 2016, 130 Stat. 2952.)
+(Added Pub. L. 114–328, div. E, title LX, § 5435, Dec. 23, 2016, 130 Stat. 2952.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10524,7 +10524,7 @@ Any person subject to this chapter who wrongfully receives, buys, or conceals st
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 923. Art. 123. Offenses concerning Government computers
+### § 923. Art. 123. Offenses concerning Government computers
 
 **(a) In General.—** Any person subject to this chapter who—
 
@@ -10544,7 +10544,7 @@ shall be punished as a court-martial may direct.
 
 **(3)** The term “damage” has the meaning given that term in section 1030 of title 18.
 
-(Added Pub. L. 114–328, div. E, title LX, § 5436, Dec. 23, 2016, 130 Stat. 2952.)
+(Added Pub. L. 114–328, div. E, title LX, § 5436, Dec. 23, 2016, 130 Stat. 2952.)
 
 **Editorial Notes**
 
@@ -10558,7 +10558,7 @@ A prior section 923 was renumbered section 905 of this title.
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 923a. Art. 123a. Making, drawing, or uttering check, draft, or order without sufficient funds
+### § 923a. Art. 123a. Making, drawing, or uttering check, draft, or order without sufficient funds
 
 Any person subject to this chapter who—
 
@@ -10568,15 +10568,15 @@ Any person subject to this chapter who—
 
 makes, draws, utters, or delivers any check, draft, or order for the payment of money upon any bank or other depository, knowing at the time that the maker or drawer has not or will not have sufficient funds in, or credit with, the bank or other depository for the payment of that check, draft, or order in full upon its presentment, shall be punished as a court-martial may direct. The making, drawing, uttering, or delivering by a maker or drawer of a check, draft, or order, payment of which is refused by the drawee because of insufficient funds of the maker or drawer in the drawee’s possession or control, is prima facie evidence of his intent to defraud or deceive and of his knowledge of insufficient funds in, or credit with, that bank or other depository, unless the maker or drawer pays the holder the amount due within five days after receiving notice, orally or in writing, that the check, draft, or order was not paid on presentment. In this section, the word “credit” means an arrangement or understanding, express or implied, with the bank or other depository for the payment of that check, draft, or order.
 
-(Added Pub. L. 87–385, § 1(1), Oct. 4, 1961, 75 Stat. 814.)
+(Added Pub. L. 87–385, § 1(1), Oct. 4, 1961, 75 Stat. 814.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 87–385, § 2, Oct. 4, 1961, 75 Stat. 814, provided that: “This Act [enacting this section] becomes effective on the first day of the fifth month following the month in which it is enacted [October 1961].”
+Pub. L. 87–385, § 2, Oct. 4, 1961, 75 Stat. 814, provided that: “This Act [enacting this section] becomes effective on the first day of the fifth month following the month in which it is enacted [October 1961].”
 
-### § 924. Art. 124. Frauds against the United States
+### § 924. Art. 124. Frauds against the United States
 
 Any person subject to this chapter—
 
@@ -10600,13 +10600,13 @@ Any person subject to this chapter—
 
 shall, upon conviction, be punished as a court-martial may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 75, § 932; renumbered § 924, Pub. L. 114–328, div. E, title LX, § 5401(14), Dec. 23, 2016, 130 Stat. 2939.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 75, § 932; renumbered § 924, Pub. L. 114–328, div. E, title LX, § 5401(14), Dec. 23, 2016, 130 Stat. 2939.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 932 | 50:726. | May 5, 1950, ch. 169, § 1 (Art. 132), 64 Stat. 142. |
+| 932 | 50:726. | May 5, 1950, ch. 169, § 1 (Art. 132), 64 Stat. 142. |
 
 The word “it” is substituted for the words “the same” throughout the revised section.
 
@@ -10626,7 +10626,7 @@ A prior section 924 was renumbered section 928a of this title.
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 924a. Art. 124a. Bribery
+### § 924a. Art. 124a. Bribery
 
 **(a) Asking, Accepting, or Receiving Thing of Value.—** Any person subject to this chapter—
 
@@ -10638,7 +10638,7 @@ shall be punished as a court-martial may direct.
 
 **(b) Promising, Offering, or Giving Thing of Value.—** Any person subject to this chapter who wrongfully promises, offers, or gives a thing of value to another person, who occupies an official position or who has official duties, with the intent to influence the decision or action of the other person with respect to an official matter in which the United States is interested, shall be punished as a court-martial may direct.
 
-(Added Pub. L. 114–328, div. E, title LX, § 5437, Dec. 23, 2016, 130 Stat. 2952.)
+(Added Pub. L. 114–328, div. E, title LX, § 5437, Dec. 23, 2016, 130 Stat. 2952.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10646,7 +10646,7 @@ shall be punished as a court-martial may direct.
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 924b. Art. 124b. Graft
+### § 924b. Art. 124b. Graft
 
 **(a) Asking, Accepting, or Receiving Thing of Value.—** Any person subject to this chapter—
 
@@ -10658,7 +10658,7 @@ shall be punished as a court-martial may direct.
 
 **(b) Promising, Offering, or Giving Thing of Value.—** Any person subject to this chapter who wrongfully promises, offers, or gives a thing of value to another person, who occupies an official position or who has official duties, as compensation for or in recognition of services rendered or to be rendered by the other person with respect to an official matter in which the United States is interested, shall be punished as a court-martial may direct.
 
-(Added Pub. L. 114–328, div. E, title LX, § 5438, Dec. 23, 2016, 130 Stat. 2953.)
+(Added Pub. L. 114–328, div. E, title LX, § 5438, Dec. 23, 2016, 130 Stat. 2953.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10666,7 +10666,7 @@ shall be punished as a court-martial may direct.
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 925. Art. 125. Kidnapping
+### § 925. Art. 125. Kidnapping
 
 Any person subject to this chapter who wrongfully—
 
@@ -10676,13 +10676,13 @@ Any person subject to this chapter who wrongfully—
 
 shall be punished as a court-martial may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 74; Pub. L. 113–66, div. A, title XVII, § 1707(a), Dec. 26, 2013, 127 Stat. 961; Pub. L. 113–291, div. A, title V, § 531(d)(1), Dec. 19, 2014, 128 Stat. 3364; Pub. L. 114–328, div. E, title LX, § 5439, Dec. 23, 2016, 130 Stat. 2953.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 74; Pub. L. 113–66, div. A, title XVII, § 1707(a), Dec. 26, 2013, 127 Stat. 961; Pub. L. 113–291, div. A, title V, § 531(d)(1), Dec. 19, 2014, 128 Stat. 3364; Pub. L. 114–328, div. E, title LX, § 5439, Dec. 23, 2016, 130 Stat. 2953.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 925(a) 925(b) | 50:719(a). 50:719(b). | May 5, 1950, ch. 169, § 1 (Art. 125), 64 Stat. 141. |
+| 925(a) 925(b) | 50:719(a). 50:719(b). | May 5, 1950, ch. 169, § 1 (Art. 125), 64 Stat. 141. |
 
 **Editorial Notes**
 
@@ -10734,7 +10734,7 @@ IN WITNESS WHEREOF, I have hereunto set my hand this twenty-sixth day of June, i
 
 J.R. Biden, Jr.
 
-### § 926. Art. 126. Arson; burning property with intent to defraud
+### § 926. Art. 126. Arson; burning property with intent to defraud
 
 **(a) Aggravated Arson.—** Any person subject to this chapter who, willfully and maliciously, burns or sets on fire an inhabited dwelling, or any other structure, movable or immovable, wherein, to the knowledge of that person, there is at the time a human being, is guilty of aggravated arson and shall be punished as a court-martial may direct.
 
@@ -10742,13 +10742,13 @@ J.R. Biden, Jr.
 
 **(c) Burning Property With Intent to Defraud.—** Any person subject to this chapter who, willfully, maliciously, and with intent to defraud, burns or sets fire to any property shall be punished as a court-martial may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 74; Pub. L. 114–328, div. E, title LX, § 5440, Dec. 23, 2016, 130 Stat. 2953.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 74; Pub. L. 114–328, div. E, title LX, § 5440, Dec. 23, 2016, 130 Stat. 2953.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 926(a) 926(b) | 50:720(a). 50:720(b). | May 5, 1950, ch. 169, § 1 (Art. 126), 64 Stat. 141. |
+| 926(a) 926(b) | 50:720(a). 50:720(b). | May 5, 1950, ch. 169, § 1 (Art. 126), 64 Stat. 141. |
 
 In subsection (b), the words “of this section” are omitted as surplusage.
 
@@ -10764,7 +10764,7 @@ In subsection (b), the words “of this section” are omitted as surplusage.
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 927. Art. 127. Extortion
+### § 927. Art. 127. Extortion
 
 Any person subject to this chapter who communicates threats to another person with the intention thereby to obtain anything of value or any acquittance, advantage, or immunity is guilty of extortion and shall be punished as a court-martial may direct.
 
@@ -10774,11 +10774,11 @@ Any person subject to this chapter who communicates threats to another person wi
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 927 | 50:721. | May 5, 1950, ch. 169, § 1 (Art. 127), 64 Stat. 141. |
+| 927 | 50:721. | May 5, 1950, ch. 169, § 1 (Art. 127), 64 Stat. 141. |
 
 The words “of any description” are omitted as surplusage.
 
-### § 928. Art. 128. Assault
+### § 928. Art. 128. Assault
 
 **(a) Assault.—** Any person subject to this chapter who, unlawfully and with force or violence—
 
@@ -10806,13 +10806,13 @@ is guilty of aggravated assault and shall be punished as a court-martial may dir
 
 **(2) Offenses specified.—** The offenses referred to in paragraph (1) are murder, voluntary manslaughter, rape, sexual assault, rape of a child, sexual assault of a child, robbery, arson, burglary, and kidnapping.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 75; Pub. L. 114–328, div. E, title LX, § 5441, Dec. 23, 2016, 130 Stat. 2954; Pub. L. 115–91, div. A, title X, § 1081(c)(1)(P), Dec. 12, 2017, 131 Stat. 1599; Pub. L. 115–232, div. A, title V, § 531(a), Aug. 13, 2018, 132 Stat. 1759.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 75; Pub. L. 114–328, div. E, title LX, § 5441, Dec. 23, 2016, 130 Stat. 2954; Pub. L. 115–91, div. A, title X, § 1081(c)(1)(P), Dec. 12, 2017, 131 Stat. 1599; Pub. L. 115–232, div. A, title V, § 531(a), Aug. 13, 2018, 132 Stat. 1759.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 928(a) 928(b) | 50:722(a). 50:722(b). | May 5, 1950, ch. 169, § 1 (Art. 128), 64 Stat. 141. |
+| 928(a) 928(b) | 50:722(a). 50:722(b). | May 5, 1950, ch. 169, § 1 (Art. 128), 64 Stat. 141. |
 
 **Editorial Notes**
 
@@ -10828,17 +10828,17 @@ is guilty of aggravated assault and shall be punished as a court-martial may dir
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–232, div. A, title V, § 531(b), Aug. 13, 2018, 132 Stat. 1759, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on January 1, 2019, immediately after the coming into effect of the amendment made by section 5441 of the Military Justice Act of 2016 (division E of Public Law 114–328; 130 Stat. 2954) [which amended this section] as provided in section 5542 of that Act (130 Stat. 2967; 10 U.S.C. 801 note).”
+Pub. L. 115–232, div. A, title V, § 531(b), Aug. 13, 2018, 132 Stat. 1759, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on January 1, 2019, immediately after the coming into effect of the amendment made by section 5441 of the Military Justice Act of 2016 (division E of Public Law 114–328; 130 Stat. 2954) [which amended this section] as provided in section 5542 of that Act (130 Stat. 2967; 10 U.S.C. 801 note).”
 
 **Effective Date of 2017 Amendment**
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 **Effective Date of 2016 Amendment**
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 928a. Art. 128a. Maiming
+### § 928a. Art. 128a. Maiming
 
 Any person subject to this chapter who, with intent to injure, disfigure, or disable, inflicts upon the person of another an injury which—
 
@@ -10850,13 +10850,13 @@ Any person subject to this chapter who, with intent to injure, disfigure, or dis
 
 is guilty of maiming and shall be punished as a court-martial may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 74, § 924; renumbered § 928a, Pub. L. 114–328, div. E, title LX, § 5401(13)(A), Dec. 23, 2016, 130 Stat. 2939.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 74, § 924; renumbered § 928a, Pub. L. 114–328, div. E, title LX, § 5401(13)(A), Dec. 23, 2016, 130 Stat. 2939.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 924 | 50:718. | May 5, 1950, ch. 169, § 1 (Art. 124), 64 Stat. 141. |
+| 924 | 50:718. | May 5, 1950, ch. 169, § 1 (Art. 124), 64 Stat. 141. |
 
 **Editorial Notes**
 
@@ -10870,7 +10870,7 @@ is guilty of maiming and shall be punished as a court-martial may direct.
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 928b. Art. 128b. Domestic violence
+### § 928b. Art. 128b. Domestic violence
 
 **(a) In General.—** Any person who—
 
@@ -10892,7 +10892,7 @@ shall be punished as a court-martial may direct.
 
 **(b) Definitions.—** In this section, the terms “dating partner”, “immediate family”, and “intimate partner” have the meanings given such terms in section 930 of this title (article 130).
 
-(Added Pub. L. 115–232, div. A, title V, § 532(a)(1), Aug. 13, 2018, 132 Stat. 1759; amended Pub. L. 116–92, div. A, title XVII, § 1731(a)(20), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 118–31, div. A, title V, § 531(d)(1), Dec. 22, 2023, 137 Stat. 259.)
+(Added Pub. L. 115–232, div. A, title V, § 532(a)(1), Aug. 13, 2018, 132 Stat. 1759; amended Pub. L. 116–92, div. A, title XVII, § 1731(a)(20), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 118–31, div. A, title V, § 531(d)(1), Dec. 22, 2023, 137 Stat. 259.)
 
 **Editorial Notes**
 
@@ -10906,9 +10906,9 @@ shall be punished as a court-martial may direct.
 
 **Effective Date**
 
-Pub. L. 115–232, div. A, title V, § 532(b), Aug. 13, 2018, 132 Stat. 1760, provided that: “The amendments made by this section [enacting this section] shall take effect on January 1, 2019, immediately after the coming into effect of the amendments made by the Military Justice Act of 2016 (division E of Public Law 114–328) [see Tables for classification] as provided in section 5542 of that Act (130 Stat. 2967; 10 U.S.C. 801 note).”
+Pub. L. 115–232, div. A, title V, § 532(b), Aug. 13, 2018, 132 Stat. 1760, provided that: “The amendments made by this section [enacting this section] shall take effect on January 1, 2019, immediately after the coming into effect of the amendments made by the Military Justice Act of 2016 (division E of Public Law 114–328) [see Tables for classification] as provided in section 5542 of that Act (130 Stat. 2967; 10 U.S.C. 801 note).”
 
-### § 929. Art. 129. Burglary; unlawful entry
+### § 929. Art. 129. Burglary; unlawful entry
 
 **(a) Burglary.—** Any person subject to this chapter who, with intent to commit an offense under this chapter, breaks and enters the building or structure of another shall be punished as a court-martial may direct.
 
@@ -10920,13 +10920,13 @@ Pub. L. 115–232, div. A, title V, § 532(b), Aug. 13, 2018, 132 Stat. 1760, 
 
 shall be punished as a court-martial may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 75; Pub. L. 114–328, div. E, title LX, § 5442, Dec. 23, 2016, 130 Stat. 2954.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 75; Pub. L. 114–328, div. E, title LX, § 5442, Dec. 23, 2016, 130 Stat. 2954.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 929 | 50:723. | May 5, 1950, ch. 169, § 1 (Art. 129), 64 Stat. 142. |
+| 929 | 50:723. | May 5, 1950, ch. 169, § 1 (Art. 129), 64 Stat. 142. |
 
 **Editorial Notes**
 
@@ -10940,15 +10940,15 @@ shall be punished as a court-martial may direct.
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### [§ 929a. Art. 129a. Omitted]
+### [§ 929a. Art. 129a. Omitted]
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 75, § 930; renumbered § 929a, Pub. L. 114–328, div. E, title LX, § 5401(10), Dec. 23, 2016, 130 Stat. 2939, which related to the offense of housebreaking, was omitted in the general amendment of sections 929 and 929a of this title by Pub. L. 114–328, div. E, title LX, § 5442, Dec. 23, 2016, 130 Stat. 2954. See section 929(b) of this title.
+Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 75, § 930; renumbered § 929a, Pub. L. 114–328, div. E, title LX, § 5401(10), Dec. 23, 2016, 130 Stat. 2939, which related to the offense of housebreaking, was omitted in the general amendment of sections 929 and 929a of this title by Pub. L. 114–328, div. E, title LX, § 5442, Dec. 23, 2016, 130 Stat. 2954. See section 929(b) of this title.
 
-### § 930. Art. 130. Stalking
+### § 930. Art. 130. Stalking
 
 **(a) In General.—** Any person subject to this chapter—
 
@@ -10996,7 +10996,7 @@ is guilty of stalking and shall be punished as a court-martial may direct.
 
 **(B)** a person who has been in a social relationship of a romantic or intimate nature with the specific person, as determined by the length of the relationship, the type of relationship, and the frequency of interaction between the persons involved in the relationship.
 
-(Added Pub. L. 109–163, div. A, title V, § 551(a)(1), Jan. 6, 2006, 119 Stat. 3256, § 920a; renumbered § 930 and amended Pub. L. 114–328, div. E, title LX, §§ 5401(11), 5443, Dec. 23, 2016, 130 Stat. 2939, 2955; Pub. L. 118–31, div. A, title V, § 531(d)(2), Dec. 22, 2023, 137 Stat. 259.)
+(Added Pub. L. 109–163, div. A, title V, § 551(a)(1), Jan. 6, 2006, 119 Stat. 3256, § 920a; renumbered § 930 and amended Pub. L. 114–328, div. E, title LX, §§ 5401(11), 5443, Dec. 23, 2016, 130 Stat. 2939, 2955; Pub. L. 118–31, div. A, title V, § 531(d)(2), Dec. 22, 2023, 137 Stat. 259.)
 
 **Editorial Notes**
 
@@ -11006,13 +11006,13 @@ A prior section 930 was renumbered section 929a of this title and subsequently o
 
 **Amendments**
 
-2023—Subsec. (a). Pub. L. 118–31, § 531(d)(2)(A), substituted “to his or her intimate partner, or to his or her dating partner” for “or to his or her intimate partner” wherever appearing.
+2023—Subsec. (a). Pub. L. 118–31, § 531(d)(2)(A), substituted “to his or her intimate partner, or to his or her dating partner” for “or to his or her intimate partner” wherever appearing.
 
-Subsec. (b)(3) to (6). Pub. L. 118–31, § 531(d)(2)(B), added par. (3) and redesignated former pars. (3) to (5) as (4) to (6), respectively.
+Subsec. (b)(3) to (6). Pub. L. 118–31, § 531(d)(2)(B), added par. (3) and redesignated former pars. (3) to (5) as (4) to (6), respectively.
 
 2016—Pub. L. 114–328 amended section generally. Prior to amendment, section set out elements of stalking and defined terms.
 
-Pub. L. 114–328, § 5401(11), renumbered section 920a of this title as this section.
+Pub. L. 114–328, § 5401(11), renumbered section 920a of this title as this section.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -11022,9 +11022,9 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **Effective Date**
 
-Pub. L. 109–163, div. A, title V, § 551(b), Jan. 6, 2006, 119 Stat. 3256, provided that: “Section 920a of title 10, United States Code (article 120a of the Uniform Code of Military Justice), as added by subsection (a), applies to offenses committed after the date that is 180 days after the date of the enactment of this Act [Jan. 6, 2006].”
+Pub. L. 109–163, div. A, title V, § 551(b), Jan. 6, 2006, 119 Stat. 3256, provided that: “Section 920a of title 10, United States Code (article 120a of the Uniform Code of Military Justice), as added by subsection (a), applies to offenses committed after the date that is 180 days after the date of the enactment of this Act [Jan. 6, 2006].”
 
-### § 931. Art. 131. Perjury
+### § 931. Art. 131. Perjury
 
 Any person subject to this chapter who in a judicial proceeding or in a course of justice willfully and corruptly—
 
@@ -11034,13 +11034,13 @@ Any person subject to this chapter who in a judicial proceeding or in a course o
 
 is guilty of perjury and shall be punished as a court-martial may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 75; Pub. L. 94–550, § 3, Oct. 18, 1976, 90 Stat. 2535; Pub. L. 97–295, § 1(13), Oct. 12, 1982, 96 Stat. 1289.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 75; Pub. L. 94–550, § 3, Oct. 18, 1976, 90 Stat. 2535; Pub. L. 97–295, § 1(13), Oct. 12, 1982, 96 Stat. 1289.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 931 | 50:725. | May 5, 1950, ch. 169, § 1 (Art. 131), 64 Stat. 142. |
+| 931 | 50:725. | May 5, 1950, ch. 169, § 1 (Art. 131), 64 Stat. 142. |
 
 The words “in a” are inserted before the words “course of justice”.
 
@@ -11052,7 +11052,7 @@ The words “in a” are inserted before the words “course of justice”.
 
 1976—Pub. L. 94–550 divided existing provisions into an introductory phrase, par. (1), and a closing phrase, and added par. (2).
 
-### § 931a. Art. 131a. Subornation of perjury
+### § 931a. Art. 131a. Subornation of perjury
 
 **(a) In General.—** Any person subject to this chapter who induces and procures another person—
 
@@ -11076,7 +11076,7 @@ shall, if the conditions specified in subsection (b) are satisfied, be punished 
 
 **(6)** When the statement is made or subscribed, the person subject to this chapter and the other person do not believe that the statement is true.
 
-(Added Pub. L. 114–328, div. E, title LX, § 5444, Dec. 23, 2016, 130 Stat. 2956.)
+(Added Pub. L. 114–328, div. E, title LX, § 5444, Dec. 23, 2016, 130 Stat. 2956.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -11084,11 +11084,11 @@ shall, if the conditions specified in subsection (b) are satisfied, be punished 
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 931b. Art. 131b. Obstructing justice
+### § 931b. Art. 131b. Obstructing justice
 
 Any person subject to this chapter who engages in conduct in the case of a certain person against whom the accused had reason to believe there were or would be criminal or disciplinary proceedings pending, with intent to influence, impede, or otherwise obstruct the due administration of justice shall be punished as a court-martial may direct.
 
-(Added Pub. L. 114–328, div. E, title LX, § 5445, Dec. 23, 2016, 130 Stat. 2956.)
+(Added Pub. L. 114–328, div. E, title LX, § 5445, Dec. 23, 2016, 130 Stat. 2956.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -11096,7 +11096,7 @@ Any person subject to this chapter who engages in conduct in the case of a certa
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 931c. Art. 131c. Misprision of serious offense
+### § 931c. Art. 131c. Misprision of serious offense
 
 Any person subject to this chapter—
 
@@ -11106,7 +11106,7 @@ Any person subject to this chapter—
 
 shall be punished as a court-martial may direct.
 
-(Added Pub. L. 114–328, div. E, title LX, § 5446, Dec. 23, 2016, 130 Stat. 2956.)
+(Added Pub. L. 114–328, div. E, title LX, § 5446, Dec. 23, 2016, 130 Stat. 2956.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -11114,11 +11114,11 @@ shall be punished as a court-martial may direct.
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 931d. Art. 131d. Wrongful refusal to testify
+### § 931d. Art. 131d. Wrongful refusal to testify
 
 Any person subject to this chapter who, in the presence of a court-martial, a board of officers, a military commission, a court of inquiry, a preliminary hearing, or an officer taking a deposition, of or for the United States, wrongfully refuses to qualify as a witness or to answer a question after having been directed to do so by the person presiding shall be punished as a court-martial may direct.
 
-(Added Pub. L. 114–328, div. E, title LX, § 5447, Dec. 23, 2016, 130 Stat. 2957.)
+(Added Pub. L. 114–328, div. E, title LX, § 5447, Dec. 23, 2016, 130 Stat. 2957.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -11126,11 +11126,11 @@ Any person subject to this chapter who, in the presence of a court-martial, a bo
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 931e. Art. 131e. Prevention of authorized seizure of property
+### § 931e. Art. 131e. Prevention of authorized seizure of property
 
 Any person subject to this chapter who, knowing that one or more persons authorized to make searches and seizures are seizing, are about to seize, or are endeavoring to seize property, destroys, removes, or otherwise disposes of the property with intent to prevent the seizure thereof shall be punished as a court-martial may direct.
 
-(Added Pub. L. 114–328, div. E, title LX, § 5448, Dec. 23, 2016, 130 Stat. 2957.)
+(Added Pub. L. 114–328, div. E, title LX, § 5448, Dec. 23, 2016, 130 Stat. 2957.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -11138,7 +11138,7 @@ Any person subject to this chapter who, knowing that one or more persons authori
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 931f. Art. 131f. Noncompliance with procedural rules
+### § 931f. Art. 131f. Noncompliance with procedural rules
 
 Any person subject to this chapter who—
 
@@ -11148,13 +11148,13 @@ Any person subject to this chapter who—
 
 shall be punished as a court-martial may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 69, § 898; renumbered § 931f, Pub. L. 114–328, div. E, title LX, § 5401(3), Dec. 23, 2016, 130 Stat. 2938.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 69, § 898; renumbered § 931f, Pub. L. 114–328, div. E, title LX, § 5401(3), Dec. 23, 2016, 130 Stat. 2938.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 898 | 50:692. | May 5, 1950, ch. 169, § 1 (Art. 98), 64 Stat. 137. |
+| 898 | 50:692. | May 5, 1950, ch. 169, § 1 (Art. 98), 64 Stat. 137. |
 
 **Editorial Notes**
 
@@ -11168,7 +11168,7 @@ shall be punished as a court-martial may direct.
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 931g. Art. 131g. Wrongful interference with adverse administrative proceeding
+### § 931g. Art. 131g. Wrongful interference with adverse administrative proceeding
 
 Any person subject to this chapter who, having reason to believe that an adverse administrative proceeding is pending against any person subject to this chapter, wrongfully acts with the intent—
 
@@ -11178,7 +11178,7 @@ Any person subject to this chapter who, having reason to believe that an adverse
 
 shall be punished as a court-martial may direct.
 
-(Added Pub. L. 114–328, div. E, title LX, § 5449, Dec. 23, 2016, 130 Stat. 2957.)
+(Added Pub. L. 114–328, div. E, title LX, § 5449, Dec. 23, 2016, 130 Stat. 2957.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -11186,7 +11186,7 @@ shall be punished as a court-martial may direct.
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 932. Art. 132. Retaliation
+### § 932. Art. 132. Retaliation
 
 **(a) In General.—** Any person subject to this chapter who, with the intent to retaliate against any person for reporting or planning to report a criminal offense, or making or planning to make a protected communication, or with the intent to discourage any person from reporting a criminal offense or making or planning to make a protected communication—
 
@@ -11214,7 +11214,7 @@ shall be punished as a court-martial may direct.
 
 **(4)** The term “unlawful discrimination” means discrimination on the basis of race, color, religion, sex, or national origin.
 
-(Added Pub. L. 114–328, div. E, title LX, § 5450, Dec. 23, 2016, 130 Stat. 2957; amended Pub. L. 115–91, div. A, title X, § 1081(c)(1)(Q), Dec. 12, 2017, 131 Stat. 1599.)
+(Added Pub. L. 114–328, div. E, title LX, § 5450, Dec. 23, 2016, 130 Stat. 2957; amended Pub. L. 115–91, div. A, title X, § 1081(c)(1)(Q), Dec. 12, 2017, 131 Stat. 1599.)
 
 **Editorial Notes**
 
@@ -11230,23 +11230,23 @@ A prior section 932 was renumbered section 924 of this title.
 
 **Effective Date of 2017 Amendment**
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 **Effective Date**
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 933. Art. 133. Conduct unbecoming an officer
+### § 933. Art. 133. Conduct unbecoming an officer
 
 Any commissioned officer, cadet, or midshipman who is convicted of conduct unbecoming an officer shall be punished as a court-martial may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 76; Pub. L. 117–81, div. A, title V, § 542(a), Dec. 27, 2021, 135 Stat. 1709.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 76; Pub. L. 117–81, div. A, title V, § 542(a), Dec. 27, 2021, 135 Stat. 1709.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 933 | 50:727. | May 5, 1950, ch. 169, § 1 (Art. 133), 64 Stat. 142. |
+| 933 | 50:727. | May 5, 1950, ch. 169, § 1 (Art. 133), 64 Stat. 142. |
 
 The word “commissioned” is inserted for clarity.
 
@@ -11256,17 +11256,17 @@ The word “commissioned” is inserted for clarity.
 
 2021—Pub. L. 117–81 struck out “and a gentleman” after “an officer” in section catchline and text.
 
-### § 934. Art. 134. General article
+### § 934. Art. 134. General article
 
 Though not specifically mentioned in this chapter, all disorders and neglects to the prejudice of good order and discipline in the armed forces, all conduct of a nature to bring discredit upon the armed forces, and crimes and offenses not capital, of which persons subject to this chapter may be guilty, shall be taken cognizance of by a general, special, or summary court-martial, according to the nature and degree of the offense, and shall be punished at the discretion of that court. As used in the preceding sentence, the term “crimes and offenses not capital” includes any conduct engaged in outside the United States, as defined in section 5 of title 18, that would constitute a crime or offense not capital if the conduct had been engaged in within the special maritime and territorial jurisdiction of the United States, as defined in section 7 of title 18.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 76; Pub. L. 114–328, div. E, title LX, § 5451, Dec. 23, 2016, 130 Stat. 2958.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 76; Pub. L. 114–328, div. E, title LX, § 5451, Dec. 23, 2016, 130 Stat. 2958.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 934 | 50:728. | May 5, 1950, ch. 169, § 1 (Art. 134), 64 Stat. 142. |
+| 934 | 50:728. | May 5, 1950, ch. 169, § 1 (Art. 134), 64 Stat. 142. |
 
 The words “shall be” are inserted before the word “punished”.
 
@@ -11284,7 +11284,7 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **Inclusion of Sexual Harassment as General Punitive Article**
 
-Pub. L. 117–81, div. A, title V, § 539D, Dec. 27, 2021, 135 Stat. 1699, provided that:
+Pub. L. 117–81, div. A, title V, § 539D, Dec. 27, 2021, 135 Stat. 1699, provided that:
 
 > **“(a) In General.—** Not later than 30 days after the date of the enactment of this Act [Dec. 27, 2021], the President shall—
 
@@ -11330,11 +11330,11 @@ Pub. L. 117–81, div. A, title V, § 539D, Dec. 27, 2021, 135 Stat. 1699, pro
 
 **Amendments**
 
-2017—Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, made technical amendment to Pub. L. 114–328, § 5541(7). See 2016 Amendment note below.
+2017—Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, made technical amendment to Pub. L. 114–328, § 5541(7). See 2016 Amendment note below.
 
-2016—Pub. L. 114–328, div. E, title LXIII, § 5541(7), Dec. 23, 2016, 130 Stat. 2967, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, added item 940a and substituted “Authority to administer oaths” for “Authority to administer oaths and to act as notary” in item 936.
+2016—Pub. L. 114–328, div. E, title LXIII, § 5541(7), Dec. 23, 2016, 130 Stat. 2967, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, added item 940a and substituted “Authority to administer oaths” for “Authority to administer oaths and to act as notary” in item 936.
 
-### § 935. Art. 135. Courts of inquiry
+### § 935. Art. 135. Courts of inquiry
 
 **(a)** Courts of inquiry to investigate any matter may be convened by any person authorized to convene a general court-martial or by any other person designated by the Secretary concerned for that purpose, whether or not the persons involved have requested such an inquiry.
 
@@ -11358,13 +11358,13 @@ Pub. L. 117–81, div. A, title V, § 539D, Dec. 27, 2021, 135 Stat. 1699, pro
 
 **(h)** Each court of inquiry shall keep a record of its proceedings, which shall be authenticated by the signatures of the president and counsel for the court and forwarded to the convening authority. If the record cannot be authenticated by the president, it shall be signed by a member in lieu of the president. If the record cannot be authenticated by the counsel for the court, it shall be signed by a member in lieu of the counsel.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 76; Pub. L. 114–328, div. E, title LXI, § 5501, Dec. 23, 2016, 130 Stat. 2960.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 76; Pub. L. 114–328, div. E, title LXI, § 5501, Dec. 23, 2016, 130 Stat. 2960.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 935(a) 935(b) 935(c) | 50:731(a). 50:731(b). 50:731(c). | May 5, 1950, ch. 169, § 1 (Art. 135), 64 Stat. 143. |
+| 935(a) 935(b) 935(c) | 50:731(a). 50:731(b). 50:731(c). | May 5, 1950, ch. 169, § 1 (Art. 135), 64 Stat. 143. |
 | 935(d) | 50:731(d). |  |
 | 935(e) | 50:731(e). |  |
 | 935(f) | 50:731(f). |  |
@@ -11395,7 +11395,7 @@ In subsection (h), the word “If” is substituted for the words “In case”.
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-### § 936. Art. 136. Authority to administer oaths
+### § 936. Art. 136. Authority to administer oaths
 
 **(a)** The following persons on active duty or performing inactive-duty training may administer oaths for the purposes of military administration, including military justice:
 
@@ -11427,13 +11427,13 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 **(c)** Each judge and senior judge of the United States Court of Appeals for the Armed Forces shall have the powers relating to oaths, affirmations, and acknowledgments provided to justices and judges of the United States by section 459 of title 28.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 77; Pub. L. 86–589, July 5, 1960, 74 Stat. 329; Pub. L. 90–179, § 1(7), Dec. 8, 1967, 81 Stat. 546; Pub. L. 90–632, § 2(34), Oct. 24, 1968, 82 Stat. 1343; Pub. L. 98–209, § 2(f), Dec. 6, 1983, 97 Stat. 1393; Pub. L. 99–661, div. A, title VIII, § 804(c), Nov. 14, 1986, 100 Stat. 3907; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title V, § 551(b), Nov. 5, 1990, 104 Stat. 1566; Pub. L. 110–181, div. A, title V, § 542, Jan. 28, 2008, 122 Stat. 114; Pub. L. 114–328, div. A, title V, § 541(a), div. E, title LXI, § 5502, Dec. 23, 2016, 130 Stat. 2124, 2960.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 77; Pub. L. 86–589, July 5, 1960, 74 Stat. 329; Pub. L. 90–179, § 1(7), Dec. 8, 1967, 81 Stat. 546; Pub. L. 90–632, § 2(34), Oct. 24, 1968, 82 Stat. 1343; Pub. L. 98–209, § 2(f), Dec. 6, 1983, 97 Stat. 1393; Pub. L. 99–661, div. A, title VIII, § 804(c), Nov. 14, 1986, 100 Stat. 3907; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–510, div. A, title V, § 551(b), Nov. 5, 1990, 104 Stat. 1566; Pub. L. 110–181, div. A, title V, § 542, Jan. 28, 2008, 122 Stat. 114; Pub. L. 114–328, div. A, title V, § 541(a), div. E, title LXI, § 5502, Dec. 23, 2016, 130 Stat. 2124, 2960.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 936(a) 936(b) 936(c) | 50:732(a). 50:732(b). 50:732(c). | May 5, 1950, ch. 169, § 1 (Art. 136), 64 Stat. 143. |
+| 936(a) 936(b) 936(c) | 50:732(a). 50:732(b). 50:732(c). | May 5, 1950, ch. 169, § 1 (Art. 136), 64 Stat. 143. |
 | 936(d) | 50:732(d). |  |
 
 In subsection (a), the word “may” is substituted for the words “shall have authority to”. The word “shall” before the words “have the general powers” is omitted as surplusage. The words “the continental limits” are omitted, since section 101(1) of this title defines the United States to include the States and the District of Columbia.
@@ -11450,15 +11450,15 @@ In subsection (d), the word “is” is substituted for the words “shall be”
 
 **Amendments**
 
-2016—Pub. L. 114–328, § 5502, struck out “and to act as notary” after “oaths” in section catchline.
+2016—Pub. L. 114–328, § 5502, struck out “and to act as notary” after “oaths” in section catchline.
 
-Subsec. (c). Pub. L. 114–328, § 541(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The judges of the United States Court of Appeals for the Armed Forces may administer the oaths authorized by subsections (a) and (b).”
+Subsec. (c). Pub. L. 114–328, § 541(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The judges of the United States Court of Appeals for the Armed Forces may administer the oaths authorized by subsections (a) and (b).”
 
 2008—Subsec. (c). Pub. L. 110–181 added subsec. (c).
 
-1990—Subsec. (a). Pub. L. 101–510, § 551(b)(1), struck out “, and have the general powers of a notary public and of a consul of the United States, in the performance of all notarial acts to be executed by members of any of the armed forces, wherever they may be, by persons serving with, employed by, or accompanying the armed forces outside the United States and outside Puerto Rico, Guam, and the Virgin Islands, and by other persons subject to this chapter outside of the United States” after “including military justice” in introductory provisions.
+1990—Subsec. (a). Pub. L. 101–510, § 551(b)(1), struck out “, and have the general powers of a notary public and of a consul of the United States, in the performance of all notarial acts to be executed by members of any of the armed forces, wherever they may be, by persons serving with, employed by, or accompanying the armed forces outside the United States and outside Puerto Rico, Guam, and the Virgin Islands, and by other persons subject to this chapter outside of the United States” after “including military justice” in introductory provisions.
 
-Subsecs. (c), (d). Pub. L. 101–510, § 551(b)(2), struck out subsecs. (c) and (d) which read as follows:
+Subsecs. (c), (d). Pub. L. 101–510, § 551(b)(2), struck out subsecs. (c) and (d) which read as follows:
 
 “(c) No fee may be paid to or received by any person for the performance of any notarial act herein authorized.
 
@@ -11468,9 +11468,9 @@ Subsecs. (c), (d). Pub. L. 101–510, § 551(b)(2), struck out subsecs. (c) an
 
 1986—Subsecs. (a), (b). Pub. L. 99–661 inserted “or performing inactive-duty training” after “active duty”.
 
-1983—Subsec. (a)(1). Pub. L. 98–209, § 2(f)(1), struck out “of the Army, Navy, Air Force, and Marine Corps” after “All judge advocates”.
+1983—Subsec. (a)(1). Pub. L. 98–209, § 2(f)(1), struck out “of the Army, Navy, Air Force, and Marine Corps” after “All judge advocates”.
 
-Subsec. (a)(2) to (7). Pub. L. 98–209, § 2(f)(2), struck out par. (2) which included law specialists among those persons authorized to administer oaths and to act as notaries under this section, and redesignated pars. (3) to (7) as (2) to (6), respectively.
+Subsec. (a)(2) to (7). Pub. L. 98–209, § 2(f)(2), struck out par. (2) which included law specialists among those persons authorized to administer oaths and to act as notaries under this section, and redesignated pars. (3) to (7) as (2) to (6), respectively.
 
 1968—Subsec. (b). Pub. L. 90–632 substituted “military judge” for “law officer” in par. (1).
 
@@ -11500,7 +11500,7 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 937. Art. 137. Articles to be explained
+### § 937. Art. 137. Articles to be explained
 
 **(a) Enlisted Members.—**
 
@@ -11540,13 +11540,13 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(2)** maintained by the Secretary of Defense in electronic formats that are updated periodically and made available on the Internet.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 78; Pub. L. 99–661, div. A, title VIII, § 804(d), Nov. 14, 1986, 100 Stat. 3907; Pub. L. 104–106, div. A, title XI, § 1152, Feb. 10, 1996, 110 Stat. 468; Pub. L. 114–328, div. E, title LXI, § 5503, Dec. 23, 2016, 130 Stat. 2960; Pub. L. 115–91, div. A, title X, § 1081(c)(1)(R), Dec. 12, 2017, 131 Stat. 1599; Pub. L. 118–31, div. A, title XVII, § 1722(f)(3), Dec. 22, 2023, 137 Stat. 671; Pub. L. 118–159, div. A, title XVII, § 1701(a)(17), Dec. 23, 2024, 138 Stat. 2204.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 78; Pub. L. 99–661, div. A, title VIII, § 804(d), Nov. 14, 1986, 100 Stat. 3907; Pub. L. 104–106, div. A, title XI, § 1152, Feb. 10, 1996, 110 Stat. 468; Pub. L. 114–328, div. E, title LXI, § 5503, Dec. 23, 2016, 130 Stat. 2960; Pub. L. 115–91, div. A, title X, § 1081(c)(1)(R), Dec. 12, 2017, 131 Stat. 1599; Pub. L. 118–31, div. A, title XVII, § 1722(f)(3), Dec. 22, 2023, 137 Stat. 671; Pub. L. 118–159, div. A, title XVII, § 1701(a)(17), Dec. 23, 2024, 138 Stat. 2204.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 937 | 50:733. | May 5, 1950, ch. 169, § 1 (Art. 137), 64 Stat. 144. |
+| 937 | 50:733. | May 5, 1950, ch. 169, § 1 (Art. 137), 64 Stat. 144. |
 
 The word “each” is substituted for the word “every”. The word “member” is substituted for the word “person”. The words “in [any of] the armed forces of the United States” are omitted as surplusage.
 
@@ -11560,25 +11560,25 @@ Another section 1722(f) of Pub. L. 118–31 amended section 973 of this title.
 
 2024—Subsec. (a)(2)(B). Pub. L. 118–159 inserted “the” before “Space Force”.
 
-2023—Subsec. (a)(1)(C). Pub. L. 118–31, § 1722(f)(3)(A), added subpar. (C).
+2023—Subsec. (a)(1)(C). Pub. L. 118–31, § 1722(f)(3)(A), added subpar. (C).
 
-Subsec. (a)(2)(B), (C). Pub. L. 118–31, § 1722(f)(3)(B), added subpar. (B) and redesignated former subpar. (B) as (C).
+Subsec. (a)(2)(B), (C). Pub. L. 118–31, § 1722(f)(3)(B), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Subsec. (b)(1)(B). Pub. L. 118–31, § 1722(f)(3)(C), inserted “or the Space Force” after “in a reserve component”.
+Subsec. (b)(1)(B). Pub. L. 118–31, § 1722(f)(3)(C), inserted “or the Space Force” after “in a reserve component”.
 
-Subsec. (d)(1). Pub. L. 118–31, § 1722(f)(3)(D), substituted “, to a member of a reserve component, or to a member of the Space Force,” for “or to a member of a reserve component,”.
+Subsec. (d)(1). Pub. L. 118–31, § 1722(f)(3)(D), substituted “, to a member of a reserve component, or to a member of the Space Force,” for “or to a member of a reserve component,”.
 
-2017—Subsec. (a)(1). Pub. L. 115–91, § 1081(c)(1)(R)(i), struck out “(the Uniform Code of Military Justice)” after “this chapter” in introductory provisions.
+2017—Subsec. (a)(1). Pub. L. 115–91, § 1081(c)(1)(R)(i), struck out “(the Uniform Code of Military Justice)” after “this chapter” in introductory provisions.
 
-Subsec. (b). Pub. L. 115–91, § 1081(c)(1)(R)(ii), which directed amendment of subsec. (b) by striking out “(the Uniform Code of Military Justice)” after “this chapter” in the matter preceding subparagraph (A), was executed by making the amendment in introductory provisions of par. (1) of subsec. (b), to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 115–91, § 1081(c)(1)(R)(ii), which directed amendment of subsec. (b) by striking out “(the Uniform Code of Military Justice)” after “this chapter” in the matter preceding subparagraph (A), was executed by making the amendment in introductory provisions of par. (1) of subsec. (b), to reflect the probable intent of Congress.
 
-Subsec. (d). Pub. L. 115–91, § 1081(c)(1)(R)(iii), struck out “(the Uniform Code of Military Justice)” after “this chapter” in introductory provisions.
+Subsec. (d). Pub. L. 115–91, § 1081(c)(1)(R)(iii), struck out “(the Uniform Code of Military Justice)” after “this chapter” in introductory provisions.
 
-2016—Subsec. (a). Pub. L. 114–328, § 5503(1), inserted heading.
+2016—Subsec. (a). Pub. L. 114–328, § 5503(1), inserted heading.
 
-Subsec. (a)(1). Pub. L. 114–328, § 5503(1), substituted “The sections (articles) of this chapter (the Uniform Code of Military Justice)” for “The sections of this title (articles of the Uniform Code of Military Justice)” in introductory provisions.
+Subsec. (a)(1). Pub. L. 114–328, § 5503(1), substituted “The sections (articles) of this chapter (the Uniform Code of Military Justice)” for “The sections of this title (articles of the Uniform Code of Military Justice)” in introductory provisions.
 
-Subsecs. (b) to (d). Pub. L. 114–328, § 5503(2), (3), added subsecs. (b) to (d) and struck out former subsec. (b) which read as follows: “The text of the Uniform Code of Military Justice and of the regulations prescribed by the President under such Code shall be made available to a member on active duty or to a member of a reserve component, upon request by the member, for the member’s personal examination.”
+Subsecs. (b) to (d). Pub. L. 114–328, § 5503(2), (3), added subsecs. (b) to (d) and struck out former subsec. (b) which read as follows: “The text of the Uniform Code of Military Justice and of the regulations prescribed by the President under such Code shall be made available to a member on active duty or to a member of a reserve component, upon request by the member, for the member’s personal examination.”
 
 1996—Subsec. (a)(1). Pub. L. 104–106 substituted “within fourteen days” for “within six days”.
 
@@ -11588,7 +11588,7 @@ Subsecs. (b) to (d). Pub. L. 114–328, § 5503(2), (3), added subsecs. (b) to
 
 **Effective Date of 2017 Amendment**
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 **Effective Date of 2016 Amendment**
 
@@ -11598,7 +11598,7 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 Amendment by Pub. L. 99–661 effective the earlier of (1) the last day of the 120-day period beginning on Nov. 14, 1986; or (2) the date specified in an Executive order for such amendment to take effect, see section 808 of Pub. L. 99–661, set out as a note under section 802 of this title.
 
-### § 938. Art. 138. Complaints of wrongs
+### § 938. Art. 138. Complaints of wrongs
 
 Any member of the armed forces who believes himself wronged by his commanding officer, and who, upon due application to that commanding officer, is refused redress, may complain to any superior commissioned officer, who shall forward the complaint to the officer exercising general court-martial jurisdiction over the officer against whom it is made. The officer exercising general court-martial jurisdiction shall examine into the complaint and take proper measures for redressing the wrong complained of; and he shall, as soon as possible, send to the Secretary concerned a true statement of that complaint, with the proceedings had thereon.
 
@@ -11608,11 +11608,11 @@ Any member of the armed forces who believes himself wronged by his commanding of
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 938 | 50:734. | May 5, 1950, ch. 169, § 1 (Art. 138), 64 Stat. 144. |
+| 938 | 50:734. | May 5, 1950, ch. 169, § 1 (Art. 138), 64 Stat. 144. |
 
 The words “commanding officer” are substituted for the word “commander”. The word “who” is inserted after the word “and”. The word “commissioned” is inserted after the word “superior” for clarity. The words “The officer exercising general court-martial jurisdiction” are substituted for the words “That officer” for clarity. The word “send” is substituted for the word “transmit”. The word “Secretary” is substituted for the word “Department” for accuracy, since the “Department”, as an entity, could not act upon the complaint.
 
-### § 939. Art. 139. Redress of injuries to property
+### § 939. Art. 139. Redress of injuries to property
 
 **(a)** Whenever complaint is made to any commanding officer that willful damage has been done to the property of any person or that his property has been wrongfully taken by members of the armed forces, he may, under such regulations as the Secretary concerned may prescribe, convene a board to investigate the complaint. The board shall consist of from one to three commissioned officers and, for the purpose of that investigation, it has power to summon witnesses and examine them upon oath, to receive depositions or other documentary evidence, and to assess the damages sustained against the responsible parties. The assessment of damages made by the board is subject to the approval of the commanding officer, and in the amount approved by him shall be charged against the pay of the offenders. The order of the commanding officer directing charges herein authorized is conclusive on any disbursing officer for the payment by him to the injured parties of the damages so assessed and approved.
 
@@ -11624,13 +11624,13 @@ The words “commanding officer” are substituted for the word “commander”.
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 939(a) 939(b) | 50:735(a). 50:735(b). | May 5, 1950, ch. 169, § 1 (Art. 139), 64 Stat. 144. |
+| 939(a) 939(b) | 50:735(a). 50:735(b). | May 5, 1950, ch. 169, § 1 (Art. 139), 64 Stat. 144. |
 
 In subsection (a), the words “Secretary concerned” are substituted for the words “Secretary of the Department”. The word “under” is substituted for the words “subject to”. The words “or affirmation” are omitted as covered by the definition of the word “oath” in section 1 of title 1. The words “it has” are substituted for the words “shall have” in the second sentence. The word “is” is substituted for the words “shall be” before the words “subject” and “conclusive”. The word “commissioned” is inserted for clarity.
 
 In subsection (b), the word “If” is substituted for the word “Where”. The word “considered” is substituted for the word “deemed”.
 
-### § 940. Art. 140. Delegation by the President
+### § 940. Art. 140. Delegation by the President
 
 The President may delegate any authority vested in him under this chapter, and provide for the subdelegation of any such authority.
 
@@ -11640,11 +11640,11 @@ The President may delegate any authority vested in him under this chapter, and p
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 940 | 50:736. | May 5, 1950, ch. 169, § 1 (Art. 140), 64 Stat. 145. |
+| 940 | 50:736. | May 5, 1950, ch. 169, § 1 (Art. 140), 64 Stat. 145. |
 
-The word “may” is substituted for the words “is authorized to \* \* \* to”.
+The word “may” is substituted for the words “is authorized to \* \* \* to”.
 
-### § 940a. Art. 140a. Case management; data collection and accessibility
+### § 940a. Art. 140a. Case management; data collection and accessibility
 
 **(a) In General.—** The Secretary of Defense, in consultation with the Secretary of Homeland Security, shall prescribe uniform standards and criteria for conduct of each of the following functions at all stages of the military justice system (including with respect to the Coast Guard), including pretrial, trial, post-trial, and appellate processes, using, insofar as practicable, the best practices of Federal and State courts:
 
@@ -11662,7 +11662,7 @@ The word “may” is substituted for the words “is authorized to \* \* \*
 
 **(d) Preservation of Court-Martial Records Without Regard to Outcome.—** The standards and criteria prescribed by the Secretary of Defense under subsection (a) shall provide for the preservation of general and special court-martial records, without regard to the outcome of the proceeding concerned, for not fewer than 15 years.
 
-(Added Pub. L. 114–328, div. E, title LXI, § 5504(a), Dec. 23, 2016, 130 Stat. 2961; amended Pub. L. 116–92, div. A, title V, § 534(a), Dec. 20, 2019, 133 Stat. 1361; Pub. L. 116–283, div. A, title V, § 543, Jan. 1, 2021, 134 Stat. 3613.)
+(Added Pub. L. 114–328, div. E, title LXI, § 5504(a), Dec. 23, 2016, 130 Stat. 2961; amended Pub. L. 116–92, div. A, title V, § 534(a), Dec. 20, 2019, 133 Stat. 1361; Pub. L. 116–283, div. A, title V, § 543, Jan. 1, 2021, 134 Stat. 3613.)
 
 **Editorial Notes**
 
@@ -11676,7 +11676,7 @@ The word “may” is substituted for the words “is authorized to \* \* \*
 
 **Effective Date**
 
-Pub. L. 114–328, div. E, title LXI, § 5504(b), Dec. 23, 2016, 130 Stat. 2961, provided that:
+Pub. L. 114–328, div. E, title LXI, § 5504(b), Dec. 23, 2016, 130 Stat. 2961, provided that:
 
 > **“(1) In general.—** Not later than 2 years after the date of the enactment of this Act [Dec. 23, 2016], the Secretary of Defense shall carry out section 940a of title 10, United States Code (article 140a of the Uniform Code of Military Justice), as added by subsection (a).
 
@@ -11686,7 +11686,7 @@ Except as otherwise provided, section effective on Jan. 1, 2019, as designated b
 
 **Application of Existing Standards and Criteria to Coast Guard**
 
-Pub. L. 116–92, div. A, title V, § 534(b), Dec. 20, 2019, 133 Stat. 1362, provided that: “The Secretary of Homeland Security shall apply to the Coast Guard the standards and criteria for conduct established by the Secretary of Defense under section 940a of title 10, United States Code (article 140a of the Uniform Code of Military Justice), as in effect on the day before the date of the enactment of this Act [Dec. 20, 2019], until such time as the Secretary of Defense, in consultation with the Secretary of Homeland Security, prescribes revised standards and criteria for conduct under such section that implement the amendments made by subsection (a) of this section [amending this section].”
+Pub. L. 116–92, div. A, title V, § 534(b), Dec. 20, 2019, 133 Stat. 1362, provided that: “The Secretary of Homeland Security shall apply to the Coast Guard the standards and criteria for conduct established by the Secretary of Defense under section 940a of title 10, United States Code (article 140a of the Uniform Code of Military Justice), as in effect on the day before the date of the enactment of this Act [Dec. 20, 2019], until such time as the Secretary of Defense, in consultation with the Secretary of Homeland Security, prescribes revised standards and criteria for conduct under such section that implement the amendments made by subsection (a) of this section [amending this section].”
 
 ## SUBCHAPTER XII—UNITED STATES COURT OF APPEALS FOR THE ARMED FORCES
 
@@ -11704,19 +11704,19 @@ Pub. L. 116–92, div. A, title V, § 534(b), Dec. 20, 2019, 133 Stat. 1362, p
 
 **Amendments**
 
-2017—Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, made technical amendment to Pub. L. 114–328, § 5541(8). See 2016 Amendment note below.
+2017—Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, made technical amendment to Pub. L. 114–328, § 5541(8). See 2016 Amendment note below.
 
-2016—Pub. L. 114–328, div. E, title LXIII, § 5541(8), Dec. 23, 2016, 130 Stat. 2967, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, added item 946a and substituted “Military Justice Review Panel” for “Code committee” in item 946.
+2016—Pub. L. 114–328, div. E, title LXIII, § 5541(8), Dec. 23, 2016, 130 Stat. 2967, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, added item 946a and substituted “Military Justice Review Panel” for “Code committee” in item 946.
 
-1994—Pub. L. 103–337, div. A, title IX, § 924(c)(3)(A), Oct. 5, 1994, 108 Stat. 2831, substituted “UNITED STATES COURT OF APPEALS FOR THE ARMED FORCES” for “COURT OF MILITARY APPEALS” as subchapter heading.
+1994—Pub. L. 103–337, div. A, title IX, § 924(c)(3)(A), Oct. 5, 1994, 108 Stat. 2831, substituted “UNITED STATES COURT OF APPEALS FOR THE ARMED FORCES” for “COURT OF MILITARY APPEALS” as subchapter heading.
 
-1990—Pub. L. 101–510, div. A, title XIV, § 1484(i)(2), Nov. 5, 1990, 104 Stat. 1718, redesignated subchapter XI as XII.
+1990—Pub. L. 101–510, div. A, title XIV, § 1484(i)(2), Nov. 5, 1990, 104 Stat. 1718, redesignated subchapter XI as XII.
 
-### § 941. Art. 141. Status
+### § 941. Art. 141. Status
 
 There is a court of record known as the United States Court of Appeals for the Armed Forces. The court is established under article I of the Constitution. The court is located for administrative purposes only in the Department of Defense.
 
-(Added Pub. L. 101–189, div. A, title XIII, § 1301(c), Nov. 29, 1989, 103 Stat. 1570; amended Pub. L. 103–337, div. A, title IX, § 924(a)(2), Oct. 5, 1994, 108 Stat. 2831.)
+(Added Pub. L. 101–189, div. A, title XIII, § 1301(c), Nov. 29, 1989, 103 Stat. 1570; amended Pub. L. 103–337, div. A, title IX, § 924(a)(2), Oct. 5, 1994, 108 Stat. 2831.)
 
 **Editorial Notes**
 
@@ -11728,9 +11728,9 @@ There is a court of record known as the United States Court of Appeals for the A
 
 **Change of Name**
 
-Pub. L. 103–337, div. A, title IX, § 924(a)(1), Oct. 5, 1994, 108 Stat. 2831, provided that: “The United States Court of Military Appeals shall hereafter be known and designated as the United States Court of Appeals for the Armed Forces.”
+Pub. L. 103–337, div. A, title IX, § 924(a)(1), Oct. 5, 1994, 108 Stat. 2831, provided that: “The United States Court of Military Appeals shall hereafter be known and designated as the United States Court of Appeals for the Armed Forces.”
 
-### § 942. Art. 142. Judges
+### § 942. Art. 142. Judges
 
 **(a) Number.—** The United States Court of Appeals for the Armed Forces consists of five judges.
 
@@ -11818,21 +11818,21 @@ A judge may not be removed by the President for any other cause.
 
 **(g) Effect of Vacancy on Court.—** A vacancy on the court does not impair the right of the remaining judges to exercise the powers of the court.
 
-(Added Pub. L. 101–189, div. A, title XIII, § 1301(c), Nov. 29, 1989, 103 Stat. 1570; amended Pub. L. 101–510, div. A, title V, § 541(f), Nov. 5, 1990, 104 Stat. 1565; Pub. L. 102–190, div. A, title X, § 1061(b)(1)(A), (B), (2), Dec. 5, 1991, 105 Stat. 1474; Pub. L. 103–337, div. A, title IX, § 924(c)(1), Oct. 5, 1994, 108 Stat. 2831; Pub. L. 104–106, div. A, title XV, § 1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 113–66, div. A, title V, § 531(a), Dec. 26, 2013, 127 Stat. 759; Pub. L. 113–291, div. A, title V, § 540(a), Dec. 19, 2014, 128 Stat. 3371; Pub. L. 114–328, div. A, title V, § 541(b)(2), (c), (d), Dec. 23, 2016, 130 Stat. 2125.)
+(Added Pub. L. 101–189, div. A, title XIII, § 1301(c), Nov. 29, 1989, 103 Stat. 1570; amended Pub. L. 101–510, div. A, title V, § 541(f), Nov. 5, 1990, 104 Stat. 1565; Pub. L. 102–190, div. A, title X, § 1061(b)(1)(A), (B), (2), Dec. 5, 1991, 105 Stat. 1474; Pub. L. 103–337, div. A, title IX, § 924(c)(1), Oct. 5, 1994, 108 Stat. 2831; Pub. L. 104–106, div. A, title XV, § 1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 113–66, div. A, title V, § 531(a), Dec. 26, 2013, 127 Stat. 759; Pub. L. 113–291, div. A, title V, § 540(a), Dec. 19, 2014, 128 Stat. 3371; Pub. L. 114–328, div. A, title V, § 541(b)(2), (c), (d), Dec. 23, 2016, 130 Stat. 2125.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Subsec. (b)(2). Pub. L. 114–328, § 541(b)(2), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), realigned margins, and added subpar. (B).
+2016—Subsec. (b)(2). Pub. L. 114–328, § 541(b)(2), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), realigned margins, and added subpar. (B).
 
-Subsec. (b)(3). Pub. L. 114–328, § 541(c), substituted “No” for “Not more than three of the judges of the court may be appointed from the same political party, and no”.
+Subsec. (b)(3). Pub. L. 114–328, § 541(c), substituted “No” for “Not more than three of the judges of the court may be appointed from the same political party, and no”.
 
-Subsec. (e)(2). Pub. L. 114–328, § 541(d), substituted “equal to the difference between—” and subpars. (A) and (B) for “equal to the daily equivalent of the annual rate of pay provided for a judge of the court. Such pay shall be in lieu of retired pay and in lieu of an annuity under section 945 of this title (article 145), subchapter III of chapter 83 or subchapter II of chapter 84 of title 5, or any other retirement system for employees of the Federal Government.”
+Subsec. (e)(2). Pub. L. 114–328, § 541(d), substituted “equal to the difference between—” and subpars. (A) and (B) for “equal to the daily equivalent of the annual rate of pay provided for a judge of the court. Such pay shall be in lieu of retired pay and in lieu of an annuity under section 945 of this title (article 145), subchapter III of chapter 83 or subchapter II of chapter 84 of title 5, or any other retirement system for employees of the Federal Government.”
 
-2014—Subsec. (b)(2)(A). Pub. L. 113–291, § 540(a)(1), substituted “January 31” for “March 31”, “July 31 of any year” for “October 1 of any year”, and “July 31 of the year” for “September 30 of the year”.
+2014—Subsec. (b)(2)(A). Pub. L. 113–291, § 540(a)(1), substituted “January 31” for “March 31”, “July 31 of any year” for “October 1 of any year”, and “July 31 of the year” for “September 30 of the year”.
 
-Subsec. (b)(2)(B). Pub. L. 113–291, § 540(a)(2), substituted “July 31” for “September 30” in two places and “February 1” for “April 1”.
+Subsec. (b)(2)(B). Pub. L. 113–291, § 540(a)(2), substituted “July 31” for “September 30” in two places and “February 1” for “April 1”.
 
 2013—Subsec. (b)(4). Pub. L. 113–66 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “For purposes of appointment of judges to the court, a person retired from the armed forces after 20 or more years of active service (whether or not such person is on the retired list) shall not be considered to be in civilian life.”
 
@@ -11842,45 +11842,45 @@ Subsec. (b)(2)(B). Pub. L. 113–291, § 540(a)(2), substituted “July 31” 
 
 1994—Subsecs. (a), (f)(1). Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals”.
 
-1991—Subsec. (e)(1). Pub. L. 102–190, § 1061(b)(1)(A)(i)–(iv), designated existing provisions as subpar. (A), struck out “(2)(A)” before “The chief judge”, moved sentence beginning “The chief judge of the court” to end of par. (1)(A), substituted “an individual who is a senior judge of the court under this subparagraph” for “a senior judge of the court”, and added subpar. (B).
+1991—Subsec. (e)(1). Pub. L. 102–190, § 1061(b)(1)(A)(i)–(iv), designated existing provisions as subpar. (A), struck out “(2)(A)” before “The chief judge”, moved sentence beginning “The chief judge of the court” to end of par. (1)(A), substituted “an individual who is a senior judge of the court under this subparagraph” for “a senior judge of the court”, and added subpar. (B).
 
-Subsec. (e)(2). Pub. L. 102–190, § 1061(b)(1)(A)(ii), (v), redesignated par. (2)(B) as (2) and incorporated former par. (2)(A) into par. (1)(A).
+Subsec. (e)(2). Pub. L. 102–190, § 1061(b)(1)(A)(ii), (v), redesignated par. (2)(B) as (2) and incorporated former par. (2)(A) into par. (1)(A).
 
-Subsec. (e)(3), (4), (6). Pub. L. 102–190, § 1061(b)(1)(B), substituted “paragraph (1)” for “paragraph (2)” wherever appearing.
+Subsec. (e)(3), (4), (6). Pub. L. 102–190, § 1061(b)(1)(B), substituted “paragraph (1)” for “paragraph (2)” wherever appearing.
 
-Subsec. (f)(1)(C). Pub. L. 102–190, § 1061(b)(2)(A), added subpar. (C).
+Subsec. (f)(1)(C). Pub. L. 102–190, § 1061(b)(2)(A), added subpar. (C).
 
-Subsec. (f)(2) to (4). Pub. L. 102–190, § 1061(b)(2)(B), (C), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+Subsec. (f)(2) to (4). Pub. L. 102–190, § 1061(b)(2)(B), (C), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-1990—Subsec. (b)(1). Pub. L. 101–510, § 541(f)(1), substituted “civilian life” for “civil life”.
+1990—Subsec. (b)(1). Pub. L. 101–510, § 541(f)(1), substituted “civilian life” for “civil life”.
 
-Subsec. (b)(4). Pub. L. 101–510, § 541(f)(2), added par. (4).
+Subsec. (b)(4). Pub. L. 101–510, § 541(f)(2), added par. (4).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–328, div. A, title V, § 541(b)(3), Dec. 23, 2016, 130 Stat. 2125, provided that: “The amendments made by paragraph (2) [amending this section] shall apply with respect to appointments to the United States Court of Appeals for the Armed Forces that are made on or after the date of the enactment of this Act [Dec. 23, 2016].”
+Pub. L. 114–328, div. A, title V, § 541(b)(3), Dec. 23, 2016, 130 Stat. 2125, provided that: “The amendments made by paragraph (2) [amending this section] shall apply with respect to appointments to the United States Court of Appeals for the Armed Forces that are made on or after the date of the enactment of this Act [Dec. 23, 2016].”
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 113–66, div. A, title V, § 531(b), Dec. 26, 2013, 127 Stat. 759, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 26, 2013], and shall apply with respect to appointments to the United States Court of Appeals for the Armed Forces that occur on or after that date.”
+Pub. L. 113–66, div. A, title V, § 531(b), Dec. 26, 2013, 127 Stat. 759, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 26, 2013], and shall apply with respect to appointments to the United States Court of Appeals for the Armed Forces that occur on or after that date.”
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–190, div. A, title X, § 1061(b)(1)(D), Dec. 5, 1991, 105 Stat. 1474, provided that: “The amendments made by this paragraph [amending this section and section 945 of this title] shall take effect as of November 29, 1989.”
+Pub. L. 102–190, div. A, title X, § 1061(b)(1)(D), Dec. 5, 1991, 105 Stat. 1474, provided that: “The amendments made by this paragraph [amending this section and section 945 of this title] shall take effect as of November 29, 1989.”
 
 **Effective Date for Repeal of Termination of Authority for Chief Justice of United States To Designate Article III Judges for Temporary Service on Court of Appeals for the Armed Forces**
 
-Pub. L. 104–201, div. A, title X, § 1074(c)(2), Sept. 23, 1996, 110 Stat. 2660, provided that: “The authority provided under section 942(f) of title 10, United States Code, shall be effective as if section 1142 of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 110 Stat. 467) [repealing section 1301(i) of Pub. L. 101–189, set out below] had been enacted on September 29, 1995.”
+Pub. L. 104–201, div. A, title X, § 1074(c)(2), Sept. 23, 1996, 110 Stat. 2660, provided that: “The authority provided under section 942(f) of title 10, United States Code, shall be effective as if section 1142 of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 110 Stat. 467) [repealing section 1301(i) of Pub. L. 101–189, set out below] had been enacted on September 29, 1995.”
 
 **Saving Provision**
 
-Pub. L. 113–291, div. A, title V, § 540(b), Dec. 19, 2014, 128 Stat. 3371, provided that: “No person who is serving as a judge of the court on the date of the enactment of this Act [Dec. 19, 2014], and no survivor of any such person, shall be deprived of any annuity provided by section 945 of title 10, United States Code, by the operation of the amendments made by subsection (a) [amending this section].”
+Pub. L. 113–291, div. A, title V, § 540(b), Dec. 19, 2014, 128 Stat. 3371, provided that: “No person who is serving as a judge of the court on the date of the enactment of this Act [Dec. 19, 2014], and no survivor of any such person, shall be deprived of any annuity provided by section 945 of title 10, United States Code, by the operation of the amendments made by subsection (a) [amending this section].”
 
 **Early Retirement Authorized for One Current Judge**
 
-Pub. L. 114–328, div. A, title V, § 541(b)(1), Dec. 23, 2016, 130 Stat. 2125, provided that:
+Pub. L. 114–328, div. A, title V, § 541(b)(1), Dec. 23, 2016, 130 Stat. 2125, provided that:
 
 > “If the judge of the United States Court of Appeals for the Armed Forces who is the junior in seniority of the two judges of the court whose terms of office under section 942(b)(2) of title 10, United States Code (article 142(b)(2) of the Uniform Code of Military Justice), expire on July 31, 2021, chooses to retire one year early, that judge—
 
@@ -11890,7 +11890,7 @@ Pub. L. 114–328, div. A, title V, § 541(b)(1), Dec. 23, 2016, 130 Stat. 212
 
 **Transitional Provisions**
 
-Pub. L. 101–189, div. A, title XIII, § 1301(d)–(i), Nov. 29, 1989, 103 Stat. 1574–1576, as amended by Pub. L. 104–106, div. A, title XI, § 1142, Feb. 10, 1996, 110 Stat. 467; Pub. L. 104–201, div. A, title X, § 1068(c), Sept. 23, 1996, 110 Stat. 2655, provided that:
+Pub. L. 101–189, div. A, title XIII, § 1301(d)–(i), Nov. 29, 1989, 103 Stat. 1574–1576, as amended by Pub. L. 104–106, div. A, title XI, § 1142, Feb. 10, 1996, 110 Stat. 467; Pub. L. 104–201, div. A, title X, § 1068(c), Sept. 23, 1996, 110 Stat. 2655, provided that:
 
 > **“(d) Transition From Three-Judge Court to Five-Judge Court.—**
 
@@ -11924,7 +11924,7 @@ Pub. L. 101–189, div. A, title XIII, § 1301(d)–(i), Nov. 29, 1989, 103 St
 
 > **“(h) Civil Service Status of Current Employees.—** Section 943(c) of title 10, United States Code, as enacted by subsection (c), shall not be applied to change the civil service status of any attorney who is an employee of the United States Court of Military Appeals [now United States Court of Appeals for the Armed Forces] on the day before the date of the enactment of this Act [Nov. 29, 1989].”
 
-### § 943. Art. 143. Organization and employees
+### § 943. Art. 143. Organization and employees
 
 **(a) Chief Judge.—**
 
@@ -11958,7 +11958,7 @@ Pub. L. 101–189, div. A, title XIII, § 1301(d)–(i), Nov. 29, 1989, 103 St
 
 **(2)** In making appointments to the positions described in paragraph (1), preference shall be given, among equally qualified persons, to persons who are preference eligibles (as defined in section 2108(3) of title 5).
 
-(Added Pub. L. 101–189, div. A, title XIII, § 1301(c), Nov. 29, 1989, 103 Stat. 1572; amended Pub. L. 102–484, div. A, title X, § 1061(a)(1), Oct. 23, 1992, 106 Stat. 2503; Pub. L. 103–337, div. A, title IX, § 924(c)(1), Oct. 5, 1994, 108 Stat. 2831; Pub. L. 104–201, div. A, title X, § 1068(b), Sept. 23, 1996, 110 Stat. 2655; Pub. L. 105–85, div. A, title X, § 1073(a)(11), Nov. 18, 1997, 111 Stat. 1900.)
+(Added Pub. L. 101–189, div. A, title XIII, § 1301(c), Nov. 29, 1989, 103 Stat. 1572; amended Pub. L. 102–484, div. A, title X, § 1061(a)(1), Oct. 23, 1992, 106 Stat. 2503; Pub. L. 103–337, div. A, title IX, § 924(c)(1), Oct. 5, 1994, 108 Stat. 2831; Pub. L. 104–201, div. A, title X, § 1068(b), Sept. 23, 1996, 110 Stat. 2655; Pub. L. 105–85, div. A, title X, § 1073(a)(11), Nov. 18, 1997, 111 Stat. 1900.)
 
 **Editorial Notes**
 
@@ -11976,7 +11976,7 @@ Pub. L. 101–189, div. A, title XIII, § 1301(d)–(i), Nov. 29, 1989, 103 St
 
 **Transition Provision**
 
-Pub. L. 102–484, div. A, title X, § 1061(b), Oct. 23, 1992, 106 Stat. 2504, provided that:
+Pub. L. 102–484, div. A, title X, § 1061(b), Oct. 23, 1992, 106 Stat. 2504, provided that:
 
 > “For purposes of section 943(a) (article 943(a)) of title 10, United States Code, as amended by subsection (a)—
 
@@ -11988,11 +11988,11 @@ Pub. L. 102–484, div. A, title X, § 1061(b), Oct. 23, 1992, 106 Stat. 2504,
 
 Subsec. (c) of this section not to be applied to change civil service status of any attorney who is an employee of United States Court of Military Appeals [now United States Court of Appeals for the Armed Forces] on Nov. 28, 1989, see section 1301(h) of Pub. L. 101–189, set out as a Transitional Provisions note under section 942 of this title.
 
-### § 944. Art. 144. Procedure
+### § 944. Art. 144. Procedure
 
 The United States Court of Appeals for the Armed Forces may prescribe its rules of procedure and may determine the number of judges required to constitute a quorum.
 
-(Added Pub. L. 101–189, div. A, title XIII, § 1301(c), Nov. 29, 1989, 103 Stat. 1572; amended Pub. L. 103–337, div. A, title IX, § 924(c)(1), Oct. 5, 1994, 108 Stat. 2831.)
+(Added Pub. L. 101–189, div. A, title XIII, § 1301(c), Nov. 29, 1989, 103 Stat. 1572; amended Pub. L. 103–337, div. A, title IX, § 924(c)(1), Oct. 5, 1994, 108 Stat. 2831.)
 
 **Editorial Notes**
 
@@ -12000,7 +12000,7 @@ The United States Court of Appeals for the Armed Forces may prescribe its rules 
 
 1994—Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals”.
 
-### § 945. Art. 145. Annuities for judges and survivors
+### § 945. Art. 145. Annuities for judges and survivors
 
 **(a) Retirement Annuities for Judges.—**
 
@@ -12046,7 +12046,7 @@ The United States Court of Appeals for the Armed Forces may prescribe its rules 
 
 **(2)** Any person with respect to whom this subsection applies shall be eligible to make an election under section 301(a)(2) of the Federal Employees’ Retirement System Act of 1986 to the same extent and in the same manner (including subject to the condition set forth in section 301(d) of such Act) as if such person’s appointment constituted reemployment with the Federal Government.
 
-(Added Pub. L. 101–189, div. A, title XIII, § 1301(c), Nov. 29, 1989, 103 Stat. 1572; amended Pub. L. 102–190, div. A, title X, § 1061(b)(1)(C), Dec. 5, 1991, 105 Stat. 1474; Pub. L. 102–484, div. A, title X, §§ 1052(11), 1062(a)(1), Oct. 23, 1992, 106 Stat. 2499, 2504; Pub. L. 103–337, div. A, title IX, § 924(c)(1), Oct. 5, 1994, 108 Stat. 2831; Pub. L. 114–328, div. A, title V, § 541(e), Dec. 23, 2016, 130 Stat. 2125.)
+(Added Pub. L. 101–189, div. A, title XIII, § 1301(c), Nov. 29, 1989, 103 Stat. 1572; amended Pub. L. 102–190, div. A, title X, § 1061(b)(1)(C), Dec. 5, 1991, 105 Stat. 1474; Pub. L. 102–484, div. A, title X, §§ 1052(11), 1062(a)(1), Oct. 23, 1992, 106 Stat. 2499, 2504; Pub. L. 103–337, div. A, title IX, § 924(c)(1), Oct. 5, 1994, 108 Stat. 2831; Pub. L. 114–328, div. A, title V, § 541(e), Dec. 23, 2016, 130 Stat. 2125.)
 
 **Editorial Notes**
 
@@ -12056,15 +12056,15 @@ Section 301(a)(2) and (d) of the Federal Employees’ Retirement System Act of 1
 
 **Amendments**
 
-2016—Subsec. (d). Pub. L. 114–328, § 541(e)(1), substituted “subsection (f)(1)(B)” for “subsection (g)(1)(B)”.
+2016—Subsec. (d). Pub. L. 114–328, § 541(e)(1), substituted “subsection (f)(1)(B)” for “subsection (g)(1)(B)”.
 
-Subsecs. (f) to (i). Pub. L. 114–328, § 541(e)(2), (3), redesignated subsecs. (g) to (i) as (f) to (h), respectively, and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “A person who is receiving an annuity under this section by reason of service as a judge of the court and who is appointed to a position in the Federal Government shall, during the period of such person’s service in such position, be entitled to receive only the annuity under this section or the pay for that position, whichever is higher.”
+Subsecs. (f) to (i). Pub. L. 114–328, § 541(e)(2), (3), redesignated subsecs. (g) to (i) as (f) to (h), respectively, and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “A person who is receiving an annuity under this section by reason of service as a judge of the court and who is appointed to a position in the Federal Government shall, during the period of such person’s service in such position, be entitled to receive only the annuity under this section or the pay for that position, whichever is higher.”
 
 1994—Subsecs. (a)(1), (3)(A), (b), (i)(1)(A). Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals”.
 
-1992—Subsec. (a)(1). Pub. L. 102–484, § 1052(11), substituted “section 942(e)(1)(B) of this title (article 142(e)(1)(B))” for “section 943(e)(1)(B) of this title (art. 143(e)(1)(B))”.
+1992—Subsec. (a)(1). Pub. L. 102–484, § 1052(11), substituted “section 942(e)(1)(B) of this title (article 142(e)(1)(B))” for “section 943(e)(1)(B) of this title (art. 143(e)(1)(B))”.
 
-Subsec. (i). Pub. L. 102–484, § 1062(a)(1), added subsec. (i).
+Subsec. (i). Pub. L. 102–484, § 1062(a)(1), added subsec. (i).
 
 1991—Subsec. (a)(1). Pub. L. 102–190 inserted at end “A person who continues service with the court as a senior judge under section 943(e)(1)(B) of this title (art. 143(e)(1)(B)) upon the expiration of the judge’s term shall be considered to have been separated from civilian service in the Federal Government only upon the termination of that continuous service.”
 
@@ -12072,7 +12072,7 @@ Subsec. (i). Pub. L. 102–484, § 1062(a)(1), added subsec. (i).
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–484, div. A, title X, § 1062(a)(2), Oct. 23, 1992, 106 Stat. 2505, provided that: “The amendment made by paragraph (1) [amending this section] shall apply with respect to any appointment which takes effect on or after the date of the enactment of this Act [Oct. 23, 1992].”
+Pub. L. 102–484, div. A, title X, § 1062(a)(2), Oct. 23, 1992, 106 Stat. 2505, provided that: “The amendment made by paragraph (1) [amending this section] shall apply with respect to any appointment which takes effect on or after the date of the enactment of this Act [Oct. 23, 1992].”
 
 **Effective Date of 1991 Amendment**
 
@@ -12084,7 +12084,7 @@ Except as otherwise provided, section applicable with respect to judges of Unite
 
 **Additional Elections**
 
-Pub. L. 102–484, div. A, title X, § 1062(b), Oct. 23, 1992, 106 Stat. 2505, provided that:
+Pub. L. 102–484, div. A, title X, § 1062(b), Oct. 23, 1992, 106 Stat. 2505, provided that:
 
 > **“(1)** Any individual who is a judge in active service on the United States Court of Military Appeals [now United States Court of Appeals for the Armed Forces] shall be eligible to make an election under section 301(a)(2) of the Federal Employees’ Retirement System Act of 1986 [Pub. L. 99–335, 5 U.S.C. 8331 note] if—
 
@@ -12108,7 +12108,7 @@ Pub. L. 102–484, div. A, title X, § 1062(b), Oct. 23, 1992, 106 Stat. 2505,
 
 > **“(3)** For the purpose of this subsection, a judge of the United States Court of Military Appeals [now United States Court of Appeals for the Armed Forces] shall be considered to be ‘covered by Social Security’ if such judge’s service is employment for the purposes of title II of the Social Security Act [42 U.S.C. 401 et seq.] and chapter 21 of the Internal Revenue Code of 1986 [26 U.S.C. 3101 et seq.].”
 
-### § 946. Art. 146. Military Justice Review Panel
+### § 946. Art. 146. Military Justice Review Panel
 
 **(a) Establishment.—** The Secretary of Defense shall establish a panel to conduct independent periodic reviews and assessments of the operation of this chapter. The panel shall be known as the “Military Justice Review Panel” (in this section referred to as the “Panel”).
 
@@ -12190,23 +12190,23 @@ Pub. L. 102–484, div. A, title X, § 1062(b), Oct. 23, 1992, 106 Stat. 2505,
 
 **(j) Chapter 10 of Title 5.—** Chapter 10 of title 5 shall not apply to the Panel.
 
-(Added Pub. L. 101–189, div. A, title XIII, § 1301(c), Nov. 29, 1989, 103 Stat. 1574; amended Pub. L. 103–337, div. A, title IX, § 924(c)(1), Oct. 5, 1994, 108 Stat. 2831; Pub. L. 104–106, div. A, title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–239, div. A, title V, § 532, Jan. 2, 2013, 126 Stat. 1726; Pub. L. 114–328, div. E, title LXII, § 5521, Dec. 23, 2016, 130 Stat. 2962; Pub. L. 115–91, div. A, title V, § 531(k), Dec. 12, 2017, 131 Stat. 1386; Pub. L. 117–286, § 4(a)(46), Dec. 27, 2022, 136 Stat. 4310; Pub. L. 118–31, div. A, title V, § 532, Dec. 22, 2023, 137 Stat. 260.)
+(Added Pub. L. 101–189, div. A, title XIII, § 1301(c), Nov. 29, 1989, 103 Stat. 1574; amended Pub. L. 103–337, div. A, title IX, § 924(c)(1), Oct. 5, 1994, 108 Stat. 2831; Pub. L. 104–106, div. A, title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–239, div. A, title V, § 532, Jan. 2, 2013, 126 Stat. 1726; Pub. L. 114–328, div. E, title LXII, § 5521, Dec. 23, 2016, 130 Stat. 2962; Pub. L. 115–91, div. A, title V, § 531(k), Dec. 12, 2017, 131 Stat. 1386; Pub. L. 117–286, § 4(a)(46), Dec. 27, 2022, 136 Stat. 4310; Pub. L. 118–31, div. A, title V, § 532, Dec. 22, 2023, 137 Stat. 260.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2023—Subsec. (b)(4). Pub. L. 118–31, § 532(a), added par. (4).
+2023—Subsec. (b)(4). Pub. L. 118–31, § 532(a), added par. (4).
 
-Subsec. (e). Pub. L. 118–31, § 532(b), amended subsec. (e) generally. Prior to amendment, text read as follows: “Each member shall be appointed for a term of eight years, and no member may serve more than one term. Any vacancy shall be filled in the same manner as the original appointment.”
+Subsec. (e). Pub. L. 118–31, § 532(b), amended subsec. (e) generally. Prior to amendment, text read as follows: “Each member shall be appointed for a term of eight years, and no member may serve more than one term. Any vacancy shall be filled in the same manner as the original appointment.”
 
 2022—Subsec. (j). Pub. L. 117–286 substituted “Chapter 10 of Title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
-2017—Subsec. (f)(1). Pub. L. 115–91, § 531(k)(1), substituted “fiscal year 2021” for “fiscal year 2020”.
+2017—Subsec. (f)(1). Pub. L. 115–91, § 531(k)(1), substituted “fiscal year 2021” for “fiscal year 2020”.
 
-Subsec. (f)(2). Pub. L. 115–91, § 531(k)(2), substituted “The analysis under this paragraph shall be included in the assessment required by paragraph (1).” for “Not later than October 31, 2020, the Panel shall submit to the Committees on Armed Services of the Senate and the House of Representatives through the Secretary of Defense a report setting forth the Panel’s findings and recommendations on the need for sentencing reform.”
+Subsec. (f)(2). Pub. L. 115–91, § 531(k)(2), substituted “The analysis under this paragraph shall be included in the assessment required by paragraph (1).” for “Not later than October 31, 2020, the Panel shall submit to the Committees on Armed Services of the Senate and the House of Representatives through the Secretary of Defense a report setting forth the Panel’s findings and recommendations on the need for sentencing reform.”
 
-Subsec. (f)(5). Pub. L. 115–91, § 531(k)(3), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “Not later than December 31 of each year during which the Panel conducts a review and assessment under this subsection, the Panel shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth the results of such review and assessment, including the Panel’s findings and recommendations.”
+Subsec. (f)(5). Pub. L. 115–91, § 531(k)(3), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “Not later than December 31 of each year during which the Panel conducts a review and assessment under this subsection, the Panel shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth the results of such review and assessment, including the Panel’s findings and recommendations.”
 
 2016—Pub. L. 114–328 amended section generally. Prior to amendment, section related to establishment, membership, and duties of Code committee.
 
@@ -12224,7 +12224,7 @@ Subsec. (f)(5). Pub. L. 115–91, § 531(k)(3), added par. (5) and struck out 
 
 **Effective Date of 2017 Amendment**
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 **Effective Date of 2016 Amendment**
 
@@ -12240,9 +12240,9 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this s
 
 **Full Functionality of Military Justice Review Panel**
 
-Pub. L. 117–81, div. A, title V, § 549E, Dec. 27, 2021, 135 Stat. 1726, provided that: “Not later than 30 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall establish or reconstitute, maintain, and ensure the full functionality of the Military Justice Review Panel established pursuant to section 946 of title 10, United States Code (article 146 of the Uniform Code of Military Justice)) [sic].”
+Pub. L. 117–81, div. A, title V, § 549E, Dec. 27, 2021, 135 Stat. 1726, provided that: “Not later than 30 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall establish or reconstitute, maintain, and ensure the full functionality of the Military Justice Review Panel established pursuant to section 946 of title 10, United States Code (article 146 of the Uniform Code of Military Justice)) [sic].”
 
-### § 946a. Art. 146a. Annual reports
+### § 946a. Art. 146a. Annual reports
 
 **(a) Court of Appeals for the Armed Forces.—** Not later than December 31 each year, the Court of Appeals for the Armed Forces shall submit a report that, with respect to the previous fiscal year, provides information on the number and status of completed and pending cases before the Court, and such other matters as the Court considers appropriate regarding the operation of this chapter.
 
@@ -12292,7 +12292,7 @@ Pub. L. 117–81, div. A, title V, § 549E, Dec. 27, 2021, 135 Stat. 1726, pro
 
 **(2)** to the Secretary of Defense, the Secretaries of the military departments, and the Secretary of the department in which the Coast Guard is operating when it is not operating as a service in the Navy.
 
-(Added Pub. L. 114–328, div. E, title LXII, § 5522, Dec. 23, 2016, 130 Stat. 2964; amended Pub. L. 116–283, div. A, title V, § 542(d), Jan. 1, 2021, 134 Stat. 3612; Pub. L. 118–159, div. A, title V, § 566(a), Dec. 23, 2024, 138 Stat. 1904.)
+(Added Pub. L. 114–328, div. E, title LXII, § 5522, Dec. 23, 2016, 130 Stat. 2964; amended Pub. L. 116–283, div. A, title V, § 542(d), Jan. 1, 2021, 134 Stat. 3612; Pub. L. 118–159, div. A, title V, § 566(a), Dec. 23, 2024, 138 Stat. 1904.)
 
 **Editorial Notes**
 

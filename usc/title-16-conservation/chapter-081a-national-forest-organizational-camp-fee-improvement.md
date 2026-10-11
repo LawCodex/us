@@ -15,15 +15,15 @@ retrieved: 2026-10-11
 
 # CHAPTER 81A—NATIONAL FOREST ORGANIZATIONAL CAMP FEE IMPROVEMENT
 
-## § 6231. Findings, purpose, and definitions
+## § 6231. Findings, purpose, and definitions
 
 **(a) Findings** Congress finds the following:
 
 **(1)** Organizational camps, such as those administered by the Boy Scouts, Girl Scouts, and faith-based and community-based organizations, provide a valuable service to young people, individuals with a disability, and their families by promoting physical, mental, and spiritual health through activities conducted in a natural environment.
 
-**(2)** The 192,000,0000 1
+**(2)** The 192,000,0000 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 acres of national forests and grasslands of the National Forest System managed for multiple uses by the Forest Service provides an ideal setting for such organizational camps.
 
@@ -65,7 +65,7 @@ It is the purpose of this chapter to establish a land use fee system that provid
 
 **(C)** for an individual, the sale or transfer or an organizational camp subject to this chapter to another party.
 
-(Pub. L. 108–7, div. F, title V, § 502, Feb. 20, 2003, 117 Stat. 294.)
+(Pub. L. 108–7, div. F, title V, § 502, Feb. 20, 2003, 117 Stat. 294.)
 
 **Editorial Notes**
 
@@ -77,9 +77,9 @@ This chapter, referred to in subsecs. (b) and (c), was in the original “this A
 
 **Short Title**
 
-Pub. L. 108–7, div. F, title V, § 501, Feb. 20, 2003, 117 Stat. 294, provided that: “This title [enacting this chapter] may be cited as the ‘National Forest Organizational Camp Fee Improvement Act of 2003’.”
+Pub. L. 108–7, div. F, title V, § 501, Feb. 20, 2003, 117 Stat. 294, provided that: “This title [enacting this chapter] may be cited as the ‘National Forest Organizational Camp Fee Improvement Act of 2003’.”
 
-## § 6232. Fees for occupancy and use of National Forest System lands and facilities by organizational camps
+## § 6232. Fees for occupancy and use of National Forest System lands and facilities by organizational camps
 
 **(a) Land use fee**
 
@@ -133,9 +133,9 @@ If an organizational camp derives revenue from the use of National Forest System
 
 Subject to subsections (a)(4) and (b)(2), section 539f of this title shall apply to the use fees imposed under this section.
 
-(Pub. L. 108–7, div. F, title V, § 503, Feb. 20, 2003, 117 Stat. 295.)
+(Pub. L. 108–7, div. F, title V, § 503, Feb. 20, 2003, 117 Stat. 295.)
 
-## § 6233. Implementation
+## § 6233. Implementation
 
 **(a) Prompt implementation**
 
@@ -145,7 +145,7 @@ The Secretary shall issue direction regarding implementation of this chapter by 
 
 In issuing any direction regarding implementation of this chapter under subsection (a), the Secretary shall consider whether to phase-in any significant increases in annual land or facility use fees for organizational camps.
 
-(Pub. L. 108–7, div. F, title V, § 504, Feb. 20, 2003, 117 Stat. 296.)
+(Pub. L. 108–7, div. F, title V, § 504, Feb. 20, 2003, 117 Stat. 296.)
 
 **Editorial Notes**
 
@@ -153,11 +153,11 @@ In issuing any direction regarding implementation of this chapter under subsecti
 
 This chapter, referred to in text, was in the original “this Act”, which was translated as reading “this title”, meaning title V of div. F of Pub. L. 108–7, known as the National Forest Organizational Camp Fee Improvement Act of 2003, to reflect the probable intent of Congress.
 
-## § 6234. Relationship to other laws
+## § 6234. Relationship to other laws
 
 Except as specifically provided by this chapter, nothing in this chapter supersedes or otherwise affects any provision of law, regulation, or policy regarding the issuance or administration of authorizations for organizational camps regarding the occupancy and use of National Forest System lands.
 
-(Pub. L. 108–7, div. F, title V, § 505, Feb. 20, 2003, 117 Stat. 297.)
+(Pub. L. 108–7, div. F, title V, § 505, Feb. 20, 2003, 117 Stat. 297.)
 
 **Editorial Notes**
 
@@ -165,7 +165,7 @@ Except as specifically provided by this chapter, nothing in this chapter superse
 
 This chapter, referred to in text, was in the original “this Act”, which was translated as reading “this title”, meaning title V of div. F of Pub. L. 108–7, known as the National Forest Organizational Camp Fee Improvement Act of 2003, to reflect the probable intent of Congress.
 
-## § 6235. Deposit and expenditure of use fees
+## § 6235. Deposit and expenditure of use fees
 
 **(a) Deposit and availability**
 
@@ -179,7 +179,7 @@ Upon request of the Secretary, the Secretary of the Treasury shall transfer to t
 
 Use fees deposited pursuant to subsection (a) and transferred to the Secretary under subsection (b) shall be expended for monitoring of Forest Service special use authorizations, administration of the Forest Service’s special program, interpretive programs, environmental analysis, environmental restoration, and similar purposes.
 
-(Pub. L. 108–7, div. F, title V, § 506, Feb. 20, 2003, 117 Stat. 297.)
+(Pub. L. 108–7, div. F, title V, § 506, Feb. 20, 2003, 117 Stat. 297.)
 
 **Editorial Notes**
 
@@ -187,7 +187,7 @@ Use fees deposited pursuant to subsection (a) and transferred to the Secretary u
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, which was translated as reading “this title”, meaning title V of div. F of Pub. L. 108–7, known as the National Forest Organizational Camp Fee Improvement Act of 2003, to reflect the probable intent of Congress.
 
-## § 6236. Ministerial issuance, or amendment authorization
+## § 6236. Ministerial issuance, or amendment authorization
 
 **(a) NEPA exception**
 
@@ -205,10 +205,10 @@ The ministerial issuance or amendment of an organizational camp special use auth
 
 **(B)** to include nondiscretionary environmental standards or to conform with current law.
 
-(Pub. L. 108–7, div. F, title V, § 507, Feb. 20, 2003, 117 Stat. 297.)
+(Pub. L. 108–7, div. F, title V, § 507, Feb. 20, 2003, 117 Stat. 297.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.

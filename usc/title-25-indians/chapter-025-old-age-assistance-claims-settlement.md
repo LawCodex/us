@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 25—OLD AGE ASSISTANCE CLAIMS SETTLEMENT
 
-## § 2301. Definitions
+## § 2301. Definitions
 
 For purposes of this chapter, the term—
 
@@ -25,7 +25,7 @@ For purposes of this chapter, the term—
 
 **(3)** “trust estate” means that portion of the estate that consists of real or personal property, title to which is held by the United States for the benefit of the Indian or which may not be alienated without the consent of the Secretary.
 
-(Pub. L. 98–500, § 2, Oct. 19, 1984, 98 Stat. 2317; Pub. L. 100–153, § 5, Nov. 5, 1987, 101 Stat. 886.)
+(Pub. L. 98–500, § 2, Oct. 19, 1984, 98 Stat. 2317; Pub. L. 100–153, § 5, Nov. 5, 1987, 101 Stat. 886.)
 
 **Editorial Notes**
 
@@ -37,9 +37,9 @@ For purposes of this chapter, the term—
 
 **Short Title**
 
-Pub. L. 98–500, § 1, Oct. 19, 1984, 98 Stat. 2317, provided: “That this Act [enacting this chapter] may be cited as the ‘Old Age Assistance Claims Settlement Act’.”
+Pub. L. 98–500, § 1, Oct. 19, 1984, 98 Stat. 2317, provided: “That this Act [enacting this chapter] may be cited as the ‘Old Age Assistance Claims Settlement Act’.”
 
-## § 2302. Payment of claims
+## § 2302. Payment of claims
 
 **(a) Authority of Secretary**
 
@@ -51,7 +51,7 @@ The Secretary is authorized and directed to determine the portion of any unautho
 
 **(2)** the payment (not including interest) would be less than $10.
 
-(Pub. L. 98–500, § 3, Oct. 19, 1984, 98 Stat. 2317; Pub. L. 100–581, title II, § 201, Nov. 1, 1988, 102 Stat. 2939.)
+(Pub. L. 98–500, § 3, Oct. 19, 1984, 98 Stat. 2317; Pub. L. 100–581, title II, § 201, Nov. 1, 1988, 102 Stat. 2939.)
 
 **Editorial Notes**
 
@@ -59,7 +59,7 @@ The Secretary is authorized and directed to determine the portion of any unautho
 
 1988—Subsec. (b). Pub. L. 100–581 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “No payment shall be made under subsection (a) with respect to any unauthorized disbursement from the trust estate of a deceased Indian if the total amount of unauthorized disbursement from such trust estate was less than $50.”
 
-## § 2303. Notice
+## § 2303. Notice
 
 **(a) Publication; list of trust estates; unauthorized disbursements; Federal Register**
 
@@ -77,9 +77,9 @@ Any tribe, band or group of Indians, or any individual Indian shall have one hun
 
 Not more than thirty days after the expiration of the one hundred and eighty day period provided for in subsection (c) of this section, the Secretary shall publish in the Federal Register a list containing the additional unauthorized disbursement claims submitted during such period.
 
-(Pub. L. 98–500, § 4, Oct. 19, 1984, 98 Stat. 2317.)
+(Pub. L. 98–500, § 4, Oct. 19, 1984, 98 Stat. 2317.)
 
-## § 2304. Identification of right to payment and expedited claim payment
+## § 2304. Identification of right to payment and expedited claim payment
 
 **(a) Search of records**
 
@@ -99,9 +99,9 @@ In any case in which the Secretary ascertains the name and location of any indiv
 
 **(4)** publication of notice in newspapers of general circulation in the appropriate area.
 
-(Pub. L. 98–500, § 5, Oct. 19, 1984, 98 Stat. 2318.)
+(Pub. L. 98–500, § 5, Oct. 19, 1984, 98 Stat. 2318.)
 
-## § 2305. Discharge and barring of claims
+## § 2305. Discharge and barring of claims
 
 **(a) Payment and acceptance**
 
@@ -111,24 +111,24 @@ The payment and acceptance of any claim, after its determination in accordance w
 
 The provisions of this chapter shall not affect claims arising from any unauthorized disbursement which were filed in any court of competent jurisdiction prior to October 19, 1984.
 
-(Pub. L. 98–500, § 6, Oct. 19, 1984, 98 Stat. 2318.)
+(Pub. L. 98–500, § 6, Oct. 19, 1984, 98 Stat. 2318.)
 
-## § 2306. Authorization of appropriations
+## § 2306. Authorization of appropriations
 
 **(a)** There are authorized to be appropriated for the purpose of carrying out the provisions of this chapter $2,500,000 for each of the fiscal years 1986 and 1987, and such sums as may be necessary for any subsequent fiscal year. The amounts appropriated under the authority of this subsection shall remain available without fiscal year limitation for purposes of carrying out the provisions of this chapter until all claims filed under this chapter have been resolved.
 
 **(b)** Funds necessary to pay the expenses of administering this chapter shall be appropriated and expended under the authority of section 13 of this title.
 
-(Pub. L. 98–500, § 7, Oct. 19, 1984, 98 Stat. 2318.)
+(Pub. L. 98–500, § 7, Oct. 19, 1984, 98 Stat. 2318.)
 
-## § 2307. Treatment of funds
+## § 2307. Treatment of funds
 
 Funds distributed under the provisions of this chapter shall not be considered as income or resources nor otherwise utilized as the basis for denying or reducing the financial assistance or other benefits to which such household or member would otherwise be entitled under the Social Security Act [42 U.S.C. 301 et seq.] or, except for per capita shares in excess of $2,000, any Federal or federally assisted program.
 
-(Pub. L. 98–500, § 8, Oct. 19, 1984, 98 Stat. 2319.)
+(Pub. L. 98–500, § 8, Oct. 19, 1984, 98 Stat. 2319.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.

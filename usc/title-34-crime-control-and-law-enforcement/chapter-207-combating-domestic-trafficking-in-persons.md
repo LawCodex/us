@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 207—COMBATING DOMESTIC TRAFFICKING IN PERSONS
 
-## § 20701. Prevention of domestic trafficking in persons
+## § 20701. Prevention of domestic trafficking in persons
 
 **(a) Program to reduce trafficking in persons and demand for commercial sex acts in the United States**
 
@@ -81,7 +81,7 @@ The Attorney General and the Secretary of Health and Human Services shall prepar
 
 **(2)** $250,000 for each of the fiscal years 2014 through 2021 to carry out the activities described in subsection (a)(2).
 
-(Pub. L. 109–164, title II, § 201, Jan. 10, 2006, 119 Stat. 3567; Pub. L. 110–457, title III, § 302(2), Dec. 23, 2008, 122 Stat. 5087; Pub. L. 113–4, title XII, § 1252(2), Mar. 7, 2013, 127 Stat. 156; Pub. L. 115–393, title III, § 301(b), Dec. 21, 2018, 132 Stat. 5272.)
+(Pub. L. 109–164, title II, § 201, Jan. 10, 2006, 119 Stat. 3567; Pub. L. 110–457, title III, § 302(2), Dec. 23, 2008, 122 Stat. 5087; Pub. L. 113–4, title XII, § 1252(2), Mar. 7, 2013, 127 Stat. 156; Pub. L. 115–393, title III, § 301(b), Dec. 21, 2018, 132 Stat. 5272.)
 
 **Editorial Notes**
 
@@ -97,15 +97,15 @@ Section was formerly classified to section 14044 of Title 42, The Public Health 
 
 2013—Subsec. (c)(2). Pub. L. 113–4 substituted “$250,000 for each of the fiscal years 2014 through 2017” for “$1,000,000 for each of the fiscal years 2008 through 2011”.
 
-2008—Subsec. (c)(1). Pub. L. 110–457, § 302(2)(A), substituted “$1,500,000 for each of the fiscal years 2008 through 2011” for “$2,500,000 for each of the fiscal years 2006 and 2007” in two places.
+2008—Subsec. (c)(1). Pub. L. 110–457, § 302(2)(A), substituted “$1,500,000 for each of the fiscal years 2008 through 2011” for “$2,500,000 for each of the fiscal years 2006 and 2007” in two places.
 
-Subsec. (c)(2). Pub. L. 110–457, § 302(2)(B), which directed substitution of “2008 through 2011” for “2006 and 2007”, was executed by making the substitution for “2006 through 2007”, to reflect the probable intent of Congress.
+Subsec. (c)(2). Pub. L. 110–457, § 302(2)(B), which directed substitution of “2008 through 2011” for “2006 and 2007”, was executed by making the substitution for “2006 through 2007”, to reflect the probable intent of Congress.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Best Practices in Delivering Justice for Victims of Trafficking**
 
-Pub. L. 115–392, § 8, Dec. 21, 2018, 132 Stat. 5253, provided that:
+Pub. L. 115–392, § 8, Dec. 21, 2018, 132 Stat. 5253, provided that:
 
 > “Not later than 180 days after the date of enactment of this Act [Dec. 21, 2018], the Attorney General shall issue guidance to all offices and components of the Department of Justice—
 
@@ -117,7 +117,7 @@ Pub. L. 115–392, § 8, Dec. 21, 2018, 132 Stat. 5253, provided that:
 
 **Ending Government Partnerships With the Commercial Sex Industry**
 
-Pub. L. 115–392, § 19, Dec. 21, 2018, 132 Stat. 5258, provided that:
+Pub. L. 115–392, § 19, Dec. 21, 2018, 132 Stat. 5258, provided that:
 
 > “No Federal funds or resources may be used for the operation of, participation in, or partnership with any program that involves the provision of funding or resources to an organization that—
 
@@ -127,7 +127,7 @@ Pub. L. 115–392, § 19, Dec. 21, 2018, 132 Stat. 5258, provided that:
 
 **Recommendations To Prevent Sex Trafficking of Indian Women**
 
-Pub. L. 111–211, title II, § 264, July 29, 2010, 124 Stat. 2300, provided that: “Any report of the Secretary of Health and Human Services to Congress on the development of Indian victim services and victim advocate training programs shall include any recommendations that the Secretary determines to be necessary to prevent the sex trafficking of Indian women.”
+Pub. L. 111–211, title II, § 264, July 29, 2010, 124 Stat. 2300, provided that: “Any report of the Secretary of Health and Human Services to Congress on the development of Indian victim services and victim advocate training programs shall include any recommendations that the Secretary determines to be necessary to prevent the sex trafficking of Indian women.”
 
 **Executive Documents**
 
@@ -179,7 +179,7 @@ Sec. 6. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-## § 20702. Establishment of a grant program to develop, expand, and strengthen assistance programs for certain persons subject to trafficking
+## § 20702. Establishment of a grant program to develop, expand, and strengthen assistance programs for certain persons subject to trafficking
 
 **(a) Definitions** In this section:
 
@@ -403,7 +403,7 @@ There are authorized to be appropriated $8,000,000 to the Attorney General for e
 
 **(2)** recommendations, if any, regarding any legislative or administrative action the Comptroller General determines appropriate.
 
-(Pub. L. 109–164, title II, § 202, Jan. 10, 2006, 119 Stat. 3569; Pub. L. 110–457, title III, § 302(3), Dec. 23, 2008, 122 Stat. 5087; Pub. L. 113–4, title XII, § 1241(a), Mar. 7, 2013, 127 Stat. 149; Pub. L. 115–393, title III, § 301(e)(1)(A), (3), Dec. 21, 2018, 132 Stat. 5272; Pub. L. 117–348, title I, § 103, Jan. 5, 2023, 136 Stat. 6215.)
+(Pub. L. 109–164, title II, § 202, Jan. 10, 2006, 119 Stat. 3569; Pub. L. 110–457, title III, § 302(3), Dec. 23, 2008, 122 Stat. 5087; Pub. L. 113–4, title XII, § 1241(a), Mar. 7, 2013, 127 Stat. 149; Pub. L. 115–393, title III, § 301(e)(1)(A), (3), Dec. 21, 2018, 132 Stat. 5272; Pub. L. 117–348, title I, § 103, Jan. 5, 2023, 136 Stat. 6215.)
 
 **Editorial Notes**
 
@@ -419,9 +419,9 @@ Section was formerly classified to section 14044a of Title 42, The Public Health
 
 2023—Subsec. (b)(5). Pub. L. 117–348 added par. (5).
 
-2018—Pub. L. 115–393, § 301(e)(1)(A), amended section to read as it read on Mar 6, 2017. See 2013 Amendment note below. Prior to amendment, section consisted of subsecs. (a) to (d) relating to grant programs to develop, expand, and strengthen assistance programs for certain persons subject to trafficking.
+2018—Pub. L. 115–393, § 301(e)(1)(A), amended section to read as it read on Mar 6, 2017. See 2013 Amendment note below. Prior to amendment, section consisted of subsecs. (a) to (d) relating to grant programs to develop, expand, and strengthen assistance programs for certain persons subject to trafficking.
 
-Subsec. (i). Pub. L. 115–393, § 301(e)(3), substituted “2018 through 2021” for “2014 through 2017”.
+Subsec. (i). Pub. L. 115–393, § 301(e)(3), substituted “2018 through 2021” for “2014 through 2017”.
 
 2013—Pub. L. 113–4 temporarily amended section generally, so as to consist of subsecs. (a) to (j) relating to grant programs to develop, expand, and strengthen assistance programs for certain persons subject to trafficking. See Effective and Termination Dates of 2013 Amendment note below.
 
@@ -431,13 +431,13 @@ Subsec. (i). Pub. L. 115–393, § 301(e)(3), substituted “2018 through 2021
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–393, title III, § 301(e)(2), Dec. 21, 2018, 132 Stat. 5272, provided that: “The amendments made by paragraph (1) [amending this section and repealing provisions set out as a note under this section] shall take effect as though enacted on March 6, 2017.”
+Pub. L. 115–393, title III, § 301(e)(2), Dec. 21, 2018, 132 Stat. 5272, provided that: “The amendments made by paragraph (1) [amending this section and repealing provisions set out as a note under this section] shall take effect as though enacted on March 6, 2017.”
 
 **Effective and Termination Dates of 2013 Amendment**
 
-Pub. L. 113–4, title XII, § 1241(b), Mar. 7, 2013, 127 Stat. 153, which provided that the amendment made to this section by section 1241(a) of Pub. L. 113–4 would be effective during the 4-year period beginning on Mar. 7, 2013, was repealed by Pub. L. 115–393, title III, § 301(e)(1)(B), Dec. 21, 2018, 132 Stat. 5272.
+Pub. L. 113–4, title XII, § 1241(b), Mar. 7, 2013, 127 Stat. 153, which provided that the amendment made to this section by section 1241(a) of Pub. L. 113–4 would be effective during the 4-year period beginning on Mar. 7, 2013, was repealed by Pub. L. 115–393, title III, § 301(e)(1)(B), Dec. 21, 2018, 132 Stat. 5272.
 
-## § 20703. Victim-centered child human trafficking deterrence block grant program
+## § 20703. Victim-centered child human trafficking deterrence block grant program
 
 **(a) Grants authorized**
 
@@ -601,9 +601,9 @@ For purposes of carrying out this section, the Attorney General, in consultation
 
 **(1)** the term “child” means a person under the age of 18;
 
-**(2)** the term “child advocacy center” means a center created under subtitle A of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13001 et seq.); 1
+**(2)** the term “child advocacy center” means a center created under subtitle A of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13001 et seq.); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(3)** the term “child human trafficking” means 1 or more severe forms of trafficking in persons (as defined in section 7102 of title 22) involving a victim who is a child; and
 
@@ -635,13 +635,13 @@ For purposes of carrying out this section, the Attorney General, in consultation
 
 No grant funds under this section may be awarded or transferred to any entity unless such entity has demonstrated substantial experience providing services to victims of human trafficking or related populations (such as runaway and homeless youth), or employs staff specialized in the treatment of human trafficking victims.
 
-(Pub. L. 109–164, title II, § 203, Jan. 10, 2006, 119 Stat. 3570; Pub. L. 110–457, title III, § 302(4), Dec. 23, 2008, 122 Stat. 5087; Pub. L. 114–22, title I, § 103(a), May 29, 2015, 129 Stat. 231.)
+(Pub. L. 109–164, title II, § 203, Jan. 10, 2006, 119 Stat. 3570; Pub. L. 110–457, title III, § 302(4), Dec. 23, 2008, 122 Stat. 5087; Pub. L. 114–22, title I, § 103(a), May 29, 2015, 129 Stat. 231.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Victims of Child Abuse Act of 1990, referred to in subsec. (k)(2), is Pub. L. 101–647, title II, Nov. 29, 1990, 104 Stat. 4792. Subtitle A of the Act was classified generally to subchapter I (§ 13001 et seq.) of chapter 132 of Title 42, The Public Health and Welfare, prior to editorial reclassification as subchapter I (§ 20301 et seq.) of chapter 203 of this title. For complete classification of this Act to the Code, see Short Title of 1990 Act note set out under section 10101 of this title and Tables.
+The Victims of Child Abuse Act of 1990, referred to in subsec. (k)(2), is Pub. L. 101–647, title II, Nov. 29, 1990, 104 Stat. 4792. Subtitle A of the Act was classified generally to subchapter I (§ 13001 et seq.) of chapter 132 of Title 42, The Public Health and Welfare, prior to editorial reclassification as subchapter I (§ 20301 et seq.) of chapter 203 of this title. For complete classification of this Act to the Code, see Short Title of 1990 Act note set out under section 10101 of this title and Tables.
 
 **Codification**
 
@@ -653,7 +653,7 @@ Section was formerly classified to section 14044b of Title 42, The Public Health
 
 2008—Subsec. (g). Pub. L. 110–457 substituted “2008 through 2011” for “2006 and 2007”.
 
-## § 20704. Grant accountability
+## § 20704. Grant accountability
 
 **(a) Definition**
 
@@ -705,7 +705,7 @@ Each nonprofit organization that is awarded a covered grant and uses the procedu
 
 No amounts transferred to the Department of Justice under this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or the amendments made by this title,1 may be used by the Attorney General, or by any individual or organization awarded discretionary funds through a cooperative agreement under this title,1 or the amendments made by this title,1 to host or support any expenditure for conferences that uses more than $20,000 in Department funds, unless the Deputy Attorney General or such Assistant Attorney Generals, Directors, or principal deputies as the Deputy Attorney General may designate, provides prior written authorization that the funds may be expended to host a conference.
 
@@ -741,7 +741,7 @@ The Deputy Attorney General shall submit an annual report to the Committee on th
 
 **(ii)** prohibit the grant recipient from receiving another covered grant for not less than 5 years.
 
-(Pub. L. 114–22, title I, § 117, May 29, 2015, 129 Stat. 245.)
+(Pub. L. 114–22, title I, § 117, May 29, 2015, 129 Stat. 245.)
 
 **Editorial Notes**
 
@@ -761,7 +761,7 @@ Section was formerly classified to section 14044b–1 of Title 42, The Public He
 
 **Grant Accountability**
 
-Pub. L. 115–392, § 22, Dec. 21, 2018, 132 Stat. 5259, provided that:
+Pub. L. 115–392, § 22, Dec. 21, 2018, 132 Stat. 5259, provided that:
 
 > **“(a) Definitions.—** In this section—
 
@@ -833,7 +833,7 @@ Pub. L. 115–392, § 22, Dec. 21, 2018, 132 Stat. 5259, provided that:
 
 > **“(B)** the reason the covered official awarded the duplicate covered grants.”
 
-## § 20705. Enhancing State and local efforts to combat trafficking in persons
+## § 20705. Enhancing State and local efforts to combat trafficking in persons
 
 **(a) Establishment of grant program for law enforcement**
 
@@ -849,9 +849,9 @@ Pub. L. 115–392, § 22, Dec. 21, 2018, 132 Stat. 5259, provided that:
 
 **(E)** to educate and train law enforcement personnel in how to establish trust of persons subjected to trafficking and encourage cooperation with prosecution efforts; and
 
-**(F)** as appropriate, to designate at least 1 prosecutor for cases of severe forms of trafficking in persons (as such term is defined in section 7102(9) 1
+**(F)** as appropriate, to designate at least 1 prosecutor for cases of severe forms of trafficking in persons (as such term is defined in section 7102(9) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 22).
 
@@ -881,13 +881,13 @@ There are authorized to be appropriated to the Attorney General to carry out thi
 
 **(2)** recommendations, if any, regarding any legislative or administrative action the Comptroller General determines appropriate to improve the ability described in paragraph (1).
 
-(Pub. L. 109–164, title II, § 204, Jan. 10, 2006, 119 Stat. 3571; Pub. L. 110–457, title III, § 302(5), Dec. 23, 2008, 122 Stat. 5087; Pub. L. 113–4, title XII, § 1242, Mar. 7, 2013, 127 Stat. 153; Pub. L. 115–393, title III, § 301(c), Dec. 21, 2018, 132 Stat. 5272; Pub. L. 115–425, title I, § 122, Jan. 8, 2019, 132 Stat. 5479.)
+(Pub. L. 109–164, title II, § 204, Jan. 10, 2006, 119 Stat. 3571; Pub. L. 110–457, title III, § 302(5), Dec. 23, 2008, 122 Stat. 5087; Pub. L. 113–4, title XII, § 1242, Mar. 7, 2013, 127 Stat. 153; Pub. L. 115–393, title III, § 301(c), Dec. 21, 2018, 132 Stat. 5272; Pub. L. 115–425, title I, § 122, Jan. 8, 2019, 132 Stat. 5479.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 7102(9) of title 22, referred to in subsec. (a)(1)(F), was redesignated section 7102(11) of title 22 by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
+Section 7102(9) of title 22, referred to in subsec. (a)(1)(F), was redesignated section 7102(11) of title 22 by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
 
 **Codification**
 
@@ -899,19 +899,19 @@ Section was formerly classified to section 14044c of Title 42, The Public Health
 
 2018—Subsec. (e). Pub. L. 115–393 substituted “2021” for “2017”.
 
-2013—Subsec. (a)(1)(A). Pub. L. 113–4, § 1242(1)(A), struck out “, which involve United States citizens, or aliens admitted for permanent residence, and” after “related offenses”.
+2013—Subsec. (a)(1)(A). Pub. L. 113–4, § 1242(1)(A), struck out “, which involve United States citizens, or aliens admitted for permanent residence, and” after “related offenses”.
 
-Subsec. (a)(1)(B) to (E). Pub. L. 113–4, § 1242(1)(B)–(D), added subpar. (B), redesignated former subpars. (B) to (D) as (C) to (E), respectively, and in subpar. (C) inserted “and prioritize the investigations and prosecutions of those cases involving minor victims” after “commercial sex acts”.
+Subsec. (a)(1)(B) to (E). Pub. L. 113–4, § 1242(1)(B)–(D), added subpar. (B), redesignated former subpars. (B) to (D) as (C) to (E), respectively, and in subpar. (C) inserted “and prioritize the investigations and prosecutions of those cases involving minor victims” after “commercial sex acts”.
 
-Subsec. (d). Pub. L. 113–4, § 1242(3), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 113–4, § 1242(3), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 113–4, § 1242(2), (4), redesignated subsec. (d) as (e) and substituted “$10,000,000 for each of the fiscal years 2014 through 2017” for “$20,000,000 for each of the fiscal years 2008 through 2011”.
+Subsec. (e). Pub. L. 113–4, § 1242(2), (4), redesignated subsec. (d) as (e) and substituted “$10,000,000 for each of the fiscal years 2014 through 2017” for “$20,000,000 for each of the fiscal years 2008 through 2011”.
 
-Subsec. (f). Pub. L. 113–4, § 1242(5), added subsec. (f).
+Subsec. (f). Pub. L. 113–4, § 1242(5), added subsec. (f).
 
 2008—Subsec. (d). Pub. L. 110–457 substituted “$20,000,000 for each of the fiscal years 2008 through 2011” for “$25,000,000 for each of the fiscal years 2006 and 2007”.
 
-## § 20705a. Enhancing the ability of State, local, and Tribal child welfare agencies to identify and respond to children who are, or are at risk of being, victims of trafficking
+## § 20705a. Enhancing the ability of State, local, and Tribal child welfare agencies to identify and respond to children who are, or are at risk of being, victims of trafficking
 
 **(a) Grants to enhance child welfare services** The Secretary of Health and Human Services may make grants to eligible States to develop, improve, or expand programs that assist State, local, or Tribal child welfare agencies with identifying and responding to—
 
@@ -955,31 +955,31 @@ The term “Indian tribe” and “tribal organization” have the meanings give
 
 The term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands. Such term includes an Indian tribe, tribal organization, or tribal consortium with a plan approved under section 479B of the Social Security Act (42 U.S.C. 679c), or which is receiving funding to provide foster care under part E of title IV of such Act [42 U.S.C. 670 et seq.] pursuant to a cooperative agreement or contract with a State.
 
-(Pub. L. 109–164, title II, § 204A, as added Pub. L. 117–347, title I, § 104(a)(1), Jan. 5, 2023, 136 Stat. 6201.)
+(Pub. L. 109–164, title II, § 204A, as added Pub. L. 117–347, title I, § 104(a)(1), Jan. 5, 2023, 136 Stat. 6201.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (b)(2)(C), (4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part E of title IV of the Act is classified generally to part E (§ 670 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(2)(C), (4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part E of title IV of the Act is classified generally to part E (§ 670 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-## § 20706. Senior Policy Operating Group
+## § 20706. Senior Policy Operating Group
 
-Each Federal department or agency involved in grant activities related to combatting trafficking or providing services to persons subjected to trafficking inside the United States shall apprise the Senior Policy Operating Group established by section 105(f) 1
+Each Federal department or agency involved in grant activities related to combatting trafficking or providing services to persons subjected to trafficking inside the United States shall apprise the Senior Policy Operating Group established by section 105(f) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Victims of Trafficking and Violence Protection Act of 2000 (22 U.S.C. 7103(f)), under the procedures established by the Senior Policy Operating Group, of such activities of the department or agency to ensure that the activities are consistent with the purposes of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7101 et seq.).
 
-(Pub. L. 109–164, title II, § 206, Jan. 10, 2006, 119 Stat. 3571; Pub. L. 110–457, title II, § 233, Dec. 23, 2008, 122 Stat. 5074.)
+(Pub. L. 109–164, title II, § 206, Jan. 10, 2006, 119 Stat. 3571; Pub. L. 110–457, title II, § 233, Dec. 23, 2008, 122 Stat. 5074.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 105(f) of the Victims of Trafficking and Violence Protection Act of 2000, referred to in text, was redesignated 105(g) of the Victims of Trafficking and Violence Protection Act of 2000 by Pub. L. 113–4, title XII, § 1201(3), Mar. 7, 2013, 127 Stat. 136.
+Section 105(f) of the Victims of Trafficking and Violence Protection Act of 2000, referred to in text, was redesignated 105(g) of the Victims of Trafficking and Violence Protection Act of 2000 by Pub. L. 113–4, title XII, § 1201(3), Mar. 7, 2013, 127 Stat. 136.
 
-The Trafficking Victims Protection Act of 2000, referred to in text, is div. A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to chapter 78 (§ 7101 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of Title 22 and Tables.
+The Trafficking Victims Protection Act of 2000, referred to in text, is div. A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to chapter 78 (§ 7101 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of Title 22 and Tables.
 
 **Codification**
 
@@ -987,29 +987,29 @@ Section was formerly classified to section 14044d of Title 42, The Public Health
 
 **Amendments**
 
-2008—Pub. L. 110–457 struck out “, as the department or agency determines appropriate,” before “apprise the Senior Policy Operating Group”.
+2008—Pub. L. 110–457 struck out “, as the department or agency determines appropriate,” before “apprise the Senior Policy Operating Group”.
 
-## § 20707. Definitions
+## § 20707. Definitions
 
 In this chapter:
 
 **(1) Severe forms of trafficking in persons**
 
-The term “severe forms of trafficking in persons” has the meaning given the term in section 7102(9) 1
+The term “severe forms of trafficking in persons” has the meaning given the term in section 7102(9) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 22.
 
 **(2) Sex trafficking**
 
-The term “sex trafficking” has the meaning given the term in section 7102(10) <sup>1</sup> of title 22.
+The term “sex trafficking” has the meaning given the term in section 7102(10) <sup>1</sup> of title 22.
 
 **(3) Commercial sex act**
 
 The term “commercial sex act” has the meaning given the term in section 7102(4) of title 22.
 
-(Pub. L. 109–164, title II, § 207, Jan. 10, 2006, 119 Stat. 3572; Pub. L. 113–4, title XII, § 1212(b)(2)(C), Mar. 7, 2013, 127 Stat. 144.)
+(Pub. L. 109–164, title II, § 207, Jan. 10, 2006, 119 Stat. 3572; Pub. L. 113–4, title XII, § 1212(b)(2)(C), Mar. 7, 2013, 127 Stat. 144.)
 
 **Editorial Notes**
 
@@ -1017,7 +1017,7 @@ The term “commercial sex act” has the meaning given the term in section 7102
 
 This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 109–164, Jan. 10, 2006, 119 Stat. 3567, which is classified principally to this chapter. For complete classification of title II to the Code, see Tables.
 
-Section 7102(9) and (10) of title 22, referred to in pars. (1) and (2), was redesignated section 7102(11) and (12), respectively, of title 22 by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
+Section 7102(9) and (10) of title 22, referred to in pars. (1) and (2), was redesignated section 7102(11) and (12), respectively, of title 22 by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
 
 **Codification**
 
@@ -1025,21 +1025,21 @@ Section was formerly classified to section 14044e of Title 42, The Public Health
 
 **Amendments**
 
-2013—Par. (1). Pub. L. 113–4, § 1212(b)(2)(C)(i), substituted “section 7102(9)” for “section 7102(8)”.
+2013—Par. (1). Pub. L. 113–4, § 1212(b)(2)(C)(i), substituted “section 7102(9)” for “section 7102(8)”.
 
-Par. (2). Pub. L. 113–4, § 1212(b)(2)(C)(ii), substituted “section 7102(10)” for “section 7102(9)”.
+Par. (2). Pub. L. 113–4, § 1212(b)(2)(C)(ii), substituted “section 7102(10)” for “section 7102(9)”.
 
-Par. (3). Pub. L. 113–4, § 1212(b)(2)(C)(iii), substituted “section 7102(4)” for “section 7102(3)”.
+Par. (3). Pub. L. 113–4, § 1212(b)(2)(C)(iii), substituted “section 7102(4)” for “section 7102(3)”.
 
-## § 20708. Grants for specialized human trafficking training and technical assistance for service providers
+## § 20708. Grants for specialized human trafficking training and technical assistance for service providers
 
 **(a) Definitions** In this section:
 
 **(1) Act of trafficking**
 
-The term “act of trafficking” means an act or practice described in paragraph (9) 1
+The term “act of trafficking” means an act or practice described in paragraph (9) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of section 7102 of title 22.
 
@@ -1105,13 +1105,13 @@ Nothing in this section may be construed to restrict the ability of an eligible 
 
 There are authorized to be appropriated $10,000,000 for each of the fiscal years 2007 through 2011 to carry out the provisions of this section.
 
-(Pub. L. 109–164, title II, § 208, formerly Pub. L. 109–162, title I, § 111, Jan. 5, 2006, 119 Stat. 2984; Pub. L. 113–4, title XII, § 1212(b)(2)(D), Mar. 7, 2013, 127 Stat. 144; Pub. L. 115–392, § 10(a), Dec. 21, 2018, 132 Stat. 5254; renumbered § 208 of Pub. L. 109–164 and amended Pub. L. 117–347, title I, §§ 101(a), 106(a), Jan. 5, 2023, 136 Stat. 6200, 6204.)
+(Pub. L. 109–164, title II, § 208, formerly Pub. L. 109–162, title I, § 111, Jan. 5, 2006, 119 Stat. 2984; Pub. L. 113–4, title XII, § 1212(b)(2)(D), Mar. 7, 2013, 127 Stat. 144; Pub. L. 115–392, § 10(a), Dec. 21, 2018, 132 Stat. 5254; renumbered § 208 of Pub. L. 109–164 and amended Pub. L. 117–347, title I, §§ 101(a), 106(a), Jan. 5, 2023, 136 Stat. 6200, 6204.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Paragraph (9) of section 7102 of title 22, referred to in subsec. (a)(1), was redesignated par. (11) of section 7102 of title 22 by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
+Paragraph (9) of section 7102 of title 22, referred to in subsec. (a)(1), was redesignated par. (11) of section 7102 of title 22 by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
 
 **Codification**
 
@@ -1119,19 +1119,19 @@ Section was formerly classified to section 14044f of Title 42, The Public Health
 
 **Amendments**
 
-2023—Subsec. (c)(1). Pub. L. 117–347, § 101(a), inserted before semicolon at end “, which may include programs to build law enforcement capacity to identify and respond to human trafficking that are funded through the Office of Community Oriented Policing Services of the Department of Justice, such as the Interdiction for the Protection of Children Program”.
+2023—Subsec. (c)(1). Pub. L. 117–347, § 101(a), inserted before semicolon at end “, which may include programs to build law enforcement capacity to identify and respond to human trafficking that are funded through the Office of Community Oriented Policing Services of the Department of Justice, such as the Interdiction for the Protection of Children Program”.
 
-2018—Pub. L. 115–392, § 10(a)(1), substituted “specialized human trafficking training and technical assistance for service providers” for “law enforcement training programs” in section catchline.
+2018—Pub. L. 115–392, § 10(a)(1), substituted “specialized human trafficking training and technical assistance for service providers” for “law enforcement training programs” in section catchline.
 
-Subsec. (a)(2). Pub. L. 115–392, § 10(a)(2), substituted “means—” and subpars. (A) to (F) for “means a State or a local government.”
+Subsec. (a)(2). Pub. L. 115–392, § 10(a)(2), substituted “means—” and subpars. (A) to (F) for “means a State or a local government.”
 
-Subsec. (b). Pub. L. 115–392, § 10(a)(3), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Attorney General may award grants to eligible entities to provide training to State and local law enforcement personnel to identify and protect victims of trafficking.”
+Subsec. (b). Pub. L. 115–392, § 10(a)(3), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Attorney General may award grants to eligible entities to provide training to State and local law enforcement personnel to identify and protect victims of trafficking.”
 
-Subsec. (c)(4) to (8). Pub. L. 115–392, § 10(a)(4), added pars. (4) to (8).
+Subsec. (c)(4) to (8). Pub. L. 115–392, § 10(a)(4), added pars. (4) to (8).
 
 2013—Subsec. (a)(1). Pub. L. 113–4 substituted “paragraph (9)” for “paragraph (8)”.
 
-## § 20709. Combat Human Trafficking Act
+## § 20709. Combat Human Trafficking Act
 
 **(a) Short title**
 
@@ -1243,7 +1243,7 @@ Not later than 180 days after December 21, 2018, the Attorney General shall issu
 
 **(ii)** guidelines on assisting victims of human trafficking in identifying and receiving victim services.
 
-(Pub. L. 109–164, title II, § 209, formerly Pub. L. 114–22, title I, § 114, May 29, 2015, 129 Stat. 241; Pub. L. 115–393, title V, § 502, Dec. 21, 2018, 132 Stat. 5276; Pub. L. 115–425, title I, § 121(b), Jan. 8, 2019, 132 Stat. 5478; renumbered § 209 of Pub. L. 109–164, Pub. L. 117–347, title I, § 106(b)(1), Jan. 5, 2023, 136 Stat. 6204.)
+(Pub. L. 109–164, title II, § 209, formerly Pub. L. 114–22, title I, § 114, May 29, 2015, 129 Stat. 241; Pub. L. 115–393, title V, § 502, Dec. 21, 2018, 132 Stat. 5276; Pub. L. 115–425, title I, § 121(b), Jan. 8, 2019, 132 Stat. 5478; renumbered § 209 of Pub. L. 109–164, Pub. L. 117–347, title I, § 106(b)(1), Jan. 5, 2023, 136 Stat. 6204.)
 
 **Editorial Notes**
 
@@ -1255,23 +1255,23 @@ Section was formerly classified to section 14044g of Title 42, The Public Health
 
 **Amendments**
 
-2019—Subsec. (e)(1)(A). Pub. L. 115–425, § 121(b)(1), (2), substituted “number” for “rates” in introductory provisions and inserted “, noting the number of covered offenders” after “covered offense” wherever appearing.
+2019—Subsec. (e)(1)(A). Pub. L. 115–425, § 121(b)(1), (2), substituted “number” for “rates” in introductory provisions and inserted “, noting the number of covered offenders” after “covered offense” wherever appearing.
 
-Subsec. (e)(1)(A)(i). Pub. L. 115–425, § 121(b)(3), substituted “arrests” for “arrest”.
+Subsec. (e)(1)(A)(i). Pub. L. 115–425, § 121(b)(3), substituted “arrests” for “arrest”.
 
-Subsec. (e)(1)(A)(ii). Pub. L. 115–425, § 121(b)(4), substituted “prosecutions” for “prosecution”.
+Subsec. (e)(1)(A)(ii). Pub. L. 115–425, § 121(b)(4), substituted “prosecutions” for “prosecution”.
 
-Subsec. (e)(1)(A)(iii). Pub. L. 115–425, § 121(b)(5), substituted “convictions” for “conviction”.
+Subsec. (e)(1)(A)(iii). Pub. L. 115–425, § 121(b)(5), substituted “convictions” for “conviction”.
 
-2018—Subsec. (c)(1)(A)(iii), (iv). Pub. L. 115–393, § 502(1), added cls. (iii) and (iv).
+2018—Subsec. (c)(1)(A)(iii), (iv). Pub. L. 115–393, § 502(1), added cls. (iii) and (iv).
 
-Subsec. (f). Pub. L. 115–393, § 502(2), added subsec. (f).
+Subsec. (f). Pub. L. 115–393, § 502(2), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Using Existing Task Forces and Components To Target Offenders Who Exploit Children**
 
-Pub. L. 114–22, title I, § 110, May 29, 2015, 129 Stat. 239, provided that:
+Pub. L. 114–22, title I, § 110, May 29, 2015, 129 Stat. 239, provided that:
 
 > “Not later than 180 days after the date of enactment of this Act [May 29, 2015], the Attorney General shall ensure that—
 
@@ -1279,19 +1279,19 @@ Pub. L. 114–22, title I, § 110, May 29, 2015, 129 Stat. 239, provided that:
 
 > **“(2)** all components and task forces with jurisdiction to detect, investigate, and prosecute cases of child labor trafficking engage in activities, programs, or operations to increase the capacity of such components to deter and punish child labor trafficking.”
 
-## §§ 20709a to 20709c. Transferred
+## §§ 20709a to 20709c. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section 20709a, Pub. L. 115–392, § 7, Dec. 21, 2018, 132 Stat. 5253, which related to holistic training for Federal law enforcement officers and prosecutors, was redesignated as section 212 of Pub. L. 109–164 and transferred to section 20712 of this title.
+Section 20709a, Pub. L. 115–392, § 7, Dec. 21, 2018, 132 Stat. 5253, which related to holistic training for Federal law enforcement officers and prosecutors, was redesignated as section 212 of Pub. L. 109–164 and transferred to section 20712 of this title.
 
-Section 20709b, Pub. L. 115–393, title V, § 501, Dec. 21, 2018, 132 Stat. 5275, which related to encouraging a victim-centered approach to training of Federal law enforcement personnel, was redesignated as section 213 of Pub. L. 109–164 and transferred to section 20713 of this title.
+Section 20709b, Pub. L. 115–393, title V, § 501, Dec. 21, 2018, 132 Stat. 5275, which related to encouraging a victim-centered approach to training of Federal law enforcement personnel, was redesignated as section 213 of Pub. L. 109–164 and transferred to section 20713 of this title.
 
-Section 20709c, Pub. L. 115–393, title V, § 504, Dec. 21, 2018, 132 Stat. 5277, which related to training of tribal law enforcement and prosecutorial personnel, was redesignated as section 214 of Pub. L. 109–164 and transferred to section 20714 of this title.
+Section 20709c, Pub. L. 115–393, title V, § 504, Dec. 21, 2018, 132 Stat. 5277, which related to training of tribal law enforcement and prosecutorial personnel, was redesignated as section 214 of Pub. L. 109–164 and transferred to section 20714 of this title.
 
-## § 20710. Education and outreach to trafficking survivors
+## § 20710. Education and outreach to trafficking survivors
 
 The Attorney General shall make available, on the website of the Office of Juvenile Justice and Delinquency Prevention, a database for trafficking victim advocates, crisis hotline personnel, foster parents, law enforcement personnel, and crime survivors that contains information on—
 
@@ -1303,7 +1303,7 @@ The Attorney General shall make available, on the website of the Office of Juven
 
 **(4)** other services for trafficking survivors.
 
-(Pub. L. 109–164, title II, § 210, formerly Pub. L. 114–22, title I, § 119, May 29, 2015, 129 Stat. 247; renumbered § 210 of Pub. L. 109–164, Pub. L. 117–347, title I, § 106(b)(1), Jan. 5, 2023, 136 Stat. 6204.)
+(Pub. L. 109–164, title II, § 210, formerly Pub. L. 114–22, title I, § 119, May 29, 2015, 129 Stat. 247; renumbered § 210 of Pub. L. 109–164, Pub. L. 117–347, title I, § 106(b)(1), Jan. 5, 2023, 136 Stat. 6204.)
 
 **Editorial Notes**
 
@@ -1311,7 +1311,7 @@ The Attorney General shall make available, on the website of the Office of Juven
 
 Section was formerly classified as a note under section 5611 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 20711. Establishing a national strategy to combat human trafficking
+## § 20711. Establishing a national strategy to combat human trafficking
 
 **(a) In general**
 
@@ -1347,7 +1347,7 @@ The Attorney General shall implement and maintain a National Strategy for Combat
 
 **(4)** ensuring the collection of data required to be collected under clause (viii) of section 7103(d)(7)(Q) of title 22, as added by section 17 of the Abolish Human Trafficking Act of 2017,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 is sought;
 
@@ -1371,7 +1371,7 @@ is sought;
 
 **(3)** carrying out such other duties as the Attorney General determines necessary in connection with enhancing the understanding, prevention, and detection of, and response to, human trafficking.
 
-(Pub. L. 109–164, title II, § 211, formerly Pub. L. 114–22, title VI, § 606, May 29, 2015, 129 Stat. 260; Pub. L. 115–392, §§ 9, 15, Dec. 21, 2018, 132 Stat. 5254, 5256; renumbered § 211 of Pub. L. 109–164, Pub. L. 117–347, title I, § 106(b)(1), Jan. 5, 2023, 136 Stat. 6204.)
+(Pub. L. 109–164, title II, § 211, formerly Pub. L. 114–22, title VI, § 606, May 29, 2015, 129 Stat. 260; Pub. L. 115–392, §§ 9, 15, Dec. 21, 2018, 132 Stat. 5254, 5256; renumbered § 211 of Pub. L. 109–164, Pub. L. 117–347, title I, § 106(b)(1), Jan. 5, 2023, 136 Stat. 6204.)
 
 **Editorial Notes**
 
@@ -1387,17 +1387,17 @@ Section was formerly classified to section 14044h of Title 42, The Public Health
 
 **Amendments**
 
-2018—Subsec. (b)(1)(B) to (D). Pub. L. 115–392, § 15(1), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B) which read as follows: “the appointment of not fewer than 1 assistant United States attorney in each district dedicated to the prosecution of human trafficking cases or responsible for implementing the National Strategy;”.
+2018—Subsec. (b)(1)(B) to (D). Pub. L. 115–392, § 15(1), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B) which read as follows: “the appointment of not fewer than 1 assistant United States attorney in each district dedicated to the prosecution of human trafficking cases or responsible for implementing the National Strategy;”.
 
-Subsec. (b)(6). Pub. L. 115–392, § 9, added par. (6).
+Subsec. (b)(6). Pub. L. 115–392, § 9, added par. (6).
 
-Subsecs. (c), (d). Pub. L. 115–392, § 15(2), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 115–392, § 15(2), added subsecs. (c) and (d).
 
-## § 20712. Holistic training for Federal law enforcement officers and prosecutors
+## § 20712. Holistic training for Federal law enforcement officers and prosecutors
 
-All training required under section 20709 of this title and section 7105(c)(4) 1
+All training required under section 20709 of this title and section 7105(c)(4) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 22 shall—
 
@@ -1411,7 +1411,7 @@ of title 22 shall—
 
 **(3)** specify that any comprehensive approach to eliminating human trafficking shall include a demand reduction component.
 
-(Pub. L. 109–164, title II, § 212, formerly Pub. L. 115–392, § 7, Dec. 21, 2018, 132 Stat. 5253; renumbered § 212 of Pub. L. 109–164, Pub. L. 117–347, title I, § 106(b)(2), Jan. 5, 2023, 136 Stat. 6204.)
+(Pub. L. 109–164, title II, § 212, formerly Pub. L. 115–392, § 7, Dec. 21, 2018, 132 Stat. 5253; renumbered § 212 of Pub. L. 109–164, Pub. L. 117–347, title I, § 106(b)(2), Jan. 5, 2023, 136 Stat. 6204.)
 
 **Editorial Notes**
 
@@ -1423,7 +1423,7 @@ Section 7105(c)(4) of title 22, referred to in text, was in the original “sect
 
 Section was formerly classified to section 20709a of this title prior to renumbering by Pub. L. 117–347.
 
-## § 20713. Encouraging a victim-centered approach to training of Federal law enforcement personnel
+## § 20713. Encouraging a victim-centered approach to training of Federal law enforcement personnel
 
 **(a) Training curriculum improvements**
 
@@ -1449,7 +1449,7 @@ The Attorney General, Secretary of Homeland Security, and Secretary of Labor sha
 
 **(B)** members of task forces that participate in the investigation of human trafficking offenses.
 
-(Pub. L. 109–164, title II, § 213, formerly Pub. L. 115–393, title V, § 501, Dec. 21, 2018, 132 Stat. 5275; renumbered § 213 of Pub. L. 109–164, Pub. L. 117–347, title I, § 106(b)(3), Jan. 5, 2023, 136 Stat. 6204.)
+(Pub. L. 109–164, title II, § 213, formerly Pub. L. 115–393, title V, § 501, Dec. 21, 2018, 132 Stat. 5275; renumbered § 213 of Pub. L. 109–164, Pub. L. 117–347, title I, § 106(b)(3), Jan. 5, 2023, 136 Stat. 6204.)
 
 **Editorial Notes**
 
@@ -1459,11 +1459,11 @@ Section is comprised of section 213 of Pub. L. 109–164. Subsec. (c) of section
 
 Section was formerly classified to section 20907b of this title prior to renumbering by Pub. L. 117–347.
 
-## § 20714. Training of tribal law enforcement and prosecutorial personnel
+## § 20714. Training of tribal law enforcement and prosecutorial personnel
 
 The Attorney General, in consultation with the Director of the Office of Tribal Justice, shall carry out a program under which tribal law enforcement officials may receive technical assistance and training to pursue a victim-centered approach to investigating and prosecuting severe forms of trafficking in persons (as defined in section 7102 of title 22).
 
-(Pub. L. 109–164, title II, § 214, formerly Pub. L. 115–393, title V, § 504, Dec. 21, 2018, 132 Stat. 5277; renumbered § 214 of Pub. L. 109–164, Pub. L. 117–347, title I, § 106(b)(3), Jan. 5, 2023, 136 Stat. 6205.)
+(Pub. L. 109–164, title II, § 214, formerly Pub. L. 115–393, title V, § 504, Dec. 21, 2018, 132 Stat. 5277; renumbered § 214 of Pub. L. 109–164, Pub. L. 117–347, title I, § 106(b)(3), Jan. 5, 2023, 136 Stat. 6205.)
 
 **Editorial Notes**
 

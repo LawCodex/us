@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 22A—CONGRESSIONAL OFFICE FOR INTERNATIONAL LEADERSHIP
 
-## § 1151. Congressional Office for International Leadership
+## § 1151. Congressional Office for International Leadership
 
 **(a) Establishment**
 
@@ -133,7 +133,7 @@ This section shall take effect on December 21, 2000.
 
 Subsection (g) shall only apply to amounts which remain unexpended on and after the date the Board certifies to the Librarian of Congress that grants are ready to be made under the program established under this section.
 
-**(j) 1 [footnote: 1 So in original. No subsec. (i) has been enacted.] Eligible foreign state defined** In this section, the term “eligible foreign state” means—
+**(j) 1 [footnote: 1 So in original. No subsec. (i) has been enacted.] Eligible foreign state defined** In this section, the term “eligible foreign state” means—
 
 **(1)** any country specified in section 5801 of title 22;
 
@@ -141,7 +141,7 @@ Subsection (g) shall only apply to amounts which remain unexpended on and after 
 
 **(3)** any other country that is designated by the Board, except that the Board shall notify the Committees on Appropriations of the Senate and the House of Representatives of the designation at least 90 days before the designation is to take effect.
 
-(Pub. L. 106–554, § 1(a)(2) [title III, § 313], Dec. 21, 2000, 114 Stat. 2763, 2763A–120; Pub. L. 108–7, div. H, title I, § 1401(a), Feb. 20, 2003, 117 Stat. 382; Pub. L. 108–447, div. G, title I, §§ 1501, 1502, Dec. 8, 2004, 118 Stat. 3192; Pub. L. 109–13, div. A, title III, § 3402(b), May 11, 2005, 119 Stat. 272; Pub. L. 109–289, div. B, title II, § 20703(d)(6), as added Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 39; Pub. L. 111–68, div. A, title I, § 1601(a), (b), Oct. 1, 2009, 123 Stat. 2041; Pub. L. 117–103, div. I, title I, § 150(a), (b), Mar. 15, 2022, 136 Stat. 522, 523.)
+(Pub. L. 106–554, § 1(a)(2) [title III, § 313], Dec. 21, 2000, 114 Stat. 2763, 2763A–120; Pub. L. 108–7, div. H, title I, § 1401(a), Feb. 20, 2003, 117 Stat. 382; Pub. L. 108–447, div. G, title I, §§ 1501, 1502, Dec. 8, 2004, 118 Stat. 3192; Pub. L. 109–13, div. A, title III, § 3402(b), May 11, 2005, 119 Stat. 272; Pub. L. 109–289, div. B, title II, § 20703(d)(6), as added Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 39; Pub. L. 111–68, div. A, title I, § 1601(a), (b), Oct. 1, 2009, 123 Stat. 2041; Pub. L. 117–103, div. I, title I, § 150(a), (b), Mar. 15, 2022, 136 Stat. 522, 523.)
 
 **Editorial Notes**
 
@@ -151,75 +151,75 @@ Section 3011 of the 1999 Emergency Supplemental Appropriations Act, referred to 
 
 **Amendments**
 
-2022—Pub. L. 117–103, § 150(a)(1)(A), substituted “Congressional Office for International Leadership” for “Open World Leadership Center” in section catchline.
+2022—Pub. L. 117–103, § 150(a)(1)(A), substituted “Congressional Office for International Leadership” for “Open World Leadership Center” in section catchline.
 
-Subsec. (a)(1). Pub. L. 117–103, § 150(a)(1)(B), amended par. (1) generally. Prior to amendment, text read as follows: “There is established in the legislative branch of the Government a center to be known as the ‘Open World Leadership Center (the ‘Center’).”
+Subsec. (a)(1). Pub. L. 117–103, § 150(a)(1)(B), amended par. (1) generally. Prior to amendment, text read as follows: “There is established in the legislative branch of the Government a center to be known as the ‘Open World Leadership Center (the ‘Center’).”
 
-Subsec. (a)(2). Pub. L. 117–103, § 150(a)(1)(C), substituted “The Office” for “The Center” in introductory provisions.
+Subsec. (a)(2). Pub. L. 117–103, § 150(a)(1)(C), substituted “The Office” for “The Center” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 117–103, § 150(a)(2)(A), (b), substituted “the Office” for “the Center” and “political and civic leaders” for “political leaders”.
+Subsec. (b)(1). Pub. L. 117–103, § 150(a)(2)(A), (b), substituted “the Office” for “the Center” and “political and civic leaders” for “political leaders”.
 
-Subsec. (b)(2). Pub. L. 117–103, § 150(a)(2)(B), (b), substituted “the Office” for “the Center” in two places and “political and civic leaders” for “political leaders”.
+Subsec. (b)(2). Pub. L. 117–103, § 150(a)(2)(B), (b), substituted “the Office” for “the Center” in two places and “political and civic leaders” for “political leaders”.
 
-Subsec. (b)(3)(C)(iii). Pub. L. 117–103, § 150(a)(2)(C), substituted “the Office” for “the Center”.
+Subsec. (b)(3)(C)(iii). Pub. L. 117–103, § 150(a)(2)(C), substituted “the Office” for “the Center”.
 
-Subsec. (b)(4)(A). Pub. L. 117–103, § 150(a)(2)(D), substituted “the Office” for “the Center” in two places.
+Subsec. (b)(4)(A). Pub. L. 117–103, § 150(a)(2)(D), substituted “the Office” for “the Center” in two places.
 
-Subsec. (b)(4)(B)(iv). Pub. L. 117–103, § 150(a)(2)(E), substituted “the Office” for “the Center”.
+Subsec. (b)(4)(B)(iv). Pub. L. 117–103, § 150(a)(2)(E), substituted “the Office” for “the Center”.
 
-Subsec. (c)(1). Pub. L. 117–103, § 150(a)(3)(A), amended par. (1) generally. Prior to amendment, text read as follows: “There is established in the Treasury of the United States a trust fund to be known as the ‘Open World Leadership Center Trust Fund’ (the ‘Fund’) which shall consist of amounts which may be appropriated, credited, or transferred to it under this section.”
+Subsec. (c)(1). Pub. L. 117–103, § 150(a)(3)(A), amended par. (1) generally. Prior to amendment, text read as follows: “There is established in the Treasury of the United States a trust fund to be known as the ‘Open World Leadership Center Trust Fund’ (the ‘Fund’) which shall consist of amounts which may be appropriated, credited, or transferred to it under this section.”
 
-Subsec. (c)(2), (3)(B). Pub. L. 117–103, § 150(a)(3)(B), substituted “the Office” for “the Center” wherever appearing.
+Subsec. (c)(2), (3)(B). Pub. L. 117–103, § 150(a)(3)(B), substituted “the Office” for “the Center” wherever appearing.
 
-Subsec. (d). Pub. L. 117–103, § 150(a)(4), substituted “the Office” for “the Center” wherever appearing.
+Subsec. (d). Pub. L. 117–103, § 150(a)(4), substituted “the Office” for “the Center” wherever appearing.
 
-Subsec. (e). Pub. L. 117–103, § 150(a)(5), substituted “the Office” for “the Center” wherever appearing.
+Subsec. (e). Pub. L. 117–103, § 150(a)(5), substituted “the Office” for “the Center” wherever appearing.
 
-2009—Subsec. (a)(2)(A). Pub. L. 111–68, § 1601(a)(1), substituted “Members of the House of Representatives” for “members”.
+2009—Subsec. (a)(2)(A). Pub. L. 111–68, § 1601(a)(1), substituted “Members of the House of Representatives” for “members”.
 
-Subsec. (a)(2)(B). Pub. L. 111–68, § 1601(a)(2), substituted “Senators” for “members”.
+Subsec. (a)(2)(B). Pub. L. 111–68, § 1601(a)(2), substituted “Senators” for “members”.
 
-Subsec. (d). Pub. L. 111–68, § 1601(b), substituted “On behalf of the Board, the Librarian of Congress shall appoint” for “The Board shall appoint”.
+Subsec. (d). Pub. L. 111–68, § 1601(b), substituted “On behalf of the Board, the Librarian of Congress shall appoint” for “The Board shall appoint”.
 
-2007—Subsec. (a)(2)(E). Pub. L. 109–289, § 20703(d)(6), as added by Pub. L. 110–5, repealed Pub. L. 109–13, § 3402(b), and amended this section to read as if Pub. L. 109–13, § 3402(b), had not been enacted. See 2005 Amendment note below.
+2007—Subsec. (a)(2)(E). Pub. L. 109–289, § 20703(d)(6), as added by Pub. L. 110–5, repealed Pub. L. 109–13, § 3402(b), and amended this section to read as if Pub. L. 109–13, § 3402(b), had not been enacted. See 2005 Amendment note below.
 
-2005—Subsec. (a)(2)(E). Pub. L. 109–13, § 3402(b), which substituted “chair of the Committee on Appropriations of the House of Representatives (or another member of such Committee designated by the chair)” for “chair of the Subcommittee on Legislative Branch of the Committee on Appropriations of the House of Representatives”, was repealed by Pub. L. 109–289, § 20703(d)(6), as added by Pub. L. 110–5. See Construction of 2005 Amendment note below.
+2005—Subsec. (a)(2)(E). Pub. L. 109–13, § 3402(b), which substituted “chair of the Committee on Appropriations of the House of Representatives (or another member of such Committee designated by the chair)” for “chair of the Subcommittee on Legislative Branch of the Committee on Appropriations of the House of Representatives”, was repealed by Pub. L. 109–289, § 20703(d)(6), as added by Pub. L. 110–5. See Construction of 2005 Amendment note below.
 
-2004—Subsec. (a)(2). Pub. L. 108–447, § 1502(1), substituted “11 members” for “nine members” in introductory provisions.
+2004—Subsec. (a)(2). Pub. L. 108–447, § 1502(1), substituted “11 members” for “nine members” in introductory provisions.
 
-Subsec. (a)(2)(E). Pub. L. 108–447, § 1502(2), added subpar. (E).
+Subsec. (a)(2)(E). Pub. L. 108–447, § 1502(2), added subpar. (E).
 
-Subsec. (j)(3). Pub. L. 108–447, § 1501, added par. (3).
+Subsec. (j)(3). Pub. L. 108–447, § 1501, added par. (3).
 
-2003—Pub. L. 108–7, § 1401(a)(1), substituted “Open World Leadership Center” for “Center for Russian Leadership Development” in section catchline.
+2003—Pub. L. 108–7, § 1401(a)(1), substituted “Open World Leadership Center” for “Center for Russian Leadership Development” in section catchline.
 
-Subsec. (a)(1). Pub. L. 108–7, § 1401(a)(2)(A), substituted “a center to be known as the ‘Open World Leadership Center (the ‘Center’)” for “a center to be known as the ‘Center for Russian Leadership Development’ (the ‘Center’)”.
+Subsec. (a)(1). Pub. L. 108–7, § 1401(a)(2)(A), substituted “a center to be known as the ‘Open World Leadership Center (the ‘Center’)” for “a center to be known as the ‘Center for Russian Leadership Development’ (the ‘Center’)”.
 
-Subsec. (a)(2). Pub. L. 108–7, § 1401(a)(2)(B)(i), inserted “(the ‘Board’)” after “Board of Trustees” in introductory provisions.
+Subsec. (a)(2). Pub. L. 108–7, § 1401(a)(2)(B)(i), inserted “(the ‘Board’)” after “Board of Trustees” in introductory provisions.
 
-Subsec. (a)(2)(D). Pub. L. 108–7, § 1401(a)(2)(B)(ii), substituted “relations between the United States and eligible foreign states” for “United States and Russian relations”.
+Subsec. (a)(2)(D). Pub. L. 108–7, § 1401(a)(2)(B)(ii), substituted “relations between the United States and eligible foreign states” for “United States and Russian relations”.
 
-Subsec. (b)(1). Pub. L. 108–7, § 1401(a)(3)(A), substituted “eligible foreign states” for “Russia” and inserted “and to establish and administer a program to enable cultural leaders of Russia to gain significant, firsthand exposure to the operation of American cultural institutions” before period at end.
+Subsec. (b)(1). Pub. L. 108–7, § 1401(a)(3)(A), substituted “eligible foreign states” for “Russia” and inserted “and to establish and administer a program to enable cultural leaders of Russia to gain significant, firsthand exposure to the operation of American cultural institutions” before period at end.
 
-Subsec. (b)(2). Pub. L. 108–7, § 1401(a)(3)(B), substituted “nationals of eligible foreign states” for “Russian nationals”.
+Subsec. (b)(2). Pub. L. 108–7, § 1401(a)(3)(B), substituted “nationals of eligible foreign states” for “Russian nationals”.
 
-Subsec. (b)(3)(B). Pub. L. 108–7, § 1401(a)(3)(C)(i), substituted “3,500” for “3,000”.
+Subsec. (b)(3)(B). Pub. L. 108–7, § 1401(a)(3)(C)(i), substituted “3,500” for “3,000”.
 
-Subsec. (b)(3)(C)(i). Pub. L. 108–7, § 1401(a)(3)(C)(ii), substituted “an eligible foreign state” for “Russia”.
+Subsec. (b)(3)(C)(i). Pub. L. 108–7, § 1401(a)(3)(C)(ii), substituted “an eligible foreign state” for “Russia”.
 
-Subsec. (c)(1). Pub. L. 108–7, § 1401(a)(4)(A), substituted “Open World Leadership Center Trust Fund” for “Russian Leadership Development Center Trust Fund”.
+Subsec. (c)(1). Pub. L. 108–7, § 1401(a)(4)(A), substituted “Open World Leadership Center Trust Fund” for “Russian Leadership Development Center Trust Fund”.
 
-Subsec. (c)(3)(B). Pub. L. 108–7, § 1401(a)(4)(B), struck out “of Trustees of the Center” after “Board”.
+Subsec. (c)(3)(B). Pub. L. 108–7, § 1401(a)(4)(B), struck out “of Trustees of the Center” after “Board”.
 
-Subsec. (h)(2). Pub. L. 108–7, § 1401(a)(5), struck out “of Trustees of the Center” after “Board”.
+Subsec. (h)(2). Pub. L. 108–7, § 1401(a)(5), struck out “of Trustees of the Center” after “Board”.
 
-Subsec. (j). Pub. L. 108–7, § 1401(a)(6), added subsec. (j).
+Subsec. (j). Pub. L. 108–7, § 1401(a)(6), added subsec. (j).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-Pub. L. 117–103, div. I, title I, § 150(c), Mar. 15, 2022, 136 Stat. 523, provided that:
+Pub. L. 117–103, div. I, title I, § 150(c), Mar. 15, 2022, 136 Stat. 523, provided that:
 
 > “Any reference in any law, rule, or regulation—
 
@@ -229,7 +229,7 @@ Pub. L. 117–103, div. I, title I, § 150(c), Mar. 15, 2022, 136 Stat. 523, p
 
 **Effective Date of 2022 Amendment; Transition**
 
-Pub. L. 117–103, div. I, title I, § 150(d), Mar. 15, 2022, 136 Stat. 523, provided that:
+Pub. L. 117–103, div. I, title I, § 150(d), Mar. 15, 2022, 136 Stat. 523, provided that:
 
 > **“(1) Effective date.—** This section [amending this section and enacting provisions set out as a note under this section] and the amendments made by this section shall take effect on or after the later of October 1, 2021, or the date of the enactment of this Act [Mar. 15, 2022].
 
@@ -237,7 +237,7 @@ Pub. L. 117–103, div. I, title I, § 150(d), Mar. 15, 2022, 136 Stat. 523, p
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–68, div. A, title I, § 1601(c), Oct. 1, 2009, 123 Stat. 2041, provided that:
+Pub. L. 111–68, div. A, title I, § 1601(c), Oct. 1, 2009, 123 Stat. 2041, provided that:
 
 > “The amendments made by this subsection [probably means section 1601 of Pub. L. 111–68, which amended this section] shall apply with respect to—
 
@@ -247,15 +247,15 @@ Pub. L. 111–68, div. A, title I, § 1601(c), Oct. 1, 2009, 123 Stat. 2041, p
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–7, div. H, title I, § 1401(b), Feb. 20, 2003, 117 Stat. 382, provided that: “The amendments made by this section [amending this section] shall take effect 90 days after the date of enactment of this Act [Feb. 20, 2003].”
+Pub. L. 108–7, div. H, title I, § 1401(b), Feb. 20, 2003, 117 Stat. 382, provided that: “The amendments made by this section [amending this section] shall take effect 90 days after the date of enactment of this Act [Feb. 20, 2003].”
 
 **Construction of 2005 Amendment**
 
-Pub. L. 109–289, div. B, title II, § 20703(d)(6), as added by Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 39, provided that: “Section 3402 of the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Tsunami Relief, 2005 (Public Law 109–13; 119 Stat. 272) [amending this section and provisions set out as a note under section 132b of this title] is repealed, and each provision of law amended by such section is restored as if such section had not been enacted into law.”
+Pub. L. 109–289, div. B, title II, § 20703(d)(6), as added by Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 39, provided that: “Section 3402 of the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Tsunami Relief, 2005 (Public Law 109–13; 119 Stat. 272) [amending this section and provisions set out as a note under section 132b of this title] is repealed, and each provision of law amended by such section is restored as if such section had not been enacted into law.”
 
 **Russian Leadership Program**
 
-Pub. L. 106–31, title III, § 3011, May 21, 1999, 113 Stat. 93, as amended by Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 585], Nov. 29, 1999, 113 Stat. 1535, 1501A–117; Pub. L. 106–554, § 1(a)(2) [title III, § 310], Dec. 21, 2000, 114 Stat. 2763, 2763A–119, provided that:
+Pub. L. 106–31, title III, § 3011, May 21, 1999, 113 Stat. 93, as amended by Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 585], Nov. 29, 1999, 113 Stat. 1535, 1501A–117; Pub. L. 106–554, § 1(a)(2) [title III, § 310], Dec. 21, 2000, 114 Stat. 2763, 2763A–119, provided that:
 
 > **“(a) Purpose.—** It is the purpose of this section to establish, in accordance with the provisions of this section—
 

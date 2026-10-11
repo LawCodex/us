@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 49—FISH AND WILDLIFE CONSERVATION
 
-## § 2901. Congressional findings and declaration of purpose
+## § 2901. Congressional findings and declaration of purpose
 
 **(a) Findings** The Congress finds and declares the following:
 
@@ -35,15 +35,15 @@ retrieved: 2026-10-11
 
 **(2)** to encourage all Federal departments and agencies to utilize their statutory and administrative authority, to the maximum extent practicable and consistent with each agency’s statutory responsibilities, to conserve and to promote conservation of nongame fish and wildlife and their habitats, in furtherance of the provisions of this chapter.
 
-(Pub. L. 96–366, § 2, Sept. 29, 1980, 94 Stat. 1322.)
+(Pub. L. 96–366, § 2, Sept. 29, 1980, 94 Stat. 1322.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 96–366, § 1, Sept. 29, 1980, 94 Stat. 1322, provided: “That this Act [enacting this chapter] may be cited as the ‘Fish and Wildlife Conservation Act of 1980’.”
+Pub. L. 96–366, § 1, Sept. 29, 1980, 94 Stat. 1322, provided: “That this Act [enacting this chapter] may be cited as the ‘Fish and Wildlife Conservation Act of 1980’.”
 
-## § 2902. Definitions
+## § 2902. Definitions
 
 As used in this chapter—
 
@@ -63,9 +63,9 @@ As used in this chapter—
 
 **(B)** are not listed as endangered species or threatened species under the Endangered Species Act of 1973 (16 U.S.C. 1531–1543); and
 
-**(C)** are not marine mammals within the meaning of section 1362(5) 1
+**(C)** are not marine mammals within the meaning of section 1362(5) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -75,15 +75,15 @@ Such term does not include any domesticated species that has reverted to a feral
 
 **(8)** The term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, Guam, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands.
 
-(Pub. L. 96–366, § 3, Sept. 29, 1980, 94 Stat. 1323.)
+(Pub. L. 96–366, § 3, Sept. 29, 1980, 94 Stat. 1323.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Endangered Species Act of 1973, referred to in par. (6)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in par. (6)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-Section 1362(5) of this title, referred to in par. (6)(C), was redesignated section 1362(6), by Pub. L. 102–582, title IV, § 401(a), Nov. 2, 1992, 106 Stat. 4909.
+Section 1362(5) of this title, referred to in par. (6)(C), was redesignated section 1362(6), by Pub. L. 102–582, title IV, § 401(a), Nov. 2, 1992, 106 Stat. 4909.
 
 **Executive Documents**
 
@@ -91,7 +91,7 @@ Section 1362(5) of this title, referred to in par. (6)(C), was redesignated sect
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 2903. Conservation plans
+## § 2903. Conservation plans
 
 The conservation plan for any State must—
 
@@ -119,9 +119,9 @@ The conservation plan for any State must—
 
 **(10)** provide that the designated State agency consult, as appropriate, with Federal agencies, and other State agencies during the development, revision, and implementation of the plan, in order to minimize duplication of efforts and to ensure that the best information is available to all such agencies.
 
-(Pub. L. 96–366, § 4, Sept. 29, 1980, 94 Stat. 1323.)
+(Pub. L. 96–366, § 4, Sept. 29, 1980, 94 Stat. 1323.)
 
-## § 2904. Approval of conservation plans and certain nongame fish and wildlife conservation actions
+## § 2904. Approval of conservation plans and certain nongame fish and wildlife conservation actions
 
 **(a) Approval by Secretary of plans**
 
@@ -161,17 +161,17 @@ If the Secretary approves the conservation plan of any State under subsection (a
 
 **(2)** are substantial in character and design.
 
-(Pub. L. 96–366, § 5, Sept. 29, 1980, 94 Stat. 1324.)
+(Pub. L. 96–366, § 5, Sept. 29, 1980, 94 Stat. 1324.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Pittman-Robertson Wildlife Restoration Act, referred to in subsec. (b)(1), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, also known as the Federal Aid in Wildlife Restoration Act, which is classified generally to chapter 5B (§ 669 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
+The Pittman-Robertson Wildlife Restoration Act, referred to in subsec. (b)(1), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, also known as the Federal Aid in Wildlife Restoration Act, which is classified generally to chapter 5B (§ 669 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
 
-The Dingell-Johnson Sport Fish Restoration Act, referred to in subsec. (b)(2), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§ 777 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 777 of this title and Tables.
+The Dingell-Johnson Sport Fish Restoration Act, referred to in subsec. (b)(2), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§ 777 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 777 of this title and Tables.
 
-## § 2905. Reimbursement of State costs for developing, revising, and implementing conservation plans and implementing certain nongame fish and wildlife conservation actions
+## § 2905. Reimbursement of State costs for developing, revising, and implementing conservation plans and implementing certain nongame fish and wildlife conservation actions
 
 **(a) In general** Any State may apply to the Secretary for reimbursement under this section for costs incurred by the State for the following:
 
@@ -257,19 +257,19 @@ Subject to the limitations in subsection (c) and the terms and conditions impose
 
 **(C)** Any valuation determination made by the Secretary for purposes of this paragraph shall be final and conclusive.
 
-(Pub. L. 96–366, § 6, Sept. 29, 1980, 94 Stat. 1325.)
+(Pub. L. 96–366, § 6, Sept. 29, 1980, 94 Stat. 1325.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Pittman-Robertson Wildlife Restoration Act, referred to in subsecs. (a)(5) and (c)(5), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, also known as the Federal Aid in Wildlife Restoration Act, which is classified generally to chapter 5B (§ 669 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
+The Pittman-Robertson Wildlife Restoration Act, referred to in subsecs. (a)(5) and (c)(5), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, also known as the Federal Aid in Wildlife Restoration Act, which is classified generally to chapter 5B (§ 669 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
 
-The Dingell-Johnson Sport Fish Restoration Act, referred to in subsecs. (a)(5) and (c)(5), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§ 777 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 777 of this title and Tables.
+The Dingell-Johnson Sport Fish Restoration Act, referred to in subsecs. (a)(5) and (c)(5), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§ 777 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 777 of this title and Tables.
 
 16 U.S.C 777c(a)(1), referred to in subsecs. (a)(5) and (c)(5), probably is a reference to section 6(a)(1) of act Aug. 9, 1950, ch. 658, 64 Stat. 432, which is classified to section 777e(a)(1) of this title.
 
-## § 2906. Terms and conditions of reimbursement
+## § 2906. Terms and conditions of reimbursement
 
 Reimbursements made to the States under section 2905 of this title shall be subject to such terms and conditions as the Secretary shall by regulation prescribe as being necessary or appropriate to protect the interests of the United States. Such terms and conditions shall include, but not be limited to, the following:
 
@@ -277,9 +277,9 @@ Reimbursements made to the States under section 2905 of this title shall be subj
 
 **(2)** Upon a finding by the Secretary, after notice and opportunity for an agency hearing on the record, that any State has received reimbursement under section 2905 of this title for which it is not eligible, or has violated any term or condition imposed under this section, the State shall thereafter be ineligible to receive reimbursement under such section until restitution satisfactory to the Secretary is made, such violation ceases, or adverse effects resulting from such violation are remedied.
 
-(Pub. L. 96–366, § 7, Sept. 29, 1980, 94 Stat. 1327.)
+(Pub. L. 96–366, § 7, Sept. 29, 1980, 94 Stat. 1327.)
 
-## § 2907. Allocation of funds for administration and reimbursement of States
+## § 2907. Allocation of funds for administration and reimbursement of States
 
 **(a) In general**
 
@@ -309,7 +309,7 @@ except all sums allocated under this paragraph shall be adjusted equitably so th
 
 **(2)** That portion of any amount allocated to any State under subsection (b)(2) or (3) for any fiscal year and not disbursed to the State for such fiscal years under section 2905 of this title shall remain available for disbursement to the State under such section for the next succeeding fiscal year and if not disbursed for such succeeding fiscal year shall be available for disbursement by the Secretary, without regard to subsection (b), to the States to carry out the purposes of this chapter.
 
-(Pub. L. 96–366, § 8, Sept. 29, 1980, 94 Stat. 1328.)
+(Pub. L. 96–366, § 8, Sept. 29, 1980, 94 Stat. 1328.)
 
 **Executive Documents**
 
@@ -317,13 +317,13 @@ except all sums allocated under this paragraph shall be adjusted equitably so th
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 2908. Other Federal assistance and actions
+## § 2908. Other Federal assistance and actions
 
 The Secretary and the chief executive officer of any other appropriate Federal department or agency may loan to any State such personnel and equipment of the department or agency, share such scientific or other appropriate information, and provide such other assistance as the Secretary or officer determines appropriate for purposes of assisting any State to develop or revise conservation plans.
 
-(Pub. L. 96–366, § 9, Sept. 29, 1980, 94 Stat. 1329.)
+(Pub. L. 96–366, § 9, Sept. 29, 1980, 94 Stat. 1329.)
 
-## § 2909. Disclaimers
+## § 2909. Disclaimers
 
 Nothing in this chapter shall be construed as affecting—
 
@@ -333,9 +333,9 @@ Nothing in this chapter shall be construed as affecting—
 
 **(3)** the authority of the Secretary of Agriculture under the Act of March 2, 1931 (46 Stat. 1468–1469, 7 U.S.C. 426–426b).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Pub. L. 96–366, § 10, Sept. 29, 1980, 94 Stat. 1329.)
+(Pub. L. 96–366, § 10, Sept. 29, 1980, 94 Stat. 1329.)
 
 **Editorial Notes**
 
@@ -343,11 +343,11 @@ Nothing in this chapter shall be construed as affecting—
 
 Act of March 2, 1931, referred to in par. (3), is act Mar. 2, 1931, ch. 370, 46 Stat. 1468, which was formerly classified to sections 426 to 426b of Title 7, Agriculture. Sections 1 and 3 of the Act, which were formerly classified to sections 426 and 426b, respectively, of Title 7, were editorially reclassified as sections 8351 and 8352, respectively, of Title 7. Section 2 of the Act, which was formerly classified to section 426a of Title 7, was omitted from the Code as obsolete. For complete classification of this Act to the Code, see Tables.
 
-## § 2910. Authorization of appropriations
+## § 2910. Authorization of appropriations
 
 There are authorized to be appropriated for purposes of making reimbursements under section 2905 of this title to States for the development and implementation of conservation plans and for administration of this chapter under section 2907 of this title not to exceed $5,000,000 for each of fiscal years 1992, 1993, 1994, 1995, 1996, and 1997.
 
-(Pub. L. 96–366, § 11, Sept. 29, 1980, 94 Stat. 1329; Pub. L. 99–375, Aug. 7, 1986, 100 Stat. 803; Pub. L. 100–653, title VIII, § 801, Nov. 14, 1988, 102 Stat. 3833; Pub. L. 101–593, title I, § 106, Nov. 16, 1990, 104 Stat. 2955; Pub. L. 102–440, title III, § 301, Oct. 23, 1992, 106 Stat. 2234.)
+(Pub. L. 96–366, § 11, Sept. 29, 1980, 94 Stat. 1329; Pub. L. 99–375, Aug. 7, 1986, 100 Stat. 803; Pub. L. 100–653, title VIII, § 801, Nov. 14, 1988, 102 Stat. 3833; Pub. L. 101–593, title I, § 106, Nov. 16, 1990, 104 Stat. 2955; Pub. L. 102–440, title III, § 301, Oct. 23, 1992, 106 Stat. 2234.)
 
 **Editorial Notes**
 
@@ -361,17 +361,17 @@ There are authorized to be appropriated for purposes of making reimbursements un
 
 1986—Pub. L. 99–375 substituted “1985, 1986, 1987, and 1988” for “and 1985”.
 
-## § 2911. Study on most equitable and effective mechanism for funding State conservation plans; report to Congressional committees
+## § 2911. Study on most equitable and effective mechanism for funding State conservation plans; report to Congressional committees
 
 The Director of the United States Fish and Wildlife Service, in consultation with affected parties, shall conduct a comprehensive study to determine the most equitable and effective mechanism for funding State conservation plans and actions under this chapter, including, but not limited to, funding by means of an excise tax on appropriate items. On or before December 31, 1984, the Director shall report to the Committee on Environment and Public Works of the Senate and to the Committee on Merchant Marine and Fisheries of the House of Representatives the results of such study, together with his recommendations with respect thereto.
 
-(Pub. L. 96–366, § 12, Sept. 29, 1980, 94 Stat. 1330; Pub. L. 97–396, § 6, Dec. 31, 1982, 96 Stat. 2006.)
+(Pub. L. 96–366, § 12, Sept. 29, 1980, 94 Stat. 1330; Pub. L. 97–396, § 6, Dec. 31, 1982, 96 Stat. 2006.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1982—Pub. L. 97–396 struck out “, out of funds available for the administration of this chapter” after “shall conduct”, and substituted “December 31, 1984” for “the expiration of the 30-month period following the date of enactment of this Act [Sept. 29, 1980]” after “On or before”.
+1982—Pub. L. 97–396 struck out “, out of funds available for the administration of this chapter” after “shall conduct”, and substituted “December 31, 1984” for “the expiration of the 30-month period following the date of enactment of this Act [Sept. 29, 1980]” after “On or before”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -379,7 +379,7 @@ The Director of the United States Fish and Wildlife Service, in consultation wit
 
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-## § 2912. Federal conservation of migratory nongame birds
+## § 2912. Federal conservation of migratory nongame birds
 
 **(a) Conservation activities** The Secretary shall undertake the following research and conservation activities, in coordination with other Federal, State, international and private organizations, to assist in fulfilling his responsibilities to conserve migratory nongame birds under existing authorities provided by the Migratory Bird Treaty Act and Migratory Bird Conservation Act (16 U.S.C. 701–715) and section 8A(e) of the Endangered Species Act [16 U.S.C. 1537a(e)] implementing the Convention on Nature Protection and Wildlife Preservation in the Western Hemisphere:
 
@@ -397,17 +397,17 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
 Within one year after November 14, 1988, and at five-year intervals thereafter, the Secretary shall prepare a report that presents the results of the activities taken pursuant to subsection (a) of this section and that describes any efforts to carry out those conservation actions identified pursuant to paragraph (4) of subsection (a) of this section. Such reports shall be submitted to the Committee on Environment and Public Works of the United States Senate and to the Committee on Merchant Marine and Fisheries of the United States House of Representatives.
 
-(Pub. L. 96–366, § 13, as added Pub. L. 100–653, title VIII, § 802, Nov. 14, 1988, 102 Stat. 3833; amended Pub. L. 101–233, § 16(b), Dec. 13, 1989, 103 Stat. 1977.)
+(Pub. L. 96–366, § 13, as added Pub. L. 100–653, title VIII, § 802, Nov. 14, 1988, 102 Stat. 3833; amended Pub. L. 101–233, § 16(b), Dec. 13, 1989, 103 Stat. 1977.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Migratory Bird Treaty Act, referred to in subsec. (a), is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
+The Migratory Bird Treaty Act, referred to in subsec. (a), is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 710 of this title and Tables.
 
-The Migratory Bird Conservation Act, referred to in subsec. (a), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
+The Migratory Bird Conservation Act, referred to in subsec. (a), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (a)(3), (4), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (a)(3), (4), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 **Codification**
 

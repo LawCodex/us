@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 41—COOPERATIVE FORESTRY ASSISTANCE
 
-## § 2101. Findings, purpose, and policy
+## § 2101. Findings, purpose, and policy
 
 **(a) Findings** Congress finds that—
 
@@ -47,15 +47,15 @@ retrieved: 2026-10-11
 
 **(14)** the Department of Agriculture, through the coordinated efforts of its agencies with forestry responsibilities, cooperating with other Federal agencies, State foresters, and State political subdivisions, has the expertise and experience to assist private landowners in achieving individual goals and public benefits regarding forestry;
 
-**(15)** the products and services resulting from nonindustrial private forest land stewardship provide income and employment that contribute to the economic health and diversity of rural communities; 1
+**(15)** the products and services resulting from nonindustrial private forest land stewardship provide income and employment that contribute to the economic health and diversity of rural communities; 1
 
-<sup>1</sup>  See 1990 Amendment note below.
+<sup>1</sup> See 1990 Amendment note below.
 
-**(16)** sustainable agroforestry systems and tree planting in semiarid lands can improve environmental quality and maintain farm yields and income; and <sup>1</sup>
+**(16)** sustainable agroforestry systems and tree planting in semiarid lands can improve environmental quality and maintain farm yields and income; and <sup>1</sup>
 
-**(18)**  2
+**(18)** 2
 
-<sup>2</sup>  So in original. Probably should be “(17)”.
+<sup>2</sup> So in original. Probably should be “(17)”.
 
 the same forest resource supply, protection, and management issues that exist in the United States are also present on an international scale, and the forest and rangeland renewable resources of the world are threatened by deforestation due to conversion to agriculture of lands better suited to other purposes, over-grazing, over-harvesting, and other causes which pose a direct adverse threat to people, the global environment, and the world economy.<sup>1</sup>
 
@@ -81,7 +81,7 @@ the same forest resource supply, protection, and management issues that exist in
 
 **(10)** strengthening educational, technical, and financial assistance programs that provide assistance to owners of non-Federal forest lands in the United States, and forest lands in foreign countries,.3
 
-<sup>3</sup>  So in original.
+<sup>3</sup> So in original.
 
 **(c) Priorities** In allocating funds appropriated or otherwise made available under this chapter, the Secretary shall focus on the following national private forest conservation priorities, notwithstanding other priorities specified elsewhere in this chapter:
 
@@ -103,7 +103,7 @@ It is the policy of Congress that it is in the national interest for the Secreta
 
 This chapter shall be construed to complement the policies and direction under the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1600 et seq.).
 
-(Pub. L. 95–313, § 2, July 1, 1978, 92 Stat. 365; Pub. L. 101–513, title VI, § 611(b)(1), (2), formerly § 607(b)(1), (2), Nov. 5, 1990, 104 Stat. 2072, renumbered § 611(b)(1), (2), Pub. L. 102–574, § 2(a)(1), Oct. 29, 1992, 106 Stat. 4593; Pub. L. 101–624, title XII, § 1212, Nov. 28, 1990, 104 Stat. 3521; Pub. L. 110–234, title VIII, § 8001, May 22, 2008, 122 Stat. 1279; Pub. L. 110–246, § 4(a), title VIII, § 8001, June 18, 2008, 122 Stat. 1664, 2041.)
+(Pub. L. 95–313, § 2, July 1, 1978, 92 Stat. 365; Pub. L. 101–513, title VI, § 611(b)(1), (2), formerly § 607(b)(1), (2), Nov. 5, 1990, 104 Stat. 2072, renumbered § 611(b)(1), (2), Pub. L. 102–574, § 2(a)(1), Oct. 29, 1992, 106 Stat. 4593; Pub. L. 101–624, title XII, § 1212, Nov. 28, 1990, 104 Stat. 3521; Pub. L. 110–234, title VIII, § 8001, May 22, 2008, 122 Stat. 1279; Pub. L. 110–246, § 4(a), title VIII, § 8001, June 18, 2008, 122 Stat. 1664, 2041.)
 
 **Editorial Notes**
 
@@ -111,7 +111,7 @@ This chapter shall be construed to complement the policies and direction under t
 
 This chapter, referred to in subsecs. (b) to (d) and (f), was in the original “this Act”, meaning Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (f), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§ 1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
+The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (f), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§ 1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
 
 **Codification**
 
@@ -121,13 +121,13 @@ Pub. L. 101–513 and Pub. L. 101–624 were approved by the President after Con
 
 **Amendments**
 
-2008—Subsecs. (c) to (f). Pub. L. 110–246, § 8001, added subsecs. (c) and (d) and redesignated former subsecs. (c) and (d) as (e) and (f), respectively.
+2008—Subsecs. (c) to (f). Pub. L. 110–246, § 8001, added subsecs. (c) and (d) and redesignated former subsecs. (c) and (d) as (e) and (f), respectively.
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions which set forth Congressional findings and declarations, and statements of purpose and national interest, and which related to application with forest and rangeland renewable resources provisions. See Codification note above.
 
-Pub. L. 101–513, § 607(b)(1), directed the amendment of subsec. (a) by striking out “and” at end of par. (16), substituting “; and” for period at end of par. (17), and adding par. (18) at end. The amendment of pars. (16) and (17) was executed to pars. (15) and (16) to reflect the probable intent of Congress. See Codification note above.
+Pub. L. 101–513, § 607(b)(1), directed the amendment of subsec. (a) by striking out “and” at end of par. (16), substituting “; and” for period at end of par. (17), and adding par. (18) at end. The amendment of pars. (16) and (17) was executed to pars. (15) and (16) to reflect the probable intent of Congress. See Codification note above.
 
-Pub. L. 101–513, § 607(b)(2), which directed the amendment of subsec. (b) by inserting “in the United States, and forest lands in foreign countries,” after “non-Federal forest lands,” the first place it appears and in paragraph (10), was executed by making the insertion after “non-Federal forest lands” to reflect the probable intent of Congress. See Codification note above.
+Pub. L. 101–513, § 607(b)(2), which directed the amendment of subsec. (b) by inserting “in the United States, and forest lands in foreign countries,” after “non-Federal forest lands,” the first place it appears and in paragraph (10), was executed by making the insertion after “non-Federal forest lands” to reflect the probable intent of Congress. See Codification note above.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -137,19 +137,19 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Effective Date**
 
-Section 17, formerly section 14, of Pub. L. 95–313, as renumbered § 17 by Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525, provided that: “The provisions of this Act [see Short Title note below] shall become effective October 1, 1978.”
+Section 17, formerly section 14, of Pub. L. 95–313, as renumbered § 17 by Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525, provided that: “The provisions of this Act [see Short Title note below] shall become effective October 1, 1978.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–624, title XII, § 1201, Nov. 28, 1990, 104 Stat. 3521, provided that: “This title [enacting sections 582a–8, 1648, 1649, 1674a, 2103a to 2103c, 2106a, 2113, and 2114 of this title, amending this section and sections 1642, 1672, 1674, 2102 to 2106, and 2108 to 2110 of this title, and enacting provisions set out as notes under this section and sections 582a, 1601, 1642, and 2112 of this title] may be cited as the ‘Forest Stewardship Act of 1990’.”
+Pub. L. 101–624, title XII, § 1201, Nov. 28, 1990, 104 Stat. 3521, provided that: “This title [enacting sections 582a–8, 1648, 1649, 1674a, 2103a to 2103c, 2106a, 2113, and 2114 of this title, amending this section and sections 1642, 1672, 1674, 2102 to 2106, and 2108 to 2110 of this title, and enacting provisions set out as notes under this section and sections 582a, 1601, 1642, and 2112 of this title] may be cited as the ‘Forest Stewardship Act of 1990’.”
 
 **Short Title**
 
-Pub. L. 95–313, § 1, July 1, 1978, 92 Stat. 365, provided: “That this Act [enacting this chapter, amending sections 1510 and 1606 of this title, repealing sections 565, 566, 567, 568c to 568e, 594–1 to 594–5, 594a, and 1509 of this title, and sections 2651 to 2654 of Title 7, Agriculture, enacting provisions set out as notes under this section and section 1606 of this title, and repealing provisions set out as notes under sections 568c and 594–1 of this title] may be cited as the ‘Cooperative Forestry Assistance Act of 1978’.”
+Pub. L. 95–313, § 1, July 1, 1978, 92 Stat. 365, provided: “That this Act [enacting this chapter, amending sections 1510 and 1606 of this title, repealing sections 565, 566, 567, 568c to 568e, 594–1 to 594–5, 594a, and 1509 of this title, and sections 2651 to 2654 of Title 7, Agriculture, enacting provisions set out as notes under this section and section 1606 of this title, and repealing provisions set out as notes under sections 568c and 594–1 of this title] may be cited as the ‘Cooperative Forestry Assistance Act of 1978’.”
 
 **America the Beautiful Act of 1990**
 
-Pub. L. 101–624, title XII, subtitle C, Nov. 28, 1990, 104 Stat. 3553–3557, as amended by Pub. L. 102–237, title X, § 1018(e), Dec. 13, 1991, 105 Stat. 1905, provided that:
+Pub. L. 101–624, title XII, subtitle C, Nov. 28, 1990, 104 Stat. 3553–3557, as amended by Pub. L. 102–237, title X, § 1018(e), Dec. 13, 1991, 105 Stat. 1905, provided that:
 
 > **“SEC. 1261. SHORT TITLE.**
 
@@ -273,7 +273,7 @@ Pub. L. 101–624, title XII, subtitle C, Nov. 28, 1990, 104 Stat. 3553–3557, 
 
 **Tree Planting Initiative**
 
-Pub. L. 99–198, title XII, § 1256, as added by Pub. L. 101–624, title XIV, § 1441(a), Nov. 28, 1990, 104 Stat. 3601, set forth policy relating to maintenance, afforestation, and reforestation of forest lands and provisions relating to implementation of policy and agreements with State forestry agencies, prior to repeal by Pub. L. 104–127, title III, § 336(e), Apr. 4, 1996, 110 Stat. 1007.
+Pub. L. 99–198, title XII, § 1256, as added by Pub. L. 101–624, title XIV, § 1441(a), Nov. 28, 1990, 104 Stat. 3601, set forth policy relating to maintenance, afforestation, and reforestation of forest lands and provisions relating to implementation of policy and agreements with State forestry agencies, prior to repeal by Pub. L. 104–127, title III, § 336(e), Apr. 4, 1996, 110 Stat. 1007.
 
 **Transfer of Forest Tree Nursery Facilities to States**
 
@@ -381,7 +381,7 @@ Sec. 6. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-## § 2101a. State-wide assessment and strategies for forest resources
+## § 2101a. State-wide assessment and strategies for forest resources
 
 **(a) Assessment and strategies for forest resources** For a State to be eligible to receive funds under the authorities of this chapter, the State forester of that State or equivalent State official shall develop and submit to the Secretary, not later than two years after the date of enactment of the Food, Conservation, and Energy Act of 2008, the following:
 
@@ -441,7 +441,7 @@ In addition to the funds appropriated for a fiscal year pursuant to the authoriz
 
 The State forester or equivalent State official shall submit to the Secretary an annual report detailing how funds made available to the State under this chapter are being used.
 
-(Pub. L. 95–313, § 2A, as added Pub. L. 110–234, title VIII, § 8002, May 22, 2008, 122 Stat. 1280, and Pub. L. 110–246, § 4(a), title VIII, § 8002, June 18, 2008, 122 Stat. 1664, 2041; amended Pub. L. 113–79, title VIII, § 8101, Feb. 7, 2014, 128 Stat. 914; Pub. L. 115–334, title VIII, § 8101, Dec. 20, 2018, 132 Stat. 4837.)
+(Pub. L. 95–313, § 2A, as added Pub. L. 110–234, title VIII, § 8002, May 22, 2008, 122 Stat. 1280, and Pub. L. 110–246, § 4(a), title VIII, § 8002, June 18, 2008, 122 Stat. 1664, 2041; amended Pub. L. 113–79, title VIII, § 8101, Feb. 7, 2014, 128 Stat. 914; Pub. L. 115–334, title VIII, § 8101, Dec. 20, 2018, 132 Stat. 4837.)
 
 **Editorial Notes**
 
@@ -459,9 +459,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 2018—Subsec. (f)(1). Pub. L. 115–334 substituted “2023” for “2018”.
 
-2014—Subsec. (c)(5), (6). Pub. L. 113–79, § 8101(1), added par. (5) and redesignated former par. (5) as (6).
+2014—Subsec. (c)(5), (6). Pub. L. 113–79, § 8101(1), added par. (5) and redesignated former par. (5) as (6).
 
-Subsec. (f)(1). Pub. L. 113–79, § 8101(2), substituted “2018” for “2012”.
+Subsec. (f)(1). Pub. L. 113–79, § 8101(2), substituted “2018” for “2012”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -469,7 +469,7 @@ Subsec. (f)(1). Pub. L. 113–79, § 8101(2), substituted “2018” for “20
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 
-## § 2102. Rural forestry assistance
+## § 2102. Rural forestry assistance
 
 **(a) Assistance to forest landowners and others** The Secretary may provide financial, technical, educational, and related assistance to State foresters or equivalent State officials, and State extension directors, to enable such officials to provide technical information, advice, and related assistance to private forest land owners and managers, vendors, forest resource operators, forest resource professionals, public agencies, and individuals to enable such persons to carry out activities that are consistent with the purposes of this chapter, including—
 
@@ -527,7 +527,7 @@ In implementing this section, the Secretary shall cooperate with other Federal, 
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(Pub. L. 95–313, § 3, July 1, 1978, 92 Stat. 366; Pub. L. 101–624, title XII, § 1213, Nov. 28, 1990, 104 Stat. 3523.)
+(Pub. L. 95–313, § 3, July 1, 1978, 92 Stat. 366; Pub. L. 101–624, title XII, § 1213, Nov. 28, 1990, 104 Stat. 3523.)
 
 **Editorial Notes**
 
@@ -535,19 +535,19 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions which set forth Congressional findings relating to rural forestry assistance, related to financial, technical, and related assistance to State foresters or equivalent State officials, and authorized appropriations.
 
-## § 2103. Repealed. Pub. L. 113–79, title VIII, § 8001(a), Feb. 7, 2014, 128 Stat. 913
+## § 2103. Repealed. Pub. L. 113–79, title VIII, § 8001(a), Feb. 7, 2014, 128 Stat. 913
 
-Section, Pub. L. 95–313, § 4, as added Pub. L. 107–171, title VIII, § 8002(b), May 13, 2002, 116 Stat. 468, related to the establishment and implementation of a forest land enhancement program.
+Section, Pub. L. 95–313, § 4, as added Pub. L. 107–171, title VIII, § 8002(b), May 13, 2002, 116 Stat. 468, related to the establishment and implementation of a forest land enhancement program.
 
-A prior section 2103, Pub. L. 95–313, § 4, July 1, 1978, 92 Stat. 367; Pub. L. 101–624, title XII, §§ 1214, 1224(1), Nov. 28, 1990, 104 Stat. 3525, 3542; Pub. L. 104–127, title III, §§ 336(a)(2)(B), 373, Apr. 4, 1996, 110 Stat. 1005, 1015, related to forestry incentives program, prior to repeal by Pub. L. 107–171, title VIII, § 8001(a), May 13, 2002, 116 Stat. 468.
+A prior section 2103, Pub. L. 95–313, § 4, July 1, 1978, 92 Stat. 367; Pub. L. 101–624, title XII, §§ 1214, 1224(1), Nov. 28, 1990, 104 Stat. 3525, 3542; Pub. L. 104–127, title III, §§ 336(a)(2)(B), 373, Apr. 4, 1996, 110 Stat. 1005, 1015, related to forestry incentives program, prior to repeal by Pub. L. 107–171, title VIII, § 8001(a), May 13, 2002, 116 Stat. 468.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Purposes of Forest Land Enhancement Program**
 
-Pub. L. 107–171, title VIII, § 8002(a), May 13, 2002, 116 Stat. 468, which listed purposes for the establishment of a forest land enhancement program, was repealed by Pub. L. 113–79, title VIII, § 8001(b), Feb. 7, 2014, 128 Stat. 913.
+Pub. L. 107–171, title VIII, § 8002(a), May 13, 2002, 116 Stat. 468, which listed purposes for the establishment of a forest land enhancement program, was repealed by Pub. L. 113–79, title VIII, § 8001(b), Feb. 7, 2014, 128 Stat. 913.
 
-## § 2103a. Forest Stewardship Program
+## § 2103a. Forest Stewardship Program
 
 **(a) Establishment**
 
@@ -595,7 +595,7 @@ The Secretary, in consultation with State foresters or equivalent State official
 
 There are hereby authorized to be appropriated $25,000,000 for each of the fiscal years 1991 through 1995, and such sums as may be necessary thereafter, to carry out this section.
 
-(Pub. L. 95–313, § 5, as added Pub. L. 101–624, title XII, § 1215(2), Nov. 28, 1990, 104 Stat. 3525; amended Pub. L. 102–237, title X, § 1018(a)(1), Dec. 13, 1991, 105 Stat. 1905.)
+(Pub. L. 95–313, § 5, as added Pub. L. 101–624, title XII, § 1215(2), Nov. 28, 1990, 104 Stat. 3525; amended Pub. L. 102–237, title X, § 1018(a)(1), Dec. 13, 1991, 105 Stat. 1905.)
 
 **Editorial Notes**
 
@@ -607,15 +607,15 @@ A prior section 5 of Pub. L. 95–313 was renumbered section 8 and is classified
 
 1991—Subsec. (d). Pub. L. 102–237 substituted “State foresters” for “State Foresters” wherever appearing in introductory provisions.
 
-## § 2103b. Repealed. Pub. L. 113–79, title VIII, § 8002, Feb. 7, 2014, 128 Stat. 913
+## § 2103b. Repealed. Pub. L. 113–79, title VIII, § 8002, Feb. 7, 2014, 128 Stat. 913
 
-Section, Pub. L. 95–313, § 6, as added Pub. L. 108–148, title III, § 302, Dec. 3, 2003, 117 Stat. 1903; amended Pub. L. 110–234, title VII, § 7511(c)(35), May 22, 2008, 122 Stat. 1270; Pub. L. 110–246, § 4(a), title VII, § 7511(c)(35), June 18, 2008, 122 Stat. 1664, 2032, related to the establishment and implementation of watershed forestry assistance programs.
+Section, Pub. L. 95–313, § 6, as added Pub. L. 108–148, title III, § 302, Dec. 3, 2003, 117 Stat. 1903; amended Pub. L. 110–234, title VII, § 7511(c)(35), May 22, 2008, 122 Stat. 1270; Pub. L. 110–246, § 4(a), title VII, § 7511(c)(35), June 18, 2008, 122 Stat. 1664, 2032, related to the establishment and implementation of watershed forestry assistance programs.
 
-A prior section 2103b, Pub. L. 95–313, § 6, as added Pub. L. 101–624, title XII, § 1216, Nov. 28, 1990, 104 Stat. 3526, established the Stewardship Incentive Program, prior to repeal by Pub. L. 107–171, title VIII, § 8001(a), May 13, 2002, 116 Stat. 468.
+A prior section 2103b, Pub. L. 95–313, § 6, as added Pub. L. 101–624, title XII, § 1216, Nov. 28, 1990, 104 Stat. 3526, established the Stewardship Incentive Program, prior to repeal by Pub. L. 107–171, title VIII, § 8001(a), May 13, 2002, 116 Stat. 468.
 
 A prior section 6 of Pub. L. 95–313 was renumbered section 9 and is classified to section 2105 of this title.
 
-## § 2103c. Forest Legacy Program
+## § 2103c. Forest Legacy Program
 
 **(a) Establishment and purpose**
 
@@ -665,7 +665,7 @@ For Forest Legacy Program areas, the Secretary may delegate or assign management
 
 Under the terms of a conservation easement or other property interest acquired under subsection (b),1
 
-<sup>1</sup>  So in original. Probably should be “subsection (c),”.
+<sup>1</sup> So in original. Probably should be “subsection (c),”.
 
 the landowner shall be required to manage property in a manner that is consistent with the purposes for which the land was entered in the Forest Legacy Program and shall not convert such property to other uses. Hunting, fishing, hiking, and similar recreational uses shall not be considered inconsistent with the purposes of this program.
 
@@ -739,7 +739,7 @@ Amounts received by the Secretary under subparagraph (B)(ii) shall be credited t
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(Pub. L. 95–313, § 7, as added Pub. L. 101–624, title XII, § 1217, Nov. 28, 1990, 104 Stat. 3528; amended Pub. L. 102–237, title X, § 1018(a)(2), Dec. 13, 1991, 105 Stat. 1905; Pub. L. 104–127, title III, § 374, Apr. 4, 1996, 110 Stat. 1015; Pub. L. 108–108, title III, § 336, Nov. 10, 2003, 117 Stat. 1313.)
+(Pub. L. 95–313, § 7, as added Pub. L. 101–624, title XII, § 1217, Nov. 28, 1990, 104 Stat. 3528; amended Pub. L. 102–237, title X, § 1018(a)(2), Dec. 13, 1991, 105 Stat. 1905; Pub. L. 104–127, title III, § 374, Apr. 4, 1996, 110 Stat. 1015; Pub. L. 108–108, title III, § 336, Nov. 10, 2003, 117 Stat. 1313.)
 
 **Editorial Notes**
 
@@ -757,13 +757,13 @@ A prior section 7 of Pub. L. 95–313 was renumbered section 10 and is classifie
 
 1996—Subsecs. (*l*), (m). Pub. L. 104–127 added subsec. (*l*) and redesignated former subsec. (*l*) as (m).
 
-1991—Subsec. (d)(2). Pub. L. 102–237, § 1018(a)(2)(A), substituted “November 28, 1991” for “1 year after November 28, 1990”.
+1991—Subsec. (d)(2). Pub. L. 102–237, § 1018(a)(2)(A), substituted “November 28, 1991” for “1 year after November 28, 1990”.
 
-Subsec. (e). Pub. L. 102–237, § 1018(a)(2)(B), substituted “Not later than November 28, 1991, and in consultation with State Forest Stewardship Coordinating Committees established under section 2113(b)” for “Within 1 year from November 28, 1990, and in consultation with State Forest Stewardship Advisory Committees established under section 15(b)”.
+Subsec. (e). Pub. L. 102–237, § 1018(a)(2)(B), substituted “Not later than November 28, 1991, and in consultation with State Forest Stewardship Coordinating Committees established under section 2113(b)” for “Within 1 year from November 28, 1990, and in consultation with State Forest Stewardship Advisory Committees established under section 15(b)”.
 
-Subsec. (f). Pub. L. 102–237, § 1018(a)(2)(C), substituted “subsection (e)” for “subsection (d)”.
+Subsec. (f). Pub. L. 102–237, § 1018(a)(2)(C), substituted “subsection (e)” for “subsection (d)”.
 
-## § 2103d. Community forest and open space conservation program
+## § 2103d. Community forest and open space conservation program
 
 **(a) Definitions** In this section:
 
@@ -801,7 +801,7 @@ The Secretary shall establish a program, to be known as the “community forest 
 
 **(1) In general** The Secretary may award grants to eligible entities to acquire private forest land,1
 
-<sup>1</sup>  So in original. Probably should be “lands,”.
+<sup>1</sup> So in original. Probably should be “lands,”.
 
 to be owned in fee simple, that—
 
@@ -883,7 +883,7 @@ The Secretary may allocate not more than 10 percent of all funds made available 
 
 There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-(Pub. L. 95–313, § 7A, as added Pub. L. 110–234, title VIII, § 8003(b), May 22, 2008, 122 Stat. 1281, and Pub. L. 110–246, § 4(a), title VIII, § 8003(b), June 18, 2008, 122 Stat. 1664, 2043.)
+(Pub. L. 95–313, § 7A, as added Pub. L. 110–234, title VIII, § 8003(b), May 22, 2008, 122 Stat. 1281, and Pub. L. 110–246, § 4(a), title VIII, § 8003(b), June 18, 2008, 122 Stat. 1664, 2043.)
 
 **Editorial Notes**
 
@@ -899,7 +899,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Findings**
 
-Pub. L. 110–234, title VIII, § 8003(a), May 22, 2008, 122 Stat. 1281, and Pub. L. 110–246, § 4(a), title VIII, § 8003(a), June 18, 2008, 122 Stat. 1664, 2043, provided that:
+Pub. L. 110–234, title VIII, § 8003(a), May 22, 2008, 122 Stat. 1281, and Pub. L. 110–246, § 4(a), title VIII, § 8003(a), June 18, 2008, 122 Stat. 1664, 2043, provided that:
 
 > “Congress finds that—
 
@@ -919,7 +919,7 @@ Pub. L. 110–234, title VIII, § 8003(a), May 22, 2008, 122 Stat. 1281, and P
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.]
 
-## § 2104. Forest health protection
+## § 2104. Forest health protection
 
 **(a) In general** The Secretary may protect trees and forests and wood products, stored wood, and wood in use directly on the National Forest System and, in cooperation with others, on other lands in the United States, from natural and man-made causes, to—
 
@@ -995,13 +995,13 @@ There are authorized to be appropriated annually such sums as may be necessary t
 
 There are hereby authorized to be appropriated annually $10,000,000 to implement this subsection.
 
-(Pub. L. 95–313, § 8, formerly § 5, July 1, 1978, 92 Stat. 368; renumbered § 8 and amended Pub. L. 101–624, title XII, §§ 1215(1), 1218, Nov. 28, 1990, 104 Stat. 3525, 3531.)
+(Pub. L. 95–313, § 8, formerly § 5, July 1, 1978, 92 Stat. 368; renumbered § 8 and amended Pub. L. 101–624, title XII, §§ 1215(1), 1218, Nov. 28, 1990, 104 Stat. 3525, 3531.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (f)(2), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (f)(2), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Prior Provisions**
 
@@ -1015,15 +1015,15 @@ A prior section 8 of Pub. L. 95–313 was renumbered section 11 and is classifie
 
 **Stewardship End Result Contracting Projects**
 
-Pub. L. 107–63, title III, § 332, Nov. 5, 2001, 115 Stat. 471, provided in part that: “The authority to enter into stewardship and end result contracts provided to the Forest Service in accordance with [former] section 347 of title III of section 101(e) of division A of Public Law 105–277 [formerly set out as a note below] is hereby expanded to authorize the Forest Service to enter into an additional 28 contracts subject to the same terms and conditions as provided in that section: *Provided*, That of the additional contracts authorized by this section at least 9 shall be allocated to Region 1 and at least 3 to Region 6.”
+Pub. L. 107–63, title III, § 332, Nov. 5, 2001, 115 Stat. 471, provided in part that: “The authority to enter into stewardship and end result contracts provided to the Forest Service in accordance with [former] section 347 of title III of section 101(e) of division A of Public Law 105–277 [formerly set out as a note below] is hereby expanded to authorize the Forest Service to enter into an additional 28 contracts subject to the same terms and conditions as provided in that section: *Provided*, That of the additional contracts authorized by this section at least 9 shall be allocated to Region 1 and at least 3 to Region 6.”
 
-Similar provisions were contained in Pub. L. 106–291, title III, § 338, Oct. 11, 2000, 114 Stat. 998, as amended by Pub. L. 107–20, title II, § 2604, July 24, 2001, 115 Stat. 178.
+Similar provisions were contained in Pub. L. 106–291, title III, § 338, Oct. 11, 2000, 114 Stat. 998, as amended by Pub. L. 107–20, title II, § 2604, July 24, 2001, 115 Stat. 178.
 
-Pub. L. 105–277, div. A, § 101(e) [title III, § 347], Oct. 21, 1998, 112 Stat. 2681–231, 2681–298, as amended by Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 341], Nov. 29, 1999, 113 Stat. 1535, 1501A–201; Pub. L. 107–63, title III, § 332, Nov. 5, 2001, 115 Stat. 471; Pub. L. 108–7, div. F, title III, § 323, Feb. 20, 2003, 117 Stat. 275; Pub. L. 113–76, div. G, title IV, § 434, Jan. 17, 2014, 128 Stat. 346, which authorized the Forest Service and the Bureau of Land Management, until Sept. 30, 2014, to enter into stewardship contracting projects with private persons or other public or private entities to perform services to achieve certain land management goals, was repealed by Pub. L. 113–79, title VIII, § 8205(b), Feb. 7, 2014, 128 Stat. 921. See section 6591c of this title.
+Pub. L. 105–277, div. A, § 101(e) [title III, § 347], Oct. 21, 1998, 112 Stat. 2681–231, 2681–298, as amended by Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 341], Nov. 29, 1999, 113 Stat. 1535, 1501A–201; Pub. L. 107–63, title III, § 332, Nov. 5, 2001, 115 Stat. 471; Pub. L. 108–7, div. F, title III, § 323, Feb. 20, 2003, 117 Stat. 275; Pub. L. 113–76, div. G, title IV, § 434, Jan. 17, 2014, 128 Stat. 346, which authorized the Forest Service and the Bureau of Land Management, until Sept. 30, 2014, to enter into stewardship contracting projects with private persons or other public or private entities to perform services to achieve certain land management goals, was repealed by Pub. L. 113–79, title VIII, § 8205(b), Feb. 7, 2014, 128 Stat. 921. See section 6591c of this title.
 
 **Herger-Feinstein Quincy Library Group Forest Recovery**
 
-Pub. L. 105–277, div. A, § 101(e) [title IV], Oct. 21, 1998, 112 Stat. 2681–231, 2681–305, as amended by Pub. L. 107–171, title VI, § 6201(d)(5), May 13, 2002, 116 Stat. 419; Pub. L. 110–161, div. F, title IV, § 434, Dec. 26, 2007, 121 Stat. 2153; Pub. L. 111–8, div. E, title IV, § 428, Mar. 11, 2009, 123 Stat. 749, provided that:
+Pub. L. 105–277, div. A, § 101(e) [title IV], Oct. 21, 1998, 112 Stat. 2681–231, 2681–305, as amended by Pub. L. 107–171, title VI, § 6201(d)(5), May 13, 2002, 116 Stat. 419; Pub. L. 110–161, div. F, title IV, § 434, Dec. 26, 2007, 121 Stat. 2153; Pub. L. 111–8, div. E, title IV, § 428, Mar. 11, 2009, 123 Stat. 749, provided that:
 
 > **“Sec. 401. Pilot Project for Plumas, Lassen, and Tahoe National Forests to Implement Quincy Library Group Proposal.**
 
@@ -1143,9 +1143,9 @@ Pub. L. 105–277, div. A, § 101(e) [title IV], Oct. 21, 1998, 112 Stat. 2681
 
 > Section 401 of this title may be cited as the ‘Herger-Feinstein Quincy Library Group Forest Recovery Act’.”
 
-[Pub. L. 108–7, div. F, title III, § 338, Feb. 20, 2003, 117 Stat. 278, provided that: “Congress reaffirms its original intent that the Herger-Feinstein Quincy Library Group Forest Recovery Act of 1998 [Pub. L. 105–277, div. A, § 101(e) [title IV, § 401], set out above] be implemented, and hereby extends the expiration of the Quincy Library Group Act by 5 years.” ]
+[Pub. L. 108–7, div. F, title III, § 338, Feb. 20, 2003, 117 Stat. 278, provided that: “Congress reaffirms its original intent that the Herger-Feinstein Quincy Library Group Forest Recovery Act of 1998 [Pub. L. 105–277, div. A, § 101(e) [title IV, § 401], set out above] be implemented, and hereby extends the expiration of the Quincy Library Group Act by 5 years.” ]
 
-## § 2104a. Pest and Disease Revolving Loan Fund
+## § 2104a. Pest and Disease Revolving Loan Fund
 
 **(a) Definitions** In this section:
 
@@ -1249,7 +1249,7 @@ To be eligible to receive a loan from the Secretary under paragraph (1), in acco
 
 There are authorized to be appropriated to the Fund such sums as are necessary to carry out this section.
 
-(Pub. L. 110–234, title X, § 10205, May 22, 2008, 122 Stat. 1344; Pub. L. 110–246, § 4(a), title X, § 10205, June 18, 2008, 122 Stat. 1664, 2106.)
+(Pub. L. 110–234, title X, § 10205, May 22, 2008, 122 Stat. 1344; Pub. L. 110–246, § 4(a), title X, § 10205, June 18, 2008, 122 Stat. 1664, 2106.)
 
 **Editorial Notes**
 
@@ -1265,7 +1265,7 @@ Section was enacted as part of the Food, Conservation, and Energy Act of 2008, a
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 
-## § 2105. Urban and community forestry assistance
+## § 2105. Urban and community forestry assistance
 
 **(a) Findings** The Congress finds that—
 
@@ -1471,7 +1471,7 @@ Upon request of the Council, the Secretary is authorized to detail, on a reimbur
 
 There are hereby authorized to be appropriated $30,000,000 for each of the fiscal years 1991 through 1995, and such sums as may be necessary for each fiscal year thereafter, for the implementation of this section.
 
-(Pub. L. 95–313, § 9, formerly § 6, July 1, 1978, 92 Stat. 369; renumbered § 9 and amended Pub. L. 101–624, title XII, §§ 1215(1), 1219(a), Nov. 28, 1990, 104 Stat. 3525, 3533; Pub. L. 102–237, title X, § 1018(a)(3), Dec. 13, 1991, 105 Stat. 1905; Pub. L. 110–234, title VII, § 7511(c)(36), May 22, 2008, 122 Stat. 1271; Pub. L. 110–246, § 4(a), title VII, § 7511(c)(36), June 18, 2008, 122 Stat. 1664, 2032; Pub. L. 117–58, div. G, title III, § 70302(a)(1)(B), Nov. 15, 2021, 135 Stat. 1260.)
+(Pub. L. 95–313, § 9, formerly § 6, July 1, 1978, 92 Stat. 369; renumbered § 9 and amended Pub. L. 101–624, title XII, §§ 1215(1), 1219(a), Nov. 28, 1990, 104 Stat. 3525, 3533; Pub. L. 102–237, title X, § 1018(a)(3), Dec. 13, 1991, 105 Stat. 1905; Pub. L. 110–234, title VII, § 7511(c)(36), May 22, 2008, 122 Stat. 1271; Pub. L. 110–246, § 4(a), title VII, § 7511(c)(36), June 18, 2008, 122 Stat. 1664, 2032; Pub. L. 117–58, div. G, title III, § 70302(a)(1)(B), Nov. 15, 2021, 135 Stat. 1260.)
 
 **Editorial Notes**
 
@@ -1485,13 +1485,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2021—Subsec. (g). Pub. L. 117–58, in concluding provisions, substituted “subsection (e) of section 1601” for “section 1601(d)” and made technical amendment to reference in original act which appears in text as reference to section 1601 of this title.
 
-2008—Subsec. (g)(2)(A)(viii). Pub. L. 110–246, § 7511(c)(36), substituted “National Institute of Food and Agriculture” for “Extension Service”.
+2008—Subsec. (g)(2)(A)(viii). Pub. L. 110–246, § 7511(c)(36), substituted “National Institute of Food and Agriculture” for “Extension Service”.
 
-1991—Subsec. (g)(1)(C), (3)(E). Pub. L. 102–237, § 1018(a)(3)(A), (B), substituted “subsection (f)” for “subsection (e)”.
+1991—Subsec. (g)(1)(C), (3)(E). Pub. L. 102–237, § 1018(a)(3)(A), (B), substituted “subsection (f)” for “subsection (e)”.
 
-Subsec. (h)(1). Pub. L. 102–237, § 1018(a)(3)(C), substituted “subsection (g)” for “subsection (f)”.
+Subsec. (h)(1). Pub. L. 102–237, § 1018(a)(3)(C), substituted “subsection (g)” for “subsection (f)”.
 
-Subsec. (h)(2). Pub. L. 102–237, § 1018(a)(3)(D), substituted “subsection (g)(3)” for “subsection (f)(3)”.
+Subsec. (h)(2). Pub. L. 102–237, § 1018(a)(3)(D), substituted “subsection (g)(3)” for “subsection (f)(3)”.
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to Congressional findings concerning urban forestry assistance, financial, technical, and related assistance to State foresters or equivalent State officials to encourage planning of urban forestry programs, and authorization of appropriations.
 
@@ -1507,7 +1507,7 @@ Amendment by section 7511(c)(36) of Pub. L. 110–246 effective Oct. 1, 2009, se
 
 Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-## § 2106. Rural fire prevention and control
+## § 2106. Rural fire prevention and control
 
 **(a) Congressional findings** Congress finds that—
 
@@ -1529,9 +1529,9 @@ Advisory councils established after Jan. 5, 1973, to terminate not later than th
 
 **(2)** provide financial, technical, and related assistance to State foresters or equivalent State officials, and through them to other agencies and individuals, for the prevention, control, suppression, and prescribed use of fires on non-Federal forest lands and other non-Federal lands;
 
-**(3)** provide financial, technical, and related assistance to State foresters or equivalent State officials in cooperative efforts to organize, train, and equip local firefighting forces, including those of Indian tribes or other native groups, to prevent, control, and suppress fires threatening human lives, crops, livestock, farmsteads or other improvements, pastures, orchards, wildlife, rangeland, woodland, and other resources in rural areas. As used herein, the term “rural areas” shall have the meaning set out in the first clause of section 1926(a)(7) 1
+**(3)** provide financial, technical, and related assistance to State foresters or equivalent State officials in cooperative efforts to organize, train, and equip local firefighting forces, including those of Indian tribes or other native groups, to prevent, control, and suppress fires threatening human lives, crops, livestock, farmsteads or other improvements, pastures, orchards, wildlife, rangeland, woodland, and other resources in rural areas. As used herein, the term “rural areas” shall have the meaning set out in the first clause of section 1926(a)(7) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 7; and
 
@@ -1569,19 +1569,19 @@ There shall be established in the Treasury a special rural fire disaster fund th
 
 **(2)** the term “mobilization” means any activity in which one firefighting organization assists another that has requested assistance.
 
-(Pub. L. 95–313, § 10, formerly § 7, July 1, 1978, 92 Stat. 370; renumbered § 10 and amended Pub. L. 101–624, title XII, §§ 1215(1), 1220, Nov. 28, 1990, 104 Stat. 3525, 3539; Pub. L. 102–237, title X, § 1018(a)(4), Dec. 13, 1991, 105 Stat. 1905.)
+(Pub. L. 95–313, § 10, formerly § 7, July 1, 1978, 92 Stat. 370; renumbered § 10 and amended Pub. L. 101–624, title XII, §§ 1215(1), 1220, Nov. 28, 1990, 104 Stat. 3525, 3539; Pub. L. 102–237, title X, § 1018(a)(4), Dec. 13, 1991, 105 Stat. 1905.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Fire Prevention and Control Act of 1974, referred to in subsecs. (b) and (d), is Pub. L. 93–498, Oct. 29, 1974, 88 Stat. 1535, which is classified principally to chapter 49 (§ 2201 et seq.) of Title 15, Commerce and Trade. For complete classification of the Act to the Code, see Short Title note set out under section 2201 of Title 15 and Tables.
+The Federal Fire Prevention and Control Act of 1974, referred to in subsecs. (b) and (d), is Pub. L. 93–498, Oct. 29, 1974, 88 Stat. 1535, which is classified principally to chapter 49 (§ 2201 et seq.) of Title 15, Commerce and Trade. For complete classification of the Act to the Code, see Short Title note set out under section 2201 of Title 15 and Tables.
 
-Section 1926(a)(7) of title 7, referred to in subsec. (b)(3), was repealed by Pub. L. 107–171, title VI, § 6020(b)(1), May 13, 2002, 116 Stat. 363.
+Section 1926(a)(7) of title 7, referred to in subsec. (b)(3), was repealed by Pub. L. 107–171, title VI, § 6020(b)(1), May 13, 2002, 116 Stat. 363.
 
 **Codification**
 
-In subsec. (c), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Prior Provisions**
 
@@ -1591,11 +1591,11 @@ A prior section 10 of Pub. L. 95–313 was renumbered section 13 and is classifi
 
 1991—Subsec. (g)(2). Pub. L. 102–237 substituted “firefighting organization” for “fire fighting organization”.
 
-1990—Subsec. (b)(4). Pub. L. 101–624, § 1220(a), added par. (4).
+1990—Subsec. (b)(4). Pub. L. 101–624, § 1220(a), added par. (4).
 
-Subsec. (e). Pub. L. 101–624, § 1220(b), designated existing provisions as par. (1), inserted reference to paragraphs (1), (2), and (3) of subsec. (b), and added par. (2).
+Subsec. (e). Pub. L. 101–624, § 1220(b), designated existing provisions as par. (1), inserted reference to paragraphs (1), (2), and (3) of subsec. (b), and added par. (2).
 
-Subsec. (g). Pub. L. 101–624, § 1220(c), added subsec. (g).
+Subsec. (g). Pub. L. 101–624, § 1220(c), added subsec. (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1609,9 +1609,9 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 **Transfer of Functions**
 
-Functions vested in Secretary of Commerce pursuant to provisions of Federal Fire Prevention Control Act of 1974, 15 U.S.C. 2201 et seq., transferred to Director of Federal Emergency Management Agency pursuant to Reorg. Plan No. 3 of 1978, § 201, June 19, 1978, 43 F.R. 41944, 92 Stat. 3788, set out in the Appendix to Title 5, Government Organization and Employees, effective Apr. 1, 1979, as provided by Ex. Ord. No. 12127, §§ 1–101, 1–103(a), Mar. 31, 1979, 44 F.R. 19637.
+Functions vested in Secretary of Commerce pursuant to provisions of Federal Fire Prevention Control Act of 1974, 15 U.S.C. 2201 et seq., transferred to Director of Federal Emergency Management Agency pursuant to Reorg. Plan No. 3 of 1978, § 201, June 19, 1978, 43 F.R. 41944, 92 Stat. 3788, set out in the Appendix to Title 5, Government Organization and Employees, effective Apr. 1, 1979, as provided by Ex. Ord. No. 12127, §§ 1–101, 1–103(a), Mar. 31, 1979, 44 F.R. 19637.
 
-## § 2106a. Emergency reforestation assistance
+## § 2106a. Emergency reforestation assistance
 
 **(a) In general**
 
@@ -1635,9 +1635,9 @@ A person who has qualifying gross revenues in excess of $2,000,000 annually, as 
 
 **(3) Implementation** In implementing this section, the Secretary shall issue regulations—
 
-**(A)** defining the term “person” for the purposes of this section that shall conform, to the extent practicable, to the regulations defining the term “person” issued under section 1308 1
+**(A)** defining the term “person” for the purposes of this section that shall conform, to the extent practicable, to the regulations defining the term “person” issued under section 1308 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 7 (before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008);
 
@@ -1675,7 +1675,7 @@ of title 7 (before the amendment made by section 1603(a) of the Food, Conservati
 
 The Secretary shall use funds provided under this section to reimburse landowners for approved reforestation practices that were implemented before November 28, 1990. The Secretary shall not make reimbursements for reforestation practices that were implemented prior to September 1, 1989.
 
-(Pub. L. 101–624, title XII, § 1271, Nov. 28, 1990, 104 Stat. 3557; Pub. L. 102–237, title X, § 1018(f), Dec. 13, 1991, 105 Stat. 1906; Pub. L. 104–127, title III, § 336(a)(2)(E), Apr. 4, 1996, 110 Stat. 1005; Pub. L. 110–234, title I, § 1603(g)(5), May 22, 2008, 122 Stat. 1011; Pub. L. 110–246, § 4(a), title I, § 1603(g)(5), June 18, 2008, 122 Stat. 1664, 1740; Pub. L. 113–79, title I, § 1609(b)(1), Feb. 7, 2014, 128 Stat. 709; Pub. L. 115–334, title II, § 2301(d)(2)(E), Dec. 20, 2018, 132 Stat. 4554.)
+(Pub. L. 101–624, title XII, § 1271, Nov. 28, 1990, 104 Stat. 3557; Pub. L. 102–237, title X, § 1018(f), Dec. 13, 1991, 105 Stat. 1906; Pub. L. 104–127, title III, § 336(a)(2)(E), Apr. 4, 1996, 110 Stat. 1005; Pub. L. 110–234, title I, § 1603(g)(5), May 22, 2008, 122 Stat. 1011; Pub. L. 110–246, § 4(a), title I, § 1603(g)(5), June 18, 2008, 122 Stat. 1664, 1740; Pub. L. 113–79, title I, § 1609(b)(1), Feb. 7, 2014, 128 Stat. 709; Pub. L. 115–334, title II, § 2301(d)(2)(E), Dec. 20, 2018, 132 Stat. 4554.)
 
 **Editorial Notes**
 
@@ -1683,9 +1683,9 @@ The Secretary shall use funds provided under this section to reimburse landowner
 
 Section 1308 of title 7 (before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008), referred to in subsec. (c)(3)(A), means section 1308 of title 7 before the amendment made by section 1603(a) of Pub. L. 110–246, which amended the definition of “covered commodity” in section 1308(a)(1). Section 1603(b) of Pub. L. 110–246 amended section 1308 by, among other things, adding subsec. (a)(4) which defined “person” and striking out subsec. (e) which related to issuance of regulations defining “person”. The amendments made by section 1603 of Pub. L. 110–246 to section 1308 were effective May 22, 2008.
 
-The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (c)(3)(C), is Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to this chapter (§ 2101 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 2101 of this title and Tables.
+The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (c)(3)(C), is Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to this chapter (§ 2101 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 2101 of this title and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (c)(3)(C), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subchapter A of chapter 4 of subtitle D of title XII of the Act is classified generally to subpart A (§ 3839aa et seq.) of part IV of subchapter IV of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
+The Food Security Act of 1985, referred to in subsec. (c)(3)(C), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subchapter A of chapter 4 of subtitle D of title XII of the Act is classified generally to subpart A (§ 3839aa et seq.) of part IV of subchapter IV of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 
 **Codification**
 
@@ -1697,9 +1697,9 @@ Section was enacted as part of the Federal Stewardship Act of 1990 and also as p
 
 2018—Subsec. (c)(3)(C). Pub. L. 115–334 inserted “subchapter A of” before “chapter 4”.
 
-2014—Subsec. (c)(3)(A). Pub. L. 113–79, § 1609(b)(1), amended language inserted by Pub. L. 110–246, § 1603(g)(5). See 2008 Amendment note below.
+2014—Subsec. (c)(3)(A). Pub. L. 113–79, § 1609(b)(1), amended language inserted by Pub. L. 110–246, § 1603(g)(5). See 2008 Amendment note below.
 
-2008—Subsec. (c)(3)(A). Pub. L. 110–246, § 1603(g)(5), as amended by Pub. L. 113–79, § 1609(b)(1), inserted “(before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008)” after “section 1308 of title 7”.
+2008—Subsec. (c)(3)(A). Pub. L. 110–246, § 1603(g)(5), as amended by Pub. L. 113–79, § 1609(b)(1), inserted “(before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008)” after “section 1308 of title 7”.
 
 1996—Subsec. (c)(3)(C). Pub. L. 104–127 substituted “environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985” for “Agricultural Conservation Program established under section 590p(b) of this title”.
 
@@ -1715,11 +1715,11 @@ Amendment by Pub. L. 113–79 effective as if included in Pub. L. 110–246, see
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-## § 2106b. Use of money collected from States for fire suppression assistance
+## § 2106b. Use of money collected from States for fire suppression assistance
 
 Any money collected from the States for fire suppression assistance rendered by the Forest Service on non-Federal lands not in the vicinity of National Forest System lands shall on and after October 21, 1998, be used to reimburse the applicable appropriation and shall remain available until expended as the Secretary may direct in conducting activities authorized by 16 U.S.C. 2101 note, 2101–2110, 1606, and 2111.
 
-(Pub. L. 105–277, div. A, § 101(e) [title II], Oct. 21, 1998, 112 Stat. 2681–231, 2681–273.)
+(Pub. L. 105–277, div. A, § 101(e) [title II], Oct. 21, 1998, 112 Stat. 2681–231, 2681–273.)
 
 **Editorial Notes**
 
@@ -1735,9 +1735,9 @@ Provisions similar to this section were contained in the following prior appropr
 
 Pub. L. 105–83, title II, Nov. 14, 1997, 111 Stat. 1577.
 
-Pub. L. 104–208, div. A, title I, § 101(d) [title II], Sept. 30, 1996, 110 Stat. 3009–181, 3009–208.
+Pub. L. 104–208, div. A, title I, § 101(d) [title II], Sept. 30, 1996, 110 Stat. 3009–181, 3009–208.
 
-Pub. L. 104–134, title I, § 101(c) [title II], Apr. 26, 1996, 110 Stat. 1321–156, 1321–185; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+Pub. L. 104–134, title I, § 101(c) [title II], Apr. 26, 1996, 110 Stat. 1321–156, 1321–185; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
 Pub. L. 103–332, title II, Sept. 30, 1994, 108 Stat. 2524.
 
@@ -1753,7 +1753,7 @@ Pub. L. 101–121, title II, Oct. 23, 1989, 103 Stat. 727.
 
 Pub. L. 100–446, title II, Sept. 27, 1988, 102 Stat. 1810.
 
-## § 2106c. Enhanced community fire protection
+## § 2106c. Enhanced community fire protection
 
 **(a) Cooperative management related to wildfire threats** The Secretary may cooperate with State foresters and equivalent State officials in the management of lands in the United States for the following purposes:
 
@@ -1817,13 +1817,13 @@ In carrying out this section, the Secretary shall consult with the Administrator
 
 **(2)** such sums as are necessary for fiscal years thereafter.
 
-(Pub. L. 95–313, § 10A, as added Pub. L. 107–171, title VIII, § 8003(b), May 13, 2002, 116 Stat. 473.)
+(Pub. L. 95–313, § 10A, as added Pub. L. 107–171, title VIII, § 8003(b), May 13, 2002, 116 Stat. 473.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Findings for Enhanced Community Fire Protection**
 
-Pub. L. 107–171, title VIII, § 8003(a), May 13, 2002, 116 Stat. 473, provided that:
+Pub. L. 107–171, title VIII, § 8003(a), May 13, 2002, 116 Stat. 473, provided that:
 
 > “Congress finds the following:
 
@@ -1839,7 +1839,7 @@ Pub. L. 107–171, title VIII, § 8003(a), May 13, 2002, 116 Stat. 473, provid
 
 > **“(6)** There is a significant Federal interest in enhancing community protection from wildfire.”
 
-## § 2107. Financial, technical, and related assistance to States
+## § 2107. Financial, technical, and related assistance to States
 
 **(a) Development of State organizations for protection and management of non-Federal forest lands; scope of assistance; request by officials**
 
@@ -1871,25 +1871,25 @@ To ensure that data regarding forest lands are available for and effectively pre
 
 There are hereby authorized to be appropriated annually such sums as may be needed to implement this section.
 
-(Pub. L. 95–313, § 11, formerly § 8, July 1, 1978, 92 Stat. 371; renumbered § 11, Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525.)
+(Pub. L. 95–313, § 11, formerly § 8, July 1, 1978, 92 Stat. 371; renumbered § 11, Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (c)(2), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes (31 U.S.C. 529)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c)(2), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes (31 U.S.C. 529)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Prior Provisions**
 
 A prior section 11 of Pub. L. 95–313 was renumbered section 14 and is classified to section 2110 of this title.
 
-## § 2108. Consolidation of payments
+## § 2108. Consolidation of payments
 
 **(a) Request by State; excluded funds**
 
-To provide flexibility in funding activities authorized under this chapter, the Secretary may, upon the request of any State, consolidate the annual financial assistance payments to that State under this chapter, in lieu of functional cost sharing mechanisms, formulas, or agreements. However, consolidated payments shall not include money appropriated under section 2103 1
+To provide flexibility in funding activities authorized under this chapter, the Secretary may, upon the request of any State, consolidate the annual financial assistance payments to that State under this chapter, in lieu of functional cost sharing mechanisms, formulas, or agreements. However, consolidated payments shall not include money appropriated under section 2103 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title or money from any special Treasury fund established under this chapter.
 
@@ -1913,13 +1913,13 @@ The Secretary shall administer this section to ensure that the use of consolidat
 
 Subject to applicable appropriation Acts, the total annual amount of financial assistance to any participating State after July 1, 1978, shall not be less than the base amount of financial assistance provided to that State under all the provisions of law specified in section 2111 of this title during the fiscal year in which this chapter is enacted. However, financial assistance for special projects of two years or less duration shall not be included in determining the base amount for any participating State.
 
-(Pub. L. 95–313, § 12, formerly § 9, July 1, 1978, 92 Stat. 372; renumbered § 12 and amended Pub. L. 101–624, title XII, §§ 1215(1), 1224(2), Nov. 28, 1990, 104 Stat. 3525, 3542.)
+(Pub. L. 95–313, § 12, formerly § 9, July 1, 1978, 92 Stat. 372; renumbered § 12 and amended Pub. L. 101–624, title XII, §§ 1215(1), 1224(2), Nov. 28, 1990, 104 Stat. 3525, 3542.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2103 of this title, referred to in subsec. (a), was repealed and a new section 2103 enacted by Pub. L. 107–171, title VIII, §§ 8001(a), 8002(b), May 13, 2002, 116 Stat. 468. Section 2103, as enacted by Pub. L. 107–171, was subsequently repealed by Pub. L. 113–79, title VIII, § 8001(a), Feb. 7, 2014, 128 Stat. 913.
+Section 2103 of this title, referred to in subsec. (a), was repealed and a new section 2103 enacted by Pub. L. 107–171, title VIII, §§ 8001(a), 8002(b), May 13, 2002, 116 Stat. 468. Section 2103, as enacted by Pub. L. 107–171, was subsequently repealed by Pub. L. 113–79, title VIII, § 8001(a), Feb. 7, 2014, 128 Stat. 913.
 
 **Prior Provisions**
 
@@ -1927,9 +1927,9 @@ A prior section 12 of Pub. L. 95–313, which amended section 1606 of this title
 
 **Amendments**
 
-1990—Subsec. (f). Pub. L. 101–624, § 1224(2), made technical amendment to reference to section 2111 of this title to reflect renumbering of corresponding section of original act.
+1990—Subsec. (f). Pub. L. 101–624, § 1224(2), made technical amendment to reference to section 2111 of this title to reflect renumbering of corresponding section of original act.
 
-## § 2109. General provisions
+## § 2109. General provisions
 
 **(a) Cooperative and coordinating requirements for implementation of programs, etc.** In implementing this chapter, the Secretary shall, to the maximum extent practicable—
 
@@ -1971,13 +1971,13 @@ This chapter shall be construed as supplementing all other laws relating to the 
 
 **(h) Additional assistance**
 
-In addition to the authority provided elsewhere in this chapter, the Secretary may provide assistance to other countries with respect to the activities described in paragraphs (1) through (10) of section 2102(b) of this title, paragraphs (1) through (5) of section 2104(b) 1
+In addition to the authority provided elsewhere in this chapter, the Secretary may provide assistance to other countries with respect to the activities described in paragraphs (1) through (10) of section 2102(b) of this title, paragraphs (1) through (5) of section 2104(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, and paragraphs (1) through (3) of section 2105(b) of this title. For the purposes of providing assistance to other countries under this subsection, the term “non-Federal forest land” shall mean any forest land and related renewable natural resources in such countries. In providing the assistance authorized under this subsection, the Secretary shall coordinate with other Federal officials, departments, agencies, or international organizations, as the President may direct. The references to “State foresters or equivalent State officials” in this chapter shall not apply to the assistance provided by the Secretary to other countries under this subsection.
 
-(Pub. L. 95–313, § 13, formerly § 10, July 1, 1978, 92 Stat. 373; Pub. L. 101–513, title VI, § 611(b)(3), formerly § 607(b)(3), Nov. 5, 1990, 104 Stat. 2072, renumbered § 611(b)(3), Pub. L. 102–574, § 2(a)(1), Oct. 29, 1992, 106 Stat. 4593; renumbered § 13 and amended Pub. L. 101–624, title XII, §§ 1215(1), 1224(3), Nov. 28, 1990, 104 Stat. 3525, 3542; Pub. L. 110–234, title VIII, § 8004, May 22, 2008, 122 Stat. 1284; Pub. L. 110–246, § 4(a), title VIII, § 8004, June 18, 2008, 122 Stat. 1664, 2045.)
+(Pub. L. 95–313, § 13, formerly § 10, July 1, 1978, 92 Stat. 373; Pub. L. 101–513, title VI, § 611(b)(3), formerly § 607(b)(3), Nov. 5, 1990, 104 Stat. 2072, renumbered § 611(b)(3), Pub. L. 102–574, § 2(a)(1), Oct. 29, 1992, 106 Stat. 4593; renumbered § 13 and amended Pub. L. 101–624, title XII, §§ 1215(1), 1224(3), Nov. 28, 1990, 104 Stat. 3525, 3542; Pub. L. 110–234, title VIII, § 8004, May 22, 2008, 122 Stat. 1284; Pub. L. 110–246, § 4(a), title VIII, § 8004, June 18, 2008, 122 Stat. 1664, 2045.)
 
 **Editorial Notes**
 
@@ -1995,9 +1995,9 @@ A prior section 13 of Pub. L. 95–313 was renumbered section 16 and is classifi
 
 **Amendments**
 
-2008—Subsec. (d)(1). Pub. L. 110–246, § 8004, substituted “the Federated States of Micronesia, the Republic of the Marshall Islands, the Republic of Palau,” for “the Trust Territory of the Pacific Islands,”.
+2008—Subsec. (d)(1). Pub. L. 110–246, § 8004, substituted “the Federated States of Micronesia, the Republic of the Marshall Islands, the Republic of Palau,” for “the Trust Territory of the Pacific Islands,”.
 
-1990—Subsec. (g). Pub. L. 101–624, § 1224(3), made technical amendment to reference to section 2111 of this title to reflect renumbering of corresponding section of original act.
+1990—Subsec. (g). Pub. L. 101–624, § 1224(3), made technical amendment to reference to section 2111 of this title to reflect renumbering of corresponding section of original act.
 
 Subsec. (h). Pub. L. 101–513, which directed amendment of section 12 of Pub. L. 95–313 by adding a new subsec. (h), was executed to this section to reflect the probable intent of Congress.
 
@@ -2007,7 +2007,7 @@ Subsec. (h). Pub. L. 101–513, which directed amendment of section 12 of Pub. L
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-## § 2109a. State and private forest landscape-scale restoration program
+## § 2109a. State and private forest landscape-scale restoration program
 
 **(a) Purpose**
 
@@ -2089,9 +2089,9 @@ As a condition of receiving a grant under this section, the Secretary shall requ
 
 **(2)** landscape areas designated for insect and disease treatments under section 6591a of this title;
 
-**(3)** good neighbor authority under section 2113 1
+**(3)** good neighbor authority under section 2113 1
 
-<sup>1</sup>  So in original. See section 2113a of this title.
+<sup>1</sup> So in original. See section 2113a of this title.
 
 of this title;
 
@@ -2127,7 +2127,7 @@ The Fund shall consist of such amounts as are appropriated to the Fund under par
 
 There is authorized to be appropriated to the Fund $20,000,000 for each fiscal year beginning with the first full fiscal year after December 20, 2018, through fiscal year 2023, to remain available until expended.
 
-(Pub. L. 95–313, § 13A, as added Pub. L. 110–234, title VIII, § 8007, May 22, 2008, 122 Stat. 1285, and Pub. L. 110–246, § 4(a), title VIII, § 8007, June 18, 2008, 122 Stat. 1664, 2047; amended Pub. L. 115–334, title VIII, § 8102(a), Dec. 20, 2018, 132 Stat. 4837.)
+(Pub. L. 95–313, § 13A, as added Pub. L. 110–234, title VIII, § 8007, May 22, 2008, 122 Stat. 1285, and Pub. L. 110–246, § 4(a), title VIII, § 8007, June 18, 2008, 122 Stat. 1664, 2047; amended Pub. L. 115–334, title VIII, § 8102(a), Dec. 20, 2018, 132 Stat. 4837.)
 
 **Editorial Notes**
 
@@ -2145,15 +2145,15 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 
-## § 2109b. Repealed. Pub. L. 115–334, title VIII, § 8102(b)(1), Dec. 20, 2018, 132 Stat. 4839
+## § 2109b. Repealed. Pub. L. 115–334, title VIII, § 8102(b)(1), Dec. 20, 2018, 132 Stat. 4839
 
-Section, Pub. L. 95–313, § 13B, as added Pub. L. 110–234, title VIII, § 8008, May 22, 2008, 122 Stat. 1286, and Pub. L. 110–246, § 4(a), title VIII, § 8008, June 18, 2008, 122 Stat. 1664, 2047, related to competitive allocation of funds for cooperative forest innovation partnership projects.
+Section, Pub. L. 95–313, § 13B, as added Pub. L. 110–234, title VIII, § 8008, May 22, 2008, 122 Stat. 1286, and Pub. L. 110–246, § 4(a), title VIII, § 8008, June 18, 2008, 122 Stat. 1664, 2047, related to competitive allocation of funds for cooperative forest innovation partnership projects.
 
-## § 2110. Statement of limitation
+## § 2110. Statement of limitation
 
 This chapter shall not authorize the Federal Government to regulate the use of private land or to deprive owners of land of their rights to property or to income from the sale of property, unless such property rights are voluntarily conveyed or limited by contract or other agreement. This chapter does not diminish in any way the rights and responsibilities of the States and political subdivisions of States.
 
-(Pub. L. 95–313, § 14, formerly § 11, July 1, 1978, 92 Stat. 374; renumbered § 14 and amended Pub. L. 101–624, title XII, §§ 1215(1), 1221, Nov. 28, 1990, 104 Stat. 3525, 3540.)
+(Pub. L. 95–313, § 14, formerly § 11, July 1, 1978, 92 Stat. 374; renumbered § 14 and amended Pub. L. 101–624, title XII, §§ 1215(1), 1221, Nov. 28, 1990, 104 Stat. 3525, 3540.)
 
 **Editorial Notes**
 
@@ -2163,9 +2163,9 @@ A prior section 14 of Pub. L. 95–313 was renumbered section 17 and is set out 
 
 **Amendments**
 
-1990—Pub. L. 101–624, § 1221, amended section generally. Prior to amendment, section read as follows: “This chapter does not authorize the Federal Government to regulate the use of private land or to deprive owners of land of their rights to property or to income from the sale of property, and this chapter does not diminish in any way the rights and responsibilities of the States and political subdivisions of States.”
+1990—Pub. L. 101–624, § 1221, amended section generally. Prior to amendment, section read as follows: “This chapter does not authorize the Federal Government to regulate the use of private land or to deprive owners of land of their rights to property or to income from the sale of property, and this chapter does not diminish in any way the rights and responsibilities of the States and political subdivisions of States.”
 
-## § 2111. Other Federal programs
+## § 2111. Other Federal programs
 
 **(a) Repeal of statutory authorities** The following laws, and portions of laws, are hereby repealed:
 
@@ -2181,9 +2181,9 @@ A prior section 14 of Pub. L. 95–313 was renumbered section 17 and is set out 
 
 **(6)** title IV of the Rural Development Act of 1972 [7 U.S.C. 2651 et seq.]; and
 
-**(7)** section 1009 and the proviso to section 1010 1
+**(7)** section 1009 and the proviso to section 1010 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Agricultural Act of 1970, as added by the Agriculture and Consumer Protection Act of 1973 [16 U.S.C. 1509, 1510].
 
@@ -2195,7 +2195,7 @@ Contracts and cooperative and other agreements under cooperative forestry progra
 
 Funds appropriated under the authority of the Acts, or portions thereof, repealed under subsection (a) of this section shall be available for expenditure for the programs authorized under this chapter.
 
-(Pub. L. 95–313, § 16, formerly § 13, July 1, 1978, 92 Stat. 374; renumbered § 16, Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525.)
+(Pub. L. 95–313, § 16, formerly § 13, July 1, 1978, 92 Stat. 374; renumbered § 16, Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525.)
 
 **Editorial Notes**
 
@@ -2207,15 +2207,15 @@ The Forest Pest Control Act, referred to in subsec. (a)(3), is act June 25, 1947
 
 The Cooperative Forest Management Act, referred to in subsec. (a)(4), is act Aug. 25, 1950, ch. 781, 64 Stat. 473, which enacted sections 568c and 568d of this title, repealed section 568b of this title, and enacted a provision set out as a note under section 568c of this title. For complete classification of this Act to the Code, see Tables.
 
-The Rural Development Act of 1972, referred to in subsec. (a)(6), is Pub. L. 92–419, Aug. 30, 1972, 86 Stat. 657. Title IV of the Rural Development Act of 1972 was classified generally to subchapter I (§ 2651 et seq.) of chapter 59 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1921 of Title 7 and Tables.
+The Rural Development Act of 1972, referred to in subsec. (a)(6), is Pub. L. 92–419, Aug. 30, 1972, 86 Stat. 657. Title IV of the Rural Development Act of 1972 was classified generally to subchapter I (§ 2651 et seq.) of chapter 59 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1921 of Title 7 and Tables.
 
-Section 1010 of the Agricultural Act of 1970, as added by the Agriculture and Consumer Protection Act of 1973, referred to in subsec. (a)(7), was classified to section 1510 of this title prior to repeal by Pub. L. 104–127, title III, § 336(d)(1), Apr. 4, 1996, 110 Stat. 1006.
+Section 1010 of the Agricultural Act of 1970, as added by the Agriculture and Consumer Protection Act of 1973, referred to in subsec. (a)(7), was classified to section 1510 of this title prior to repeal by Pub. L. 104–127, title III, § 336(d)(1), Apr. 4, 1996, 110 Stat. 1006.
 
-## § 2112. Repealed. Pub. L. 113–79, title VIII, § 8003, Feb. 7, 2014, 128 Stat. 913
+## § 2112. Repealed. Pub. L. 113–79, title VIII, § 8003, Feb. 7, 2014, 128 Stat. 913
 
-Section, Pub. L. 95–313, § 18, formerly § 15, as added Pub. L. 100–418, title IV, § 4403, Aug. 23, 1988, 102 Stat. 1400; renumbered § 18, Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525, related to the establishment of a cooperative national forest products marketing program.
+Section, Pub. L. 95–313, § 18, formerly § 15, as added Pub. L. 100–418, title IV, § 4403, Aug. 23, 1988, 102 Stat. 1400; renumbered § 18, Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525, related to the establishment of a cooperative national forest products marketing program.
 
-## § 2113. Federal, State, and local coordination and cooperation
+## § 2113. Federal, State, and local coordination and cooperation
 
 **(a) Forest Resource Coordinating Committee**
 
@@ -2259,9 +2259,9 @@ The Chief of the Forest Service shall serve as chairperson of the Coordinating C
 
 **(4) Duties** The Coordinating Committee shall—
 
-**(A)** provide direction and coordination of actions within the Department of Agriculture, and coordination with State agencies and the private sector, to effectively address the national priorities specified in section 2101(c) of this title, with specific focus 1
+**(A)** provide direction and coordination of actions within the Department of Agriculture, and coordination with State agencies and the private sector, to effectively address the national priorities specified in section 2101(c) of this title, with specific focus 1
 
-<sup>1</sup>  So in original. The word “on” probably should appear after “focus”.
+<sup>1</sup> So in original. The word “on” probably should appear after “focus”.
 
 owners of nonindustrial private forest land;
 
@@ -2283,9 +2283,9 @@ Members of the Coordinating Committee who are full-time officers or employees of
 
 **(B) Non-Federal members**
 
-Non-federal 2
+Non-federal 2
 
-<sup>2</sup>  So in original. Probably should be “Non-Federal”.
+<sup>2</sup> So in original. Probably should be “Non-Federal”.
 
 members of the Coordinating Committee shall serve without pay, but may be reimbursed for reasonable costs incurred while performing their duties on behalf of the Coordinating Committee.
 
@@ -2349,7 +2349,7 @@ The State Coordinating Committees shall not terminate.
 
 Nothing in this section shall be construed to compel action by any State official.
 
-(Pub. L. 95–313, § 19, as added Pub. L. 101–624, title XII, § 1222, Nov. 28, 1990, 104 Stat. 3540; amended Pub. L. 110–234, title VII, § 7511(c)(37), title VIII, §§ 8005, 8006, May 22, 2008, 122 Stat. 1271, 1284, 1285; Pub. L. 110–246, § 4(a), title VII, § 7511(c)(37), title VIII, §§ 8005, 8006, June 18, 2008, 122 Stat. 1664, 2032, 2045–2047; Pub. L. 115–334, title VIII, § 8102(b)(2), Dec. 20, 2018, 132 Stat. 4839.)
+(Pub. L. 95–313, § 19, as added Pub. L. 101–624, title XII, § 1222, Nov. 28, 1990, 104 Stat. 3540; amended Pub. L. 110–234, title VII, § 7511(c)(37), title VIII, §§ 8005, 8006, May 22, 2008, 122 Stat. 1271, 1284, 1285; Pub. L. 110–246, § 4(a), title VII, § 7511(c)(37), title VIII, §§ 8005, 8006, June 18, 2008, 122 Stat. 1664, 2032, 2045–2047; Pub. L. 115–334, title VIII, § 8102(b)(2), Dec. 20, 2018, 132 Stat. 4839.)
 
 **Editorial Notes**
 
@@ -2361,15 +2361,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2018—Subsec. (a)(4)(C). Pub. L. 115–334 substituted “section 2109a” for “sections 2109a and 2109b”.
 
-2008—Subsec. (a). Pub. L. 110–246, § 8005, added subsec. (a) and struck out former subsec (a) which related to: in par. (1) establishment of a Forest Resource Coordinating Committee; in par. (2) composition of the Committee; in par. (3) designation of a chairperson; and in par. (4) duties of the Committee.
+2008—Subsec. (a). Pub. L. 110–246, § 8005, added subsec. (a) and struck out former subsec (a) which related to: in par. (1) establishment of a Forest Resource Coordinating Committee; in par. (2) composition of the Committee; in par. (3) designation of a chairperson; and in par. (4) duties of the Committee.
 
-Subsec. (b)(1)(B)(i). Pub. L. 110–246, § 7511(c)(37), substituted “National Institute of Food and Agriculture” for “Extension Service”.
+Subsec. (b)(1)(B)(i). Pub. L. 110–246, § 7511(c)(37), substituted “National Institute of Food and Agriculture” for “Extension Service”.
 
-Subsec. (b)(1)(B)(ii)(IX). Pub. L. 110–246, § 8006(1), added subcl. (IX).
+Subsec. (b)(1)(B)(ii)(IX). Pub. L. 110–246, § 8006(1), added subcl. (IX).
 
-Subsec. (b)(2)(C). Pub. L. 110–246, § 8006(2), substituted “the State-wide assessment and strategy regarding forest resource conditions under section 2101a of this title” for “a Forest Stewardship Plan under paragraph (3)”.
+Subsec. (b)(2)(C). Pub. L. 110–246, § 8006(2), substituted “the State-wide assessment and strategy regarding forest resource conditions under section 2101a of this title” for “a Forest Stewardship Plan under paragraph (3)”.
 
-Subsec. (b)(3) to (6). Pub. L. 110–246, § 8006(3), (4), redesignated pars. (5) and (6) as (3) and (4), respectively, and struck out former pars. (3) and (4) which related to development of a Forest Stewardship Plan and authorized the use of other plans if they fully conformed to section objectives.
+Subsec. (b)(3) to (6). Pub. L. 110–246, § 8006(3), (4), redesignated pars. (5) and (6) as (3) and (4), respectively, and struck out former pars. (3) and (4) which related to development of a Forest Stewardship Plan and authorized the use of other plans if they fully conformed to section objectives.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2379,7 +2379,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by section 7511(c)(37) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of Title 7, Agriculture.
 
-## § 2113a. Good neighbor authority
+## § 2113a. Good neighbor authority
 
 **(a) Definitions** In this section:
 
@@ -2491,15 +2491,15 @@ The Secretary shall provide or approve all silviculture prescriptions and markin
 
 **(i) In general** Funds received from the sale of timber by a Governor, Indian Tribe, or county under a good neighbor agreement shall be retained and used by the Governor, Indian Tribe, or county, as applicable—
 
-**(I)** to carry out authorized restoration services on 1
+**(I)** to carry out authorized restoration services on 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 under the good neighbor agreement; and
 
 **(II)** if there are funds remaining after carrying out clause (i),2
 
-<sup>2</sup>  So in original. Probably should be “subclause (I)”.
+<sup>2</sup> So in original. Probably should be “subclause (I)”.
 
 to carry out—
 
@@ -2519,7 +2519,7 @@ Any decision required to be made under the National Environmental Policy Act of 
 
 Notwithstanding any other provision of law, any payment made by a county to the Secretary under a project conducted under a good neighbor agreement shall not be considered to be monies received from National Forest System, Bureau of Land Management, National Park System, or U.S. Fish and Wildlife Service land, as applicable.
 
-(Pub. L. 113–79, title VIII, § 8206, Feb. 7, 2014, 128 Stat. 921; Pub. L. 115–141, div. O, title II, § 212, Mar. 23, 2018, 132 Stat. 1073; Pub. L. 115–334, title VIII, §§ 8624, 8704(b), Dec. 20, 2018, 132 Stat. 4857, 4877; Pub. L. 117–328, div. G, title IV, § 439, Dec. 29, 2022, 136 Stat. 4832; Pub. L. 118–42, div. E, title IV, § 443, Mar. 9, 2024, 138 Stat. 297; Pub. L. 118–234, title III, § 351(b)(3)(B), Jan. 4, 2025, 138 Stat. 2916.)
+(Pub. L. 113–79, title VIII, § 8206, Feb. 7, 2014, 128 Stat. 921; Pub. L. 115–141, div. O, title II, § 212, Mar. 23, 2018, 132 Stat. 1073; Pub. L. 115–334, title VIII, §§ 8624, 8704(b), Dec. 20, 2018, 132 Stat. 4857, 4877; Pub. L. 117–328, div. G, title IV, § 439, Dec. 29, 2022, 136 Stat. 4832; Pub. L. 118–42, div. E, title IV, § 443, Mar. 9, 2024, 138 Stat. 297; Pub. L. 118–234, title III, § 351(b)(3)(B), Jan. 4, 2025, 138 Stat. 2916.)
 
 **Editorial Notes**
 
@@ -2527,11 +2527,11 @@ Notwithstanding any other provision of law, any payment made by a county to the 
 
 The Good Neighbor Authority for Recreation Act, referred to in subsec. (b)(2)(C)(i)(II)(bb), probably means section 351 of Pub. L. 118–234, which is classified to section 8571 of this title and defines “authorized recreation services”. Section 351 of Pub. L. 118–234 contains the heading “Good neighbor authority for recreation”, but no Short Title was enacted.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Codification**
 
-Pub. L. 118–42, § 443, which directed amendment of section 8206 of the “Agriculture Act of 2014”, was executed to this section, which is section 8206 of the Agricultural Act of 2014, to reflect the probable intent of Congress.
+Pub. L. 118–42, § 443, which directed amendment of section 8206 of the “Agriculture Act of 2014”, was executed to this section, which is section 8206 of the Agricultural Act of 2014, to reflect the probable intent of Congress.
 
 Section was enacted as part of the Agricultural Act of 2014, and not as part of the Cooperative Forestry Assistance Act of 1978 which comprises this chapter.
 
@@ -2539,73 +2539,73 @@ Section was enacted as part of the Agricultural Act of 2014, and not as part of 
 
 2025—Subsec. (b)(2)(C). Pub. L. 118–234 amended subpar. (C) generally. Prior to amendment, subpar. (C) related to treatment of revenue received from sale of timber by a Governor of a State under a good neighbor agreement, and such authority terminated Oct. 1, 2024.
 
-2024—Subsec. (a)(3)(A)(iii), (iv). Pub. L. 118–42, § 443(1), added cls. (iii) and (iv). See Codification note above.
+2024—Subsec. (a)(3)(A)(iii), (iv). Pub. L. 118–42, § 443(1), added cls. (iii) and (iv). See Codification note above.
 
-Subsec. (a)(4)(B)(i). Pub. L. 118–42, § 443(2), (3), in introductory provisions, substituted a comma for “or” before “Bureau of Land Management” and inserted “, National Park Service, or National Wildlife Refuge” after “Bureau of Land Management”. See Codification note above.
+Subsec. (a)(4)(B)(i). Pub. L. 118–42, § 443(2), (3), in introductory provisions, substituted a comma for “or” before “Bureau of Land Management” and inserted “, National Park Service, or National Wildlife Refuge” after “Bureau of Land Management”. See Codification note above.
 
-Subsec. (b)(2)(C)(ii). Pub. L. 118–42, § 443(4), substituted “2024” for “2023”. See Codification note above.
+Subsec. (b)(2)(C)(ii). Pub. L. 118–42, § 443(4), substituted “2024” for “2023”. See Codification note above.
 
-Subsec. (b)(4). Pub. L. 118–42, § 443(5), (6), substituted a comma for “land or” before “Bureau of Land Management” and inserted “, National Park System, or U.S. Fish and Wildlife Service” after “Bureau of Land Management”. See Codification note above.
+Subsec. (b)(4). Pub. L. 118–42, § 443(5), (6), substituted a comma for “land or” before “Bureau of Land Management” and inserted “, National Park System, or U.S. Fish and Wildlife Service” after “Bureau of Land Management”. See Codification note above.
 
 2022—Subsec. (a)(4)(B)(i). Pub. L. 117–328 inserted “or Bureau of Land Management managed” after “National Forest System” in introductory provisions.
 
-2018—Subsec. (a)(1)(A). Pub. L. 115–334, § 8624(a)(1), substituted “land, non-Federal land, and land owned by an Indian tribe” for “land and non-Federal land”.
+2018—Subsec. (a)(1)(A). Pub. L. 115–334, § 8624(a)(1), substituted “land, non-Federal land, and land owned by an Indian tribe” for “land and non-Federal land”.
 
-Subsec. (a)(1)(B). Pub. L. 115–334, § 8624(b)(1)(A), inserted “or county, as applicable,” after “Governor”.
+Subsec. (a)(1)(B). Pub. L. 115–334, § 8624(b)(1)(A), inserted “or county, as applicable,” after “Governor”.
 
-Subsec. (a)(2). Pub. L. 115–334, § 8624(b)(1)(C), added par. (2). Former par. (2) redesignated (3).
+Subsec. (a)(2). Pub. L. 115–334, § 8624(b)(1)(C), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (a)(3). Pub. L. 115–334, § 8624(b)(1)(B), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+Subsec. (a)(3). Pub. L. 115–334, § 8624(b)(1)(B), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-Subsec. (a)(3)(B)(i). Pub. L. 115–141, § 212(1), substituted “areas, other than the reconstruction, repair, or restoration of a National Forest System road that is—” and subcls. (I) and (II) for “areas; or”.
+Subsec. (a)(3)(B)(i). Pub. L. 115–141, § 212(1), substituted “areas, other than the reconstruction, repair, or restoration of a National Forest System road that is—” and subcls. (I) and (II) for “areas; or”.
 
-Subsec. (a)(4). Pub. L. 115–334, § 8624(b)(1)(B), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+Subsec. (a)(4). Pub. L. 115–334, § 8624(b)(1)(B), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-Subsec. (a)(4)(B)(i)(II). Pub. L. 115–334, § 8704(b)(1), made technical amendment to reference in original act which appears in text as reference to March 23, 2018.
+Subsec. (a)(4)(B)(i)(II). Pub. L. 115–334, § 8704(b)(1), made technical amendment to reference in original act which appears in text as reference to March 23, 2018.
 
-Subsec. (a)(5). Pub. L. 115–334, § 8624(b)(1)(B), (D), redesignated par. (4) as (5) and inserted “or county, as applicable,” after “Governor”. Former par. (5) redesignated (6).
+Subsec. (a)(5). Pub. L. 115–334, § 8624(b)(1)(B), (D), redesignated par. (4) as (5) and inserted “or county, as applicable,” after “Governor”. Former par. (5) redesignated (6).
 
-Pub. L. 115–334, § 8624(a)(2), inserted “or Indian tribe” after “affected State”.
+Pub. L. 115–334, § 8624(a)(2), inserted “or Indian tribe” after “affected State”.
 
-Subsec. (a)(6). Pub. L. 115–334, § 8624(b)(1)(B), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+Subsec. (a)(6). Pub. L. 115–334, § 8624(b)(1)(B), redesignated par. (5) as (6). Former par. (6) redesignated (7).
 
-Pub. L. 115–334, § 8624(a)(4), which directed amendment of subsec. (a) by adding par. (6) after par. (5) “(as so redesignated)”, was executed by making the addition after par. (5), relating to the definition of “Governor”, to reflect the probable intent of Congress.
+Pub. L. 115–334, § 8624(a)(4), which directed amendment of subsec. (a) by adding par. (6) after par. (5) “(as so redesignated)”, was executed by making the addition after par. (5), relating to the definition of “Governor”, to reflect the probable intent of Congress.
 
-Pub. L. 115–334, § 8624(a)(3), redesignated par. (6) as (7).
+Pub. L. 115–334, § 8624(a)(3), redesignated par. (6) as (7).
 
-Pub. L. 115–141, § 212(3), added par. (6). Former par. (6) redesignated (7).
+Pub. L. 115–141, § 212(3), added par. (6). Former par. (6) redesignated (7).
 
-Subsec. (a)(7). Pub. L. 115–334, § 8624(b)(1)(B), redesignated par. (6) as (7). Former par. (7) redesignated (8).
+Subsec. (a)(7). Pub. L. 115–334, § 8624(b)(1)(B), redesignated par. (6) as (7). Former par. (7) redesignated (8).
 
-Pub. L. 115–334, § 8624(a)(3), redesignated par. (6) as (7). Former par. (7) redesignated (8).
+Pub. L. 115–334, § 8624(a)(3), redesignated par. (6) as (7). Former par. (7) redesignated (8).
 
-Pub. L. 115–141, § 212(2), redesignated par. (6) as (7). Former par. (7) redesignated (8).
+Pub. L. 115–141, § 212(2), redesignated par. (6) as (7). Former par. (7) redesignated (8).
 
-Subsec. (a)(8). Pub. L. 115–334, § 8704(b)(2), made technical amendment to reference in original act which appears in text as reference to March 23, 2018.
+Subsec. (a)(8). Pub. L. 115–334, § 8704(b)(2), made technical amendment to reference in original act which appears in text as reference to March 23, 2018.
 
-Pub. L. 115–334, § 8624(b)(1)(B), redesignated par. (7) as (8). Former par. (8) redesignated (9).
+Pub. L. 115–334, § 8624(b)(1)(B), redesignated par. (7) as (8). Former par. (8) redesignated (9).
 
-Pub. L. 115–334, § 8624(a)(3), redesignated par. (7) as (8). Former par. (8) redesignated (9).
+Pub. L. 115–334, § 8624(a)(3), redesignated par. (7) as (8). Former par. (8) redesignated (9).
 
-Pub. L. 115–141, § 212(2), redesignated par. (7) as (8).
+Pub. L. 115–141, § 212(2), redesignated par. (7) as (8).
 
-Subsec. (a)(9). Pub. L. 115–334, § 8624(b)(1)(B), redesignated par. (8) as (9). Former par. (9) redesignated (10).
+Subsec. (a)(9). Pub. L. 115–334, § 8624(b)(1)(B), redesignated par. (8) as (9). Former par. (9) redesignated (10).
 
-Pub. L. 115–334, § 8624(a)(3), redesignated par. (8) as (9).
+Pub. L. 115–334, § 8624(a)(3), redesignated par. (8) as (9).
 
-Subsec. (a)(10). Pub. L. 115–334, § 8624(b)(1)(B), redesignated par. (9) as (10).
+Subsec. (a)(10). Pub. L. 115–334, § 8624(b)(1)(B), redesignated par. (9) as (10).
 
-Subsec. (b)(1)(A). Pub. L. 115–334, § 8624(b)(2)(A), inserted “or county” after “Governor”.
+Subsec. (b)(1)(A). Pub. L. 115–334, § 8624(b)(2)(A), inserted “or county” after “Governor”.
 
-Subsec. (b)(2)(A). Pub. L. 115–334, § 8624(b)(2)(B), substituted “good neighbor agreement” for “cooperative agreement or contract entered into under subsection (a)”.
+Subsec. (b)(2)(A). Pub. L. 115–334, § 8624(b)(2)(B), substituted “good neighbor agreement” for “cooperative agreement or contract entered into under subsection (a)”.
 
-Subsec. (b)(2)(C). Pub. L. 115–334, § 8624(c), added subpar. (C).
+Subsec. (b)(2)(C). Pub. L. 115–334, § 8624(c), added subpar. (C).
 
-Subsec. (b)(3). Pub. L. 115–334, § 8624(b)(2)(C), inserted “or county” after “Governor”.
+Subsec. (b)(3). Pub. L. 115–334, § 8624(b)(2)(C), inserted “or county” after “Governor”.
 
-Subsec. (b)(4). Pub. L. 115–334, § 8624(b)(2)(D), added par. (4).
+Subsec. (b)(4). Pub. L. 115–334, § 8624(b)(2)(D), added par. (4).
 
-## § 2114. Administration
+## § 2114. Administration
 
 **(a) In general**
 
@@ -2623,4 +2623,4 @@ Existing mechanisms shall be used to the extent possible to make payments and de
 
 The Secretary, in consultation with State foresters or equivalent State officials, may provide assistance directly to other State and local natural resource management agencies and land grant universities in implementing this chapter in cases in which the State foresters or equivalent State officials are not able to make fund transfers to other State and local agencies.
 
-(Pub. L. 95–313, § 20, as added Pub. L. 101–624, title XII, § 1223, Nov. 28, 1990, 104 Stat. 3542.)
+(Pub. L. 95–313, § 20, as added Pub. L. 101–624, title XII, § 1223, Nov. 28, 1990, 104 Stat. 3542.)

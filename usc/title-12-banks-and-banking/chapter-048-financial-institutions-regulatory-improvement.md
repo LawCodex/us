@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 48—FINANCIAL INSTITUTIONS REGULATORY IMPROVEMENT
 
-## § 4801. Incorporated definitions
+## § 4801. Incorporated definitions
 
 Unless otherwise specifically provided in this chapter, for purposes of this chapter—
 
@@ -23,7 +23,7 @@ Unless otherwise specifically provided in this chapter, for purposes of this cha
 
 **(2)** the term “insured credit union” has the same meaning as in section 1752 of this title.
 
-(Pub. L. 103–325, title III, § 301, Sept. 23, 1994, 108 Stat. 2214.)
+(Pub. L. 103–325, title III, § 301, Sept. 23, 1994, 108 Stat. 2214.)
 
 **Editorial Notes**
 
@@ -35,7 +35,7 @@ This chapter, referred to in text, was in original “this title” meaning titl
 
 **Use of Subordinated Debt To Protect Financial System and Deposit Funds From “Too Big To Fail” Institutions**
 
-Pub. L. 106–102, title I, § 108, Nov. 12, 1999, 113 Stat. 1361, provided that:
+Pub. L. 106–102, title I, § 108, Nov. 12, 1999, 113 Stat. 1361, provided that:
 
 > **“(a) Study Required.—** The Board of Governors of the Federal Reserve System and the Secretary of the Treasury shall conduct a study of—
 
@@ -65,41 +65,41 @@ Pub. L. 106–102, title I, § 108, Nov. 12, 1999, 113 Stat. 1361, provided th
 
 **Study and Report on Adapting Existing Legislative Requirements to Online Banking and Lending**
 
-Pub. L. 106–102, title VII, § 729, Nov. 12, 1999, 113 Stat. 1476, required the Federal banking agencies (as defined in 12 U.S.C. 1813(z)) to study banking regulations regarding the delivery of financial services, including those regulations that may assume that there will be person-to-person contact during the course of a financial services transaction, and report their recommendations on adapting those existing requirements to online banking and lending, and report to Congress on the findings and conclusions, together with appropriate recommendations for legislative or regulatory action, before the end of the 2-year period beginning on Nov. 12, 1999.
+Pub. L. 106–102, title VII, § 729, Nov. 12, 1999, 113 Stat. 1476, required the Federal banking agencies (as defined in 12 U.S.C. 1813(z)) to study banking regulations regarding the delivery of financial services, including those regulations that may assume that there will be person-to-person contact during the course of a financial services transaction, and report their recommendations on adapting those existing requirements to online banking and lending, and report to Congress on the findings and conclusions, together with appropriate recommendations for legislative or regulatory action, before the end of the 2-year period beginning on Nov. 12, 1999.
 
 **Treasury Report on Reduced Taxation and Viability of Small Banks**
 
-Pub. L. 105–219, title IV, § 403, Aug. 7, 1998, 112 Stat. 935, required the Secretary of the Treasury to submit, not later than 1 year after Aug. 7, 1998, a report to the Congress containing recommendations for appropriate legislative and administrative action that would reduce and simplify the tax burden for small banking institutions.
+Pub. L. 105–219, title IV, § 403, Aug. 7, 1998, 112 Stat. 935, required the Secretary of the Treasury to submit, not later than 1 year after Aug. 7, 1998, a report to the Congress containing recommendations for appropriate legislative and administrative action that would reduce and simplify the tax burden for small banking institutions.
 
 **Study and Report on Capital Standards and Their Impact on Economy**
 
-Pub. L. 103–325, title III, § 328, Sept. 23, 1994, 108 Stat. 2230, directed the Secretary of the Treasury, in consultation with the Federal banking agencies, to conduct a study of the effect that the implementation of risk-based capital standards for depository institutions, including the Basle international capital standards, was having on the safety and soundness of insured depository institutions and economic growth and to submit a report and any capital standard recommendations to Congress before end of the 1-year period beginning on Sept. 23, 1994.
+Pub. L. 103–325, title III, § 328, Sept. 23, 1994, 108 Stat. 2230, directed the Secretary of the Treasury, in consultation with the Federal banking agencies, to conduct a study of the effect that the implementation of risk-based capital standards for depository institutions, including the Basle international capital standards, was having on the safety and soundness of insured depository institutions and economic growth and to submit a report and any capital standard recommendations to Congress before end of the 1-year period beginning on Sept. 23, 1994.
 
 **Study on Impact of Payment of Interest on Reserves**
 
-Pub. L. 103–325, title III, § 329, Sept. 23, 1994, 108 Stat. 2230, provided for, not later than 180 days after Sept. 23, 1994, studies and reports to the Congress on the need and impact of payment of interest on sterile reserves.
+Pub. L. 103–325, title III, § 329, Sept. 23, 1994, 108 Stat. 2230, provided for, not later than 180 days after Sept. 23, 1994, studies and reports to the Congress on the need and impact of payment of interest on sterile reserves.
 
 **Study and Report on Consumer Credit System**
 
-Pub. L. 103–325, title III, § 330, Sept. 23, 1994, 108 Stat. 2231, provided for a study of the process, including any Federal laws, by which credit is made available for consumers and small businesses in order to identify procedures, including any Federal laws, that reduce available credit, increase consumer inconvenience, or increase costs and burdens on insured depository institutions, with a report and recommendations by the Secretary of the Treasury no later than 1 year after Sept. 23, 1994.
+Pub. L. 103–325, title III, § 330, Sept. 23, 1994, 108 Stat. 2231, provided for a study of the process, including any Federal laws, by which credit is made available for consumers and small businesses in order to identify procedures, including any Federal laws, that reduce available credit, increase consumer inconvenience, or increase costs and burdens on insured depository institutions, with a report and recommendations by the Secretary of the Treasury no later than 1 year after Sept. 23, 1994.
 
 **Study on Check-Related Fraud**
 
-Pub. L. 103–325, title III, § 333, Sept. 23, 1994, 108 Stat. 2233, provided that the Board of Governors of the Federal Reserve System should conduct a study on the advisability of extending the 1-business-day period specified in 12 U.S.C. 4002(b)(1), regarding availability of funds deposited by local checks, to 2 business days, and report to the Congress no later than 2 years after Sept. 23, 1994.
+Pub. L. 103–325, title III, § 333, Sept. 23, 1994, 108 Stat. 2233, provided that the Board of Governors of the Federal Reserve System should conduct a study on the advisability of extending the 1-business-day period specified in 12 U.S.C. 4002(b)(1), regarding availability of funds deposited by local checks, to 2 business days, and report to the Congress no later than 2 years after Sept. 23, 1994.
 
 **Feasibility Study of Data Bank**
 
-Pub. L. 103–325, title III, § 341, Sept. 23, 1994, 108 Stat. 2238, provided that, not later than 18 months after Sept. 23, 1994, the Federal Financial Institutions Examination Council would study the feasibility, including the costs and benefits to insured depository institutions, of establishing and maintaining a data bank for reports submitted by any depository institution to a Federal banking agency and report to Congress.
+Pub. L. 103–325, title III, § 341, Sept. 23, 1994, 108 Stat. 2238, provided that, not later than 18 months after Sept. 23, 1994, the Federal Financial Institutions Examination Council would study the feasibility, including the costs and benefits to insured depository institutions, of establishing and maintaining a data bank for reports submitted by any depository institution to a Federal banking agency and report to Congress.
 
 **Timely Completion of CRA Review**
 
-Pub. L. 103–325, title III, § 342, Sept. 23, 1994, 108 Stat. 2238, provided that: “The comprehensive regulatory review of the Community Reinvestment Act of 1977 [12 U.S.C. 2901 et seq.] that, as of the date of enactment of this Act [Sept. 23, 1994], is being conducted by the Federal banking agencies, shall be completed at the earliest practicable time.”
+Pub. L. 103–325, title III, § 342, Sept. 23, 1994, 108 Stat. 2238, provided that: “The comprehensive regulatory review of the Community Reinvestment Act of 1977 [12 U.S.C. 2901 et seq.] that, as of the date of enactment of this Act [Sept. 23, 1994], is being conducted by the Federal banking agencies, shall be completed at the earliest practicable time.”
 
 **Waiver of Right of Rescission for Certain Refinancing Transactions**
 
-Pub. L. 103–325, title III, § 344, Sept. 23, 1994, 108 Stat. 2239, provided that: “Not later than 6 months after the date of enactment of this Act [Sept. 23, 1994], the Board of Governors of the Federal Reserve System, in consultation with the consumer advisory council to such Board, consumers, representatives of consumers, lenders, and other interested parties, shall submit recommendations to the Congress regarding whether a waiver or modification, at the option of a consumer, of the right of rescission under section 125 of the Truth in Lending Act [15 U.S.C. 1635] with respect to transactions which constitute a refinancing or consolidation (with no new advances) of the principal balance then due, and any accrued and unpaid finance charges of an existing extension of credit by a different creditor secured by an interest in the same property, would benefit consumers.”
+Pub. L. 103–325, title III, § 344, Sept. 23, 1994, 108 Stat. 2239, provided that: “Not later than 6 months after the date of enactment of this Act [Sept. 23, 1994], the Board of Governors of the Federal Reserve System, in consultation with the consumer advisory council to such Board, consumers, representatives of consumers, lenders, and other interested parties, shall submit recommendations to the Congress regarding whether a waiver or modification, at the option of a consumer, of the right of rescission under section 125 of the Truth in Lending Act [15 U.S.C. 1635] with respect to transactions which constitute a refinancing or consolidation (with no new advances) of the principal balance then due, and any accrued and unpaid finance charges of an existing extension of credit by a different creditor secured by an interest in the same property, would benefit consumers.”
 
-## § 4802. Administrative consideration of burden with new regulations
+## § 4802. Administrative consideration of burden with new regulations
 
 **(a) Agency considerations** In determining the effective date and administrative compliance requirements for new regulations that impose additional reporting, disclosure, or other requirements on insured depository institutions, each Federal banking agency shall consider, consistent with the principles of safety and soundness and the public interest—
 
@@ -121,9 +121,9 @@ Pub. L. 103–325, title III, § 344, Sept. 23, 1994, 108 Stat. 2239, provided
 
 Any person who is subject to a regulation described in paragraph (1) may comply with the regulation before the effective date of the regulation.
 
-(Pub. L. 103–325, title III, § 302, Sept. 23, 1994, 108 Stat. 2214.)
+(Pub. L. 103–325, title III, § 302, Sept. 23, 1994, 108 Stat. 2214.)
 
-## § 4803. Streamlining of regulatory requirements
+## § 4803. Streamlining of regulatory requirements
 
 **(a) Review of regulations; regulatory uniformity** During the 2-year period beginning on September 23, 1994, each Federal banking agency shall, consistent with the principles of safety and soundness, statutory law and policy, and the public interest—
 
@@ -149,13 +149,13 @@ Any person who is subject to a regulation described in paragraph (1) may comply 
 
 **(3)** not later than 2 years after completion of the review required by paragraph (1), submit a report to the Congress on the results of its actions taken in accordance with this subsection and any recommended legislative actions.
 
-(Pub. L. 103–325, title III, § 303, Sept. 23, 1994, 108 Stat. 2215; Pub. L. 104–208, div. A, title II, § 2242, Sept. 30, 1996, 110 Stat. 3009–418.)
+(Pub. L. 103–325, title III, § 303, Sept. 23, 1994, 108 Stat. 2215; Pub. L. 104–208, div. A, title II, § 2242, Sept. 30, 1996, 110 Stat. 3009–418.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Truth in Lending Act, referred to in subsec. (b)(1), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Truth in Lending Act, referred to in subsec. (b)(1), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 **Amendments**
 
@@ -165,9 +165,9 @@ The Truth in Lending Act, referred to in subsec. (b)(1), is title I of Pub. L. 9
 
 **Update on Review of Regulations and Paperwork Reductions**
 
-Pub. L. 105–219, title IV, § 402, Aug. 7, 1998, 112 Stat. 935, provided that: “Not later than 1 year after the date of enactment of this Act [Aug. 7, 1998], the Federal banking agencies [see 12 U.S.C. 1813(z)] shall submit a report to the Congress detailing their progress in carrying out section 303(a) of the Riegle Community Development and Regulatory Improvement Act of 1994 [12 U.S.C. 4803(a)], since their submission of the report dated September 23, 1996, as required by section 303(a)(4) of that Act.”
+Pub. L. 105–219, title IV, § 402, Aug. 7, 1998, 112 Stat. 935, provided that: “Not later than 1 year after the date of enactment of this Act [Aug. 7, 1998], the Federal banking agencies [see 12 U.S.C. 1813(z)] shall submit a report to the Congress detailing their progress in carrying out section 303(a) of the Riegle Community Development and Regulatory Improvement Act of 1994 [12 U.S.C. 4803(a)], since their submission of the report dated September 23, 1996, as required by section 303(a)(4) of that Act.”
 
-## § 4804. Elimination of duplicative filings
+## § 4804. Elimination of duplicative filings
 
 The Federal banking agencies shall work jointly—
 
@@ -175,9 +175,9 @@ The Federal banking agencies shall work jointly—
 
 **(2)** to harmonize, to the extent practicable, any inconsistent publication and public notice requirements.
 
-(Pub. L. 103–325, title III, § 304, Sept. 23, 1994, 108 Stat. 2215.)
+(Pub. L. 103–325, title III, § 304, Sept. 23, 1994, 108 Stat. 2215.)
 
-## § 4805. Call report simplification
+## § 4805. Call report simplification
 
 **(a) Modernization of call report filing and disclosure system** In order to reduce the administrative requirements pertaining to bank reports of condition, savings association financial reports, and bank holding company consolidated and parent-only financial statements, and to improve the timeliness of such reports and statements, the Federal banking agencies shall—
 
@@ -201,7 +201,7 @@ The Federal banking agencies shall work jointly—
 
 **(2)** eliminate requirements that are not warranted for reasons of safety and soundness or other public purposes.
 
-(Pub. L. 103–325, title III, § 307, Sept. 23, 1994, 108 Stat. 2217.)
+(Pub. L. 103–325, title III, § 307, Sept. 23, 1994, 108 Stat. 2217.)
 
 **Editorial Notes**
 
@@ -209,7 +209,7 @@ The Federal banking agencies shall work jointly—
 
 Provisions similar to this section are contained in section 4805a of this title.
 
-## § 4805a. Call report simplification
+## § 4805a. Call report simplification
 
 **(a) Modernization of call report filing and disclosure system** In order to reduce the administrative requirements pertaining to bank reports of condition, savings association financial reports, and bank holding company consolidated and parent-only financial statements, and to improve the timeliness of such reports and statements, the Federal banking agencies shall—
 
@@ -237,7 +237,7 @@ Provisions similar to this section are contained in section 4805a of this title.
 
 In this section, the term “Federal banking agency” has the same meaning as in section 1813 of this title.
 
-(Pub. L. 106–569, title XII, § 1211, Dec. 27, 2000, 114 Stat. 3035.)
+(Pub. L. 106–569, title XII, § 1211, Dec. 27, 2000, 114 Stat. 3035.)
 
 **Editorial Notes**
 
@@ -247,7 +247,7 @@ Section was enacted as part of the Financial Regulatory Relief and Economic Effi
 
 Provisions similar to this section are contained in section 4805 of this title.
 
-## § 4806. Regulatory appeals process, ombudsman, and alternative dispute resolution
+## § 4806. Regulatory appeals process, ombudsman, and alternative dispute resolution
 
 **(a) In general**
 
@@ -347,7 +347,7 @@ The term “alternative means of dispute resolution” has the meaning given to 
 
 Nothing in this section shall affect the authority of an appropriate Federal banking agency or the National Credit Union Administration Board to take enforcement or supervisory action.
 
-(Pub. L. 103–325, title III, § 309, Sept. 23, 1994, 108 Stat. 2218.)
+(Pub. L. 103–325, title III, § 309, Sept. 23, 1994, 108 Stat. 2218.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -355,7 +355,7 @@ Nothing in this section shall affect the authority of an appropriate Federal ban
 
 For termination of Administrative Conference of United States, see provision of title IV of Pub. L. 104–52, set out as a note preceding section 591 of Title 5, Government Organization and Employees.
 
-## § 4807. Time limit on agency consideration of completed applications
+## § 4807. Time limit on agency consideration of completed applications
 
 **(a) In general**
 
@@ -365,9 +365,9 @@ Each Federal banking agency shall take final action on any application to the ag
 
 Any person submitting an application to a Federal banking agency may waive the applicability of subsection (a) with respect to such application at any time.
 
-(Pub. L. 103–325, title III, § 343, Sept. 23, 1994, 108 Stat. 2238.)
+(Pub. L. 103–325, title III, § 343, Sept. 23, 1994, 108 Stat. 2238.)
 
-## § 4808. Revising regulatory requirements for transfers of all types of assets with recourse
+## § 4808. Revising regulatory requirements for transfers of all types of assets with recourse
 
 **(a) Review and revision of regulations**
 
@@ -399,9 +399,9 @@ This section shall not be construed as superseding the applicability of section 
 
 For purposes of this section, the terms “appropriate Federal banking agency”, “Federal banking agency”, and “insured depository institution” have the same meanings as in section 1813 of this title.
 
-(Pub. L. 103–325, title III, § 350, Sept. 23, 1994, 108 Stat. 2242.)
+(Pub. L. 103–325, title III, § 350, Sept. 23, 1994, 108 Stat. 2242.)
 
-## § 4809. “Plain language” requirement for Federal banking agency rules
+## § 4809. “Plain language” requirement for Federal banking agency rules
 
 **(a) In general**
 
@@ -415,7 +415,7 @@ Not later than March 1, 2001, each Federal banking agency shall submit to the Co
 
 For purposes of this section, the term “Federal banking agency” has the meaning given that term in section 1813 of this title.
 
-(Pub. L. 106–102, title VII, § 722, Nov. 12, 1999, 113 Stat. 1471.)
+(Pub. L. 106–102, title VII, § 722, Nov. 12, 1999, 113 Stat. 1471.)
 
 **Editorial Notes**
 

@@ -19,7 +19,7 @@ retrieved: 2026-10-11
 
 ### Part A—Gallaudet University
 
-#### § 4301. Continuation of Gallaudet College as Gallaudet University
+#### § 4301. Continuation of Gallaudet College as Gallaudet University
 
 **(a) Gallaudet University**
 
@@ -29,13 +29,13 @@ The Gallaudet College created by an Act entitled “An Act to amend the charter 
 
 The purpose of Gallaudet University shall be to provide education and training to individuals who are deaf and otherwise to further the education of individuals who are deaf.
 
-(Pub. L. 99–371, title I, § 101, Aug. 4, 1986, 100 Stat. 781; Pub. L. 102–421, title I, § 151(a)(1), (4), Oct. 16, 1992, 106 Stat. 2163, 2164; Pub. L. 103–73, title II, § 203(a), Aug. 11, 1993, 107 Stat. 732.)
+(Pub. L. 99–371, title I, § 101, Aug. 4, 1986, 100 Stat. 781; Pub. L. 102–421, title I, § 151(a)(1), (4), Oct. 16, 1992, 106 Stat. 2163, 2164; Pub. L. 103–73, title II, § 203(a), Aug. 11, 1993, 107 Stat. 732.)
 
 **Editorial Notes**
 
 **References in Text**
 
-An Act to amend the charter of the Columbia Institution for the Deaf, change its name, define its corporate powers, and provide for its organization and administration, and for other purposes, referred to in subsec. (a), is act June 18, 1954, ch. 324, 68 Stat. 265, which was classified generally to subchapter I (§ 691 et seq.) of chapter 20B of this title, and was repealed by Pub. L. 99–371, title IV, § 410(a), Aug. 4, 1986, 100 Stat. 794.
+An Act to amend the charter of the Columbia Institution for the Deaf, change its name, define its corporate powers, and provide for its organization and administration, and for other purposes, referred to in subsec. (a), is act June 18, 1954, ch. 324, 68 Stat. 265, which was classified generally to subchapter I (§ 691 et seq.) of chapter 20B of this title, and was repealed by Pub. L. 99–371, title IV, § 410(a), Aug. 4, 1986, 100 Stat. 794.
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 99–371, Aug. 4, 1986, 100 Stat. 781, known as the Education of the Deaf Act of 1986, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
@@ -57,21 +57,21 @@ Section 161 of title I of Pub. L. 102–421 provided that: “The amendments des
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–244, title IX, § 911, Oct. 7, 1998, 112 Stat. 1829, provided that: “This part [part B (§§ 911–925) of title IX of Pub. L. 105–244, enacting sections 4359b, 4360, and 4360a of this title, amending sections 4304, 4305, 4332, 4351, 4353 to 4355, 4357, 4359, and 4359a of this title, and repealing sections 4358 and 4360 of this title] may be cited as the ‘Education of the Deaf Amendments of 1998’.”
+Pub. L. 105–244, title IX, § 911, Oct. 7, 1998, 112 Stat. 1829, provided that: “This part [part B (§§ 911–925) of title IX of Pub. L. 105–244, enacting sections 4359b, 4360, and 4360a of this title, amending sections 4304, 4305, 4332, 4351, 4353 to 4355, 4357, 4359, and 4359a of this title, and repealing sections 4358 and 4360 of this title] may be cited as the ‘Education of the Deaf Amendments of 1998’.”
 
 **Short Title of 1993 Amendment**
 
-Pub. L. 103–73, title II, § 201(a), Aug. 11, 1993, 107 Stat. 732, provided that: “This title [amending this section and sections 4302 to 4305, 4331, 4332, 4351, 4353 to 4357, 4359, 4359a, and 4360 of this title] may be cited as the ‘Education of the Deaf Act Amendments of 1993’.”
+Pub. L. 103–73, title II, § 201(a), Aug. 11, 1993, 107 Stat. 732, provided that: “This title [amending this section and sections 4302 to 4305, 4331, 4332, 4351, 4353 to 4357, 4359, 4359a, and 4360 of this title] may be cited as the ‘Education of the Deaf Act Amendments of 1993’.”
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–421, § 1, Oct. 16, 1992, 106 Stat. 2151, provided that: “This Act [enacting sections 4304, 4305, 4357, 4358, and 4359a of this title, amending this section and sections 1424a, 1431, 1441, 4303, 4331, 4332, 4351 to 4356, and 4360 of this title, repealing sections 4311, 4321, 4322, 4341 to 4344, 4357, and 4358 of this title, and enacting provisions set out as notes under this section and section 1424a of this title] may be cited as the ‘Education of the Deaf Act Amendments of 1992’.”
+Pub. L. 102–421, § 1, Oct. 16, 1992, 106 Stat. 2151, provided that: “This Act [enacting sections 4304, 4305, 4357, 4358, and 4359a of this title, amending this section and sections 1424a, 1431, 1441, 4303, 4331, 4332, 4351 to 4356, and 4360 of this title, repealing sections 4311, 4321, 4322, 4341 to 4344, 4357, and 4358 of this title, and enacting provisions set out as notes under this section and section 1424a of this title] may be cited as the ‘Education of the Deaf Act Amendments of 1992’.”
 
 **Short Title**
 
-Pub. L. 99–371, § 1, Aug. 4, 1986, 100 Stat. 781, provided: “That this Act [enacting this chapter, repealing sections 681 to 685, 691 to 691g, 693 to 693b, and 695 to 695c of this title, and repealing provisions set out as notes under sections 681 and 693 of this title] may be cited as the ‘Education of the Deaf Act of 1986’.”
+Pub. L. 99–371, § 1, Aug. 4, 1986, 100 Stat. 781, provided: “That this Act [enacting this chapter, repealing sections 681 to 685, 691 to 691g, 693 to 693b, and 695 to 695c of this title, and repealing provisions set out as notes under sections 681 and 693 of this title] may be cited as the ‘Education of the Deaf Act of 1986’.”
 
-#### § 4302. Property rights
+#### § 4302. Property rights
 
 **(a) Property rights described**
 
@@ -83,7 +83,7 @@ Gallaudet University is vested with all the property and the rights of property,
 
 **(2)** The proceeds of any such disposition shall be considered a part of the capital structure of the corporation, and may be used solely for the acquisition of real estate for the use of the corporation, for the construction, equipment, or improvement of buildings for such use, or for investment purposes, but, if invested, only the income from the investment may be used for current expenses of the corporation.
 
-(Pub. L. 99–371, title I, § 102, Aug. 4, 1986, 100 Stat. 781; Pub. L. 103–73, title II, § 203(b), Aug. 11, 1993, 107 Stat. 733.)
+(Pub. L. 99–371, title I, § 102, Aug. 4, 1986, 100 Stat. 781; Pub. L. 103–73, title II, § 203(b), Aug. 11, 1993, 107 Stat. 733.)
 
 **Editorial Notes**
 
@@ -93,9 +93,9 @@ Provisions similar to this section were contained in section 691b of this title,
 
 **Amendments**
 
-1993—Subsec. (b)(1). Pub. L. 103–73, § 203(b)(1), substituted “Secretary” for “Secretary of Education”.
+1993—Subsec. (b)(1). Pub. L. 103–73, § 203(b)(1), substituted “Secretary” for “Secretary of Education”.
 
-Subsec. (b)(2). Pub. L. 103–73, § 203(b)(2), substituted “but, if invested,” for “but if invested”.
+Subsec. (b)(2). Pub. L. 103–73, § 203(b)(2), substituted “but, if invested,” for “but if invested”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -107,11 +107,11 @@ July 1, 1916, ch. 209, 39 Stat. 310.
 
 Aug. 3, 1939, ch. 414, 53 Stat. 1179.
 
-Sept. 13, 1960, Pub. L. 86–776, §§ 1, 2, 74 Stat. 916, 917.
+Sept. 13, 1960, Pub. L. 86–776, §§ 1, 2, 74 Stat. 916, 917.
 
-Nov. 20, 1981, Pub. L. 97–80, title II, § 202(a)(1), 95 Stat. 1082.
+Nov. 20, 1981, Pub. L. 97–80, title II, § 202(a)(1), 95 Stat. 1082.
 
-#### § 4303. Board of Trustees
+#### § 4303. Board of Trustees
 
 **(a) Composition of Board**
 
@@ -145,7 +145,7 @@ Nov. 20, 1981, Pub. L. 97–80, title II, § 202(a)(1), 95 Stat. 1082.
 
 **(9)** control the expenditure and investment of any moneys or funds or property which Gallaudet University may have or may receive from sources other than appropriations by Congress.
 
-(Pub. L. 99–371, title I, § 103, Aug. 4, 1986, 100 Stat. 782; Pub. L. 102–421, title I, §§ 101(c), 111, Oct. 16, 1992, 106 Stat. 2152; Pub. L. 103–73, title II, § 203(c), Aug. 11, 1993, 107 Stat. 733.)
+(Pub. L. 99–371, title I, § 103, Aug. 4, 1986, 100 Stat. 782; Pub. L. 102–421, title I, §§ 101(c), 111, Oct. 16, 1992, 106 Stat. 2152; Pub. L. 103–73, title II, § 203(c), Aug. 11, 1993, 107 Stat. 733.)
 
 **Editorial Notes**
 
@@ -155,21 +155,21 @@ Provisions similar to this section were contained in sections 691d and 691e of t
 
 **Amendments**
 
-1993—Subsec. (a). Pub. L. 103–73, § 203(c)(1), in par. (1) substituted “members who shall include—” for “members selected as follows:” in introductory provisions and inserted comma after “Association” in subpar. (B), redesignated second sentence of par. (1) as par. (2), and redesignated former par. (2) as (3).
+1993—Subsec. (a). Pub. L. 103–73, § 203(c)(1), in par. (1) substituted “members who shall include—” for “members selected as follows:” in introductory provisions and inserted comma after “Association” in subpar. (B), redesignated second sentence of par. (1) as par. (2), and redesignated former par. (2) as (3).
 
-Subsec. (b). Pub. L. 103–73, § 203(c)(2), inserted comma after “facilities)” in par. (1), substituted “or hard of hearing;” for “or individuals who are hard of hearing.” in par. (4), and struck out “the provisions of” before “section 4353” in par. (8).
+Subsec. (b). Pub. L. 103–73, § 203(c)(2), inserted comma after “facilities)” in par. (1), substituted “or hard of hearing;” for “or individuals who are hard of hearing.” in par. (4), and struck out “the provisions of” before “section 4353” in par. (8).
 
-1992—Subsec. (a)(1)(B). Pub. L. 102–421, § 111(1), struck out “, who on August 4, 1986, shall include those individuals serving as nonpublic members of the Board of Trustees of Gallaudet College immediately prior to August 4, 1986,” after “elected by the Board of Trustees”.
+1992—Subsec. (a)(1)(B). Pub. L. 102–421, § 111(1), struck out “, who on August 4, 1986, shall include those individuals serving as nonpublic members of the Board of Trustees of Gallaudet College immediately prior to August 4, 1986,” after “elected by the Board of Trustees”.
 
-Subsec. (b)(1). Pub. L. 102–421, § 111(2)(A), inserted “(including the construction of buildings and other facilities)” after “corporation”.
+Subsec. (b)(1). Pub. L. 102–421, § 111(2)(A), inserted “(including the construction of buildings and other facilities)” after “corporation”.
 
-Subsec. (b)(4), (6). Pub. L. 102–421, § 111(2)(B), (C), amended pars. (4) and (6) generally. Prior to amendment, pars. (4) and (6) read as follows:
+Subsec. (b)(4), (6). Pub. L. 102–421, § 111(2)(B), (C), amended pars. (4) and (6) generally. Prior to amendment, pars. (4) and (6) read as follows:
 
 “(4) appoint a president, professors, instructors, and other necessary employees for Gallaudet University, delegate to them such duties as it may deem advisable, fix their compensation, and remove them when, in their judgment, the interest of Gallaudet University shall require it;
 
 “(6) establish such departments and other units, including a department of higher learning for the deaf, a department of elementary education for the instruction of deaf children, a graduate department, and a research department, as the Board deems necessary to carry out the purpose of Gallaudet University;”.
 
-Subsec. (b)(8). Pub. L. 102–421, § 101(c), made technical amendment to reference to section 4353 of this title to reflect change in reference to corresponding section of original act.
+Subsec. (b)(8). Pub. L. 102–421, § 101(c), made technical amendment to reference to section 4353 of this title to reflect change in reference to corresponding section of original act.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -177,7 +177,7 @@ Subsec. (b)(8). Pub. L. 102–421, § 101(c), made technical amendment to refe
 
 Amendment by Pub. L. 102–421 effective Oct. 1, 1992, see section 161 of Pub. L. 102–421, set out as a note under section 4301 of this title.
 
-#### § 4304. Laurent Clerc National Deaf Education Center
+#### § 4304. Laurent Clerc National Deaf Education Center
 
 **(a) General authority**
 
@@ -257,55 +257,55 @@ Amendment by Pub. L. 102–421 effective Oct. 1, 1992, see section 161 of Pub. L
 
 **(C)** publicly report the results of the academic assessments implemented under subparagraph (A), except where such reporting would not yield statistically reliable information or would reveal personally identifiable information about an individual student, and the results of the annual evaluation of the programs at the Clerc Center, as determined under subparagraph (B).
 
-(Pub. L. 99–371, title I, § 104, as added Pub. L. 102–421, title I, § 112, Oct. 16, 1992, 106 Stat. 2152; amended Pub. L. 103–73, title II, § 203(d), Aug. 11, 1993, 107 Stat. 733; Pub. L. 105–244, title IX, § 912, Oct. 7, 1998, 112 Stat. 1829; Pub. L. 108–446, title III, § 305(d), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 110–315, title IX, § 901, Aug. 14, 2008, 122 Stat. 3450; Pub. L. 114–95, title IX, § 9215(ee), Dec. 10, 2015, 129 Stat. 2173.)
+(Pub. L. 99–371, title I, § 104, as added Pub. L. 102–421, title I, § 112, Oct. 16, 1992, 106 Stat. 2152; amended Pub. L. 103–73, title II, § 203(d), Aug. 11, 1993, 107 Stat. 733; Pub. L. 105–244, title IX, § 912, Oct. 7, 1998, 112 Stat. 1829; Pub. L. 108–446, title III, § 305(d), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 110–315, title IX, § 901, Aug. 14, 2008, 122 Stat. 3450; Pub. L. 114–95, title IX, § 9215(ee), Dec. 10, 2015, 129 Stat. 2173.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(B) and (b)(3), (4)(C), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part B of the Act is classified generally to subchapter II (§ 1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(B) and (b)(3), (4)(C), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part B of the Act is classified generally to subchapter II (§ 1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 **Amendments**
 
-2015—Subsec. (b)(5)(A)(i). Pub. L. 114–95, § 9215(ee)(1)(A), substituted “select challenging State academic content standards, aligned academic achievement standards, and State academic assessments of a State, adopted and implemented, as appropriate, pursuant to paragraphs (1) and (2) of section 6311(b) of this title” for “select challenging academic content standards, challenging student academic achievement standards, and academic assessments of a State, adopted and implemented, as appropriate, pursuant to paragraphs (1) and (3) of section 6311(b) of this title”.
+2015—Subsec. (b)(5)(A)(i). Pub. L. 114–95, § 9215(ee)(1)(A), substituted “select challenging State academic content standards, aligned academic achievement standards, and State academic assessments of a State, adopted and implemented, as appropriate, pursuant to paragraphs (1) and (2) of section 6311(b) of this title” for “select challenging academic content standards, challenging student academic achievement standards, and academic assessments of a State, adopted and implemented, as appropriate, pursuant to paragraphs (1) and (3) of section 6311(b) of this title”.
 
-Subsec. (b)(5)(A)(ii). Pub. L. 114–95, § 9215(ee)(1)(B), substituted “2016–2017 academic year” for “2009–2010 academic year”.
+Subsec. (b)(5)(A)(ii). Pub. L. 114–95, § 9215(ee)(1)(B), substituted “2016–2017 academic year” for “2009–2010 academic year”.
 
-Subsec. (b)(5)(B). Pub. L. 114–95, § 9215(ee)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “annually determine whether such programs at the Clerc Center are making adequate yearly progress, as determined according to the definition of adequate yearly progress defined (pursuant to section 6311(b)(2)(C) of this title) by the State that has adopted and implemented the standards and assessments selected under subparagraph (A)(i); and”.
+Subsec. (b)(5)(B). Pub. L. 114–95, § 9215(ee)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “annually determine whether such programs at the Clerc Center are making adequate yearly progress, as determined according to the definition of adequate yearly progress defined (pursuant to section 6311(b)(2)(C) of this title) by the State that has adopted and implemented the standards and assessments selected under subparagraph (A)(i); and”.
 
-Subsec. (b)(5)(C). Pub. L. 114–95, § 9215(ee)(3), substituted “the results of the annual evaluation of the programs at the Clerc Center” for “whether the programs at the Clerc Center are making adequate yearly progress”.
+Subsec. (b)(5)(C). Pub. L. 114–95, § 9215(ee)(3), substituted “the results of the annual evaluation of the programs at the Clerc Center” for “whether the programs at the Clerc Center are making adequate yearly progress”.
 
-2008—Pub. L. 110–315, § 901(1), substituted “Laurent Clerc National Deaf Education Center” for “Elementary and secondary education programs” in section catchline.
+2008—Pub. L. 110–315, § 901(1), substituted “Laurent Clerc National Deaf Education Center” for “Elementary and secondary education programs” in section catchline.
 
-Subsec. (a)(1)(A). Pub. L. 110–315, § 901(2), inserted “the Laurent Clerc National Deaf Education Center (referred to in this section as the ‘Clerc Center’) to carry out” after “maintain and operate”.
+Subsec. (a)(1)(A). Pub. L. 110–315, § 901(2), inserted “the Laurent Clerc National Deaf Education Center (referred to in this section as the ‘Clerc Center’) to carry out” after “maintain and operate”.
 
-Subsec. (b)(1). Pub. L. 110–315, § 901(3)(A), substituted “Clerc Center” for “elementary and secondary education programs” in introductory provisions.
+Subsec. (b)(1). Pub. L. 110–315, § 901(3)(A), substituted “Clerc Center” for “elementary and secondary education programs” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 110–315, § 901(3)(B)(ii), substituted “618(a)(1)” for “618(a)(1)(A)” in introductory provisions. See 2004 Amendment note below.
+Subsec. (b)(2). Pub. L. 110–315, § 901(3)(B)(ii), substituted “618(a)(1)” for “618(a)(1)(A)” in introductory provisions. See 2004 Amendment note below.
 
-Pub. L. 110–315, § 901(3)(B)(i), substituted “Clerc Center” for “elementary and secondary education programs” in introductory provisions.
+Pub. L. 110–315, § 901(3)(B)(i), substituted “Clerc Center” for “elementary and secondary education programs” in introductory provisions.
 
-Subsec. (b)(4)(C). Pub. L. 110–315, § 901(3)(C)(i), realigned margins.
+Subsec. (b)(4)(C). Pub. L. 110–315, § 901(3)(C)(i), realigned margins.
 
-Subsec. (b)(4)(C)(i). Pub. L. 110–315, § 901(3)(C)(ii), substituted “(8)” for “(6)”.
+Subsec. (b)(4)(C)(i). Pub. L. 110–315, § 901(3)(C)(ii), substituted “(8)” for “(6)”.
 
-Subsec. (b)(4)(C)(vi). Pub. L. 110–315, § 901(3)(C)(iii), substituted “(*o*)” for “(m)”.
+Subsec. (b)(4)(C)(vi). Pub. L. 110–315, § 901(3)(C)(iii), substituted “(*o*)” for “(m)”.
 
-Subsec. (b)(5). Pub. L. 110–315, § 901(3)(D), added par. (5).
+Subsec. (b)(5). Pub. L. 110–315, § 901(3)(D), added par. (5).
 
 2004—Subsec. (b)(2). Pub. L. 108–446, which directed amendment of “section 104(b)(2) of the Education of the Deaf Act” by substituting “618(a)(1)” for “618(a)(1)(A)” in introductory provisions, was not executed to this section, which is section 104 of the Education of the Deaf Act of 1986. See 2008 Amendment note above.
 
-1998—Subsec. (b)(1). Pub. L. 105–244, § 912(1), inserted “and” after semicolon in subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “establish and publish priorities for research, development, and demonstration through a process that allows for public input.”
+1998—Subsec. (b)(1). Pub. L. 105–244, § 912(1), inserted “and” after semicolon in subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “establish and publish priorities for research, development, and demonstration through a process that allows for public input.”
 
-Subsec. (b)(2). Pub. L. 105–244, § 912(2), in introductory provisions, substituted “paragraph (1)(B)” for “paragraph (1)” and “section 618(a)(1)(A)” for “section 618(b)”.
+Subsec. (b)(2). Pub. L. 105–244, § 912(2), in introductory provisions, substituted “paragraph (1)(B)” for “paragraph (1)” and “section 618(a)(1)(A)” for “section 618(b)”.
 
-Subsec. (b)(3). Pub. L. 105–244, § 912(3), substituted “educational service agency” for “intermediate educational unit”.
+Subsec. (b)(3). Pub. L. 105–244, § 912(3), substituted “educational service agency” for “intermediate educational unit”.
 
-Subsec. (b)(4)(A). Pub. L. 105–244, § 912(4)(A), substituted “educational service agency” for “intermediate educational unit”.
+Subsec. (b)(4)(A). Pub. L. 105–244, § 912(4)(A), substituted “educational service agency” for “intermediate educational unit”.
 
-Subsec. (b)(4)(B). Pub. L. 105–244, § 912(4)(B), substituted “educational service agencies” for “intermediate educational units”.
+Subsec. (b)(4)(B). Pub. L. 105–244, § 912(4)(B), substituted “educational service agencies” for “intermediate educational units”.
 
-Subsec. (b)(4)(C). Pub. L. 105–244, § 912(5), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “provide the child a free appropriate public education in accordance with part B of the Individuals with Disabilities Education Act and procedural safeguards in accordance with the following provisions of section 615 of such Act:
+Subsec. (b)(4)(C). Pub. L. 105–244, § 912(5), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “provide the child a free appropriate public education in accordance with part B of the Individuals with Disabilities Education Act and procedural safeguards in accordance with the following provisions of section 615 of such Act:
 
 “(i) Subparagraphs (A), (C), (D), and (E) of paragraph (1) of subsection (b), and paragraph (2) of such subsection.
 
@@ -315,13 +315,13 @@ Subsec. (b)(4)(C). Pub. L. 105–244, § 912(5), amended subpar. (C) generally
 
 “(iv) Subsection (f).”
 
-1993—Pub. L. 103–73, § 203(d)(1), substituted “education” for “educational” in section catchline.
+1993—Pub. L. 103–73, § 203(d)(1), substituted “education” for “educational” in section catchline.
 
-Subsec. (a)(1). Pub. L. 103–73, § 203(d)(2), in subpar. (A) substituted “deaf or hard” for “deaf and individuals who are hard”, in subpar. (B) inserted “education” after “elementary and secondary” and substituted “non-English-speaking” for “non-English speaking”, and in subpar. (C), in introductory provisions, inserted “education” after “elementary and secondary”, in cl. (i) substituted “students” for “individuals” wherever appearing and “deaf from the age of onset of deafness to age fifteen, inclusive, but not beyond the eighth grade or its equivalent,” for “deaf,”, and in cl. (ii) substituted “students” for “individuals” wherever appearing and “deaf from grades nine through twelve, inclusive,” for “deaf,”.
+Subsec. (a)(1). Pub. L. 103–73, § 203(d)(2), in subpar. (A) substituted “deaf or hard” for “deaf and individuals who are hard”, in subpar. (B) inserted “education” after “elementary and secondary” and substituted “non-English-speaking” for “non-English speaking”, and in subpar. (C), in introductory provisions, inserted “education” after “elementary and secondary”, in cl. (i) substituted “students” for “individuals” wherever appearing and “deaf from the age of onset of deafness to age fifteen, inclusive, but not beyond the eighth grade or its equivalent,” for “deaf,”, and in cl. (ii) substituted “students” for “individuals” wherever appearing and “deaf from grades nine through twelve, inclusive,” for “deaf,”.
 
-Subsec. (b)(1). Pub. L. 103–73, § 203(d)(3), substituted “infants, children, and youth” for “infants and children” in subpar. (A) and a period for the semicolon at end of subpar. (C).
+Subsec. (b)(1). Pub. L. 103–73, § 203(d)(3), substituted “infants, children, and youth” for “infants and children” in subpar. (A) and a period for the semicolon at end of subpar. (C).
 
-Subsec. (b)(4). Pub. L. 103–73, § 203(d)(4), substituted “program” for “programs” in subpar. (A), “the child to and from that program” for “students to and from those programs” in subpar. (B), and “a decision” for “decisions” in subpar. (C)(iii).
+Subsec. (b)(4). Pub. L. 103–73, § 203(d)(4), substituted “program” for “programs” in subpar. (A), “the child to and from that program” for “students to and from those programs” in subpar. (B), and “a decision” for “decisions” in subpar. (C)(iii).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -337,7 +337,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 Section effective Oct. 1, 1992, see section 161 of Pub. L. 102–421, set out as an Effective Date of 1992 Amendment note under section 4301 of this title.
 
-#### § 4305. Agreement with Gallaudet University
+#### § 4305. Agreement with Gallaudet University
 
 **(a) General authority**
 
@@ -355,7 +355,7 @@ The Secretary and Gallaudet University shall establish, and periodically update,
 
 **(5)** include such other conditions as the Secretary or the University considers necessary to carry out the purposes of this part.
 
-(Pub. L. 99–371, title I, § 105, as added Pub. L. 102–421, title I, § 113, Oct. 16, 1992, 106 Stat. 2154; amended Pub. L. 103–73, title II, § 203(e), Aug. 11, 1993, 107 Stat. 734; Pub. L. 105–244, title IX, § 913, Oct. 7, 1998, 112 Stat. 1830; Pub. L. 110–315, title IX, § 902, Aug. 14, 2008, 122 Stat. 3451.)
+(Pub. L. 99–371, title I, § 105, as added Pub. L. 102–421, title I, § 113, Oct. 16, 1992, 106 Stat. 2154; amended Pub. L. 103–73, title II, § 203(e), Aug. 11, 1993, 107 Stat. 734; Pub. L. 105–244, title IX, § 913, Oct. 7, 1998, 112 Stat. 1830; Pub. L. 110–315, title IX, § 902, Aug. 14, 2008, 122 Stat. 3451.)
 
 **Editorial Notes**
 
@@ -369,9 +369,9 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (b)(4), is set o
 
 1998—Subsec. (a). Pub. L. 105–244 substituted “and periodically update, an” for “within 1 year after October 16, 1992, a new” and “The Secretary or the University shall determine the necessity for the periodic update described in the preceding sentence.” for “The Secretary and the University shall periodically update the agreement as determined to be necessary by the Secretary or the University.”
 
-1993—Subsec. (b)(2). Pub. L. 103–73, § 203(e)(1), substituted “will” for “shall”.
+1993—Subsec. (b)(2). Pub. L. 103–73, § 203(e)(1), substituted “will” for “shall”.
 
-Subsec. (b)(4). Pub. L. 103–73, § 203(e)(2), substituted “Elementary School or the Model” for “Elementary School and the Model” and “except that the Secretary” for “and the Secretary”.
+Subsec. (b)(4). Pub. L. 103–73, § 203(e)(2), substituted “Elementary School or the Model” for “Elementary School and the Model” and “except that the Secretary” for “and the Secretary”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -383,15 +383,15 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 Section effective Oct. 1, 1992, see section 161 of Pub. L. 102–421, set out as an Effective Date of 1992 Amendment note under section 4301 of this title.
 
-#### §§ 4311 to 4322. Repealed. Pub. L. 102–421, title I, § 101(a)(1), Oct. 16, 1992, 106 Stat. 2151
+#### §§ 4311 to 4322. Repealed. Pub. L. 102–421, title I, § 101(a)(1), Oct. 16, 1992, 106 Stat. 2151
 
-Section 4311, Pub. L. 99–371, title I, § 111, Aug. 4, 1986, 100 Stat. 783; Pub. L. 101–476, title IX, § 901(a)(2), Oct. 30, 1990, 104 Stat. 1142, which comprised former part B of this subchapter, related to authority of Gallaudet University to maintain and operate the Kendall Demonstration Elementary School.
+Section 4311, Pub. L. 99–371, title I, § 111, Aug. 4, 1986, 100 Stat. 783; Pub. L. 101–476, title IX, § 901(a)(2), Oct. 30, 1990, 104 Stat. 1142, which comprised former part B of this subchapter, related to authority of Gallaudet University to maintain and operate the Kendall Demonstration Elementary School.
 
 Sections 4321 and 4322 comprised former part C of this subchapter.
 
-Section 4321, Pub. L. 99–371, title I, § 121, Aug. 4, 1986, 100 Stat. 783; Pub. L. 101–476, title IX, § 901(a)(2), Oct. 30, 1990, 104 Stat. 1142, related to authority of Gallaudet University to maintain and operate a model secondary school for the deaf.
+Section 4321, Pub. L. 99–371, title I, § 121, Aug. 4, 1986, 100 Stat. 783; Pub. L. 101–476, title IX, § 901(a)(2), Oct. 30, 1990, 104 Stat. 1142, related to authority of Gallaudet University to maintain and operate a model secondary school for the deaf.
 
-Section 4322, Pub. L. 99–371, title I, § 122, Aug. 4, 1986, 100 Stat. 784, authorized continuation of agreement with Gallaudet University for model secondary school.
+Section 4322, Pub. L. 99–371, title I, § 122, Aug. 4, 1986, 100 Stat. 784, authorized continuation of agreement with Gallaudet University for model secondary school.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -405,13 +405,13 @@ Repeal effective Oct. 1, 1992, see section 161 of Pub. L. 102–421, set out as 
 
 **Prior Provisions**
 
-A prior part B of subchapter I of this chapter, consisted of section 4311 of this title, prior to repeal by Pub. L. 102–421, title I, §§ 101(a)(1), Oct. 16, 1992, 106 Stat. 2151.
+A prior part B of subchapter I of this chapter, consisted of section 4311 of this title, prior to repeal by Pub. L. 102–421, title I, §§ 101(a)(1), Oct. 16, 1992, 106 Stat. 2151.
 
-#### § 4331. Authority
+#### § 4331. Authority
 
 For the purpose of providing a residential facility for postsecondary technical training and education for individuals who are deaf in order to prepare them for successful employment, the institution of higher education with which the Secretary has an agreement under this part is authorized to operate and maintain a National Technical Institute for the Deaf.
 
-(Pub. L. 99–371, title I, § 111, formerly title II, § 201, Aug. 4, 1986, 100 Stat. 784; renumbered title I, § 111, Pub. L. 102–421, title I, § 101(b)(3), (4), Oct. 16, 1992, 106 Stat. 2151; Pub. L. 103–73, title II, § 203(f), Aug. 11, 1993, 107 Stat. 734.)
+(Pub. L. 99–371, title I, § 111, formerly title II, § 201, Aug. 4, 1986, 100 Stat. 784; renumbered title I, § 111, Pub. L. 102–421, title I, § 101(b)(3), (4), Oct. 16, 1992, 106 Stat. 2151; Pub. L. 103–73, title II, § 203(f), Aug. 11, 1993, 107 Stat. 734.)
 
 **Editorial Notes**
 
@@ -425,7 +425,7 @@ Provisions similar to this section were contained in section 681 of this title p
 
 1993—Pub. L. 103–73 substituted “part” for “subchapter”.
 
-#### § 4332. Agreement for National Technical Institute for the Deaf
+#### § 4332. Agreement for National Technical Institute for the Deaf
 
 **(a) General authority**
 
@@ -459,7 +459,7 @@ Provisions similar to this section were contained in section 681 of this title p
 
 the United States shall be entitled to recover from the applicant or other owner of the facility an amount which has the same ratio with respect to the current market value of the facility as the amount of Federal funds expended for construction of such facility bears to the total cost of construction of the facility. The current market value of the facility shall be determined by agreement of the parties or by action brought in the United States district court for the district in which the facility is situated.
 
-(Pub. L. 99–371, title I, § 112, formerly title II, § 202, Aug. 4, 1986, 100 Stat. 785; renumbered title I, § 112, and amended Pub. L. 102–421, title I, §§ 101(b)(3), (4), 121, 151(a)(4), Oct. 16, 1992, 106 Stat. 2151, 2155, 2164; Pub. L. 103–73, title II, §§ 202, 203(g), Aug. 11, 1993, 107 Stat. 732, 734; Pub. L. 105–244, title IX, § 914, Oct. 7, 1998, 112 Stat. 1830; Pub. L. 110–315, title IX, § 903, Aug. 14, 2008, 122 Stat. 3451.)
+(Pub. L. 99–371, title I, § 112, formerly title II, § 202, Aug. 4, 1986, 100 Stat. 785; renumbered title I, § 112, and amended Pub. L. 102–421, title I, §§ 101(b)(3), (4), 121, 151(a)(4), Oct. 16, 1992, 106 Stat. 2151, 2155, 2164; Pub. L. 103–73, title II, §§ 202, 203(g), Aug. 11, 1993, 107 Stat. 732, 734; Pub. L. 105–244, title IX, § 914, Oct. 7, 1998, 112 Stat. 1830; Pub. L. 110–315, title IX, § 903, Aug. 14, 2008, 122 Stat. 3451.)
 
 **Editorial Notes**
 
@@ -473,41 +473,41 @@ Provisions similar to this section were contained in section 684 of this title p
 
 **Amendments**
 
-2008—Subsec. (a)(1). Pub. L. 110–315, § 903(1), struck out at end “The Secretary, in considering proposals from institutions of higher education to enter into an agreement under this part, shall give preference to institutions which are located in metropolitan industrial areas.”
+2008—Subsec. (a)(1). Pub. L. 110–315, § 903(1), struck out at end “The Secretary, in considering proposals from institutions of higher education to enter into an agreement under this part, shall give preference to institutions which are located in metropolitan industrial areas.”
 
-Subsec. (b)(3). Pub. L. 110–315, § 903(2)(A), substituted “Committee on Health, Education, Labor, and Pensions of the Senate” for “Committee on Labor and Human Resources of the Senate”.
+Subsec. (b)(3). Pub. L. 110–315, § 903(2)(A), substituted “Committee on Health, Education, Labor, and Pensions of the Senate” for “Committee on Labor and Human Resources of the Senate”.
 
-Subsec. (b)(5). Pub. L. 110–315, § 903(2)(B), substituted “subchapter IV of chapter 31 of title 40, commonly referred to as the Davis-Bacon Act” for “the Act of March 3, 1931 (40 U.S.C. 276a—276a–5) commonly referred to as the Davis-Bacon Act” and “section 3145 of title 40” for “section 2 of the Act of June 13, 1934 (40 U.S.C. 276c)”.
+Subsec. (b)(5). Pub. L. 110–315, § 903(2)(B), substituted “subchapter IV of chapter 31 of title 40, commonly referred to as the Davis-Bacon Act” for “the Act of March 3, 1931 (40 U.S.C. 276a—276a–5) commonly referred to as the Davis-Bacon Act” and “section 3145 of title 40” for “section 2 of the Act of June 13, 1934 (40 U.S.C. 276c)”.
 
 1998—Subsec. (a)(2). Pub. L. 105–244 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary and the institution of higher education with which the Secretary has an agreement under this section shall, within 1 year after October 16, 1992, assess the need for modification of the agreement. The Secretary and the institution of higher education with which the Secretary has an agreement under this section shall also periodically update the agreement as determined to be necessary by the Secretary or the institution.”
 
-1993—Pub. L. 103–73, § 203(g)(1), substituted “National Technical Institute for the Deaf” for “Institute” in section catchline.
+1993—Pub. L. 103–73, § 203(g)(1), substituted “National Technical Institute for the Deaf” for “Institute” in section catchline.
 
-Subsec. (a)(1). Pub. L. 103–73, § 203(g)(2)(A), substituted “part” for “chapter”.
+Subsec. (a)(1). Pub. L. 103–73, § 203(g)(2)(A), substituted “part” for “chapter”.
 
-Subsec. (a)(2). Pub. L. 103–73, § 203(g)(2)(B), in first sentence struck out comma after “The Secretary” and after “this section”.
+Subsec. (a)(2). Pub. L. 103–73, § 203(g)(2)(B), in first sentence struck out comma after “The Secretary” and after “this section”.
 
-Subsec. (b)(1), (2). Pub. L. 103–73, § 202, substituted “NTID” for “the Institute” wherever appearing.
+Subsec. (b)(1), (2). Pub. L. 103–73, § 202, substituted “NTID” for “the Institute” wherever appearing.
 
-Subsec. (b)(3). Pub. L. 103–73, § 203(g)(3)(A), substituted “Secretary, not later than June 1 following the fiscal year for which the report is submitted, an annual report containing” for “Secretary an annual report, including”, “which accounting” for “which report”, and “Representatives” for “Representatives,”.
+Subsec. (b)(3). Pub. L. 103–73, § 203(g)(3)(A), substituted “Secretary, not later than June 1 following the fiscal year for which the report is submitted, an annual report containing” for “Secretary an annual report, including”, “which accounting” for “which report”, and “Representatives” for “Representatives,”.
 
-Subsec. (b)(4). Pub. L. 103–73, § 203(g)(3)(B), struck out “and” at end of par. (4).
+Subsec. (b)(4). Pub. L. 103–73, § 203(g)(3)(B), struck out “and” at end of par. (4).
 
-Subsec. (b)(5). Pub. L. 103–73, § 203(g)(3)(C), substituted “except that the Secretary” for “and the Secretary” and “; and” for period at end.
+Subsec. (b)(5). Pub. L. 103–73, § 203(g)(3)(C), substituted “except that the Secretary” for “and the Secretary” and “; and” for period at end.
 
-Pub. L. 103–73, § 202, substituted “NTID” for “the Institute”.
+Pub. L. 103–73, § 202, substituted “NTID” for “the Institute”.
 
-Subsec. (b)(6). Pub. L. 103–73, § 203(g)(3)(D), substituted “or hard of hearing” for “or individuals who are hard of hearing”.
+Subsec. (b)(6). Pub. L. 103–73, § 203(g)(3)(D), substituted “or hard of hearing” for “or individuals who are hard of hearing”.
 
-Subsec. (c). Pub. L. 103–73, § 203(g)(4), inserted a comma after “If”.
+Subsec. (c). Pub. L. 103–73, § 203(g)(4), inserted a comma after “If”.
 
-1992—Subsec. (a). Pub. L. 102–421, § 121(1), designated existing provisions as par. (1) and added par. (2).
+1992—Subsec. (a). Pub. L. 102–421, § 121(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b)(2). Pub. L. 102–421, § 151(a)(4), substituted “individuals who are deaf” for “the deaf”.
+Subsec. (b)(2). Pub. L. 102–421, § 151(a)(4), substituted “individuals who are deaf” for “the deaf”.
 
-Subsec. (b)(3). Pub. L. 102–421, § 121(2), substituted “will prepare and submit to the Secretary an annual report, including an accounting of all indirect costs paid to the institution of higher education under the agreement with the Secretary, which report the Secretary shall transmit to the Committee on Education and Labor of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate,” for “will make an annual report together with an accounting of all indirect costs paid to the institution of higher education under the agreement to the Secretary, which the Secretary shall transmit to the Congress”.
+Subsec. (b)(3). Pub. L. 102–421, § 121(2), substituted “will prepare and submit to the Secretary an annual report, including an accounting of all indirect costs paid to the institution of higher education under the agreement with the Secretary, which report the Secretary shall transmit to the Committee on Education and Labor of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate,” for “will make an annual report together with an accounting of all indirect costs paid to the institution of higher education under the agreement to the Secretary, which the Secretary shall transmit to the Congress”.
 
-Subsec. (b)(6). Pub. L. 102–421, § 121(3), added par. (6).
+Subsec. (b)(6). Pub. L. 102–421, § 121(3), added par. (6).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -529,7 +529,7 @@ Pursuant to an agreement entered into between the Secretary and the Rochester In
 
 ### Part C—Other Programs
 
-#### § 4341. Cultural experiences grants
+#### § 4341. Cultural experiences grants
 
 **(a) In general**
 
@@ -551,23 +551,23 @@ An eligible entity that desires to receive a grant, or enter into a contract or 
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
-(Pub. L. 99–371, title I, § 121, as added Pub. L. 110–315, title IX, § 904(a), Aug. 14, 2008, 122 Stat. 3452.)
+(Pub. L. 99–371, title I, § 121, as added Pub. L. 110–315, title IX, § 904(a), Aug. 14, 2008, 122 Stat. 3452.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4341, Pub. L. 99–371, title III, § 301, Aug. 4, 1986, 100 Stat. 786, established Commission on Education of the Deaf, prior to repeal by Pub. L. 102–421, title I, §§ 101(a)(2), 161, Oct. 16, 1992, 106 Stat. 2151, 2164, effective Oct. 1, 1992.
+A prior section 4341, Pub. L. 99–371, title III, § 301, Aug. 4, 1986, 100 Stat. 786, established Commission on Education of the Deaf, prior to repeal by Pub. L. 102–421, title I, §§ 101(a)(2), 161, Oct. 16, 1992, 106 Stat. 2151, 2164, effective Oct. 1, 1992.
 
 A prior section 121 of Pub. L. 99–371 was classified to section 4321 of this title, prior to repeal by Pub. L. 102–421.
 
-Prior sections 4342 to 4344 were repealed by Pub. L. 102–421, title I, §§ 101(a)(2), 161, Oct. 16, 1992, 106 Stat. 2151, 2164, effective Oct. 1, 1992.
+Prior sections 4342 to 4344 were repealed by Pub. L. 102–421, title I, §§ 101(a)(2), 161, Oct. 16, 1992, 106 Stat. 2151, 2164, effective Oct. 1, 1992.
 
-Section 4342, Pub. L. 99–371, title III, § 302, Aug. 4, 1986, 100 Stat. 786; Pub. L. 101–476, title IX, § 901(a)(2), Oct. 30, 1990, 104 Stat. 1142, outlined duties of Commission and provided for reports to Congress.
+Section 4342, Pub. L. 99–371, title III, § 302, Aug. 4, 1986, 100 Stat. 786; Pub. L. 101–476, title IX, § 901(a)(2), Oct. 30, 1990, 104 Stat. 1142, outlined duties of Commission and provided for reports to Congress.
 
-Section 4343, Pub. L. 99–371, title III, § 303, Aug. 4, 1986, 100 Stat. 787, related to personnel of Commission, hearings, quorums, consultation with other entities, information and statistics, and agency cooperation.
+Section 4343, Pub. L. 99–371, title III, § 303, Aug. 4, 1986, 100 Stat. 787, related to personnel of Commission, hearings, quorums, consultation with other entities, information and statistics, and agency cooperation.
 
-Section 4344, Pub. L. 99–371, title III, § 304, Aug. 4, 1986, 100 Stat. 788, provided for compensation of members of Commission.
+Section 4344, Pub. L. 99–371, title III, § 304, Aug. 4, 1986, 100 Stat. 788, provided for compensation of members of Commission.
 
 ## SUBCHAPTER II—GENERAL PROVISIONS
 
@@ -575,9 +575,9 @@ Section 4344, Pub. L. 99–371, title III, § 304, Aug. 4, 1986, 100 Stat. 788
 
 **Prior Provisions**
 
-A prior subchapter II of this chapter, consisting of sections 4331 and 4332 of this title, was redesignated part B of subchapter I of this chapter by Pub. L. 102–421, title I, § 101(b)(3), Oct. 16, 1992, 106 Stat. 2151.
+A prior subchapter II of this chapter, consisting of sections 4331 and 4332 of this title, was redesignated part B of subchapter I of this chapter by Pub. L. 102–421, title I, § 101(b)(3), Oct. 16, 1992, 106 Stat. 2151.
 
-### § 4351. Definitions
+### § 4351. Definitions
 
 As used in this chapter—
 
@@ -601,7 +601,7 @@ As used in this chapter—
 
 **(7)** The term “University” means Gallaudet University.
 
-(Pub. L. 99–371, title II, § 201, formerly title IV, § 401, Aug. 4, 1986, 100 Stat. 789; renumbered title II, § 201, and amended Pub. L. 102–421, title I, §§ 101(b)(5), (6), 131, 151(a)(3), (b), Oct. 16, 1992, 106 Stat. 2151, 2155, 2164; Pub. L. 103–73, title II, § 204(a), Aug. 11, 1993, 107 Stat. 734; Pub. L. 105–244, title IX, § 915, Oct. 7, 1998, 112 Stat. 1830.)
+(Pub. L. 99–371, title II, § 201, formerly title IV, § 401, Aug. 4, 1986, 100 Stat. 789; renumbered title II, § 201, and amended Pub. L. 102–421, title I, §§ 101(b)(5), (6), 131, 151(a)(3), (b), Oct. 16, 1992, 106 Stat. 2151, 2155, 2164; Pub. L. 103–73, title II, § 204(a), Aug. 11, 1993, 107 Stat. 734; Pub. L. 105–244, title IX, § 915, Oct. 7, 1998, 112 Stat. 1830.)
 
 **Editorial Notes**
 
@@ -613,27 +613,27 @@ Provisions similar to this section were contained in sections 682, 693a, and 695
 
 **Amendments**
 
-1998—Par. (1)(C). Pub. L. 105–244, § 915(1), struck out “Palau (but only until the Compact of Free Association with Palau takes effect),” after “Guam,”.
+1998—Par. (1)(C). Pub. L. 105–244, § 915(1), struck out “Palau (but only until the Compact of Free Association with Palau takes effect),” after “Guam,”.
 
-Par. (5). Pub. L. 105–244, § 915(2), inserted “and” after “Virgin Islands,” and struck out “, and Palau (but only until the Compact of Free Association with Palau takes effect)” after “Mariana Islands”.
+Par. (5). Pub. L. 105–244, § 915(2), inserted “and” after “Virgin Islands,” and struck out “, and Palau (but only until the Compact of Free Association with Palau takes effect)” after “Mariana Islands”.
 
 1993—Pub. L. 103–73 substituted “and” for “or” at end of par. (1)(B), redesignated pars. (4) and (6) to (9) as (3) to (7), respectively, and struck out former pars. (3) and (5) which defined “elementary school” and “secondary school”, respectively.
 
-1992—Par. (1). Pub. L. 102–421, § 131(1), added par. (1) and struck out former par. (1) which read as follows: “The term ‘Board of Trustees’ means (unless the context requires otherwise) the Board of Trustees of Gallaudet University established under section 4303 of this title.”
+1992—Par. (1). Pub. L. 102–421, § 131(1), added par. (1) and struck out former par. (1) which read as follows: “The term ‘Board of Trustees’ means (unless the context requires otherwise) the Board of Trustees of Gallaudet University established under section 4303 of this title.”
 
-Par. (2). Pub. L. 102–421, § 151(b)(1), substituted “therein” for “thereof”.
+Par. (2). Pub. L. 102–421, § 151(b)(1), substituted “therein” for “thereof”.
 
-Par. (3). Pub. L. 102–421, § 151(a)(3), (b)(2), substituted “children who are deaf or hard-of-hearing” for “deaf children”.
+Par. (3). Pub. L. 102–421, § 151(a)(3), (b)(2), substituted “children who are deaf or hard-of-hearing” for “deaf children”.
 
-Par. (4). Pub. L. 102–421, § 151(b)(3), substituted a semicolon for last comma in subpars. (A) to (E) of first sentence and “subparagraph” for “clause” in second sentence.
+Par. (4). Pub. L. 102–421, § 151(b)(3), substituted a semicolon for last comma in subpars. (A) to (E) of first sentence and “subparagraph” for “clause” in second sentence.
 
-Pub. L. 102–421, § 131(2), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The term ‘Institute’ means the National Technical Institute for the Deaf.”
+Pub. L. 102–421, § 131(2), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The term ‘Institute’ means the National Technical Institute for the Deaf.”
 
-Pars. (5), (6). Pub. L. 102–421, § 131(2)(B), redesignated pars. (6) and (7) as (5) and (6), respectively. Former par. (5) redesignated (4).
+Pars. (5), (6). Pub. L. 102–421, § 131(2)(B), redesignated pars. (6) and (7) as (5) and (6), respectively. Former par. (5) redesignated (4).
 
-Par. (7). Pub. L. 102–421, § 131(2)(B), (3), redesignated par. (8) as (7) and substituted “the Commonwealth of the Northern Mariana Islands, and Palau (but only until the Compact of Free Association with Palau takes effect).” for “the Northern Mariana Islands and the Trust Territory of the Pacific Islands.”. Former par. (7) redesignated (6).
+Par. (7). Pub. L. 102–421, § 131(2)(B), (3), redesignated par. (8) as (7) and substituted “the Commonwealth of the Northern Mariana Islands, and Palau (but only until the Compact of Free Association with Palau takes effect).” for “the Northern Mariana Islands and the Trust Territory of the Pacific Islands.”. Former par. (7) redesignated (6).
 
-Pars. (8), (9). Pub. L. 102–421, § 131(2)(B), (4), added pars. (8) and (9) and redesignated former par. (8) as (7).
+Pars. (8), (9). Pub. L. 102–421, § 131(2)(B), (4), added pars. (8) and (9) and redesignated former par. (8) as (7).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -649,11 +649,11 @@ Amendment by Pub. L. 102–421 effective Oct. 1, 1992, see section 161 of Pub. L
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
-### § 4352. Gifts
+### § 4352. Gifts
 
 The University and NTID are authorized to receive by gift, devise, bequest, purchase, or otherwise, property, both real and personal, for the use of the University or NTID, or for the use, as appropriate, for any programs, departments, or other units as may be designated in the conveyance or will, and to hold, invest, use, or dispose of such property for the purpose stated in the conveyance or will.
 
-(Pub. L. 99–371, title II, § 202, formerly title IV, § 402, Aug. 4, 1986, 100 Stat. 789; renumbered title II, § 202, and amended Pub. L. 102–421, title I, §§ 101(b)(5), (6), 132, Oct. 16, 1992, 106 Stat. 2151, 2156.)
+(Pub. L. 99–371, title II, § 202, formerly title IV, § 402, Aug. 4, 1986, 100 Stat. 789; renumbered title II, § 202, and amended Pub. L. 102–421, title I, §§ 101(b)(5), (6), 132, Oct. 16, 1992, 106 Stat. 2151, 2156.)
 
 **Editorial Notes**
 
@@ -665,7 +665,7 @@ Provisions similar to subsec. (a) of this section were contained in section 691c
 
 **Amendments**
 
-1992—Pub. L. 102–421, § 132, amended section generally. Prior to amendment, section read as follows:
+1992—Pub. L. 102–421, § 132, amended section generally. Prior to amendment, section read as follows:
 
 “(a) Gallaudet University.—Gallaudet University is authorized to receive by gift, devise, bequest, purchase, or otherwise, property, both real and personal, for the use of Gallaudet University, or for the use of any of its departments or other units as may be designated in the conveyance or will, and to hold, invest, use, or dispose of such property for the purpose stated in the conveyance or will.
 
@@ -677,7 +677,7 @@ Provisions similar to subsec. (a) of this section were contained in section 691c
 
 Amendment by Pub. L. 102–421 effective Oct. 1, 1992, see section 161 of Pub. L. 102–421, set out as a note under section 4301 of this title.
 
-### § 4353. Audit
+### § 4353. Audit
 
 **(a) Government Accountability Office authority** All financial transactions and accounts of the corporation or institution of higher education, as the case may be, in connection with the expenditure of any moneys appropriated by any law of the United States—
 
@@ -697,7 +697,7 @@ Gallaudet University shall have an annual independent financial and compliance a
 
 As used in paragraph (1), compliance means compliance with sections 4302(b), 4305(b)(4), 4332(b)(5), 4353(c),1
 
-<sup>1</sup>  So in original. Probably should be followed by “and”.
+<sup>1</sup> So in original. Probably should be followed by “and”.
 
 4357(b)(2) of this title, subsections (c) through (f) of section 4357 of this title, and subsections (a), (b), and (c) of section 4359a of this title.
 
@@ -743,7 +743,7 @@ A copy of each audit described in paragraph (1) shall be provided to the Secreta
 
 **(C)** The Secretary is not authorized to add items to those specified in subparagraph (B).
 
-(Pub. L. 99–371, title II, § 203, formerly title IV, § 403, Aug. 4, 1986, 100 Stat. 790; renumbered title II, § 203, and amended Pub. L. 102–421, title I, §§ 101(b)(5), (6), 133, Oct. 16, 1992, 106 Stat. 2151, 2156; Pub. L. 103–73, title II, §§ 202, 204(b), Aug. 11, 1993, 107 Stat. 732, 734; Pub. L. 105–244, title IX, § 916, Oct. 7, 1998, 112 Stat. 1830; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–315, title IX, § 905, Aug. 14, 2008, 122 Stat. 3452; Pub. L. 111–39, title VIII, § 802(b), July 1, 2009, 123 Stat. 1957.)
+(Pub. L. 99–371, title II, § 203, formerly title IV, § 403, Aug. 4, 1986, 100 Stat. 790; renumbered title II, § 203, and amended Pub. L. 102–421, title I, §§ 101(b)(5), (6), 133, Oct. 16, 1992, 106 Stat. 2151, 2156; Pub. L. 103–73, title II, §§ 202, 204(b), Aug. 11, 1993, 107 Stat. 732, 734; Pub. L. 105–244, title IX, § 916, Oct. 7, 1998, 112 Stat. 1830; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–315, title IX, § 905, Aug. 14, 2008, 122 Stat. 3452; Pub. L. 111–39, title VIII, § 802(b), July 1, 2009, 123 Stat. 1957.)
 
 **Editorial Notes**
 
@@ -755,21 +755,21 @@ Provisions similar to this section were contained in section 691f of this title 
 
 2009—Subsec. (b)(2). Pub. L. 111–39 substituted “and subsections (a), (b), and (c) of section 4359a of this title.” for “and subsections (b) and (c) of section 4359a of this title.”
 
-2008—Subsec. (b)(2). Pub. L. 110–315, § 905(1)(A), substituted “sections 4302(b), 4305(b)(4), 4332(b)(5), 4353(c), 4357(b)(2) of this title, subsections (c) through (f) of section 4357 of this title, and subsections (b) and (c) of section 4359a of this title” for “sections 4302(b), 4305(b)(4), 4332(b)(5) of this title, and subsection (c) of this section, paragraphs (2) and (3) of section 4357(b) of this title, subsections (b)(2), (b)(3), and (c) through (f), of section 4357 of this title, and subsections (b) and (c) of section 4359a of this title”.
+2008—Subsec. (b)(2). Pub. L. 110–315, § 905(1)(A), substituted “sections 4302(b), 4305(b)(4), 4332(b)(5), 4353(c), 4357(b)(2) of this title, subsections (c) through (f) of section 4357 of this title, and subsections (b) and (c) of section 4359a of this title” for “sections 4302(b), 4305(b)(4), 4332(b)(5) of this title, and subsection (c) of this section, paragraphs (2) and (3) of section 4357(b) of this title, subsections (b)(2), (b)(3), and (c) through (f), of section 4357 of this title, and subsections (b) and (c) of section 4359a of this title”.
 
-Subsec. (b)(3). Pub. L. 110–315, § 905(1)(B), inserted “and the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate” after “Secretary”.
+Subsec. (b)(3). Pub. L. 110–315, § 905(1)(B), inserted “and the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate” after “Secretary”.
 
-Subsec. (c)(2)(A). Pub. L. 110–315, § 905(2), substituted “Committee on Health, Education, Labor, and Pensions of the Senate” for “Committee on Labor and Human Resources of the Senate”.
+Subsec. (c)(2)(A). Pub. L. 110–315, § 905(2), substituted “Committee on Health, Education, Labor, and Pensions of the Senate” for “Committee on Labor and Human Resources of the Senate”.
 
 2004—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading and text.
 
 1998—Subsec. (b). Pub. L. 105–244 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Gallaudet University shall have an annual independent financial audit made of the programs and activities of the University. The institution of higher education with which the Secretary has an agreement under section 4332 of this title shall have an annual independent financial audit made of the programs and activities of such institution of higher education, including NTID, and containing specific schedules and analyses for all NTID funds, as determined by the Secretary.”
 
-1993—Subsec. (b). Pub. L. 103–73, § 204(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Gallaudet University and the institution of higher education operating the National Technical Institute for the Deaf shall have an annual independent audit made of the programs and activities of the University and of NTID, respectively.”
+1993—Subsec. (b). Pub. L. 103–73, § 204(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Gallaudet University and the institution of higher education operating the National Technical Institute for the Deaf shall have an annual independent audit made of the programs and activities of the University and of NTID, respectively.”
 
-Pub. L. 103–73, § 202, substituted “NTID” for “the Institute”.
+Pub. L. 103–73, § 202, substituted “NTID” for “the Institute”.
 
-1992—Subsec. (c). Pub. L. 102–421, § 133, added subsec. (c).
+1992—Subsec. (c). Pub. L. 102–421, § 133, added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -789,7 +789,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 Amendment by Pub. L. 102–421 effective Oct. 1, 1992, see section 161 of Pub. L. 102–421, set out as a note under section 4301 of this title.
 
-### § 4354. Reports
+### § 4354. Reports
 
 The Board of Trustees of Gallaudet University and the Board of Trustees or other governing body of the institution of higher education with which the Secretary has an agreement under section 4332 of this title shall prepare and submit an annual report to the Secretary, and to the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, not later than 100 days after the end of each fiscal year, which shall include the following:
 
@@ -823,7 +823,7 @@ The Board of Trustees of Gallaudet University and the Board of Trustees or other
 
 **(7)** Such additional information as the Secretary may consider necessary.
 
-(Pub. L. 99–371, title II, § 204, formerly title IV, § 404, Aug. 4, 1986, 100 Stat. 790; renumbered title II, § 204, and amended Pub. L. 102–421, title I, §§ 101(b)(5), (6), 134, Oct. 16, 1992, 106 Stat. 2151, 2157; Pub. L. 103–73, title II, § 204(c), Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, § 917, Oct. 7, 1998, 112 Stat. 1831; Pub. L. 110–315, title IX, § 906, Aug. 14, 2008, 122 Stat. 3453.)
+(Pub. L. 99–371, title II, § 204, formerly title IV, § 404, Aug. 4, 1986, 100 Stat. 790; renumbered title II, § 204, and amended Pub. L. 102–421, title I, §§ 101(b)(5), (6), 134, Oct. 16, 1992, 106 Stat. 2151, 2157; Pub. L. 103–73, title II, § 204(c), Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, § 917, Oct. 7, 1998, 112 Stat. 1831; Pub. L. 110–315, title IX, § 906, Aug. 14, 2008, 122 Stat. 3453.)
 
 **Editorial Notes**
 
@@ -833,25 +833,25 @@ Provisions similar to this section were contained in section 691f of this title 
 
 **Amendments**
 
-2008—Pub. L. 110–315, § 906(1), substituted “Committee on Health, Education, Labor, and Pensions of the Senate” for “Committee on Labor and Human Resources of the Senate” in introductory provisions.
+2008—Pub. L. 110–315, § 906(1), substituted “Committee on Health, Education, Labor, and Pensions of the Senate” for “Committee on Labor and Human Resources of the Senate” in introductory provisions.
 
-Par. (1). Pub. L. 110–315, § 906(2), struck out “preparatory,” after “secondary,”.
+Par. (1). Pub. L. 110–315, § 906(2), struck out “preparatory,” after “secondary,”.
 
-Par. (2)(C). Pub. L. 110–315, § 906(3), substituted “on the date that is one year after the date of graduation or completion” for “upon graduation/completion”.
+Par. (2)(C). Pub. L. 110–315, § 906(3), substituted “on the date that is one year after the date of graduation or completion” for “upon graduation/completion”.
 
-Par. (3)(B). Pub. L. 110–315, § 906(4), substituted “of NTID programs and activities” for “of the institution of higher education with which the Secretary has an agreement under section 4332 of this title, including specific schedules and analyses for all NTID funds, as required under section 4353 of this title”.
+Par. (3)(B). Pub. L. 110–315, § 906(4), substituted “of NTID programs and activities” for “of the institution of higher education with which the Secretary has an agreement under section 4332 of this title, including specific schedules and analyses for all NTID funds, as required under section 4353 of this title”.
 
 1998—Par. (3). Pub. L. 105–244 substituted “A summary of the annual” for “The annual” in subpar. (A) and substituted “a summary of the annual” for “the annual” in subpar. (B).
 
-1993—Par. (1). Pub. L. 103–73, § 204(c)(1), substituted “first-time” for “first time”.
+1993—Par. (1). Pub. L. 103–73, § 204(c)(1), substituted “first-time” for “first time”.
 
-Par. (2)(G). Pub. L. 103–73, § 204(c)(2), substituted “individualized education programs” for “Individualized Education Programs” and “children who are deaf or hard of hearing” for “children who are deaf”.
+Par. (2)(G). Pub. L. 103–73, § 204(c)(2), substituted “individualized education programs” for “Individualized Education Programs” and “children who are deaf or hard of hearing” for “children who are deaf”.
 
-Par. (3). Pub. L. 103–73, § 204(c)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The annual audited financial statements of the University and NTID, respectively, together with the auditor’s report.”
+Par. (3). Pub. L. 103–73, § 204(c)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The annual audited financial statements of the University and NTID, respectively, together with the auditor’s report.”
 
-Par. (6). Pub. L. 103–73, § 204(c)(4), substituted “Program funds are” for “Program is”.
+Par. (6). Pub. L. 103–73, § 204(c)(4), substituted “Program funds are” for “Program is”.
 
-1992—Pub. L. 102–421, § 134, amended section generally, substituting present provisions for provisions requiring annual reports from Board of Trustees of Gallaudet University and National Technical Institute for the Deaf and providing for an annual monitoring and evaluation report.
+1992—Pub. L. 102–421, § 134, amended section generally, substituting present provisions for provisions requiring annual reports from Board of Trustees of Gallaudet University and National Technical Institute for the Deaf and providing for an annual monitoring and evaluation report.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -867,7 +867,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 Amendment by Pub. L. 102–421 effective Oct. 1, 1992, see section 161 of Pub. L. 102–421, set out as a note under section 4301 of this title.
 
-### § 4355. Monitoring, evaluation, and reporting
+### § 4355. Monitoring, evaluation, and reporting
 
 **(a) Activities**
 
@@ -881,23 +881,23 @@ The Secretary shall annually transmit information to Congress on the monitoring 
 
 There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2009 through 2014 to carry out the monitoring and evaluation activities authorized under this section.
 
-(Pub. L. 99–371, title II, § 205, formerly title IV, § 405, Aug. 4, 1986, 100 Stat. 790; renumbered title II, § 205, and amended Pub. L. 102–421, title I, §§ 101(b)(5), (6), 135(a), Oct. 16, 1992, 106 Stat. 2151, 2158; Pub. L. 103–73, title II, § 204(d), Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, § 918, Oct. 7, 1998, 112 Stat. 1831; Pub. L. 110–315, title IX, § 907, Aug. 14, 2008, 122 Stat. 3453.)
+(Pub. L. 99–371, title II, § 205, formerly title IV, § 405, Aug. 4, 1986, 100 Stat. 790; renumbered title II, § 205, and amended Pub. L. 102–421, title I, §§ 101(b)(5), (6), 135(a), Oct. 16, 1992, 106 Stat. 2151, 2158; Pub. L. 103–73, title II, § 204(d), Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, § 918, Oct. 7, 1998, 112 Stat. 1831; Pub. L. 110–315, title IX, § 907, Aug. 14, 2008, 122 Stat. 3453.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–315, § 907(1), struck out “preparatory,” before “undergraduate”.
+2008—Subsec. (a). Pub. L. 110–315, § 907(1), struck out “preparatory,” before “undergraduate”.
 
-Subsec. (b). Pub. L. 110–315, § 907(2), substituted “The Secretary shall annually transmit information to Congress on” for “The Secretary, as part of the annual report required under section 3486 of this title, shall include a description of”.
+Subsec. (b). Pub. L. 110–315, § 907(2), substituted “The Secretary shall annually transmit information to Congress on” for “The Secretary, as part of the annual report required under section 3486 of this title, shall include a description of”.
 
-Subsec. (c). Pub. L. 110–315, § 907(3), substituted “fiscal years 2009 through 2014” for “fiscal years 1998 through 2003”.
+Subsec. (c). Pub. L. 110–315, § 907(3), substituted “fiscal years 2009 through 2014” for “fiscal years 1998 through 2003”.
 
 1998—Subsec. (c). Pub. L. 105–244 substituted “1998 through 2003” for “1993, 1994, 1995, 1996, and 1997”.
 
 1993—Subsec. (a). Pub. L. 103–73 substituted “individuals who are deaf or hard of hearing” for “individuals who are deaf” and struck out “the provisions of” after “pursuant to”.
 
-1992—Pub. L. 102–421, § 135(a), amended section generally. Prior to amendment, section read as follows: “The Secretary shall conduct monitoring and evaluation activities of the education programs and activities and the administrative operations of Gallaudet University and of the National Technical Institute for the Deaf. In carrying out the responsibilities described in this section, the Secretary is authorized to employ such consultants as may be necessary pursuant to the provisions of section 3109 of title 5.”
+1992—Pub. L. 102–421, § 135(a), amended section generally. Prior to amendment, section read as follows: “The Secretary shall conduct monitoring and evaluation activities of the education programs and activities and the administrative operations of Gallaudet University and of the National Technical Institute for the Deaf. In carrying out the responsibilities described in this section, the Secretary is authorized to employ such consultants as may be necessary pursuant to the provisions of section 3109 of title 5.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -909,7 +909,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 Amendment by Pub. L. 102–421 effective Oct. 1, 1992, see section 161 of Pub. L. 102–421, set out as a note under section 4301 of this title.
 
-### § 4356. Liaison for educational programs
+### § 4356. Liaison for educational programs
 
 **(a) Designation of liaison**
 
@@ -927,15 +927,15 @@ The Secretary shall designate an individual in the Office of Special Education a
 
 Nothing in this section may be construed to affect the authority of the Secretary under this chapter or any other Act with respect to Gallaudet University or the National Technical Institute for the Deaf.
 
-(Pub. L. 99–371, title II, § 206, formerly title IV, § 406, Aug. 4, 1986, 100 Stat. 790; Pub. L. 101–476, title IX, § 901(a)(2), Oct. 30, 1990, 104 Stat. 1142; renumbered title II, § 206, and amended Pub. L. 102–421, title I, §§ 101(b)(5), (6), 136, 151(a)(4), (5), Oct. 16, 1992, 106 Stat. 2151, 2159, 2164; Pub. L. 103–73, title II, § 204(e), Aug. 11, 1993, 107 Stat. 735; Pub. L. 110–315, title IX, § 908, Aug. 14, 2008, 122 Stat. 3453.)
+(Pub. L. 99–371, title II, § 206, formerly title IV, § 406, Aug. 4, 1986, 100 Stat. 790; Pub. L. 101–476, title IX, § 901(a)(2), Oct. 30, 1990, 104 Stat. 1142; renumbered title II, § 206, and amended Pub. L. 102–421, title I, §§ 101(b)(5), (6), 136, 151(a)(4), (5), Oct. 16, 1992, 106 Stat. 2151, 2159, 2164; Pub. L. 103–73, title II, § 204(e), Aug. 11, 1993, 107 Stat. 735; Pub. L. 110–315, title IX, § 908, Aug. 14, 2008, 122 Stat. 3453.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Individuals with Disabilities Education Act, referred to in subsec. (a), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (a), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (a), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (a), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 **Amendments**
 
@@ -943,15 +943,15 @@ The Rehabilitation Act of 1973, referred to in subsec. (a), is Pub. L. 93–112,
 
 1993—Subsec. (b). Pub. L. 103–73, which directed amendment of subsec. (b) by inserting “or hard of hearing” after “individuals who are deaf”, was executed by making the insertion in introductory provisions but not in par. (2) to reflect the probable intent of Congress.
 
-1992—Pub. L. 102–421, § 151(a)(5), struck out “for the deaf” after “educational programs” in section catchline.
+1992—Pub. L. 102–421, § 151(a)(5), struck out “for the deaf” after “educational programs” in section catchline.
 
-Subsec. (a). Pub. L. 102–421, § 151(a)(4), substituted “individuals who are deaf” for “the deaf” in two places.
+Subsec. (a). Pub. L. 102–421, § 151(a)(4), substituted “individuals who are deaf” for “the deaf” in two places.
 
-Pub. L. 102–421, § 136(1), substituted “, the Rehabilitation Act of 1973, and other Federal or non-Federal agencies, institutions, or organizations involved with the education or rehabilitation of individuals who are deaf or hard of hearing.” for “and the Rehabilitation Act of 1973.”
+Pub. L. 102–421, § 136(1), substituted “, the Rehabilitation Act of 1973, and other Federal or non-Federal agencies, institutions, or organizations involved with the education or rehabilitation of individuals who are deaf or hard of hearing.” for “and the Rehabilitation Act of 1973.”
 
-Subsec. (b). Pub. L. 102–421, § 151(a)(4), substituted “individuals who are deaf” for “the deaf” in introductory provisions.
+Subsec. (b). Pub. L. 102–421, § 151(a)(4), substituted “individuals who are deaf” for “the deaf” in introductory provisions.
 
-Subsec. (b)(1) to (3). Pub. L. 102–421, § 136(2), struck out “and” at end of par. (1), added par. (2), and redesignated former par. (2) as (3).
+Subsec. (b)(1) to (3). Pub. L. 102–421, § 136(2), struck out “and” at end of par. (1), added par. (2), and redesignated former par. (2) as (3).
 
 1990—Subsec. (a). Pub. L. 101–476 substituted “Individuals with Disabilities Education Act” for “Education of the Handicapped Act”.
 
@@ -965,7 +965,7 @@ Amendment by Pub. L. 102–421 effective Oct. 1, 1992, see section 161 of Pub. L
 
 Amendment by Pub. L. 101–476 effective Oct. 1, 1990, see section 1001 of Pub. L. 101–476, set out as a note under section 1087ee of this title.
 
-### § 4357. Federal endowment programs for Gallaudet University and the National Technical Institute for the Deaf
+### § 4357. Federal endowment programs for Gallaudet University and the National Technical Institute for the Deaf
 
 **(a) Establishment of programs**
 
@@ -987,7 +987,7 @@ Amendment by Pub. L. 101–476 effective Oct. 1, 1990, see section 1001 of Pub. 
 
 **(3)** Neither the University nor NTID may invest its Federal endowment fund corpus or income in real estate, or in instruments or securities issued by an organization in which an executive officer, a member of the Board of Trustees of the University or of the host institution, or a member of the advisory group established under section 4332 of this title is a controlling shareholder, director, or owner within the meaning of Federal securities laws and other applicable laws. Neither the University nor NTID may assign, hypothocate,1
 
-<sup>1</sup>  So in original. Probably should be “hypothecate,”
+<sup>1</sup> So in original. Probably should be “hypothecate,”
 
 encumber, or create a lien on the Federal endowment fund corpus without specific written authorization of the Secretary.
 
@@ -1049,35 +1049,35 @@ The corpus associated with a Federal payment (and its non-Federal match) made to
 
 The provisions of this section shall take effect as if included in this chapter as enacted on August 4, 1986.
 
-(Pub. L. 99–371, title II, § 207, as added Pub. L. 102–421, title I, § 137(2), Oct. 16, 1992, 106 Stat. 2159; amended Pub. L. 103–73, title II, § 204(f), Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, § 919, Oct. 7, 1998, 112 Stat. 1831; Pub. L. 110–315, title IX, § 909, Aug. 14, 2008, 122 Stat. 3453.)
+(Pub. L. 99–371, title II, § 207, as added Pub. L. 102–421, title I, § 137(2), Oct. 16, 1992, 106 Stat. 2159; amended Pub. L. 103–73, title II, § 204(f), Aug. 11, 1993, 107 Stat. 735; Pub. L. 105–244, title IX, § 919, Oct. 7, 1998, 112 Stat. 1831; Pub. L. 110–315, title IX, § 909, Aug. 14, 2008, 122 Stat. 3453.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4357, Pub. L. 99–371, title II, § 207, formerly title IV, § 407, Aug. 4, 1986, 100 Stat. 791; renumbered title II, § 207, Pub. L. 102–421, title I, § 101(b)(5), (6), Oct. 16, 1992, 106 Stat. 2151, provided for Gallaudet University Federal endowment program, prior to repeal effective Oct. 1, 1992, by Pub. L. 102–421, title I, §§ 137(1), 161, Oct. 16, 1992, 106 Stat. 2159, 2164.
+A prior section 4357, Pub. L. 99–371, title II, § 207, formerly title IV, § 407, Aug. 4, 1986, 100 Stat. 791; renumbered title II, § 207, Pub. L. 102–421, title I, § 101(b)(5), (6), Oct. 16, 1992, 106 Stat. 2151, provided for Gallaudet University Federal endowment program, prior to repeal effective Oct. 1, 1992, by Pub. L. 102–421, title I, §§ 137(1), 161, Oct. 16, 1992, 106 Stat. 2159, 2164.
 
 **Amendments**
 
 2008—Subsec. (h)(1), (2). Pub. L. 110–315 substituted “fiscal years 2009 through 2014” for “fiscal years 1998 through 2003”.
 
-1998—Subsec. (b)(2). Pub. L. 105–244, § 919(1)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Subject to the availability of appropriations and the non-Federal matching requirements of paragraph (3), the Secretary shall make payments to each Federal endowment fund in amounts equal to sums contributed to the fund from non-Federal sources (excluding transfers from other endowment funds of the institution involved).”
+1998—Subsec. (b)(2). Pub. L. 105–244, § 919(1)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Subject to the availability of appropriations and the non-Federal matching requirements of paragraph (3), the Secretary shall make payments to each Federal endowment fund in amounts equal to sums contributed to the fund from non-Federal sources (excluding transfers from other endowment funds of the institution involved).”
 
-Subsec. (b)(3). Pub. L. 105–244, § 919(1)(B), struck out par. (3) which read as follows: “Effective for fiscal year 1993 and each succeeding fiscal year, for any fiscal year in which the sums contributed to the Federal endowment fund of the institution involved from non-Federal sources exceed $1,000,000, the non-Federal contribution to the Federal endowment fund shall be $2 for each Federal dollar provided in excess of $1,000,000 (excluding transfers from other endowment funds of the institution involved).”
+Subsec. (b)(3). Pub. L. 105–244, § 919(1)(B), struck out par. (3) which read as follows: “Effective for fiscal year 1993 and each succeeding fiscal year, for any fiscal year in which the sums contributed to the Federal endowment fund of the institution involved from non-Federal sources exceed $1,000,000, the non-Federal contribution to the Federal endowment fund shall be $2 for each Federal dollar provided in excess of $1,000,000 (excluding transfers from other endowment funds of the institution involved).”
 
-Subsec. (c)(1). Pub. L. 105–244, § 919(2), inserted “the Federal contribution of” after “shall invest”.
+Subsec. (c)(1). Pub. L. 105–244, § 919(2), inserted “the Federal contribution of” after “shall invest”.
 
-Subsec. (d)(2)(C). Pub. L. 105–244, § 919(3)(A), substituted “The University” for “Beginning on October 1, 1992, the University”.
+Subsec. (d)(2)(C). Pub. L. 105–244, § 919(3)(A), substituted “The University” for “Beginning on October 1, 1992, the University”.
 
-Subsec. (d)(3)(A). Pub. L. 105–244, § 919(3)(B), substituted “current” for “prior”.
+Subsec. (d)(3)(A). Pub. L. 105–244, § 919(3)(B), substituted “current” for “prior”.
 
-Subsec. (h)(1), (2). Pub. L. 105–244, § 919(4), substituted “1998 through 2003” for “1993 through 1997”.
+Subsec. (h)(1), (2). Pub. L. 105–244, § 919(4), substituted “1998 through 2003” for “1993 through 1997”.
 
-1993—Subsec. (c)(3). Pub. L. 103–73, § 204(f)(1), substituted “advisory group established under section 4332 of this title” for “Advisory Board of NTID”.
+1993—Subsec. (c)(3). Pub. L. 103–73, § 204(f)(1), substituted “advisory group established under section 4332 of this title” for “Advisory Board of NTID”.
 
-Subsec. (e). Pub. L. 103–73, § 204(f)(2), substituted “such investment limitations or” for “such investment limitations and”.
+Subsec. (e). Pub. L. 103–73, § 204(f)(2), substituted “such investment limitations or” for “such investment limitations and”.
 
-Subsec. (i). Pub. L. 103–73, § 204(f)(3), substituted “this chapter as enacted on August 4, 1986” for “the provisions of the Education of the Deaf Act of 1986”.
+Subsec. (i). Pub. L. 103–73, § 204(f)(3), substituted “this chapter as enacted on August 4, 1986” for “the provisions of the Education of the Deaf Act of 1986”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1085,11 +1085,11 @@ Subsec. (i). Pub. L. 103–73, § 204(f)(3), substituted “this chapter as en
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
-### § 4358. Repealed. Pub. L. 105–244, title IX, § 920, Oct. 7, 1998, 112 Stat. 1831
+### § 4358. Repealed. Pub. L. 105–244, title IX, § 920, Oct. 7, 1998, 112 Stat. 1831
 
-Section, Pub. L. 99–371, title II, § 208, as added Pub. L. 102–421, title I, § 138, Oct. 16, 1992, 106 Stat. 2162, related to scholarship program for deaf education or special education careers.
+Section, Pub. L. 99–371, title II, § 208, as added Pub. L. 102–421, title I, § 138, Oct. 16, 1992, 106 Stat. 2162, related to scholarship program for deaf education or special education careers.
 
-A prior section 4358, Pub. L. 99–371, title II, § 208, formerly title IV, § 408, Aug. 4, 1986, 100 Stat. 792; renumbered title II, § 208, Pub. L. 102–421, title I, § 101(b)(5), (6), Oct. 16, 1992, 106 Stat. 2151, provided for a National Technical Institute for the Deaf endowment program, prior to repeal effective Oct. 1, 1992, by Pub. L. 102–421, title I, §§ 137(1), 161, Oct. 16, 1992, 106 Stat. 2159, 2164. See section 4357 of this title.
+A prior section 4358, Pub. L. 99–371, title II, § 208, formerly title IV, § 408, Aug. 4, 1986, 100 Stat. 792; renumbered title II, § 208, Pub. L. 102–421, title I, § 101(b)(5), (6), Oct. 16, 1992, 106 Stat. 2151, provided for a National Technical Institute for the Deaf endowment program, prior to repeal effective Oct. 1, 1992, by Pub. L. 102–421, title I, §§ 137(1), 161, Oct. 16, 1992, 106 Stat. 2159, 2164. See section 4357 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1097,7 +1097,7 @@ A prior section 4358, Pub. L. 99–371, title II, § 208, formerly title IV, �
 
 Repeal effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
 
-### § 4359. Oversight and effect of agreements
+### § 4359. Oversight and effect of agreements
 
 **(a) Oversight activities**
 
@@ -1107,7 +1107,7 @@ Nothing in this chapter shall be construed to diminish the oversight activities 
 
 The agreements described in subsection (a) of this section shall continue in effect, to the extent that such agreements are not inconsistent with this chapter.
 
-(Pub. L. 99–371, title II, § 208, formerly title IV, § 409, Aug. 4, 1986, 100 Stat. 794; renumbered title II, § 209, Pub. L. 102–421, title I, § 101(b)(5), (6), Oct. 16, 1992, 106 Stat. 2151; amended Pub. L. 103–73, title II, § 204(g), Aug. 11, 1993, 107 Stat. 735; renumbered § 208 and amended Pub. L. 105–244, title IX, § 921, Oct. 7, 1998, 112 Stat. 1831; Pub. L. 110–315, title IX, § 910, Aug. 14, 2008, 122 Stat. 3453.)
+(Pub. L. 99–371, title II, § 208, formerly title IV, § 409, Aug. 4, 1986, 100 Stat. 794; renumbered title II, § 209, Pub. L. 102–421, title I, § 101(b)(5), (6), Oct. 16, 1992, 106 Stat. 2151; amended Pub. L. 103–73, title II, § 204(g), Aug. 11, 1993, 107 Stat. 735; renumbered § 208 and amended Pub. L. 105–244, title IX, § 921, Oct. 7, 1998, 112 Stat. 1831; Pub. L. 110–315, title IX, § 910, Aug. 14, 2008, 122 Stat. 3453.)
 
 **Editorial Notes**
 
@@ -1121,11 +1121,11 @@ Another prior section 208 of Pub. L. 99–371 was classified to section 4358 of 
 
 2008—Subsec. (a). Pub. L. 110–315 substituted “Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate” for “Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives”.
 
-1998—Subsec. (a). Pub. L. 105–244, § 921(1), substituted “Committee on Education and the Workforce” for “Committee on Education and Labor”.
+1998—Subsec. (a). Pub. L. 105–244, § 921(1), substituted “Committee on Education and the Workforce” for “Committee on Education and Labor”.
 
-1993—Subsec. (a). Pub. L. 103–73, § 204(g)(1), substituted “an agreement under part B of subchapter I” for “an agreement under title II”.
+1993—Subsec. (a). Pub. L. 103–73, § 204(g)(1), substituted “an agreement under part B of subchapter I” for “an agreement under title II”.
 
-Subsec. (b). Pub. L. 103–73, § 204(g)(2), struck out “the provisions of” after “inconsistent with”.
+Subsec. (b). Pub. L. 103–73, § 204(g)(2), struck out “the provisions of” after “inconsistent with”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1137,7 +1137,7 @@ Committee on Education and Labor of House of Representatives changed to Committe
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
-### § 4359a. International students
+### § 4359a. International students
 
 **(a) Enrollment**
 
@@ -1183,7 +1183,7 @@ Except as provided in paragraph (2), effective with new admissions for academic 
 
 In this section, the term “developing country” means a country with a per-capita income of not more than $5,345, measured in 2005 United States dollars, as adjusted by the Secretary to reflect inflation since 2005.
 
-(Pub. L. 99–371, title II, § 209, formerly § 210, as added Pub. L. 102–421, title I, § 139, Oct. 16, 1992, 106 Stat. 2163; amended Pub. L. 103–73, title II, § 204(h), Aug. 11, 1993, 107 Stat. 735; renumbered § 209 and amended Pub. L. 105–244, title IX, § 922, Oct. 7, 1998, 112 Stat. 1832; Pub. L. 110–315, title IX, § 911, Aug. 14, 2008, 122 Stat. 3454.)
+(Pub. L. 99–371, title II, § 209, formerly § 210, as added Pub. L. 102–421, title I, § 139, Oct. 16, 1992, 106 Stat. 2163; amended Pub. L. 103–73, title II, § 204(h), Aug. 11, 1993, 107 Stat. 735; renumbered § 209 and amended Pub. L. 105–244, title IX, § 922, Oct. 7, 1998, 112 Stat. 1832; Pub. L. 110–315, title IX, § 911, Aug. 14, 2008, 122 Stat. 3454.)
 
 **Editorial Notes**
 
@@ -1193,17 +1193,17 @@ A prior section 209 of Pub. L. 99–371 was renumbered section 208 and is classi
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–315, § 911(1), designated existing provisions as par. (1), inserted heading, substituted “Except as provided in paragraph (2), effective with” for “Effective with” and “undergraduate” for “preparatory, undergraduate,”, and added par. (2).
+2008—Subsec. (a). Pub. L. 110–315, § 911(1), designated existing provisions as par. (1), inserted heading, substituted “Except as provided in paragraph (2), effective with” for “Effective with” and “undergraduate” for “preparatory, undergraduate,”, and added par. (2).
 
-Subsecs. (b) to (d). Pub. L. 110–315, § 911(2), added subsecs. (b) to (d) and struck out former subsecs. (b) to (d), which related to tuition surcharge, reduction of surcharge, and definition of “developing country”, respectively.
+Subsecs. (b) to (d). Pub. L. 110–315, § 911(2), added subsecs. (b) to (d) and struck out former subsecs. (b) to (d), which related to tuition surcharge, reduction of surcharge, and definition of “developing country”, respectively.
 
-1998—Subsec. (a). Pub. L. 105–244, § 922(a)(1), substituted “15 percent” for “10 percent” and inserted before period “, except that in any school year no United States citizen who is qualified to be admitted to the University or NTID and applies for admission to the University or NTID shall be denied admission because of the admission of an international student”.
+1998—Subsec. (a). Pub. L. 105–244, § 922(a)(1), substituted “15 percent” for “10 percent” and inserted before period “, except that in any school year no United States citizen who is qualified to be admitted to the University or NTID and applies for admission to the University or NTID shall be denied admission because of the admission of an international student”.
 
-Subsec. (b). Pub. L. 105–244, § 922(a)(2), substituted “surcharge of 100 percent for the academic year 1999–2000 and any succeeding academic year” for “surcharge of 75 percent for the academic year 1993–1994 and 90 percent beginning with the academic year 1994–1995”.
+Subsec. (b). Pub. L. 105–244, § 922(a)(2), substituted “surcharge of 100 percent for the academic year 1999–2000 and any succeeding academic year” for “surcharge of 75 percent for the academic year 1993–1994 and 90 percent beginning with the academic year 1994–1995”.
 
-1993—Subsec. (b). Pub. L. 103–73, § 204(h)(1), substituted “75 percent for the academic year 1993–1994 and 90 percent beginning with the academic year 1994–1995” for “75 percent beginning the academic year 1993–1994, and 90 percent beginning the academic year 1994–1995”.
+1993—Subsec. (b). Pub. L. 103–73, § 204(h)(1), substituted “75 percent for the academic year 1993–1994 and 90 percent beginning with the academic year 1994–1995” for “75 percent beginning the academic year 1993–1994, and 90 percent beginning the academic year 1994–1995”.
 
-Subsec. (c). Pub. L. 103–73, § 204(h)(2), substituted “Beginning with the academic year 1993–1994” for “Beginning the academic year 1993–1994 and thereafter” in introductory provisions and redesignated subpars. (A) to (C) as pars. (1) to (3), respectively.
+Subsec. (c). Pub. L. 103–73, § 204(h)(2), substituted “Beginning with the academic year 1993–1994” for “Beginning the academic year 1993–1994 and thereafter” in introductory provisions and redesignated subpars. (A) to (C) as pars. (1) to (3), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1215,7 +1215,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 Section effective Oct. 1, 1992, see section 161 of Pub. L. 102–421, set out as an Effective Date of 1992 Amendment note under section 4301 of this title.
 
-### § 4359b. Research priorities
+### § 4359b. Research priorities
 
 **(a) Research priorities**
 
@@ -1227,7 +1227,7 @@ Gallaudet University and the National Technical Institute for the Deaf shall eac
 
 **(2)** a summary description of the research undertaken by the University and NTID, the start and projected end dates for each research project, the projected cost and source or sources of funding for each project, and any products resulting from research completed in the prior fiscal year.
 
-(Pub. L. 99–371, title II, § 210, as added Pub. L. 105–244, title IX, § 923, Oct. 7, 1998, 112 Stat. 1832; amended Pub. L. 110–315, title IX, § 912, Aug. 14, 2008, 122 Stat. 3455.)
+(Pub. L. 99–371, title II, § 210, as added Pub. L. 105–244, title IX, § 923, Oct. 7, 1998, 112 Stat. 1832; amended Pub. L. 110–315, title IX, § 912, Aug. 14, 2008, 122 Stat. 3455.)
 
 **Editorial Notes**
 
@@ -1235,7 +1235,7 @@ Gallaudet University and the National Technical Institute for the Deaf shall eac
 
 A prior section 210 of Pub. L. 99–371 was renumbered section 209 and is classified to section 4359a of this title.
 
-Another prior section 210 of title II of Pub. L. 99–371, formerly title IV, § 410, Aug. 4, 1986, 100 Stat. 794; renumbered title II, § 210, Pub. L. 102–241, title I, § 101(b)(5), (6), Oct. 16, 1992, 106 Stat. 2151, repealed sections 681 to 685, 691 to 691g, 693 to 693b, and 695 to 695c of this title and provisions set out as notes under sections 681 and 693 of this title, prior to repeal by Pub. L. 102–421, title I, § 139, Oct. 16, 1992, 106 Stat. 2163.
+Another prior section 210 of title II of Pub. L. 99–371, formerly title IV, § 410, Aug. 4, 1986, 100 Stat. 794; renumbered title II, § 210, Pub. L. 102–241, title I, § 101(b)(5), (6), Oct. 16, 1992, 106 Stat. 2151, repealed sections 681 to 685, 691 to 691g, 693 to 693b, and 695 to 695c of this title and provisions set out as notes under sections 681 and 693 of this title, prior to repeal by Pub. L. 102–421, title I, § 139, Oct. 16, 1992, 106 Stat. 2163.
 
 **Amendments**
 
@@ -1251,7 +1251,7 @@ Committee on Education and Labor of House of Representatives changed to Committe
 
 Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
 
-### § 4360. National study on the education of the deaf
+### § 4360. National study on the education of the deaf
 
 **(a) Conduct of study**
 
@@ -1287,25 +1287,25 @@ The commission shall provide structured opportunities to receive and respond to 
 
 There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2009 and 2010 to carry out the provisions of this section.
 
-(Pub. L. 99–371, title II, § 211, as added Pub. L. 105–244, title IX, § 924, Oct. 7, 1998, 112 Stat. 1832; amended Pub. L. 110–315, title IX, § 913, Aug. 14, 2008, 122 Stat. 3455.)
+(Pub. L. 99–371, title II, § 211, as added Pub. L. 105–244, title IX, § 924, Oct. 7, 1998, 112 Stat. 1832; amended Pub. L. 110–315, title IX, § 913, Aug. 14, 2008, 122 Stat. 3455.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4360, Pub. L. 99–371, title II, § 211, formerly title IV, § 411, Aug. 4, 1986, 100 Stat. 794; renumbered title II, § 211, and amended Pub. L. 102–421, title I, §§ 101(b)(5), (6), 140, 151(a)(4), Oct. 16, 1992, 106 Stat. 2151, 2163, 2164; Pub. L. 103–73, title II, § 204(i), Aug. 11, 1993, 107 Stat. 735, authorized appropriations for this chapter, prior to repeal by Pub. L. 105–244, § 3, title IX, § 923, Oct. 7, 1998, 112 Stat. 1585, 1832, effective Oct. 1, 1998. See section 4360a of this title.
+A prior section 4360, Pub. L. 99–371, title II, § 211, formerly title IV, § 411, Aug. 4, 1986, 100 Stat. 794; renumbered title II, § 211, and amended Pub. L. 102–421, title I, §§ 101(b)(5), (6), 140, 151(a)(4), Oct. 16, 1992, 106 Stat. 2151, 2163, 2164; Pub. L. 103–73, title II, § 204(i), Aug. 11, 1993, 107 Stat. 735, authorized appropriations for this chapter, prior to repeal by Pub. L. 105–244, § 3, title IX, § 923, Oct. 7, 1998, 112 Stat. 1585, 1832, effective Oct. 1, 1998. See section 4360a of this title.
 
 **Amendments**
 
-2008—Subsec. (a)(1). Pub. L. 110–315, § 913(a), inserted “establish a commission on the education of the deaf (in this section referred to as the ‘commission’) to” after “The Secretary shall”.
+2008—Subsec. (a)(1). Pub. L. 110–315, § 913(a), inserted “establish a commission on the education of the deaf (in this section referred to as the ‘commission’) to” after “The Secretary shall”.
 
-Subsec. (b). Pub. L. 110–315, § 913(b), substituted “commission” for “Secretary” wherever appearing.
+Subsec. (b). Pub. L. 110–315, § 913(b), substituted “commission” for “Secretary” wherever appearing.
 
-Subsec. (c). Pub. L. 110–315, § 913(c)(1), in introductory provisions, substituted “commission shall report to the Secretary and Congress not later than 18 months after August 14, 2008” for “Secretary shall report to Congress not later than 18 months after October 7, 1998”.
+Subsec. (c). Pub. L. 110–315, § 913(c)(1), in introductory provisions, substituted “commission shall report to the Secretary and Congress not later than 18 months after August 14, 2008” for “Secretary shall report to Congress not later than 18 months after October 7, 1998”.
 
-Subsec. (c)(1). Pub. L. 110–315, § 913(c)(2), substituted “recommendations relating to educated-related factors that contribute to successful postsecondary education experiences and employment for individuals who are deaf, including” for “recommendations, including” and “commission” for “Secretary”.
+Subsec. (c)(1). Pub. L. 110–315, § 913(c)(2), substituted “recommendations relating to educated-related factors that contribute to successful postsecondary education experiences and employment for individuals who are deaf, including” for “recommendations, including” and “commission” for “Secretary”.
 
-Subsec. (d). Pub. L. 110–315, § 913(d), substituted “such sums as may be necessary for each of the fiscal years 2009 and 2010” for “$1,000,000 for each of the fiscal years 1999 and 2000”.
+Subsec. (d). Pub. L. 110–315, § 913(d), substituted “such sums as may be necessary for each of the fiscal years 2009 and 2010” for “$1,000,000 for each of the fiscal years 1999 and 2000”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1313,7 +1313,7 @@ Subsec. (d). Pub. L. 110–315, § 913(d), substituted “such sums as may be 
 
 Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
 
-### § 4360a. Authorization of appropriations
+### § 4360a. Authorization of appropriations
 
 **(a) Gallaudet University** There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2009 through 2014 to carry out the provisions of subchapter I and this subchapter, relating to—
 
@@ -1327,7 +1327,7 @@ Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–24
 
 There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2009 through 2014 to carry out the provisions of subchapter I and this subchapter relating to the National Technical Institute for the Deaf.
 
-(Pub. L. 99–371, title II, § 212, as added Pub. L. 105–244, title IX, § 925, Oct. 7, 1998, 112 Stat. 1833; amended Pub. L. 110–315, title IX, § 914, Aug. 14, 2008, 122 Stat. 3455.)
+(Pub. L. 99–371, title II, § 212, as added Pub. L. 105–244, title IX, § 925, Oct. 7, 1998, 112 Stat. 1833; amended Pub. L. 110–315, title IX, § 914, Aug. 14, 2008, 122 Stat. 3455.)
 
 **Editorial Notes**
 
@@ -1337,9 +1337,9 @@ Provisions similar to this section were contained in section 4360 of this title,
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–315, § 914(1), substituted “fiscal years 2009 through 2014” for “fiscal years 1998 through 2003” in introductory provisions.
+2008—Subsec. (a). Pub. L. 110–315, § 914(1), substituted “fiscal years 2009 through 2014” for “fiscal years 1998 through 2003” in introductory provisions.
 
-Subsec. (b). Pub. L. 110–315, § 914(2), substituted “fiscal years 2009 through 2014” for “fiscal years 1998 through 2003”.
+Subsec. (b). Pub. L. 110–315, § 914(2), substituted “fiscal years 2009 through 2014” for “fiscal years 1998 through 2003”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1347,11 +1347,11 @@ Subsec. (b). Pub. L. 110–315, § 914(2), substituted “fiscal years 2009 th
 
 Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as an Effective Date of 1998 Amendment note under section 1001 of this title.
 
-### § 4361. Supervision of public business of Gallaudet University
+### § 4361. Supervision of public business of Gallaudet University
 
 The Secretary of Education is charged with the supervision of public business relating to Gallaudet University.
 
-(R.S. § 441; Mar. 4, 1911, ch. 285, § 1, 36 Stat. 1422; 1940 Reorg. Plan No. IV, § 11, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1234; 1953 Reorg. Plan No. 1, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; June 18, 1954, ch. 324, § 1, 68 Stat. 265; Oct. 17, 1979, Pub. L. 96–88, title III, § 301(a)(2)(M), title V, § 507, 93 Stat. 677, 692; Aug. 4, 1986, Pub. L. 99–371, title I, § 101(a), 100 Stat. 781.)
+(R.S. § 441; Mar. 4, 1911, ch. 285, § 1, 36 Stat. 1422; 1940 Reorg. Plan No. IV, § 11, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1234; 1953 Reorg. Plan No. 1, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; June 18, 1954, ch. 324, § 1, 68 Stat. 265; Oct. 17, 1979, Pub. L. 96–88, title III, § 301(a)(2)(M), title V, § 507, 93 Stat. 677, 692; Aug. 4, 1986, Pub. L. 99–371, title I, § 101(a), 100 Stat. 781.)
 
 **Editorial Notes**
 
@@ -1377,13 +1377,13 @@ Pursuant to section 101(a) of Pub. L. 99–371, which is classified to section 4
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
-Functions of Department of the Interior relating to administration of Columbia Institution for the Deaf transferred to Federal Security Agency to be administered under direction and supervision of Federal Security Administrator by § 11(d) of 1940 Reorg. Plan No. IV, set out in the Appendix to Title 5.
+Functions of Department of the Interior relating to administration of Columbia Institution for the Deaf transferred to Federal Security Agency to be administered under direction and supervision of Federal Security Administrator by § 11(d) of 1940 Reorg. Plan No. IV, set out in the Appendix to Title 5.
 
-### § 4362. Purchases through General Services Administration
+### § 4362. Purchases through General Services Administration
 
 On and after September 8, 1978, Gallaudet University and the National Technical Institute for the Deaf are authorized to make purchases through the General Services Administration.
 
-(Pub. L. 95–355, title I, § 100, Sept. 8, 1978, 92 Stat. 531; Pub. L. 99–371, title I, § 101(a), Aug. 4, 1986, 100 Stat. 781.)
+(Pub. L. 95–355, title I, § 100, Sept. 8, 1978, 92 Stat. 531; Pub. L. 99–371, title I, § 101(a), Aug. 4, 1986, 100 Stat. 781.)
 
 **Editorial Notes**
 
@@ -1399,11 +1399,11 @@ Section, as it relates to Gallaudet University, was formerly classified to secti
 
 “Gallaudet University” substituted in text for “Gallaudet College” pursuant to section 101(a) of Pub. L. 99–371, which is classified to section 4301(a) of this title.
 
-### § 4363. Financial and program audit by Secretary
+### § 4363. Financial and program audit by Secretary
 
 Funds appropriated in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts to the National Technical Institute for the Deaf, and Gallaudet University shall be subject to financial and program audit by the Secretary of Education and the Secretary may withhold all or any portion of these appropriations if he determines that an institution has not cooperated fully in the conduct of such audits.
 
-(Pub. L. 102–394, title III, § 301, Oct. 6, 1992, 106 Stat. 1819.)
+(Pub. L. 102–394, title III, § 301, Oct. 6, 1992, 106 Stat. 1819.)
 
 **Editorial Notes**
 

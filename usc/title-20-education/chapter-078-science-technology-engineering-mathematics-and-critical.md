@@ -15,19 +15,19 @@ retrieved: 2026-10-11
 
 # CHAPTER 78—SCIENCE, TECHNOLOGY, ENGINEERING, MATHEMATICS, AND CRITICAL FOREIGN LANGUAGE EDUCATION
 
-## § 9801. Repealed. Pub. L. 111–358, title X, § 1002(a)(1), Jan. 4, 2011, 124 Stat. 4048
+## § 9801. Repealed. Pub. L. 111–358, title X, § 1002(a)(1), Jan. 4, 2011, 124 Stat. 4048
 
-Section, Pub. L. 110–69, title VI, § 6001, Aug. 9, 2007, 121 Stat. 625, related to congressional findings.
+Section, Pub. L. 110–69, title VI, § 6001, Aug. 9, 2007, 121 Stat. 625, related to congressional findings.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 110–69, § 1, Aug. 9, 2007, 121 Stat. 572, provided that: “This Act [see Tables for classification] may be cited as the ‘America COMPETES Act’ or the ‘America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act’.”
+Pub. L. 110–69, § 1, Aug. 9, 2007, 121 Stat. 572, provided that: “This Act [see Tables for classification] may be cited as the ‘America COMPETES Act’ or the ‘America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act’.”
 
 **Accountability and Transparency of Activities Authorized by Pub. L. 110–69**
 
-Pub. L. 110–69, title VIII, § 8008, Aug. 9, 2007, 121 Stat. 718, provided that:
+Pub. L. 110–69, title VIII, § 8008, Aug. 9, 2007, 121 Stat. 718, provided that:
 
 > **“(a) Prohibited Use of Funds.—** A grant or contract funded by amounts authorized by this Act [see Tables for classification] may not be used for the purpose of defraying the costs of a banquet or conference that is not directly and programmatically related to the purpose for which the grant or contract was awarded. A directly and programmatically related banquet or conference includes a banquet or conference held in connection with planning, training, assessment, review, or other routine purposes related to a project funded by the grant or contract. Records of the total costs related to, and justifications for, all banquets and conferences shall be reported to the appropriate Department, Administration, or Foundation. Not later than 60 days after receipt of such records, the appropriate Department, Administration, or Foundation shall make the records available to the public.
 
@@ -37,7 +37,7 @@ Pub. L. 110–69, title VIII, § 8008, Aug. 9, 2007, 121 Stat. 718, provided t
 
 > **“(d) Exception.—** Subsections (a) and (b) shall not apply to grants or contracts authorized under sections 6201 and 6203 [former 20 U.S.C. 9851, 9853].”
 
-## § 9802. Definitions
+## § 9802. Definitions
 
 **(a) ESEA definitions**
 
@@ -61,7 +61,7 @@ The term “Secretary” means the Secretary of Education.
 
 The term “scientifically valid research” includes applied research, basic research, and field-initiated research in which the rationale, design, and interpretation are soundly developed in accordance with accepted principles of scientific research.
 
-(Pub. L. 110–69, title VI, § 6001, formerly § 6002, Aug. 9, 2007, 121 Stat. 625; renumbered § 6001, Pub. L. 111–358, title X, § 1002(b)(1), Jan. 4, 2011, 124 Stat. 4048; Pub. L. 114–95, title IX, § 9215(i)(1), Dec. 10, 2015, 129 Stat. 2167.)
+(Pub. L. 110–69, title VI, § 6001, formerly § 6002, Aug. 9, 2007, 121 Stat. 625; renumbered § 6001, Pub. L. 111–358, title X, § 1002(b)(1), Jan. 4, 2011, 124 Stat. 4048; Pub. L. 114–95, title IX, § 9215(i)(1), Dec. 10, 2015, 129 Stat. 2167.)
 
 **Editorial Notes**
 
@@ -83,23 +83,23 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 ### Part A—Teachers for a Competitive Tomorrow
 
-#### §§ 9811 to 9816. Repealed. Pub. L. 114–329, title II, § 205(b), Jan. 6, 2017, 130 Stat. 3001
+#### §§ 9811 to 9816. Repealed. Pub. L. 114–329, title II, § 205(b), Jan. 6, 2017, 130 Stat. 3001
 
-Section 9811, Pub. L. 110–69, title VI, § 6111, Aug. 9, 2007, 121 Stat. 626, related to the purpose of this part.
+Section 9811, Pub. L. 110–69, title VI, § 6111, Aug. 9, 2007, 121 Stat. 626, related to the purpose of this part.
 
-Section 9812, Pub. L. 110–69, title VI, § 6112, Aug. 9, 2007, 121 Stat. 626, related to definitions of terms used in this part.
+Section 9812, Pub. L. 110–69, title VI, § 6112, Aug. 9, 2007, 121 Stat. 626, related to definitions of terms used in this part.
 
-Section 9813, Pub. L. 110–69, title VI, § 6113, Aug. 9, 2007, 121 Stat. 628, related to programs for baccalaureate degrees in science, technology, engineering, mathematics, or critical foreign languages, with concurrent teacher certification.
+Section 9813, Pub. L. 110–69, title VI, § 6113, Aug. 9, 2007, 121 Stat. 628, related to programs for baccalaureate degrees in science, technology, engineering, mathematics, or critical foreign languages, with concurrent teacher certification.
 
-Section 9814, Pub. L. 110–69, title VI, § 6114, Aug. 9, 2007, 121 Stat. 631, related to programs for master’s degrees in science, technology, engineering, mathematics, or critical foreign language education.
+Section 9814, Pub. L. 110–69, title VI, § 6114, Aug. 9, 2007, 121 Stat. 631, related to programs for master’s degrees in science, technology, engineering, mathematics, or critical foreign language education.
 
-Section 9815, Pub. L. 110–69, title VI, § 6115, Aug. 9, 2007, 121 Stat. 634, related to general provisions regarding grants under this part.
+Section 9815, Pub. L. 110–69, title VI, § 6115, Aug. 9, 2007, 121 Stat. 634, related to general provisions regarding grants under this part.
 
-Section 9816, Pub. L. 110–69, title VI, § 6116, Aug. 9, 2007, 121 Stat. 634; Pub. L. 111–358, title X, § 1003(a), Jan. 4, 2011, 124 Stat. 4048, related to authorization of appropriations to carry out this part.
+Section 9816, Pub. L. 110–69, title VI, § 6116, Aug. 9, 2007, 121 Stat. 634; Pub. L. 111–358, title X, § 1003(a), Jan. 4, 2011, 124 Stat. 4048, related to authorization of appropriations to carry out this part.
 
 ### Part B—Advanced Placement and International Baccalaureate Programs
 
-#### § 9831. Purpose
+#### § 9831. Purpose
 
 It is the purpose of this part—
 
@@ -115,9 +115,9 @@ It is the purpose of this part—
 
 **(4)** to support statewide efforts to increase the availability of, and enrollment in, Advanced Placement or International Baccalaureate courses in mathematics, science, and critical foreign languages, and pre-Advanced Placement or pre-International Baccalaureate courses in such subjects, in high-need schools.
 
-(Pub. L. 110–69, title VI, § 6121, Aug. 9, 2007, 121 Stat. 634.)
+(Pub. L. 110–69, title VI, § 6121, Aug. 9, 2007, 121 Stat. 634.)
 
-#### § 9832. Definitions
+#### § 9832. Definitions
 
 In this part:
 
@@ -149,9 +149,9 @@ The term “high concentration of low-income students”, used with respect to a
 
 **(5) High-need local educational agency**
 
-The term “high-need local educational agency” means a local educational agency or educational service agency described in 9812(3)(A) 1
+The term “high-need local educational agency” means a local educational agency or educational service agency described in 9812(3)(A) 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “section”.
+<sup>1</sup> So in original. Probably should be preceded by “section”.
 
 of this title.
 
@@ -165,21 +165,21 @@ of this title.
 
 **(ii)** designated with a school locale code of 41, 42, or 43, as determined by the Secretary.
 
-(Pub. L. 110–69, title VI, § 6122, Aug. 9, 2007, 121 Stat. 635; Pub. L. 114–95, title IX, § 9215(i)(2), Dec. 10, 2015, 129 Stat. 2167.)
+(Pub. L. 110–69, title VI, § 6122, Aug. 9, 2007, 121 Stat. 635; Pub. L. 114–95, title IX, § 9215(i)(2), Dec. 10, 2015, 129 Stat. 2167.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Richard B. Russell National School Lunch Act, referred to in par. (3), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in par. (3), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
-The Social Security Act, referred to in par. (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in par. (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
-2015—Par. (3). Pub. L. 114–95, § 9215(i)(2)(A), substituted “The term ‘low-income student’ means an individual who is determined by a State educational agency or local educational agency to be a child ages 5 through 19, from a low-income family, on the basis of data used by the Secretary to determine allocations under section 6333 of this title, data on children eligible for free or reduced-price lunches under the Richard B. Russell National School Lunch Act, data on children in families receiving assistance under part A of title IV of the Social Security Act, or data on children eligible to receive medical assistance under the Medicaid program under title XIX of the Social Security Act, or through an alternate method that combines or extrapolates from those data.” for “The term ‘low-income student’ has the meaning given the term ‘low-income individual’ in section 6537(3) of this title.”
+2015—Par. (3). Pub. L. 114–95, § 9215(i)(2)(A), substituted “The term ‘low-income student’ means an individual who is determined by a State educational agency or local educational agency to be a child ages 5 through 19, from a low-income family, on the basis of data used by the Secretary to determine allocations under section 6333 of this title, data on children eligible for free or reduced-price lunches under the Richard B. Russell National School Lunch Act, data on children in families receiving assistance under part A of title IV of the Social Security Act, or data on children eligible to receive medical assistance under the Medicaid program under title XIX of the Social Security Act, or through an alternate method that combines or extrapolates from those data.” for “The term ‘low-income student’ has the meaning given the term ‘low-income individual’ in section 6537(3) of this title.”
 
-Par. (4). Pub. L. 114–95, § 9215(i)(2)(B), substituted “The term ‘high concentration of low-income students’, used with respect to a school, means a school that serves a student population 40 percent or more of who are low-income students.” for “The term ‘high concentration of low-income students’ has the meaning given the term in section 6537(2) of this title.”
+Par. (4). Pub. L. 114–95, § 9215(i)(2)(B), substituted “The term ‘high concentration of low-income students’, used with respect to a school, means a school that serves a student population 40 percent or more of who are low-income students.” for “The term ‘high concentration of low-income students’ has the meaning given the term in section 6537(2) of this title.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -187,7 +187,7 @@ Par. (4). Pub. L. 114–95, § 9215(i)(2)(B), substituted “The term ‘high 
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
-#### § 9833. Advanced Placement and International Baccalaureate programs
+#### § 9833. Advanced Placement and International Baccalaureate programs
 
 **(a) Program authorized**
 
@@ -325,19 +325,19 @@ Grant funds provided under this section shall be used to supplement, not supplan
 
 There are authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2011 through 2013.
 
-(Pub. L. 110–69, title VI, § 6123, Aug. 9, 2007, 121 Stat. 636; Pub. L. 111–358, title X, § 1003(b), Jan. 4, 2011, 124 Stat. 4048; Pub. L. 114–95, title IX, § 9215(i)(3), Dec. 10, 2015, 129 Stat. 2167.)
+(Pub. L. 110–69, title VI, § 6123, Aug. 9, 2007, 121 Stat. 636; Pub. L. 111–358, title X, § 1003(b), Jan. 4, 2011, 124 Stat. 4048; Pub. L. 114–95, title IX, § 9215(i)(3), Dec. 10, 2015, 129 Stat. 2167.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2015—Subsec. (c). Pub. L. 114–95, § 9215(i)(3)(A), substituted “any activities carried out under section 7114 or 7117 of this title that provide students access to accelerated learning programs that provide—” and pars. (1) and (2) for “the activities carried out under section 6535 of this title.”
+2015—Subsec. (c). Pub. L. 114–95, § 9215(i)(3)(A), substituted “any activities carried out under section 7114 or 7117 of this title that provide students access to accelerated learning programs that provide—” and pars. (1) and (2) for “the activities carried out under section 6535 of this title.”
 
-Subsec. (j)(2)(B). Pub. L. 114–95, § 9215(i)(3)(B), substituted “section 6311(b)(2)(B)(xi) of this title” for “section 6311(h)(1)(C)(i) of this title”.
+Subsec. (j)(2)(B). Pub. L. 114–95, § 9215(i)(3)(B), substituted “section 6311(b)(2)(B)(xi) of this title” for “section 6311(h)(1)(C)(i) of this title”.
 
-2011—Subsec. (h)(1). Pub. L. 111–358, § 1003(b)(1), substituted “50” for “100” and “100” for “200”.
+2011—Subsec. (h)(1). Pub. L. 111–358, § 1003(b)(1), substituted “50” for “100” and “100” for “200”.
 
-Subsec. (*l*). Pub. L. 111–358, § 1003(b)(2), added subsec. (*l*) and struck out former subsec. (*l*). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section $75,000,000 for fiscal year 2008, and such sums as may be necessary for each of the 2 succeeding fiscal years.”
+Subsec. (*l*). Pub. L. 111–358, § 1003(b)(2), added subsec. (*l*) and struck out former subsec. (*l*). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section $75,000,000 for fiscal year 2008, and such sums as may be necessary for each of the 2 succeeding fiscal years.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -351,33 +351,33 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 ### Part C—Promising Practices in Science, Technology, Engineering, and Mathematics Teaching
 
-#### § 9841. Repealed. Pub. L. 111–358, title X, § 1002(a)(2), Jan. 4, 2011, 124 Stat. 4048
+#### § 9841. Repealed. Pub. L. 111–358, title X, § 1002(a)(2), Jan. 4, 2011, 124 Stat. 4048
 
-Section, Pub. L. 110–69, title VI, § 6131, Aug. 9, 2007, 121 Stat. 640, related to promising practices in K–12 STEM teaching and learning.
+Section, Pub. L. 110–69, title VI, § 6131, Aug. 9, 2007, 121 Stat. 640, related to promising practices in K–12 STEM teaching and learning.
 
 ## SUBCHAPTER II—MATHEMATICS
 
-### §§ 9851 to 9854. Repealed. Pub. L. 111–358, title X, § 1002(a)(3), Jan. 4, 2011, 124 Stat. 4048
+### §§ 9851 to 9854. Repealed. Pub. L. 111–358, title X, § 1002(a)(3), Jan. 4, 2011, 124 Stat. 4048
 
-Section 9851, Pub. L. 110–69, title VI, § 6201, Aug. 9, 2007, 121 Stat. 642, related to Math Now for elementary school and middle school students program.
+Section 9851, Pub. L. 110–69, title VI, § 6201, Aug. 9, 2007, 121 Stat. 642, related to Math Now for elementary school and middle school students program.
 
-Section 9852, Pub. L. 110–69, title VI, § 6202, Aug. 9, 2007, 121 Stat. 649, related to summer term education programs.
+Section 9852, Pub. L. 110–69, title VI, § 6202, Aug. 9, 2007, 121 Stat. 649, related to summer term education programs.
 
-Section 9853, Pub. L. 110–69, title VI, § 6203, Aug. 9, 2007, 121 Stat. 653, related to math skills for secondary school students.
+Section 9853, Pub. L. 110–69, title VI, § 6203, Aug. 9, 2007, 121 Stat. 653, related to math skills for secondary school students.
 
-Section 9854, Pub. L. 110–69, title VI, § 6204, Aug. 9, 2007, 121 Stat. 662, related to peer review of State applications.
+Section 9854, Pub. L. 110–69, title VI, § 6204, Aug. 9, 2007, 121 Stat. 662, related to peer review of State applications.
 
 ## SUBCHAPTER III—FOREIGN LANGUAGE PARTNERSHIP PROGRAM
 
-### §§ 9861 to 9864. Repealed. Pub. L. 111–358, title X, § 1002(a)(4), Jan. 4, 2011, 124 Stat. 4048
+### §§ 9861 to 9864. Repealed. Pub. L. 111–358, title X, § 1002(a)(4), Jan. 4, 2011, 124 Stat. 4048
 
-Section 9861, Pub. L. 110–69, title VI, § 6301, Aug. 9, 2007, 121 Stat. 664, related to congressional findings and purpose.
+Section 9861, Pub. L. 110–69, title VI, § 6301, Aug. 9, 2007, 121 Stat. 664, related to congressional findings and purpose.
 
-Section 9862, Pub. L. 110–69, title VI, § 6302, Aug. 9, 2007, 121 Stat. 664, related to definitions.
+Section 9862, Pub. L. 110–69, title VI, § 6302, Aug. 9, 2007, 121 Stat. 664, related to definitions.
 
-Section 9863, Pub. L. 110–69, title VI, § 6303, Aug. 9, 2007, 121 Stat. 664, related to program authorization.
+Section 9863, Pub. L. 110–69, title VI, § 6303, Aug. 9, 2007, 121 Stat. 664, related to program authorization.
 
-Section 9864, Pub. L. 110–69, title VI, § 6304, Aug. 9, 2007, 121 Stat. 667, related to authorization of appropriations.
+Section 9864, Pub. L. 110–69, title VI, § 6304, Aug. 9, 2007, 121 Stat. 667, related to authorization of appropriations.
 
 ## SUBCHAPTER IV—ALIGNMENT OF EDUCATION PROGRAMS
 
@@ -385,9 +385,9 @@ Section 9864, Pub. L. 110–69, title VI, § 6304, Aug. 9, 2007, 121 Stat. 667
 
 **Codification**
 
-Subtitle D of title VI of Pub. L. 110–69, comprising this subchapter, was redesignated subtitle B of title VI of Pub. L. 110–69 by Pub. L. 111–358, title X, § 1002(b)(2), Jan. 4, 2011, 124 Stat. 4048.
+Subtitle D of title VI of Pub. L. 110–69, comprising this subchapter, was redesignated subtitle B of title VI of Pub. L. 110–69 by Pub. L. 111–358, title X, § 1002(b)(2), Jan. 4, 2011, 124 Stat. 4048.
 
-### § 9871. Alignment of secondary school graduation requirements with the demands of 21st century postsecondary endeavors and support for P–16 education data systems
+### § 9871. Alignment of secondary school graduation requirements with the demands of 21st century postsecondary endeavors and support for P–16 education data systems
 
 **(a) Purpose** It is the purpose of this section—
 
@@ -409,9 +409,9 @@ Subtitle D of title VI of Pub. L. 110–69, comprising this subchapter, was rede
 
 **(iii)** the Armed Forces; and
 
-**(3)** enable 1
+**(3)** enable 1
 
-<sup>1</sup>  So in original. Probably should be “to enable”.
+<sup>1</sup> So in original. Probably should be “to enable”.
 
 States to have valid and reliable information to inform education policy and practice.
 
@@ -605,9 +605,9 @@ Each State desiring a grant under this section shall submit an application to th
 
 **(A)** A description of the activities and programs to be carried out with the grant funds and a comprehensive plan for carrying out the activities.
 
-**(B)** A description of how the concerns and interests of the larger education community, including parents, students, teachers, teacher educators, principals, and preschool administrators 2
+**(B)** A description of how the concerns and interests of the larger education community, including parents, students, teachers, teacher educators, principals, and preschool administrators 2
 
-<sup>2</sup>  So in original. Probably should be followed by a comma.
+<sup>2</sup> So in original. Probably should be followed by a comma.
 
 will be represented in carrying out the authorized activities described in subsection (e).
 
@@ -641,7 +641,7 @@ Nothing in this section shall be construed to affect any private school that doe
 
 There are authorized to be appropriated to carry out this section $120,000,000 for each of fiscal years 2011 and 2012.
 
-(Pub. L. 110–69, title VI, § 6201, formerly § 6401, Aug. 9, 2007, 121 Stat. 668; renumbered § 6201 and amended Pub. L. 111–358, title X, §§ 1002(b)(3), 1003(c), Jan. 4, 2011, 124 Stat. 4048, 4049; Pub. L. 114–95, title IX, § 9215(i)(4), Dec. 10, 2015, 129 Stat. 2168.)
+(Pub. L. 110–69, title VI, § 6201, formerly § 6401, Aug. 9, 2007, 121 Stat. 668; renumbered § 6201 and amended Pub. L. 111–358, title X, §§ 1002(b)(3), 1003(c), Jan. 4, 2011, 124 Stat. 4048, 4049; Pub. L. 114–95, title IX, § 9215(i)(4), Dec. 10, 2015, 129 Stat. 2168.)
 
 **Editorial Notes**
 
@@ -657,7 +657,7 @@ A prior section 6201 of Pub. L. 110–69 was classified to section 9851 of this 
 
 2015—Subsec. (e)(2)(D)(ii)(I). Pub. L. 114–95, which directed amendment of section 6401(e)(2)(D)(ii)(I) of Pub. L. 110–69 by substituting “yearly test records of individual students with respect to assessments under section 6311(b)(2) of this title” for “yearly test records of individual students with respect to assessments under section 6311(b) of this title”, was executed to this section to reflect the probable intent of Congress and the renumbering of section 6401 of Pub. L. 110–69 as this section.
 
-2011—Subsec. (j). Pub. L. 111–358, § 1003(c), amended subsec. (j) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section $120,000,000 for fiscal year 2008 and such sums as may be necessary for fiscal year 2009.”
+2011—Subsec. (j). Pub. L. 111–358, § 1003(c), amended subsec. (j) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section $120,000,000 for fiscal year 2008 and such sums as may be necessary for fiscal year 2009.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -667,8 +667,8 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 ## SUBCHAPTER V—MATHEMATICS AND SCIENCE PARTNERSHIP BONUS GRANTS
 
-### §§ 9881, 9882. Repealed. Pub. L. 111–358, title X, § 1002(a)(5), Jan. 4, 2011, 124 Stat. 4048
+### §§ 9881, 9882. Repealed. Pub. L. 111–358, title X, § 1002(a)(5), Jan. 4, 2011, 124 Stat. 4048
 
-Section 9881, Pub. L. 110–69, title VI, § 6501, Aug. 9, 2007, 121 Stat. 674, related to mathematics and science partnership bonus grants.
+Section 9881, Pub. L. 110–69, title VI, § 6501, Aug. 9, 2007, 121 Stat. 674, related to mathematics and science partnership bonus grants.
 
-Section 9882, Pub. L. 110–69, title VI, § 6502, Aug. 9, 2007, 121 Stat. 675, related to authorization of appropriations.
+Section 9882, Pub. L. 110–69, title VI, § 6502, Aug. 9, 2007, 121 Stat. 675, related to authorization of appropriations.

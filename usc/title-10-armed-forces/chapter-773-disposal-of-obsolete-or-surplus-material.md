@@ -19,27 +19,27 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 443 of this title as this chapter and items 4682 to 4690 as 7682 to 7690, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 443 of this title as this chapter and items 4682 to 4690 as 7682 to 7690, respectively.
 
-2016—Pub. L. 114–328, div. A, title XII, § 1253(a)(2)(D), Dec. 23, 2016, 130 Stat. 2532, struck out item 4681 “Surplus war material: sale to States and foreign governments”.
+2016—Pub. L. 114–328, div. A, title XII, § 1253(a)(2)(D), Dec. 23, 2016, 130 Stat. 2532, struck out item 4681 “Surplus war material: sale to States and foreign governments”.
 
-2013—Pub. L. 112–239, div. A, title X, § 1051(b), Jan. 2, 2013, 126 Stat. 1935, substituted “Excess non-automatic service rifles: loan or donation for funeral and other ceremonial purposes” for “Excess M–1 rifles: loan or donation for funeral and other ceremonial purposes” in item 4683.
+2013—Pub. L. 112–239, div. A, title X, § 1051(b), Jan. 2, 2013, 126 Stat. 1935, substituted “Excess non-automatic service rifles: loan or donation for funeral and other ceremonial purposes” for “Excess M–1 rifles: loan or donation for funeral and other ceremonial purposes” in item 4683.
 
-2006—Pub. L. 109–364, div. A, title III, § 353(b), Oct. 17, 2006, 120 Stat. 2161, added item 4690.
+2006—Pub. L. 109–364, div. A, title III, § 353(b), Oct. 17, 2006, 120 Stat. 2161, added item 4690.
 
-2002—Pub. L. 107–217, § 2(2), Aug. 21, 2002, 116 Stat. 1295, added item 4689.
+2002—Pub. L. 107–217, § 2(2), Aug. 21, 2002, 116 Stat. 1295, added item 4689.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title III, § 382(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–85, added item 4688.
+2000—Pub. L. 106–398, § 1 [[div. A], title III, § 382(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–85, added item 4688.
 
-1999—Pub. L. 106–65, div. A, title III, § 381(d)(2), Oct. 5, 1999, 113 Stat. 583, substituted “Excess M–1 rifles: loan or donation for funeral and other ceremonial purposes” for “Obsolete or condemned rifles: loan to local units of recognized veterans’ organizations” in item 4683.
+1999—Pub. L. 106–65, div. A, title III, § 381(d)(2), Oct. 5, 1999, 113 Stat. 583, substituted “Excess M–1 rifles: loan or donation for funeral and other ceremonial purposes” for “Obsolete or condemned rifles: loan to local units of recognized veterans’ organizations” in item 4683.
 
-1997—Pub. L. 105–85, div. A, title X, § 1065(a)(2), Nov. 18, 1997, 111 Stat. 1895, added item 4687.
+1997—Pub. L. 105–85, div. A, title X, § 1065(a)(2), Nov. 18, 1997, 111 Stat. 1895, added item 4687.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Repurposing and Reuse of Surplus Army Firearms**
 
-Pub. L. 115–91, div. A, title III, § 348, Dec. 12, 2017, 131 Stat. 1365, as amended by Pub. L. 115–232, div. A, title III, § 354, Aug. 13, 2018, 132 Stat. 1731, provided that:
+Pub. L. 115–91, div. A, title III, § 348, Dec. 12, 2017, 131 Stat. 1365, as amended by Pub. L. 115–232, div. A, title III, § 354, Aug. 13, 2018, 132 Stat. 1731, provided that:
 
 > **“(a) Required Transfer.—** Not later than 90 days after the date of the enactment of this Act [Dec. 12, 2017], and subject to subsection (c), the Secretary of the Army shall transfer to a suitable organic facility all excess firearms, related spare parts and components, small arms ammunition, and ammunition components currently stored at Defense Distribution Depot, Anniston, Alabama, that are no longer actively issued for military service and that are otherwise prohibited from commercial sale, or distribution, under Federal law.
 
@@ -57,19 +57,19 @@ Pub. L. 115–91, div. A, title III, § 348, Dec. 12, 2017, 131 Stat. 1365, as
 
 **Alternative Technologies for Munitions Disposal**
 
-Pub. L. 114–328, div. A, title III, § 314, Dec. 23, 2016, 130 Stat. 2073, provided that: “In carrying out the disposal of munitions in the stockpile of conventional munitions awaiting demilitarization and disposal, the Secretary of the Army may use cost-competitive technologies that minimize waste generation and air emissions as alternatives to disposal by open burning, open detonation, direct contact combustion, and incineration.”
+Pub. L. 114–328, div. A, title III, § 314, Dec. 23, 2016, 130 Stat. 2073, provided that: “In carrying out the disposal of munitions in the stockpile of conventional munitions awaiting demilitarization and disposal, the Secretary of the Army may use cost-competitive technologies that minimize waste generation and air emissions as alternatives to disposal by open burning, open detonation, direct contact combustion, and incineration.”
 
-## § 7682. Obsolete or excess material: sale to National Council of Boy Scouts of America
+## § 7682. Obsolete or excess material: sale to National Council of Boy Scouts of America
 
 Subject to regulations under section 121 of title 40, the Secretary of the Army, under such conditions as he may prescribe, may sell obsolete or excess material to the National Council of the Boy Scouts of America. Sales under this section shall be at fair value to the Department of the Army, including packing, handling, and transportation.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 262, § 4682; Pub. L. 96–513, title V, § 512(19), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 107–217, § 3(b)(25), Aug. 21, 2002, 116 Stat. 1297; renumbered § 7682, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 262, § 4682; Pub. L. 96–513, title V, § 512(19), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 107–217, § 3(b)(25), Aug. 21, 2002, 116 Stat. 1297; renumbered § 7682, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4682 | 10:1259. | May 15, 1937, ch. 193, 50 Stat. 167; Oct. 31, 1951, ch. 654, § 2(7), 65 Stat. 707. |
+| 4682 | 10:1259. | May 15, 1937, ch. 193, 50 Stat. 167; Oct. 31, 1951, ch. 654, § 2(7), 65 Stat. 707. |
 
 The words “obsolete or excess material” are substituted for the words “such obsolete material as may not be needed by the Department of the Army, and such other material as may be spared” to conform to the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 471 et seq.). The words “in his discretion” are omitted as surplusage.
 
@@ -93,7 +93,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 7683. Excess non-automatic service rifles: loan or donation for funeral and other ceremonial purposes
+## § 7683. Excess non-automatic service rifles: loan or donation for funeral and other ceremonial purposes
 
 **(a) Authority To Lend or Donate.—**
 
@@ -123,7 +123,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **(3)** a local unit of any organization that, as determined by the Secretary of the Army, is a nationally recognized veterans’ organization.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 262, § 4683; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 106–65, div. A, title III, § 381(a)–(d)(1), Oct. 5, 1999, 113 Stat. 582; Pub. L. 112–239, div. A, title X, § 1051(a), Jan. 2, 2013, 126 Stat. 1935; renumbered § 7683, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 262, § 4683; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 106–65, div. A, title III, § 381(a)–(d)(1), Oct. 5, 1999, 113 Stat. 582; Pub. L. 112–239, div. A, title X, § 1051(a), Jan. 2, 2013, 126 Stat. 1935; renumbered § 7683, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
@@ -142,13 +142,13 @@ In subsection (b), the words “a unit to which materials are lent under subsect
 
 2018—Pub. L. 115–232 renumbered section 4683 of this title as this section.
 
-2013—Pub. L. 112–239, § 1051(a)(2), substituted “Excess non-automatic service rifles: loan or donation for funeral and other ceremonial purposes” for “Excess M–1 rifles: loan or donation for funeral and other ceremonial purposes” in section catchline.
+2013—Pub. L. 112–239, § 1051(a)(2), substituted “Excess non-automatic service rifles: loan or donation for funeral and other ceremonial purposes” for “Excess M–1 rifles: loan or donation for funeral and other ceremonial purposes” in section catchline.
 
-Subsec. (a)(3). Pub. L. 112–239, § 1051(a)(1), added par. (3).
+Subsec. (a)(3). Pub. L. 112–239, § 1051(a)(1), added par. (3).
 
-1999—Pub. L. 106–65, § 381(d)(1), substituted “Excess M–1 rifles: loan or donation for funeral and other ceremonial purposes” for “Obsolete or condemned rifles: loan to local units of recognized veterans’ organizations” in section catchline.
+1999—Pub. L. 106–65, § 381(d)(1), substituted “Excess M–1 rifles: loan or donation for funeral and other ceremonial purposes” for “Obsolete or condemned rifles: loan to local units of recognized veterans’ organizations” in section catchline.
 
-Subsec. (a). Pub. L. 106–65, § 381(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of the Army, under regulations to be prescribed by him, may—
+Subsec. (a). Pub. L. 106–65, § 381(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of the Army, under regulations to be prescribed by him, may—
 
 “(1) lend obsolete or condemned rifles (not more than 10), slings, and cartridge belts to any local unit of any national veterans’ organization recognized by the Department of Veterans Affairs, for use by that unit for funeral ceremonies of a member or former member of the armed forces, and for other ceremonial purposes; and
 
@@ -158,9 +158,9 @@ Subsec. (a). Pub. L. 106–65, § 381(a), amended subsec. (a) generally. Prior
 
 “(B) without charge, except for packing, handling, and transportation, if it is to be used for other ceremonies.”
 
-Subsec. (b). Pub. L. 106–65, § 381(c), inserted heading, substituted “an eligible organization” for “a unit” and “lent or donated” for “lent” in two places.
+Subsec. (b). Pub. L. 106–65, § 381(c), inserted heading, substituted “an eligible organization” for “a unit” and “lent or donated” for “lent” in two places.
 
-Subsecs. (c), (d). Pub. L. 106–65, § 381(b), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 106–65, § 381(b), added subsecs. (c) and (d).
 
 1989—Subsec. (a)(1). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
@@ -170,7 +170,7 @@ Subsecs. (c), (d). Pub. L. 106–65, § 381(b), added subsecs. (c) and (d).
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7684. Surplus obsolete ordnance: sale to patriotic organizations
+## § 7684. Surplus obsolete ordnance: sale to patriotic organizations
 
 Subject to regulations under section 121 of title 40, any branch, office, or officer designated by the Secretary of the Army may sell, without advertisement and at prices that he considers reasonable—
 
@@ -178,14 +178,14 @@ Subject to regulations under section 121 of title 40, any branch, office, or off
 
 **(2)** surplus obsolete brass or bronze cannons, carriages, and cannon balls, for public parks, public buildings, and soldiers’ monuments.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 262, § 4684; Pub. L. 96–513, title V, § 512(19), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 107–217, § 3(b)(26), Aug. 21, 2002, 116 Stat. 1297; renumbered § 7684, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 262, § 4684; Pub. L. 96–513, title V, § 512(19), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 107–217, § 3(b)(26), Aug. 21, 2002, 116 Stat. 1297; renumbered § 7684, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4684 | 50:64. 50:68. | May 28, 1908, ch. 215, § 14, 35 Stat. 443; June 28, 1950, ch. 383, § 402(g), 64 Stat. 273; Oct. 31, 1951, ch. 654, § 2(26), 65 Stat. 707. |
-|  |  | Mar. 4, 1909, ch. 319, § 47, 35 Stat. 1075; June 28, 1950, ch. 383, § 402(i), 64 Stat. 273; Oct. 31, 1951, ch. 654, § 2(28), 65 Stat. 707. |
+| 4684 | 50:64. 50:68. | May 28, 1908, ch. 215, § 14, 35 Stat. 443; June 28, 1950, ch. 383, § 402(g), 64 Stat. 273; Oct. 31, 1951, ch. 654, § 2(26), 65 Stat. 707. |
+|  |  | Mar. 4, 1909, ch. 319, § 47, 35 Stat. 1075; June 28, 1950, ch. 383, § 402(i), 64 Stat. 273; Oct. 31, 1951, ch. 654, § 2(28), 65 Stat. 707. |
 
 50:64 (proviso) and 50:68 (proviso) are omitted as surplusage.
 
@@ -209,13 +209,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 7685. Obsolete ordnance: loan to educational institutions and State soldiers and sailors’ orphans’ homes
+## § 7685. Obsolete ordnance: loan to educational institutions and State soldiers and sailors’ orphans’ homes
 
 **(a)** Upon the recommendation of the governor of the State concerned or Guam or the Virgin Islands, the Secretary of the Army, under regulations to be prescribed by him and without cost to the United States for transportation, may lend obsolete ordnance and ordnance stores to State, Guam, and the Virgin Islands educational institutions and to State soldiers and sailors’ orphans’ homes, for drill and instruction. However, no loan may be made under this subsection to an institution to which ordnance or ordnance stores may be issued under any law that was in effect on June 30, 1906, and is still in effect.
 
 **(b)** The Secretary shall require a bond from each institution or home to which property is lent under subsection (a), in double the value of the property lent, for the care and safekeeping of that property and, except for property properly expended, for its return when required.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 263, § 4685; Pub. L. 109–163, div. A, title X, § 1057(a)(10), Jan. 6, 2006, 119 Stat. 3441; renumbered § 7685, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 263, § 4685; Pub. L. 109–163, div. A, title X, § 1057(a)(10), Jan. 6, 2006, 119 Stat. 3441; renumbered § 7685, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
@@ -244,18 +244,18 @@ The words “subject to such regulations as he may prescribe” are omitted, sin
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7686. Obsolete ordnance: gift to State homes for soldiers and sailors
+## § 7686. Obsolete ordnance: gift to State homes for soldiers and sailors
 
 Subject to regulations under section 121 of title 40, the Secretary of the Army may give not more than two obsolete bronze or iron cannons suitable for firing salutes to any home for soldiers or sailors established and maintained under State authority.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 263, § 4686; Pub. L. 96–513, title V, § 512(19), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 107–217, § 3(b)(27), Aug. 21, 2002, 116 Stat. 1297; renumbered § 7686, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 263, § 4686; Pub. L. 96–513, title V, § 512(19), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 107–217, § 3(b)(27), Aug. 21, 2002, 116 Stat. 1297; renumbered § 7686, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4686 | 50:66. | Feb. 8, 1889, ch. 116, 25 Stat. 657; Oct. 31, 1951, ch. 654, § 2(27), 65 Stat. 707. |
-|  |  | Mar. 3, 1899, ch. 423 (1st proviso under “Ordnance Department”), 30 Stat. 1073; May 26, 1900, ch. 586 (1st proviso under “Ordnance Department”), 31 Stat. 216; June 28, 1950, ch. 383, § 402(e), 64 Stat. 273. |
+| 4686 | 50:66. | Feb. 8, 1889, ch. 116, 25 Stat. 657; Oct. 31, 1951, ch. 654, § 2(27), 65 Stat. 707. |
+|  |  | Mar. 3, 1899, ch. 423 (1st proviso under “Ordnance Department”), 30 Stat. 1073; May 26, 1900, ch. 586 (1st proviso under “Ordnance Department”), 31 Stat. 216; June 28, 1950, ch. 383, § 402(e), 64 Stat. 273. |
 
 **Editorial Notes**
 
@@ -277,7 +277,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 7687. Sale of excess, obsolete, or unserviceable ammunition and ammunition components
+## § 7687. Sale of excess, obsolete, or unserviceable ammunition and ammunition components
 
 **(a) Authority To Sell Outside DoD.—** The Secretary of the Army may sell to an eligible purchaser described in subsection (c) ammunition or ammunition components that are excess, obsolete, or unserviceable and have not been demilitarized if—
 
@@ -311,7 +311,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **(B)** includes any mutilation, scrapping, melting, burning, or alteration that prevents the use of the ammunition or ammunition components for the military purposes for which the ammunition or ammunition components was designed or for a lethal purpose.
 
-(Added Pub. L. 105–85, div. A, title X, § 1065(a)(1), Nov. 18, 1997, 111 Stat. 1893, § 4687; amended Pub. L. 109–364, div. A, title X, § 1071(a)(30), Oct. 17, 2006, 120 Stat. 2399; renumbered § 7687, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 105–85, div. A, title X, § 1065(a)(1), Nov. 18, 1997, 111 Stat. 1893, § 4687; amended Pub. L. 109–364, div. A, title X, § 1071(a)(30), Oct. 17, 2006, 120 Stat. 2399; renumbered § 7687, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -327,7 +327,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7688. Armor-piercing ammunition and components: condition on disposal
+## § 7688. Armor-piercing ammunition and components: condition on disposal
 
 **(a) Limitation on Resale or Other Transfer.—** Except as provided in subsection (b), whenever the Secretary of the Army carries out a disposal (by sale or otherwise) of armor-piercing ammunition, or a component of armor-piercing ammunition, the Secretary shall require as a condition of the disposal that the recipient agree in writing not to sell or otherwise transfer any of the ammunition (reconditioned or otherwise), or any armor-piercing component of that ammunition, to any purchaser in the United States other than a law enforcement or other governmental agency.
 
@@ -337,13 +337,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(d) Definition.—** In this section, the term “armor-piercing ammunition” means a center-fire cartridge the military designation of which includes the term “armor penetrator” or “armor-piercing”, including a center-fire cartridge designated as armor-piercing incendiary (API) or armor-piercing incendiary-tracer (API–T).
 
-(Added Pub. L. 106–398, § 1 [[div. A], title III, § 382(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–85, § 4688; renumbered § 7688, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 106–398, § 1 [[div. A], title III, § 382(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–85, § 4688; renumbered § 7688, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Arms Export Control Act, referred to in subsec. (c), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
+The Arms Export Control Act, referred to in subsec. (c), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
 **Amendments**
 
@@ -357,13 +357,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date**
 
-Pub. L. 106–398, § 1 [[div. A], title III, § 382(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–85, provided that: “Section 4688 [now 7688] of title 10, United States Code, as added by subsection (a), shall apply with respect to any disposal of ammunition or components referred to in that section after the date of the enactment of this Act [Oct. 30, 2000].”
+Pub. L. 106–398, § 1 [[div. A], title III, § 382(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–85, provided that: “Section 4688 [now 7688] of title 10, United States Code, as added by subsection (a), shall apply with respect to any disposal of ammunition or components referred to in that section after the date of the enactment of this Act [Oct. 30, 2000].”
 
-## § 7689. Transfer of material and equipment to the Architect of the Capitol
+## § 7689. Transfer of material and equipment to the Architect of the Capitol
 
 The Secretary of the Army is authorized to transfer, without payment, to the Architect of the Capitol, such material and equipment, not required by the Department of the Army, as the Architect may request for use at the Capitol power plant, the Capitol, and the Senate and House Office Buildings.
 
-(Added Pub. L. 107–217, § 2(1), Aug. 21, 2002, 116 Stat. 1294, § 4689; amended Pub. L. 108–375, div. A, title X, § 1084(d)(29), Oct. 28, 2004, 118 Stat. 2063; renumbered § 7689, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 107–217, § 2(1), Aug. 21, 2002, 116 Stat. 1294, § 4689; amended Pub. L. 108–375, div. A, title X, § 1084(d)(29), Oct. 28, 2004, 118 Stat. 2063; renumbered § 7689, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -379,7 +379,7 @@ The Secretary of the Army is authorized to transfer, without payment, to the Arc
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7690. Recyclable munitions materials: sale; use of proceeds
+## § 7690. Recyclable munitions materials: sale; use of proceeds
 
 **(a) Authority for Program.—** Notwithstanding section 2577 of this title, the Secretary of the Army may carry out a program to sell recyclable munitions materials resulting from the demilitarization of conventional military munitions without regard to chapter 5 of title 40 and use any proceeds in accordance with subsection (c).
 
@@ -393,13 +393,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(d) Regulations.—** The Secretary shall prescribe regulations to carry out the program established under this section. Such regulations shall be consistent and in compliance with the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.) and the regulations implementing that Act.
 
-(Added Pub. L. 109–364, div. A, title III, § 353(a), Oct. 17, 2006, 120 Stat. 2161, § 4690; renumbered § 7690, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 109–364, div. A, title III, § 353(a), Oct. 17, 2006, 120 Stat. 2161, § 4690; renumbered § 7690, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Solid Waste Disposal Act, referred to in subsec. (d), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (d), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
 **Amendments**
 

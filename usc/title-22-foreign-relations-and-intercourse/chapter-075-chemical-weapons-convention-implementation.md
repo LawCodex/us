@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 75—CHEMICAL WEAPONS CONVENTION IMPLEMENTATION
 
-## § 6701. Definitions
+## § 6701. Definitions
 
 In this chapter:
 
@@ -105,9 +105,9 @@ The term “Technical Secretariat” means the Technical Secretariat of the Orga
 
 2-Chloroethylchloromethylsulfide
 
-Mustard gas: (Bis(2-chloroethyl)sulfide 1
+Mustard gas: (Bis(2-chloroethyl)sulfide 1
 
-<sup>1</sup>  So in original. Probably should not be preceded by an open parenthesis.
+<sup>1</sup> So in original. Probably should not be preceded by an open parenthesis.
 
 Bis(2-chloroethylthio)methane
 
@@ -245,9 +245,9 @@ Toxic chemicals which have been identified for the application of verification m
 
 **(14) United States** The term “United States” means the several States of the United States, the District of Columbia, and the commonwealths, territories, and possessions of the United States and includes all places under the jurisdiction or control of the United States, including—
 
-**(A)** any of the places within the provisions of paragraph (41) 2
+**(A)** any of the places within the provisions of paragraph (41) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of section 40102 of title 49;
 
@@ -259,7 +259,7 @@ of section 40102 of title 49;
 
 The term “unscheduled discrete organic chemical” means any chemical not listed on any schedule contained in the Annex on Chemicals of the Convention that belongs to the class of chemical compounds consisting of all compounds of carbon, except for its oxides, sulfides, and metal carbonates.
 
-(Pub. L. 105–277, div. I, § 3, Oct. 21, 1998, 112 Stat. 2681–856.)
+(Pub. L. 105–277, div. I, § 3, Oct. 21, 1998, 112 Stat. 2681–856.)
 
 **Editorial Notes**
 
@@ -267,17 +267,17 @@ The term “unscheduled discrete organic chemical” means any chemical not list
 
 This chapter, referred to in text, was in the original “this Act” and was translated as reading “this division”, meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out below and Tables.
 
-Paragraphs (17), (37), and (41) of section 40102 of title 49, referred to in par. (14)(A), (B), probably were originally meant to refer to paragraphs (17), (37), and (41) of subsection (a) of section 40102 of title 49. Paragraphs (37) and (41) were subsequently redesignated as (41) and (46), respectively, by Pub. L. 108–176, title II, § 225(a)(1), (3), Dec. 12, 2003, 117 Stat. 2528.
+Paragraphs (17), (37), and (41) of section 40102 of title 49, referred to in par. (14)(A), (B), probably were originally meant to refer to paragraphs (17), (37), and (41) of subsection (a) of section 40102 of title 49. Paragraphs (37) and (41) were subsequently redesignated as (41) and (46), respectively, by Pub. L. 108–176, title II, § 225(a)(1), (3), Dec. 12, 2003, 117 Stat. 2528.
 
 **Codification**
 
-In par. 14(C), “section 70502(b) of title 46” substituted for “section 3(b) of the Maritime Drug Enforcement Act, as amended (46 U.S.C., App. sec. 1903(b))”, meaning section 3(b) of the Maritime Drug Law Enforcement Act, on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 70502 of Title 46, Shipping.
+In par. 14(C), “section 70502(b) of title 46” substituted for “section 3(b) of the Maritime Drug Enforcement Act, as amended (46 U.S.C., App. sec. 1903(b))”, meaning section 3(b) of the Maritime Drug Law Enforcement Act, on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 70502 of Title 46, Shipping.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 105–277, div. I, § 1, Oct. 21, 1998, 112 Stat. 2681–856, provided that: “This Division [enacting this chapter, sections 229 to 229F of Title 18, Crimes and Criminal Procedure, and section 436 of Title 41, Public Contracts, amending section 362 of Title 11, Bankruptcy, and section 2332a of Title 18, repealing section 2332c of Title 18 and section 1520 of Title 50, War and National Defense, and enacting provisions set out as a note under section 229 of Title 18] may be cited as the ‘Chemical Weapons Convention Implementation Act of 1998’.”
+Pub. L. 105–277, div. I, § 1, Oct. 21, 1998, 112 Stat. 2681–856, provided that: “This Division [enacting this chapter, sections 229 to 229F of Title 18, Crimes and Criminal Procedure, and section 436 of Title 41, Public Contracts, amending section 362 of Title 11, Bankruptcy, and section 2332a of Title 18, repealing section 2332c of Title 18 and section 1520 of Title 50, War and National Defense, and enacting provisions set out as a note under section 229 of Title 18] may be cited as the ‘Chemical Weapons Convention Implementation Act of 1998’.”
 
 **Regulations**
 
@@ -291,7 +291,7 @@ For delegation of functions under this chapter, see section 5 of Ex. Ord. No. 13
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 6711. Designation of United States National Authority
+### § 6711. Designation of United States National Authority
 
 **(a) Designation**
 
@@ -315,7 +315,7 @@ The Director may utilize the administrative authorities otherwise available to t
 
 The President is authorized to implement and carry out the provisions of this chapter and the Convention and shall designate through Executive order which agencies of the United States shall issue, amend, or revise the regulations in order to implement this chapter and the provisions of the Convention. The Director of the United States National Authority shall report to the Congress on the regulations that have been issued, implemented, or revised pursuant to this section.
 
-(Pub. L. 105–277, div. I, title I, § 101, Oct. 21, 1998, 112 Stat. 2681–860.)
+(Pub. L. 105–277, div. I, title I, § 101, Oct. 21, 1998, 112 Stat. 2681–860.)
 
 **Editorial Notes**
 
@@ -365,11 +365,11 @@ Sec. 11. (a) This order shall take effect at 12:01 a.m. eastern daylight time, J
 
 William J. Clinton.
 
-### § 6712. No abridgement of constitutional rights
+### § 6712. No abridgement of constitutional rights
 
 No person may be required, as a condition for entering into a contract with the United States or as a condition for receiving any benefit from the United States, to waive any right under the Constitution for any purpose related to this chapter or the Convention.
 
-(Pub. L. 105–277, div. I, title I, § 102, Oct. 21, 1998, 112 Stat. 2681–861.)
+(Pub. L. 105–277, div. I, title I, § 102, Oct. 21, 1998, 112 Stat. 2681–861.)
 
 **Editorial Notes**
 
@@ -377,7 +377,7 @@ No person may be required, as a condition for entering into a contract with the 
 
 This chapter, referred to in text, was in the original “this Act” and was translated as reading “this division”, meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out under section 6701 of this title and Tables.
 
-### § 6713. Civil liability of United States
+### § 6713. Civil liability of United States
 
 **(a) Claims for taking of property**
 
@@ -455,11 +455,11 @@ The United States Government shall not sell to a person described in subparagrap
 
 **(ii) Sanctions under Export Administration Act of 1979**
 
-The authorities under section 6 1
+The authorities under section 6 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of the Export Administration Act of 1979 shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) 1 of that Act to a person described in subparagraph (A).
+of the Export Administration Act of 1979 shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) 1 of that Act to a person described in subparagraph (A).
 
 **(iii) International financial assistance**
 
@@ -503,7 +503,7 @@ No appropriated funds may be used for the purpose of providing economic assistan
 
 **(iv) Sanctions under Export Administration Act of 1979**
 
-The authorities of section 6 <sup>1</sup> of the Export Administration Act of 1979 shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) <sup>1</sup> of that Act to a country described in subparagraph (A).
+The authorities of section 6 <sup>1</sup> of the Export Administration Act of 1979 shall be used to prohibit the export of any goods or technology on the control list established pursuant to section 5(c)(1) <sup>1</sup> of that Act to a country described in subparagraph (A).
 
 **(v) International financial assistance**
 
@@ -539,9 +539,9 @@ Not later than five days after sanctions become effective against a foreign pers
 
 **(f) Sanctions for unauthorized disclosure of United States confidential business information** The Secretary of State shall deny a visa to, and the Attorney General shall exclude from the United States any alien who, after October 21, 1998—
 
-**(1)** is, or previously served as, an officer or employee of the Organization and who has willfully published, divulged, disclosed, or made known in any manner or to any extent not authorized by the Convention any United States confidential business information coming to him in the course of his employment or official duties, or by reason of any examination or investigation of any return, report, or record made to or filed with the Organization, or any officer or employee thereof, such practice or disclosure having resulted in financial loses 2
+**(1)** is, or previously served as, an officer or employee of the Organization and who has willfully published, divulged, disclosed, or made known in any manner or to any extent not authorized by the Convention any United States confidential business information coming to him in the course of his employment or official duties, or by reason of any examination or investigation of any return, report, or record made to or filed with the Organization, or any officer or employee thereof, such practice or disclosure having resulted in financial loses 2
 
-<sup>2</sup>  So in original. Probably should be “losses”.
+<sup>2</sup> So in original. Probably should be “losses”.
 
 or damages to a United States person and for which actions or omissions the United States has been found liable of a tort or taking pursuant to this chapter;
 
@@ -573,7 +573,7 @@ and that is obtained—
 
 **(ii)** through the United States Government or the conduct of an inspection on United States territory under the Convention.
 
-(Pub. L. 105–277, div. I, title I, § 103, Oct. 21, 1998, 112 Stat. 2681–861.)
+(Pub. L. 105–277, div. I, title I, § 103, Oct. 21, 1998, 112 Stat. 2681–861.)
 
 **Editorial Notes**
 
@@ -581,11 +581,11 @@ and that is obtained—
 
 This chapter, referred to in text, was in the original “this Act” and was translated as reading “this division”, meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out under section 6701 of this title and Tables.
 
-The Arms Export Control Act, referred to in subsec. (e)(2)(B)(i), (3)(B)(i), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (e)(2)(B)(i), (3)(B)(i), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The Export Administration Act of 1979, referred to in subsec. (e)(2)(B)(ii), (3)(B)(iv), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). Sections 5 and 6 of the Act were classified to sections 4604 and 4605, respectively, of Title 50 prior to repeal.
+The Export Administration Act of 1979, referred to in subsec. (e)(2)(B)(ii), (3)(B)(iv), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). Sections 5 and 6 of the Act were classified to sections 4604 and 4605, respectively, of Title 50 prior to repeal.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (e)(3)(B)(vi), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (e)(3)(B)(vi), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -595,7 +595,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 ## SUBCHAPTER II—INSPECTIONS
 
-### § 6721. Definitions
+### § 6721. Definitions
 
 **(a) In general**
 
@@ -605,7 +605,7 @@ In this subchapter, the terms “challenge inspection”, “plant site”, “p
 
 In this subchapter, the term “judge of the United States” means a judge or magistrate judge of a district court of the United States.
 
-(Pub. L. 105–277, div. I, title III, § 301, Oct. 21, 1998, 112 Stat. 2681–872.)
+(Pub. L. 105–277, div. I, title III, § 301, Oct. 21, 1998, 112 Stat. 2681–872.)
 
 **Editorial Notes**
 
@@ -613,7 +613,7 @@ In this subchapter, the term “judge of the United States” means a judge or m
 
 This subchapter, referred to in text, was in the original “this title”, meaning title III of div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–872, which enacted this subchapter and section 436 of former Title 41, Public Contracts. For complete classification of title III to the Code, see Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
-### § 6722. Facility agreements
+### § 6722. Facility agreements
 
 **(a) Authorization of inspections**
 
@@ -643,9 +643,9 @@ The United States National Authority shall ensure that the owner, operator, occu
 
 **(4)** detail the areas, equipment, computers, records, data, and samples that are not subject to inspection.
 
-(Pub. L. 105–277, div. I, title III, § 302, Oct. 21, 1998, 112 Stat. 2681–872.)
+(Pub. L. 105–277, div. I, title III, § 302, Oct. 21, 1998, 112 Stat. 2681–872.)
 
-### § 6723. Authority to conduct inspections
+### § 6723. Authority to conduct inspections
 
 **(a) Prohibition**
 
@@ -683,7 +683,7 @@ Any objection by the President to an individual serving as an inspector, whether
 
 The requirement under subsection (b)(2)(A) shall not apply to inspections of United States chemical weapons destruction facilities (as used within the meaning of part IV(C)(13) of the Verification Annex to the Convention).
 
-(Pub. L. 105–277, div. I, title III, § 303, Oct. 21, 1998, 112 Stat. 2681–873; Pub. L. 106–280, title III, § 305, Oct. 6, 2000, 114 Stat. 854; Pub. L. 107–107, div. A, title XII, § 1204(a), Dec. 28, 2001, 115 Stat. 1247.)
+(Pub. L. 105–277, div. I, title III, § 303, Oct. 21, 1998, 112 Stat. 2681–873; Pub. L. 106–280, title III, § 305, Oct. 6, 2000, 114 Stat. 854; Pub. L. 107–107, div. A, title XII, § 1204(a), Dec. 28, 2001, 115 Stat. 1247.)
 
 **Editorial Notes**
 
@@ -697,13 +697,13 @@ The requirement under subsection (b)(2)(A) shall not apply to inspections of Uni
 
 **Protection of United States Companies**
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1117], Nov. 29, 1999, 113 Stat. 1536, 1501A–489, provided that:
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1117], Nov. 29, 1999, 113 Stat. 1536, 1501A–489, provided that:
 
 > **“(a) Reimbursement.—** During the 2-year period beginning on the date of the enactment of this Act [Nov. 29, 1999], the United States National Authority (as designated pursuant to section 101 of the Chemical Weapons Convention Implementation Act of 1998 [22 U.S.C. 6711] (as contained in division I of Public Law 105–277)) shall, upon request of the Director of the Federal Bureau of Investigation, reimburse the Federal Bureau of Investigation for all costs incurred by the Bureau for such period in connection with implementation of section 303(b)(2)(A) of that Act [22 U.S.C. 6723(b)(2)(A)], except that such reimbursement may not exceed $2,000,000 for such 2-year period.
 
 > **“(b) Report.—** Not later than 180 days prior to the expiration of the 2-year period described in subsection (a), the Director of the Federal Bureau of Investigation shall prepare and submit to the Committee on International Relations [now Committee on Foreign Affairs] of the House of Representatives and the Committee on Foreign Relations of the Senate a report on how activities under section 303(b)(2)(A) of the Chemical Weapons Convention Implementation Act of 1998 [22 U.S.C. 6723(b)(2)(A)] will be fully funded and implemented by the Federal Bureau of Investigation notwithstanding the expiration of the 2-year period described in subsection (a).”
 
-### § 6724. Procedures for inspections
+### § 6724. Procedures for inspections
 
 **(a) Types of inspections**
 
@@ -785,7 +785,7 @@ In carrying out their activities, members of the inspection team of the Technica
 
 The appropriate representatives of the United States, as designated, if present, shall assist the owner and the operator, occupant or agent in charge of the premises to be inspected in interacting with the members of the inspection team of the Technical Secretariat.
 
-(Pub. L. 105–277, div. I, title III, § 304, Oct. 21, 1998, 112 Stat. 2681–874; Pub. L. 107–107, div. A, title XII, § 1204(b), Dec. 28, 2001, 115 Stat. 1247.)
+(Pub. L. 105–277, div. I, title III, § 304, Oct. 21, 1998, 112 Stat. 2681–874; Pub. L. 107–107, div. A, title XII, § 1204(b), Dec. 28, 2001, 115 Stat. 1247.)
 
 **Editorial Notes**
 
@@ -797,7 +797,7 @@ This chapter, referred to in subsec. (f)(1), was in the original “this Act” 
 
 2001—Subsec. (c). Pub. L. 107–107 substituted “Federal Government (and, in the case of an inspection of a United States Government facility, any accompanying contractor personnel)” for “Federal government”.
 
-### § 6725. Warrants
+### § 6725. Warrants
 
 **(a) In general**
 
@@ -889,7 +889,7 @@ For any challenge inspection conducted on the territory of the United States pur
 
 **(viii)** the identities of the representatives of the Technical Secretariat on the inspection teams and the Federal Government employees accompanying the inspection team.
 
-(Pub. L. 105–277, div. I, title III, § 305, Oct. 21, 1998, 112 Stat. 2681–875.)
+(Pub. L. 105–277, div. I, title III, § 305, Oct. 21, 1998, 112 Stat. 2681–875.)
 
 **Editorial Notes**
 
@@ -903,11 +903,11 @@ This chapter, referred to in subsec. (b)(4)(B)(v), was in the original “this A
 
 For authority of Secretary of Commerce to obtain and execute certain warrants pursuant to this section, see section 4 of Ex. Ord. No. 13128, June 25, 1999, 64 F.R. 34703, set out as a note under section 6711 of this title.
 
-### § 6726. Prohibited acts relating to inspections
+### § 6726. Prohibited acts relating to inspections
 
 It shall be unlawful for any person willfully to fail or refuse to permit entry or inspection, or to disrupt, delay, or otherwise impede an inspection, authorized by this chapter.
 
-(Pub. L. 105–277, div. I, title III, § 306, Oct. 21, 1998, 112 Stat. 2681–878.)
+(Pub. L. 105–277, div. I, title III, § 306, Oct. 21, 1998, 112 Stat. 2681–878.)
 
 **Editorial Notes**
 
@@ -915,13 +915,13 @@ It shall be unlawful for any person willfully to fail or refuse to permit entry 
 
 This chapter, referred to in text, was in the original “this Act” and was translated as reading “this division”, meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out under section 6701 of this title and Tables.
 
-### § 6727. National security exception
+### § 6727. National security exception
 
 Consistent with the objective of eliminating chemical weapons, the President may deny a request to inspect any facility in the United States in cases where the President determines that the inspection may pose a threat to the national security interests of the United States.
 
-(Pub. L. 105–277, div. I, title III, § 307, Oct. 21, 1998, 112 Stat. 2681–878.)
+(Pub. L. 105–277, div. I, title III, § 307, Oct. 21, 1998, 112 Stat. 2681–878.)
 
-### § 6728. Annual report on inspections
+### § 6728. Annual report on inspections
 
 **(a) In general**
 
@@ -949,7 +949,7 @@ Not later than one year after October 21, 1998, and annually thereafter, the Pre
 
 The term “appropriate congressional committees” means the Committee on the Judiciary, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate and the Committee on the Judiciary, the Committee on International Relations, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
-(Pub. L. 105–277, div. I, title III, § 309, Oct. 21, 1998, 112 Stat. 2681–879.)
+(Pub. L. 105–277, div. I, title III, § 309, Oct. 21, 1998, 112 Stat. 2681–879.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -963,7 +963,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 For delegation of congressional reporting functions of President under this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46074, set out as a note under section 301 of Title 3, The President.
 
-### § 6729. United States assistance in inspections at private facilities
+### § 6729. United States assistance in inspections at private facilities
 
 **(a) Assistance in preparation for inspections**
 
@@ -995,11 +995,11 @@ A small business concern as defined in section 632 of title 15.
 
 **(ii)** more than 200 metric tons of unscheduled discrete organic chemicals.
 
-(Pub. L. 105–277, div. I, title III, § 310, Oct. 21, 1998, 112 Stat. 2681–880.)
+(Pub. L. 105–277, div. I, title III, § 310, Oct. 21, 1998, 112 Stat. 2681–880.)
 
 ## SUBCHAPTER III—REPORTS
 
-### § 6741. Reports required by United States National Authority
+### § 6741. Reports required by United States National Authority
 
 **(a) Regulations on recordkeeping**
 
@@ -1023,7 +1023,7 @@ To the extent feasible, the United States Government shall not require the submi
 
 As used in paragraph (1), the term “Federal agency” has the meaning given the term “agency” in section 551(1) of title 5.
 
-(Pub. L. 105–277, div. I, title IV, § 401, Oct. 21, 1998, 112 Stat. 2681–880.)
+(Pub. L. 105–277, div. I, title IV, § 401, Oct. 21, 1998, 112 Stat. 2681–880.)
 
 **Editorial Notes**
 
@@ -1037,7 +1037,7 @@ This chapter, referred to in subsec. (b)(1), was in the original “this Act” 
 
 Regulations under subsec. (a) to be issued by Department of Commerce by a date specified by Department of State as United States National Authority (USNA) and to be reviewed and approved by USNA in coordination with an interagency group, see section 3 of Ex. Ord. No. 13128, June 25, 1999, 64 F.R. 34703, set out as a note under section 6711 of this title.
 
-### § 6742. Prohibition relating to low concentrations of Schedules 2 and 3 chemicals
+### § 6742. Prohibition relating to low concentrations of Schedules 2 and 3 chemicals
 
 **(a) Prohibition** Notwithstanding any other provision of this chapter, no person located in the United States shall be required to report on, or to submit to, any routine inspection conducted for the purpose of verifying the production, possession, consumption, exportation, importation, or proposed production, possession, consumption, exportation, or importation of any substance that contains less than—
 
@@ -1049,7 +1049,7 @@ Regulations under subsec. (a) to be issued by Department of Commerce by a date s
 
 The percent concentration of a chemical in a substance shall be measured on the basis of volume or total weight, which measurement yields the lesser percent.
 
-(Pub. L. 105–277, div. I, title IV, § 402, Oct. 21, 1998, 112 Stat. 2681–881.)
+(Pub. L. 105–277, div. I, title IV, § 402, Oct. 21, 1998, 112 Stat. 2681–881.)
 
 **Editorial Notes**
 
@@ -1057,15 +1057,15 @@ The percent concentration of a chemical in a substance shall be measured on the 
 
 This chapter, referred to in subsec. (a), was in the original “this Act” and was translated as reading “this division”, meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out under section 6701 of this title and Tables.
 
-### § 6743. Prohibition relating to unscheduled discrete organic chemicals and coincidental byproducts in waste streams
+### § 6743. Prohibition relating to unscheduled discrete organic chemicals and coincidental byproducts in waste streams
 
-**(a) 1 [footnote: 1 So in original. No subsec. (b) has been enacted.] Prohibition** Notwithstanding any other provision of this chapter, no person located in the United States shall be required to report on, or to submit to, any routine inspection conducted for the purpose of verifying the production, possession, consumption, exportation, importation, or proposed production, possession, consumption, exportation, or importation of any substance that is—
+**(a) 1 [footnote: 1 So in original. No subsec. (b) has been enacted.] Prohibition** Notwithstanding any other provision of this chapter, no person located in the United States shall be required to report on, or to submit to, any routine inspection conducted for the purpose of verifying the production, possession, consumption, exportation, importation, or proposed production, possession, consumption, exportation, or importation of any substance that is—
 
 **(1)** an unscheduled discrete organic chemical; and
 
 **(2)** a coincidental byproduct of a manufacturing or production process that is not isolated or captured for use or sale during the process and is routed to, or escapes, from the waste stream of a stack, incinerator, or wastewater treatment system or any other waste stream.
 
-(Pub. L. 105–277, div. I, title IV, § 403, Oct. 21, 1998, 112 Stat. 2681–881.)
+(Pub. L. 105–277, div. I, title IV, § 403, Oct. 21, 1998, 112 Stat. 2681–881.)
 
 **Editorial Notes**
 
@@ -1073,7 +1073,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act” and
 
 This chapter, referred to in text, was in the original “this Act” and was translated as reading “this division”, meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out under section 6701 of this title and Tables.
 
-### § 6744. Confidentiality of information
+### § 6744. Confidentiality of information
 
 **(a) Freedom of Information Act exemption for certain Convention information**
 
@@ -1119,9 +1119,9 @@ Any officer or employee of the United States, and any former officer or employee
 
 **(e) Criminal forfeiture**
 
-The property of any person who violates subsection (d) shall be subject to forfeiture to the United States in the same manner and to the same extent as is provided in section 229C 1
+The property of any person who violates subsection (d) shall be subject to forfeiture to the United States in the same manner and to the same extent as is provided in section 229C 1
 
-<sup>1</sup>  So in original. Probably should be section “229B”.
+<sup>1</sup> So in original. Probably should be section “229B”.
 
 of title 18.
 
@@ -1129,7 +1129,7 @@ of title 18.
 
 The provisions of this section shall also apply to employees of the Technical Secretariat.
 
-(Pub. L. 105–277, div. I, title IV, § 404, Oct. 21, 1998, 112 Stat. 2681–882.)
+(Pub. L. 105–277, div. I, title IV, § 404, Oct. 21, 1998, 112 Stat. 2681–882.)
 
 **Editorial Notes**
 
@@ -1137,7 +1137,7 @@ The provisions of this section shall also apply to employees of the Technical Se
 
 This chapter, referred to in subsecs. (a), (b)(3), and (c)(1), was in the original “this Act” and was translated as reading “this division”, meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out under section 6701 of this title and Tables.
 
-### § 6745. Recordkeeping violations
+### § 6745. Recordkeeping violations
 
 It shall be unlawful for any person willfully to fail or refuse—
 
@@ -1147,7 +1147,7 @@ It shall be unlawful for any person willfully to fail or refuse—
 
 **(3)** to permit access to or copying of any record that is exempt from disclosure under this chapter or any regulation prescribed under this chapter.
 
-(Pub. L. 105–277, div. I, title IV, § 405, Oct. 21, 1998, 112 Stat. 2681–883.)
+(Pub. L. 105–277, div. I, title IV, § 405, Oct. 21, 1998, 112 Stat. 2681–883.)
 
 **Editorial Notes**
 
@@ -1157,7 +1157,7 @@ This chapter, referred to in text, was in the original “this Act” and was tr
 
 ## SUBCHAPTER IV—ENFORCEMENT
 
-### § 6761. Penalties
+### § 6761. Penalties
 
 **(a) Civil**
 
@@ -1213,7 +1213,7 @@ the Secretary of State shall file a suit to seek compliance with the order in an
 
 Any person who knowingly violates any provision of section 6726 or 6745 of this title, shall, in addition to or in lieu of any civil penalty which may be imposed under subsection (a) for such violation, be fined under title 18, imprisoned for not more than one year, or both.
 
-(Pub. L. 105–277, div. I, title V, § 501, Oct. 21, 1998, 112 Stat. 2681–883.)
+(Pub. L. 105–277, div. I, title V, § 501, Oct. 21, 1998, 112 Stat. 2681–883.)
 
 **Executive Documents**
 
@@ -1221,7 +1221,7 @@ Any person who knowingly violates any provision of section 6726 or 6745 of this 
 
 For authority of Secretary of Commerce to carry out certain functions with respect to proceedings under subsec. (a), and to issue regulations with respect thereto, see section 4 of Ex. Ord. No. 13128, June 25, 1999, 64 F.R. 34703, set out as a note under section 6711 of this title.
 
-### § 6762. Specific enforcement
+### § 6762. Specific enforcement
 
 **(a) Jurisdiction** The district courts of the United States shall have jurisdiction over civil actions to—
 
@@ -1241,7 +1241,7 @@ For authority of Secretary of Commerce to carry out certain functions with respe
 
 In any such civil action process may be served on a defendant wherever the defendant may reside or may be found, whether the defendant resides or may be found within the United States or elsewhere.
 
-(Pub. L. 105–277, div. I, title V, § 502, Oct. 21, 1998, 112 Stat. 2681–885.)
+(Pub. L. 105–277, div. I, title V, § 502, Oct. 21, 1998, 112 Stat. 2681–885.)
 
 **Editorial Notes**
 
@@ -1249,7 +1249,7 @@ In any such civil action process may be served on a defendant wherever the defen
 
 This chapter, referred to in subsec. (a)(2), was in the original “this Act” and was translated as reading “this division”, meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out under section 6701 of this title and Tables.
 
-### § 6763. Expedited judicial review
+### § 6763. Expedited judicial review
 
 **(a) Civil action**
 
@@ -1259,7 +1259,7 @@ Any person or entity subject to a search under this chapter may file a civil act
 
 Notwithstanding any other provision of law, during the full calendar year of, and the two full calendar years following October 21, 1998, any appeal from a final order entered by a district court in an action brought under subsection (a) shall be heard promptly by the full Court of Appeals sitting en banc.
 
-(Pub. L. 105–277, div. I, title V, § 503, Oct. 21, 1998, 112 Stat. 2681–885.)
+(Pub. L. 105–277, div. I, title V, § 503, Oct. 21, 1998, 112 Stat. 2681–885.)
 
 **Editorial Notes**
 
@@ -1269,7 +1269,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act” and
 
 ## SUBCHAPTER V—MISCELLANEOUS PROVISIONS
 
-### § 6771. Prohibition
+### § 6771. Prohibition
 
 **(a) In general** Neither the Secretary of Defense nor any other officer or employee of the United States may, directly or by contract—
 
@@ -1289,7 +1289,7 @@ Nothing in subsection (a) may be construed to prohibit actions carried out for p
 
 **(3)** deleterious alteration of the environment.
 
-(Pub. L. 105–277, div. I, title VI, § 602, Oct. 21, 1998, 112 Stat. 2681–886.)
+(Pub. L. 105–277, div. I, title VI, § 602, Oct. 21, 1998, 112 Stat. 2681–886.)
 
 **Editorial Notes**
 

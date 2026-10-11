@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 81—HIGH-PERFORMANCE COMPUTING
 
-## § 5501. Findings
+## § 5501. Findings
 
 The Congress finds the following:
 
@@ -37,41 +37,41 @@ The Congress finds the following:
 
 **(9)** Information security is an important part of computing, information, and communications systems and applications, and research into security architectures is a critical aspect of computing, information, and communications research programs.
 
-(Pub. L. 102–194, § 2, Dec. 9, 1991, 105 Stat. 1594; Pub. L. 105–305, § 2(b), Oct. 28, 1998, 112 Stat. 2919; Pub. L. 114–329, title I, § 105(b), Jan. 6, 2017, 130 Stat. 2976.)
+(Pub. L. 102–194, § 2, Dec. 9, 1991, 105 Stat. 1594; Pub. L. 105–305, § 2(b), Oct. 28, 1998, 112 Stat. 2919; Pub. L. 114–329, title I, § 105(b), Jan. 6, 2017, 130 Stat. 2976.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Par. (2). Pub. L. 114–329, § 105(b)(1), substituted “networking and information technology, including high-performance computing,” for “high-performance computing”.
+2017—Par. (2). Pub. L. 114–329, § 105(b)(1), substituted “networking and information technology, including high-performance computing,” for “high-performance computing”.
 
-Par. (3). Pub. L. 114–329, § 105(b)(2), substituted “networking and information technology, including high-performance computing” for “high-performance computing”.
+Par. (3). Pub. L. 114–329, § 105(b)(2), substituted “networking and information technology, including high-performance computing” for “high-performance computing”.
 
-Par. (5). Pub. L. 114–329, § 105(b)(1), substituted “networking and information technology, including high-performance computing,” for “high-performance computing”.
+Par. (5). Pub. L. 114–329, § 105(b)(1), substituted “networking and information technology, including high-performance computing,” for “high-performance computing”.
 
-1998—Par. (4). Pub. L. 105–305, § 2(b)(1), added par. (4) and struck out former par. (4) which read as follows: “A high-capacity and high-speed national research and education computer network would provide researchers and educators with access to computer and information resources and act as a test bed for further research and development of high-capacity and high-speed computer networks.”
+1998—Par. (4). Pub. L. 105–305, § 2(b)(1), added par. (4) and struck out former par. (4) which read as follows: “A high-capacity and high-speed national research and education computer network would provide researchers and educators with access to computer and information resources and act as a test bed for further research and development of high-capacity and high-speed computer networks.”
 
-Pars. (7) to (9). Pub. L. 105–305, § 2(b)(2), added pars. (7) to (9).
+Pars. (7) to (9). Pub. L. 105–305, § 2(b)(2), added pars. (7) to (9).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2017 Amendment**
 
-Pub. L. 114–329, title I, § 105(a), Jan. 6, 2017, 130 Stat. 2976, provided that: “This section [enacting section 5512 of this title, amending this section, sections 5502, 5503, 5511, 5521 to 5524, 5527, 7403, and 7431 of this title, and section 17912 of Title 42, The Public Health and Welfare, and repealing sections 5512, 5513, 5525, 5526, 5528, and 5543 of this title] may be cited as the ‘Networking and Information Technology Research and Development Modernization Act of 2016’.”
+Pub. L. 114–329, title I, § 105(a), Jan. 6, 2017, 130 Stat. 2976, provided that: “This section [enacting section 5512 of this title, amending this section, sections 5502, 5503, 5511, 5521 to 5524, 5527, 7403, and 7431 of this title, and section 17912 of Title 42, The Public Health and Welfare, and repealing sections 5512, 5513, 5525, 5526, 5528, and 5543 of this title] may be cited as the ‘Networking and Information Technology Research and Development Modernization Act of 2016’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–305, § 1, Oct. 28, 1998, 112 Stat. 2919, provided that: “This Act [enacting section 5513 of this title, amending this section and sections 5502, 5503, and 5511 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Next Generation Internet Research Act of 1998’.”
+Pub. L. 105–305, § 1, Oct. 28, 1998, 112 Stat. 2919, provided that: “This Act [enacting section 5513 of this title, amending this section and sections 5502, 5503, and 5511 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Next Generation Internet Research Act of 1998’.”
 
 **Short Title**
 
-Pub. L. 102–194, § 1, Dec. 9, 1991, 105 Stat. 1594, provided that: “This Act [enacting this chapter] may be cited as the ‘High-Performance Computing Act of 1991’.”
+Pub. L. 102–194, § 1, Dec. 9, 1991, 105 Stat. 1594, provided that: “This Act [enacting this chapter] may be cited as the ‘High-Performance Computing Act of 1991’.”
 
-Pub. L. 108–423, § 1, Nov. 30, 2004, 118 Stat. 2400, as amended by Pub. L. 115–246, title III, § 304(b)(1)(A), formerly § 304(a)(1)(A), Sept. 28, 2018, 132 Stat. 3145, renumbered § 304(b)(1)(A) by Pub. L. 117–167, div. B, title I, § 10104(a)(1), Aug. 9, 2022, 136 Stat. 1433, provided that: “This Act [enacting subchapter III of this chapter, amending sections 205*l* of this title and 1862n–9 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 1862n–9 of Title 42] may be cited as the ‘American Super Computing Leadership Act of 2017’.”
+Pub. L. 108–423, § 1, Nov. 30, 2004, 118 Stat. 2400, as amended by Pub. L. 115–246, title III, § 304(b)(1)(A), formerly § 304(a)(1)(A), Sept. 28, 2018, 132 Stat. 3145, renumbered § 304(b)(1)(A) by Pub. L. 117–167, div. B, title I, § 10104(a)(1), Aug. 9, 2022, 136 Stat. 1433, provided that: “This Act [enacting subchapter III of this chapter, amending sections 205*l* of this title and 1862n–9 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 1862n–9 of Title 42] may be cited as the ‘American Super Computing Leadership Act of 2017’.”
 
 **Congressional Findings**
 
-Pub. L. 105–305, § 2(a), Oct. 28, 1998, 112 Stat. 2919, provided that:
+Pub. L. 105–305, § 2(a), Oct. 28, 1998, 112 Stat. 2919, provided that:
 
 > “The Congress finds that—
 
@@ -87,7 +87,7 @@ Pub. L. 105–305, § 2(a), Oct. 28, 1998, 112 Stat. 2919, provided that:
 
 **Purposes**
 
-Pub. L. 105–305, § 3(a), Oct. 28, 1998, 112 Stat. 2920, provided that:
+Pub. L. 105–305, § 3(a), Oct. 28, 1998, 112 Stat. 2920, provided that:
 
 > “The purposes of this Act [see Short Title of 1998 Amendment note above] are—
 
@@ -111,7 +111,7 @@ Pub. L. 105–305, § 3(a), Oct. 28, 1998, 112 Stat. 2920, provided that:
 
 **Definitions**
 
-Pub. L. 105–305, § 7(a), Oct. 28, 1998, 112 Stat. 2924, provided that:
+Pub. L. 105–305, § 7(a), Oct. 28, 1998, 112 Stat. 2924, provided that:
 
 > “For purposes of this Act [see Short Title of 1998 Amendment note above]—
 
@@ -195,7 +195,7 @@ Sec. 7. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Barack Obama.
 
-## § 5502. Purposes
+## § 5502. Purposes
 
 The purposes of this chapter are to help ensure the continued leadership of the United States in networking and information technology and its applications by—
 
@@ -221,43 +221,43 @@ The purposes of this chapter are to help ensure the continued leadership of the 
 
 **(4)** promoting the rapid adoption of open network standards.
 
-(Pub. L. 102–194, § 3, Dec. 9, 1991, 105 Stat. 1594; Pub. L. 105–305, § 3(b), Oct. 28, 1998, 112 Stat. 2920; Pub. L. 114–329, title I, § 105(c), Jan. 6, 2017, 130 Stat. 2976.)
+(Pub. L. 102–194, § 3, Dec. 9, 1991, 105 Stat. 1594; Pub. L. 105–305, § 3(b), Oct. 28, 1998, 112 Stat. 2920; Pub. L. 114–329, title I, § 105(c), Jan. 6, 2017, 130 Stat. 2976.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Pub. L. 114–329, § 105(c)(1), substituted “networking and information technology” for “high-performance computing” in introductory provisions.
+2017—Pub. L. 114–329, § 105(c)(1), substituted “networking and information technology” for “high-performance computing” in introductory provisions.
 
-Par. (1). Pub. L. 114–329, § 105(c)(2)(A), substituted “supporting Federal research, development, and application of networking and information technology” for “expanding Federal support for research, development, and application of high-performance computing” in introductory provisions.
+Par. (1). Pub. L. 114–329, § 105(c)(2)(A), substituted “supporting Federal research, development, and application of networking and information technology” for “expanding Federal support for research, development, and application of high-performance computing” in introductory provisions.
 
-Par. (1)(A). Pub. L. 114–329, § 105(c)(2)(B), substituted “networking and information technology” for “high-performance computing” in two places.
+Par. (1)(A). Pub. L. 114–329, § 105(c)(2)(B), substituted “networking and information technology” for “high-performance computing” in two places.
 
-Par. (1)(C). Pub. L. 114–329, § 105(c)(2)(C), (D), added subpar. (C) and struck out former subpar. (C) which read as follows: “stimulate research on software technology;”.
+Par. (1)(C). Pub. L. 114–329, § 105(c)(2)(C), (D), added subpar. (C) and struck out former subpar. (C) which read as follows: “stimulate research on software technology;”.
 
-Par. (1)(D). Pub. L. 114–329, § 105(c)(2)(C), (E), (F), redesignated subpar. (E) as (D), inserted “high-end” after “the development of”, and struck out former subpar. (D) which read as follows: “promote the more rapid development and wider distribution of computing software tools and applications software;”.
+Par. (1)(D). Pub. L. 114–329, § 105(c)(2)(C), (E), (F), redesignated subpar. (E) as (D), inserted “high-end” after “the development of”, and struck out former subpar. (D) which read as follows: “promote the more rapid development and wider distribution of computing software tools and applications software;”.
 
-Par. (1)(E), (F). Pub. L. 114–329, § 105(c)(2)(E), (G), redesignated subpars. (F) and (G) as (E) and (F), respectively, and substituted “networking and information technology” for “high-performance computing”. Former subpar. (E) redesignated (D).
+Par. (1)(E), (F). Pub. L. 114–329, § 105(c)(2)(E), (G), redesignated subpars. (F) and (G) as (E) and (F), respectively, and substituted “networking and information technology” for “high-performance computing”. Former subpar. (E) redesignated (D).
 
-Par. (1)(G), (H). Pub. L. 114–329, § 105(c)(2)(E), (H), redesignated subpar. (H) as (G) and substituted “high-end” for “high-performance”. Former subpar. (G) redesignated (F).
+Par. (1)(G), (H). Pub. L. 114–329, § 105(c)(2)(E), (H), redesignated subpar. (H) as (G) and substituted “high-end” for “high-performance”. Former subpar. (G) redesignated (F).
 
-Par. (2). Pub. L. 114–329, § 105(c)(3), substituted “networking and information technology and” for “high-performance computing and” and “networking and information technology” for “high-performance computing network”.
+Par. (2). Pub. L. 114–329, § 105(c)(3), substituted “networking and information technology and” for “high-performance computing and” and “networking and information technology” for “high-performance computing network”.
 
-1998—Pub. L. 105–305, § 3(b)(1), substituted “Purposes” for “Purpose” as section catchline.
+1998—Pub. L. 105–305, § 3(b)(1), substituted “Purposes” for “Purpose” as section catchline.
 
-Pub. L. 105–305, § 3(b)(2), substituted “purposes of this chapter are” for “purpose of this chapter is” in introductory provisions.
+Pub. L. 105–305, § 3(b)(2), substituted “purposes of this chapter are” for “purpose of this chapter is” in introductory provisions.
 
-Par. (1)(A). Pub. L. 105–305, § 3(b)(3), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “establish a high-capacity and high-speed National Research and Education Network;”.
+Par. (1)(A). Pub. L. 105–305, § 3(b)(3), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “establish a high-capacity and high-speed National Research and Education Network;”.
 
-Par. (1)(B). Pub. L. 105–305, § 3(b)(3), (4), redesignated subpar. (C) as (B) and substituted “Internet” for “Network”. Former subpar. (B) redesignated (A).
+Par. (1)(B). Pub. L. 105–305, § 3(b)(3), (4), redesignated subpar. (C) as (B) and substituted “Internet” for “Network”. Former subpar. (B) redesignated (A).
 
-Par. (1)(C) to (I). Pub. L. 105–305, § 3(b)(3), (5), redesignated subpars. (D) to (I) as (C) to (H), respectively, and struck out “and” at end of par. (H).
+Par. (1)(C) to (I). Pub. L. 105–305, § 3(b)(3), (5), redesignated subpars. (D) to (I) as (C) to (H), respectively, and struck out “and” at end of par. (H).
 
-Par. (2). Pub. L. 105–305, § 3(b)(6), substituted “network research and development programs;” for “efforts.”
+Par. (2). Pub. L. 105–305, § 3(b)(6), substituted “network research and development programs;” for “efforts.”
 
-Pars. (3), (4). Pub. L. 105–305, § 3(b)(7), added pars. (3) and (4).
+Pars. (3), (4). Pub. L. 105–305, § 3(b)(7), added pars. (3) and (4).
 
-## § 5503. Definitions
+## § 5503. Definitions
 
 As used in this chapter, the term—
 
@@ -279,33 +279,33 @@ As used in this chapter, the term—
 
 **(9)** “Program Component Areas” means the major subject areas under which related individual projects and activities carried out under the Program are grouped.
 
-(Pub. L. 102–194, § 4, Dec. 9, 1991, 105 Stat. 1595; Pub. L. 105–305, § 7(b), Oct. 28, 1998, 112 Stat. 2924; Pub. L. 110–69, title VII, § 7024(a)(2), Aug. 9, 2007, 121 Stat. 689; Pub. L. 114–329, title I, § 105(d), Jan. 6, 2017, 130 Stat. 2977.)
+(Pub. L. 102–194, § 4, Dec. 9, 1991, 105 Stat. 1595; Pub. L. 105–305, § 7(b), Oct. 28, 1998, 112 Stat. 2924; Pub. L. 110–69, title VII, § 7024(a)(2), Aug. 9, 2007, 121 Stat. 689; Pub. L. 114–329, title I, § 105(d), Jan. 6, 2017, 130 Stat. 2977.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Pars. (1), (2). Pub. L. 114–329, § 105(d)(2), (3), added par. (1) and redesignated former par. (1) as (2). Former par. (2) redesignated (3).
+2017—Pars. (1), (2). Pub. L. 114–329, § 105(d)(2), (3), added par. (1) and redesignated former par. (1) as (2). Former par. (2) redesignated (3).
 
-Par. (3). Pub. L. 114–329, § 105(d)(1), (2), (4), redesignated par. (2) as (3), substituted “networking and information technology” for “high-performance computing”, and struck out former par. (3) which read as follows: “ ‘high-performance computing’ means advanced computing, communications, and information technologies, including supercomputer systems, high-capacity and high-speed networks, special purpose and experimental systems, applications and systems software, and the management of large data sets;”.
+Par. (3). Pub. L. 114–329, § 105(d)(1), (2), (4), redesignated par. (2) as (3), substituted “networking and information technology” for “high-performance computing”, and struck out former par. (3) which read as follows: “ ‘high-performance computing’ means advanced computing, communications, and information technologies, including supercomputer systems, high-capacity and high-speed networks, special purpose and experimental systems, applications and systems software, and the management of large data sets;”.
 
-Par. (4). Pub. L. 114–329, § 105(d)(5), added par. (4). Former par. (4) redesignated (5).
+Par. (4). Pub. L. 114–329, § 105(d)(5), added par. (4). Former par. (4) redesignated (5).
 
-Par. (5). Pub. L. 114–329, § 105(d)(1), (2), redesignated par. (4) as (5) and struck out former par. (5) which read as follows: “ ‘Network’ means a computer network referred to as the National Research and Education Network established under section 5512 of this title;”.
+Par. (5). Pub. L. 114–329, § 105(d)(1), (2), redesignated par. (4) as (5) and struck out former par. (5) which read as follows: “ ‘Network’ means a computer network referred to as the National Research and Education Network established under section 5512 of this title;”.
 
-Pars. (6), (7). Pub. L. 114–329, § 105(d)(6), added pars. (6) and (7). Former pars. (6) and (7) redesignated (8) and (9), respectively.
+Pars. (6), (7). Pub. L. 114–329, § 105(d)(6), added pars. (6) and (7). Former pars. (6) and (7) redesignated (8) and (9), respectively.
 
-Par. (8). Pub. L. 114–329, § 105(d)(2), (7), redesignated par. (6) as (8) and substituted “Networking and Information Technology Research and Development Program” for “National High-Performance Computing Program”.
+Par. (8). Pub. L. 114–329, § 105(d)(2), (7), redesignated par. (6) as (8) and substituted “Networking and Information Technology Research and Development Program” for “National High-Performance Computing Program”.
 
-Par. (9). Pub. L. 114–329, § 105(d)(2), redesignated par. (7) as (9).
+Par. (9). Pub. L. 114–329, § 105(d)(2), redesignated par. (7) as (9).
 
-2007—Par. (2). Pub. L. 110–69, § 7024(a)(2)(A), inserted “and multidisciplinary teams of researchers” after “high-performance computing resources”.
+2007—Par. (2). Pub. L. 110–69, § 7024(a)(2)(A), inserted “and multidisciplinary teams of researchers” after “high-performance computing resources”.
 
-Par. (3). Pub. L. 110–69, § 7024(a)(2)(B), struck out “scientific workstations,” after “technologies, including” and “(including vector supercomputers and large scale parallel systems)” after “supercomputer systems”, substituted “applications” for “and applications”, and inserted “, and the management of large data sets” after “systems software”.
+Par. (3). Pub. L. 110–69, § 7024(a)(2)(B), struck out “scientific workstations,” after “technologies, including” and “(including vector supercomputers and large scale parallel systems)” after “supercomputer systems”, substituted “applications” for “and applications”, and inserted “, and the management of large data sets” after “systems software”.
 
-Par. (4). Pub. L. 110–69, § 7024(a)(2)(C), struck out “packet switched” before “data networks”.
+Par. (4). Pub. L. 110–69, § 7024(a)(2)(C), struck out “packet switched” before “data networks”.
 
-Par. (7). Pub. L. 110–69, § 7024(a)(2)(D)–(F), added par. (7).
+Par. (7). Pub. L. 110–69, § 7024(a)(2)(D)–(F), added par. (7).
 
 1998—Pars. (4) to (6). Pub. L. 105–305 added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
@@ -315,9 +315,9 @@ Par. (7). Pub. L. 110–69, § 7024(a)(2)(D)–(F), added par. (7).
 
 **Codification**
 
-Pub. L. 114–329, title I, § 105(e), Jan. 6, 2017, 130 Stat. 2978, substituted “NETWORKING AND INFORMATION TECHNOLOGY” for “HIGH-PERFORMANCE COMPUTING” in subchapter heading.
+Pub. L. 114–329, title I, § 105(e), Jan. 6, 2017, 130 Stat. 2978, substituted “NETWORKING AND INFORMATION TECHNOLOGY” for “HIGH-PERFORMANCE COMPUTING” in subchapter heading.
 
-### § 5511. Networking and Information Technology Research and Development Program
+### § 5511. Networking and Information Technology Research and Development Program
 
 **(a) Networking and Information Technology research and development**
 
@@ -495,113 +495,113 @@ In developing, implementing, and updating strategic plans, the heads of the part
 
 **(2)** each update under subsection (e)(2).
 
-(Pub. L. 102–194, title I, § 101, Dec. 9, 1991, 105 Stat. 1595; Pub. L. 104–66, title I, § 1052(k), Dec. 21, 1995, 109 Stat. 719; Pub. L. 105–305, § 4, Oct. 28, 1998, 112 Stat. 2921; Pub. L. 110–69, title VII, § 7024(a)(1)(B)–(D), Aug. 9, 2007, 121 Stat. 686–689; Pub. L. 114–329, title I, § 105(f), Jan. 6, 2017, 130 Stat. 2978; Pub. L. 117–167, div. B, title III, § 10374(d)(1), Aug. 9, 2022, 136 Stat. 1572; Pub. L. 117–286, § 4(a)(75), Dec. 27, 2022, 136 Stat. 4314.)
+(Pub. L. 102–194, title I, § 101, Dec. 9, 1991, 105 Stat. 1595; Pub. L. 104–66, title I, § 1052(k), Dec. 21, 1995, 109 Stat. 719; Pub. L. 105–305, § 4, Oct. 28, 1998, 112 Stat. 2921; Pub. L. 110–69, title VII, § 7024(a)(1)(B)–(D), Aug. 9, 2007, 121 Stat. 686–689; Pub. L. 114–329, title I, § 105(f), Jan. 6, 2017, 130 Stat. 2978; Pub. L. 117–167, div. B, title III, § 10374(d)(1), Aug. 9, 2022, 136 Stat. 1572; Pub. L. 117–286, § 4(a)(75), Dec. 27, 2022, 136 Stat. 4314.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (a)(1)(D). Pub. L. 117–167, § 10374(d)(1)(A), realigned margins.
+2022—Subsec. (a)(1)(D). Pub. L. 117–167, § 10374(d)(1)(A), realigned margins.
 
-Subsec. (a)(1)(J) to (P). Pub. L. 117–167, § 10374(d)(1), added subpar. (J), redesignated former subpars. (J) to (O) as (K) to (P), respectively, and realigned margins.
+Subsec. (a)(1)(J) to (P). Pub. L. 117–167, § 10374(d)(1), added subpar. (J), redesignated former subpars. (J) to (O) as (K) to (P), respectively, and realigned margins.
 
 Subsec. (b)(3). Pub. L. 117–286 substituted “Section 1013 of title 5” for “Section 14 of the Federal Advisory Committee Act”.
 
-2017—Pub. L. 114–329, § 105(f)(1), substituted “Networking and Information Technology Research and Development Program” for “National High-Performance Computing Program” in section catchline.
+2017—Pub. L. 114–329, § 105(f)(1), substituted “Networking and Information Technology Research and Development Program” for “National High-Performance Computing Program” in section catchline.
 
-Subsec. (a). Pub. L. 114–329, § 105(f)(2)(A), substituted “Networking and Information Technology research and development” for “National High-Performance Computing Program” in heading.
+Subsec. (a). Pub. L. 114–329, § 105(f)(2)(A), substituted “Networking and Information Technology research and development” for “National High-Performance Computing Program” in heading.
 
-Subsec. (a)(1). Pub. L. 114–329, § 105(f)(2)(B)(i), substituted “Networking and Information Technology Research and Development Program” for “National High-Performance Computing Program” in introductory provisions.
+Subsec. (a)(1). Pub. L. 114–329, § 105(f)(2)(B)(i), substituted “Networking and Information Technology Research and Development Program” for “National High-Performance Computing Program” in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 114–329, § 105(f)(2)(B)(ii), substituted “networking and information technology” for “high-performance computing, including networking”.
+Subsec. (a)(1)(A). Pub. L. 114–329, § 105(f)(2)(B)(ii), substituted “networking and information technology” for “high-performance computing, including networking”.
 
-Subsec. (a)(1)(B). Pub. L. 114–329, § 105(f)(2)(B)(iii), substituted “high-end” for “high-performance”.
+Subsec. (a)(1)(B). Pub. L. 114–329, § 105(f)(2)(B)(iii), substituted “high-end” for “high-performance”.
 
-Subsec. (a)(1)(C). Pub. L. 114–329, § 105(f)(2)(B)(iv), substituted “high-end computing, distributed, and networking” for “high-performance computing and networking”.
+Subsec. (a)(1)(C). Pub. L. 114–329, § 105(f)(2)(B)(iv), substituted “high-end computing, distributed, and networking” for “high-performance computing and networking”.
 
-Subsec. (a)(1)(D). Pub. L. 114–329, § 105(f)(2)(B)(v), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “provide for widely dispersed efforts to increase software availability, productivity, capability, security, portability, and reliability;”.
+Subsec. (a)(1)(D). Pub. L. 114–329, § 105(f)(2)(B)(v), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “provide for widely dispersed efforts to increase software availability, productivity, capability, security, portability, and reliability;”.
 
-Subsec. (a)(1)(G). Pub. L. 114–329, § 105(f)(2)(B)(iii), substituted “high-end” for “high-performance”.
+Subsec. (a)(1)(G). Pub. L. 114–329, § 105(f)(2)(B)(iii), substituted “high-end” for “high-performance”.
 
-Subsec. (a)(1)(H). Pub. L. 114–329, § 105(f)(2)(B)(vi), inserted “support and guidance” after “provide” and struck out “and” at end.
+Subsec. (a)(1)(H). Pub. L. 114–329, § 105(f)(2)(B)(vi), inserted “support and guidance” after “provide” and struck out “and” at end.
 
-Subsec. (a)(1)(I). Pub. L. 114–329, § 105(f)(2)(B)(vii), substituted “improving the security, reliability, and resilience” for “improving the security” and semicolon for period at end.
+Subsec. (a)(1)(I). Pub. L. 114–329, § 105(f)(2)(B)(vii), substituted “improving the security, reliability, and resilience” for “improving the security” and semicolon for period at end.
 
-Subsec. (a)(1)(J) to (O). Pub. L. 114–329, § 105(f)(2)(B)(viii), added subpars. (J) to (O).
+Subsec. (a)(1)(J) to (O). Pub. L. 114–329, § 105(f)(2)(B)(viii), added subpars. (J) to (O).
 
-Subsec. (a)(2)(A). Pub. L. 114–329, § 105(f)(2)(C)(i), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “establish the goals and priorities for Federal high-performance computing research, development, networking, and other activities;”.
+Subsec. (a)(2)(A). Pub. L. 114–329, § 105(f)(2)(C)(i), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “establish the goals and priorities for Federal high-performance computing research, development, networking, and other activities;”.
 
-Subsec. (a)(2)(C). Pub. L. 114–329, § 105(f)(2)(C)(ii), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “provide for interagency coordination of Federal high-performance computing research, development, networking, and other activities undertaken pursuant to the Program;”.
+Subsec. (a)(2)(C). Pub. L. 114–329, § 105(f)(2)(C)(ii), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “provide for interagency coordination of Federal high-performance computing research, development, networking, and other activities undertaken pursuant to the Program;”.
 
-Subsec. (a)(2)(E). Pub. L. 114–329, § 105(f)(2)(C)(iii), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “develop and maintain a research, development, and deployment roadmap covering all States and regions for the provision of high-performance computing and networking systems under paragraph (1)(C); and”.
+Subsec. (a)(2)(E). Pub. L. 114–329, § 105(f)(2)(C)(iii), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “develop and maintain a research, development, and deployment roadmap covering all States and regions for the provision of high-performance computing and networking systems under paragraph (1)(C); and”.
 
-Subsec. (a)(2)(F). Pub. L. 114–329, § 105(f)(2)(C)(iv), substituted “high-end” for “high-performance”.
+Subsec. (a)(2)(F). Pub. L. 114–329, § 105(f)(2)(C)(iv), substituted “high-end” for “high-performance”.
 
-Subsec. (a)(3)(B). Pub. L. 114–329, § 105(f)(2)(D)(ii), added subpar. (B). Former subpar. (B) redesignated (C).
+Subsec. (a)(3)(B). Pub. L. 114–329, § 105(f)(2)(D)(ii), added subpar. (B). Former subpar. (B) redesignated (C).
 
-Subsec. (a)(3)(C). Pub. L. 114–329, § 105(f)(2)(D)(i), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
+Subsec. (a)(3)(C). Pub. L. 114–329, § 105(f)(2)(D)(i), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
 
-Subsec. (a)(3)(C)(i). Pub. L. 114–329, § 105(f)(2)(D)(iii)(I), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the Department of Agriculture;”.
+Subsec. (a)(3)(C)(i). Pub. L. 114–329, § 105(f)(2)(D)(iii)(I), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the Department of Agriculture;”.
 
-Subsec. (a)(3)(C)(vii). Pub. L. 114–329, § 105(f)(2)(D)(iii)(III), added cl. (vii). Former cl. (vii) redesignated (viii).
+Subsec. (a)(3)(C)(vii). Pub. L. 114–329, § 105(f)(2)(D)(iii)(III), added cl. (vii). Former cl. (vii) redesignated (viii).
 
-Subsec. (a)(3)(C)(viii). Pub. L. 114–329, § 105(f)(2)(D)(iii)(II), (IV), redesignated cl. (vii) as (viii) and amended it generally. Prior to amendment, cl. (viii) read as follows: “the Department of the Interior;”. Former cl. (viii) redesignated (ix).
+Subsec. (a)(3)(C)(viii). Pub. L. 114–329, § 105(f)(2)(D)(iii)(II), (IV), redesignated cl. (vii) as (viii) and amended it generally. Prior to amendment, cl. (viii) read as follows: “the Department of the Interior;”. Former cl. (viii) redesignated (ix).
 
-Subsec. (a)(3)(C)(ix) to (xii). Pub. L. 114–329, § 105(f)(2)(D)(iii)(II), redesignated cls. (viii) to (xi) as (ix) to (xii), respectively.
+Subsec. (a)(3)(C)(ix) to (xii). Pub. L. 114–329, § 105(f)(2)(D)(iii)(II), redesignated cls. (viii) to (xi) as (ix) to (xii), respectively.
 
-Subsec. (a)(3)(D). Pub. L. 114–329, § 105(f)(2)(D)(i), (iv), redesignated subpar. (C) as (D) and substituted “is submitted, the levels for the previous fiscal year,” for “is submitted,” and “each Program Component Area and research area supported in accordance with section 5512 of this title;” for “each Program Component Area;”. Former subpar. (D) redesignated (E).
+Subsec. (a)(3)(D). Pub. L. 114–329, § 105(f)(2)(D)(i), (iv), redesignated subpar. (C) as (D) and substituted “is submitted, the levels for the previous fiscal year,” for “is submitted,” and “each Program Component Area and research area supported in accordance with section 5512 of this title;” for “each Program Component Area;”. Former subpar. (D) redesignated (E).
 
-Subsec. (a)(3)(E). Pub. L. 114–329, § 105(f)(2)(D)(i), (v), redesignated subpar. (D) as (E) and amended it generally. Prior to amendment, subpar. (E) read as follows: “describe the levels of Federal funding for each agency and department participating in the Program, and for each Program Component Area, for the fiscal year during which such report is submitted, and the levels proposed for the fiscal year with respect to which the budget submission applies; and”. Former subpar. (E) redesignated (G).
+Subsec. (a)(3)(E). Pub. L. 114–329, § 105(f)(2)(D)(i), (v), redesignated subpar. (D) as (E) and amended it generally. Prior to amendment, subpar. (E) read as follows: “describe the levels of Federal funding for each agency and department participating in the Program, and for each Program Component Area, for the fiscal year during which such report is submitted, and the levels proposed for the fiscal year with respect to which the budget submission applies; and”. Former subpar. (E) redesignated (G).
 
-Subsec. (a)(3)(F). Pub. L. 114–329, § 105(f)(2)(D)(vi), added subpar. (F).
+Subsec. (a)(3)(F). Pub. L. 114–329, § 105(f)(2)(D)(vi), added subpar. (F).
 
-Subsec. (a)(3)(G). Pub. L. 114–329, § 105(f)(2)(D)(i), redesignated subpar. (E) as (G).
+Subsec. (a)(3)(G). Pub. L. 114–329, § 105(f)(2)(D)(i), redesignated subpar. (E) as (G).
 
-Subsec. (b)(1). Pub. L. 114–329, § 105(f)(3)(A), in introductory provisions, substituted “networking and information technology” for “high-performance computing” in two places and inserted “Each chair of the advisory committee shall meet the qualifications of committee membership and may be a member of the President’s Council of Advisors on Science and Technology.” before “The recommendations”.
+Subsec. (b)(1). Pub. L. 114–329, § 105(f)(3)(A), in introductory provisions, substituted “networking and information technology” for “high-performance computing” in two places and inserted “Each chair of the advisory committee shall meet the qualifications of committee membership and may be a member of the President’s Council of Advisors on Science and Technology.” before “The recommendations”.
 
-Subsec. (b)(1)(D). Pub. L. 114–329, § 105(f)(3)(B), substituted “networking and information technology” for “high-performance computing, networking technology, and related software”.
+Subsec. (b)(1)(D). Pub. L. 114–329, § 105(f)(3)(B), substituted “networking and information technology” for “high-performance computing, networking technology, and related software”.
 
-Subsec. (b)(2). Pub. L. 114–329, § 105(f)(3)(C), substituted “3 fiscal years” for “2 fiscal years” and “Committee on Science, Space, and Technology” for “Committee on Science and Technology” and struck out at end “The first report shall be due within 1 year after August 9, 2007.”
+Subsec. (b)(2). Pub. L. 114–329, § 105(f)(3)(C), substituted “3 fiscal years” for “2 fiscal years” and “Committee on Science, Space, and Technology” for “Committee on Science and Technology” and struck out at end “The first report shall be due within 1 year after August 9, 2007.”
 
-Subsec. (c)(1)(A). Pub. L. 114–329, § 105(f)(4), substituted “networking and information technology” for “high-performance computing”.
+Subsec. (c)(1)(A). Pub. L. 114–329, § 105(f)(4), substituted “networking and information technology” for “high-performance computing”.
 
-Subsecs. (d) to (f). Pub. L. 114–329, § 105(f)(5), added subsecs. (d) to (f).
+Subsecs. (d) to (f). Pub. L. 114–329, § 105(f)(5), added subsecs. (d) to (f).
 
-2007—Subsec. (a)(1)(A) to (I). Pub. L. 110–69, § 7024(a)(1)(B)(i), added subpars. (A) to (I) and struck out former subpars. (A) and (B) which read as follows:
+2007—Subsec. (a)(1)(A) to (I). Pub. L. 110–69, § 7024(a)(1)(B)(i), added subpars. (A) to (I) and struck out former subpars. (A) and (B) which read as follows:
 
 “(A) establish the goals and priorities for Federal high-performance computing research, development, networking, and other activities; and
 
 “(B) provide for interagency coordination of Federal high-performance computing research, development, networking, and other activities undertaken pursuant to the Program.”
 
-Subsec. (a)(2). Pub. L. 110–69, § 7024(a)(1)(B)(ii), redesignated par. (3) as (2) and struck out former par. (2) which provided additional requirements for the National High-Performance Computing Program.
+Subsec. (a)(2). Pub. L. 110–69, § 7024(a)(1)(B)(ii), redesignated par. (3) as (2) and struck out former par. (2) which provided additional requirements for the National High-Performance Computing Program.
 
-Subsec. (a)(2)(A) to (F). Pub. L. 110–69, § 7024(a)(1)(B)(iii), added subpars. (A) to (C) and (E), redesignated former subpars. (A) and (C) as (D) and (F), respectively, and struck out former subpar. (B) which read as follows: “provide for interagency coordination of the Program; and”.
+Subsec. (a)(2)(A) to (F). Pub. L. 110–69, § 7024(a)(1)(B)(iii), added subpars. (A) to (C) and (E), redesignated former subpars. (A) and (C) as (D) and (F), respectively, and struck out former subpar. (B) which read as follows: “provide for interagency coordination of the Program; and”.
 
-Subsec. (a)(3). Pub. L. 110–69, § 7024(a)(1)(B)(iv)(I), substituted “paragraph (2)(D)” for “paragraph (3)(A)” in introductory provisions.
+Subsec. (a)(3). Pub. L. 110–69, § 7024(a)(1)(B)(iv)(I), substituted “paragraph (2)(D)” for “paragraph (3)(A)” in introductory provisions.
 
-Pub. L. 110–69, § 7024(a)(1)(B)(ii), redesignated par. (4) as (3). Former par. (3) redesignated (2).
+Pub. L. 110–69, § 7024(a)(1)(B)(ii), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
-Subsec. (a)(3)(A). Pub. L. 110–69, § 7024(a)(1)(B)(iv)(II), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “include a detailed description of the goals and priorities established by the President for the Program;”.
+Subsec. (a)(3)(A). Pub. L. 110–69, § 7024(a)(1)(B)(iv)(II), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “include a detailed description of the goals and priorities established by the President for the Program;”.
 
-Subsec. (a)(3)(C). Pub. L. 110–69, § 7024(a)(1)(B)(iv)(III), substituted “each Program Component Area” for “specific activities, including education, research, hardware and software development, and support for the establishment of the Network”.
+Subsec. (a)(3)(C). Pub. L. 110–69, § 7024(a)(1)(B)(iv)(III), substituted “each Program Component Area” for “specific activities, including education, research, hardware and software development, and support for the establishment of the Network”.
 
-Subsec. (a)(3)(D). Pub. L. 110–69, § 7024(a)(1)(B)(iv)(IV), (V), inserted “, and for each Program Component Area,” after “participating in the Program” and “and” after “applies;”.
+Subsec. (a)(3)(D). Pub. L. 110–69, § 7024(a)(1)(B)(iv)(IV), (V), inserted “, and for each Program Component Area,” after “participating in the Program” and “and” after “applies;”.
 
-Subsec. (a)(3)(E), (F). Pub. L. 110–69, § 7024(a)(1)(B)(iv)(VI), (VII), redesignated subpar. (F) as (E), inserted “and the extent to which the Program incorporates the recommendations of the advisory committee established under subsection (b)” after “for the Program”, and struck out former subpar. (E) which read as follows: “include the report of the Secretary of Energy required by section 5523(d) of this title; and”.
+Subsec. (a)(3)(E), (F). Pub. L. 110–69, § 7024(a)(1)(B)(iv)(VI), (VII), redesignated subpar. (F) as (E), inserted “and the extent to which the Program incorporates the recommendations of the advisory committee established under subsection (b)” after “for the Program”, and struck out former subpar. (E) which read as follows: “include the report of the Secretary of Energy required by section 5523(d) of this title; and”.
 
-Subsec. (b). Pub. L. 110–69, § 7024(a)(1)(C), added subsec. (b) and struck out heading and text of former subsec. (b). Text consisted of pars. (1) to (5) which contained provisions similar to those now contained in par. (1).
+Subsec. (b). Pub. L. 110–69, § 7024(a)(1)(C), added subsec. (b) and struck out heading and text of former subsec. (b). Text consisted of pars. (1) to (5) which contained provisions similar to those now contained in par. (1).
 
-Subsec. (c)(1)(A). Pub. L. 110–69, § 7024(a)(1)(D)(i), substituted “Program Component Areas or” for “Program or”.
+Subsec. (c)(1)(A). Pub. L. 110–69, § 7024(a)(1)(D)(i), substituted “Program Component Areas or” for “Program or”.
 
-Subsec. (c)(2). Pub. L. 110–69, § 7024(a)(1)(D)(ii), substituted “subsection (a)(2)(D)” for “subsection (a)(3)(A)”.
+Subsec. (c)(2). Pub. L. 110–69, § 7024(a)(1)(D)(ii), substituted “subsection (a)(2)(D)” for “subsection (a)(3)(A)”.
 
-1998—Subsec. (a)(2)(A), (B). Pub. L. 105–305, § 4(a), amended subpars. (A) and (B) generally. Prior to amendment, subpars. read as follows:
+1998—Subsec. (a)(2)(A), (B). Pub. L. 105–305, § 4(a), amended subpars. (A) and (B) generally. Prior to amendment, subpars. read as follows:
 
 “(A) provide for the establishment of policies for management and access to the Network;
 
 “(B) provide for oversight of the operation and evolution of the Network;”.
 
-Subsec. (b). Pub. L. 105–305, § 4(b), struck out “High-performance computing” before “advisory committee” in heading.
+Subsec. (b). Pub. L. 105–305, § 4(b), struck out “High-performance computing” before “advisory committee” in heading.
 
 1995—Subsec. (a)(4)(D) to (F). Pub. L. 104–66 struck out “and” at end of subpar. (D), added subpar. (E), and redesignated former subpar. (E) as (F).
 
@@ -653,7 +653,7 @@ Sec. 4. *General*. (a) Notwithstanding any other Executive order, the functions 
 
 (b) The Committee shall terminate June 1, 2005, unless extended by the President prior to such date.
 
-### § 5512. Grand Challenges in areas of national importance
+### § 5512. Grand Challenges in areas of national importance
 
 **(a) In general**
 
@@ -675,21 +675,21 @@ The Program shall encourage the participating agencies to support foundational, 
 
 In selecting applications for support, the agencies may give special consideration to projects that include cost sharing from non-Federal sources.
 
-(Pub. L. 102–194, title I, § 102, as added Pub. L. 114–329, title I, § 105(i), Jan. 6, 2017, 130 Stat. 2982.)
+(Pub. L. 102–194, title I, § 102, as added Pub. L. 114–329, title I, § 105(i), Jan. 6, 2017, 130 Stat. 2982.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5512, Pub. L. 102–194, title I, § 102, Dec. 9, 1991, 105 Stat. 1598, related to the National Research and Education Network, prior to repeal by Pub. L. 114–329, title I, § 105(g), Jan. 6, 2017, 130 Stat. 2982.
+A prior section 5512, Pub. L. 102–194, title I, § 102, Dec. 9, 1991, 105 Stat. 1598, related to the National Research and Education Network, prior to repeal by Pub. L. 114–329, title I, § 105(g), Jan. 6, 2017, 130 Stat. 2982.
 
-### § 5513. Repealed. Pub. L. 114–329, title I, § 105(h), Jan. 6, 2017, 130 Stat. 2982
+### § 5513. Repealed. Pub. L. 114–329, title I, § 105(h), Jan. 6, 2017, 130 Stat. 2982
 
-Section, Pub. L. 102–194, title I, § 103, as added Pub. L. 105–305, § 5, Oct. 28, 1998, 112 Stat. 2921; amended Pub. L. 106–65, div. A, title X, § 1067(20), Oct. 5, 1999, 113 Stat. 775, related to the Next Generation Internet program.
+Section, Pub. L. 102–194, title I, § 103, as added Pub. L. 105–305, § 5, Oct. 28, 1998, 112 Stat. 2921; amended Pub. L. 106–65, div. A, title X, § 1067(20), Oct. 5, 1999, 113 Stat. 775, related to the Next Generation Internet program.
 
 ## SUBCHAPTER II—AGENCY ACTIVITIES
 
-### § 5521. National Science Foundation activities
+### § 5521. National Science Foundation activities
 
 As part of the Program described in subchapter I—
 
@@ -697,29 +697,29 @@ As part of the Program described in subchapter I—
 
 **(2)** the National Science Foundation shall use its existing programs, in collaboration with other agencies, as appropriate, to improve the teaching and learning of networking and information technology at all levels of education and to increase participation in networking and information technology fields, including by individuals identified in sections 1885a and 1885b of title 42.
 
-(Pub. L. 102–194, title II, § 201, Dec. 9, 1991, 105 Stat. 1599; Pub. L. 114–329, title I, § 105(j), Jan. 6, 2017, 130 Stat. 2983.)
+(Pub. L. 102–194, title II, § 201, Dec. 9, 1991, 105 Stat. 1599; Pub. L. 114–329, title I, § 105(j), Jan. 6, 2017, 130 Stat. 2983.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Pub. L. 114–329, § 105(j)(1)(A), (2), struck out subsec. (a) designation and heading “General responsibilities” and struck out subsec. (b) which authorized appropriations for fiscal years 1992 to 1996.
+2017—Pub. L. 114–329, § 105(j)(1)(A), (2), struck out subsec. (a) designation and heading “General responsibilities” and struck out subsec. (b) which authorized appropriations for fiscal years 1992 to 1996.
 
-Par. (1). Pub. L. 114–329, § 105(j)(1)(B), inserted “high-end” after “National Science Foundation shall provide” and substituted “networking and information technology; and” for “high-performance computing and advanced high-speed computer networking;”.
+Par. (1). Pub. L. 114–329, § 105(j)(1)(B), inserted “high-end” after “National Science Foundation shall provide” and substituted “networking and information technology; and” for “high-performance computing and advanced high-speed computer networking;”.
 
-Par. (2). Pub. L. 114–329, § 105(j)(1)(C), (D), added par. (2) and struck out former par. (2) which read as follows: “to the extent that colleges, universities, and libraries cannot connect to the Network with the assistance of the private sector, the National Science Foundation shall have primary responsibility for assisting colleges, universities, and libraries to connect to the Network;”.
+Par. (2). Pub. L. 114–329, § 105(j)(1)(C), (D), added par. (2) and struck out former par. (2) which read as follows: “to the extent that colleges, universities, and libraries cannot connect to the Network with the assistance of the private sector, the National Science Foundation shall have primary responsibility for assisting colleges, universities, and libraries to connect to the Network;”.
 
-Pars. (3), (4). Pub. L. 114–329, § 105(j)(1)(C), struck out pars. (3) and (4) which read as follows:
+Pars. (3), (4). Pub. L. 114–329, § 105(j)(1)(C), struck out pars. (3) and (4) which read as follows:
 
 “(3) the National Science Foundation shall serve as the primary source of information on access to and use of the Network; and
 
 “(4) the National Science Foundation shall upgrade the National Science Foundation funded network, assist regional networks to upgrade their capabilities, and provide other Federal departments and agencies the opportunity to connect to the National Science Foundation funded network.”
 
-### § 5522. National Aeronautics and Space Administration activities
+### § 5522. National Aeronautics and Space Administration activities
 
 As part of the Program described in subchapter I, the National Aeronautics and Space Administration shall conduct basic and applied research in networking and information technology, particularly in the field of computational science, with emphasis on aerospace sciences, earth and space sciences, and remote exploration and experimentation.
 
-(Pub. L. 102–194, title II, § 202, Dec. 9, 1991, 105 Stat. 1600; Pub. L. 114–329, title I, § 105(k), Jan. 6, 2017, 130 Stat. 2983.)
+(Pub. L. 102–194, title II, § 202, Dec. 9, 1991, 105 Stat. 1600; Pub. L. 114–329, title I, § 105(k), Jan. 6, 2017, 130 Stat. 2983.)
 
 **Editorial Notes**
 
@@ -727,7 +727,7 @@ As part of the Program described in subchapter I, the National Aeronautics and S
 
 2017—Pub. L. 114–329 struck out subsec. (a) designation and heading “General responsibilities”, substituted “networking and information technology” for “high-performance computing”, and struck out subsec. (b) which authorized appropriations for fiscal years 1992 to 1996.
 
-### § 5523. Department of Energy activities
+### § 5523. Department of Energy activities
 
 As part of the Program described in subchapter I, the Secretary of Energy shall—
 
@@ -739,23 +739,23 @@ As part of the Program described in subchapter I, the Secretary of Energy shall�
 
 **(B)** support for advanced software and applications development for science and engineering disciplines related to energy applications.
 
-(Pub. L. 102–194, title II, § 203, Dec. 9, 1991, 105 Stat. 1600; Pub. L. 104–66, title I, § 1052(j), Dec. 21, 1995, 109 Stat. 719; Pub. L. 109–58, title IX, § 976(b), Aug. 8, 2005, 119 Stat. 903; Pub. L. 114–329, title I, § 105(*l*), Jan. 6, 2017, 130 Stat. 2984.)
+(Pub. L. 102–194, title II, § 203, Dec. 9, 1991, 105 Stat. 1600; Pub. L. 104–66, title I, § 1052(j), Dec. 21, 1995, 109 Stat. 719; Pub. L. 109–58, title IX, § 976(b), Aug. 8, 2005, 119 Stat. 903; Pub. L. 114–329, title I, § 105(*l*), Jan. 6, 2017, 130 Stat. 2984.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Pub. L. 114–329, § 105(*l*)(1), (4), struck out subsec. (a) designation and heading “General responsibilities” and struck out subsec. (b) which authorized to be appropriated to the Secretary of Energy such sums as necessary to carry out this section.
+2017—Pub. L. 114–329, § 105(*l*)(1), (4), struck out subsec. (a) designation and heading “General responsibilities” and struck out subsec. (b) which authorized to be appropriated to the Secretary of Energy such sums as necessary to carry out this section.
 
-Par. (1). Pub. L. 114–329, § 105(*l*)(2), substituted “networking and information technology” for “high-performance computing and networking”.
+Par. (1). Pub. L. 114–329, § 105(*l*)(2), substituted “networking and information technology” for “high-performance computing and networking”.
 
-Par. (2)(A). Pub. L. 114–329, § 105(*l*)(3), substituted “high-end” for “high-performance”.
+Par. (2)(A). Pub. L. 114–329, § 105(*l*)(3), substituted “high-end” for “high-performance”.
 
 2005—Pub. L. 109–58 reenacted section catchline without change and amended text generally, substituting provisions relating to general responsibilities and authorization of appropriations for provisions relating to general responsibilities, establishment of High-Performance Computing Research and Development Collaborative Consortia, transfer of technology to private sector and others, reports on activities, and authorization of appropriations.
 
 1995—Subsec. (d). Pub. L. 104–66 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “Within one year after December 9, 1991, and every year thereafter, the Secretary of Energy shall transmit to the Congress a report on activities taken to carry out this chapter.”
 
-### § 5524. Department of Commerce activities
+### § 5524. Department of Commerce activities
 
 **(a) General responsibilities** As part of the Program described in subchapter I—
 
@@ -773,31 +773,31 @@ Par. (2)(A). Pub. L. 114–329, § 105(*l*)(3), substituted “high-end” for
 
 The National Institute of Standards and Technology shall be responsible for developing and proposing standards and guidelines needed to assure the cost-effective security and privacy of Federal agency information and information systems.
 
-(Pub. L. 102–194, title II, § 204, Dec. 9, 1991, 105 Stat. 1601; Pub. L. 114–329, title I, § 105(m), Jan. 6, 2017, 130 Stat. 2984.)
+(Pub. L. 102–194, title II, § 204, Dec. 9, 1991, 105 Stat. 1601; Pub. L. 114–329, title I, § 105(m), Jan. 6, 2017, 130 Stat. 2984.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Subsec. (a)(1)(A). Pub. L. 114–329, § 105(m)(1)(A), substituted “networking and information technology systems and capabilities” for “high-performance computing systems and networks”.
+2017—Subsec. (a)(1)(A). Pub. L. 114–329, § 105(m)(1)(A), substituted “networking and information technology systems and capabilities” for “high-performance computing systems and networks”.
 
-Subsec. (a)(1)(B). Pub. L. 114–329, § 105(m)(1)(B), substituted “interoperability and usability of networking and information technology systems” for “interoperability of high-performance computing systems in networks and for common user interfaces to systems”.
+Subsec. (a)(1)(B). Pub. L. 114–329, § 105(m)(1)(B), substituted “interoperability and usability of networking and information technology systems” for “interoperability of high-performance computing systems in networks and for common user interfaces to systems”.
 
-Subsec. (a)(1)(C). Pub. L. 114–329, § 105(m)(1)(C), substituted “networking and information technology” for “high-performance computing”.
+Subsec. (a)(1)(C). Pub. L. 114–329, § 105(m)(1)(C), substituted “networking and information technology” for “high-performance computing”.
 
-Subsec. (b). Pub. L. 114–329, § 105(m)(2), in heading, substituted “Networking and information technology” for “High-performance computing and network” and, in text, substituted “The National Institute” for “Pursuant to the Computer Security Act of 1987 (Public Law 100–235; 101 Stat. 1724), the National Institute” and “Federal agency information and information systems” for “sensitive information in Federal computer systems”.
+Subsec. (b). Pub. L. 114–329, § 105(m)(2), in heading, substituted “Networking and information technology” for “High-performance computing and network” and, in text, substituted “The National Institute” for “Pursuant to the Computer Security Act of 1987 (Public Law 100–235; 101 Stat. 1724), the National Institute” and “Federal agency information and information systems” for “sensitive information in Federal computer systems”.
 
-Subsecs. (c), (d). Pub. L. 114–329, § 105(m)(3), struck out subsecs. (c) and (d) which required a study of the impact of Federal procurement regulations and authorized appropriations for fiscal years 1992 to 1996.
+Subsecs. (c), (d). Pub. L. 114–329, § 105(m)(3), struck out subsecs. (c) and (d) which required a study of the impact of Federal procurement regulations and authorized appropriations for fiscal years 1992 to 1996.
 
-### § 5525. Repealed. Pub. L. 114–329, title I, § 105(n), Jan. 6, 2017, 130 Stat. 2984
+### § 5525. Repealed. Pub. L. 114–329, title I, § 105(n), Jan. 6, 2017, 130 Stat. 2984
 
-Section, Pub. L. 102–194, title II, § 205, Dec. 9, 1991, 105 Stat. 1602, described Environmental Protection Agency activities and authorized appropriations for fiscal years 1992 to 1996.
+Section, Pub. L. 102–194, title II, § 205, Dec. 9, 1991, 105 Stat. 1602, described Environmental Protection Agency activities and authorized appropriations for fiscal years 1992 to 1996.
 
-### § 5526. Repealed. Pub. L. 114–329, title I, § 105(*o*), Jan. 6, 2017, 130 Stat. 2984
+### § 5526. Repealed. Pub. L. 114–329, title I, § 105(*o*), Jan. 6, 2017, 130 Stat. 2984
 
-Section, Pub. L. 102–194, title II, § 206, Dec. 9, 1991, 105 Stat. 1602, described the role of the Department of Education and authorized appropriations for fiscal years 1992 to 1996.
+Section, Pub. L. 102–194, title II, § 206, Dec. 9, 1991, 105 Stat. 1602, described the role of the Department of Education and authorized appropriations for fiscal years 1992 to 1996.
 
-### § 5527. Miscellaneous provisions
+### § 5527. Miscellaneous provisions
 
 **(a) Nonapplicability** Except to the extent the appropriate Federal agency or department head determines, the provisions of this chapter shall not apply to—
 
@@ -809,23 +809,23 @@ Section, Pub. L. 102–194, title II, § 206, Dec. 9, 1991, 105 Stat. 1602, de
 
 In accordance with Federal contracting law, Federal agencies and departments participating in the Program may acquire prototype or early production models of new networking and information technology systems and subsystems to stimulate hardware and software development. Items of computing equipment acquired under this subsection shall be considered research computers for purposes of applicable acquisition regulations.
 
-(Pub. L. 102–194, title II, § 207, Dec. 9, 1991, 105 Stat. 1602; Pub. L. 114–329, title I, § 105(p), Jan. 6, 2017, 130 Stat. 2984.)
+(Pub. L. 102–194, title II, § 207, Dec. 9, 1991, 105 Stat. 1602; Pub. L. 114–329, title I, § 105(p), Jan. 6, 2017, 130 Stat. 2984.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Subsec. (a)(2). Pub. L. 114–329, § 105(p)(1), substituted “section 3552(b)(6)(A)(i) of title 44” for “paragraphs (1) through (5) of section 2315(a) of title 10”.
+2017—Subsec. (a)(2). Pub. L. 114–329, § 105(p)(1), substituted “section 3552(b)(6)(A)(i) of title 44” for “paragraphs (1) through (5) of section 2315(a) of title 10”.
 
-Subsec. (b). Pub. L. 114–329, § 105(p)(2), substituted “networking and information technology” for “high-performance computing”.
+Subsec. (b). Pub. L. 114–329, § 105(p)(2), substituted “networking and information technology” for “high-performance computing”.
 
-### § 5528. Repealed. Pub. L. 114–329, title I, § 105(q), Jan. 6, 2017, 130 Stat. 2984
+### § 5528. Repealed. Pub. L. 114–329, title I, § 105(q), Jan. 6, 2017, 130 Stat. 2984
 
-Section, Pub. L. 102–194, title II, § 208, Dec. 9, 1991, 105 Stat. 1603; Pub. L. 110–69, title III, § 3002(c)(6), Aug. 9, 2007, 121 Stat. 587, related to findings and annual reports for fostering United States competitiveness in high-performance computing and related activities.
+Section, Pub. L. 102–194, title II, § 208, Dec. 9, 1991, 105 Stat. 1603; Pub. L. 110–69, title III, § 3002(c)(6), Aug. 9, 2007, 121 Stat. 587, related to findings and annual reports for fostering United States competitiveness in high-performance computing and related activities.
 
 ## SUBCHAPTER III—DEPARTMENT OF ENERGY HIGH-END COMPUTING REVITALIZATION
 
-### § 5541. Definitions
+### § 5541. Definitions
 
 In this subchapter:
 
@@ -853,7 +853,7 @@ The term “institution of higher education” has the meaning given the term in
 
 The term “Secretary” means the Secretary of Energy.
 
-(Pub. L. 108–423, § 2, Nov. 30, 2004, 118 Stat. 2400; Pub. L. 115–246, title III, § 304(b)(2), formerly § 304(a)(2), Sept. 28, 2018, 132 Stat. 3145, renumbered § 304(b)(2), Pub. L. 117–167, div. B, title I, § 10104(a)(1), Aug. 9, 2022, 136 Stat. 1433.)
+(Pub. L. 108–423, § 2, Nov. 30, 2004, 118 Stat. 2400; Pub. L. 115–246, title III, § 304(b)(2), formerly § 304(a)(2), Sept. 28, 2018, 132 Stat. 3145, renumbered § 304(b)(2), Pub. L. 117–167, div. B, title I, § 10104(a)(1), Aug. 9, 2022, 136 Stat. 1433.)
 
 **Editorial Notes**
 
@@ -867,9 +867,9 @@ This section was enacted as part of the American Super Computing Leadership Act 
 
 **Amendments**
 
-2018—Pars. (1) to (5). Pub. L. 115–246, § 304(b)(2)(A), (B), formerly § 304(a)(2)(A), (B), as renumbered by Pub. L. 117–167, added pars. (1) and (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and struck out former par. (1) which defined “Center”. Former par. (5) redesignated (6).
+2018—Pars. (1) to (5). Pub. L. 115–246, § 304(b)(2)(A), (B), formerly § 304(a)(2)(A), (B), as renumbered by Pub. L. 117–167, added pars. (1) and (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and struck out former par. (1) which defined “Center”. Former par. (5) redesignated (6).
 
-Par. (6). Pub. L. 115–246, § 304(b)(2)(A), (C), formerly § 304(a)(2)(A), (C), as renumbered by Pub. L. 117–167, redesignated par. (5) as (6) and struck out “, acting through the Director of the Office of Science of the Department of Energy” before period at end.
+Par. (6). Pub. L. 115–246, § 304(b)(2)(A), (C), formerly § 304(a)(2)(A), (C), as renumbered by Pub. L. 117–167, redesignated par. (5) as (6) and struck out “, acting through the Director of the Office of Science of the Department of Energy” before period at end.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -877,7 +877,7 @@ Par. (6). Pub. L. 115–246, § 304(b)(2)(A), (C), formerly § 304(a)(2)(A),
 
 This subchapter known as the “American Super Computing Leadership Act of 2017”, see Short Title note set out under section 5501 of this title.
 
-### § 5542. Department of Energy high-end computing research and development program
+### § 5542. Department of Energy high-end computing research and development program
 
 **(a) In general** The Secretary shall—
 
@@ -965,7 +965,7 @@ The exascale architectures developed pursuant to partnerships established pursua
 
 At the time of the budget submission of the Department for each fiscal year, the Secretary, in consultation with the members of the partnerships established pursuant to paragraph (2), shall submit to Congress a report that describes funding for the Program as a whole by functional element of the Department and critical milestones.
 
-(Pub. L. 108–423, § 3, Nov. 30, 2004, 118 Stat. 2400; Pub. L. 115–246, title III, § 304(b)(3), formerly § 304(a)(3), Sept. 28, 2018, 132 Stat. 3145, renumbered § 304(b)(3), Pub. L. 117–167, div. B, title I, § 10104(a)(1), Aug. 9, 2022, 136 Stat. 1433.)
+(Pub. L. 108–423, § 3, Nov. 30, 2004, 118 Stat. 2400; Pub. L. 115–246, title III, § 304(b)(3), formerly § 304(a)(3), Sept. 28, 2018, 132 Stat. 3145, renumbered § 304(b)(3), Pub. L. 117–167, div. B, title I, § 10104(a)(1), Aug. 9, 2022, 136 Stat. 1433.)
 
 **Editorial Notes**
 
@@ -979,20 +979,20 @@ This section was enacted as part of the American Super Computing Leadership Act 
 
 **Amendments**
 
-2018—Subsec. (a)(1). Pub. L. 115–246, § 304(b)(3)(A), formerly § 304(a)(3)(A), as renumbered by Pub. L. 117–167, substituted “coordinated program across the Department” for “program”.
+2018—Subsec. (a)(1). Pub. L. 115–246, § 304(b)(3)(A), formerly § 304(a)(3)(A), as renumbered by Pub. L. 117–167, substituted “coordinated program across the Department” for “program”.
 
-Subsec. (b)(2). Pub. L. 115–246, § 304(b)(3)(B), formerly § 304(a)(3)(B), as renumbered by Pub. L. 117–167, struck out “, which may include vector, reconfigurable logic, streaming, processor-in-memory, and multithreading architectures” before semicolon at end.
+Subsec. (b)(2). Pub. L. 115–246, § 304(b)(3)(B), formerly § 304(a)(3)(B), as renumbered by Pub. L. 117–167, struck out “, which may include vector, reconfigurable logic, streaming, processor-in-memory, and multithreading architectures” before semicolon at end.
 
-Subsec. (d). Pub. L. 115–246, § 304(b)(3)(C), formerly § 304(a)(3)(C), as renumbered by Pub. L. 117–167, added subsec. (d) and struck out former subsec. (d) which related to the establishment of a High-End Software Development Center.
+Subsec. (d). Pub. L. 115–246, § 304(b)(3)(C), formerly § 304(a)(3)(C), as renumbered by Pub. L. 117–167, added subsec. (d) and struck out former subsec. (d) which related to the establishment of a High-End Software Development Center.
 
-### § 5543. Repealed. Pub. L. 114–329, title I, § 105(u), Jan. 6, 2017, 130 Stat. 2985
+### § 5543. Repealed. Pub. L. 114–329, title I, § 105(u), Jan. 6, 2017, 130 Stat. 2985
 
-Section, Pub. L. 108–423, § 4, Nov. 30, 2004, 118 Stat. 2402, authorized appropriations for fiscal years 2005 to 2007.
+Section, Pub. L. 108–423, § 4, Nov. 30, 2004, 118 Stat. 2402, authorized appropriations for fiscal years 2005 to 2007.
 
-### § 5544. Transferred
+### § 5544. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 116–260, div. Z, title IX, § 9008, Dec. 27, 2020, 134 Stat. 2600, which related to veterans’ health initiative, was transferred to section 9462 of this title.
+Section, Pub. L. 116–260, div. Z, title IX, § 9008, Dec. 27, 2020, 134 Stat. 2600, which related to veterans’ health initiative, was transferred to section 9462 of this title.

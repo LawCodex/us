@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 73—INTERNATIONAL RELIGIOUS FREEDOM
 
-## § 6401. Findings; policy
+## § 6401. Findings; policy
 
 **(a) Findings** Congress makes the following findings:
 
@@ -59,7 +59,7 @@ retrieved: 2026-10-11
 
 **(B)** are coordinated across and carried out by the entire range of Federal agencies.
 
-(Pub. L. 105–292, § 2, Oct. 27, 1998, 112 Stat. 2788; Pub. L. 113–154, § 2, Aug. 8, 2014, 128 Stat. 1827; Pub. L. 114–281, § 2(a), (b), Dec. 16, 2016, 130 Stat. 1426, 1427.)
+(Pub. L. 105–292, § 2, Oct. 27, 1998, 112 Stat. 2788; Pub. L. 113–154, § 2, Aug. 8, 2014, 128 Stat. 1827; Pub. L. 114–281, § 2(a), (b), Dec. 16, 2016, 130 Stat. 1426, 1427.)
 
 **Editorial Notes**
 
@@ -67,19 +67,19 @@ retrieved: 2026-10-11
 
 House Concurrent Resolution 102, referred to in subsec. (a)(7)(C), is H. Con. Res. 102, June 26, 1996, 110 Stat. 4483, which is not classified to the Code.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (b)(1)(B), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b)(1)(B), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The International Financial Institutions Act of 1977, referred to in subsec. (b)(1)(B), probably means the International Financial Institutions Act, Pub. L. 95–118, Oct. 3, 1977, 91 Stat. 1067, which enacted sections 262c, 262d, 262e to 262g–3, 262m to 262p–15, 262r to 262t, 282i, 284n, 285s, 285t, 286e–1f, and 290g–10 of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as notes under sections 262c and 282i of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 261 of this title and Tables.
 
 **Amendments**
 
-2016—Subsec. (a)(3). Pub. L. 114–281, § 2(a)(1), inserted “The freedom of thought, conscience, and religion is understood to protect theistic and non-theistic beliefs and the right not to profess or practice any religion.” before “Governments have the responsibility”.
+2016—Subsec. (a)(3). Pub. L. 114–281, § 2(a)(1), inserted “The freedom of thought, conscience, and religion is understood to protect theistic and non-theistic beliefs and the right not to profess or practice any religion.” before “Governments have the responsibility”.
 
-Subsec. (a)(4). Pub. L. 114–281, § 2(a)(2), inserted at end “A policy or practice of routinely denying applications for visas for religious workers in a country can be indicative of a poor state of religious freedom in that country.”
+Subsec. (a)(4). Pub. L. 114–281, § 2(a)(2), inserted at end “A policy or practice of routinely denying applications for visas for religious workers in a country can be indicative of a poor state of religious freedom in that country.”
 
-Subsec. (a)(6). Pub. L. 114–281, § 2(a)(3), inserted “and the specific targeting of non-theists, humanists, and atheists because of their beliefs” after “religious persecution” and “and in regions where non-state actors exercise significant political power and territorial control” before period at end.
+Subsec. (a)(6). Pub. L. 114–281, § 2(a)(3), inserted “and the specific targeting of non-theists, humanists, and atheists because of their beliefs” after “religious persecution” and “and in regions where non-state actors exercise significant political power and territorial control” before period at end.
 
-Subsec. (b). Pub. L. 114–281, § 2(b), designated existing provisions as par. (1) and inserted heading, substituted “The following shall be the policy of the United States:” for “It shall be the policy of the United States, as follows:”, redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, and added par. (2).
+Subsec. (b). Pub. L. 114–281, § 2(b), designated existing provisions as par. (1) and inserted heading, substituted “The following shall be the policy of the United States:” for “It shall be the policy of the United States, as follows:”, redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, and added par. (2).
 
 2014—Subsec. (a)(4). Pub. L. 113–154 inserted “desecration of cemeteries,” after “confiscations of property,”.
 
@@ -87,37 +87,37 @@ Subsec. (b). Pub. L. 114–281, § 2(b), designated existing provisions as par
 
 **Short Title of 2024 Amendment**
 
-Pub. L. 118–90, § 1, Sept. 30, 2024, 138 Stat. 1559, provided that: “This Act [amending sections 6435 and 6436 of this title] may be cited as the ‘United States Commission on International Religious Freedom Reauthorization Act of 2024’.”
+Pub. L. 118–90, § 1, Sept. 30, 2024, 138 Stat. 1559, provided that: “This Act [amending sections 6435 and 6436 of this title] may be cited as the ‘United States Commission on International Religious Freedom Reauthorization Act of 2024’.”
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–181, § 1, Sept. 30, 2022, 136 Stat. 2177, provided that: “This Act [amending sections 6435 and 6436 of this title] may be cited as the ‘United States Commission on International Religious Freedom Reauthorization Act of 2022’.”
+Pub. L. 117–181, § 1, Sept. 30, 2022, 136 Stat. 2177, provided that: “This Act [amending sections 6435 and 6436 of this title] may be cited as the ‘United States Commission on International Religious Freedom Reauthorization Act of 2022’.”
 
 **Short Title of 2019 Amendment**
 
-Pub. L. 116–94, div. J, title VIII, § 801, Dec. 20, 2019, 133 Stat. 3076, provided that: “This title [amending sections 6431 to 6432b, 6433a, and 6435 to 6436 of this title and section 1301 of Title 2, The Congress] may be cited as the ‘United States Commission on International Religious Freedom Reauthorization Act of 2019’.”
+Pub. L. 116–94, div. J, title VIII, § 801, Dec. 20, 2019, 133 Stat. 3076, provided that: “This title [amending sections 6431 to 6432b, 6433a, and 6435 to 6436 of this title and section 1301 of Title 2, The Congress] may be cited as the ‘United States Commission on International Religious Freedom Reauthorization Act of 2019’.”
 
-Pub. L. 115–434, § 1, Jan. 14, 2019, 132 Stat. 5526, provided that: “This Act [amending section 6412 of this title and enacting provisions set out as a note under section 6412 of this title] may be cited as the ‘Combating European Anti-Semitism Act of 2017’.”
+Pub. L. 115–434, § 1, Jan. 14, 2019, 132 Stat. 5526, provided that: “This Act [amending section 6412 of this title and enacting provisions set out as a note under section 6412 of this title] may be cited as the ‘Combating European Anti-Semitism Act of 2017’.”
 
 **Short Title of 2016 Amendment**
 
-Pub. L. 114–281, § 1(a), Dec. 16, 2016, 130 Stat. 1426, provided that: “This Act [enacting sections 6442a, 6473a, 6482, and 6483 of this title and amending this section and sections 4028, 6402, 6411, 6412, 6417, 6442, 6444, 6447, 6448, and 6474 of this title] may be cited as the ‘Frank R. Wolf International Religious Freedom Act’.”
+Pub. L. 114–281, § 1(a), Dec. 16, 2016, 130 Stat. 1426, provided that: “This Act [enacting sections 6442a, 6473a, 6482, and 6483 of this title and amending this section and sections 4028, 6402, 6411, 6412, 6417, 6442, 6444, 6447, 6448, and 6474 of this title] may be cited as the ‘Frank R. Wolf International Religious Freedom Act’.”
 
 **Short Title of 2015 Amendment**
 
-Pub. L. 114–71, § 1, Oct. 16, 2015, 129 Stat. 563, provided that: “This Act [enacting section 6433a of this title, amending sections 6435 and 6436 of this title, and enacting provisions set out as a note under section 6432 of this section] may be cited as the ‘United States Commission on International Religious Freedom Reauthorization Act of 2015’.”
+Pub. L. 114–71, § 1, Oct. 16, 2015, 129 Stat. 563, provided that: “This Act [enacting section 6433a of this title, amending sections 6435 and 6436 of this title, and enacting provisions set out as a note under section 6432 of this section] may be cited as the ‘United States Commission on International Religious Freedom Reauthorization Act of 2015’.”
 
 **Short Title of 2011 Amendment**
 
-Pub. L. 112–75, § 1, Dec. 23, 2011, 125 Stat. 1272, provided that: “This Act [amending sections 6431, 6432b, 6435, 6435a, and 6436 of this title and enacting provisions set out as a note under section 6432b of this title] may be cited as the ‘United States Commission on International Religious Freedom Reform and Reauthorization Act of 2011’.”
+Pub. L. 112–75, § 1, Dec. 23, 2011, 125 Stat. 1272, provided that: “This Act [amending sections 6431, 6432b, 6435, 6435a, and 6436 of this title and enacting provisions set out as a note under section 6432b of this title] may be cited as the ‘United States Commission on International Religious Freedom Reform and Reauthorization Act of 2011’.”
 
 **Short Title**
 
-Pub. L. 105–292, § 1(a), Oct. 27, 1998, 112 Stat. 2787, provided that: “This Act [enacting this chapter and section 4028 of this title, amending sections 262d, 2151n, 2304, 2452, 3965, 4013, 4028, and 6202 of this title, sections 1157 and 1182 of Title 8, Aliens and Nationality, and section 402 of Title 50, War and National Defense, and enacting provisions set out as notes under section 2151n of this title and section 1182 of Title 8] may be cited as the ‘International Religious Freedom Act of 1998’.”
+Pub. L. 105–292, § 1(a), Oct. 27, 1998, 112 Stat. 2787, provided that: “This Act [enacting this chapter and section 4028 of this title, amending sections 262d, 2151n, 2304, 2452, 3965, 4013, 4028, and 6202 of this title, sections 1157 and 1182 of Title 8, Aliens and Nationality, and section 402 of Title 50, War and National Defense, and enacting provisions set out as notes under section 2151n of this title and section 1182 of Title 8] may be cited as the ‘International Religious Freedom Act of 1998’.”
 
 **Findings Relating to Pub. L. 113–154**
 
-Pub. L. 113–154, § 1, Aug. 8, 2014, 128 Stat. 1827, provided that:
+Pub. L. 113–154, § 1, Aug. 8, 2014, 128 Stat. 1827, provided that:
 
 > “Congress finds the following:
 
@@ -185,7 +185,7 @@ Sec. 8. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-## § 6402. Definitions
+## § 6402. Definitions
 
 In this chapter:
 
@@ -201,9 +201,9 @@ The term “Annual Report” means the Annual Report on International Religious 
 
 **(A)** the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives; and
 
-**(B)** in the case of any determination made with respect to the taking of President 1
+**(B)** in the case of any determination made with respect to the taking of President 1
 
-<sup>1</sup>  So in original. Probably should be “Presidential”.
+<sup>1</sup> So in original. Probably should be “Presidential”.
 
 action under paragraphs (9) through (15) of section 6445(a) of this title, the term includes the committees described in subparagraph (A) and, where appropriate, the Committee on Banking and Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
@@ -261,7 +261,7 @@ The term “Office” means the Office on International Religious Freedom establ
 
 The term “Special Adviser” means the Special Adviser to the President on International Religious Freedom described in section 3021(i) of title 50.2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 **(15) Special Watch List**
 
@@ -285,7 +285,7 @@ The term “Special Watch List” means the Special Watch List described in sect
 
 **(B)** any of the following acts if committed on account of an individual’s conscience, non-theistic views, or religious belief or practice: detention, interrogation, imposition of an onerous financial penalty, forced labor, forced mass resettlement, imprisonment, forced religious conversion, forcibly compelling non-believers or non-theists to recant their beliefs or to convert, beating, torture, mutilation, rape, enslavement, murder, and execution.
 
-(Pub. L. 105–292, § 3, Oct. 27, 1998, 112 Stat. 2790; Pub. L. 114–281, § 3, Dec. 16, 2016, 130 Stat. 1427.)
+(Pub. L. 105–292, § 3, Oct. 27, 1998, 112 Stat. 2790; Pub. L. 114–281, § 3, Dec. 16, 2016, 130 Stat. 1427.)
 
 **Editorial Notes**
 
@@ -293,19 +293,19 @@ The term “Special Watch List” means the Special Watch List described in sect
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, known as the International Religious Freedom Act of 1998, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6401 of this title and Tables.
 
-Section 3021(i) of title 50, referred to in par. (14), was redesignated section 3021(k) by Pub. L. 110–53, title XVIII, § 1841(g)(1), Aug. 3, 2007, 121 Stat. 500.
+Section 3021(i) of title 50, referred to in par. (14), was redesignated section 3021(k) by Pub. L. 110–53, title XVIII, § 1841(g)(1), Aug. 3, 2007, 121 Stat. 500.
 
 **Amendments**
 
-2016—Pars. (10) to (14). Pub. L. 114–281, § 3(2), (3), added pars. (10) and (11) and redesignated former pars. (10) to (12) as (12) to (14), respectively. Former par. (13) redesignated (16).
+2016—Pars. (10) to (14). Pub. L. 114–281, § 3(2), (3), added pars. (10) and (11) and redesignated former pars. (10) to (12) as (12) to (14), respectively. Former par. (13) redesignated (16).
 
-Par. (15). Pub. L. 114–281, § 3(4), added par. (15).
+Par. (15). Pub. L. 114–281, § 3(4), added par. (15).
 
-Par. (16). Pub. L. 114–281, § 3(1), redesignated par. (13) as (16).
+Par. (16). Pub. L. 114–281, § 3(1), redesignated par. (13) as (16).
 
-Par. (16)(A)(iv) to (vi). Pub. L. 114–281, § 3(5)(A), added cl. (iv) and redesignated former cls. (iv) and (v) as (v) and (vi), respectively.
+Par. (16)(A)(iv) to (vi). Pub. L. 114–281, § 3(5)(A), added cl. (iv) and redesignated former cls. (iv) and (v) as (v) and (vi), respectively.
 
-Par. (16)(B). Pub. L. 114–281, § 3(5)(B), inserted “conscience, non-theistic views, or” after “an individual’s” and “forcibly compelling non-believers or non-theists to recant their beliefs or to convert,” after “forced religious conversion,”.
+Par. (16)(B). Pub. L. 114–281, § 3(5)(B), inserted “conscience, non-theistic views, or” after “an individual’s” and “forcibly compelling non-believers or non-theists to recant their beliefs or to convert,” after “forced religious conversion,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -317,7 +317,7 @@ Committee on Banking and Financial Services of House of Representatives abolishe
 
 ## SUBCHAPTER I—DEPARTMENT OF STATE ACTIVITIES
 
-### § 6411. Office on International Religious Freedom; Ambassador at Large for International Religious Freedom
+### § 6411. Office on International Religious Freedom; Ambassador at Large for International Religious Freedom
 
 **(a) Establishment of Office**
 
@@ -363,7 +363,7 @@ The Ambassador at Large shall have the reporting responsibilities described in s
 
 The Secretary of State shall provide the Ambassador at Large with such funds as may be necessary for the hiring of appropriate staff for the Office, including full-time equivalent positions and other temporary staff positions needed to compile, edit, and manage the Annual Report under the direct supervision of the Ambassador at Large, and for the conduct of investigations by the Office and for necessary travel to carry out this chapter. The Secretary of State should provide the Ambassador at Large with sufficient funding to carry out the duties described in this section, including, as necessary, representation funds. On the date on which the President’s annual budget request is submitted to Congress, the Secretary shall submit an annual report to the appropriate congressional committees that includes a report on staffing levels for the International Religious Freedom Office.
 
-(Pub. L. 105–292, title I, § 101, Oct. 27, 1998, 112 Stat. 2791; Pub. L. 114–281, title I, § 101(a), Dec. 16, 2016, 130 Stat. 1428.)
+(Pub. L. 105–292, title I, § 101, Oct. 27, 1998, 112 Stat. 2791; Pub. L. 114–281, title I, § 101(a), Dec. 16, 2016, 130 Stat. 1428.)
 
 **Editorial Notes**
 
@@ -373,17 +373,17 @@ This chapter, referred to in subsec. (d), was in the original “this Act”, me
 
 **Amendments**
 
-2016—Subsec. (b). Pub. L. 114–281, § 101(a)(1), inserted before period at end “, and shall report directly to the Secretary of State”.
+2016—Subsec. (b). Pub. L. 114–281, § 101(a)(1), inserted before period at end “, and shall report directly to the Secretary of State”.
 
-Subsec. (c)(1). Pub. L. 114–281, § 101(a)(2)(A), substituted “responsibilities” for “responsibility”, inserted dash after “shall be to”, designated remainder of existing provisions as subpar. (A), substituted “; and” for period at end, and added subpar. (B).
+Subsec. (c)(1). Pub. L. 114–281, § 101(a)(2)(A), substituted “responsibilities” for “responsibility”, inserted dash after “shall be to”, designated remainder of existing provisions as subpar. (A), substituted “; and” for period at end, and added subpar. (B).
 
-Subsec. (c)(2). Pub. L. 114–281, § 101(a)(2)(B), inserted “the principal adviser to” before “the Secretary of State” in introductory provisions.
+Subsec. (c)(2). Pub. L. 114–281, § 101(a)(2)(B), inserted “the principal adviser to” before “the Secretary of State” in introductory provisions.
 
-Subsec. (c)(3)(C). Pub. L. 114–281, § 101(a)(2)(C), added subpar. (C).
+Subsec. (c)(3)(C). Pub. L. 114–281, § 101(a)(2)(C), added subpar. (C).
 
-Subsec. (c)(4), (5). Pub. L. 114–281, § 101(a)(2)(D), (E), added par. (4) and redesignated former par. (4) as (5).
+Subsec. (c)(4), (5). Pub. L. 114–281, § 101(a)(2)(D), (E), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (d). Pub. L. 114–281, § 101(a)(3), substituted “appropriate staff for the Office, including full-time equivalent positions and other temporary staff positions needed to compile, edit, and manage the Annual Report under the direct supervision of the Ambassador at Large, and for the conduct of investigations by the Office and for necessary travel to carry out this chapter. The Secretary of State should provide the Ambassador at Large with sufficient funding to carry out the duties described in this section, including, as necessary, representation funds. On the date on which the President’s annual budget request is submitted to Congress, the Secretary shall submit an annual report to the appropriate congressional committees that includes a report on staffing levels for the International Religious Freedom Office.” for “staff for the Office, for the conduct of investigations by the Office, and for necessary travel to carry out the provisions of this section.”
+Subsec. (d). Pub. L. 114–281, § 101(a)(3), substituted “appropriate staff for the Office, including full-time equivalent positions and other temporary staff positions needed to compile, edit, and manage the Annual Report under the direct supervision of the Ambassador at Large, and for the conduct of investigations by the Office and for necessary travel to carry out this chapter. The Secretary of State should provide the Ambassador at Large with sufficient funding to carry out the duties described in this section, including, as necessary, representation funds. On the date on which the President’s annual budget request is submitted to Congress, the Secretary shall submit an annual report to the appropriate congressional committees that includes a report on staffing levels for the International Religious Freedom Office.” for “staff for the Office, for the conduct of investigations by the Office, and for necessary travel to carry out the provisions of this section.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -439,7 +439,7 @@ Pub. L. 113–161, Aug. 8, 2014, 128 Stat. 1855, provided that:
 
 > “Of the amounts appropriated or otherwise made available to the Secretary of State for ‘Diplomatic and Consular Programs’ for fiscal years 2015 through 2019, the Secretary of State is authorized to provide to the Special Envoy $1,000,000 for each such fiscal year for the hiring of staff, the conduct of investigations, and necessary travel to carry out the provisions of this Act.”
 
-### § 6412. Reports
+### § 6412. Reports
 
 **(a) Portions of annual Human Rights Reports**
 
@@ -523,13 +523,13 @@ The Secretary of State shall ensure that United States missions abroad maintain 
 
 In compiling data and assessing the respect of the right to religious freedom for the Human Rights Reports, the Annual Report on International Religious Freedom, and the Executive Summary, United States mission personnel shall, as appropriate, seek out and maintain contacts with religious and human rights nongovernmental organizations, with the consent of those organizations, including receiving reports and updates from such organizations and, when appropriate, investigating such reports.
 
-(Pub. L. 105–292, title I, § 102, Oct. 27, 1998, 112 Stat. 2792; Pub. L. 107–228, div. A, title VI, § 681(a), Sept. 30, 2002, 116 Stat. 1408; Pub. L. 108–332, § 6(b), Oct. 16, 2004, 118 Stat. 1285; Pub. L. 114–281, title I, § 102(a), Dec. 16, 2016, 130 Stat. 1429; Pub. L. 115–434, § 4, Jan. 14, 2019, 132 Stat. 5528.)
+(Pub. L. 105–292, title I, § 102, Oct. 27, 1998, 112 Stat. 2792; Pub. L. 107–228, div. A, title VI, § 681(a), Sept. 30, 2002, 116 Stat. 1408; Pub. L. 108–332, § 6(b), Oct. 16, 2004, 118 Stat. 1285; Pub. L. 114–281, title I, § 102(a), Dec. 16, 2016, 130 Stat. 1429; Pub. L. 115–434, § 4, Jan. 14, 2019, 132 Stat. 5528.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Titles I, IV, and V of this Act, referred to in subsec. (b)(1)(C), (F)(i), are titles I, IV, and V of Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2791, 2800, 2811. Titles I and IV are classified principally to this subchapter (§ 6411 et seq.) and subchapter III (§ 6441 et seq.) of this chapter, respectively. Title V amended sections 2151n, 2452, 3965, 4013, and 6202 of this title and enacted provisions set out as a note under section 2151n of this title. For complete classification of titles I, IV, and V to the Code, see Tables.
+Titles I, IV, and V of this Act, referred to in subsec. (b)(1)(C), (F)(i), are titles I, IV, and V of Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2791, 2800, 2811. Titles I and IV are classified principally to this subchapter (§ 6411 et seq.) and subchapter III (§ 6441 et seq.) of this chapter, respectively. Title V amended sections 2151n, 2452, 3965, 4013, and 6202 of this title and enacted provisions set out as a note under section 2151n of this title. For complete classification of titles I, IV, and V to the Code, see Tables.
 
 This chapter, referred to in subsec. (b)(1)(F)(ii), (2), was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, known as the International Religious Freedom Act of 1998, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6401 of this title and Tables.
 
@@ -541,17 +541,17 @@ Section is comprised of section 102 of Pub. L. 105–292. Subsec. (d) of section
 
 2019—Subsec. (b)(1)(G). Pub. L. 115–434 added subpar. (G).
 
-2016—Subsec. (b)(1). Pub. L. 114–281, § 102(a)(1), substituted “May 1” for “September 1” in introductory provisions.
+2016—Subsec. (b)(1). Pub. L. 114–281, § 102(a)(1), substituted “May 1” for “September 1” in introductory provisions.
 
-Subsec. (b)(1)(A)(iii). Pub. L. 114–281, § 102(a)(2)(A), substituted “as well as the routine denial of visa applications for religious workers;” for “; and”.
+Subsec. (b)(1)(A)(iii). Pub. L. 114–281, § 102(a)(2)(A), substituted “as well as the routine denial of visa applications for religious workers;” for “; and”.
 
-Subsec. (b)(1)(A)(iv) to (vii). Pub. L. 114–281, § 102(a)(2)(B), (C), added cls. (iv) to (vi) and redesignated former cl. (iv) as (vii).
+Subsec. (b)(1)(A)(iv) to (vii). Pub. L. 114–281, § 102(a)(2)(B), (C), added cls. (iv) to (vi) and redesignated former cl. (iv) as (vii).
 
-Subsec. (b)(1)(B). Pub. L. 114–281, § 102(a)(3), in introductory provisions, inserted “persecution of lawyers, politicians, or other human rights advocates seeking to defend the rights of members of religious groups or highlight religious freedom violations, prohibitions on ritual animal slaughter or male infant circumcision,” after “entire religions,” and “policies that ban or restrict the public manifestation of religious belief and the peaceful involvement of religious groups or their members in the political life of each such foreign country,” after “such groups,”.
+Subsec. (b)(1)(B). Pub. L. 114–281, § 102(a)(3), in introductory provisions, inserted “persecution of lawyers, politicians, or other human rights advocates seeking to defend the rights of members of religious groups or highlight religious freedom violations, prohibitions on ritual animal slaughter or male infant circumcision,” after “entire religions,” and “policies that ban or restrict the public manifestation of religious belief and the peaceful involvement of religious groups or their members in the political life of each such foreign country,” after “such groups,”.
 
-Subsec. (b)(1)(C). Pub. L. 114–281, § 102(a)(4), substituted “A detailed description of United States actions, diplomatic and political coordination efforts, and other” for “A description of United States actions and”.
+Subsec. (b)(1)(C). Pub. L. 114–281, § 102(a)(4), substituted “A detailed description of United States actions, diplomatic and political coordination efforts, and other” for “A description of United States actions and”.
 
-Subsec. (b)(1)(F)(i). Pub. L. 114–281, § 102(a)(5), substituted “section 6442(b)(1)(A)(ii) of this title” for “section 6442(b)(1) of this title” and inserted at end “Any country in which a non-state actor designated as an entity of particular concern for religious freedom under section 6442a of this title is located shall be included in this section of the report.”
+Subsec. (b)(1)(F)(i). Pub. L. 114–281, § 102(a)(5), substituted “section 6442(b)(1)(A)(ii) of this title” for “section 6442(b)(1) of this title” and inserted at end “Any country in which a non-state actor designated as an entity of particular concern for religious freedom under section 6442a of this title is located shall be included in this section of the report.”
 
 2004—Subsec. (b)(1)(A)(iv). Pub. L. 108–332 added cl. (iv).
 
@@ -569,7 +569,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 **Findings**
 
-Pub. L. 115–434, § 2, Jan. 14, 2019, 132 Stat. 5526, provided that:
+Pub. L. 115–434, § 2, Jan. 14, 2019, 132 Stat. 5526, provided that:
 
 > “Congress finds the following:
 
@@ -599,19 +599,19 @@ Pub. L. 115–434, § 2, Jan. 14, 2019, 132 Stat. 5526, provided that:
 
 > **“(8)** The IHRA further clarified that manifestations of anti-Semitism might also target the State of Israel, conceived of as a Jewish collectivity. Anti-Semitism frequently charges Jews with conspiring to harm humanity, and it is often used to blame Jews for ‘why things go wrong’. It is expressed in speech, writing, visual forms, and action, and employs sinister stereotypes and negative character traits.”
 
-### § 6413. Establishment of religious freedom Internet site
+### § 6413. Establishment of religious freedom Internet site
 
 In order to facilitate access by nongovernmental organizations (NGOs) and by the public around the world to international documents on the protection of religious freedom, the Secretary of State, with the assistance of the Ambassador at Large, shall establish and maintain an Internet site containing major international documents relating to religious freedom, the Annual Report, the Executive Summary, and any other documentation or references to other sites as deemed appropriate or relevant by the Ambassador at Large.
 
-(Pub. L. 105–292, title I, § 103, Oct. 27, 1998, 112 Stat. 2795.)
+(Pub. L. 105–292, title I, § 103, Oct. 27, 1998, 112 Stat. 2795.)
 
-### § 6414. High-level contacts with nongovernmental organizations
+### § 6414. High-level contacts with nongovernmental organizations
 
 United States chiefs of mission shall seek out and contact religious nongovernmental organizations to provide high-level meetings with religious nongovernmental organizations where appropriate and beneficial. United States chiefs of mission and Foreign Service officers abroad shall seek to meet with imprisoned religious leaders where appropriate and beneficial.
 
-(Pub. L. 105–292, title I, § 105, Oct. 27, 1998, 112 Stat. 2795.)
+(Pub. L. 105–292, title I, § 105, Oct. 27, 1998, 112 Stat. 2795.)
 
-### § 6415. Programs and allocations of funds by United States missions abroad
+### § 6415. Programs and allocations of funds by United States missions abroad
 
 It is the sense of the Congress that—
 
@@ -619,9 +619,9 @@ It is the sense of the Congress that—
 
 **(2)** in allocating or recommending the allocation of funds or the recommendation of candidates for programs and grants funded by the United States Government, United States diplomatic missions should give particular consideration to those programs and candidates deemed to assist in the promotion of the right to religious freedom.
 
-(Pub. L. 105–292, title I, § 106, Oct. 27, 1998, 112 Stat. 2796.)
+(Pub. L. 105–292, title I, § 106, Oct. 27, 1998, 112 Stat. 2796.)
 
-### § 6416. Equal access to United States missions abroad for conducting religious activities
+### § 6416. Equal access to United States missions abroad for conducting religious activities
 
 **(a) In general**
 
@@ -643,9 +643,9 @@ Subject to this section, the Secretary of State shall permit, on terms no less f
 
 The Secretary of State may permit access to the premises of a United States diplomatic mission or consular post to foreign nationals for the purpose of attending or participating in religious activities conducted pursuant to this section.
 
-(Pub. L. 105–292, title I, § 107, Oct. 27, 1998, 112 Stat. 2796.)
+(Pub. L. 105–292, title I, § 107, Oct. 27, 1998, 112 Stat. 2796.)
 
-### § 6417. Prisoner lists and issue briefs on religious freedom concerns
+### § 6417. Prisoner lists and issue briefs on religious freedom concerns
 
 **(a) Sense of Congress**
 
@@ -669,21 +669,21 @@ The Commission shall make publicly available, to the extent practicable, online 
 
 In compiling lists under paragraph (1), the Commission shall exercise all appropriate discretion, including consideration of the safety and security of, and benefit to, the persons who may be included on the lists and the families of such persons.
 
-(Pub. L. 105–292, title I, § 108, Oct. 27, 1998, 112 Stat. 2796; Pub. L. 114–281, title I, § 104, Dec. 16, 2016, 130 Stat. 1432.)
+(Pub. L. 105–292, title I, § 108, Oct. 27, 1998, 112 Stat. 2796; Pub. L. 114–281, title I, § 104, Dec. 16, 2016, 130 Stat. 1432.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Subsec. (b). Pub. L. 114–281, § 104(1), substituted “activities, religious freedom advocacy, or efforts to protect and advance the universally recognized right to the freedom of religion,” for “faith,”.
+2016—Subsec. (b). Pub. L. 114–281, § 104(1), substituted “activities, religious freedom advocacy, or efforts to protect and advance the universally recognized right to the freedom of religion,” for “faith,”.
 
-Subsec. (c). Pub. L. 114–281, § 104(2), substituted “make available” for “, as appropriate, provide”.
+Subsec. (c). Pub. L. 114–281, § 104(2), substituted “make available” for “, as appropriate, provide”.
 
-Subsec. (d). Pub. L. 114–281, § 104(3), added subsec. (d).
+Subsec. (d). Pub. L. 114–281, § 104(3), added subsec. (d).
 
 ## SUBCHAPTER II—COMMISSION ON INTERNATIONAL RELIGIOUS FREEDOM
 
-### § 6431. Establishment and composition
+### § 6431. Establishment and composition
 
 **(a) In general**
 
@@ -695,9 +695,9 @@ There is established the United States Commission on International Religious Fre
 
 **(A)** the Ambassador at Large, who shall serve ex officio as a nonvoting member of the Commission; and
 
-**(B)** Nine 1
+**(B)** Nine 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 other members, who shall be United States citizens who are not being paid as officers or employees of the United States, and who shall be appointed as follows:
 
@@ -779,49 +779,49 @@ Members of the Commission shall be allowed travel expenses, including per diem i
 
 If a payment is made under section 415(a) of the Congressional Accountability Act of 1995 (2 U.S.C. 1415(a)) for an award or settlement in connection with a claim alleging a violation of unlawful harassment, intimidation, reprisal, or discrimination under the Congressional Accountability Act of 1995 (2 U.S.C. 1301 et seq.) that was committed personally by an individual who, at the time of committing the violation, was a Member of the Commission, the Member shall be removed from the Commission.
 
-(Pub. L. 105–292, title II, § 201, Oct. 27, 1998, 112 Stat. 2797; Pub. L. 106–55, §§ 1(a), 2(b), Aug. 17, 1999, 113 Stat. 401, 406; Pub. L. 107–228, div. A, title VI, § 681(b)–(d), Sept. 30, 2002, 116 Stat. 1408, 1409; Pub. L. 112–75, § 2, Dec. 23, 2011, 125 Stat. 1272; Pub. L. 116–94, div. J, title VIII, §§ 803, 806(a), Dec. 20, 2019, 133 Stat. 3076, 3078.)
+(Pub. L. 105–292, title II, § 201, Oct. 27, 1998, 112 Stat. 2797; Pub. L. 106–55, §§ 1(a), 2(b), Aug. 17, 1999, 113 Stat. 401, 406; Pub. L. 107–228, div. A, title VI, § 681(b)–(d), Sept. 30, 2002, 116 Stat. 1408, 1409; Pub. L. 112–75, § 2, Dec. 23, 2011, 125 Stat. 1272; Pub. L. 116–94, div. J, title VIII, §§ 803, 806(a), Dec. 20, 2019, 133 Stat. 3076, 3078.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Congressional Accountability Act of 1995, referred to in subsec. (j), is Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to chapter 24 (§ 1301 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note under section 1301 of Title 2 and Tables.
+The Congressional Accountability Act of 1995, referred to in subsec. (j), is Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to chapter 24 (§ 1301 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note under section 1301 of Title 2 and Tables.
 
 **Amendments**
 
-2019—Subsec. (b)(2). Pub. L. 116–94, § 803(1), struck out subpar. (A) designation and heading and subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “Each member of the Commission shall be required to obtain a security clearance.”
+2019—Subsec. (b)(2). Pub. L. 116–94, § 803(1), struck out subpar. (A) designation and heading and subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “Each member of the Commission shall be required to obtain a security clearance.”
 
-Subsec. (d). Pub. L. 116–94, § 803(2), amended subsec. (d) generally. Prior to amendment, text read as follows: “At the first meeting of the Commission after May 30 of each year, a majority of the members of the Commission present and voting shall elect the Chair of the Commission. No member of the Commission is eligible to be elected as Chair of the Commission for a second, consecutive term.”
+Subsec. (d). Pub. L. 116–94, § 803(2), amended subsec. (d) generally. Prior to amendment, text read as follows: “At the first meeting of the Commission after May 30 of each year, a majority of the members of the Commission present and voting shall elect the Chair of the Commission. No member of the Commission is eligible to be elected as Chair of the Commission for a second, consecutive term.”
 
-Subsec. (f). Pub. L. 116–94, § 803(3), substituted “International Religious Freedom Report” for “Country Report on Human Rights Practices”.
+Subsec. (f). Pub. L. 116–94, § 803(3), substituted “International Religious Freedom Report” for “Country Report on Human Rights Practices”.
 
-Subsec. (i). Pub. L. 116–94, § 806(a), substituted “shall comply with” for “are subject to”.
+Subsec. (i). Pub. L. 116–94, § 806(a), substituted “shall comply with” for “are subject to”.
 
-Subsec. (j). Pub. L. 116–94, § 803(4), added subsec. (j).
+Subsec. (j). Pub. L. 116–94, § 803(4), added subsec. (j).
 
-2011—Subsec. (c)(1). Pub. L. 112–75, § 2(a)(1), added par. (1) and struck out former par. (1) which read as follows: “The term of office of each member of the Commission shall be 2 years. The term of each member of the Commission appointed to the first two-year term of the Commission shall be considered to have begun on May 15, 1999, and shall end on May 14, 2001, regardless of the date of appointment to the Commission. The term of each member of the Commission appointed to the second two-year term of the Commission shall begin on May 15, 2001, and shall end on May 14, 2003, regardless of the date of appointment to the Commission. In the case in which a vacancy in the membership of the Commission is filled during a two-year term of the Commission, such membership on the Commission shall terminate at the end of that two-year term of the Commission. Members of the Commission shall be eligible for reappointment to a second term.”
+2011—Subsec. (c)(1). Pub. L. 112–75, § 2(a)(1), added par. (1) and struck out former par. (1) which read as follows: “The term of office of each member of the Commission shall be 2 years. The term of each member of the Commission appointed to the first two-year term of the Commission shall be considered to have begun on May 15, 1999, and shall end on May 14, 2001, regardless of the date of appointment to the Commission. The term of each member of the Commission appointed to the second two-year term of the Commission shall begin on May 15, 2001, and shall end on May 14, 2003, regardless of the date of appointment to the Commission. In the case in which a vacancy in the membership of the Commission is filled during a two-year term of the Commission, such membership on the Commission shall terminate at the end of that two-year term of the Commission. Members of the Commission shall be eligible for reappointment to a second term.”
 
-Subsec. (c)(3). Pub. L. 112–75, § 2(a)(2), added par. (3).
+Subsec. (c)(3). Pub. L. 112–75, § 2(a)(2), added par. (3).
 
-Subsec. (d). Pub. L. 112–75, § 2(b), inserted at end “No member of the Commission is eligible to be elected as Chair of the Commission for a second, consecutive term.”
+Subsec. (d). Pub. L. 112–75, § 2(b), inserted at end “No member of the Commission is eligible to be elected as Chair of the Commission for a second, consecutive term.”
 
-Subsec. (i). Pub. L. 112–75, § 2(c), inserted at end “Members of the Commission are subject to the requirements set forth in chapters 300 through 304 of title 41, Code of Federal Regulations (commonly known as the ‘Federal Travel Regulation’) and the Department of State Standardized Regulations governing authorized travel at government expense, including regulations concerning the mode of travel, lodging and per diem expenditures, reimbursement payments, and expense reporting and documentation requirements.”
+Subsec. (i). Pub. L. 112–75, § 2(c), inserted at end “Members of the Commission are subject to the requirements set forth in chapters 300 through 304 of title 41, Code of Federal Regulations (commonly known as the ‘Federal Travel Regulation’) and the Department of State Standardized Regulations governing authorized travel at government expense, including regulations concerning the mode of travel, lodging and per diem expenditures, reimbursement payments, and expense reporting and documentation requirements.”
 
-2002—Subsec. (c)(2). Pub. L. 107–228, § 681(b), added par. (2).
+2002—Subsec. (c)(2). Pub. L. 107–228, § 681(b), added par. (2).
 
-Subsec. (d). Pub. L. 107–228, § 681(c), substituted “after May 30 of each” for “in each calendar”.
+Subsec. (d). Pub. L. 107–228, § 681(c), substituted “after May 30 of each” for “in each calendar”.
 
-Subsec. (g). Pub. L. 107–228, § 681(d), inserted at end “A member may serve after the expiration of that member’s term until a successor has taken office. Any member appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of that term.”
+Subsec. (g). Pub. L. 107–228, § 681(d), inserted at end “A member may serve after the expiration of that member’s term until a successor has taken office. Any member appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of that term.”
 
-1999—Pub. L. 106–55, § 1(a)(2), which directed amendment of section by inserting after first sentence “The term of each member of the Commission appointed to the first two-year term of the Commission shall be considered to have begun on May 15, 1999, and shall end on May 14, 2001, regardless of the date of appointment to the Commission. The term of each member of the Commission appointed to the second two-year term of the Commission shall begin on May 15, 2001, and shall end on May 14, 2003, regardless of the date of appointment to the Commission. In the case in which a vacancy in the membership of the Commission is filled during a two-year term of the Commission, such membership on the Commission shall terminate at the end of that two-year term of the Commission.”, was executed by making the insertion after the first sentence of subsec. (c)(1) to reflect the probable intent of Congress.
+1999—Pub. L. 106–55, § 1(a)(2), which directed amendment of section by inserting after first sentence “The term of each member of the Commission appointed to the first two-year term of the Commission shall be considered to have begun on May 15, 1999, and shall end on May 14, 2001, regardless of the date of appointment to the Commission. The term of each member of the Commission appointed to the second two-year term of the Commission shall begin on May 15, 2001, and shall end on May 14, 2003, regardless of the date of appointment to the Commission. In the case in which a vacancy in the membership of the Commission is filled during a two-year term of the Commission, such membership on the Commission shall terminate at the end of that two-year term of the Commission.”, was executed by making the insertion after the first sentence of subsec. (c)(1) to reflect the probable intent of Congress.
 
-Subsec. (b)(1)(B)(iii). Pub. L. 106–55, § 2(b), substituted “Three” for “three”.
+Subsec. (b)(1)(B)(iii). Pub. L. 106–55, § 2(b), substituted “Three” for “three”.
 
-Subsec. (c). Pub. L. 106–55, § 1(a)(1), designated existing provisions as par. (1) and inserted par. heading.
+Subsec. (c). Pub. L. 106–55, § 1(a)(1), designated existing provisions as par. (1) and inserted par. heading.
 
-Subsec. (h). Pub. L. 106–55, § 1(a)(3), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “The Secretary of State shall assist the Commission by providing to the Commission such staff and administrative services of the Office as may be necessary and appropriate for the Commission to perform its functions. Any employee of the executive branch of Government may be detailed to the Commission without reimbursement to the agency of that employee and such detail shall be without interruption or loss of civil service status or privilege.”
+Subsec. (h). Pub. L. 106–55, § 1(a)(3), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “The Secretary of State shall assist the Commission by providing to the Commission such staff and administrative services of the Office as may be necessary and appropriate for the Commission to perform its functions. Any employee of the executive branch of Government may be detailed to the Commission without reimbursement to the agency of that employee and such detail shall be without interruption or loss of civil service status or privilege.”
 
-### § 6432. Duties of Commission
+### § 6432. Duties of Commission
 
 **(a) In general** The Commission shall have as its primary responsibility—
 
@@ -853,7 +853,7 @@ The Commission shall, on an ongoing basis, monitor facts and circumstances of vi
 
 **(B)** review, to the extent practicable, the effectiveness of such implemented recommendations in advancing religious freedom internationally.
 
-(Pub. L. 105–292, title II, § 202, Oct. 27, 1998, 112 Stat. 2798; Pub. L. 106–55, § 1(b)(1), Aug. 17, 1999, 113 Stat. 401; Pub. L. 116–94, div. J, title VIII, § 804(a), Dec. 20, 2019, 133 Stat. 3077.)
+(Pub. L. 105–292, title II, § 202, Oct. 27, 1998, 112 Stat. 2798; Pub. L. 106–55, § 1(b)(1), Aug. 17, 1999, 113 Stat. 401; Pub. L. 116–94, div. J, title VIII, § 804(a), Dec. 20, 2019, 133 Stat. 3077.)
 
 **Editorial Notes**
 
@@ -867,7 +867,7 @@ The Commission shall, on an ongoing basis, monitor facts and circumstances of vi
 
 **Sense of Congress**
 
-Pub. L. 114–71, § 2, Oct. 16, 2015, 129 Stat. 563, provided that:
+Pub. L. 114–71, § 2, Oct. 16, 2015, 129 Stat. 563, provided that:
 
 > “It is the sense of the Congress that the United States Commission on International Religious Freedom—
 
@@ -875,7 +875,7 @@ Pub. L. 114–71, § 2, Oct. 16, 2015, 129 Stat. 563, provided that:
 
 > **“(2)** in carrying out its prescribed duties, should use its authorized powers to ensure that efforts by the United States to advance religious freedom abroad are timely, appropriate to the circumstances, prudent, and effective.”
 
-### § 6432a. Powers of the Commission
+### § 6432a. Powers of the Commission
 
 **(a) Hearings and sessions**
 
@@ -915,7 +915,7 @@ Members of the Commission and Commission staff may not accept payment from a non
 
 **(3)** brief details of the travel and events related to such travel.
 
-(Pub. L. 105–292, title II, § 203, as added Pub. L. 106–55, § 1(b)(3), Aug. 17, 1999, 113 Stat. 401; amended Pub. L. 116–94, div. J, title VIII, §§ 804(b), 806(b), (c), Dec. 20, 2019, 133 Stat. 3077, 3078.)
+(Pub. L. 105–292, title II, § 203, as added Pub. L. 106–55, § 1(b)(3), Aug. 17, 1999, 113 Stat. 401; amended Pub. L. 116–94, div. J, title VIII, §§ 804(b), 806(b), (c), Dec. 20, 2019, 133 Stat. 3077, 3078.)
 
 **Editorial Notes**
 
@@ -929,13 +929,13 @@ A prior section 203 of Pub. L. 105–292 was renumbered section 205 and is class
 
 **Amendments**
 
-2019—Subsec. (e). Pub. L. 116–94, § 804(b), inserted at end “If a Member of the Commission is invited to speak at an event in his or her capacity as a Commissioner, the Member shall provide notice of the request to all Commissioners and the Executive Director as soon as the Commissioner becomes aware of such invitation. Speeches and responses to questions at official events shall reflect the views of the Commission. Official speeches and other prepared materials shall be made available to all Commissioners in advance of the event. If a Commissioner is speaking in his or her private capacity, he or she shall include qualifying language that the views they are representing are his or her own views and not the views of the Commission.”
+2019—Subsec. (e). Pub. L. 116–94, § 804(b), inserted at end “If a Member of the Commission is invited to speak at an event in his or her capacity as a Commissioner, the Member shall provide notice of the request to all Commissioners and the Executive Director as soon as the Commissioner becomes aware of such invitation. Speeches and responses to questions at official events shall reflect the views of the Commission. Official speeches and other prepared materials shall be made available to all Commissioners in advance of the event. If a Commissioner is speaking in his or her private capacity, he or she shall include qualifying language that the views they are representing are his or her own views and not the views of the Commission.”
 
-Subsec. (f). Pub. L. 116–94, § 806(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
+Subsec. (f). Pub. L. 116–94, § 806(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Subsec. (g). Pub. L. 116–94, § 806(c), added subsec. (g).
+Subsec. (g). Pub. L. 116–94, § 806(c), added subsec. (g).
 
-### § 6432b. Commission personnel matters
+### § 6432b. Commission personnel matters
 
 **(a) In general**
 
@@ -967,7 +967,7 @@ The Executive Director shall be required to obtain a security clearance. The Exe
 
 The Commission shall reimburse all appropriate Government agencies for the cost of obtaining clearances for members of the Commission, for the Executive Director, and for any other personnel.
 
-(Pub. L. 105–292, title II, § 204, as added Pub. L. 106–55, § 1(b)(3), Aug. 17, 1999, 113 Stat. 402; amended Pub. L. 112–75, § 3(a), Dec. 23, 2011, 125 Stat. 1273; Pub. L. 116–94, div. J, title VIII, § 805(a), Dec. 20, 2019, 133 Stat. 3077.)
+(Pub. L. 105–292, title II, § 204, as added Pub. L. 106–55, § 1(b)(3), Aug. 17, 1999, 113 Stat. 402; amended Pub. L. 112–75, § 3(a), Dec. 23, 2011, 125 Stat. 1273; Pub. L. 116–94, div. J, title VIII, § 805(a), Dec. 20, 2019, 133 Stat. 3077.)
 
 **Editorial Notes**
 
@@ -977,11 +977,11 @@ A prior section 204 of Pub. L. 105–292 was renumbered section 206 and is class
 
 **Amendments**
 
-2019—Subsec. (b). Pub. L. 116–94, § 805(a)(1), substituted “provide reasonable compensation to the Executive Director” for “fix the compensation of the Executive Director and other personnel” and “may not exceed the rate payable under level II of the Executive Schedule under section 5313” for “and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316” and inserted at end “The rate of pay for other personnel of the Commission may not exceed the rate payable for level IV of the Executive Schedule under section 5315 of such title. All employees of the Commission shall otherwise be treated as employees whose pay is disbursed by the Secretary of the Senate, including for purposes of applying the Standing Rules of the Senate. The Commission shall be treated as an employing office of the Senate.”
+2019—Subsec. (b). Pub. L. 116–94, § 805(a)(1), substituted “provide reasonable compensation to the Executive Director” for “fix the compensation of the Executive Director and other personnel” and “may not exceed the rate payable under level II of the Executive Schedule under section 5313” for “and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316” and inserted at end “The rate of pay for other personnel of the Commission may not exceed the rate payable for level IV of the Executive Schedule under section 5315 of such title. All employees of the Commission shall otherwise be treated as employees whose pay is disbursed by the Secretary of the Senate, including for purposes of applying the Standing Rules of the Senate. The Commission shall be treated as an employing office of the Senate.”
 
-Subsec. (f). Pub. L. 116–94, § 805(a)(2), substituted “the Commission, for the Executive Director” for “the commission, for the executive director”.
+Subsec. (f). Pub. L. 116–94, § 805(a)(2), substituted “the Commission, for the Executive Director” for “the commission, for the executive director”.
 
-Subsec. (g). Pub. L. 116–94, § 805(a)(3), struck out subsec. (g) which related to application of antidiscrimination laws.
+Subsec. (g). Pub. L. 116–94, § 805(a)(3), struck out subsec. (g) which related to application of antidiscrimination laws.
 
 2011—Subsec. (g). Pub. L. 112–75 added subsec. (g).
 
@@ -989,9 +989,9 @@ Subsec. (g). Pub. L. 116–94, § 805(a)(3), struck out subsec. (g) which rela
 
 **Pending Claims**
 
-Pub. L. 112–75, § 3(b), Dec. 23, 2011, 125 Stat. 1273, provided that: “Any administrative or judicial claim or action pending on the date of the enactment of this Act [Dec. 23, 2011] may be maintained under [former] section 204(g) of the International Religious Freedom Act of 1998 [former 22 U.S.C. 6432b(g)], as added by subsection (a).”
+Pub. L. 112–75, § 3(b), Dec. 23, 2011, 125 Stat. 1273, provided that: “Any administrative or judicial claim or action pending on the date of the enactment of this Act [Dec. 23, 2011] may be maintained under [former] section 204(g) of the International Religious Freedom Act of 1998 [former 22 U.S.C. 6432b(g)], as added by subsection (a).”
 
-### § 6433. Report of Commission
+### § 6433. Report of Commission
 
 **(a) In general**
 
@@ -1005,7 +1005,7 @@ The report may be submitted in classified form, together with a public summary o
 
 Each member of the Commission may include the individual or dissenting views of the member.
 
-(Pub. L. 105–292, title II, § 205, formerly § 203, Oct. 27, 1998, 112 Stat. 2799; renumbered § 205, Pub. L. 106–55, § 1(b)(2), Aug. 17, 1999, 113 Stat. 401.)
+(Pub. L. 105–292, title II, § 205, formerly § 203, Oct. 27, 1998, 112 Stat. 2799; renumbered § 205, Pub. L. 106–55, § 1(b)(2), Aug. 17, 1999, 113 Stat. 401.)
 
 **Editorial Notes**
 
@@ -1017,7 +1017,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 A prior section 205 of Pub. L. 105–292 was renumbered section 207 and is classified to section 6435 of this title.
 
-### § 6433a. Strategic plan
+### § 6433a. Strategic plan
 
 **(a) Definitions** In this section:
 
@@ -1083,9 +1083,9 @@ The strategic plan required under subsection (d) may identify any issues or prop
 
 **(f) Implementation of personnel provisions and annual report**
 
-Notwithstanding section 1
+Notwithstanding section 1
 
-<sup>1</sup>  So in original. Probably should be “sections”.
+<sup>1</sup> So in original. Probably should be “sections”.
 
 6432b(a) and 6533(a) of this title, the Commission is authorized to implement provisions related to personnel and the Commission’s annual report that are included in the strategic plan submitted pursuant to this section.
 
@@ -1095,7 +1095,7 @@ Notwithstanding section 1
 
 **(2)** respond to any requests to provide testimony before the appropriate congressional committees.
 
-(Pub. L. 114–71, § 4, Oct. 16, 2015, 129 Stat. 563; Pub. L. 116–94, div. J, title VIII, § 807, Dec. 20, 2019, 133 Stat. 3079.)
+(Pub. L. 114–71, § 4, Oct. 16, 2015, 129 Stat. 563; Pub. L. 116–94, div. J, title VIII, § 807, Dec. 20, 2019, 133 Stat. 3079.)
 
 **Editorial Notes**
 
@@ -1111,11 +1111,11 @@ Section was enacted as part of the United States Commission on International Rel
 
 2019—Subsec. (d). Pub. L. 116–94, in introductory provisions, substituted “Not later than 180 days after December 20, 2019, and every 2 years thereafter” for “Not later than 180 days after October 16, 2015, and not less frequently than biennially thereafter”.
 
-### § 6434. Applicability of other laws
+### § 6434. Applicability of other laws
 
 Chapter 10 of title 5 shall not apply to the Commission.
 
-(Pub. L. 105–292, title II, § 206, formerly § 204, Oct. 27, 1998, 112 Stat. 2799; renumbered § 206, Pub. L. 106–55, § 1(b)(2), Aug. 17, 1999, 113 Stat. 401; Pub. L. 117–286, § 4(a)(172), Dec. 27, 2022, 136 Stat. 4324.)
+(Pub. L. 105–292, title II, § 206, formerly § 204, Oct. 27, 1998, 112 Stat. 2799; renumbered § 206, Pub. L. 106–55, § 1(b)(2), Aug. 17, 1999, 113 Stat. 401; Pub. L. 117–286, § 4(a)(172), Dec. 27, 2022, 136 Stat. 4324.)
 
 **Editorial Notes**
 
@@ -1127,7 +1127,7 @@ A prior section 206 of Pub. L. 105–292 was renumbered section 209 and is class
 
 2022—Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)”.
 
-### § 6435. Authorization of appropriations
+### § 6435. Authorization of appropriations
 
 **(a) In general**
 
@@ -1145,7 +1145,7 @@ There are authorized to be appropriated to the Commission $3,500,000 for each of
 
 **(2)** submits the annual financial report required under section 6435a(e) of this title to the appropriate congressional committees.
 
-(Pub. L. 105–292, title II, § 207, formerly § 205, Oct. 27, 1998, 112 Stat. 2800; renumbered § 207 and amended Pub. L. 106–55, § 1(b)(2), (4), Aug. 17, 1999, 113 Stat. 401, 403; Pub. L. 107–228, div. A, title VI, § 681(e), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 112–75, § 4, Dec. 23, 2011, 125 Stat. 1273; Pub. L. 113–271, § 1(1), Dec. 18, 2014, 128 Stat. 2951; Pub. L. 114–71, § 5, Oct. 16, 2015, 129 Stat. 565; Pub. L. 116–94, div. J, title VIII, § 808, Dec. 20, 2019, 133 Stat. 3079; Pub. L. 117–181, § 2(a), Sept. 30, 2022, 136 Stat. 2177; Pub. L. 118–90, § 2(a), Sept. 30, 2024, 138 Stat. 1559.)
+(Pub. L. 105–292, title II, § 207, formerly § 205, Oct. 27, 1998, 112 Stat. 2800; renumbered § 207 and amended Pub. L. 106–55, § 1(b)(2), (4), Aug. 17, 1999, 113 Stat. 401, 403; Pub. L. 107–228, div. A, title VI, § 681(e), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 112–75, § 4, Dec. 23, 2011, 125 Stat. 1273; Pub. L. 113–271, § 1(1), Dec. 18, 2014, 128 Stat. 2951; Pub. L. 114–71, § 5, Oct. 16, 2015, 129 Stat. 565; Pub. L. 116–94, div. J, title VIII, § 808, Dec. 20, 2019, 133 Stat. 3079; Pub. L. 117–181, § 2(a), Sept. 30, 2022, 136 Stat. 2177; Pub. L. 118–90, § 2(a), Sept. 30, 2024, 138 Stat. 1559.)
 
 **Editorial Notes**
 
@@ -1169,15 +1169,15 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 2002—Subsec. (a). Pub. L. 107–228 inserted “for the fiscal year 2003” after “$3,000,000”.
 
-1999—Subsec. (a). Pub. L. 106–55, § 1(b)(4), substituted “to carry out the provisions of this subchapter” for “for each of the fiscal years 1999 and 2000 to carry out the provisions of this subchapter.”
+1999—Subsec. (a). Pub. L. 106–55, § 1(b)(4), substituted “to carry out the provisions of this subchapter” for “for each of the fiscal years 1999 and 2000 to carry out the provisions of this subchapter.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–271, § 2, Dec. 18, 2014, 128 Stat. 2951, provided that: “The amendments made by this Act [amending this section and section 6436 of this title] shall take effect as if enacted on December 10, 2014.”
+Pub. L. 113–271, § 2, Dec. 18, 2014, 128 Stat. 2951, provided that: “The amendments made by this Act [amending this section and section 6436 of this title] shall take effect as if enacted on December 10, 2014.”
 
-### § 6435a. Standards of conduct and disclosure
+### § 6435a. Standards of conduct and disclosure
 
 **(a) Cooperation with nongovernmental organizations, the Department of State, and Congress**
 
@@ -1207,7 +1207,7 @@ Notwithstanding subparagraph (A), the Commission shall not give special preferen
 
 **(A)** an individual who holds the position of officer, trustee, partner, director, or employee of an agency, project, or person of which that member, or relative of that member of,1
 
-<sup>1</sup>  So in original. The comma probably should follow “member”.
+<sup>1</sup> So in original. The comma probably should follow “member”.
 
 the Commission is an officer, trustee, partner, director, or employee; or
 
@@ -1221,9 +1221,9 @@ Subject to the availability of appropriations, the Commission may contract with 
 
 **(2) Expert study**
 
-In the case of a study requested under section 6474 2
+In the case of a study requested under section 6474 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title, the Commission may, subject to the availability of appropriations, contract with experts and shall provide the funds for such a study. The Commission shall not be required to provide the funds for that part of the study conducted by the Comptroller General of the United States.
 
@@ -1261,31 +1261,31 @@ The Commission shall comply with all of the records management requirements set 
 
 When conducting any Commission business on electronic accounts, Commission Members and staff shall use official Commission electronic accounts.
 
-(Pub. L. 105–292, title II, § 208, as added Pub. L. 106–55, § 1(b)(5), Aug. 17, 1999, 113 Stat. 403; amended Pub. L. 107–228, div. A, title VI, § 681(f), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 112–75, § 5, Dec. 23, 2011, 125 Stat. 1273; Pub. L. 116–94, div. J, title VIII, § 809, Dec. 20, 2019, 133 Stat. 3079.)
+(Pub. L. 105–292, title II, § 208, as added Pub. L. 106–55, § 1(b)(5), Aug. 17, 1999, 113 Stat. 403; amended Pub. L. 107–228, div. A, title VI, § 681(f), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 112–75, § 5, Dec. 23, 2011, 125 Stat. 1273; Pub. L. 116–94, div. J, title VIII, § 809, Dec. 20, 2019, 133 Stat. 3079.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 6474 of this title, referred to in subsec. (c)(2), was in the original a reference to section 605 of Pub. L. 105–292, which was renumbered section 606 by Pub. L. 114–281, title V, § 501(1), Dec. 16, 2016, 130 Stat. 1437.
+Section 6474 of this title, referred to in subsec. (c)(2), was in the original a reference to section 605 of Pub. L. 105–292, which was renumbered section 606 by Pub. L. 114–281, title V, § 501(1), Dec. 16, 2016, 130 Stat. 1437.
 
-The Foreign Gifts and Decorations Act of 1966, referred to in subsec. (d)(2)(E), is Pub. L. 89–673, Oct. 15, 1966, 80 Stat. 952, which was classified principally to chapter 37 (§ 2621 et seq.) of this title. The Act was substantially repealed, except for provisions which are classified to section 2625 of this title, and with limited applicability, to section 2621 of this title, and was restated in section 7342 of Title 5, Government Organization and Employees, by Pub. L. 90–83, § 10(b), Sept. 11, 1967, 91 Stat. 224. For complete classification of this Act to the Code, see Tables.
+The Foreign Gifts and Decorations Act of 1966, referred to in subsec. (d)(2)(E), is Pub. L. 89–673, Oct. 15, 1966, 80 Stat. 952, which was classified principally to chapter 37 (§ 2621 et seq.) of this title. The Act was substantially repealed, except for provisions which are classified to section 2625 of this title, and with limited applicability, to section 2621 of this title, and was restated in section 7342 of Title 5, Government Organization and Employees, by Pub. L. 90–83, § 10(b), Sept. 11, 1967, 91 Stat. 224. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
 2019—Subsecs. (f), (g). Pub. L. 116–94 added subsecs. (f) and (g).
 
-2011—Subsec. (c)(1). Pub. L. 112–75, § 5(1), substituted “$250,000” for “$100,000”.
+2011—Subsec. (c)(1). Pub. L. 112–75, § 5(1), substituted “$250,000” for “$100,000”.
 
-Subsec. (e). Pub. L. 112–75, § 5(2), substituted “Foreign Affairs” for “International Relations”.
+Subsec. (e). Pub. L. 112–75, § 5(2), substituted “Foreign Affairs” for “International Relations”.
 
 2002—Subsec. (c)(1). Pub. L. 107–228 substituted “The Commission may procure temporary and intermittent services under the authority of section 3109(b) of title 5, except that the Commission may not expend more than $100,000 in any fiscal year to procure such services.” for “The Commission may not procure temporary and intermittent services under section 3109(b) of title 5 or under other contracting authority other than that allowed under this subchapter.”
 
-### § 6436. Termination
+### § 6436. Termination
 
 The Commission shall terminate on September 30, 2026.
 
-(Pub. L. 105–292, title II, § 209, formerly § 206, Oct. 27, 1998, 112 Stat. 2800; renumbered § 209 and amended Pub. L. 106–55, § 1(b)(2), (c), Aug. 17, 1999, 113 Stat. 401, 405; Pub. L. 107–228, div. A, title VI, § 681(g), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 112–75, § 6, Dec. 23, 2011, 125 Stat. 1273; Pub. L. 113–271, § 1(2), Dec. 18, 2014, 128 Stat. 2951; Pub. L. 114–71, § 3, Oct. 16, 2015, 129 Stat. 563; Pub. L. 116–94, div. J, title VIII, § 802, Dec. 20, 2019, 133 Stat. 3076; Pub. L. 117–181, § 2(b), Sept. 30, 2022, 136 Stat. 2177; Pub. L. 118–90, § 2(b), Sept. 30, 2024, 138 Stat. 1559.)
+(Pub. L. 105–292, title II, § 209, formerly § 206, Oct. 27, 1998, 112 Stat. 2800; renumbered § 209 and amended Pub. L. 106–55, § 1(b)(2), (c), Aug. 17, 1999, 113 Stat. 401, 405; Pub. L. 107–228, div. A, title VI, § 681(g), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 112–75, § 6, Dec. 23, 2011, 125 Stat. 1273; Pub. L. 113–271, § 1(2), Dec. 18, 2014, 128 Stat. 2951; Pub. L. 114–71, § 3, Oct. 16, 2015, 129 Stat. 563; Pub. L. 116–94, div. J, title VIII, § 802, Dec. 20, 2019, 133 Stat. 3076; Pub. L. 117–181, § 2(b), Sept. 30, 2022, 136 Stat. 2177; Pub. L. 118–90, § 2(b), Sept. 30, 2024, 138 Stat. 1559.)
 
 **Editorial Notes**
 
@@ -1305,7 +1305,7 @@ The Commission shall terminate on September 30, 2026.
 
 2002—Pub. L. 107–228 substituted “September 30, 2011” for “May 14, 2003”.
 
-1999—Pub. L. 106–55, § 1(c), which directed substitution of “on May 14, 2003” for “4 years after the initial appointment of all the Commissioners”, was executed by making the substitution for “4 years after the initial appointment of all of the Commissioners”, to reflect the probable intent of Congress.
+1999—Pub. L. 106–55, § 1(c), which directed substitution of “on May 14, 2003” for “4 years after the initial appointment of all the Commissioners”, was executed by making the substitution for “4 years after the initial appointment of all of the Commissioners”, to reflect the probable intent of Congress.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1315,13 +1315,13 @@ Amendment by Pub. L. 113–271 effective as if enacted on Dec. 10, 2014, see sec
 
 **Extension of Termination Date**
 
-Pub. L. 112–74, div. I, title I, Dec. 23, 2011, 125 Stat. 1173, provided in part: “That section 209 of the International Religious Freedom Act of 1998 (22 U.S.C. 6436) shall be applied by substituting ‘September 30, 2012’ for ‘September 30, 2011’ ”.
+Pub. L. 112–74, div. I, title I, Dec. 23, 2011, 125 Stat. 1173, provided in part: “That section 209 of the International Religious Freedom Act of 1998 (22 U.S.C. 6436) shall be applied by substituting ‘September 30, 2012’ for ‘September 30, 2011’ ”.
 
 ## SUBCHAPTER III—PRESIDENTIAL ACTIONS
 
 ### Part A—Targeted Responses to Violations of Religious Freedom Abroad
 
-#### § 6441. Presidential actions in response to violations of religious freedom
+#### § 6441. Presidential actions in response to violations of religious freedom
 
 **(a) Response to violations of religious freedom**
 
@@ -1375,7 +1375,7 @@ The President may delay action under paragraph (2) described in any of paragraph
 
 **(B)** the humanitarian activities of United States and foreign nongovernmental organizations in such country.
 
-(Pub. L. 105–292, title IV, § 401, Oct. 27, 1998, 112 Stat. 2800.)
+(Pub. L. 105–292, title IV, § 401, Oct. 27, 1998, 112 Stat. 2800.)
 
 **Executive Documents**
 
@@ -1395,7 +1395,7 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 William J. Clinton.
 
-#### § 6442. Presidential actions in response to particularly severe violations of religious freedom
+#### § 6442. Presidential actions in response to particularly severe violations of religious freedom
 
 **(a) Response to particularly severe violations of religious freedom**
 
@@ -1503,7 +1503,7 @@ At the time the President determines a country to be a country of particular con
 
 A determination under this chapter, or any amendment made by this chapter, that a foreign country has engaged in or tolerated particularly severe violations of religious freedom shall not be construed to require the termination of assistance or other activities with respect to that country under any other provision of law, including section 2151n or 2304 of this title.
 
-(Pub. L. 105–292, title IV, § 402, Oct. 27, 1998, 112 Stat. 2802; Pub. L. 106–55, § 2(a), Aug. 17, 1999, 113 Stat. 405; Pub. L. 114–281, title III, § 302, Dec. 16, 2016, 130 Stat. 1434.)
+(Pub. L. 105–292, title IV, § 402, Oct. 27, 1998, 112 Stat. 2802; Pub. L. 106–55, § 2(a), Aug. 17, 1999, 113 Stat. 405; Pub. L. 114–281, title III, § 302, Dec. 16, 2016, 130 Stat. 1434.)
 
 **Editorial Notes**
 
@@ -1515,27 +1515,27 @@ This chapter, referred to in subsecs. (c)(4) and (d), was in the original “thi
 
 **Amendments**
 
-2016—Subsec. (b)(1)(A). Pub. L. 114–281, § 302(1)(A)(i), amended subpar. (A) generally. Prior to amendment, text read as follows: “Not later than September 1 of each year, the President shall review the status of religious freedom in each foreign country to determine whether the government of that country has engaged in or tolerated particularly severe violations of religious freedom in that country during the preceding 12 months or since the date of the last review of that country under this subparagraph, whichever period is longer. The President shall designate each country the government of which has engaged in or tolerated violations described in this subparagraph as a country of particular concern for religious freedom.”
+2016—Subsec. (b)(1)(A). Pub. L. 114–281, § 302(1)(A)(i), amended subpar. (A) generally. Prior to amendment, text read as follows: “Not later than September 1 of each year, the President shall review the status of religious freedom in each foreign country to determine whether the government of that country has engaged in or tolerated particularly severe violations of religious freedom in that country during the preceding 12 months or since the date of the last review of that country under this subparagraph, whichever period is longer. The President shall designate each country the government of which has engaged in or tolerated violations described in this subparagraph as a country of particular concern for religious freedom.”
 
-Subsec. (b)(1)(C). Pub. L. 114–281, § 302(1)(A)(ii), substituted “before the date on which each Annual Report is submitted under section 6412(b) of this title” for “prior to September 1 of the respective year”.
+Subsec. (b)(1)(C). Pub. L. 114–281, § 302(1)(A)(ii), substituted “before the date on which each Annual Report is submitted under section 6412(b) of this title” for “prior to September 1 of the respective year”.
 
-Subsec. (b)(3). Pub. L. 114–281, § 302(1)(B), amended par. (3) generally. Prior to amendment, text read as follows: “Whenever the President designates a country as a country of particular concern for religious freedom under paragraph (1)(A), the President shall, as soon as practicable after the designation is made, transmit to the appropriate congressional committees—
+Subsec. (b)(3). Pub. L. 114–281, § 302(1)(B), amended par. (3) generally. Prior to amendment, text read as follows: “Whenever the President designates a country as a country of particular concern for religious freedom under paragraph (1)(A), the President shall, as soon as practicable after the designation is made, transmit to the appropriate congressional committees—
 
 “(A) the designation of the country, signed by the President; and
 
 “(B) the identification, if any, of responsible parties determined under paragraph (2).”
 
-Subsec. (b)(4). Pub. L. 114–281, § 302(1)(C), added par. (4).
+Subsec. (b)(4). Pub. L. 114–281, § 302(1)(C), added par. (4).
 
-Subsec. (c)(5). Pub. L. 114–281, § 302(2), substituted “the President shall designate the specific sanction or sanctions that the President determines satisfy the requirements under this subsection and include a description of the impact of such sanction or sanctions on each country.” for “the President must designate the specific sanction or sanctions which he determines satisfy the requirements of this subsection.”
+Subsec. (c)(5). Pub. L. 114–281, § 302(2), substituted “the President shall designate the specific sanction or sanctions that the President determines satisfy the requirements under this subsection and include a description of the impact of such sanction or sanctions on each country.” for “the President must designate the specific sanction or sanctions which he determines satisfy the requirements of this subsection.”
 
-1999—Subsec. (c)(1). Pub. L. 106–55, § 2(a)(1), substituted “(4), and (5)” for “and (4)” in introductory provisions.
+1999—Subsec. (c)(1). Pub. L. 106–55, § 2(a)(1), substituted “(4), and (5)” for “and (4)” in introductory provisions.
 
-Subsec. (c)(4). Pub. L. 106–55, § 2(a)(2)(A), inserted “under this chapter” after “Exception for ongoing Presidential action” in heading.
+Subsec. (c)(4). Pub. L. 106–55, § 2(a)(2)(A), inserted “under this chapter” after “Exception for ongoing Presidential action” in heading.
 
-Subsec. (c)(4)(B) to (D), (5). Pub. L. 106–55, § 2(a)(2)(B)–(D), inserted “and” at end of subpar. (B), substituted period for “; and” at end of subpar. (C), redesignated subpar. (D) as par. (5), inserted par. heading, and substituted “At the time” for “at the time”.
+Subsec. (c)(4)(B) to (D), (5). Pub. L. 106–55, § 2(a)(2)(B)–(D), inserted “and” at end of subpar. (B), substituted period for “; and” at end of subpar. (C), redesignated subpar. (D) as par. (5), inserted par. heading, and substituted “At the time” for “at the time”.
 
-#### § 6442a. Non-state actor designations
+#### § 6442a. Non-state actor designations
 
 **(a) In general** The President, concurrent with the annual foreign country review required under section 402(b)(1)(A) of the International Religious Freedom Act of 1998 (22 U.S.C. 6442(b)(1)(A)), shall—
 
@@ -1575,7 +1575,7 @@ In order to appropriately target Presidential actions under the International Re
 
 In this section, the terms “appropriate congressional committees”, “non-state actor”, and “particularly severe violations of religious freedom” have the meanings given such terms in section 3 of the International Religious Freedom Act of 1998 (22 U.S.C. 6402), as amended by section 3 of this Act.
 
-(Pub. L. 114–281, title III, § 301, Dec. 16, 2016, 130 Stat. 1433.)
+(Pub. L. 114–281, title III, § 301, Dec. 16, 2016, 130 Stat. 1433.)
 
 **Editorial Notes**
 
@@ -1605,7 +1605,7 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 Donald J. Trump.
 
-#### § 6443. Consultations
+#### § 6443. Consultations
 
 **(a) In general**
 
@@ -1635,9 +1635,9 @@ The President should consult with appropriate humanitarian and religious organiz
 
 The President shall, as appropriate, consult with United States interested parties as to the potential impact of intended Presidential action or actions in countries described in subsection (a) on economic or other interests of the United States.
 
-(Pub. L. 105–292, title IV, § 403, Oct. 27, 1998, 112 Stat. 2804.)
+(Pub. L. 105–292, title IV, § 403, Oct. 27, 1998, 112 Stat. 2804.)
 
-#### § 6444. Report to Congress
+#### § 6444. Report to Congress
 
 **(a) In general** Subject to subsection (b), not later than 90 days after the President decides to take action under section 6441 of this title in response to violations of religious freedom and the President decides to take action under paragraphs (9) through (15) of section 6445(a) of this title (or commensurate action in substitution thereto) with respect to that country, or not later than 90 days after the President designates a country as a country of particular concern for religious freedom under section 6442 of this title, as the case may be, the President shall submit a report to Congress containing the following:
 
@@ -1681,7 +1681,7 @@ A description of multilateral negotiations sought or carried out, if appropriate
 
 If, on or before the date that the President is required (but for this subsection) to submit a report under subsection (a) to Congress, the President determines and certifies to Congress that a single, additional period of time not to exceed 90 days is necessary pursuant to section 6441(b)(3) or 6442(c)(3) of this title, then the President shall not be required to submit the report to Congress until the expiration of that period of time.
 
-(Pub. L. 105–292, title IV, § 404, Oct. 27, 1998, 112 Stat. 2805; Pub. L. 114–281, title III, § 303, Dec. 16, 2016, 130 Stat. 1435.)
+(Pub. L. 105–292, title IV, § 404, Oct. 27, 1998, 112 Stat. 2805; Pub. L. 114–281, title III, § 303, Dec. 16, 2016, 130 Stat. 1435.)
 
 **Editorial Notes**
 
@@ -1689,7 +1689,7 @@ If, on or before the date that the President is required (but for this subsectio
 
 2016—Subsec. (a)(4)(A)(iv). Pub. L. 114–281 added cl. (iv).
 
-#### § 6445. Description of Presidential actions
+#### § 6445. Description of Presidential actions
 
 **(a) Description of Presidential actions** Except as provided in subsection (d), the Presidential actions referred to in this subsection are the following:
 
@@ -1743,17 +1743,17 @@ The President may negotiate and enter into a binding agreement with a foreign go
 
 Any action taken pursuant to subsection (a) or (b) may not prohibit or restrict the provision of medicine, medical equipment or supplies, food, or other humanitarian assistance.
 
-(Pub. L. 105–292, title IV, § 405, Oct. 27, 1998, 112 Stat. 2806; Pub. L. 115–254, div. F, title VI, § 1470(*o*), Oct. 5, 2018, 132 Stat. 3518.)
+(Pub. L. 105–292, title IV, § 405, Oct. 27, 1998, 112 Stat. 2806; Pub. L. 115–254, div. F, title VI, § 1470(*o*), Oct. 5, 2018, 132 Stat. 3518.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Export Administration Act of 1979, referred to in subsec. (a)(13)(A), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
+The Export Administration Act of 1979, referred to in subsec. (a)(13)(A), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
 
-The Arms Export Control Act, referred to in subsec. (a)(13)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (a)(13)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The Atomic Energy Act of 1954, referred to in subsec. (a)(13)(C), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (a)(13)(C), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 **Amendments**
 
@@ -1765,7 +1765,7 @@ The Atomic Energy Act of 1954, referred to in subsec. (a)(13)(C), is act Aug. 1,
 
 Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in section 9681 of this title, see section 1470(w) of Pub. L. 115–254, set out as a note under section 905 of Title 2, The Congress.
 
-#### § 6446. Effects on existing contracts
+#### § 6446. Effects on existing contracts
 
 The President shall not be required to apply or maintain any Presidential action under this part—
 
@@ -1779,9 +1779,9 @@ The President shall not be required to apply or maintain any Presidential action
 
 **(2)** to products or services provided under contracts entered into before the date on which the President publishes his intention to take the Presidential action.
 
-(Pub. L. 105–292, title IV, § 406, Oct. 27, 1998, 112 Stat. 2808.)
+(Pub. L. 105–292, title IV, § 406, Oct. 27, 1998, 112 Stat. 2808.)
 
-#### § 6447. Presidential waiver
+#### § 6447. Presidential waiver
 
 **(a) In general** Subject to subsection (c), the President may waive, for a single, 180-day period, the application of any of the actions described in paragraphs (9) through (15) of section 6445(a) of this title (or commensurate action in substitution thereto) with respect to a country, if the President determines and so reports to the appropriate congressional committees that—
 
@@ -1805,7 +1805,7 @@ Not later than the date of the exercise of a waiver under subsection (a) or (b),
 
 **(2)** because the promotion of religious freedom is an important interest of United States foreign policy, the President, the Secretary of State, and other executive branch officials, in consultation with Congress, should seek to find ways to address existing violations, on a case-by-case basis, through the actions described in section 6445 of this title or other commensurate substitute action.
 
-(Pub. L. 105–292, title IV, § 407, Oct. 27, 1998, 112 Stat. 2808; Pub. L. 114–281, title III, § 304, Dec. 16, 2016, 130 Stat. 1435.)
+(Pub. L. 105–292, title IV, § 407, Oct. 27, 1998, 112 Stat. 2808; Pub. L. 114–281, title III, § 304, Dec. 16, 2016, 130 Stat. 1435.)
 
 **Editorial Notes**
 
@@ -1815,17 +1815,17 @@ This chapter, referred to in subsecs. (a)(1) and (d)(1), was in the original “
 
 **Amendments**
 
-2016—Subsec. (a). Pub. L. 114–281, § 304(1)(A), (B), in introductory provisions, substituted “subsection (c)” for “subsection (b)” and inserted “, for a single, 180-day period,” after “may waive”.
+2016—Subsec. (a). Pub. L. 114–281, § 304(1)(A), (B), in introductory provisions, substituted “subsection (c)” for “subsection (b)” and inserted “, for a single, 180-day period,” after “may waive”.
 
-Subsec. (a)(1) to (3). Pub. L. 114–281, § 304(1)(C), (D), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “the respective foreign government has ceased the violations giving rise to the Presidential action;”.
+Subsec. (a)(1) to (3). Pub. L. 114–281, § 304(1)(C), (D), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “the respective foreign government has ceased the violations giving rise to the Presidential action;”.
 
-Subsec. (b). Pub. L. 114–281, § 304(3), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 114–281, § 304(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 114–281, § 304(2), (4), redesignated subsec. (b) as (c) and inserted “or (b)” after “subsection (a)”.
+Subsec. (c). Pub. L. 114–281, § 304(2), (4), redesignated subsec. (b) as (c) and inserted “or (b)” after “subsection (a)”.
 
-Subsec. (d). Pub. L. 114–281, § 304(5), added subsec. (d).
+Subsec. (d). Pub. L. 114–281, § 304(5), added subsec. (d).
 
-#### § 6448. Publication in Federal Register
+#### § 6448. Publication in Federal Register
 
 **(a) In general** Subject to subsection (b), the President shall cause to be published in the Federal Register the following:
 
@@ -1851,7 +1851,7 @@ Any waiver under section 6447 of this title.
 
 **(2)** would not further the purposes of this chapter.
 
-(Pub. L. 105–292, title IV, § 408, Oct. 27, 1998, 112 Stat. 2808; Pub. L. 114–281, title III, § 305, Dec. 16, 2016, 130 Stat. 1436.)
+(Pub. L. 105–292, title IV, § 408, Oct. 27, 1998, 112 Stat. 2808; Pub. L. 114–281, title III, § 305, Dec. 16, 2016, 130 Stat. 1436.)
 
 **Editorial Notes**
 
@@ -1863,7 +1863,7 @@ This chapter, referred to in subsec. (b)(2), was in the original “this Act”,
 
 2016—Subsec. (a)(1). Pub. L. 114–281 inserted at end “Any designation of a non-state actor as an entity of particular concern for religious freedom under section 6442a of this title and, if applicable and to the extent practicable, the identities of individuals determined to be responsible for violations described in subsection (f) of such section.”
 
-#### § 6449. Termination of Presidential actions
+#### § 6449. Termination of Presidential actions
 
 Any Presidential action taken under this chapter with respect to a foreign country shall terminate on the earlier of the following dates:
 
@@ -1875,7 +1875,7 @@ Within 2 years of the effective date of the Presidential action unless expressly
 
 Upon the determination by the President, in consultation with the Commission, and certification to Congress that the foreign government has ceased or taken substantial and verifiable steps to cease the particularly severe violations of religious freedom.
 
-(Pub. L. 105–292, title IV, § 409, Oct. 27, 1998, 112 Stat. 2809.)
+(Pub. L. 105–292, title IV, § 409, Oct. 27, 1998, 112 Stat. 2809.)
 
 **Editorial Notes**
 
@@ -1883,11 +1883,11 @@ Upon the determination by the President, in consultation with the Commission, an
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, known as the International Religious Freedom Act of 1998, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6401 of this title and Tables.
 
-#### § 6450. Preclusion of judicial review
+#### § 6450. Preclusion of judicial review
 
 No court shall have jurisdiction to review any Presidential determination or agency action under this chapter or any amendment made by this chapter.
 
-(Pub. L. 105–292, title IV, § 410, Oct. 27, 1998, 112 Stat. 2809.)
+(Pub. L. 105–292, title IV, § 410, Oct. 27, 1998, 112 Stat. 2809.)
 
 **Editorial Notes**
 
@@ -1897,13 +1897,13 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 ### Part B—Strengthening Existing Law
 
-#### § 6461. Exports of certain items used in particularly severe violations of religious freedom
+#### § 6461. Exports of certain items used in particularly severe violations of religious freedom
 
 **(a) Mandatory licensing**
 
-Notwithstanding any other provision of law, the Secretary of Commerce, with the concurrence of the Secretary of State, shall include on the list of crime control and detection instruments or equipment controlled for export and reexport under section 4605(n) 1
+Notwithstanding any other provision of law, the Secretary of Commerce, with the concurrence of the Secretary of State, shall include on the list of crime control and detection instruments or equipment controlled for export and reexport under section 4605(n) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 50 or under any other provision of law, items being exported or reexported to countries of particular concern for religious freedom that the Secretary of Commerce, with the concurrence of the Secretary of State, and in consultation with appropriate officials including the Assistant Secretary of State for Democracy, Human Rights and Labor and the Ambassador at Large, determines are being used or are intended for use directly and in significant measure to carry out particularly severe violations of religious freedom.
 
@@ -1911,21 +1911,21 @@ of title 50 or under any other provision of law, items being exported or reexpor
 
 The prohibition on the issuance of a license for export of crime control and detection instruments or equipment under section 2304(a)(2) of this title shall apply to the export and reexport of any item included pursuant to subsection (a) on the list of crime control instruments.
 
-(Pub. L. 105–292, title IV, § 423, Oct. 27, 1998, 112 Stat. 2810.)
+(Pub. L. 105–292, title IV, § 423, Oct. 27, 1998, 112 Stat. 2810.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4605(n) of title 50, referred to in subsec. (a), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+Section 4605(n) of title 50, referred to in subsec. (a), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 ## SUBCHAPTER IV—REFUGEE, ASYLUM, AND CONSULAR MATTERS
 
-### § 6471. Use of Annual Report
+### § 6471. Use of Annual Report
 
 The Annual Report, together with other relevant documentation, shall serve as a resource for immigration judges and consular, refugee, and asylum officers in cases involving claims of persecution on the grounds of religion. Absence of reference by the Annual Report to conditions described by the alien shall not constitute the sole grounds for a denial of the alien’s claim.
 
-(Pub. L. 105–292, title VI, § 601, Oct. 27, 1998, 112 Stat. 2812.)
+(Pub. L. 105–292, title VI, § 601, Oct. 27, 1998, 112 Stat. 2812.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1933,7 +1933,7 @@ The Annual Report, together with other relevant documentation, shall serve as a 
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
-### § 6472. Reform of refugee policy
+### § 6472. Reform of refugee policy
 
 **(a) , (b) Omitted**
 
@@ -1955,7 +1955,7 @@ Not later than 120 days after November 29, 1999, the Secretary of State (after c
 
 The President shall include in each annual report on proposed refugee admissions under section 1157(d) of title 8 information about religious persecution of refugee populations eligible for consideration for admission to the United States. The Secretary of State shall include information on religious persecution of refugee populations in the formal testimony presented to the Committees on the Judiciary of the House of Representatives and the Senate during the consultation process under section 1157(e) of title 8.
 
-(Pub. L. 105–292, title VI, § 602, Oct. 27, 1998, 112 Stat. 2812; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 253], Nov. 29, 1999, 113 Stat. 1536, 1501A–432.)
+(Pub. L. 105–292, title VI, § 602, Oct. 27, 1998, 112 Stat. 2812; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 253], Nov. 29, 1999, 113 Stat. 1536, 1501A–432.)
 
 **Editorial Notes**
 
@@ -1965,9 +1965,9 @@ Section is comprised of section 602 of Pub. L. 105–292. Subsec. (a) of section
 
 **Amendments**
 
-1999—Subsec. (c)(1). Pub. L. 106–113, § 1000(a)(7) [div. A, title II, § 253(a)], inserted “and of the Department of State” after “Service”.
+1999—Subsec. (c)(1). Pub. L. 106–113, § 1000(a)(7) [div. A, title II, § 253(a)], inserted “and of the Department of State” after “Service”.
 
-Subsec. (c)(3). Pub. L. 106–113, § 1000(a)(7) [div. A, title II, § 253(b)], added par. (3).
+Subsec. (c)(3). Pub. L. 106–113, § 1000(a)(7) [div. A, title II, § 253(b)], added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1975,7 +1975,7 @@ Subsec. (c)(3). Pub. L. 106–113, § 1000(a)(7) [div. A, title II, § 253(b
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
-### § 6473. Reform of asylum policy
+### § 6473. Reform of asylum policy
 
 **(a) Guidelines**
 
@@ -1989,7 +1989,7 @@ The Attorney General, in consultation with the Secretary of State, the Ambassado
 
 The Executive Office of Immigration Review of the Department of Justice shall incorporate into its initial and ongoing training of immigration judges training on the extent and nature of religious persecution internationally, including country-specific conditions, and including use of the Annual Report. Such training shall include governmental and nongovernmental methods of persecution employed, and differences in the treatment of religious groups by such persecuting entities.
 
-(Pub. L. 105–292, title VI, § 603, Oct. 27, 1998, 112 Stat. 2813; Pub. L. 107–132, § 1(b), Jan. 16, 2002, 115 Stat. 2412.)
+(Pub. L. 105–292, title VI, § 603, Oct. 27, 1998, 112 Stat. 2813; Pub. L. 107–132, § 1(b), Jan. 16, 2002, 115 Stat. 2412.)
 
 **Editorial Notes**
 
@@ -2003,7 +2003,7 @@ The Executive Office of Immigration Review of the Department of Justice shall in
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
-### § 6473a. Designated persons list for particularly severe violations of religious freedom
+### § 6473a. Designated persons list for particularly severe violations of religious freedom
 
 **(a) List**
 
@@ -2049,7 +2049,7 @@ The report required under paragraph (1) should be submitted in unclassified form
 
 **(F)** the Committee on Financial Services of the House of Representatives.
 
-(Pub. L. 105–292, title VI, § 605, as added Pub. L. 114–281, title V, § 501(2), Dec. 16, 2016, 130 Stat. 1437.)
+(Pub. L. 105–292, title VI, § 605, as added Pub. L. 114–281, title V, § 501(2), Dec. 16, 2016, 130 Stat. 1437.)
 
 **Editorial Notes**
 
@@ -2061,7 +2061,7 @@ This chapter, referred to in subsec. (b)(1)(C), was in the original “this Act�
 
 A prior section 605 of Pub. L. 105–292 was renumbered section 606 and is classified to section 6474 of this title.
 
-### § 6474. Studies on effect of expedited removal provisions on asylum claims
+### § 6474. Studies on effect of expedited removal provisions on asylum claims
 
 **(a) Studies**
 
@@ -2099,7 +2099,7 @@ Except as provided in paragraph (2), to facilitate the studies and reports, the 
 
 Paragraph (1) shall not apply in cases in which the alien objects to such access, or the Attorney General determines that the security of a particular proceeding would be threatened by such access, so long as any restrictions on the access of experts designated by the Commission under subsection (a) do not contravene international law.
 
-(Pub. L. 105–292, title VI, § 606, formerly § 605, Oct. 27, 1998, 112 Stat. 2814; renumbered § 606, Pub. L. 114–281, title V, § 501(1), Dec. 16, 2016, 130 Stat. 1437.)
+(Pub. L. 105–292, title VI, § 606, formerly § 605, Oct. 27, 1998, 112 Stat. 2814; renumbered § 606, Pub. L. 114–281, title V, § 501(1), Dec. 16, 2016, 130 Stat. 1437.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2109,7 +2109,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 ## SUBCHAPTER V—MISCELLANEOUS PROVISIONS
 
-### § 6481. Business codes of conduct
+### § 6481. Business codes of conduct
 
 **(a) Congressional finding**
 
@@ -2121,9 +2121,9 @@ Congress recognizes the increasing importance of transnational corporations as g
 
 **(2)** ensuring that a worker’s religious views and peaceful practices of belief in no way affect, or be allowed to affect, the status or terms of his or her employment.
 
-(Pub. L. 105–292, title VII, § 701, Oct. 27, 1998, 112 Stat. 2815.)
+(Pub. L. 105–292, title VII, § 701, Oct. 27, 1998, 112 Stat. 2815.)
 
-### § 6482. Voluntary codes of conduct for United States institutions of higher education outside the United States
+### § 6482. Voluntary codes of conduct for United States institutions of higher education outside the United States
 
 **(a) Finding** Congress recognizes the enduring importance of United States institutions of higher education worldwide—
 
@@ -2139,9 +2139,9 @@ Congress recognizes the increasing importance of transnational corporations as g
 
 **(3)** make every effort in all negotiations, contracts, or memoranda of understanding engaged in or constructed with a foreign government to protect academic freedom and the rights enshrined in the United Nations Declaration of Human Rights.
 
-(Pub. L. 105–292, title VII, § 702, as added Pub. L. 114–281, title VI, § 601, Dec. 16, 2016, 130 Stat. 1438.)
+(Pub. L. 105–292, title VII, § 702, as added Pub. L. 114–281, title VI, § 601, Dec. 16, 2016, 130 Stat. 1438.)
 
-### § 6483. Sense of Congress regarding national security strategy to promote religious freedom through United States foreign policy
+### § 6483. Sense of Congress regarding national security strategy to promote religious freedom through United States foreign policy
 
 It is the sense of Congress that the annual national security strategy report of the President required under section 3043 of title 50—
 
@@ -2155,16 +2155,16 @@ It is the sense of Congress that the annual national security strategy report of
 
 **(3)** should be a guide for the strategies and activities of relevant Federal agencies; and
 
-**(4)** should inform the Department of Defense quadrennial defense review under section 118 1
+**(4)** should inform the Department of Defense quadrennial defense review under section 118 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 10 and the Department of State Quadrennial Diplomacy and Development Review.
 
-(Pub. L. 105–292, title VII, § 703, as added Pub. L. 114–281, title VI, § 601, Dec. 16, 2016, 130 Stat. 1439.)
+(Pub. L. 105–292, title VII, § 703, as added Pub. L. 114–281, title VI, § 601, Dec. 16, 2016, 130 Stat. 1439.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 118 of title 10, referred to in par. (4), was repealed by Pub. L. 114–328, div. A, title IX, § 941(b)(1), Dec. 23, 2016, 130 Stat. 2367. Subsequently, a new section 118 of Title 10, Armed Forces, related to annual report on major weapons systems sustainment, was added by Pub. L. 116–92, div. A, title III, § 351(a)(1), Dec. 20, 2019, 133 Stat. 1319. For provisions related to national defense strategy similar to those contained in former section 118 of Title 10 prior to repeal, see section 113(g) of Title 10.
+Section 118 of title 10, referred to in par. (4), was repealed by Pub. L. 114–328, div. A, title IX, § 941(b)(1), Dec. 23, 2016, 130 Stat. 2367. Subsequently, a new section 118 of Title 10, Armed Forces, related to annual report on major weapons systems sustainment, was added by Pub. L. 116–92, div. A, title III, § 351(a)(1), Dec. 20, 2019, 133 Stat. 1319. For provisions related to national defense strategy similar to those contained in former section 118 of Title 10 prior to repeal, see section 113(g) of Title 10.

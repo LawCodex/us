@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 40—SOIL AND WATER RESOURCES CONSERVATION
 
-## § 2001. Congressional findings
+## § 2001. Congressional findings
 
 The Congress finds that:
 
@@ -27,7 +27,7 @@ The Congress finds that:
 
 **(4)** Since individual and governmental decisions concerning soil and water resources often transcend administrative boundaries and affect other programs and decisions, a coordinated appraisal and program framework are essential.
 
-(Pub. L. 95–192, § 2, Nov. 18, 1977, 91 Stat. 1407; Pub. L. 103–354, title II, § 246(f)(2)(A), Oct. 13, 1994, 108 Stat. 3225; Pub. L. 110–234, title II, § 2804(a), May 22, 2008, 122 Stat. 1086; Pub. L. 110–246, § 4(a), title II, § 2804(a), June 18, 2008, 122 Stat. 1664, 1814.)
+(Pub. L. 95–192, § 2, Nov. 18, 1977, 91 Stat. 1407; Pub. L. 103–354, title II, § 246(f)(2)(A), Oct. 13, 1994, 108 Stat. 3225; Pub. L. 110–234, title II, § 2804(a), May 22, 2008, 122 Stat. 1086; Pub. L. 110–246, § 4(a), title II, § 2804(a), June 18, 2008, 122 Stat. 1664, 1814.)
 
 **Editorial Notes**
 
@@ -37,11 +37,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Par. (2). Pub. L. 110–246, § 2804(a)(1), substituted “base of the” for “base, of the”.
+2008—Par. (2). Pub. L. 110–246, § 2804(a)(1), substituted “base of the” for “base, of the”.
 
-Pars. (3), (4). Pub. L. 110–246, § 2804(a)(2), added par. (3), redesignated former par. (3) as (4), and struck out “Resource appraisal is basic to effective soil and water conservation.” before “Since individual”.
+Pars. (3), (4). Pub. L. 110–246, § 2804(a)(2), added par. (3), redesignated former par. (3) as (4), and struck out “Resource appraisal is basic to effective soil and water conservation.” before “Since individual”.
 
-1994—Par. (2). Pub. L. 103–354 struck out “created the Soil Conservation Service” after “resource base,” and substituted “, has ensured that the Department of Agriculture” for “Department of Agriculture which” after “United States”.
+1994—Par. (2). Pub. L. 103–354 struck out “created the Soil Conservation Service” after “resource base,” and substituted “, has ensured that the Department of Agriculture” for “Department of Agriculture which” after “United States”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -51,9 +51,9 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Short Title**
 
-Pub. L. 95–192, § 1, Nov. 18, 1977, 91 Stat. 1407, provided: “That this Act [enacting this chapter] may be cited as the ‘Soil and Water Resources Conservation Act of 1977’.”
+Pub. L. 95–192, § 1, Nov. 18, 1977, 91 Stat. 1407, provided: “That this Act [enacting this chapter] may be cited as the ‘Soil and Water Resources Conservation Act of 1977’.”
 
-## § 2002. Definitions
+## § 2002. Definitions
 
 As used in this chapter:
 
@@ -63,7 +63,7 @@ As used in this chapter:
 
 **(3)** The term “soil and water conservation program” means a set of guidelines for attaining the purposes of this chapter.
 
-(Pub. L. 95–192, § 3, Nov. 18, 1977, 91 Stat. 1407; Pub. L. 103–354, title II, § 246(f)(2)(B), Oct. 13, 1994, 108 Stat. 3225.)
+(Pub. L. 95–192, § 3, Nov. 18, 1977, 91 Stat. 1407; Pub. L. 103–354, title II, § 246(f)(2)(B), Oct. 13, 1994, 108 Stat. 3225.)
 
 **Editorial Notes**
 
@@ -75,9 +75,9 @@ As used in this chapter:
 
 **Transfer of Functions**
 
-Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
-## § 2003. Congressional policy and declaration of purpose
+## § 2003. Congressional policy and declaration of purpose
 
 **(a) Responsiveness to long-term needs**
 
@@ -95,15 +95,15 @@ Recognizing that the arrangements under which the Federal Government cooperates 
 
 **(3)** providing to Congress and the public, through reports, the information developed pursuant to paragraphs (1) and (2) of this subsection, and by providing Congress with an annual evaluation report as provided in section 2006 of this title.
 
-(Pub. L. 95–192, § 4, Nov. 18, 1977, 91 Stat. 1407; Pub. L. 113–79, title II, § 2508(a), Feb. 7, 2014, 128 Stat. 756.)
+(Pub. L. 95–192, § 4, Nov. 18, 1977, 91 Stat. 1407; Pub. L. 113–79, title II, § 2508(a), Feb. 7, 2014, 128 Stat. 756.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2014—Subsec. (b). Pub. L. 113–79, § 2508(a)(1), inserted “and tribal” after “State” in two places in text.
+2014—Subsec. (b). Pub. L. 113–79, § 2508(a)(1), inserted “and tribal” after “State” in two places in text.
 
-Subsec. (c)(2). Pub. L. 113–79, § 2508(a)(2), inserted “, tribal,” after “State”.
+Subsec. (c)(2). Pub. L. 113–79, § 2508(a)(2), inserted “, tribal,” after “State”.
 
 **Executive Documents**
 
@@ -111,7 +111,7 @@ Subsec. (c)(2). Pub. L. 113–79, § 2508(a)(2), inserted “, tribal,” af
 
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 2002 of this title.
 
-## § 2004. Continuing appraisal of soil, water, and related resources
+## § 2004. Continuing appraisal of soil, water, and related resources
 
 **(a) Data** In recognition of the importance of and need for obtaining and maintaining information on the current status of soil, water, and related resources, the Secretary is authorized and directed to carry out a continuing appraisal of the soil, water, and related resources of the Nation. The appraisal shall include, but not be limited to—
 
@@ -145,7 +145,7 @@ In conducting the appraisal described in subsection (a), the Secretary shall con
 
 The Secretary shall conduct comprehensive appraisals under this section, to be completed by December 31, 2010, December 31, 2015, and December 31, 2022. The Secretary may make such additional interim appraisals as the Secretary considers appropriate.
 
-(Pub. L. 95–192, § 5, Nov. 18, 1977, 91 Stat. 1408; Pub. L. 99–198, title XII, § 1252(a), Dec. 23, 1985, 99 Stat. 1516; Pub. L. 110–234, title II, § 2804(b), May 22, 2008, 122 Stat. 1086; Pub. L. 110–246, § 4(a), title II, § 2804(b), June 18, 2008, 122 Stat. 1664, 1814; Pub. L. 113–79, title II, § 2508(b), Feb. 7, 2014, 128 Stat. 756; Pub. L. 115–334, title II, § 2402(1), Dec. 20, 2018, 132 Stat. 4570.)
+(Pub. L. 95–192, § 5, Nov. 18, 1977, 91 Stat. 1408; Pub. L. 99–198, title XII, § 1252(a), Dec. 23, 1985, 99 Stat. 1516; Pub. L. 110–234, title II, § 2804(b), May 22, 2008, 122 Stat. 1086; Pub. L. 110–246, § 4(a), title II, § 2804(b), June 18, 2008, 122 Stat. 1664, 1814; Pub. L. 113–79, title II, § 2508(b), Feb. 7, 2014, 128 Stat. 756; Pub. L. 115–334, title II, § 2402(1), Dec. 20, 2018, 132 Stat. 4570.)
 
 **Editorial Notes**
 
@@ -157,15 +157,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2018—Subsec. (e). Pub. L. 115–334 substituted “December 31, 2015, and December 31, 2022” for “and December 31, 2015”.
 
-2014—Subsec. (a)(4). Pub. L. 113–79, § 2508(b)(1), substituted “, State, and tribal” for “and State”.
+2014—Subsec. (a)(4). Pub. L. 113–79, § 2508(b)(1), substituted “, State, and tribal” for “and State”.
 
-Subsec. (b). Pub. L. 113–79, § 2508(b)(2), inserted “, tribal” after “State” in two places.
+Subsec. (b). Pub. L. 113–79, § 2508(b)(2), inserted “, tribal” after “State” in two places.
 
-Subsec. (c). Pub. L. 113–79, § 2508(b)(3), substituted “State and tribal soil” for “State soil” and “local, tribal,” for “local”.
+Subsec. (c). Pub. L. 113–79, § 2508(b)(3), substituted “State and tribal soil” for “State soil” and “local, tribal,” for “local”.
 
-2008—Subsec. (a)(7). Pub. L. 110–246, § 2804(b)(1), added par. (7).
+2008—Subsec. (a)(7). Pub. L. 110–246, § 2804(b)(1), added par. (7).
 
-Subsecs. (d), (e). Pub. L. 110–246, § 2804(b)(2)–(4), added subsec. (d), redesignated former subsec. (d) as (e), and substituted “The Secretary shall conduct comprehensive appraisals under this section, to be completed by December 31, 2010, and December 31, 2015.” for “The Secretary shall conduct four comprehensive appraisals under this section, to be completed by December 31, 1979, December 31, 1986, December 31, 1995, and December 31, 2005, respectively.”
+Subsecs. (d), (e). Pub. L. 110–246, § 2804(b)(2)–(4), added subsec. (d), redesignated former subsec. (d) as (e), and substituted “The Secretary shall conduct comprehensive appraisals under this section, to be completed by December 31, 2010, and December 31, 2015.” for “The Secretary shall conduct four comprehensive appraisals under this section, to be completed by December 31, 1979, December 31, 1986, December 31, 1995, and December 31, 2005, respectively.”
 
 1985—Subsec. (d). Pub. L. 99–198 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The appraisal shall be completed by December 31, 1979, and at each five-year interval thereafter during the period this chapter is in effect.”
 
@@ -181,7 +181,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 2002 of this title.
 
-## § 2005. Soil and water conservation program
+## § 2005. Soil and water conservation program
 
 **(a) Program development** The Secretary is hereby authorized and directed to develop in cooperation with and participation by the public through conservation districts, State, tribal, and national organizations and agencies, and other appropriate means, a national soil and water conservation program (hereinafter called the “program”) to be used as a guide in carrying out the activities of the Secretary which assist landowners and land users, at their request, in furthering soil and water conservation on the private, tribal, and non-Federal lands of the Nation. The program shall set forth direction for future soil and water conservation efforts of the United States Department of Agriculture based on the current soil, water, and related resource appraisal developed in accordance with section 2004 of this title, taking into consideration both the long- and short-term needs of the Nation, the landowners, and the land users, and the roles and responsibilities of Federal, State, tribal, and local governments in such conservation efforts. The program shall also include but not be limited to—
 
@@ -213,7 +213,7 @@ In developing a national soil and water conservation program under subsection (a
 
 The initial program shall be completed not later than December 31, 2011, and December 31, 2016, and a program update shall be completed by December 31, 2023.
 
-(Pub. L. 95–192, § 6, Nov. 18, 1977, 91 Stat. 1409; Pub. L. 99–198, title XII, § 1252(b), Dec. 23, 1985, 99 Stat. 1516; Pub. L. 103–354, title II, § 246(f)(2)(C), Oct. 13, 1994, 108 Stat. 3225; Pub. L. 110–234, title II, § 2804(c), May 22, 2008, 122 Stat. 1087; Pub. L. 110–246, § 4(a), title II, § 2804(c), June 18, 2008, 122 Stat. 1664, 1815; Pub. L. 113–79, title II, § 2508(c), Feb. 7, 2014, 128 Stat. 756; Pub. L. 115–334, title II, § 2402(2), Dec. 20, 2018, 132 Stat. 4571.)
+(Pub. L. 95–192, § 6, Nov. 18, 1977, 91 Stat. 1409; Pub. L. 99–198, title XII, § 1252(b), Dec. 23, 1985, 99 Stat. 1516; Pub. L. 103–354, title II, § 246(f)(2)(C), Oct. 13, 1994, 108 Stat. 3225; Pub. L. 110–234, title II, § 2804(c), May 22, 2008, 122 Stat. 1087; Pub. L. 110–246, § 4(a), title II, § 2804(c), June 18, 2008, 122 Stat. 1664, 1815; Pub. L. 113–79, title II, § 2508(c), Feb. 7, 2014, 128 Stat. 756; Pub. L. 115–334, title II, § 2402(2), Dec. 20, 2018, 132 Stat. 4571.)
 
 **Editorial Notes**
 
@@ -225,9 +225,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2018—Subsec. (d). Pub. L. 115–334 substituted “December 31, 2016, and a program update shall be completed by December 31, 2023” for “December 31, 2016, respectively”.
 
-2014—Subsec. (a). Pub. L. 113–79 inserted “, tribal,” after “conservation districts, State” and “, tribal,” after “private” in introductory provisions, and “, tribal” after “Federal, State” wherever appearing.
+2014—Subsec. (a). Pub. L. 113–79 inserted “, tribal,” after “conservation districts, State” and “, tribal,” after “private” in introductory provisions, and “, tribal” after “Federal, State” wherever appearing.
 
-2008—Subsecs. (b) to (d). Pub. L. 110–246, § 2804(c), added subsecs. (b) and (c), redesignated former subsec. (b) as (d), and substituted “December 31, 2011, and December 31, 2016” for “December 31, 1979, and program updates shall be completed by December 31, 1987, December 31, 1997, and December 31, 2007”.
+2008—Subsecs. (b) to (d). Pub. L. 110–246, § 2804(c), added subsecs. (b) and (c), redesignated former subsec. (b) as (d), and substituted “December 31, 2011, and December 31, 2016” for “December 31, 1979, and program updates shall be completed by December 31, 1987, December 31, 1997, and December 31, 2007”.
 
 1994—Subsec. (a). Pub. L. 103–354 in first sentence of introductory provisions substituted “Secretary” for “Soil Conservation Service” before “which assist”.
 
@@ -245,15 +245,15 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 2002 of this title.
 
-## § 2005a. Repealed. Pub. L. 104–127, title III, § 336(e), Apr. 4, 1996, 110 Stat. 1007
+## § 2005a. Repealed. Pub. L. 104–127, title III, § 336(e), Apr. 4, 1996, 110 Stat. 1007
 
-Section, Pub. L. 99–198, title XII, § 1251, Dec. 23, 1985, 99 Stat. 1516, related to technical assistance for water resources.
+Section, Pub. L. 99–198, title XII, § 1251, Dec. 23, 1985, 99 Stat. 1516, related to technical assistance for water resources.
 
-## § 2005b. Repealed. Pub. L. 107–171, title II, § 2502(b), May 13, 2002, 116 Stat. 267
+## § 2005b. Repealed. Pub. L. 107–171, title II, § 2502(b), May 13, 2002, 116 Stat. 267
 
-Section, Pub. L. 104–127, title III, § 386, Apr. 4, 1996, 110 Stat. 1017, related to conservation of private grazing land. See section 3839bb of this title.
+Section, Pub. L. 104–127, title III, § 386, Apr. 4, 1996, 110 Stat. 1017, related to conservation of private grazing land. See section 3839bb of this title.
 
-## § 2006. Reports to Congress
+## § 2006. Reports to Congress
 
 **(a) Appraisal**
 
@@ -271,7 +271,7 @@ Not later than the date on which Congress convenes in 2011, 2016, and 2022, the 
 
 Not later than the date on which Congress convenes in 2012, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the plans of the Department of Agriculture for improving the resource appraisal and national conservation program required under this chapter, based on the recommendations received under sections 2004(d) and 2005(c) of this title.
 
-(Pub. L. 95–192, § 7, Nov. 18, 1977, 91 Stat. 1410; Pub. L. 99–198, title XII, § 1252(c), Dec. 23, 1985, 99 Stat. 1516; Pub. L. 110–234, title II, § 2804(d), May 22, 2008, 122 Stat. 1087; Pub. L. 110–246, § 4(a), title II, § 2804(d), June 18, 2008, 122 Stat. 1664, 1815; Pub. L. 115–334, title II, § 2402(3), Dec. 20, 2018, 132 Stat. 4571.)
+(Pub. L. 95–192, § 7, Nov. 18, 1977, 91 Stat. 1410; Pub. L. 99–198, title XII, § 1252(c), Dec. 23, 1985, 99 Stat. 1516; Pub. L. 110–234, title II, § 2804(d), May 22, 2008, 122 Stat. 1087; Pub. L. 110–246, § 4(a), title II, § 2804(d), June 18, 2008, 122 Stat. 1664, 1815; Pub. L. 115–334, title II, § 2402(3), Dec. 20, 2018, 132 Stat. 4571.)
 
 **Editorial Notes**
 
@@ -281,15 +281,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–334, § 2402(3)(A), substituted “2011, 2016, and 2022” for “2011 and 2016”.
+2018—Subsec. (a). Pub. L. 115–334, § 2402(3)(A), substituted “2011, 2016, and 2022” for “2011 and 2016”.
 
-Subsec. (b). Pub. L. 115–334, § 2402(3)(B), substituted “2012, 2017, and 2023” for “2012 and 2017” in introductory provisions.
+Subsec. (b). Pub. L. 115–334, § 2402(3)(B), substituted “2012, 2017, and 2023” for “2012 and 2017” in introductory provisions.
 
-2008—Pub. L. 110–246, § 2804(d), amended section generally. Prior to amendment, section related to transmission of appraisal developed under section 2004 of this title at the time Congress convened in 1980, 1987, 1996, and 2006, transmission of program developed under section 2005 of this title and statement of policy at the time Congress convened in 1980, 1988, 1998, and 2008, and annual report on program effectiveness.
+2008—Pub. L. 110–246, § 2804(d), amended section generally. Prior to amendment, section related to transmission of appraisal developed under section 2004 of this title at the time Congress convened in 1980, 1987, 1996, and 2006, transmission of program developed under section 2005 of this title and statement of policy at the time Congress convened in 1980, 1988, 1998, and 2008, and annual report on program effectiveness.
 
-1985—Subsec. (a). Pub. L. 99–198, § 1252(c)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “On the first day Congress convenes in 1980 and at each five-year interval thereafter during the period this chapter is in effect the President shall transmit to the Speaker of the House of Representatives and the President of the Senate, the appraisal and the program as required by sections 2004 and 2005 of this title, together with a detailed statement of policy regarding soil and water conservation activities of the United States Department of Agriculture.”
+1985—Subsec. (a). Pub. L. 99–198, § 1252(c)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “On the first day Congress convenes in 1980 and at each five-year interval thereafter during the period this chapter is in effect the President shall transmit to the Speaker of the House of Representatives and the President of the Senate, the appraisal and the program as required by sections 2004 and 2005 of this title, together with a detailed statement of policy regarding soil and water conservation activities of the United States Department of Agriculture.”
 
-Subsecs. (b), (c). Pub. L. 99–198, § 1252(c)(2), (3), struck out subsec. (b) which provided for an annual report of program and policy achievement, and redesignated subsec. (c) as (b).
+Subsecs. (b), (c). Pub. L. 99–198, § 1252(c)(2), (3), struck out subsec. (b) which provided for an annual report of program and policy achievement, and redesignated subsec. (c) as (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -311,23 +311,23 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 Barack Obama.
 
-## § 2007. Authorization of appropriations
+## § 2007. Authorization of appropriations
 
 There are authorized to be appropriated such funds as may be necessary to carry out the purposes of this chapter.
 
-(Pub. L. 95–192, § 8, Nov. 18, 1977, 91 Stat. 1411.)
+(Pub. L. 95–192, § 8, Nov. 18, 1977, 91 Stat. 1411.)
 
-## § 2008. Utilization of available information and data
+## § 2008. Utilization of available information and data
 
 In the implementation of this chapter, the Secretary shall utilize information and data available from other Federal, State, tribal, and local governments, and private organizations and he shall coordinate his actions with the resource appraisal and planning efforts of other Federal agencies and avoid unnecessary duplication and overlap of planning and program efforts.
 
-(Pub. L. 95–192, § 9, Nov. 18, 1977, 91 Stat. 1411; Pub. L. 113–79, title II, § 2508(d), Feb. 7, 2014, 128 Stat. 756.)
+(Pub. L. 95–192, § 9, Nov. 18, 1977, 91 Stat. 1411; Pub. L. 113–79, title II, § 2508(d), Feb. 7, 2014, 128 Stat. 756.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2014—Pub. L. 113–79 inserted “, tribal” after “State”.
+2014—Pub. L. 113–79 inserted “, tribal” after “State”.
 
 **Executive Documents**
 
@@ -335,11 +335,11 @@ In the implementation of this chapter, the Secretary shall utilize information a
 
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 2002 of this title.
 
-## § 2009. Termination of program
+## § 2009. Termination of program
 
 The provisions of this chapter shall terminate on December 31, 2023.
 
-(Pub. L. 95–192, § 10, Nov. 18, 1977, 91 Stat. 1411; Pub. L. 99–198, title XII, § 1252(d), Dec. 23, 1985, 99 Stat. 1517; Pub. L. 110–234, title II, § 2804(e), May 22, 2008, 122 Stat. 1088; Pub. L. 110–246, § 4(a), title II, § 2804(e), June 18, 2008, 122 Stat. 1664, 1816; Pub. L. 115–334, title II, § 2402(4), Dec. 20, 2018, 132 Stat. 4571.)
+(Pub. L. 95–192, § 10, Nov. 18, 1977, 91 Stat. 1411; Pub. L. 99–198, title XII, § 1252(d), Dec. 23, 1985, 99 Stat. 1517; Pub. L. 110–234, title II, § 2804(e), May 22, 2008, 122 Stat. 1088; Pub. L. 110–246, § 4(a), title II, § 2804(e), June 18, 2008, 122 Stat. 1664, 1816; Pub. L. 115–334, title II, § 2402(4), Dec. 20, 2018, 132 Stat. 4571.)
 
 **Editorial Notes**
 
@@ -351,7 +351,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2018—Pub. L. 115–334 substituted “2023” for “2018”.
 
-2008—Pub. L. 110–246, § 2804(e), substituted “2018” for “2008”.
+2008—Pub. L. 110–246, § 2804(e), substituted “2018” for “2008”.
 
 1985—Pub. L. 99–198 substituted “2008” for “1985”.
 

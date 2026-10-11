@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL MATTERS
 
-### § 301. Definitions
+### § 301. Definitions
 
 In this chapter:
 
@@ -61,7 +61,7 @@ In this chapter:
 
 **(9)** The term “training” has the meaning given the term “military education and training” in section 644 of the Foreign Assistance Act of 1961 (22 U.S.C. 2403).
 
-(Added Pub. L. 114–328, div. A, title XII, § 1241(a)(3), Dec. 23, 2016, 130 Stat. 2498; amended Pub. L. 115–232, div. A, title XII, § 1203(a), Aug. 13, 2018, 132 Stat. 2016; Pub. L. 118–31, div. A, title XII, § 1203(a), Dec. 22, 2023, 137 Stat. 441.)
+(Added Pub. L. 114–328, div. A, title XII, § 1241(a)(3), Dec. 23, 2016, 130 Stat. 2498; amended Pub. L. 115–232, div. A, title XII, § 1203(a), Aug. 13, 2018, 132 Stat. 2016; Pub. L. 118–31, div. A, title XII, § 1203(a), Dec. 22, 2023, 137 Stat. 441.)
 
 **Editorial Notes**
 
@@ -79,11 +79,11 @@ Section 1241(n) of the National Defense Authorization Act for Fiscal Year 2017, 
 
 **Savings Clause**
 
-Pub. L. 114–328, div. A, title XII, § 1253(b), Dec. 23, 2016, 130 Stat. 2532, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(14), Dec. 12, 2017, 131 Stat. 1600, provided that: “Any determination or other action made or taken before the date of the enactment of this Act [Dec. 23, 2016] under a provision of law transferred or repealed by this subtitle [subtitle E (§§ 1241–1253) of title XII of Pub. L. 114–328, see Tables for classification] that is in effect as of the date of the enactment of this Act and is necessary for the administration of a successor authority to such provision of law under chapter 16 of title 10, United States Code, by reason of the enactment of such chapter by this subtitle shall remain in effect, in accordance with the terms of such determination or action when made or taken, for purposes of the administration of such successor authority.”
+Pub. L. 114–328, div. A, title XII, § 1253(b), Dec. 23, 2016, 130 Stat. 2532, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(14), Dec. 12, 2017, 131 Stat. 1600, provided that: “Any determination or other action made or taken before the date of the enactment of this Act [Dec. 23, 2016] under a provision of law transferred or repealed by this subtitle [subtitle E (§§ 1241–1253) of title XII of Pub. L. 114–328, see Tables for classification] that is in effect as of the date of the enactment of this Act and is necessary for the administration of a successor authority to such provision of law under chapter 16 of title 10, United States Code, by reason of the enactment of such chapter by this subtitle shall remain in effect, in accordance with the terms of such determination or action when made or taken, for purposes of the administration of such successor authority.”
 
 **Framework for Reforming Technology Transfer and Foreign Disclosure Policies**
 
-Pub. L. 119–60, div. A, title X, § 1086, Dec. 18, 2025, 139 Stat. 1056, provided that:
+Pub. L. 119–60, div. A, title X, § 1086, Dec. 18, 2025, 139 Stat. 1056, provided that:
 
 > **“(a) Framework Development.—** Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall produce a framework to revise technology transfer and foreign disclosure policies and processes of the military departments and the technology transfer and foreign disclosure committees.
 
@@ -133,7 +133,7 @@ Pub. L. 119–60, div. A, title X, § 1086, Dec. 18, 2025, 139 Stat. 1056, pro
 
 **Assessment and Establishment of Office to Support the Acquisition of Specified Non-Program of Record Systems by Foreign Allies and Partners**
 
-Pub. L. 119–60, div. A, title XII, § 1214, Dec. 18, 2025, 139 Stat. 1086, provided that:
+Pub. L. 119–60, div. A, title XII, § 1214, Dec. 18, 2025, 139 Stat. 1086, provided that:
 
 > **“(a) Assessment.—** Not later than 90 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall complete an assessment to determine the optimal organizational structure, authorities, reporting relationships, and resource requirements to manage effectively the acquisition of specified non-program of record systems by foreign allies and partners.
 
@@ -171,7 +171,7 @@ Pub. L. 119–60, div. A, title XII, § 1214, Dec. 18, 2025, 139 Stat. 1086, p
 
 **Guidance for Coordination of International Arms Transfers**
 
-Pub. L. 119–60, div. A, title XII, § 1215, Dec. 18, 2025, 139 Stat. 1087, provided that:
+Pub. L. 119–60, div. A, title XII, § 1215, Dec. 18, 2025, 139 Stat. 1087, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall issue updated guidance, in accordance with section 382 of title 10, United States Code, to streamline and align the roles, responsibilities, and authorities, and improve transparency, relating to Department of Defense processes for international arms transfers, including foreign military sales.
 
@@ -203,7 +203,7 @@ Pub. L. 119–60, div. A, title XII, § 1215, Dec. 18, 2025, 139 Stat. 1087, p
 
 **Research, Development, Test, and Evaluation of Emerging Technologies To Further the Warfighting Capabilities of the United States and Certain Partner Countries**
 
-Pub. L. 119–60, div. A, title XII, § 1234, Dec. 18, 2025, 139 Stat. 1097, provided that:
+Pub. L. 119–60, div. A, title XII, § 1234, Dec. 18, 2025, 139 Stat. 1097, provided that:
 
 > **“(a) Authority.—** The Secretary of Defense, upon request by the Ministry of Defense of a covered partner country and in consultation with the Secretary of State, the Secretary of Commerce, and the Director of National Intelligence, is authorized to carry out, jointly with the covered partner country, research, development, test, and evaluation of emerging technologies to further the warfare capabilities of the United States and the covered partner country to meet emerging defense challenges, including in the areas of artificial intelligence, cybersecurity, robotics, quantum, and automation.
 
@@ -253,7 +253,7 @@ Pub. L. 119–60, div. A, title XII, § 1234, Dec. 18, 2025, 139 Stat. 1097, p
 
 **Establishment of Department of Defense Working Group on Multilateral Artificial Intelligence Coordination**
 
-Pub. L. 118–159, div. A, title X, § 1087, Dec. 23, 2024, 138 Stat. 2079, provided that:
+Pub. L. 118–159, div. A, title X, § 1087, Dec. 23, 2024, 138 Stat. 2079, provided that:
 
 > **“(a) Establishment.—** Not later than 90 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall establish a working group, or designated [sic] a working group of a similar nature, to develop and coordinate artificial intelligence initiatives among the allies and partners of the United States.
 
@@ -297,7 +297,7 @@ Pub. L. 118–159, div. A, title X, § 1087, Dec. 23, 2024, 138 Stat. 2079, pr
 
 **Acceptance and Expenditure of Contributions for Multilateral Security Cooperation Programs and Activities**
 
-Pub. L. 118–159, div. A, title XII, § 1208, Dec. 23, 2024, 138 Stat. 2095, provided that:
+Pub. L. 118–159, div. A, title XII, § 1208, Dec. 23, 2024, 138 Stat. 2095, provided that:
 
 > **“(a) Authority To Accept and Expend Contributions.—** The Secretary of Defense, with the concurrence of the Secretary of State, may accept, manage, and expend contributions, including funds and defense articles and defense services, from foreign governments for mutually agreed upon purposes to carry out security cooperation programs and activities of the Department of Defense authorized by—
 
@@ -375,7 +375,7 @@ Pub. L. 118–159, div. A, title XII, § 1208, Dec. 23, 2024, 138 Stat. 2095, 
 
 **Program and Processes Relating to Foreign Acquisition**
 
-Pub. L. 118–31, div. A, title VIII, § 873, Dec. 22, 2023, 137 Stat. 350, as amended by Pub. L. 119–60, div. A, title VIII, § 816, Dec. 18, 2025, 139 Stat. 953, provided that:
+Pub. L. 118–31, div. A, title VIII, § 873, Dec. 22, 2023, 137 Stat. 350, as amended by Pub. L. 119–60, div. A, title VIII, § 816, Dec. 18, 2025, 139 Stat. 953, provided that:
 
 > **“(a) Pilot Program for Combatant Command Use of Defense Acquisition Workforce Development Account.—** Each commander of a geographic combatant command shall use amounts from the Defense Acquisition Workforce Development Account established under section 1705 of title 10, United States Code, to hire not more than two members of the acquisition workforce (as defined in section 101 of such title) or contracting officers who are qualified to advise the combatant command on the processes for foreign military sales authorized under chapter 2 of the Arms Export Control Act (22 U.S.C. 2761 et seq.) and the Department of Defense security cooperation processes under chapter 16 of title 10, United States Code, for the purpose of facilitating the effective implementation of such processes.
 
@@ -425,7 +425,7 @@ Pub. L. 118–31, div. A, title VIII, § 873, Dec. 22, 2023, 137 Stat. 350, as
 
 **Technology Release and Foreign Disclosure Reform Initiative**
 
-Pub. L. 118–31, div. A, title IX, § 918, Dec. 22, 2023, 137 Stat. 370, as amended by Pub. L. 119–60, div. A, title XVIII, § 1802(b)(1)(A), Dec. 18, 2025, 139 Stat. 1227, provided that:
+Pub. L. 118–31, div. A, title IX, § 918, Dec. 22, 2023, 137 Stat. 370, as amended by Pub. L. 119–60, div. A, title XVIII, § 1802(b)(1)(A), Dec. 18, 2025, 139 Stat. 1227, provided that:
 
 > **“(a) Initiative Required.—**
 
@@ -517,7 +517,7 @@ Pub. L. 118–31, div. A, title IX, § 918, Dec. 22, 2023, 137 Stat. 370, as a
 
 **Security Cooperation Programs With Foreign Partners To Advance Women, Peace, and Security**
 
-Pub. L. 117–263, div. A, title XII, § 1208, Dec. 23, 2022, 136 Stat. 2831, as amended by Pub. L. 118–159, div. A, title XII, § 1206(a), Dec. 23, 2024, 138 Stat. 2095, provided that:
+Pub. L. 117–263, div. A, title XII, § 1208, Dec. 23, 2022, 136 Stat. 2831, as amended by Pub. L. 118–159, div. A, title XII, § 1206(a), Dec. 23, 2024, 138 Stat. 2095, provided that:
 
 > **“(a) In General.—** During fiscal years 2023 through 2027, the Secretary of Defense, in coordination with the Secretary of State, may conduct or support security cooperation programs and activities involving the national military forces or national-level security forces of a foreign country, or other covered personnel, to advise, train, and educate such forces or personnel with respect to—
 
@@ -535,7 +535,7 @@ Pub. L. 117–263, div. A, title XII, § 1208, Dec. 23, 2022, 136 Stat. 2831, 
 
 **Security Cooperation Strategy for Certain Combatant Commands**
 
-Pub. L. 117–81, div. A, title XII, § 1206, Dec. 27, 2021, 135 Stat. 1960, provided that:
+Pub. L. 117–81, div. A, title XII, § 1206, Dec. 27, 2021, 135 Stat. 1960, provided that:
 
 > **“(a) In General.—** The Secretary of Defense, in coordination with the Secretary of State, shall develop and implement a security cooperation strategy for each covered combatant command, which shall apply to the security cooperation programs and activities of the Department of Defense (as defined in section 301 of title 10, United States Code).
 
@@ -607,11 +607,11 @@ Pub. L. 117–81, div. A, title XII, § 1206, Dec. 27, 2021, 135 Stat. 1960, p
 
 **Secretary of Defense Strategic Competition Initiative**
 
-Pub. L. 117–81, div. A, title XIII, § 1332, Dec. 27, 2021, 135 Stat. 2007, which related to funding and planning for strategic competition initiative, was repealed by Pub. L. 119–60, div. A, title XII, § 1201(b), Dec. 18, 2025, 139 Stat. 1081.
+Pub. L. 117–81, div. A, title XIII, § 1332, Dec. 27, 2021, 135 Stat. 2007, which related to funding and planning for strategic competition initiative, was repealed by Pub. L. 119–60, div. A, title XII, § 1201(b), Dec. 18, 2025, 139 Stat. 1081.
 
 **Prescription of Term “Developing Country”**
 
-Pub. L. 114–328, div. A, title XII, § 1241(n), Dec. 23, 2016, 130 Stat. 2511, provided that:
+Pub. L. 114–328, div. A, title XII, § 1241(n), Dec. 23, 2016, 130 Stat. 2511, provided that:
 
 > **“(1) In general.—** The Secretary of Defense shall prescribe the meaning of the term ‘developing country’ for purposes of chapter 16 of title 10, United States Code, as added by subsection (a)(3), and may from time to time prescribe a revision to the meaning of that term for those purposes.
 
@@ -623,7 +623,7 @@ Pub. L. 114–328, div. A, title XII, § 1241(n), Dec. 23, 2016, 130 Stat. 251
 
 **Quadrennial Review of Security Sector Assistance Programs and Authorities of the United States Government**
 
-Pub. L. 114–328, div. A, title XII, § 1252, Dec. 23, 2016, 130 Stat. 2531, provided that:
+Pub. L. 114–328, div. A, title XII, § 1252, Dec. 23, 2016, 130 Stat. 2531, provided that:
 
 > **“(a) Statement of Policy.—** It is the policy of the United States that the principal goals of the security sector assistance programs and authorities of the United States Government are as follows:
 
@@ -667,7 +667,7 @@ Pub. L. 114–328, div. A, title XII, § 1252, Dec. 23, 2016, 130 Stat. 2531, 
 
 ## SUBCHAPTER II—MILITARY-TO-MILITARY ENGAGEMENTS
 
-### § 311. Exchange of defense personnel between United States and friendly foreign countries: authority
+### § 311. Exchange of defense personnel between United States and friendly foreign countries: authority
 
 **(a) Authority To Enter Into International Exchange Agreements.—**
 
@@ -711,13 +711,13 @@ Pub. L. 114–328, div. A, title XII, § 1252, Dec. 23, 2016, 130 Stat. 2531, 
 
 **(f) Relationship to Other Authority.—** The requirements in subsections (c) and (d) shall apply in the exercise of any authority of the Secretaries of the military departments to enter into an agreement with the government of a foreign country to provide for the exchange of members of the armed forces and military personnel of the defense or security ministry of that foreign country. The Secretary of Defense may prescribe regulations for the application of such subsections in the exercise of such authority.
 
-(Added and amended Pub. L. 114–328, div. A, title XII, § 1242(a), (b), Dec. 23, 2016, 130 Stat. 2512, 2513; Pub. L. 115–232, div. A, title XII, § 1204(c)(1)(A), Aug. 13, 2018, 132 Stat. 2017.)
+(Added and amended Pub. L. 114–328, div. A, title XII, § 1242(a), (b), Dec. 23, 2016, 130 Stat. 2512, 2513; Pub. L. 115–232, div. A, title XII, § 1204(c)(1)(A), Aug. 13, 2018, 132 Stat. 2017.)
 
 **Editorial Notes**
 
 **Codification**
 
-Text of section, as added by Pub. L. 114–328, is based on text of Pub. L. 104–201, div. A, title X, § 1082, Sept. 23, 1996, 110 Stat. 2672, which was formerly set out as a note under section 168 of this title, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1242(c)(1), Dec. 23, 2016, 130 Stat. 2513.
+Text of section, as added by Pub. L. 114–328, is based on text of Pub. L. 104–201, div. A, title X, § 1082, Sept. 23, 1996, 110 Stat. 2672, which was formerly set out as a note under section 168 of this title, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1242(c)(1), Dec. 23, 2016, 130 Stat. 2513.
 
 **Prior Provisions**
 
@@ -727,27 +727,27 @@ A prior section 311 was renumbered section 246 of this title.
 
 2018—Subsec. (a)(3). Pub. L. 115–232 substituted “Secretary of State” for “Secretary to State” in introductory provisions.
 
-2016—Subsec. (a)(1). Pub. L. 114–328, § 1242(b)(1)(A), inserted at end “Any exchange of personnel under such an agreement is subject to paragraph (3).”
+2016—Subsec. (a)(1). Pub. L. 114–328, § 1242(b)(1)(A), inserted at end “Any exchange of personnel under such an agreement is subject to paragraph (3).”
 
-Subsec. (a)(2). Pub. L. 114–328, § 1242(b)(1)(B)(i), substituted “a friendly foreign country or international or regional security organization for the reciprocal or non-reciprocal exchange” for “an ally of the United States or another friendly foreign country for the exchange” in introductory provisions.
+Subsec. (a)(2). Pub. L. 114–328, § 1242(b)(1)(B)(i), substituted “a friendly foreign country or international or regional security organization for the reciprocal or non-reciprocal exchange” for “an ally of the United States or another friendly foreign country for the exchange” in introductory provisions.
 
-Subsec. (a)(2)(A). Pub. L. 114–328, § 1242(b)(1)(B)(ii), substituted “members of the armed forces” for “military”.
+Subsec. (a)(2)(A). Pub. L. 114–328, § 1242(b)(1)(B)(ii), substituted “members of the armed forces” for “military”.
 
-Subsec. (a)(2)(B). Pub. L. 114–328, § 1242(b)(1)(B)(iii), inserted “or security” after “defense” and inserted “or international or regional security organization” before period at end.
+Subsec. (a)(2)(B). Pub. L. 114–328, § 1242(b)(1)(B)(iii), inserted “or security” after “defense” and inserted “or international or regional security organization” before period at end.
 
-Subsec. (a)(3). Pub. L. 114–328, § 1242(b)(1)(C), added par. (3).
+Subsec. (a)(3). Pub. L. 114–328, § 1242(b)(1)(C), added par. (3).
 
-Subsec. (b)(2). Pub. L. 114–328, § 1242(b)(2), inserted “, subject to the concurrence of the Secretary of State” before period at end.
+Subsec. (b)(2). Pub. L. 114–328, § 1242(b)(2), inserted “, subject to the concurrence of the Secretary of State” before period at end.
 
-Subsec. (c). Pub. L. 114–328, § 1242(b)(3), substituted “In the case of” for “Each government shall be required under” and inserted “that provides for reciprocal exchanges, each government shall be required” after “exchange agreement”.
+Subsec. (c). Pub. L. 114–328, § 1242(b)(3), substituted “In the case of” for “Each government shall be required under” and inserted “that provides for reciprocal exchanges, each government shall be required” after “exchange agreement”.
 
-Subsec. (f). Pub. L. 114–328, § 1242(b)(4), inserted “defense or security ministry of that” after “military personnel of the”.
+Subsec. (f). Pub. L. 114–328, § 1242(b)(4), inserted “defense or security ministry of that” after “military personnel of the”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Key Partners for Middle East Regional Integration Military Subject Matter Expert Exchange Program**
 
-Pub. L. 118–159, div. A, title XII, § 1221, Dec. 23, 2024, 138 Stat. 2101, provided that:
+Pub. L. 118–159, div. A, title XII, § 1221, Dec. 23, 2024, 138 Stat. 2101, provided that:
 
 > **“(a) In General.—** The Secretary of Defense, using existing authorities, including section 311 of title 10, United States Code, as applicable, and in consultation with the Secretary of State and the head of any other Federal agency the Secretary of Defense determines appropriate, shall design and implement a foreign military officer subject matter expert exchange program to be known as the ‘Middle East Regional Integration Military Subject Matter Expert Exchange Program’ (referred to in this section as the ‘exchange program’).
 
@@ -893,7 +893,7 @@ Pub. L. 118–159, div. A, title XII, § 1221, Dec. 23, 2024, 138 Stat. 2101, 
 
 **Indo-Pacific Extended Deterrence Education Pilot Program**
 
-Pub. L. 118–159, div. A, title XIII, § 1314, Dec. 23, 2024, 138 Stat. 2113, as amended by Pub. L. 119–60, div. A, title XII, § 1252, Dec. 18, 2025, 139 Stat. 1113, provided that:
+Pub. L. 118–159, div. A, title XIII, § 1314, Dec. 23, 2024, 138 Stat. 2113, as amended by Pub. L. 119–60, div. A, title XII, § 1252, Dec. 18, 2025, 139 Stat. 1113, provided that:
 
 > **“(a) Establishment.—** The Secretary of Defense, using the authorities provided in chapter 16 of title 10, United States Code, and other applicable statutory authorities available to the Secretary, may establish a pilot program, including an international defense personnel exchange program, to support the education of covered personnel in—
 
@@ -923,7 +923,7 @@ Pub. L. 118–159, div. A, title XIII, § 1314, Dec. 23, 2024, 138 Stat. 2113,
 
 **Defense Operational Resilience International Cooperation Pilot Program**
 
-Pub. L. 117–263, div. A, title XII, § 1212, Dec. 23, 2022, 136 Stat. 2834, as amended by Pub. L. 118–31, div. A, title XII, § 1226, Dec. 22, 2023, 137 Stat. 455; Pub. L. 118–159, div. A, title XII, § 1207, Dec. 23, 2024, 138 Stat. 2095, provided that:
+Pub. L. 117–263, div. A, title XII, § 1212, Dec. 23, 2022, 136 Stat. 2834, as amended by Pub. L. 118–31, div. A, title XII, § 1226, Dec. 22, 2023, 137 Stat. 455; Pub. L. 118–159, div. A, title XII, § 1207, Dec. 23, 2024, 138 Stat. 2095, provided that:
 
 > **“(a) Establishment.—** The Secretary of Defense, in consultation with the Secretary of State and in coordination with the commanders of the geographic combatant commands, may establish a pilot program, to be known as the ‘Defense Operational Resilience International Cooperation Pilot Program’ (in this section referred to as the ‘pilot program’) to support engagement with national security forces of partner countries on defense-related environmental and operational energy issues in support of the theater campaign plans of the geographic combatant commands.
 
@@ -981,7 +981,7 @@ Pub. L. 117–263, div. A, title XII, § 1212, Dec. 23, 2022, 136 Stat. 2834, 
 
 **Pilot Program To Develop Young Civilian Defense Leaders in the Indo-Pacific Region**
 
-Pub. L. 117–263, div. A, title XII, § 1261, Dec. 23, 2022, 136 Stat. 2856, as amended by Pub. L. 118–31, div. A, title XIII, § 1303, Dec. 22, 2023, 137 Stat. 489, provided that:
+Pub. L. 117–263, div. A, title XII, § 1261, Dec. 23, 2022, 136 Stat. 2856, as amended by Pub. L. 118–31, div. A, title XIII, § 1303, Dec. 22, 2023, 137 Stat. 489, provided that:
 
 > **“(a) In General.—** The Secretary of Defense may establish, using existing authorities of the Department of Defense, a pilot program to enhance engagement of the Department with young civilian defense and security leaders in the Indo-Pacific region.
 
@@ -1021,7 +1021,7 @@ Pub. L. 117–263, div. A, title XII, § 1261, Dec. 23, 2022, 136 Stat. 2856, 
 
 **Limitation on Military-to-Military Exchanges and Contacts With Chinese People’s Liberation Army**
 
-Pub. L. 106–65, div. A, title XII, § 1201, Oct. 5, 1999, 113 Stat. 779, as amended by Pub. L. 111–84, div. A, title XII, § 1246(d), Oct. 28, 2009, 123 Stat. 2545; Pub. L. 112–81, div. A, title X, § 1066(e)(2), Dec. 31, 2011, 125 Stat. 1589, provided that:
+Pub. L. 106–65, div. A, title XII, § 1201, Oct. 5, 1999, 113 Stat. 779, as amended by Pub. L. 111–84, div. A, title XII, § 1246(d), Oct. 28, 2009, 123 Stat. 2545; Pub. L. 112–81, div. A, title X, § 1066(e)(2), Dec. 31, 2011, 125 Stat. 1589, provided that:
 
 > **“(a) Limitation.—** The Secretary of Defense may not authorize any military-to-military exchange or contact described in subsection (b) to be conducted by the armed forces with representatives of the People’s Liberation Army of the People’s Republic of China if that exchange or contact would create a national security risk due to an inappropriate exposure specified in subsection (b).
 
@@ -1053,7 +1053,7 @@ Pub. L. 106–65, div. A, title XII, § 1201, Oct. 5, 1999, 113 Stat. 779, as 
 
 > **“(c) Exceptions.—** Subsection (a) does not apply to any search-and-rescue or humanitarian operation or exercise.”
 
-### § 312. Payment of personnel expenses necessary for theater security cooperation
+### § 312. Payment of personnel expenses necessary for theater security cooperation
 
 **(a) Authority.—** The Secretary of Defense may pay expenses specified in subsection (b) that the Secretary considers necessary for theater security cooperation.
 
@@ -1109,7 +1109,7 @@ Pub. L. 106–65, div. A, title XII, § 1201, Oct. 5, 1999, 113 Stat. 779, as 
 
 **(g) Administrative Services and Support Defined.—** In this section, the term “administrative services and support” includes base or installation support services, office space, utilities, copying services, fire and police protection, training programs conducted to familiarize, orient, or certify liaison personnel regarding unique aspects of the assignments of the liaison personnel, and computer support.
 
-(Added Pub. L. 114–328, div. A, title XII, § 1243(a), Dec. 23, 2016, 130 Stat. 2514; amended Pub. L. 116–283, div. A, title IX, § 924(b)(11), Jan. 1, 2021, 134 Stat. 3823.)
+(Added Pub. L. 114–328, div. A, title XII, § 1243(a), Dec. 23, 2016, 130 Stat. 2514; amended Pub. L. 116–283, div. A, title IX, § 924(b)(11), Jan. 1, 2021, 134 Stat. 3823.)
 
 **Editorial Notes**
 
@@ -1121,7 +1121,7 @@ A prior section 312 was renumbered section 247 of this title.
 
 2021—Subsec. (b)(3). Pub. L. 116–283 inserted “the Chief of Space Operations,” after “the Commandant of the Marine Corps,” in introductory provisions.
 
-### § 313. Bilateral or regional cooperation programs: awards and mementos to recognize superior noncombat achievements or performance
+### § 313. Bilateral or regional cooperation programs: awards and mementos to recognize superior noncombat achievements or performance
 
 **(a) General Authority.—** The Secretary of Defense may present awards and mementos purchased with funds appropriated for operation and maintenance of the armed forces to recognize superior noncombat achievements or performance by members of friendly foreign forces and other foreign nationals that significantly enhance or support the National Security Strategy of the United States.
 
@@ -1137,7 +1137,7 @@ A prior section 312 was renumbered section 247 of this title.
 
 **(c) Limitation.—** Expenditures for the purchase or production of mementos for award under this section may not exceed the minimal value in effect under section 7342(a)(5) of title 5.
 
-(Added Pub. L. 108–136, div. A, title XII, § 1222(a), Nov. 24, 2003, 117 Stat. 1652, § 1051b; renumbered § 313, Pub. L. 114–328, div. A, title XII, § 1241(b), Dec. 23, 2016, 130 Stat. 2500.)
+(Added Pub. L. 108–136, div. A, title XII, § 1222(a), Nov. 24, 2003, 117 Stat. 1652, § 1051b; renumbered § 313, Pub. L. 114–328, div. A, title XII, § 1241(b), Dec. 23, 2016, 130 Stat. 2500.)
 
 **Editorial Notes**
 
@@ -1151,9 +1151,9 @@ A prior section 312 was renumbered section 247 of this title.
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title XII, § 1201(a)(4)(B), Dec. 18, 2025, 139 Stat. 1081, substituted “Training and exercises with friendly foreign countries: payment of training and exercise expenses” for “Training with friendly foreign countries: payment of training and exercise expenses” in item 321.
+2025—Pub. L. 119–60, div. A, title XII, § 1201(a)(4)(B), Dec. 18, 2025, 139 Stat. 1081, substituted “Training and exercises with friendly foreign countries: payment of training and exercise expenses” for “Training with friendly foreign countries: payment of training and exercise expenses” in item 321.
 
-### § 321. Training and exercises with friendly foreign countries: payment of training and exercise expenses
+### § 321. Training and exercises with friendly foreign countries: payment of training and exercise expenses
 
 **(a) Training Authorized.—**
 
@@ -1197,33 +1197,33 @@ A prior section 312 was renumbered section 247 of this title.
 
 **(C)** Procedures to limit the payment of incremental expenses to friendly foreign countries only to developing countries, except in the case of exceptional circumstances as specified in the regulations.
 
-(Added Pub. L. 99–661, div. A, title XIII, § 1321(a)(1), Nov. 14, 1986, 100 Stat. 3988, § 2010; amended Pub. L. 105–85, div. A, title X, § 1073(a)(35), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 110–417, [div. A], title XII, § 1203(a), Oct. 14, 2008, 122 Stat. 4622; Pub. L. 112–81, div. A, title X, § 1061(12), Dec. 31, 2011, 125 Stat. 1583; renumbered § 321 and amended Pub. L. 114–328, div. A, title XII, § 1244(a), Dec. 23, 2016, 130 Stat. 2516; Pub. L. 115–232, div. A, title XII, § 1204(c)(1)(B), Aug. 13, 2018, 132 Stat. 2017; Pub. L. 119–60, div. A, title XII, § 1201(a)(1)–(4)(A), Dec. 18, 2025, 139 Stat. 1080, 1081.)
+(Added Pub. L. 99–661, div. A, title XIII, § 1321(a)(1), Nov. 14, 1986, 100 Stat. 3988, § 2010; amended Pub. L. 105–85, div. A, title X, § 1073(a)(35), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 110–417, [div. A], title XII, § 1203(a), Oct. 14, 2008, 122 Stat. 4622; Pub. L. 112–81, div. A, title X, § 1061(12), Dec. 31, 2011, 125 Stat. 1583; renumbered § 321 and amended Pub. L. 114–328, div. A, title XII, § 1244(a), Dec. 23, 2016, 130 Stat. 2516; Pub. L. 115–232, div. A, title XII, § 1204(c)(1)(B), Aug. 13, 2018, 132 Stat. 2017; Pub. L. 119–60, div. A, title XII, § 1201(a)(1)–(4)(A), Dec. 18, 2025, 139 Stat. 1080, 1081.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 1201(a)(4)(A), inserted “and exercises” after “Training” in section catchline.
+2025—Pub. L. 119–60, § 1201(a)(4)(A), inserted “and exercises” after “Training” in section catchline.
 
-Subsec. (a)(1). Pub. L. 119–60, § 1201(a)(1)(A), substituted “, or other national security forces that perform a similar function,” for “or other security forces”.
+Subsec. (a)(1). Pub. L. 119–60, § 1201(a)(1)(A), substituted “, or other national security forces that perform a similar function,” for “or other security forces”.
 
-Subsec. (a)(2) to (4). Pub. L. 119–60, § 1201(a)(1)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The general purpose forces of the United States armed forces may train only with the military forces of a friendly foreign country.”
+Subsec. (a)(2) to (4). Pub. L. 119–60, § 1201(a)(1)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The general purpose forces of the United States armed forces may train only with the military forces of a friendly foreign country.”
 
-Subsec. (b). Pub. L. 119–60, § 1201(a)(2)(A), substituted “subsection (f)” for “subsection (e)” in introductory provisions.
+Subsec. (b). Pub. L. 119–60, § 1201(a)(2)(A), substituted “subsection (f)” for “subsection (e)” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 119–60, § 1201(a)(2)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Expenses of training forces assigned or allocated to that command in conjunction with training, and training with, the military forces or other security forces of a friendly foreign country under subsection (a).”
+Subsec. (b)(1). Pub. L. 119–60, § 1201(a)(2)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Expenses of training forces assigned or allocated to that command in conjunction with training, and training with, the military forces or other security forces of a friendly foreign country under subsection (a).”
 
-Subsec. (b)(2). Pub. L. 119–60, § 1201(a)(2)(E), substituted “training and exercises conducted pursuant to this section” for “such training, as specified in the regulations”.
+Subsec. (b)(2). Pub. L. 119–60, § 1201(a)(2)(E), substituted “training and exercises conducted pursuant to this section” for “such training, as specified in the regulations”.
 
-Pub. L. 119–60, § 1201(a)(2)(C), (D), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, par. (2) read as follows: “Expenses of deploying such forces for that training.”
+Pub. L. 119–60, § 1201(a)(2)(C), (D), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, par. (2) read as follows: “Expenses of deploying such forces for that training.”
 
-Subsec. (b)(3). Pub. L. 119–60, § 1201(a)(2)(D), (F), redesignated par. (5) as (3) and substituted “training and exercises conducted pursuant to this section” for “training described in paragraph (1) or an exercise described in paragraph (4)”. Former par. (3) redesignated (2).
+Subsec. (b)(3). Pub. L. 119–60, § 1201(a)(2)(D), (F), redesignated par. (5) as (3) and substituted “training and exercises conducted pursuant to this section” for “training described in paragraph (1) or an exercise described in paragraph (4)”. Former par. (3) redesignated (2).
 
-Subsec. (b)(4). Pub. L. 119–60, § 1201(a)(2)(C), struck out par. (4) which read as follows: “The incremental expenses of a friendly foreign country as the direct result of participating in an exercise with the armed forces under the jurisdiction of the Secretary of Defense.”
+Subsec. (b)(4). Pub. L. 119–60, § 1201(a)(2)(C), struck out par. (4) which read as follows: “The incremental expenses of a friendly foreign country as the direct result of participating in an exercise with the armed forces under the jurisdiction of the Secretary of Defense.”
 
-Subsec. (b)(5). Pub. L. 119–60, § 1201(a)(2)(D), redesignated par. (5) as (3).
+Subsec. (b)(5). Pub. L. 119–60, § 1201(a)(2)(D), redesignated par. (5) as (3).
 
-Subsec. (e). Pub. L. 119–60, § 1201(a)(3), amended subsec. (e) generally. Prior to amendment, text read as follows: “Not later than the end of the first calendar quarter beginning after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, and every calendar quarter thereafter, the Secretary of Defense shall submit to the appropriate committees of Congress a notice setting forth the schedule of planned training engagement pursuant to subsection (a) during the calendar quarter first following the calendar quarter in which such notice is submitted.”
+Subsec. (e). Pub. L. 119–60, § 1201(a)(3), amended subsec. (e) generally. Prior to amendment, text read as follows: “Not later than the end of the first calendar quarter beginning after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, and every calendar quarter thereafter, the Secretary of Defense shall submit to the appropriate committees of Congress a notice setting forth the schedule of planned training engagement pursuant to subsection (a) during the calendar quarter first following the calendar quarter in which such notice is submitted.”
 
 2018—Subsec. (e). Pub. L. 115–232 substituted “the first calendar quarter” for “the first calender quarter” and “every calendar quarter” for “every calender quarter”.
 
@@ -1243,11 +1243,11 @@ Subsec. (e). Pub. L. 119–60, § 1201(a)(3), amended subsec. (e) generally. P
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–417, [div. A], title XII, § 1203(b), Oct. 14, 2008, 122 Stat. 4622, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 2008, and shall apply with respect to bilateral and multilateral military exercises described in section 2010 [now 321] of title 10, United States Code, as so amended, that begin on or after that date.”
+Pub. L. 110–417, [div. A], title XII, § 1203(b), Oct. 14, 2008, 122 Stat. 4622, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 2008, and shall apply with respect to bilateral and multilateral military exercises described in section 2010 [now 321] of title 10, United States Code, as so amended, that begin on or after that date.”
 
 **Temporary Authority To Provide Training to Military Forces or National Security Forces of Costa Rica and Panama**
 
-Pub. L. 118–159, div. A, title XII, § 1209, Dec. 23, 2024, 138 Stat. 2097, provided that:
+Pub. L. 118–159, div. A, title XII, § 1209, Dec. 23, 2024, 138 Stat. 2097, provided that:
 
 > “In conducting training with friendly foreign countries under section 321 of title 10, United States Code, notwithstanding subsection (a)(2) of that section, beginning on the date of the enactment of this Act [Dec. 23, 2024] and ending on December 31, 2030, the general purpose forces of the United States Armed Forces may train with the military forces or national security forces of the following countries:
 
@@ -1257,7 +1257,7 @@ Pub. L. 118–159, div. A, title XII, § 1209, Dec. 23, 2024, 138 Stat. 2097, 
 
 **Prohibition on Participation of the People’s Republic of China in Rim of the Pacific (RIMPAC) Naval Exercises**
 
-Pub. L. 115–232, div. A, title XII, § 1259, Aug. 13, 2018, 132 Stat. 2058, as amended by Pub. L. 117–263, div. A, title XII, § 1253, Dec. 23, 2022, 136 Stat. 2850, provided that:
+Pub. L. 115–232, div. A, title XII, § 1259, Aug. 13, 2018, 132 Stat. 2058, as amended by Pub. L. 117–263, div. A, title XII, § 1253, Dec. 23, 2022, 136 Stat. 2850, provided that:
 
 > **“(a) Conditions for Future Participation in RIMPAC.—**
 
@@ -1279,7 +1279,7 @@ Pub. L. 115–232, div. A, title XII, § 1259, Aug. 13, 2018, 132 Stat. 2058, 
 
 > **“(2) Form.—** The justification required under paragraph (1) shall be in unclassified form but may contain a classified annex as necessary.”
 
-### § 322. Special operations forces: training with friendly foreign forces
+### § 322. Special operations forces: training with friendly foreign forces
 
 **(a) Authority To Pay Training Expenses.—** Under regulations prescribed pursuant to subsection (c), the commander of the special operations command established pursuant to section 167 of this title and the commander of any other unified or specified combatant command may pay, or authorize payment for, any of the following expenses:
 
@@ -1313,7 +1313,7 @@ Pub. L. 115–232, div. A, title XII, § 1259, Aug. 13, 2018, 132 Stat. 2058, 
 
 **(6)** A discussion of the unique military training benefit to United States special operations forces derived from the training activities for which expenses were paid under this section.
 
-(Added Pub. L. 102–190, div. A, title X, § 1052(a)(1), Dec. 5, 1991, 105 Stat. 1470, § 2011; amended Pub. L. 104–106, div. A, title XV, § 1503(a)(18), Feb. 10, 1996, 110 Stat. 512; Pub. L. 105–261, div. A, title X, § 1062, Oct. 17, 1998, 112 Stat. 2129; Pub. L. 112–81, div. A, title X, § 1086(2), Dec. 31, 2011, 125 Stat. 1603; renumbered § 322, Pub. L. 114–328, div. A, title XII, § 1244(b), Dec. 23, 2016, 130 Stat. 2518.)
+(Added Pub. L. 102–190, div. A, title X, § 1052(a)(1), Dec. 5, 1991, 105 Stat. 1470, § 2011; amended Pub. L. 104–106, div. A, title XV, § 1503(a)(18), Feb. 10, 1996, 110 Stat. 512; Pub. L. 105–261, div. A, title X, § 1062, Oct. 17, 1998, 112 Stat. 2129; Pub. L. 112–81, div. A, title X, § 1086(2), Dec. 31, 2011, 125 Stat. 1603; renumbered § 322, Pub. L. 114–328, div. A, title XII, § 1244(b), Dec. 23, 2016, 130 Stat. 2518.)
 
 **Editorial Notes**
 
@@ -1323,9 +1323,9 @@ Pub. L. 115–232, div. A, title XII, § 1259, Aug. 13, 2018, 132 Stat. 2058, 
 
 2011—Subsec. (d)(1). Pub. L. 112–81 substituted “military information support operations” for “psychological operations”.
 
-1998—Subsec. (c). Pub. L. 105–261, § 1062(a), inserted after first sentence “The regulations shall require that training activities may be carried out under this section only with the prior approval of the Secretary of Defense.”
+1998—Subsec. (c). Pub. L. 105–261, § 1062(a), inserted after first sentence “The regulations shall require that training activities may be carried out under this section only with the prior approval of the Secretary of Defense.”
 
-Subsec. (e)(5), (6). Pub. L. 105–261, § 1062(b), added pars. (5) and (6).
+Subsec. (e)(5), (6). Pub. L. 105–261, § 1062(b), added pars. (5) and (6).
 
 1996—Subsec. (a). Pub. L. 104–106 substituted “To” for “to” in heading.
 
@@ -1337,7 +1337,7 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (e) of this s
 
 **Training of General Purpose Forces of the United States Armed Forces With Military and Other Security Forces of Friendly Foreign Countries**
 
-Pub. L. 113–66, div. A, title XII, § 1203, Dec. 26, 2013, 127 Stat. 894, related to the training of general purpose forces of the armed forces of the United States with military and other security forces of friendly foreign countries, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1244(c), Dec. 23, 2016, 130 Stat. 2518.
+Pub. L. 113–66, div. A, title XII, § 1203, Dec. 26, 2013, 127 Stat. 894, related to the training of general purpose forces of the armed forces of the United States with military and other security forces of friendly foreign countries, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1244(c), Dec. 23, 2016, 130 Stat. 2518.
 
 ## SUBCHAPTER IV—SUPPORT FOR OPERATIONS AND CAPACITY BUILDING
 
@@ -1345,11 +1345,11 @@ Pub. L. 113–66, div. A, title XII, § 1203, Dec. 26, 2013, 127 Stat. 894, re
 
 **Amendments**
 
-2022—Pub. L. 117–263, div. A, title XII, § 1201(b), Dec. 23, 2022, 136 Stat. 2823, added item 335.
+2022—Pub. L. 117–263, div. A, title XII, § 1201(b), Dec. 23, 2022, 136 Stat. 2823, added item 335.
 
-2021—Pub. L. 117–81, div. A, title XII, § 1201(b), Dec. 27, 2021, 135 Stat. 1958, added item 334.
+2021—Pub. L. 117–81, div. A, title XII, § 1201(b), Dec. 27, 2021, 135 Stat. 1958, added item 334.
 
-### § 331. Friendly foreign countries: authority to provide support for conduct of operations
+### § 331. Friendly foreign countries: authority to provide support for conduct of operations
 
 **(a) Authority.—** The Secretary of Defense may provide support to friendly foreign countries in connection with the conduct of operations designated pursuant to subsection (b).
 
@@ -1419,7 +1419,7 @@ Pub. L. 113–66, div. A, title XII, § 1203, Dec. 26, 2013, 127 Stat. 894, re
 
 **(h) Logistic Support, Supplies, and Services Defined.—** In this section, the term “logistic support, supplies, and services” has the meaning given that term in section 2350(1) of this title.
 
-(Added Pub. L. 109–364, div. A, title XII, § 1201(a), Oct. 17, 2006, 120 Stat. 2410, § 127c; renumbered § 127d, Pub. L. 110–181, div. A, title X, § 1063(a)(1)(A), Jan. 28, 2008, 122 Stat. 321; Pub. L. 111–383, div. A, title X, § 1075(b)(3), title XII, § 1202, Jan. 7, 2011, 124 Stat. 4369, 4385; renumbered § 331 and amended Pub. L. 114–328, div. A, title XII, § 1245(a), Dec. 23, 2016, 130 Stat. 2518; Pub. L. 115–232, div. A, title XII, § 1203(b), Aug. 13, 2018, 132 Stat. 2016; Pub. L. 117–263, div. A, title XII, § 1202(a), Dec. 23, 2022, 136 Stat. 2823.)
+(Added Pub. L. 109–364, div. A, title XII, § 1201(a), Oct. 17, 2006, 120 Stat. 2410, § 127c; renumbered § 127d, Pub. L. 110–181, div. A, title X, § 1063(a)(1)(A), Jan. 28, 2008, 122 Stat. 321; Pub. L. 111–383, div. A, title X, § 1075(b)(3), title XII, § 1202, Jan. 7, 2011, 124 Stat. 4369, 4385; renumbered § 331 and amended Pub. L. 114–328, div. A, title XII, § 1245(a), Dec. 23, 2016, 130 Stat. 2518; Pub. L. 115–232, div. A, title XII, § 1203(b), Aug. 13, 2018, 132 Stat. 2016; Pub. L. 117–263, div. A, title XII, § 1202(a), Dec. 23, 2022, 136 Stat. 2823.)
 
 **Editorial Notes**
 
@@ -1435,15 +1435,15 @@ A prior section 331 was renumbered section 251 of this title.
 
 2016—Pub. L. 114–328 renumbered section 127d of this title as this section and amended it generally. Prior to amendment, section related to authority to provide logistic support, supplies, and services to allied forces participating in combined operations.
 
-2011—Subsec. (a). Pub. L. 111–383, § 1202(a), designated existing provisions as par. (1), inserted “of the United States” after “armed forces”, struck out “Provision of such support, supplies, and services to the forces of an allied nation may be made only with the concurrence of the Secretary of State.” at end, and added pars. (2) and (3).
+2011—Subsec. (a). Pub. L. 111–383, § 1202(a), designated existing provisions as par. (1), inserted “of the United States” after “armed forces”, struck out “Provision of such support, supplies, and services to the forces of an allied nation may be made only with the concurrence of the Secretary of State.” at end, and added pars. (2) and (3).
 
-Subsec. (b). Pub. L. 111–383, § 1202(b)(1), substituted “subsection (a)(1)” for “subsection (a)” in par. (1) and in introductory provisions of par. (2).
+Subsec. (b). Pub. L. 111–383, § 1202(b)(1), substituted “subsection (a)(1)” for “subsection (a)” in par. (1) and in introductory provisions of par. (2).
 
-Subsec. (c)(1). Pub. L. 111–383, § 1202(b)(2)(A), substituted “The” for “Except as provided in paragraph (2), the” and “subsection (a)(1)” for “this section”.
+Subsec. (c)(1). Pub. L. 111–383, § 1202(b)(2)(A), substituted “The” for “Except as provided in paragraph (2), the” and “subsection (a)(1)” for “this section”.
 
-Subsec. (c)(2). Pub. L. 111–383, § 1202(b)(2)(B), substituted “The value of the logistic support, supplies, and services provided under subsection (a)(2) in any fiscal year may not” for “In addition to any logistic support, supplies, and services provided under subsection (a) that are covered by paragraph (1), the value of logistic support, supplies, and services provided under this section solely for the purposes of enhancing the interoperability of the logistical support systems of military forces participating in combined operation of the United States in order to facilitate such operations may not, in any fiscal year,”.
+Subsec. (c)(2). Pub. L. 111–383, § 1202(b)(2)(B), substituted “The value of the logistic support, supplies, and services provided under subsection (a)(2) in any fiscal year may not” for “In addition to any logistic support, supplies, and services provided under subsection (a) that are covered by paragraph (1), the value of logistic support, supplies, and services provided under this section solely for the purposes of enhancing the interoperability of the logistical support systems of military forces participating in combined operation of the United States in order to facilitate such operations may not, in any fiscal year,”.
 
-Subsec. (d)(1). Pub. L. 111–383, § 1075(b)(3), substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
+Subsec. (d)(1). Pub. L. 111–383, § 1075(b)(3), substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
 
 2008—Pub. L. 110–181 renumbered section 127c of this title, relating to allied forces participating in combined operations, as this section.
 
@@ -1451,7 +1451,7 @@ Subsec. (d)(1). Pub. L. 111–383, § 1075(b)(3), substituted “Committee on 
 
 **Support for Execution of Bilateral Agreements Concerning Illicit Transnational Maritime Activity**
 
-Pub. L. 118–31, div. A, title XVIII, § 1808, Dec. 22, 2023, 137 Stat. 688, as amended by Pub. L. 118–159, div. A, title XII, § 1201(b), Dec. 23, 2024, 138 Stat. 2093, provided that:
+Pub. L. 118–31, div. A, title XVIII, § 1808, Dec. 22, 2023, 137 Stat. 688, as amended by Pub. L. 118–159, div. A, title XII, § 1201(b), Dec. 23, 2024, 138 Stat. 2093, provided that:
 
 > **“(a) In General.—** The Secretary of Defense, in coordination with the Commandant of the Coast Guard, and in consultation with the Secretary of State, may provide assistance to the Coast Guard for the execution of existing maritime law enforcement agreements between the United States and friendly countries that were established to combat transnational organized illegal maritime activity, including illegal, unreported, and unregulated fishing.
 
@@ -1469,7 +1469,7 @@ Pub. L. 118–31, div. A, title XVIII, § 1808, Dec. 22, 2023, 137 Stat. 688, 
 
 > **“(4)** The provision of logistic support, supplies, and services (as such term is defined in section 2350 of title 10, United States Code).”
 
-### § 332. Friendly foreign countries; international and regional organizations: defense institution capacity building
+### § 332. Friendly foreign countries; international and regional organizations: defense institution capacity building
 
 **(a) Ministry of Defense Advisor Authority.—** The Secretary of Defense may, with the concurrence of the Secretary of State, carry out a program to assign civilian employees of the Department of Defense and members of the armed forces as advisors to the ministries of defense (or security agencies serving a similar defense function) of foreign countries or regional organizations with security missions in order to—
 
@@ -1511,13 +1511,13 @@ Pub. L. 118–31, div. A, title XVIII, § 1808, Dec. 22, 2023, 137 Stat. 688, 
 
 **(4)** Any other information relating to the assignment that the Secretary of Defense considers appropriate.
 
-(Added and amended Pub. L. 114–328, div. A, title XII, § 1241(c)(1), (2), Dec. 23, 2016, 130 Stat. 2500; Pub. L. 115–91, div. A, title XII, § 1204(a), Dec. 12, 2017, 131 Stat. 1642; Pub. L. 115–232, div. A, title XII, § 1202, Aug. 13, 2018, 132 Stat. 2016; Pub. L. 117–263, div. A, title XII, § 1202(b), Dec. 23, 2022, 136 Stat. 2823.)
+(Added and amended Pub. L. 114–328, div. A, title XII, § 1241(c)(1), (2), Dec. 23, 2016, 130 Stat. 2500; Pub. L. 115–91, div. A, title XII, § 1204(a), Dec. 12, 2017, 131 Stat. 1642; Pub. L. 115–232, div. A, title XII, § 1202, Aug. 13, 2018, 132 Stat. 2016; Pub. L. 117–263, div. A, title XII, § 1202(b), Dec. 23, 2022, 136 Stat. 2823.)
 
 **Editorial Notes**
 
 **Codification**
 
-Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a), (b), and (d) of section 1081 of Pub. L. 112–81, div. A, title X, Dec. 31, 2011, 125 Stat. 1599, as amended, which was formerly set out as a note under section 168 of this title, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1241(c)(3), Dec. 23, 2016, 130 Stat. 2500.
+Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a), (b), and (d) of section 1081 of Pub. L. 112–81, div. A, title X, Dec. 31, 2011, 125 Stat. 1599, as amended, which was formerly set out as a note under section 168 of this title, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1241(c)(3), Dec. 23, 2016, 130 Stat. 2500.
 
 **Prior Provisions**
 
@@ -1527,31 +1527,31 @@ A prior section 332 was renumbered section 252 of this title.
 
 2022—Subsec. (b)(2). Pub. L. 117–263, in introductory provisions, substituted “Not later than February 1 of each year” for “Each fiscal year” and struck out “quarter” after “fiscal year” wherever appearing.
 
-2018—Subsec. (b)(1). Pub. L. 115–232, § 1202(1), substituted “provide advisors or trainers” for “assign civilian employees of the Department of Defense and members of the armed forces as advisors or trainers”.
+2018—Subsec. (b)(1). Pub. L. 115–232, § 1202(1), substituted “provide advisors or trainers” for “assign civilian employees of the Department of Defense and members of the armed forces as advisors or trainers”.
 
-Subsec. (b)(2)(B). Pub. L. 115–232, § 1202(2)(C), which directed substitution of “each provision of such an advisor or trainer” for “each assignment”, was executed by making the substitution in both places it appeared, to reflect the probable intent of Congress.
+Subsec. (b)(2)(B). Pub. L. 115–232, § 1202(2)(C), which directed substitution of “each provision of such an advisor or trainer” for “each assignment”, was executed by making the substitution in both places it appeared, to reflect the probable intent of Congress.
 
-Pub. L. 115–232, § 1202(2)(A), (B), substituted “Secretary provided” for “Secretary assigned”, “number of such advisors or trainers so provided” for “number of such advisors or trainers so assigned”, and “each advisor or trainer so provided” for “each assigned advisor or trainer”.
+Pub. L. 115–232, § 1202(2)(A), (B), substituted “Secretary provided” for “Secretary assigned”, “number of such advisors or trainers so provided” for “number of such advisors or trainers so assigned”, and “each advisor or trainer so provided” for “each assigned advisor or trainer”.
 
-2017—Subsec. (a). Pub. L. 115–91, § 1204(a)(1), inserted “and members of the armed forces” after “civilian employees of the Department of Defense” in introductory provisions.
+2017—Subsec. (a). Pub. L. 115–91, § 1204(a)(1), inserted “and members of the armed forces” after “civilian employees of the Department of Defense” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 115–91, § 1204(a)(2)(A), inserted “to assign civilian employees of the Department of Defense and members of the armed forces as advisors or trainers” after “carry out a program” in introductory provisions.
+Subsec. (b)(1). Pub. L. 115–91, § 1204(a)(2)(A), inserted “to assign civilian employees of the Department of Defense and members of the armed forces as advisors or trainers” after “carry out a program” in introductory provisions.
 
-Subsec. (b)(2)(B). Pub. L. 115–91, § 1204(a)(2)(B), substituted “advisors or trainers” for “employees” in two places and “the activities of each assigned advisor or trainer” for “each assigned employee’s activities”.
+Subsec. (b)(2)(B). Pub. L. 115–91, § 1204(a)(2)(B), substituted “advisors or trainers” for “employees” in two places and “the activities of each assigned advisor or trainer” for “each assigned employee’s activities”.
 
-Subsec. (c). Pub. L. 115–91, § 1204(a)(3)(A), inserted “or a member of the armed forces” after “a civilian employee of the Department of Defense” in introductory provisions.
+Subsec. (c). Pub. L. 115–91, § 1204(a)(3)(A), inserted “or a member of the armed forces” after “a civilian employee of the Department of Defense” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 115–91, § 1204(a)(3)(B), substituted “advisor or trainer” for “employee as an advisor”.
+Subsec. (c)(1). Pub. L. 115–91, § 1204(a)(3)(B), substituted “advisor or trainer” for “employee as an advisor”.
 
-Subsec. (c)(3). Pub. L. 115–91, § 1204(a)(3)(C), substituted “advisor or trainer” for “employee”.
+Subsec. (c)(3). Pub. L. 115–91, § 1204(a)(3)(C), substituted “advisor or trainer” for “employee”.
 
-2016—Subsecs. (c), (d). Pub. L. 114–328, § 1241(c)(2), redesignated subsec. (d) as (c).
+2016—Subsecs. (c), (d). Pub. L. 114–328, § 1241(c)(2), redesignated subsec. (d) as (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Legal Institutional Capacity Building Initiative for Foreign Defense Institutions**
 
-Pub. L. 116–92, div. A, title XII, § 1210, Dec. 20, 2019, 133 Stat. 1625, as amended by Pub. L. 118–31, div. A, title XII, § 1208, Dec. 22, 2023, 137 Stat. 449, provided that:
+Pub. L. 116–92, div. A, title XII, § 1210, Dec. 20, 2019, 133 Stat. 1625, as amended by Pub. L. 118–31, div. A, title XII, § 1208, Dec. 22, 2023, 137 Stat. 449, provided that:
 
 > **“(a) Initiative.—** The Secretary of Defense may carry out, in accordance with section 332 of title 10, United States Code, an initiative of legal institutional capacity building in collaboration with the appropriate ministry of defense (or security agency serving a similar defense function) legal institutions that support the efforts of one or more foreign countries to establish or improve legal institutional capacity.
 
@@ -1621,7 +1621,7 @@ Pub. L. 116–92, div. A, title XII, § 1210, Dec. 20, 2019, 133 Stat. 1625, a
 
 > **“(f) Funding.—** Amounts for programs carried out pursuant to subsection (a) in a fiscal year, and for other purposes in connection with such programs as authorized by this section, may be derived only from amounts authorized to be appropriated for such fiscal year for the Department of Defense for operation and maintenance, Defense-wide, and available for the Defense Security Cooperation Agency for such programs and purposes.”
 
-### § 333. Foreign security forces: authority to build capacity
+### § 333. Foreign security forces: authority to build capacity
 
 **(a) Authority.—** The Secretary of Defense is authorized to conduct or support a program or programs to provide training and equipment to the national security forces of one or more foreign countries for the purpose of building the capacity of such forces to conduct one or more of the following:
 
@@ -1757,13 +1757,13 @@ Pub. L. 116–92, div. A, title XII, § 1210, Dec. 20, 2019, 133 Stat. 1625, a
 
 **(F)** Any other matter relating to the agreement, as determined by the Secretary of Defense.
 
-(Added Pub. L. 114–328, div. A, title XII, § 1241(d)(1), Dec. 23, 2016, 130 Stat. 2500; amended Pub. L. 115–91, div. A, title XII, § 1204(b), Dec. 12, 2017, 131 Stat. 1643; Pub. L. 115–232, div. A, title XII, §§ 1201, 1203(c), Aug. 13, 2018, 132 Stat. 2016; Pub. L. 116–92, div. A, title XII, § 1201, Dec. 20, 2019, 133 Stat. 1620; Pub. L. 116–283, div. A, title XII, § 1201, Jan. 1, 2021, 134 Stat. 3908; Pub. L. 117–263, div. A, title XII, § 1202(c), Dec. 23, 2022, 136 Stat. 2823; Pub. L. 118–31, div. A, title XII, § 1203(b), (c), Dec. 22, 2023, 137 Stat. 441, 442; Pub. L. 118–159, div. A, title XII, § 1201(a), Dec. 23, 2024, 138 Stat. 2093; Pub. L. 119–60, div. A, title XII, § 1202, Dec. 18, 2025, 139 Stat. 1081.)
+(Added Pub. L. 114–328, div. A, title XII, § 1241(d)(1), Dec. 23, 2016, 130 Stat. 2500; amended Pub. L. 115–91, div. A, title XII, § 1204(b), Dec. 12, 2017, 131 Stat. 1643; Pub. L. 115–232, div. A, title XII, §§ 1201, 1203(c), Aug. 13, 2018, 132 Stat. 2016; Pub. L. 116–92, div. A, title XII, § 1201, Dec. 20, 2019, 133 Stat. 1620; Pub. L. 116–283, div. A, title XII, § 1201, Jan. 1, 2021, 134 Stat. 3908; Pub. L. 117–263, div. A, title XII, § 1202(c), Dec. 23, 2022, 136 Stat. 2823; Pub. L. 118–31, div. A, title XII, § 1203(b), (c), Dec. 22, 2023, 137 Stat. 441, 442; Pub. L. 118–159, div. A, title XII, § 1201(a), Dec. 23, 2024, 138 Stat. 2093; Pub. L. 119–60, div. A, title XII, § 1202, Dec. 18, 2025, 139 Stat. 1081.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (e)(5), (9)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (e)(5), (9)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 **Prior Provisions**
 
@@ -1779,33 +1779,33 @@ A prior section 333 was renumbered section 253 of this title.
 
 2022—Subsec. (f). Pub. L. 117–263 substituted “Semi-Annual” for “Quarterly” in heading and “a semi-annual” for “a quarterly” and “180 days” for “calendar quarter” in introductory provisions.
 
-2021—Subsec. (a)(7), (8). Pub. L. 116–283, § 1201(1), (2), added par. (7) and redesignated former par. (7) as (8).
+2021—Subsec. (a)(7), (8). Pub. L. 116–283, § 1201(1), (2), added par. (7) and redesignated former par. (7) as (8).
 
-Subsec. (a)(9). Pub. L. 116–283, § 1201(3), added par. (9).
+Subsec. (a)(9). Pub. L. 116–283, § 1201(3), added par. (9).
 
-2019—Subsec. (a)(7). Pub. L. 116–92, § 1201(a), inserted “existing” before “international coalition operation”.
+2019—Subsec. (a)(7). Pub. L. 116–92, § 1201(a), inserted “existing” before “international coalition operation”.
 
-Subsec. (e)(9). Pub. L. 116–92, § 1201(b), added par. (9).
+Subsec. (e)(9). Pub. L. 116–92, § 1201(b), added par. (9).
 
-2018—Subsec. (b)(2). Pub. L. 115–232, § 1201, inserted at end “In developing and planning a program to build the capacity of the national security forces of a foreign country under subsection (a), the Secretary of Defense and Secretary of State should jointly consider political, social, economic, diplomatic, and historical factors, if any, of the foreign country that may impact the effectiveness of the program.”
+2018—Subsec. (b)(2). Pub. L. 115–232, § 1201, inserted at end “In developing and planning a program to build the capacity of the national security forces of a foreign country under subsection (a), the Secretary of Defense and Secretary of State should jointly consider political, social, economic, diplomatic, and historical factors, if any, of the foreign country that may impact the effectiveness of the program.”
 
-Subsec. (c)(1). Pub. L. 115–232, § 1203(c)(1), inserted “supporting security cooperation programs under this section” after “small-scale construction”.
+Subsec. (c)(1). Pub. L. 115–232, § 1203(c)(1), inserted “supporting security cooperation programs under this section” after “small-scale construction”.
 
-Subsec. (e)(8). Pub. L. 115–232, § 1203(c)(2), added par. (8).
+Subsec. (e)(8). Pub. L. 115–232, § 1203(c)(2), added par. (8).
 
-2017—Subsec. (c)(2)(A). Pub. L. 115–91, § 1204(b)(1)(A), substituted “the rule of law, and civilian control of the military” for “and the rule of law”.
+2017—Subsec. (c)(2)(A). Pub. L. 115–91, § 1204(b)(1)(A), substituted “the rule of law, and civilian control of the military” for “and the rule of law”.
 
-Subsec. (c)(2)(B). Pub. L. 115–91, § 1204(b)(1)(B), substituted “Institutional capacity building” for “Respect for civilian control of the military”.
+Subsec. (c)(2)(B). Pub. L. 115–91, § 1204(b)(1)(B), substituted “Institutional capacity building” for “Respect for civilian control of the military”.
 
-Subsec. (c)(3). Pub. L. 115–91, § 1204(b)(2), in heading, substituted “Observance of and respect for the law of armed conflict, human rights and fundamental freedoms, the rule of law, and civilian control of the military” for “Human rights training” and in text, inserted “or the Department of State” after “Department of Defense” and substituted “training that includes a comprehensive curriculum on the law of armed conflict, human rights and fundamental freedoms, and the rule of law, and that enhances the capacity to exercise responsible civilian control of the military” for “human rights training that includes a comprehensive curriculum on human rights and the law of armed conflict”.
+Subsec. (c)(3). Pub. L. 115–91, § 1204(b)(2), in heading, substituted “Observance of and respect for the law of armed conflict, human rights and fundamental freedoms, the rule of law, and civilian control of the military” for “Human rights training” and in text, inserted “or the Department of State” after “Department of Defense” and substituted “training that includes a comprehensive curriculum on the law of armed conflict, human rights and fundamental freedoms, and the rule of law, and that enhances the capacity to exercise responsible civilian control of the military” for “human rights training that includes a comprehensive curriculum on human rights and the law of armed conflict”.
 
-Subsec. (c)(4). Pub. L. 115–91, § 1204(b)(3), substituted “that the Department of Defense or another department or agency is already undertaking, or will undertake as part of the security sector assistance provided to the foreign country concerned, a program of institutional capacity building with appropriate institutions of such foreign country to enhance the capacity of such foreign country to organize, administer, employ, manage, maintain, sustain, or oversee the national security forces of such foreign country.” for “that the Department is already undertaking, or will undertake as part of the program, a program of institutional capacity building with appropriate institutions of such foreign country that is complementary to the program with respect to such foreign country under subsection (a).” and struck out at end “The purpose of the program of institutional capacity building shall be to enhance the capacity of such foreign country to exercise responsible civilian control of the national security forces of such foreign country.”
+Subsec. (c)(4). Pub. L. 115–91, § 1204(b)(3), substituted “that the Department of Defense or another department or agency is already undertaking, or will undertake as part of the security sector assistance provided to the foreign country concerned, a program of institutional capacity building with appropriate institutions of such foreign country to enhance the capacity of such foreign country to organize, administer, employ, manage, maintain, sustain, or oversee the national security forces of such foreign country.” for “that the Department is already undertaking, or will undertake as part of the program, a program of institutional capacity building with appropriate institutions of such foreign country that is complementary to the program with respect to such foreign country under subsection (a).” and struck out at end “The purpose of the program of institutional capacity building shall be to enhance the capacity of such foreign country to exercise responsible civilian control of the national security forces of such foreign country.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Enhancing Security Partnership With Jordan and Lebanon**
 
-Pub. L. 119–60, div. A, title XII, § 1226, Dec. 18, 2025, 139 Stat. 1091, provided that:
+Pub. L. 119–60, div. A, title XII, § 1226, Dec. 18, 2025, 139 Stat. 1091, provided that:
 
 > **“(a) In General.—** The Secretary of Defense, pursuant to existing authorities, shall seek to provide assistance, including training, equipment, logistics support, supplies, and services, to the Government of Jordan and the Government of Lebanon for the purposes of—
 
@@ -1829,7 +1829,7 @@ Pub. L. 119–60, div. A, title XII, § 1226, Dec. 18, 2025, 139 Stat. 1091, p
 
 **Baltic Security Initiative**
 
-Pub. L. 119–60, div. A, title XII, § 1247, Dec. 18, 2025, 139 Stat. 1106, provided that:
+Pub. L. 119–60, div. A, title XII, § 1247, Dec. 18, 2025, 139 Stat. 1106, provided that:
 
 > **“(a) In General.—** Pursuant to the authorities provided in chapter 16 of title 10, United States Code, the Secretary of Defense, in coordination with the Commander of United States European Command, shall establish and carry out an initiative, to be known as the ‘Baltic Security Initiative’, for the purpose of deepening security cooperation with the military forces of the Baltic countries.
 
@@ -1895,7 +1895,7 @@ Pub. L. 119–60, div. A, title XII, § 1247, Dec. 18, 2025, 139 Stat. 1106, p
 
 **Strategy To Strengthen Multilateral Defense in the Indo-Pacific**
 
-Pub. L. 119–60, div. A, title XII, § 1254, Dec. 18, 2025, 139 Stat. 1115, provided that:
+Pub. L. 119–60, div. A, title XII, § 1254, Dec. 18, 2025, 139 Stat. 1115, provided that:
 
 > **“(a) In General.—** The Secretary of Defense, in coordination with the Secretary of State, shall develop and implement a strategy to strengthen multilateral defense against regional aggression in the Indo-Pacific region by expanding multilateral coordination with United States allies and partners in the region.
 
@@ -1927,7 +1927,7 @@ Pub. L. 119–60, div. A, title XII, § 1254, Dec. 18, 2025, 139 Stat. 1115, p
 
 **Indo-Pacific Campaigning Initiative**
 
-Pub. L. 118–31, div. A, title XIII, § 1304, Dec. 22, 2023, 137 Stat. 489, provided that:
+Pub. L. 118–31, div. A, title XIII, § 1304, Dec. 22, 2023, 137 Stat. 489, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall establish, and the Commander of the United States Indo-Pacific Command shall carry out, an Indo-Pacific Campaigning Initiative (in this section referred to as the ‘Initiative’) for purposes of—
 
@@ -1969,7 +1969,7 @@ Pub. L. 118–31, div. A, title XIII, § 1304, Dec. 22, 2023, 137 Stat. 489, p
 
 **Enhancing Major Defense Partnership With India**
 
-Pub. L. 118–31, div. A, title XIII, § 1316, Dec. 22, 2023, 137 Stat. 498, provided that:
+Pub. L. 118–31, div. A, title XIII, § 1316, Dec. 22, 2023, 137 Stat. 498, provided that:
 
 > “The Secretary of Defense, in coordination with the Secretary of State and the head of any other relevant Federal department or agency, shall seek to ensure that India is appropriately considered for cooperative defense activities consistent with the status of India as a major defense partner of the United States, including with respect to the following lines of effort:
 
@@ -2009,7 +2009,7 @@ Pub. L. 118–31, div. A, title XIII, § 1316, Dec. 22, 2023, 137 Stat. 498, p
 
 **Military Cybersecurity Cooperation With Hashemite Kingdom of Jordan**
 
-Pub. L. 117–263, div. A, title XV, § 1508, Dec. 23, 2022, 136 Stat. 2885, provided that:
+Pub. L. 117–263, div. A, title XV, § 1508, Dec. 23, 2022, 136 Stat. 2885, provided that:
 
 > **“(a) Requirement.—** Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense, acting through the Under Secretary of Defense for Policy, in concurrence with the Secretary of State and in coordination with the Commander of the United States Cyber Command and the Commander of the United States Central Command, shall seek to engage the Ministry of Defense of the Hashemite Kingdom of Jordan for the purpose of expanding cooperation of military cybersecurity activities.
 
@@ -2049,7 +2049,7 @@ Pub. L. 117–263, div. A, title XV, § 1508, Dec. 23, 2022, 136 Stat. 2885, p
 
 **Pilot Program To Improve Cyber Cooperation With Covered Foreign Military Partners in Southeast Asia**
 
-Pub. L. 116–283, div. A, title XII, § 1256, Jan. 1, 2021, 134 Stat. 3956, as amended by Pub. L. 118–31, div. A, title XIII, § 1315(a)–(g)(1), Dec. 22, 2023, 137 Stat. 497, 498; Pub. L. 119–60, div. A, title XII, § 1261, Dec. 18, 2025, 139 Stat. 1118, provided that:
+Pub. L. 116–283, div. A, title XII, § 1256, Jan. 1, 2021, 134 Stat. 3956, as amended by Pub. L. 118–31, div. A, title XIII, § 1315(a)–(g)(1), Dec. 22, 2023, 137 Stat. 497, 498; Pub. L. 119–60, div. A, title XII, § 1261, Dec. 18, 2025, 139 Stat. 1118, provided that:
 
 > **“(a) In General.—** The Secretary of Defense, with the concurrence of the Secretary of State, may establish, using existing authorities of the Department of Defense, a pilot program with covered foreign military partners—
 
@@ -2105,11 +2105,11 @@ Pub. L. 116–283, div. A, title XII, § 1256, Jan. 1, 2021, 134 Stat. 3956, a
 
 **Guidance**
 
-Pub. L. 114–328, div. A, title XII, § 1241(d)(4), Dec. 23, 2016, 130 Stat. 2504, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2016], the Secretary of Defense shall prescribe, and submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives], initial policy guidance on roles, responsibilities, and processes in connection with programs and activities authorized by section 333 of title 10, United States Code, as so added. Not later than 270 days after the date of the enactment of this Act, the Secretary shall prescribe, and submit to the congressional defense committees, final policy guidance on roles, responsibilities, and processes in connection with such programs and activities.”
+Pub. L. 114–328, div. A, title XII, § 1241(d)(4), Dec. 23, 2016, 130 Stat. 2504, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2016], the Secretary of Defense shall prescribe, and submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives], initial policy guidance on roles, responsibilities, and processes in connection with programs and activities authorized by section 333 of title 10, United States Code, as so added. Not later than 270 days after the date of the enactment of this Act, the Secretary shall prescribe, and submit to the congressional defense committees, final policy guidance on roles, responsibilities, and processes in connection with such programs and activities.”
 
 **Training for Eastern European National Security Forces in the Course of Multilateral Exercises**
 
-Pub. L. 114–92, div. A, title XII, § 1251, Nov. 25, 2015, 129 Stat. 1070, as amended by Pub. L. 114–328, div. A, title XII, § 1233, Dec. 23, 2016, 130 Stat. 2489; Pub. L. 115–91, div. A, title XII, § 1205, Dec. 12, 2017, 131 Stat. 1643; Pub. L. 116–92, div. A, title XII, § 1247(a), Dec. 20, 2019, 133 Stat. 1662; Pub. L. 116–283, div. A, title XII, § 1243, Jan. 1, 2021, 134 Stat. 3947; Pub. L. 117–81, div. A, title XII, § 1233, Dec. 27, 2021, 135 Stat. 1974; Pub. L. 118–31, div. A, title XII, § 1249, Dec. 22, 2023, 137 Stat. 464; Pub. L. 118–159, div. A, title XIII, § 1302, Dec. 23, 2024, 138 Stat. 2110, provided that:
+Pub. L. 114–92, div. A, title XII, § 1251, Nov. 25, 2015, 129 Stat. 1070, as amended by Pub. L. 114–328, div. A, title XII, § 1233, Dec. 23, 2016, 130 Stat. 2489; Pub. L. 115–91, div. A, title XII, § 1205, Dec. 12, 2017, 131 Stat. 1643; Pub. L. 116–92, div. A, title XII, § 1247(a), Dec. 20, 2019, 133 Stat. 1662; Pub. L. 116–283, div. A, title XII, § 1243, Jan. 1, 2021, 134 Stat. 3947; Pub. L. 117–81, div. A, title XII, § 1233, Dec. 27, 2021, 135 Stat. 1974; Pub. L. 118–31, div. A, title XII, § 1249, Dec. 22, 2023, 137 Stat. 464; Pub. L. 118–159, div. A, title XIII, § 1302, Dec. 23, 2024, 138 Stat. 2110, provided that:
 
 > **“(a) Authority.—** The Secretary of Defense may provide the training specified in subsection (b), and pay the incremental expenses incurred by a country as the direct result of participation in such training, for the national security forces provided for under subsection (c).
 
@@ -2185,7 +2185,7 @@ Pub. L. 114–92, div. A, title XII, § 1251, Nov. 25, 2015, 129 Stat. 1070, a
 
 **Indo-Pacific Maritime Security Initiative; Indo-Pacific Maritime Domain Awareness Initiative**
 
-Pub. L. 118–31, div. A, title XIII, § 1305, Dec. 22, 2023, 137 Stat. 490, provided that:
+Pub. L. 118–31, div. A, title XIII, § 1305, Dec. 22, 2023, 137 Stat. 490, provided that:
 
 > **“(a) Establishment.—** Not later than 90 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense, in coordination with the Secretary of State, shall seek to establish an initiative with allies and partners of the United States, including Australia, Japan, and India, to be known as the ‘Indo-Pacific Maritime Domain Awareness Initiative’ (in this section referred to as the ‘Initiative’), to bolster maritime domain awareness in the Indo-Pacific region.
 
@@ -2199,7 +2199,7 @@ Pub. L. 118–31, div. A, title XIII, § 1305, Dec. 22, 2023, 137 Stat. 490, p
 
 > **“(3)** To provide a comprehensive understanding of the maritime domain in the Indo-Pacific region, including by facilitating information sharing among such allies and partners.”
 
-Pub. L. 114–92, div. A, title XII, § 1263, Nov. 25, 2015, 129 Stat. 1073, as amended by Pub. L. 114–328, div. A, title XII, § 1289, Dec. 23, 2016, 130 Stat. 2555; Pub. L. 115–232, div. A, title XII, § 1252, Aug. 13, 2018, 132 Stat. 2053; Pub. L. 116–92, div. A, title XII, §§ 1251, 1252(a), Dec. 20, 2019, 133 Stat. 1666–1668; Pub. L. 117–81, div. A, title XII, § 1241, Dec. 27, 2021, 135 Stat. 1976; Pub. L. 117–263, div. A, title XII, § 1252, Dec. 23, 2022, 136 Stat. 2850; Pub. L. 118–159, div. A, title XIII, § 1312, Dec. 23, 2024, 138 Stat. 2112, provided that:
+Pub. L. 114–92, div. A, title XII, § 1263, Nov. 25, 2015, 129 Stat. 1073, as amended by Pub. L. 114–328, div. A, title XII, § 1289, Dec. 23, 2016, 130 Stat. 2555; Pub. L. 115–232, div. A, title XII, § 1252, Aug. 13, 2018, 132 Stat. 2053; Pub. L. 116–92, div. A, title XII, §§ 1251, 1252(a), Dec. 20, 2019, 133 Stat. 1666–1668; Pub. L. 117–81, div. A, title XII, § 1241, Dec. 27, 2021, 135 Stat. 1976; Pub. L. 117–263, div. A, title XII, § 1252, Dec. 23, 2022, 136 Stat. 2850; Pub. L. 118–159, div. A, title XIII, § 1312, Dec. 23, 2024, 138 Stat. 2112, provided that:
 
 > **“(a) Assistance and Training.—**
 
@@ -2327,9 +2327,9 @@ Pub. L. 114–92, div. A, title XII, § 1263, Nov. 25, 2015, 129 Stat. 1073, a
 
 **Training of Security Forces and Associated Security Ministries of Foreign Countries To Promote Respect for the Rule of Law and Human Rights**
 
-Pub. L. 113–291, div. A, title XII, § 1206, Dec. 19, 2014, 128 Stat. 3538, as amended by Pub. L. 115–232, div. A, title XII, § 1205(c), Aug. 13, 2018, 132 Stat. 2018, authorized the Secretary of Defense to conduct human rights training of security forces and associated security ministries of foreign countries and terminated such authority on Sept. 30, 2020.
+Pub. L. 113–291, div. A, title XII, § 1206, Dec. 19, 2014, 128 Stat. 3538, as amended by Pub. L. 115–232, div. A, title XII, § 1205(c), Aug. 13, 2018, 132 Stat. 2018, authorized the Secretary of Defense to conduct human rights training of security forces and associated security ministries of foreign countries and terminated such authority on Sept. 30, 2020.
 
-### § 334. Administrative support and payment of certain expenses for covered foreign defense personnel
+### § 334. Administrative support and payment of certain expenses for covered foreign defense personnel
 
 **(a) In General.—** The Secretary of Defense may—
 
@@ -2381,7 +2381,7 @@ Pub. L. 113–291, div. A, title XII, § 1206, Dec. 19, 2014, 128 Stat. 3538, 
 
 **(5)** The term “United Nations Command” means the headquarters of the United Nations Command, the United Nations Command Military Armistice Commission, the United Nations Command-Rear, and the United Nations Command Honor Guard.
 
-(Added Pub. L. 117–81, div. A, title XII, § 1201(a), Dec. 27, 2021, 135 Stat. 1957.)
+(Added Pub. L. 117–81, div. A, title XII, § 1201(a), Dec. 27, 2021, 135 Stat. 1957.)
 
 **Editorial Notes**
 
@@ -2389,7 +2389,7 @@ Pub. L. 113–291, div. A, title XII, § 1206, Dec. 19, 2014, 128 Stat. 3538, 
 
 A prior section 334 was renumbered section 254 of this title.
 
-### § 335. Payment of personnel expenses necessary for participation in training program conducted by Colombia under the United States-Colombia Action Plan for Regional Security
+### § 335. Payment of personnel expenses necessary for participation in training program conducted by Colombia under the United States-Colombia Action Plan for Regional Security
 
 **(a) Authority.—** The Secretary of Defense may pay the expendable training supplies, travel, subsistence, and similar personnel expenses of, and special compensation for, the following that the Secretary considers necessary for participation in the training program conducted by Colombia under the United States-Colombia Action Plan for Regional Security:
 
@@ -2407,7 +2407,7 @@ A prior section 334 was renumbered section 254 of this title.
 
 **(B)** in the national security interest of the United States.
 
-(Added Pub. L. 117–263, div. A, title XII, § 1201(a), Dec. 23, 2022, 136 Stat. 2822.)
+(Added Pub. L. 117–263, div. A, title XII, § 1201(a), Dec. 23, 2022, 136 Stat. 2822.)
 
 **Editorial Notes**
 
@@ -2415,9 +2415,9 @@ A prior section 334 was renumbered section 254 of this title.
 
 A prior section 335 was renumbered section 255 of this title.
 
-### [§ 336. Repealed. Pub. L. 96–513, title V, § 511(11)(B), Dec. 12, 1980, 94 Stat. 2921]
+### [§ 336. Repealed. Pub. L. 96–513, title V, § 511(11)(B), Dec. 12, 1980, 94 Stat. 2921]
 
-Section, added Pub. L. 90–496, § 12, Aug. 23, 1968, 82 Stat. 841, included Virgin Islands within “State”. See section 255 of this title.
+Section, added Pub. L. 90–496, § 12, Aug. 23, 1968, 82 Stat. 841, included Virgin Islands within “State”. See section 255 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2431,19 +2431,19 @@ Repeal effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set o
 
 **Amendments**
 
-2022—Pub. L. 117–263, div. A, title XII, § 1204(b), Dec. 23, 2022, 136 Stat. 2829, added item 345 and struck out former item 345 “Regional Defense Combating Terrorism and Irregular Warfare Fellowship Program”.
+2022—Pub. L. 117–263, div. A, title XII, § 1204(b), Dec. 23, 2022, 136 Stat. 2829, added item 345 and struck out former item 345 “Regional Defense Combating Terrorism and Irregular Warfare Fellowship Program”.
 
-2021—Pub. L. 116–283, div. A, title XII, § 1206(b), Jan. 1, 2021, 134 Stat. 3913, added item 344 and struck out former item 344 “Participation in multinational military centers of excellence”.
+2021—Pub. L. 116–283, div. A, title XII, § 1206(b), Jan. 1, 2021, 134 Stat. 3913, added item 344 and struck out former item 344 “Participation in multinational military centers of excellence”.
 
-2019—Pub. L. 116–92, div. A, title XVII, § 1731(a)(15), Dec. 20, 2019, 133 Stat. 1813, struck out “Sec.” after item 350.
+2019—Pub. L. 116–92, div. A, title XVII, § 1731(a)(15), Dec. 20, 2019, 133 Stat. 1813, struck out “Sec.” after item 350.
 
-2018—Pub. L. 115–232, div. A, title XII, §§ 1204(c)(1)(C), 1207(b), 1208(a)(2), 1209(b)(2), Aug. 13, 2018, 132 Stat. 2017, 2020, 2021, 2023, substituted “Centers for Security Studies” for “centers for security studies” in item 342, inserted “and Irregular Warfare” after “Terrorism” in item 345, and added items 351 and 352.
+2018—Pub. L. 115–232, div. A, title XII, §§ 1204(c)(1)(C), 1207(b), 1208(a)(2), 1209(b)(2), Aug. 13, 2018, 132 Stat. 2017, 2020, 2021, 2023, substituted “Centers for Security Studies” for “centers for security studies” in item 342, inserted “and Irregular Warfare” after “Terrorism” in item 345, and added items 351 and 352.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Defense Institute of International Legal Studies**
 
-Pub. L. 115–91, div. A, title XII, § 1207, Dec. 12, 2017, 131 Stat. 1645, provided that:
+Pub. L. 115–91, div. A, title XII, § 1207, Dec. 12, 2017, 131 Stat. 1645, provided that:
 
 > **“(a) In General.—** The Secretary of Defense may operate an institute to be known as the ‘Defense Institute of International Legal Studies’ (in this section referred to as the ‘Institute’) in accordance with this section to further the United States security and foreign policy objectives of—
 
@@ -2501,7 +2501,7 @@ Pub. L. 115–91, div. A, title XII, § 1207, Dec. 12, 2017, 131 Stat. 1645, p
 
 > **“(B)** the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives.”
 
-### § 341. Department of Defense State Partnership Program
+### § 341. Department of Defense State Partnership Program
 
 **(a) Authority.—**
 
@@ -2541,13 +2541,13 @@ Pub. L. 115–91, div. A, title XII, § 1207, Dec. 12, 2017, 131 Stat. 1645, p
 
 **(f) Rule of Construction.—** Nothing in this section shall be construed to supersede any authority under title 10 as in effect on December 26, 2013.
 
-(Added and amended Pub. L. 114–328, div. A, title XII, § 1246(a)–(c), (d)(1), (2)(B), Dec. 23, 2016, 130 Stat. 2520, 2521; Pub. L. 115–232, div. A, title XII, § 1210, Aug. 13, 2018, 132 Stat. 2023; Pub. L. 116–92, div. A, title XVII, § 1731(a)(16), Dec. 20, 2019, 133 Stat. 1813.)
+(Added and amended Pub. L. 114–328, div. A, title XII, § 1246(a)–(c), (d)(1), (2)(B), Dec. 23, 2016, 130 Stat. 2520, 2521; Pub. L. 115–232, div. A, title XII, § 1210, Aug. 13, 2018, 132 Stat. 2023; Pub. L. 116–92, div. A, title XVII, § 1731(a)(16), Dec. 20, 2019, 133 Stat. 1813.)
 
 **Editorial Notes**
 
 **Codification**
 
-Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a) to (g) of section 1205 of Pub. L. 113–66, div. A, title XII, Dec. 26, 2013, 127 Stat. 897, as amended, which was formerly set out as a note under section 107 of Title 32, National Guard, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1246(e), Dec. 23, 2016, 130 Stat. 2521.
+Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a) to (g) of section 1205 of Pub. L. 113–66, div. A, title XII, Dec. 26, 2013, 127 Stat. 897, as amended, which was formerly set out as a note under section 107 of Title 32, National Guard, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1246(e), Dec. 23, 2016, 130 Stat. 2521.
 
 **Amendments**
 
@@ -2555,31 +2555,31 @@ Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a)
 
 2018—Subsec. (b)(2). Pub. L. 115–232 inserted “assistance” after “any”.
 
-2016—Subsec. (b). Pub. L. 114–328, § 1246(b), substituted “Limitations” for “Limitation” in subsec. heading, designated existing provisions as par. (1) and inserted par. heading, and added par. (2).
+2016—Subsec. (b). Pub. L. 114–328, § 1246(b), substituted “Limitations” for “Limitation” in subsec. heading, designated existing provisions as par. (1) and inserted par. heading, and added par. (2).
 
-Subsec. (d). Pub. L. 114–328, § 1246(c)(1), added subsec. (d) and struck out former subsec. (d) which required the Secretary of Defense to prescribe regulations to carry out this section and to notify Congress.
+Subsec. (d). Pub. L. 114–328, § 1246(c)(1), added subsec. (d) and struck out former subsec. (d) which required the Secretary of Defense to prescribe regulations to carry out this section and to notify Congress.
 
-Subsec. (f). Pub. L. 114–328, § 1246(d)(2)(B), redesignated subsec. (g) as (f) and struck out former subsec. (f) which required annual reports for fiscal years 2016, 2017, and 2018.
+Subsec. (f). Pub. L. 114–328, § 1246(d)(2)(B), redesignated subsec. (g) as (f) and struck out former subsec. (f) which required annual reports for fiscal years 2016, 2017, and 2018.
 
-Pub. L. 114–328, § 1246(d)(1)(A), substituted “Annual Reports” for “Reports and Notifications” in subsec. heading, added par. (1) and struck out former par. (1) which related to a review and report of programs under the State Partnership Program as in effect on Dec. 26, 2013, redesignated par. (2)(B) as par. (2), substituted “Matters to be included” for “Annual report” in par. (2) heading, and struck out former par. (2)(A) which required reports on activities under programs established under subsec. (a).
+Pub. L. 114–328, § 1246(d)(1)(A), substituted “Annual Reports” for “Reports and Notifications” in subsec. heading, added par. (1) and struck out former par. (1) which related to a review and report of programs under the State Partnership Program as in effect on Dec. 26, 2013, redesignated par. (2)(B) as par. (2), substituted “Matters to be included” for “Annual report” in par. (2) heading, and struck out former par. (2)(A) which required reports on activities under programs established under subsec. (a).
 
-Subsec. (f)(2). Pub. L. 114–328, § 1246(d)(1)(B)(i), redesignated cls. (i) to (vi) of former par. (2)(B) as subpars. (A) to (F), respectively, of par. (2) and realigned margins.
+Subsec. (f)(2). Pub. L. 114–328, § 1246(d)(1)(B)(i), redesignated cls. (i) to (vi) of former par. (2)(B) as subpars. (A) to (F), respectively, of par. (2) and realigned margins.
 
-Subsec. (f)(2)(F). Pub. L. 114–328, § 1246(d)(1)(B)(ii), substituted “subparagraph (E)” for “clause (v)”.
+Subsec. (f)(2)(F). Pub. L. 114–328, § 1246(d)(1)(B)(ii), substituted “subparagraph (E)” for “clause (v)”.
 
-Subsec. (g). Pub. L. 114–328, § 1246(d)(2)(B)(ii), redesignated subsec. (g) as (f).
+Subsec. (g). Pub. L. 114–328, § 1246(d)(2)(B)(ii), redesignated subsec. (g) as (f).
 
-Pub. L. 114–328, § 1246(c)(2), substituted “under title 10 as in effect on December 26, 2013.” for “under title 10, United States Code, as in effect on the date of the enactment of this Act.”
+Pub. L. 114–328, § 1246(c)(2), substituted “under title 10 as in effect on December 26, 2013.” for “under title 10, United States Code, as in effect on the date of the enactment of this Act.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–328, div. A, title XII, § 1246(d)(2), Dec. 23, 2016, 130 Stat. 2521, provided that the amendment made by section 1246(d)(2)(B) is effective as of Jan. 1, 2020.
+Pub. L. 114–328, div. A, title XII, § 1246(d)(2), Dec. 23, 2016, 130 Stat. 2521, provided that the amendment made by section 1246(d)(2)(B) is effective as of Jan. 1, 2020.
 
 **State Partnership Program Selection Analysis**
 
-Pub. L. 119–60, div. A, title XII, § 1206, Dec. 18, 2025, 139 Stat. 1082, provided that:
+Pub. L. 119–60, div. A, title XII, § 1206, Dec. 18, 2025, 139 Stat. 1082, provided that:
 
 > “The Secretary of Defense shall make such changes to Department of Defense Instruction 5111.20 (relating to the State Partnership Program), or a successor instruction, as may be necessary to ensure that, in performing selection analysis for the State Partnership Program under section 341 of title 10, United States Code, the Chief of the National Guard Bureau considers—
 
@@ -2587,7 +2587,7 @@ Pub. L. 119–60, div. A, title XII, § 1206, Dec. 18, 2025, 139 Stat. 1082, p
 
 > **“(2)** the capacity of the National Guard of a State in relation to the number of assigned countries.”
 
-### § 342. Regional Centers for Security Studies
+### § 342. Regional Centers for Security Studies
 
 **(a) In General.—** The Secretary of Defense shall administer the Department of Defense Regional Centers for Security Studies in accordance with this section as international venues for bilateral and multilateral research, communication, exchange of ideas, and training involving military and civilian participants.
 
@@ -2679,7 +2679,7 @@ Pub. L. 119–60, div. A, title XII, § 1206, Dec. 18, 2025, 139 Stat. 1082, p
 
 **(2)** The Secretary may revise the program, structure, or both of a Regional Center following an annual review under paragraph (1) in order to more appropriately align the Regional Center with strategic priorities and the geographic combatant commands as described in that paragraph.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title IX, § 912(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–228, § 184; amended Pub. L. 107–107, div. A, title X, § 1048(c)(2), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title IX, § 931(b)(2), Nov. 24, 2003, 117 Stat. 1581; Pub. L. 109–163, div. A, title IX, § 903(b), Jan. 6, 2006, 119 Stat. 3399; Pub. L. 109–364, div. A, title IX, § 904(a)(1), Oct. 17, 2006, 120 Stat. 2351; Pub. L. 110–417, [div. A], title IX, § 941(a)(1), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, § 1073(a)(3), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 112–81, div. A, title X, § 1061(2), Dec. 31, 2011, 125 Stat. 1583; Pub. L. 112–239, div. B, title XXVIII, § 2854(b)(1), Jan. 2, 2013, 126 Stat. 2161; Pub. L. 113–291, div. B, title XXVIII, § 2861(b)(1), Dec. 19, 2014, 128 Stat. 3715; renumbered § 342 and amended Pub. L. 114–328, div. A, title XII, § 1241(e)(1)–(4), Dec. 23, 2016, 130 Stat. 2505, 2506; Pub. L. 115–91, div. A, title X, § 1081(a)(17), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 117–81, div. A, title X, § 1082(a), Dec. 27, 2021, 135 Stat. 1922; Pub. L. 119–60, div. A, title XII, § 1203, Dec. 18, 2025, 139 Stat. 1081.)
+(Added Pub. L. 106–398, § 1 [[div. A], title IX, § 912(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–228, § 184; amended Pub. L. 107–107, div. A, title X, § 1048(c)(2), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–136, div. A, title IX, § 931(b)(2), Nov. 24, 2003, 117 Stat. 1581; Pub. L. 109–163, div. A, title IX, § 903(b), Jan. 6, 2006, 119 Stat. 3399; Pub. L. 109–364, div. A, title IX, § 904(a)(1), Oct. 17, 2006, 120 Stat. 2351; Pub. L. 110–417, [div. A], title IX, § 941(a)(1), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, § 1073(a)(3), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 112–81, div. A, title X, § 1061(2), Dec. 31, 2011, 125 Stat. 1583; Pub. L. 112–239, div. B, title XXVIII, § 2854(b)(1), Jan. 2, 2013, 126 Stat. 2161; Pub. L. 113–291, div. B, title XXVIII, § 2861(b)(1), Dec. 19, 2014, 128 Stat. 3715; renumbered § 342 and amended Pub. L. 114–328, div. A, title XII, § 1241(e)(1)–(4), Dec. 23, 2016, 130 Stat. 2505, 2506; Pub. L. 115–91, div. A, title X, § 1081(a)(17), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 117–81, div. A, title X, § 1082(a), Dec. 27, 2021, 135 Stat. 1922; Pub. L. 119–60, div. A, title XII, § 1203, Dec. 18, 2025, 139 Stat. 1081.)
 
 **Editorial Notes**
 
@@ -2691,29 +2691,29 @@ Pub. L. 119–60, div. A, title XII, § 1206, Dec. 18, 2025, 139 Stat. 1082, p
 
 2017—Subsec. (j)(2). Pub. L. 115–91 struck out second period at end.
 
-2016—Pub. L. 114–328, § 1241(e)(1), renumbered section 184 of this title as this section.
+2016—Pub. L. 114–328, § 1241(e)(1), renumbered section 184 of this title as this section.
 
-Subsec. (a). Pub. L. 114–328, § 1241(e)(2)(A), substituted “exchange of ideas, and training” for “and exchange of ideas”.
+Subsec. (a). Pub. L. 114–328, § 1241(e)(2)(A), substituted “exchange of ideas, and training” for “and exchange of ideas”.
 
-Subsec. (b)(1)(B). Pub. L. 114–328, § 1241(e)(2)(B)(i), substituted “exchange of ideas, and training” for “and exchange of ideas”.
+Subsec. (b)(1)(B). Pub. L. 114–328, § 1241(e)(2)(B)(i), substituted “exchange of ideas, and training” for “and exchange of ideas”.
 
-Subsec. (b)(3). Pub. L. 114–328, § 1241(e)(2)(B)(ii), struck out “, except as specifically provided by law after October 17, 2006” before period at end.
+Subsec. (b)(3). Pub. L. 114–328, § 1241(e)(2)(B)(ii), struck out “, except as specifically provided by law after October 17, 2006” before period at end.
 
-Subsec. (c). Pub. L. 114–328, § 1241(e)(2)(C), inserted at end “The regulations shall prioritize within the respective areas of focus of each Regional Center the functional areas for engagement of territorial and maritime security, transnational and asymmetric threats, and defense sector governance.”
+Subsec. (c). Pub. L. 114–328, § 1241(e)(2)(C), inserted at end “The regulations shall prioritize within the respective areas of focus of each Regional Center the functional areas for engagement of territorial and maritime security, transnational and asymmetric threats, and defense sector governance.”
 
-Subsec. (f)(3). Pub. L. 114–328, § 1241(e)(2)(D)(i), designated existing provisions as subpar. (A), substituted “security personnel” for “security civilian government officials”, and added subpar. (B).
+Subsec. (f)(3). Pub. L. 114–328, § 1241(e)(2)(D)(i), designated existing provisions as subpar. (A), substituted “security personnel” for “security civilian government officials”, and added subpar. (B).
 
-Subsec. (f)(5). Pub. L. 114–328, § 1241(e)(2)(D)(ii), substituted “under section 312 of this title are also available for the costs of the operation of the Regional Centers.” for “under the Latin American cooperation authority set forth in section 1050 of this title are also available for the costs of the operation of the William J. Perry Center for Hemispheric Defense Studies.”
+Subsec. (f)(5). Pub. L. 114–328, § 1241(e)(2)(D)(ii), substituted “under section 312 of this title are also available for the costs of the operation of the Regional Centers.” for “under the Latin American cooperation authority set forth in section 1050 of this title are also available for the costs of the operation of the William J. Perry Center for Hemispheric Defense Studies.”
 
-Subsecs. (h), (i). Pub. L. 114–328, § 1241(e)(3), added subsecs. (h) and (i).
+Subsecs. (h), (i). Pub. L. 114–328, § 1241(e)(3), added subsecs. (h) and (i).
 
-Subsec. (j). Pub. L. 114–328, § 1241(e)(4), added subsec. (j).
+Subsec. (j). Pub. L. 114–328, § 1241(e)(4), added subsec. (j).
 
 2014—Subsec. (b)(2)(B). Pub. L. 113–291 substituted “Daniel K. Inouye Asia-Pacific Center for Security Studies” for “Asia-Pacific Center for Security Studies”.
 
-2013—Subsec. (b)(2)(C). Pub. L. 112–239, § 2854(b)(1)(A), substituted “The William J. Perry Center for Hemispheric Defense Studies” for “The Center for Hemispheric Defense Studies”.
+2013—Subsec. (b)(2)(C). Pub. L. 112–239, § 2854(b)(1)(A), substituted “The William J. Perry Center for Hemispheric Defense Studies” for “The Center for Hemispheric Defense Studies”.
 
-Subsec. (f)(5). Pub. L. 112–239, § 2854(b)(1)(B), substituted “the William J. Perry Center for Hemispheric Defense Studies” for “the Center for Hemispheric Defense Studies”.
+Subsec. (f)(5). Pub. L. 112–239, § 2854(b)(1)(B), substituted “the William J. Perry Center for Hemispheric Defense Studies” for “the Center for Hemispheric Defense Studies”.
 
 2011—Subsec. (h). Pub. L. 112–81 struck out subsec. (h) which required the Secretary of Defense to submit an annual report on the operation of the Regional Centers for security studies during the preceding fiscal year.
 
@@ -2739,11 +2739,11 @@ Subsec. (b)(4). Pub. L. 109–163 substituted “under section 2611 of this titl
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–417, [div. A], title IX, § 941(a)(2), Oct. 14, 2008, 122 Stat. 4576, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on October 1, 2008, and shall apply with respect to programs and activities under [former] section 184 of title 10, United States Code (as so amended) [now 10 U.S.C. 342], that begin on or after that date.”
+Pub. L. 110–417, [div. A], title IX, § 941(a)(2), Oct. 14, 2008, 122 Stat. 4576, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on October 1, 2008, and shall apply with respect to programs and activities under [former] section 184 of title 10, United States Code (as so amended) [now 10 U.S.C. 342], that begin on or after that date.”
 
 **Consortium To Study Irregular Warfare**
 
-Pub. L. 117–81, div. A, title II, § 222, Dec. 27, 2021, 135 Stat. 1600, provided that:
+Pub. L. 117–81, div. A, title II, § 222, Dec. 27, 2021, 135 Stat. 1600, provided that:
 
 > **“(a) Establishment.—** The Secretary of Defense may establish a research consortium of institutions of higher education to study irregular warfare and the responses to irregular threats.
 
@@ -2783,7 +2783,7 @@ Pub. L. 117–81, div. A, title II, § 222, Dec. 27, 2021, 135 Stat. 1600, pro
 
 **Ted Stevens Center for Arctic Security Studies**
 
-Pub. L. 116–283, div. A, title X, § 1089, Jan. 1, 2021, 134 Stat. 3878, provided that:
+Pub. L. 116–283, div. A, title X, § 1089, Jan. 1, 2021, 134 Stat. 3878, provided that:
 
 > **“(a) Plan Required.—**
 
@@ -2847,7 +2847,7 @@ Pub. L. 116–283, div. A, title X, § 1089, Jan. 1, 2021, 134 Stat. 3878, pro
 
 **Functional Center for Security Studies in Irregular Warfare**
 
-Pub. L. 116–283, div. A, title XII, § 1299L, Jan. 1, 2021, 134 Stat. 4012, as amended by Pub. L. 117–263, div. A, title XII, § 1204(c), Dec. 23, 2022, 136 Stat. 2830, provided that:
+Pub. L. 116–283, div. A, title XII, § 1299L, Jan. 1, 2021, 134 Stat. 4012, as amended by Pub. L. 117–263, div. A, title XII, § 1204(c), Dec. 23, 2022, 136 Stat. 2830, provided that:
 
 > **“(a) Report Required.—**
 
@@ -2909,25 +2909,25 @@ Pub. L. 116–283, div. A, title XII, § 1299L, Jan. 1, 2021, 134 Stat. 4012, 
 
 **Framework for Obtaining Concurrence for Participation in Activities of Regional Centers for Security Studies**
 
-Pub. L. 115–232, div. A, title XII, § 1214, Aug. 13, 2018, 132 Stat. 2027, provided that: “Not later than 120 days after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense, with the concurrence of the Secretary of State, shall establish and submit to the appropriate congressional committees, as such term is defined in section 301(1) of title 10, United States Code, a Memorandum of Agreement or other arrangement setting forth a framework for the procedures required between the Department of Defense and the Department of State to obtain the concurrence of the Secretary of State, as required by law or policy, to allow non-defense and non-governmental personnel of friendly foreign countries to participate in activities of the Department of Defense Regional Centers for Security Studies.”
+Pub. L. 115–232, div. A, title XII, § 1214, Aug. 13, 2018, 132 Stat. 2027, provided that: “Not later than 120 days after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense, with the concurrence of the Secretary of State, shall establish and submit to the appropriate congressional committees, as such term is defined in section 301(1) of title 10, United States Code, a Memorandum of Agreement or other arrangement setting forth a framework for the procedures required between the Department of Defense and the Department of State to obtain the concurrence of the Secretary of State, as required by law or policy, to allow non-defense and non-governmental personnel of friendly foreign countries to participate in activities of the Department of Defense Regional Centers for Security Studies.”
 
 **Redesignation of the Asia-Pacific Center for Security Studies as the Daniel K. Inouye Asia-Pacific Center for Security Studies**
 
-Pub. L. 113–291, div. B, title XXVIII, § 2861(a), Dec. 19, 2014, 128 Stat. 3715, provided that: “The Department of Defense regional center for security studies known as the Asia-Pacific Center for Security Studies is hereby renamed the ‘Daniel K. Inouye Asia-Pacific Center for Security Studies’.”
+Pub. L. 113–291, div. B, title XXVIII, § 2861(a), Dec. 19, 2014, 128 Stat. 3715, provided that: “The Department of Defense regional center for security studies known as the Asia-Pacific Center for Security Studies is hereby renamed the ‘Daniel K. Inouye Asia-Pacific Center for Security Studies’.”
 
-Pub. L. 113–291, div. B, title XXVIII, § 2861(c), Dec. 19, 2014, 128 Stat. 3716, provided that: “Any reference to the Department of Defense Asia-Pacific Center for Security Studies in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Daniel K. Inouye Asia-Pacific Center for Security Studies.”
+Pub. L. 113–291, div. B, title XXVIII, § 2861(c), Dec. 19, 2014, 128 Stat. 3716, provided that: “Any reference to the Department of Defense Asia-Pacific Center for Security Studies in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Daniel K. Inouye Asia-Pacific Center for Security Studies.”
 
 **Redesignation of the Center for Hemispheric Defense Studies as the William J. Perry Center for Hemispheric Defense Studies**
 
-Pub. L. 112–239, div. B, title XXVIII, § 2854(a), Jan. 2, 2013, 126 Stat. 2161, provided that: “The Department of Defense regional center for security studies known as the Center for Hemispheric Defense Studies is hereby renamed the ‘William J. Perry Center for Hemispheric Defense Studies’ ”.
+Pub. L. 112–239, div. B, title XXVIII, § 2854(a), Jan. 2, 2013, 126 Stat. 2161, provided that: “The Department of Defense regional center for security studies known as the Center for Hemispheric Defense Studies is hereby renamed the ‘William J. Perry Center for Hemispheric Defense Studies’ ”.
 
-Pub. L. 112–239, div. B, title XXVIII, § 2854(c), Jan. 2, 2013, 126 Stat. 2162, provided that: “Any reference to the Department of Defense Center for Hemispheric Defense Studies in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the William J. Perry Center for Hemispheric Defense Studies.”
+Pub. L. 112–239, div. B, title XXVIII, § 2854(c), Jan. 2, 2013, 126 Stat. 2162, provided that: “Any reference to the Department of Defense Center for Hemispheric Defense Studies in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the William J. Perry Center for Hemispheric Defense Studies.”
 
 **Temporary Waiver of Reimbursement of Costs of Activities for Nongovernmental Personnel**
 
-Pub. L. 110–417, [div. A], title IX, § 941(b), Oct. 14, 2008, 122 Stat. 4577, as amended by Pub. L. 111–383, div. A, title IX, § 941, Jan. 7, 2011, 124 Stat. 4340; Pub. L. 112–239, div. A, title IX, § 953, Jan. 2, 2013, 126 Stat. 1895; Pub. L. 113–66, div. A, title X, § 1094(b), Dec. 26, 2013, 127 Stat. 878; Pub. L. 113–291, div. A, title IX, § 913, Dec. 19, 2014, 128 Stat. 3474, provided a temporary waiver of reimbursement of costs of activities for nongovernmental personnel, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1241(e)(5)(A), Dec. 23, 2016, 130 Stat. 2507.
+Pub. L. 110–417, [div. A], title IX, § 941(b), Oct. 14, 2008, 122 Stat. 4577, as amended by Pub. L. 111–383, div. A, title IX, § 941, Jan. 7, 2011, 124 Stat. 4340; Pub. L. 112–239, div. A, title IX, § 953, Jan. 2, 2013, 126 Stat. 1895; Pub. L. 113–66, div. A, title X, § 1094(b), Dec. 26, 2013, 127 Stat. 878; Pub. L. 113–291, div. A, title IX, § 913, Dec. 19, 2014, 128 Stat. 3474, provided a temporary waiver of reimbursement of costs of activities for nongovernmental personnel, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1241(e)(5)(A), Dec. 23, 2016, 130 Stat. 2507.
 
-### § 343. Western Hemisphere Institute for Security Cooperation
+### § 343. Western Hemisphere Institute for Security Cooperation
 
 **(a) Establishment and Administration.—**
 
@@ -3033,7 +3033,7 @@ Pub. L. 110–417, [div. A], title IX, § 941(b), Oct. 14, 2008, 122 Stat. 457
 
 **(i) Annual Report.—** Not later than March 15 of each year, the Secretary of Defense shall submit to Congress a detailed report on the activities of the Institute during the preceding year. The report shall include a copy of the latest report of the Board of Visitors received by the Secretary under subsection (e)(5), together with any comments of the Secretary on the Board’s report. The report shall be prepared in consultation with the Secretary of State.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title IX, § 911(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–226, § 2166; amended Pub. L. 107–107, div. A, title X, § 1048(a)(16), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 107–314, div. A, title IX, § 932, Dec. 2, 2002, 116 Stat. 2625; Pub. L. 110–181, div. A, title IX, § 956, Jan. 28, 2008, 122 Stat. 296; renumbered § 343 and amended Pub. L. 114–328, div. A, title XII, § 1241(f), Dec. 23, 2016, 130 Stat. 2507; Pub. L. 116–283, div. A, title IX, § 924(b)(12), Jan. 1, 2021, 134 Stat. 3823; Pub. L. 117–286, § 4(a)(45), Dec. 27, 2022, 136 Stat. 4310.)
+(Added Pub. L. 106–398, § 1 [[div. A], title IX, § 911(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–226, § 2166; amended Pub. L. 107–107, div. A, title X, § 1048(a)(16), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 107–314, div. A, title IX, § 932, Dec. 2, 2002, 116 Stat. 2625; Pub. L. 110–181, div. A, title IX, § 956, Jan. 28, 2008, 122 Stat. 296; renumbered § 343 and amended Pub. L. 114–328, div. A, title XII, § 1241(f), Dec. 23, 2016, 130 Stat. 2507; Pub. L. 116–283, div. A, title IX, § 924(b)(12), Jan. 1, 2021, 134 Stat. 3823; Pub. L. 117–286, § 4(a)(45), Dec. 27, 2022, 136 Stat. 4310.)
 
 **Editorial Notes**
 
@@ -3043,15 +3043,15 @@ Pub. L. 110–417, [div. A], title IX, § 941(b), Oct. 14, 2008, 122 Stat. 457
 
 2021—Subsec. (e)(1)(E). Pub. L. 116–283 inserted “or Space Force” after “for the Air Force”.
 
-2016—Pub. L. 114–328, § 1241(f)(1), renumbered section 2166 of this title as this section.
+2016—Pub. L. 114–328, § 1241(f)(1), renumbered section 2166 of this title as this section.
 
-Subsecs. (b), (c). Pub. L. 114–328, § 1241(f)(2), substituted “countries” for “nations” wherever appearing.
+Subsecs. (b), (c). Pub. L. 114–328, § 1241(f)(2), substituted “countries” for “nations” wherever appearing.
 
 2008—Subsec. (e)(1)(F). Pub. L. 110–181 amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “The commander of the unified combatant command having geographic responsibility for Latin America, or a designee of that officer.”
 
-2002—Subsecs. (f) to (h). Pub. L. 107–314, § 932(a), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+2002—Subsecs. (f) to (h). Pub. L. 107–314, § 932(a), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
-Subsec. (i). Pub. L. 107–314, § 932(a)(1), (b), redesignated subsec. (h) as (i) and inserted after first sentence “The report shall include a copy of the latest report of the Board of Visitors received by the Secretary under subsection (e)(5), together with any comments of the Secretary on the Board’s report.”
+Subsec. (i). Pub. L. 107–314, § 932(a)(1), (b), redesignated subsec. (h) as (i) and inserted after first sentence “The report shall include a copy of the latest report of the Board of Visitors received by the Secretary under subsection (e)(5), together with any comments of the Secretary on the Board’s report.”
 
 2001—Subsec. (e)(9). Pub. L. 107–107 substituted “(5 U.S.C. App.)” for “(5 U.S.C. App. 2)”.
 
@@ -3061,7 +3061,7 @@ Subsec. (i). Pub. L. 107–314, § 932(a)(1), (b), redesignated subsec. (h) as
 
 For termination, effective Dec. 31, 2021, of provisions in subsec. (i) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 
-### § 344. Participation in multinational centers of excellence
+### § 344. Participation in multinational centers of excellence
 
 **(a) Participation Authorized.—** The Secretary of Defense may, with the concurrence of the Secretary of State, authorize the participation of members of the armed forces and Department of Defense civilian personnel in any multinational center of excellence for purposes of—
 
@@ -3105,7 +3105,7 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (i) of this s
 
 **(3)** the International Special Training Centre, established in 1979 and located in Pfullendorf, Germany.
 
-(Added Pub. L. 110–417, [div. A], title XII, § 1232(a)(1), Oct. 14, 2008, 122 Stat. 4637, § 2350m; amended Pub. L. 112–239, div. A, title X, § 1076(f)(25), Jan. 2, 2013, 126 Stat. 1953; renumbered § 344 and amended Pub. L. 114–328, div. A, title XII, § 1241(g), Dec. 23, 2016, 130 Stat. 2507; Pub. L. 116–283, div. A, title XII, § 1206(a), Jan. 1, 2021, 134 Stat. 3912; Pub. L. 117–263, div. A, title XII, § 1203, Dec. 23, 2022, 136 Stat. 2826.)
+(Added Pub. L. 110–417, [div. A], title XII, § 1232(a)(1), Oct. 14, 2008, 122 Stat. 4637, § 2350m; amended Pub. L. 112–239, div. A, title X, § 1076(f)(25), Jan. 2, 2013, 126 Stat. 1953; renumbered § 344 and amended Pub. L. 114–328, div. A, title XII, § 1241(g), Dec. 23, 2016, 130 Stat. 2507; Pub. L. 116–283, div. A, title XII, § 1206(a), Jan. 1, 2021, 134 Stat. 3912; Pub. L. 117–263, div. A, title XII, § 1203, Dec. 23, 2022, 136 Stat. 2826.)
 
 **Editorial Notes**
 
@@ -3113,21 +3113,21 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (i) of this s
 
 2022—Subsec. (f)(3). Pub. L. 117–263 added par. (3).
 
-2021—Pub. L. 116–283, § 1206(a)(1)–(3), in section catchline, substituted “multinational centers of excellence” for “multinational military centers of excellence” and, in text, substituted “multinational center of excellence” for “multinational military center of excellence” and “multinational centers of excellence” for “multinational military centers of excellence” wherever appearing.
+2021—Pub. L. 116–283, § 1206(a)(1)–(3), in section catchline, substituted “multinational centers of excellence” for “multinational military centers of excellence” and, in text, substituted “multinational center of excellence” for “multinational military center of excellence” and “multinational centers of excellence” for “multinational military centers of excellence” wherever appearing.
 
-Subsec. (b)(1). Pub. L. 116–283, § 1206(a)(4), inserted “or entered into by the Secretary of State,” after “Secretary of State,”.
+Subsec. (b)(1). Pub. L. 116–283, § 1206(a)(4), inserted “or entered into by the Secretary of State,” after “Secretary of State,”.
 
-Subsec. (e). Pub. L. 115–283, § 1206(a)(7), added subsec. (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 115–283, § 1206(a)(7), added subsec. (e). Former subsec. (e) redesignated (f).
 
-Pub. L. 116–283, § 1206(a)(5)(B)–(F), substituted “means—” for “means”, designated remainder of existing provisions as par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1) and realigned margins, and added par. (2).
+Pub. L. 116–283, § 1206(a)(5)(B)–(F), substituted “means—” for “means”, designated remainder of existing provisions as par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1) and realigned margins, and added par. (2).
 
-Pub. L. 116–283, § 1206(a)(5)(A), substituted “Multinational Center Of Excellence” for “Multinational Military Center of Excellence” in heading.
+Pub. L. 116–283, § 1206(a)(5)(A), substituted “Multinational Center Of Excellence” for “Multinational Military Center of Excellence” in heading.
 
-Subsec. (f). Pub. L. 116–283, § 1206(a)(6), redesignated subsec. (e) as (f).
+Subsec. (f). Pub. L. 116–283, § 1206(a)(6), redesignated subsec. (e) as (f).
 
-2016—Pub. L. 114–328, § 1241(g)(1), renumbered section 2350m of this title as this section.
+2016—Pub. L. 114–328, § 1241(g)(1), renumbered section 2350m of this title as this section.
 
-Subsecs. (e), (f). Pub. L. 114–328, § 1241(g)(2), redesignated subsec. (f) as (e) and struck out former subsec. (e) which required the Secretary of Defense, not later than October 31 of each year, to submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the use of the authority in this section during the preceding fiscal year.
+Subsecs. (e), (f). Pub. L. 114–328, § 1241(g)(2), redesignated subsec. (f) as (e) and struck out former subsec. (e) which required the Secretary of Defense, not later than October 31 of each year, to submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the use of the authority in this section during the preceding fiscal year.
 
 2013—Subsec. (e)(1). Pub. L. 112–239 substituted “Not later than October 31 each year” for “Not later than October 31, 2009, and annually thereafter”.
 
@@ -3135,9 +3135,9 @@ Subsecs. (e), (f). Pub. L. 114–328, § 1241(g)(2), redesignated subsec. (f) 
 
 **Effective Date**
 
-Pub. L. 110–417, [div. A], title XII, § 1232(c), Oct. 14, 2008, 122 Stat. 4639, provided that: “The amendments made by this section [enacting this section] shall take effect on October 1, 2008.”
+Pub. L. 110–417, [div. A], title XII, § 1232(c), Oct. 14, 2008, 122 Stat. 4639, provided that: “The amendments made by this section [enacting this section] shall take effect on October 1, 2008.”
 
-### § 345. Irregular Warfare Center and Regional Defense Fellowship Program
+### § 345. Irregular Warfare Center and Regional Defense Fellowship Program
 
 **(a) Authorities.—**
 
@@ -3223,9 +3223,9 @@ Pub. L. 110–417, [div. A], title XII, § 1232(c), Oct. 14, 2008, 122 Stat. 4
 
 **(A)** The Under Secretary of Defense for Policy and the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict in policy oversight and governance structure of the Center.
 
-**(B)** “The 1
+**(B)** “The 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 Assistant Secretary of Defense for Special Operations and Low-Intensity Conflict, as the Executive Agent in support of the operation of the Center.
 
@@ -3257,81 +3257,81 @@ Assistant Secretary of Defense for Special Operations and Low-Intensity Conflict
 
 **(2)** may, after an annual review under paragraph (1), revise the relevant structure and activities so as to more appropriately align such structure and activities with the strategic priorities and combatant commands.
 
-(Added Pub. L. 108–136, div. A, title XII, § 1221(a)(1), Nov. 24, 2003, 117 Stat. 1651, § 2249c; amended Pub. L. 109–364, div. A, title XII, § 1204(a)–(d)(2), Oct. 17, 2006, 120 Stat. 2415; Pub. L. 110–417, [div. A], title XII, § 1209(a), Oct. 14, 2008, 122 Stat. 4627; Pub. L. 113–66, div. A, title X, § 1032(a), Dec. 26, 2013, 127 Stat. 850; renumbered § 345 and amended Pub. L. 114–328, div. A, title XII, § 1247(a)–(c), Dec. 23, 2016, 130 Stat. 2521; Pub. L. 115–232, div. A, title XII, § 1209(a), (b)(1), Aug. 13, 2018, 132 Stat. 2022, 2023; Pub. L. 117–263, div. A, title XII, § 1204(a), Dec. 23, 2022, 136 Stat. 2827; Pub. L. 119–60, div. A, title XII, § 1204, Dec. 18, 2025, 139 Stat. 1081.)
+(Added Pub. L. 108–136, div. A, title XII, § 1221(a)(1), Nov. 24, 2003, 117 Stat. 1651, § 2249c; amended Pub. L. 109–364, div. A, title XII, § 1204(a)–(d)(2), Oct. 17, 2006, 120 Stat. 2415; Pub. L. 110–417, [div. A], title XII, § 1209(a), Oct. 14, 2008, 122 Stat. 4627; Pub. L. 113–66, div. A, title X, § 1032(a), Dec. 26, 2013, 127 Stat. 850; renumbered § 345 and amended Pub. L. 114–328, div. A, title XII, § 1247(a)–(c), Dec. 23, 2016, 130 Stat. 2521; Pub. L. 115–232, div. A, title XII, § 1209(a), (b)(1), Aug. 13, 2018, 132 Stat. 2022, 2023; Pub. L. 117–263, div. A, title XII, § 1204(a), Dec. 23, 2022, 136 Stat. 2827; Pub. L. 119–60, div. A, title XII, § 1204, Dec. 18, 2025, 139 Stat. 1081.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (c)(4)(B). Pub. L. 119–60 substituted “ ‘The Assistant Secretary of Defense for Special Operations and Low-Intensity Conflict” for “The Director of the Defense Security Cooperation Agency”.
+2025—Subsec. (c)(4)(B). Pub. L. 119–60 substituted “ ‘The Assistant Secretary of Defense for Special Operations and Low-Intensity Conflict” for “The Director of the Defense Security Cooperation Agency”.
 
-2022—Pub. L. 117–263, § 1204(a)(1), amended section catchline generally. Prior to amendment, section catchline read as follows: “Regional Defense Combating Terrorism and Irregular Warfare Fellowship Program”.
+2022—Pub. L. 117–263, § 1204(a)(1), amended section catchline generally. Prior to amendment, section catchline read as follows: “Regional Defense Combating Terrorism and Irregular Warfare Fellowship Program”.
 
-Subsec. (a). Pub. L. 117–263, § 1204(a)(2)(A), substituted “Authorities” for “Program Authorized” in heading.
+Subsec. (a). Pub. L. 117–263, § 1204(a)(2)(A), substituted “Authorities” for “Program Authorized” in heading.
 
-Subsec. (a)(1). Pub. L. 117–263, § 1204(a)(2)(B), amended par. (1) generally. Prior to amendment, par. (1) authorized a program under which the Secretary of Defense could pay any costs for education, training, or other training programs conducted for purposes of regional defense in connection with combating terrorism or irregular warfare.
+Subsec. (a)(1). Pub. L. 117–263, § 1204(a)(2)(B), amended par. (1) generally. Prior to amendment, par. (1) authorized a program under which the Secretary of Defense could pay any costs for education, training, or other training programs conducted for purposes of regional defense in connection with combating terrorism or irregular warfare.
 
-Subsec. (a)(2). Pub. L. 117–263, § 1204(a)(2)(C), (D), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Costs for which payment may be made under this section include the costs of transportation and travel and subsistence costs.”
+Subsec. (a)(2). Pub. L. 117–263, § 1204(a)(2)(C), (D), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Costs for which payment may be made under this section include the costs of transportation and travel and subsistence costs.”
 
-Subsec. (a)(3). Pub. L. 117–263, § 1204(a)(2)(C), struck out par. (3). Text read as follows: “The program authorized by this section shall be known as the ‘Regional Defense Combating Terrorism and Irregular Warfare Fellowship Program’.”
+Subsec. (a)(3). Pub. L. 117–263, § 1204(a)(2)(C), struck out par. (3). Text read as follows: “The program authorized by this section shall be known as the ‘Regional Defense Combating Terrorism and Irregular Warfare Fellowship Program’.”
 
-Subsec. (b). Pub. L. 117–263, § 1204(a)(3)(A), substituted “Regulations for Regional Defense Fellowship Program” for “Regulations” in heading.
+Subsec. (b). Pub. L. 117–263, § 1204(a)(3)(A), substituted “Regulations for Regional Defense Fellowship Program” for “Regulations” in heading.
 
-Subsec. (b)(1). Pub. L. 117–263, § 1204(a)(3)(B), substituted “The authorities granted to the Secretary of Defense under subsection (a)(1)(B)” for “The program authorized by subsection (a)”.
+Subsec. (b)(1). Pub. L. 117–263, § 1204(a)(3)(B), substituted “The authorities granted to the Secretary of Defense under subsection (a)(1)(B)” for “The program authorized by subsection (a)”.
 
-Subsec. (c). Pub. L. 117–263, § 1204(a)(5), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 117–263, § 1204(a)(5), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 117–263, § 1204(a)(4), (6), redesignated subsec. (c) as (d) and substituted “subsection (a)(1)(B)” for “subsection (a)” in two places. Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 117–263, § 1204(a)(4), (6), redesignated subsec. (c) as (d) and substituted “subsection (a)(1)(B)” for “subsection (a)” in two places. Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 117–263, § 1204(a)(4), redesignated subsec. (d) as (e).
+Subsec. (e). Pub. L. 117–263, § 1204(a)(4), redesignated subsec. (d) as (e).
 
-Subsec. (e)(3). Pub. L. 117–263, § 1204(a)(7)(A), substituted “subsection (a)(1)(B)” for “subsection (a)”.
+Subsec. (e)(3). Pub. L. 117–263, § 1204(a)(7)(A), substituted “subsection (a)(1)(B)” for “subsection (a)”.
 
-Subsec. (e)(6). Pub. L. 117–263, § 1204(a)(7)(B), added par. (6).
+Subsec. (e)(6). Pub. L. 117–263, § 1204(a)(7)(B), added par. (6).
 
-Subsec. (f). Pub. L. 117–263, § 1204(a)(8), added subsec. (f).
+Subsec. (f). Pub. L. 117–263, § 1204(a)(8), added subsec. (f).
 
-2018—Pub. L. 115–232, § 1209(b)(1), inserted “and Irregular Warfare” after “Terrorism” in section catchline.
+2018—Pub. L. 115–232, § 1209(b)(1), inserted “and Irregular Warfare” after “Terrorism” in section catchline.
 
-Subsec. (a). Pub. L. 115–232, § 1209(a)(2), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Under regulations prescribed by the Secretary of Defense, funds appropriated to the Department of Defense may be used to pay any costs associated with the education and training of foreign military officers, ministry of defense officials, or security officials at military or civilian educational institutions, regional centers, conferences, seminars, or other training programs conducted under the Regional Defense Combating Terrorism Fellowship Program. Costs for which payment may be made under this section include the costs of transportation and travel and subsistence costs.”
+Subsec. (a). Pub. L. 115–232, § 1209(a)(2), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Under regulations prescribed by the Secretary of Defense, funds appropriated to the Department of Defense may be used to pay any costs associated with the education and training of foreign military officers, ministry of defense officials, or security officials at military or civilian educational institutions, regional centers, conferences, seminars, or other training programs conducted under the Regional Defense Combating Terrorism Fellowship Program. Costs for which payment may be made under this section include the costs of transportation and travel and subsistence costs.”
 
-Subsecs. (b) to (d). Pub. L. 115–232, § 1209(a)(1), (2), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+Subsecs. (b) to (d). Pub. L. 115–232, § 1209(a)(1), (2), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-Subsec. (d)(3). Pub. L. 115–232, § 1209(a)(3), struck out “in the global war on terrorism” after “United States”.
+Subsec. (d)(3). Pub. L. 115–232, § 1209(a)(3), struck out “in the global war on terrorism” after “United States”.
 
-2016—Pub. L. 114–328, § 1247(a), (c), renumbered section 2249c of this title as this section and substituted “Regional Defense Combating Terrorism Fellowship Program” for “Regional Defense Combating Terrorism Fellowship Program: authority to use appropriated funds for costs associated with education and training of foreign officials” in section catchline.
+2016—Pub. L. 114–328, § 1247(a), (c), renumbered section 2249c of this title as this section and substituted “Regional Defense Combating Terrorism Fellowship Program” for “Regional Defense Combating Terrorism Fellowship Program: authority to use appropriated funds for costs associated with education and training of foreign officials” in section catchline.
 
-Subsec. (c). Pub. L. 114–328, § 1247(b), substituted “to the appropriate committees of Congress” for “to Congress” in introductory provisions.
+Subsec. (c). Pub. L. 114–328, § 1247(b), substituted “to the appropriate committees of Congress” for “to Congress” in introductory provisions.
 
-2013—Subsec. (c)(3). Pub. L. 113–66, § 1032(a)(1), inserted “, including engagement activities for program alumni,” after “subsection (a)”.
+2013—Subsec. (c)(3). Pub. L. 113–66, § 1032(a)(1), inserted “, including engagement activities for program alumni,” after “subsection (a)”.
 
-Subsec. (c)(4). Pub. L. 113–66, § 1032(a)(2), inserted “, including a list of any unfunded or unmet training requirements and requests” after “program”.
+Subsec. (c)(4). Pub. L. 113–66, § 1032(a)(2), inserted “, including a list of any unfunded or unmet training requirements and requests” after “program”.
 
-Subsec. (c)(5). Pub. L. 113–66, § 1032(a)(3), added par. (5).
+Subsec. (c)(5). Pub. L. 113–66, § 1032(a)(3), added par. (5).
 
 2008—Subsec. (b). Pub. L. 110–417 substituted “$35,000,000” for “$25,000,000”.
 
-2006—Pub. L. 109–364, § 1204(d)(2), substituted “Regional Defense Combating Terrorism Fellowship Program: authority to use appropriated funds for costs associated with education and training of foreign officials” for “Authority to use appropriated funds for costs of attendance of foreign visitors under Regional Defense Counterterrorism Fellowship Program” in section catchline.
+2006—Pub. L. 109–364, § 1204(d)(2), substituted “Regional Defense Combating Terrorism Fellowship Program: authority to use appropriated funds for costs associated with education and training of foreign officials” for “Authority to use appropriated funds for costs of attendance of foreign visitors under Regional Defense Counterterrorism Fellowship Program” in section catchline.
 
-Subsec. (a). Pub. L. 109–364, § 1204(a), substituted “the education and training of foreign military officers, ministry of defense officials, or security officials at military or civilian educational institutions, regional centers, conferences, seminars, or other training programs conducted under the Regional Defense Combating Terrorism Fellowship Program” for “the attendance of foreign military officers, ministry of defense officials, or security officials at United States military educational institutions, regional centers, conferences, seminars, or other training programs conducted under the Regional Defense Counterterrorism Fellowship Program, including costs of transportation and travel and subsistence costs” and inserted at end “Costs for which payment may be made under this section include the costs of transportation and travel and subsistence costs.”
+Subsec. (a). Pub. L. 109–364, § 1204(a), substituted “the education and training of foreign military officers, ministry of defense officials, or security officials at military or civilian educational institutions, regional centers, conferences, seminars, or other training programs conducted under the Regional Defense Combating Terrorism Fellowship Program” for “the attendance of foreign military officers, ministry of defense officials, or security officials at United States military educational institutions, regional centers, conferences, seminars, or other training programs conducted under the Regional Defense Counterterrorism Fellowship Program, including costs of transportation and travel and subsistence costs” and inserted at end “Costs for which payment may be made under this section include the costs of transportation and travel and subsistence costs.”
 
-Subsec. (b). Pub. L. 109–364, § 1204(b), (c), substituted “$25,000,000” for “$20,000,000” and inserted at end “Amounts available under the authority in subsection (a) for a fiscal year may be used for programs that begin in such fiscal year but end in the next fiscal year.”
+Subsec. (b). Pub. L. 109–364, § 1204(b), (c), substituted “$25,000,000” for “$20,000,000” and inserted at end “Amounts available under the authority in subsection (a) for a fiscal year may be used for programs that begin in such fiscal year but end in the next fiscal year.”
 
-Subsec. (c)(3). Pub. L. 109–364, § 1204(d)(1), substituted “program referred to in subsection (a)” for “Regional Defense Counterterrorism Fellowship Program”.
+Subsec. (c)(3). Pub. L. 109–364, § 1204(d)(1), substituted “program referred to in subsection (a)” for “Regional Defense Counterterrorism Fellowship Program”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 113–66, div. A, title X, § 1032(b), Dec. 26, 2013, 127 Stat. 850, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to a report submitted for a fiscal year beginning after the date of the enactment of this Act [Dec. 26, 2013].”
+Pub. L. 113–66, div. A, title X, § 1032(b), Dec. 26, 2013, 127 Stat. 850, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to a report submitted for a fiscal year beginning after the date of the enactment of this Act [Dec. 26, 2013].”
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–417, [div. A], title XII, § 1209(b), Oct. 14, 2008, 122 Stat. 4627, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2008, and shall apply with respect to fiscal years beginning on or after that date.”
+Pub. L. 110–417, [div. A], title XII, § 1209(b), Oct. 14, 2008, 122 Stat. 4627, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2008, and shall apply with respect to fiscal years beginning on or after that date.”
 
 **Regulations**
 
-Pub. L. 108–136, div. A, title XII, § 1221(b), Nov. 24, 2003, 117 Stat. 1651, provided that:
+Pub. L. 108–136, div. A, title XII, § 1221(b), Nov. 24, 2003, 117 Stat. 1651, provided that:
 
 > “Not later than December 1, 2003, the Secretary of Defense shall—
 
@@ -3343,7 +3343,7 @@ Pub. L. 108–136, div. A, title XII, § 1221(b), Nov. 24, 2003, 117 Stat. 165
 
 For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 
-### § 346. Distribution to certain foreign personnel of education and training materials and information technology to enhance military interoperability with the armed forces
+### § 346. Distribution to certain foreign personnel of education and training materials and information technology to enhance military interoperability with the armed forces
 
 **(a) Distribution Authorized.—** To enhance interoperability between the armed forces and military forces of friendly foreign countries, the Secretary of Defense, with the concurrence of the Secretary of State, may—
 
@@ -3367,31 +3367,31 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this s
 
 **(2) Modification.—** If the Secretary modifies the guidance issued under paragraph (1), the Secretary shall submit to the appropriate committees of Congress a report setting forth the modified guidance not later than 30 days after the date of such modification.
 
-(Added Pub. L. 110–417, [div. A], title XII, § 1205(a)(1), Oct. 14, 2008, 122 Stat. 4623, § 2249d; renumbered § 346 and amended Pub. L. 114–328, div. A, title XII, § 1241(h), Dec. 23, 2016, 130 Stat. 2507.)
+(Added Pub. L. 110–417, [div. A], title XII, § 1205(a)(1), Oct. 14, 2008, 122 Stat. 4623, § 2249d; renumbered § 346 and amended Pub. L. 114–328, div. A, title XII, § 1241(h), Dec. 23, 2016, 130 Stat. 2507.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Arms Export Control Act, referred to in subsec. (d), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
+The Arms Export Control Act, referred to in subsec. (d), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
 **Amendments**
 
-2016—Pub. L. 114–328, § 1241(h)(1), renumbered section 2249d of this title as this section.
+2016—Pub. L. 114–328, § 1241(h)(1), renumbered section 2249d of this title as this section.
 
-Subsecs. (a), (d). Pub. L. 114–328, § 1241(h)(2)(A), substituted “countries” for “nations”.
+Subsecs. (a), (d). Pub. L. 114–328, § 1241(h)(2)(A), substituted “countries” for “nations”.
 
-Subsecs. (f), (g). Pub. L. 114–328, § 1241(h)(2)(B), struck out subsecs. (f) and (g) which, respectively, required the Secretary of Defense to submit annual reports to the appropriate committees of Congress and defined “appropriate committees of Congress”.
+Subsecs. (f), (g). Pub. L. 114–328, § 1241(h)(2)(B), struck out subsecs. (f) and (g) which, respectively, required the Secretary of Defense to submit annual reports to the appropriate committees of Congress and defined “appropriate committees of Congress”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 110–417, [div. A], title XII, § 1205(d), Oct. 14, 2008, 122 Stat. 4625, provided that: “This section [enacting this section and provisions set out as notes under this section] and the amendments made by this section shall take effect on October 1, 2008.”
+Pub. L. 110–417, [div. A], title XII, § 1205(d), Oct. 14, 2008, 122 Stat. 4625, provided that: “This section [enacting this section and provisions set out as notes under this section] and the amendments made by this section shall take effect on October 1, 2008.”
 
 **Authority To Provide Mission Training Through Distributed Simulation**
 
-Pub. L. 118–31, div. A, title XII, § 1210, Dec. 22, 2023, 137 Stat. 449, provided that:
+Pub. L. 118–31, div. A, title XII, § 1210, Dec. 22, 2023, 137 Stat. 449, provided that:
 
 > **“(a) Authority for Training and Distribution.—** To enhance the interoperability and integration between the United States Armed Forces and the military forces of friendly foreign countries, effective beginning on the date that is 30 days after the date on which the Secretary of Defense submits the report required by subsection (d), the Secretary of Defense, with the concurrence of the Secretary of State, is authorized—
 
@@ -3427,13 +3427,13 @@ Pub. L. 118–31, div. A, title XII, § 1210, Dec. 22, 2023, 137 Stat. 449, pr
 
 **Guidance on Utilization of Authority**
 
-Pub. L. 110–417, [div. A], title XII, § 1205(b), Oct. 14, 2008, 122 Stat. 4624, provided that:
+Pub. L. 110–417, [div. A], title XII, § 1205(b), Oct. 14, 2008, 122 Stat. 4624, provided that:
 
 > **“(1) Submittal to congress.—** Not later than 30 days after issuing the guidance required by section 2249d(e) [now 346(e)] of title 10, United States Code, as added by subsection (a), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth such guidance.
 
 > **“(2) Utilization of similar guidance.—** In developing the guidance required by section 2249d(e) [now 346(e)] of title 10, United States Code, as so added, the Secretary may utilize applicable portions of the current guidance developed by the Secretary under subsection (f) of section 1207 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 120 Stat. 2419) for purposes of the exercise of the authority in such section 1207.”
 
-### § 347. International engagement authorities for service academies
+### § 347. International engagement authorities for service academies
 
 **(a) Selection of Persons From Foreign Countries To Receive Instruction at Service Academies.—**
 
@@ -3523,7 +3523,7 @@ Pub. L. 110–417, [div. A], title XII, § 1205(b), Oct. 14, 2008, 122 Stat. 4
 
 **(3)** The United States Air Force Academy.
 
-(Added Pub. L. 114–328, div. A, title XII, § 1248(a), Dec. 23, 2016, 130 Stat. 2522; amended Pub. L. 115–91, div. A, title X, § 1081(a)(18), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 115–232, div. A, title VIII, § 809(a), title XII, § 1204(c)(1)(D), Aug. 13, 2018, 132 Stat. 1840, 2017; Pub. L. 118–159, div. A, title V, § 551, Dec. 23, 2024, 138 Stat. 1893.)
+(Added Pub. L. 114–328, div. A, title XII, § 1248(a), Dec. 23, 2016, 130 Stat. 2522; amended Pub. L. 115–91, div. A, title X, § 1081(a)(18), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 115–232, div. A, title VIII, § 809(a), title XII, § 1204(c)(1)(D), Aug. 13, 2018, 132 Stat. 1840, 2017; Pub. L. 118–159, div. A, title V, § 551, Dec. 23, 2024, 138 Stat. 1893.)
 
 **Editorial Notes**
 
@@ -3535,17 +3535,17 @@ Provisions similar to those in this section were contained in sections 4344 to 4
 
 2024—Subsec. (a)(1)(B). Pub. L. 118–159 substituted “80” for “60”.
 
-2018—Subsec. (a)(1)(A)(i). Pub. L. 115–232, § 809(a), substituted “section 7442” for “section 4342”.
+2018—Subsec. (a)(1)(A)(i). Pub. L. 115–232, § 809(a), substituted “section 7442” for “section 4342”.
 
-Subsec. (a)(1)(A)(ii). Pub. L. 115–232, § 809(a), substituted “section 8454” for “section 6954”.
+Subsec. (a)(1)(A)(ii). Pub. L. 115–232, § 809(a), substituted “section 8454” for “section 6954”.
 
-Subsec. (a)(1)(A)(iii). Pub. L. 115–232, § 809(a), substituted “section 9442” for “section 9342”.
+Subsec. (a)(1)(A)(iii). Pub. L. 115–232, § 809(a), substituted “section 9442” for “section 9342”.
 
-Subsec. (a)(7). Pub. L. 115–232, § 1204(c)(1)(D)(i), substituted “etc.” for “etc..” in heading.
+Subsec. (a)(7). Pub. L. 115–232, § 1204(c)(1)(D)(i), substituted “etc.” for “etc..” in heading.
 
-Subsec. (a)(9). Pub. L. 115–232, § 809(a), substituted “section 7446(d), 8458(d), or 9446(d)” for “section 4346(d), 6958(d), or 9346(d)”.
+Subsec. (a)(9). Pub. L. 115–232, § 809(a), substituted “section 7446(d), 8458(d), or 9446(d)” for “section 4346(d), 6958(d), or 9346(d)”.
 
-Subsec. (b)(3)(B). Pub. L. 115–232, § 1204(c)(1)(D)(ii), substituted “etc” for “etc.” in heading.
+Subsec. (b)(3)(B). Pub. L. 115–232, § 1204(c)(1)(D)(ii), substituted “etc” for “etc.” in heading.
 
 2017—Subsec. (a)(1)(A)(i), (iii). Pub. L. 115–91 inserted “section” after “Academy under”.
 
@@ -3555,7 +3555,7 @@ Subsec. (b)(3)(B). Pub. L. 115–232, § 1204(c)(1)(D)(ii), substituted “etc
 
 Amendment by section 809(a) of Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-### § 348. Aviation Leadership Program
+### § 348. Aviation Leadership Program
 
 **(a) In General.—** Under regulations prescribed by the Secretary of Defense, the Secretary of the Air Force may carry out an Aviation Leadership Program to provide undergraduate pilot training and necessary related training to personnel of the air forces of friendly, developing foreign countries. Training under this section shall include language training and programs to promote better awareness and understanding of the democratic institutions and social framework of the United States.
 
@@ -3575,7 +3575,7 @@ Amendment by section 809(a) of Pub. L. 115–232 effective Feb. 1, 2019, with pr
 
 **(c) Allowances.—** The Secretary of the Air Force may pay to a person receiving training under this section a living allowance at a rate to be prescribed by the Secretary, taking into account the amount of living allowances authorized for a member of the armed forces under similar circumstances.
 
-(Added Pub. L. 114–328, div. A, title XII, § 1241(i)(1), Dec. 23, 2016, 130 Stat. 2507.)
+(Added Pub. L. 114–328, div. A, title XII, § 1241(i)(1), Dec. 23, 2016, 130 Stat. 2507.)
 
 **Editorial Notes**
 
@@ -3587,7 +3587,7 @@ Provisions similar to those in this section were contained in chapter 905 of thi
 
 **Congressional Findings**
 
-Pub. L. 103–160, div. A, title XI, § 1178(a), Nov. 30, 1993, 107 Stat. 1768, provided that:
+Pub. L. 103–160, div. A, title XI, § 1178(a), Nov. 30, 1993, 107 Stat. 1768, provided that:
 
 > “The Congress finds the following:
 
@@ -3597,7 +3597,7 @@ Pub. L. 103–160, div. A, title XI, § 1178(a), Nov. 30, 1993, 107 Stat. 1768
 
 > **“(3)** It is in the interest of the United States that the Secretary of the Air Force establish a program to train in the United States pilots from the air forces of friendly, less developed foreign nations.”
 
-### § 349. Inter-American Air Forces Academy
+### § 349. Inter-American Air Forces Academy
 
 **(a) Operation.—** The Secretary of the Air Force may operate the Air Force education and training facility known as the Inter-American Air Forces Academy for the purpose of providing military education and training to military personnel of Central and South American countries, Caribbean countries, and other countries eligible for assistance under chapter 5 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2347 et seq.).
 
@@ -3609,21 +3609,21 @@ Pub. L. 103–160, div. A, title XI, § 1178(a), Nov. 30, 1993, 107 Stat. 1768
 
 **(c) Costs.—** The fixed costs of operating and maintaining the Inter-American Air Forces Academy may be paid from funds available for operation and maintenance of the Air Force.
 
-(Added Pub. L. 101–510, div. A, title III, § 330(a), Nov. 5, 1990, 104 Stat. 1535, § 9415; renumbered § 349 and amended Pub. L. 114–328, div. A, title XII, § 1241(j), Dec. 23, 2016, 130 Stat. 2508.)
+(Added Pub. L. 101–510, div. A, title III, § 330(a), Nov. 5, 1990, 104 Stat. 1535, § 9415; renumbered § 349 and amended Pub. L. 114–328, div. A, title XII, § 1241(j), Dec. 23, 2016, 130 Stat. 2508.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 5 of part II of such Act is classified generally to part V of subchapter II (§ 2347 et seq.) of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 5 of part II of such Act is classified generally to part V of subchapter II (§ 2347 et seq.) of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 **Amendments**
 
-2016—Pub. L. 114–328, § 1241(j)(1), renumbered section 9415 of this title as this section.
+2016—Pub. L. 114–328, § 1241(j)(1), renumbered section 9415 of this title as this section.
 
-Subsecs. (b), (c). Pub. L. 114–328, § 1241(j)(2), added subsec. (b) and redesignated former subsec. (b) as (c).
+Subsecs. (b), (c). Pub. L. 114–328, § 1241(j)(2), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-### § 350. Inter-European Air Forces Academy
+### § 350. Inter-European Air Forces Academy
 
 **(a) Operation.—** The Secretary of the Air Force may operate the Air Force education and training facility known as the Inter-European Air Forces Academy (in this section referred to as the “Academy”).
 
@@ -3657,23 +3657,23 @@ Subsecs. (b), (c). Pub. L. 114–328, § 1241(j)(2), added subsec. (b) and red
 
 **(f) Funding.—** Amounts for the operations and maintenance of the Academy, and for the provision of education and training through the Academy, may be paid from funds available for the Air Force for operation and maintenance.
 
-(Added Pub. L. 114–328, div. A, title XII, § 1241(k)(1), Dec. 23, 2016, 130 Stat. 2508; amended Pub. L. 116–283, div. A, title XII, § 1205, Jan. 1, 2021, 134 Stat. 3912.)
+(Added Pub. L. 114–328, div. A, title XII, § 1241(k)(1), Dec. 23, 2016, 130 Stat. 2508; amended Pub. L. 116–283, div. A, title XII, § 1205, Jan. 1, 2021, 134 Stat. 3912.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (b)(3)(B), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 5 of part II of the Act is classified generally to part V (§ 2347 et seq.) of subchapter II of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b)(3)(B), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 5 of part II of the Act is classified generally to part V (§ 2347 et seq.) of subchapter II of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 **Codification**
 
-Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a) to (f) of section 1268 of Pub. L. 113–291, div. A, title XII, Dec. 19, 2014, 128 Stat. 3585, which was formerly set out as a note under section 9411 of this title, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1241(k)(2), Dec. 23, 2016, 130 Stat. 2509.
+Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a) to (f) of section 1268 of Pub. L. 113–291, div. A, title XII, Dec. 19, 2014, 128 Stat. 3585, which was formerly set out as a note under section 9411 of this title, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1241(k)(2), Dec. 23, 2016, 130 Stat. 2509.
 
 **Amendments**
 
 2021—Subsec. (b). Pub. L. 116–283 substituted “that are—” for “that are members of the North Atlantic Treaty Organization or signatories to the Partnership for Peace Framework Documents.” and added pars (1) to (3).
 
-### § 351. Inter-American Defense College
+### § 351. Inter-American Defense College
 
 **(a) Authority To Support.—** The Secretary of Defense may authorize members of the armed forces and civilian personnel of the Department of Defense to participate in the operation of and the provision of support to the Inter-American Defense College and provide logistic support, supplies, and services to the Inter-American Defense College, including the use of Department of Defense facilities and equipment, as the Secretary considers necessary to—
 
@@ -3715,7 +3715,7 @@ Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a)
 
 **(e) Logistic Support, Supplies, and Services Defined.—** In this section, the term “logistic support, supplies, and services” has the meaning given that term in section 2350 of this title.
 
-(Added Pub. L. 115–232, div. A, title XII, § 1207(a), Aug. 13, 2018, 132 Stat. 2019.)
+(Added Pub. L. 115–232, div. A, title XII, § 1207(a), Aug. 13, 2018, 132 Stat. 2019.)
 
 **Editorial Notes**
 
@@ -3723,7 +3723,7 @@ Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a)
 
 A prior section 351 was renumbered section 261 of this title.
 
-### § 352. Naval Small Craft Instruction and Technical Training School
+### § 352. Naval Small Craft Instruction and Technical Training School
 
 **(a) In General.—** The Secretary of Defense shall operate an education and training facility known as the “Naval Small Craft Instruction and Technical Training School” (in this section referred to as the “School”).
 
@@ -3767,15 +3767,15 @@ A prior section 351 was renumbered section 261 of this title.
 
 **(f) Annual Report.—** Not later than March 15 each year, the Secretary of Defense, with the concurrence of the Secretary of State, shall submit to the appropriate congressional committees a detailed report on the activities and operating costs of the School during the preceding fiscal year.
 
-(Added Pub. L. 115–232, div. A, title XII, § 1208(a)(1), Aug. 13, 2018, 132 Stat. 2021; amended Pub. L. 118–159, div. A, title XII, § 1202(a), Dec. 23, 2024, 138 Stat. 2093; Pub. L. 119–60, div. A, title XII, § 1205, Dec. 18, 2025, 139 Stat. 1081.)
+(Added Pub. L. 115–232, div. A, title XII, § 1208(a)(1), Aug. 13, 2018, 132 Stat. 2021; amended Pub. L. 118–159, div. A, title XII, § 1202(a), Dec. 23, 2024, 138 Stat. 2093; Pub. L. 119–60, div. A, title XII, § 1205, Dec. 18, 2025, 139 Stat. 1081.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 1205(1), substituted “shall” for “may”.
+2025—Subsec. (a). Pub. L. 119–60, § 1205(1), substituted “shall” for “may”.
 
-Subsec. (e)(3). Pub. L. 119–60, § 1205(2), added par. (3).
+Subsec. (e)(3). Pub. L. 119–60, § 1205(2), added par. (3).
 
 2024—Subsec. (e). Pub. L. 118–159 amended subsec. (e) generally. Prior to amendment, text read as follows: “The fixed costs of operation and maintenance of the School in a fiscal year may be paid from amounts made available for such fiscal year for operation and maintenance of the Department of Defense.”
 
@@ -3783,11 +3783,11 @@ Subsec. (e)(3). Pub. L. 119–60, § 1205(2), added par. (3).
 
 **Updates Required**
 
-Pub. L. 118–159, div. A, title XII, § 1202(b), Dec. 23, 2024, 138 Stat. 2093, provided that: “Not later than 90 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall update the Security Assistance Management Manual (DSCA 5105.38–M) and volume 15 of the Department of Defense Financial Management Regulation (DoD 7000.14–R) in accordance with the amendment made by this section [amending this section].”
+Pub. L. 118–159, div. A, title XII, § 1202(b), Dec. 23, 2024, 138 Stat. 2093, provided that: “Not later than 90 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall update the Security Assistance Management Manual (DSCA 5105.38–M) and volume 15 of the Department of Defense Financial Management Regulation (DoD 7000.14–R) in accordance with the amendment made by this section [amending this section].”
 
 **Limitation on Use of Funds**
 
-Pub. L. 115–232, div. A, title XII, § 1208(c), Aug. 13, 2018, 132 Stat. 2022, provided that:
+Pub. L. 115–232, div. A, title XII, § 1208(c), Aug. 13, 2018, 132 Stat. 2022, provided that:
 
 > **“(1) In general.—** Nothing in section 352 of title 10, United States Code (as so added), may be construed as authorizing the use of funds appropriated for the Department of Defense for any purpose described in paragraph (2) unless specifically authorized by an Act of Congress other than that section or this Act [see Tables for classification].
 
@@ -3799,13 +3799,13 @@ Pub. L. 115–232, div. A, title XII, § 1208(c), Aug. 13, 2018, 132 Stat. 202
 
 ## SUBCHAPTER VI—LIMITATIONS ON USE OF DEPARTMENT OF DEFENSE FUNDS
 
-### § 361. Prohibition on providing financial assistance to terrorist countries
+### § 361. Prohibition on providing financial assistance to terrorist countries
 
 **(a) Prohibition.—** Funds available to the Department of Defense may not be obligated or expended to provide financial assistance to—
 
-**(1)** any country with respect to which the Secretary of State has made a determination under section 6(j)(1)(A) 1
+**(1)** any country with respect to which the Secretary of State has made a determination under section 6(j)(1)(A) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Export Administration Act of 1979 (50 U.S.C. 4605(j)(1)(A));
 
@@ -3833,19 +3833,19 @@ of the Export Administration Act of 1979 (50 U.S.C. 4605(j)(1)(A));
 
 **(c) Definition.—** In this section, the term “international terrorism” has the meaning given that term in section 140(d) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (22 U.S.C. 2656f(d)).
 
-(Added Pub. L. 104–106, div. A, title XIII, § 1341(a), Feb. 10, 1996, 110 Stat. 485, § 2249a; amended Pub. L. 105–85, div. A, title X, § 1073(a)(40), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; renumbered § 361 and amended Pub. L. 114–328, div. A, title X, § 1081(b)(3)(B), title XII, § 1241(*l*)(1), Dec. 23, 2016, 130 Stat. 2418, 2509.)
+(Added Pub. L. 104–106, div. A, title XIII, § 1341(a), Feb. 10, 1996, 110 Stat. 485, § 2249a; amended Pub. L. 105–85, div. A, title X, § 1073(a)(40), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; renumbered § 361 and amended Pub. L. 114–328, div. A, title X, § 1081(b)(3)(B), title XII, § 1241(*l*)(1), Dec. 23, 2016, 130 Stat. 2418, 2509.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. 4605(j)(1)(A)), referred to in subsec. (a)(1), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. For similar provisions, see section 4813(c)(1)(A)(i) of Title 50, War and National Defense, as enacted by Pub. L. 115–232.
+Section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. 4605(j)(1)(A)), referred to in subsec. (a)(1), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. For similar provisions, see section 4813(c)(1)(A)(i) of Title 50, War and National Defense, as enacted by Pub. L. 115–232.
 
 **Amendments**
 
-2016—Pub. L. 114–328, § 1241(*l*)(1), renumbered section 2249a of this title as this section.
+2016—Pub. L. 114–328, § 1241(*l*)(1), renumbered section 2249a of this title as this section.
 
-Subsec. (a)(1). Pub. L. 114–328, § 1081(b)(3)(B), substituted “(50 U.S.C. 4605(j)(1)(A))” for “(50 U.S.C. App. 2405(j)(1)(A))”.
+Subsec. (a)(1). Pub. L. 114–328, § 1081(b)(3)(B), substituted “(50 U.S.C. 4605(j)(1)(A))” for “(50 U.S.C. App. 2405(j)(1)(A))”.
 
 1999—Subsec. (b)(2)(A). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
@@ -3857,7 +3857,7 @@ Subsec. (a)(1). Pub. L. 114–328, § 1081(b)(3)(B), substituted “(50 U.S.C.
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-### § 362. Prohibition on use of funds for assistance to units of foreign security forces that have committed a gross violation of human rights
+### § 362. Prohibition on use of funds for assistance to units of foreign security forces that have committed a gross violation of human rights
 
 **(a) In General.—**
 
@@ -3885,21 +3885,21 @@ Committee on International Relations of House of Representatives changed to Comm
 
 **(D)** the United States forces and the foreign security force unit involved.
 
-(Added Pub. L. 113–291, div. A, title XII, § 1204(a)(1), Dec. 19, 2014, 128 Stat. 3531, § 2249e; renumbered § 362 and amended Pub. L. 114–328, div. A, title XII, § 1241(*l*), Dec. 23, 2016, 130 Stat. 2509.)
+(Added Pub. L. 113–291, div. A, title XII, § 1204(a)(1), Dec. 19, 2014, 128 Stat. 3531, § 2249e; renumbered § 362 and amended Pub. L. 114–328, div. A, title XII, § 1241(*l*), Dec. 23, 2016, 130 Stat. 2509.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Pub. L. 114–328, § 1241(*l*)(1), renumbered section 2249e of this title as this section.
+2016—Pub. L. 114–328, § 1241(*l*)(1), renumbered section 2249e of this title as this section.
 
-Subsec. (f). Pub. L. 114–328, § 1241(*l*)(2), struck out subsec. (f) which defined “appropriate committees of Congress” for this section.
+Subsec. (f). Pub. L. 114–328, § 1241(*l*)(2), struck out subsec. (f) which defined “appropriate committees of Congress” for this section.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Plan To Provide Consistency of Administration of Authorities Relating to Vetting of Units of Security Forces of Foreign Countries; Modification of Assessment, Monitoring, and Evaluation of Security Cooperation Programs and Activities**
 
-Pub. L. 116–92, div. A, title XII, § 1206, Dec. 20, 2019, 133 Stat. 1622, provided that:
+Pub. L. 116–92, div. A, title XII, § 1206, Dec. 20, 2019, 133 Stat. 1622, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense and Secretary of State shall jointly develop, implement, and submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives], the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a plan to provide consistency in administration of section 362 of title 10, United States Code, and section 620M of the Foreign Assistance Act of 1961 (22 U.S.C. 2378d).
 
@@ -3935,11 +3935,11 @@ Pub. L. 116–92, div. A, title XII, § 1206, Dec. 20, 2019, 133 Stat. 1622, p
 
 **Human Rights Vetting of Afghan National Defense and Security Forces**
 
-Pub. L. 115–91, div. A, title XII, § 1216, Dec. 12, 2017, 131 Stat. 1650, provided that: “The Secretary of Defense may establish within the Department of Defense one or more permanent positions to oversee and support, in coordination with the Department of State, the implementation of section 362 of title 10, United States Code, with respect to the Afghan National Defense and Security Forces.”
+Pub. L. 115–91, div. A, title XII, § 1216, Dec. 12, 2017, 131 Stat. 1650, provided that: “The Secretary of Defense may establish within the Department of Defense one or more permanent positions to oversee and support, in coordination with the Department of State, the implementation of section 362 of title 10, United States Code, with respect to the Afghan National Defense and Security Forces.”
 
 **Annual Reports**
 
-Pub. L. 113–291, div. A, title XII, § 1204(b), Dec. 19, 2014, 128 Stat. 3533, as amended by Pub. L. 115–232, div. A, title XII, § 1204(c)(2), Aug. 13, 2018, 132 Stat. 2017, provided that:
+Pub. L. 113–291, div. A, title XII, § 1204(b), Dec. 19, 2014, 128 Stat. 3533, as amended by Pub. L. 115–232, div. A, title XII, § 1204(c)(2), Aug. 13, 2018, 132 Stat. 2017, provided that:
 
 > **“(1) In general.—** Not later than March 31, 2015, and every March 31 thereafter through 2024, the Secretary of Defense shall submit to the appropriate committees of Congress a report setting forth for the preceding fiscal year the following:
 
@@ -3959,29 +3959,29 @@ Pub. L. 113–291, div. A, title XII, § 1204(b), Dec. 19, 2014, 128 Stat. 353
 
 [For termination, effective Dec. 31, 2021, of annual reporting provisions in section 1204(b) of Pub. L. 113–291, set out above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.]
 
-### [§ 371. Renumbered § 271]
+### [§ 371. Renumbered § 271]
 
-### [§ 372. Renumbered § 272]
+### [§ 372. Renumbered § 272]
 
-### [§ 373. Renumbered § 273]
+### [§ 373. Renumbered § 273]
 
-### [§ 374. Renumbered § 274]
+### [§ 374. Renumbered § 274]
 
-### [§ 375. Renumbered § 275]
+### [§ 375. Renumbered § 275]
 
-### [§ 376. Renumbered § 276]
+### [§ 376. Renumbered § 276]
 
-### [§ 377. Renumbered § 277]
+### [§ 377. Renumbered § 277]
 
-### [§ 378. Renumbered § 278]
+### [§ 378. Renumbered § 278]
 
-### [§ 379. Renumbered § 279]
+### [§ 379. Renumbered § 279]
 
-### [§ 380. Renumbered § 280]
+### [§ 380. Renumbered § 280]
 
 ## SUBCHAPTER VII—ADMINISTRATIVE AND MISCELLANEOUS MATTERS
 
-### § 381. Consolidated budget
+### § 381. Consolidated budget
 
 **(a) Consolidated Budget.—** The budget of the President for each fiscal year, as submitted to Congress by the President pursuant to section 1105 of title 31, shall set forth by budget function and as a separate item the amounts requested for the Department of Defense for such fiscal year for all security cooperation programs and activities of the Department of Defense, including the military departments, to be conducted in such fiscal year, including the specific country or region and the applicable authority, to the extent practicable.
 
@@ -3991,7 +3991,7 @@ Pub. L. 113–291, div. A, title XII, § 1204(b), Dec. 19, 2014, 128 Stat. 353
 
 **(2)** by not later than February 28 of each year, for the second six-month period of the preceding year.
 
-(Added Pub. L. 114–328, div. A, title XII, § 1249(a), Dec. 23, 2016, 130 Stat. 2526; amended Pub. L. 116–92, div. A, title XII, § 1204, Dec. 20, 2019, 133 Stat. 1622; Pub. L. 118–31, div. A, title X, § 1061(a), Dec. 22, 2023, 137 Stat. 398; Pub. L. 118–159, div. A, title XVII, § 1701(a)(6), Dec. 23, 2024, 138 Stat. 2203.)
+(Added Pub. L. 114–328, div. A, title XII, § 1249(a), Dec. 23, 2016, 130 Stat. 2526; amended Pub. L. 116–92, div. A, title XII, § 1204, Dec. 20, 2019, 133 Stat. 1622; Pub. L. 118–31, div. A, title X, § 1061(a), Dec. 22, 2023, 137 Stat. 398; Pub. L. 118–159, div. A, title XVII, § 1701(a)(6), Dec. 23, 2024, 138 Stat. 2203.)
 
 **Editorial Notes**
 
@@ -4011,7 +4011,7 @@ A prior section 381 was renumbered section 281 of this title.
 
 **Effective Date; Applicability**
 
-Pub. L. 114–328, div. A, title XII, § 1249(b), Dec. 23, 2016, 130 Stat. 2526, provided that:
+Pub. L. 114–328, div. A, title XII, § 1249(b), Dec. 23, 2016, 130 Stat. 2526, provided that:
 
 > “The amendment made by subsection (a) [enacting this section] shall take effect on the date of the enactment of this Act [Dec. 23, 2016], and shall apply as follows:
 
@@ -4019,7 +4019,7 @@ Pub. L. 114–328, div. A, title XII, § 1249(b), Dec. 23, 2016, 130 Stat. 252
 
 > **“(2)** Subsection (b) of such section 381, as so added, shall apply to calendar quarters beginning on or after the date of the enactment of this Act.”
 
-### § 382. Execution and administration of programs and activities
+### § 382. Execution and administration of programs and activities
 
 **(a) Policy Oversight and Resource Allocation.—** The Secretary of Defense shall assign responsibility for the oversight of strategic policy and guidance and responsibility for overall resource allocation for security cooperation programs and activities of the Department of Defense to a single official and office in the Office of the Secretary of Defense at the level of Under Secretary of Defense or below.
 
@@ -4035,7 +4035,7 @@ Pub. L. 114–328, div. A, title XII, § 1249(b), Dec. 23, 2016, 130 Stat. 252
 
 **(2) Budget justification.—** Funds necessary for implementing security cooperation programs and activities of the Department of Defense under this chapter for a fiscal year shall be identified, with appropriate justification, in the consolidated budget for such fiscal year required by section 381 of this title.
 
-(Added Pub. L. 114–328, div. A, title XII, § 1241(m), Dec. 23, 2016, 130 Stat. 2509.)
+(Added Pub. L. 114–328, div. A, title XII, § 1241(m), Dec. 23, 2016, 130 Stat. 2509.)
 
 **Editorial Notes**
 
@@ -4043,7 +4043,7 @@ Pub. L. 114–328, div. A, title XII, § 1249(b), Dec. 23, 2016, 130 Stat. 252
 
 A prior section 382 was renumbered section 282 of this title.
 
-### § 383. Assessment, monitoring, and evaluation of programs and activities
+### § 383. Assessment, monitoring, and evaluation of programs and activities
 
 **(a) Program Required.—** The Secretary of Defense shall maintain a program of assessment, monitoring, and evaluation in support of the security cooperation programs and activities of the Department of Defense.
 
@@ -4079,7 +4079,7 @@ A prior section 382 was renumbered section 282 of this title.
 
 **(2) Information for the public on evaluations.—** The Secretary shall make available to the public, on an Internet website of the Department of Defense available to the public, a summary of each evaluation conducted pursuant to subsection (b)(1)(C). In making a summary so available, the Secretary may redact or omit any information that the Secretary determines should not be disclosed to the public in order to protect the interest of the United States or the foreign country or countries covered by such evaluation.
 
-(Added Pub. L. 114–328, div. A, title XII, § 1241(m), Dec. 23, 2016, 130 Stat. 2510; amended Pub. L. 115–232, div. A, title XII, § 1211(c), Aug. 13, 2018, 132 Stat. 2024; Pub. L. 118–159, div. A, title XII, § 1203, Dec. 23, 2024, 138 Stat. 2094.)
+(Added Pub. L. 114–328, div. A, title XII, § 1241(m), Dec. 23, 2016, 130 Stat. 2510; amended Pub. L. 115–232, div. A, title XII, § 1211(c), Aug. 13, 2018, 132 Stat. 2024; Pub. L. 118–159, div. A, title XII, § 1203, Dec. 23, 2024, 138 Stat. 2094.)
 
 **Editorial Notes**
 
@@ -4095,11 +4095,11 @@ A prior section 383 was renumbered section 283 of this title.
 
 **Amendments**
 
-2024—Subsec. (d)(1)(B). Pub. L. 118–159 inserted “, including a description of challenges in executing the program,” after “lessons learned”.
+2024—Subsec. (d)(1)(B). Pub. L. 118–159 inserted “, including a description of challenges in executing the program,” after “lessons learned”.
 
 2018—Subsec. (b)(1)(E). Pub. L. 115–232 added subpar. (E).
 
-### § 384. Department of Defense security cooperation workforce development
+### § 384. Department of Defense security cooperation workforce development
 
 **(a) Program Required.—** The Secretary of Defense shall carry out a program to be known as the “Department of Defense Security Cooperation Workforce Development Program” (in this section referred to as the “Program”) to oversee the development and management of a professional workforce supporting security cooperation programs and activities of the Department of Defense, including—
 
@@ -4279,15 +4279,15 @@ A prior section 383 was renumbered section 283 of this title.
 
 **(B)** such legislative and administrative recommendations as the Comptroller General considers appropriate to meet the objectives of this section.
 
-(Added Pub. L. 114–328, div. A, title XII, § 1250(a), Dec. 23, 2016, 130 Stat. 2526; amended Pub. L. 118–31, div. A, title XII, § 1204(a), Dec. 22, 2023, 137 Stat. 442.)
+(Added Pub. L. 114–328, div. A, title XII, § 1250(a), Dec. 23, 2016, 130 Stat. 2526; amended Pub. L. 118–31, div. A, title XII, § 1204(a), Dec. 22, 2023, 137 Stat. 442.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
-The Arms Export Control Act, referred to in subsec. (a)(2), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
+The Arms Export Control Act, referred to in subsec. (a)(2), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (e)(1), (2), is the date of enactment of Pub. L. 114–328, which was approved Dec. 23, 2016.
 
@@ -4299,21 +4299,21 @@ A prior section 384 was renumbered section 284 of this title.
 
 **Amendments**
 
-2023—Subsec. (c). Pub. L. 118–31, § 1204(a)(1), amended subsec. (c) generally. Prior to amendment, text read as follows: “The Program shall consist of such elements relating to the development and management of the security cooperation workforce as the Secretary considers appropriate for the purposes specified in subsection (b), including elements on training, certification, assignment, and career development of personnel of the security cooperation workforce.”
+2023—Subsec. (c). Pub. L. 118–31, § 1204(a)(1), amended subsec. (c) generally. Prior to amendment, text read as follows: “The Program shall consist of such elements relating to the development and management of the security cooperation workforce as the Secretary considers appropriate for the purposes specified in subsection (b), including elements on training, certification, assignment, and career development of personnel of the security cooperation workforce.”
 
-Subsec. (d). Pub. L. 118–31, § 1204(a)(2), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Program shall be managed by the Director of the Defense Security Cooperation Agency.”
+Subsec. (d). Pub. L. 118–31, § 1204(a)(2), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Program shall be managed by the Director of the Defense Security Cooperation Agency.”
 
-Subsec. (e). Pub. L. 118–31, § 1204(a)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to guidance for the execution and administration of the Department of Defense Security Cooperation Workforce Development Program.
+Subsec. (e). Pub. L. 118–31, § 1204(a)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to guidance for the execution and administration of the Department of Defense Security Cooperation Workforce Development Program.
 
-Subsecs. (f) to (h). Pub. L. 118–31, § 1204(a)(5), (6), added subsecs. (f) and (g) and redesignated former subsec. (f) as (h). Former subsecs. (g) and (h) redesignated (i) and (j), respectively.
+Subsecs. (f) to (h). Pub. L. 118–31, § 1204(a)(5), (6), added subsecs. (f) and (g) and redesignated former subsec. (f) as (h). Former subsecs. (g) and (h) redesignated (i) and (j), respectively.
 
-Subsec. (h)(6). Pub. L. 118–31, § 1204(a)(4), substituted “security cooperation human capital initiative under subsection (e)” for “guidance issued under subsection (e)”.
+Subsec. (h)(6). Pub. L. 118–31, § 1204(a)(4), substituted “security cooperation human capital initiative under subsection (e)” for “guidance issued under subsection (e)”.
 
-Subsecs. (i), (j). Pub. L. 118–31, § 1204(a)(5), redesignated subsecs. (g) and (h) as (i) and (j), respectively.
+Subsecs. (i), (j). Pub. L. 118–31, § 1204(a)(5), redesignated subsecs. (g) and (h) as (i) and (j), respectively.
 
-Subsecs. (k), (*l*). Pub. L. 118–31, § 1204(a)(7), added subsecs. (k) and (*l*).
+Subsecs. (k), (*l*). Pub. L. 118–31, § 1204(a)(7), added subsecs. (k) and (*l*).
 
-### § 385. Department of Defense support for other departments and agencies of the United States Government that advance Department of Defense security cooperation objectives
+### § 385. Department of Defense support for other departments and agencies of the United States Government that advance Department of Defense security cooperation objectives
 
 **(a) Support Authorized.—** Subject to subsection (c), the Secretary of Defense is authorized to support other departments and agencies of the United States Government for the purpose of implementing or supporting foreign assistance programs and activities described in subsection (b) that advance security cooperation objectives of the Department of Defense.
 
@@ -4343,7 +4343,7 @@ Subsecs. (k), (*l*). Pub. L. 118–31, § 1204(a)(7), added subsecs. (k) and (
 
 **(2)** a period of 30 days elapses after the date of the submittal of the notice pursuant to paragraph (1).
 
-(Added Pub. L. 114–328, div. A, title XII, § 1241(m), Dec. 23, 2016, 130 Stat. 2511; amended Pub. L. 115–232, div. A, title XII, § 1204(c)(1)(E), Aug. 13, 2018, 132 Stat. 2017.)
+(Added Pub. L. 114–328, div. A, title XII, § 1241(m), Dec. 23, 2016, 130 Stat. 2511; amended Pub. L. 115–232, div. A, title XII, § 1204(c)(1)(E), Aug. 13, 2018, 132 Stat. 2017.)
 
 **Editorial Notes**
 
@@ -4351,7 +4351,7 @@ Subsecs. (k), (*l*). Pub. L. 118–31, § 1204(a)(7), added subsecs. (k) and (
 
 2018—Subsec. (d)(1)(B). Pub. L. 115–232 substituted “including” for “include”.
 
-### § 386. Annual report
+### § 386. Annual report
 
 **(a) Annual Report Required.—** Not later than March 31 of each year, the Secretary of Defense shall submit to the appropriate congressional committees a report that sets forth, on a country-by-country basis, an overview of security cooperation activities carried out by the Department of Defense during the fiscal year in which such report is submitted, using the authorities specified in subsection (b).
 
@@ -4485,7 +4485,7 @@ Subsecs. (k), (*l*). Pub. L. 118–31, § 1204(a)(7), added subsecs. (k) and (
 
 **(iii)** the anticipated costs to provide such assistance.
 
-(Added and amended Pub. L. 114–328, div. A, title XII, §§ 1246(d)(2)(A), 1251(a)–(f), Dec. 23, 2016, 130 Stat. 2521, 2529–2531; Pub. L. 115–232, div. A, title XII, § 1204(b)(1)(A), Aug. 13, 2018, 132 Stat. 2017; Pub. L. 117–263, div. A, title XII, § 1202(d), Dec. 23, 2022, 136 Stat. 2823; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(4), Dec. 22, 2023, 137 Stat. 683; Pub. L. 118–159, div. A, title XII, § 1205(b), Dec. 23, 2024, 138 Stat. 2094.)
+(Added and amended Pub. L. 114–328, div. A, title XII, §§ 1246(d)(2)(A), 1251(a)–(f), Dec. 23, 2016, 130 Stat. 2521, 2529–2531; Pub. L. 115–232, div. A, title XII, § 1204(b)(1)(A), Aug. 13, 2018, 132 Stat. 2017; Pub. L. 117–263, div. A, title XII, § 1202(d), Dec. 23, 2022, 136 Stat. 2823; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(4), Dec. 22, 2023, 137 Stat. 683; Pub. L. 118–159, div. A, title XII, § 1205(b), Dec. 23, 2024, 138 Stat. 2094.)
 
 **Editorial Notes**
 
@@ -4495,73 +4495,73 @@ Text of section, as added by Pub. L. 114–328, was based on text of subsecs. (a
 
 **Amendments**
 
-2024—Subsec. (b)(2). Pub. L. 118–159, § 1205(b)(1), added subpar. (A) and redesignated former subpars. (A) to (H) as (B) to (I), respectively.
+2024—Subsec. (b)(2). Pub. L. 118–159, § 1205(b)(1), added subpar. (A) and redesignated former subpars. (A) to (H) as (B) to (I), respectively.
 
-Subsec. (b)(3)(B) to (K). Pub. L. 118–159, § 1205(b)(2), added subpar. (B) and redesignated former subpars. (B) to (J) as (C) to (K), respectively.
+Subsec. (b)(3)(B) to (K). Pub. L. 118–159, § 1205(b)(2), added subpar. (B) and redesignated former subpars. (B) to (J) as (C) to (K), respectively.
 
-2023—Subsec. (b)(2)(E). Pub. L. 118–31, § 1801(a)(4)(A), substituted “bilateral” for “bi-lateral”.
+2023—Subsec. (b)(2)(E). Pub. L. 118–31, § 1801(a)(4)(A), substituted “bilateral” for “bi-lateral”.
 
-Subsec. (b)(4)(E)(iii). Pub. L. 118–31, § 1801(a)(4)(B)(i), inserted “and” after semicolon at end.
+Subsec. (b)(4)(E)(iii). Pub. L. 118–31, § 1801(a)(4)(B)(i), inserted “and” after semicolon at end.
 
-Subsec. (b)(4)(H). Pub. L. 118–31, § 1801(a)(4)(B)(ii), substituted “section” for “sections” in introductory provisions.
+Subsec. (b)(4)(H). Pub. L. 118–31, § 1801(a)(4)(B)(ii), substituted “section” for “sections” in introductory provisions.
 
 2022—Pub. L. 117–263 amended section generally. Prior to amendment, section related to annual report required by Secretary of Defense to the appropriate congressional committees setting forth a description of each program carried out to provide training, equipment, or other assistance or reimbursement.
 
 2018—Subsec. (c)(1). Pub. L. 115–232 substituted “Sections 246, 251, 252, 253, 321,” for “Sections 311, 321, 331, 332, 333,”.
 
-2016—Subsec. (a). Pub. L. 114–328, § 1251(b)(6), which directed striking out “under the authorities in subsection (c)” after “submitted”, was executed by striking out “under the authorities specified in subsection (c)” after “submitted”, to reflect the probable intent of Congress.
+2016—Subsec. (a). Pub. L. 114–328, § 1251(b)(6), which directed striking out “under the authorities in subsection (c)” after “submitted”, was executed by striking out “under the authorities specified in subsection (c)” after “submitted”, to reflect the probable intent of Congress.
 
-Pub. L. 114–328, § 1251(b)(1)–(5), in heading, substituted “Annual Report Required” for “Biennial Report Required”, and, in text, substituted “Not later than January 31 of each year beginning in 2018, the Secretary of Defense” for “Not later than February 1 of each of 2016, 2018, and 2020, the Secretary of Defense”, “appropriate congressional committees” for “congressional defense committees”, “assistance” for “security assistance”, and “the fiscal year” for “the two fiscal years” and inserted “under the authorities in subsection (c)” after “Department of Defense”.
+Pub. L. 114–328, § 1251(b)(1)–(5), in heading, substituted “Annual Report Required” for “Biennial Report Required”, and, in text, substituted “Not later than January 31 of each year beginning in 2018, the Secretary of Defense” for “Not later than February 1 of each of 2016, 2018, and 2020, the Secretary of Defense”, “appropriate congressional committees” for “congressional defense committees”, “assistance” for “security assistance”, and “the fiscal year” for “the two fiscal years” and inserted “under the authorities in subsection (c)” after “Department of Defense”.
 
-Subsec. (b)(1). Pub. L. 114–328, § 1251(c)(1), inserted “, duration,” after “purpose”.
+Subsec. (b)(1). Pub. L. 114–328, § 1251(c)(1), inserted “, duration,” after “purpose”.
 
-Subsec. (b)(2). Pub. L. 114–328, § 1251(c)(2), substituted “The cost and expenditures” for “The cost”.
+Subsec. (b)(2). Pub. L. 114–328, § 1251(c)(2), substituted “The cost and expenditures” for “The cost”.
 
-Subsec. (b)(4) to (6). Pub. L. 114–328, § 1251(c)(3), added pars. (4) to (6).
+Subsec. (b)(4) to (6). Pub. L. 114–328, § 1251(c)(3), added pars. (4) to (6).
 
-Subsec. (c)(1). Pub. L. 114–328, § 1246(d)(2)(A), which directed amendment of subsec. (c)(1) by inserting “341,” after “333,”, was executed by making the insertion after “321,” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 115–232. See 2018 Amendment note above.
+Subsec. (c)(1). Pub. L. 114–328, § 1246(d)(2)(A), which directed amendment of subsec. (c)(1) by inserting “341,” after “333,”, was executed by making the insertion after “321,” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 115–232. See 2018 Amendment note above.
 
-Pub. L. 114–328, § 1251(d)(1), added par. (1) and struck out former par. (1) which read as follows: “Section 127d of title 10, United States Code, relating to authority to provide logistic support, supplies, and services to allied forces participating in a combined operation with the Armed Forces.”
+Pub. L. 114–328, § 1251(d)(1), added par. (1) and struck out former par. (1) which read as follows: “Section 127d of title 10, United States Code, relating to authority to provide logistic support, supplies, and services to allied forces participating in a combined operation with the Armed Forces.”
 
-Subsec. (c)(2), (3). Pub. L. 114–328, § 1251(d)(6), substituted “of this title” for “of title 10, United States Code”.
+Subsec. (c)(2), (3). Pub. L. 114–328, § 1251(d)(6), substituted “of this title” for “of title 10, United States Code”.
 
-Subsec. (c)(4). Pub. L. 114–328, § 1251(d)(2), (3), (6), redesignated par. (6) as (4), substituted “of this title” for “of title 10, United States Code”, and struck out former par. (4) which read as follows: “Section 2010 of title 10, United States Code, relating to authority to reimburse foreign troops for participation in combined exercises.”
+Subsec. (c)(4). Pub. L. 114–328, § 1251(d)(2), (3), (6), redesignated par. (6) as (4), substituted “of this title” for “of title 10, United States Code”, and struck out former par. (4) which read as follows: “Section 2010 of title 10, United States Code, relating to authority to reimburse foreign troops for participation in combined exercises.”
 
-Subsec. (c)(5). Pub. L. 114–328, § 1251(d)(2), (3), (6), redesignated par. (8) as (5), substituted “of this title” for “of title 10, United States Code”, and struck out former par. (5) which read as follows: “Section 2011 of title 10, United States Code, relating to authority to reimburse foreign troops for participation in Joint Combined Exercise Training.”
+Subsec. (c)(5). Pub. L. 114–328, § 1251(d)(2), (3), (6), redesignated par. (8) as (5), substituted “of this title” for “of title 10, United States Code”, and struck out former par. (5) which read as follows: “Section 2011 of title 10, United States Code, relating to authority to reimburse foreign troops for participation in Joint Combined Exercise Training.”
 
-Subsec. (c)(6). Pub. L. 114–328, § 1251(d)(3), redesignated par. (9) as (6). Former par. (6) redesignated (4).
+Subsec. (c)(6). Pub. L. 114–328, § 1251(d)(3), redesignated par. (9) as (6). Former par. (6) redesignated (4).
 
-Subsec. (c)(7). Pub. L. 114–328, § 1251(d)(2), (3), redesignated par. (13) as (7) and struck out former par. (7) which read as follows: “Section 2282 of title 10, United States Code (as added by section 1205 of this Act), relating to authority to build the capacity of foreign military forces, or the predecessor authority to such section in section 1206 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 119 Stat. 3456).”
+Subsec. (c)(7). Pub. L. 114–328, § 1251(d)(2), (3), redesignated par. (13) as (7) and struck out former par. (7) which read as follows: “Section 2282 of title 10, United States Code (as added by section 1205 of this Act), relating to authority to build the capacity of foreign military forces, or the predecessor authority to such section in section 1206 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 119 Stat. 3456).”
 
-Subsec. (c)(8), (9). Pub. L. 114–328, § 1251(d)(3), redesignated pars. (14) and (15) as (8) and (9), respectively. Former pars. (8) and (9) redesignated (5) and (6), respectively.
+Subsec. (c)(8), (9). Pub. L. 114–328, § 1251(d)(3), redesignated pars. (14) and (15) as (8) and (9), respectively. Former pars. (8) and (9) redesignated (5) and (6), respectively.
 
-Subsec. (c)(10). Pub. L. 114–328, § 1251(d)(2), (3), redesignated par. (16) as (10) and struck out former par. (10) which read as follows: “Section 1205 of the National Defense Authorization Act for Fiscal Year 2014 (32 U.S.C. 107 note), relating to authority for National Guard State Partnership program.”
+Subsec. (c)(10). Pub. L. 114–328, § 1251(d)(2), (3), redesignated par. (16) as (10) and struck out former par. (10) which read as follows: “Section 1205 of the National Defense Authorization Act for Fiscal Year 2014 (32 U.S.C. 107 note), relating to authority for National Guard State Partnership program.”
 
-Subsec. (c)(11), (12). Pub. L. 114–328, § 1251(d)(2), (4), added pars. (11) and (12) and struck out former pars. (11) and (12) which read as follows:
+Subsec. (c)(11), (12). Pub. L. 114–328, § 1251(d)(2), (4), added pars. (11) and (12) and struck out former pars. (11) and (12) which read as follows:
 
 “(11) Section 1081 of the National Defense Authorization Act for Fiscal Year 2012 (10 U.S.C. 168 note), relating to the Ministry of Defense Advisors program.
 
 “(12) Section 1207 of the National Defense Authorization Act for Fiscal Year 2012 (22 U.S.C. 2151 note), relating to the Global Security Contingency Fund.”
 
-Subsec. (c)(13). Pub. L. 114–328, § 1251(d)(5), redesignated par. (17) as (13). Former par. (13) redesignated (7).
+Subsec. (c)(13). Pub. L. 114–328, § 1251(d)(5), redesignated par. (17) as (13). Former par. (13) redesignated (7).
 
-Subsec. (c)(14) to (16). Pub. L. 114–328, § 1251(d)(3), redesignated pars. (14) to (16) as (8) to (10), respectively.
+Subsec. (c)(14) to (16). Pub. L. 114–328, § 1251(d)(3), redesignated pars. (14) to (16) as (8) to (10), respectively.
 
-Subsec. (c)(17). Pub. L. 114–328, § 1251(d)(5), redesignated par. (17) as (13).
+Subsec. (c)(17). Pub. L. 114–328, § 1251(d)(5), redesignated par. (17) as (13).
 
-Subsec. (d). Pub. L. 114–328, § 1251(e), designated existing provisions as par. (1) and inserted heading, substituted “Except as provided in paragraph (2), if any information” for “If any information”, and added par. (2).
+Subsec. (d). Pub. L. 114–328, § 1251(e), designated existing provisions as par. (1) and inserted heading, substituted “Except as provided in paragraph (2), if any information” for “If any information”, and added par. (2).
 
-Subsec. (e). Pub. L. 114–328, § 1251(f), inserted “that may also include other sensitive information” after “annex”.
+Subsec. (e). Pub. L. 114–328, § 1251(f), inserted “that may also include other sensitive information” after “annex”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–328, div. A, title XII, § 1246(d)(2), Dec. 23, 2016, 130 Stat. 2521, provided that the amendment made by section 1246(d)(2)(A) is effective as of January 1, 2020.
+Pub. L. 114–328, div. A, title XII, § 1246(d)(2), Dec. 23, 2016, 130 Stat. 2521, provided that the amendment made by section 1246(d)(2)(A) is effective as of January 1, 2020.
 
 **Applicability of Amendment to Annual Report Requirements**
 
-Pub. L. 117–263, div. A, title XII, § 1202(e), Dec. 23, 2022, 136 Stat. 2826, provided that:
+Pub. L. 117–263, div. A, title XII, § 1202(e), Dec. 23, 2022, 136 Stat. 2826, provided that:
 
 > “With respect to a report that was required to be submitted under section 386 of title 10, United States Code, prior to the date of the enactment of this Act [Dec. 23, 2022], that has not been submitted as of such date and relates to a year preceding fiscal year 2023, such a report may be submitted in accordance with—
 

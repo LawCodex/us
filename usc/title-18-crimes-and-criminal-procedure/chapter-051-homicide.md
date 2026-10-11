@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1996—Pub. L. 104–294, title VI, § 601(a)(6), Oct. 11, 1996, 110 Stat. 3498, added item 1122.
+1996—Pub. L. 104–294, title VI, § 601(a)(6), Oct. 11, 1996, 110 Stat. 3498, added item 1122.
 
-1994—Pub. L. 103–322, title VI, §§ 60005(b), 60009(b)(2), 60012(b), 60015(b), Sept. 13, 1994, 108 Stat. 1970, 1972–1974, added items 1118 to 1121.
+1994—Pub. L. 103–322, title VI, §§ 60005(b), 60009(b)(2), 60012(b), 60015(b), Sept. 13, 1994, 108 Stat. 1970, 1972–1974, added items 1118 to 1121.
 
-1976—Pub. L. 94–467, § 3, Oct. 8, 1976, 90 Stat. 1998, substituted “official guests, or internationally protected persons” for “or official guests” in item 1116.
+1976—Pub. L. 94–467, § 3, Oct. 8, 1976, 90 Stat. 1998, substituted “official guests, or internationally protected persons” for “or official guests” in item 1116.
 
-1972—Pub. L. 92–539, title I, § 102, Oct. 24, 1972, 86 Stat. 1071, added items 1116 and 1117.
+1972—Pub. L. 92–539, title I, § 102, Oct. 24, 1972, 86 Stat. 1071, added items 1116 and 1117.
 
-## § 1111. Murder
+## § 1111. Murder
 
 **(a)** Murder is the unlawful killing of a human being with malice aforethought. Every murder perpetrated by poison, lying in wait, or any other kind of willful, deliberate, malicious, and premeditated killing; or committed in the perpetration of, or attempt to perpetrate, any arson, escape, murder, kidnapping, treason, espionage, sabotage, aggravated sexual abuse or sexual abuse, child abuse, burglary, or robbery; or perpetrated as part of a pattern or practice of assault or torture against a child or children; or perpetrated from a premeditated design unlawfully and maliciously to effect the death of any human being other than him who is killed, is murder in the first degree.
 
@@ -57,11 +57,11 @@ Whoever is guilty of murder in the second degree, shall be imprisoned for any te
 
 **(6)** the term “torture” means conduct, whether or not committed under the color of law, that otherwise satisfies the definition set forth in section 2340(1).
 
-(June 25, 1948, ch. 645, 62 Stat. 756; Pub. L. 98–473, title II, § 1004, Oct. 12, 1984, 98 Stat. 2138; Pub. L. 99–646, § 87(c)(4), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, § 3(a)(4), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 100–690, title VII, § 7025, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 103–322, title VI, § 60003(a)(4), Sept. 13, 1994, 108 Stat. 1969; Pub. L. 108–21, title I, § 102, Apr. 30, 2003, 117 Stat. 652.)
+(June 25, 1948, ch. 645, 62 Stat. 756; Pub. L. 98–473, title II, § 1004, Oct. 12, 1984, 98 Stat. 2138; Pub. L. 99–646, § 87(c)(4), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, § 3(a)(4), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 100–690, title VII, § 7025, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 103–322, title VI, § 60003(a)(4), Sept. 13, 1994, 108 Stat. 1969; Pub. L. 108–21, title I, § 102, Apr. 30, 2003, 117 Stat. 652.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 452, 454, 567 (Mar. 4, 1909, ch. 321, §§ 273, 275, 330, 35 Stat. 1143, 1152).
+Based on title 18, U.S.C., 1940 ed., §§ 452, 454, 567 (Mar. 4, 1909, ch. 321, §§ 273, 275, 330, 35 Stat. 1143, 1152).
 
 Section consolidates the punishment provision of sections 454 and 567 of title 18, U.S.C., 1940 ed., with section 452 of title 18, U.S.C., 1940 ed.
 
@@ -77,15 +77,15 @@ The special maritime and territorial jurisdiction provision was added in view of
 
 **Amendments**
 
-2003—Subsec. (a). Pub. L. 108–21, § 102(1), inserted “child abuse,” after “or sexual abuse,” and “or perpetrated as part of a pattern or practice of assault or torture against a child or children;” after “robbery;”.
+2003—Subsec. (a). Pub. L. 108–21, § 102(1), inserted “child abuse,” after “or sexual abuse,” and “or perpetrated as part of a pattern or practice of assault or torture against a child or children;” after “robbery;”.
 
-Subsec. (c). Pub. L. 108–21, § 102(2), added subsec. (c).
+Subsec. (c). Pub. L. 108–21, § 102(2), added subsec. (c).
 
 1994—Subsec. (b). Pub. L. 103–322 amended second par. generally. Prior to amendment, second par. read as follows: “Whoever is guilty of murder in the first degree, shall suffer death unless the jury qualifies its verdict by adding thereto ‘without capital punishment’, in which event he shall be sentenced to imprisonment for life;”.
 
 1988—Subsec. (a). Pub. L. 100–690 inserted a comma after “arson”.
 
-1986—Subsec. (a). Pub. L. 99–646 and Pub. L. 99–654 amended subsec. (a) identically, substituting “aggravated sexual abuse or sexual abuse” for “, rape”.
+1986—Subsec. (a). Pub. L. 99–646 and Pub. L. 99–654 amended subsec. (a) identically, substituting “aggravated sexual abuse or sexual abuse” for “, rape”.
 
 1984—Subsec. (a). Pub. L. 98–473 inserted “escape, murder, kidnapping, treason, espionage, sabotage,” after “arson”.
 
@@ -95,7 +95,7 @@ Subsec. (c). Pub. L. 108–21, § 102(2), added subsec. (c).
 
 Amendments by Pub. L. 99–646 and Pub. L. 99–654 effective respectively 30 days after Nov. 10, 1986, and 30 days after Nov. 14, 1986, see section 87(e) of Pub. L. 99–646 and section 4 of Pub. L. 99–654, set out as an Effective Date note under section 2241 of this title.
 
-## § 1112. Manslaughter
+## § 1112. Manslaughter
 
 **(a)** Manslaughter is the unlawful killing of a human being without malice. It is of two kinds:
 
@@ -109,11 +109,11 @@ Whoever is guilty of voluntary manslaughter, shall be fined under this title or 
 
 Whoever is guilty of involuntary manslaughter, shall be fined under this title or imprisoned not more than 8 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 756; Pub. L. 103–322, title XXXII, § 320102, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2109, 2147; Pub. L. 104–294, title VI, § 604(b)(13), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 110–177, title II, § 207, Jan. 7, 2008, 121 Stat. 2538.)
+(June 25, 1948, ch. 645, 62 Stat. 756; Pub. L. 103–322, title XXXII, § 320102, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2109, 2147; Pub. L. 104–294, title VI, § 604(b)(13), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 110–177, title II, § 207, Jan. 7, 2008, 121 Stat. 2538.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 453, 454 (Mar. 4, 1909, ch. 321, §§ 274, 275, 35 Stat. 1143).
+Based on title 18, U.S.C., 1940 ed., §§ 453, 454 (Mar. 4, 1909, ch. 321, §§ 274, 275, 35 Stat. 1143).
 
 Section consolidates punishment provisions of sections 453 and 454 of title 18, U.S.C., 1940 ed.
 
@@ -127,17 +127,17 @@ Minor changes were made in phraseology.
 
 2008—Subsec. (b). Pub. L. 110–177 substituted “15 years” for “ten years” in second par. and “8 years” for “six years” in last par.
 
-1996—Subsec. (b). Pub. L. 104–294 repealed Pub. L. 103–322, § 320102(2). See 1994 Amendment note below.
+1996—Subsec. (b). Pub. L. 104–294 repealed Pub. L. 103–322, § 320102(2). See 1994 Amendment note below.
 
-1994—Subsec. (b). Pub. L. 103–322, § 330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” in last par.
+1994—Subsec. (b). Pub. L. 103–322, § 330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” in last par.
 
-Pub. L. 103–322, § 320102(3), substituted “six years” for “three years” in last par.
+Pub. L. 103–322, § 320102(3), substituted “six years” for “three years” in last par.
 
-Pub. L. 103–322, § 320102(2), which provided for amendment identical to Pub. L. 103–322, § 330016(1)(H), above, was repealed by Pub. L. 104–294, § 604(b)(13).
+Pub. L. 103–322, § 320102(2), which provided for amendment identical to Pub. L. 103–322, § 330016(1)(H), above, was repealed by Pub. L. 104–294, § 604(b)(13).
 
-Pub. L. 103–322, § 320102(1)(B), which directed the amendment of subsec. (b) by inserting “, or both” after “years”, was executed by inserting the material after “years” in second par., which was the first place the word appeared in text, to reflect the probable intent of Congress.
+Pub. L. 103–322, § 320102(1)(B), which directed the amendment of subsec. (b) by inserting “, or both” after “years”, was executed by inserting the material after “years” in second par., which was the first place the word appeared in text, to reflect the probable intent of Congress.
 
-Pub. L. 103–322, § 320102(1)(A), inserted “fined under this title or” after “shall be” in second par.
+Pub. L. 103–322, § 320102(1)(A), inserted “fined under this title or” after “shall be” in second par.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -145,15 +145,15 @@ Pub. L. 103–322, § 320102(1)(A), inserted “fined under this title or” a
 
 Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
-## § 1113. Attempt to commit murder or manslaughter
+## § 1113. Attempt to commit murder or manslaughter
 
 Except as provided in section 113 of this title, whoever, within the special maritime and territorial jurisdiction of the United States, attempts to commit murder or manslaughter, shall, for an attempt to commit murder be imprisoned not more than twenty years or fined under this title, or both, and for an attempt to commit manslaughter be imprisoned not more than seven years or fined under this title, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 756; Pub. L. 100–690, title VII, § 7058(c), Nov. 18, 1988, 102 Stat. 4403; Pub. L. 101–647, title XXXV, § 3534, Nov. 29, 1990, 104 Stat. 4925; Pub. L. 104–132, title VII, § 705(a)(5), Apr. 24, 1996, 110 Stat. 1295.)
+(June 25, 1948, ch. 645, 62 Stat. 756; Pub. L. 100–690, title VII, § 7058(c), Nov. 18, 1988, 102 Stat. 4403; Pub. L. 101–647, title XXXV, § 3534, Nov. 29, 1990, 104 Stat. 4925; Pub. L. 104–132, title VII, § 705(a)(5), Apr. 24, 1996, 110 Stat. 1295.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 456 (Mar. 4, 1909, ch. 321, § 277, 35 Stat. 1143).
+Based on title 18, U.S.C., 1940 ed., § 456 (Mar. 4, 1909, ch. 321, § 277, 35 Stat. 1143).
 
 Words “within the special maritime and territorial jurisdiction of the United States” were added in view of definitive section 7 of this title, and section was rearranged to more clearly express intent of existing law.
 
@@ -169,7 +169,7 @@ Mandatory punishment provision was rephrased in the alternative.
 
 1988—Pub. L. 100–690 substituted “shall, for an attempt to commit murder be imprisoned not more than twenty years or fined under this title, or both, and for an attempt to commit manslaughter be imprisoned not more than three years or fined under this title, or both.” for “shall be fined not more than $1,000 or imprisoned not more than three years, or both”.
 
-## § 1114. Protection of officers and employees of the United States
+## § 1114. Protection of officers and employees of the United States
 
 **(a) In General.—** Whoever kills or attempts to kill any officer or employee of the United States or of any agency in any branch of the United States Government (including any member of the uniformed services) while such officer or employee is engaged in or on account of the performance of official duties, or any person assisting such an officer or employee in the performance of such duties or on account of that assistance, shall be punished—
 
@@ -181,13 +181,13 @@ Mandatory punishment provision was rephrased in the alternative.
 
 **(b) Extraterritorial Jurisdiction.—** There is extraterritorial jurisdiction over the conduct prohibited by this section.
 
-(June 25, 1948, ch. 645, 62 Stat. 756; May 24, 1949, ch. 139, § 24, 63 Stat. 93; Oct. 31, 1951, ch. 655, § 28, 65 Stat. 721; June 27, 1952, ch. 477, title IV, § 402(c), 66 Stat. 276; Pub. L. 85–568, title III, § 304(d), July 29, 1958, 72 Stat. 434; Pub. L. 87–518, § 10, July 2, 1962, 76 Stat. 132; Pub. L. 88–493, § 3, Aug. 27, 1964, 78 Stat. 610; Pub. L. 89–74, § 8(b), July 15, 1965, 79 Stat. 234; Pub. L. 90–449, § 2, Aug. 2, 1968, 82 Stat. 611; Pub. L. 91–375, § 6(j)(9), Aug. 12, 1970, 84 Stat. 777; Pub. L. 91–513, title II, § 701(i)(1), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 91–596, § 17(h)(1), Dec. 29, 1970, 84 Stat. 1607; Pub. L. 93–481, § 5, Oct. 26, 1974, 88 Stat. 1456; Pub. L. 94–284, § 18, May 11, 1976, 90 Stat. 514; Pub. L. 94–582, § 16, Oct. 21, 1976, 90 Stat. 2883; Pub. L. 95–87, title VII, § 704, Aug. 3, 1977, 91 Stat. 520; Pub. L. 95–616, § 3(j)(2), Nov. 8, 1978, 92 Stat. 3112; Pub. L. 95–630, title III, § 307, Nov. 10, 1978, 92 Stat. 3677; Pub. L. 96–296, § 26(c), July 1, 1980, 94 Stat. 819; Pub. L. 96–466, title VII, § 704, Oct. 17, 1980, 94 Stat. 2216; Pub. L. 97–143, § 1(b), Dec. 29, 1981, 95 Stat. 1724; Pub. L. 97–259, title I, § 128, Sept. 13, 1982, 96 Stat. 1099; Pub. L. 97–365, § 6, Oct. 25, 1982, 96 Stat. 1752; Pub. L. 97–452, § 2(b), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 313; Pub. L. 98–473, title II, § 1012, Oct. 12, 1984, 98 Stat. 2142; Pub. L. 98–557, § 17(c), Oct. 30, 1984, 98 Stat. 2868; Pub. L. 100–690, title VII, § 7026, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 101–73, title IX, § 962(a)(6), Aug. 9, 1989, 103 Stat. 502; Pub. L. 101–647, title XII, § 1205(h), title XVI, § 1606, title XXXV, § 3535, Nov. 29, 1990, 104 Stat. 4831, 4843, 4925; Pub. L. 102–54, § 13(f)(2), June 13, 1991, 105 Stat. 275; Pub. L. 102–365, § 6, Sept. 3, 1992, 106 Stat. 975; Pub. L. 103–322, title VI, § 60007, title XXXIII, §§ 330009(c), 330011(g), Sept. 13, 1994, 108 Stat. 1971, 2143, 2145; Pub. L. 104–132, title VII, § 727(a), Apr. 24, 1996, 110 Stat. 1302; Pub. L. 104–294, title VI, § 601(f)(2), Oct. 11, 1996, 110 Stat. 3499; Pub. L. 107–273, div. B, title IV, § 4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 117–59, § 3(3), Nov. 18, 2021, 135 Stat. 1469.)
+(June 25, 1948, ch. 645, 62 Stat. 756; May 24, 1949, ch. 139, § 24, 63 Stat. 93; Oct. 31, 1951, ch. 655, § 28, 65 Stat. 721; June 27, 1952, ch. 477, title IV, § 402(c), 66 Stat. 276; Pub. L. 85–568, title III, § 304(d), July 29, 1958, 72 Stat. 434; Pub. L. 87–518, § 10, July 2, 1962, 76 Stat. 132; Pub. L. 88–493, § 3, Aug. 27, 1964, 78 Stat. 610; Pub. L. 89–74, § 8(b), July 15, 1965, 79 Stat. 234; Pub. L. 90–449, § 2, Aug. 2, 1968, 82 Stat. 611; Pub. L. 91–375, § 6(j)(9), Aug. 12, 1970, 84 Stat. 777; Pub. L. 91–513, title II, § 701(i)(1), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 91–596, § 17(h)(1), Dec. 29, 1970, 84 Stat. 1607; Pub. L. 93–481, § 5, Oct. 26, 1974, 88 Stat. 1456; Pub. L. 94–284, § 18, May 11, 1976, 90 Stat. 514; Pub. L. 94–582, § 16, Oct. 21, 1976, 90 Stat. 2883; Pub. L. 95–87, title VII, § 704, Aug. 3, 1977, 91 Stat. 520; Pub. L. 95–616, § 3(j)(2), Nov. 8, 1978, 92 Stat. 3112; Pub. L. 95–630, title III, § 307, Nov. 10, 1978, 92 Stat. 3677; Pub. L. 96–296, § 26(c), July 1, 1980, 94 Stat. 819; Pub. L. 96–466, title VII, § 704, Oct. 17, 1980, 94 Stat. 2216; Pub. L. 97–143, § 1(b), Dec. 29, 1981, 95 Stat. 1724; Pub. L. 97–259, title I, § 128, Sept. 13, 1982, 96 Stat. 1099; Pub. L. 97–365, § 6, Oct. 25, 1982, 96 Stat. 1752; Pub. L. 97–452, § 2(b), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 313; Pub. L. 98–473, title II, § 1012, Oct. 12, 1984, 98 Stat. 2142; Pub. L. 98–557, § 17(c), Oct. 30, 1984, 98 Stat. 2868; Pub. L. 100–690, title VII, § 7026, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 101–73, title IX, § 962(a)(6), Aug. 9, 1989, 103 Stat. 502; Pub. L. 101–647, title XII, § 1205(h), title XVI, § 1606, title XXXV, § 3535, Nov. 29, 1990, 104 Stat. 4831, 4843, 4925; Pub. L. 102–54, § 13(f)(2), June 13, 1991, 105 Stat. 275; Pub. L. 102–365, § 6, Sept. 3, 1992, 106 Stat. 975; Pub. L. 103–322, title VI, § 60007, title XXXIII, §§ 330009(c), 330011(g), Sept. 13, 1994, 108 Stat. 1971, 2143, 2145; Pub. L. 104–132, title VII, § 727(a), Apr. 24, 1996, 110 Stat. 1302; Pub. L. 104–294, title VI, § 601(f)(2), Oct. 11, 1996, 110 Stat. 3499; Pub. L. 107–273, div. B, title IV, § 4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 117–59, § 3(3), Nov. 18, 2021, 135 Stat. 1469.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 18, U.S.C., 1940 ed., § 253 (May 18, 1934, ch. 299, § 1, 48 Stat. 780; Feb. 8, 1936, ch. 40, 49 Stat. 1105; June 26, 1936, ch. 830, title I, § 3, 49 Stat. 1940; Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; June 13, 1940, ch. 359, 54 Stat. 391).
+Based on title 18, U.S.C., 1940 ed., § 253 (May 18, 1934, ch. 299, § 1, 48 Stat. 780; Feb. 8, 1936, ch. 40, 49 Stat. 1105; June 26, 1936, ch. 830, title I, § 3, 49 Stat. 1940; Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; June 13, 1940, ch. 359, 54 Stat. 391).
 
 The section was extended to include United States judges, attorneys and their assistants, and officers of Federal, penal and correctional institutions in view of the obvious desirability of such protective legislation.
 
@@ -213,25 +213,25 @@ This section [section 24] amends section 1114 of title 18, U.S.C., to conform mo
 
 Subsec. (b). Pub. L. 104–294, which directed substitution in text of “1112,” for “1112.” and could not be executed, was repealed by Pub. L. 107–273. See above.
 
-1994—Pub. L. 103–322, § 330011(g), repealed Pub. L. 101–647, § 1606. See 1990 Amendment notes below.
+1994—Pub. L. 103–322, § 330011(g), repealed Pub. L. 101–647, § 1606. See 1990 Amendment notes below.
 
-Pub. L. 103–322, § 330009(c), substituted “or any other officer or employee of the United States or any agency thereof” for “or any other officer, agency, or employee of the United States”.
+Pub. L. 103–322, § 330009(c), substituted “or any other officer or employee of the United States or any agency thereof” for “or any other officer, agency, or employee of the United States”.
 
-Pub. L. 103–322, § 60007, substituted “punished, in the case of murder, as provided under section 1111, or, in the case of manslaughter, as provided under section 1112.” for “punished as provided under sections 1111 and 1112 of this title,”.
+Pub. L. 103–322, § 60007, substituted “punished, in the case of murder, as provided under section 1111, or, in the case of manslaughter, as provided under section 1112.” for “punished as provided under sections 1111 and 1112 of this title,”.
 
 1992—Pub. L. 102–365 inserted “any officer or employee of the Federal Railroad Administration assigned to perform investigative, inspection, or law enforcement functions,” after “any employee of the Coast Guard assigned to perform investigative, inspection or law enforcement functions,”.
 
 1991—Pub. L. 102–54 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1990—Pub. L. 101–647, § 3535(3), which directed amendment of section by striking out “the Federal Savings and Loan Insurance Corporation,” could not be executed because that language had been struck out by Pub. L. 101–73. See 1989 Amendment note below.
+1990—Pub. L. 101–647, § 3535(3), which directed amendment of section by striking out “the Federal Savings and Loan Insurance Corporation,” could not be executed because that language had been struck out by Pub. L. 101–73. See 1989 Amendment note below.
 
-Pub. L. 101–647, § 1606(3), which amended this section identically to amendment by Pub. L. 101–647, § 3535(3), was repealed by Pub. L. 103–322, § 330011(g). See above.
+Pub. L. 101–647, § 1606(3), which amended this section identically to amendment by Pub. L. 101–647, § 3535(3), was repealed by Pub. L. 103–322, § 330011(g). See above.
 
-Pub. L. 101–647, § 3535(1), (2), substituted “Secret Service” for “secret service” and “any officer or employee of the Department of Education, the Department of Health and Human Services,” for “any officer or employee of the Department of Health, Education, and Welfare,”.
+Pub. L. 101–647, § 3535(1), (2), substituted “Secret Service” for “secret service” and “any officer or employee of the Department of Education, the Department of Health and Human Services,” for “any officer or employee of the Department of Health, Education, and Welfare,”.
 
-Pub. L. 101–647, § 1606(1), (2), which amended this section identically to amendment by Pub. L. 101–647, § 3535(1), (2), was repealed by Pub. L. 103–322, § 330011(g). See above.
+Pub. L. 101–647, § 1606(1), (2), which amended this section identically to amendment by Pub. L. 101–647, § 3535(1), (2), was repealed by Pub. L. 103–322, § 330011(g). See above.
 
-Pub. L. 101–647, § 1205(h), inserted “or any other commonwealth, territory, or possession” after “the Virgin Islands”.
+Pub. L. 101–647, § 1205(h), inserted “or any other commonwealth, territory, or possession” after “the Virgin Islands”.
 
 1989—Pub. L. 101–73 struck out “the Federal Savings and Loan Insurance Corporation,” after “Federal Deposit Insurance Corporation,” and substituted “the Office of Thrift Supervision, the Federal Housing Finance Board, the Resolution Trust Corporation” for “the Federal Home Loan Bank Board”.
 
@@ -239,13 +239,13 @@ Pub. L. 101–647, § 1205(h), inserted “or any other commonwealth, territor
 
 1984—Pub. L. 98–557 substituted reference to Coast Guard member, and Coast Guard employee assigned to perform investigative, inspection or law enforcement functions, for reference to any officer or enlisted man of the Coast Guard.
 
-Pub. L. 98–473 inserted “or attempts to kill” after “Whoever kills”, substituted “or any United States probation or pretrial services officer, or any United States magistrate, or any officer or employee of any department or agency within the Intelligence Community (as defined in section 3.4(F) of Executive Order 12333, December 8, 1981, or successor orders) not already covered under the terms of this section,” for “while engaged in the performance of his official duties or on account of the performance of his official duties”, inserted “, or any other officer, agency, or employee of the United States designated for coverage under this section in regulations issued by the Attorney General”, and inserted “, except that any such person who is found guilty of attempted murder shall be imprisoned for not more than twenty years”.
+Pub. L. 98–473 inserted “or attempts to kill” after “Whoever kills”, substituted “or any United States probation or pretrial services officer, or any United States magistrate, or any officer or employee of any department or agency within the Intelligence Community (as defined in section 3.4(F) of Executive Order 12333, December 8, 1981, or successor orders) not already covered under the terms of this section,” for “while engaged in the performance of his official duties or on account of the performance of his official duties”, inserted “, or any other officer, agency, or employee of the United States designated for coverage under this section in regulations issued by the Attorney General”, and inserted “, except that any such person who is found guilty of attempted murder shall be imprisoned for not more than twenty years”.
 
 1983—Pub. L. 98–63 inserted “any civilian official or employee of the Army Corps of Engineers assigned to perform investigations, inspections, law or regulatory enforcement functions, or field-level real estate functions,” after “National Park Service,”.
 
 1983—Pub. L. 97–452 substituted “sections 3711 and 3716–3718 of title 31” for “the Federal Claims Collection Act of 1966 (31 U.S.C. 951 et seq.)”.
 
-1982—Pub. L. 97–365 struck out “or” before “any attorney, liquidator, examiner, claim agent” and inserted “, or any officer or employee of the United States or any agency thereof designated to collect or compromise a Federal claim in accordance with the Federal Claims Collection Act of 1966 (31 U.S.C. 951 et seq.) or other statutory authority” before “shall be punished”.
+1982—Pub. L. 97–365 struck out “or” before “any attorney, liquidator, examiner, claim agent” and inserted “, or any officer or employee of the United States or any agency thereof designated to collect or compromise a Federal claim in accordance with the Federal Claims Collection Act of 1966 (31 U.S.C. 951 et seq.) or other statutory authority” before “shall be punished”.
 
 Pub. L. 97–259 inserted “or any officer or employee of the Federal Communications Commission performing investigative, inspection, or law enforcement functions,” after “or law enforcement functions,”.
 
@@ -263,7 +263,7 @@ Pub. L. 95–616 inserted “the Department of Commerce,”.
 
 1976—Pub. L. 94–582 struck out “any employee of the Bureau of Animal Industry of the Department of Agriculture,” after “the field service of the Bureau of Land Management,” and inserted “or of the Department of Agriculture” after “or of the Department of Labor”.
 
-Pub. L. 94–284 inserted “, the Consumer Product Safety Commission,” after “Department of Health, Education, and Welfare”.
+Pub. L. 94–284 inserted “, the Consumer Product Safety Commission,” after “Department of Health, Education, and Welfare”.
 
 1974—Pub. L. 93–481 substituted “Drug Enforcement Administration” for “Bureau of Narcotics and Dangerous Drugs”.
 
@@ -293,15 +293,15 @@ Pub. L. 91–375 substituted “officer or employee of the Postal Service”, fo
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–273, div. B, title IV, § 4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, provided that the amendment made by section 4002(c)(1) is effective Oct. 11, 1996.
+Pub. L. 107–273, div. B, title IV, § 4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, provided that the amendment made by section 4002(c)(1) is effective Oct. 11, 1996.
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–322, title XXXIII, § 330011(g), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of Nov. 29, 1990.
+Pub. L. 103–322, title XXXIII, § 330011(g), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of Nov. 29, 1990.
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–466, title VIII, § 802(g)(3), Oct. 17, 1980, 94 Stat. 2218, provided in part that the amendment made by section 704 of Pub. L. 96–466 is effective Oct. 17, 1980.
+Pub. L. 96–466, title VIII, § 802(g)(3), Oct. 17, 1980, 94 Stat. 2218, provided in part that the amendment made by section 704 of Pub. L. 96–466 is effective Oct. 17, 1980.
 
 **Effective Date of 1978 Amendment**
 
@@ -327,7 +327,7 @@ Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for violat
 
 **Sense of Congress**
 
-Pub. L. 117–59, § 2, Nov. 18, 2021, 135 Stat. 1468, provided that:
+Pub. L. 117–59, § 2, Nov. 18, 2021, 135 Stat. 1468, provided that:
 
 > “It is the sense of Congress that—
 
@@ -345,25 +345,25 @@ Pub. L. 117–59, § 2, Nov. 18, 2021, 135 Stat. 1468, provided that:
 
 **Life Imprisonment or Lesser Term for Killing Person in Performance of Investigative, Inspection, or Law Enforcement Functions**
 
-Pub. L. 91–596, § 17(h)(2), Dec. 29, 1970, 84 Stat. 1607, provided that: “Notwithstanding the provisions of sections 1111 and 1114 of title 18, United States Code, whoever, in violation of the provisions of section 1114 of such title, kills a person while engaged in or on account of the performance of investigative, inspection, or law enforcement functions added to such section 1114 by paragraph (1) of this subsection, and who would otherwise be subject to the penalty provisions of such section 1111 shall be punished by imprisonment for any term of years or for life.”
+Pub. L. 91–596, § 17(h)(2), Dec. 29, 1970, 84 Stat. 1607, provided that: “Notwithstanding the provisions of sections 1111 and 1114 of title 18, United States Code, whoever, in violation of the provisions of section 1114 of such title, kills a person while engaged in or on account of the performance of investigative, inspection, or law enforcement functions added to such section 1114 by paragraph (1) of this subsection, and who would otherwise be subject to the penalty provisions of such section 1111 shall be punished by imprisonment for any term of years or for life.”
 
 **Immunity From Criminal Prosecution**
 
-Pub. L. 88–493, § 5, Aug. 27, 1964, 78 Stat. 610, which provided that nothing in Pub. L. 88–493, which amended this section and section 112 of this title, and enacted former section 170e-1 of Title 5, Government Organization and Employees, shall create immunity from criminal prosecution under the laws of any State, territory, possession, Puerto Rico, or the District of Columbia, is set out as a note under section 112 of this title.
+Pub. L. 88–493, § 5, Aug. 27, 1964, 78 Stat. 610, which provided that nothing in Pub. L. 88–493, which amended this section and section 112 of this title, and enacted former section 170e-1 of Title 5, Government Organization and Employees, shall create immunity from criminal prosecution under the laws of any State, territory, possession, Puerto Rico, or the District of Columbia, is set out as a note under section 112 of this title.
 
-## § 1115. Misconduct or neglect of ship officers
+## § 1115. Misconduct or neglect of ship officers
 
 Every captain, engineer, pilot, or other person employed on any steamboat or vessel, by whose misconduct, negligence, or inattention to his duties on such vessel the life of any person is destroyed, and every owner, charterer, inspector, or other public officer, through whose fraud, neglect, connivance, misconduct, or violation of law the life of any person is destroyed, shall be fined under this title or imprisoned not more than ten years, or both.
 
 When the owner or charterer of any steamboat or vessel is a corporation, any executive officer of such corporation, for the time being actually charged with the control and management of the operation, equipment, or navigation of such steamboat or vessel, who has knowingly and willfully caused or allowed such fraud, neglect, connivance, misconduct, or violation of law, by which the life of any person is destroyed, shall be fined under this title or imprisoned not more than ten years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 757; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 757; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 461 (Mar. 4, 1909, ch. 321, § 282, 35 Stat. 1144).
+Based on title 18, U.S.C., 1940 ed., § 461 (Mar. 4, 1909, ch. 321, § 282, 35 Stat. 1144).
 
-Section restores the intent of the original enactments, R.S. § 5344, and act Mar. 3, 1905, ch. 1454, § 5, 33 Stat. 1025, and makes this section one of general application. In the Criminal Code of 1909, by placing it in chapter 11, limited to places within the special maritime and territorial jurisdiction of the United States, such original intent was inadvertently lost as indicated by the entire absence of report or comment on such limitation.
+Section restores the intent of the original enactments, R.S. § 5344, and act Mar. 3, 1905, ch. 1454, § 5, 33 Stat. 1025, and makes this section one of general application. In the Criminal Code of 1909, by placing it in chapter 11, limited to places within the special maritime and territorial jurisdiction of the United States, such original intent was inadvertently lost as indicated by the entire absence of report or comment on such limitation.
 
 **Editorial Notes**
 
@@ -371,7 +371,7 @@ Section restores the intent of the original enactments, R.S. § 5344, and act 
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in two places.
 
-## § 1116. Murder or manslaughter of foreign officials, official guests, or internationally protected persons
+## § 1116. Murder or manslaughter of foreign officials, official guests, or internationally protected persons
 
 **(a)** Whoever kills or attempts to kill a foreign official, official guest, or internationally protected person shall be punished as provided under sections 1111, 1112, and 1113 of this title.
 
@@ -403,21 +403,21 @@ Section restores the intent of the original enactments, R.S. § 5344, and act 
 
 **(d)** In the course of enforcement of this section and any other sections prohibiting a conspiracy or attempt to violate this section, the Attorney General may request assistance from any Federal, State, or local agency, including the Army, Navy, and Air Force, any statute, rule, or regulation to the contrary notwithstanding.
 
-(Added Pub. L. 92–539, title I, § 101, Oct. 24, 1972, 86 Stat. 1071; amended Pub. L. 94–467, § 2, Oct. 8, 1976, 90 Stat. 1997; Pub. L. 95–163, § 17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, § 2(b), Oct. 24, 1978, 92 Stat. 1705; Pub. L. 97–351, § 3, Oct. 18, 1982, 96 Stat. 1666; Pub. L. 103–272, § 5(e)(2), July 5, 1994, 108 Stat. 1373; Pub. L. 103–322, title VI, § 60003(a)(5), title XXXIII, § 330006, Sept. 13, 1994, 108 Stat. 1969, 2142; Pub. L. 104–132, title VII, § 721(c), Apr. 24, 1996, 110 Stat. 1298; Pub. L. 104–294, title VI, § 601(g)(2), Oct. 11, 1996, 110 Stat. 3500.)
+(Added Pub. L. 92–539, title I, § 101, Oct. 24, 1972, 86 Stat. 1071; amended Pub. L. 94–467, § 2, Oct. 8, 1976, 90 Stat. 1997; Pub. L. 95–163, § 17(b)(1), Nov. 9, 1977, 91 Stat. 1286; Pub. L. 95–504, § 2(b), Oct. 24, 1978, 92 Stat. 1705; Pub. L. 97–351, § 3, Oct. 18, 1982, 96 Stat. 1666; Pub. L. 103–272, § 5(e)(2), July 5, 1994, 108 Stat. 1373; Pub. L. 103–322, title VI, § 60003(a)(5), title XXXIII, § 330006, Sept. 13, 1994, 108 Stat. 1969, 2142; Pub. L. 104–132, title VII, § 721(c), Apr. 24, 1996, 110 Stat. 1298; Pub. L. 104–294, title VI, § 601(g)(2), Oct. 11, 1996, 110 Stat. 3500.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–294 struck out “, except that” at end.
+1996—Subsec. (a). Pub. L. 104–294 struck out “, except that” at end.
 
-Subsec. (b)(7). Pub. L. 104–132, § 721(c)(1), added par. (7).
+Subsec. (b)(7). Pub. L. 104–132, § 721(c)(1), added par. (7).
 
-Subsec. (c). Pub. L. 104–132, § 721(c)(2), inserted first sentence and struck out former first sentence which read as follows: “If the victim of an offense under subsection (a) is an internationally protected person, the United States may exercise jurisdiction over the offense if the alleged offender is present within the United States, irrespective of the place where the offense was committed or the nationality of the victim or the alleged offender.”
+Subsec. (c). Pub. L. 104–132, § 721(c)(2), inserted first sentence and struck out former first sentence which read as follows: “If the victim of an offense under subsection (a) is an internationally protected person, the United States may exercise jurisdiction over the offense if the alleged offender is present within the United States, irrespective of the place where the offense was committed or the nationality of the victim or the alleged offender.”
 
-1994—Subsec. (a). Pub. L. 103–322, § 330006, which directed the striking of “, and any such person who is found guilty of attempted murder shall be imprisoned for not more than twenty years” before period at end, was executed by striking text which did not include “, and”, to reflect the probable intent of Congress and the prior amendment by Pub. L. 103–322, § 60003(a)(5). See below.
+1994—Subsec. (a). Pub. L. 103–322, § 330006, which directed the striking of “, and any such person who is found guilty of attempted murder shall be imprisoned for not more than twenty years” before period at end, was executed by striking text which did not include “, and”, to reflect the probable intent of Congress and the prior amendment by Pub. L. 103–322, § 60003(a)(5). See below.
 
-Pub. L. 103–322, § 60003(a)(5), struck out “any such person who is found guilty of murder in the first degree shall be sentenced to imprisonment for life, and” after “title, except that”.
+Pub. L. 103–322, § 60003(a)(5), struck out “any such person who is found guilty of murder in the first degree shall be sentenced to imprisonment for life, and” after “title, except that”.
 
 Subsec. (c). Pub. L. 103–272 substituted “section 46501(2) of title 49” for “section 101(38) of the Federal Aviation Act of 1958, as amended (49 U.S.C. 1301(38))”.
 
@@ -437,11 +437,11 @@ Subsec. (c). Pub. L. 94–467 substituted provision permitting the United States
 
 Subsec. (d). Pub. L. 94–467 added subsec. (d).
 
-## § 1117. Conspiracy to murder
+## § 1117. Conspiracy to murder
 
 If two or more persons conspire to violate section 1111, 1114, 1116, or 1119 of this title, and one or more of such persons do any overt act to effect the object of the conspiracy, each shall be punished by imprisonment for any term of years or for life.
 
-(Added Pub. L. 92–539, title I, § 101, Oct. 24, 1972, 86 Stat. 1071; amended Pub. L. 103–322, title VI, § 60009(b)(1), Sept. 13, 1994, 108 Stat. 1972.)
+(Added Pub. L. 92–539, title I, § 101, Oct. 24, 1972, 86 Stat. 1071; amended Pub. L. 103–322, title VI, § 60009(b)(1), Sept. 13, 1994, 108 Stat. 1972.)
 
 **Editorial Notes**
 
@@ -449,7 +449,7 @@ If two or more persons conspire to violate section 1111, 1114, 1116, or 1119 of 
 
 1994—Pub. L. 103–322 substituted “1116, or 1119” for “or 1116”.
 
-## § 1118. Murder by a Federal prisoner
+## § 1118. Murder by a Federal prisoner
 
 **(a) Offense.—** A person who, while confined in a Federal correctional institution under a sentence for a term of life imprisonment, commits the murder of another shall be punished by death or by life imprisonment.
 
@@ -461,7 +461,7 @@ If two or more persons conspire to violate section 1111, 1114, 1116, or 1119 of 
 
 “term of life imprisonment” means a sentence for the term of natural life, a sentence commuted to natural life, an indeterminate term of a minimum of at least fifteen years and a maximum of life, or an unexecuted sentence of death.
 
-(Added Pub. L. 103–322, title VI, § 60005(a), Sept. 13, 1994, 108 Stat. 1970.)
+(Added Pub. L. 103–322, title VI, § 60005(a), Sept. 13, 1994, 108 Stat. 1970.)
 
 **Editorial Notes**
 
@@ -469,7 +469,7 @@ If two or more persons conspire to violate section 1111, 1114, 1116, or 1119 of 
 
 Another section 1118 was renumbered section 1122 of this title.
 
-## § 1119. Foreign murder of United States nationals
+## § 1119. Foreign murder of United States nationals
 
 **(a) Definition.—** In this section, “national of the United States” has the meaning stated in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
 
@@ -481,15 +481,15 @@ Another section 1118 was renumbered section 1122 of this title.
 
 **(2)** No prosecution shall be approved under this section unless the Attorney General, in consultation with the Secretary of State, determines that the conduct took place in a country in which the person is no longer present, and the country lacks the ability to lawfully secure the person’s return. A determination by the Attorney General under this paragraph is not subject to judicial review.
 
-(Added Pub. L. 103–322, title VI, § 60009(a), Sept. 13, 1994, 108 Stat. 1972.)
+(Added Pub. L. 103–322, title VI, § 60009(a), Sept. 13, 1994, 108 Stat. 1972.)
 
-## § 1120. Murder by escaped prisoners
+## § 1120. Murder by escaped prisoners
 
 **(a) Definition.—** In this section, “Federal correctional institution” and “term of life imprisonment” have the meanings stated in section 1118.
 
 **(b) Offense and Penalty.—** A person, having escaped from a Federal correctional institution where the person was confined under a sentence for a term of life imprisonment, kills another shall be punished as provided in sections 1111 and 1112.
 
-(Added Pub. L. 103–322, title VI, § 60012(a), Sept. 13, 1994, 108 Stat. 1973; amended Pub. L. 104–294, title VI, § 601(c)(2), Oct. 11, 1996, 110 Stat. 3499.)
+(Added Pub. L. 103–322, title VI, § 60012(a), Sept. 13, 1994, 108 Stat. 1973; amended Pub. L. 104–294, title VI, § 601(c)(2), Oct. 11, 1996, 110 Stat. 3499.)
 
 **Editorial Notes**
 
@@ -497,7 +497,7 @@ Another section 1118 was renumbered section 1122 of this title.
 
 1996—Subsecs. (a), (b). Pub. L. 104–294 substituted “Federal correctional institution” for “Federal prison”.
 
-## § 1121. Killing persons aiding Federal investigations or State correctional officers
+## § 1121. Killing persons aiding Federal investigations or State correctional officers
 
 **(a)** Whoever intentionally kills—
 
@@ -527,7 +527,7 @@ shall be sentenced according to the terms of section 1111, including by sentence
 
 **(c)** For the purposes of this section, the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Added Pub. L. 103–322, title VI, § 60015(a), Sept. 13, 1994, 108 Stat. 1974; amended Pub. L. 104–294, title VI, § 607(k), Oct. 11, 1996, 110 Stat. 3512.)
+(Added Pub. L. 103–322, title VI, § 60015(a), Sept. 13, 1994, 108 Stat. 1974; amended Pub. L. 104–294, title VI, § 607(k), Oct. 11, 1996, 110 Stat. 3512.)
 
 **Editorial Notes**
 
@@ -535,7 +535,7 @@ shall be sentenced according to the terms of section 1111, including by sentence
 
 1996—Subsec. (c). Pub. L. 104–294 added subsec. (c).
 
-## § 1122. Protection against the human immunodeficiency virus
+## § 1122. Protection against the human immunodeficiency virus
 
 **(a) In General.—** Whoever, after testing positive for the Human Immunodeficiency Virus (HIV) and receiving actual notice of that fact, knowingly donates or sells, or knowingly attempts to donate or sell, blood, semen, tissues, organs, or other bodily fluids for use by another, except as determined necessary for medical research or testing or in accordance with all applicable guidelines and regulations made by the Secretary of Health and Human Services under section 377E of the Public Health Service Act, shall be fined or imprisoned in accordance with subsection (c).
 
@@ -543,7 +543,7 @@ shall be sentenced according to the terms of section 1111, including by sentence
 
 **(c) Penalty.—** Any person convicted of violating the provisions of subsection (a) shall be subject to a fine under this title of not less than $10,000, imprisoned for not less than 1 year nor more than 10 years, or both.
 
-(Added Pub. L. 103–333, title V, § 514, Sept. 30, 1994, 108 Stat. 2574, § 1118; renumbered § 1122 and amended Pub. L. 104–294, title VI, § 601(a)(5), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 113–51, § 3, Nov. 21, 2013, 127 Stat. 581.)
+(Added Pub. L. 103–333, title V, § 514, Sept. 30, 1994, 108 Stat. 2574, § 1118; renumbered § 1122 and amended Pub. L. 104–294, title VI, § 601(a)(5), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 113–51, § 3, Nov. 21, 2013, 127 Stat. 581.)
 
 **Editorial Notes**
 
@@ -555,6 +555,6 @@ Section 377E of the Public Health Service Act, referred to in subsec. (a), is cl
 
 2013—Subsec. (a). Pub. L. 113–51 inserted “or in accordance with all applicable guidelines and regulations made by the Secretary of Health and Human Services under section 377E of the Public Health Service Act” after “research or testing”.
 
-1996—Pub. L. 104–294, § 601(a)(5)(A), renumbered section 1118, relating to protection against human immunodeficiency virus, as this section.
+1996—Pub. L. 104–294, § 601(a)(5)(A), renumbered section 1118, relating to protection against human immunodeficiency virus, as this section.
 
-Subsec. (c). Pub. L. 104–294, § 601(a)(5)(B), inserted “under this title” after “fine” and struck out “nor more than $20,000” after “$10,000”.
+Subsec. (c). Pub. L. 104–294, § 601(a)(5)(B), inserted “under this title” after “fine” and struck out “nor more than $20,000” after “$10,000”.

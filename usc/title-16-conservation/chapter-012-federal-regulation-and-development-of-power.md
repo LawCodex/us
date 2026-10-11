@@ -19,7 +19,7 @@ retrieved: 2026-10-11
 
 **Findings**
 
-Pub. L. 113–23, § 2, Aug. 9, 2013, 127 Stat. 493, provided that:
+Pub. L. 113–23, § 2, Aug. 9, 2013, 127 Stat. 493, provided that:
 
 > “Congress finds that—
 
@@ -43,17 +43,17 @@ Pub. L. 113–23, § 2, Aug. 9, 2013, 127 Stat. 493, provided that:
 
 **Codification; Construction**
 
-Act Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847, provided that sections 1 to 29 of the Federal Water Power Act, as amended (sections 792, 793, 794 to 797, 798 to 818, 819, and 820 to 823 of this title) shall constitute part I of the act. Said section 212 also repealed sections 25 and 30 of the act (sections 819, 791 of this title). It also contained a proviso as follows: “That nothing in that Act, as amended, shall be construed to repeal or amend the provisions of the amendment to the Federal Water Power Act approved March 3, 1921 (41 Stat. 1353 [section 797a of this title]), or the provisions of any other Act relating to national parks and national monuments.”
+Act Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847, provided that sections 1 to 29 of the Federal Water Power Act, as amended (sections 792, 793, 794 to 797, 798 to 818, 819, and 820 to 823 of this title) shall constitute part I of the act. Said section 212 also repealed sections 25 and 30 of the act (sections 819, 791 of this title). It also contained a proviso as follows: “That nothing in that Act, as amended, shall be construed to repeal or amend the provisions of the amendment to the Federal Water Power Act approved March 3, 1921 (41 Stat. 1353 [section 797a of this title]), or the provisions of any other Act relating to national parks and national monuments.”
 
-### § 791. Repealed. Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847
+### § 791. Repealed. Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847
 
-Section, act June 10, 1920, ch. 285, § 30, 41 Stat. 1077, designated the act as The Federal Water Power Act.
+Section, act June 10, 1920, ch. 285, § 30, 41 Stat. 1077, designated the act as The Federal Water Power Act.
 
-### § 791a. Short title
+### § 791a. Short title
 
 This chapter may be cited as the “Federal Power Act”.
 
-(June 10, 1920, ch. 285, pt. III, § 321, formerly § 320, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 863; renumbered Pub. L. 95–617, title II, § 212, Nov. 9, 1978, 92 Stat. 3148.)
+(June 10, 1920, ch. 285, pt. III, § 321, formerly § 320, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 863; renumbered Pub. L. 95–617, title II, § 212, Nov. 9, 1978, 92 Stat. 3148.)
 
 **Editorial Notes**
 
@@ -65,21 +65,21 @@ Section was enacted as part of part III of the Federal Power Act, and not as par
 
 **Short Title of 2013 Amendment**
 
-Pub. L. 113–23, § 1(a), Aug. 9, 2013, 127 Stat. 493, provided that: “This Act [amending sections 798, 823a, and 2705 of this title and enacting provisions set out as notes preceding section 791 and under section 797 of this title] may be cited as the ‘Hydropower Regulatory Efficiency Act of 2013’.”
+Pub. L. 113–23, § 1(a), Aug. 9, 2013, 127 Stat. 493, provided that: “This Act [amending sections 798, 823a, and 2705 of this title and enacting provisions set out as notes preceding section 791 and under section 797 of this title] may be cited as the ‘Hydropower Regulatory Efficiency Act of 2013’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–575, § 1, Nov. 15, 1990, 104 Stat. 2834, provided that: “This Act [enacting section 2243 of Title 42, The Public Health and Welfare, amending sections 796 and 824a–3 of this title and sections 2014, 2061, 2201, and 2284 of Title 42, and enacting provisions set out as a note under section 796 of this title] may be cited as the ‘Solar, Wind, Waste, and Geothermal Power Production Incentives Act of 1990’.”
+Pub. L. 101–575, § 1, Nov. 15, 1990, 104 Stat. 2834, provided that: “This Act [enacting section 2243 of Title 42, The Public Health and Welfare, amending sections 796 and 824a–3 of this title and sections 2014, 2061, 2201, and 2284 of Title 42, and enacting provisions set out as a note under section 796 of this title] may be cited as the ‘Solar, Wind, Waste, and Geothermal Power Production Incentives Act of 1990’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–473, § 1, Oct. 6, 1988, 102 Stat. 2299, provided that: “This Act [amending section 824e of this title and enacting provisions set out as notes under section 824e of this title] may be cited as the ‘Regulatory Fairness Act’.”
+Pub. L. 100–473, § 1, Oct. 6, 1988, 102 Stat. 2299, provided that: “This Act [amending section 824e of this title and enacting provisions set out as notes under section 824e of this title] may be cited as the ‘Regulatory Fairness Act’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–495, § 1(a), Oct. 16, 1986, 100 Stat. 1243, provided that: “This Act [enacting sections 797b and 823b of this title, amending sections 797, 800, 802, 803, 807, 808, 817, 823a, 824a–3, and 824j of this title, and enacting provisions set out as notes under sections 797, 803, 823a, 824a–3, and 825h of this title] may be cited as the ‘Electric Consumers Protection Act of 1986’.”
+Pub. L. 99–495, § 1(a), Oct. 16, 1986, 100 Stat. 1243, provided that: “This Act [enacting sections 797b and 823b of this title, amending sections 797, 800, 802, 803, 807, 808, 817, 823a, 824a–3, and 824j of this title, and enacting provisions set out as notes under sections 797, 803, 823a, 824a–3, and 825h of this title] may be cited as the ‘Electric Consumers Protection Act of 1986’.”
 
-### § 792. Federal Power Commission; creation; number; appointment; term; qualifications; vacancies; quorum; chairman; salary; place of holding sessions
+### § 792. Federal Power Commission; creation; number; appointment; term; qualifications; vacancies; quorum; chairman; salary; place of holding sessions
 
 A commission is created and established to be known as the Federal Power Commission (hereinafter referred to as the “commission”) which shall be composed of five commissioners who shall be appointed by the President, by and with the advice and consent of the Senate, one of whom shall be designated by the President as chairman and shall be the principal executive officer of the commission. Each chairman, when so designated, shall act as such until the expiration of his term of office.
 
@@ -89,7 +89,7 @@ Each commissioner shall receive necessary traveling and subsistence expenses, or
 
 The principal office of the commission shall be in the District of Columbia, where its general sessions shall be held; but whenever the convenience of the public or of the parties may be promoted or delay or expense prevented thereby, the commission may hold special sessions in any part of the United States.
 
-(June 10, 1920, ch. 285, pt. I, § 1, 41 Stat. 1063; June 23, 1930, ch. 572, § 1, 46 Stat. 797; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847; 1950 Reorg. Plan No. 9, § 3, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265; Pub. L. 86–619, § 1, July 12, 1960, 74 Stat. 407.)
+(June 10, 1920, ch. 285, pt. I, § 1, 41 Stat. 1063; June 23, 1930, ch. 572, § 1, 46 Stat. 797; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847; 1950 Reorg. Plan No. 9, § 3, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265; Pub. L. 86–619, § 1, July 12, 1960, 74 Stat. 407.)
 
 **Editorial Notes**
 
@@ -107,7 +107,7 @@ Provisions which prescribed the compensation of commissioners were omitted as ob
 
 **Repeals**
 
-Act Oct. 15, 1949, ch. 695, § 5(a), 63 Stat. 880, formerly cited as a credit to this section, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 655.
+Act Oct. 15, 1949, ch. 695, § 5(a), 63 Stat. 880, formerly cited as a credit to this section, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 655.
 
 **Termination of Federal Power Commission; Transfer of Functions**
 
@@ -146,25 +146,25 @@ The Chairman may from time to time make such provisions as he shall deem appropr
 
 The functions of the Commission with respect to choosing a chairman from among the commissioners composing the Commission are hereby transferred to the President.
 
-### § 793. Appointment of officers and employees of Commission; duties, and salaries; detail of officers and employees from other departments; expenditures authorized
+### § 793. Appointment of officers and employees of Commission; duties, and salaries; detail of officers and employees from other departments; expenditures authorized
 
 The commission shall have authority to appoint, prescribe the duties, and fix the salaries of, a secretary, a chief engineer, a general counsel, a solicitor, and a chief accountant; and may, subject to the civil service laws, appoint such other officers and employees as are necessary in the execution of its functions and fix their salaries in accordance with chapter 51 and subchapter III of chapter 53 of title 5. The commission may request the President to detail an officer or officers from the Corps of Engineers, or other branches of the United States Army, to serve the commission as engineer officer or officers, or in any other capacity, in field work outside the seat of government, their duties to be prescribed by the commission; and such detail is authorized. The President may also, at the request of the commission, detail, assign, or transfer to the commission, engineers in or under the Departments of the Interior or Agriculture for field work outside the seat of government under the direction of the commission.
 
 The commission may make such expenditures (including expenditures for rent and personal services at the seat of government and elsewhere, for law books, periodicals, and books of reference, and for printing and binding) as are necessary to execute its functions. Expenditures by the commission shall be allowed and paid upon the presentation of itemized vouchers therefor, approved by the chairman of the commission or by such other member or officer as may be authorized by the commission for that purpose subject to applicable regulations under chapters 1 to 11 of title 40 and division C (except sections 3302, 3306(f), 3307(e), 3501(b), 3509, 3906, 4104, 4710, and 4711) of subtitle I of title 41.
 
-(June 10, 1920, ch. 285, pt. I, § 2, 41 Stat. 1063; June 23, 1930, ch. 572, § 1, 46 Stat. 798; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972; Oct. 31, 1951, ch. 654, § 2(14), 65 Stat. 707.)
+(June 10, 1920, ch. 285, pt. I, § 2, 41 Stat. 1063; June 23, 1930, ch. 572, § 1, 46 Stat. 798; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972; Oct. 31, 1951, ch. 654, § 2(14), 65 Stat. 707.)
 
 **Editorial Notes**
 
 **Codification**
 
-All appointments referred to in the first sentence are subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order 8743, Apr. 23, 1941, issued by the President pursuant to the Act of Nov. 26, 1940, ch. 919, title I, § 1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5, Government Organization and Employees.
+All appointments referred to in the first sentence are subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order 8743, Apr. 23, 1941, issued by the President pursuant to the Act of Nov. 26, 1940, ch. 919, title I, § 1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5, Government Organization and Employees.
 
-As to the compensation of such personnel, sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the Classification Act of 1923 and all other laws or parts of laws inconsistent with the 1949 Act. The Classification Act of 1949 was repealed Pub. L. 89–554, Sept. 6, 1966, § 8(a), 80 Stat. 632, and reenacted as chapter 51 and subchapter III of chapter 53 of Title 5. Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
+As to the compensation of such personnel, sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the Classification Act of 1923 and all other laws or parts of laws inconsistent with the 1949 Act. The Classification Act of 1949 was repealed Pub. L. 89–554, Sept. 6, 1966, § 8(a), 80 Stat. 632, and reenacted as chapter 51 and subchapter III of chapter 53 of Title 5. Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
 
-In text, “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In text, “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3306(f), 3307(e), 3501(b), 3509, 3906, 4104, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3306(f), 3307(e), 3501(b), 3509, 3906, 4104, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
@@ -178,23 +178,23 @@ In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3
 
 **Repeals**
 
-Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
+Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
-### § 793a. Repealed. Pub. L. 87–367, title I, § 103(5), Oct. 4, 1961, 75 Stat. 787
+### § 793a. Repealed. Pub. L. 87–367, title I, § 103(5), Oct. 4, 1961, 75 Stat. 787
 
-Section, Pub. L. 86–626, title I, § 101, July 12, 1960, 74 Stat. 430, authorized the Federal Power Commission to place four additional positions in grade 18, one in grade 17 and one in grade 16 of the General Schedule of the Classification Act of 1949.
+Section, Pub. L. 86–626, title I, § 101, July 12, 1960, 74 Stat. 430, authorized the Federal Power Commission to place four additional positions in grade 18, one in grade 17 and one in grade 16 of the General Schedule of the Classification Act of 1949.
 
-### §§ 794, 795. Omitted
+### §§ 794, 795. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section 794, which required the work of the commission to be performed by and through the Departments of War, Interior, and Agriculture and their personnel, consisted of the second paragraph of section 2 of act June 10, 1920, ch. 285, 41 Stat. 1063, which was omitted in the revision of said section 2 by act June 23, 1930, ch. 572, § 1, 46 Stat. 798. The first and third paragraphs of said section 2 were formerly classified to sections 793 and 795 of this title.
+Section 794, which required the work of the commission to be performed by and through the Departments of War, Interior, and Agriculture and their personnel, consisted of the second paragraph of section 2 of act June 10, 1920, ch. 285, 41 Stat. 1063, which was omitted in the revision of said section 2 by act June 23, 1930, ch. 572, § 1, 46 Stat. 798. The first and third paragraphs of said section 2 were formerly classified to sections 793 and 795 of this title.
 
-Section 795, which related to expenses of the commission generally, consisted of the third paragraph of section 2 of act June 10, 1920, ch. 285, 41 Stat. 1063. Such section 2 was amended generally by act June 23, 1930, ch. 572, § 1, 46 Stat. 798, and is classified to section 793 of this title. The first and second paragraphs of said section 2 were formerly classified to sections 793 and 794 of this title.
+Section 795, which related to expenses of the commission generally, consisted of the third paragraph of section 2 of act June 10, 1920, ch. 285, 41 Stat. 1063. Such section 2 was amended generally by act June 23, 1930, ch. 572, § 1, 46 Stat. 798, and is classified to section 793 of this title. The first and second paragraphs of said section 2 were formerly classified to sections 793 and 794 of this title.
 
-### § 796. Definitions
+### § 796. Definitions
 
 The words defined in this section shall have the following meanings for purposes of this chapter, to wit:
 
@@ -262,7 +262,7 @@ The words defined in this section shall have the following meanings for purposes
 
 **(ii)** construction of such facility commences not later than December 31, 1999, or, if not, reasonable diligence is exercised toward the completion of such facility taking into account all factors relevant to construction of the facility.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(18)**
 
@@ -296,9 +296,9 @@ The words defined in this section shall have the following meanings for purposes
 
 **(24) Wholesale transmission services.—** The term “wholesale transmission services” means the transmission of electric energy sold, or to be sold, at wholesale in interstate commerce.<sup>1</sup>
 
-**(25) Exempt wholesale generator.—** The term “exempt wholesale generator” shall have the meaning provided by section 79z–5a 2
+**(25) Exempt wholesale generator.—** The term “exempt wholesale generator” shall have the meaning provided by section 79z–5a 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of title 15.<sup>1</sup>
 
@@ -316,61 +316,61 @@ of title 15.<sup>1</sup>
 
 **(B)** to ensure nondiscriminatory access to the facilities.3
 
-<sup>3</sup>  So in original. The period probably should be “; and”.
+<sup>3</sup> So in original. The period probably should be “; and”.
 
 **(29) Transmission organization.—** The term “Transmission Organization” means a Regional Transmission Organization, Independent System Operator, independent transmission provider, or other transmission organization finally approved by the Commission for the operation of transmission facilities.
 
-(June 10, 1920, ch. 285, pt. I, § 3, 41 Stat. 1063; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§ 201, 212, 49 Stat. 838, 847; Pub. L. 95–617, title II, § 201, Nov. 9, 1978, 92 Stat. 3134; Pub. L. 96–294, title VI, § 643(a)(1), June 30, 1980, 94 Stat. 770; Pub. L. 101–575, § 3, Nov. 15, 1990, 104 Stat. 2834; Pub. L. 102–46, May 17, 1991, 105 Stat. 249; Pub. L. 102–486, title VII, § 726, Oct. 24, 1992, 106 Stat. 2921; Pub. L. 109–58, title XII, §§ 1253(b), 1291(b), Aug. 8, 2005, 119 Stat. 970, 984.)
+(June 10, 1920, ch. 285, pt. I, § 3, 41 Stat. 1063; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§ 201, 212, 49 Stat. 838, 847; Pub. L. 95–617, title II, § 201, Nov. 9, 1978, 92 Stat. 3134; Pub. L. 96–294, title VI, § 643(a)(1), June 30, 1980, 94 Stat. 770; Pub. L. 101–575, § 3, Nov. 15, 1990, 104 Stat. 2834; Pub. L. 102–46, May 17, 1991, 105 Stat. 249; Pub. L. 102–486, title VII, § 726, Oct. 24, 1992, 106 Stat. 2921; Pub. L. 109–58, title XII, §§ 1253(b), 1291(b), Aug. 8, 2005, 119 Stat. 970, 984.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 79z–5a of title 15, referred to in par. (25), was repealed by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974.
+Section 79z–5a of title 15, referred to in par. (25), was repealed by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974.
 
 **Amendments**
 
-2005—Par. (17)(C). Pub. L. 109–58, § 1253(b)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “ ‘qualifying small power production facility’ means a small power production facility—
+2005—Par. (17)(C). Pub. L. 109–58, § 1253(b)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “ ‘qualifying small power production facility’ means a small power production facility—
 
 “(i) which the Commission determines, by rule, meets such requirements (including requirements respecting fuel use, fuel efficiency, and reliability) as the Commission may, by rule, prescribe; and
 
 “(ii) which is owned by a person not primarily engaged in the generation or sale of electric power (other than electric power solely from cogeneration facilities or small power production facilities);”.
 
-Par. (18)(B). Pub. L. 109–58, § 1253(b)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “ ‘qualifying cogeneration facility’ means a cogeneration facility which—
+Par. (18)(B). Pub. L. 109–58, § 1253(b)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “ ‘qualifying cogeneration facility’ means a cogeneration facility which—
 
 “(i) the Commission determines, by rule, meets such requirements (including requirements respecting minimum size, fuel use, and fuel efficiency) as the Commission may, by rule, prescribe; and
 
 “(ii) is owned by a person not primarily engaged in the generation or sale of electric power (other than electric power solely from cogeneration facilities or small power production facilities);”.
 
-Pars. (22), (23). Pub. L. 109–58, § 1291(b)(1), added pars. (22) and (23) and struck out former pars. (22) and (23) which read as follows:
+Pars. (22), (23). Pub. L. 109–58, § 1291(b)(1), added pars. (22) and (23) and struck out former pars. (22) and (23) which read as follows:
 
 “(22) ‘electric utility’ means any person or State agency (including any municipality) which sells electric energy; such term includes the Tennessee Valley Authority, but does not include any Federal power marketing agency.
 
 “(23) Transmitting utility.—The term ‘transmitting utility’ means any electric utility, qualifying cogeneration facility, qualifying small power production facility, or Federal power marketing agency which owns or operates electric power transmission facilities which are used for the sale of electric energy at wholesale.”
 
-Pars. (26) to (29). Pub. L. 109–58, § 1291(b)(2), added pars. (26) to (29).
+Pars. (26) to (29). Pub. L. 109–58, § 1291(b)(2), added pars. (26) to (29).
 
-1992—Par. (22). Pub. L. 102–486, § 726(b), inserted “(including any municipality)” after “State agency”.
+1992—Par. (22). Pub. L. 102–486, § 726(b), inserted “(including any municipality)” after “State agency”.
 
-Pars. (23) to (25). Pub. L. 102–486, § 726(a), added pars. (23) to (25).
+Pars. (23) to (25). Pub. L. 102–486, § 726(a), added pars. (23) to (25).
 
-1991—Par. (17)(E). Pub. L. 102–46 struck out “, and which would otherwise not qualify as a small power production facility because of the power production capacity limitation contained in subparagraph (A)(ii)” after “geothermal resources” in introductory provisions.
+1991—Par. (17)(E). Pub. L. 102–46 struck out “, and which would otherwise not qualify as a small power production facility because of the power production capacity limitation contained in subparagraph (A)(ii)” after “geothermal resources” in introductory provisions.
 
-1990—Par. (17)(A). Pub. L. 101–575, § 3(a), inserted “a facility which is an eligible solar, wind, waste, or geothermal facility, or”.
+1990—Par. (17)(A). Pub. L. 101–575, § 3(a), inserted “a facility which is an eligible solar, wind, waste, or geothermal facility, or”.
 
-Par. (17)(E). Pub. L. 101–575, § 3(b), added subpar. (E).
+Par. (17)(E). Pub. L. 101–575, § 3(b), added subpar. (E).
 
 1980—Par. (17)(A)(i). Pub. L. 96–294 added applicability to geothermal resources.
 
 1978—Pars. (17) to (22). Pub. L. 95–617 added pars. (17) to (22).
 
-1935—Act Aug. 26, 1935, § 201, amended definitions of “reservations” and “corporations”, and inserted definitions of “person”, “licensee”, “commission”, “commissioner”, “State commission” and “security”.
+1935—Act Aug. 26, 1935, § 201, amended definitions of “reservations” and “corporations”, and inserted definitions of “person”, “licensee”, “commission”, “commissioner”, “State commission” and “security”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **FERC Regulations**
 
-Pub. L. 101–575, § 4, Nov. 15, 1990, 104 Stat. 2834, provided that:
+Pub. L. 101–575, § 4, Nov. 15, 1990, 104 Stat. 2834, provided that:
 
 > “Unless the Federal Energy Regulatory Commission otherwise specifies, by rule after enactment of this Act [Nov. 15, 1990], any eligible solar, wind, waste, or geothermal facility (as defined in section 3(17)(E) of the Federal Power Act as amended by this Act [16 U.S.C. 796(17)(E)]), which is a qualifying small power production facility (as defined in subparagraph (C) of section 3(17) of the Federal Power Act as amended by this Act)—
 
@@ -380,7 +380,7 @@ Pub. L. 101–575, § 4, Nov. 15, 1990, 104 Stat. 2834, provided that:
 
 **State Authorities; Construction**
 
-Pub. L. 102–486, title VII, § 731, Oct. 24, 1992, 106 Stat. 2921, provided that: “Nothing in this title [enacting sections 824*l*, 824m, and 825*o*–1 of this title and former sections 79z–5a and 79z–5b of Title 15, Commerce and Trade, and amending this section, sections 824, 824j, 824k, 825n, 825*o*, and 2621 of this title, and provisions formerly set out as a note under former section 79k of Title 15] or in any amendment made by this title shall be construed as affecting or intending to affect, or in any way to interfere with, the authority of any State or local government relating to environmental protection or the siting of facilities.”
+Pub. L. 102–486, title VII, § 731, Oct. 24, 1992, 106 Stat. 2921, provided that: “Nothing in this title [enacting sections 824*l*, 824m, and 825*o*–1 of this title and former sections 79z–5a and 79z–5b of Title 15, Commerce and Trade, and amending this section, sections 824, 824j, 824k, 825n, 825*o*, and 2621 of this title, and provisions formerly set out as a note under former section 79k of Title 15] or in any amendment made by this title shall be construed as affecting or intending to affect, or in any way to interfere with, the authority of any State or local government relating to environmental protection or the siting of facilities.”
 
 **Termination of Federal Power Commission; Transfer of Functions**
 
@@ -390,7 +390,7 @@ The Federal Power Commission was terminated, and its functions, personnel, prope
 
 Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
 
-### § 797. General powers of Commission
+### § 797. General powers of Commission
 
 The Commission is authorized and empowered—
 
@@ -412,13 +412,13 @@ To make public from time to time the information secured hereunder, and to provi
 
 **(e) Issue of licenses for construction, etc., of dams, conduits, reservoirs, etc.**
 
-To issue licenses to citizens of the United States, or to any association of such citizens, or to any corporation organized under the laws of the United States or any State thereof, or to any State or municipality for the purpose of constructing, operating, and maintaining dams, water conduits, reservoirs, power houses, transmission lines, or other project works necessary or convenient for the development and improvement of navigation and for the development, transmission, and utilization of power across, along, from, or in any of the streams or other bodies of water over which Congress has jurisdiction under its authority to regulate commerce with foreign nations and among the several States, or upon any part of the public lands and reservations of the United States (including the Territories), or for the purpose of utilizing the surplus water or water power from any Government dam, except as herein provided: *Provided*, That licenses shall be issued within any reservation only after a finding by the Commission that the license will not interfere or be inconsistent with the purpose for which such reservation was created or acquired, and shall be subject to and contain such conditions as the Secretary of the department under whose supervision such reservation falls shall deem necessary for the adequate protection and utilization of such reservation: 1
+To issue licenses to citizens of the United States, or to any association of such citizens, or to any corporation organized under the laws of the United States or any State thereof, or to any State or municipality for the purpose of constructing, operating, and maintaining dams, water conduits, reservoirs, power houses, transmission lines, or other project works necessary or convenient for the development and improvement of navigation and for the development, transmission, and utilization of power across, along, from, or in any of the streams or other bodies of water over which Congress has jurisdiction under its authority to regulate commerce with foreign nations and among the several States, or upon any part of the public lands and reservations of the United States (including the Territories), or for the purpose of utilizing the surplus water or water power from any Government dam, except as herein provided: *Provided*, That licenses shall be issued within any reservation only after a finding by the Commission that the license will not interfere or be inconsistent with the purpose for which such reservation was created or acquired, and shall be subject to and contain such conditions as the Secretary of the department under whose supervision such reservation falls shall deem necessary for the adequate protection and utilization of such reservation: 1
 
-<sup>1</sup>  So in original. The colon probably should be a period.
+<sup>1</sup> So in original. The colon probably should be a period.
 
 The license applicant and any party to the proceeding shall be entitled to a determination on the record, after opportunity for an agency trial-type hearing of no more than 90 days, on any disputed issues of material fact with respect to such conditions. All disputed issues of material fact raised by any party shall be determined in a single trial-type hearing to be conducted by the relevant resource agency in accordance with the regulations promulgated under this subsection and within the time frame established by the Commission for each license proceeding. Within 90 days of August 8, 2005, the Secretaries of the Interior, Commerce, and Agriculture shall establish jointly, by rule, the procedures for such expedited trial-type hearing, including the opportunity to undertake discovery and cross-examine witnesses, in consultation with the Federal Energy Regulatory Commission.2
 
-<sup>2</sup>  So in original. The period probably should be a colon.
+<sup>2</sup> So in original. The period probably should be a colon.
 
 *Provided further*, That no license affecting the navigable capacity of any navigable waters of the United States shall be issued until the plans of the dam or other structures affecting the navigation have been approved by the Chief of Engineers and the Secretary of the Army. Whenever the contemplated improvement is, in the judgment of the Commission, desirable and justified in the public interest for the purpose of improving or developing a waterway or waterways for the use or benefit of interstate or foreign commerce, a finding to that effect shall be made by the Commission and shall become a part of the records of the Commission: *Provided further*, That in case the Commission shall find that any Government dam may be advantageously used by the United States for public purposes in addition to navigation, no license therefor shall be issued until two years after it shall have reported to Congress the facts and conditions relating thereto, except that this provision shall not apply to any Government dam constructed prior to June 10, 1920: *And provided further*, That upon the filing of any application for a license which has not been preceded by a preliminary permit under subsection (f) of this section, notice shall be given and published as required by the proviso of said subsection. In deciding whether to issue any license under this subchapter for any project, the Commission, in addition to the power and development purposes for which licenses are issued, shall give equal consideration to the purposes of energy conservation, the protection, mitigation of damage to, and enhancement of, fish and wildlife (including related spawning grounds and habitat), the protection of recreational opportunities, and the preservation of other aspects of environmental quality.
 
@@ -430,7 +430,7 @@ To issue preliminary permits for the purpose of enabling applicants for a licens
 
 Upon its own motion to order an investigation of any occupancy of, or evidenced intention to occupy, for the purpose of developing electric power, public lands, reservations, or streams or other bodies of water over which Congress has jurisdiction under its authority to regulate commerce with foreign nations and among the several States by any person, corporation, State, or municipality and to issue such order as it may find appropriate, expedient, and in the public interest to conserve and utilize the navigation and water-power resources of the region.
 
-(June 10, 1920, ch. 285, pt. I, § 4, 41 Stat. 1065; June 23, 1930, ch. 572, § 2, 46 Stat. 798; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§ 202, 212, 49 Stat. 839, 847; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 97–375, title II, § 212, Dec. 21, 1982, 96 Stat. 1826; Pub. L. 99–495, § 3(a), Oct. 16, 1986, 100 Stat. 1243; Pub. L. 109–58, title II, § 241(a), Aug. 8, 2005, 119 Stat. 674.)
+(June 10, 1920, ch. 285, pt. I, § 4, 41 Stat. 1065; June 23, 1930, ch. 572, § 2, 46 Stat. 798; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§ 202, 212, 49 Stat. 839, 847; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 97–375, title II, § 212, Dec. 21, 1982, 96 Stat. 1826; Pub. L. 99–495, § 3(a), Oct. 16, 1986, 100 Stat. 1243; Pub. L. 109–58, title II, § 241(a), Aug. 8, 2005, 119 Stat. 674.)
 
 **Editorial Notes**
 
@@ -442,19 +442,19 @@ Upon its own motion to order an investigation of any occupancy of, or evidenced 
 
 1982—Subsec. (d). Pub. L. 97–375 struck out provision that the report contain the names and show the compensation of the persons employed by the Commission.
 
-1935—Subsec. (a). Act Aug. 26, 1935, § 202, struck out last paragraph of subsec. (a) which related to statements of cost of construction, etc., and free access to projects, maps, etc., and is now covered by subsec. (b).
+1935—Subsec. (a). Act Aug. 26, 1935, § 202, struck out last paragraph of subsec. (a) which related to statements of cost of construction, etc., and free access to projects, maps, etc., and is now covered by subsec. (b).
 
-Subsecs. (b), (c). Act Aug. 26, 1935, § 202, added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+Subsecs. (b), (c). Act Aug. 26, 1935, § 202, added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-Subsec. (d). Act Aug. 26, 1935, § 202, redesignated subsec. (c) as (d) and substituted “3d day of January” for “first Monday in December” in second sentence. Former subsec. (d) redesignated (e).
+Subsec. (d). Act Aug. 26, 1935, § 202, redesignated subsec. (c) as (d) and substituted “3d day of January” for “first Monday in December” in second sentence. Former subsec. (d) redesignated (e).
 
-Subsec. (e). Act Aug. 26, 1935, § 202, redesignated subsec. (d) as (e) and substituted “streams or other bodies of water over which Congress has jurisdiction under its authority to regulate commerce with foreign nations and among the several States” for “navigable waters of the United States” and “subsection (f)” for “subsection (e)”. Former subsec. (e) redesignated (f).
+Subsec. (e). Act Aug. 26, 1935, § 202, redesignated subsec. (d) as (e) and substituted “streams or other bodies of water over which Congress has jurisdiction under its authority to regulate commerce with foreign nations and among the several States” for “navigable waters of the United States” and “subsection (f)” for “subsection (e)”. Former subsec. (e) redesignated (f).
 
-Subsec. (f). Act Aug. 26, 1935, § 202, redesignated subsec. (e) as (f) and substituted “once each week for four weeks” for “for eight weeks”. Former section (f), which related to the power of the Commission to prescribe regulations for the establishment of a system of accounts and the maintenance thereof, was struck out by act Aug. 26, 1935.
+Subsec. (f). Act Aug. 26, 1935, § 202, redesignated subsec. (e) as (f) and substituted “once each week for four weeks” for “for eight weeks”. Former section (f), which related to the power of the Commission to prescribe regulations for the establishment of a system of accounts and the maintenance thereof, was struck out by act Aug. 26, 1935.
 
-Subsec. (g). Act Aug. 26, 1935, § 202, added subsec. (g). Former subsec. (g), which related to the power of the Commission to hold hearings and take testimony by deposition, was struck out.
+Subsec. (g). Act Aug. 26, 1935, § 202, added subsec. (g). Former subsec. (g), which related to the power of the Commission to hold hearings and take testimony by deposition, was struck out.
 
-Subsec. (h). Act Aug. 26, 1935, § 202, struck out subsec. (h) which related to the power of the Commission to perform any and all acts necessary and proper for the purpose of carrying out the provisions of this chapter.
+Subsec. (h). Act Aug. 26, 1935, § 202, struck out subsec. (h) which related to the power of the Commission to perform any and all acts necessary and proper for the purpose of carrying out the provisions of this chapter.
 
 1930—Subsec. (d). Act June 23, 1930, inserted sentence respecting contents of report.
 
@@ -466,11 +466,11 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–495, § 18, Oct. 16, 1986, 100 Stat. 1259, provided that: “Except as otherwise provided in this Act, the amendments made by this Act [enacting section 823b of this title and amending this section and sections 800, 802, 803, 807, 808, 817, 823a, 824a–3, and 824j of this title] shall take effect with respect to each license, permit, or exemption issued under the Federal Power Act after the enactment of this Act [Oct. 16, 1986]. The amendments made by sections 6 and 12 of this Act [enacting section 823b of this title and amending section 817 of this title] shall apply to licenses, permits, and exemptions without regard to when issued.”
+Pub. L. 99–495, § 18, Oct. 16, 1986, 100 Stat. 1259, provided that: “Except as otherwise provided in this Act, the amendments made by this Act [enacting section 823b of this title and amending this section and sections 800, 802, 803, 807, 808, 817, 823a, 824a–3, and 824j of this title] shall take effect with respect to each license, permit, or exemption issued under the Federal Power Act after the enactment of this Act [Oct. 16, 1986]. The amendments made by sections 6 and 12 of this Act [enacting section 823b of this title and amending section 817 of this title] shall apply to licenses, permits, and exemptions without regard to when issued.”
 
 **Savings Provision**
 
-Pub. L. 99–495, § 17(a), Oct. 16, 1986, 100 Stat. 1259, provided that:
+Pub. L. 99–495, § 17(a), Oct. 16, 1986, 100 Stat. 1259, provided that:
 
 > “Nothing in this Act [see Short Title of 1986 Amendment note set out under section 791a of this title] shall be construed as authorizing the appropriation of water by any Federal, State, or local agency, Indian tribe, or any other entity or individual. Nor shall any provision of this Act—
 
@@ -494,7 +494,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (d) of this se
 
 **Promoting Hydropower Development at Nonpowered Dams and Closed Loop Pumped Storage Projects**
 
-Pub. L. 113–23, § 6, Aug. 9, 2013, 127 Stat. 495, provided that:
+Pub. L. 113–23, § 6, Aug. 9, 2013, 127 Stat. 495, provided that:
 
 > **“(a) In General.—** To improve the regulatory process and reduce delays and costs for hydropower development at nonpowered dams and closed loop pumped storage projects, the Federal Energy Regulatory Commission (referred to in this section as the ‘Commission’) shall investigate the feasibility of the issuance of a license for hydropower development at nonpowered dams and closed loop pumped storage projects in a 2-year period (referred to in this section as a ‘2-year process’). Such a 2-year process shall include any prefiling licensing process of the Commission.
 
@@ -534,11 +534,11 @@ Pub. L. 113–23, § 6, Aug. 9, 2013, 127 Stat. 495, provided that:
 
 **Improvement at Existing Federal Facilities**
 
-Pub. L. 102–486, title XXIV, § 2404, Oct. 24, 1992, 106 Stat. 3097, as amended by Pub. L. 103–437, § 6(d)(37), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 104–66, title I, § 1052(h), Dec. 21, 1995, 109 Stat. 718, directed Secretary of the Interior and Secretary of the Army, in consultation with Secretary of Energy, to perform reconnaissance level studies, for each of the Nation’s principal river basins, of cost effective opportunities to increase hydropower production at existing federally-owned or operated water regulation, storage, and conveyance facilities, with such studies to be completed within 2 years after Oct. 24, 1992, and transmitted to Congress, further provided that in cases where such studies had been prepared by any agency of the United States and published within ten years prior to Oct. 24, 1992, Secretary of the Interior, or Secretary of the Army, could choose to rely on information developed by prior studies rather than conduct new studies, and further provided for appropriations for fiscal years 1993 to 1995.
+Pub. L. 102–486, title XXIV, § 2404, Oct. 24, 1992, 106 Stat. 3097, as amended by Pub. L. 103–437, § 6(d)(37), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 104–66, title I, § 1052(h), Dec. 21, 1995, 109 Stat. 718, directed Secretary of the Interior and Secretary of the Army, in consultation with Secretary of Energy, to perform reconnaissance level studies, for each of the Nation’s principal river basins, of cost effective opportunities to increase hydropower production at existing federally-owned or operated water regulation, storage, and conveyance facilities, with such studies to be completed within 2 years after Oct. 24, 1992, and transmitted to Congress, further provided that in cases where such studies had been prepared by any agency of the United States and published within ten years prior to Oct. 24, 1992, Secretary of the Interior, or Secretary of the Army, could choose to rely on information developed by prior studies rather than conduct new studies, and further provided for appropriations for fiscal years 1993 to 1995.
 
 **Water Conservation and Energy Production**
 
-Pub. L. 102–486, title XXIV, § 2405, Oct. 24, 1992, 106 Stat. 3098, provided that:
+Pub. L. 102–486, title XXIV, § 2405, Oct. 24, 1992, 106 Stat. 3098, provided that:
 
 > **“(a) Studies.—** The Secretary of the Interior, acting pursuant to the Federal reclamation laws (Act of June 17, 1902, 32 Stat. 388) [see Short Title note under section 371 of Title 43, Public Lands], and Acts supplementary thereto and amendatory thereof, is authorized and directed to conduct feasibility investigations of opportunities to increase the amount of hydroelectric energy available for marketing by the Secretary from Federal hydroelectric power generation facilities resulting from a reduction in the consumptive use of such power for Federal reclamation project purposes or as a result of an increase in the amount of water available for such generation because of water conservation efforts on Federal reclamation projects or a combination thereof. The Secretary of the Interior is further authorized and directed to conduct feasibility investigations of opportunities to mitigate damages to or enhance fish and wildlife as a result of increasing the amount of water available for such purposes because of water conservation efforts on Federal reclamation projects. Such feasibility investigations shall include, but not be limited to—
 
@@ -560,9 +560,9 @@ Pub. L. 102–486, title XXIV, § 2405, Oct. 24, 1992, 106 Stat. 3098, provide
 
 **Projects on Fresh Waters in State of Hawaii**
 
-Pub. L. 102–486, title XXIV, § 2408, Oct. 24, 1992, 106 Stat. 3100, directed Federal Energy Regulatory Commission, in consultation with State of Hawaii, to carry out study of hydroelectric licensing in State of Hawaii for purposes of considering whether such licensing should be transferred to State, and directed Commission to complete study and submit report containing results of study to Congress within 18 months after Oct. 24, 1992.
+Pub. L. 102–486, title XXIV, § 2408, Oct. 24, 1992, 106 Stat. 3100, directed Federal Energy Regulatory Commission, in consultation with State of Hawaii, to carry out study of hydroelectric licensing in State of Hawaii for purposes of considering whether such licensing should be transferred to State, and directed Commission to complete study and submit report containing results of study to Congress within 18 months after Oct. 24, 1992.
 
-### § 797a. Congressional authorization for permits, licenses, leases, or authorizations for dams, conduits, reservoirs, etc., within national parks or monuments
+### § 797a. Congressional authorization for permits, licenses, leases, or authorizations for dams, conduits, reservoirs, etc., within national parks or monuments
 
 On and after March 3, 1921, no permit, license, lease, or authorization for dams, conduits, reservoirs, power houses, transmission lines, or other works for storage or carriage of water, or for the development, transmission, or utilization of power within the limits as constituted, March 3, 1921, of any national park or national monument shall be granted or made without specific authority of Congress.
 
@@ -580,19 +580,19 @@ Section was not enacted as part of the Federal Power Act which generally compris
 
 **Construction**
 
-Act Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847, provided that nothing in this chapter should be construed to repeal or amend the provisions of the act approved Mar. 3, 1921 (41 Stat. 1353) [16 U.S.C. 797a] or the provisions of any other Act relating to national parks and national monuments. See note preceding section 791 of this title.
+Act Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847, provided that nothing in this chapter should be construed to repeal or amend the provisions of the act approved Mar. 3, 1921 (41 Stat. 1353) [16 U.S.C. 797a] or the provisions of any other Act relating to national parks and national monuments. See note preceding section 791 of this title.
 
-### § 797b. Duty to keep Congress fully and currently informed
+### § 797b. Duty to keep Congress fully and currently informed
 
 The Federal Energy Regulatory Commission shall keep the Committee on Energy and Commerce of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate fully and currently informed regarding actions of the Commission with respect to the provisions of Part I of the Federal Power Act [16 U.S.C. 791a et seq.].
 
-(Pub. L. 99–495, § 16, Oct. 16, 1986, 100 Stat. 1259.)
+(Pub. L. 99–495, § 16, Oct. 16, 1986, 100 Stat. 1259.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Power Act, referred to in text, is act June 10, 1920, ch. 285, 41 Stat. 1063. Part I of the Federal Power Act is classified generally to this subchapter (§ 791a et seq.). For complete classification of this Act to the Code, see section 791a of this title and Tables.
+The Federal Power Act, referred to in text, is act June 10, 1920, ch. 285, 41 Stat. 1063. Part I of the Federal Power Act is classified generally to this subchapter (§ 791a et seq.). For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
 **Codification**
 
@@ -604,23 +604,23 @@ Section was enacted as part of the Electric Consumers Protection Act of 1986, an
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
-### § 797c. Dams in National Park System units
+### § 797c. Dams in National Park System units
 
 After October 24, 1992, the Federal Energy Regulatory Commission may not issue an original license under Part I of the Federal Power Act [16 U.S.C. 791a et seq.] (nor an exemption from such Part) for any new hydroelectric power project located within the boundaries of any unit of the National Park System that would have a direct adverse effect on Federal lands within any such unit. Nothing in this section shall be construed as repealing any existing provision of law (or affecting any treaty) explicitly authorizing a hydroelectric power project.
 
-(Pub. L. 102–486, title XXIV, § 2402, Oct. 24, 1992, 106 Stat. 3097.)
+(Pub. L. 102–486, title XXIV, § 2402, Oct. 24, 1992, 106 Stat. 3097.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Power Act, referred to in text, is act June 10, 1920, ch. 285, 41 Stat. 1063. Part I of the Act is classified generally to this subchapter (§ 791a et seq.). For complete classification of this Act to the Code, see section 791a of this title and Tables.
+The Federal Power Act, referred to in text, is act June 10, 1920, ch. 285, 41 Stat. 1063. Part I of the Act is classified generally to this subchapter (§ 791a et seq.). For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
 **Codification**
 
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the Federal Power Act which generally comprises this chapter.
 
-### § 797d. Third party contracting by FERC
+### § 797d. Third party contracting by FERC
 
 **(a) Environmental impact statements**
 
@@ -634,21 +634,21 @@ Where an environmental assessment is required under the National Environmental P
 
 This section shall take effect with respect to license applications filed after October 24, 1992.
 
-(Pub. L. 102–486, title XXIV, § 2403, Oct. 24, 1992, 106 Stat. 3097.)
+(Pub. L. 102–486, title XXIV, § 2403, Oct. 24, 1992, 106 Stat. 3097.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (a) and (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a) and (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Federal Power Act, referred to in subsecs. (a) and (b), is act June 10, 1920, ch. 285, 41 Stat. 1063. Part I of the Act is classified generally to this subchapter (§ 791a et seq.). For complete classification of this Act to the Code, see section 791a of this title and Tables.
+The Federal Power Act, referred to in subsecs. (a) and (b), is act June 10, 1920, ch. 285, 41 Stat. 1063. Part I of the Act is classified generally to this subchapter (§ 791a et seq.). For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
 **Codification**
 
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the Federal Power Act which generally comprises this chapter.
 
-### § 798. Purpose and scope of preliminary permits; transfer and cancellation
+### § 798. Purpose and scope of preliminary permits; transfer and cancellation
 
 **(a) Purpose**
 
@@ -668,25 +668,25 @@ Each such permit shall set forth the conditions under which priority shall be ma
 
 Such permits shall not be transferable, and may be canceled by order of the Commission upon failure of permittees to comply with the conditions thereof or for other good cause shown after notice and opportunity for hearing.
 
-(June 10, 1920, ch. 285, pt. I, § 5, 41 Stat. 1067; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§ 203, 212, 49 Stat. 841, 847; Pub. L. 113–23, § 5, Aug. 9, 2013, 127 Stat. 495; Pub. L. 115–270, title III, § 3001(a), Oct. 23, 2018, 132 Stat. 3862.)
+(June 10, 1920, ch. 285, pt. I, § 5, 41 Stat. 1067; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§ 203, 212, 49 Stat. 841, 847; Pub. L. 113–23, § 5, Aug. 9, 2013, 127 Stat. 495; Pub. L. 115–270, title III, § 3001(a), Oct. 23, 2018, 132 Stat. 3862.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–270, § 3001(a)(1), substituted “4 years” for “three years”.
+2018—Subsec. (a). Pub. L. 115–270, § 3001(a)(1), substituted “4 years” for “three years”.
 
-Subsec. (b). Pub. L. 115–270, § 3001(a)(2), inserted dash after “The Commission may”, designated remaining provisions as par. (1), substituted “4 additional years beyond the 4 years” for “2 additional years beyond the 3 years”, and added par. (2).
+Subsec. (b). Pub. L. 115–270, § 3001(a)(2), inserted dash after “The Commission may”, designated remaining provisions as par. (1), substituted “4 additional years beyond the 4 years” for “2 additional years beyond the 3 years”, and added par. (2).
 
 2013—Pub. L. 113–23 designated existing first, second, and third sentences as subsecs. (a), (c), and (d), respectively, and added subsec. (b).
 
-1935—Act Aug. 26, 1935, § 203, amended section generally, striking out “and a license issued” at end of second sentence and inserting “or for other good cause shown after notice and opportunity for hearing” in last sentence.
+1935—Act Aug. 26, 1935, § 203, amended section generally, striking out “and a license issued” at end of second sentence and inserting “or for other good cause shown after notice and opportunity for hearing” in last sentence.
 
-### § 799. License; duration, conditions, revocation, alteration, or surrender
+### § 799. License; duration, conditions, revocation, alteration, or surrender
 
 Licenses under this subchapter shall be issued for a period not exceeding fifty years. Each such license shall be conditioned upon acceptance by the licensee of all of the terms and conditions of this chapter and such further conditions, if any, as the Commission shall prescribe in conformity with this chapter, which said terms and conditions and the acceptance thereof shall be expressed in said license. Licenses may be revoked only for the reasons and in the manner prescribed under the provisions of this chapter, and may be altered or surrendered only upon mutual agreement between the licensee and the Commission after thirty days’ public notice.
 
-(June 10, 1920, ch. 285, pt. I, § 6, 41 Stat. 1067; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§ 204, 212, 49 Stat. 841, 847; Pub. L. 104–106, div. D, title XLIII, § 4321(i)(6), Feb. 10, 1996, 110 Stat. 676; Pub. L. 104–316, title I, § 108(a), Oct. 19, 1996, 110 Stat. 3832; Pub. L. 105–192, § 2, July 14, 1998, 112 Stat. 625.)
+(June 10, 1920, ch. 285, pt. I, § 6, 41 Stat. 1067; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§ 204, 212, 49 Stat. 841, 847; Pub. L. 104–106, div. D, title XLIII, § 4321(i)(6), Feb. 10, 1996, 110 Stat. 676; Pub. L. 104–316, title I, § 108(a), Oct. 19, 1996, 110 Stat. 3832; Pub. L. 105–192, § 2, July 14, 1998, 112 Stat. 625.)
 
 **Editorial Notes**
 
@@ -698,7 +698,7 @@ Licenses under this subchapter shall be issued for a period not exceeding fifty 
 
 Pub. L. 104–106 struck out at end “Copies of all licenses issued under the provisions of this subchapter and calling for the payment of annual charges shall be deposited with the General Accounting Office, in compliance with section 20 of title 41.”
 
-1935—Act Aug. 26, 1935, § 204, amended section generally, substituting “thirty days” for “ninety days” in third sentence and inserting last sentence.
+1935—Act Aug. 26, 1935, § 204, amended section generally, substituting “thirty days” for “ninety days” in third sentence and inserting last sentence.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -706,7 +706,7 @@ Pub. L. 104–106 struck out at end “Copies of all licenses issued under the p
 
 For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2220 of Title 10, Armed Forces.
 
-### § 800. Issuance of preliminary permits or licenses
+### § 800. Issuance of preliminary permits or licenses
 
 **(a) Preference**
 
@@ -720,7 +720,7 @@ Whenever, in the judgment of the Commission, the development of any water resour
 
 Whenever, after notice and opportunity for hearing, the Commission determines that the United States should exercise its right upon or after the expiration of any license to take over any project or projects for public purposes, the Commission shall not issue a new license to the original licensee or to a new licensee but shall submit its recommendation to Congress together with such information as it may consider appropriate.
 
-(June 10, 1920, ch. 285, pt. I, § 7, 41 Stat. 1067; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§ 205, 212, 49 Stat. 842, 847; Pub. L. 90–451, § 1, Aug. 3, 1968, 82 Stat. 616; Pub. L. 99–495, § 2, Oct. 16, 1986, 100 Stat. 1243; Pub. L. 115–325, title II, § 201(a), Dec. 18, 2018, 132 Stat. 4459.)
+(June 10, 1920, ch. 285, pt. I, § 7, 41 Stat. 1067; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§ 205, 212, 49 Stat. 842, 847; Pub. L. 90–451, § 1, Aug. 3, 1968, 82 Stat. 616; Pub. L. 99–495, § 2, Oct. 16, 1986, 100 Stat. 1243; Pub. L. 115–325, title II, § 201(a), Dec. 18, 2018, 132 Stat. 4459.)
 
 **Editorial Notes**
 
@@ -736,7 +736,7 @@ Additional provisions in the section as enacted by act June 10, 1920, directing 
 
 1968—Subsec. (c). Pub. L. 90–451 added subsec. (c).
 
-1935—Act Aug. 26, 1935, § 205, amended section generally, striking out “navigation and” before “water resources” wherever appearing, and designating paragraphs as subsecs. (a) and (b).
+1935—Act Aug. 26, 1935, § 205, amended section generally, striking out “navigation and” before “water resources” wherever appearing, and designating paragraphs as subsecs. (a) and (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -746,7 +746,7 @@ Amendment by Pub. L. 99–495 effective with respect to each license, permit, or
 
 **Applicability of 2018 Amendment**
 
-Pub. L. 115–325, title II, § 201(b), Dec. 18, 2018, 132 Stat. 4459, provided that:
+Pub. L. 115–325, title II, § 201(b), Dec. 18, 2018, 132 Stat. 4459, provided that:
 
 > “The amendment made by subsection (a) [amending this section] shall not affect—
 
@@ -756,15 +756,15 @@ Pub. L. 115–325, title II, § 201(b), Dec. 18, 2018, 132 Stat. 4459, provide
 
 **Definition of Indian Tribe**
 
-Pub. L. 115–325, title II, § 201(c), Dec. 18, 2018, 132 Stat. 4459, provided that: “For purposes of section 7(a) of the Federal Power Act (16 U.S.C. 800(a)) (as amended by subsection (a)), the term ‘Indian tribe’ has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).”
+Pub. L. 115–325, title II, § 201(c), Dec. 18, 2018, 132 Stat. 4459, provided that: “For purposes of section 7(a) of the Federal Power Act (16 U.S.C. 800(a)) (as amended by subsection (a)), the term ‘Indian tribe’ has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).”
 
-### § 801. Transfer of license; obligations of transferee
+### § 801. Transfer of license; obligations of transferee
 
 No voluntary transfer of any license, or of the rights thereunder granted, shall be made without the written approval of the commission; and any successor or assign of the rights of such licensee, whether by voluntary transfer, judicial sale, foreclosure sale, or otherwise, shall be subject to all the conditions of the license under which such rights are held by such licensee and also subject to all the provisions and conditions of this chapter to the same extent as though such successor or assign were the original licensee under this chapter: *Provided*, That a mortgage or trust deed or judicial sales made thereunder or under tax sales shall not be deemed voluntary transfers within the meaning of this section.
 
-(June 10, 1920, ch. 285, pt. I, § 8, 41 Stat. 1068; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847.)
+(June 10, 1920, ch. 285, pt. I, § 8, 41 Stat. 1068; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847.)
 
-### § 802. Information to accompany application for license; landowner notification
+### § 802. Information to accompany application for license; landowner notification
 
 **(a)** Each applicant for a license under this chapter shall submit to the commission—
 
@@ -772,9 +772,9 @@ No voluntary transfer of any license, or of the rights thereunder granted, shall
 
 **(2)** Satisfactory evidence that the applicant has complied with the requirements of the laws of the State or States within which the proposed project is to be located with respect to bed and banks and to the appropriation, diversion, and use of water for power purposes and with respect to the right to engage in the business of developing, transmitting and distributing power, and in any other business necessary to effect the purposes of a license under this chapter.
 
-**(3)**  1
+**(3)** 1
 
-<sup>1</sup>  See Codification note below.
+<sup>1</sup> See Codification note below.
 
 Such additional information as the commission may require.
 
@@ -784,7 +784,7 @@ Such additional information as the commission may require.
 
 **(2)** Any Federal, State, municipal or other local governmental agency likely to be interested in or affected by such application.
 
-(June 10, 1920, ch. 285, pt. I, § 9, 41 Stat. 1068; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847; Pub. L. 99–495, § 14, Oct. 16, 1986, 100 Stat. 1257.)
+(June 10, 1920, ch. 285, pt. I, § 9, 41 Stat. 1068; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847; Pub. L. 99–495, § 14, Oct. 16, 1986, 100 Stat. 1257.)
 
 **Editorial Notes**
 
@@ -802,15 +802,15 @@ Former subsec. (c), included in the provisions designated as subsec. (a) by Pub.
 
 Amendment by Pub. L. 99–495 effective with respect to each license, permit, or exemption issued under this chapter after Oct. 16, 1986, see section 18 of Pub. L. 99–495, set out as a note under section 797 of this title.
 
-### § 803. Conditions of license generally
+### § 803. Conditions of license generally
 
 All licenses issued under this subchapter shall be on the following conditions:
 
 **(a) Modification of plans; factors considered to secure adaptability of project; recommendations for proposed terms and conditions**
 
-**(1)** That the project adopted, including the maps, plans, and specifications, shall be such as in the judgment of the Commission will be best adapted to a comprehensive plan for improving or developing a waterway or waterways for the use or benefit of interstate or foreign commerce, for the improvement and utilization of water-power development, for the adequate protection, mitigation, and enhancement of fish and wildlife (including related spawning grounds and habitat), and for other beneficial public uses, including irrigation, flood control, water supply, and recreational and other purposes referred to in section 797(e) of this title 1
+**(1)** That the project adopted, including the maps, plans, and specifications, shall be such as in the judgment of the Commission will be best adapted to a comprehensive plan for improving or developing a waterway or waterways for the use or benefit of interstate or foreign commerce, for the improvement and utilization of water-power development, for the adequate protection, mitigation, and enhancement of fish and wildlife (including related spawning grounds and habitat), and for other beneficial public uses, including irrigation, flood control, water supply, and recreational and other purposes referred to in section 797(e) of this title 1
 
-<sup>1</sup>  So in original. Probably should be followed by “; and”.
+<sup>1</sup> So in original. Probably should be followed by “; and”.
 
 if necessary in order to secure such plan the Commission shall have authority to require the modification of any project and of the plans and specifications of the project works before approval.
 
@@ -906,7 +906,7 @@ In issuing licenses for a minor part only of a complete project, or for a comple
 
 Subsection (i) shall not apply to the conditions required under this subsection.
 
-(June 10, 1920, ch. 285, pt. I, § 10, 41 Stat. 1068; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§ 206, 212, 49 Stat. 842, 847; Pub. L. 87–647, Sept. 7, 1962, 76 Stat. 447; Pub. L. 90–451, § 4, Aug. 3, 1968, 82 Stat. 617; Pub. L. 99–495, §§ 3(b), (c), 9(a), 13, Oct. 16, 1986, 100 Stat. 1243, 1244, 1252, 1257; Pub. L. 99–546, title IV, § 401, Oct. 27, 1986, 100 Stat. 3056; Pub. L. 102–486, title XVII, § 1701(a), Oct. 24, 1992, 106 Stat. 3008.)
+(June 10, 1920, ch. 285, pt. I, § 10, 41 Stat. 1068; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§ 206, 212, 49 Stat. 842, 847; Pub. L. 87–647, Sept. 7, 1962, 76 Stat. 447; Pub. L. 90–451, § 4, Aug. 3, 1968, 82 Stat. 617; Pub. L. 99–495, §§ 3(b), (c), 9(a), 13, Oct. 16, 1986, 100 Stat. 1243, 1244, 1252, 1257; Pub. L. 99–546, title IV, § 401, Oct. 27, 1986, 100 Stat. 3056; Pub. L. 102–486, title XVII, § 1701(a), Oct. 24, 1992, 106 Stat. 3008.)
 
 **Editorial Notes**
 
@@ -918,31 +918,31 @@ The Fish and Wildlife Coordination Act, referred to in subsec. (j)(1), is act Ma
 
 1992—Subsec. (e)(1). Pub. L. 102–486, in introductory provisions, substituted “administration of this subchapter, including any reasonable and necessary costs incurred by Federal and State fish and wildlife agencies and other natural and cultural resource agencies in connection with studies or other reviews carried out by such agencies for purposes of administering their responsibilities under this subchapter;” for “administration of this subchapter;” and inserted “*Provided*, That, subject to annual appropriations Acts, the portion of such annual charges imposed by the Commission under this subsection to cover the reasonable and necessary costs of such agencies shall be available to such agencies (in addition to other funds appropriated for such purposes) solely for carrying out such studies and reviews and shall remain available until expended:” after “as conditions may require:”.
 
-1986—Subsec. (a). Pub. L. 99–495, § 3(b), designated existing provisions as par. (1), inserted “for the adequate protection, mitigation, and enhancement of fish and wildlife (including related spawning grounds and habitat),” after “water-power development”, inserted “irrigation, flood control, water supply, and” after “including”, which words were inserted after “public uses, including” as the probable intent of Congress, substituted “and other purposes referred to in section 797(e) of this title” for “purposes; and”, and added pars. (2) and (3).
+1986—Subsec. (a). Pub. L. 99–495, § 3(b), designated existing provisions as par. (1), inserted “for the adequate protection, mitigation, and enhancement of fish and wildlife (including related spawning grounds and habitat),” after “water-power development”, inserted “irrigation, flood control, water supply, and” after “including”, which words were inserted after “public uses, including” as the probable intent of Congress, substituted “and other purposes referred to in section 797(e) of this title” for “purposes; and”, and added pars. (2) and (3).
 
 Subsec. (e). Pub. L. 99–546 inserted proviso that no charge be assessed for use of Government dam or structure by licensee if, before Jan. 1, 1985, licensee and Secretary entered into contract which met requirements of date of license, powerplant construction, ownership, and revenue, etc.
 
-Pub. L. 99–495, § 9(a), designated existing provisions as par. (1) and added pars. (2) to (4).
+Pub. L. 99–495, § 9(a), designated existing provisions as par. (1) and added pars. (2) to (4).
 
-Subsec. (h). Pub. L. 99–495, § 13, designated existing provisions as par. (1) and added par. (2).
+Subsec. (h). Pub. L. 99–495, § 13, designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (j). Pub. L. 99–495, § 3(c), added subsec. (j).
+Subsec. (j). Pub. L. 99–495, § 3(c), added subsec. (j).
 
 1968—Subsec. (d). Pub. L. 90–451 provided for maintenance of amortization reserves on and after effective date of new licenses.
 
 1962—Subsecs. (b), (e), (i). Pub. L. 87–647 substituted “two thousand horsepower” for “one hundred horsepower”.
 
-1935—Subsec. (a). Act Aug. 26, 1935, § 206, substituted “plan for improving or developing a waterway or waterways for the use or benefit of interstate or foreign commerce, for the improvement and utilization of water-power development, and for other beneficial uses, including recreational purposes” for “scheme of improvement and utilization for the purposes of navigation, of water-power development, and of other beneficial public uses,” and “such plan” for “such scheme”.
+1935—Subsec. (a). Act Aug. 26, 1935, § 206, substituted “plan for improving or developing a waterway or waterways for the use or benefit of interstate or foreign commerce, for the improvement and utilization of water-power development, and for other beneficial uses, including recreational purposes” for “scheme of improvement and utilization for the purposes of navigation, of water-power development, and of other beneficial public uses,” and “such plan” for “such scheme”.
 
-Subsec. (b). Act Aug. 26, 1935, § 206, inserted “installed” before “capacity”.
+Subsec. (b). Act Aug. 26, 1935, § 206, inserted “installed” before “capacity”.
 
-Subsec. (d). Act Aug. 26, 1935, § 206, substituted “net investment” for “actual, legitimate investment”.
+Subsec. (d). Act Aug. 26, 1935, § 206, substituted “net investment” for “actual, legitimate investment”.
 
-Subsec. (e). Act Aug. 26, 1935, § 206, amended subsec. (e) generally.
+Subsec. (e). Act Aug. 26, 1935, § 206, amended subsec. (e) generally.
 
-Subsec. (f). Act Aug. 26, 1935, § 206, inserted last sentence to first par., and inserted last par.
+Subsec. (f). Act Aug. 26, 1935, § 206, inserted last sentence to first par., and inserted last par.
 
-Subsec. (i). Act Aug. 26, 1935, § 206, inserted “installed” before “capacity”, and “annual charges for use of” before “lands” in proviso.
+Subsec. (i). Act Aug. 26, 1935, § 206, inserted “installed” before “capacity”, and “annual charges for use of” before “lands” in proviso.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -952,7 +952,7 @@ Amendment by Pub. L. 99–495 effective with respect to each license, permit, or
 
 **Savings Provision**
 
-Pub. L. 99–495, § 9(b), Oct. 16, 1986, 100 Stat. 1252, provided that: “Nothing in this Act [see Short Title of 1986 Amendment note set out under section 791a of this title] shall affect any annual charge to be paid pursuant to section 10(e) of the Federal Power Act [16 U.S.C. 803(e)] to Indian tribes for the use of their lands within Indian reservations.”
+Pub. L. 99–495, § 9(b), Oct. 16, 1986, 100 Stat. 1252, provided that: “Nothing in this Act [see Short Title of 1986 Amendment note set out under section 791a of this title] shall affect any annual charge to be paid pursuant to section 10(e) of the Federal Power Act [16 U.S.C. 803(e)] to Indian tribes for the use of their lands within Indian reservations.”
 
 **Termination of Reporting Requirements**
 
@@ -960,7 +960,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (e)(4) of this
 
 **Obligation for Payment of Annual Charges**
 
-Pub. L. 115–270, title III, § 3001(c), Oct. 23, 2018, 132 Stat. 3862, provided that:
+Pub. L. 115–270, title III, § 3001(c), Oct. 23, 2018, 132 Stat. 3862, provided that:
 
 > “Any obligation of a licensee or exemptee for the payment of annual charges under section 10(e) of the Federal Power Act (16 U.S.C. 803(e)) for a project that has not commenced construction as of the date of enactment of this Act [Oct. 23, 2018] shall commence not earlier than the latest of—
 
@@ -968,7 +968,7 @@ Pub. L. 115–270, title III, § 3001(c), Oct. 23, 2018, 132 Stat. 3862, provi
 
 > **“(2)** the date of any extension of the deadline under paragraph (1).”
 
-### § 804. Project works affecting navigable waters; requirements insertable in license
+### § 804. Project works affecting navigable waters; requirements insertable in license
 
 If the dam or other project works are to be constructed across, along, or in any of the navigable waters of the United States, the commission may, insofar as it deems the same reasonably necessary to promote the present and future needs of navigation and consistent with a reasonable investment cost to the licensee, include in the license any one or more of the following provisions or requirements:
 
@@ -978,7 +978,7 @@ If the dam or other project works are to be constructed across, along, or in any
 
 **(c)** That such licensee shall furnish free of cost to the United States power for the operation of such navigation facilities, whether constructed by the licensee or by the United States.
 
-(June 10, 1920, ch. 285, pt. I, § 11, 41 Stat. 1070; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(June 10, 1920, ch. 285, pt. I, § 11, 41 Stat. 1070; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -986,23 +986,23 @@ If the dam or other project works are to be constructed across, along, or in any
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 805. Participation by Government in costs of locks, etc.
+### § 805. Participation by Government in costs of locks, etc.
 
 Whenever application is filed for a project hereunder involving navigable waters of the United States, and the commission shall find upon investigation that the needs of navigation require the construction of a lock or locks or other navigation structures, and that such structures cannot, consistent with a reasonable investment cost to the applicant, be provided in the manner specified in subsection (a) of section 804 of this title, the commission may grant the application with the provision to be expressed in the license that the licensee will install the necessary navigation structures if the Government fails to make provision therefor within a time to be fixed in the license and cause a report upon such project to be prepared, with estimates of cost of the power development and of the navigation structures, and shall submit such report to Congress with such recommendations as it deems appropriate concerning the participation of the United States in the cost of construction of such navigation structures.
 
-(June 10, 1920, ch. 285, pt. I, § 12, 41 Stat. 1070; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847.)
+(June 10, 1920, ch. 285, pt. I, § 12, 41 Stat. 1070; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847.)
 
-### § 806. Time limit for construction of project works; extension of time; termination or revocation of licenses for delay
+### § 806. Time limit for construction of project works; extension of time; termination or revocation of licenses for delay
 
 The licensee shall commence the construction of the project works within the time fixed in the license, which shall not be more than two years from the date thereof, shall thereafter in good faith and with due diligence prosecute such construction, and shall within the time fixed in the license complete and put into operation such part of the ultimate development as the commission shall deem necessary to supply the reasonable needs of the then available market, and shall from time to time thereafter construct such portion of the balance of such development as the commission may direct, so as to supply adequately the reasonable market demands until such development shall have been completed. The periods for the commencement of construction may be extended for not more than 8 additional years, and the period for the completion of construction carried on in good faith and with reasonable diligence may be extended by the commission when not incompatible with the public interests. In case the licensee shall not commence actual construction of the project works, or of any specified part thereof, within the time prescribed in the license or as extended by the commission, then, after due notice given, the license shall, as to such project works or part thereof, be terminated upon written order of the commission. In case the construction of the project works, or of any specified part thereof, has been begun but not completed within the time prescribed in the license, or as extended by the commission, then the Attorney General, upon the request of the commission, shall institute proceedings in equity in the district court of the United States for the district in which any part of the project is situated for the revocation of said license, the sale of the works constructed, and such other equitable relief as the case may demand, as provided for in section 820 of this title.
 
-(June 10, 1920, ch. 285, pt. I, § 13, 41 Stat. 1071; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847; amended Pub. L. 115–270, title III, § 3001(b), Oct. 23, 2018, 132 Stat. 3862.)
+(June 10, 1920, ch. 285, pt. I, § 13, 41 Stat. 1071; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847; amended Pub. L. 115–270, title III, § 3001(b), Oct. 23, 2018, 132 Stat. 3862.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Proceedings in equity, referred to in text, were abolished by the adoption of rule 2 of the Federal Rules of Civil Procedure, set out in the Appendix to Title 28, Judiciary and Judicial Procedure, which provided that “there shall be one form of action to be known as ‘civil action’ ”.
+Proceedings in equity, referred to in text, were abolished by the adoption of rule 2 of the Federal Rules of Civil Procedure, set out in the Appendix to Title 28, Judiciary and Judicial Procedure, which provided that “there shall be one form of action to be known as ‘civil action’ ”.
 
 **Amendments**
 
@@ -1034,7 +1034,7 @@ Pub. L. 119–90, May 11, 2026, 140 Stat. 820, provided that:
 
 > **“(2)** the extension authorized under subsection (b) shall take effect on the date of that expiration.”
 
-### § 807. Right of Government to take over project works
+### § 807. Right of Government to take over project works
 
 **(a) Compensation; condemnation by Federal or State Government**
 
@@ -1042,13 +1042,13 @@ Upon not less than two years’ notice in writing from the commission the United
 
 **(b) Relicensing proceedings; Federal agency recommendations of take over by Government; stay of orders for new licenses; termination of stay; notice to Congress**
 
-In any relicensing proceeding before the Commission any Federal department or agency may timely recommend, pursuant to such rules as the Commission shall prescribe, that the United States exercise its right to take over any project or projects. Thereafter, the Commission, if its 1
+In any relicensing proceeding before the Commission any Federal department or agency may timely recommend, pursuant to such rules as the Commission shall prescribe, that the United States exercise its right to take over any project or projects. Thereafter, the Commission, if its 1
 
-<sup>1</sup>  So in original. Probably should be “it”.
+<sup>1</sup> So in original. Probably should be “it”.
 
 does not itself recommend such action pursuant to the provisions of section 800(c) of this title, shall upon motion of such department or agency stay the effective date of any order issuing a license, except an order issuing an annual license in accordance with the proviso of section 808(a) of this title, for two years after the date of issuance of such order, after which period the stay shall terminate, unless terminated earlier upon motion of the department or agency requesting the stay or by action of Congress. The Commission shall notify the Congress of any stay granted pursuant to this subsection.
 
-(June 10, 1920, ch. 285, pt. I, § 14, 41 Stat. 1071; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§ 207, 212, 49 Stat. 844, 847; Pub. L. 90–451, § 2, Aug. 3, 1968, 82 Stat. 617; Pub. L. 99–495, § 4(b)(2), Oct. 16, 1986, 100 Stat. 1248.)
+(June 10, 1920, ch. 285, pt. I, § 14, 41 Stat. 1071; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§ 207, 212, 49 Stat. 844, 847; Pub. L. 90–451, § 2, Aug. 3, 1968, 82 Stat. 617; Pub. L. 99–495, § 4(b)(2), Oct. 16, 1986, 100 Stat. 1248.)
 
 **Editorial Notes**
 
@@ -1058,7 +1058,7 @@ does not itself recommend such action pursuant to the provisions of section 800(
 
 1968—Pub. L. 90–451 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1935—Act Aug. 26, 1935, § 207, amended section generally.
+1935—Act Aug. 26, 1935, § 207, amended section generally.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1066,7 +1066,7 @@ does not itself recommend such action pursuant to the provisions of section 800(
 
 Amendment by Pub. L. 99–495 effective with respect to each license, permit, or exemption issued under this chapter after Oct. 16, 1986, see section 18 of Pub. L. 99–495, set out as a note under section 797 of this title.
 
-### § 808. New licenses and renewals
+### § 808. New licenses and renewals
 
 **(a) Relicensing procedures; terms and conditions; issuance to applicant with proposal best adapted to serve public interest; factors considered**
 
@@ -1136,15 +1136,15 @@ Except for an annual license, any license issued by the Commission under this se
 
 In issuing any licenses under this section except an annual license, the Commission, on its own motion or upon application of any licensee, person, State, municipality, or State commission, after notice to each State commission and licensee affected, and after opportunity for hearing, whenever it finds that in conformity with a comprehensive plan for improving or developing a waterway or waterways for beneficial public uses all or part of any licensed project should no longer be used or adapted for use for power purposes, may license all or part of the project works for nonpower use. A license for nonpower use shall be issued to a new licensee only on the condition that the new licensee shall, before taking possession of the facilities encompassed thereunder, pay such amount and assume such contracts as the United States is required to do, in the manner specified in section 807 of this title. Any license for nonpower use shall be a temporary license. Whenever, in the judgment of the Commission, a State, municipality, interstate agency, or another Federal agency is authorized and willing to assume regulatory supervision of the lands and facilities included under the nonpower license and does so, the Commission shall thereupon terminate the license. Consistent with the provisions of subchapter IV of this chapter, every licensee for nonpower use shall keep such accounts and file such annual and other periodic or special reports concerning the removal, alteration, nonpower use, or other disposition of any project works or parts thereof covered by the nonpower use license as the Commission may by rules and regulations or order prescribe as necessary or appropriate.
 
-(June 10, 1920, ch. 285, pt. I, § 15, 41 Stat. 1072; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847; Pub. L. 90–451, § 3, Aug. 3, 1968, 82 Stat. 617; Pub. L. 99–495, §§ 4(a), (b)(1), 5, Oct. 16, 1986, 100 Stat. 1245, 1248.)
+(June 10, 1920, ch. 285, pt. I, § 15, 41 Stat. 1072; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847; Pub. L. 90–451, § 3, Aug. 3, 1968, 82 Stat. 617; Pub. L. 99–495, §§ 4(a), (b)(1), 5, Oct. 16, 1986, 100 Stat. 1245, 1248.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1986—Subsec. (a). Pub. L. 99–495, § 4(a), (b)(1), designated existing provisions as par. (1), substituted “existing” for “original” wherever appearing, and added pars. (2) and (3).
+1986—Subsec. (a). Pub. L. 99–495, § 4(a), (b)(1), designated existing provisions as par. (1), substituted “existing” for “original” wherever appearing, and added pars. (2) and (3).
 
-Subsecs. (b) to (f). Pub. L. 99–495, §§ 4(a), 5, added subsecs. (b) to (e) and redesignated former subsec. (b) as (f).
+Subsecs. (b) to (f). Pub. L. 99–495, §§ 4(a), 5, added subsecs. (b) to (e) and redesignated former subsec. (b) as (f).
 
 1968—Pub. L. 90–451 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -1154,19 +1154,19 @@ Subsecs. (b) to (f). Pub. L. 99–495, §§ 4(a), 5, added subsecs. (b) to (e)
 
 Amendment by Pub. L. 99–495 effective with respect to each license, permit, or exemption issued under this chapter after Oct. 16, 1986, see section 18 of Pub. L. 99–495, set out as a note under section 797 of this title.
 
-### § 809. Temporary use by Government of project works for national safety; compensation for use
+### § 809. Temporary use by Government of project works for national safety; compensation for use
 
 When in the opinion of the President of the United States, evidenced by a written order addressed to the holder of any license under this chapter, the safety of the United States demands it, the United States shall have the right to enter upon and take possession of any project or part thereof, constructed, maintained, or operated under said license, for the purpose of manufacturing nitrates, explosives, or munitions of war, or for any other purpose involving the safety of the United States, to retain possession, management, and control thereof for such length of time as may appear to the President to be necessary to accomplish said purposes, and then to restore possession and control to the party or parties entitled thereto; and in the event that the United States shall exercise such right it shall pay to the party or parties entitled thereto just and fair compensation for the use of said property as may be fixed by the commission upon the basis of a reasonable profit in time of peace, and the cost of restoring said property to as good condition as existed at the time of the taking over thereof, less the reasonable value of any improvements that may be made thereto by the United States and which are valuable and serviceable to the licensee.
 
-(June 10, 1920, ch. 285, pt. I, § 16, 41 Stat. 1072; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847.)
+(June 10, 1920, ch. 285, pt. I, § 16, 41 Stat. 1072; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Termination of War and Emergencies**
 
-Joint Res. July 25, 1947, ch. 327, § 3, 61 Stat. 451, provided that in the interpretation of this section, the date July 25, 1947, shall be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on September 8, 1939, and May 27, 1941.
+Joint Res. July 25, 1947, ch. 327, § 3, 61 Stat. 451, provided that in the interpretation of this section, the date July 25, 1947, shall be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on September 8, 1939, and May 27, 1941.
 
-### § 810. Disposition of charges arising from licenses
+### § 810. Disposition of charges arising from licenses
 
 **(a) Receipts from charges**
 
@@ -1176,17 +1176,17 @@ All proceeds from any Indian reservation shall be placed to the credit of the In
 
 In case of delinquency on the part of any licensee in the payment of annual charges a penalty of 5 per centum of the total amount so delinquent may be added to the total charges which shall apply for the first month or part of month so delinquent with an additional penalty of 3 per centum for each subsequent month until the total of the charges and penalties are paid or until the license is canceled and the charges and penalties satisfied in accordance with law.
 
-(June 10, 1920, ch. 285, pt. I, § 17, 41 Stat. 1072; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§ 208, 212, 49 Stat. 845, 847; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(June 10, 1920, ch. 285, pt. I, § 17, 41 Stat. 1072; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§ 208, 212, 49 Stat. 845, 847; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Act of Congress known as the Reclamation Act, approved June 17, 1902, referred to in subsec. (a), probably means act June 17, 1902, ch. 1093, 32 Stat. 388, which is classified generally to chapter 12 (§ 371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables. The reclamation fund created by that Act was established by section 391 of Title 43.
+The Act of Congress known as the Reclamation Act, approved June 17, 1902, referred to in subsec. (a), probably means act June 17, 1902, ch. 1093, 32 Stat. 388, which is classified generally to chapter 12 (§ 371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables. The reclamation fund created by that Act was established by section 391 of Title 43.
 
 **Amendments**
 
-1935—Act Aug. 26, 1935, § 208, amended section generally, designating existing provisions as subsec. (a), inserting “except charges fixed by the Commission for the purpose of reimbursing the United States for the costs of administration of this Part,”, substituting “national forests” for “national monuments, national forests, and national parks” wherever appearing, inserting last sentence relating to payment of proceeds of charges into Treasury, and adding subsec. (b).
+1935—Act Aug. 26, 1935, § 208, amended section generally, designating existing provisions as subsec. (a), inserting “except charges fixed by the Commission for the purpose of reimbursing the United States for the costs of administration of this Part,”, substituting “national forests” for “national monuments, national forests, and national parks” wherever appearing, inserting last sentence relating to payment of proceeds of charges into Treasury, and adding subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1194,15 +1194,15 @@ The Act of Congress known as the Reclamation Act, approved June 17, 1902, referr
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 811. Operation of navigation facilities; rules and regulations; penalties
+### § 811. Operation of navigation facilities; rules and regulations; penalties
 
-The Commission shall require the construction, maintenance, and operation by a licensee at its own expense of such lights and signals as may be directed by the Secretary of the Department in which the Coast Guard is operating, and such fishways as may be prescribed by the Secretary of the Interior or the Secretary of Commerce, as appropriate. The license applicant and any party to the proceeding shall be entitled to a determination on the record, after opportunity for an agency trial-type hearing of no more than 90 days, on any disputed issues of material fact with respect to such fishways. All disputed issues of material fact raised by any party shall be determined in a single trial-type hearing to be conducted by the relevant resource agency in accordance with the regulations promulgated under this subsection 1
+The Commission shall require the construction, maintenance, and operation by a licensee at its own expense of such lights and signals as may be directed by the Secretary of the Department in which the Coast Guard is operating, and such fishways as may be prescribed by the Secretary of the Interior or the Secretary of Commerce, as appropriate. The license applicant and any party to the proceeding shall be entitled to a determination on the record, after opportunity for an agency trial-type hearing of no more than 90 days, on any disputed issues of material fact with respect to such fishways. All disputed issues of material fact raised by any party shall be determined in a single trial-type hearing to be conducted by the relevant resource agency in accordance with the regulations promulgated under this subsection 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 and within the time frame established by the Commission for each license proceeding. Within 90 days of August 8, 2005, the Secretaries of the Interior, Commerce, and Agriculture shall establish jointly, by rule, the procedures for such expedited trial-type hearing, including the opportunity to undertake discovery and cross-examine witnesses, in consultation with the Federal Energy Regulatory Commission. The operation of any navigation facilities which may be constructed as a part of or in connection with any dam or diversion structure built under the provisions of this chapter, whether at the expense of a licensee hereunder or of the United States, shall at all times be controlled by such reasonable rules and regulations in the interest of navigation, including the control of the level of the pool caused by such dam or diversion structure as may be made from time to time by the Secretary of the Army; and for willful failure to comply with any such rule or regulation such licensee shall be deemed guilty of a misdemeanor, and upon conviction thereof shall be punished as provided in section 825*o* of this title.
 
-(June 10, 1920, ch. 285, pt. I, § 18, 41 Stat. 1073; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§ 209, 212, 49 Stat. 845, 847; 1939 Reorg. Plan No. II, § 4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; June 4, 1956, ch. 351, § 2, 70 Stat. 226; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 109–58, title II, § 241(b), Aug. 8, 2005, 119 Stat. 674.)
+(June 10, 1920, ch. 285, pt. I, § 18, 41 Stat. 1073; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§ 209, 212, 49 Stat. 845, 847; 1939 Reorg. Plan No. II, § 4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; June 4, 1956, ch. 351, § 2, 70 Stat. 226; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 109–58, title II, § 241(b), Aug. 8, 2005, 119 Stat. 674.)
 
 **Editorial Notes**
 
@@ -1212,7 +1212,7 @@ and within the time frame established by the Commission for each license proceed
 
 1956—Act June 4, 1956, substituted “Secretary of the Department in which the Coast Guard is operating” for “Secretary of War” in first sentence.
 
-1935—Act Aug. 26, 1935, § 209, amended section generally, inserting first sentence, striking out “Such rules and regulations may include the maintenance and operation of such licensee at its own expense of such lights and signals as may be directed by the Secretary of War, and such fishways as may be prescribed by the Secretary of Commerce.”, and substituting section “825*o*” for section “819”.
+1935—Act Aug. 26, 1935, § 209, amended section generally, inserting first sentence, striking out “Such rules and regulations may include the maintenance and operation of such licensee at its own expense of such lights and signals as may be directed by the Secretary of War, and such fishways as may be prescribed by the Secretary of Commerce.”, and substituting section “825*o*” for section “819”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1228,7 +1228,7 @@ Coast Guard transferred to Department of Transportation and all functions, power
 
 **Clarification of Authority Regarding Fishways**
 
-Pub. L. 102–486, title XVII, § 1701(b), Oct. 24, 1992, 106 Stat. 3008, provided that: “The definition of the term ‘fishway’ contained in 18 C.F.R. 4.30(b)(9)(iii), as in effect on the date of enactment of this Act [Oct. 24, 1992], is vacated without prejudice to any definition or interpretation by rule of the term ‘fishway’ by the Federal Energy Regulatory Commission for purposes of implementing section 18 of the Federal Power Act [16 U.S.C. 811]: *Provided*, That any future definition promulgated by regulatory rulemaking shall have no force or effect unless concurred in by the Secretary of the Interior and the Secretary of Commerce: *Provided further*, That the items which may constitute a ‘fishway’ under section 18 for the safe and timely upstream and downstream passage of fish shall be limited to physical structures, facilities, or devices necessary to maintain all life stages of such fish, and project operations and measures related to such structures, facilities, or devices which are necessary to ensure the effectiveness of such structures, facilities, or devices for such fish.”
+Pub. L. 102–486, title XVII, § 1701(b), Oct. 24, 1992, 106 Stat. 3008, provided that: “The definition of the term ‘fishway’ contained in 18 C.F.R. 4.30(b)(9)(iii), as in effect on the date of enactment of this Act [Oct. 24, 1992], is vacated without prejudice to any definition or interpretation by rule of the term ‘fishway’ by the Federal Energy Regulatory Commission for purposes of implementing section 18 of the Federal Power Act [16 U.S.C. 811]: *Provided*, That any future definition promulgated by regulatory rulemaking shall have no force or effect unless concurred in by the Secretary of the Interior and the Secretary of Commerce: *Provided further*, That the items which may constitute a ‘fishway’ under section 18 for the safe and timely upstream and downstream passage of fish shall be limited to physical structures, facilities, or devices necessary to maintain all life stages of such fish, and project operations and measures related to such structures, facilities, or devices which are necessary to ensure the effectiveness of such structures, facilities, or devices for such fish.”
 
 **Executive Documents**
 
@@ -1238,13 +1238,13 @@ Reference to Secretary of Commerce inserted in view of: creation of National Oce
 
 Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred Bureau of Fisheries in Department of Commerce and its functions to Department of the Interior, to be administered under direction and supervision of Secretary of the Interior.
 
-### § 812. Public-service licensee; regulations by State or by commission as to service, rates, charges, etc.
+### § 812. Public-service licensee; regulations by State or by commission as to service, rates, charges, etc.
 
 As a condition of the license, every licensee under this chapter which is a public-service corporation, or a person, association, or corporation owning or operating any project and developing, transmitting, or distributing power for sale or use in public service, shall abide by such reasonable regulation of the services to be rendered to customers or consumers of power, and of rates and charges of payment therefor, as may from time to time be prescribed by any duly constituted agency of the State in which the service is rendered or the rate charged. That in case of the development, transmission, or distribution, or use in public service of power by any licensee under this chapter or by its customer engaged in public service within a State which has not authorized and empowered a commission or other agency or agencies within said State to regulate and control the services to be rendered by such licensee or by its customer engaged in public service, or the rates and charges of payment therefor, or the amount or character of securities to be issued by any of said parties, it is agreed as a condition of such license that jurisdiction is conferred upon the commission, upon complaint of any person aggrieved or upon its own initiative, to exercise such regulation and control until such time as the State shall have provided a commission or other authority for such regulation and control: *Provided*, That the jurisdiction of the commission shall cease and determine as to each specific matter of regulation and control prescribed in this section as soon as the State shall have provided a commission or other authority for the regulation and control of that specific matter.
 
-(June 10, 1920, ch. 285, pt. I, § 19, 41 Stat. 1073; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847.)
+(June 10, 1920, ch. 285, pt. I, § 19, 41 Stat. 1073; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847.)
 
-### § 813. Power entering into interstate commerce; regulation of rates, charges, etc.
+### § 813. Power entering into interstate commerce; regulation of rates, charges, etc.
 
 When said power or any part thereof shall enter into interstate or foreign commerce the rates charged and the service rendered by any such licensee, or by any subsidiary corporation, the stock of which is owned or controlled directly or indirectly by such licensee, or by any person, corporation, or association purchasing power from such licensee for sale and distribution or use in public service shall be reasonable, nondiscriminatory, and just to the customer and all unreasonable discriminatory and unjust rates or services are prohibited and declared to be unlawful; and whenever any of the States directly concerned has not provided a commission or other authority to enforce the requirements of this section within such State or to regulate and control the amount and character of securities to be issued by any of such parties, or such States are unable to agree through their properly constituted authorities on the services to be rendered, or on the rates or charges of payment therefor, or on the amount or character of securities to be issued by any of said parties, jurisdiction is conferred upon the commission, upon complaint of any person, aggrieved, upon the request of any State concerned, or upon its own initiative to enforce the provisions of this section, to regulate and control so much of the services rendered, and of the rates and charges of payment therefor as constitute interstate or foreign commerce and to regulate the issuance of securities by the parties included within this section, and securities issued by the licensee subject to such regulations shall be allowed only for the bona fide purpose of financing and conducting the business of such licensee.
 
@@ -1252,23 +1252,23 @@ The administration of the provisions of this section, so far as applicable, shal
 
 In any valuation of the property of any licensee hereunder for purposes of rate making, no value shall be claimed by the licensee or allowed by the commission for any project or projects under license in excess of the value or values prescribed in section 807 of this title for the purposes of purchase by the United States, but there shall be included the cost to such licensee of the construction of the lock or locks or other aids of navigation and all other capital expenditures required by the United States, and no value shall be claimed or allowed for the rights granted by the commission or by this chapter.
 
-(June 10, 1920, ch. 285, pt. I, § 20, 41 Stat. 1073; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847.)
+(June 10, 1920, ch. 285, pt. I, § 20, 41 Stat. 1073; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Subtitle IV of title 49” substituted in text for “the Act to regulate commerce, approved February 4, 1887, as amended” on authority of Pub. L. 95–473, § 3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49, Transportation.
+“Subtitle IV of title 49” substituted in text for “the Act to regulate commerce, approved February 4, 1887, as amended” on authority of Pub. L. 95–473, § 3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49, Transportation.
 
-### § 814. Exercise by licensee of power of eminent domain
+### § 814. Exercise by licensee of power of eminent domain
 
-When any licensee cannot acquire by contract or pledges an unimproved dam site or the right to use or damage the lands or property of others necessary to the construction, maintenance, or operation of any dam, reservoir, diversion structure, or the works appurtenant or accessory thereto, in conjunction with any improvement which in the judgment of the commission is desirable and justified in the public interest for the purpose of improving or developing a waterway or waterways for the use or benefit of interstate or foreign commerce, it may acquire the same by the exercise of the right of eminent domain in the district court of the United States for the district in which such land or other property may be located, or in the State courts. The practice and procedure in any action or proceeding for that purpose in the district court of the United States shall conform as nearly as may be with the practice and procedure in similar action or proceeding in the courts of the State where the property is situated: *Provided*, That United States district courts shall only have jurisdiction of cases when the amount claimed by the owner of the property to be condemned exceeds $3,000 1
+When any licensee cannot acquire by contract or pledges an unimproved dam site or the right to use or damage the lands or property of others necessary to the construction, maintenance, or operation of any dam, reservoir, diversion structure, or the works appurtenant or accessory thereto, in conjunction with any improvement which in the judgment of the commission is desirable and justified in the public interest for the purpose of improving or developing a waterway or waterways for the use or benefit of interstate or foreign commerce, it may acquire the same by the exercise of the right of eminent domain in the district court of the United States for the district in which such land or other property may be located, or in the State courts. The practice and procedure in any action or proceeding for that purpose in the district court of the United States shall conform as nearly as may be with the practice and procedure in similar action or proceeding in the courts of the State where the property is situated: *Provided*, That United States district courts shall only have jurisdiction of cases when the amount claimed by the owner of the property to be condemned exceeds $3,000 1
 
-<sup>1</sup>  So in original. Probably should be followed by a colon.
+<sup>1</sup> So in original. Probably should be followed by a colon.
 
 *Provided further*, That no licensee may use the right of eminent domain under this section to acquire any lands or other property that, prior to October 24, 1992, were owned by a State or political subdivision thereof and were part of or included within any public park, recreation area or wildlife refuge established under State or local law. In the case of lands or other property that are owned by a State or political subdivision and are part of or included within a public park, recreation area or wildlife refuge established under State or local law on or after October 24, 1992, no licensee may use the right of eminent domain under this section to acquire such lands or property unless there has been a public hearing held in the affected community and a finding by the Commission, after due consideration of expressed public views and the recommendations of the State or political subdivision that owns the lands or property, that the license will not interfere or be inconsistent with the purposes for which such lands or property are owned.
 
-(June 10, 1920, ch. 285, pt. I, § 21, 41 Stat. 1074; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847; Pub. L. 102–486, title XVII, § 1701(d), Oct. 24, 1992, 106 Stat. 3009.)
+(June 10, 1920, ch. 285, pt. I, § 21, 41 Stat. 1074; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847; Pub. L. 102–486, title XVII, § 1701(d), Oct. 24, 1992, 106 Stat. 3009.)
 
 **Editorial Notes**
 
@@ -1276,17 +1276,17 @@ When any licensee cannot acquire by contract or pledges an unimproved dam site o
 
 1992—Pub. L. 102–486 substituted final proviso and sentence for period at end.
 
-### § 815. Contract to furnish power extending beyond period of license; obligations of new licensee
+### § 815. Contract to furnish power extending beyond period of license; obligations of new licensee
 
 Whenever the public interest requires or justifies the execution by the licensee of contracts for the sale and delivery of power for periods extending beyond the date of termination of the license, such contracts may be entered into upon the joint approval of the commission and of the public-service commission or other similar authority in the State in which the sale or delivery of power is made, or if sold or delivered in a State which has no such public-service commission, then upon the approval of the commission, and thereafter, in the event of failure to issue a new license to the original licensee at the termination of the license, the United States or the new licensee, as the case may be, shall assume and fulfill all such contracts.
 
-(June 10, 1920, ch. 285, pt. I, § 22, 41 Stat. 1074; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847.)
+(June 10, 1920, ch. 285, pt. I, § 22, 41 Stat. 1074; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847.)
 
-### § 816. Preservation of rights vested prior to June 10, 1920
+### § 816. Preservation of rights vested prior to June 10, 1920
 
 The provisions of this subchapter shall not be construed as affecting any permit or valid existing right-of-way granted prior to June 10, 1920, or as confirming or otherwise affecting any claim, or as affecting any authority heretofore given pursuant to law, but any person, association, corporation, State, or municipality holding or possessing such permit, right-of-way or authority may apply for a license under this chapter, and upon such application the Commission may issue to any such applicant a license in accordance with the provisions of this subchapter and in such case the provisions of this chapter shall apply to such applicant as a licensee under this chapter: *Provided*, That when application is made for a license under this section for a project or projects already constructed the fair value of said project or projects determined as provided in this section, shall for the purposes of this subchapter and of said license be deemed to be the amount to be allowed as the net investment of the applicant in such project or projects as of the date of such license, or as of the date of such determination, if license has not been issued. Such fair value shall be determined by the Commission after notice and opportunity for hearing.
 
-(June 10, 1920, ch. 285, pt. I, § 23(a), 41 Stat. 1075; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§ 210, 212, 49 Stat. 846, 847.)
+(June 10, 1920, ch. 285, pt. I, § 23(a), 41 Stat. 1075; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§ 210, 212, 49 Stat. 846, 847.)
 
 **Editorial Notes**
 
@@ -1296,15 +1296,15 @@ Section consists of subsec. (a) of section 23 of act June 10, 1920, as so design
 
 **Amendments**
 
-1935—Act Aug. 26, 1935, § 210, amended section generally, substituting “part” for “chapter” wherever appearing, substituting “heretofore” for “then”, and substituting the last sentence for “Such fair value may, in the discretion of the commission, be determined by mutual agreement between the commission and the applicant or, in case they cannot agree, jurisdiction is hereby conferred upon the district court of the United States in the district within which such project or projects may be located, upon the application of either party, to hear and determine the amount of such fair value.”
+1935—Act Aug. 26, 1935, § 210, amended section generally, substituting “part” for “chapter” wherever appearing, substituting “heretofore” for “then”, and substituting the last sentence for “Such fair value may, in the discretion of the commission, be determined by mutual agreement between the commission and the applicant or, in case they cannot agree, jurisdiction is hereby conferred upon the district court of the United States in the district within which such project or projects may be located, upon the application of either party, to hear and determine the amount of such fair value.”
 
-### § 817. Projects not affecting navigable waters; necessity for Federal license, permit or right-of-way; unauthorized activities
+### § 817. Projects not affecting navigable waters; necessity for Federal license, permit or right-of-way; unauthorized activities
 
 **(1)** It shall be unlawful for any person, State, or municipality, for the purpose of developing electric power, to construct, operate, or maintain any dam, water conduit, reservoir, power house, or other works incidental thereto across, along, or in any of the navigable waters of the United States, or upon any part of the public lands or reservations of the United States (including the Territories), or utilize the surplus water or water power from any Government dam, except under and in accordance with the terms of a permit or valid existing right-of-way granted prior to June 10, 1920, or a license granted pursuant to this chapter. Any person, association, corporation, State, or municipality intending to construct a dam or other project works, across, along, over, or in any stream or part thereof, other than those defined in this chapter as navigable waters, and over which Congress has jurisdiction under its authority to regulate commerce with foreign nations and among the several States shall before such construction file declaration of such intention with the Commission, whereupon the Commission shall cause immediate investigation of such proposed construction to be made, and if upon investigation it shall find that the interests of interstate or foreign commerce would be affected by such proposed construction, such person, association, corporation, State, or municipality shall not construct, maintain, or operate such dam or other project works until it shall have applied for and shall have received a license under the provisions of this chapter. If the Commission shall not so find, and if no public lands or reservations are affected, permission is granted to construct such dam or other project works in such stream upon compliance with State laws.
 
 **(2)** No person may commence any significant modification of any project licensed under, or exempted from, this chapter unless such modification is authorized in accordance with terms and conditions of such license or exemption and the applicable requirements of this subchapter. As used in this paragraph, the term “commence” refers to the beginning of physical on-site activity other than surveys or testing.
 
-(June 10, 1920, ch. 285, pt. I, § 23(b), 41 Stat. 1075; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§ 210, 212, 49 Stat. 846, 847; Pub. L. 99–495, § 6, Oct. 16, 1986, 100 Stat. 1248.)
+(June 10, 1920, ch. 285, pt. I, § 23(b), 41 Stat. 1075; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§ 210, 212, 49 Stat. 846, 847; Pub. L. 99–495, § 6, Oct. 16, 1986, 100 Stat. 1248.)
 
 **Editorial Notes**
 
@@ -1316,7 +1316,7 @@ Section consists of subsec. (b) of section 23 of act June 10, 1920, as so design
 
 1986—Pub. L. 99–495 designated existing provisions as par. (1) and added par. (2).
 
-1935—Act Aug. 26, 1935, § 210, amended section generally, inserting first sentence, and substituting “with foreign nations” for “between foreign nations”, “shall before such construction” for “may in their discretion” and “shall not construct, maintain, or operate such dam or other project works” for “shall not proceed with such construction”.
+1935—Act Aug. 26, 1935, § 210, amended section generally, inserting first sentence, and substituting “with foreign nations” for “between foreign nations”, “shall before such construction” for “may in their discretion” and “shall not construct, maintain, or operate such dam or other project works” for “shall not proceed with such construction”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1324,11 +1324,11 @@ Section consists of subsec. (b) of section 23 of act June 10, 1920, as so design
 
 Amendment by Pub. L. 99–495 applicable to licenses, permits, and exemptions without regard to when issued, see section 18 of Pub. L. 99–495, set out as a note under section 797 of this title.
 
-### § 818. Public lands included in project; reservation of lands from entry
+### § 818. Public lands included in project; reservation of lands from entry
 
 Any lands of the United States included in any proposed project under the provisions of this subchapter shall from the date of filing of application therefor be reserved from entry, location, or other disposal under the laws of the United States until otherwise directed by the Commission or by Congress. Notice that such application has been made, together with the date of filing thereof and a description of the lands of the United States affected thereby, shall be filed in the local land office for the district in which such lands are located. Whenever the Commission shall determine that the value of any lands of the United States so applied for, or heretofore or hereafter reserved or classified as power sites, will not be injured or destroyed for the purposes of power development by location, entry, or selection under the public-land laws, the Secretary of the Interior, upon notice of such determination, shall declare such lands open to location, entry, or selection, for such purpose or purposes and under such restrictions as the Commission may determine, subject to and with a reservation of the right of the United States or its permittees or licensees to enter upon, occupy, and use any part or all of said lands necessary, in the judgment of the Commission, for the purposes of this subchapter, which right shall be expressly reserved in every patent issued for such lands; and no claim or right to compensation shall accrue from the occupation or use of any of said lands for said purposes. The United States or any licensee for any such lands hereunder may enter thereupon for the purposes of this subchapter, upon payment of any damages to crops, buildings, or other improvements caused thereby to the owner thereof, or upon giving a good and sufficient bond to the United States for the use and benefit of the owner to secure the payment of such damages as may be determined and fixed in an action brought upon the bond in a court of competent jurisdiction, said bond to be in the form prescribed by the Commission: *Provided*, That locations, entries, selections, or filings heretofore made for lands reserved as water-power sites, or in connection with water-power development, or electrical transmission may proceed to approval or patent under and subject to the limitations and conditions in this section contained: *Provided further*, That before any lands applied for, or heretofore or hereafter reserved, or classified as power sites, are declared open to location, entry, or selection by the Secretary of the Interior, notice of intention to make such declaration shall be given to the Governor of the State within which such lands are located, and such State shall have ninety days from the date of such notice within which to file, under any statute or regulation applicable thereto, an application for the reservation to the State, or any political subdivision thereof, of any lands required as a right-of-way for a public highway or as a source of materials for the construction and maintenance of such highways, and a copy of such application shall be filed with the Federal Power Commission; and any location, entry, or selection of such lands, or subsequent patent thereof, shall be subject to any rights granted the State pursuant to such application.
 
-(June 10, 1920, ch. 285, pt. I, § 24, 41 Stat. 1075; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§ 211, 212, 49 Stat. 846, 847; May 28, 1948, ch. 351, 62 Stat. 275.)
+(June 10, 1920, ch. 285, pt. I, § 24, 41 Stat. 1075; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§ 211, 212, 49 Stat. 846, 847; May 28, 1948, ch. 351, 62 Stat. 275.)
 
 **Editorial Notes**
 
@@ -1336,23 +1336,23 @@ Any lands of the United States included in any proposed project under the provis
 
 1948—Act May 28, 1948, inserted second proviso in last sentence so that States may apply for reservations of portions of power sites released for entry, location, or selection to the States for highway purposes.
 
-1935—Act Aug. 26, 1935, § 211, amended section generally, inserting “for such purpose or purposes and under such restrictions as the commission may determine”, substituted “part” for “chapter” wherever appearing, and striking out from proviso “prior to June 10, 1920” after “made”.
+1935—Act Aug. 26, 1935, § 211, amended section generally, inserting “for such purpose or purposes and under such restrictions as the commission may determine”, substituted “part” for “chapter” wherever appearing, and striking out from proviso “prior to June 10, 1920” after “made”.
 
-### § 819. Repealed. Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847
+### § 819. Repealed. Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847
 
-Section, act June 10, 1920, ch. 285, pt. I, § 25, 41 Stat. 1076, related to offenses and punishment. See section 825m et seq. of this title.
+Section, act June 10, 1920, ch. 285, pt. I, § 25, 41 Stat. 1076, related to offenses and punishment. See section 825m et seq. of this title.
 
-### § 820. Proceedings for revocation of license or to prevent violations of license
+### § 820. Proceedings for revocation of license or to prevent violations of license
 
 The Attorney General may, on request of the commission or of the Secretary of the Army, institute proceedings in equity in the district court of the United States in the district in which any project or part thereof is situated for the purpose of revoking for violation of its terms any permit or license issued hereunder, or for the purpose of remedying or correcting by injunction, mandamus, or other process any act of commission or omission in violation of the provisions of this chapter or of any lawful regulation or order promulgated hereunder. The district courts shall have jurisdiction over all of the above-mentioned proceedings and shall have power to issue and execute all necessary process and to make and enforce all writs, orders and decrees to compel compliance with the lawful orders and regulations of the commission and of the Secretary of the Army, and to compel the performance of any condition imposed under the provisions of this chapter. In the event a decree revoking a license is entered, the court is empowered to sell the whole or any part of the project or projects under license, to wind up the business of such licensee conducted in connection with such project or projects, to distribute the proceeds to the parties entitled to the same, and to make and enforce such further orders and decrees as equity and justice may require. At such sale or sales the vendee shall take the rights and privileges belonging to the licensee and shall perform the duties of such licensee and assume all outstanding obligations and liabilities of the licensee which the court may deem equitable in the premises; and at such sale or sales the United States may become a purchaser, but it shall not be required to pay a greater amount than it would be required to pay under the provisions of section 807 of this title at the termination of the license.
 
-(June 10, 1920, ch. 285, pt. I, § 26, 41 Stat. 1076; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(June 10, 1920, ch. 285, pt. I, § 26, 41 Stat. 1076; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Proceedings in equity, referred to in text, were abolished by the adoption of Rule 2 of the Federal Rules of Civil Procedure, set out in the Appendix to Title 28, Judiciary and Judicial Procedure, which provided that “there shall be one form of action to be known as ‘civil action’ ”.
+Proceedings in equity, referred to in text, were abolished by the adoption of Rule 2 of the Federal Rules of Civil Procedure, set out in the Appendix to Title 28, Judiciary and Judicial Procedure, which provided that “there shall be one form of action to be known as ‘civil action’ ”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1360,23 +1360,23 @@ Proceedings in equity, referred to in text, were abolished by the adoption of Ru
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 821. State laws and water rights unaffected
+### § 821. State laws and water rights unaffected
 
 Nothing contained in this chapter shall be construed as affecting or intending to affect or in any way to interfere with the laws of the respective States relating to the control, appropriation, use, or distribution of water used in irrigation or for municipal or other uses, or any vested right acquired therein.
 
-(June 10, 1920, ch. 285, pt. I, § 27, 41 Stat. 1077; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847.)
+(June 10, 1920, ch. 285, pt. I, § 27, 41 Stat. 1077; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847.)
 
-### § 822. Reservation of right to alter or repeal chapter
+### § 822. Reservation of right to alter or repeal chapter
 
 The right to alter, amend, or repeal this chapter is expressly reserved; but no such alteration, amendment, or repeal shall affect any license theretofore issued under the provisions of this chapter or the rights of any licensee thereunder.
 
-(June 10, 1920, ch. 285, pt. I, § 28, 41 Stat. 1077; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847.)
+(June 10, 1920, ch. 285, pt. I, § 28, 41 Stat. 1077; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847.)
 
-### § 823. Repeal of inconsistent laws
+### § 823. Repeal of inconsistent laws
 
 All Acts or parts of Acts inconsistent with this chapter are repealed: *Provided*, That nothing contained herein shall be held or construed to modify or repeal any of the provisions of the Act of Congress approved December 19, 1913, granting certain rights-of-way to the city and county of San Francisco, in the State of California.
 
-(June 10, 1920, ch. 285, pt. I, § 29, 41 Stat. 1077; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847.)
+(June 10, 1920, ch. 285, pt. I, § 29, 41 Stat. 1077; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847.)
 
 **Editorial Notes**
 
@@ -1390,7 +1390,7 @@ The Act of Congress approved December 19, 1913, referred to in text, was not cla
 
 As originally enacted, this section contained the further proviso: “That section 18 of an Act making appropriations for the construction, repair and preservation, of certain public works on rivers and harbors, and for other purposes, approved August 8, 1917, is hereby repealed.”
 
-### § 823a. Conduit hydroelectric facilities
+### § 823a. Conduit hydroelectric facilities
 
 **(a) Qualifying conduit hydropower facilities**
 
@@ -1432,13 +1432,13 @@ As originally enacted, this section contained the further proviso: “That secti
 
 **(2)** has an installed capacity that does not exceed 40 megawatts.
 
-**(c) Consultation with Federal and State agencies** In making the determination under subsection (b) the Commission shall consult with the United States Fish and Wildlife Service 1
+**(c) Consultation with Federal and State agencies** In making the determination under subsection (b) the Commission shall consult with the United States Fish and Wildlife Service 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
-National Marine Fisheries Service 1 and the State agency exercising administration over the fish and wildlife resources of the State in which the facility is or will be located, in the manner provided by the Fish and Wildlife Coordination Act (16 U.S.C. 661, et seq.), and shall include in any such exemption—
+National Marine Fisheries Service 1 and the State agency exercising administration over the fish and wildlife resources of the State in which the facility is or will be located, in the manner provided by the Fish and Wildlife Coordination Act (16 U.S.C. 661, et seq.), and shall include in any such exemption—
 
-**(1)** such terms and conditions as the Fish and Wildlife Service <sup>1</sup> National Marine Fisheries Service <sup>1</sup> and the State agency each determine are appropriate to prevent loss of, or damage to, such resources and to otherwise carry out the purposes of such Act, and
+**(1)** such terms and conditions as the Fish and Wildlife Service <sup>1</sup> National Marine Fisheries Service <sup>1</sup> and the State agency each determine are appropriate to prevent loss of, or damage to, such resources and to otherwise carry out the purposes of such Act, and
 
 **(2)** such terms and conditions as the Commission deems appropriate to insure that such facility continues to comply with the provisions of this section and terms and conditions included in any such exemption.
 
@@ -1450,7 +1450,7 @@ Any violation of a term or condition of any exemption granted under subsection (
 
 The Commission, in addition to the requirements of section 803(e) of this title, shall establish fees which shall be paid by an applicant for a license or exemption for a project that is required to meet terms and conditions set by fish and wildlife agencies under subsection (c). Such fees shall be adequate to reimburse the fish and wildlife agencies referred to in subsection (c) for any reasonable costs incurred in connection with any studies or other reviews carried out by such agencies for purposes of compliance with this section. The fees shall, subject to annual appropriations Acts, be transferred to such agencies by the Commission for use solely for purposes of carrying out such studies and shall remain available until expended.
 
-(June 10, 1920, ch. 285, pt. I, § 30, as added Pub. L. 95–617, title II, § 213, Nov. 9, 1978, 92 Stat. 3148; amended Pub. L. 99–495, § 7, Oct. 16, 1986, 100 Stat. 1248; Pub. L. 113–23, § 4(a), Aug. 9, 2013, 127 Stat. 494; Pub. L. 115–270, title III, § 3002, Oct. 23, 2018, 132 Stat. 3863.)
+(June 10, 1920, ch. 285, pt. I, § 30, as added Pub. L. 95–617, title II, § 213, Nov. 9, 1978, 92 Stat. 3148; amended Pub. L. 99–495, § 7, Oct. 16, 1986, 100 Stat. 1248; Pub. L. 113–23, § 4(a), Aug. 9, 2013, 127 Stat. 494; Pub. L. 115–270, title III, § 3002, Oct. 23, 2018, 132 Stat. 3863.)
 
 **Editorial Notes**
 
@@ -1460,25 +1460,25 @@ The Fish and Wildlife Coordination Act, referred to in subsec. (c), is act Mar. 
 
 **Prior Provisions**
 
-A prior section 30 of act June 10, 1920, was classified to section 791 of this title, prior to repeal by act Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847.
+A prior section 30 of act June 10, 1920, was classified to section 791 of this title, prior to repeal by act Aug. 26, 1935, ch. 687, title II, § 212, 49 Stat. 847.
 
 **Amendments**
 
-2018—Subsec. (a)(2)(C). Pub. L. 115–270, § 3002(1), substituted “30 days” for “45 days” in introductory provisions.
+2018—Subsec. (a)(2)(C). Pub. L. 115–270, § 3002(1), substituted “30 days” for “45 days” in introductory provisions.
 
-Subsec. (a)(3)(C)(ii). Pub. L. 115–270, § 3002(2), substituted “40 megawatts” for “5 megawatts”.
+Subsec. (a)(3)(C)(ii). Pub. L. 115–270, § 3002(2), substituted “40 megawatts” for “5 megawatts”.
 
-2013—Subsecs. (a), (b). Pub. L. 113–23, § 4(a)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which authorized the Commission to grant exemptions from the requirements of this subchapter for certain hydroelectric facilities and prohibited the granting of exemptions to facilities with certain capacities.
+2013—Subsecs. (a), (b). Pub. L. 113–23, § 4(a)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which authorized the Commission to grant exemptions from the requirements of this subchapter for certain hydroelectric facilities and prohibited the granting of exemptions to facilities with certain capacities.
 
-Subsec. (c). Pub. L. 113–23, § 4(a)(2), substituted “subsection (b)” for “subsection (a)” in introductory provisions.
+Subsec. (c). Pub. L. 113–23, § 4(a)(2), substituted “subsection (b)” for “subsection (a)” in introductory provisions.
 
-Subsec. (d). Pub. L. 113–23, § 4(a)(3), substituted “subsection (b)” for “subsection (a)”.
+Subsec. (d). Pub. L. 113–23, § 4(a)(3), substituted “subsection (b)” for “subsection (a)”.
 
-1986—Subsec. (b). Pub. L. 99–495, § 7(a), inserted provision setting the maximum installation capacity for exemptions under subsec. (a) at 40 megawatts in the case of a facility constructed, operated, and maintained by an agency or instrumentality of a State or local government solely for water supply for municipal purposes.
+1986—Subsec. (b). Pub. L. 99–495, § 7(a), inserted provision setting the maximum installation capacity for exemptions under subsec. (a) at 40 megawatts in the case of a facility constructed, operated, and maintained by an agency or instrumentality of a State or local government solely for water supply for municipal purposes.
 
-Subsec. (c). Pub. L. 99–495, § 7(b), which directed the insertion of “National Marine Fisheries Service” after “the Fish and Wildlife Service” in both places such term appears, was executed by inserting “National Marine Fisheries Service” after “the United States Fish and Wildlife Service” and “the Fish and Wildlife Service”, as the probable intent of Congress.
+Subsec. (c). Pub. L. 99–495, § 7(b), which directed the insertion of “National Marine Fisheries Service” after “the Fish and Wildlife Service” in both places such term appears, was executed by inserting “National Marine Fisheries Service” after “the United States Fish and Wildlife Service” and “the Fish and Wildlife Service”, as the probable intent of Congress.
 
-Subsec. (e). Pub. L. 99–495, § 7(c), added subsec. (e).
+Subsec. (e). Pub. L. 99–495, § 7(c), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1488,9 +1488,9 @@ Amendment by Pub. L. 99–495 effective with respect to each license, permit, or
 
 **Application of Subsection (c)**
 
-Pub. L. 99–495, § 8(c), Oct. 16, 1986, 100 Stat. 1251, provided that: “Nothing in this Act [see Short Title of 1986 Amendment note set out under section 791a of this title] shall affect the application of section 30(c) of the Federal Power Act [16 U.S.C. 823a(c)] to any exemption issued after the enactment of this Act [Oct. 16, 1986].”
+Pub. L. 99–495, § 8(c), Oct. 16, 1986, 100 Stat. 1251, provided that: “Nothing in this Act [see Short Title of 1986 Amendment note set out under section 791a of this title] shall affect the application of section 30(c) of the Federal Power Act [16 U.S.C. 823a(c)] to any exemption issued after the enactment of this Act [Oct. 16, 1986].”
 
-### § 823b. Enforcement
+### § 823b. Enforcement
 
 **(a) Monitoring and investigation**
 
@@ -1518,7 +1518,7 @@ Any licensee, permittee, or exemptee who violates or fails or refuses to comply 
 
 **(B)** Any person against whom a penalty is assessed under this paragraph may, within 60 calendar days after the date of the order of the Commission assessing such penalty, institute an action in the United States court of appeals for the appropriate judicial circuit for judicial review of such order in accordance with chapter 7 of title 5. The court shall have jurisdiction to enter a judgment affirming, modifying, or setting aside in whole or in Part,1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 the order of the Commission, or the court may remand the proceeding to the Commission for such further action as the court may direct.
 
@@ -1540,7 +1540,7 @@ the order of the Commission, or the court may remand the proceeding to the Commi
 
 **(B)** The Commission shall be represented by the Attorney General, or the Solicitor General, as appropriate, in actions under this subsection, except to the extent provided in subparagraph (A) of this paragraph.
 
-(June 10, 1920, ch. 285, pt. I, § 31, as added Pub. L. 99–495, § 12, Oct. 16, 1986, 100 Stat. 1255.)
+(June 10, 1920, ch. 285, pt. I, § 31, as added Pub. L. 99–495, § 12, Oct. 16, 1986, 100 Stat. 1255.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1548,7 +1548,7 @@ the order of the Commission, or the court may remand the proceeding to the Commi
 
 Section applicable to licenses, permits, and exemptions without regard to when issued, see section 18 of Pub. L. 99–495, set out as an Effective Date of 1986 Amendment note under section 797 of this title.
 
-### § 823c. Alaska State jurisdiction over small hydroelectric projects
+### § 823c. Alaska State jurisdiction over small hydroelectric projects
 
 **(a) Discontinuance of regulation by the Commission** Notwithstanding sections 797(e) and 817 of this title, the Commission shall discontinue exercising licensing and regulatory authority under this subchapter over qualifying project works in the State of Alaska, effective on the date on which the Commission certifies that the State of Alaska has in place a regulatory program for water-power development that—
 
@@ -1626,21 +1626,21 @@ Notwithstanding subsection (a), the Commission shall reassert its licensing and 
 
 If the State of Alaska determines that a recommendation under subsection (a)(3)(C) is inconsistent with paragraphs (1) and (2) of subsection (a), the State of Alaska may decline to adopt all or part of the recommendations in accordance with the procedures established under section 803(j)(2) of this title.
 
-(June 10, 1920, ch. 285, pt. I, § 32, as added Pub. L. 106–469, title V, § 501, Nov. 9, 2000, 114 Stat. 2037; amended Pub. L. 109–58, title II, § 244, Aug. 8, 2005, 119 Stat. 678.)
+(June 10, 1920, ch. 285, pt. I, § 32, as added Pub. L. 106–469, title V, § 501, Nov. 9, 2000, 114 Stat. 2037; amended Pub. L. 109–58, title II, § 244, Aug. 8, 2005, 119 Stat. 678.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Endangered Species Act, referred to in subsec. (a)(1), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act, referred to in subsec. (a)(1), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 The Fish and Wildlife Coordination Act, referred to in subsec. (a)(1), (3)(C), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see section 661(a) of this title, Short Title note set out under section 661 of this title, and Tables.
 
 **Amendments**
 
-2005—Subsec. (a)(3)(C). Pub. L. 109–58, § 244(1), inserted “except as provided in subsection (j),” before “conditions”.
+2005—Subsec. (a)(3)(C). Pub. L. 109–58, § 244(1), inserted “except as provided in subsection (j),” before “conditions”.
 
-Subsec. (j). Pub. L. 109–58, § 244(2), added subsec. (j).
+Subsec. (j). Pub. L. 109–58, § 244(2), added subsec. (j).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1648,7 +1648,7 @@ Subsec. (j). Pub. L. 109–58, § 244(2), added subsec. (j).
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 823d. Alternative conditions and prescriptions
+### § 823d. Alternative conditions and prescriptions
 
 **(a) Alternative conditions**
 
@@ -1690,9 +1690,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(5)** If the Commission finds that the Secretary’s final prescription would be inconsistent with the purposes of this subchapter, or other applicable law, the Commission may refer the dispute to the Commission’s Dispute Resolution Service. The Dispute Resolution Service shall consult with the Secretary and the Commission and issue a non-binding advisory within 90 days. The Secretary may accept the Dispute Resolution Service advisory unless the Secretary finds that the recommendation will not adequately protect the fish resources. The Secretary shall submit the advisory and the Secretary’s final written determination into the record of the Commission’s proceeding.
 
-(June 10, 1920, ch. 285, pt. I, § 33, as added Pub. L. 109–58, title II, § 241(c), Aug. 8, 2005, 119 Stat. 675.)
+(June 10, 1920, ch. 285, pt. I, § 33, as added Pub. L. 109–58, title II, § 241(c), Aug. 8, 2005, 119 Stat. 675.)
 
-### § 823e. Promoting hydropower development at existing nonpowered dams
+### § 823e. Promoting hydropower development at existing nonpowered dams
 
 **(a) Expedited licensing process for non-Federal hydropower projects at existing nonpowered dams**
 
@@ -1728,9 +1728,9 @@ In issuing any license for a qualifying facility at a non-Federal dam, the Commi
 
 **(1)** be considered to be ex parte communications under Commission rules; or
 
-**(2)** preclude an agency from participating in a licensing proceeding under this subchapter, providing that any agency participating as a party in a licensing proceeding under this subchapter shall, to the extent practicable, demonstrate a separation of staff cooperating with the Commission under the National Environmental Policy Act 1
+**(2)** preclude an agency from participating in a licensing proceeding under this subchapter, providing that any agency participating as a party in a licensing proceeding under this subchapter shall, to the extent practicable, demonstrate a separation of staff cooperating with the Commission under the National Environmental Policy Act 1
 
-<sup>1</sup>  So in original. Probably should be followed by “of 1969”.
+<sup>1</sup> So in original. Probably should be followed by “of 1969”.
 
 (42 U.S.C. 4321 et seq.) and staff participating in the applicable proceeding under this subchapter.
 
@@ -1792,17 +1792,17 @@ The term “qualifying facility” means a facility that is determined under thi
 
 **(2)** any authority of the Commission to issue an exemption to a small hydroelectric power project under the Public Utility Regulatory Policies Act of 1978.
 
-(June 10, 1920, ch. 285, pt. I, § 34, as added Pub. L. 115–270, title III, § 3003, Oct. 23, 2018, 132 Stat. 3863.)
+(June 10, 1920, ch. 285, pt. I, § 34, as added Pub. L. 115–270, title III, § 3003, Oct. 23, 2018, 132 Stat. 3863.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (f)(2), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
-### § 823f. Closed-loop pumped storage projects
+### § 823f. Closed-loop pumped storage projects
 
 **(a) Expedited licensing process for closed-loop pumped storage projects**
 
@@ -1856,9 +1856,9 @@ The Commission, in addition to the requirements of section 803(e) of this title,
 
 **(1)** be considered to be ex parte communications under Commission rules; or
 
-**(2)** preclude an agency from participating in a licensing proceeding under this subchapter, providing that any agency participating as a party in a licensing proceeding under this subchapter shall, to the extent practicable, demonstrate a separation of staff cooperating with the Commission under the National Environmental Policy Act 1
+**(2)** preclude an agency from participating in a licensing proceeding under this subchapter, providing that any agency participating as a party in a licensing proceeding under this subchapter shall, to the extent practicable, demonstrate a separation of staff cooperating with the Commission under the National Environmental Policy Act 1
 
-<sup>1</sup>  So in original. Probably should be followed by “of 1969”.
+<sup>1</sup> So in original. Probably should be followed by “of 1969”.
 
 (42 U.S.C. 4321 et seq.) and staff participating in the applicable proceeding under this subchapter.
 
@@ -1888,7 +1888,7 @@ The Commission shall establish criteria that a pumped storage project shall meet
 
 Nothing in this section affects any authority of the Commission to license a closed-loop pumped storage project under this subchapter.
 
-(June 10, 1920, ch. 285, pt. I, § 35, as added Pub. L. 115–270, title III, § 3004, Oct. 23, 2018, 132 Stat. 3865.)
+(June 10, 1920, ch. 285, pt. I, § 35, as added Pub. L. 115–270, title III, § 3004, Oct. 23, 2018, 132 Stat. 3865.)
 
 **Editorial Notes**
 
@@ -1896,11 +1896,11 @@ Nothing in this section affects any authority of the Commission to license a clo
 
 The Fish and Wildlife Coordination Act, referred to in subsec. (c)(2), (3)(A), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see section 661(a) of this title, Short Title note set out under section 661 of this title, and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (g)(2)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (g)(2)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-### § 823g. Considerations for relicensing terms
+### § 823g. Considerations for relicensing terms
 
 **(a) In general** In determining the term of a new license issued when an existing license under this subchapter expires, the Commission shall take into consideration, among other things—
 
@@ -1922,11 +1922,11 @@ The Endangered Species Act of 1973, referred to in subsec. (g)(2)(B), is Pub. L.
 
 At the request of the licensee, the Commission shall make a determination as to whether any planned, ongoing, or completed investment meets the criteria under subsection (b)(2). Any determination under this subsection shall be issued within 60 days following receipt of the licensee’s request. When issuing its determination under this subsection, the Commission shall not assess the incremental number of years that the investment may add to the new license term. All such assessment shall occur only as provided in subsection (a).
 
-(June 10, 1920, ch. 285, pt. I, § 36, as added Pub. L. 115–270, title III, § 3005, Oct. 23, 2018, 132 Stat. 3867.)
+(June 10, 1920, ch. 285, pt. I, § 36, as added Pub. L. 115–270, title III, § 3005, Oct. 23, 2018, 132 Stat. 3867.)
 
 ## SUBCHAPTER II—REGULATION OF ELECTRIC UTILITY COMPANIES ENGAGED IN INTERSTATE COMMERCE
 
-### § 824. Declaration of policy; application of subchapter
+### § 824. Declaration of policy; application of subchapter
 
 **(a) Federal regulation of transmission and sale of electric energy**
 
@@ -1950,7 +1950,7 @@ The term “sale of electric energy at wholesale” when used in this subchapter
 
 The term “public utility” when used in this subchapter and subchapter III of this chapter means any person who owns or operates facilities subject to the jurisdiction of the Commission under this subchapter (other than facilities subject to such jurisdiction solely by reason of section 824e(e), 824e(f),1
 
-<sup>1</sup>  So in original. Section 824e of this title does not contain a subsec. (f).
+<sup>1</sup> So in original. Section 824e of this title does not contain a subsec. (f).
 
 824i, 824j, 824j–1, 824k, 824*o*, 824*o*–1, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title).
 
@@ -1982,35 +1982,35 @@ wherever located, if such examination is required for the effective discharge of
 
 **(5)** As used in this subsection the terms “affiliate”, “associate company”, “electric utility company”, “holding company”, “subsidiary company”, and “exempt wholesale generator” shall have the same meaning as when used in the Public Utility Holding Company Act of 2005 [42 U.S.C. 16451 et seq.].
 
-(June 10, 1920, ch. 285, pt. II, § 201, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 847; amended Pub. L. 95–617, title II, § 204(b), Nov. 9, 1978, 92 Stat. 3140; Pub. L. 102–486, title VII, § 714, Oct. 24, 1992, 106 Stat. 2911; Pub. L. 109–58, title XII, §§ 1277(b)(1), 1291(c), 1295(a), Aug. 8, 2005, 119 Stat. 978, 985; Pub. L. 114–94, div. F, § 61003(b), Dec. 4, 2015, 129 Stat. 1778.)
+(June 10, 1920, ch. 285, pt. II, § 201, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 847; amended Pub. L. 95–617, title II, § 204(b), Nov. 9, 1978, 92 Stat. 3140; Pub. L. 102–486, title VII, § 714, Oct. 24, 1992, 106 Stat. 2911; Pub. L. 109–58, title XII, §§ 1277(b)(1), 1291(c), 1295(a), Aug. 8, 2005, 119 Stat. 978, 985; Pub. L. 114–94, div. F, § 61003(b), Dec. 4, 2015, 129 Stat. 1778.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Rural Electrification Act of 1936, referred to in subsec. (f), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
+The Rural Electrification Act of 1936, referred to in subsec. (f), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
 
-The Public Utility Holding Company Act of 2005, referred to in subsec. (g)(5), is subtitle F of title XII of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 972, which is classified principally to part D (§ 16451 et seq.) of subchapter XII of chapter 149 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15801 of Title 42 and Tables.
+The Public Utility Holding Company Act of 2005, referred to in subsec. (g)(5), is subtitle F of title XII of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 972, which is classified principally to part D (§ 16451 et seq.) of subchapter XII of chapter 149 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15801 of Title 42 and Tables.
 
 **Amendments**
 
-2015—Subsec. (b)(2). Pub. L. 114–94, § 61003(b)(1), inserted “824*o*–1,” after “824*o*,” in two places.
+2015—Subsec. (b)(2). Pub. L. 114–94, § 61003(b)(1), inserted “824*o*–1,” after “824*o*,” in two places.
 
-Subsec. (e). Pub. L. 114–94, § 61003(b)(2), inserted “824*o*–1,” after “824*o*,”.
+Subsec. (e). Pub. L. 114–94, § 61003(b)(2), inserted “824*o*–1,” after “824*o*,”.
 
-2005—Subsec. (b)(2). Pub. L. 109–58, § 1295(a)(1), substituted “Notwithstanding subsection (f), the provisions of sections 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824*o*, 824p, 824q, 824r, 824s, 824t, 824u, and 824v of this title” for “The provisions of sections 824i, 824j, and 824k of this title” and “Compliance with any order or rule of the Commission under the provisions of section 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824*o*, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title” for “Compliance with any order of the Commission under the provisions of section 824i or 824j of this title”.
+2005—Subsec. (b)(2). Pub. L. 109–58, § 1295(a)(1), substituted “Notwithstanding subsection (f), the provisions of sections 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824*o*, 824p, 824q, 824r, 824s, 824t, 824u, and 824v of this title” for “The provisions of sections 824i, 824j, and 824k of this title” and “Compliance with any order or rule of the Commission under the provisions of section 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824*o*, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title” for “Compliance with any order of the Commission under the provisions of section 824i or 824j of this title”.
 
-Subsec. (e). Pub. L. 109–58, § 1295(a)(2), substituted “section 824e(e), 824e(f), 824i, 824j, 824j–1, 824k, 824*o*, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title” for “section 824i, 824j, or 824k of this title”.
+Subsec. (e). Pub. L. 109–58, § 1295(a)(2), substituted “section 824e(e), 824e(f), 824i, 824j, 824j–1, 824k, 824*o*, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title” for “section 824i, 824j, or 824k of this title”.
 
-Subsec. (f). Pub. L. 109–58, § 1291(c), which directed amendment of subsec. (f) by substituting “political subdivision of a State, an electric cooperative that receives financing under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.) or that sells less than 4,000,000 megawatt hours of electricity per year,” for “political subdivision of a state,”, was executed by making the substitution for “political subdivision of a State,” to reflect the probable intent of Congress.
+Subsec. (f). Pub. L. 109–58, § 1291(c), which directed amendment of subsec. (f) by substituting “political subdivision of a State, an electric cooperative that receives financing under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.) or that sells less than 4,000,000 megawatt hours of electricity per year,” for “political subdivision of a state,”, was executed by making the substitution for “political subdivision of a State,” to reflect the probable intent of Congress.
 
-Subsec. (g)(5). Pub. L. 109–58, § 1277(b)(1), substituted “2005” for “1935”.
+Subsec. (g)(5). Pub. L. 109–58, § 1277(b)(1), substituted “2005” for “1935”.
 
 1992—Subsec. (g). Pub. L. 102–486 added subsec. (g).
 
-1978—Subsec. (b). Pub. L. 95–617, § 204(b)(1), designated existing provisions as par. (1), inserted “except as provided in paragraph (2)” after “in interstate commerce, but”, and added par. (2).
+1978—Subsec. (b). Pub. L. 95–617, § 204(b)(1), designated existing provisions as par. (1), inserted “except as provided in paragraph (2)” after “in interstate commerce, but”, and added par. (2).
 
-Subsec. (e). Pub. L. 95–617, § 204(b)(2), inserted “(other than facilities subject to such jurisdiction solely by reason of section 824i, 824j, or 824k of this title)” after “under this subchapter”.
+Subsec. (e). Pub. L. 95–617, § 204(b)(2), inserted “(other than facilities subject to such jurisdiction solely by reason of section 824i, 824j, or 824k of this title)” after “under this subchapter”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2024,13 +2024,13 @@ Nothing in amendment by Pub. L. 102–486 to be construed as affecting or intend
 
 **Prior Actions; Effect On Other Authorities**
 
-Pub. L. 95–617, title II, § 214, Nov. 9, 1978, 92 Stat. 3149, provided that:
+Pub. L. 95–617, title II, § 214, Nov. 9, 1978, 92 Stat. 3149, provided that:
 
 > **“(a) Prior Actions.—** No provision of this title [enacting sections 823a, 824i to 824k, 824a–1 to 824a–3 and 825q–1 of this title, amending sections 796, 824, 824a, 824d, and 825d of this title and enacting provisions set out as notes under sections 824a, 824d, and 825d of this title] or of any amendment made by this title shall apply to, or affect, any action taken by the Commission [Federal Energy Regulatory Commission] before the date of the enactment of this Act [Nov. 9, 1978].
 
 > **“(b) Other Authorities.—** No provision of this title [enacting sections 823a, 824i to 824k, 824a–1 to 824a–3 and 825q–1 of this title, amending sections 796, 824, 824a, 824d, and 825d of this title and enacting provisions set out as notes under sections 824a, 824d, and 825d of this title] or of any amendment made by this title shall limit, impair or otherwise affect any authority of the Commission or any other agency or instrumentality of the United States under any other provision of law except as specifically provided in this title.”
 
-### § 824a. Interconnection and coordination of facilities; emergencies; transmission to foreign countries
+### § 824a. Interconnection and coordination of facilities; emergencies; transmission to foreign countries
 
 **(a) Regional districts; establishment; notice to State commissions**
 
@@ -2084,15 +2084,15 @@ The ownership or operation of facilities for the transmission or sale at wholesa
 
 **(B)** provide that all persons served directly or indirectly by such public utility will be treated, without undue prejudice or disadvantage.
 
-(June 10, 1920, ch. 285, pt. II, § 202, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 848; amended Aug. 7, 1953, ch. 343, 67 Stat. 461; Pub. L. 95–617, title II, § 206(a), Nov. 9, 1978, 92 Stat. 3141; Pub. L. 114–94, div. F, § 61002, Dec. 4, 2015, 129 Stat. 1772.)
+(June 10, 1920, ch. 285, pt. II, § 202, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 848; amended Aug. 7, 1953, ch. 343, 67 Stat. 461; Pub. L. 95–617, title II, § 206(a), Nov. 9, 1978, 92 Stat. 3141; Pub. L. 114–94, div. F, § 61002, Dec. 4, 2015, 129 Stat. 1772.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2015—Subsec. (c). Pub. L. 114–94, § 61002(a), designated existing provisions as par. (1) and added pars. (2) to (5).
+2015—Subsec. (c). Pub. L. 114–94, § 61002(a), designated existing provisions as par. (1) and added pars. (2) to (5).
 
-Subsec. (d). Pub. L. 114–94, § 61002(b), inserted “or municipality” before “engaged in the transmission or sale of electric energy”.
+Subsec. (d). Pub. L. 114–94, § 61002(b), inserted “or municipality” before “engaged in the transmission or sale of electric energy”.
 
 1978—Subsec. (g). Pub. L. 95–617 added subsec. (g).
 
@@ -2102,7 +2102,7 @@ Subsec. (d). Pub. L. 114–94, § 61002(b), inserted “or municipality” bef
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–617, title II, § 206(b), Nov. 9, 1978, 92 Stat. 3142, provided that: “The amendment made by subsection (a) [adding subsec. (g) of this section] shall not affect any proceeding of the Commission [Federal Energy Regulatory Commission] pending on the date of the enactment of this Act [Nov. 9, 1978] or any case pending on such date respecting a proceeding of the Commission.”
+Pub. L. 95–617, title II, § 206(b), Nov. 9, 1978, 92 Stat. 3142, provided that: “The amendment made by subsection (a) [adding subsec. (g) of this section] shall not affect any proceeding of the Commission [Federal Energy Regulatory Commission] pending on the date of the enactment of this Act [Nov. 9, 1978] or any case pending on such date respecting a proceeding of the Commission.”
 
 **Executive Documents**
 
@@ -2114,7 +2114,7 @@ Functions of President respecting certain facilities constructed and maintained 
 
 For provisions relating to performance of functions by Secretary of Energy respecting electric power and natural gas facilities located on United States borders, see Ex. Ord. No. 10485, Sept. 8, 1953, 18 F.R. 5397, as amended by Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957, set out as a note under section 717b of Title 15, Commerce and Trade.
 
-### § 824a–1. Pooling
+### § 824a–1. Pooling
 
 **(a) State laws** The Commission may, on its own motion, and shall, on application of any person or governmental entity, after public notice and notice to the Governor of the affected State and after affording an opportunity for public hearing, exempt electric utilities, in whole or in part, from any provision of State law, or from any State rule or regulation, which prohibits or prevents the voluntary coordination of electric utilities, including any agreement for central dispatch, if the Commission determines that such voluntary coordination is designed to obtain economical utilization of facilities and resources in any area. No such exemption may be granted if the Commission finds that such provision of State law, or rule or regulation—
 
@@ -2136,7 +2136,7 @@ through pooling arrangements. Not later than 18 months after November 9, 1978, t
 
 **(2)** The Commission may recommend to electric utilities that such utilities should voluntarily enter into negotiations where the opportunities referred to in paragraph (1) exist. The Commission shall report annually to the President and the Congress regarding any such recommendations and subsequent actions taken by electric utilities, by the Commission, and by the Secretary under this Act, the Federal Power Act [16 U.S.C. 791a et seq.], and any other provision of law. Such annual reports shall be included in the Commission’s annual report required under the Department of Energy Organization Act [42 U.S.C. 7101 et seq.].
 
-(Pub. L. 95–617, title II, § 205, Nov. 9, 1978, 92 Stat. 3140.)
+(Pub. L. 95–617, title II, § 205, Nov. 9, 1978, 92 Stat. 3140.)
 
 **Editorial Notes**
 
@@ -2146,7 +2146,7 @@ This Act, referred to in subsec. (b)(2), means Pub. L. 95–617, Nov. 9, 1978, 9
 
 The Federal Power Act, referred to in subsec. (b)(2), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
-The Department of Energy Organization Act, referred to in subsec. (b)(2), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, which is classified principally to chapter 84 (§ 7101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of Title 42 and Tables.
+The Department of Energy Organization Act, referred to in subsec. (b)(2), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, which is classified principally to chapter 84 (§ 7101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of Title 42 and Tables.
 
 **Codification**
 
@@ -2158,7 +2158,7 @@ Section was enacted as part of the Public Utility Regulatory Policies Act of 197
 
 For definitions of terms used in this section, see section 2602 of this title.
 
-### § 824a–2. Reliability
+### § 824a–2. Reliability
 
 **(a) Study**
 
@@ -2196,7 +2196,7 @@ The Secretary, in consultation with the Commission, may, from time to time, requ
 
 **(2)** a description of actions taken by electric utilities with respect to such recommendations.
 
-(Pub. L. 95–617, title II, § 209, Nov. 9, 1978, 92 Stat. 3143.)
+(Pub. L. 95–617, title II, § 209, Nov. 9, 1978, 92 Stat. 3143.)
 
 **Editorial Notes**
 
@@ -2210,13 +2210,13 @@ Section was enacted as part of the Public Utility Regulatory Policies Act of 197
 
 For definitions of terms used in this section, see section 2602 of this title.
 
-### § 824a–3. Cogeneration and small power production
+### § 824a–3. Cogeneration and small power production
 
 **(a) Cogeneration and small power production rules** Not later than 1 year after November 9, 1978, the Commission shall prescribe, and from time to time thereafter revise, such rules as it determines necessary to encourage cogeneration and small power production, and to encourage geothermal small power production facilities of not more than 80 megawatts capacity, which rules require electric utilities to offer to—
 
-**(1)** sell electric energy to qualifying cogeneration facilities and qualifying small power production facilities 1
+**(1)** sell electric energy to qualifying cogeneration facilities and qualifying small power production facilities 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 and
 
@@ -2246,11 +2246,11 @@ For purposes of this section, the term “incremental cost of alternative electr
 
 **(1)** Not later than 1 year after November 9, 1978, and from time to time thereafter, the Commission shall, after consultation with representatives of State regulatory authorities, electric utilities, owners of cogeneration facilities and owners of small power production facilities, and after public notice and a reasonable opportunity for interested persons (including State and Federal agencies) to submit oral as well as written data, views, and arguments, prescribe rules under which geothermal small power production facilities of not more than 80 megawatts capacity, qualifying cogeneration facilities, and qualifying small power production facilities are exempted in whole or part from the Federal Power Act [16 U.S.C. 791a et seq.], from the Public Utility Holding Company Act,2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 from State laws and regulations respecting the rates, or respecting the financial or organizational regulation, of electric utilities, or from any combination of the foregoing, if the Commission determines such exemption is necessary to encourage cogeneration and small power production.
 
-**(2)** No qualifying small power production facility (other than a qualifying small power production facility which is an eligible solar, wind, waste, or geothermal facility as defined in section 3(17)(E) of the Federal Power Act [16 U.S.C. 796(17)(E)]) which has a power production capacity which, together with any other facilities located at the same site (as determined by the Commission), exceeds 30 megawatts, or 80 megawatts for a qualifying small power production facility using geothermal energy as the primary energy source, may be exempted under rules under paragraph (1) from any provision of law or regulation referred to in paragraph (1), except that any qualifying small power production facility which produces electric energy solely by the use of biomass as a primary energy source, may be exempted by the Commission under such rules from the Public Utility Holding Company Act <sup>2</sup> and from State laws and regulations referred to in such paragraph (1).
+**(2)** No qualifying small power production facility (other than a qualifying small power production facility which is an eligible solar, wind, waste, or geothermal facility as defined in section 3(17)(E) of the Federal Power Act [16 U.S.C. 796(17)(E)]) which has a power production capacity which, together with any other facilities located at the same site (as determined by the Commission), exceeds 30 megawatts, or 80 megawatts for a qualifying small power production facility using geothermal energy as the primary energy source, may be exempted under rules under paragraph (1) from any provision of law or regulation referred to in paragraph (1), except that any qualifying small power production facility which produces electric energy solely by the use of biomass as a primary energy source, may be exempted by the Commission under such rules from the Public Utility Holding Company Act <sup>2</sup> and from State laws and regulations referred to in such paragraph (1).
 
 **(3)** No qualifying small power production facility or qualifying cogeneration facility may be exempted under this subsection from—
 
@@ -2280,7 +2280,7 @@ from State laws and regulations respecting the rates, or respecting the financia
 
 **(A)** The Commission may enforce the requirements of subsection (f) against any State regulatory authority or nonregulated electric utility. For purposes of any such enforcement, the requirements of subsection (f)(1) shall be treated as a rule enforceable under the Federal Power Act [16 U.S.C. 791a et seq.]. For purposes of any such action, a State regulatory authority or nonregulated electric utility shall be treated as a person within the meaning of the Federal Power Act. No enforcement action may be brought by the Commission under this section other than—
 
-**(i)** an action against the State regulatory authority or nonregulated electric utility for failure to comply with the requirements of subsection (f) <sup>1</sup> or
+**(i)** an action against the State regulatory authority or nonregulated electric utility for failure to comply with the requirements of subsection (f) <sup>1</sup> or
 
 **(ii)** an action under paragraph (1).
 
@@ -2308,9 +2308,9 @@ The project meets the terms and conditions set by fish and wildlife agencies und
 
 **(k) “New dam or diversion” defined**
 
-For purposes of this section, the term “new dam or diversion” means a dam or diversion which requires, for purposes of installing any hydroelectric power project, any construction, or enlargement of any impoundment or diversion structure (other than repairs or reconstruction or the addition of flashboards or similar adjustable devices) 3
+For purposes of this section, the term “new dam or diversion” means a dam or diversion which requires, for purposes of installing any hydroelectric power project, any construction, or enlargement of any impoundment or diversion structure (other than repairs or reconstruction or the addition of flashboards or similar adjustable devices) 3
 
-<sup>3</sup>  So in original. Probably should be followed by a period.
+<sup>3</sup> So in original. Probably should be followed by a period.
 
 **(l) Definitions**
 
@@ -2384,15 +2384,15 @@ Nothing in this subsection affects the rights or remedies of any party under any
 
 **(B)** had filed with the Commission a notice of self-certification, self-recertification or an application for Commission certification under 18 CFR 292.207 prior to the date on which the Commission issues the final rule required by paragraph (1).
 
-(Pub. L. 95–617, title II, § 210, Nov. 9, 1978, 92 Stat. 3144; Pub. L. 96–294, title VI, § 643(b), June 30, 1980, 94 Stat. 770; Pub. L. 99–495, § 8(a), Oct. 16, 1986, 100 Stat. 1249; Pub. L. 101–575, § 2, Nov. 15, 1990, 104 Stat. 2834; Pub. L. 109–58, title XII, § 1253(a), Aug. 8, 2005, 119 Stat. 967.)
+(Pub. L. 95–617, title II, § 210, Nov. 9, 1978, 92 Stat. 3144; Pub. L. 96–294, title VI, § 643(b), June 30, 1980, 94 Stat. 770; Pub. L. 99–495, § 8(a), Oct. 16, 1986, 100 Stat. 1249; Pub. L. 101–575, § 2, Nov. 15, 1990, 104 Stat. 2834; Pub. L. 109–58, title XII, § 1253(a), Aug. 8, 2005, 119 Stat. 967.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Power Act, referred to in subsecs. (e), (h), (j)(1), and (m)(7)(B), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to this chapter (§ 791a et seq.). Part I of the Federal Power Act is classified generally to subchapter I (§ 791a et seq.) of this chapter. Part II of the Federal Power Act is classified generally to this subchapter (§ 824 et seq.). For complete classification of this Act to the Code, see section 791a of this title and Tables.
+The Federal Power Act, referred to in subsecs. (e), (h), (j)(1), and (m)(7)(B), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to this chapter (§ 791a et seq.). Part I of the Federal Power Act is classified generally to subchapter I (§ 791a et seq.) of this chapter. Part II of the Federal Power Act is classified generally to this subchapter (§ 824 et seq.). For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
-The Public Utility Holding Company Act, referred to in subsec. (e), probably means the Public Utility Holding Company Act of 1935, title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
+The Public Utility Holding Company Act, referred to in subsec. (e), probably means the Public Utility Holding Company Act of 1935, title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
 
 The Electric Consumers Protection Act of 1986, referred to in subsec. (j)(1), is Pub. L. 99–495, Oct. 16, 1986, 100 Stat. 1243. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 791a of this title and Tables.
 
@@ -2412,17 +2412,17 @@ August 8, 2005, referred to in subsec. (n)(1)(A), was in the original “the dat
 
 1986—Subsecs. (j) to (*l*). Pub. L. 99–495 added subsecs. (j) and (k) and redesignated former subsec. (j) as (*l*).
 
-1980—Subsec. (a). Pub. L. 96–294, § 643(b)(1), inserted provisions relating to encouragement of geothermal small power production facilities.
+1980—Subsec. (a). Pub. L. 96–294, § 643(b)(1), inserted provisions relating to encouragement of geothermal small power production facilities.
 
-Subsec. (e)(1). Pub. L. 96–294, § 643(b)(2), inserted provisions relating to applicability to geothermal small power production facilities.
+Subsec. (e)(1). Pub. L. 96–294, § 643(b)(2), inserted provisions relating to applicability to geothermal small power production facilities.
 
-Subsec. (e)(2). Pub. L. 96–294, § 643(b)(3), inserted provisions respecting a qualifying small power production facility using geothermal energy as the primary energy source.
+Subsec. (e)(2). Pub. L. 96–294, § 643(b)(3), inserted provisions respecting a qualifying small power production facility using geothermal energy as the primary energy source.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–495, § 8(b), Oct. 16, 1986, 100 Stat. 1250, provided that:
+Pub. L. 99–495, § 8(b), Oct. 16, 1986, 100 Stat. 1250, provided that:
 
 > **“(1)** Subsection (j) of section 210 of the Public Utility Regulatory Policies Act of 1978 (as amended by subsection (a) of this section) [16 U.S.C. 824a–3(j)] shall apply to any project for which benefits under section 210 of the Public Utility Regulatory Policies Act of 1978 are sought and for which a license or exemption is issued by the Federal Energy Regulatory Commission after the enactment of this Act [Oct. 16, 1986], except as otherwise provided in paragraph (2), (3) or (4) of this subsection.
 
@@ -2444,11 +2444,11 @@ Amendment by Pub. L. 99–495 effective with respect to each license, permit, or
 
 **Calculation of Avoided Cost**
 
-Pub. L. 102–486, title XIII, § 1335, Oct. 24, 1992, 106 Stat. 2984, provided that: “Nothing in section 210 of the Public Utility Regulatory Policies Act of 1978 (Public Law 95–617) [16 U.S.C. 824a–3] requires a State regulatory authority or nonregulated electric utility to treat a cost reasonably identified to be incurred or to have been incurred in the construction or operation of a facility or a project which has been selected by the Department of Energy and provided Federal funding pursuant to the Clean Coal Program authorized by Public Law 98–473 [see Tables for classification] as an incremental cost of alternative electric energy.”
+Pub. L. 102–486, title XIII, § 1335, Oct. 24, 1992, 106 Stat. 2984, provided that: “Nothing in section 210 of the Public Utility Regulatory Policies Act of 1978 (Public Law 95–617) [16 U.S.C. 824a–3] requires a State regulatory authority or nonregulated electric utility to treat a cost reasonably identified to be incurred or to have been incurred in the construction or operation of a facility or a project which has been selected by the Department of Energy and provided Federal funding pursuant to the Clean Coal Program authorized by Public Law 98–473 [see Tables for classification] as an incremental cost of alternative electric energy.”
 
 **Applicability of 1980 Amendment to Facilities Using Solar Energy as Primary Energy Source**
 
-Pub. L. 100–202, § 101(d) [title III, § 310], Dec. 22, 1987, 101 Stat. 1329–104, 1329–126, provided that:
+Pub. L. 100–202, § 101(d) [title III, § 310], Dec. 22, 1987, 101 Stat. 1329–104, 1329–126, provided that:
 
 > **“(a)** The amendments made by section 643(b) of the Energy Security Act (Public Law 96–294) [amending this section] and any regulations issued to implement such amendment shall apply to qualifying small power production facilities (as such term is defined in the Federal Power Act [16 U.S.C. 791a et seq.]) using solar energy as the primary energy source to the same extent such amendments and regulations apply to qualifying small power production facilities using geothermal energy as the primary energy source, except that nothing in this Act [see Tables for classification] shall preclude the Federal Energy Regulatory Commission from revising its regulations to limit the availability of exemptions authorized under this Act as it determines to be required in the public interest and consistent with its obligations and duties under section 210 of the Public Utility Regulatory Policies Act of 1978 [this section].
 
@@ -2460,7 +2460,7 @@ Pub. L. 100–202, § 101(d) [title III, § 310], Dec. 22, 1987, 101 Stat. 1
 
 **Study and Report to Congressional Committees on Application of Provisions Relating to Cogeneration, Small Power Production, and Interconnection Authority to Hydroelectric Power Facilities**
 
-Pub. L. 99–495, § 8(d), Oct. 16, 1986, 100 Stat. 1251, provided that:
+Pub. L. 99–495, § 8(d), Oct. 16, 1986, 100 Stat. 1251, provided that:
 
 > **“(1)** The Commission shall conduct a study (in accordance with section 102(2)(C) of the National Environmental Policy Act of 1969 [42 U.S.C. 4332(2)(C)]) of whether the benefits of section 210 of the Public Utility Regulatory Policies Act of 1978 [16 U.S.C. 824a–3] and section 210 of the Federal Power Act [16 U.S.C. 824i] should be applied to hydroelectric power facilities utilizing new dams or diversions (within the meaning of section 210(k) of the Public Utility Regulatory Policies Act of 1978).
 
@@ -2476,7 +2476,7 @@ Pub. L. 99–495, § 8(d), Oct. 16, 1986, 100 Stat. 1251, provided that:
 
 **Moratorium on Application of This Section to New Dams**
 
-Pub. L. 99–495, § 8(e), Oct. 16, 1986, 100 Stat. 1251, provided that:
+Pub. L. 99–495, § 8(e), Oct. 16, 1986, 100 Stat. 1251, provided that:
 
 > “Notwithstanding the amendments made by subsection (a) of this section [amending section 824a–3 of this title], in the case of a project for which a license or exemption is issued after the enactment of this Act [Oct. 16, 1986], section 210 of the Public Utility Regulatory Policies Act of 1978 [16 U.S.C. 824a–3] shall not apply during the moratorium period if the project utilizes a new dam or diversion (as defined in section 210(k) of such Act) unless the project is either—
 
@@ -2490,7 +2490,7 @@ Pub. L. 99–495, § 8(e), Oct. 16, 1986, 100 Stat. 1251, provided that:
 
 For definitions of terms used in this section, see section 2602 of this title.
 
-### § 824a–4. Seasonal diversity electricity exchange
+### § 824a–4. Seasonal diversity electricity exchange
 
 **(a) Authority** The Secretary may acquire rights-of-way by purchase, including eminent domain, through North Dakota, South Dakota, and Nebraska for transmission facilities for the seasonal diversity exchange of electric power to and from Canada if he determines—
 
@@ -2504,7 +2504,7 @@ For definitions of terms used in this section, see section 2602 of this title.
 
 **(2)** after consultation with the Secretary of the Interior and the heads of other affected Federal agencies, that the Secretary of the Interior and the heads of such,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 other agencies concur in writing in the location of such portion of the transmission facilities as crosses Federal land under the jurisdiction of such Secretary or such other Federal agency, as the case may be.
 
@@ -2516,9 +2516,9 @@ Notwithstanding any transfer of functions under the first sentence of section 30
 
 **(c) Timely acquisition by other means**
 
-The Secretary may not acquire any rights-of-day 2
+The Secretary may not acquire any rights-of-day 2
 
-<sup>2</sup>  So in original. Probably should be “rights-of-way”.
+<sup>2</sup> So in original. Probably should be “rights-of-way”.
 
 under this section unless he determines that the holder or holders of a permit referred to in subsection (a)(1)(B) are unable to acquire such rights-of-way under State condemnation authority, or after reasonable opportunity for negotiation, without unreasonably delaying construction, taking into consideration the impact of such delay on completion of the facilities in a timely fashion.
 
@@ -2532,7 +2532,7 @@ under this section unless he determines that the holder or holders of a permit r
 
 This section shall not affect any Federal law governing Federal lands.
 
-(Pub. L. 95–617, title VI, § 602, Nov. 9, 1978, 92 Stat. 3164.)
+(Pub. L. 95–617, title VI, § 602, Nov. 9, 1978, 92 Stat. 3164.)
 
 **Editorial Notes**
 
@@ -2548,7 +2548,7 @@ Section was enacted as part of the Public Utility Regulatory Policies Act of 197
 
 For definitions of terms used in this section, see section 2602 of this title.
 
-### § 824b. Disposition of property; consolidations; purchase of securities
+### § 824b. Disposition of property; consolidations; purchase of securities
 
 **(a) Authorization**
 
@@ -2590,19 +2590,19 @@ For definitions of terms used in this section, see section 2602 of this title.
 
 The Commission may grant any application for an order under this section in whole or in part and upon such terms and conditions as it finds necessary or appropriate to secure the maintenance of adequate service and the coordination in the public interest of facilities subject to the jurisdiction of the Commission. The Commission may from time to time for good cause shown make such orders supplemental to any order made under this section as it may find necessary or appropriate.
 
-(June 10, 1920, ch. 285, pt. II, § 203, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 849; amended Pub. L. 109–58, title XII, § 1289(a), Aug. 8, 2005, 119 Stat. 982; Pub. L. 115–247, §§ 1, 2, Sept. 28, 2018, 132 Stat. 3152.)
+(June 10, 1920, ch. 285, pt. II, § 203, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 849; amended Pub. L. 109–58, title XII, § 1289(a), Aug. 8, 2005, 119 Stat. 982; Pub. L. 115–247, §§ 1, 2, Sept. 28, 2018, 132 Stat. 3152.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Public Utility Holding Company Act of 2005, referred to in subsec. (a)(6), is subtitle F of title XII of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 972, which is classified principally to part D (§ 16451 et seq.) of subchapter XII of chapter 149 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15801 of Title 42 and Tables.
+The Public Utility Holding Company Act of 2005, referred to in subsec. (a)(6), is subtitle F of title XII of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 972, which is classified principally to part D (§ 16451 et seq.) of subchapter XII of chapter 149 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15801 of Title 42 and Tables.
 
 **Amendments**
 
-2018—Subsec. (a)(1)(B). Pub. L. 115–247, § 1, added subpar. (B) and struck out former subpar. (B) which read as follows: “merge or consolidate, directly or indirectly, such facilities or any part thereof with those of any other person, by any means whatsoever;”.
+2018—Subsec. (a)(1)(B). Pub. L. 115–247, § 1, added subpar. (B) and struck out former subpar. (B) which read as follows: “merge or consolidate, directly or indirectly, such facilities or any part thereof with those of any other person, by any means whatsoever;”.
 
-Subsec. (a)(7). Pub. L. 115–247, § 2, added par. (7).
+Subsec. (a)(7). Pub. L. 115–247, § 2, added par. (7).
 
 2005—Subsec. (a). Pub. L. 109–58 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “No public utility shall sell, lease, or otherwise dispose of the whole of its facilities subject to the jurisdiction of the Commission, or any part thereof of a value in excess of $50,000, or by any means whatsoever, directly or indirectly, merge or consolidate such facilities or any part thereof with those of any other person, or purchase, acquire, or take any security of any other public utility, without first having secured an order of the Commission authorizing it to do so. Upon application for such approval the Commission shall give reasonable notice in writing to the Governor and State commission of each of the States in which the physical property affected, or any part thereof, is situated, and to such other persons as it may deem advisable. After notice and opportunity for hearing, if the Commission finds that the proposed disposition, consolidation, acquisition, or control will be consistent with the public interest, it shall approve the same.”
 
@@ -2610,17 +2610,17 @@ Subsec. (a)(7). Pub. L. 115–247, § 2, added par. (7).
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–247, § 3, Sept. 28, 2018, 132 Stat. 3152, provided that: “The amendment made by section 1 [amending this section] shall take effect 180 days after the date of enactment of this Act [Sept. 28, 2018].”
+Pub. L. 115–247, § 3, Sept. 28, 2018, 132 Stat. 3152, provided that: “The amendment made by section 1 [amending this section] shall take effect 180 days after the date of enactment of this Act [Sept. 28, 2018].”
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–58, title XII, § 1289(b), (c), Aug. 8, 2005, 119 Stat. 983, provided that:
+Pub. L. 109–58, title XII, § 1289(b), (c), Aug. 8, 2005, 119 Stat. 983, provided that:
 
 > **“(b) Effective Date.—** The amendments made by this section [amending this section] shall take effect 6 months after the date of enactment of this Act [Aug. 8, 2005].
 
 > **“(c) Transition Provision.—** The amendments made by subsection (a) [amending this section] shall not apply to any application under section 203 of the Federal Power Act (16 U.S.C. 824b) that was filed on or before the date of enactment of this Act [Aug. 8, 2005].”
 
-### § 824c. Issuance of securities; assumption of liabilities
+### § 824c. Issuance of securities; assumption of liabilities
 
 **(a) Authorization by Commission**
 
@@ -2654,15 +2654,15 @@ Nothing in this section shall be construed to imply any guarantee or obligation 
 
 Any public utility whose security issues are approved by the Commission under this section may file with the Securities and Exchange Commission duplicate copies of reports filed with the Federal Power Commission in lieu of the reports, information, and documents required under sections 77g, 78*l*, and 78m of title 15.
 
-(June 10, 1920, ch. 285, pt. II, § 204, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 850.)
+(June 10, 1920, ch. 285, pt. II, § 204, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 850.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Executive and administrative functions of Securities and Exchange Commission, with certain exceptions, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out in the Appendix to Title 5, Government Organization and Employees.
+Executive and administrative functions of Securities and Exchange Commission, with certain exceptions, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 824d. Rates and charges; schedules; suspension of new rates; automatic adjustment clauses
+### § 824d. Rates and charges; schedules; suspension of new rates; automatic adjustment clauses
 
 **(a) Just and reasonable rates**
 
@@ -2722,7 +2722,7 @@ if such clause or practice does not result in the economical purchase and use of
 
 If, pursuant to this subsection, a person seeks a rehearing under section 825*l*(a) of this title, and the Commission fails to act on the merits of the rehearing request by the date that is 30 days after the date of the rehearing request because the Commissioners are divided two against two, as a result of vacancy, incapacity, or recusal on the Commission, or if the Commission lacks a quorum, such person may appeal under section 825*l*(b) of this title.
 
-(June 10, 1920, ch. 285, pt. II, § 205, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 851; amended Pub. L. 95–617, title II, §§ 207(a), 208, Nov. 9, 1978, 92 Stat. 3142; Pub. L. 115–270, title III, § 3006, Oct. 23, 2018, 132 Stat. 3868.)
+(June 10, 1920, ch. 285, pt. II, § 205, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 851; amended Pub. L. 95–617, title II, §§ 207(a), 208, Nov. 9, 1978, 92 Stat. 3142; Pub. L. 115–270, title III, § 3006, Oct. 23, 2018, 132 Stat. 3868.)
 
 **Editorial Notes**
 
@@ -2730,9 +2730,9 @@ If, pursuant to this subsection, a person seeks a rehearing under section 825*l*
 
 2018—Subsec. (g). Pub. L. 115–270 added subsec. (g).
 
-1978—Subsec. (d). Pub. L. 95–617, § 207(a), substituted “sixty” for “thirty” in two places.
+1978—Subsec. (d). Pub. L. 95–617, § 207(a), substituted “sixty” for “thirty” in two places.
 
-Subsec. (f). Pub. L. 95–617, § 208, added subsec. (f).
+Subsec. (f). Pub. L. 95–617, § 208, added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2740,7 +2740,7 @@ Subsec. (f). Pub. L. 95–617, § 208, added subsec. (f).
 
 Section 207(b) of Pub. L. 95–617 directed chairman of Federal Energy Regulatory Commission, in consultation with Secretary, to conduct a study of legal requirements and administrative procedures involved in consideration and resolution of proposed wholesale electric rate increases under Federal Power Act, section 791a et seq. of this title, for purposes of providing for expeditious handling of hearings consistent with due process, preventing imposition of successive rate increases before they have been determined by Commission to be just and reasonable and otherwise lawful, and improving procedures designed to prohibit anticompetitive or unreasonable differences in wholesale and retail rates, or both, and that chairman report to Congress within nine months from Nov. 9, 1978, on results of study, on administrative actions taken as a result of this study, and on any recommendations for changes in existing law that will aid purposes of this section.
 
-### § 824e. Power of Commission to fix rates and charges; determination of cost of production or transmission
+### § 824e. Power of Commission to fix rates and charges; determination of cost of production or transmission
 
 **(a) Unjust or preferential rates, etc.; statement of reasons for changes; hearing; specification of issues**
 
@@ -2754,7 +2754,7 @@ Whenever the Commission institutes a proceeding under this section, the Commissi
 
 Notwithstanding subsection (b), in a proceeding commenced under this section involving two or more electric utility companies of a registered holding company, refunds which might otherwise be payable under subsection (b) shall not be ordered to the extent that such refunds would result from any portion of a Commission order that (1) requires a decrease in system production or transmission costs to be paid by one or more of such electric companies; and (2) is based upon a determination that the amount of such decrease should be paid through an increase in the costs to be paid by other electric utility companies of such registered holding company: *Provided*, That refunds, in whole or in part, may be ordered by the Commission if it determines that the registered holding company would not experience any reduction in revenues which results from an inability of an electric utility company of the holding company to recover such increase in costs for the period between the refund effective date and the effective date of the Commission’s order. For purposes of this subsection, the terms “electric utility companies” and “registered holding company” shall have the same meanings as provided in the Public Utility Holding Company Act of 1935, as amended.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(d) Investigation of costs**
 
@@ -2784,49 +2784,49 @@ The Commission upon its own motion, or upon the request of any State commission 
 
 **(C)** In the case of any Federal power marketing agency or the Tennessee Valley Authority, the Commission shall not assert or exercise any regulatory authority or power under paragraph (2) other than the ordering of refunds to achieve a just and reasonable rate.
 
-(June 10, 1920, ch. 285, pt. II, § 206, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 852; amended Pub. L. 100–473, § 2, Oct. 6, 1988, 102 Stat. 2299; Pub. L. 109–58, title XII, §§ 1285, 1286, 1295(b), Aug. 8, 2005, 119 Stat. 980, 981, 985.)
+(June 10, 1920, ch. 285, pt. II, § 206, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 852; amended Pub. L. 100–473, § 2, Oct. 6, 1988, 102 Stat. 2299; Pub. L. 109–58, title XII, §§ 1285, 1286, 1295(b), Aug. 8, 2005, 119 Stat. 980, 981, 985.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Public Utility Holding Company Act of 1935, referred to in subsec. (c), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
+The Public Utility Holding Company Act of 1935, referred to in subsec. (c), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
-2005—Subsec. (a). Pub. L. 109–58, § 1295(b)(1), substituted “hearing held” for “hearing had” in first sentence.
+2005—Subsec. (a). Pub. L. 109–58, § 1295(b)(1), substituted “hearing held” for “hearing had” in first sentence.
 
-Subsec. (b). Pub. L. 109–58, § 1295(b)(2), struck out “the public utility to make” before “refunds of any amounts paid” in seventh sentence.
+Subsec. (b). Pub. L. 109–58, § 1295(b)(2), struck out “the public utility to make” before “refunds of any amounts paid” in seventh sentence.
 
-Pub. L. 109–58, § 1285, in second sentence, substituted “the date of the filing of such complaint nor later than 5 months after the filing of such complaint” for “the date 60 days after the filing of such complaint nor later than 5 months after the expiration of such 60-day period”, in third sentence, substituted “the date of the publication” for “the date 60 days after the publication” and “5 months after the publication date” for “5 months after the expiration of such 60-day period”, and in fifth sentence, substituted “If no final decision is rendered by the conclusion of the 180-day period commencing upon initiation of a proceeding pursuant to this section, the Commission shall state the reasons why it has failed to do so and shall state its best estimate as to when it reasonably expects to make such decision” for “If no final decision is rendered by the refund effective date or by the conclusion of the 180-day period commencing upon initiation of a proceeding pursuant to this section, whichever is earlier, the Commission shall state the reasons why it has failed to do so and shall state its best estimate as to when it reasonably expects to make such decision”.
+Pub. L. 109–58, § 1285, in second sentence, substituted “the date of the filing of such complaint nor later than 5 months after the filing of such complaint” for “the date 60 days after the filing of such complaint nor later than 5 months after the expiration of such 60-day period”, in third sentence, substituted “the date of the publication” for “the date 60 days after the publication” and “5 months after the publication date” for “5 months after the expiration of such 60-day period”, and in fifth sentence, substituted “If no final decision is rendered by the conclusion of the 180-day period commencing upon initiation of a proceeding pursuant to this section, the Commission shall state the reasons why it has failed to do so and shall state its best estimate as to when it reasonably expects to make such decision” for “If no final decision is rendered by the refund effective date or by the conclusion of the 180-day period commencing upon initiation of a proceeding pursuant to this section, whichever is earlier, the Commission shall state the reasons why it has failed to do so and shall state its best estimate as to when it reasonably expects to make such decision”.
 
-Subsec. (e). Pub. L. 109–58, § 1286, added subsec. (e).
+Subsec. (e). Pub. L. 109–58, § 1286, added subsec. (e).
 
-1988—Subsec. (a). Pub. L. 100–473, § 2(1), inserted provisions for a statement of reasons for listed changes, hearings, and specification of issues.
+1988—Subsec. (a). Pub. L. 100–473, § 2(1), inserted provisions for a statement of reasons for listed changes, hearings, and specification of issues.
 
-Subsecs. (b) to (d). Pub. L. 100–473, § 2(2), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+Subsecs. (b) to (d). Pub. L. 100–473, § 2(2), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–473, § 4, Oct. 6, 1988, 102 Stat. 2300, provided that: “The amendments made by this Act [amending this section] are not applicable to complaints filed or motions initiated before the date of enactment of this Act [Oct. 6, 1988] pursuant to section 206 of the Federal Power Act [this section]: *Provided, however*, That such complaints may be withdrawn and refiled without prejudice.”
+Pub. L. 100–473, § 4, Oct. 6, 1988, 102 Stat. 2300, provided that: “The amendments made by this Act [amending this section] are not applicable to complaints filed or motions initiated before the date of enactment of this Act [Oct. 6, 1988] pursuant to section 206 of the Federal Power Act [this section]: *Provided, however*, That such complaints may be withdrawn and refiled without prejudice.”
 
 **Limitation on Authority Provided**
 
-Pub. L. 100–473, § 3, Oct. 6, 1988, 102 Stat. 2300, provided that: “Nothing in subsection (c) of section 206 of the Federal Power Act, as amended (16 U.S.C. 824e(c)) shall be interpreted to confer upon the Federal Energy Regulatory Commission any authority not granted to it elsewhere in such Act [16 U.S.C. 791a et seq.] to issue an order that (1) requires a decrease in system production or transmission costs to be paid by one or more electric utility companies of a registered holding company; and (2) is based upon a determination that the amount of such decrease should be paid through an increase in the costs to be paid by other electric utility companies of such registered holding company. For purposes of this section, the terms ‘electric utility companies’ and ‘registered holding company’ shall have the same meanings as provided in the Public Utility Holding Company Act of 1935, as amended [15 U.S.C. 79 et seq.].”
+Pub. L. 100–473, § 3, Oct. 6, 1988, 102 Stat. 2300, provided that: “Nothing in subsection (c) of section 206 of the Federal Power Act, as amended (16 U.S.C. 824e(c)) shall be interpreted to confer upon the Federal Energy Regulatory Commission any authority not granted to it elsewhere in such Act [16 U.S.C. 791a et seq.] to issue an order that (1) requires a decrease in system production or transmission costs to be paid by one or more electric utility companies of a registered holding company; and (2) is based upon a determination that the amount of such decrease should be paid through an increase in the costs to be paid by other electric utility companies of such registered holding company. For purposes of this section, the terms ‘electric utility companies’ and ‘registered holding company’ shall have the same meanings as provided in the Public Utility Holding Company Act of 1935, as amended [15 U.S.C. 79 et seq.].”
 
 **Study**
 
-Pub. L. 100–473, § 5, Oct. 6, 1988, 102 Stat. 2301, directed that, no earlier than three years and no later than four years after Oct. 6, 1988, Federal Energy Regulatory Commission perform a study of effect of amendments to this section, analyzing (1) impact, if any, of such amendments on cost of capital paid by public utilities, (2) any change in average time taken to resolve proceedings under this section, and (3) such other matters as Commission may deem appropriate in public interest, with study to be sent to Committee on Energy and Natural Resources of Senate and Committee on Energy and Commerce of House of Representatives.
+Pub. L. 100–473, § 5, Oct. 6, 1988, 102 Stat. 2301, directed that, no earlier than three years and no later than four years after Oct. 6, 1988, Federal Energy Regulatory Commission perform a study of effect of amendments to this section, analyzing (1) impact, if any, of such amendments on cost of capital paid by public utilities, (2) any change in average time taken to resolve proceedings under this section, and (3) such other matters as Commission may deem appropriate in public interest, with study to be sent to Committee on Energy and Natural Resources of Senate and Committee on Energy and Commerce of House of Representatives.
 
-### § 824f. Ordering furnishing of adequate service
+### § 824f. Ordering furnishing of adequate service
 
 Whenever the Commission, upon complaint of a State commission, after notice to each State commission and public utility affected and after opportunity for hearing, shall find that any interstate service of any public utility is inadequate or insufficient, the Commission shall determine the proper, adequate, or sufficient service to be furnished, and shall fix the same by its order, rule, or regulation: *Provided*, That the Commission shall have no authority to compel the enlargement of generating facilities for such purposes, nor to compel the public utility to sell or exchange energy when to do so would impair its ability to render adequate service to its customers.
 
-(June 10, 1920, ch. 285, pt. II, § 207, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 853.)
+(June 10, 1920, ch. 285, pt. II, § 207, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 853.)
 
-### § 824g. Ascertainment of cost of property and depreciation
+### § 824g. Ascertainment of cost of property and depreciation
 
 **(a) Investigation of property costs**
 
@@ -2836,9 +2836,9 @@ The Commission may investigate and ascertain the actual legitimate cost of the p
 
 Every public utility upon request shall file with the Commission an inventory of all or any part of its property and a statement of the original cost thereof, and shall keep the Commission informed regarding the cost of all additions, betterments, extensions, and new construction.
 
-(June 10, 1920, ch. 285, pt. II, § 208, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 853.)
+(June 10, 1920, ch. 285, pt. II, § 208, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 853.)
 
-### § 824h. References to State boards by Commission
+### § 824h. References to State boards by Commission
 
 **(a) Composition of boards; force and effect of proceedings**
 
@@ -2852,9 +2852,9 @@ The Commission may confer with any State commission regarding the relationship b
 
 The Commission shall make available to the several State commissions such information and reports as may be of assistance in State regulation of public utilities. Whenever the Commission can do so without prejudice to the efficient and proper conduct of its affairs, it may upon request from a State make available to such State as witnesses any of its trained rate, valuation, or other experts, subject to reimbursement to the Commission by such State of the compensation and traveling expenses of such witnesses. All sums collected hereunder shall be credited to the appropriation from which the amounts were expended in carrying out the provisions of this subsection.
 
-(June 10, 1920, ch. 285, pt. II, § 209, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 853.)
+(June 10, 1920, ch. 285, pt. II, § 209, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 853.)
 
-### § 824i. Interconnection authority
+### § 824i. Interconnection authority
 
 **(a) Powers of Commission; application by State regulatory authority**
 
@@ -2874,7 +2874,7 @@ The Commission shall make available to the several State commissions such inform
 
 **(1)** issue notice to each affected State regulatory authority, each affected electric utility, each affected Federal power marketing agency, each affected owner or operator of a cogeneration facility or of a small power production facility, and to the public.1
 
-<sup>1</sup>  So in original. The period probably should be a comma.
+<sup>1</sup> So in original. The period probably should be a comma.
 
 **(2)** afford an opportunity for an evidentiary hearing, and
 
@@ -2904,7 +2904,7 @@ The Commission may, on its own motion, after compliance with the requirements of
 
 **(2)** With respect to an order issued pursuant to an application of a qualifying cogenerator or qualifying small power producer under subsection (a)(1), the term “facilities of such applicant” means the qualifying cogeneration facilities or qualifying small power production facilities of the applicant, as specified in the application. With respect to an order issued pursuant to an application under subsection (a)(2), the term “facilities of such applicant” means the qualifying cogeneration facilities, qualifying small power production facilities, or the transmission facilities of an electric utility, as specified in the application. With respect to an order issued by the Commission on its own motion under subsection (d), such term means the qualifying cogeneration facilities, qualifying small power production facilities, or the transmission facilities of an electric utility, as specified in the proposed order.
 
-(June 10, 1920, ch. 285, pt. II, § 210, as added Pub. L. 95–617, title II, § 202, Nov. 9, 1978, 92 Stat. 3135; amended Pub. L. 96–294, title VI, § 643(a)(2), June 30, 1980, 94 Stat. 770.)
+(June 10, 1920, ch. 285, pt. II, § 210, as added Pub. L. 95–617, title II, § 202, Nov. 9, 1978, 92 Stat. 3135; amended Pub. L. 96–294, title VI, § 643(a)(2), June 30, 1980, 94 Stat. 770.)
 
 **Editorial Notes**
 
@@ -2918,7 +2918,7 @@ The Commission may, on its own motion, after compliance with the requirements of
 
 For provisions requiring the Federal Energy Regulatory Commission to conduct a study and report to Congress on whether the benefits of this section and section 824a–3 of this title should be applied to hydroelectric power facilities utilizing new dams or diversions, within the meaning of section 824a–3(k) of this title, see section 8(d) of Pub. L. 99–495, set out as a note under section 824a–3 of this title.
 
-### § 824j. Wheeling authority
+### § 824j. Wheeling authority
 
 **(a) Transmission service by any electric utility; notice, hearing and findings by Commission**
 
@@ -2938,9 +2938,9 @@ No order may be issued under this section or section 824i of this title if, afte
 
 **(1)** Any transmitting utility ordered under subsection (a) or (b) to provide transmission services may apply to the Commission for an order permitting such transmitting utility to cease providing all, or any portion of, such services. After public notice, notice to each affected State regulatory authority, each affected Federal power marketing agency, each affected transmitting utility, and each affected electric utility, and after an opportunity for an evidentiary hearing, the Commission shall issue an order terminating or modifying the order issued under subsection (a) or (b), if the transmitting utility providing such transmission services has demonstrated, and the Commission has found, that—
 
-**(A)** due to changed circumstances, the requirements applicable, under this section and section 824k of this title, to the issuance of an order under subsection (a) or (b) are no longer met, or 1
+**(A)** due to changed circumstances, the requirements applicable, under this section and section 824k of this title, to the issuance of an order under subsection (a) or (b) are no longer met, or 1
 
-<sup>1</sup>  So in original. The word “or” probably should not appear.
+<sup>1</sup> So in original. The word “or” probably should not appear.
 
 **(B)** any transmission capacity of the utility providing transmission services under such order which was, at the time such order was issued, in excess of the capacity necessary to serve its own customers is no longer in excess of the capacity necessary for such purposes, or
 
@@ -2968,19 +2968,19 @@ No order shall be issued under this subsection pursuant to a finding under subpa
 
 As used in this section, the term “facilities” means only facilities used for the generation or transmission of electric energy.
 
-(June 10, 1920, ch. 285, pt. II, § 211, as added Pub. L. 95–617, title II, § 203, Nov. 9, 1978, 92 Stat. 3136; amended Pub. L. 96–294, title VI, § 643(a)(3), June 30, 1980, 94 Stat. 770; Pub. L. 99–495, § 15, Oct. 16, 1986, 100 Stat. 1257; Pub. L. 102–486, title VII, § 721, Oct. 24, 1992, 106 Stat. 2915; Pub. L. 109–58, title XII, § 1295(c), Aug. 8, 2005, 119 Stat. 985.)
+(June 10, 1920, ch. 285, pt. II, § 211, as added Pub. L. 95–617, title II, § 203, Nov. 9, 1978, 92 Stat. 3136; amended Pub. L. 96–294, title VI, § 643(a)(3), June 30, 1980, 94 Stat. 770; Pub. L. 99–495, § 15, Oct. 16, 1986, 100 Stat. 1257; Pub. L. 102–486, title VII, § 721, Oct. 24, 1992, 106 Stat. 2915; Pub. L. 109–58, title XII, § 1295(c), Aug. 8, 2005, 119 Stat. 985.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2005—Subsec. (c). Pub. L. 109–58, § 1295(c)(1), struck out par. (2) designation before introductory provisions, redesignated former subpars. (A) and (B) as pars. (1) and (2), respectively, and in par. (2) substituted “termination or modification” for “termination of modification”.
+2005—Subsec. (c). Pub. L. 109–58, § 1295(c)(1), struck out par. (2) designation before introductory provisions, redesignated former subpars. (A) and (B) as pars. (1) and (2), respectively, and in par. (2) substituted “termination or modification” for “termination of modification”.
 
-Subsec. (d)(1). Pub. L. 109–58, § 1295(c)(2), substituted “if the transmitting utility providing” for “if the electric utility providing” in introductory provisions.
+Subsec. (d)(1). Pub. L. 109–58, § 1295(c)(2), substituted “if the transmitting utility providing” for “if the electric utility providing” in introductory provisions.
 
-1992—Subsec. (a). Pub. L. 102–486, § 721(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “Any electric utility, geothermal power producer (including a producer which is not an electric utility), or Federal power marketing agency may apply to the Commission for an order under this subsection requiring any other electric utility to provide transmission services to the applicant (including any enlargement of transmission capacity necessary to provide such services).”
+1992—Subsec. (a). Pub. L. 102–486, § 721(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “Any electric utility, geothermal power producer (including a producer which is not an electric utility), or Federal power marketing agency may apply to the Commission for an order under this subsection requiring any other electric utility to provide transmission services to the applicant (including any enlargement of transmission capacity necessary to provide such services).”
 
-Pub. L. 102–486, § 721(2), in second sentence, substituted “the Commission may issue such order if it finds that such order meets the requirements of section 824k of this title, and would otherwise be in the public interest. No order may be issued under this subsection unless the applicant has made a request for transmission services to the transmitting utility that would be the subject of such order at least 60 days prior to its filing of an application for such order.” for “the Commission may issue such order if it finds that such order—
+Pub. L. 102–486, § 721(2), in second sentence, substituted “the Commission may issue such order if it finds that such order meets the requirements of section 824k of this title, and would otherwise be in the public interest. No order may be issued under this subsection unless the applicant has made a request for transmission services to the transmitting utility that would be the subject of such order at least 60 days prior to its filing of an application for such order.” for “the Commission may issue such order if it finds that such order—
 
 “(1) is in the public interest,
 
@@ -2994,9 +2994,9 @@ Pub. L. 102–486, § 721(2), in second sentence, substituted “the Commissio
 
 “(3) meets the requirements of section 824k of this title.”
 
-Subsec. (b). Pub. L. 102–486, § 721(3), amended subsec. (b) generally, substituting provisions relating to reliability of electric service for provisions which related to transmission service by sellers of electric energy for resale and notice, hearing, and determinations by Commission.
+Subsec. (b). Pub. L. 102–486, § 721(3), amended subsec. (b) generally, substituting provisions relating to reliability of electric service for provisions which related to transmission service by sellers of electric energy for resale and notice, hearing, and determinations by Commission.
 
-Subsec. (c). Pub. L. 102–486, § 721(4), struck out pars. (1), (3), and (4), and substituted “which requires the transmitting” for “which requires the electric” in introductory provisions of par. (2). Prior to amendment, pars. (1), (3), and (4) read as follows:
+Subsec. (c). Pub. L. 102–486, § 721(4), struck out pars. (1), (3), and (4), and substituted “which requires the transmitting” for “which requires the electric” in introductory provisions of par. (2). Prior to amendment, pars. (1), (3), and (4) read as follows:
 
 “(1) No order may be issued under subsection (a) of this section unless the Commission determines that such order would reasonably preserve existing competitive relationships.
 
@@ -3004,7 +3004,7 @@ Subsec. (c). Pub. L. 102–486, § 721(4), struck out pars. (1), (3), and (4),
 
 “(4) No order may be issued under subsection (a) or (b) of this section which provides for the transmission of electric energy directly to an ultimate consumer.”
 
-Subsec. (d). Pub. L. 102–486, § 721(5), in first sentence substituted “transmitting” for “electric” before “utility” in two places, in second sentence inserted “each affected transmitting utility,” before “and each affected electric utility”, in par. (1) substituted “, or” for period at end of subpar. (B) and added subpar. (C), and in par. (3)(B) substituted “transmitting” for “electric” before “utility”.
+Subsec. (d). Pub. L. 102–486, § 721(5), in first sentence substituted “transmitting” for “electric” before “utility” in two places, in second sentence inserted “each affected transmitting utility,” before “and each affected electric utility”, in par. (1) substituted “, or” for period at end of subpar. (B) and added subpar. (C), and in par. (3)(B) substituted “transmitting” for “electric” before “utility”.
 
 1986—Subsec. (c)(2)(B). Pub. L. 99–495 inserted provisions that nothing in this subparagraph shall prevent an application for an order hereunder to be filed prior to termination or modification of an existing rate schedule, provided that such order shall not become effective until termination of such rate schedule or the modification becomes effective.
 
@@ -3020,7 +3020,7 @@ Amendment by Pub. L. 99–495 effective with respect to each license, permit, or
 
 Nothing in amendment by Pub. L. 102–486 to be construed as affecting or intending to affect, or in any way to interfere with, authority of any State or local government relating to environmental protection or siting of facilities, see section 731 of Pub. L. 102–486, set out as a note under section 796 of this title.
 
-### § 824j–1. Open access by unregulated transmitting utilities
+### § 824j–1. Open access by unregulated transmitting utilities
 
 **(a) Definition of unregulated transmitting utility** In this section, the term “unregulated transmitting utility” means an entity that—
 
@@ -3070,15 +3070,15 @@ The Commission may not require a State or municipality to take action under this
 
 Nothing in this section authorizes the Commission to require an unregulated transmitting utility to transfer control or operational control of its transmitting facilities to a Transmission Organization that is designated to provide nondiscriminatory transmission access.
 
-(June 10, 1920, ch. 285, pt. II, § 211A, as added Pub. L. 109–58, title XII, § 1231, Aug. 8, 2005, 119 Stat. 955.)
+(June 10, 1920, ch. 285, pt. II, § 211A, as added Pub. L. 109–58, title XII, § 1231, Aug. 8, 2005, 119 Stat. 955.)
 
-### § 824k. Orders requiring interconnection or wheeling
+### § 824k. Orders requiring interconnection or wheeling
 
 **(a) Rates, charges, terms, and conditions for wholesale transmission services**
 
 An order under section 824j of this title shall require the transmitting utility subject to the order to provide wholesale transmission services at rates, charges, terms, and conditions which permit the recovery by such utility of all the costs incurred in connection with the transmission services and necessary associated services, including, but not limited to, an appropriate share, if any, of legitimate, verifiable and economic costs, including taking into account any benefits to the transmission system of providing the transmission service, and the costs of any enlargement of transmission facilities. Such rates, charges, terms, and conditions shall promote the economically efficient transmission and generation of electricity and shall be just and reasonable, and not unduly discriminatory or preferential. Rates, charges, terms, and conditions for transmission services provided pursuant to an order under section 824j of this title shall ensure that, to the extent practicable, costs incurred in providing the wholesale transmission services, and properly allocable to the provision of such services, are recovered from the applicant for such order and not from a transmitting utility’s existing wholesale, retail, and transmission customers.
 
-**(b) Repealed. Pub. L. 102–486, title VII, § 722(1), Oct. 24, 1992, 106 Stat. 2916**
+**(b) Repealed. Pub. L. 102–486, title VII, § 722(1), Oct. 24, 1992, 106 Stat. 2916**
 
 **(c) Issuance of proposed order; agreement by parties to terms and conditions of order; approval by Commission; inclusion in final order; failure to agree**
 
@@ -3174,27 +3174,27 @@ Any order under section 824j of this title requiring provision of transmission s
 
 **(B)** the term “ERCOT utility” means a transmitting utility which is a member of ERCOT.
 
-(June 10, 1920, ch. 285, pt. II, § 212, as added Pub. L. 95–617, title II, § 204(a), Nov. 9, 1978, 92 Stat. 3138; amended Pub. L. 102–486, title VII, § 722, Oct. 24, 1992, 106 Stat. 2916.)
+(June 10, 1920, ch. 285, pt. II, § 212, as added Pub. L. 95–617, title II, § 204(a), Nov. 9, 1978, 92 Stat. 3138; amended Pub. L. 102–486, title VII, § 722, Oct. 24, 1992, 106 Stat. 2916.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The TVA Act, referred to in subsec. (f)(1), means act May 18, 1933, ch. 32, 48 Stat. 58, known as the Tennessee Valley Authority Act of 1933, which is classified generally to chapter 12A (§ 831 et seq.) of this title. For complete classification of this Act to the Code, see section 831 of this title and Tables.
+The TVA Act, referred to in subsec. (f)(1), means act May 18, 1933, ch. 32, 48 Stat. 58, known as the Tennessee Valley Authority Act of 1933, which is classified generally to chapter 12A (§ 831 et seq.) of this title. For complete classification of this Act to the Code, see section 831 of this title and Tables.
 
-The Rural Electrification Act of 1936, referred to in subsec. (h)(2)(A), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
+The Rural Electrification Act of 1936, referred to in subsec. (h)(2)(A), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
 
 The Energy Policy Act of 1992, referred to in subsec. (i)(2)(A)(III), (B)(i), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776. For complete classification of this Act to the Code, see Short Title note set out under section 13201 of Title 42, The Public Health and Welfare and Tables.
 
 **Amendments**
 
-1992—Subsec. (a). Pub. L. 102–486, § 722(1), added subsec. (a) and struck out former subsec. (a) which related to determinations by Commission.
+1992—Subsec. (a). Pub. L. 102–486, § 722(1), added subsec. (a) and struck out former subsec. (a) which related to determinations by Commission.
 
-Subsec. (b). Pub. L. 102–486, § 722(1), struck out subsec. (b) which required applicants for orders to be ready, willing, and able to reimburse parties subject to such orders.
+Subsec. (b). Pub. L. 102–486, § 722(1), struck out subsec. (b) which required applicants for orders to be ready, willing, and able to reimburse parties subject to such orders.
 
-Subsec. (e). Pub. L. 102–486, § 722(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to utilization of interconnection or wheeling authority in lieu of other authority and limitation of Commission authority.
+Subsec. (e). Pub. L. 102–486, § 722(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to utilization of interconnection or wheeling authority in lieu of other authority and limitation of Commission authority.
 
-Subsecs. (g) to (k). Pub. L. 102–486, § 722(3), added subsecs. (g) to (k).
+Subsecs. (g) to (k). Pub. L. 102–486, § 722(3), added subsecs. (g) to (k).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3202,7 +3202,7 @@ Subsecs. (g) to (k). Pub. L. 102–486, § 722(3), added subsecs. (g) to (k).
 
 Nothing in amendment by Pub. L. 102–486 to be construed as affecting or intending to affect, or in any way to interfere with, authority of any State or local government relating to environmental protection or siting of facilities, see section 731 of Pub. L. 102–486, set out as a note under section 796 of this title.
 
-### § 824l. Information requirements
+### § 824l. Information requirements
 
 **(a) Requests for wholesale transmission services**
 
@@ -3212,7 +3212,7 @@ Whenever any electric utility, Federal power marketing agency, or any other pers
 
 Not later than 1 year after October 24, 1992, the Commission shall promulgate a rule requiring that information be submitted annually to the Commission by transmitting utilities which is adequate to inform potential transmission customers, State regulatory authorities, and the public of potentially available transmission capacity and known constraints.
 
-(June 10, 1920, ch. 285, pt. II, § 213, as added Pub. L. 102–486, title VII, § 723, Oct. 24, 1992, 106 Stat. 2919.)
+(June 10, 1920, ch. 285, pt. II, § 213, as added Pub. L. 102–486, title VII, § 723, Oct. 24, 1992, 106 Stat. 2919.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3220,13 +3220,13 @@ Not later than 1 year after October 24, 1992, the Commission shall promulgate a 
 
 Nothing in this section to be construed as affecting or intending to affect, or in any way to interfere with, authority of any State or local government relating to environmental protection or siting of facilities, see section 731 of Pub. L. 102–486, set out as a note under section 796 of this title.
 
-### § 824m. Sales by exempt wholesale generators
+### § 824m. Sales by exempt wholesale generators
 
 No rate or charge received by an exempt wholesale generator for the sale of electric energy shall be lawful under section 824d of this title if, after notice and opportunity for hearing, the Commission finds that such rate or charge results from the receipt of any undue preference or advantage from an electric utility which is an associate company or an affiliate of the exempt wholesale generator. For purposes of this section, the terms “associate company” and “affiliate” shall have the same meaning as provided in section 16451 of title 42.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(June 10, 1920, ch. 285, pt. II, § 214, as added Pub. L. 102–486, title VII, § 724, Oct. 24, 1992, 106 Stat. 2920; amended Pub. L. 109–58, title XII, § 1277(b)(2), Aug. 8, 2005, 119 Stat. 978.)
+(June 10, 1920, ch. 285, pt. II, § 214, as added Pub. L. 102–486, title VII, § 724, Oct. 24, 1992, 106 Stat. 2920; amended Pub. L. 109–58, title XII, § 1277(b)(2), Aug. 8, 2005, 119 Stat. 978.)
 
 **Editorial Notes**
 
@@ -3248,11 +3248,11 @@ Amendment by Pub. L. 109–58 effective 6 months after Aug. 8, 2005, with provis
 
 Nothing in this section to be construed as affecting or intending to affect, or in any way to interfere with, authority of any State or local government relating to environmental protection or siting of facilities, see section 731 of Pub. L. 102–486, set out as a note under section 796 of this title.
 
-### § 824n. Repealed. Pub. L. 109–58, title XII, § 1232(e)(3), Aug. 8, 2005, 119 Stat. 957
+### § 824n. Repealed. Pub. L. 109–58, title XII, § 1232(e)(3), Aug. 8, 2005, 119 Stat. 957
 
-Section, Pub. L. 106–377, § 1(a)(2) [title III, § 311], Oct. 27, 2000, 114 Stat. 1441, 1441A–80, related to authority regarding formation and operation of regional transmission organizations.
+Section, Pub. L. 106–377, § 1(a)(2) [title III, § 311], Oct. 27, 2000, 114 Stat. 1441, 1441A–80, related to authority regarding formation and operation of regional transmission organizations.
 
-### § 824o. Electric reliability
+### § 824o. Electric reliability
 
 **(a) Definitions** For purposes of this section:
 
@@ -3386,19 +3386,19 @@ The Commission shall establish a regional advisory body on the petition of at le
 
 The provisions of this section do not apply to Alaska or Hawaii.
 
-(June 10, 1920, ch. 285, pt. II, § 215, as added Pub. L. 109–58, title XII, § 1211(a), Aug. 8, 2005, 119 Stat. 941.)
+(June 10, 1920, ch. 285, pt. II, § 215, as added Pub. L. 109–58, title XII, § 1211(a), Aug. 8, 2005, 119 Stat. 941.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Status of ERO**
 
-Pub. L. 109–58, title XII, § 1211(b), Aug. 8, 2005, 119 Stat. 946, provided that: “The Electric Reliability Organization certified by the Federal Energy Regulatory Commission under section 215(c) of the Federal Power Act [16 U.S.C. 824*o*(c)] and any regional entity delegated enforcement authority pursuant to section 215(e)(4) of that Act [16 U.S.C. 824*o*(e)(4)] are not departments, agencies, or instrumentalities of the United States Government.”
+Pub. L. 109–58, title XII, § 1211(b), Aug. 8, 2005, 119 Stat. 946, provided that: “The Electric Reliability Organization certified by the Federal Energy Regulatory Commission under section 215(c) of the Federal Power Act [16 U.S.C. 824*o*(c)] and any regional entity delegated enforcement authority pursuant to section 215(e)(4) of that Act [16 U.S.C. 824*o*(e)(4)] are not departments, agencies, or instrumentalities of the United States Government.”
 
 **Access Approvals by Federal Agencies**
 
-Pub. L. 109–58, title XII, § 1211(c), Aug. 8, 2005, 119 Stat. 946, provided that: “Federal agencies responsible for approving access to electric transmission or distribution facilities located on lands within the United States shall, in accordance with applicable law, expedite any Federal agency approvals that are necessary to allow the owners or operators of such facilities to comply with any reliability standard, approved by the [Federal Energy Regulatory] Commission under section 215 of the Federal Power Act [16 U.S.C. 824*o*], that pertains to vegetation management, electric service restoration, or resolution of situations that imminently endanger the reliability or safety of the facilities.”
+Pub. L. 109–58, title XII, § 1211(c), Aug. 8, 2005, 119 Stat. 946, provided that: “Federal agencies responsible for approving access to electric transmission or distribution facilities located on lands within the United States shall, in accordance with applicable law, expedite any Federal agency approvals that are necessary to allow the owners or operators of such facilities to comply with any reliability standard, approved by the [Federal Energy Regulatory] Commission under section 215 of the Federal Power Act [16 U.S.C. 824*o*], that pertains to vegetation management, electric service restoration, or resolution of situations that imminently endanger the reliability or safety of the facilities.”
 
-### § 824o–1. Critical electric infrastructure security
+### § 824o–1. Critical electric infrastructure security
 
 **(a) Definitions** For purposes of this section:
 
@@ -3586,9 +3586,9 @@ No cause of action shall lie or be maintained in any Federal or State court for 
 
 Nothing in this subsection shall be construed to require dismissal of a cause of action against an entity that, in the course of complying with an order for emergency measures issued under subsection (b)(1) by taking an action or omission for which they would be liable but for paragraph (1) or (2), takes such action or omission in a grossly negligent manner.
 
-(June 10, 1920, ch. 285, pt. II, § 215A, as added Pub. L. 114–94, div. F, § 61003(a), Dec. 4, 2015, 129 Stat. 1773.)
+(June 10, 1920, ch. 285, pt. II, § 215A, as added Pub. L. 114–94, div. F, § 61003(a), Dec. 4, 2015, 129 Stat. 1773.)
 
-### § 824p. Siting of interstate electric transmission facilities
+### § 824p. Siting of interstate electric transmission facilities
 
 **(a) Designation of national interest electric transmission corridors**
 
@@ -3596,15 +3596,15 @@ Nothing in this subsection shall be construed to require dismissal of a cause of
 
 **(2)** Not less frequently than once every 3 years, the Secretary, after considering alternatives and recommendations from interested parties (including an opportunity for comment from affected States and Indian Tribes), shall issue a report, based on the study under paragraph (1) or other information relating to electric transmission capacity constraints and congestion, which may designate as a national interest electric transmission corridor any geographic area that—
 
-**(i)**  1
+**(i)** 1
 
-<sup>1</sup>  So in original. Probably should be “(A)”.
+<sup>1</sup> So in original. Probably should be “(A)”.
 
 is experiencing electric energy transmission capacity constraints or congestion that adversely affects consumers; or
 
-**(ii)**  2
+**(ii)** 2
 
-<sup>2</sup>  So in original. Probably should be “(B)”.
+<sup>2</sup> So in original. Probably should be “(B)”.
 
 is expected to experience such energy transmission capacity constraints or congestion.
 
@@ -3738,9 +3738,9 @@ Nothing in this section precludes any person from constructing or modifying any 
 
 **(A)** As lead agency head, the Secretary, in consultation with the affected agencies, shall prepare a single environmental review document, which shall be used as the basis for all decisions on the proposed project under Federal law.
 
-**(B)** The Secretary and the heads of other agencies shall streamline the review and permitting of transmission within corridors designated under section 503 of the Federal Land Policy and Management Act 3
+**(B)** The Secretary and the heads of other agencies shall streamline the review and permitting of transmission within corridors designated under section 503 of the Federal Land Policy and Management Act 3
 
-<sup>3</sup>  So in original. Probably should be followed by “of 1976”.
+<sup>3</sup> So in original. Probably should be followed by “of 1976”.
 
 (43 U.S.C. 1763) by fully taking into account prior analyses and decisions relating to the corridors.
 
@@ -3828,7 +3828,7 @@ Nothing in this section precludes any person from constructing or modifying any 
 
 This section shall not apply within the area referred to in section 824k(k)(2)(A) of this title.
 
-(June 10, 1920, ch. 285, pt. II, § 216, as added Pub. L. 109–58, title XII, § 1221(a), Aug. 8, 2005, 119 Stat. 946; amended Pub. L. 117–58, div. D, title I, § 40105, Nov. 15, 2021, 135 Stat. 933.)
+(June 10, 1920, ch. 285, pt. II, § 216, as added Pub. L. 109–58, title XII, § 1221(a), Aug. 8, 2005, 119 Stat. 946; amended Pub. L. 117–58, div. D, title I, § 40105, Nov. 15, 2021, 135 Stat. 933.)
 
 **Editorial Notes**
 
@@ -3836,35 +3836,35 @@ This section shall not apply within the area referred to in section 824k(k)(2)(A
 
 The National Forest Management Act of 1976, referred to in subsec. (h)(6)(D)(i), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (h)(6)(D)(ii), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (h)(6)(D)(ii), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The Federal Water Pollution Control Act, referred to in subsec. (h)(6)(D)(iii), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (h)(6)(D)(iii), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (h)(6)(D)(iv) and (j), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (h)(6)(D)(iv) and (j), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (h)(6)(D)(v), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (h)(6)(D)(v), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
 **Amendments**
 
-2021—Subsec. (a)(1). Pub. L. 117–58, § 40105(a)(1), inserted “and Indian Tribes” after “affected States” and “capacity constraints and” before “congestion”.
+2021—Subsec. (a)(1). Pub. L. 117–58, § 40105(a)(1), inserted “and Indian Tribes” after “affected States” and “capacity constraints and” before “congestion”.
 
-Subsec. (a)(2). Pub. L. 117–58, § 40105(a)(2), substituted “Not less frequently than once every 3 years, the Secretary, after” for “After” and “affected States and Indian Tribes), shall issue a report, based on the study under paragraph (1) or other information relating to electric transmission capacity constraints and congestion, which may designate as a national interest electric transmission corridor any geographic area that—” for “affected States), the Secretary shall issue a report, based on the study, which may designate any geographic area experiencing electric energy transmission capacity constraints or congestion that adversely affects consumers as a national interest electric transmission corridor.” and added subpars. (i) and (ii).
+Subsec. (a)(2). Pub. L. 117–58, § 40105(a)(2), substituted “Not less frequently than once every 3 years, the Secretary, after” for “After” and “affected States and Indian Tribes), shall issue a report, based on the study under paragraph (1) or other information relating to electric transmission capacity constraints and congestion, which may designate as a national interest electric transmission corridor any geographic area that—” for “affected States), the Secretary shall issue a report, based on the study, which may designate any geographic area experiencing electric energy transmission capacity constraints or congestion that adversely affects consumers as a national interest electric transmission corridor.” and added subpars. (i) and (ii).
 
-Subsec. (a)(3). Pub. L. 117–58, § 40105(a)(3), substituted “Not less frequently than once every 3 years, the Secretary, in conducting the study under paragraph (1) and issuing the report under paragraph (2), shall consult” for “The Secretary shall conduct the study and issue the report in consultation”.
+Subsec. (a)(3). Pub. L. 117–58, § 40105(a)(3), substituted “Not less frequently than once every 3 years, the Secretary, in conducting the study under paragraph (1) and issuing the report under paragraph (2), shall consult” for “The Secretary shall conduct the study and issue the report in consultation”.
 
-Subsec. (a)(4)(C). Pub. L. 117–58, § 40105(a)(4)(A), inserted “or energy security” after “independence”.
+Subsec. (a)(4)(C). Pub. L. 117–58, § 40105(a)(4)(A), inserted “or energy security” after “independence”.
 
-Subsec. (a)(4)(F) to (H). Pub. L. 117–58, § 40105(a)(4)(B)–(D), added subpars. (F) to (H).
+Subsec. (a)(4)(F) to (H). Pub. L. 117–58, § 40105(a)(4)(B)–(D), added subpars. (F) to (H).
 
-Subsec. (b)(1)(A)(ii). Pub. L. 117–58, § 40105(b)(1)(A), inserted “or interregional benefits” after “interstate benefits”.
+Subsec. (b)(1)(A)(ii). Pub. L. 117–58, § 40105(b)(1)(A), inserted “or interregional benefits” after “interstate benefits”.
 
-Subsec. (b)(1)(C). Pub. L. 117–58, § 40105(b)(1)(B), added subpar. (C) and struck out former subpar. (C) which related to State commission or other authority withholding approval of construction or giving conditional approval that will not result in significant reduction of transmission congestion in interstate commerce or is not economically feasible.
+Subsec. (b)(1)(C). Pub. L. 117–58, § 40105(b)(1)(B), added subpar. (C) and struck out former subpar. (C) which related to State commission or other authority withholding approval of construction or giving conditional approval that will not result in significant reduction of transmission congestion in interstate commerce or is not economically feasible.
 
-Subsec. (e)(1). Pub. L. 117–58, § 40105(c), substituted “modify, and operate and maintain, the transmission facilities and, in the determination of the Commission, the permit holder has made good faith efforts to engage with landowners and other stakeholders early in the applicable permitting process, the” for “modify the transmission facilities, the”.
+Subsec. (e)(1). Pub. L. 117–58, § 40105(c), substituted “modify, and operate and maintain, the transmission facilities and, in the determination of the Commission, the permit holder has made good faith efforts to engage with landowners and other stakeholders early in the applicable permitting process, the” for “modify the transmission facilities, the”.
 
-Subsec. (i)(2). Pub. L. 117–58, § 40105(d)(1), substituted “shall provide” for “may provide”.
+Subsec. (i)(2). Pub. L. 117–58, § 40105(d)(1), substituted “shall provide” for “may provide”.
 
-Subsec. (i)(4). Pub. L. 117–58, § 40105(d)(2), substituted “the Secretary determines that the members of the compact are in disagreement after the later of—” and subpars. (A) and (B) for “the members of the compact are in disagreement and the Secretary makes, after notice and an opportunity for a hearing, the finding described in subsection (b)(1)(C).”
+Subsec. (i)(4). Pub. L. 117–58, § 40105(d)(2), substituted “the Secretary determines that the members of the compact are in disagreement after the later of—” and subpars. (A) and (B) for “the members of the compact are in disagreement and the Secretary makes, after notice and an opportunity for a hearing, the finding described in subsection (b)(1)(C).”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3872,7 +3872,7 @@ Subsec. (i)(4). Pub. L. 117–58, § 40105(d)(2), substituted “the Secretary
 
 For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
 
-### § 824q. Native load service obligation
+### § 824q. Native load service obligation
 
 **(a) Definitions** In this section:
 
@@ -3904,9 +3904,9 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
 **(c) Allocation of transmission rights**
 
-Nothing in subsections (b)(1), (b)(2), and (b)(3) of this section shall affect any existing or future methodology employed by a Transmission Organization for allocating or auctioning transmission rights if such Transmission Organization was authorized by the Commission to allocate or auction financial transmission rights on its system as of January 1, 2005, and the Commission determines that any future allocation or auction is just, reasonable and not unduly discriminatory or preferential, provided, however, that if such a Transmission Organization never allocated financial transmission rights on its system that pertained to a period before January 1, 2005, with respect to any application by such Transmission Organization that would change its methodology the Commission shall exercise its authority in a manner consistent with the 1
+Nothing in subsections (b)(1), (b)(2), and (b)(3) of this section shall affect any existing or future methodology employed by a Transmission Organization for allocating or auctioning transmission rights if such Transmission Organization was authorized by the Commission to allocate or auction financial transmission rights on its system as of January 1, 2005, and the Commission determines that any future allocation or auction is just, reasonable and not unduly discriminatory or preferential, provided, however, that if such a Transmission Organization never allocated financial transmission rights on its system that pertained to a period before January 1, 2005, with respect to any application by such Transmission Organization that would change its methodology the Commission shall exercise its authority in a manner consistent with the 1
 
-<sup>1</sup>  So in original. Probably should be “this”.
+<sup>1</sup> So in original. Probably should be “this”.
 
 chapter and that takes into account the policies expressed in subsections (b)(1), (b)(2), and (b)(3) as applied to firm transmission rights held by a load-serving entity as of January 1, 2005, to the extent the associated generation ownership or power purchase arrangements remain in effect.
 
@@ -3946,15 +3946,15 @@ This section does not authorize the Commission to take any action not otherwise 
 
 An entity that to the extent required to meet its service obligations exercises rights described in subsection (b) shall not be considered by such action as engaging in undue discrimination or preference under this chapter.
 
-(June 10, 1920, ch. 285, pt. II, § 217, as added Pub. L. 109–58, title XII, § 1233(a), Aug. 8, 2005, 119 Stat. 957.)
+(June 10, 1920, ch. 285, pt. II, § 217, as added Pub. L. 109–58, title XII, § 1233(a), Aug. 8, 2005, 119 Stat. 957.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **FERC Rulemaking on Long-Term Transmission Rights in Organized Markets**
 
-Pub. L. 109–58, title XII, § 1233(b), Aug. 8, 2005, 119 Stat. 960, provided that: “Within 1 year after the date of enactment of this section [Aug. 8, 2005] and after notice and an opportunity for comment, the [Federal Energy Regulatory] Commission shall by rule or order, implement section 217(b)(4) of the Federal Power Act [16 U.S.C. 824q(b)(4)] in Transmission Organizations, as defined by that Act [16 U.S.C. 791a et seq.] with organized electricity markets.”
+Pub. L. 109–58, title XII, § 1233(b), Aug. 8, 2005, 119 Stat. 960, provided that: “Within 1 year after the date of enactment of this section [Aug. 8, 2005] and after notice and an opportunity for comment, the [Federal Energy Regulatory] Commission shall by rule or order, implement section 217(b)(4) of the Federal Power Act [16 U.S.C. 824q(b)(4)] in Transmission Organizations, as defined by that Act [16 U.S.C. 791a et seq.] with organized electricity markets.”
 
-### § 824r. Protection of transmission contracts in the Pacific Northwest
+### § 824r. Protection of transmission contracts in the Pacific Northwest
 
 **(a) Definition of electric utility or person** In this section, the term “electric utility or person” means an electric utility or person that—
 
@@ -3972,9 +3972,9 @@ Pub. L. 109–58, title XII, § 1233(b), Aug. 8, 2005, 119 Stat. 960, provided
 
 **(2)** firm transmission rights obtained by exercising contract or tariff rights associated with the firm transmission rights described in subsection (a).
 
-(June 10, 1920, ch. 285, pt. II, § 218, as added Pub. L. 109–58, title XII, § 1235, Aug. 8, 2005, 119 Stat. 960.)
+(June 10, 1920, ch. 285, pt. II, § 218, as added Pub. L. 109–58, title XII, § 1235, Aug. 8, 2005, 119 Stat. 960.)
 
-### § 824s. Transmission infrastructure investment
+### § 824s. Transmission infrastructure investment
 
 **(a) Rulemaking requirement**
 
@@ -4002,9 +4002,9 @@ In the rule issued under this section, the Commission shall, to the extent withi
 
 All rates approved under the rules adopted pursuant to this section, including any revisions to the rules, are subject to the requirements of sections 824d and 824e of this title that all rates, charges, terms, and conditions be just and reasonable and not unduly discriminatory or preferential.
 
-(June 10, 1920, ch. 285, pt. II, § 219, as added Pub. L. 109–58, title XII, § 1241, Aug. 8, 2005, 119 Stat. 961.)
+(June 10, 1920, ch. 285, pt. II, § 219, as added Pub. L. 109–58, title XII, § 1241, Aug. 8, 2005, 119 Stat. 961.)
 
-### § 824s–1. Incentives for cybersecurity investments
+### § 824s–1. Incentives for cybersecurity investments
 
 **(a) Definitions** In this section:
 
@@ -4060,7 +4060,7 @@ The Commission shall permit public utilities to apply for incentive-based rate t
 
 Advanced cybersecurity technology information that is provided to, generated by, or collected by the Federal Government under subsection (b), (c), or (f) shall be considered to be critical electric infrastructure information under section 824*o*–1 of this title.
 
-(June 10, 1920, ch. 285, pt. II, § 219A, as added Pub. L. 117–58, div. D, title I, § 40123, Nov. 15, 2021, 135 Stat. 951; amended Pub. L. 117–263, div. G, title LXXI, § 7143(d)(2), Dec. 23, 2022, 136 Stat. 3663.)
+(June 10, 1920, ch. 285, pt. II, § 219A, as added Pub. L. 117–58, div. D, title I, § 40123, Nov. 15, 2021, 135 Stat. 951; amended Pub. L. 117–263, div. G, title LXXI, § 7143(d)(2), Dec. 23, 2022, 136 Stat. 3663.)
 
 **Editorial Notes**
 
@@ -4074,7 +4074,7 @@ Advanced cybersecurity technology information that is provided to, generated by,
 
 For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
 
-### § 824t. Electricity market transparency rules
+### § 824t. Electricity market transparency rules
 
 **(a) In general**
 
@@ -4116,21 +4116,21 @@ The Commission shall not require entities who have a de minimis market presence 
 
 This section shall not apply to a transaction for the purchase or sale of wholesale electric energy or transmission services within the area described in section 824k(k)(2)(A) of this title.
 
-(June 10, 1920, ch. 285, pt. II, § 220, as added Pub. L. 109–58, title XII, § 1281, Aug. 8, 2005, 119 Stat. 978.)
+(June 10, 1920, ch. 285, pt. II, § 220, as added Pub. L. 109–58, title XII, § 1281, Aug. 8, 2005, 119 Stat. 978.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Commodity Exchange Act, referred to in subsec. (c)(2), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in subsec. (c)(2), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
-### § 824u. Prohibition on filing false information
+### § 824u. Prohibition on filing false information
 
 No entity (including an entity described in section 824(f) of this title) shall willfully and knowingly report any information relating to the price of electricity sold at wholesale or the availability of transmission capacity, which information the person or any other entity knew to be false at the time of the reporting, to a Federal agency with intent to fraudulently affect the data being compiled by the Federal agency.
 
-(June 10, 1920, ch. 285, pt. II, § 221, as added Pub. L. 109–58, title XII, § 1282, Aug. 8, 2005, 119 Stat. 979.)
+(June 10, 1920, ch. 285, pt. II, § 221, as added Pub. L. 109–58, title XII, § 1282, Aug. 8, 2005, 119 Stat. 979.)
 
-### § 824v. Prohibition of energy market manipulation
+### § 824v. Prohibition of energy market manipulation
 
 **(a) In general**
 
@@ -4140,9 +4140,9 @@ It shall be unlawful for any entity (including an entity described in section 82
 
 Nothing in this section shall be construed to create a private right of action.
 
-(June 10, 1920, ch. 285, pt. II, § 222, as added Pub. L. 109–58, title XII, § 1283, Aug. 8, 2005, 119 Stat. 979.)
+(June 10, 1920, ch. 285, pt. II, § 222, as added Pub. L. 109–58, title XII, § 1283, Aug. 8, 2005, 119 Stat. 979.)
 
-### § 824w. Joint boards on economic dispatch
+### § 824w. Joint boards on economic dispatch
 
 **(a) In general**
 
@@ -4160,11 +4160,11 @@ The sole authority of each joint board convened under this section shall be to c
 
 Within 1 year after August 8, 2005, the Commission shall issue a report and submit such report to the Congress regarding the recommendations of the joint boards under this section and the Commission may consolidate the recommendations of more than one such regional joint board, including any consensus recommendations for statutory or regulatory reform.
 
-(June 10, 1920, ch. 285, pt. II, § 223, as added Pub. L. 109–58, title XII, § 1298, Aug. 8, 2005, 119 Stat. 986.)
+(June 10, 1920, ch. 285, pt. II, § 223, as added Pub. L. 109–58, title XII, § 1298, Aug. 8, 2005, 119 Stat. 986.)
 
 ## SUBCHAPTER III—LICENSEES AND PUBLIC UTILITIES; PROCEDURAL AND ADMINISTRATIVE PROVISIONS
 
-### § 825. Accounts and records
+### § 825. Accounts and records
 
 **(a) Duty to keep**
 
@@ -4178,31 +4178,31 @@ The Commission shall at all times have access to and the right to inspect and ex
 
 The books, accounts, memoranda, and records of any person who controls, directly or indirectly, a licensee or public utility subject to the jurisdiction of the Commission, and of any other company controlled by such person, insofar as they relate to transactions with or the business of such licensee or public utility, shall be subject to examination on the order of the Commission.
 
-(June 10, 1920, ch. 285, pt. III, § 301, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 854.)
+(June 10, 1920, ch. 285, pt. III, § 301, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 854.)
 
-### § 825a. Rates of depreciation; notice to State authorities before fixing
+### § 825a. Rates of depreciation; notice to State authorities before fixing
 
 **(a)** The Commission may, after hearing, require licensees and public utilities to carry a proper and adequate depreciation account in accordance with such rules, regulations, and forms of account as the Commission may prescribe. The Commission may, from time to time, ascertain and determine, and by order fix, the proper and adequate rates of depreciation of the several classes of property of each licensee and public utility. Each licensee and public utility shall conform its depreciation accounts to the rates so ascertained, determined, and fixed. The licensees and public utilities subject to the jurisdiction of the Commission shall not charge to operating expenses any depreciation charges on classes of property other than those prescribed by the Commission, or charge with respect to any class of property a percentage of depreciation other than that prescribed therefor by the Commission. No such licensee or public utility shall in any case include in any form under its operating or other expenses any depreciation or other charge or expenditure included elsewhere as a depreciation charge or otherwise under its operating or other expenses. Nothing in this section shall limit the power of a State commission to determine in the exercise of its jurisdiction, with respect to any public utility, the percentage rate of depreciation to be allowed, as to any class of property of such public utility, or the composite depreciation rate, for the purpose of determining rates or charges.
 
 **(b)** The Commission, before prescribing any rules or requirements as to accounts, records, or memoranda, or as to depreciation rates, shall notify each State commission having jurisdiction with respect to any public utility involved, and shall give reasonable opportunity to each such commission to present its views, and shall receive and consider such views and recommendations.
 
-(June 10, 1920, ch. 285, pt. III, § 302, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 855.)
+(June 10, 1920, ch. 285, pt. III, § 302, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 855.)
 
-### § 825b. Requirements applicable to agencies of United States
+### § 825b. Requirements applicable to agencies of United States
 
 All agencies of the United States engaged in the generation and sale of electric energy for ultimate distribution to the public shall be subject, as to all facilities used for such generation and sale, and as to the electric energy sold by such agency, to the provisions of sections 825 and 825a of this title, so far as may be practicable, and shall comply with the provisions of such sections and with the rules and regulations of the Commission thereunder to the same extent as may be required in the case of a public utility.
 
-(June 10, 1920, ch. 285, pt. III, § 303, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 855.)
+(June 10, 1920, ch. 285, pt. III, § 303, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 855.)
 
-### § 825c. Periodic and special reports; obstructing filing reports or keeping accounts, etc.
+### § 825c. Periodic and special reports; obstructing filing reports or keeping accounts, etc.
 
 **(a)** Every licensee and every public utility shall file with the Commission such annual and other periodic or special reports as the Commission may by rules and regulations or order prescribe as necessary or appropriate to assist the Commission in the proper administration of this chapter. The Commission may prescribe the manner and form in which such reports shall be made, and require from such persons specific answers to all questions upon which the Commission may need information. The Commission may require that such reports shall include, among other things, full information as to assets and liabilities, capitalization, net investment, and reduction thereof, gross receipts, interest due and paid, depreciation, and other reserves, cost of project and other facilities, cost of maintenance and operation of the project and other facilities, cost of renewals and replacement of the project works and other facilities, depreciation, generation, transmission, distribution, delivery, use, and sale of electric energy. The Commission may require any such person to make adequate provision for currently determining such costs and other facts. Such reports shall be made under oath unless the Commission otherwise specifies.
 
 **(b)** It shall be unlawful for any person willfully to hinder, delay, or obstruct the making, filing, or keeping of any information, document, report, memorandum, record, or account required to be made, filed, or kept under this chapter or any rule, regulation, or order thereunder.
 
-(June 10, 1920, ch. 285, pt. III, § 304, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 855.)
+(June 10, 1920, ch. 285, pt. III, § 304, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 855.)
 
-### § 825d. Officials dealing in securities
+### § 825d. Officials dealing in securities
 
 **(a) Benefits; making or declaring dividends out of capital account**
 
@@ -4258,15 +4258,15 @@ On or before January 31 of each calendar year, each public utility shall publish
 
 **(B)** The terms “holding company”, “registered holding company”, and “holding company system” have the same meaning as when used in the Public Utility Holding Company Act of 1935.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(June 10, 1920, ch. 285, pt. III, § 305, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 856; amended Pub. L. 95–617, title II, § 211(a), Nov. 9, 1978, 92 Stat. 3147; Pub. L. 106–102, title VII, § 737, Nov. 12, 1999, 113 Stat. 1479.)
+(June 10, 1920, ch. 285, pt. III, § 305, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 856; amended Pub. L. 95–617, title II, § 211(a), Nov. 9, 1978, 92 Stat. 3147; Pub. L. 106–102, title VII, § 737, Nov. 12, 1999, 113 Stat. 1479.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(3)(B), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
+The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(3)(B), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
@@ -4278,21 +4278,21 @@ The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(3)(B)
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–617, title II, § 211(b), Nov. 9, 1978, 92 Stat. 3147, provided that: “No person shall be required to file a statement under section 305(c)(1) of the Federal Power Act [subsec. (c)(1) of this section] before April 30 of the second calendar year which begins after the date of the enactment of this Act [Nov. 9, 1978] and no public utility shall be required to publish a list under section 305(c)(2) of such Act [subsec. (c)(2) of this section] before January 31 of such second calendar year.”
+Pub. L. 95–617, title II, § 211(b), Nov. 9, 1978, 92 Stat. 3147, provided that: “No person shall be required to file a statement under section 305(c)(1) of the Federal Power Act [subsec. (c)(1) of this section] before April 30 of the second calendar year which begins after the date of the enactment of this Act [Nov. 9, 1978] and no public utility shall be required to publish a list under section 305(c)(2) of such Act [subsec. (c)(2) of this section] before January 31 of such second calendar year.”
 
-### § 825e. Complaints
+### § 825e. Complaints
 
 Any person, electric utility, State, municipality, or State commission complaining of anything done or omitted to be done by any licensee, transmitting utility, or public utility in contravention of the provisions of this chapter may apply to the Commission by petition which shall briefly state the facts, whereupon a statement of the complaint thus made shall be forwarded by the Commission to such licensee, transmitting utility, or public utility, who shall be called upon to satisfy the complaint or to answer the same in writing within a reasonable time to be specified by the Commission. If such licensee, transmitting utility, or public utility shall not satisfy the complaint within the time specified or there shall appear to be any reasonable ground for investigating such complaint, it shall be the duty of the Commission to investigate the matters complained of in such manner and by such means as it shall find proper.
 
-(June 10, 1920, ch. 285, pt. III, § 306, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 856; amended Pub. L. 109–58, title XII, § 1284(a), Aug. 8, 2005, 119 Stat. 980.)
+(June 10, 1920, ch. 285, pt. III, § 306, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 856; amended Pub. L. 109–58, title XII, § 1284(a), Aug. 8, 2005, 119 Stat. 980.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2005—Pub. L. 109–58 inserted “electric utility,” after “Any person,” and “, transmitting utility,” after “licensee” wherever appearing.
+2005—Pub. L. 109–58 inserted “electric utility,” after “Any person,” and “, transmitting utility,” after “licensee” wherever appearing.
 
-### § 825f. Investigations by Commission
+### § 825f. Investigations by Commission
 
 **(a) Scope**
 
@@ -4318,13 +4318,13 @@ If a witness whose testimony may be desired to be taken by deposition be in a fo
 
 Witnesses whose depositions are taken as authorized in this chapter, and the person or officer taking the same, shall be entitled to the same fees as are paid for like services in the courts of the United States.
 
-(June 10, 1920, ch. 285, pt. III, § 307, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 856; amended Pub. L. 91–452, title II, § 221, Oct. 15, 1970, 84 Stat. 929; Pub. L. 109–58, title XII, § 1284(b), Aug. 8, 2005, 119 Stat. 980.)
+(June 10, 1920, ch. 285, pt. III, § 307, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 856; amended Pub. L. 91–452, title II, § 221, Oct. 15, 1970, 84 Stat. 929; Pub. L. 109–58, title XII, § 1284(b), Aug. 8, 2005, 119 Stat. 980.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2005—Subsec. (a). Pub. L. 109–58 inserted “, electric utility, transmitting utility, or other entity” after “person” in two places and inserted “, or in obtaining information about the sale of electric energy at wholesale in interstate commerce and the transmission of electric energy in interstate commerce” before period at end of first sentence.
+2005—Subsec. (a). Pub. L. 109–58 inserted “, electric utility, transmitting utility, or other entity” after “person” in two places and inserted “, or in obtaining information about the sale of electric energy at wholesale in interstate commerce and the transmission of electric energy in interstate commerce” before period at end of first sentence.
 
 1970—Subsec. (g). Pub. L. 91–452 struck out subsec. (g) which related to the immunity from prosecution of any individual compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
 
@@ -4334,31 +4334,31 @@ Witnesses whose depositions are taken as authorized in this chapter, and the per
 
 Amendment by Pub. L. 91–452 effective on 60th day following Oct. 15, 1970, and not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before 60th day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
 
-### § 825g. Hearings; rules of procedure
+### § 825g. Hearings; rules of procedure
 
 **(a)** Hearings under this chapter may be held before the Commission, any member or members thereof or any representative of the Commission designated by it, and appropriate records thereof shall be kept. In any proceeding before it, the Commission, in accordance with such rules and regulations as it may prescribe, may admit as a party any interested State, State commission, municipality, or any representative of interested consumers or security holders, or any competitor of a party to such proceeding, or any other person whose participation in the proceeding may be in the public interest.
 
 **(b)** All hearings, investigations, and proceedings under this chapter shall be governed by rules of practice and procedure to be adopted by the Commission, and in the conduct thereof the technical rules of evidence need not be applied. No informality in any hearing, investigation, or proceeding or in the manner of taking testimony shall invalidate any order, decision, rule, or regulation issued under the authority of this chapter.
 
-(June 10, 1920, ch. 285, pt. III, § 308, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 858.)
+(June 10, 1920, ch. 285, pt. III, § 308, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 858.)
 
-### § 825h. Administrative powers of Commission; rules, regulations, and orders
+### § 825h. Administrative powers of Commission; rules, regulations, and orders
 
 The Commission shall have power to perform any and all acts, and to prescribe, issue, make, amend, and rescind such orders, rules, and regulations as it may find necessary or appropriate to carry out the provisions of this chapter. Among other things, such rules and regulations may define accounting, technical, and trade terms used in this chapter; and may prescribe the form or forms of all statements, declarations, applications, and reports to be filed with the Commission, the information which they shall contain, and the time within which they shall be filed. Unless a different date is specified therein, rules and regulations of the Commission shall be effective thirty days after publication in the manner which the Commission shall prescribe. Orders of the Commission shall be effective on the date and in the manner which the Commission shall prescribe. For the purposes of its rules and regulations, the Commission may classify persons and matters within its jurisdiction and prescribe different requirements for different classes of persons or matters. All rules and regulations of the Commission shall be filed with its secretary and shall be kept open in convenient form for public inspection and examination during reasonable business hours.
 
-(June 10, 1920, ch. 285, pt. III, § 309, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 858.)
+(June 10, 1920, ch. 285, pt. III, § 309, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 858.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Commission Review**
 
-Pub. L. 99–495, § 4(c), Oct. 16, 1986, 100 Stat. 1248, provided that: “In order to ensure that the provisions of Part I of the Federal Power Act [16 U.S.C. 791a et seq.], as amended by this Act, are fully, fairly, and efficiently implemented, that other governmental agencies identified in such Part I are able to carry out their responsibilities, and that the increased workload of the Federal Energy Regulatory Commission and other agencies is facilitated, the Commission shall, consistent with the provisions of section 309 of the Federal Power Act [16 U.S.C. 825h], review all provisions of that Act [16 U.S.C. 791a et seq.] requiring an action within a 30-day period and, as the Commission deems appropriate, amend its regulations to interpret such period as meaning ‘working days’, rather than ‘calendar days’ unless calendar days is specified in such Act for such action.”
+Pub. L. 99–495, § 4(c), Oct. 16, 1986, 100 Stat. 1248, provided that: “In order to ensure that the provisions of Part I of the Federal Power Act [16 U.S.C. 791a et seq.], as amended by this Act, are fully, fairly, and efficiently implemented, that other governmental agencies identified in such Part I are able to carry out their responsibilities, and that the increased workload of the Federal Energy Regulatory Commission and other agencies is facilitated, the Commission shall, consistent with the provisions of section 309 of the Federal Power Act [16 U.S.C. 825h], review all provisions of that Act [16 U.S.C. 791a et seq.] requiring an action within a 30-day period and, as the Commission deems appropriate, amend its regulations to interpret such period as meaning ‘working days’, rather than ‘calendar days’ unless calendar days is specified in such Act for such action.”
 
-### § 825i. Appointment of officers and employees; compensation
+### § 825i. Appointment of officers and employees; compensation
 
 The Commission is authorized to appoint and fix the compensation of such officers, attorneys, examiners, and experts as may be necessary for carrying out its functions under this chapter; and the Commission may, subject to civil-service laws, appoint such other officers and employees as are necessary for carrying out such functions and fix their salaries in accordance with chapter 51 and subchapter III of chapter 53 of title 5.
 
-(June 10, 1920, ch. 285, pt. III, § 310, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 859; amended Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972.)
+(June 10, 1920, ch. 285, pt. III, § 310, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 859; amended Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972.)
 
 **Editorial Notes**
 
@@ -4366,11 +4366,11 @@ The Commission is authorized to appoint and fix the compensation of such officer
 
 Provisions that authorized the Commission to appoint and fix the compensation of such officers, attorneys, examiners, and experts as may be necessary for carrying out its functions under this chapter “without regard to the provisions of other laws applicable to the employment and compensation of officers and employees of the United States” have been omitted as obsolete and superseded.
 
-Such appointments are subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order No. 8743, Apr. 23, 1941, issued by the President pursuant to the Act of Nov. 26, 1940, ch. 919, title I, § 1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5, Government Organization and Employees.
+Such appointments are subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order No. 8743, Apr. 23, 1941, issued by the President pursuant to the Act of Nov. 26, 1940, ch. 919, title I, § 1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5, Government Organization and Employees.
 
-As to the compensation of such personnel, sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the Classification Act of 1923 and all other laws or parts of laws inconsistent with the 1949 Act. The Classification Act of 1949 was repealed Pub. L. 89–554, Sept. 6, 1966, § 8(a), 80 Stat. 632, and reenacted as chapter 51 and subchapter III of chapter 53 of Title 5. Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
+As to the compensation of such personnel, sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the Classification Act of 1923 and all other laws or parts of laws inconsistent with the 1949 Act. The Classification Act of 1949 was repealed Pub. L. 89–554, Sept. 6, 1966, § 8(a), 80 Stat. 632, and reenacted as chapter 51 and subchapter III of chapter 53 of Title 5. Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
 
-“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in text for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
+“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in text for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
 
 **Amendments**
 
@@ -4380,25 +4380,25 @@ As to the compensation of such personnel, sections 1202 and 1204 of the Classifi
 
 **Repeals**
 
-Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
+Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
-### § 825j. Investigations relating to electric energy; reports to Congress
+### § 825j. Investigations relating to electric energy; reports to Congress
 
 In order to secure information necessary or appropriate as a basis for recommending legislation, the Commission is authorized and directed to conduct investigations regarding the generation, transmission, distribution, and sale of electric energy, however produced, throughout the United States and its possessions, whether or not otherwise subject to the jurisdiction of the Commission, including the generation, transmission, distribution, and sale of electric energy by any agency, authority, or instrumentality of the United States, or of any State or municipality or other political subdivision of a State. It shall, so far as practicable, secure and keep current information regarding the ownership, operation, management, and control of all facilities for such generation, transmission, distribution, and sale; the capacity and output thereof and the relationship between the two; the cost of generation, transmission, and distribution; the rates, charges, and contracts in respect of the sale of electric energy and its service to residential, rural, commercial, and industrial consumers and other purchasers by private and public agencies; and the relation of any or all such facts to the development of navigation, industry, commerce, and the national defense. The Commission shall report to Congress the results of investigations made under authority of this section.
 
-(June 10, 1920, ch. 285, pt. III, § 311, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 859.)
+(June 10, 1920, ch. 285, pt. III, § 311, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 859.)
 
-### § 825k. Publication and sale of reports
+### § 825k. Publication and sale of reports
 
 The Commission may provide for the publication of its reports and decisions in such form and manner as may be best adapted for public information and use, and is authorized to sell at reasonable prices copies of all maps, atlases, and reports as it may from time to time publish. Such reasonable prices may include the cost of compilation, composition, and reproduction. The Commission is also authorized to make such charges as it deems reasonable for special statistical services and other special or periodic services. The amounts collected under this section shall be deposited in the Treasury to the credit of miscellaneous receipts. All printing for the Federal Power Commission making use of engraving, lithography, and photolithography, together with the plates for the same, shall be contracted for and performed under the direction of the Commission, under such limitations and conditions as the Joint Committee on Printing may from time to time prescribe, and all other printing for the Commission shall be done by the Director of the Government Publishing Office under such limitations and conditions as the Joint Committee on Printing may from time to time prescribe. The entire work may be done at, or ordered through, the Government Publishing Office whenever, in the judgment of the Joint Committee on Printing, the same would be to the interest of the Government: *Provided*, That when the exigencies of the public service so require, the Joint Committee on Printing may authorize the Commission to make immediate contracts for engraving, lithographing, and photolithographing, without advertisement for proposals: *Provided further*, That nothing contained in this chapter or any other Act shall prevent the Federal Power Commission from placing orders with other departments or establishments for engraving, lithographing, and photolithographing, in accordance with the provisions of sections 1535 and 1536 of title 31, providing for interdepartmental work.
 
-(June 10, 1920, ch. 285, pt. III, § 312, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 859; amended Pub. L. 113–235, div. H, title I, § 1301(b), (d), Dec. 16, 2014, 128 Stat. 2537.)
+(June 10, 1920, ch. 285, pt. III, § 312, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 859; amended Pub. L. 113–235, div. H, title I, § 1301(b), (d), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Sections 1535 and 1536 of title 31” substituted in text for “sections 601 and 602 of the Act of June 30, 1932 (47 Stat. 417 [31 U.S.C. 686, 686b])” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+“Sections 1535 and 1536 of title 31” substituted in text for “sections 601 and 602 of the Act of June 30, 1932 (47 Stat. 417 [31 U.S.C. 686, 686b])” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4408,7 +4408,7 @@ The Commission may provide for the publication of its reports and decisions in s
 
 “Government Publishing Office” substituted for “Government Printing Office” in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 
-### § 825l. Review of orders
+### § 825l. Review of orders
 
 **(a) Application for rehearing; time periods; modification of order**
 
@@ -4422,7 +4422,7 @@ Any party to a proceeding under this chapter aggrieved by an order issued by the
 
 The filing of an application for rehearing under subsection (a) shall not, unless specifically ordered by the Commission, operate as a stay of the Commission’s order. The commencement of proceedings under subsection (b) of this section shall not, unless specifically ordered by the court, operate as a stay of the Commission’s order.
 
-(June 10, 1920, ch. 285, pt. III, § 313, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 860; amended June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 85–791, § 16, Aug. 28, 1958, 72 Stat. 947; Pub. L. 109–58, title XII, § 1284(c), Aug. 8, 2005, 119 Stat. 980.)
+(June 10, 1920, ch. 285, pt. III, § 313, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 860; amended June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 85–791, § 16, Aug. 28, 1958, 72 Stat. 947; Pub. L. 109–58, title XII, § 1284(c), Aug. 8, 2005, 119 Stat. 980.)
 
 **Editorial Notes**
 
@@ -4434,9 +4434,9 @@ In subsec. (b), “section 1254 of title 28” substituted for “sections 239 a
 
 2005—Subsec. (a). Pub. L. 109–58 inserted “electric utility,” after “Any person,” and “to which such person,” and substituted “brought by any entity unless such entity” for “brought by any person unless such person”.
 
-1958—Subsec. (a). Pub. L. 85–791, § 16(a), inserted sentence to provide that Commission may modify or set aside findings or orders until record has been filed in court of appeals.
+1958—Subsec. (a). Pub. L. 85–791, § 16(a), inserted sentence to provide that Commission may modify or set aside findings or orders until record has been filed in court of appeals.
 
-Subsec. (b). Pub. L. 85–791, § 16(b), in second sentence, substituted “transmitted by the clerk of the court to” for “served upon”, substituted “file with the court” for “certify and file with the court a transcript of”, and inserted “as provided in section 2112 of title 28”, and in third sentence, substituted “jurisdiction, which upon the filing of the record with it shall be exclusive” for “exclusive jurisdiction”.
+Subsec. (b). Pub. L. 85–791, § 16(b), in second sentence, substituted “transmitted by the clerk of the court to” for “served upon”, substituted “file with the court” for “certify and file with the court a transcript of”, and inserted “as provided in section 2112 of title 28”, and in third sentence, substituted “jurisdiction, which upon the filing of the record with it shall be exclusive” for “exclusive jurisdiction”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4444,7 +4444,7 @@ Subsec. (b). Pub. L. 85–791, § 16(b), in second sentence, substituted “tr
 
 Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substituted “court of appeals” for “circuit court of appeals”.
 
-### § 825m. Enforcement provisions
+### § 825m. Enforcement provisions
 
 **(a) Enjoining and restraining violations**
 
@@ -4468,7 +4468,7 @@ The Commission may employ such attorneys as it finds necessary for proper legal 
 
 **(B)** transmission services subject to the jurisdiction of the Commission.
 
-(June 10, 1920, ch. 285, pt. III, § 314, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 861; amended June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, § 32(b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 109–58, title XII, § 1288, Aug. 8, 2005, 119 Stat. 982.)
+(June 10, 1920, ch. 285, pt. III, § 314, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 861; amended June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, § 32(b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 109–58, title XII, § 1288, Aug. 8, 2005, 119 Stat. 982.)
 
 **Editorial Notes**
 
@@ -4480,7 +4480,7 @@ As originally enacted subsecs. (a) and (b) contained references to the Supreme C
 
 2005—Subsec. (d). Pub. L. 109–58 added subsec. (d).
 
-### § 825n. Forfeiture for violations; recovery; applicability
+### § 825n. Forfeiture for violations; recovery; applicability
 
 **(a) Forfeiture**
 
@@ -4494,7 +4494,7 @@ The forfeitures provided for in this chapter shall be payable into the Treasury 
 
 This section shall not apply in the case of any provision of section 824j, 824k, 824*l*, or 824m of this title or any rule or order issued under any such provision.
 
-(June 10, 1920, ch. 285, pt. III, § 315, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 861; amended June 25, 1948, ch. 646, § 1, 62 Stat. 909; Pub. L. 102–486, title VII, § 725(a), Oct. 24, 1992, 106 Stat. 2920; Pub. L. 109–58, title XII, § 1295(d), Aug. 8, 2005, 119 Stat. 985.)
+(June 10, 1920, ch. 285, pt. III, § 315, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 861; amended June 25, 1948, ch. 646, § 1, 62 Stat. 909; Pub. L. 102–486, title VII, § 725(a), Oct. 24, 1992, 106 Stat. 2920; Pub. L. 109–58, title XII, § 1295(d), Aug. 8, 2005, 119 Stat. 985.)
 
 **Editorial Notes**
 
@@ -4514,7 +4514,7 @@ Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” 
 
 Nothing in amendment by Pub. L. 102–486 to be construed as affecting or intending to affect, or in any way to interfere with, authority of any State or local government relating to environmental protection or siting of facilities, see section 731 of Pub. L. 102–486, set out as a note under section 796 of this title.
 
-### § 825o. Penalties for violations; applicability of section
+### § 825o. Penalties for violations; applicability of section
 
 **(a) Statutory violations**
 
@@ -4524,17 +4524,17 @@ Any person who willfully and knowingly does or causes or suffers to be done any 
 
 Any person who willfully and knowingly violates any rule, regulation, restriction, condition, or order made or imposed by the Commission under authority of this chapter, or any rule or regulation imposed by the Secretary of the Army under authority of subchapter I of this chapter shall, in addition to any other penalties provided by law, be punished upon conviction thereof by a fine of not exceeding $25,000 for each and every day during which such offense occurs.
 
-(June 10, 1920, ch. 285, pt. III, § 316, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 862; amended July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 102–486, title VII, § 725(a), Oct. 24, 1992, 106 Stat. 2920; Pub. L. 109–58, title XII, § 1284(d), Aug. 8, 2005, 119 Stat. 980.)
+(June 10, 1920, ch. 285, pt. III, § 316, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 862; amended July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 102–486, title VII, § 725(a), Oct. 24, 1992, 106 Stat. 2920; Pub. L. 109–58, title XII, § 1284(d), Aug. 8, 2005, 119 Stat. 980.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2005—Subsec. (a). Pub. L. 109–58, § 1284(d)(1), substituted “$1,000,000” for “$5,000” and “5 years” for “two years”.
+2005—Subsec. (a). Pub. L. 109–58, § 1284(d)(1), substituted “$1,000,000” for “$5,000” and “5 years” for “two years”.
 
-Subsec. (b). Pub. L. 109–58, § 1284(d)(2), substituted “$25,000” for “$500”.
+Subsec. (b). Pub. L. 109–58, § 1284(d)(2), substituted “$25,000” for “$500”.
 
-Subsec. (c). Pub. L. 109–58, § 1284(d)(3), struck out subsec. (c) which read as follows: “This subsection shall not apply in the case of any provision of section 824j, 824k, 824*l*, or 824m of this title or any rule or order issued under any such provision.”
+Subsec. (c). Pub. L. 109–58, § 1284(d)(3), struck out subsec. (c) which read as follows: “This subsection shall not apply in the case of any provision of section 824j, 824k, 824*l*, or 824m of this title or any rule or order issued under any such provision.”
 
 1992—Subsec. (c). Pub. L. 102–486 added subsec. (c).
 
@@ -4548,7 +4548,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 Nothing in amendment by Pub. L. 102–486 to be construed as affecting or intending to affect, or in any way to interfere with, authority of any State or local government relating to environmental protection or siting of facilities, see section 731 of Pub. L. 102–486, set out as a note under section 796 of this title.
 
-### § 825o–1. Enforcement of certain provisions
+### § 825o–1. Enforcement of certain provisions
 
 **(a) Violations**
 
@@ -4558,7 +4558,7 @@ It shall be unlawful for any person to violate any provision of subchapter II or
 
 Any person who violates any provision of subchapter II or any provision of any rule or order thereunder shall be subject to a civil penalty of not more than $1,000,000 for each day that such violation continues. Such penalty shall be assessed by the Commission, after notice and opportunity for public hearing, in accordance with the same provisions as are applicable under section 823b(d) of this title in the case of civil penalties assessed under section 823b of this title. In determining the amount of a proposed penalty, the Commission shall take into consideration the seriousness of the violation and the efforts of such person to remedy the violation in a timely manner.
 
-(June 10, 1920, ch. 285, pt. III, § 316A, as added Pub. L. 102–486, title VII, § 725(b), Oct. 24, 1992, 106 Stat. 2920; amended Pub. L. 109–58, title XII, § 1284(e), Aug. 8, 2005, 119 Stat. 980.)
+(June 10, 1920, ch. 285, pt. III, § 316A, as added Pub. L. 102–486, title VII, § 725(b), Oct. 24, 1992, 106 Stat. 2920; amended Pub. L. 109–58, title XII, § 1284(e), Aug. 8, 2005, 119 Stat. 980.)
 
 **Editorial Notes**
 
@@ -4572,11 +4572,11 @@ Any person who violates any provision of subchapter II or any provision of any r
 
 Nothing in this section to be construed as affecting or intending to affect, or in any way to interfere with, authority of any State or local government relating to environmental protection or siting of facilities, see section 731 of Pub. L. 102–486, set out as a note under section 796 of this title.
 
-### § 825p. Jurisdiction of offenses; enforcement of liabilities and duties
+### § 825p. Jurisdiction of offenses; enforcement of liabilities and duties
 
 The District Courts of the United States, and the United States courts of any Territory or other place subject to the jurisdiction of the United States shall have exclusive jurisdiction of violations of this chapter or the rules, regulations, and orders thereunder, and of all suits in equity and actions at law brought to enforce any liability or duty created by, or to enjoin any violation of this chapter or any rule, regulation, or order thereunder. Any criminal proceeding shall be brought in the district wherein any act or transaction constituting the violation occurred. Any suit or action to enforce any liability or duty created by, or to enjoin any violation of, this chapter or any rule, regulation, or order thereunder may be brought in any such district or in the district wherein the defendant is an inhabitant, and process in such cases may be served wherever the defendant may be found. Judgments and decrees so rendered shall be subject to review as provided in sections 1254, 1291, and 1292 of title 28. No costs shall be assessed against the Commission in any judicial proceeding by or against the Commission under this chapter.
 
-(June 10, 1920, ch. 285, pt. III, § 317, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 862; amended June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, § 32(b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107.)
+(June 10, 1920, ch. 285, pt. III, § 317, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 862; amended June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, § 32(b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107.)
 
 **Editorial Notes**
 
@@ -4586,9 +4586,9 @@ As originally enacted, this section contained reference to the Supreme Court of 
 
 “Sections 1254, 1291, and 1292 of title 28”, referred to in text, were substituted for “sections 128 and 240 of the Judicial Code, as amended (U.S.C. title 28, secs. 225 and 347)” on authority of act June 25, 1948, ch. 646, 62 Stat. 869, the first section of which enacted Title 28, Judiciary and Judicial Procedure.
 
-### § 825q. Repealed. Pub. L. 109–58, title XII, § 1277(a), Aug. 8, 2005, 119 Stat. 978
+### § 825q. Repealed. Pub. L. 109–58, title XII, § 1277(a), Aug. 8, 2005, 119 Stat. 978
 
-Section, act June 10, 1920, ch. 285, pt. III, § 318, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 863, related to conflict of jurisdiction.
+Section, act June 10, 1920, ch. 285, pt. III, § 318, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 863, related to conflict of jurisdiction.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4596,7 +4596,7 @@ Section, act June 10, 1920, ch. 285, pt. III, § 318, as added Aug. 26, 1935, 
 
 Repeal effective 6 months after Aug. 8, 2005, with provisions relating to effect of compliance with certain regulations approved and made effective prior to such date, see section 1274 of Pub. L. 109–58, set out as an Effective Date note under section 16451 of Title 42, The Public Health and Welfare.
 
-### § 825q–1. Office of Public Participation
+### § 825q–1. Office of Public Participation
 
 **(a)**
 
@@ -4622,17 +4622,17 @@ Repeal effective 6 months after Aug. 8, 2005, with provisions relating to effect
 
 **(3)** Nothing in this subsection affects or restricts any rights of any intervenor or participant under any other applicable law or rule of law.
 
-(June 10, 1920, ch. 285, pt. III, § 319, as added Pub. L. 95–617, title II, § 212, Nov. 9, 1978, 92 Stat. 3148; amended Pub. L. 117–58, div. D, title IV, § 40432, Nov. 15, 2021, 135 Stat. 1049.)
+(June 10, 1920, ch. 285, pt. III, § 319, as added Pub. L. 95–617, title II, § 212, Nov. 9, 1978, 92 Stat. 3148; amended Pub. L. 117–58, div. D, title IV, § 40432, Nov. 15, 2021, 135 Stat. 1049.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (a)(2)(A). Pub. L. 117–58, § 40432(1)(A), struck out third sentence which read as follows: “The Director may be removed during his term of office by the Chairman, with the approval of the Commission, only for inefficiency, neglect of duty, or malfeasance in office.”
+2021—Subsec. (a)(2)(A). Pub. L. 117–58, § 40432(1)(A), struck out third sentence which read as follows: “The Director may be removed during his term of office by the Chairman, with the approval of the Commission, only for inefficiency, neglect of duty, or malfeasance in office.”
 
-Subsec. (a)(2)(B). Pub. L. 117–58, § 40432(1)(B), struck out first sentence which provided for a 4-year term for the Director and substituted “The Director shall be compensated at a rate of pay not greater than the maximum rate of pay prescribed for a senior executive in the Senior Executive Service under section 5382 of title 5.” for “He shall be appointed and compensated at a rate not in excess of the maximum rate prescribed for GS–18 of the General Schedule under section 5332 of title 5.”
+Subsec. (a)(2)(B). Pub. L. 117–58, § 40432(1)(B), struck out first sentence which provided for a 4-year term for the Director and substituted “The Director shall be compensated at a rate of pay not greater than the maximum rate of pay prescribed for a senior executive in the Senior Executive Service under section 5382 of title 5.” for “He shall be appointed and compensated at a rate not in excess of the maximum rate prescribed for GS–18 of the General Schedule under section 5332 of title 5.”
 
-Subsec. (b)(4). Pub. L. 117–58, § 40432(2), struck out par. (4) which read as follows: “There are authorized to be appropriated to the Secretary of Energy to be used by the Office for purposes of compensation of persons under the provisions of this subsection not to exceed $500,000 for the fiscal year 1978, not to exceed $2,000,000 for the fiscal year 1979, not to exceed $2,200,000 for the fiscal year 1980, and not to exceed $2,400,000 for the fiscal year 1981.”
+Subsec. (b)(4). Pub. L. 117–58, § 40432(2), struck out par. (4) which read as follows: “There are authorized to be appropriated to the Secretary of Energy to be used by the Office for purposes of compensation of persons under the provisions of this subsection not to exceed $500,000 for the fiscal year 1978, not to exceed $2,000,000 for the fiscal year 1979, not to exceed $2,200,000 for the fiscal year 1980, and not to exceed $2,400,000 for the fiscal year 1981.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4642,19 +4642,19 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### § 825r. Separability
+### § 825r. Separability
 
 If any provision of this chapter, or the application of such provision to any person or circumstance, shall be held invalid, the remainder of the chapter, and the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.
 
-(June 10, 1920, ch. 285, pt. III, § 320, formerly § 319, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 863, and renumbered § 320, Pub. L. 95–617, title II, § 212, Nov. 9, 1978, 92 Stat. 3148.)
+(June 10, 1920, ch. 285, pt. III, § 320, formerly § 319, as added Aug. 26, 1935, ch. 687, title II, § 213, 49 Stat. 863, and renumbered § 320, Pub. L. 95–617, title II, § 212, Nov. 9, 1978, 92 Stat. 3148.)
 
-### § 825s. Sale of electric power from reservoir projects; rate schedules; preference in sale; construction of transmission lines; disposition of moneys
+### § 825s. Sale of electric power from reservoir projects; rate schedules; preference in sale; construction of transmission lines; disposition of moneys
 
 Electric power and energy generated at reservoir projects under the control of the Department of the Army and in the opinion of the Secretary of the Army not required in the operation of such projects shall be delivered to the Secretary of Energy who shall transmit and dispose of such power and energy in such manner as to encourage the most widespread use thereof at the lowest possible rates to consumers consistent with sound business principles, the rate schedules to become effective upon confirmation and approval by the Secretary of Energy. Rate schedules shall be drawn having regard to the recovery (upon the basis of the application of such rate schedules to the capacity of the electric facilities of the projects) of the cost of producing and transmitting such electric energy, including the amortization of the capital investment allocated to power over a reasonable period of years. Preference in the sale of such power and energy shall be given to public bodies and cooperatives. The Secretary of Energy is authorized, from funds to be appropriated by the Congress, to construct or acquire, by purchase or other agreement, only such transmission lines and related facilities as may be necessary in order to make the power and energy generated at said projects available in wholesale quantities for sale on fair and reasonable terms and conditions to facilities owned by the Federal Government, public bodies, cooperatives, and privately owned companies. All moneys received from such sales shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
-(Dec. 22, 1944, ch. 665, § 5, 58 Stat. 890; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 95–91, title III, §§ 301(b), 302(a)(1), Aug. 4, 1977, 91 Stat. 578.)
+(Dec. 22, 1944, ch. 665, § 5, 58 Stat. 890; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 95–91, title III, §§ 301(b), 302(a)(1), Aug. 4, 1977, 91 Stat. 578.)
 
 **Editorial Notes**
 
@@ -4670,7 +4670,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Transfer of Functions**
 
-“Secretary of Energy” substituted in text for “Secretary of the Interior” in two places and for “Federal Power Commission” pursuant to Pub. L. 95–91, §§ 301(b), 302(a)(1), which are classified to sections 7151(b) and 7152(a)(1) of Title 42, The Public Health and Welfare.
+“Secretary of Energy” substituted in text for “Secretary of the Interior” in two places and for “Federal Power Commission” pursuant to Pub. L. 95–91, §§ 301(b), 302(a)(1), which are classified to sections 7151(b) and 7152(a)(1) of Title 42, The Public Health and Welfare.
 
 Functions of Secretary of the Interior under this section transferred to Secretary of Energy by section 7152(a)(1) of Title 42.
 
@@ -4684,19 +4684,19 @@ Provisions of this section as not amended, modified or repealed by the Submerged
 
 **Transfer of Functions**
 
-Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
+Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
 
-### § 825s–1. Southwestern area sale and transmission of electric power; disposition of receipts; creation of continuing fund; use of fund
+### § 825s–1. Southwestern area sale and transmission of electric power; disposition of receipts; creation of continuing fund; use of fund
 
 All receipts from the transmission and sale of electric power and energy under the provisions of section 825s of this title, generated or purchased in the southwestern power area, shall be covered into the Treasury of the United States as miscellaneous receipts, except that the Treasury shall set up and maintain from such receipts a continuing fund of $300,000, including the sum of $100,000 in the continuing fund established under the Administrator of the Southwestern Power Administration in the First Supplemental National Defense Appropriation Act, 1944 (57 Stat. 621), which shall be transferred to the fund established; and said fund of $300,000 shall be placed to the credit of the Secretary and shall be subject to check by him to defray emergency expenses necessary to insure continuity of electric service and continuous operation of the facilities, and to cover all costs in connection with the purchase of electric power and energy and rentals for the use of facilities for the transmission and distribution of electric power and energy to public bodies, cooperatives, and privately owned companies: *Provided*, That expenditures from this fund to cover such costs in connection with the purchase of electric power and energy and rentals for the use of facilities are to be made only in such amounts as may be approved annually in appropriation Acts.
 
-(Oct. 12, 1949, ch. 680, title I, § 101, 63 Stat. 767; Aug. 31, 1951, ch. 375, title I, § 101, 65 Stat. 249.)
+(Oct. 12, 1949, ch. 680, title I, § 101, 63 Stat. 767; Aug. 31, 1951, ch. 375, title I, § 101, 65 Stat. 249.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The First Supplemental National Defense Appropriation Act, 1944, referred to in text, was act Dec. 23, 1943, ch. 380, title I, § 101, 57 Stat. 621, which was not classified to the Code.
+The First Supplemental National Defense Appropriation Act, 1944, referred to in text, was act Dec. 23, 1943, ch. 380, title I, § 101, 57 Stat. 621, which was not classified to the Code.
 
 **Codification**
 
@@ -4714,11 +4714,11 @@ Section as originally enacted contained a provision relating to maximum expendit
 
 Pub. L. 101–101, title III, Sept. 29, 1989, 103 Stat. 660, provided: “That the continuing fund established by the Act of October 12, 1949, c. 680, title I, section 101, as amended [16 U.S.C. 825s–1], shall also be available on an ongoing basis for paying for purchase power and wheeling expenses when the Administrator determines that such expenditures are necessary to meet contractual obligations for the sale and delivery of power during periods of below-average hydropower generation. Payments from the continuing fund shall be limited to the amount required to replace the generation deficiency, and only for the project where the deficiency occurred. Replenishment of the fund shall occur within twelve months of the month in which the funds were first expended.”
 
-### § 825s–2. Southeastern area sale and transmission of electric power; disposition of receipts; creation of continuing funds; use of fund
+### § 825s–2. Southeastern area sale and transmission of electric power; disposition of receipts; creation of continuing funds; use of fund
 
 All receipts from the transmission and sale of electric power and energy under the provisions of section 825s of this title, generated or purchased in the southeastern power area, shall be covered into the Treasury of the United States as miscellaneous receipts, except that the Treasury shall set up and maintain from such receipts a continuing fund of $50,000, and said fund shall be placed to the credit of the Secretary, and shall be subject to check by him to defray emergency expenses necessary to insure continuity of electric service and continuous operation of Government facilities in said area.
 
-(Aug. 31, 1951, ch. 375, title I, § 101, 65 Stat. 249.)
+(Aug. 31, 1951, ch. 375, title I, § 101, 65 Stat. 249.)
 
 **Editorial Notes**
 
@@ -4726,11 +4726,11 @@ All receipts from the transmission and sale of electric power and energy under t
 
 Section was not enacted as part of the Federal Power Act which generally comprises this chapter.
 
-### § 825s–3. Southwestern area sale at uniform systemwide rates of electric power over transmission lines constructed with appropriated funds or used under contractual arrangements
+### § 825s–3. Southwestern area sale at uniform systemwide rates of electric power over transmission lines constructed with appropriated funds or used under contractual arrangements
 
 Power and energy marketed by the Southwestern Power Administration pursuant to section 825s of this title, shall be sold at uniform systemwide rates, without discrimination between customers to whom the Southwestern Power Administration delivers such power and energy by means of transmission lines or facilities constructed with appropriated funds, and customers to whom the Southwestern Power Administration delivers such power and energy by means of transmission lines or facilities, the use of which is acquired by lease, wheeling, or other contractual arrangements.
 
-(Pub. L. 95–456, § 1, Oct. 13, 1978, 92 Stat. 1230.)
+(Pub. L. 95–456, § 1, Oct. 13, 1978, 92 Stat. 1230.)
 
 **Editorial Notes**
 
@@ -4742,9 +4742,9 @@ Section was not enacted as part of the Federal Power Act which generally compris
 
 **Effective Date**
 
-Pub. L. 95–456, § 2, Oct. 13, 1978, 92 Stat. 1230, provided that: “This Act [enacting this section] shall not become effective until Contract No. 14–02–00001–1002, effective August 1, 1962, between the United States of America and Associated Electric Cooperative, Inc., Springfield, Missouri, has been amended in a manner mutually agreeable to the parties thereto.”
+Pub. L. 95–456, § 2, Oct. 13, 1978, 92 Stat. 1230, provided that: “This Act [enacting this section] shall not become effective until Contract No. 14–02–00001–1002, effective August 1, 1962, between the United States of America and Associated Electric Cooperative, Inc., Springfield, Missouri, has been amended in a manner mutually agreeable to the parties thereto.”
 
-### § 825s–4. Southwestern Power Administration; deposit and availability of advance payments
+### § 825s–4. Southwestern Power Administration; deposit and availability of advance payments
 
 Notwithstanding section 3302 of title 31, beginning in fiscal year 2005 and thereafter, such funds as are received by the Southwestern Power Administration from any State, municipality, corporation, association, firm, district, or individual as advance payment for work that is associated with Southwestern’s transmission facilities, consistent with that authorized in section 825s of this title, shall be credited to this account and be available until expended.
 
@@ -4762,7 +4762,7 @@ Provisions similar to those in this section were contained in the following prio
 
 Pub. L. 108–137, title III, Dec. 1, 2003, 117 Stat. 1858.
 
-### § 825s–5. Southeastern Power Administration; deposit and availability of advance payments
+### § 825s–5. Southeastern Power Administration; deposit and availability of advance payments
 
 Notwithstanding the provisions of section 3302 of title 31, beginning in fiscal year 2008 and thereafter, such funds as are received by the Southeastern Power Administration from any State, municipality, corporation, association, firm, district, or individual as advance payment for work that is associated with Southeastern’s Operations and Maintenance, consistent with that authorized in section 825s of this title, shall be credited to this account and be available until expended.
 
@@ -4774,7 +4774,7 @@ Notwithstanding the provisions of section 3302 of title 31, beginning in fiscal 
 
 Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act, 2008, and also as part of the Consolidated Appropriations Act, 2008, and not as part of the Federal Power Act which generally comprises this chapter.
 
-### § 825s–6. Southeastern Power Administration; deposit and availability of discretionary offsetting collections
+### § 825s–6. Southeastern Power Administration; deposit and availability of discretionary offsetting collections
 
 Notwithstanding the provisions of section 3302 of title 31 and section 825s of this title, all funds collected by the Southeastern Power Administration that are applicable to the repayment of the annual expenses of this account in this and subsequent fiscal years shall be credited to this account as discretionary offsetting collections for the sole purpose of funding such expenses, with such funds remaining available until expended: *Provided further*, That for purposes of this appropriation, annual expenses means expenditures that are generally recovered in the same year that they are incurred (excluding purchase power and wheeling expenses).
 
@@ -4790,7 +4790,7 @@ This fiscal year, referred to in text, is the fiscal year ending Sept. 30, 2010.
 
 Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act, 2010, and not as part of the Federal Power Act which generally comprises this chapter.
 
-### § 825s–7. Southwestern Power Administration; deposit and availability of discretionary offsetting collections
+### § 825s–7. Southwestern Power Administration; deposit and availability of discretionary offsetting collections
 
 Notwithstanding section 3302 of title 31 and section 825s of this title, all funds collected by the Southwestern Power Administration that are applicable to the repayment of the annual expenses of this account in this and subsequent fiscal years shall be credited to this account as discretionary offsetting collections for the sole purpose of funding such expenses, with such funds remaining available until expended: *Provided further*, That for purposes of this appropriation, annual expenses means expenditures that are generally recovered in the same year that they are incurred (excluding purchase power and wheeling expenses).
 
@@ -4806,17 +4806,17 @@ This fiscal year, referred to in text, is the fiscal year ending Sept. 30, 2010.
 
 Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act, 2010, and not as part of the Federal Power Act which generally comprises this chapter.
 
-### § 825s–8. Southeastern Power Administration: rates of basic and premium pay
+### § 825s–8. Southeastern Power Administration: rates of basic and premium pay
 
 During fiscal year 2020 and each fiscal year thereafter, notwithstanding any provision of title 5 relating to classification or rates of pay, the Southeastern Power Administration shall pay any power system dispatcher employed by the Administration a rate of basic pay and premium pay based on those prevailing for similar occupations in the electric power industry. Basic pay and premium pay may not be paid under this section to any individual during a calendar year so as to result in a total rate in excess of the rate of basic pay for level V of the Executive Schedule (section 5316 of such title).
 
-(Pub. L. 116–94, div. C, title III, § 310, Dec. 20, 2019, 133 Stat. 2681.)
+(Pub. L. 116–94, div. C, title III, § 310, Dec. 20, 2019, 133 Stat. 2681.)
 
-### § 825t. Utilization of power revenues
+### § 825t. Utilization of power revenues
 
 No power revenues on any project shall be distributed as profits, before or after retirement of the project debt, and nothing contained in any previous appropriation Act shall be deemed to have authorized such distribution: *Provided*, That the application of such revenues to the cost of operation, maintenance, and debt service of the irrigation system of the project, or to other purposes in aid of such irrigation system, shall not be construed to be such a distribution.
 
-(July 1, 1946, ch. 529, § 1, 60 Stat. 366.)
+(July 1, 1946, ch. 529, § 1, 60 Stat. 366.)
 
 **Editorial Notes**
 
@@ -4824,11 +4824,11 @@ No power revenues on any project shall be distributed as profits, before or afte
 
 Section was not enacted as part of the Federal Power Act which generally comprises this chapter.
 
-### § 825u. Interest rate on power bonds held by Administrator of General Services
+### § 825u. Interest rate on power bonds held by Administrator of General Services
 
 The Administrator of General Services or his successor in interest is authorized to reduce the rate of interest to 2½ per centum on all power bonds held by such Agency issued by States, public authorities, counties, municipalities, and other subdivisions of State governments for power projects financed by the Public Works Administration.
 
-(July 31, 1946, ch. 710, § 6, 60 Stat. 744; June 30, 1949, ch. 288, title I, § 103(a), 63 Stat. 380.)
+(July 31, 1946, ch. 710, § 6, 60 Stat. 744; June 30, 1949, ch. 288, title I, § 103(a), 63 Stat. 380.)
 
 **Editorial Notes**
 
@@ -4840,7 +4840,7 @@ This section was not enacted as part of the Federal Power Act which generally co
 
 **Transfer of Functions**
 
-Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal Works Administrator, transferred to Administrator of General Services by section 103(a) of act June 30, 1949. Both Federal Works Agency and office of Federal Works Administrator abolished by section 103(b) of said act. See Historical and Revision Notes under section 303(b) of Title 40, Public Buildings, Property, and Works. Transfer of functions of Federal Works Agency effective July 1, 1949, see section 605, formerly § 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583. Section 303(b) of Title 40 was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under section 303 of Title 40.
+Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal Works Administrator, transferred to Administrator of General Services by section 103(a) of act June 30, 1949. Both Federal Works Agency and office of Federal Works Administrator abolished by section 103(b) of said act. See Historical and Revision Notes under section 303(b) of Title 40, Public Buildings, Property, and Works. Transfer of functions of Federal Works Agency effective July 1, 1949, see section 605, formerly § 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583. Section 303(b) of Title 40 was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under section 303 of Title 40.
 
 **Executive Documents**
 
@@ -4850,11 +4850,11 @@ Functions of Public Works Administration transferred to Federal Works Administra
 
 ## SUBCHAPTER IV—STATE AND MUNICIPAL WATER CONSERVATION FACILITIES
 
-### § 828. Facilitation of development and construction of water conservation facilities; exemption from certain Federal requirements
+### § 828. Facilitation of development and construction of water conservation facilities; exemption from certain Federal requirements
 
 In order to facilitate the development and construction by States and municipalities of water conservation facilities, certain requirements in the Federal Power Act [16 U.S.C. 791a et seq.] are made inapplicable to States and municipalities as provided in this subchapter.
 
-(Aug. 15, 1953, ch. 503, § 1, 67 Stat. 587.)
+(Aug. 15, 1953, ch. 503, § 1, 67 Stat. 587.)
 
 **Editorial Notes**
 
@@ -4866,11 +4866,11 @@ The Federal Power Act, referred to in text, is act June 10, 1920, ch. 285, 41 St
 
 Section was not enacted as part of the Federal Power Act which generally comprises this chapter.
 
-### § 828a. Definitions
+### § 828a. Definitions
 
 The words used in this subchapter shall have the same meanings ascribed to them in the Federal Power Act [16 U.S.C. 791a et seq.].
 
-(Aug. 15, 1953, ch. 503, § 2, 67 Stat. 587.)
+(Aug. 15, 1953, ch. 503, § 2, 67 Stat. 587.)
 
 **Editorial Notes**
 
@@ -4882,11 +4882,11 @@ The Federal Power Act, referred to in text, is act June 10, 1920, ch. 285, 41 St
 
 Section was not enacted as part of the Federal Power Act which generally comprises this chapter.
 
-### § 828b. Exemption from formula, books and records, and project cost statement requirements; annual charges
+### § 828b. Exemption from formula, books and records, and project cost statement requirements; annual charges
 
 Section 807 of this title pertaining to the taking over by the United States of any project upon or after the expiration of a license, and sections 825 and 825a of this title requiring certain records and accounting procedures and section 797(b) of this title requiring the preparation and filing of the statement of actual legitimate original cost of a project, shall not be applicable to any project owned by a State or municipality, and such rights and requirements shall not exist under any license heretofore or hereafter granted to any State or municipality. The Secretary of Energy in determining the amount of annual charges applicable to any such project may determine the annual charges with reference to the actual cost of services incurred by the Secretary with respect to the project.
 
-(Aug. 15, 1953, ch. 503, § 3, 67 Stat. 587; Pub. L. 86–124, July 31, 1959, 73 Stat. 271; Pub. L. 95–91, title III, § 301(b), Aug. 4, 1977, 91 Stat. 578.)
+(Aug. 15, 1953, ch. 503, § 3, 67 Stat. 587; Pub. L. 86–124, July 31, 1959, 73 Stat. 271; Pub. L. 95–91, title III, § 301(b), Aug. 4, 1977, 91 Stat. 578.)
 
 **Editorial Notes**
 
@@ -4902,15 +4902,15 @@ Section was not enacted as part of the Federal Power Act which generally compris
 
 **Transfer of Functions**
 
-“Secretary of Energy” and “Secretary” substituted in text for “Federal Power Commission” and “Commission”, respectively, pursuant to Pub. L. 95–91, § 301(b), which is classified to section 7151(b) of Title 42, The Public Health and Welfare.
+“Secretary of Energy” and “Secretary” substituted in text for “Federal Power Commission” and “Commission”, respectively, pursuant to Pub. L. 95–91, § 301(b), which is classified to section 7151(b) of Title 42, The Public Health and Welfare.
 
 The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
-### § 828c. Applicability of this subchapter
+### § 828c. Applicability of this subchapter
 
 Except as herein provided, the provisions of this subchapter shall not be construed as repealing or affecting any of the provisions of the Federal Power Act [16 U.S.C. 791a et seq.].
 
-(Aug. 15, 1953, ch. 503, § 4, 67 Stat. 587.)
+(Aug. 15, 1953, ch. 503, § 4, 67 Stat. 587.)
 
 **Editorial Notes**
 

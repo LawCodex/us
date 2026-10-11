@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Regulations**
 
-Pub. L. 117–159, div. A, title II, § 12004(h)(3), June 25, 2022, 136 Stat. 1331, provided that: “Not later than 90 days after the date of enactment of this Act [June 25, 2022], and without regard to chapter 5 of title 5, United States Code, the Attorney General shall promulgate regulations allowing a person licensed as an importer, manufacturer, or dealer of firearms under chapter 44 of title 18, United States Code, to receive access to records of stolen firearms maintained by the National Crime Information Center operated by the Federal Bureau of Investigation, solely for the purpose of voluntarily verifying whether firearms offered for sale to such licensees have been stolen.”
+Pub. L. 117–159, div. A, title II, § 12004(h)(3), June 25, 2022, 136 Stat. 1331, provided that: “Not later than 90 days after the date of enactment of this Act [June 25, 2022], and without regard to chapter 5 of title 5, United States Code, the Attorney General shall promulgate regulations allowing a person licensed as an importer, manufacturer, or dealer of firearms under chapter 44 of title 18, United States Code, to receive access to records of stolen firearms maintained by the National Crime Information Center operated by the Federal Bureau of Investigation, solely for the purpose of voluntarily verifying whether firearms offered for sale to such licensees have been stolen.”
 
-## § 41101. Funds for exchange of identification records
+## § 41101. Funds for exchange of identification records
 
 The funds provided for Salaries and Expenses, Federal Bureau of Investigation, may be used hereafter, in addition to those uses authorized thereunder, for the exchange of identification records with officials or federally chartered or insured banking institutions to promote or maintain the security of those institutions, and, if authorized by State or Tribal statute and approved by the Attorney General, to officials of State, Tribal, and local governments for purposes of employment and licensing, any such exchange to be made only for the official use of any such official and subject to the same restriction with respect to dissemination as that provided for under the aforementioned appropriation.
 
-(Pub. L. 92–544, title II, Oct. 25, 1972, 86 Stat. 1115; Pub. L. 117–103, div. W, title VIII, § 802(c), Mar. 15, 2022, 136 Stat. 898.)
+(Pub. L. 92–544, title II, Oct. 25, 1972, 86 Stat. 1115; Pub. L. 117–103, div. W, title VIII, § 802(c), Mar. 15, 2022, 136 Stat. 898.)
 
 **Editorial Notes**
 
@@ -37,7 +37,7 @@ Section is from the Department of Justice Appropriation Act, 1973, and also from
 
 **Amendments**
 
-2022—Pub. L. 117–103 inserted “or Tribal” after “if authorized by State” and “, Tribal,” before “and local governments”.
+2022—Pub. L. 117–103 inserted “or Tribal” after “if authorized by State” and “, Tribal,” before “and local governments”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -45,7 +45,7 @@ Section is from the Department of Justice Appropriation Act, 1973, and also from
 
 Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
 
-## § 41102. Parimutuel licensing simplification
+## § 41102. Parimutuel licensing simplification
 
 **(a) In general**
 
@@ -55,7 +55,7 @@ An association of State officials regulating parimutuel wagering, designated for
 
 As used in this section, the term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States.
 
-(Pub. L. 100–413, § 2, Aug. 22, 1988, 102 Stat. 1101.)
+(Pub. L. 100–413, § 2, Aug. 22, 1988, 102 Stat. 1101.)
 
 **Editorial Notes**
 
@@ -65,9 +65,9 @@ Section was formerly classified in a note under section 534 of Title 28, Judicia
 
 **Effective Date**
 
-Pub. L. 100–413, § 3, Aug. 22, 1988, 102 Stat. 1101, provided that: “This Act [enacting this section and provisions set out as a note under section 10101 of this title] shall take effect on July 1, 1989.”
+Pub. L. 100–413, § 3, Aug. 22, 1988, 102 Stat. 1101, provided that: “This Act [enacting this section and provisions set out as a note under section 10101 of this title] shall take effect on July 1, 1989.”
 
-## § 41103. Processing of name checks and background records for noncriminal employment, licensing, and humanitarian purposes by INTERPOL
+## § 41103. Processing of name checks and background records for noncriminal employment, licensing, and humanitarian purposes by INTERPOL
 
 For fiscal year 1990 and hereafter the Chief, United States National Central Bureau, INTERPOL, may establish and collect fees to process name checks and background records for noncriminal employment, licensing, and humanitarian purposes and, notwithstanding the provisions of section 3302 of title 31, credit such fees to this appropriation to be used for salaries and other expenses incurred in providing these services.
 
@@ -81,11 +81,11 @@ Section was formerly classified as a note under section 509 of Title 28, Judicia
 
 Section is from the Department of Justice Appropriations Act, 1990, and also from the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1990.
 
-## § 41104. Processing of fingerprint identification records and name checks by FBI
+## § 41104. Processing of fingerprint identification records and name checks by FBI
 
 For fiscal year 1991 and hereafter the Director of the Federal Bureau of Investigation may establish and collect fees to process fingerprint identification records and name checks for non-criminal justice, non-law enforcement employment and licensing purposes and for certain employees of private sector contractors with classified Government contracts, and notwithstanding the provisions of section 3302 of title 31, credit such fees to this appropriation to be used for salaries and other expenses incurred in providing these services, and that the Director of the Federal Bureau of Investigation may establish such fees at a level to include an additional amount to establish a fund to remain available until expended to defray expenses for the automation of fingerprint identification and criminal justice information services and associated costs.
 
-(Pub. L. 101–515, title II, Nov. 5, 1990, 104 Stat. 2112; Pub. L. 104–91, title I, § 101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, § 211, Jan. 26, 1996, 110 Stat. 37.)
+(Pub. L. 101–515, title II, Nov. 5, 1990, 104 Stat. 2112; Pub. L. 104–91, title I, § 101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, § 211, Jan. 26, 1996, 110 Stat. 37.)
 
 **Editorial Notes**
 
@@ -101,7 +101,7 @@ Amendment by Pub. L. 104–91 is based on section 113 of H.R. 2076, One Hundred 
 
 1996—Pub. L. 104–91, as amended by Pub. L. 104–99, which directed the amendment of this section by inserting “and criminal justice information” after “for the automation of finger-print identification”, was executed by making the insertion after “for the automation of fingerprint identification” to reflect the probable intent of Congress.
 
-## § 41105. Criminal background checks for applicants for employment in nursing facilities and home health care agencies
+## § 41105. Criminal background checks for applicants for employment in nursing facilities and home health care agencies
 
 **(a)**
 
@@ -131,7 +131,7 @@ Amendment by Pub. L. 104–91 is based on section 113 of H.R. 2076, One Hundred 
 
 **(j)** This section shall apply without fiscal year limitation.
 
-(Pub. L. 105–277, div. A, § 101(b) [title I, § 124], Oct. 21, 1998, 112 Stat. 2681–50, 2681–73.)
+(Pub. L. 105–277, div. A, § 101(b) [title I, § 124], Oct. 21, 1998, 112 Stat. 2681–50, 2681–73.)
 
 **Editorial Notes**
 
@@ -139,7 +139,7 @@ Amendment by Pub. L. 104–91 is based on section 113 of H.R. 2076, One Hundred 
 
 Section was formerly classified as a note under section 534 of Title 28, Judiciary and Judicial Procedure, prior to editorial reclassification and renumbering as this section.
 
-## § 41106. Reviews of criminal records of applicants for private security officer employment
+## § 41106. Reviews of criminal records of applicants for private security officer employment
 
 **(a) Short title**
 
@@ -277,7 +277,7 @@ Nothing in this section shall be construed as restricting the right of a State t
 
 A State may decline to participate in the background check system authorized by this section by enacting a law or issuing an order by the Governor (if consistent with State law) providing that the State is declining to participate pursuant to this subsection.
 
-(Pub. L. 108–458, title VI, § 6402, Dec. 17, 2004, 118 Stat. 3755.)
+(Pub. L. 108–458, title VI, § 6402, Dec. 17, 2004, 118 Stat. 3755.)
 
 **Editorial Notes**
 
@@ -291,7 +291,7 @@ Public Law 104–99, referred to in subsec. (d)(4)(B)(i), is Pub. L. 104–99, J
 
 Section was formerly classified as a note under section 534 of Title 28, Judiciary and Judicial Procedure, prior to editorial reclassification and renumbering as this section.
 
-## § 41107. Access to the national crime information databases by tribes
+## § 41107. Access to the national crime information databases by tribes
 
 **(1) In general** The Attorney General shall ensure that—
 
@@ -307,7 +307,7 @@ For purpose of sanctions for noncompliance with requirements of, or misuse of, n
 
 Each tribal justice official serving an Indian tribe shall be considered to be an authorized law enforcement official for purposes of access to the National Crime Information Center of the Federal Bureau of Investigation.
 
-(Pub. L. 111–211, title II, § 233(b), July 29, 2010, 124 Stat. 2279; Pub. L. 117–103, div. W, title VIII, § 802(a), Mar. 15, 2022, 136 Stat. 897.)
+(Pub. L. 111–211, title II, § 233(b), July 29, 2010, 124 Stat. 2279; Pub. L. 117–103, div. W, title VIII, § 802(a), Mar. 15, 2022, 136 Stat. 897.)
 
 **Editorial Notes**
 
@@ -319,9 +319,9 @@ Section is comprised of subsec. (b) of section 233 of Pub. L. 111–211. Subsec.
 
 **Amendments**
 
-2022—Par. (1). Pub. L. 117–103, § 802(a)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Attorney General shall ensure that tribal law enforcement officials that meet applicable Federal or State requirements be permitted access to national crime information databases.”
+2022—Par. (1). Pub. L. 117–103, § 802(a)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Attorney General shall ensure that tribal law enforcement officials that meet applicable Federal or State requirements be permitted access to national crime information databases.”
 
-Par. (3). Pub. L. 117–103, § 802(a)(2), struck out “with criminal jurisdiction over Indian country” after “Indian tribe”.
+Par. (3). Pub. L. 117–103, § 802(a)(2), struck out “with criminal jurisdiction over Indian country” after “Indian tribe”.
 
 **Statutory Notes and Related Subsidiaries**
 

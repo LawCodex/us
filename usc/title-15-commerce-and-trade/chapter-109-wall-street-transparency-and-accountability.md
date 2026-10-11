@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 ### Part A—Regulatory Authority
 
-#### § 8301. Definitions
+#### § 8301. Definitions
 
 In this subtitle, the terms “prudential regulator”, “swap”, “swap dealer”, “major swap participant”, “swap data repository”, “associated person of a swap dealer or major swap participant”, “eligible contract participant”, “swap execution facility”, “security-based swap”, “security-based swap dealer”, “major security-based swap participant”, and “associated person of a security-based swap dealer or major security-based swap participant” have the meanings given the terms in section 1a of title 7, including any modification of the meanings under section 8321(a) of this title.
 
-(Pub. L. 111–203, title VII, § 711, July 21, 2010, 124 Stat. 1641.)
+(Pub. L. 111–203, title VII, § 711, July 21, 2010, 124 Stat. 1641.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subtitle, referred to in text, is subtitle A (§§ 711–754) of title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, which enacted this subchapter, section 78c–2 of this title, and sections 1b, 6b–1, 6r to 6t, 7b–3, 24a, and 26 of Title 7, Agriculture, amended sections 78f, 78*o*, and 78s of this title, sections 1a, 2, 6 to 6b, 6c, 6d, 6m, 6q, 6s, 7 to 7b, 8 to 9a, 12, 12a, 13, 13–1, 13a–1, 13b, 15, 16, 21, 24, 25, 27 to 27b, 27e, and 27f of Title 7, section 761 of Title 11, Bankruptcy, and sections 4421 and 4422 of Title 12, Banks and Banking, enacted provisions set out as notes under sections 1a, 2, 6a, 7a–1, 7a–3, and 9 of Title 7, and amended provisions set out as a note under section 78c of this title. For complete classification of subtitle A to the Code, see Tables.
+This subtitle, referred to in text, is subtitle A (§§ 711–754) of title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, which enacted this subchapter, section 78c–2 of this title, and sections 1b, 6b–1, 6r to 6t, 7b–3, 24a, and 26 of Title 7, Agriculture, amended sections 78f, 78*o*, and 78s of this title, sections 1a, 2, 6 to 6b, 6c, 6d, 6m, 6q, 6s, 7 to 7b, 8 to 9a, 12, 12a, 13, 13–1, 13a–1, 13b, 15, 16, 21, 24, 25, 27 to 27b, 27e, and 27f of Title 7, section 761 of Title 11, Bankruptcy, and sections 4421 and 4422 of Title 12, Banks and Banking, enacted provisions set out as notes under sections 1a, 2, 6a, 7a–1, 7a–3, and 9 of Title 7, and amended provisions set out as a note under section 78c of this title. For complete classification of subtitle A to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -39,13 +39,13 @@ Provisions of subchapter effective on the later of 360 days after July 21, 2010,
 
 **Short Title**
 
-Pub. L. 111–203, title VII, § 701, July 21, 2010, 124 Stat. 1641, provided that: “This title [enacting this chapter, sections 78c–2 to 78c–5, 78j–2, 78m–1, and 78*o*–10 of this title, and sections 1b, 6b–1, 6r to 6t, 7b–3, 24a, and 26 of Title 7, Agriculture, amending sections 77b, 77b–1, 77e, 77q, 78c, 78c–1, 78f, 78i, 78j, 78m, 78*o*, 78p, 78q–1, 78s, 78t, 78u–1, 78u–2, 78bb, 78dd, 78mm, 80a–2, and 80b–2 of this title, sections 1a, 2, 6 to 6b, 6c, 6d, 6m, 6q, 6s, 7 to 7b, 8 to 9a, 12, 12a, 13, 13–1, 13a–1, 13b, 15, 16, 21, 24, 25, 27 to 27b, 27e, and 27f of Title 7, section 761 of Title 11, Bankruptcy, and sections 4421 and 4422 of Title 12, Banks and Banking, enacting provisions set out as notes under section 77b of this title and sections 1a, 2, 6a, 7a–1, 7a–3, and 9 of Title 7, and amending provisions set out as notes under section 78c of this title] may be cited as the ‘Wall Street Transparency and Accountability Act of 2010’.”
+Pub. L. 111–203, title VII, § 701, July 21, 2010, 124 Stat. 1641, provided that: “This title [enacting this chapter, sections 78c–2 to 78c–5, 78j–2, 78m–1, and 78*o*–10 of this title, and sections 1b, 6b–1, 6r to 6t, 7b–3, 24a, and 26 of Title 7, Agriculture, amending sections 77b, 77b–1, 77e, 77q, 78c, 78c–1, 78f, 78i, 78j, 78m, 78*o*, 78p, 78q–1, 78s, 78t, 78u–1, 78u–2, 78bb, 78dd, 78mm, 80a–2, and 80b–2 of this title, sections 1a, 2, 6 to 6b, 6c, 6d, 6m, 6q, 6s, 7 to 7b, 8 to 9a, 12, 12a, 13, 13–1, 13a–1, 13b, 15, 16, 21, 24, 25, 27 to 27b, 27e, and 27f of Title 7, section 761 of Title 11, Bankruptcy, and sections 4421 and 4422 of Title 12, Banks and Banking, enacting provisions set out as notes under section 77b of this title and sections 1a, 2, 6a, 7a–1, 7a–3, and 9 of Title 7, and amending provisions set out as notes under section 78c of this title] may be cited as the ‘Wall Street Transparency and Accountability Act of 2010’.”
 
 **Definition**
 
 For definition of “including” as used in this section, see section 5301 of Title 12, Banks and Banking.
 
-#### § 8302. Review of regulatory authority
+#### § 8302. Review of regulatory authority
 
 **(a) Consultation**
 
@@ -91,7 +91,7 @@ Nothing in this subtitle requires the Commodity Futures Trading Commission or th
 
 The Commodity Futures Trading Commission and the Securities and Exchange Commission, after consultation with the Board of Governors, shall jointly prescribe such regulations regarding mixed swaps, as described in section 1a(47)(D) of the Commodity Exchange Act (7 U.S.C. 1a(47)(D)) and in section 78c(a)(68)(D) of this title, as may be necessary to carry out the purposes of this title.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(b) Limitation**
 
@@ -179,7 +179,7 @@ The filing of a petition by the complaining Commission pursuant to paragraph (1)
 
 **(1) In general**
 
-Notwithstanding any other provision of this title <sup>1</sup> and subsections (b) and (c), the Commodity Futures Trading Commission and the Securities and Exchange Commission, in consultation with the Board of Governors, shall further define the terms “swap”, “security-based swap”, “swap dealer”, “security-based swap dealer”, “major swap participant”, “major security-based swap participant”, “eligible contract participant”, and “security-based swap agreement” in section 1a(47)(A)(v) of the Commodity Exchange Act (7 U.S.C. 1a(47)(A)(v)) and section 78c(a)(78) of this title.
+Notwithstanding any other provision of this title <sup>1</sup> and subsections (b) and (c), the Commodity Futures Trading Commission and the Securities and Exchange Commission, in consultation with the Board of Governors, shall further define the terms “swap”, “security-based swap”, “swap dealer”, “security-based swap dealer”, “major swap participant”, “major security-based swap participant”, “eligible contract participant”, and “security-based swap agreement” in section 1a(47)(A)(v) of the Commodity Exchange Act (7 U.S.C. 1a(47)(A)(v)) and section 78c(a)(78) of this title.
 
 **(2) Authority of the Commissions**
 
@@ -197,7 +197,7 @@ Notwithstanding any other provision of this title,<sup>1</sup> the Commodity Fut
 
 **(D) Comparable rules**
 
-Rules and regulations prescribed jointly under this title <sup>1</sup> by the Commodity Futures Trading Commission and the Securities and Exchange Commission shall be comparable to the maximum extent possible, taking into consideration differences in instruments and in the applicable statutory requirements.
+Rules and regulations prescribed jointly under this title <sup>1</sup> by the Commodity Futures Trading Commission and the Securities and Exchange Commission shall be comparable to the maximum extent possible, taking into consideration differences in instruments and in the applicable statutory requirements.
 
 **(E) Tracking uncleared transactions**
 
@@ -217,11 +217,11 @@ The Commodity Futures Trading Commission shall make available to the Securities 
 
 **(4) Joint interpretation**
 
-Any interpretation of, or guidance by either Commission regarding, a provision of this title,<sup>1</sup> shall be effective only if issued jointly by the Commodity Futures Trading Commission and the Securities and Exchange Commission, after consultation with the Board of Governors, if this title <sup>1</sup> requires the Commodity Futures Trading Commission and the Securities and Exchange Commission to issue joint regulations to implement the provision.
+Any interpretation of, or guidance by either Commission regarding, a provision of this title,<sup>1</sup> shall be effective only if issued jointly by the Commodity Futures Trading Commission and the Securities and Exchange Commission, after consultation with the Board of Governors, if this title <sup>1</sup> requires the Commodity Futures Trading Commission and the Securities and Exchange Commission to issue joint regulations to implement the provision.
 
 **(e) Global rulemaking timeframe**
 
-Unless otherwise provided in this title,<sup>1</sup> or an amendment made by this title,<sup>1</sup> the Commodity Futures Trading Commission or the Securities and Exchange Commission, or both, shall individually, and not jointly, promulgate rules and regulations required of each Commission under this title <sup>1</sup> or an amendment made by this title <sup>1</sup> not later than 360 days after July 21, 2010.
+Unless otherwise provided in this title,<sup>1</sup> or an amendment made by this title,<sup>1</sup> the Commodity Futures Trading Commission or the Securities and Exchange Commission, or both, shall individually, and not jointly, promulgate rules and regulations required of each Commission under this title <sup>1</sup> or an amendment made by this title <sup>1</sup> not later than 360 days after July 21, 2010.
 
 **(f) Rules and registration before final effective dates** Beginning on July 21, 2010, and notwithstanding the effective date of any provision of this Act, the Commodity Futures Trading Commission and the Securities and Exchange Commission may, in order to prepare for the effective dates of the provisions of this Act—
 
@@ -235,17 +235,17 @@ Unless otherwise provided in this title,<sup>1</sup> or an amendment made by thi
 
 provided, however, that no action by the Commodity Futures Trading Commission or the Securities and Exchange Commission described in paragraphs (1) through (4) shall become effective prior to the effective date applicable to such action under the provisions of this Act.
 
-(Pub. L. 111–203, title VII, § 712, July 21, 2010, 124 Stat. 1641.)
+(Pub. L. 111–203, title VII, § 712, July 21, 2010, 124 Stat. 1641.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subtitle, referred to in subsec. (a)(1), (7)(B), is subtitle A (§§ 711–754) of title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, which enacted this subchapter, section 78c–2 of this title, and sections 1b, 6b–1, 6r to 6t, 7b–3, 24a, and 26 of Title 7, Agriculture, amended sections 78f, 78*o*, and 78s of this title, sections 1a, 2, 6 to 6b, 6c, 6d, 6m, 6q, 6s, 7 to 7b, 8 to 9a, 12, 12a, 13, 13–1, 13a–1, 13b, 15, 16, 21, 24, 25, 27 to 27b, 27e, and 27f of Title 7, section 761 of Title 11, Bankruptcy, and sections 4421 and 4422 of Title 12, Banks and Banking, enacted provisions set out as notes under sections 1a, 2, 6a, 7a–1, 7a–3, and 9 of Title 7, and amended provisions set out as a note under section 78c of this title. For complete classification of subtitle A to the Code, see Tables.
+This subtitle, referred to in subsec. (a)(1), (7)(B), is subtitle A (§§ 711–754) of title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, which enacted this subchapter, section 78c–2 of this title, and sections 1b, 6b–1, 6r to 6t, 7b–3, 24a, and 26 of Title 7, Agriculture, amended sections 78f, 78*o*, and 78s of this title, sections 1a, 2, 6 to 6b, 6c, 6d, 6m, 6q, 6s, 7 to 7b, 8 to 9a, 12, 12a, 13, 13–1, 13a–1, 13b, 15, 16, 21, 24, 25, 27 to 27b, 27e, and 27f of Title 7, section 761 of Title 11, Bankruptcy, and sections 4421 and 4422 of Title 12, Banks and Banking, enacted provisions set out as notes under sections 1a, 2, 6a, 7a–1, 7a–3, and 9 of Title 7, and amended provisions set out as a note under section 78c of this title. For complete classification of subtitle A to the Code, see Tables.
 
-Subtitle B, referred to in subsec. (a)(2), is subtitle B (§§ 761–774) of title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1754, which enacted subchapter II of this chapter and sections 78c–3 to 78c–5, 78j–2, 78m–1, and 78*o*–10 of this title, amended sections 77b, 77b–1, 77e, 77q, 78c, 78c–1, 78f, 78i, 78j, 78m, 78*o*, 78p, 78q–1, 78t, 78u–1, 78u–2, 78bb, 78dd, 78mm, 80a–2, and 80b–2 of this title, enacted provisions set out as a note under section 77b of this title, and amended provisions set out as a note under section 78c of this title. For complete classification of subtitle B to the Code, see Tables.
+Subtitle B, referred to in subsec. (a)(2), is subtitle B (§§ 761–774) of title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1754, which enacted subchapter II of this chapter and sections 78c–3 to 78c–5, 78j–2, 78m–1, and 78*o*–10 of this title, amended sections 77b, 77b–1, 77e, 77q, 78c, 78c–1, 78f, 78i, 78j, 78m, 78*o*, 78p, 78q–1, 78t, 78u–1, 78u–2, 78bb, 78dd, 78mm, 80a–2, and 80b–2 of this title, enacted provisions set out as a note under section 77b of this title, and amended provisions set out as a note under section 78c of this title. For complete classification of subtitle B to the Code, see Tables.
 
-The Commodity Exchange Act, referred to in subsecs. (a)(4)(A) and (d)(2)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in subsecs. (a)(4)(A) and (d)(2)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 This title, where footnoted in subsecs. (a)(8), (b), (d)(1), (2)(A)–(D), (4), and (e), is title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, known as the Wall Street Transparency and Accountability Act of 2010, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of title VII to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
@@ -257,7 +257,7 @@ This Act, referred to in subsec. (f), is Pub. L. 111–203, July 21, 2010, 124 S
 
 For definitions of terms used in this section, see section 5301 of Title 12, Banks and Banking.
 
-#### § 8303. Abusive swaps
+#### § 8303. Abusive swaps
 
 The Commodity Futures Trading Commission or the Securities and Exchange Commission, or both, individually may, by rule or order—
 
@@ -273,15 +273,15 @@ The Commodity Futures Trading Commission or the Securities and Exchange Commissi
 
 **(B)** participants in a financial market.
 
-(Pub. L. 111–203, title VII, § 714, July 21, 2010, 124 Stat. 1647.)
+(Pub. L. 111–203, title VII, § 714, July 21, 2010, 124 Stat. 1647.)
 
-#### § 8304. Authority to prohibit participation in swap activities
+#### § 8304. Authority to prohibit participation in swap activities
 
 Except as provided in section 6 of title 7, if the Commodity Futures Trading Commission or the Securities and Exchange Commission determines that the regulation of swaps or security-based swaps markets in a foreign country undermines the stability of the United States financial system, either Commission, in consultation with the Secretary of the Treasury, may prohibit an entity domiciled in the foreign country from participating in the United States in any swap or security-based swap activities.
 
-(Pub. L. 111–203, title VII, § 715, July 21, 2010, 124 Stat. 1647.)
+(Pub. L. 111–203, title VII, § 715, July 21, 2010, 124 Stat. 1647.)
 
-#### § 8305. Prohibition against Federal Government bailouts of swaps entities
+#### § 8305. Prohibition against Federal Government bailouts of swaps entities
 
 **(a) Prohibition on Federal assistance**
 
@@ -309,9 +309,9 @@ Notwithstanding any other provision of law (including regulations), no Federal a
 
 **(B) Exclusion**
 
-The term “swaps entity” does not include any major swap participant or major security-based swap participant that is an 1
+The term “swaps entity” does not include any major swap participant or major security-based swap participant that is an 1
 
-<sup>1</sup>  So in original. Probably should be “a”.
+<sup>1</sup> So in original. Probably should be “a”.
 
 covered depository institution.
 
@@ -395,7 +395,7 @@ All funds expended on the termination or transfer of the swap or security-based 
 
 Taxpayers shall bear no losses from the exercise of any authority under this title.2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 **(j) Prohibition on unregulated combination of swaps entities and banking**
 
@@ -411,9 +411,9 @@ At no time following adoption of the rules in subsection (k) may a bank or bank 
 
 **(4)** Systems for identifying, measuring and controlling the swaps entity’s participation in existing markets.
 
-**(5)** Systems for controlling the swaps entity’s participation or entry into in 3
+**(5)** Systems for controlling the swaps entity’s participation or entry into in 3
 
-<sup>3</sup>  So in original.
+<sup>3</sup> So in original.
 
 new markets and products.
 
@@ -421,7 +421,7 @@ new markets and products.
 
 The Financial Stability Oversight Council may determine that,4
 
-<sup>4</sup>  So in original. The word “that” probably should not appear.
+<sup>4</sup> So in original. The word “that” probably should not appear.
 
 when other provisions established by this Act are insufficient to effectively mitigate systemic risk and protect taxpayers, that swaps entities may no longer access Federal assistance with respect to any swap, security-based swap, or other activity of the swaps entity. Any such determination by the Financial Stability Oversight Council of a prohibition of federal assistance shall be made on an institution-by-institution basis, and shall require the vote of not fewer than two-thirds of the members of the Financial Stability Oversight Council, which must include the vote by the Chairman of the Council, the Chairman of the Board of Governors of the Federal Reserve System, and the Chairperson of the Federal Deposit Insurance Corporation. Notice and hearing requirements for such determinations shall be consistent with the standards provided in title I.
 
@@ -429,19 +429,19 @@ when other provisions established by this Act are insufficient to effectively mi
 
 An insured depository institution shall comply with the prohibition on proprietary trading in derivatives as required by section 619 of the Dodd-Frank Wall Street Reform and Consumer Protection Act [12 U.S.C. 1851].
 
-(Pub. L. 111–203, title VII, § 716, July 21, 2010, 124 Stat. 1648; Pub. L. 113–235, div. E, title VI, § 630, Dec. 16, 2014, 128 Stat. 2378.)
+(Pub. L. 111–203, title VII, § 716, July 21, 2010, 124 Stat. 1648; Pub. L. 113–235, div. E, title VI, § 630, Dec. 16, 2014, 128 Stat. 2378.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Commodity Exchange Act, referred to in subsec. (b)(2)(A)(i), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in subsec. (b)(2)(A)(i), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (b)(2)(A)(ii), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (b)(2)(A)(ii), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
-The Federal Deposit Insurance Act, referred to in subsec. (g), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of Title 12 and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (g), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of Title 12 and Tables.
 
-Title II, referred to in subsec. (g), is title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to subchapter II (§ 5381 et seq.) of chapter 53 of Title 12, Banks and Banking. For complete classification of title II to the Code, see Tables.
+Title II, referred to in subsec. (g), is title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to subchapter II (§ 5381 et seq.) of chapter 53 of Title 12, Banks and Banking. For complete classification of title II to the Code, see Tables.
 
 For the date on which this Act is effective, referred to in subsec. (h), see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking, and section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of Title 7, Agriculture.
 
@@ -449,19 +449,19 @@ This title, referred to in subsec. (i)(3), is title VII of Pub. L. 111–203, Ju
 
 This Act, referred to in subsec. (*l*), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12, Banks and Banking, and Tables.
 
-Title I, referred to in subsec. (*l*), is title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, known as the Financial Stability Act of 2010, which is classified principally to subchapter I (§ 5311 et seq.) of chapter 53 of Title 12, Banks and Banking. For complete classification of title I to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
+Title I, referred to in subsec. (*l*), is title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, known as the Financial Stability Act of 2010, which is classified principally to subchapter I (§ 5311 et seq.) of chapter 53 of Title 12, Banks and Banking. For complete classification of title I to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
 
 Section 619 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (m), is section 619 of Pub. L. 111–203, which enacted section 1851 of Title 12, Banks and Banking.
 
 **Amendments**
 
-2014—Subsec. (b)(2)(B). Pub. L. 113–235, § 630(1)(A), substituted “covered depository institution” for “insured depository institution”.
+2014—Subsec. (b)(2)(B). Pub. L. 113–235, § 630(1)(A), substituted “covered depository institution” for “insured depository institution”.
 
-Subsec. (b)(3). Pub. L. 113–235, § 630(1)(B), added par. (3).
+Subsec. (b)(3). Pub. L. 113–235, § 630(1)(B), added par. (3).
 
-Subsec. (c). Pub. L. 113–235, § 630(2), in heading, substituted “covered” for “insured” and, in text, substituted “a covered” for “an insured”, “such covered” for “such insured”, and “savings and loan holding company, or foreign banking organization (as such term is defined under Regulation K of the Board of Governors of the Federal Reserve System (12 CFR 211.21(*o*)))” for “or savings and loan holding company”.
+Subsec. (c). Pub. L. 113–235, § 630(2), in heading, substituted “covered” for “insured” and, in text, substituted “a covered” for “an insured”, “such covered” for “such insured”, and “savings and loan holding company, or foreign banking organization (as such term is defined under Regulation K of the Board of Governors of the Federal Reserve System (12 CFR 211.21(*o*)))” for “or savings and loan holding company”.
 
-Subsec. (d). Pub. L. 113–235, § 630(3), amended subsec. (d) generally. Prior to amendment, text read as follows: “The prohibition in subsection (a) shall apply to any insured depository institution unless the insured depository institution limits its swap or security-based swap activities to:
+Subsec. (d). Pub. L. 113–235, § 630(3), amended subsec. (d) generally. Prior to amendment, text read as follows: “The prohibition in subsection (a) shall apply to any insured depository institution unless the insured depository institution limits its swap or security-based swap activities to:
 
 “(1) Hedging and other similar risk mitigating activities directly related to the insured depository institution’s activities.
 
@@ -469,9 +469,9 @@ Subsec. (d). Pub. L. 113–235, § 630(3), amended subsec. (d) generally. Prio
 
 “(3) Limitation on credit default swaps.—Acting as a swaps entity for credit default swaps, including swaps or security-based swaps referencing the credit risk of asset-backed securities as defined in section 3(a)(77) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(77)) (as amended by this Act) shall not be considered a bank permissible activity for purposes of subsection (d)(2) unless such swaps or security-based swaps are cleared by a derivatives clearing organization (as such term is defined in section la of the Commodity Exchange Act (7 U.S.C. la)) or a clearing agency (as such term is defined in section 3 of the Securities Exchange Act (15 U.S.C. 78c)) that is registered, or exempt from registration, as a derivatives clearing organization under the Commodity Exchange Act or as a clearing agency under the Securities Exchange Act, respectively.”
 
-Subsec. (e). Pub. L. 113–235, § 630(4), substituted “a covered” for “an insured”.
+Subsec. (e). Pub. L. 113–235, § 630(4), substituted “a covered” for “an insured”.
 
-Subsec. (f). Pub. L. 113–235, § 630(5), substituted “a covered depository” for “an insured depository” and substituted “the covered depository” for “the insured depository” wherever appearing.
+Subsec. (f). Pub. L. 113–235, § 630(5), substituted “a covered depository” for “an insured depository” and substituted “the covered depository” for “the insured depository” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -479,7 +479,7 @@ Subsec. (f). Pub. L. 113–235, § 630(5), substituted “a covered depository
 
 For definitions of terms used in this section, see section 5301 of Title 12, Banks and Banking.
 
-#### § 8306. Determining status of novel derivative products
+#### § 8306. Determining status of novel derivative products
 
 **(a) Process for determining the status of a novel derivative product**
 
@@ -543,7 +543,7 @@ The court, in considering a petition filed pursuant to paragraph (1), shall give
 
 The filing of a petition by the complaining Commission pursuant to paragraph (1) shall operate as a stay of the order, until the date on which the determination of the court is final (including any appeal of the determination).
 
-(Pub. L. 111–203, title VII, § 718, July 21, 2010, 124 Stat. 1652.)
+(Pub. L. 111–203, title VII, § 718, July 21, 2010, 124 Stat. 1652.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -551,15 +551,15 @@ The filing of a petition by the complaining Commission pursuant to paragraph (1)
 
 For definition of “including” as used in this section, see section 5301 of Title 12, Banks and Banking.
 
-#### § 8307. Studies
+#### § 8307. Studies
 
 **(a) Study on effects of position limits on trading on exchanges in the United States**
 
 **(1) Study**
 
-The Commodity Futures Trading Commission, in consultation with each entity that is a designated contract market under the Commodity Exchange Act [7 U.S.C. 1 et seq.], shall conduct a study of the effects (if any) of the position limits imposed pursuant to the other provisions of this title 1
+The Commodity Futures Trading Commission, in consultation with each entity that is a designated contract market under the Commodity Exchange Act [7 U.S.C. 1 et seq.], shall conduct a study of the effects (if any) of the position limits imposed pursuant to the other provisions of this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 on excessive speculation and on the movement of transactions from exchanges in the United States to trading venues outside the United States.
 
@@ -611,9 +611,9 @@ Within 8 months after July 21, 2010, the Securities and Exchange Commission and 
 
 **(ii)** clearing house and clearing agency regulation in the United States, Asia, and Europe; and
 
-**(B)** that identifies areas of regulation that are similar in the United States, Asia and Europe and other areas of regulation that could be harmonized 2
+**(B)** that identifies areas of regulation that are similar in the United States, Asia and Europe and other areas of regulation that could be harmonized 2
 
-<sup>2</sup>  So in original. Probably should be followed by a period.
+<sup>2</sup> So in original. Probably should be followed by a period.
 
 **(2) Report** Not later than 18 months after July 21, 2010, the Commodity Futures Trading Commission and the Securities and Exchange Commission shall submit to the Committee on Agriculture, Nutrition, and Forestry and the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Agriculture and the Committee on Financial Services of the House of Representatives a report that includes a description of the results of the study under subsection (a), including—
 
@@ -635,7 +635,7 @@ Not later than 15 months after July 21, 2010, the Securities and Exchange Commis
 
 **(B) Regulations**
 
-If the Commissions determine that stable value contracts fall within the definition of a swap, the Commissions jointly shall determine if an exemption for stable value contracts from the definition of swap is appropriate and in the public interest. The Commissions shall issue regulations implementing the determinations required under this paragraph. Until the effective date of such regulations, and notwithstanding any other provision of this title,<sup>1</sup> the requirements of this title <sup>1</sup> shall not apply to stable value contracts.
+If the Commissions determine that stable value contracts fall within the definition of a swap, the Commissions jointly shall determine if an exemption for stable value contracts from the definition of swap is appropriate and in the public interest. The Commissions shall issue regulations implementing the determinations required under this paragraph. Until the effective date of such regulations, and notwithstanding any other provision of this title,<sup>1</sup> the requirements of this title <sup>1</sup> shall not apply to stable value contracts.
 
 **(C) Legal certainty**
 
@@ -645,13 +645,13 @@ Stable value contracts in effect prior to the effective date of the regulations 
 
 For purposes of this subsection, the term “stable value contract” means any contract, agreement, or transaction that provides a crediting interest rate and guaranty or financial assurance of liquidity at contract or book value prior to maturity offered by a bank, insurance company, or other State or federally regulated financial institution for the benefit of any individual or commingled fund available as an investment in an employee benefit plan (as defined in section 1002(3) of title 29, including plans described in section 1002(32) of title 29) subject to participant direction, an eligible deferred compensation plan (as defined in section 457(b) of title 26) that is maintained by an eligible employer described in section 457(e)(1)(A) of title 26, an arrangement described in section 403(b) of title 26, or a qualified tuition program (as defined in section 529 of title 26).
 
-(Pub. L. 111–203, title VII, § 719, July 21, 2010, 124 Stat. 1654.)
+(Pub. L. 111–203, title VII, § 719, July 21, 2010, 124 Stat. 1654.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Commodity Exchange Act, referred to in subsec. (a)(1), (2), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in subsec. (a)(1), (2), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 This title, referred to in subsecs. (a)(1), (2), and (d)(1)(B), is title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, known as the Wall Street Transparency and Accountability Act of 2010, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of title VII to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
@@ -661,7 +661,7 @@ This title, referred to in subsecs. (a)(1), (2), and (d)(1)(B), is title VII of 
 
 For definitions of terms used in this section, see section 5301 of Title 12, Banks and Banking.
 
-#### § 8308. Memorandum
+#### § 8308. Memorandum
 
 **(a)**
 
@@ -677,11 +677,11 @@ For definitions of terms used in this section, see section 5301 of Title 12, Ban
 
 **(b)** The Commodity Futures Trading Commission and the Federal Energy Regulatory Commission shall, not later than 180 days after July 21, 2010, negotiate a memorandum of understanding to share information that may be requested where either Commission is conducting an investigation into potential manipulation, fraud, or market power abuse in markets subject to such Commission’s regulation or oversight. Shared information shall remain subject to the same restrictions on disclosure applicable to the Commission initially holding the information.
 
-(Pub. L. 111–203, title VII, § 720, July 21, 2010, 124 Stat. 1657.)
+(Pub. L. 111–203, title VII, § 720, July 21, 2010, 124 Stat. 1657.)
 
 ### Part B—Regulation of Swap Markets
 
-#### § 8321. Authority to define terms
+#### § 8321. Authority to define terms
 
 **(a) Authority to define terms** The Commodity Futures Trading Commission may adopt a rule to define—
 
@@ -693,25 +693,25 @@ For definitions of terms used in this section, see section 5301 of Title 12, Ban
 
 To include transactions and entities that have been structured to evade this subtitle (or an amendment made by this subtitle), the Commodity Futures Trading Commission shall adopt a rule to further define the terms “swap”, “swap dealer”, “major swap participant”, and “eligible contract participant”.
 
-(Pub. L. 111–203, title VII, § 721(b), (c), July 21, 2010, 124 Stat. 1670.)
+(Pub. L. 111–203, title VII, § 721(b), (c), July 21, 2010, 124 Stat. 1670.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subtitle, referred to in text, is subtitle A (§§ 711–754) of title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, which enacted this subchapter, section 78c–2 of this title, and sections 1b, 6b–1, 6r to 6t, 7b–3, 24a, and 26 of Title 7, Agriculture, amended sections 78f, 78*o*, and 78s of this title, sections 1a, 2, 6 to 6b, 6c, 6d, 6m, 6q, 6s, 7 to 7b, 8 to 9a, 12, 12a, 13, 13–1, 13a–1, 13b, 15, 16, 21, 24, 25, 27 to 27b, 27e, and 27f of Title 7, section 761 of Title 11, Bankruptcy, and sections 4421 and 4422 of Title 12, Banks and Banking, enacted provisions set out as notes under sections 1a, 2, 6a, 7a–1, 7a–3, and 9 of Title 7, and amended provisions set out as a note under section 78c of this title. For complete classification of subtitle A to the Code, see Tables.
+This subtitle, referred to in text, is subtitle A (§§ 711–754) of title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, which enacted this subchapter, section 78c–2 of this title, and sections 1b, 6b–1, 6r to 6t, 7b–3, 24a, and 26 of Title 7, Agriculture, amended sections 78f, 78*o*, and 78s of this title, sections 1a, 2, 6 to 6b, 6c, 6d, 6m, 6q, 6s, 7 to 7b, 8 to 9a, 12, 12a, 13, 13–1, 13a–1, 13b, 15, 16, 21, 24, 25, 27 to 27b, 27e, and 27f of Title 7, section 761 of Title 11, Bankruptcy, and sections 4421 and 4422 of Title 12, Banks and Banking, enacted provisions set out as notes under sections 1a, 2, 6a, 7a–1, 7a–3, and 9 of Title 7, and amended provisions set out as a note under section 78c of this title. For complete classification of subtitle A to the Code, see Tables.
 
-The Commodity Exchange Act, referred to in subsec. (a)(2), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in subsec. (a)(2), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 **Codification**
 
 Section is comprised of subsecs. (b) and (c) of section 721 of Pub. L. 111–203, which were redesignated as subsecs. (a) and (b), respectively, of this section for purposes of codification.
 
-#### § 8322. Authority of FERC
+#### § 8322. Authority of FERC
 
 Nothing in the Wall Street Transparency and Accountability Act of 2010 or the amendments to the Commodity Exchange Act [7 U.S.C. 1 et seq.] made by such Act shall limit or affect any statutory enforcement authority of the Federal Energy Regulatory Commission pursuant to section 824v of title 16 and section 717c–1 of this title that existed prior to July 21, 2010.
 
-(Pub. L. 111–203, title VII, § 722(g), July 21, 2010, 124 Stat. 1674.)
+(Pub. L. 111–203, title VII, § 722(g), July 21, 2010, 124 Stat. 1674.)
 
 **Editorial Notes**
 
@@ -719,9 +719,9 @@ Nothing in the Wall Street Transparency and Accountability Act of 2010 or the am
 
 The Wall Street Transparency and Accountability Act of 2010, referred to in text, is title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
-The Commodity Exchange Act, referred to in text, is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in text, is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
-#### § 8323. Rulemaking on conflict of interest
+#### § 8323. Rulemaking on conflict of interest
 
 **(a) In general**
 
@@ -735,7 +735,7 @@ The Commission shall adopt rules if it determines, after the review described in
 
 In adopting rules pursuant to this section, the Commodity Futures Trading Commission shall consider any conflicts of interest arising from the amount of equity owned by a single investor, the ability to vote, cause the vote of, or withhold votes entitled to be cast on any matters by the holders of the ownership interest, and the governance arrangements of any derivatives clearing organization that clears swaps, or swap execution facility or board of trade designated as a contract market that posts swaps or makes swaps available for trading.
 
-(Pub. L. 111–203, title VII, § 726, July 21, 2010, 124 Stat. 1695.)
+(Pub. L. 111–203, title VII, § 726, July 21, 2010, 124 Stat. 1695.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -743,15 +743,15 @@ In adopting rules pursuant to this section, the Commodity Futures Trading Commis
 
 For definitions of terms used in this section, see section 5301 of Title 12, Banks and Banking.
 
-#### § 8324. Savings clause
+#### § 8324. Savings clause
 
 Notwithstanding any other provision of this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 nothing in this subtitle shall be construed as divesting any appropriate Federal banking agency of any authority it may have to establish or enforce, with respect to a person for which such agency is the appropriate Federal banking agency, prudential or other standards pursuant to authority granted by Federal law other than this title.1
 
-(Pub. L. 111–203, title VII, § 741(c), July 21, 2010, 124 Stat. 1732.)
+(Pub. L. 111–203, title VII, § 741(c), July 21, 2010, 124 Stat. 1732.)
 
 **Editorial Notes**
 
@@ -759,7 +759,7 @@ nothing in this subtitle shall be construed as divesting any appropriate Federal
 
 This title, referred to in text, is title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, known as the Wall Street Transparency and Accountability Act of 2010, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of title VII to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
-This subtitle, referred to in text, is subtitle A (§§ 711–754) of title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, which enacted this subchapter, section 78c–2 of this title, and sections 1b, 6b–1, 6r to 6t, 7b–3, 24a, and 26 of Title 7, Agriculture, amended sections 78f, 78*o*, and 78s of this title, sections 1a, 2, 6 to 6b, 6c, 6d, 6m, 6q, 6s, 7 to 7b, 8 to 9a, 12, 12a, 13, 13–1, 13a–1, 13b, 15, 16, 21, 24, 25, 27 to 27b, 27e, and 27f of Title 7, section 761 of Title 11, Bankruptcy, and sections 4421 and 4422 of Title 12, Banks and Banking, enacted provisions set out as notes under sections 1a, 2, 6a, 7a–1, 7a–3, and 9 of Title 7, and amended provisions set out as a note under section 78c of this title. For complete classification of subtitle A to the Code, see Tables.
+This subtitle, referred to in text, is subtitle A (§§ 711–754) of title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, which enacted this subchapter, section 78c–2 of this title, and sections 1b, 6b–1, 6r to 6t, 7b–3, 24a, and 26 of Title 7, Agriculture, amended sections 78f, 78*o*, and 78s of this title, sections 1a, 2, 6 to 6b, 6c, 6d, 6m, 6q, 6s, 7 to 7b, 8 to 9a, 12, 12a, 13, 13–1, 13a–1, 13b, 15, 16, 21, 24, 25, 27 to 27b, 27e, and 27f of Title 7, section 761 of Title 11, Bankruptcy, and sections 4421 and 4422 of Title 12, Banks and Banking, enacted provisions set out as notes under sections 1a, 2, 6a, 7a–1, 7a–3, and 9 of Title 7, and amended provisions set out as a note under section 78c of this title. For complete classification of subtitle A to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -767,13 +767,13 @@ This subtitle, referred to in text, is subtitle A (§§ 711–754) of title VI
 
 For definitions of terms used in this section, see section 5301 of Title 12, Banks and Banking.
 
-#### § 8325. International harmonization
+#### § 8325. International harmonization
 
 **(a)** In order to promote effective and consistent global regulation of swaps and security-based swaps, the Commodity Futures Trading Commission, the Securities and Exchange Commission, and the prudential regulators (as that term is defined in section 1a(39) of title 7), as appropriate, shall consult and coordinate with foreign regulatory authorities on the establishment of consistent international standards with respect to the regulation (including fees) of swaps, security-based swaps, swap entities, and security-based swap entities and may agree to such information-sharing arrangements as may be deemed to be necessary or appropriate in the public interest or for the protection of investors, swap counterparties, and security-based swap counterparties.
 
 **(b)** In order to promote effective and consistent global regulation of contracts of sale of a commodity for future delivery and options on such contracts, the Commodity Futures Trading Commission shall consult and coordinate with foreign regulatory authorities on the establishment of consistent international standards with respect to the regulation of contracts of sale of a commodity for future delivery and options on such contracts, and may agree to such information-sharing arrangements as may be deemed necessary or appropriate in the public interest for the protection of users of contracts of sale of a commodity for future delivery.
 
-(Pub. L. 111–203, title VII, § 752, July 21, 2010, 124 Stat. 1749.)
+(Pub. L. 111–203, title VII, § 752, July 21, 2010, 124 Stat. 1749.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -783,27 +783,27 @@ For definition of “including” as used in this section, see section 5301 of T
 
 ## SUBCHAPTER II—REGULATION OF SECURITY-BASED SWAP MARKETS
 
-### § 8341. Authority to further define terms
+### § 8341. Authority to further define terms
 
 The Securities and Exchange Commission may, by rule, further define—
 
 **(1)** the term “commercial risk”;
 
-**(2)** any other term included in an amendment to the Securities Exchange Act of 1934 1
+**(2)** any other term included in an amendment to the Securities Exchange Act of 1934 1
 
-<sup>1</sup>  So in original. Probably should be “section 3(a) of the Securities Exchange Act of 1934”.
+<sup>1</sup> So in original. Probably should be “section 3(a) of the Securities Exchange Act of 1934”.
 
 (15 U.S.C. 78c(a)) made by this subtitle; and
 
 **(3)** the terms “security-based swap”, “security-based swap dealer”, “major security-based swap participant”, and “eligible contract participant”, with regard to security-based swaps (as such terms are defined in the amendments made by subsection (a)) for the purpose of including transactions and entities that have been structured to evade this subtitle or the amendments made by this subtitle.
 
-(Pub. L. 111–203, title VII, § 761(b), July 21, 2010, 124 Stat. 1759.)
+(Pub. L. 111–203, title VII, § 761(b), July 21, 2010, 124 Stat. 1759.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subtitle, referred to in pars. (2) and (3), is subtitle B (§§ 761–774) of title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1754, which enacted this subchapter and sections 78c–3 to 78c–5, 78j–2, 78m–1, and 78*o*–10 of this title, amended sections 77b, 77b–1, 77e, 77q, 78c, 78c–1, 78f, 78i, 78j, 78m, 78*o*, 78p, 78q–1, 78t, 78u–1, 78u–2, 78bb, 78dd, 78mm, 80a–2, and 80b–2 of this title, enacted provisions set out as a note under section 77b of this title, and amended provisions set out as a note under section 78c of this title. For complete classification of subtitle B to the Code, see Tables.
+This subtitle, referred to in pars. (2) and (3), is subtitle B (§§ 761–774) of title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1754, which enacted this subchapter and sections 78c–3 to 78c–5, 78j–2, 78m–1, and 78*o*–10 of this title, amended sections 77b, 77b–1, 77e, 77q, 78c, 78c–1, 78f, 78i, 78j, 78m, 78*o*, 78p, 78q–1, 78t, 78u–1, 78u–2, 78bb, 78dd, 78mm, 80a–2, and 80b–2 of this title, enacted provisions set out as a note under section 77b of this title, and amended provisions set out as a note under section 78c of this title. For complete classification of subtitle B to the Code, see Tables.
 
 Subsection (a), referred to in par. (3), is subsec. (a) of section 761 of title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1754, which amended section 78c of this title.
 
@@ -817,15 +817,15 @@ Provisions of subchapter effective on the later of 360 days after July 21, 2010,
 
 For definition of “including” as used in this section, see section 5301 of Title 12, Banks and Banking.
 
-### § 8342. Savings clause
+### § 8342. Savings clause
 
 Notwithstanding any other provision of this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 nothing in this subtitle shall be construed as divesting any appropriate Federal banking agency of any authority it may have to establish or enforce, with respect to a person for which such agency is the appropriate Federal banking agency, prudential or other standards pursuant to authority by Federal law other than this title.1
 
-(Pub. L. 111–203, title VII, § 764(b), July 21, 2010, 124 Stat. 1796.)
+(Pub. L. 111–203, title VII, § 764(b), July 21, 2010, 124 Stat. 1796.)
 
 **Editorial Notes**
 
@@ -833,7 +833,7 @@ nothing in this subtitle shall be construed as divesting any appropriate Federal
 
 This title, referred to in text, is title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, known as the Wall Street Transparency and Accountability Act of 2010, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of title VII to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
-This subtitle, referred to in text, is subtitle B (§§ 761–774) of title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1754, which enacted this subchapter and sections 78c–3 to 78c–5, 78j–2, 78m–1, and 78*o*–10 of this title, amended sections 77b, 77b–1, 77e, 77q, 78c, 78c–1, 78f, 78i, 78j, 78m, 78*o*, 78p, 78q–1, 78t, 78u–1, 78u–2, 78bb, 78dd, 78mm, 80a–2, and 80b–2 of this title, enacted provisions set out as a note under section 77b of this title, and amended provisions set out as a note under section 78c of this title. For complete classification of subtitle B to the Code, see Tables.
+This subtitle, referred to in text, is subtitle B (§§ 761–774) of title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1754, which enacted this subchapter and sections 78c–3 to 78c–5, 78j–2, 78m–1, and 78*o*–10 of this title, amended sections 77b, 77b–1, 77e, 77q, 78c, 78c–1, 78f, 78i, 78j, 78m, 78*o*, 78p, 78q–1, 78t, 78u–1, 78u–2, 78bb, 78dd, 78mm, 80a–2, and 80b–2 of this title, enacted provisions set out as a note under section 77b of this title, and amended provisions set out as a note under section 78c of this title. For complete classification of subtitle B to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -841,7 +841,7 @@ This subtitle, referred to in text, is subtitle B (§§ 761–774) of title VI
 
 For definitions of terms used in this section, see section 5301 of Title 12, Banks and Banking.
 
-### § 8343. Rulemaking on conflict of interest
+### § 8343. Rulemaking on conflict of interest
 
 **(a) In general**
 
@@ -855,7 +855,7 @@ The Securities and Exchange Commission shall adopt rules if the Commission deter
 
 In adopting rules pursuant to this section, the Securities and Exchange Commission shall consider any conflicts of interest arising from the amount of equity owned by a single investor, the ability to vote, cause the vote of, or withhold votes entitled to be cast on any matters by the holders of the ownership interest, and the governance arrangements of any derivatives clearing organization that clears swaps, or swap execution facility or board of trade designated as a contract market that posts swaps or makes swaps available for trading.
 
-(Pub. L. 111–203, title VII, § 765, July 21, 2010, 124 Stat. 1796.)
+(Pub. L. 111–203, title VII, § 765, July 21, 2010, 124 Stat. 1796.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -863,17 +863,17 @@ In adopting rules pursuant to this section, the Securities and Exchange Commissi
 
 For definitions of terms used in this section, see section 5301 of Title 12, Banks and Banking.
 
-### § 8344. Other authority
+### § 8344. Other authority
 
 Unless otherwise provided by its terms, this subtitle does not divest any appropriate Federal banking agency, the Securities and Exchange Commission, the Commodity Futures Trading Commission, or any other Federal or State agency, of any authority derived from any other provision of applicable law.
 
-(Pub. L. 111–203, title VII, § 771, July 21, 2010, 124 Stat. 1801.)
+(Pub. L. 111–203, title VII, § 771, July 21, 2010, 124 Stat. 1801.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subtitle, referred to in text, is subtitle B (§§ 761–774) of title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1754, which enacted this subchapter and sections 78c–3 to 78c–5, 78j–2, 78m–1, and 78*o*–10 of this title, amended sections 77b, 77b–1, 77e, 77q, 78c, 78c–1, 78f, 78i, 78j, 78m, 78*o*, 78p, 78q–1, 78t, 78u–1, 78u–2, 78bb, 78dd, 78mm, 80a–2, and 80b–2 of this title, enacted provisions set out as a note under section 77b of this title, and amended provisions set out as a note under section 78c of this title. For complete classification of subtitle B to the Code, see Tables.
+This subtitle, referred to in text, is subtitle B (§§ 761–774) of title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1754, which enacted this subchapter and sections 78c–3 to 78c–5, 78j–2, 78m–1, and 78*o*–10 of this title, amended sections 77b, 77b–1, 77e, 77q, 78c, 78c–1, 78f, 78i, 78j, 78m, 78*o*, 78p, 78q–1, 78t, 78u–1, 78u–2, 78bb, 78dd, 78mm, 80a–2, and 80b–2 of this title, enacted provisions set out as a note under section 77b of this title, and amended provisions set out as a note under section 78c of this title. For complete classification of subtitle B to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 

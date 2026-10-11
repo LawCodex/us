@@ -17,19 +17,19 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—NATIONAL RECORDING REGISTRY
 
-### § 1701. National Recording Registry of the Library of Congress
+### § 1701. National Recording Registry of the Library of Congress
 
 The Librarian of Congress shall establish the National Recording Registry for the purpose of maintaining and preserving sound recordings that are culturally, historically, or aesthetically significant.
 
-(Pub. L. 106–474, title I, § 101, Nov. 9, 2000, 114 Stat. 2085.)
+(Pub. L. 106–474, title I, § 101, Nov. 9, 2000, 114 Stat. 2085.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 106–474, § 1, Nov. 9, 2000, 114 Stat. 2085, provided that: “This Act [enacting this chapter and chapter 1524 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations] may be cited as the ‘National Recording Preservation Act of 2000’.”
+Pub. L. 106–474, § 1, Nov. 9, 2000, 114 Stat. 2085, provided that: “This Act [enacting this chapter and chapter 1524 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations] may be cited as the ‘National Recording Preservation Act of 2000’.”
 
-### § 1702. Duties of Librarian of Congress
+### § 1702. Duties of Librarian of Congress
 
 **(a) Establishment of criteria and procedures** For purposes of carrying out this subchapter, the Librarian shall—
 
@@ -43,9 +43,9 @@ Pub. L. 106–474, § 1, Nov. 9, 2000, 114 Stat. 2085, provided that: “This 
 
 The Librarian shall publish in the Federal Register the name of each sound recording that is selected for inclusion in the National Recording Registry.
 
-(Pub. L. 106–474, title I, § 102, Nov. 9, 2000, 114 Stat. 2085.)
+(Pub. L. 106–474, title I, § 102, Nov. 9, 2000, 114 Stat. 2085.)
 
-### § 1703. Seal of the National Recording Registry
+### § 1703. Seal of the National Recording Registry
 
 **(a) In general**
 
@@ -97,9 +97,9 @@ In the case of a pattern or practice of the willful violation of subsection (d),
 
 The remedies provided in this subsection shall be the exclusive remedies under this chapter, or any other Federal or State law, regarding the use of the seal described in subsection (a).
 
-(Pub. L. 106–474, title I, § 103, Nov. 9, 2000, 114 Stat. 2086.)
+(Pub. L. 106–474, title I, § 103, Nov. 9, 2000, 114 Stat. 2086.)
 
-### § 1704. National Recording Registry Collection of the Library of Congress
+### § 1704. National Recording Registry Collection of the Library of Congress
 
 **(a) In general**
 
@@ -119,17 +119,17 @@ Not more than one copy of the same version or take of any sound recording may be
 
 All copies of sound recordings on the National Recording Registry that are received by the Librarian under subsection (b) shall become the property of the United States Government, subject to the provisions of title 17.
 
-(Pub. L. 106–474, title I, § 104, Nov. 9, 2000, 114 Stat. 2087.)
+(Pub. L. 106–474, title I, § 104, Nov. 9, 2000, 114 Stat. 2087.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsec. (b)(2), is Pub. L. 106–474, Nov. 9, 2000, 114 Stat. 2085, known as the National Recording Preservation Act of 2000, which enacted this chapter and chapter 1524 (§ 152401 et seq.) of Title 36, Patriotic and National Observances, Ceremonies, and Organizations. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
+This Act, referred to in subsec. (b)(2), is Pub. L. 106–474, Nov. 9, 2000, 114 Stat. 2085, known as the National Recording Preservation Act of 2000, which enacted this chapter and chapter 1524 (§ 152401 et seq.) of Title 36, Patriotic and National Observances, Ceremonies, and Organizations. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
 ## SUBCHAPTER II—NATIONAL SOUND RECORDING PRESERVATION PROGRAM
 
-### § 1711. Establishment of program by Librarian of Congress
+### § 1711. Establishment of program by Librarian of Congress
 
 **(a) In general**
 
@@ -147,23 +147,23 @@ The Librarian shall, after consultation with the National Recording Preservation
 
 **(5)** utilize the audiovisual conservation center of the Library of Congress at Culpeper, Virginia, to ensure that preserved sound recordings included in the National Recording Registry are stored in a proper manner and disseminated to researchers, scholars, and the public as may be appropriate in accordance with title 17 and the terms of any agreements between the Librarian and persons who hold copyrights to such recordings.
 
-(Pub. L. 106–474, title I, § 111, Nov. 9, 2000, 114 Stat. 2087.)
+(Pub. L. 106–474, title I, § 111, Nov. 9, 2000, 114 Stat. 2087.)
 
-### § 1712. Promoting accessibility and public awareness of sound recordings
+### § 1712. Promoting accessibility and public awareness of sound recordings
 
 The Librarian shall carry out activities to make sound recordings included in the National Recording Registry more broadly accessible for research and educational purposes and to generate public awareness and support of the Registry and the comprehensive national sound recording preservation program established under this subchapter.
 
-(Pub. L. 106–474, title I, § 112, Nov. 9, 2000, 114 Stat. 2088.)
+(Pub. L. 106–474, title I, § 112, Nov. 9, 2000, 114 Stat. 2088.)
 
 ## SUBCHAPTER III—NATIONAL RECORDING PRESERVATION BOARD
 
-### § 1721. Establishment
+### § 1721. Establishment
 
 The Librarian shall establish in the Library of Congress a National Recording Preservation Board whose members shall be selected in accordance with the procedures described in section 1722 of this title.
 
-(Pub. L. 106–474, title I, § 121, Nov. 9, 2000, 114 Stat. 2088.)
+(Pub. L. 106–474, title I, § 121, Nov. 9, 2000, 114 Stat. 2088.)
 
-### § 1722. Appointment of members
+### § 1722. Appointment of members
 
 **(a) Selections from lists submitted by organizations**
 
@@ -229,7 +229,7 @@ The Librarian shall have the authority to remove any member of the Board if the 
 
 A vacancy in the Board shall be filled in the manner in which the original appointment was made under subsection (a), except that the Librarian may fill the vacancy from a list of candidates previously submitted by the organization or organizations involved. Any member appointed to fill a vacancy shall be appointed for the remainder of the term of the member’s predecessor.
 
-(Pub. L. 106–474, title I, § 122, Nov. 9, 2000, 114 Stat. 2088; Pub. L. 110–336, § 2(a)(2), Oct. 2, 2008, 122 Stat. 3726.)
+(Pub. L. 106–474, title I, § 122, Nov. 9, 2000, 114 Stat. 2088; Pub. L. 110–336, § 2(a)(2), Oct. 2, 2008, 122 Stat. 3726.)
 
 **Editorial Notes**
 
@@ -237,7 +237,7 @@ A vacancy in the Board shall be filled in the manner in which the original appoi
 
 2008—Subsec. (d)(2). Pub. L. 110–336 amended par. (2) generally. Prior to amendment, text of par. (2) read as follows: “The Librarian shall have the authority to remove any member of the Board (or, in the case of a member appointed under subsection (a)(1) of this section, the organization that such member represents) if the member or organization over any consecutive 2-year period fails to attend at least one regularly scheduled Board meeting.”
 
-### § 1723. Service of members; meetings
+### § 1723. Service of members; meetings
 
 **(a) Reimbursement of expenses**
 
@@ -255,9 +255,9 @@ The Board shall meet at least once each fiscal year. Meetings shall be at the ca
 
 Eleven members of the Board shall constitute a quorum for the transaction of business.
 
-(Pub. L. 106–474, title I, § 123, Nov. 9, 2000, 114 Stat. 2089.)
+(Pub. L. 106–474, title I, § 123, Nov. 9, 2000, 114 Stat. 2089.)
 
-### § 1724. Responsibilities of Board
+### § 1724. Responsibilities of Board
 
 **(a) Review and recommendation of nominations for National Recording Registry**
 
@@ -285,9 +285,9 @@ The Board shall consider for inclusion in the National Recording Registry nomina
 
 **(5)** Copyright and other laws applicable to the preservation of sound recordings.
 
-(Pub. L. 106–474, title I, § 124, Nov. 9, 2000, 114 Stat. 2089.)
+(Pub. L. 106–474, title I, § 124, Nov. 9, 2000, 114 Stat. 2089.)
 
-### § 1725. General powers of Board
+### § 1725. General powers of Board
 
 **(a) In general**
 
@@ -297,11 +297,11 @@ The Board may, for the purpose of carrying out its duties, hold such hearings, s
 
 Two sitting members of the Board shall be appointed by the Librarian and shall serve as members of the board of directors of the National Recording Preservation Foundation, in accordance with section 152403 of title 36.
 
-(Pub. L. 106–474, title I, § 125, Nov. 9, 2000, 114 Stat. 2090.)
+(Pub. L. 106–474, title I, § 125, Nov. 9, 2000, 114 Stat. 2090.)
 
 ## SUBCHAPTER IV—GENERAL PROVISIONS
 
-### § 1741. Definitions
+### § 1741. Definitions
 
 As used in this chapter:
 
@@ -315,9 +315,9 @@ As used in this chapter:
 
 **(5)** The term “Registry version” means, with respect to a sound recording, the version of a recording first published or offered for mass distribution whether as a publication or a broadcast, or as complete a version as bona fide preservation and restoration activities by the Librarian, an archivist other than the Librarian, or the copyright legal owner can compile in those cases where the original material has been irretrievably lost or the recording is unpublished.
 
-(Pub. L. 106–474, title I, § 131, Nov. 9, 2000, 114 Stat. 2090.)
+(Pub. L. 106–474, title I, § 131, Nov. 9, 2000, 114 Stat. 2090.)
 
-### § 1742. Staff; experts and consultants
+### § 1742. Staff; experts and consultants
 
 **(a) Staff**
 
@@ -327,7 +327,7 @@ The Librarian may appoint and fix the pay of such personnel as the Librarian con
 
 The Librarian may, in carrying out this chapter, procure temporary and intermittent services under section 3109(b) of title 5, but at rates for individuals not to exceed the daily equivalent of the maximum rate of basic pay payable for level 15 of the General Schedule. In no case may a member of the Board (including an alternate member) be paid as an expert or consultant under this section.
 
-(Pub. L. 106–474, title I, § 132, Nov. 9, 2000, 114 Stat. 2091.)
+(Pub. L. 106–474, title I, § 132, Nov. 9, 2000, 114 Stat. 2091.)
 
 **Editorial Notes**
 
@@ -335,11 +335,11 @@ The Librarian may, in carrying out this chapter, procure temporary and intermitt
 
 The General Schedule, referred to in subsec. (b), is set out under section 5332 of Title 5, Government Organization and Employees.
 
-### § 1743. Authorization of appropriations
+### § 1743. Authorization of appropriations
 
 There are authorized to be appropriated to the Librarian for the first fiscal year beginning on or after November 9, 2000, and each succeeding fiscal year through fiscal year 2026 such sums as may be necessary to carry out this chapter, except that the amount authorized for any fiscal year may not exceed $250,000.
 
-(Pub. L. 106–474, title I, § 133, Nov. 9, 2000, 114 Stat. 2091; Pub. L. 110–336, § 2(a)(1)(A), Oct. 2, 2008, 122 Stat. 3726; Pub. L. 114–217, § 2(a), July 29, 2016, 130 Stat. 840.)
+(Pub. L. 106–474, title I, § 133, Nov. 9, 2000, 114 Stat. 2091; Pub. L. 110–336, § 2(a)(1)(A), Oct. 2, 2008, 122 Stat. 3726; Pub. L. 114–217, § 2(a), July 29, 2016, 130 Stat. 840.)
 
 **Editorial Notes**
 
@@ -353,4 +353,4 @@ There are authorized to be appropriated to the Librarian for the first fiscal ye
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–336, § 2(a)(1)(B), Oct. 2, 2008, 122 Stat. 3726, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect as if included in the enactment of the National Recording Preservation Act of 2000 [Pub. L. 106–474].”
+Pub. L. 110–336, § 2(a)(1)(B), Oct. 2, 2008, 122 Stat. 3726, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect as if included in the enactment of the National Recording Preservation Act of 2000 [Pub. L. 106–474].”

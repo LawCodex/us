@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 415—RESOURCE CENTERS, TASK FORCES, DATABASES, AND PROGRAMS
 
-## § 41501. Financial institutions fraud task forces
+## § 41501. Financial institutions fraud task forces
 
 **(a) Establishment**
 
@@ -49,7 +49,7 @@ The Attorney General shall establish a senior interagency group to assist in ide
 
 This senior interagency group shall enhance interagency coordination and assist in accelerating the investigations and prosecution of financial institutions fraud.
 
-(Pub. L. 101–647, title XXV, § 2539, Nov. 29, 1990, 104 Stat. 4884; Pub. L. 111–203, title III, § 359(1), July 21, 2010, 124 Stat. 1548.)
+(Pub. L. 101–647, title XXV, § 2539, Nov. 29, 1990, 104 Stat. 4884; Pub. L. 111–203, title III, § 359(1), July 21, 2010, 124 Stat. 1548.)
 
 **Editorial Notes**
 
@@ -67,7 +67,7 @@ Section was formerly classified in a note under section 509 of Title 28, Judicia
 
 Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 
-## § 41502. Morgan P. Hardiman Child Abduction and Serial Murder Investigative Resources Center
+## § 41502. Morgan P. Hardiman Child Abduction and Serial Murder Investigative Resources Center
 
 **(a) Establishment**
 
@@ -125,7 +125,7 @@ CASMIRC personnel, under the guidance of the Federal Bureau of Investigation’s
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 1999, 2000, and 2001.
 
-(Pub. L. 105–314, title VII, § 703(a)–(f), Oct. 30, 1998, 112 Stat. 2987–2989.)
+(Pub. L. 105–314, title VII, § 703(a)–(f), Oct. 30, 1998, 112 Stat. 2987–2989.)
 
 **Editorial Notes**
 
@@ -143,7 +143,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 41503. Fugitive Apprehension Task Forces
+## § 41503. Fugitive Apprehension Task Forces
 
 **(a) In general**
 
@@ -157,7 +157,7 @@ There are authorized to be appropriated to the Attorney General for the United S
 
 Nothing in this section shall be construed to limit any existing authority under any other provision of Federal or State law for law enforcement agencies to locate or apprehend fugitives through task forces or any other means.
 
-(Pub. L. 106–544, § 6, Dec. 19, 2000, 114 Stat. 2718; Pub. L. 110–177, title V, § 507, Jan. 7, 2008, 121 Stat. 2543.)
+(Pub. L. 106–544, § 6, Dec. 19, 2000, 114 Stat. 2718; Pub. L. 110–177, title V, § 507, Jan. 7, 2008, 121 Stat. 2543.)
 
 **Editorial Notes**
 
@@ -167,9 +167,9 @@ Section was formerly classified as a note under section 566 of Title 28, Judicia
 
 **Amendments**
 
-2008—Subsec. (b). Pub. L. 110–177 struck out “and” after “fiscal year 2002,” and inserted before period at end “, and $10,000,000 for each of fiscal years 2008 through 2012”.
+2008—Subsec. (b). Pub. L. 110–177 struck out “and” after “fiscal year 2002,” and inserted before period at end “, and $10,000,000 for each of fiscal years 2008 through 2012”.
 
-## § 41504. Project Safe Neighborhoods
+## § 41504. Project Safe Neighborhoods
 
 **(a) In general**
 
@@ -179,7 +179,7 @@ The Attorney General shall establish a program for each United States Attorney t
 
 There are authorized to be appropriated to carry out this section $9,000,000 for fiscal year 2002 to hire an additional Assistant United States Attorney in each United States Attorney Office.
 
-(Pub. L. 107–273, div. A, title I, § 104, Nov. 2, 2002, 116 Stat. 1766.)
+(Pub. L. 107–273, div. A, title I, § 104, Nov. 2, 2002, 116 Stat. 1766.)
 
 **Editorial Notes**
 
@@ -187,21 +187,21 @@ There are authorized to be appropriated to carry out this section $9,000,000 for
 
 Section was formerly classified as a note under section 509 of Title 28, Judiciary and Judicial Procedure, prior to editorial reclassification and renumbering as this section.
 
-## § 41505. Organized retail theft database
+## § 41505. Organized retail theft database
 
 **(a) National data**
 
 **(1)** The Attorney General and the Federal Bureau of Investigation, in consultation with the retail community, shall establish a task force to combat organized retail theft and provide expertise to the retail community for the establishment of a national database or clearinghouse housed and maintained in the private sector to track and identify where organized retail theft type crimes are being committed in the United Sates.1
 
-<sup>1</sup>  So in original. Probably should be “States”.
+<sup>1</sup> So in original. Probably should be “States”.
 
 The national database shall allow Federal, State, and local law enforcement officials as well as authorized retail companies (and authorized associated retail databases) to transmit information into the database electronically and to review information that has been submitted electronically.
 
 **(2)** The Attorney General shall make available funds to provide for the ongoing administrative and technological costs to federal law enforcement agencies participating in the database project.
 
-**(3)** The Director of the Bureau of Justice Assistance of the Office of Justice Programs may make grants to help provide for the administrative and technological costs to State and local law enforcement agencies participating in the data base 2
+**(3)** The Director of the Bureau of Justice Assistance of the Office of Justice Programs may make grants to help provide for the administrative and technological costs to State and local law enforcement agencies participating in the data base 2
 
-<sup>2</sup>  So in original. Probably should be “database”.
+<sup>2</sup> So in original. Probably should be “database”.
 
 project.
 
@@ -213,15 +213,15 @@ There is authorized to be appropriated for each of fiscal years 2006 through 200
 
 **(1)** the violation of a State prohibition on retail merchandise theft or shoplifting, if the violation consists of the theft of quantities of items that would not normally be purchased for personal use or consumption and for the purpose of reselling the items or for reentering the items into commerce;
 
-**(2)** the receipt, possession, concealment, bartering, sale, transport, or disposal of any property that is know 3
+**(2)** the receipt, possession, concealment, bartering, sale, transport, or disposal of any property that is know 3
 
-<sup>3</sup>  So in original. Probably should be “known”.
+<sup>3</sup> So in original. Probably should be “known”.
 
 or should be known to have been taken in violation of paragraph (1); or
 
 **(3)** the coordination, organization, or recruitment of persons to undertake the conduct described in paragraph (1) or (2).
 
-(Pub. L. 109–162, title XI, § 1105, Jan. 5, 2006, 119 Stat. 3092; Pub. L. 109–271, § 8(a), Aug. 12, 2006, 120 Stat. 766.)
+(Pub. L. 109–162, title XI, § 1105, Jan. 5, 2006, 119 Stat. 3092; Pub. L. 109–271, § 8(a), Aug. 12, 2006, 120 Stat. 766.)
 
 **Editorial Notes**
 
@@ -233,7 +233,7 @@ Section was formerly classified as a note under section 509 of Title 28, Judicia
 
 2006—Subsec. (a)(3). Pub. L. 109–271 substituted “The Director of the Bureau of Justice Assistance of the Office of Justice Programs may” for “The Attorney General through the Bureau of Justice Assistance in the Office of Justice may”.
 
-## § 41506. United States-Mexico Border Violence Task Force
+## § 41506. United States-Mexico Border Violence Task Force
 
 **(a) Task Force**
 
@@ -247,7 +247,7 @@ Section was formerly classified as a note under section 509 of Title 28, Judicia
 
 **(2)** the investigation, apprehension, and prosecution of individuals engaged in drug and firearms trafficking, violence, and kidnapping along the border between the United States and Mexico.
 
-(Pub. L. 109–162, title XI, § 1106, Jan. 5, 2006, 119 Stat. 3093.)
+(Pub. L. 109–162, title XI, § 1106, Jan. 5, 2006, 119 Stat. 3093.)
 
 **Editorial Notes**
 
@@ -255,7 +255,7 @@ Section was formerly classified as a note under section 509 of Title 28, Judicia
 
 Section was formerly classified as a note under section 509 of Title 28, Judiciary and Judicial Procedure, prior to editorial reclassification and renumbering as this section.
 
-## § 41507. National Gang Intelligence Center
+## § 41507. National Gang Intelligence Center
 
 **(a) Establishment** The Attorney General shall establish a National Gang Intelligence Center and gang information database to be housed at and administered by the Federal Bureau of Investigation to collect, analyze, and disseminate gang activity information from—
 
@@ -303,7 +303,7 @@ The Center established under subsection (a) shall annually submit to Congress a 
 
 There are authorized to be appropriated to carry out this section $10,000,000 for fiscal year 2006 and for each fiscal year thereafter.
 
-(Pub. L. 109–162, title XI, § 1107, Jan. 5, 2006, 119 Stat. 3093; Pub. L. 111–211, title II, § 251(a), July 29, 2010, 124 Stat. 2297.)
+(Pub. L. 109–162, title XI, § 1107, Jan. 5, 2006, 119 Stat. 3093; Pub. L. 111–211, title II, § 251(a), July 29, 2010, 124 Stat. 2297.)
 
 **Editorial Notes**
 
@@ -313,17 +313,17 @@ Section was formerly classified as a note under section 534 of Title 28, Judicia
 
 **Amendments**
 
-2010—Subsec. (a)(8). Pub. L. 111–211, § 251(a)(1)(A), (B), added par. (8) and redesignated former par. (8) as (9).
+2010—Subsec. (a)(8). Pub. L. 111–211, § 251(a)(1)(A), (B), added par. (8) and redesignated former par. (8) as (9).
 
-Subsec. (a)(9). Pub. L. 111–211, § 251(a)(1)(A), (C), redesignated par. (8) as (9) and substituted “tribal, State,” for “State”. Former par. (9) redesignated (10).
+Subsec. (a)(9). Pub. L. 111–211, § 251(a)(1)(A), (C), redesignated par. (8) as (9) and substituted “tribal, State,” for “State”. Former par. (9) redesignated (10).
 
-Subsec. (a)(10) to (12). Pub. L. 111–211, § 251(a)(1)(A), (D), redesignated pars. (9) to (11) as (10) to (12), respectively, and inserted “tribal,” before “State,” wherever appearing. Former par. (12) redesignated (13).
+Subsec. (a)(10) to (12). Pub. L. 111–211, § 251(a)(1)(A), (D), redesignated pars. (9) to (11) as (10) to (12), respectively, and inserted “tribal,” before “State,” wherever appearing. Former par. (12) redesignated (13).
 
-Subsec. (a)(13). Pub. L. 111–211, § 251(a)(1)(A), redesignated par. (12) as (13).
+Subsec. (a)(13). Pub. L. 111–211, § 251(a)(1)(A), redesignated par. (12) as (13).
 
-Subsec. (b). Pub. L. 111–211, § 251(a)(2), inserted “tribal,” before “State,” wherever appearing.
+Subsec. (b). Pub. L. 111–211, § 251(a)(2), inserted “tribal,” before “State,” wherever appearing.
 
-## § 41508. Grants to States for threat assessment databases
+## § 41508. Grants to States for threat assessment databases
 
 **(a) In general**
 
@@ -345,7 +345,7 @@ The Attorney General shall define a core set of data elements to be used by each
 
 There are authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2008 through 2011.
 
-(Pub. L. 110–177, title III, § 303, Jan. 7, 2008, 121 Stat. 2540.)
+(Pub. L. 110–177, title III, § 303, Jan. 7, 2008, 121 Stat. 2540.)
 
 **Editorial Notes**
 

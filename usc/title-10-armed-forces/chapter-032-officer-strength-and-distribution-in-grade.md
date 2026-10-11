@@ -19,35 +19,35 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2023—Pub. L. 118–31, div. A, title V, § 501(a), Dec. 22, 2023, 137 Stat. 240, renumbered item 526a as 526, struck out “after December 31, 2022” after “Authorized strength” in item 526, and struck out former items 526 “Authorized strength: general and flag officers on active duty” and 526a “Authorized strength after December 31, 2022: general officers and flag officers on active duty”. Renumbering, amendment, and striking of item 526 were made pursuant to operation of section 102 of this title.
+2023—Pub. L. 118–31, div. A, title V, § 501(a), Dec. 22, 2023, 137 Stat. 240, renumbered item 526a as 526, struck out “after December 31, 2022” after “Authorized strength” in item 526, and struck out former items 526 “Authorized strength: general and flag officers on active duty” and 526a “Authorized strength after December 31, 2022: general officers and flag officers on active duty”. Renumbering, amendment, and striking of item 526 were made pursuant to operation of section 102 of this title.
 
-2016—Pub. L. 114–328, div. A, title V, § 501(h)(3), Dec. 23, 2016, 130 Stat. 2102, added item 526a.
+2016—Pub. L. 114–328, div. A, title V, § 501(h)(3), Dec. 23, 2016, 130 Stat. 2102, added item 526a.
 
-2011—Pub. L. 112–81, div. A, title V, § 502(d)(2)(B), 125 Stat. 1388, added item 528 and struck out former item 528 “Officers serving in certain intelligence positions: military status; exclusion from distribution and strength limitations; pay and allowances.”
+2011—Pub. L. 112–81, div. A, title V, § 502(d)(2)(B), 125 Stat. 1388, added item 528 and struck out former item 528 “Officers serving in certain intelligence positions: military status; exclusion from distribution and strength limitations; pay and allowances.”
 
-2006—Pub. L. 109–364, div. A, title V, § 501(b)(2), Oct. 17, 2006, 120 Stat. 2176, substituted “Officers serving in certain intelligence positions: military status; exclusion from distribution and strength limitations; pay and allowances” for “Exclusion: officers serving in certain intelligence positions” in item 528.
+2006—Pub. L. 109–364, div. A, title V, § 501(b)(2), Oct. 17, 2006, 120 Stat. 2176, substituted “Officers serving in certain intelligence positions: military status; exclusion from distribution and strength limitations; pay and allowances” for “Exclusion: officers serving in certain intelligence positions” in item 528.
 
-Pub. L. 109–163, div. A, title V, § 507(b), Jan. 6, 2006, 119 Stat. 3228, substituted “Exclusion: officers serving in certain intelligence positions” for “Exclusion: Associate Director of Central Intelligence for Military Support” in item 528.
+Pub. L. 109–163, div. A, title V, § 507(b), Jan. 6, 2006, 119 Stat. 3228, substituted “Exclusion: officers serving in certain intelligence positions” for “Exclusion: Associate Director of Central Intelligence for Military Support” in item 528.
 
-2004—Pub. L. 108–375, div. A, title V, § 501(b)(2), Oct. 28, 2004, 118 Stat. 1873, struck out item 522 “Authorized total strengths: regular commissioned officers on active duty”.
+2004—Pub. L. 108–375, div. A, title V, § 501(b)(2), Oct. 28, 2004, 118 Stat. 1873, struck out item 522 “Authorized total strengths: regular commissioned officers on active duty”.
 
-2003—Pub. L. 108–136, div. A, title V, § 507(b), Nov. 24, 2003, 117 Stat. 1458, added item 528.
+2003—Pub. L. 108–136, div. A, title V, § 507(b), Nov. 24, 2003, 117 Stat. 1458, added item 528.
 
-2001—Pub. L. 107–107, div. A, title V, § 501(b), Dec. 28, 2001, 115 Stat. 1079, struck out item 528 “Limitation on number of officers on active duty in grades of general and admiral”.
+2001—Pub. L. 107–107, div. A, title V, § 501(b), Dec. 28, 2001, 115 Stat. 1079, struck out item 528 “Limitation on number of officers on active duty in grades of general and admiral”.
 
-1994—Pub. L. 103–337, div. A, title IV, § 405(b)(2), title XVI, § 1671(b)(4), Oct. 5, 1994, 108 Stat. 2745, 3013, struck out item 524 “Authorized strengths: reserve officers on active duty or on full-time National Guard duty for administration of the reserves or the National Guard in grades of major, lieutenant colonel, and colonel and Navy grades of lieutenant commander, commander, and captain”, struck out “524,” after “523,” in item 527, and added item 528.
+1994—Pub. L. 103–337, div. A, title IV, § 405(b)(2), title XVI, § 1671(b)(4), Oct. 5, 1994, 108 Stat. 2745, 3013, struck out item 524 “Authorized strengths: reserve officers on active duty or on full-time National Guard duty for administration of the reserves or the National Guard in grades of major, lieutenant colonel, and colonel and Navy grades of lieutenant commander, commander, and captain”, struck out “524,” after “523,” in item 527, and added item 528.
 
-1988—Pub. L. 100–370, § 1(b)(3), July 19, 1988, 102 Stat. 840, struck out former item 526 “Authority to suspend sections 523, 524, and 525”, and added items 526 and 527.
+1988—Pub. L. 100–370, § 1(b)(3), July 19, 1988, 102 Stat. 840, struck out former item 526 “Authority to suspend sections 523, 524, and 525”, and added items 526 and 527.
 
-1984—Pub. L. 98–525, title IV, § 414(a)(4)(B)(ii), inserted references to the National Guard and to full-time National Guard duty in item 524.
+1984—Pub. L. 98–525, title IV, § 414(a)(4)(B)(ii), inserted references to the National Guard and to full-time National Guard duty in item 524.
 
-## § 521. Authority to prescribe total strengths of officers on active duty and officer strengths in various categories
+## § 521. Authority to prescribe total strengths of officers on active duty and officer strengths in various categories
 
 **(a)** Whenever the needs of the services require, but at least once each fiscal year, the Secretary of Defense shall prescribe the total authorized active-duty strength as of the end of the fiscal year for officers in grades above chief warrant officer, W–5, for each of the armed forces under the jurisdiction of the Secretary of a military department.
 
 **(b)** Under regulations prescribed by the Secretary of Defense, the Secretary of each military department may, for an armed force under his jurisdiction, prescribe the strength of any category of officers that may serve on active duty.
 
-(Added Pub. L. 96–513, title I, § 103, Dec. 12, 1980, 94 Stat. 2841; amended Pub. L. 102–190, div. A, title XI, § 1131(1)(A), Dec. 5, 1991, 105 Stat. 1505.)
+(Added Pub. L. 96–513, title I, § 103, Dec. 12, 1980, 94 Stat. 2841; amended Pub. L. 102–190, div. A, title XI, § 1131(1)(A), Dec. 5, 1991, 105 Stat. 1505.)
 
 **Editorial Notes**
 
@@ -59,7 +59,7 @@ Pub. L. 109–163, div. A, title V, § 507(b), Jan. 6, 2006, 119 Stat. 3228, s
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–190, div. A, title XI, § 1132, Dec. 5, 1991, 105 Stat. 1506, provided that: “This title [enacting sections 571 to 583 and 742 of this title, amending this section, sections 522, 597 [now 12241], 598 [now 12242], 603, 628, 644, 741, 1166, 1174, 1305, 1406, 5414, 5457, 5458, 5501 to 5503, 5596, 5600, 5665, 6389, and 6391 of this title, sections 286a and 334 of Title 14, Coast Guard, and sections 201, 301, 301c, 305a, and 406 of Title 37, Pay and Allowances of the Uniformed Services, repealing sections 555 to 565, 602, and 745 of this title, and enacting provisions set out as notes under sections 555 and 571 of this title and section 1009 of Title 37] and the amendments made by this title shall take effect on February 1, 1992.”
+Pub. L. 102–190, div. A, title XI, § 1132, Dec. 5, 1991, 105 Stat. 1506, provided that: “This title [enacting sections 571 to 583 and 742 of this title, amending this section, sections 522, 597 [now 12241], 598 [now 12242], 603, 628, 644, 741, 1166, 1174, 1305, 1406, 5414, 5457, 5458, 5501 to 5503, 5596, 5600, 5665, 6389, and 6391 of this title, sections 286a and 334 of Title 14, Coast Guard, and sections 201, 301, 301c, 305a, and 406 of Title 37, Pay and Allowances of the Uniformed Services, repealing sections 555 to 565, 602, and 745 of this title, and enacting provisions set out as notes under sections 555 and 571 of this title and section 1009 of Title 37] and the amendments made by this title shall take effect on February 1, 1992.”
 
 **Effective Date**
 
@@ -71,11 +71,11 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
 **Evaluation of Effects of Officer Strength Reductions on Officer Personnel Management Systems**
 
-Pub. L. 102–484, div. A, title V, § 502, Oct. 23, 1992, 106 Stat. 2402, directed the Secretary of Defense to provide for an independent, federally funded research and development center to review the officer personnel management system of each of the military departments and to determine and evaluate the effects of post-Cold War officer strength reductions on that officer personnel management system, required the center to submit to the Secretary of Defense a report on the results of the review and evaluation not later than Dec. 31, 1993, and directed the Secretary to transmit the report to committees of Congress within 60 days after receipt.
+Pub. L. 102–484, div. A, title V, § 502, Oct. 23, 1992, 106 Stat. 2402, directed the Secretary of Defense to provide for an independent, federally funded research and development center to review the officer personnel management system of each of the military departments and to determine and evaluate the effects of post-Cold War officer strength reductions on that officer personnel management system, required the center to submit to the Secretary of Defense a report on the results of the review and evaluation not later than Dec. 31, 1993, and directed the Secretary to transmit the report to committees of Congress within 60 days after receipt.
 
 **Strength of Active Duty Officer Corps**
 
-Pub. L. 100–456, div. A, title IV, § 402(c), Sept. 29, 1988, 102 Stat. 1963, provided that:
+Pub. L. 100–456, div. A, title IV, § 402(c), Sept. 29, 1988, 102 Stat. 1963, provided that:
 
 > **“(1)** The number of officers serving on active duty (excluding officers in categories specified in paragraph (2)) as of September 30, 1990, may not exceed—
 
@@ -85,7 +85,7 @@ Pub. L. 100–456, div. A, title IV, § 402(c), Sept. 29, 1988, 102 Stat. 1963
 
 > **“(2)** Officers in the categories described in section 403(b) of the National Defense Authorization Act for Fiscal Year 1987 [Pub. L. 99–661, set out below] shall be excluded in counting officers under this subsection.”
 
-Pub. L. 100–180, div. A, title IV, § 402, Dec. 4, 1987, 101 Stat. 1081, as amended by Pub. L. 100–456, div. A, title IV, § 402(b), Sept. 29, 1988, 102 Stat. 1963, provided that:
+Pub. L. 100–180, div. A, title IV, § 402, Dec. 4, 1987, 101 Stat. 1081, as amended by Pub. L. 100–456, div. A, title IV, § 402(b), Sept. 29, 1988, 102 Stat. 1963, provided that:
 
 > **“(a) Authority To Increase for Fiscal Year 1988.—** Subject to subsection (b), the Secretary of Defense may increase by not more than 1 percentage point (to not more than 98 percent) the percentage limitation prescribed in section 403(a) of the National Defense Authorization Act for Fiscal Year 1987 (Public Law 99–661; 100 Stat. 3859) [set out below] applicable to the total number of commissioned officers of the Army, Navy, Air Force, and Marine Corps that may be serving on active duty as of September 30, 1988.
 
@@ -95,7 +95,7 @@ Pub. L. 100–180, div. A, title IV, § 402, Dec. 4, 1987, 101 Stat. 1081, as 
 
 > **“(2)** the Secretary submits to those Committees with such certification a report providing legislative recommendations for temporary changes in chapter 36 of title 10, United States Code, and other provisions of law enacted by the Defense Officer Personnel Management Act (Public Law 96–513) [see Tables for classification] that the Secretary considers necessary in order to implement the required officer reductions under such section 403 [set out below] with the least possible adverse effect on the Armed Forces.”
 
-Pub. L. 99–661, div. A, title IV, § 403, Nov. 14, 1986, 100 Stat. 3859, as amended by Pub. L. 100–456, div. A, title IV, § 402(a), Sept. 29, 1988, 102 Stat. 1963; Pub. L. 101–189, div. A, title VI, § 653(e)(2), Nov. 29, 1989, 103 Stat. 1463; Pub. L. 103–337, div. A, title XVI, § 1677(e), Oct. 5, 1994, 108 Stat. 3020, provided that:
+Pub. L. 99–661, div. A, title IV, § 403, Nov. 14, 1986, 100 Stat. 3859, as amended by Pub. L. 100–456, div. A, title IV, § 402(a), Sept. 29, 1988, 102 Stat. 1963; Pub. L. 101–189, div. A, title VI, § 653(e)(2), Nov. 29, 1989, 103 Stat. 1463; Pub. L. 103–337, div. A, title XVI, § 1677(e), Oct. 5, 1994, 108 Stat. 3020, provided that:
 
 > **“(a) Reduction in Size of Officer Corps.—** On and after each of the dates set forth in column 1 of the following table, the total number of commissioned officers serving on active duty in the Army, Navy, Air Force, and Marine Corps (excluding officers in categories specified in subsection (b)) may not exceed the percentage, set forth in column 2 opposite such date, of the total number of commissioned officers serving on active duty as of September 30, 1986 (excluding officers in categories specified in subsection (b)):
 
@@ -128,9 +128,9 @@ Pub. L. 99–661, div. A, title IV, § 403, Nov. 14, 1986, 100 Stat. 3859, as 
 
 > **“(c) Apportionment of Reductions by Secretary of Defense.—** The Secretary of Defense shall apportion the reductions in the number of commissioned officers serving on active duty required by subsection (a) among the Army, Navy, Air Force, and Marine Corps. Not later than February 1 of each fiscal year in which reductions are required under subsection (a), the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the manner in which the reductions have been or are to be apportioned for that fiscal year and for the next fiscal year for which such reductions are required.”
 
-## [§ 522. Repealed. Pub. L. 108–375, div. A, title V, § 501(b)(1), Oct. 28, 2004, 118 Stat. 1873]
+## [§ 522. Repealed. Pub. L. 108–375, div. A, title V, § 501(b)(1), Oct. 28, 2004, 118 Stat. 1873]
 
-Section, added Pub. L. 96–513, title I, § 103, Dec. 12, 1980, 94 Stat. 2841; amended Pub. L. 98–525, title V, § 522, Oct. 19, 1984, 98 Stat. 2523; Pub. L. 102–190, div. A, title XI, § 1131(1)(B), Dec. 5, 1991, 105 Stat. 1505, related to authorized total strengths of regular commissioned officers on active duty.
+Section, added Pub. L. 96–513, title I, § 103, Dec. 12, 1980, 94 Stat. 2841; amended Pub. L. 98–525, title V, § 522, Oct. 19, 1984, 98 Stat. 2523; Pub. L. 102–190, div. A, title XI, § 1131(1)(B), Dec. 5, 1991, 105 Stat. 1505, related to authorized total strengths of regular commissioned officers on active duty.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -138,7 +138,7 @@ Section, added Pub. L. 96–513, title I, § 103, Dec. 12, 1980, 94 Stat. 2841
 
 Repeal effective on the first day of the first month beginning more than 180 days after Oct. 28, 2004, see section 501(g) of Pub. L. 108–375, set out as an Effective Date of 2004 Amendment note under section 531 of this title.
 
-## § 523. Authorized strengths: commissioned officers on active duty in grades of major, lieutenant colonel, and colonel and Navy grades of lieutenant commander, commander, and captain
+## § 523. Authorized strengths: commissioned officers on active duty in grades of major, lieutenant colonel, and colonel and Navy grades of lieutenant commander, commander, and captain
 
 **(a)**
 
@@ -147,7 +147,7 @@ Repeal effective on the first day of the first month beginning more than 180 day
 <table>
 <tr><th rowspan="2">Total number of commissioned officers (excluding officers in categories specified in subsection (b)) on active duty:</th><th colspan="3">Number of officers who may be serving on active duty in grade of:</th></tr>
 <tr><th>Major</th><th>Lieutenant Colonel</th><th>Colonel</th></tr>
-<tr><td colspan="4">1 Table heading editorially supplied.</td></tr>
+<tr><td colspan="4">1 Table heading editorially supplied.</td></tr>
 <tr><td>Army:</td><td></td><td></td><td></td></tr>
 <tr><td>20,000</td><td>7,768</td><td>5,253</td><td>1,613</td></tr>
 <tr><td>25,000</td><td>8,689</td><td>5,642</td><td>1,796</td></tr>
@@ -198,7 +198,7 @@ Repeal effective on the first day of the first month beginning more than 180 day
 <tr><td>20,000</td><td>4,579</td><td>2,230</td><td>736</td></tr>
 <tr><td>22,500</td><td>5,024</td><td>2,383</td><td>762</td></tr>
 <tr><td>25,000</td><td>5,468</td><td>2,537</td><td>787</td></tr>
-<tr><td>Space Force: 1</td><td></td><td></td><td></td></tr>
+<tr><td>Space Force: 1</td><td></td><td></td><td></td></tr>
 <tr><td>3,900</td><td>1,016</td><td>782</td><td>234</td></tr>
 <tr><td>4,300</td><td>1,135</td><td>873</td><td>262</td></tr>
 <tr><td>5,000</td><td>1,259</td><td>845</td><td>315</td></tr>
@@ -261,7 +261,7 @@ Repeal effective on the first day of the first month beginning more than 180 day
 
 **(d)** An officer may not be reduced in grade, or have his pay or allowances reduced, because of a reduction in the number of commissioned officers authorized for his grade under this section.
 
-(Added Pub. L. 96–513, title I, § 103, Dec. 12, 1980, 94 Stat. 2842; amended Pub. L. 98–525, title IV, § 414(a)(3), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, § 511(a), Nov. 8, 1985, 99 Stat. 623; Pub. L. 99–433, title V, § 531(a)(1), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 102–190, div. A, title IV, § 431, Dec. 5, 1991, 105 Stat. 1354; Pub. L. 103–337, div. A, title XVI, § 1673(c)(3), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title IV, § 403(a), (b), Sept. 23, 1996, 110 Stat. 2504, 2505; Pub. L. 107–314, div. A, title IV, § 406, Dec. 2, 2002, 116 Stat. 2526; Pub. L. 108–375, div. A, title IV, §§ 404, 416(g), Oct. 28, 2004, 118 Stat. 1864, 1868; Pub. L. 109–364, div. A, title X, § 1071(g)(1)(B), Oct. 17, 2006, 120 Stat. 2402; Pub. L. 110–181, div. A, title IV, §§ 404, 405, Jan. 28, 2008, 122 Stat. 88; Pub. L. 112–81, div. A, title V, § 501, Dec. 31, 2011, 125 Stat. 1386; Pub. L. 114–328, div. A, title VIII, § 866(b), title X, § 1081(b)(1)(A)(iii), Dec. 23, 2016, 130 Stat. 2306, 2418; Pub. L. 117–263, div. A, title V, § 501, Dec. 23, 2022, 136 Stat. 2557.)
+(Added Pub. L. 96–513, title I, § 103, Dec. 12, 1980, 94 Stat. 2842; amended Pub. L. 98–525, title IV, § 414(a)(3), Oct. 19, 1984, 98 Stat. 2518; Pub. L. 99–145, title V, § 511(a), Nov. 8, 1985, 99 Stat. 623; Pub. L. 99–433, title V, § 531(a)(1), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 102–190, div. A, title IV, § 431, Dec. 5, 1991, 105 Stat. 1354; Pub. L. 103–337, div. A, title XVI, § 1673(c)(3), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title IV, § 403(a), (b), Sept. 23, 1996, 110 Stat. 2504, 2505; Pub. L. 107–314, div. A, title IV, § 406, Dec. 2, 2002, 116 Stat. 2526; Pub. L. 108–375, div. A, title IV, §§ 404, 416(g), Oct. 28, 2004, 118 Stat. 1864, 1868; Pub. L. 109–364, div. A, title X, § 1071(g)(1)(B), Oct. 17, 2006, 120 Stat. 2402; Pub. L. 110–181, div. A, title IV, §§ 404, 405, Jan. 28, 2008, 122 Stat. 88; Pub. L. 112–81, div. A, title V, § 501, Dec. 31, 2011, 125 Stat. 1386; Pub. L. 114–328, div. A, title VIII, § 866(b), title X, § 1081(b)(1)(A)(iii), Dec. 23, 2016, 130 Stat. 2306, 2418; Pub. L. 117–263, div. A, title V, § 501, Dec. 23, 2022, 136 Stat. 2557.)
 
 **Editorial Notes**
 
@@ -269,19 +269,19 @@ Repeal effective on the first day of the first month beginning more than 180 day
 
 2022—Subsec. (a)(1). Pub. L. 117–263, in table, inserted items relating to number of officers authorized to serve on active duty in the Space Force after items relating to Marine Corps.
 
-2016—Subsec. (b)(7). Pub. L. 114–328, § 1081(b)(1)(A)(iii), substituted “(50 U.S.C. 3809(b)(2))” for “(50 U.S.C. App. 460(b)(2))”.
+2016—Subsec. (b)(7). Pub. L. 114–328, § 1081(b)(1)(A)(iii), substituted “(50 U.S.C. 3809(b)(2))” for “(50 U.S.C. App. 460(b)(2))”.
 
-Subsec. (b)(9). Pub. L. 114–328, § 866(b), added par. (9).
+Subsec. (b)(9). Pub. L. 114–328, § 866(b), added par. (9).
 
 2011—Subsec. (a)(1). Pub. L. 112–81, in table, increased number of officers authorized to serve on active duty in the Marine Corps in each grade covered as follows: Major to 2,802, 3,247, 3,691, 4,135, 4,579, 5,024, and 5,468 from 2,525, 2,900, 3,275, 3,650, 4,025, 4,400, and 4,775, respectively; Lieutenant Colonel to 1,615, 1,768, 1,922, 2,076, 2,230, 2,383, and 2,537 from 1,480, 1,600, 1,720, 1,840, 1,960, 2,080, and 2,200, respectively; and Colonel to 633, 658, 684, 710, 736, 762, and 787 from 571, 632, 653, 673, 694, 715, and 735, respectively.
 
-2008—Subsec. (a)(1). Pub. L. 110–181, § 404, in table, increased number of officers authorized to serve on active duty in the Army in the grade of Major to 7,768, 8,689, 9,611, 10,532, 11,454, 12,375, 13,297, 14,218, 15,140, 16,061, 16,983, 17,903, 18,825, 19,746, 20,668, 21,589, 22,511, 24,354, 26,197, 28,040, and 35,412 from 6,948, 7,539, 8,231, 8,922, 9,614, 10,305, 10,997, 11,688, 12,380, 13,071, 13,763, 14,454, 15,146, 15,837, 16,529, 17,220, 17,912, 19,295, 20,678, 22,061, and 27,593, respectively.
+2008—Subsec. (a)(1). Pub. L. 110–181, § 404, in table, increased number of officers authorized to serve on active duty in the Army in the grade of Major to 7,768, 8,689, 9,611, 10,532, 11,454, 12,375, 13,297, 14,218, 15,140, 16,061, 16,983, 17,903, 18,825, 19,746, 20,668, 21,589, 22,511, 24,354, 26,197, 28,040, and 35,412 from 6,948, 7,539, 8,231, 8,922, 9,614, 10,305, 10,997, 11,688, 12,380, 13,071, 13,763, 14,454, 15,146, 15,837, 16,529, 17,220, 17,912, 19,295, 20,678, 22,061, and 27,593, respectively.
 
-Subsec. (a)(2). Pub. L. 110–181, § 405, amended table generally, extensively revising the numbers in each grade covered.
+Subsec. (a)(2). Pub. L. 110–181, § 405, amended table generally, extensively revising the numbers in each grade covered.
 
-2006—Subsec. (b)(1). Pub. L. 109–364 made technical correction to directory language of Pub. L. 108–375, § 416(g)(1). See 2004 Amendment note below.
+2006—Subsec. (b)(1). Pub. L. 109–364 made technical correction to directory language of Pub. L. 108–375, § 416(g)(1). See 2004 Amendment note below.
 
-2004—Subsec. (b)(1). Pub. L. 108–375, § 416(g)(1), as amended by Pub. L. 109–364, amended par. (1) generally. Prior to amendment, par. (1) read as follows:
+2004—Subsec. (b)(1). Pub. L. 108–375, § 416(g)(1), as amended by Pub. L. 109–364, amended par. (1) generally. Prior to amendment, par. (1) read as follows:
 
 “(1) Reserve officers—
 
@@ -297,21 +297,21 @@ Subsec. (a)(2). Pub. L. 110–181, § 405, amended table generally, extensivel
 
 “(F) on full-time National Guard duty.”
 
-Subsec. (b)(7). Pub. L. 108–375, § 416(g)(2), substituted “Retired officers” for “Reserve or retired officers”.
+Subsec. (b)(7). Pub. L. 108–375, § 416(g)(2), substituted “Retired officers” for “Reserve or retired officers”.
 
-Subsec. (b)(8). Pub. L. 108–375, § 404, added par. (8).
+Subsec. (b)(8). Pub. L. 108–375, § 404, added par. (8).
 
 2002—Subsec. (a)(1). Pub. L. 107–314, in table, increased number of officers authorized to serve on active duty in the Marine Corps in the grade of Colonel to 571, 632, 653, 673, 694, 715, and 735 from 571, 592, 613, 633, 654, 675, and 695, respectively.
 
-1996—Subsec. (a)(1). Pub. L. 104–201, § 403(a), amended table generally, expanding the range of numbers of commissioned officers covered and extensively revising the numbers in each grade covered.
+1996—Subsec. (a)(1). Pub. L. 104–201, § 403(a), amended table generally, expanding the range of numbers of commissioned officers covered and extensively revising the numbers in each grade covered.
 
-Subsec. (a)(2). Pub. L. 104–201, § 403(b), amended table generally, expanding the range of numbers of commissioned officers covered and extensively revising the numbers in each grade covered.
+Subsec. (a)(2). Pub. L. 104–201, § 403(b), amended table generally, expanding the range of numbers of commissioned officers covered and extensively revising the numbers in each grade covered.
 
-1994—Subsec. (b)(1)(B). Pub. L. 103–337, § 1671(c)(3)(A), substituted “10211, 10302 through 10305, or 12402” for “265, 3021, 3496, 5251, 5252, 8021, or 8496”.
+1994—Subsec. (b)(1)(B). Pub. L. 103–337, § 1671(c)(3)(A), substituted “10211, 10302 through 10305, or 12402” for “265, 3021, 3496, 5251, 5252, 8021, or 8496”.
 
-Subsec. (b)(1)(C). Pub. L. 103–337, § 1671(c)(3)(B), substituted “12301(d)” for “672(d)”.
+Subsec. (b)(1)(C). Pub. L. 103–337, § 1671(c)(3)(B), substituted “12301(d)” for “672(d)”.
 
-Subsec. (b)(1)(E). Pub. L. 103–337, § 1671(c)(3)(C), substituted “12304” for “673b”.
+Subsec. (b)(1)(E). Pub. L. 103–337, § 1671(c)(3)(C), substituted “12304” for “673b”.
 
 1991—Subsec. (a)(1). Pub. L. 102–190, in table, decreased numbers of officers authorized to serve on active duty in the Air Force in the grade of Colonel to 3,392, 3,573, 3,754, 3,935, 4,115, 4,296, 4,477, 4,658, 4,838, 5,019, 5,200, and 5,381 from 3,642, 3,823, 4,004, 4,185, 4,365, 4,546, 4,727, 4,908, 5,088, 5,269, 5,450, and 5,631, respectively.
 
@@ -319,19 +319,19 @@ Subsec. (b)(1)(E). Pub. L. 103–337, § 1671(c)(3)(C), substituted “12304�
 
 1985—Subsec. (a)(1). Pub. L. 99–145 increased fiscal year limitation on authorized number of Marine Corps majors to 2,766, 3,085, 3,404, 3,723, and 4,042 from 2,717, 2,936, 3,154, 3,373, and 3,591, respectively.
 
-1984—Subsec. (b)(1)(C). Pub. L. 98–525, § 414(a)(3)(A), struck out “or section 502 or 503 of title 32” after “section 672(d) of this title”.
+1984—Subsec. (b)(1)(C). Pub. L. 98–525, § 414(a)(3)(A), struck out “or section 502 or 503 of title 32” after “section 672(d) of this title”.
 
-Subsec. (b)(1)(F). Pub. L. 98–525, § 414(a)(3)(B)–(D), added subpar. (F).
+Subsec. (b)(1)(F). Pub. L. 98–525, § 414(a)(3)(B)–(D), added subpar. (F).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–364, div. A, title X, § 1071(g), Oct. 17, 2006, 120 Stat. 2402, provided that the amendment made by section 1071(g)(1)(B) is effective as of Oct. 28, 2004, and as if included in Pub. L. 108–375 as enacted.
+Pub. L. 109–364, div. A, title X, § 1071(g), Oct. 17, 2006, 120 Stat. 2402, provided that the amendment made by section 1071(g)(1)(B) is effective as of Oct. 28, 2004, and as if included in Pub. L. 108–375 as enacted.
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–201, div. A, title IV, § 403(d), Sept. 23, 1996, 110 Stat. 2506, provided that: “The amendments made by subsections (a), (b), and (c) [amending this section and repealing provisions set out as notes below] shall take effect on September 1, 1997.”
+Pub. L. 104–201, div. A, title IV, § 403(d), Sept. 23, 1996, 110 Stat. 2506, provided that: “The amendments made by subsections (a), (b), and (c) [amending this section and repealing provisions set out as notes below] shall take effect on September 1, 1997.”
 
 **Effective Date of 1994 Amendment**
 
@@ -339,7 +339,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–145, title V, § 511(b), Nov. 8, 1985, 99 Stat. 623, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 1985.”
+Pub. L. 99–145, title V, § 511(b), Nov. 8, 1985, 99 Stat. 623, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 1985.”
 
 **Effective Date**
 
@@ -347,7 +347,7 @@ Section effective Sept. 15, 1981, but the authority to prescribe regulations und
 
 **Temporary Exclusion of Mental Health Care Providers From Authorized Strengths of Certain Officers on Active Duty**
 
-Pub. L. 118–159, div. A, title IV, § 403(a), Dec. 23, 2024, 138 Stat. 1863, provided that: “During fiscal years 2025 through 2027, officers who are licensed mental health providers (including clinical psychologists, licensed clinical social workers, mental health nurse practitioners, and psychiatric physician assistants) shall be excluded in computing and determining authorized strengths under section 523 of title 10, United States Code.”
+Pub. L. 118–159, div. A, title IV, § 403(a), Dec. 23, 2024, 138 Stat. 1863, provided that: “During fiscal years 2025 through 2027, officers who are licensed mental health providers (including clinical psychologists, licensed clinical social workers, mental health nurse practitioners, and psychiatric physician assistants) shall be excluded in computing and determining authorized strengths under section 523 of title 10, United States Code.”
 
 **Temporary Exemption From End Strength Grade Restrictions for the Space Force**
 
@@ -355,37 +355,37 @@ This section not to apply to the Space Force until Jan. 1, 2024, see section 526
 
 **Temporary Variation in DOPMA Authorized End Strength Limitations for Active Duty Air Force and Navy Officers in Certain Grades**
 
-Pub. L. 104–106, div. A, title IV, § 402, Feb. 10, 1996, 110 Stat. 286, provided that the numbers of officers of the Air Force authorized under subsec. (a)(1) of this section to be serving on active duty in the grades of major, lieutenant colonel, and colonel for fiscal years 1996 and 1997 and the numbers of officers in the Navy authorized under subsec. (a)(2) of this section to be serving on active duty in the grades of lieutenant commander, commander, and captain for fiscal years 1996 and 1997 were limited to numbers in tables, prior to repeal by Pub. L. 104–201, div. A, title IV, § 403(c)(3), Sept. 23, 1996, 110 Stat. 2506.
+Pub. L. 104–106, div. A, title IV, § 402, Feb. 10, 1996, 110 Stat. 286, provided that the numbers of officers of the Air Force authorized under subsec. (a)(1) of this section to be serving on active duty in the grades of major, lieutenant colonel, and colonel for fiscal years 1996 and 1997 and the numbers of officers in the Navy authorized under subsec. (a)(2) of this section to be serving on active duty in the grades of lieutenant commander, commander, and captain for fiscal years 1996 and 1997 were limited to numbers in tables, prior to repeal by Pub. L. 104–201, div. A, title IV, § 403(c)(3), Sept. 23, 1996, 110 Stat. 2506.
 
 **Temporary Variation of End Strength Limitations for Army Majors and Lieutenant Colonels**
 
-Pub. L. 103–337, div. A, title IV, § 402, Oct. 5, 1994, 108 Stat. 2743, provided that number of officers of the Army authorized under subsec. (a)(1) of this section to be serving on active duty in grades of major and lieutenant colonel for fiscal years 1995 through 1997 was limited to numbers set forth in table prior to repeal by Pub. L. 104–201, div. A, title IV, § 403(c)(2), Sept. 23, 1996, 110 Stat. 2506.
+Pub. L. 103–337, div. A, title IV, § 402, Oct. 5, 1994, 108 Stat. 2743, provided that number of officers of the Army authorized under subsec. (a)(1) of this section to be serving on active duty in grades of major and lieutenant colonel for fiscal years 1995 through 1997 was limited to numbers set forth in table prior to repeal by Pub. L. 104–201, div. A, title IV, § 403(c)(2), Sept. 23, 1996, 110 Stat. 2506.
 
 **Temporary Variation of End Strength Limitations for Marine Corps Majors and Lieutenant Colonels**
 
-Pub. L. 103–160, div. A, title IV, § 402, Nov. 30, 1993, 107 Stat. 1639, as amended by Pub. L. 103–337, div. A, title IV, § 403, Oct. 5, 1994, 108 Stat. 2743, provided that number of officers of the Marine Corps authorized under subsec. (a)(1) of this section to be serving on active duty in grades of major and lieutenant colonel for fiscal years 1994 through 1997 was limited to numbers set forth in table prior to repeal by Pub. L. 104–201, div. A, title IV, § 403(c)(1), Sept. 23, 1996, 110 Stat. 2505.
+Pub. L. 103–160, div. A, title IV, § 402, Nov. 30, 1993, 107 Stat. 1639, as amended by Pub. L. 103–337, div. A, title IV, § 403, Oct. 5, 1994, 108 Stat. 2743, provided that number of officers of the Marine Corps authorized under subsec. (a)(1) of this section to be serving on active duty in grades of major and lieutenant colonel for fiscal years 1994 through 1997 was limited to numbers set forth in table prior to repeal by Pub. L. 104–201, div. A, title IV, § 403(c)(1), Sept. 23, 1996, 110 Stat. 2505.
 
 **Temporary Increase in Officer Grade Limitations**
 
-Pub. L. 101–189, div. A, title IV, § 403, Nov. 29, 1989, 103 Stat. 1431, authorized the Secretary of Defense, until Sept. 30, 1991, to increase the strength-in-grade limitations specified in subsec. (a) of this section by a total of 250 positions, to be distributed among grades and services as the Secretary considers appropriate and directed the Secretary to submit to Congress a comprehensive report on the adequacy of the strength-in-grade limitations prescribed in subsec. (a) of this section.
+Pub. L. 101–189, div. A, title IV, § 403, Nov. 29, 1989, 103 Stat. 1431, authorized the Secretary of Defense, until Sept. 30, 1991, to increase the strength-in-grade limitations specified in subsec. (a) of this section by a total of 250 positions, to be distributed among grades and services as the Secretary considers appropriate and directed the Secretary to submit to Congress a comprehensive report on the adequacy of the strength-in-grade limitations prescribed in subsec. (a) of this section.
 
 **Temporary Reduction in Number of Air Force Colonels**
 
-Pub. L. 101–189, div. A, title IV, § 402, Nov. 29, 1989, 103 Stat. 1431, as amended by Pub. L. 101–510, div. A, title IV, § 404, Nov. 5, 1990, 104 Stat. 1545, provided that the number of officers authorized under subsec. (a) of this section to be serving on active duty in the Air Force in the grade of colonel during fiscal year 1992 was reduced by 250.
+Pub. L. 101–189, div. A, title IV, § 402, Nov. 29, 1989, 103 Stat. 1431, as amended by Pub. L. 101–510, div. A, title IV, § 404, Nov. 5, 1990, 104 Stat. 1545, provided that the number of officers authorized under subsec. (a) of this section to be serving on active duty in the Air Force in the grade of colonel during fiscal year 1992 was reduced by 250.
 
-Pub. L. 100–456, div. A, title IV, § 403, Sept. 29, 1988, 102 Stat. 1963, provided that the number of officers authorized under this section to be serving on active duty in the Air Force in the grade of colonel during fiscal year 1989 was reduced by 125, and the number of such officers authorized to be serving on active duty during fiscal year 1990 was reduced by 250.
+Pub. L. 100–456, div. A, title IV, § 403, Sept. 29, 1988, 102 Stat. 1963, provided that the number of officers authorized under this section to be serving on active duty in the Air Force in the grade of colonel during fiscal year 1989 was reduced by 125, and the number of such officers authorized to be serving on active duty during fiscal year 1990 was reduced by 250.
 
 **Ceilings on Commissioned Officers on Active Duty**
 
-Pub. L. 95–79, title VIII, § 811(a), July 30, 1977, 91 Stat. 335, as amended by Pub. L. 96–107, title VIII, § 817, Nov. 9, 1979, 93 Stat. 818; Pub. L. 96–342, title X, § 1003, Sept. 8, 1980, 94 Stat. 1120; Pub. L. 97–86, title VI, § 602, Dec. 1, 1981, 95 Stat. 1110, which provided that after Oct. 1, 1981, the total number of commissioned officers on active duty in the Army, Air Force, and Marine Corps above the grade of colonel, and on active duty in the Navy above the grade of captain, could not exceed 1,073, and that in time of war, or of national emergency declared by Congress, the President could suspend the operation of this provision, was repealed and restated in section 526 of this title by Pub. L. 100–370, § 1(b)(1)(B), (4).
+Pub. L. 95–79, title VIII, § 811(a), July 30, 1977, 91 Stat. 335, as amended by Pub. L. 96–107, title VIII, § 817, Nov. 9, 1979, 93 Stat. 818; Pub. L. 96–342, title X, § 1003, Sept. 8, 1980, 94 Stat. 1120; Pub. L. 97–86, title VI, § 602, Dec. 1, 1981, 95 Stat. 1110, which provided that after Oct. 1, 1981, the total number of commissioned officers on active duty in the Army, Air Force, and Marine Corps above the grade of colonel, and on active duty in the Navy above the grade of captain, could not exceed 1,073, and that in time of war, or of national emergency declared by Congress, the President could suspend the operation of this provision, was repealed and restated in section 526 of this title by Pub. L. 100–370, § 1(b)(1)(B), (4).
 
 **Transition Provisions Under Defense Officer Personnel Management Act**
 
 For provisions increasing for the fiscal year ending on Sept. 30, 1981, the maximum number of officers authorized by this section to be serving on active duty, see section 627 of Pub. L. 96–513, set out as a note under section 611 of this title.
 
-## [§ 524. Renumbered § 12011]
+## [§ 524. Renumbered § 12011]
 
-## § 525. Distribution of commissioned officers on active duty in general officer and flag officer grades
+## § 525. Distribution of commissioned officers on active duty in general officer and flag officer grades
 
 **(a)** For purposes of the applicable limitation in section 526(a) of this title on general and flag officers on active duty, no appointment of an officer on the active duty list or the Space Force officer list may be made—
 
@@ -473,91 +473,91 @@ For provisions increasing for the fiscal year ending on Sept. 30, 1981, the maxi
 
 **(3)** The limitations of this section do not apply to a Space Force general officer serving in a Space Force active status but not on sustained duty orders, and who is on active service for a period in excess of 365 days but not to exceed three years. Unless authorized by the Secretary of Defense, the number of Space Force general officers covered by this subsection and not serving in a joint duty assignment for purposes of chapter 38 of this title may not exceed two. Not later than 30 days after authorizing more than two Space Force general officers covered by this subsection, the Secretary of Defense shall provide the notification required in accordance with paragraph (2).
 
-(Added Pub. L. 96–513, title I, § 103, Dec. 12, 1980, 94 Stat. 2844; amended Pub. L. 97–86, title IV, § 405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, § 514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title II, § 202(a), Oct. 1, 1986, 100 Stat. 1010; Pub. L. 100–180, div. A, title V, § 511(a), Dec. 4, 1987, 101 Stat. 1088; Pub. L. 101–510, div. A, title IV, § 405, Nov. 5, 1990, 104 Stat. 1546; Pub. L. 103–337, div. A, title IV, § 405(a), Oct. 5, 1994, 108 Stat. 2744; Pub. L. 104–106, div. A, title IV, § 403(a), Feb. 10, 1996, 110 Stat. 286; Pub. L. 104–201, div. A, title IV, § 404(b), Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §§ 404, 406, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, §§ 509(b), (c), 532(b), Oct. 5, 1999, 113 Stat. 592, 604; Pub. L. 106–398, § 1 [[div. A], title V, § 507(g)], Oct. 30, 2000, 114 Stat. 1654, 1654A–105; Pub. L. 107–314, div. A, title IV, §§ 404(a), (b), 405(b), Dec. 2, 2002, 116 Stat. 2525, 2526; Pub. L. 108–136, div. A, title V, § 504(b), Nov. 24, 2003, 117 Stat. 1456; Pub. L. 109–163, div. A, title V, § 503(a), Jan. 6, 2006, 119 Stat. 3226; Pub. L. 109–364, div. A, title V, § 507(b), Oct. 17, 2006, 120 Stat. 2180; Pub. L. 110–181, div. A, title V, §§ 501(b), 543(d), Jan. 28, 2008, 122 Stat. 94, 115; Pub. L. 110–417, [div. A], title V, §§ 503(d), 504(b), Oct. 14, 2008, 122 Stat. 4433, 4434; Pub. L. 111–84, div. A, title V, § 502(b)–(d), Oct. 28, 2009, 123 Stat. 2273–2275; Pub. L. 111–383, div. A, title X, § 1075(b)(12), (d)(2), Jan. 7, 2011, 124 Stat. 4369, 4372; Pub. L. 112–81, div. A, title V, §§ 502(a)(1), (b)(2), 511(a)(3), Dec. 31, 2011, 125 Stat. 1386, 1387, 1391; Pub. L. 114–328, div. A, title V, § 503(a), Dec. 23, 2016, 130 Stat. 2107; Pub. L. 116–283, div. A, title V, § 501(c)(1), Jan. 1, 2021, 134 Stat. 3563; Pub. L. 117–263, div. A, title V, §§ 502, 503, Dec. 23, 2022, 136 Stat. 2557, 2558; Pub. L. 118–159, div. A, title V, §§ 501, 509B(b), Dec. 23, 2024, 138 Stat. 1868, 1872; Pub. L. 119–60, div. A, title V, § 501(a), title XVII, § 1701(a)(9), Dec. 18, 2025, 139 Stat. 853, 1208.)
+(Added Pub. L. 96–513, title I, § 103, Dec. 12, 1980, 94 Stat. 2844; amended Pub. L. 97–86, title IV, § 405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, § 514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title II, § 202(a), Oct. 1, 1986, 100 Stat. 1010; Pub. L. 100–180, div. A, title V, § 511(a), Dec. 4, 1987, 101 Stat. 1088; Pub. L. 101–510, div. A, title IV, § 405, Nov. 5, 1990, 104 Stat. 1546; Pub. L. 103–337, div. A, title IV, § 405(a), Oct. 5, 1994, 108 Stat. 2744; Pub. L. 104–106, div. A, title IV, § 403(a), Feb. 10, 1996, 110 Stat. 286; Pub. L. 104–201, div. A, title IV, § 404(b), Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, §§ 404, 406, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, §§ 509(b), (c), 532(b), Oct. 5, 1999, 113 Stat. 592, 604; Pub. L. 106–398, § 1 [[div. A], title V, § 507(g)], Oct. 30, 2000, 114 Stat. 1654, 1654A–105; Pub. L. 107–314, div. A, title IV, §§ 404(a), (b), 405(b), Dec. 2, 2002, 116 Stat. 2525, 2526; Pub. L. 108–136, div. A, title V, § 504(b), Nov. 24, 2003, 117 Stat. 1456; Pub. L. 109–163, div. A, title V, § 503(a), Jan. 6, 2006, 119 Stat. 3226; Pub. L. 109–364, div. A, title V, § 507(b), Oct. 17, 2006, 120 Stat. 2180; Pub. L. 110–181, div. A, title V, §§ 501(b), 543(d), Jan. 28, 2008, 122 Stat. 94, 115; Pub. L. 110–417, [div. A], title V, §§ 503(d), 504(b), Oct. 14, 2008, 122 Stat. 4433, 4434; Pub. L. 111–84, div. A, title V, § 502(b)–(d), Oct. 28, 2009, 123 Stat. 2273–2275; Pub. L. 111–383, div. A, title X, § 1075(b)(12), (d)(2), Jan. 7, 2011, 124 Stat. 4369, 4372; Pub. L. 112–81, div. A, title V, §§ 502(a)(1), (b)(2), 511(a)(3), Dec. 31, 2011, 125 Stat. 1386, 1387, 1391; Pub. L. 114–328, div. A, title V, § 503(a), Dec. 23, 2016, 130 Stat. 2107; Pub. L. 116–283, div. A, title V, § 501(c)(1), Jan. 1, 2021, 134 Stat. 3563; Pub. L. 117–263, div. A, title V, §§ 502, 503, Dec. 23, 2022, 136 Stat. 2557, 2558; Pub. L. 118–159, div. A, title V, §§ 501, 509B(b), Dec. 23, 2024, 138 Stat. 1868, 1872; Pub. L. 119–60, div. A, title V, § 501(a), title XVII, § 1701(a)(9), Dec. 18, 2025, 139 Stat. 853, 1208.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 501(a)(1)(A), inserted “or the Space Force officer list” after “officer on the active duty list” in introductory provisions.
+2025—Subsec. (a). Pub. L. 119–60, § 501(a)(1)(A), inserted “or the Space Force officer list” after “officer on the active duty list” in introductory provisions.
 
-Subsec. (a)(4)(C). Pub. L. 119–60, § 1701(a)(9), struck out period after “21”.
+Subsec. (a)(4)(C). Pub. L. 119–60, § 1701(a)(9), struck out period after “21”.
 
-Subsec. (a)(5)(A). Pub. L. 119–60, § 501(a)(1)(B)(i), substituted “officers on sustained duty orders in the grade of general” for “officers in the grade of general”.
+Subsec. (a)(5)(A). Pub. L. 119–60, § 501(a)(1)(B)(i), substituted “officers on sustained duty orders in the grade of general” for “officers in the grade of general”.
 
-Subsec. (a)(5)(B). Pub. L. 119–60, § 501(a)(1)(B)(ii), substituted “officers on sustained duty orders in a grade above” for “officers in a grade above”.
+Subsec. (a)(5)(B). Pub. L. 119–60, § 501(a)(1)(B)(ii), substituted “officers on sustained duty orders in a grade above” for “officers in a grade above”.
 
-Subsec. (a)(5)(C). Pub. L. 119–60, § 501(a)(1)(B)(iii), substituted “officers on sustained duty orders in the grade” for “officers in the grade”.
+Subsec. (a)(5)(C). Pub. L. 119–60, § 501(a)(1)(B)(iii), substituted “officers on sustained duty orders in the grade” for “officers in the grade”.
 
-Subsec. (h)(3). Pub. L. 119–60, § 501(a)(2), added par. (3).
+Subsec. (h)(3). Pub. L. 119–60, § 501(a)(2), added par. (3).
 
-2024—Subsec. (a)(4)(B). Pub. L. 118–159, § 501(1), substituted “18 officers” for “17 officers”.
+2024—Subsec. (a)(4)(B). Pub. L. 118–159, § 501(1), substituted “18 officers” for “17 officers”.
 
-Subsec. (a)(4)(C). Pub. L. 118–159, § 501(2), substituted “21. officers” for “22 officers”.
+Subsec. (a)(4)(C). Pub. L. 118–159, § 501(2), substituted “21. officers” for “22 officers”.
 
-Subsecs. (g), (h). Pub. L. 118–159, § 509B(b), added subsec. (g) and redesignated former subsec. (g) as (h).
+Subsecs. (g), (h). Pub. L. 118–159, § 509B(b), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-2022—Subsec. (a). Pub. L. 117–263, § 502(1)(A), substituted “made—” for “made as follows:” in introductory provisions.
+2022—Subsec. (a). Pub. L. 117–263, § 502(1)(A), substituted “made—” for “made as follows:” in introductory provisions.
 
-Subsec. (a)(3)(B). Pub. L. 117–263, § 503(1), substituted “34” for “33”.
+Subsec. (a)(3)(B). Pub. L. 117–263, § 503(1), substituted “34” for “33”.
 
-Subsec. (a)(3)(C). Pub. L. 117–263, § 503(2), substituted “49” for “50”.
+Subsec. (a)(3)(C). Pub. L. 117–263, § 503(2), substituted “49” for “50”.
 
-Subsec. (a)(5). Pub. L. 117–263, § 502(1)(B), (C), added par. (5).
+Subsec. (a)(5). Pub. L. 117–263, § 502(1)(B), (C), added par. (5).
 
-Subsec. (c)(1)(A). Pub. L. 117–263, § 502(2)(A), substituted “Marine Corps, and Space Force” for “and Marine Corps”.
+Subsec. (c)(1)(A). Pub. L. 117–263, § 502(2)(A), substituted “Marine Corps, and Space Force” for “and Marine Corps”.
 
-Subsec. (c)(2). Pub. L. 117–263, § 502(2)(B), substituted “Marine Corps, or Space Force” for “or Marine Corps”.
+Subsec. (c)(2). Pub. L. 117–263, § 502(2)(B), substituted “Marine Corps, or Space Force” for “or Marine Corps”.
 
-Subsec. (d). Pub. L. 117–263, § 502(3), substituted “Commandant of the Marine Corps, or Chief of Space Operations” for “or Commandant of the Marine Corps”.
+Subsec. (d). Pub. L. 117–263, § 502(3), substituted “Commandant of the Marine Corps, or Chief of Space Operations” for “or Commandant of the Marine Corps”.
 
 2021—Subsec. (a)(1)(A). Pub. L. 116–283 substituted “8” for “7”.
 
-2016—Subsec. (a)(4)(B). Pub. L. 114–328, § 503(a)(1), substituted “17” for “15”.
+2016—Subsec. (a)(4)(B). Pub. L. 114–328, § 503(a)(1), substituted “17” for “15”.
 
-Subsec. (a)(4)(C). Pub. L. 114–328, § 503(a)(2), substituted “22” for “23”.
+Subsec. (a)(4)(C). Pub. L. 114–328, § 503(a)(2), substituted “22” for “23”.
 
-2011—Subsec. (a). Pub. L. 112–81, § 502(b)(2)(A)–(C), substituted “46” for “45” in par. (1)(B), “44” for “43” in par. (2)(B), and “33” for “32” in par. (3)(B).
+2011—Subsec. (a). Pub. L. 112–81, § 502(b)(2)(A)–(C), substituted “46” for “45” in par. (1)(B), “44” for “43” in par. (2)(B), and “33” for “32” in par. (3)(B).
 
-Subsec. (a)(4)(C). Pub. L. 112–81, § 502(b)(2)(D), substituted “23” for “22”.
+Subsec. (a)(4)(C). Pub. L. 112–81, § 502(b)(2)(D), substituted “23” for “22”.
 
-Subsec. (b). Pub. L. 112–81, § 502(a)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to exclusions from limitations on appointment of general officers on active duty in the Army, Air Force, and Marine Corps and flag officers on active duty in the Navy.
+Subsec. (b). Pub. L. 112–81, § 502(a)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to exclusions from limitations on appointment of general officers on active duty in the Army, Air Force, and Marine Corps and flag officers on active duty in the Navy.
 
-Subsec. (b)(1)(D). Pub. L. 112–81, § 511(a)(3)(A), struck out subpar. (D) which read as follows: “An officer while serving as Chief of the National Guard Bureau.”
+Subsec. (b)(1)(D). Pub. L. 112–81, § 511(a)(3)(A), struck out subpar. (D) which read as follows: “An officer while serving as Chief of the National Guard Bureau.”
 
-Subsec. (c)(3)(B). Pub. L. 111–383, § 1075(d)(2), made technical amendment to directory language of Pub. L. 111–84, § 502(c)(3). See 2009 Amendment note below.
+Subsec. (c)(3)(B). Pub. L. 111–383, § 1075(d)(2), made technical amendment to directory language of Pub. L. 111–84, § 502(c)(3). See 2009 Amendment note below.
 
-Subsec. (d). Pub. L. 111–383, § 1075(b)(12)(A), substituted “section 601(b)(5)” for “section 601(b)(4)”.
+Subsec. (d). Pub. L. 111–383, § 1075(b)(12)(A), substituted “section 601(b)(5)” for “section 601(b)(4)”.
 
-Subsec. (g)(1). Pub. L. 111–383, § 1075(b)(12)(B), substituted “and are not” for “and is not” and inserted period at end.
+Subsec. (g)(1). Pub. L. 111–383, § 1075(b)(12)(B), substituted “and are not” for “and is not” and inserted period at end.
 
-Subsec. (g)(2), (3). Pub. L. 112–81, § 511(a)(3)(B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The exception in paragraph (1) does apply to the position of Chief of the National Guard Bureau.”
+Subsec. (g)(2), (3). Pub. L. 112–81, § 511(a)(3)(B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The exception in paragraph (1) does apply to the position of Chief of the National Guard Bureau.”
 
-2009—Subsecs. (a), (b). Pub. L. 111–84, § 502(b), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to limitations on appointments in a grade above brigadier general in the Army, Air Force, or Marine Corps or in a grade above rear admiral (lower half) in the Navy and limitations on appointments in a grade above major general in the Army, Air Force, or Marine Corps or in a grade above rear admiral in the Navy, respectively.
+2009—Subsecs. (a), (b). Pub. L. 111–84, § 502(b), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to limitations on appointments in a grade above brigadier general in the Army, Air Force, or Marine Corps or in a grade above rear admiral (lower half) in the Navy and limitations on appointments in a grade above major general in the Army, Air Force, or Marine Corps or in a grade above rear admiral in the Navy, respectively.
 
-Subsec. (c)(1)(A). Pub. L. 111–84, § 502(c)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “may make appointments in the Army, Air Force, and Marine Corps in the grade of lieutenant general and in the Army and Air Force in the grade of general in excess of the applicable numbers determined under subsection (b)(1), and may make appointments in the Marine Corps in the grade of general in addition to the Commandant and Assistant Commandant, if each such appointment is made in conjunction with an offsetting reduction under paragraph (2); and”.
+Subsec. (c)(1)(A). Pub. L. 111–84, § 502(c)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “may make appointments in the Army, Air Force, and Marine Corps in the grade of lieutenant general and in the Army and Air Force in the grade of general in excess of the applicable numbers determined under subsection (b)(1), and may make appointments in the Marine Corps in the grade of general in addition to the Commandant and Assistant Commandant, if each such appointment is made in conjunction with an offsetting reduction under paragraph (2); and”.
 
-Subsec. (c)(1)(B). Pub. L. 111–84, § 502(c)(1)(B), substituted “this section” for “subsection (b)(2)”.
+Subsec. (c)(1)(B). Pub. L. 111–84, § 502(c)(1)(B), substituted “this section” for “subsection (b)(2)”.
 
-Subsec. (c)(3)(A). Pub. L. 111–84, § 502(c)(2), substituted “15” for “the number equal to 10 percent of the total number of officers that may be serving on active duty in those grades in the Army, Navy, Air Force, and Marine Corps under subsection (b)”.
+Subsec. (c)(3)(A). Pub. L. 111–84, § 502(c)(2), substituted “15” for “the number equal to 10 percent of the total number of officers that may be serving on active duty in those grades in the Army, Navy, Air Force, and Marine Corps under subsection (b)”.
 
-Subsec. (c)(3)(B). Pub. L. 111–84, § 502(c)(3), as amended by Pub. L. 111–383, § 1075(d)(2), substituted “5” for “the number equal to 15 percent of the total number of general officers and flag officers that may be serving on active duty in those grades in the Army, Navy, Air Force, and Marine Corps”.
+Subsec. (c)(3)(B). Pub. L. 111–84, § 502(c)(3), as amended by Pub. L. 111–383, § 1075(d)(2), substituted “5” for “the number equal to 15 percent of the total number of general officers and flag officers that may be serving on active duty in those grades in the Army, Navy, Air Force, and Marine Corps”.
 
-Subsec. (e). Pub. L. 111–84, § 502(d)(1), in introductory provisions, substituted “The following officers shall not be counted for purposes of this section:” for “In determining the total number of general officers or flag officers of an armed force on active duty for purposes of this section, the following officers shall not be counted:”.
+Subsec. (e). Pub. L. 111–84, § 502(d)(1), in introductory provisions, substituted “The following officers shall not be counted for purposes of this section:” for “In determining the total number of general officers or flag officers of an armed force on active duty for purposes of this section, the following officers shall not be counted:”.
 
-Subsec. (g). Pub. L. 111–84, § 502(d)(2), added subsec. (g).
+Subsec. (g). Pub. L. 111–84, § 502(d)(2), added subsec. (g).
 
-2008—Subsec. (a). Pub. L. 110–417, § 504(b), designated existing provisions as par. (1) and added par. (2).
+2008—Subsec. (a). Pub. L. 110–417, § 504(b), designated existing provisions as par. (1) and added par. (2).
 
-Pub. L. 110–417, § 503(d)(1), substituted “the Army or Air Force, or more than 51 percent of the general officers of the Marine Corps,” for “that armed force”.
+Pub. L. 110–417, § 503(d)(1), substituted “the Army or Air Force, or more than 51 percent of the general officers of the Marine Corps,” for “that armed force”.
 
-Subsec. (b)(1), (2)(A). Pub. L. 110–417, § 503(d)(2)(A), substituted “16.4 percent” for “16.3 percent” wherever appearing.
+Subsec. (b)(1), (2)(A). Pub. L. 110–417, § 503(d)(2)(A), substituted “16.4 percent” for “16.3 percent” wherever appearing.
 
-Pub. L. 110–181, § 543(d), substituted “16.3 percent” for “15.7 percent” wherever appearing.
+Pub. L. 110–181, § 543(d), substituted “16.3 percent” for “15.7 percent” wherever appearing.
 
-Subsec. (b)(2)(B). Pub. L. 110–417, § 503(d)(2)(B), substituted “19 percent” for “17.5 percent”.
+Subsec. (b)(2)(B). Pub. L. 110–417, § 503(d)(2)(B), substituted “19 percent” for “17.5 percent”.
 
-Subsec. (e)(2). Pub. L. 110–181, § 501(b), added par. (2) and struck out former par. (2) which read as follows: “An officer of that armed force who has been relieved from a position designated under section 601(a) of this title and is under orders to assume another such position, but only during the 60-day period beginning on the date on which those orders are published.”
+Subsec. (e)(2). Pub. L. 110–181, § 501(b), added par. (2) and struck out former par. (2) which read as follows: “An officer of that armed force who has been relieved from a position designated under section 601(a) of this title and is under orders to assume another such position, but only during the 60-day period beginning on the date on which those orders are published.”
 
 2006—Subsec. (e). Pub. L. 109–163 added subsec. (e).
 
@@ -565,25 +565,25 @@ Subsec. (f). Pub. L. 109–364 added subsec. (f).
 
 2003—Subsec. (b)(5)(C). Pub. L. 108–136 struck out subpar. (C) which read as follows: “This paragraph shall cease to be effective at the end of December 31, 2004.”
 
-2002—Subsec. (b)(2)(B). Pub. L. 107–314, § 404(b), substituted “17.5 percent” for “16.2 percent”.
+2002—Subsec. (b)(2)(B). Pub. L. 107–314, § 404(b), substituted “17.5 percent” for “16.2 percent”.
 
-Subsec. (b)(5)(C). Pub. L. 107–314, § 405(b), substituted “December 31, 2004” for “September 30, 2003”.
+Subsec. (b)(5)(C). Pub. L. 107–314, § 405(b), substituted “December 31, 2004” for “September 30, 2003”.
 
-Subsec. (b)(8). Pub. L. 107–314, § 404(a), added par. (8).
+Subsec. (b)(8). Pub. L. 107–314, § 404(a), added par. (8).
 
-2000—Subsec. (b)(1). Pub. L. 106–398, § 1 [[div. A], title V, § 507(g)(1)], in first sentence, substituted “Army or Air Force” for “Army, Air Force, or Marine Corps” and “15.7 percent” for “15 percent” and, in second sentence, substituted “Of” for “In the case of the Army and Air Force, of” and “15.7 percent” for “15 percent” and inserted “of the Army or Air Force” after “general officers”.
+2000—Subsec. (b)(1). Pub. L. 106–398, § 1 [[div. A], title V, § 507(g)(1)], in first sentence, substituted “Army or Air Force” for “Army, Air Force, or Marine Corps” and “15.7 percent” for “15 percent” and, in second sentence, substituted “Of” for “In the case of the Army and Air Force, of” and “15.7 percent” for “15 percent” and inserted “of the Army or Air Force” after “general officers”.
 
-Subsec. (b)(2). Pub. L. 106–398, § 1 [[div. A], title V, § 507(g)(2)], designated existing provisions as subpar. (A), substituted “15.7 percent” for “15 percent” in two places, and added subpar. (B).
+Subsec. (b)(2). Pub. L. 106–398, § 1 [[div. A], title V, § 507(g)(2)], designated existing provisions as subpar. (A), substituted “15.7 percent” for “15 percent” in two places, and added subpar. (B).
 
-1999—Subsec. (b)(5)(A). Pub. L. 106–65, § 509(c), inserted at end “Any increase by reason of the preceding sentence in the number of officers of an armed force serving on active duty in grades above major general or rear admiral may only be realized by an increase in the number of lieutenant generals or vice admirals, as the case may be, serving on active duty, and any such increase may not be construed as authorizing an increase in the limitation on the total number of general or flag officers for that armed force under section 526(a) of this title or in the number of general and flag officers that may be designated under section 526(b) of this title.”
+1999—Subsec. (b)(5)(A). Pub. L. 106–65, § 509(c), inserted at end “Any increase by reason of the preceding sentence in the number of officers of an armed force serving on active duty in grades above major general or rear admiral may only be realized by an increase in the number of lieutenant generals or vice admirals, as the case may be, serving on active duty, and any such increase may not be construed as authorizing an increase in the limitation on the total number of general or flag officers for that armed force under section 526(a) of this title or in the number of general and flag officers that may be designated under section 526(b) of this title.”
 
-Subsec. (b)(5)(C). Pub. L. 106–65, § 509(b), substituted “September 30, 2003” for “September 30, 2000”.
+Subsec. (b)(5)(C). Pub. L. 106–65, § 509(b), substituted “September 30, 2003” for “September 30, 2000”.
 
-Subsec. (b)(7). Pub. L. 106–65, § 532(b), added par. (7).
+Subsec. (b)(7). Pub. L. 106–65, § 532(b), added par. (7).
 
-1998—Subsec. (b)(4)(B). Pub. L. 105–261, § 404, substituted “seven” for “six”.
+1998—Subsec. (b)(4)(B). Pub. L. 105–261, § 404, substituted “seven” for “six”.
 
-Subsec. (b)(6). Pub. L. 105–261, § 406, added par. (6).
+Subsec. (b)(6). Pub. L. 105–261, § 406, added par. (6).
 
 1996—Subsec. (b)(5)(C). Pub. L. 104–201 substituted “September 30, 2000” for “September 30, 1997”.
 
@@ -591,9 +591,9 @@ Subsec. (d). Pub. L. 104–106 added subsec. (d).
 
 1994—Subsec. (b)(5). Pub. L. 103–337 added par. (5).
 
-1990—Subsec. (b)(3). Pub. L. 101–510, § 405(b), substituted “that would otherwise be permitted for” for “authorized”.
+1990—Subsec. (b)(3). Pub. L. 101–510, § 405(b), substituted “that would otherwise be permitted for” for “authorized”.
 
-Subsec. (b)(4). Pub. L. 101–510, § 405(a), added par. (4).
+Subsec. (b)(4). Pub. L. 101–510, § 405(a), added par. (4).
 
 1987—Pub. L. 100–180 added subsec. (c).
 
@@ -607,19 +607,19 @@ Subsec. (b)(4). Pub. L. 101–510, § 405(a), added par. (4).
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–81, div. A, title V, § 502(a)(2), Dec. 31, 2011, 125 Stat. 1387, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on January 1, 2012.”
+Pub. L. 112–81, div. A, title V, § 502(a)(2), Dec. 31, 2011, 125 Stat. 1387, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on January 1, 2012.”
 
-Pub. L. 112–81, div. A, title V, § 502(b)(3), Dec. 31, 2011, 125 Stat. 1387, as amended by Pub. L. 112–239, div. A, title V, § 501(c), Jan. 2, 2013, 126 Stat. 1714, provided that:
+Pub. L. 112–81, div. A, title V, § 502(b)(3), Dec. 31, 2011, 125 Stat. 1387, as amended by Pub. L. 112–239, div. A, title V, § 501(c), Jan. 2, 2013, 126 Stat. 1714, provided that:
 
 > **“(A) In general.—** Except as provided in subparagraph (B), the amendments made by this subsection [amending this section and section 526 of this title] shall take effect on October 1, 2013.
 
 > **“(B) Marine corps officers.—** The amendments made by paragraphs (1)(A)(iv) [amending section 526 of this title] and (2)(D) [amending this section] shall take effect on October 1, 2012.”
 
-Pub. L. 111–383, div. A, title X, § 1075(d), Jan. 7, 2011, 124 Stat. 4372, provided that the amendment by section 1075(d)(2) is effective as of Oct. 28, 2009, and as if included in Pub. L. 111–84 as enacted.
+Pub. L. 111–383, div. A, title X, § 1075(d), Jan. 7, 2011, 124 Stat. 4372, provided that the amendment by section 1075(d)(2) is effective as of Oct. 28, 2009, and as if included in Pub. L. 111–84 as enacted.
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–314, div. A, title IV, § 404(d), Dec. 2, 2002, 116 Stat. 2526, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the receipt by Congress of the report required by subsection (c) [set out below].”
+Pub. L. 107–314, div. A, title IV, § 404(d), Dec. 2, 2002, 116 Stat. 2526, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the receipt by Congress of the report required by subsection (c) [set out below].”
 
 **Effective Date of 1981 Amendment**
 
@@ -631,7 +631,7 @@ Section effective Sept. 15, 1981, but the authority to prescribe regulations und
 
 **Implementation of 2000 Amendments**
 
-Pub. L. 106–398, § 1 [[div. A], title V, § 507(i)], Oct. 30, 2000, 114 Stat. 1654, 1654A–106, provided that:
+Pub. L. 106–398, § 1 [[div. A], title V, § 507(i)], Oct. 30, 2000, 114 Stat. 1654, 1654A–106, provided that:
 
 > **“(1)** An appointment or reappointment, in the case of the incumbent in a reserve component chief position, shall be made to each of the reserve component chief positions not later than 12 months after the date of the enactment of this Act [Oct. 30, 2000], in accordance with the amendments made by subsections (a) through (e) [amending sections 3038, 5143, 5144, 8038, and 10506 of this title].
 
@@ -645,7 +645,7 @@ Pub. L. 106–398, § 1 [[div. A], title V, § 507(i)], Oct. 30, 2000, 114 S
 
 **Savings Provision**
 
-Pub. L. 100–180, div. A, title V, § 511(b), Dec. 4, 1987, 101 Stat. 1088, provided that: “An officer of the Armed Forces on active duty holding an appointment in the grade of lieutenant general or vice admiral or general or admiral on September 30, 1987, shall not have that appointment terminated by reason of the numerical limitations determined under section 525(b) of title 10, United States Code. In the case of an officer of the Marine Corps serving in the grade of general by reason of an appointment authorized by section 511(3) of the National Defense Authorization Act for Fiscal Year 1987 (Public Law 99–661; 100 Stat. 3869) [see below], that appointment shall not be terminated except as provided in section 601 of title 10, United States Code.”
+Pub. L. 100–180, div. A, title V, § 511(b), Dec. 4, 1987, 101 Stat. 1088, provided that: “An officer of the Armed Forces on active duty holding an appointment in the grade of lieutenant general or vice admiral or general or admiral on September 30, 1987, shall not have that appointment terminated by reason of the numerical limitations determined under section 525(b) of title 10, United States Code. In the case of an officer of the Marine Corps serving in the grade of general by reason of an appointment authorized by section 511(3) of the National Defense Authorization Act for Fiscal Year 1987 (Public Law 99–661; 100 Stat. 3869) [see below], that appointment shall not be terminated except as provided in section 601 of title 10, United States Code.”
 
 **Transfer of Functions**
 
@@ -653,7 +653,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Availability on the Internet of Certain Information About Officers Serving in General or Flag Officer Grades**
 
-Pub. L. 116–92, div. A, title V, § 510A, Dec. 20, 2019, 133 Stat. 1347, provided that:
+Pub. L. 116–92, div. A, title V, § 510A, Dec. 20, 2019, 133 Stat. 1347, provided that:
 
 > **“(a) Availability Required.—**
 
@@ -677,7 +677,7 @@ Pub. L. 116–92, div. A, title V, § 510A, Dec. 20, 2019, 133 Stat. 1347, pro
 
 **Reduction in Number of General and Flag Officers on Active Duty and Authorized Strength After December 31, 2022, of Such General and Flag Officers**
 
-Pub. L. 114–328, div. A, title V, § 501(a)–(g), Dec. 23, 2016, 130 Stat. 2096–2099, as amended by Pub. L. 118–159, div. A, title V, § 502(b), Dec. 23, 2024, 138 Stat. 1868, provided that:
+Pub. L. 114–328, div. A, title V, § 501(a)–(g), Dec. 23, 2016, 130 Stat. 2096–2099, as amended by Pub. L. 118–159, div. A, title V, § 502(b), Dec. 23, 2024, 138 Stat. 1868, provided that:
 
 > **“(a) Reduction in Number of General and Flag Officers by December 31, 2022.—**
 
@@ -779,11 +779,11 @@ Pub. L. 114–328, div. A, title V, § 501(a)–(g), Dec. 23, 2016, 130 Stat. 
 
 **Delayed Authority To Alter Distribution Requirements for Commissioned Officers on Active Duty in General Officer and Flag Officer Grades and Limitations on Authorized Strengths of General and Flag Officers on Active Duty**
 
-Pub. L. 110–417, [div. A], title V, § 506, Oct. 14, 2008, 122 Stat. 4434, related to distribution requirements for commissioned officers on active duty in general officer and flag officer grades and limitations on authorized strengths of general and flag officers on active duty, prior to repeal by Pub. L. 111–84, div. A, title V, § 502(j), Oct. 28, 2009, 123 Stat. 2277.
+Pub. L. 110–417, [div. A], title V, § 506, Oct. 14, 2008, 122 Stat. 4434, related to distribution requirements for commissioned officers on active duty in general officer and flag officer grades and limitations on authorized strengths of general and flag officers on active duty, prior to repeal by Pub. L. 111–84, div. A, title V, § 502(j), Oct. 28, 2009, 123 Stat. 2277.
 
 **Review of Active Duty and Reserve General and Flag Officer Authorizations**
 
-Pub. L. 107–314, div. A, title IV, § 404(c), Dec. 2, 2002, 116 Stat. 2525, provided that:
+Pub. L. 107–314, div. A, title IV, § 404(c), Dec. 2, 2002, 116 Stat. 2525, provided that:
 
 > **“(1)** The Secretary of Defense shall submit to Congress a report containing any recommendations of the Secretary (together with the rationale of the Secretary for the recommendations) concerning the following:
 
@@ -795,29 +795,29 @@ Pub. L. 107–314, div. A, title IV, § 404(c), Dec. 2, 2002, 116 Stat. 2525, 
 
 **Report on Management of Senior General and Flag Officer Positions**
 
-Pub. L. 103–337, div. A, title IV, § 405(d), Oct. 5, 1994, 108 Stat. 2745, directed the Secretary of Defense to submit to Congress a report on the implementation of the amendments made by Pub. L. 103–337, § 405, enacting sections 528 and 604 of this title and amending this section, not later than Mar. 1, 1996.
+Pub. L. 103–337, div. A, title IV, § 405(d), Oct. 5, 1994, 108 Stat. 2745, directed the Secretary of Defense to submit to Congress a report on the implementation of the amendments made by Pub. L. 103–337, § 405, enacting sections 528 and 604 of this title and amending this section, not later than Mar. 1, 1996.
 
 **Temporary Exclusion of Superintendent of Naval Academy From Counting Toward Number of Senior Admirals Authorized To Be on Active Duty**
 
-Pub. L. 103–337, div. A, title IV, § 406, Oct. 5, 1994, 108 Stat. 2746, provided that: “The officer serving as Superintendent of the United States Naval Academy on the date of the enactment of this Act [Oct. 5, 1994], while so serving, shall not be counted for purposes of the limitations contained in [former] section 525(b)(2) of title 10, United States Code.”
+Pub. L. 103–337, div. A, title IV, § 406, Oct. 5, 1994, 108 Stat. 2746, provided that: “The officer serving as Superintendent of the United States Naval Academy on the date of the enactment of this Act [Oct. 5, 1994], while so serving, shall not be counted for purposes of the limitations contained in [former] section 525(b)(2) of title 10, United States Code.”
 
 **Temporary Increase in Number of General and Flag Officers Authorized To Be on Active Duty**
 
 Temporary increases in the number of officers authorized in particular grades under this section were contained in the following authorization acts:
 
-Pub. L. 99–661, div. A, title V, § 511, Nov. 14, 1986, 100 Stat. 3869.
+Pub. L. 99–661, div. A, title V, § 511, Nov. 14, 1986, 100 Stat. 3869.
 
-Pub. L. 99–570, title III, § 3058, Oct. 27, 1986, 100 Stat. 3207–79.
+Pub. L. 99–570, title III, § 3058, Oct. 27, 1986, 100 Stat. 3207–79.
 
-Pub. L. 99–145, title V, § 515, Nov. 8, 1985, 99 Stat. 630.
+Pub. L. 99–145, title V, § 515, Nov. 8, 1985, 99 Stat. 630.
 
-Pub. L. 98–525, title V, § 511, Oct. 19, 1984, 98 Stat. 2521.
+Pub. L. 98–525, title V, § 511, Oct. 19, 1984, 98 Stat. 2521.
 
-Pub. L. 98–94, title X, § 1001, Sept. 24, 1983, 97 Stat. 654.
+Pub. L. 98–94, title X, § 1001, Sept. 24, 1983, 97 Stat. 654.
 
-Pub. L. 97–252, title XI, § 1116, Sept. 8, 1982, 96 Stat. 750.
+Pub. L. 97–252, title XI, § 1116, Sept. 8, 1982, 96 Stat. 750.
 
-## § 526. Authorized strength: general officers and flag officers on active duty
+## § 526. Authorized strength: general officers and flag officers on active duty
 
 **(a) Limitations.—** The number of general officers on active duty in the Army, Air Force, Marine Corps, and Space Force, and the number of flag officers on active duty in the Navy, may not exceed the number specified for the armed force concerned as follows:
 
@@ -931,91 +931,91 @@ Pub. L. 97–252, title XI, § 1116, Sept. 8, 1982, 96 Stat. 750.
 
 **(B)** each offsetting reduction under paragraph (2), specifying the armed force and billet so reduced.
 
-(Added Pub. L. 114–328, div. A, title V, § 501(h)(1), Dec. 23, 2016, 130 Stat. 2100, § 526a; amended Pub. L. 116–283, div. A, title V, § 501(a), Jan. 1, 2021, 134 Stat. 3562; Pub. L. 117–81, div. A, title V, § 501(b), Dec. 27, 2021, 135 Stat. 1679; Pub. L. 117–263, div. A, title V, § 504, Dec. 23, 2022, 136 Stat. 2558; renumbered § 526 and amended Pub. L. 118–31, div. A, title V, § 501(a)(2), (4), (b), title XVIII, § 1801(a)(9), Dec. 22, 2023, 137 Stat. 240, 684; Pub. L. 118–159, div. A, title V, §§ 502(a), 509B(c), Dec. 23, 2024, 138 Stat. 1868, 1873; Pub. L. 119–60, div. A, title V, §§ 501(b), 502, Dec. 18, 2025, 139 Stat. 853, 854.)
+(Added Pub. L. 114–328, div. A, title V, § 501(h)(1), Dec. 23, 2016, 130 Stat. 2100, § 526a; amended Pub. L. 116–283, div. A, title V, § 501(a), Jan. 1, 2021, 134 Stat. 3562; Pub. L. 117–81, div. A, title V, § 501(b), Dec. 27, 2021, 135 Stat. 1679; Pub. L. 117–263, div. A, title V, § 504, Dec. 23, 2022, 136 Stat. 2558; renumbered § 526 and amended Pub. L. 118–31, div. A, title V, § 501(a)(2), (4), (b), title XVIII, § 1801(a)(9), Dec. 22, 2023, 137 Stat. 240, 684; Pub. L. 118–159, div. A, title V, §§ 502(a), 509B(c), Dec. 23, 2024, 138 Stat. 1868, 1873; Pub. L. 119–60, div. A, title V, §§ 501(b), 502, Dec. 18, 2025, 139 Stat. 853, 854.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 526, added Pub. L. 100–370, § 1(b)(1)(B), July 19, 1988, 102 Stat. 840; amended Pub. L. 101–510, div. A, title IV, § 403(a), Nov. 5, 1990, 104 Stat. 1545; Pub. L. 102–484, div. A, title IV, § 403, Oct. 23, 1992, 106 Stat. 2398; Pub. L. 103–337, div. A, title IV, § 404, title V, § 512, Oct. 5, 1994, 108 Stat. 2744, 2752; Pub. L. 104–106, div. A, title XV, §§ 1502(a)(1), 1503(a)(3), Feb. 10, 1996, 110 Stat. 502, 510; Pub. L. 104–201, div. A, title IV, § 405, Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, § 405, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, § 553, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 615, 774; Pub. L. 107–314, div. A, title IV, § 405(c), title X, § 1041(a)(3), Dec. 2, 2002, 116 Stat. 2526, 2645; Pub. L. 108–136, div. A, title V, § 504(c), Nov. 24, 2003, 117 Stat. 1457; Pub. L. 109–163, div. A, title V, §§ 503(b), 510, 515(b)(1)(C), Jan. 6, 2006, 119 Stat. 3226, 3231, 3233; Pub. L. 109–364, div. A, title V, § 507(c), Oct. 17, 2006, 120 Stat. 2180; Pub. L. 110–181, div. A, title V, § 502, title XVIII, § 1824(c), Jan. 28, 2008, 122 Stat. 95, 501; Pub. L. 110–417, [div. A], title V, §§ 503(a)–(c), 525, Oct. 14, 2008, 122 Stat. 4433, 4448; Pub. L. 111–84, div. A, title V, § 502(e)–(g), Oct. 28, 2009, 123 Stat. 2275, 2276; Pub. L. 112–81, div. A, title V, § 502(b)(1), (c)(1), Dec. 31, 2011, 125 Stat. 1387; Pub. L. 112–239, div. A, title V, § 501(a), Jan. 2, 2013, 126 Stat. 1714; Pub. L. 113–66, div. A, title V, § 501(a), (b)(2), Dec. 26, 2013, 127 Stat. 748, 749; Pub. L. 114–328, div. A, title V, §§ 501(h)(2), 503(b), Dec. 23, 2016, 130 Stat. 2102, 2107; Pub. L. 116–92, div. A, title XVII, § 1731(a)(17), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 116–283, div. A, title V, § 501(c)(2), Jan. 1, 2021, 134 Stat. 3563; Pub. L. 117–81, div. A, title V, § 501(a), Dec. 27, 2021, 135 Stat. 1678, related to authorized strength of general officers on active duty in the Army, Air Force, and Marine Corps, and the number of flag officers on active duty in the Navy, prior to repeal by Pub. L. 118–31, div. A, title V, § 501(a)(1), Dec. 22, 2023, 137 Stat. 240.
+A prior section 526, added Pub. L. 100–370, § 1(b)(1)(B), July 19, 1988, 102 Stat. 840; amended Pub. L. 101–510, div. A, title IV, § 403(a), Nov. 5, 1990, 104 Stat. 1545; Pub. L. 102–484, div. A, title IV, § 403, Oct. 23, 1992, 106 Stat. 2398; Pub. L. 103–337, div. A, title IV, § 404, title V, § 512, Oct. 5, 1994, 108 Stat. 2744, 2752; Pub. L. 104–106, div. A, title XV, §§ 1502(a)(1), 1503(a)(3), Feb. 10, 1996, 110 Stat. 502, 510; Pub. L. 104–201, div. A, title IV, § 405, Sept. 23, 1996, 110 Stat. 2506; Pub. L. 105–261, div. A, title IV, § 405, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 106–65, div. A, title V, § 553, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 615, 774; Pub. L. 107–314, div. A, title IV, § 405(c), title X, § 1041(a)(3), Dec. 2, 2002, 116 Stat. 2526, 2645; Pub. L. 108–136, div. A, title V, § 504(c), Nov. 24, 2003, 117 Stat. 1457; Pub. L. 109–163, div. A, title V, §§ 503(b), 510, 515(b)(1)(C), Jan. 6, 2006, 119 Stat. 3226, 3231, 3233; Pub. L. 109–364, div. A, title V, § 507(c), Oct. 17, 2006, 120 Stat. 2180; Pub. L. 110–181, div. A, title V, § 502, title XVIII, § 1824(c), Jan. 28, 2008, 122 Stat. 95, 501; Pub. L. 110–417, [div. A], title V, §§ 503(a)–(c), 525, Oct. 14, 2008, 122 Stat. 4433, 4448; Pub. L. 111–84, div. A, title V, § 502(e)–(g), Oct. 28, 2009, 123 Stat. 2275, 2276; Pub. L. 112–81, div. A, title V, § 502(b)(1), (c)(1), Dec. 31, 2011, 125 Stat. 1387; Pub. L. 112–239, div. A, title V, § 501(a), Jan. 2, 2013, 126 Stat. 1714; Pub. L. 113–66, div. A, title V, § 501(a), (b)(2), Dec. 26, 2013, 127 Stat. 748, 749; Pub. L. 114–328, div. A, title V, §§ 501(h)(2), 503(b), Dec. 23, 2016, 130 Stat. 2102, 2107; Pub. L. 116–92, div. A, title XVII, § 1731(a)(17), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 116–283, div. A, title V, § 501(c)(2), Jan. 1, 2021, 134 Stat. 3563; Pub. L. 117–81, div. A, title V, § 501(a), Dec. 27, 2021, 135 Stat. 1678, related to authorized strength of general officers on active duty in the Army, Air Force, and Marine Corps, and the number of flag officers on active duty in the Navy, prior to repeal by Pub. L. 118–31, div. A, title V, § 501(a)(1), Dec. 22, 2023, 137 Stat. 240.
 
 Another prior section 526 was renumbered section 527 of this title.
 
 **Amendments**
 
-2025—Subsec. (a)(3). Pub. L. 119–60, § 502(1), substituted “168” for “171”.
+2025—Subsec. (a)(3). Pub. L. 119–60, § 502(1), substituted “168” for “171”.
 
-Subsec. (a)(5). Pub. L. 119–60, § 502(2), substituted “24” for “21”.
+Subsec. (a)(5). Pub. L. 119–60, § 502(2), substituted “24” for “21”.
 
-Subsec. (c). Pub. L. 119–60, § 501(b)(1)(A), inserted “and of the Space Force” after “Components” in heading.
+Subsec. (c). Pub. L. 119–60, § 501(b)(1)(A), inserted “and of the Space Force” after “Components” in heading.
 
-Subsec. (c)(1). Pub. L. 119–60, § 501(b)(1)(B), inserted “or of the Space Force” after “a reserve component” in introductory provisions.
+Subsec. (c)(1). Pub. L. 119–60, § 501(b)(1)(B), inserted “or of the Space Force” after “a reserve component” in introductory provisions.
 
-Subsec. (c)(2)(D). Pub. L. 119–60, § 501(b)(1)(C), added subpar. (D).
+Subsec. (c)(2)(D). Pub. L. 119–60, § 501(b)(1)(C), added subpar. (D).
 
-Subsec. (c)(3)(A). Pub. L. 119–60, § 501(b)(1)(D), inserted “, or a Space Force general officer in a Space Force active status not on sustained duty,” after “a reserve component”.
+Subsec. (c)(3)(A). Pub. L. 119–60, § 501(b)(1)(D), inserted “, or a Space Force general officer in a Space Force active status not on sustained duty,” after “a reserve component”.
 
-Subsec. (d)(3). Pub. L. 119–60, § 501(b)(2), added par. (3).
+Subsec. (d)(3). Pub. L. 119–60, § 501(b)(2), added par. (3).
 
-2024—Subsecs. (g), (h). Pub. L. 118–159, § 509(c), added subsec. (g) and redesignated subsec. (g), as added by section 502(a)(2), as (h).
+2024—Subsecs. (g), (h). Pub. L. 118–159, § 509(c), added subsec. (g) and redesignated subsec. (g), as added by section 502(a)(2), as (h).
 
-Pub. L. 118–159, § 502(a)(2), added subsec. (g), which was subsequently redesignated (h).
+Pub. L. 118–159, § 502(a)(2), added subsec. (g), which was subsequently redesignated (h).
 
-Subsecs. (i) to (*l*). Pub. L. 118–159, §§ 502(a)(1), 509B(c)(1), successively redesignated subsecs. (g) to (j) first as (h) to (k), then as (i) to (*l*), respectively.
+Subsecs. (i) to (*l*). Pub. L. 118–159, §§ 502(a)(1), 509B(c)(1), successively redesignated subsecs. (g) to (j) first as (h) to (k), then as (i) to (*l*), respectively.
 
-2023—Pub. L. 118–31, § 501(a)(4), struck out “after December 31, 2022” after “Authorized strength” in section catchline.
+2023—Pub. L. 118–31, § 501(a)(4), struck out “after December 31, 2022” after “Authorized strength” in section catchline.
 
-Pub. L. 118–31, § 501(a)(2), renumbered section 526a of this title as this section.
+Pub. L. 118–31, § 501(a)(2), renumbered section 526a of this title as this section.
 
-Subsec. (a). Pub. L. 118–31, § 501(b)(1)(A), struck out “after December 31, 2022,” after “in the Navy,” in introductory provisions.
+Subsec. (a). Pub. L. 118–31, § 501(b)(1)(A), struck out “after December 31, 2022,” after “in the Navy,” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 118–31, § 501(b)(1)(B), substituted “219” for “218”.
+Subsec. (a)(1). Pub. L. 118–31, § 501(b)(1)(B), substituted “219” for “218”.
 
-Subsec. (a)(2). Pub. L. 118–31, § 501(b)(1)(C), substituted “150” for “149”.
+Subsec. (a)(2). Pub. L. 118–31, § 501(b)(1)(C), substituted “150” for “149”.
 
-Subsec. (a)(3). Pub. L. 118–31, § 501(b)(1)(D), substituted “171” for “170”.
+Subsec. (a)(3). Pub. L. 118–31, § 501(b)(1)(D), substituted “171” for “170”.
 
-Subsec. (a)(4). Pub. L. 118–31, § 501(b)(1)(E), substituted “64” for “62”.
+Subsec. (a)(4). Pub. L. 118–31, § 501(b)(1)(E), substituted “64” for “62”.
 
-Subsecs. (i), (j). Pub. L. 118–31, §§ 501(b)(2), 1801(a)(9), amended section identically, redesignating subsec. (i) relating to transfer of authorizations among the military services as (j).
+Subsecs. (i), (j). Pub. L. 118–31, §§ 501(b)(2), 1801(a)(9), amended section identically, redesignating subsec. (i) relating to transfer of authorizations among the military services as (j).
 
-2022—Subsec. (a). Pub. L. 117–263, § 504(1)(A), substituted “Marine Corps, and Space Force” for “and Marine Corps” in introductory provisions.
+2022—Subsec. (a). Pub. L. 117–263, § 504(1)(A), substituted “Marine Corps, and Space Force” for “and Marine Corps” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 117–263, § 504(1)(B), substituted “218” for “220”.
+Subsec. (a)(1). Pub. L. 117–263, § 504(1)(B), substituted “218” for “220”.
 
-Subsec. (a)(2). Pub. L. 117–263, § 504(1)(C), substituted “149” for “151”.
+Subsec. (a)(2). Pub. L. 117–263, § 504(1)(C), substituted “149” for “151”.
 
-Subsec. (a)(3). Pub. L. 117–263, § 504(1)(D), substituted “170” for “187”.
+Subsec. (a)(3). Pub. L. 117–263, § 504(1)(D), substituted “170” for “187”.
 
-Subsec. (a)(5). Pub. L. 117–263, § 504(1)(E), added par. (5).
+Subsec. (a)(5). Pub. L. 117–263, § 504(1)(E), added par. (5).
 
-Subsec. (b)(2)(E). Pub. L. 117–263, § 504(2), added subpar. (E).
+Subsec. (b)(2)(E). Pub. L. 117–263, § 504(2), added subpar. (E).
 
-2021—Subsecs. (c) to (h). Pub. L. 116–283, § 501(a), added subsec. (c) and redesignated former subsecs. (c) to (g) as (d) to (h), respectively. Former subsec. (h) redesignated (i).
+2021—Subsecs. (c) to (h). Pub. L. 116–283, § 501(a), added subsec. (c) and redesignated former subsecs. (c) to (g) as (d) to (h), respectively. Former subsec. (h) redesignated (i).
 
 Subsec. (i). Pub. L. 117–81 added subsec. (i) relating to transfer of authorizations among military services.
 
-Pub. L. 116–283, § 501(a)(1), redesignated subsec. (h) as (i) relating to annual report.
+Pub. L. 116–283, § 501(a)(1), redesignated subsec. (h) as (i) relating to annual report.
 
-## [§ 526a. Renumbered § 526]
+## [§ 526a. Renumbered § 526]
 
 **Statutory Notes and Related Subsidiaries**
 
 **Exclusion of Officers Serving as Lead Special Trial Counsel From Limitations on Authorized Strengths for General and Flag Officers**
 
-Pub. L. 117–263, div. A, title V, § 506, Dec. 23, 2022, 136 Stat. 2558, which related to certain general or flag officers serving in the position of lead special trial counsel pursuant to an appointment under section 1044f(a)(2) of this title, was repealed by Pub. L. 118–31, div. A, title V, § 501(c), Dec. 22, 2023, 137 Stat. 240.
+Pub. L. 117–263, div. A, title V, § 506, Dec. 23, 2022, 136 Stat. 2558, which related to certain general or flag officers serving in the position of lead special trial counsel pursuant to an appointment under section 1044f(a)(2) of this title, was repealed by Pub. L. 118–31, div. A, title V, § 501(c), Dec. 22, 2023, 137 Stat. 240.
 
-## § 527. Authority to suspend sections 523, 525, and 526
+## § 527. Authority to suspend sections 523, 525, and 526
 
 In time of war, or of national emergency declared by Congress or the President after November 30, 1980, the President may suspend the operation of any provision of section 523, 525, or 526 of this title. So long as such war or national emergency continues, any such suspension may be extended by the President. Any such suspension shall, if not sooner ended, end on the last day of the two-year period beginning on the date on which the suspension (or the last extension thereof) takes effect or on the last day of the one-year period beginning on the date of the termination of the war or national emergency, whichever occurs first. With respect to the end of any such suspension, the preceding sentence supersedes the provisions of title II of the National Emergencies Act (50 U.S.C. 1621–1622) which provide that powers or authorities exercised by reason of a national emergency shall cease to be exercised after the date of the termination of the emergency.
 
-(Added Pub. L. 96–513, title I, § 103, Dec. 12, 1980, 94 Stat. 2845, § 526; renumbered § 527 and amended Pub. L. 100–370, § 1(b)(1)(A), (2), July 19, 1988, 102 Stat. 840; Pub. L. 103–337, div. A, title XVI, § 1671(c)(4), Oct. 5, 1994, 108 Stat. 3014.)
+(Added Pub. L. 96–513, title I, § 103, Dec. 12, 1980, 94 Stat. 2845, § 526; renumbered § 527 and amended Pub. L. 100–370, § 1(b)(1)(A), (2), July 19, 1988, 102 Stat. 840; Pub. L. 103–337, div. A, title XVI, § 1671(c)(4), Oct. 5, 1994, 108 Stat. 3014.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Emergencies Act, referred to in text, is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended. Title II of the National Emergencies Act is classified generally to subchapter II (§ 1621 et seq.) of chapter 34 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+The National Emergencies Act, referred to in text, is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended. Title II of the National Emergencies Act is classified generally to subchapter II (§ 1621 et seq.) of chapter 34 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
 **Amendments**
 
@@ -1035,19 +1035,19 @@ Section effective Sept. 15, 1981, but the authority to prescribe regulations und
 
 **Authority To Waive Grade Strength Laws For Fiscal Year 1991; Certification; Relationship to Other Suspension Authority**
 
-Pub. L. 102–25, title II, §§ 201(b), 202, 205(b), Apr. 6, 1991, 105 Stat. 79, 80, authorized Secretary of a military department to suspend, for fiscal year 1991, the operation of any provision of section 517, 523, 524, 525, or 526 of this title with respect to that military department, that such Secretary may exercise such authority only after submission to the congressional defense committees of a certification in writing that such authority is necessary because of personnel actions associated with Operation Desert Storm, and that such authority is in addition to the authority provided in this section.
+Pub. L. 102–25, title II, §§ 201(b), 202, 205(b), Apr. 6, 1991, 105 Stat. 79, 80, authorized Secretary of a military department to suspend, for fiscal year 1991, the operation of any provision of section 517, 523, 524, 525, or 526 of this title with respect to that military department, that such Secretary may exercise such authority only after submission to the congressional defense committees of a certification in writing that such authority is necessary because of personnel actions associated with Operation Desert Storm, and that such authority is in addition to the authority provided in this section.
 
 **Executive Documents**
 
 **Delegation of Functions**
 
-Functions of President under this section to suspend operation of sections 523, 524 [now 12011], and 525 of this title, relating to authorized strength of commissioned officers, delegated to Secretary of Defense to perform during a time of war or national emergency, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, provided that, during a national emergency declared by President, the exercise of any such authority be specifically directed by President in accordance with section 1631 of Title 50, War and National Defense, and that Secretary ensure that actions taken pursuant to any authority so delegated be accounted for as required by section 1641 of Title 50, see Ex. Ord. No. 12396, §§ 2, 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under section 301 of Title 3, The President.
+Functions of President under this section to suspend operation of sections 523, 524 [now 12011], and 525 of this title, relating to authorized strength of commissioned officers, delegated to Secretary of Defense to perform during a time of war or national emergency, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, provided that, during a national emergency declared by President, the exercise of any such authority be specifically directed by President in accordance with section 1631 of Title 50, War and National Defense, and that Secretary ensure that actions taken pursuant to any authority so delegated be accounted for as required by section 1641 of Title 50, see Ex. Ord. No. 12396, §§ 2, 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under section 301 of Title 3, The President.
 
 **Delegation of Authority**
 
 Authority of President under this section as invoked by sections 2 and 3 of Ex. Ord. No. 13223, Sept. 14, 2001, 66 F.R. 48201, as amended, delegated to Secretary of Defense by section 4 of Ex. Ord. No. 13223, set out as a note under section 12302 of this title.
 
-## § 528. Officers serving in certain intelligence positions: military status; application of distribution and strength limitations; pay and allowances
+## § 528. Officers serving in certain intelligence positions: military status; application of distribution and strength limitations; pay and allowances
 
 **(a) Military Status.—** An officer of the armed forces, while serving in a position covered by this section—
 
@@ -1079,25 +1079,25 @@ Authority of President under this section as invoked by sections 2 and 3 of Ex. 
 
 **(g) Covered Positions.—** The positions covered by this section are the positions specified in subsections (b) and (c) and the positions designated under subsection (d).
 
-(Added Pub. L. 108–136, div. A, title V, § 507(a), Nov. 24, 2003, 117 Stat. 1458; amended Pub. L. 109–163, div. A, title V, § 507(a), Jan. 6, 2006, 119 Stat. 3228; Pub. L. 109–364, div. A, title V, § 501(a), (b)(1), Oct. 17, 2006, 120 Stat. 2175, 2176; Pub. L. 110–417, [div. A], title IX, § 933, Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–259, title VIII, § 803, Oct. 7, 2010, 124 Stat. 2746; Pub. L. 112–81, div. A, title V, § 502(d)(1), (2)(A), Dec. 31, 2011, 125 Stat. 1387, 1388.)
+(Added Pub. L. 108–136, div. A, title V, § 507(a), Nov. 24, 2003, 117 Stat. 1458; amended Pub. L. 109–163, div. A, title V, § 507(a), Jan. 6, 2006, 119 Stat. 3228; Pub. L. 109–364, div. A, title V, § 501(a), (b)(1), Oct. 17, 2006, 120 Stat. 2175, 2176; Pub. L. 110–417, [div. A], title IX, § 933, Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–259, title VIII, § 803, Oct. 7, 2010, 124 Stat. 2746; Pub. L. 112–81, div. A, title V, § 502(d)(1), (2)(A), Dec. 31, 2011, 125 Stat. 1387, 1388.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 528, added Pub. L. 103–337, div. A, title IV, § 405(b)(1), Oct. 5, 1994, 108 Stat. 2744; amended Pub. L. 104–106, div. A, title IV, § 403(b), title XV, § 1503(a)(4), Feb. 10, 1996, 110 Stat. 287, 511; Pub. L. 104–201, div. A, title X, § 1074(a)(3), Sept. 23, 1996, 110 Stat. 2658, which related to limitation on number of officers on active duty in grades of general and admiral, was repealed by Pub. L. 107–107, div. A, title V, § 501(a), Dec. 28, 2001, 115 Stat. 1079.
+A prior section 528, added Pub. L. 103–337, div. A, title IV, § 405(b)(1), Oct. 5, 1994, 108 Stat. 2744; amended Pub. L. 104–106, div. A, title IV, § 403(b), title XV, § 1503(a)(4), Feb. 10, 1996, 110 Stat. 287, 511; Pub. L. 104–201, div. A, title X, § 1074(a)(3), Sept. 23, 1996, 110 Stat. 2658, which related to limitation on number of officers on active duty in grades of general and admiral, was repealed by Pub. L. 107–107, div. A, title V, § 501(a), Dec. 28, 2001, 115 Stat. 1079.
 
 **Amendments**
 
-2011—Pub. L. 112–81, § 502(d)(2)(A), substituted “Officers serving in certain intelligence positions: military status; application of distribution and strength limitations; pay and allowances” for “Officers serving in certain intelligence positions: military status; exclusion from distribution and strength limitations; pay and allowances” in section catchline.
+2011—Pub. L. 112–81, § 502(d)(2)(A), substituted “Officers serving in certain intelligence positions: military status; application of distribution and strength limitations; pay and allowances” for “Officers serving in certain intelligence positions: military status; exclusion from distribution and strength limitations; pay and allowances” in section catchline.
 
-Subsecs. (b) to (d). Pub. L. 112–81, § 502(d)(1), added subsecs. (b) to (d) and struck out former subsecs. (b) to (d) which related to Director and Deputy Director of CIA, Associate Director of Military Affairs of CIA, and Officers Serving in the Office of DNI, respectively.
+Subsecs. (b) to (d). Pub. L. 112–81, § 502(d)(1), added subsecs. (b) to (d) and struck out former subsecs. (b) to (d) which related to Director and Deputy Director of CIA, Associate Director of Military Affairs of CIA, and Officers Serving in the Office of DNI, respectively.
 
 2010—Subsec. (c). Pub. L. 111–259 substituted “Associate Director of Military Affairs, CIA” for “Associate Director of CIA for Military Affairs” in heading and “Associate Director of Military Affairs, Central Intelligence Agency, or any successor position” for “Associate Director of the Central Intelligence Agency for Military Affairs” in text.
 
 2008—Subsec. (c). Pub. L. 110–417 substituted “Military Affairs” for “Military Support” in heading and text.
 
-2006—Pub. L. 109–364, § 501(b)(1), amended section catchline generally, substituting “Officers serving in certain intelligence positions: military status; exclusion from distribution and strength limitations; pay and allowances” for “Exclusion: officers serving in certain intelligence positions”.
+2006—Pub. L. 109–364, § 501(b)(1), amended section catchline generally, substituting “Officers serving in certain intelligence positions: military status; exclusion from distribution and strength limitations; pay and allowances” for “Exclusion: officers serving in certain intelligence positions”.
 
 Pub. L. 109–163 amended section catchline and text generally. Prior to amendment, text read as follows:
 
@@ -1111,7 +1111,7 @@ Pub. L. 109–163 amended section catchline and text generally. Prior to amendme
 
 “(3) Deputy Director of Central Intelligence for Community Management.”
 
-Subsecs. (a), (b). Pub. L. 109–364, § 501(a)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
+Subsecs. (a), (b). Pub. L. 109–364, § 501(a)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 
 “(a) Exclusion of Officer Serving in Certain CIA Positions.—When either of the individuals serving in a position specified in subsection (b) is an officer of the armed forces, one of those officers, while serving in that position, shall be excluded from the limitations in sections 525 and 526 of this title.
 
@@ -1121,4 +1121,4 @@ Subsecs. (a), (b). Pub. L. 109–364, § 501(a)(1), added subsecs. (a) and (b)
 
 “(2) Deputy Director of the Central Intelligence Agency.”
 
-Subsecs. (e) to (g). Pub. L. 109–364, § 501(a)(2), added subsecs. (e) to (g).
+Subsecs. (e) to (g). Pub. L. 109–364, § 501(a)(2), added subsecs. (e) to (g).

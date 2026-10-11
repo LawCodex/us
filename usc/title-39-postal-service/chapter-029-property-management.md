@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2022—Pub. L. 117–108, title I, § 102(d)(2), Apr. 6, 2022, 136 Stat. 1140, added item 2903.
+2022—Pub. L. 117–108, title I, § 102(d)(2), Apr. 6, 2022, 136 Stat. 1140, added item 2903.
 
-## § 2901. Definitions
+## § 2901. Definitions
 
 In this chapter:
 
@@ -35,9 +35,9 @@ In this chapter:
 
 **(B)** for program purposes that can be satisfied only with a portion of the property.
 
-(Added Pub. L. 114–318, § 4(a), Dec. 16, 2016, 130 Stat. 1613.)
+(Added Pub. L. 114–318, § 4(a), Dec. 16, 2016, 130 Stat. 1613.)
 
-## § 2902. Property management
+## § 2902. Property management
 
 **(a) In General.—** The Postal Service—
 
@@ -83,7 +83,7 @@ In this chapter:
 
 **(b) Rule of Construction.—** Nothing in subsection (a)(4)(B) shall be construed to require the Postal Service to obtain an appraisal of postal property.
 
-(Added Pub. L. 114–318, § 4(a), Dec. 16, 2016, 130 Stat. 1613.)
+(Added Pub. L. 114–318, § 4(a), Dec. 16, 2016, 130 Stat. 1613.)
 
 **Editorial Notes**
 
@@ -91,8 +91,8 @@ In this chapter:
 
 The date of enactment of this chapter, referred to in subsec. (a)(4)(B)(ix), is the date of enactment of Pub. L. 114–318, which was approved Dec. 16, 2016.
 
-## § 2903. Use of funds from sale of property
+## § 2903. Use of funds from sale of property
 
 In the event that the Postal Service permanently ceases operations, any funds derived from the sale of any real property owned by the Postal Service shall be used to pay any outstanding liability with respect to the salaries and expenses of any Postal Service employee. The balance of any remaining funds shall be deposited into the Postal Service Retiree Health Benefits Fund established under section 8909a of title 5.
 
-(Added Pub. L. 117–108, title I, § 102(d)(1), Apr. 6, 2022, 136 Stat. 1140.)
+(Added Pub. L. 117–108, title I, § 102(d)(1), Apr. 6, 2022, 136 Stat. 1140.)

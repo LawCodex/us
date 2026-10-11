@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 217—ELDER ABUSE PREVENTION AND PROSECUTION
 
-## § 21701. Definitions
+## § 21701. Definitions
 
 In this chapter—
 
@@ -25,7 +25,7 @@ In this chapter—
 
 **(3)** the term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any other territory or possession of the United States.
 
-(Pub. L. 115–70, § 2, Oct. 18, 2017, 131 Stat. 1208.)
+(Pub. L. 115–70, § 2, Oct. 18, 2017, 131 Stat. 1208.)
 
 **Editorial Notes**
 
@@ -35,7 +35,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 ## SUBCHAPTER I—SUPPORTING FEDERAL CASES INVOLVING ELDER JUSTICE
 
-### § 21711. Supporting Federal cases involving elder justice
+### § 21711. Supporting Federal cases involving elder justice
 
 **(a) Support and assistance**
 
@@ -99,7 +99,7 @@ In creating or compiling replication guides and training materials under paragra
 
 **(B)** serving as, or ensuring the availability of, a central point of contact for individuals, units of local government, States, and other Federal agencies on matters relating to the enforcement and consumer education efforts and policy activities of the Federal Trade Commission on elder justice issues.
 
-**(2) 1 [footnote: 1 See Applicability of Amendment note below.] Reports to Congress** Not later than 1 year after October 18, 2017, and once every year thereafter, the Chairman of the Federal Trade Commission and the Attorney General shall each submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report—
+**(2) 1 [footnote: 1 See Applicability of Amendment note below.] Reports to Congress** Not later than 1 year after October 18, 2017, and once every year thereafter, the Chairman of the Federal Trade Commission and the Attorney General shall each submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report—
 
 **(A)** detailing the enforcement actions taken by the Federal Trade Commission and the Department of Justice, respectively, over the preceding year in each case in which not less than one victim was an elder or that involved a financial scheme or scam that was either targeted directly toward or largely affected elders, including—
 
@@ -111,7 +111,7 @@ In creating or compiling replication guides and training materials under paragra
 
 **(iv)** the outcome of the case.2
 
-<sup>2</sup>  So in original. Subpar. (B) added by Pub. L. 116–252 without conforming amendment to punctuation at end of subpar. (A)(iv).
+<sup>2</sup> So in original. Subpar. (B) added by Pub. L. 116–252 without conforming amendment to punctuation at end of subpar. (A)(iv).
 
 **(B)** with respect to the report by the Attorney General, including a link to the publicly available best practices identified under subsection (b)(1)(B) and the replication guides and training materials created or compiled under such subsection; and
 
@@ -127,7 +127,7 @@ In creating or compiling replication guides and training materials under paragra
 
 No additional funds are authorized to be appropriated to carry out this section.
 
-(Pub. L. 115–70, title I, § 101, Oct. 18, 2017, 131 Stat. 1209; Pub. L. 116–252, §§ 2(a), 3(a), Dec. 22, 2020, 134 Stat. 1133, 1134; Pub. L. 117–103, div. Q, title I, § 112(e), Mar. 15, 2022, 136 Stat. 811.)
+(Pub. L. 115–70, title I, § 101, Oct. 18, 2017, 131 Stat. 1209; Pub. L. 116–252, §§ 2(a), 3(a), Dec. 22, 2020, 134 Stat. 1133, 1134; Pub. L. 117–103, div. Q, title I, § 112(e), Mar. 15, 2022, 136 Stat. 811.)
 
 **Amendment of Section**
 
@@ -141,27 +141,27 @@ Section 112 of the Stop Senior Scams Act, referred to in subsec. (c)(2)(C), is s
 
 **Amendments**
 
-2022—Subsec. (c)(2)(C). Pub. L. 117–103, § 112(e), (f), temporarily added subpar. (C). See Termination Date of 2022 Amendment note below.
+2022—Subsec. (c)(2)(C). Pub. L. 117–103, § 112(e), (f), temporarily added subpar. (C). See Termination Date of 2022 Amendment note below.
 
-2020—Subsec. (b). Pub. L. 116–252, § 2(a)(1)–(3), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), redesignated former subpars. (A) to (C) of par. (2) as clauses (i) to (iii), respectively, of par. (1)(B), and realigned margins.
+2020—Subsec. (b). Pub. L. 116–252, § 2(a)(1)–(3), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), redesignated former subpars. (A) to (C) of par. (2) as clauses (i) to (iii), respectively, of par. (1)(B), and realigned margins.
 
-Subsec. (b)(1)(B)(ii). Pub. L. 116–252, § 2(a)(4)(A), inserted “, including witnesses who have Alzheimer’s disease and related dementias” after “other legal issues”.
+Subsec. (b)(1)(B)(ii). Pub. L. 116–252, § 2(a)(4)(A), inserted “, including witnesses who have Alzheimer’s disease and related dementias” after “other legal issues”.
 
-Subsec. (b)(1)(B)(iii). Pub. L. 116–252, § 2(a)(4)(B), substituted “elder abuse cases (including victims and witnesses who have Alzheimer’s disease and related dementias),” for “elder abuse cases,”.
+Subsec. (b)(1)(B)(iii). Pub. L. 116–252, § 2(a)(4)(B), substituted “elder abuse cases (including victims and witnesses who have Alzheimer’s disease and related dementias),” for “elder abuse cases,”.
 
-Subsec. (b)(2). Pub. L. 116–252, § 2(a)(5), added par. (2).
+Subsec. (b)(2). Pub. L. 116–252, § 2(a)(5), added par. (2).
 
-Subsec. (c)(2). Pub. L. 116–252, § 3(a), substituted “a report—” for “a report” in introductory provisions, designated remainder of provisions as subpar. (A), redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A) and realigned margins, and added subpar. (B).
+Subsec. (c)(2). Pub. L. 116–252, § 3(a), substituted “a report—” for “a report” in introductory provisions, designated remainder of provisions as subpar. (A), redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A) and realigned margins, and added subpar. (B).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Termination of 2022 Amendment**
 
-Pub. L. 117–103, div. Q, title I, § 112(f), Mar. 15, 2022, 136 Stat. 811, provided that: “This subtitle [subtitle A of title I of div. Q of Pub. L. 117–103, amending this section and enacting provisions set out as notes under this section and sections 45e and 58 of Title 15, Commerce and Trade], and the amendments made by this subtitle, ceases to be effective on the date that is 5 years after the date of enactment of this Act [Mar. 15, 2022].”
+Pub. L. 117–103, div. Q, title I, § 112(f), Mar. 15, 2022, 136 Stat. 811, provided that: “This subtitle [subtitle A of title I of div. Q of Pub. L. 117–103, amending this section and enacting provisions set out as notes under this section and sections 45e and 58 of Title 15, Commerce and Trade], and the amendments made by this subtitle, ceases to be effective on the date that is 5 years after the date of enactment of this Act [Mar. 15, 2022].”
 
 **Effective Date and Applicability of 2020 Amendment**
 
-Pub. L. 116–252, § 2(b), Dec. 22, 2020, 134 Stat. 1134, provided that:
+Pub. L. 116–252, § 2(b), Dec. 22, 2020, 134 Stat. 1134, provided that:
 
 > “The amendments made by subsection (a) [amending this section] shall—
 
@@ -169,11 +169,11 @@ Pub. L. 116–252, § 2(b), Dec. 22, 2020, 134 Stat. 1134, provided that:
 
 > **“(2)** apply on and after the date that is 1 year after the date of enactment of this Act.”
 
-Pub. L. 116–252, § 3(b), Dec. 22, 2020, 134 Stat. 1134, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to the report under section 101(c)(2) of the Elder Abuse Prevention and Prosecution Act (34 U.S.C. 21711(c)(2)) submitted during the second year beginning after the date of enactment of this Act [Dec. 22, 2020], and each year thereafter.”
+Pub. L. 116–252, § 3(b), Dec. 22, 2020, 134 Stat. 1134, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to the report under section 101(c)(2) of the Elder Abuse Prevention and Prosecution Act (34 U.S.C. 21711(c)(2)) submitted during the second year beginning after the date of enactment of this Act [Dec. 22, 2020], and each year thereafter.”
 
 ## SUBCHAPTER II—IMPROVED DATA COLLECTION AND FEDERAL COORDINATION
 
-### § 21721. Establishment of best practices for local, State, and Federal data collection
+### § 21721. Establishment of best practices for local, State, and Federal data collection
 
 **(a) In general** The Attorney General, in consultation with Federal, State, and local law enforcement agencies, shall—
 
@@ -189,9 +189,9 @@ Not later than 1 year after October 18, 2017, the Attorney General shall publish
 
 Nothing in this section shall be construed to require or obligate compliance with the best practices established under subsection (a)(1).
 
-(Pub. L. 115–70, title II, § 201, Oct. 18, 2017, 131 Stat. 1211.)
+(Pub. L. 115–70, title II, § 201, Oct. 18, 2017, 131 Stat. 1211.)
 
-### § 21722. Effective interagency coordination and Federal data collection
+### § 21722. Effective interagency coordination and Federal data collection
 
 **(a) In general** The Attorney General, in consultation with the Secretary of Health and Human Services shall, on an annual basis—
 
@@ -231,17 +231,17 @@ The Secretary of Health and Human Services shall, on an annual basis, provide to
 
 None of the information reported under this section shall include specific individually identifiable data.
 
-(Pub. L. 115–70, title II, § 202, Oct. 18, 2017, 131 Stat. 1211.)
+(Pub. L. 115–70, title II, § 202, Oct. 18, 2017, 131 Stat. 1211.)
 
 ## SUBCHAPTER III—ENHANCED VICTIM ASSISTANCE TO ELDER ABUSE SURVIVORS
 
-### § 21731. Report
+### § 21731. Report
 
 **(a) In general**
 
-Not later than 1 year after the date on which the collection of statistical data under section 21722(a)(1) of this title begins and once each year thereafter, the Director of the Office for Victims of Crime shall submit a report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives that addresses, to the extent data are available, the nature, extent, and amount of funding under the Victims of Crime Act of 1984 (42 U.S.C. 10601 et seq.) 1
+Not later than 1 year after the date on which the collection of statistical data under section 21722(a)(1) of this title begins and once each year thereafter, the Director of the Office for Victims of Crime shall submit a report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives that addresses, to the extent data are available, the nature, extent, and amount of funding under the Victims of Crime Act of 1984 (42 U.S.C. 10601 et seq.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 for victims of crime who are elders.
 
@@ -251,17 +251,17 @@ for victims of crime who are elders.
 
 **(2)** recommendations for improving services for victims of elder abuse.
 
-(Pub. L. 115–70, title III, § 302, Oct. 18, 2017, 131 Stat. 1212.)
+(Pub. L. 115–70, title III, § 302, Oct. 18, 2017, 131 Stat. 1212.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Victims of Crime Act of 1984, referred to in subsec. (a), is chapter XIV of title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 2170, which was classified principally to chapter 112 (§ 10601 et seq.) of Title 42, The Public Health and Welfare, prior to editorial reclassification as chapter 201 (§ 20101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1984 Act note set out under section 10101 of this title and Tables.
+The Victims of Crime Act of 1984, referred to in subsec. (a), is chapter XIV of title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 2170, which was classified principally to chapter 112 (§ 10601 et seq.) of Title 42, The Public Health and Welfare, prior to editorial reclassification as chapter 201 (§ 20101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1984 Act note set out under section 10101 of this title and Tables.
 
 ## SUBCHAPTER IV—ROBERT MATAVA ELDER ABUSE PROSECUTION ACT OF 2017
 
-### § 21741. Training and technical assistance for States
+### § 21741. Training and technical assistance for States
 
 The Attorney General, in consultation with the Secretary of Health and Human Services and in coordination with the Elder Justice Coordinating Council (established under section 1397k of title 42), shall create, compile, evaluate, and disseminate materials and information, and provide the necessary training and technical assistance, to assist States and units of local government in—
 
@@ -275,9 +275,9 @@ The Attorney General, in consultation with the Secretary of Health and Human Ser
 
 **(2)** assessing, addressing, and mitigating the physical and psychological trauma to victims of elder abuse.
 
-(Pub. L. 115–70, title IV, § 403, Oct. 18, 2017, 131 Stat. 1214.)
+(Pub. L. 115–70, title IV, § 403, Oct. 18, 2017, 131 Stat. 1214.)
 
-### § 21742. Interstate initiatives
+### § 21742. Interstate initiatives
 
 **(a) Interstate agreements and compacts** The consent of Congress is given to any two or more States (acting through State agencies with jurisdiction over adult protective services) to enter into agreements or compacts for cooperative effort and mutual assistance—
 
@@ -289,18 +289,18 @@ The Attorney General, in consultation with the Secretary of Health and Human Ser
 
 The Executive Director of the State Justice Institute, in consultation with State or local adult protective services, aging, social, and human services and law enforcement agencies, nationally recognized nonprofit associations with expertise in data sharing among criminal justice agencies and familiarity with the issues raised in elder abuse cases, and the Secretary of Health and Human Services, shall submit to Congress legislative proposals relating to the facilitation of interstate agreements and compacts.
 
-(Pub. L. 115–70, title IV, § 404, Oct. 18, 2017, 131 Stat. 1215.)
+(Pub. L. 115–70, title IV, § 404, Oct. 18, 2017, 131 Stat. 1215.)
 
 ## SUBCHAPTER V—MISCELLANEOUS
 
-### § 21751. Model power of attorney legislation
+### § 21751. Model power of attorney legislation
 
 The Attorney General shall publish model power of attorney legislation for the purpose of preventing elder abuse.
 
-(Pub. L. 115–70, title V, § 504, Oct. 18, 2017, 131 Stat. 1217.)
+(Pub. L. 115–70, title V, § 504, Oct. 18, 2017, 131 Stat. 1217.)
 
-### § 21752. Best practices and model legislation for guardianship proceedings
+### § 21752. Best practices and model legislation for guardianship proceedings
 
 The Attorney General shall publish best practices for improving guardianship proceedings and model legislation relating to guardianship proceedings for the purpose of preventing elder abuse.
 
-(Pub. L. 115–70, title V, § 505, Oct. 18, 2017, 131 Stat. 1217.)
+(Pub. L. 115–70, title V, § 505, Oct. 18, 2017, 131 Stat. 1217.)

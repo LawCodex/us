@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 76—IMITATION FIREARMS
 
-## § 5001. Penalties for entering into commerce of imitation firearms
+## § 5001. Penalties for entering into commerce of imitation firearms
 
 **(a) Acts prohibited**
 
@@ -39,9 +39,9 @@ The Director of the Bureau of Justice Statistics is authorized and directed to c
 
 **(e) Technical evaluation of marking systems**
 
-The Director of 1
+The Director of 1
 
-<sup>1</sup>  So in original. Probably should be “of the”.
+<sup>1</sup> So in original. Probably should be “of the”.
 
 National Institute of Justice is authorized and directed to conduct a technical evaluation of the marking systems provided for in subsection (b) to determine their effectiveness in police combat situations. The Director shall begin the study within 3 months after November 5, 1988, and such study shall be completed within 9 months after November 5, 1988.
 
@@ -55,16 +55,16 @@ This section shall become effective on the date 6 months after November 5, 1988,
 
 **(2)** prohibit the sale (other than prohibiting the sale to minors) of traditional B–B, paint ball, or pellet-firing air guns that expel a projectile through the force of air pressure.
 
-(Pub. L. 100–615, § 4, Nov. 5, 1988, 102 Stat. 3190; Pub. L. 117–167, div. B, title II, § 10246(e), Aug. 9, 2022, 136 Stat. 1492.)
+(Pub. L. 100–615, § 4, Nov. 5, 1988, 102 Stat. 3190; Pub. L. 117–167, div. B, title II, § 10246(e), Aug. 9, 2022, 136 Stat. 1492.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsecs. (a), (b)(2). Pub. L. 117–167, § 10246(e)(1), substituted “Consumer Product Safety Commission” for “Secretary of Commerce”.
+2022—Subsecs. (a), (b)(2). Pub. L. 117–167, § 10246(e)(1), substituted “Consumer Product Safety Commission” for “Secretary of Commerce”.
 
-Subsec. (b)(3). Pub. L. 117–167, § 10246(e)(1), substituted “Consumer Product Safety Commission” for “Secretary”.
+Subsec. (b)(3). Pub. L. 117–167, § 10246(e)(1), substituted “Consumer Product Safety Commission” for “Secretary”.
 
-Subsecs. (c), (e). Pub. L. 117–167, § 10246(e)(2), redesignated subsec. (c) relating to technical evaluation of marking systems as (e).
+Subsecs. (c), (e). Pub. L. 117–167, § 10246(e)(2), redesignated subsec. (c) relating to technical evaluation of marking systems as (e).
 
-Subsec. (g). Pub. L. 117–167, § 10246(e)(3), redesignated cls. (i) and (ii) as pars. (1) and (2), respectively.
+Subsec. (g). Pub. L. 117–167, § 10246(e)(3), redesignated cls. (i) and (ii) as pars. (1) and (2), respectively.

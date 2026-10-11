@@ -17,11 +17,11 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 1621. Congressional declaration of purpose; use of existing facilities; cooperation with States
+### § 1621. Congressional declaration of purpose; use of existing facilities; cooperation with States
 
 The Congress declares that a sound, efficient, and privately operated system for distributing and marketing agricultural products is essential to a prosperous agriculture and is indispensable to the maintenance of full employment and to the welfare, prosperity, and health of the Nation. It is further declared to be the policy of Congress to promote through research, study, experimentation, and through cooperation among Federal and State agencies, farm organizations, and private industry a scientific approach to the problems of marketing, transportation, and distribution of agricultural products similar to the scientific methods which have been utilized so successfully during the past eighty-four years in connection with the production of agricultural products so that such products capable of being produced in abundance may be marketed in an orderly manner and efficiently distributed. In order to attain these objectives, it is the intent of Congress to provide for (1) continuous research to improve the marketing, handling, storage, processing, transportation, and distribution of agricultural products; (2) cooperation among Federal and State agencies, producers, industry organizations, and others in the development and effectuation of research and marketing programs to improve the distribution processes; (3) an integrated administration of all laws enacted by Congress to aid the distribution of agricultural products through research, market aids and services, and regulatory activities, to the end that marketing methods and facilities may be improved, that distribution costs may be reduced and the price spread between the producer and consumer may be narrowed, that dietary and nutritional standards may be improved, that new and wider markets for American agricultural products may be developed, both in the United States and in other countries, with a view to making it possible for the full production of American farms to be disposed of usefully, economically, profitably, and in an orderly manner. In effectuating the purposes of this chapter, maximum use shall be made of existing research facilities owned or controlled by the Federal Government or by State agricultural experiment stations and of the facilities of the Federal and State extension services. To the maximum extent practicable marketing research work done under this chapter in cooperation with the States shall be done in cooperation with the State agricultural experiment stations; marketing educational and demonstrational work done under this chapter in cooperation with the States shall be done in cooperation with the State agricultural extension service; market information, inspection, regulatory work and other marketing service done under this chapter in cooperation with the State agencies shall be done in cooperation with the State departments of agriculture, and State bureaus and departments of markets.
 
-(Aug. 14, 1946, ch. 966, title II, § 202, 60 Stat. 1087.)
+(Aug. 14, 1946, ch. 966, title II, § 202, 60 Stat. 1087.)
 
 **Editorial Notes**
 
@@ -33,19 +33,19 @@ Under this chapter, referred to in text, was in the original “hereunder”, an
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–239, § 1, Sept. 27, 2010, 124 Stat. 2501, provided that: “This Act [enacting section 1635k of this title, amending sections 1636i, 1637b, and 5712 of this title, enacting provisions set out as notes under sections 1635k and 1637b of this title, and amending provisions set out as a note under section 1635 of this title] may be cited as the ‘Mandatory Price Reporting Act of 2010’.”
+Pub. L. 111–239, § 1, Sept. 27, 2010, 124 Stat. 2501, provided that: “This Act [enacting section 1635k of this title, amending sections 1636i, 1637b, and 5712 of this title, enacting provisions set out as notes under sections 1635k and 1637b of this title, and amending provisions set out as a note under section 1635 of this title] may be cited as the ‘Mandatory Price Reporting Act of 2010’.”
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–532, § 1, Nov. 22, 2000, 114 Stat. 2541, provided that: “This Act [enacting subchapter III of this chapter] may be cited as the ‘Dairy Market Enhancement Act of 2000’.”
+Pub. L. 106–532, § 1, Nov. 22, 2000, 114 Stat. 2541, provided that: “This Act [enacting subchapter III of this chapter] may be cited as the ‘Dairy Market Enhancement Act of 2000’.”
 
 **Short Title**
 
-Act Aug. 14, 1946, ch. 966, title II, § 201, 60 Stat. 1087, provided that: “This title [enacting this chapter] may be cited as the ‘Agricultural Marketing Act of 1946’.”
+Act Aug. 14, 1946, ch. 966, title II, § 201, 60 Stat. 1087, provided that: “This title [enacting this chapter] may be cited as the ‘Agricultural Marketing Act of 1946’.”
 
 **Specialty Crops Competitiveness**
 
-Pub. L. 108–465, §§ 2, 3, title I, § 101, Dec. 21, 2004, 118 Stat. 3882, 3883, as amended by Pub. L. 110–234, title X, § 10109, May 22, 2008, 122 Stat. 1338; Pub. L. 110–246, § 4(a), title X, § 10109, June 18, 2008, 122 Stat. 1664, 2100; Pub. L. 113–79, title X, § 10010, Feb. 7, 2014, 128 Stat. 949; Pub. L. 115–334, title X, § 10107, Dec. 20, 2018, 132 Stat. 4905; Pub. L. 119–21, title I, § 10606(b), July 4, 2025, 139 Stat. 110, provided that:
+Pub. L. 108–465, §§ 2, 3, title I, § 101, Dec. 21, 2004, 118 Stat. 3882, 3883, as amended by Pub. L. 110–234, title X, § 10109, May 22, 2008, 122 Stat. 1338; Pub. L. 110–246, § 4(a), title X, § 10109, June 18, 2008, 122 Stat. 1664, 2100; Pub. L. 113–79, title X, § 10010, Feb. 7, 2014, 128 Stat. 949; Pub. L. 115–334, title X, § 10107, Dec. 20, 2018, 132 Stat. 4905; Pub. L. 119–21, title I, § 10606(b), July 4, 2025, 139 Stat. 110, provided that:
 
 > **“SEC. 2. FINDINGS AND PURPOSE.**
 
@@ -199,9 +199,9 @@ Pub. L. 88–354, July 3, 1964, 78 Stat. 269, as amended by Pub. L. 89–20, May
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-### § 1622. Duties of Secretary relating to agricultural products
+### § 1622. Duties of Secretary relating to agricultural products
 
 The Secretary of Agriculture is directed and authorized:
 
@@ -309,7 +309,7 @@ To conduct, assist, encourage, and promote research, investigation, and experime
 
 To conduct such other research and services and to perform such other activities as will facilitate the marketing, distribution, processing, and utilization of agricultural products through commercial channels.
 
-(Aug. 14, 1946, ch. 966, title II, § 203, 60 Stat. 1087; Aug. 9, 1955, ch. 632, § 1, 69 Stat. 553; Pub. L. 95–113, title II, § 206, Sept. 29, 1977, 91 Stat. 920; Pub. L. 97–31, § 12(2), Aug. 6, 1981, 95 Stat. 153; Pub. L. 98–403, § 2, Aug. 28, 1984, 98 Stat. 1480; Pub. L. 98–443, § 9(j), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 105–277, div. A, § 101(a) [title VII, § 755(a)], Oct. 21, 1998, 112 Stat. 2681, 2681–34; Pub. L. 106–472, title III, § 303, Nov. 9, 2000, 114 Stat. 2069; Pub. L. 110–234, title X, § 10402(a), title XI, § 11016(a), May 22, 2008, 122 Stat. 1349, 1368; Pub. L. 110–246, § 4(a), title X, § 10402(a), title XI, § 11016(a), June 18, 2008, 122 Stat. 1664, 2110, 2130; Pub. L. 113–79, title VI, § 6202, title XII, § 12106(a)(4), Feb. 7, 2014, 128 Stat. 856, 981.)
+(Aug. 14, 1946, ch. 966, title II, § 203, 60 Stat. 1087; Aug. 9, 1955, ch. 632, § 1, 69 Stat. 553; Pub. L. 95–113, title II, § 206, Sept. 29, 1977, 91 Stat. 920; Pub. L. 97–31, § 12(2), Aug. 6, 1981, 95 Stat. 153; Pub. L. 98–403, § 2, Aug. 28, 1984, 98 Stat. 1480; Pub. L. 98–443, § 9(j), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 105–277, div. A, § 101(a) [title VII, § 755(a)], Oct. 21, 1998, 112 Stat. 2681, 2681–34; Pub. L. 106–472, title III, § 303, Nov. 9, 2000, 114 Stat. 2069; Pub. L. 110–234, title X, § 10402(a), title XI, § 11016(a), May 22, 2008, 122 Stat. 1349, 1368; Pub. L. 110–246, § 4(a), title X, § 10402(a), title XI, § 11016(a), June 18, 2008, 122 Stat. 1664, 2110, 2130; Pub. L. 113–79, title VI, § 6202, title XII, § 12106(a)(4), Feb. 7, 2014, 128 Stat. 856, 981.)
 
 **Editorial Notes**
 
@@ -323,13 +323,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2014—Subsec. (j). Pub. L. 113–79, § 6202, substituted “the Surface Transportation Board, the Federal Maritime Commission,” for “the Interstate Commerce Commission, the Maritime Commission,,”.
+2014—Subsec. (j). Pub. L. 113–79, § 6202, substituted “the Surface Transportation Board, the Federal Maritime Commission,” for “the Interstate Commerce Commission, the Maritime Commission,,”.
 
-Subsec. (n)(1). Pub. L. 113–79, § 12106(a)(4), added par. (1) and struck out former par. (1) which read as follows: “catfish (as defined by the Secretary under paragraph (2) of section 601(w) of title 21); and”.
+Subsec. (n)(1). Pub. L. 113–79, § 12106(a)(4), added par. (1) and struck out former par. (1) which read as follows: “catfish (as defined by the Secretary under paragraph (2) of section 601(w) of title 21); and”.
 
-2008—Subsec. (h). Pub. L. 110–246, § 10402(a), designated the first to sixth sentences of existing provisions as pars. (1), (2)(A), (2)(B), and (3) to (5), respectively, and added par. (6).
+2008—Subsec. (h). Pub. L. 110–246, § 10402(a), designated the first to sixth sentences of existing provisions as pars. (1), (2)(A), (2)(B), and (3) to (5), respectively, and added par. (6).
 
-Subsecs. (n), (*o*). Pub. L. 110–246, § 11016(a), added subsec. (n) and redesignated former subsec. (n) as (*o*).
+Subsecs. (n), (*o*). Pub. L. 110–246, § 11016(a), added subsec. (n) and redesignated former subsec. (n) as (*o*).
 
 2000—Subsec. (e). Pub. L. 106–472 inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
@@ -355,7 +355,7 @@ Amendment by section 12106(a)(4) of Pub. L. 113–79 effective as if enacted as 
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-Pub. L. 110–234, title X, § 10402(b), May 22, 2008, 122 Stat. 1349, and Pub. L. 110–246, § 4(a), title X, § 10402(b), June 18, 2008, 122 Stat. 1664, 2111, provided that: “The amendments made by subsection (a) [amending this section] take effect on the date that is 1 year after the date of enactment of this Act [June 18, 2008].”
+Pub. L. 110–234, title X, § 10402(b), May 22, 2008, 122 Stat. 1349, and Pub. L. 110–246, § 4(a), title X, § 10402(b), June 18, 2008, 122 Stat. 1664, 2111, provided that: “The amendments made by subsection (a) [amending this section] take effect on the date that is 1 year after the date of enactment of this Act [June 18, 2008].”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.]
 
@@ -373,7 +373,7 @@ Interstate Commerce Commission abolished and functions of Commission transferred
 
 **Regional Cattle and Carcass Grading Correlation and Training Centers**
 
-Pub. L. 115–334, title XII, § 12108, Dec. 20, 2018, 132 Stat. 4943, provided that:
+Pub. L. 115–334, title XII, § 12108, Dec. 20, 2018, 132 Stat. 4943, provided that:
 
 > **“(a) In General.—** The Secretary [of Agriculture] shall establish not more than 3 regional centers, to be known as Cattle and Carcass Grading Correlation and Training Centers (referred to in this section as the ‘Centers’), to provide education and training for cattle and carcass beef graders of the Agricultural Marketing Service, cattle producers, and other professionals involved in the reporting, delivery, and grading of feeder cattle, live cattle, and carcasses—
 
@@ -395,7 +395,7 @@ Pub. L. 115–334, title XII, § 12108, Dec. 20, 2018, 132 Stat. 4943, provide
 
 **Agricultural Processing Equipment; Inspection and Certification; Fee**
 
-Pub. L. 106–387, § 1(a) [title VII, § 729], Oct. 28, 2000, 114 Stat. 1549, 1549A–33, provided that:
+Pub. L. 106–387, § 1(a) [title VII, § 729], Oct. 28, 2000, 114 Stat. 1549, 1549A–33, provided that:
 
 > “Hereafter, none of the funds appropriated by this Act or any other Act may be used to:
 
@@ -405,17 +405,17 @@ Pub. L. 106–387, § 1(a) [title VII, § 729], Oct. 28, 2000, 114 Stat. 154
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 106–78, title VII, § 734, Oct. 22, 1999, 113 Stat. 1165.
+Pub. L. 106–78, title VII, § 734, Oct. 22, 1999, 113 Stat. 1165.
 
-Pub. L. 105–277, div. A, § 101(a) [title VII, § 747], Oct. 21, 1998, 112 Stat. 2681, 2681–32, as amended by Pub. L. 106–31, title V, § 5001(c), May 21, 1999, 113 Stat. 109.
+Pub. L. 105–277, div. A, § 101(a) [title VII, § 747], Oct. 21, 1998, 112 Stat. 2681, 2681–32, as amended by Pub. L. 106–31, title V, § 5001(c), May 21, 1999, 113 Stat. 109.
 
 **Collection and Dissemination of Information on Prices Received for Bulk Cheese**
 
-Pub. L. 105–18, title II, § 1001, June 12, 1997, 111 Stat. 172, provided that not later than 30 days after June 12, 1997, Secretary of Agriculture was to collect and disseminate, on weekly basis, statistically reliable information, obtained from cheese manufacturing areas in United States, on prices received and terms of trade involving bulk cheese, including information on national average price for bulk cheese sold through spot and forward contract transactions, and further provided for confidentiality of information provided to, or acquired by, Secretary, report to Congress not later than 150 days after June 12, 1997, on rate of reporting compliance by cheese manufacturers with respect to information collected, and for termination of authority to collect information on Apr. 5, 1999.
+Pub. L. 105–18, title II, § 1001, June 12, 1997, 111 Stat. 172, provided that not later than 30 days after June 12, 1997, Secretary of Agriculture was to collect and disseminate, on weekly basis, statistically reliable information, obtained from cheese manufacturing areas in United States, on prices received and terms of trade involving bulk cheese, including information on national average price for bulk cheese sold through spot and forward contract transactions, and further provided for confidentiality of information provided to, or acquired by, Secretary, report to Congress not later than 150 days after June 12, 1997, on rate of reporting compliance by cheese manufacturers with respect to information collected, and for termination of authority to collect information on Apr. 5, 1999.
 
 **Lamb Price and Supply Reporting Services Report and System**
 
-Pub. L. 102–237, title I, § 124, Dec. 13, 1991, 105 Stat. 1844, provided that:
+Pub. L. 102–237, title I, § 124, Dec. 13, 1991, 105 Stat. 1844, provided that:
 
 > **“(a) Report.—** Not later than 90 days after the date of enactment of this Act [Dec. 13, 1991], the Secretary of Agriculture shall submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on measures that are necessary to improve the lamb price and supply reporting services of the Department of Agriculture, including recommendations to establish a complete information gathering system that reflects the market structure of the national lamb industry. In preparing the report, the Secretary shall examine measures to improve information on—
 
@@ -457,7 +457,7 @@ Pub. L. 102–237, title I, § 124, Dec. 13, 1991, 105 Stat. 1844, provided th
 
 **Research To Investigate Extent to Which Grade Standards Governing Cosmetic Appearance Affect Pesticide Use in Production of Perishable Commodities; Advisory Committee; Report**
 
-Pub. L. 101–624, title XIII, subtitle C, Nov. 28, 1990, 104 Stat. 3566, as amended by Pub. L. 102–237, title I, § 114(a)(3), Dec. 13, 1991, 105 Stat. 1838, provided that:
+Pub. L. 101–624, title XIII, subtitle C, Nov. 28, 1990, 104 Stat. 3566, as amended by Pub. L. 102–237, title I, § 114(a)(3), Dec. 13, 1991, 105 Stat. 1838, provided that:
 
 > **“SEC. 1351. DEFINITION.**
 
@@ -535,11 +535,11 @@ United States Maritime Commission abolished by 1950 Reorg. Plan No. 21, eff. May
 
 Executive and administrative functions of Maritime Commission transferred to Chairman of Maritime Commission by 1949 Reorg. Plan No. 6, eff. Aug. 20, 1949, 14 F.R. 5228, 63 Stat. 1069, set out in the Appendix to Title 5.
 
-### § 1622a. Authority to assist farmers and elevator operators
+### § 1622a. Authority to assist farmers and elevator operators
 
 The Secretary may provide technical assistance (including information on such financial assistance as may be available) to grain producers and elevator operators to assist such producers and operators in installing or improving grain cleaning, drying or storage equipment.
 
-(Pub. L. 101–624, title XX, § 2014, Nov. 28, 1990, 104 Stat. 3933.)
+(Pub. L. 101–624, title XX, § 2014, Nov. 28, 1990, 104 Stat. 3933.)
 
 **Editorial Notes**
 
@@ -547,7 +547,7 @@ The Secretary may provide technical assistance (including information on such fi
 
 Section was enacted as part of the Grain Quality Incentives Act of 1990, and also as part of the Food, Agriculture, Conservation, and Trade Act of 1990, and not as part of the Agricultural Marketing Act of 1946 which comprises this chapter.
 
-### § 1622b. Specialty crops market news allocation
+### § 1622b. Specialty crops market news allocation
 
 **(a) In general** The Secretary shall—
 
@@ -559,7 +559,7 @@ Section was enacted as part of the Grain Quality Incentives Act of 1990, and als
 
 In addition to any other funds made available through annual appropriations for market news services, there is authorized to be appropriated to carry out this section $9,000,000 for each of fiscal years 2008 through 2023, to remain available until expended.
 
-(Pub. L. 110–234, title X, § 10107, May 22, 2008, 122 Stat. 1337; Pub. L. 110–246, § 4(a), title X, § 10107, June 18, 2008, 122 Stat. 1664, 2099; Pub. L. 113–79, title X, § 10001, Feb. 7, 2014, 128 Stat. 939; Pub. L. 115–334, title X, § 10101, Dec. 20, 2018, 132 Stat. 4888.)
+(Pub. L. 110–234, title X, § 10107, May 22, 2008, 122 Stat. 1337; Pub. L. 110–246, § 4(a), title X, § 10107, June 18, 2008, 122 Stat. 1664, 2099; Pub. L. 113–79, title X, § 10001, Feb. 7, 2014, 128 Stat. 939; Pub. L. 115–334, title X, § 10101, Dec. 20, 2018, 132 Stat. 4888.)
 
 **Editorial Notes**
 
@@ -589,7 +589,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 “Secretary” as meaning the Secretary of Agriculture, see section 8701 of this title.
 
-Pub. L. 110–234, title X, § 10001, May 22, 2008, 122 Stat. 1335, and Pub. L. 110–246, § 4(a), title X, § 10001, June 18, 2008, 122 Stat. 1664, 2096, provided that:
+Pub. L. 110–234, title X, § 10001, May 22, 2008, 122 Stat. 1335, and Pub. L. 110–246, § 4(a), title X, § 10001, June 18, 2008, 122 Stat. 1664, 2096, provided that:
 
 > “In this title [enacting this section, former section 1622c, sections 7655a, 7721, and former section 7761 of this title, and section 2104a of Title 16, Conservation, amending sections 608e–1, 1622, 2204g, former 3005, 4606, 5925c, 6104, 6522, 6523, 7715, 7733, 7734, 7751, and 7772 of this title, enacting provisions set out as notes under sections 608c, 1622, and 7701 of this title, and amending provisions set out as a note under section 1621 of this title]:
 
@@ -599,17 +599,17 @@ Pub. L. 110–234, title X, § 10001, May 22, 2008, 122 Stat. 1335, and Pub. L
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.]
 
-### § 1622c. Repealed. Pub. L. 113–79, title X, § 10002, Feb. 7, 2014, 128 Stat. 940
+### § 1622c. Repealed. Pub. L. 113–79, title X, § 10002, Feb. 7, 2014, 128 Stat. 940
 
-Section, Pub. L. 110–234, title X, § 10403, May 22, 2008, 122 Stat. 1349; Pub. L. 110–246, § 4(a), title X, § 10403, June 18, 2008, 122 Stat. 1664, 2111, related to a grant program to improve movement of specialty crops.
+Section, Pub. L. 110–234, title X, § 10403, May 22, 2008, 122 Stat. 1349; Pub. L. 110–246, § 4(a), title X, § 10403, June 18, 2008, 122 Stat. 1664, 2111, related to a grant program to improve movement of specialty crops.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Pub. L. 113–79, title X, § 10002, Feb. 7, 2014, 128 Stat. 940, provided that: “Effective October 1, 2013, section 10403 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 1622c) is repealed.”
+Pub. L. 113–79, title X, § 10002, Feb. 7, 2014, 128 Stat. 940, provided that: “Effective October 1, 2013, section 10403 of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 1622c) is repealed.”
 
-### § 1623. Authorization of appropriations; allotments to States
+### § 1623. Authorization of appropriations; allotments to States
 
 **(a)** In order to conduct research and service work in connection with the preparation for market, processing, packaging, handling, storing, transporting, distributing, and marketing of agricultural products as authorized by this chapter, there is hereby authorized to be appropriated the following sums:
 
@@ -629,125 +629,125 @@ Such sums appropriated in pursuance of this chapter shall be in addition to, and
 
 **(b)** The Secretary of Agriculture is authorized to make available from such funds such sums as he may deem appropriate for allotment to State departments of agriculture, State bureaus and departments of markets, State agricultural experiment stations, and other appropriate State agencies for cooperative projects in marketing service and in marketing research to effectuate the purposes of this chapter: *Provided*, That no such allotment and no payment under any such allotment shall be made for any fiscal year to any State agency in excess of the amount which such State agency makes available out of its own funds for such research. The funds which State agencies are required to make available in order to qualify for such an allotment shall be in addition to any funds now available to such agencies for marketing services and for marketing research. The allotments authorized under this section shall be made to the agency or agencies best equipped and qualified to conduct the specific project to be undertaken. Such allotments shall be covered by cooperative agreements between the Secretary of Agriculture and the cooperating agency and shall include appropriate provisions for preventing duplication or overlapping of work within the State or States cooperating. Should duplication or overlapping occur subsequent to approval of a cooperative project or allotment of funds, the Secretary of Agriculture is authorized and directed to withhold unexpended balances on such projects notwithstanding the prior approval thereof.
 
-(Aug. 14, 1946, ch. 966, title II, § 204, 60 Stat. 1089.)
+(Aug. 14, 1946, ch. 966, title II, § 204, 60 Stat. 1089.)
 
-### § 1623a. Omitted
+### § 1623a. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 107–76, title VII, § 703, Nov. 28, 2001, 115 Stat. 731, which provided that not less than $1,500,000 of the appropriations of the Department of Agriculture for research and service work authorized by sections 1621 et seq., 3104, and 3105 of this title and chapter 63 of title 31 would be available for contracting in accordance with those laws, was from the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2002, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
+Section, Pub. L. 107–76, title VII, § 703, Nov. 28, 2001, 115 Stat. 731, which provided that not less than $1,500,000 of the appropriations of the Department of Agriculture for research and service work authorized by sections 1621 et seq., 3104, and 3105 of this title and chapter 63 of title 31 would be available for contracting in accordance with those laws, was from the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2002, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 106–387, § 1(a) [title VII, § 703], Oct. 28, 2000, 114 Stat. 1549, 1549A–28.
+Pub. L. 106–387, § 1(a) [title VII, § 703], Oct. 28, 2000, 114 Stat. 1549, 1549A–28.
 
-Pub. L. 106–78, title VII, § 703, Oct. 22, 1999, 113 Stat. 1160.
+Pub. L. 106–78, title VII, § 703, Oct. 22, 1999, 113 Stat. 1160.
 
-Pub. L. 105–277, div. A, § 101(a) [title VII, § 703], Oct. 21, 1998, 112 Stat. 2681, 2681–25.
+Pub. L. 105–277, div. A, § 101(a) [title VII, § 703], Oct. 21, 1998, 112 Stat. 2681, 2681–25.
 
-Pub. L. 105–86, title VII, § 703, Nov. 18, 1997, 111 Stat. 2104.
+Pub. L. 105–86, title VII, § 703, Nov. 18, 1997, 111 Stat. 2104.
 
-Pub. L. 104–180, title VII, § 703, Aug. 6, 1996, 110 Stat. 1596.
+Pub. L. 104–180, title VII, § 703, Aug. 6, 1996, 110 Stat. 1596.
 
-Pub. L. 104–37, title VII, § 703, Oct. 21, 1995, 109 Stat. 329.
+Pub. L. 104–37, title VII, § 703, Oct. 21, 1995, 109 Stat. 329.
 
-Pub. L. 103–330, title VII, § 703, Sept. 30, 1994, 108 Stat. 2466.
+Pub. L. 103–330, title VII, § 703, Sept. 30, 1994, 108 Stat. 2466.
 
-Pub. L. 103–111, title VII, § 703, Oct. 21, 1993, 107 Stat. 1078.
+Pub. L. 103–111, title VII, § 703, Oct. 21, 1993, 107 Stat. 1078.
 
-Pub. L. 102–341, title VII, § 703, Aug. 14, 1992, 106 Stat. 906.
+Pub. L. 102–341, title VII, § 703, Aug. 14, 1992, 106 Stat. 906.
 
-Pub. L. 102–142, title VII, § 704, Oct. 28, 1991, 105 Stat. 911.
+Pub. L. 102–142, title VII, § 704, Oct. 28, 1991, 105 Stat. 911.
 
-Pub. L. 101–506, title VI, § 604, Nov. 5, 1990, 104 Stat. 1346.
+Pub. L. 101–506, title VI, § 604, Nov. 5, 1990, 104 Stat. 1346.
 
-Pub. L. 101–161, title VI, § 604, Nov. 21, 1989, 103 Stat. 982.
+Pub. L. 101–161, title VI, § 604, Nov. 21, 1989, 103 Stat. 982.
 
-Pub. L. 100–460, title VI, § 604, Oct. 1, 1988, 102 Stat. 2259.
+Pub. L. 100–460, title VI, § 604, Oct. 1, 1988, 102 Stat. 2259.
 
-Pub. L. 100–202, § 101(k) [title VI, § 604], Dec. 22, 1987, 101 Stat. 1329–322, 1329–353.
+Pub. L. 100–202, § 101(k) [title VI, § 604], Dec. 22, 1987, 101 Stat. 1329–322, 1329–353.
 
-Pub. L. 99–500, § 101(a) [title VI, § 604], Oct. 18, 1986, 100 Stat. 1783, 1783–27, and Pub. L. 99–591, § 101(a) [title VI, § 604], Oct. 30, 1986, 100 Stat. 3341, 3341–27.
+Pub. L. 99–500, § 101(a) [title VI, § 604], Oct. 18, 1986, 100 Stat. 1783, 1783–27, and Pub. L. 99–591, § 101(a) [title VI, § 604], Oct. 30, 1986, 100 Stat. 3341, 3341–27.
 
-Pub. L. 99–190, § 101(a) [H.R. 3037, title VI, § 604], Dec. 19, 1985, 99 Stat. 1185; Pub. L. 100–202, § 106, Dec. 22, 1987, 101 Stat. 1329–433.
+Pub. L. 99–190, § 101(a) [H.R. 3037, title VI, § 604], Dec. 19, 1985, 99 Stat. 1185; Pub. L. 100–202, § 106, Dec. 22, 1987, 101 Stat. 1329–433.
 
-Pub. L. 97–370, title VI, § 604, Dec. 18, 1982, 96 Stat. 1810.
+Pub. L. 97–370, title VI, § 604, Dec. 18, 1982, 96 Stat. 1810.
 
-Pub. L. 97–103, title VI, § 604, Dec. 23, 1981, 95 Stat. 1487.
+Pub. L. 97–103, title VI, § 604, Dec. 23, 1981, 95 Stat. 1487.
 
-Pub. L. 96–528, title VI, § 604, Dec. 15, 1980, 94 Stat. 3116.
+Pub. L. 96–528, title VI, § 604, Dec. 15, 1980, 94 Stat. 3116.
 
-Pub. L. 96–108, title VI, § 603, Nov. 9, 1979, 93 Stat. 840.
+Pub. L. 96–108, title VI, § 603, Nov. 9, 1979, 93 Stat. 840.
 
-Pub. L. 95–448, title VI, § 603, Oct. 11, 1978, 92 Stat. 1092.
+Pub. L. 95–448, title VI, § 603, Oct. 11, 1978, 92 Stat. 1092.
 
-Pub. L. 95–97, title VI, § 603, Aug. 12, 1977, 91 Stat. 828.
+Pub. L. 95–97, title VI, § 603, Aug. 12, 1977, 91 Stat. 828.
 
-Pub. L. 94–351, title VI, § 603, July 12, 1976, 90 Stat. 868.
+Pub. L. 94–351, title VI, § 603, July 12, 1976, 90 Stat. 868.
 
-Pub. L. 94–122, title VI, § 605, Oct. 21, 1975, 89 Stat. 667.
+Pub. L. 94–122, title VI, § 605, Oct. 21, 1975, 89 Stat. 667.
 
-Pub. L. 93–563, title V, § 505, Dec. 31, 1974, 88 Stat. 1842.
+Pub. L. 93–563, title V, § 505, Dec. 31, 1974, 88 Stat. 1842.
 
-Pub. L. 93–135, title V, § 506, Oct. 24, 1973, 87 Stat. 490.
+Pub. L. 93–135, title V, § 506, Oct. 24, 1973, 87 Stat. 490.
 
-Pub. L. 92–399, title V, § 506, Aug. 22, 1972, 86 Stat. 611.
+Pub. L. 92–399, title V, § 506, Aug. 22, 1972, 86 Stat. 611.
 
-Pub. L. 92–73, title V, § 506, Aug. 10, 1971, 85 Stat. 201.
+Pub. L. 92–73, title V, § 506, Aug. 10, 1971, 85 Stat. 201.
 
-Pub. L. 91–566, title V, § 506, Dec. 22, 1970, 84 Stat. 1496.
+Pub. L. 91–566, title V, § 506, Dec. 22, 1970, 84 Stat. 1496.
 
-Pub. L. 91–127, title V, § 506, Nov. 26, 1969, 83 Stat. 260.
+Pub. L. 91–127, title V, § 506, Nov. 26, 1969, 83 Stat. 260.
 
-Pub. L. 90–463, title V, § 506, Aug. 8, 1968, 82 Stat. 653.
+Pub. L. 90–463, title V, § 506, Aug. 8, 1968, 82 Stat. 653.
 
-Pub. L. 90–113, title V, § 506, Oct. 24, 1967, 81 Stat. 335.
+Pub. L. 90–113, title V, § 506, Oct. 24, 1967, 81 Stat. 335.
 
-Pub. L. 89–556, title V, § 506, Sept. 7, 1966, 80 Stat. 704.
+Pub. L. 89–556, title V, § 506, Sept. 7, 1966, 80 Stat. 704.
 
-Pub. L. 89–316, title V, § 506, Nov. 2, 1965, 79 Stat. 1179.
+Pub. L. 89–316, title V, § 506, Nov. 2, 1965, 79 Stat. 1179.
 
-Pub. L. 88–573, title V, § 506, Sept. 2, 1964, 78 Stat. 876.
+Pub. L. 88–573, title V, § 506, Sept. 2, 1964, 78 Stat. 876.
 
-Pub. L. 88–250, title VI, § 606, Dec. 30, 1963, 77 Stat. 833.
+Pub. L. 88–250, title VI, § 606, Dec. 30, 1963, 77 Stat. 833.
 
-Pub. L. 87–879, title VI, § 606, Oct. 24, 1962, 76 Stat. 1215.
+Pub. L. 87–879, title VI, § 606, Oct. 24, 1962, 76 Stat. 1215.
 
-Pub. L. 87–112, title V, § 506, July 26, 1961, 75 Stat. 241.
+Pub. L. 87–112, title V, § 506, July 26, 1961, 75 Stat. 241.
 
-Pub. L. 86–532, title IV, § 406, June 29, 1960, 74 Stat. 244.
+Pub. L. 86–532, title IV, § 406, June 29, 1960, 74 Stat. 244.
 
-Pub. L. 86–80, title IV, § 406, July 8, 1959, 73 Stat. 180.
+Pub. L. 86–80, title IV, § 406, July 8, 1959, 73 Stat. 180.
 
-Pub. L. 85–459, title IV, § 406, June 13, 1958, 72 Stat. 199.
+Pub. L. 85–459, title IV, § 406, June 13, 1958, 72 Stat. 199.
 
-Pub. L. 85–118, title V, § 506, Aug. 2, 1957, 71 Stat. 340.
+Pub. L. 85–118, title V, § 506, Aug. 2, 1957, 71 Stat. 340.
 
-June 4, 1956, ch. 355, title V, § 506, 70 Stat. 241.
+June 4, 1956, ch. 355, title V, § 506, 70 Stat. 241.
 
-May 23, 1955, ch. 43, title V, § 506, 69 Stat. 63.
+May 23, 1955, ch. 43, title V, § 506, 69 Stat. 63.
 
-June 29, 1954, ch. 409, title V, § 506, 68 Stat. 319.
+June 29, 1954, ch. 409, title V, § 506, 68 Stat. 319.
 
-### § 1624. Cooperation with Government and State agencies, private research organizations, etc.; rules and regulations
+### § 1624. Cooperation with Government and State agencies, private research organizations, etc.; rules and regulations
 
 **(a)** In carrying out the provisions of this chapter, the Secretary of Agriculture may cooperate with other branches of the Government, State agencies, private research organizations, purchasing and consuming organizations, boards of trade, chambers of commerce, other associations of business or trade organizations, transportation and storage agencies and organizations, or other persons or corporations engaged in the production, transportation, storing, processing, marketing, and distribution of agricultural products whether operating in one or more jurisdictions. The Secretary of Agriculture shall have authority to enter into contracts and agreements under the terms of regulations promulgated by him with States and agencies of States, private firms, institutions, and individuals for the purpose of conducting research and service work, making and compiling reports and surveys, and carrying out other functions relating thereto when in his judgment the services or functions to be performed will be carried out more effectively, more rapidly, or at less cost than if performed by the Department of Agriculture. Contracts under this section may be made for work to be performed within a period not more than four years from the date of any such contract, and advance, progress, or other payments may be made. The provisions of section 3324(a) and (b) of title 31 and section 6101 of title 41 shall not be applicable to contracts or agreements made under the authority of this section. Any unexpended balances of appropriations obligated by contracts as authorized by this section may, notwithstanding the provisions of section 5 of the Act of June 20, 1874, as amended (31 U.S.C., sec. 713), remain upon the books of the Treasury for not more than five fiscal years before being carried to the surplus fund and covered into the Treasury. Any contract made pursuant to this section shall contain requirements making the result of such research and investigations available to the public by such means as the Secretary of Agriculture shall determine.
 
 **(b)** The Secretary of Agriculture shall promulgate such orders, rules, and regulations as he deems necessary to carry out the provisions of this chapter.
 
-(Aug. 14, 1946, ch. 966, title II, § 205, 60 Stat. 1090; Aug. 30, 1954, ch. 1076, § 1(7), 68 Stat. 966.)
+(Aug. 14, 1946, ch. 966, title II, § 205, 60 Stat. 1090; Aug. 30, 1954, ch. 1076, § 1(7), 68 Stat. 966.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 5 of the Act of June 20, 1874, as amended (31 U.S.C. sec. 713), referred to in subsec. (a), was repealed by act July 6, 1949, ch. 299, § 3, 63 Stat. 407.
+Section 5 of the Act of June 20, 1874, as amended (31 U.S.C. sec. 713), referred to in subsec. (a), was repealed by act July 6, 1949, ch. 299, § 3, 63 Stat. 407.
 
 **Codification**
 
-In subsec. (a), “section 3324(a) and (b) of title 31” substituted for reference to section 3648 (31 U.S.C., sec. 529) of the Revised Statutes on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (a), “section 3324(a) and (b) of title 31” substituted for reference to section 3648 (31 U.S.C., sec. 529) of the Revised Statutes on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-In subsec. (a), “section 6101 of title 41” substituted for “section 3709 (41 U.S.C., sec. 5) of the Revised Statutes” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a), “section 6101 of title 41” substituted for “section 3709 (41 U.S.C., sec. 5) of the Revised Statutes” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
@@ -757,7 +757,7 @@ In subsec. (a), “section 6101 of title 41” substituted for “section 3709 (
 
 **Distribution of Surplus Commodities**
 
-Pub. L. 97–253, title I, § 191, Sept. 8, 1982, 96 Stat. 787, provided that:
+Pub. L. 97–253, title I, § 191, Sept. 8, 1982, 96 Stat. 787, provided that:
 
 > **“(a)** The Congress finds that—
 
@@ -785,21 +785,21 @@ Pub. L. 97–253, title I, § 191, Sept. 8, 1982, 96 Stat. 787, provided that:
 
 > **“(3)** wholesale and retail food distributors, shipping terminals, and other establishments should work more closely with religious, community, and other charitable organizations to make wholesome food which is currently being wasted or discarded by such establishments available for immediate distribution to hungry people of the United States.”
 
-### § 1625. Transfer and consolidation of functions, powers, bureaus, etc.
+### § 1625. Transfer and consolidation of functions, powers, bureaus, etc.
 
 In order to facilitate administration and to increase the effectiveness of the marketing research, service, and regulatory work of the Department of Agriculture to the fullest extent practicable, the Secretary of Agriculture is authorized, notwithstanding any other provisions of law, to transfer, group, coordinate, and consolidate the functions, powers, duties, and authorities of each and every agency, division, bureau, service, section, or other administrative unit in the Department of Agriculture primarily concerned with research, service, or regulatory activities in connection with the marketing, transportation, storage, processing, distribution of, or service or regulatory activities in connection with, the utilization of, agricultural products, into a single administrative agency. In making such changes as may be necessary to carry out effectively the purposes of this chapter, the records, property, personnel, and funds of such agencies, divisions, bureaus, services, sections, or other administrative units in the Department of Agriculture affected are authorized to be transferred to and used by such administrative agency to which the transfer may be made, but such unexpended balances of appropriations so transferred shall be used only for the purposes for which such appropriations were made.
 
-(Aug. 14, 1946, ch. 966, title II, § 206, 60 Stat. 1090.)
+(Aug. 14, 1946, ch. 966, title II, § 206, 60 Stat. 1090.)
 
-### § 1626. Definitions
+### § 1626. Definitions
 
-When used in this chapter, the term “agricultural products” includes agricultural, horticultural, viticultural, and dairy products, livestock and poultry, bees, forest products, fish and shellfish, and any products thereof, including processed and manufactured products, and any and all products raised or produced on farms and any processed or manufactured product thereof, and the term “State” when used in this chapter 1
+When used in this chapter, the term “agricultural products” includes agricultural, horticultural, viticultural, and dairy products, livestock and poultry, bees, forest products, fish and shellfish, and any products thereof, including processed and manufactured products, and any and all products raised or produced on farms and any processed or manufactured product thereof, and the term “State” when used in this chapter 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall include the Virgin Islands and Guam.
 
-(Aug. 14, 1946, ch. 966, title II, § 207, 60 Stat. 1091; Pub. L. 92–318, title V, § 506(f), June 23, 1972, 86 Stat. 351.)
+(Aug. 14, 1946, ch. 966, title II, § 207, 60 Stat. 1091; Pub. L. 92–318, title V, § 506(f), June 23, 1972, 86 Stat. 351.)
 
 **Editorial Notes**
 
@@ -809,7 +809,7 @@ This chapter, referred to in text inserted by Pub. L. 92–318, probably means t
 
 **Amendments**
 
-1972—Pub. L. 92–318 inserted “, and the term ‘State’ when used in this chapter shall include the Virgin Islands and Guam” before period at end.
+1972—Pub. L. 92–318 inserted “, and the term ‘State’ when used in this chapter shall include the Virgin Islands and Guam” before period at end.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -817,19 +817,19 @@ This chapter, referred to in text inserted by Pub. L. 92–318, probably means t
 
 Amendment by Pub. L. 92–318 effective after June 30, 1970, see section 506(n) of Pub. L. 92–318, set out as a note under section 326a of this title.
 
-### § 1627. Appointment of personnel; compensation; employment of specialists
+### § 1627. Appointment of personnel; compensation; employment of specialists
 
 The Secretary of Agriculture shall have the power to appoint, remove, and fix, in accordance with existing law, the compensation of such officers and employees, and to make such expenditures as he deems necessary, including expenditures for rent outside the District of Columbia, travel, supplies, books, equipment, and such other expenditures as may be necessary to the administration of this chapter: *Provided*, That the Secretary of Agriculture may appoint any technically qualified person, firm, or organization by contract or otherwise on a temporary basis and for a term not to exceed six months in any fiscal year to perform research, inspection, classification, technical, or other special services, without regard to the civil-service laws.
 
-(Aug. 14, 1946, ch. 966, title II, § 208, 60 Stat. 1091.)
+(Aug. 14, 1946, ch. 966, title II, § 208, 60 Stat. 1091.)
 
 **Editorial Notes**
 
 **Codification**
 
-Provisions that authorized the Secretary of Agriculture to “fix the compensation” of any technically qualified person, firm, or organization by contract or otherwise on a temporary basis and for a term not to exceed six months in any fiscal year to perform research, inspection, classification, technical or other special services, without regard to the “Classification Act of 1923, as amended” were omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973 repealed the 1923 Act and all laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exceptions contained in this subsection because of section 1106(b) which provided that the application of the 1949 Act to any position, officer, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 632 (of which section 1 revised and enacted Title 5, U.S.C., into law). Section 5102 of Title 5, now contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
+Provisions that authorized the Secretary of Agriculture to “fix the compensation” of any technically qualified person, firm, or organization by contract or otherwise on a temporary basis and for a term not to exceed six months in any fiscal year to perform research, inspection, classification, technical or other special services, without regard to the “Classification Act of 1923, as amended” were omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973 repealed the 1923 Act and all laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exceptions contained in this subsection because of section 1106(b) which provided that the application of the 1949 Act to any position, officer, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 632 (of which section 1 revised and enacted Title 5, U.S.C., into law). Section 5102 of Title 5, now contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
 
-### § 1627a. Sheep production and marketing grant program
+### § 1627a. Sheep production and marketing grant program
 
 **(a) Establishment** The Secretary of Agriculture, acting through the Administrator of the Agricultural Marketing Service, shall establish a competitive grant program for the purposes of strengthening and enhancing the production and marketing of sheep and sheep products in the United States, including through—
 
@@ -851,7 +851,7 @@ The Secretary shall make grants under this section to at least one national enti
 
 Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $2,000,000 for fiscal year 2019, $400,000 for fiscal year 2024, and $3,000,000 for fiscal year 2026, to remain available until expended.
 
-(Aug. 14, 1946, ch. 966, title II, § 209, as added Pub. L. 113–79, title XII, § 12102(a), Feb. 7, 2014, 128 Stat. 978; amended Pub. L. 115–334, title XII, § 12102, Dec. 20, 2018, 132 Stat. 4942; Pub. L. 118–22, div. B, title I, § 102(d)(8)(E), Nov. 17, 2023, 137 Stat. 118; Pub. L. 119–21, title I, § 10607(b), July 4, 2025, 139 Stat. 111.)
+(Aug. 14, 1946, ch. 966, title II, § 209, as added Pub. L. 113–79, title XII, § 12102(a), Feb. 7, 2014, 128 Stat. 978; amended Pub. L. 115–334, title XII, § 12102, Dec. 20, 2018, 132 Stat. 4942; Pub. L. 118–22, div. B, title I, § 102(d)(8)(E), Nov. 17, 2023, 137 Stat. 118; Pub. L. 119–21, title I, § 10607(b), July 4, 2025, 139 Stat. 111.)
 
 **Editorial Notes**
 
@@ -869,7 +869,7 @@ Of the funds of the Commodity Credit Corporation, the Secretary shall use to car
 
 Amendment by Pub. L. 118–22 to be applied and administered as if enacted on Sept. 30, 2023, see section 102(g) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
 
-### § 1627b. National Sheep Industry Improvement Center
+### § 1627b. National Sheep Industry Improvement Center
 
 **(a) Definitions** In this section:
 
@@ -1255,31 +1255,31 @@ The Secretary shall review and monitor compliance by the Board and the Center wi
 
 The Secretary shall rescind sanctions imposed under paragraph (2) on a finding by the Secretary that there is no longer any failure by the Board or the Center to comply with this section or that the noncompliance will be promptly corrected.
 
-(Aug. 14, 1946, ch. 966, title II, § 210, formerly Pub. L. 87–128, title III, § 375, as added Pub. L. 104–127, title VII, § 759, Apr. 4, 1996, 110 Stat. 1132; amended Pub. L. 106–78, title VIII, § 816, Oct. 22, 1999, 113 Stat. 1182; Pub. L. 106–387, § 1(a) [title VII, § 756], Oct. 28, 2000, 114 Stat. 1549, 1549A–43; Pub. L. 107–76, title VII, § 731, Nov. 28, 2001, 115 Stat. 736; Pub. L. 108–7, div. A, title VII, § 728, Feb. 20, 2003, 117 Stat. 42; Pub. L. 108–199, div. A, title VII, § 726, Jan. 23, 2004, 118 Stat. 35; Pub. L. 108–447, div. A, title VII, § 725, Dec. 8, 2004, 118 Stat. 2842; Pub. L. 110–234, title XI, § 11009(a), (b)(1), May 22, 2008, 122 Stat. 1359; Pub. L. 110–246, § 4(a), title XI, § 11009(a), (b)(1), June 18, 2008, 122 Stat. 1664, 2120, 2121; renumbered act Aug. 14, 1946, § 210, and amended Pub. L. 113–79, title XII, § 12102(b), Feb. 7, 2014, 128 Stat. 979.)
+(Aug. 14, 1946, ch. 966, title II, § 210, formerly Pub. L. 87–128, title III, § 375, as added Pub. L. 104–127, title VII, § 759, Apr. 4, 1996, 110 Stat. 1132; amended Pub. L. 106–78, title VIII, § 816, Oct. 22, 1999, 113 Stat. 1182; Pub. L. 106–387, § 1(a) [title VII, § 756], Oct. 28, 2000, 114 Stat. 1549, 1549A–43; Pub. L. 107–76, title VII, § 731, Nov. 28, 2001, 115 Stat. 736; Pub. L. 108–7, div. A, title VII, § 728, Feb. 20, 2003, 117 Stat. 42; Pub. L. 108–199, div. A, title VII, § 726, Jan. 23, 2004, 118 Stat. 35; Pub. L. 108–447, div. A, title VII, § 725, Dec. 8, 2004, 118 Stat. 2842; Pub. L. 110–234, title XI, § 11009(a), (b)(1), May 22, 2008, 122 Stat. 1359; Pub. L. 110–246, § 4(a), title XI, § 11009(a), (b)(1), June 18, 2008, 122 Stat. 1664, 2120, 2121; renumbered act Aug. 14, 1946, § 210, and amended Pub. L. 113–79, title XII, § 12102(b), Feb. 7, 2014, 128 Stat. 979.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsec. (i)(2)(C), probably means the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, which is classified principally to chapter 50 (§ 1921 et seq.) of this title and of which this section was formerly a part prior to renumbering by Pub. L. 113–79. For classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
+This Act, referred to in subsec. (i)(2)(C), probably means the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, which is classified principally to chapter 50 (§ 1921 et seq.) of this title and of which this section was formerly a part prior to renumbering by Pub. L. 113–79. For classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 **Codification**
 
 Section was formerly classified to section 2008j of this title.
 
-A former subsec. (j)(7) of this section provided for the repeal of this section on the date the Secretary published notice in the Federal Register that the transition plan to privatize the National Sheep Industry Improvement Center had been completed. Although such notice was published in the Federal Register on May 23, 2007, at 72 F.R. 28945, repeal of this section did not take effect because of amendment by Pub. L. 110–246, § 11009(b), repealing subsec. (j) of this section, effective May 1, 2007. See 2008 Amendment and Effective Date of 2008 Amendment notes below.
+A former subsec. (j)(7) of this section provided for the repeal of this section on the date the Secretary published notice in the Federal Register that the transition plan to privatize the National Sheep Industry Improvement Center had been completed. Although such notice was published in the Federal Register on May 23, 2007, at 72 F.R. 28945, repeal of this section did not take effect because of amendment by Pub. L. 110–246, § 11009(b), repealing subsec. (j) of this section, effective May 1, 2007. See 2008 Amendment and Effective Date of 2008 Amendment notes below.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 **Amendments**
 
-2014—Subsec. (e)(3)(D). Pub. L. 113–79, § 12102(b)(1)(A), substituted “10 percent” for “3 percent” in introductory provisions.
+2014—Subsec. (e)(3)(D). Pub. L. 113–79, § 12102(b)(1)(A), substituted “10 percent” for “3 percent” in introductory provisions.
 
-Subsec. (e)(6). Pub. L. 113–79, § 12102(b)(1)(B), struck out par. (6) which related to funding to carry out this section.
+Subsec. (e)(6). Pub. L. 113–79, § 12102(b)(1)(B), struck out par. (6) which related to funding to carry out this section.
 
-2008—Subsec. (e)(6)(B), (C). Pub. L. 110–246, § 11009(a), added subpars. (B) and (C) and struck out former subpar. (B) which provided for $27,998,000 out of moneys in the Treasury not otherwise appropriated to carry out this section and former subpar. (C) which authorized appropriation of an additional $30,000,000.
+2008—Subsec. (e)(6)(B), (C). Pub. L. 110–246, § 11009(a), added subpars. (B) and (C) and struck out former subpar. (B) which provided for $27,998,000 out of moneys in the Treasury not otherwise appropriated to carry out this section and former subpar. (C) which authorized appropriation of an additional $30,000,000.
 
-Subsec. (j). Pub. L. 110–246, § 11009(b)(1), struck out subsec. (j) which related to privatization of the National Sheep Industry Improvement Center and repeal of this section on the date that the Secretary published notice in the Federal Register that the transition plan for such privatization had been completed.
+Subsec. (j). Pub. L. 110–246, § 11009(b)(1), struck out subsec. (j) which related to privatization of the National Sheep Industry Improvement Center and repeal of this section on the date that the Secretary published notice in the Federal Register that the transition plan for such privatization had been completed.
 
 2004—Subsec. (e)(6)(B). Pub. L. 108–447 substituted “$27,998,000” for “$26,998,000”.
 
@@ -1291,35 +1291,35 @@ Pub. L. 108–199 substituted “$26,998,000” for “$26,499,000”.
 
 2000—Subsec. (e)(6)(B). Pub. L. 106–387 substituted “$25,000,000” for “$20,000,000”.
 
-1999—Subsec. (a)(5). Pub. L. 106–78, § 816(a), added par. (5).
+1999—Subsec. (a)(5). Pub. L. 106–78, § 816(a), added par. (5).
 
-Subsec. (e)(3)(A). Pub. L. 106–78, § 816(b)(1)(A), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “The Center may use amounts in the Fund to make grants and loans to eligible entities in accordance with a strategic plan submitted under subsection (d) of this section.”
+Subsec. (e)(3)(A). Pub. L. 106–78, § 816(b)(1)(A), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “The Center may use amounts in the Fund to make grants and loans to eligible entities in accordance with a strategic plan submitted under subsection (d) of this section.”
 
-Subsec. (e)(3)(B). Pub. L. 106–78, § 816(b)(1)(B), inserted at end “The Fund is intended to furnish the initial capital for a revolving fund that will eventually be privatized for the purposes of assisting the United States sheep and goat industries.”
+Subsec. (e)(3)(B). Pub. L. 106–78, § 816(b)(1)(B), inserted at end “The Fund is intended to furnish the initial capital for a revolving fund that will eventually be privatized for the purposes of assisting the United States sheep and goat industries.”
 
-Subsec. (e)(3)(D). Pub. L. 106–78, § 816(b)(1)(C), (F), redesignated subpar. (E) as (D) and struck out heading and text of former subpar. (D). Text read as follows: “The Center shall, to the maximum extent practicable, use the Fund to provide a variety of grants and intermediate- and long-term loans.”
+Subsec. (e)(3)(D). Pub. L. 106–78, § 816(b)(1)(C), (F), redesignated subpar. (E) as (D) and struck out heading and text of former subpar. (D). Text read as follows: “The Center shall, to the maximum extent practicable, use the Fund to provide a variety of grants and intermediate- and long-term loans.”
 
-Subsec. (e)(3)(E). Pub. L. 106–78, § 816(b)(1)(F), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
+Subsec. (e)(3)(E). Pub. L. 106–78, § 816(b)(1)(F), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
 
-Pub. L. 106–78, § 816(b)(1)(D), added subpar. (E) and struck out heading and text of former subpar. (E). Text read as follows: “The Center may not use more than 3 percent of the amounts in the Fund for a fiscal year for the administration of the Center.”
+Pub. L. 106–78, § 816(b)(1)(D), added subpar. (E) and struck out heading and text of former subpar. (E). Text read as follows: “The Center may not use more than 3 percent of the amounts in the Fund for a fiscal year for the administration of the Center.”
 
-Subsec. (e)(3)(F) to (H). Pub. L. 106–78, § 816(b)(1)(F), redesignated subpars. (G) and (H) as (F) and (G), respectively. Former subpar. (F) redesignated (E).
+Subsec. (e)(3)(F) to (H). Pub. L. 106–78, § 816(b)(1)(F), redesignated subpars. (G) and (H) as (F) and (G), respectively. Former subpar. (F) redesignated (E).
 
-Subsec. (e)(3)(H)(vii). Pub. L. 106–78, § 816(b)(1)(E), added cl. (vii).
+Subsec. (e)(3)(H)(vii). Pub. L. 106–78, § 816(b)(1)(E), added cl. (vii).
 
-Subsec. (e)(6)(D). Pub. L. 106–78, § 816(b)(2), struck out heading and text of subpar. (D). Text read as follows: “No additional Federal funds shall be used to carry out this section beginning on the earlier of—
+Subsec. (e)(6)(D). Pub. L. 106–78, § 816(b)(2), struck out heading and text of subpar. (D). Text read as follows: “No additional Federal funds shall be used to carry out this section beginning on the earlier of—
 
 “(i) the date that is 10 years after April 4, 1996; or
 
 “(ii) the day after a total of $50,000,000 has been made available under subparagraphs (B) and (C) to carry out this section.”
 
-Subsec. (f)(2)(B). Pub. L. 106–78, § 816(c)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “review any grant, loan, contract, or cooperative agreement to be made or entered into by the Center and any financial assistance provided to the Center;”.
+Subsec. (f)(2)(B). Pub. L. 106–78, § 816(c)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “review any grant, loan, contract, or cooperative agreement to be made or entered into by the Center and any financial assistance provided to the Center;”.
 
-Subsec. (f)(5)(C). Pub. L. 106–78, § 816(c)(2), added subpar. (C) and struck out heading and text of former subpar. (C). Text read as follows: “A voting member may be reelected for not more than 1 additional term.”
+Subsec. (f)(5)(C). Pub. L. 106–78, § 816(c)(2), added subpar. (C) and struck out heading and text of former subpar. (C). Text read as follows: “A voting member may be reelected for not more than 1 additional term.”
 
-Subsec. (f)(6)(B). Pub. L. 106–78, § 816(c)(3), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “A member elected to fill a vacancy for an unexpired term may be reelected for 1 full term.”
+Subsec. (f)(6)(B). Pub. L. 106–78, § 816(c)(3), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “A member elected to fill a vacancy for an unexpired term may be reelected for 1 full term.”
 
-Subsec. (j). Pub. L. 106–78, § 816(d), added subsec. (j).
+Subsec. (j). Pub. L. 106–78, § 816(d), added subsec. (j).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1327,11 +1327,11 @@ Subsec. (j). Pub. L. 106–78, § 816(d), added subsec. (j).
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-Pub. L. 110–234, title XI, § 11009(b)(2), May 22, 2008, 122 Stat. 1359, and Pub. L. 110–246, § 4(a), title XI, § 11009(b)(2), June 18, 2008, 122 Stat. 1664, 2121, provided that: “The amendment made by paragraph (1) [amending this section] takes effect on May 1, 2007.”
+Pub. L. 110–234, title XI, § 11009(b)(2), May 22, 2008, 122 Stat. 1359, and Pub. L. 110–246, § 4(a), title XI, § 11009(b)(2), June 18, 2008, 122 Stat. 1664, 2121, provided that: “The amendment made by paragraph (1) [amending this section] takes effect on May 1, 2007.”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.]
 
-### § 1627c. Local agriculture market program
+### § 1627c. Local agriculture market program
 
 **(a) Definitions** In this section:
 
@@ -1831,7 +1831,7 @@ Of the funds made available to carry out this section for a fiscal year, 10 perc
 
 Not greater than 8 percent of amounts made available to provide grants under subsections (d) and (e) for a fiscal year may be used for administrative expenses.
 
-(Aug. 14, 1946, ch. 966, title II, § 210A, as added Pub. L. 115–334, title X, § 10102(b), Dec. 20, 2018, 132 Stat. 4888.)
+(Aug. 14, 1946, ch. 966, title II, § 210A, as added Pub. L. 115–334, title X, § 10102(b), Dec. 20, 2018, 132 Stat. 4888.)
 
 **Editorial Notes**
 
@@ -1843,7 +1843,7 @@ The authorities provided by each provision of, and each amendment made by, Pub. 
 
 **Local Agriculture Market Program**
 
-Pub. L. 115–334, title X, § 10102(a), Dec. 20, 2018, 132 Stat. 4888, provided that:
+Pub. L. 115–334, title X, § 10102(a), Dec. 20, 2018, 132 Stat. 4888, provided that:
 
 > **“(a) Purpose.—** The purpose of this section [enacting this section, amending sections 1632a, 1632b, 2204h, 2207b, and 3003 of this title, and repealing sections 3005 and 3006 of this title] is to combine the purposes and coordinate the functions, as in effect on the day before the date of enactment of this Act [Dec. 20, 2018], of—
 
@@ -1851,15 +1851,15 @@ Pub. L. 115–334, title X, § 10102(a), Dec. 20, 2018, 132 Stat. 4888, provid
 
 > **“(2)** the value-added agricultural product market development grants under section 231(b) of the Agricultural Risk Protection Act of 2000 (7 U.S.C. 1632a(b)).”
 
-### § 1628. Repealed. Pub. L. 93–86, § 2, Aug. 10, 1973, 87 Stat. 246
+### § 1628. Repealed. Pub. L. 93–86, § 2, Aug. 10, 1973, 87 Stat. 246
 
-Section, acts Aug. 14, 1946, ch. 966, title III, § 301, 60 Stat. 1091; Dec. 29, 1967, Pub. L. 90–233, 81 Stat. 752, provided for establishment and staffing of a national advisory committee to aid in implementing the research and service work authorized under the act of Aug. 14, 1946, and set forth functions of such committee.
+Section, acts Aug. 14, 1946, ch. 966, title III, § 301, 60 Stat. 1091; Dec. 29, 1967, Pub. L. 90–233, 81 Stat. 752, provided for establishment and staffing of a national advisory committee to aid in implementing the research and service work authorized under the act of Aug. 14, 1946, and set forth functions of such committee.
 
-### § 1629. Establishment of committees to assist in research and service programs
+### § 1629. Establishment of committees to assist in research and service programs
 
 In the furtherance of the research and service work authorized by this Act, the Secretary of Agriculture may, in addition to the national advisory committee, establish appropriate committees, including representatives of producers, industry, government and science, to assist in effectuating specific research and service programs.
 
-(Aug. 14, 1946, ch. 966, title III, § 302, 60 Stat. 1091.)
+(Aug. 14, 1946, ch. 966, title III, § 302, 60 Stat. 1091.)
 
 **Editorial Notes**
 
@@ -1867,25 +1867,25 @@ In the furtherance of the research and service work authorized by this Act, the 
 
 This Act, referred to in text, is act Aug. 14, 1946, ch. 966, 60 Stat. 1082, which enacted this chapter and sections 427h, 427j, and 3105 of this title and amended section 3104 of this title. For complete classification of this Act to the Code, see Tables.
 
-The national advisory committee, referred to in text, was established by section 1628 of this title, which was subsequently repealed by Pub. L. 93–86, § 2, Aug. 10, 1973, 87 Stat. 246.
+The national advisory committee, referred to in text, was established by section 1628 of this title, which was subsequently repealed by Pub. L. 93–86, § 2, Aug. 10, 1973, 87 Stat. 246.
 
 **Codification**
 
 Section was not enacted as part of the Agricultural Marketing Act of 1946 which comprises this chapter.
 
-### § 1630. Omitted
+### § 1630. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act June 4, 1956, ch. 355, title V, § 508, 70 Stat. 241, which provided for availability of appropriations for committee expenses in effectuating research and service work, was from the Department of Agriculture and Farm Credit Administration Appropriation Act, 1957, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
+Section, act June 4, 1956, ch. 355, title V, § 508, 70 Stat. 241, which provided for availability of appropriations for committee expenses in effectuating research and service work, was from the Department of Agriculture and Farm Credit Administration Appropriation Act, 1957, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
 
-May 23, 1955, ch. 43, title V, § 509, 69 Stat. 64.
+May 23, 1955, ch. 43, title V, § 509, 69 Stat. 64.
 
-June 29, 1954, ch. 409, title V, § 509, 68 Stat. 319.
+June 29, 1954, ch. 409, title V, § 509, 68 Stat. 319.
 
-### § 1631. Protection for purchasers of farm products
+### § 1631. Protection for purchasers of farm products
 
 **(a) Congressional findings** Congress finds that—
 
@@ -1949,9 +1949,9 @@ The purpose of this section is to remove such burden on and obstruction to inter
 
 **(II)** on the written request of the buyer, commission merchant, or selling agent, by paper copy of the list to the requestor;
 
-**(F)** the Secretary of State furnishes to those who are not registered pursuant to (2)(D) of this section 1
+**(F)** the Secretary of State furnishes to those who are not registered pursuant to (2)(D) of this section 1
 
-<sup>1</sup>  So in original. Probably should be “pursuant to subparagraph (D)”.
+<sup>1</sup> So in original. Probably should be “pursuant to subparagraph (D)”.
 
 oral confirmation within 24 hours of any effective financing statement on request followed by written confirmation to any buyer of farm products buying from a debtor, or commission merchant or selling agent selling for a seller covered by such statement.
 
@@ -1983,9 +1983,9 @@ oral confirmation within 24 hours of any effective financing statement on reques
 
 **(H)** substantially complies with the requirements of this subparagraph even though it contains minor errors that are not seriously misleading.
 
-**(5)**  2
+**(5)** 2
 
-<sup>2</sup>  So in original. Another par. (5) follows par. (11).
+<sup>2</sup> So in original. Another par. (5) follows par. (11).
 
 The term “farm product” means an agricultural commodity such as wheat, corn, soybeans, or a species of livestock such as cattle, hogs, sheep, horses, or poultry used or produced in farming operations, or a product of such crop or livestock in its unmanufactured state (such as ginned cotton, wool-clip, maple syrup, milk, and eggs), that is in the possession of a person engaged in farming operations.
 
@@ -2001,9 +2001,9 @@ The term “farm product” means an agricultural commodity such as wheat, corn,
 
 **(11)** The term “Secretary of State” means the Secretary of State or the designee of the State.
 
-**(5)**  3
+**(5)** 3
 
-<sup>3</sup>  So in original. Another par. (5) follows par. (4).
+<sup>3</sup> So in original. Another par. (5) follows par. (4).
 
 The term “approved unique identifier” means a number, combination of numbers and letters, or other identifier selected by the Secretary of State using a selection system or method approved by the Secretary of Agriculture.
 
@@ -2115,7 +2115,7 @@ The Secretary of Agriculture shall prescribe regulations not later than 90 days 
 
 This section shall become effective 12 months after December 23, 1985.
 
-(Pub. L. 99–198, title XIII, § 1324, Dec. 23, 1985, 99 Stat. 1535; Pub. L. 104–127, title VI, § 662, Apr. 4, 1996, 110 Stat. 1107; Pub. L. 107–171, title X, § 10604, May 13, 2002, 116 Stat. 512; Pub. L. 108–447, div. A, title VII, § 776, Dec. 8, 2004, 118 Stat. 2849; Pub. L. 110–234, title XIV, § 14215, May 22, 2008, 122 Stat. 1466; Pub. L. 110–246, § 4(a), title XIV, § 14215, June 18, 2008, 122 Stat. 1664, 2228.)
+(Pub. L. 99–198, title XIII, § 1324, Dec. 23, 1985, 99 Stat. 1535; Pub. L. 104–127, title VI, § 662, Apr. 4, 1996, 110 Stat. 1107; Pub. L. 107–171, title X, § 10604, May 13, 2002, 116 Stat. 512; Pub. L. 108–447, div. A, title VII, § 776, Dec. 8, 2004, 118 Stat. 2849; Pub. L. 110–234, title XIV, § 14215, May 22, 2008, 122 Stat. 1466; Pub. L. 110–246, § 4(a), title XIV, § 14215, June 18, 2008, 122 Stat. 1664, 2228.)
 
 **Editorial Notes**
 
@@ -2127,65 +2127,65 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 **Amendments**
 
-2008—Subsec. (c)(2)(C)(ii)(II). Pub. L. 110–246, § 14215(1), inserted “, except that the numerical list containing social security or taxpayer identification numbers may be encrypted for security purposes if the Secretary of State provides a method by which an effective search of the encrypted numbers may be conducted to determine whether the farm product at issue is subject to 1 or more liens” after “such debtors”.
+2008—Subsec. (c)(2)(C)(ii)(II). Pub. L. 110–246, § 14215(1), inserted “, except that the numerical list containing social security or taxpayer identification numbers may be encrypted for security purposes if the Secretary of State provides a method by which an effective search of the encrypted numbers may be conducted to determine whether the farm product at issue is subject to 1 or more liens” after “such debtors”.
 
-Subsec. (c)(2)(E). Pub. L. 110–246, § 14215(2), substituted “subparagraph (C)” for “paragraph (C)”, inserted “except that—” after “an interest”, and added cls. (i) and (ii) before semicolon at end.
+Subsec. (c)(2)(E). Pub. L. 110–246, § 14215(2), substituted “subparagraph (C)” for “paragraph (C)”, inserted “except that—” after “an interest”, and added cls. (i) and (ii) before semicolon at end.
 
-2004—Subsec. (c)(2)(C)(ii)(II), (4)(C)(iii). Pub. L. 108–447, § 776(1)(A), (B), inserted “, or other approved unique identifier,” after “social security number” and “identification number”.
+2004—Subsec. (c)(2)(C)(ii)(II), (4)(C)(iii). Pub. L. 108–447, § 776(1)(A), (B), inserted “, or other approved unique identifier,” after “social security number” and “identification number”.
 
-Subsec. (c)(5). Pub. L. 108–447, § 776(1)(C), added par. (5) defining “approved unique identifier” at end of subsec. (c).
+Subsec. (c)(5). Pub. L. 108–447, § 776(1)(C), added par. (5) defining “approved unique identifier” at end of subsec. (c).
 
-Subsecs. (e)(1)(A)(ii)(III), (g)(2)(A)(ii)(III). Pub. L. 108–447, § 776(2), (3), inserted “, or other approved unique identifier,” after “social security number” and “identification number”.
+Subsecs. (e)(1)(A)(ii)(III), (g)(2)(A)(ii)(III). Pub. L. 108–447, § 776(2), (3), inserted “, or other approved unique identifier,” after “social security number” and “identification number”.
 
-2002—Subsec. (c)(4)(B). Pub. L. 107–171, § 10604(a)(1), substituted “signed, authorized, or otherwise authenticated by the debtor,” for “signed”.
+2002—Subsec. (c)(4)(B). Pub. L. 107–171, § 10604(a)(1), substituted “signed, authorized, or otherwise authenticated by the debtor,” for “signed”.
 
-Subsec. (c)(4)(C). Pub. L. 107–171, § 10604(a)(2), (6), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “other than in the case of an electronically reproduced copy of the statement, is signed by the debtor;”.
+Subsec. (c)(4)(C). Pub. L. 107–171, § 10604(a)(2), (6), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “other than in the case of an electronically reproduced copy of the statement, is signed by the debtor;”.
 
-Subsec. (c)(4)(D). Pub. L. 107–171, § 10604(a)(6), redesignated subpar. (E) as (D). Former subpar. (D) redesignated (C).
+Subsec. (c)(4)(D). Pub. L. 107–171, § 10604(a)(6), redesignated subpar. (E) as (D). Former subpar. (D) redesignated (C).
 
-Subsec. (c)(4)(D)(iii). Pub. L. 107–171, § 10604(a)(3)(A), inserted “and” after semicolon at end.
+Subsec. (c)(4)(D)(iii). Pub. L. 107–171, § 10604(a)(3)(A), inserted “and” after semicolon at end.
 
-Subsec. (c)(4)(D)(iv). Pub. L. 107–171, § 10604(a)(3)(B), substituted “applicable, and the name of each county or parish in which the farm products are produced or located;” for “applicable; and a reasonable description of the property, including county or parish in which the property is located;”.
+Subsec. (c)(4)(D)(iv). Pub. L. 107–171, § 10604(a)(3)(B), substituted “applicable, and the name of each county or parish in which the farm products are produced or located;” for “applicable; and a reasonable description of the property, including county or parish in which the property is located;”.
 
-Subsec. (c)(4)(E). Pub. L. 107–171, § 10604(a)(6), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
+Subsec. (c)(4)(E). Pub. L. 107–171, § 10604(a)(6), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
 
-Pub. L. 107–171, § 10604(a)(4), substituted “signed, authorized, or otherwise authenticated by the debtor” for “signed”.
+Pub. L. 107–171, § 10604(a)(4), substituted “signed, authorized, or otherwise authenticated by the debtor” for “signed”.
 
-Subsec. (c)(4)(F). Pub. L. 107–171, § 10604(a)(6), redesignated subpar. (G) as (F). Former subpar. (F) redesignated (E).
+Subsec. (c)(4)(F). Pub. L. 107–171, § 10604(a)(6), redesignated subpar. (G) as (F). Former subpar. (F) redesignated (E).
 
-Subsec. (c)(4)(G). Pub. L. 107–171, § 10604(a)(6), redesignated subpar. (H) as (G). Former subpar. (G) redesignated (F).
+Subsec. (c)(4)(G). Pub. L. 107–171, § 10604(a)(6), redesignated subpar. (H) as (G). Former subpar. (G) redesignated (F).
 
-Pub. L. 107–171, § 10604(a)(5), substituted “notice signed, authorized, or otherwise authenticated” for “notice signed”.
+Pub. L. 107–171, § 10604(a)(5), substituted “notice signed, authorized, or otherwise authenticated” for “notice signed”.
 
-Subsec. (c)(4)(H), (I). Pub. L. 107–171, § 10604(a)(6), redesignated subpar. (I) as (H). Former subpar. (H) redesignated (G).
+Subsec. (c)(4)(H), (I). Pub. L. 107–171, § 10604(a)(6), redesignated subpar. (I) as (H). Former subpar. (H) redesignated (G).
 
-Subsec. (e)(1)(A)(ii)(III). Pub. L. 107–171, § 10604(b)(1)(A), inserted “and” after semicolon at end.
+Subsec. (e)(1)(A)(ii)(III). Pub. L. 107–171, § 10604(b)(1)(A), inserted “and” after semicolon at end.
 
-Subsec. (e)(1)(A)(ii)(IV). Pub. L. 107–171, § 10604(b)(1)(B), substituted “crop year, and the name of each county or parish in which the farm products are produced or located;” for “crop year, county or parish, and a reasonable description of the property; and”.
+Subsec. (e)(1)(A)(ii)(IV). Pub. L. 107–171, § 10604(b)(1)(B), substituted “crop year, and the name of each county or parish in which the farm products are produced or located;” for “crop year, county or parish, and a reasonable description of the property; and”.
 
-Subsec. (e)(1)(A)(iii). Pub. L. 107–171, § 10604(b)(2), substituted “similarly signed, authorized, or otherwise authenticated” for “similarly signed”.
+Subsec. (e)(1)(A)(iii). Pub. L. 107–171, § 10604(b)(2), substituted “similarly signed, authorized, or otherwise authenticated” for “similarly signed”.
 
-Subsec. (e)(1)(A)(iv). Pub. L. 107–171, § 10604(b)(3), substituted “notice signed, authorized, or otherwise authenticated” for “notice signed”.
+Subsec. (e)(1)(A)(iv). Pub. L. 107–171, § 10604(b)(3), substituted “notice signed, authorized, or otherwise authenticated” for “notice signed”.
 
-Subsec. (e)(1)(A)(v). Pub. L. 107–171, § 10604(b)(4), inserted “contains” before “any payment”.
+Subsec. (e)(1)(A)(v). Pub. L. 107–171, § 10604(b)(4), inserted “contains” before “any payment”.
 
-Subsec. (e)(3)(A). Pub. L. 107–171, § 10604(b)(5)(A), substituted “subsection” for “subparagraph”.
+Subsec. (e)(3)(A). Pub. L. 107–171, § 10604(b)(5)(A), substituted “subsection” for “subparagraph”.
 
-Subsec. (e)(3)(B). Pub. L. 107–171, § 10604(b)(5)(B), substituted a period for “; and” at end.
+Subsec. (e)(3)(B). Pub. L. 107–171, § 10604(b)(5)(B), substituted a period for “; and” at end.
 
-Subsec. (g)(2)(A)(ii)(III). Pub. L. 107–171, § 10604(c)(1)(A), inserted “and” after semicolon at end.
+Subsec. (g)(2)(A)(ii)(III). Pub. L. 107–171, § 10604(c)(1)(A), inserted “and” after semicolon at end.
 
-Subsec. (g)(2)(A)(ii)(IV). Pub. L. 107–171, § 10604(c)(1)(B), substituted “crop year, and the name of each county or parish in which the farm products are produced or located;” for “crop year, county or parish, and a reasonable description of the property, etc.; and”.
+Subsec. (g)(2)(A)(ii)(IV). Pub. L. 107–171, § 10604(c)(1)(B), substituted “crop year, and the name of each county or parish in which the farm products are produced or located;” for “crop year, county or parish, and a reasonable description of the property, etc.; and”.
 
-Subsec. (g)(2)(A)(iii). Pub. L. 107–171, § 10604(c)(2), substituted “similarly signed, authorized, or otherwise authenticated” for “similarly signed”.
+Subsec. (g)(2)(A)(iii). Pub. L. 107–171, § 10604(c)(2), substituted “similarly signed, authorized, or otherwise authenticated” for “similarly signed”.
 
-Subsec. (g)(2)(A)(iv). Pub. L. 107–171, § 10604(c)(3), substituted “notice signed, authorized, or otherwise authenticated” for “notice signed”.
+Subsec. (g)(2)(A)(iv). Pub. L. 107–171, § 10604(c)(3), substituted “notice signed, authorized, or otherwise authenticated” for “notice signed”.
 
-Subsec. (g)(2)(A)(v). Pub. L. 107–171, § 10604(c)(4), inserted “contains” before “any payment”.
+Subsec. (g)(2)(A)(v). Pub. L. 107–171, § 10604(c)(4), inserted “contains” before “any payment”.
 
-1996—Subsec. (c)(4)(A). Pub. L. 104–127, § 662(1), substituted “of the statement, or, in the case of a State which (under the applicable State law provisions of the Uniform Commercial Code) allows the electronic filing of financing statements without the signature of the debtor, is an electronically reproduced copy of the statement” for “thereof”.
+1996—Subsec. (c)(4)(A). Pub. L. 104–127, § 662(1), substituted “of the statement, or, in the case of a State which (under the applicable State law provisions of the Uniform Commercial Code) allows the electronic filing of financing statements without the signature of the debtor, is an electronically reproduced copy of the statement” for “thereof”.
 
-Subsec. (c)(4)(B), (C). Pub. L. 104–127, § 662(2), inserted “other than in the case of an electronically reproduced copy of the statement,” before “is”.
+Subsec. (c)(4)(B), (C). Pub. L. 104–127, § 662(2), inserted “other than in the case of an electronically reproduced copy of the statement,” before “is”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2199,11 +2199,11 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-### § 1632. Repealed. Pub. L. 107–171, title VII, § 7303, May 13, 2002, 116 Stat. 455
+### § 1632. Repealed. Pub. L. 107–171, title VII, § 7303, May 13, 2002, 116 Stat. 455
 
-Section, Pub. L. 99–198, title XIV, § 1436, Dec. 23, 1985, 99 Stat. 1558, related to market expansion research.
+Section, Pub. L. 99–198, title XIV, § 1436, Dec. 23, 1985, 99 Stat. 1558, related to market expansion research.
 
-### § 1632a. Agricultural marketing resource center pilot project
+### § 1632a. Agricultural marketing resource center pilot project
 
 **(a) Establishment** The Secretary shall not use more than 2.5 percent of the funds made available to carry out the Local Agriculture Market Program established under section 1627c of this title to establish a pilot project (to be known as the “Agricultural Marketing Resource Center”) at an eligible institution described in subsection (b) that will—
 
@@ -2219,7 +2219,7 @@ Section, Pub. L. 99–198, title XIV, § 1436, Dec. 23, 1985, 99 Stat. 1558, r
 
 **(3)** the availability of resources (in cash or in kind) of definite value to sustain the Center following establishment.
 
-(Pub. L. 106–224, title II, § 231, June 20, 2000, 114 Stat. 409; Pub. L. 107–171, title VI, § 6401(a), May 13, 2002, 116 Stat. 424; Pub. L. 110–234, title VI, § 6202, May 22, 2008, 122 Stat. 1206; Pub. L. 110–246, § 4(a), title VI, § 6202, June 18, 2008, 122 Stat. 1664, 1967; Pub. L. 113–79, title VI, § 6203, Feb. 7, 2014, 128 Stat. 857; Pub. L. 115–334, title X, § 10102(c)(1), Dec. 20, 2018, 132 Stat. 4897.)
+(Pub. L. 106–224, title II, § 231, June 20, 2000, 114 Stat. 409; Pub. L. 107–171, title VI, § 6401(a), May 13, 2002, 116 Stat. 424; Pub. L. 110–234, title VI, § 6202, May 22, 2008, 122 Stat. 1206; Pub. L. 110–246, § 4(a), title VI, § 6202, June 18, 2008, 122 Stat. 1664, 1967; Pub. L. 113–79, title VI, § 6203, Feb. 7, 2014, 128 Stat. 857; Pub. L. 115–334, title X, § 10102(c)(1), Dec. 20, 2018, 132 Stat. 4897.)
 
 **Editorial Notes**
 
@@ -2233,21 +2233,21 @@ Section was formerly set out as a note under section 1621 of this title.
 
 **Amendments**
 
-2018—Pub. L. 115–334, § 10102(c)(1)(A), substituted “Agricultural marketing resource center pilot project” for “Value-added agricultural product market development grants” in section catchline.
+2018—Pub. L. 115–334, § 10102(c)(1)(A), substituted “Agricultural marketing resource center pilot project” for “Value-added agricultural product market development grants” in section catchline.
 
-Subsec. (a). Pub. L. 115–334, § 10102(c)(1)(D)(i), in introductory provisions, substituted “The Secretary shall not use more than 2.5 percent of the funds made available to carry out the Local Agriculture Market Program established under section 1627c of this title to establish a pilot project (to be known as the ‘Agricultural Marketing Resource Center’) at an eligible institution described in subsection (b)” for “Notwithstanding the limitation on grants in subsection (b)(2), the Secretary shall not use more than 5 percent of the funds made available under subsection (b) to establish a pilot project (to be known as the ‘Agricultural Marketing Resource Center’) at an eligible institution described in paragraph (2)”.
+Subsec. (a). Pub. L. 115–334, § 10102(c)(1)(D)(i), in introductory provisions, substituted “The Secretary shall not use more than 2.5 percent of the funds made available to carry out the Local Agriculture Market Program established under section 1627c of this title to establish a pilot project (to be known as the ‘Agricultural Marketing Resource Center’) at an eligible institution described in subsection (b)” for “Notwithstanding the limitation on grants in subsection (b)(2), the Secretary shall not use more than 5 percent of the funds made available under subsection (b) to establish a pilot project (to be known as the ‘Agricultural Marketing Resource Center’) at an eligible institution described in paragraph (2)”.
 
-Pub. L. 115–334, § 10102(c)(1)(B), (C)(i), (D)(ii), redesignated subsec. (c)(1) as subsec. (a), redesignated subpars. (A) and (B) of former subsec. (c)(1) as pars. (1) and (2), respectively, of subsec. (a), realigned margins, and struck out former subsec. (a) which defined terms for this section.
+Pub. L. 115–334, § 10102(c)(1)(B), (C)(i), (D)(ii), redesignated subsec. (c)(1) as subsec. (a), redesignated subpars. (A) and (B) of former subsec. (c)(1) as pars. (1) and (2), respectively, of subsec. (a), realigned margins, and struck out former subsec. (a) which defined terms for this section.
 
-Subsec. (b). Pub. L. 115–334, § 10102(c)(1)(B), (C)(i), (E)(i), redesignated subsec. (c)(2) as (b), redesignated subpars. (A) to (C) of former subsec. (c)(2) as pars. (1) to (3), respectively, of subsec. (b), realigned margins, and struck out former subsec. (b) which related to grant program.
+Subsec. (b). Pub. L. 115–334, § 10102(c)(1)(B), (C)(i), (E)(i), redesignated subsec. (c)(2) as (b), redesignated subpars. (A) to (C) of former subsec. (c)(2) as pars. (1) to (3), respectively, of subsec. (b), realigned margins, and struck out former subsec. (b) which related to grant program.
 
-Subsec. (b)(1). Pub. L. 115–334, § 10102(c)(1)(E)(ii), substituted “subsection (a)(1)” for “paragraph (1)(A)”.
+Subsec. (b)(1). Pub. L. 115–334, § 10102(c)(1)(E)(ii), substituted “subsection (a)(1)” for “paragraph (1)(A)”.
 
-Subsec. (c). Pub. L. 115–334, § 10102(c)(1)(C)(ii), struck out subsec. (c) designation and heading “Agricultural Marketing Resource Center pilot project”. Pars. (1) and (2) of former subsec. (c) redesignated subsecs. (a) and (b), respectively.
+Subsec. (c). Pub. L. 115–334, § 10102(c)(1)(C)(ii), struck out subsec. (c) designation and heading “Agricultural Marketing Resource Center pilot project”. Pars. (1) and (2) of former subsec. (c) redesignated subsecs. (a) and (b), respectively.
 
-Subsecs. (d), (e). Pub. L. 115–334, § 10102(c)(1)(B), struck out subsecs. (d) and (e) which related to matching funds and limitation, respectively.
+Subsecs. (d), (e). Pub. L. 115–334, § 10102(c)(1)(B), struck out subsecs. (d) and (e) which related to matching funds and limitation, respectively.
 
-2014—Subsec. (b)(6). Pub. L. 113–79, § 6203(1), added par. (6) and struck out former par. (6). Prior to amendment, text read as follows: “In awarding grants under this subsection, the Secretary shall give priority to projects that contribute to increasing opportunities for—
+2014—Subsec. (b)(6). Pub. L. 113–79, § 6203(1), added par. (6) and struck out former par. (6). Prior to amendment, text read as follows: “In awarding grants under this subsection, the Secretary shall give priority to projects that contribute to increasing opportunities for—
 
 “(A) beginning farmers or ranchers;
 
@@ -2255,25 +2255,25 @@ Subsecs. (d), (e). Pub. L. 115–334, § 10102(c)(1)(B), struck out subsecs. (
 
 “(C) operators of small- and medium-sized farms and ranches that are structured as a family farm.”
 
-Subsec. (b)(7)(A). Pub. L. 113–79, § 6203(2)(A), substituted “On February 14, 2014,” for “On October 1, 2008,” and “$63,000,000” for “$15,000,000”.
+Subsec. (b)(7)(A). Pub. L. 113–79, § 6203(2)(A), substituted “On February 14, 2014,” for “On October 1, 2008,” and “$63,000,000” for “$15,000,000”.
 
-Subsec. (b)(7)(B). Pub. L. 113–79, § 6203(2)(B), substituted “2018” for “2012”.
+Subsec. (b)(7)(B). Pub. L. 113–79, § 6203(2)(B), substituted “2018” for “2012”.
 
-2008—Subsec. (a). Pub. L. 110–246, § 6202(a), added subsec. (a) and struck out former subsec. (a) which defined “value-added agricultural product”.
+2008—Subsec. (a). Pub. L. 110–246, § 6202(a), added subsec. (a) and struck out former subsec. (a) which defined “value-added agricultural product”.
 
-Subsec. (b)(1). Pub. L. 110–246, § 6202(b)(1), substituted “paragraph (7)” for “paragraph (4)” in introductory provisions.
+Subsec. (b)(1). Pub. L. 110–246, § 6202(b)(1), substituted “paragraph (7)” for “paragraph (4)” in introductory provisions.
 
-Subsec. (b)(4) to (7). Pub. L. 110–246, § 6202(b)(2), added pars. (4) to (7) and struck out former par. (4). Prior to amendment, text read as follows: “Not later than 30 days after May 13, 2002, on October 1, 2002, and on each October 1 thereafter through October 1, 2006, of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this subsection $40,000,000, to remain available until expended.”
+Subsec. (b)(4) to (7). Pub. L. 110–246, § 6202(b)(2), added pars. (4) to (7) and struck out former par. (4). Prior to amendment, text read as follows: “Not later than 30 days after May 13, 2002, on October 1, 2002, and on each October 1 thereafter through October 1, 2006, of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this subsection $40,000,000, to remain available until expended.”
 
-2002—Subsecs. (a), (b). Pub. L. 107–171, § 6401(a)(2), added subsecs. (a) and (b) and struck out former subsec. (a) which related to establishment of grant program, maximum amount per grant recipient, and producer strategies. Former subsec. (b) redesignated (c).
+2002—Subsecs. (a), (b). Pub. L. 107–171, § 6401(a)(2), added subsecs. (a) and (b) and struck out former subsec. (a) which related to establishment of grant program, maximum amount per grant recipient, and producer strategies. Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 107–171, § 6401(a)(1), (3), redesignated subsec. (b) as (c) and, in par. (1), substituted “subsection (b)(2)” for “subsection (a)(2)”, “5 percent” for “$5,000,000”, and “subsection (b)” for “subsection (a)” in introductory provisions. Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 107–171, § 6401(a)(1), (3), redesignated subsec. (b) as (c) and, in par. (1), substituted “subsection (b)(2)” for “subsection (a)(2)”, “5 percent” for “$5,000,000”, and “subsection (b)” for “subsection (a)” in introductory provisions. Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 107–171, § 6401(a)(4), which directed amendment of subsec. (d) by substituting “subsections (b) and (c)” for “subsections (a) and (b)”, could not be executed because that phrase does not appear.
+Subsec. (d). Pub. L. 107–171, § 6401(a)(4), which directed amendment of subsec. (d) by substituting “subsections (b) and (c)” for “subsections (a) and (b)”, could not be executed because that phrase does not appear.
 
-Pub. L. 107–171, § 6401(a)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Pub. L. 107–171, § 6401(a)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 107–171, § 6401(a)(1), redesignated subsec. (d) as (e).
+Subsec. (e). Pub. L. 107–171, § 6401(a)(1), redesignated subsec. (d) as (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2283,13 +2283,13 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–171, title VI, § 6401(b), May 13, 2002, 116 Stat. 426, provided that:
+Pub. L. 107–171, title VI, § 6401(b), May 13, 2002, 116 Stat. 426, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by subsection (a) [amending this section] apply beginning on October 1, 2002.
 
 > **“(2) Funding.—** Funds made available under section 231(b)(4)(A)(i) [probably should be 231(b)(4)] of the Agricultural Risk Protection Act of 2000 [7 U.S.C. 1632a(b)(4)] (as amended by subsection (a)(2)) shall be made available not later than 30 days after the date of enactment of this Act [May 13, 2002].”
 
-### § 1632b. Agriculture Innovation Center Demonstration Program
+### § 1632b. Agriculture Innovation Center Demonstration Program
 
 **(a) Purpose** The purpose of this section is to direct the Secretary of Agriculture to establish a demonstration program under which agricultural producers are provided—
 
@@ -2337,9 +2337,9 @@ The term “Secretary” means the Secretary of Agriculture.
 
 **(D)** the Agriculture Innovation Center of the entity has a board of directors established in accordance with paragraph (2).
 
-**(2) Board of directors** Each Agriculture Innovation Center of an eligible entity shall have a board of directors composed of a diverse group of representatives of public and private entities, including the following:: 1
+**(2) Board of directors** Each Agriculture Innovation Center of an eligible entity shall have a board of directors composed of a diverse group of representatives of public and private entities, including the following:: 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 **(A)** Two general agricultural organizations with the greatest number of members in the State in which the eligible entity is located.
 
@@ -2381,9 +2381,9 @@ Subject to subparagraph (B), in the first 3 fiscal years of the Program, the Sec
 
 Nothing in subparagraph (A) precludes a recipient of a grant under the Program from collaborating with any other institution with respect to activities conducted using the grant.
 
-**(f) Use of funds** An eligible entity to which a grant is made under the Program may use the grant only for the following purposes (but only to the extent that the use is not described in section 1627c(d)(5)(D) of this title 2
+**(f) Use of funds** An eligible entity to which a grant is made under the Program may use the grant only for the following purposes (but only to the extent that the use is not described in section 1627c(d)(5)(D) of this title 2
 
-<sup>2</sup>  So in original. Probably should be followed by a closing parenthesis.
+<sup>2</sup> So in original. Probably should be followed by a closing parenthesis.
 
 :
 
@@ -2403,7 +2403,7 @@ Nothing in subparagraph (A) precludes a recipient of a grant under the Program f
 
 There are authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 107–171, title VI, § 6402, May 13, 2002, 116 Stat. 426; Pub. L. 110–234, title VI, § 6203, May 22, 2008, 122 Stat. 1207; Pub. L. 110–246, § 4(a), title VI, § 6203, June 18, 2008, 122 Stat. 1664, 1969; Pub. L. 113–79, title VI, § 6204, Feb. 7, 2014, 128 Stat. 857; Pub. L. 115–334, title VII, § 7608, title X, § 10102(c)(2), Dec. 20, 2018, 132 Stat. 4829, 4898; Pub. L. 117–103, div. A, title VII, § 777, Mar. 15, 2022, 136 Stat. 99.)
+(Pub. L. 107–171, title VI, § 6402, May 13, 2002, 116 Stat. 426; Pub. L. 110–234, title VI, § 6203, May 22, 2008, 122 Stat. 1207; Pub. L. 110–246, § 4(a), title VI, § 6203, June 18, 2008, 122 Stat. 1664, 1969; Pub. L. 113–79, title VI, § 6204, Feb. 7, 2014, 128 Stat. 857; Pub. L. 115–334, title VII, § 7608, title X, § 10102(c)(2), Dec. 20, 2018, 132 Stat. 4829, 4898; Pub. L. 117–103, div. A, title VII, § 777, Mar. 15, 2022, 136 Stat. 99.)
 
 **Editorial Notes**
 
@@ -2419,23 +2419,23 @@ Section was formerly set out as a note under section 1621 of this title.
 
 2022—Subsec. (f). Pub. L. 117–103 substituted “section 1627c(d)(5)(D) of this title” for “section 1627c(d)(2) of this title” in introductory provisions.
 
-2018—Subsec. (d)(2). Pub. L. 115–334, § 7608(1)(A), substituted “a diverse group of representatives of public and private entities, including the following:” for “representatives of each of the following groups” in introductory provisions.
+2018—Subsec. (d)(2). Pub. L. 115–334, § 7608(1)(A), substituted “a diverse group of representatives of public and private entities, including the following:” for “representatives of each of the following groups” in introductory provisions.
 
-Subsec. (d)(2)(A). Pub. L. 115–334, § 7608(1)(B), substituted “Two” for “The 2”.
+Subsec. (d)(2)(A). Pub. L. 115–334, § 7608(1)(B), substituted “Two” for “The 2”.
 
-Subsec. (d)(2)(B). Pub. L. 115–334, § 7608(1)(C), inserted “or a State legislator,” after “agency,”.
+Subsec. (d)(2)(B). Pub. L. 115–334, § 7608(1)(C), inserted “or a State legislator,” after “agency,”.
 
-Subsec. (d)(2)(C). Pub. L. 115–334, § 7608(1)(D), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “Entities representing the 4 highest grossing commodities produced in the State, determined on the basis of annual gross cash sales.”
+Subsec. (d)(2)(C). Pub. L. 115–334, § 7608(1)(D), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “Entities representing the 4 highest grossing commodities produced in the State, determined on the basis of annual gross cash sales.”
 
-Subsec. (e)(1). Pub. L. 115–334, § 7608(2), substituted “subsection (g)” for “subsection (i)”.
+Subsec. (e)(1). Pub. L. 115–334, § 7608(2), substituted “subsection (g)” for “subsection (i)”.
 
-Subsec. (f). Pub. L. 115–334, § 10102(c)(2), substituted “section 1627c(d)(2) of this title” for “section 1632a(d) of this title)” in introductory provisions.
+Subsec. (f). Pub. L. 115–334, § 10102(c)(2), substituted “section 1627c(d)(2) of this title” for “section 1632a(d) of this title)” in introductory provisions.
 
-Subsecs. (g) to (i). Pub. L. 115–334, § 7608(3), added subsec. (g) and struck out former subsecs. (g) to (i) which related to research on effects on the agricultural sector, report to Congress, and authorization of appropriations, respectively.
+Subsecs. (g) to (i). Pub. L. 115–334, § 7608(3), added subsec. (g) and struck out former subsecs. (g) to (i) which related to research on effects on the agricultural sector, report to Congress, and authorization of appropriations, respectively.
 
 2014—Subsec. (i). Pub. L. 113–79 substituted “$1,000,000 for each of fiscal years 2014 through 2018” for “$6,000,000 for each of fiscal years 2008 through 2012”.
 
-2008—Subsec. (i). Pub. L. 110–246, § 6203, added subsec. (i) and struck out former subsec. (i). Prior to amendment, text read as follows: “Of the amount made available under section 231(a)(1) of the Agricultural Risk Protection Act of 2000 (7 U.S.C. 1621 note; Public Law 106–224) for each fiscal year, the Secretary shall use to carry out this section—
+2008—Subsec. (i). Pub. L. 110–246, § 6203, added subsec. (i) and struck out former subsec. (i). Prior to amendment, text read as follows: “Of the amount made available under section 231(a)(1) of the Agricultural Risk Protection Act of 2000 (7 U.S.C. 1621 note; Public Law 106–224) for each fiscal year, the Secretary shall use to carry out this section—
 
 “(1) not less than $3,000,000 for fiscal year 2002; and
 
@@ -2447,7 +2447,7 @@ Subsecs. (g) to (i). Pub. L. 115–334, § 7608(3), added subsec. (g) and stru
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 1632c. Acer access and development program
+### § 1632c. Acer access and development program
 
 **(a) Grants authorized** The Secretary of Agriculture may make competitive grants to States, tribal governments, and research institutions to support the efforts of such States, tribal governments, and research institutions to promote the domestic maple syrup industry through the following activities:
 
@@ -2487,7 +2487,7 @@ The Secretary of Agriculture shall promulgate such regulations as are necessary 
 
 There are authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2014 through 2023.
 
-(Pub. L. 113–79, title XII, § 12306, Feb. 7, 2014, 128 Stat. 988; Pub. L. 115–334, title XII, § 12501, Dec. 20, 2018, 132 Stat. 4982.)
+(Pub. L. 113–79, title XII, § 12306, Feb. 7, 2014, 128 Stat. 988; Pub. L. 115–334, title XII, § 12501, Dec. 20, 2018, 132 Stat. 4982.)
 
 **Editorial Notes**
 
@@ -2499,7 +2499,7 @@ Section was enacted as part of the Agricultural Act of 2014, and not as part of 
 
 2018—Subsec. (f). Pub. L. 115–334 substituted “2023” for “2018”.
 
-### § 1632d. Dairy business innovation initiatives
+### § 1632d. Dairy business innovation initiatives
 
 **(a) Definitions** In this section:
 
@@ -2653,7 +2653,7 @@ Not later than January 31, 2022, the Secretary shall submit to Congress a report
 
 There is authorized to be appropriated to carry out this section $20,000,000 for each fiscal year.
 
-(Pub. L. 115–334, title XII, § 12513, Dec. 20, 2018, 132 Stat. 4996.)
+(Pub. L. 115–334, title XII, § 12513, Dec. 20, 2018, 132 Stat. 4996.)
 
 **Editorial Notes**
 
@@ -2667,11 +2667,11 @@ Section was enacted as part of the Agriculture Improvement Act of 2018, and not 
 
 “Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under section 9001 of this title.
 
-### § 1632e. Cattle Contracts Library
+### § 1632e. Cattle Contracts Library
 
 There is hereby appropriated $1,000,000, to remain available until September 30, 2023, for a Cattle Contracts Library pilot program that the Agricultural Marketing Service shall develop and maintain within the Livestock, Poultry, and Grain Market News Division. This program shall be similar, as determined by the Secretary, to the swine contract library the U.S. Department of Agriculture currently maintains pursuant to section 198a of this title. The promulgation of the regulations and administration of this section shall be made without regard to: (1) the notice and comment provisions of section 553 of title 5; and (2) chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”).
 
-(Pub. L. 117–103, div. A, title VII, § 779, Mar. 15, 2022, 136 Stat. 100.)
+(Pub. L. 117–103, div. A, title VII, § 779, Mar. 15, 2022, 136 Stat. 100.)
 
 **Editorial Notes**
 
@@ -2679,7 +2679,7 @@ There is hereby appropriated $1,000,000, to remain available until September 30,
 
 Section was enacted as part of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2022, and also as part of the Consolidated Appropriations Act, 2022, and not as part of the Agricultural Marketing Act of 1946 which comprises this chapter.
 
-### § 1633. Cooperation with State agencies in administration and enforcement of laws relating to marketing of agricultural products and control or eradication of plant and animal diseases and pests; coordination of administration of Federal and State laws
+### § 1633. Cooperation with State agencies in administration and enforcement of laws relating to marketing of agricultural products and control or eradication of plant and animal diseases and pests; coordination of administration of Federal and State laws
 
 In order to avoid duplication of functions, facilities, and personnel, and to attain closer coordination and greater effectiveness and economy in administration of Federal and State laws and regulations relating to the marketing of agricultural products and to the control or eradication of plant and animal diseases and pests, the Secretary of Agriculture is authorized, in the administration and enforcement of such Federal laws within his area of responsibility, whenever he deems it feasible and in the public interest, to enter into cooperative arrangements with State departments of agriculture and other State agencies charged with the administration and enforcement of such State laws and regulations and to provide that any such State agency which has adequate facilities, personnel, and procedures, as determined by the Secretary, may assist the Secretary in the administration and enforcement of such Federal laws and regulations to the extent and in the manner he deems appropriate in the public interest.
 
@@ -2699,7 +2699,7 @@ Section was enacted as Pub. L. 87–718, popularly known as the Talmadge-Aiken A
 
 ### Part A—Purpose; Definitions
 
-#### § 1635. Purpose
+#### § 1635. Purpose
 
 The purpose of this subchapter is to establish a program of information regarding the marketing of cattle, swine, lambs, and products of such livestock that—
 
@@ -2709,13 +2709,13 @@ The purpose of this subchapter is to establish a program of information regardin
 
 **(3)** encourages competition in the marketplace for livestock and livestock products.
 
-(Aug. 14, 1946, ch. 966, title II, § 211, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1188.)
+(Aug. 14, 1946, ch. 966, title II, § 211, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1188.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Livestock Mandatory Reporting**
 
-Pub. L. 106–78, title IX, Oct. 22, 1999, 113 Stat. 1188, as amended by Pub. L. 108–444, § 1, Dec. 3, 2004, 118 Stat. 2635; Pub. L. 109–296, § 1(b), Oct. 5, 2006, 120 Stat. 1464; Pub. L. 111–239, § 2(a)(2), Sept. 27, 2010, 124 Stat. 2501; Pub. L. 114–54, title I, § 101(b), Sept. 30, 2015, 129 Stat. 513; Pub. L. 117–103, div. O, title III, § 301(b), Mar. 15, 2022, 136 Stat. 788; Pub. L. 117–328, div. A, title VII, § 776(b), Dec. 29, 2022, 136 Stat. 4510; Pub. L. 118–42, div. B, title VII, § 793(b), Mar. 9, 2024, 138 Stat. 120; Pub. L. 119–4, div. A, title II, § 1203(b), Mar. 15, 2025, 139 Stat. 16; Pub. L. 119–37, div. B, title VII, § 774(b), Nov. 12, 2025, 139 Stat. 557, provided that:
+Pub. L. 106–78, title IX, Oct. 22, 1999, 113 Stat. 1188, as amended by Pub. L. 108–444, § 1, Dec. 3, 2004, 118 Stat. 2635; Pub. L. 109–296, § 1(b), Oct. 5, 2006, 120 Stat. 1464; Pub. L. 111–239, § 2(a)(2), Sept. 27, 2010, 124 Stat. 2501; Pub. L. 114–54, title I, § 101(b), Sept. 30, 2015, 129 Stat. 513; Pub. L. 117–103, div. O, title III, § 301(b), Mar. 15, 2022, 136 Stat. 788; Pub. L. 117–328, div. A, title VII, § 776(b), Dec. 29, 2022, 136 Stat. 4510; Pub. L. 118–42, div. B, title VII, § 793(b), Mar. 9, 2024, 138 Stat. 120; Pub. L. 119–4, div. A, title II, § 1203(b), Mar. 15, 2025, 139 Stat. 16; Pub. L. 119–37, div. B, title VII, § 774(b), Nov. 12, 2025, 139 Stat. 557, provided that:
 
 > **“SEC. 901. SHORT TITLE.**
 
@@ -2737,7 +2737,7 @@ Pub. L. 106–78, title IX, Oct. 22, 1999, 113 Stat. 1188, as amended by Pub. L.
 
 > **“(b)**
 
-> [Amended section 101(a) [title XI, § 1127] of Pub. L. 105–277, former 7 U.S.C. 1421 note.]
+> [Amended section 101(a) [title XI, § 1127] of Pub. L. 105–277, former 7 U.S.C. 1421 note.]
 
 > **“Subtitle B—Related Beef Reporting Provisions**
 
@@ -2841,7 +2841,7 @@ Pub. L. 106–78, title IX, Oct. 22, 1999, 113 Stat. 1188, as amended by Pub. L.
 
 > “The authority provided by this title [enacting sections 198 to 198b and 1635 to 1636h of this title and this note, amending sections 192 and 5712 of this title, repealing section 229a of this title, and amending provisions set out as a note under section 1421 of this title] and the amendments made by this title (other than section 911 of subtitle A [enacting this subchapter] and the amendments made by that section) terminate [sic] on September 30, 2026.”
 
-#### § 1635a. Definitions
+#### § 1635a. Definitions
 
 In this subchapter:
 
@@ -2909,11 +2909,11 @@ The term “Secretary” means the Secretary of Agriculture.
 
 The term “State” means each of the 50 States.
 
-(Aug. 14, 1946, ch. 966, title II, § 212, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1188.)
+(Aug. 14, 1946, ch. 966, title II, § 212, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1188.)
 
 ### Part B—Cattle Reporting
 
-#### § 1635d. Definitions
+#### § 1635d. Definitions
 
 In this part:
 
@@ -2981,9 +2981,9 @@ The term “packer-owned cattle” means cattle that a packer owns for at least 
 
 **(C)** a forward contract.
 
-(Aug. 14, 1946, ch. 966, title II, § 221, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1189.)
+(Aug. 14, 1946, ch. 966, title II, § 221, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1189.)
 
-#### § 1635e. Mandatory reporting for live cattle
+#### § 1635e. Mandatory reporting for live cattle
 
 **(a) Establishment** The Secretary shall establish a program of live cattle price information reporting that will—
 
@@ -3093,9 +3093,9 @@ The Secretary shall determine whether adequate data can be obtained on a regiona
 
 Not later than 2 years after October 22, 1999, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the determination of the Secretary under paragraph (1).
 
-(Aug. 14, 1946, ch. 966, title II, § 222, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1191.)
+(Aug. 14, 1946, ch. 966, title II, § 222, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1191.)
 
-#### § 1635f. Mandatory packer reporting of boxed beef sales
+#### § 1635f. Mandatory packer reporting of boxed beef sales
 
 **(a) Daily reporting** The corporate officers or officially designated representatives of each packer processing plant shall report to the Secretary at least twice each reporting day (not less than once before, and once after, 12:00 noon Central Time) information on total boxed beef sales, including—
 
@@ -3115,11 +3115,11 @@ Not later than 2 years after October 22, 1999, the Secretary shall submit to the
 
 The Secretary shall make available to the public the information required to be reported under subsection (a) not less frequently than twice each reporting day.
 
-(Aug. 14, 1946, ch. 966, title II, § 223, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1193.)
+(Aug. 14, 1946, ch. 966, title II, § 223, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1193.)
 
 ### Part C—Swine Reporting
 
-#### § 1635i. Definitions
+#### § 1635i. Definitions
 
 In this part:
 
@@ -3259,29 +3259,29 @@ The term “swine or pork market formula purchase” means a purchase of swine b
 
 **(E)** other purchase arrangement.
 
-(Aug. 14, 1946, ch. 966, title II, § 231, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1193; amended Pub. L. 109–296, § 2, Oct. 5, 2006, 120 Stat. 1464; Pub. L. 114–54, title I, § 102(a), Sept. 30, 2015, 129 Stat. 513.)
+(Aug. 14, 1946, ch. 966, title II, § 231, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1193; amended Pub. L. 109–296, § 2, Oct. 5, 2006, 120 Stat. 1464; Pub. L. 114–54, title I, § 102(a), Sept. 30, 2015, 129 Stat. 513.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2015—Pars. (9) to (12). Pub. L. 114–54, § 102(a)(1), (2), added par. (9) and redesignated former pars. (9) to (11) as (10) to (12), respectively. Former par. (12) redesignated (13).
+2015—Pars. (9) to (12). Pub. L. 114–54, § 102(a)(1), (2), added par. (9) and redesignated former pars. (9) to (11) as (10) to (12), respectively. Former par. (12) redesignated (13).
 
-Par. (12)(A). Pub. L. 114–54, § 102(a)(3), inserted “negotiated formula purchase,” after “pork market formula purchase,”.
+Par. (12)(A). Pub. L. 114–54, § 102(a)(3), inserted “negotiated formula purchase,” after “pork market formula purchase,”.
 
-Pars. (13) to (23). Pub. L. 114–54, § 102(a)(1), redesignated pars. (12) to (22) as (13) to (23), respectively.
+Pars. (13) to (23). Pub. L. 114–54, § 102(a)(1), redesignated pars. (12) to (22) as (13) to (23), respectively.
 
-Par. (23)(D), (E). Pub. L. 114–54, § 102(a)(4), added subpar. (D) and redesignated former subpar. (D) as (E).
+Par. (23)(D), (E). Pub. L. 114–54, § 102(a)(4), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-2006—Par. (4). Pub. L. 109–296, § 2(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘base market hog’ means a hog for which no discounts are subtracted from and no premiums are added to the base price.”
+2006—Par. (4). Pub. L. 109–296, § 2(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘base market hog’ means a hog for which no discounts are subtracted from and no premiums are added to the base price.”
 
-Par. (5). Pub. L. 109–296, § 2(b), amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “The term ‘bred female swine’ means any female swine, whether a sow or gilt, that has been mated or inseminated and is assumed, or has been confirmed, to be pregnant.”
+Par. (5). Pub. L. 109–296, § 2(b), amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “The term ‘bred female swine’ means any female swine, whether a sow or gilt, that has been mated or inseminated and is assumed, or has been confirmed, to be pregnant.”
 
-Par. (12)(B). Pub. L. 109–296, § 2(c)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “for any calendar year, the term includes only a swine processing plant that slaughtered an average of at least 100,000 swine per year during the immediately preceding 5 calendar years; and”.
+Par. (12)(B). Pub. L. 109–296, § 2(c)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “for any calendar year, the term includes only a swine processing plant that slaughtered an average of at least 100,000 swine per year during the immediately preceding 5 calendar years; and”.
 
-Par. (12)(C). Pub. L. 109–296, § 2(c)(2), inserted “or person” after “swine processing plant”, “plant capacity of the processing plant”, and “determining whether the processing plant”.
+Par. (12)(C). Pub. L. 109–296, § 2(c)(2), inserted “or person” after “swine processing plant”, “plant capacity of the processing plant”, and “determining whether the processing plant”.
 
-#### § 1635j. Mandatory reporting for swine
+#### § 1635j. Mandatory reporting for swine
 
 **(a) Establishment** The Secretary shall establish a program of swine price information reporting that will—
 
@@ -3515,21 +3515,21 @@ A packer shall not be required to pay a listed noncarcass merit premium to a pro
 
 The Secretary shall publish the information obtained under this subsection as soon as practicable, but not later than 5:00 p.m. Central Time, on the first reporting day of each week.
 
-(Aug. 14, 1946, ch. 966, title II, § 232, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1195; amended Pub. L. 109–296, §§ 3, 4, Oct. 5, 2006, 120 Stat. 1465, 1468; Pub. L. 114–54, title I, § 102(b), Sept. 30, 2015, 129 Stat. 514.)
+(Aug. 14, 1946, ch. 966, title II, § 232, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1195; amended Pub. L. 109–296, §§ 3, 4, Oct. 5, 2006, 120 Stat. 1465, 1468; Pub. L. 114–54, title I, § 102(b), Sept. 30, 2015, 129 Stat. 514.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2015—Subsec. (c)(1)(D)(ii). Pub. L. 114–54, § 102(b)(1), added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: “The information published by the Secretary under clause (i) shall include a distribution of net prices in the range between and including the lowest net price and the highest net price reported. The publication shall include a delineation of the number of barrows and gilts at each reported price level or, at the option of the Secretary, the number of barrows and gilts within each of a series of reasonable price bands within the range of prices.”
+2015—Subsec. (c)(1)(D)(ii). Pub. L. 114–54, § 102(b)(1), added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: “The information published by the Secretary under clause (i) shall include a distribution of net prices in the range between and including the lowest net price and the highest net price reported. The publication shall include a delineation of the number of barrows and gilts at each reported price level or, at the option of the Secretary, the number of barrows and gilts within each of a series of reasonable price bands within the range of prices.”
 
-Subsec. (c)(3)(C). Pub. L. 114–54, § 102(b)(2), added subpar. (C).
+Subsec. (c)(3)(C). Pub. L. 114–54, § 102(b)(2), added subpar. (C).
 
-2006—Subsec. (c). Pub. L. 109–296, § 3, amended heading and text of subsec. (c) generally. Prior to amendment, text related to daily reporting.
+2006—Subsec. (c). Pub. L. 109–296, § 3, amended heading and text of subsec. (c) generally. Prior to amendment, text related to daily reporting.
 
-Subsecs. (d), (e). Pub. L. 109–296, § 4, added subsec. (d) and redesignated former subsec. (d) as (e).
+Subsecs. (d), (e). Pub. L. 109–296, § 4, added subsec. (d) and redesignated former subsec. (d) as (e).
 
-#### § 1635k. Mandatory reporting of wholesale pork cuts
+#### § 1635k. Mandatory reporting of wholesale pork cuts
 
 **(a) Reporting**
 
@@ -3539,13 +3539,13 @@ The corporate officers or officially designated representatives of each packer s
 
 The Secretary shall publish information reported under subsection (a) as the Secretary determines necessary and appropriate.
 
-(Aug. 14, 1946, ch. 966, title II, § 233, as added Pub. L. 111–239, § 2(b)(1), Sept. 27, 2010, 124 Stat. 2501.)
+(Aug. 14, 1946, ch. 966, title II, § 233, as added Pub. L. 111–239, § 2(b)(1), Sept. 27, 2010, 124 Stat. 2501.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Negotiated Rulemaking Process**
 
-Pub. L. 111–239, § 2(b)(2)–(4), Sept. 27, 2010, 124 Stat. 2501, as amended by Pub. L. 117–286, § 4(a)(25), Dec. 27, 2022, 136 Stat. 4307, provided that:
+Pub. L. 111–239, § 2(b)(2)–(4), Sept. 27, 2010, 124 Stat. 2501, as amended by Pub. L. 117–286, § 4(a)(25), Dec. 27, 2022, 136 Stat. 4307, provided that:
 
 > **“(2) Negotiated rulemaking.—** The Secretary of Agriculture shall establish a negotiated rulemaking process pursuant to subchapter III of chapter 5 of title 5, United States Code, to negotiate and develop a proposed rule to implement the amendment made by paragraph (1) [enacting this section].
 
@@ -3571,7 +3571,7 @@ Pub. L. 111–239, § 2(b)(2)–(4), Sept. 27, 2010, 124 Stat. 2501, as amende
 
 ### Part D—Lamb Reporting
 
-#### § 1635m. Mandatory reporting for lambs
+#### § 1635m. Mandatory reporting for lambs
 
 **(a) Establishment** The Secretary may establish a program of mandatory lamb price information reporting that will—
 
@@ -3585,13 +3585,13 @@ Pub. L. 111–239, § 2(b)(2)–(4), Sept. 27, 2010, 124 Stat. 2501, as amende
 
 If the Secretary establishes a mandatory price reporting program under subsection (a), the Secretary shall provide an opportunity for comment on proposed regulations to establish the program during the 30-day period beginning on the date of the publication of the proposed regulations.
 
-(Aug. 14, 1946, ch. 966, title II, § 241, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1200.)
+(Aug. 14, 1946, ch. 966, title II, § 241, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1200.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Lamb Reporting**
 
-Pub. L. 114–54, title I, § 103, Sept. 30, 2015, 129 Stat. 514, provided that:
+Pub. L. 114–54, title I, § 103, Sept. 30, 2015, 129 Stat. 514, provided that:
 
 > “Not later than 180 days after the date of enactment of this Act [Sept. 30, 2015], the Secretary of Agriculture shall revise section 59.300 of title 7, Code of Federal Regulations, so that—
 
@@ -3611,7 +3611,7 @@ Pub. L. 114–54, title I, § 103, Sept. 30, 2015, 129 Stat. 514, provided tha
 
 ### Part E—Administration
 
-#### § 1636. General provisions
+#### § 1636. General provisions
 
 **(a) Confidentiality** The Secretary shall make available to the public information, statistics, and documents obtained from, or submitted by, packers, retail entities, and other persons under this subchapter in a manner that ensures that confidentiality is preserved regarding—
 
@@ -3701,7 +3701,7 @@ A packer shall not be required to report actions under paragraph (1) more than o
 
 **(3)** access documentary evidence as provided under sections 49 and 50 of title 15.
 
-(Aug. 14, 1946, ch. 966, title II, § 251, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1200; amended Pub. L. 110–234, title XI, § 11001(a)(1), May 22, 2008, 122 Stat. 1350; Pub. L. 110–246, § 4(a), title XI, § 11001(a)(1), June 18, 2008, 122 Stat. 1664, 2112.)
+(Aug. 14, 1946, ch. 966, title II, § 251, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1200; amended Pub. L. 110–234, title XI, § 11001(a)(1), May 22, 2008, 122 Stat. 1350; Pub. L. 110–246, § 4(a), title XI, § 11001(a)(1), June 18, 2008, 122 Stat. 1664, 2112.)
 
 **Editorial Notes**
 
@@ -3709,7 +3709,7 @@ A packer shall not be required to report actions under paragraph (1) more than o
 
 The Livestock Mandatory Reporting Act of 1999, referred to in subsec. (i), is title IX of Pub. L. 106–78, Oct. 22, 1999, 113 Stat. 1188, which is set out as a note under section 1635 of this title.
 
-The Packers and Stockyards Act, 1921, referred to in subsec. (i)(1), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified generally to chapter 9 (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see section 181 of this title and Tables.
+The Packers and Stockyards Act, 1921, referred to in subsec. (i)(1), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified generally to chapter 9 (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see section 181 of this title and Tables.
 
 **Codification**
 
@@ -3717,7 +3717,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (g). Pub. L. 110–246, § 11001(a)(1), amended subsec. (g) generally. Prior to amendment, text read as follows: “The Secretary shall, to the maximum extent practicable, provide for the reporting and publishing of the information required under this subchapter by electronic means.”
+2008—Subsec. (g). Pub. L. 110–246, § 11001(a)(1), amended subsec. (g) generally. Prior to amendment, text read as follows: “The Secretary shall, to the maximum extent practicable, provide for the reporting and publishing of the information required under this subchapter by electronic means.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3727,7 +3727,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Implementation of Enhanced Electronic Publishing**
 
-Pub. L. 110–234, title XI, § 11001(a)(2), May 22, 2008, 122 Stat. 1351, and Pub. L. 110–246, § 4(a), title XI, § 11001(a)(2), June 18, 2008, 122 Stat. 1664, 2112, provided that:
+Pub. L. 110–234, title XI, § 11001(a)(2), May 22, 2008, 122 Stat. 1351, and Pub. L. 110–246, § 4(a), title XI, § 11001(a)(2), June 18, 2008, 122 Stat. 1664, 2112, provided that:
 
 > **“(A) Enhanced reporting.—** The Secretary of Agriculture shall develop and implement the system required under paragraph (2)(A) of section 251(g) of the Agricultural Marketing Act of 1946 (7 U.S.C. 1636(g)), as amended by paragraph (1), not later than one year after the date on which the Secretary determines sufficient funds have been appropriated pursuant to subsection (c) [122 Stat. 2113].
 
@@ -3735,7 +3735,7 @@ Pub. L. 110–234, title XI, § 11001(a)(2), May 22, 2008, 122 Stat. 1351, and
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.]
 
-#### § 1636a. Unlawful acts
+#### § 1636a. Unlawful acts
 
 It shall be unlawful and a violation of this subchapter for any packer or other person subject to this subchapter (in the submission of information required under part B, C, or D of this subchapter, as determined by the Secretary) to willfully—
 
@@ -3747,9 +3747,9 @@ It shall be unlawful and a violation of this subchapter for any packer or other 
 
 **(4)** report estimated information in any report required under this subchapter in a manner that demonstrates a pattern of significant variance in accuracy when compared to the actual information that is reported for the same reporting period, or as determined by any audit, oversight, or other verification procedures of the Secretary.
 
-(Aug. 14, 1946, ch. 966, title II, § 252, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1201.)
+(Aug. 14, 1946, ch. 966, title II, § 252, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1201.)
 
-#### § 1636b. Enforcement
+#### § 1636b. Enforcement
 
 **(a) Civil penalty**
 
@@ -3825,15 +3825,15 @@ If the court determines that the order was lawfully made and duly served and tha
 
 If the court finds that the person violated the cease and desist provisions of the order, the person shall be subject to a civil penalty of not more than $10,000 for each offense.
 
-(Aug. 14, 1946, ch. 966, title II, § 253, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1202.)
+(Aug. 14, 1946, ch. 966, title II, § 253, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1202.)
 
-#### § 1636c. Fees
+#### § 1636c. Fees
 
 The Secretary shall not charge or assess a user fee, transaction fee, service charge, assessment, reimbursement, or any other fee for the submission or reporting of information, for the receipt or availability of, or access to, published reports or information, or for any other activity required under this subchapter.
 
-(Aug. 14, 1946, ch. 966, title II, § 254, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1203.)
+(Aug. 14, 1946, ch. 966, title II, § 254, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1203.)
 
-#### § 1636d. Recordkeeping
+#### § 1636d. Recordkeeping
 
 **(a) In general** Subject to subsection (b), each packer required to report information to the Secretary under this subchapter shall maintain, and make available to the Secretary on request, for 2 years—
 
@@ -3855,15 +3855,15 @@ The Secretary shall not charge or assess a user fee, transaction fee, service ch
 
 **(3)** after 2:00 p.m. Central Time.
 
-(Aug. 14, 1946, ch. 966, title II, § 255, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1203.)
+(Aug. 14, 1946, ch. 966, title II, § 255, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1203.)
 
-#### § 1636e. Voluntary reporting
+#### § 1636e. Voluntary reporting
 
 The Secretary shall encourage voluntary reporting by packers (as defined in section 191 of this title) to which the mandatory reporting requirements of this subchapter do not apply.
 
-(Aug. 14, 1946, ch. 966, title II, § 256, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1204.)
+(Aug. 14, 1946, ch. 966, title II, § 256, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1204.)
 
-#### § 1636f. Publication of information on retail purchase prices for representative meat products
+#### § 1636f. Publication of information on retail purchase prices for representative meat products
 
 **(a) In general**
 
@@ -3909,9 +3909,9 @@ During the period ending 2 years after the initial publication of the report req
 
 **(2)** shall not impose a penalty on a person for failure to provide the information or otherwise compel a person to provide the information.
 
-(Aug. 14, 1946, ch. 966, title II, § 257, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1204.)
+(Aug. 14, 1946, ch. 966, title II, § 257, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1204.)
 
-#### § 1636g. Suspension authority regarding specific terms of price reporting requirements
+#### § 1636g. Suspension authority regarding specific terms of price reporting requirements
 
 **(a) In general**
 
@@ -3927,19 +3927,19 @@ A suspension under subsection (a) shall be for a period of not more than 240 day
 
 If an Act of Congress concerning the requirement that is the subject of the suspension under subsection (a) is not enacted by the end of the period of the suspension established under paragraph (1), the Secretary shall implement the requirement.
 
-(Aug. 14, 1946, ch. 966, title II, § 258, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1205.)
+(Aug. 14, 1946, ch. 966, title II, § 258, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1205.)
 
-#### § 1636h. Federal preemption
+#### § 1636h. Federal preemption
 
 In order to achieve the goals, purposes, and objectives of this chapter on a nationwide basis and to avoid potentially conflicting State laws that could impede the goals, purposes, or objectives of this chapter, no State or political subdivision of a State may impose a requirement that is in addition to, or inconsistent with, any requirement of this subchapter with respect to the submission or reporting of information, or the publication of such information, on the prices and quantities of livestock or livestock products.
 
-(Aug. 14, 1946, ch. 966, title II, § 259, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1205.)
+(Aug. 14, 1946, ch. 966, title II, § 259, as added Pub. L. 106–78, title IX, § 911(2), Oct. 22, 1999, 113 Stat. 1205.)
 
-#### § 1636i. Termination of authority
+#### § 1636i. Termination of authority
 
 The authority provided by this subchapter terminates on September 30, 2026.
 
-(Aug. 14, 1946, ch. 966, title II, § 260, as added Pub. L. 109–296, § 1(a), Oct. 5, 2006, 120 Stat. 1464; amended Pub. L. 111–239, § 2(a)(1), Sept. 27, 2010, 124 Stat. 2501; Pub. L. 114–54, title I, § 101(a), Sept. 30, 2015, 129 Stat. 513; Pub. L. 117–103, div. O, title III, § 301(a), Mar. 15, 2022, 136 Stat. 788; Pub. L. 117–328, div. A, title VII, § 776(a), Dec. 29, 2022, 136 Stat. 4509; Pub. L. 118–42, div. B, title VII, § 793(a), Mar. 9, 2024, 138 Stat. 120; Pub. L. 119–4, div. A, title II, § 1203(a), Mar. 15, 2025, 139 Stat. 16; Pub. L. 119–37, div. B, title VII, § 774(a), Nov. 12, 2025, 139 Stat. 557.)
+(Aug. 14, 1946, ch. 966, title II, § 260, as added Pub. L. 109–296, § 1(a), Oct. 5, 2006, 120 Stat. 1464; amended Pub. L. 111–239, § 2(a)(1), Sept. 27, 2010, 124 Stat. 2501; Pub. L. 114–54, title I, § 101(a), Sept. 30, 2015, 129 Stat. 513; Pub. L. 117–103, div. O, title III, § 301(a), Mar. 15, 2022, 136 Stat. 788; Pub. L. 117–328, div. A, title VII, § 776(a), Dec. 29, 2022, 136 Stat. 4509; Pub. L. 118–42, div. B, title VII, § 793(a), Mar. 9, 2024, 138 Stat. 120; Pub. L. 119–4, div. A, title II, § 1203(a), Mar. 15, 2025, 139 Stat. 16; Pub. L. 119–37, div. B, title VII, § 774(a), Nov. 12, 2025, 139 Stat. 557.)
 
 **Editorial Notes**
 
@@ -3963,13 +3963,13 @@ Pub. L. 117–103 substituted “2022” for “2020”.
 
 **Mandatory Livestock Reporting Extension**
 
-Pub. L. 118–83, div. A, §§ 106(3), 120, Sept. 26, 2024, 138 Stat. 1526, 1528, as amended by Pub. L. 118–158, div. A, § 101(1), Dec. 21, 2024, 138 Stat. 1723, extended the termination date for authority provided by this subchapter from September 30, 2024, to Mar. 14, 2025.
+Pub. L. 118–83, div. A, §§ 106(3), 120, Sept. 26, 2024, 138 Stat. 1526, 1528, as amended by Pub. L. 118–158, div. A, § 101(1), Dec. 21, 2024, 138 Stat. 1723, extended the termination date for authority provided by this subchapter from September 30, 2024, to Mar. 14, 2025.
 
-Pub. L. 116–260, div. O, title IV, § 401, Dec. 27, 2020, 134 Stat. 2149, extended the termination date for authority provided by this subchapter from September 30, 2020, to September 30, 2021.
+Pub. L. 116–260, div. O, title IV, § 401, Dec. 27, 2020, 134 Stat. 2149, extended the termination date for authority provided by this subchapter from September 30, 2020, to September 30, 2021.
 
 ## SUBCHAPTER III—DAIRY PRODUCT MANDATORY REPORTING
 
-### § 1637. Purpose
+### § 1637. Purpose
 
 The purpose of this subchapter is to establish a program of information regarding the marketing of dairy products that—
 
@@ -3979,9 +3979,9 @@ The purpose of this subchapter is to establish a program of information regardin
 
 **(3)** encourages competition in the marketplace for dairy products.
 
-(Aug. 14, 1946, ch. 966, title II, § 271, as added Pub. L. 106–532, § 2, Nov. 22, 2000, 114 Stat. 2541.)
+(Aug. 14, 1946, ch. 966, title II, § 271, as added Pub. L. 106–532, § 2, Nov. 22, 2000, 114 Stat. 2541.)
 
-### § 1637a. Definitions
+### § 1637a. Definitions
 
 In this subchapter:
 
@@ -3999,15 +3999,15 @@ The term “manufacturer” means any person engaged in the business of buying m
 
 The term “Secretary” means the Secretary of Agriculture.
 
-(Aug. 14, 1946, ch. 966, title II, § 272, as added Pub. L. 106–532, § 2, Nov. 22, 2000, 114 Stat. 2541; amended Pub. L. 107–171, title I, § 1504, May 13, 2002, 116 Stat. 207.)
+(Aug. 14, 1946, ch. 966, title II, § 272, as added Pub. L. 106–532, § 2, Nov. 22, 2000, 114 Stat. 2541; amended Pub. L. 107–171, title I, § 1504, May 13, 2002, 116 Stat. 207.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Par. (1). Pub. L. 107–171 inserted hyphen after “means”, designated remainder of existing provisions as subpar. (A), substituted “; and” for period at end, and added subpar. (B).
+2002—Par. (1). Pub. L. 107–171 inserted hyphen after “means”, designated remainder of existing provisions as subpar. (A), substituted “; and” for period at end, and added subpar. (B).
 
-### § 1637b. Mandatory reporting for dairy products
+### § 1637b. Mandatory reporting for dairy products
 
 **(a) Establishment** The Secretary shall establish a program of mandatory dairy product information reporting that will—
 
@@ -4125,7 +4125,7 @@ Not later than 3:00 p.m. Eastern Time on the Wednesday of each week, the Secreta
 
 There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-(Aug. 14, 1946, ch. 966, title II, § 273, as added Pub. L. 106–532, § 2, Nov. 22, 2000, 114 Stat. 2542; amended Pub. L. 110–234, title I, § 1510, May 22, 2008, 122 Stat. 999; Pub. L. 110–246, § 4(a), title I, § 1510, June 18, 2008, 122 Stat. 1664, 1728; Pub. L. 111–239, § 3(a), Sept. 27, 2010, 124 Stat. 2502.)
+(Aug. 14, 1946, ch. 966, title II, § 273, as added Pub. L. 106–532, § 2, Nov. 22, 2000, 114 Stat. 2542; amended Pub. L. 110–234, title I, § 1510, May 22, 2008, 122 Stat. 999; Pub. L. 110–246, § 4(a), title I, § 1510, June 18, 2008, 122 Stat. 1664, 1728; Pub. L. 111–239, § 3(a), Sept. 27, 2010, 124 Stat. 2502.)
 
 **Editorial Notes**
 
@@ -4143,9 +4143,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 “(3) Authorization of appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this subsection.”
 
-2008—Subsec. (c)(3). Pub. L. 110–246, § 1510(b), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The Secretary shall take such actions as the Secretary considers necessary to verify the accuracy of the information submitted or reported under this subchapter.”
+2008—Subsec. (c)(3). Pub. L. 110–246, § 1510(b), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The Secretary shall take such actions as the Secretary considers necessary to verify the accuracy of the information submitted or reported under this subchapter.”
 
-Subsecs. (d), (e). Pub. L. 110–246, § 1510(a), added subsec. (d) and redesignated former subsec. (d) as (e).
+Subsecs. (d), (e). Pub. L. 110–246, § 1510(a), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4155,11 +4155,11 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Implementation of Electronic Reporting System**
 
-Pub. L. 111–239, § 3(b), Sept. 27, 2010, 124 Stat. 2502, provided that: “Not later than one year after the date of enactment of this Act [Sept. 27, 2010], the Secretary of Agriculture shall implement the electronic reporting system required by subsection (d) of section 273 of the Agricultural Marketing Act of 1946 (7 U.S.C. 1637b), as amended by subsection (a). Until the electronic reporting system is implemented, the Secretary shall continue to conduct mandatory dairy product information reporting under the authority of such section, as in effect on the day before the date of enactment of this Act.”
+Pub. L. 111–239, § 3(b), Sept. 27, 2010, 124 Stat. 2502, provided that: “Not later than one year after the date of enactment of this Act [Sept. 27, 2010], the Secretary of Agriculture shall implement the electronic reporting system required by subsection (d) of section 273 of the Agricultural Marketing Act of 1946 (7 U.S.C. 1637b), as amended by subsection (a). Until the electronic reporting system is implemented, the Secretary shall continue to conduct mandatory dairy product information reporting under the authority of such section, as in effect on the day before the date of enactment of this Act.”
 
 ## SUBCHAPTER IV—COUNTRY OF ORIGIN LABELING
 
-### § 1638. Definitions
+### § 1638. Definitions
 
 In this subchapter:
 
@@ -4177,9 +4177,9 @@ In this subchapter:
 
 **(v)** a perishable agricultural commodity;
 
-**(vi)** peanuts; and 1
+**(vi)** peanuts; and 1
 
-<sup>1</sup>  So in original. The word “and” probably should not appear.
+<sup>1</sup> So in original. The word “and” probably should not appear.
 
 **(vii)** meat produced from goats;
 
@@ -4231,7 +4231,7 @@ The term “wild fish” includes a fillet, steak, nugget, and any other flesh f
 
 The term “wild fish” excludes net-pen aquacultural or other farm-raised fish.
 
-(Aug. 14, 1946, ch. 966, title II, § 281, as added Pub. L. 107–171, title X, § 10816, May 13, 2002, 116 Stat. 533; amended Pub. L. 110–234, title XI, § 11002(1), May 22, 2008, 112 Stat. 1351; Pub. L. 110–246, § 4(a), title XI, § 11002(1), June 18, 2008, 122 Stat. 1664, 2113; Pub. L. 113–79, title XII, § 12104(b)(1), Feb. 7, 2014, 128 Stat. 979; Pub. L. 114–113, div. A, title VII, § 759(a), Dec. 18, 2015, 129 Stat. 2284.)
+(Aug. 14, 1946, ch. 966, title II, § 281, as added Pub. L. 107–171, title X, § 10816, May 13, 2002, 116 Stat. 533; amended Pub. L. 110–234, title XI, § 11002(1), May 22, 2008, 112 Stat. 1351; Pub. L. 110–246, § 4(a), title XI, § 11002(1), June 18, 2008, 122 Stat. 1664, 2113; Pub. L. 113–79, title XII, § 12104(b)(1), Feb. 7, 2014, 128 Stat. 979; Pub. L. 114–113, div. A, title VII, § 759(a), Dec. 18, 2015, 129 Stat. 2284.)
 
 **Editorial Notes**
 
@@ -4243,11 +4243,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2015—Pub. L. 114–113 redesignated pars. (2), (3), (4), (5), (6), (8), and (9) as pars. (1), (2), (3), (4), (5), (6), and (7), respectively, in par. (1)(A)(i) struck out references to beef and pork, in par. (1)(A)(ii) struck out references to ground beef and ground pork, and struck out former pars. (1) and (7), which defined “beef” and “pork”, respectively .
 
-2014—Par. (2)(A)(i). Pub. L. 113–79, § 12104(b)(1)(A), substituted “pork, and venison” for “and pork”.
+2014—Par. (2)(A)(i). Pub. L. 113–79, § 12104(b)(1)(A), substituted “pork, and venison” for “and pork”.
 
-Par. (2)(A)(ii). Pub. L. 113–79, § 12104(b)(1)(B), substituted “ground pork, and ground venison” for “and ground pork”.
+Par. (2)(A)(ii). Pub. L. 113–79, § 12104(b)(1)(B), substituted “ground pork, and ground venison” for “and ground pork”.
 
-2008—Par. (2)(A)(vii) to (xi). Pub. L. 110–246, § 11002(1), added cls. (vii) to (xi).
+2008—Par. (2)(A)(vii) to (xi). Pub. L. 110–246, § 11002(1), added cls. (vii) to (xi).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4255,7 +4255,7 @@ Par. (2)(A)(ii). Pub. L. 113–79, § 12104(b)(1)(B), substituted “ground po
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 1638a. Notice of country of origin
+### § 1638a. Notice of country of origin
 
 **(a) In general**
 
@@ -4385,7 +4385,7 @@ The Secretary shall not use a mandatory identification system to verify the coun
 
 **(C)** the origin verification system established to carry out the market access program under section 5623(b) of this title.
 
-(Aug. 14, 1946, ch. 966, title II, § 282, as added Pub. L. 107–171, title X, § 10816, May 13, 2002, 116 Stat. 533; amended Pub. L. 107–206, title I, § 208, Aug. 2, 2002, 116 Stat. 833; Pub. L. 110–234, title XI, § 11002(2), May 22, 2008, 122 Stat. 1352; Pub. L. 110–246, § 4(a), title XI, § 11002(2), June 18, 2008, 122 Stat. 1664, 2113; Pub. L. 113–79, title XII, § 12104(b)(2), Feb. 7, 2014, 128 Stat. 979; Pub. L. 114–113, div. A, title VII, § 759(b), Dec. 18, 2015, 129 Stat. 2285; Pub. L. 115–334, title III, § 3201(b)(1)(C), Dec. 20, 2018, 132 Stat. 4616.)
+(Aug. 14, 1946, ch. 966, title II, § 282, as added Pub. L. 107–171, title X, § 10816, May 13, 2002, 116 Stat. 533; amended Pub. L. 107–206, title I, § 208, Aug. 2, 2002, 116 Stat. 833; Pub. L. 110–234, title XI, § 11002(2), May 22, 2008, 122 Stat. 1352; Pub. L. 110–246, § 4(a), title XI, § 11002(2), June 18, 2008, 122 Stat. 1664, 2113; Pub. L. 113–79, title XII, § 12104(b)(2), Feb. 7, 2014, 128 Stat. 979; Pub. L. 114–113, div. A, title VII, § 759(b), Dec. 18, 2015, 129 Stat. 2285; Pub. L. 115–334, title III, § 3201(b)(1)(C), Dec. 20, 2018, 132 Stat. 4616.)
 
 **Editorial Notes**
 
@@ -4403,27 +4403,27 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2018—Subsec. (f)(2)(C). Pub. L. 115–334 substituted “section 5623(b)” for “section 5623”.
 
-2015—Subsec. (a)(2). Pub. L. 114–113, § 759(b)(1)(A), in heading, struck out “beef,” before “lamb,” and “pork,” before “chicken,”.
+2015—Subsec. (a)(2). Pub. L. 114–113, § 759(b)(1)(A), in heading, struck out “beef,” before “lamb,” and “pork,” before “chicken,”.
 
-Subsec. (a)(2)(A) to (D). Pub. L. 114–113, § 759(b)(1)(B), struck out “beef,” and “pork,” wherever appearing.
+Subsec. (a)(2)(A) to (D). Pub. L. 114–113, § 759(b)(1)(B), struck out “beef,” and “pork,” wherever appearing.
 
-Subsec. (a)(2)(E). Pub. L. 114–113, § 759(b)(1)(C), in heading, struck out “beef, pork,” after “Ground” and, in text, struck out “ground beef, ground pork,” wherever appearing.
+Subsec. (a)(2)(E). Pub. L. 114–113, § 759(b)(1)(C), in heading, struck out “beef, pork,” after “Ground” and, in text, struck out “ground beef, ground pork,” wherever appearing.
 
-Subsec. (f)(2)(B) to (E). Pub. L. 114–113, § 759(b)(2), redesignated subpars. (D) and (E) as (B) and (C), respectively, and struck out former subpars. (B) and (C), which read as follows:
+Subsec. (f)(2)(B) to (E). Pub. L. 114–113, § 759(b)(2), redesignated subpars. (D) and (E) as (B) and (C), respectively, and struck out former subpars. (B) and (C), which read as follows:
 
 “(B) the voluntary country of origin beef labeling system carried out under this Act;
 
 “(C) voluntary programs established to certify certain premium beef cuts;”.
 
-2014—Subsec. (a)(2). Pub. L. 113–79, § 12104(b)(2)(A), substituted “goat, and venison” for “and goat” in heading.
+2014—Subsec. (a)(2). Pub. L. 113–79, § 12104(b)(2)(A), substituted “goat, and venison” for “and goat” in heading.
 
-Subsec. (a)(2)(A), (B)(i), (C), (D). Pub. L. 113–79, § 12104(b)(2)(B), substituted “goat, or venison” for “or goat”.
+Subsec. (a)(2)(A), (B)(i), (C), (D). Pub. L. 113–79, § 12104(b)(2)(B), substituted “goat, or venison” for “or goat”.
 
-Subsec. (a)(2)(E). Pub. L. 113–79, § 12104(b)(2)(C), substituted “goat, and venison” for “and goat” in heading and “ground goat, or ground venison” for “or ground goat” wherever appearing in text.
+Subsec. (a)(2)(E). Pub. L. 113–79, § 12104(b)(2)(C), substituted “goat, and venison” for “and goat” in heading and “ground goat, or ground venison” for “or ground goat” wherever appearing in text.
 
-2008—Subsec. (a)(2) to (4). Pub. L. 110–246, § 11002(2)(A), added pars. (2) to (4) and struck out former pars. (2) and (3) which related to designation of United States as country of origin for beef, lamb, pork, fish, perishable agricultural commodities, and peanuts, and requirement that notice of country of origin for fish shall distinguish between wild and farm-raised fish.
+2008—Subsec. (a)(2) to (4). Pub. L. 110–246, § 11002(2)(A), added pars. (2) to (4) and struck out former pars. (2) and (3) which related to designation of United States as country of origin for beef, lamb, pork, fish, perishable agricultural commodities, and peanuts, and requirement that notice of country of origin for fish shall distinguish between wild and farm-raised fish.
 
-Subsec. (d). Pub. L. 110–246, § 11002(2)(B), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Secretary may require that any person that prepares, stores, handles, or distributes a covered commodity for retail sale maintain a verifiable recordkeeping audit trail that will permit the Secretary to verify compliance with this subchapter (including the regulations promulgated under section 1638c(b) of this title).”
+Subsec. (d). Pub. L. 110–246, § 11002(2)(B), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Secretary may require that any person that prepares, stores, handles, or distributes a covered commodity for retail sale maintain a verifiable recordkeeping audit trail that will permit the Secretary to verify compliance with this subchapter (including the regulations promulgated under section 1638c(b) of this title).”
 
 2002—Subsec. (a)(2)(D). Pub. L. 107–206 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “in the case of wild fish, is—
 
@@ -4437,17 +4437,17 @@ Subsec. (d). Pub. L. 110–246, § 11002(2)(B), added subsec. (d) and struck o
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 1638b. Enforcement
+### § 1638b. Enforcement
 
 **(a) Warnings** If the Secretary determines that a retailer or person engaged in the business of supplying a covered commodity to a retailer is in violation of section 1638a of this title, the Secretary shall—
 
-**(1)** notify the retailer 1
+**(1)** notify the retailer 1
 
-<sup>1</sup>  So in original. Probably should be “retailer or person”.
+<sup>1</sup> So in original. Probably should be “retailer or person”.
 
 of the determination of the Secretary; and
 
-**(2)** provide the retailer <sup>1</sup> a 30-day period, beginning on the date on which the retailer <sup>1</sup> receives the notice under paragraph (1) from the Secretary, during which the retailer <sup>1</sup> may take necessary steps to comply with section 1638a of this title.
+**(2)** provide the retailer <sup>1</sup> a 30-day period, beginning on the date on which the retailer <sup>1</sup> receives the notice under paragraph (1) from the Secretary, during which the retailer <sup>1</sup> may take necessary steps to comply with section 1638a of this title.
 
 **(b) Fines** If, on completion of the 30-day period described in subsection (a)(2), the Secretary determines that the retailer or person engaged in the business of supplying a covered commodity to a retailer has—
 
@@ -4457,7 +4457,7 @@ of the determination of the Secretary; and
 
 after providing notice and an opportunity for a hearing before the Secretary with respect to the violation, the Secretary may fine the retailer or person in an amount of not more than $1,000 for each violation.
 
-(Aug. 14, 1946, ch. 966, title II, § 283, as added Pub. L. 107–171, title X, § 10816, May 13, 2002, 116 Stat. 535; amended Pub. L. 110–234, title XI, § 11002(3), May 22, 2008, 122 Stat. 1354; Pub. L. 110–246, § 4(a), title XI, § 11002(3), June 18, 2008, 122 Stat. 1664, 2116.)
+(Aug. 14, 1946, ch. 966, title II, § 283, as added Pub. L. 107–171, title X, § 10816, May 13, 2002, 116 Stat. 535; amended Pub. L. 110–234, title XI, § 11002(3), May 22, 2008, 122 Stat. 1354; Pub. L. 110–246, § 4(a), title XI, § 11002(3), June 18, 2008, 122 Stat. 1664, 2116.)
 
 **Editorial Notes**
 
@@ -4467,7 +4467,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Pub. L. 110–246, § 11002(3), redesignated subsec. (b) as (a) and substituted “retailer or person engaged in the business of supplying a covered commodity to a retailer” for “retailer” in introductory provisions, added subsec. (b), and struck out former subsecs. (a) and (c) which related to applicability of section 1636b of this title to a violation of this subchapter and fine for violation of section 1638a of this title. The substitution in subsec. (a) was made for “retailer” the first time appearing to reflect the probable intent of Congress.
+2008—Pub. L. 110–246, § 11002(3), redesignated subsec. (b) as (a) and substituted “retailer or person engaged in the business of supplying a covered commodity to a retailer” for “retailer” in introductory provisions, added subsec. (b), and struck out former subsecs. (a) and (c) which related to applicability of section 1636b of this title to a violation of this subchapter and fine for violation of section 1638a of this title. The substitution in subsec. (a) was made for “retailer” the first time appearing to reflect the probable intent of Congress.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4475,7 +4475,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 1638c. Regulations
+### § 1638c. Regulations
 
 **(a) Guidelines**
 
@@ -4489,13 +4489,13 @@ Not later than September 30, 2004, the Secretary shall promulgate such regulatio
 
 In promulgating the regulations, the Secretary shall, to the maximum extent practicable, enter into partnerships with States with enforcement infrastructure to assist in the administration of this subchapter.
 
-(Aug. 14, 1946, ch. 966, title II, § 284, as added Pub. L. 107–171, title X, § 10816, May 13, 2002, 116 Stat. 535.)
+(Aug. 14, 1946, ch. 966, title II, § 284, as added Pub. L. 107–171, title X, § 10816, May 13, 2002, 116 Stat. 535.)
 
-### § 1638d. Applicability
+### § 1638d. Applicability
 
 This subchapter shall apply to the retail sale of a covered commodity beginning September 30, 2008, except for “farm-raised fish” and “wild fish” which shall be September 30, 2004.
 
-(Aug. 14, 1946, ch. 966, title II, § 285, as added Pub. L. 107–171, title X, § 10816, May 13, 2002, 116 Stat. 535; amended Pub. L. 108–199, div. A, title VII, § 749, Jan. 23, 2004, 118 Stat. 37; Pub. L. 109–97, title VII, § 792, Nov. 10, 2005, 119 Stat. 2164.)
+(Aug. 14, 1946, ch. 966, title II, § 285, as added Pub. L. 107–171, title X, § 10816, May 13, 2002, 116 Stat. 535; amended Pub. L. 108–199, div. A, title VII, § 749, Jan. 23, 2004, 118 Stat. 37; Pub. L. 109–97, title VII, § 792, Nov. 10, 2005, 119 Stat. 2164.)
 
 **Editorial Notes**
 
@@ -4507,7 +4507,7 @@ This subchapter shall apply to the retail sale of a covered commodity beginning 
 
 ## SUBCHAPTER V—NATIONAL BIOENGINEERED FOOD DISCLOSURE STANDARD
 
-### § 1639. Definitions
+### § 1639. Definitions
 
 In this subchapter:
 
@@ -4525,9 +4525,9 @@ The term “food” means a food (as defined in section 321 of title 21) that is
 
 The term “Secretary” means the Secretary of Agriculture.
 
-(Aug. 14, 1946, ch. 966, title II, § 291, as added Pub. L. 114–216, § 1, July 29, 2016, 130 Stat. 834.)
+(Aug. 14, 1946, ch. 966, title II, § 291, as added Pub. L. 114–216, § 1, July 29, 2016, 130 Stat. 834.)
 
-### § 1639a. Applicability
+### § 1639a. Applicability
 
 **(a) In general**
 
@@ -4551,21 +4551,21 @@ The definition of the term “bioengineering” under section 1639 of this title
 
 **(ii)** the second-most predominant ingredient of the food would independently be subject to the labeling requirements under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.).
 
-(Aug. 14, 1946, ch. 966, title II, § 292, as added Pub. L. 114–216, § 1, July 29, 2016, 130 Stat. 834.)
+(Aug. 14, 1946, ch. 966, title II, § 292, as added Pub. L. 114–216, § 1, July 29, 2016, 130 Stat. 834.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(1), (2)(A), (B)(ii), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(1), (2)(A), (B)(ii), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-The Federal Meat Inspection Act, referred to in subsec. (c)(2), is titles I to IV of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, which are classified generally to subchapters I to IV (§ 601 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 21 and Tables.
+The Federal Meat Inspection Act, referred to in subsec. (c)(2), is titles I to IV of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, which are classified generally to subchapters I to IV (§ 601 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 21 and Tables.
 
-The Poultry Products Inspection Act, referred to in subsec. (c)(2), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, which is classified generally to chapter 10 (§ 451 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 451 of Title 21 and Tables.
+The Poultry Products Inspection Act, referred to in subsec. (c)(2), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, which is classified generally to chapter 10 (§ 451 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 451 of Title 21 and Tables.
 
-The Egg Products Inspection Act, referred to in subsec. (c)(2), is Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to chapter 15 (§ 1031 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of Title 21 and Tables.
+The Egg Products Inspection Act, referred to in subsec. (c)(2), is Pub. L. 91–597, Dec. 29, 1970, 84 Stat. 1620, which is classified principally to chapter 15 (§ 1031 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 1031 of Title 21 and Tables.
 
-### § 1639b. Establishment of national bioengineered food disclosure standard
+### § 1639b. Establishment of national bioengineered food disclosure standard
 
 **(a) Establishment of mandatory standard** Not later than 2 years after July 29, 2016, the Secretary shall—
 
@@ -4695,15 +4695,15 @@ After the notice and opportunity for a hearing under subparagraph (B), the Secre
 
 The Secretary shall have no authority to recall any food subject to this subchapter on the basis of whether the food bears a disclosure that the food is bioengineered.
 
-(Aug. 14, 1946, ch. 966, title II, § 293, as added Pub. L. 114–216, § 1, July 29, 2016, 130 Stat. 835.)
+(Aug. 14, 1946, ch. 966, title II, § 293, as added Pub. L. 114–216, § 1, July 29, 2016, 130 Stat. 835.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Organic Foods Production Act of 1990, referred to in subsec. (f)(2), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§ 6501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
+The Organic Foods Production Act of 1990, referred to in subsec. (f)(2), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§ 6501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
 
-### § 1639c. Savings provisions
+### § 1639c. Savings provisions
 
 **(a) Trade**
 
@@ -4719,19 +4719,19 @@ This subchapter shall be applied in a manner consistent with United States oblig
 
 A food may not be considered to be “not bioengineered”, “non-GMO”, or any other similar claim describing the absence of bioengineering in the food solely because the food is not required to bear a disclosure that the food is bioengineered under this subchapter.
 
-(Aug. 14, 1946, ch. 966, title II, § 294, as added Pub. L. 114–216, § 1, July 29, 2016, 130 Stat. 838.)
+(Aug. 14, 1946, ch. 966, title II, § 294, as added Pub. L. 114–216, § 1, July 29, 2016, 130 Stat. 838.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-The Federal Alcohol Administration Act, referred to in subsec. (b)(2), is act Aug. 29, 1935, ch. 814, 49 Stat. 977, which is classified generally to subchapter I (§ 201 et seq.) of chapter 8 of Title 27, Intoxicating Liquors. For complete classification of this Act to the Code, see section 201 of Title 27 and Tables.
+The Federal Alcohol Administration Act, referred to in subsec. (b)(2), is act Aug. 29, 1935, ch. 814, 49 Stat. 977, which is classified generally to subchapter I (§ 201 et seq.) of chapter 8 of Title 27, Intoxicating Liquors. For complete classification of this Act to the Code, see section 201 of Title 27 and Tables.
 
 ## SUBCHAPTER VI—LABELING OF CERTAIN FOOD
 
-### § 1639i. Federal preemption
+### § 1639i. Federal preemption
 
 **(a) Definition of food**
 
@@ -4741,17 +4741,17 @@ In this subchapter, the term “food” has the meaning given the term in sectio
 
 No State or a political subdivision of a State may directly or indirectly establish under any authority or continue in effect as to any food or seed in interstate commerce any requirement relating to the labeling of whether a food (including food served in a restaurant or similar establishment) or seed is genetically engineered (which shall include such other similar terms as determined by the Secretary of Agriculture) or was developed or produced using genetic engineering, including any requirement for claims that a food or seed is or contains an ingredient that was developed or produced using genetic engineering.
 
-(Aug. 14, 1946, ch. 966, title II, § 295, as added Pub. L. 114–216, § 1, July 29, 2016, 130 Stat. 838.)
+(Aug. 14, 1946, ch. 966, title II, § 295, as added Pub. L. 114–216, § 1, July 29, 2016, 130 Stat. 838.)
 
-### § 1639j. Exclusion from Federal preemption
+### § 1639j. Exclusion from Federal preemption
 
 Nothing in this subchapter, subchapter V, or any regulation, rule, or requirement promulgated in accordance with this subchapter or subchapter V shall be construed to preempt any remedy created by a State or Federal statutory or common law right.
 
-(Aug. 14, 1946, ch. 966, title II, § 296, as added Pub. L. 114–216, § 1, July 29, 2016, 130 Stat. 838.)
+(Aug. 14, 1946, ch. 966, title II, § 296, as added Pub. L. 114–216, § 1, July 29, 2016, 130 Stat. 838.)
 
 ## SUBCHAPTER VII—HEMP PRODUCTION
 
-### § 1639o. Definitions
+### § 1639o. Definitions
 
 In this subchapter:
 
@@ -4785,11 +4785,11 @@ The term “State department of agriculture” means the agency, commission, or 
 
 The term “Tribal government” means the governing body of an Indian tribe.
 
-(Aug. 14, 1946, ch. 966, title II, § 297A, as added Pub. L. 115–334, title X, § 10113, Dec. 20, 2018, 132 Stat. 4908; amended Pub. L. 119–37, div. B, title VII, § 781(1), (2), Nov. 12, 2025, 139 Stat. 558.)
+(Aug. 14, 1946, ch. 966, title II, § 297A, as added Pub. L. 115–334, title X, § 10113, Dec. 20, 2018, 132 Stat. 4908; amended Pub. L. 119–37, div. B, title VII, § 781(1), (2), Nov. 12, 2025, 139 Stat. 558.)
 
 **Amendment of Section**
 
-Pub. L. 119–37, div. B, title VII, § 781(1), (2), Nov. 12, 2025, 139 Stat. 558, provided that, effective 365 days after the enactment of Pub. L. 119–37 (approved Nov. 12, 2025), this section is amended by redesignating paragraphs (2) through (6) as (4) through (8), respectively and by striking paragraph (1) and inserting the following:
+Pub. L. 119–37, div. B, title VII, § 781(1), (2), Nov. 12, 2025, 139 Stat. 558, provided that, effective 365 days after the enactment of Pub. L. 119–37 (approved Nov. 12, 2025), this section is amended by redesignating paragraphs (2) through (6) as (4) through (8), respectively and by striking paragraph (1) and inserting the following:
 
 *(1) Hemp*
 
@@ -4887,11 +4887,11 @@ See 2025 Amendment notes below.
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 119–37, div. B, title VII, § 781, Nov. 12, 2025, 139 Stat. 558, provided in part that the amendment made by section 781(1) and (2) is effective 365 days after the enactment of Pub. L. 119–37, which was approved Nov. 12, 2025.
+Pub. L. 119–37, div. B, title VII, § 781, Nov. 12, 2025, 139 Stat. 558, provided in part that the amendment made by section 781(1) and (2) is effective 365 days after the enactment of Pub. L. 119–37, which was approved Nov. 12, 2025.
 
 **Publication of Lists of Information Concerning Cannabinoids**
 
-Pub. L. 119–37, div. B, title VII, § 781(3), Nov. 12, 2025, 139 Stat. 560, provided that:
+Pub. L. 119–37, div. B, title VII, § 781(3), Nov. 12, 2025, 139 Stat. 560, provided that:
 
 > “Within 90 days of the enactment of this act [Nov. 12, 2025], the Food and Drug Administration, in consultation with other relevant Federal agencies, shall publish—
 
@@ -4905,13 +4905,13 @@ Pub. L. 119–37, div. B, title VII, § 781(3), Nov. 12, 2025, 139 Stat. 560, 
 
 **Interstate Commerce**
 
-Pub. L. 115–334, title X, § 10114, Dec. 20, 2018, 132 Stat. 4914, provided that:
+Pub. L. 115–334, title X, § 10114, Dec. 20, 2018, 132 Stat. 4914, provided that:
 
 > **“(a) Rule of Construction.—** Nothing in this title [enacting this subchapter and sections 1627c and 6521a of this title, amending sections 136a, 1622b, 1632a, 1632b, 2204h, 2207b, 2276, 2401, 2402, 2541, 2568, 3003, 5925c, 6502, 6514, 6515, 6518, 6519, 6521–6523, and 7655a of this title and section 714i of Title 15, Commerce and Trade, repealing sections 3005 and 3006 of this title, enacting provisions set out as notes under sections 1627c, 1639*o*, 6503, and 6521a of this title, and amending provisions set out as a note under section 1621 of this title] or an amendment made by this title prohibits the interstate commerce of hemp (as defined in section 297A of the Agricultural Marketing Act of 1946 [7 U.S.C. 1639*o*] (as added by section 10113)) or hemp products.
 
 > **“(b) Transportation of Hemp and Hemp Products.—** No State or Indian Tribe shall prohibit the transportation or shipment of hemp or hemp products produced in accordance with subtitle G of the Agricultural Marketing Act of 1946 [7 U.S.C. 1639*o* et seq.] (as added by section 10113) through the State or the territory of the Indian Tribe, as applicable.”
 
-### § 1639p. State and tribal plans
+### § 1639p. State and tribal plans
 
 **(a) Submission**
 
@@ -5051,9 +5051,9 @@ Any person who materially falsifies any information contained in an application 
 
 **(2)** if the production of hemp is not otherwise prohibited by the State or Indian tribe.
 
-(Aug. 14, 1946, ch. 966, title II, § 297B, as added Pub. L. 115–334, title X, § 10113, Dec. 20, 2018, 132 Stat. 4909.)
+(Aug. 14, 1946, ch. 966, title II, § 297B, as added Pub. L. 115–334, title X, § 10113, Dec. 20, 2018, 132 Stat. 4909.)
 
-### § 1639q. Department of Agriculture
+### § 1639q. Department of Agriculture
 
 **(a) Department of Agriculture plan**
 
@@ -5125,9 +5125,9 @@ In the case of a State or Indian tribe covered by paragraph (1), the Secretary s
 
 **(ii)** any changes to the status.
 
-(Aug. 14, 1946, ch. 966, title II, § 297C, as added Pub. L. 115–334, title X, § 10113, Dec. 20, 2018, 132 Stat. 4912.)
+(Aug. 14, 1946, ch. 966, title II, § 297C, as added Pub. L. 115–334, title X, § 10113, Dec. 20, 2018, 132 Stat. 4912.)
 
-### § 1639r. Regulations and guidelines; effect on other law
+### § 1639r. Regulations and guidelines; effect on other law
 
 **(a) Promulgation of regulations and guidelines; report**
 
@@ -5165,16 +5165,16 @@ Subject to subsection (c)(3)(B), the Secretary shall have sole authority to prom
 
 **(B)** to promulgate Federal regulations and guidelines that relate to the production of hemp under the Act described in subparagraph (A)(i) or the section described in subparagraph (A)(ii).
 
-(Aug. 14, 1946, ch. 966, title II, § 297D, as added Pub. L. 115–334, title X, § 10113, Dec. 20, 2018, 132 Stat. 4913.)
+(Aug. 14, 1946, ch. 966, title II, § 297D, as added Pub. L. 115–334, title X, § 10113, Dec. 20, 2018, 132 Stat. 4913.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(1), (3)(A)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(1), (3)(A)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-### § 1639s. Authorization of appropriations
+### § 1639s. Authorization of appropriations
 
 There are authorized to be appropriated such sums as are necessary to carry out this subchapter.
 
-(Aug. 14, 1946, ch. 966, title II, § 297E, as added Pub. L. 115–334, title X, § 10113, Dec. 20, 2018, 132 Stat. 4914.)
+(Aug. 14, 1946, ch. 966, title II, § 297E, as added Pub. L. 115–334, title X, § 10113, Dec. 20, 2018, 132 Stat. 4914.)

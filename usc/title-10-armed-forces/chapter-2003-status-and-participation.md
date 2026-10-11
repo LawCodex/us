@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title V, § 501(c), Dec. 18, 2025, 139 Stat. 854, added item 20110. Amendment was made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title V, § 501(c), Dec. 18, 2025, 139 Stat. 854, added item 20110. Amendment was made pursuant to operation of section 102 of this title.
 
-## § 20101. Members in Space Force active status: amount of annual training or active duty service required
+## § 20101. Members in Space Force active status: amount of annual training or active duty service required
 
 Except as specifically provided in regulations prescribed by the Secretary of Defense, a member of the Space Force in a space force active status who is not serving on sustained duty shall be required to—
 
@@ -29,9 +29,9 @@ Except as specifically provided in regulations prescribed by the Secretary of De
 
 **(2)** serve on active duty for training for not more than 30 days during each year.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1715, Dec. 22, 2023, 137 Stat. 627.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1715, Dec. 22, 2023, 137 Stat. 627.)
 
-## § 20102. Individual ready guardians: designation; mobilization category
+## § 20102. Individual ready guardians: designation; mobilization category
 
 **(a) In General.—** Under regulations prescribed by the Secretary of Defense, the Secretary of the Air Force may designate a member of the Space Force in a space force active status as an Individual Ready Guardian.
 
@@ -51,9 +51,9 @@ Except as specifically provided in regulations prescribed by the Secretary of De
 
 **(5) Benefits.—** A member in such mobilization category shall be eligible for benefits (other than pay and training) on the same basis as are available to members of the Individual Ready Reserve who are in the special mobilization category under section 10144(b) of this title, as determined by the Secretary of Defense.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1715, Dec. 22, 2023, 137 Stat. 627.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1715, Dec. 22, 2023, 137 Stat. 627.)
 
-## § 20103. Members not on sustained duty: agreements concerning conditions of service
+## § 20103. Members not on sustained duty: agreements concerning conditions of service
 
 **(a) Agreements.—** The Secretary of the Air Force may enter into a written agreement with a member of the Space Force not on sustained duty—
 
@@ -73,9 +73,9 @@ Except as specifically provided in regulations prescribed by the Secretary of De
 
 **(c) Authority for Retention on Active Duty During War or National Emergency.—** If the period of service on active duty of a member under an agreement under subsection (a) expires during a war or during a national emergency declared by Congress or the President, the member concerned may be kept on active duty, without the consent of the member, as otherwise prescribed by law.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1715, Dec. 22, 2023, 137 Stat. 628.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1715, Dec. 22, 2023, 137 Stat. 628.)
 
-## § 20104. Orders to active duty: with consent of member
+## § 20104. Orders to active duty: with consent of member
 
 **(a) Authority.—** A member of the Space Force who is serving in a space force active status and is not on sustained duty, or who is serving in a space force inactive status, may, with the consent of the member, be ordered to active duty, or retained on active duty, under the following sections of chapter 1209 of this title in the same manner as applies to a member of a reserve component ordered to active duty, or retained on active duty, under that section with the consent of the member:
 
@@ -107,9 +107,9 @@ Except as specifically provided in regulations prescribed by the Secretary of De
 
 **(9)** Section 12321, relating to a limitation on number of reserve members assigned to Reserve Officer Training Corps units.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1715, Dec. 22, 2023, 137 Stat. 628.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1715, Dec. 22, 2023, 137 Stat. 628.)
 
-## § 20105. Sustained duty
+## § 20105. Sustained duty
 
 **(a) Enlisted Members.—** An authority designated by the Secretary of the Air Force may order an enlisted member of the Space Force in a space force active status to sustained duty, or retain an enlisted member on sustained duty, with the consent of that member, as specified in the terms of the member’s enlistment or reenlistment agreement.
 
@@ -123,9 +123,9 @@ Except as specifically provided in regulations prescribed by the Secretary of De
 
 **(2)** An officer ordered to sustained duty under paragraph (1) may not be released from sustained duty without the officer’s consent except as provided in chapter 2009 or 2011 of this title.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1715, Dec. 22, 2023, 137 Stat. 629.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1715, Dec. 22, 2023, 137 Stat. 629.)
 
-## § 20106. Orders to active duty: without consent of member
+## § 20106. Orders to active duty: without consent of member
 
 **(a) Members in a Space Force Active Status.—**
 
@@ -173,7 +173,7 @@ Except as specifically provided in regulations prescribed by the Secretary of De
 
 **(8)** Section 12320, relating to grade in which ordered to active duty.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1715, Dec. 22, 2023, 137 Stat. 629; amended Pub. L. 118–159, div. A, title V, § 521(m), Dec. 23, 2024, 138 Stat. 1882.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1715, Dec. 22, 2023, 137 Stat. 629; amended Pub. L. 118–159, div. A, title V, § 521(m), Dec. 23, 2024, 138 Stat. 1882.)
 
 **Editorial Notes**
 
@@ -181,15 +181,15 @@ Except as specifically provided in regulations prescribed by the Secretary of De
 
 2024—Subsec. (d). Pub. L. 118–159 struck out “pertaining” before “shall apply” in introductory provisions.
 
-## § 20107. Transfer to inactive status: initial service obligation not complete
+## § 20107. Transfer to inactive status: initial service obligation not complete
 
 **(a) General Rule.—** A member of the Space Force who has not completed the required minimum service obligation referred to in section 20003 of this title shall, if terminating space force active status, be transferred to a space force inactive status and, unless otherwise designated an Individual Ready Guardian under section 20102 of this title, shall remain subject to order to active duty without the member’s consent under section 20106 of this title.
 
 **(b) Exception.—** Subsection (a) does not apply to a member who is separated from the Space Force by the Secretary of the Air Force under section 20503 of this title.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1715, Dec. 22, 2023, 137 Stat. 630.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1715, Dec. 22, 2023, 137 Stat. 630.)
 
-## § 20108. Members of Space Force: credit for service for purposes of laws providing pay and benefits for members, dependents, and survivors
+## § 20108. Members of Space Force: credit for service for purposes of laws providing pay and benefits for members, dependents, and survivors
 
 For the purposes of laws providing pay and benefits for members of the armed forces and their dependents and beneficiaries:
 
@@ -201,15 +201,15 @@ For the purposes of laws providing pay and benefits for members of the armed for
 
 **(4)** Inactive-duty training performed by a member of the Space Force shall be considered inactive-duty training as a member of a reserve component.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1715, Dec. 22, 2023, 137 Stat. 631.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1715, Dec. 22, 2023, 137 Stat. 631.)
 
-## § 20109. Policy for order to active duty based upon determination by Congress
+## § 20109. Policy for order to active duty based upon determination by Congress
 
 Whenever Congress determines that more units and organizations capable of conducting space operations are needed for the national security than are available among those units comprised of members of the Space Force serving on active duty, members of the Space Force not serving on active duty shall be ordered to active duty and retained as long as so needed.
 
-(Added Pub. L. 118–31, div. A, title XVII, § 1715, Dec. 22, 2023, 137 Stat. 631.)
+(Added Pub. L. 118–31, div. A, title XVII, § 1715, Dec. 22, 2023, 137 Stat. 631.)
 
-## § 20110. Strength in grade: Space Force general officers in a Space Force active status, not on sustained duty
+## § 20110. Strength in grade: Space Force general officers in a Space Force active status, not on sustained duty
 
 **(a) Authorized Strength.—** The authorized strength of general officers in the Space Force serving in a Space Force active status but not on sustained duty is five.
 
@@ -223,4 +223,4 @@ Whenever Congress determines that more units and organizations capable of conduc
 
 **(d) Temporary Exclusion.—** The limitations of subsection (a) do not apply to an officer released from a joint duty assignment or other non-joint active service assignment, but only during the 60-day period beginning on the date the officer departs the joint duty or other active service assignment. The Secretary of Defense may authorize the Secretary of the Air Force to extend the 60-day period by an additional 120 days, except that not more than three Space Force officers may be covered by an extension under this subsection at the same time.
 
-(Added Pub. L. 119–60, div. A, title V, § 501(c), Dec. 18, 2025, 139 Stat. 854.)
+(Added Pub. L. 119–60, div. A, title V, § 501(c), Dec. 18, 2025, 139 Stat. 854.)

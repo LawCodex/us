@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 69—WILD EXOTIC BIRD CONSERVATION
 
-## § 4901. Findings
+## § 4901. Findings
 
 The Congress finds the following:
 
@@ -47,15 +47,15 @@ The Congress finds the following:
 
 **(14)** This chapter provides a series of nondiscriminatory measures that are necessary for the conservation of exotic birds, and furthers the obligations of the United States under the Convention.
 
-(Pub. L. 102–440, title I, § 102, Oct. 23, 1992, 106 Stat. 2224.)
+(Pub. L. 102–440, title I, § 102, Oct. 23, 1992, 106 Stat. 2224.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 102–440, title I, § 101, Oct. 23, 1992, 106 Stat. 2224, provided that: “This title [enacting this chapter] may be cited as the ‘Wild Bird Conservation Act of 1992’.”
+Pub. L. 102–440, title I, § 101, Oct. 23, 1992, 106 Stat. 2224, provided that: “This title [enacting this chapter] may be cited as the ‘Wild Bird Conservation Act of 1992’.”
 
-## § 4902. Statement of purpose
+## § 4902. Statement of purpose
 
 The purpose of this chapter is to promote the conservation of exotic birds by—
 
@@ -71,9 +71,9 @@ The purpose of this chapter is to promote the conservation of exotic birds by—
 
 **(4)** encouraging and supporting effective implementation of the Convention.
 
-(Pub. L. 102–440, title I, § 103, Oct. 23, 1992, 106 Stat. 2225.)
+(Pub. L. 102–440, title I, § 103, Oct. 23, 1992, 106 Stat. 2225.)
 
-## § 4903. Definitions
+## § 4903. Definitions
 
 In this chapter—
 
@@ -105,7 +105,7 @@ In this chapter—
 
 **(8)** The term “United States” means the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
 
-(Pub. L. 102–440, title I, § 104, Oct. 23, 1992, 106 Stat. 2225.)
+(Pub. L. 102–440, title I, § 104, Oct. 23, 1992, 106 Stat. 2225.)
 
 **Executive Documents**
 
@@ -113,7 +113,7 @@ In this chapter—
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 4904. Moratoria on imports of exotic birds covered by Convention
+## § 4904. Moratoria on imports of exotic birds covered by Convention
 
 **(a) Immediate moratorium**
 
@@ -153,7 +153,7 @@ Effective on the date that is one year after October 23, 1992, the importation o
 
 Notwithstanding any other provision of this chapter, the Secretary shall prohibit the importation, during the 1-year period beginning on October 23, 1992, of exotic birds of each species that is listed under any Appendix to the Convention in excess of the number of that species that were imported during the most recent year for which the Secretary has complete import data.
 
-(Pub. L. 102–440, title I, § 105, Oct. 23, 1992, 106 Stat. 2226.)
+(Pub. L. 102–440, title I, § 105, Oct. 23, 1992, 106 Stat. 2226.)
 
 **Editorial Notes**
 
@@ -161,7 +161,7 @@ Notwithstanding any other provision of this chapter, the Secretary shall prohibi
 
 This chapter, referred to in subsec. (d), was in the original “this Act” and was translated as reading “this title”, meaning title I of Pub. L. 102–440, known as the Wild Bird Conservation Act of 1992, to reflect the probable intent of Congress.
 
-## § 4905. List of approved species
+## § 4905. List of approved species
 
 **(a) Listing**
 
@@ -209,9 +209,9 @@ One year after October 23, 1992, and periodically thereafter, the Secretary shal
 
 **(4)** The methods of capture, transport, and maintenance of the species minimizes the risk of injury or damage to health, including inhumane treatment.
 
-(Pub. L. 102–440, title I, § 106, Oct. 23, 1992, 106 Stat. 2227.)
+(Pub. L. 102–440, title I, § 106, Oct. 23, 1992, 106 Stat. 2227.)
 
-## § 4906. Qualifying facilities
+## § 4906. Qualifying facilities
 
 **(a) Determination**
 
@@ -231,9 +231,9 @@ Upon submission of a petition under section 4909 of this title by any person, th
 
 **(6)** All birds exported from the facility are bred at the facility.
 
-(Pub. L. 102–440, title I, § 107, Oct. 23, 1992, 106 Stat. 2228.)
+(Pub. L. 102–440, title I, § 107, Oct. 23, 1992, 106 Stat. 2228.)
 
-## § 4907. Moratoria for species not covered by Convention
+## § 4907. Moratoria for species not covered by Convention
 
 **(a) In general** The Secretary shall—
 
@@ -257,9 +257,9 @@ Upon submission of a petition under section 4909 of this title by any person, th
 
 The Secretary shall terminate a quota or moratorium established under subsection (a) if the Secretary finds that the reasons for establishing the quota or moratorium no longer exist.
 
-(Pub. L. 102–440, title I, § 108, Oct. 23, 1992, 106 Stat. 2229.)
+(Pub. L. 102–440, title I, § 108, Oct. 23, 1992, 106 Stat. 2229.)
 
-## § 4908. Call for information
+## § 4908. Call for information
 
 Within one month after October 23, 1992, the Secretary shall issue a call for information on the wild bird conservation program of each country that exports exotic birds, by—
 
@@ -267,9 +267,9 @@ Within one month after October 23, 1992, the Secretary shall issue a call for in
 
 **(2)** submitting a written request for such information through the Secretary of State to each country that exports exotic birds.
 
-(Pub. L. 102–440, title I, § 109, Oct. 23, 1992, 106 Stat. 2229.)
+(Pub. L. 102–440, title I, § 109, Oct. 23, 1992, 106 Stat. 2229.)
 
-## § 4909. Petitions
+## § 4909. Petitions
 
 **(a) In general** Any person may at any time submit to the Secretary a petition in writing requesting that the Secretary exercise authority of the Secretary under this chapter to—
 
@@ -289,9 +289,9 @@ Within one month after October 23, 1992, the Secretary shall issue a call for in
 
 **(B)** issue and publish in the Federal Register a final ruling on the petition, by not later than 90 days after the end of the period for public comment.
 
-(Pub. L. 102–440, title I, § 110, Oct. 23, 1992, 106 Stat. 2229.)
+(Pub. L. 102–440, title I, § 110, Oct. 23, 1992, 106 Stat. 2229.)
 
-## § 4910. Prohibited acts
+## § 4910. Prohibited acts
 
 **(a) Prohibitions**
 
@@ -311,9 +311,9 @@ Paragraph (1)(A) and (B) does not apply to importations made incident to the tra
 
 Any person claiming the benefit of any exemption or permit under this chapter shall have the burden of proving that the exemption or permit is applicable or has been granted, and was valid and in force at the time of the alleged violation.
 
-(Pub. L. 102–440, title I, § 111, Oct. 23, 1992, 106 Stat. 2230.)
+(Pub. L. 102–440, title I, § 111, Oct. 23, 1992, 106 Stat. 2230.)
 
-## § 4911. Exemptions
+## § 4911. Exemptions
 
 Notwithstanding any prohibition, suspension, or quota under this chapter on the importation of a species of exotic bird, the Secretary may, through the issuance of import permits, authorize the importation of a bird of the species if the Secretary determines that such importation is not detrimental to the survival of the species and the bird is being imported exclusively for any of the following purposes:
 
@@ -329,39 +329,39 @@ Notwithstanding any prohibition, suspension, or quota under this chapter on the 
 
 **(B)** developed and administered by, or in conjunction with, an avicultural, conservation, or zoological organization that meets standards developed by the Secretary.
 
-(Pub. L. 102–440, title I, § 112, Oct. 23, 1992, 106 Stat. 2230.)
+(Pub. L. 102–440, title I, § 112, Oct. 23, 1992, 106 Stat. 2230.)
 
-## § 4912. Penalties and regulations
+## § 4912. Penalties and regulations
 
 **(a) Penalties**
 
 **(1) Civil penalties**
 
-**(A)** Any person who knowingly violates, and any person engaged in business as an importer of exotic birds who violates, section 4910(a)(1) or (2) 1
+**(A)** Any person who knowingly violates, and any person engaged in business as an importer of exotic birds who violates, section 4910(a)(1) or (2) 1
 
-<sup>1</sup>  So in original. Probably should be section “4910(a)(1)(A) or (B)”.
+<sup>1</sup> So in original. Probably should be section “4910(a)(1)(A) or (B)”.
 
 of this title or any permit issued under section 4911 of this title may be assessed a civil penalty by the Secretary of not more than $25,000 for each violation.
 
-**(B)** Any person who knowingly violates, and any person engaged in business as an importer of exotic birds who violates, section 4910(a)(3) 2
+**(B)** Any person who knowingly violates, and any person engaged in business as an importer of exotic birds who violates, section 4910(a)(3) 2
 
-<sup>2</sup>  So in original. Probably should be section “4910(a)(1)(C)”.
+<sup>2</sup> So in original. Probably should be section “4910(a)(1)(C)”.
 
 of this title may be assessed a civil penalty by the Secretary of not more than $12,000 for each such violation.
 
 **(C)** Any person who otherwise violates section 4910(a) of this title or any permit issued under section 4911 of this title may be assessed a civil penalty by the Secretary of not more than $500 for each such violation.
 
-**(D)** A civil penalty under this section shall be assessed, and may be collected, in the manner in which a civil penalty under the Act of December 28, 1973 (Public Law 93–205) [16 U.S.C. 1531 et seq.], may be assessed and collected under section 111(a) 3
+**(D)** A civil penalty under this section shall be assessed, and may be collected, in the manner in which a civil penalty under the Act of December 28, 1973 (Public Law 93–205) [16 U.S.C. 1531 et seq.], may be assessed and collected under section 111(a) 3
 
-<sup>3</sup>  So in original. Probably should be section “11(a)”.
+<sup>3</sup> So in original. Probably should be section “11(a)”.
 
 of that Act [16 U.S.C. 1540(a)].
 
 **(2) Criminal penalties**
 
-**(A)** Any person who knowingly violates, and any person engaged in business as an importer of exotic birds who violates, section 4910(a)(1) or (2) <sup>1</sup> of this title or any permit issued under section 4911 of this title shall be fined under title 18 or imprisoned for not more than 2 years, or both.
+**(A)** Any person who knowingly violates, and any person engaged in business as an importer of exotic birds who violates, section 4910(a)(1) or (2) <sup>1</sup> of this title or any permit issued under section 4911 of this title shall be fined under title 18 or imprisoned for not more than 2 years, or both.
 
-**(B)** Any person who knowingly violates section 4910(a)(3) <sup>2</sup> of this title shall be fined under title 18, imprisoned not more than 6 months, or both.
+**(B)** Any person who knowingly violates section 4910(a)(3) <sup>2</sup> of this title shall be fined under title 18, imprisoned not more than 6 months, or both.
 
 **(b) District court jurisdiction**
 
@@ -379,15 +379,15 @@ The Secretary shall prescribe regulations that are necessary and appropriate to 
 
 The authority of the Secretary under this chapter is in addition to and shall not affect the authority of the Secretary under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) or diminish the authority of the Secretary under the Lacey Act Amendments of 1981 (16 U.S.C. 3371 et seq.). Nothing in this chapter shall be construed as repealing, superseding, or modifying any provision of Federal law.
 
-(Pub. L. 102–440, title I, § 113, Oct. 23, 1992, 106 Stat. 2231.)
+(Pub. L. 102–440, title I, § 113, Oct. 23, 1992, 106 Stat. 2231.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of December 28, 1973, referred to in subsec. (a)(1)(D), and the Endangered Species Act of 1973, referred to in subsec. (e), are Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+Act of December 28, 1973, referred to in subsec. (a)(1)(D), and the Endangered Species Act of 1973, referred to in subsec. (e), are Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The Lacey Act Amendments of 1981, referred to in subsec. (e), is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to chapter 53 (§ 3371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
+The Lacey Act Amendments of 1981, referred to in subsec. (e), is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to chapter 53 (§ 3371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
 
 **Executive Documents**
 
@@ -395,7 +395,7 @@ The Lacey Act Amendments of 1981, referred to in subsec. (e), is Pub. L. 97–79
 
 For termination of Trust Territory of Palau and Northern Marianas, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 4913. Exotic bird conservation assistance
+## § 4913. Exotic bird conservation assistance
 
 **(a) Assistance**
 
@@ -421,9 +421,9 @@ There is established in the Treasury a separate account, which shall be known as
 
 **(2)** report to the Congress the results of this review within 2 years after October 23, 1992.
 
-(Pub. L. 102–440, title I, § 114, Oct. 23, 1992, 106 Stat. 2232.)
+(Pub. L. 102–440, title I, § 114, Oct. 23, 1992, 106 Stat. 2232.)
 
-## § 4914. Marking and recordkeeping
+## § 4914. Marking and recordkeeping
 
 **(a) In general** The Secretary is authorized to promulgate regulations to require marking or recordkeeping that the Secretary determines will contribute significantly to the ability of the Secretary to ensure compliance with the prohibitions of section 4910 of this title, for—
 
@@ -445,15 +445,15 @@ There is established in the Treasury a separate account, which shall be known as
 
 The Secretary shall seek to ensure that regulations promulgated under this section will not have the effect of deterring captive breeding of exotic birds.
 
-(Pub. L. 102–440, title I, § 115, Oct. 23, 1992, 106 Stat. 2232.)
+(Pub. L. 102–440, title I, § 115, Oct. 23, 1992, 106 Stat. 2232.)
 
-## § 4915. Authorization of appropriations
+## § 4915. Authorization of appropriations
 
 There are authorized to be appropriated to the Secretary $5,000,000 for each of the fiscal years 1993, 1994, and 1995 to carry out this chapter, to remain available until expended.
 
-(Pub. L. 102–440, title I, § 116, Oct. 23, 1992, 106 Stat. 2233.)
+(Pub. L. 102–440, title I, § 116, Oct. 23, 1992, 106 Stat. 2233.)
 
-## § 4916. Relationship to State law
+## § 4916. Relationship to State law
 
 Nothing in this chapter may be construed as precluding the regulation under State law of the sale, transfer, or possession of exotic birds if such regulation—
 
@@ -461,4 +461,4 @@ Nothing in this chapter may be construed as precluding the regulation under Stat
 
 **(2)** is consistent with the international obligations of the United States.
 
-(Pub. L. 102–440, title I, § 117, Oct. 23, 1992, 106 Stat. 2233.)
+(Pub. L. 102–440, title I, § 117, Oct. 23, 1992, 106 Stat. 2233.)

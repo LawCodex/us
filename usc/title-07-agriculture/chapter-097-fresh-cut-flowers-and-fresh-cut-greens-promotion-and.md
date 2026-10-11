@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 97—FRESH CUT FLOWERS AND FRESH CUT GREENS PROMOTION AND INFORMATION
 
-## § 6801. Findings and declaration of policy
+## § 6801. Findings and declaration of policy
 
 **(a) Findings** Congress finds that—
 
@@ -63,15 +63,15 @@ retrieved: 2026-10-11
 
 It is the policy of Congress that it is in the public interest, and it is the purpose of this chapter, to authorize the establishment, through the exercise of the powers provided in this chapter, of an orderly procedure for the development and financing (through an adequate assessment on cut flowers and cut greens sold by handlers to retailers and related entities in the United States) of an effective and coordinated program of generic promotion, consumer information, and related research designed to strengthen the position of the cut flowers and cut greens industry in the marketplace and to maintain, develop, and expand markets for cut flowers and cut greens.
 
-(Pub. L. 103–190, § 2, Dec. 14, 1993, 107 Stat. 2266.)
+(Pub. L. 103–190, § 2, Dec. 14, 1993, 107 Stat. 2266.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 103–190, § 1(a), Dec. 14, 1993, 107 Stat. 2266, provided that: “This Act [enacting this chapter] may be cited as the ‘Fresh Cut Flowers and Fresh Cut Greens Promotion and Information Act of 1993’.”
+Pub. L. 103–190, § 1(a), Dec. 14, 1993, 107 Stat. 2266, provided that: “This Act [enacting this chapter] may be cited as the ‘Fresh Cut Flowers and Fresh Cut Greens Promotion and Information Act of 1993’.”
 
-## § 6802. Definitions
+## § 6802. Definitions
 
 As used in this chapter:
 
@@ -229,7 +229,7 @@ The term “State” means each of the several States of the United States, the 
 
 The term “United States” means the States collectively.
 
-(Pub. L. 103–190, § 3, Dec. 14, 1993, 107 Stat. 2268.)
+(Pub. L. 103–190, § 3, Dec. 14, 1993, 107 Stat. 2268.)
 
 **Editorial Notes**
 
@@ -237,7 +237,7 @@ The term “United States” means the States collectively.
 
 For ratification of Compact of Free Association with the Republic of Palau, referred to in par. (12), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
 
-## § 6803. Issuance of orders
+## § 6803. Issuance of orders
 
 **(a) In general**
 
@@ -285,9 +285,9 @@ The order shall be issued and become effective not later than 180 days after pub
 
 The Secretary, from time to time, may amend an order. The provisions of this chapter applicable to an order shall be applicable to any amendment to an order.
 
-(Pub. L. 103–190, § 4, Dec. 14, 1993, 107 Stat. 2271.)
+(Pub. L. 103–190, § 4, Dec. 14, 1993, 107 Stat. 2271.)
 
-## § 6804. Required terms in orders
+## § 6804. Required terms in orders
 
 **(a) In general**
 
@@ -747,7 +747,7 @@ For the purposes described in paragraph (1), the order shall authorize the appoi
 
 The order shall contain such other terms and provisions, consistent with this chapter, as are necessary to carry out this chapter (including provision for the assessment of interest and a charge for each late payment of assessments under subsection (h) and for carrying out section 6805 of this title).
 
-(Pub. L. 103–190, § 5, Dec. 14, 1993, 107 Stat. 2272.)
+(Pub. L. 103–190, § 5, Dec. 14, 1993, 107 Stat. 2272.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -755,7 +755,7 @@ The order shall contain such other terms and provisions, consistent with this ch
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-## § 6805. Exclusion; determinations
+## § 6805. Exclusion; determinations
 
 **(a) Exclusion**
 
@@ -789,9 +789,9 @@ For the purpose of this paragraph, stock or an ownership interest in an entity t
 
 For the purpose of this subsection, the order may require a person who sells cut flowers or cut greens to retailers to submit reports to the PromoFlor Council on annual sales by the person.
 
-(Pub. L. 103–190, § 6, Dec. 14, 1993, 107 Stat. 2283.)
+(Pub. L. 103–190, § 6, Dec. 14, 1993, 107 Stat. 2283.)
 
-## § 6806. Referenda
+## § 6806. Referenda
 
 **(a) Requirement for initial referendum**
 
@@ -839,9 +839,9 @@ For the purpose of determining the amount of annual sales of cut flowers and cut
 
 Referenda under this section shall be conducted in such manner as is determined appropriate by the Secretary.
 
-(Pub. L. 103–190, § 7, Dec. 14, 1993, 107 Stat. 2284.)
+(Pub. L. 103–190, § 7, Dec. 14, 1993, 107 Stat. 2284.)
 
-## § 6807. Petition and review
+## § 6807. Petition and review
 
 **(a) Petition and hearing**
 
@@ -879,7 +879,7 @@ Service of process in proceedings under this subsection shall be conducted in ac
 
 The pendency of proceedings instituted under this section shall not impede, hinder, or delay the Attorney General or the Secretary from obtaining relief under section 6808 of this title.
 
-(Pub. L. 103–190, § 8, Dec. 14, 1993, 107 Stat. 2285.)
+(Pub. L. 103–190, § 8, Dec. 14, 1993, 107 Stat. 2285.)
 
 **Editorial Notes**
 
@@ -887,7 +887,7 @@ The pendency of proceedings instituted under this section shall not impede, hind
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(2), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-## § 6808. Enforcement
+## § 6808. Enforcement
 
 **(a) Jurisdiction**
 
@@ -965,9 +965,9 @@ In an action by the Attorney General under paragraph (1), the validity and appro
 
 The remedies provided in this chapter shall be in addition to, and not exclusive of, other remedies that may be available.
 
-(Pub. L. 103–190, § 9, Dec. 14, 1993, 107 Stat. 2286.)
+(Pub. L. 103–190, § 9, Dec. 14, 1993, 107 Stat. 2286.)
 
-## § 6809. Investigations and power to subpoena
+## § 6809. Investigations and power to subpoena
 
 **(a) Investigations**
 
@@ -1001,9 +1001,9 @@ Any failure to obey the order of the court may be punished by the court as a con
 
 Process in any proceeding under this subsection may be served in the United States judicial district in which the person being proceeded against resides or conducts business or wherever the person may be found.
 
-(Pub. L. 103–190, § 10, Dec. 14, 1993, 107 Stat. 2288.)
+(Pub. L. 103–190, § 10, Dec. 14, 1993, 107 Stat. 2288.)
 
-## § 6810. Confidentiality
+## § 6810. Confidentiality
 
 **(a) Prohibition**
 
@@ -1021,15 +1021,15 @@ No information obtained under this chapter may be made available to any agency o
 
 Nothing in this chapter shall be construed to authorize the withholding of information from Congress.
 
-(Pub. L. 103–190, § 11, Dec. 14, 1993, 107 Stat. 2288.)
+(Pub. L. 103–190, § 11, Dec. 14, 1993, 107 Stat. 2288.)
 
-## § 6811. Authority for Secretary to suspend or terminate order
+## § 6811. Authority for Secretary to suspend or terminate order
 
 If the Secretary finds that an order, or any provision of the order, obstructs or does not tend to effectuate the policy of this chapter specified in section 6801(b) of this title, the Secretary shall terminate or suspend the operation of the order or provision under such terms as the Secretary determines are appropriate.
 
-(Pub. L. 103–190, § 12, Dec. 14, 1993, 107 Stat. 2289.)
+(Pub. L. 103–190, § 12, Dec. 14, 1993, 107 Stat. 2289.)
 
-## § 6812. Construction
+## § 6812. Construction
 
 **(a) Termination or suspension not an order**
 
@@ -1045,15 +1045,15 @@ The termination or suspension of an order, or a provision of an order, shall not
 
 Nothing in this chapter may be construed to preempt or supersede any other program relating to cut flowers or cut greens promotion and consumer information organized and operated under the laws of the United States or a State.
 
-(Pub. L. 103–190, § 13, Dec. 14, 1993, 107 Stat. 2289.)
+(Pub. L. 103–190, § 13, Dec. 14, 1993, 107 Stat. 2289.)
 
-## § 6813. Regulations
+## § 6813. Regulations
 
 The Secretary may issue such regulations as are necessary to carry out this chapter and the powers vested in the Secretary by this chapter, including regulations relating to the assessment of late payment charges and interest.
 
-(Pub. L. 103–190, § 14, Dec. 14, 1993, 107 Stat. 2289.)
+(Pub. L. 103–190, § 14, Dec. 14, 1993, 107 Stat. 2289.)
 
-## § 6814. Authorization of appropriations
+## § 6814. Authorization of appropriations
 
 **(a) In general**
 
@@ -1063,4 +1063,4 @@ There are authorized to be appropriated for each fiscal year such sums as are ne
 
 Funds appropriated under subsection (a) may not be used for the payment of the expenses or expenditures of the PromoFlor Council in administering a provision of an order.
 
-(Pub. L. 103–190, § 15, Dec. 14, 1993, 107 Stat. 2289.)
+(Pub. L. 103–190, § 15, Dec. 14, 1993, 107 Stat. 2289.)

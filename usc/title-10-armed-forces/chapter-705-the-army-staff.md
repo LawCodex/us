@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 305 of this title as this chapter and items 3031 to 3038 as 7031 to 7038, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 305 of this title as this chapter and items 3031 to 3038 as 7031 to 7038, respectively.
 
-2016—Pub. L. 114–328, div. A, title V, § 502(n)(2), Dec. 23, 2016, 130 Stat. 2103, struck out item 3039 “Deputy and assistant chiefs of branches”.
+2016—Pub. L. 114–328, div. A, title V, § 502(n)(2), Dec. 23, 2016, 130 Stat. 2103, struck out item 3039 “Deputy and assistant chiefs of branches”.
 
-2008—Pub. L. 110–181, div. A, title V, § 543(a)(3)(B), Jan. 28, 2008, 122 Stat. 115, substituted “Deputy” for “Assistant” in item 3037.
+2008—Pub. L. 110–181, div. A, title V, § 543(a)(3)(B), Jan. 28, 2008, 122 Stat. 115, substituted “Deputy” for “Assistant” in item 3037.
 
-1994—Pub. L. 103–337, div. A, title IX, § 904(b)(2), Oct. 5, 1994, 108 Stat. 2827, struck out item 3040 “Chief of National Guard Bureau: appointment; acting chief”.
+1994—Pub. L. 103–337, div. A, title IX, § 904(b)(2), Oct. 5, 1994, 108 Stat. 2827, struck out item 3040 “Chief of National Guard Bureau: appointment; acting chief”.
 
-1986—Pub. L. 99–433, title V, § 502(g)(2), Oct. 1, 1986, 100 Stat. 1042, amended analysis generally, substituting items 3031 to 3040 for former items 3031 to 3040.
+1986—Pub. L. 99–433, title V, § 502(g)(2), Oct. 1, 1986, 100 Stat. 1042, amended analysis generally, substituting items 3031 to 3040 for former items 3031 to 3040.
 
-1980—Pub. L. 96–513, title V, § 512(2), Dec. 12, 1980, 94 Stat. 2929, substituted “Deputy Chiefs” for “Deputy Chief” in item 2035, and substituted “appointment” for “appointments” in item 3036.
+1980—Pub. L. 96–513, title V, § 512(2), Dec. 12, 1980, 94 Stat. 2929, substituted “Deputy Chiefs” for “Deputy Chief” in item 2035, and substituted “appointment” for “appointments” in item 3036.
 
-1966—Pub. L. 89–718, § 25(b), Nov. 2, 1966, 80 Stat. 1119, struck out item 3038 “Chief of Engineers: additional duties”.
+1966—Pub. L. 89–718, § 25(b), Nov. 2, 1966, 80 Stat. 1119, struck out item 3038 “Chief of Engineers: additional duties”.
 
-## § 7031. The Army Staff: function; composition
+## § 7031. The Army Staff: function; composition
 
 **(a)** There is in the executive part of the Department of the Army an Army Staff. The function of the Army Staff is to assist the Secretary of the Army in carrying out his responsibilities.
 
@@ -63,19 +63,19 @@ retrieved: 2026-10-11
 
 **(c)** Except as otherwise specifically prescribed by law, the Army Staff shall be organized in such manner, and its members shall perform such duties and have such titles, as the Secretary may prescribe.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 150, § 3031; Pub. L. 93–547, Dec. 26, 1974, 88 Stat. 1742; Pub. L. 93–608, § 1(6), Jan. 2, 1975, 88 Stat. 1968; Pub. L. 98–525, title V, § 515, Oct. 19, 1984, 98 Stat. 2522; Pub. L. 99–433, title V, § 502(a), Oct. 1, 1986, 100 Stat. 1039; renumbered § 7031, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 150, § 3031; Pub. L. 93–547, Dec. 26, 1974, 88 Stat. 1742; Pub. L. 93–608, § 1(6), Jan. 2, 1975, 88 Stat. 1968; Pub. L. 98–525, title V, § 515, Oct. 19, 1984, 98 Stat. 2522; Pub. L. 99–433, title V, § 502(a), Oct. 1, 1986, 100 Stat. 1039; renumbered § 7031, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3031(a) 3031(b) | 10:21a(a). 10:21a(b). | June 28, 1950, ch. 383, § 201, 64 Stat. 265. |
+| 3031(a) 3031(b) | 10:21a(a). 10:21a(b). | June 28, 1950, ch. 383, § 201, 64 Stat. 265. |
 | 3031(c) | 10:21a(c). |  |
 | 3031(d) | 10:21a(d). |  |
 
 In subsection (a), the words “an Army Staff consisting of—” are substituted for the words “a staff, which shall be known as the Army Staff, and which shall consist of—”. The words “under regulations prescribed by the Secretary of the Army” are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions.
 
-In subsection (c), the third sentence is substituted for 10:21a(c) (1st 13 words and 1st proviso). The words “officers and employees \* \* \* or under the jurisdiction of” are omitted as surplusage.
+In subsection (c), the third sentence is substituted for 10:21a(c) (1st 13 words and 1st proviso). The words “officers and employees \* \* \* or under the jurisdiction of” are omitted as surplusage.
 
 In subsections (c) and (d), the word “hereafter” is omitted, since all wars and emergencies declared by Congress before June 24, 1950, have been terminated.
 
@@ -103,9 +103,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–525, title V, § 515, Oct. 19, 1984, 98 Stat. 2522, provided that the amendment made by that section is effective Oct. 1, 1984.
+Pub. L. 98–525, title V, § 515, Oct. 19, 1984, 98 Stat. 2522, provided that the amendment made by that section is effective Oct. 1, 1984.
 
-## § 7032. The Army Staff: general duties
+## § 7032. The Army Staff: general duties
 
 **(a)** The Army Staff shall furnish professional assistance to the Secretary, the Under Secretary, and the Assistant Secretaries of the Army and to the Chief of Staff of the Army.
 
@@ -121,13 +121,13 @@ Pub. L. 98–525, title V, § 515, Oct. 19, 1984, 98 Stat. 2522, provided that
 
 **(5)** perform such other duties, not otherwise assigned by law, as may be prescribed by the Secretary.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 161, § 3032; Pub. L. 85–599, § 4(g), Aug. 6, 1958, 72 Stat. 517; Pub. L. 99–433, title V, § 502(b), Oct. 1, 1986, 100 Stat. 1040; renumbered § 7032 and amended Pub. L. 115–232, div. A, title VIII, §§ 808(a), 809(a), Aug. 13, 2018, 132 Stat. 1838, 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 161, § 3032; Pub. L. 85–599, § 4(g), Aug. 6, 1958, 72 Stat. 517; Pub. L. 99–433, title V, § 502(b), Oct. 1, 1986, 100 Stat. 1040; renumbered § 7032 and amended Pub. L. 115–232, div. A, title VIII, §§ 808(a), 809(a), Aug. 13, 2018, 132 Stat. 1838, 1840.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3032(a) 3032(b) | 10:21e(a). 10:21e(b). | June 28, 1950, ch. 383, § 205, 64 Stat. 266. |
+| 3032(a) 3032(b) | 10:21e(a). 10:21e(b). | June 28, 1950, ch. 383, § 205, 64 Stat. 266. |
 
 In subsection (a), the word “furnish” is substituted for the word “render”.
 
@@ -139,15 +139,15 @@ In subsection (b)(2), the words “all questions affecting” and “state of”
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 808(a), renumbered section 3032 of this title as this section.
+2018—Pub. L. 115–232, § 808(a), renumbered section 3032 of this title as this section.
 
-Subsec. (b)(1). Pub. L. 115–232, § 809(a), substituted “section 7014” for “section 3014”.
+Subsec. (b)(1). Pub. L. 115–232, § 809(a), substituted “section 7014” for “section 3014”.
 
-1986—Pub. L. 99–433, § 502(b)(3), substituted “The Army Staff: general duties” for “General duties” in section catchline.
+1986—Pub. L. 99–433, § 502(b)(3), substituted “The Army Staff: general duties” for “General duties” in section catchline.
 
-Subsec. (a). Pub. L. 99–433, § 502(b)(1), inserted “and to the Chief of Staff of the Army”.
+Subsec. (a). Pub. L. 99–433, § 502(b)(1), inserted “and to the Chief of Staff of the Army”.
 
-Subsec. (b). Pub. L. 99–433, § 502(b)(2), substituted “authority, direction, and control of the Secretary of the Army” for “direction and control of the Secretary” in introductory provisions, inserted “subject to subsections (c) and (d) of section 3014 of this title,” and substituted “(including those aspects of research and development assigned by the Secretary of the Army), training, servicing, mobilizing, demobilizing, administering, and maintaining” for “, training, serving, mobilizing, and demobilizing” in cl. (1), substituted “to support military operations by combatant commands” for “for military operations” in cl. (2), and amended cl. (4) generally. Prior to amendment, cl. (4) read as follows: “act as agent of the Secretary and the Chief of Staff in coordinating the action of all organizations of the Department of the Army; and”.
+Subsec. (b). Pub. L. 99–433, § 502(b)(2), substituted “authority, direction, and control of the Secretary of the Army” for “direction and control of the Secretary” in introductory provisions, inserted “subject to subsections (c) and (d) of section 3014 of this title,” and substituted “(including those aspects of research and development assigned by the Secretary of the Army), training, servicing, mobilizing, demobilizing, administering, and maintaining” for “, training, serving, mobilizing, and demobilizing” in cl. (1), substituted “to support military operations by combatant commands” for “for military operations” in cl. (2), and amended cl. (4) generally. Prior to amendment, cl. (4) read as follows: “act as agent of the Secretary and the Chief of Staff in coordinating the action of all organizations of the Department of the Army; and”.
 
 1958—Subsec. (b)(1). Pub. L. 85–599 substituted “prepare for such employment of the Army” for “prepare such plans for the national security, for employment of the Army for that purpose, both separately and in conjunction with the naval and air forces”.
 
@@ -157,7 +157,7 @@ Subsec. (b). Pub. L. 99–433, § 502(b)(2), substituted “authority, directi
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7033. Chief of Staff
+## § 7033. Chief of Staff
 
 **(a)**
 
@@ -167,9 +167,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(A)** the officer has had significant experience in joint duty assignments; and
 
-**(B)** such experience includes at least one full tour of duty in a joint duty assignment (as defined in section 664(f) 1
+**(B)** such experience includes at least one full tour of duty in a joint duty assignment (as defined in section 664(f) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title) as a general officer.
 
@@ -201,7 +201,7 @@ of this title) as a general officer.
 
 **(3)** Subject to the authority, direction, and control of the Secretary of Defense, the Chief of Staff shall keep the Secretary of the Army fully informed of significant military operations affecting the duties and responsibilities of the Secretary.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 162, § 3034; Pub. L. 85–599, § 4(a), Aug. 6, 1958, 72 Stat. 516; Pub. L. 87–651, title I, § 114, Sept. 7, 1962, 76 Stat. 513; Pub. L. 90–22, title IV, § 401, June 5, 1967, 81 Stat. 53; Pub. L. 96–513, title V, § 502(2), Dec. 12, 1980, 94 Stat. 2909; Pub. L. 97–22, § 10(b)(4), July 10, 1981, 95 Stat. 137; renumbered § 3033 and amended Pub. L. 99–433, title V, § 502(c), Oct. 1, 1986, 100 Stat. 1040; Pub. L. 100–456, div. A, title V, § 519(a)(3), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 114–92, div. A, title VIII, § 802(d)(4)(A), Nov. 25, 2015, 129 Stat. 880; renumbered § 7033 and amended Pub. L. 115–232, div. A, title VIII, §§ 808(a), 809(a), Aug. 13, 2018, 132 Stat. 1838, 1840; Pub. L. 116–283, div. A, title XVIII, § 1808(d)(3), as added Pub. L. 117–81, div. A, title XVII, § 1701(r)(2), Dec. 27, 2021, 135 Stat. 2149; Pub. L. 116–283, div. A, title XVIII, § 1847(e)(6)(B), Jan. 1, 2021, 134 Stat. 4257; Pub. L. 117–81, div. A, title XVII, § 1701(r)(1)(B), Dec. 27, 2021, 135 Stat. 2149.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 162, § 3034; Pub. L. 85–599, § 4(a), Aug. 6, 1958, 72 Stat. 516; Pub. L. 87–651, title I, § 114, Sept. 7, 1962, 76 Stat. 513; Pub. L. 90–22, title IV, § 401, June 5, 1967, 81 Stat. 53; Pub. L. 96–513, title V, § 502(2), Dec. 12, 1980, 94 Stat. 2909; Pub. L. 97–22, § 10(b)(4), July 10, 1981, 95 Stat. 137; renumbered § 3033 and amended Pub. L. 99–433, title V, § 502(c), Oct. 1, 1986, 100 Stat. 1040; Pub. L. 100–456, div. A, title V, § 519(a)(3), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 114–92, div. A, title VIII, § 802(d)(4)(A), Nov. 25, 2015, 129 Stat. 880; renumbered § 7033 and amended Pub. L. 115–232, div. A, title VIII, §§ 808(a), 809(a), Aug. 13, 2018, 132 Stat. 1838, 1840; Pub. L. 116–283, div. A, title XVIII, § 1808(d)(3), as added Pub. L. 117–81, div. A, title XVII, § 1701(r)(2), Dec. 27, 2021, 135 Stat. 2149; Pub. L. 116–283, div. A, title XVIII, § 1847(e)(6)(B), Jan. 1, 2021, 134 Stat. 4257; Pub. L. 117–81, div. A, title XVII, § 1701(r)(1)(B), Dec. 27, 2021, 135 Stat. 2149.)
 
 **Historical and Revision Notes**
 
@@ -209,8 +209,8 @@ of this title) as a general officer.
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3034(a) 3034(b) | 10:21b (1st sentence). 10:21b (less 1st sentence). | June 28, 1950, ch. 383, §§ 202, 204, 64 Stat. 266. |
-| 3034(c)     3034(d) | 10:21d(a) (1st 9 words). 10:21d(b) (2d sentence). 10:21d(c). 10:21d(a) (less 1st 9 words). 10:21d(b) (less 2d sentence). 10:38 (last par.). | June 3, 1916, ch. 134, § 5 (last par.), added June 15, 1933, ch. 87, § 2 (last par.), 48 Stat. 154. |
+| 3034(a) 3034(b) | 10:21b (1st sentence). 10:21b (less 1st sentence). | June 28, 1950, ch. 383, §§ 202, 204, 64 Stat. 266. |
+| 3034(c) 3034(d) | 10:21d(a) (1st 9 words). 10:21d(b) (2d sentence). 10:21d(c). 10:21d(a) (less 1st 9 words). 10:21d(b) (less 2d sentence). 10:38 (last par.). | June 3, 1916, ch. 134, § 5 (last par.), added June 15, 1933, ch. 87, § 2 (last par.), 48 Stat. 154. |
 
 In subsection (a), the words “not for” are substituted for the words “no person shall serve as Chief of Staff for a term of”.
 
@@ -228,17 +228,17 @@ The changes correct references to section 202(j) of the National Security Act of
 
 **References in Text**
 
-Section 664(f) of this title, referred to in subsec. (a)(2)(B), was redesignated as section 664(d) of this title by Pub. L. 114–328, div. A, title V, § 510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
+Section 664(f) of this title, referred to in subsec. (a)(2)(B), was redesignated as section 664(d) of this title by Pub. L. 114–328, div. A, title V, § 510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
 
 **Amendments**
 
-2021—Subsec. (d)(5). Pub. L. 116–283, § 1847(e)(6)(B), which directed substitution of “, 3103, and 4274” for “and 2547”, was repealed by Pub. L. 117–81, § 1701(r)(1)(B).
+2021—Subsec. (d)(5). Pub. L. 116–283, § 1847(e)(6)(B), which directed substitution of “, 3103, and 4274” for “and 2547”, was repealed by Pub. L. 117–81, § 1701(r)(1)(B).
 
-Pub. L. 116–283, § 1808(d)(3), as added by Pub. L. 117–81, § 1701(r)(2), substituted “and 3104” for “and 2547”.
+Pub. L. 116–283, § 1808(d)(3), as added by Pub. L. 117–81, § 1701(r)(2), substituted “and 3104” for “and 2547”.
 
-2018—Pub. L. 115–232, § 808(a), renumbered section 3033 of this title as this section.
+2018—Pub. L. 115–232, § 808(a), renumbered section 3033 of this title as this section.
 
-Subsec. (c). Pub. L. 115–232, § 809(a), substituted “section 7013(f)” for “section 3013(f)”.
+Subsec. (c). Pub. L. 115–232, § 809(a), substituted “section 7013(f)” for “section 3013(f)”.
 
 2015—Subsec. (d)(5). Pub. L. 114–92 substituted “sections 171 and 2547” for “section 171”.
 
@@ -290,7 +290,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–22, § 10(b), July 10, 1981, 95 Stat. 137, provided that the amendment made by section 10(b)(4) is effective Sept. 15, 1981.
+Pub. L. 97–22, § 10(b), July 10, 1981, 95 Stat. 137, provided that the amendment made by section 10(b)(4) is effective Sept. 15, 1981.
 
 **Effective Date of 1980 Amendment**
 
@@ -298,9 +298,9 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
 **Effective Date of 1967 Amendment**
 
-Pub. L. 90–22, title IV, § 405, June 5, 1967, 81 Stat. 53, provided that: “The amendments made by this title [amending sections 3034, 5081, 5201, and 8034 of this title] shall take effect as of January 1, 1969.”
+Pub. L. 90–22, title IV, § 405, June 5, 1967, 81 Stat. 53, provided that: “The amendments made by this title [amending sections 3034, 5081, 5201, and 8034 of this title] shall take effect as of January 1, 1969.”
 
-## § 7034. Vice Chief of Staff
+## § 7034. Vice Chief of Staff
 
 **(a)** There is a Vice Chief of Staff of the Army, appointed by the President, by and with the advice and consent of the Senate, from the general officers of the Army.
 
@@ -314,13 +314,13 @@ Pub. L. 90–22, title IV, § 405, June 5, 1967, 81 Stat. 53, provided that: �
 
 **(2)** if there is a vacancy in the office of the Vice Chief of Staff or the Vice Chief of Staff is absent or disabled, unless the President directs otherwise, the most senior officer of the Army in the Army Staff who is not absent or disabled and who is not restricted in performance of duty shall perform the duties of the Chief of Staff until a successor to the Chief of Staff or the Vice Chief of Staff is appointed or until the absence or disability of the Chief of Staff or Vice Chief of Staff ceases, whichever occurs first.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 162, § 3035; Pub. L. 85–599, § 6(a), Aug. 6, 1958, 72 Stat. 519; renumbered § 3034 and amended Pub. L. 99–433, title V, § 502(d), Oct. 1, 1986, 100 Stat. 1041; renumbered § 7034, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 162, § 3035; Pub. L. 85–599, § 6(a), Aug. 6, 1958, 72 Stat. 519; renumbered § 3034 and amended Pub. L. 99–433, title V, § 502(d), Oct. 1, 1986, 100 Stat. 1041; renumbered § 7034, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3035(a) 3035(b) | 10:21c (1st sentence). 10:21c (less 1st sentence). | June 28, 1950, ch. 383, § 203, 64 Stat. 266. |
+| 3035(a) 3035(b) | 10:21c (1st sentence). 10:21c (less 1st sentence). | June 28, 1950, ch. 383, § 203, 64 Stat. 266. |
 
 In subsection (a), the words “of the Army” are omitted as surplusage.
 
@@ -332,11 +332,11 @@ In subsection (b), the words “If the Chief of Staff is absent or disabled or i
 
 2018—Pub. L. 115–232 renumbered section 3034 of this title as this section.
 
-1986—Pub. L. 99–433, § 502(d), renumbered section 3035 of this title as this section.
+1986—Pub. L. 99–433, § 502(d), renumbered section 3035 of this title as this section.
 
-Pub. L. 99–433, § 502(d)(3), substituted “Vice Chief of Staff” for “Vice Chief of Staff, Deputy Chiefs of Staff, and Assistant Chiefs of Staff: succession to duties of Chief of Staff” in section catchline.
+Pub. L. 99–433, § 502(d)(3), substituted “Vice Chief of Staff” for “Vice Chief of Staff, Deputy Chiefs of Staff, and Assistant Chiefs of Staff: succession to duties of Chief of Staff” in section catchline.
 
-Subsecs. (a), (b). Pub. L. 99–433, § 502(d)(1), amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) and (b) read as follows:
+Subsecs. (a), (b). Pub. L. 99–433, § 502(d)(1), amended subsecs. (a) and (b) generally. Prior to amendment, subsecs. (a) and (b) read as follows:
 
 “(a) The Vice Chief of Staff, the Deputy Chiefs of Staff, and the Assistant Chiefs of Staff shall be general officers detailed to those positions.
 
@@ -346,7 +346,7 @@ Subsecs. (a), (b). Pub. L. 99–433, § 502(d)(1), amended subsecs. (a) and (b
 
 “(2) The Deputy Chiefs of Staff in order of seniority.”
 
-Subsec. (d). Pub. L. 99–433, § 502(d)(2), added subsec. (d).
+Subsec. (d). Pub. L. 99–433, § 502(d)(2), added subsec. (d).
 
 1958—Subsec. (c). Pub. L. 85–599 added subsec. (c).
 
@@ -356,13 +356,13 @@ Subsec. (d). Pub. L. 99–433, § 502(d)(2), added subsec. (d).
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7035. Deputy Chiefs of Staff and Assistant Chiefs of Staff
+## § 7035. Deputy Chiefs of Staff and Assistant Chiefs of Staff
 
 **(a)** The Deputy Chiefs of Staff and the Assistant Chiefs of Staff shall be general officers detailed to those positions.
 
 **(b)** The Secretary of the Army shall prescribe the number of Deputy Chiefs of Staff and Assistant Chiefs of Staff, for a total of not more than eight positions.
 
-(Added Pub. L. 99–433, title V, § 502(e), Oct. 1, 1986, 100 Stat. 1042, § 3035; amended Pub. L. 110–181, div. A, title IX, § 902(a), Jan. 28, 2008, 122 Stat. 272; renumbered § 7035, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Added Pub. L. 99–433, title V, § 502(e), Oct. 1, 1986, 100 Stat. 1042, § 3035; amended Pub. L. 110–181, div. A, title IX, § 902(a), Jan. 28, 2008, 122 Stat. 272; renumbered § 7035, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Editorial Notes**
 
@@ -382,7 +382,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7036. Chiefs of branches: appointment; duties
+## § 7036. Chiefs of branches: appointment; duties
 
 **(a)** There are in the Army the following officers:
 
@@ -434,13 +434,13 @@ The Surgeon General may be appointed from officers in any corps of the Army Medi
 
 **(4)** to the extent that the Secretary considers advisable, the name of each regular or reserve officer on active duty in a grade above lieutenant colonel who has shown by extensive duty in that branch, or by similar duty, that he is qualified for the appointment.
 
-From these officers, the board shall recommend by name the number prescribed by the Secretary, and the President may appoint any officer so recommended. If the President declines to appoint any of the recommended officers, or if the officer nominated cannot be appointed because of advice by the Senate, the Secretary shall convene a board to recommend additional officers. An officer who is recommended but not appointed shall be considered not to have been recommended. This does not affect his eligibility for selection and recommendation for the grade of brigadier general or major general under section 3306 or 3307 1
+From these officers, the board shall recommend by name the number prescribed by the Secretary, and the President may appoint any officer so recommended. If the President declines to appoint any of the recommended officers, or if the officer nominated cannot be appointed because of advice by the Senate, the Secretary shall convene a board to recommend additional officers. An officer who is recommended but not appointed shall be considered not to have been recommended. This does not affect his eligibility for selection and recommendation for the grade of brigadier general or major general under section 3306 or 3307 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 163, § 3036; Pub. L. 89–288, § 1, Oct. 22, 1965, 79 Stat. 1050; Pub. L. 89–718, § 24, Nov. 2, 1966, 80 Stat. 1119; Pub. L. 97–295, § 1(38), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 99–662, title IX, § 922, Nov. 17, 1986, 100 Stat. 4194; Pub. L. 100–26, § 7(a)(10), Apr. 21, 1987, 101 Stat. 278; Pub. L. 102–580, title II, § 211, Oct. 31, 1992, 106 Stat. 4831; Pub. L. 104–106, div. A, title V, § 506(a), Feb. 10, 1996, 110 Stat. 296; Pub. L. 104–201, div. A, title X, § 1074(a)(18), Sept. 23, 1996, 110 Stat. 2660; Pub. L. 114–328, div. A, title V, § 502(k), title VII, § 702(b)(1), Dec. 23, 2016, 130 Stat. 2103, 2195; renumbered § 7036 and amended Pub. L. 115–232, div. A, title VIII, §§ 808(a), 809(a), Aug. 13, 2018, 132 Stat. 1838, 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 163, § 3036; Pub. L. 89–288, § 1, Oct. 22, 1965, 79 Stat. 1050; Pub. L. 89–718, § 24, Nov. 2, 1966, 80 Stat. 1119; Pub. L. 97–295, § 1(38), Oct. 12, 1982, 96 Stat. 1296; Pub. L. 99–662, title IX, § 922, Nov. 17, 1986, 100 Stat. 4194; Pub. L. 100–26, § 7(a)(10), Apr. 21, 1987, 101 Stat. 278; Pub. L. 102–580, title II, § 211, Oct. 31, 1992, 106 Stat. 4831; Pub. L. 104–106, div. A, title V, § 506(a), Feb. 10, 1996, 110 Stat. 296; Pub. L. 104–201, div. A, title X, § 1074(a)(18), Sept. 23, 1996, 110 Stat. 2660; Pub. L. 114–328, div. A, title V, § 502(k), title VII, § 702(b)(1), Dec. 23, 2016, 130 Stat. 2103, 2195; renumbered § 7036 and amended Pub. L. 115–232, div. A, title VIII, §§ 808(a), 809(a), Aug. 13, 2018, 132 Stat. 1838, 1840.)
 
 **Historical and Revision Notes**
 
@@ -448,8 +448,8 @@ of this title.
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3036(a) 3036(b)       3036(c) 3036(d) | 10:21f(a). 10:21f(b). 10:181 (1st 17 words). 10:559g(a) (less 3d and 5th sentences). 10:559g(a) (3d sentence). 10:21f(c). | June 28, 1950, ch. 383, § 206, 64 Stat. 267. June 3, 1916, ch. 134, § 11 (1st 17 words); restated June 4, 1920, ch. 227, subch. I, § 11 (1st 17 words), 41 Stat. 768. |
-| 3036(e) | 10:559g(b). | Aug. 7, 1947, ch. 512, § 513(a) (less 5th sentence), (b), 61 Stat. 901. |
+| 3036(a) 3036(b) 3036(c) 3036(d) | 10:21f(a). 10:21f(b). 10:181 (1st 17 words). 10:559g(a) (less 3d and 5th sentences). 10:559g(a) (3d sentence). 10:21f(c). | June 28, 1950, ch. 383, § 206, 64 Stat. 267. June 3, 1916, ch. 134, § 11 (1st 17 words); restated June 4, 1920, ch. 227, subch. I, § 11 (1st 17 words), 41 Stat. 768. |
+| 3036(e) | 10:559g(b). | Aug. 7, 1947, ch. 512, § 513(a) (less 5th sentence), (b), 61 Stat. 901. |
 
 In subsection (b), all references to the appointment of assistant chiefs are omitted as covered by sections 3037 and 3040 of this title. All references to the grade of brigadier general are omitted, since 10:21f(b) specifies the grade of major general for the offices. 10:559g(a) (4th sentence) is omitted as surplusage, since the appointment is to a permanent grade. 10:559g(a) (6th and 7th sentences) is omitted as executed. 10:559g(a) (last sentence) is omitted, since the revised section applies only to the officers named in subsection (a). The words “except the Judge Advocate General” are inserted for clarity. The eight words before clause (1), and clauses (1) and (2), are substituted for the words “as prescribed in section 559g of this title”, in 10:21f(b), and 10:559g(a) (1st sentence). The second sentence is substituted for 10:559g(a) (2d sentence) and 10:21f(b) (1st 15 words). The words “selected and”, in 10:21f(b), are omitted as surplusage. The words “arms, or services”, in 10:559g(a) are omitted as obsolete, since sections 3063 and 3064 of this title designate the former arms and services as “branches”.
 
@@ -462,7 +462,7 @@ In subsection (e), the introductory clause is substituted for 10:559g(b) (words 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 3036(d) (1st sentence) | 10:3036(d). |  |
-| 3036(d) (last sentence) | 10:3036 (note). | Oct. 27, 1965, Pub. L. 89–298, § 219, 79 Stat. 1089. |
+| 3036(d) (last sentence) | 10:3036 (note). | Oct. 27, 1965, Pub. L. 89–298, § 219, 79 Stat. 1089. |
 
 The first sentence is restated to clarify that the Secretary concerned is the Secretary of the Army. The word “services” is substituted for “work or services” because it is inclusive. The word “instrumentality” is added for clarity.
 
@@ -470,19 +470,19 @@ The first sentence is restated to clarify that the Secretary concerned is the Se
 
 **References in Text**
 
-Sections 3306 and 3307 of this title, referred to in subsec. (g), were repealed by Pub. L. 96–513, title II, § 204, title VII, § 701, Dec. 12, 1980, 94 Stat. 2880, 2955, effective Sept. 15, 1981.
+Sections 3306 and 3307 of this title, referred to in subsec. (g), were repealed by Pub. L. 96–513, title II, § 204, title VII, § 701, Dec. 12, 1980, 94 Stat. 2880, 2955, effective Sept. 15, 1981.
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 808(a), renumbered section 3036 of this title as this section.
+2018—Pub. L. 115–232, § 808(a), renumbered section 3036 of this title as this section.
 
-Subsec. (b). Pub. L. 115–232, § 809(a), substituted “section 7037” for “section 3037” in concluding provisions.
+Subsec. (b). Pub. L. 115–232, § 809(a), substituted “section 7037” for “section 3037” in concluding provisions.
 
-2016—Subsec. (b). Pub. L. 114–328, § 502(k)(2), which directed amendment of second sentence of concluding provisions by striking “, and while so serving, has the grade of lieutenant general”, was executed by striking out “and, while so serving, has the grade of lieutenant general” after “Army Medical Department” to reflect the probable intent of Congress.
+2016—Subsec. (b). Pub. L. 114–328, § 502(k)(2), which directed amendment of second sentence of concluding provisions by striking “, and while so serving, has the grade of lieutenant general”, was executed by striking out “and, while so serving, has the grade of lieutenant general” after “Army Medical Department” to reflect the probable intent of Congress.
 
-Pub. L. 114–328, § 502(k)(1), struck out first sentence of concluding provisions which read as follows: “Each officer covered by the preceding sentence, except the Surgeon General, shall be appointed in the regular grade of major general.”
+Pub. L. 114–328, § 502(k)(1), struck out first sentence of concluding provisions which read as follows: “Each officer covered by the preceding sentence, except the Surgeon General, shall be appointed in the regular grade of major general.”
 
-Subsecs. (d) to (g). Pub. L. 114–328, § 702(b)(1), struck out par. (1) designation before “Each officer” in subsec. (d), redesignated subsec. (e) as (g), added subsec. (e) designation, redesignated pars. (2) and (3) of subsec. (d) as pars. (1) and (2), respectively, of subsec. (e), and added subsec. (f).
+Subsecs. (d) to (g). Pub. L. 114–328, § 702(b)(1), struck out par. (1) designation before “Each officer” in subsec. (d), redesignated subsec. (e) as (g), added subsec. (e) designation, redesignated pars. (2) and (3) of subsec. (d) as pars. (1) and (2), respectively, of subsec. (e), and added subsec. (f).
 
 1996—Subsec. (b). Pub. L. 104–106 inserted “may be appointed from officers in any corps of the Army Medical Department and” after “The Surgeon General” in concluding provisions.
 
@@ -524,7 +524,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Workforce Planning**
 
-Pub. L. 117–263, div. H, title LXXXI, § 8116, Dec. 23, 2022, 136 Stat. 3709, provided that:
+Pub. L. 117–263, div. H, title LXXXI, § 8116, Dec. 23, 2022, 136 Stat. 3709, provided that:
 
 > **“(a) Authorization.—** The Secretary [of the Army] is authorized to carry out activities, at Federal expense—
 
@@ -578,11 +578,11 @@ Pub. L. 114–189, July 6, 2016, 130 Stat. 613, provided that:
 
 **Corps of Engineers; Annual Budget Submission**
 
-Pub. L. 110–161, div. C, title I, § 114, Dec. 26, 2007, 121 Stat. 1944, provided that: “All budget documents and justification materials for the Corps of Engineers annual budget submission to Congress shall be assembled and presented based on the most recent annual appropriations Act: *Provided*, That new budget proposals for fiscal year 2008 and thereafter, shall not be integrated into the budget justifications submitted to Congress but shall be submitted separately from the budget justifications documents.”
+Pub. L. 110–161, div. C, title I, § 114, Dec. 26, 2007, 121 Stat. 1944, provided that: “All budget documents and justification materials for the Corps of Engineers annual budget submission to Congress shall be assembled and presented based on the most recent annual appropriations Act: *Provided*, That new budget proposals for fiscal year 2008 and thereafter, shall not be integrated into the budget justifications submitted to Congress but shall be submitted separately from the budget justifications documents.”
 
 **Chief of Engineers; Fiscal Transparency Report**
 
-Pub. L. 110–114, title II, § 2027, Nov. 8, 2007, 121 Stat. 1079, provided that:
+Pub. L. 110–114, title II, § 2027, Nov. 8, 2007, 121 Stat. 1079, provided that:
 
 > **“(a) In General.—** On the third Tuesday of January of each year beginning January 2008, the Chief of Engineers shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on—
 
@@ -700,7 +700,7 @@ J. C. Lambert,
 
 The Adjutant General.
 
-## § 7037. Judge Advocate General, Deputy Judge Advocate General, and general officers of Judge Advocate General’s Corps: appointment; duties
+## § 7037. Judge Advocate General, Deputy Judge Advocate General, and general officers of Judge Advocate General’s Corps: appointment; duties
 
 **(a)** The President, by and with the advice and consent of the Senate, shall appoint the Judge Advocate General, the Deputy Judge Advocate General, and general officers of the Judge Advocate General’s Corps, from officers of the Judge Advocate General’s Corps, who are recommended by the Secretary of the Army. The term of office of the Judge Advocate General and the Deputy Judge Advocate General is four years.
 
@@ -724,7 +724,7 @@ The Adjutant General.
 
 **(f)** If the Judge Advocate General is removed from office before the end of the term of the Judge Advocate General as specified in subsection (a), the Secretary of Defense shall, not later than five days after the removal takes effect, submit to the Committees on Armed Services of the Senate and the House of Representatives notice that the Judge Advocate General is being removed and a statement of the reason for the removal.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 164, § 3037; Pub. L. 85–861, § 33(a)(18), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 103–337, div. A, title V, § 504(a), Oct. 5, 1994, 108 Stat. 2750; Pub. L. 108–375, div. A, title V, § 574(a), Oct. 28, 2004, 118 Stat. 1921; Pub. L. 109–163, div. A, title V, § 508(a), title X, § 1057(a)(2), Jan. 6, 2006, 119 Stat. 3229, 3440; Pub. L. 110–181, div. A, title V, § 543(a)(1)–(3)(A), Jan. 28, 2008, 122 Stat. 114; Pub. L. 114–328, div. A, title V, § 502(*l*), Dec. 23, 2016, 130 Stat. 2103; renumbered § 7037, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838; Pub. L. 119–60, div. A, title V, § 506(a), Dec. 18, 2025, 139 Stat. 858.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 164, § 3037; Pub. L. 85–861, § 33(a)(18), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 103–337, div. A, title V, § 504(a), Oct. 5, 1994, 108 Stat. 2750; Pub. L. 108–375, div. A, title V, § 574(a), Oct. 28, 2004, 118 Stat. 1921; Pub. L. 109–163, div. A, title V, § 508(a), title X, § 1057(a)(2), Jan. 6, 2006, 119 Stat. 3229, 3440; Pub. L. 110–181, div. A, title V, § 543(a)(1)–(3)(A), Jan. 28, 2008, 122 Stat. 114; Pub. L. 114–328, div. A, title V, § 502(*l*), Dec. 23, 2016, 130 Stat. 2103; renumbered § 7037, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838; Pub. L. 119–60, div. A, title V, § 506(a), Dec. 18, 2025, 139 Stat. 858.)
 
 **Historical and Revision Notes**
 
@@ -732,16 +732,16 @@ The Adjutant General.
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3037(a)   3037(b) 3037(c) | 10:21h(c). 10:61a. 50:741. 10:62. 10:62a. 10:63. | June 28, 1950, ch. 383, § 208(c), 64 Stat. 267. June 24, 1948, ch. 625, §§ 248, 249, 62 Stat. 643. May 5, 1950, ch. 169, § 13, 64 Stat. 147. |
+| 3037(a) 3037(b) 3037(c) | 10:21h(c). 10:61a. 50:741. 10:62. 10:62a. 10:63. | June 28, 1950, ch. 383, § 208(c), 64 Stat. 267. June 24, 1948, ch. 625, §§ 248, 249, 62 Stat. 643. May 5, 1950, ch. 169, § 13, 64 Stat. 147. |
 |  |  | R.S. 1199. |
-|  |  | June 23, 1874, ch. 458, § 2, 18 Stat. 244. |
+|  |  | June 23, 1874, ch. 458, § 2, 18 Stat. 244. |
 |  |  | R.S. 1201. |
 
 In subsection (a), the words “Notwithstanding any other provision of law” and “for such positions” are omitted as surplusage. The last sentence is substituted for 10:61a (last sentence). 10:21h(c) is omitted as covered by 10:61a.
 
 In subsection (b), the words “Hereafter” and “exclusive of the present incumbents” are omitted as surplusage.
 
-In subsection (c), the words “In addition to duties elsewhere prescribed for him by law”, in 10:62, are omitted as surplusage. The words “and perform such other duties as may be prescribed by the Secretary of the Army”, in 10:62, are omitted as superseded by sections 3012(e) and 3036(d) of this title. Clause (2) is substituted for 10:62a (words after semicolon) and 63. The Act of June 23, 1874, ch. 458, § 2 (words before semicolon of 1st sentence, and last sentence), 18 Stat. 244, are not contained in 10:62. They are also omitted from the revised section as superseded by sections 3037(a) and 3211 of this title.
+In subsection (c), the words “In addition to duties elsewhere prescribed for him by law”, in 10:62, are omitted as surplusage. The words “and perform such other duties as may be prescribed by the Secretary of the Army”, in 10:62, are omitted as superseded by sections 3012(e) and 3036(d) of this title. Clause (2) is substituted for 10:62a (words after semicolon) and 63. The Act of June 23, 1874, ch. 458, § 2 (words before semicolon of 1st sentence, and last sentence), 18 Stat. 244, are not contained in 10:62. They are also omitted from the revised section as superseded by sections 3037(a) and 3211 of this title.
 
 **1958 Act**
 
@@ -757,19 +757,19 @@ The change corrects an inadvertence. The source statute for section 3036(c) of t
 
 2016—Subsec. (a). Pub. L. 114–328 struck out last two sentences which read as follows: “The Judge Advocate General, while so serving, has the grade of lieutenant general. An officer appointed as Deputy Judge Advocate General who holds a lower regular grade shall be appointed in the regular grade of major general.”
 
-2008—Pub. L. 110–181, § 543(a)(3)(A), amended section catchline generally, substituting “Deputy” for “Assistant”.
+2008—Pub. L. 110–181, § 543(a)(3)(A), amended section catchline generally, substituting “Deputy” for “Assistant”.
 
-Subsec. (a). Pub. L. 110–181, § 543(a)(1), (2)(A), substituted “Deputy Judge Advocate General” for “Assistant Judge Advocate General” wherever appearing and substituted “The Judge Advocate General, while so serving, has the grade of lieutenant general.” for “The Judge Advocate General, while so serving, shall hold a grade not lower than major general.”
+Subsec. (a). Pub. L. 110–181, § 543(a)(1), (2)(A), substituted “Deputy Judge Advocate General” for “Assistant Judge Advocate General” wherever appearing and substituted “The Judge Advocate General, while so serving, has the grade of lieutenant general.” for “The Judge Advocate General, while so serving, shall hold a grade not lower than major general.”
 
-Subsec. (d). Pub. L. 110–181, § 543(a)(2)(B), substituted “Deputy Judge Advocate General” for “Assistant Judge Advocate General”.
+Subsec. (d). Pub. L. 110–181, § 543(a)(2)(B), substituted “Deputy Judge Advocate General” for “Assistant Judge Advocate General”.
 
-2006—Subsec. (a). Pub. L. 109–163, § 508(a), substituted “The Judge Advocate General, while so serving, shall hold a grade not lower than major general. An officer appointed as Assistant Judge Advocate General who holds a lower regular grade shall be appointed in the regular grade of major general.” for “If an officer who is so appointed holds a lower regular grade, he shall be appointed in the regular grade of major general.”
+2006—Subsec. (a). Pub. L. 109–163, § 508(a), substituted “The Judge Advocate General, while so serving, shall hold a grade not lower than major general. An officer appointed as Assistant Judge Advocate General who holds a lower regular grade shall be appointed in the regular grade of major general.” for “If an officer who is so appointed holds a lower regular grade, he shall be appointed in the regular grade of major general.”
 
-Subsec. (b). Pub. L. 109–163, § 1057(a)(2), struck out “or Territory” after “a State”.
+Subsec. (b). Pub. L. 109–163, § 1057(a)(2), struck out “or Territory” after “a State”.
 
-2004—Subsec. (a). Pub. L. 108–375, § 574(a)(1), substituted “The term of office of the Judge Advocate General and the Assistant Judge Advocate General is four years.” for “An officer appointed as the Judge Advocate General or Assistant Judge Advocate General normally holds office for four years. However, the President may terminate or extend the appointment at any time.”
+2004—Subsec. (a). Pub. L. 108–375, § 574(a)(1), substituted “The term of office of the Judge Advocate General and the Assistant Judge Advocate General is four years.” for “An officer appointed as the Judge Advocate General or Assistant Judge Advocate General normally holds office for four years. However, the President may terminate or extend the appointment at any time.”
 
-Subsec. (e). Pub. L. 108–375, § 574(a)(2), added subsec. (e).
+Subsec. (e). Pub. L. 108–375, § 574(a)(2), added subsec. (e).
 
 1994—Subsec. (d). Pub. L. 103–337 added subsec. (d).
 
@@ -785,7 +785,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under section 101 of this title.
 
-## § 7038. Office of Army Reserve: appointment of Chief
+## § 7038. Office of Army Reserve: appointment of Chief
 
 **(a)** There is in the executive part of the Department of the Army an Office of the Army Reserve which is headed by a chief who is the adviser to the Chief of Staff on Army Reserve matters.
 
@@ -817,7 +817,7 @@ Any such waiver shall be made on a case-by-case basis.
 
 **(f) Annual Report.—** The Chief of Army Reserve shall submit to the Secretary of Defense, through the Secretary of the Army, an annual report on the state of the Army Reserve and the ability of the Army Reserve to meet its missions. The report shall be prepared in conjunction with the Chief of Staff of the Army and may be submitted in classified and unclassified versions.
 
-(Added Pub. L. 90–168, § 2(16), Dec. 1, 1967, 81 Stat. 523, § 3019; renumbered § 3038 and amended Pub. L. 99–433, title V, §§ 501(a)(4), 502(g)(1), Oct. 1, 1986, 100 Stat. 1034, 1042; Pub. L. 103–337, div. A, title XVI, § 1672(c)(1), Oct. 5, 1994, 108 Stat. 3015; Pub. L. 104–201, div. A, title XII, § 1212(a), Sept. 23, 1996, 110 Stat. 2691; Pub. L. 106–65, div. A, title V, § 554(b), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, § 1 [[div. A], title V, § 507(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–102; Pub. L. 107–314, div. A, title V, § 501(a), Dec. 2, 2002, 116 Stat. 2529; Pub. L. 108–375, div. A, title V, § 536(a), Oct. 28, 2004, 118 Stat. 1901; Pub. L. 114–328, div. A, title V, § 502(m), Dec. 23, 2016, 130 Stat. 2103; Pub. L. 115–91, div. A, title X, § 1051(a)(28), Dec. 12, 2017, 131 Stat. 1562; renumbered § 7038, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Added Pub. L. 90–168, § 2(16), Dec. 1, 1967, 81 Stat. 523, § 3019; renumbered § 3038 and amended Pub. L. 99–433, title V, §§ 501(a)(4), 502(g)(1), Oct. 1, 1986, 100 Stat. 1034, 1042; Pub. L. 103–337, div. A, title XVI, § 1672(c)(1), Oct. 5, 1994, 108 Stat. 3015; Pub. L. 104–201, div. A, title XII, § 1212(a), Sept. 23, 1996, 110 Stat. 2691; Pub. L. 106–65, div. A, title V, § 554(b), Oct. 5, 1999, 113 Stat. 617; Pub. L. 106–398, § 1 [[div. A], title V, § 507(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–102; Pub. L. 107–314, div. A, title V, § 501(a), Dec. 2, 2002, 116 Stat. 2529; Pub. L. 108–375, div. A, title V, § 536(a), Oct. 28, 2004, 118 Stat. 1901; Pub. L. 114–328, div. A, title V, § 502(m), Dec. 23, 2016, 130 Stat. 2103; Pub. L. 115–91, div. A, title X, § 1051(a)(28), Dec. 12, 2017, 131 Stat. 1562; renumbered § 7038, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Editorial Notes**
 
@@ -837,7 +837,7 @@ Prior sections 7048 to 7050 were renumbered sections 8548 to 8550 of this title.
 
 2017—Subsec. (f). Pub. L. 115–91 struck out par. (1) designation before “The Chief of Army Reserve” and struck out par. (2) which read as follows: “The Secretary of Defense shall transmit the annual report of the Chief of Army Reserve under paragraph (1) to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under section 113 of this title is submitted to Congress.”
 
-2016—Subsec. (c). Pub. L. 114–328 struck out “; Grade” after “Reappointment” in heading, and in text struck out par. (1) designation before “The Chief of Army Reserve” and struck out par. (2) which read as follows: “The Chief of Army Reserve, while so serving, holds the grade of lieutenant general.”
+2016—Subsec. (c). Pub. L. 114–328 struck out “; Grade” after “Reappointment” in heading, and in text struck out par. (1) designation before “The Chief of Army Reserve” and struck out par. (2) which read as follows: “The Chief of Army Reserve, while so serving, holds the grade of lieutenant general.”
 
 2004—Subsec. (b)(4). Pub. L. 108–375 substituted “December 31, 2006” for “December 31, 2004” in introductory provisions.
 
@@ -859,9 +859,9 @@ Subsec. (c). Pub. L. 106–398 amended subsec. (c) generally. Prior to amendment
 
 1994—Subsec. (b). Pub. L. 103–337 substituted “10211” for “265”.
 
-1986—Pub. L. 99–433, § 501(a)(4), renumbered section 3019 of this title as this section.
+1986—Pub. L. 99–433, § 501(a)(4), renumbered section 3019 of this title as this section.
 
-Subsec. (c). Pub. L. 99–433, § 502(g)(1), substituted “service” for “services”.
+Subsec. (c). Pub. L. 99–433, § 502(g)(1), substituted “service” for “services”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -871,7 +871,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 1999 Amendment; Applicability to Incumbents**
 
-Pub. L. 106–65, div. A, title V, § 554(g), (h), Oct. 5, 1999, 113 Stat. 617, provided that:
+Pub. L. 106–65, div. A, title V, § 554(g), (h), Oct. 5, 1999, 113 Stat. 617, provided that:
 
 > **“(g) Effective Date.—** The amendments made by this section [enacting section 12505 of this title and amending this section and sections 5143, 5144, 8038, and 10506 of this title] shall take effect 60 days after the date of the enactment of this Act [Oct. 5, 1999].
 

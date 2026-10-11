@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2003—Pub. L. 108–136, div. A, title V, § 523(b)(2), Nov. 24, 2003, 117 Stat. 1464, added item 2103a.
+2003—Pub. L. 108–136, div. A, title V, § 523(b)(2), Nov. 24, 2003, 117 Stat. 1464, added item 2103a.
 
-1999—Pub. L. 106–65, div. A, title V, § 541(a)(2), Oct. 5, 1999, 113 Stat. 606, added item 2111b.
+1999—Pub. L. 106–65, div. A, title V, § 541(a)(2), Oct. 5, 1999, 113 Stat. 606, added item 2111b.
 
-1997—Pub. L. 105–85, div. A, title V, § 544(f)(2), Nov. 18, 1997, 111 Stat. 1746, substituted “Support for” for “Detail of officers to” in item 2111a.
+1997—Pub. L. 105–85, div. A, title V, § 544(f)(2), Nov. 18, 1997, 111 Stat. 1746, substituted “Support for” for “Detail of officers to” in item 2111a.
 
-1996—Pub. L. 104–106, div. A, title V, § 545(b), Feb. 10, 1996, 110 Stat. 318, added item 2111a.
+1996—Pub. L. 104–106, div. A, title V, § 545(b), Feb. 10, 1996, 110 Stat. 318, added item 2111a.
 
-1991—Pub. L. 102–190, div. A, title V, § 522(b)(2), Dec. 5, 1991, 105 Stat. 1362, substituted “Army Reserve and Army National Guard” for “military junior colleges” in item 2107a.
+1991—Pub. L. 102–190, div. A, title V, § 522(b)(2), Dec. 5, 1991, 105 Stat. 1362, substituted “Army Reserve and Army National Guard” for “military junior colleges” in item 2107a.
 
-1988—Pub. L. 100–456, div. A, title VI, § 633(a)(3)(B), Sept. 29, 1988, 102 Stat. 1986, substituted “Practical military training” for “Field training; practice cruises” in item 2109.
+1988—Pub. L. 100–456, div. A, title VI, § 633(a)(3)(B), Sept. 29, 1988, 102 Stat. 1986, substituted “Practical military training” for “Field training; practice cruises” in item 2109.
 
-1980—Pub. L. 96–357, § 1(c)(2), Sept. 24, 1980, 94 Stat. 1180, added item 2107a.
+1980—Pub. L. 96–357, § 1(c)(2), Sept. 24, 1980, 94 Stat. 1180, added item 2107a.
 
-1964—Pub. L. 88–647, title II, § 201(1), Oct. 13, 1964, 78 Stat. 1064, added chapter heading and items 2101 to 2111.
+1964—Pub. L. 88–647, title II, § 201(1), Oct. 13, 1964, 78 Stat. 1064, added chapter heading and items 2101 to 2111.
 
-## § 2101. Definitions
+## § 2101. Definitions
 
 In this chapter:
 
@@ -45,7 +45,7 @@ In this chapter:
 
 **(3)** The term “advanced training” means the training and instruction offered in the Senior Reserve Officers’ Training Corps to students enrolled in an advanced education program beyond the baccalaureate degree level or to students in the third and fourth years of a four-year Senior Reserve Officers’ Training Corps course, or the equivalent period of training in an approved two-year Senior Reserve Officers’ Training Corps course (except that, in the case of a student enrolled in an academic program which has been approved by the Secretary of the military department concerned and which requires more than four academic years for completion of baccalaureate degree requirements, including elective requirements of the Senior Reserve Officers’ Training Corps course, such term includes a fifth academic year or a combination of a part of a fifth academic year and summer sessions).
 
-(Added Pub. L. 88–647, title II, § 201(1), Oct. 13, 1964, 78 Stat. 1064; amended Pub. L. 98–94, title X, § 1003(a)(1), title XII, § 1268(11), Sept. 24, 1983, 97 Stat. 656, 706; Pub. L. 100–180, div. A, title XII, § 1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 104–201, div. A, title V, § 553(b), Sept. 23, 1996, 110 Stat. 2526.)
+(Added Pub. L. 88–647, title II, § 201(1), Oct. 13, 1964, 78 Stat. 1064; amended Pub. L. 98–94, title X, § 1003(a)(1), title XII, § 1268(11), Sept. 24, 1983, 97 Stat. 656, 706; Pub. L. 100–180, div. A, title XII, § 1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 104–201, div. A, title V, § 553(b), Sept. 23, 1996, 110 Stat. 2526.)
 
 **Editorial Notes**
 
@@ -55,21 +55,21 @@ In this chapter:
 
 1987—Pub. L. 100–180, in pars. (1) to (3), inserted “The term” after each par. designation, and struck out uppercase letter of first word after first quotation marks in each par. and substituted lowercase letter.
 
-1983—Pub. L. 98–94, § 1268(11)(A), substituted a colon for a dash after “In this chapter” in provision preceding par. (1).
+1983—Pub. L. 98–94, § 1268(11)(A), substituted a colon for a dash after “In this chapter” in provision preceding par. (1).
 
-Par. (1). Pub. L. 98–94, § 1268(11)(B), (C), substituted “Program” for “program” and a period for a semicolon after “armed force”.
+Par. (1). Pub. L. 98–94, § 1268(11)(B), (C), substituted “Program” for “program” and a period for a semicolon after “armed force”.
 
-Par. (2). Pub. L. 98–94, § 1268(11)(D), (E), substituted “Member” for “member”, and a period for “; and” after “armed force”.
+Par. (2). Pub. L. 98–94, § 1268(11)(D), (E), substituted “Member” for “member”, and a period for “; and” after “armed force”.
 
-Par. (3). Pub. L. 98–94, § 1268(11)(F), substituted “Advanced” for “advanced”.
+Par. (3). Pub. L. 98–94, § 1268(11)(F), substituted “Advanced” for “advanced”.
 
-Pub. L. 98–94, § 1003(a)(1), inserted parenthetical provision relating to a fifth academic year or a combination of a fifth academic year and summer sessions.
+Pub. L. 98–94, § 1003(a)(1), inserted parenthetical provision relating to a fifth academic year or a combination of a fifth academic year and summer sessions.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Limitation on Authority To Reorganize the Senior Reserve Officers’ Training Corps of the Army**
 
-Pub. L. 119–60, div. A, title V, § 548, Dec. 18, 2025, 139 Stat. 875, provided that:
+Pub. L. 119–60, div. A, title V, § 548, Dec. 18, 2025, 139 Stat. 875, provided that:
 
 > **“(a) Briefing on Reorganization Plans.—** Not later than March 1, 2026, the Secretary of the Army shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the plans of the Secretary of the Army with respect to reorganization of the program or individual units of the program. Such briefing shall include the following:
 
@@ -103,7 +103,7 @@ Pub. L. 119–60, div. A, title V, § 548, Dec. 18, 2025, 139 Stat. 875, provi
 
 **Pilot Programs Authorized in Connection With SROTC Units and CSPI Programs at Historically Black Colleges and Universities and Minority Institutions**
 
-Pub. L. 116–283, div. A, title V, § 519, Jan. 1, 2021, 134 Stat. 3591, provided that:
+Pub. L. 116–283, div. A, title V, § 519, Jan. 1, 2021, 134 Stat. 3591, provided that:
 
 > **“(a) Pilot Programs Required.—** The Secretary of Defense may carry out two pilot programs as follows:
 
@@ -217,11 +217,11 @@ Pub. L. 116–283, div. A, title V, § 519, Jan. 1, 2021, 134 Stat. 3591, prov
 
 **Sexual Assault Prevention and Response Training for Administrators and Instructors of Senior Reserve Officers’ Training Corps**
 
-Pub. L. 114–92, div. A, title V, § 540, Nov. 25, 2015, 129 Stat. 818, provided that: “The Secretary of a military department shall ensure that the commander of each unit of the Senior Reserve Officers’ Training Corps and all Professors of Military Science, senior military instructors, and civilian employees detailed, assigned, or employed as administrators and instructors of the Senior Reserve Officers’ Training Corps receive regular sexual assault prevention and response training and education.”
+Pub. L. 114–92, div. A, title V, § 540, Nov. 25, 2015, 129 Stat. 818, provided that: “The Secretary of a military department shall ensure that the commander of each unit of the Senior Reserve Officers’ Training Corps and all Professors of Military Science, senior military instructors, and civilian employees detailed, assigned, or employed as administrators and instructors of the Senior Reserve Officers’ Training Corps receive regular sexual assault prevention and response training and education.”
 
 **Promotion of Foreign Language Skills Among Members of the Reserve Officers’ Training Corps**
 
-Pub. L. 109–163, div. A, title V, § 535, Jan. 6, 2006, 119 Stat. 3249, as amended by Pub. L. 111–383, div. A, title X, § 1075(h)(2), Jan. 7, 2011, 124 Stat. 4377, provided that:
+Pub. L. 109–163, div. A, title V, § 535, Jan. 6, 2006, 119 Stat. 3249, as amended by Pub. L. 111–383, div. A, title X, § 1075(h)(2), Jan. 7, 2011, 124 Stat. 4377, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall support the acquisition of foreign language skills among cadets and midshipmen in the Reserve Officers’ Training Corps, including through the development and implementation of—
 
@@ -231,7 +231,7 @@ Pub. L. 109–163, div. A, title V, § 535, Jan. 6, 2006, 119 Stat. 3249, as a
 
 > **“(b) Report Required.—** Not later than 180 days after the date of the enactment of this Act [Jan. 6, 2006], the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the actions taken to carry out this section.”
 
-## § 2102. Establishment
+## § 2102. Establishment
 
 **(a)** For the purpose of preparing selected students for commissioned service in the Army, Navy, Air Force, Marine Corps, or Space Force, the Secretary of each military department, under regulations prescribed by the President, may establish and maintain a Senior Reserve Officers’ Training Corps program, organized into one or more units, at any accredited civilian educational institution authorized to grant baccalaureate degrees, and at any school essentially military that does not confer baccalaureate degrees, upon the request of the authorities at that institution.
 
@@ -253,7 +253,7 @@ Pub. L. 109–163, div. A, title V, § 535, Jan. 6, 2006, 119 Stat. 3249, as a
 
 **(3)** the Secretary of the military department concerned determines that there will be not less than 40 students enrolled in such unit and that the provisions of this section are otherwise satisfied.
 
-(Added Pub. L. 88–647, title II, § 201(1), Oct. 13, 1964, 78 Stat. 1065; amended Pub. L. 95–79, title VI, § 602, July 30, 1977, 91 Stat. 332; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(BB), Jan. 1, 2021, 134 Stat. 3822.)
+(Added Pub. L. 88–647, title II, § 201(1), Oct. 13, 1964, 78 Stat. 1065; amended Pub. L. 95–79, title VI, § 602, July 30, 1977, 91 Stat. 332; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(BB), Jan. 1, 2021, 134 Stat. 3822.)
 
 **Editorial Notes**
 
@@ -267,7 +267,7 @@ Pub. L. 109–163, div. A, title V, § 535, Jan. 6, 2006, 119 Stat. 3249, as a
 
 **Military Training for Female Undergraduates at Military Colleges; Regulations**
 
-Pub. L. 95–485, title VIII, § 809, Oct. 20, 1978, 92 Stat. 1623, directed the Secretary of Defense to require that any college or university designated as a military college provide that qualified female undergraduate students be eligible to participate in military training at such college or university, and prohibited the Secretary from requiring such college or university to require female undergraduate students enrolled in such college or university to participate in military training, prior to repeal by Pub. L. 98–525, title XIV, §§ 1403(b), 1404, Oct. 19, 1984, 98 Stat. 2621, eff. Oct. 1, 1985. See section 2009 of this title.
+Pub. L. 95–485, title VIII, § 809, Oct. 20, 1978, 92 Stat. 1623, directed the Secretary of Defense to require that any college or university designated as a military college provide that qualified female undergraduate students be eligible to participate in military training at such college or university, and prohibited the Secretary from requiring such college or university to require female undergraduate students enrolled in such college or university to participate in military training, prior to repeal by Pub. L. 98–525, title XIV, §§ 1403(b), 1404, Oct. 19, 1984, 98 Stat. 2621, eff. Oct. 1, 1985. See section 2009 of this title.
 
 **Executive Documents**
 
@@ -275,7 +275,7 @@ Pub. L. 95–485, title VIII, § 809, Oct. 20, 1978, 92 Stat. 1623, directed t
 
 Functions of President under subsec. (a) of this section delegated to Secretary of Defense, see section 1(10) of Ex. Ord. No. 11390, Jan. 22, 1968, 33 F.R. 841, set out as a note under section 301 of Title 3, The President.
 
-## § 2103. Eligibility for membership
+## § 2103. Eligibility for membership
 
 **(a)** To be eligible for membership in the program a person must be a student at an institution where a unit of the Senior Reserve Officers’ Training Corps is established. However, a student at an institution that does not have a unit of the Corps is eligible, if otherwise qualified, to be a member of a unit at another institution.
 
@@ -287,7 +287,7 @@ Functions of President under subsec. (a) of this section delegated to Secretary 
 
 **(e)** An educational institution at which a unit of the program has been established shall give priority for enrollment in the program to students who are eligible for advanced training under section 2104 of this title.
 
-(Added Pub. L. 88–647, title II, § 201(1), Oct. 13, 1964, 78 Stat. 1065; amended Pub. L. 104–201, div. A, title V, § 551(a)(1), Sept. 23, 1996, 110 Stat. 2525.)
+(Added Pub. L. 88–647, title II, § 201(1), Oct. 13, 1964, 78 Stat. 1065; amended Pub. L. 104–201, div. A, title V, § 551(a)(1), Sept. 23, 1996, 110 Stat. 2525.)
 
 **Editorial Notes**
 
@@ -295,7 +295,7 @@ Functions of President under subsec. (a) of this section delegated to Secretary 
 
 1996—Subsec. (e). Pub. L. 104–201 added subsec. (e).
 
-## § 2103a. Students not eligible for advanced training: commitment to military service
+## § 2103a. Students not eligible for advanced training: commitment to military service
 
 **(a) Authority.—** A member of the program who has completed successfully the first year of a four-year Senior Reserve Officers’ Training Corps course and who is not eligible for advanced training under section 2104 of this title and is not a cadet or midshipman appointed under section 2107 of this title may—
 
@@ -313,7 +313,7 @@ Functions of President under subsec. (a) of this section delegated to Secretary 
 
 **(c) Parental Consent for Minors.—** A member of the program who is a minor may enter into a contract under subsection (a)(1) only with the consent of the member’s parent or guardian.
 
-(Added Pub. L. 108–136, div. A, title V, § 523(b)(1), Nov. 24, 2003, 117 Stat. 1464; amended Pub. L. 108–375, div. A, title V, § 525, Oct. 28, 2004, 118 Stat. 1889; Pub. L. 109–364, div. A, title X, § 1071(a)(10), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(CC), Jan. 1, 2021, 134 Stat. 3822.)
+(Added Pub. L. 108–136, div. A, title V, § 523(b)(1), Nov. 24, 2003, 117 Stat. 1464; amended Pub. L. 108–375, div. A, title V, § 525, Oct. 28, 2004, 118 Stat. 1889; Pub. L. 109–364, div. A, title X, § 1071(a)(10), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(CC), Jan. 1, 2021, 134 Stat. 3822.)
 
 **Editorial Notes**
 
@@ -329,9 +329,9 @@ Functions of President under subsec. (a) of this section delegated to Secretary 
 
 **Effective Date**
 
-Pub. L. 108–136, div. A, title V, § 523(c), Nov. 24, 2003, 117 Stat. 1464, provided that: “The amendments made by subsections (a) and (b) [enacting this section and amending section 209 of Title 37, Pay and Allowances of the Uniformed Services] shall take effect on January 1, 2004.”
+Pub. L. 108–136, div. A, title V, § 523(c), Nov. 24, 2003, 117 Stat. 1464, provided that: “The amendments made by subsections (a) and (b) [enacting this section and amending section 209 of Title 37, Pay and Allowances of the Uniformed Services] shall take effect on January 1, 2004.”
 
-## § 2104. Advanced training; eligibility for
+## § 2104. Advanced training; eligibility for
 
 **(a)** Advanced training shall be provided to eligible members of the program and, if the institution concerned so requests, to eligible applicants for membership in the program.
 
@@ -363,7 +363,7 @@ Pub. L. 108–136, div. A, title V, § 523(c), Nov. 24, 2003, 117 Stat. 1464, 
 
 **(d)** This section does not apply to cadets and midshipmen appointed under section 2107, or foreign students enrolled under section 2103(b), of this title.
 
-(Added Pub. L. 88–647, title II, § 201(1), Oct. 13, 1964, 78 Stat. 1065; amended Pub. L. 98–94, title X, § 1003(a)(2), Sept. 24, 1983, 97 Stat. 656; Pub. L. 98–525, title V, § 543(a), title XIV, § 1401(h), Oct. 19, 1984, 98 Stat. 2530, 2619; Pub. L. 104–106, div. A, title V, § 544, Feb. 10, 1996, 110 Stat. 317; Pub. L. 107–107, div. A, title V, § 535(a), Dec. 28, 2001, 115 Stat. 1106; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(DD), Jan. 1, 2021, 134 Stat. 3822.)
+(Added Pub. L. 88–647, title II, § 201(1), Oct. 13, 1964, 78 Stat. 1065; amended Pub. L. 98–94, title X, § 1003(a)(2), Sept. 24, 1983, 97 Stat. 656; Pub. L. 98–525, title V, § 543(a), title XIV, § 1401(h), Oct. 19, 1984, 98 Stat. 2530, 2619; Pub. L. 104–106, div. A, title V, § 544, Feb. 10, 1996, 110 Stat. 317; Pub. L. 107–107, div. A, title V, § 535(a), Dec. 28, 2001, 115 Stat. 1106; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(DD), Jan. 1, 2021, 134 Stat. 3822.)
 
 **Editorial Notes**
 
@@ -371,67 +371,67 @@ Pub. L. 108–136, div. A, title V, § 523(c), Nov. 24, 2003, 117 Stat. 1464, 
 
 Provisions similar to those in subsec. (b)(7) of this section were contained in the following appropriation acts:
 
-Pub. L. 98–473, title I, § 101(h) [title VIII, § 8018], Oct. 12, 1984, 98 Stat. 1904, 1926.
+Pub. L. 98–473, title I, § 101(h) [title VIII, § 8018], Oct. 12, 1984, 98 Stat. 1904, 1926.
 
-Pub. L. 98–212, title VII, § 722, Dec. 8, 1983, 97 Stat. 1442.
+Pub. L. 98–212, title VII, § 722, Dec. 8, 1983, 97 Stat. 1442.
 
-Pub. L. 97–377, title I, § 101(c) [title VII, § 722], Dec. 21, 1982, 96 Stat. 1833, 1854.
+Pub. L. 97–377, title I, § 101(c) [title VII, § 722], Dec. 21, 1982, 96 Stat. 1833, 1854.
 
-Pub. L. 97–114, title VII, § 722, Dec. 29, 1981, 95 Stat. 1582.
+Pub. L. 97–114, title VII, § 722, Dec. 29, 1981, 95 Stat. 1582.
 
-Pub. L. 96–527, title VII, § 723, Dec. 15, 1980, 94 Stat. 3085.
+Pub. L. 96–527, title VII, § 723, Dec. 15, 1980, 94 Stat. 3085.
 
-Pub. L. 96–154, title VII, § 723, Dec. 21, 1979, 93 Stat. 1156.
+Pub. L. 96–154, title VII, § 723, Dec. 21, 1979, 93 Stat. 1156.
 
-Pub. L. 95–457, title VIII, § 823, Oct. 13, 1978, 92 Stat. 1248.
+Pub. L. 95–457, title VIII, § 823, Oct. 13, 1978, 92 Stat. 1248.
 
-Pub. L. 95–111, title VIII, § 822, Sept. 21, 1977, 91 Stat. 903.
+Pub. L. 95–111, title VIII, § 822, Sept. 21, 1977, 91 Stat. 903.
 
-Pub. L. 94–419, title VII, § 722, Sept. 22, 1976, 90 Stat. 1295.
+Pub. L. 94–419, title VII, § 722, Sept. 22, 1976, 90 Stat. 1295.
 
-Pub. L. 94–212, title VII, § 722, Feb. 9, 1976, 90 Stat. 172.
+Pub. L. 94–212, title VII, § 722, Feb. 9, 1976, 90 Stat. 172.
 
-Pub. L. 93–437, title VIII, § 822, Oct. 8, 1974, 88 Stat. 1228.
+Pub. L. 93–437, title VIII, § 822, Oct. 8, 1974, 88 Stat. 1228.
 
-Pub. L. 93–238, title VII, § 723, Jan. 2, 1974, 87 Stat. 1042.
+Pub. L. 93–238, title VII, § 723, Jan. 2, 1974, 87 Stat. 1042.
 
-Pub. L. 92–570, title VII, § 723, Oct. 26, 1972, 86 Stat. 1200.
+Pub. L. 92–570, title VII, § 723, Oct. 26, 1972, 86 Stat. 1200.
 
-Pub. L. 92–204, title VII, § 723, Dec. 18, 1971, 85 Stat. 731.
+Pub. L. 92–204, title VII, § 723, Dec. 18, 1971, 85 Stat. 731.
 
-Pub. L. 91–668, title VIII, § 823, Jan. 11, 1971, 84 Stat. 2034.
+Pub. L. 91–668, title VIII, § 823, Jan. 11, 1971, 84 Stat. 2034.
 
-Pub. L. 91–171, title VI, § 623, Dec. 29, 1969, 83 Stat. 484.
+Pub. L. 91–171, title VI, § 623, Dec. 29, 1969, 83 Stat. 484.
 
-Pub. L. 90–580, title V, § 522, Oct. 17, 1968, 82 Stat. 1133.
+Pub. L. 90–580, title V, § 522, Oct. 17, 1968, 82 Stat. 1133.
 
-Pub. L. 90–96, title VI, § 622, Sept. 29, 1967, 81 Stat. 246.
+Pub. L. 90–96, title VI, § 622, Sept. 29, 1967, 81 Stat. 246.
 
-Pub. L. 89–687, title VI, § 622, Oct. 15, 1966, 80 Stat. 995.
+Pub. L. 89–687, title VI, § 622, Oct. 15, 1966, 80 Stat. 995.
 
-Pub. L. 89–213, title VI, § 622, Sept. 29, 1965, 79 Stat. 877.
+Pub. L. 89–213, title VI, § 622, Sept. 29, 1965, 79 Stat. 877.
 
-Pub. L. 88–446, title VI, § 522, Aug. 19, 1964, 78 Stat. 478.
+Pub. L. 88–446, title VI, § 522, Aug. 19, 1964, 78 Stat. 478.
 
-Pub. L. 88–149, title V, § 522, Oct. 17, 1963, 77 Stat. 267.
+Pub. L. 88–149, title V, § 522, Oct. 17, 1963, 77 Stat. 267.
 
-Pub. L. 87–577, title V, § 522, Aug. 9, 1962, 76 Stat. 332.
+Pub. L. 87–577, title V, § 522, Aug. 9, 1962, 76 Stat. 332.
 
-Pub. L. 87–144, title VI, § 622, Aug. 17, 1961, 75 Stat. 379.
+Pub. L. 87–144, title VI, § 622, Aug. 17, 1961, 75 Stat. 379.
 
-Pub. L. 86–601, title V, § 522, July 7, 1960, 74 Stat. 353.
+Pub. L. 86–601, title V, § 522, July 7, 1960, 74 Stat. 353.
 
-Pub. L. 86–166, title V, § 622, Aug. 18, 1959, 73 Stat. 382.
+Pub. L. 86–166, title V, § 622, Aug. 18, 1959, 73 Stat. 382.
 
-Pub. L. 85–724, title VI, § 624, Aug. 22, 1958, 72 Stat. 728.
+Pub. L. 85–724, title VI, § 624, Aug. 22, 1958, 72 Stat. 728.
 
-Pub. L. 85–117, title VI, § 625, Aug. 2, 1957, 71 Stat. 327.
+Pub. L. 85–117, title VI, § 625, Aug. 2, 1957, 71 Stat. 327.
 
-July 2, 1956, ch. 488, title VI, § 625, 70 Stat. 471.
+July 2, 1956, ch. 488, title VI, § 625, 70 Stat. 471.
 
-July 13, 1955, ch. 358, title VI, § 629, 69 Stat. 320.
+July 13, 1955, ch. 358, title VI, § 629, 69 Stat. 320.
 
-June 30, 1954, ch. 432, title VII, § 731, 68 Stat. 356.
+June 30, 1954, ch. 432, title VII, § 731, 68 Stat. 356.
 
 **Amendments**
 
@@ -441,11 +441,11 @@ June 30, 1954, ch. 432, title VII, § 731, 68 Stat. 356.
 
 1996—Subsec. (b)(6)(A)(ii). Pub. L. 104–106 substituted “a duration” for “not less than six weeks’ duration”.
 
-1984—Subsec. (a). Pub. L. 98–525, § 543(a)(1), struck out “, who have at least two academic years remaining at such educational institution” after “in the program”.
+1984—Subsec. (a). Pub. L. 98–525, § 543(a)(1), struck out “, who have at least two academic years remaining at such educational institution” after “in the program”.
 
-Subsec. (b)(6). Pub. L. 98–525, § 543(a)(2), inserted initial word “either”, redesignated existing subpars. (A) and (B) as cls. (i) and (ii) of subpar. (A), and added subpar. (B).
+Subsec. (b)(6). Pub. L. 98–525, § 543(a)(2), inserted initial word “either”, redesignated existing subpars. (A) and (B) as cls. (i) and (ii) of subpar. (A), and added subpar. (B).
 
-Subsec. (b)(7). Pub. L. 98–525, § 1401(h), added par. (7).
+Subsec. (b)(7). Pub. L. 98–525, § 1401(h), added par. (7).
 
 1983—Subsec. (a). Pub. L. 98–94 substituted “who have at least two academic years” for “who have two academic years”.
 
@@ -453,15 +453,15 @@ Subsec. (b)(7). Pub. L. 98–525, § 1401(h), added par. (7).
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–525, title V, § 543(b), Oct. 19, 1984, 98 Stat. 2530, provided that: “The amendments made by subsection (a) [amending this section] do not constitute authority for the enactment of new budget authority for a fiscal year beginning before October 1, 1984.”
+Pub. L. 98–525, title V, § 543(b), Oct. 19, 1984, 98 Stat. 2530, provided that: “The amendments made by subsection (a) [amending this section] do not constitute authority for the enactment of new budget authority for a fiscal year beginning before October 1, 1984.”
 
 Amendment by section 1401(h) of Pub. L. 98–525 effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as an Effective Date note under section 520b of this title.
 
-## § 2105. Advanced training; failure to complete or to accept commission
+## § 2105. Advanced training; failure to complete or to accept commission
 
 A member of the program who is selected for advanced training under section 2104 of this title, and who does not complete the course of instruction, or who completes the course but declines to accept a commission when offered, may be ordered to active duty by the Secretary of the military department concerned to serve in his enlisted grade or rating for such period of time as the Secretary prescribes but not for more than two years. If the member does not complete the period of active duty prescribed by the Secretary concerned, the member shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 
-(Added Pub. L. 88–647, title II, § 201(1), Oct. 13, 1964, 78 Stat. 1066; amended Pub. L. 109–163, div. A, title VI, § 687(c)(4), Jan. 6, 2006, 119 Stat. 3334; Pub. L. 109–364, div. A, title X, § 1071(a)(11), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 115–91, div. A, title VI, § 618(a)(1)(D), Dec. 12, 2017, 131 Stat. 1426.)
+(Added Pub. L. 88–647, title II, § 201(1), Oct. 13, 1964, 78 Stat. 1066; amended Pub. L. 109–163, div. A, title VI, § 687(c)(4), Jan. 6, 2006, 119 Stat. 3334; Pub. L. 109–364, div. A, title X, § 1071(a)(11), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 115–91, div. A, title VI, § 618(a)(1)(D), Dec. 12, 2017, 131 Stat. 1426.)
 
 **Editorial Notes**
 
@@ -479,7 +479,7 @@ Pub. L. 109–163 inserted at end “If the member does not complete the period 
 
 For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
 
-## § 2106. Advanced training; commission on completion
+## § 2106. Advanced training; commission on completion
 
 **(a)** Upon satisfactorily completing the academic and military requirements of the program of advanced training, a member of the program who was selected for advanced training under section 2104 of this title may be appointed as a regular or reserve officer in the appropriate armed force in the grade of second lieutenant or ensign, even though he is under 21 years of age.
 
@@ -487,7 +487,7 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 **(c)** In computing length of service for any purpose, an officer appointed under this section may not be credited with enlisted service for the period covered by his advanced training, other than any period of enlisted service performed on or after August 1, 1979, as a member of the Selected Reserve.
 
-(Added Pub. L. 88–647, title II, § 201(1), Oct. 13, 1964, 78 Stat. 1066; amended Pub. L. 102–484, div. A, title V, § 517(a)(1), Oct. 23, 1992, 106 Stat. 2407; Pub. L. 104–201, div. A, title V, § 507(a)(1), Sept. 23, 1996, 110 Stat. 2512.)
+(Added Pub. L. 88–647, title II, § 201(1), Oct. 13, 1964, 78 Stat. 1066; amended Pub. L. 102–484, div. A, title V, § 517(a)(1), Oct. 23, 1992, 106 Stat. 2407; Pub. L. 104–201, div. A, title V, § 507(a)(1), Sept. 23, 1996, 110 Stat. 2512.)
 
 **Editorial Notes**
 
@@ -495,15 +495,15 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 1996—Subsec. (c). Pub. L. 104–201 substituted “performed on or after August 1, 1979, as a member of the Selected Reserve” for “while serving on active duty other than for training after July 31, 1990, while a member of the Selected Reserve”.
 
-1992—Subsec. (c). Pub. L. 102–484 inserted before period at end “, other than any period of enlisted service while serving on active duty other than for training after July 31, 1990, while a member of the Selected Reserve”.
+1992—Subsec. (c). Pub. L. 102–484 inserted before period at end “, other than any period of enlisted service while serving on active duty other than for training after July 31, 1990, while a member of the Selected Reserve”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Benefits Not To Accrue for Periods Prior to September 23, 1996**
 
-Pub. L. 104–201, div. A, title V, § 507(c), Sept. 23, 1996, 110 Stat. 2512, provided that: “No increase in pay or retired or retainer pay shall accrue for periods before the date of the enactment of this Act [Sept. 23, 1996] by reason of the amendments made by this section [amending this section, sections 2107 and 2107a of this title, and section 205 of Title 37, Pay and Allowances of the Uniformed Services].”
+Pub. L. 104–201, div. A, title V, § 507(c), Sept. 23, 1996, 110 Stat. 2512, provided that: “No increase in pay or retired or retainer pay shall accrue for periods before the date of the enactment of this Act [Sept. 23, 1996] by reason of the amendments made by this section [amending this section, sections 2107 and 2107a of this title, and section 205 of Title 37, Pay and Allowances of the Uniformed Services].”
 
-## § 2107. Financial assistance program for specially selected members
+## § 2107. Financial assistance program for specially selected members
 
 **(a)** The Secretary of the military department concerned may appoint as a cadet or midshipman, as appropriate, in the reserve of an armed force under his jurisdiction any eligible member of the program who will be under 31 years of age on December 31 of the calendar year in which he is eligible under this section for appointment as an ensign in the Navy or as a second lieutenant in the Army, Air Force, Marine Corps, or Space Force.
 
@@ -547,7 +547,7 @@ The performance of service under clause (5)(B) or (5)(C) may include periods of 
 
 **(3)** In the case of a cadet or midshipman eligible to receive financial assistance under paragraph (1) or (2), the Secretary of the military department concerned may, in lieu of all or part of the financial assistance described in paragraph (1), provide financial assistance in the form of room and board expenses for the cadet or midshipman and other expenses required by the educational institution.
 
-**[(4)** Repealed. Pub. L. 109–163, div. A, title V, § 531(a)(1), Jan. 6, 2006, 119 Stat. 3247.]
+**[(4)** Repealed. Pub. L. 109–163, div. A, title V, § 531(a)(1), Jan. 6, 2006, 119 Stat. 3247.]
 
 **(5)**
 
@@ -611,7 +611,7 @@ The performance of service under clause (5)(B) or (5)(C) may include periods of 
 
 **(2)** Provisions of this section referring to a reserve commission, reserve officer, or a commission in a reserve component shall be treated as also referring to the commission of an officer, or an officer, who is a commissioned officer in the Space Force not serving on active duty pursuant to section 20105(b) of this title.
 
-(Added Pub. L. 88–647, title II, § 201(1), Oct. 13, 1964, 78 Stat. 1066; amended Pub. L. 92–166, § 1, Nov. 24, 1971, 85 Stat. 487; Pub. L. 96–357, § 1(a), (b), Sept. 24, 1980, 94 Stat. 1178; Pub. L. 96–513, title V, § 511(62), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 97–60, title II, § 201, Oct. 14, 1981, 95 Stat. 1005; Pub. L. 98–94, title X, § 1003(a)(3), (c)(1), (2), Sept. 24, 1983, 97 Stat. 656, 657; Pub. L. 98–525, title V, § 542(a), title XIV, § 1405(33), Oct. 19, 1984, 98 Stat. 2529, 2624; Pub. L. 100–180, div. A, title V, § 510, Dec. 4, 1987, 101 Stat. 1087; Pub. L. 102–484, div. A, title V, §§ 517(a)(2), 532(a), Oct. 23, 1992, 106 Stat. 2407, 2411; Pub. L. 104–106, div. A, title V, § 542, Feb. 10, 1996, 110 Stat. 316; Pub. L. 104–201, div. A, title V, §§ 507(a)(2), 553(a), 555(a), Sept. 23, 1996, 110 Stat. 2512, 2526, 2527; Pub. L. 106–65, div. A, title V, § 545, Oct. 5, 1999, 113 Stat. 608; Pub. L. 107–107, div. A, title V, § 534(a), Dec. 28, 2001, 115 Stat. 1106; Pub. L. 107–314, div. A, title V, § 532(d), (e), Dec. 2, 2002, 116 Stat. 2547; Pub. L. 108–136, div. A, title V, § 521(a), Nov. 24, 2003, 117 Stat. 1462; Pub. L. 108–375, div. A, title V, § 524(a), Oct. 28, 2004, 118 Stat. 1888; Pub. L. 109–163, div. A, title V, §§ 531(a), 533(a), 534(a), Jan. 6, 2006, 119 Stat. 3247, 3248; Pub. L. 112–239, div. A, title V, § 551, Jan. 2, 2013, 126 Stat. 1741; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(EE), (30), Jan. 1, 2021, 134 Stat. 3822, 3825; Pub. L. 117–81, div. A, title X, § 1081(a)(26), Dec. 27, 2021, 135 Stat. 1921; Pub. L. 118–31, div. A, title XVII, § 1722(*l*)(2), Dec. 22, 2023, 137 Stat. 674; Pub. L. 118–159, div. A, title V, § 521(h), Dec. 23, 2024, 138 Stat. 1881; Pub. L. 119–60, div. A, title XVII, § 1701(a)(16), Dec. 18, 2025, 139 Stat. 1208.)
+(Added Pub. L. 88–647, title II, § 201(1), Oct. 13, 1964, 78 Stat. 1066; amended Pub. L. 92–166, § 1, Nov. 24, 1971, 85 Stat. 487; Pub. L. 96–357, § 1(a), (b), Sept. 24, 1980, 94 Stat. 1178; Pub. L. 96–513, title V, § 511(62), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 97–60, title II, § 201, Oct. 14, 1981, 95 Stat. 1005; Pub. L. 98–94, title X, § 1003(a)(3), (c)(1), (2), Sept. 24, 1983, 97 Stat. 656, 657; Pub. L. 98–525, title V, § 542(a), title XIV, § 1405(33), Oct. 19, 1984, 98 Stat. 2529, 2624; Pub. L. 100–180, div. A, title V, § 510, Dec. 4, 1987, 101 Stat. 1087; Pub. L. 102–484, div. A, title V, §§ 517(a)(2), 532(a), Oct. 23, 1992, 106 Stat. 2407, 2411; Pub. L. 104–106, div. A, title V, § 542, Feb. 10, 1996, 110 Stat. 316; Pub. L. 104–201, div. A, title V, §§ 507(a)(2), 553(a), 555(a), Sept. 23, 1996, 110 Stat. 2512, 2526, 2527; Pub. L. 106–65, div. A, title V, § 545, Oct. 5, 1999, 113 Stat. 608; Pub. L. 107–107, div. A, title V, § 534(a), Dec. 28, 2001, 115 Stat. 1106; Pub. L. 107–314, div. A, title V, § 532(d), (e), Dec. 2, 2002, 116 Stat. 2547; Pub. L. 108–136, div. A, title V, § 521(a), Nov. 24, 2003, 117 Stat. 1462; Pub. L. 108–375, div. A, title V, § 524(a), Oct. 28, 2004, 118 Stat. 1888; Pub. L. 109–163, div. A, title V, §§ 531(a), 533(a), 534(a), Jan. 6, 2006, 119 Stat. 3247, 3248; Pub. L. 112–239, div. A, title V, § 551, Jan. 2, 2013, 126 Stat. 1741; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(EE), (30), Jan. 1, 2021, 134 Stat. 3822, 3825; Pub. L. 117–81, div. A, title X, § 1081(a)(26), Dec. 27, 2021, 135 Stat. 1921; Pub. L. 118–31, div. A, title XVII, § 1722(*l*)(2), Dec. 22, 2023, 137 Stat. 674; Pub. L. 118–159, div. A, title V, § 521(h), Dec. 23, 2024, 138 Stat. 1881; Pub. L. 119–60, div. A, title XVII, § 1701(a)(16), Dec. 18, 2025, 139 Stat. 1208.)
 
 **Editorial Notes**
 
@@ -619,59 +619,59 @@ The performance of service under clause (5)(B) or (5)(C) may include periods of 
 
 2025—Subsec. (k). Pub. L. 119–60 struck out heading.
 
-2024—Subsec. (a). Pub. L. 118–159, § 521(h)(1), substituted “Marine Corps, or Space Force” for “Marine Corps,, as the case may be”.
+2024—Subsec. (a). Pub. L. 118–159, § 521(h)(1), substituted “Marine Corps, or Space Force” for “Marine Corps,, as the case may be”.
 
-Subsec. (d). Pub. L. 118–159, § 521(h)(2), substituted “lieutenant or ensign,” for “lieutenant, ensign, or an equivalent grade in the Space Force,”.
+Subsec. (d). Pub. L. 118–159, § 521(h)(2), substituted “lieutenant or ensign,” for “lieutenant, ensign, or an equivalent grade in the Space Force,”.
 
-2023—Subsec. (a). Pub. L. 118–31, § 1722(*l*)(2)(A), substituted “Navy or” for “Navy,” and struck out “or as an officer in the equivalent grade in the Space Force” after “Marine Corps,”.
+2023—Subsec. (a). Pub. L. 118–31, § 1722(*l*)(2)(A), substituted “Navy or” for “Navy,” and struck out “or as an officer in the equivalent grade in the Space Force” after “Marine Corps,”.
 
-Subsec. (k). Pub. L. 118–31, § 1722(*l*)(2)(B), added subsec. (k).
+Subsec. (k). Pub. L. 118–31, § 1722(*l*)(2)(B), added subsec. (k).
 
-2021—Pub. L. 116–283, § 924(b)(3)(EE), substituted “Marine Corps, or Space Force” for “or Marine Corps” wherever appearing.
+2021—Pub. L. 116–283, § 924(b)(3)(EE), substituted “Marine Corps, or Space Force” for “or Marine Corps” wherever appearing.
 
 Subsec. (a). Pub. L. 117–81 struck out “or Space Force” after “in the Space Force”.
 
-Pub. L. 116–283, § 924(b)(30)(A), substituted “, as a second lieutenant” for “or as a second lieutenant” and inserted “or as an officer in the equivalent grade in the Space Force” after “Marine Corps,”.
+Pub. L. 116–283, § 924(b)(30)(A), substituted “, as a second lieutenant” for “or as a second lieutenant” and inserted “or as an officer in the equivalent grade in the Space Force” after “Marine Corps,”.
 
-Subsec. (b)(3). Pub. L. 116–283, § 924(b)(30)(B)(i), substituted “the reserve component of an armed force” for “the reserve component of the armed force in which he is appointed as a cadet or midshipman”.
+Subsec. (b)(3). Pub. L. 116–283, § 924(b)(30)(B)(i), substituted “the reserve component of an armed force” for “the reserve component of the armed force in which he is appointed as a cadet or midshipman”.
 
-Subsec. (b)(5). Pub. L. 116–283, § 924(b)(30)(B)(ii), substituted “reserve component of an armed force” for “reserve component of that armed force” wherever appearing.
+Subsec. (b)(5). Pub. L. 116–283, § 924(b)(30)(B)(ii), substituted “reserve component of an armed force” for “reserve component of that armed force” wherever appearing.
 
-Subsec. (d). Pub. L. 116–283, § 924(b)(30)(C), substituted “second lieutenant, ensign, or an equivalent grade in the Space Force” for “second lieutenant or ensign”.
+Subsec. (d). Pub. L. 116–283, § 924(b)(30)(C), substituted “second lieutenant, ensign, or an equivalent grade in the Space Force” for “second lieutenant or ensign”.
 
 2013—Subsec. (c)(1). Pub. L. 112–239 struck out at end “At least 50 percent of the cadets and midshipmen appointed under this section must qualify for in-State tuition rates at their respective institutions and will receive tuition benefits at that rate.”
 
-2006—Subsec. (b)(1). Pub. L. 109–163, § 534(a), inserted “or national” after “citizen”.
+2006—Subsec. (b)(1). Pub. L. 109–163, § 534(a), inserted “or national” after “citizen”.
 
-Subsec. (c)(4). Pub. L. 109–163, § 531(a)(1), struck out par. (4) which read as follows: “The total amount of financial assistance, including the payment of room and board and other educational expenses, provided to a cadet or midshipman in an academic year under this subsection may not exceed an amount equal to the amount that could be provided as financial assistance for such cadet or midshipman under paragraph (1) or (2), or another amount determined by the Secretary concerned, without regard to whether room and board and other educational expenses for such cadet or midshipman are paid under paragraph (3).”
+Subsec. (c)(4). Pub. L. 109–163, § 531(a)(1), struck out par. (4) which read as follows: “The total amount of financial assistance, including the payment of room and board and other educational expenses, provided to a cadet or midshipman in an academic year under this subsection may not exceed an amount equal to the amount that could be provided as financial assistance for such cadet or midshipman under paragraph (1) or (2), or another amount determined by the Secretary concerned, without regard to whether room and board and other educational expenses for such cadet or midshipman are paid under paragraph (3).”
 
-Subsec. (c)(5)(B). Pub. L. 109–163, § 531(a)(2), substituted “or (3)” for “, (3), or (4)”.
+Subsec. (c)(5)(B). Pub. L. 109–163, § 531(a)(2), substituted “or (3)” for “, (3), or (4)”.
 
-Subsec. (j). Pub. L. 109–163, § 533(a), added subsec. (j).
+Subsec. (j). Pub. L. 109–163, § 533(a), added subsec. (j).
 
 2004—Subsec. (c)(5). Pub. L. 108–375 added par. (5).
 
 2003—Subsec. (c)(3), (4). Pub. L. 108–136 added pars. (3) and (4).
 
-2002—Subsec. (h)(1). Pub. L. 107–314, § 532(e), struck out first sentence which read as follows: “Not more than 29,500 cadets and midshipmen appointed under this section may be in the financial assistance programs at any one time.”
+2002—Subsec. (h)(1). Pub. L. 107–314, § 532(e), struck out first sentence which read as follows: “Not more than 29,500 cadets and midshipmen appointed under this section may be in the financial assistance programs at any one time.”
 
-Subsec. (i). Pub. L. 107–314, § 532(d), added subsec. (i).
+Subsec. (i). Pub. L. 107–314, § 532(d), added subsec. (i).
 
-2001—Subsec. (a). Pub. L. 107–107 substituted “31 years of age on December 31” for “27 years of age on June 30” and struck out “, except that the age of any such member who has served on active duty in the armed forces may exceed such age limitation on such date by a period equal to the period such member served on active duty, but only if such member will be under 30 years of age on such date” before period at end.
+2001—Subsec. (a). Pub. L. 107–107 substituted “31 years of age on December 31” for “27 years of age on June 30” and struck out “, except that the age of any such member who has served on active duty in the armed forces may exceed such age limitation on such date by a period equal to the period such member served on active duty, but only if such member will be under 30 years of age on such date” before period at end.
 
 1999—Subsec. (c)(2). Pub. L. 106–65 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary of Defense shall authorize the Secretaries of the military departments to carry out a test program to determine the desirability of enabling graduate students to participate in the financial assistance program under this section. As part of such test program, the Secretary of a military department may provide financial assistance, as described in paragraph (1), to a student enrolled in an advanced education program beyond the baccalaureate degree level if the student also is a cadet or midshipman in an advanced training program. Not more than 15 percent of the total number of scholarships awarded under this section in any year may be awarded under the test program. No scholarship may be awarded under the test program after September 30, 1999.”
 
-1996—Subsec. (a). Pub. L. 104–201, § 555(a), substituted “27 years of age” for “25 years of age” and “30 years of age” for “29 years of age”.
+1996—Subsec. (a). Pub. L. 104–201, § 555(a), substituted “27 years of age” for “25 years of age” and “30 years of age” for “29 years of age”.
 
-Subsec. (c). Pub. L. 104–201, § 553(a), designated existing provisions as par. (1) and added par. (2).
+Subsec. (c). Pub. L. 104–201, § 553(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (g). Pub. L. 104–201, § 507(a)(2), substituted “performed on or after August 1, 1979, as a member” for “while serving on active duty other than for training after July 31, 1990, while a member”.
+Subsec. (g). Pub. L. 104–201, § 507(a)(2), substituted “performed on or after August 1, 1979, as a member” for “while serving on active duty other than for training after July 31, 1990, while a member”.
 
 Subsec. (h)(2). Pub. L. 104–106 inserted “A cadet designated under this paragraph who, having initially contracted for service as provided in subsection (b)(5)(A) and having received financial assistance for two years under an award providing for four years of financial assistance under this section, modifies such contract with the consent of the Secretary of the Army to provide for service as described in subsection (b)(5)(B), may be counted, for the year in which the contract is modified, toward the number of appointments required under the preceding sentence for financial assistance awarded for a period of four years.” after first sentence and “full-time” after “for service on” in penultimate sentence.
 
-1992—Subsec. (g). Pub. L. 102–484, § 517(a)(2), inserted before period at end “, other than concurrent enlisted service while serving on active duty other than for training after July 31, 1990, while a member of the Selected Reserve”.
+1992—Subsec. (g). Pub. L. 102–484, § 517(a)(2), inserted before period at end “, other than concurrent enlisted service while serving on active duty other than for training after July 31, 1990, while a member of the Selected Reserve”.
 
-Subsec. (h). Pub. L. 102–484, § 532(a), designated existing provisions as par. (1) and added par. (2).
+Subsec. (h). Pub. L. 102–484, § 532(a), designated existing provisions as par. (1) and added par. (2).
 
 1987—Subsec. (h). Pub. L. 100–180 amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Not more than the following numbers of cadets and midshipmen appointed under this section may be in the financial assistance programs at any one time:
 
@@ -681,51 +681,51 @@ Subsec. (h). Pub. L. 102–484, § 532(a), designated existing provisions as p
 
 “Air Force program: 9,500.”
 
-1984—Subsec. (b). Pub. L. 98–525, § 1405(33), aligned margin of provision following par. (5)(C)(ii) flush with left margin.
+1984—Subsec. (b). Pub. L. 98–525, § 1405(33), aligned margin of provision following par. (5)(C)(ii) flush with left margin.
 
-Subsec. (b)(5)(A)(i). Pub. L. 98–525, § 542(a)(1), inserted “or before such other date, not beyond the eighth anniversary of the midshipman’s date of rank, that the Secretary of Defense may prescribe”.
+Subsec. (b)(5)(A)(i). Pub. L. 98–525, § 542(a)(1), inserted “or before such other date, not beyond the eighth anniversary of the midshipman’s date of rank, that the Secretary of Defense may prescribe”.
 
-Subsec. (b)(5)(C)(ii). Pub. L. 98–525, § 542(a)(2), substituted “at least the sixth anniversary and, at the discretion of the Secretary of Defense, up to the eighth anniversary” for “the sixth anniversary”.
+Subsec. (b)(5)(C)(ii). Pub. L. 98–525, § 542(a)(2), substituted “at least the sixth anniversary and, at the discretion of the Secretary of Defense, up to the eighth anniversary” for “the sixth anniversary”.
 
-1983—Subsec. (b)(5). Pub. L. 98–94, § 1003(c)(1), struck out “either” after “he will” in provisions preceding subpar. (A)(i), and added subpar. (C).
+1983—Subsec. (b)(5). Pub. L. 98–94, § 1003(c)(1), struck out “either” after “he will” in provisions preceding subpar. (A)(i), and added subpar. (C).
 
-Pub. L. 98–94, § 1003(c)(2), inserted in provisions following subpar. (C) “or (5)(C)” after “(5)(B)” and “, except that performance of service under clause (5)(C) shall include not less than two years of active duty”.
+Pub. L. 98–94, § 1003(c)(2), inserted in provisions following subpar. (C) “or (5)(C)” after “(5)(B)” and “, except that performance of service under clause (5)(C) shall include not less than two years of active duty”.
 
-Subsec. (c). Pub. L. 98–94, § 1003(a)(3), inserted provision relating to a student enrolled in an approved academic program which requires more than four academic years for completion of the baccalaureate degree requirements.
+Subsec. (c). Pub. L. 98–94, § 1003(a)(3), inserted provision relating to a student enrolled in an approved academic program which requires more than four academic years for completion of the baccalaureate degree requirements.
 
 1981—Subsec. (h). Pub. L. 97–60 substituted “8,000” for “6,000” in item covering the Navy program and “9,500” for “6,500” in item covering the Air Force program.
 
-1980—Subsec. (a). Pub. L. 96–357, § 1(a), authorized cadet or midshipmen appointments in the reserve of an armed force for eligible members of the program with active duty service in the armed forces beyond the age limitation equal to period of active duty service not to exceed 29 years of age by June 30 of calendar year of appointment and deleted provision for appointment as cadets or midshipmen from persons in two-year Senior Reserve Officers’ Training Corps course up to 20 percent of number of appointees.
+1980—Subsec. (a). Pub. L. 96–357, § 1(a), authorized cadet or midshipmen appointments in the reserve of an armed force for eligible members of the program with active duty service in the armed forces beyond the age limitation equal to period of active duty service not to exceed 29 years of age by June 30 of calendar year of appointment and deleted provision for appointment as cadets or midshipmen from persons in two-year Senior Reserve Officers’ Training Corps course up to 20 percent of number of appointees.
 
-Subsec. (b)(5). Pub. L. 96–357, § 1(b)(2), provided for exercise of discretion by the Secretary concerned, incorporated existing provisions in subcl. (A)(i), incorporated in subcl. (A)(ii) provision of former cl. (6), added subcl. (B) and defined the performance of service under such subcl. (B).
+Subsec. (b)(5). Pub. L. 96–357, § 1(b)(2), provided for exercise of discretion by the Secretary concerned, incorporated existing provisions in subcl. (A)(i), incorporated in subcl. (A)(ii) provision of former cl. (6), added subcl. (B) and defined the performance of service under such subcl. (B).
 
-Subsec. (b)(6). Pub. L. 96–357, § 1(b)(2), struck out cl. (6) requiring as condition of appointment a written agreement for active duty service of four or more years. See subcl. (5)(A)(ii).
+Subsec. (b)(6). Pub. L. 96–357, § 1(b)(2), struck out cl. (6) requiring as condition of appointment a written agreement for active duty service of four or more years. See subcl. (5)(A)(ii).
 
-Subsec. (e). Pub. L. 96–513, § 511(62)(A), substituted “Military” for “Miilitary”.
+Subsec. (e). Pub. L. 96–513, § 511(62)(A), substituted “Military” for “Miilitary”.
 
-Subsec. (h). Pub. L. 96–513, § 511(62)(B), substituted “this section” for “section 2107 of this title”.
+Subsec. (h). Pub. L. 96–513, § 511(62)(B), substituted “this section” for “section 2107 of this title”.
 
-Pub. L. 96–357, § 1(b)(3), substituted “Army program: 12,000” for “Army program: 6,500”.
+Pub. L. 96–357, § 1(b)(3), substituted “Army program: 12,000” for “Army program: 6,500”.
 
-1971—Subsec. (a). Pub. L. 92–166, § 1(1), substituted “Not more than 20 percent of the persons appointed as cadets or midshipmen by the Secretary in any year may be appointed from persons in the two-year Senior Reserve Officers’ Training Corps course.”, for “However, a member whose enrollment in the Senior Reserve Officers’ Training Corps program contemplates less than four years of participation in the program may not be appointed a cadet or midshipman under this section, or receive any financial assistance authorized by this section.”.
+1971—Subsec. (a). Pub. L. 92–166, § 1(1), substituted “Not more than 20 percent of the persons appointed as cadets or midshipmen by the Secretary in any year may be appointed from persons in the two-year Senior Reserve Officers’ Training Corps course.”, for “However, a member whose enrollment in the Senior Reserve Officers’ Training Corps program contemplates less than four years of participation in the program may not be appointed a cadet or midshipman under this section, or receive any financial assistance authorized by this section.”.
 
-Subsec. (c). Pub. L. 92–166, § 1(2), provided that at least 50% of the cadets and midshipmen appointed under this section must qualify for in-State tuition rates at their respective institutions and will receive tuition benefits at the rate.
+Subsec. (c). Pub. L. 92–166, § 1(2), provided that at least 50% of the cadets and midshipmen appointed under this section must qualify for in-State tuition rates at their respective institutions and will receive tuition benefits at the rate.
 
-Subsec. (h). Pub. L. 92–166, § 1(4), substituted “Army program: 6500” for “Army program: 5500”, “Navy program: 6000” for “Navy program: 5500” and “Air Force program: 6500” for “Air Force program: 5500”.
+Subsec. (h). Pub. L. 92–166, § 1(4), substituted “Army program: 6500” for “Army program: 5500”, “Navy program: 6000” for “Navy program: 5500” and “Air Force program: 6500” for “Air Force program: 5500”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–136, div. A, title V, § 521(c), Nov. 24, 2003, 117 Stat. 1463, provided that: “The amendments made by this section [amending this section and section 2107a of this title] shall apply to payment of expenses of cadets and midshipmen of the Senior Reserve Officers’ Training Corps program that are due after the date of the enactment of this Act [Nov. 24, 2003].”
+Pub. L. 108–136, div. A, title V, § 521(c), Nov. 24, 2003, 117 Stat. 1463, provided that: “The amendments made by this section [amending this section and section 2107a of this title] shall apply to payment of expenses of cadets and midshipmen of the Senior Reserve Officers’ Training Corps program that are due after the date of the enactment of this Act [Nov. 24, 2003].”
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–484, div. A, title V, § 532(b), Oct. 23, 1992, 106 Stat. 2411, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on January 1, 1993.”
+Pub. L. 102–484, div. A, title V, § 532(b), Oct. 23, 1992, 106 Stat. 2411, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on January 1, 1993.”
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–94, title X, § 1003(c)(3), Sept. 24, 1983, 97 Stat. 657, provided that: “The amendments made by this subsection [amending this section] shall apply with respect to agreements entered into under section 2107(b)(5) of title 10, United States Code, after September 30, 1983.”
+Pub. L. 98–94, title X, § 1003(c)(3), Sept. 24, 1983, 97 Stat. 657, provided that: “The amendments made by this subsection [amending this section] shall apply with respect to agreements entered into under section 2107(b)(5) of title 10, United States Code, after September 30, 1983.”
 
 **Effective Date of 1980 Amendments**
 
@@ -735,23 +735,23 @@ Amendment by Pub. L. 96–357 effective Oct. 1, 1980, see section 1(e) of Pub. L
 
 **Effective Date of 1971 Amendment**
 
-Pub. L. 92–166, § 2, Nov. 24, 1971, 85 Stat. 487, provided that: “This Act [amending this section] is effective July 1, 1971.”
+Pub. L. 92–166, § 2, Nov. 24, 1971, 85 Stat. 487, provided that: “This Act [amending this section] is effective July 1, 1971.”
 
 **Effective Date**
 
-Pub. L. 88–647, title IV, § 403, Oct. 13, 1964, 78 Stat. 1074, provided that: “Insofar as it relates to the Army program and the Air Force program, section 2107(h) of title 10, United States Code [subsec. (h) of this section], becomes effective on September 1, 1968. Until that date, not more than four thousand cadets may be in either of those programs at any one time. So far as it relates to the Navy program, section 2107(h) of title 10 becomes effective on September 1, 1965.”
+Pub. L. 88–647, title IV, § 403, Oct. 13, 1964, 78 Stat. 1074, provided that: “Insofar as it relates to the Army program and the Air Force program, section 2107(h) of title 10, United States Code [subsec. (h) of this section], becomes effective on September 1, 1968. Until that date, not more than four thousand cadets may be in either of those programs at any one time. So far as it relates to the Navy program, section 2107(h) of title 10 becomes effective on September 1, 1965.”
 
 **Regulations**
 
-Pub. L. 109–163, div. A, title V, § 533(b), Jan. 6, 2006, 119 Stat. 3248, provided that: “The Secretary of Defense shall prescribe the regulations required under subsection (j) of section 2107 of title 10, United States Code (as added by subsection (a)), not later than May 1, 2006.”
+Pub. L. 109–163, div. A, title V, § 533(b), Jan. 6, 2006, 119 Stat. 3248, provided that: “The Secretary of Defense shall prescribe the regulations required under subsection (j) of section 2107 of title 10, United States Code (as added by subsection (a)), not later than May 1, 2006.”
 
 **Savings Provision**
 
-Pub. L. 109–163, div. A, title V, § 531(c), Jan. 6, 2006, 119 Stat. 3247, provided that: “Paragraph (4) of section 2107(c) of title 10, United States Code, and paragraph (3) of section 2107a(c) of such title, as in effect on the day before the date of the enactment of this Act [Jan. 6, 2006], shall continue to apply in the case of any individual selected before the date of the enactment of this Act for appointment as a cadet or midshipman under section 2107 or 2107a of such title.”
+Pub. L. 109–163, div. A, title V, § 531(c), Jan. 6, 2006, 119 Stat. 3247, provided that: “Paragraph (4) of section 2107(c) of title 10, United States Code, and paragraph (3) of section 2107a(c) of such title, as in effect on the day before the date of the enactment of this Act [Jan. 6, 2006], shall continue to apply in the case of any individual selected before the date of the enactment of this Act for appointment as a cadet or midshipman under section 2107 or 2107a of such title.”
 
 **Lieutenant Henry Ossian Flipper Leadership Scholarships**
 
-Pub. L. 115–91, div. A, title V, § 548, Dec. 12, 2017, 131 Stat. 1398, provided that:
+Pub. L. 115–91, div. A, title V, § 548, Dec. 12, 2017, 131 Stat. 1398, provided that:
 
 > **“(a) In General.—** The Secretary of the Army shall designate a number of scholarships under the Army Senior Reserve Officers’ Training Corps (SROTC) program that are available to students at minority-serving institutions as ‘Lieutenant Henry Ossian Flipper Leadership Scholarships’.
 
@@ -767,7 +767,7 @@ Pub. L. 115–91, div. A, title V, § 548, Dec. 12, 2017, 131 Stat. 1398, prov
 
 **Review Regarding Allocation of Naval Reserve Officers’ Training Corps Scholarships Among Participating Colleges and Universities**
 
-Pub. L. 105–261, div. A, title V, § 507, Oct. 17, 1998, 112 Stat. 2004, provided that:
+Pub. L. 105–261, div. A, title V, § 507, Oct. 17, 1998, 112 Stat. 2004, provided that:
 
 > **“(a) Review.—** The Secretary of the Navy should review the process and criteria used to determine the number of Naval Reserve Officer Training Corps (NROTC) scholarship recipients who attend each college and university participating in the NROTC program and how those scholarships are allocated to those schools.
 
@@ -795,13 +795,13 @@ No increase in pay or retired or retainer pay to accrue for periods before Sept.
 
 **Report to Congress on Test Program for Graduate Student Participation in Financial Assistance Program**
 
-Pub. L. 104–201, div. A, title V, § 553(c), Sept. 23, 1996, 110 Stat. 2526, directed the Secretary of Defense to submit to Congress a report, not later than Dec. 31, 1998, on the experience to that date under the test program authorized under the amendment to this section made by Pub. L. 104–201, § 553(a)(2).
+Pub. L. 104–201, div. A, title V, § 553(c), Sept. 23, 1996, 110 Stat. 2526, directed the Secretary of Defense to submit to Congress a report, not later than Dec. 31, 1998, on the experience to that date under the test program authorized under the amendment to this section made by Pub. L. 104–201, § 553(a)(2).
 
 **Application of ROTC Vitalization Act of 1964 to Appointees in Naval Reserve Before October 13, 1964**
 
-Pub. L. 89–51, § 1, June 28, 1965, 79 Stat. 173, provided: “That all provisions of law except sections 2107(b)(3) and (f) of title 10, United States Code [subsecs. (b)(3) and (f) of this section], that apply to midshipmen appointed under Public Law 88–647 [see Short Title note set out under section 2031 of this title], apply to midshipmen appointed in the Naval Reserve [now Navy Reserve] before October 13, 1964.” Section 4 of Pub. L. 89–51, set out as Effective Date of 1965 Amendment note under section 2109 of this title, provided that section 1 of Pub. L. 89–51 was effective Oct. 13, 1964.
+Pub. L. 89–51, § 1, June 28, 1965, 79 Stat. 173, provided: “That all provisions of law except sections 2107(b)(3) and (f) of title 10, United States Code [subsecs. (b)(3) and (f) of this section], that apply to midshipmen appointed under Public Law 88–647 [see Short Title note set out under section 2031 of this title], apply to midshipmen appointed in the Naval Reserve [now Navy Reserve] before October 13, 1964.” Section 4 of Pub. L. 89–51, set out as Effective Date of 1965 Amendment note under section 2109 of this title, provided that section 1 of Pub. L. 89–51 was effective Oct. 13, 1964.
 
-## § 2107a. Financial assistance program for specially selected members: Army Reserve and Army National Guard
+## § 2107a. Financial assistance program for specially selected members: Army Reserve and Army National Guard
 
 **(a)**
 
@@ -847,7 +847,7 @@ Pub. L. 89–51, § 1, June 28, 1965, 79 Stat. 173, provided: “That all prov
 
 **(2)** In the case of a cadet eligible to receive financial assistance under paragraph (1), the Secretary of the military department concerned may, in lieu of all or part of the financial assistance described in paragraph (1), provide financial assistance in the form of room and board expenses for such cadet and other expenses required by the educational institution.
 
-**[(3)** Repealed. Pub. L. 109–163, div. A, title V, § 531(b), Jan. 6, 2006, 119 Stat. 3247.]
+**[(3)** Repealed. Pub. L. 109–163, div. A, title V, § 531(b), Jan. 6, 2006, 119 Stat. 3247.]
 
 **(4)**
 
@@ -879,7 +879,7 @@ Pub. L. 89–51, § 1, June 28, 1965, 79 Stat. 173, provided: “That all prov
 
 **(j)** Financial assistance provided under this section to a cadet appointed at a military junior college is designated as, and shall be known as, an “Ike Skelton Early Commissioning Program Scholarship”.
 
-(Added Pub. L. 96–357, § 1(c)(1), Sept. 24, 1980, 94 Stat. 1179; amended Pub. L. 102–190, div. A, title V, § 522(a), (b)(1), Dec. 5, 1991, 105 Stat. 1362; Pub. L. 104–201, div. A, title V, §§ 507(a)(3), 555(a), Sept. 23, 1996, 110 Stat. 2512, 2527; Pub. L. 105–85, div. A, title X, § 1073(a)(36), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 107–107, div. A, title V, §§ 534(b), 536(a), (c), Dec. 28, 2001, 115 Stat. 1106, 1107; Pub. L. 108–136, div. A, title V, §§ 521(b), 522, Nov. 24, 2003, 117 Stat. 1463; Pub. L. 108–375, div. A, title V, § 524(b), Oct. 28, 2004, 118 Stat. 1889; Pub. L. 109–163, div. A, title V, §§ 531(b), 532, 534(b), 536, Jan. 6, 2006, 119 Stat. 3247–3249; Pub. L. 109–364, div. A, title V, § 535, Oct. 17, 2006, 120 Stat. 2207; Pub. L. 110–181, div. A, title V, §§ 522, 523, Jan. 28, 2008, 122 Stat. 102, 103; Pub. L. 111–84, div. A, title V, § 522, Oct. 28, 2009, 123 Stat. 2285.)
+(Added Pub. L. 96–357, § 1(c)(1), Sept. 24, 1980, 94 Stat. 1179; amended Pub. L. 102–190, div. A, title V, § 522(a), (b)(1), Dec. 5, 1991, 105 Stat. 1362; Pub. L. 104–201, div. A, title V, §§ 507(a)(3), 555(a), Sept. 23, 1996, 110 Stat. 2512, 2527; Pub. L. 105–85, div. A, title X, § 1073(a)(36), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 107–107, div. A, title V, §§ 534(b), 536(a), (c), Dec. 28, 2001, 115 Stat. 1106, 1107; Pub. L. 108–136, div. A, title V, §§ 521(b), 522, Nov. 24, 2003, 117 Stat. 1463; Pub. L. 108–375, div. A, title V, § 524(b), Oct. 28, 2004, 118 Stat. 1889; Pub. L. 109–163, div. A, title V, §§ 531(b), 532, 534(b), 536, Jan. 6, 2006, 119 Stat. 3247–3249; Pub. L. 109–364, div. A, title V, § 535, Oct. 17, 2006, 120 Stat. 2207; Pub. L. 110–181, div. A, title V, §§ 522, 523, Jan. 28, 2008, 122 Stat. 102, 103; Pub. L. 111–84, div. A, title V, § 522, Oct. 28, 2009, 123 Stat. 2285.)
 
 **Editorial Notes**
 
@@ -887,49 +887,49 @@ Pub. L. 89–51, § 1, June 28, 1965, 79 Stat. 173, provided: “That all prov
 
 2009—Subsec. (h). Pub. L. 111–84 substituted “22 cadets” for “17 cadets”, “22 members” for “17 members”, and “22 such members” for “17 such members”.
 
-2008—Subsec. (b)(3). Pub. L. 110–181, § 522, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “In the case of a cadet under this section at a military junior college, or a cadet or former cadet under this section who signs an agreement under section 2122 of this title, the Secretary may, at any time and with the consent of the cadet, or former cadet, concerned, modify an agreement described in paragraph (1)(F) submitted by the cadet, or former cadet, to reduce or eliminate the troop program unit service obligation specified in the agreement and to establish, in lieu of that obligation, an active duty service obligation. Such a modification may be made only if the Secretary determines that it is in the best interests of the United States to do so.”
+2008—Subsec. (b)(3). Pub. L. 110–181, § 522, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “In the case of a cadet under this section at a military junior college, or a cadet or former cadet under this section who signs an agreement under section 2122 of this title, the Secretary may, at any time and with the consent of the cadet, or former cadet, concerned, modify an agreement described in paragraph (1)(F) submitted by the cadet, or former cadet, to reduce or eliminate the troop program unit service obligation specified in the agreement and to establish, in lieu of that obligation, an active duty service obligation. Such a modification may be made only if the Secretary determines that it is in the best interests of the United States to do so.”
 
-Subsec. (h). Pub. L. 110–181, § 523, substituted “each year under this section” for “not more than 416 cadets each year under this section, to include”.
+Subsec. (h). Pub. L. 110–181, § 523, substituted “each year under this section” for “not more than 416 cadets each year under this section, to include”.
 
-2006—Subsec. (b)(1)(A). Pub. L. 109–163, § 534(b), inserted “or national” after “citizen”.
+2006—Subsec. (b)(1)(A). Pub. L. 109–163, § 534(b), inserted “or national” after “citizen”.
 
-Subsec. (b)(3). Pub. L. 109–364 inserted “or a cadet or former cadet under this section who signs an agreement under section 2122 of this title,” after “military junior college,” and “, or former cadet,” after “consent of the cadet” and after “submitted by the cadet”.
+Subsec. (b)(3). Pub. L. 109–364 inserted “or a cadet or former cadet under this section who signs an agreement under section 2122 of this title,” after “military junior college,” and “, or former cadet,” after “consent of the cadet” and after “submitted by the cadet”.
 
-Subsec. (c)(3). Pub. L. 109–163, § 531(b), struck out par. (3) which read as follows: “The total amount of financial assistance, including the payment of room and board and any other educational expenses, provided to a cadet in an academic year under this subsection may not exceed an amount equal to the amount that could be provided as financial assistance for such cadet under paragraph (1), or another amount determined by the Secretary of the Army, without regard to whether the room and board and other educational expenses for such cadet are paid under paragraph (2).”
+Subsec. (c)(3). Pub. L. 109–163, § 531(b), struck out par. (3) which read as follows: “The total amount of financial assistance, including the payment of room and board and any other educational expenses, provided to a cadet in an academic year under this subsection may not exceed an amount equal to the amount that could be provided as financial assistance for such cadet under paragraph (1), or another amount determined by the Secretary of the Army, without regard to whether the room and board and other educational expenses for such cadet are paid under paragraph (2).”
 
-Subsec. (h). Pub. L. 109–163, § 532, substituted “416” for “208”.
+Subsec. (h). Pub. L. 109–163, § 532, substituted “416” for “208”.
 
-Subsec. (j). Pub. L. 109–163, § 536, added subsec. (j).
+Subsec. (j). Pub. L. 109–163, § 536, added subsec. (j).
 
 2004—Subsec. (c)(4). Pub. L. 108–375 added par. (4).
 
-2003—Subsec. (c). Pub. L. 108–136, § 521(b), designated existing provisions as par. (1) and added pars. (2) and (3).
+2003—Subsec. (c). Pub. L. 108–136, § 521(b), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Subsec. (h). Pub. L. 108–136, § 522, substituted “17” for “10” wherever appearing.
+Subsec. (h). Pub. L. 108–136, § 522, substituted “17” for “10” wherever appearing.
 
-2001—Subsec. (a)(1). Pub. L. 107–107, § 534(b), substituted “31 years of age on December 31” for “27 years of age on June 30” and struck out “, except that the age of any such member who has served on active duty in the armed forces may exceed such age limitation on such date by a period equal to the period such member served on active duty, but only if such member will be under 30 years of age on such date” before period at end.
+2001—Subsec. (a)(1). Pub. L. 107–107, § 534(b), substituted “31 years of age on December 31” for “27 years of age on June 30” and struck out “, except that the age of any such member who has served on active duty in the armed forces may exceed such age limitation on such date by a period equal to the period such member served on active duty, but only if such member will be under 30 years of age on such date” before period at end.
 
-Subsec. (b). Pub. L. 107–107, § 536(a), designated introductory provisions of subsec. (b) as introductory provisions of par. (1), redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), redesignated former concluding provisions as par. (2), and added par. (3).
+Subsec. (b). Pub. L. 107–107, § 536(a), designated introductory provisions of subsec. (b) as introductory provisions of par. (1), redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), redesignated former concluding provisions as par. (2), and added par. (3).
 
-Subsec. (h). Pub. L. 107–107, § 536(c), substituted “At any military junior college” for “At any military college” in second sentence.
+Subsec. (h). Pub. L. 107–107, § 536(c), substituted “At any military junior college” for “At any military college” in second sentence.
 
 1997—Subsec. (g). Pub. L. 105–85 inserted “the” after “August 1, 1979, as a member of”.
 
-1996—Subsec. (a)(1). Pub. L. 104–201, § 555(a), substituted “27 years of age” for “25 years of age” and “30 years of age” for “29 years of age”.
+1996—Subsec. (a)(1). Pub. L. 104–201, § 555(a), substituted “27 years of age” for “25 years of age” and “30 years of age” for “29 years of age”.
 
-Subsec. (g). Pub. L. 104–201, § 507(a)(3), inserted “, other than enlisted service performed after August 1, 1979, as a member of Selected Reserve” before period at end.
+Subsec. (g). Pub. L. 104–201, § 507(a)(3), inserted “, other than enlisted service performed after August 1, 1979, as a member of Selected Reserve” before period at end.
 
-1991—Pub. L. 102–190, § 522(b)(1), substituted “Army Reserve and Army National Guard” for “military junior colleges” in section catchline.
+1991—Pub. L. 102–190, § 522(b)(1), substituted “Army Reserve and Army National Guard” for “military junior colleges” in section catchline.
 
-Subsec. (a)(1). Pub. L. 102–190, § 522(a)(1), substituted “enrolled in the Advanced Course of the Army Reserve Officers’ Training Corps at a military college, military junior college, or civilian institution” for “a student at a military junior college” and inserted “Reserve or Army National Guard” after “second lieutenant in the Army”.
+Subsec. (a)(1). Pub. L. 102–190, § 522(a)(1), substituted “enrolled in the Advanced Course of the Army Reserve Officers’ Training Corps at a military college, military junior college, or civilian institution” for “a student at a military junior college” and inserted “Reserve or Army National Guard” after “second lieutenant in the Army”.
 
-Subsec. (a)(2). Pub. L. 102–190, § 522(a)(2), inserted “military college or” after “To be considered a”, substituted “and meet” for “that does not confer baccalaureate degrees and that meets”, and inserted at end “For purposes of this section, a military junior college does not confer a baccalaureate degree.”
+Subsec. (a)(2). Pub. L. 102–190, § 522(a)(2), inserted “military college or” after “To be considered a”, substituted “and meet” for “that does not confer baccalaureate degrees and that meets”, and inserted at end “For purposes of this section, a military junior college does not confer a baccalaureate degree.”
 
-Subsec. (b)(6). Pub. L. 102–190, § 522(a)(3), substituted “a troop program unit of the Army Reserve or Army National Guard” for “such reserve component”.
+Subsec. (b)(6). Pub. L. 102–190, § 522(a)(3), substituted “a troop program unit of the Army Reserve or Army National Guard” for “such reserve component”.
 
-Subsec. (f). Pub. L. 102–190, § 522(a)(4), inserted “or who does not complete a baccalaureate degree within five years after appointment as a cadet under this section,” after “when offered,”.
+Subsec. (f). Pub. L. 102–190, § 522(a)(4), inserted “or who does not complete a baccalaureate degree within five years after appointment as a cadet under this section,” after “when offered,”.
 
-Subsec. (h). Pub. L. 102–190, § 522(a)(5), struck out par. (1) designation, substituted “not more than 208 cadets each year under this section, to include not less than 10 cadets” for “not less than 10 cadets under this section each year”, and struck out par. (2) which read as follows: “If the level of participation in the program at any military junior college meets criteria for such participation established by the Secretary of the Army by regulation, the Secretary shall appoint additional cadets under this section from among members of the program at such military junior college who are eligible under subsection (b) for such an appointment.”
+Subsec. (h). Pub. L. 102–190, § 522(a)(5), struck out par. (1) designation, substituted “not more than 208 cadets each year under this section, to include not less than 10 cadets” for “not less than 10 cadets under this section each year”, and struck out par. (2) which read as follows: “If the level of participation in the program at any military junior college meets criteria for such participation established by the Secretary of the Army by regulation, the Secretary shall appoint additional cadets under this section from among members of the program at such military junior college who are eligible under subsection (b) for such an appointment.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -939,11 +939,11 @@ Amendment by section 521(b) of Pub. L. 108–136 applicable to payment of expens
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–107, div. A, title V, § 536(b), Dec. 28, 2001, 115 Stat. 1107, provided that: “The authority of the Secretary of Defense under paragraph (3) of section 2107a(b) of title 10, United States Code, as added by subsection (a), may be exercised with regard to any agreement described in paragraph (1)(F) of such section (including agreements related to participation in the Advanced Course of the Army Reserve Officers’ Training Corps at a military college or civilian institution) that was entered into during the period beginning on January 1, 1991, and ending on July 12, 2000 (in addition to any agreement described in that paragraph that is entered into on or after the date of the enactment of this Act [Dec. 28, 2001]).”
+Pub. L. 107–107, div. A, title V, § 536(b), Dec. 28, 2001, 115 Stat. 1107, provided that: “The authority of the Secretary of Defense under paragraph (3) of section 2107a(b) of title 10, United States Code, as added by subsection (a), may be exercised with regard to any agreement described in paragraph (1)(F) of such section (including agreements related to participation in the Advanced Course of the Army Reserve Officers’ Training Corps at a military college or civilian institution) that was entered into during the period beginning on January 1, 1991, and ending on July 12, 2000 (in addition to any agreement described in that paragraph that is entered into on or after the date of the enactment of this Act [Dec. 28, 2001]).”
 
 **Effective Date**
 
-Pub. L. 96–357, § 1(e), Sept. 24, 1980, 94 Stat. 1180, provided that: “The amendments made by this section [enacting this section and amending sections 2107 and 2108 of this title] shall take effect on October 1, 1980.”
+Pub. L. 96–357, § 1(e), Sept. 24, 1980, 94 Stat. 1180, provided that: “The amendments made by this section [enacting this section and amending sections 2107 and 2108 of this title] shall take effect on October 1, 1980.”
 
 **Savings Provision**
 
@@ -953,7 +953,7 @@ Paragraph (3) of subsec. (c) of this section, as in effect on the day before Jan
 
 No increase in pay or retired or retainer pay to accrue for periods before Sept. 23, 1996, by reason of amendments made by section 507 of Pub. L. 104–201, see section 507(c) of Pub. L. 104–201, set out as a note under section 2106 of this title.
 
-## § 2108. Advanced standing; interruption of training; delay in starting obligated service; release from program
+## § 2108. Advanced standing; interruption of training; delay in starting obligated service; release from program
 
 **(a)** The Secretary of the military department concerned may give to any enlisted member of an armed force under his jurisdiction, or any person who has served on active duty in any armed force, such advanced standing in the program as may be justified by his education and training.
 
@@ -965,7 +965,7 @@ No increase in pay or retired or retainer pay to accrue for periods before Sept.
 
 **(e)** The Secretary of the military department concerned may, when he determines that the interest of the service so requires, release any person from the program and discharge him from his armed force.
 
-(Added Pub. L. 88–647, title II, § 201(1), Oct. 13, 1964, 78 Stat. 1068; amended Pub. L. 96–357, § 1(d), Sept. 24, 1980, 94 Stat. 1180.)
+(Added Pub. L. 88–647, title II, § 201(1), Oct. 13, 1964, 78 Stat. 1068; amended Pub. L. 96–357, § 1(d), Sept. 24, 1980, 94 Stat. 1180.)
 
 **Editorial Notes**
 
@@ -979,7 +979,7 @@ No increase in pay or retired or retainer pay to accrue for periods before Sept.
 
 Amendment by Pub. L. 96–357 effective Oct. 1, 1980, see section 1(e) of Pub. L. 96–357, set out as a note under section 2107a of this title.
 
-## § 2109. Practical military training
+## § 2109. Practical military training
 
 **(a)** For the further practical instruction of members of, and designated applicants for membership in, the program, the Secretary of the military department concerned may prescribe and conduct practical military training, in addition to field training and practice cruises prescribed under section 2104(b)(6) of this title. The Secretary concerned may require that some or all of the training prescribed under this subsection must be completed by a member before the member is commissioned.
 
@@ -1003,7 +1003,7 @@ Amendment by Pub. L. 96–357 effective Oct. 1, 1980, see section 1(e) of Pub. L
 
 **(2)** The Secretary of the military department concerned may waive the limitation in paragraph (1) under procedures prescribed by the Secretary. Such procedures shall ensure uniform application of limitations and restrictions without regard to the reason for disqualification for advanced training.
 
-(Added Pub. L. 88–647, title II, § 201(1), Oct. 13, 1964, 78 Stat. 1068; amended Pub. L. 89–51, § 2, June 28, 1965, 79 Stat. 173; Pub. L. 89–718, § 17, Nov. 2, 1966, 80 Stat. 1118; Pub. L. 100–456, div. A, title VI, § 633(a)(1)–(3)(A), Sept. 29, 1988, 102 Stat. 1986; Pub. L. 104–201, div. A, title V, § 551(a)(2), Sept. 23, 1996, 110 Stat. 2525; Pub. L. 105–85, div. A, title X, § 1073(a)(37), Nov. 18, 1997, 111 Stat. 1902.)
+(Added Pub. L. 88–647, title II, § 201(1), Oct. 13, 1964, 78 Stat. 1068; amended Pub. L. 89–51, § 2, June 28, 1965, 79 Stat. 173; Pub. L. 89–718, § 17, Nov. 2, 1966, 80 Stat. 1118; Pub. L. 100–456, div. A, title VI, § 633(a)(1)–(3)(A), Sept. 29, 1988, 102 Stat. 1986; Pub. L. 104–201, div. A, title V, § 551(a)(2), Sept. 23, 1996, 110 Stat. 2525; Pub. L. 105–85, div. A, title X, § 1073(a)(37), Nov. 18, 1997, 111 Stat. 1902.)
 
 **Editorial Notes**
 
@@ -1013,27 +1013,27 @@ Amendment by Pub. L. 96–357 effective Oct. 1, 1980, see section 1(e) of Pub. L
 
 1996—Subsec. (c). Pub. L. 104–201 added subsec. (c).
 
-1988—Pub. L. 100–456, § 633(a)(3)(A), substituted “Practical military training” for “Field training; practice cruises” in section catchline.
+1988—Pub. L. 100–456, § 633(a)(3)(A), substituted “Practical military training” for “Field training; practice cruises” in section catchline.
 
-Subsec. (a). Pub. L. 100–456, § 633(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “For the further practical instruction of members of the program, the Secretary of the military department concerned may prescribe and conduct field training and practice cruises (other than field training and practice cruises prescribed under section 2104(b)(6)(B) of this title) which members must complete before they are commissioned.”
+Subsec. (a). Pub. L. 100–456, § 633(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “For the further practical instruction of members of the program, the Secretary of the military department concerned may prescribe and conduct field training and practice cruises (other than field training and practice cruises prescribed under section 2104(b)(6)(B) of this title) which members must complete before they are commissioned.”
 
-Subsec. (b). Pub. L. 100–456, § 633(a)(2), inserted “, with respect to practical military training prescribed under this section and field training and practice cruises prescribed under section 2104(b)(6) of this title,” before “may” in introductory provisions, and substituted “such training” for “field training” in pars. (1) to (3).
+Subsec. (b). Pub. L. 100–456, § 633(a)(2), inserted “, with respect to practical military training prescribed under this section and field training and practice cruises prescribed under section 2104(b)(6) of this title,” before “may” in introductory provisions, and substituted “such training” for “field training” in pars. (1) to (3).
 
 1966—Subsec. (b). Pub. L. 89–718 inserted “and” at end of par. (3).
 
-1965—Subsec. (b). Pub. L. 89–51 inserted “, and designated applicants for membership in,” after “members of” in pars. (1) to (4).
+1965—Subsec. (b). Pub. L. 89–51 inserted “, and designated applicants for membership in,” after “members of” in pars. (1) to (4).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–456, div. A, title VI, § 633(e), Sept. 29, 1988, 102 Stat. 1987, provided that: “The amendments made by this section [amending this section, section 8140 of Title 5, Government Organization and Employees, section 209 of Title 37, Pay and Allowances of the Uniformed Services, and section 101 of Title 38, Veterans’ Benefits] shall apply only with respect to training performed after September 30, 1988.”
+Pub. L. 100–456, div. A, title VI, § 633(e), Sept. 29, 1988, 102 Stat. 1987, provided that: “The amendments made by this section [amending this section, section 8140 of Title 5, Government Organization and Employees, section 209 of Title 37, Pay and Allowances of the Uniformed Services, and section 101 of Title 38, Veterans’ Benefits] shall apply only with respect to training performed after September 30, 1988.”
 
 **Effective Date of 1965 Amendment**
 
-Pub. L. 89–51, § 4, June 28, 1965, 79 Stat. 173, provided that: “The effective date of this Act [amending this section and section 209 of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as a note under section 2107 of this title] is October 13, 1964.”
+Pub. L. 89–51, § 4, June 28, 1965, 79 Stat. 173, provided that: “The effective date of this Act [amending this section and section 209 of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as a note under section 2107 of this title] is October 13, 1964.”
 
-## § 2110. Logistical support
+## § 2110. Logistical support
 
 **(a)** The Secretary of the military department concerned may issue to institutions having units of the program, or to the officers of the armed force concerned who are designated as accountable or responsible for such property—
 
@@ -1051,7 +1051,7 @@ Pub. L. 89–51, § 4, June 28, 1965, 79 Stat. 173, provided that: “The effe
 
 **(f)** The Secretary of the military department concerned shall require, from each institution to which property is issued under subsection (a), a bond or other indemnity in such amount as he considers adequate, but not less than $5,000, for the care and safekeeping of all property so issued except uniforms, expendable articles, and supplies expended in operation, maintenance, and instruction. The Secretary may accept a bond without surety if the institution to which the property is issued furnishes to him satisfactory evidence of its financial responsibility.
 
-(Added Pub. L. 88–647, title II, § 201(1), Oct. 13, 1964, 78 Stat. 1069; amended Pub. L. 89–718, § 18, Nov. 2, 1966, 80 Stat. 1118; Pub. L. 94–273, § 11(2), Apr. 21, 1976, 90 Stat. 378; Pub. L. 97–375, title I, § 104(c), Dec. 21, 1982, 96 Stat. 1819.)
+(Added Pub. L. 88–647, title II, § 201(1), Oct. 13, 1964, 78 Stat. 1069; amended Pub. L. 89–718, § 18, Nov. 2, 1966, 80 Stat. 1118; Pub. L. 94–273, § 11(2), Apr. 21, 1976, 90 Stat. 378; Pub. L. 97–375, title I, § 104(c), Dec. 21, 1982, 96 Stat. 1819.)
 
 **Editorial Notes**
 
@@ -1063,11 +1063,11 @@ Pub. L. 89–51, § 4, June 28, 1965, 79 Stat. 173, provided that: “The effe
 
 1966—Subsec. (a)(1). Pub. L. 89–718 substituted “educational” for “education”.
 
-## § 2111. Personnel: administrators and instructors
+## § 2111. Personnel: administrators and instructors
 
 The Secretary of the military department concerned may detail regular or reserve members of an armed force under his jurisdiction (including retired members and members of the Fleet Reserve and Fleet Marine Corps Reserve recalled to active duty with their consent) for instructional and administrative duties at educational institutions where units of the program are maintained. The Secretary of the Air Force may detail members of the Space Force in the same manner as regular and reserve members of the Air Force.
 
-(Added Pub. L. 88–647, title II, § 201(1), Oct. 13, 1964, 78 Stat. 1069; amended Pub. L. 118–31, div. A, title XVII, § 1722(*l*)(3), Dec. 22, 2023, 137 Stat. 674.)
+(Added Pub. L. 88–647, title II, § 201(1), Oct. 13, 1964, 78 Stat. 1069; amended Pub. L. 118–31, div. A, title XVII, § 1722(*l*)(3), Dec. 22, 2023, 137 Stat. 674.)
 
 **Editorial Notes**
 
@@ -1079,9 +1079,9 @@ The Secretary of the military department concerned may detail regular or reserve
 
 **Demonstration Project for Instruction and Support of Army ROTC Units by Army Reserve and National Guard**
 
-Pub. L. 104–201, div. A, title V, § 554, Sept. 23, 1996, 110 Stat. 2527, directed the Secretary of the Army to carry out a demonstration project in order to assess the feasibility and advisability of providing instruction and similar support to units of the Senior Reserve Officers’ Training Corps of the Army through members of the Army Reserve, including members of the Individual Ready Reserve, and members of the Army National Guard, at at least one institution of higher education, and to submit to Congress a report assessing the activities under the project not later than Feb. 1 in each of 1998 and 1999, and provided that the Secretary’s authority to carry out the project would expire three years after Sept. 23, 1996.
+Pub. L. 104–201, div. A, title V, § 554, Sept. 23, 1996, 110 Stat. 2527, directed the Secretary of the Army to carry out a demonstration project in order to assess the feasibility and advisability of providing instruction and similar support to units of the Senior Reserve Officers’ Training Corps of the Army through members of the Army Reserve, including members of the Individual Ready Reserve, and members of the Army National Guard, at at least one institution of higher education, and to submit to Congress a report assessing the activities under the project not later than Feb. 1 in each of 1998 and 1999, and provided that the Secretary’s authority to carry out the project would expire three years after Sept. 23, 1996.
 
-## § 2111a. Support for senior military colleges
+## § 2111a. Support for senior military colleges
 
 **(a) Detail of Officers To Serve as Commandant or Assistant Commandant of Cadets.—**
 
@@ -1117,7 +1117,7 @@ Pub. L. 104–201, div. A, title V, § 554, Sept. 23, 1996, 110 Stat. 2527, di
 
 **(6)** The University of North Georgia.
 
-(Added Pub. L. 104–106, div. A, title V, § 545(a), Feb. 10, 1996, 110 Stat. 317; amended Pub. L. 105–85, div. A, title V, § 544(d)–(f)(1), Nov. 18, 1997, 111 Stat. 1745, 1746; Pub. L. 106–65, div. A, title V, § 541(c), Oct. 5, 1999, 113 Stat. 607; Pub. L. 113–66, div. A, title V, § 583, Dec. 26, 2013, 127 Stat. 776.)
+(Added Pub. L. 104–106, div. A, title V, § 545(a), Feb. 10, 1996, 110 Stat. 317; amended Pub. L. 105–85, div. A, title V, § 544(d)–(f)(1), Nov. 18, 1997, 111 Stat. 1745, 1746; Pub. L. 106–65, div. A, title V, § 541(c), Oct. 5, 1999, 113 Stat. 607; Pub. L. 113–66, div. A, title V, § 583, Dec. 26, 2013, 127 Stat. 776.)
 
 **Editorial Notes**
 
@@ -1127,19 +1127,19 @@ Pub. L. 104–201, div. A, title V, § 554, Sept. 23, 1996, 110 Stat. 2527, di
 
 1999—Subsec. (e)(1). Pub. L. 106–65 struck out at end “This paragraph shall apply to a member of the program at a senior military college who graduates from the college after March 31, 1997.”
 
-1997—Pub. L. 105–85, § 544(f)(1), substituted “Support for” for “Detail of officers to” in section catchline.
+1997—Pub. L. 105–85, § 544(f)(1), substituted “Support for” for “Detail of officers to” in section catchline.
 
-Subsecs. (d), (e). Pub. L. 105–85, § 544(d)(2), added subsecs. (d) and (e). Former subsec. (d) redesignated (f).
+Subsecs. (d), (e). Pub. L. 105–85, § 544(d)(2), added subsecs. (d) and (e). Former subsec. (d) redesignated (f).
 
-Subsec. (f). Pub. L. 105–85, § 544(e), substituted “University” for “College” in par. (2) and inserted “and State University” before period at end of par. (6).
+Subsec. (f). Pub. L. 105–85, § 544(e), substituted “University” for “College” in par. (2) and inserted “and State University” before period at end of par. (6).
 
-Pub. L. 105–85, § 544(d)(1), redesignated subsec. (d) as (f).
+Pub. L. 105–85, § 544(d)(1), redesignated subsec. (d) as (f).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Continuation of Support to Senior Military Colleges**
 
-Pub. L. 105–85, div. A, title V, § 544(a)–(c), Nov. 18, 1997, 111 Stat. 1744, provided that:
+Pub. L. 105–85, div. A, title V, § 544(a)–(c), Nov. 18, 1997, 111 Stat. 1744, provided that:
 
 > **“(a) Definition of Senior Military Colleges.—** For purposes of this section, the term ‘senior military colleges’ means the following:
 
@@ -1173,7 +1173,7 @@ Pub. L. 105–85, div. A, title V, § 544(a)–(c), Nov. 18, 1997, 111 Stat. 1
 
 > **“(3)** decisions of the Secretary of Defense or the Secretary of a military department that fundamentally and unilaterally change the long-standing relationship of the Armed Forces with the senior military colleges are not in the best interests of the Department of Defense or the Armed Forces and are patently unfair to students who made decisions to enroll in the senior military colleges on the basis of existing Department and Armed Forces policy.”
 
-## § 2111b. Senior military colleges: Department of Defense international student program
+## § 2111b. Senior military colleges: Department of Defense international student program
 
 **(a) Program Requirement.—** The Secretary of Defense shall establish a program to facilitate the enrollment and instruction of persons from foreign countries as international students at the senior military colleges.
 
@@ -1189,10 +1189,10 @@ Pub. L. 105–85, div. A, title V, § 544(a)–(c), Nov. 18, 1997, 111 Stat. 1
 
 **(e) DOD Financial Support.—** An international student who is admitted to a senior military college under the program under this section is responsible for the cost of instruction at that college. The Secretary of Defense may, from funds available to the Department of Defense other than funds available for financial assistance under section 2107a of this title, provide some or all of the costs of instruction for any such student.
 
-(Added Pub. L. 106–65, div. A, title V, § 541(a)(1), Oct. 5, 1999, 113 Stat. 606.)
+(Added Pub. L. 106–65, div. A, title V, § 541(a)(1), Oct. 5, 1999, 113 Stat. 606.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 106–65, div. A, title V, § 541(b), Oct. 5, 1999, 113 Stat. 607, provided that: “The Secretary of Defense shall implement the program under section 2111b of title 10, United States Code, as added by subsection (a), with students entering the senior military colleges after May 1, 2000.”
+Pub. L. 106–65, div. A, title V, § 541(b), Oct. 5, 1999, 113 Stat. 607, provided that: “The Secretary of Defense shall implement the program under section 2111b of title 10, United States Code, as added by subsection (a), with students entering the senior military colleges after May 1, 2000.”

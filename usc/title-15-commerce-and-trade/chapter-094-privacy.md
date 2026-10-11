@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—DISCLOSURE OF NONPUBLIC PERSONAL INFORMATION
 
-### § 6801. Protection of nonpublic personal information
+### § 6801. Protection of nonpublic personal information
 
 **(a) Privacy obligation policy**
 
@@ -31,13 +31,13 @@ It is the policy of the Congress that each financial institution has an affirmat
 
 **(3)** to protect against unauthorized access to or use of such records or information which could result in substantial harm or inconvenience to any customer.
 
-(Pub. L. 106–102, title V, § 501, Nov. 12, 1999, 113 Stat. 1436; Pub. L. 111–203, title X, § 1093(1), July 21, 2010, 124 Stat. 2095.)
+(Pub. L. 106–102, title V, § 501, Nov. 12, 1999, 113 Stat. 1436; Pub. L. 111–203, title X, § 1093(1), July 21, 2010, 124 Stat. 2095.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (b). Pub. L. 111–203 inserted “, other than the Bureau of Consumer Financial Protection,” after “section 6805(a) of this title” in introductory provisions.
+2010—Subsec. (b). Pub. L. 111–203 inserted “, other than the Bureau of Consumer Financial Protection,” after “section 6805(a) of this title” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -47,15 +47,15 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 **Effective Date**
 
-Pub. L. 106–102, title V, § 510, Nov. 12, 1999, 113 Stat. 1445, provided that:
+Pub. L. 106–102, title V, § 510, Nov. 12, 1999, 113 Stat. 1445, provided that:
 
-> “This subtitle [subtitle A (§§ 501–510) of title V of Pub. L. 106–102, enacting this subchapter and amending section 1681s of this title] shall take effect 6 months after the date on which rules are required to be prescribed under section 504(a)(3) [15 U.S.C. 6804(a)(3)], except—
+> “This subtitle [subtitle A (§§ 501–510) of title V of Pub. L. 106–102, enacting this subchapter and amending section 1681s of this title] shall take effect 6 months after the date on which rules are required to be prescribed under section 504(a)(3) [15 U.S.C. 6804(a)(3)], except—
 
 > **“(1)** to the extent that a later date is specified in the rules prescribed under section 504; and
 
 > **“(2)** that sections 504 [15 U.S.C. 6804] and 506 [enacting section 6806 of this title and amending section 1681s of this title] shall be effective upon enactment [Nov. 12, 1999].”
 
-### § 6802. Obligations with respect to disclosures of personal information
+### § 6802. Obligations with respect to disclosures of personal information
 
 **(a) Notice requirements**
 
@@ -101,9 +101,9 @@ A financial institution shall not disclose, other than to a consumer reporting a
 
 **(4)** to provide information to insurance rate advisory organizations, guaranty funds or agencies, applicable rating agencies of the financial institution, persons assessing the institution’s compliance with industry standards, and the institution’s attorneys, accountants, and auditors;
 
-**(5)** to the extent specifically permitted or required under other provisions of law and in accordance with the Right to Financial Privacy Act of 1978 [12 U.S.C. 3401 et seq.], to law enforcement agencies (including the Bureau of Consumer Financial Protection 1
+**(5)** to the extent specifically permitted or required under other provisions of law and in accordance with the Right to Financial Privacy Act of 1978 [12 U.S.C. 3401 et seq.], to law enforcement agencies (including the Bureau of Consumer Financial Protection 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 a Federal functional regulator, the Secretary of the Treasury with respect to subchapter II of chapter 53 of title 31, and chapter 2 of title I of Public Law 91–508 (12 U.S.C. 1951–1959), a State insurance authority, or the Federal Trade Commission), self-regulatory organizations, or for an investigation on a matter related to public safety;
 
@@ -115,19 +115,19 @@ a Federal functional regulator, the Secretary of the Treasury with respect to su
 
 **(8)** to comply with Federal, State, or local laws, rules, and other applicable legal requirements; to comply with a properly authorized civil, criminal, or regulatory investigation or subpoena or summons by Federal, State, or local authorities; or to respond to judicial process or government regulatory authorities having jurisdiction over the financial institution for examination, compliance, or other purposes as authorized by law.
 
-(Pub. L. 106–102, title V, § 502, Nov. 12, 1999, 113 Stat. 1437; Pub. L. 111–203, title X, § 1093(2), July 21, 2010, 124 Stat. 2095.)
+(Pub. L. 106–102, title V, § 502, Nov. 12, 1999, 113 Stat. 1437; Pub. L. 111–203, title X, § 1093(2), July 21, 2010, 124 Stat. 2095.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in subsecs. (a) and (c), was in the original “this subtitle”, meaning subtitle A (§§ 501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
+This subchapter, referred to in subsecs. (a) and (c), was in the original “this subtitle”, meaning subtitle A (§§ 501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
 
-The Right to Financial Privacy Act of 1978, referred to in subsec. (e)(5), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to chapter 35 (§ 3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
+The Right to Financial Privacy Act of 1978, referred to in subsec. (e)(5), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to chapter 35 (§ 3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
 
-Chapter 2 of title I of Public Law 91–508, referred to in subsec. (e)(5), is chapter 2 (§§ 121–129) of title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1116, which is classified generally to chapter 21 (§ 1951 et seq.) of Title 12, Banks and Banking. For complete classification of chapter 2 to the Code, see Tables.
+Chapter 2 of title I of Public Law 91–508, referred to in subsec. (e)(5), is chapter 2 (§§ 121–129) of title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1116, which is classified generally to chapter 21 (§ 1951 et seq.) of Title 12, Banks and Banking. For complete classification of chapter 2 to the Code, see Tables.
 
-The Fair Credit Reporting Act, referred to in subsec. (e)(6)(A), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1127, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+The Fair Credit Reporting Act, referred to in subsec. (e)(6)(A), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1127, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 **Amendments**
 
@@ -139,7 +139,7 @@ The Fair Credit Reporting Act, referred to in subsec. (e)(6)(A), is title VI of 
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-### § 6803. Disclosure of institution privacy policy
+### § 6803. Disclosure of institution privacy policy
 
 **(a) Disclosure required** At the time of establishing a customer relationship with a consumer and not less than annually during the continuation of such relationship, a financial institution shall provide a clear and conspicuous disclosure to such consumer, in writing or in electronic form or other form permitted by the regulations prescribed under section 6804 of this title, of such financial institution’s policies and practices with respect to—
 
@@ -217,7 +217,7 @@ Any financial institution that elects to provide the model form developed by the
 
 shall not be required to provide an annual disclosure under this section until such time as the financial institution fails to comply with any criteria described in paragraph (1) or (2).
 
-(Pub. L. 106–102, title V, § 503, Nov. 12, 1999, 113 Stat. 1439; Pub. L. 109–351, title VI, § 609, title VII, § 728, Oct. 13, 2006, 120 Stat. 1983, 2003; Pub. L. 114–94, div. G, title LXXV, § 75001, Dec. 4, 2015, 129 Stat. 1787.)
+(Pub. L. 106–102, title V, § 503, Nov. 12, 1999, 113 Stat. 1439; Pub. L. 109–351, title VI, § 609, title VII, § 728, Oct. 13, 2006, 120 Stat. 1983, 2003; Pub. L. 114–94, div. G, title LXXV, § 75001, Dec. 4, 2015, 129 Stat. 1787.)
 
 **Editorial Notes**
 
@@ -233,7 +233,7 @@ shall not be required to provide an annual disclosure under this section until s
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-### § 6804. Rulemaking
+### § 6804. Rulemaking
 
 **(a) Regulatory authority**
 
@@ -257,9 +257,9 @@ Nothing in this paragraph shall be construed to alter, affect, or otherwise limi
 
 **(2) Coordination, consistency, and comparability**
 
-Each of the agencies authorized under paragraph (1) to prescribe regulations shall consult and coordinate with the other such agencies and, as appropriate, and with 1
+Each of the agencies authorized under paragraph (1) to prescribe regulations shall consult and coordinate with the other such agencies and, as appropriate, and with 1
 
-<sup>1</sup>  So in original. Probably should be “and, as appropriate, with”.
+<sup>1</sup> So in original. Probably should be “and, as appropriate, with”.
 
 representatives of State insurance authorities designated by the National Association of Insurance Commissioners, for the purpose of assuring, to the extent possible, that the regulations prescribed by each such agency are consistent and comparable with the regulations prescribed by the other such agencies.
 
@@ -271,21 +271,21 @@ Such regulations shall be prescribed in accordance with applicable requirements 
 
 The regulations prescribed under subsection (a) may include such additional exceptions to subsections (a) through (d) of section 6802 of this title as are deemed consistent with the purposes of this subchapter.
 
-(Pub. L. 106–102, title V, § 504, Nov. 12, 1999, 113 Stat. 1439; Pub. L. 111–203, title X, § 1093(3), July 21, 2010, 124 Stat. 2095.)
+(Pub. L. 106–102, title V, § 504, Nov. 12, 1999, 113 Stat. 1439; Pub. L. 111–203, title X, § 1093(3), July 21, 2010, 124 Stat. 2095.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in subsecs. (a)(1) and (b), was in the original “this subtitle”, meaning subtitle A (§§ 501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
+This subchapter, referred to in subsecs. (a)(1) and (b), was in the original “this subtitle”, meaning subtitle A (§§ 501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
 
-The Consumer Financial Protection Act of 2010, referred to in subsec. (a)(1)(A), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitle B (§§ 1021–1029A) of the Act is classified generally to part B (§ 5511 et seq.) of subchapter V of chapter 53 of Title 12, Banks and Banking. For complete classification of subtitle B to the Code, see Tables.
+The Consumer Financial Protection Act of 2010, referred to in subsec. (a)(1)(A), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitle B (§§ 1021–1029A) of the Act is classified generally to part B (§ 5511 et seq.) of subchapter V of chapter 53 of Title 12, Banks and Banking. For complete classification of subtitle B to the Code, see Tables.
 
 **Amendments**
 
-2010—Subsec. (a)(1), (2). Pub. L. 111–203, § 1093(3)(A), added pars. (1) and (2) and struck out former pars. (1) and (2) which related, respectively, to rulemaking by the Federal banking agencies, the National Credit Union Administration, the Secretary of the Treasury, the Securities and Exchange Commission, and the Federal Trade Commission, and consultation and coordination among these agencies and authorities to assure consistency and comparability of regulations.
+2010—Subsec. (a)(1), (2). Pub. L. 111–203, § 1093(3)(A), added pars. (1) and (2) and struck out former pars. (1) and (2) which related, respectively, to rulemaking by the Federal banking agencies, the National Credit Union Administration, the Secretary of the Treasury, the Securities and Exchange Commission, and the Federal Trade Commission, and consultation and coordination among these agencies and authorities to assure consistency and comparability of regulations.
 
-Subsec. (a)(3). Pub. L. 111–203, § 1093(3)(B), struck out “and shall be issued in final form not later than 6 months after November 12, 1999” after “title 5”.
+Subsec. (a)(3). Pub. L. 111–203, § 1093(3)(B), struck out “and shall be issued in final form not later than 6 months after November 12, 1999” after “title 5”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -293,7 +293,7 @@ Subsec. (a)(3). Pub. L. 111–203, § 1093(3)(B), struck out “and shall be i
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-### § 6805. Enforcement
+### § 6805. Enforcement
 
 **(a) In general** Subject to subtitle B of the Consumer Financial Protection Act of 2010 [12 U.S.C. 5511 et seq.], this subchapter and the regulations prescribed thereunder shall be enforced by the Bureau of Consumer Financial Protection, the Federal functional regulators, the State insurance authorities, and the Federal Trade Commission with respect to financial institutions and other persons subject to their jurisdiction under applicable law, as follows:
 
@@ -339,45 +339,45 @@ If a State insurance authority fails to adopt regulations to carry out this subc
 
 The terms used in subsection (a)(1) that are not defined in this subchapter or otherwise defined in section 1813(s) of title 12 shall have the same meaning as given in section 3101 of title 12.
 
-(Pub. L. 106–102, title V, § 505, Nov. 12, 1999, 113 Stat. 1440; Pub. L. 111–203, title X, § 1093(4), (5), July 21, 2010, 124 Stat. 2096, 2097.)
+(Pub. L. 106–102, title V, § 505, Nov. 12, 1999, 113 Stat. 1440; Pub. L. 111–203, title X, § 1093(4), (5), July 21, 2010, 124 Stat. 2096, 2097.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Consumer Financial Protection Act of 2010, referred to in subsec. (a), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitles B (§§ 1021–1029A) and E (§§ 1051–1058) of the Act are classified generally to parts B (§ 5511 et seq.) and E (§ 5561 et seq.), respectively, of subchapter V of chapter 53 of Title 12, Banks and Banking. For complete classification of subtitles B and E to the Code, see Tables.
+The Consumer Financial Protection Act of 2010, referred to in subsec. (a), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitles B (§§ 1021–1029A) and E (§§ 1051–1058) of the Act are classified generally to parts B (§ 5511 et seq.) and E (§ 5561 et seq.), respectively, of subchapter V of chapter 53 of Title 12, Banks and Banking. For complete classification of subtitles B and E to the Code, see Tables.
 
-This subchapter, referred to in subsecs. (a), (c), and (d), was in the original “this subtitle”, meaning subtitle A (§§ 501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
+This subchapter, referred to in subsecs. (a), (c), and (d), was in the original “this subtitle”, meaning subtitle A (§§ 501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
 
-Section 25 of the Federal Reserve Act, referred to in subsec. (a)(1)(B), is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25A of the Federal Reserve Act is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12.
+Section 25 of the Federal Reserve Act, referred to in subsec. (a)(1)(B), is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25A of the Federal Reserve Act is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12.
 
-The Federal Credit Union Act, referred to in subsec. (a)(2), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
+The Federal Credit Union Act, referred to in subsec. (a)(2), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (a)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (a)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (a)(4), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (a)(4), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
-The Investment Advisers Act of 1940, referred to in subsec. (a)(5), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§ 80b–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80b–20 of this title and Tables.
+The Investment Advisers Act of 1940, referred to in subsec. (a)(5), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§ 80b–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80b–20 of this title and Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (a)(7), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (a)(7), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–203, § 1093(4)(A), substituted “Subject to subtitle B of the Consumer Financial Protection Act of 2010, this subchapter and the regulations prescribed thereunder shall be enforced by the Bureau of Consumer Financial Protection, the Federal functional regulators, the State insurance authorities, and the Federal Trade Commission with respect to financial institutions and other persons subject to their jurisdiction under applicable law, as follows:” for “This subchapter and the regulations prescribed thereunder shall be enforced by the Federal functional regulators, the State insurance authorities, and the Federal Trade Commission with respect to financial institutions and other persons subject to their jurisdiction under applicable law, as follows:”.
+2010—Subsec. (a). Pub. L. 111–203, § 1093(4)(A), substituted “Subject to subtitle B of the Consumer Financial Protection Act of 2010, this subchapter and the regulations prescribed thereunder shall be enforced by the Bureau of Consumer Financial Protection, the Federal functional regulators, the State insurance authorities, and the Federal Trade Commission with respect to financial institutions and other persons subject to their jurisdiction under applicable law, as follows:” for “This subchapter and the regulations prescribed thereunder shall be enforced by the Federal functional regulators, the State insurance authorities, and the Federal Trade Commission with respect to financial institutions and other persons subject to their jurisdiction under applicable law, as follows:”.
 
-Subsec. (a)(1). Pub. L. 111–203, § 1093(4)(B)(i), inserted “by the appropriate Federal banking agency, as defined in section 1813(q) of title 12,” before “in the case of—”.
+Subsec. (a)(1). Pub. L. 111–203, § 1093(4)(B)(i), inserted “by the appropriate Federal banking agency, as defined in section 1813(q) of title 12,” before “in the case of—”.
 
-Subsec. (a)(1)(A). Pub. L. 111–203, § 1093(4)(B)(ii), struck out “, by the Office of the Comptroller of the Currency” before semicolon at end.
+Subsec. (a)(1)(A). Pub. L. 111–203, § 1093(4)(B)(ii), struck out “, by the Office of the Comptroller of the Currency” before semicolon at end.
 
-Subsec. (a)(1)(B). Pub. L. 111–203, § 1093(4)(B)(iii), struck out “, by the Board of Governors of the Federal Reserve System” before semicolon at end.
+Subsec. (a)(1)(B). Pub. L. 111–203, § 1093(4)(B)(iii), struck out “, by the Board of Governors of the Federal Reserve System” before semicolon at end.
 
-Subsec. (a)(1)(C). Pub. L. 111–203, § 1093(4)(B)(iv), struck out “, by the Board of Directors of the Federal Deposit Insurance Corporation” before “; and”.
+Subsec. (a)(1)(C). Pub. L. 111–203, § 1093(4)(B)(iv), struck out “, by the Board of Directors of the Federal Deposit Insurance Corporation” before “; and”.
 
-Subsec. (a)(1)(D). Pub. L. 111–203, § 1093(4)(B)(v), struck out “, by the Director of the Office of Thrift Supervision” before period at end.
+Subsec. (a)(1)(D). Pub. L. 111–203, § 1093(4)(B)(v), struck out “, by the Director of the Office of Thrift Supervision” before period at end.
 
-Subsec. (a)(8). Pub. L. 111–203, § 1093(4)(C), added par. (8).
+Subsec. (a)(8). Pub. L. 111–203, § 1093(4)(C), added par. (8).
 
-Subsec. (b)(1). Pub. L. 111–203, § 1093(5), inserted “, other than the Bureau of Consumer Financial Protection,” before “shall implement the standards”.
+Subsec. (b)(1). Pub. L. 111–203, § 1093(5), inserted “, other than the Bureau of Consumer Financial Protection,” before “shall implement the standards”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -385,11 +385,11 @@ Subsec. (b)(1). Pub. L. 111–203, § 1093(5), inserted “, other than the 
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-### § 6806. Relation to other provisions
+### § 6806. Relation to other provisions
 
 Except for the amendments made by subsections (a) and (b), nothing in this chapter shall be construed to modify, limit, or supersede the operation of the Fair Credit Reporting Act [15 U.S.C. 1681 et seq.], and no inference shall be drawn on the basis of the provisions of this chapter regarding whether information is transaction or experience information under section 603 of such Act [15 U.S.C. 1681a].
 
-(Pub. L. 106–102, title V, § 506(c), Nov. 12, 1999, 113 Stat. 1442.)
+(Pub. L. 106–102, title V, § 506(c), Nov. 12, 1999, 113 Stat. 1442.)
 
 **Editorial Notes**
 
@@ -399,9 +399,9 @@ Amendments made by subsections (a) and (b), referred to in text, means amendment
 
 This chapter, referred to in text, was in the original “this title”, meaning title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which enacted this chapter and amended section 1681s of this title. For complete classification of title V to the Code, see Tables.
 
-The Fair Credit Reporting Act, referred to in text, is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1127, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+The Fair Credit Reporting Act, referred to in text, is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1127, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
-### § 6807. Relation to State laws
+### § 6807. Relation to State laws
 
 **(a) In general**
 
@@ -411,13 +411,13 @@ This subchapter and the amendments made by this subchapter shall not be construe
 
 For purposes of this section, a State statute, regulation, order, or interpretation is not inconsistent with the provisions of this subchapter if the protection such statute, regulation, order, or interpretation affords any person is greater than the protection provided under this subchapter and the amendments made by this subchapter, as determined by the Bureau of Consumer Financial Protection, after consultation with the agency or authority with jurisdiction under section 6805(a) of this title of either the person that initiated the complaint or that is the subject of the complaint, on its own motion or upon the petition of any interested party.
 
-(Pub. L. 106–102, title V, § 507, Nov. 12, 1999, 113 Stat. 1442; Pub. L. 111–203, title X, § 1093(6), July 21, 2010, 124 Stat. 2097.)
+(Pub. L. 106–102, title V, § 507, Nov. 12, 1999, 113 Stat. 1442; Pub. L. 111–203, title X, § 1093(6), July 21, 2010, 124 Stat. 2097.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
 
 **Amendments**
 
@@ -429,7 +429,7 @@ This subchapter, referred to in text, was in the original “this subtitle”, m
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-### § 6808. Study of information sharing among financial affiliates
+### § 6808. Study of information sharing among financial affiliates
 
 **(a) In general** The Secretary of the Treasury, in conjunction with the Federal functional regulators and the Federal Trade Commission, shall conduct a study of information sharing practices among financial institutions and their affiliates. Such study shall include—
 
@@ -459,9 +459,9 @@ The Secretary shall consult with representatives of State insurance authorities 
 
 On or before January 1, 2002, the Secretary shall submit a report to the Congress containing the findings and conclusions of the study required under subsection (a), together with such recommendations for legislative or administrative action as may be appropriate.
 
-(Pub. L. 106–102, title V, § 508, Nov. 12, 1999, 113 Stat. 1442.)
+(Pub. L. 106–102, title V, § 508, Nov. 12, 1999, 113 Stat. 1442.)
 
-### § 6809. Definitions
+### § 6809. Definitions
 
 As used in this subchapter:
 
@@ -563,21 +563,21 @@ The term “joint agreement” means a formal written contract pursuant to which
 
 The term “time of establishing a customer relationship” shall be defined by the regulations prescribed under section 6804 of this title, and shall, in the case of a financial institution engaged in extending credit directly to consumers to finance purchases of goods or services, mean the time of establishing the credit relationship with the consumer.
 
-(Pub. L. 106–102, title V, § 509, Nov. 12, 1999, 113 Stat. 1443.)
+(Pub. L. 106–102, title V, § 509, Nov. 12, 1999, 113 Stat. 1443.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
 
-The Commodity Exchange Act, referred to in par. (3)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in par. (3)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
-The Farm Credit Act of 1971, referred to in par. (3)(C), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
+The Farm Credit Act of 1971, referred to in par. (3)(C), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
 
 ## SUBCHAPTER II—FRAUDULENT ACCESS TO FINANCIAL INFORMATION
 
-### § 6821. Privacy protection for customer information of financial institutions
+### § 6821. Privacy protection for customer information of financial institutions
 
 **(a) Prohibition on obtaining customer information by false pretenses** It shall be a violation of this subchapter for any person to obtain or attempt to obtain, or cause to be disclosed or attempt to cause to be disclosed to any person, customer information of a financial institution relating to another person—
 
@@ -615,9 +615,9 @@ No provision of this section shall be construed so as to prevent any person from
 
 No provision of this section shall be construed to prevent any State-licensed private investigator, or any officer, employee, or agent of such private investigator, from obtaining customer information of a financial institution, to the extent reasonably necessary to collect child support from a person adjudged to have been delinquent in his or her obligations by a Federal or State court, and to the extent that such action by a State-licensed private investigator is not unlawful under any other Federal or State law or regulation, and has been authorized by an order or judgment of a court of competent jurisdiction.
 
-(Pub. L. 106–102, title V, § 521, Nov. 12, 1999, 113 Stat. 1446.)
+(Pub. L. 106–102, title V, § 521, Nov. 12, 1999, 113 Stat. 1446.)
 
-### § 6822. Administrative enforcement
+### § 6822. Administrative enforcement
 
 **(a) Enforcement by Federal Trade Commission**
 
@@ -643,17 +643,17 @@ Except as provided in subsection (b), compliance with this subchapter shall be e
 
 For the purpose of the exercise by any agency referred to in paragraph (1) of its powers under any Act referred to in that paragraph, a violation of this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in paragraph (1), each of the agencies referred to in that paragraph may exercise, for the purpose of enforcing compliance with this subchapter, any other authority conferred on such agency by law.
 
-(Pub. L. 106–102, title V, § 522, Nov. 12, 1999, 113 Stat. 1447.)
+(Pub. L. 106–102, title V, § 522, Nov. 12, 1999, 113 Stat. 1447.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Fair Debt Collection Practices Act, referred to in subsec. (a), is title VIII of Pub. L. 90–321, as added by Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874, which is classified generally to subchapter V (§ 1692 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+The Fair Debt Collection Practices Act, referred to in subsec. (a), is title VIII of Pub. L. 90–321, as added by Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874, which is classified generally to subchapter V (§ 1692 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
-Section 25 of the Federal Reserve Act, referred to in subsec. (b)(1)(A)(ii), is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25A of the Federal Reserve Act is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12.
+Section 25 of the Federal Reserve Act, referred to in subsec. (b)(1)(A)(ii), is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25A of the Federal Reserve Act is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12.
 
-The Federal Credit Union Act, referred to in subsec. (b)(1)(B), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
+The Federal Credit Union Act, referred to in subsec. (b)(1)(B), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -661,7 +661,7 @@ The Federal Credit Union Act, referred to in subsec. (b)(1)(B), is act June 26, 
 
 Functions vested in Administrator of National Credit Union Administration transferred and vested in National Credit Union Administration Board pursuant to section 1752a of Title 12, Banks and Banking.
 
-### § 6823. Criminal penalty
+### § 6823. Criminal penalty
 
 **(a) In general**
 
@@ -671,9 +671,9 @@ Whoever knowingly and intentionally violates, or knowingly and intentionally att
 
 Whoever violates, or attempts to violate, section 6821 of this title while violating another law of the United States or as part of a pattern of any illegal activity involving more than $100,000 in a 12-month period shall be fined twice the amount provided in subsection (b)(3) or (c)(3) (as the case may be) of section 3571 of title 18, imprisoned for not more than 10 years, or both.
 
-(Pub. L. 106–102, title V, § 523, Nov. 12, 1999, 113 Stat. 1448.)
+(Pub. L. 106–102, title V, § 523, Nov. 12, 1999, 113 Stat. 1448.)
 
-### § 6824. Relation to State laws
+### § 6824. Relation to State laws
 
 **(a) In general**
 
@@ -683,15 +683,15 @@ This subchapter shall not be construed as superseding, altering, or affecting th
 
 For purposes of this section, a State statute, regulation, order, or interpretation is not inconsistent with the provisions of this subchapter if the protection such statute, regulation, order, or interpretation affords any person is greater than the protection provided under this subchapter as determined by the Federal Trade Commission, after consultation with the agency or authority with jurisdiction under section 6822 of this title of either the person that initiated the complaint or that is the subject of the complaint, on its own motion or upon the petition of any interested party.
 
-(Pub. L. 106–102, title V, § 524, Nov. 12, 1999, 113 Stat. 1448.)
+(Pub. L. 106–102, title V, § 524, Nov. 12, 1999, 113 Stat. 1448.)
 
-### § 6825. Agency guidance
+### § 6825. Agency guidance
 
 In furtherance of the objectives of this subchapter, each Federal banking agency (as defined in section 1813(z) of title 12), the National Credit Union Administration, and the Securities and Exchange Commission or self-regulatory organizations, as appropriate, shall review regulations and guidelines applicable to financial institutions under their respective jurisdictions and shall prescribe such revisions to such regulations and guidelines as may be necessary to ensure that such financial institutions have policies, procedures, and controls in place to prevent the unauthorized disclosure of customer financial information and to deter and detect activities proscribed under section 6821 of this title.
 
-(Pub. L. 106–102, title V, § 525, Nov. 12, 1999, 113 Stat. 1448.)
+(Pub. L. 106–102, title V, § 525, Nov. 12, 1999, 113 Stat. 1448.)
 
-### § 6826. Reports
+### § 6826. Reports
 
 **(a) Report to the Congress** Before the end of the 18-month period beginning on November 12, 1999, the Comptroller General, in consultation with the Federal Trade Commission, Federal banking agencies, the National Credit Union Administration, the Securities and Exchange Commission, appropriate Federal law enforcement agencies, and appropriate State insurance regulators, shall submit to the Congress a report on the following:
 
@@ -703,9 +703,9 @@ In furtherance of the objectives of this subchapter, each Federal banking agency
 
 The Federal Trade Commission and the Attorney General shall submit to Congress an annual report on number and disposition of all enforcement actions taken pursuant to this subchapter.
 
-(Pub. L. 106–102, title V, § 526, Nov. 12, 1999, 113 Stat. 1448.)
+(Pub. L. 106–102, title V, § 526, Nov. 12, 1999, 113 Stat. 1448.)
 
-### § 6827. Definitions
+### § 6827. Definitions
 
 For purposes of this subchapter, the following definitions shall apply:
 
@@ -747,12 +747,12 @@ The term “financial institution” does not include any person or entity with 
 
 The Federal Trade Commission, after consultation with Federal banking agencies and the Securities and Exchange Commission, may prescribe regulations clarifying or describing the types of institutions which shall be treated as financial institutions for purposes of this subchapter.
 
-(Pub. L. 106–102, title V, § 527, Nov. 12, 1999, 113 Stat. 1449.)
+(Pub. L. 106–102, title V, § 527, Nov. 12, 1999, 113 Stat. 1449.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Commodity Exchange Act, referred to in par. (4)(D), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in par. (4)(D), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
-The Farm Credit Act of 1971, referred to in par. (4)(D), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
+The Farm Credit Act of 1971, referred to in par. (4)(D), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.

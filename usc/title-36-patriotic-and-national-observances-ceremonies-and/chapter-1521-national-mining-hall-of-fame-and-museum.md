@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1521—NATIONAL MINING HALL OF FAME AND MUSEUM"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1521—NATIONAL MINING HALL OF FAME AND MUSEUM"
 identifier: "/us/usc/t36/stII/ptB/ch1521"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1521—NATIONAL MINING HALL OF FAME AND MUSEUM
 
-## § 152101. Definition
+## § 152101. Definition
 
 For purposes of this chapter, “State” includes the District of Columbia and the territories and possessions of the United States.
 
@@ -25,11 +25,11 @@ For purposes of this chapter, “State” includes the District of Columbia and 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152101 | 36:4113. | Nov. 14, 1988, Pub. L. 100–655, § 114, 102 Stat. 3852. |
+| 152101 | 36:4113. | Nov. 14, 1988, Pub. L. 100–655, § 114, 102 Stat. 3852. |
 
 The words “the Commonwealth of Puerto Rico” are omitted as included in “the territories and possessions of the United States”.
 
-## § 152102. Organization
+## § 152102. Organization
 
 **(a) Federal Charter.—** National Mining Hall of Fame and Museum (in this chapter, the “corporation”), incorporated in Colorado, is a federally chartered corporation.
 
@@ -41,12 +41,12 @@ The words “the Commonwealth of Puerto Rico” are omitted as included in “th
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152102(a) | 36:4101. | Nov. 14, 1988, Pub. L. 100–655, §§ 101, 116, 102 Stat. 3849, 3852. |
+| 152102(a) | 36:4101. | Nov. 14, 1988, Pub. L. 100–655, §§ 101, 116, 102 Stat. 3849, 3852. |
 | 152102(b) | 36:4115. |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate unnecessary words.
 
-## § 152103. Purposes
+## § 152103. Purposes
 
 The purposes of the corporation are as provided in its articles of incorporation and include—
 
@@ -68,7 +68,7 @@ The purposes of the corporation are as provided in its articles of incorporation
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152103 | 36:4103. | Nov. 14, 1988, Pub. L. 100–655, § 103, 102 Stat. 3850. |
+| 152103 | 36:4103. | Nov. 14, 1988, Pub. L. 100–655, § 103, 102 Stat. 3850. |
 
 Before clause (1), the word “objects” is omitted as unnecessary.
 
@@ -78,7 +78,7 @@ In clause (2), the word “considered” is substituted for “as may be deemed�
 
 In clause (6), the words “any other activity” are substituted for “any and all activities”, and the words “necessary or proper” are substituted for “incidental thereto or necessary, suitable, or proper”, for consistency and to eliminate unnecessary words.
 
-## § 152104. Membership
+## § 152104. Membership
 
 Eligibility for membership in the corporation and the rights and privileges of members are as provided in the bylaws.
 
@@ -88,9 +88,9 @@ Eligibility for membership in the corporation and the rights and privileges of m
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152104 | 36:4104. | Nov. 14, 1988, Pub. L. 100–655, § 104, 102 Stat. 3850. |
+| 152104 | 36:4104. | Nov. 14, 1988, Pub. L. 100–655, § 104, 102 Stat. 3850. |
 
-## § 152105. Governing body
+## § 152105. Governing body
 
 **(a) Board of Directors.—** The board of directors and the responsibilities of the board are as provided in the articles of incorporation.
 
@@ -102,12 +102,12 @@ Eligibility for membership in the corporation and the rights and privileges of m
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152105(a) | 36:4105. | Nov. 14, 1988, Pub. L. 100–655, §§ 105, 106, 102 Stat. 3850. |
+| 152105(a) | 36:4105. | Nov. 14, 1988, Pub. L. 100–655, §§ 105, 106, 102 Stat. 3850. |
 | 152105(b) | 36:4106. |  |
 
 The words “and in conformity with the laws of the State or States in which it is incorporated” in 36:4105 and “and in conformity with the laws of the State or States wherein it is incorporated” in 36:4106 are omitted as unnecessary.
 
-## § 152106. Powers
+## § 152106. Powers
 
 The corporation has only the powers provided in its bylaws and articles of incorporation filed in each State in which it is incorporated.
 
@@ -117,11 +117,11 @@ The corporation has only the powers provided in its bylaws and articles of incor
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152106 | 36:4102. | Nov. 14, 1988, Pub. L. 100–655, § 102, 102 Stat. 3849. |
+| 152106 | 36:4102. | Nov. 14, 1988, Pub. L. 100–655, § 102, 102 Stat. 3849. |
 
 The words “and subject to the laws of such State or States” are omitted as unnecessary.
 
-## § 152107. Restrictions
+## § 152107. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -139,7 +139,7 @@ The words “and subject to the laws of such State or States” are omitted as u
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152107(a) | 36:4107(d). | Nov. 14, 1988, Pub. L. 100–655, § 107(a)–(e), 102 Stat. 3850. |
+| 152107(a) | 36:4107(d). | Nov. 14, 1988, Pub. L. 100–655, § 107(a)–(e), 102 Stat. 3850. |
 | 152107(b) | 36:4107(c). |  |
 | 152107(c) | 36:4107(a). |  |
 | 152107(d) | 36:4107(b). |  |
@@ -151,7 +151,7 @@ In subsection (b), the words “as such” are substituted for “acting as such
 
 In subsection (c), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title.
 
-## § 152108. Duty to maintain corporate and tax-exempt status
+## § 152108. Duty to maintain corporate and tax-exempt status
 
 **(a) Corporate Status.—** The corporation shall maintain its status as a corporation incorporated under the laws of Colorado.
 
@@ -163,10 +163,10 @@ In subsection (c), the words “inure to the benefit of” are substituted for �
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152108(a) | 36:4107(f). | Nov. 14, 1988, Pub. L. 100–655, §§ 107(f), 115, 102 Stat. 3851, 3852. |
+| 152108(a) | 36:4107(f). | Nov. 14, 1988, Pub. L. 100–655, §§ 107(f), 115, 102 Stat. 3851, 3852. |
 | 152108(b) | 36:4114. |  |
 
-## § 152109. Records and inspection
+## § 152109. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -184,11 +184,11 @@ In subsection (c), the words “inure to the benefit of” are substituted for �
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152109 | 36:4110. | Nov. 14, 1988, Pub. L. 100–655, § 110, 102 Stat. 3851. |
+| 152109 | 36:4110. | Nov. 14, 1988, Pub. L. 100–655, § 110, 102 Stat. 3851. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code. The words “Nothing in this section shall be construed to contravene any applicable State law” are omitted as unnecessary.
 
-## § 152110. Service of process
+## § 152110. Service of process
 
 The corporation shall comply with the law on service of process of each State in which it is incorporated and each State in which it carries on activities.
 
@@ -198,11 +198,11 @@ The corporation shall comply with the law on service of process of each State in
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152110 | 36:4109. | Nov. 14, 1988, Pub. L. 100–655, § 109, 102 Stat. 3851. |
+| 152110 | 36:4109. | Nov. 14, 1988, Pub. L. 100–655, § 109, 102 Stat. 3851. |
 
 The words “in furtherance of its corporate purposes” are omitted as unnecessary.
 
-## § 152111. Liability for acts of officers and agents
+## § 152111. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -212,9 +212,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152111 | 36:4108. | Nov. 14, 1988, Pub. L. 100–655, § 108, 102 Stat. 3851. |
+| 152111 | 36:4108. | Nov. 14, 1988, Pub. L. 100–655, § 108, 102 Stat. 3851. |
 
-## § 152112. Annual report
+## § 152112. Annual report
 
 The corporation shall submit an annual report to Congress on the activities of the corporation during the prior fiscal year. The report shall be submitted at the same time as the report of the audit required by section 10101 of this title. The report may not be printed as a public document.
 
@@ -224,7 +224,7 @@ The corporation shall submit an annual report to Congress on the activities of t
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 152112 | 36:4111. | Nov. 14, 1988, Pub. L. 100–655, § 112, 102 Stat. 3851. |
+| 152112 | 36:4111. | Nov. 14, 1988, Pub. L. 100–655, § 112, 102 Stat. 3851. |
 
 **Statutory Notes and Related Subsidiaries**
 

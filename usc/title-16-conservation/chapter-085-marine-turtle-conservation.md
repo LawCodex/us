@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 85—MARINE TURTLE CONSERVATION
 
-## § 6601. Findings and purposes
+## § 6601. Findings and purposes
 
 **(a) Findings** The Congress finds that—
 
@@ -49,13 +49,13 @@ retrieved: 2026-10-11
 
 **(3)** to address other threats to the survival of marine turtles, freshwater turtles, and tortoises, including habitat loss, poaching of turtles or their eggs, and wildlife trafficking.
 
-(Pub. L. 108–266, § 2, July 2, 2004, 118 Stat. 791; Pub. L. 116–9, title VII, § 7001(c)(3)(A), Mar. 12, 2019, 133 Stat. 786.)
+(Pub. L. 108–266, § 2, July 2, 2004, 118 Stat. 791; Pub. L. 116–9, title VII, § 7001(c)(3)(A), Mar. 12, 2019, 133 Stat. 786.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Endangered Species Act of 1973, referred to in subsec. (a)(2), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (a)(2), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 **Amendments**
 
@@ -65,9 +65,9 @@ The Endangered Species Act of 1973, referred to in subsec. (a)(2), is Pub. L. 93
 
 **Short Title**
 
-Pub. L. 108–266, § 1, July 2, 2004, 118 Stat. 791, provided that: “This Act [enacting this chapter] may be cited as the ‘Marine Turtle Conservation Act of 2004’.”
+Pub. L. 108–266, § 1, July 2, 2004, 118 Stat. 791, provided that: “This Act [enacting this chapter] may be cited as the ‘Marine Turtle Conservation Act of 2004’.”
 
-## § 6602. Definitions
+## § 6602. Definitions
 
 In this chapter:
 
@@ -167,35 +167,35 @@ The term “tortoise” means any member of the family Testudinidae.
 
 **(ii)** a carcass of such a tortoise.
 
-(Pub. L. 108–266, § 3, July 2, 2004, 118 Stat. 792; Pub. L. 116–9, title VII, § 7001(c)(3)(B), Mar. 12, 2019, 133 Stat. 786.)
+(Pub. L. 108–266, § 3, July 2, 2004, 118 Stat. 792; Pub. L. 116–9, title VII, § 7001(c)(3)(B), Mar. 12, 2019, 133 Stat. 786.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title I of the Department of the Interior and Related Agencies Appropriations Act, 1999, referred to in par. (7), is Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–232. Provisions under the heading “multinational species conservation fund” in Pub. L. 105–277, § 101(e) [title I] appear at 112 Stat. 2681–237 and are classified in part to section 4246 of this title.
+Title I of the Department of the Interior and Related Agencies Appropriations Act, 1999, referred to in par. (7), is Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–232. Provisions under the heading “multinational species conservation fund” in Pub. L. 105–277, § 101(e) [title I] appear at 112 Stat. 2681–237 and are classified in part to section 4246 of this title.
 
 **Amendments**
 
-2019—Par. (2). Pub. L. 116–9, § 7001(c)(3)(B)(i)(I), substituted “marine turtles, freshwater turtles, and tortoises, and the habitats of marine turtles, freshwater turtles, and tortoises, in foreign countries and territories of the United States under the jurisdiction of United States Fish and Wildlife Service programs” for “nesting habitats of marine turtles in foreign countries and of marine turtles in those habitats” in introductory provisions.
+2019—Par. (2). Pub. L. 116–9, § 7001(c)(3)(B)(i)(I), substituted “marine turtles, freshwater turtles, and tortoises, and the habitats of marine turtles, freshwater turtles, and tortoises, in foreign countries and territories of the United States under the jurisdiction of United States Fish and Wildlife Service programs” for “nesting habitats of marine turtles in foreign countries and of marine turtles in those habitats” in introductory provisions.
 
-Par. (2)(A) to (C). Pub. L. 116–9, § 7001(c)(3)(B)(i)(II), struck out “nesting” wherever appearing before “habitats”, “populations”, and “habitat”.
+Par. (2)(A) to (C). Pub. L. 116–9, § 7001(c)(3)(B)(i)(II), struck out “nesting” wherever appearing before “habitats”, “populations”, and “habitat”.
 
-Par. (2)(D). Pub. L. 116–9, § 7001(c)(3)(B)(i)(III)(aa), substituted “countries—” for “countries to—” in introductory provisions.
+Par. (2)(D). Pub. L. 116–9, § 7001(c)(3)(B)(i)(III)(aa), substituted “countries—” for “countries to—” in introductory provisions.
 
-Par. (2)(D)(i). Pub. L. 116–9, § 7001(c)(3)(B)(i)(III)(bb), inserted “to” before “protect” and struck out “nesting” before “populations” and before “habitats”.
+Par. (2)(D)(i). Pub. L. 116–9, § 7001(c)(3)(B)(i)(III)(bb), inserted “to” before “protect” and struck out “nesting” before “populations” and before “habitats”.
 
-Par. (2)(D)(ii). Pub. L. 116–9, § 7001(c)(3)(B)(i)(III)(cc), inserted “to” before “prevent”.
+Par. (2)(D)(ii). Pub. L. 116–9, § 7001(c)(3)(B)(i)(III)(cc), inserted “to” before “prevent”.
 
-Par. (2)(E)(i). Pub. L. 116–9, § 7001(c)(3)(B)(i)(IV), substituted “turtles, freshwater turtles, and tortoises” for “turtles on nesting habitat”.
+Par. (2)(E)(i). Pub. L. 116–9, § 7001(c)(3)(B)(i)(IV), substituted “turtles, freshwater turtles, and tortoises” for “turtles on nesting habitat”.
 
-Par. (2)(F). Pub. L. 116–9, § 7001(c)(3)(B)(i)(V), substituted “turtles, freshwater turtles, and tortoises over habitats used by marine turtles, freshwater turtles, and tortoises” for “turtles over habitat used by marine turtles for nesting”.
+Par. (2)(F). Pub. L. 116–9, § 7001(c)(3)(B)(i)(V), substituted “turtles, freshwater turtles, and tortoises over habitats used by marine turtles, freshwater turtles, and tortoises” for “turtles over habitat used by marine turtles for nesting”.
 
-Par. (2)(H). Pub. L. 116–9, § 7001(c)(3)(B)(i)(VI), struck out “nesting” before “population” and before “habitat”.
+Par. (2)(H). Pub. L. 116–9, § 7001(c)(3)(B)(i)(VI), struck out “nesting” before “population” and before “habitat”.
 
-Pars. (3) to (10). Pub. L. 116–9, § 7001(c)(3)(B)(ii)–(v), added pars. (3), (5), (9), and (10) and redesignated former pars. (3) to (6) as (4), (6), (7), and (8), respectively.
+Pars. (3) to (10). Pub. L. 116–9, § 7001(c)(3)(B)(ii)–(v), added pars. (3), (5), (9), and (10) and redesignated former pars. (3) to (6) as (4), (6), (7), and (8), respectively.
 
-## § 6603. Conservation assistance
+## § 6603. Conservation assistance
 
 **(a) In general**
 
@@ -281,7 +281,7 @@ The Secretary may award to a person who is otherwise eligible for a grant under 
 
 Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.
 
-(Pub. L. 108–266, § 4, July 2, 2004, 118 Stat. 793; Pub. L. 116–9, title VII, § 7001(c)(3)(C), Mar. 12, 2019, 133 Stat. 787; Pub. L. 118–159, div. E, title LIII, § 5307(a), Dec. 23, 2024, 138 Stat. 2446.)
+(Pub. L. 108–266, § 4, July 2, 2004, 118 Stat. 793; Pub. L. 116–9, title VII, § 7001(c)(3)(C), Mar. 12, 2019, 133 Stat. 787; Pub. L. 118–159, div. E, title LIII, § 5307(a), Dec. 23, 2024, 138 Stat. 2446.)
 
 **Editorial Notes**
 
@@ -289,23 +289,23 @@ Nothing in this subsection precludes the Secretary from awarding a grant on an a
 
 2024—Subsec. (h). Pub. L. 118–159 added subsec. (h).
 
-2019—Pub. L. 116–9, § 7001(c)(3)(C)(i), struck out “Marine turtle” before “Conservation” in section catchline.
+2019—Pub. L. 116–9, § 7001(c)(3)(C)(i), struck out “Marine turtle” before “Conservation” in section catchline.
 
-Subsec. (a). Pub. L. 116–9, § 7001(c)(3)(C)(ii), inserted “, freshwater turtles, or tortoises” after “marine turtles”.
+Subsec. (a). Pub. L. 116–9, § 7001(c)(3)(C)(ii), inserted “, freshwater turtles, or tortoises” after “marine turtles”.
 
-Subsec. (b)(1). Pub. L. 116–9, § 7001(c)(3)(C)(iii)(I), inserted “, freshwater turtles, or tortoises” after “marine turtles” in introductory provisions.
+Subsec. (b)(1). Pub. L. 116–9, § 7001(c)(3)(C)(iii)(I), inserted “, freshwater turtles, or tortoises” after “marine turtles” in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 116–9, § 7001(c)(3)(C)(iii)(II), added subpar. (A) and struck out former subpar. (A) which read as follows: “any wildlife management authority of a foreign country that has within its boundaries marine turtle nesting habitat if the activities of the authority directly or indirectly affect marine turtle conservation; or”.
+Subsec. (b)(1)(A). Pub. L. 116–9, § 7001(c)(3)(C)(iii)(II), added subpar. (A) and struck out former subpar. (A) which read as follows: “any wildlife management authority of a foreign country that has within its boundaries marine turtle nesting habitat if the activities of the authority directly or indirectly affect marine turtle conservation; or”.
 
-Subsec. (b)(1)(B). Pub. L. 116–9, § 7001(c)(3)(C)(iii)(III), inserted “, freshwater turtles, or tortoises” after “marine turtles”.
+Subsec. (b)(1)(B). Pub. L. 116–9, § 7001(c)(3)(C)(iii)(III), inserted “, freshwater turtles, or tortoises” after “marine turtles”.
 
-Subsec. (c)(2)(A), (C). Pub. L. 116–9, § 7001(c)(3)(C)(iv), inserted “and territory of the United States” after “each country”.
+Subsec. (c)(2)(A), (C). Pub. L. 116–9, § 7001(c)(3)(C)(iv), inserted “and territory of the United States” after “each country”.
 
-Subsec. (d). Pub. L. 116–9, § 7001(c)(3)(C)(v), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Secretary may approve a project proposal under this section if the project will help recover and sustain viable populations of marine turtles in the wild by assisting efforts in foreign countries to implement marine turtle conservation programs.”
+Subsec. (d). Pub. L. 116–9, § 7001(c)(3)(C)(v), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Secretary may approve a project proposal under this section if the project will help recover and sustain viable populations of marine turtles in the wild by assisting efforts in foreign countries to implement marine turtle conservation programs.”
 
-Subsec. (e). Pub. L. 116–9, § 7001(c)(3)(C)(vi), substituted “marine turtles, freshwater turtles, or tortoises and the habitats of marine turtles, freshwater turtles, or tortoises” for “marine turtles and their nesting habitats”.
+Subsec. (e). Pub. L. 116–9, § 7001(c)(3)(C)(vi), substituted “marine turtles, freshwater turtles, or tortoises and the habitats of marine turtles, freshwater turtles, or tortoises” for “marine turtles and their nesting habitats”.
 
-## § 6604. Marine Turtle Conservation Fund
+## § 6604. Marine Turtle Conservation Fund
 
 **(a) Establishment** There is established in the Multinational Species Conservation Fund a separate account to be known as the “Marine Turtle Conservation Fund”, consisting of—
 
@@ -359,17 +359,17 @@ Proper adjustment shall be made in amounts subsequently transferred to the exten
 
 The Secretary may accept and use donations to provide assistance under section 6603 of this title. Amounts received by the Secretary in the form of donations shall be transferred to the Secretary of the Treasury for deposit in the Fund.
 
-(Pub. L. 108–266, § 5, July 2, 2004, 118 Stat. 794; Pub. L. 116–9, title VII, § 7001(c)(3)(D), Mar. 12, 2019, 133 Stat. 788.)
+(Pub. L. 108–266, § 5, July 2, 2004, 118 Stat. 794; Pub. L. 116–9, title VII, § 7001(c)(3)(D), Mar. 12, 2019, 133 Stat. 788.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Subsec. (a)(2). Pub. L. 116–9, § 7001(c)(3)(D)(i), substituted “section 6606(a)” for “section 6605”.
+2019—Subsec. (a)(2). Pub. L. 116–9, § 7001(c)(3)(D)(i), substituted “section 6606(a)” for “section 6605”.
 
-Subsec. (b)(2). Pub. L. 116–9, § 7001(c)(3)(D)(ii), substituted “5 percent, or up to $150,000” for “3 percent, or up to $80,000”.
+Subsec. (b)(2). Pub. L. 116–9, § 7001(c)(3)(D)(ii), substituted “5 percent, or up to $150,000” for “3 percent, or up to $80,000”.
 
-## § 6605. Advisory group
+## § 6605. Advisory group
 
 **(a) In general**
 
@@ -377,9 +377,9 @@ To assist in carrying out this chapter, the Secretary may convene an advisory gr
 
 **(b) Public participation**
 
-**(1) Meetings** The Advisory Group 1
+**(1) Meetings** The Advisory Group 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 shall—
 
@@ -399,7 +399,7 @@ Minutes of each meeting of the advisory group shall be kept by the Secretary and
 
 Chapter 10 of title 5 shall not apply to the advisory group.
 
-(Pub. L. 108–266, § 6, July 2, 2004, 118 Stat. 795; Pub. L. 116–9, title VII, § 7001(c)(3)(E), Mar. 12, 2019, 133 Stat. 788; Pub. L. 117–286, § 4(a)(131), Dec. 27, 2022, 136 Stat. 4320.)
+(Pub. L. 108–266, § 6, July 2, 2004, 118 Stat. 795; Pub. L. 116–9, title VII, § 7001(c)(3)(E), Mar. 12, 2019, 133 Stat. 788; Pub. L. 117–286, § 4(a)(131), Dec. 27, 2022, 136 Stat. 4320.)
 
 **Editorial Notes**
 
@@ -407,9 +407,9 @@ Chapter 10 of title 5 shall not apply to the advisory group.
 
 2022—Subsec. (c). Pub. L. 117–286 substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
-2019—Subsec. (a). Pub. L. 116–9 inserted “, freshwater turtles, or tortoises” after “marine turtles”.
+2019—Subsec. (a). Pub. L. 116–9 inserted “, freshwater turtles, or tortoises” after “marine turtles”.
 
-## § 6606. Authorization of appropriations
+## § 6606. Authorization of appropriations
 
 **(a) In general**
 
@@ -421,7 +421,7 @@ There is authorized to be appropriated to the Fund $5,000,000 for each of fiscal
 
 **(2)** of the amounts in excess of the amount described in paragraph (1), not less than 40 percent shall be used by the Secretary for freshwater turtle and tortoise conservation purposes in accordance with this chapter.
 
-(Pub. L. 108–266, § 7, July 2, 2004, 118 Stat. 795; Pub. L. 116–9, title VII, § 7001(c)(3)(F), Mar. 12, 2019, 133 Stat. 788; Pub. L. 118–159, div. E, title LIII, § 5307(b), Dec. 23, 2024, 138 Stat. 2446.)
+(Pub. L. 108–266, § 7, July 2, 2004, 118 Stat. 795; Pub. L. 116–9, title VII, § 7001(c)(3)(F), Mar. 12, 2019, 133 Stat. 788; Pub. L. 118–159, div. E, title LIII, § 5307(b), Dec. 23, 2024, 138 Stat. 2446.)
 
 **Editorial Notes**
 
@@ -431,8 +431,8 @@ There is authorized to be appropriated to the Fund $5,000,000 for each of fiscal
 
 2019—Pub. L. 116–9 amended section generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to the Fund $5,000,000 for each of fiscal years 2005 through 2009.”
 
-## § 6607. Report to Congress
+## § 6607. Report to Congress
 
 Not later than October 1, 2005, the Secretary shall submit to the Congress a report on the results and effectiveness of the program carried out under this chapter, including recommendations concerning how this chapter might be improved and whether the Fund should be continued in the future.
 
-(Pub. L. 108–266, § 8, July 2, 2004, 118 Stat. 796.)
+(Pub. L. 108–266, § 8, July 2, 2004, 118 Stat. 796.)

@@ -47,7 +47,7 @@ Subchapter J, Penalties, seizures, and forfeitures relating to liquors, comprisi
 
 **Amendments**
 
-2005—Pub. L. 109–59, title XI, § 11125(b)(1)(B), Aug. 10, 2005, 119 Stat. 1953, substituted “Miscellaneous provisions” for “Occupational tax” in item for part II.
+2005—Pub. L. 109–59, title XI, § 11125(b)(1)(B), Aug. 10, 2005, 119 Stat. 1953, substituted “Miscellaneous provisions” for “Occupational tax” in item for part II.
 
 ### PART I—GALLONAGE TAXES
 
@@ -55,7 +55,7 @@ Subchapter J, Penalties, seizures, and forfeitures relating to liquors, comprisi
 
 **Amendments**
 
-1979—Pub. L. 96–39, title VIII, § 807(b)(1), July 26, 1979, 93 Stat. 290, struck out item relating to subpart B “Rectification”.
+1979—Pub. L. 96–39, title VIII, § 807(b)(1), July 26, 1979, 93 Stat. 290, struck out item relating to subpart B “Rectification”.
 
 #### Subpart A—Distilled Spirits
 
@@ -67,13 +67,13 @@ A prior subpart A, comprising sections 5001 to 5012, related to tax on distilled
 
 **Amendments**
 
-2005—Pub. L. 109–59, title XI, § 11126(c), Aug. 10, 2005, 119 Stat. 1958, added item 5011.
+2005—Pub. L. 109–59, title XI, § 11126(c), Aug. 10, 2005, 119 Stat. 1958, added item 5011.
 
-1980—Pub. L. 96–598, § 6(b), Dec. 24, 1980, 94 Stat. 3489, added item 5010.
+1980—Pub. L. 96–598, § 6(b), Dec. 24, 1980, 94 Stat. 3489, added item 5010.
 
-1979—Pub. L. 96–39, title VIII, § 807(b)(2), July 26, 1979, 93 Stat. 290, struck out item 5009 “Drawback”.
+1979—Pub. L. 96–39, title VIII, § 807(b)(2), July 26, 1979, 93 Stat. 290, struck out item 5009 “Drawback”.
 
-##### § 5001. Imposition, rate, and attachment of tax
+##### § 5001. Imposition, rate, and attachment of tax
 
 **(a) Rate of tax**
 
@@ -123,9 +123,9 @@ The tax shall attach to distilled spirits as soon as this substance is in existe
 
 **(A)** $2.70 per proof gallon on the first 100,000 proof gallons of distilled spirits, and
 
-**(B)** $13.34 per proof gallon on the first 22,130,000 of 1
+**(B)** $13.34 per proof gallon on the first 22,130,000 of 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 proof gallons of distilled spirits to which subparagraph (A) does not apply,
 
@@ -213,39 +213,39 @@ A distilled spirit shall not be treated as processed for purposes of this subsec
 
 For provisions relating to the tax on shipments to the United States of taxable articles from Puerto Rico and the Virgin Islands, see section 7652.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1314; amended Pub. L. 86–75, § 3(a)(2), (3), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, § 202(a)(4), (5), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, § 3(a)(4), (5), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, § 3(a)(3), (4), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, § 3(a)(4), (5), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, § 2(a)(4), (5), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, § 501(a), June 21, 1965, 79 Stat. 150; Pub. L. 96–39, title VIII, §§ 802, 805(d), July 26, 1979, 93 Stat. 273, 278; Pub. L. 98–369, div. A, title I, § 27(a)(1), July 18, 1984, 98 Stat. 507; Pub. L. 101–508, title XI, § 11201(a)(1), Nov. 5, 1990, 104 Stat. 1388–415; Pub. L. 103–465, title I, § 136(a), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 115–97, title I, § 13807(a), (c), Dec. 22, 2017, 131 Stat. 2176; Pub. L. 116–94, div. Q, title I, § 144(g)(1), (2), Dec. 20, 2019, 133 Stat. 3235; Pub. L. 116–260, div. EE, title I, §§ 106(g)(1), 107(a)(1), 109(a), 110(c), Dec. 27, 2020, 134 Stat. 3044, 3045, 3049, 3050.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1314; amended Pub. L. 86–75, § 3(a)(2), (3), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, § 202(a)(4), (5), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, § 3(a)(4), (5), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, § 3(a)(3), (4), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, § 3(a)(4), (5), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, § 2(a)(4), (5), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, § 501(a), June 21, 1965, 79 Stat. 150; Pub. L. 96–39, title VIII, §§ 802, 805(d), July 26, 1979, 93 Stat. 273, 278; Pub. L. 98–369, div. A, title I, § 27(a)(1), July 18, 1984, 98 Stat. 507; Pub. L. 101–508, title XI, § 11201(a)(1), Nov. 5, 1990, 104 Stat. 1388–415; Pub. L. 103–465, title I, § 136(a), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 115–97, title I, § 13807(a), (c), Dec. 22, 2017, 131 Stat. 2176; Pub. L. 116–94, div. Q, title I, § 144(g)(1), (2), Dec. 20, 2019, 133 Stat. 3235; Pub. L. 116–260, div. EE, title I, §§ 106(g)(1), 107(a)(1), 109(a), 110(c), Dec. 27, 2020, 134 Stat. 3044, 3045, 3049, 3050.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5001, acts Aug. 16, 1954, ch. 736, 68A Stat. 595; Mar. 30, 1955, ch. 18, § 3(a)(4), (5), 69 Stat. 14; Mar. 29, 1956, ch. 115, § 3(a)(4), (5), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, § 3(a)(2), (3), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, § 3(a)(2), (3), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859. See section 5061(d) of this title.
+A prior section 5001, acts Aug. 16, 1954, ch. 736, 68A Stat. 595; Mar. 30, 1955, ch. 18, § 3(a)(4), (5), 69 Stat. 14; Mar. 29, 1956, ch. 115, § 3(a)(4), (5), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, § 3(a)(2), (3), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, § 3(a)(2), (3), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859. See section 5061(d) of this title.
 
 **Amendments**
 
-2020—Subsec. (c). Pub. L. 116–260, § 106(g)(1)(A), substituted “Reduced Rate” for “Temporary reduced rate” in heading.
+2020—Subsec. (c). Pub. L. 116–260, § 106(g)(1)(A), substituted “Reduced Rate” for “Temporary reduced rate” in heading.
 
-Subsec. (c)(2)(D). Pub. L. 116–260, § 110(c), substituted “under a license” for “marketed under a similar brand, license” and inserted “or process” after “that produce”.
+Subsec. (c)(2)(D). Pub. L. 116–260, § 110(c), substituted “under a license” for “marketed under a similar brand, license” and inserted “or process” after “that produce”.
 
-Subsec. (c)(3)(B). Pub. L. 116–260, § 106(g)(1)(B), substituted “The Secretary of the Treasury, after consultation with the Secretary of the Department of Homeland Security,” for “The Secretary” in introductory provisions.
+Subsec. (c)(3)(B). Pub. L. 116–260, § 106(g)(1)(B), substituted “The Secretary of the Treasury, after consultation with the Secretary of the Department of Homeland Security,” for “The Secretary” in introductory provisions.
 
-Subsec. (c)(4). Pub. L. 116–260, § 107(a)(1), added par. (4).
+Subsec. (c)(4). Pub. L. 116–260, § 107(a)(1), added par. (4).
 
-Pub. L. 116–260, § 106(g)(1)(C), struck out par. (4). Text read as follows: “This subsection shall not apply to distilled spirits removed after December 31, 2020.”
+Pub. L. 116–260, § 106(g)(1)(C), struck out par. (4). Text read as follows: “This subsection shall not apply to distilled spirits removed after December 31, 2020.”
 
-Subsec. (c)(5). Pub. L. 116–260, § 109(a), added par. (5).
+Subsec. (c)(5). Pub. L. 116–260, § 109(a), added par. (5).
 
-2019—Subsec. (c). Pub. L. 116–94, § 144(g)(2), substituted “Temporary reduced rate” for “Reduced rate for 2018 and 2019” in heading.
+2019—Subsec. (c). Pub. L. 116–94, § 144(g)(2), substituted “Temporary reduced rate” for “Reduced rate for 2018 and 2019” in heading.
 
-Subsec. (c)(4). Pub. L. 116–94, § 144(g)(1), substituted “December 31, 2020” for “December 31, 2019”.
+Subsec. (c)(4). Pub. L. 116–94, § 144(g)(1), substituted “December 31, 2020” for “December 31, 2019”.
 
-2017—Subsec. (c). Pub. L. 115–97, § 13807(a), added subsec. (c). Former subsec. (c) redesignated (d).
+2017—Subsec. (c). Pub. L. 115–97, § 13807(a), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (c)(1). Pub. L. 115–97, § 13807(c)(1), inserted “but only if the importer is an electing importer under paragraph (3) and the proof gallons of distilled spirits have been assigned to the importer pursuant to such paragraph” after “into the United States during the calendar year”
+Subsec. (c)(1). Pub. L. 115–97, § 13807(c)(1), inserted “but only if the importer is an electing importer under paragraph (3) and the proof gallons of distilled spirits have been assigned to the importer pursuant to such paragraph” after “into the United States during the calendar year”
 
-Subsec. (c)(3), (4). Pub. L. 115–97, § 13807(c)(2), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (c)(3), (4). Pub. L. 115–97, § 13807(c)(2), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (d). Pub. L. 115–97, § 13807(a), redesignated subsec. (c) as (d).
+Subsec. (d). Pub. L. 115–97, § 13807(a), redesignated subsec. (c) as (d).
 
 1994—Subsec. (a)(3) to (10). Pub. L. 103–465 redesignated pars. (4) to (10) as (3) to (9), respectively, and struck out former par. (3), “Imported perfumes containing distilled spirits”, which read as follows: “There is hereby imposed on all perfumes imported into the United States containing distilled spirits a tax of $13.50 per wine gallon, and a proportionate tax at a like rate on all fractional parts of such wine gallon.”
 
@@ -253,9 +253,9 @@ Subsec. (d). Pub. L. 115–97, § 13807(a), redesignated subsec. (c) as (d).
 
 1984—Subsec. (a)(1), (3). Pub. L. 98–369 substituted “$12.50” for “$10.50”.
 
-1979—Subsec. (a)(1). Pub. L. 96–39, § 802, struck out “in bond or” after “distilled spirits” and “or wine gallon when below proof” after “each proof gallon” and substituted “a tax” for “an internal revenue tax” and “proof gallon” for “such proof or wine gallon”.
+1979—Subsec. (a)(1). Pub. L. 96–39, § 802, struck out “in bond or” after “distilled spirits” and “or wine gallon when below proof” after “each proof gallon” and substituted “a tax” for “an internal revenue tax” and “proof gallon” for “such proof or wine gallon”.
 
-Subsec. (a)(2). Pub. L. 96–39, § 805(d), inserted “, and any alcoholic ingredient added to such products” after “has not been paid”.
+Subsec. (a)(2). Pub. L. 96–39, § 805(d), inserted “, and any alcoholic ingredient added to such products” after “has not been paid”.
 
 1965—Subsec. (a)(1). Pub. L. 89–44 struck out last sentence which provided that the rate of tax imposed by par. (1) would be $9 on and after July 1, 1965.
 
@@ -265,57 +265,57 @@ Subsec. (a)(3). Pub. L. 89–44 struck out last sentence which provided that the
 
 Subsec. (a)(3). Pub. L. 88–348 substituted “July 1, 1965” for “July 1, 1964”.
 
-1963—Subsec. (a)(1). Pub. L. 88–52, § 3(a)(4), substituted “July 1, 1964” for “July 1, 1963”.
+1963—Subsec. (a)(1). Pub. L. 88–52, § 3(a)(4), substituted “July 1, 1964” for “July 1, 1963”.
 
-Subsec. (a)(3). Pub. L. 88–52, § 3(a)(5), substituted “July 1, 1964” for “July 1, 1963”.
+Subsec. (a)(3). Pub. L. 88–52, § 3(a)(5), substituted “July 1, 1964” for “July 1, 1963”.
 
-1962—Subsec. (a)(1). Pub. L. 87–508, § 3(a)(3), substituted “July 1, 1963” for “July 1, 1962”.
+1962—Subsec. (a)(1). Pub. L. 87–508, § 3(a)(3), substituted “July 1, 1963” for “July 1, 1962”.
 
-Subsec. (a)(3). Pub. L. 87–508, § 3(a)(4), substituted “July 1, 1963” for “July 1, 1962”.
+Subsec. (a)(3). Pub. L. 87–508, § 3(a)(4), substituted “July 1, 1963” for “July 1, 1962”.
 
-1961—Subsec. (a)(1). Pub. L. 87–72, § 3(a)(4), substituted “July 1, 1962” for “July 1, 1961”.
+1961—Subsec. (a)(1). Pub. L. 87–72, § 3(a)(4), substituted “July 1, 1962” for “July 1, 1961”.
 
-Subsec. (a)(3). Pub. L. 87–72, § 3(a)(5), substituted “July 1, 1962” for “July 1, 1961”.
+Subsec. (a)(3). Pub. L. 87–72, § 3(a)(5), substituted “July 1, 1962” for “July 1, 1961”.
 
-1960—Subsec. (a)(1). Pub. L. 86–564, § 202(a)(4), substituted “July 1, 1961” for “July 1, 1960”.
+1960—Subsec. (a)(1). Pub. L. 86–564, § 202(a)(4), substituted “July 1, 1961” for “July 1, 1960”.
 
-Subsec. (a)(3). Pub. L. 86–564, § 202(a)(5), substituted “July 1, 1961” for “July 1, 1960”.
+Subsec. (a)(3). Pub. L. 86–564, § 202(a)(5), substituted “July 1, 1961” for “July 1, 1960”.
 
-1959—Subsec. (a)(1). Pub. L. 86–75, § 3(a)(2), substituted “July 1, 1960” for “July 1, 1959”.
+1959—Subsec. (a)(1). Pub. L. 86–75, § 3(a)(2), substituted “July 1, 1960” for “July 1, 1959”.
 
-Subsec. (a)(3). Pub. L. 86–75, § 3(a)(3), substituted “July 1, 1960” for “July 1, 1959”.
+Subsec. (a)(3). Pub. L. 86–75, § 3(a)(3), substituted “July 1, 1960” for “July 1, 1959”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. EE, title I, § 106(g)(2), Dec. 27, 2020, 134 Stat. 3045, provided that: “The amendments made by this subsection [amending this section] shall apply to distilled spirits removed after December 31, 2020.”
+Pub. L. 116–260, div. EE, title I, § 106(g)(2), Dec. 27, 2020, 134 Stat. 3045, provided that: “The amendments made by this subsection [amending this section] shall apply to distilled spirits removed after December 31, 2020.”
 
-Pub. L. 116–260, div. EE, title I, § 107(a)(3), Dec. 27, 2020, 134 Stat. 3046, provided that: “The amendments made by this subsection [amending this section and section 7652 of this title] shall apply to distilled spirits brought into the United States and removed after December 31, 2022.”
+Pub. L. 116–260, div. EE, title I, § 107(a)(3), Dec. 27, 2020, 134 Stat. 3046, provided that: “The amendments made by this subsection [amending this section and section 7652 of this title] shall apply to distilled spirits brought into the United States and removed after December 31, 2022.”
 
-Pub. L. 116–260, div. EE, title I, § 109(b), Dec. 27, 2020, 134 Stat. 3049, provided that: “The amendment made by this section [amending this section] shall apply to distilled spirits removed after December 31, 2021.”
+Pub. L. 116–260, div. EE, title I, § 109(b), Dec. 27, 2020, 134 Stat. 3049, provided that: “The amendment made by this section [amending this section] shall apply to distilled spirits removed after December 31, 2021.”
 
-Pub. L. 116–260, div. EE, title I, § 110(d), Dec. 27, 2020, 134 Stat. 3050, provided that: “The amendments made by this section [amending this section and section 5051 of this title] shall apply to beer, wine, and distilled spirits removed after December 31, 2020.”
+Pub. L. 116–260, div. EE, title I, § 110(d), Dec. 27, 2020, 134 Stat. 3050, provided that: “The amendments made by this section [amending this section and section 5051 of this title] shall apply to beer, wine, and distilled spirits removed after December 31, 2020.”
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–94, div. Q, title I, § 144(g)(3), Dec. 20, 2019, 133 Stat. 3235, provided that: “The amendments made by this subsection [amending this section] shall apply to distilled spirits removed after December 31, 2019.”
+Pub. L. 116–94, div. Q, title I, § 144(g)(3), Dec. 20, 2019, 133 Stat. 3235, provided that: “The amendments made by this subsection [amending this section] shall apply to distilled spirits removed after December 31, 2019.”
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–97, title I, § 13807(d), Dec. 22, 2017, 131 Stat. 2177, provided that: “The amendments made by this section [amending this section and section 7652 of this title] shall apply to distilled spirits removed after December 31, 2017.”
+Pub. L. 115–97, title I, § 13807(d), Dec. 22, 2017, 131 Stat. 2177, provided that: “The amendments made by this section [amending this section and section 7652 of this title] shall apply to distilled spirits removed after December 31, 2017.”
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–465, title I, § 136(d), Dec. 8, 1994, 108 Stat. 4842, provided that: “The amendments made by this section [amending this section and sections 5002, 5005, 5007, 5061, 5131, 5132, 5134, and 7652 of this title] shall take effect on January 1, 1995.”
+Pub. L. 103–465, title I, § 136(d), Dec. 8, 1994, 108 Stat. 4842, provided that: “The amendments made by this section [amending this section and sections 5002, 5005, 5007, 5061, 5131, 5132, 5134, and 7652 of this title] shall take effect on January 1, 1995.”
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title XI, § 11201(d), Nov. 5, 1990, 104 Stat. 1388–417, provided that: “The amendments made by this section [amending this section and sections 5010, 5041, 5051, and 5061 of this title] shall take effect on January 1, 1991.”
+Pub. L. 101–508, title XI, § 11201(d), Nov. 5, 1990, 104 Stat. 1388–417, provided that: “The amendments made by this section [amending this section and sections 5010, 5041, 5051, and 5061 of this title] shall take effect on January 1, 1991.”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title I, § 27(d), July 18, 1984, 98 Stat. 509, provided that:
+Pub. L. 98–369, div. A, title I, § 27(d), July 18, 1984, 98 Stat. 509, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [amending this section and section 5010 of this title and enacting provisions set out as a note under this section] shall take effect on October 1, 1985.
 
@@ -323,7 +323,7 @@ Pub. L. 98–369, div. A, title I, § 27(d), July 18, 1984, 98 Stat. 509, prov
 
 **Effective Date of 1979 Amendment**
 
-Pub. L. 96–39, title VIII, § 810, July 26, 1979, 93 Stat. 292, provided that: “The amendments made by this title [amending this section and sections 5002 to 5008, 5043, 5061, 5064, 5066, 5116, 5171 to 5173, 5175 to 5178, 5180, 5181, 5201 to 5205, 5207, 5211 to 5215, 5221 to 5223, 5231, 5232, 5235, 5241, 5273, 5291, 5301, 5352, 5361 to 5363, 5365, 5381, 5391, 5551, 5601, 5604, 5610, 5612, 5615, 5663, 5681, 5682, and 5691 of this title, repealing sections 5009, 5021 to 5026, 5081 to 5084, 5174, 5233, 5234, 5251, 5252, 5364, and 5521 to 5523 of this title, and enacting provisions set out as notes under sections 1, 5061, 5171, and 5173 of this title] shall take effect on January 1, 1980.”
+Pub. L. 96–39, title VIII, § 810, July 26, 1979, 93 Stat. 292, provided that: “The amendments made by this title [amending this section and sections 5002 to 5008, 5043, 5061, 5064, 5066, 5116, 5171 to 5173, 5175 to 5178, 5180, 5181, 5201 to 5205, 5207, 5211 to 5215, 5221 to 5223, 5231, 5232, 5235, 5241, 5273, 5291, 5301, 5352, 5361 to 5363, 5365, 5381, 5391, 5551, 5601, 5604, 5610, 5612, 5615, 5663, 5681, 5682, and 5691 of this title, repealing sections 5009, 5021 to 5026, 5081 to 5084, 5174, 5233, 5234, 5251, 5252, 5364, and 5521 to 5523 of this title, and enacting provisions set out as notes under sections 1, 5061, 5171, and 5173 of this title] shall take effect on January 1, 1980.”
 
 **Effective Date of 1965 Amendment**
 
@@ -331,35 +331,35 @@ Amendment by Pub. L. 89–44 applicable on and after July 1, 1965, see section 7
 
 **Effective Date**
 
-Pub. L. 85–859, title II, § 210(a)(1), Sept. 2, 1958, 72 Stat. 1435, provided that: “The amendments made by sections 201 and 205 [amending this chapter and repealing acts Mar. 3, 1877, 114, 19 Stat. 393, and Oct. 18, 1888, ch. 1194, 25 Stat. 560] shall take effect on July 1, 1959, except that any provision having the effect of a provision contained in such amendments may be made effective at an earlier date by the promulgation of regulations by the Secretary or his delegate to effectuate such provision, in which case the effective date shall be that prescribed in such regulations. The amendments made by paragraphs (17) and (18) of section 204 [amending section 7652 of this title] shall take effect on July 1, 1959. Except as provided in section 206(f), all other provisions of this title [enacting sections 5849, 5854, 5855, and 7608 of this title, amending chapter 52 of this title and sections 5801, 5811, 5814, 5821, 5843, 5848, 5851, 6071, 6207, 6422, 7214, 7272, 7301, 7324 to 7326, 7609, and 7655 of this title, and repealing former section 5854 of this title] shall take effect on the day following the date of the enactment of this Act [Sept. 2, 1958].”
+Pub. L. 85–859, title II, § 210(a)(1), Sept. 2, 1958, 72 Stat. 1435, provided that: “The amendments made by sections 201 and 205 [amending this chapter and repealing acts Mar. 3, 1877, 114, 19 Stat. 393, and Oct. 18, 1888, ch. 1194, 25 Stat. 560] shall take effect on July 1, 1959, except that any provision having the effect of a provision contained in such amendments may be made effective at an earlier date by the promulgation of regulations by the Secretary or his delegate to effectuate such provision, in which case the effective date shall be that prescribed in such regulations. The amendments made by paragraphs (17) and (18) of section 204 [amending section 7652 of this title] shall take effect on July 1, 1959. Except as provided in section 206(f), all other provisions of this title [enacting sections 5849, 5854, 5855, and 7608 of this title, amending chapter 52 of this title and sections 5801, 5811, 5814, 5821, 5843, 5848, 5851, 6071, 6207, 6422, 7214, 7272, 7301, 7324 to 7326, 7609, and 7655 of this title, and repealing former section 5854 of this title] shall take effect on the day following the date of the enactment of this Act [Sept. 2, 1958].”
 
 **Short Title**
 
-Pub. L. 85–859, § 1(a), Sept. 2, 1958, 72 Stat. 1275, provided that: “This Act [see Tables for classification] may be cited as the ‘Excise Tax Technical Changes Act of 1958’.”
+Pub. L. 85–859, § 1(a), Sept. 2, 1958, 72 Stat. 1275, provided that: “This Act [see Tables for classification] may be cited as the ‘Excise Tax Technical Changes Act of 1958’.”
 
 **Regulations**
 
-Pub. L. 116–260, div. EE, title I, § 107(f), Dec. 27, 2020, 134 Stat. 3048, provided that: “The Secretary of the Treasury (or the Secretary’s delegate within the Department of the Treasury) shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section [enacting section 6038E of this title, amending this section and sections 5041, 5051, and 7652 of this title, and enacting provisions set out as notes under this section and sections 5041, 5051, and 6038E of this title], including regulations to require foreign producers to provide information necessary to enforce the volume limitations under sections 5001(c), 5041(c), and 5051(a) of such Code.”
+Pub. L. 116–260, div. EE, title I, § 107(f), Dec. 27, 2020, 134 Stat. 3048, provided that: “The Secretary of the Treasury (or the Secretary’s delegate within the Department of the Treasury) shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section [enacting section 6038E of this title, amending this section and sections 5041, 5051, and 7652 of this title, and enacting provisions set out as notes under this section and sections 5041, 5051, and 6038E of this title], including regulations to require foreign producers to provide information necessary to enforce the volume limitations under sections 5001(c), 5041(c), and 5051(a) of such Code.”
 
 **Savings Provision**
 
-Pub. L. 85–859, title II, § 210(b), Sept. 2, 1958, 72 Stat. 1435, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment of any provision of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] by this title [enacting sections 5849, 5854, 5855, and 7608 of this title, amending this chapter, chapter 52 of this title and sections 5801, 5811, 5814, 5821, 5843, 5848, 5851, 6071, 6207, 6422, 7214, 7272, 7301, 7324 to 7326, 7609, 7652, and 7655 of this title, and enacting provisions set out as notes under this section and sections 5006, 5025, 5064, 5175, 5304, and 5601 of this title] shall not affect any act done or any right accruing or accrued, or any suit or proceeding had or commenced in any civil cause before such amendment; but all rights and liabilities under such code prior to such amendment shall continue, and may be enforced in the same manner, as if such amendment had not been made.”
+Pub. L. 85–859, title II, § 210(b), Sept. 2, 1958, 72 Stat. 1435, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment of any provision of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] by this title [enacting sections 5849, 5854, 5855, and 7608 of this title, amending this chapter, chapter 52 of this title and sections 5801, 5811, 5814, 5821, 5843, 5848, 5851, 6071, 6207, 6422, 7214, 7272, 7301, 7324 to 7326, 7609, 7652, and 7655 of this title, and enacting provisions set out as notes under this section and sections 5006, 5025, 5064, 5175, 5304, and 5601 of this title] shall not affect any act done or any right accruing or accrued, or any suit or proceeding had or commenced in any civil cause before such amendment; but all rights and liabilities under such code prior to such amendment shall continue, and may be enforced in the same manner, as if such amendment had not been made.”
 
 **References to Other Provisions of Law**
 
-Pub. L. 85–859, title II, § 210(d), Sept. 2, 1958, 72 Stat. 1435, provided that: “For the purpose of applying any provision of this title [see Savings Provision note above] to any occurrence on or after the effective date of such provision, any reference in this title to another provision thereof shall also be deemed to be a reference to the corresponding provision of prior law, when consistent with the purpose of the provision to be applied.”
+Pub. L. 85–859, title II, § 210(d), Sept. 2, 1958, 72 Stat. 1435, provided that: “For the purpose of applying any provision of this title [see Savings Provision note above] to any occurrence on or after the effective date of such provision, any reference in this title to another provision thereof shall also be deemed to be a reference to the corresponding provision of prior law, when consistent with the purpose of the provision to be applied.”
 
 **Repeal of Acts Mar. 3, 1877 and Oct. 18, 1888**
 
-Pub. L. 85–859, title II, § 205, Sept. 2, 1958, 72 Stat. 1430, repealed acts March 3, 1877, ch. 114, 19 Stat. 393 and Oct. 18, 1888, ch. 1194, 25 Stat. 560, which related to production and warehousing of fruit brandy, and are covered by this chapter. For effective date of repeal, see section 210(a)(1) of Pub. L. 85–859, set out as an Effective Date note above.
+Pub. L. 85–859, title II, § 205, Sept. 2, 1958, 72 Stat. 1430, repealed acts March 3, 1877, ch. 114, 19 Stat. 393 and Oct. 18, 1888, ch. 1194, 25 Stat. 560, which related to production and warehousing of fruit brandy, and are covered by this chapter. For effective date of repeal, see section 210(a)(1) of Pub. L. 85–859, set out as an Effective Date note above.
 
 **Administration of Refunds**
 
-Pub. L. 116–260, div. EE, title I, § 107(e), Dec. 27, 2020, 134 Stat. 3048, provided that: “The Secretary of the Treasury (or the Secretary’s delegate within the Department of the Treasury) shall implement and administer sections 5001(c)(4), 5041(c)(7), and 5051(a)(6) of the Internal Revenue Code of 1986, as added by this Act [div. EE of Pub. L. 116–260], in coordination with the United States Customs and Border Protection of the Department of Homeland Security.”
+Pub. L. 116–260, div. EE, title I, § 107(e), Dec. 27, 2020, 134 Stat. 3048, provided that: “The Secretary of the Treasury (or the Secretary’s delegate within the Department of the Treasury) shall implement and administer sections 5001(c)(4), 5041(c)(7), and 5051(a)(6) of the Internal Revenue Code of 1986, as added by this Act [div. EE of Pub. L. 116–260], in coordination with the United States Customs and Border Protection of the Department of Homeland Security.”
 
 **Floor Stocks Taxes on Distilled Spirits, Wine, and Beer**
 
-Pub. L. 101–508, title XI, § 11201(e), Nov. 5, 1990, 104 Stat. 1388–417, provided that:
+Pub. L. 101–508, title XI, § 11201(e), Nov. 5, 1990, 104 Stat. 1388–417, provided that:
 
 > **“(1) Imposition of tax.—**
 
@@ -451,9 +451,9 @@ Pub. L. 101–508, title XI, § 11201(e), Nov. 5, 1990, 104 Stat. 1388–417, 
 
 **Floor Stocks Tax Treatment of Articles in Foreign Trade Zones**
 
-Pub. L. 101–508, title XI, § 11218, Nov. 5, 1990, 104 Stat. 1388–438, provided that:
+Pub. L. 101–508, title XI, § 11218, Nov. 5, 1990, 104 Stat. 1388–438, provided that:
 
-> “Notwithstanding the Act of June 18, 1934 (48 Stat. 998, 19 U.S.C. 81a) or any other provision of law, any article which is located in a foreign trade zone on the effective date of any increase in tax under the amendments made by this part or part I [part I (§§ 11201–11203) or part II (§§ 11211–11218) of subtitle B of title XI of Pub. L. 101–508, see Tables for classification] shall be subject to floor stocks taxes imposed by such parts if—
+> “Notwithstanding the Act of June 18, 1934 (48 Stat. 998, 19 U.S.C. 81a) or any other provision of law, any article which is located in a foreign trade zone on the effective date of any increase in tax under the amendments made by this part or part I [part I (§§ 11201–11203) or part II (§§ 11211–11218) of subtitle B of title XI of Pub. L. 101–508, see Tables for classification] shall be subject to floor stocks taxes imposed by such parts if—
 
 > **“(1)** internal revenue taxes have been determined, or customs duties liquidated, with respect to such article before such date pursuant to a request made under the 1st proviso of section 3(a) of such Act [19 U.S.C. 81c(a)], or
 
@@ -461,7 +461,7 @@ Pub. L. 101–508, title XI, § 11218, Nov. 5, 1990, 104 Stat. 1388–438, pro
 
 **Floor Stocks Taxes on Distilled Spirits**
 
-Pub. L. 98–369, div. A, title I, § 27(b), July 18, 1984, 98 Stat. 507, as amended by Pub. L. 99–514, § 2, title XVIII, § 1801(c)(3), Oct. 22, 1986, 100 Stat. 2095, 2786, provided that:
+Pub. L. 98–369, div. A, title I, § 27(b), July 18, 1984, 98 Stat. 507, as amended by Pub. L. 99–514, § 2, title XVIII, § 1801(c)(3), Oct. 22, 1986, 100 Stat. 2095, 2786, provided that:
 
 > **“(1) Imposition of tax.—** On distilled spirits on which tax was imposed under section 5001 or 7652 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] before October 1, 1985, and which were held on such date for sale by any person, there shall be imposed a tax at the rate of $2.00 for each proof gallon and a proportionate tax at the like rate on all fractional parts of a proof gallon.
 
@@ -535,7 +535,7 @@ Pub. L. 98–369, div. A, title I, § 27(b), July 18, 1984, 98 Stat. 507, as a
 
 > Under regulations prescribed by the Secretary, provisions similar to sections 5062 and 5064 of such Code shall apply to distilled spirits with respect to which tax is imposed by paragraph (1) by reason of this subparagraph.”
 
-##### § 5002. Definitions
+##### § 5002. Definitions
 
 **(a) In general** For purposes of this chapter—
 
@@ -635,7 +635,7 @@ The terms “export”, “exported”, and “exportation” include shipments 
 
 **(5)** For definitions of general application to this title, see chapter 79.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1315; amended Pub. L. 89–44, title VIII, § 807(a), June 21, 1965, 79 Stat. 164; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 805(e), July 26, 1979, 93 Stat. 278; Pub. L. 103–465, title I, § 136(c)(1), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 109–59, title XI, § 11125(b)(13), Aug. 10, 2005, 119 Stat. 1956.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1315; amended Pub. L. 89–44, title VIII, § 807(a), June 21, 1965, 79 Stat. 164; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 805(e), July 26, 1979, 93 Stat. 278; Pub. L. 103–465, title I, § 136(c)(1), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 109–59, title XI, § 11125(b)(13), Aug. 10, 2005, 119 Stat. 1956.)
 
 **Editorial Notes**
 
@@ -647,11 +647,11 @@ Provisions similar to those comprising subsec. (a)(6), (9), and (11) of this sec
 
 **Amendments**
 
-2005—Subsec. (b)(2). Pub. L. 109–59, § 11125(b)(13)(A), substituted “section 5121(c)(3)” for “section 5112(a)”.
+2005—Subsec. (b)(2). Pub. L. 109–59, § 11125(b)(13)(A), substituted “section 5121(c)(3)” for “section 5112(a)”.
 
-Subsec. (b)(3). Pub. L. 109–59, § 11125(b)(13)(B), substituted “section 5121(c)” for “section 5112”.
+Subsec. (b)(3). Pub. L. 109–59, § 11125(b)(13)(B), substituted “section 5121(c)” for “section 5112”.
 
-Subsec. (b)(4). Pub. L. 109–59, § 11125(b)(13)(C), substituted “section 5122(c)” for “section 5122”.
+Subsec. (b)(4). Pub. L. 109–59, § 11125(b)(13)(C), substituted “section 5122(c)” for “section 5122”.
 
 1994—Subsec. (b)(1) to (6). Pub. L. 103–465 redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which provided a cross reference to section 5041(c) of this title for definition of “wine gallon”.
 
@@ -679,7 +679,7 @@ Subsec. (b). Pub. L. 95–39 struck out par. (2) which provided for a cross refe
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–59, title XI, § 11125(c), Aug. 10, 2005, 119 Stat. 1957, provided that: “The amendments made by this section [see Tables for classification] shall take effect on July 1, 2008, but shall not apply to taxes imposed for periods before such date.”
+Pub. L. 109–59, title XI, § 11125(c), Aug. 10, 2005, 119 Stat. 1957, provided that: “The amendments made by this section [see Tables for classification] shall take effect on July 1, 2008, but shall not apply to taxes imposed for periods before such date.”
 
 **Effective Date of 1994 Amendment**
 
@@ -691,9 +691,9 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 **Effective Date of 1965 Amendment**
 
-Pub. L. 89–44, title VIII, § 807(c), June 21, 1965, 79 Stat. 164, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 5053 of this title] shall take effect on July 1, 1965.”
+Pub. L. 89–44, title VIII, § 807(c), June 21, 1965, 79 Stat. 164, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 5053 of this title] shall take effect on July 1, 1965.”
 
-##### § 5003. Cross references to exemptions, etc.
+##### § 5003. Cross references to exemptions, etc.
 
 **(1)** For provisions authorizing the withdrawal of distilled spirits free of tax for use by Federal or State agencies, see sections 5214(a)(2) and 5313.
 
@@ -729,7 +729,7 @@ Pub. L. 89–44, title VIII, § 807(c), June 21, 1965, 79 Stat. 164, provided 
 
 **(17)** For provisions relating to allowance for certain losses in bond, see section 5008(a).
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1316; amended Pub. L. 95–176, §§ 3(c), 4(f), Nov. 14, 1977, 91 Stat. 1365, 1366; Pub. L. 96–39, title VIII, § 807(a)(1), July 26, 1979, 93 Stat. 280.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1316; amended Pub. L. 95–176, §§ 3(c), 4(f), Nov. 14, 1977, 91 Stat. 1365, 1366; Pub. L. 96–39, title VIII, § 807(a)(1), July 26, 1979, 93 Stat. 280.)
 
 **Editorial Notes**
 
@@ -739,13 +739,13 @@ A prior section 5003, act Aug. 16, 1954, ch. 736, 68A Stat. 597, consisted of pr
 
 **Amendments**
 
-1979—Par. (9). Pub. L. 96–39, § 807(a)(1)(A), struck out “section 5522(a) and” before “section 5214(a)(9)”.
+1979—Par. (9). Pub. L. 96–39, § 807(a)(1)(A), struck out “section 5522(a) and” before “section 5214(a)(9)”.
 
-Pars. (15) to (17). Pub. L. 96–39, § 807(a)(1)(B), added pars. (15) and (16) and redesignated former par. (15) as (17).
+Pars. (15) to (17). Pub. L. 96–39, § 807(a)(1)(B), added pars. (15) and (16) and redesignated former par. (15) as (17).
 
-1977—Par. (9). Pub. L. 95–176, § 3(c), struck out “manufacturing” after “customs” and inserted reference to section 5214(a)(9).
+1977—Par. (9). Pub. L. 95–176, § 3(c), struck out “manufacturing” after “customs” and inserted reference to section 5214(a)(9).
 
-Par. (14). Pub. L. 95–176, § 4(f), substituted “withdrawal of distilled spirits without payment of tax for use in certain research, development, or testing, see section 5214(a)(10)” for “removal of samples free of tax for making tests or laboratory analyses, see section 5214(a)(9)”.
+Par. (14). Pub. L. 95–176, § 4(f), substituted “withdrawal of distilled spirits without payment of tax for use in certain research, development, or testing, see section 5214(a)(10)” for “removal of samples free of tax for making tests or laboratory analyses, see section 5214(a)(9)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -755,9 +755,9 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–176, § 7, Nov. 14, 1977, 91 Stat. 1367, provided that: “The amendments made by this Act [amending this section and sections 5004, 5005, 5008, 5025, 5062, 5066, 5175, 5178, 5205, 5207, 5214, 5215, and 5234 of this title] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act [Nov. 14, 1977].”
+Pub. L. 95–176, § 7, Nov. 14, 1977, 91 Stat. 1367, provided that: “The amendments made by this Act [amending this section and sections 5004, 5005, 5008, 5025, 5062, 5066, 5175, 5178, 5205, 5207, 5214, 5215, and 5234 of this title] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act [Nov. 14, 1977].”
 
-##### § 5004. Lien for tax
+##### § 5004. Lien for tax
 
 **(a) Distilled spirits subject to lien**
 
@@ -777,7 +777,7 @@ The tax imposed by section 5001(a)(1) shall be a first lien on the distilled spi
 
 For provisions relating to extinguishing of lien in case of redistillation, see section 5223(e).
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1317; amended Pub. L. 89–44, title VIII, § 805(f)(1), June 21, 1965, 79 Stat. 161; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, § 4(c), Nov. 14, 1977, 91 Stat. 1366; Pub. L. 96–39, title VIII, § 807(a)(2), July 26, 1979, 93 Stat. 280; Pub. L. 96–223, title II, § 232(e)(2)(C), Apr. 2, 1980, 94 Stat. 280.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1317; amended Pub. L. 89–44, title VIII, § 805(f)(1), June 21, 1965, 79 Stat. 161; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, § 4(c), Nov. 14, 1977, 91 Stat. 1366; Pub. L. 96–39, title VIII, § 807(a)(2), July 26, 1979, 93 Stat. 280; Pub. L. 96–223, title II, § 232(e)(2)(C), Apr. 2, 1980, 94 Stat. 280.)
 
 **Editorial Notes**
 
@@ -791,9 +791,9 @@ Provisions similar to those comprising subsec. (b)(1) of this section were conta
 
 1980—Subsec. (a)(2)(B). Pub. L. 96–223 substituted “(11), or (12),” for “or (11),”.
 
-1979—Subsec. (a)(2)(B). Pub. L. 96–39, § 807(a)(2)(C), substituted “(3), or (11)” for “or (3)”.
+1979—Subsec. (a)(2)(B). Pub. L. 96–39, § 807(a)(2)(C), substituted “(3), or (11)” for “or (3)”.
 
-Subsecs. (b), (c). Pub. L. 96–39, § 807(a)(2)(A), (B), redesignated subsec. (c) as (b). Former subsec. (b), relating to other property subject to lien, was repealed.
+Subsecs. (b), (c). Pub. L. 96–39, § 807(a)(2)(A), (B), redesignated subsec. (c) as (b). Former subsec. (b), relating to other property subject to lien, was repealed.
 
 1977—Subsec. (a)(2). Pub. L. 95–176 struck out reference to par. (9) of section 5214(a) in subpar. (B), and in subpar. (C) substituted “a customs bonded warehouse” for “customs manufacturing bonded warehouses” and provided for termination of the lien for tax when the distilled spirits are used in certain research, development, or testing.
 
@@ -817,9 +817,9 @@ Amendment by Pub. L. 95–176 effective on first day of first calendar month beg
 
 **Effective Date of 1965 Amendment**
 
-Pub. L. 89–44, title VIII, § 805(g)(2), June 21, 1965, 79 Stat. 162, provided that: “The amendments made by subsections (b), (d), and (f) (other than paragraph (6)) [amending this section and sections 5025, 5083, 5223, and 5234 of this title], shall take effect on October 1, 1965.”
+Pub. L. 89–44, title VIII, § 805(g)(2), June 21, 1965, 79 Stat. 162, provided that: “The amendments made by subsections (b), (d), and (f) (other than paragraph (6)) [amending this section and sections 5025, 5083, 5223, and 5234 of this title], shall take effect on October 1, 1965.”
 
-##### § 5005. Persons liable for tax
+##### § 5005. Persons liable for tax
 
 **(a) General**
 
@@ -873,41 +873,41 @@ All persons liable for the tax on distilled spirits under paragraph (1) of this 
 
 **(6)** For provisions relating to transfer of tax liability for wine, see section 5043(a)(1)(A).
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1318; amended Pub. L. 94–455, title XIX, § 1905(a)(1), Oct. 4, 1976, 90 Stat. 1818; Pub. L. 95–176, § 4(b), (d), Nov. 14, 1977, 91 Stat. 1366; Pub. L. 96–39, title VIII, § 807(a)(3), July 26, 1979, 93 Stat. 280; Pub. L. 96–223, title II, § 232(e)(2)(D), Apr. 2, 1980, 94 Stat. 280; Pub. L. 98–369, div. A, title IV, § 455(b), July 18, 1984, 98 Stat. 823; Pub. L. 103–465, title I, § 136(c)(2), Dec. 8, 1994, 108 Stat. 4841.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1318; amended Pub. L. 94–455, title XIX, § 1905(a)(1), Oct. 4, 1976, 90 Stat. 1818; Pub. L. 95–176, § 4(b), (d), Nov. 14, 1977, 91 Stat. 1366; Pub. L. 96–39, title VIII, § 807(a)(3), July 26, 1979, 93 Stat. 280; Pub. L. 96–223, title II, § 232(e)(2)(D), Apr. 2, 1980, 94 Stat. 280; Pub. L. 98–369, div. A, title IV, § 455(b), July 18, 1984, 98 Stat. 823; Pub. L. 103–465, title I, § 136(c)(2), Dec. 8, 1994, 108 Stat. 4841.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5005, acts Aug. 16, 1954, ch. 736, 68A Stat. 599; Sept. 2, 1958, Pub. L. 85–859, title II, § 206(d), 72 Stat. 1431, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
+A prior section 5005, acts Aug. 16, 1954, ch. 736, 68A Stat. 599; Sept. 2, 1958, Pub. L. 85–859, title II, § 206(d), 72 Stat. 1431, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
 Provisions similar to those comprising subsec. (c)(1), (2) of this section were contained in prior sections 5194(f), 5217(a), and 5232(a), act Aug. 16, 1954, ch. 736, 68A Stat. 634, 641, 643, prior to the general revision of this chapter by Pub. L. 85–859.
 
 **Amendments**
 
-1994—Subsec. (f)(3). Pub. L. 103–465, § 136(c)(2)(A), substituted “section 5001(a)(5) and (6)” for “section 5001(a)(6) and (7)”.
+1994—Subsec. (f)(3). Pub. L. 103–465, § 136(c)(2)(A), substituted “section 5001(a)(5) and (6)” for “section 5001(a)(6) and (7)”.
 
-Subsec. (f)(4). Pub. L. 103–465, § 136(c)(2)(B), substituted “section 5001(a)(4)” for “section 5001(a)(5)”.
+Subsec. (f)(4). Pub. L. 103–465, § 136(c)(2)(B), substituted “section 5001(a)(4)” for “section 5001(a)(5)”.
 
-1984—Subsec. (e)(1). Pub. L. 98–369, § 455(b)(1), substituted “(10), or (13)” for “or (10)”.
+1984—Subsec. (e)(1). Pub. L. 98–369, § 455(b)(1), substituted “(10), or (13)” for “or (10)”.
 
-Subsec. (e)(2). Pub. L. 98–369, § 455(b)(2), inserted “used in the production of nonbeverage wine or wine products,”.
+Subsec. (e)(2). Pub. L. 98–369, § 455(b)(2), inserted “used in the production of nonbeverage wine or wine products,”.
 
 1980—Subsec. (d). Pub. L. 96–223 substituted “(11), or (12),” for “or (11),”.
 
-1979—Subsec. (c)(3). Pub. L. 96–39, § 807(a)(3)(A), struck out par. (3) which related to liability for taxes with regard to withdrawals of distilled spirits from the bonded premises of a distilled spirits plant.
+1979—Subsec. (c)(3). Pub. L. 96–39, § 807(a)(3)(A), struck out par. (3) which related to liability for taxes with regard to withdrawals of distilled spirits from the bonded premises of a distilled spirits plant.
 
-Subsec. (d). Pub. L. 96–39, § 807(a)(3)(B), substituted “(3), or (11)” for “or (3)”.
+Subsec. (d). Pub. L. 96–39, § 807(a)(3)(B), substituted “(3), or (11)” for “or (3)”.
 
-Subsec. (f)(1). Pub. L. 96–39, § 807(a)(3)(C), substituted “requiring bond covering operations at, and withdrawals from, distilled spirits plants” for “conditioning warehousing bonds on the payment of the tax” and “5173” for “5173(c)”.
+Subsec. (f)(1). Pub. L. 96–39, § 807(a)(3)(C), substituted “requiring bond covering operations at, and withdrawals from, distilled spirits plants” for “conditioning warehousing bonds on the payment of the tax” and “5173” for “5173(c)”.
 
-Subsec. (f)(6). Pub. L. 96–39, § 807(a)(3)(D), added par. (6).
+Subsec. (f)(6). Pub. L. 96–39, § 807(a)(3)(D), added par. (6).
 
-1977—Subsec. (d). Pub. L. 95–176, § 4(d)(1), struck out reference to par. (9) of section 5214(a).
+1977—Subsec. (d). Pub. L. 95–176, § 4(d)(1), struck out reference to par. (9) of section 5214(a).
 
-Subsec. (e)(1). Pub. L. 95–176, § 4(d)(2), inserted reference to pars. (9) and (10) of section 5214(a).
+Subsec. (e)(1). Pub. L. 95–176, § 4(d)(2), inserted reference to pars. (9) and (10) of section 5214(a).
 
-Subsec. (e)(2). Pub. L. 95–176, § 4(b), substituted “customs bonded warehouses” for “customs manufacturing bonded warehouses” and provided for relief from liability for tax on distilled spirits used in certain research, development, or testing.
+Subsec. (e)(2). Pub. L. 95–176, § 4(b), substituted “customs bonded warehouses” for “customs manufacturing bonded warehouses” and provided for relief from liability for tax on distilled spirits used in certain research, development, or testing.
 
 1976—Subsec. (c)(2). Pub. L. 94–455 substituted “Such relief from liability shall be effective from the time of removal from the transferor’s bonded premises, or from the time of divestment of interest, whichever is later.” for “Such liability for the tax on distilled spirits shall continue until the distilled spirits are transferred or withdrawn from bonded premises as authorized by law, or until such liability for tax is relieved by reason of the provisions of section 5008(a). Nothing in this paragraph shall relieve any person from any liability imposed by subsection (a) or (b).”.
 
@@ -935,9 +935,9 @@ Amendment by Pub. L. 95–176 effective on first day of first calendar month beg
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–455, title XIX, § 1905(d), Oct. 4, 1976, 90 Stat. 1824, provided that: “The amendments made by this section [amending this section and sections 5007 to 5009, 5025, 5026, 5043, 5054, 5061, 5105, 5111, 5113, 5114, 5117, 5121, 5122, 5131, 5142, 5148, 5171, 5174, 5177, 5179, 5214, 5222, 5232 to 5234, 5272, 5314, 5362, 5368, 5392, 5505, 5551, 5601, 5662, 5685, 5701, 5703, 5704, 5712, 5723, 5751, 5752, 5762, and 5763 of this title and repealing sections 5104, 5144, 5315, 5676, and 5689 of this title] shall take effect on the first day of the first month which begins more than 90 days after the date of the enactment of this Act [Oct. 4, 1976].”
+Pub. L. 94–455, title XIX, § 1905(d), Oct. 4, 1976, 90 Stat. 1824, provided that: “The amendments made by this section [amending this section and sections 5007 to 5009, 5025, 5026, 5043, 5054, 5061, 5105, 5111, 5113, 5114, 5117, 5121, 5122, 5131, 5142, 5148, 5171, 5174, 5177, 5179, 5214, 5222, 5232 to 5234, 5272, 5314, 5362, 5368, 5392, 5505, 5551, 5601, 5662, 5685, 5701, 5703, 5704, 5712, 5723, 5751, 5752, 5762, and 5763 of this title and repealing sections 5104, 5144, 5315, 5676, and 5689 of this title] shall take effect on the first day of the first month which begins more than 90 days after the date of the enactment of this Act [Oct. 4, 1976].”
 
-##### § 5006. Determination of tax
+##### § 5006. Determination of tax
 
 **(a) Requirements**
 
@@ -981,25 +981,25 @@ Distilled spirits smuggled or brought into the United States unlawfully shall, f
 
 For provisions relating to removal of distilled spirits from bonded premises on determination of tax, see section 5213.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1320; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §§ 804(a), 807(a)(4), July 26, 1979, 93 Stat. 274, 280.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1320; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §§ 804(a), 807(a)(4), July 26, 1979, 93 Stat. 274, 280.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5006, acts Aug. 16, 1954, ch. 736, 68A Stat. 599; Sept. 2, 1958, Pub. L. 85–859, title II, § 206(a), 72 Stat. 1431, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
+A prior section 5006, acts Aug. 16, 1954, ch. 736, 68A Stat. 599; Sept. 2, 1958, Pub. L. 85–859, title II, § 206(a), 72 Stat. 1431, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
 Provisions similar to those comprising subsecs. (a)(2)(A), (3) of this section were contained in prior sections 5007(e)(1) and 5232(a), act Aug. 16, 1954, ch. 736, 68A Stat. 600, 643, prior to the general revision of this chapter by Pub. L. 85–859.
 
 **Amendments**
 
-1979—Subsec. (a)(1). Pub. L. 96–39, § 804(a), struck out “internal revenue” after “provided in this section, the” and “storage, gauging, and bottling” after “but not limited to”.
+1979—Subsec. (a)(1). Pub. L. 96–39, § 804(a), struck out “internal revenue” after “provided in this section, the” and “storage, gauging, and bottling” after “but not limited to”.
 
-Subsec. (a)(2), (3). Pub. L. 96–39, § 804(a), redesignated par. (3) as (2). Former par. (2), relating to distilled spirits entered for storage, was struck out.
+Subsec. (a)(2), (3). Pub. L. 96–39, § 804(a), redesignated par. (3) as (2). Former par. (2), relating to distilled spirits entered for storage, was struck out.
 
-Subsec. (b)(1). Pub. L. 96–39, § 807(a)(4)(A), (B), substituted “on bonded premises” for “in storage in internal revenue bond” in two places and “; except” for “, notwithstanding that the time specified in any bond given for the withdrawal of the spirits entered in storage in such cask or package has not expired, except”.
+Subsec. (b)(1). Pub. L. 96–39, § 807(a)(4)(A), (B), substituted “on bonded premises” for “in storage in internal revenue bond” in two places and “; except” for “, notwithstanding that the time specified in any bond given for the withdrawal of the spirits entered in storage in such cask or package has not expired, except”.
 
-Subsec. (b)(2), (3). Pub. L. 96–39, § 807(a)(4)(B), substituted “on bonded premises” for “in storage in internal revenue bond”.
+Subsec. (b)(2), (3). Pub. L. 96–39, § 807(a)(4)(B), substituted “on bonded premises” for “in storage in internal revenue bond”.
 
 1976—Subsecs. (a) to (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
@@ -1011,7 +1011,7 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 **Application of 1972 Amendments to Prior Sections**
 
-Pub. L. 85–859, title II, § 206(f), Sept. 2, 1958, 72 Stat. 1431, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided:
+Pub. L. 85–859, title II, § 206(f), Sept. 2, 1958, 72 Stat. 1431, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided:
 
 > **“(1)** The amendments made by this section [amending this section and sections 5005, 5232, 5242, and 5243 of this title] shall apply with respect to:
 
@@ -1025,7 +1025,7 @@ Pub. L. 85–859, title II, § 206(f), Sept. 2, 1958, 72 Stat. 1431, as amende
 
 > **“(B)** a bond which applies to periods on and after the date of the enactment of this Act and which satisfies the requirements of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], as amended by this section, and is conditioned on the withdrawal of spirits from the internal revenue bonded warehouse within 20 years from the date of original entry for deposit.”
 
-##### § 5007. Collection of tax on distilled spirits
+##### § 5007. Collection of tax on distilled spirits
 
 **(a) Tax on distilled spirits removed from bonded premises**
 
@@ -1043,7 +1043,7 @@ The internal revenue tax imposed by section 5001(a)(1) and (2) upon imported dis
 
 **(3)** For provisions relating to payment of tax, under certain conditions, on distilled spirits withdrawn free of tax, denatured distilled spirits, articles, and volatile fruit-flavor concentrates, see section 5001(a)(4), (5), and (6).
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1322; amended Pub. L. 94–455, title XIX, §§ 1905(b)(2)(A), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1822, 1834; Pub. L. 96–39, title VIII, § 807(a)(5), July 26, 1979, 93 Stat. 280; Pub. L. 103–465, title I, § 136(c)(3), (4), Dec. 8, 1994, 108 Stat. 4841, 4842.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1322; amended Pub. L. 94–455, title XIX, §§ 1905(b)(2)(A), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1822, 1834; Pub. L. 96–39, title VIII, § 807(a)(5), July 26, 1979, 93 Stat. 280; Pub. L. 103–465, title I, § 136(c)(3), (4), Dec. 8, 1994, 108 Stat. 4841, 4842.)
 
 **Editorial Notes**
 
@@ -1059,17 +1059,17 @@ Prior section 5007(e)(2) related to “relief from assessment for deficiencies i
 
 **Amendments**
 
-1994—Subsec. (b). Pub. L. 103–465, § 136(c)(3), amended subsec. (b) generally, striking out provisions relating to collection and deposit as internal revenue collections of taxes on imported perfumes containing distilled spirits.
+1994—Subsec. (b). Pub. L. 103–465, § 136(c)(3), amended subsec. (b) generally, striking out provisions relating to collection and deposit as internal revenue collections of taxes on imported perfumes containing distilled spirits.
 
-Subsec. (c)(3). Pub. L. 103–465, § 136(c)(4), substituted “section 5001(a)(4), (5), and (6)” for “section 5001(a)(5), (6), and (7)”.
+Subsec. (c)(3). Pub. L. 103–465, § 136(c)(4), substituted “section 5001(a)(4), (5), and (6)” for “section 5001(a)(5), (6), and (7)”.
 
 1979—Subsec. (a). Pub. L. 96–39 struck out “(1) General” before “The tax on domestic” and par. (2) which related to distilled spirits withdrawn to bottling premises under withdrawal bond.
 
-1976—Subsec. (a)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsec. (a)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (b)(1). Pub. L. 94–455, §§ 1905(b)(2)(A), 1906(b)(13)(A), struck out second sentence “Such tax shall be in addition to any customs duty imposed under the Tariff Act of 1930 (46 Stat. 590; 19 U.S.C., chapter 4), or any subsequent act.” and “or his delegate” after “Secretary” wherever appearing.
+Subsec. (b)(1). Pub. L. 94–455, §§ 1905(b)(2)(A), 1906(b)(13)(A), struck out second sentence “Such tax shall be in addition to any customs duty imposed under the Tariff Act of 1930 (46 Stat. 590; 19 U.S.C., chapter 4), or any subsequent act.” and “or his delegate” after “Secretary” wherever appearing.
 
-Subsecs. (b)(2), (c)(1). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+Subsecs. (b)(2), (c)(1). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1085,7 +1085,7 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 Amendment by section 1905(b)(2)(A) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
 
-##### § 5008. Abatement, remission, refund, and allowance for loss or destruction of distilled spirits
+##### § 5008. Abatement, remission, refund, and allowance for loss or destruction of distilled spirits
 
 **(a) Distilled spirits lost or destroyed in bond**
 
@@ -1155,7 +1155,7 @@ All provisions of law, including penalties, applicable in respect of the interna
 
 For provisions relating to allowance for loss in case of wine spirits withdrawn for use in wine production, see section 5373(b)(3).
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1323; amended Pub. L. 89–44, title VIII, § 805(a), June 21, 1965, 79 Stat. 160; Pub. L. 90–630, § 1, Oct. 22, 1968, 82 Stat. 1328; Pub. L. 91–659, §§ 1, 2(a), (b), Jan. 8, 1971, 84 Stat. 1964; Pub. L. 94–273, § 47, Apr. 21, 1976, 90 Stat. 382; Pub. L. 94–455, title XIX, §§ 1905(a)(2), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1818, 1834; Pub. L. 95–176, §§ 2(f), 4(e), Nov. 14, 1977, 91 Stat. 1364, 1366; Pub. L. 96–39, title VIII, § 807(a)(6), July 26, 1979, 93 Stat. 281; Pub. L. 105–34, title XIV, § 1411(a), Aug. 5, 1997, 111 Stat. 1046.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1323; amended Pub. L. 89–44, title VIII, § 805(a), June 21, 1965, 79 Stat. 160; Pub. L. 90–630, § 1, Oct. 22, 1968, 82 Stat. 1328; Pub. L. 91–659, §§ 1, 2(a), (b), Jan. 8, 1971, 84 Stat. 1964; Pub. L. 94–273, § 47, Apr. 21, 1976, 90 Stat. 382; Pub. L. 94–455, title XIX, §§ 1905(a)(2), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1818, 1834; Pub. L. 95–176, §§ 2(f), 4(e), Nov. 14, 1977, 91 Stat. 1364, 1366; Pub. L. 96–39, title VIII, § 807(a)(6), July 26, 1979, 93 Stat. 281; Pub. L. 105–34, title XIV, § 1411(a), Aug. 5, 1997, 111 Stat. 1046.)
 
 **Editorial Notes**
 
@@ -1169,43 +1169,43 @@ Provisions similar to those comprising subsecs. (a)(1) to (4) and (f)(1), (2) of
 
 1997—Subsec. (c)(1). Pub. L. 105–34 substituted “on which tax has been determined or paid” for “withdrawn from bonded premises on payment or determination of tax”.
 
-1979—Subsec. (a)(1)(C). Pub. L. 96–39, § 807(a)(6)(A), added subpar. (C).
+1979—Subsec. (a)(1)(C). Pub. L. 96–39, § 807(a)(6)(A), added subpar. (C).
 
-Subsec. (a)(5). Pub. L. 96–39, § 807(a)(6)(B), substituted “before” for “prior to the completion” and struck out provisions relating to the applicability of this subsection where the loss occurred after the time prescribed for the withdrawal of the distilled spirits from the bonded premises under section 5006(a)(2) and relating to the applicability of this paragraph to any loss of distilled spirits for which abatement, remission, credit, or refund of tax is allowed under subsec. (c).
+Subsec. (a)(5). Pub. L. 96–39, § 807(a)(6)(B), substituted “before” for “prior to the completion” and struck out provisions relating to the applicability of this subsection where the loss occurred after the time prescribed for the withdrawal of the distilled spirits from the bonded premises under section 5006(a)(2) and relating to the applicability of this paragraph to any loss of distilled spirits for which abatement, remission, credit, or refund of tax is allowed under subsec. (c).
 
-Subsec. (b). Pub. L. 96–39, § 807(a)(6)(C), struck out “(1) Distilled spirits in bond” before “The proprietor of” and provisions relating to distilled spirits withdrawn for rectification or bottling.
+Subsec. (b). Pub. L. 96–39, § 807(a)(6)(C), struck out “(1) Distilled spirits in bond” before “The proprietor of” and provisions relating to distilled spirits withdrawn for rectification or bottling.
 
-Subsec. (c). Pub. L. 96–39, § 807(a)(6)(C), added subsec. (c). Former subsec. (c), which related to loss of distilled spirits withdrawn from bond for rectification or bottling, was struck out.
+Subsec. (c). Pub. L. 96–39, § 807(a)(6)(C), added subsec. (c). Former subsec. (c), which related to loss of distilled spirits withdrawn from bond for rectification or bottling, was struck out.
 
-Subsec. (d). Pub. L. 96–39, § 807(a)(6)(D), redesignated subsec. (f) as (d). Former subsec. (d), which related to distilled spirits returned to bonded premises, was struck out.
+Subsec. (d). Pub. L. 96–39, § 807(a)(6)(D), redesignated subsec. (f) as (d). Former subsec. (d), which related to distilled spirits returned to bonded premises, was struck out.
 
-Subsec. (e). Pub. L. 96–39, § 807(a)(6)(D), (E), redesignated subsec. (g) as (e) and substituted “subsection (c)” for “subsections (b)(2), (c), and (d)” and “under such subsection” for “under such subsections”. Former subsec. (e), which related to samples of distilled spirits used for analysis or testing by United States, was struck out.
+Subsec. (e). Pub. L. 96–39, § 807(a)(6)(D), (E), redesignated subsec. (g) as (e) and substituted “subsection (c)” for “subsections (b)(2), (c), and (d)” and “under such subsection” for “under such subsections”. Former subsec. (e), which related to samples of distilled spirits used for analysis or testing by United States, was struck out.
 
-Subsec. (f). Pub. L. 96–39, § 807(a)(6)(D), redesignated subsec. (h) as (f). Former subsec. (f) redesignated (d).
+Subsec. (f). Pub. L. 96–39, § 807(a)(6)(D), redesignated subsec. (h) as (f). Former subsec. (f) redesignated (d).
 
-Subsecs. (g), (h). Pub. L. 96–39, § 807(a)(6)(D), redesignated subsecs. (g) and (h) as (e) and (f), respectively.
+Subsecs. (g), (h). Pub. L. 96–39, § 807(a)(6)(D), redesignated subsecs. (g) and (h) as (e) and (f), respectively.
 
-1977—Subsec. (d). Pub. L. 95–176, § 2(f), reenacted par. (1) and substituted heading “General” for “Allowance of tax” and “(or the tax equal to such tax imposed under section 7652)” for “or under section 7652”; added pars. (2) and (3); and redesignated as par. (4) provisions of former par. (2) and inserted reference to allowance of claims under par. (2) or (3).
+1977—Subsec. (d). Pub. L. 95–176, § 2(f), reenacted par. (1) and substituted heading “General” for “Allowance of tax” and “(or the tax equal to such tax imposed under section 7652)” for “or under section 7652”; added pars. (2) and (3); and redesignated as par. (4) provisions of former par. (2) and inserted reference to allowance of claims under par. (2) or (3).
 
-Subsec. (f)(5). Pub. L. 95–176, § 4(e), added par. (5).
+Subsec. (f)(5). Pub. L. 95–176, § 4(e), added par. (5).
 
-1976—Subsec. (b)(1). Pub. L. 94–455, §§ 1905(a)(2)(A), 1906(b)(13)(A), inserted “or by section 7652” after “tax imposed by this chapter” and struck out “or his delegate” after “Secretary”.
+1976—Subsec. (b)(1). Pub. L. 94–455, §§ 1905(a)(2)(A), 1906(b)(13)(A), inserted “or by section 7652” after “tax imposed by this chapter” and struck out “or his delegate” after “Secretary”.
 
-Subsec. (b)(2). Pub. L. 94–455, §§ 1905(a)(2)(B), 1906(b)(13)(A), struck out “or his delegate” after “Secretary” and inserted “, or under section 7652” after “under subpart B of this part”.
+Subsec. (b)(2). Pub. L. 94–455, §§ 1905(a)(2)(B), 1906(b)(13)(A), struck out “or his delegate” after “Secretary” and inserted “, or under section 7652” after “under subpart B of this part”.
 
-Subsec. (c)(1). Pub. L. 94–455, §§ 1905(a)(2)(C), 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing and inserted “or under section 7652” after “under section 5001(a)(1)”.
+Subsec. (c)(1). Pub. L. 94–455, §§ 1905(a)(2)(C), 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing and inserted “or under section 7652” after “under section 5001(a)(1)”.
 
 Subsec. (c)(2), (3). Pub. L. 94–273 substituted “computation year” for “fiscal year” wherever appearing.
 
-Subsec. (c)(5). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (c)(5). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (d)(1). Pub. L. 94–455, §§ 1905(a)(2)(C), (D), 1906(b)(13)(A), struck out “on or after July 1, 1959,” after “from bonded premises,” and “or his delegate” after “Secretary” and inserted “or under section 7652” after “under section 5001(a)(1)”.
+Subsec. (d)(1). Pub. L. 94–455, §§ 1905(a)(2)(C), (D), 1906(b)(13)(A), struck out “on or after July 1, 1959,” after “from bonded premises,” and “or his delegate” after “Secretary” and inserted “or under section 7652” after “under section 5001(a)(1)”.
 
-1971—Subsec. (b)(2). Pub. L. 91–659, § 2(a), struck out condition that the distilled spirits can be destroyed only before bottling and permitted destruction after completion of bottling so long as the distilled spirits are on the bottling premises and added taxes imposed under subpart B of this Part as additional taxes which can be claimed for abatement, remission, credit or refund.
+1971—Subsec. (b)(2). Pub. L. 91–659, § 2(a), struck out condition that the distilled spirits can be destroyed only before bottling and permitted destruction after completion of bottling so long as the distilled spirits are on the bottling premises and added taxes imposed under subpart B of this Part as additional taxes which can be claimed for abatement, remission, credit or refund.
 
-Subsec. (c)(1)(A). Pub. L. 91–659, § 1, added cl. (iii).
+Subsec. (c)(1)(A). Pub. L. 91–659, § 1, added cl. (iii).
 
-Subsec. (c)(5). Pub. L. 91–659, § 2(b), permits distilled spirits returned to bottling premises to be treated for purposes of the various loss provisions as though they had not been removed from the bottling premises.
+Subsec. (c)(5). Pub. L. 91–659, § 2(b), permits distilled spirits returned to bottling premises to be treated for purposes of the various loss provisions as though they had not been removed from the bottling premises.
 
 1968—Subsec. (c)(1). Pub. L. 90–630 inserted provisions allowing abatement, remission, and refund if the casualty loss occurs after completion of the packaging but before the spirits have been removed from the premises of the distilled spirits plant to which the spirits were removed from bond.
 
@@ -1215,7 +1215,7 @@ Subsec. (c)(5). Pub. L. 91–659, § 2(b), permits distilled spirits returned 
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title XIV, § 1411(b), Aug. 5, 1997, 111 Stat. 1046, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title XIV, § 1411(b), Aug. 5, 1997, 111 Stat. 1046, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act [Aug. 5, 1997].”
 
 **Effective Date of 1979 Amendment**
 
@@ -1235,7 +1235,7 @@ Amendment by Pub. L. 91–659 effective on first day of first calendar month whi
 
 **Effective Date of 1968 Amendment**
 
-Pub. L. 90–630, § 4, Oct. 22, 1968, 82 Stat. 1329, provided that:
+Pub. L. 90–630, § 4, Oct. 22, 1968, 82 Stat. 1329, provided that:
 
 > **“(a)** For purposes of subsection (b), the effective date of this Act is the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act [Oct. 22, 1968].
 
@@ -1243,15 +1243,15 @@ Pub. L. 90–630, § 4, Oct. 22, 1968, 82 Stat. 1329, provided that:
 
 **Effective Date of 1965 Amendment**
 
-Pub. L. 89–44, title VIII, § 805(g)(1), June 21, 1965, 79 Stat. 162, provided that: “The amendments made by subsections (a), (c), (e), and (f)(6) [amending this section and sections 5062, 5215, and 5608 of this title] shall take effect on July 1, 1965.”
+Pub. L. 89–44, title VIII, § 805(g)(1), June 21, 1965, 79 Stat. 162, provided that: “The amendments made by subsections (a), (c), (e), and (f)(6) [amending this section and sections 5062, 5215, and 5608 of this title] shall take effect on July 1, 1965.”
 
 **Distilled Spirits Returned to Bonded Premises of Distilled Spirits Plant During 1980**
 
 Subsec. (c)(1) of this section to be treated as including a reference to section 5041 of this title with respect to distilled spirits returned to the bonded premises of distilled spirits plants during 1980, see section 808(d) of Pub. L. 96–39, set out as a note under section 5061 of this title.
 
-##### [§ 5009. Repealed. Pub. L. 96–39, title VIII, § 807(a)(7), July 26, 1979, 93 Stat. 281]
+##### [§ 5009. Repealed. Pub. L. 96–39, title VIII, § 807(a)(7), July 26, 1979, 93 Stat. 281]
 
-Section, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1327; amended Pub. L. 94–455, title XIX, §§ 1905(a)(3), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1818, 1834, related to drawback on exportation of distilled spirits in casks or packages.
+Section, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1327; amended Pub. L. 94–455, title XIX, §§ 1905(a)(3), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1818, 1834, related to drawback on exportation of distilled spirits in casks or packages.
 
 A prior section 5009, act Aug. 16, 1954, ch. 736, 68A Stat. 603, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5205(c)(1), (f), (i)(4) and 5206(c) of this title.
 
@@ -1261,7 +1261,7 @@ A prior section 5009, act Aug. 16, 1954, ch. 736, 68A Stat. 603, consisted of pr
 
 Repeal effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as an Effective Date of 1979 Amendment note under section 5001 of this title.
 
-##### § 5010. Credit for wine content and for flavors content
+##### § 5010. Credit for wine content and for flavors content
 
 **(a) Allowance of credit**
 
@@ -1319,7 +1319,7 @@ Except as provided in subparagraph (B), the term “flavors content” means alc
 
 **(iii)** in the case of any distilled spirits product, alcohol derived from flavors to the extent such alcohol exceeds (on a proof gallon basis) 2½ percent of the finished product.
 
-(Added Pub. L. 96–598, § 6(a), Dec. 24, 1980, 94 Stat. 3488; amended Pub. L. 98–369, div. A, title I, § 27(a)(2), July 18, 1984, 98 Stat. 507; Pub. L. 100–647, title V, § 5063(a), Nov. 10, 1988, 102 Stat. 3681; Pub. L. 101–508, title XI, § 11201(a)(2), Nov. 5, 1990, 104 Stat. 1388–415; Pub. L. 109–59, title XI, § 11125(b)(14), Aug. 10, 2005, 119 Stat. 1956.)
+(Added Pub. L. 96–598, § 6(a), Dec. 24, 1980, 94 Stat. 3488; amended Pub. L. 98–369, div. A, title I, § 27(a)(2), July 18, 1984, 98 Stat. 507; Pub. L. 100–647, title V, § 5063(a), Nov. 10, 1988, 102 Stat. 3681; Pub. L. 101–508, title XI, § 11201(a)(2), Nov. 5, 1990, 104 Stat. 1388–415; Pub. L. 109–59, title XI, § 11125(b)(14), Aug. 10, 2005, 119 Stat. 1956.)
 
 **Editorial Notes**
 
@@ -1349,7 +1349,7 @@ Amendment by Pub. L. 101–508 effective Jan. 1, 1991, see section 11201(d) of P
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title V, § 5063(b), Nov. 10, 1988, 102 Stat. 3681, provided that: “The amendments made by this section [amending this section] shall apply with respect to distilled spirits withdrawn from bond after the date of the enactment of this Act [Nov. 10, 1988].”
+Pub. L. 100–647, title V, § 5063(b), Nov. 10, 1988, 102 Stat. 3681, provided that: “The amendments made by this section [amending this section] shall apply with respect to distilled spirits withdrawn from bond after the date of the enactment of this Act [Nov. 10, 1988].”
 
 **Effective Date of 1984 Amendment**
 
@@ -1357,9 +1357,9 @@ Amendment by Pub. L. 98–369 effective Oct. 1, 1985, see section 27(d)(1) of Pu
 
 **Effective Date**
 
-Pub. L. 96–598, § 6(c), Dec. 24, 1980, 94 Stat. 3489, provided that: “The amendments made by subsections (a) and (b) [enacting this section] shall take effect on January 1, 1980.”
+Pub. L. 96–598, § 6(c), Dec. 24, 1980, 94 Stat. 3489, provided that: “The amendments made by subsections (a) and (b) [enacting this section] shall take effect on January 1, 1980.”
 
-##### § 5011. Income tax credit for average cost of carrying excise tax
+##### § 5011. Income tax credit for average cost of carrying excise tax
 
 **(a) In general** For purposes of section 38, the amount of the distilled spirits credit for any taxable year is the amount equal to the product of—
 
@@ -1403,13 +1403,13 @@ The term “case” means 12 80-proof 750-milliliter bottles.
 
 The number of cases in any lot of distilled spirits shall be determined by dividing the number of liters in such lot by 9.
 
-(Added Pub. L. 109–59, title XI, § 11126(a), Aug. 10, 2005, 119 Stat. 1957.)
+(Added Pub. L. 109–59, title XI, § 11126(a), Aug. 10, 2005, 119 Stat. 1957.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Alcohol Administration Act, referred to in subsec. (b), is act Aug. 29, 1935, ch. 814, 49 Stat. 977, which is classified generally to subchapter I (§ 201 et seq.) of chapter 8 of Title 27, Intoxicating Liquors. For complete classification of this Act to the Code, see section 201 of Title 27 and Tables.
+The Federal Alcohol Administration Act, referred to in subsec. (b), is act Aug. 29, 1935, ch. 814, 49 Stat. 977, which is classified generally to subchapter I (§ 201 et seq.) of chapter 8 of Title 27, Intoxicating Liquors. For complete classification of this Act to the Code, see section 201 of Title 27 and Tables.
 
 **Prior Provisions**
 
@@ -1425,31 +1425,31 @@ Section applicable to taxable years beginning after Sept. 30, 2005, see section 
 
 #### [Subpart B—Repealed]
 
-##### [§§ 5021 to 5026. Repealed. Pub. L. 96–39, title VIII, § 803(a), July 26, 1979, 93 Stat. 274]
+##### [§§ 5021 to 5026. Repealed. Pub. L. 96–39, title VIII, § 803(a), July 26, 1979, 93 Stat. 274]
 
-Section 5021, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1328, provided for imposition of a tax on rectified distilled spirits or wines.
+Section 5021, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1328, provided for imposition of a tax on rectified distilled spirits or wines.
 
 A prior section 5021, act Aug. 16, 1954, ch. 736, 68A Stat. 606, related to imposition and rate of tax, prior to the general revision of this chapter by Pub. L. 85–859.
 
-Section 5022, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1328; amended Pub. L. 86–75, § 3(a)(4), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, § 202(a)(6), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, § 3(a)(6), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, § 3(a)(5), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, § 3(a)(6), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, § 2(a)(6), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, § 501(b), June 21, 1965, 79 Stat. 150, imposed a tax on cordials and liqueurs containing wine.
+Section 5022, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1328; amended Pub. L. 86–75, § 3(a)(4), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, § 202(a)(6), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, § 3(a)(6), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, § 3(a)(5), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, § 3(a)(6), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, § 2(a)(6), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, § 501(b), June 21, 1965, 79 Stat. 150, imposed a tax on cordials and liqueurs containing wine.
 
-A prior section 5022, acts Aug. 16, 1954, ch. 736, 68A Stat. 606; Mar. 30, 1955, ch. 18, § 3(a)(6), 69 Stat. 14; Mar. 29, 1956, ch. 115, § 3(a)(6), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, § 3(a)(4), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, § 3(a)(4), 72 Stat. 259, imposed a tax on cordials and liqueurs containing wine, prior to the general revision of this chapter by Pub. L. 85–859.
+A prior section 5022, acts Aug. 16, 1954, ch. 736, 68A Stat. 606; Mar. 30, 1955, ch. 18, § 3(a)(6), 69 Stat. 14; Mar. 29, 1956, ch. 115, § 3(a)(6), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, § 3(a)(4), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, § 3(a)(4), 72 Stat. 259, imposed a tax on cordials and liqueurs containing wine, prior to the general revision of this chapter by Pub. L. 85–859.
 
-Section 5023, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1328, imposed a tax on the blending of beverage rums and brandies.
+Section 5023, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1328, imposed a tax on the blending of beverage rums and brandies.
 
 A prior section 5023, act Aug. 16, 1954, ch. 736, 68A Stat. 606, imposed a tax on blending of beverage brandies, prior to the general revision of this chapter by Pub. L. 85–859.
 
-Section 5024, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1328, indicated the sources for the definitions of “rectifier”, “products of rectification”, and “distilled spirits” and referred to other definitions relating to distilled spirits as well as other definitions of general application to this title.
+Section 5024, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1328, indicated the sources for the definitions of “rectifier”, “products of rectification”, and “distilled spirits” and referred to other definitions relating to distilled spirits as well as other definitions of general application to this title.
 
 A prior section 5024, act Aug. 16, 1954, ch. 736, 68A Stat. 607, defined “rectifier” and “products of rectification”, prior to the general revision of this chapter by Pub. L. 85–859.
 
-Section 5025, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1328; amended Pub. L. 89–44, title VIII, § 805(b), (f)(2)–(5), June 21, 1965, 79 Stat. 161; Pub. L. 94–455, title XIX, §§ 1905(a)(4), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1818, 1834; Pub. L. 95–176, §§ 5(b), 6, Nov. 14, 1977, 91 Stat. 1366, 1367, enumerated 12 exemptions from the rectification tax.
+Section 5025, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1328; amended Pub. L. 89–44, title VIII, § 805(b), (f)(2)–(5), June 21, 1965, 79 Stat. 161; Pub. L. 94–455, title XIX, §§ 1905(a)(4), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1818, 1834; Pub. L. 95–176, §§ 5(b), 6, Nov. 14, 1977, 91 Stat. 1366, 1367, enumerated 12 exemptions from the rectification tax.
 
 A prior section 5025, act Aug. 16, 1954, ch. 736, 68A Stat. 607, related to exemption from rectification tax, prior to the general revision of this chapter by Pub. L. 85–859.
 
 Provisions similar to those comprising section 5025(e)(1), (2), (4) of this title were contained in former sections 5023, 5217(a), and 5306 of this title, act Aug. 16, 1954, ch. 736, 68A Stat. 606, 641, 657, prior to the general revision of this chapter by Pub. L. 85–859.
 
-Section 5026, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1330; Pub. L. 94–455, title XIX, §§ 1905(b)(2)(B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1822, 1834, related to the determination and collection of the rectification tax.
+Section 5026, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1330; Pub. L. 94–455, title XIX, §§ 1905(b)(2)(B), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1822, 1834, related to the determination and collection of the rectification tax.
 
 A prior section 5026, act Aug. 16, 1954, ch. 736, 68A Stat. 608, related to determination and collection of rectification tax, prior to the general revision of this chapter by Pub. L. 85–859.
 
@@ -1469,13 +1469,13 @@ Repeal effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as an
 
 **Prior Provisions**
 
-A prior subpart C, comprising sections 5041 to 5045, related to wines, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior subpart C, comprising sections 5041 to 5045, related to wines, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
 **Amendments**
 
-1997—Pub. L. 105–34, title XIV, § 1416(b)(3), Aug. 5, 1997, 111 Stat. 1048, struck out “unmerchantable” before “wine” in item 5044.
+1997—Pub. L. 105–34, title XIV, § 1416(b)(3), Aug. 5, 1997, 111 Stat. 1048, struck out “unmerchantable” before “wine” in item 5044.
 
-##### § 5041. Imposition and rate of tax
+##### § 5041. Imposition and rate of tax
 
 **(a) Imposition**
 
@@ -1523,7 +1523,7 @@ which are produced by the producer and removed during the calendar year for cons
 
 **(B)** shall be allowable at the time any tax described in paragraph (1) is payable as if the credit allowable by this subsection constituted a reduction in the rate of such tax.
 
-**(3) 1 [footnote: 1 See Codification note below.] Controlled groups**
+**(3) 1 [footnote: 1 See Codification note below.] Controlled groups**
 
 Rules similar to rules of section 5051(a)(5) shall apply for purposes of this subsection.
 
@@ -1657,103 +1657,103 @@ For purposes of subsections (a) and (b)(1), mead and low alcohol by volume wine 
 
 **(iv)** which contains less than 8.5 percent alcohol by volume.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1331; amended Pub. L. 86–75, § 3(a)(5), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, § 202(a)(7), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, § 3(a)(7), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, § 3(a)(6), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, § 3(a)(7), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, § 2(a)(7), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, § 501(c), title VIII, § 806(a), June 21, 1965, 79 Stat. 150, 162; Pub. L. 93–490, § 6(a), Oct. 26, 1974, 88 Stat. 1468; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–647, title VI, § 6101(a), Nov. 10, 1988, 102 Stat. 3710; Pub. L. 101–508, title XI, § 11201(b)(1), (2), Nov. 5, 1990, 104 Stat. 1388–415, 1388–416; Pub. L. 104–188, title I, § 1702(b)(5), Aug. 20, 1996, 110 Stat. 1868; Pub. L. 105–34, title IX, § 908(a), (b), Aug. 5, 1997, 111 Stat. 876; Pub. L. 105–206, title VI, § 6009(a), July 22, 1998, 112 Stat. 812; Pub. L. 114–113, div. Q, title III, § 335(a), Dec. 18, 2015, 129 Stat. 3109; Pub. L. 115–97, title I, §§ 13804(a)–(c), 13805(a), 13806(a), Dec. 22, 2017, 131 Stat. 2173–2175; Pub. L. 116–94, div. Q, title I, § 144(d)(1), (2), (e)(1), (f)(1), (j)(1), Dec. 20, 2019, 133 Stat. 3235; Pub. L. 116–260, div. EE, title I, §§ 106(d)(1), (2), (e)(1), (f)(1), 107(c)(1), Dec. 27, 2020, 134 Stat. 3043, 3044, 3047.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1331; amended Pub. L. 86–75, § 3(a)(5), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, § 202(a)(7), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, § 3(a)(7), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, § 3(a)(6), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, § 3(a)(7), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, § 2(a)(7), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, § 501(c), title VIII, § 806(a), June 21, 1965, 79 Stat. 150, 162; Pub. L. 93–490, § 6(a), Oct. 26, 1974, 88 Stat. 1468; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–647, title VI, § 6101(a), Nov. 10, 1988, 102 Stat. 3710; Pub. L. 101–508, title XI, § 11201(b)(1), (2), Nov. 5, 1990, 104 Stat. 1388–415, 1388–416; Pub. L. 104–188, title I, § 1702(b)(5), Aug. 20, 1996, 110 Stat. 1868; Pub. L. 105–34, title IX, § 908(a), (b), Aug. 5, 1997, 111 Stat. 876; Pub. L. 105–206, title VI, § 6009(a), July 22, 1998, 112 Stat. 812; Pub. L. 114–113, div. Q, title III, § 335(a), Dec. 18, 2015, 129 Stat. 3109; Pub. L. 115–97, title I, §§ 13804(a)–(c), 13805(a), 13806(a), Dec. 22, 2017, 131 Stat. 2173–2175; Pub. L. 116–94, div. Q, title I, § 144(d)(1), (2), (e)(1), (f)(1), (j)(1), Dec. 20, 2019, 133 Stat. 3235; Pub. L. 116–260, div. EE, title I, §§ 106(d)(1), (2), (e)(1), (f)(1), 107(c)(1), Dec. 27, 2020, 134 Stat. 3043, 3044, 3047.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 116–260, div. EE, title I, § 110(b), Dec. 27, 2020, 134 Stat. 3049, provided that, for single taxpayer rules relating to wine, see the cross reference under subsec. (c)(3) of this section.
+Pub. L. 116–260, div. EE, title I, § 110(b), Dec. 27, 2020, 134 Stat. 3049, provided that, for single taxpayer rules relating to wine, see the cross reference under subsec. (c)(3) of this section.
 
 **Prior Provisions**
 
-A prior section 5041, acts Aug. 16, 1954, ch. 736, 68A Stat. 609; Mar. 30, 1955, ch. 18, § 3(a)(7), 69 Stat. 14; Mar. 29, 1956, ch. 115, § 3(a)(7), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, § 3(a)(5), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, § 3(a)(5), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
+A prior section 5041, acts Aug. 16, 1954, ch. 736, 68A Stat. 609; Mar. 30, 1955, ch. 18, § 3(a)(7), 69 Stat. 14; Mar. 29, 1956, ch. 115, § 3(a)(7), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, § 3(a)(5), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, § 3(a)(5), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
 **Amendments**
 
-2020—Subsec. (b)(1), (2). Pub. L. 116–260, § 106(e)(1), substituted “16 percent” for “14 percent (16 percent in the case of wine removed after December 31, 2017, and before January 1, 2021”.
+2020—Subsec. (b)(1), (2). Pub. L. 116–260, § 106(e)(1), substituted “16 percent” for “14 percent (16 percent in the case of wine removed after December 31, 2017, and before January 1, 2021”.
 
-Subsec. (c). Pub. L. 116–260, § 106(d)(1)(A), struck out “for small domestic producers” after “Credit” in heading.
+Subsec. (c). Pub. L. 116–260, § 106(d)(1)(A), struck out “for small domestic producers” after “Credit” in heading.
 
-Subsec. (c)(1). Pub. L. 116–260, § 106(d)(1)(B), amended par. (1) generally. Prior to amendment, text read as follows: “Except as provided in paragraph (2), in the case of a person who produces not more than 250,000 wine gallons of wine during the calendar year, there shall be allowed as a credit against any tax imposed by this title (other than chapters 2, 21, and 22) of 90 cents per wine gallon on the 1st 100,000 wine gallons of wine (other than wine described in subsection (b)(4)) which are removed during such year for consumption or sale and which have been produced at qualified facilities in the United States. In the case of wine described in subsection (b)(6), the preceding sentence shall be applied by substituting ‘5.6 cents’ for ‘90 cents’.”
+Subsec. (c)(1). Pub. L. 116–260, § 106(d)(1)(B), amended par. (1) generally. Prior to amendment, text read as follows: “Except as provided in paragraph (2), in the case of a person who produces not more than 250,000 wine gallons of wine during the calendar year, there shall be allowed as a credit against any tax imposed by this title (other than chapters 2, 21, and 22) of 90 cents per wine gallon on the 1st 100,000 wine gallons of wine (other than wine described in subsection (b)(4)) which are removed during such year for consumption or sale and which have been produced at qualified facilities in the United States. In the case of wine described in subsection (b)(6), the preceding sentence shall be applied by substituting ‘5.6 cents’ for ‘90 cents’.”
 
-Subsec. (c)(1)(A). Pub. L. 116–260, § 106(d)(2)(A), inserted “but only if the importer is an electing importer under paragraph (6) and the wine gallons of wine have been assigned to the importer pursuant to such paragraph” after “into the United States during the calendar year” in concluding provisions.
+Subsec. (c)(1)(A). Pub. L. 116–260, § 106(d)(2)(A), inserted “but only if the importer is an electing importer under paragraph (6) and the wine gallons of wine have been assigned to the importer pursuant to such paragraph” after “into the United States during the calendar year” in concluding provisions.
 
-Subsec. (c)(2) to (5). Pub. L. 116–260, § 106(d)(1)(C), (D), redesignated pars. (3) to (6) as (2) to (5), respectively, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The credit allowable by paragraph (1) shall be reduced (but not below zero) by 1 percent for each 1,000 wine gallons of wine produced in excess of 150,000 wine gallons of wine during the calendar year.”
+Subsec. (c)(2) to (5). Pub. L. 116–260, § 106(d)(1)(C), (D), redesignated pars. (3) to (6) as (2) to (5), respectively, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The credit allowable by paragraph (1) shall be reduced (but not below zero) by 1 percent for each 1,000 wine gallons of wine produced in excess of 150,000 wine gallons of wine during the calendar year.”
 
-Subsec. (c)(6). Pub. L. 116–260, § 106(d)(1)(E), which directed only the redesignation of par. (9) as (6), was executed by redesignating par. (9) as (6) and transferring it so as to appear after par. (5), to reflect the probable intent of Congress. Former par. (6) redesignated (5).
+Subsec. (c)(6). Pub. L. 116–260, § 106(d)(1)(E), which directed only the redesignation of par. (9) as (6), was executed by redesignating par. (9) as (6) and transferring it so as to appear after par. (5), to reflect the probable intent of Congress. Former par. (6) redesignated (5).
 
-Subsec. (c)(6)(A). Pub. L. 116–260, § 106(d)(2)(B)(i), substituted “paragraph (1)” for “paragraph (8)”.
+Subsec. (c)(6)(A). Pub. L. 116–260, § 106(d)(2)(B)(i), substituted “paragraph (1)” for “paragraph (8)”.
 
-Subsec. (c)(6)(B). Pub. L. 116–260, § 106(d)(2)(B)(ii), substituted “The Secretary of the Treasury, after consultation with the Secretary of the Department of Homeland Security,” for “The Secretary” in introductory provisions.
+Subsec. (c)(6)(B). Pub. L. 116–260, § 106(d)(2)(B)(ii), substituted “The Secretary of the Treasury, after consultation with the Secretary of the Department of Homeland Security,” for “The Secretary” in introductory provisions.
 
-Subsec. (c)(6)(C). Pub. L. 116–260, § 106(d)(2)(B)(iii), substituted “paragraph (3)” for “paragraph (4)”.
+Subsec. (c)(6)(C). Pub. L. 116–260, § 106(d)(2)(B)(iii), substituted “paragraph (3)” for “paragraph (4)”.
 
-Subsec. (c)(7). Pub. L. 116–260, § 107(c)(1), added par. (7). Former par. (7) redesignated (8).
+Subsec. (c)(7). Pub. L. 116–260, § 107(c)(1), added par. (7). Former par. (7) redesignated (8).
 
-Pub. L. 116–260, § 106(d)(1)(F), amended par. (7) generally. Prior to amendment, text read as follows: “The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations—
+Pub. L. 116–260, § 106(d)(1)(F), amended par. (7) generally. Prior to amendment, text read as follows: “The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations—
 
 “(A) to prevent the credit provided in this subsection from benefiting any person who produces more than 250,000 wine gallons of wine during a calendar year, and
 
 “(B) to assure proper reduction of such credit for persons producing more than 150,000 wine gallons of wine during a calendar year.”
 
-Subsec. (c)(8). Pub. L. 116–260, § 107(c)(1), redesignated par. (7) as (8).
+Subsec. (c)(8). Pub. L. 116–260, § 107(c)(1), redesignated par. (7) as (8).
 
-Pub. L. 116–260, § 106(d)(1)(C), struck out par. (8) which related to a special rule for wine and hard cider removed between Dec. 31, 2017, and Jan. 1, 2021.
+Pub. L. 116–260, § 106(d)(1)(C), struck out par. (8) which related to a special rule for wine and hard cider removed between Dec. 31, 2017, and Jan. 1, 2021.
 
-Subsec. (c)(9). Pub. L. 116–260, § 106(d)(1)(E), redesignated par. (9) as (6).
+Subsec. (c)(9). Pub. L. 116–260, § 106(d)(1)(E), redesignated par. (9) as (6).
 
-Subsec. (h)(2)(A)(i), (B)(i). Pub. L. 116–260, § 106(f)(1)(A), substituted “the Secretary may” for “the Secretary shall”.
+Subsec. (h)(2)(A)(i), (B)(i). Pub. L. 116–260, § 106(f)(1)(A), substituted “the Secretary may” for “the Secretary shall”.
 
-Subsec. (h)(3). Pub. L. 116–260, § 106(f)(1)(B), struck out par. (3). Text read as follows: “This subsection shall not apply to wine removed after December 31, 2020.”
+Subsec. (h)(3). Pub. L. 116–260, § 106(f)(1)(B), struck out par. (3). Text read as follows: “This subsection shall not apply to wine removed after December 31, 2020.”
 
-2019—Subsec. (b)(1), (2). Pub. L. 116–94, § 144(e)(1), substituted “January 1, 2021” for “January 1, 2020”.
+2019—Subsec. (b)(1), (2). Pub. L. 116–94, § 144(e)(1), substituted “January 1, 2021” for “January 1, 2020”.
 
-Subsec. (c)(8). Pub. L. 116–94, § 144(d)(2), substituted “Temporary special rule” for “Special rule for 2018 and 2019” in heading.
+Subsec. (c)(8). Pub. L. 116–94, § 144(d)(2), substituted “Temporary special rule” for “Special rule for 2018 and 2019” in heading.
 
-Subsec. (c)(8)(A). Pub. L. 116–94, § 144(d)(1), substituted “January 1, 2021” for “January 1, 2020” in introductory provisions.
+Subsec. (c)(8)(A). Pub. L. 116–94, § 144(d)(1), substituted “January 1, 2021” for “January 1, 2020” in introductory provisions.
 
-Subsec. (c)(8)(C). Pub. L. 116–94, § 144(j)(1), added subpar. (C).
+Subsec. (c)(8)(C). Pub. L. 116–94, § 144(j)(1), added subpar. (C).
 
-Subsec. (h)(3). Pub. L. 116–94, § 144(f)(1), substituted “December 31, 2020” for “December 31, 2019”.
+Subsec. (h)(3). Pub. L. 116–94, § 144(f)(1), substituted “December 31, 2020” for “December 31, 2019”.
 
-2017—Subsec. (a). Pub. L. 115–97, § 13806(a)(1), substituted “Subject to subsection (h), still wines” for “Still wines”.
+2017—Subsec. (a). Pub. L. 115–97, § 13806(a)(1), substituted “Subject to subsection (h), still wines” for “Still wines”.
 
-Subsec. (b)(1), (2). Pub. L. 115–97, § 13805(a), inserted “(16 percent in the case of wine removed after December 31, 2017, and before January 1, 2020” after “14 percent”.
+Subsec. (b)(1), (2). Pub. L. 115–97, § 13805(a), inserted “(16 percent in the case of wine removed after December 31, 2017, and before January 1, 2020” after “14 percent”.
 
-Subsec. (c)(4). Pub. L. 115–97, § 13804(b), substituted “section 5051(a)(5)” for “section 5051(a)(2)(B)”.
+Subsec. (c)(4). Pub. L. 115–97, § 13804(b), substituted “section 5051(a)(5)” for “section 5051(a)(2)(B)”.
 
-Subsec. (c)(8). Pub. L. 115–97, § 13804(a), added par. (8).
+Subsec. (c)(8). Pub. L. 115–97, § 13804(a), added par. (8).
 
-Subsec. (c)(8)(A). Pub. L. 115–97, § 13804(c)(1), inserted “but only if the importer is an electing importer under paragraph (9) and the wine gallons of wine have been assigned to the importer pursuant to such paragraph” after “into the United States during the calendar year” in concluding provisions.
+Subsec. (c)(8)(A). Pub. L. 115–97, § 13804(c)(1), inserted “but only if the importer is an electing importer under paragraph (9) and the wine gallons of wine have been assigned to the importer pursuant to such paragraph” after “into the United States during the calendar year” in concluding provisions.
 
-Subsec. (c)(9). Pub. L. 115–97, § 13804(c)(2), added par. (9).
+Subsec. (c)(9). Pub. L. 115–97, § 13804(c)(2), added par. (9).
 
-Subsec. (h). Pub. L. 115–97, § 13806(a)(2), added subsec. (h).
+Subsec. (h). Pub. L. 115–97, § 13806(a)(2), added subsec. (h).
 
-2015—Subsec. (b)(6). Pub. L. 114–113, § 335(a)(1), struck out “which is a still wine derived primarily from apples or apple concentrate and water, containing no other fruit product, and containing at least one-half of 1 percent and less than 7 percent alcohol by volume” after “hard cider”.
+2015—Subsec. (b)(6). Pub. L. 114–113, § 335(a)(1), struck out “which is a still wine derived primarily from apples or apple concentrate and water, containing no other fruit product, and containing at least one-half of 1 percent and less than 7 percent alcohol by volume” after “hard cider”.
 
-Subsec. (g). Pub. L. 114–113, § 335(a)(2), added subsec. (g).
+Subsec. (g). Pub. L. 114–113, § 335(a)(2), added subsec. (g).
 
 1998—Subsec. (b)(6). Pub. L. 105–206 inserted “which is a still wine” after “hard cider”.
 
-1997—Subsec. (b)(6). Pub. L. 105–34, § 908(a), added par. (6).
+1997—Subsec. (b)(6). Pub. L. 105–34, § 908(a), added par. (6).
 
-Subsec. (c)(1). Pub. L. 105–34, § 908(b), inserted at end “In the case of wine described in subsection (b)(6), the preceding sentence shall be applied by substituting ‘5.6 cents’ for ‘90 cents’.”
+Subsec. (c)(1). Pub. L. 105–34, § 908(b), inserted at end “In the case of wine described in subsection (b)(6), the preceding sentence shall be applied by substituting ‘5.6 cents’ for ‘90 cents’.”
 
 1996—Subsec. (c)(6), (7). Pub. L. 104–188 added pars. (6) and (7) and struck out former par. (6) which read as follows:
 
 “(6) Regulations.—The Secretary may prescribe such regulations as may be necessary to prevent the credit provided in this subsection from benefiting any person who produces more than 250,000 wine gallons of wine during a calendar year and to assure proper reduction of such credit for persons producing more than 150,000 wine gallons of wine during a calendar year.”
 
-1990—Subsec. (b)(1). Pub. L. 101–508, § 11201(b)(1)(A), substituted “$1.07” for “17 cents”.
+1990—Subsec. (b)(1). Pub. L. 101–508, § 11201(b)(1)(A), substituted “$1.07” for “17 cents”.
 
-Subsec. (b)(2). Pub. L. 101–508, § 11201(b)(1)(B), substituted “$1.57” for “67 cents”.
+Subsec. (b)(2). Pub. L. 101–508, § 11201(b)(1)(B), substituted “$1.57” for “67 cents”.
 
-Subsec. (b)(3). Pub. L. 101–508, § 11201(b)(1)(C), substituted “$3.15” for “$2.25”.
+Subsec. (b)(3). Pub. L. 101–508, § 11201(b)(1)(C), substituted “$3.15” for “$2.25”.
 
-Subsec. (b)(5). Pub. L. 101–508, § 11201(b)(1)(D), substituted “$3.30” for “$2.40”.
+Subsec. (b)(5). Pub. L. 101–508, § 11201(b)(1)(D), substituted “$3.30” for “$2.40”.
 
-Subsecs. (c) to (f). Pub. L. 101–508, § 11201(b)(2), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
+Subsecs. (c) to (f). Pub. L. 101–508, § 11201(b)(2), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 
 1988—Subsecs. (d), (e). Pub. L. 100–647 added subsec. (d) and redesignated former subsec. (d) as (e).
 
@@ -1761,9 +1761,9 @@ Subsecs. (c) to (f). Pub. L. 101–508, § 11201(b)(2), added subsec. (c) and 
 
 1974—Subsec. (a). Pub. L. 93–490 substituted “0.392” for “0.277”.
 
-1965—Subsec. (a). Pub. L. 89–44, § 806(a), substituted “0.277” for “0.256”.
+1965—Subsec. (a). Pub. L. 89–44, § 806(a), substituted “0.277” for “0.256”.
 
-Subsec. (b). Pub. L. 89–44, § 501(c)(1)–(5), struck out provisions at end of each par. setting out a specified reduced rate to be applied on and after July 1, 1965.
+Subsec. (b). Pub. L. 89–44, § 501(c)(1)–(5), struck out provisions at end of each par. setting out a specified reduced rate to be applied on and after July 1, 1965.
 
 1964—Subsec. (b). Pub. L. 88–348 substituted “July 1, 1965” for “July 1, 1964” in five places.
 
@@ -1781,35 +1781,35 @@ Subsec. (b). Pub. L. 89–44, § 501(c)(1)–(5), struck out provisions at end
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. EE, title I, § 106(d)(3), Dec. 27, 2020, 134 Stat. 3044, provided that: “The amendments made by this subsection [amending this section] shall apply to wine removed after December 31, 2020.”
+Pub. L. 116–260, div. EE, title I, § 106(d)(3), Dec. 27, 2020, 134 Stat. 3044, provided that: “The amendments made by this subsection [amending this section] shall apply to wine removed after December 31, 2020.”
 
-Pub. L. 116–260, div. EE, title I, § 106(e)(2), Dec. 27, 2020, 134 Stat. 3044, provided that: “The amendments made by this subsection [amending this section] shall apply to wine removed after December 31, 2020.”
+Pub. L. 116–260, div. EE, title I, § 106(e)(2), Dec. 27, 2020, 134 Stat. 3044, provided that: “The amendments made by this subsection [amending this section] shall apply to wine removed after December 31, 2020.”
 
-Pub. L. 116–260, div. EE, title I, § 106(f)(2), Dec. 27, 2020, 134 Stat. 3044, provided that: “The amendments made by this subsection [amending this section] shall apply to wine removed after December 31, 2020.”
+Pub. L. 116–260, div. EE, title I, § 106(f)(2), Dec. 27, 2020, 134 Stat. 3044, provided that: “The amendments made by this subsection [amending this section] shall apply to wine removed after December 31, 2020.”
 
-Pub. L. 116–260, div. EE, title I, § 107(c)(2), Dec. 27, 2020, 134 Stat. 3048, provided that: “The amendments made by this subsection [amending this section] shall apply to wine removed after December 31, 2022.”
+Pub. L. 116–260, div. EE, title I, § 107(c)(2), Dec. 27, 2020, 134 Stat. 3048, provided that: “The amendments made by this subsection [amending this section] shall apply to wine removed after December 31, 2022.”
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–94, div. Q, title I, § 144(d)(3), Dec. 20, 2019, 133 Stat. 3235, provided that: “The amendments made by this subsection [amending this section] shall apply to wine removed after December 31, 2019.”
+Pub. L. 116–94, div. Q, title I, § 144(d)(3), Dec. 20, 2019, 133 Stat. 3235, provided that: “The amendments made by this subsection [amending this section] shall apply to wine removed after December 31, 2019.”
 
-Pub. L. 116–94, div. Q, title I, § 144(e)(2), Dec. 20, 2019, 133 Stat. 3235, provided that: “The amendments made by this subsection [amending this section] shall apply to wine removed after December 31, 2019.”
+Pub. L. 116–94, div. Q, title I, § 144(e)(2), Dec. 20, 2019, 133 Stat. 3235, provided that: “The amendments made by this subsection [amending this section] shall apply to wine removed after December 31, 2019.”
 
-Pub. L. 116–94, div. Q, title I, § 144(f)(2), Dec. 20, 2019, 133 Stat. 3235, provided that: “The amendment made by this subsection [amending this section] shall apply to wine removed after December 31, 2019.”
+Pub. L. 116–94, div. Q, title I, § 144(f)(2), Dec. 20, 2019, 133 Stat. 3235, provided that: “The amendment made by this subsection [amending this section] shall apply to wine removed after December 31, 2019.”
 
-Pub. L. 116–94, div. Q, title I, § 144(j)(2), Dec. 20, 2019, 133 Stat. 3236, provided that: “The amendment made by this subsection [amending this section] shall take effect as if included in section 13804 of Public Law 115–97.”
+Pub. L. 116–94, div. Q, title I, § 144(j)(2), Dec. 20, 2019, 133 Stat. 3236, provided that: “The amendment made by this subsection [amending this section] shall take effect as if included in section 13804 of Public Law 115–97.”
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–97, title I, § 13804(d), Dec. 22, 2017, 131 Stat. 2175, provided that: “The amendments made by this section [amending this section] shall apply to wine removed after December 31, 2017.”
+Pub. L. 115–97, title I, § 13804(d), Dec. 22, 2017, 131 Stat. 2175, provided that: “The amendments made by this section [amending this section] shall apply to wine removed after December 31, 2017.”
 
-Pub. L. 115–97, title I, § 13805(b), Dec. 22, 2017, 131 Stat. 2175, provided that: “The amendments made by this section [amending this section] shall apply to wine removed after December 31, 2017.”
+Pub. L. 115–97, title I, § 13805(b), Dec. 22, 2017, 131 Stat. 2175, provided that: “The amendments made by this section [amending this section] shall apply to wine removed after December 31, 2017.”
 
-Pub. L. 115–97, title I, § 13806(b), Dec. 22, 2017, 131 Stat. 2175, provided that: “The amendments made by this section [amending this section] shall apply to wine removed after December 31, 2017.”
+Pub. L. 115–97, title I, § 13806(b), Dec. 22, 2017, 131 Stat. 2175, provided that: “The amendments made by this section [amending this section] shall apply to wine removed after December 31, 2017.”
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–113, div. Q, title III, § 335(b), Dec. 18, 2015, 129 Stat. 3109, provided that: “The amendments made by this section [amending this section] shall apply to hard cider removed during calendar years beginning after December 31, 2016.”
+Pub. L. 114–113, div. Q, title III, § 335(b), Dec. 18, 2015, 129 Stat. 3109, provided that: “The amendments made by this section [amending this section] shall apply to hard cider removed during calendar years beginning after December 31, 2016.”
 
 **Effective Date of 1998 Amendment**
 
@@ -1817,7 +1817,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title IX, § 908(c), Aug. 5, 1997, 111 Stat. 876, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 1997.”
+Pub. L. 105–34, title IX, § 908(c), Aug. 5, 1997, 111 Stat. 876, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 1997.”
 
 **Effective Date of 1996 Amendment**
 
@@ -1829,17 +1829,17 @@ Amendment by Pub. L. 101–508 effective Jan. 1, 1991, see section 11201(d) of P
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title VI, § 6101(b), Nov. 10, 1988, 102 Stat. 3710, provided that: “The amendment made by subsection (a) [amending this section] shall apply to wine removed after December 31, 1988.”
+Pub. L. 100–647, title VI, § 6101(b), Nov. 10, 1988, 102 Stat. 3710, provided that: “The amendment made by subsection (a) [amending this section] shall apply to wine removed after December 31, 1988.”
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–490, § 6(b), Oct. 26, 1974, 88 Stat. 1468, provided that: “The amendment made by this section [amending this section] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of enactment of this Act [Oct. 26, 1974].”
+Pub. L. 93–490, § 6(b), Oct. 26, 1974, 88 Stat. 1468, provided that: “The amendment made by this section [amending this section] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of enactment of this Act [Oct. 26, 1974].”
 
 **Effective Date of 1965 Amendment**
 
 Amendment by section 501(c) of Pub. L. 89–44 applicable on and after July 1, 1965, see section 701(d) of Pub. L. 89–44, set out as a note under section 5701 of this title.
 
-Pub. L. 89–44, title VIII, § 806(d)(1), June 21, 1965, 79 Stat. 164, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on July 1, 1965.”
+Pub. L. 89–44, title VIII, § 806(d)(1), June 21, 1965, 79 Stat. 164, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on July 1, 1965.”
 
 **Effective Date**
 
@@ -1849,7 +1849,7 @@ Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set o
 
 Imposition of tax on wine, exception for small domestic producers, exception for certain small wholesale or retail dealers, credit against tax, liability for tax and method of payment, controlled groups, other laws applicable, and definitions, see section 11201(e) of Pub. L. 101–508, set out as a note under section 5001 of this title.
 
-##### § 5042. Exemption from tax
+##### § 5042. Exemption from tax
 
 **(a) Tax-free production**
 
@@ -1885,7 +1885,7 @@ Subject to regulations prescribed by the Secretary, any scientific university, c
 
 **(3)** For provisions authorizing withdrawals of wine free of tax or without payment of tax, see section 5362.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1331; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–458, § 2(a), Oct. 14, 1978, 92 Stat. 1255.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1331; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–458, § 2(a), Oct. 14, 1978, 92 Stat. 1255.)
 
 **Editorial Notes**
 
@@ -1903,9 +1903,9 @@ A prior section 5042, act Aug. 16, 1954, ch. 736, 68A Stat. 610, consisted of pr
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–458, § 2(c), Oct. 14, 1978, 92 Stat. 1257, provided that: “The amendments made by this section [amending this section and sections 5051, 5053, 5054, 5092, 5222, and 5674 of this title] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act [Oct. 14, 1978].”
+Pub. L. 95–458, § 2(c), Oct. 14, 1978, 92 Stat. 1257, provided that: “The amendments made by this section [amending this section and sections 5051, 5053, 5054, 5092, 5222, and 5674 of this title] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act [Oct. 14, 1978].”
 
-##### § 5043. Collection of taxes on wines
+##### § 5043. Collection of taxes on wines
 
 **(a) Persons liable for payment** The taxes on wine provided for in this subpart shall be paid—
 
@@ -1927,7 +1927,7 @@ Immediately, in the case of any wine produced, imported, received, removed, or p
 
 The taxes on wines shall be paid in accordance with section 5061.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1332; amended Pub. L. 94–455, title XIX, § 1905(b)(2)(C), Oct. 4, 1976, 90 Stat. 1822; Pub. L. 96–39, title VIII, § 807(a)(8), July 26, 1979, 93 Stat. 281; Pub. L. 105–206, title VI, § 6014(b)(1), July 22, 1998, 112 Stat. 820.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1332; amended Pub. L. 94–455, title XIX, § 1905(b)(2)(C), Oct. 4, 1976, 90 Stat. 1822; Pub. L. 96–39, title VIII, § 807(a)(8), July 26, 1979, 93 Stat. 281; Pub. L. 105–206, title VI, § 6014(b)(1), July 22, 1998, 112 Stat. 820.)
 
 **Editorial Notes**
 
@@ -1957,7 +1957,7 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
 
-##### § 5044. Refund of tax on wine
+##### § 5044. Refund of tax on wine
 
 **(a) General** In the case of any wine removed from a bonded wine cellar and returned to bond under section 5361—
 
@@ -1975,7 +1975,7 @@ No claim under subsection (a) shall be allowed unless filed within 6 months afte
 
 All provisions of this chapter applicable to wine in bond on the premises of a bonded wine cellar and to removals thereof shall be applicable to wine returned to bond under the provisions of this section.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1332; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title XIV, § 1416(a), (b)(2), Aug. 5, 1997, 111 Stat. 1048; Pub. L. 105–206, title VI, § 6014(b)(2), July 22, 1998, 112 Stat. 820.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1332; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title XIV, § 1416(a), (b)(2), Aug. 5, 1997, 111 Stat. 1048; Pub. L. 105–206, title VI, § 6014(b)(2), July 22, 1998, 112 Stat. 820.)
 
 **Editorial Notes**
 
@@ -1987,9 +1987,9 @@ A prior section 5044, act Aug. 16, 1954, ch. 736, 68A Stat. 611, consisted of pr
 
 1998—Subsec. (a). Pub. L. 105–206 substituted “removed from a bonded wine cellar” for “produced in the United States” in introductory provisions.
 
-1997—Pub. L. 105–34, § 1416(b)(2), struck out “unmerchantable” after “tax on” in section catchline.
+1997—Pub. L. 105–34, § 1416(b)(2), struck out “unmerchantable” after “tax on” in section catchline.
 
-Subsec. (a). Pub. L. 105–34, § 1416(a), struck out “as unmerchantable” after “to bond” in introductory provisions.
+Subsec. (a). Pub. L. 105–34, § 1416(a), struck out “as unmerchantable” after “to bond” in introductory provisions.
 
 1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
@@ -2001,13 +2001,13 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title XIV, § 1416(c), Aug. 5, 1997, 111 Stat. 1048, provided that: “The amendments made by this section [amending this section and section 5361 of this title] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title XIV, § 1416(c), Aug. 5, 1997, 111 Stat. 1048, provided that: “The amendments made by this section [amending this section and section 5361 of this title] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act [Aug. 5, 1997].”
 
-##### § 5045. Cross references
+##### § 5045. Cross references
 
 For provisions relating to the establishment and operation of wineries, see subchapter F, and for penalties pertaining to wine, see subchapter J.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1333.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1333.)
 
 **Editorial Notes**
 
@@ -2021,9 +2021,9 @@ A prior section 5045, act Aug. 16, 1954, ch. 736, 68A Stat. 611, consisted of pr
 
 **Prior Provisions**
 
-A prior subpart D, comprising sections 5051 to 5057 of this title, related to beer, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior subpart D, comprising sections 5051 to 5057 of this title, related to beer, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
-##### § 5051. Imposition and rate of tax
+##### § 5051. Imposition and rate of tax
 
 **(a) Rate of tax**
 
@@ -2131,49 +2131,49 @@ Nothing contained in this subpart or subchapter G shall be construed to authoriz
 
 **(2)** such production is exempt from tax under section 5053(e) (relating to beer for personal or family use).
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1333; amended Pub. L. 86–75, § 3(a)(6), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, § 202(a)(8), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, § 3(a)(8), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, § 3(a)(7), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, § 3(a)(8), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, § 2(a)(8), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, § 501(d), June 21, 1965, 79 Stat. 150; Pub. L. 94–529, § 1, Oct. 17, 1976, 90 Stat. 2485; Pub. L. 95–458, § 2(b)(2)(A), Oct. 14, 1978, 92 Stat. 1256; Pub. L. 101–508, title XI, § 11201(c), Nov. 5, 1990, 104 Stat. 1388–416; Pub. L. 115–97, title I, § 13802(a)–(d), Dec. 22, 2017, 131 Stat. 2170, 2171; Pub. L. 116–94, div. Q, title I, § 144(b)(1), Dec. 20, 2019, 133 Stat. 3234; Pub. L. 116–260, div. EE, title I, §§ 106(b)(1)–(4), 107(b)(1), 110(a), Dec. 27, 2020, 134 Stat. 3042, 3046, 3049.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1333; amended Pub. L. 86–75, § 3(a)(6), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, § 202(a)(8), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, § 3(a)(8), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, § 3(a)(7), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, § 3(a)(8), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, § 2(a)(8), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, § 501(d), June 21, 1965, 79 Stat. 150; Pub. L. 94–529, § 1, Oct. 17, 1976, 90 Stat. 2485; Pub. L. 95–458, § 2(b)(2)(A), Oct. 14, 1978, 92 Stat. 1256; Pub. L. 101–508, title XI, § 11201(c), Nov. 5, 1990, 104 Stat. 1388–416; Pub. L. 115–97, title I, § 13802(a)–(d), Dec. 22, 2017, 131 Stat. 2170, 2171; Pub. L. 116–94, div. Q, title I, § 144(b)(1), Dec. 20, 2019, 133 Stat. 3234; Pub. L. 116–260, div. EE, title I, §§ 106(b)(1)–(4), 107(b)(1), 110(a), Dec. 27, 2020, 134 Stat. 3042, 3046, 3049.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5051, act Aug. 16, 1954, ch. 736, 68A Stat. 611, as amended by acts Mar. 30, 1955, ch. 18, § 3(a)(8), 69 Stat. 14; Mar. 29, 1956, ch. 115, § 3(a)(8), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, § 3(a)(6), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, § 3(a)(6), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
+A prior section 5051, act Aug. 16, 1954, ch. 736, 68A Stat. 611, as amended by acts Mar. 30, 1955, ch. 18, § 3(a)(8), 69 Stat. 14; Mar. 29, 1956, ch. 115, § 3(a)(8), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, § 3(a)(6), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, § 3(a)(6), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
 **Amendments**
 
-2020—Subsec. (a)(1). Pub. L. 116–260, § 106(b)(1), amended par. (1) generally. Prior to amendment, par. (1) consisted of subpars. (A) to (D) relating to imposition of tax on beer, rate of such tax, special rule for beer removed between Dec. 31, 2017, and Jan. 1, 2021, and size of a barrel, respectively.
+2020—Subsec. (a)(1). Pub. L. 116–260, § 106(b)(1), amended par. (1) generally. Prior to amendment, par. (1) consisted of subpars. (A) to (D) relating to imposition of tax on beer, rate of such tax, special rule for beer removed between Dec. 31, 2017, and Jan. 1, 2021, and size of a barrel, respectively.
 
-Subsec. (a)(1)(A)(i)(II). Pub. L. 116–260, § 106(b)(3)(A), inserted “but only if the importer is an electing importer under paragraph (4) and the barrels have been assigned to the importer pursuant to such paragraph” after “during the calendar year”.
+Subsec. (a)(1)(A)(i)(II). Pub. L. 116–260, § 106(b)(3)(A), inserted “but only if the importer is an electing importer under paragraph (4) and the barrels have been assigned to the importer pursuant to such paragraph” after “during the calendar year”.
 
-Subsec. (a)(2)(A). Pub. L. 116–260, § 106(b)(2), inserted “$3.50 a barrel” before “rate” in heading and substituted “$3.50” for “$7 ($3.50 in the case of beer removed after December 31, 2017, and before January 1, 2021)” in text.
+Subsec. (a)(2)(A). Pub. L. 116–260, § 106(b)(2), inserted “$3.50 a barrel” before “rate” in heading and substituted “$3.50” for “$7 ($3.50 in the case of beer removed after December 31, 2017, and before January 1, 2021)” in text.
 
-Subsec. (a)(4)(A). Pub. L. 116–260, § 106(b)(3)(B)(i), substituted “paragraph (1)(A)” for “paragraph (1)(C)”.
+Subsec. (a)(4)(A). Pub. L. 116–260, § 106(b)(3)(B)(i), substituted “paragraph (1)(A)” for “paragraph (1)(C)”.
 
-Subsec. (a)(4)(B). Pub. L. 116–260, § 106(b)(3)(B)(ii), substituted “The Secretary, after consultation with the Secretary of the Department of Homeland Security,” for “The Secretary” in introductory provisions.
+Subsec. (a)(4)(B). Pub. L. 116–260, § 106(b)(3)(B)(ii), substituted “The Secretary, after consultation with the Secretary of the Department of Homeland Security,” for “The Secretary” in introductory provisions.
 
-Subsec. (a)(5). Pub. L. 116–260, § 106(b)(4), substituted “paragraph (1)(A)(i)” for “paragraph (1)(C)(i)” wherever appearing.
+Subsec. (a)(5). Pub. L. 116–260, § 106(b)(4), substituted “paragraph (1)(A)(i)” for “paragraph (1)(C)(i)” wherever appearing.
 
-Subsec. (a)(5)(C). Pub. L. 116–260, § 110(a), substituted “under a license” for “marketed under a similar brand, license”.
+Subsec. (a)(5)(C). Pub. L. 116–260, § 110(a), substituted “under a license” for “marketed under a similar brand, license”.
 
-Subsec. (a)(6). Pub. L. 116–260, § 107(b)(1), added par. (6).
+Subsec. (a)(6). Pub. L. 116–260, § 107(b)(1), added par. (6).
 
 2019—Subsec. (a)(1)(C), (2)(A). Pub. L. 116–94 substituted “January 1, 2021” for “January 1, 2020” in introductory provisions of subsec. (a)(1)(C) and in subsec. (a)(2)(A).
 
-2017—Subsec. (a)(1). Pub. L. 115–97, § 13802(a), amended par. (1) generally. Prior to amendment, text read as follows: “A tax is hereby imposed on all beer brewed or produced, and removed for consumption or sale, within the United States, or imported into the United States. Except as provided in paragraph (2), the rate of such tax shall be $18 for every barrel containing not more than 31 gallons and at a like rate for any other quantity or for fractional parts of a barrel.”
+2017—Subsec. (a)(1). Pub. L. 115–97, § 13802(a), amended par. (1) generally. Prior to amendment, text read as follows: “A tax is hereby imposed on all beer brewed or produced, and removed for consumption or sale, within the United States, or imported into the United States. Except as provided in paragraph (2), the rate of such tax shall be $18 for every barrel containing not more than 31 gallons and at a like rate for any other quantity or for fractional parts of a barrel.”
 
-Subsec. (a)(1)(C)(i)(II). Pub. L. 115–97, § 13802(c)(1), inserted “but only if the importer is an electing importer under paragraph (4) and the barrels have been assigned to the importer pursuant to such paragraph” after “during the calendar year”.
+Subsec. (a)(1)(C)(i)(II). Pub. L. 115–97, § 13802(c)(1), inserted “but only if the importer is an electing importer under paragraph (4) and the barrels have been assigned to the importer pursuant to such paragraph” after “during the calendar year”.
 
-Subsec. (a)(2)(A). Pub. L. 115–97, § 13802(b), in heading, struck out “$7 a barrel” before “rate” and in text, inserted “($3.50 in the case of beer removed after December 31, 2017, and before January 1, 2020)” after “$7”.
+Subsec. (a)(2)(A). Pub. L. 115–97, § 13802(b), in heading, struck out “$7 a barrel” before “rate” and in text, inserted “($3.50 in the case of beer removed after December 31, 2017, and before January 1, 2020)” after “$7”.
 
-Subsec. (a)(2)(B), (C). Pub. L. 115–97, § 13802(d)(1), redesignated subpar. (C) as (B) and struck out former subpar. (B) which related to application of barrel quantity to controlled groups.
+Subsec. (a)(2)(B), (C). Pub. L. 115–97, § 13802(d)(1), redesignated subpar. (C) as (B) and struck out former subpar. (B) which related to application of barrel quantity to controlled groups.
 
-Subsec. (a)(4). Pub. L. 115–97, § 13802(c)(2), added par. (4).
+Subsec. (a)(4). Pub. L. 115–97, § 13802(c)(2), added par. (4).
 
-Subsec. (a)(5). Pub. L. 115–97, § 13802(d)(2), added par. (5).
+Subsec. (a)(5). Pub. L. 115–97, § 13802(d)(2), added par. (5).
 
-1990—Subsec. (a)(1). Pub. L. 101–508, § 11201(c)(1), substituted “$18” for “$9”.
+1990—Subsec. (a)(1). Pub. L. 101–508, § 11201(c)(1), substituted “$18” for “$9”.
 
-Subsec. (a)(2)(C). Pub. L. 101–508, § 11201(c)(2), added subpar. (C).
+Subsec. (a)(2)(C). Pub. L. 101–508, § 11201(c)(2), added subpar. (C).
 
 1978—Subsec. (c). Pub. L. 95–458 added subsec. (c).
 
@@ -2197,19 +2197,19 @@ Subsec. (a)(2)(C). Pub. L. 101–508, § 11201(c)(2), added subpar. (C).
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. EE, title I, § 106(b)(5), Dec. 27, 2020, 134 Stat. 3042, provided that: “The amendments made by this subsection [amending this section] shall apply to beer removed after December 31, 2020.”
+Pub. L. 116–260, div. EE, title I, § 106(b)(5), Dec. 27, 2020, 134 Stat. 3042, provided that: “The amendments made by this subsection [amending this section] shall apply to beer removed after December 31, 2020.”
 
-Pub. L. 116–260, div. EE, title I, § 107(b)(2), Dec. 27, 2020, 134 Stat. 3047, provided that: “The amendment made by this subsection [amending this section] shall apply to beer removed after December 31, 2022.”
+Pub. L. 116–260, div. EE, title I, § 107(b)(2), Dec. 27, 2020, 134 Stat. 3047, provided that: “The amendment made by this subsection [amending this section] shall apply to beer removed after December 31, 2022.”
 
 Amendment by section 110(a) of Pub. L. 116–260 applicable to beer, wine, and distilled spirits removed after Dec. 31, 2020, see section 110(d) of div. EE of Pub. L. 116–260, set out as a note under section 5001 of this title.
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–94, div. Q, title I, § 144(b)(2), Dec. 20, 2019, 133 Stat. 3235, provided that: “The amendments made by this subsection [amending this section] shall apply to beer removed after December 31, 2019.”
+Pub. L. 116–94, div. Q, title I, § 144(b)(2), Dec. 20, 2019, 133 Stat. 3235, provided that: “The amendments made by this subsection [amending this section] shall apply to beer removed after December 31, 2019.”
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–97, title I, § 13802(e), Dec. 22, 2017, 131 Stat. 2172, provided that: “The amendments made by this section [amending this section] shall apply to beer removed after December 31, 2017.”
+Pub. L. 115–97, title I, § 13802(e), Dec. 22, 2017, 131 Stat. 2172, provided that: “The amendments made by this section [amending this section] shall apply to beer removed after December 31, 2017.”
 
 **Effective Date of 1990 Amendment**
 
@@ -2221,7 +2221,7 @@ Amendment by Pub. L. 95–458 effective on first day of first calendar month beg
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–529, § 2, Oct. 17, 1976, 90 Stat. 2486, provided that: “The amendment made by the first section of this Act [amending this section] shall take effect on the first day of the first calendar year which begins after the date of the enactment of this Act [Oct. 17, 1976].”
+Pub. L. 94–529, § 2, Oct. 17, 1976, 90 Stat. 2486, provided that: “The amendment made by the first section of this Act [amending this section] shall take effect on the first day of the first calendar year which begins after the date of the enactment of this Act [Oct. 17, 1976].”
 
 **Effective Date of 1965 Amendment**
 
@@ -2235,7 +2235,7 @@ Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set o
 
 Imposition of tax on beer, exception for small domestic producers, exception for certain small wholesale or retail dealers, credit against tax, liability for tax and method of payment, controlled groups, other laws applicable, and definitions, see section 11201(e) of Pub. L. 101–508, set out as a note under section 5001 of this title.
 
-##### § 5052. Definitions
+##### § 5052. Definitions
 
 **(a) Beer**
 
@@ -2259,7 +2259,7 @@ Any removal of beer from the brewery.
 
 For purposes of this chapter, the term “brewer” means any person who brews beer or produces beer for sale. Such term shall not include any person who produces only beer exempt from tax under section 5053(e).
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1333; amended Pub. L. 91–673, § 1(b), Jan. 12, 1971, 84 Stat. 2056; Pub. L. 109–59, title XI, § 11125(b)(15), Aug. 10, 2005, 119 Stat. 1956.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1333; amended Pub. L. 91–673, § 1(b), Jan. 12, 1971, 84 Stat. 2056; Pub. L. 109–59, title XI, § 11125(b)(15), Aug. 10, 2005, 119 Stat. 1956.)
 
 **Editorial Notes**
 
@@ -2283,7 +2283,7 @@ Amendment by Pub. L. 109–59 effective July 1, 2008, but inapplicable to taxes 
 
 Amendment by Pub. L. 91–673 effective on first day of first calendar month which begins more than 90 days after Jan. 12, 1971, see section 5 of Pub. L. 91–673, set out as a note under section 5056 of this title.
 
-##### § 5053. Exemptions
+##### § 5053. Exemptions
 
 **(a) Removals for export**
 
@@ -2335,7 +2335,7 @@ Subject to such regulations as the Secretary may prescribe, beer may be removed 
 
 For exemption as to supplies for certain vessels and aircraft, see section 309 of the Tariff Act of 1930, as amended (19 U.S.C. 1309).
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1334; amended Pub. L. 89–44, title VIII, § 807(b), June 21, 1965, 79 Stat. 164; Pub. L. 91–673, § 2, Jan. 12, 1971, 84 Stat. 2056; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–458, § 2(b)(1), Oct. 14, 1978, 92 Stat. 1255; Pub. L. 105–34, title XIV, §§ 1414(b), 1418(a), 1419(a), Aug. 5, 1997, 111 Stat. 1047–1049.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1334; amended Pub. L. 89–44, title VIII, § 807(b), June 21, 1965, 79 Stat. 164; Pub. L. 91–673, § 2, Jan. 12, 1971, 84 Stat. 2056; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–458, § 2(b)(1), Oct. 14, 1978, 92 Stat. 1255; Pub. L. 105–34, title XIV, §§ 1414(b), 1418(a), 1419(a), Aug. 5, 1997, 111 Stat. 1047–1049.)
 
 **Editorial Notes**
 
@@ -2345,13 +2345,13 @@ A prior section 5053, act Aug. 16, 1954, ch. 736, 68A Stat. 612, consisted of pr
 
 **Amendments**
 
-1997—Subsec. (f). Pub. L. 105–34, § 1414(b), added subsec. (f). Former subsec. (f) redesignated (i).
+1997—Subsec. (f). Pub. L. 105–34, § 1414(b), added subsec. (f). Former subsec. (f) redesignated (i).
 
-Subsec. (g). Pub. L. 105–34, § 1418(a), added subsec. (g).
+Subsec. (g). Pub. L. 105–34, § 1418(a), added subsec. (g).
 
-Subsec. (h). Pub. L. 105–34, § 1419(a), added subsec. (h).
+Subsec. (h). Pub. L. 105–34, § 1419(a), added subsec. (h).
 
-Subsec. (i). Pub. L. 105–34, § 1414(b), redesignated subsec. (f) as (i).
+Subsec. (i). Pub. L. 105–34, § 1414(b), redesignated subsec. (f) as (i).
 
 1978—Subsecs. (e), (f). Pub. L. 95–458 added subsec. (e) and redesignated former subsec. (e) as (f).
 
@@ -2365,11 +2365,11 @@ Subsec. (i). Pub. L. 105–34, § 1414(b), redesignated subsec. (f) as (i).
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title XIV, § 1414(d), Aug. 5, 1997, 111 Stat. 1047, provided that: “The amendments made by this section [amending this section and sections 5056 and 5222 of this title] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title XIV, § 1414(d), Aug. 5, 1997, 111 Stat. 1047, provided that: “The amendments made by this section [amending this section and sections 5056 and 5222 of this title] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act [Aug. 5, 1997].”
 
-Pub. L. 105–34, title XIV, § 1418(b), Aug. 5, 1997, 111 Stat. 1049, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title XIV, § 1418(b), Aug. 5, 1997, 111 Stat. 1049, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act [Aug. 5, 1997].”
 
-Pub. L. 105–34, title XIV, § 1419(b), Aug. 5, 1997, 111 Stat. 1049, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title XIV, § 1419(b), Aug. 5, 1997, 111 Stat. 1049, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act [Aug. 5, 1997].”
 
 **Effective Date of 1978 Amendment**
 
@@ -2383,7 +2383,7 @@ Amendment by Pub. L. 91–673 effective on first day of first calendar month whi
 
 Amendment by Pub. L. 89–44 effective July 1, 1965, see section 807(c) of Pub. L. 89–44, set out as a note under section 5002 of this title.
 
-##### § 5054. Determination and collection of tax on beer
+##### § 5054. Determination and collection of tax on beer
 
 **(a) Time of determination**
 
@@ -2413,7 +2413,7 @@ Beer which has been removed for consumption or sale and is thereafter returned t
 
 All administrative and penal provisions of this title, insofar as applicable, shall apply to any tax imposed by section 5051.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1334; amended Pub. L. 94–455, title XIX, §§ 1905(a)(5), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1818, 1834; Pub. L. 95–458, § 2(b)(2)(B), Oct. 14, 1978, 92 Stat. 1256; Pub. L. 99–509, title VIII, § 8011(b)(2), Oct. 21, 1986, 100 Stat. 1953; Pub. L. 100–647, title I, § 1018(u)(19), Nov. 10, 1988, 102 Stat. 3591; Pub. L. 105–206, title VI, § 6014(a)(1), (2), July 22, 1998, 112 Stat. 820; Pub. L. 115–141, div. U, title IV, § 401(a)(239), Mar. 23, 2018, 132 Stat. 1195.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1334; amended Pub. L. 94–455, title XIX, §§ 1905(a)(5), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1818, 1834; Pub. L. 95–458, § 2(b)(2)(B), Oct. 14, 1978, 92 Stat. 1256; Pub. L. 99–509, title VIII, § 8011(b)(2), Oct. 21, 1986, 100 Stat. 1953; Pub. L. 100–647, title I, § 1018(u)(19), Nov. 10, 1988, 102 Stat. 3591; Pub. L. 105–206, title VI, § 6014(a)(1), (2), July 22, 1998, 112 Stat. 820; Pub. L. 115–141, div. U, title IV, § 401(a)(239), Mar. 23, 2018, 132 Stat. 1195.)
 
 **Editorial Notes**
 
@@ -2427,9 +2427,9 @@ Provisions similar to those comprising subsecs. (a)(1), (2) and (b) to (d) of th
 
 2018—Subsec. (a)(3)(B). Pub. L. 115–141 substituted “section” for “sections”.
 
-1998—Subsec. (a)(1). Pub. L. 105–206, § 6014(a)(1), in heading inserted “; certain imported beer” after “United States” and in text inserted “, or imported into the United States and transferred to a brewery free of tax under section 5418,” after “United States”.
+1998—Subsec. (a)(1). Pub. L. 105–206, § 6014(a)(1), in heading inserted “; certain imported beer” after “United States” and in text inserted “, or imported into the United States and transferred to a brewery free of tax under section 5418,” after “United States”.
 
-Subsec. (a)(2). Pub. L. 105–206, § 6014(a)(2), inserted “and not transferred to a brewery free of tax under section 5418” after “United States”.
+Subsec. (a)(2). Pub. L. 105–206, § 6014(a)(2), inserted “and not transferred to a brewery free of tax under section 5418” after “United States”.
 
 1988—Subsec. (a)(2). Pub. L. 100–647 added period at end.
 
@@ -2437,9 +2437,9 @@ Subsec. (a)(2). Pub. L. 105–206, § 6014(a)(2), inserted “and not transfer
 
 1978—Subsec. (a)(3). Pub. L. 95–458 inserted provision excluding from tax the beer exempt from tax under section 5053(e).
 
-1976—Subsec. (a)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsec. (a)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsecs. (c), (d). Pub. L. 94–455, § 1905(a)(5), redesignated subsec. (d) as (c) and struck out former subsec. (c) respecting stamps or other devices as evidence of payment of tax.
+Subsecs. (c), (d). Pub. L. 94–455, § 1905(a)(5), redesignated subsec. (d) as (c) and struck out former subsec. (c) respecting stamps or other devices as evidence of payment of tax.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2463,11 +2463,11 @@ Amendment by Pub. L. 95–458 effective on first day of first calendar month beg
 
 Amendment by section 1905(a)(5) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
 
-##### § 5055. Drawback of tax
+##### § 5055. Drawback of tax
 
 On the exportation of beer, brewed or produced in the United States, the brewer thereof shall be allowed a drawback equal in amount to the tax paid on such beer if there is such proof of exportation as the Secretary may by regulations require. For the purpose of this section, exportation shall include delivery for use as supplies on the vessels and aircraft described in section 309 of the Tariff Act of 1930, as amended (19 U.S.C. 1309).
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1335; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title XIV, § 1420(a), Aug. 5, 1997, 111 Stat. 1049.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1335; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title XIV, § 1420(a), Aug. 5, 1997, 111 Stat. 1049.)
 
 **Editorial Notes**
 
@@ -2487,9 +2487,9 @@ Provisions similar to those comprising this section were contained in prior sect
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title XIV, § 1420(b), Aug. 5, 1997, 111 Stat. 1049, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title XIV, § 1420(b), Aug. 5, 1997, 111 Stat. 1049, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act [Aug. 5, 1997].”
 
-##### § 5056. Refund and credit of tax, or relief from lia­bility
+##### § 5056. Refund and credit of tax, or relief from lia­bility
 
 **(a) Beer returned or voluntarily destroyed**
 
@@ -2507,7 +2507,7 @@ Any tax paid by any brewer on beer removed for consumption or sale may be refund
 
 No claim under this section shall be allowed (1) unless filed within 6 months after the date of the return, loss, destruction, rendering unmerchantable, or receipt on the bonded premises of a distilled spirits plant or (2) if the claimant was indemnified by insurance or otherwise in respect of the tax.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1335; amended Pub. L. 91–673, § 1(a), Jan. 12, 1971, 84 Stat. 2056; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title XIV, § 1414(c), Aug. 5, 1997, 111 Stat. 1047; Pub. L. 105–206, title VI, § 6014(a)(3), July 22, 1998, 112 Stat. 820.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1335; amended Pub. L. 91–673, § 1(a), Jan. 12, 1971, 84 Stat. 2056; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title XIV, § 1414(c), Aug. 5, 1997, 111 Stat. 1047; Pub. L. 105–206, title VI, § 6014(a)(3), July 22, 1998, 112 Stat. 820.)
 
 **Editorial Notes**
 
@@ -2521,7 +2521,7 @@ A prior section 5057, act Aug. 16, 1954, ch. 736, 68A Stat. 613, related to refu
 
 1998—Subsecs. (a) to (c). Pub. L. 105–206 substituted “removed for consumption or sale” for “produced in the United States”.
 
-1997—Subsec. (c). Pub. L. 105–34, § 1414(c)(1), added subsec. (c). Former subsec. (c) redesignated (d).
+1997—Subsec. (c). Pub. L. 105–34, § 1414(c)(1), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 105–34 redesignated subsec. (c) as (d) and substituted “rendering unmerchantable, or receipt on the bonded premises of a distilled spirits plant” for “or rendering unmerchantable”.
 
@@ -2545,7 +2545,7 @@ Amendment by Pub. L. 105–34 effective on the 1st day of the 1st calendar quart
 
 **Effective Date of 1971 Amendment**
 
-Pub. L. 91–673, § 5, Jan. 12, 1971, 84 Stat. 2058, provided that: “The amendments made by the first four sections of this Act [enacting section 5417 of this title and amending this section and sections 5052, 5053, 5401, 5402, 5411, 5412, and 5416 of this title] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act [Jan. 12, 1971].”
+Pub. L. 91–673, § 5, Jan. 12, 1971, 84 Stat. 2058, provided that: “The amendments made by the first four sections of this Act [enacting section 5417 of this title and amending this section and sections 5052, 5053, 5401, 5402, 5411, 5412, and 5416 of this title] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act [Jan. 12, 1971].”
 
 #### Subpart E—General Provisions
 
@@ -2553,19 +2553,19 @@ Pub. L. 91–673, § 5, Jan. 12, 1971, 84 Stat. 2058, provided that: “The am
 
 **Prior Provisions**
 
-A prior subpart E, comprising sections 5061 to 5065, related to general provisions, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior subpart E, comprising sections 5061 to 5065, related to general provisions, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
 **Amendments**
 
-2020—Pub. L. 116–260, div. EE, title I, § 108(b), Dec. 27, 2020, 134 Stat. 3049, added item 5067 and redesignated former item 5067 as 5068.
+2020—Pub. L. 116–260, div. EE, title I, § 108(b), Dec. 27, 2020, 134 Stat. 3049, added item 5067 and redesignated former item 5067 as 5068.
 
-1978—Pub. L. 95–423, § 1(b), Oct. 6, 1978, 92 Stat. 936, substituted “Losses resulting from disaster, vandalism, or malicious mischief” for “Losses caused by disaster” in item 5064.
+1978—Pub. L. 95–423, § 1(b), Oct. 6, 1978, 92 Stat. 936, substituted “Losses resulting from disaster, vandalism, or malicious mischief” for “Losses caused by disaster” in item 5064.
 
-1971—Pub. L. 91–659, § 3(b), Jan. 8, 1971, 84 Stat. 1966, added item 5066 and redesignated former item 5066 as 5067.
+1971—Pub. L. 91–659, § 3(b), Jan. 8, 1971, 84 Stat. 1966, added item 5066 and redesignated former item 5066 as 5067.
 
-1965—Pub. L. 89–44, title V, § 501(e), June 21, 1965, 79 Stat. 150, struck out item 5063 “Floor stocks tax refunds on distilled spirits, wines, cordials, and beer”.
+1965—Pub. L. 89–44, title V, § 501(e), June 21, 1965, 79 Stat. 150, struck out item 5063 “Floor stocks tax refunds on distilled spirits, wines, cordials, and beer”.
 
-##### § 5061. Method of collecting tax
+##### § 5061. Method of collecting tax
 
 **(a) Collection by return**
 
@@ -2683,7 +2683,7 @@ In the case of a controlled group of corporations, all corporations which are co
 
 Under regulations prescribed by the Secretary, principles similar to the principles of subparagraph (A) shall apply to a group of persons under common control where 1 or more of such persons is not a corporation.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1335; amended Pub. L. 94–455, title XIX, §§ 1905(a)(6), (b)(2)(E)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1819, 1822, 1834; Pub. L. 96–39, title VIII, §§ 804(b), 807(a)(9), July 26, 1979, 93 Stat. 274, 281; Pub. L. 98–369, div. A, title I, § 27(c)(1), July 18, 1984, 98 Stat. 509; Pub. L. 99–509, title VIII, § 8011(b)(1), Oct. 21, 1986, 100 Stat. 1952; Pub. L. 99–514, title XVIII, § 1801(c)(1), Oct. 22, 1986, 100 Stat. 2786; Pub. L. 100–647, title II, § 2003(b)(1)(A), (B), Nov. 10, 1988, 102 Stat. 3598; Pub. L. 101–508, title XI, §§ 11201(b)(3), 11704(a)(21), Nov. 5, 1990, 104 Stat. 1388–416, 1388–519; Pub. L. 103–465, title I, § 136(c)(5), title VII, § 712(b), Dec. 8, 1994, 108 Stat. 4842, 5000; Pub. L. 104–188, title I, § 1702(b)(6), Aug. 20, 1996, 110 Stat. 1869; Pub. L. 109–59, title XI, § 11127(a), (b), Aug. 10, 2005, 119 Stat. 1958, 1959; Pub. L. 114–113, div. Q, title III, § 332(a), Dec. 18, 2015, 129 Stat. 3104.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1335; amended Pub. L. 94–455, title XIX, §§ 1905(a)(6), (b)(2)(E)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1819, 1822, 1834; Pub. L. 96–39, title VIII, §§ 804(b), 807(a)(9), July 26, 1979, 93 Stat. 274, 281; Pub. L. 98–369, div. A, title I, § 27(c)(1), July 18, 1984, 98 Stat. 509; Pub. L. 99–509, title VIII, § 8011(b)(1), Oct. 21, 1986, 100 Stat. 1952; Pub. L. 99–514, title XVIII, § 1801(c)(1), Oct. 22, 1986, 100 Stat. 2786; Pub. L. 100–647, title II, § 2003(b)(1)(A), (B), Nov. 10, 1988, 102 Stat. 3598; Pub. L. 101–508, title XI, §§ 11201(b)(3), 11704(a)(21), Nov. 5, 1990, 104 Stat. 1388–416, 1388–519; Pub. L. 103–465, title I, § 136(c)(5), title VII, § 712(b), Dec. 8, 1994, 108 Stat. 4842, 5000; Pub. L. 104–188, title I, § 1702(b)(6), Aug. 20, 1996, 110 Stat. 1869; Pub. L. 109–59, title XI, § 11127(a), (b), Aug. 10, 2005, 119 Stat. 1958, 1959; Pub. L. 114–113, div. Q, title III, § 332(a), Dec. 18, 2015, 129 Stat. 3104.)
 
 **Editorial Notes**
 
@@ -2695,21 +2695,21 @@ Provisions similar to those comprising subsec. (d) of this section were containe
 
 **Amendments**
 
-2015—Subsec. (d)(4)(A). Pub. L. 114–113, § 332(a)(1), designated existing provisions as cl. (i), inserted heading, substituted “Except as provided in clause (ii), in the case of” for “In the case of”, struck out “under bond for deferred payment” before “shall be the 14th day”, and added cl. (ii).
+2015—Subsec. (d)(4)(A). Pub. L. 114–113, § 332(a)(1), designated existing provisions as cl. (i), inserted heading, substituted “Except as provided in clause (ii), in the case of” for “In the case of”, struck out “under bond for deferred payment” before “shall be the 14th day”, and added cl. (ii).
 
-Subsec. (d)(4)(B). Pub. L. 114–113, § 332(a)(2), designated existing provisions as cl. (i), inserted heading, substituted “Subparagraph (A)(i)” for “Subparagraph (A)”, and added cl. (ii).
+Subsec. (d)(4)(B). Pub. L. 114–113, § 332(a)(2), designated existing provisions as cl. (i), inserted heading, substituted “Subparagraph (A)(i)” for “Subparagraph (A)”, and added cl. (ii).
 
 2005—Subsec. (d)(4) to (6). Pub. L. 109–59 added par. (4), redesignated former pars. (4) and (5) as (5) and (6), respectively, and in par. (6) substituted “paragraph (5)” for “paragraph (4)”.
 
 1996—Subsec. (b)(3). Pub. L. 104–188 substituted “section 5041(f),” for “section 5041(e),”.
 
-1994—Subsec. (b)(1). Pub. L. 103–465, § 136(c)(5), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “section 5001(a)(5), (6), or (7),”.
+1994—Subsec. (b)(1). Pub. L. 103–465, § 136(c)(5), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “section 5001(a)(5), (6), or (7),”.
 
-Subsec. (d)(4). Pub. L. 103–465, § 712(b)(1), added par. (4). Former par. (4) redesignated (5).
+Subsec. (d)(4). Pub. L. 103–465, § 712(b)(1), added par. (4). Former par. (4) redesignated (5).
 
-Subsec. (d)(5). Pub. L. 103–465, § 712(b), redesignated par. (4) as (5), substituted “due date” for “14th day” in heading, and inserted “(or the immediately following day where the due date described in paragraph (4) falls on a Sunday)” before period at end.
+Subsec. (d)(5). Pub. L. 103–465, § 712(b), redesignated par. (4) as (5), substituted “due date” for “14th day” in heading, and inserted “(or the immediately following day where the due date described in paragraph (4) falls on a Sunday)” before period at end.
 
-1990—Subsec. (b)(3). Pub. L. 101–508, §§ 11201(b)(3), 11704(a)(21), amended par. (3) identically, substituting “section 5041(e)” for “section 5041(d)”.
+1990—Subsec. (b)(3). Pub. L. 101–508, §§ 11201(b)(3), 11704(a)(21), amended par. (3) identically, substituting “section 5041(e)” for “section 5041(d)”.
 
 1988—Subsec. (d)(2)(A), (B), (3). Pub. L. 100–647 substituted “last day of the semimonthly period during” for “date on”.
 
@@ -2719,29 +2719,29 @@ Subsec. (e)(3). Pub. L. 99–514 added par. (3).
 
 1984—Subsec. (e). Pub. L. 98–369 added subsec. (e).
 
-1979—Subsec. (a). Pub. L. 96–39, § 807(a)(9)(A), struck out “rectified distilled spirits and wines,” after “distilled spirits, wines,”.
+1979—Subsec. (a). Pub. L. 96–39, § 807(a)(9)(A), struck out “rectified distilled spirits and wines,” after “distilled spirits, wines,”.
 
-Subsec. (b). Pub. L. 96–39, § 807(a)(9)(B), in provisions preceding par. (1) struck out “rectified distilled spirits and wines” after “spirits, wines,” and redesignated pars. (4) to (7) as (3) to (6), respectively. Former par. (3), which made reference to section 5026(a)(2), was struck out.
+Subsec. (b). Pub. L. 96–39, § 807(a)(9)(B), in provisions preceding par. (1) struck out “rectified distilled spirits and wines” after “spirits, wines,” and redesignated pars. (4) to (7) as (3) to (6), respectively. Former par. (3), which made reference to section 5026(a)(2), was struck out.
 
-Subsec. (d). Pub. L. 96–39, § 804(b), added subsec. (d).
+Subsec. (d). Pub. L. 96–39, § 804(b), added subsec. (d).
 
-1976—Subsec. (a). Pub. L. 94–455, §§ 1905(a)(6)(A), 1906(b)(13)(A), struck out last sentence providing for continued payment of taxes by stamp until the Secretary shall by regulation provide for collection of the taxes on the basis of a return and struck out “or his delegate” after “Secretary”.
+1976—Subsec. (a). Pub. L. 94–455, §§ 1905(a)(6)(A), 1906(b)(13)(A), struck out last sentence providing for continued payment of taxes by stamp until the Secretary shall by regulation provide for collection of the taxes on the basis of a return and struck out “or his delegate” after “Secretary”.
 
-Subsec. (b). Pub. L. 94–455, § 1905(a)(6)(B), substituted the exceptions provisions for discretion method of collection providing that “Whether or not the method of collecting any tax imposed by this part is specifically provided in this part, any such tax may, under regulations prescribed by the Secretary or his delegate, be collected by stamp, coupon, serially-numbered ticket, or the use of tax-stamp machines, or by such other reasonable device or method as may be necessary or helpful in securing collection of the tax.”
+Subsec. (b). Pub. L. 94–455, § 1905(a)(6)(B), substituted the exceptions provisions for discretion method of collection providing that “Whether or not the method of collecting any tax imposed by this part is specifically provided in this part, any such tax may, under regulations prescribed by the Secretary or his delegate, be collected by stamp, coupon, serially-numbered ticket, or the use of tax-stamp machines, or by such other reasonable device or method as may be necessary or helpful in securing collection of the tax.”
 
-Subsec. (c). Pub. L. 94–455, § 1905(a)(6)(C), substituted the import duties provision for provision respecting applicability of other provisions of law and reading “All administrative and penalty provisions of this title, insofar as applicable, shall apply to the collection of any tax which the Secretary or his delegate determines or prescribes shall be collected in any manner provided in this section.”
+Subsec. (c). Pub. L. 94–455, § 1905(a)(6)(C), substituted the import duties provision for provision respecting applicability of other provisions of law and reading “All administrative and penalty provisions of this title, insofar as applicable, shall apply to the collection of any tax which the Secretary or his delegate determines or prescribes shall be collected in any manner provided in this section.”
 
-Subsec. (d). Pub. L. 94–455, § 1905(b)(2)(E)(iii), struck out subsec. (d) which provided cross reference to section 5689 for penalty and forfeiture for tampering with a stamp machine.
+Subsec. (d). Pub. L. 94–455, § 1905(b)(2)(E)(iii), struck out subsec. (d) which provided cross reference to section 5689 for penalty and forfeiture for tampering with a stamp machine.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–113, div. Q, title III, § 332(c), Dec. 18, 2015, 129 Stat. 3106, provided that: “The amendments made by this section [amending this section and sections 5173, 5351, 5401, and 5551 of this title] shall apply to any calendar quarters beginning more than 1 year after the date of the enactment of this Act [Dec. 18, 2015].”
+Pub. L. 114–113, div. Q, title III, § 332(c), Dec. 18, 2015, 129 Stat. 3106, provided that: “The amendments made by this section [amending this section and sections 5173, 5351, 5401, and 5551 of this title] shall apply to any calendar quarters beginning more than 1 year after the date of the enactment of this Act [Dec. 18, 2015].”
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–59, title XI, § 11127(c), Aug. 10, 2005, 119 Stat. 1959, provided that: “The amendments made by this section [amending this section] shall apply with respect to quarterly periods beginning on and after January 1, 2006.”
+Pub. L. 109–59, title XI, § 11127(c), Aug. 10, 2005, 119 Stat. 1959, provided that: “The amendments made by this section [amending this section] shall apply with respect to quarterly periods beginning on and after January 1, 2006.”
 
 **Effective Date of 1996 Amendment**
 
@@ -2751,7 +2751,7 @@ Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided
 
 Amendment by section 136(c)(5) of Pub. L. 103–465 effective Jan. 1, 1995, see section 136(d) of Pub. L. 103–465, set out as a note under section 5001 of this title.
 
-Pub. L. 103–465, title VII, § 712(e), Dec. 8, 1994, 108 Stat. 5001, provided that: “The amendments made by this section [amending this section and sections 5703 and 6302 of this title] shall take effect on January 1, 1995.”
+Pub. L. 103–465, title VII, § 712(e), Dec. 8, 1994, 108 Stat. 5001, provided that: “The amendments made by this section [amending this section and sections 5703 and 6302 of this title] shall take effect on January 1, 1995.”
 
 **Effective Date of 1990 Amendment**
 
@@ -2759,13 +2759,13 @@ Amendment by section 11201(b)(3) of Pub. L. 101–508 effective Jan. 1, 1991, se
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title II, § 2003(b)(2), Nov. 10, 1988, 102 Stat. 3598, provided that: “The amendments made by paragraph (1) [amending this section and section 5703 of this title] shall take effect as if included in the amendments made by section 8011 of the Omnibus Budget Reconciliation Act of 1986 [Pub. L. 99–509].”
+Pub. L. 100–647, title II, § 2003(b)(2), Nov. 10, 1988, 102 Stat. 3598, provided that: “The amendments made by paragraph (1) [amending this section and section 5703 of this title] shall take effect as if included in the amendments made by section 8011 of the Omnibus Budget Reconciliation Act of 1986 [Pub. L. 99–509].”
 
 **Effective Date of 1986 Amendments**
 
 Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
-Pub. L. 99–509, title VIII, § 8011(c), Oct. 21, 1986, 100 Stat. 1953, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 99–509, title VIII, § 8011(c), Oct. 21, 1986, 100 Stat. 1953, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [amending this section and sections 5054, 5703, and 5704 of this title] shall apply to removals during semimonthly periods ending on or after December 31, 1986.
 
@@ -2801,13 +2801,13 @@ Amendment by section 1905(a)(6), (b)(2)(E)(iii) of Pub. L. 94–455 effective on
 
 Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 **Transitional Rules Relating to Determination and Payment of Tax**
 
-Pub. L. 96–39, title VIII, § 808, July 26, 1979, 93 Stat. 291, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 96–39, title VIII, § 808, July 26, 1979, 93 Stat. 291, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(a) Liability for Payment of Tax.—** Except as otherwise provided in this section, the tax on all distilled spirits which have been withdrawn from bond on determination of tax and on which tax has not been paid by the close of December 31, 1979, shall become due on January 1, 1980, and shall be payable in accordance with section 5061 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954].
 
@@ -2837,7 +2837,7 @@ Pub. L. 96–39, title VIII, § 808, July 26, 1979, 93 Stat. 291, as amended b
 
 > **“(f) Secretary Defined.—** For purposes of this section, the term ‘Secretary’ means the Secretary of the Treasury or his delegate.”
 
-##### § 5062. Refund and drawback in case of exportation
+##### § 5062. Refund and drawback in case of exportation
 
 **(a) Refund**
 
@@ -2857,7 +2857,7 @@ Upon the exportation of imported distilled spirits, wines, and beer upon which t
 
 At the option of the importer, such imported distilled spirits, wines, and beer, after return to customs custody, may be destroyed under customs supervision and the importer thereof granted relief in the same manner and to the same extent as provided in this subsection upon exportation.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1336; amended Pub. L. 88–539, § 1, Aug. 31, 1964, 78 Stat. 746; Pub. L. 89–44, title VIII, § 805(f)(6), June 21, 1965, 79 Stat. 161; Pub. L. 90–630, § 2(a), Oct. 22, 1968, 82 Stat. 1328; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, § 1, Nov. 14, 1977, 91 Stat. 1363; Pub. L. 98–369, div. A, title IV, § 454(c)(1), July 18, 1984, 98 Stat. 820.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1336; amended Pub. L. 88–539, § 1, Aug. 31, 1964, 78 Stat. 746; Pub. L. 89–44, title VIII, § 805(f)(6), June 21, 1965, 79 Stat. 161; Pub. L. 90–630, § 2(a), Oct. 22, 1968, 82 Stat. 1328; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, § 1, Nov. 14, 1977, 91 Stat. 1363; Pub. L. 98–369, div. A, title IV, § 454(c)(1), July 18, 1984, 98 Stat. 820.)
 
 **Editorial Notes**
 
@@ -2899,11 +2899,11 @@ Amendment by Pub. L. 89–44 effective July 1, 1965, see section 805(g)(1) of Pu
 
 **Effective Date of 1964 Amendment**
 
-Pub. L. 88–539, § 2, Aug. 31, 1964, 78 Stat. 746, provided that: “The amendment made by the first section of this Act [amending this section] shall apply with respect to articles exported or destroyed after the date of the enactment of this Act [Aug. 31, 1964].”
+Pub. L. 88–539, § 2, Aug. 31, 1964, 78 Stat. 746, provided that: “The amendment made by the first section of this Act [amending this section] shall apply with respect to articles exported or destroyed after the date of the enactment of this Act [Aug. 31, 1964].”
 
-##### [§ 5063. Repealed. Pub. L. 89–44, title V, § 501(e), June 21, 1965, 79 Stat. 150]
+##### [§ 5063. Repealed. Pub. L. 89–44, title V, § 501(e), June 21, 1965, 79 Stat. 150]
 
-Section, Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1336; Pub. L. 86–75, § 3(b)(1), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, § 202(b)(1), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, § 3(b)(1), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, § 3(b)(1), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, § 3(b)(1)(A), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, § 2(b)(1)(A), June 30, 1964, 78 Stat. 237, made provision for floor stocks refunds on distilled spirits, wines, cordials, and beer and set out limitations on the eligibility for such refunds or credits.
+Section, Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1336; Pub. L. 86–75, § 3(b)(1), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, § 202(b)(1), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, § 3(b)(1), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, § 3(b)(1), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, § 3(b)(1)(A), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, § 2(b)(1)(A), June 30, 1964, 78 Stat. 237, made provision for floor stocks refunds on distilled spirits, wines, cordials, and beer and set out limitations on the eligibility for such refunds or credits.
 
 A prior section 5063, act Aug. 16, 1954, ch. 736, 68A Stat. 615, consisted of provisions similar to those comprising section 5063, prior to the general revision of this chapter by Pub. L. 85–859.
 
@@ -2913,7 +2913,7 @@ A prior section 5063, act Aug. 16, 1954, ch. 736, 68A Stat. 615, consisted of pr
 
 Repeal applicable on and after July 1, 1965, see section 701(d) of Pub. L. 89–44, set out as an Effective Date of 1965 Amendment note under section 5701 of this title.
 
-##### § 5064. Losses resulting from disaster, vandalism, or malicious mischief
+##### § 5064. Losses resulting from disaster, vandalism, or malicious mischief
 
 **(a) Payments** The Secretary, under such regulations as he may prescribe, shall pay (without interest) an amount equal to the amount of the internal revenue taxes paid or determined and customs duties paid on distilled spirits, wines, and beer previously withdrawn, which were lost, rendered unmarketable, or condemned by a duly authorized official by reason of—
 
@@ -2961,13 +2961,13 @@ The provisions of this section shall not be applicable in respect of distilled s
 
 All provisions of law, including penalties, applicable in respect of internal revenue taxes on distilled spirits, wines, and beer shall, insofar as applicable and not inconsistent with this section, be applied in respect of the payments provided for in this section to the same extent as if such payments constituted refunds of such taxes.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1337; amended Pub. L. 91–606, title III, § 301(i), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 93–288, title VII, § 702(i), formerly title VI, § 602(i), May 22, 1974, 88 Stat. 164, renumbered title VII, § 702(i), Pub. L. 103–337, div. C, title XXXIV, § 3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–423, § 1(a), Oct. 6, 1978, 92 Stat. 935; Pub. L. 96–39, title VIII, § 807(a)(10), July 26, 1979, 93 Stat. 282; Pub. L. 100–707, title I, § 109(*l*), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 108–311, title IV, § 408(a)(7)(D), Oct. 4, 2004, 118 Stat. 1191.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1337; amended Pub. L. 91–606, title III, § 301(i), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 93–288, title VII, § 702(i), formerly title VI, § 602(i), May 22, 1974, 88 Stat. 164, renumbered title VII, § 702(i), Pub. L. 103–337, div. C, title XXXIV, § 3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–423, § 1(a), Oct. 6, 1978, 92 Stat. 935; Pub. L. 96–39, title VIII, § 807(a)(10), July 26, 1979, 93 Stat. 282; Pub. L. 100–707, title I, § 109(*l*), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 108–311, title IV, § 408(a)(7)(D), Oct. 4, 2004, 118 Stat. 1191.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(3), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(3), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 **Prior Provisions**
 
@@ -3001,7 +3001,7 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–423, § 1(c), Oct. 6, 1978, 92 Stat. 936, provided that: “The amendments made by this section [amending this section] shall apply to disasters (or other damage) occurring on or after the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act [Oct. 6, 1978].”
+Pub. L. 95–423, § 1(c), Oct. 6, 1978, 92 Stat. 936, provided that: “The amendments made by this section [amending this section] shall apply to disasters (or other damage) occurring on or after the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act [Oct. 6, 1978].”
 
 **Effective Date of 1974 Amendment**
 
@@ -3017,21 +3017,21 @@ Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set o
 
 **Exception to Effective Date**
 
-Pub. L. 85–859, title II, § 210(a)(3), Sept. 2, 1958, 72 Stat. 1435, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Provisions having the effect of section 5064 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as such section is included in chapter 51 of such Code as amended by section 201 of this Act) shall be deemed to be included in the Internal Revenue Code of 1986, effective on the day following the date of the enactment of this Act [Sept. 2, 1958], and shall apply with respect to disasters occurring after such date of enactment, and not later than June 30, 1959.”
+Pub. L. 85–859, title II, § 210(a)(3), Sept. 2, 1958, 72 Stat. 1435, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Provisions having the effect of section 5064 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as such section is included in chapter 51 of such Code as amended by section 201 of this Act) shall be deemed to be included in the Internal Revenue Code of 1986, effective on the day following the date of the enactment of this Act [Sept. 2, 1958], and shall apply with respect to disasters occurring after such date of enactment, and not later than June 30, 1959.”
 
 **Beer Lost by Reason of Floods of 1951 or Hurricanes of 1954**
 
-Pub. L. 85–859, title II, § 207, Sept. 2, 1958, 72 Stat. 1432, provided for payment of an amount equal to the amount of taxes paid under section 3150(a) of the Internal Revenue Code of 1939 on fermented malt liquor which was lost, rendered unmarketable, or condemned by reason of the floods of 1951 or the hurricanes of 1954, under certain conditions and under regulations to be prescribed.
+Pub. L. 85–859, title II, § 207, Sept. 2, 1958, 72 Stat. 1432, provided for payment of an amount equal to the amount of taxes paid under section 3150(a) of the Internal Revenue Code of 1939 on fermented malt liquor which was lost, rendered unmarketable, or condemned by reason of the floods of 1951 or the hurricanes of 1954, under certain conditions and under regulations to be prescribed.
 
 **Losses of Alcoholic Liquors Caused by Disaster**
 
-Pub. L. 85–859, title II, § 208, Sept. 2, 1958, 72 Stat. 1432, provided for payment of an amount equal to the amount of taxes and customs duties paid on distilled spirits, wines, rectified products, and beer previously withdrawn, which were lost, rendered unmarketable, or condemned by reason of a major disaster occurring after Dec. 31, 1954, and not later than Sept. 2, 1958, under certain conditions and under regulations to be prescribed.
+Pub. L. 85–859, title II, § 208, Sept. 2, 1958, 72 Stat. 1432, provided for payment of an amount equal to the amount of taxes and customs duties paid on distilled spirits, wines, rectified products, and beer previously withdrawn, which were lost, rendered unmarketable, or condemned by reason of a major disaster occurring after Dec. 31, 1954, and not later than Sept. 2, 1958, under certain conditions and under regulations to be prescribed.
 
-##### § 5065. Territorial extent of law
+##### § 5065. Territorial extent of law
 
 The provisions of this part imposing taxes on distilled spirits, wines, and beer shall be held to extend to such articles produced anywhere within the exterior boundaries of the United States, whether the same be within an internal revenue district or not.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1337.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1337.)
 
 **Editorial Notes**
 
@@ -3041,7 +3041,7 @@ A prior section 5065, act Aug. 16, 1954, ch. 736, 68A Stat. 615, made a cross re
 
 Provisions similar to those comprising this section were contained in former section 5064, act Aug. 16, 1954, ch. 736, 68A Stat. 615, prior to the general revision of this chapter by Pub. L. 85–859.
 
-##### § 5066. Distilled spirits for use of foreign embassies, legations, etc.
+##### § 5066. Distilled spirits for use of foreign embassies, legations, etc.
 
 **(a) Entry into customs bonded warehouses**
 
@@ -3069,7 +3069,7 @@ Distilled spirits entered into customs bonded warehouses as authorized by this s
 
 No distilled spirits withdrawn from customs bonded warehouses or otherwise brought into the United States free of tax for the official or family use of such foreign governments, organizations, or individuals as are authorized to obtain distilled spirits free of tax shall be sold, or shall be disposed of or possessed for any use other than an authorized use. The provisions of section 5001(a)(4) are hereby extended and made applicable to any person selling, disposing of, or possessing any distilled spirits in violation of the preceding sentence, and to the distilled spirits involved in any such violation.
 
-(Added Pub. L. 91–659, § 3(a), Jan. 8, 1971, 84 Stat. 1965; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, § 2(d), Nov. 14, 1977, 91 Stat. 1364; Pub. L. 96–39, title VIII, § 807(a)(11), July 26, 1979, 93 Stat. 282; Pub. L. 98–369, div. A, title IV, § 454(c)(2), July 18, 1984, 98 Stat. 820; Pub. L. 115–141, div. U, title IV, § 401(a)(240), Mar. 23, 2018, 132 Stat. 1195.)
+(Added Pub. L. 91–659, § 3(a), Jan. 8, 1971, 84 Stat. 1965; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, § 2(d), Nov. 14, 1977, 91 Stat. 1364; Pub. L. 96–39, title VIII, § 807(a)(11), July 26, 1979, 93 Stat. 282; Pub. L. 98–369, div. A, title IV, § 454(c)(2), July 18, 1984, 98 Stat. 820; Pub. L. 115–141, div. U, title IV, § 401(a)(240), Mar. 23, 2018, 132 Stat. 1195.)
 
 **Editorial Notes**
 
@@ -3083,9 +3083,9 @@ A prior section 5066 was renumbered 5068 of this title.
 
 1984—Subsec. (a)(2). Pub. L. 98–369 substituted “marked” for “stamped or restamped, and marked,”.
 
-1979—Subsec. (a)(1). Pub. L. 96–39, § 807(a)(11)(A), substituted “bottled distilled spirits” for “distilled spirits bottled in bond for export under the provisions of section 5233, or bottled distilled spirits returned to bonded premises under section 5215(b),”.
+1979—Subsec. (a)(1). Pub. L. 96–39, § 807(a)(11)(A), substituted “bottled distilled spirits” for “distilled spirits bottled in bond for export under the provisions of section 5233, or bottled distilled spirits returned to bonded premises under section 5215(b),”.
 
-Subsec. (b). Pub. L. 96–39, § 807(a)(11)(B), struck out “or domestic distilled spirits transferred to customs bonded warehouses under section 5521(d)(2)” after “the provisions of subsection (a)”.
+Subsec. (b). Pub. L. 96–39, § 807(a)(11)(B), struck out “or domestic distilled spirits transferred to customs bonded warehouses under section 5521(d)(2)” after “the provisions of subsection (a)”.
 
 1977—Subsec. (a)(1). Pub. L. 95–176 substituted par. (1) heading “Bottled distilled spirits withdrawn from bonded premises” for “Distilled spirits bottled in bond for export” and authorized withdrawal of bottled distilled spirits returned to bonded premises under section 5215(b) as provided in section 5214(a)(4).
 
@@ -3107,9 +3107,9 @@ Amendment by Pub. L. 95–176 effective on first day of first calendar month beg
 
 **Effective Date**
 
-Pub. L. 91–659, § 6, Jan. 8, 1971, 84 Stat. 1966, provided that: “This Act [enacting this section and amending sections 5008, 5173, 5178, 5215, and 5232 of this title] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act [Jan. 8, 1971].”
+Pub. L. 91–659, § 6, Jan. 8, 1971, 84 Stat. 1966, provided that: “This Act [enacting this section and amending sections 5008, 5173, 5178, 5215, and 5232 of this title] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act [Jan. 8, 1971].”
 
-##### § 5067. Reduced rates not allowed for smuggled or illegally produced beer, wine, or spirits
+##### § 5067. Reduced rates not allowed for smuggled or illegally produced beer, wine, or spirits
 
 In the case of beer, wine, or distilled spirits that are smuggled into the United States or produced other than as authorized by this chapter—
 
@@ -3119,7 +3119,7 @@ In the case of beer, wine, or distilled spirits that are smuggled into the Unite
 
 **(3)** the rates of tax under section 5001(c) shall not apply in the case of any such distilled spirits.
 
-(Added Pub. L. 116–260, div. EE, title I, § 108(a), Dec. 27, 2020, 134 Stat. 3049.)
+(Added Pub. L. 116–260, div. EE, title I, § 108(a), Dec. 27, 2020, 134 Stat. 3049.)
 
 **Editorial Notes**
 
@@ -3131,13 +3131,13 @@ A prior section 5067 was renumbered section 5068 of this title.
 
 **Effective Date**
 
-Pub. L. 116–260, div. EE, title I, § 108(c), Dec. 27, 2020, 134 Stat. 3049, provided that: “The amendments made by this section [enacting this section and transferring former section 5067 of this title to section 5068 of this title] shall apply to beer, wine, or distilled spirits, as the case may be, produced after the date of the enactment of this Act [Dec. 27, 2020].”
+Pub. L. 116–260, div. EE, title I, § 108(c), Dec. 27, 2020, 134 Stat. 3049, provided that: “The amendments made by this section [enacting this section and transferring former section 5067 of this title to section 5068 of this title] shall apply to beer, wine, or distilled spirits, as the case may be, produced after the date of the enactment of this Act [Dec. 27, 2020].”
 
-##### § 5068. Cross reference
+##### § 5068. Cross reference
 
 For general administrative provisions applicable to the assessment, collection, refund, etc., of taxes, see subtitle F.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1338, § 5066; renumbered § 5067, Pub. L. 91–659, § 3(a), Jan. 8, 1971, 84 Stat. 1965; renumbered § 5068, Pub. L. 116–260, div. EE, title I, § 108(a), Dec. 27, 2020, 134 Stat. 3049.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1338, § 5066; renumbered § 5067, Pub. L. 91–659, § 3(a), Jan. 8, 1971, 84 Stat. 1965; renumbered § 5068, Pub. L. 116–260, div. EE, title I, § 108(a), Dec. 27, 2020, 134 Stat. 3049.)
 
 **Editorial Notes**
 
@@ -3145,33 +3145,33 @@ For general administrative provisions applicable to the assessment, collection, 
 
 Provisions similar to those comprising this section were contained in former section 5065, act Aug. 16, 1954, ch. 736, 68A Stat. 615, prior to the general revision of this chapter by Pub. L. 85–859.
 
-A prior section 5081, added Pub. L. 100–203, title X, § 10512(a)(1)(A), Dec. 22, 1987, 101 Stat. 1330–447; amended Pub. L. 100–647, title VI, § 6106(a), (b), Nov. 10, 1988, 102 Stat. 3712, related to tax on proprietors of distilled spirits plants, bonded wine cellars, etc., prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(A), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
+A prior section 5081, added Pub. L. 100–203, title X, § 10512(a)(1)(A), Dec. 22, 1987, 101 Stat. 1330–447; amended Pub. L. 100–647, title VI, § 6106(a), (b), Nov. 10, 1988, 102 Stat. 3712, related to tax on proprietors of distilled spirits plants, bonded wine cellars, etc., prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(A), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
 
-Another prior section 5081, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1338, imposed a tax on rectifiers of distilled spirits or wines, prior to repeal by Pub. L. 96–39, title VIII, §§ 803(b), 810, July 26, 1979, 93 Stat. 274, 292, effective Jan. 1, 1980.
+Another prior section 5081, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1338, imposed a tax on rectifiers of distilled spirits or wines, prior to repeal by Pub. L. 96–39, title VIII, §§ 803(b), 810, July 26, 1979, 93 Stat. 274, 292, effective Jan. 1, 1980.
 
 Another prior section 5081, act Aug. 16, 1954, ch. 736, 68A Stat. 615, imposed a tax on rectifiers of distilled spirits or wines, prior to the general revision of this chapter by Pub. L. 85–859.
 
-A prior section 5082, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1338, defined “rectifier”, prior to repeal by Pub. L. 96–39, title VIII, §§ 803(b), 810, July 26, 1979, 93 Stat. 274, 292, effective Jan. 1, 1980.
+A prior section 5082, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1338, defined “rectifier”, prior to repeal by Pub. L. 96–39, title VIII, §§ 803(b), 810, July 26, 1979, 93 Stat. 274, 292, effective Jan. 1, 1980.
 
 Another prior section 5082, act Aug. 16, 1954, ch. 736, 68A Stat. 616, defined “rectifier”, prior to the general revision of this chapter by Pub. L. 85–859.
 
-A prior section 5083, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1338; amended Pub. L. 89–44, title VIII, § 805(f)(7), June 21, 1965, 79 Stat. 161, enumerated source authority for certain exemptions from tax under sections 5021 and 5081 of this title, prior to repeal by Pub. L. 96–39, title VIII, §§ 803(b), 810, July 26, 1979, 93 Stat. 274, 292, effective Jan. 1, 1980.
+A prior section 5083, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1338; amended Pub. L. 89–44, title VIII, § 805(f)(7), June 21, 1965, 79 Stat. 161, enumerated source authority for certain exemptions from tax under sections 5021 and 5081 of this title, prior to repeal by Pub. L. 96–39, title VIII, §§ 803(b), 810, July 26, 1979, 93 Stat. 274, 292, effective Jan. 1, 1980.
 
 Another prior section 5083, act Aug. 16, 1954, ch. 736, 68A Stat. 616, enumerated source authority for certain exemptions from tax under sections 5021 and 5081 of this title, prior to the general revision of this chapter by Pub. L. 85–859.
 
-A prior section 5084, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1339, made cross references to other provisions relating to rectification, prior to repeal by Pub. L. 96–39, title VIII, §§ 803(b), 810, July 26, 1979, 93 Stat. 274, 292, effective Jan. 1, 1980.
+A prior section 5084, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1339, made cross references to other provisions relating to rectification, prior to repeal by Pub. L. 96–39, title VIII, §§ 803(b), 810, July 26, 1979, 93 Stat. 274, 292, effective Jan. 1, 1980.
 
 Another prior section 5084, act Aug. 16, 1954, ch. 736, 68A Stat. 616, made cross references to other provisions relating to rectification, prior to the general revision of this chapter by Pub. L. 85–859.
 
-A prior section 5091, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1339; amended Pub. L. 100–203, title X, § 10512(a)(2), Dec. 22, 1987, 101 Stat. 1330–448, related to imposition of tax on brewers, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(B), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
+A prior section 5091, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1339; amended Pub. L. 100–203, title X, § 10512(a)(2), Dec. 22, 1987, 101 Stat. 1330–448, related to imposition of tax on brewers, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(B), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
 
 Another prior section 5091, act Aug. 16, 1954, ch. 736, 68A Stat. 616, related to imposition of tax on brewers, prior to the general revision of this chapter by Pub. L. 85–859.
 
-A prior section 5092, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1339; amended Pub. L. 95–458, § 2(b)(3), Oct. 14, 1978, 92 Stat. 1256, defined “brewer”, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(B), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
+A prior section 5092, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1339; amended Pub. L. 95–458, § 2(b)(3), Oct. 14, 1978, 92 Stat. 1256, defined “brewer”, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(B), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
 
 Another prior section 5092, act Aug. 16, 1954, ch. 736, 68A Stat. 617, defined “brewer”, prior to the general revision of this chapter by Pub. L. 85–859.
 
-A prior section 5093, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1339, set out cross references, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(B), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
+A prior section 5093, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1339, set out cross references, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(B), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
 
 Another prior section 5093, act Aug. 16, 1954, ch. 736, 68A Stat. 617, set out cross references, prior to the general revision of this chapter by Pub. L. 85–859.
 
@@ -3181,17 +3181,17 @@ Another prior section 5093, act Aug. 16, 1954, ch. 736, 68A Stat. 617, set out c
 
 **Prior Provisions**
 
-A prior part II, consisting of subparts A to G, related to occupational tax, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior part II, consisting of subparts A to G, related to occupational tax, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
 **Amendments**
 
-2018—Pub. L. 115–141, div. U, title IV, § 401(a)(241), Mar. 23, 2018, 132 Stat. 1195, substituted “Recordkeeping and registration by dealers” for “Recordkeeping by dealers.” in item for subpart C.
+2018—Pub. L. 115–141, div. U, title IV, § 401(a)(241), Mar. 23, 2018, 132 Stat. 1195, substituted “Recordkeeping and registration by dealers” for “Recordkeeping by dealers.” in item for subpart C.
 
-2005—Pub. L. 109–59, title XI, § 11125(b)(1)(A), Aug. 10, 2005, 119 Stat. 1953, amended part heading and table of subparts generally, substituting “MISCELLANEOUS PROVISIONS” for “OCCUPATIONAL TAX” in part heading, “Manufacturers of stills” for “Proprietors of distilled spirits plants, bonded wine cellars, etc.” in item for subpart A, “Nonbeverage domestic drawback claimants” for “Brewer” in item for subpart B, “Recordkeeping by dealers” for “Manufacturers of stills” in item for subpart C, and “Other provisions” for “Wholesale dealers” in item for subpart D and striking out items for subparts E “Retail dealers”, F “Nonbeverage domestic drawback claimants”, and G “General provisions”.
+2005—Pub. L. 109–59, title XI, § 11125(b)(1)(A), Aug. 10, 2005, 119 Stat. 1953, amended part heading and table of subparts generally, substituting “MISCELLANEOUS PROVISIONS” for “OCCUPATIONAL TAX” in part heading, “Manufacturers of stills” for “Proprietors of distilled spirits plants, bonded wine cellars, etc.” in item for subpart A, “Nonbeverage domestic drawback claimants” for “Brewer” in item for subpart B, “Recordkeeping by dealers” for “Manufacturers of stills” in item for subpart C, and “Other provisions” for “Wholesale dealers” in item for subpart D and striking out items for subparts E “Retail dealers”, F “Nonbeverage domestic drawback claimants”, and G “General provisions”.
 
-1987—Pub. L. 100–203, title X, § 10512(a)(1)(C), Dec. 22, 1987, 101 Stat. 1330–448, added item for subpart A.
+1987—Pub. L. 100–203, title X, § 10512(a)(1)(C), Dec. 22, 1987, 101 Stat. 1330–448, added item for subpart A.
 
-1979—Pub. L. 96–39, title VIII, § 807(b)(3), July 26, 1979, 93 Stat. 290, struck out item for subpart A “Rectifier” in table of subparts comprising part II.
+1979—Pub. L. 96–39, title VIII, § 807(b)(3), July 26, 1979, 93 Stat. 290, struck out item for subpart A “Rectifier” in table of subparts comprising part II.
 
 #### Subpart A—Manufacturers of Stills
 
@@ -3199,15 +3199,15 @@ A prior part II, consisting of subparts A to G, related to occupational tax, pri
 
 **Prior Provisions**
 
-A prior subpart A, consisting of section 5081 of this title, related to proprietors of distilled spirits plants, bonded wine cellars, etc., prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(A), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
+A prior subpart A, consisting of section 5081 of this title, related to proprietors of distilled spirits plants, bonded wine cellars, etc., prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(A), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
 
-Another prior subpart A, consisting of sections 5081 to 5084 of this title, related to rectifiers of distilled spirits or wines, prior to repeal by Pub. L. 96–39, title VIII, §§ 803(b), 810, July 26, 1979, 93 Stat. 274, 292, effective Jan. 1, 1980.
+Another prior subpart A, consisting of sections 5081 to 5084 of this title, related to rectifiers of distilled spirits or wines, prior to repeal by Pub. L. 96–39, title VIII, §§ 803(b), 810, July 26, 1979, 93 Stat. 274, 292, effective Jan. 1, 1980.
 
 **Amendments**
 
-2005—Pub. L. 109–59, title XI, § 11125(b)(2), Aug. 10, 2005, 119 Stat. 1953, redesignated subpart C of this part as this subpart.
+2005—Pub. L. 109–59, title XI, § 11125(b)(2), Aug. 10, 2005, 119 Stat. 1953, redesignated subpart C of this part as this subpart.
 
-##### § 5101. Notice of manufacture of still; notice of set up of still
+##### § 5101. Notice of manufacture of still; notice of set up of still
 
 **(a) Notice requirements**
 
@@ -3225,13 +3225,13 @@ The Secretary may, pursuant to regulations, require that no still, boiler, or ot
 
 **(2)** For penalty and forfeiture for failure to register still or distilling apparatus when set up, see section 5601(a)(1) and 5615(1).
 
-(Added Pub. L. 98–369, div. A, title IV, § 451(a), July 18, 1984, 98 Stat. 818.)
+(Added Pub. L. 98–369, div. A, title IV, § 451(a), July 18, 1984, 98 Stat. 818.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5101, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1339, contained provisions relating to imposition and rate of tax, prior to the general revision of this subpart by Pub. L. 98–369.
+A prior section 5101, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1339, contained provisions relating to imposition and rate of tax, prior to the general revision of this subpart by Pub. L. 98–369.
 
 Another prior section 5101, act Aug. 16, 1954, ch. 736, 68A Stat. 617, related to special tax on manufacturers of stills, prior to the general revision of this chapter by Pub. L. 85–859.
 
@@ -3239,9 +3239,9 @@ Another prior section 5101, act Aug. 16, 1954, ch. 736, 68A Stat. 617, related t
 
 **Effective Date**
 
-Pub. L. 98–369, div. A, title IV, § 456, July 18, 1984, 98 Stat. 823, as amended by Pub. L. 99–514, title XVIII, § 1845, Oct. 22, 1986, 100 Stat. 2856, provided that:
+Pub. L. 98–369, div. A, title IV, § 456, July 18, 1984, 98 Stat. 823, as amended by Pub. L. 99–514, title XVIII, § 1845, Oct. 22, 1986, 100 Stat. 2856, provided that:
 
-> **“(a) In General.—** Except as otherwise provided in this section the amendments made by this part [part II (§§ 451–456) of subtitle D of title IV of div. A of Pub. L. 98–369, enacting this section and section 5102 of this title, amending sections 5005, 5062, 5066, 5116, 5134, 5179, 5204, 5206, 5207, 5214, 5215, 5235, 5301, 5354, 5555, 5604, 5613, 5615, 5691, 6103, 6801, and 7213 of this title, repealing section 5205 of this title, and omitting sections 5103, 5105, and 5106 of this title] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act [July 18, 1984].
+> **“(a) In General.—** Except as otherwise provided in this section the amendments made by this part [part II (§§ 451–456) of subtitle D of title IV of div. A of Pub. L. 98–369, enacting this section and section 5102 of this title, amending sections 5005, 5062, 5066, 5116, 5134, 5179, 5204, 5206, 5207, 5214, 5215, 5235, 5301, 5354, 5555, 5604, 5613, 5615, 5691, 6103, 6801, and 7213 of this title, repealing section 5205 of this title, and omitting sections 5103, 5105, and 5106 of this title] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act [July 18, 1984].
 
 > **“(b) Repeal of Stamp Requirement.—** The amendments made by section 454 [amending sections 5062, 5066, 5116, 5204, 5206, 5207, 5215, 5235, 5301, 5555, 5604, 5613, and 6801 of this title and repealing section 5205 of this title] shall take effect on July 1, 1985.
 
@@ -3249,33 +3249,33 @@ Pub. L. 98–369, div. A, title IV, § 456, July 18, 1984, 98 Stat. 823, as am
 
 > **“(d) Section 452.—** The amendment made by section 452 [amending section 5134 of this title] shall apply to products manufactured or produced after October 31, 1984.”
 
-##### § 5102. Definition of manufacturer of stills
+##### § 5102. Definition of manufacturer of stills
 
 Any person who manufactures any still or condenser to be used in distilling shall be deemed a manufacturer of stills.
 
-(Added Pub. L. 98–369, div. A, title IV, § 451(a), July 18, 1984, 98 Stat. 819.)
+(Added Pub. L. 98–369, div. A, title IV, § 451(a), July 18, 1984, 98 Stat. 819.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5102, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1339, defined manufacturer of stills, prior to the general revision of this subpart by Pub. L. 98–369.
+A prior section 5102, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1339, defined manufacturer of stills, prior to the general revision of this subpart by Pub. L. 98–369.
 
 Another prior section 5102, act Aug. 16, 1954, ch. 736, 68A Stat. 617, defined manufacturer of stills, prior to the general revision of this chapter by Pub. L. 85–859.
 
-A prior section 5103, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1339, related to exemptions from the taxes imposed by section 5101 of this title, prior to the general revision of this subpart by Pub. L. 98–369.
+A prior section 5103, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1339, related to exemptions from the taxes imposed by section 5101 of this title, prior to the general revision of this subpart by Pub. L. 98–369.
 
 Another prior section 5103, act Aug. 16, 1954, ch. 736, 68A Stat. 617, related to exemptions from taxes imposed by section 5101 of this title, prior to the general revision of this chapter by Pub. L. 85–859.
 
-A prior section 5104, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1339, provided that the tax imposed on stills or condensers by section 5101 be paid by stamp, denoting the tax, under regulations prescribed by Secretary or his delegate, prior to repeal by Pub. L. 94–455, title XIX, § 1905(b)(3)(A)(i), Oct. 4, 1976, 90 Stat. 1822, effective on first day of first month which began more than 90 days after Oct. 4, 1976.
+A prior section 5104, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1339, provided that the tax imposed on stills or condensers by section 5101 be paid by stamp, denoting the tax, under regulations prescribed by Secretary or his delegate, prior to repeal by Pub. L. 94–455, title XIX, § 1905(b)(3)(A)(i), Oct. 4, 1976, 90 Stat. 1822, effective on first day of first month which began more than 90 days after Oct. 4, 1976.
 
 Another prior section 5104, act Aug. 16, 1954, ch. 736, 68A Stat. 617, required taxes to be paid by stamps, prior to the general revision of this chapter by Pub. L. 85–859.
 
-A prior section 5105, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1339; amended Pub. L. 94–455, title XIX, §§ 1905(b)(6)(A), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1823, 1834, related to notice of manufacturer of and permit to set up still, prior to the general revision of this subpart by Pub. L. 98–369. See section 5101 of this title.
+A prior section 5105, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1339; amended Pub. L. 94–455, title XIX, §§ 1905(b)(6)(A), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1823, 1834, related to notice of manufacturer of and permit to set up still, prior to the general revision of this subpart by Pub. L. 98–369. See section 5101 of this title.
 
 Another prior section 5105, act Aug. 16, 1954, ch. 736, 68A Stat. 617, related to notice of manufacture of and permit to set up still, prior to the general revision of this chapter by Pub. L. 85–859.
 
-A prior section 5106, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1340; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to export without payment of tax and export with the privilege of drawback, prior to the general revision of this subpart by Pub. L. 98–369.
+A prior section 5106, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1340; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to export without payment of tax and export with the privilege of drawback, prior to the general revision of this subpart by Pub. L. 98–369.
 
 Another prior section 5106, act Aug. 16, 1954, ch. 736, 68A Stat. 618, related to payment of tax and drawback on exports, prior to the general revision of this chapter by Pub. L. 85–859.
 
@@ -3291,37 +3291,37 @@ Section effective on first day of first calendar month which begins more than 90
 
 **Prior Provisions**
 
-A prior subpart B, consisting of sections 5091 to 5093, related to brewers, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(B), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
+A prior subpart B, consisting of sections 5091 to 5093, related to brewers, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(B), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
 
-Another prior subpart B, consisting of sections 5091 to 5093, related to brewers, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+Another prior subpart B, consisting of sections 5091 to 5093, related to brewers, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
 **Amendments**
 
-2005—Pub. L. 109–59, title XI, § 11125(b)(3)(A), (B), Aug. 10, 2005, 119 Stat. 1953, redesignated subpart F of this part as this subpart, renumbered items 5131 to 5134 as 5111 to 5114, respectively, and struck out “and rate of tax” after “Eligibility” in item 5111.
+2005—Pub. L. 109–59, title XI, § 11125(b)(3)(A), (B), Aug. 10, 2005, 119 Stat. 1953, redesignated subpart F of this part as this subpart, renumbered items 5131 to 5134 as 5111 to 5114, respectively, and struck out “and rate of tax” after “Eligibility” in item 5111.
 
-1997—Pub. L. 105–34, title XIV, § 1415(b)(3), Aug. 5, 1997, 111 Stat. 1047, struck out item 5115 “Sign required on premises”.
+1997—Pub. L. 105–34, title XIV, § 1415(b)(3), Aug. 5, 1997, 111 Stat. 1047, struck out item 5115 “Sign required on premises”.
 
-##### § 5111. Eligibility
+##### § 5111. Eligibility
 
 Any person using distilled spirits on which the tax has been determined, in the manufacture or production of medicines, medicinal preparations, food products, flavors, flavoring extracts, or perfume, which are unfit for beverage purposes shall be eligible for drawback at the time when such distilled spirits are used in the manufacture of such products as provided for in this subpart.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1345, § 5131; amended Pub. L. 94–455, title XIX, § 1905(a)(11), Oct. 4, 1976, 90 Stat. 1819; Pub. L. 100–203, title X, § 10512(d), Dec. 22, 1987, 101 Stat. 1330–448; Pub. L. 103–465, title I, § 136(b), Dec. 8, 1994, 108 Stat. 4841; renumbered § 5111 and amended Pub. L. 109–59, title XI, § 11125(a)(2), (b)(3)(A), (C), Aug. 10, 2005, 119 Stat. 1953, 1954.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1345, § 5131; amended Pub. L. 94–455, title XIX, § 1905(a)(11), Oct. 4, 1976, 90 Stat. 1819; Pub. L. 100–203, title X, § 10512(d), Dec. 22, 1987, 101 Stat. 1330–448; Pub. L. 103–465, title I, § 136(b), Dec. 8, 1994, 108 Stat. 4841; renumbered § 5111 and amended Pub. L. 109–59, title XI, § 11125(a)(2), (b)(3)(A), (C), Aug. 10, 2005, 119 Stat. 1953, 1954.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5111, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1340; amended Pub. L. 94–455, title XIX, § 1905(b)(3)(B), Oct. 4, 1976, 90 Stat. 1822; Pub. L. 100–203, title X, § 10512(b), Dec. 22, 1987, 101 Stat. 1330–448, related to tax on wholesale dealers in liquors or beer, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(C), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
+A prior section 5111, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1340; amended Pub. L. 94–455, title XIX, § 1905(b)(3)(B), Oct. 4, 1976, 90 Stat. 1822; Pub. L. 100–203, title X, § 10512(b), Dec. 22, 1987, 101 Stat. 1330–448, related to tax on wholesale dealers in liquors or beer, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(C), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
 
 Another prior section 5111, act Aug. 16, 1954, ch. 736, 68A Stat. 618, related to tax on wholesale and retail dealers in liquors or beer, prior to the general revision of this chapter by Pub. L. 85–859.
 
 **Amendments**
 
-2005—Pub. L. 109–59, § 11125(b)(3)(C), struck out “and rate of tax” after “Eligibility” in section catchline, struck out “(a) Eligibility for drawback” before “Any person”, and struck out subsec. (b). Text read as follows: “The special tax imposed by subsection (a) shall be $500 per year.”
+2005—Pub. L. 109–59, § 11125(b)(3)(C), struck out “and rate of tax” after “Eligibility” in section catchline, struck out “(a) Eligibility for drawback” before “Any person”, and struck out subsec. (b). Text read as follows: “The special tax imposed by subsection (a) shall be $500 per year.”
 
-Pub. L. 109–59, § 11125(b)(3)(A), renumbered section 5131 of this title as this section.
+Pub. L. 109–59, § 11125(b)(3)(A), renumbered section 5131 of this title as this section.
 
-Subsec. (a). Pub. L. 109–59, § 11125(a)(2), struck out “, on payment of a special tax per annum,” after “beverage purposes”.
+Subsec. (a). Pub. L. 109–59, § 11125(a)(2), struck out “, on payment of a special tax per annum,” after “beverage purposes”.
 
 1994—Subsec. (a). Pub. L. 103–465 substituted “flavoring extracts, or perfume” for “or flavoring extracts”.
 
@@ -3341,7 +3341,7 @@ Amendment by Pub. L. 103–465 effective Jan. 1, 1995, see section 136(d) of Pub
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–203, title X, § 10512(h), Dec. 22, 1987, 101 Stat. 1330–450, provided that:
+Pub. L. 100–203, title X, § 10512(h), Dec. 22, 1987, 101 Stat. 1330–450, provided that:
 
 > **“(1) In general.—** The amendments made by this section [enacting sections 5081, 5276, and 5731 of this title and amending this section and sections 5091, 5121, 5131, 5691, and 5801 of this title] shall take effect on January 1, 1988.
 
@@ -3367,17 +3367,17 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
 
-##### § 5112. Registration and regulation
+##### § 5112. Registration and regulation
 
 Every person claiming drawback under this subpart shall register annually with the Secretary; keep such books and records as may be necessary to establish the fact that distilled spirits received by him and on which the tax has been determined were used in the manufacture or production of medicines, medicinal preparations, food products, flavors, flavoring extracts, or perfume, which were unfit for use for beverage purposes; and be subject to such rules and regulations in relation thereto as the Secretary shall prescribe to secure the Treasury against frauds.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1345, § 5132; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 103–465, title I, § 136(b), Dec. 8, 1994, 108 Stat. 4841; renumbered § 5112, Pub. L. 109–59, title XI, § 11125(b)(3)(A), Aug. 10, 2005, 119 Stat. 1953.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1345, § 5132; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 103–465, title I, § 136(b), Dec. 8, 1994, 108 Stat. 4841; renumbered § 5112, Pub. L. 109–59, title XI, § 11125(b)(3)(A), Aug. 10, 2005, 119 Stat. 1953.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5112, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1340, defined “dealer”, “wholesale dealer in liquors”, and “wholesale dealer in beer”, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(C), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
+A prior section 5112, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1340, defined “dealer”, “wholesale dealer in liquors”, and “wholesale dealer in beer”, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(C), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
 
 Another prior section 5112, act Aug. 16, 1954, ch. 736, 68A Stat. 618, contained definitions of wholesale dealers, prior to the general revision of this chapter by Pub. L. 85–859.
 
@@ -3395,17 +3395,17 @@ Another prior section 5112, act Aug. 16, 1954, ch. 736, 68A Stat. 618, contained
 
 Amendment by Pub. L. 103–465 effective Jan. 1, 1995, see section 136(d) of Pub. L. 103–465, set out as a note under section 5001 of this title.
 
-##### § 5113. Investigation of claims
+##### § 5113. Investigation of claims
 
 For the purpose of ascertaining the correctness of any claim filed under this subpart, the Secretary is authorized to examine any books, papers, records, or memoranda bearing upon the matters required to be alleged in the claim, to require the attendance of the person filing the claim or of any officer or employee of such person or the attendance of any other person having knowledge in the premises, to take testimony with reference to any matter covered by the claim, and to administer oaths to any person giving such testimony.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1346, § 5133; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; renumbered § 5113, Pub. L. 109–59, title XI, § 11125(b)(3)(A), Aug. 10, 2005, 119 Stat. 1953.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1346, § 5133; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; renumbered § 5113, Pub. L. 109–59, title XI, § 11125(b)(3)(A), Aug. 10, 2005, 119 Stat. 1953.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5113, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1340; amended Pub. L. 87–863, § 4(b), Oct. 23, 1962, 76 Stat. 1142; Pub. L. 94–455, title XIX, §§ 1905(a)(7), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1819, 1834; Pub. L. 100–647, title II, § 2004(t)(2), (4), Nov. 10, 1988, 102 Stat. 3609, 3610, related to exemptions from tax, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(C), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
+A prior section 5113, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1340; amended Pub. L. 87–863, § 4(b), Oct. 23, 1962, 76 Stat. 1142; Pub. L. 94–455, title XIX, §§ 1905(a)(7), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1819, 1834; Pub. L. 100–647, title II, § 2004(t)(2), (4), Nov. 10, 1988, 102 Stat. 3609, 3610, related to exemptions from tax, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(C), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
 
 Another prior section 5113, act Aug. 16, 1954, ch. 736, 68A Stat. 619, related to exemptions from tax, prior to the general revision of this chapter by Pub. L. 85–859.
 
@@ -3415,7 +3415,7 @@ Another prior section 5113, act Aug. 16, 1954, ch. 736, 68A Stat. 619, related t
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-##### § 5114. Drawback
+##### § 5114. Drawback
 
 **(a) Rate of drawback**
 
@@ -3445,7 +3445,7 @@ The aggregate amount of the penalties imposed under subparagraph (A) for failure
 
 The penalty imposed by paragraph (2) shall be assessed, collected, and paid in the same manner as taxes, as provided in section 6665(a).
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1346, § 5134; amended Pub. L. 90–615, § 2(a), Oct. 21, 1968, 82 Stat. 1210; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, § 452, July 18, 1984, 98 Stat. 819; Pub. L. 103–465, title I, § 136(b), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 104–188, title I, § 1704(t)(12), Aug. 20, 1996, 110 Stat. 1888; renumbered § 5114, Pub. L. 109–59, title XI, § 11125(b)(3)(A), Aug. 10, 2005, 119 Stat. 1953.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1346, § 5134; amended Pub. L. 90–615, § 2(a), Oct. 21, 1968, 82 Stat. 1210; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, § 452, July 18, 1984, 98 Stat. 819; Pub. L. 103–465, title I, § 136(b), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 104–188, title I, § 1704(t)(12), Aug. 20, 1996, 110 Stat. 1888; renumbered § 5114, Pub. L. 109–59, title XI, § 11125(b)(3)(A), Aug. 10, 2005, 119 Stat. 1953.)
 
 **Editorial Notes**
 
@@ -3455,7 +3455,7 @@ A prior section 5114 was renumbered section 5432 of this title.
 
 Another prior section 5114, act Aug. 16, 1954, ch. 736, 68A Stat. 619, related to recordkeeping by wholesale dealers, prior to the general revision of this chapter by Pub. L. 85–859.
 
-A prior section 5115, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1342; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to requirement that a sign be posted on premises where liquor is sold and penalty for noncompliance, prior to repeal by Pub. L. 105–34, title XIV, § 1415(a), Aug. 5, 1997, 111 Stat. 1047.
+A prior section 5115, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1342; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to requirement that a sign be posted on premises where liquor is sold and penalty for noncompliance, prior to repeal by Pub. L. 105–34, title XIV, § 1415(a), Aug. 5, 1997, 111 Stat. 1047.
 
 Another prior section 5115, act Aug. 16, 1954, ch. 736, 68A Stat. 620, related to making and stamping packages filled on premises of wholesale dealers, prior to the general revision of this chapter by Pub. L. 85–859.
 
@@ -3463,7 +3463,7 @@ A prior section 5116 was renumbered section 5131 of this title.
 
 Another prior section 5116, act Aug. 16, 1954, ch. 736, 68A Stat. 620, related to packaging of distilled spirits for industrial uses, prior to the general revision of this chapter by Pub. L. 85–859.
 
-A prior section 5117, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1343; amended Pub. L. 94–455, title XIX, § 1905(a)(8), Oct. 4, 1976, 90 Stat. 1819; Pub. L. 108–357, title II, § 246(b), Oct. 22, 2004, 118 Stat. 1448, related to prohibited purchases by wholesale dealers in liquors, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(C), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
+A prior section 5117, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1343; amended Pub. L. 94–455, title XIX, § 1905(a)(8), Oct. 4, 1976, 90 Stat. 1819; Pub. L. 108–357, title II, § 246(b), Oct. 22, 2004, 118 Stat. 1448, related to prohibited purchases by wholesale dealers in liquors, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(C), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
 
 **Amendments**
 
@@ -3491,7 +3491,7 @@ Amendment by Pub. L. 98–369 applicable to products manufactured or produced af
 
 **Effective Date of 1968 Amendment**
 
-Pub. L. 90–615, § 2(b), Oct. 21, 1968, 82 Stat. 1210, provided that: “The amendment made by subsection (a) [amending this section] shall apply to claims filed on or after the date of the enactment of this Act [Oct. 21, 1968].”
+Pub. L. 90–615, § 2(b), Oct. 21, 1968, 82 Stat. 1210, provided that: “The amendment made by subsection (a) [amending this section] shall apply to claims filed on or after the date of the enactment of this Act [Oct. 21, 1968].”
 
 #### Subpart C—Recordkeeping and Registration by Dealers
 
@@ -3501,15 +3501,15 @@ Pub. L. 90–615, § 2(b), Oct. 21, 1968, 82 Stat. 1210, provided that: “The
 
 A prior subpart C was redesignated subpart A of this part.
 
-Another prior subpart C, consisting of sections 5101 to 5106, related to manufacturers of stills, prior to the general revision of this subpart by Pub. L. 98–369, div. A, title IV, § 451(a), July 18, 1984, 98 Stat. 818.
+Another prior subpart C, consisting of sections 5101 to 5106, related to manufacturers of stills, prior to the general revision of this subpart by Pub. L. 98–369, div. A, title IV, § 451(a), July 18, 1984, 98 Stat. 818.
 
-Another prior subpart C, consisting of sections 5101 to 5106, related to manufacturers of stills, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+Another prior subpart C, consisting of sections 5101 to 5106, related to manufacturers of stills, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
 **Amendments**
 
-2005—Pub. L. 109–59, title XI, § 11125(b)(4), Aug. 10, 2005, 119 Stat. 1954, added subpart heading and items 5121 to 5124.
+2005—Pub. L. 109–59, title XI, § 11125(b)(4), Aug. 10, 2005, 119 Stat. 1954, added subpart heading and items 5121 to 5124.
 
-##### § 5121. Recordkeeping by wholesale dealers
+##### § 5121. Recordkeeping by wholesale dealers
 
 **(a) Requirements**
 
@@ -3551,31 +3551,31 @@ The sale, or offer for sale, of distilled spirits, wines, or beer, in quantities
 
 **(3)** For provisions relating to the preservation and inspection of records, and entry of premises for inspection, see section 5123.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1342, § 5114; amended Pub. L. 94–455, title XIX, §§ 1905(c)(1), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1823, 1834; renumbered § 5121 and amended Pub. L. 109–59, title XI, § 11125(b)(5), Aug. 10, 2005, 119 Stat. 1954; Pub. L. 110–172, § 11(a)(31), Dec. 29, 2007, 121 Stat. 2487.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1342, § 5114; amended Pub. L. 94–455, title XIX, §§ 1905(c)(1), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1823, 1834; renumbered § 5121 and amended Pub. L. 109–59, title XI, § 11125(b)(5), Aug. 10, 2005, 119 Stat. 1954; Pub. L. 110–172, § 11(a)(31), Dec. 29, 2007, 121 Stat. 2487.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5121, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1343; amended Pub. L. 94–455, title XIX, § 1905(a)(9), (b)(3)(C), Oct. 4, 1976, 90 Stat. 1819, 1822; Pub. L. 100–203, title X, § 10512(c), Dec. 22, 1987, 101 Stat. 1330–448, related to special tax on retail dealers in liquors or beer, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(D), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
+A prior section 5121, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1343; amended Pub. L. 94–455, title XIX, § 1905(a)(9), (b)(3)(C), Oct. 4, 1976, 90 Stat. 1819, 1822; Pub. L. 100–203, title X, § 10512(c), Dec. 22, 1987, 101 Stat. 1330–448, related to special tax on retail dealers in liquors or beer, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(D), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
 
 Another prior section 5121, act Aug. 16, 1954, ch. 736, 68A Stat. 621, related to tax on retail dealers in liquors or beer, prior to the general revision of this chapter by Pub. L. 85–859.
 
 **Amendments**
 
-2007—Pub. L. 110–172, which directed amendment of this title by redesignating section 5432 as section 5121, was executed by making correction to amendment by Pub. L. 109–59, § 11125(b)(5)(B)(i). See 2005 Amendment note below.
+2007—Pub. L. 110–172, which directed amendment of this title by redesignating section 5432 as section 5121, was executed by making correction to amendment by Pub. L. 109–59, § 11125(b)(5)(B)(i). See 2005 Amendment note below.
 
-2005—Pub. L. 109–59, § 11125(b)(5)(B)(i), which directed amendment of section 5114 of this title by substituting “§ 5432. Recordkeeping by wholesale dealers” for “§ 5114. Records” in section catchline, was executed by substituting “§ 5121. Recordkeeping by wholesale dealers” for “§ 5114. Records”, to reflect the probable intent of Congress and the subsequent amendment by Pub. L. 110–172. See 2007 Amendment note above.
+2005—Pub. L. 109–59, § 11125(b)(5)(B)(i), which directed amendment of section 5114 of this title by substituting “§ 5432. Recordkeeping by wholesale dealers” for “§ 5114. Records” in section catchline, was executed by substituting “§ 5121. Recordkeeping by wholesale dealers” for “§ 5114. Records”, to reflect the probable intent of Congress and the subsequent amendment by Pub. L. 110–172. See 2007 Amendment note above.
 
-Pub. L. 109–59, § 11125(b)(5)(A), transferred section 5114 of this title to this subpart so as to appear after subpart analysis.
+Pub. L. 109–59, § 11125(b)(5)(A), transferred section 5114 of this title to this subpart so as to appear after subpart analysis.
 
-Subsecs. (c), (d). Pub. L. 109–59, § 11125(b)(5)(B)(ii), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 109–59, § 11125(b)(5)(B)(ii), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-Subsec. (d)(3). Pub. L. 109–59, § 11125(b)(5)(C), substituted “section 5123” for “section 5146”.
+Subsec. (d)(3). Pub. L. 109–59, § 11125(b)(5)(C), substituted “section 5123” for “section 5146”.
 
-1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-Subsec. (b). Pub. L. 94–455, §§ 1905(c)(1), 1906(b)(13)(A), struck out “or Territory” after “a State”, “Territories” after “States,”, and “or his delegate” after “Secretary”.
+Subsec. (b). Pub. L. 94–455, §§ 1905(c)(1), 1906(b)(13)(A), struck out “or Territory” after “a State”, “Territories” after “States,”, and “or his delegate” after “Secretary”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3587,7 +3587,7 @@ Amendment by Pub. L. 109–59 effective July 1, 2008, but inapplicable to taxes 
 
 Amendment by section 1905(c)(1) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
 
-##### § 5122. Recordkeeping by retail dealers
+##### § 5122. Recordkeeping by retail dealers
 
 **(a) Receipts**
 
@@ -3619,25 +3619,25 @@ The term “dealer” has the meaning given such term by section 5121(c)(3).
 
 For provisions relating to the preservation and inspection of records, and entry of premises for inspection, see section 5123.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1345, § 5124; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; renumbered § 5122 and amended Pub. L. 109–59, title XI, § 11125(b)(6), Aug. 10, 2005, 119 Stat. 1955.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1345, § 5124; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; renumbered § 5122 and amended Pub. L. 109–59, title XI, § 11125(b)(6), Aug. 10, 2005, 119 Stat. 1955.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5122, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1344; amended Pub. L. 94–455, title XIX, § 1905(a)(10), Oct. 4, 1976, 90 Stat. 1819, defined “retail dealer in liquors”, “retail dealer in beer”, and “limited retail dealer”, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(D), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
+A prior section 5122, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1344; amended Pub. L. 94–455, title XIX, § 1905(a)(10), Oct. 4, 1976, 90 Stat. 1819, defined “retail dealer in liquors”, “retail dealer in beer”, and “limited retail dealer”, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(D), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
 
 Another prior section 5122, act Aug. 16, 1954, ch. 736, 68A Stat. 621, related to definition of retail dealers in liquors and beer, prior to the general revision of this chapter by Pub. L. 85–859.
 
 **Amendments**
 
-2005—Pub. L. 109–59, § 11125(b)(6)(A), (B)(i), renumbered section 5124 of this title as this section, transferred section to this subpart so as to appear after section 5121, and substituted “Recordkeeping by retail dealers” for “Records” in section catchline.
+2005—Pub. L. 109–59, § 11125(b)(6)(A), (B)(i), renumbered section 5124 of this title as this section, transferred section to this subpart so as to appear after section 5121, and substituted “Recordkeeping by retail dealers” for “Records” in section catchline.
 
-Subsec. (c). Pub. L. 109–59, § 11125(b)(6)(B)(iii), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 109–59, § 11125(b)(6)(B)(iii), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Pub. L. 109–59, § 11125(b)(6)(B)(ii), substituted “section 5123” for “section 5146”.
+Pub. L. 109–59, § 11125(b)(6)(B)(ii), substituted “section 5123” for “section 5146”.
 
-Subsec. (d). Pub. L. 109–59, § 11125(b)(6)(B)(iii), redesignated subsec. (c) as (d).
+Subsec. (d). Pub. L. 109–59, § 11125(b)(6)(B)(iii), redesignated subsec. (c) as (d).
 
 1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” in two places.
 
@@ -3647,7 +3647,7 @@ Subsec. (d). Pub. L. 109–59, § 11125(b)(6)(B)(iii), redesignated subsec. (c
 
 Amendment by Pub. L. 109–59 effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, see section 11125(c) of Pub. L. 109–59, set out as a note under section 5002 of this title.
 
-##### § 5123. Preservation and inspection of records, and entry of premises for inspection
+##### § 5123. Preservation and inspection of records, and entry of premises for inspection
 
 **(a) Preservation and inspection of records**
 
@@ -3657,13 +3657,13 @@ Any records or other documents required to be kept under this part or regulation
 
 The Secretary may enter during business hours the premises (including places of storage) of any dealer for the purpose of inspecting or examining any records or other documents required to be kept by such dealer under this chapter or regulations issued pursuant thereto and any distilled spirits, wines, or beer kept or stored by such dealer on such premises.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1348, § 5146; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; renumbered § 5123, Pub. L. 109–59, title XI, § 11125(b)(7), Aug. 10, 2005, 119 Stat. 1955.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1348, § 5146; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; renumbered § 5123, Pub. L. 109–59, title XI, § 11125(b)(7), Aug. 10, 2005, 119 Stat. 1955.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5123, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1344; amended Pub. L. 87–863, § 4(a), Oct. 23, 1962, 76 Stat. 1142; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–647, title II, § 2004(t)(3), Nov. 10, 1988, 102 Stat. 3610, related to exemptions from special tax on certain wholesale and retail dealers in liquors or beer, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(D), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
+A prior section 5123, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1344; amended Pub. L. 87–863, § 4(a), Oct. 23, 1962, 76 Stat. 1142; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–647, title II, § 2004(t)(3), Nov. 10, 1988, 102 Stat. 3610, related to exemptions from special tax on certain wholesale and retail dealers in liquors or beer, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(D), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
 
 Another prior section 5123, act Aug. 16, 1954, ch. 736, 68A Stat. 621, related to exemptions from tax on retail dealers of liquors or beer, prior to the general revision of this chapter by Pub. L. 85–859.
 
@@ -3673,11 +3673,11 @@ Another prior section 5123, act Aug. 16, 1954, ch. 736, 68A Stat. 621, related t
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-##### § 5124. Registration by dealers
+##### § 5124. Registration by dealers
 
 Every dealer who is subject to the recordkeeping requirements under section 5121 or 5122 shall register with the Secretary such dealer’s name or style, place of residence, trade or business, and the place where such trade or business is to be carried on. In the case of a firm or company, the names of the several persons constituting the same, and the places of residence, shall be so registered.
 
-(Added Pub. L. 109–59, title XI, § 11125(b)(8), Aug. 10, 2005, 119 Stat. 1955.)
+(Added Pub. L. 109–59, title XI, § 11125(b)(8), Aug. 10, 2005, 119 Stat. 1955.)
 
 **Editorial Notes**
 
@@ -3687,7 +3687,7 @@ A prior section 5124 was renumbered section 5122 of this title.
 
 Another prior section 5124, act Aug. 16, 1954, ch. 736, 68A Stat. 622, related to recordkeeping requirements of retail dealers in liquors or beer, prior to the general revision of this chapter by Pub. L. 85–859.
 
-A prior section 5125, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1345, set out cross references, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(D), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
+A prior section 5125, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1345, set out cross references, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(D), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3701,27 +3701,27 @@ Section effective July 1, 2008, but inapplicable to taxes imposed for periods be
 
 **Prior Provisions**
 
-A prior subpart D, consisting of sections 5111 to 5117, related to wholesale dealers in liquors or beer, prior to repeal, except for sections 5114 and 5116, by Pub. L. 109–59, title XI, § 11125(a)(1)(C), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
+A prior subpart D, consisting of sections 5111 to 5117, related to wholesale dealers in liquors or beer, prior to repeal, except for sections 5114 and 5116, by Pub. L. 109–59, title XI, § 11125(a)(1)(C), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
 
-Another prior subpart D, consisting of sections 5111 to 5116, related to wholesale dealers, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+Another prior subpart D, consisting of sections 5111 to 5116, related to wholesale dealers, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
-A prior subpart E, consisting of sections 5121 to 5125, related to retail dealers, prior to repeal, except for section 5124, by Pub. L. 109–59, title XI, § 11125(a)(1)(D), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
+A prior subpart E, consisting of sections 5121 to 5125, related to retail dealers, prior to repeal, except for section 5124, by Pub. L. 109–59, title XI, § 11125(a)(1)(D), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
 
-Another prior subpart E, consisting of sections 5121 to 5124, related to retail dealers, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+Another prior subpart E, consisting of sections 5121 to 5124, related to retail dealers, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
 A prior subpart F was redesignated subpart B of this part.
 
-Another prior subpart F, consisting of sections 5131 to 5134, related to nonbeverage domestic drawback claimants, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+Another prior subpart F, consisting of sections 5131 to 5134, related to nonbeverage domestic drawback claimants, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
-A prior subpart G, consisting of sections 5141 to 5149, related to general provisions, prior to repeal, except for sections 5142, 5143, 5145, and 5146, by Pub. L. 109–59, title XI, § 11125(a)(1)(E), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
+A prior subpart G, consisting of sections 5141 to 5149, related to general provisions, prior to repeal, except for sections 5142, 5143, 5145, and 5146, by Pub. L. 109–59, title XI, § 11125(a)(1)(E), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
 
-Another prior subpart G, consisting of sections 5141 to 5149, related to general provisions, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+Another prior subpart G, consisting of sections 5141 to 5149, related to general provisions, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
 **Amendments**
 
-2005—Pub. L. 109–59, title XI, § 11125(b)(10), Aug. 10, 2005, 119 Stat. 1955, added subpart heading and items 5131 and 5132.
+2005—Pub. L. 109–59, title XI, § 11125(b)(10), Aug. 10, 2005, 119 Stat. 1955, added subpart heading and items 5131 and 5132.
 
-##### § 5131. Packaging distilled spirits for industrial uses
+##### § 5131. Packaging distilled spirits for industrial uses
 
 **(a) General**
 
@@ -3731,7 +3731,7 @@ The Secretary may, at his discretion and under such regulations as he may prescr
 
 For provisions relating to containers of distilled spirits, see section 5206.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1343, § 5116; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(12), July 26, 1979, 93 Stat. 282; Pub. L. 98–369, div. A, title IV, § 454(c)(3), July 18, 1984, 98 Stat. 821; renumbered § 5131 and amended Pub. L. 109–59, title XI, § 11125(b)(11), Aug. 10, 2005, 119 Stat. 1956.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1343, § 5116; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(12), July 26, 1979, 93 Stat. 282; Pub. L. 98–369, div. A, title IV, § 454(c)(3), July 18, 1984, 98 Stat. 821; renumbered § 5131 and amended Pub. L. 109–59, title XI, § 11125(b)(11), Aug. 10, 2005, 119 Stat. 1956.)
 
 **Editorial Notes**
 
@@ -3743,9 +3743,9 @@ Another prior section 5131, act Aug. 16, 1954, ch. 736, 68A Stat. 622, related t
 
 **Amendments**
 
-2005—Pub. L. 109–59, § 11125(b)(11), renumbered section 5116 of this title as this section and transferred section to this subpart so as to appear after subpart analysis.
+2005—Pub. L. 109–59, § 11125(b)(11), renumbered section 5116 of this title as this section and transferred section to this subpart so as to appear after subpart analysis.
 
-Subsec. (a). Pub. L. 109–59, § 11125(b)(11), inserted “(as defined in section 5121(c))” after “dealer”.
+Subsec. (a). Pub. L. 109–59, § 11125(b)(11), inserted “(as defined in section 5121(c))” after “dealer”.
 
 1984—Subsec. (b). Pub. L. 98–369 substituted “reference” for “references” in heading, struck out former par. (1) which provided a cross reference to section 5205(a)(1) of this title regarding stamps for immediate containers, and struck out designation “(2)” preceding provisions relating to containers of distilled spirits.
 
@@ -3767,7 +3767,7 @@ Amendment by Pub. L. 98–369 effective July 1, 1985, see section 456(b) of Pub.
 
 Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as a note under section 5001 of this title.
 
-##### § 5132. Prohibited purchases by dealers
+##### § 5132. Prohibited purchases by dealers
 
 **(a) In general**
 
@@ -3781,7 +3781,7 @@ A limited retail dealer may lawfully purchase distilled spirits for resale from 
 
 For penalty and forfeiture provisions applicable to violations of subsection (a), see sections 5687 and 7302.
 
-(Added Pub. L. 109–59, title XI, § 11125(b)(12), Aug. 10, 2005, 119 Stat. 1956.)
+(Added Pub. L. 109–59, title XI, § 11125(b)(12), Aug. 10, 2005, 119 Stat. 1956.)
 
 **Editorial Notes**
 
@@ -3797,9 +3797,9 @@ Another prior section 5133, act Aug. 16, 1954, ch. 736, 68A Stat. 623, related t
 
 A prior section 5134 was renumbered section 5114 of this title.
 
-Another prior section 5134, acts Aug. 16, 1954, ch. 736, 68A Stat. 623; Mar. 30, 1955, ch. 18, § 3(b)(2), 69 Stat. 15; Mar. 29, 1956, ch. 115, § 3(b)(2), 70 Stat. 67; Mar. 29, 1957, Pub. L. 85–12, § 3(b)(2), 71 Stat. 10; June 30, 1958, Pub. L. 85–475, § 3(b)(2), 72 Stat. 259, related to drawbacks, prior to the general revision of this chapter by Pub. L. 85–859.
+Another prior section 5134, acts Aug. 16, 1954, ch. 736, 68A Stat. 623; Mar. 30, 1955, ch. 18, § 3(b)(2), 69 Stat. 15; Mar. 29, 1956, ch. 115, § 3(b)(2), 70 Stat. 67; Mar. 29, 1957, Pub. L. 85–12, § 3(b)(2), 71 Stat. 10; June 30, 1958, Pub. L. 85–475, § 3(b)(2), 72 Stat. 259, related to drawbacks, prior to the general revision of this chapter by Pub. L. 85–859.
 
-A prior section 5141, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1346, related to registration, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(E), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
+A prior section 5141, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1346, related to registration, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(E), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
 
 Another prior section 5141, act Aug. 16, 1954, ch. 736, 68A Stat. 624, related to registration, prior to the general revision of this chapter by Pub. L. 85–859.
 
@@ -3811,7 +3811,7 @@ A prior section 5143 was renumbered section 5733 of this title.
 
 Another prior section 5143, act Aug. 16, 1954, ch. 736, 68A Stat. 624, related to time for filing returns and cross-referred to penalty provisions for failure to file returns or for making false or fraudulent returns, prior to the general revision of this chapter by Pub. L. 85–859.
 
-A prior section 5144, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1348, authorized and directed Secretary or his delegate to procure the necessary stamps for payment of special taxes and to make needful regulations relative thereto, prior to repeal by Pub. L. 94–455, title XIX, § 1905(b)(3)(D)(i), Oct. 4, 1976, 90 Stat. 1822.
+A prior section 5144, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1348, authorized and directed Secretary or his delegate to procure the necessary stamps for payment of special taxes and to make needful regulations relative thereto, prior to repeal by Pub. L. 94–455, title XIX, § 1905(b)(3)(D)(i), Oct. 4, 1976, 90 Stat. 1822.
 
 Another prior section 5144, act Aug. 16, 1954, ch. 736, 68A Stat. 624, related to liability for occupational taxes, prior to the general revision of this chapter by Pub. L. 85–859.
 
@@ -3823,17 +3823,17 @@ A prior section 5146 was renumbered section 5123 of this title.
 
 Another prior section 5146, act Aug. 16, 1954, ch. 736, 68A Stat. 625, contained cross references to provisions respecting posting stamp in place of business, prior to the general revision of this chapter by Pub. L. 85–859.
 
-A prior section 5147, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1348, related to application of former subpart G, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(E), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
+A prior section 5147, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1348, related to application of former subpart G, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(E), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
 
 Another prior section 5147, act Aug. 16, 1954, ch. 736, 68A Stat. 626, made a cross reference to provision respecting keeping of list of special taxpayers for public inspection, prior to the general revision of this chapter by Pub. L. 85–859.
 
-A prior section 5148, added Pub. L. 108–357, title II, § 246(a), Oct. 22, 2004, 118 Stat. 1448, related to suspension of occupational tax, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(E), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
+A prior section 5148, added Pub. L. 108–357, title II, § 246(a), Oct. 22, 2004, 118 Stat. 1448, related to suspension of occupational tax, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(E), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
 
 Another prior section 5148 was renumbered section 5149 of this title, prior to repeal by Pub. L. 109–59.
 
 Another prior section 5148, act Aug. 16, 1954, ch. 736, 68A Stat. 626, related to “Application of State laws”, prior to the general revision of this chapter by Pub. L. 85–859.
 
-A prior section 5149, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1348, § 5148; amended Pub. L. 94–455, title XIX, § 1905(b)(3)(E), Oct. 4, 1976, 90 Stat. 1822; renumbered § 5149, Pub. L. 108–357, title II, § 246(a), Oct. 22, 2004, 118 Stat. 1448, contained cross references to provisions imposing penalties, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(E), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
+A prior section 5149, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1348, § 5148; amended Pub. L. 94–455, title XIX, § 1905(b)(3)(E), Oct. 4, 1976, 90 Stat. 1822; renumbered § 5149, Pub. L. 108–357, title II, § 246(a), Oct. 22, 2004, 118 Stat. 1448, contained cross references to provisions imposing penalties, prior to repeal by Pub. L. 109–59, title XI, § 11125(a)(1)(E), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
 
 Another prior section 5149, act Aug. 16, 1954, ch. 736, 68A Stat. 626, related to “Application of subpart”, prior to the general revision of this chapter by Pub. L. 85–859.
 
@@ -3849,17 +3849,17 @@ Section effective July 1, 2008, but inapplicable to taxes imposed for periods be
 
 **Prior Provisions**
 
-A prior subchapter B, Distilleries, consisted of part I, Establishment, part II, Operation, and part III, General Provisions Relating to Distilleries and Distilled Spirits, and consisted of sections 5171 to 5180, 5191 to 5197, and 5211 to 5217, respectively, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior subchapter B, Distilleries, consisted of part I, Establishment, part II, Operation, and part III, General Provisions Relating to Distilleries and Distilled Spirits, and consisted of sections 5171 to 5180, 5191 to 5197, and 5211 to 5217, respectively, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
 **Amendments**
 
-2018—Pub. L. 115–141, div. U, title IV, § 401(a)(242), Mar. 23, 2018, 132 Stat. 1195, substituted “Premises of distilled spirits plants” for “Distilled spirits plants” in item 5178.
+2018—Pub. L. 115–141, div. U, title IV, § 401(a)(242), Mar. 23, 2018, 132 Stat. 1195, substituted “Premises of distilled spirits plants” for “Distilled spirits plants” in item 5178.
 
-1980—Pub. L. 96–223, title II, § 232(e)(2)(F), Apr. 2, 1980, 94 Stat. 280, added item 5181 and redesignated former item 5181 as 5182.
+1980—Pub. L. 96–223, title II, § 232(e)(2)(F), Apr. 2, 1980, 94 Stat. 280, added item 5181 and redesignated former item 5181 as 5182.
 
-1979—Pub. L. 96–39, title VIII, § 807(b)(4), July 26, 1979, 93 Stat. 290, substituted “Bonds” for “Qualification bonds” in item 5173, struck out item 5174 “Withdrawal bonds”, and substituted “Distilled spirits plants” for “Premises of distilled spirits plants” in item 5178.
+1979—Pub. L. 96–39, title VIII, § 807(b)(4), July 26, 1979, 93 Stat. 290, substituted “Bonds” for “Qualification bonds” in item 5173, struck out item 5174 “Withdrawal bonds”, and substituted “Distilled spirits plants” for “Premises of distilled spirits plants” in item 5178.
 
-### § 5171. Establishment
+### § 5171. Establishment
 
 **(a) Certain operations may be conducted only on bonded premises**
 
@@ -3903,13 +3903,13 @@ Paragraph (1) shall not apply to any agency of a State or political subdivision 
 
 **(2)** For penalty for the filing of a false application by a distiller, warehouseman, or processor of distilled spirits, see section 5601(a)(3).
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1349; amended Pub. L. 94–455, title XIX, §§ 1905(a)(13), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1820, 1834; Pub. L. 96–39, title VIII, § 805(a), July 26, 1979, 93 Stat. 274.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1349; amended Pub. L. 94–455, title XIX, §§ 1905(a)(13), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1820, 1834; Pub. L. 96–39, title VIII, § 805(a), July 26, 1979, 93 Stat. 274.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Alcohol Administration Act, referred to in subsec. (d)(1), is act Aug. 29, 1935, ch. 814, 49 Stat. 977, which is classified generally to subchapter I (§ 201 et seq.) of chapter 8 of Title 27, Intoxicating Liquors. The basic permit is covered by sections 203 and 204 of Title 27. For complete classification of this Act to the Code, see section 201 of Title 27 and Tables.
+The Federal Alcohol Administration Act, referred to in subsec. (d)(1), is act Aug. 29, 1935, ch. 814, 49 Stat. 977, which is classified generally to subchapter I (§ 201 et seq.) of chapter 8 of Title 27, Intoxicating Liquors. The basic permit is covered by sections 203 and 204 of Title 27. For complete classification of this Act to the Code, see section 201 of Title 27 and Tables.
 
 **Prior Provisions**
 
@@ -3935,9 +3935,9 @@ Subsec. (d). Pub. L. 96–39 redesignated former subsec. (b) as (d) and substitu
 
 Subsec. (e). Pub. L. 96–39 redesignated former subsec. (c) as (e) and substituted reference to processor for reference to rectifier and reference to warehouseman for reference to bonded warehouseman and struck out reference to bottler.
 
-1976—Subsec. (b)(1). Pub. L. 94–455, §§ 1905(a)(13)(A), 1906(b)(13)(A), struck out “49 Stat. 978;” before “27 U.S.C. 203, 204” in parenthetical provisions after “Federal Alcohol Administration Act” and struck out “or his delegate” after “Secretary”.
+1976—Subsec. (b)(1). Pub. L. 94–455, §§ 1905(a)(13)(A), 1906(b)(13)(A), struck out “49 Stat. 978;” before “27 U.S.C. 203, 204” in parenthetical provisions after “Federal Alcohol Administration Act” and struck out “or his delegate” after “Secretary”.
 
-Subsec. (b)(3). Pub. L. 94–455, § 1905(a)(13)(B), struck out par. (3) under which persons who were qualified on June 30, 1959, to perform operations for which a permit was required covering operations not required to be covered by a basic permit under the Federal Alcohol Administration Act had been allowed to continue operations pending a reasonable opportunity to make application for a permit.
+Subsec. (b)(3). Pub. L. 94–455, § 1905(a)(13)(B), struck out par. (3) under which persons who were qualified on June 30, 1959, to perform operations for which a permit was required covering operations not required to be covered by a basic permit under the Federal Alcohol Administration Act had been allowed to continue operations pending a reasonable opportunity to make application for a permit.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3955,7 +3955,7 @@ Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set o
 
 **Transitional Rules Relating to All-In-Bond Method**
 
-Pub. L. 96–39, title VIII, § 809(a), (b), July 26, 1979, 93 Stat. 292, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 96–39, title VIII, § 809(a), (b), July 26, 1979, 93 Stat. 292, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(a) New Application Required.—**
 
@@ -3969,11 +3969,11 @@ Pub. L. 96–39, title VIII, § 809(a), (b), July 26, 1979, 93 Stat. 292, as a
 
 > **“(2)** such premises meet the minimum capacity and level of activity requirements for that type of operation.”
 
-### § 5172. Application
+### § 5172. Application
 
 The application for registration required by section 5171(c) shall, in such manner and form as the Secretary may by regulations prescribe, identify the applicant and persons interested in the business (or businesses) covered by the application, show the nature, location and extent of the premises, show the specific type or types of operations to be conducted on such premises, and show any other information which the Secretary may by regulations require for the purpose of carrying out the provisions of this chapter.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1349; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(13), July 26, 1979, 93 Stat. 282.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1349; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(13), July 26, 1979, 93 Stat. 282.)
 
 **Editorial Notes**
 
@@ -3995,7 +3995,7 @@ Provisions similar to those comprising this section were contained in prior sect
 
 Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as a note under section 5001 of this title.
 
-### § 5173. Bonds
+### § 5173. Bonds
 
 **(a) Operations at, and withdrawals from, distilled spirits plant must be covered by bond**
 
@@ -4081,7 +4081,7 @@ The total amount of any bond furnished under this section shall be available for
 
 In the case of any adjacent wine cellar, a bond furnished under this section which covers operations at such wine cellar shall be in lieu of any bond which would otherwise be required under section 5354 with respect to such wine cellar (other than supplemental bonds required under the second sentence of section 5354).
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1349; amended Pub. L. 91–659, § 4, Jan. 8, 1971, 84 Stat. 1966; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 805(c), July 26, 1979, 93 Stat. 276; Pub. L. 114–113, div. Q, title III, § 332(b)(2)(A), Dec. 18, 2015, 129 Stat. 3105.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1349; amended Pub. L. 91–659, § 4, Jan. 8, 1971, 84 Stat. 1966; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 805(c), July 26, 1979, 93 Stat. 276; Pub. L. 114–113, div. Q, title III, § 332(b)(2)(A), Dec. 18, 2015, 129 Stat. 3105.)
 
 **Editorial Notes**
 
@@ -4107,19 +4107,19 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 627, 62
 
 **Amendments**
 
-2015—Subsec. (a)(1). Pub. L. 114–113, § 332(b)(2)(A)(i), substituted “Except as provided under section 5551(d), no person” for “No person”.
+2015—Subsec. (a)(1). Pub. L. 114–113, § 332(b)(2)(A)(i), substituted “Except as provided under section 5551(d), no person” for “No person”.
 
-Subsec. (a)(2). Pub. L. 114–113, § 332(b)(2)(A)(ii), substituted “Except as provided under section 5551(d), no distilled spirits” for “No distilled spirits”.
+Subsec. (a)(2). Pub. L. 114–113, § 332(b)(2)(A)(ii), substituted “Except as provided under section 5551(d), no distilled spirits” for “No distilled spirits”.
 
 1979—Pub. L. 96–39, among other changes, struck out provisions relating to liens on distillery property and the furnishing of indemnity bonds as methods of securing tax payments and inserted provisions relating to the one plant operations bond, which will cover the operations at a bonded wine cellar which is adjacent to the distilled spirits plant and operated by the same person.
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1971—Subsec. (b)(1). Pub. L. 91–659, § 4(b), extended exception clause in parenthetical by making reference to cl. (4) of this subsection.
+1971—Subsec. (b)(1). Pub. L. 91–659, § 4(b), extended exception clause in parenthetical by making reference to cl. (4) of this subsection.
 
-Subsec. (b)(2). Pub. L. 91–659, § 4(c), inserted reference to par. (4).
+Subsec. (b)(2). Pub. L. 91–659, § 4(c), inserted reference to par. (4).
 
-Subsec. (b)(4). Pub. L. 91–659, § 4(a), added par. (4).
+Subsec. (b)(4). Pub. L. 91–659, § 4(a), added par. (4).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4137,15 +4137,15 @@ Amendment by Pub. L. 91–659 effective on first day of first calendar month whi
 
 **Transitional Rules Relating to All-In-Bond Method**
 
-Pub. L. 96–39, title VIII, § 809(c), July 26, 1979, 93 Stat. 292, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of section 5173 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to bonds), each person who intends to continue operation at a premises after December 31, 1979, shall be treated as intending to establish a distilled spirits plant on such premises on January 1, 1980.”
+Pub. L. 96–39, title VIII, § 809(c), July 26, 1979, 93 Stat. 292, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of section 5173 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to bonds), each person who intends to continue operation at a premises after December 31, 1979, shall be treated as intending to establish a distilled spirits plant on such premises on January 1, 1980.”
 
-### [§ 5174. Repealed. Pub. L. 96–39, title VIII, § 807(a)(14), July 26, 1979, 93 Stat. 282]
+### [§ 5174. Repealed. Pub. L. 96–39, title VIII, § 807(a)(14), July 26, 1979, 93 Stat. 282]
 
-Section, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1352; amended Pub. L. 94–455, title XIX, §§ 1905(a)(14), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1820, 1834, related to withdrawal bonds.
+Section, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1352; amended Pub. L. 94–455, title XIX, §§ 1905(a)(14), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1820, 1834, related to withdrawal bonds.
 
 A prior section 5174, act Aug. 16, 1954, ch. 736, 68A Stat. 630, related to “registry of stills”, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5179 and 5505(d) of this title.
 
-Provisions similar to those comprising subsec. (a)(1) of section 5174, added by Pub. L. 85–859, title I, § 201, Sept. 2, 1958, 725 Stat. 1352, relating to the withdrawal from bonded premises of distilled spirits on the furnishing of a bond by the proprietor of the bonded premises to secure payment of the tax on such spirits, were contained in prior sections 5176(b) and 5232(b), act Aug. 16, 1954, ch. 736, 68A Stat. 629, 643, prior to the general revision of this chapter by Pub. L. 85–859.
+Provisions similar to those comprising subsec. (a)(1) of section 5174, added by Pub. L. 85–859, title I, § 201, Sept. 2, 1958, 725 Stat. 1352, relating to the withdrawal from bonded premises of distilled spirits on the furnishing of a bond by the proprietor of the bonded premises to secure payment of the tax on such spirits, were contained in prior sections 5176(b) and 5232(b), act Aug. 16, 1954, ch. 736, 68A Stat. 629, 643, prior to the general revision of this chapter by Pub. L. 85–859.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4153,7 +4153,7 @@ Provisions similar to those comprising subsec. (a)(1) of section 5174, added by 
 
 Repeal effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as an Effective Date of 1979 Amendment note under section 5001 of this title.
 
-### § 5175. Export bonds
+### § 5175. Export bonds
 
 **(a) Requirements**
 
@@ -4167,7 +4167,7 @@ In the case of distilled spirits withdrawn from bonded premises by the proprieto
 
 The bonds given under subsection (a) shall be cancelled or credited and the bonds liable under subsection (b) credited if there is such proof of exportation as the Secretary may by regulations require.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1352; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, § 3(b), Nov. 14, 1977, 91 Stat. 1365; Pub. L. 96–39, title VIII, § 807(a)(15), July 26, 1979, 93 Stat. 282; Pub. L. 105–34, title XIV, § 1412(a), Aug. 5, 1997, 111 Stat. 1046.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1352; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, § 3(b), Nov. 14, 1977, 91 Stat. 1365; Pub. L. 96–39, title VIII, § 807(a)(15), July 26, 1979, 93 Stat. 282; Pub. L. 105–34, title XIV, § 1412(a), Aug. 5, 1997, 111 Stat. 1046.)
 
 **Editorial Notes**
 
@@ -4181,9 +4181,9 @@ Provisions similar to those comprising this section were contained in a prior se
 
 1997—Subsec. (c). Pub. L. 105–34 substituted “if there is such proof of exportation as the Secretary may by regulations require.” for “on the submission of such evidence, records, and certification indicating exportation as the Secretary may by regulations prescribe.”
 
-1979—Subsec. (a). Pub. L. 96–39, § 807(a)(15)(A), struck out “for storage therein pending exportation” after “customs bonded warehouse”.
+1979—Subsec. (a). Pub. L. 96–39, § 807(a)(15)(A), struck out “for storage therein pending exportation” after “customs bonded warehouse”.
 
-Subsec. (b). Pub. L. 96–39, § 807(a)(15)(B), substituted “from bonded premises by the proprietor for exportation without payment of tax, the bond of such proprietor required to be furnished under paragraph (1) of section 5173(a) covering such premises shall cover such exportation, and subsection (a) shall not apply” for “for exportation without payment of tax on application of the proprietor of bonded premises, the bond of such proprietor covering such bonded premises shall cover such exportation and subsection (a) shall not be applicable”.
+Subsec. (b). Pub. L. 96–39, § 807(a)(15)(B), substituted “from bonded premises by the proprietor for exportation without payment of tax, the bond of such proprietor required to be furnished under paragraph (1) of section 5173(a) covering such premises shall cover such exportation, and subsection (a) shall not apply” for “for exportation without payment of tax on application of the proprietor of bonded premises, the bond of such proprietor covering such bonded premises shall cover such exportation and subsection (a) shall not be applicable”.
 
 1977—Subsec. (a). Pub. L. 95–176 required export bonds for withdrawals from bonded premises, without payment of tax, for transfer to a customs bonded warehouse for storage therein pending exportation.
 
@@ -4193,7 +4193,7 @@ Subsec. (b). Pub. L. 96–39, § 807(a)(15)(B), substituted “from bonded pre
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title XIV, § 1412(b), Aug. 5, 1997, 111 Stat. 1046, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title XIV, § 1412(b), Aug. 5, 1997, 111 Stat. 1046, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act [Aug. 5, 1997].”
 
 **Effective Date of 1979 Amendment**
 
@@ -4205,9 +4205,9 @@ Amendment by Pub. L. 95–176 effective on first day of first calendar month beg
 
 **Continuation of Distiller’s Notice and Bond**
 
-Pub. L. 85–859, title II, § 210(f), Sept. 2, 1958, 72 Stat. 1436, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Notwithstanding any provision of section 5175 or 5176(a) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], the Secretary of the Treasury or his delegate may waive, as to registered distillers or registered fruit distillers qualified to operate under bond on April 30, 1959, requirements for filing notice and executing new bond on May 1, 1959, if the distiller and the surety have executed consent to continuation of the terms of the existing bond to cover operations from May 1, 1959, to June 30, 1959, both dates inclusive. Nothing in this subsection shall be construed as limiting the authority of the Secretary of the Treasury or his delegate under section 5176(b) or (c) of the Internal Revenue Code of 1986.”
+Pub. L. 85–859, title II, § 210(f), Sept. 2, 1958, 72 Stat. 1436, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Notwithstanding any provision of section 5175 or 5176(a) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], the Secretary of the Treasury or his delegate may waive, as to registered distillers or registered fruit distillers qualified to operate under bond on April 30, 1959, requirements for filing notice and executing new bond on May 1, 1959, if the distiller and the surety have executed consent to continuation of the terms of the existing bond to cover operations from May 1, 1959, to June 30, 1959, both dates inclusive. Nothing in this subsection shall be construed as limiting the authority of the Secretary of the Treasury or his delegate under section 5176(b) or (c) of the Internal Revenue Code of 1986.”
 
-### § 5176. New or renewed bonds
+### § 5176. New or renewed bonds
 
 **(a) General**
 
@@ -4217,7 +4217,7 @@ New bonds shall be required under sections 5173 and 5175 in case of insolvency o
 
 If the proprietor of a distilled spirits plant fails or refuses to furnish a bond required under paragraph (1) of section 5173(a) or to renew the same, and neglects to immediately withdraw the spirits and pay the tax thereon, the Secretary shall proceed to collect the tax.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1353; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(16), July 26, 1979, 93 Stat. 282.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1353; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(16), July 26, 1979, 93 Stat. 282.)
 
 **Editorial Notes**
 
@@ -4231,9 +4231,9 @@ Provisions similar to those comprising this section were contained in prior sect
 
 **Amendments**
 
-1979—Subsec. (a). Pub. L. 96–39, § 807(a)(16)(A), struck out “, 5174,” after “sections 5173”.
+1979—Subsec. (a). Pub. L. 96–39, § 807(a)(16)(A), struck out “, 5174,” after “sections 5173”.
 
-Subsec. (b). Pub. L. 96–39, § 807(a)(16)(A), substituted reference to paragraph (1) of section 5173(a) for reference to section 5173(c) and struck out provisions relating to failure or refusal of the proprietor of a distilled spirits plant to withdraw any spirits from storage on bonded premises before the expiration of the time limited on the bond and pay the tax thereon.
+Subsec. (b). Pub. L. 96–39, § 807(a)(16)(A), substituted reference to paragraph (1) of section 5173(a) for reference to section 5173(c) and struck out provisions relating to failure or refusal of the proprietor of a distilled spirits plant to withdraw any spirits from storage on bonded premises before the expiration of the time limited on the bond and pay the tax thereon.
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
@@ -4247,7 +4247,7 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 Authority to waive requirements for filing notice and executing new bond on May 1, 1959, if distiller and surety have executed consent to continuation of the terms of existing bond to cover operations from May 1, 1959 to June 30, 1959, see section 210(f) of Pub. L. 85–859, set out as a note under section 5175 of this title.
 
-### § 5177. Other provisions relating to bonds
+### § 5177. Other provisions relating to bonds
 
 **(a) General provisions relating to bonds**
 
@@ -4259,7 +4259,7 @@ The provisions of section 5551 shall be applicable to the bonds required by or g
 
 **(2)** For penalty and forfeiture for failure or refusal to give bond, or for giving false, forged, or fraudulent bond, or carrying on the business of a distiller without giving bond, see sections 5601(a)(4), 5601(a)(5), 5601(b), and 5615(3).
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1353; amended Pub. L. 94–455, title XIX, § 1905(b)(6)(B), Oct. 4, 1976, 90 Stat. 1823; Pub. L. 96–39, title VIII, § 807(a)(17), July 26, 1979, 93 Stat. 282; Pub. L. 97–258, § 3(f)(3), Sept. 13, 1982, 96 Stat. 1064.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1353; amended Pub. L. 94–455, title XIX, § 1905(b)(6)(B), Oct. 4, 1976, 90 Stat. 1823; Pub. L. 96–39, title VIII, § 807(a)(17), July 26, 1979, 93 Stat. 282; Pub. L. 97–258, § 3(f)(3), Sept. 13, 1982, 96 Stat. 1064.)
 
 **Editorial Notes**
 
@@ -4283,7 +4283,7 @@ Provisions similar to those comprising subsec. (b) of this section were containe
 
 1982—Subsec. (b)(1). Pub. L. 97–258 substituted “section 9303 of title 31, United States Code” for “6 U.S.C. 15”.
 
-1979—Subsec. (a). Pub. L. 96–39 struck out “, 5174,” after “sections 5173”.
+1979—Subsec. (a). Pub. L. 96–39 struck out “, 5174,” after “sections 5173”.
 
 1976—Subsec. (b)(2). Pub. L. 94–455 substituted “5601(b)” for “5601(b)(2)”.
 
@@ -4297,7 +4297,7 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
 
-### § 5178. Premises of distilled spirits plants
+### § 5178. Premises of distilled spirits plants
 
 **(a) Location, construction, and arrangement**
 
@@ -4345,7 +4345,7 @@ The Secretary may authorize the carrying on of such other businesses (not specif
 
 **(4)** For provisions relating to the unauthorized use of distilled spirits in any manufacturing process, see section 5601(a)(9).
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1353; amended Pub. L. 91–659, § 5, Jan. 8, 1971, 84 Stat. 1966; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, § 2(b), Nov. 14, 1977, 91 Stat. 1364; Pub. L. 96–39, title VIII, §§ 805(b)(1), 807(a)(18), July 26, 1979, 93 Stat. 275, 283.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1353; amended Pub. L. 91–659, § 5, Jan. 8, 1971, 84 Stat. 1966; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, § 2(b), Nov. 14, 1977, 91 Stat. 1364; Pub. L. 96–39, title VIII, §§ 805(b)(1), 807(a)(18), July 26, 1979, 93 Stat. 275, 283.)
 
 **Editorial Notes**
 
@@ -4375,15 +4375,15 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 627, 62
 
 **Amendments**
 
-1979—Subsec. (a)(1)(A). Pub. L. 96–39, § 807(a)(18), substituted “section 5171(c)” for “section 5171(a)”.
+1979—Subsec. (a)(1)(A). Pub. L. 96–39, § 807(a)(18), substituted “section 5171(c)” for “section 5171(a)”.
 
-Subsec. (a)(2). Pub. L. 96–39, § 805(b)(1), substituted in heading “operations” for “facilities” and in subpar. (A) “produce” for “provided facilities which may be used for the production of” and struck out in subpar. (B) “closed at all points where potable or readily recoverable spirits are present and the distilling apparatus” after “shall be continuous and”.
+Subsec. (a)(2). Pub. L. 96–39, § 805(b)(1), substituted in heading “operations” for “facilities” and in subpar. (A) “produce” for “provided facilities which may be used for the production of” and struck out in subpar. (B) “closed at all points where potable or readily recoverable spirits are present and the distilling apparatus” after “shall be continuous and”.
 
-Subsec. (a)(3). Pub. L. 96–39, § 805(b)(1), substituted in heading “Warehousing operations” for “Bonded warehousing facilities” and in subpar. (A) “the application” for “his application” and “warehouse bulk distilled spirits” for “establish warehousing facilities” and struck out subpar. (C) which related to facilities for the storage on bonded premises of distilled spirits in casks, packages, cases, or similar portable approved containers and subpar. (D), which related to the establishment of a portion of the premises established under subpar. (C) as an export storage facility for the storage of distilled spirits returned to bonded premises under section 5215(b).
+Subsec. (a)(3). Pub. L. 96–39, § 805(b)(1), substituted in heading “Warehousing operations” for “Bonded warehousing facilities” and in subpar. (A) “the application” for “his application” and “warehouse bulk distilled spirits” for “establish warehousing facilities” and struck out subpar. (C) which related to facilities for the storage on bonded premises of distilled spirits in casks, packages, cases, or similar portable approved containers and subpar. (D), which related to the establishment of a portion of the premises established under subpar. (C) as an export storage facility for the storage of distilled spirits returned to bonded premises under section 5215(b).
 
-Subsec. (a)(4). Pub. L. 96–39, § 805(b)(1), substituted provisions relating to processing operations for provisions relating to bottling facilities.
+Subsec. (a)(4). Pub. L. 96–39, § 805(b)(1), substituted provisions relating to processing operations for provisions relating to bottling facilities.
 
-Subsec. (a)(5). Pub. L. 96–39, § 805(b)(1), struck out par. (5) which related to arrangement and segregation of denaturing facilities by regulation of the Secretary.
+Subsec. (a)(5). Pub. L. 96–39, § 805(b)(1), struck out par. (5) which related to arrangement and segregation of denaturing facilities by regulation of the Secretary.
 
 1977—Subsec. (a)(3)(D). Pub. L. 95–176 added subpar. (D).
 
@@ -4405,7 +4405,7 @@ Amendment by Pub. L. 95–176 effective on first day of first calendar month beg
 
 Amendment by Pub. L. 91–659 effective on first day of first calendar month which begins more than 90 days after Jan. 8, 1971, see section 6 of Pub. L. 91–659, set out as an Effective Date note under section 5066 of this title.
 
-### § 5179. Registration of stills
+### § 5179. Registration of stills
 
 **(a) Requirements**
 
@@ -4417,7 +4417,7 @@ Every person having in his possession or custody, or under his control, any stil
 
 **(2)** For provisions requiring notification to set up a still, boiler, or other vessel for distilling, see section 5101(a)(2).
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1355; amended Pub. L. 94–455, title XIX, §§ 1905(b)(6)(C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1823, 1834; Pub. L. 98–369, div. A, title IV, § 451(b)(1), July 18, 1984, 98 Stat. 819.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1355; amended Pub. L. 94–455, title XIX, §§ 1905(b)(6)(C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1823, 1834; Pub. L. 98–369, div. A, title IV, § 451(b)(1), July 18, 1984, 98 Stat. 819.)
 
 **Editorial Notes**
 
@@ -4431,9 +4431,9 @@ Provisions similar to those comprising this section were contained in prior sect
 
 1984—Subsec. (b)(2). Pub. L. 98–369 substituted “notification to set up a still, boiler, or other vessel for distilling, see section 5101(a)(2)” for “permit to set up a still, boiler or other vessel for distilling, see section 5105”.
 
-1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (b)(1). Pub. L. 94–455, § 1905(b)(6)(C), struck out “, 5601(b)(1),” after “5601(a)(1)”.
+Subsec. (b)(1). Pub. L. 94–455, § 1905(b)(6)(C), struck out “, 5601(b)(1),” after “5601(a)(1)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4445,7 +4445,7 @@ Amendment by Pub. L. 98–369 effective on first day of first calendar month whi
 
 Amendment by section 1905(b)(6)(C) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
 
-### § 5180. Signs
+### § 5180. Signs
 
 **(a) Requirements**
 
@@ -4455,7 +4455,7 @@ Every person engaged in distilled spirits operations shall place and keep conspi
 
 For penalty and forfeiture relating to failure to post sign or improperly posting such sign, see section 5681.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1355; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(19), July 26, 1979, 93 Stat. 283.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1355; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(19), July 26, 1979, 93 Stat. 283.)
 
 **Editorial Notes**
 
@@ -4477,7 +4477,7 @@ Provisions similar to those comprising this section were contained in prior sect
 
 Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as a note under section 5001 of this title.
 
-### § 5181. Distilled spirits for fuel use
+### § 5181. Distilled spirits for fuel use
 
 **(a) In general**
 
@@ -4559,7 +4559,7 @@ For protection of the revenue and under such regulations as the Secretary may pr
 
 For purposes of this section, the term “distilled spirits” does not include distilled spirits produced from petroleum, natural gas, or coal.
 
-(Added Pub. L. 96–223, title II, § 232(e)(1), Apr. 2, 1980, 94 Stat. 278.)
+(Added Pub. L. 96–223, title II, § 232(e)(1), Apr. 2, 1980, 94 Stat. 278.)
 
 **Editorial Notes**
 
@@ -4571,13 +4571,13 @@ A prior section 5181 was renumbered 5182 of this title.
 
 **Effective Date**
 
-Pub. L. 96–223, title II, § 232(h)(3), Apr. 2, 1980, 94 Stat. 281, provided that: “The amendments made by subsection (e) [enacting this section, amending sections 5004, 5005, 5214, and 5601, and repealing provisions set out as a note under section 4081 of this title] shall take effect on the first day of the first calendar month beginning more than 60 days after the date of the enactment of this Act [Apr. 2, 1980].”
+Pub. L. 96–223, title II, § 232(h)(3), Apr. 2, 1980, 94 Stat. 281, provided that: “The amendments made by subsection (e) [enacting this section, amending sections 5004, 5005, 5214, and 5601, and repealing provisions set out as a note under section 4081 of this title] shall take effect on the first day of the first calendar month beginning more than 60 days after the date of the enactment of this Act [Apr. 2, 1980].”
 
-### § 5182. Cross references
+### § 5182. Cross references
 
 For provisions requiring recordkeeping by wholesale liquor dealers, see section 5121, and by retail liquor dealers, see section 5122.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1356, § 5181; amended Pub. L. 96–39, title VIII, § 807(a)(20), July 26, 1979, 93 Stat. 283; renumbered § 5182, Pub. L. 96–223, title II, § 232(e)(1), Apr. 2, 1980, 94 Stat. 278; Pub. L. 109–59, title XI, § 11125(b)(16), Aug. 10, 2005, 119 Stat. 1956; Pub. L. 115–141, div. U, title IV, § 401(a)(243), Mar. 23, 2018, 132 Stat. 1195.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1356, § 5181; amended Pub. L. 96–39, title VIII, § 807(a)(20), July 26, 1979, 93 Stat. 283; renumbered § 5182, Pub. L. 96–223, title II, § 232(e)(1), Apr. 2, 1980, 94 Stat. 278; Pub. L. 109–59, title XI, § 11125(b)(16), Aug. 10, 2005, 119 Stat. 1956; Pub. L. 115–141, div. U, title IV, § 401(a)(243), Mar. 23, 2018, 132 Stat. 1195.)
 
 **Editorial Notes**
 
@@ -4609,11 +4609,11 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 **Prior Provisions**
 
-A prior subchapter C, Internal Revenue Bonded Warehouses, consisted of part I, Establishment, and part II, Operation, and consisted of sections 5231 to 5233 and 5241 to 5252, respectively, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior subchapter C, Internal Revenue Bonded Warehouses, consisted of part I, Establishment, and part II, Operation, and consisted of sections 5231 to 5233 and 5241 to 5252, respectively, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
 **Amendments**
 
-1979—Pub. L. 96–39, title VIII, § 807(b)(5), July 26, 1979, 93 Stat. 290, struck out item relating to Part III “Operations on bottling premises” in table of parts comprising subchapter C.
+1979—Pub. L. 96–39, title VIII, § 807(b)(5), July 26, 1979, 93 Stat. 290, struck out item relating to Part III “Operations on bottling premises” in table of parts comprising subchapter C.
 
 ### PART I—GENERAL PROVISIONS
 
@@ -4621,13 +4621,13 @@ A prior subchapter C, Internal Revenue Bonded Warehouses, consisted of part I, E
 
 **Prior Provisions**
 
-A prior part I, Establishment, consisted of sections 5231 to 5233, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior part I, Establishment, consisted of sections 5231 to 5233, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
 **Amendments**
 
-1984—Pub. L. 98–369, div. A, title IV, § 454(c)(14), July 18, 1984, 98 Stat. 823, struck out item 5205 “Stamps”.
+1984—Pub. L. 98–369, div. A, title IV, § 454(c)(14), July 18, 1984, 98 Stat. 823, struck out item 5205 “Stamps”.
 
-#### § 5201. Regulation of operations
+#### § 5201. Regulation of operations
 
 **(a) General**
 
@@ -4645,7 +4645,7 @@ The Secretary may prescribe regulations relating to hours for distillery operati
 
 The Secretary may provide by regulations for the addition of tracer elements to distilled spirits to facilitate the enforcement of this chapter. Tracer elements to be added to distilled spirits at any distilled spirits plant under provisions of this subsection shall be of such character and in such quantity as the Secretary may authorize or require, and such as will not impair the quality of the distilled spirits for their intended use.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1357; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(21), July 26, 1979, 93 Stat. 283.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1357; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(21), July 26, 1979, 93 Stat. 283.)
 
 **Editorial Notes**
 
@@ -4677,11 +4677,11 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
 
-#### § 5202. Supervision of operations
+#### § 5202. Supervision of operations
 
 All operations on the premises of a distilled spirits plant shall be conducted under such supervision and controls (including the use of Government locks and seals) as the Secretary shall by regulations prescribe.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1357; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 806(a), July 26, 1979, 93 Stat. 279.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1357; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 806(a), July 26, 1979, 93 Stat. 279.)
 
 **Editorial Notes**
 
@@ -4713,7 +4713,7 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 628, 63
 
 Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as a note under section 5001 of this title.
 
-#### § 5203. Entry and examination of premises
+#### § 5203. Entry and examination of premises
 
 **(a) Keeping premises accessible**
 
@@ -4735,7 +4735,7 @@ It shall be lawful for any internal revenue officer, and any person acting in hi
 
 For penalty for violation of this section, see section 5687.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1357; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(22), July 26, 1979, 93 Stat. 283.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1357; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(22), July 26, 1979, 93 Stat. 283.)
 
 **Editorial Notes**
 
@@ -4755,11 +4755,11 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 636, 65
 
 **Amendments**
 
-1979—Subsec. (b). Pub. L. 96–39, § 807(a)(22)(A), substituted “where distilled spirits operations are carried on” for “where distilled spirits are produced or rectified”.
+1979—Subsec. (b). Pub. L. 96–39, § 807(a)(22)(A), substituted “where distilled spirits operations are carried on” for “where distilled spirits are produced or rectified”.
 
-Subsec. (c). Pub. L. 96–39, § 807(a)(22)(B), substituted “on such premises” for “not under the control of the internal revenue officer in charge”.
+Subsec. (c). Pub. L. 96–39, § 807(a)(22)(B), substituted “on such premises” for “not under the control of the internal revenue officer in charge”.
 
-Subsec. (d). Pub. L. 96–39, § 807(a)(22)(C), substituted “where distilled spirits operations are carried on” for “where distilled spirits are produced or rectified”.
+Subsec. (d). Pub. L. 96–39, § 807(a)(22)(C), substituted “where distilled spirits operations are carried on” for “where distilled spirits are produced or rectified”.
 
 1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
@@ -4769,7 +4769,7 @@ Subsec. (d). Pub. L. 96–39, § 807(a)(22)(C), substituted “where distilled
 
 Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as a note under section 5001 of this title.
 
-#### § 5204. Gauging
+#### § 5204. Gauging
 
 **(a) General**
 
@@ -4783,7 +4783,7 @@ For the determination of tax and the pre­vention and detection of frauds, the S
 
 The Secretary may by regulations require the proprietor of a distilled spirits plant, at the proprietor’s expense and under such supervision as the Secretary may require, to do such gauging, marking, and branding and such mechanical labor pertaining thereto as the Secretary deems proper and determines may be done without danger to the revenue.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1358; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(23), July 26, 1979, 93 Stat. 283; Pub. L. 98–369, div. A, title IV, § 454(c)(4), July 18, 1984, 98 Stat. 821.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1358; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(23), July 26, 1979, 93 Stat. 283; Pub. L. 98–369, div. A, title IV, § 454(c)(4), July 18, 1984, 98 Stat. 821.)
 
 **Editorial Notes**
 
@@ -4803,7 +4803,7 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 633, 63
 
 1984—Subsec. (c). Pub. L. 98–369 struck out “stamping,” before “marking” in heading and text.
 
-1979—Subsec. (a). Pub. L. 96–39 struck out “, in addition to those specified in section 5202(f),” after “spirits for such purposes”.
+1979—Subsec. (a). Pub. L. 96–39 struck out “, in addition to those specified in section 5202(f),” after “spirits for such purposes”.
 
 1976—Subsecs. (a) to (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
@@ -4817,9 +4817,9 @@ Amendment by Pub. L. 98–369 effective July 1, 1985, see section 456(b) of Pub.
 
 Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as a note under section 5001 of this title.
 
-#### [§ 5205. Repealed. Pub. L. 98–369, div. A, title IV, § 454(a), July 18, 1984, 98 Stat. 820]
+#### [§ 5205. Repealed. Pub. L. 98–369, div. A, title IV, § 454(a), July 18, 1984, 98 Stat. 820]
 
-Section, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1358; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 94–569, § 1, Oct. 20, 1976, 90 Stat. 2699; Pub. L. 95–176, § 2(c), Nov. 14, 1977, 91 Stat. 1364; Pub. L. 96–39, title VIII, § 807(a)(24), July 26, 1979, 93 Stat. 283, related to stamps for containers of distilled spirits.
+Section, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1358; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 94–569, § 1, Oct. 20, 1976, 90 Stat. 2699; Pub. L. 95–176, § 2(c), Nov. 14, 1977, 91 Stat. 1364; Pub. L. 96–39, title VIII, § 807(a)(24), July 26, 1979, 93 Stat. 283, related to stamps for containers of distilled spirits.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4827,7 +4827,7 @@ Section, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 135
 
 Repeal effective July 1, 1985, see section 456(b) of Pub. L. 98–369, set out as an Effective Date note under section 5101 of this title.
 
-#### § 5206. Containers
+#### § 5206. Containers
 
 **(a) Authority to prescribe**
 
@@ -4859,7 +4859,7 @@ This section shall be applicable exclusively with respect to containers of disti
 
 **(4)** For penalties and forfeitures relating to marks and brands, see sections 5604 and 5613.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1360; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, § 454(c)(5), July 18, 1984, 98 Stat. 821; Pub. L. 104–188, title I, § 1704(t)(13), Aug. 20, 1996, 110 Stat. 1888.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1360; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, § 454(c)(5), July 18, 1984, 98 Stat. 821; Pub. L. 104–188, title I, § 1704(t)(13), Aug. 20, 1996, 110 Stat. 1888.)
 
 **Editorial Notes**
 
@@ -4889,7 +4889,7 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 603, 63
 
 Amendment by Pub. L. 98–369 effective July 1, 1985, see section 456(b) of Pub. L. 98–369, set out as an Effective Date note under section 5101 of this title.
 
-#### § 5207. Records and reports
+#### § 5207. Records and reports
 
 **(a) Records of distilled spirits plant proprietors** Every distilled spirits plant proprietor shall keep records in such form and manner as the Secretary shall by regulations prescribe of:
 
@@ -4939,7 +4939,7 @@ The records required by subsection (a) and a copy of each report required by sub
 
 For penalty and forfeiture for refusal or neglect to keep records required under this section, or for false entries therein, see sections 5603 and 5615(5).
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1361; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, § 2(e), Nov. 14, 1977, 91 Stat. 1364; Pub. L. 96–39, title VIII, § 807(a)(25), July 26, 1979, 93 Stat. 283; Pub. L. 98–369, div. A, title IV, § 454(c)(6), July 18, 1984, 98 Stat. 821; Pub. L. 105–34, title XIV, § 1413(a), Aug. 5, 1997, 111 Stat. 1046.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1361; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, § 2(e), Nov. 14, 1977, 91 Stat. 1364; Pub. L. 96–39, title VIII, § 807(a)(25), July 26, 1979, 93 Stat. 283; Pub. L. 98–369, div. A, title IV, § 454(c)(6), July 18, 1984, 98 Stat. 821; Pub. L. 105–34, title XIV, § 1413(a), Aug. 5, 1997, 111 Stat. 1046.)
 
 **Editorial Notes**
 
@@ -4961,7 +4961,7 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 637, 63
 
 1997—Subsec. (c). Pub. L. 105–34 struck out “shall be kept on the premises where the operations covered by the record are carried on and” after “required by subsection (b)”.
 
-1984—Subsec. (a)(4)(D). Pub. L. 98–369, § 454(c)(6), struck out subpar. (D) which required every distilled spirits plant proprietor to keep records in such form and manner as prescribed by the Secretary of the receipt, use, and balance on hand of all stamps required by law or regulations to be used by the proprietor.
+1984—Subsec. (a)(4)(D). Pub. L. 98–369, § 454(c)(6), struck out subpar. (D) which required every distilled spirits plant proprietor to keep records in such form and manner as prescribed by the Secretary of the receipt, use, and balance on hand of all stamps required by law or regulations to be used by the proprietor.
 
 1979—Subsec. (a). Pub. L. 96–39 struck out provisions relating to the bottling of distilled spirits in bond and relating to the kind and quantity of distilled spirits returned to bonded premises and inserted provisions relating to the kind and quantity of distilled spirits returned to storage and relating to receipt, use, and balance on hand of all stamps required by law or regulations to be used by the Secretary.
 
@@ -4971,7 +4971,7 @@ Subsec. (c). Pub. L. 96–39 redesignated subsec. (d) as (c), struck out “and 
 
 Subsecs. (d), (e). Pub. L. 96–39 redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-1977—Subsec. (a)(10), (11). Pub. L. 95–176, § 2(e)(2), (3), added par. (10) and redesignated former par. (10) as (11).
+1977—Subsec. (a)(10), (11). Pub. L. 95–176, § 2(e)(2), (3), added par. (10) and redesignated former par. (10) as (11).
 
 1976—Subsecs. (a) to (d). Pub. L. 94—455 struck out “or his delegate” after “Secretary” wherever appearing.
 
@@ -4979,7 +4979,7 @@ Subsecs. (d), (e). Pub. L. 96–39 redesignated subsec. (e) as (d). Former subse
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title XIV, § 1413(b), Aug. 5, 1997, 111 Stat. 1046, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title XIV, § 1413(b), Aug. 5, 1997, 111 Stat. 1046, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act [Aug. 5, 1997].”
 
 **Effective Date of 1984 Amendment**
 
@@ -4995,11 +4995,11 @@ Amendment by Pub. L. 95–176 effective on first day of first calendar month beg
 
 ### PART II—OPERATIONS ON BONDED PREMISES
 
-A prior part II, Operation, consisted of sections 5241 to 5252, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior part II, Operation, consisted of sections 5241 to 5252, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
 #### Subpart A—General
 
-##### § 5211. Production and entry of distilled spirits
+##### § 5211. Production and entry of distilled spirits
 
 Distilled spirits in the process of production in a distilled spirits plant may be held prior to the production gauge only for so long as is reasonably necessary to complete the process of production. Under such regulations as the Secretary shall prescribe, all distilled spirits produced in a distilled spirits plant shall be gauged and a record made of such gauge within a reasonable time after the production thereof has been completed. The proprietor shall, pursuant to such production gauge and in accordance with such regulations as the Secretary shall prescribe, make appropriate entry for—
 
@@ -5011,7 +5011,7 @@ Distilled spirits in the process of production in a distilled spirits plant may 
 
 **(4)** transfer for redistillation under the provisions of section 5223.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1362; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(26), July 26, 1979, 93 Stat. 284.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1362; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(26), July 26, 1979, 93 Stat. 284.)
 
 **Editorial Notes**
 
@@ -5037,11 +5037,11 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
 
-##### § 5212. Transfer of distilled spirits between bonded premises
+##### § 5212. Transfer of distilled spirits between bonded premises
 
 Bulk distilled spirits on which the internal revenue tax has not been paid or determined as authorized by law may, under such regulations as the Secretary shall prescribe, be transferred in bond between bonded premises in any approved container. For the purposes of this chapter, the removal of bulk distilled spirits for transfer in bond between bonded premises shall not be construed to be a withdrawal from bonded premises. The provisions of this section restricting transfers to bulk distilled spirits shall not apply to alcohol bottled under the provisions of section 5235 which is to be withdrawn for industrial purposes. In the case of distilled spirits transferred in bond after December 31, 2017, between bonded premises belonging to the same person or members of the same controlled group (within the meaning of section 5001(c)(2)) this section shall be applied without regard to whether distilled spirits are bulk distilled spirits. In the case of distilled spirits transferred in bond from the person who distilled or processed such distilled spirits (hereinafter referred to as “transferor”) to another person for bottling or storage of such distilled spirits, and returned to the transferor for removal, this section shall be applied without regard to whether distilled spirits are bulk distilled spirits, but only if the transferor retains title during the entire period between such distillation, or processing, and removal.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1362; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 805(b)(2), July 26, 1979, 93 Stat. 276; Pub. L. 96–598, § 6(d), Dec. 24, 1980, 94 Stat. 3490; Pub. L. 115–97, title I, § 13808(a), Dec. 22, 2017, 131 Stat. 2177; Pub. L. 116–94, div. Q, title I, § 144(h)(1), Dec. 20, 2019, 133 Stat. 3235; Pub. L. 116–260, div. EE, title I, § 106(h)(1), (2), Dec. 27, 2020, 134 Stat. 3045.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1362; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 805(b)(2), July 26, 1979, 93 Stat. 276; Pub. L. 96–598, § 6(d), Dec. 24, 1980, 94 Stat. 3490; Pub. L. 115–97, title I, § 13808(a), Dec. 22, 2017, 131 Stat. 2177; Pub. L. 116–94, div. Q, title I, § 144(h)(1), Dec. 20, 2019, 133 Stat. 3235; Pub. L. 116–260, div. EE, title I, § 106(h)(1), (2), Dec. 27, 2020, 134 Stat. 3045.)
 
 **Editorial Notes**
 
@@ -5069,25 +5069,25 @@ Provisions similar to those comprising this section were contained in prior sect
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. EE, title I, § 106(h)(3), Dec. 27, 2020, 134 Stat. 3045, provided that: “The amendments made by this subsection [amending this section] shall apply to distilled spirits transferred in bond after December 31, 2020.”
+Pub. L. 116–260, div. EE, title I, § 106(h)(3), Dec. 27, 2020, 134 Stat. 3045, provided that: “The amendments made by this subsection [amending this section] shall apply to distilled spirits transferred in bond after December 31, 2020.”
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–94, div. Q, title I, § 144(h)(2), Dec. 20, 2019, 133 Stat. 3235, provided that: “The amendment made by this subsection [amending this section] shall apply to distilled spirits transferred in bond after December 31, 2019.”
+Pub. L. 116–94, div. Q, title I, § 144(h)(2), Dec. 20, 2019, 133 Stat. 3235, provided that: “The amendment made by this subsection [amending this section] shall apply to distilled spirits transferred in bond after December 31, 2019.”
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–97, title I, § 13808(b), Dec. 22, 2017, 131 Stat. 2178, provided that: “The amendments made by this section [amending this section] shall apply distilled spirits transferred in bond after December 31, 2017.”
+Pub. L. 115–97, title I, § 13808(b), Dec. 22, 2017, 131 Stat. 2178, provided that: “The amendments made by this section [amending this section] shall apply distilled spirits transferred in bond after December 31, 2017.”
 
 **Effective Date of 1979 Amendment**
 
 Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as a note under section 5001 of this title.
 
-##### § 5213. Withdrawal of distilled spirits from bonded premises on determination of tax
+##### § 5213. Withdrawal of distilled spirits from bonded premises on determination of tax
 
 Subject to the provisions of section 5173, distilled spirits may be withdrawn from the bonded premises of a distilled spirits plant on payment or determination of tax thereon, in approved containers, under such regulations as the Secretary shall prescribe.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1362; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(27), July 26, 1979, 93 Stat. 285.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1362; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(27), July 26, 1979, 93 Stat. 285.)
 
 **Editorial Notes**
 
@@ -5109,7 +5109,7 @@ Provisions similar to those comprising this section were contained in prior sect
 
 Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as a note under section 5001 of this title.
 
-##### § 5214. Withdrawal of distilled spirits from bonded premises free of tax or without payment of tax
+##### § 5214. Withdrawal of distilled spirits from bonded premises free of tax or without payment of tax
 
 **(a) Purposes** Distilled spirits on which the internal revenue tax has not been paid or determined may, subject to such regulations as the Secretary shall prescribe, be withdrawn from the bonded premises of any distilled spirits plant in approved containers—
 
@@ -5173,7 +5173,7 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 **(8)** For provisions relating to distilled spirits for use of foreign embassies, legations, etc., see section 5066.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1362; amended Pub. L. 91–172, title I, § 101(j)(29), Dec. 30, 1969, 83 Stat. 529; Pub. L. 94–455, title XIX, §§ 1905(c)(2), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1823, 1834; Pub. L. 95–176, §§ 3(a), (d), 4(a), Nov. 14, 1977, 91 Stat. 1365; Pub. L. 96–39, title VIII, § 807(a)(28), July 26, 1979, 93 Stat. 285; Pub. L. 96–223, title II, § 232(e)(2)(B), Apr. 2, 1980, 94 Stat. 280; Pub. L. 98–369, div. A, title IV, § 455(a), July 18, 1984, 98 Stat. 823; Pub. L. 116–136, div. A, title II, § 2308(a), Mar. 27, 2020, 134 Stat. 359.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1362; amended Pub. L. 91–172, title I, § 101(j)(29), Dec. 30, 1969, 83 Stat. 529; Pub. L. 94–455, title XIX, §§ 1905(c)(2), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1823, 1834; Pub. L. 95–176, §§ 3(a), (d), 4(a), Nov. 14, 1977, 91 Stat. 1365; Pub. L. 96–39, title VIII, § 807(a)(28), July 26, 1979, 93 Stat. 285; Pub. L. 96–223, title II, § 232(e)(2)(B), Apr. 2, 1980, 94 Stat. 280; Pub. L. 98–369, div. A, title IV, § 455(a), July 18, 1984, 98 Stat. 823; Pub. L. 116–136, div. A, title II, § 2308(a), Mar. 27, 2020, 134 Stat. 359.)
 
 **Editorial Notes**
 
@@ -5204,21 +5204,21 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 646–6
 
 1980—Subsec. (a)(12). Pub. L. 96–223 added par. (12).
 
-1979—Subsec. (a)(6). Pub. L. 96–39, § 807(a)(28)(A), inserted “for manufacturing in such warehouses for export” after “bonded warehouses” and substituted “by law” for “by section 5522(a)”.
+1979—Subsec. (a)(6). Pub. L. 96–39, § 807(a)(28)(A), inserted “for manufacturing in such warehouses for export” after “bonded warehouses” and substituted “by law” for “by section 5522(a)”.
 
-Subsec. (a)(9). Pub. L. 96–39, § 807(a)(28)(B), struck out “in the case of distilled spirits bottled in bond for export under section 5233 or distilled spirits returned to bonded premises under section 5215(b),” after “payment of tax,”.
+Subsec. (a)(9). Pub. L. 96–39, § 807(a)(28)(B), struck out “in the case of distilled spirits bottled in bond for export under section 5233 or distilled spirits returned to bonded premises under section 5215(b),” after “payment of tax,”.
 
-Subsec. (a)(10). Pub. L. 96–39, § 807(a)(28)(C), (D), substituted “distilled spirits operations” for “distillery operations”.
+Subsec. (a)(10). Pub. L. 96–39, § 807(a)(28)(C), (D), substituted “distilled spirits operations” for “distillery operations”.
 
-Subsec. (a)(11). Pub. L. 96–39, § 807(a)(28)(D), added par. (11).
+Subsec. (a)(11). Pub. L. 96–39, § 807(a)(28)(D), added par. (11).
 
-Subsec. (b)(4) to (8). Pub. L. 96–39, § 807(a)(28)(E), added par. (4) and redesignated former pars. (4) to (7) as (5) to (8), respectively.
+Subsec. (b)(4) to (8). Pub. L. 96–39, § 807(a)(28)(E), added par. (4) and redesignated former pars. (4) to (7) as (5) to (8), respectively.
 
-1977—Subsec. (a)(9). Pub. L. 95–176, § 3(a), substituted provisions for withdrawal of distilled spirits from bonded premises without payment of tax where the distilled spirits are bottled in bond for export or are returned to bonded premises for transfer (for the purpose of storage pending exportation) to any customs bonded warehouse for exportation and requiring the transferred distilled spirits to be entered, stored, and accounted for, for prior provision for tax free withdrawals for use as samples in making tests or laboratory analyses.
+1977—Subsec. (a)(9). Pub. L. 95–176, § 3(a), substituted provisions for withdrawal of distilled spirits from bonded premises without payment of tax where the distilled spirits are bottled in bond for export or are returned to bonded premises for transfer (for the purpose of storage pending exportation) to any customs bonded warehouse for exportation and requiring the transferred distilled spirits to be entered, stored, and accounted for, for prior provision for tax free withdrawals for use as samples in making tests or laboratory analyses.
 
-Subsec. (a)(10). Pub. L. 95–176, § 4(a), added par. (10).
+Subsec. (a)(10). Pub. L. 95–176, § 4(a), added par. (10).
 
-Subsec. (b)(7). Pub. L. 95–176, § 3(d), added par. (7).
+Subsec. (b)(7). Pub. L. 95–176, § 3(d), added par. (7).
 
 1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary” in introductory provisions and struck out “or Territory” after “State” in par. (2).
 
@@ -5228,7 +5228,7 @@ Subsec. (b)(7). Pub. L. 95–176, § 3(d), added par. (7).
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–136, div. A, title II, § 2308(b), Mar. 27, 2020, 134 Stat. 359, provided that: “The amendments made by this section [amending this section] shall apply to distilled spirits removed after December 31, 2019.”
+Pub. L. 116–136, div. A, title II, § 2308(b), Mar. 27, 2020, 134 Stat. 359, provided that: “The amendments made by this section [amending this section] shall apply to distilled spirits removed after December 31, 2019.”
 
 **Effective Date of 1984 Amendment**
 
@@ -5256,7 +5256,7 @@ Amendment by Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of P
 
 **Application of Other Laws**
 
-Pub. L. 116–136, div. A, title II, § 2308(c), Mar. 27, 2020, 134 Stat. 359, provided that:
+Pub. L. 116–136, div. A, title II, § 2308(c), Mar. 27, 2020, 134 Stat. 359, provided that:
 
 > “Any distilled spirits or product described in paragraph (14) of section 5214(a) of the Internal Revenue Code of 1986 (as added by this section) shall not be subject to any requirements related to labeling or bulk sales under—
 
@@ -5264,7 +5264,7 @@ Pub. L. 116–136, div. A, title II, § 2308(c), Mar. 27, 2020, 134 Stat. 359,
 
 > **“(2)** section 204 of the Alcoholic Beverage Labeling Act of 1988 (27 U.S.C. 215).”
 
-##### § 5215. Return of tax determined distilled spirits to bonded premises
+##### § 5215. Return of tax determined distilled spirits to bonded premises
 
 **(a) General rule**
 
@@ -5282,7 +5282,7 @@ Under such regulations as the Secretary shall prescribe, bottled distilled spiri
 
 For provisions relating to the abatement, credit, or refund of tax on distilled spirits returned to a distilled spirits plant under this section, see section 5008(c).
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1364; amended Pub. L. 89–44, title VIII, § 805(c), June 21, 1965, 79 Stat. 161; Pub. L. 91–659, § 2(c), Jan. 8, 1971, 84 Stat. 1964; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, § 2(a), Nov. 14, 1977, 91 Stat. 1363; Pub. L. 96–39, title VIII, § 807(a)(29), July 26, 1979, 93 Stat. 285; Pub. L. 98–369, div. A, title IV, § 454(c)(7), July 18, 1984, 98 Stat. 821.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1364; amended Pub. L. 89–44, title VIII, § 805(c), June 21, 1965, 79 Stat. 161; Pub. L. 91–659, § 2(c), Jan. 8, 1971, 84 Stat. 1964; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, § 2(a), Nov. 14, 1977, 91 Stat. 1363; Pub. L. 96–39, title VIII, § 807(a)(29), July 26, 1979, 93 Stat. 285; Pub. L. 98–369, div. A, title IV, § 454(c)(7), July 18, 1984, 98 Stat. 821.)
 
 **Editorial Notes**
 
@@ -5306,9 +5306,9 @@ Subsec. (e). Pub. L. 95–176 redesignated former subsec. (b) as par. (1) and ad
 
 1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1971—Subsec. (a). Pub. L. 91–659, § 2(c)(1), struck out requirements that withdrawn distilled spirits be returned when found unsuitable, in bulk containers, before processing and before removal from the original container and permitted return of withdrawn distilled spirits other than products to which any alcoholic ingredients other than such distilled spirits have been added and made additional authorization under section 5234(a)(1)(B) for mingling returned distilled spirits.
+1971—Subsec. (a). Pub. L. 91–659, § 2(c)(1), struck out requirements that withdrawn distilled spirits be returned when found unsuitable, in bulk containers, before processing and before removal from the original container and permitted return of withdrawn distilled spirits other than products to which any alcoholic ingredients other than such distilled spirits have been added and made additional authorization under section 5234(a)(1)(B) for mingling returned distilled spirits.
 
-Subsec. (b). Pub. L. 91–659, § 2(c)(2), (3), repealed subsec. (b) which provided for definition of “original container in which such distilled spirits were withdrawn from bonded premises” in the case of distilled spirits withdrawn by pipeline. Former subsec. (c) redesignated (b).
+Subsec. (b). Pub. L. 91–659, § 2(c)(2), (3), repealed subsec. (b) which provided for definition of “original container in which such distilled spirits were withdrawn from bonded premises” in the case of distilled spirits withdrawn by pipeline. Former subsec. (c) redesignated (b).
 
 1965—Subsec. (a). Pub. L. 89–44 inserted reference to destruction to redistillation, denaturation, and mingling in second sentence on list of options which might be used in disposing of returned distilled spirits.
 
@@ -5338,11 +5338,11 @@ Amendment by Pub. L. 89–44 effective July 1, 1965, see section 805(g)(1) of Pu
 
 Subsec. (a) of this section to apply to distilled spirits to which alcoholic ingredients other than distilled spirits have been added and which have been withdrawn from a distilled spirits plant before Jan. 1, 1980, only if such spirits are returned to the distilled spirits plant from which withdrawn, see section 808(e) of Pub. L. 96–39, set out as a note under section 5061 of this title.
 
-##### § 5216. Regulation of operations
+##### § 5216. Regulation of operations
 
 For general provisions relating to operations on bonded premises see part I of this subchapter.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1364.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1364.)
 
 **Editorial Notes**
 
@@ -5350,7 +5350,7 @@ For general provisions relating to operations on bonded premises see part I of t
 
 A prior section 5216, act Aug. 16, 1954, ch. 736, 68A Stat. 640, related to “mash, wort and vinegar; vinegar factories”, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5178(c)(4), 5222(a)(1), (2)(D), (d), 5501, 5502(a), 5503, 5504(a), (b), 5505(a), (c) and 5601(a)(7), (8), (9)(A) of this title.
 
-A prior section 5217, acts Aug. 16, 1954, ch. 736, 68A Stat. 641; July 11, 1956, ch. 573, § 1, 70 Stat. 530; July 11, 1958, Pub. L. 85–517, 72 Stat. 357, related to national emergency transfers, prior to the general revision of this chapter by Pub. L. 85–859.
+A prior section 5217, acts Aug. 16, 1954, ch. 736, 68A Stat. 641; July 11, 1956, ch. 573, § 1, 70 Stat. 530; July 11, 1958, Pub. L. 85–517, 72 Stat. 357, related to national emergency transfers, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Subpart B—Production
 
@@ -5358,9 +5358,9 @@ A prior section 5217, acts Aug. 16, 1954, ch. 736, 68A Stat. 641; July 11, 1956,
 
 **Amendments**
 
-1965—Pub. L. 89–44, title VIII, § 805(f)(9), June 21, 1965, 79 Stat. 161, inserted reference to articles and residues in item 5223.
+1965—Pub. L. 89–44, title VIII, § 805(f)(9), June 21, 1965, 79 Stat. 161, inserted reference to articles and residues in item 5223.
 
-##### § 5221. Commencement, suspension, and resumption of operations
+##### § 5221. Commencement, suspension, and resumption of operations
 
 **(a) Commencement, suspension, and resumption**
 
@@ -5370,7 +5370,7 @@ The proprietor of a distilled spirits plant authorized to produce distilled spir
 
 For penalty and forfeiture for carrying on the business of distiller after having given notice of suspension, see sections 5601(a)(14) and 5615(3).
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1364; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 806(b), July 26, 1979, 93 Stat. 279.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1364; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 806(b), July 26, 1979, 93 Stat. 279.)
 
 **Editorial Notes**
 
@@ -5394,7 +5394,7 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
 
-##### § 5222. Production, receipt, removal, and use of distilling materials
+##### § 5222. Production, receipt, removal, and use of distilling materials
 
 **(a) Production, removal, and use**
 
@@ -5426,7 +5426,7 @@ The Secretary may by regulations provide for the removal from the distilling sys
 
 For penalty and forfeiture for unlawful production, removal, or use of material fit for distillation or for the production of distilled spirits, and for penalty and forfeiture for unlawful production of distilled spirits, see sections 5601(a)(7), 5601(a)(8), and 5615(4).
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1365; amended Pub. L. 94–455, title XIX, §§ 1905(b)(6)(D), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1823, 1834; Pub. L. 95–458, § 2(b)(4), Oct. 14, 1978, 92 Stat. 1256; Pub. L. 96–39, title VIII, § 807(a)(30), July 26, 1979, 93 Stat. 286; Pub. L. 105–34, title XIV, § 1414(a), Aug. 5, 1997, 111 Stat. 1047.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1365; amended Pub. L. 94–455, title XIX, §§ 1905(b)(6)(D), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1823, 1834; Pub. L. 95–458, § 2(b)(4), Oct. 14, 1978, 92 Stat. 1256; Pub. L. 96–39, title VIII, § 807(a)(30), July 26, 1979, 93 Stat. 286; Pub. L. 105–34, title XIV, § 1414(a), Aug. 5, 1997, 111 Stat. 1047.)
 
 **Editorial Notes**
 
@@ -5446,13 +5446,13 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 640, 64
 
 1997—Subsec. (b)(2). Pub. L. 105–34 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “conveyed without payment of tax from contiguous brewery premises where produced; or”.
 
-1979—Subsec. (c). Pub. L. 96–39 struck out “, in the production facilities of a distilled spirits plant” after “distilling material”.
+1979—Subsec. (c). Pub. L. 96–39 struck out “, in the production facilities of a distilled spirits plant” after “distilling material”.
 
 1978—Subsec. (a)(2)(C). Pub. L. 95–458 inserted reference to section 5053(e).
 
-1976—Subsecs. (a)(1), (b), (c). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsecs. (a)(1), (b), (c). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (d). Pub. L. 94–455, § 1905(b)(6)(D), struck out “5601(b)(3), 5601(b)(4),” after “5601(a)(8),”.
+Subsec. (d). Pub. L. 94–455, § 1905(b)(6)(D), struck out “5601(b)(3), 5601(b)(4),” after “5601(a)(8),”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5472,7 +5472,7 @@ Amendment by Pub. L. 95–458 effective on first day of first calendar month beg
 
 Amendment by section 1905(b)(6)(D) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
 
-##### § 5223. Redistillation of spirits, articles, and residues
+##### § 5223. Redistillation of spirits, articles, and residues
 
 **(a) Spirits on bonded premises**
 
@@ -5494,7 +5494,7 @@ Distilled spirits recovered by the redistillation of denatured distilled spirits
 
 All distilled spirits redistilled on bonded premises subsequent to production gauge shall be treated the same as if such spirits had been originally produced by the redistiller and all provisions of this chapter applicable to the original production of distilled spirits shall be applicable thereto. Any prior obligation as to taxes, liens, and bonds with respect to such distilled spirits shall be extinguished on redistillation. Nothing in this subsection shall be construed as affecting any provision of law relating to the labeling of distilled spirits or as limiting the authority of the Secretary to regulate the marking, branding, or identification of distilled spirits redistilled under this section.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1365; amended Pub. L. 89–44, title VIII, § 805(d), (f)(8), (10), June 21, 1965, 79 Stat. 161, 162; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(31), July 26, 1979, 93 Stat. 286.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1365; amended Pub. L. 89–44, title VIII, § 805(d), (f)(8), (10), June 21, 1965, 79 Stat. 161, 162; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(31), July 26, 1979, 93 Stat. 286.)
 
 **Editorial Notes**
 
@@ -5511,19 +5511,19 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 635, 64
 
 **Amendments**
 
-1979—Subsec. (c). Pub. L. 96–39, § 807(a)(31)(A), inserted “or on the bonded premises of a distilled spirits plant” after “subchapter D,”.
+1979—Subsec. (c). Pub. L. 96–39, § 807(a)(31)(A), inserted “or on the bonded premises of a distilled spirits plant” after “subchapter D,”.
 
-Subsec. (e). Pub. L. 96–39, § 807(a)(31)(B), struck out provisions relating to the treatment of the processing of distilled spirits, subsequent to production gauge, in the manufacture of vodka in the production facilities of a distilled spirits plant as a redistillation of the spirits for purposes of this subsection, subsection (a), and sections 5025(d) and 5215.
+Subsec. (e). Pub. L. 96–39, § 807(a)(31)(B), struck out provisions relating to the treatment of the processing of distilled spirits, subsequent to production gauge, in the manufacture of vodka in the production facilities of a distilled spirits plant as a redistillation of the spirits for purposes of this subsection, subsection (a), and sections 5025(d) and 5215.
 
 1976—Subsecs. (a) to (c), (e). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1965—Pub. L. 89–44, § 805(f)(8), substituted “spirits, articles, and residues” for “spirits” in section catchline.
+1965—Pub. L. 89–44, § 805(f)(8), substituted “spirits, articles, and residues” for “spirits” in section catchline.
 
-Subsec. (c). Pub. L. 89–44, § 805(d), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 89–44, § 805(d), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 89–44, § 805(d), (f)(10), redesignated subsec. (c) as (d), inserted “, articles, and residues” after “distilled spirits” in heading, and inserted “, or by the redistillation of the articles or residues described in subsection (c),” after “denatured distilled spirits” in text. Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 89–44, § 805(d), (f)(10), redesignated subsec. (c) as (d), inserted “, articles, and residues” after “distilled spirits” in heading, and inserted “, or by the redistillation of the articles or residues described in subsection (c),” after “denatured distilled spirits” in text. Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 89–11, § 805(d), redesignated former subsec. (d) as (e).
+Subsec. (e). Pub. L. 89–11, § 805(d), redesignated former subsec. (d) as (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5541,13 +5541,13 @@ Amendment by Pub. L. 89–44 effective Oct. 1, 1965, see section 805(g)(2) of Pu
 
 **Amendments**
 
-1979—Pub. L. 96–39, title VIII, § 807(b)(6), July 26, 1979, 93 Stat. 290, substituted “Entry for deposit” for “Entry for deposit in storage” in item 5231 and struck out items 5233 “Bottling of distilled spirits in bond” and 5234 “Mingling and blending of distilled spirits”.
+1979—Pub. L. 96–39, title VIII, § 807(b)(6), July 26, 1979, 93 Stat. 290, substituted “Entry for deposit” for “Entry for deposit in storage” in item 5231 and struck out items 5233 “Bottling of distilled spirits in bond” and 5234 “Mingling and blending of distilled spirits”.
 
-##### § 5231. Entry for deposit
+##### § 5231. Entry for deposit
 
 All distilled spirits entered for deposit on the bonded premises of a distilled spirits plant under section 5211 shall, under such regulations as the Secretary shall prescribe, be deposited in the facilities on the bonded premises designated in the entry for deposit.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1366; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(32), July 26, 1979, 93 Stat. 286.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1366; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(32), July 26, 1979, 93 Stat. 286.)
 
 **Editorial Notes**
 
@@ -5573,7 +5573,7 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
 
-##### § 5232. Imported distilled spirits
+##### § 5232. Imported distilled spirits
 
 **(a) Transfer to distilled spirits plant without payment of tax**
 
@@ -5585,13 +5585,13 @@ Distilled spirits imported or brought into the United States in bulk containers 
 
 **(2)** may be withdrawn for any purpose authorized by this chapter, in the same manner as domestic distilled spirits.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1366; amended Pub. L. 90–630, § 3(a), Oct. 22, 1968, 82 Stat. 1328; Pub. L. 91–659, § 7, Jan. 8, 1971, 84 Stat. 1967; Pub. L. 94–455, title XIX, § 1905(a)(15), Oct. 4, 1976, 90 Stat. 1820; Pub. L. 96–39, title VIII, § 807(a)(33), July 26, 1979, 93 Stat. 286.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1366; amended Pub. L. 90–630, § 3(a), Oct. 22, 1968, 82 Stat. 1328; Pub. L. 91–659, § 7, Jan. 8, 1971, 84 Stat. 1967; Pub. L. 94–455, title XIX, § 1905(a)(15), Oct. 4, 1976, 90 Stat. 1820; Pub. L. 96–39, title VIII, § 807(a)(33), July 26, 1979, 93 Stat. 286.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5232, acts Aug. 16, 1954, ch. 736, 68A Stat. 643; Sept. 2, 1958, Pub. L. 85–859, title II, § 206(b), 72 Stat. 1431, related to bond requirements of internal revenue bonded warehouses, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5005(c)(1), 5006(a)(2), 5173(a), (c)(1), 5174(a)(1), 5176(a), (b), and 5177(b)(1) of this title.
+A prior section 5232, acts Aug. 16, 1954, ch. 736, 68A Stat. 643; Sept. 2, 1958, Pub. L. 85–859, title II, § 206(b), 72 Stat. 1431, related to bond requirements of internal revenue bonded warehouses, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5005(c)(1), 5006(a)(2), 5173(a), (c)(1), 5174(a)(1), 5176(a), (b), and 5177(b)(1) of this title.
 
 Provisions similar to those comprising this section were contained in prior section 5311, act Aug. 16, 1954, ch. 736, 68A Stat. 658, prior to the general revision of this chapter by Pub. L. 85–859.
 
@@ -5599,11 +5599,11 @@ Provisions similar to those comprising this section were contained in prior sect
 
 1979—Subsec. (b). Pub. L. 96–39 redesignated par. (2) and (3) as (1) and (2). Former par. (1), which prohibited distilled spirits transferred pursuant to subsection (a) from being bottled in bond under section 5233, was struck out.
 
-1976—Subsec. (a). Pub. L. 94–455 inserted “, or the person bringing such distilled spirits into the United States,” after “and the importer”.
+1976—Subsec. (a). Pub. L. 94–455 inserted “, or the person bringing such distilled spirits into the United States,” after “and the importer”.
 
-1971—Subsec. (a). Pub. L. 91–659, § 7(a), extended privilege of transfer of distilled spirits to the plant without payment of tax to distilled spirits imported, or brought into the United States, and struck out reference to section 5001.
+1971—Subsec. (a). Pub. L. 91–659, § 7(a), extended privilege of transfer of distilled spirits to the plant without payment of tax to distilled spirits imported, or brought into the United States, and struck out reference to section 5001.
 
-Subsec. (b). Pub. L. 91–659, § 7(b), struck out “Imported” before “distilled spirits” and thus applied subsection to all distilled spirits.
+Subsec. (b). Pub. L. 91–659, § 7(b), struck out “Imported” before “distilled spirits” and thus applied subsection to all distilled spirits.
 
 1968—Pub. L. 90–630 permitted withdrawal in bulk containers or by pipeline from customs custody to internal revenue bond without payment of internal revenue taxes of all imported distilled spirits in bulk containers, regardless of proof, extended to all such imported distilled spirits the withdrawal privileges already available to imported distilled spirits of at least 185 proof, whether or not they have been redistilled or denatured, provided that transferor’s liability for the internal revenue tax ceases when the transferee’s liability attaches, and established that imported bulk spirits are not eligible for the bottled in bond privileges available to domestic spirits.
 
@@ -5625,13 +5625,13 @@ Amendment by Pub. L. 91–659 effective on first day of first calendar month whi
 
 Amendment by Pub. L. 90–630 applicable only to withdrawals from customs custody on or after first day of first calendar month which begins more than 90 days after Oct. 22, 1968, see section 4 of Pub. L. 90–630, set out as a note under section 5008 of this title.
 
-##### [§ 5233. Repealed. Pub. L. 96–39, title VIII, § 807(a)(34), July 26, 1979, 93 Stat. 286]
+##### [§ 5233. Repealed. Pub. L. 96–39, title VIII, § 807(a)(34), July 26, 1979, 93 Stat. 286]
 
-Section, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1366; amended Pub. L. 94–455, title XIX, §§ 1905(a)(16), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1820, 1834, related to the bottling of distilled spirits in bond.
+Section, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1366; amended Pub. L. 94–455, title XIX, §§ 1905(a)(16), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1820, 1834, related to the bottling of distilled spirits in bond.
 
 A prior section 5233, act Aug. 16, 1954, ch. 736, 68A Stat. 644, made a cross reference provision to establishment of bottling in bond department, prior to the general revision of this chapter by Pub. L. 85–859.
 
-Provisions similar to those comprising subsecs. (a) to (d) and (e)(1) of section 5233 added by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1366, were contained in prior section 5243(a) to (c), (g), act Aug. 16, 1954, ch. 736, 68A Stat. 645, as amended by Pub. L. 85–859, title II, § 206(c), Sept. 2, 1958, 72 Stat. 1431.
+Provisions similar to those comprising subsecs. (a) to (d) and (e)(1) of section 5233 added by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1366, were contained in prior section 5243(a) to (c), (g), act Aug. 16, 1954, ch. 736, 68A Stat. 645, as amended by Pub. L. 85–859, title II, § 206(c), Sept. 2, 1958, 72 Stat. 1431.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5639,9 +5639,9 @@ Provisions similar to those comprising subsecs. (a) to (d) and (e)(1) of section
 
 Repeal effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as an Effective Date of 1979 Amendment note under section 5001 of this title.
 
-##### [§ 5234. Repealed. Pub. L. 96–39, title VIII, § 807(a)(35), July 26, 1979, 93 Stat. 286]
+##### [§ 5234. Repealed. Pub. L. 96–39, title VIII, § 807(a)(35), July 26, 1979, 93 Stat. 286]
 
-Section, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1367; amended Pub. L. 89–44, title VIII, § 805(f)(11), June 21, 1965, 79 Stat. 162; Pub. L. 94–455, title XIX, §§ 1905(a)(17), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1820, 1834; Pub. L. 95–176, § 5(a), Nov. 14, 1977, 91 Stat. 1366, related to the mingling and blending of distilled spirits.
+Section, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1367; amended Pub. L. 89–44, title VIII, § 805(f)(11), June 21, 1965, 79 Stat. 162; Pub. L. 94–455, title XIX, §§ 1905(a)(17), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1820, 1834; Pub. L. 95–176, § 5(a), Nov. 14, 1977, 91 Stat. 1366, related to the mingling and blending of distilled spirits.
 
 Provisions similar to those comprising section 5234(a)(1)(A) and (b) to (d) of this title were contained in prior sections of act Aug. 16, 1954, ch. 736, prior to the general revision of this chapter by Pub. L. 85–859, as follows:
 
@@ -5660,11 +5660,11 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 606, 64
 
 Repeal effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as an Effective Date of 1979 Amendment note under section 5001 of this title.
 
-##### § 5235. Bottling of alcohol for industrial purposes
+##### § 5235. Bottling of alcohol for industrial purposes
 
 Alcohol for industrial purposes may be bottled, labeled, and cased on bonded premises of a distilled spirits plant prior to payment or determination of tax, under such regulations as the Secretary may prescribe.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1369; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(36), July 26, 1979, 93 Stat. 286; Pub. L. 98–369, div. A, title IV, § 454(c)(8), July 18, 1984, 98 Stat. 821.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1369; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(36), July 26, 1979, 93 Stat. 286; Pub. L. 98–369, div. A, title IV, § 454(c)(8), July 18, 1984, 98 Stat. 821.)
 
 **Editorial Notes**
 
@@ -5690,11 +5690,11 @@ Amendment by Pub. L. 98–369 effective July 1, 1985, see section 456(b) of Pub.
 
 Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as a note under section 5001 of this title.
 
-##### § 5236. Discontinuance of storage facilities and transfer of distilled spirits
+##### § 5236. Discontinuance of storage facilities and transfer of distilled spirits
 
 When the Secretary finds any facilities for the storage of distilled spirits on bonded premises to be unsafe or unfit for use, or the spirits contained therein subject to great loss or wastage he may require the discontinuance of the use of such facilities and require the spirits contained therein to be transferred to such other storage facilities as he may designate. Such transfer shall be made at such time and under such supervision as the Secretary may require and the expense of the transfer shall be paid by the owner or the warehouseman of the distilled spirits. Whenever the owner of such distilled spirits or the warehouseman fails to make such transfer within the time prescribed, or to pay the just and proper expense of such transfer, as ascertained and determined by the Secretary, such distilled spirits may be seized and sold by the Secretary in the same manner as goods are sold on distraint for taxes, and the proceeds of such sale shall be applied to the payment of the taxes due thereon and the cost and expenses of such sale and removal, and the balance paid over to the owner of such distilled spirits.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1369; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1369; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -5708,11 +5708,11 @@ Provisions similar to those comprising this section were contained in prior sect
 
 #### Subpart D—Denaturation
 
-##### § 5241. Authority to denature
+##### § 5241. Authority to denature
 
 Under such regulations as the Secretary shall prescribe, distilled spirits may be denatured on the bonded premises of a distilled spirits plant qualified for the processing of distilled spirits. Distilled spirits to be denatured under this section shall be of such kind and such degree of proof as the Secretary shall by regulations prescribe. Distilled spirits denatured under this section may be used on the bonded premises of a distilled spirits plant in the manufacture of any article.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1369; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(37), July 26, 1979, 93 Stat. 286.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1369; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(37), July 26, 1979, 93 Stat. 286.)
 
 **Editorial Notes**
 
@@ -5738,17 +5738,17 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
 
-##### § 5242. Denaturing materials
+##### § 5242. Denaturing materials
 
 Methanol or other denaturing materials suitable to the use for which the denatured distilled spirits are intended to be withdrawn shall be used for the denaturation of distilled spirits. Denaturing materials shall be such as to render the spirits with which they are admixed unfit for beverage or internal human medicinal use. The character and the quantity of denaturing materials used shall be as prescribed by the Secretary by regulations.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1369; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1369; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5242, acts Aug. 16, 1954, ch. 736, 68A Stat. 645; Sept. 2, 1958, Pub. L. 85–859, title II, § 206(e), 72 Stat. 1431, related to deposit of spirits in warehouses, prior to the general revision of this chapter by Pub. L. 85–859.
+A prior section 5242, acts Aug. 16, 1954, ch. 736, 68A Stat. 645; Sept. 2, 1958, Pub. L. 85–859, title II, § 206(e), 72 Stat. 1431, related to deposit of spirits in warehouses, prior to the general revision of this chapter by Pub. L. 85–859.
 
 Provisions similar to those comprising this section were contained in prior sections 5303, 5310(a) and 5331(a)(1), (2), act Aug. 16, 1954, ch. 736, 68A Stat. 655, 658, 661, prior to the general revision of this chapter by Pub. L. 85–859.
 
@@ -5756,17 +5756,17 @@ Provisions similar to those comprising this section were contained in prior sect
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-##### § 5243. Sale of abandoned spirits for denaturation without collection of tax
+##### § 5243. Sale of abandoned spirits for denaturation without collection of tax
 
 Notwithstanding any other provision of law, any distilled spirits abandoned to the United States may be sold, in such cases as the Secretary may by regulation provide, to the proprietor of any distilled spirits plant for denaturation, or redistillation and denaturation, without the payment of the internal revenue tax thereon.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1370; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1370; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5243, acts Aug. 16, 1954, ch. 736, 68A Stat. 645; Sept. 2, 1958, Pub. L. 85–859, § 206(c), 72 Stat. 1431, related to bottling of distilled spirits in bond, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5171, 5172, 5175, 5178(a)(3)(C), (4)(A), 5202(g), 5206(c), 5214(a)(4), and 5233(a) to (c), (e)(1) of this title and section 121 of Title 27, Intoxicating Liquors.
+A prior section 5243, acts Aug. 16, 1954, ch. 736, 68A Stat. 645; Sept. 2, 1958, Pub. L. 85–859, § 206(c), 72 Stat. 1431, related to bottling of distilled spirits in bond, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5171, 5172, 5175, 5178(a)(3)(C), (4)(A), 5202(g), 5206(c), 5214(a)(4), and 5233(a) to (c), (e)(1) of this title and section 121 of Title 27, Intoxicating Liquors.
 
 Provisions similar to those comprising this section were contained in prior section 5333, act Aug. 16, 1954, ch. 736, 68A Stat. 662, prior to the general revision of this chapter by Pub. L. 85–859.
 
@@ -5774,13 +5774,13 @@ Provisions similar to those comprising this section were contained in prior sect
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-##### § 5244. Cross references
+##### § 5244. Cross references
 
 **(1)** For provisions authorizing the withdrawal from the bonded premises of a distilled spirits plant of denatured distilled spirits, see section 5214(a)(1).
 
 **(2)** For provisions requiring a permit to procure specially denatured distilled spirits, see section 5271.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1370.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1370.)
 
 **Editorial Notes**
 
@@ -5790,15 +5790,15 @@ A prior section 5244, act Aug. 16, 1954, ch. 736, 68A Stat. 647, related to with
 
 ### [PART III—REPEALED]
 
-#### [§§ 5251, 5252. Repealed. Pub. L. 96–39, title VIII, § 807(a)(38), July 26, 1979, 93 Stat. 286]
+#### [§§ 5251, 5252. Repealed. Pub. L. 96–39, title VIII, § 807(a)(38), July 26, 1979, 93 Stat. 286]
 
-Section 5251, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1370; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, required proprietors of distilled spirits plants to give notice of their intention to rectify or compound any distilled spirits or wines.
+Section 5251, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1370; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, required proprietors of distilled spirits plants to give notice of their intention to rectify or compound any distilled spirits or wines.
 
 A prior section 5251, act Aug. 16, 1954, ch. 736, 68A Stat. 649, made a cross reference provision to “blending of beverage brandies in internal revenue bonded warehouses”, prior to the general revision of this chapter by Pub. L. 85–859.
 
 Provisions similar to those comprising section 5251 of this title were contained in prior section 5282(a), act Aug. 16, 1954, ch. 736, 68A Stat. 651, prior to the general revision of this chapter by Pub. L. 85–859.
 
-Section 5252, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1370, set out cross references to other sections with regard to the regulation of operations.
+Section 5252, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1370, set out cross references to other sections with regard to the regulation of operations.
 
 A prior section 5252, act Aug. 16, 1954, ch. 736, 68A Stat. 649, related to “discontinuance of warehouse and transfer of merchandise”, prior to the general revision of this chapter by Pub. L. 85–859. See section 5236 of this title.
 
@@ -5814,13 +5814,13 @@ Repeal effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as an
 
 **Prior Provisions**
 
-A prior subchapter D, Rectifying Plants, consisted of part I, Establishment, and part II, Operation, and comprised sections 5271 to 5275 and 5281 to 5285, respectively, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior subchapter D, Rectifying Plants, consisted of part I, Establishment, and part II, Operation, and comprised sections 5271 to 5275 and 5281 to 5285, respectively, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
 **Amendments**
 
-1987—Pub. L. 100–203, title X, § 10512(e)(2), Dec. 22, 1987, 101 Stat. 1330–449, added item 5276.
+1987—Pub. L. 100–203, title X, § 10512(e)(2), Dec. 22, 1987, 101 Stat. 1330–449, added item 5276.
 
-### § 5271. Permits
+### § 5271. Permits
 
 **(a) Requirements** No person shall—
 
@@ -5882,7 +5882,7 @@ Permits issued under this section, to use distilled spirits free of tax, to deal
 
 The Secretary shall prescribe all necessary regulations relating to issuance, denial, suspension, or revocation, of permits under this section, and for the disposition of distilled spirits (including specially denatured distilled spirits) procured under permit pursuant to this section which remain unused when such permit is no longer in effect.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1370; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1370; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -5902,7 +5902,7 @@ Provisions similar to those comprising subsecs. (a) to (f) and (h) of this secti
 
 Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
 
-### § 5272. Bonds
+### § 5272. Bonds
 
 **(a) Requirements**
 
@@ -5912,7 +5912,7 @@ Before any permit required by section 5271(a) is granted, the Secretary may requ
 
 No bond shall be required in the case of permits issued to the United States or any governmental agency thereof, or to the several States or any political subdivision thereof, or to the District of Columbia.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1372; amended Pub. L. 94–455, title XIX, §§ 1905(c)(3), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1823, 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1372; amended Pub. L. 94–455, title XIX, §§ 1905(c)(3), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1823, 1834.)
 
 **Editorial Notes**
 
@@ -5924,9 +5924,9 @@ Provisions similar to those comprising this section were contained in prior sect
 
 **Amendments**
 
-1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (b). Pub. L. 94–455, § 1905(c)(3), struck out “and Territories” after “several States”.
+Subsec. (b). Pub. L. 94–455, § 1905(c)(3), struck out “and Territories” after “several States”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5934,7 +5934,7 @@ Subsec. (b). Pub. L. 94–455, § 1905(c)(3), struck out “and Territories”
 
 Amendment by section 1905(c)(3) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
 
-### § 5273. Sale, use, and recovery of denatured distilled spirits
+### § 5273. Sale, use, and recovery of denatured distilled spirits
 
 **(a) Use of specially denatured distilled spirits**
 
@@ -5966,7 +5966,7 @@ No person shall withdraw or sell denatured distilled spirits, or sell any articl
 
 **(3)** For definition of “articles”, see section 5002(a)(14).
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1372; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(39), July 26, 1979, 93 Stat. 286; Pub. L. 115–141, div. U, title IV, § 401(a)(244), Mar. 23, 2018, 132 Stat. 1195.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1372; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(39), July 26, 1979, 93 Stat. 286; Pub. L. 115–141, div. U, title IV, § 401(a)(244), Mar. 23, 2018, 132 Stat. 1195.)
 
 **Editorial Notes**
 
@@ -6000,11 +6000,11 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 655, 65
 
 Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as a note under section 5001 of this title.
 
-### § 5274. Applicability of other laws
+### § 5274. Applicability of other laws
 
 The provisions, including penalties, of sections 9, and 10 of the Federal Trade Commission Act (15 U.S.C., secs. 49, 50), as now or hereafter amended, shall apply to the jurisdiction, powers, and duties of the Secretary under this subtitle, and to any person (whether or not a corporation) subject to the provisions of this subtitle.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1372; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1372; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -6018,11 +6018,11 @@ Provisions similar to those comprising this section were contained in prior sect
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-### § 5275. Records and reports
+### § 5275. Records and reports
 
 Every person procuring or using distilled spirits withdrawn under section 5214(a)(2) or (3), or procuring, dealing in, or using specially denatured distilled spirits, or recovering specially denatured or completely denatured distilled spirits, shall keep such records and file such reports of the receipt and use of distilled spirits withdrawn free of tax, of the receipt, disposition, use, and recovery of denatured distilled spirits, the manufacture and disposition of articles, and such other information as the Secretary may be regulations require. The Secretary may require any person reprocessing, bottling or repackaging articles, or dealing in completely denatured distilled spirits or articles, to keep such records, submit such reports, and comply with such other requirements as he may by regulations prescribe. Records required to be kept under this section and a copy of all reports required to be filed shall be preserved as regulations shall prescribe and shall be kept available for inspection by any internal revenue officer during business hours. Such officer may also inspect and take samples of distilled spirits, denatured distilled spirits, or articles (including any substances for use in the manufacture thereof), to which such records or reports relate.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1373; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1373; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -6036,9 +6036,9 @@ Provisions similar to those comprising this section were contained in prior sect
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-### [§ 5276. Repealed. Pub. L. 109–59, title XI, § 11125(a)(3), Aug. 10, 2005, 119 Stat. 1953]
+### [§ 5276. Repealed. Pub. L. 109–59, title XI, § 11125(a)(3), Aug. 10, 2005, 119 Stat. 1953]
 
-Section, added Pub. L. 100–203, title X, § 10512(e)(1), Dec. 22, 1987, 101 Stat. 1330–448; amended Pub. L. 100–647, title II, § 2004(t)(1), title VI, § 6105(a), (b), Nov. 10, 1988, 102 Stat. 3609, 3711; Pub. L. 101–239, title VII, § 7816(*o*), Dec. 19, 1989, 103 Stat. 2422, related to occupational tax on permit holders.
+Section, added Pub. L. 100–203, title X, § 10512(e)(1), Dec. 22, 1987, 101 Stat. 1330–448; amended Pub. L. 100–647, title II, § 2004(t)(1), title VI, § 6105(a), (b), Nov. 10, 1988, 102 Stat. 3609, 3711; Pub. L. 101–239, title VII, § 7816(*o*), Dec. 19, 1989, 103 Stat. 2422, related to occupational tax on permit holders.
 
 A prior section 5281, act Aug. 16, 1954, ch. 736, 68A Stat. 651, related to regulation of business rectifier, prior to the general revision of this chapter by Pub. L. 85–859.
 
@@ -6058,7 +6058,7 @@ Repeal effective July 1, 2008, but inapplicable to taxes imposed for periods bef
 
 ## Subchapter E—General Provisions Relating to Distilled Spirits
 
-A prior subchapter E, Industrial Alcohol Plants, Bonded Warehouses, Denaturing Plants, and Denaturation, consisted of part I, Industrial Alcohol Plants, Bonded Warehouses, and Denaturing Plants and part II, Denaturation, and consisted of sections 5301 to 5320 and 5331 to 5334, respectively, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior subchapter E, Industrial Alcohol Plants, Bonded Warehouses, Denaturing Plants, and Denaturation, consisted of part I, Industrial Alcohol Plants, Bonded Warehouses, and Denaturing Plants and part II, Denaturation, and consisted of sections 5301 to 5320 and 5331 to 5334, respectively, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
 ### PART I—RETURN OF MATERIALS USED IN THE MANUFACTURE OR RECOVERY OF DISTILLED SPIRITS
 
@@ -6066,9 +6066,9 @@ A prior subchapter E, Industrial Alcohol Plants, Bonded Warehouses, Denaturing P
 
 **Prior Provisions**
 
-A prior part I, Industrial Alcohol Plants, Bonded Warehouses, and Denaturing Plants, consisted of sections 5301 to 5320, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior part I, Industrial Alcohol Plants, Bonded Warehouses, and Denaturing Plants, consisted of sections 5301 to 5320, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
-#### § 5291. General
+#### § 5291. General
 
 **(a) Requirement**
 
@@ -6082,7 +6082,7 @@ Every person disposing of any substance of the character used in the manufacture
 
 **(3)** For penalty for violation of subsection (a), see section 5605.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1373; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(40), July 26, 1979, 93 Stat. 286.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1373; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(40), July 26, 1979, 93 Stat. 286.)
 
 **Editorial Notes**
 
@@ -6092,9 +6092,9 @@ Provisions similar to those comprising this section were contained in prior sect
 
 **Amendments**
 
-1979—Subsec. (b)(1). Pub. L. 96–39, § 807(a)(40)(A), substituted “section 5002(a)(8)” for “section 5002(a)(6)”.
+1979—Subsec. (b)(1). Pub. L. 96–39, § 807(a)(40)(A), substituted “section 5002(a)(8)” for “section 5002(a)(6)”.
 
-Subsec. (b)(2). Pub. L. 96–39, § 807(a)(40)(B), substituted “section 5002(a)(14)” for “section 5002(a)(11)”.
+Subsec. (b)(2). Pub. L. 96–39, § 807(a)(40)(B), substituted “section 5002(a)(14)” for “section 5002(a)(11)”.
 
 1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
@@ -6114,9 +6114,9 @@ Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set o
 
 **Prior Provisions**
 
-A prior part II, Denaturation, consisted of section 5331 to 5334, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior part II, Denaturation, consisted of section 5331 to 5334, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
-#### § 5301. General
+#### § 5301. General
 
 **(a) Requirements** Whenever in his judgment such action is necessary to protect the revenue, the Secretary is authorized, by the regulations prescribed by him and permits issued thereunder if required by him—
 
@@ -6150,7 +6150,7 @@ The immediate container of distilled spirits withdrawn from bonded premises, or 
 
 For penalty for violation of this section, see section 5606.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1374; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(41), July 26, 1979, 93 Stat. 287; Pub. L. 98–369, div. A, title IV, § 454(b), (c)(9), July 18, 1984, 98 Stat. 820, 821.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1374; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(41), July 26, 1979, 93 Stat. 287; Pub. L. 98–369, div. A, title IV, § 454(b), (c)(9), July 18, 1984, 98 Stat. 820, 821.)
 
 **Editorial Notes**
 
@@ -6180,9 +6180,9 @@ A prior section 5310, act Aug. 16, 1954, ch. 736, 68A Stat. 658, related to with
 
 **Amendments**
 
-1984—Subsec. (c). Pub. L. 98–369, § 454(c)(9), substituted “tax determination” for “stamping” in pars. (1) and (3), and struck out “, if the liquor bottles are to be again stamped under the provisions of this chapter” after “by regulations prescribe” in provisions following par. (4).
+1984—Subsec. (c). Pub. L. 98–369, § 454(c)(9), substituted “tax determination” for “stamping” in pars. (1) and (3), and struck out “, if the liquor bottles are to be again stamped under the provisions of this chapter” after “by regulations prescribe” in provisions following par. (4).
 
-Subsec. (d). Pub. L. 98–369, § 454(b), added subsec. (d) and redesignated former subsec. (d) as (e).
+Subsec. (d). Pub. L. 98–369, § 454(b), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1979—Subsec. (a)(1). Pub. L. 96–39 substituted “section 5002(a)(8)” for “section 5002(a)(6)”.
 
@@ -6208,13 +6208,13 @@ Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set o
 
 **Amendments**
 
-1976—Pub. L. 94–455, title XIX, § 1905(b)(4), Oct. 4, 1976, 90 Stat. 1822, struck out item 5315 “Status of certain distilled spirits on July 1, 1959”.
+1976—Pub. L. 94–455, title XIX, § 1905(b)(4), Oct. 4, 1976, 90 Stat. 1822, struck out item 5315 “Status of certain distilled spirits on July 1, 1959”.
 
-#### § 5311. Detention of containers
+#### § 5311. Detention of containers
 
 It shall be lawful for any internal revenue officer to detain any container, containing or supposed to contain, distilled spirits, wines, or beer, when he has reason to believe that the tax imposed by law on such distilled spirits, wines, or beer has not been paid or determined as required by law, or that such container is being removed in violation of law; and every such container may be held by him at a safe place until it shall be determined whether the property so detained is liable by law to be proceeded against for forfeiture; but such summary detention shall not continue in any case longer than 72 hours without process of law or intervention of the officer to whom such detention is to be reported.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1375.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1375.)
 
 **Editorial Notes**
 
@@ -6230,7 +6230,7 @@ Provisions similar to those comprising this section were contained in prior sect
 
 Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
 
-#### § 5312. Production and use of distilled spirits for experimental research
+#### § 5312. Production and use of distilled spirits for experimental research
 
 **(a) Scientific institutions and colleges of learning**
 
@@ -6248,7 +6248,7 @@ Under such regulations as the Secretary may prescribe and on the filing of such 
 
 The Secretary may by regulations provide for the waiver of any provision of this chapter (other than this section) to the extent he deems necessary to effectuate the purposes of this section, except that he may not waive the payment of any tax on distilled spirits removed from any such university, college, institution, or plant.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1375; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1375; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -6270,11 +6270,11 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 640, 65
 
 1976—Subsecs. (a) to (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### § 5313. Withdrawal of distilled spirits from customs custody free of tax for use of the United States
+#### § 5313. Withdrawal of distilled spirits from customs custody free of tax for use of the United States
 
 Distilled spirits may be withdrawn free of tax from customs custody by the United States or any governmental agency thereof for its own use for nonbeverage purposes, under such regulations as may be prescribed by the Secretary.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1375; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1375; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -6288,7 +6288,7 @@ Provisions similar to those comprising this section were contained in prior sect
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-#### § 5314. Special applicability of certain provisions
+#### § 5314. Special applicability of certain provisions
 
 **(a) Puerto Rico**
 
@@ -6338,7 +6338,7 @@ The insular government of the Virgin Islands shall advance to the Treasury of th
 
 The Secretary may authorize the Governor of the Virgin Islands, or his duly authorized agents, to issue or adopt such regulations, to approve such bonds, and to issue, suspend, or revoke such permits, as are necessary to carry out the provisions of this subsection. When regulations have been issued or adopted under this paragraph with concurrence of the Secretary he may exempt the Virgin Islands from any provisions of law and regulations otherwise made applicable by the provisions of paragraph (1), except that denatured distilled spirits, articles and distilled spirits for tax-free purposes which are brought into the United States from the Virgin Islands under the provisions of this subsection shall in all respects conform to the requirements of law and regulations imposed on like products of domestic manufacture.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1375; amended Pub. L. 94–455, title XIX, §§ 1905(a)(18), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1820, 1834; Pub. L. 115–141, div. U, title IV, § 401(a)(245), Mar. 23, 2018, 132 Stat. 1195.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1375; amended Pub. L. 94–455, title XIX, §§ 1905(a)(18), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1820, 1834; Pub. L. 115–141, div. U, title IV, § 401(a)(245), Mar. 23, 2018, 132 Stat. 1195.)
 
 **Editorial Notes**
 
@@ -6352,9 +6352,9 @@ Provisions similar to those comprising subsec. (a)(2) of this section were conta
 
 2018—Subsec. (a)(2). Pub. L. 115–141 substituted “section 5001(a)(9)” for “section 5001(a)(10)” in introductory provisions.
 
-1976—Subsec. (a)(2). Pub. L. 94–455, § 1905(a)(18), substituted “section 5001(a)(10)” for “section 5001(a)(4)”.
+1976—Subsec. (a)(2). Pub. L. 94–455, § 1905(a)(18), substituted “section 5001(a)(10)” for “section 5001(a)(4)”.
 
-Subsec. (b)(2), (3). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+Subsec. (b)(2), (3). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6362,9 +6362,9 @@ Subsec. (b)(2), (3). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his
 
 Amendment by section 1905(a)(18) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
 
-#### [§ 5315. Repealed. Pub. L. 94–455, title XIX, § 1905(a)(19), Oct. 4, 1976, 90 Stat. 1820]
+#### [§ 5315. Repealed. Pub. L. 94–455, title XIX, § 1905(a)(19), Oct. 4, 1976, 90 Stat. 1820]
 
-Section 5315, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1377, related to status of certain distilled spirits on July 1, 1959.
+Section 5315, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1377, related to status of certain distilled spirits on July 1, 1959.
 
 A prior section 5316, act Aug. 16, 1954, ch. 736, 68A Stat. 660, related to form of affidavit, information or indictment, prior to the general revision of this chapter by Pub. L. 85–859. See Fed. Rules Cr. Proc., rules 7(c), (f), and 8(a), Title 18, Appendix, Crimes and Criminal Procedure.
 
@@ -6392,7 +6392,7 @@ Repeal effective on first day of first month which begins more than 90 days afte
 
 ## Subchapter F—Bonded and Taxpaid Wine Premises
 
-A prior subchapter F, Bonded and Taxpaid Wine Premises, consisted of part I, Establishment, part II, Operations, part III, Cellar Treatment and Classification of Wine, and part IV, General, and comprised sections 5351 to 5357, 5361 to 5373, 5381 to 5388, and 5391 to 5392, respectively, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior subchapter F, Bonded and Taxpaid Wine Premises, consisted of part I, Establishment, part II, Operations, part III, Cellar Treatment and Classification of Wine, and part IV, General, and comprised sections 5351 to 5357, 5361 to 5373, 5381 to 5388, and 5391 to 5392, respectively, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
 ### PART I—ESTABLISHMENT
 
@@ -6400,9 +6400,9 @@ A prior subchapter F, Bonded and Taxpaid Wine Premises, consisted of part I, Est
 
 **Prior Provisions**
 
-A prior part I consisted of sections 5351 to 5357 of this title, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior part I consisted of sections 5351 to 5357 of this title, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
-#### § 5351. Bonded wine cellar
+#### § 5351. Bonded wine cellar
 
 **(a) In general**
 
@@ -6418,7 +6418,7 @@ The term “bonded wine cellar” means any premises described in subsection (a)
 
 At the discretion of the Secretary, any bonded wine cellar that engages in production operations may be designated as a “bonded winery”.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1378; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 114–113, div. Q, title III, § 332(b)(2)(B), Dec. 18, 2015, 129 Stat. 3106.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1378; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 114–113, div. Q, title III, § 332(b)(2)(B), Dec. 18, 2015, 129 Stat. 3106.)
 
 **Editorial Notes**
 
@@ -6428,7 +6428,7 @@ A prior section 5351, act Aug. 16, 1954, ch. 736, 68A Stat. 663, consisted of pr
 
 **Amendments**
 
-2015—Pub. L. 114–113 designated existing provisions as subsec. (a), inserted heading, inserted “, except as provided under section 5551(d),” before “file bond”, struck out “Such premises shall be known as ‘bonded wine cellars’; except that any such premises engaging in production operations may, in the discretion of the Secretary, be designated as a ‘bonded winery’.” at end, and added subsec. (b).
+2015—Pub. L. 114–113 designated existing provisions as subsec. (a), inserted heading, inserted “, except as provided under section 5551(d),” before “file bond”, struck out “Such premises shall be known as ‘bonded wine cellars’; except that any such premises engaging in production operations may, in the discretion of the Secretary, be designated as a ‘bonded winery’.” at end, and added subsec. (b).
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
@@ -6442,11 +6442,11 @@ Amendment by Pub. L. 114–113 applicable to any calendar quarters beginning mor
 
 Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
 
-#### § 5352. Taxpaid wine bottling house
+#### § 5352. Taxpaid wine bottling house
 
 Any person bottling, packaging, or repackaging taxpaid wines shall, before commencing such operations, make application to the Secretary and receive permission to operate. Such premises shall be known as “tax-paid wine bottling houses.”
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1378; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(42), July 26, 1979, 93 Stat. 287.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1378; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(42), July 26, 1979, 93 Stat. 287.)
 
 **Editorial Notes**
 
@@ -6466,11 +6466,11 @@ A prior section 5352, act Aug. 16, 1954, ch. 736, 68A Stat. 663, consisted of pr
 
 Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as a note under section 5001 of this title.
 
-#### § 5353. Bonded wine warehouse
+#### § 5353. Bonded wine warehouse
 
 Any responsible warehouse company or other responsible person may, upon filing application with the Secretary and consent of the proprietor and the surety on the bond of any bonded wine cellar, under regulations prescribed by the Secretary, establish on such premises facilities for the storage of wines and allied products for credit purposes, to be known as a “bonded wine warehouse”. The proprietor of the bonded wine cellar shall remain responsible in all respects for operations in the warehouse and the tax on the wine or wine spirit stored therein.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1379; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1379; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -6482,11 +6482,11 @@ A prior section 5353, act Aug. 16, 1954, ch. 736, 68A Stat. 663, consisted of pr
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### § 5354. Bond
+#### § 5354. Bond
 
 The bond for a bonded wine cellar shall be in such form, on such conditions, and with such adequate surety, as regulations issued by the Secretary shall prescribe, and shall be in a penal sum not less than the tax on any wine or distilled spirits possessed or in transit at any one time (taking into account the appropriate amount of credit with respect to such wine under section 5041(c)), but not less than $1,000 nor more than $50,000; except that where the tax on such wine and on such distilled spirits exceeds $250,000, the penal sum of the bond shall be not more than $100,000. Where additional liability arises as a result of deferral of payment of tax payable on any return, the Secretary may require the proprietor to file a supplemental bond in such amount as may be necessary to protect the revenue. The liability of any person on any such bond shall apply whether the transaction or operation on which the liability of the proprietor is based occurred on or off the proprietor’s premises.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1379; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, § 455(c), July 18, 1984, 98 Stat. 823; Pub. L. 104–188, title I, § 1702(b)(7), Aug. 20, 1996, 110 Stat. 1869.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1379; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, § 455(c), July 18, 1984, 98 Stat. 823; Pub. L. 104–188, title I, § 1702(b)(7), Aug. 20, 1996, 110 Stat. 1869.)
 
 **Editorial Notes**
 
@@ -6512,11 +6512,11 @@ Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided
 
 Amendment by Pub. L. 98–369 effective July 18, 1984, see section 456(c) of Pub. L. 98–369, set out as an Effective Date note under section 5101 of this title.
 
-#### § 5355. General provisions relating to bonds
+#### § 5355. General provisions relating to bonds
 
 The provisions of section 5551 (relating to bonds) shall be applicable to the bonds required under section 5354.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1379.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1379.)
 
 **Editorial Notes**
 
@@ -6524,11 +6524,11 @@ The provisions of section 5551 (relating to bonds) shall be applicable to the bo
 
 A prior section 5355, act Aug. 16, 1954, ch. 736, 68A Stat. 664, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
-#### § 5356. Application
+#### § 5356. Application
 
 The application required by this part shall disclose, as regulations issued by the Secretary shall provide, such information as may be necessary to enable the Secretary to determine the location and extent of the premises, the type of operations to be conducted on such premises, and whether the operations will be in conformity with law and regulations.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1379; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1379; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -6540,11 +6540,11 @@ A prior section 5356, act Aug. 16, 1954, ch. 736, 68A Stat. 664, consisted of pr
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### § 5357. Premises
+#### § 5357. Premises
 
 Bonded wine cellar premises, including noncontiguous portions thereof, shall be so located, constructed, and equipped, as to afford adequate protection to the revenue, as regulations prescribed by the Secretary may provide.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1379; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1379; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -6562,21 +6562,21 @@ A prior section 5357, act Aug. 16, 1954, ch. 736, 68A Stat. 664, consisted of pr
 
 **Prior Provisions**
 
-A prior part II consisted of sections 5361 to 5373 of this title, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior part II consisted of sections 5361 to 5373 of this title, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
 **Amendments**
 
-1997—Pub. L. 105–34, title XIV, § 1422(b), Aug. 5, 1997, 111 Stat. 1050, added item 5364.
+1997—Pub. L. 105–34, title XIV, § 1422(b), Aug. 5, 1997, 111 Stat. 1050, added item 5364.
 
-1979—Pub. L. 96–39, title VIII, § 807(b)(7), July 26, 1979, 93 Stat. 290, struck out item 5364 “Standard wine premises”.
+1979—Pub. L. 96–39, title VIII, § 807(b)(7), July 26, 1979, 93 Stat. 290, struck out item 5364 “Standard wine premises”.
 
-1976—Pub. L. 94–455, title XIX, § 1905(b)(5), Oct. 4, 1976, 90 Stat. 1822, substituted “and marking” for “, marking, and stamping” in item 5368.
+1976—Pub. L. 94–455, title XIX, § 1905(b)(5), Oct. 4, 1976, 90 Stat. 1822, substituted “and marking” for “, marking, and stamping” in item 5368.
 
-#### § 5361. Bonded wine cellar operations
+#### § 5361. Bonded wine cellar operations
 
 In addition to the operations described in section 5351, the proprietor of a bonded wine cellar may, subject to regulations prescribed by the Secretary, on such premises receive taxpaid wine for return to bond, reconditioning, or destruction; prepare for market and store commercial fruit products and by-products not taxable as wines; produce or receive distilling material or vinegar stock; produce (with or without added wine spirits, and without added sugar) or receive on wine premises, subject to tax as wine but not for sale or consumption as beverage wine, (1) heavy bodied blending wines and Spanish-type blending sherries, and (2) other wine products made from natural wine for nonbeverage purposes; and such other operations as may be conducted in a manner that will not jeopardize the revenue or conflict with wine operations.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1380; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(43), July 26, 1979, 93 Stat. 287; Pub. L. 105–34, title XIV, § 1416(b)(1), Aug. 5, 1997, 111 Stat. 1048.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1380; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(43), July 26, 1979, 93 Stat. 287; Pub. L. 105–34, title XIV, § 1416(b)(1), Aug. 5, 1997, 111 Stat. 1048.)
 
 **Editorial Notes**
 
@@ -6606,7 +6606,7 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
 
-#### § 5362. Removals of wine from bonded wine cellars
+#### § 5362. Removals of wine from bonded wine cellars
 
 **(a) Withdrawals on determination of tax**
 
@@ -6674,7 +6674,7 @@ Wine entered into customs bonded warehouses under subsection (c)(4) for purposes
 
 Wine withdrawn from customs bonded warehouses or otherwise brought into the United States free of tax for the official or family use of foreign governments, organizations, or individuals authorized to obtain wine free of tax shall not be sold and shall not be disposed of or possessed for any use other than an authorized use. The provisions of paragraphs (1)(B) and (3) of section 5043(a) are hereby extended and made applicable to any person selling, disposing of, or possessing any wine in violation of the preceding sentence, and to the wine involved in any such violation.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1380; amended Pub. L. 90–73, § 1(a), Aug. 29, 1967, 81 Stat. 175; Pub. L. 94–455, title XIX, §§ 1905(c)(4), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1823, 1834; Pub. L. 96–39, title VIII, § 807(a)(44), July 26, 1979, 93 Stat. 287; Pub. L. 96–601, § 2(a), (b), Dec. 24, 1980, 94 Stat. 3495.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1380; amended Pub. L. 90–73, § 1(a), Aug. 29, 1967, 81 Stat. 175; Pub. L. 94–455, title XIX, §§ 1905(c)(4), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1823, 1834; Pub. L. 96–39, title VIII, § 807(a)(44), July 26, 1979, 93 Stat. 287; Pub. L. 96–601, § 2(a), (b), Dec. 24, 1980, 94 Stat. 3495.)
 
 **Editorial Notes**
 
@@ -6684,17 +6684,17 @@ A prior section 5362, act Aug. 16, 1954, ch. 736, 68A Stat. 665, consisted of pr
 
 **Amendments**
 
-1980—Subsec. (c)(4). Pub. L. 96–601, § 2(a), substituted “customs bonded” for “class 6 customs manufacturing”.
+1980—Subsec. (c)(4). Pub. L. 96–601, § 2(a), substituted “customs bonded” for “class 6 customs manufacturing”.
 
-Subsec. (e). Pub. L. 96–601, § 2(b), added subsec. (e).
+Subsec. (e). Pub. L. 96–601, § 2(b), added subsec. (e).
 
 1979—Subsec. (b). Pub. L. 96–39 substituted references to bonded premises for references to bonded wine cellars and inserted provisions relating to wine transferred in bond to a distilled spirits plant which may not be removed for consumption or sale as wine, provisions relating to continued liability for tax on wine transferred to bonded premises, and provisions defining “bonded premises”.
 
-1976—Subsecs. (a) to (c). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+1976—Subsecs. (a) to (c). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-Subsec. (c)(9). Pub. L. 94–455, § 1905(c)(4), struck out “and Territories” after “the several States”.
+Subsec. (c)(9). Pub. L. 94–455, § 1905(c)(4), struck out “and Territories” after “the several States”.
 
-Subsec. (d). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (d). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 1967—Subsec. (d). Pub. L. 90–73 added subsec. (d).
 
@@ -6702,7 +6702,7 @@ Subsec. (d). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegat
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–601, § 2(c), Dec. 24, 1980, 94 Stat. 3496, provided that: “The amendments made by this section [amending this section] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act [Dec. 24, 1980].”
+Pub. L. 96–601, § 2(c), Dec. 24, 1980, 94 Stat. 3496, provided that: “The amendments made by this section [amending this section] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act [Dec. 24, 1980].”
 
 **Effective Date of 1979 Amendment**
 
@@ -6714,13 +6714,13 @@ Amendment by section 1905(c)(4) of Pub. L. 94–455 effective on first day of fi
 
 **Effective Date of 1967 Amendment**
 
-Pub. L. 90–73, § 1(b), Aug. 29, 1967, 81 Stat. 175, provided that: “The amendment made by subsection (a) [amending this section] shall become effective on the first day of the first month which begins 90 days or more after the date of the enactment of this Act [Aug. 29, 1967].”
+Pub. L. 90–73, § 1(b), Aug. 29, 1967, 81 Stat. 175, provided that: “The amendment made by subsection (a) [amending this section] shall become effective on the first day of the first month which begins 90 days or more after the date of the enactment of this Act [Aug. 29, 1967].”
 
-#### § 5363. Taxpaid wine bottling house operations
+#### § 5363. Taxpaid wine bottling house operations
 
 In addition to the operations described in section 5352, the proprietor of a taxpaid wine bottling house may, subject to regulations issued by the Secretary, on such premises mix wine of the same kind and taxable grade to facilitate handling; preserve, filter, or clarify wine; and conduct operations not involving wine where such operations will not jeopardize the revenue or conflict with wine operations.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1381; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(45), July 26, 1979, 93 Stat. 287.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1381; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(45), July 26, 1979, 93 Stat. 287.)
 
 **Editorial Notes**
 
@@ -6740,17 +6740,17 @@ A prior section 5363, act Aug. 16, 1954, ch. 736, 68A Stat. 665, consisted of pr
 
 Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as a note under section 5001 of this title.
 
-#### § 5364. Wine imported in bulk
+#### § 5364. Wine imported in bulk
 
 Natural wine (as defined in section 5381) imported or brought into the United States in bulk containers may, under such regulations as the Secretary may prescribe, be withdrawn from customs custody and transferred in such bulk containers to the premises of a bonded wine cellar without payment of the internal revenue tax imposed on such wine. The proprietor of a bonded wine cellar to which such wine is transferred shall become liable for the tax on the wine withdrawn from customs custody under this section upon release of the wine from customs custody, and the importer, or the person bringing such wine into the United States, shall thereupon be relieved of the liability for such tax.
 
-(Added Pub. L. 105–34, title XIV, § 1422(a), Aug. 5, 1997, 111 Stat. 1050; amended Pub. L. 105–206, title VI, § 6014(b)(3), July 22, 1998, 112 Stat. 820.)
+(Added Pub. L. 105–34, title XIV, § 1422(a), Aug. 5, 1997, 111 Stat. 1050; amended Pub. L. 105–206, title VI, § 6014(b)(3), July 22, 1998, 112 Stat. 820.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5364, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1381, limited proprietors of bonded wine cellars or taxpaid wine bottling houses to the production, reception, storage, or use of only standard wine, prior to repeal by Pub. L. 96–39, title VIII, §§ 807(a)(46), 810, July 26, 1979, 93 Stat. 287, 292, eff. Jan. 1, 1980.
+A prior section 5364, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1381, limited proprietors of bonded wine cellars or taxpaid wine bottling houses to the production, reception, storage, or use of only standard wine, prior to repeal by Pub. L. 96–39, title VIII, §§ 807(a)(46), 810, July 26, 1979, 93 Stat. 287, 292, eff. Jan. 1, 1980.
 
 Another prior section 5364, act Aug. 16, 1954, ch. 736, 68A Stat. 665, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
@@ -6766,13 +6766,13 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 **Effective Date**
 
-Pub. L. 105–34, title XIV, § 1422(c), Aug. 5, 1997, 111 Stat. 1050, provided that: “The amendments made by this section [enacting this section] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title XIV, § 1422(c), Aug. 5, 1997, 111 Stat. 1050, provided that: “The amendments made by this section [enacting this section] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act [Aug. 5, 1997].”
 
-#### § 5365. Segregation of operations
+#### § 5365. Segregation of operations
 
 The Secretary may require by regulations such segregation of operations within the premises, by partitions or otherwise, as may be necessary to prevent jeopardy to the revenue, to prevent confusion between untaxpaid wine operations and such other operations as are authorized in this subchapter, to prevent substitution with respect to the several methods of producing effervescent wines, and to prevent the commingling of standard wines with other than standard wines.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1381; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(47), July 26, 1979, 93 Stat. 287.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1381; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, § 807(a)(47), July 26, 1979, 93 Stat. 287.)
 
 **Editorial Notes**
 
@@ -6792,11 +6792,11 @@ A prior section 5365, act Aug. 16, 1954, ch. 736, 68A Stat. 665, consisted of pr
 
 Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as a note under section 5001 of this title.
 
-#### § 5366. Supervision
+#### § 5366. Supervision
 
 The Secretary may by regulations require that operations at a bonded wine cellar or taxpaid wine bottling house be supervised by an internal revenue officer where necessary for the protection of the revenue or for the proper enforcement of this subchapter.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1381; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1381; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -6808,11 +6808,11 @@ A prior section 5366, act Aug. 16, 1954, ch. 736, 68A Stat. 666, consisted of pr
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-#### § 5367. Records
+#### § 5367. Records
 
 The proprietor of a bonded wine cellar or a tax-paid wine bottling house shall keep such rec­ords and file such returns, in such form and containing such information, as the Secretary may by regulations provide.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1381; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1381; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -6824,7 +6824,7 @@ A prior section 5367, act Aug. 16, 1954, ch. 736, 68A Stat. 666, consisted of pr
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-#### § 5368. Gauging and marking
+#### § 5368. Gauging and marking
 
 **(a) Gauging and marking**
 
@@ -6834,7 +6834,7 @@ All wine or wine spirits shall be locked, sealed, and gauged, and shall be marke
 
 Wines shall be removed in such containers (including vessels, vehicles, and pipelines) bearing such marks and labels evidencing compliance with this chapter, as the Secretary may by regulations prescribe.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1381; amended Pub. L. 94–455, title XIX, §§ 1905(a)(20), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1820, 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1381; amended Pub. L. 94–455, title XIX, §§ 1905(a)(20), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1820, 1834.)
 
 **Editorial Notes**
 
@@ -6852,11 +6852,11 @@ A prior section 5368, act Aug. 16, 1954, ch. 736, 68A Stat. 666, consisted of pr
 
 Amendment by section 1905(a)(20) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
 
-#### § 5369. Inventories
+#### § 5369. Inventories
 
 Each proprietor of premises subject to the provisions of this subchapter shall take and report such inventories as the Secretary may by regulations prescribe.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1381; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1381; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -6868,7 +6868,7 @@ A prior section 5369, act Aug. 16, 1954, ch. 736, 68A Stat. 666, consisted of pr
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-#### § 5370. Losses
+#### § 5370. Losses
 
 **(a) General** No tax shall be collected in respect of any wines lost or destroyed while in bond, except that tax shall be collected—
 
@@ -6884,7 +6884,7 @@ In the case of voluntary destruction, unless the wine was destroyed under Govern
 
 In any case in which the wine is lost or destroyed, whether by theft or otherwise, the Secretary may require by regulations the proprietor of the bonded wine cellar or other person liable for the tax to file a claim for relief from the tax and submit proof as to the cause of such loss. In every case where it appears that the loss was by theft, the burden shall be on the proprietor or other person liable for the tax to establish to the satisfaction of the Secretary, that such loss did not occur as the result of connivance, collusion, fraud, or negligence on the part of the proprietor, owner, consignor, consignee, bailee, or carrier, or the agents or employees of any of them.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1381; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1381; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -6896,11 +6896,11 @@ A prior section 5370, act Aug. 16, 1954, ch. 736, 68A Stat. 666, consisted of pr
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### § 5371. Insurance coverage, etc.
+#### § 5371. Insurance coverage, etc.
 
 Any remission, abatement, refund, or credit of, or other relief from, taxes on wines or wine spirits authorized by law shall be allowed only to the extent that the claimant is not indemnified or recompensed for the tax.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1382.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1382.)
 
 **Editorial Notes**
 
@@ -6908,11 +6908,11 @@ Any remission, abatement, refund, or credit of, or other relief from, taxes on w
 
 A prior section 5371, act Aug. 16, 1954, ch. 736, 68A Stat. 667, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
-#### § 5372. Sampling
+#### § 5372. Sampling
 
 Under regulations prescribed by the Secretary, wine may be utilized in any bonded wine cellar for testing, tasting, or sampling, free of tax.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1382; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1382; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -6924,7 +6924,7 @@ A prior section 5372, act Aug. 16, 1954, ch. 736, 68A Stat. 667, consisted of pr
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-#### § 5373. Wine spirits
+#### § 5373. Wine spirits
 
 **(a) In general** The wine spirits authorized to be used in wine production shall be brandy or wine spirits produced in a distilled spirits plant (with or without the use of water to facilitate extraction and distillation) exclusively from—
 
@@ -6950,7 +6950,7 @@ except that where, in the production of natural wine or special natural wine, su
 
 When the Secretary deems such removal and use will not jeopardize the revenue nor unduly increase administrative supervision, distillates containing aldehydes may, under such regulations as the Secretary may prescribe, be removed without payment of tax from the bonded premises of a distilled spirits plant to an adjacent bonded wine cellar and used therein in fermentation of wine to be used as distilling material at the distilled spirits plant from which such unfinished distilled spirits were removed.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1382; amended Pub. L. 90–619, § 1, Oct. 22, 1968, 82 Stat. 1236; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1382; amended Pub. L. 90–619, § 1, Oct. 22, 1968, 82 Stat. 1236; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -6968,7 +6968,7 @@ A prior section 5373, act Aug. 16, 1954, ch. 736, 68A Stat. 667, consisted of pr
 
 **Effective Date of 1968 Amendment**
 
-Pub. L. 90–619, § 6, Oct. 22, 1968, 82 Stat. 1237, provided that: “The amendments made by this Act [amending this section and sections 5382 to 5387 of this title] shall take effect on the first day of the first month which begins 90 days or more after the date of the enactment of this Act [Oct. 22, 1968].”
+Pub. L. 90–619, § 6, Oct. 22, 1968, 82 Stat. 1237, provided that: “The amendments made by this Act [amending this section and sections 5382 to 5387 of this title] shall take effect on the first day of the first month which begins 90 days or more after the date of the enactment of this Act [Oct. 22, 1968].”
 
 ### PART III—CELLAR TREATMENT AND CLASSIFICATION OF WINE
 
@@ -6978,11 +6978,11 @@ Pub. L. 90–619, § 6, Oct. 22, 1968, 82 Stat. 1237, provided that: “The am
 
 A prior part III consisted of sections 5381 to 5388 of this title, prior to the general revision of this chapter by Pub. L. 85–859, title II, Sept. 2, 1958, 72 Stat. 1313.
 
-#### § 5381. Natural wine
+#### § 5381. Natural wine
 
 Natural wine is the product of the juice or must of sound, ripe grapes or other sound, ripe fruit, made with such cellar treatment as may be authorized under section 5382 and containing not more than 21 percent by weight of total solids. Any wine conforming to such definition except for having become substandard by reason of its condition shall be deemed not to be natural wine, unless the condition is cor­rected.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1383; amended Pub. L. 96–39, title VIII, § 807(a)(48), July 26, 1979, 93 Stat. 288.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1383; amended Pub. L. 96–39, title VIII, § 807(a)(48), July 26, 1979, 93 Stat. 288.)
 
 **Editorial Notes**
 
@@ -7004,7 +7004,7 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
 
-#### § 5382. Cellar treatment of natural wine
+#### § 5382. Cellar treatment of natural wine
 
 **(a) Proper cellar treatment**
 
@@ -7068,7 +7068,7 @@ The Secretary may by regulations prescribe limitations on the preparation and us
 
 **(2)** in the case of natural fruit wine (other than grape or berry wine) of the winemaker’s own production, an equivalent quantity of volatile fruit-flavor concentrate produced at such a plant and derived from the same kind of fruit.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1383; amended Pub. L. 88–653, §§ 1, 2, Oct. 13, 1964, 78 Stat. 1085; Pub. L. 89–44, title VIII, § 806(c)(1), June 21, 1965, 79 Stat. 164; Pub. L. 90–619, § 2, Oct. 22, 1968, 82 Stat. 1237; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 108–429, title II, § 2002(a), Dec. 3, 2004, 118 Stat. 2588; Pub. L. 109–432, div. D, title III, § 3007, Dec. 20, 2006, 120 Stat. 3176.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1383; amended Pub. L. 88–653, §§ 1, 2, Oct. 13, 1964, 78 Stat. 1085; Pub. L. 89–44, title VIII, § 806(c)(1), June 21, 1965, 79 Stat. 164; Pub. L. 90–619, § 2, Oct. 22, 1968, 82 Stat. 1237; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 108–429, title II, § 2002(a), Dec. 3, 2004, 118 Stat. 2588; Pub. L. 109–432, div. D, title III, § 3007, Dec. 20, 2006, 120 Stat. 3176.)
 
 **Editorial Notes**
 
@@ -7088,15 +7088,15 @@ A prior section 5382, act Aug. 16, 1954, ch. 736, 68A Stat. 668, consisted of pr
 
 1965—Subsec. (b)(2). Pub. L. 89–44 struck out “made without added sugar or reserved as provided in sections 5383(b) and 5384(b)” after “winemaker’s own production”.
 
-1964—Subsec. (b)(9). Pub. L. 88–653, § 1, added par. (9).
+1964—Subsec. (b)(9). Pub. L. 88–653, § 1, added par. (9).
 
-Subsec. (d). Pub. L. 88–653, § 2, added subsec. (d).
+Subsec. (d). Pub. L. 88–653, § 2, added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–429, title II, § 2002(b), Dec. 3, 2004, 118 Stat. 2589, provided that: “The amendment made by this section [amending this section] shall take effect on January 1, 2005.”
+Pub. L. 108–429, title II, § 2002(b), Dec. 3, 2004, 118 Stat. 2589, provided that: “The amendment made by this section [amending this section] shall take effect on January 1, 2005.”
 
 **Effective Date of 1968 Amendment**
 
@@ -7108,9 +7108,9 @@ Amendment by Pub. L. 89–44 effective Jan. 1, 1966, see section 806(d)(2) of Pu
 
 **Effective Date of 1964 Amendment**
 
-Pub. L. 88–653, § 4, Oct. 13, 1964, 78 Stat. 1085, provided that: “The amendments made by the first section [amending this section] and sections 2 and 3 of this Act [amending this section and section 5511 of this title] shall take effect on the first day of the second month which begins more than 10 days after the date on which this Act is enacted [Oct. 13, 1964].”
+Pub. L. 88–653, § 4, Oct. 13, 1964, 78 Stat. 1085, provided that: “The amendments made by the first section [amending this section] and sections 2 and 3 of this Act [amending this section and section 5511 of this title] shall take effect on the first day of the second month which begins more than 10 days after the date on which this Act is enacted [Oct. 13, 1964].”
 
-#### § 5383. Amelioration and sweetening limitations for natural grape wines
+#### § 5383. Amelioration and sweetening limitations for natural grape wines
 
 **(a) Sweetening of grape wines**
 
@@ -7130,7 +7130,7 @@ Any wine produced under this subsection may be sweetened by the producer thereof
 
 Wine spirits may be added (whether or not wine spirits were previously added) to wine produced under this subsection only if the wine contains not more than 14 percent of alcohol by volume derived from fermentation.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1384; amended Pub. L. 89–44, title VIII, § 806(b)(1), June 21, 1965, 79 Stat. 162; Pub. L. 90–619, § 3, Oct. 22, 1968, 82 Stat. 1237.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1384; amended Pub. L. 89–44, title VIII, § 806(b)(1), June 21, 1965, 79 Stat. 162; Pub. L. 90–619, § 3, Oct. 22, 1968, 82 Stat. 1237.)
 
 **Editorial Notes**
 
@@ -7140,9 +7140,9 @@ A prior section 5383, act Aug. 16, 1954, ch. 736, 68A Stat. 669, consisted of pr
 
 **Amendments**
 
-1968—Subsec. (a). Pub. L. 90–619, § 3(b), substituted “not more than 14 percent” for “less than 14 percent”.
+1968—Subsec. (a). Pub. L. 90–619, § 3(b), substituted “not more than 14 percent” for “less than 14 percent”.
 
-Subsec. (b). Pub. L. 90–619, § 3(a), simplified production procedures and calculations, provided that the limitation on sweetening high acid wine is to be based upon the total solids content of the finished wine, authorized the use of liquid sugar but only to the extent that it did not increase the total volume of the finished wine above what it would be if the maximum authorized use had been made of dry sugar only, and inserted provisions making it clear that wine spirits may be added at more than one stage in the process of wine production.
+Subsec. (b). Pub. L. 90–619, § 3(a), simplified production procedures and calculations, provided that the limitation on sweetening high acid wine is to be based upon the total solids content of the finished wine, authorized the use of liquid sugar but only to the extent that it did not increase the total volume of the finished wine above what it would be if the maximum authorized use had been made of dry sugar only, and inserted provisions making it clear that wine spirits may be added at more than one stage in the process of wine production.
 
 1965—Pub. L. 89–44 divided subsec. (b) relating to high acid wines into pars. (1) and (2) and par. (2) into subpars. (A) to (E), struck out reserve inventory requirement with respect to the amelioration and sweetening of wines, authorized use of other than pure, dry sugar, and allowed limited use of liquid sugar at appropriate points where use of pure dry sugar had formerly been prescribed.
 
@@ -7154,9 +7154,9 @@ Amendment by Pub. L. 90–619 effective on first day of first month which begins
 
 **Effective Date of 1965 Amendment**
 
-Pub. L. 89–44, title VIII, § 806(d)(2), June 21, 1965, 79 Stat. 164, provided that: “The amendments made by subsections (b) and (c) [amending this section and sections 5382, 5384, 5385, and 5392] shall take effect on January 1, 1966.”
+Pub. L. 89–44, title VIII, § 806(d)(2), June 21, 1965, 79 Stat. 164, provided that: “The amendments made by subsections (b) and (c) [amending this section and sections 5382, 5384, 5385, and 5392] shall take effect on January 1, 1966.”
 
-#### § 5384. Amelioration and sweetening limitations for natural fruit and berry wines
+#### § 5384. Amelioration and sweetening limitations for natural fruit and berry wines
 
 **(a) In general**
 
@@ -7176,7 +7176,7 @@ To natural wine made from berries or fruit other than grapes, pure dry sugar or 
 
 **(D)** Wines made exclusively from any fruit or berry with a natural fixed acid of 20 parts per thousand or more (before any correction of such fruit or berry) shall be entitled to a volume of ameliorating material not in excess of 60 percent (in lieu of 35 percent).
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1385; amended Pub. L. 89–44, title VIII, § 806(b)(2), (c)(2), (3), June 21, 1965, 79 Stat. 163, 164; Pub. L. 90–619, § 3(b), Oct. 22, 1968, 82 Stat. 1237; Pub. L. 105–34, title XIV, § 1417(a), Aug. 5, 1997, 111 Stat. 1048.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1385; amended Pub. L. 89–44, title VIII, § 806(b)(2), (c)(2), (3), June 21, 1965, 79 Stat. 163, 164; Pub. L. 90–619, § 3(b), Oct. 22, 1968, 82 Stat. 1237; Pub. L. 105–34, title XIV, § 1417(a), Aug. 5, 1997, 111 Stat. 1048.)
 
 **Editorial Notes**
 
@@ -7190,25 +7190,25 @@ A prior section 5384, act Aug. 16, 1954, ch. 736, 68A Stat. 670, consisted of pr
 
 1968—Subsec. (a). Pub. L. 90–619 substituted “not more than 14 percent” for “less than 14 percent”.
 
-1965—Subsec. (a). Pub. L. 89–44, § 806(b)(2)(A), authorized addition of liquid sugar provided resultant volume will not exceed volume which could result from maximum authorized use of pure dry sugar only.
+1965—Subsec. (a). Pub. L. 89–44, § 806(b)(2)(A), authorized addition of liquid sugar provided resultant volume will not exceed volume which could result from maximum authorized use of pure dry sugar only.
 
-Subsec. (b). Pub. L. 89–44, § 806(c)(3), substituted “Ameliorated” for “Reserve” in heading.
+Subsec. (b). Pub. L. 89–44, § 806(c)(3), substituted “Ameliorated” for “Reserve” in heading.
 
-Subsec. (b)(1). Pub. L. 89–44, § 806(b)(2)(B), struck out references to reserves and reserve inventories.
+Subsec. (b)(1). Pub. L. 89–44, § 806(b)(2)(B), struck out references to reserves and reserve inventories.
 
-Subsec. (b)(2). Pub. L. 89–44, § 806(b)(2)(C), amended first sentence by authorizing use of liquid sugar but limiting use of any sugar if it reduced natural fixed acid in corrected juice or wine to five parts per thousand.
+Subsec. (b)(2). Pub. L. 89–44, § 806(b)(2)(C), amended first sentence by authorizing use of liquid sugar but limiting use of any sugar if it reduced natural fixed acid in corrected juice or wine to five parts per thousand.
 
-Pub. L. 89–44, § 806(c)(2), struck out “reserved” after “covering the production of” in fourth sentence.
+Pub. L. 89–44, § 806(c)(2), struck out “reserved” after “covering the production of” in fourth sentence.
 
-Subsec. (b)(2)(B). Pub. L. 89–44, § 806(b)(2)(D), required that, if liquid sugar is used, the volume of water contained therein be deducted from the volume of ameliorating material authorized.
+Subsec. (b)(2)(B). Pub. L. 89–44, § 806(b)(2)(D), required that, if liquid sugar is used, the volume of water contained therein be deducted from the volume of ameliorating material authorized.
 
-Subsec. (b)(2)(C). Pub. L. 89–44, § 806(b)(2)(E), substituted “shall have” for “may be withdrawn from reserve inventory with”.
+Subsec. (b)(2)(C). Pub. L. 89–44, § 806(b)(2)(E), substituted “shall have” for “may be withdrawn from reserve inventory with”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title XIV, § 1417(b), Aug. 5, 1997, 111 Stat. 1048, provided that: “The amendment made by this section [amending this section] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title XIV, § 1417(b), Aug. 5, 1997, 111 Stat. 1048, provided that: “The amendment made by this section [amending this section] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act [Aug. 5, 1997].”
 
 **Effective Date of 1968 Amendment**
 
@@ -7218,7 +7218,7 @@ Amendment by Pub. L. 90–619 effective on first day of first month which begins
 
 Amendment by Pub. L. 89–44 effective Jan. 1, 1966, see section 806(d)(2) of Pub. L. 89–44, set out as a note under section 5383 of this title.
 
-#### § 5385. Specially sweetened natural wines
+#### § 5385. Specially sweetened natural wines
 
 **(a) Definition**
 
@@ -7228,7 +7228,7 @@ Specially sweetened natural wine is the product made by adding to natural wine o
 
 Specially sweetened natural wines may be blended with each other, or with natural wine or heavy bodied blending wine in the further production of specially sweetened natural wine only, if the wines so blended are made from the same kind of fruit. Wines produced under this section may be cellar treated under the provisions of section 5382(a) and (c). Wine spirits may not be added to specially sweetened natural wine.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1386; amended Pub. L. 89–44, title VIII, § 806(c)(4), June 21, 1965, 79 Stat. 164; Pub. L. 90–619, §§ 3(b), 4, Oct. 22, 1968, 82 Stat. 1237.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1386; amended Pub. L. 89–44, title VIII, § 806(c)(4), June 21, 1965, 79 Stat. 164; Pub. L. 90–619, §§ 3(b), 4, Oct. 22, 1968, 82 Stat. 1237.)
 
 **Editorial Notes**
 
@@ -7238,9 +7238,9 @@ A prior section 5385, act Aug. 16, 1954, ch. 736, 68A Stat. 671, consisted of pr
 
 **Amendments**
 
-1968—Subsec. (a). Pub. L. 90–619, § 3(b), substituted “not more than 14 percent” for “less than 14 percent”.
+1968—Subsec. (a). Pub. L. 90–619, § 3(b), substituted “not more than 14 percent” for “less than 14 percent”.
 
-Subsec. (b). Pub. L. 90–619, § 4, authorized cellar treatment of specially sweetened natural wines, special natural wines, and agricultural wines.
+Subsec. (b). Pub. L. 90–619, § 4, authorized cellar treatment of specially sweetened natural wines, special natural wines, and agricultural wines.
 
 1965—Subsec. (a). Pub. L. 89–44 substituted “total solids content in excess of 17” for “sugar solids content in excess of 15”.
 
@@ -7254,7 +7254,7 @@ Amendment by Pub. L. 90–619 effective on first day of first month which begins
 
 Amendment by Pub. L. 89–44 effective Jan. 1, 1966, see section 806(d)(2) of Pub. L. 89–44, set out as a note under section 5383 of this title.
 
-#### § 5386. Special natural wines
+#### § 5386. Special natural wines
 
 **(a) In general**
 
@@ -7264,7 +7264,7 @@ Special natural wines are the products made, pursuant to a formula approved unde
 
 Special natural wines may be cellar treated under the provisions of section 5382(a) and (c).
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1386; amended Pub. L. 90–619, § 5, Oct. 22, 1968, 82 Stat. 1237; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1386; amended Pub. L. 90–619, § 5, Oct. 22, 1968, 82 Stat. 1237; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -7284,7 +7284,7 @@ A prior section 5386, act Aug. 16, 1954, ch. 736, 68A Stat. 671, consisted of pr
 
 Amendment by Pub. L. 90–619 effective on first day of first month which begins 90 days or more after Oct. 22, 1968, see section 6 of Pub. L. 90–619, set out as a note under section 5373 of this title.
 
-#### § 5387. Agricultural wines
+#### § 5387. Agricultural wines
 
 **(a) In general**
 
@@ -7298,7 +7298,7 @@ No wine spirits may be added to wines produced under this section, nor shall any
 
 Wines from different agricultural commodities shall not be blended together.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1386; amended Pub. L. 90–619, § 5, Oct. 22, 1968, 82 Stat. 1237; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1386; amended Pub. L. 90–619, § 5, Oct. 22, 1968, 82 Stat. 1237; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -7318,7 +7318,7 @@ A prior section 5387, act Aug. 16, 1954, ch. 736, 68A Stat. 671, consisted of pr
 
 Amendment by Pub. L. 90–619 effective on first day of first month which begins 90 days or more after Oct. 22, 1968, see section 6 of Pub. L. 90–619, set out as a note under section 5373 of this title.
 
-#### § 5388. Designation of wines
+#### § 5388. Designation of wines
 
 **(a) Standard wines**
 
@@ -7378,7 +7378,7 @@ Except as provided in clause (ii), this paragraph shall apply to any grape wine 
 
 **(III)** does not bear a brand name.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1387; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title IX, § 910(a), Aug. 5, 1997, 111 Stat. 877; Pub. L. 109–432, div. A, title IV, § 422(a), Dec. 20, 2006, 120 Stat. 2972.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1387; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title IX, § 910(a), Aug. 5, 1997, 111 Stat. 877; Pub. L. 109–432, div. A, title IV, § 422(a), Dec. 20, 2006, 120 Stat. 2972.)
 
 **Editorial Notes**
 
@@ -7398,11 +7398,11 @@ A prior section 5388, act Aug. 16, 1954, ch. 736, 68A Stat. 672, consisted of pr
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–432, div. A, title IV, § 422(b), Dec. 20, 2006, 120 Stat. 2973, provided that: “The amendments made by this section [amending this section] shall apply to wine imported or bottled in the United States on or after the date of enactment of this Act [Dec. 20, 2006].”
+Pub. L. 109–432, div. A, title IV, § 422(b), Dec. 20, 2006, 120 Stat. 2973, provided that: “The amendments made by this section [amending this section] shall apply to wine imported or bottled in the United States on or after the date of enactment of this Act [Dec. 20, 2006].”
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title IX, § 910(b), Aug. 5, 1997, 111 Stat. 877, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title IX, § 910(b), Aug. 5, 1997, 111 Stat. 877, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Aug. 5, 1997].”
 
 ### PART IV—GENERAL
 
@@ -7410,17 +7410,17 @@ Pub. L. 105–34, title IX, § 910(b), Aug. 5, 1997, 111 Stat. 877, provided t
 
 **Prior Provisions**
 
-A prior part IV consisted of sections 5391 and 5392 of this title, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior part IV consisted of sections 5391 and 5392 of this title, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
 **Amendments**
 
-1979—Pub. L. 96–39, title VIII, § 807(b)(8), July 26, 1979, 93 Stat. 290, substituted “Exemption from distilled spirits taxes” for “Exemption from rectifying and spirits taxes” in item 5391.
+1979—Pub. L. 96–39, title VIII, § 807(b)(8), July 26, 1979, 93 Stat. 290, substituted “Exemption from distilled spirits taxes” for “Exemption from rectifying and spirits taxes” in item 5391.
 
-#### § 5391. Exemption from distilled spirits taxes
+#### § 5391. Exemption from distilled spirits taxes
 
 Notwithstanding any other provision of law, the tax imposed by section 5001 on distilled spirits shall not, except as provided in this subchapter, be assessed, levied, or collected from the proprietor of any bonded wine cellar with respect to his use of wine spirits in wine production, in such premises; except that, whenever wine or wine spirits are used in violation of this subchapter, the applicable tax imposed by section 5001 shall be collected unless the proprietor satisfactorily shows that such wine or wine spirits were not knowingly used in violation of law.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1387; amended Pub. L. 96–39, title VIII, § 807(a)(49), July 26, 1979, 93 Stat. 288.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1387; amended Pub. L. 96–39, title VIII, § 807(a)(49), July 26, 1979, 93 Stat. 288.)
 
 **Editorial Notes**
 
@@ -7442,7 +7442,7 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
 
-#### § 5392. Definitions
+#### § 5392. Definitions
 
 **(a) Standard wine**
 
@@ -7472,7 +7472,7 @@ For purposes of this subchapter the term “own production”, when used with re
 
 For purposes of this subchapter the term “liquid sugar” means a substantially colorless pure sugar and water solution containing not less than 60 percent pure sugar by weight (60 degrees Brix.)
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1387; amended Pub. L. 89–44, title VIII, § 806(b)(3), June 21, 1965, 79 Stat. 163; Pub. L. 94–455, title XIX, § 1905(a)(21), Oct. 4, 1976, 90 Stat. 1820; Pub. L. 115–141, div. U, title IV, § 401(a)(246), Mar. 23, 2018, 132 Stat. 1195.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1387; amended Pub. L. 89–44, title VIII, § 806(b)(3), June 21, 1965, 79 Stat. 163; Pub. L. 94–455, title XIX, § 1905(a)(21), Oct. 4, 1976, 90 Stat. 1820; Pub. L. 115–141, div. U, title IV, § 401(a)(246), Mar. 23, 2018, 132 Stat. 1195.)
 
 **Editorial Notes**
 
@@ -7486,9 +7486,9 @@ A prior section 5392, act Aug. 16, 1954, ch. 736, 68A Stat. 672, consisted of pr
 
 1976—Subsec. (f). Pub. L. 94–455 struck out “49 Stat. 990;” before “27 U.S.C. 211”.
 
-1965—Subsec. (c). Pub. L. 89–44, § 806(b)(3)(A), added fruit, grain, or other sources of starch to cane and beets as sources of “pure sugar”.
+1965—Subsec. (c). Pub. L. 89–44, § 806(b)(3)(A), added fruit, grain, or other sources of starch to cane and beets as sources of “pure sugar”.
 
-Subsec. (g). Pub. L. 89–44, § 806(b)(3)(B), added subsec. (g).
+Subsec. (g). Pub. L. 89–44, § 806(b)(3)(B), added subsec. (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7502,7 +7502,7 @@ Amendment by Pub. L. 89–44 effective Jan. 1, 1966, see section 806(d)(2) of Pu
 
 ## Subchapter G—Breweries
 
-A prior subchapter G consisted of parts I and II, contained sections 5401 to 5403 and 5411 to 5416, respectively, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior subchapter G consisted of parts I and II, contained sections 5401 to 5403 and 5411 to 5416, respectively, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
 ### PART I—ESTABLISHMENT
 
@@ -7510,9 +7510,9 @@ A prior subchapter G consisted of parts I and II, contained sections 5401 to 540
 
 **Prior Provisions**
 
-A prior part I consisted of sections 5401 to 5403 of this title, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior part I consisted of sections 5401 to 5403 of this title, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
-#### § 5401. Qualifying documents
+#### § 5401. Qualifying documents
 
 **(a) Notice**
 
@@ -7526,7 +7526,7 @@ Every brewer, on filing notice as provided by subsection (a) of his intention to
 
 Subsection (b) shall not apply to any taxpayer for any period described in section 5551(d).
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1388; amended Pub. L. 91–673, § 3(a), Jan. 12, 1971, 84 Stat. 2056; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 114–113, div. Q, title III, § 332(b)(2)(C), Dec. 18, 2015, 129 Stat. 3106.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1388; amended Pub. L. 91–673, § 3(a), Jan. 12, 1971, 84 Stat. 2056; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 114–113, div. Q, title III, § 332(b)(2)(C), Dec. 18, 2015, 129 Stat. 3106.)
 
 **Editorial Notes**
 
@@ -7556,7 +7556,7 @@ Amendment by Pub. L. 91–673 effective on first day of first calendar month whi
 
 Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
 
-#### § 5402. Definitions
+#### § 5402. Definitions
 
 **(a) Brewery**
 
@@ -7566,7 +7566,7 @@ The brewery shall consist of the land and buildings described in the brewer’s 
 
 For definition of brewer, see section 5052(d).
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1389; amended Pub. L. 91–673, § 3(b), Jan. 12, 1971, 84 Stat. 2057; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 109–59, title XI, § 11125(b)(17), Aug. 10, 2005, 119 Stat. 1956.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1389; amended Pub. L. 91–673, § 3(b), Jan. 12, 1971, 84 Stat. 2057; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 109–59, title XI, § 11125(b)(17), Aug. 10, 2005, 119 Stat. 1956.)
 
 **Editorial Notes**
 
@@ -7592,7 +7592,7 @@ Amendment by Pub. L. 109–59 effective July 1, 2008, but inapplicable to taxes 
 
 Amendment by Pub. L. 91–673 effective on first day of first calendar month which begins more than 90 days after Jan. 12, 1971, see section 5 of Pub. L. 91–673, set out as a note under section 5056 of this title.
 
-#### § 5403. Cross references
+#### § 5403. Cross references
 
 **(1)** For authority of Secretary to disapprove brewers’ bonds, see section 5551.
 
@@ -7600,7 +7600,7 @@ Amendment by Pub. L. 91–673 effective on first day of first calendar month whi
 
 **(3)** For deposit of United States bonds or notes in lieu of sureties, see section 9303 of title 31, United States Code.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1389; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–258, § 3(f)(3), Sept. 13, 1982, 96 Stat. 1064.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1389; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–258, § 3(f)(3), Sept. 13, 1982, 96 Stat. 1064.)
 
 **Editorial Notes**
 
@@ -7620,19 +7620,19 @@ A prior section 5403, act Aug. 16, 1954, ch. 736, 68A Stat. 674, consisted of pr
 
 **Prior Provisions**
 
-A prior part II consisted of sections 5411 to 5416, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior part II consisted of sections 5411 to 5416, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
 **Amendments**
 
-1997—Pub. L. 105–34, title XIV, § 1421(b), Aug. 5, 1997, 111 Stat. 1049, added item 5418.
+1997—Pub. L. 105–34, title XIV, § 1421(b), Aug. 5, 1997, 111 Stat. 1049, added item 5418.
 
-1971—Pub. L. 91–673, § 4(b), Jan. 12, 1971, 84 Stat. 2058, substituted “Definitions of package and packaging” for “Definitions of bottle and bottling” in item 5416 and added item 5417.
+1971—Pub. L. 91–673, § 4(b), Jan. 12, 1971, 84 Stat. 2058, substituted “Definitions of package and packaging” for “Definitions of bottle and bottling” in item 5416 and added item 5417.
 
-#### § 5411. Use of brewery
+#### § 5411. Use of brewery
 
 The brewery shall be used under regulations prescribed by the Secretary only for the purpose of producing, packaging, and storing beer, cereal beverages containing less than one-half of 1 percent of alcohol by volume, vitamins, ice, malt, malt sirup, and other byproducts and of soft drinks; for the purpose of processing spent grain, carbon dioxide, and yeast; and for such other purposes as the Secretary by regulation may find will not jeopardize the revenue.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1389; amended Pub. L. 91–673, § 3(c), Jan. 12, 1971, 84 Stat. 2057; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1389; amended Pub. L. 91–673, § 3(c), Jan. 12, 1971, 84 Stat. 2057; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -7656,11 +7656,11 @@ Amendment by Pub. L. 91–673 effective on first day of first calendar month whi
 
 Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
 
-#### § 5412. Removal of beer in containers or by pipeline
+#### § 5412. Removal of beer in containers or by pipeline
 
 Beer may be removed from the brewery for consumption or sale only in hogsheads, packages, and similar containers, marked, branded, or labeled in such manner as the Secretary may by regulation require, except that beer may be removed from the brewery pursuant to section 5414 or by pipeline to contiguous distilled spirits plants under section 5222.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1389; amended Pub. L. 91–673, § 3(d), Jan. 12, 1971, 84 Stat. 2057; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 115–97, title I, § 13803(b), Dec. 22, 2017, 131 Stat. 2173.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1389; amended Pub. L. 91–673, § 3(d), Jan. 12, 1971, 84 Stat. 2057; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 115–97, title I, § 13803(b), Dec. 22, 2017, 131 Stat. 2173.)
 
 **Editorial Notes**
 
@@ -7680,17 +7680,17 @@ A prior section 5412, act Aug. 16, 1954, ch. 736, 68A Stat. 675, consisted of pr
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–97, title I, § 13803(c), Dec. 22, 2017, 131 Stat. 2173, provided that: “The amendments made by this section [amending this section and section 5414 of this title] shall apply to any calendar quarters beginning after December 31, 2017.”
+Pub. L. 115–97, title I, § 13803(c), Dec. 22, 2017, 131 Stat. 2173, provided that: “The amendments made by this section [amending this section and section 5414 of this title] shall apply to any calendar quarters beginning after December 31, 2017.”
 
 **Effective Date of 1971 Amendment**
 
 Amendment by Pub. L. 91–673 effective on first day of first calendar month which begins more than 90 days after Jan. 12, 1971, see section 5 of Pub. L. 91–673, set out as a note under section 5056 of this title.
 
-#### § 5413. Brewers procuring beer from other brewers
+#### § 5413. Brewers procuring beer from other brewers
 
 A brewer, under such regulations as the Secretary shall prescribe, may obtain beer in his own hogsheads, barrels, and kegs, marked with his name and address, from another brewer, with taxpayment thereof to be by the producer in the manner prescribed by section 5054.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1389; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1389; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -7702,7 +7702,7 @@ A prior section 5413, act Aug. 16, 1954, ch. 736, 68A Stat. 675, consisted of pr
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-#### § 5414. Transfer of beer between bonded facilities
+#### § 5414. Transfer of beer between bonded facilities
 
 **(a) In general** Beer may be removed from one brewery to another brewery, without payment of tax, and may be mingled with beer at the receiving brewery, subject to such conditions, including payment of the tax, and in such containers, as the Secretary by regulations shall prescribe, which shall include—
 
@@ -7724,7 +7724,7 @@ A prior section 5413, act Aug. 16, 1954, ch. 736, 68A Stat. 675, consisted of pr
 
 For purposes of subsection (a)(3), such relief from liability shall be effective from the time of removal from the transferor’s premises, or from the time of divestment of interest, whichever is later.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1389; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 115–97, title I, § 13803(a), Dec. 22, 2017, 131 Stat. 2172; Pub. L. 116–94, div. Q, title I, § 144(c)(1), Dec. 20, 2019, 133 Stat. 3235; Pub. L. 116–260, div. EE, title I, § 106(c)(1), Dec. 27, 2020, 134 Stat. 3042.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1389; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 115–97, title I, § 13803(a), Dec. 22, 2017, 131 Stat. 2172; Pub. L. 116–94, div. Q, title I, § 144(c)(1), Dec. 20, 2019, 133 Stat. 3235; Pub. L. 116–260, div. EE, title I, § 106(c)(1), Dec. 27, 2020, 134 Stat. 3042.)
 
 **Editorial Notes**
 
@@ -7746,17 +7746,17 @@ A prior section 5414, act Aug. 16, 1954, ch. 736, 68A Stat. 675, consisted of pr
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. EE, title I, § 106(c)(2), Dec. 27, 2020, 134 Stat. 3043, provided that: “The amendment made by this subsection [amending this section] shall apply to any calendar quarters beginning after December 31, 2020.”
+Pub. L. 116–260, div. EE, title I, § 106(c)(2), Dec. 27, 2020, 134 Stat. 3043, provided that: “The amendment made by this subsection [amending this section] shall apply to any calendar quarters beginning after December 31, 2020.”
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–94, div. Q, title I, § 144(c)(2), Dec. 20, 2019, 133 Stat. 3235, provided that: “The amendment made by this subsection [amending this section] shall apply to calendar quarters beginning after December 31, 2019.”
+Pub. L. 116–94, div. Q, title I, § 144(c)(2), Dec. 20, 2019, 133 Stat. 3235, provided that: “The amendment made by this subsection [amending this section] shall apply to calendar quarters beginning after December 31, 2019.”
 
 **Effective Date of 2017 Amendment**
 
 Amendment by Pub. L. 115–97 applicable to any calendar quarters beginning after Dec. 31, 2017, see section 13803(c) of Pub. L. 115–97, set out as a note under section 5412 of this title.
 
-#### § 5415. Records and returns
+#### § 5415. Records and returns
 
 **(a) Records**
 
@@ -7766,7 +7766,7 @@ Every brewer shall keep records, in such form and containing such information as
 
 Every brewer shall make true and accurate returns of his operations and transactions in the form, at the times, and for such periods as the Secretary shall by regulation prescribe.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1390; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1390; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -7778,11 +7778,11 @@ A prior section 5415, act Aug. 16, 1954, ch. 736, 68A Stat. 675, consisted of pr
 
 1976—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### § 5416. Definitions of package and packaging
+#### § 5416. Definitions of package and packaging
 
 For purposes of this subchapter, the term “package” means a bottle, can, keg, barrel, or other original consumer container, and the term “packaging” means the filling of any package.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1390; amended Pub. L. 91–673, § 3(e), Jan. 12, 1971, 84 Stat. 2057.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1390; amended Pub. L. 91–673, § 3(e), Jan. 12, 1971, 84 Stat. 2057.)
 
 **Editorial Notes**
 
@@ -7800,11 +7800,11 @@ A prior section 5416, act Aug. 16, 1954, ch. 736, 68A Stat. 676, consisted of pr
 
 Amendment by Pub. L. 91–673 effective on first day of first calendar month which begins more than 90 days after Jan. 12, 1971, see section 5 of Pub. L. 91–673, set out as a note under section 5056 of this title.
 
-#### § 5417. Pilot brewing plants
+#### § 5417. Pilot brewing plants
 
 Under such regulations as the Secretary may prescribe, and on the filing of such bonds and applications as he may require, pilot brewing plants may, at the discretion of the Secretary be established and operated off the brewery premises for research, analytical, experimental, or development purposes with regard to beer or brewery operations. Nothing in this section shall be construed as authority to waive the filing of any bond or the payment of any tax provided for in this chapter.
 
-(Added Pub. L. 91–673, § 4(a), Jan. 12, 1971, 84 Stat. 2057; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 91–673, § 4(a), Jan. 12, 1971, 84 Stat. 2057; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -7818,17 +7818,17 @@ Under such regulations as the Secretary may prescribe, and on the filing of such
 
 Section effective on first day of first calendar month which begins more than 90 days after Jan. 12, 1971, see section 5 of Pub. L. 91–673, set out as an Effective Date of 1971 Amendment note under section 5056 of this title.
 
-#### § 5418. Beer imported in bulk
+#### § 5418. Beer imported in bulk
 
 Beer imported or brought into the United States in bulk containers may, under such regulations as the Secretary may prescribe, be withdrawn from customs custody and transferred in such bulk containers to the premises of a brewery without payment of the internal revenue tax imposed on such beer. The proprietor of a brewery to which such beer is transferred shall become liable for the tax on the beer withdrawn from customs custody under this section upon release of the beer from customs custody, and the importer, or the person bringing such beer into the United States, shall thereupon be relieved of the liability for such tax.
 
-(Added Pub. L. 105–34, title XIV, § 1421(a), Aug. 5, 1997, 111 Stat. 1049.)
+(Added Pub. L. 105–34, title XIV, § 1421(a), Aug. 5, 1997, 111 Stat. 1049.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 105–34, title XIV, § 1421(c), Aug. 5, 1997, 111 Stat. 1049, provided that: “The amendments made by this section [enacting this section] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title XIV, § 1421(c), Aug. 5, 1997, 111 Stat. 1049, provided that: “The amendments made by this section [enacting this section] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act [Aug. 5, 1997].”
 
 ## Subchapter H—Miscellaneous Plants and Warehouses
 
@@ -7836,11 +7836,11 @@ Pub. L. 105–34, title XIV, § 1421(c), Aug. 5, 1997, 111 Stat. 1049, provide
 
 **Prior Provisions**
 
-A prior subchapter H consisted of parts I to III, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior subchapter H consisted of parts I to III, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
 **Amendments**
 
-1979—Pub. L. 96–39, title VIII, § 807(b)(9), July 26, 1979, 93 Stat. 291, struck out item relating to Part III “Manufacturing bonded warehouses” in table of Parts comprising Subchapter H.
+1979—Pub. L. 96–39, title VIII, § 807(b)(9), July 26, 1979, 93 Stat. 291, struck out item relating to Part III “Manufacturing bonded warehouses” in table of Parts comprising Subchapter H.
 
 ### PART I—VINEGAR PLANTS
 
@@ -7848,13 +7848,13 @@ A prior subchapter H consisted of parts I to III, prior to the general revision 
 
 **Prior Provisions**
 
-A prior part I consisted of sections 5501 and 5502, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior part I consisted of sections 5501 and 5502, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
-#### § 5501. Establishment
+#### § 5501. Establishment
 
 Plants for the production of vinegar by the vaporizing process, where distilled spirits of not more than 15 percent of alcohol by volume are to be produced exclusively for use in the manufacture of vinegar on the premises, may be established under this part.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1390.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1390.)
 
 **Editorial Notes**
 
@@ -7870,7 +7870,7 @@ Provisions similar to those comprising this section were contained in prior sect
 
 Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
 
-#### § 5502. Qualification
+#### § 5502. Qualification
 
 **(a) Requirements**
 
@@ -7880,7 +7880,7 @@ Every person, before commencing the business of manufacturing vinegar by the vap
 
 The application required by subsection (a) shall be in such form and contain such information as the Secretary shall by regulations prescribe to enable him to determine the identity of the applicant, the location and extent of the premises, the type of operations to be conducted on such premises, and whether the operations will be in conformity with law and regulations.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1390; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1390; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -7894,11 +7894,11 @@ Provisions similar to those comprising subsec. (a) of this section were containe
 
 1976—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### § 5503. Construction and equipment
+#### § 5503. Construction and equipment
 
 Plants established under this part for the manufacture of vinegar by the vaporizing process shall be constructed and equipped in accordance with such regulations as the Secretary shall prescribe.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1391; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1391; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -7910,7 +7910,7 @@ Provisions similar to those comprising this section were contained in prior sect
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-#### § 5504. Operation
+#### § 5504. Operation
 
 **(a) General**
 
@@ -7924,7 +7924,7 @@ No person shall remove, or cause to be removed, from any plant established under
 
 Every person manufacturing vinegar by the vaporizing process shall keep such records and file such reports as the Secretary shall by regulations prescribe of the kind and quantity of materials received on his premises and fermented or mashed, the quantity of low wines produced, the quantity of such low wines used in the manufacture of vinegar, the quantity of vinegar produced, the quantity of vinegar removed from the premises, and such other information as may by regulations be required. Such records, and a copy of such reports, shall be preserved as regulations shall prescribe, and shall be kept available for inspection by any internal revenue officer during business hours.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1391; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1391; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -7936,7 +7936,7 @@ Provisions similar to those comprising subsecs. (a) and (b) of this section were
 
 1976—Subsecs. (a), (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### § 5505. Applicability of provisions of this chapter
+#### § 5505. Applicability of provisions of this chapter
 
 **(a) Tax**
 
@@ -7978,7 +7978,7 @@ The penalties and forfeitures provided in sections 5601(a)(1), (6), and (12), 56
 
 This chapter (other than this part and the provisions referred to in subsection (a), (b), (c), (d), (e), (f), (g), (h), (i) shall not be applicable with respect to plants established or operations conducted under this part.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1391; amended Pub. L. 94–455, title XIX, § 1905(b)(6)(E), Oct. 4, 1976, 90 Stat. 1823.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1391; amended Pub. L. 94–455, title XIX, § 1905(b)(6)(E), Oct. 4, 1976, 90 Stat. 1823.)
 
 **Editorial Notes**
 
@@ -8016,9 +8016,9 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 **Prior Provisions**
 
-A prior part II consisted of sections 5511 and 5512, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior part II consisted of sections 5511 and 5512, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
-#### § 5511. Establishment and operation
+#### § 5511. Establishment and operation
 
 This chapter (other than sections 5178(a)(2)(C), 5179, 5203(b), (c), and (d), and 5552) shall not be applicable with respect to the manufacture, by any process which includes evaporations from the mash or juice of any fruit, of any volatile fruit-flavor concentrate if—
 
@@ -8028,7 +8028,7 @@ This chapter (other than sections 5178(a)(2)(C), 5179, 5203(b), (c), and (d), an
 
 **(3)** the manufacturer thereof makes such application, keeps such records, renders such reports, files such bonds, and complies with such other requirements with respect to the production, removal, sale, transportation, and use of such concentrate and of the mash or juice from which such concentrate is produced, as the Secretary may by regulations prescribe as necessary for the protection of the revenue.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1392; amended Pub. L. 88–653, § 3, Oct. 13, 1964, 78 Stat. 1085; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1392; amended Pub. L. 88–653, § 3, Oct. 13, 1964, 78 Stat. 1085; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -8052,11 +8052,11 @@ Amendment by Pub. L. 88–653 effective on first day of second month which begin
 
 Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
 
-#### § 5512. Control of products after manufacture
+#### § 5512. Control of products after manufacture
 
 For applicability of all provisions of this chapter pertaining to distilled spirits and wines, including those requiring payment of tax, to volatile fruit-flavor concentrates sold, transported, or used in violation of law or regulations, see section 5001(a)(6).
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1392; amended Pub. L. 115–141, div. U, title IV, § 401(a)(247), Mar. 23, 2018, 132 Stat. 1195.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1392; amended Pub. L. 115–141, div. U, title IV, § 401(a)(247), Mar. 23, 2018, 132 Stat. 1195.)
 
 **Editorial Notes**
 
@@ -8070,17 +8070,17 @@ A prior section 5512, act Aug. 16, 1954, ch. 736, 68A Stat. 677, consisted of pr
 
 ### [PART III—REPEALED]
 
-#### [§§ 5521 to 5523. Repealed. Pub. L. 96–39, title VIII, § 807(a)(50), July 26, 1979, 93 Stat. 288]
+#### [§§ 5521 to 5523. Repealed. Pub. L. 96–39, title VIII, § 807(a)(50), July 26, 1979, 93 Stat. 288]
 
-Section 5521, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1392; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to establishment and operation of manufacturing bonded warehouses.
+Section 5521, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1392; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to establishment and operation of manufacturing bonded warehouses.
 
 A prior section 5521, act Aug. 16, 1954, ch. 736, 68A Stat. 678, related to establishment and operation of manufacturing bonded warehouses, prior to the general revision of this chapter by Pub. L. 85–859.
 
-Section 5522, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1393; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to withdrawal of distilled spirits to manufacturing bonded warehouses.
+Section 5522, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1393; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to withdrawal of distilled spirits to manufacturing bonded warehouses.
 
 A prior section 5522, act Aug. 16, 1954, ch. 736, 68A Stat. 679, related to withdrawal of distilled spirits to manufacturing bonded warehouses, prior to general revision of this chapter by Pub. L. 85–859. See sections 5008(f)(2) and 5214(a) of this title.
 
-Section 5523, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1394; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, made special provision for distilled spirits and wines rectified in manufacturing bonded warehouses.
+Section 5523, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1394; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, made special provision for distilled spirits and wines rectified in manufacturing bonded warehouses.
 
 A prior section 5523, act Aug. 16, 1954, ch. 736, 68A Stat. 679, made special provision for distilled spirits and wines rectified in manufacturing bonded warehouses, prior to general revision of this chapter by Pub. L. 85–859.
 
@@ -8096,9 +8096,9 @@ Repeal effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as an
 
 **Prior Provisions**
 
-A prior subchapter I consisted of sections 5551 to 5557, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior subchapter I consisted of sections 5551 to 5557, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
-### § 5551. General provisions relating to bonds
+### § 5551. General provisions relating to bonds
 
 **(a) Approval as condition to commencing business**
 
@@ -8124,7 +8124,7 @@ During any period to which subparagraph (A) of section 5061(d)(4) applies to a t
 
 Any taxpayer for any period described in paragraph (1) shall be treated as if sufficient bond has been furnished for purposes of covering operations and withdrawals of distilled spirits or wines for nonindustrial use or of beer for purposes of any requirements relating to bonds under this chapter.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1394; amended Pub. L. 94–455, title XIX, §§ 1905(c)(5), 1906(b)(13)(B), Oct. 4, 1976, 90 Stat. 1823, 1834; Pub. L. 96–39, title VIII, § 807(a)(51), July 26, 1979, 93 Stat. 288; Pub. L. 114–113, div. Q, title III, § 332(b)(1), Dec. 18, 2015, 129 Stat. 3105.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1394; amended Pub. L. 94–455, title XIX, §§ 1905(c)(5), 1906(b)(13)(B), Oct. 4, 1976, 90 Stat. 1823, 1834; Pub. L. 96–39, title VIII, § 807(a)(51), July 26, 1979, 93 Stat. 288; Pub. L. 114–113, div. Q, title III, § 332(b)(1), Dec. 18, 2015, 129 Stat. 3105.)
 
 **Editorial Notes**
 
@@ -8136,17 +8136,17 @@ Provisions similar to those comprising subsec. (c) of this section were containe
 
 **Amendments**
 
-2015—Subsec. (a). Pub. L. 114–113, § 332(b)(1)(A), substituted “Except as provided under subsection (d), no individual” for “No individual”.
+2015—Subsec. (a). Pub. L. 114–113, § 332(b)(1)(A), substituted “Except as provided under subsection (d), no individual” for “No individual”.
 
-Subsec. (d). Pub. L. 114–113, § 332(b)(1)(B), added subsec. (d).
+Subsec. (d). Pub. L. 114–113, § 332(b)(1)(B), added subsec. (d).
 
 1979—Subsec. (a). Pub. L. 96–39 substituted “warehouseman, processor” for “bonded warehouseman, rectifier” in two places.
 
-1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(B), substituted “Secretary of the Treasury” for “Secretary”.
+1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(B), substituted “Secretary of the Treasury” for “Secretary”.
 
-Subsec. (b). Pub. L. 94–455, §§ 1905(c)(5), 1906(b)(13)(B), substituted “Secretary of the Treasury” for “Secretary” in provisions preceding par. (1) and struck out “Territory, or” after “State,” in par. (2).
+Subsec. (b). Pub. L. 94–455, §§ 1905(c)(5), 1906(b)(13)(B), substituted “Secretary of the Treasury” for “Secretary” in provisions preceding par. (1) and struck out “Territory, or” after “State,” in par. (2).
 
-Subsec. (c). Pub. L. 94–455, § 1906(b)(13)(B), substituted “Secretary of the Treasury” for “Secretary”.
+Subsec. (c). Pub. L. 94–455, § 1906(b)(13)(B), substituted “Secretary of the Treasury” for “Secretary”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8166,11 +8166,11 @@ Amendment by section 1905(c)(5) of Pub. L. 94–455 effective on first day of fi
 
 Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
 
-### § 5552. Installation of meters, tanks, and other apparatus
+### § 5552. Installation of meters, tanks, and other apparatus
 
 The Secretary is authorized to require at distilled spirits plants, breweries, and at any other premises established pursuant to this chapter as in his judgment may be deemed advisable, the installation of meters, tanks, pipes, or any other apparatus for the purpose of protecting the revenue, and such meters, tanks, and pipes and all necessary labor incident thereto shall be at the expense of the person on whose premises the installation is required. Any such person refusing or neglecting to install such apparatus when so required by the Secretary shall not be permitted to conduct business on such premises.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1395; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1395; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -8184,7 +8184,7 @@ For application to vinegar plants of provisions of prior section 5552 relating t
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-### § 5553. Supervision of premises and operations
+### § 5553. Supervision of premises and operations
 
 **(a) Assignment of internal revenue officers**
 
@@ -8194,7 +8194,7 @@ The Secretary is authorized to assign to any premises established under the prov
 
 When used in this chapter, the term “internal revenue officer assigned to the premises” means the internal revenue officer assigned by the Secretary to duties at premises established and operated under the provisions of this chapter.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1395; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1395; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -8208,11 +8208,11 @@ For application to vinegar plants of provisions of prior section 5553(a) relatin
 
 1976—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-### § 5554. Pilot operations
+### § 5554. Pilot operations
 
 For the purpose of facilitating the development and testing of improved methods of governmental supervision (necessary for the protection of the revenue) over distilled spirits plants established under this chapter, the Secretary is authorized to waive any regulatory provisions of this chapter for temporary pilot or experimental operations. Nothing in this section shall be construed as authority to waive the filing of any bond or the payment of any tax provided for in this chapter.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1395; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1395; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -8224,7 +8224,7 @@ A prior section 5554, act Aug. 16, 1954, ch. 736, 68A Stat. 681, consisted of pr
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-### § 5555. Records, statements, and returns
+### § 5555. Records, statements, and returns
 
 **(a) General**
 
@@ -8238,7 +8238,7 @@ Whenever in this chapter any record is required to be made or kept, or statement
 
 Whenever in this chapter any record is required to be made and preserved by any person, the Secretary may by regulations authorize such person to record, copy, or reproduce by any photographic, photostatic, microfilm, microcard, miniature photographic, or other process, which accurately reproduces or forms a durable medium for so reproducing the original of such record and to retain such reproduction in lieu of the original. Every person who is authorized to retain such reproduction in lieu of the original shall, under such regulations as the Secretary may prescribe, preserve such reproduction in conveniently accessible files and make provision for examining, viewing, and using such reproduction the same as if it were the original. Such reproduction shall be treated and considered for all purposes as though it were the original record and all provisions of law applicable to the original shall be applicable to such reproduction. Such reproduction, or enlargement or facsimile thereof, shall be admissible in evidence in the same manner and under the same conditions as provided for the admission of reproductions, enlargements, or facsimiles of records made in the regular course of business under section 1732(b) of title 28 of the United States Code.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1395; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, § 454(c)(10), July 18, 1984, 98 Stat. 821; Pub. L. 115–123, div. D, title II, § 41112(a), Feb. 9, 2018, 132 Stat. 160; Pub. L. 116–94, div. Q, title I, § 144(i)(1), Dec. 20, 2019, 133 Stat. 3235; Pub. L. 116–260, div. EE, title I, § 106(i)(1), Dec. 27, 2020, 134 Stat. 3045.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1395; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, § 454(c)(10), July 18, 1984, 98 Stat. 821; Pub. L. 115–123, div. D, title II, § 41112(a), Feb. 9, 2018, 132 Stat. 160; Pub. L. 116–94, div. Q, title I, § 144(i)(1), Dec. 20, 2019, 133 Stat. 3235; Pub. L. 116–260, div. EE, title I, § 106(i)(1), Dec. 27, 2020, 134 Stat. 3045.)
 
 **Editorial Notes**
 
@@ -8266,25 +8266,25 @@ Prior section 5555(b), relating to authority to waive records, statements, and r
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. EE, title I, § 106(i)(2), Dec. 27, 2020, 134 Stat. 3045, provided that: “The amendment made by this subsection [amending this section] shall apply to calendar quarters beginning after December 31, 2020.”
+Pub. L. 116–260, div. EE, title I, § 106(i)(2), Dec. 27, 2020, 134 Stat. 3045, provided that: “The amendment made by this subsection [amending this section] shall apply to calendar quarters beginning after December 31, 2020.”
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–94, div. Q, title I, § 144(i)(2), Dec. 20, 2019, 133 Stat. 3235, provided that: “The amendment made by this subsection [amending this section] shall apply to calendar quarters beginning after December 31, 2019.”
+Pub. L. 116–94, div. Q, title I, § 144(i)(2), Dec. 20, 2019, 133 Stat. 3235, provided that: “The amendment made by this subsection [amending this section] shall apply to calendar quarters beginning after December 31, 2019.”
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–123, div. D, title II, § 41112(b), Feb. 9, 2018, 132 Stat. 160, provided that: “The amendment made by this section [amending this section] shall apply to calendar quarters beginning after the date of the enactment of this Act [Feb. 9, 2018].”
+Pub. L. 115–123, div. D, title II, § 41112(b), Feb. 9, 2018, 132 Stat. 160, provided that: “The amendment made by this section [amending this section] shall apply to calendar quarters beginning after the date of the enactment of this Act [Feb. 9, 2018].”
 
 **Effective Date of 1984 Amendment**
 
 Amendment by Pub. L. 98–369 effective July 1, 1985, see section 456(b) of Pub. L. 98–369, set out as an Effective Date note under section 5101 of this title.
 
-### § 5556. Regulations
+### § 5556. Regulations
 
 The regulations prescribed by the Secretary for enforcement of this chapter may make such distinctions in requirements relating to construction, equipment, or methods of operation as he deems necessary or desirable due to differences in materials or variations in methods used in production, processing, or storage of distilled spirits.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1396; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1396; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -8302,9 +8302,9 @@ For application to vinegar plants of regulatory provisions of prior section 5556
 
 **Applicability of Rules and Regulations**
 
-Pub. L. 85–859, title II, § 210(e), Sept. 2, 1958, 72 Stat. 1435, provided that: “Until regulations are promulgated under any provision of this title [enacting sections 5849, 5854, 5855, and 7608 of this title, amending this chapter, chapter 52 of this title and sections 5801, 5811, 5814, 5821, 5843, 5848, 5851, 6071, 6207, 6422, 7214, 7272, 7301, 7324 to 7326, 7609, 7652 and 7655 of this title, and enacting notes set out under sections 5001, 5006, 5025, 5064, 5175, 5304 and 5601 of this title] which depends for its application upon the promulgation of regulations (or which is to be applied in such manner as may be prescribed by regulations) all instructions, rules, or regulations which are in effect immediately prior to the effective date of such provision shall, to the extent such instructions, rules, or regulations could be prescribed as regulations under authority of such provision, be applied as is promulgated as regulations under such provision.”
+Pub. L. 85–859, title II, § 210(e), Sept. 2, 1958, 72 Stat. 1435, provided that: “Until regulations are promulgated under any provision of this title [enacting sections 5849, 5854, 5855, and 7608 of this title, amending this chapter, chapter 52 of this title and sections 5801, 5811, 5814, 5821, 5843, 5848, 5851, 6071, 6207, 6422, 7214, 7272, 7301, 7324 to 7326, 7609, 7652 and 7655 of this title, and enacting notes set out under sections 5001, 5006, 5025, 5064, 5175, 5304 and 5601 of this title] which depends for its application upon the promulgation of regulations (or which is to be applied in such manner as may be prescribed by regulations) all instructions, rules, or regulations which are in effect immediately prior to the effective date of such provision shall, to the extent such instructions, rules, or regulations could be prescribed as regulations under authority of such provision, be applied as is promulgated as regulations under such provision.”
 
-### § 5557. Officers and agents authorized to investigate, issue search warrants, and prosecute for violations
+### § 5557. Officers and agents authorized to investigate, issue search warrants, and prosecute for violations
 
 **(a) General**
 
@@ -8314,7 +8314,7 @@ The Secretary shall investigate violations of this subtitle and in any case in w
 
 For provisions relating to the issuance of search warrants, see the Federal Rules of Criminal Procedure.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1396; amended Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1396; amended Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Editorial Notes**
 
@@ -8336,19 +8336,19 @@ Provisions similar to those comprising this section were contained in prior sect
 
 **Change of Name**
 
-“United States magistrate judges” substituted for “United States magistrates” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “United States magistrates” substituted for “United States commissioners” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
+“United States magistrate judges” substituted for “United States magistrates” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “United States magistrates” substituted for “United States commissioners” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
 
-### § 5558. Authority of enforcement officers
+### § 5558. Authority of enforcement officers
 
 For provisions relating to the authority of internal revenue enforcement officers, see section 7608.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1396.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1396.)
 
-### § 5559. Determinations
+### § 5559. Determinations
 
 Whenever the Secretary is required or authorized, in this chapter, to make or verify any quantitative determination, such determination or verification may be made by actual count, weight, or measurement, or by the application of statistical methods, or by other means, under such regulations as the Secretary may prescribe.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1396; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1396; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -8356,11 +8356,11 @@ Whenever the Secretary is required or authorized, in this chapter, to make or ve
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-### § 5560. Other provisions applicable
+### § 5560. Other provisions applicable
 
 All provision of subtitle F, insofar as applicable and not inconsistent with the provisions of this subtitle, are hereby extended to and made a part of this subtitle.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1396.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1396.)
 
 **Editorial Notes**
 
@@ -8368,11 +8368,11 @@ All provision of subtitle F, insofar as applicable and not inconsistent with the
 
 Provisions similar to those comprising this section were contained in prior section 5557, act Aug. 16, 1954, ch. 736, 68A Stat. 681, prior to the general revision of this chapter by Pub. L. 85–859.
 
-### § 5561. Exemptions to meet the requirements of the national defense
+### § 5561. Exemptions to meet the requirements of the national defense
 
 The Secretary may temporarily exempt proprietors of distilled spirits plants from any provision of the internal revenue laws relating to distilled spirits, except those requiring payment of the tax thereon, whenever in his judgment it may seem expedient to do so to meet the requirements of the national defense. Whenever the Secretary shall exercise the authority conferred by this section he may prescribe such regulations as may be necessary to accomplish the purpose which caused him to grant the exemption.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1397; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1397; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -8384,11 +8384,11 @@ Provisions similar to those comprising this section were contained in prior sect
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-### § 5562. Exemptions from certain requirements in cases of disaster
+### § 5562. Exemptions from certain requirements in cases of disaster
 
 Whenever the Secretary finds that it is necessary or desirable, by reason of disaster, to waive provisions of internal revenue law with regard to distilled spirits, he may temporarily exempt proprietors of distilled spirits plants from any provision of the internal revenue laws relating to distilled spirits, except those requiring payment of the tax thereon, to the extent he may deem necessary or desirable.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1397; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1397; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -8406,11 +8406,11 @@ Provisions similar to those comprising this section were contained in prior sect
 
 **Prior Provisions**
 
-A prior subchapter J consisted of parts I to V, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior subchapter J consisted of parts I to V, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
 **Amendments**
 
-2005—Pub. L. 109–59, title XI, § 11125(b)(19)(B), Aug. 10, 2005, 119 Stat. 1956, struck out item for part V “Penalties applicable to occupational taxes”.
+2005—Pub. L. 109–59, title XI, § 11125(b)(19)(B), Aug. 10, 2005, 119 Stat. 1956, struck out item for part V “Penalties applicable to occupational taxes”.
 
 ### PART I—PENALTY, SEIZURE, AND FORFEITURE PROVISIONS APPLICABLE TO DISTILLING, RECTIFYING, AND DISTILLED AND RECTIFIED PRODUCTS
 
@@ -8418,13 +8418,13 @@ A prior subchapter J consisted of parts I to V, prior to the general revision of
 
 **Prior Provisions**
 
-A prior part I consisted of sections 5601 to 5650, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior part I consisted of sections 5601 to 5650, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
 **Amendments**
 
-1984—Pub. L. 98–369, div. A, title IV, § 454(c)(11)(B), (12)(C), July 18, 1984, 98 Stat. 822, struck out “stamps,” in item 5604, and substituted “closed” for “stamped” in item 5613.
+1984—Pub. L. 98–369, div. A, title IV, § 454(c)(11)(B), (12)(C), July 18, 1984, 98 Stat. 822, struck out “stamps,” in item 5604, and substituted “closed” for “stamped” in item 5613.
 
-#### § 5601. Criminal penalties
+#### § 5601. Criminal penalties
 
 **(a) Offenses** Any person who—
 
@@ -8498,7 +8498,7 @@ shall be fined not more than $10,000, or imprisoned not more than 5 years, or bo
 
 Whenever on trial for violation of subsection (a)(4) the defendant is shown to have been at the site or place where, and at the time when, the business of a distiller or processor was so engaged in or carried on, such presence of the defendant shall be deemed sufficient evidence to authorize conviction, unless the defendant explains such presence to the satisfaction of the jury (or of the court when tried without jury).
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1398; amended Pub. L. 94–455, title XIX, §§ 1905(a)(22), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1820, 1834; Pub. L. 96–39, title VIII, § 807(a)(52), July 26, 1979, 93 Stat. 288; Pub. L. 96–223, title II, § 232(e)(2)(A), Apr. 2, 1980, 94 Stat. 280; Pub. L. 115–141, div. U, title IV, § 401(a)(248), Mar. 23, 2018, 132 Stat. 1196.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1398; amended Pub. L. 94–455, title XIX, §§ 1905(a)(22), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1820, 1834; Pub. L. 96–39, title VIII, § 807(a)(52), July 26, 1979, 93 Stat. 288; Pub. L. 96–223, title II, § 232(e)(2)(A), Apr. 2, 1980, 94 Stat. 280; Pub. L. 115–141, div. U, title IV, § 401(a)(248), Mar. 23, 2018, 132 Stat. 1196.)
 
 **Editorial Notes**
 
@@ -8532,23 +8532,23 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 627, 64
 
 1980—Subsec. (a)(15). Pub. L. 96–223 added par. (15).
 
-1979—Subsec. (a)(2). Pub. L. 96–39, § 807(a)(52)(A), struck out “distiller or rectifier” in heading and substituted “processor” for “rectifier” and “section 5171(c)” for “section 5171(a)” in text.
+1979—Subsec. (a)(2). Pub. L. 96–39, § 807(a)(52)(A), struck out “distiller or rectifier” in heading and substituted “processor” for “rectifier” and “section 5171(c)” for “section 5171(a)” in text.
 
-Subsec. (a)(3). Pub. L. 96–39, § 807(a)(52)(B), substituted “warehouseman, or processor” for “bonded warehouseman, rectifier, or bottler”.
+Subsec. (a)(3). Pub. L. 96–39, § 807(a)(52)(B), substituted “warehouseman, or processor” for “bonded warehouseman, rectifier, or bottler”.
 
-Subsec. (a)(4). Pub. L. 96–39, § 807(a)(52)(C), substituted “warehouseman, or processor” for “or rectifier” in heading and in text.
+Subsec. (a)(4). Pub. L. 96–39, § 807(a)(52)(C), substituted “warehouseman, or processor” for “or rectifier” in heading and in text.
 
-Subsec. (a)(5). Pub. L. 96–39, § 807(a)(52)(B), substituted “warehouseman, or processor” for “bonded warehouseman, rectifier, or bottler”.
+Subsec. (a)(5). Pub. L. 96–39, § 807(a)(52)(B), substituted “warehouseman, or processor” for “bonded warehouseman, rectifier, or bottler”.
 
-Subsec. (a)(10). Pub. L. 96–39, § 807(a)(52)(D), substituted “processing” for “rectifying or bottling” in par. (10) heading, “processor” for “rectifier, or a bottler of distilled spirits” in text preceding subpar. (A), and “processed” for “rectified or bottled” in subpar. (A).
+Subsec. (a)(10). Pub. L. 96–39, § 807(a)(52)(D), substituted “processing” for “rectifying or bottling” in par. (10) heading, “processor” for “rectifier, or a bottler of distilled spirits” in text preceding subpar. (A), and “processed” for “rectified or bottled” in subpar. (A).
 
-Subsec. (a)(11). Pub. L. 96–39, § 807(a)(52)(E), substituted “or processing” for “rectification, or bottling” in heading and “or processes” for “rectifies, or bottles” in text.
+Subsec. (a)(11). Pub. L. 96–39, § 807(a)(52)(E), substituted “or processing” for “rectification, or bottling” in heading and “or processes” for “rectifies, or bottles” in text.
 
-Subsec. (b). Pub. L. 96–39, § 807(a)(52)(F), substituted “processor” for “rectifier”.
+Subsec. (b). Pub. L. 96–39, § 807(a)(52)(F), substituted “processor” for “rectifier”.
 
-1976—Subsec. (a)(7). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsec. (a)(7). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (b). Pub. L. 94–455, § 1905(a)(22), struck out par. (1) relating to presumptions in the matter of unregistered stills, par. (3) relating to presumptions in the matter of unlawful production, removal, or use of material fit for production of distilled spirits, and par. (4) relating to presumptions in the matter of unlawful production of distilled spirits, and struck out the number designation “(2)” and heading for former par. (2), leaving only the text for former par. (2) relating to presumptions in the matter of failure or refusal of distiller or rectifier to give bond.
+Subsec. (b). Pub. L. 94–455, § 1905(a)(22), struck out par. (1) relating to presumptions in the matter of unregistered stills, par. (3) relating to presumptions in the matter of unlawful production, removal, or use of material fit for production of distilled spirits, and par. (4) relating to presumptions in the matter of unlawful production of distilled spirits, and struck out the number designation “(2)” and heading for former par. (2), leaving only the text for former par. (2) relating to presumptions in the matter of failure or refusal of distiller or rectifier to give bond.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8570,13 +8570,13 @@ Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set o
 
 **Prosecution and Punishment of Offenses Committed and Penalties or Forfeitures Incurred; Savings Provision**
 
-Pub. L. 85–859, title II, § 210(c), Sept. 2, 1958, 72 Stat. 1435, provided that: “All offenses committed, and all penalties or forfeitures incurred, under any provision of law amended by this title [enacting sections 5849, 5854, 5855 and 7608 of this title, amending this chapter, chapter 52 of this title and sections 5801, 5811, 5814, 7272, 7301, 7224 to 7326, 7609, 7652 and 7655 of this title, and enacting notes set out under this section and sections 5001, 5006, 5025, 5064, 5175, and 5304 of this title], may be prosecuted and punished in the same manner and with the same effect as if this title had not been enacted.”
+Pub. L. 85–859, title II, § 210(c), Sept. 2, 1958, 72 Stat. 1435, provided that: “All offenses committed, and all penalties or forfeitures incurred, under any provision of law amended by this title [enacting sections 5849, 5854, 5855 and 7608 of this title, amending this chapter, chapter 52 of this title and sections 5801, 5811, 5814, 7272, 7301, 7224 to 7326, 7609, 7652 and 7655 of this title, and enacting notes set out under this section and sections 5001, 5006, 5025, 5064, 5175, and 5304 of this title], may be prosecuted and punished in the same manner and with the same effect as if this title had not been enacted.”
 
-#### § 5602. Penalty for tax fraud by distiller
+#### § 5602. Penalty for tax fraud by distiller
 
 Whenever any person engaged in or carrying on the business of a distiller defrauds, attempts to defraud, or engages in such business with intent to defraud the United States of the tax on the spirits distilled by him, or of any part thereof, he shall be fined not more than $10,000, or imprisoned not more than 5 years, or both. No discontinuance or nolle prosequi of any prosecution under this section shall be allowed without the permission in writing of the Attorney General.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1400.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1400.)
 
 **Editorial Notes**
 
@@ -8586,7 +8586,7 @@ A prior section 5602, act Aug. 16, 1954, ch. 736, 68A Stat. 863, related to pena
 
 Provisions similar to those comprising this section were contained in prior sections 5606, 5626, act Aug. 16, 1954, ch. 736, 68A Stat. 684, 688, prior to the general revision of this chapter by Pub. L. 85–859.
 
-#### § 5603. Penalty relating to records, returns, and reports
+#### § 5603. Penalty relating to records, returns, and reports
 
 **(a) Fraudulent noncompliance** Any person required by this chapter (other than subchapters F and G) or regulations issued pursuant thereto to keep or file any record, return, report, summary, transcript, or other document, who, with intent to defraud the United States, shall—
 
@@ -8616,7 +8616,7 @@ or who shall, with intent to defraud the United States, cause or procure the sam
 
 or who shall, otherwise than with intent to defraud the United States, cause or procure the same to be done, shall be fined not more than $1,000, or imprisoned not more than 1 year, or both, for each such offense.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1400; amended Pub. L. 115–141, div. U, title IV, § 401(a)(249), Mar. 23, 2018, 132 Stat. 1196.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1400; amended Pub. L. 115–141, div. U, title IV, § 401(a)(249), Mar. 23, 2018, 132 Stat. 1196.)
 
 **Editorial Notes**
 
@@ -8630,7 +8630,7 @@ Provisions similar to those comprising this section were contained in prior sect
 
 2018—Pub. L. 115–141 inserted comma after “returns” in section catchline.
 
-#### § 5604. Penalties relating to marks, brands, and containers
+#### § 5604. Penalties relating to marks, brands, and containers
 
 **(a) In general** Any person who shall—
 
@@ -8654,7 +8654,7 @@ shall be fined not more than $10,000 or imprisoned not more than 5 years, or bot
 
 For provisions relating to the authority of internal revenue officers to enforce provisions of this section, see sections 5203, 5557, and 7608.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1401; amended Pub. L. 96–39, title VIII, § 807(a)(53), July 26, 1979, 93 Stat. 289; Pub. L. 98–369, div. A, title IV, § 454(c)(11)(A), July 18, 1984, 98 Stat. 821.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1401; amended Pub. L. 96–39, title VIII, § 807(a)(53), July 26, 1979, 93 Stat. 289; Pub. L. 98–369, div. A, title IV, § 454(c)(11)(A), July 18, 1984, 98 Stat. 821.)
 
 **Editorial Notes**
 
@@ -8685,19 +8685,19 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 602, 69
 
 **Amendments**
 
-1984—Subsec. (a). Pub. L. 98–369, § 454(c)(11)(A), in amending subsec. (a) generally, struck out references to stamps in pars. (1) to (3), redesignated pars. (12), (16), (17), (18) as pars. (4)–(7), respectively, in pars. (4) to (7) as so redesignated, struck out all references to stamps, and struck out former pars. (4) to (11), (13) to (15), and (19), which had consisted of additional provisions concerning penalties relating to stamps, marks, brands and containers.
+1984—Subsec. (a). Pub. L. 98–369, § 454(c)(11)(A), in amending subsec. (a) generally, struck out references to stamps in pars. (1) to (3), redesignated pars. (12), (16), (17), (18) as pars. (4)–(7), respectively, in pars. (4) to (7) as so redesignated, struck out all references to stamps, and struck out former pars. (4) to (11), (13) to (15), and (19), which had consisted of additional provisions concerning penalties relating to stamps, marks, brands and containers.
 
-Subsec. (b). Pub. L. 98–369, § 454(c)(11)(A), in amending subsec. (b) generally, substituted provisions relating to cross references for provisions relating to officers authorized to enforce this section.
+Subsec. (b). Pub. L. 98–369, § 454(c)(11)(A), in amending subsec. (b) generally, substituted provisions relating to cross references for provisions relating to officers authorized to enforce this section.
 
-1979—Subsec. (a)(1). Pub. L. 96–39, § 807(a)(53)(A), substituted “section 5205(a)(1)” for “section 5205(a)(2)”.
+1979—Subsec. (a)(1). Pub. L. 96–39, § 807(a)(53)(A), substituted “section 5205(a)(1)” for “section 5205(a)(2)”.
 
-Subsec. (a)(2). Pub. L. 96–39, § 807(a)(53)(B), substituted “section 5205(a)(1)” for “section 5205(a)(1) or (2)” and “section 5205(a)(2)” for “section 5205(a)(3)”.
+Subsec. (a)(2). Pub. L. 96–39, § 807(a)(53)(B), substituted “section 5205(a)(1)” for “section 5205(a)(1) or (2)” and “section 5205(a)(2)” for “section 5205(a)(3)”.
 
-Subsec. (a)(3). Pub. L. 96–39, § 807(a)(53)(C), substituted “section 5205(f)” for “section 5205(g)”.
+Subsec. (a)(3). Pub. L. 96–39, § 807(a)(53)(C), substituted “section 5205(f)” for “section 5205(g)”.
 
-Subsec. (a)(6). Pub. L. 96–39, § 807(a)(53)(D), substituted “section 5205(a)(2)” for “section 5205(a)(3)”.
+Subsec. (a)(6). Pub. L. 96–39, § 807(a)(53)(D), substituted “section 5205(a)(2)” for “section 5205(a)(3)”.
 
-Subsec. (a)(13). Pub. L. 96–39, § 807(a)(53)(E), substituted “section 5205(a)” for “section 5205(a)(2) and (3)”.
+Subsec. (a)(13). Pub. L. 96–39, § 807(a)(53)(E), substituted “section 5205(a)” for “section 5205(a)(2) and (3)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8709,11 +8709,11 @@ Amendment by Pub. L. 98–369 effective July 1, 1985, see section 456(b) of Pub.
 
 Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as a note under section 5001 of this title.
 
-#### § 5605. Penalty relating to return of materials used in the manufacture of distilled spirits, or from which distilled spirits may be recovered
+#### § 5605. Penalty relating to return of materials used in the manufacture of distilled spirits, or from which distilled spirits may be recovered
 
 Any person who willfully violates any provision of section 5291(a), or of any regulation issued pursuant thereto, and any officer, director, or agent of any such person who knowingly participates in such violation, shall be fined not more than $1,000, or imprisoned not more than 2 years, or both.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1402.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1402.)
 
 **Editorial Notes**
 
@@ -8723,11 +8723,11 @@ A prior section 5605, act Aug. 16, 1954, ch. 736, 68A Stat. 684, related to pena
 
 Provisions similar to those comprising this section were contained in prior section 5609, act Aug. 16, 1954, ch. 736, 68A Stat. 685, prior to the general revision of this chapter by Pub. L. 85–859.
 
-#### § 5606. Penalty relating to containers of distilled spirits
+#### § 5606. Penalty relating to containers of distilled spirits
 
 Whoever violates any provision of section 5301, or of any regulation issued pursuant thereto, or the terms or conditions of any permit issued pursuant to the authorization contained in such section, and any officer, director, or agent of any corporation who knowingly participates in such violation, shall, upon conviction, be fined not more than $1,000, or imprisoned not more than 1 year, or both, for each such offense.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1402.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1402.)
 
 **Editorial Notes**
 
@@ -8737,7 +8737,7 @@ A prior section 5606, act Aug. 16, 1954, ch. 736, 68A Stat. 684, related to pena
 
 Provisions similar to those comprising this section were contained in prior section 5641, act Aug. 16, 1954, ch. 736, 68A Stat. 692, prior to the general revision of this chapter by Pub. L. 85–859.
 
-#### § 5607. Penalty and forfeiture for unlawful use, recovery, or concealment of denatured distilled spirits, or articles
+#### § 5607. Penalty and forfeiture for unlawful use, recovery, or concealment of denatured distilled spirits, or articles
 
 Any person who—
 
@@ -8751,7 +8751,7 @@ Any person who—
 
 shall be fined not more than $10,000, or imprisoned not more than 5 years, or both, for each such offense; and all personal property used in connection with his business, together with the buildings and ground constituting the premises on which such unlawful acts are performed or permitted to be performed shall be forfeited to the United States.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1402.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1402.)
 
 **Editorial Notes**
 
@@ -8761,7 +8761,7 @@ A prior section 5607, act Aug. 16, 1954, ch. 736, 68A Stat. 684, related to pena
 
 Provisions similar to those comprising this section were contained in prior section 5647, act Aug. 16, 1954, ch. 736, 68A Stat. 693, prior to the general revision of this chapter by Pub. L. 85–859.
 
-#### § 5608. Penalty and forfeiture for fraudulent claims for export drawback or unlawful relanding
+#### § 5608. Penalty and forfeiture for fraudulent claims for export drawback or unlawful relanding
 
 **(a) Fraudulent claim for drawback**
 
@@ -8771,7 +8771,7 @@ Every person who fraudulently claims, or seeks, or obtains an allowance of drawb
 
 Every person who, with intent to defraud the United States, relands within the jurisdiction of the United States any distilled spirits which have been shipped for exportation under the provisions of this chapter, or who receives such relanded distilled spirits, and every person who aids or abets in such relanding or receiving of such spirits, shall be fined not more than $5,000, or imprisoned not more than 3 years, or both; and all distilled spirits so relanded, together with the vessel from which the same were relanded within the jurisdiction of the United States, and all vessels, vehicles, or aircraft used in relanding and removing such distilled spirits, shall be forfeited to the United States.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1403; amended Pub. L. 89–44, title VIII, § 805(e), June 21, 1965, 79 Stat. 161.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1403; amended Pub. L. 89–44, title VIII, § 805(e), June 21, 1965, 79 Stat. 161.)
 
 **Editorial Notes**
 
@@ -8791,7 +8791,7 @@ Provisions similar to those comprising this section were contained in prior sect
 
 Amendment by Pub. L. 89–44 effective July 1, 1965, see section 805(g)(1) of Pub. L. 89–44, set out as a note under section 5008 of this title.
 
-#### § 5609. Destruction of unregistered stills, distilling apparatus, equipment, and materials
+#### § 5609. Destruction of unregistered stills, distilling apparatus, equipment, and materials
 
 **(a) General**
 
@@ -8805,7 +8805,7 @@ In the case of seizure elsewhere than on premises qualified under this chapter o
 
 the Secretary shall make an allowance to such claimant not exceeding the value of the property destroyed.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1403; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1403; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -8819,11 +8819,11 @@ Provisions similar to those comprising this section were contained in prior sect
 
 1976—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### § 5610. Disposal of forfeited equipment and material for distilling
+#### § 5610. Disposal of forfeited equipment and material for distilling
 
 All boilers, stills, or other vessels, tools and implements, used in distilling or processing, and forfeited under any of the provisions of this chapter, and all condemned material, together with any engine or other machinery connected therewith, and all empty barrels, and all grain or other material suitable for fermentation or distillation, shall be sold at public auction or otherwise disposed of as the court in which forfeiture was recovered shall in its discretion direct.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1404; amended Pub. L. 96–39, title VIII, § 807(a)(54), July 26, 1979, 93 Stat. 289.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1404; amended Pub. L. 96–39, title VIII, § 807(a)(54), July 26, 1979, 93 Stat. 289.)
 
 **Editorial Notes**
 
@@ -8843,11 +8843,11 @@ Provisions similar to those comprising this section were contained in prior sect
 
 Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as a note under section 5001 of this title.
 
-#### § 5611. Release of distillery before judgment
+#### § 5611. Release of distillery before judgment
 
 Any distillery or distilling apparatus seized on any premises qualified under this chapter, for any violation of law, may, in the discretion of the court, be released before final judgment to a receiver appointed by the court to operate such distillery or apparatus. Such receiver shall give bond, which shall be approved in open court, with corporate surety, for the full appraised value of all the property seized, to be ascertained by three competent appraisers designated and appointed by the court. Funds obtained from such operation shall be impounded as the court shall direct pending such final judgment.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1404.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1404.)
 
 **Editorial Notes**
 
@@ -8857,7 +8857,7 @@ A prior section 5611, act Aug. 16, 1954, ch. 736, 68A Stat. 685, related to pena
 
 Provisions similar to those comprising this section were contained in prior section 5624, act Aug. 16, 1954, ch. 736, 68A Stat. 688, prior to the general revision of this chapter by Pub. L. 85–859.
 
-#### § 5612. Forfeiture of taxpaid distilled spirits remaining on bonded premises
+#### § 5612. Forfeiture of taxpaid distilled spirits remaining on bonded premises
 
 **(a) General**
 
@@ -8869,7 +8869,7 @@ No distilled spirits on which tax has been paid or determined shall be stored or
 
 **(2)** distilled spirits returned to bonded premises in accordance with the provisions of section 5215.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1404; amended Pub. L. 96–39, title VIII, § 807(a)(55), July 26, 1979, 93 Stat. 289.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1404; amended Pub. L. 96–39, title VIII, § 807(a)(55), July 26, 1979, 93 Stat. 289.)
 
 **Editorial Notes**
 
@@ -8891,9 +8891,9 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 **Suspension of Subsection (a) During 1980**
 
-Pub. L. 96–39, title VIII, § 808(c)(1), July 26, 1979, 93 Stat. 291, set out as a note under section 5061 of this title, provided that subsec. (a) of this section was not to apply during 1980.
+Pub. L. 96–39, title VIII, § 808(c)(1), July 26, 1979, 93 Stat. 291, set out as a note under section 5061 of this title, provided that subsec. (a) of this section was not to apply during 1980.
 
-#### § 5613. Forfeiture of distilled spirits not closed, marked, or branded as required by law
+#### § 5613. Forfeiture of distilled spirits not closed, marked, or branded as required by law
 
 **(a) Unmarked or unbranded casks or packages**
 
@@ -8903,7 +8903,7 @@ All distilled spirits found in any cask or package required by this chapter or a
 
 All distilled spirits found in any container which is required by this chapter to bear a closure or other device and which does not bear a closure or other device in compliance with this chapter shall be forfeited to the United States.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 21, 1958, 72 Stat. 1404; amended Pub. L. 98–369, div. A, title IV, § 454(c)(12)(A), (B), July 18, 1984, 98 Stat. 822.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 21, 1958, 72 Stat. 1404; amended Pub. L. 98–369, div. A, title IV, § 454(c)(12)(A), (B), July 18, 1984, 98 Stat. 822.)
 
 **Editorial Notes**
 
@@ -8915,9 +8915,9 @@ Provisions similar to those comprising this section were contained in prior sect
 
 **Amendments**
 
-1984—Pub. L. 98–369, § 454(c)(12)(B), substituted “closed” for “stamped” in section catchline.
+1984—Pub. L. 98–369, § 454(c)(12)(B), substituted “closed” for “stamped” in section catchline.
 
-Subsec. (b). Pub. L. 98–369, § 454(c)(12)(A), amended subsec. (b) generally, substituting provisions relating to forfeitures of containers without closures for provisions relating to forfeitures of unstamped containers.
+Subsec. (b). Pub. L. 98–369, § 454(c)(12)(A), amended subsec. (b) generally, substituting provisions relating to forfeitures of containers without closures for provisions relating to forfeitures of unstamped containers.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8925,11 +8925,11 @@ Subsec. (b). Pub. L. 98–369, § 454(c)(12)(A), amended subsec. (b) generally
 
 Amendment by Pub. L. 98–369 effective July 1, 1985, see section 456(b) of Pub. L. 98–369, set out as an Effective Date note under section 5101 of this title.
 
-#### § 5614. Burden of proof in cases of seizure of spirits
+#### § 5614. Burden of proof in cases of seizure of spirits
 
 Whenever seizure is made of any distilled spirits found elsewhere than on the premises of a distilled spirits plant, or than in any warehouse authorized by law, or than in the store or place of business of a wholesale liquor dealer, or than in transit from any one of said places; or of any distilled spirits found in any one of the places aforesaid, or in transit therefrom, which have not been received into or sent out therefrom in conformity to law, or in regard to which any of the entries required by law, or regulations issued pursuant thereto, to be made in respect of such spirits, have not been made at the time or in the manner required, or in respect to which any owner or person having possession, control, or charge of said spirits, has omitted to do any act required to be done, or has done or committed any act prohibited in regard to said spirits, the burden of proof shall be upon the claimant of said spirits to show that no fraud has been committed, and that all the requirements of the law in relation to the payment of the tax have been complied with.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1405.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1405.)
 
 **Editorial Notes**
 
@@ -8939,7 +8939,7 @@ A prior section 5614, act Aug. 16, 1954, ch. 736, 68A Stat. 685, related to pena
 
 Provisions similar to those comprising this section were contained in prior section 5649, act Aug. 16, 1954, ch. 736, 68A Stat. 694, prior to the general revision of this chapter by Pub. L. 85–859.
 
-#### § 5615. Property subject to forfeiture
+#### § 5615. Property subject to forfeiture
 
 The following property shall be forfeited to the United States:
 
@@ -8997,7 +8997,7 @@ All distilled spirits on which the tax has not been paid or determined which hav
 
 All distilled spirits on which the tax has not been paid or determined as provided by law to which any ingredient or substance has been added for the purpose of creating fictitious proof.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1405; amended Pub. L. 96–39, title VIII, § 807(a)(56), July 26, 1979, 93 Stat. 289; Pub. L. 98–369, div. A, title IV, § 451(b)(2), July 18, 1984, 98 Stat. 819.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1405; amended Pub. L. 96–39, title VIII, § 807(a)(56), July 26, 1979, 93 Stat. 289; Pub. L. 98–369, div. A, title IV, § 451(b)(2), July 18, 1984, 98 Stat. 819.)
 
 **Editorial Notes**
 
@@ -9111,9 +9111,9 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 **Prior Provisions**
 
-A prior part II consisted of sections 5661 to 5663 of this title, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior part II consisted of sections 5661 to 5663 of this title, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
-#### § 5661. Penalty and forfeiture for violation of laws and regulations relating to wine
+#### § 5661. Penalty and forfeiture for violation of laws and regulations relating to wine
 
 **(a) Fraudulent offenses**
 
@@ -9123,7 +9123,7 @@ Whoever, with intent to defraud the United States, fails to pay any tax imposed 
 
 Any proprietor of premises subject to the provisions of subchapter F, or any employee or agent of such proprietor, or any other person, who otherwise than with intent to defraud the United States violates or fails to comply with any provision of subchapter F or subpart C of part I of subchapter A, or regulations issued pursuant thereto, or who aids or abets in any such violation, shall be fined not more than $1,000, or imprisoned not more than 1 year, or both, for each such offense.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1407.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1407.)
 
 **Editorial Notes**
 
@@ -9139,11 +9139,11 @@ Prior section 5661(a) also provided for an additional penalty “of double the t
 
 Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
 
-#### § 5662. Penalty for alteration of wine labels
+#### § 5662. Penalty for alteration of wine labels
 
 Any person who, without the permission of the Secretary, so alters as to materially change the meaning of any mark, brand, or label required to appear upon any wine upon its removal from premises subject to the provisions of subchapter F, or from customs custody, or who, after such removal, represents any wine, whether in its original containers or otherwise, to be of an identity or origin other than its proper identity or origin as shown by such stamp, mark, brand, or label, or who, directly or indirectly, and whether by manner of packaging or advertising or any other form of representation, represents any still wine to be an effervescent wine or a substitute for an effervescent wine, shall be fined not more than $1,000, or imprisoned not more than 1 year, or both, for each such offense.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1407; amended Pub. L. 94–455, title XIX, §§ 1905(b)(2)(D), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1822, 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1407; amended Pub. L. 94–455, title XIX, §§ 1905(b)(2)(D), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1822, 1834.)
 
 **Editorial Notes**
 
@@ -9161,11 +9161,11 @@ A prior section 5662, act Aug. 16, 1954, ch. 736, 68A Stat. 695, consisted of pr
 
 Amendment by section 1905(b)(2)(D) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
 
-#### § 5663. Cross reference
+#### § 5663. Cross reference
 
 For penalties of common application pertaining to liquors, including wines, see part IV.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1407; amended Pub. L. 96–39, title VIII, § 807(a)(57), July 26, 1979, 93 Stat. 289.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1407; amended Pub. L. 96–39, title VIII, § 807(a)(57), July 26, 1979, 93 Stat. 289.)
 
 **Editorial Notes**
 
@@ -9189,19 +9189,19 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 **Prior Provisions**
 
-A prior part III consisted of sections 5671 to 5676 of this title, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior part III consisted of sections 5671 to 5676 of this title, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
 **Amendments**
 
-1978—Pub. L. 95–458, § 2(b)(5)(B), Oct. 14, 1978, 92 Stat. 1257, substituted “production or removal” for “removal” in item 5674.
+1978—Pub. L. 95–458, § 2(b)(5)(B), Oct. 14, 1978, 92 Stat. 1257, substituted “production or removal” for “removal” in item 5674.
 
-1976—Pub. L. 94–455, title XIX, § 1905(b)(1)(B), Oct. 4, 1976, 90 Stat. 1822, struck out item 5676 “Penalties relating to beer stamps”.
+1976—Pub. L. 94–455, title XIX, § 1905(b)(1)(B), Oct. 4, 1976, 90 Stat. 1822, struck out item 5676 “Penalties relating to beer stamps”.
 
-#### § 5671. Penalty and forfeiture for evasion of beer tax and fraudulent noncompliance with requirements
+#### § 5671. Penalty and forfeiture for evasion of beer tax and fraudulent noncompliance with requirements
 
 Whoever evades or attempts to evade any tax imposed by section 5051, or with intent to defraud the United States fails or refuses to keep and file true and accurate records and returns as required by section 5415 and regulations issued pursuant thereto, shall be fined not more than $5,000, or imprisoned not more than 5 years, or both, for each such offense, and shall forfeit all beer made by him or for him, and all the vessels, utensils, and apparatus used in making the same.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1408; amended Pub. L. 109–59, title XI, § 11125(b)(18), Aug. 10, 2005, 119 Stat. 1956.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1408; amended Pub. L. 109–59, title XI, § 11125(b)(18), Aug. 10, 2005, 119 Stat. 1956.)
 
 **Editorial Notes**
 
@@ -9223,11 +9223,11 @@ Amendment by Pub. L. 109–59 effective July 1, 2008, but inapplicable to taxes 
 
 Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
 
-#### § 5672. Penalty for failure of brewer to comply with requirements and to keep records and file returns
+#### § 5672. Penalty for failure of brewer to comply with requirements and to keep records and file returns
 
 Every brewer who, otherwise than with intent to defraud the United States, fails or refuses to keep the records and file the returns required by section 5415 and regulations issued pursuant thereto, or refuses to permit any internal revenue officer to inspect his records in the manner provided, or violates any of the provisions of subchapter G or regulations issued pursuant thereto shall be fined not more than $1,000, or imprisoned not more than 1 year, or both, for each such offense.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1408.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1408.)
 
 **Editorial Notes**
 
@@ -9235,11 +9235,11 @@ Every brewer who, otherwise than with intent to defraud the United States, fails
 
 A prior section 5672, act Aug. 16, 1954, ch. 736, 68A Stat. 696, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
-#### § 5673. Forfeiture for flagrant and willful removal of beer without taxpayment
+#### § 5673. Forfeiture for flagrant and willful removal of beer without taxpayment
 
 For flagrant and willful removal of taxable beer for consumption or sale, with intent to defraud the United States of the tax thereon, all the right, title, and interest of each person who knowingly has suffered or permitted such removal, or has connived at the same, in the lands and buildings constituting the brewery shall be forfeited by a proceeding in rem in the District Court of the United States having jurisdiction thereof.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1408.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1408.)
 
 **Editorial Notes**
 
@@ -9247,7 +9247,7 @@ For flagrant and willful removal of taxable beer for consumption or sale, with i
 
 A prior section 5673, act Aug. 16, 1954, ch. 736, 68A Stat. 696, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
-#### § 5674. Penalty for unlawful production or removal of beer
+#### § 5674. Penalty for unlawful production or removal of beer
 
 **(a) Unlawful production**
 
@@ -9257,7 +9257,7 @@ Any person who brews beer or produces beer shall be fined not more than $1,000, 
 
 Any brewer or other person who removes or in any way aids in the removal from any brewery of beer without complying with the provisions of this chapter or regulations issued pursuant thereto shall be fined not more than $1,000, or imprisoned not more than 1 year, or both.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1408; amended Pub. L. 95–458, § 2(b)(5)(A), Oct. 14, 1978, 92 Stat. 1256.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1408; amended Pub. L. 95–458, § 2(b)(5)(A), Oct. 14, 1978, 92 Stat. 1256.)
 
 **Editorial Notes**
 
@@ -9275,11 +9275,11 @@ A prior section 5674, act Aug. 16, 1954, ch. 736, 68A Stat. 696, consisted of pr
 
 Amendment by Pub. L. 95–458 effective on first day of first calendar month beginning more than 90 days after Oct. 14, 1978, see section 2(c) of Pub. L. 95–458, set out as a note under section 5042 of this title.
 
-#### § 5675. Penalty for intentional removal or defacement of brewer’s marks and brands
+#### § 5675. Penalty for intentional removal or defacement of brewer’s marks and brands
 
 Every person other than the owner, or his agent authorized so to do, who intentionally removes or defaces any mark, brand, or label required by section 5412 and regulations issued pursuant thereto shall be liable to a penalty of $50 for each barrel or other container from which such mark, brand, or label is so removed or defaced.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1408.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1408.)
 
 **Editorial Notes**
 
@@ -9287,9 +9287,9 @@ Every person other than the owner, or his agent authorized so to do, who intenti
 
 A prior section 5675, act Aug. 16, 1954, ch. 736, 68A Stat. 696, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
-#### [§ 5676. Repealed. Pub. L. 94–455, title XIX, § 1905(b)(1)(A), Oct. 4, 1976, 90 Stat. 1822]
+#### [§ 5676. Repealed. Pub. L. 94–455, title XIX, § 1905(b)(1)(A), Oct. 4, 1976, 90 Stat. 1822]
 
-Section, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1408, set out the penalties for selling, removing, or receiving beer without a proper stamp or device, withdrawing beer from an improperly stamped container or without destroying the stamp, and counterfeiting stamps or devices or trafficking in used stamps or devices, and provided for the forfeiture of unstamped containers, and the penalties for removal or defacement of stamps, devices, or labels.
+Section, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1408, set out the penalties for selling, removing, or receiving beer without a proper stamp or device, withdrawing beer from an improperly stamped container or without destroying the stamp, and counterfeiting stamps or devices or trafficking in used stamps or devices, and provided for the forfeiture of unstamped containers, and the penalties for removal or defacement of stamps, devices, or labels.
 
 A prior section 5676, act Aug. 16, 1954, ch. 736, 68A Stat. 697, consisted of provisions similar to those comprising this section prior to repeal by Pub. L. 94–455, prior to the general revision of this chapter by Pub. L. 85–859.
 
@@ -9305,13 +9305,13 @@ Repeal effective on first day of first month which begins more than 90 days afte
 
 **Prior Provisions**
 
-A prior part IV consisted of sections 5681 to 5690 of this title, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior part IV consisted of sections 5681 to 5690 of this title, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
 **Amendments**
 
-1976—Pub. L. 94–455, title XIX, § 1905(b)(2)(E)(ii), Oct. 4, 1976, 90 Stat. 1822, struck out item 5689 “Penalty and forfeiture for tampering with a stamp machine”.
+1976—Pub. L. 94–455, title XIX, § 1905(b)(2)(E)(ii), Oct. 4, 1976, 90 Stat. 1822, struck out item 5689 “Penalty and forfeiture for tampering with a stamp machine”.
 
-#### § 5681. Penalty relating to signs
+#### § 5681. Penalty relating to signs
 
 **(a) Failure to post required sign**
 
@@ -9329,7 +9329,7 @@ Every person who works in any distilled spirits plant on which no sign required 
 
 Whenever on trial for violation of subsection (c) by working in a distilled spirits plant on which no sign required by section 5180(a) is placed or kept, the defendant is shown to have been present at such premises, such presence of the defendant shall be deemed sufficient evidence to authorize conviction, unless the defendant explains such presence to the satisfaction of the jury (or of the court when tried without jury).
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1410; amended Pub. L. 96–39, title VIII, § 807(a)(58), July 26, 1979, 93 Stat. 289; Pub. L. 105–34, title XIV, § 1415(b)(1), (2), Aug. 5, 1997, 111 Stat. 1047; Pub. L. 115–141, div. U, title I, § 108(a), Mar. 23, 2018, 132 Stat. 1171.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1410; amended Pub. L. 96–39, title VIII, § 807(a)(58), July 26, 1979, 93 Stat. 289; Pub. L. 105–34, title XIV, § 1415(b)(1), (2), Aug. 5, 1997, 111 Stat. 1047; Pub. L. 115–141, div. U, title I, § 108(a), Mar. 23, 2018, 132 Stat. 1171.)
 
 **Editorial Notes**
 
@@ -9341,27 +9341,27 @@ A prior section 5681, act Aug. 16, 1954, ch. 736, 68A Stat. 698, consisted of pr
 
 2018—Subsec. (b). Pub. L. 115–141 substituted “who meets the requirements of section 5121(a) and section 5124 (or who is exempt from such requirements by reason of section 5121(b))” for “who has paid the special tax (or who is exempt from payment of such special tax by reason of the provisions of section 5113(a))”.
 
-1997—Subsec. (a). Pub. L. 105–34, § 1415(b)(1), struck out “, and every wholesale dealer in liquors,” after “spirits operations” and “section 5115(a) or” after “sign required by”.
+1997—Subsec. (a). Pub. L. 105–34, § 1415(b)(1), struck out “, and every wholesale dealer in liquors,” after “spirits operations” and “section 5115(a) or” after “sign required by”.
 
-Subsec. (c). Pub. L. 105–34, § 1415(b)(2), substituted “on which no sign required by” for “or wholesale liquor establishment, on which no sign required by section 5115(a) or” and substituted “or who” for “or wholesale liquor establishment, or who”.
+Subsec. (c). Pub. L. 105–34, § 1415(b)(2), substituted “on which no sign required by” for “or wholesale liquor establishment, on which no sign required by section 5115(a) or” and substituted “or who” for “or wholesale liquor establishment, or who”.
 
-1979—Subsec. (a). Pub. L. 96–39, § 807(a)(58)(A), substituted “distilled spirits operations” for “distilling, warehousing of distilled spirits, rectifying, or bottling of distilled spirits”.
+1979—Subsec. (a). Pub. L. 96–39, § 807(a)(58)(A), substituted “distilled spirits operations” for “distilling, warehousing of distilled spirits, rectifying, or bottling of distilled spirits”.
 
-Subsec. (b). Pub. L. 96–39, § 807(a)(58)(B), substituted “other than a distiller, warehouseman, or processor of distilled spirits” for “other than a distiller, warehouseman of distilled spirits, rectifier, or bottler of distilled spirits”, “section 5171(c)” for “section 5171(a)”, and “business of a distiller, warehouseman, or processor of distilled spirits” for “business of a distiller, bonded warehouseman, rectifier, bottler of distilled spirits”.
+Subsec. (b). Pub. L. 96–39, § 807(a)(58)(B), substituted “other than a distiller, warehouseman, or processor of distilled spirits” for “other than a distiller, warehouseman of distilled spirits, rectifier, or bottler of distilled spirits”, “section 5171(c)” for “section 5171(a)”, and “business of a distiller, warehouseman, or processor of distilled spirits” for “business of a distiller, bonded warehouseman, rectifier, bottler of distilled spirits”.
 
-Subsec. (c). Pub. L. 96–39, § 807(a)(58)(C), substituted “in any distilled spirits plant” for “in any distillery, or in any rectifying, distilled spirits bottling”, “such distilled spirits plant” for “such distillery, or to or from any such rectifying, distilled spirits bottling”, and “to any distilled spirits plant” for “to any distillery”.
+Subsec. (c). Pub. L. 96–39, § 807(a)(58)(C), substituted “in any distilled spirits plant” for “in any distillery, or in any rectifying, distilled spirits bottling”, “such distilled spirits plant” for “such distillery, or to or from any such rectifying, distilled spirits bottling”, and “to any distilled spirits plant” for “to any distillery”.
 
-Subsec. (d). Pub. L. 96–39, § 807(a)(58)(D), substituted “distilled spirits plant” for “distillery or rectifying establishment”.
+Subsec. (d). Pub. L. 96–39, § 807(a)(58)(D), substituted “distilled spirits plant” for “distillery or rectifying establishment”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–141, div. U, title I, § 108(b), Mar. 23, 2018, 132 Stat. 1171, provided that: “The amendment made by this section [amending this section] shall take effect as if included in section 11125 of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users [Pub. L. 109–59].”
+Pub. L. 115–141, div. U, title I, § 108(b), Mar. 23, 2018, 132 Stat. 1171, provided that: “The amendment made by this section [amending this section] shall take effect as if included in section 11125 of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users [Pub. L. 109–59].”
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title XIV, § 1415(c), Aug. 5, 1997, 111 Stat. 1047, provided that: “The amendments made by this section [amending this section and repealing section 5115 of this title] shall take effect on the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title XIV, § 1415(c), Aug. 5, 1997, 111 Stat. 1047, provided that: “The amendments made by this section [amending this section and repealing section 5115 of this title] shall take effect on the date of the enactment of this Act [Aug. 5, 1997].”
 
 **Effective Date of 1979 Amendment**
 
@@ -9371,11 +9371,11 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title.
 
-#### § 5682. Penalty for breaking locks or gaining access
+#### § 5682. Penalty for breaking locks or gaining access
 
 Every person, who destroys, breaks, injures, or tampers with any lock or seal which may be placed on any room, building, tank, vessel, or apparatus, by any authorized internal revenue officer or any approved lock or seal placed thereon by a distilled spirits plant proprietor, or who opens said lock, seal, room, building, tank, vessel, or apparatus, or in any manner gains access to the contents therein, in the absence of the proper officer, or otherwise than as authorized by law, shall be fined not more than $5,000, or imprisoned not more than 3 years, or both.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1410; amended Pub. L. 96–39, title VIII, § 807(a)(59), July 26, 1979, 93 Stat. 290.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1410; amended Pub. L. 96–39, title VIII, § 807(a)(59), July 26, 1979, 93 Stat. 290.)
 
 **Editorial Notes**
 
@@ -9393,11 +9393,11 @@ A prior section 5682, act Aug. 16, 1954, ch. 736, 68A Stat. 698, consisted of pr
 
 Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as a note under section 5001 of this title.
 
-#### § 5683. Penalty and forfeiture for removal of liquors under improper brands
+#### § 5683. Penalty and forfeiture for removal of liquors under improper brands
 
 Whenever any person ships, transports, or removes any distilled spirits, wines, or beer, under any other than the proper name or brand known to the trade as designating the kind and quality of the contents of the casks or packages containing the same, or causes such act to be done, he shall be fined not more than $1,000, or imprisoned not more than 1 year, or both, and shall forfeit such distilled spirits, wines, or beer, and casks or packages.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1410.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1410.)
 
 **Editorial Notes**
 
@@ -9405,7 +9405,7 @@ Whenever any person ships, transports, or removes any distilled spirits, wines, 
 
 A prior section 5683, act Aug. 16, 1954, ch. 736, 68A Stat. 699, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
-#### § 5684. Penalties relating to the payment and collection of liquor taxes
+#### § 5684. Penalties relating to the payment and collection of liquor taxes
 
 **(a) Failure to pay tax**
 
@@ -9429,7 +9429,7 @@ The penalties imposed by subsection (a) shall be assessed, collected, and paid i
 
 **(6)** For penalty for willful failure to file return, supply information, or pay tax, see section 7203.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1410; amended Pub. L. 91–172, title IX, § 943(c)(4), Dec. 30, 1969, 83 Stat. 728; Pub. L. 97–34, title VII, §§ 722(a)(3), 724(b)(4), Aug. 13, 1981, 95 Stat. 342, 345; Pub. L. 98–369, div. A, title VII, §§ 714(h)(1), 722(a)(5), July 18, 1984, 98 Stat. 962, 973; Pub. L. 101–239, title VII, § 7721(c)(3), Dec. 19, 1989, 103 Stat. 2399.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1410; amended Pub. L. 91–172, title IX, § 943(c)(4), Dec. 30, 1969, 83 Stat. 728; Pub. L. 97–34, title VII, §§ 722(a)(3), 724(b)(4), Aug. 13, 1981, 95 Stat. 342, 345; Pub. L. 98–369, div. A, title VII, §§ 714(h)(1), 722(a)(5), July 18, 1984, 98 Stat. 962, 973; Pub. L. 101–239, title VII, § 7721(c)(3), Dec. 19, 1989, 103 Stat. 2399.)
 
 **Editorial Notes**
 
@@ -9441,17 +9441,17 @@ A prior section 5684, act Aug. 16, 1954, ch. 736, 68A Stat. 699, consisted of pr
 
 1989—Subsec. (b). Pub. L. 101–239 substituted “6665” for “6662” in heading and “6665(a)” for “6662(a)” in text.
 
-1984—Subsec. (b). Pub. L. 98–369, § 714(h)(1), substituted in heading “6662” for “6660” and in text “6662(a)” for “6660(a)”.
+1984—Subsec. (b). Pub. L. 98–369, § 714(h)(1), substituted in heading “6662” for “6660” and in text “6662(a)” for “6660(a)”.
 
-Pub. L. 98–369, § 722(a)(5), substituted “subsection (a)” for “subsections (a) and (b)”.
+Pub. L. 98–369, § 722(a)(5), substituted “subsection (a)” for “subsections (a) and (b)”.
 
-1981—Subsec. (b). Pub. L. 97–34, § 724(b)(4)(A), redesignated subsec. (c) as (b). Former subsec. (b), which related to penalties for failure to make deposit of taxes, was struck out.
+1981—Subsec. (b). Pub. L. 97–34, § 724(b)(4)(A), redesignated subsec. (c) as (b). Former subsec. (b), which related to penalties for failure to make deposit of taxes, was struck out.
 
-Subsec. (c). Pub. L. 97–34, § 724(b)(4), redesignated subsec. (d) as (c), added par. (4), and redesignated pars. (5) and (6) as (4) and (5), respectively. Former subsec. (c) redesignated (b).
+Subsec. (c). Pub. L. 97–34, § 724(b)(4), redesignated subsec. (d) as (c), added par. (4), and redesignated pars. (5) and (6) as (4) and (5), respectively. Former subsec. (c) redesignated (b).
 
-Pub. L. 97–34, § 722(a)(3), substituted “6660” for “6659” in heading and text.
+Pub. L. 97–34, § 722(a)(3), substituted “6660” for “6659” in heading and text.
 
-Subsec. (d). Pub. L. 97–34, § 724(b)(4), redesignated subsec. (d) as (c).
+Subsec. (d). Pub. L. 97–34, § 724(b)(4), redesignated subsec. (d) as (c).
 
 1969—Subsec. (d)(2). Pub. L. 91–172 inserted “or pay tax” after “tax return”.
 
@@ -9469,7 +9469,7 @@ Amendment by section 722(a)(5) of Pub. L. 98–369 effective as if included in t
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–34, title VII, § 722(a)(4), Aug. 13, 1981, 95 Stat. 342, provided that: “The amendments made by this subsection [enacting section 6659 of this title and amending this section and section 5761 of this title] shall apply to returns filed after December 31, 1981.”
+Pub. L. 97–34, title VII, § 722(a)(4), Aug. 13, 1981, 95 Stat. 342, provided that: “The amendments made by this subsection [enacting section 6659 of this title and amending this section and section 5761 of this title] shall apply to returns filed after December 31, 1981.”
 
 Amendment by section 724(b)(4) of Pub. L. 97–34 applicable to returns filed after Aug. 13, 1981, see section 724(c) of Pub. L. 97–34, set out as a note under section 6656 of this title.
 
@@ -9477,7 +9477,7 @@ Amendment by section 724(b)(4) of Pub. L. 97–34 applicable to returns filed af
 
 Amendment by Pub. L. 91–172 applicable with respect to tax returns the date prescribed by law for filing of which is after Dec. 31, 1969, see section 943(d) of Pub. L. 91–172, set out as a note under section 6651 of this title.
 
-#### § 5685. Penalty and forfeiture relating to possession of devices for emitting gas, smoke, etc., explosives and firearms, when violating liquor laws
+#### § 5685. Penalty and forfeiture relating to possession of devices for emitting gas, smoke, etc., explosives and firearms, when violating liquor laws
 
 **(a) Penalty for possession of devices for emitting gas, smoke, etc.**
 
@@ -9495,7 +9495,7 @@ Every such firearm or device for emitting gas, smoke, or fumes, and every such e
 
 As used in this section the term “machine gun” means a machine gun as defined in section 5845(b).
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1411; amended Pub. L. 86–478, § 4, June 1, 1960, 74 Stat. 150; Pub. L. 94–455, title XIX, § 1905(a)(23), (c)(6), Oct. 4, 1976, 90 Stat. 1821, 1823.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1411; amended Pub. L. 86–478, § 4, June 1, 1960, 74 Stat. 150; Pub. L. 94–455, title XIX, § 1905(a)(23), (c)(6), Oct. 4, 1976, 90 Stat. 1821, 1823.)
 
 **Editorial Notes**
 
@@ -9505,11 +9505,11 @@ A prior section 5685, act Aug. 16, 1954, ch. 736, 68A Stat. 699, consisted of pr
 
 **Amendments**
 
-1976—Subsec. (a). Pub. L. 94–455, § 1905(a)(23)(A), (c)(6), struck out “Territory or” after “United States, or of any” and substituted “section 5845” for “section 5848”.
+1976—Subsec. (a). Pub. L. 94–455, § 1905(a)(23)(A), (c)(6), struck out “Territory or” after “United States, or of any” and substituted “section 5845” for “section 5848”.
 
-Subsec. (c). Pub. L. 94–455, § 1905(a)(23)(B), substituted “section 5872” for “section 5862”.
+Subsec. (c). Pub. L. 94–455, § 1905(a)(23)(B), substituted “section 5872” for “section 5862”.
 
-Subsec. (d). Pub. L. 94–455, § 1905(a)(23)(C), substituted “means a machinegun as defined in section 5845(b)” for “means any weapon which shoots, or is designed to shoot, automatically or semiautomatically, more than one shot, without manual reloading, by a single function of the trigger”.
+Subsec. (d). Pub. L. 94–455, § 1905(a)(23)(C), substituted “means a machinegun as defined in section 5845(b)” for “means any weapon which shoots, or is designed to shoot, automatically or semiautomatically, more than one shot, without manual reloading, by a single function of the trigger”.
 
 1960—Subsecs. (a), (b). Pub. L. 86–478 substituted “shotgun having a barrel or barrels less than 18 inches in length, or a rifle having a barrel or barrels less than 16 inches in length” for “shotgun or rifle having a barrel or barrels less than 18 inches in length”.
 
@@ -9523,7 +9523,7 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 Amendment by Pub. L. 86–478 effective on first day of first month which begins more than 10 days after June 1, 1960, see section 5 of Pub. L. 86–478, June 1, 1960, 74 Stat. 150.
 
-#### § 5686. Penalty for having, possessing, or using liquor or property intended to be used in violating provisions of this chapter
+#### § 5686. Penalty for having, possessing, or using liquor or property intended to be used in violating provisions of this chapter
 
 **(a) General**
 
@@ -9533,7 +9533,7 @@ It shall be unlawful to have or possess any liquor or property intended for use 
 
 For seizure and forfeiture of liquor and property had, possessed, or used in violation of subsection (a), see section 7302.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1411.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1411.)
 
 **Editorial Notes**
 
@@ -9543,11 +9543,11 @@ A prior section 5686, act Aug. 16, 1954, ch. 736, 68A Stat. 700, consisted in su
 
 Prior section 5686(a) related to offenses as to operation of industrial alcohol or denaturing plants or unlawful withdrawal of taxable alcohol. See section 5687 of this title.
 
-#### § 5687. Penalty for offenses not specifically covered
+#### § 5687. Penalty for offenses not specifically covered
 
 Whoever violates any provision of this chapter or regulations issued pursuant thereto, for which a specific criminal penalty is not prescribed by this chapter, shall be fined not more than $1,000, or imprisoned not more than 1 year, or both, for each such offense.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1412.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1412.)
 
 **Editorial Notes**
 
@@ -9559,7 +9559,7 @@ Prior section 5687 also related to forfeitures applicable to distillers, rectifi
 
 Provisions similar to those comprising this section were contained in prior sections 5602, 5608(c), 5612 to 5619, 5627, 5628, 5630, 5631, 5643, 5684(a) and 5686(a), act Aug. 16, 1954, ch. 736, 68A Stat. 683, 685, 686, 689, 692, 693, 699, 700, prior to the general revision of this chapter by Pub. L. 85–859.
 
-#### § 5688. Disposition and release of seized property
+#### § 5688. Disposition and release of seized property
 
 **(a) Forfeiture**
 
@@ -9595,7 +9595,7 @@ Except as provided in section 5243, all distilled spirits sold by order of court
 
 Notwithstanding any provisions of law relating to the return on bond of any vessel or vehicle seized for the violation of any law of the United States, the court having jurisdiction of the subject matter may, in its discretion and upon good cause shown by the United States, refuse to order such return of any such vessel or vehicle to the claimant thereof. As used in this subsection, the word “vessel” includes every description of watercraft used, or capable of being used, as a means of transportation in water or in water and air; and the word “vehicle” includes every animal and description of carriage or other contrivance used, or capable of being used, as a means of transportation on land or through the air.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1412; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1412; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -9607,9 +9607,9 @@ A prior section 5688, act Aug. 16, 1954, ch. 736, 68A Stat. 701, consisted of pr
 
 1976—Subsecs. (a)(5), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### [§ 5689. Repealed. Pub. L. 94–455, title XIX, § 1905(b)(2)(E)(i), Oct. 4, 1976, 90 Stat. 1822]
+#### [§ 5689. Repealed. Pub. L. 94–455, title XIX, § 1905(b)(2)(E)(i), Oct. 4, 1976, 90 Stat. 1822]
 
-Section, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1413, provided for penalty and forfeiture for tampering with a stamp machine.
+Section, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1413, provided for penalty and forfeiture for tampering with a stamp machine.
 
 A prior section 5689, act Aug. 16, 1954, ch. 736, 68A Stat. 702, related to penalty and forfeiture for tampering with a stamp machine, prior to the general revision of this chapter by Pub. L. 85–859.
 
@@ -9619,11 +9619,11 @@ A prior section 5689, act Aug. 16, 1954, ch. 736, 68A Stat. 702, related to pena
 
 Repeal effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 5005 of this title.
 
-#### § 5690. Definition of the term “person”
+#### § 5690. Definition of the term “person”
 
 The term “person”, as used in this subchapter, includes an officer or employee of a corporation or a member or employee of a partnership, who as such officer, employee, or member is under a duty to perform the act in respect of which the violation occurs.
 
-(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1413.)
+(Added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1413.)
 
 **Editorial Notes**
 
@@ -9637,11 +9637,11 @@ A prior section 5690, act Aug. 16, 1954, ch. 736, 68A Stat. 702, consisted of pr
 
 **Prior Provisions**
 
-A prior part V consisted of sections 5691 to 5693, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior part V consisted of sections 5691 to 5693, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
-#### [§ 5691. Repealed. Pub. L. 109–59, title XI, § 11125(b)(19)(A), Aug. 10, 2005, 119 Stat. 1956]
+#### [§ 5691. Repealed. Pub. L. 109–59, title XI, § 11125(b)(19)(A), Aug. 10, 2005, 119 Stat. 1956]
 
-Section, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1413; amended Pub. L. 96–39, title VIII, § 807(a)(60), July 26, 1979, 93 Stat. 290; Pub. L. 98–369, div. A, title IV, § 451(b)(3), July 18, 1984, 98 Stat. 819; Pub. L. 100–203, title X, § 10512(a)(1)(B)(i), (ii), Dec. 22, 1987, 101 Stat. 1330–447, 1330–448, related to penalties for nonpayment of special taxes.
+Section, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1413; amended Pub. L. 96–39, title VIII, § 807(a)(60), July 26, 1979, 93 Stat. 290; Pub. L. 98–369, div. A, title IV, § 451(b)(3), July 18, 1984, 98 Stat. 819; Pub. L. 100–203, title X, § 10512(a)(1)(B)(i), (ii), Dec. 22, 1987, 101 Stat. 1330–447, 1330–448, related to penalties for nonpayment of special taxes.
 
 A prior section 5691, act Aug. 16, 1954, ch. 736, 68A Stat. 702, related to penalties for willful nonpayment of special taxes and forfeitures for nonpayment of special taxes relating to liquors, prior to the general revision of this chapter by Pub. L. 85–859.
 
@@ -9651,11 +9651,11 @@ A prior section 5691, act Aug. 16, 1954, ch. 736, 68A Stat. 702, related to pena
 
 Repeal effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, see section 11125(c) of Pub. L. 109–59, set out as an Effective Date of 2005 Amendment note under section 5002 of this title.
 
-#### [§ 5692. Repealed. Pub. L. 90–618, title II, § 206(a), Oct. 22, 1968, 82 Stat. 1235]
+#### [§ 5692. Repealed. Pub. L. 90–618, title II, § 206(a), Oct. 22, 1968, 82 Stat. 1235]
 
-Section, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1413, set forth a cross reference to section 7273(a), relating to penalties for failure to post special tax stamps.
+Section, added Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1413, set forth a cross reference to section 7273(a), relating to penalties for failure to post special tax stamps.
 
-A prior section 5692, act Aug. 16, 1954, ch. 736, 68A Stat. 703, related to penalty relating to records of retail liquor dealers, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
+A prior section 5692, act Aug. 16, 1954, ch. 736, 68A Stat. 703, related to penalty relating to records of retail liquor dealers, prior to the general revision of this chapter by Pub. L. 85–859, title II, § 201, Sept. 2, 1958, 72 Stat. 1313.
 
 A prior section 5693, act Aug. 16, 1954, ch. 736, 68A Stat. 703, consisted of provisions similar to those comprising section 5692, prior to the general revision of this chapter by Pub. L. 85–859.
 

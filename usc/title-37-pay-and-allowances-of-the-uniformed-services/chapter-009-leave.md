@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1990—Pub. L. 101–510, div. A, title XIV, § 1484(f)(1), Nov. 5, 1990, 104 Stat. 1717, revised chapter heading so as to appear in all capital letters.
+1990—Pub. L. 101–510, div. A, title XIV, § 1484(f)(1), Nov. 5, 1990, 104 Stat. 1717, revised chapter heading so as to appear in all capital letters.
 
-## § 501. Payments for unused accrued leave
+## § 501. Payments for unused accrued leave
 
 **(a)** In this section, the term “discharge” means—
 
@@ -73,9 +73,9 @@ retrieved: 2026-10-11
 
 **(f)** The number of days upon which payment under subsection (b) or (g) is based may not exceed sixty, less the number of days for which payment has been previously made under such subsections after February 9, 1976. For the purposes of this subsection, the number of days upon which payment may be based shall be determined without regard to any break in service or change in status in the uniformed services.
 
-**(g)** An officer of the Regular Corps of the Public Health Service, or an officer of the Reserve Corps 1
+**(g)** An officer of the Regular Corps of the Public Health Service, or an officer of the Reserve Corps 1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 of the Public Health Service on active duty, who is credited with accumulated and accrued annual leave on the date of his separation, retirement, or release from active duty, shall, if his application for that leave is approved by the Secretary of Health and Human Services, be paid for that leave in a lump-sum on the basis of his basic pay, subsistence allowance, and allowance for quarters whether or not he is receiving that allowance on that date. However, the number of days upon which the lump-sum payment is based is subject to subsection (f). A lump-sum payment may not be made under this subsection to an officer—
 
@@ -89,20 +89,20 @@ In this subsection, the term “accumulated annual leave” means unused accrued
 
 **(h)** Payment shall be made for all leave accumulated under section 701(f) of title 10 as soon as possible after the name of the person concerned is removed from a missing status, as defined in section 551(2) of this title.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 480; Pub. L. 89–151, §§ 1, 2, Aug. 28, 1965, 79 Stat. 586; Pub. L. 89–718, §§ 49(a)(1), 65, Nov. 2, 1966, 80 Stat. 1121, 1123; Pub. L. 92–596, § 2, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 94–361, title III, § 304(a)–(g), July 14, 1976, 90 Stat. 925, 926; Pub. L. 96–513, title V, § 516(14), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 98–525, title VI, § 606(a), Oct. 19, 1984, 98 Stat. 2537; Pub. L. 99–145, title VI, § 682, Nov. 8, 1985, 99 Stat. 665; Pub. L. 100–26, § 8(e)(6), (9), Apr. 21, 1987, 101 Stat. 286, 287; Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, § 637, Dec. 5, 1991, 105 Stat. 1383; Pub. L. 104–106, div. A, title VI, § 641, Feb. 10, 1996, 110 Stat. 368; Pub. L. 106–65, div. A, title VI, § 671, Oct. 5, 1999, 113 Stat. 674; Pub. L. 107–107, div. A, title VI, § 651(a), Dec. 28, 2001, 115 Stat. 1152; Pub. L. 110–181, div. A, title V, § 551(d), Jan. 28, 2008, 122 Stat. 117; Pub. L. 111–383, div. A, title V, § 516(b), Jan. 7, 2011, 124 Stat. 4213; Pub. L. 112–239, div. A, title X, § 1076(h)(3), Jan. 2, 2013, 126 Stat. 1955; Pub. L. 116–283, div. A, title IX, § 925(g)(1)(A), (2), (3)(A), Jan. 1, 2021, 134 Stat. 3827, 3828; Pub. L. 117–263, div. A, title VI, § 631(c)(2)(A), Dec. 23, 2022, 136 Stat. 2631; Pub. L. 119–60, div. A, title VI, § 601(f), Dec. 18, 2025, 139 Stat. 904.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 480; Pub. L. 89–151, §§ 1, 2, Aug. 28, 1965, 79 Stat. 586; Pub. L. 89–718, §§ 49(a)(1), 65, Nov. 2, 1966, 80 Stat. 1121, 1123; Pub. L. 92–596, § 2, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 94–361, title III, § 304(a)–(g), July 14, 1976, 90 Stat. 925, 926; Pub. L. 96–513, title V, § 516(14), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 98–525, title VI, § 606(a), Oct. 19, 1984, 98 Stat. 2537; Pub. L. 99–145, title VI, § 682, Nov. 8, 1985, 99 Stat. 665; Pub. L. 100–26, § 8(e)(6), (9), Apr. 21, 1987, 101 Stat. 286, 287; Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, § 637, Dec. 5, 1991, 105 Stat. 1383; Pub. L. 104–106, div. A, title VI, § 641, Feb. 10, 1996, 110 Stat. 368; Pub. L. 106–65, div. A, title VI, § 671, Oct. 5, 1999, 113 Stat. 674; Pub. L. 107–107, div. A, title VI, § 651(a), Dec. 28, 2001, 115 Stat. 1152; Pub. L. 110–181, div. A, title V, § 551(d), Jan. 28, 2008, 122 Stat. 117; Pub. L. 111–383, div. A, title V, § 516(b), Jan. 7, 2011, 124 Stat. 4213; Pub. L. 112–239, div. A, title X, § 1076(h)(3), Jan. 2, 2013, 126 Stat. 1955; Pub. L. 116–283, div. A, title IX, § 925(g)(1)(A), (2), (3)(A), Jan. 1, 2021, 134 Stat. 3827, 3828; Pub. L. 117–263, div. A, title VI, § 631(c)(2)(A), Dec. 23, 2022, 136 Stat. 2631; Pub. L. 119–60, div. A, title VI, § 601(f), Dec. 18, 2025, 139 Stat. 904.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 501(a) | 37:32(b), (d), (e), and (h). | Aug. 9, 1946, ch. 931, § 2(b), (d), (e), (g), and (h), 60 Stat. 963; June 19, 1948, ch. 541, § 1(a), 62 Stat. 506. |
-| 501(b) | 37:33(c) (less 3d and last sentences). 37:32(g). | Aug. 9, 1946, ch. 931, § 4(c), (d), 60 Stat. 964; restated Aug. 4, 1947, ch. 475, § 1 (less 1st 2 pars.), 61 Stat. 748; July 24, 1956, ch. 682, § 1, 70 Stat. 625. |
-|  | 37:39 (less last proviso). | Aug. 17, 1949, ch. 452, § 1 (less last proviso), 63 Stat. 611. |
+| 501(a) | 37:32(b), (d), (e), and (h). | Aug. 9, 1946, ch. 931, § 2(b), (d), (e), (g), and (h), 60 Stat. 963; June 19, 1948, ch. 541, § 1(a), 62 Stat. 506. |
+| 501(b) | 37:33(c) (less 3d and last sentences). 37:32(g). | Aug. 9, 1946, ch. 931, § 4(c), (d), 60 Stat. 964; restated Aug. 4, 1947, ch. 475, § 1 (less 1st 2 pars.), 61 Stat. 748; July 24, 1956, ch. 682, § 1, 70 Stat. 625. |
+|  | 37:39 (less last proviso). | Aug. 17, 1949, ch. 452, § 1 (less last proviso), 63 Stat. 611. |
 | 501(c) | 37:33(c) (3d sentence). |  |
 | 501(d) | 37:33(c) (last sentence). |  |
 | 501(e) | 37:33(d). |  |
-| 501(f) | 37:31a(b) (proviso). | Aug. 9, 1946, ch. 931, § 3(b) (proviso); added Sept. 23, 1950, ch. 998, § 1 (proviso), 64 Stat. 979. |
-| 501(g) | 42:210–1(c) (last sentence). 42:210–1(d) (as applicable to 42:210–1(c) (last sentence)). | July 1, 1944, ch. 373, § 219(c) (last sentence), (d) (as applicable to (c) (last sentence)); added Aug. 9, 1950, ch. 654, § 2 (last sentence of 3d par., and 4th par., as applicable to last sentence of 3d par.), 64 Stat. 426. |
+| 501(f) | 37:31a(b) (proviso). | Aug. 9, 1946, ch. 931, § 3(b) (proviso); added Sept. 23, 1950, ch. 998, § 1 (proviso), 64 Stat. 979. |
+| 501(g) | 42:210–1(c) (last sentence). 42:210–1(d) (as applicable to 42:210–1(c) (last sentence)). | July 1, 1944, ch. 373, § 219(c) (last sentence), (d) (as applicable to (c) (last sentence)); added Aug. 9, 1950, ch. 654, § 2 (last sentence of 3d par., and 4th par., as applicable to last sentence of 3d par.), 64 Stat. 426. |
 
 In subsection (a), the word “officer” is substituted for the words “commissioned officer or warrant officer”, in section 32(b) of existing title 37. The words “persons may be treated as parents for the purposes of this clause” are substituted for the words “parents may receive the benefits provided under said sections” in section 32(e) of existing title 37.
 
@@ -122,27 +122,27 @@ In subsection (g), the word “retirement” is omitted as covered by the words 
 
 **Amendments**
 
-2025—Subsec. (a)(4). Pub. L. 119–60, § 601(f)(1), inserted “, or of the Space Force,” after “of a reserve component” and “, or from the Space Force,” after “from the reserve component”.
+2025—Subsec. (a)(4). Pub. L. 119–60, § 601(f)(1), inserted “, or of the Space Force,” after “of a reserve component” and “, or from the Space Force,” after “from the reserve component”.
 
-Subsec. (a)(5). Pub. L. 119–60, § 601(f)(1)(A), inserted “, or of the Space Force,” after “of a reserve component”.
+Subsec. (a)(5). Pub. L. 119–60, § 601(f)(1)(A), inserted “, or of the Space Force,” after “of a reserve component”.
 
-Subsec. (b)(5)(A). Pub. L. 119–60, § 601(f)(2)(A), inserted “, or a member of the Space Force in space force active status not on sustained duty,” after “of a reserve component”.
+Subsec. (b)(5)(A). Pub. L. 119–60, § 601(f)(2)(A), inserted “, or a member of the Space Force in space force active status not on sustained duty,” after “of a reserve component”.
 
-Subsec. (b)(5)(C). Pub. L. 119–60, § 601(f)(2)(B), struck out “Regular” before “Space Force”.
+Subsec. (b)(5)(C). Pub. L. 119–60, § 601(f)(2)(B), struck out “Regular” before “Space Force”.
 
-Subsec. (b)(5)(D). Pub. L. 119–60, § 601(f)(2)(A), inserted “, or a member of the Space Force in space force active status not on sustained duty,” after “of a reserve component”.
+Subsec. (b)(5)(D). Pub. L. 119–60, § 601(f)(2)(A), inserted “, or a member of the Space Force in space force active status not on sustained duty,” after “of a reserve component”.
 
-2022—Subsec. (b)(6). Pub. L. 117–263, § 631(c)(2)(A)(i), substituted “90 days of leave under section 701(e)” for “120 days of leave under section 701(f)(1)”.
+2022—Subsec. (b)(6). Pub. L. 117–263, § 631(c)(2)(A)(i), substituted “90 days of leave under section 701(e)” for “120 days of leave under section 701(f)(1)”.
 
-Subsec. (h). Pub. L. 117–263, § 631(c)(2)(A)(ii), substituted “section 701(f)” for “section 701(g)”.
+Subsec. (h). Pub. L. 117–263, § 631(c)(2)(A)(ii), substituted “section 701(f)” for “section 701(g)”.
 
-2021—Subsec. (b)(1). Pub. L. 116–283, § 925(g)(3)(A), substituted “the member’s” for “his” in two places and “the member” for “he”.
+2021—Subsec. (b)(1). Pub. L. 116–283, § 925(g)(3)(A), substituted “the member’s” for “his” in two places and “the member” for “he”.
 
-Pub. L. 116–283, § 925(g)(1)(A), which directed insertion of “Space Force,” after “Marines Corps,”, was executed by making the insertion after “Marine Corps,” to reflect the probable intent of Congress.
+Pub. L. 116–283, § 925(g)(1)(A), which directed insertion of “Space Force,” after “Marines Corps,”, was executed by making the insertion after “Marine Corps,” to reflect the probable intent of Congress.
 
-Subsec. (b)(5)(C). Pub. L. 116–283, § 925(g)(2), substituted “Regular Marine Corps, or Regular Space Force” for “or Regular Marine Corps”.
+Subsec. (b)(5)(C). Pub. L. 116–283, § 925(g)(2), substituted “Regular Marine Corps, or Regular Space Force” for “or Regular Marine Corps”.
 
-Subsec. (e)(1). Pub. L. 116–283, § 925(g)(1)(A), which directed insertion of “Space Force,” after “Marines Corps,”, was executed by making the insertion after “Marine Corps,” to reflect the probable intent of Congress.
+Subsec. (e)(1). Pub. L. 116–283, § 925(g)(1)(A), which directed insertion of “Space Force,” after “Marines Corps,”, was executed by making the insertion after “Marine Corps,” to reflect the probable intent of Congress.
 
 2013—Subsec. (a)(5). Pub. L. 112–239 substituted “a reserve component” for “a reserve a component”.
 
@@ -152,65 +152,65 @@ Subsec. (e)(1). Pub. L. 116–283, § 925(g)(1)(A), which directed insertion o
 
 2001—Subsec. (b)(5)(D). Pub. L. 107–107 added subpar. (D).
 
-1999—Subsec. (a)(1). Pub. L. 106–65, § 671(1), inserted “, termination of an enlistment in conjunction with the commencement of a successive enlistment (without regard to the date of the expiration of the term of the enlistment being terminated),” after “honorable conditions”.
+1999—Subsec. (a)(1). Pub. L. 106–65, § 671(1), inserted “, termination of an enlistment in conjunction with the commencement of a successive enlistment (without regard to the date of the expiration of the term of the enlistment being terminated),” after “honorable conditions”.
 
-Subsec. (b)(2). Pub. L. 106–65, § 671(2), struck out “, or entering into an enlistment,” after “or a warrant”.
+Subsec. (b)(2). Pub. L. 106–65, § 671(2), struck out “, or entering into an enlistment,” after “or a warrant”.
 
-1996—Subsec. (d)(1). Pub. L. 104–106, § 641(a)(1), struck out at end “Except as provided in paragraph (2), the number of days upon which payment is based is subject to subsection (f).”
+1996—Subsec. (d)(1). Pub. L. 104–106, § 641(a)(1), struck out at end “Except as provided in paragraph (2), the number of days upon which payment is based is subject to subsection (f).”
 
-Subsec. (d)(2). Pub. L. 104–106, § 641(a)(2), added par. (2) and struck out former par. (2) which read as follows: “In the case of a member of the uniformed services who dies as a result of an injury or illness incurred while serving on active duty in support of a contingency operation, the limitations in the second sentence of subsection (b)(3), subsection (f), and the second sentence of subsection (g) shall not apply with respect to a payment made under this subsection for leave accrued during the contingency operation.”
+Subsec. (d)(2). Pub. L. 104–106, § 641(a)(2), added par. (2) and struck out former par. (2) which read as follows: “In the case of a member of the uniformed services who dies as a result of an injury or illness incurred while serving on active duty in support of a contingency operation, the limitations in the second sentence of subsection (b)(3), subsection (f), and the second sentence of subsection (g) shall not apply with respect to a payment made under this subsection for leave accrued during the contingency operation.”
 
-Subsec. (f). Pub. L. 104–106, § 641(b), struck out “, (d),” before “or (g) is based”.
+Subsec. (f). Pub. L. 104–106, § 641(b), struck out “, (d),” before “or (g) is based”.
 
-1991—Subsec. (b)(5). Pub. L. 102–190, § 637(b), added par. (5).
+1991—Subsec. (b)(5). Pub. L. 102–190, § 637(b), added par. (5).
 
-Subsec. (c). Pub. L. 102–25, § 702(b)(1), struck out “of this section” after “subsection (b)”.
+Subsec. (c). Pub. L. 102–25, § 702(b)(1), struck out “of this section” after “subsection (b)”.
 
-Subsec. (d). Pub. L. 102–190, § 637(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2),” for “However,”, and added par. (2).
+Subsec. (d). Pub. L. 102–190, § 637(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2),” for “However,”, and added par. (2).
 
-Pub. L. 102–25, § 702(b)(1), struck out “of this section” after “subsections (b) and (g)” in two places.
+Pub. L. 102–25, § 702(b)(1), struck out “of this section” after “subsections (b) and (g)” in two places.
 
-Subsec. (f). Pub. L. 102–25, § 702(b)(1), struck out “of this section” after “subsection (b), (d), or (g)”.
+Subsec. (f). Pub. L. 102–25, § 702(b)(1), struck out “of this section” after “subsection (b), (d), or (g)”.
 
-1987—Subsec. (a). Pub. L. 100–26, § 8(e)(6), inserted “the term” after “In this section,”.
+1987—Subsec. (a). Pub. L. 100–26, § 8(e)(6), inserted “the term” after “In this section,”.
 
-Subsec. (g). Pub. L. 100–26, § 8(e)(9), inserted “the term” before “ ‘accumulated annual leave’ ” and “ ‘accrued annual leave’ ”.
+Subsec. (g). Pub. L. 100–26, § 8(e)(9), inserted “the term” before “ ‘accumulated annual leave’ ” and “ ‘accrued annual leave’ ”.
 
 1985—Subsecs. (b)(3), (f). Pub. L. 99–145 substituted “February 9, 1976” for “September 1, 1976”.
 
-1984—Subsec. (e). Pub. L. 98–525, § 606(a), designated existing provisions as par. (1) and added par. (2).
+1984—Subsec. (e). Pub. L. 98–525, § 606(a), designated existing provisions as par. (1) and added par. (2).
 
-1980—Subsec. (b)(3). Pub. L. 96–513, § 516(14)(A), substituted “September 1, 1976” for “the first day of the second calendar month following the month in which the Department of Defense Appropriation Authorization Act, 1977, was enacted”.
+1980—Subsec. (b)(3). Pub. L. 96–513, § 516(14)(A), substituted “September 1, 1976” for “the first day of the second calendar month following the month in which the Department of Defense Appropriation Authorization Act, 1977, was enacted”.
 
-Subsec. (d). Pub. L. 96–513, § 516(14)(B), substituted “unused” for “unusued”.
+Subsec. (d). Pub. L. 96–513, § 516(14)(B), substituted “unused” for “unusued”.
 
-Subsec. (f). Pub. L. 96–513, § 516(14)(A), (C), substituted “September 1, 1976” for “the first day of the second calendar month following the month in which the Department of Defense Appropriation Authorization Act, 1977, was enacted”, and inserted “of this section” after “(g)”.
+Subsec. (f). Pub. L. 96–513, § 516(14)(A), (C), substituted “September 1, 1976” for “the first day of the second calendar month following the month in which the Department of Defense Appropriation Authorization Act, 1977, was enacted”, and inserted “of this section” after “(g)”.
 
-Subsec. (g). Pub. L. 96–513, § 516(14)(C), substituted “Secretary of Health and Human Services” for “Surgeon General”.
+Subsec. (g). Pub. L. 96–513, § 516(14)(C), substituted “Secretary of Health and Human Services” for “Surgeon General”.
 
-1976—Subsec. (a). Pub. L. 94–361, § 304(a), (b), struck out cl. (1) designation for existing provisions, made definition applicable to the section rather than to subsecs. (b) to (f) of this section, and redesignated as cls. (1), (2), and (3) former subcls. (A), (B), and (C); and struck out former cls. (2), (3), and (4) defining “child”, “parent”, and “brother or sister”, respectively.
+1976—Subsec. (a). Pub. L. 94–361, § 304(a), (b), struck out cl. (1) designation for existing provisions, made definition applicable to the section rather than to subsecs. (b) to (f) of this section, and redesignated as cls. (1), (2), and (3) former subcls. (A), (B), and (C); and struck out former cls. (2), (3), and (4) defining “child”, “parent”, and “brother or sister”, respectively.
 
-Subsec. (b). Pub. L. 94–361, § 304(c), in revising text, incorporated in provisions designated par. (1) provisions of former first and second sentences for payments for unused accrued leave of officers and enlisted members, striking out consideration of allowances to officers and of allowances to enlisted members computed at rate of 70 cents a day for subsistence and of allowance to enlisted members in pay grades E–9 through E–5 with dependents at rate of $1.25 for quarters, and substituting “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”; incorporated in par. (2) provisions of item (1) of former third sentence, substituting “in any uniformed service” for “in his armed force”; incorporated in par. (3) provisions of item (2) of former third sentence, substituting “in any uniformed service” for “in his armed force” and inserting provisions for payment for leave not carried over to a new enlistment and prescribing number of days of leave for which payment may be made; and designated last (the fourth) sentence as par. (4), substituting “within any uniformed service” for “within his armed force”.
+Subsec. (b). Pub. L. 94–361, § 304(c), in revising text, incorporated in provisions designated par. (1) provisions of former first and second sentences for payments for unused accrued leave of officers and enlisted members, striking out consideration of allowances to officers and of allowances to enlisted members computed at rate of 70 cents a day for subsistence and of allowance to enlisted members in pay grades E–9 through E–5 with dependents at rate of $1.25 for quarters, and substituting “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”; incorporated in par. (2) provisions of item (1) of former third sentence, substituting “in any uniformed service” for “in his armed force”; incorporated in par. (3) provisions of item (2) of former third sentence, substituting “in any uniformed service” for “in his armed force” and inserting provisions for payment for leave not carried over to a new enlistment and prescribing number of days of leave for which payment may be made; and designated last (the fourth) sentence as par. (4), substituting “within any uniformed service” for “within his armed force”.
 
-Subsec. (d). Pub. L. 94–361, § 304(d), substituted provision making the number of days upon which payment is based subject to subsec. (f) for provision limiting to not more than 60 the number of days upon which the payment is based.
+Subsec. (d). Pub. L. 94–361, § 304(d), substituted provision making the number of days upon which payment is based subject to subsec. (f) for provision limiting to not more than 60 the number of days upon which the payment is based.
 
-Subsec. (e). Pub. L. 94–361, § 304(e), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
+Subsec. (e). Pub. L. 94–361, § 304(e), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
-Subsec. (f). Pub. L. 94–361, § 304(f), added subsec. (f). Former subsec. (f), prohibiting payment for leave in excess of 60 days upon discharge or retirement, was struck out.
+Subsec. (f). Pub. L. 94–361, § 304(f), added subsec. (f). Former subsec. (f), prohibiting payment for leave in excess of 60 days upon discharge or retirement, was struck out.
 
-Subsec. (g). Pub. L. 94–361, § 304(g), substituted provision making the number of days upon which the lump-sum payment is based subject to subsec. (f) for provision limiting to not more than 60 the number of days upon which the lump-sum payment is based.
+Subsec. (g). Pub. L. 94–361, § 304(g), substituted provision making the number of days upon which the lump-sum payment is based subject to subsec. (f) for provision limiting to not more than 60 the number of days upon which the lump-sum payment is based.
 
-1972—Subsec. (d). Pub. L. 92–596, § 2(1), inserted reference to accumulated leave under subsection (h) of this section.
+1972—Subsec. (d). Pub. L. 92–596, § 2(1), inserted reference to accumulated leave under subsection (h) of this section.
 
-Subsec. (h). Pub. L. 92–596, § 2(2), added subsec. (h).
+Subsec. (h). Pub. L. 92–596, § 2(2), added subsec. (h).
 
-1966—Subsecs. (b), (e). Pub. L. 89–718, § 49(a)(1), substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
+1966—Subsecs. (b), (e). Pub. L. 89–718, § 49(a)(1), substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
 
-Subsec. (d). Pub. L. 89–718, § 65, substituted “60” for “sixty”.
+Subsec. (d). Pub. L. 89–718, § 65, substituted “60” for “sixty”.
 
-1965—Subsec. (a)(1). Pub. L. 89–151, § 1, added subpar. (C).
+1965—Subsec. (a)(1). Pub. L. 89–151, § 1, added subpar. (C).
 
-Subsec. (d). Pub. L. 89–151, § 2, included members who die while on active service and payments for unused accrued leave of members of the Public Health Service, substituted provisions referring to section 2771 of title 10 to find the mode of payment for provision spelling out the mode of payment in detail, omitted provisions prohibiting payment under this section in the event of no survivor and making valid any payments to survivors between the ages of 17 and 21, and inserted provisions basing payment for unused leave in the event of members dying while on active duty upon accrued leave carried forward into the year plus leave accruing during the year with a limit of 60 days.
+Subsec. (d). Pub. L. 89–151, § 2, included members who die while on active service and payments for unused accrued leave of members of the Public Health Service, substituted provisions referring to section 2771 of title 10 to find the mode of payment for provision spelling out the mode of payment in detail, omitted provisions prohibiting payment under this section in the event of no survivor and making valid any payments to survivors between the ages of 17 and 21, and inserted provisions basing payment for unused leave in the event of members dying while on active duty upon accrued leave carried forward into the year plus leave accruing during the year with a limit of 60 days.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -224,11 +224,11 @@ Amendment by Pub. L. 117–232 effective Jan. 1, 2023, see section 631(d) of Pub
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–107, div. A, title VI, § 651(b), Dec. 28, 2001, 115 Stat. 1153, provided that: “Subparagraph (D) of section 501(b)(5) of title 37, United States Code, as added by subsection (a)(3), shall apply with respect to periods of active duty beginning on or after October 1, 2001.”
+Pub. L. 107–107, div. A, title VI, § 651(b), Dec. 28, 2001, 115 Stat. 1153, provided that: “Subparagraph (D) of section 501(b)(5) of title 37, United States Code, as added by subsection (a)(3), shall apply with respect to periods of active duty beginning on or after October 1, 2001.”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–525, title VI, § 606(b), Oct. 19, 1984, 98 Stat. 2538, provided that: “The amendments made by subsection (a) [amending this section] shall apply in the case of members of the uniformed service (as defined in section 101(3) of title 37, United States Code) who enlist or are commissioned on or after the date of the enactment of this Act [Oct. 19, 1984].”
+Pub. L. 98–525, title VI, § 606(b), Oct. 19, 1984, 98 Stat. 2538, provided that: “The amendments made by subsection (a) [amending this section] shall apply in the case of members of the uniformed service (as defined in section 101(3) of title 37, United States Code) who enlist or are commissioned on or after the date of the enactment of this Act [Oct. 19, 1984].”
 
 **Effective Date of 1980 Amendment**
 
@@ -240,7 +240,7 @@ Amendment by Pub. L. 92–596 effective Feb. 28, 1961, see section 3 of Pub. L. 
 
 **Effective Date of 1965 Amendment**
 
-Pub. L. 89–151, § 4, Aug. 28, 1965, 79 Stat. 586, provided that: “This Act [amending this section and section 701 of Title 10, Armed Forces] applies only in the case of members who die on or after the date of enactment [Aug. 28, 1965].”
+Pub. L. 89–151, § 4, Aug. 28, 1965, 79 Stat. 586, provided that: “This Act [amending this section and section 701 of Title 10, Armed Forces] applies only in the case of members who die on or after the date of enactment [Aug. 28, 1965].”
 
 **Transfer of Functions**
 
@@ -248,9 +248,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Treatment of Accumulated Leave in Connection With Active Duty During Persian Gulf Conflict**
 
-Pub. L. 102–25, title III, § 309(a), Apr. 6, 1991, 105 Stat. 83, provided that: “In the case of a member of the uniformed services who dies as a result of an injury or illness incurred while serving on active duty during the Persian Gulf conflict, the limitation in the second sentence of subsection (b)(3) of section 501 of title 37, United States Code, and in subsection (f) of that section shall not apply with respect to a payment made pursuant to subsection (d) of that section for leave accrued during fiscal year 1990 or 1991.”
+Pub. L. 102–25, title III, § 309(a), Apr. 6, 1991, 105 Stat. 83, provided that: “In the case of a member of the uniformed services who dies as a result of an injury or illness incurred while serving on active duty during the Persian Gulf conflict, the limitation in the second sentence of subsection (b)(3) of section 501 of title 37, United States Code, and in subsection (f) of that section shall not apply with respect to a payment made pursuant to subsection (d) of that section for leave accrued during fiscal year 1990 or 1991.”
 
-Pub. L. 101–510, div. A, title XI, § 1115, Nov. 5, 1990, 104 Stat. 1636, as amended by Pub. L. 102–25, title III, §§ 309(b), 314(1), (3), Apr. 6, 1991, 105 Stat. 83, 86, provided that:
+Pub. L. 101–510, div. A, title XI, § 1115, Nov. 5, 1990, 104 Stat. 1636, as amended by Pub. L. 102–25, title III, §§ 309(b), 314(1), (3), Apr. 6, 1991, 105 Stat. 83, 86, provided that:
 
 > **“(a) Inapplicability of Eligibility Limitation.—** The limitation in the second sentence of subsection (b)(3) of section 501 of title 37, United States Code, and in subsection (f) of that section does not apply with respect to the following leave:
 
@@ -274,32 +274,32 @@ Pub. L. 101–510, div. A, title XI, § 1115, Nov. 5, 1990, 104 Stat. 1636, as
 
 > **“(c) Regulations.—** The Secretary of Defense shall prescribe regulations establishing standards and procedures for the administration of this section.”
 
-[Pub. L. 102–25, title III, § 309(c), Apr. 6, 1991, 105 Stat. 83, provided that: “The amendment made by subsection (b) [amending section 1115(a) of Pub. L. 101–510, set out above] shall take effect as of November 5, 1990.” ]
+[Pub. L. 102–25, title III, § 309(c), Apr. 6, 1991, 105 Stat. 83, provided that: “The amendment made by subsection (b) [amending section 1115(a) of Pub. L. 101–510, set out above] shall take effect as of November 5, 1990.” ]
 
 **Options of Members as to Basis of Payment for Accrued Leave**
 
-Pub. L. 94–361, title III, § 304(h), July 14, 1976, 90 Stat. 926, provided that: “Notwithstanding the provisions of section 501(b)(1) of title 37, United States Code, as amended by subsection (c), and subject to the limitations prescribed in section 501(b)(3) of such title, as amended by subsection (c), any leave accrued by any member of the Army, Navy, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration prior to the first day of the second calendar month following the month [July, 1976] in which this section is enacted shall, at the option of such member, be paid for on the same basis such leave would have been paid for under the provisions of section 501(b) of title 37, United States Code, on the day prior to the first day of the second calendar month following the month in which this section is enacted”.
+Pub. L. 94–361, title III, § 304(h), July 14, 1976, 90 Stat. 926, provided that: “Notwithstanding the provisions of section 501(b)(1) of title 37, United States Code, as amended by subsection (c), and subject to the limitations prescribed in section 501(b)(3) of such title, as amended by subsection (c), any leave accrued by any member of the Army, Navy, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration prior to the first day of the second calendar month following the month [July, 1976] in which this section is enacted shall, at the option of such member, be paid for on the same basis such leave would have been paid for under the provisions of section 501(b) of title 37, United States Code, on the day prior to the first day of the second calendar month following the month in which this section is enacted”.
 
-## § 502. Absences due to sickness, wounds, and certain other causes
+## § 502. Absences due to sickness, wounds, and certain other causes
 
 **(a)** A member of the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, or National Oceanic and Atmospheric Administration, who is absent because of sickness or wounds, or who is directed by the Secretary concerned, or the Secretary’s designated representative, to be absent from duty to await orders pending disability retirement proceedings for a period that is longer than the leave authorized by section 701 of title 10, is entitled to the pay and allowances to which the member would be entitled if the member were not so absent. A member who is absent with leave for any other reason for not longer than the leave authorized by that section is entitled to the same pay and allowances to which the member would be entitled if the member were not on leave, and to any additional allowances otherwise provided by law for members on leave.
 
 **(b)** Except as provided in subsection (a) and section 701(g) of title 10, a member who is authorized by the Secretary concerned, or the Secretary’s designated representative, to be absent for a period that is longer than the leave authorized by section 701 of title 10 is not entitled to pay or allowances during the part of the member’s absence that is more than the number of days’ leave authorized by that section. Nothing in this subsection may be construed to deprive a member, detailed or assigned by the Secretary concerned as a full-time student at a civilian institution to pursue a program of education that is substantially the same as a program of education offered to civilians, of pay or allowances to which such member is entitled.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 482; Pub. L. 89–718, § 49(a)(1), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 96–513, title V, § 516(15), Dec. 12, 1980, 94 Stat. 2939; Pub. L. 99–661, div. A, title V, § 506(b), Nov. 14, 1986, 100 Stat. 3865; Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 116–283, div. A, title IX, § 925(g)(1)(B), (3)(B), Jan. 1, 2021, 134 Stat. 3827, 3828; Pub. L. 117–263, div. A, title VI, § 631(c)(2)(B), Dec. 23, 2022, 136 Stat. 2631; Pub. L. 118–159, div. A, title V, § 552(c), Dec. 23, 2024, 138 Stat. 1894.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 482; Pub. L. 89–718, § 49(a)(1), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 96–513, title V, § 516(15), Dec. 12, 1980, 94 Stat. 2939; Pub. L. 99–661, div. A, title V, § 506(b), Nov. 14, 1986, 100 Stat. 3865; Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 116–283, div. A, title IX, § 925(g)(1)(B), (3)(B), Jan. 1, 2021, 134 Stat. 3827, 3828; Pub. L. 117–263, div. A, title VI, § 631(c)(2)(B), Dec. 23, 2022, 136 Stat. 2631; Pub. L. 118–159, div. A, title V, § 552(c), Dec. 23, 2024, 138 Stat. 1894.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 502(a) | 37:33(b) (1st and last sentences). 37:39 (less last proviso). | Aug. 9, 1946, ch. 931, § 4(b) (less 3d sentence); restated Aug. 4, 1947, ch. 475, § 1 (2d par., less 3d sentence), 61 Stat. 748. |
-|  | 37:32(f) (last 8 words). | Aug. 9, 1946, ch. 931, § 2(f) (last 8 words), 60 Stat. 963. |
-| 502(b) | 37:33(b) (2d sentence). | Aug. 17, 1949, ch. 452, § 1 (less last proviso), 63 Stat. 611. |
-|  | 37:32(f) (last 8 words). | Aug. 9, 1946, ch. 931, § 2(f) (last 8 words), 60 Stat. 963. |
+| 502(a) | 37:33(b) (1st and last sentences). 37:39 (less last proviso). | Aug. 9, 1946, ch. 931, § 4(b) (less 3d sentence); restated Aug. 4, 1947, ch. 475, § 1 (2d par., less 3d sentence), 61 Stat. 748. |
+|  | 37:32(f) (last 8 words). | Aug. 9, 1946, ch. 931, § 2(f) (last 8 words), 60 Stat. 963. |
+| 502(b) | 37:33(b) (2d sentence). | Aug. 17, 1949, ch. 452, § 1 (less last proviso), 63 Stat. 611. |
+|  | 37:32(f) (last 8 words). | Aug. 9, 1946, ch. 931, § 2(f) (last 8 words), 60 Stat. 963. |
 
 In subsection (a), the words “After August 31, 1946”, in section 33(b) of existing title 37, are omitted as executed. The words “allowance or”, in section 33(b) of existing title 37, are omitted as surplusage. The last sentence of section 33(b) of existing title 37 is omitted as executed, since the Act of December 28, 1945 (59 Stat. 663) was repealed by section 506(g) of the Officer Personnel Act of 1947 (61 Stat. 892).
 
-In subsections (a) and (b), the words “, or his designated representative,” are substituted for the last 8 words of section 32(f) of existing title 37.
+In subsections (a) and (b), the words “, or his designated representative,” are substituted for the last 8 words of section 32(f) of existing title 37.
 
 In subsection (b), the words “Except as provided in subsection (a) of this section” are inserted for clarity. The words “the part of his absence that is more than the number of days’ leave authorized by that section” are substituted for the words “such absence”.
 
@@ -311,11 +311,11 @@ In subsection (b), the words “Except as provided in subsection (a) of this sec
 
 2022—Subsec. (b). Pub. L. 117–263 substituted “section 701(g)” for “section 701(h)”.
 
-2021—Subsec. (a). Pub. L. 116–283, § 925(g)(3)(B)(i), (ii), substituted “the Secretary’s designated representative” for “his designated representative” and substituted “the member” for “he” wherever appearing.
+2021—Subsec. (a). Pub. L. 116–283, § 925(g)(3)(B)(i), (ii), substituted “the Secretary’s designated representative” for “his designated representative” and substituted “the member” for “he” wherever appearing.
 
-Pub. L. 116–283, § 925(g)(1)(B), which directed insertion of “Space Force,” after “Marines Corps,”, was executed by making the insertion after “Marine Corps,” to reflect the probable intent of Congress.
+Pub. L. 116–283, § 925(g)(1)(B), which directed insertion of “Space Force,” after “Marines Corps,”, was executed by making the insertion after “Marine Corps,” to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 116–283, § 925(g)(3)(B)(i), (iii), substituted “the Secretary’s designated representative” for “his designated representative” and “the member’s” for “his”.
+Subsec. (b). Pub. L. 116–283, § 925(g)(3)(B)(i), (iii), substituted “the Secretary’s designated representative” for “his designated representative” and “the member’s” for “his”.
 
 1991—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 
@@ -339,7 +339,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 503. Absence without leave or over leave
+## § 503. Absence without leave or over leave
 
 **(a)**
 
@@ -353,21 +353,21 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(C)** Not later than 30 days after determining to pay any pay or allowance under subparagraph (A), the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report regarding such determination.
 
-**(b)** A commissioned officer of the Regular Corps of the Public Health Service, or an officer of the Reserve Corps 1
+**(b)** A commissioned officer of the Regular Corps of the Public Health Service, or an officer of the Reserve Corps 1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 of the Public Health Service on active duty, who is absent without leave, forfeits all pay and allowances for the period of that absence, unless it is excused as unavoidable.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 482; Pub. L. 89–718, § 49(a)(1), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 96–513, title V, § 516(15), Dec. 12, 1980, 94 Stat. 2939; Pub. L. 116–283, div. A, title IX, § 925(g)(1)(C), Jan. 1, 2021, 134 Stat. 3827; Pub. L. 118–31, div. A, title VI, § 603, Dec. 22, 2023, 137 Stat. 289.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 482; Pub. L. 89–718, § 49(a)(1), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 96–513, title V, § 516(15), Dec. 12, 1980, 94 Stat. 2939; Pub. L. 116–283, div. A, title IX, § 925(g)(1)(C), Jan. 1, 2021, 134 Stat. 3827; Pub. L. 118–31, div. A, title VI, § 603, Dec. 22, 2023, 137 Stat. 289.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 503(a) | 37:33(b) (3d sentence). | Aug. 9, 1946, ch. 931, § 4(b) (3d sentence); restated Aug. 4, 1947, ch. 475, § 1 (3d sentence of 2d par.), 61 Stat. 748. |
-|  | 37:39 (less last proviso). | Aug. 17, 1949, ch. 452, § 1 (less last proviso), 63 Stat. 611. |
-| 503(b) | 42:210–1(b). | July 1, 1944, ch. 373, § 219(b); added Aug. 9, 1950, ch. 654, § 2 (2d par.), 64 Stat. 426. |
+| 503(a) | 37:33(b) (3d sentence). | Aug. 9, 1946, ch. 931, § 4(b) (3d sentence); restated Aug. 4, 1947, ch. 475, § 1 (3d sentence of 2d par.), 61 Stat. 748. |
+|  | 37:39 (less last proviso). | Aug. 17, 1949, ch. 452, § 1 (less last proviso), 63 Stat. 611. |
+| 503(b) | 42:210–1(b). | July 1, 1944, ch. 373, § 219(b); added Aug. 9, 1950, ch. 654, § 2 (2d par.), 64 Stat. 426. |
 
 In subsections (a) and (b), the words “for the period of that absence” are substituted for the words “during such absence”.
 
@@ -403,7 +403,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service, transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out in the Appendix to Title 5, Government Organization and Employees. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 3508(b) of Title 20, Education.
 
-## § 504. Cadets and midshipmen: chapter does not apply to
+## § 504. Cadets and midshipmen: chapter does not apply to
 
 This chapter does not apply to cadets at the United States Military Academy, the United States Air Force Academy, the Coast Guard Academy, midshipmen at the United States Naval Academy, or cadets or midshipmen serving elsewhere in the armed forces.
 
@@ -413,7 +413,7 @@ This chapter does not apply to cadets at the United States Military Academy, the
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 504 | 37:38 (as applicable to payment for leave). | Aug. 9, 1946, ch. 931, § 10 (as applicable to payment for leave); added Aug. 4, 1947, ch. 475, § 3 (as applicable to payment for leave), 61 Stat. 749; Sept. 2, 1958, Pub. L. 85–861, § 33(d)(2), 72 Stat. 1567. |
+| 504 | 37:38 (as applicable to payment for leave). | Aug. 9, 1946, ch. 931, § 10 (as applicable to payment for leave); added Aug. 4, 1947, ch. 475, § 3 (as applicable to payment for leave), 61 Stat. 749; Sept. 2, 1958, Pub. L. 85–861, § 33(d)(2), 72 Stat. 1567. |
 
 **Statutory Notes and Related Subsidiaries**
 

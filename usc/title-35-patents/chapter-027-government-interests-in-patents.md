@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1965—Pub. L. 89–83, § 8, July 24, 1965, 79 Stat. 261, struck out item 266 “Issue of patents without fees to Government employees”.
+1965—Pub. L. 89–83, § 8, July 24, 1965, 79 Stat. 261, struck out item 266 “Issue of patents without fees to Government employees”.
 
-## [§ 266. Repealed. Pub. L. 89–83, § 8, July 24, 1965, 79 Stat. 261]
+## [§ 266. Repealed. Pub. L. 89–83, § 8, July 24, 1965, 79 Stat. 261]
 
-Section, act July 19, 1952, ch. 950, § 1, 66 Stat. 811, provided for issuance of patents to government employees without fees.
+Section, act July 19, 1952, ch. 950, § 1, 66 Stat. 811, provided for issuance of patents to government employees without fees.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -31,15 +31,15 @@ Section, act July 19, 1952, ch. 950, § 1, 66 Stat. 811, provided for issuance
 
 Repeal effective three months after July 24, 1965, see section 7(a) of Pub. L. 89–83, set out as an Effective Date of 1965 Amendment note under section 41 of this title.
 
-## § 267. Time for taking action in Government applications
+## § 267. Time for taking action in Government applications
 
 Notwithstanding the provisions of sections 133 and 151, the Director may extend the time for taking any action to three years, when an application has become the property of the United States and the head of the appropriate department or agency of the Government has certified to the Director that the invention disclosed therein is important to the armament or defense of the United States.
 
-(July 19, 1952, ch. 950, 66 Stat. 811; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335.)
+(July 19, 1952, ch. 950, 66 Stat. 811; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 37 (R.S. 4894, amended (1) Mar. 3, 1897, ch. 391, § 4, 29 Stat. 692, 693, (2) July 6, 1916, ch. 225, § 1, 39 Stat. 345, 347–8, (3) Mar. 2, 1927, ch. 273, § 1, 44 Stat. 1335, (4) Aug. 7, 1939, ch. 568, 53 Stat. 1264).
+Based on Title 35, U.S.C., 1946 ed., § 37 (R.S. 4894, amended (1) Mar. 3, 1897, ch. 391, § 4, 29 Stat. 692, 693, (2) July 6, 1916, ch. 225, § 1, 39 Stat. 345, 347–8, (3) Mar. 2, 1927, ch. 273, § 1, 44 Stat. 1335, (4) Aug. 7, 1939, ch. 568, 53 Stat. 1264).
 
 This provision, which appears as the last two sentences of the corresponding section of the present statute (see note to section 133) is made a separate section and rewritten in simpler form.
 
@@ -61,4 +61,4 @@ Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of 
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.

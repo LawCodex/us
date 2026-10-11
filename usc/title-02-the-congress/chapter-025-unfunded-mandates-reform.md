@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 25—UNFUNDED MANDATES REFORM
 
-## § 1501. Purposes
+## § 1501. Purposes
 
 The purposes of this chapter are—
 
@@ -43,7 +43,7 @@ The purposes of this chapter are—
 
 **(8)** to begin consideration of the effect of previously imposed Federal mandates, including the impact on State, local, and tribal governments of Federal court interpretations of Federal statutes and regulations that impose Federal intergovernmental mandates.
 
-(Pub. L. 104–4, § 2, Mar. 22, 1995, 109 Stat. 48.)
+(Pub. L. 104–4, § 2, Mar. 22, 1995, 109 Stat. 48.)
 
 **Editorial Notes**
 
@@ -55,9 +55,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Short Title**
 
-Pub. L. 104–4, § 1, Mar. 22, 1995, 109 Stat. 48, provided that: “This Act [enacting this chapter and sections 658 to 658g of this title, amending sections 602, 632, and 653 of this title, and enacting provisions set out as notes under sections 1511 and 1531 of this title] may be cited as the ‘Unfunded Mandates Reform Act of 1995’.”
+Pub. L. 104–4, § 1, Mar. 22, 1995, 109 Stat. 48, provided that: “This Act [enacting this chapter and sections 658 to 658g of this title, amending sections 602, 632, and 653 of this title, and enacting provisions set out as notes under sections 1511 and 1531 of this title] may be cited as the ‘Unfunded Mandates Reform Act of 1995’.”
 
-## § 1502. Definitions
+## § 1502. Definitions
 
 For purposes of this chapter—
 
@@ -65,7 +65,7 @@ For purposes of this chapter—
 
 **(2)** the term “Director” means the Director of the Congressional Budget Office.
 
-(Pub. L. 104–4, § 3, Mar. 22, 1995, 109 Stat. 49.)
+(Pub. L. 104–4, § 3, Mar. 22, 1995, 109 Stat. 49.)
 
 **Editorial Notes**
 
@@ -73,7 +73,7 @@ For purposes of this chapter—
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–4, Mar. 22, 1995, 109 Stat. 48, known as the Unfunded Mandates Reform Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
 
-## § 1503. Exclusions
+## § 1503. Exclusions
 
 This chapter shall not apply to any provision in a bill, joint resolution, amendment, motion, or conference report before Congress and any provision in a proposed or final Federal regulation that—
 
@@ -91,7 +91,7 @@ This chapter shall not apply to any provision in a bill, joint resolution, amend
 
 **(7)** relates to the old-age, survivors, and disability insurance program under title II of the Social Security Act [42 U.S.C. 401 et seq.] (including taxes imposed by sections 3101(a) and 3111(a) of title 26 (relating to old-age, survivors, and disability insurance)).
 
-(Pub. L. 104–4, § 4, Mar. 22, 1995, 109 Stat. 49.)
+(Pub. L. 104–4, § 4, Mar. 22, 1995, 109 Stat. 49.)
 
 **Editorial Notes**
 
@@ -99,13 +99,13 @@ This chapter shall not apply to any provision in a bill, joint resolution, amend
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–4, Mar. 22, 1995, 109 Stat. 48, known as the Unfunded Mandates Reform Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
 
-The Social Security Act, referred to in par. (7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in par. (7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-## § 1504. Agency assistance
+## § 1504. Agency assistance
 
 Each agency shall provide to the Director such information and assistance as the Director may reasonably request to assist the Director in carrying out this chapter.
 
-(Pub. L. 104–4, § 5, Mar. 22, 1995, 109 Stat. 50.)
+(Pub. L. 104–4, § 5, Mar. 22, 1995, 109 Stat. 50.)
 
 **Editorial Notes**
 
@@ -115,7 +115,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 ## SUBCHAPTER I—LEGISLATIVE ACCOUNTABILITY AND REFORM
 
-### § 1511. Cost of regulations
+### § 1511. Cost of regulations
 
 **(a) Sense of Congress**
 
@@ -131,25 +131,25 @@ It is the sense of the Congress that Federal agencies should review and evaluate
 
 At the request of the Director of the Congressional Budget Office, the Director of the Office of Management and Budget shall provide data and cost estimates for regulations implementing an Act containing a Federal mandate covered by part B of title IV of the Congressional Budget and Impoundment Control Act of 1974 [2 U.S.C. 658 et seq.].
 
-(Pub. L. 104–4, title I, § 103, Mar. 22, 1995, 109 Stat. 62.)
+(Pub. L. 104–4, title I, § 103, Mar. 22, 1995, 109 Stat. 62.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (c), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297. Part B of title IV of the Act is classified generally to part B (§ 658 et seq.) of subchapter II of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (c), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297. Part B of title IV of the Act is classified generally to part B (§ 658 et seq.) of subchapter II of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 104–4, title I, § 110, Mar. 22, 1995, 109 Stat. 64, provided that: “This title [enacting this subchapter and sections 658 to 658g of this title and amending sections 602, 632, and 653 of this title] shall take effect on January 1, 1996 or on the date 90 days after appropriations are made available as authorized under section 109 [2 U.S.C. 1516], whichever is earlier and shall apply to legislation considered on and after such date.”
+Pub. L. 104–4, title I, § 110, Mar. 22, 1995, 109 Stat. 64, provided that: “This title [enacting this subchapter and sections 658 to 658g of this title and amending sections 602, 632, and 653 of this title] shall take effect on January 1, 1996 or on the date 90 days after appropriations are made available as authorized under section 109 [2 U.S.C. 1516], whichever is earlier and shall apply to legislation considered on and after such date.”
 
-### § 1512. Consideration for Federal funding
+### § 1512. Consideration for Federal funding
 
 Nothing in this chapter shall preclude a State, local, or tribal government that already complies with all or part of the Federal intergovernmental mandates included in the bill, joint resolution, amendment, motion, or conference report from consideration for Federal funding under section 658d(a)(2) of this title for the cost of the mandate, including the costs the State, local, or tribal government is currently paying and any additional costs necessary to meet the mandate.
 
-(Pub. L. 104–4, title I, § 105, Mar. 22, 1995, 109 Stat. 62.)
+(Pub. L. 104–4, title I, § 105, Mar. 22, 1995, 109 Stat. 62.)
 
 **Editorial Notes**
 
@@ -163,7 +163,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under section 1516 of this title, whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under section 1511 of this title.
 
-### § 1513. Impact on local governments
+### § 1513. Impact on local governments
 
 **(a) Findings** The Senate finds that—
 
@@ -181,7 +181,7 @@ Section effective Jan. 1, 1996, or on the date 90 days after appropriations are 
 
 **(3)** one primary objective of this chapter and other efforts to change the relationship among Federal, State, and local governments should be to reduce taxes and spending at all levels and to end the practice of shifting costs from one level of government to another with little or no benefit to taxpayers.
 
-(Pub. L. 104–4, title I, § 106, Mar. 22, 1995, 109 Stat. 63.)
+(Pub. L. 104–4, title I, § 106, Mar. 22, 1995, 109 Stat. 63.)
 
 **Editorial Notes**
 
@@ -195,19 +195,19 @@ This chapter, referred to in subsec. (b)(3), was in the original “this Act”,
 
 Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under section 1516 of this title, whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under section 1511 of this title.
 
-### § 1514. Enforcement in House of Representatives
+### § 1514. Enforcement in House of Representatives
 
 **(a) Omitted**
 
 **(b) Committee on Rules reports on waived points of order**
 
-The Committee on Rules shall include in the report required by clause 1(d) 1
+The Committee on Rules shall include in the report required by clause 1(d) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of rule XI (relating to its activities during the Congress) of the Rules of the House of Representatives a separate item identifying all waivers of points of order relating to Federal mandates, listed by bill or joint resolution number and the subject matter of that measure.
 
-(Pub. L. 104–4, title I, § 107, Mar. 22, 1995, 109 Stat. 63.)
+(Pub. L. 104–4, title I, § 107, Mar. 22, 1995, 109 Stat. 63.)
 
 **Editorial Notes**
 
@@ -225,7 +225,7 @@ Section is comprised of section 107 of Pub. L. 104–4. Subsec. (a) of section 1
 
 Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under section 1516 of this title, whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under section 1511 of this title.
 
-### § 1515. Exercise of rulemaking powers
+### § 1515. Exercise of rulemaking powers
 
 The provisions of sections 658 to 658g and 1514 of this title are enacted by Congress—
 
@@ -233,7 +233,7 @@ The provisions of sections 658 to 658g and 1514 of this title are enacted by Con
 
 **(2)** with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner, and to the same extent as in the case of any other rule of each House.
 
-(Pub. L. 104–4, title I, § 108, Mar. 22, 1995, 109 Stat. 63.)
+(Pub. L. 104–4, title I, § 108, Mar. 22, 1995, 109 Stat. 63.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -241,11 +241,11 @@ The provisions of sections 658 to 658g and 1514 of this title are enacted by Con
 
 Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under section 1516 of this title, whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under section 1511 of this title.
 
-### § 1516. Authorization of appropriations
+### § 1516. Authorization of appropriations
 
 There are authorized to be appropriated to the Congressional Budget Office $4,500,000 for each of the fiscal years 1996, 1997, 1998, 1999, 2000, 2001, and 2002 to carry out the provisions of this subchapter.
 
-(Pub. L. 104–4, title I, § 109, Mar. 22, 1995, 109 Stat. 64.)
+(Pub. L. 104–4, title I, § 109, Mar. 22, 1995, 109 Stat. 64.)
 
 **Editorial Notes**
 
@@ -261,17 +261,17 @@ Section effective Jan. 1, 1996, or on the date 90 days after appropriations are 
 
 ## SUBCHAPTER II—REGULATORY ACCOUNTABILITY AND REFORM
 
-### § 1531. Regulatory process
+### § 1531. Regulatory process
 
 Each agency shall, unless otherwise prohibited by law, assess the effects of Federal regulatory actions on State, local, and tribal governments, and the private sector (other than to the extent that such regulations incorporate requirements specifically set forth in law).
 
-(Pub. L. 104–4, title II, § 201, Mar. 22, 1995, 109 Stat. 64.)
+(Pub. L. 104–4, title II, § 201, Mar. 22, 1995, 109 Stat. 64.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 104–4, title II, § 209, Mar. 22, 1995, 109 Stat. 67, provided that: “This title [enacting this subchapter] and the amendments made by this title shall take effect on the date of the enactment of this Act [Mar. 22, 1995].”
+Pub. L. 104–4, title II, § 209, Mar. 22, 1995, 109 Stat. 67, provided that: “This title [enacting this subchapter] and the amendments made by this title shall take effect on the date of the enactment of this Act [Mar. 22, 1995].”
 
 **Executive Documents**
 
@@ -279,7 +279,7 @@ Pub. L. 104–4, title II, § 209, Mar. 22, 1995, 109 Stat. 67, provided that:
 
 For provisions stating regulatory philosophy and principles and setting forth regulatory organization, procedures, and guidelines for centralized review of new and existing regulations to make the regulatory process more efficient, see Ex. Ord. No. 12866, Sept. 30, 1993, 58 F.R. 51735, set out as a note under section 601 of Title 5, Government Organization and Employees.
 
-### § 1532. Statements to accompany significant regulatory actions
+### § 1532. Statements to accompany significant regulatory actions
 
 **(a) In general** Unless otherwise prohibited by law, before promulgating any general notice of proposed rulemaking that is likely to result in promulgation of any rule that includes any Federal mandate that may result in the expenditure by State, local, and tribal governments, in the aggregate, or by the private sector, of $100,000,000 or more (adjusted annually for inflation) in any 1 year, and before promulgating any final rule for which a general notice of proposed rulemaking was published, the agency shall prepare a written statement containing—
 
@@ -315,9 +315,9 @@ In promulgating a general notice of proposed rulemaking or a final rule for whic
 
 Any agency may prepare any statement required under subsection (a) in conjunction with or as a part of any other statement or analysis, provided that the statement or analysis satisfies the provisions of subsection (a).
 
-(Pub. L. 104–4, title II, § 202, Mar. 22, 1995, 109 Stat. 64.)
+(Pub. L. 104–4, title II, § 202, Mar. 22, 1995, 109 Stat. 64.)
 
-### § 1533. Small government agency plan
+### § 1533. Small government agency plan
 
 **(a) Effects on small governments** Before establishing any regulatory requirements that might significantly or uniquely affect small governments, agencies shall have developed a plan under which the agency shall—
 
@@ -331,9 +331,9 @@ Any agency may prepare any statement required under subsection (a) in conjunctio
 
 There are authorized to be appropriated to each agency to carry out the provisions of this section and for no other purpose, such sums as are necessary.
 
-(Pub. L. 104–4, title II, § 203, Mar. 22, 1995, 109 Stat. 65.)
+(Pub. L. 104–4, title II, § 203, Mar. 22, 1995, 109 Stat. 65.)
 
-### § 1534. State, local, and tribal government input
+### § 1534. State, local, and tribal government input
 
 **(a) In general**
 
@@ -349,7 +349,7 @@ Each agency shall, to the extent permitted in law, develop an effective process 
 
 No later than 6 months after March 22, 1995, the President shall issue guidelines and instructions to Federal agencies for appropriate implementation of subsections (a) and (b) consistent with applicable laws and regulations.
 
-(Pub. L. 104–4, title II, § 204, Mar. 22, 1995, 109 Stat. 65; Pub. L. 117–286, § 4(a)(1), Dec. 27, 2022, 136 Stat. 4305.)
+(Pub. L. 104–4, title II, § 204, Mar. 22, 1995, 109 Stat. 65; Pub. L. 117–286, § 4(a)(1), Dec. 27, 2022, 136 Stat. 4305.)
 
 **Editorial Notes**
 
@@ -371,7 +371,7 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 William J. Clinton.
 
-### § 1535. Least burdensome option or explanation required
+### § 1535. Least burdensome option or explanation required
 
 **(a) In general** Except as provided in subsection (b), before promulgating any rule for which a written statement is required under section 1532 of this title, the agency shall identify and consider a reasonable number of regulatory alternatives and from those alternatives select the least costly, most cost-effective or least burdensome alternative that achieves the objectives of the rule, for—
 
@@ -389,9 +389,9 @@ William J. Clinton.
 
 No later than 1 year after March 22, 1995, the Director of the Office of Management and Budget shall certify to Congress, with a written explanation, agency compliance with this section and include in that certification agencies and rulemakings that fail to adequately comply with this section.
 
-(Pub. L. 104–4, title II, § 205, Mar. 22, 1995, 109 Stat. 66.)
+(Pub. L. 104–4, title II, § 205, Mar. 22, 1995, 109 Stat. 66.)
 
-### § 1536. Assistance to Congressional Budget Office
+### § 1536. Assistance to Congressional Budget Office
 
 The Director of the Office of Management and Budget shall—
 
@@ -399,9 +399,9 @@ The Director of the Office of Management and Budget shall—
 
 **(2)** periodically forward copies of such statements to the Director of the Congressional Budget Office on a reasonably timely basis after promulgation of the general notice of proposed rulemaking or of the final rule for which the statement was prepared.
 
-(Pub. L. 104–4, title II, § 206, Mar. 22, 1995, 109 Stat. 66.)
+(Pub. L. 104–4, title II, § 206, Mar. 22, 1995, 109 Stat. 66.)
 
-### § 1537. Pilot program on small government flexibility
+### § 1537. Pilot program on small government flexibility
 
 **(a) In general** The Director of the Office of Management and Budget, in consultation with Federal agencies, shall establish pilot programs in at least 2 agencies to test innovative, and more flexible regulatory approaches that—
 
@@ -413,13 +413,13 @@ The Director of the Office of Management and Budget shall—
 
 The pilot programs shall focus on rules in effect or proposed rules, or a combination thereof.
 
-(Pub. L. 104–4, title II, § 207, Mar. 22, 1995, 109 Stat. 67.)
+(Pub. L. 104–4, title II, § 207, Mar. 22, 1995, 109 Stat. 67.)
 
-### § 1538. Annual statements to Congress on agency compliance
+### § 1538. Annual statements to Congress on agency compliance
 
 No later than 1 year after March 22, 1995, and annually thereafter, the Director of the Office of Management and Budget shall submit to the Congress, including the Committee on Governmental Affairs of the Senate and the Committee on Government Reform and Oversight of the House of Representatives, a written report detailing compliance by each agency during the preceding reporting period with the requirements of this subchapter.
 
-(Pub. L. 104–4, title II, § 208, Mar. 22, 1995, 109 Stat. 67.)
+(Pub. L. 104–4, title II, § 208, Mar. 22, 1995, 109 Stat. 67.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -431,7 +431,7 @@ Committee on Government Reform and Oversight of House of Representatives changed
 
 ## SUBCHAPTER III—REVIEW OF FEDERAL MANDATES
 
-### § 1551. Baseline study of costs and benefits
+### § 1551. Baseline study of costs and benefits
 
 **(a) In general**
 
@@ -443,9 +443,9 @@ No later than 18 months after March 22, 1995, the Advisory Commission on Intergo
 
 **(2)** how to measure both the direct and indirect benefits of Federal financial assistance and tax benefits to State, local, and tribal governments.
 
-(Pub. L. 104–4, title III, § 301, Mar. 22, 1995, 109 Stat. 67.)
+(Pub. L. 104–4, title III, § 301, Mar. 22, 1995, 109 Stat. 67.)
 
-### § 1552. Report on Federal mandates by Advisory Commission on Intergovernmental Relations
+### § 1552. Report on Federal mandates by Advisory Commission on Intergovernmental Relations
 
 **(a) In general** The Advisory Commission on Intergovernmental Relations shall in accordance with this section—
 
@@ -523,7 +523,7 @@ In carrying out this section, the Advisory Commission shall give the highest pri
 
 For purposes of this section the term “State mandate” means any provision in a State statute or regulation that imposes an enforceable duty on local governments, the private sector, or individuals, including a condition of State assistance or a duty arising from participation in a voluntary State program.
 
-(Pub. L. 104–4, title III, § 302, Mar. 22, 1995, 109 Stat. 67.)
+(Pub. L. 104–4, title III, § 302, Mar. 22, 1995, 109 Stat. 67.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -533,7 +533,7 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-### § 1553. Special authorities of Advisory Commission
+### § 1553. Special authorities of Advisory Commission
 
 **(a) Experts and consultants**
 
@@ -551,13 +551,13 @@ Upon the request of the Advisory Commission, the Administrator of General Servic
 
 The Advisory Commission may, subject to appropriations, contract with and compensate government and private persons (including agencies) for property and services used to carry out its duties under this subchapter.
 
-(Pub. L. 104–4, title III, § 303, Mar. 22, 1995, 109 Stat. 69.)
+(Pub. L. 104–4, title III, § 303, Mar. 22, 1995, 109 Stat. 69.)
 
-### § 1554. Annual report to Congress regarding Federal court rulings
+### § 1554. Annual report to Congress regarding Federal court rulings
 
 No later than 4 months after March 22, 1995, and no later than March 15 of each year thereafter, the Advisory Commission on Intergovernmental Relations shall submit to the Congress, including the Committee on Government Reform and Oversight of the House of Representatives and the Committee on Governmental Affairs of the Senate, and to the President a report describing any Federal court case to which a State, local, or tribal government was a party in the preceding calendar year that required such State, local, or tribal government to undertake responsibilities or activities, beyond those such government would otherwise have undertaken, to comply with Federal statutes and regulations.
 
-(Pub. L. 104–4, title III, § 304, Mar. 22, 1995, 109 Stat. 70.)
+(Pub. L. 104–4, title III, § 304, Mar. 22, 1995, 109 Stat. 70.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -567,21 +567,21 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-### § 1555. “Federal mandate” defined
+### § 1555. “Federal mandate” defined
 
 Notwithstanding section 1502 of this title, for purposes of this subchapter the term “Federal mandate” means any provision in statute or regulation or any Federal court ruling that imposes an enforceable duty upon State, local, or tribal governments including a condition of Federal assistance or a duty arising from participation in a voluntary Federal program.
 
-(Pub. L. 104–4, title III, § 305, Mar. 22, 1995, 109 Stat. 70.)
+(Pub. L. 104–4, title III, § 305, Mar. 22, 1995, 109 Stat. 70.)
 
-### § 1556. Authorization of appropriations
+### § 1556. Authorization of appropriations
 
 There are authorized to be appropriated to the Advisory Commission to carry out section 1551 of this title and section 1552 of this title, $500,000 for each of fiscal years 1995 and 1996.
 
-(Pub. L. 104–4, title III, § 306, Mar. 22, 1995, 109 Stat. 70.)
+(Pub. L. 104–4, title III, § 306, Mar. 22, 1995, 109 Stat. 70.)
 
 ## SUBCHAPTER IV—JUDICIAL REVIEW
 
-### § 1571. Judicial review
+### § 1571. Judicial review
 
 **(a) Agency statements on significant regulatory actions**
 
@@ -617,7 +617,7 @@ This subsection shall take effect on October 1, 1995, and shall apply only to an
 
 **(2)** no provision of this chapter shall be construed to create any right or benefit, substantive or procedural, enforceable by any person in any administrative or judicial action.
 
-(Pub. L. 104–4, title IV, § 401, Mar. 22, 1995, 109 Stat. 70.)
+(Pub. L. 104–4, title IV, § 401, Mar. 22, 1995, 109 Stat. 70.)
 
 **Editorial Notes**
 

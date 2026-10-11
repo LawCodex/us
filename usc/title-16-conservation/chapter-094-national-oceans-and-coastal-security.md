@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 94—NATIONAL OCEANS AND COASTAL SECURITY
 
-## § 7501. Definitions
+## § 7501. Definitions
 
 In this chapter:
 
@@ -47,15 +47,15 @@ Except as otherwise specifically provided, the term “Administrator” means th
 
 The term “tidal shoreline” has the meaning given that term pursuant to section 923.110(c)(2)(i) of title 15, Code of Federal Regulations, or a similar successor regulation.
 
-(Pub. L. 114–113, div. O, title IX, § 902, Dec. 18, 2015, 129 Stat. 3031.)
+(Pub. L. 114–113, div. O, title IX, § 902, Dec. 18, 2015, 129 Stat. 3031.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 114–113, div. O, title IX, § 901, Dec. 18, 2015, 129 Stat. 3031, provided that: “This title [enacting this chapter] may be cited as the ‘National Oceans and Coastal Security Act’.”
+Pub. L. 114–113, div. O, title IX, § 901, Dec. 18, 2015, 129 Stat. 3031, provided that: “This title [enacting this chapter] may be cited as the ‘National Oceans and Coastal Security Act’.”
 
-## § 7502. Purposes and agreements
+## § 7502. Purposes and agreements
 
 **(a) Purposes**
 
@@ -65,9 +65,9 @@ The purposes of this chapter are to better understand and utilize the oceans, co
 
 The Administrator and the Foundation may enter into such agreements as may be necessary to carry out the purposes of this chapter.
 
-(Pub. L. 114–113, div. O, title IX, § 903, Dec. 18, 2015, 129 Stat. 3031.)
+(Pub. L. 114–113, div. O, title IX, § 903, Dec. 18, 2015, 129 Stat. 3031.)
 
-## § 7503. National Oceans and Coastal Security Fund
+## § 7503. National Oceans and Coastal Security Fund
 
 **(a) Establishment**
 
@@ -103,15 +103,15 @@ No amounts donated by a foreign government, as defined in section 7342 of title 
 
 **(2)** fails to comply with a procedure, measure, method, or standard established under section 7505(a)(1) of this title.
 
-(Pub. L. 114–113, div. O, title IX, § 904, Dec. 18, 2015, 129 Stat. 3031.)
+(Pub. L. 114–113, div. O, title IX, § 904, Dec. 18, 2015, 129 Stat. 3031.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Fish and Wildlife Foundation Establishment Act, referred to in subsec. (c), is Pub. L. 98–244, Mar. 26, 1984, 98 Stat. 107, which is classified generally to chapter 57 (§ 3701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of this title and Tables.
+The National Fish and Wildlife Foundation Establishment Act, referred to in subsec. (c), is Pub. L. 98–244, Mar. 26, 1984, 98 Stat. 107, which is classified generally to chapter 57 (§ 3701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of this title and Tables.
 
-## § 7504. Eligible uses
+## § 7504. Eligible uses
 
 **(a) In general**
 
@@ -123,15 +123,15 @@ Amounts in the Fund may be allocated by the Foundation to support programs and a
 
 **(2)** fund the creation of national marine monuments and marine protected areas, marine spatial planning, or the National Ocean Policy.
 
-(Pub. L. 114–113, div. O, title IX, § 905, Dec. 18, 2015, 129 Stat. 3032; Pub. L. 117–263, div. J, title C, § 10001(b), Dec. 23, 2022, 136 Stat. 3951.)
+(Pub. L. 114–113, div. O, title IX, § 905, Dec. 18, 2015, 129 Stat. 3032; Pub. L. 117–263, div. J, title C, § 10001(b), Dec. 23, 2022, 136 Stat. 3951.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–263 substituted “, coastal infrastructure, and ecosystem services provided by natural systems such as coral reefs” for “and coastal infrastructure”.
+2022—Subsec. (a). Pub. L. 117–263 substituted “, coastal infrastructure, and ecosystem services provided by natural systems such as coral reefs” for “and coastal infrastructure”.
 
-## § 7505. Grants
+## § 7505. Grants
 
 **(a) Administration of grants**
 
@@ -171,9 +171,9 @@ The Foundation shall submit to the Administrator for approval each procedure, me
 
 **(b) Grants to coastal States**
 
-**(1) In general** The Administrator and the Foundation may award grants according to the procedures established in subsection (a) to coastal States and United States territories to support activities consistent with section 7503 1
+**(1) In general** The Administrator and the Foundation may award grants according to the procedures established in subsection (a) to coastal States and United States territories to support activities consistent with section 7503 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title. In determining distribution of grants, the Foundation may—
 
@@ -213,7 +213,7 @@ The Foundation may establish an advisory panel to conduct reviews of application
 
 **(iii)** academic institutions.
 
-(Pub. L. 114–113, div. O, title IX, § 906, Dec. 18, 2015, 129 Stat. 3032.)
+(Pub. L. 114–113, div. O, title IX, § 906, Dec. 18, 2015, 129 Stat. 3032.)
 
 **Editorial Notes**
 
@@ -221,13 +221,13 @@ The Foundation may establish an advisory panel to conduct reviews of application
 
 Section 7503 of this title, referred to in subsec. (b), was in the original “section 904”, meaning section 904 of div. O of Pub. L. 114–113, which is classified to section 7503 of this title, but probably should have been a reference to section 905 of div. O of Pub. L. 114–113, which is classified to section 7504 of this title. See subsec. (c)(1) of this section.
 
-## § 7506. Annual report
+## § 7506. Annual report
 
 **(a) Requirement for annual report**
 
 Subject to subsection (c),1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 beginning with fiscal year 2017, not later than 60 days after the end of each fiscal year, the Foundation shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives a report on the operation of the Fund during that fiscal year.
 
@@ -239,10 +239,10 @@ beginning with fiscal year 2017, not later than 60 days after the end of each fi
 
 **(3)** a description of the expenditures made from the Fund for the fiscal year, including the purpose of the expenditures.
 
-(Pub. L. 114–113, div. O, title IX, § 907, Dec. 18, 2015, 129 Stat. 3034.)
+(Pub. L. 114–113, div. O, title IX, § 907, Dec. 18, 2015, 129 Stat. 3034.)
 
-## § 7507. Funding
+## § 7507. Funding
 
 There is authorized to be appropriated such sums as are necessary for fiscal years 2017, 2018, and 2019 for this chapter.
 
-(Pub. L. 114–113, div. O, title IX, § 908, Dec. 18, 2015, 129 Stat. 3034.)
+(Pub. L. 114–113, div. O, title IX, § 908, Dec. 18, 2015, 129 Stat. 3034.)

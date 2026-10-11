@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2024—Pub. L. 118–159, div. A, title V, § 513(b), Dec. 23, 2024, 138 Stat. 1876, added item 14701a.
+2024—Pub. L. 118–159, div. A, title V, § 513(b), Dec. 23, 2024, 138 Stat. 1876, added item 14701a.
 
-2008—Pub. L. 110–417, [div. A], title V, § 514(c)(2), Oct. 14, 2008, 122 Stat. 4442, added item 14702 and struck out former item 14702 “Retention on reserve active-status list of certain officers until age 60”.
+2008—Pub. L. 110–417, [div. A], title V, § 514(c)(2), Oct. 14, 2008, 122 Stat. 4442, added item 14702 and struck out former item 14702 “Retention on reserve active-status list of certain officers until age 60”.
 
-## § 14701. Selection of officers for continuation on the reserve active-status list
+## § 14701. Selection of officers for continuation on the reserve active-status list
 
 **(a) Consideration for Continuation.—**
 
@@ -61,21 +61,21 @@ retrieved: 2026-10-11
 
 **(c) Regulations.—** The Secretary of Defense shall prescribe regulations for the administration of this section.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2954; amended Pub. L. 106–398, § 1 [[div. A], title V, § 522], Oct. 30, 2000, 114 Stat. 1654, 1654A–108; Pub. L. 108–136, div. A, title V, § 511(a), Nov. 24, 2003, 117 Stat. 1459; Pub. L. 113–291, div. A, title V, § 511, Dec. 19, 2014, 128 Stat. 3357.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2954; amended Pub. L. 106–398, § 1 [[div. A], title V, § 522], Oct. 30, 2000, 114 Stat. 1654, 1654A–108; Pub. L. 108–136, div. A, title V, § 511(a), Nov. 24, 2003, 117 Stat. 1459; Pub. L. 113–291, div. A, title V, § 511, Dec. 19, 2014, 128 Stat. 3357.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2014—Subsec. (a)(1). Pub. L. 113–291, § 511(a), designated existing provisions as subpar. (A), substituted “A reserve officer of the Army, Navy, Air Force, or Marine Corps described in subparagraph (B) who is required to be removed from the reserve active-status list under section 14504 of this title, or a reserve officer of” for “A reserve officer of” and “of this title, may” for “of this title may, subject to the needs of the service and to section 14509 of this title,”, and added subpars. (B) and (C).
+2014—Subsec. (a)(1). Pub. L. 113–291, § 511(a), designated existing provisions as subpar. (A), substituted “A reserve officer of the Army, Navy, Air Force, or Marine Corps described in subparagraph (B) who is required to be removed from the reserve active-status list under section 14504 of this title, or a reserve officer of” for “A reserve officer of” and “of this title, may” for “of this title may, subject to the needs of the service and to section 14509 of this title,”, and added subpars. (B) and (C).
 
-Subsecs. (b), (c). Pub. L. 113–291, § 511(b), added subsec. (b) and redesignated former subsec. (b) as (c).
+Subsecs. (b), (c). Pub. L. 113–291, § 511(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-2003—Subsec. (a)(1). Pub. L. 108–136, § 511(a)(1)(A), substituted “under regulations prescribed by the Secretary of Defense” for “by a selection board convened under section 14101(b) of this title”.
+2003—Subsec. (a)(1). Pub. L. 108–136, § 511(a)(1)(A), substituted “under regulations prescribed by the Secretary of Defense” for “by a selection board convened under section 14101(b) of this title”.
 
-Subsec. (a)(6). Pub. L. 108–136, § 511(a)(1)(B), substituted “under regulations prescribed under paragraph (1)” for “as a result of the convening of a selection board under section 14101(b) of this title”.
+Subsec. (a)(6). Pub. L. 108–136, § 511(a)(1)(B), substituted “under regulations prescribed under paragraph (1)” for “as a result of the convening of a selection board under section 14101(b) of this title”.
 
-Subsecs. (b) to (d). Pub. L. 108–136, § 511(a)(2), (3), redesignated subsec. (d) as (b) and struck out former subsecs. (b) and (c) which read as follows:
+Subsecs. (b) to (d). Pub. L. 108–136, § 511(a)(2), (3), redesignated subsec. (d) as (b) and struck out former subsecs. (b) and (c) which read as follows:
 
 “(b) Approval of Secretary Concerned.—Continuation of an officer on the reserve active-status list under this section pursuant to action of a continuation board convened under section 14101(b) of this title is subject to the approval of the Secretary of the military department concerned.
 
@@ -89,7 +89,7 @@ Subsecs. (b) to (d). Pub. L. 108–136, § 511(a)(2), (3), redesignated subsec
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14701a. Continuation on reserve active-status list: officers in certain military specialties and career tracks
+## § 14701a. Continuation on reserve active-status list: officers in certain military specialties and career tracks
 
 **(a) In General.—** The Secretary of the military department concerned may authorize a reserve commissioned officer in a grade above O-2 to remain on the reserve active-status list after the date otherwise provided for the separation or retirement of the officer under section 14505, 14506, or 14507 of this title, as applicable, if the officer has a military occupational specialty, rating, or specialty code in a military specialty designated pursuant to subsection (b).
 
@@ -99,9 +99,9 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(d) Regulations.—** The Secretaries of the military departments shall carry out this section in accordance with regulations prescribed by the Secretary of Defense. The regulations shall specify the criteria to be used by the Secretaries of the military departments in designating military specialties for purposes of subsection (b).
 
-(Added Pub. L. 118–159, div. A, title V, § 513(a), Dec. 23, 2024, 138 Stat. 1876.)
+(Added Pub. L. 118–159, div. A, title V, § 513(a), Dec. 23, 2024, 138 Stat. 1876.)
 
-## § 14702. Retention on reserve active-status list of certain officers in the grade of major, lieutenant colonel, colonel, or brigadier general
+## § 14702. Retention on reserve active-status list of certain officers in the grade of major, lieutenant colonel, colonel, or brigadier general
 
 **(a) Retention.—** Notwithstanding the provisions of section 14506, 14507, or 14508 of this title, the Secretary of the military department concerned may, with the officer’s consent, retain on the reserve active-status list an officer in the grade of major, lieutenant colonel, colonel, or brigadier general who is—
 
@@ -111,7 +111,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(b) Separation for Age.—** An officer may be retained under this section only so long as the officer continues to meet the conditions of paragraph (1) or (2) of subsection (a). An officer described in paragraph (1) of such subsection may not be retained under this section after the last day of the month in which the officer becomes 62 years of age. An officer described in paragraph (2) of such subsection may not be retained under this section after the last day of the month in which the officer becomes 62 years of age.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2955; amended Pub. L. 105–85, div. A, title V, § 521(a), Nov. 18, 1997, 111 Stat. 1734; Pub. L. 110–417, [div. A], title V, § 514(b), (c)(1), Oct. 14, 2008, 122 Stat. 4441; Pub. L. 118–159, div. A, title V, § 511(b), Dec. 23, 2024, 138 Stat. 1875.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2955; amended Pub. L. 105–85, div. A, title V, § 521(a), Nov. 18, 1997, 111 Stat. 1734; Pub. L. 110–417, [div. A], title V, § 514(b), (c)(1), Oct. 14, 2008, 122 Stat. 4441; Pub. L. 118–159, div. A, title V, § 511(b), Dec. 23, 2024, 138 Stat. 1875.)
 
 **Editorial Notes**
 
@@ -119,9 +119,9 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 2024—Subsec. (b). Pub. L. 118–159 substituted “62” for “60”.
 
-2008—Pub. L. 110–417, § 514(c)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Retention on reserve active-status list of certain officers until age 60”.
+2008—Pub. L. 110–417, § 514(c)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “Retention on reserve active-status list of certain officers until age 60”.
 
-Subsec. (b). Pub. L. 110–417, § 514(b), in heading, substituted “for Age” for “at Age 60” and, in text, substituted “paragraph (1) or (2) of subsection (a)” for “subsection (a)(1) or (a)(2)” and “An officer described in paragraph (1) of such subsection may not be retained under this section after the last day of the month in which the officer becomes 62 years of age. An officer described in paragraph (2) of such subsection may not be retained under this section after the last day of the month in which the officer becomes 60 years of age.” for “An officer may not be retained under this section after the last day of the month in which the officer becomes 60 years of age.”
+Subsec. (b). Pub. L. 110–417, § 514(b), in heading, substituted “for Age” for “at Age 60” and, in text, substituted “paragraph (1) or (2) of subsection (a)” for “subsection (a)(1) or (a)(2)” and “An officer described in paragraph (1) of such subsection may not be retained under this section after the last day of the month in which the officer becomes 62 years of age. An officer described in paragraph (2) of such subsection may not be retained under this section after the last day of the month in which the officer becomes 60 years of age.” for “An officer may not be retained under this section after the last day of the month in which the officer becomes 60 years of age.”
 
 1997—Subsec. (a). Pub. L. 105–85, in introductory provisions, substituted “section 14506, 14507, or 14508” for “section 14506 or 14507” and “colonel, or brigadier general” for “or colonel”.
 
@@ -131,7 +131,7 @@ Subsec. (b). Pub. L. 110–417, § 514(b), in heading, substituted “for Age�
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14703. Authority to retain chaplains and officers in medical specialties until specified age
+## § 14703. Authority to retain chaplains and officers in medical specialties until specified age
 
 **(a) Retention.—** Notwithstanding any provision of chapter 1407 of this title and except for officers referred to in sections 14503, 14504, 14505, and 14506 of this title and under regulations prescribed by the Secretary of Defense—
 
@@ -147,13 +147,13 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(2)** The Secretary concerned may, with the consent of the officer, retain in an active status an officer in a medical specialty described in subsection (a) beyond the date described in paragraph (1) of this subsection if the Secretary concerned determines that such retention is necessary to the military department concerned. Each such retention shall be made on a case-by-case basis and for such period as the Secretary concerned determines appropriate.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2956; amended Pub. L. 106–65, div. A, title V, § 516, Oct. 5, 1999, 113 Stat. 594; Pub. L. 106–398, § 1 [[div. A], title V, § 523], Oct. 30, 2000, 114 Stat. 1654, 1654A–108; Pub. L. 110–417, [div. A], title V, § 516(a), Oct. 14, 2008, 122 Stat. 4442; Pub. L. 116–92, div. A, title V, § 516, Dec. 20, 2019, 133 Stat. 1349.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2956; amended Pub. L. 106–65, div. A, title V, § 516, Oct. 5, 1999, 113 Stat. 594; Pub. L. 106–398, § 1 [[div. A], title V, § 523], Oct. 30, 2000, 114 Stat. 1654, 1654A–108; Pub. L. 110–417, [div. A], title V, § 516(a), Oct. 14, 2008, 122 Stat. 4442; Pub. L. 116–92, div. A, title V, § 516, Dec. 20, 2019, 133 Stat. 1349.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3855(a), (c)(1), 6392(a), (c)(1), and 8855(a), (c)(1) of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(3), (b)(3), (c)(3).
+Provisions similar to those in this section were contained in sections 3855(a), (c)(1), 6392(a), (c)(1), and 8855(a), (c)(1) of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(3), (b)(3), (c)(3).
 
 **Amendments**
 
@@ -171,7 +171,7 @@ Provisions similar to those in this section were contained in sections 3855(a), 
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14704. Selective early removal from the reserve active-status list
+## § 14704. Selective early removal from the reserve active-status list
 
 **(a) Boards To Recommend Officers for Removal From Reserve Active-Status List.—**
 
@@ -195,19 +195,19 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(d) Regulations.—** The Secretary of the military department concerned shall prescribe regulations for the administration of this section.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2956; amended Pub. L. 113–66, div. A, title V, § 503(b), Dec. 26, 2013, 127 Stat. 750.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2956; amended Pub. L. 113–66, div. A, title V, § 503(b), Dec. 26, 2013, 127 Stat. 750.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3850 and 8850 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(3), (c)(3).
+Provisions similar to those in this section were contained in sections 3850 and 8850 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(3), (c)(3).
 
 **Amendments**
 
-2013—Subsec. (a). Pub. L. 113–66, § 503(b)(1), designated existing provisions as par. (1), substituted “officers on the reserve active-status list” for “all officers on that list” and “that list.” for “the reserve active-status list, in the number specified by the Secretary by each grade and competitive category.” in par. (1), and added pars. (2) and (3).
+2013—Subsec. (a). Pub. L. 113–66, § 503(b)(1), designated existing provisions as par. (1), substituted “officers on the reserve active-status list” for “all officers on that list” and “that list.” for “the reserve active-status list, in the number specified by the Secretary by each grade and competitive category.” in par. (1), and added pars. (2) and (3).
 
-Subsecs. (b) to (d). Pub. L. 113–66, § 503(b)(2), (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+Subsecs. (b) to (d). Pub. L. 113–66, § 503(b)(2), (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -215,7 +215,7 @@ Subsecs. (b) to (d). Pub. L. 113–66, § 503(b)(2), (3), added subsec. (b) an
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14705. Selective early retirement: reserve general and flag officers of the Navy and Marine Corps
+## § 14705. Selective early retirement: reserve general and flag officers of the Navy and Marine Corps
 
 **(a) Authority To Consider.—** An officer in the Navy Reserve in an active status serving in the grade of rear admiral (lower half) or rear admiral and an officer in the Marine Corps Reserve in an active status serving in the grade of brigadier general or major general may be considered for early retirement whenever the Secretary of the Navy determines that such action is necessary.
 
@@ -231,13 +231,13 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(c) Separation Under Section 14514.—** An officer selected for early retirement under this section shall be separated in accordance with section 14514 of this title.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2957; amended Pub. L. 105–261, div. A, title V, § 515, Oct. 17, 1998, 112 Stat. 2008; Pub. L. 108–136, div. A, title V, § 511(b)(3), Nov. 24, 2003, 117 Stat. 1459; Pub. L. 109–163, div. A, title V, § 515(b)(1)(VV), Jan. 6, 2006, 119 Stat. 3234.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2957; amended Pub. L. 105–261, div. A, title V, § 515, Oct. 17, 1998, 112 Stat. 2008; Pub. L. 108–136, div. A, title V, § 511(b)(3), Nov. 24, 2003, 117 Stat. 1459; Pub. L. 109–163, div. A, title V, § 515(b)(1)(VV), Jan. 6, 2006, 119 Stat. 3234.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 6389(f)(3) of this title, prior to repeal by Pub. L. 103–337, § 1628(4).
+Provisions similar to those in this section were contained in section 6389(f)(3) of this title, prior to repeal by Pub. L. 103–337, § 1628(4).
 
 **Amendments**
 
@@ -253,7 +253,7 @@ Provisions similar to those in this section were contained in section 6389(f)(3)
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 14706. Computation of total years of service
+## § 14706. Computation of total years of service
 
 **(a)** For the purpose of this chapter and chapter 1407 of this title, a Reserve officer’s years of service include all service of the officer as a commissioned officer of a uniformed service other than the following:
 
@@ -267,13 +267,13 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 **(c)** For purposes of subsection (a)(3), an officer shall be considered to be in a professional specialty if the officer is appointed or assigned to the Medical Corps, the Dental Corps, the Veterinary Corps, the Medical Service Corps, the Nurse Corps, or the Army Medical Specialists Corps or is designated as a chaplain or judge advocate.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2957; amended Pub. L. 106–65, div. A, title V, § 515, Oct. 5, 1999, 113 Stat. 594.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1611, Oct. 5, 1994, 108 Stat. 2957; amended Pub. L. 106–65, div. A, title V, § 515, Oct. 5, 1999, 113 Stat. 594.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3853 and 8853 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(3), (c)(3).
+Provisions similar to those in this section were contained in sections 3853 and 8853 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(3), (c)(3).
 
 **Amendments**
 

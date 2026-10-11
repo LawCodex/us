@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 143—APPALACHIAN REGIONAL COMMISSION
 
-Pub. L. 117–58, div. A, title I, § 11506(c)(2), Nov. 15, 2021, 135 Stat. 584, which directed amendment of the analysis for subchapter II of this chapter by adding item 14323 at the end, was executed by adding item 14323 to the analysis for this chapter to reflect the probable intent of Congress.
+Pub. L. 117–58, div. A, title I, § 11506(c)(2), Nov. 15, 2021, 135 Stat. 584, which directed amendment of the analysis for subchapter II of this chapter by adding item 14323 at the end, was executed by adding item 14323 to the analysis for this chapter to reflect the probable intent of Congress.
 
 ## SUBCHAPTER I—ORGANIZATION AND ADMINISTRATION
 
-### § 14301. Establishment, membership, and employees
+### § 14301. Establishment, membership, and employees
 
 **(a) Establishment.—** There is an Appalachian Regional Commission.
 
@@ -29,7 +29,7 @@ Pub. L. 117–58, div. A, title I, § 11506(c)(2), Nov. 15, 2021, 135 Stat. 58
 
 **(2) Alternate members.—** Each state member may have a single alternate, appointed by the Governor from among the members of the Governor’s cabinet or the Governor’s personal staff. The President,,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 shall appoint an alternate for the Federal Cochairman. An alternate shall vote in the event of the absence, death, disability, removal, or resignation of the member for whom the individual is an alternate. A state alternate shall not be counted toward the establishment of a quorum of the Commission when a quorum of the state members is required.
 
@@ -47,19 +47,19 @@ shall appoint an alternate for the Federal Cochairman. An alternate shall vote i
 
 **(f) Status of Personnel.—** Members, alternates, officers, and employees of the Commission are not federal employees for any purpose, except the Federal Cochairman, the alternate to the Federal Cochairman, the staff of the Federal Cochairman, and federal employees detailed to the Commission under section 14306(a)(3) of this title.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1256; Pub. L. 112–166, § 2(n), Aug. 10, 2012, 126 Stat. 1287.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1256; Pub. L. 112–166, § 2(n), Aug. 10, 2012, 126 Stat. 1287.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 14301(a), (b)(1) | 40 App.:101(a)(1) (1st, 3d sentences). | Pub. L. 89–4, title I, § 101(a)(1), (c), (d), Mar. 9, 1965, 79 Stat. 6; Pub. L. 94–188, title I, §§ 103(1), (2), (4), (5), 104, Dec. 31, 1975, 89 Stat. 1079, 1080; Pub. L. 105–393, title II, § 203(a)(1), (b)(2), Nov. 13, 1998, 112 Stat. 3619. |
+| 14301(a), (b)(1) | 40 App.:101(a)(1) (1st, 3d sentences). | Pub. L. 89–4, title I, § 101(a)(1), (c), (d), Mar. 9, 1965, 79 Stat. 6; Pub. L. 94–188, title I, §§ 103(1), (2), (4), (5), 104, Dec. 31, 1975, 89 Stat. 1079, 1080; Pub. L. 105–393, title II, § 203(a)(1), (b)(2), Nov. 13, 1998, 112 Stat. 3619. |
 | 14301(b)(2) | 40 App.:101(c) (1st–4th sentences). |  |
 | 14301(b)(3) | 40 App.:101(a)(1) (2d, last sentences). |  |
 | 14301(c) | 40 App.:101(d) (1st sentence, 2d sentence related to compensation, last sentence). |  |
 | 14301(d)(1) | 40 App.:101(c) (last sentence). |  |
 | 14301(d)(2) | 40 App.:101(d) (2d sentence related to delegation). |  |
-| 14301(e) | 40 App.:106(2) (2d sentence). | Pub. L. 89–4, title I, § 106(2) (2d, last sentences), Mar. 9, 1965, 79 Stat. 8; Pub. L. 94–188, title I, § 108, Dec. 31, 1975, 89 Stat. 1081. |
+| 14301(e) | 40 App.:106(2) (2d sentence). | Pub. L. 89–4, title I, § 106(2) (2d, last sentences), Mar. 9, 1965, 79 Stat. 8; Pub. L. 94–188, title I, § 108, Dec. 31, 1975, 89 Stat. 1081. |
 | 14301(f) | 40 App.:106(2) (last sentence). |  |
 
 In subsection (e), the words “The Commission has an executive director” are added for clarity.
@@ -76,7 +76,7 @@ In subsection (e), the words “The Commission has an executive director” are 
 
 Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
-### § 14302. Decisions
+### § 14302. Decisions
 
 **(a) Requirements for Approval.—** Except as provided in section 14306(d) of this title, decisions by the Appalachian Regional Commission require the affirmative vote of the Federal Cochairman and of a majority of the state members, exclusive of members representing States delinquent under section 14306(d).
 
@@ -92,9 +92,9 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 14302 | 40 App.:101(b). | Pub. L. 89–4, title I, § 101(b), Mar. 9, 1965, 79 Stat. 6; Pub. L. 94–188, title I, § 103(3), Dec. 31, 1975, 89 Stat. 1080; Pub. L. 105–393, title II, § 203(c), Nov. 13, 1998, 112 Stat. 3619; Pub. L. 107–149, § 13(a), Mar. 12, 2002, 116 Stat. 71. |
+| 14302 | 40 App.:101(b). | Pub. L. 89–4, title I, § 101(b), Mar. 9, 1965, 79 Stat. 6; Pub. L. 94–188, title I, § 103(3), Dec. 31, 1975, 89 Stat. 1080; Pub. L. 105–393, title II, § 203(c), Nov. 13, 1998, 112 Stat. 3619; Pub. L. 107–149, § 13(a), Mar. 12, 2002, 116 Stat. 71. |
 
-### § 14303. Functions
+### § 14303. Functions
 
 **(a) In General.—** In carrying out the purposes of this subtitle, the Appalachian Regional Commission shall—
 
@@ -122,13 +122,13 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 
 **(b) Identify Needs and Goals of Subregional Areas.—** In carrying out its functions under this section, the Commission shall identify the characteristics of, and may distinguish between the needs and goals of, appropriate subregional areas, including central, northern, and southern Appalachia.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1258; Pub. L. 117–58, div. A, title I, § 11506(b), Nov. 15, 2021, 135 Stat. 584.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1258; Pub. L. 117–58, div. A, title I, § 11506(b), Nov. 15, 2021, 135 Stat. 584.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 14303 | 40 App.:102. | Pub. L. 89–4, title I, § 102, Mar. 9, 1965, 79 Stat. 7; Pub. L. 90–103, title I, § 102, Oct. 11, 1967, 81 Stat. 257; Pub. L. 94–188, title I, § 105, Dec. 31, 1975, 89 Stat. 1080; Pub. L. 107–149, § 3, Mar. 12, 2002, 116 Stat. 66. |
+| 14303 | 40 App.:102. | Pub. L. 89–4, title I, § 102, Mar. 9, 1965, 79 Stat. 7; Pub. L. 90–103, title I, § 102, Oct. 11, 1967, 81 Stat. 257; Pub. L. 94–188, title I, § 105, Dec. 31, 1975, 89 Stat. 1080; Pub. L. 107–149, § 3, Mar. 12, 2002, 116 Stat. 66. |
 
 **Editorial Notes**
 
@@ -146,7 +146,7 @@ Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. 
 
 Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-### § 14304. Recommendations
+### § 14304. Recommendations
 
 The Appalachian Regional Commission may make recommendations to the President and to the Governors and appropriate local officials with respect to—
 
@@ -160,11 +160,11 @@ The Appalachian Regional Commission may make recommendations to the President an
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 14304 | 40 App.:103. | Pub. L. 89–4, title I, § 103, Mar. 9, 1965, 79 Stat. 7. |
+| 14304 | 40 App.:103. | Pub. L. 89–4, title I, § 103, Mar. 9, 1965, 79 Stat. 7. |
 
 Before clause (1), the words “from time to time” are omitted as unnecessary.
 
-### § 14305. Liaison between Federal Government and Commission
+### § 14305. Liaison between Federal Government and Commission
 
 **(a) President.—** The President shall provide effective and continuing liaison between the Federal Government and the Appalachian Regional Commission and a coordinated review within the Government of the plans and recommendations submitted by the Commission pursuant to sections 14303 and 14304 of this title.
 
@@ -176,10 +176,10 @@ Before clause (1), the words “from time to time” are omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 14305(a) | 40 App.:104(a). | Pub. L. 89–4, title I, § 104(a), Mar. 9, 1965, 79 Stat. 8; Pub. L. 107–149, § 4(1), Mar. 12, 2002, 116 Stat. 67. |
-| 14305(b) | 40 App.:104(b) | Pub. L. 89–4, title I, § 104(b), as added Pub. L. 107–149, § 4(2), Mar. 12, 2002, 116 Stat. 67. |
+| 14305(a) | 40 App.:104(a). | Pub. L. 89–4, title I, § 104(a), Mar. 9, 1965, 79 Stat. 8; Pub. L. 107–149, § 4(1), Mar. 12, 2002, 116 Stat. 67. |
+| 14305(b) | 40 App.:104(b) | Pub. L. 89–4, title I, § 104(b), as added Pub. L. 107–149, § 4(2), Mar. 12, 2002, 116 Stat. 67. |
 
-### § 14306. Administrative powers and expenses
+### § 14306. Administrative powers and expenses
 
 **(a) Powers.—** To carry out its duties under this subtitle, the Appalachian Regional Commission may—
 
@@ -227,10 +227,10 @@ Before clause (1), the words “from time to time” are omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 14306(a) | 40 App.:106(1), (2) (1st sentence), (3) (less words in parentheses), (4), (5) (1st sentence), (6), (7) (less words in last parentheses), (8), (9). | Pub. L. 89–4, title I, § 106(1), (2) (1st sentence), (3)–(9), Mar. 9, 1965, 79 Stat. 8; Pub. L. 90–103, title I, § 104, Oct. 11, 1967, 81 Stat. 257; Pub. L. 92–65, title II, § 203, Aug. 5, 1971, 85 Stat. 168; Pub. L. 94–188, title I, § 107, Dec. 31, 1975, 89 Stat. 1080; Pub. L. 96–506, § 3(2), Dec. 8, 1980, 94 Stat. 2746; Pub. L 105–393, title II, §§ 205, 206, Nov. 13, 1998, 112 Stat. 3619; Pub. L. 107–149, § 13(b), Mar. 12, 2002, 116 Stat. 71. |
+| 14306(a) | 40 App.:106(1), (2) (1st sentence), (3) (less words in parentheses), (4), (5) (1st sentence), (6), (7) (less words in last parentheses), (8), (9). | Pub. L. 89–4, title I, § 106(1), (2) (1st sentence), (3)–(9), Mar. 9, 1965, 79 Stat. 8; Pub. L. 90–103, title I, § 104, Oct. 11, 1967, 81 Stat. 257; Pub. L. 92–65, title II, § 203, Aug. 5, 1971, 85 Stat. 168; Pub. L. 94–188, title I, § 107, Dec. 31, 1975, 89 Stat. 1080; Pub. L. 96–506, § 3(2), Dec. 8, 1980, 94 Stat. 2746; Pub. L 105–393, title II, §§ 205, 206, Nov. 13, 1998, 112 Stat. 3619; Pub. L. 107–149, § 13(b), Mar. 12, 2002, 116 Stat. 71. |
 | 14306(b) | 40 App.:106(3) (words in parentheses), (7) (words in last parentheses). |  |
 | 14306(c) | 40 App.:106(5) (last sentence). |  |
-| 14306(d) | 40 App.:105. | Pub. L. 89–4, title I, § 105, Mar. 9, 1965, 79 Stat. 8; Pub. L. 90–103, title I, § 103, Oct. 11, 1967, 81 Stat. 257; Pub. L. 91–123, title I, § 102, Nov. 25, 1969, 83 Stat. 214; Pub. L. 92–65, title II, § 202, Aug. 5, 1971, 85 Stat. 168; Pub. L. 94–188, title I, § 106, Dec. 31, 1975, 89 Stat. 1080; Pub. L. 96–506, § 3(1), Dec. 8, 1980, 94 Stat. 2746; Pub. L. 97–35, title XVIII, § 1822(a)(1), Aug. 13, 1981, 95 Stat. 767; Pub. L. 105–393, title II, § 204, Nov. 13, 1998, 112 Stat. 3619. |
+| 14306(d) | 40 App.:105. | Pub. L. 89–4, title I, § 105, Mar. 9, 1965, 79 Stat. 8; Pub. L. 90–103, title I, § 103, Oct. 11, 1967, 81 Stat. 257; Pub. L. 91–123, title I, § 102, Nov. 25, 1969, 83 Stat. 214; Pub. L. 92–65, title II, § 202, Aug. 5, 1971, 85 Stat. 168; Pub. L. 94–188, title I, § 106, Dec. 31, 1975, 89 Stat. 1080; Pub. L. 96–506, § 3(1), Dec. 8, 1980, 94 Stat. 2746; Pub. L. 97–35, title XVIII, § 1822(a)(1), Aug. 13, 1981, 95 Stat. 767; Pub. L. 105–393, title II, § 204, Nov. 13, 1998, 112 Stat. 3619. |
 
 In subsection (a)(6), the words “any property” are substituted for “property, real, personal, or mixed, tangible or intangible” to eliminate unnecessary words.
 
@@ -240,7 +240,7 @@ In subsection (c), the words “Director of the Office of Personnel Management�
 
 In subsection (d), the word “amount” is substituted for “share” for clarity.
 
-### § 14307. Meetings
+### § 14307. Meetings
 
 **(a) In General.—** The Appalachian Regional Commission shall conduct at least one meeting each year with the Federal Cochairman and at least a majority of the state members present.
 
@@ -252,9 +252,9 @@ In subsection (d), the word “amount” is substituted for “share” for clar
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 14307 | 40 App.:101(a)(2). | Pub. L. 89–4, title I, § 101(a)(2), as added Pub. L. 105–393, title II, § 203(a)(2), (b)(1), Nov. 13, 1998, 112 Stat. 3619. |
+| 14307 | 40 App.:101(a)(2). | Pub. L. 89–4, title I, § 101(a)(2), as added Pub. L. 105–393, title II, § 203(a)(2), (b)(1), Nov. 13, 1998, 112 Stat. 3619. |
 
-### § 14308. Information
+### § 14308. Information
 
 **(a) Actions of Commission.—** To obtain information needed to carry out its duties, the Appalachian Regional Commission shall—
 
@@ -276,13 +276,13 @@ In subsection (d), the word “amount” is substituted for “share” for clar
 
 **(c) Public Participation.—** Public participation in the development, revision, and implementation of all plans and programs under this subtitle by the Commission, any State, or any local development district shall be provided for, encouraged, and assisted. The Commission shall develop and publish regulations specifying minimum guidelines for public participation, including public hearings.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1260; Pub. L. 109–284, § 6(31), Sept. 27, 2006, 120 Stat. 1213.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1260; Pub. L. 109–284, § 6(31), Sept. 27, 2006, 120 Stat. 1213.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 14308(a) | 40 App.:107(a)(1) (words before 5th comma), (2) (less words in parentheses), (3). | Pub. L. 89–4, title I, § 107, Mar. 9, 1965, 79 Stat. 9; Pub. L. 94–188, title I, § 109, Dec. 31, 1975, 89 Stat. 1081. |
+| 14308(a) | 40 App.:107(a)(1) (words before 5th comma), (2) (less words in parentheses), (3). | Pub. L. 89–4, title I, § 107, Mar. 9, 1965, 79 Stat. 9; Pub. L. 94–188, title I, § 109, Dec. 31, 1975, 89 Stat. 1081. |
 | 14308(b)(1) | 40 App.:107(a)(1) (words after 5th comma). |  |
 | 14308(b)(2) | 40 App.:107(a)(2) (words in parentheses). |  |
 | 14308(c) | 40 App.:107(b). |  |
@@ -295,7 +295,7 @@ In subsection (b)(1), the words “for the purpose” are omitted as unnecessary
 
 2006—Subsec. (b)(2). Pub. L. 109–284 substituted “subsection (a)(2)” for “section (a)(2)”.
 
-### § 14309. Personal financial interests
+### § 14309. Personal financial interests
 
 **(a) Conflict of Interest.—**
 
@@ -335,7 +335,7 @@ In subsection (b)(1), the words “for the purpose” are omitted as unnecessary
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 14309(a)(1) | 40 App.:108(a) (1st sentence). | Pub. L. 89–4, title I, § 108, Mar. 9, 1965, 79 Stat. 9. |
+| 14309(a)(1) | 40 App.:108(a) (1st sentence). | Pub. L. 89–4, title I, § 108, Mar. 9, 1965, 79 Stat. 9. |
 | 14309(a)(2) | 40 App.:108(b). |  |
 | 14309(a)(3) | 40 App.:108(a) (last sentence). |  |
 | 14309(b) | 40 App.:108(c). |  |
@@ -354,7 +354,7 @@ In subsection (c), the words “Notwithstanding any other subsection of this sec
 
 In subsection (d), the words “in its discretion” are omitted as unnecessary.
 
-### § 14310. Annual report
+### § 14310. Annual report
 
 Not later than six months after the close of each fiscal year, the Appalachian Regional Commission shall prepare and submit to the Governor of each State in the Appalachian region and to the President, for transmittal to Congress, a report on the activities carried out under this subtitle during the fiscal year.
 
@@ -364,11 +364,11 @@ Not later than six months after the close of each fiscal year, the Appalachian R
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 14310 | 40 App.:304. | Pub. L. 89–4, title III, § 304, Mar. 9, 1965, 79 Stat. 20. |
+| 14310 | 40 App.:304. | Pub. L. 89–4, title III, § 304, Mar. 9, 1965, 79 Stat. 20. |
 
 ## SUBCHAPTER II—FINANCIAL ASSISTANCE
 
-### § 14321. Grants and other assistance
+### § 14321. Grants and other assistance
 
 **(a) Authorization To Make Grants.—**
 
@@ -428,19 +428,19 @@ Not later than six months after the close of each fiscal year, the Appalachian R
 
 **(1) Commission.—** The Commission, as required by the President, shall maintain accurate and complete records of transactions and activities financed with federal amounts and report to the President on the transactions and activities. The records of the Commission with respect to grants are available for audit by the President and the Comptroller General.
 
-**(2) Recipients of federal assistance.—** Recipients of federal assistance under this section, as required by the Commission, shall maintain accurate and complete records of transactions and activities financed with federal amounts and report to the Commission on the transactions and activities. The records are be 1
+**(2) Recipients of federal assistance.—** Recipients of federal assistance under this section, as required by the Commission, shall maintain accurate and complete records of transactions and activities financed with federal amounts and report to the Commission on the transactions and activities. The records are be 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “to”.
+<sup>1</sup> So in original. Probably should be preceded by “to”.
 
 available for audit by the President, the Comptroller General, and the Commission.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1262; Pub. L. 110–371, § 2(a), Oct. 8, 2008, 122 Stat. 4037; Pub. L. 116–136, div. B, title IV, § 14004, Mar. 27, 2020, 134 Stat. 526.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1262; Pub. L. 110–371, § 2(a), Oct. 8, 2008, 122 Stat. 4037; Pub. L. 116–136, div. B, title IV, § 14004, Mar. 27, 2020, 134 Stat. 526.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 14321(a)(1) | 40 App.:302(a)(1)(A)– (C) (1st sentence). | Pub. L. 89–4, title III, § 302, Mar. 9, 1965, 79 Stat. 19; Pub. L. 90–103, title I, § 120, Oct. 11, 1967, 81 Stat. 264; Pub. L. 91–123, title I, § 108, Nov. 25, 1969, 83 Stat. 215; Pub. L. 92–65, title II, § 211, Aug. 5, 1971, 85 Stat. 172; Pub. L. 94–188, title I, § 119, Dec. 31, 1975, 89 Stat. 1085; Pub. L. 105–393, title II, §§ 218(d), 220(a)–(c)(1), Nov. 13, 1998, 112 Stat. 3623, 3624; Pub. L. 107–149, §§ 9, 13(c), Mar. 12, 2002, 116 Stat. 70, 71. |
+| 14321(a)(1) | 40 App.:302(a)(1)(A)– (C) (1st sentence). | Pub. L. 89–4, title III, § 302, Mar. 9, 1965, 79 Stat. 19; Pub. L. 90–103, title I, § 120, Oct. 11, 1967, 81 Stat. 264; Pub. L. 91–123, title I, § 108, Nov. 25, 1969, 83 Stat. 215; Pub. L. 92–65, title II, § 211, Aug. 5, 1971, 85 Stat. 172; Pub. L. 94–188, title I, § 119, Dec. 31, 1975, 89 Stat. 1085; Pub. L. 105–393, title II, §§ 218(d), 220(a)–(c)(1), Nov. 13, 1998, 112 Stat. 3623, 3624; Pub. L. 107–149, §§ 9, 13(c), Mar. 12, 2002, 116 Stat. 70, 71. |
 | 14321(a)(2) | 40 App.:302(a)(2). |  |
 | 14321(a)(3) | 40 App.:302(a)(1)(C) (2d sentence). |  |
 | 14321(a)(4) | 40 App.:302(a)(1)(C) (last sentence). |  |
@@ -459,17 +459,17 @@ In subsection (c)(2), the words “or their duly authorized representatives” a
 
 **References in Text**
 
-The Public Works and Economic Development Act of 1965, referred to in subsec. (a)(1)(B), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, which is classified generally to chapter 38 (§ 3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
+The Public Works and Economic Development Act of 1965, referred to in subsec. (a)(1)(B), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, which is classified generally to chapter 38 (§ 3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
 
 **Amendments**
 
-2020—Subsec. (a)(2)(B)(ii). Pub. L. 116–136 inserted before period at end “, except that a discretionary grant to respond to economic distress directly related to the impacts of the Coronavirus Disease 2019 (COVID–19) shall not be included in such aggregate amount”.
+2020—Subsec. (a)(2)(B)(ii). Pub. L. 116–136 inserted before period at end “, except that a discretionary grant to respond to economic distress directly related to the impacts of the Coronavirus Disease 2019 (COVID–19) shall not be included in such aggregate amount”.
 
-2008—Subsec. (a)(1)(A)(i). Pub. L. 110–371, § 2(a)(1), added cl. (i) and struck out former cl. (i) which read as follows: “the amount of a grant shall not exceed 50 percent of administrative expenses or, at the discretion of the Commission, 75 percent of administrative expenses if the grant is to a local development district that has a charter or authority that includes the economic development of a county or part of a county for which a distressed county designation is in effect under section 14526 of this title;”.
+2008—Subsec. (a)(1)(A)(i). Pub. L. 110–371, § 2(a)(1), added cl. (i) and struck out former cl. (i) which read as follows: “the amount of a grant shall not exceed 50 percent of administrative expenses or, at the discretion of the Commission, 75 percent of administrative expenses if the grant is to a local development district that has a charter or authority that includes the economic development of a county or part of a county for which a distressed county designation is in effect under section 14526 of this title;”.
 
-Subsec. (a)(2)(A). Pub. L. 110–371, § 2(a)(2), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “Except as provided in subparagraph (B), not more than 50 percent (or 80 percent in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of the cost of any activity eligible for financial assistance under this section may be provided from amounts appropriated to carry out this subtitle.”
+Subsec. (a)(2)(A). Pub. L. 110–371, § 2(a)(2), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “Except as provided in subparagraph (B), not more than 50 percent (or 80 percent in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of the cost of any activity eligible for financial assistance under this section may be provided from amounts appropriated to carry out this subtitle.”
 
-### § 14322. Approval of development plans, strategy statements, and projects
+### § 14322. Approval of development plans, strategy statements, and projects
 
 **(a) Annual Review and Approval Required.—** The Appalachian Regional Commission annually shall review and approve, in accordance with section 14302 of this title, state and regional development plans and strategy statements, and any multistate subregional plans which may be developed.
 
@@ -491,17 +491,17 @@ Subsec. (a)(2)(A). Pub. L. 110–371, § 2(a)(2), added subpar. (A) and struck
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 14322(a) | 40 App.:303 (1st sentence). | Pub. L. 89–4, title III, § 303, Mar. 9, 1965, 79 Stat. 20; Pub. L. 90–103, title I, § 121, Oct. 11, 1967, 81 Stat. 265; Pub. L. 94–188, title I, § 120, Dec. 31, 1975, 89 Stat. 1086; Pub. L. 107–149, § 13(i), Mar. 12, 2002, 116 Stat. 72. |
+| 14322(a) | 40 App.:303 (1st sentence). | Pub. L. 89–4, title III, § 303, Mar. 9, 1965, 79 Stat. 20; Pub. L. 90–103, title I, § 121, Oct. 11, 1967, 81 Stat. 265; Pub. L. 94–188, title I, § 120, Dec. 31, 1975, 89 Stat. 1086; Pub. L. 107–149, § 13(i), Mar. 12, 2002, 116 Stat. 72. |
 | 14322(b) | 40 App.:303 (2d, 3d sentences). |  |
 | 14322(c) | 40 App.:303 (last sentence). |  |
 
-### § 14323. Congressional notification
+### § 14323. Congressional notification
 
 **(a) In General.—** In the case of a project described in subsection (b), the Appalachian Regional Commission shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate notice of the award of a grant or other financial assistance not less than 3 full business days before awarding the grant or other financial assistance.
 
 **(b) Projects Described.—** A project referred to in subsection (a) is a project that the Appalachian Regional Commission has selected to receive a grant or other financial assistance under this subtitle in an amount not less than $50,000.
 
-(Added Pub. L. 117–58, div. A, title I, § 11506(c)(1), Nov. 15, 2021, 135 Stat. 584.)
+(Added Pub. L. 117–58, div. A, title I, § 11506(c)(1), Nov. 15, 2021, 135 Stat. 584.)
 
 **Statutory Notes and Related Subsidiaries**
 

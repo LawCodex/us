@@ -15,13 +15,13 @@ retrieved: 2026-10-11
 
 # CHAPTER 51—SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM
 
-## § 2011. Congressional declaration of policy
+## § 2011. Congressional declaration of policy
 
 It is declared to be the policy of Congress, in order to promote the general welfare, to safeguard the health and well-being of the Nation’s population by raising levels of nutrition among low-income households. Congress finds that the limited food purchasing power of low-income households contributes to hunger and malnutrition among members of such households. Congress further finds that increased utilization of food in establishing and maintaining adequate national levels of nutrition will promote the distribution in a beneficial manner of the Nation’s agricultural abundance and will strengthen the Nation’s agricultural economy, as well as result in more orderly marketing and distribution of foods. To alleviate such hunger and malnutrition, a supplemental nutrition assistance program is herein authorized which will permit low-income households to obtain a more nutritious diet through normal channels of trade by increasing food purchasing power for all eligible households who apply for participation.
 
 That program includes as a purpose to assist low-income adults in obtaining employment and increasing their earnings. Such employment and earnings, along with program benefits, will permit low-income households to obtain a more nutritious diet through normal channels of trade by increasing food purchasing power for all eligible households who apply for participation.
 
-(Pub. L. 88–525, § 2, Aug. 31, 1964, 78 Stat. 703; Pub. L. 91–671, § 1, Jan. 11, 1971, 84 Stat. 2048; Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958; Pub. L. 110–234, title IV, § 4001(b), May 22, 2008, 122 Stat. 1092; Pub. L. 110–246, § 4(a), title IV, § 4001(b), June 18, 2008, 122 Stat. 1664, 1853; Pub. L. 118–5, div. C, title II, § 313, June 3, 2023, 137 Stat. 38.)
+(Pub. L. 88–525, § 2, Aug. 31, 1964, 78 Stat. 703; Pub. L. 91–671, § 1, Jan. 11, 1971, 84 Stat. 2048; Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958; Pub. L. 110–234, title IV, § 4001(b), May 22, 2008, 122 Stat. 1092; Pub. L. 110–246, § 4(a), title IV, § 4001(b), June 18, 2008, 122 Stat. 1664, 1853; Pub. L. 118–5, div. C, title II, § 313, June 3, 2023, 137 Stat. 38.)
 
 **Editorial Notes**
 
@@ -33,7 +33,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2023—Pub. L. 118–5 added second par.
 
-2008—Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+2008—Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
 1977—Pub. L. 95–113 substituted “a more nutritious diet” for “a nutritionally adequate diet” as the object of the program.
 
@@ -49,61 +49,61 @@ Amendment by section 4001(b) of Pub. L. 110–246 effective Oct. 1, 2008, see se
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
+Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–171, title IV, § 4001, May 13, 2002, 116 Stat. 305, provided that: “This title [enacting section 3007 of this title and section 1161 of Title 2, The Congress, amending sections 1431e, 2012, 2014 to 2017, 2019, 2020, 2022, 2023, 2025 to 2028, 2031, 2034, 2036, and 7508 of this title, sections 1612, 1613, and 1631 of Title 8, Aliens and Nationality, and sections 1755, 1758, 1760, 1769, and 1786 of Title 42, The Public Health and Welfare, repealing section 2033 of this title, enacting provisions set out as notes under sections 612c, 2014 to 2016, 2019, 2020, 2022, 2023, 2025, 2026, 2028, 2034, 2036, and 3171 of this title, section 1161 of Title 2, section 1612 of Title 8, and sections 1755, 1758, 1769, and 1786 of Title 42, and amending provisions set out as a note under section 612c of this title] may be cited as the ‘Food Stamp Reauthorization Act of 2002’.”
+Pub. L. 107–171, title IV, § 4001, May 13, 2002, 116 Stat. 305, provided that: “This title [enacting section 3007 of this title and section 1161 of Title 2, The Congress, amending sections 1431e, 2012, 2014 to 2017, 2019, 2020, 2022, 2023, 2025 to 2028, 2031, 2034, 2036, and 7508 of this title, sections 1612, 1613, and 1631 of Title 8, Aliens and Nationality, and sections 1755, 1758, 1760, 1769, and 1786 of Title 42, The Public Health and Welfare, repealing section 2033 of this title, enacting provisions set out as notes under sections 612c, 2014 to 2016, 2019, 2020, 2022, 2023, 2025, 2026, 2028, 2034, 2036, and 3171 of this title, section 1161 of Title 2, section 1612 of Title 8, and sections 1755, 1758, 1769, and 1786 of Title 42, and amending provisions set out as a note under section 612c of this title] may be cited as the ‘Food Stamp Reauthorization Act of 2002’.”
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–171, § 1, Feb. 11, 2000, 114 Stat. 3, provided that: “This Act [amending section 2016 of this title and enacting provisions set out as notes under section 2016 of this title] may be cited as the ‘Electronic Benefit Transfer Interoperability and Portability Act of 2000’.”
+Pub. L. 106–171, § 1, Feb. 11, 2000, 114 Stat. 3, provided that: “This Act [amending section 2016 of this title and enacting provisions set out as notes under section 2016 of this title] may be cited as the ‘Electronic Benefit Transfer Interoperability and Portability Act of 2000’.”
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–225, § 1, Mar. 25, 1994, 108 Stat. 106, provided that: “This Act [amending sections 2012, 2014 to 2016, 2018, and 2026 of this title, enacting provisions set out as notes under section 2012 of this title, and repealing provisions set out as notes under sections 2015 and 2016 of this title] may be cited as the ‘Food Stamp Program Improvements Act of 1994’.”
+Pub. L. 103–225, § 1, Mar. 25, 1994, 108 Stat. 106, provided that: “This Act [amending sections 2012, 2014 to 2016, 2018, and 2026 of this title, enacting provisions set out as notes under section 2012 of this title, and repealing provisions set out as notes under sections 2015 and 2016 of this title] may be cited as the ‘Food Stamp Program Improvements Act of 1994’.”
 
 **Short Title of 1993 Amendment**
 
-Pub. L. 103–66, title XIII, § 13901(a), Aug. 10, 1993, 107 Stat. 672, provided that: “This chapter [chapter 3 (§§ 13901–13971) of title XIII of Pub. L. 103–66, amending sections 2012, 2014, 2015, 2017, 2020 to 2023, 2025, 2026, and 2028 of this title, and enacting provisions set out as a note under section 2025 of this title] may be cited as the ‘Mickey Leland Childhood Hunger Relief Act’.”
+Pub. L. 103–66, title XIII, § 13901(a), Aug. 10, 1993, 107 Stat. 672, provided that: “This chapter [chapter 3 (§§ 13901–13971) of title XIII of Pub. L. 103–66, amending sections 2012, 2014, 2015, 2017, 2020 to 2023, 2025, 2026, and 2028 of this title, and enacting provisions set out as a note under section 2025 of this title] may be cited as the ‘Mickey Leland Childhood Hunger Relief Act’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–624, title XVII, § 1701, Nov. 28, 1990, 104 Stat. 3783, provided that: “This title [enacting section 2032 of this title, amending sections 1431, 1431e, 2012, 2014 to 2018, 2020 to 2022, 2024 to 2028, 3175, and 3175e of this title, section 6109 of Title 26, Internal Revenue Code, and sections 405 and 9904 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 612c, 2012, 2014, 2020, 2025, and 2028 of this title and section 1751 of Title 42, and amending provisions set out as notes under sections 612c and 2012 of this title] may be cited as the ‘Mickey Leland Memorial Domestic Hunger Relief Act’.”
+Pub. L. 101–624, title XVII, § 1701, Nov. 28, 1990, 104 Stat. 3783, provided that: “This title [enacting section 2032 of this title, amending sections 1431, 1431e, 2012, 2014 to 2018, 2020 to 2022, 2024 to 2028, 3175, and 3175e of this title, section 6109 of Title 26, Internal Revenue Code, and sections 405 and 9904 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 612c, 2012, 2014, 2020, 2025, and 2028 of this title and section 1751 of Title 42, and amending provisions set out as notes under sections 612c and 2012 of this title] may be cited as the ‘Mickey Leland Memorial Domestic Hunger Relief Act’.”
 
 **Short Title of 1988 Amendments**
 
-Pub. L. 100–435, § 1(a), Sept. 19, 1988, 102 Stat. 1645, provided that: “This Act [amending sections 2012, 2014 to 2017, 2020 to 2023, 2025, and 2026 of this title, section 713a–14 of Title 15, Commerce and Trade, and sections 1761, 1766, 1773, and 1786 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 612c and 2012 of this title and sections 1766 and 1786 of Title 42, and amending provisions set out as notes under sections 612c, 1731, and 2012 of this title] may be cited as the ‘Hunger Prevention Act of 1988’.”
+Pub. L. 100–435, § 1(a), Sept. 19, 1988, 102 Stat. 1645, provided that: “This Act [amending sections 2012, 2014 to 2017, 2020 to 2023, 2025, and 2026 of this title, section 713a–14 of Title 15, Commerce and Trade, and sections 1761, 1766, 1773, and 1786 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 612c and 2012 of this title and sections 1766 and 1786 of Title 42, and amending provisions set out as notes under sections 612c, 1731, and 2012 of this title] may be cited as the ‘Hunger Prevention Act of 1988’.”
 
-Pub. L. 100–232, § 1, Jan. 5, 1988, 101 Stat. 1566, provided that: “This Act [amending section 2014 of this title and enacting provisions set out as a note under section 612c of this title] may be cited as the ‘Charitable Assistance and Food Bank Act of 1987’.”
+Pub. L. 100–232, § 1, Jan. 5, 1988, 101 Stat. 1566, provided that: “This Act [amending section 2014 of this title and enacting provisions set out as a note under section 612c of this title] may be cited as the ‘Charitable Assistance and Food Bank Act of 1987’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–570, title XI, § 11001, Oct. 27, 1986, 100 Stat. 3207–167, provided that: “This title [amending sections 2012, 2018 and 2019 of this title, sections 1531 and 1603 of Title 29, Labor, sections 3003 and 3020 [now 5103 and 5120] of Title 38, Veterans’ Benefits, and sections 1383 and 1396a of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under section 2012 of this title, sections 5103 and 5120 of Title 38, and sections 602, 1383 and 1396a of Title 42] may be cited as the ‘Homeless Eligibility Clarification Act’.”
+Pub. L. 99–570, title XI, § 11001, Oct. 27, 1986, 100 Stat. 3207–167, provided that: “This title [amending sections 2012, 2018 and 2019 of this title, sections 1531 and 1603 of Title 29, Labor, sections 3003 and 3020 [now 5103 and 5120] of Title 38, Veterans’ Benefits, and sections 1383 and 1396a of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under section 2012 of this title, sections 5103 and 5120 of Title 38, and sections 602, 1383 and 1396a of Title 42] may be cited as the ‘Homeless Eligibility Clarification Act’.”
 
 **Short Title of 1982 Amendment**
 
-Pub. L. 97–253, title I, § 140, Sept. 8, 1982, 96 Stat. 772, provided that: “This subtitle [subtitle E (§§ 140–193) of title I of Pub. L. 97–253, amending sections 2012, 2014, 2015, 2016, 2017, 2018, 2020, 2021, 2022, 2023, 2025, 2026, 2027, 2028, and 2029 of this title and enacting provisions set out as notes under sections 1624, 2012, and 2028 of this title] may be cited as the ‘Food Stamp Act Amendments of 1982’.”
+Pub. L. 97–253, title I, § 140, Sept. 8, 1982, 96 Stat. 772, provided that: “This subtitle [subtitle E (§§ 140–193) of title I of Pub. L. 97–253, amending sections 2012, 2014, 2015, 2016, 2017, 2018, 2020, 2021, 2022, 2023, 2025, 2026, 2027, 2028, and 2029 of this title and enacting provisions set out as notes under sections 1624, 2012, and 2028 of this title] may be cited as the ‘Food Stamp Act Amendments of 1982’.”
 
 **Short Title of 1981 Amendment**
 
-Pub. L. 97–98, title XIII, § 1301, Dec. 22, 1981, 95 Stat. 1282, provided that: “This title [enacting sections 2029 and 2270 of this title, amending sections 2012, 2014 to 2016, 2018 to 2020, and 2023 to 2027 of this title, enacting a provision set out as a note under section 2012 of this title, and amending provisions set out as notes under section 612c of this title] may be cited as the ‘Food Stamp and Commodity Distribution Amendments of 1981’.”
+Pub. L. 97–98, title XIII, § 1301, Dec. 22, 1981, 95 Stat. 1282, provided that: “This title [enacting sections 2029 and 2270 of this title, amending sections 2012, 2014 to 2016, 2018 to 2020, and 2023 to 2027 of this title, enacting a provision set out as a note under section 2012 of this title, and amending provisions set out as notes under section 612c of this title] may be cited as the ‘Food Stamp and Commodity Distribution Amendments of 1981’.”
 
 **Short Title of 1980 Amendment**
 
-Pub. L. 96–249, § 1, May 26, 1980, 94 Stat. 357, provided: “That this Act [amending sections 2012, 2014, 2015, 2019, 2020, and 2024 to 2027 of this title, sections 6103 and 7213 of Title 26, Internal Revenue Code, and sections 503 and 504 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 2014 and 2026 of this title, section 6103 of Title 26, and section 503 of Title 42] may be cited as the ‘Food Stamp Act Amendments of 1980’.”
+Pub. L. 96–249, § 1, May 26, 1980, 94 Stat. 357, provided: “That this Act [amending sections 2012, 2014, 2015, 2019, 2020, and 2024 to 2027 of this title, sections 6103 and 7213 of Title 26, Internal Revenue Code, and sections 503 and 504 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 2014 and 2026 of this title, section 6103 of Title 26, and section 503 of Title 42] may be cited as the ‘Food Stamp Act Amendments of 1980’.”
 
 **Short Title of 1976 Amendment**
 
-Pub. L. 94–339, § 1, July 5, 1976, 90 Stat. 799, provided: “That this Act [amending sections 2012, 2015, and 2016 of this title] may be cited as the ‘Emergency Food Stamp Vendor Accountability Act of 1976’.”
+Pub. L. 94–339, § 1, July 5, 1976, 90 Stat. 799, provided: “That this Act [amending sections 2012, 2015, and 2016 of this title] may be cited as the ‘Emergency Food Stamp Vendor Accountability Act of 1976’.”
 
 **Short Title**
 
-Pub. L. 88–525, § 1, Aug. 31, 1964, 78 Stat. 703, as amended by Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958; Pub. L. 110–234, title IV, § 4001(a), May 22, 2008, 122 Stat. 1092; Pub. L. 110–246, § 4(a), title IV, § 4001(a), June 18, 2008, 122 Stat. 1664, 1853, provided that: “This Act [enacting this chapter] may be cited as the ‘Food and Nutrition Act of 2008’.”
+Pub. L. 88–525, § 1, Aug. 31, 1964, 78 Stat. 703, as amended by Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958; Pub. L. 110–234, title IV, § 4001(a), May 22, 2008, 122 Stat. 1092; Pub. L. 110–246, § 4(a), title IV, § 4001(a), June 18, 2008, 122 Stat. 1664, 1853, provided that: “This Act [enacting this chapter] may be cited as the ‘Food and Nutrition Act of 2008’.”
 
 **Supplemental Nutrition Assistance Program During COVID–19 Public Health Emergency**
 
-Pub. L. 116–260, div. N, title VII, § 702, Dec. 27, 2020, 134 Stat. 2092, as amended by Pub. L. 117–2, title I, § 1101(a), Mar. 11, 2021, 135 Stat. 15, provided that:
+Pub. L. 116–260, div. N, title VII, § 702, Dec. 27, 2020, 134 Stat. 2092, as amended by Pub. L. 117–2, title I, § 1101(a), Mar. 11, 2021, 135 Stat. 15, provided that:
 
 > **“(a) Value of Benefits.—** Notwithstanding any other provision of law, beginning on January 1, 2021, and for each subsequent month through September 30, 2021, the value of benefits determined under section 8(a) of the Food and Nutrition Act of 2008 (7 U.S.C. 15 [sic] 2017(a)) shall be calculated using 115 percent of the June 2020 value of the thrifty food plan (as defined in section 3 of such Act (7 U.S.C. 2012)) if the value of the benefits would be greater under that calculation than in the absence of this subsection.
 
@@ -163,7 +163,7 @@ Pub. L. 116–260, div. N, title VII, § 702, Dec. 27, 2020, 134 Stat. 2092, a
 
 **Assistance for Households During School Closures**
 
-Pub. L. 116–127, div. A, title I, § 1101, Mar. 18, 2020, 134 Stat. 179, as amended by Pub. L. 116–159, div. D, title VI, § 4601, Oct. 1, 2020, 134 Stat. 744; Pub. L. 116–260, div. N, title VII, § 721, Dec. 27, 2020, 134 Stat. 2096; Pub. L. 117–2, title I, § 1108, Mar. 11, 2021, 135 Stat. 18; Pub. L. 117–328, div. HH, title IV, §§ 502(d), 503(a), Dec. 29, 2022, 136 Stat. 5994, provided that:
+Pub. L. 116–127, div. A, title I, § 1101, Mar. 18, 2020, 134 Stat. 179, as amended by Pub. L. 116–159, div. D, title VI, § 4601, Oct. 1, 2020, 134 Stat. 744; Pub. L. 116–260, div. N, title VII, § 721, Dec. 27, 2020, 134 Stat. 2096; Pub. L. 117–2, title I, § 1108, Mar. 11, 2021, 135 Stat. 18; Pub. L. 117–328, div. HH, title IV, §§ 502(d), 503(a), Dec. 29, 2022, 136 Stat. 5994, provided that:
 
 > **“(a) Public Health Emergency.—** In any school year in which there is a public health emergency designation, in any case in which a school is closed or has reduced the number of days or hours that students attend the school for at least 5 consecutive days during a public health emergency designation during which the school would otherwise be in session or in a covered summer period following a school session, each household containing at least 1 member who is an eligible child attending the school shall be eligible to receive assistance pursuant to a state [sic] agency plan approved under subsection (b).
 
@@ -231,7 +231,7 @@ Pub. L. 116–127, div. A, title I, § 1101, Mar. 18, 2020, 134 Stat. 179, as 
 
 **SNAP Waivers**
 
-Pub. L. 116–127, div. B, title III, Mar. 18, 2020, 134 Stat. 187, as amended by Pub. L. 116–159, div. D, title VI, § 4603(a)(3), Oct. 1, 2020, 134 Stat. 746; Pub. L. 117–328, div. HH, title IV, § 503(b), Dec. 29, 2022, 136 Stat. 5994, provided that:
+Pub. L. 116–127, div. B, title III, Mar. 18, 2020, 134 Stat. 187, as amended by Pub. L. 116–159, div. D, title VI, § 4603(a)(3), Oct. 1, 2020, 134 Stat. 746; Pub. L. 117–328, div. HH, title IV, § 503(b), Dec. 29, 2022, 136 Stat. 5994, provided that:
 
 > **“SEC. 2301. SNAP FLEXIBILITY FOR LOW-INCOME JOBLESS WORKERS**
 
@@ -267,7 +267,7 @@ Pub. L. 116–127, div. B, title III, Mar. 18, 2020, 134 Stat. 187, as amended b
 
 **Study of National Database for Federal Means-Tested Public Assistance Programs**
 
-Pub. L. 105–379, § 2, Nov. 12, 1998, 112 Stat. 3399, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(A), (B), (2)(PP), May 22, 2008, 122 Stat. 1095, 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(A), (B), (2)(PP), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
+Pub. L. 105–379, § 2, Nov. 12, 1998, 112 Stat. 3399, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(A), (B), (2)(PP), May 22, 2008, 122 Stat. 1095, 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(A), (B), (2)(PP), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
 
 > **“(a) In General.—** The Secretary of Agriculture shall conduct a study of options for the design, development, implementation, and operation of a national database to track participation in Federal means-tested public assistance programs.
 
@@ -293,7 +293,7 @@ Pub. L. 105–379, § 2, Nov. 12, 1998, 112 Stat. 3399, as amended by Pub. L. 
 
 **Welfare Simplification and Coordination Advisory Committee**
 
-Pub. L. 101–624, title XVII, § 1778, Nov. 28, 1990, 104 Stat. 3814, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(A), (D), (2)(KK), May 22, 2008, 122 Stat. 1095, 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(A), (D), (2)(KK), June 18, 2008, 122 Stat. 1857, 1859, provided that:
+Pub. L. 101–624, title XVII, § 1778, Nov. 28, 1990, 104 Stat. 3814, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(A), (D), (2)(KK), May 22, 2008, 122 Stat. 1095, 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(A), (D), (2)(KK), June 18, 2008, 122 Stat. 1857, 1859, provided that:
 
 > **“(a) Appointment and Membership.—**
 
@@ -321,11 +321,11 @@ Pub. L. 101–624, title XVII, § 1778, Nov. 28, 1990, 104 Stat. 3814, as amen
 
 **Rules**
 
-Pub. L. 99–198, title XV, § 1583, Dec. 23, 1985, 99 Stat. 1595, provided that: “Not later than April 1, 1987, the Secretary shall issue rules to carry out the amendments made by this title [amending sections 612c, 1431e, 2012 to 2023, and 2025 to 2029 of this title, section 49b of Title 29, Labor, and section 503 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under section 612c of this title].”
+Pub. L. 99–198, title XV, § 1583, Dec. 23, 1985, 99 Stat. 1595, provided that: “Not later than April 1, 1987, the Secretary shall issue rules to carry out the amendments made by this title [amending sections 612c, 1431e, 2012 to 2023, and 2025 to 2029 of this title, section 49b of Title 29, Labor, and section 503 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under section 612c of this title].”
 
 **Implementation of 1977 Amendment; Savings Provision; Availability of Appropriated Funds; Report**
 
-Pub. L. 95–113, title XIII, § 1303, Sept. 29, 1997, 91 Stat. 979, as amended by Pub. L. 97–375, title I, § 103(a), Dec. 21, 1982, 96 Stat. 1819, provided that:
+Pub. L. 95–113, title XIII, § 1303, Sept. 29, 1997, 91 Stat. 979, as amended by Pub. L. 97–375, title I, § 103(a), Dec. 21, 1982, 96 Stat. 1819, provided that:
 
 > **“(a)** The Secretary of Agriculture shall implement the Food Stamp Act of 1977 [now the Food and Nutrition Act of 2008, this chapter] as expeditiously as possible consistent with the efficient and effective administration of the food stamp program. The provisions of the Food Stamp Act of 1964, as amended [this chapter prior to amendment by Pub. L. 95–113], which are relevant to current regulations of the Secretary governing the food stamp program, shall remain in effect until such regulations are revoked, superseded, amended, or modified by regulations issued pursuant to the Food Stamp Act of 1977. Coupons issued pursuant to the Food Stamp Act of 1964, as amended, and in general use as of the effective date of the Food Stamp Act of 1977 [Oct. 1, 1977], shall continue to be usable to purchase food, and all other liabilities of the Secretary, States, and applicant or participating households, under the Food Stamp Act of 1964, as amended, shall continue in force until finally resolved or terminated by administrative or judicial action, or otherwise.
 
@@ -333,15 +333,15 @@ Pub. L. 95–113, title XIII, § 1303, Sept. 29, 1997, 91 Stat. 979, as amende
 
 > **“(c)** Appropriations made available to carry out the Food Stamp Act of 1964, as amended, shall be available to carry out the provisions of the Food Stamp Act of 1977.
 
-> **“(d) [Repealed. Pub. L. 97–375, title I, § 103(a), Dec. 1, 1982, 96 Stat. 1819.]** ”
+> **“(d) [Repealed. Pub. L. 97–375, title I, § 103(a), Dec. 1, 1982, 96 Stat. 1819.]** ”
 
 [References to the food stamp program established under the Food and Nutrition Act of 2008 considered to refer to the supplemental nutrition assistance program established under that Act, see section 4002(c) of Pub. L. 110–246, set out as a note under section 2012 of this title.]
 
 **Definitions**
 
-Pub. L. 116–260, div. N, title VII, § 701, Dec. 27, 2020, 134 Stat. 2092, provided that:
+Pub. L. 116–260, div. N, title VII, § 701, Dec. 27, 2020, 134 Stat. 2092, provided that:
 
-> “In this chapter [chapter 1 (§§ 701–704) of subtitle A of title VII of div. N of Pub. L. 116–260, enacting provisions set out as notes under this section and section 2016 of this title and amending provisions set out as a note under section 2012 of this title]—
+> “In this chapter [chapter 1 (§§ 701–704) of subtitle A of title VII of div. N of Pub. L. 116–260, enacting provisions set out as notes under this section and section 2016 of this title and amending provisions set out as a note under section 2012 of this title]—
 
 > **“(1) Covid-19 public health emergency.—** The term ‘COVID-19 public health emergency’ means a public health emergency declared or renewed by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247d) based on an outbreak of coronavirus disease 2019 (COVID-19).
 
@@ -351,7 +351,7 @@ Pub. L. 116–260, div. N, title VII, § 701, Dec. 27, 2020, 134 Stat. 2092, p
 
 > **“(4) SNAP.—** The term ‘SNAP’ refers to the supplemental nutrition assistance program.”
 
-## § 2012. Definitions
+## § 2012. Definitions
 
 As used in this chapter, the term:
 
@@ -557,17 +557,17 @@ as determined by visual inspection, sales records, purchase records, counting of
 
 **(v)** “Tribal organization” means the recognized governing body of an Indian tribe (including the tribally recognized intertribal organization of such tribes), as the term “Indian tribe” is defined in section 5304 of title 25, as well as any Indian tribe, band, or community holding a treaty with a State government.
 
-(Pub. L. 88–525, § 3, Aug. 31, 1964, 78 Stat. 703; Pub. L. 91–671, § 2, Jan. 11, 1971, 84 Stat. 2048; Pub. L. 92–603, title IV, § 411(a), (b), Oct. 30, 1972, 86 Stat. 1491; Pub. L. 93–86, § 3(a)–(c), (*l*), (*o*), (p), Aug. 10, 1973, 87 Stat. 246, 248, 249; Pub. L. 93–125, § 1(h), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, § 4, July 5, 1976, 90 Stat. 801; Pub. L. 95–113, title XIII, §§ 1301, 1302(a)(1), Sept. 29, 1977, 91 Stat. 958, 979; Pub. L. 96–58, §§ 3, 7, Aug. 14, 1979, 93 Stat. 390, 392; Pub. L. 96–181, § 15(b), Jan. 2, 1980, 93 Stat. 1316; Pub. L. 96–249, title I, §§ 101(a), 111, 135, May 26, 1980, 94 Stat. 357, 360, 369; Pub. L. 97–35, title I, §§ 101–103, 108(a), 116(a)(1), Aug. 13, 1981, 95 Stat. 358, 361, 364; Pub. L. 97–98, title XII, §§ 1302–1304, Dec. 22, 1981, 95 Stat. 1282; Pub. L. 97–253, title I, §§ 142, 143(a), 144, 145(a), (b), Sept. 8, 1982, 96 Stat. 772–774; Pub. L. 98–204, § 3, Dec. 2, 1983, 97 Stat. 1385; Pub. L. 99–198, title XV, §§ 1501(a), 1502–1504, Dec. 23, 1985, 99 Stat. 1566; Pub. L. 99–570, title XI, § 11002(a)–(c), Oct. 27, 1986, 100 Stat. 3207–167, 3207–168; Pub. L. 100–77, title VIII, §§ 801, 802(a), July 22, 1987, 101 Stat. 533, 534; Pub. L. 100–435, title I, § 120, title III, § 350, Sept. 19, 1988, 102 Stat. 1655, 1664; Pub. L. 101–624, title XVII, §§ 1712, 1713(a), 1747(b), Nov. 28, 1990, 104 Stat. 3783, 3796; Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–237, title IX, §§ 901, 941(1), Dec. 13, 1991, 105 Stat. 1884, 1891; Pub. L. 102–351, § 1, Aug. 26, 1992, 106 Stat. 937; Pub. L. 103–66, title XIII, §§ 13931, 13932, Aug. 10, 1993, 107 Stat. 676; Pub. L. 103–225, title I, § 101(b)(1), title II, § 201, Mar. 25, 1994, 108 Stat. 107, 108; Pub. L. 103–354, title III, § 303(a), Oct. 13, 1994, 108 Stat. 3239; Pub. L. 104–193, title VIII, §§ 801–805, Aug. 22, 1996, 110 Stat. 2308, 2309; Pub. L. 107–171, title IV, §§ 4112(b)(1), 4115(b)(1), May 13, 2002, 116 Stat. 312, 315; Pub. L. 108–199, div. A, title VII, § 771(a), Jan. 23, 2004, 118 Stat. 40; Pub. L. 110–234, title IV, §§ 4001(b), 4115(b)(1), May 22, 2008, 122 Stat. 1092, 1105; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4115(b)(1), June 18, 2008, 122 Stat. 1664, 1853, 1866; Pub. L. 113–79, title IV, §§ 4001, 4002(a), 4003(a), 4012, 4014(c), 4030(a), Feb. 7, 2014, 128 Stat. 782, 784, 793, 794, 813; Pub. L. 115–334, title IV, §§ 4001(a), 4002, 4003(c), 4022(1), Dec. 20, 2018, 132 Stat. 4624, 4627, 4653; Pub. L. 119–21, title I, § 10101(a), July 4, 2025, 139 Stat. 80.)
+(Pub. L. 88–525, § 3, Aug. 31, 1964, 78 Stat. 703; Pub. L. 91–671, § 2, Jan. 11, 1971, 84 Stat. 2048; Pub. L. 92–603, title IV, § 411(a), (b), Oct. 30, 1972, 86 Stat. 1491; Pub. L. 93–86, § 3(a)–(c), (*l*), (*o*), (p), Aug. 10, 1973, 87 Stat. 246, 248, 249; Pub. L. 93–125, § 1(h), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, § 4, July 5, 1976, 90 Stat. 801; Pub. L. 95–113, title XIII, §§ 1301, 1302(a)(1), Sept. 29, 1977, 91 Stat. 958, 979; Pub. L. 96–58, §§ 3, 7, Aug. 14, 1979, 93 Stat. 390, 392; Pub. L. 96–181, § 15(b), Jan. 2, 1980, 93 Stat. 1316; Pub. L. 96–249, title I, §§ 101(a), 111, 135, May 26, 1980, 94 Stat. 357, 360, 369; Pub. L. 97–35, title I, §§ 101–103, 108(a), 116(a)(1), Aug. 13, 1981, 95 Stat. 358, 361, 364; Pub. L. 97–98, title XII, §§ 1302–1304, Dec. 22, 1981, 95 Stat. 1282; Pub. L. 97–253, title I, §§ 142, 143(a), 144, 145(a), (b), Sept. 8, 1982, 96 Stat. 772–774; Pub. L. 98–204, § 3, Dec. 2, 1983, 97 Stat. 1385; Pub. L. 99–198, title XV, §§ 1501(a), 1502–1504, Dec. 23, 1985, 99 Stat. 1566; Pub. L. 99–570, title XI, § 11002(a)–(c), Oct. 27, 1986, 100 Stat. 3207–167, 3207–168; Pub. L. 100–77, title VIII, §§ 801, 802(a), July 22, 1987, 101 Stat. 533, 534; Pub. L. 100–435, title I, § 120, title III, § 350, Sept. 19, 1988, 102 Stat. 1655, 1664; Pub. L. 101–624, title XVII, §§ 1712, 1713(a), 1747(b), Nov. 28, 1990, 104 Stat. 3783, 3796; Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–237, title IX, §§ 901, 941(1), Dec. 13, 1991, 105 Stat. 1884, 1891; Pub. L. 102–351, § 1, Aug. 26, 1992, 106 Stat. 937; Pub. L. 103–66, title XIII, §§ 13931, 13932, Aug. 10, 1993, 107 Stat. 676; Pub. L. 103–225, title I, § 101(b)(1), title II, § 201, Mar. 25, 1994, 108 Stat. 107, 108; Pub. L. 103–354, title III, § 303(a), Oct. 13, 1994, 108 Stat. 3239; Pub. L. 104–193, title VIII, §§ 801–805, Aug. 22, 1996, 110 Stat. 2308, 2309; Pub. L. 107–171, title IV, §§ 4112(b)(1), 4115(b)(1), May 13, 2002, 116 Stat. 312, 315; Pub. L. 108–199, div. A, title VII, § 771(a), Jan. 23, 2004, 118 Stat. 40; Pub. L. 110–234, title IV, §§ 4001(b), 4115(b)(1), May 22, 2008, 122 Stat. 1092, 1105; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4115(b)(1), June 18, 2008, 122 Stat. 1664, 1853, 1866; Pub. L. 113–79, title IV, §§ 4001, 4002(a), 4003(a), 4012, 4014(c), 4030(a), Feb. 7, 2014, 128 Stat. 782, 784, 793, 794, 813; Pub. L. 115–334, title IV, §§ 4001(a), 4002, 4003(c), 4022(1), Dec. 20, 2018, 132 Stat. 4624, 4627, 4653; Pub. L. 119–21, title I, § 10101(a), July 4, 2025, 139 Stat. 80.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsecs. (c), (j), (k), and (m)(5)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Titles I, II, X, XIV, XVI, XVIII, and XIX of the Social Security Act are classified generally to subchapters I (§ 301 et seq.), II (§ 401 et seq.), X (§ 1201 et seq.), XIV (§ 1351 et seq.), XVI (§ 1381 et seq.), XVIII (§ 1395 et seq.), and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c), (j), (k), and (m)(5)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Titles I, II, X, XIV, XVI, XVIII, and XIX of the Social Security Act are classified generally to subchapters I (§ 301 et seq.), II (§ 401 et seq.), X (§ 1201 et seq.), XIV (§ 1351 et seq.), XVI (§ 1381 et seq.), XVIII (§ 1395 et seq.), and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Public Health Service Act, referred to in subsec. (h), is act July 1, 1944, ch. 373, 58 Stat. 682. Part B of title XIX of the Act is classified generally to part B (§ 300x et seq.) of subchapter XVII of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (h), is act July 1, 1944, ch. 373, 58 Stat. 682. Part B of title XIX of the Act is classified generally to part B (§ 300x et seq.) of subchapter XVII of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
-The Railroad Retirement Act of 1974, referred to in subsec. (j)(7), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+The Railroad Retirement Act of 1974, referred to in subsec. (j)(7), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 **Codification**
 
@@ -577,253 +577,253 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2025—Subsec. (u). Pub. L. 119–21 added subsec. (u) and struck out former subsec. (u) which defined thrifty food plan and outlined adjustments to be made by the Secretary.
 
-2018—Subsec. (d)(1). Pub. L. 115–334, § 4022(1)(A), substituted “section 2016(h)” for “section 2016(i)”.
+2018—Subsec. (d)(1). Pub. L. 115–334, § 4022(1)(A), substituted “section 2016(h)” for “section 2016(i)”.
 
-Subsec. (i). Pub. L. 115–334, § 4022(1)(A), substituted “section 2016(h)” for “section 2016(i)”.
+Subsec. (i). Pub. L. 115–334, § 4022(1)(A), substituted “section 2016(h)” for “section 2016(i)”.
 
-Subsec. (*o*)(1). Pub. L. 115–334, § 4001(a), substituted “establishment, house-to-house trade route, or online entity” for “establishment or house-to-house trade route” in introductory provisions.
+Subsec. (*o*)(1). Pub. L. 115–334, § 4001(a), substituted “establishment, house-to-house trade route, or online entity” for “establishment or house-to-house trade route” in introductory provisions.
 
-Subsec. (*o*)(1)(A). Pub. L. 115–334, § 4022(1)(B), substituted “subsection (q)(1)” for “subsection (r)(1)”.
+Subsec. (*o*)(1)(A). Pub. L. 115–334, § 4022(1)(B), substituted “subsection (q)(1)” for “subsection (r)(1)”.
 
-Subsec. (u). Pub. L. 115–334, § 4002, inserted in introductory provisions “By 2022 and at 5-year intervals thereafter, the Secretary shall re-evaluate and publish the market baskets of the thrifty food plan based on current food prices, food composition data, consumption patterns, and dietary guidance.”
+Subsec. (u). Pub. L. 115–334, § 4002, inserted in introductory provisions “By 2022 and at 5-year intervals thereafter, the Secretary shall re-evaluate and publish the market baskets of the thrifty food plan based on current food prices, food composition data, consumption patterns, and dietary guidance.”
 
-Subsec. (v). Pub. L. 115–334, § 4003(c), substituted “section 5304 of title 25” for “the Indian Self-Determination Act (25 U.S.C. 450b(b))”.
+Subsec. (v). Pub. L. 115–334, § 4003(c), substituted “section 5304 of title 25” for “the Indian Self-Determination Act (25 U.S.C. 450b(b))”.
 
-2014—Subsec. (g). Pub. L. 113–79, § 4030(a)(1), substituted “coupon” for “coupon,” before period at end.
+2014—Subsec. (g). Pub. L. 113–79, § 4030(a)(1), substituted “coupon” for “coupon,” before period at end.
 
-Subsec. (k). Pub. L. 113–79, § 4014(c), inserted “subject to section 2018(h) of this title” after “concessional prices” wherever appearing.
+Subsec. (k). Pub. L. 113–79, § 4014(c), inserted “subject to section 2018(h) of this title” after “concessional prices” wherever appearing.
 
-Subsec. (k)(1). Pub. L. 113–79, § 4001, substituted “hot foods” for “and hot foods” and inserted at end “and any deposit fee in excess of the amount of the State fee reimbursement (if any) required to purchase any food or food product contained in a returnable bottle or can, regardless of whether the fee is included in the shelf price posted for the food or food product,”.
+Subsec. (k)(1). Pub. L. 113–79, § 4001, substituted “hot foods” for “and hot foods” and inserted at end “and any deposit fee in excess of the amount of the State fee reimbursement (if any) required to purchase any food or food product contained in a returnable bottle or can, regardless of whether the fee is included in the shelf price posted for the food or food product,”.
 
-Subsec. (k)(7). Pub. L. 113–79, § 4030(a)(2), substituted “and individuals” for “or are individuals”.
+Subsec. (k)(7). Pub. L. 113–79, § 4030(a)(2), substituted “and individuals” for “or are individuals”.
 
-Subsec. (*l*) to (*o*). Pub. L. 113–79, § 4030(a)(3), (4), redesignated subsecs. (m) to (p) as (*l*) to (*o*), respectively, and struck out former subsec. (*l*) which read as follows: “ ‘Supplemental nutrition assistance program’ means the program operated pursuant to the provisions of this chapter.”
+Subsec. (*l*) to (*o*). Pub. L. 113–79, § 4030(a)(3), (4), redesignated subsecs. (m) to (p) as (*l*) to (*o*), respectively, and struck out former subsec. (*l*) which read as follows: “ ‘Supplemental nutrition assistance program’ means the program operated pursuant to the provisions of this chapter.”
 
-Subsec. (*o*)(4). Pub. L. 113–79, § 4012, inserted “, or agricultural producers who market agricultural products directly to consumers” after “such food”.
+Subsec. (*o*)(4). Pub. L. 113–79, § 4012, inserted “, or agricultural producers who market agricultural products directly to consumers” after “such food”.
 
-Subsec. (p). Pub. L. 113–79, § 4030(a)(4), redesignated subsec. (q) as (p). Former subsec. (p) redesignated (*o*).
+Subsec. (p). Pub. L. 113–79, § 4030(a)(4), redesignated subsec. (q) as (p). Former subsec. (p) redesignated (*o*).
 
-Subsec. (p)(1)(A). Pub. L. 113–79, § 4002(a), inserted “at least 7” after “a variety of” and substituted “at least 3” for “at least 2”.
+Subsec. (p)(1)(A). Pub. L. 113–79, § 4002(a), inserted “at least 7” after “a variety of” and substituted “at least 3” for “at least 2”.
 
-Subsec. (p)(5). Pub. L. 113–79, § 4003(a), added par. (5).
+Subsec. (p)(5). Pub. L. 113–79, § 4003(a), added par. (5).
 
-Subsecs. (q) to (s). Pub. L. 113–79, § 4030(a)(4), redesignated subsecs. (r) to (t) as (q) to (s), respectively. Former subsec. (q) redesignated (p).
+Subsecs. (q) to (s). Pub. L. 113–79, § 4030(a)(4), redesignated subsecs. (r) to (t) as (q) to (s), respectively. Former subsec. (q) redesignated (p).
 
-Subsec. (t). Pub. L. 113–79, § 4030(a)(5), added subsec. (t).
+Subsec. (t). Pub. L. 113–79, § 4030(a)(5), added subsec. (t).
 
-Pub. L. 113–79, § 4030(a)(4), redesignated subsec. (t) as (s).
+Pub. L. 113–79, § 4030(a)(4), redesignated subsec. (t) as (s).
 
-2008—Pub. L. 110–246, § 4115(b)(1)(M), redesignated subsecs. (a) to (v) as (b), (d), (f), (g), (e), (h), (k), (*l*), (n), (*o*), (p), (q), (s), (t), (u), (v), (c), (j), (m), (a), (r), and (i), respectively.
+2008—Pub. L. 110–246, § 4115(b)(1)(M), redesignated subsecs. (a) to (v) as (b), (d), (f), (g), (e), (h), (k), (*l*), (n), (*o*), (p), (q), (s), (t), (u), (v), (c), (j), (m), (a), (r), and (i), respectively.
 
-Subsec. (a). Pub. L. 110–246, § 4115(b)(1)(A), substituted “benefits” for “coupons”.
+Subsec. (a). Pub. L. 110–246, § 4115(b)(1)(A), substituted “benefits” for “coupons”.
 
-Subsec. (b). Pub. L. 110–246, § 4115(b)(1)(B), added subsec. (b) and struck out former subsec. (b) which read as follows: “ ‘Authorization card’ means the document issued by the State agency to an eligible household which shows the allotment the household is entitled to be issued.”
+Subsec. (b). Pub. L. 110–246, § 4115(b)(1)(B), added subsec. (b) and struck out former subsec. (b) which read as follows: “ ‘Authorization card’ means the document issued by the State agency to an eligible household which shows the allotment the household is entitled to be issued.”
 
-Subsec. (c). Pub. L. 110–246, § 4115(b)(1)(C), substituted “benefits” for “authorization cards” in first sentence.
+Subsec. (c). Pub. L. 110–246, § 4115(b)(1)(C), substituted “benefits” for “authorization cards” in first sentence.
 
-Subsec. (d). Pub. L. 110–246, § 4115(b)(1)(D), struck out “or access device, including an electronic benefit transfer card or personal identification number, issued pursuant to the provisions of this chapter” before period at end.
+Subsec. (d). Pub. L. 110–246, § 4115(b)(1)(D), struck out “or access device, including an electronic benefit transfer card or personal identification number, issued pursuant to the provisions of this chapter” before period at end.
 
-Subsec. (e). Pub. L. 110–246, § 4115(b)(1)(E), inserted heading and substituted “The term ‘benefit issuer’ means” for “ ‘Coupon issuer’ means” and “benefits” for “coupons”.
+Subsec. (e). Pub. L. 110–246, § 4115(b)(1)(E), inserted heading and substituted “The term ‘benefit issuer’ means” for “ ‘Coupon issuer’ means” and “benefits” for “coupons”.
 
-Subsec. (g)(7). Pub. L. 110–246, § 4115(b)(1)(F), substituted “subsection (j)” for “subsection (r)”.
+Subsec. (g)(7). Pub. L. 110–246, § 4115(b)(1)(F), substituted “subsection (j)” for “subsection (r)”.
 
-Subsec. (h). Pub. L. 110–246, § 4001(b), which directed the substitution of “supplemental nutrition assistance program” for “food stamp program” wherever appearing, was executed by substituting “Supplemental nutrition assistance program” for “Food stamp program”, to reflect the probable intent of Congress.
+Subsec. (h). Pub. L. 110–246, § 4001(b), which directed the substitution of “supplemental nutrition assistance program” for “food stamp program” wherever appearing, was executed by substituting “Supplemental nutrition assistance program” for “Food stamp program”, to reflect the probable intent of Congress.
 
-Subsec. (i)(5)(B). Pub. L. 110–246, § 4115(b)(1)(G)(i), substituted “subsection (j)” for “subsection (r)”.
+Subsec. (i)(5)(B). Pub. L. 110–246, § 4115(b)(1)(G)(i), substituted “subsection (j)” for “subsection (r)”.
 
-Subsec. (i)(5)(D). Pub. L. 110–246, § 4115(b)(1)(G)(ii), substituted “benefits” for “coupons”.
+Subsec. (i)(5)(D). Pub. L. 110–246, § 4115(b)(1)(G)(ii), substituted “benefits” for “coupons”.
 
-Subsec. (j). Pub. L. 110–246, § 4115(b)(1)(H), struck out “(as that term is defined in subsection (p) of this section)” after “tribal organization”.
+Subsec. (j). Pub. L. 110–246, § 4115(b)(1)(H), struck out “(as that term is defined in subsection (p) of this section)” after “tribal organization”.
 
-Subsec. (k)(1)(A). Pub. L. 110–246, § 4115(b)(1)(I)(i), substituted “subsection (r)(1)” for “subsection (u)(1)”.
+Subsec. (k)(1)(A). Pub. L. 110–246, § 4115(b)(1)(I)(i), substituted “subsection (r)(1)” for “subsection (u)(1)”.
 
-Subsec. (k)(2). Pub. L. 110–246, § 4115(b)(1)(I)(ii), substituted “paragraphs (3), (4), (5), (7), (8), and (9) of subsection (k)” for “subsections (g)(3), (4), (5), (7), (8), and (9) of this section”.
+Subsec. (k)(2). Pub. L. 110–246, § 4115(b)(1)(I)(ii), substituted “paragraphs (3), (4), (5), (7), (8), and (9) of subsection (k)” for “subsections (g)(3), (4), (5), (7), (8), and (9) of this section”.
 
-Subsec. (k)(3). Pub. L. 110–246, § 4115(b)(1)(I)(iii), substituted “subsection (k)(6)” for “subsection (g)(6) of this section”.
+Subsec. (k)(3). Pub. L. 110–246, § 4115(b)(1)(I)(iii), substituted “subsection (k)(6)” for “subsection (g)(6) of this section”.
 
-Subsec. (n). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Subsec. (n). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsec. (t). Pub. L. 110–246, § 4115(b)(1)(J), inserted “, including point of sale devices,” after “other means of access”.
+Subsec. (t). Pub. L. 110–246, § 4115(b)(1)(J), inserted “, including point of sale devices,” after “other means of access”.
 
-Subsec. (u)(1). Pub. L. 110–246, § 4115(b)(1)(K), struck out “(as defined in subsection (g) of this section)” after “foods” in introductory provisions.
+Subsec. (u)(1). Pub. L. 110–246, § 4115(b)(1)(K), struck out “(as defined in subsection (g) of this section)” after “foods” in introductory provisions.
 
-Subsec. (v). Pub. L. 110–246, § 4115(b)(1)(L), added subsec. (v).
+Subsec. (v). Pub. L. 110–246, § 4115(b)(1)(L), added subsec. (v).
 
-2004—Subsec. (*o*)(4). Pub. L. 108–199 inserted before period at end “, and except that on October 1, 2003, in the case of households residing in Alaska and Hawaii the Secretary may not reduce the cost of such diet in effect on September 30, 2002”.
+2004—Subsec. (*o*)(4). Pub. L. 108–199 inserted before period at end “, and except that on October 1, 2003, in the case of households residing in Alaska and Hawaii the Secretary may not reduce the cost of such diet in effect on September 30, 2002”.
 
-2002—Subsec. (c). Pub. L. 107–171, § 4115(b)(1), inserted at end “The limits specified in this subsection may be extended until the end of any transitional benefit period established under section 2020(s) of this title.”
+2002—Subsec. (c). Pub. L. 107–171, § 4115(b)(1), inserted at end “The limits specified in this subsection may be extended until the end of any transitional benefit period established under section 2020(s) of this title.”
 
-Subsec. (i)(1). Pub. L. 107–171, § 4112(b)(1)(A), (B), designated first sentence as par. (1) and redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), respectively.
+Subsec. (i)(1). Pub. L. 107–171, § 4112(b)(1)(A), (B), designated first sentence as par. (1) and redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), respectively.
 
-Subsec. (i)(2). Pub. L. 107–171, § 4112(b)(1)(C), designated second sentence as par. (2). Former par. (2) redesignated subpar. (B) of par. (1).
+Subsec. (i)(2). Pub. L. 107–171, § 4112(b)(1)(C), designated second sentence as par. (2). Former par. (2) redesignated subpar. (B) of par. (1).
 
-Subsec. (i)(3). Pub. L. 107–171, § 4112(b)(1)(D), (E), designated third sentence as par. (3) and substituted “Notwithstanding paragraphs (1) and (2)” for “Notwithstanding the preceding sentences”.
+Subsec. (i)(3). Pub. L. 107–171, § 4112(b)(1)(D), (E), designated third sentence as par. (3) and substituted “Notwithstanding paragraphs (1) and (2)” for “Notwithstanding the preceding sentences”.
 
-Subsec. (i)(4). Pub. L. 107–171, § 4112(b)(1)(F), designated fourth sentence as par. (4).
+Subsec. (i)(4). Pub. L. 107–171, § 4112(b)(1)(F), designated fourth sentence as par. (4).
 
-Subsec. (i)(5). Pub. L. 107–171, § 4112(b)(1)(G), (H), designated fifth sentence as par. (5), substituted “For the purposes of this subsection, the following persons shall not be considered to be residents of institutions and shall be considered to be individual households:” for “For the purposes of this subsection,”, restructured the remainder of that sentence into five sentences and designated them as subpars. (A) to (E) respectively, and struck out “shall not be considered residents of institutions and shall be considered individual households” at end.
+Subsec. (i)(5). Pub. L. 107–171, § 4112(b)(1)(G), (H), designated fifth sentence as par. (5), substituted “For the purposes of this subsection, the following persons shall not be considered to be residents of institutions and shall be considered to be individual households:” for “For the purposes of this subsection,”, restructured the remainder of that sentence into five sentences and designated them as subpars. (A) to (E) respectively, and struck out “shall not be considered residents of institutions and shall be considered individual households” at end.
 
-1996—Subsec. (c). Pub. L. 104–193, § 801, substituted second and third sentences containing provisions relating to limits on certification period and requirement of yearly contact with household for provisions setting limits to certification period for households required to submit periodic reports, households whose members all receive federal assistance grant, households of unemployable, elderly or primarily self-employed individuals, and all other households, and allowing waivers.
+1996—Subsec. (c). Pub. L. 104–193, § 801, substituted second and third sentences containing provisions relating to limits on certification period and requirement of yearly contact with household for provisions setting limits to certification period for households required to submit periodic reports, households whose members all receive federal assistance grant, households of unemployable, elderly or primarily self-employed individuals, and all other households, and allowing waivers.
 
-Subsec. (d). Pub. L. 104–193, § 802, substituted “type of certificate, authorization card, cash or check issued in lieu of a coupon, or access device, including an electronic benefit transfer card or personal identification number,” for “or type of certificate”.
+Subsec. (d). Pub. L. 104–193, § 802, substituted “type of certificate, authorization card, cash or check issued in lieu of a coupon, or access device, including an electronic benefit transfer card or personal identification number,” for “or type of certificate”.
 
-Subsec. (i). Pub. L. 104–193, § 803, in second sentence, struck out “(who are not themselves parents living with their children or married and living with their spouses)” after “age or younger”.
+Subsec. (i). Pub. L. 104–193, § 803, in second sentence, struck out “(who are not themselves parents living with their children or married and living with their spouses)” after “age or younger”.
 
-Subsec. (*o*). Pub. L. 104–193, § 804, in second sentence, substituted “the Secretary shall—” for “the Secretary shall”, realigned margins of pars. (1) to (3), substituted semicolon for comma at end of pars. (1) and (2) and “; and” for comma at end of par. (3), added par. (4), and struck out former pars. (4) to (11) which authorized adjustment of cost of thrifty food plan diet to reflect changes in cost of food constituting diet for period from Jan. 1, 1980, to Oct. 1, 1990, and each Oct. 1 thereafter, and prohibited Secretary from reducing cost of such diet on Oct. 1, 1992, and, in case of households residing in Alaska, on Oct. 1, 1994.
+Subsec. (*o*). Pub. L. 104–193, § 804, in second sentence, substituted “the Secretary shall—” for “the Secretary shall”, realigned margins of pars. (1) to (3), substituted semicolon for comma at end of pars. (1) and (2) and “; and” for comma at end of par. (3), added par. (4), and struck out former pars. (4) to (11) which authorized adjustment of cost of thrifty food plan diet to reflect changes in cost of food constituting diet for period from Jan. 1, 1980, to Oct. 1, 1990, and each Oct. 1 thereafter, and prohibited Secretary from reducing cost of such diet on Oct. 1, 1992, and, in case of households residing in Alaska, on Oct. 1, 1994.
 
-Subsec. (s)(2)(C). Pub. L. 104–193, § 805, inserted “for not more than 90 days” after “temporary accommodation”.
+Subsec. (s)(2)(C). Pub. L. 104–193, § 805, inserted “for not more than 90 days” after “temporary accommodation”.
 
-1994—Subsec. (c). Pub. L. 103–225, § 101(b)(1), substituted “Except as provided in section 2015(c)(1)(C) of this title, for” for “For”.
+1994—Subsec. (c). Pub. L. 103–225, § 101(b)(1), substituted “Except as provided in section 2015(c)(1)(C) of this title, for” for “For”.
 
-Subsec. (k). Pub. L. 103–225, § 201(1), realigned margins of pars. (1) to (4), substituted semicolon for comma at end of pars. (2) and (3), and substituted “means—” for “means” and par. (1) for former par. (1) which read as follows: “an establishment or recognized department thereof or house-to-house trade route, over 50 per centum of whose food sales volume, as determined by visual inspection, sales records, purchase records, or other inventory or accounting recordkeeping methods that are customary or reasonable in the retail food industry, consists of staple food items for home preparation and consumption, such as meat, poultry, fish, bread, cereals, vegetables, fruits, dairy products, and the like, but not including accessory food items, such as coffee, tea, cocoa, carbonated and uncarbonated drinks, candy, condiments, and spices,”.
+Subsec. (k). Pub. L. 103–225, § 201(1), realigned margins of pars. (1) to (4), substituted semicolon for comma at end of pars. (2) and (3), and substituted “means—” for “means” and par. (1) for former par. (1) which read as follows: “an establishment or recognized department thereof or house-to-house trade route, over 50 per centum of whose food sales volume, as determined by visual inspection, sales records, purchase records, or other inventory or accounting recordkeeping methods that are customary or reasonable in the retail food industry, consists of staple food items for home preparation and consumption, such as meat, poultry, fish, bread, cereals, vegetables, fruits, dairy products, and the like, but not including accessory food items, such as coffee, tea, cocoa, carbonated and uncarbonated drinks, candy, condiments, and spices,”.
 
 Subsec. (*o*)(11). Pub. L. 103–354 inserted “and (in the case of households residing in Alaska) on October 1, 1994,” after “1992,”.
 
-Subsec. (u). Pub. L. 103–225, § 201(2), added subsec. (u).
+Subsec. (u). Pub. L. 103–225, § 201(2), added subsec. (u).
 
-1993—Subsec. (g)(5). Pub. L. 103–66, § 13932(2), inserted “, and their children,” after “or alcoholics”.
+1993—Subsec. (g)(5). Pub. L. 103–66, § 13932(2), inserted “, and their children,” after “or alcoholics”.
 
-Subsec. (i). Pub. L. 103–66, § 13932(1), in last sentence inserted “, together with their children,” after “narcotics addicts or alcoholics”.
+Subsec. (i). Pub. L. 103–66, § 13932(1), in last sentence inserted “, together with their children,” after “narcotics addicts or alcoholics”.
 
-Pub. L. 103–66, § 13931, in first sentence, substituted “or (2) a group of individuals” for “(2) a group of individuals” and substituted a period for “, ” after end of cl. (2), inserted “Spouses who live together, parents and their children 21 years of age or younger (who are not themselves parents living with their children or married and living with their spouses) who live together, and children (excluding foster children) under 18 years of age who live with and are under the parental control of a person other than their parent together with the person exercising parental control” before “shall be treated as a group of individuals” to create new second sentence and struck out “, unless one of the parents, or siblings, is an elderly or disabled member” after “if they do not do so”, and in next sentence substituted “Notwithstanding the preceding sentences” for “Notwithstanding clause (1) of the preceding sentence”.
+Pub. L. 103–66, § 13931, in first sentence, substituted “or (2) a group of individuals” for “(2) a group of individuals” and substituted a period for “, ” after end of cl. (2), inserted “Spouses who live together, parents and their children 21 years of age or younger (who are not themselves parents living with their children or married and living with their spouses) who live together, and children (excluding foster children) under 18 years of age who live with and are under the parental control of a person other than their parent together with the person exercising parental control” before “shall be treated as a group of individuals” to create new second sentence and struck out “, unless one of the parents, or siblings, is an elderly or disabled member” after “if they do not do so”, and in next sentence substituted “Notwithstanding the preceding sentences” for “Notwithstanding clause (1) of the preceding sentence”.
 
-1992—Subsec. (*o*)(11). Pub. L. 102–351 inserted before period at end “, except that on October 1, 1992, the Secretary may not reduce the cost of such diet”.
+1992—Subsec. (*o*)(11). Pub. L. 102–351 inserted before period at end “, except that on October 1, 1992, the Secretary may not reduce the cost of such diet”.
 
-1991—Subsecs. (g)(7), (i). Pub. L. 102–237, § 901, inserted “, or are individuals described in paragraphs (2) through (7) of subsection (r),” after “title I, II, X, XIV, or XVI of the Social Security Act”.
+1991—Subsecs. (g)(7), (i). Pub. L. 102–237, § 901, inserted “, or are individuals described in paragraphs (2) through (7) of subsection (r),” after “title I, II, X, XIV, or XVI of the Social Security Act”.
 
-Subsec. (j). Pub. L. 102–237, § 941(1)(A), made technical amendment to reference to subsection (p) of this section involving corresponding provision of original act.
+Subsec. (j). Pub. L. 102–237, § 941(1)(A), made technical amendment to reference to subsection (p) of this section involving corresponding provision of original act.
 
-Subsec. (*o*)(6). Pub. L. 102–237, § 941(1)(B), substituted “percent” for “per centun” [sic].
+Subsec. (*o*)(6). Pub. L. 102–237, § 941(1)(B), substituted “percent” for “per centun” [sic].
 
 Subsec. (r)(6)(A). Pub. L. 102–83 substituted “section 1314 of title 38” for “section 414 of title 38”.
 
-Subsecs. (t), (u). Pub. L. 102–237, § 941(1)(C), redesignated subsec. (u) as (t).
+Subsecs. (t), (u). Pub. L. 102–237, § 941(1)(C), redesignated subsec. (u) as (t).
 
-1990—Subsec. (g)(3). Pub. L. 101–624, § 1712(a)(1), substituted “or disability or blindness payments under title I, II, X, XIV, or XVI” for “under title XVI”.
+1990—Subsec. (g)(3). Pub. L. 101–624, § 1712(a)(1), substituted “or disability or blindness payments under title I, II, X, XIV, or XVI” for “under title XVI”.
 
-Subsec. (g)(7). Pub. L. 101–624, § 1712(a)(2), substituted “title I, II, X, XIV, or XVI” for “title II or title XVI”, and inserted “or under standards determined by the Secretary to be comparable to standards implemented by appropriate State agencies under such section”.
+Subsec. (g)(7). Pub. L. 101–624, § 1712(a)(2), substituted “title I, II, X, XIV, or XVI” for “title II or title XVI”, and inserted “or under standards determined by the Secretary to be comparable to standards implemented by appropriate State agencies under such section”.
 
-Subsec. (g)(9). Pub. L. 101–624, § 1713(a), substituted “individuals and by private establishments that contract with the appropriate agency of the State to offer meals for such individuals at concessional prices” for “individuals and by a public or private nonprofit shelter (approved by an appropriate State or local agency) in which such households temporarily reside (except that such establishments and shelters may only request voluntary use of food stamps by such individuals and may not request such households to pay more than the average cost of the food contained in a meal served by the establishment or shelter).”
+Subsec. (g)(9). Pub. L. 101–624, § 1713(a), substituted “individuals and by private establishments that contract with the appropriate agency of the State to offer meals for such individuals at concessional prices” for “individuals and by a public or private nonprofit shelter (approved by an appropriate State or local agency) in which such households temporarily reside (except that such establishments and shelters may only request voluntary use of food stamps by such individuals and may not request such households to pay more than the average cost of the food contained in a meal served by the establishment or shelter).”
 
-Subsec. (i). Pub. L. 101–624, § 1712(b), substituted “title I, II, X, XIV, or XVI” for “title II or title XVI”, and inserted “or under standards determined by the Secretary to be comparable to standards implemented by appropriate State agencies under such section”.
+Subsec. (i). Pub. L. 101–624, § 1712(b), substituted “title I, II, X, XIV, or XVI” for “title II or title XVI”, and inserted “or under standards determined by the Secretary to be comparable to standards implemented by appropriate State agencies under such section”.
 
-Subsec. (u). Pub. L. 101–624, § 1747(b), added subsec. (u).
+Subsec. (u). Pub. L. 101–624, § 1747(b), added subsec. (u).
 
-1988—Subsec. (*o*). Pub. L. 100–435, § 120, inserted “through October 1, 1987” in cl. (8) and substituted cls. (9) to (11) for proviso that periods upon which adjustments are based would be subject to revision by Act of Congress.
+1988—Subsec. (*o*). Pub. L. 100–435, § 120, inserted “through October 1, 1987” in cl. (8) and substituted cls. (9) to (11) for proviso that periods upon which adjustments are based would be subject to revision by Act of Congress.
 
-Subsec. (r)(2). Pub. L. 100–435, § 350, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “receives supplemental security income benefits under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.), federally or State administered supplemental benefits of the type described in section 1616(a) of the Social Security Act if the Secretary determines that such benefits are conditioned on meeting the disability or blindness criteria used under title XVI of the Social Security Act, or federally or State administered supplemental benefits of the type described in section 212(a) of Public Law 93–66 (42 U.S.C. 1382 note);”.
+Subsec. (r)(2). Pub. L. 100–435, § 350, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “receives supplemental security income benefits under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.), federally or State administered supplemental benefits of the type described in section 1616(a) of the Social Security Act if the Secretary determines that such benefits are conditioned on meeting the disability or blindness criteria used under title XVI of the Social Security Act, or federally or State administered supplemental benefits of the type described in section 212(a) of Public Law 93–66 (42 U.S.C. 1382 note);”.
 
-1987—Subsec. (i). Pub. L. 100–77, § 802(a), substituted “(2)” for “or (2)”, inserted cl. (3), and inserted “(other than as provided in clause (3))” after “except that”.
+1987—Subsec. (i). Pub. L. 100–77, § 802(a), substituted “(2)” for “or (2)”, inserted cl. (3), and inserted “(other than as provided in clause (3))” after “except that”.
 
-Subsec. (s). Pub. L. 100–77, § 801, added subsec. (s).
+Subsec. (s). Pub. L. 100–77, § 801, added subsec. (s).
 
-1986—Subsec. (g). Pub. L. 99–570, § 11002(a), substituted “(8), and (9)” for “and (8)” in cl. (1) and added cl. (9).
+1986—Subsec. (g). Pub. L. 99–570, § 11002(a), substituted “(8), and (9)” for “and (8)” in cl. (1) and added cl. (9).
 
-Subsec. (i). Pub. L. 99–570, § 11002(b), inserted “residents of public or private nonprofit shelters for individuals who do not reside in permanent dwellings or have no fixed mailing addresses, who are otherwise eligible for coupons,”.
+Subsec. (i). Pub. L. 99–570, § 11002(b), inserted “residents of public or private nonprofit shelters for individuals who do not reside in permanent dwellings or have no fixed mailing addresses, who are otherwise eligible for coupons,”.
 
-Subsec. (k). Pub. L. 99–570, § 11002(c), substituted “(8), and (9)” for “and (8)”.
+Subsec. (k). Pub. L. 99–570, § 11002(c), substituted “(8), and (9)” for “and (8)”.
 
-1985—Subsec. (f). Pub. L. 99–198, § 1501(a)(1), substituted “, or a publicly operated community mental health center, under part B of title XIX of the Public Health Service Act (42 U.S.C. 300x et seq.) to provide” for “which is certified by the State agency or agencies designated by the Governor as responsible for the administration of the State’s programs for alcoholics and drug addicts pursuant to Public Law 91–616 (Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970) and Public Law 92–255 (Drug Abuse Prevention, Treatment, and Rehabilitation Act) as providing”.
+1985—Subsec. (f). Pub. L. 99–198, § 1501(a)(1), substituted “, or a publicly operated community mental health center, under part B of title XIX of the Public Health Service Act (42 U.S.C. 300x et seq.) to provide” for “which is certified by the State agency or agencies designated by the Governor as responsible for the administration of the State’s programs for alcoholics and drug addicts pursuant to Public Law 91–616 (Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970) and Public Law 92–255 (Drug Abuse Prevention, Treatment, and Rehabilitation Act) as providing”.
 
-Subsec. (i). Pub. L. 99–198, § 1501(a)(2), inserted “, or a publicly operated community mental health center,” after “private nonprofit institution” in last sentence.
+Subsec. (i). Pub. L. 99–198, § 1501(a)(2), inserted “, or a publicly operated community mental health center,” after “private nonprofit institution” in last sentence.
 
-Subsec. (k). Pub. L. 99–198, § 1502, inserted “, as determined by visual inspection, sales records, purchase records, or other inventory or accounting recordkeeping methods that are customary or reasonable in the retail food industry,” in cl. (1).
+Subsec. (k). Pub. L. 99–198, § 1502, inserted “, as determined by visual inspection, sales records, purchase records, or other inventory or accounting recordkeeping methods that are customary or reasonable in the retail food industry,” in cl. (1).
 
-Subsec. (*o*). Pub. L. 99–198, § 1503, substituted “fifty” for “fifty-four”.
+Subsec. (*o*). Pub. L. 99–198, § 1503, substituted “fifty” for “fifty-four”.
 
-Subsec. (r)(2). Pub. L. 99–198, § 1504(1), inserted “, federally or State administered supplemental benefits of the type described in section 1616(a) of the Social Security Act [42 U.S.C. 1382e(a)] if the Secretary determines that such benefits are conditioned on meeting the disability or blindness criteria used under title XVI of the Social Security Act, or federally or State administered supplemental benefits of the type described in section 212(a) of Public Law 93–66 (42 U.S.C. 1382 note)”.
+Subsec. (r)(2). Pub. L. 99–198, § 1504(1), inserted “, federally or State administered supplemental benefits of the type described in section 1616(a) of the Social Security Act [42 U.S.C. 1382e(a)] if the Secretary determines that such benefits are conditioned on meeting the disability or blindness criteria used under title XVI of the Social Security Act, or federally or State administered supplemental benefits of the type described in section 212(a) of Public Law 93–66 (42 U.S.C. 1382 note)”.
 
-Subsec. (r)(3). Pub. L. 99–198, § 1504(2), inserted “or receives disability retirement benefits from a governmental agency because of a disability considered permanent under section 221(i) of the Social Security Act (42 U.S.C. 421(i))”.
+Subsec. (r)(3). Pub. L. 99–198, § 1504(2), inserted “or receives disability retirement benefits from a governmental agency because of a disability considered permanent under section 221(i) of the Social Security Act (42 U.S.C. 421(i))”.
 
-Subsec. (r)(4)(A). Pub. L. 99–198, § 1504(3), inserted “or non-service-connected” after “service-connected”.
+Subsec. (r)(4)(A). Pub. L. 99–198, § 1504(3), inserted “or non-service-connected” after “service-connected”.
 
-Subsec. (r)(7). Pub. L. 99–198, § 1504(4)–(6), added par. (7).
+Subsec. (r)(7). Pub. L. 99–198, § 1504(4)–(6), added par. (7).
 
-1983—Subsec. (c). Pub. L. 98–204, § 3(1), substituted “the foregoing limits on the certification period may, with the approval of the Secretary, be waived by a State agency for certain categories of households where such waiver will improve the administration of the program” for “the limit of twelve months may be waived by the Secretary to improve the administration of the program” in provisions preceding par. (1).
+1983—Subsec. (c). Pub. L. 98–204, § 3(1), substituted “the foregoing limits on the certification period may, with the approval of the Secretary, be waived by a State agency for certain categories of households where such waiver will improve the administration of the program” for “the limit of twelve months may be waived by the Secretary to improve the administration of the program” in provisions preceding par. (1).
 
-Subsec. (c)(2). Pub. L. 98–204, § 3(2), inserted provision that “The maximum limit of twelve months for such period under the foregoing proviso may be waived by the Secretary where such waiver will improve the administration of the program.”
+Subsec. (c)(2). Pub. L. 98–204, § 3(2), inserted provision that “The maximum limit of twelve months for such period under the foregoing proviso may be waived by the Secretary where such waiver will improve the administration of the program.”
 
-1982—Subsec. (i). Pub. L. 97–253, §§ 142, 145(b), substituted “except that parents and children, or siblings, who live together shall be treated as a group of individuals who customarily purchase and prepare meals together for home consumption even if they do not do so, unless one of the parents, or siblings, is an elderly or disabled member” for “except that parents and children who live together shall be treated as a group of individuals who customarily purchase and prepare meals together for home consumption even if they do not do so, unless one of the parents is sixty years of age or older, or receives supplemental security income benefits under title XVI of the Social Security Act or disability or blindness payments under title I, II, X, XIV, or XVI of the Social Security Act”, and inserted provision that notwithstanding cl. (1) of the preceding sentence, an individual who lives with others, who is sixty years of age or older, and who is unable to purchase food and prepare meals because such individual suffers, as certified by a licensed physician, from a disability which would be considered a permanent disability under section 221(i) of the Social Security Act (42 U.S.C. 421(i)) or from a severe, permanent, and disabling physical or mental infirmity which is not symptomatic of a disease shall be considered, together with any of the others who is the spouse of such individual, an individual household, without regard to the purchase of food and preparation of meals, if the income (as determined under section 2014(d) of this title) of the others, excluding the spouse, does not exceed the poverty line, as described in section 2014(c)(1) of this title, by more than 65 per centum.
+1982—Subsec. (i). Pub. L. 97–253, §§ 142, 145(b), substituted “except that parents and children, or siblings, who live together shall be treated as a group of individuals who customarily purchase and prepare meals together for home consumption even if they do not do so, unless one of the parents, or siblings, is an elderly or disabled member” for “except that parents and children who live together shall be treated as a group of individuals who customarily purchase and prepare meals together for home consumption even if they do not do so, unless one of the parents is sixty years of age or older, or receives supplemental security income benefits under title XVI of the Social Security Act or disability or blindness payments under title I, II, X, XIV, or XVI of the Social Security Act”, and inserted provision that notwithstanding cl. (1) of the preceding sentence, an individual who lives with others, who is sixty years of age or older, and who is unable to purchase food and prepare meals because such individual suffers, as certified by a licensed physician, from a disability which would be considered a permanent disability under section 221(i) of the Social Security Act (42 U.S.C. 421(i)) or from a severe, permanent, and disabling physical or mental infirmity which is not symptomatic of a disease shall be considered, together with any of the others who is the spouse of such individual, an individual household, without regard to the purchase of food and preparation of meals, if the income (as determined under section 2014(d) of this title) of the others, excluding the spouse, does not exceed the poverty line, as described in section 2014(c)(1) of this title, by more than 65 per centum.
 
-Subsec. (*o*)(1). Pub. L. 97–253, § 143(a)(1), substituted “adjustments (based on the unrounded cost of such diet)” for “adjustments”.
+Subsec. (*o*)(1). Pub. L. 97–253, § 143(a)(1), substituted “adjustments (based on the unrounded cost of such diet)” for “adjustments”.
 
-Subsec. (*o*)(6). Pub. L. 97–253, §§ 143(a)(2), 144, substituted provisions requiring the Secretary, on Oct. 1, 1982, to adjust the cost of the diet to reflect changes in the cost of the thrifty food plan for the twenty-one months ending June 30, 1982, reduce the cost of such diet by one per centum, and round the result to the nearest lower dollar increment for each household size for former provision requiring the Secretary, on Oct. 1, 1982, to adjust the cost of such diet to the nearest dollar increment to reflect the changes in the cost of the thrifty food plan for the twenty-one months ending on June 30, 1982.
+Subsec. (*o*)(6). Pub. L. 97–253, §§ 143(a)(2), 144, substituted provisions requiring the Secretary, on Oct. 1, 1982, to adjust the cost of the diet to reflect changes in the cost of the thrifty food plan for the twenty-one months ending June 30, 1982, reduce the cost of such diet by one per centum, and round the result to the nearest lower dollar increment for each household size for former provision requiring the Secretary, on Oct. 1, 1982, to adjust the cost of such diet to the nearest dollar increment to reflect the changes in the cost of the thrifty food plan for the twenty-one months ending on June 30, 1982.
 
-Subsec. (*o*)(7). Pub. L. 97–253, §§ 143(a)(2), 144, substituted provisions requiring the Secretary, on Oct. 1, 1983, and Oct. 1, 1984, to adjust the cost of the diet to reflect changes in the cost of the thrifty food plan for the twelve months ending the preceding June 30, reduce the cost of such diet by one per centum, and round the result to the nearest lower dollar increment for each household size for former provision requiring the Secretary, on Oct. 1, 1983, and each Oct. 1 thereafter, to adjust the cost of such diet to the nearest dollar increment to reflect changes in the cost of the thrifty food plan for the twelve months ending the preceding June 30.
+Subsec. (*o*)(7). Pub. L. 97–253, §§ 143(a)(2), 144, substituted provisions requiring the Secretary, on Oct. 1, 1983, and Oct. 1, 1984, to adjust the cost of the diet to reflect changes in the cost of the thrifty food plan for the twelve months ending the preceding June 30, reduce the cost of such diet by one per centum, and round the result to the nearest lower dollar increment for each household size for former provision requiring the Secretary, on Oct. 1, 1983, and each Oct. 1 thereafter, to adjust the cost of such diet to the nearest dollar increment to reflect changes in the cost of the thrifty food plan for the twelve months ending the preceding June 30.
 
-Subsec. (*o*)(8). Pub. L. 97–253, §§ 143(a)(2), 144, added and amended par. (8).
+Subsec. (*o*)(8). Pub. L. 97–253, §§ 143(a)(2), 144, added and amended par. (8).
 
-Subsec. (r). Pub. L. 97–253, § 145(a), added subsec. (r).
+Subsec. (r). Pub. L. 97–253, § 145(a), added subsec. (r).
 
-1981—Subsec. (c). Pub. L. 97–35, § 108(a), inserted provisions respecting waiver of twelve-month period for improvement of program.
+1981—Subsec. (c). Pub. L. 97–35, § 108(a), inserted provisions respecting waiver of twelve-month period for improvement of program.
 
-Subsec. (i). Pub. L. 97–98, § 1302, inserted provision relating to supplemental security income benefits under title XVI of the Social Security Act or disability or blindness payments under title I, II, X, XIV, or XVI of the Social Security Act.
+Subsec. (i). Pub. L. 97–98, § 1302, inserted provision relating to supplemental security income benefits under title XVI of the Social Security Act or disability or blindness payments under title I, II, X, XIV, or XVI of the Social Security Act.
 
-Pub. L. 97–35, §§ 101, 102, inserted provisions relating to treatment as a group of parents and children who live together, and restructured provisions respecting living with others and paying compensation for meals.
+Pub. L. 97–35, §§ 101, 102, inserted provisions relating to treatment as a group of parents and children who live together, and restructured provisions respecting living with others and paying compensation for meals.
 
-Subsec. (m). Pub. L. 97–35, § 116(a)(1), struck out reference to Puerto Rico.
+Subsec. (m). Pub. L. 97–35, § 116(a)(1), struck out reference to Puerto Rico.
 
-Subsec. (*o*). Pub. L. 97–98, §§ 1303, 1304, substituted in cl. (2) “Hawaii and the urban and rural parts of Alaska to reflect the cost of food in Hawaii and urban and rural Alaska” for “Alaska and Hawaii to reflect the cost of food in those States”, in cl. (6) provision that on Oct. 1, 1982, the Secretary adjust the cost of such diet to reflect changes for the twenty-one months ending the preceding June 30, 1982, for provision that on Apr. 1, 1982, the Secretary adjust the cost of such diet to reflect changes for the fifteen months ending the preceding Dec. 31, in cl. (7) provision that on Oct. 1, 1983, and each Oct. 1 thereafter, the Secretary adjust the cost of such diet to reflect changes for the twelve months ending the preceding June 30, for provision that on July 1, 1983, the Secretary adjust the cost of such diet to reflect changes for the fifteen months ending the preceding Mar. 31, struck out cl. (8) which provided that on Oct. 1, 1984, the Secretary adjust the cost of such diet to reflect changes for the fifteen months ending the preceding June 30, and struck out cl. (9) which provided that on Oct. 1, 1985, and each Oct. 1 thereafter, the Secretary adjust the cost of such diet to reflect changes for the twelve months ending the preceding June 30, and, as of every Jan. 1 thereafter, for the nine months ending the preceding Sept. 30 and the subsequent three months ending Dec. 31 as projected by the Secretary in light of the best available data, and inserted provision that the periods upon which adjustments are based be subject to revision by Act of Congress.
+Subsec. (*o*). Pub. L. 97–98, §§ 1303, 1304, substituted in cl. (2) “Hawaii and the urban and rural parts of Alaska to reflect the cost of food in Hawaii and urban and rural Alaska” for “Alaska and Hawaii to reflect the cost of food in those States”, in cl. (6) provision that on Oct. 1, 1982, the Secretary adjust the cost of such diet to reflect changes for the twenty-one months ending the preceding June 30, 1982, for provision that on Apr. 1, 1982, the Secretary adjust the cost of such diet to reflect changes for the fifteen months ending the preceding Dec. 31, in cl. (7) provision that on Oct. 1, 1983, and each Oct. 1 thereafter, the Secretary adjust the cost of such diet to reflect changes for the twelve months ending the preceding June 30, for provision that on July 1, 1983, the Secretary adjust the cost of such diet to reflect changes for the fifteen months ending the preceding Mar. 31, struck out cl. (8) which provided that on Oct. 1, 1984, the Secretary adjust the cost of such diet to reflect changes for the fifteen months ending the preceding June 30, and struck out cl. (9) which provided that on Oct. 1, 1985, and each Oct. 1 thereafter, the Secretary adjust the cost of such diet to reflect changes for the twelve months ending the preceding June 30, and, as of every Jan. 1 thereafter, for the nine months ending the preceding Sept. 30 and the subsequent three months ending Dec. 31 as projected by the Secretary in light of the best available data, and inserted provision that the periods upon which adjustments are based be subject to revision by Act of Congress.
 
-Pub. L. 97–35, §§ 103, 116(a)(1) struck out applicability to Puerto Rico in clause (3), substituted provisions respecting adjustments on Apr. 1, 1982, for provisions respecting adjustments on Jan. 1, 1982, in cl. (6), and added cls. (7) to (9).
+Pub. L. 97–35, §§ 103, 116(a)(1) struck out applicability to Puerto Rico in clause (3), substituted provisions respecting adjustments on Apr. 1, 1982, for provisions respecting adjustments on Jan. 1, 1982, in cl. (6), and added cls. (7) to (9).
 
-1980—Subsec. (c). Pub. L. 96–249, § 111, inserted provisions requiring that for those households that are required to submit periodic reports under section 2015(c)(1) of this title, the certification period be at least six months but no longer than twelve months.
+1980—Subsec. (c). Pub. L. 96–249, § 111, inserted provisions requiring that for those households that are required to submit periodic reports under section 2015(c)(1) of this title, the certification period be at least six months but no longer than twelve months.
 
 Subsec. (f). Pub. L. 96–181 substituted “Drug Abuse Prevention, Treatment, and Rehabilitation Act” for “Drug Abuse Office and Treatment Act of 1972”.
 
-Subsec. (g). Pub. L. 96–249, § 101(a)(1)–(3), substituted “(7), and (8)” for “and (7)” in cl. (1) and added cl. (8).
+Subsec. (g). Pub. L. 96–249, § 101(a)(1)–(3), substituted “(7), and (8)” for “and (7)” in cl. (1) and added cl. (8).
 
-Subsec. (i). Pub. L. 96–249, § 101(a)(4), inserted “temporary residents of public or private nonprofit shelters for battered women and children,” after “section 1616(e) of the Social Security Act,”.
+Subsec. (i). Pub. L. 96–249, § 101(a)(4), inserted “temporary residents of public or private nonprofit shelters for battered women and children,” after “section 1616(e) of the Social Security Act,”.
 
-Subsec. (k)(2). Pub. L. 96–249, § 101(a)(5), substituted “(7), and (8)” for “and (7)”.
+Subsec. (k)(2). Pub. L. 96–249, § 101(a)(5), substituted “(7), and (8)” for “and (7)”.
 
-Subsec. (*o*). Pub. L. 96–249, § 135, inserted “through January 1, 1980,” before “adjust the cost” in cl. (4) and added cls. (5) and (6).
+Subsec. (*o*). Pub. L. 96–249, § 135, inserted “through January 1, 1980,” before “adjust the cost” in cl. (4) and added cls. (5) and (6).
 
-1979—Subsec. (g). Pub. L. 96–58, § 7(1)–(3), substituted “clauses (3), (4), (5), and (7)” for “clauses (3), (4), and (5)” and added cl. (7) relating to disabled or blind recipients of benefits who are residents in certain public or private nonprofit group living arrangements.
+1979—Subsec. (g). Pub. L. 96–58, § 7(1)–(3), substituted “clauses (3), (4), (5), and (7)” for “clauses (3), (4), and (5)” and added cl. (7) relating to disabled or blind recipients of benefits who are residents in certain public or private nonprofit group living arrangements.
 
-Subsec. (i). Pub. L. 96–58, § 7(4), (5), inserted provisions relating to disabled or blind recipients of benefits who are residents in certain public or private nonprofit group living arrangements and inserted provisions that all residents of federally subsidized housing for the elderly, disabled or blind recipients of benefits, and narcotic addicts or alcoholics who live under the supervision of a private nonprofit institution for the purpose of regular participation in a drug or alcoholic treatment program be considered individual households.
+Subsec. (i). Pub. L. 96–58, § 7(4), (5), inserted provisions relating to disabled or blind recipients of benefits who are residents in certain public or private nonprofit group living arrangements and inserted provisions that all residents of federally subsidized housing for the elderly, disabled or blind recipients of benefits, and narcotic addicts or alcoholics who live under the supervision of a private nonprofit institution for the purpose of regular participation in a drug or alcoholic treatment program be considered individual households.
 
-Subsec. (k). Pub. L. 96–58, § 7(6), inserted reference to group living arrangements referred to in subsec. (g)(7) of this section in cl. (2).
+Subsec. (k). Pub. L. 96–58, § 7(6), inserted reference to group living arrangements referred to in subsec. (g)(7) of this section in cl. (2).
 
-Subsec. (q). Pub. L. 96–58, § 3, added subsec. (q).
+Subsec. (q). Pub. L. 96–58, § 3, added subsec. (q).
 
 1977—Pub. L. 95–113 redefined terms “Secretary”, “food”, “coupon”, “household”, “retail food store”, “State agency”, “State”, “food stamp program”, and “drug addiction or alcoholic treatment and rehabilitation program” and changed designations of those terms, as thus redefined, from subsecs. (a), (b), (c), (e), (f), (h), (j), (k), and (n), respectively, to (*l*), (g), (d), (i), (k), (n), (m), (h), and (f), substituted definitions of “allotment”, “authorization card”, and “coupon issuer” for “coupon allotment”, “authorization to purchase card”, and “coupon vendor”, respectively, and changed designations of those terms as thus substituted from subsecs. (d), (m), and (*o*), respectively, to (a), (b), and (e), struck out definitions of “wholesale food concern”, “bank”, and “elderly person” which had been set out, respectively, in subsecs. (g), (i), and (*l*), and inserted definitions of “certification period”, “reservation”, “thrifty food plan”, and “tribal organization” in subsecs. (c), (j), (*o*), and (p), respectively.
 
 1976—Subsec. (*o*). Pub. L. 94–339 added subsec. (*o*).
 
-1973—Subsec. (b). Pub. L. 93–86, § 3(*l*), substituted “home” for “human” and substituted provisions including in definition of “food” seeds and plants for use in gardens to produce food for the personal consumption of the eligible household, for provisions excluding from such definition foods identified on the package as imported and imported meat and meat products.
+1973—Subsec. (b). Pub. L. 93–86, § 3(*l*), substituted “home” for “human” and substituted provisions including in definition of “food” seeds and plants for use in gardens to produce food for the personal consumption of the eligible household, for provisions excluding from such definition foods identified on the package as imported and imported meat and meat products.
 
 Subsec. (e). Pub. L. 93–125 substituted “foregoing” for “foreoging”.
 
-Pub. L. 93–86, § 3(a), (b), (p), inserted provision of cl. (3) relating to inclusion of narcotic addict or alcoholic within definition of “household” and provision relating to residents of federally subsidized housing for the elderly, and substituted provisions relating to the treatment of individuals receiving supplemental security income benefits under subchapter XVI of chapter 7 of title 42, for provisions relating to the treatment of persons eligible to receive supplemental security income benefits under subchapter XVI of chapter 7 of title 42.
+Pub. L. 93–86, § 3(a), (b), (p), inserted provision of cl. (3) relating to inclusion of narcotic addict or alcoholic within definition of “household” and provision relating to residents of federally subsidized housing for the elderly, and substituted provisions relating to the treatment of individuals receiving supplemental security income benefits under subchapter XVI of chapter 7 of title 42, for provisions relating to the treatment of persons eligible to receive supplemental security income benefits under subchapter XVI of chapter 7 of title 42.
 
-Subsec. (f). Pub. L. 93–86, § 3(*o*), inserted references to nonprofit institution and section 2019(i) of this title.
+Subsec. (f). Pub. L. 93–86, § 3(*o*), inserted references to nonprofit institution and section 2019(i) of this title.
 
-Subsec. (n). Pub. L. 93–86, § 3(c), added subsec. (n).
+Subsec. (n). Pub. L. 93–86, § 3(c), added subsec. (n).
 
-1972—Subsec. (e). Pub. L. 92–603, § 411(a), inserted provision that persons eligible or would be eligible to receive supplemental security income benefits under sections 1381 to 1383c of Title 42, may not be considered as members of a household or elderly persons under this chapter.
+1972—Subsec. (e). Pub. L. 92–603, § 411(a), inserted provision that persons eligible or would be eligible to receive supplemental security income benefits under sections 1381 to 1383c of Title 42, may not be considered as members of a household or elderly persons under this chapter.
 
-Subsec. (h). Pub. L. 92–603, § 411(b), substituted provisions defining State agency as the agency designated by the Secretary for carrying out this chapter in such state, for provisions defining it as the agency having the responsibility for the administration of the federally aided public assistance program.
+Subsec. (h). Pub. L. 92–603, § 411(b), substituted provisions defining State agency as the agency designated by the Secretary for carrying out this chapter in such state, for provisions defining it as the agency having the responsibility for the administration of the federally aided public assistance program.
 
-1971—Subsec. (e). Pub. L. 91–671, § 2(a), substituted in definition of “household”, “related individuals (including legally adopted children and legally assigned foster children) or non-related individuals over age 60 who are not residents” for “related or non-related individuals, who are not residents”, designated existing provisions as cl. (1), and added cl. (2).
+1971—Subsec. (e). Pub. L. 91–671, § 2(a), substituted in definition of “household”, “related individuals (including legally adopted children and legally assigned foster children) or non-related individuals over age 60 who are not residents” for “related or non-related individuals, who are not residents”, designated existing provisions as cl. (1), and added cl. (2).
 
-Subsec. (f). Pub. L. 91–671, § 2(b), included in definition of “retail food store” a political subdivision or a private nonprofit organization that meets requirements of section 2019(h) of this title.
+Subsec. (f). Pub. L. 91–671, § 2(b), included in definition of “retail food store” a political subdivision or a private nonprofit organization that meets requirements of section 2019(h) of this title.
 
-Subsec. (j). Pub. L. 91–671, § 2(c), included in definition of “State” Guam, Puerto Rico, and the Virgin Islands.
+Subsec. (j). Pub. L. 91–671, § 2(c), included in definition of “State” Guam, Puerto Rico, and the Virgin Islands.
 
-Subsec. (*l*). Pub. L. 91–671, § 2(d), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 91–671, § 2(d), added subsec. (*l*).
 
-Subsec. (m). Pub. L. 91–671, § 2(e), added subsec. (m).
+Subsec. (m). Pub. L. 91–671, § 2(e), added subsec. (m).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-Pub. L. 110–234, title IV, § 4002(c), May 22, 2008, 122 Stat. 1098, and Pub. L. 110–246, § 4(a), title IV, § 4002(c), June 18, 2008, 122 Stat. 1664, 1859, provided that: “Any reference in any Federal, State, tribal, or local law (including regulations) to the ‘food stamp program’ established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) shall be considered to be a reference to the ‘supplemental nutrition assistance program’ established under that Act.”
+Pub. L. 110–234, title IV, § 4002(c), May 22, 2008, 122 Stat. 1098, and Pub. L. 110–246, § 4(a), title IV, § 4002(c), June 18, 2008, 122 Stat. 1664, 1859, provided that: “Any reference in any Federal, State, tribal, or local law (including regulations) to the ‘food stamp program’ established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) shall be considered to be a reference to the ‘supplemental nutrition assistance program’ established under that Act.”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.]
 
-Pub. L. 110–234, title IV, § 4115(d), May 22, 2008, 122 Stat. 1110, and Pub. L. 110–246, § 4(a), title IV, § 4115(d), June 18, 2008, 122 Stat. 1664, 1871, provided that: “Any reference in any Federal, State, tribal, or local law (including regulations) to a ‘coupon’, ‘authorization card’, or other access device provided under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) shall be considered to be a reference to a ‘benefit’ provided under that Act.”
+Pub. L. 110–234, title IV, § 4115(d), May 22, 2008, 122 Stat. 1110, and Pub. L. 110–246, § 4(a), title IV, § 4115(d), June 18, 2008, 122 Stat. 1664, 1871, provided that: “Any reference in any Federal, State, tribal, or local law (including regulations) to a ‘coupon’, ‘authorization card’, or other access device provided under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) shall be considered to be a reference to a ‘benefit’ provided under that Act.”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.]
 
@@ -835,7 +835,7 @@ Amendment by sections 4001(b) and 4115(b)(1) of Pub. L. 110–246 effective Oct.
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–199, div. A, title VII, § 771(b), Jan. 23, 2004, 118 Stat. 40, provided that: “The amendment made by subsection (a) [amending this section] shall be effective beginning on September 30, 2003.”
+Pub. L. 108–199, div. A, title VII, § 771(b), Jan. 23, 2004, 118 Stat. 40, provided that: “The amendment made by subsection (a) [amending this section] shall be effective beginning on September 30, 2003.”
 
 **Effective Date of 2002 Amendment**
 
@@ -843,7 +843,7 @@ Amendment by Pub. L. 107–171 effective Oct. 1, 2002, except as otherwise provi
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–354, title III, § 303(b), Oct. 13, 1994, 108 Stat. 3239, provided that: “The amendment made by subsection (a) [amending this section] shall be effective beginning on September 30, 1994.”
+Pub. L. 103–354, title III, § 303(b), Oct. 13, 1994, 108 Stat. 3239, provided that: “The amendment made by subsection (a) [amending this section] shall be effective beginning on September 30, 1994.”
 
 **Effective Date of 1993 Amendment**
 
@@ -855,7 +855,7 @@ Amendment by Pub. L. 102–237 effective and to be implemented no later than Feb
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–624, title XVII, § 1781, Nov. 28, 1990, 104 Stat. 3817, provided that:
+Pub. L. 101–624, title XVII, § 1781, Nov. 28, 1990, 104 Stat. 3817, provided that:
 
 > **“(a) In General.—** Except as otherwise provided in subsection (b) and other provisions of this title, this title [see Short Title of 1990 Amendment note set out under section 2011 of this title] and the amendments made by this title shall become effective and implemented the 1st day of the month beginning 120 days after the publication of implementing regulations. Such regulations shall be promulgated not later than October 1, 1991.
 
@@ -875,7 +875,7 @@ Pub. L. 101–624, title XVII, § 1781, Nov. 28, 1990, 104 Stat. 3817, provide
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–435, title VII, § 701, Sept. 19, 1988, 102 Stat. 1677, as amended by Pub. L. 100–619, § 1, Nov. 5, 1988, 102 Stat. 3198; Pub. L. 110–234, title IV, § 4002(b)(1)(A), (B), (2)(A), May 22, 2008, 122 Stat. 1095, 1096; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(A), (B), (2)(A), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that:
+Pub. L. 100–435, title VII, § 701, Sept. 19, 1988, 102 Stat. 1677, as amended by Pub. L. 100–619, § 1, Nov. 5, 1988, 102 Stat. 3198; Pub. L. 110–234, title IV, § 4002(b)(1)(A), (B), (2)(A), May 22, 2008, 122 Stat. 1095, 1096; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(A), (B), (2)(A), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that:
 
 > **“(a) In General.—** Except as otherwise provided for in section 503 [set out as a note under section 1766 of Title 42, The Public Health and Welfare] and in subsection (b) of this section, this Act and the amendments made by this Act [amending sections 2012, 2014 to 2017, 2020 to 2023, 2025, and 2026 of this title, section 713a–14 of Title 15, Commerce and Trade, and sections 1761, 1766, 1773, and 1786 of Title 42, enacting provisions set out as notes under sections 612c and 2011 of this title and sections 1766 and 1786 of Title 42, and amending provisions set out as notes under sections 612c, 1731, and 2012 of this title] shall become effective and be implemented on October 1, 1988.
 
@@ -919,11 +919,11 @@ Pub. L. 100–435, title VII, § 701, Sept. 19, 1988, 102 Stat. 1677, as amend
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–77, title VIII, § 802(b), July 22, 1987, 101 Stat. 534, provided that: “The amendments made by this section [amending this section] shall become effective on October 1, 1987.”
+Pub. L. 100–77, title VIII, § 802(b), July 22, 1987, 101 Stat. 534, provided that: “The amendments made by this section [amending this section] shall become effective on October 1, 1987.”
 
 **Effective and Termination Dates of 1986 Amendment**
 
-Pub. L. 99–570, title XI, § 11002(f), Oct. 27, 1986, 100 Stat. 3207–168, as amended by Pub. L. 100–435, title II, § 205, Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–624, title XVII, § 1713(b), Nov. 28, 1990, 104 Stat. 3783; Pub. L. 102–237, title IX, § 913, Dec. 13, 1991, 105 Stat. 1887, provided that:
+Pub. L. 99–570, title XI, § 11002(f), Oct. 27, 1986, 100 Stat. 3207–168, as amended by Pub. L. 100–435, title II, § 205, Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–624, title XVII, § 1713(b), Nov. 28, 1990, 104 Stat. 3783; Pub. L. 102–237, title IX, § 913, Dec. 13, 1991, 105 Stat. 1887, provided that:
 
 > **“(1)** The amendments made by this section [amending this section and sections 2018 and 2019 of this title] shall become effective, and be implemented by issuance of final regulations, not later than April 1, 1987.
 
@@ -933,33 +933,33 @@ Pub. L. 99–570, title XI, § 11002(f), Oct. 27, 1986, 100 Stat. 3207–168, 
 
 [Amendment by Pub. L. 102–237 to section 11002(f) of Pub. L. 99–570, set out above, effective Oct. 1, 1990, and not applicable with respect to any period occurring before such date, see section 1101(d)(5) of Pub. L. 102–237, set out as an Effective Date of 1991 Amendment note under section 1421 of this title.]
 
-[Pub. L. 101–624, title XVII, § 1713(b), Nov. 28, 1990, 104 Stat. 3783, provided that the amendment made by section 1713(b) to section 11002(f) of Pub. L. 99–570, set out above, is effective Sept. 29, 1990.]
+[Pub. L. 101–624, title XVII, § 1713(b), Nov. 28, 1990, 104 Stat. 3783, provided that the amendment made by section 1713(b) to section 11002(f) of Pub. L. 99–570, set out above, is effective Sept. 29, 1990.]
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–253, title I, § 193, Sept. 8, 1982, 96 Stat. 789, provided that:
+Pub. L. 97–253, title I, § 193, Sept. 8, 1982, 96 Stat. 789, provided that:
 
-> **“(a)** Except as provided in subsection (b), this subtitle [subtitle E (§§ 140–193) of title I of Pub. L. 97–253, amending this section and sections 2014, 2015, 2016, 2017, 2018, 2020, 2021, 2022, 2023, 2025, 2026, 2027, 2028, and 2029 of this title and enacting provisions set out as notes under this section and sections 1624, 2011, and 2028 of this title] and the amendments made by this subtitle shall take effect on the date of the enactment of this subtitle [Sept. 8, 1982].
+> **“(a)** Except as provided in subsection (b), this subtitle [subtitle E (§§ 140–193) of title I of Pub. L. 97–253, amending this section and sections 2014, 2015, 2016, 2017, 2018, 2020, 2021, 2022, 2023, 2025, 2026, 2027, 2028, and 2029 of this title and enacting provisions set out as notes under this section and sections 1624, 2011, and 2028 of this title] and the amendments made by this subtitle shall take effect on the date of the enactment of this subtitle [Sept. 8, 1982].
 
 > **“(b)** Sections 180 and 188 [amending sections 2020, 2025, 2027, and 2029 of this title] shall take effect on October 1, 1982.”
 
 **Effective Date of 1981 Amendments**
 
-Pub. L. 97–253, title I, § 192, Sept. 8, 1982, 96 Stat. 788, provided that:
+Pub. L. 97–253, title I, § 192, Sept. 8, 1982, 96 Stat. 788, provided that:
 
 > **“(a)** Notwithstanding section 117 of the Omnibus Budget Reconciliation Act of 1981 (7 U.S.C. 2012 note) [section 117 of Pub. L. 97–35, set out below], the amendments made by sections 101 through 114 of such Act [amending this section and sections 2014, 2015, 2017, 2020, 2022, and 2025 of this title], other than sections 107(b) and 108(c) of such Act [amending sections 2014 and 2015 of this title], shall take effect on the earlier of the date of the enactment of this subtitle [Sept. 8, 1982] or the date on which such amendments became effective pursuant to section 117 of such Act.
 
 > **“(b)** Notwithstanding section 1338 of the Agriculture and Food Act of 1981 (7 U.S.C. 2012 note) [section 1338 of Pub. L. 97–98, set out below], the amendments made by sections 1302 through 1333 of such Act [enacting section 2029 of this title and amending this section and sections 2014 to 2016, 2018 to 2020, and 2023 to 2027 of this title] shall take effect on the earlier of the date of the enactment of this subtitle [Sept. 8, 1982] or the date on which such amendments became effective pursuant to section 1338 of such Act.”
 
-Pub. L. 97–98, title XIII, § 1338, Dec. 22, 1981, 95 Stat. 1294, provided that: “Except as otherwise specifically provided, the amendments made by this title [enacting sections 2029 and 2270 of this title, amending this section and sections 2014 to 2016, 2018 to 2020, and 2023 to 2027 of this title, and enacting provisions set out as a note under section 2011 of this title] shall be effective upon such dates as the Secretary of Agriculture may prescribe, taking into account the need for orderly implementation.”
+Pub. L. 97–98, title XIII, § 1338, Dec. 22, 1981, 95 Stat. 1294, provided that: “Except as otherwise specifically provided, the amendments made by this title [enacting sections 2029 and 2270 of this title, amending this section and sections 2014 to 2016, 2018 to 2020, and 2023 to 2027 of this title, and enacting provisions set out as a note under section 2011 of this title] shall be effective upon such dates as the Secretary of Agriculture may prescribe, taking into account the need for orderly implementation.”
 
-Pub. L. 97–35, title I, § 116(a), Aug. 13, 1981, 95 Stat. 364, provided that the amendment made by section 116(a) is effective July 1, 1982.
+Pub. L. 97–35, title I, § 116(a), Aug. 13, 1981, 95 Stat. 364, provided that the amendment made by section 116(a) is effective July 1, 1982.
 
-Pub. L. 97–35, title I, § 117, Aug. 13, 1981, 95 Stat. 366, provided that: “Except as otherwise specifically provided, the amendments made by sections 101 through 116 of this Act [amending this section and sections 2014, 2015, 2017, 2020, 2022, and 2025 of this title] shall be effective and implemented upon such dates as the Secretary of Agriculture may prescribe, taking into account the need for orderly implementation.”
+Pub. L. 97–35, title I, § 117, Aug. 13, 1981, 95 Stat. 366, provided that: “Except as otherwise specifically provided, the amendments made by sections 101 through 116 of this Act [amending this section and sections 2014, 2015, 2017, 2020, 2022, and 2025 of this title] shall be effective and implemented upon such dates as the Secretary of Agriculture may prescribe, taking into account the need for orderly implementation.”
 
 **Effective Date of 1979 Amendment**
 
-Pub. L. 96–58, § 10, Aug. 14, 1979, 93 Stat. 392, provided that:
+Pub. L. 96–58, § 10, Aug. 14, 1979, 93 Stat. 392, provided that:
 
 > **“(a)** The provisions of sections 2 and 3 of this Act [amending this section and sections 2014 of this section] shall be implemented in all States by January 1, 1980, and shall not affect the rights or liabilities of the Secretary, States, and applicant or participant households, under the Food Stamp Act of 1977 [this chapter] in effect on July 1, 1979 [now the Food and Nutrition Act of 2008], until implemented.
 
@@ -969,9 +969,9 @@ Pub. L. 96–58, § 10, Aug. 14, 1979, 93 Stat. 392, provided that:
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by that section is effective Oct. 1, 1977.
+Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by that section is effective Oct. 1, 1977.
 
-Pub. L. 95–113, title XIII, § 1302(b), Sept. 29, 1977, 91 Stat. 979, provided that: “The amendments made by this section [repealing section 3(b) of Pub. L. 93–86 as described in the Repeals note below and amending section 1431 of this title and provisions set out as notes under sections 612c of this title and 1382e of Title 42, The Public Health and Welfare] shall be effective October 1, 1977.”
+Pub. L. 95–113, title XIII, § 1302(b), Sept. 29, 1977, 91 Stat. 979, provided that: “The amendments made by this section [repealing section 3(b) of Pub. L. 93–86 as described in the Repeals note below and amending section 1431 of this title and provisions set out as notes under sections 612c of this title and 1382e of Title 42, The Public Health and Welfare] shall be effective October 1, 1977.”
 
 **Effective Date of 1974 Amendment**
 
@@ -979,17 +979,17 @@ Amendment of section 8(a) of Pub. L. 93–233 by section 1(a), (b) of Pub. L. 93
 
 **Effective Date of 1972 Amendment**
 
-Pub. L. 92–603, title IV, § 411(a), Oct. 30, 1972, 86 Stat. 1491, provided that the amendment made by section 411(a) is effective January 1, 1974.
+Pub. L. 92–603, title IV, § 411(a), Oct. 30, 1972, 86 Stat. 1491, provided that the amendment made by section 411(a) is effective January 1, 1974.
 
-Pub. L. 92–603, title IV, § 411(h), Oct. 30, 1972, 86 Stat. 1492, provided that: “Except as otherwise provided in this section, the amendments made by this section [amending this section and sections 2019 and 2023 of this title] shall take effect on January 1, 1973.”
+Pub. L. 92–603, title IV, § 411(h), Oct. 30, 1972, 86 Stat. 1492, provided that: “Except as otherwise provided in this section, the amendments made by this section [amending this section and sections 2019 and 2023 of this title] shall take effect on January 1, 1973.”
 
 **Repeals**
 
-Pub. L. 93–86, § 3(b), Aug. 10, 1978, 87 Stat. 246, cited as a credit to this section, was repealed, effective Oct. 1, 1977, by section 1302(a)(1) of Pub. L. 95–113. Section 3(b) of Pub. L. 93–86 had amended the definition of “household” in 1973 to exclude individuals receiving supplementary security income benefits under title XVI of the Social Security Act in certain months. For the period beginning Jan. 1, 1974, and ending September 30, 1978, Pub. L. 93–233, § 8(a), Dec. 30, 1973, 87 Stat. 956, as amended by Pub. L. 93–335, § 1(a), (b), July 8, 1974, 88 Stat. 291; Pub. L. 94–44, § 3, June 28, 1975, 89 Stat. 235; Pub. L. 94–365, § 2, July 14, 1976, 90 Stat. 990; Pub. L. 95–59, § 3, June 30, 1977, 91 Stat. 255, provided that the amendment by section 3(b) of Pub. L. 93–86 should not be effective and that the definition of “household” should read as it did before such amendment but with the addition of a new sentence to exclude individuals receiving certain Federal or State supplementary payments under certain circumstances.
+Pub. L. 93–86, § 3(b), Aug. 10, 1978, 87 Stat. 246, cited as a credit to this section, was repealed, effective Oct. 1, 1977, by section 1302(a)(1) of Pub. L. 95–113. Section 3(b) of Pub. L. 93–86 had amended the definition of “household” in 1973 to exclude individuals receiving supplementary security income benefits under title XVI of the Social Security Act in certain months. For the period beginning Jan. 1, 1974, and ending September 30, 1978, Pub. L. 93–233, § 8(a), Dec. 30, 1973, 87 Stat. 956, as amended by Pub. L. 93–335, § 1(a), (b), July 8, 1974, 88 Stat. 291; Pub. L. 94–44, § 3, June 28, 1975, 89 Stat. 235; Pub. L. 94–365, § 2, July 14, 1976, 90 Stat. 990; Pub. L. 95–59, § 3, June 30, 1977, 91 Stat. 255, provided that the amendment by section 3(b) of Pub. L. 93–86 should not be effective and that the definition of “household” should read as it did before such amendment but with the addition of a new sentence to exclude individuals receiving certain Federal or State supplementary payments under certain circumstances.
 
 **Regulations**
 
-Pub. L. 113–79, title IV, § 4003(b), Feb. 7, 2014, 128 Stat. 785, provided that:
+Pub. L. 113–79, title IV, § 4003(b), Feb. 7, 2014, 128 Stat. 785, provided that:
 
 > **“(1) Issuance of rules.—** The Secretary [of Agriculture] shall issue regulations that—
 
@@ -1013,7 +1013,7 @@ Pub. L. 113–79, title IV, § 4003(b), Feb. 7, 2014, 128 Stat. 785, provided 
 
 **Extension of Existing SNAP Flexibilities for COVID–19**
 
-Pub. L. 116–159, div. D, title VI, § 4603(a)(1), (2), Oct. 1, 2020, 134 Stat. 745, 746, as amended by Pub. L. 116–260, div. N, title VII, § 702(g), Dec. 27, 2020, 134 Stat. 2094, provided that:
+Pub. L. 116–159, div. D, title VI, § 4603(a)(1), (2), Oct. 1, 2020, 134 Stat. 745, 746, as amended by Pub. L. 116–260, div. N, title VII, § 702(g), Dec. 27, 2020, 134 Stat. 2094, provided that:
 
 > **“(1) State options.—**
 
@@ -1031,7 +1031,7 @@ Pub. L. 116–159, div. D, title VI, § 4603(a)(1), (2), Oct. 1, 2020, 134 Sta
 
 **Continued Eligibility**
 
-Pub. L. 103–225, title II, § 205, Mar. 25, 1994, 108 Stat. 109, as amended by Pub. L. 110–234, title IV, §§ 4002(b)(1)(A), (B), (2)(B), 4115(c)(2)(B), May 22, 2008, 122 Stat. 1095, 1096, 1109; Pub. L. 110–246, § 4(a), title IV, §§ 4002(b)(1)(A), (B), (2)(B), 4115(c)(2)(B), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1871, provided that:
+Pub. L. 103–225, title II, § 205, Mar. 25, 1994, 108 Stat. 109, as amended by Pub. L. 110–234, title IV, §§ 4002(b)(1)(A), (B), (2)(B), 4115(c)(2)(B), May 22, 2008, 122 Stat. 1095, 1096, 1109; Pub. L. 110–246, § 4(a), title IV, §§ 4002(b)(1)(A), (B), (2)(B), 4115(c)(2)(B), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1871, provided that:
 
 > “An establishment or house-to-house trade route that is otherwise authorized to accept and redeem coupons under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) on the day before the date of enactment of this Act [Mar. 25, 1994] shall be considered to meet the definition of ‘retail food store’ in section 3(p) [now 3(*o*)] of that Act [now 7 U.S.C. 2012(*o*)] until the earlier of—
 
@@ -1041,7 +1041,7 @@ Pub. L. 103–225, title II, § 205, Mar. 25, 1994, 108 Stat. 109, as amended 
 
 **Report on Impact on Retail Food Stores**
 
-Pub. L. 103–225, title II, § 206, Mar. 25, 1994, 108 Stat. 109, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(A), (B), (2)(B), May 22, 2008, 122 Stat. 1095, 1096; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(A), (B), (2)(B), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that:
+Pub. L. 103–225, title II, § 206, Mar. 25, 1994, 108 Stat. 109, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(A), (B), (2)(B), May 22, 2008, 122 Stat. 1095, 1096; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(A), (B), (2)(B), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that:
 
 > “Not later than 18 months after the date of enactment of this Act [Mar. 25, 1994], the Secretary of Agriculture shall prepare and submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the impact of the amendments made by sections 201 and 202 [amending this section and section 2018 of this title] on the involvement of retail food stores in the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.), including a description of—
 
@@ -1061,11 +1061,11 @@ Pub. L. 103–225, title II, § 206, Mar. 25, 1994, 108 Stat. 109, as amended 
 
 **Continuing Eligibility of Certain Retail Food Stores**
 
-Pub. L. 103–205, § 2, Dec. 17, 1993, 107 Stat. 2418, as amended by Pub. L. 110–234, title IV, §§ 4002(b)(1)(A), (B), (2)(D), 4115(c)(1)(A)(i), (B)(i), (2)(A), May 22, 2008, 122 Stat. 1095–1097, 1109; Pub. L. 110–246, § 4(a), title IV, §§ 4002(b)(1)(A), (B), (2)(D), 4115(c)(1)(A)(i), (B)(i), (2)(A), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1870, 1871, provided that: “Notwithstanding any other provision of law, during the period beginning on the date of enactment of this Act [Dec. 17, 1993] and ending on March 15, 1994, an establishment or house-to-house trade route that is otherwise authorized to accept and redeem benefits under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) on the date of enactment of this Act may not be disqualified from participation in the supplemental nutrition assistance program solely because the establishment or trade route does not meet the definition of ‘retail food store’ under section 3(p)(1) [now 3(*o*)(1)] of such Act (7 U.S.C. 2012(k)(1) [now 2012(*o*)(1)]).”
+Pub. L. 103–205, § 2, Dec. 17, 1993, 107 Stat. 2418, as amended by Pub. L. 110–234, title IV, §§ 4002(b)(1)(A), (B), (2)(D), 4115(c)(1)(A)(i), (B)(i), (2)(A), May 22, 2008, 122 Stat. 1095–1097, 1109; Pub. L. 110–246, § 4(a), title IV, §§ 4002(b)(1)(A), (B), (2)(D), 4115(c)(1)(A)(i), (B)(i), (2)(A), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1870, 1871, provided that: “Notwithstanding any other provision of law, during the period beginning on the date of enactment of this Act [Dec. 17, 1993] and ending on March 15, 1994, an establishment or house-to-house trade route that is otherwise authorized to accept and redeem benefits under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) on the date of enactment of this Act may not be disqualified from participation in the supplemental nutrition assistance program solely because the establishment or trade route does not meet the definition of ‘retail food store’ under section 3(p)(1) [now 3(*o*)(1)] of such Act (7 U.S.C. 2012(k)(1) [now 2012(*o*)(1)]).”
 
 **Publicly Operated Community Health Centers**
 
-Pub. L. 98–107, § 101(b), Oct. 1, 1983, 97 Stat. 734, provided in part: “That notwithstanding any other provision of law or this joint resolution, the provisions of subsections (f) and (i) of section 3 and section 10 of the Food Stamp Act of 1977 [now the Food and Nutrition Act of 2008], as amended [7 U.S.C. 2012(h), (m) and 2019], concerning private, nonprofit drug addiction or alcoholic treatment and rehabilitation programs, shall also be applicable to publicly operated community health centers”.
+Pub. L. 98–107, § 101(b), Oct. 1, 1983, 97 Stat. 734, provided in part: “That notwithstanding any other provision of law or this joint resolution, the provisions of subsections (f) and (i) of section 3 and section 10 of the Food Stamp Act of 1977 [now the Food and Nutrition Act of 2008], as amended [7 U.S.C. 2012(h), (m) and 2019], concerning private, nonprofit drug addiction or alcoholic treatment and rehabilitation programs, shall also be applicable to publicly operated community health centers”.
 
 [Reference to community health center, migrant health center, public housing health center, or homeless health center considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under section 254b of Title 42, The Public Health and Welfare.]
 
@@ -1073,21 +1073,21 @@ Pub. L. 98–107, § 101(b), Oct. 1, 1983, 97 Stat. 734, provided in part: “
 
 Provisions respecting eligibility of supplemental security income recipients for food stamps during prescribed period beginning Jan. 1, 1974, see section 8(c) of Pub. L. 93–233, Dec. 31, 1974, 87 Stat. 957, set out as a note under section 1382e of Title 42, The Public Health and Welfare.
 
-## § 2012a. Publicly operated community health centers
+## § 2012a. Publicly operated community health centers
 
-Notwithstanding any other provision of law, the provisions of subsections (f) and (i) 1
+Notwithstanding any other provision of law, the provisions of subsections (f) and (i) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of section 2012 of this title and section 2019 of this title, concerning private, nonprofit drug addiction or alcohol treatment and rehabilitation programs, shall henceforth also be applicable to publicly operated community health centers.
 
-(Pub. L. 99–88, title I, § 100, Aug. 15, 1985, 99 Stat. 297.)
+(Pub. L. 99–88, title I, § 100, Aug. 15, 1985, 99 Stat. 297.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subsections (f) and (i) of section 2012 of this title, referred to in text, were redesignated subsecs. (h) and (n), respectively, by Pub. L. 110–246, title IV, § 4115(b)(1)(M), June 18, 2008, 122 Stat. 1867. Subsec. (n) was subsequently redesignated (m) by Pub. L. 113–79, title IV, § 4030(a)(4), Feb. 7, 2014, 128 Stat. 813.
+Subsections (f) and (i) of section 2012 of this title, referred to in text, were redesignated subsecs. (h) and (n), respectively, by Pub. L. 110–246, title IV, § 4115(b)(1)(M), June 18, 2008, 122 Stat. 1867. Subsec. (n) was subsequently redesignated (m) by Pub. L. 113–79, title IV, § 4030(a)(4), Feb. 7, 2014, 128 Stat. 813.
 
 **Codification**
 
@@ -1099,7 +1099,7 @@ Section was enacted as part of the Supplemental Appropriations Act, 1985, and no
 
 Reference to community health center, migrant health center, public housing health center, or homeless health center considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under section 254b of Title 42, The Public Health and Welfare.
 
-## § 2013. Establishment of supplemental nutrition assistance program
+## § 2013. Establishment of supplemental nutrition assistance program
 
 **(a) Program**
 
@@ -1235,7 +1235,7 @@ Funds made available for a fiscal year to carry out paragraph (4) shall remain a
 
 The Secretary shall issue such regulations consistent with this chapter as the Secretary deems necessary or appropriate for the effective and efficient administration of the supplemental nutrition assistance program and shall promulgate all such regulations in accordance with the procedures set forth in section 553 of title 5. In addition, prior to issuing any regulation, the Secretary shall provide the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a copy of the regulation with a detailed statement justifying it.
 
-(Pub. L. 88–525, § 4, Aug. 31, 1964, 78 Stat. 704; Pub. L. 91–671, § 3, Jan. 11, 1971, 84 Stat. 2049; Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 961; Pub. L. 99–198, title XV, §§ 1505(a), 1506, Dec. 23, 1985, 99 Stat. 1567; Pub. L. 110–234, title IV, §§ 4001(b), 4002(a)(1), 4111(a), 4115(b)(2), 4211(a), May 22, 2008, 122 Stat. 1092, 1102, 1106, 1122; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4002(a)(1), 4111(a), 4115(b)(2), 4211(a), June 18, 2008, 122 Stat. 1664, 1853, 1863, 1867, 1884; Pub. L. 111–296, title II, § 241(b)(1), Dec. 13, 2010, 124 Stat. 3236; Pub. L. 113–79, title IV, §§ 4004(a), 4030(b), Feb. 7, 2014, 128 Stat. 785, 814; Pub. L. 115–334, title IV, § 4003(a), Dec. 20, 2018, 132 Stat. 4624; Pub. L. 119–21, title I, § 10105(a), July 4, 2025, 139 Stat. 83.)
+(Pub. L. 88–525, § 4, Aug. 31, 1964, 78 Stat. 704; Pub. L. 91–671, § 3, Jan. 11, 1971, 84 Stat. 2049; Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 961; Pub. L. 99–198, title XV, §§ 1505(a), 1506, Dec. 23, 1985, 99 Stat. 1567; Pub. L. 110–234, title IV, §§ 4001(b), 4002(a)(1), 4111(a), 4115(b)(2), 4211(a), May 22, 2008, 122 Stat. 1092, 1102, 1106, 1122; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4002(a)(1), 4111(a), 4115(b)(2), 4211(a), June 18, 2008, 122 Stat. 1664, 1853, 1863, 1867, 1884; Pub. L. 111–296, title II, § 241(b)(1), Dec. 13, 2010, 124 Stat. 3236; Pub. L. 113–79, title IV, §§ 4004(a), 4030(b), Feb. 7, 2014, 128 Stat. 785, 814; Pub. L. 115–334, title IV, § 4003(a), Dec. 20, 2018, 132 Stat. 4624; Pub. L. 119–21, title I, § 10105(a), July 4, 2025, 139 Stat. 83.)
 
 **Editorial Notes**
 
@@ -1247,45 +1247,45 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2025—Subsec. (a). Pub. L. 119–21 inserted subsec. (a) heading, designated existing provisions as par. (1) and inserted heading, and added pars. (2) and (3).
 
-2018—Subsec. (b)(4). Pub. L. 115–334, § 4003(a)(1), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “The Secretary is authorized to pay such amounts for administrative costs and distribution costs on Indian reservations as the Secretary finds necessary for effective administration of such distribution by a State agency or tribal organization.”
+2018—Subsec. (b)(4). Pub. L. 115–334, § 4003(a)(1), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “The Secretary is authorized to pay such amounts for administrative costs and distribution costs on Indian reservations as the Secretary finds necessary for effective administration of such distribution by a State agency or tribal organization.”
 
-Subsec. (b)(6). Pub. L. 115–334, § 4003(a)(2)(A), substituted “locally- and regionally-grown” for “locally-grown” in heading.
+Subsec. (b)(6). Pub. L. 115–334, § 4003(a)(2)(A), substituted “locally- and regionally-grown” for “locally-grown” in heading.
 
-Subsec. (b)(6)(A). Pub. L. 115–334, § 4003(a)(2)(B), substituted “locally- and regionally-grown” for “locally-grown”.
+Subsec. (b)(6)(A). Pub. L. 115–334, § 4003(a)(2)(B), substituted “locally- and regionally-grown” for “locally-grown”.
 
-Subsec. (b)(6)(C). Pub. L. 115–334, § 4003(a)(2)(C), substituted “locally- and regionally-grown” for “locally grown” in heading and text.
+Subsec. (b)(6)(C). Pub. L. 115–334, § 4003(a)(2)(C), substituted “locally- and regionally-grown” for “locally grown” in heading and text.
 
-Subsec. (b)(6)(D). Pub. L. 115–334, § 4003(a)(2)(D), amended subpar. (D) generally. Prior to amendment, text read as follows: “In carrying out this paragraph, the Secretary shall—
+Subsec. (b)(6)(D). Pub. L. 115–334, § 4003(a)(2)(D), amended subpar. (D) generally. Prior to amendment, text read as follows: “In carrying out this paragraph, the Secretary shall—
 
 “(i) survey participants of the food distribution program on Indian reservations established under this subsection to determine which traditional foods are most desired by those participants; and
 
 “(ii) purchase or offer to purchase those traditional foods that may be procured cost-effectively.”
 
-Subsec. (b)(6)(E), (F). Pub. L. 115–334, § 4003(a)(2)(E), (F), redesignated subpar. (F) as (E), substituted “2023” for “2018”, and struck out former subpar. (E). Prior to amendment, text of subpar. (E) read as follows: “Not later than 1 year after the date of enactment of this paragraph, and annually thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the activities carried out under this paragraph during the preceding calendar year.”
+Subsec. (b)(6)(E), (F). Pub. L. 115–334, § 4003(a)(2)(E), (F), redesignated subpar. (F) as (E), substituted “2023” for “2018”, and struck out former subpar. (E). Prior to amendment, text of subpar. (E) read as follows: “Not later than 1 year after the date of enactment of this paragraph, and annually thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the activities carried out under this paragraph during the preceding calendar year.”
 
-Subsec. (b)(7). Pub. L. 115–334, § 4003(a)(3), added par. (7).
+Subsec. (b)(7). Pub. L. 115–334, § 4003(a)(3), added par. (7).
 
-2014—Subsec. (a). Pub. L. 113–79, § 4030(b), substituted “Benefits issued and used” for “benefits issued and used”.
+2014—Subsec. (a). Pub. L. 113–79, § 4030(b), substituted “Benefits issued and used” for “benefits issued and used”.
 
-Subsec. (b)(6)(F). Pub. L. 113–79, § 4004(a), substituted “2018” for “2012”.
+Subsec. (b)(6)(F). Pub. L. 113–79, § 4004(a), substituted “2018” for “2012”.
 
 2010—Subsec. (a). Pub. L. 111–296 struck out “and, through an approved State plan, nutrition education” after “issuance to them of an allotment” in first sentence.
 
-2008—Pub. L. 110–246, § 4002(a)(1), substituted “supplemental nutrition assistance program” for “food stamp program” in section catchline.
+2008—Pub. L. 110–246, § 4002(a)(1), substituted “supplemental nutrition assistance program” for “food stamp program” in section catchline.
 
-Subsec. (a). Pub. L. 110–246, § 4115(b)(2), substituted “benefits” for “coupons” in two places and “benefits issued” for “Coupons issued”.
+Subsec. (a). Pub. L. 110–246, § 4115(b)(2), substituted “benefits” for “coupons” in two places and “benefits issued” for “Coupons issued”.
 
-Pub. L. 110–246, § 4111(a), inserted “and, through an approved State plan, nutrition education” after “an allotment” in first sentence.
+Pub. L. 110–246, § 4111(a), inserted “and, through an approved State plan, nutrition education” after “an allotment” in first sentence.
 
-Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
+Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
 
-Subsec. (b). Pub. L. 110–246, § 4211(a), added subsec. (b) and struck out former subsec. (b) which read as follows: “Distribution of commodities, with or without the food stamp program, shall be made whenever a request for concurrent or separate food program operations, respectively, is made by a tribal organization. In the event of distribution on all or part of an Indian reservation, the appropriate agency of the State government in the area involved shall be responsible for such distribution, except that, if the Secretary determines that the tribal organization is capable of effectively and efficiently administering such distribution, then such tribal organizations shall administer such distribution: *Provided*, That the Secretary shall not approve any plan for such distribution which permits any household on any Indian reservation to participate simultaneously in the food stamp program and the distribution of federally donated foods. The Secretary is authorized to pay such amounts for administrative costs of such distribution on Indian reservations as the Secretary finds necessary for effective administration of such distribution by a State agency or tribal organization.”
+Subsec. (b). Pub. L. 110–246, § 4211(a), added subsec. (b) and struck out former subsec. (b) which read as follows: “Distribution of commodities, with or without the food stamp program, shall be made whenever a request for concurrent or separate food program operations, respectively, is made by a tribal organization. In the event of distribution on all or part of an Indian reservation, the appropriate agency of the State government in the area involved shall be responsible for such distribution, except that, if the Secretary determines that the tribal organization is capable of effectively and efficiently administering such distribution, then such tribal organizations shall administer such distribution: *Provided*, That the Secretary shall not approve any plan for such distribution which permits any household on any Indian reservation to participate simultaneously in the food stamp program and the distribution of federally donated foods. The Secretary is authorized to pay such amounts for administrative costs of such distribution on Indian reservations as the Secretary finds necessary for effective administration of such distribution by a State agency or tribal organization.”
 
-Subsec. (c). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Subsec. (c). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-1985—Subsec. (a). Pub. L. 99–198, § 1505(a), inserted “, except that a State may not participate in the food stamp program if the Secretary determines that State or local sales taxes are collected within that State on purchases of food made with coupons issued under this chapter” at end of first sentence.
+1985—Subsec. (a). Pub. L. 99–198, § 1505(a), inserted “, except that a State may not participate in the food stamp program if the Secretary determines that State or local sales taxes are collected within that State on purchases of food made with coupons issued under this chapter” at end of first sentence.
 
-Subsec. (b). Pub. L. 99–198, § 1506, struck out first sentence which directed that in jurisdictions where the food stamp program is in operation, there shall be no distribution of federally donated foods to households under the authority of any law, except that distribution may be made (1) on a temporary basis under programs authorized by law to meet disaster relief needs, or (2) for the purpose of the commodity supplemental food program, and struck out “also” after “shall” in second sentence.
+Subsec. (b). Pub. L. 99–198, § 1506, struck out first sentence which directed that in jurisdictions where the food stamp program is in operation, there shall be no distribution of federally donated foods to households under the authority of any law, except that distribution may be made (1) on a temporary basis under programs authorized by law to meet disaster relief needs, or (2) for the purpose of the commodity supplemental food program, and struck out “also” after “shall” in second sentence.
 
 1977—Subsec. (a). Pub. L. 95–113 made establishment of food stamp program subject to availability of funds appropriated under section 2027 of this title.
 
@@ -1311,7 +1311,7 @@ Amendment by sections 4001(b), 4002(a)(1), 4111(a), 4115(b)(2), and 4211(a) of P
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–198, title XV, § 1505(b), Dec. 23, 1985, 99 Stat. 1567, provided that:
+Pub. L. 99–198, title XV, § 1505(b), Dec. 23, 1985, 99 Stat. 1567, provided that:
 
 > **“(1)** Except as provided in paragraph (2), the amendment made by subsection (a) [amending this section] shall take effect with respect to a State beginning on the first day of the fiscal year that commences in the calendar year during which the first regular session of the legislature of such State is convened following the date of enactment of this Act [Dec. 23, 1985].
 
@@ -1319,11 +1319,11 @@ Pub. L. 99–198, title XV, § 1505(b), Dec. 23, 1985, 99 Stat. 1567, provided
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by that section is effective Oct. 1, 1977.
+Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by that section is effective Oct. 1, 1977.
 
 **Demonstration Project for Tribal Organizations**
 
-Pub. L. 115–334, title IV, § 4003(b), Dec. 20, 2018, 132 Stat. 4625, provided that:
+Pub. L. 115–334, title IV, § 4003(b), Dec. 20, 2018, 132 Stat. 4625, provided that:
 
 > **“(1) Definitions.—** In this subsection:
 
@@ -1373,7 +1373,7 @@ Pub. L. 115–334, title IV, § 4003(b), Dec. 20, 2018, 132 Stat. 4625, provid
 
 **Feasibility Study, Report, and Demonstration Project for Indian Tribes**
 
-Pub. L. 113–79, title IV, § 4004(b), Feb. 7, 2014, 128 Stat. 785, provided that:
+Pub. L. 113–79, title IV, § 4004(b), Feb. 7, 2014, 128 Stat. 785, provided that:
 
 > **“(1) Definitions.—** In this subsection:
 
@@ -1409,7 +1409,7 @@ Pub. L. 113–79, title IV, § 4004(b), Feb. 7, 2014, 128 Stat. 785, provided 
 
 > **“(ii) Relationship to other authorities.—** The funds and authorities provided under this subparagraph are in addition to any other funds or authorities the Secretary may have to carry out activities described in this paragraph.”
 
-## § 2014. Eligible households
+## § 2014. Eligible households
 
 **(a) Income and other financial resources as substantial limiting factors in obtaining more nutritious diet; recipients under Social Security Act**
 
@@ -1463,9 +1463,9 @@ In no event shall the standards of eligibility for the Virgin Islands of the Uni
 
 **(12)** through September 30 of any fiscal year, any increase in income attributable to a cost-of-living adjustment made on or after July 1 of such fiscal year under title II or XVI of the Social Security Act [42 U.S.C. 401 et seq., 1381 et seq.], section 3(a)(1) of the Railroad Retirement Act of 1974 (45 U.S.C. 231b(a)(1)), or section 5312 of title 38, if the household was certified as eligible to participate in the supplemental nutrition assistance program or received an allotment in the month immediately preceding the first month in which the adjustment was effective;
 
-**(13)** any payment made to the household under section 3507 1
+**(13)** any payment made to the household under section 3507 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 26 (relating to advance payment of earned income credit);
 
@@ -1477,7 +1477,7 @@ of title 26 (relating to advance payment of earned income credit);
 
 **(17)** at the option of the State agency, any State complementary assistance program payments that are excluded for the purpose of determining eligibility for medical assistance under section 1931 of the Social Security Act (42 U.S.C. 1396u–1);
 
-**(18)** at the option of the State agency, any types of income that the State agency does not consider when determining eligibility for (A) cash assistance under a program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) or the amount of such assistance, or (B) medical assistance under section 1931 of the Social Security Act (42 U.S.C. 1396u–1), except that this paragraph does not authorize a State agency to exclude wages or salaries, benefits under title I, II, IV, X, XIV, or XVI of the Social Security Act (42 U.S.C. 301 et seq. [, 401 et seq., 601 et seq., 1201 et seq., 1351 et seq., 1381 et seq.]), regular payments from a government source (such as unemployment benefits and general assistance), worker’s compensation, child support payments made to a household member by an individual who is legally obligated to make the payments, or such other types of income the consideration of which the Secretary determines by regulation to be essential to equitable determinations of eligibility and benefit levels; and
+**(18)** at the option of the State agency, any types of income that the State agency does not consider when determining eligibility for (A) cash assistance under a program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) or the amount of such assistance, or (B) medical assistance under section 1931 of the Social Security Act (42 U.S.C. 1396u–1), except that this paragraph does not authorize a State agency to exclude wages or salaries, benefits under title I, II, IV, X, XIV, or XVI of the Social Security Act (42 U.S.C. 301 et seq. [, 401 et seq., 601 et seq., 1201 et seq., 1351 et seq., 1381 et seq.]), regular payments from a government source (such as unemployment benefits and general assistance), worker’s compensation, child support payments made to a household member by an individual who is legally obligated to make the payments, or such other types of income the consideration of which the Secretary determines by regulation to be essential to equitable determinations of eligibility and benefit levels; and
 
 **(19)** any additional payment under chapter 5 of title 37, or otherwise designated by the Secretary to be appropriate for exclusion under this paragraph, that is received by or from a member of the United States Armed Forces deployed to a designated combat zone, if the additional pay—
 
@@ -1899,19 +1899,19 @@ The method submitted by a State under paragraph (1) may differ for different typ
 
 Regardless of whether a State agency elects to provide a deduction under subsection (e)(4), the Secretary shall establish simplified procedures to allow State agencies, at the option of the State agencies, to determine the amount of any legally obligated child support payments made, including procedures to allow the State agency to rely on information from the agency responsible for implementing the program under part D of title IV of the Social Security Act (42 U.S.C. 651 et seq.) concerning payments made in prior months in lieu of obtaining current information from the households.
 
-(Pub. L. 88–525, § 5, Aug. 31, 1964, 78 Stat. 704; Pub. L. 91–671, § 4, Jan. 11, 1971, 84 Stat. 2049; Pub. L. 93–86, § 3(d), (e), (g), (h), Aug. 10, 1973, 87 Stat. 246, 247; Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 962; Pub. L. 96–58, § 2, Aug. 14, 1979, 93 Stat. 390; Pub. L. 96–223, title III, § 313(c)(2), Apr. 2, 1980, 94 Stat. 299; Pub. L. 96–249, title I, §§ 102–108, 112, 136–138, May 26, 1980, 94 Stat. 357–359, 361, 369, 370; Pub. L. 97–35, title I, §§ 104(a), 105–107, 115, 116(a)(1), title XXVI, § 2611, Aug. 13, 1981, 95 Stat. 358–361, 364, 902; Pub. L. 97–98, title XIII, §§ 1305–1309, Dec. 22, 1981, 95 Stat. 1283, 1284; Pub. L. 97–253, title I, §§ 143(b), 145(c), (d), 146–152(a), 153, 189(a), Sept. 8, 1982, 96 Stat. 773–776, 787; Pub. L. 98–204, § 4, Dec. 2, 1983, 97 Stat. 1385; Pub. L. 99–198, title XV, §§ 1507(a)(1), 1508–1513(a), 1514, 1515, Dec. 23, 1985, 99 Stat. 1567–1572; Pub. L. 99–500, § 101(a) [title VI, § 638(a)], Oct. 18, 1986, 100 Stat. 1783, 1783–34, and Pub. L. 99–591, § 101(a) [title VI, § 638(a)], Oct. 30, 1986, 100 Stat. 3341, 3341–34; Pub. L. 100–77, title VIII, §§ 803(a), 804(a), 805(a), 806(a), 807(a), July 22, 1987, 101 Stat. 534, 535; Pub. L. 100–232, § 2(a), Jan. 5, 1988, 101 Stat. 1566; Pub. L. 100–387, title V, § 501(a), Aug. 11, 1988, 102 Stat. 960; Pub. L. 100–435, title II, §§ 201, 202(a), title III, §§ 340–343, 351, title IV, §§ 402, 403, 404(f), Sept. 19, 1988, 102 Stat. 1655, 1656, 1663–1665, 1668; Pub. L. 100–707, title I, § 109(d), Nov. 23, 1988, 102 Stat. 4708; Pub. L. 101–624, title XVII, §§ 1714–1718(a), 1719–1722, 1726(b)(2), Nov. 28, 1990, 104 Stat. 3783–3787; Pub. L. 102–40, title IV, § 402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–237, title IX, §§ 902–906, 941(2), Dec. 13, 1991, 105 Stat. 1884, 1885, 1892; Pub. L. 102–265, § 1(a), Mar. 26, 1992, 106 Stat. 90; Pub. L. 102–367, title VII, § 702(b), Sept. 7, 1992, 106 Stat. 1113; Pub. L. 103–66, title XIII, §§ 13911–13915, 13921, 13922(a), 13923, 13924, Aug. 10, 1993, 107 Stat. 673–675; Pub. L. 103–225, title I, § 101(b)(2), Mar. 25, 1994, 108 Stat. 107; Pub. L. 104–193, title I, § 109(a), title VIII, §§ 806–809(a), 810–812, Aug. 22, 1996, 110 Stat. 2169, 2309, 2313, 2314; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(2)(A), (f)(2)(A)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–418, 2681–429; Pub. L. 106–387, § 1(a) [title VIII, §§ 846(a), 847(a)], Oct. 28, 2000, 114 Stat. 1549, 1549A–65, 1549A–66; Pub. L. 107–171, title IV, §§ 4101–4108(a), 4112(b)(2), 4401(b)(2)(C), May 13, 2002, 116 Stat. 305–309, 313, 333; Pub. L. 110–234, title IV, §§ 4001(b), 4002(a)(2), 4101–4104, 4115(b)(3), May 22, 2008, 122 Stat. 1092, 1098–1100, 1106; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4002(a)(2), 4101–4104, 4115(b)(3), June 18, 2008, 122 Stat. 1664, 1853, 1859–1861, 1867; Pub. L. 113–79, title IV, §§ 4005, 4006(a), 4008(b), 4022(b)(1), 4030(c), Feb. 7, 2014, 128 Stat. 786–788, 808, 814; Pub. L. 113–128, title V, § 512(*l*)(1), July 22, 2014, 128 Stat. 1709; Pub. L. 115–334, title IV, §§ 4004, 4022(2), Dec. 20, 2018, 132 Stat. 4627, 4653; Pub. L. 119–21, title I, §§ 10103, 10104, July 4, 2025, 139 Stat. 83.)
+(Pub. L. 88–525, § 5, Aug. 31, 1964, 78 Stat. 704; Pub. L. 91–671, § 4, Jan. 11, 1971, 84 Stat. 2049; Pub. L. 93–86, § 3(d), (e), (g), (h), Aug. 10, 1973, 87 Stat. 246, 247; Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 962; Pub. L. 96–58, § 2, Aug. 14, 1979, 93 Stat. 390; Pub. L. 96–223, title III, § 313(c)(2), Apr. 2, 1980, 94 Stat. 299; Pub. L. 96–249, title I, §§ 102–108, 112, 136–138, May 26, 1980, 94 Stat. 357–359, 361, 369, 370; Pub. L. 97–35, title I, §§ 104(a), 105–107, 115, 116(a)(1), title XXVI, § 2611, Aug. 13, 1981, 95 Stat. 358–361, 364, 902; Pub. L. 97–98, title XIII, §§ 1305–1309, Dec. 22, 1981, 95 Stat. 1283, 1284; Pub. L. 97–253, title I, §§ 143(b), 145(c), (d), 146–152(a), 153, 189(a), Sept. 8, 1982, 96 Stat. 773–776, 787; Pub. L. 98–204, § 4, Dec. 2, 1983, 97 Stat. 1385; Pub. L. 99–198, title XV, §§ 1507(a)(1), 1508–1513(a), 1514, 1515, Dec. 23, 1985, 99 Stat. 1567–1572; Pub. L. 99–500, § 101(a) [title VI, § 638(a)], Oct. 18, 1986, 100 Stat. 1783, 1783–34, and Pub. L. 99–591, § 101(a) [title VI, § 638(a)], Oct. 30, 1986, 100 Stat. 3341, 3341–34; Pub. L. 100–77, title VIII, §§ 803(a), 804(a), 805(a), 806(a), 807(a), July 22, 1987, 101 Stat. 534, 535; Pub. L. 100–232, § 2(a), Jan. 5, 1988, 101 Stat. 1566; Pub. L. 100–387, title V, § 501(a), Aug. 11, 1988, 102 Stat. 960; Pub. L. 100–435, title II, §§ 201, 202(a), title III, §§ 340–343, 351, title IV, §§ 402, 403, 404(f), Sept. 19, 1988, 102 Stat. 1655, 1656, 1663–1665, 1668; Pub. L. 100–707, title I, § 109(d), Nov. 23, 1988, 102 Stat. 4708; Pub. L. 101–624, title XVII, §§ 1714–1718(a), 1719–1722, 1726(b)(2), Nov. 28, 1990, 104 Stat. 3783–3787; Pub. L. 102–40, title IV, § 402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–237, title IX, §§ 902–906, 941(2), Dec. 13, 1991, 105 Stat. 1884, 1885, 1892; Pub. L. 102–265, § 1(a), Mar. 26, 1992, 106 Stat. 90; Pub. L. 102–367, title VII, § 702(b), Sept. 7, 1992, 106 Stat. 1113; Pub. L. 103–66, title XIII, §§ 13911–13915, 13921, 13922(a), 13923, 13924, Aug. 10, 1993, 107 Stat. 673–675; Pub. L. 103–225, title I, § 101(b)(2), Mar. 25, 1994, 108 Stat. 107; Pub. L. 104–193, title I, § 109(a), title VIII, §§ 806–809(a), 810–812, Aug. 22, 1996, 110 Stat. 2169, 2309, 2313, 2314; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(2)(A), (f)(2)(A)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–418, 2681–429; Pub. L. 106–387, § 1(a) [title VIII, §§ 846(a), 847(a)], Oct. 28, 2000, 114 Stat. 1549, 1549A–65, 1549A–66; Pub. L. 107–171, title IV, §§ 4101–4108(a), 4112(b)(2), 4401(b)(2)(C), May 13, 2002, 116 Stat. 305–309, 313, 333; Pub. L. 110–234, title IV, §§ 4001(b), 4002(a)(2), 4101–4104, 4115(b)(3), May 22, 2008, 122 Stat. 1092, 1098–1100, 1106; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4002(a)(2), 4101–4104, 4115(b)(3), June 18, 2008, 122 Stat. 1664, 1853, 1859–1861, 1867; Pub. L. 113–79, title IV, §§ 4005, 4006(a), 4008(b), 4022(b)(1), 4030(c), Feb. 7, 2014, 128 Stat. 786–788, 808, 814; Pub. L. 113–128, title V, § 512(*l*)(1), July 22, 2014, 128 Stat. 1709; Pub. L. 115–334, title IV, §§ 4004, 4022(2), Dec. 20, 2018, 132 Stat. 4627, 4653; Pub. L. 119–21, title I, §§ 10103, 10104, July 4, 2025, 139 Stat. 83.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsecs. (a), (d)(5), (11), (12), (16), (18), (f)(4), (g)(2)(D), (6)(A)(i), (j), (k)(1)(A), and (n), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles I, II, IV, X, XIV, XVI, and XIX of the Social Security Act are classified generally to subchapters I (§ 301 et seq.), II (§ 401 et seq.), IV (§ 601 et seq.), X (§ 1201 et seq.), XIV (§ 1351 et seq.), XVI (§ 1381 et seq.), and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Parts A and D of title IV of the Act are classified generally to parts A (§ 601 et seq.) and D (§ 651 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a), (d)(5), (11), (12), (16), (18), (f)(4), (g)(2)(D), (6)(A)(i), (j), (k)(1)(A), and (n), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles I, II, IV, X, XIV, XVI, and XIX of the Social Security Act are classified generally to subchapters I (§ 301 et seq.), II (§ 401 et seq.), IV (§ 601 et seq.), X (§ 1201 et seq.), XIV (§ 1351 et seq.), XVI (§ 1381 et seq.), and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Parts A and D of title IV of the Act are classified generally to parts A (§ 601 et seq.) and D (§ 651 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Section 3507 of title 26, referred to in subsec. (d)(13), was repealed by Pub. L. 111–226, title II, § 219(a)(1), Aug. 10, 2010, 124 Stat. 2403.
+Section 3507 of title 26, referred to in subsec. (d)(13), was repealed by Pub. L. 111–226, title II, § 219(a)(1), Aug. 10, 2010, 124 Stat. 2403.
 
-The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (e)(6)(C)(iv), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, which is classified generally to subchapter II (§ 8621 et seq.) of chapter 94 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of Title 42 and Tables.
+The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (e)(6)(C)(iv), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, which is classified generally to subchapter II (§ 8621 et seq.) of chapter 94 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of Title 42 and Tables.
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (*l*), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (*l*), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 **Codification**
 
@@ -1921,269 +1921,269 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 **Amendments**
 
-2025—Subsec. (e)(6)(C)(iv)(I). Pub. L. 119–21, § 10103(a), inserted “with an elderly or disabled member” after “households”.
+2025—Subsec. (e)(6)(C)(iv)(I). Pub. L. 119–21, § 10103(a), inserted “with an elderly or disabled member” after “households”.
 
-Subsec. (e)(6)(E). Pub. L. 119–21, § 10104, added subpar. (E).
+Subsec. (e)(6)(E). Pub. L. 119–21, § 10104, added subpar. (E).
 
-Subsec. (k)(4)(A). Pub. L. 119–21, § 10103(b)(1), inserted “without an elderly or disabled member” before “shall be”.
+Subsec. (k)(4)(A). Pub. L. 119–21, § 10103(b)(1), inserted “without an elderly or disabled member” before “shall be”.
 
-Subsec. (k)(4)(B). Pub. L. 119–21, § 10103(b)(2), inserted “with an elderly or disabled member” before “under a State law”.
+Subsec. (k)(4)(B). Pub. L. 119–21, § 10103(b)(2), inserted “with an elderly or disabled member” before “under a State law”.
 
-2018—Subsec. (a). Pub. L. 115–334, § 4022(2), substituted “2012(m)(4)” for “2012(n)(4)” in two places.
+2018—Subsec. (a). Pub. L. 115–334, § 4022(2), substituted “2012(m)(4)” for “2012(n)(4)” in two places.
 
-Subsec. (e)(6)(D). Pub. L. 115–334, § 4004, added cls. (i) and (ii), redesignated former cl. (ii) as (iii), and struck out former cl. (i). Prior to amendment, text of cl. (i) read as follows: “In lieu of the deduction provided under subparagraph (A), a State agency may elect to allow a household in which all members are homeless individuals, but that is not receiving free shelter throughout the month, to receive a deduction of $143 per month.”
+Subsec. (e)(6)(D). Pub. L. 115–334, § 4004, added cls. (i) and (ii), redesignated former cl. (ii) as (iii), and struck out former cl. (i). Prior to amendment, text of cl. (i) read as follows: “In lieu of the deduction provided under subparagraph (A), a State agency may elect to allow a household in which all members are homeless individuals, but that is not receiving free shelter throughout the month, to receive a deduction of $143 per month.”
 
-2014—Subsec. (a). Pub. L. 113–79, § 4008(b), substituted “subsections (b), (d)(2), (g), and (r) of section 2015 of this title” for “sections 2015(b), 2015(d)(2), and 2015(g) of this title”.
+2014—Subsec. (a). Pub. L. 113–79, § 4008(b), substituted “subsections (b), (d)(2), (g), and (r) of section 2015 of this title” for “sections 2015(b), 2015(d)(2), and 2015(g) of this title”.
 
-Subsec. (d)(14). Pub. L. 113–79, § 4022(b)(1)(A), inserted “or a pilot project under section 2025(h)(1)(F) of this title” after “section 2015(d)(4)(I) of this title”.
+Subsec. (d)(14). Pub. L. 113–79, § 4022(b)(1)(A), inserted “or a pilot project under section 2025(h)(1)(F) of this title” after “section 2015(d)(4)(I) of this title”.
 
-Subsec. (e)(3)(B)(iii). Pub. L. 113–79, § 4022(b)(1)(B), inserted “or a pilot project under section 2025(h)(1)(F) of this title ” after “section 2015(d)(4) of this title”.
+Subsec. (e)(3)(B)(iii). Pub. L. 113–79, § 4022(b)(1)(B), inserted “or a pilot project under section 2025(h)(1)(F) of this title ” after “section 2015(d)(4) of this title”.
 
-Subsec. (e)(5)(C). Pub. L. 113–79, § 4005, added subpar. (C).
+Subsec. (e)(5)(C). Pub. L. 113–79, § 4005, added subpar. (C).
 
-Subsec. (e)(6)(C)(i). Pub. L. 113–79, § 4006(a)(1), inserted “, subject to clause (iv)” after “Secretary”.
+Subsec. (e)(6)(C)(i). Pub. L. 113–79, § 4006(a)(1), inserted “, subject to clause (iv)” after “Secretary”.
 
-Subsec. (e)(6)(C)(iv)(I). Pub. L. 113–79, § 4006(a)(2), added subcl. (I) and struck out former subcl. (I). Text read as follows: “Subject to subclause (II), if a State agency elects to use a standard utility allowance that reflects heating or cooling costs, the standard utility allowance shall be made available to households receiving a payment, or on behalf of which a payment is made, under the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8621 et seq.) or other similar energy assistance program, if the household still incurs out-of-pocket heating or cooling expenses in excess of any assistance paid on behalf of the household to an energy provider.”
+Subsec. (e)(6)(C)(iv)(I). Pub. L. 113–79, § 4006(a)(2), added subcl. (I) and struck out former subcl. (I). Text read as follows: “Subject to subclause (II), if a State agency elects to use a standard utility allowance that reflects heating or cooling costs, the standard utility allowance shall be made available to households receiving a payment, or on behalf of which a payment is made, under the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8621 et seq.) or other similar energy assistance program, if the household still incurs out-of-pocket heating or cooling expenses in excess of any assistance paid on behalf of the household to an energy provider.”
 
-Subsec. (g)(3). Pub. L. 113–79, § 4022(b)(1)(C), inserted “or a pilot project under section 2025(h)(1)(F) of this title” after “section 2015(d) of this title”.
+Subsec. (g)(3). Pub. L. 113–79, § 4022(b)(1)(C), inserted “or a pilot project under section 2025(h)(1)(F) of this title” after “section 2015(d) of this title”.
 
-Subsec. (i)(2)(D). Pub. L. 113–79, § 4030(c)(1), substituted “section 2022(b) of this title” for “section 2022(b)(2) of this title”.
+Subsec. (i)(2)(D). Pub. L. 113–79, § 4030(c)(1), substituted “section 2022(b) of this title” for “section 2022(b)(2) of this title”.
 
-Subsec. (k)(4)(A). Pub. L. 113–79, § 4030(c)(2), substituted “paragraph (2)(G)” for “paragraph (2)(H)”.
+Subsec. (k)(4)(A). Pub. L. 113–79, § 4030(c)(2), substituted “paragraph (2)(G)” for “paragraph (2)(H)”.
 
 Subsec. (*l*). Pub. L. 113–128, which directed amendment of subsec. (*l*) by substituting “Notwithstanding section 181(a)(2) of the Workforce Innovation and Opportunity Act, earnings to individuals participating in on-the-job training under title I of such Act” for “Notwithstanding section 181(a)(2) of the Workforce Investment Act of 1998, earnings to individuals participating in on-the-job-training under title I of the Workforce Investment Act of 1998” was executed by making the substitution for “Notwithstanding section 181(a)(2) of the Workforce Investment Act of 1998, earnings to individuals participating in on-the-job training under title I of the Workforce Investment Act of 1998” to reflect the probable intent of Congress.
 
-2008—Subsec. (a). Pub. L. 110–246, § 4115(b)(3)(A), which directed substitution of “section 2012(n)(4)” for “section 2012(i)(4)”, was executed by making the substitution in two places, to reflect the probable intent of Congress.
+2008—Subsec. (a). Pub. L. 110–246, § 4115(b)(3)(A), which directed substitution of “section 2012(n)(4)” for “section 2012(i)(4)”, was executed by making the substitution in two places, to reflect the probable intent of Congress.
 
-Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
+Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
 
-Subsecs. (b), (c). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Subsecs. (b), (c). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsec. (d). Pub. L. 110–246, § 4101, inserted heading, redesignated cls. (1) to (18) as pars. (1) to (18), respectively, and realigned margins, in pars. (1) to (16), substituted semicolon for comma at end, in par. (3), redesignated subcls. (A) to (C) as subpars. (A) to (C), respectively, and realigned margins, in subpars. (B) and (C), substituted semicolon for comma at end, in par. (11), redesignated subcls. (A) and (B) as subpars. (A) and (B), respectively, in subpar. (A), substituted semicolon for comma at end, realigned margin of subpar. (B), and added par. (19).
+Subsec. (d). Pub. L. 110–246, § 4101, inserted heading, redesignated cls. (1) to (18) as pars. (1) to (18), respectively, and realigned margins, in pars. (1) to (16), substituted semicolon for comma at end, in par. (3), redesignated subcls. (A) to (C) as subpars. (A) to (C), respectively, and realigned margins, in subpars. (B) and (C), substituted semicolon for comma at end, in par. (11), redesignated subcls. (A) and (B) as subpars. (A) and (B), respectively, in subpar. (A), substituted semicolon for comma at end, realigned margin of subpar. (B), and added par. (19).
 
-Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
+Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
 
-Subsec. (e)(1)(A)(ii). Pub. L. 110–246, § 4102(1), substituted “not less than—” and subcls. (I) and (II) for “not less than $134, $229, $189, and $118, respectively.”
+Subsec. (e)(1)(A)(ii). Pub. L. 110–246, § 4102(1), substituted “not less than—” and subcls. (I) and (II) for “not less than $134, $229, $189, and $118, respectively.”
 
-Subsec. (e)(1)(B)(ii). Pub. L. 110–246, § 4102(2), substituted “not less than—” and subcls. (I) and (II) for “not less than $269.”
+Subsec. (e)(1)(B)(ii). Pub. L. 110–246, § 4102(2), substituted “not less than—” and subcls. (I) and (II) for “not less than $269.”
 
-Subsec. (e)(1)(C). Pub. L. 110–246, § 4102(3), added subpar. (C).
+Subsec. (e)(1)(C). Pub. L. 110–246, § 4102(3), added subpar. (C).
 
-Subsec. (e)(3)(A). Pub. L. 110–246, § 4103, struck out “, the maximum allowable level of which shall be $200 per month for each dependent child under 2 years of age and $175 per month for each other dependent,” after “deduction”.
+Subsec. (e)(3)(A). Pub. L. 110–246, § 4103, struck out “, the maximum allowable level of which shall be $200 per month for each dependent child under 2 years of age and $175 per month for each other dependent,” after “deduction”.
 
-Subsec. (e)(6)(C). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
+Subsec. (e)(6)(C). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
 
-Subsec. (g). Pub. L. 110–246, § 4104(a)(1), inserted subsec. heading.
+Subsec. (g). Pub. L. 110–246, § 4104(a)(1), inserted subsec. heading.
 
-Subsec. (g)(1). Pub. L. 110–246, § 4104(a), inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, inserted “(as adjusted in accordance with subparagraph (B))” after “$2,000” and after “$3,000”, and added subpar. (B).
+Subsec. (g)(1). Pub. L. 110–246, § 4104(a), inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, inserted “(as adjusted in accordance with subparagraph (B))” after “$2,000” and after “$3,000”, and added subpar. (B).
 
-Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsec. (g)(2)(B)(v). Pub. L. 110–246, § 4104(b)(1), substituted “savings account” for “savings or retirement account (including an individual account)”.
+Subsec. (g)(2)(B)(v). Pub. L. 110–246, § 4104(b)(1), substituted “savings account” for “savings or retirement account (including an individual account)”.
 
-Subsec. (g)(3), (6). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Subsec. (g)(3), (6). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsec. (g)(7), (8). Pub. L. 110–246, § 4104(b)(2), (c), added pars. (7) and (8).
+Subsec. (g)(7), (8). Pub. L. 110–246, § 4104(b)(2), (c), added pars. (7) and (8).
 
-Subsec. (h)(2)(A). Pub. L. 110–246, § 4002(a)(2), substituted “Disaster Task Force” for “Food Stamp Disaster Task Force”.
+Subsec. (h)(2)(A). Pub. L. 110–246, § 4002(a)(2), substituted “Disaster Task Force” for “Food Stamp Disaster Task Force”.
 
-Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsec. (h)(3)(B). Pub. L. 110–246, § 4115(b)(3)(B), substituted “section 2016(h)” for “section 2016(i)” in second sentence.
+Subsec. (h)(3)(B). Pub. L. 110–246, § 4115(b)(3)(B), substituted “section 2016(h)” for “section 2016(i)” in second sentence.
 
-Subsec. (i)(2)(E). Pub. L. 110–246, § 4115(b)(3)(C), struck out “, as defined in section 2012(i) of this title,” after “household”.
+Subsec. (i)(2)(E). Pub. L. 110–246, § 4115(b)(3)(C), struck out “, as defined in section 2012(i) of this title,” after “household”.
 
-Subsec. (*l*). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Subsec. (*l*). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-2002—Subsec. (a). Pub. L. 107–171, § 4112(b)(2), substituted “section 2012(i)(4) of this title” for “the third sentence of section 2012(i) of this title” in two places.
+2002—Subsec. (a). Pub. L. 107–171, § 4112(b)(2), substituted “section 2012(i)(4) of this title” for “the third sentence of section 2012(i) of this title” in two places.
 
-Subsec. (d)(6). Pub. L. 107–171, § 4101(a), inserted at end “and child support payments made by a household member to or for an individual who is not a member of the household if the household member is legally obligated to make the payments,”.
+Subsec. (d)(6). Pub. L. 107–171, § 4101(a), inserted at end “and child support payments made by a household member to or for an individual who is not a member of the household if the household member is legally obligated to make the payments,”.
 
-Subsec. (d)(16) to (18). Pub. L. 107–171, § 4102, added cls. (16) to (18).
+Subsec. (d)(16) to (18). Pub. L. 107–171, § 4102, added cls. (16) to (18).
 
-Subsec. (e)(1). Pub. L. 107–171, § 4103, added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The Secretary shall allow a standard deduction for each household in the 48 contiguous States and the District of Columbia, Alaska, Hawaii, Guam, and the Virgin Islands of the United States of $134, $229, $189, $269, and $118, respectively.”
+Subsec. (e)(1). Pub. L. 107–171, § 4103, added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The Secretary shall allow a standard deduction for each household in the 48 contiguous States and the District of Columbia, Alaska, Hawaii, Guam, and the Virgin Islands of the United States of $134, $229, $189, $269, and $118, respectively.”
 
-Subsec. (e)(4). Pub. L. 107–171, § 4101(b)(1), added par. (4) and struck out heading and text of former par. (4). Text read as follows:
+Subsec. (e)(4). Pub. L. 107–171, § 4101(b)(1), added par. (4) and struck out heading and text of former par. (4). Text read as follows:
 
 “(A) In general.—A household shall be entitled to a deduction for child support payments made by a household member to or for an individual who is not a member of the household if the household member is legally obligated to make the payments.
 
 “(B) Methods for determining amount.—The Secretary may prescribe by regulation the methods, including calculation on a retrospective basis, that a State agency shall use to determine the amount of the deduction for child support payments.”
 
-Subsec. (e)(5), (6). Pub. L. 107–171, § 4105(b)(1), redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out heading and text of former par. (5). Text read as follows: “Under rules prescribed by the Secretary, a State agency may develop a standard homeless shelter allowance, which shall not exceed $143 per month, for such expenses as may reasonably be expected to be incurred by households in which all members are homeless individuals but are not receiving free shelter throughout the month. A State agency that develops the allowance may use the allowance in determining eligibility and allotments for the households. The State agency may make a household with extremely low shelter costs ineligible for the allowance.”
+Subsec. (e)(5), (6). Pub. L. 107–171, § 4105(b)(1), redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out heading and text of former par. (5). Text read as follows: “Under rules prescribed by the Secretary, a State agency may develop a standard homeless shelter allowance, which shall not exceed $143 per month, for such expenses as may reasonably be expected to be incurred by households in which all members are homeless individuals but are not receiving free shelter throughout the month. A State agency that develops the allowance may use the allowance in determining eligibility and allotments for the households. The State agency may make a household with extremely low shelter costs ineligible for the allowance.”
 
-Subsec. (e)(7). Pub. L. 107–171, § 4105(b)(1)(B), redesignated par. (7) as (6). Former par. (6) redesignated (5).
+Subsec. (e)(7). Pub. L. 107–171, § 4105(b)(1)(B), redesignated par. (7) as (6). Former par. (6) redesignated (5).
 
-Subsec. (e)(7)(C)(iii)(I)(bb). Pub. L. 107–171, § 4104(1), inserted “(without regard to subclause (III))” after “Secretary finds”.
+Subsec. (e)(7)(C)(iii)(I)(bb). Pub. L. 107–171, § 4104(1), inserted “(without regard to subclause (III))” after “Secretary finds”.
 
-Subsec. (e)(7)(C)(iii)(III). Pub. L. 107–171, § 4104(2), added subcl. (III).
+Subsec. (e)(7)(C)(iii)(III). Pub. L. 107–171, § 4104(2), added subcl. (III).
 
-Subsec. (e)(7)(D). Pub. L. 107–171, § 4105(a), added subpar. (D).
+Subsec. (e)(7)(D). Pub. L. 107–171, § 4105(a), added subpar. (D).
 
-Subsec. (f)(1)(C). Pub. L. 107–171, § 4106, added subpar. (C).
+Subsec. (f)(1)(C). Pub. L. 107–171, § 4106, added subpar. (C).
 
-Subsec. (g)(1). Pub. L. 107–171, § 4107(1), substituted “an elderly or disabled member” for “a member who is 60 years of age or older”.
+Subsec. (g)(1). Pub. L. 107–171, § 4107(1), substituted “an elderly or disabled member” for “a member who is 60 years of age or older”.
 
-Subsec. (g)(6). Pub. L. 107–171, § 4107(2), added par. (6).
+Subsec. (g)(6). Pub. L. 107–171, § 4107(2), added par. (6).
 
-Subsec. (h)(3)(B). Pub. L. 107–171, § 4108(a), inserted “issuance methods and” after “Secretary shall adjust” in first sentence and inserted “, any conditions that make reliance on electronic benefit transfer systems described in section 2016(i) of this title impracticable,” after “personnel” in second sentence.
+Subsec. (h)(3)(B). Pub. L. 107–171, § 4108(a), inserted “issuance methods and” after “Secretary shall adjust” in first sentence and inserted “, any conditions that make reliance on electronic benefit transfer systems described in section 2016(i) of this title impracticable,” after “personnel” in second sentence.
 
-Subsec. (i)(2)(E). Pub. L. 107–171, § 4401(b)(2)(C), inserted “, or to any alien who is under 18 years of age” before period at end.
+Subsec. (i)(2)(E). Pub. L. 107–171, § 4401(b)(2)(C), inserted “, or to any alien who is under 18 years of age” before period at end.
 
-Subsec. (k)(4)(B). Pub. L. 107–171, § 4105(b)(2), substituted “subsection (e)(6) of this section” for “subsection (e)(7) of this section”.
+Subsec. (k)(4)(B). Pub. L. 107–171, § 4105(b)(2), substituted “subsection (e)(6) of this section” for “subsection (e)(7) of this section”.
 
-Subsec. (n). Pub. L. 107–171, § 4101(b)(2), added subsec. (n).
+Subsec. (n). Pub. L. 107–171, § 4101(b)(2), added subsec. (n).
 
-2000—Subsec. (e)(7)(B)(iii) to (vi). Pub. L. 106–387, § 1(a) [title VIII, § 846(a)], added cls. (iii) to (vi) and struck out former cls. (iii) and (iv) which read as follows:
+2000—Subsec. (e)(7)(B)(iii) to (vi). Pub. L. 106–387, § 1(a) [title VIII, § 846(a)], added cls. (iii) to (vi) and struck out former cls. (iii) and (iv) which read as follows:
 
 “(iii) for fiscal years 1999 and 2000, $275, $478, $393, $334, and $203 per month, respectively; and
 
 “(iv) for fiscal year 2001 and each subsequent fiscal year, $300, $521, $429, $364, and $221 per month, respectively.”
 
-Subsec. (g)(2)(B)(iv). Pub. L. 106–387, § 1(a) [title VIII, § 847(a)(1)], substituted “subparagraphs (C) and (D)” for “subparagraph (C)” and “to the extent that the fair market value of the vehicle exceeds $4,650; and” for “to the extent that the fair market value of the vehicle exceeds $4,600 through September 30, 1996, and $4,650 beginning October 1, 1996; and”.
+Subsec. (g)(2)(B)(iv). Pub. L. 106–387, § 1(a) [title VIII, § 847(a)(1)], substituted “subparagraphs (C) and (D)” for “subparagraph (C)” and “to the extent that the fair market value of the vehicle exceeds $4,650; and” for “to the extent that the fair market value of the vehicle exceeds $4,600 through September 30, 1996, and $4,650 beginning October 1, 1996; and”.
 
-Subsec. (g)(2)(D). Pub. L. 106–387, § 1(a) [title VIII, § 847(a)(2)], added subpar. (D).
+Subsec. (g)(2)(D). Pub. L. 106–387, § 1(a) [title VIII, § 847(a)(2)], added subpar. (D).
 
-1998—Subsec. (*l*). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(2)(A)], substituted “Notwithstanding section 181(a)(2) of the Workforce Investment Act of 1998, earnings to individuals participating in on-the-job training under title I of the Workforce Investment Act of 1998” for “Notwithstanding section 1552(b) of title 29 or section 181(a)(2) of the Workforce Investment Act of 1998, earnings to individuals participating in on-the-job training programs under section 1604(b)(1)(C) or 1644(c)(1)(A) of title 29 or in on-the-job training under title I of the Workforce Investment Act of 1998”.
+1998—Subsec. (*l*). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(2)(A)], substituted “Notwithstanding section 181(a)(2) of the Workforce Investment Act of 1998, earnings to individuals participating in on-the-job training under title I of the Workforce Investment Act of 1998” for “Notwithstanding section 1552(b) of title 29 or section 181(a)(2) of the Workforce Investment Act of 1998, earnings to individuals participating in on-the-job training programs under section 1604(b)(1)(C) or 1644(c)(1)(A) of title 29 or in on-the-job training under title I of the Workforce Investment Act of 1998”.
 
-Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(2)(A)], substituted “Notwithstanding section 1552(b) of title 29 or section 181(a)(2) of the Workforce Investment Act of 1998, earnings to individuals participating in on-the-job training programs under section 1604(b)(1)(C) or 1644(c)(1)(A) of title 29 or in on-the-job training under title I of the Workforce Investment Act of 1998” for “Notwithstanding section 1552(b) of title 29, earnings to individuals participating in on-the-job training programs under section 1604(b)(1)(C) or section 1644(c)(1)(A) of title 29”.
+Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(2)(A)], substituted “Notwithstanding section 1552(b) of title 29 or section 181(a)(2) of the Workforce Investment Act of 1998, earnings to individuals participating in on-the-job training programs under section 1604(b)(1)(C) or 1644(c)(1)(A) of title 29 or in on-the-job training under title I of the Workforce Investment Act of 1998” for “Notwithstanding section 1552(b) of title 29, earnings to individuals participating in on-the-job training programs under section 1604(b)(1)(C) or section 1644(c)(1)(A) of title 29”.
 
-1996—Subsec. (a). Pub. L. 104–193, § 109(a)(1), substituted “program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.)” for “plan approved under part A of title IV of the Social Security Act”.
+1996—Subsec. (a). Pub. L. 104–193, § 109(a)(1), substituted “program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.)” for “plan approved under part A of title IV of the Social Security Act”.
 
-Subsec. (b). Pub. L. 104–193, § 806, inserted heading and substituted “Except as otherwise provided in this chapter, the Secretary” for “The Secretary”.
+Subsec. (b). Pub. L. 104–193, § 806, inserted heading and substituted “Except as otherwise provided in this chapter, the Secretary” for “The Secretary”.
 
-Subsec. (d)(5). Pub. L. 104–193, § 109(a)(2)(A), substituted “assistance under a State program funded” for “assistance to families with dependent children”.
+Subsec. (d)(5). Pub. L. 104–193, § 109(a)(2)(A), substituted “assistance under a State program funded” for “assistance to families with dependent children”.
 
-Subsec. (d)(7). Pub. L. 104–193, § 807, substituted “17” for “21”.
+Subsec. (d)(7). Pub. L. 104–193, § 807, substituted “17” for “21”.
 
-Subsec. (d)(11). Pub. L. 104–193, § 808(a), added cl. (11) and struck out former cl. (11) which read as follows: “any payments or allowances made for the purpose of providing energy assistance (A) under any Federal law, or (B) under any State or local laws, designated by the State or local legislative body authorizing such payments or allowances as energy assistance, and determined by the Secretary to be calculated as if provided by the State or local government involved on a seasonal basis for an aggregate period not to exceed six months in any year even if such payments or allowances (including tax credits) are not provided on a seasonal basis because it would be administratively infeasible or impracticable to do so,”.
+Subsec. (d)(11). Pub. L. 104–193, § 808(a), added cl. (11) and struck out former cl. (11) which read as follows: “any payments or allowances made for the purpose of providing energy assistance (A) under any Federal law, or (B) under any State or local laws, designated by the State or local legislative body authorizing such payments or allowances as energy assistance, and determined by the Secretary to be calculated as if provided by the State or local government involved on a seasonal basis for an aggregate period not to exceed six months in any year even if such payments or allowances (including tax credits) are not provided on a seasonal basis because it would be administratively infeasible or impracticable to do so,”.
 
-Subsec. (d)(13) to (16). Pub. L. 104–193, § 109(a)(2)(B), redesignated cls. (14) to (16) as (13) to (15), respectively, and struck out former cl. (13) which read as follows: “at the option of a State agency and subject to subsection (m) of this section, child support payments that are excluded under section 402(a)(8)(A)(vi) of the Social Security Act (42 U.S.C. 602(a)(8)(A)(vi)),”.
+Subsec. (d)(13) to (16). Pub. L. 104–193, § 109(a)(2)(B), redesignated cls. (14) to (16) as (13) to (15), respectively, and struck out former cl. (13) which read as follows: “at the option of a State agency and subject to subsection (m) of this section, child support payments that are excluded under section 402(a)(8)(A)(vi) of the Social Security Act (42 U.S.C. 602(a)(8)(A)(vi)),”.
 
-Subsec. (e). Pub. L. 104–193, § 809(a), added subsec. (e) and struck out former subsec. (e) which provided for deductions in computing household income for purposes of determining eligibility and benefit levels for households containing an elderly or disabled member and determining benefit levels only for all other households.
+Subsec. (e). Pub. L. 104–193, § 809(a), added subsec. (e) and struck out former subsec. (e) which provided for deductions in computing household income for purposes of determining eligibility and benefit levels for households containing an elderly or disabled member and determining benefit levels only for all other households.
 
-Subsec. (g)(2). Pub. L. 104–193, § 810, added par. (2) and struck out former par. (2) which read as follows: “The Secretary shall, in prescribing inclusions in, and exclusions from, financial resources, follow the regulations in force as of June 1, 1982 (other than those relating to licensed vehicles and inaccessible resources), and shall, in addition, include in financial resources any boats, snowmobiles, and airplanes used for recreational purposes, any vacation homes, any mobile homes used primarily for vacation purposes, any licensed vehicle (other than one used to produce earned income or that is necessary for transportation of a physically disabled household member and any other property, real or personal, to the extent that it is directly related to the maintenance or use of such vehicle) used for household transportation or used to obtain or continue employment to the extent that the fair market value of any such vehicle exceeds a level set by the Secretary, which shall be $4,500 through August 31, 1994, $4,550 beginning September 1, 1994, through September 30, 1995, $4,600 beginning October 1, 1995, through September 30, 1996, and $5,000 beginning October 1, 1996, as adjusted on such date and on each October 1 thereafter to reflect changes in the new car component of the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics for the 12-month period ending on June 30 preceding the date of such adjustment and rounded to the nearest $50, and, regardless of whether there is a penalty for early withdrawal, any savings or retirement accounts (including individual accounts). The Secretary shall exclude from financial resources the value of a vehicle that a household depends upon to carry fuel for heating or water for home use when such transported fuel or water is the primary source of fuel or water for the household.”
+Subsec. (g)(2). Pub. L. 104–193, § 810, added par. (2) and struck out former par. (2) which read as follows: “The Secretary shall, in prescribing inclusions in, and exclusions from, financial resources, follow the regulations in force as of June 1, 1982 (other than those relating to licensed vehicles and inaccessible resources), and shall, in addition, include in financial resources any boats, snowmobiles, and airplanes used for recreational purposes, any vacation homes, any mobile homes used primarily for vacation purposes, any licensed vehicle (other than one used to produce earned income or that is necessary for transportation of a physically disabled household member and any other property, real or personal, to the extent that it is directly related to the maintenance or use of such vehicle) used for household transportation or used to obtain or continue employment to the extent that the fair market value of any such vehicle exceeds a level set by the Secretary, which shall be $4,500 through August 31, 1994, $4,550 beginning September 1, 1994, through September 30, 1995, $4,600 beginning October 1, 1995, through September 30, 1996, and $5,000 beginning October 1, 1996, as adjusted on such date and on each October 1 thereafter to reflect changes in the new car component of the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics for the 12-month period ending on June 30 preceding the date of such adjustment and rounded to the nearest $50, and, regardless of whether there is a penalty for early withdrawal, any savings or retirement accounts (including individual accounts). The Secretary shall exclude from financial resources the value of a vehicle that a household depends upon to carry fuel for heating or water for home use when such transported fuel or water is the primary source of fuel or water for the household.”
 
-Subsec. (j). Pub. L. 104–193, § 109(a)(3), substituted “program funded under part A of title IV of the Act (42 U.S.C. 601 et seq.)” for “plan approved under part A of title IV of such Act (42 U.S.C. 601 et seq.)”.
+Subsec. (j). Pub. L. 104–193, § 109(a)(3), substituted “program funded under part A of title IV of the Act (42 U.S.C. 601 et seq.)” for “plan approved under part A of title IV of such Act (42 U.S.C. 601 et seq.)”.
 
-Subsec. (k)(1). Pub. L. 104–193, § 808(b)(1), in subpar. (A), substituted “State program funded” for “State plan for aid to families with dependent children approved” and in subpar. (B), struck out “, not including energy or utility-cost assistance,” before “under” in introductory provisions.
+Subsec. (k)(1). Pub. L. 104–193, § 808(b)(1), in subpar. (A), substituted “State program funded” for “State plan for aid to families with dependent children approved” and in subpar. (B), struck out “, not including energy or utility-cost assistance,” before “under” in introductory provisions.
 
-Subsec. (k)(2)(C). Pub. L. 104–193, § 808(b)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “energy assistance;”.
+Subsec. (k)(2)(C). Pub. L. 104–193, § 808(b)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “energy assistance;”.
 
-Subsec. (k)(2)(F) to (H). Pub. L. 104–193, § 811, redesignated subpars. (G) and (H) as (F) and (G), respectively, and struck out former subpar. (F) which read as follows: “housing assistance payments made to a third party on behalf of the household residing in transitional housing for the homeless;”.
+Subsec. (k)(2)(F) to (H). Pub. L. 104–193, § 811, redesignated subpars. (G) and (H) as (F) and (G), respectively, and struck out former subpar. (F) which read as follows: “housing assistance payments made to a third party on behalf of the household residing in transitional housing for the homeless;”.
 
-Subsec. (k)(4). Pub. L. 104–193, § 808(b)(3), added par. (4).
+Subsec. (k)(4). Pub. L. 104–193, § 808(b)(3), added par. (4).
 
-Subsec. (m). Pub. L. 104–193, § 812, added subsec. (m).
+Subsec. (m). Pub. L. 104–193, § 812, added subsec. (m).
 
-Pub. L. 104–193, § 109(a)(4), struck out subsec. (m) which read as follows: “If a State agency excludes payments from income for purposes of the food stamp program under subsection (d)(13) of this section, such State agency shall pay to the Federal Government, in a manner prescribed by the Secretary, the cost of any additional benefits provided to households in such State that arise under such program as the result of such exclusion.”
+Pub. L. 104–193, § 109(a)(4), struck out subsec. (m) which read as follows: “If a State agency excludes payments from income for purposes of the food stamp program under subsection (d)(13) of this section, such State agency shall pay to the Federal Government, in a manner prescribed by the Secretary, the cost of any additional benefits provided to households in such State that arise under such program as the result of such exclusion.”
 
 1994—Subsec. (f)(2)(C). Pub. L. 103–225 substituted “clauses (i), (ii), and (iii)” for “clauses (i), (ii), (iii), and (iv)”.
 
-1993—Subsec. (d)(7). Pub. L. 103–66, § 13911, substituted “who is an elementary or secondary school student, and who is 21 years of age or younger” for “who is a student, and who has not attained his eighteenth birthday”.
+1993—Subsec. (d)(7). Pub. L. 103–66, § 13911, substituted “who is an elementary or secondary school student, and who is 21 years of age or younger” for “who is a student, and who has not attained his eighteenth birthday”.
 
-Subsec. (e). Pub. L. 103–66, § 13922(a), in cl. (1) of fourth sentence, substituted “$200 a month for each dependent child under 2 years of age and $175 a month for each other dependent” for “$160 a month for each dependent”, and struck out “, regardless of the dependent’s age,” before “when such care enables a household member to accept”.
+Subsec. (e). Pub. L. 103–66, § 13922(a), in cl. (1) of fourth sentence, substituted “$200 a month for each dependent child under 2 years of age and $175 a month for each other dependent” for “$160 a month for each dependent”, and struck out “, regardless of the dependent’s age,” before “when such care enables a household member to accept”.
 
-Pub. L. 103–66, § 13912(a)(1), in fourth sentence struck out “: *Provided*, That the amount of such excess shelter expense deduction shall not exceed $164 a month in the forty-eight contiguous States and the District of Columbia, and shall not exceed, in Alaska, Hawaii, Guam, and the Virgin Islands of the United States $285, $234, $199, and $121 a month, respectively, adjusted on October 1, 1988, and on each October 1 thereafter, to the nearest lower dollar increment to reflect changes in the shelter, fuel, and utilities components of housing costs in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, as appropriately adjusted by the Bureau of Labor Statistics after consultation with the Secretary, for the twelve months ending the preceding June 30” after “deductions have been allowed”.
+Pub. L. 103–66, § 13912(a)(1), in fourth sentence struck out “: *Provided*, That the amount of such excess shelter expense deduction shall not exceed $164 a month in the forty-eight contiguous States and the District of Columbia, and shall not exceed, in Alaska, Hawaii, Guam, and the Virgin Islands of the United States $285, $234, $199, and $121 a month, respectively, adjusted on October 1, 1988, and on each October 1 thereafter, to the nearest lower dollar increment to reflect changes in the shelter, fuel, and utilities components of housing costs in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, as appropriately adjusted by the Bureau of Labor Statistics after consultation with the Secretary, for the twelve months ending the preceding June 30” after “deductions have been allowed”.
 
-Pub. L. 103–66, § 13912(b)(2), which directed amendment of subsec. (e), as amended by section 13912(b)(1) of Pub. L. 103–66, by striking out the fifth and sixth sentences, could not be executed in view of amendment by Pub. L. 104–193. See 1996 Amendment note above and Effective Date of 1993 Amendment note below.
+Pub. L. 103–66, § 13912(b)(2), which directed amendment of subsec. (e), as amended by section 13912(b)(1) of Pub. L. 103–66, by striking out the fifth and sixth sentences, could not be executed in view of amendment by Pub. L. 104–193. See 1996 Amendment note above and Effective Date of 1993 Amendment note below.
 
-Pub. L. 103–66, § 13912(b)(1), inserted new fifth and sixth sentences: “In the 15-month period ending September 30, 1995, such excess shelter expense deduction shall not exceed $231 a month in the 48 contiguous States and the District of Columbia, and shall not exceed, in Alaska, Hawaii, Guam, and the Virgin Islands of the United States, $402, $330, $280, and $171 a month, respectively. In the 15-month period ending December 31, 1996, such excess shelter expense deduction shall not exceed $247 a month in the 48 contiguous States and the District of Columbia, and shall not exceed, in Alaska, Hawaii, Guam, and the Virgin Islands of the United States, $429, $353, $300, and $182 a month, respectively.”
+Pub. L. 103–66, § 13912(b)(1), inserted new fifth and sixth sentences: “In the 15-month period ending September 30, 1995, such excess shelter expense deduction shall not exceed $231 a month in the 48 contiguous States and the District of Columbia, and shall not exceed, in Alaska, Hawaii, Guam, and the Virgin Islands of the United States, $402, $330, $280, and $171 a month, respectively. In the 15-month period ending December 31, 1996, such excess shelter expense deduction shall not exceed $247 a month in the 48 contiguous States and the District of Columbia, and shall not exceed, in Alaska, Hawaii, Guam, and the Virgin Islands of the United States, $429, $353, $300, and $182 a month, respectively.”
 
-Pub. L. 103–66, § 13912(a)(2), in seventh sentence struck out “under clause (2) of the preceding sentence” after “shelter expense deduction”.
+Pub. L. 103–66, § 13912(a)(2), in seventh sentence struck out “under clause (2) of the preceding sentence” after “shelter expense deduction”.
 
-Pub. L. 103–66, § 13921, inserted at end: “Before determining the excess shelter expense deduction, all households shall be entitled to a deduction for child support payments made by a household member to or for an individual who is not a member of the household if such household member was legally obligated to make such payments, except that the Secretary is authorized to prescribe by regulation the methods, including calculation on a retrospective basis, that State agencies shall use to determine the amount of the deduction for child support payments.”
+Pub. L. 103–66, § 13921, inserted at end: “Before determining the excess shelter expense deduction, all households shall be entitled to a deduction for child support payments made by a household member to or for an individual who is not a member of the household if such household member was legally obligated to make such payments, except that the Secretary is authorized to prescribe by regulation the methods, including calculation on a retrospective basis, that State agencies shall use to determine the amount of the deduction for child support payments.”
 
-Subsec. (g)(2). Pub. L. 103–66, § 13924, inserted at end: “The Secretary shall exclude from financial resources the value of a vehicle that a household depends upon to carry fuel for heating or water for home use when such transported fuel or water is the primary source of fuel or water for the household.”
+Subsec. (g)(2). Pub. L. 103–66, § 13924, inserted at end: “The Secretary shall exclude from financial resources the value of a vehicle that a household depends upon to carry fuel for heating or water for home use when such transported fuel or water is the primary source of fuel or water for the household.”
 
-Pub. L. 103–66, § 13923, substituted “a level set by the Secretary, which shall be $4,500 through August 31, 1994, $4,550 beginning September 1, 1994, through September 30, 1995, $4,600 beginning October 1, 1995, through September 30, 1996, and $5,000 beginning October 1, 1996, as adjusted on such date and on each October 1 thereafter to reflect changes in the new car component of the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics for the 12-month period ending on June 30 preceding the date of such adjustment and rounded to the nearest $50” for “$4,500”.
+Pub. L. 103–66, § 13923, substituted “a level set by the Secretary, which shall be $4,500 through August 31, 1994, $4,550 beginning September 1, 1994, through September 30, 1995, $4,600 beginning October 1, 1995, through September 30, 1996, and $5,000 beginning October 1, 1996, as adjusted on such date and on each October 1 thereafter to reflect changes in the new car component of the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics for the 12-month period ending on June 30 preceding the date of such adjustment and rounded to the nearest $50” for “$4,500”.
 
-Subsec. (g)(3). Pub. L. 103–66, § 13913, inserted at end: “The Secretary shall also exclude from financial resources any earned income tax credits received by any member of the household for a period of 12 months from receipt if such member was participating in the food stamp program at the time the credits were received and participated in such program continuously during the 12-month period.”
+Subsec. (g)(3). Pub. L. 103–66, § 13913, inserted at end: “The Secretary shall also exclude from financial resources any earned income tax credits received by any member of the household for a period of 12 months from receipt if such member was participating in the food stamp program at the time the credits were received and participated in such program continuously during the 12-month period.”
 
-Subsec. (k)(1)(B). Pub. L. 103–66, § 13915, substituted “housing expenses, not including energy or utility-cost assistance,” for “living expenses”.
+Subsec. (k)(1)(B). Pub. L. 103–66, § 13915, substituted “housing expenses, not including energy or utility-cost assistance,” for “living expenses”.
 
-Subsec. (k)(2)(F). Pub. L. 103–66, § 13914, amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “housing assistance payments made to a third party on behalf of a household residing in transitional housing for the homeless in an amount equal to 50 percent of the maximum shelter allowance provided to families not residing in such transitional housing under the States’ plan for aid to families with dependent children approved under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), if the State agency calculates a shelter allowance to be paid under the State plan separate and apart from payments for other household needs even though it may be paid in combination with other allowances in some cases;”.
+Subsec. (k)(2)(F). Pub. L. 103–66, § 13914, amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “housing assistance payments made to a third party on behalf of a household residing in transitional housing for the homeless in an amount equal to 50 percent of the maximum shelter allowance provided to families not residing in such transitional housing under the States’ plan for aid to families with dependent children approved under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), if the State agency calculates a shelter allowance to be paid under the State plan separate and apart from payments for other household needs even though it may be paid in combination with other allowances in some cases;”.
 
 1992—Subsec. (d)(16). Pub. L. 102–265 substituted “subparagraph (A)(iii) or (B)(iv) of section 1612(b)(4) of the Social Security Act (42 U.S.C. 1382a(b)(4))” for “section 1612(b)(4)(B)(iv) of the Social Security Act (42 U.S.C. 1382a(b)(4)(B)(iv))”.
 
 Subsec. (*l*). Pub. L. 102–367 substituted “section 1604(b)(1)(C) or section 1644(c)(1)(A) of title 29” for “section 1604(5) of title 29”.
 
-1991—Subsec. (a). Pub. L. 102–237, § 902, substituted “based on income criteria comparable to or more restrictive than those under subsection (c)(2) of this section, and not limited to one-time emergency payments that cannot be provided for more than one consecutive month,” for “appropriate for categorical treatment”.
+1991—Subsec. (a). Pub. L. 102–237, § 902, substituted “based on income criteria comparable to or more restrictive than those under subsection (c)(2) of this section, and not limited to one-time emergency payments that cannot be provided for more than one consecutive month,” for “appropriate for categorical treatment”.
 
-Subsec. (d)(2). Pub. L. 102–237, § 941(2)(A), made technical amendment to reference to subsection (f) of this section involving corresponding provision of original act.
+Subsec. (d)(2). Pub. L. 102–237, § 941(2)(A), made technical amendment to reference to subsection (f) of this section involving corresponding provision of original act.
 
-Subsec. (d)(3)(A). Pub. L. 102–237, § 903(1)(A), substituted “awarded to a household member enrolled” for “to the extent that they are used for tuition and mandatory school fees (including the rental or purchase of any equipment, materials, and supplies required to pursue the course of study involved)”.
+Subsec. (d)(3)(A). Pub. L. 102–237, § 903(1)(A), substituted “awarded to a household member enrolled” for “to the extent that they are used for tuition and mandatory school fees (including the rental or purchase of any equipment, materials, and supplies required to pursue the course of study involved)”.
 
-Subsec. (d)(3)(B). Pub. L. 102–237, § 903(1)(B), inserted “used for or” after “amount” and substituted “program, or other grantor, for tuition and mandatory fees (including the rental or purchase of any equipment, materials, and supplies related to the pursuit of the course of study involved),” for “or program for”.
+Subsec. (d)(3)(B). Pub. L. 102–237, § 903(1)(B), inserted “used for or” after “amount” and substituted “program, or other grantor, for tuition and mandatory fees (including the rental or purchase of any equipment, materials, and supplies related to the pursuit of the course of study involved),” for “or program for”.
 
 Subsec. (d)(12). Pub. L. 102–40 substituted “section 5312 of title 38” for “section 3112 of title 38”.
 
-Subsec. (d)(16). Pub. L. 102–237, § 903(2), (3), added cl. (16).
+Subsec. (d)(16). Pub. L. 102–237, § 903(2), (3), added cl. (16).
 
-Subsec. (g)(5). Pub. L. 102–237, § 904, inserted at end “A resource shall be so identified if its sale or other disposition is unlikely to produce any significant amount of funds for the support of the household. The Secretary shall not require the State agency to require verification of the value of a resource to be excluded under this paragraph unless the State agency determines that the information provided by the household is questionable.”
+Subsec. (g)(5). Pub. L. 102–237, § 904, inserted at end “A resource shall be so identified if its sale or other disposition is unlikely to produce any significant amount of funds for the support of the household. The Secretary shall not require the State agency to require verification of the value of a resource to be excluded under this paragraph unless the State agency determines that the information provided by the household is questionable.”
 
-Subsec. (h)(1). Pub. L. 102–237, § 941(2)(B), made technical amendment to references to sections 5170a and 5192 of title 42 to reflect change in reference to corresponding provision of original act.
+Subsec. (h)(1). Pub. L. 102–237, § 941(2)(B), made technical amendment to references to sections 5170a and 5192 of title 42 to reflect change in reference to corresponding provision of original act.
 
-Subsec. (j). Pub. L. 102–237, § 905, amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “Notwithstanding subsections (a) through (i) of this section, a State agency may consider the resources of a household member who receives supplemental security income benefits under title XVI of the Social Security Act, aid to the aged, blind, or disabled under title I, X, XIV, or XVI of the Social Security Act or who receives benefits under a State plan approved under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) and whose income does not exceed the applicable income standard of eligibility described in subsection (c)(2) of this section to be exempt for purposes of satisfying the resource limitations prescribed under subsection (g) of this section if the resources are considered exempt for purposes of such title.”
+Subsec. (j). Pub. L. 102–237, § 905, amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “Notwithstanding subsections (a) through (i) of this section, a State agency may consider the resources of a household member who receives supplemental security income benefits under title XVI of the Social Security Act, aid to the aged, blind, or disabled under title I, X, XIV, or XVI of the Social Security Act or who receives benefits under a State plan approved under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) and whose income does not exceed the applicable income standard of eligibility described in subsection (c)(2) of this section to be exempt for purposes of satisfying the resource limitations prescribed under subsection (g) of this section if the resources are considered exempt for purposes of such title.”
 
-Subsec. (k)(2)(E). Pub. L. 102–237, § 941(2)(C), realigned the margin.
+Subsec. (k)(2)(E). Pub. L. 102–237, § 941(2)(C), realigned the margin.
 
-Subsec. (k)(2)(F). Pub. L. 102–237, § 906, inserted before semicolon at end “, if the State agency calculates a shelter allowance to be paid under the State plan separate and apart from payments for other household needs even though it may be paid in combination with other allowances in some cases”.
+Subsec. (k)(2)(F). Pub. L. 102–237, § 906, inserted before semicolon at end “, if the State agency calculates a shelter allowance to be paid under the State plan separate and apart from payments for other household needs even though it may be paid in combination with other allowances in some cases”.
 
-1990—Subsec. (a). Pub. L. 101–624, § 1714(2), inserted after second sentence “Except for sections 2015, 2025(e)(1), and the third sentence of section 2012(i) of this title, households in which each member receives benefits under a State or local general assistance program that complies with standards established by the Secretary for ensuring that the program is appropriate for categorical treatment shall be eligible to participate in the food stamp program.”
+1990—Subsec. (a). Pub. L. 101–624, § 1714(2), inserted after second sentence “Except for sections 2015, 2025(e)(1), and the third sentence of section 2012(i) of this title, households in which each member receives benefits under a State or local general assistance program that complies with standards established by the Secretary for ensuring that the program is appropriate for categorical treatment shall be eligible to participate in the food stamp program.”
 
-Pub. L. 101–624, § 1714(1), struck out “and beginning on December 23, 1985,” before “households in which each member receives”.
+Pub. L. 101–624, § 1714(1), struck out “and beginning on December 23, 1985,” before “households in which each member receives”.
 
-Subsec. (d)(3). Pub. L. 101–624, § 1715(a)(1), inserted “(A)” after “the like” and substituted “(including the rental or purchase of any equipment, materials, and supplies required to pursue the course of study involved) at a recognized institution of post-secondary education, at a school for the handicapped, in a vocational education program, or in a program that provides for completion of a secondary school diploma or obtaining the equivalent thereof, (B) to the extent that they do not exceed the amount made available as an allowance determined by such school, institution, or program for books, supplies, transportation, and other miscellaneous personal expenses (other than living expenses), of the student incidental to attending such school, institution, or program, and (C)” for “at an institution of post-secondary education or school for the handicapped, and”.
+Subsec. (d)(3). Pub. L. 101–624, § 1715(a)(1), inserted “(A)” after “the like” and substituted “(including the rental or purchase of any equipment, materials, and supplies required to pursue the course of study involved) at a recognized institution of post-secondary education, at a school for the handicapped, in a vocational education program, or in a program that provides for completion of a secondary school diploma or obtaining the equivalent thereof, (B) to the extent that they do not exceed the amount made available as an allowance determined by such school, institution, or program for books, supplies, transportation, and other miscellaneous personal expenses (other than living expenses), of the student incidental to attending such school, institution, or program, and (C)” for “at an institution of post-secondary education or school for the handicapped, and”.
 
-Subsec. (d)(5). Pub. L. 101–624, § 1716, inserted “and any allowance a State agency provides no more frequently than annually to families with children on the occasion of those children’s entering or returning to school or child care for the purpose of obtaining school clothes (except that no such allowance shall be excluded if the State agency reduces monthly assistance to families with dependent children under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) in the month for which the allowance is provided)” after “household”.
+Subsec. (d)(5). Pub. L. 101–624, § 1716, inserted “and any allowance a State agency provides no more frequently than annually to families with children on the occasion of those children’s entering or returning to school or child care for the purpose of obtaining school clothes (except that no such allowance shall be excluded if the State agency reduces monthly assistance to families with dependent children under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) in the month for which the allowance is provided)” after “household”.
 
-Pub. L. 101–624, § 1715(a)(2), inserted “and” after “1988),”, struck out “non-Federal” after “no portion of any”, and struck out “and no portion of any Federal educational loan on which payment is deferred, grant, scholarship, fellowship, veterans’ benefits, and the like to the extent it provides income assistance beyond that used for tuition and mandatory school fees,” before “shall be considered such reimbursement”.
+Pub. L. 101–624, § 1715(a)(2), inserted “and” after “1988),”, struck out “non-Federal” after “no portion of any”, and struck out “and no portion of any Federal educational loan on which payment is deferred, grant, scholarship, fellowship, veterans’ benefits, and the like to the extent it provides income assistance beyond that used for tuition and mandatory school fees,” before “shall be considered such reimbursement”.
 
-Subsec. (e). Pub. L. 101–624, § 1717, inserted before period at end of last sentence “, shall rely on reasonable estimates of the member’s expected medical expenses for the certification period (including changes that can be reasonably anticipated based on available information about the member’s medical condition, public or private medical insurance coverage, and the current verified medical expenses incurred by the member), and shall not require further reporting or verification of a change in medical expenses if such a change has been anticipated for the certification period”.
+Subsec. (e). Pub. L. 101–624, § 1717, inserted before period at end of last sentence “, shall rely on reasonable estimates of the member’s expected medical expenses for the certification period (including changes that can be reasonably anticipated based on available information about the member’s medical condition, public or private medical insurance coverage, and the current verified medical expenses incurred by the member), and shall not require further reporting or verification of a change in medical expenses if such a change has been anticipated for the certification period”.
 
-Pub. L. 101–624, § 1715(b), inserted “, amounts made available and excluded for the expenses under subsection (d)(3) of this section,” after “third party” in fourth sentence.
+Pub. L. 101–624, § 1715(b), inserted “, amounts made available and excluded for the expenses under subsection (d)(3) of this section,” after “third party” in fourth sentence.
 
-Subsec. (f)(2). Pub. L. 101–624, § 1718(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
+Subsec. (f)(2). Pub. L. 101–624, § 1718(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
 “(A) Households not required to submit monthly reports of their income and household circumstances under section 2015(c)(1) of this title shall have their income calculated on a prospective basis, as provided in paragraph (3)(A).
 
 “(B) Households required to submit monthly reports of their income and household circumstances under section 2015(c)(1) of this title shall have their income calculated on a retrospective basis, as provided in paragraph (3)(B), except that in the case of the first month, or at the option of the State the first and second months, in a continuous period in which a household is certified, the State agency shall determine the amount of benefits on the basis of the household’s income and other relevant circumstances in such first or second month.”
 
-Subsec. (g). Pub. L. 101–624, § 1726(b)(2), inserted before period at end of par. (3) “and nonliquid resources necessary to allow the household to carry out a plan for self-sufficiency approved by the State agency that constitutes adequate participation in an employment and training program under section 2015(d) of this title”.
+Subsec. (g). Pub. L. 101–624, § 1726(b)(2), inserted before period at end of par. (3) “and nonliquid resources necessary to allow the household to carry out a plan for self-sufficiency approved by the State agency that constitutes adequate participation in an employment and training program under section 2015(d) of this title”.
 
-Pub. L. 101–624, § 1719(1), designated first through fourth sentences as pars. (1) to (4), respectively, and added par. (5).
+Pub. L. 101–624, § 1719(1), designated first through fourth sentences as pars. (1) to (4), respectively, and added par. (5).
 
-Subsec. (h)(3). Pub. L. 101–624, § 1720, added par. (3).
+Subsec. (h)(3). Pub. L. 101–624, § 1720, added par. (3).
 
-Subsec. (j). Pub. L. 101–624, § 1719(2), substituted “the resources of a household member who receives supplemental security income benefits under title XVI of the Social Security Act, aid to the aged, blind, or disabled under title I, X, XIV, or XVI of the Social Security Act or who receives” for “a household in which all members of the household receive” and “be exempt for purposes of satisfying the resource limitations prescribed under subsection (g) of this section if the resources are considered exempt for purposes of such title” for “have satisfied the resource limitations prescribed under subsection (g) of this section”.
+Subsec. (j). Pub. L. 101–624, § 1719(2), substituted “the resources of a household member who receives supplemental security income benefits under title XVI of the Social Security Act, aid to the aged, blind, or disabled under title I, X, XIV, or XVI of the Social Security Act or who receives” for “a household in which all members of the household receive” and “be exempt for purposes of satisfying the resource limitations prescribed under subsection (g) of this section if the resources are considered exempt for purposes of such title” for “have satisfied the resource limitations prescribed under subsection (g) of this section”.
 
-Subsec. (k)(2)(F). Pub. L. 101–624, § 1721, added subpar. (F) and struck out former subpar. (F) which read as follows: “housing assistance payments made to a third party on behalf of a household residing in temporary housing if the temporary housing unit provided for the household as a result of such assistance payments lacks facilities for the preparation and cooking of hot meals or the refrigerated storage of food for home consumption; or”.
+Subsec. (k)(2)(F). Pub. L. 101–624, § 1721, added subpar. (F) and struck out former subpar. (F) which read as follows: “housing assistance payments made to a third party on behalf of a household residing in temporary housing if the temporary housing unit provided for the household as a result of such assistance payments lacks facilities for the preparation and cooking of hot meals or the refrigerated storage of food for home consumption; or”.
 
-Subsec. (k)(2)(H). Pub. L. 101–624, § 1722, added subpar. (H).
+Subsec. (k)(2)(H). Pub. L. 101–624, § 1722, added subpar. (H).
 
-1988—Subsec. (a). Pub. L. 100–435, § 201, struck out “during the period” before “beginning on December 23, 1985” and “and ending on September 30, 1989” after “beginning on December 23, 1985,”.
+1988—Subsec. (a). Pub. L. 100–435, § 201, struck out “during the period” before “beginning on December 23, 1985” and “and ending on September 30, 1989” after “beginning on December 23, 1985,”.
 
-Subsec. (d)(1). Pub. L. 100–435, § 340(2), inserted “(notwithstanding its conversion in whole or in part to direct payments to households pursuant to any demonstration project carried out or authorized under Federal law including demonstration projects created by the waiver of provisions of Federal law)” after “to a household”.
+Subsec. (d)(1). Pub. L. 100–435, § 340(2), inserted “(notwithstanding its conversion in whole or in part to direct payments to households pursuant to any demonstration project carried out or authorized under Federal law including demonstration projects created by the waiver of provisions of Federal law)” after “to a household”.
 
-Pub. L. 100–435, § 340(1), which directed that “and except as provided in subsection (k),” be struck out was executed by striking out “except as provided in subsection (k),” as the probable intent of Congress.
+Pub. L. 100–435, § 340(1), which directed that “and except as provided in subsection (k),” be struck out was executed by striking out “except as provided in subsection (k),” as the probable intent of Congress.
 
-Subsec. (d)(5). Pub. L. 100–435, § 404(f), inserted “(except for payments or reimbursements for such expenses made under an employment, education, or training program initiated under such title after September 19, 1988)” after “child care expenses”.
+Subsec. (d)(5). Pub. L. 100–435, § 404(f), inserted “(except for payments or reimbursements for such expenses made under an employment, education, or training program initiated under such title after September 19, 1988)” after “child care expenses”.
 
 Subsec. (d)(8). Pub. L. 100–232 inserted “cash donations based on need that are received from one or more private nonprofit charitable organizations, but not in excess of $300 in the aggregate in a quarter,” after “or credits,”.
 
-Subsec. (d)(11). Pub. L. 100–435, § 343, substituted “allowances made for the purpose of providing energy assistance (A) under any Federal law, or (B) under any State or local laws, designated” for “allowances made under (A) any Federal law for the purpose of providing energy assistance, or (B) any State or local laws for the purpose of providing energy assistance, designated”.
+Subsec. (d)(11). Pub. L. 100–435, § 343, substituted “allowances made for the purpose of providing energy assistance (A) under any Federal law, or (B) under any State or local laws, designated” for “allowances made under (A) any Federal law for the purpose of providing energy assistance, or (B) any State or local laws for the purpose of providing energy assistance, designated”.
 
-Subsec. (d)(14). Pub. L. 100–435, § 402, added cl. (14).
+Subsec. (d)(14). Pub. L. 100–435, § 402, added cl. (14).
 
-Subsec. (d)(15). Pub. L. 100–435, § 403(a), added cl. (15).
+Subsec. (d)(15). Pub. L. 100–435, § 403(a), added cl. (15).
 
-Subsec. (e). Pub. L. 100–435, § 403(b), in fourth sentence inserted “and expenses that are paid under section 2015(d)(4)(I) of this title for dependent care” after “third party” and substituted “$160 a month for each dependent” for “$160 a month”.
+Subsec. (e). Pub. L. 100–435, § 403(b), in fourth sentence inserted “and expenses that are paid under section 2015(d)(4)(I) of this title for dependent care” after “third party” and substituted “$160 a month for each dependent” for “$160 a month”.
 
-Pub. L. 100–435, § 351, inserted provisions at end respecting method of claiming recurring medical expense deduction.
+Pub. L. 100–435, § 351, inserted provisions at end respecting method of claiming recurring medical expense deduction.
 
-Subsec. (f)(1)(A). Pub. L. 100–435, § 341, inserted provisions relating to permitted averaging of income and expenses in calculation of household income from member self-employed in farming operation and substituted “first” for “preceding”.
+Subsec. (f)(1)(A). Pub. L. 100–435, § 341, inserted provisions relating to permitted averaging of income and expenses in calculation of household income from member self-employed in farming operation and substituted “first” for “preceding”.
 
-Subsec. (f)(2). Pub. L. 100–435, § 202(a), added par. (2) and struck out former par. (2) which read as follows:
+Subsec. (f)(2). Pub. L. 100–435, § 202(a), added par. (2) and struck out former par. (2) which read as follows:
 
 “(A) Household income for—
 
@@ -2203,127 +2203,127 @@ shall be calculated on a prospective basis, as provided in paragraph (3)(A).
 
 “(D) Household income for all other households may be calculated, at the option of the State agency, on a prospective basis as provided in paragraph (3)(A) or on a retrospective basis as provided in paragraph (3)(B).”
 
-Subsec. (g). Pub. L. 100–435, § 342, inserted provisions at end relating to exclusion of farm property from financial resources.
+Subsec. (g). Pub. L. 100–435, § 342, inserted provisions at end relating to exclusion of farm property from financial resources.
 
 Subsec. (h). Pub. L. 100–707 substituted “sections 5170a and 5192” for “section 5142(a)”.
 
 Subsec. (k)(2)(E) to (G). Pub. L. 100–387 added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
 
-1987—Subsec. (c). Pub. L. 100–77, § 803(a), inserted “shall be adjusted each October 1 and” after first reference to “eligibility”.
+1987—Subsec. (c). Pub. L. 100–77, § 803(a), inserted “shall be adjusted each October 1 and” after first reference to “eligibility”.
 
-Subsec. (e). Pub. L. 100–77, § 804(a), in second sentence substituted “(3)” for “and (3)” and “October 1, 1986” for “each October 1 thereafter”, and inserted cl. (4).
+Subsec. (e). Pub. L. 100–77, § 804(a), in second sentence substituted “(3)” for “and (3)” and “October 1, 1986” for “each October 1 thereafter”, and inserted cl. (4).
 
-Pub. L. 100–77, § 805(a), inserted at end of third sentence “, except that such additional deduction shall not be allowed with respect to earned income that a household willfully or fraudulently fails (as proven in a proceeding provided for in section 2015(b) of this title) to report in a timely manner”.
+Pub. L. 100–77, § 805(a), inserted at end of third sentence “, except that such additional deduction shall not be allowed with respect to earned income that a household willfully or fraudulently fails (as proven in a proceeding provided for in section 2015(b) of this title) to report in a timely manner”.
 
-Pub. L. 100–77, § 806(a), amended proviso in fourth sentence generally. Prior to amendment, the proviso read as follows: “That the amount of such excess shelter expense deduction shall not exceed $147 a month in the forty-eight contiguous States and the District of Columbia, and shall not exceed, in Alaska, Hawaii, Guam, and the Virgin Islands of the United States, $256, $210, $179, and $109 a month, respectively, adjusted on October 1, 1986, and on each October 1 thereafter, to the nearest lower dollar increment to reflect changes in the shelter (exclusive of homeowners’ costs and maintenance and repair component of shelter costs), fuel, and utilities components of housing costs in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, as appropriately adjusted by the Bureau of Labor Statistics after consultation with the Secretary, for the twelve months ending the preceding June 30.”
+Pub. L. 100–77, § 806(a), amended proviso in fourth sentence generally. Prior to amendment, the proviso read as follows: “That the amount of such excess shelter expense deduction shall not exceed $147 a month in the forty-eight contiguous States and the District of Columbia, and shall not exceed, in Alaska, Hawaii, Guam, and the Virgin Islands of the United States, $256, $210, $179, and $109 a month, respectively, adjusted on October 1, 1986, and on each October 1 thereafter, to the nearest lower dollar increment to reflect changes in the shelter (exclusive of homeowners’ costs and maintenance and repair component of shelter costs), fuel, and utilities components of housing costs in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics, as appropriately adjusted by the Bureau of Labor Statistics after consultation with the Secretary, for the twelve months ending the preceding June 30.”
 
-Subsec. (k)(2). Pub. L. 100–77, § 807, temporarily added subpar. (E) and redesignated former subpar. (E) as (F). See Effective and Termination Dates of 1987 Amendment note below.
+Subsec. (k)(2). Pub. L. 100–77, § 807, temporarily added subpar. (E) and redesignated former subpar. (E) as (F). See Effective and Termination Dates of 1987 Amendment note below.
 
 1986—Subsec. (e)(B). Pub. L. 99–500 and Pub. L. 99–591 substituted “contained in clause (1)” for “for the excess shelter expense deduction contained in clause (2)”.
 
-1985—Subsec. (a). Pub. L. 99–198, § 1507(a)(1), inserted sentence providing that, notwithstanding any other provisions of this chapter except sections 2015(b), 2015(d)(2), and 2015(g) and the third sentence of section 2012(i) of this title, and during the period beginning on December 23, 1985, and ending on September 30, 1989, households in which each member receives benefits under a State plan approved under part A of title IV of the Social Security Act, supplemental security income benefits under title XVI of the Social Security Act, or aid to the aged, blind, or disabled under title I, X, XIV, or XVI of the Social Security Act, shall be eligible to participate in the food stamp program.
+1985—Subsec. (a). Pub. L. 99–198, § 1507(a)(1), inserted sentence providing that, notwithstanding any other provisions of this chapter except sections 2015(b), 2015(d)(2), and 2015(g) and the third sentence of section 2012(i) of this title, and during the period beginning on December 23, 1985, and ending on September 30, 1989, households in which each member receives benefits under a State plan approved under part A of title IV of the Social Security Act, supplemental security income benefits under title XVI of the Social Security Act, or aid to the aged, blind, or disabled under title I, X, XIV, or XVI of the Social Security Act, shall be eligible to participate in the food stamp program.
 
-Subsec. (d)(1). Pub. L. 99–198, § 1508(1), inserted “except as provided in subsection (k) of this section,” after “payable directly to a household,”. Such amendment was duplicated exactly by section 1509(a)(1) of Pub. L. 99–198 except that the amendment by section 1509(a)(1) inserted an “and” at beginning of phrase inserted.
+Subsec. (d)(1). Pub. L. 99–198, § 1508(1), inserted “except as provided in subsection (k) of this section,” after “payable directly to a household,”. Such amendment was duplicated exactly by section 1509(a)(1) of Pub. L. 99–198 except that the amendment by section 1509(a)(1) inserted an “and” at beginning of phrase inserted.
 
-Pub. L. 99–198, § 1509(a)(1), which directed that “and except as provided in subsection (k) of this section,” be inserted after “payable directly to a household,”, was not executed to text because it exactly duplicates the amendment made by section 1508(1) of Pub. L. 99–198 except that the amendment by section 1508(1) of Pub. L. 99–198 does not contain the “and” at beginning of phrase inserted.
+Pub. L. 99–198, § 1509(a)(1), which directed that “and except as provided in subsection (k) of this section,” be inserted after “payable directly to a household,”, was not executed to text because it exactly duplicates the amendment made by section 1508(1) of Pub. L. 99–198 except that the amendment by section 1508(1) of Pub. L. 99–198 does not contain the “and” at beginning of phrase inserted.
 
-Subsec. (d)(3). Pub. L. 99–198, § 1509(a)(2), substituted “post-secondary education” for “higher education” and inserted “and to the extent loans include any obligation fees and insurance premiums,”.
+Subsec. (d)(3). Pub. L. 99–198, § 1509(a)(2), substituted “post-secondary education” for “higher education” and inserted “and to the extent loans include any obligation fees and insurance premiums,”.
 
-Subsec. (d)(5). Pub. L. 99–198, § 1509(a)(3), inserted “no portion of any non-Federal educational loan on which payment is deferred, grant, scholarship, fellowship, veterans’ benefits, and the like that are provided for living expenses, and no portion of any Federal educational loan on which payment is deferred, grant, scholarship, fellowship, veterans’ benefits, and the like to the extent it provides income assistance beyond that used for tuition and mandatory school fees,” after “child care expenses,”.
+Subsec. (d)(5). Pub. L. 99–198, § 1509(a)(3), inserted “no portion of any non-Federal educational loan on which payment is deferred, grant, scholarship, fellowship, veterans’ benefits, and the like that are provided for living expenses, and no portion of any Federal educational loan on which payment is deferred, grant, scholarship, fellowship, veterans’ benefits, and the like to the extent it provides income assistance beyond that used for tuition and mandatory school fees,” after “child care expenses,”.
 
-Subsec. (d)(9). Pub. L. 99–198, § 1509(a)(4), inserted “, but household income that otherwise is included under this subsection shall be reduced by the extent that the cost of producing self-employment income exceeds the income derived from self-employment as a farmer”.
+Subsec. (d)(9). Pub. L. 99–198, § 1509(a)(4), inserted “, but household income that otherwise is included under this subsection shall be reduced by the extent that the cost of producing self-employment income exceeds the income derived from self-employment as a farmer”.
 
-Subsec. (d)(10). Pub. L. 99–198, § 1509(a)(5), inserted “except as otherwise provided in subsection (k) of this section”.
+Subsec. (d)(10). Pub. L. 99–198, § 1509(a)(5), inserted “except as otherwise provided in subsection (k) of this section”.
 
-Subsec. (d)(13). Pub. L. 99–198, § 1510(1), added cl. (13).
+Subsec. (d)(13). Pub. L. 99–198, § 1510(1), added cl. (13).
 
-Subsec. (e). Pub. L. 99–198, § 1511(1), substituted “homeowners’ costs and maintenance and repair component” for “homeownership component” in second sentence.
+Subsec. (e). Pub. L. 99–198, § 1511(1), substituted “homeowners’ costs and maintenance and repair component” for “homeownership component” in second sentence.
 
-Pub. L. 99–198, § 1511(2), substituted “20 per centum” for “18 per centum” in third sentence.
+Pub. L. 99–198, § 1511(2), substituted “20 per centum” for “18 per centum” in third sentence.
 
-Pub. L. 99–198, § 1511(3)(B), in cl. (1) of the fourth sentence substituted “$160 a month” for “the same as that for the excess shelter expense deduction contained in clause (2) of this subsection”.
+Pub. L. 99–198, § 1511(3)(B), in cl. (1) of the fourth sentence substituted “$160 a month” for “the same as that for the excess shelter expense deduction contained in clause (2) of this subsection”.
 
-Pub. L. 99–198, § 1511(3)(C), substituted “and (2)” for “, or (2)” in fourth sentence.
+Pub. L. 99–198, § 1511(3)(C), substituted “and (2)” for “, or (2)” in fourth sentence.
 
-Pub. L. 99–198, § 1511(3)(A), amended proviso in cl. (2) generally. Prior to amendment, proviso read as follows: “That the amount of such excess shelter expense deduction shall not exceed $115 a month in the forty-eight contiguous States and the District of Columbia, and shall not exceed, in Alaska, Hawaii, Guam, and the Virgin Islands of the United States, $200, $165, $140, and $85, respectively, adjusted (i) on October 1, 1983, to the nearest lower dollar increment to reflect changes in the shelter (exclusive of homeownership costs), fuel, and utilities components of housing costs in the Consumer Price Index for all urban consumers published by the Bureau of Labor Statistics, as appropriately adjusted by the Bureau of Labor Statistics after consultation with the Secretary, for the fifteen months ending the preceding March 31, (ii) on October 1, 1984, to the nearest lower dollar increment to reflect such changes for the fifteen months ending the preceding June 30, and (iii) on October 1, 1985, and each October 1 thereafter, to the nearest lower dollar increment to reflect such changes for the twelve months ending the preceding June 30,”.
+Pub. L. 99–198, § 1511(3)(A), amended proviso in cl. (2) generally. Prior to amendment, proviso read as follows: “That the amount of such excess shelter expense deduction shall not exceed $115 a month in the forty-eight contiguous States and the District of Columbia, and shall not exceed, in Alaska, Hawaii, Guam, and the Virgin Islands of the United States, $200, $165, $140, and $85, respectively, adjusted (i) on October 1, 1983, to the nearest lower dollar increment to reflect changes in the shelter (exclusive of homeownership costs), fuel, and utilities components of housing costs in the Consumer Price Index for all urban consumers published by the Bureau of Labor Statistics, as appropriately adjusted by the Bureau of Labor Statistics after consultation with the Secretary, for the fifteen months ending the preceding March 31, (ii) on October 1, 1984, to the nearest lower dollar increment to reflect such changes for the fifteen months ending the preceding June 30, and (iii) on October 1, 1985, and each October 1 thereafter, to the nearest lower dollar increment to reflect such changes for the twelve months ending the preceding June 30,”.
 
-Pub. L. 99–198, § 1511(3)(D), in fourth sentence struck out “, or (3) a deduction combining the dependent care and excess shelter expense deductions under clauses (1) and (2) of this subsection, the maximum allowable level of which shall not exceed the maximum allowable deduction under clause (2) of this subsection, on January 1, 1981, adjusted to the nearest $5 increment to reflect such changes for the eighteen-month period ending the preceding September 30, and, on January 1, 1982, adjusted to the nearest $5 to reflect such changes for the twelve months ending the preceding September 30 and the subsequent three months ending December 31 as projected by the Secretary in light of the best available data, and, on every January 1 thereafter, adjusted annually to the nearest $5 increment to reflect such changes for the nine months ending the preceding September 30 and the subsequent three months ending December 31 projected by the Secretary in light of the best available data”.
+Pub. L. 99–198, § 1511(3)(D), in fourth sentence struck out “, or (3) a deduction combining the dependent care and excess shelter expense deductions under clauses (1) and (2) of this subsection, the maximum allowable level of which shall not exceed the maximum allowable deduction under clause (2) of this subsection, on January 1, 1981, adjusted to the nearest $5 increment to reflect such changes for the eighteen-month period ending the preceding September 30, and, on January 1, 1982, adjusted to the nearest $5 to reflect such changes for the twelve months ending the preceding September 30 and the subsequent three months ending December 31 as projected by the Secretary in light of the best available data, and, on every January 1 thereafter, adjusted annually to the nearest $5 increment to reflect such changes for the nine months ending the preceding September 30 and the subsequent three months ending December 31 projected by the Secretary in light of the best available data”.
 
-Pub. L. 99–198, § 1511(4), inserted five new sentences after the existing seventh sentence beginning, respectively, “If a State agency”, “A State agency may use”, “A State agency not electing”, “For purposes of”, and “A State agency shall allow”, thereby repositioning existing sentence beginning “Households containing an elderly or disabled member” to a new position as 13th sentence of subsec. (e).
+Pub. L. 99–198, § 1511(4), inserted five new sentences after the existing seventh sentence beginning, respectively, “If a State agency”, “A State agency may use”, “A State agency not electing”, “For purposes of”, and “A State agency shall allow”, thereby repositioning existing sentence beginning “Households containing an elderly or disabled member” to a new position as 13th sentence of subsec. (e).
 
-Subsec. (f)(1)(A). Pub. L. 99–198, § 1512, inserted sentence at end providing that notwithstanding preceding sentence, if the averaged amount does not accurately reflect the household’s actual monthly circumstances because the household has experienced a substantial increase or decrease in business earnings, the State agency shall calculate the self-employment income based on anticipated earnings.
+Subsec. (f)(1)(A). Pub. L. 99–198, § 1512, inserted sentence at end providing that notwithstanding preceding sentence, if the averaged amount does not accurately reflect the household’s actual monthly circumstances because the household has experienced a substantial increase or decrease in business earnings, the State agency shall calculate the self-employment income based on anticipated earnings.
 
-Subsec. (f)(2)(A). Pub. L. 99–198, § 1513(a)(1), amended subpar. (A) generally, inserting reference to households that have no earned income and in which all adult members are elderly or disabled members.
+Subsec. (f)(2)(A). Pub. L. 99–198, § 1513(a)(1), amended subpar. (A) generally, inserting reference to households that have no earned income and in which all adult members are elderly or disabled members.
 
-Subsec. (f)(2)(B). Pub. L. 99–198, § 1513(a)(2), substituted “households that are permitted to report household circumstances at specified intervals less frequent than monthly under the first sentence of section 2015(c)(1) of this title, may, with the approval” for “households that (i) are permitted to report household circumstances at specified intervals less frequent than monthly under section 2015(c)(1) of this title, (ii) have no earned income and in which all adult members are elderly or disabled members, or (iii) are any other households, other than a migrant household, not required to report monthly or at less frequent intervals under section 2015(c)(1) of this title, may, with the approval”.
+Subsec. (f)(2)(B). Pub. L. 99–198, § 1513(a)(2), substituted “households that are permitted to report household circumstances at specified intervals less frequent than monthly under the first sentence of section 2015(c)(1) of this title, may, with the approval” for “households that (i) are permitted to report household circumstances at specified intervals less frequent than monthly under section 2015(c)(1) of this title, (ii) have no earned income and in which all adult members are elderly or disabled members, or (iii) are any other households, other than a migrant household, not required to report monthly or at less frequent intervals under section 2015(c)(1) of this title, may, with the approval”.
 
-Subsec. (f)(2)(C). Pub. L. 99–198, § 1513(a)(3), substituted “Except as provided in subparagraphs (A) and (B), household income for households that have earned income and for households that include any member who has recent work history shall be calculated on a retrospective basis as provided in paragraph (3)(B)” for “Household income for all other households shall be calculated on a retrospective basis as provided in paragraph (3)(B)”.
+Subsec. (f)(2)(C). Pub. L. 99–198, § 1513(a)(3), substituted “Except as provided in subparagraphs (A) and (B), household income for households that have earned income and for households that include any member who has recent work history shall be calculated on a retrospective basis as provided in paragraph (3)(B)” for “Household income for all other households shall be calculated on a retrospective basis as provided in paragraph (3)(B)”.
 
-Subsec. (f)(2)(D). Pub. L. 99–198, § 1513(a)(3), added subpar. (D).
+Subsec. (f)(2)(D). Pub. L. 99–198, § 1513(a)(3), added subpar. (D).
 
-Subsec. (g). Pub. L. 99–198, § 1514(1), substituted “$2,000, or, in the case of a household which consists of or includes a member who is 60 years of age or older, if its resources exceed $3,000” for “$1,500, or, in the case of a household consisting of two or more persons, one of whom is age 60 or over, if its resources exceed $3,000”.
+Subsec. (g). Pub. L. 99–198, § 1514(1), substituted “$2,000, or, in the case of a household which consists of or includes a member who is 60 years of age or older, if its resources exceed $3,000” for “$1,500, or, in the case of a household consisting of two or more persons, one of whom is age 60 or over, if its resources exceed $3,000”.
 
-Pub. L. 99–198, § 1514(2), (3), inserted in second sentence “and inaccessible resources” after “relating to licensed vehicles” and “and any other property, real or personal, to the extent that it is directly related to the maintenance or use of such vehicle” after “physically disabled household member”, and inserted provision directing the Secretary to exclude from financial resources the value of a burial plot for each member of a household.
+Pub. L. 99–198, § 1514(2), (3), inserted in second sentence “and inaccessible resources” after “relating to licensed vehicles” and “and any other property, real or personal, to the extent that it is directly related to the maintenance or use of such vehicle” after “physically disabled household member”, and inserted provision directing the Secretary to exclude from financial resources the value of a burial plot for each member of a household.
 
-Subsec. (h)(2). Pub. L. 99–198, § 1515, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall establish a Food Stamp Disaster Task Force, to assist States in implementing and operating the disaster program, which shall be available to go into a disaster area and provide direct assistance to State and local officials.”
+Subsec. (h)(2). Pub. L. 99–198, § 1515, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall establish a Food Stamp Disaster Task Force, to assist States in implementing and operating the disaster program, which shall be available to go into a disaster area and provide direct assistance to State and local officials.”
 
-Subsec. (k)(1), (2). Pub. L. 99–198, § 1508(2), added subsec. (k) consisting of pars. (1) and (2).
+Subsec. (k)(1), (2). Pub. L. 99–198, § 1508(2), added subsec. (k) consisting of pars. (1) and (2).
 
-Subsec. (k)(3). Pub. L. 99–198, § 1509(b), added par. (3).
+Subsec. (k)(3). Pub. L. 99–198, § 1509(b), added par. (3).
 
-Subsec. (*l*). Pub. L. 99–198, § 1509(c), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 99–198, § 1509(c), added subsec. (*l*).
 
-Subsec. (m). Pub. L. 99–198, § 1510(2), added subsec. (m).
+Subsec. (m). Pub. L. 99–198, § 1510(2), added subsec. (m).
 
 1983—Subsec. (f)(2). Pub. L. 98–204 added subpar. (B), and redesignated former subpar. (B) as (C).
 
-1982—Subsec. (c). Pub. L. 97–253, §§ 145(c), 146(a), substituted provisions that the income standards of eligibility shall render a household ineligible for food stamps if the household’s income, after certain exclusions and deductions, exceeds the poverty line, or, in the case of a household not including an elderly or disabled member (after the exclusions provided for in subsec. (d) but before the deductions provided for in subsec. (e)) exceeds such poverty line by more than 30 per centum, for former provisions that the income standards of eligibility were, for households containing a member who was sixty years of age or over or a member who received supplemental security income benefits under title XVI of the Social Security Act or disability and blindness payments under titles I, II, X, XIV, and XVI of the Social Security Act, 100 per centum, and for all other households, 130 per centum, of the nonfarm income poverty guidelines prescribed by the Office of Management and Budget adjusted annually pursuant to section 2971d of title 42, for the forty-eight States and the District of Columbia, Alaska, Hawaii, the Virgin Islands of the United States, and Guam, respectively.
+1982—Subsec. (c). Pub. L. 97–253, §§ 145(c), 146(a), substituted provisions that the income standards of eligibility shall render a household ineligible for food stamps if the household’s income, after certain exclusions and deductions, exceeds the poverty line, or, in the case of a household not including an elderly or disabled member (after the exclusions provided for in subsec. (d) but before the deductions provided for in subsec. (e)) exceeds such poverty line by more than 30 per centum, for former provisions that the income standards of eligibility were, for households containing a member who was sixty years of age or over or a member who received supplemental security income benefits under title XVI of the Social Security Act or disability and blindness payments under titles I, II, X, XIV, and XVI of the Social Security Act, 100 per centum, and for all other households, 130 per centum, of the nonfarm income poverty guidelines prescribed by the Office of Management and Budget adjusted annually pursuant to section 2971d of title 42, for the forty-eight States and the District of Columbia, Alaska, Hawaii, the Virgin Islands of the United States, and Guam, respectively.
 
-Subsec. (d)(12). Pub. L. 97–253, § 147, added cl. (12).
+Subsec. (d)(12). Pub. L. 97–253, § 147, added cl. (12).
 
-Subsec. (e). Pub. L. 97–253, §§ 143(b), 145(d), 146(b), 148, 149, in first sentence substituted reference for households containing an elderly or disabled member for reference to households described in subsec. (c)(1) of this section, substituted reference to October 1, 1983, for reference to July 1, 1983, and reference to the nearest lower dollar increment for reference to the nearest $5 increment, respectively, wherever appearing in second sentence and in the proviso of cl. (2) of fourth sentence, respectively, in fourth and seventh sentences and in par. (A) substituted reference to elderly or disabled members for references to members who were sixty years of age or over or who received supplemental security income benefits under title XVI of the Social Security Act or disability and blindness payments under titles I, II, X, XIV, and XVI of the Social Security Act, in par. (B) substituted reference to the fourth sentence of this subsection for former reference to the preceding sentence of this subsection, and inserted provisions that in computing the excess shelter expense deduction under cl. (2) of the preceding sentence, a State agency may use a standard utility allowance in accordance with regulations promulgated by the Secretary, except that a State agency may use an allowance which does not fluctuate within a year to reflect seasonal variations, and that an allowance for a heating or cooling expense may not be used for a household that does not incur a heating or cooling expense, as the case may be, or does incur a heating or cooling expense but is located in a public housing unit which has central utility meters and charges households, with regard to such expense, only for excess utility costs, and that no such allowance may be used for a household that shares such expense with, and lives with, another individual not participating in the food stamp program, another household participating in the food stamp program, or both, unless the allowance is prorated between the household and the other individual, household, or both.
+Subsec. (e). Pub. L. 97–253, §§ 143(b), 145(d), 146(b), 148, 149, in first sentence substituted reference for households containing an elderly or disabled member for reference to households described in subsec. (c)(1) of this section, substituted reference to October 1, 1983, for reference to July 1, 1983, and reference to the nearest lower dollar increment for reference to the nearest $5 increment, respectively, wherever appearing in second sentence and in the proviso of cl. (2) of fourth sentence, respectively, in fourth and seventh sentences and in par. (A) substituted reference to elderly or disabled members for references to members who were sixty years of age or over or who received supplemental security income benefits under title XVI of the Social Security Act or disability and blindness payments under titles I, II, X, XIV, and XVI of the Social Security Act, in par. (B) substituted reference to the fourth sentence of this subsection for former reference to the preceding sentence of this subsection, and inserted provisions that in computing the excess shelter expense deduction under cl. (2) of the preceding sentence, a State agency may use a standard utility allowance in accordance with regulations promulgated by the Secretary, except that a State agency may use an allowance which does not fluctuate within a year to reflect seasonal variations, and that an allowance for a heating or cooling expense may not be used for a household that does not incur a heating or cooling expense, as the case may be, or does incur a heating or cooling expense but is located in a public housing unit which has central utility meters and charges households, with regard to such expense, only for excess utility costs, and that no such allowance may be used for a household that shares such expense with, and lives with, another individual not participating in the food stamp program, another household participating in the food stamp program, or both, unless the allowance is prorated between the household and the other individual, household, or both.
 
-Subsec. (f)(2)(A). Pub. L. 97–253, § 189(a), corrected a typographical error by substituting “prospective” for “propsective”.
+Subsec. (f)(2)(A). Pub. L. 97–253, § 189(a), corrected a typographical error by substituting “prospective” for “propsective”.
 
-Subsec. (f)(4). Pub. L. 97–253, § 150, inserted “(except the provisions of paragraph (2)(A))” after “of this subsection”.
+Subsec. (f)(4). Pub. L. 97–253, § 150, inserted “(except the provisions of paragraph (2)(A))” after “of this subsection”.
 
-Subsec. (g). Pub. L. 97–253, §§ 151, 152(a), substituted “June 1, 1982” for “June 1, 1977”, substituted “any licensed vehicle” for “and any licensed vehicle”, struck out the designation “(1)” before “include in financial resources”, substituted “$4,500, and, regardless of whether there is a penalty for early withdrawal, any savings or retirement accounts (including individual accounts).” for “$4,500,” and struck out provision requiring the Secretary to study and develop means of improving the effectiveness of the resource requirements adopted under this subsection in limiting participation to households in need of food assistance, and implement and report the results of such study and the Secretary’s plans to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate no later than June 1, 1978.
+Subsec. (g). Pub. L. 97–253, §§ 151, 152(a), substituted “June 1, 1982” for “June 1, 1977”, substituted “any licensed vehicle” for “and any licensed vehicle”, struck out the designation “(1)” before “include in financial resources”, substituted “$4,500, and, regardless of whether there is a penalty for early withdrawal, any savings or retirement accounts (including individual accounts).” for “$4,500,” and struck out provision requiring the Secretary to study and develop means of improving the effectiveness of the resource requirements adopted under this subsection in limiting participation to households in need of food assistance, and implement and report the results of such study and the Secretary’s plans to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate no later than June 1, 1978.
 
-Subsec. (j). Pub. L. 97–253, § 153, added subsec. (j).
+Subsec. (j). Pub. L. 97–253, § 153, added subsec. (j).
 
-1981—Subsec. (b). Pub. L. 97–35, § 116(a)(1), struck out reference to Puerto Rico.
+1981—Subsec. (b). Pub. L. 97–35, § 116(a)(1), struck out reference to Puerto Rico.
 
-Subsec. (c). Pub. L. 97–35, §§ 104(a)(1), 116(a)(1), added cls. (1) and (2) and struck out reference to Puerto Rico.
+Subsec. (c). Pub. L. 97–35, §§ 104(a)(1), 116(a)(1), added cls. (1) and (2) and struck out reference to Puerto Rico.
 
-Subsec. (d). Pub. L. 97–98, §§ 1305, 1306, inserted in cl. (5) a proviso that no portion of benefits provided under title IV–A of the Social Security Act, to the extent it is attributable to an adjustment for work-related or child care expenses, be considered such reimbursement, substituted in cl. (10) “any other Federal law” for “any other law”, and inserted in cl. (11) provision requiring that State and local laws be designated as energy assistance and determined by the Secretary to be calculated as if provided on a seasonal basis for an aggregate period not to exceed six months in any year even if not so provided on such basis.
+Subsec. (d). Pub. L. 97–98, §§ 1305, 1306, inserted in cl. (5) a proviso that no portion of benefits provided under title IV–A of the Social Security Act, to the extent it is attributable to an adjustment for work-related or child care expenses, be considered such reimbursement, substituted in cl. (10) “any other Federal law” for “any other law”, and inserted in cl. (11) provision requiring that State and local laws be designated as energy assistance and determined by the Secretary to be calculated as if provided on a seasonal basis for an aggregate period not to exceed six months in any year even if not so provided on such basis.
 
-Pub. L. 97–35, §§ 107(c), 2611, struck out “(2)” after “(f)” in cl. (2), struck out cl. (10) relating to increased home energy costs during fiscal year 1981, and redesignated cl. (11), relating to income specifically excluded from consideration by any other law, as cl. (10).
+Pub. L. 97–35, §§ 107(c), 2611, struck out “(2)” after “(f)” in cl. (2), struck out cl. (10) relating to increased home energy costs during fiscal year 1981, and redesignated cl. (11), relating to income specifically excluded from consideration by any other law, as cl. (10).
 
-Subsec. (e). Pub. L. 97–98, § 1307, inserted “, with respect to expenses other than expenses paid on behalf of the household by a third party,” after “entitled” in two places.
+Subsec. (e). Pub. L. 97–98, § 1307, inserted “, with respect to expenses other than expenses paid on behalf of the household by a third party,” after “entitled” in two places.
 
-Pub. L. 97–35, §§ 104(a)(2), 105, 106, 115, 116(a)(1), completely revised and reorganized provisions to provide for computation of standard deduction of $85 per month instead of standard deduction of $60 per month and accompanying determinations respecting adjustments, applicability, etc., for computation.
+Pub. L. 97–35, §§ 104(a)(2), 105, 106, 115, 116(a)(1), completely revised and reorganized provisions to provide for computation of standard deduction of $85 per month instead of standard deduction of $60 per month and accompanying determinations respecting adjustments, applicability, etc., for computation.
 
-Subsec. (f). Pub. L. 97–35, § 107(a), completely revised and reorganized provisions to provide for calculation of household income through a prospective or retrospective basis instead of calculation of household income by the State agency, and accompanying determination respecting criteria, methodologies, etc., for calculation.
+Subsec. (f). Pub. L. 97–35, § 107(a), completely revised and reorganized provisions to provide for calculation of household income through a prospective or retrospective basis instead of calculation of household income by the State agency, and accompanying determination respecting criteria, methodologies, etc., for calculation.
 
-Subsec. (f)(2)(B). Pub. L. 97–35, § 107(b), substituted provisions requiring calculation on a retrospective basis, for provisions requiring calculation on either a retrospective or prospective basis as elected by the State agency.
+Subsec. (f)(2)(B). Pub. L. 97–35, § 107(b), substituted provisions requiring calculation on a retrospective basis, for provisions requiring calculation on either a retrospective or prospective basis as elected by the State agency.
 
-Subsec. (g). Pub. L. 97–98, § 1309, inserted “(other than those relating to licensed vehicles)” after “June 1, 1977”.
+Subsec. (g). Pub. L. 97–98, § 1309, inserted “(other than those relating to licensed vehicles)” after “June 1, 1977”.
 
-Subsec. (i). Pub. L. 97–98, § 1308, added subsec. (i).
+Subsec. (i). Pub. L. 97–98, § 1308, added subsec. (i).
 
-1980—Subsec. (c). Pub. L. 96–249, § 137, struck out provisions requiring that the income poverty guidelines for the period commencing July 1, 1978, be made as up to date as possible by multiplying the income poverty guidelines for 1977 by the change between the average 1977 Consumer Price Index and the Consumer Price Index for March 1978, utilizing the most current procedures which have been used by the Office of Management and Budget, and that the income poverty guidelines for future periods be similarly adjusted.
+1980—Subsec. (c). Pub. L. 96–249, § 137, struck out provisions requiring that the income poverty guidelines for the period commencing July 1, 1978, be made as up to date as possible by multiplying the income poverty guidelines for 1977 by the change between the average 1977 Consumer Price Index and the Consumer Price Index for March 1978, utilizing the most current procedures which have been used by the Office of Management and Budget, and that the income poverty guidelines for future periods be similarly adjusted.
 
-Subsec. (d). Pub. L. 96–249, §§ 102, 112, inserted in cl. (2) “subject to modification by the Secretary in light of subsection (f)(2) of this section,” after “quarter,” and added cl. (11), relating to energy assistance payments or allowances.
+Subsec. (d). Pub. L. 96–249, §§ 102, 112, inserted in cl. (2) “subject to modification by the Secretary in light of subsection (f)(2) of this section,” after “quarter,” and added cl. (11), relating to energy assistance payments or allowances.
 
 Pub. L. 96–223 added cl. (10) and redesignated former cl. (10), relating to income specifically excluded from consideration by any other law, as cl. (11).
 
-Subsec. (e). Pub. L. 96–249, §§ 103, 136, substituted provisions requiring that the standard deduction be adjusted every Jan. 1 to the nearest $5 to reflect changes in the Consumer Price Index for all urban consumers for items other than food for the last 12 months ending the preceding Sept. 30 for provisions requiring that the standard deduction be adjusted every July 1 and Jan. 1 and provisions requiring that the excess shelter expense deduction be adjusted every Jan. 1 to the nearest $5 increment to reflect changes in the shelter, fuel, and utilities components of housing costs in the Consumer Price Index for all urban consumers for provisions requiring that the excess shelter expense deduction be adjusted annually as of July 1.
+Subsec. (e). Pub. L. 96–249, §§ 103, 136, substituted provisions requiring that the standard deduction be adjusted every Jan. 1 to the nearest $5 to reflect changes in the Consumer Price Index for all urban consumers for items other than food for the last 12 months ending the preceding Sept. 30 for provisions requiring that the standard deduction be adjusted every July 1 and Jan. 1 and provisions requiring that the excess shelter expense deduction be adjusted every Jan. 1 to the nearest $5 increment to reflect changes in the shelter, fuel, and utilities components of housing costs in the Consumer Price Index for all urban consumers for provisions requiring that the excess shelter expense deduction be adjusted annually as of July 1.
 
-Pub. L. 96–249, §§ 104, 105, increased monthly maximum deduction per household for dependent care expenses related to employment, or employment related training or education from $75 to $90, decreased the threshold amount of the excess medical expense for the elderly, blind, and disabled from $35 to $25, and extended availability of the excess medical expense deduction to blind and disabled persons and their spouses in Puerto Rico, Guam, and the Virgin Islands, when they receive cash welfare payments through programs equivalent to the Social Security Income program. See Repeals note below.
+Pub. L. 96–249, §§ 104, 105, increased monthly maximum deduction per household for dependent care expenses related to employment, or employment related training or education from $75 to $90, decreased the threshold amount of the excess medical expense for the elderly, blind, and disabled from $35 to $25, and extended availability of the excess medical expense deduction to blind and disabled persons and their spouses in Puerto Rico, Guam, and the Virgin Islands, when they receive cash welfare payments through programs equivalent to the Social Security Income program. See Repeals note below.
 
-Subsec. (f). Pub. L. 96–249, § 107, inserted provisions giving States the option of determining program eligibility and benefits by using income received in a previous month, following standards prescribed by the Secretary.
+Subsec. (f). Pub. L. 96–249, § 107, inserted provisions giving States the option of determining program eligibility and benefits by using income received in a previous month, following standards prescribed by the Secretary.
 
-Subsec. (g). Pub. L. 96–249, §§ 108, 138, substituted “$1,500” for “$1,750”, inserted “or that is necessary for transportation of a physically disabled household member” after “used to produce earned income”, and struck out “or to transport disabled household members” after “or continue employment”.
+Subsec. (g). Pub. L. 96–249, §§ 108, 138, substituted “$1,500” for “$1,750”, inserted “or that is necessary for transportation of a physically disabled household member” after “used to produce earned income”, and struck out “or to transport disabled household members” after “or continue employment”.
 
 1979—Subsec. (e). Pub. L. 96–58 inserted provisions allowing for an excess medical expense deduction, a dependent care deduction, and an excess shelter expense deduction for elderly persons and persons receiving supplemental security income benefits or disability payments under the Social Security Act.
 
@@ -2337,11 +2337,11 @@ Subsec. (d). Pub. L. 95–113 substituted provisions specifying the specific ite
 
 Subsecs. (e) to (h). Pub. L. 95–113 added subsecs. (e) to (h).
 
-1973—Subsec. (b). Pub. L. 93–86, § 3(g), (h), inserted provisos relating to payments in kind received from an employer by members of a household as bearing upon the promulgation of uniform national standards, provision limiting the authority of the Secretary to establish temporary emergency standards of eligibility to the duration of the emergency, and the provision authorizing such standards for households that are victims of a mechanical disaster disrupting the distribution of coupons.
+1973—Subsec. (b). Pub. L. 93–86, § 3(g), (h), inserted provisos relating to payments in kind received from an employer by members of a household as bearing upon the promulgation of uniform national standards, provision limiting the authority of the Secretary to establish temporary emergency standards of eligibility to the duration of the emergency, and the provision authorizing such standards for households that are victims of a mechanical disaster disrupting the distribution of coupons.
 
-Subsec. (c). Pub. L. 93–86, § 3(e), inserted definition of “able-bodied adult person”.
+Subsec. (c). Pub. L. 93–86, § 3(e), inserted definition of “able-bodied adult person”.
 
-Subsec. (d). Pub. L. 93–86, § 3(d), added subsec. (d).
+Subsec. (d). Pub. L. 93–86, § 3(d), added subsec. (d).
 
 1971—Subsec. (a). Pub. L. 91–671 inserted introductory phrase “Except for the temporary participation of households that are victims of a disaster as provided in subsection (b) of this section” and provision respecting other financial resources as being a limitation factor and substituted “in permitting them to purchase” for “in the attainment of”.
 
@@ -2355,7 +2355,7 @@ Subsec. (c). Pub. L. 91–671 added subsec. (c).
 
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
-Pub. L. 113–79, title IV, § 4006(c), Feb. 7, 2014, 128 Stat. 787, provided that:
+Pub. L. 113–79, title IV, § 4006(c), Feb. 7, 2014, 128 Stat. 787, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), this section [amending this section and section 8624 of Title 42, The Public Health and Welfare] and the amendments made by this section shall—
 
@@ -2365,9 +2365,9 @@ Pub. L. 113–79, title IV, § 4006(c), Feb. 7, 2014, 128 Stat. 787, provided 
 
 > **“(2) State option to delay implementation for current recipients.—** A State may, at the option of the State, implement a policy that eliminates or reduces the effect of the amendments made by this section on households that received a standard utility allowance as of the date of enactment of this Act, for not more than a 5-month period beginning on the date on which the amendments would otherwise apply to the respective household.”
 
-Pub. L. 113–79, title IV, § 4008(c), Feb. 7, 2014, 128 Stat. 788, provided that: “The amendments made by this section [amending this section and section 2015 of this title] shall not apply to a conviction if the conviction is for conduct occurring on or before the date of enactment of this Act [Feb. 7, 2014].”
+Pub. L. 113–79, title IV, § 4008(c), Feb. 7, 2014, 128 Stat. 788, provided that: “The amendments made by this section [amending this section and section 2015 of this title] shall not apply to a conviction if the conviction is for conduct occurring on or before the date of enactment of this Act [Feb. 7, 2014].”
 
-Pub. L. 113–79, title IV, § 4022(c)(1), Feb. 7, 2014, 128 Stat. 808, provided that: “The amendments made by this section [amending this section and sections 2025 and 2026 of this title] (other than the amendments made by subsection (a)(2) [amending section 2025 of this title]) shall apply beginning on the date of enactment of this Act [Feb. 7, 2014].”
+Pub. L. 113–79, title IV, § 4022(c)(1), Feb. 7, 2014, 128 Stat. 808, provided that: “The amendments made by this section [amending this section and sections 2025 and 2026 of this title] (other than the amendments made by subsection (a)(2) [amending section 2025 of this title]) shall apply beginning on the date of enactment of this Act [Feb. 7, 2014].”
 
 **Effective Date of 2008 Amendment**
 
@@ -2377,21 +2377,21 @@ Amendment by sections 4001(b), 4002(a)(2), 4101–4104, and 4115(b)(3) of Pub. L
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–171, title IV, § 4108(b), May 13, 2002, 116 Stat. 309, provided that: “The amendments made by this section [amending this section] take effect on the date of enactment of this Act [May 13, 2002].”
+Pub. L. 107–171, title IV, § 4108(b), May 13, 2002, 116 Stat. 309, provided that: “The amendments made by this section [amending this section] take effect on the date of enactment of this Act [May 13, 2002].”
 
-Pub. L. 107–171, title IV, § 4401(b)(3), May 13, 2002, 116 Stat. 333, provided that: “The amendments made by this subsection [amending this section and sections 1612, 1613, and 1631 of Title 8, Aliens and Nationality] take effect on October 1, 2003.”
+Pub. L. 107–171, title IV, § 4401(b)(3), May 13, 2002, 116 Stat. 333, provided that: “The amendments made by this subsection [amending this section and sections 1612, 1613, and 1631 of Title 8, Aliens and Nationality] take effect on October 1, 2003.”
 
 Amendment by sections 4101–4107 and 4112(b)(2) of Pub. L. 107–171 effective Oct. 1, 2002, except as otherwise provided, see section 4405 of Pub. L. 107–171, set out as an Effective Date note under section 1161 of Title 2, The Congress.
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–387, § 1(a) [title VIII, § 846(b)], Oct. 28, 2000, 114 Stat. 1549, 1549A–66, provided that:
+Pub. L. 106–387, § 1(a) [title VIII, § 846(b)], Oct. 28, 2000, 114 Stat. 1549, 1549A–66, provided that:
 
 > **“(1)** Except as provided in paragraph (2), the amendment made by this section [amending this section] shall take effect on March 1, 2001.
 
 > **“(2)** The amendment made by this section shall not apply with respect to certification periods beginning before March 1, 2001.”
 
-Pub. L. 106–387, § 1(a) [title VIII, § 847(b)], Oct. 28, 2000, 114 Stat. 1549, 1549A–66, provided that:
+Pub. L. 106–387, § 1(a) [title VIII, § 847(b)], Oct. 28, 2000, 114 Stat. 1549, 1549A–66, provided that:
 
 > **“(1)** Except as provided in paragraph (2), the amendments made by this section [amending this section] shall take effect on July 1, 2001.
 
@@ -2399,7 +2399,7 @@ Pub. L. 106–387, § 1(a) [title VIII, § 847(b)], Oct. 28, 2000, 114 Stat.
 
 **Effective Date of 1998 Amendment**
 
-Amendment by section 101(f) [title VIII, § 405(d)(2)(A)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(2)(A)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) [title VIII, § 405(d)(2)(A)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(2)(A)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 **Effective Date of 1996 Amendment**
 
@@ -2421,7 +2421,7 @@ Amendment by section 13912(b)(2) of Pub. L. 103–66, effective, and to be imple
 
 Amendment by Pub. L. 102–367 effective July 1, 1993, see section 701(a) of Pub. L. 102–367, formerly set out as a note under section 1501 of Title 29, Labor.
 
-Pub. L. 102–265, § 1(b), Mar. 26, 1992, 106 Stat. 90, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (D), (2)(OO), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (D), (2)(OO), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
+Pub. L. 102–265, § 1(b), Mar. 26, 1992, 106 Stat. 90, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (D), (2)(OO), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (D), (2)(OO), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
 
 > **“(1) In general.—** The amendment made by subsection (a) [amending this section] shall take effect on the earlier of—
 
@@ -2445,13 +2445,13 @@ Amendment by sections 1714(1), 1715, 1717, 1719, 1720, and 1726(b)(2) of Pub. L.
 
 Amendment by sections 201, 202(a), 403, and 404(f) of Pub. L. 100–435 to be effective and implemented on Oct. 1, 1988, amendment by sections 340 to 342 and 351 of Pub. L. 100–435 to be effective and implemented on July 1, 1989, amendment by section 343 of Pub. L. 100–435 to be effective and implemented on Sept. 19, 1988, and amendment by section 402 of Pub. L. 100–435 to be effective and implemented on Jan. 1, 1989, except that amendment by sections 201, 341, 342, 351, 402, 403, and 404(f) of Pub. L. 100–435 to become effective and implemented on Oct. 1, 1989, if final order is issued under section 902(b) of Title 2, The Congress, for fiscal year 1989 making reductions and sequestrations specified in the report required under section 901(a)(3)(A) of Title 2, see section 701(a), (b)(1), (2), (4), (c)(2) of Pub. L. 100–435, set out as a note under section 2012 of this title.
 
-Pub. L. 100–387, title V, § 501(b), Aug. 11, 1988, 102 Stat. 960, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (2)(JJ), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(JJ), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
+Pub. L. 100–387, title V, § 501(b), Aug. 11, 1988, 102 Stat. 960, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (2)(JJ), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(JJ), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
 
 > **“(1)** The amendments made by this section [amending this section] shall take effect on the date of enactment of this Act [Aug. 11, 1988].
 
 > **“(2)** The amendments made by this section shall not apply with respect to allotments issued under the Food and Nutrition Act of 2008 [this chapter] to any household for any month beginning before the effective period of this section begins.”
 
-Pub. L. 100–232, § 2(b), Jan. 5, 1988, 101 Stat. 1566, provided that:
+Pub. L. 100–232, § 2(b), Jan. 5, 1988, 101 Stat. 1566, provided that:
 
 > **“(1) Effective Date.—** Except as provided in paragraph (2), the amendment made by this section [amending this section] shall become effective upon the date of enactment of this Act [Jan. 5, 1988].
 
@@ -2459,23 +2459,23 @@ Pub. L. 100–232, § 2(b), Jan. 5, 1988, 101 Stat. 1566, provided that:
 
 **Effective and Termination Dates of 1987 Amendment**
 
-Pub. L. 100–77, title VIII, § 803(b), July 22, 1987, 101 Stat. 534, provided that: “The amendment made by this section [amending this section] shall become effective on July 1, 1988.”
+Pub. L. 100–77, title VIII, § 803(b), July 22, 1987, 101 Stat. 534, provided that: “The amendment made by this section [amending this section] shall become effective on July 1, 1988.”
 
-Pub. L. 100–77, title VIII, § 804(b), July 22, 1987, 101 Stat. 534, provided that: “The amendments made by this section [amending this section] shall become effective on October 1, 1987.”
+Pub. L. 100–77, title VIII, § 804(b), July 22, 1987, 101 Stat. 534, provided that: “The amendments made by this section [amending this section] shall become effective on October 1, 1987.”
 
-Pub. L. 100–77, title VIII, § 805(b), July 22, 1987, 101 Stat. 535, provided that:
+Pub. L. 100–77, title VIII, § 805(b), July 22, 1987, 101 Stat. 535, provided that:
 
 > **“(1)** The amendment made by this section [amending this section] shall become effective and shall be implemented 45 days after the date of enactment of this Act [July 22, 1987].
 
 > **“(2)** The amendment made by this section shall not apply with respect to allotments issued under the Food Stamp Act of 1977 [now the Food and Nutrition Act of 2008, 7 U.S.C. 2011 et seq.] to any household for any month beginning before the effective date of the amendment.”
 
-Pub. L. 100–77, title VIII, § 806(b), July 22, 1987, 101 Stat. 535, provided that:
+Pub. L. 100–77, title VIII, § 806(b), July 22, 1987, 101 Stat. 535, provided that:
 
 > **“(1)** The amendment made by this section [amending this section] shall become effective on October 1, 1987.
 
 > **“(2)** The amendment made by this section shall not apply with respect to an allotment issued under the Food Stamp Act of 1977 [now the Food and Nutrition Act of 2008, 7 U.S.C. 2011 et seq.] to a household for a certification period beginning before October 1, 1987.”
 
-Pub. L. 100–77, title VIII, § 807(b), July 22, 1987, 101 Stat. 535, as amended by Pub. L. 101–220, § 10, Dec. 12, 1989, 103 Stat. 1882; Pub. L. 110–234, title IV, § 4002(b)(1)(B), (2)(E), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(E), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that:
+Pub. L. 100–77, title VIII, § 807(b), July 22, 1987, 101 Stat. 535, as amended by Pub. L. 101–220, § 10, Dec. 12, 1989, 103 Stat. 1882; Pub. L. 110–234, title IV, § 4002(b)(1)(B), (2)(E), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(E), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that:
 
 > **“(1)** The amendments made by this section [amending this section] shall be effective and shall be implemented for the period beginning 90 days after the date of enactment of this Act [July 22, 1987] and ending September 30, 1990.
 
@@ -2485,7 +2485,7 @@ Pub. L. 100–77, title VIII, § 807(b), July 22, 1987, 101 Stat. 535, as amen
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–500, § 101(a) [title VI, § 638(b)], Oct. 18, 1986, 100 Stat. 1783, 1783–35, and Pub. L. 99–591, § 101(a) [title VI, § 638(b)], Oct. 30, 1986, 100 Stat. 3341, 3341–35, provided that:
+Pub. L. 99–500, § 101(a) [title VI, § 638(b)], Oct. 18, 1986, 100 Stat. 1783, 1783–35, and Pub. L. 99–591, § 101(a) [title VI, § 638(b)], Oct. 30, 1986, 100 Stat. 3341, 3341–35, provided that:
 
 > **“(1)** Except as provided in paragraphs (2) and (3), the amendment made by subsection (a) [amending this section] shall become effective 30 days after the date of enactment of this Act [Oct. 18, 1986].
 
@@ -2495,7 +2495,7 @@ Pub. L. 99–500, § 101(a) [title VI, § 638(b)], Oct. 18, 1986, 100 Stat. 
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–198, title XV, §§ 1511(2), (3), 1514(1), Dec. 23, 1985, 99 Stat. 1570, 1572, provided that the amendments made by sections 1511(2), (3) and 1514(1) are effective May 1, 1986.
+Pub. L. 99–198, title XV, §§ 1511(2), (3), 1514(1), Dec. 23, 1985, 99 Stat. 1570, 1572, provided that the amendments made by sections 1511(2), (3) and 1514(1) are effective May 1, 1986.
 
 **Effective Date of 1982 Amendment**
 
@@ -2509,17 +2509,17 @@ Amendment by Pub. L. 97–98 effective on earlier of Sept. 8, 1982, or date such
 
 Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agriculture may prescribe, taking into account need for orderly implementation, see section 1338 of Pub. L. 97–98, set out as a note under section 2012 of this title.
 
-Pub. L. 97–35, title I, § 116(a), Aug. 13, 1981, 95 Stat. 364, provided that the amendment made by section 116(a) is effective July 1, 1982.
+Pub. L. 97–35, title I, § 116(a), Aug. 13, 1981, 95 Stat. 364, provided that the amendment made by section 116(a) is effective July 1, 1982.
 
 Amendment by sections 104(a), 105, 106, 107(a), (c), and 115 of Pub. L. 97–35 effective and implemented upon such dates as Secretary of Agriculture may prescribe, taking into account need for orderly implementation, see section 117 of Pub. L. 97–35, set out as a note under section 2012 of this title.
 
-Pub. L. 97–35, title I, § 107(b), Aug. 13, 1981, 95 Stat. 361, provided that the amendment made by section 107(b) is effective Oct. 1, 1983.
+Pub. L. 97–35, title I, § 107(b), Aug. 13, 1981, 95 Stat. 361, provided that the amendment made by section 107(b) is effective Oct. 1, 1983.
 
-Pub. L. 97–35, title XXVI, § 2611, Aug. 13, 1981, 95 Stat. 902, provided that the amendment made by section 2611 is effective Oct. 1, 1981.
+Pub. L. 97–35, title XXVI, § 2611, Aug. 13, 1981, 95 Stat. 902, provided that the amendment made by section 2611 is effective Oct. 1, 1981.
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–249, title I, §§ 104–106, May 26, 1980, 94 Stat. 358, provided that the amendments made by sections 104 to 106 are effective Oct. 1, 1981.
+Pub. L. 96–249, title I, §§ 104–106, May 26, 1980, 94 Stat. 358, provided that the amendments made by sections 104 to 106 are effective Oct. 1, 1981.
 
 **Effective Date of 1979 Amendment**
 
@@ -2527,21 +2527,21 @@ Amendment by Pub. L. 96–58 to be implemented in all States by Jan. 1, 1980, bu
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendments made by section 1301 are effective Oct. 1, 1977.
+Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendments made by section 1301 are effective Oct. 1, 1977.
 
 **Inapplicability of Subsection (j) Between December 23, 1985, and September 30, 1989**
 
-Pub. L. 99–198, title XV, § 1507(a), Dec. 23, 1985, 99 Stat. 1568, provided that during the period beginning on Dec. 23, 1985, and ending on Sept. 30, 1989, subsec. (j) of this section would not apply.
+Pub. L. 99–198, title XV, § 1507(a), Dec. 23, 1985, 99 Stat. 1568, provided that during the period beginning on Dec. 23, 1985, and ending on Sept. 30, 1989, subsec. (j) of this section would not apply.
 
 **Repeals**
 
-Sections 104 and 105 of Pub. L. 96–249, cited as a credit to this section, were repealed by Pub. L. 97–35, title I, § 115, Aug. 13, 1981, 95 Stat. 364.
+Sections 104 and 105 of Pub. L. 96–249, cited as a credit to this section, were repealed by Pub. L. 97–35, title I, § 115, Aug. 13, 1981, 95 Stat. 364.
 
-Section 313(c)(2) of Pub. L. 96–223, cited as a credit to this section, was repealed by Pub. L. 97–35, title XXVI, § 2611, Aug. 13, 1981, 95 Stat. 902, effective Oct. 1, 1981.
+Section 313(c)(2) of Pub. L. 96–223, cited as a credit to this section, was repealed by Pub. L. 97–35, title XXVI, § 2611, Aug. 13, 1981, 95 Stat. 902, effective Oct. 1, 1981.
 
 **Calculation of Household Income**
 
-Pub. L. 101–624, title XVII, § 1718(b), Nov. 28, 1990, 104 Stat. 3785, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (2)(KK), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(KK), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
+Pub. L. 101–624, title XVII, § 1718(b), Nov. 28, 1990, 104 Stat. 3785, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (2)(KK), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(KK), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
 
 > **“(1) In general.—** Notwithstanding any other provision of law, during the period beginning October 1, 1988, and ending on the first day of the first month beginning at least 120 days after the date of enactment of this Act [Nov. 28, 1990], a State agency may elect to implement the amendment to section 5(f)(2) of the Food and Nutrition Act of 2008 (7 U.S.C. 2014(f)(2)) made by section 202(a) of the Hunger Prevention Act of 1988 (Public Law 100–435; 102 Stat. 1656) (with respect to the requirement that income be calculated on a prospective basis in the case of households that are not required to report monthly on their income and household circumstances).
 
@@ -2549,7 +2549,7 @@ Pub. L. 101–624, title XVII, § 1718(b), Nov. 28, 1990, 104 Stat. 3785, as a
 
 **Study and Report to Congressional Committees on Implementation of Amendment to Subsection (a) by Pub. L. 99–198**
 
-Pub. L. 99–198, title XV, § 1507(c), Dec. 23, 1985, 99 Stat. 1568, directed the Secretary of Agriculture to evaluate the implementation of the amendment made to subsec. (a) of this section by Pub. L. 99–198, § 1507(a), and submit a report summarizing the results of such evaluation to Committees of Congress not later than 2 years after Dec. 23, 1985.
+Pub. L. 99–198, title XV, § 1507(c), Dec. 23, 1985, 99 Stat. 1568, directed the Secretary of Agriculture to evaluate the implementation of the amendment made to subsec. (a) of this section by Pub. L. 99–198, § 1507(a), and submit a report summarizing the results of such evaluation to Committees of Congress not later than 2 years after Dec. 23, 1985.
 
 **Study and Report Respecting Restricting Benefits of Food Stamp Program Based on Value of Assets of Participants**
 
@@ -2559,11 +2559,11 @@ Pub. L. 96–243, May 16, 1980, 94 Stat. 345, directed the Department of Agricul
 
 Pub. L. 96–243, May 16, 1980, 94 Stat. 345, provided for the Secretary of Agriculture to study the impact and advisability of counting, for the purposes of income in determining eligibility: all educational loans on which payment is deferred; grants, fellowships, scholarships, and veteran’s educational benefits used for the payment of tuition and mandatory fees at any educational institution of higher learning; and all housing subsidies including, but not limited to payments made by an outside party on behalf of an individual or household, and further provided for the Department of Agriculture to report to Congress its findings in this matter not later than Jan. 15, 1981.
 
-## § 2014a. Notice of change in State of residence of certified household
+## § 2014a. Notice of change in State of residence of certified household
 
 Beginning on May 5, 2017, in fiscal year 2017 and each fiscal year hereafter, notwithstanding any other provision of law, a household certified to participate in the Supplemental Nutrition Assistance Program is required to report in a manner prescribed by the Secretary if the household no longer resides in the State in which it is certified.
 
-(Pub. L. 115–31, div. A, title VII, § 744, May 5, 2017, 131 Stat. 175.)
+(Pub. L. 115–31, div. A, title VII, § 744, May 5, 2017, 131 Stat. 175.)
 
 **Editorial Notes**
 
@@ -2571,7 +2571,7 @@ Beginning on May 5, 2017, in fiscal year 2017 and each fiscal year hereafter, no
 
 Section was enacted as part of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2017, and also as part of the Consolidated Appropriations Act, 2017, and not as part of the Food and Nutrition Act of 2008 which comprises this chapter.
 
-## § 2015. Eligibility disqualifications
+## § 2015. Eligibility disqualifications
 
 **(a) Additional specific conditions rendering individuals ineligible**
 
@@ -3187,15 +3187,15 @@ Subject to subparagraphs (G) through (I), for fiscal year 2020 and each subseque
 
 **(F) Subsequent fiscal years**
 
-Subject to subparagraphs (G) through (I), for fiscal years 2024 and each subsequent fiscal year, a State agency may provide a number of exemptions such that the average monthly number of exemptions in effect during the fiscal year does not exceed 8 percent of the number of covered individuals in the State, as estimated by the Secretary under subparagraph (C), adjusted by the Secretary to reflect changes in the State’s caseload and the Secretary’s estimate of changes in the proportion of members of households that receive supplemental nutrition assistance program benefits covered by waivers granted under paragraph (4) 1
+Subject to subparagraphs (G) through (I), for fiscal years 2024 and each subsequent fiscal year, a State agency may provide a number of exemptions such that the average monthly number of exemptions in effect during the fiscal year does not exceed 8 percent of the number of covered individuals in the State, as estimated by the Secretary under subparagraph (C), adjusted by the Secretary to reflect changes in the State’s caseload and the Secretary’s estimate of changes in the proportion of members of households that receive supplemental nutrition assistance program benefits covered by waivers granted under paragraph (4) 1
 
-<sup>1</sup>  So in original. Probably should be followed by a period.
+<sup>1</sup> So in original. Probably should be followed by a period.
 
 **(G) Caseload adjustments**
 
 The Secretary shall adjust the number of individuals estimated for a State under subparagraph (C), (D),,2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 (E) or (F) during a fiscal year if the number of members of households that receive supplemental nutrition assistance program benefits in the State varies from the State’s caseload by more than 10 percent, as determined by the Secretary.
 
@@ -3281,9 +3281,9 @@ Subject to any requirements established by the Secretary, any person who has bee
 
 **(iii)** an offense under chapter 110 of title 18;
 
-**(iv)** a Federal or State offense involving sexual assault, as defined in 13925(a) 3
+**(iv)** a Federal or State offense involving sexual assault, as defined in 13925(a) 3
 
-<sup>3</sup>  So in original. Probably should be preceded by “section”.
+<sup>3</sup> So in original. Probably should be preceded by “section”.
 
 of title 42; or
 
@@ -3313,7 +3313,7 @@ A household described in paragraph (1) shall remain ineligible for participation
 
 As determined by the Secretary, each State agency, to the maximum extent practicable, shall establish agreements with entities responsible for the regulation or sponsorship of gaming in the State to determine whether individuals participating in the supplemental nutrition assistance program have received substantial lottery or gambling winnings.
 
-(Pub. L. 88–525, § 6, Aug. 31, 1964, 78 Stat. 704; Pub. L. 94–339, § 3, July 5, 1976, 90 Stat. 800; Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 964; Pub. L. 96–58, §§ 5, 9, Aug. 14, 1979, 93 Stat. 391, 392; Pub. L. 96–249, title I, §§ 109, 110, 114, 115, 139, 140, May 26, 1980, 94 Stat. 359, 361, 370; Pub. L. 97–35, title I, §§ 108(b), (c), 109, 112, Aug. 13, 1981, 95 Stat. 361, 362; Pub. L. 97–98, title XIII, §§ 1310, 1311, Dec. 22, 1981, 95 Stat. 1284, 1285; Pub. L. 97–253, title I, §§ 145(e), 154–161, 189(b)(1), 190(a), (b), Sept. 8, 1982, 96 Stat. 774, 777, 778, 787; Pub. L. 98–204, §§ 5, 6, Dec. 2, 1983, 97 Stat. 1385, 1386; Pub. L. 99–198, title XV, §§ 1513(b), 1516, 1517(a), Dec. 23, 1985, 99 Stat. 1571–1573; Pub. L. 100–435, title II, § 202(b), (c), title IV, § 404(a)–(d), Sept. 19, 1988, 102 Stat. 1656, 1665–1667; Pub. L. 101–624, title XVII, §§ 1723–1726(b)(1), (c), (d), 1727, Nov. 28, 1990, 104 Stat. 3786–3788; Pub. L. 102–237, title IX, §§ 907, 941(3), Dec. 13, 1991, 105 Stat. 1885, 1892; Pub. L. 103–66, title XIII, §§ 13922(b), 13942, Aug. 10, 1993, 107 Stat. 675, 677; Pub. L. 103–225, title I, §§ 101(a), 104(b), Mar. 25, 1994, 108 Stat. 106, 107; Pub. L. 103–296, title I, § 108(f)(1), (2), Aug. 15, 1994, 108 Stat. 1486, 1487; Pub. L. 104–193, title I, § 109(b), title VIII, §§ 813–815(a), 816, 817(a), 818, 819(a), (c), 820–824(a), Aug. 22, 1996, 110 Stat. 2169, 2314, 2315, 2318, 2320–2323; Pub. L. 104–208, div. C, title III, § 308(g)(7)(D)(i), Sept. 30, 1996, 110 Stat. 3009–624; Pub. L. 105–33, title I, § 1001, Aug. 5, 1997, 111 Stat. 251; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(2)(B), (f)(2)(B)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–418, 2681–429; Pub. L. 107–171, title IV, §§ 4109, 4115(b)(2), 4121(c), May 13, 2002, 116 Stat. 309, 315, 324; Pub. L. 110–234, title IV, §§ 4001(b), 4002(a)(3), 4105, 4108, 4112, 4115(b)(4), 4131, May 22, 2008, 122 Stat. 1092, 1101, 1102, 1106, 1114; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4002(a)(3), 4105, 4108, 4112, 4115(b)(4), 4131, June 18, 2008, 122 Stat. 1664, 1853, 1862–1864, 1868, 1875; Pub. L. 113–79, title IV, §§ 4007, 4008(a), 4009(a), 4030(d), Feb. 7, 2014, 128 Stat. 787–789, 814; Pub. L. 113–128, title V, § 512(*l*)(2), July 22, 2014, 128 Stat. 1709; Pub. L. 115–334, title IV, § 4005(a), (b), Dec. 20, 2018, 132 Stat. 4627–4631; Pub. L. 118–5, div. C, title II, §§ 311(a), 312, June 3, 2023, 137 Stat. 36, 37; Pub. L. 119–21, title I, §§ 10102, 10108, July 4, 2025, 139 Stat. 81, 85.)
+(Pub. L. 88–525, § 6, Aug. 31, 1964, 78 Stat. 704; Pub. L. 94–339, § 3, July 5, 1976, 90 Stat. 800; Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 964; Pub. L. 96–58, §§ 5, 9, Aug. 14, 1979, 93 Stat. 391, 392; Pub. L. 96–249, title I, §§ 109, 110, 114, 115, 139, 140, May 26, 1980, 94 Stat. 359, 361, 370; Pub. L. 97–35, title I, §§ 108(b), (c), 109, 112, Aug. 13, 1981, 95 Stat. 361, 362; Pub. L. 97–98, title XIII, §§ 1310, 1311, Dec. 22, 1981, 95 Stat. 1284, 1285; Pub. L. 97–253, title I, §§ 145(e), 154–161, 189(b)(1), 190(a), (b), Sept. 8, 1982, 96 Stat. 774, 777, 778, 787; Pub. L. 98–204, §§ 5, 6, Dec. 2, 1983, 97 Stat. 1385, 1386; Pub. L. 99–198, title XV, §§ 1513(b), 1516, 1517(a), Dec. 23, 1985, 99 Stat. 1571–1573; Pub. L. 100–435, title II, § 202(b), (c), title IV, § 404(a)–(d), Sept. 19, 1988, 102 Stat. 1656, 1665–1667; Pub. L. 101–624, title XVII, §§ 1723–1726(b)(1), (c), (d), 1727, Nov. 28, 1990, 104 Stat. 3786–3788; Pub. L. 102–237, title IX, §§ 907, 941(3), Dec. 13, 1991, 105 Stat. 1885, 1892; Pub. L. 103–66, title XIII, §§ 13922(b), 13942, Aug. 10, 1993, 107 Stat. 675, 677; Pub. L. 103–225, title I, §§ 101(a), 104(b), Mar. 25, 1994, 108 Stat. 106, 107; Pub. L. 103–296, title I, § 108(f)(1), (2), Aug. 15, 1994, 108 Stat. 1486, 1487; Pub. L. 104–193, title I, § 109(b), title VIII, §§ 813–815(a), 816, 817(a), 818, 819(a), (c), 820–824(a), Aug. 22, 1996, 110 Stat. 2169, 2314, 2315, 2318, 2320–2323; Pub. L. 104–208, div. C, title III, § 308(g)(7)(D)(i), Sept. 30, 1996, 110 Stat. 3009–624; Pub. L. 105–33, title I, § 1001, Aug. 5, 1997, 111 Stat. 251; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(2)(B), (f)(2)(B)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–418, 2681–429; Pub. L. 107–171, title IV, §§ 4109, 4115(b)(2), 4121(c), May 13, 2002, 116 Stat. 309, 315, 324; Pub. L. 110–234, title IV, §§ 4001(b), 4002(a)(3), 4105, 4108, 4112, 4115(b)(4), 4131, May 22, 2008, 122 Stat. 1092, 1101, 1102, 1106, 1114; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4002(a)(3), 4105, 4108, 4112, 4115(b)(4), 4131, June 18, 2008, 122 Stat. 1664, 1853, 1862–1864, 1868, 1875; Pub. L. 113–79, title IV, §§ 4007, 4008(a), 4009(a), 4030(d), Feb. 7, 2014, 128 Stat. 787–789, 814; Pub. L. 113–128, title V, § 512(*l*)(2), July 22, 2014, 128 Stat. 1709; Pub. L. 115–334, title IV, § 4005(a), (b), Dec. 20, 2018, 132 Stat. 4627–4631; Pub. L. 118–5, div. C, title II, §§ 311(a), 312, June 3, 2023, 137 Stat. 36, 37; Pub. L. 119–21, title I, §§ 10102, 10108, July 4, 2025, 139 Stat. 81, 85.)
 
 **Termination of Amendment**
 
@@ -3323,15 +3323,15 @@ For termination of amendment by section 311(b)(2) of Pub. L. 118–5, see Effect
 
 **References in Text**
 
-The Social Security Act, referred to in subsecs. (c)(3), (5), (d)(1)(D)(iii)(II), (2), (4)(I)(i)(II), (K), (e)(6), (7), (g), (i)(2), (*l*)(1), (3), (m), and (n)(2)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Part D of title IV of the Act is classified generally to part D (§ 651 et seq.) of subchapter IV of chapter 7 of Title 42. Title IV–A of the Act (part A of title IV) is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42. Titles IV and XVI of the Social Security Act are classified generally to subchapters IV (§ 601 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c)(3), (5), (d)(1)(D)(iii)(II), (2), (4)(I)(i)(II), (K), (e)(6), (7), (g), (i)(2), (*l*)(1), (3), (m), and (n)(2)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Part D of title IV of the Act is classified generally to part D (§ 651 et seq.) of subchapter IV of chapter 7 of Title 42. Title IV–A of the Act (part A of title IV) is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42. Titles IV and XVI of the Social Security Act are classified generally to subchapters IV (§ 601 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Fair Labor Standards Act of 1938, referred to in subsec. (d)(2), (4)(B)(ii)(I)(cc), (F)(i), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (d)(2), (4)(B)(ii)(I)(cc), (F)(i), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
-The Workforce Innovation and Opportunity Act, referred to in subsecs. (d)(4)(M), (e)(3)(A), and (*o*)(1)(A), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsecs. (d)(4)(M), (e)(3)(A), and (*o*)(1)(A), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in subsec. (f)(2)(C), is section 501(e) of Pub. L. 96–422, which is set out in a note under section 1522 of Title 8, Aliens and Nationality.
 
-Section 212(a) of Pub. L. 93–66, referred to in subsec. (g), is Pub. L. 93–66, title II, § 212(a), July 9, 1973, 87 Stat. 155, which is set out as a note under section 1382 of Title 42, The Public Health and Welfare.
+Section 212(a) of Pub. L. 93–66, referred to in subsec. (g), is Pub. L. 93–66, title II, § 212(a), July 9, 1973, 87 Stat. 155, which is set out as a note under section 1382 of Title 42, The Public Health and Welfare.
 
 **Codification**
 
@@ -3339,37 +3339,37 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2025—Subsec. (f). Pub. L. 119–21, § 10108, amended subsec. (f) generally. Prior to amendment, subsec. (f) related to alien eligibility to participate in the supplemental nutrition assistance program.
+2025—Subsec. (f). Pub. L. 119–21, § 10108, amended subsec. (f) generally. Prior to amendment, subsec. (f) related to alien eligibility to participate in the supplemental nutrition assistance program.
 
-Subsec. (*o*)(3). Pub. L. 119–21, § 10102(a), added par. (3) and struck out former par. (3) which related to exceptions from the work requirement for eligibility to participate in the supplemental nutrition assistance program.
+Subsec. (*o*)(3). Pub. L. 119–21, § 10102(a), added par. (3) and struck out former par. (3) which related to exceptions from the work requirement for eligibility to participate in the supplemental nutrition assistance program.
 
-Subsec. (*o*)(4)(A)(ii). Pub. L. 119–21, § 10102(b)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “does not have a sufficient number of jobs to provide employment for the individuals.”
+Subsec. (*o*)(4)(A)(ii). Pub. L. 119–21, § 10102(b)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “does not have a sufficient number of jobs to provide employment for the individuals.”
 
-Subsec. (*o*)(4)(C). Pub. L. 119–21, § 10102(b)(2), added subpar. (C).
+Subsec. (*o*)(4)(C). Pub. L. 119–21, § 10102(b)(2), added subpar. (C).
 
-Subsec. (*o*)(7), (8). Pub. L. 119–21, § 10102(c), added par. (7) and redesignated former par. (7) as (8).
+Subsec. (*o*)(7), (8). Pub. L. 119–21, § 10102(c), added par. (7) and redesignated former par. (7) as (8).
 
-2023—Subsec. (*o*)(3)(A). Pub. L. 118–5, § 311(a)(1), (b)(2), temporarily added subpar. (A) and struck out former subpar. (A) which read as follows: “under 18 or over 50 years of age;”. See Effective and Termination Dates of 2023 Amendment note below.
+2023—Subsec. (*o*)(3)(A). Pub. L. 118–5, § 311(a)(1), (b)(2), temporarily added subpar. (A) and struck out former subpar. (A) which read as follows: “under 18 or over 50 years of age;”. See Effective and Termination Dates of 2023 Amendment note below.
 
-Subsec. (*o*)(3)(F) to (H). Pub. L. 118–5, § 311(a)(2)–(4), (b)(2), temporarily added subpars. (F) to (H). See Effective and Termination Dates of 2023 Amendment note below.
+Subsec. (*o*)(3)(F) to (H). Pub. L. 118–5, § 311(a)(2)–(4), (b)(2), temporarily added subpars. (F) to (H). See Effective and Termination Dates of 2023 Amendment note below.
 
-Subsec. (*o*)(6)(B). Pub. L. 118–5, § 312(5), substituted “through (I)” for “through (H)”.
+Subsec. (*o*)(6)(B). Pub. L. 118–5, § 312(5), substituted “through (I)” for “through (H)”.
 
-Subsec. (*o*)(6)(C). Pub. L. 118–5, § 312(6), substituted “(G) and (I)” for “(F) and (H)”.
+Subsec. (*o*)(6)(C). Pub. L. 118–5, § 312(6), substituted “(G) and (I)” for “(F) and (H)”.
 
-Subsec. (*o*)(6)(D). Pub. L. 118–5, § 312(7), substituted “(G) through (I)” for “(F) through (H)”.
+Subsec. (*o*)(6)(D). Pub. L. 118–5, § 312(7), substituted “(G) through (I)” for “(F) through (H)”.
 
-Subsec. (*o*)(6)(E). Pub. L. 118–5, § 312(1), substituted “Fiscal years 2020 through 2023” for “Subsequent fiscal years” in heading and “(G) through (I)” for “(F) through (H)” and “year through fiscal year 2023,” for “year,” in text.
+Subsec. (*o*)(6)(E). Pub. L. 118–5, § 312(1), substituted “Fiscal years 2020 through 2023” for “Subsequent fiscal years” in heading and “(G) through (I)” for “(F) through (H)” and “year through fiscal year 2023,” for “year,” in text.
 
-Subsec. (*o*)(6)(F). Pub. L. 118–5, § 312(4), added subpar. (F). Former subpar. (F) redesignated (G).
+Subsec. (*o*)(6)(F). Pub. L. 118–5, § 312(4), added subpar. (F). Former subpar. (F) redesignated (G).
 
-Pub. L. 118–5, § 312(2), substituted “, (E) or (F)” for “or (E)”.
+Pub. L. 118–5, § 312(2), substituted “, (E) or (F)” for “or (E)”.
 
-Subsec. (*o*)(6)(G) to (I). Pub. L. 118–5, § 312(3), redesignated subpars. (F) to (H) as (G) to (I), respectively.
+Subsec. (*o*)(6)(G) to (I). Pub. L. 118–5, § 312(3), redesignated subpars. (F) to (H) as (G) to (I), respectively.
 
-Subsec. (*o*)(6)(J). Pub. L. 118–5, § 312(8), added subpar. (J).
+Subsec. (*o*)(6)(J). Pub. L. 118–5, § 312(8), added subpar. (J).
 
-2018—Subsec. (d)(4)(A)(i). Pub. L. 115–334, § 4005(a)(1)(A), inserted “, in consultation with the State workforce development board, or, if the State demonstrates that consultation with private employers or employer organizations would be more effective or efficient, in consultation with private employers or employer organizations,” after “designed by the State agency” and substituted “that will—
+2018—Subsec. (d)(4)(A)(i). Pub. L. 115–334, § 4005(a)(1)(A), inserted “, in consultation with the State workforce development board, or, if the State demonstrates that consultation with private employers or employer organizations would be more effective or efficient, in consultation with private employers or employer organizations,” after “designed by the State agency” and substituted “that will—
 
 “(I) increase the ability of the household members to obtain regular employment; and
 
@@ -3377,327 +3377,327 @@ Subsec. (*o*)(6)(J). Pub. L. 118–5, § 312(8), added subpar. (J).
 
 for “that will increase their ability to obtain regular employment.”
 
-Subsec. (d)(4)(A)(ii). Pub. L. 115–334, § 4005(a)(1)(B), inserted “and implemented to meet the purposes of clause (i)” after “carried out under this paragraph”.
+Subsec. (d)(4)(A)(ii). Pub. L. 115–334, § 4005(a)(1)(B), inserted “and implemented to meet the purposes of clause (i)” after “carried out under this paragraph”.
 
-Subsec. (d)(4)(B). Pub. L. 115–334, § 4005(a)(2)(A)–(C), (E)–(I), inserted subpar. (B) heading, substituted “In this chapter:” for “For purposes of this chapter, an” in introductory provisions, inserted “(i) Employment and training program.—The term” before “ ‘employment and training program’ ”, and, in cl. (i) as so designated, inserted “case management services such as comprehensive intake assessments, individualized service plans, progress monitoring, or coordination with service providers and” before “one or more” and substituted “this clause” for “this subparagraph” in introductory provisions, redesignated former cls. (i) to (viii) as subcls. (I) to (VII) and (IX), respectively, substituted “employability assessments, training in techniques to increase employability” for “jobs skills assessments, job finding clubs, training in techniques for employability” in subcl. (II), inserted “, including subsidized employment and apprenticeships” after “public or private employment” in introductory provisions of subcl. (IV), redesignated subcls. (I) and (II) of former cl. (iv) as items (aa) and (bb), respectively, of subcl. (IV), inserted “not less than 30 days but” before “not more than 90 days” in subcl. (VII), and added subcl. (VIII).
+Subsec. (d)(4)(B). Pub. L. 115–334, § 4005(a)(2)(A)–(C), (E)–(I), inserted subpar. (B) heading, substituted “In this chapter:” for “For purposes of this chapter, an” in introductory provisions, inserted “(i) Employment and training program.—The term” before “ ‘employment and training program’ ”, and, in cl. (i) as so designated, inserted “case management services such as comprehensive intake assessments, individualized service plans, progress monitoring, or coordination with service providers and” before “one or more” and substituted “this clause” for “this subparagraph” in introductory provisions, redesignated former cls. (i) to (viii) as subcls. (I) to (VII) and (IX), respectively, substituted “employability assessments, training in techniques to increase employability” for “jobs skills assessments, job finding clubs, training in techniques for employability” in subcl. (II), inserted “, including subsidized employment and apprenticeships” after “public or private employment” in introductory provisions of subcl. (IV), redesignated subcls. (I) and (II) of former cl. (iv) as items (aa) and (bb), respectively, of subcl. (IV), inserted “not less than 30 days but” before “not more than 90 days” in subcl. (VII), and added subcl. (VIII).
 
-Subsec. (d)(4)(B)(i)(I). Pub. L. 115–334, § 4005(a)(2)(D), added subcl. (I) and struck out former subcl. (I) which read as follows: “Job search programs.”
+Subsec. (d)(4)(B)(i)(I). Pub. L. 115–334, § 4005(a)(2)(D), added subcl. (I) and struck out former subcl. (I) which read as follows: “Job search programs.”
 
-Subsec. (d)(4)(B)(ii). Pub. L. 115–334, § 4005(a)(2)(J), added cl. (ii). Former cl. (ii) redesignated cl. (i)(II) of subsec. (d)(4)(B).
+Subsec. (d)(4)(B)(ii). Pub. L. 115–334, § 4005(a)(2)(J), added cl. (ii). Former cl. (ii) redesignated cl. (i)(II) of subsec. (d)(4)(B).
 
-Subsec. (d)(4)(E). Pub. L. 115–334, § 4005(a)(3), inserted subpar. heading, designated first and second sentences as cls. (i) and (ii), respectively, and inserted cl. headings, substituted “The requirements under clause (i)” for “Such requirements” in cl. (ii), and added cl. (iii).
+Subsec. (d)(4)(E). Pub. L. 115–334, § 4005(a)(3), inserted subpar. heading, designated first and second sentences as cls. (i) and (ii), respectively, and inserted cl. headings, substituted “The requirements under clause (i)” for “Such requirements” in cl. (ii), and added cl. (iii).
 
-Subsec. (d)(4)(H). Pub. L. 115–334, § 4005(a)(4), substituted “subparagraph (B)(i)(V)” for “subparagraph (B)(v)”.
+Subsec. (d)(4)(H). Pub. L. 115–334, § 4005(a)(4), substituted “subparagraph (B)(i)(V)” for “subparagraph (B)(v)”.
 
-Subsec. (d)(4)(N), (O). Pub. L. 115–334, § 4005(a)(5), added subpars. (N) and (O).
+Subsec. (d)(4)(N), (O). Pub. L. 115–334, § 4005(a)(5), added subpars. (N) and (O).
 
-Subsec. (*o*)(1)(C) to (E). Pub. L. 115–334, § 4005(b)(1), in subpar. (C), substituted “supervised job search program or job search training program” for “job search program or a job search training program”, and added subpars. (D) and (E).
+Subsec. (*o*)(1)(C) to (E). Pub. L. 115–334, § 4005(b)(1), in subpar. (C), substituted “supervised job search program or job search training program” for “job search program or a job search training program”, and added subpars. (D) and (E).
 
-Subsec. (*o*)(4)(A). Pub. L. 115–334, § 4005(b)(2), inserted “and with the support of the chief executive officer of the State” after “request of a State agency”.
+Subsec. (*o*)(4)(A). Pub. L. 115–334, § 4005(b)(2), inserted “and with the support of the chief executive officer of the State” after “request of a State agency”.
 
-Subsec. (*o*)(6). Pub. L. 115–334, § 4005(b)(3)(A), substituted “Exemptions” for “15-percent exemption” in heading.
+Subsec. (*o*)(6). Pub. L. 115–334, § 4005(b)(3)(A), substituted “Exemptions” for “15-percent exemption” in heading.
 
-Subsec. (*o*)(6)(B). Pub. L. 115–334, § 4005(b)(3)(B), substituted “subparagraphs (C) through (H)” for “subparagraphs (C) through (G)”.
+Subsec. (*o*)(6)(B). Pub. L. 115–334, § 4005(b)(3)(B), substituted “subparagraphs (C) through (H)” for “subparagraphs (C) through (G)”.
 
-Subsec. (*o*)(6)(C). Pub. L. 115–334, § 4005(b)(3)(C), substituted “subparagraphs (F) and (H)” for “subparagraphs (E) and (G)”.
+Subsec. (*o*)(6)(C). Pub. L. 115–334, § 4005(b)(3)(C), substituted “subparagraphs (F) and (H)” for “subparagraphs (E) and (G)”.
 
-Subsec. (*o*)(6)(D). Pub. L. 115–334, § 4005(b)(3)(D), in heading, substituted “Fiscal years 1999 through 2019” for “Subsequent fiscal years”, and in text, substituted “subparagraphs (F) through (H)” for “subparagraphs (E) through (G)” and “each subsequent fiscal year through fiscal year 2019” for “each subsequent fiscal year”.
+Subsec. (*o*)(6)(D). Pub. L. 115–334, § 4005(b)(3)(D), in heading, substituted “Fiscal years 1999 through 2019” for “Subsequent fiscal years”, and in text, substituted “subparagraphs (F) through (H)” for “subparagraphs (E) through (G)” and “each subsequent fiscal year through fiscal year 2019” for “each subsequent fiscal year”.
 
-Subsec. (*o*)(6)(E). Pub. L. 115–334, § 4005(b)(3)(G), added subpar. (E). Former subpar. (E) redesignated (F).
+Subsec. (*o*)(6)(E). Pub. L. 115–334, § 4005(b)(3)(G), added subpar. (E). Former subpar. (E) redesignated (F).
 
-Pub. L. 115–334, § 4005(b)(3)(E), substituted “subparagraph (C), (D), or (E)” for “subparagraph (C) or (D)”.
+Pub. L. 115–334, § 4005(b)(3)(E), substituted “subparagraph (C), (D), or (E)” for “subparagraph (C) or (D)”.
 
-Subsec. (*o*)(6)(F) to (H). Pub. L. 115–334, § 4005(b)(3)(F), redesignated subpars. (E) to (G) as (F) to (H), respectively.
+Subsec. (*o*)(6)(F) to (H). Pub. L. 115–334, § 4005(b)(3)(F), redesignated subpars. (E) to (G) as (F) to (H), respectively.
 
-2014—Subsec. (d)(4)(B)(vii), (F)(iii). Pub. L. 113–79, § 4030(d), realigned margins.
+2014—Subsec. (d)(4)(B)(vii), (F)(iii). Pub. L. 113–79, § 4030(d), realigned margins.
 
-Subsec. (d)(4)(M). Pub. L. 113–128, § 512(l)(2)(A), substituted “activities under title I of the Workforce Innovation and Opportunity Act” for “activities under title I of the Workforce Investment Act of 1998”.
+Subsec. (d)(4)(M). Pub. L. 113–128, § 512(l)(2)(A), substituted “activities under title I of the Workforce Innovation and Opportunity Act” for “activities under title I of the Workforce Investment Act of 1998”.
 
-Subsec. (e)(3)(A). Pub. L. 113–128, § 512(l)(2)(B), substituted “a program under title I of the Workforce Innovation and Opportunity Act” for “a program under title I of the Workforce Investment Act of 1998”.
+Subsec. (e)(3)(A). Pub. L. 113–128, § 512(l)(2)(B), substituted “a program under title I of the Workforce Innovation and Opportunity Act” for “a program under title I of the Workforce Investment Act of 1998”.
 
-Subsec. (e)(3)(B). Pub. L. 113–79, § 4007, substituted “section, subject to the condition that the course or program of study—” for “section;” and added cls. (i) and (ii).
+Subsec. (e)(3)(B). Pub. L. 113–79, § 4007, substituted “section, subject to the condition that the course or program of study—” for “section;” and added cls. (i) and (ii).
 
-Subsec. (*o*)(1)(A). Pub. L. 113–128, § 512(l)(2)(C), substituted “a program under title I of the Workforce Innovation and Opportunity Act” for “a program under the title I of the Workforce Investment Act of 1998”.
+Subsec. (*o*)(1)(A). Pub. L. 113–128, § 512(l)(2)(C), substituted “a program under title I of the Workforce Innovation and Opportunity Act” for “a program under the title I of the Workforce Investment Act of 1998”.
 
-Subsec. (r). Pub. L. 113–79, § 4008(a), added subsec. (r).
+Subsec. (r). Pub. L. 113–79, § 4008(a), added subsec. (r).
 
-Subsec. (s). Pub. L. 113–79, § 4009(a), added subsec. (s).
+Subsec. (s). Pub. L. 113–79, § 4009(a), added subsec. (s).
 
-2008—Subsec. (a). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+2008—Subsec. (a). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsec. (b)(1)(B). Pub. L. 110–246, § 4115(b)(4)(A), in introductory provisions, substituted “program benefits” for “coupons or authorization cards” and, in cls. (ii) and (iii), substituted “benefits” for “coupons” wherever appearing.
+Subsec. (b)(1)(B). Pub. L. 110–246, § 4115(b)(4)(A), in introductory provisions, substituted “program benefits” for “coupons or authorization cards” and, in cls. (ii) and (iii), substituted “benefits” for “coupons” wherever appearing.
 
-Subsec. (c). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” in introductory provisions.
+Subsec. (c). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” in introductory provisions.
 
-Subsec. (c)(1)(A). Pub. L. 110–246, § 4105, in introductory provisions, substituted “reporting” for “reporting by”, in cl. (i), inserted “for periods shorter than 4 months by” before “migrant”, in cl. (ii), inserted “for periods shorter than 4 months by” before “households”, and, in cl. (iii), inserted “for periods shorter than 1 year by” before “households”.
+Subsec. (c)(1)(A). Pub. L. 110–246, § 4105, in introductory provisions, substituted “reporting” for “reporting by”, in cl. (i), inserted “for periods shorter than 4 months by” before “migrant”, in cl. (ii), inserted “for periods shorter than 4 months by” before “households”, and, in cl. (iii), inserted “for periods shorter than 1 year by” before “households”.
 
-Subsec. (d)(1), (2). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
+Subsec. (d)(1), (2). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
 
-Subsec. (d)(3). Pub. L. 110–246, § 4002(a)(3)(A), struck out “for food stamps” after “eligible”.
+Subsec. (d)(3). Pub. L. 110–246, § 4002(a)(3)(A), struck out “for food stamps” after “eligible”.
 
-Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” in two places.
+Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” in two places.
 
-Subsec. (d)(4)(A)(i). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Subsec. (d)(4)(A)(i). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsec. (d)(4)(B)(vii), (viii). Pub. L. 110–246, § 4108(1), added cl. (vii) and redesignated former cl. (vii) as (viii).
+Subsec. (d)(4)(B)(vii), (viii). Pub. L. 110–246, § 4108(1), added cl. (vii) and redesignated former cl. (vii) as (viii).
 
-Subsec. (d)(4)(F)(iii). Pub. L. 110–246, § 4108(2), added cl. (iii).
+Subsec. (d)(4)(F)(iii). Pub. L. 110–246, § 4108(2), added cl. (iii).
 
-Subsec. (d)(4)(L). Pub. L. 110–246, § 4115(b)(4)(B), substituted “section 2020(e)(19)” for “section 2020(e)(22)”.
+Subsec. (d)(4)(L). Pub. L. 110–246, § 4115(b)(4)(B), substituted “section 2020(e)(19)” for “section 2020(e)(22)”.
 
-Subsecs. (e), (f), (h), (i). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
+Subsecs. (e), (f), (h), (i). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
 
-Subsec. (j). Pub. L. 110–246, § 4002(a)(3)(B), struck out “food stamp” before “benefits” in heading.
+Subsec. (j). Pub. L. 110–246, § 4002(a)(3)(B), struck out “food stamp” before “benefits” in heading.
 
-Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” in two places.
+Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” in two places.
 
-Subsec. (k). Pub. L. 110–246, § 4112, designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), respectively, and added par. (2).
+Subsec. (k). Pub. L. 110–246, § 4112, designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), respectively, and added par. (2).
 
-Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” in introductory provisions.
+Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” in introductory provisions.
 
-Subsecs. (*l*) to (n). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Subsecs. (*l*) to (n). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsec. (*o*)(2). Pub. L. 110–246, § 4002(a)(3)(C)(i), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits” in introductory provisions.
+Subsec. (*o*)(2). Pub. L. 110–246, § 4002(a)(3)(C)(i), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits” in introductory provisions.
 
-Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” in introductory provisions.
+Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” in introductory provisions.
 
-Subsec. (*o*)(5)(A). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” in introductory provisions.
+Subsec. (*o*)(5)(A). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” in introductory provisions.
 
-Subsec. (*o*)(6)(A)(i), (ii). Pub. L. 110–246, § 4002(a)(3)(C)(ii)(I), in cl. (i), substituted “supplemental nutrition assistance program benefits” for “food stamps” and, in cl. (ii), substituted “a member of a household that receives supplemental nutrition assistance program benefits” for “a food stamp recipient” in introductory provisions and “supplemental nutrition assistance program benefits” for “food stamp benefits” wherever appearing.
+Subsec. (*o*)(6)(A)(i), (ii). Pub. L. 110–246, § 4002(a)(3)(C)(ii)(I), in cl. (i), substituted “supplemental nutrition assistance program benefits” for “food stamps” and, in cl. (ii), substituted “a member of a household that receives supplemental nutrition assistance program benefits” for “a food stamp recipient” in introductory provisions and “supplemental nutrition assistance program benefits” for “food stamp benefits” wherever appearing.
 
-Subsec. (*o*)(6)(D), (E). Pub. L. 110–246, § 4002(a)(3)(C)(ii)(II), substituted “members of households that receive supplemental nutrition assistance program benefits” for “food stamp recipients”.
+Subsec. (*o*)(6)(D), (E). Pub. L. 110–246, § 4002(a)(3)(C)(ii)(II), substituted “members of households that receive supplemental nutrition assistance program benefits” for “food stamp recipients”.
 
-Subsecs. (p), (q). Pub. L. 110–246, § 4131, added subsecs. (p) and (q).
+Subsecs. (p), (q). Pub. L. 110–246, § 4131, added subsecs. (p) and (q).
 
-2002—Subsec. (c). Pub. L. 107–171, § 4115(b)(2), substituted “Except in a case in which a household is receiving transitional benefits during the transitional benefits period under section 2020(s) of this title, no household” for “No household” in introductory provisions.
+2002—Subsec. (c). Pub. L. 107–171, § 4115(b)(2), substituted “Except in a case in which a household is receiving transitional benefits during the transitional benefits period under section 2020(s) of this title, no household” for “No household” in introductory provisions.
 
-Subsec. (c)(1)(B). Pub. L. 107–171, § 4109(1), struck out “on a monthly basis” after “periodic reports”.
+Subsec. (c)(1)(B). Pub. L. 107–171, § 4109(1), struck out “on a monthly basis” after “periodic reports”.
 
-Subsec. (c)(1)(D). Pub. L. 107–171, § 4109(2), added subpar. (D).
+Subsec. (c)(1)(D). Pub. L. 107–171, § 4109(2), added subpar. (D).
 
-Subsec. (d)(4)(I)(i)(I). Pub. L. 107–171, § 4121(c), struck out “, except that the State agency may limit such reimbursement to each participant to $25 per month” before semicolon.
+Subsec. (d)(4)(I)(i)(I). Pub. L. 107–171, § 4121(c), struck out “, except that the State agency may limit such reimbursement to each participant to $25 per month” before semicolon.
 
-1998—Subsec. (d)(4)(M). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(2)(B)(i)], struck out “the State public employment offices and agencies operating programs under the Job Training Partnership Act or of” after “The facilities of”.
+1998—Subsec. (d)(4)(M). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(2)(B)(i)], struck out “the State public employment offices and agencies operating programs under the Job Training Partnership Act or of” after “The facilities of”.
 
-Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(2)(B)(i)], substituted “the State public employment offices and agencies operating programs under the Job Training Partnership Act or of the State public employment offices and other State agencies and providers carrying out activities under title I of the Workforce Investment Act of 1998” for “the State public employment offices and agencies operating programs under the Job Training Partnership Act”.
+Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(2)(B)(i)], substituted “the State public employment offices and agencies operating programs under the Job Training Partnership Act or of the State public employment offices and other State agencies and providers carrying out activities under title I of the Workforce Investment Act of 1998” for “the State public employment offices and agencies operating programs under the Job Training Partnership Act”.
 
-Subsec. (e)(3)(A). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(2)(B)(ii)], added subpar. (A) and struck out former subpar. (A) which read as follows: “a program under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998;”.
+Subsec. (e)(3)(A). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(2)(B)(ii)], added subpar. (A) and struck out former subpar. (A) which read as follows: “a program under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998;”.
 
-Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(2)(B)(ii)], added subpar. (A) and struck out former subpar. (A) which read as follows: “a program under the Job Training Partnership Act (29 U.S.C. 1501 et seq.);”.
+Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(2)(B)(ii)], added subpar. (A) and struck out former subpar. (A) which read as follows: “a program under the Job Training Partnership Act (29 U.S.C. 1501 et seq.);”.
 
-Subsec. (*o*)(1)(A). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(2)(B)(iii)], struck out “Job Training Partnership Act or” before “title I”.
+Subsec. (*o*)(1)(A). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(2)(B)(iii)], struck out “Job Training Partnership Act or” before “title I”.
 
-Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(2)(B)(iii)], substituted “Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “Job Training Partnership Act (29 U.S.C. 1501 et seq.)”
+Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(2)(B)(iii)], substituted “Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “Job Training Partnership Act (29 U.S.C. 1501 et seq.)”
 
-1997—Subsec. (*o*)(2)(D). Pub. L. 105–33, § 1001(1), substituted “(5), or (6)” for “or (5)”.
+1997—Subsec. (*o*)(2)(D). Pub. L. 105–33, § 1001(1), substituted “(5), or (6)” for “or (5)”.
 
-Subsec. (*o*)(6), (7). Pub. L. 105–33, § 1001(2), (3), added par. (6) and redesignated former par. (6) as (7).
+Subsec. (*o*)(6), (7). Pub. L. 105–33, § 1001(2), (3), added par. (6) and redesignated former par. (6) as (7).
 
-1996—Subsec. (b)(1)(i). Pub. L. 104–193, § 813(1), substituted “1 year” for “six months”.
+1996—Subsec. (b)(1)(i). Pub. L. 104–193, § 813(1), substituted “1 year” for “six months”.
 
-Subsec. (b)(1)(ii). Pub. L. 104–193, § 813(2), substituted “2 years” for “1 year”.
+Subsec. (b)(1)(ii). Pub. L. 104–193, § 813(2), substituted “2 years” for “1 year”.
 
-Subsec. (b)(1)(iii)(IV). Pub. L. 104–193, § 814, added subcl. (IV).
+Subsec. (b)(1)(iii)(IV). Pub. L. 104–193, § 814, added subcl. (IV).
 
-Subsec. (c)(5). Pub. L. 104–193, § 109(b)(1), substituted “the State program funded” for “the State plan approved”.
+Subsec. (c)(5). Pub. L. 104–193, § 109(b)(1), substituted “the State program funded” for “the State plan approved”.
 
-Subsec. (d). Pub. L. 104–193, § 815(a), inserted subsec. heading.
+Subsec. (d). Pub. L. 104–193, § 815(a), inserted subsec. heading.
 
-Subsec. (d)(1). Pub. L. 104–193, § 815(a), added par. (1) and struck out former par. (1) which related to ineligibility in case of refusal of person or head of household to register for or accept employment.
+Subsec. (d)(1). Pub. L. 104–193, § 815(a), added par. (1) and struck out former par. (1) which related to ineligibility in case of refusal of person or head of household to register for or accept employment.
 
-Subsec. (d)(2). Pub. L. 104–193, §§ 816, 819(c), struck out “that is comparable to a requirement of paragraph (1)” after “person is subject” in cl. (A) and inserted at end “A State that requested a waiver to lower the age specified in subparagraph (B) and had the waiver denied by the Secretary as of August 1, 1996, may, for a period of not more than 3 years, lower the age of a dependent child that qualifies a parent or other member of a household for an exemption under subparagraph (B) to between 1 and 6 years of age.”
+Subsec. (d)(2). Pub. L. 104–193, §§ 816, 819(c), struck out “that is comparable to a requirement of paragraph (1)” after “person is subject” in cl. (A) and inserted at end “A State that requested a waiver to lower the age specified in subparagraph (B) and had the waiver denied by the Secretary as of August 1, 1996, may, for a period of not more than 3 years, lower the age of a dependent child that qualifies a parent or other member of a household for an exemption under subparagraph (B) to between 1 and 6 years of age.”
 
-Subsec. (d)(4). Pub. L. 104–193, § 817(a)(1), inserted par. heading.
+Subsec. (d)(4). Pub. L. 104–193, § 817(a)(1), inserted par. heading.
 
-Subsec. (d)(4)(A). Pub. L. 104–193, § 817(a)(1), (2), inserted subpar. heading, designated existing provisions as cl. (i), inserted heading, substituted “Each State” for “Not later than April 1, 1987, each State”, inserted “work,” after “skills, training,”, and added cl. (ii).
+Subsec. (d)(4)(A). Pub. L. 104–193, § 817(a)(1), (2), inserted subpar. heading, designated existing provisions as cl. (i), inserted heading, substituted “Each State” for “Not later than April 1, 1987, each State”, inserted “work,” after “skills, training,”, and added cl. (ii).
 
-Subsec. (d)(4)(B). Pub. L. 104–193, § 817(a)(3), in introductory provisions, inserted before colon “, except that the State agency shall retain the option to apply employment requirements prescribed under this subparagraph to a program applicant at the time of application”, in cl. (i), struck out “with terms and conditions comparable to those prescribed in subparagraphs (A) and (B) of section 402(a)(35) of part A of title IV of the Social Security Act, except that the State agency shall retain the option to apply employment requirements prescribed under this clause to program applicants at the time of application” after “search programs”, and in cl. (iv), redesignated subcls. (III) and (IV) as (I) and (II), respectively, and struck out former subcls. (I) and (II) which read as follows:
+Subsec. (d)(4)(B). Pub. L. 104–193, § 817(a)(3), in introductory provisions, inserted before colon “, except that the State agency shall retain the option to apply employment requirements prescribed under this subparagraph to a program applicant at the time of application”, in cl. (i), struck out “with terms and conditions comparable to those prescribed in subparagraphs (A) and (B) of section 402(a)(35) of part A of title IV of the Social Security Act, except that the State agency shall retain the option to apply employment requirements prescribed under this clause to program applicants at the time of application” after “search programs”, and in cl. (iv), redesignated subcls. (III) and (IV) as (I) and (II), respectively, and struck out former subcls. (I) and (II) which read as follows:
 
 “(I) limit employment experience assignments to projects that serve a useful public purpose in fields such as health, social services, environmental protection, urban and rural development and redevelopment, welfare, recreation, public facilities, public safety, and day care;
 
 “(II) to the extent possible, use the prior training, experience, and skills of the participating member in making appropriate employment or training experience assignments;”.
 
-Subsec. (d)(4)(D). Pub. L. 104–193, § 817(a)(4), in cl. (i), struck out “to which the application of such participation requirement is impracticable as applied to such categories due to factors such as the availability of work opportunities and the cost-effectiveness of the employment requirements. In making such a determination, the State agency may designate a category consisting of all such household members residing in a specific area of the State. Each State may exempt, with the approval of the Secretary, members of households that have participated in the food stamp program 30 days or less” after “household members”, in cl. (ii), struck out “but with respect to whom such participation is impracticable because of personal circumstances such as lack of job readiness and employability, the remote location of work opportunities, and unavailability of child care” after “clause (i)”, and in cl. (iii), substituted “the exemption continues to be valid” for “, on the basis of the factors used to make a determination under clause (i) or (ii), the exemption continues to be valid. Such evaluations shall occur no less often than at each certification or recertification in the case of exemptions under clause (ii)”.
+Subsec. (d)(4)(D). Pub. L. 104–193, § 817(a)(4), in cl. (i), struck out “to which the application of such participation requirement is impracticable as applied to such categories due to factors such as the availability of work opportunities and the cost-effectiveness of the employment requirements. In making such a determination, the State agency may designate a category consisting of all such household members residing in a specific area of the State. Each State may exempt, with the approval of the Secretary, members of households that have participated in the food stamp program 30 days or less” after “household members”, in cl. (ii), struck out “but with respect to whom such participation is impracticable because of personal circumstances such as lack of job readiness and employability, the remote location of work opportunities, and unavailability of child care” after “clause (i)”, and in cl. (iii), substituted “the exemption continues to be valid” for “, on the basis of the factors used to make a determination under clause (i) or (ii), the exemption continues to be valid. Such evaluations shall occur no less often than at each certification or recertification in the case of exemptions under clause (ii)”.
 
-Subsec. (d)(4)(E). Pub. L. 104–193, § 817(a)(5), struck out at end “Through September 30, 1995, two States may, on application to and after approval by the Secretary, give priority in the provision of services to voluntary participants (including both exempt and non-exempt participants), except that this sentence shall not excuse a State from compliance with the performance standards issued under subparagraphs (K) and (L), and the Secretary may, at the Secretary’s discretion, approve additional States’ requests to give such priority if the Secretary reports to Congress on the number and characteristics of voluntary participants given priority under this sentence and such other information as the Secretary determines to be appropriate.”
+Subsec. (d)(4)(E). Pub. L. 104–193, § 817(a)(5), struck out at end “Through September 30, 1995, two States may, on application to and after approval by the Secretary, give priority in the provision of services to voluntary participants (including both exempt and non-exempt participants), except that this sentence shall not excuse a State from compliance with the performance standards issued under subparagraphs (K) and (L), and the Secretary may, at the Secretary’s discretion, approve additional States’ requests to give such priority if the Secretary reports to Congress on the number and characteristics of voluntary participants given priority under this sentence and such other information as the Secretary determines to be appropriate.”
 
-Subsec. (d)(4)(G). Pub. L. 104–193, § 817(a)(6), struck out “(i)” after “(G)” and struck out cl. (ii) which read as follows: “The State agency shall permit, to the extent it determines practicable, individuals not subject to requirements imposed under subparagraph (E) or who have complied, or are in the process of complying, with such requirements to participate in any program under this paragraph.”
+Subsec. (d)(4)(G). Pub. L. 104–193, § 817(a)(6), struck out “(i)” after “(G)” and struck out cl. (ii) which read as follows: “The State agency shall permit, to the extent it determines practicable, individuals not subject to requirements imposed under subparagraph (E) or who have complied, or are in the process of complying, with such requirements to participate in any program under this paragraph.”
 
-Subsec. (d)(4)(H). Pub. L. 104–193, § 817(a)(7), struck out “(ii)” before “Federal funds” and struck out cl. (i) which read as follows: “The Secretary shall issue regulations under which each State agency shall establish a conciliation procedure for the resolution of disputes involving the participation of an individual in the program.”
+Subsec. (d)(4)(H). Pub. L. 104–193, § 817(a)(7), struck out “(ii)” before “Federal funds” and struck out cl. (i) which read as follows: “The Secretary shall issue regulations under which each State agency shall establish a conciliation procedure for the resolution of disputes involving the participation of an individual in the program.”
 
-Subsec. (d)(4)(I)(i)(II). Pub. L. 104–193, § 817(a)(8), substituted “), except that no such payment or reimbursement shall exceed the applicable local market rate” for “, or was in operation, on September 19, 1988) up to any limit set by the State agency (which limit shall not be less than the limit for the dependent care deduction under section 2014(e) of this title), but in no event shall such payment or reimbursements exceed the applicable local market rate as determined by procedures consistent with any such determination under the Social Security Act”.
+Subsec. (d)(4)(I)(i)(II). Pub. L. 104–193, § 817(a)(8), substituted “), except that no such payment or reimbursement shall exceed the applicable local market rate” for “, or was in operation, on September 19, 1988) up to any limit set by the State agency (which limit shall not be less than the limit for the dependent care deduction under section 2014(e) of this title), but in no event shall such payment or reimbursements exceed the applicable local market rate as determined by procedures consistent with any such determination under the Social Security Act”.
 
-Subsec. (d)(4)(K). Pub. L. 104–193, § 817(a)(9)(A), added subpar. (K) and struck out former subpar. (K) which authorized establishment of performance standards for each State that, in case of persons who were subject to employment requirements under this section and who were not exempt under subpar. (D), designated minimum percentages (not to exceed 10 percent in fiscal years 1992 and 1993, and 15 percent in fiscal years 1994 and 1995) of such persons that State agencies were to place in employment and training programs.
+Subsec. (d)(4)(K). Pub. L. 104–193, § 817(a)(9)(A), added subpar. (K) and struck out former subpar. (K) which authorized establishment of performance standards for each State that, in case of persons who were subject to employment requirements under this section and who were not exempt under subpar. (D), designated minimum percentages (not to exceed 10 percent in fiscal years 1992 and 1993, and 15 percent in fiscal years 1994 and 1995) of such persons that State agencies were to place in employment and training programs.
 
-Subsec. (d)(4)(L). Pub. L. 104–193, § 817(a)(10), struck out “(i)” before “The Secretary” and struck out cl. (ii) which read as follows: “If the Secretary determines that a State agency has failed, without good cause, to comply with such a requirement, including any failure to meet a performance standard under subparagraph (J), the Secretary may withhold from such State, in accordance with section 2025(a), (c), and (h) of this title, such funds as the Secretary determines to be appropriate, subject to administrative and judicial review under section 2023 of this title.”
+Subsec. (d)(4)(L). Pub. L. 104–193, § 817(a)(10), struck out “(i)” before “The Secretary” and struck out cl. (ii) which read as follows: “If the Secretary determines that a State agency has failed, without good cause, to comply with such a requirement, including any failure to meet a performance standard under subparagraph (J), the Secretary may withhold from such State, in accordance with section 2025(a), (c), and (h) of this title, such funds as the Secretary determines to be appropriate, subject to administrative and judicial review under section 2023 of this title.”
 
-Pub. L. 104–193, § 817(a)(9), redesignated subpar. (M) as (L) and struck out former subpar. (L) which authorized Secretary to establish performance standards and measures applicable to employment and training programs that were based on employment outcomes, including increases in earnings.
+Pub. L. 104–193, § 817(a)(9), redesignated subpar. (M) as (L) and struck out former subpar. (L) which authorized Secretary to establish performance standards and measures applicable to employment and training programs that were based on employment outcomes, including increases in earnings.
 
-Subsec. (d)(4)(M), (N). Pub. L. 104–193, § 817(a)(9)(B), redesignated subpars. (M) and (N) as (L) and (M), respectively.
+Subsec. (d)(4)(M), (N). Pub. L. 104–193, § 817(a)(9)(B), redesignated subpars. (M) and (N) as (L) and (M), respectively.
 
-Subsec. (e)(6). Pub. L. 104–193, § 109(b)(2), substituted “benefits under a State program funded” for “aid to families with dependent children”.
+Subsec. (e)(6). Pub. L. 104–193, § 109(b)(2), substituted “benefits under a State program funded” for “aid to families with dependent children”.
 
-Subsec. (f). Pub. L. 104–193, § 818, in last sentence, inserted “, at State option,” after “(less”.
+Subsec. (f). Pub. L. 104–193, § 818, in last sentence, inserted “, at State option,” after “(less”.
 
 Subsec. (f)(2)(F). Pub. L. 104–208 substituted “1231(b)(3)” for “1253(h)”.
 
-Subsec. (i). Pub. L. 104–193, § 819(a), added subsec. (i).
+Subsec. (i). Pub. L. 104–193, § 819(a), added subsec. (i).
 
-Subsec. (j). Pub. L. 104–193, § 820, added subsec. (j).
+Subsec. (j). Pub. L. 104–193, § 820, added subsec. (j).
 
-Subsec. (k). Pub. L. 104–193, § 821, added subsec. (k).
+Subsec. (k). Pub. L. 104–193, § 821, added subsec. (k).
 
-Subsecs. (*l*), (m). Pub. L. 104–193, § 822, added subsecs. (*l*) and (m).
+Subsecs. (*l*), (m). Pub. L. 104–193, § 822, added subsecs. (*l*) and (m).
 
-Subsec. (n). Pub. L. 104–193, § 823, added subsec. (n).
+Subsec. (n). Pub. L. 104–193, § 823, added subsec. (n).
 
-Subsec. (*o*). Pub. L. 104–193, § 824(a), added subsec. (*o*).
+Subsec. (*o*). Pub. L. 104–193, § 824(a), added subsec. (*o*).
 
-1994—Subsec. (c)(1)(A)(ii) to (iv). Pub. L. 103–225, § 101(a)(1), redesignated cls. (iii) and (iv) as (ii) and (iii), respectively, and struck out former cl. (ii) which read “households residing on a reservation;”.
+1994—Subsec. (c)(1)(A)(ii) to (iv). Pub. L. 103–225, § 101(a)(1), redesignated cls. (iii) and (iv) as (ii) and (iii), respectively, and struck out former cl. (ii) which read “households residing on a reservation;”.
 
-Subsec. (c)(1)(C). Pub. L. 103–225, § 101(a)(2), added subpar. (C).
+Subsec. (c)(1)(C). Pub. L. 103–225, § 101(a)(2), added subpar. (C).
 
-Subsec. (c)(3). Pub. L. 103–296, § 108(f)(1), inserted “the Commissioner of Social Security and” before “the Secretary of Health and Human Services”.
+Subsec. (c)(3). Pub. L. 103–296, § 108(f)(1), inserted “the Commissioner of Social Security and” before “the Secretary of Health and Human Services”.
 
-Subsec. (c)(4). Pub. L. 103–225, § 104(b), substituted “Except as provided in paragraph (1)(C), any” for “Any”.
+Subsec. (c)(4). Pub. L. 103–225, § 104(b), substituted “Except as provided in paragraph (1)(C), any” for “Any”.
 
-Subsec. (g). Pub. L. 103–296, § 108(f)(2), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
+Subsec. (g). Pub. L. 103–296, § 108(f)(2), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
 
-1993—Subsec. (b)(1)(ii), (iii). Pub. L. 103–66, § 13942, added cls. (ii) and (iii) and struck out former cls. (ii) and (iii) which read as follows:
+1993—Subsec. (b)(1)(ii), (iii). Pub. L. 103–66, § 13942, added cls. (ii) and (iii) and struck out former cls. (ii) and (iii) which read as follows:
 
 “(ii) for a period of one year upon the second occasion of any such determination; and
 
 “(iii) permanently upon the third occasion of any such determination.”
 
-Subsec. (d)(4)(I)(i)(II). Pub. L. 103–66, § 13922(b), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “the actual costs of such dependent care expenses that are determined by the State agency to be necessary for the participation of an individual in the program (other than an individual who is the caretaker relative of a dependent in a family receiving benefits under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) in a local area where an employment, training, or education program under title IV of such Act is in operation or was in operation, on September 19, 1988), but in no event shall such payment or reimbursements exceed $160 per dependent per month. Individuals subject to the program under this paragraph may not be required to participate if dependent care costs exceed $160 per dependent per month.”
+Subsec. (d)(4)(I)(i)(II). Pub. L. 103–66, § 13922(b), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “the actual costs of such dependent care expenses that are determined by the State agency to be necessary for the participation of an individual in the program (other than an individual who is the caretaker relative of a dependent in a family receiving benefits under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) in a local area where an employment, training, or education program under title IV of such Act is in operation or was in operation, on September 19, 1988), but in no event shall such payment or reimbursements exceed $160 per dependent per month. Individuals subject to the program under this paragraph may not be required to participate if dependent care costs exceed $160 per dependent per month.”
 
-1991—Subsec. (c)(1)(A)(ii). Pub. L. 102–237, § 941(3)(A), realigned margin.
+1991—Subsec. (c)(1)(A)(ii). Pub. L. 102–237, § 941(3)(A), realigned margin.
 
-Subsec. (d)(1)(A). Pub. L. 102–237, § 941(3)(B), substituted “who is a physically” for “who is physically”, “Secretary; (ii) refuses” for “Secretary; (ii) refuses” requiring no change in text, and “two months; or (iii) refuses” for “two months; (iii) refuses”.
+Subsec. (d)(1)(A). Pub. L. 102–237, § 941(3)(B), substituted “who is a physically” for “who is physically”, “Secretary; (ii) refuses” for “Secretary; (ii) refuses” requiring no change in text, and “two months; or (iii) refuses” for “two months; (iii) refuses”.
 
-Subsec. (d)(4)(B)(vii). Pub. L. 102–237, § 941(3)(C), substituted “Secretary,” for “Secretary,,” and “aimed at” for “aimed an”.
+Subsec. (d)(4)(B)(vii). Pub. L. 102–237, § 941(3)(C), substituted “Secretary,” for “Secretary,,” and “aimed at” for “aimed an”.
 
-Subsec. (d)(4)(D)(iii). Pub. L. 102–237, § 941(3)(D), substituted “clause (i) or (ii)” for “clauses (i) or (ii)”.
+Subsec. (d)(4)(D)(iii). Pub. L. 102–237, § 941(3)(D), substituted “clause (i) or (ii)” for “clauses (i) or (ii)”.
 
-Subsec. (d)(4)(I)(i)(II). Pub. L. 102–237, § 941(3)(E), substituted “601 et seq.)” for “601 et seq.))” and “), but in” for “, but in”.
+Subsec. (d)(4)(I)(i)(II). Pub. L. 102–237, § 941(3)(E), substituted “601 et seq.)” for “601 et seq.))” and “), but in” for “, but in”.
 
-Subsec. (d)(4)(K)(i). Pub. L. 102–237, § 907(b), substituted “10 percent in fiscal years 1992 and 1993, and 15 percent in fiscal years 1994 and 1995” for “50 percent through September 30, 1989” and inserted at end “The Secretary shall not require the plan of a State agency to provide for the participation of a number of recipients greater than 10 percent in fiscal years 1992 and 1993, and 15 percent in fiscal years 1994 and 1995, of the persons who are subject to employment requirements under this section and who are not exempt under subparagraph (D).”
+Subsec. (d)(4)(K)(i). Pub. L. 102–237, § 907(b), substituted “10 percent in fiscal years 1992 and 1993, and 15 percent in fiscal years 1994 and 1995” for “50 percent through September 30, 1989” and inserted at end “The Secretary shall not require the plan of a State agency to provide for the participation of a number of recipients greater than 10 percent in fiscal years 1992 and 1993, and 15 percent in fiscal years 1994 and 1995, of the persons who are subject to employment requirements under this section and who are not exempt under subparagraph (D).”
 
-Subsec. (d)(4)(L). Pub. L. 102–237, § 907(a), amended subpar. (L) generally, substituting present provisions for provisions requiring establishment of performance standards by the Secretary, after consultation with the Office of Technology Assessment, Secretary of Labor, Secretary of Health and Human Services, and appropriate designated State officials, which standards were to be coordinated with the corresponding standards under the Job Training Partnership Act and the performance standards under title IV of the Social Security Act, which were to permit variations to take into account differing conditions in different States, and which were to be published and implemented not later than Oct. 1, 1991, and directing the Office of Technology Assessment, not later than 180 days after the Secretary publishes proposed measures for performance standards, to develop model performance standards, compare these standards with the Secretary, and report the result of such comparison to the Speaker of the House of Representatives, President pro tempore of the Senate, and Secretary of Agriculture.
+Subsec. (d)(4)(L). Pub. L. 102–237, § 907(a), amended subpar. (L) generally, substituting present provisions for provisions requiring establishment of performance standards by the Secretary, after consultation with the Office of Technology Assessment, Secretary of Labor, Secretary of Health and Human Services, and appropriate designated State officials, which standards were to be coordinated with the corresponding standards under the Job Training Partnership Act and the performance standards under title IV of the Social Security Act, which were to permit variations to take into account differing conditions in different States, and which were to be published and implemented not later than Oct. 1, 1991, and directing the Office of Technology Assessment, not later than 180 days after the Secretary publishes proposed measures for performance standards, to develop model performance standards, compare these standards with the Secretary, and report the result of such comparison to the Speaker of the House of Representatives, President pro tempore of the Senate, and Secretary of Agriculture.
 
-1990—Subsec. (c)(1)(A)(ii) to (iv). Pub. L. 101–624, § 1723, added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
+1990—Subsec. (c)(1)(A)(ii) to (iv). Pub. L. 101–624, § 1723, added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
 
-Subsec. (c)(2)(C). Pub. L. 101–624, § 1724(1), substituted “State agency designed forms” for “forms approved by the Secretary”.
+Subsec. (c)(2)(C). Pub. L. 101–624, § 1724(1), substituted “State agency designed forms” for “forms approved by the Secretary”.
 
-Subsec. (c)(3). Pub. L. 101–624, § 1724(2), substituted “they contain the information relevant to eligibility and benefit determinations that is specified by the State agency” for “, in accordance with standards prescribed by the Secretary, they contain sufficient information to enable the State agency to determine household eligibility and allotment levels”.
+Subsec. (c)(3). Pub. L. 101–624, § 1724(2), substituted “they contain the information relevant to eligibility and benefit determinations that is specified by the State agency” for “, in accordance with standards prescribed by the Secretary, they contain sufficient information to enable the State agency to determine household eligibility and allotment levels”.
 
-Subsec. (d)(1). Pub. L. 101–624, § 1725, inserted after first sentence “The State agency shall allow the household to select an adult parent of children in the household as its head where all adult household members making application agree to the selection. The household may designate its head of household under this paragraph each time the household is certified for participation in the food stamp program, but may not change the designation during a certification period unless there is a change in the composition of the household.”
+Subsec. (d)(1). Pub. L. 101–624, § 1725, inserted after first sentence “The State agency shall allow the household to select an adult parent of children in the household as its head where all adult household members making application agree to the selection. The household may designate its head of household under this paragraph each time the household is certified for participation in the food stamp program, but may not change the designation during a certification period unless there is a change in the composition of the household.”
 
-Subsec. (d)(4)(B)(v). Pub. L. 101–624, § 1726(a), inserted “and literacy,” after “basic skills”.
+Subsec. (d)(4)(B)(v). Pub. L. 101–624, § 1726(a), inserted “and literacy,” after “basic skills”.
 
-Subsec. (d)(4)(B)(vi), (vii). Pub. L. 101–624, § 1726(b)(1), added cl. (vi) and redesignated former cl. (vi) as (vii).
+Subsec. (d)(4)(B)(vi), (vii). Pub. L. 101–624, § 1726(b)(1), added cl. (vi) and redesignated former cl. (vi) as (vii).
 
-Subsec. (d)(4)(E). Pub. L. 101–624, § 1726(c), inserted at end “Through September 30, 1995, two States may, on application to and after approval by the Secretary, give priority in the provision of services to voluntary participants (including both exempt and non-exempt participants), except that this sentence shall not excuse a State from compliance with the performance standards issued under subparagraphs (K) and (L), and the Secretary may, at the Secretary’s discretion, approve additional States’ requests to give such priority if the Secretary reports to Congress on the number and characteristics of voluntary participants given priority under this sentence and such other information as the Secretary determines to be appropriate.”
+Subsec. (d)(4)(E). Pub. L. 101–624, § 1726(c), inserted at end “Through September 30, 1995, two States may, on application to and after approval by the Secretary, give priority in the provision of services to voluntary participants (including both exempt and non-exempt participants), except that this sentence shall not excuse a State from compliance with the performance standards issued under subparagraphs (K) and (L), and the Secretary may, at the Secretary’s discretion, approve additional States’ requests to give such priority if the Secretary reports to Congress on the number and characteristics of voluntary participants given priority under this sentence and such other information as the Secretary determines to be appropriate.”
 
-Subsec. (d)(4)(L)(iii). Pub. L. 101–624, § 1726(d), substituted “October” for “April”.
+Subsec. (d)(4)(L)(iii). Pub. L. 101–624, § 1726(d), substituted “October” for “April”.
 
-Subsec. (e). Pub. L. 101–624, § 1727, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “No individual who is a member of a household otherwise eligible to participate in the food stamp program under this section shall be eligible to participate in the food stamp program as a member of that or any other household if he or she (1) is physically and mentally fit and is between the ages of eighteen and sixty, (2) is enrolled at least half time in an institution of higher education, or is an individual who is not assigned to or placed in an institution of higher learning through a program under the Job Training Partnership Act, and (3)(A) is not employed a minimum of twenty hours per week or does not participate in a federally financed work study program during the regular school year; (B) is not a parent with responsibility for the care of a dependent child under age six; (C) is not a parent with responsibility for the care of a dependent child above the age of five and under the age of twelve for whom adequate child care is not available; (D) is not receiving aid to families with dependent children under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.); or (E) is not so enrolled as a result of participation in the work incentive program under title IV of the Social Security Act, as amended (42 U.S.C. 602).”
+Subsec. (e). Pub. L. 101–624, § 1727, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “No individual who is a member of a household otherwise eligible to participate in the food stamp program under this section shall be eligible to participate in the food stamp program as a member of that or any other household if he or she (1) is physically and mentally fit and is between the ages of eighteen and sixty, (2) is enrolled at least half time in an institution of higher education, or is an individual who is not assigned to or placed in an institution of higher learning through a program under the Job Training Partnership Act, and (3)(A) is not employed a minimum of twenty hours per week or does not participate in a federally financed work study program during the regular school year; (B) is not a parent with responsibility for the care of a dependent child under age six; (C) is not a parent with responsibility for the care of a dependent child above the age of five and under the age of twelve for whom adequate child care is not available; (D) is not receiving aid to families with dependent children under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.); or (E) is not so enrolled as a result of participation in the work incentive program under title IV of the Social Security Act, as amended (42 U.S.C. 602).”
 
-1988—Subsec. (c)(1). Pub. L. 100–435, § 202(b), substituted subpars. (A) and (B) for undesignated provisions requiring households with household income determined on retrospective basis to file periodic reports with system of less frequent reporting for certain categories of households.
+1988—Subsec. (c)(1). Pub. L. 100–435, § 202(b), substituted subpars. (A) and (B) for undesignated provisions requiring households with household income determined on retrospective basis to file periodic reports with system of less frequent reporting for certain categories of households.
 
-Subsec. (c)(2). Pub. L. 100–435, § 202(c), added cl. (E).
+Subsec. (c)(2). Pub. L. 100–435, § 202(c), added cl. (E).
 
-Subsec. (d)(4)(B)(i). Pub. L. 100–435, § 404(a)(1), struck out “have no obligation to incur costs exceeding $25 per participant per month, as provided in subparagraph (B)(vi), and the State agency shall” before “retain the option”.
+Subsec. (d)(4)(B)(i). Pub. L. 100–435, § 404(a)(1), struck out “have no obligation to incur costs exceeding $25 per participant per month, as provided in subparagraph (B)(vi), and the State agency shall” before “retain the option”.
 
-Subsec. (d)(4)(B)(v). Pub. L. 100–435, § 404(a)(3), (4), added cl. (v). Former cl. (v) redesignated (vi).
+Subsec. (d)(4)(B)(v). Pub. L. 100–435, § 404(a)(3), (4), added cl. (v). Former cl. (v) redesignated (vi).
 
-Subsec. (d)(4)(B)(vi). Pub. L. 100–435, § 404(a)(2), (3), redesignated former cl. (v) as (vi) and inserted “or the State under regulations issued by the Secretary,” after “the Secretary” and “employment, educational and training” after “other”.
+Subsec. (d)(4)(B)(vi). Pub. L. 100–435, § 404(a)(2), (3), redesignated former cl. (v) as (vi) and inserted “or the State under regulations issued by the Secretary,” after “the Secretary” and “employment, educational and training” after “other”.
 
-Subsec. (d)(4)(H). Pub. L. 100–435, § 404(b), added subpar. (H). Former subpar. (H) redesignated (I).
+Subsec. (d)(4)(H). Pub. L. 100–435, § 404(b), added subpar. (H). Former subpar. (H) redesignated (I).
 
-Subsec. (d)(4)(I). Pub. L. 100–435, § 404(b)(1), (c), redesignated subpar. (H) as (I) and amended subpar. generally. Prior to amendment, subpar. (I) read as follows: “The State agency shall reimburse participants in programs carried out under this paragraph, including those participating under subparagraph (G), for the actual costs of transportation, and other actual costs, that are reasonably necessary and directly related to participation in the program, except that the State agency may limit such reimbursement to each participant to $25 per month.” Former subpar. (I) redesignated (J).
+Subsec. (d)(4)(I). Pub. L. 100–435, § 404(b)(1), (c), redesignated subpar. (H) as (I) and amended subpar. generally. Prior to amendment, subpar. (I) read as follows: “The State agency shall reimburse participants in programs carried out under this paragraph, including those participating under subparagraph (G), for the actual costs of transportation, and other actual costs, that are reasonably necessary and directly related to participation in the program, except that the State agency may limit such reimbursement to each participant to $25 per month.” Former subpar. (I) redesignated (J).
 
-Subsec. (d)(4)(J), (K). Pub. L. 100–435, § 404(b)(1), redesignated subpars. (I) and (J) as (J) and (K), respectively. Former subpar. (K) redesignated (M).
+Subsec. (d)(4)(J), (K). Pub. L. 100–435, § 404(b)(1), redesignated subpars. (I) and (J) as (J) and (K), respectively. Former subpar. (K) redesignated (M).
 
-Subsec. (d)(4)(L). Pub. L. 100–435, § 404(b)(1), (d), added subpar. (L) and redesignated former subpar. (L) as (N).
+Subsec. (d)(4)(L). Pub. L. 100–435, § 404(b)(1), (d), added subpar. (L) and redesignated former subpar. (L) as (N).
 
-Subsec. (d)(4)(M), (N). Pub. L. 100–435, § 404(b)(1), redesignated former subpars. (K) and (L) as (M) and (N), respectively.
+Subsec. (d)(4)(M), (N). Pub. L. 100–435, § 404(b)(1), redesignated former subpars. (K) and (L) as (M) and (N), respectively.
 
-1985—Subsec. (c)(1). Pub. L. 99–198, § 1513(b)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “State agencies shall require certain categories of households, including all households with earned income, except migrant farmworker households, all households with potential earners, including individuals receiving unemployment compensation benefits and individuals required by subsection (d) of this section to register for work, and all households required to file a similar report under title IV–A of the Social Security Act, but not including households that have no earned income and in which all adult members are elderly or disabled members, to file periodic reports of household circumstances in accordance with standards prescribed by the Secretary, except that a State agency may, with the prior approval of the Secretary, select categories of households which may report at specified less frequent intervals upon a showing by the State agency, which is satisfactory to the Secretary, that to require households in such categories to report monthly would result in unwarranted expenditures for administration of this subsection.”
+1985—Subsec. (c)(1). Pub. L. 99–198, § 1513(b)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “State agencies shall require certain categories of households, including all households with earned income, except migrant farmworker households, all households with potential earners, including individuals receiving unemployment compensation benefits and individuals required by subsection (d) of this section to register for work, and all households required to file a similar report under title IV–A of the Social Security Act, but not including households that have no earned income and in which all adult members are elderly or disabled members, to file periodic reports of household circumstances in accordance with standards prescribed by the Secretary, except that a State agency may, with the prior approval of the Secretary, select categories of households which may report at specified less frequent intervals upon a showing by the State agency, which is satisfactory to the Secretary, that to require households in such categories to report monthly would result in unwarranted expenditures for administration of this subsection.”
 
-Pub. L. 99–198, § 1513(b)(2), inserted after second sentence, provision empowering State agencies to require households, other than households with respect to which household income is required by section 2014(f)(2)(A) of this title to be calculated on a prospective basis, to file periodic reports of household circumstances in accordance with the standards prescribed by the Secretary under the preceding provisions of this paragraph.
+Pub. L. 99–198, § 1513(b)(2), inserted after second sentence, provision empowering State agencies to require households, other than households with respect to which household income is required by section 2014(f)(2)(A) of this title to be calculated on a prospective basis, to file periodic reports of household circumstances in accordance with the standards prescribed by the Secretary under the preceding provisions of this paragraph.
 
-Subsec. (d)(1). Pub. L. 99–198, § 1516(2), inserted sentences at end of par. (1) directing that any period of ineligibility for violations under this paragraph shall end when the household member who committed the violation complies with the requirement that has been violated, and that if the household member who committed the violation leaves the household during the period of ineligibility, such household shall no longer be subject to sanction for such violation and, if it is otherwise eligible, may resume participation in the food stamp program, but any other household of which such person thereafter becomes the head of the household shall be ineligible for the balance of the period of ineligibility.
+Subsec. (d)(1). Pub. L. 99–198, § 1516(2), inserted sentences at end of par. (1) directing that any period of ineligibility for violations under this paragraph shall end when the household member who committed the violation complies with the requirement that has been violated, and that if the household member who committed the violation leaves the household during the period of ineligibility, such household shall no longer be subject to sanction for such violation and, if it is otherwise eligible, may resume participation in the food stamp program, but any other household of which such person thereafter becomes the head of the household shall be ineligible for the balance of the period of ineligibility.
 
-Subsec. (d)(1)(A). Pub. L. 99–198, § 1516(1)(A), (B), designated existing provisions of first sentence of par. (1) as cl. (A) and in provisions of cl. (A) as so designated substituted “no person shall be eligible to participate in the food stamp program who is a physically and mentally fit person between the ages of sixteen and sixty” for “no household shall be eligible for assistance under this chapter if it includes a physically and mentally fit person between the ages of eighteen and sixty” in provisions preceding subcl. (i).
+Subsec. (d)(1)(A). Pub. L. 99–198, § 1516(1)(A), (B), designated existing provisions of first sentence of par. (1) as cl. (A) and in provisions of cl. (A) as so designated substituted “no person shall be eligible to participate in the food stamp program who is a physically and mentally fit person between the ages of sixteen and sixty” for “no household shall be eligible for assistance under this chapter if it includes a physically and mentally fit person between the ages of eighteen and sixty” in provisions preceding subcl. (i).
 
-Subsec. (d)(1)(A)(ii). Pub. L. 99–198, § 1517(a)(1), substituted “refuses without good cause to participate in an employment and training program under paragraph (4), to the extent required under paragraph (4), including any reasonable employment requirements as are prescribed by the State agency in accordance with paragraph (4), and the period of ineligibility shall be two months” for “refuses to fulfill whatever reasonable reporting and inquiry about employment requirements as are prescribed by the Secretary, which may include a requirement that, at the option of the State agency, such reporting and inquiry commence at the time of application”.
+Subsec. (d)(1)(A)(ii). Pub. L. 99–198, § 1517(a)(1), substituted “refuses without good cause to participate in an employment and training program under paragraph (4), to the extent required under paragraph (4), including any reasonable employment requirements as are prescribed by the State agency in accordance with paragraph (4), and the period of ineligibility shall be two months” for “refuses to fulfill whatever reasonable reporting and inquiry about employment requirements as are prescribed by the Secretary, which may include a requirement that, at the option of the State agency, such reporting and inquiry commence at the time of application”.
 
-Subsec. (d)(1)(A)(iii), (iv). Pub. L. 99–198, § 1516(1)(C), redesignated cl. (iv) as (iii). Former cl. (iii), relating to a head of household who voluntarily quits any job without good cause, with a proviso that the period of ineligibility would be ninety days, was struck out.
+Subsec. (d)(1)(A)(iii), (iv). Pub. L. 99–198, § 1516(1)(C), redesignated cl. (iv) as (iii). Former cl. (iii), relating to a head of household who voluntarily quits any job without good cause, with a proviso that the period of ineligibility would be ninety days, was struck out.
 
-Subsec. (d)(1)(B). Pub. L. 99–198, § 1516(1)(D), added cl. (B).
+Subsec. (d)(1)(B). Pub. L. 99–198, § 1516(1)(D), added cl. (B).
 
-Subsec. (d)(2)(F). Pub. L. 99–198, § 1516(3), added cl. (F).
+Subsec. (d)(2)(F). Pub. L. 99–198, § 1516(3), added cl. (F).
 
-Subsec. (d)(4). Pub. L. 99–198, § 1517(a)(2), added par. (4).
+Subsec. (d)(4). Pub. L. 99–198, § 1517(a)(2), added par. (4).
 
-Subsec. (e)(2). Pub. L. 99–198, § 1516(4), inserted “or is an individual who is not assigned to or placed in an institution of higher learning through a program under the Job Training Partnership Act,”.
+Subsec. (e)(2). Pub. L. 99–198, § 1516(4), inserted “or is an individual who is not assigned to or placed in an institution of higher learning through a program under the Job Training Partnership Act,”.
 
-Subsec. (f)(2)(D). Pub. L. 99–198, § 1516(5)(A), (B), substituted “sections 1157 and 1158 of title 8” for “section 1153(a)(7) of title 8 because of persecution or fear of persecution on account of race, religion, or political opinion or because of being uprooted by catastrophic natural calamity”.
+Subsec. (f)(2)(D). Pub. L. 99–198, § 1516(5)(A), (B), substituted “sections 1157 and 1158 of title 8” for “section 1153(a)(7) of title 8 because of persecution or fear of persecution on account of race, religion, or political opinion or because of being uprooted by catastrophic natural calamity”.
 
-Subsec. (f)(2)(F). Pub. L. 99–198, § 1516(5)(C), struck out “because of the judgment of the Attorney General that the alien would otherwise be subject to persecution on account of race, religion, or political opinion” after “section 1253(h) of title 8”.
+Subsec. (f)(2)(F). Pub. L. 99–198, § 1516(5)(C), struck out “because of the judgment of the Attorney General that the alien would otherwise be subject to persecution on account of race, religion, or political opinion” after “section 1253(h) of title 8”.
 
-1983—Subsec. (c)(1). Pub. L. 98–204, § 5, inserted sentence authorizing the Secretary to permit State agencies to accept, as satisfying the requirement that households report at such specified less frequent intervals, (i) recertifications conducted in accordance with section 2020(e)(4) of this title, (ii) in-person interviews conducted during a certification period, (iii) written reports filed by households, or (iv) such other documentation or actions as the Secretary may prescribe.
+1983—Subsec. (c)(1). Pub. L. 98–204, § 5, inserted sentence authorizing the Secretary to permit State agencies to accept, as satisfying the requirement that households report at such specified less frequent intervals, (i) recertifications conducted in accordance with section 2020(e)(4) of this title, (ii) in-person interviews conducted during a certification period, (iii) written reports filed by households, or (iv) such other documentation or actions as the Secretary may prescribe.
 
-Subsec. (c)(3). Pub. L. 98–204, § 6, substituted “Reports required to be filed monthly under paragraph (1) shall be the sole reporting requirement for subject matter included in such reports” for “The reporting requirements contained in paragraph (1) of this subsection shall be the sole such requirements for reporting changes in circumstances for participating households”.
+Subsec. (c)(3). Pub. L. 98–204, § 6, substituted “Reports required to be filed monthly under paragraph (1) shall be the sole reporting requirement for subject matter included in such reports” for “The reporting requirements contained in paragraph (1) of this subsection shall be the sole such requirements for reporting changes in circumstances for participating households”.
 
-1982—Subsec. (c)(1). Pub. L. 97–253, §§ 145(e), 154, 155, in first sentence substituted “in which all adult members are elderly or disabled members” for “in which all members are sixty years of age or over or receive supplemental security income benefits under title XVI of the Social Security Act or disability and blindness payments under title I, II, X, XIV, and XVI of the Social Security Act” and inserted provision that a State agency may, with the prior approval of the Secretary, select categories of households which may report at specified less frequent intervals upon a showing by the State agency, which is satisfactory to the Secretary, that to require households in such categories to report monthly would result in unwarranted expenditures for administration of this subsection, and, in last sentence, struck out “, on a form designed or approved by the Secretary,” after “to the State agency”.
+1982—Subsec. (c)(1). Pub. L. 97–253, §§ 145(e), 154, 155, in first sentence substituted “in which all adult members are elderly or disabled members” for “in which all members are sixty years of age or over or receive supplemental security income benefits under title XVI of the Social Security Act or disability and blindness payments under title I, II, X, XIV, and XVI of the Social Security Act” and inserted provision that a State agency may, with the prior approval of the Secretary, select categories of households which may report at specified less frequent intervals upon a showing by the State agency, which is satisfactory to the Secretary, that to require households in such categories to report monthly would result in unwarranted expenditures for administration of this subsection, and, in last sentence, struck out “, on a form designed or approved by the Secretary,” after “to the State agency”.
 
-Subsec. (c)(5). Pub. L. 97–253, § 156, added par. (5).
+Subsec. (c)(5). Pub. L. 97–253, § 156, added par. (5).
 
-Subsec. (d)(1). Pub. L. 97–253, §§ 157, 158, inserted “, which may include a requirement that, at the option of the State agency, such reporting and inquiry commence at the time of application” after “Secretary” in cl. (ii), substituted “ninety days” for “sixty days from the time of the voluntary quit” in cl. (iii), and inserted provision that an employee of the Federal Government, or of a State or political subdivision of a State, who engaged in a strike against the Federal Government, a State or political subdivision of a State and is dismissed from his job because of his participation in the strike shall be considered to have voluntarily quit such job without good cause.
+Subsec. (d)(1). Pub. L. 97–253, §§ 157, 158, inserted “, which may include a requirement that, at the option of the State agency, such reporting and inquiry commence at the time of application” after “Secretary” in cl. (ii), substituted “ninety days” for “sixty days from the time of the voluntary quit” in cl. (iii), and inserted provision that an employee of the Federal Government, or of a State or political subdivision of a State, who engaged in a strike against the Federal Government, a State or political subdivision of a State and is dismissed from his job because of his participation in the strike shall be considered to have voluntarily quit such job without good cause.
 
-Subsec. (d)(2)(C). Pub. L. 97–253, §§ 159, 190(a), redesignated subpar. (D) as (C), and struck out former subpar. (C) which provided that a person who would otherwise be required to comply with the requirements of par. (1) was exempt if he or she was a parent or other caretaker of a child in a household where there was another able-bodied parent subject to the requirements of this subsection.
+Subsec. (d)(2)(C). Pub. L. 97–253, §§ 159, 190(a), redesignated subpar. (D) as (C), and struck out former subpar. (C) which provided that a person who would otherwise be required to comply with the requirements of par. (1) was exempt if he or she was a parent or other caretaker of a child in a household where there was another able-bodied parent subject to the requirements of this subsection.
 
-Subsec. (d)(2)(D) to (F). Pub. L. 97–253, § 190(a), redesignated subpars. (D) to (F) as (C) to (E), respectively. Former subpar. (D) redesignated (C).
+Subsec. (d)(2)(D) to (F). Pub. L. 97–253, § 190(a), redesignated subpars. (D) to (F) as (C) to (E), respectively. Former subpar. (D) redesignated (C).
 
-Subsec. (d)(3), (4). Pub. L. 97–253, §§ 160, 190(b), redesignated par. (4) as (3), and struck out former par. (3) which provided that to the extent that a State employment service was assigned responsibility for administering the provisions of this subsection, it had to comply with regulations issued jointly by the Secretary and the Secretary of Labor, which regulations had to be patterned to the maximum extent practicable on the work incentive program requirements set forth in title IV of the Social Security Act and had to take into account the diversity of the needs of the food stamp work registration population.
+Subsec. (d)(3), (4). Pub. L. 97–253, §§ 160, 190(b), redesignated par. (4) as (3), and struck out former par. (3) which provided that to the extent that a State employment service was assigned responsibility for administering the provisions of this subsection, it had to comply with regulations issued jointly by the Secretary and the Secretary of Labor, which regulations had to be patterned to the maximum extent practicable on the work incentive program requirements set forth in title IV of the Social Security Act and had to take into account the diversity of the needs of the food stamp work registration population.
 
-Subsec. (e)(3)(B). Pub. L. 97–253, § 161, substituted “; (B) is not a parent with responsibility for the care of a dependent child under age six;” for “or (B) is not the head of a household (or spouse of such head) containing one or more other persons who are dependents of that individual because he or she supplies more than half of their support, or”.
+Subsec. (e)(3)(B). Pub. L. 97–253, § 161, substituted “; (B) is not a parent with responsibility for the care of a dependent child under age six;” for “or (B) is not the head of a household (or spouse of such head) containing one or more other persons who are dependents of that individual because he or she supplies more than half of their support, or”.
 
-Subsec. (e)(3)(C) to (E). Pub. L. 97–253, § 161, added subpars. (C) and (D) and redesignated former subpar. (C) as (E).
+Subsec. (e)(3)(C) to (E). Pub. L. 97–253, § 161, added subpars. (C) and (D) and redesignated former subpar. (C) as (E).
 
-Subsec. (g)(2). Pub. L. 97–253, § 189(b)(1), substituted reference to the Secretary of Health and Human Services for former reference to the Secretary of Health, Education, and Welfare.
+Subsec. (g)(2). Pub. L. 97–253, § 189(b)(1), substituted reference to the Secretary of Health and Human Services for former reference to the Secretary of Health, Education, and Welfare.
 
-1981—Subsec. (b). Pub. L. 97–35, § 112, substituted provisions setting forth disqualification penalties for fraud and misrepresentation, ineligibility period for benefits, and applicable procedures, for provisions relating to prior fraudulent use of coupons or authorization cards, ineligibility period for benefits, and repayment for fraudulent conduct.
+1981—Subsec. (b). Pub. L. 97–35, § 112, substituted provisions setting forth disqualification penalties for fraud and misrepresentation, ineligibility period for benefits, and applicable procedures, for provisions relating to prior fraudulent use of coupons or authorization cards, ineligibility period for benefits, and repayment for fraudulent conduct.
 
-Subsec. (c). Pub. L. 97–35, § 108(b), in par. (1) inserted provisions enumerating categories of households subject to requirements, and substituted “(f)” for “(f)(2)”, and added par. (4).
+Subsec. (c). Pub. L. 97–35, § 108(b), in par. (1) inserted provisions enumerating categories of households subject to requirements, and substituted “(f)” for “(f)(2)”, and added par. (4).
 
-Subsec. (c)(1). Pub. L. 97–35, § 108(c), struck out provisions respecting election of retrospective accounting system, and filing of periodic reports by household categories.
+Subsec. (c)(1). Pub. L. 97–35, § 108(c), struck out provisions respecting election of retrospective accounting system, and filing of periodic reports by household categories.
 
-Subsec. (d)(1). Pub. L. 97–98, §§ 1310, 1311(1), (2), substituted in cl. (i) “twelve” for “six”, struck out in cl. (iii) “, unless the household was certified for benefits under this chapter immediately prior to such unemployment” after “without good cause”, and inserted in cl. (iv) “(including the lack of adequate child care for children above the age of five and under the age of twelve)” after “good cause”.
+Subsec. (d)(1). Pub. L. 97–98, §§ 1310, 1311(1), (2), substituted in cl. (i) “twelve” for “six”, struck out in cl. (iii) “, unless the household was certified for benefits under this chapter immediately prior to such unemployment” after “without good cause”, and inserted in cl. (iv) “(including the lack of adequate child care for children above the age of five and under the age of twelve)” after “good cause”.
 
-Subsec. (d)(2). Pub. L. 97–98, § 1311(3), (4), inserted in cl. (A) “, in which case, failure by such person to comply with any work requirement to which such person is subject that is comparable to a requirement of paragraph (1) shall be the same as failure to comply with that requirement of paragraph (1)” after “compensation system” and substituted in cl. (B) “six” for “twelve”.
+Subsec. (d)(2). Pub. L. 97–98, § 1311(3), (4), inserted in cl. (A) “, in which case, failure by such person to comply with any work requirement to which such person is subject that is comparable to a requirement of paragraph (1) shall be the same as failure to comply with that requirement of paragraph (1)” after “compensation system” and substituted in cl. (B) “six” for “twelve”.
 
-Subsec. (d)(4). Pub. L. 97–35, § 109(a), inserted provisions relating to an increase in allotments as a result of a decrease in income of striking members of a household, and struck out proviso relating to income qualifications, etc., of subsec. (i).
+Subsec. (d)(4). Pub. L. 97–35, § 109(a), inserted provisions relating to an increase in allotments as a result of a decrease in income of striking members of a household, and struck out proviso relating to income qualifications, etc., of subsec. (i).
 
-Subsec. (i). Pub. L. 97–35, § 109(c), struck out subsec. (i) which related to eligibility of a household containing a person involved in a labor-management dispute.
+Subsec. (i). Pub. L. 97–35, § 109(c), struck out subsec. (i) which related to eligibility of a household containing a person involved in a labor-management dispute.
 
-1980—Subsec. (b). Pub. L. 96–249, § 109, inserted provisions permitting each State to decide to proceed against alleged fraud in the program either by way of administrative fraud hearings or by way of reference to appropriate legal authorities for civil or criminal action, or both.
+1980—Subsec. (b). Pub. L. 96–249, § 109, inserted provisions permitting each State to decide to proceed against alleged fraud in the program either by way of administrative fraud hearings or by way of reference to appropriate legal authorities for civil or criminal action, or both.
 
-Subsec. (c). Pub. L. 96–249, § 110, inserted provisions compelling States electing to use a retrospective accounting system to require that certain categories of households file periodic reports of household circumstances following standards prescribed by the Secretary.
+Subsec. (c). Pub. L. 96–249, § 110, inserted provisions compelling States electing to use a retrospective accounting system to require that certain categories of households file periodic reports of household circumstances following standards prescribed by the Secretary.
 
-Subsec. (d)(2)(D). Pub. L. 96–249, § 140, substituted “enrolled in an institution of higher education shall be ineligible to participate in the food stamp program unless he or she meets the requirements of subsection (e) of this section)” for “shall be subject to the requirements of paragraph (1) of this subsection during any period of more than thirty days when such school or program is in vacation or recess and any such person enrolled in an institution of higher education shall be subject to the requirements of subsection (e)(3)(B) of this section as well)”.
+Subsec. (d)(2)(D). Pub. L. 96–249, § 140, substituted “enrolled in an institution of higher education shall be ineligible to participate in the food stamp program unless he or she meets the requirements of subsection (e) of this section)” for “shall be subject to the requirements of paragraph (1) of this subsection during any period of more than thirty days when such school or program is in vacation or recess and any such person enrolled in an institution of higher education shall be subject to the requirements of subsection (e)(3)(B) of this section as well)”.
 
-Subsec. (d)(4). Pub. L. 96–249, § 114, added par. (4).
+Subsec. (d)(4). Pub. L. 96–249, § 114, added par. (4).
 
-Subsec. (e). Pub. L. 96–249, § 139, substituted requirement that he or she is physically and mentally fit and is between the ages of eighteen and sixty for requirement that he or she has reached his or her eighteenth birthday, inserted requirement that he or she is not so enrolled as a result of participation in the work incentive program under title IV of the Social Security Act, and struck out requirement that he or she is properly claimed or could properly be claimed as a dependent child for Federal income tax purposes.
+Subsec. (e). Pub. L. 96–249, § 139, substituted requirement that he or she is physically and mentally fit and is between the ages of eighteen and sixty for requirement that he or she has reached his or her eighteenth birthday, inserted requirement that he or she is not so enrolled as a result of participation in the work incentive program under title IV of the Social Security Act, and struck out requirement that he or she is properly claimed or could properly be claimed as a dependent child for Federal income tax purposes.
 
-Subsec. (f). Pub. L. 96–249, § 115, inserted provisions requiring that the income (less a pro rata share) and fi­nancial resources of the individual rendered ineligible to participate in the food stamp program under this subsection be considered in determining the eligibility and the value of the allotment of the household of which such individual is a member.
+Subsec. (f). Pub. L. 96–249, § 115, inserted provisions requiring that the income (less a pro rata share) and fi­nancial resources of the individual rendered ineligible to participate in the food stamp program under this subsection be considered in determining the eligibility and the value of the allotment of the household of which such individual is a member.
 
-1979—Subsec. (b). Pub. L. 96–58, § 5, provided that, after any specified period of disqualification pursuant to findings under clauses (1) or (2) of this subsection, no disqualified individual would be eligible to participate in the food stamp program unless that individual agreed to a reduction in the allotment of the household of which that individual is a member or to repayment in cash, in accordance with a reasonable schedule as determined by the Secretary that would be sufficient over time to reimburse the Federal Government for the value of the coupons obtained through the fraudulent conduct, and that if any disqualified individual elected repayment in cash under the provisions of the preceding sentence and failed to make payments in accordance with the schedule determined by the Secretary, the household of which that individual was a member would be subject to appropriate allotment reductions.
+1979—Subsec. (b). Pub. L. 96–58, § 5, provided that, after any specified period of disqualification pursuant to findings under clauses (1) or (2) of this subsection, no disqualified individual would be eligible to participate in the food stamp program unless that individual agreed to a reduction in the allotment of the household of which that individual is a member or to repayment in cash, in accordance with a reasonable schedule as determined by the Secretary that would be sufficient over time to reimburse the Federal Government for the value of the coupons obtained through the fraudulent conduct, and that if any disqualified individual elected repayment in cash under the provisions of the preceding sentence and failed to make payments in accordance with the schedule determined by the Secretary, the household of which that individual was a member would be subject to appropriate allotment reductions.
 
-Subsec. (i). Pub. L. 96–58, § 9, added subsec. (i).
+Subsec. (i). Pub. L. 96–58, § 9, added subsec. (i).
 
 1977—Pub. L. 95–113 substituted revised provisions covering eligibility disqualifications for provisions relating to the issuance, usage, and design of coupons which are now covered by section 2016 of this title.
 
@@ -3707,7 +3707,7 @@ Subsec. (i). Pub. L. 96–58, § 9, added subsec. (i).
 
 **Effective and Termination Dates of 2023 Amendment**
 
-Pub. L. 118–5, div. C, title II, § 311(b), June 3, 2023, 137 Stat. 37, provided that:
+Pub. L. 118–5, div. C, title II, § 311(b), June 3, 2023, 137 Stat. 37, provided that:
 
 > **“(1) State agency.—** A state agency shall apply section 6(*o*)(3) of the Food and Nutrition Act of 2008, as amended by subsection (a), to any application for initial certification or recertification received starting 90 days after the date of enactment of this Act [June 3, 2023].
 
@@ -3727,17 +3727,17 @@ Amendment by sections 4001(b), 4002(a)(3), 4105, 4108, 4112, 4115(b)(4), and 413
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–171, title IV, § 4121(e), May 13, 2002, 116 Stat. 324, provided that: “The amendments made by this section [amending this section and section 2025 of this title] take effect on the date of enactment of this Act [May 13, 2002].”
+Pub. L. 107–171, title IV, § 4121(e), May 13, 2002, 116 Stat. 324, provided that: “The amendments made by this section [amending this section and section 2025 of this title] take effect on the date of enactment of this Act [May 13, 2002].”
 
 Amendment by sections 4109, 4115(b)(2) of Pub. L. 107–171 effective Oct. 1, 2002, except as otherwise provided, see section 4405 of Pub. L. 107–171, set out as an Effective Date note under section 1161 of Title 2, The Congress.
 
 **Effective Date of 1998 Amendment**
 
-Amendment by section 101(f) [title VIII, § 405(d)(2)(B)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(2)(B)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) [title VIII, § 405(d)(2)(B)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(2)(B)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–33, title I, § 1005(b), Aug. 5, 1997, 111 Stat. 257, provided that: “The amendments made by sections 1001 and 1002 [amending this section and section 2025 of this title] take effect on October 1, 1997, without regard to whether regulations have been promulgated to implement the amendments made by such sections.”
+Pub. L. 105–33, title I, § 1005(b), Aug. 5, 1997, 111 Stat. 257, provided that: “The amendments made by sections 1001 and 1002 [amending this section and section 2025 of this title] take effect on October 1, 1997, without regard to whether regulations have been promulgated to implement the amendments made by such sections.”
 
 **Effective Date of 1996 Amendments**
 
@@ -3779,7 +3779,7 @@ Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agricultur
 
 Amendments by Pub. L. 97–35, except for amendment made by section 108(c) of Pub. L. 97–35, effective and implemented upon such dates as Secretary of Agriculture may prescribe, taking into account need for orderly implementation, see section 117 of Pub. L. 97–35, set out as a note under section 2012 of this title.
 
-Pub. L. 97–35, title I, § 108(c), Aug. 13, 1981, 95 Stat. 361, provided that the amendment made by section 108(c) is effective Oct. 1, 1983.
+Pub. L. 97–35, title I, § 108(c), Aug. 13, 1981, 95 Stat. 361, provided that the amendment made by section 108(c) is effective Oct. 1, 1983.
 
 **Effective Date of 1979 Amendment**
 
@@ -3787,11 +3787,11 @@ Secretary of Agriculture to issue final regulations implementing the amendment o
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
+Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
 
 **Regulations**
 
-Pub. L. 105–33, title I, § 1005(a), Aug. 5, 1997, 111 Stat. 257, provided that: “Not later than 1 year after the date of enactment of this Act [Aug. 5, 1997], the Secretary of Agriculture shall promulgate such regulations as are necessary to implement the amendments made by this title [amending this section and sections 2020 and 2025 of this title].”
+Pub. L. 105–33, title I, § 1005(a), Aug. 5, 1997, 111 Stat. 257, provided that: “Not later than 1 year after the date of enactment of this Act [Aug. 5, 1997], the Secretary of Agriculture shall promulgate such regulations as are necessary to implement the amendments made by this title [amending this section and sections 2020 and 2025 of this title].”
 
 **Abolition of Immigration and Naturalization Service and Transfer of Functions**
 
@@ -3799,11 +3799,11 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 **Waiver Transparency**
 
-Pub. L. 118–5, div. C, title II, § 314, June 3, 2023, 137 Stat. 38, provided that: “Not later than 30 days after the date of enactment of this Act [June 3, 2023], the Secretary of Agriculture shall make public all available State waiver requests, including all supporting data from the State, and agency approvals of such requests, including relevant documentation on the utilization of waivers authorized under Section [sic] 6(*o*)(4)(A) of the Food and Nutrition Act of 2008 (7 U.S.C. 2015(*o*)(4)(A)).”
+Pub. L. 118–5, div. C, title II, § 314, June 3, 2023, 137 Stat. 38, provided that: “Not later than 30 days after the date of enactment of this Act [June 3, 2023], the Secretary of Agriculture shall make public all available State waiver requests, including all supporting data from the State, and agency approvals of such requests, including relevant documentation on the utilization of waivers authorized under Section [sic] 6(*o*)(4)(A) of the Food and Nutrition Act of 2008 (7 U.S.C. 2015(*o*)(4)(A)).”
 
 **Transition Provision for Work Requirement**
 
-Pub. L. 104–193, title VIII, § 824(b), Aug. 22, 1996, 110 Stat. 2324, provided that:
+Pub. L. 104–193, title VIII, § 824(b), Aug. 22, 1996, 110 Stat. 2324, provided that:
 
 > “The term ‘preceding 36-month period’ in section 6(*o*) of the Food Stamp Act of 1977 [now the Food and Nutrition Act of 2008, 7 U.S.C. 2015(*o*)], as added by subsection (a), does not include, with respect to a State, any period before the earlier of—
 
@@ -3813,13 +3813,13 @@ Pub. L. 104–193, title VIII, § 824(b), Aug. 22, 1996, 110 Stat. 2324, provi
 
 **Exemption From Monthly Reporting Systems for Households Residing on Indian Reservations**
 
-Pub. L. 102–237, title IX, § 908(a)(2), Dec. 13, 1991, 105 Stat. 1886, as amended by Pub. L. 103–11, § 1, Apr. 1, 1993, 107 Stat. 41; Pub. L. 103–205, § 1, Dec. 17, 1993, 107 Stat. 2418, provided that no State agency be required to exempt households residing on Indian reservations from food stamp program monthly reporting systems until Mar. 15, 1994, and directed Secretary of Agriculture to issue final regulations requiring exemption of households residing on Indian reservations from food stamp program monthly reporting systems no later than Dec. 1, 1992, prior to repeal by Pub. L. 103–225, title I, § 104(a), Mar. 25, 1994, 108 Stat. 107.
+Pub. L. 102–237, title IX, § 908(a)(2), Dec. 13, 1991, 105 Stat. 1886, as amended by Pub. L. 103–11, § 1, Apr. 1, 1993, 107 Stat. 41; Pub. L. 103–205, § 1, Dec. 17, 1993, 107 Stat. 2418, provided that no State agency be required to exempt households residing on Indian reservations from food stamp program monthly reporting systems until Mar. 15, 1994, and directed Secretary of Agriculture to issue final regulations requiring exemption of households residing on Indian reservations from food stamp program monthly reporting systems no later than Dec. 1, 1992, prior to repeal by Pub. L. 103–225, title I, § 104(a), Mar. 25, 1994, 108 Stat. 107.
 
 **Mandatory Monthly Reporting-Retrospective Budgeting for Food Stamp Program; Prohibition**
 
-Pub. L. 98–107, § 101(b), Oct. 1, 1983, 97 Stat. 735, provided in part that no part of any of the funds appropriated or otherwise made available by Pub. L. 98–107 or any other Act could be used to implement mandatory monthly reporting-retrospective budgeting for the food stamp program during the first three months of the fiscal year ending Sept. 30, 1984.
+Pub. L. 98–107, § 101(b), Oct. 1, 1983, 97 Stat. 735, provided in part that no part of any of the funds appropriated or otherwise made available by Pub. L. 98–107 or any other Act could be used to implement mandatory monthly reporting-retrospective budgeting for the food stamp program during the first three months of the fiscal year ending Sept. 30, 1984.
 
-## § 2016. Issuance and use of program benefits
+## § 2016. Issuance and use of program benefits
 
 **(a) In general**
 
@@ -4295,7 +4295,7 @@ Before the Secretary authorizes implementation of paragraph (1) in all States, t
 
 **(vi)** such other criteria, including security criteria, as established by the Secretary.
 
-(Pub. L. 88–525, § 7, Aug. 31, 1964, 78 Stat. 705; Pub. L. 91–671, § 5, Jan. 11, 1971, 84 Stat. 2050; Pub. L. 93–86, § 3(m), Aug. 10, 1973, 87 Stat. 248; Pub. L. 93–125, § 1(k), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, § 2, July 5, 1976, 90 Stat. 799; Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 967; Pub. L. 97–98, title XIII, § 1312, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §§ 162, 190(c)(2), Sept. 8, 1982, 96 Stat. 778, 787; Pub. L. 99–198, title XV, §§ 1518, 1519, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–435, title II, § 203(b), Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–624, title XVII, §§ 1728, 1729(a), Nov. 28, 1990, 104 Stat. 3788, 3789; Pub. L. 103–225, title I, § 102, Mar. 25, 1994, 108 Stat. 107; Pub. L. 104–193, title VIII, § 825(a), Aug. 22, 1996, 110 Stat. 2324; Pub. L. 105–18, title VII, [(a)], June 12, 1997, 111 Stat. 216; Pub. L. 106–171, § 3, Feb. 11, 2000, 114 Stat. 3; Pub. L. 107–171, title IV, § 4110, May 13, 2002, 116 Stat. 309; Pub. L. 110–234, title IV, §§ 4001(b), 4002(a)(4), 4113–4115(a), May 22, 2008, 122 Stat. 1092, 1093, 1103; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4002(a)(4), 4113–4115(a), June 18, 2008, 122 Stat. 1664, 1853, 1854, 1864, 1865; Pub. L. 111–203, title X, § 1075(b), July 21, 2010, 124 Stat. 2074; Pub. L. 113–79, title IV, §§ 4002(b)–(d), 4010–4011(b)(2)(A), 4030(e), Feb. 7, 2014, 128 Stat. 783, 784, 789–792, 814; Pub. L. 115–334, title IV, §§ 4001(b), 4006(a)–(e), Dec. 20, 2018, 132 Stat. 4624, 4634, 4635.)
+(Pub. L. 88–525, § 7, Aug. 31, 1964, 78 Stat. 705; Pub. L. 91–671, § 5, Jan. 11, 1971, 84 Stat. 2050; Pub. L. 93–86, § 3(m), Aug. 10, 1973, 87 Stat. 248; Pub. L. 93–125, § 1(k), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, § 2, July 5, 1976, 90 Stat. 799; Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 967; Pub. L. 97–98, title XIII, § 1312, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §§ 162, 190(c)(2), Sept. 8, 1982, 96 Stat. 778, 787; Pub. L. 99–198, title XV, §§ 1518, 1519, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–435, title II, § 203(b), Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–624, title XVII, §§ 1728, 1729(a), Nov. 28, 1990, 104 Stat. 3788, 3789; Pub. L. 103–225, title I, § 102, Mar. 25, 1994, 108 Stat. 107; Pub. L. 104–193, title VIII, § 825(a), Aug. 22, 1996, 110 Stat. 2324; Pub. L. 105–18, title VII, [(a)], June 12, 1997, 111 Stat. 216; Pub. L. 106–171, § 3, Feb. 11, 2000, 114 Stat. 3; Pub. L. 107–171, title IV, § 4110, May 13, 2002, 116 Stat. 309; Pub. L. 110–234, title IV, §§ 4001(b), 4002(a)(4), 4113–4115(a), May 22, 2008, 122 Stat. 1092, 1093, 1103; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4002(a)(4), 4113–4115(a), June 18, 2008, 122 Stat. 1664, 1853, 1854, 1864, 1865; Pub. L. 111–203, title X, § 1075(b), July 21, 2010, 124 Stat. 2074; Pub. L. 113–79, title IV, §§ 4002(b)–(d), 4010–4011(b)(2)(A), 4030(e), Feb. 7, 2014, 128 Stat. 783, 784, 789–792, 814; Pub. L. 115–334, title IV, §§ 4001(b), 4006(a)–(e), Dec. 20, 2018, 132 Stat. 4624, 4634, 4635.)
 
 **Editorial Notes**
 
@@ -4309,29 +4309,29 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Subsec. (f)(5)(C). Pub. L. 115–334, § 4006(a), added subpar. (C).
+2018—Subsec. (f)(5)(C). Pub. L. 115–334, § 4006(a), added subpar. (C).
 
-Subsec. (h)(2). Pub. L. 115–334, § 4006(b), in introductory provisions, inserted “and shall periodically review such regulations and modify such regulations to take into account evolving technology and comparable industry standards” after “such a system”.
+Subsec. (h)(2). Pub. L. 115–334, § 4006(b), in introductory provisions, inserted “and shall periodically review such regulations and modify such regulations to take into account evolving technology and comparable industry standards” after “such a system”.
 
-Subsec. (h)(12)(A). Pub. L. 115–334, § 4006(c)(1), inserted “, or due to the death of all members of the household” after “due to inactivity”.
+Subsec. (h)(12)(A). Pub. L. 115–334, § 4006(c)(1), inserted “, or due to the death of all members of the household” after “due to inactivity”.
 
-Subsec. (h)(12)(B), (C). Pub. L. 115–334, § 4006(c)(2), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
+Subsec. (h)(12)(B), (C). Pub. L. 115–334, § 4006(c)(2), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
 
 “(B) Benefit storage.—A State agency may store recovered electronic benefits off-line in accordance with subparagraph (D), if the household has not accessed the account after 6 months.
 
 “(C) Benefit expunging.—A State agency shall expunge benefits that have not been accessed by a household after a period of 12 months.”
 
-Subsec. (h)(13). Pub. L. 115–334, § 4006(d)(1), amended par. (13) generally. Prior to amendment, text read as follows: “No interchange fees shall apply to electronic benefit transfer transactions under this subsection.”
+Subsec. (h)(13). Pub. L. 115–334, § 4006(d)(1), amended par. (13) generally. Prior to amendment, text read as follows: “No interchange fees shall apply to electronic benefit transfer transactions under this subsection.”
 
-Subsec. (h)(14)(A). Pub. L. 115–334, § 4006(e)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) related to redemption of benefits by retail food stores through electronic means other than wired point of sale devices for electronic benefit transfer transactions, if certain criteria had been met.
+Subsec. (h)(14)(A). Pub. L. 115–334, § 4006(e)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) related to redemption of benefits by retail food stores through electronic means other than wired point of sale devices for electronic benefit transfer transactions, if certain criteria had been met.
 
-Subsec. (h)(14)(B). Pub. L. 115–334, § 4006(e)(2)(A), substituted “Demonstration projects on access of benefits through mobile technologies” for “Demonstration project on acceptance of benefits of mobile transactions” in heading.
+Subsec. (h)(14)(B). Pub. L. 115–334, § 4006(e)(2)(A), substituted “Demonstration projects on access of benefits through mobile technologies” for “Demonstration project on acceptance of benefits of mobile transactions” in heading.
 
-Subsec. (h)(14)(B)(i). Pub. L. 115–334, § 4006(e)(2)(B), amended cl. (i) generally. Prior to amendment, text read as follows: “Before authorizing implementation of subparagraph (A) in all States, the Secretary shall pilot the use of mobile technologies determined by the Secretary to be appropriate to test the feasibility and implications for program integrity, by allowing retail food stores to accept benefits from recipients of supplemental nutrition assistance through mobile transactions.”
+Subsec. (h)(14)(B)(i). Pub. L. 115–334, § 4006(e)(2)(B), amended cl. (i) generally. Prior to amendment, text read as follows: “Before authorizing implementation of subparagraph (A) in all States, the Secretary shall pilot the use of mobile technologies determined by the Secretary to be appropriate to test the feasibility and implications for program integrity, by allowing retail food stores to accept benefits from recipients of supplemental nutrition assistance through mobile transactions.”
 
-Subsec. (h)(14)(B)(ii). Pub. L. 115–334, § 4006(e)(2)(C)(i)–(iii), in heading substituted “Project requirements” for “Demonstration projects” and, in introductory provisions, substituted “State agency” for “retail food store” and struck out “includes” after “a plan that”.
+Subsec. (h)(14)(B)(ii). Pub. L. 115–334, § 4006(e)(2)(C)(i)–(iii), in heading substituted “Project requirements” for “Demonstration projects” and, in introductory provisions, substituted “State agency” for “retail food store” and struck out “includes” after “a plan that”.
 
-Subsec. (h)(14)(B)(ii)(I) to (VIII). Pub. L. 115–334, § 4006(e)(2)(C)(iv), added subcls. (I) to (VIII) and struck out former subcls. (I) to (IV) which read as follows:
+Subsec. (h)(14)(B)(ii)(I) to (VIII). Pub. L. 115–334, § 4006(e)(2)(C)(iv), added subcls. (I) to (VIII) and struck out former subcls. (I) to (IV) which read as follows:
 
 “(I) a description of the technology;
 
@@ -4341,117 +4341,117 @@ Subsec. (h)(14)(B)(ii)(I) to (VIII). Pub. L. 115–334, § 4006(e)(2)(C)(iv), 
 
 “(IV) such other criteria as the Secretary may require.”
 
-Subsec. (h)(14)(B)(iii), (iv). Pub. L. 115–334, § 4006(e)(2)(D), (E), added cl. (iii) and amended former cl. (iii) generally, which general amendment also redesignated former cl. (iii) as (iv). Prior to amendment, text of cl. (iii) read as follows: “The demonstration projects under this subparagraph shall be completed and final reports submitted to the Secretary by not later than July 1, 2016.”
+Subsec. (h)(14)(B)(iii), (iv). Pub. L. 115–334, § 4006(e)(2)(D), (E), added cl. (iii) and amended former cl. (iii) generally, which general amendment also redesignated former cl. (iii) as (iv). Prior to amendment, text of cl. (iii) read as follows: “The demonstration projects under this subparagraph shall be completed and final reports submitted to the Secretary by not later than July 1, 2016.”
 
-Subsec. (h)(14)(C)(i). Pub. L. 115–334, § 4006(e)(3), substituted “2022” for “2017” and inserted “requires further study by way of an extended pilot period or” before “is not in the best interest”.
+Subsec. (h)(14)(C)(i). Pub. L. 115–334, § 4006(e)(3), substituted “2022” for “2017” and inserted “requires further study by way of an extended pilot period or” before “is not in the best interest”.
 
-Subsec. (j)(1)(H). Pub. L. 115–334, § 4006(d)(2), amended subpar. (H) generally. Prior to amendment, text read as follows: “The term ‘switching’ means the routing of an interstate transaction that consists of transmitting the details of a transaction electronically recorded through the use of an electronic benefit transfer card in 1 State to the issuer of the card that is in another State.”
+Subsec. (j)(1)(H). Pub. L. 115–334, § 4006(d)(2), amended subpar. (H) generally. Prior to amendment, text read as follows: “The term ‘switching’ means the routing of an interstate transaction that consists of transmitting the details of a transaction electronically recorded through the use of an electronic benefit transfer card in 1 State to the issuer of the card that is in another State.”
 
-Subsec. (k). Pub. L. 115–334, § 4001(b)(1), substituted “Acceptance of program benefits through online transactions” for “Option to accept program benefits through on-line transactions” in heading.
+Subsec. (k). Pub. L. 115–334, § 4001(b)(1), substituted “Acceptance of program benefits through online transactions” for “Option to accept program benefits through on-line transactions” in heading.
 
-Subsec. (k)(4)(C). Pub. L. 115–334, § 4001(b)(2), struck out subpar. (C). Text read as follows: “The demonstration projects under this paragraph shall be completed and final reports submitted to the Secretary by not later than July 1, 2016.”
+Subsec. (k)(4)(C). Pub. L. 115–334, § 4001(b)(2), struck out subpar. (C). Text read as follows: “The demonstration projects under this paragraph shall be completed and final reports submitted to the Secretary by not later than July 1, 2016.”
 
-Subsec. (k)(5). Pub. L. 115–334, § 4001(b)(3), struck out par. (5). Text read as follows: “The Secretary shall—
+Subsec. (k)(5). Pub. L. 115–334, § 4001(b)(3), struck out par. (5). Text read as follows: “The Secretary shall—
 
 “(A) by not later than January 1, 2017, authorize implementation of paragraph (1) in all States, unless the Secretary makes a finding, based on the data provided under paragraph (4), that implementation in all States is not in the best interest of the supplemental nutrition assistance program; and
 
 “(B) if the determination made in subparagraph (A) is not to implement in all States, submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate that includes the basis of the finding.”
 
-2014—Subsec. (b). Pub. L. 113–79, § 4011(b)(2)(A), substituted “purchase food from retail food stores” for “purchase food in retail food stores”.
+2014—Subsec. (b). Pub. L. 113–79, § 4011(b)(2)(A), substituted “purchase food from retail food stores” for “purchase food in retail food stores”.
 
-Subsec. (f)(2). Pub. L. 113–79, § 4002(b)(1), added par. (2) and struck out former par. (2). Text read as follows: “The cost of documents or systems that may be required by this subsection may not be imposed upon a retail food store participating in the supplemental nutrition assistance program.”
+Subsec. (f)(2). Pub. L. 113–79, § 4002(b)(1), added par. (2) and struck out former par. (2). Text read as follows: “The cost of documents or systems that may be required by this subsection may not be imposed upon a retail food store participating in the supplemental nutrition assistance program.”
 
-Subsec. (f)(4), (5). Pub. L. 113–79, § 4002(b)(2), added pars. (4) and (5).
+Subsec. (f)(4), (5). Pub. L. 113–79, § 4002(b)(2), added pars. (4) and (5).
 
-Subsec. (h)(2)(C)(ii). Pub. L. 113–79, § 4002(c), added cl. (ii) and struck out former cl. (ii) which read as follows: “effective not later than 2 years after August 22, 1996, to the extent practicable, measures that permit a system to differentiate items of food that may be acquired with an allotment from items of food that may not be acquired with an allotment;”.
+Subsec. (h)(2)(C)(ii). Pub. L. 113–79, § 4002(c), added cl. (ii) and struck out former cl. (ii) which read as follows: “effective not later than 2 years after August 22, 1996, to the extent practicable, measures that permit a system to differentiate items of food that may be acquired with an allotment from items of food that may not be acquired with an allotment;”.
 
-Subsec. (h)(3)(B). Pub. L. 113–79, § 4002(d), substituted “is operational at a sufficient number” for “is operational—
+Subsec. (h)(3)(B). Pub. L. 113–79, § 4002(d), substituted “is operational at a sufficient number” for “is operational—
 
 “(i) in the case of a participating retail food store in which coupons are used to purchase 15 percent or more of the total dollar amount of food sold by the store (as determined by the Secretary), at all registers in the store; and
 
 “(ii) in the case of other participating stores, at a sufficient number”.
 
-Subsec. (h)(8). Pub. L. 113–79, § 4010, substituted “of cards” for “card fee” in par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, and added subpars. (B) to (D).
+Subsec. (h)(8). Pub. L. 113–79, § 4010, substituted “of cards” for “card fee” in par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, and added subpars. (B) to (D).
 
-Subsec. (h)(12), (13). Pub. L. 113–79, § 4030(e), redesignated par. (12), relating to interchange fees, as (13).
+Subsec. (h)(12), (13). Pub. L. 113–79, § 4030(e), redesignated par. (12), relating to interchange fees, as (13).
 
-Subsec. (h)(14). Pub. L. 113–79, § 4011(a), added par. (14).
+Subsec. (h)(14). Pub. L. 113–79, § 4011(a), added par. (14).
 
-Subsec. (k). Pub. L. 113–79, § 4011(b)(1), added subsec. (k).
+Subsec. (k). Pub. L. 113–79, § 4011(b)(1), added subsec. (k).
 
 2010—Subsec. (h)(10). Pub. L. 111–203 amended par. (10) generally. Prior to amendment, text read as follows: “Disclosures, protections, responsibilities, and remedies established by the Federal Reserve Board under section 1693b of title 15 shall not apply to benefits under this chapter delivered through any electronic benefit transfer system.”
 
-2008—Pub. L. 110–246, § 4115(a)(1), substituted “program benefits” for “coupons” in section catchline.
+2008—Pub. L. 110–246, § 4115(a)(1), substituted “program benefits” for “coupons” in section catchline.
 
-Subsec. (a). Pub. L. 110–246, § 4115(a)(1), inserted heading and substituted “Except as provided in subsection (i), EBT cards shall be” for “Coupons shall be printed under such arrangements and in such denominations as may be determined by the Secretary to be necessary, and (except as provided in subsection (j) of this section) shall be”.
+Subsec. (a). Pub. L. 110–246, § 4115(a)(1), inserted heading and substituted “Except as provided in subsection (i), EBT cards shall be” for “Coupons shall be printed under such arrangements and in such denominations as may be determined by the Secretary to be necessary, and (except as provided in subsection (j) of this section) shall be”.
 
-Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsec. (b). Pub. L. 110–246, § 4115(a)(2), inserted heading, substituted “Benefits” for “Coupons”, and struck out before period at end “: *Provided further*, That eligible households using coupons to purchase food may receive cash in change therefor so long as the cash received does not equal or exceed the value of the lowest coupon denomination issued”.
+Subsec. (b). Pub. L. 110–246, § 4115(a)(2), inserted heading, substituted “Benefits” for “Coupons”, and struck out before period at end “: *Provided further*, That eligible households using coupons to purchase food may receive cash in change therefor so long as the cash received does not equal or exceed the value of the lowest coupon denomination issued”.
 
-Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsec. (c). Pub. L. 110–246, § 4115(a)(3), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, substituted “EBT cards” for “Coupons”, struck out “and define their denomination” after “explain their purpose”, struck out at end “The name of any public official shall not appear on such coupons.”, and added par. (2).
+Subsec. (c). Pub. L. 110–246, § 4115(a)(3), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, substituted “EBT cards” for “Coupons”, struck out “and define their denomination” after “explain their purpose”, struck out at end “The name of any public official shall not appear on such coupons.”, and added par. (2).
 
-Subsec. (d). Pub. L. 110–246, § 4115(a)(4), (12), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to determination and monitoring of coupon inventory levels and certified monthly report on issuer’s operations.
+Subsec. (d). Pub. L. 110–246, § 4115(a)(4), (12), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to determination and monitoring of coupon inventory levels and certified monthly report on issuer’s operations.
 
-Subsec. (e). Pub. L. 110–246, § 4115(a)(12), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+Subsec. (e). Pub. L. 110–246, § 4115(a)(12), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-Pub. L. 110–246, § 4115(a)(5), substituted “benefits” for “coupons” in two places and “benefit issuers” for “coupon issuers” in two places.
+Pub. L. 110–246, § 4115(a)(5), substituted “benefits” for “coupons” in two places and “benefit issuers” for “coupon issuers” in two places.
 
-Subsec. (f). Pub. L. 110–246, § 4115(a)(12), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 110–246, § 4115(a)(12), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-Pub. L. 110–246, § 4115(a)(6), substituted “issuance of benefits” for “issuance of coupons”, “benefit issuers” for “coupon issuer”, and “authorizations for benefits” for “authorizations for coupons and allotments” and struck out “including any losses involving failure of a benefit issuers to comply with the requirements specified in section 2020(e)(20) of this title,” after “issuance of benefits”.
+Pub. L. 110–246, § 4115(a)(6), substituted “issuance of benefits” for “issuance of coupons”, “benefit issuers” for “coupon issuer”, and “authorizations for benefits” for “authorizations for coupons and allotments” and struck out “including any losses involving failure of a benefit issuers to comply with the requirements specified in section 2020(e)(20) of this title,” after “issuance of benefits”.
 
-Subsec. (g). Pub. L. 110–246, § 4115(a)(12), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+Subsec. (g). Pub. L. 110–246, § 4115(a)(12), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
-Pub. L. 110–246, § 4115(a)(7), added subsec. (g) and struck out former subsec. (g) which related to issuance or delivery of food stamp coupons using alternative methods or issuance of other reusable documents in lieu of coupons by a State agency.
+Pub. L. 110–246, § 4115(a)(7), added subsec. (g) and struck out former subsec. (g) which related to issuance or delivery of food stamp coupons using alternative methods or issuance of other reusable documents in lieu of coupons by a State agency.
 
-Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” in two places.
+Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” in two places.
 
-Subsec. (h). Pub. L. 110–246, § 4115(a)(12), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
+Subsec. (h). Pub. L. 110–246, § 4115(a)(12), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
 
-Subsec. (h)(1). Pub. L. 110–246, § 4115(a)(8), substituted “benefits” for “coupons”.
+Subsec. (h)(1). Pub. L. 110–246, § 4115(a)(8), substituted “benefits” for “coupons”.
 
-Subsec. (h)(2). Pub. L. 110–246, § 4113, added par. (2) and struck out former par. (2) which read as follows: “Any procedure established under paragraph (1) shall not reduce the allotment of any household and shall ensure that no household experiences an interval between issuances of more than 40 days. The procedure may include issuing a household’s benefits in more than one issuance.”
+Subsec. (h)(2). Pub. L. 110–246, § 4113, added par. (2) and struck out former par. (2) which read as follows: “Any procedure established under paragraph (1) shall not reduce the allotment of any household and shall ensure that no household experiences an interval between issuances of more than 40 days. The procedure may include issuing a household’s benefits in more than one issuance.”
 
-Subsec. (i). Pub. L. 110–246, § 4115(a)(12), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
+Subsec. (i). Pub. L. 110–246, § 4115(a)(12), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
 
-Subsec. (i)(3)(B)(ii). Pub. L. 110–246, § 4002(a)(4)(A)(i), substituted “households receiving supplemental nutrition assistance program benefits” for “food stamp households”.
+Subsec. (i)(3)(B)(ii). Pub. L. 110–246, § 4002(a)(4)(A)(i), substituted “households receiving supplemental nutrition assistance program benefits” for “food stamp households”.
 
-Subsec. (i)(7). Pub. L. 110–246, § 4002(a)(4)(A)(ii), substituted “supplemental nutrition assistance issuance” for “food stamp issuance”.
+Subsec. (i)(7). Pub. L. 110–246, § 4002(a)(4)(A)(ii), substituted “supplemental nutrition assistance issuance” for “food stamp issuance”.
 
-Subsec. (i)(12). Pub. L. 110–246, § 4115(a)(9), added par. (12) relating to interchange fees.
+Subsec. (i)(12). Pub. L. 110–246, § 4115(a)(9), added par. (12) relating to interchange fees.
 
-Pub. L. 110–246, § 4114, added par. (12) relating to recovering electronic benefits.
+Pub. L. 110–246, § 4114, added par. (12) relating to recovering electronic benefits.
 
-Subsec. (j). Pub. L. 110–246, § 4115(a)(12), redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
+Subsec. (j). Pub. L. 110–246, § 4115(a)(12), redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
 
-Subsec. (j)(1). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Subsec. (j)(1). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsec. (j)(2)(A)(ii). Pub. L. 110–246, § 4115(a)(10)(A), substituted “issuing and redeeming benefits” for “printing, shipping, and redeeming coupons”.
+Subsec. (j)(2)(A)(ii). Pub. L. 110–246, § 4115(a)(10)(A), substituted “issuing and redeeming benefits” for “printing, shipping, and redeeming coupons”.
 
-Subsec. (j)(2)(B). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Subsec. (j)(2)(B). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsec. (j)(5). Pub. L. 110–246, § 4115(a)(10)(B), substituted “benefit” for “coupon”.
+Subsec. (j)(5). Pub. L. 110–246, § 4115(a)(10)(B), substituted “benefit” for “coupon”.
 
-Subsec. (k). Pub. L. 110–246, § 4115(a)(12), redesignated subsec. (k) as (j).
+Subsec. (k). Pub. L. 110–246, § 4115(a)(12), redesignated subsec. (k) as (j).
 
-Subsec. (k)(1)(A). Pub. L. 110–246, § 4115(a)(11)(C), which directed amendment of subpar. (A) by substituting “subsection (h)(11)(A)” for “subsection (i)(11)(A)”, was executed by making the substitution in subpar. (A) of par. (1), to reflect the probable intent of Congress.
+Subsec. (k)(1)(A). Pub. L. 110–246, § 4115(a)(11)(C), which directed amendment of subpar. (A) by substituting “subsection (h)(11)(A)” for “subsection (i)(11)(A)”, was executed by making the substitution in subpar. (A) of par. (1), to reflect the probable intent of Congress.
 
-Subsec. (k)(1)(B). Pub. L. 110–246, § 4115(a)(11)(A), substituted “program benefits in the form of” for “coupons in the form of”.
+Subsec. (k)(1)(B). Pub. L. 110–246, § 4115(a)(11)(A), substituted “program benefits in the form of” for “coupons in the form of”.
 
-Subsec. (k)(1)(C), (E). Pub. L. 110–246, § 4115(a)(11)(B), substituted “program benefits in the form of” for “a coupon issued in the form of”.
+Subsec. (k)(1)(C), (E). Pub. L. 110–246, § 4115(a)(11)(B), substituted “program benefits in the form of” for “a coupon issued in the form of”.
 
-Subsec. (k)(2). Pub. L. 110–246, § 4115(a)(11)(A), substituted “program benefits in the form of” for “coupons in the form of”.
+Subsec. (k)(2). Pub. L. 110–246, § 4115(a)(11)(A), substituted “program benefits in the form of” for “coupons in the form of”.
 
-Pub. L. 110–246, § 4002(a)(4)(B)(i), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
+Pub. L. 110–246, § 4002(a)(4)(B)(i), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
 
-Subsec. (k)(3). Pub. L. 110–246, § 4002(a)(4)(B)(ii), substituted “retail store” for “food stamp retail store”.
+Subsec. (k)(3). Pub. L. 110–246, § 4002(a)(4)(B)(ii), substituted “retail store” for “food stamp retail store”.
 
-Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsec. (k)(5)(B)(ii), (C). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
+Subsec. (k)(5)(B)(ii), (C). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
 
 2002—Subsec. (i)(2). Pub. L. 107–171 redesignated subpars. (B) to (I) as (A) to (H), respectively, and struck out former subpar. (A) which read as follows: “determining the cost-effectiveness of the system to ensure that its operational cost, including the pro rata cost of capital expenditures and other reasonable startup costs, does not exceed the operational cost of issuance systems in use prior to the implementation of the electronic benefit transfer system;”.
 
@@ -4461,39 +4461,39 @@ Subsec. (k)(5)(B)(ii), (C). Pub. L. 110–246, § 4001(b), substituted “supp
 
 Subsec. (j). Pub. L. 105–18, title VII, [(a)(2)], added subsec. (j).
 
-1996—Subsec. (i). Pub. L. 104–193, § 825(a)(1), inserted subsec. heading.
+1996—Subsec. (i). Pub. L. 104–193, § 825(a)(1), inserted subsec. heading.
 
-Subsec. (i)(1). Pub. L. 104–193, § 825(a)(1), added par. (1) and struck out former par. (1) which read as follows:
+Subsec. (i)(1). Pub. L. 104–193, § 825(a)(1), added par. (1) and struck out former par. (1) which read as follows:
 
 “(1)(A) Any State agency may, with the approval of the Secretary, implement an on-line electronic benefit transfer system in which household benefits determined under section 2017(a) of this title are issued from and stored in a central data bank and electronically accessed by household members at the point-of-sale.
 
 “(B) No State agency may implement or expand an electronic benefit transfer system without prior approval from the Secretary.”
 
-Subsec. (i)(2). Pub. L. 104–193, § 825(a)(2)(A), struck out “effective no later than April 1, 1992,” after “regulations” in introductory provisions.
+Subsec. (i)(2). Pub. L. 104–193, § 825(a)(2)(A), struck out “effective no later than April 1, 1992,” after “regulations” in introductory provisions.
 
-Subsec. (i)(2)(A). Pub. L. 104–193, § 825(a)(2)(B), struck out “, in any 1 year,” after “does not exceed” and “on-line” before “electronic benefit”.
+Subsec. (i)(2)(A). Pub. L. 104–193, § 825(a)(2)(B), struck out “, in any 1 year,” after “does not exceed” and “on-line” before “electronic benefit”.
 
-Subsec. (i)(2)(D). Pub. L. 104–193, § 825(a)(2)(C), added subpar. (D) and struck out former subpar. (D) which read as follows: “system security;”.
+Subsec. (i)(2)(D). Pub. L. 104–193, § 825(a)(2)(C), added subpar. (D) and struck out former subpar. (D) which read as follows: “system security;”.
 
-Subsec. (i)(2)(I). Pub. L. 104–193, § 825(a)(2)(D)–(F), added subpar. (I).
+Subsec. (i)(2)(I). Pub. L. 104–193, § 825(a)(2)(D)–(F), added subpar. (I).
 
-Subsec. (i)(7) to (11). Pub. L. 104–193, § 825(a)(3), added pars. (7) to (11).
+Subsec. (i)(7) to (11). Pub. L. 104–193, § 825(a)(3), added pars. (7) to (11).
 
 1994—Subsec. (h)(1). Pub. L. 103–225 inserted second sentence and struck out former second sentence which read as follows: “The State agency shall establish such a procedure for eligible households residing on reservations.”
 
-1990—Subsec. (h). Pub. L. 101–624, § 1728, amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “The State agency may implement a procedure for staggering the issuance of coupons to eligible households throughout the entire month: *Provided*, That the procedure ensures that, in the transition period from other issuance procedures, no eligible household experiences an interval between coupon issuances of more than 40 days, either through regular issuances by the State agency or through supplemental issuances.”
+1990—Subsec. (h). Pub. L. 101–624, § 1728, amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “The State agency may implement a procedure for staggering the issuance of coupons to eligible households throughout the entire month: *Provided*, That the procedure ensures that, in the transition period from other issuance procedures, no eligible household experiences an interval between coupon issuances of more than 40 days, either through regular issuances by the State agency or through supplemental issuances.”
 
-Subsec. (i). Pub. L. 101–624, § 1729(a), added subsec. (i).
+Subsec. (i). Pub. L. 101–624, § 1729(a), added subsec. (i).
 
 1988—Subsec. (h). Pub. L. 100–435 struck out par. (1) designation and par. (2) which read as follows: “For any eligible household that applies for participation in the food stamp program during the last fifteen days of a month and is issued benefits within that period, coupons shall be issued for the first full month of participation by the the [sic] eighth day of the first full month of participation.”
 
-1985—Subsec. (g)(1). Pub. L. 99–198, § 1519, substituted “shall” for “may” in provisions preceding subpar. (A).
+1985—Subsec. (g)(1). Pub. L. 99–198, § 1519, substituted “shall” for “may” in provisions preceding subpar. (A).
 
-Subsec. (h). Pub. L. 99–198, § 1518, added subsec. (h).
+Subsec. (h). Pub. L. 99–198, § 1518, added subsec. (h).
 
-1982—Subsec. (f). Pub. L. 97–253, § 190(c)(2), substituted reference to section 2020(e)(20) of this title for former reference to section 2020(e)(21) of this title.
+1982—Subsec. (f). Pub. L. 97–253, § 190(c)(2), substituted reference to section 2020(e)(20) of this title for former reference to section 2020(e)(21) of this title.
 
-Subsec. (g). Pub. L. 97–253, § 162, added subsec. (g).
+Subsec. (g). Pub. L. 97–253, § 162, added subsec. (g).
 
 1981—Subsec. (f). Pub. L. 97–98 substituted “strictly liable” for “responsible” and inserted provision including any losses involving failure of a coupon issuer to comply with the requirements of section 2020(e)(21) of this title, except that in the case of losses resulting from the issuance and replacement of authorizations for coupons and allotments sent through the mail, State agency liability be to the extent prescribed in regulations.
 
@@ -4549,15 +4549,15 @@ Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agricultur
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
+Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
 
 **Savings Clause**
 
-Pub. L. 113–79, title IV, § 4011(c), Feb. 7, 2014, 128 Stat. 793, provided that: “Nothing in this section [amending this section and section 2019 of this title] or an amendment made by this section alters any requirements of the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) unless specifically authorized in this section or an amendment made by this section.”
+Pub. L. 113–79, title IV, § 4011(c), Feb. 7, 2014, 128 Stat. 793, provided that: “Nothing in this section [amending this section and section 2019 of this title] or an amendment made by this section alters any requirements of the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) unless specifically authorized in this section or an amendment made by this section.”
 
 **Additional Assistance for SNAP Online Purchasing and Technology Improvements**
 
-Pub. L. 117–2, title I, § 1102, Mar. 11, 2021, 135 Stat. 15, provided that:
+Pub. L. 117–2, title I, § 1102, Mar. 11, 2021, 135 Stat. 15, provided that:
 
 > **“(a) Funding.—** In addition to amounts otherwise made available, there is appropriated for fiscal year 2021, out of any amounts in the Treasury not otherwise appropriated, $25,000,000 to remain available through September 30, 2026, to carry out this section.
 
@@ -4571,7 +4571,7 @@ Pub. L. 117–2, title I, § 1102, Mar. 11, 2021, 135 Stat. 15, provided that:
 
 > **“(4)** to provide technical assistance to educate retailers on the process and technical requirements for the online acceptance of the supplemental nutrition assistance program benefits, for mobile payments, and for electronic benefit transfer modernization initiatives.”
 
-Pub. L. 116–260, div. N, title VII, § 703, Dec. 27, 2020, 134 Stat. 2094, provided that:
+Pub. L. 116–260, div. N, title VII, § 703, Dec. 27, 2020, 134 Stat. 2094, provided that:
 
 > **“(a) Resources for SNAP Online Purchasing.—** Not later than 60 days after the date of enactment of this Act [Dec. 27, 2020], the Secretary shall provide—
 
@@ -4615,11 +4615,11 @@ Pub. L. 116–260, div. N, title VII, § 703, Dec. 27, 2020, 134 Stat. 2094, p
 
 **Report on Electronic Benefit Transfer Systems**
 
-Pub. L. 107–171, title IV, § 4111, May 13, 2002, 116 Stat. 309, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(A), (B), (2)(C), May 22, 2008, 122 Stat. 1095, 1096; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(A), (B), (2)(C), June 18, 2008, 122 Stat. 1664, 1857, 1858, required the Secretary of Agriculture to submit to Congress, not later than Oct. 1, 2003, a report related to State agencies’ use of electronic benefit transfer systems to issue benefits under the supplemental nutrition assistance program.
+Pub. L. 107–171, title IV, § 4111, May 13, 2002, 116 Stat. 309, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(A), (B), (2)(C), May 22, 2008, 122 Stat. 1095, 1096; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(A), (B), (2)(C), June 18, 2008, 122 Stat. 1664, 1857, 1858, required the Secretary of Agriculture to submit to Congress, not later than Oct. 1, 2003, a report related to State agencies’ use of electronic benefit transfer systems to issue benefits under the supplemental nutrition assistance program.
 
 **Congressional Statement of Purpose**
 
-Pub. L. 106–171, § 2, Feb. 11, 2000, 114 Stat. 3, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(A), (D), (2)(F), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(A), (D), (2)(F), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that:
+Pub. L. 106–171, § 2, Feb. 11, 2000, 114 Stat. 3, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(A), (D), (2)(F), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(A), (D), (2)(F), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that:
 
 > “The purposes of this Act [amending this section and enacting provisions set out as notes under this section and section 2011 of this title] are—
 
@@ -4633,17 +4633,17 @@ Pub. L. 106–171, § 2, Feb. 11, 2000, 114 Stat. 3, as amended by Pub. L. 110
 
 **Study of Alternatives for Handling Electronic Benefit Transactions Involving Food Stamp Benefits**
 
-Pub. L. 106–171, § 4, Feb. 11, 2000, 114 Stat. 6, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (D), (2)(F), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (D), (2)(F), June 18, 2008, 122 Stat. 1664, 1857, 1858, directed the Secretary of Agriculture, not later than 1 year after Feb. 11, 2000, to study and report to Congress on alternatives for handling interstate electronic benefit transactions involving supplemental nutrition assistance program benefits, including use of a single switching hub.
+Pub. L. 106–171, § 4, Feb. 11, 2000, 114 Stat. 6, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (D), (2)(F), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (D), (2)(F), June 18, 2008, 122 Stat. 1664, 1857, 1858, directed the Secretary of Agriculture, not later than 1 year after Feb. 11, 2000, to study and report to Congress on alternatives for handling interstate electronic benefit transactions involving supplemental nutrition assistance program benefits, including use of a single switching hub.
 
 **Suspension of Staggered Issuance of Food Stamp Coupons**
 
-Pub. L. 102–237, title IX, § 908(a)(1), Dec. 13, 1991, 105 Stat. 1886, as amended by Pub. L. 103–11, § 1, Apr. 1, 1993, 107 Stat. 41; Pub. L. 103–205, § 1, Dec. 17, 1993, 107 Stat. 2418, provided that no State agency be required to implement 7 U.S.C. 2016(h)(1), regarding staggering of issuance of food stamp coupons, until Mar. 15, 1994, and directed Secretary of Agriculture to issue final regulations requiring staggered issuance of coupons no later than Dec. 1, 1992, prior to repeal by Pub. L. 103–225, title I, § 104(a), Mar. 25, 1994, 108 Stat. 107.
+Pub. L. 102–237, title IX, § 908(a)(1), Dec. 13, 1991, 105 Stat. 1886, as amended by Pub. L. 103–11, § 1, Apr. 1, 1993, 107 Stat. 41; Pub. L. 103–205, § 1, Dec. 17, 1993, 107 Stat. 2418, provided that no State agency be required to implement 7 U.S.C. 2016(h)(1), regarding staggering of issuance of food stamp coupons, until Mar. 15, 1994, and directed Secretary of Agriculture to issue final regulations requiring staggered issuance of coupons no later than Dec. 1, 1992, prior to repeal by Pub. L. 103–225, title I, § 104(a), Mar. 25, 1994, 108 Stat. 107.
 
 **Food Stamp Coupons, Cost Increase Suspension**
 
 Pub. L. 94–4, Feb. 20, 1975, 89 Stat. 6, provided that notwithstanding the provisions of 7 U.S.C. 2016(b), the charge imposed on any household for a coupon allotment under this chapter after Feb. 20, 1975, and prior to Dec. 30, 1975, could not exceed the charge that would have been imposed on such household for such coupon allotment under rules and regulations promulgated under this chapter and in effect on Jan. 1, 1975.
 
-## § 2016a. EBT benefit fraud prevention
+## § 2016a. EBT benefit fraud prevention
 
 **(a) Guidance; rulemaking** The Secretary shall—
 
@@ -4753,7 +4753,7 @@ Not later than 1 year after September 26, 2024, the Comptroller General of the U
 
 **(ii)** how the Department of Agriculture may best share those improvements with States, retailers, and other relevant entities.
 
-(Pub. L. 117–328, div. HH, title IV, § 501, Dec. 29, 2022, 136 Stat. 5985; Pub. L. 118–83, div. B, title I, § 105, Sept. 26, 2024, 138 Stat. 1534.)
+(Pub. L. 117–328, div. HH, title IV, § 501, Dec. 29, 2022, 136 Stat. 5985; Pub. L. 118–83, div. B, title I, § 105, Sept. 26, 2024, 138 Stat. 1534.)
 
 **Editorial Notes**
 
@@ -4767,27 +4767,27 @@ Section was enacted as part of the Consolidated Appropriations Act, 2023, and no
 
 **Amendments**
 
-2024—Subsec. (a)(4)(A)(iii). Pub. L. 118–83, § 105(1)(A), struck out at beginning “to the maximum extent practicable,”.
+2024—Subsec. (a)(4)(A)(iii). Pub. L. 118–83, § 105(1)(A), struck out at beginning “to the maximum extent practicable,”.
 
-Subsec. (a)(5). Pub. L. 118–83, § 105(1)(B)(i), substituted “December” for “October” in introductory provisions.
+Subsec. (a)(5). Pub. L. 118–83, § 105(1)(B)(i), substituted “December” for “October” in introductory provisions.
 
-Subsec. (a)(5)(A). Pub. L. 118–83, § 105(1)(B)(ii), struck out at beginning “to the maximum extent practicable,”.
+Subsec. (a)(5)(A). Pub. L. 118–83, § 105(1)(B)(ii), struck out at beginning “to the maximum extent practicable,”.
 
-Subsec. (a)(5)(D). Pub. L. 118–83, § 105(1)(B)(iii), (v), added subpar. (D). Former subpar. (D) redesignated (E).
+Subsec. (a)(5)(D). Pub. L. 118–83, § 105(1)(B)(iii), (v), added subpar. (D). Former subpar. (D) redesignated (E).
 
-Subsec. (a)(5)(E). Pub. L. 118–83, § 105(1)(B)(iv), (vi), redesignated subpar. (D) as (E) and inserted “and proactively” after “consistently”.
+Subsec. (a)(5)(E). Pub. L. 118–83, § 105(1)(B)(iv), (vi), redesignated subpar. (D) as (E) and inserted “and proactively” after “consistently”.
 
-Subsec. (b)(2)(C). Pub. L. 118–83, § 105(2), substituted “December 20, 2024” for “September 30, 2024”.
+Subsec. (b)(2)(C). Pub. L. 118–83, § 105(2), substituted “December 20, 2024” for “September 30, 2024”.
 
-Subsec. (e). Pub. L. 118–83, § 105(3), added subsec. (e).
+Subsec. (e). Pub. L. 118–83, § 105(3), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Definition of “Secretary”**
 
-Pub. L. 117–328, div. HH, § 101, Dec. 29, 2022, 136 Stat. 5970, provided that: “In this division [see Tables for classification], the term ‘Secretary’ means the Secretary of Agriculture.”
+Pub. L. 117–328, div. HH, § 101, Dec. 29, 2022, 136 Stat. 5970, provided that: “In this division [see Tables for classification], the term ‘Secretary’ means the Secretary of Agriculture.”
 
-## § 2017. Value of allotment
+## § 2017. Value of allotment
 
 **(a) Calculation**
 
@@ -4925,13 +4925,13 @@ Before the Secretary authorizes implementation of paragraph (1) in all States, t
 
 **(bb)** authorization of implementation of paragraph (1) in all States is not in the best interest of the supplemental nutrition assistance program.
 
-(Pub. L. 88–525, § 8, Aug. 31, 1964, 78 Stat. 705; Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 968; Pub. L. 97–35, title I, §§ 104(b), 110, Aug. 13, 1981, 95 Stat. 359, 361; Pub. L. 97–253, title I, §§ 143(c), 152(b), 163, 164, Sept. 8, 1982, 96 Stat. 773, 776, 778; Pub. L. 99–198, title XV, § 1520, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–387, title V, § 502(a), Aug. 11, 1988, 102 Stat. 960; Pub. L. 100–435, title II, § 203(a), Sept. 19, 1988, 102 Stat. 1656; Pub. L. 101–624, title XVII, §§ 1730, 1732, Nov. 28, 1990, 104 Stat. 3790; Pub. L. 102–237, title IX, §§ 909, 910, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 103–66, title XIII, § 13916, Aug. 10, 1993, 107 Stat. 674; Pub. L. 103–296, title I, § 108(f)(1), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 104–193, title VIII, §§ 826–830, 854(c)(1), Aug. 22, 1996, 110 Stat. 2327, 2342; Pub. L. 107–171, title IV, § 4112(a), (b)(3), May 13, 2002, 116 Stat. 310, 313; Pub. L. 110–234, title IV, §§ 4001(b), 4107, 4115(b)(5), May 22, 2008, 122 Stat. 1092, 1101, 1106; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4107, 4115(b)(5), June 18, 2008, 122 Stat. 1664, 1853, 1863, 1868; Pub. L. 115–334, title IV, § 4022(3), Dec. 20, 2018, 132 Stat. 4653.)
+(Pub. L. 88–525, § 8, Aug. 31, 1964, 78 Stat. 705; Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 968; Pub. L. 97–35, title I, §§ 104(b), 110, Aug. 13, 1981, 95 Stat. 359, 361; Pub. L. 97–253, title I, §§ 143(c), 152(b), 163, 164, Sept. 8, 1982, 96 Stat. 773, 776, 778; Pub. L. 99–198, title XV, § 1520, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–387, title V, § 502(a), Aug. 11, 1988, 102 Stat. 960; Pub. L. 100–435, title II, § 203(a), Sept. 19, 1988, 102 Stat. 1656; Pub. L. 101–624, title XVII, §§ 1730, 1732, Nov. 28, 1990, 104 Stat. 3790; Pub. L. 102–237, title IX, §§ 909, 910, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 103–66, title XIII, § 13916, Aug. 10, 1993, 107 Stat. 674; Pub. L. 103–296, title I, § 108(f)(1), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 104–193, title VIII, §§ 826–830, 854(c)(1), Aug. 22, 1996, 110 Stat. 2327, 2342; Pub. L. 107–171, title IV, § 4112(a), (b)(3), May 13, 2002, 116 Stat. 310, 313; Pub. L. 110–234, title IV, §§ 4001(b), 4107, 4115(b)(5), May 22, 2008, 122 Stat. 1092, 1101, 1106; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4107, 4115(b)(5), June 18, 2008, 122 Stat. 1664, 1853, 1863, 1868; Pub. L. 115–334, title IV, § 4022(3), Dec. 20, 2018, 132 Stat. 4653.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (d)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (d)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 **Codification**
 
@@ -4943,73 +4943,73 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Subsec. (f)(1)(A)(i). Pub. L. 115–334 substituted “2012(m)(5)” for “2012(n)(5)”.
 
-2008—Subsec. (a). Pub. L. 110–246, § 4107, substituted “8 percent of the cost of the thrifty food plan for a household containing 1 member, as determined by the Secretary under section 2012 of this title, rounded to the nearest whole dollar increment” for “$10 per month”.
+2008—Subsec. (a). Pub. L. 110–246, § 4107, substituted “8 percent of the cost of the thrifty food plan for a household containing 1 member, as determined by the Secretary under section 2012 of this title, rounded to the nearest whole dollar increment” for “$10 per month”.
 
-Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsec. (b). Pub. L. 110–246, § 4115(b)(5)(A), struck out “, whether through coupons, access devices, or otherwise” before “shall not”.
+Subsec. (b). Pub. L. 110–246, § 4115(b)(5)(A), struck out “, whether through coupons, access devices, or otherwise” before “shall not”.
 
-Subsecs. (c)(2), (d)(2). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
+Subsecs. (c)(2), (d)(2). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
 
-Subsec. (e)(1). Pub. L. 110–246, § 4115(b)(5)(B), substituted “section 2012(n)(5)” for “section 2012(i)(5)” in introductory provisions.
+Subsec. (e)(1). Pub. L. 110–246, § 4115(b)(5)(B), substituted “section 2012(n)(5)” for “section 2012(i)(5)” in introductory provisions.
 
-Subsec. (f)(1)(A)(i). Pub. L. 110–246, § 4115(b)(5)(B), substituted “section 2012(n)(5)” for “section 2012(i)(5)”.
+Subsec. (f)(1)(A)(i). Pub. L. 110–246, § 4115(b)(5)(B), substituted “section 2012(n)(5)” for “section 2012(i)(5)”.
 
-Subsec. (f)(1)(D), (3)(B). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
+Subsec. (f)(1)(D), (3)(B). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
 
-2002—Subsec. (e)(1). Pub. L. 107–171, § 4112(b)(3), substituted “section 2012(i)(5) of this title” for “the last sentence of section 2012(i) of this title” in introductory provisions.
+2002—Subsec. (e)(1). Pub. L. 107–171, § 4112(b)(3), substituted “section 2012(i)(5) of this title” for “the last sentence of section 2012(i) of this title” in introductory provisions.
 
-Subsec. (f). Pub. L. 107–171, § 4112(a), added subsec. (f).
+Subsec. (f). Pub. L. 107–171, § 4112(a), added subsec. (f).
 
-1996—Subsec. (a). Pub. L. 104–193, § 826, struck out before period at end “, and shall be adjusted on each October 1 to reflect the percentage change in the cost of the thrifty food plan without regard to the special adjustments under section 2012(*o*) of this title for the 12-month period ending the preceding June, with the result rounded to the nearest $5”.
+1996—Subsec. (a). Pub. L. 104–193, § 826, struck out before period at end “, and shall be adjusted on each October 1 to reflect the percentage change in the cost of the thrifty food plan without regard to the special adjustments under section 2012(*o*) of this title for the 12-month period ending the preceding June, with the result rounded to the nearest $5”.
 
-Subsec. (c)(2)(B). Pub. L. 104–193, § 827, struck out “of more than one month” after “following any period”.
+Subsec. (c)(2)(B). Pub. L. 104–193, § 827, struck out “of more than one month” after “following any period”.
 
-Subsec. (c)(3). Pub. L. 104–193, § 828, added par. (3) and struck out former par. (3) which read as follows: “A State agency—
+Subsec. (c)(3). Pub. L. 104–193, § 828, added par. (3) and struck out former par. (3) which read as follows: “A State agency—
 
 “(A) in the case of a household that is not entitled in the month in which it applies to expedited service under section 2020(e)(9) of this title, may provide that an eligible household applying after the 15th day of the month shall receive, in lieu of its initial allotment and its regular allotment for the following month, an allotment that is the aggregate of the initial allotment and the first regular allotment, which shall be provided in accordance with paragraph (3) of section 2020(e) of this title; and
 
 “(B) in the case of a household that is entitled in the month in which it applies to expedited service under section 2020(e)(9) of this title, shall provide that an eligible household applying after the 15th day of the month shall receive, in lieu of its initial allotment and its regular allotment for the following month, an allotment that is the aggregate of the initial allotment and the first regular allotment, which shall be provided in accordance with paragraphs (3) and (9) of section 2020(e) of this title.”
 
-Subsec. (d). Pub. L. 104–193, § 829, added subsec. (d) and struck out former subsec. (d) which read as follows: “A household against which a penalty has been imposed for an intentional failure to comply with a Federal, State, or local law relating to welfare or a public assistance program may not, for the duration of the penalty, receive an increased allotment as the result of a decrease in the household’s income (as determined under sections 2014(d) and 2014(e) of this title) to the extent that the decrease is the result of such penalty.”
+Subsec. (d). Pub. L. 104–193, § 829, added subsec. (d) and struck out former subsec. (d) which read as follows: “A household against which a penalty has been imposed for an intentional failure to comply with a Federal, State, or local law relating to welfare or a public assistance program may not, for the duration of the penalty, receive an increased allotment as the result of a decrease in the household’s income (as determined under sections 2014(d) and 2014(e) of this title) to the extent that the decrease is the result of such penalty.”
 
-Subsec. (e). Pub. L. 104–193, § 854(c)(1), redesignated subsec. (f) as (e) and struck out former subsec. (e) which provided for simplified application procedures for beneficiaries of other programs, and for allotments, evaluation, cost sharing, and standardized procedures and benefits.
+Subsec. (e). Pub. L. 104–193, § 854(c)(1), redesignated subsec. (f) as (e) and struck out former subsec. (e) which provided for simplified application procedures for beneficiaries of other programs, and for allotments, evaluation, cost sharing, and standardized procedures and benefits.
 
-Subsec. (f). Pub. L. 104–193, § 854(c)(1), redesignated subsec. (f) as (e).
+Subsec. (f). Pub. L. 104–193, § 854(c)(1), redesignated subsec. (f) as (e).
 
-Pub. L. 104–193, § 830, added subsec. (f).
+Pub. L. 104–193, § 830, added subsec. (f).
 
 1994—Subsec. (e)(6). Pub. L. 103–296 inserted “the Commissioner of Social Security and” before “the Secretary of Health and Human Services”.
 
 1993—Subsec. (c)(2)(B). Pub. L. 103–66 inserted “of more than one month in” after “following any period”.
 
-1991—Subsec. (b). Pub. L. 102–237, § 909, substituted “benefits that may be provided under this chapter, whether through coupons, access devices, or otherwise” for “the allotment provided any eligible household” and “benefits” for “an allotment”.
+1991—Subsec. (b). Pub. L. 102–237, § 909, substituted “benefits that may be provided under this chapter, whether through coupons, access devices, or otherwise” for “the allotment provided any eligible household” and “benefits” for “an allotment”.
 
-Subsec. (c)(1). Pub. L. 102–237, § 910(1), inserted at end “Households shall receive full months’ allotments for all months within a certification period, except as provided in the first sentence of this paragraph with respect to an initial month.”
+Subsec. (c)(1). Pub. L. 102–237, § 910(1), inserted at end “Households shall receive full months’ allotments for all months within a certification period, except as provided in the first sentence of this paragraph with respect to an initial month.”
 
-Subsec. (c)(2)(B). Pub. L. 102–237, § 910(2), substituted “the expiration of a certification period or after the termination of the certification of a household, during a certification period, when the household ceased to be eligible after notice and an opportunity for a hearing under section 2020(e)(10) of this title” for “previous participation in such program”.
+Subsec. (c)(2)(B). Pub. L. 102–237, § 910(2), substituted “the expiration of a certification period or after the termination of the certification of a household, during a certification period, when the household ceased to be eligible after notice and an opportunity for a hearing under section 2020(e)(10) of this title” for “previous participation in such program”.
 
-1990—Subsec. (a). Pub. L. 101–624, § 1730, inserted before period at end “, and shall be adjusted on each October 1 to reflect the percentage change in the cost of the thrifty food plan without regard to the special adjustments under section 2012(*o*) of this title for the 12-month period ending the preceding June, with the result rounded to the nearest $5”.
+1990—Subsec. (a). Pub. L. 101–624, § 1730, inserted before period at end “, and shall be adjusted on each October 1 to reflect the percentage change in the cost of the thrifty food plan without regard to the special adjustments under section 2012(*o*) of this title for the 12-month period ending the preceding June, with the result rounded to the nearest $5”.
 
-Subsec. (c)(3). Pub. L. 101–624, § 1732, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “An eligible household applying after the 15th day of the month shall receive, in lieu of its initial allotment and its regular allotment for the following month, an allotment that is the aggregate of the initial allotment and the first regular allotment, which shall be provided in accordance with paragraphs (3) and (9) of section 2020(e) of this title.”
+Subsec. (c)(3). Pub. L. 101–624, § 1732, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “An eligible household applying after the 15th day of the month shall receive, in lieu of its initial allotment and its regular allotment for the following month, an allotment that is the aggregate of the initial allotment and the first regular allotment, which shall be provided in accordance with paragraphs (3) and (9) of section 2020(e) of this title.”
 
 1988—Subsec. (c). Pub. L. 100–387 substituted “(2)” for “and (2)” and added cl. (3).
 
-Subsec. (c)(1), (2). Pub. L. 100–435, § 203(a)(1), (2), designated first sentence of subsec. (c) as par. (1) and designated second sentence of subsec. (c) as par. (2), and redesignated cls. (1) to (3) of par. (2) as cls. (A) to (C), respectively.
+Subsec. (c)(1), (2). Pub. L. 100–435, § 203(a)(1), (2), designated first sentence of subsec. (c) as par. (1) and designated second sentence of subsec. (c) as par. (2), and redesignated cls. (1) to (3) of par. (2) as cls. (A) to (C), respectively.
 
-Subsec. (c)(3). Pub. L. 100–435, § 203(a)(3), added par. (3).
+Subsec. (c)(3). Pub. L. 100–435, § 203(a)(3), added par. (3).
 
 1985—Subsec. (e). Pub. L. 99–198 added subsec. (e).
 
-1982—Subsec. (a). Pub. L. 97–253, §§ 143(c), 152(b), substituted “nearest lower whole dollar” for “nearest whole dollar”, and struck out provision which required the Secretary, six months after the implementation of the elimination of the charge for allotments and annually thereafter, to report to Congress the effect on participation and cost thereof.
+1982—Subsec. (a). Pub. L. 97–253, §§ 143(c), 152(b), substituted “nearest lower whole dollar” for “nearest whole dollar”, and struck out provision which required the Secretary, six months after the implementation of the elimination of the charge for allotments and annually thereafter, to report to Congress the effect on participation and cost thereof.
 
-Subsec. (c). Pub. L. 97–253, § 163, inserted provision that no allotment may be issued to a household for the initial month or period if the value of the allotment which such household would otherwise be eligible to receive under this subsection is less than $10, and substituted “following any period” for “following any period of more than thirty days” in cl. (2).
+Subsec. (c). Pub. L. 97–253, § 163, inserted provision that no allotment may be issued to a household for the initial month or period if the value of the allotment which such household would otherwise be eligible to receive under this subsection is less than $10, and substituted “following any period” for “following any period of more than thirty days” in cl. (2).
 
-Subsec. (d). Pub. L. 97–253, § 164, added subsec. (d).
+Subsec. (d). Pub. L. 97–253, § 164, added subsec. (d).
 
-1981—Subsec. (a). Pub. L. 97–35, § 104(b), inserted “(d) and (e)” after “2014”.
+1981—Subsec. (a). Pub. L. 97–35, § 104(b), inserted “(d) and (e)” after “2014”.
 
-Subsec. (c). Pub. L. 97–35, § 110, added subsec. (c).
+Subsec. (c). Pub. L. 97–35, § 110, added subsec. (c).
 
 1977—Pub. L. 95–113 substituted revised provisions relating to the value of the coupon allotment for provisions covering approval of retail stores and wholesale food concerns which are now covered by section 2018 of this title.
 
@@ -5045,7 +5045,7 @@ Amendment by section 1730 of Pub. L. 101–624 effective Oct. 1, 1990, and amend
 
 Amendment by Pub. L. 100–435 effective Jan. 1, 1989, and implemented by States by Jan. 1, 1990, see section 701(b)(3)(A) of Pub. L. 100–435, set out as a note under section 2012 of this title.
 
-Pub. L. 100–387, title V, § 502(b), Aug. 11, 1988, 102 Stat. 960, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (2)(JJ), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(JJ), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
+Pub. L. 100–387, title V, § 502(b), Aug. 11, 1988, 102 Stat. 960, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (2)(JJ), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(JJ), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
 
 > **“(1)** The amendments made by this section [amending this section] take effect on the date of enactment of this Act [Aug. 11, 1988].
 
@@ -5063,9 +5063,9 @@ Amendment by Pub. L. 97–35 effective and implemented upon such dates as Secret
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
+Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
 
-## § 2018. Approval of retail food stores and wholesale food concerns
+## § 2018. Approval of retail food stores and wholesale food concerns
 
 **(a) Authorization to accept and redeem benefits**
 
@@ -5203,13 +5203,13 @@ Guidance provided under this subsection shall not affect any requirements under 
 
 The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report describing the types of incentives approved under this subsection.
 
-(Pub. L. 88–525, § 9, Aug. 31, 1964, 78 Stat. 705; Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 968; Pub. L. 97–98, title XIII, §§ 1313, 1314, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, § 165, Sept. 8, 1982, 96 Stat. 779; Pub. L. 99–198, title XV, §§ 1521, 1532(b), Dec. 23, 1985, 99 Stat. 1579, 1583; Pub. L. 99–570, title XI, § 11002(d), Oct. 27, 1986, 100 Stat. 3207–168; Pub. L. 101–624, title XVII, §§ 1733, 1734, Nov. 28, 1990, 104 Stat. 3791; Pub. L. 102–237, title IX, § 941(4), Dec. 13, 1991, 105 Stat. 1892; Pub. L. 103–225, title II, §§ 202, 203, Mar. 25, 1994, 108 Stat. 108; Pub. L. 103–448, title II, § 204(w)(2)(A), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title VIII, §§ 831–834, Aug. 22, 1996, 110 Stat. 2328; Pub. L. 110–234, title IV, §§ 4001(b), 4002(a)(5), 4115(b)(6), May 22, 2008, 122 Stat. 1092, 1093, 1106; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4002(a)(5), 4115(b)(6), June 18, 2008, 122 Stat. 1664, 1853, 1854, 1868; Pub. L. 113–79, title IV, §§ 4002(e), 4014(b), 4030(f), Feb. 7, 2014, 128 Stat. 784, 794, 814; Pub. L. 115–334, title IV, §§ 4006(f)–4008, Dec. 20, 2018, 132 Stat. 4637–4639; Pub. L. 116–94, div. B, title VII, § 784, Dec. 20, 2019, 133 Stat. 2656; Pub. L. 116–260, div. A, title VII, § 783, Dec. 27, 2020, 134 Stat. 1230; Pub. L. 117–103, div. A, title VII, § 773, Mar. 15, 2022, 136 Stat. 99.)
+(Pub. L. 88–525, § 9, Aug. 31, 1964, 78 Stat. 705; Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 968; Pub. L. 97–98, title XIII, §§ 1313, 1314, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, § 165, Sept. 8, 1982, 96 Stat. 779; Pub. L. 99–198, title XV, §§ 1521, 1532(b), Dec. 23, 1985, 99 Stat. 1579, 1583; Pub. L. 99–570, title XI, § 11002(d), Oct. 27, 1986, 100 Stat. 3207–168; Pub. L. 101–624, title XVII, §§ 1733, 1734, Nov. 28, 1990, 104 Stat. 3791; Pub. L. 102–237, title IX, § 941(4), Dec. 13, 1991, 105 Stat. 1892; Pub. L. 103–225, title II, §§ 202, 203, Mar. 25, 1994, 108 Stat. 108; Pub. L. 103–448, title II, § 204(w)(2)(A), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title VIII, §§ 831–834, Aug. 22, 1996, 110 Stat. 2328; Pub. L. 110–234, title IV, §§ 4001(b), 4002(a)(5), 4115(b)(6), May 22, 2008, 122 Stat. 1092, 1093, 1106; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4002(a)(5), 4115(b)(6), June 18, 2008, 122 Stat. 1664, 1853, 1854, 1868; Pub. L. 113–79, title IV, §§ 4002(e), 4014(b), 4030(f), Feb. 7, 2014, 128 Stat. 784, 794, 814; Pub. L. 115–334, title IV, §§ 4006(f)–4008, Dec. 20, 2018, 132 Stat. 4637–4639; Pub. L. 116–94, div. B, title VII, § 784, Dec. 20, 2019, 133 Stat. 2656; Pub. L. 116–260, div. A, title VII, § 783, Dec. 27, 2020, 134 Stat. 1230; Pub. L. 117–103, div. A, title VII, § 773, Mar. 15, 2022, 136 Stat. 99.)
 
 **Editorial Notes**
 
 **References in Text**
 
-That Act, meaning the Child Nutrition Act of 1966, referred to in subsec. (c), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
+That Act, meaning the Child Nutrition Act of 1966, referred to in subsec. (c), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
 **Codification**
 
@@ -5223,79 +5223,79 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2019—Subsec. (i)(2). Pub. L. 116–94 substituted “prior to December 31, 2020” for “for a period of 18 months from December 20, 2018”.
 
-2018—Subsec. (a)(1). Pub. L. 115–334, § 4006(f)(1), inserted subsec. heading, designated existing provisions, comprised of four sentences, as par. (1), inserted par. heading, designated first through fourth sentences as subpars. (A) to (D), respectively, inserted subpar. headings, redesignated former cls. (A) to (D) of second sentence as cls. (i) to (iii) and (v) of subpar. (B), respectively, and added cl. (iv) of subpar. (B).
+2018—Subsec. (a)(1). Pub. L. 115–334, § 4006(f)(1), inserted subsec. heading, designated existing provisions, comprised of four sentences, as par. (1), inserted par. heading, designated first through fourth sentences as subpars. (A) to (D), respectively, inserted subpar. headings, redesignated former cls. (A) to (D) of second sentence as cls. (i) to (iii) and (v) of subpar. (B), respectively, and added cl. (iv) of subpar. (B).
 
-Subsec. (a)(4). Pub. L. 115–334, § 4006(f)(2), added par. (4).
+Subsec. (a)(4). Pub. L. 115–334, § 4006(f)(2), added par. (4).
 
-Subsec. (c). Pub. L. 115–334, § 4006(f)(3), inserted “records relating to electronic benefit transfer equipment and related services, transaction and redemption data provided through the electronic benefit transfer system,” after “purchase invoices,”.
+Subsec. (c). Pub. L. 115–334, § 4006(f)(3), inserted “records relating to electronic benefit transfer equipment and related services, transaction and redemption data provided through the electronic benefit transfer system,” after “purchase invoices,”.
 
-Subsec. (i). Pub. L. 115–334, § 4007, added subsec. (i).
+Subsec. (i). Pub. L. 115–334, § 4007, added subsec. (i).
 
-Subsec. (j). Pub. L. 115–334, § 4008, added subsec. (j).
+Subsec. (j). Pub. L. 115–334, § 4008, added subsec. (j).
 
-2014—Subsec. (a)(1). Pub. L. 113–79, § 4002(e)(1), substituted “; (C) whether the applicant is located in an area with significantly limited access to food; and (D)” for “; and (C)”.
+2014—Subsec. (a)(1). Pub. L. 113–79, § 4002(e)(1), substituted “; (C) whether the applicant is located in an area with significantly limited access to food; and (D)” for “; and (C)”.
 
-Subsec. (a)(3). Pub. L. 113–79, § 4030(f), realigned margins.
+Subsec. (a)(3). Pub. L. 113–79, § 4030(f), realigned margins.
 
-Subsec. (c). Pub. L. 113–79, § 4002(e)(2), inserted “purchase invoices, or program-related records,” after “relevant income and sales tax filing documents,”.
+Subsec. (c). Pub. L. 113–79, § 4002(e)(2), inserted “purchase invoices, or program-related records,” after “relevant income and sales tax filing documents,”.
 
-Subsec. (g). Pub. L. 113–79, § 4002(e)(3), added subsec. (g).
+Subsec. (g). Pub. L. 113–79, § 4002(e)(3), added subsec. (g).
 
-Subsec. (h). Pub. L. 113–79, § 4014(b), added subsec. (h).
+Subsec. (h). Pub. L. 113–79, § 4014(b), added subsec. (h).
 
-2008—Subsec. (a)(1). Pub. L. 110–246, § 4115(b)(6)(A), (B)(i), substituted “benefit transactions” for “coupon business” and “benefits” for “coupons”.
+2008—Subsec. (a)(1). Pub. L. 110–246, § 4115(b)(6)(A), (B)(i), substituted “benefit transactions” for “coupon business” and “benefits” for “coupons”.
 
-Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
+Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
 
-Subsec. (a)(3). Pub. L. 110–246, § 4115(b)(6)(B)(ii), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The Secretary shall establish specific time periods during which authorization to accept and redeem coupons, or to redeem benefits through an electronic benefit transfer system, shall be valid under the food stamp program.”
+Subsec. (a)(3). Pub. L. 110–246, § 4115(b)(6)(B)(ii), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The Secretary shall establish specific time periods during which authorization to accept and redeem coupons, or to redeem benefits through an electronic benefit transfer system, shall be valid under the food stamp program.”
 
-Subsec. (b)(1). Pub. L. 110–246, § 4115(b)(6)(A), substituted “benefits” for “coupons” wherever appearing.
+Subsec. (b)(1). Pub. L. 110–246, § 4115(b)(6)(A), substituted “benefits” for “coupons” wherever appearing.
 
-Pub. L. 110–246, § 4002(a)(5), substituted “households that receive supplemental nutrition assistance program benefits” for “food stamp households”.
+Pub. L. 110–246, § 4002(a)(5), substituted “households that receive supplemental nutrition assistance program benefits” for “food stamp households”.
 
-Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsec. (b)(2)(A). Pub. L. 110–246, § 4115(b)(6)(A), substituted “benefits” for “coupons”.
+Subsec. (b)(2)(A). Pub. L. 110–246, § 4115(b)(6)(A), substituted “benefits” for “coupons”.
 
-Subsec. (d). Pub. L. 110–246, § 4115(b)(6)(A), substituted “benefits” for “coupons”.
+Subsec. (d). Pub. L. 110–246, § 4115(b)(6)(A), substituted “benefits” for “coupons”.
 
-Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsec. (e). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Subsec. (e). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsec. (g). Pub. L. 110–246, § 4115(b)(6)(C), which directed substitution of “section 2012(k)(9)” for “section 2012(g)(9)” in subsec. (g), could not be executed because subsec. (g) did not appear in text subsequent to its termination. See 1986 Amendment note and Effective and Termination Dates of 1986 Amendment note below.
+Subsec. (g). Pub. L. 110–246, § 4115(b)(6)(C), which directed substitution of “section 2012(k)(9)” for “section 2012(g)(9)” in subsec. (g), could not be executed because subsec. (g) did not appear in text subsequent to its termination. See 1986 Amendment note and Effective and Termination Dates of 1986 Amendment note below.
 
-1996—Subsec. (a)(1). Pub. L. 104–193, § 831, inserted at end “No retail food store or wholesale food concern of a type determined by the Secretary, based on factors that include size, location, and type of items sold, shall be approved to be authorized or reauthorized for participation in the food stamp program unless an authorized employee of the Department of Agriculture, a designee of the Secretary, or, if practicable, an official of the State or local government designated by the Secretary has visited the store or concern for the purpose of determining whether the store or concern should be approved or reauthorized, as appropriate.”
+1996—Subsec. (a)(1). Pub. L. 104–193, § 831, inserted at end “No retail food store or wholesale food concern of a type determined by the Secretary, based on factors that include size, location, and type of items sold, shall be approved to be authorized or reauthorized for participation in the food stamp program unless an authorized employee of the Department of Agriculture, a designee of the Secretary, or, if practicable, an official of the State or local government designated by the Secretary has visited the store or concern for the purpose of determining whether the store or concern should be approved or reauthorized, as appropriate.”
 
-Subsec. (a)(3). Pub. L. 104–193, § 832, added par. (3).
+Subsec. (a)(3). Pub. L. 104–193, § 832, added par. (3).
 
-Subsec. (c). Pub. L. 104–193, § 833, in first sentence, inserted “, which may include relevant income and sales tax filing documents,” after “submit information” and inserted after first sentence “The regulations may require retail food stores and wholesale food concerns to provide written authorization for the Secretary to verify all relevant tax filings with appropriate agencies and to obtain corroborating documentation from other sources so that the accuracy of information provided by the stores and concerns may be verified.”
+Subsec. (c). Pub. L. 104–193, § 833, in first sentence, inserted “, which may include relevant income and sales tax filing documents,” after “submit information” and inserted after first sentence “The regulations may require retail food stores and wholesale food concerns to provide written authorization for the Secretary to verify all relevant tax filings with appropriate agencies and to obtain corroborating documentation from other sources so that the accuracy of information provided by the stores and concerns may be verified.”
 
-Subsec. (d). Pub. L. 104–193, § 834, inserted at end “A retail food store or wholesale food concern that is denied approval to accept and redeem coupons because the store or concern does not meet criteria for approval established by the Secretary may not, for at least 6 months, submit a new application to participate in the program. The Secretary may establish a longer time period under the preceding sentence, including permanent disqualification, that reflects the severity of the basis of the denial.”
+Subsec. (d). Pub. L. 104–193, § 834, inserted at end “A retail food store or wholesale food concern that is denied approval to accept and redeem coupons because the store or concern does not meet criteria for approval established by the Secretary may not, for at least 6 months, submit a new application to participate in the program. The Secretary may establish a longer time period under the preceding sentence, including permanent disqualification, that reflects the severity of the basis of the denial.”
 
-1994—Subsec. (a)(2). Pub. L. 103–225, § 202, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary is authorized to issue regulations providing for a periodic reauthorization of retail food stores and wholesale food concerns.”
+1994—Subsec. (a)(2). Pub. L. 103–225, § 202, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary is authorized to issue regulations providing for a periodic reauthorization of retail food stores and wholesale food concerns.”
 
 Subsec. (c). Pub. L. 103–448 in second sentence substituted “special supplemental nutrition program” for “special supplemental food program”.
 
-Pub. L. 103–225, § 203, in second sentence inserted “Federal law enforcement and investigative agencies and law enforcement and investigative agencies of a State government for the purposes of administering or enforcing this chapter or any other Federal or State law and the regulations issued under this chapter or such law, and” after “disclosed to and used by”, inserted after second sentence “Any person who publishes, divulges, discloses, or makes known in any manner or to any extent not authorized by Federal law (including a regulation) any information obtained under this subsection shall be fined not more than $1,000 or imprisoned not more than 1 year, or both.”, and in last sentence substituted “The regulations shall establish the criteria to be used by the Secretary to determine whether the information is needed. The regulations shall not prohibit” for “Such purposes shall not exclude”.
+Pub. L. 103–225, § 203, in second sentence inserted “Federal law enforcement and investigative agencies and law enforcement and investigative agencies of a State government for the purposes of administering or enforcing this chapter or any other Federal or State law and the regulations issued under this chapter or such law, and” after “disclosed to and used by”, inserted after second sentence “Any person who publishes, divulges, discloses, or makes known in any manner or to any extent not authorized by Federal law (including a regulation) any information obtained under this subsection shall be fined not more than $1,000 or imprisoned not more than 1 year, or both.”, and in last sentence substituted “The regulations shall establish the criteria to be used by the Secretary to determine whether the information is needed. The regulations shall not prohibit” for “Such purposes shall not exclude”.
 
 1991—Subsec. (a)(1). Pub. L. 102–237 redesignated cls. (1) to (3) as (A) to (C), respectively.
 
-1990—Subsec. (a). Pub. L. 101–624, § 1733, designated existing provisions as par. (1) and added par. (2).
+1990—Subsec. (a). Pub. L. 101–624, § 1733, designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b)(1). Pub. L. 101–624, § 1734, inserted after first sentence “No co-located wholesale-retail food concern may be authorized to accept and redeem coupons as a retail food store, unless (A) the concern does a substantial level of retail food business, or (B) the Secretary determines that failure to authorize such a food concern as a retail food store would cause hardship to food stamp households.”
+Subsec. (b)(1). Pub. L. 101–624, § 1734, inserted after first sentence “No co-located wholesale-retail food concern may be authorized to accept and redeem coupons as a retail food store, unless (A) the concern does a substantial level of retail food business, or (B) the Secretary determines that failure to authorize such a food concern as a retail food store would cause hardship to food stamp households.”
 
-1986—Subsec. (g). Pub. L. 99–570, § 1102(d), (f)(3), temporarily added subsec. (g) which read as follows: “In an area in which the Secretary, in consultation with the Inspector General of the Department of Agriculture, finds evidence that the participation of an establishment or shelter described in section 2012(g)(9) of this title damages the program’s integrity, the Secretary shall limit the participation of such establishment or shelter in the food stamp program, unless the establishment or shelter is the only establishment or shelter serving the area.” See Effective and Termination Dates of 1986 Amendment note below.
+1986—Subsec. (g). Pub. L. 99–570, § 1102(d), (f)(3), temporarily added subsec. (g) which read as follows: “In an area in which the Secretary, in consultation with the Inspector General of the Department of Agriculture, finds evidence that the participation of an establishment or shelter described in section 2012(g)(9) of this title damages the program’s integrity, the Secretary shall limit the participation of such establishment or shelter in the food stamp program, unless the establishment or shelter is the only establishment or shelter serving the area.” See Effective and Termination Dates of 1986 Amendment note below.
 
-1985—Subsec. (b). Pub. L. 99–198, § 1532(b), designated existing provisions as par. (1) and added par. (2).
+1985—Subsec. (b). Pub. L. 99–198, § 1532(b), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (c). Pub. L. 99–198, § 1521, inserted provisions relating to disclosure of information to, and the use by, State agencies which administer the special supplemental food program for women, infants, and children, authorized under section 17 of the Child Nutrition Act of 1966.
+Subsec. (c). Pub. L. 99–198, § 1521, inserted provisions relating to disclosure of information to, and the use by, State agencies which administer the special supplemental food program for women, infants, and children, authorized under section 17 of the Child Nutrition Act of 1966.
 
 1982—Subsec. (f). Pub. L. 97–253 added subsec. (f).
 
-1981—Subsec. (c). Pub. L. 97–98, § 1313, inserted provision that such purposes not exclude the audit and examination of such information by the Comptroller General of the United States authorized by any other provision of law.
+1981—Subsec. (c). Pub. L. 97–98, § 1313, inserted provision that such purposes not exclude the audit and examination of such information by the Comptroller General of the United States authorized by any other provision of law.
 
-Subsec. (e). Pub. L. 97–98, § 1314, added subsec. (e).
+Subsec. (e). Pub. L. 97–98, § 1314, added subsec. (e).
 
 1977—Pub. L. 95–113 substituted revised provisions covering approval of retail food stores and wholesale food concerns for provisions relating to redemption of coupons which are now covered by section 2019 of this title.
 
@@ -5335,19 +5335,19 @@ Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agricultur
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
+Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
 
-## § 2019. Redemption of program benefits
+## § 2019. Redemption of program benefits
 
 Regulations issued pursuant to this chapter shall provide for the redemption of benefits accepted by retail food stores through approved wholesale food concerns or through financial institutions which are insured by the Federal Deposit Insurance Corporation, or which are insured under the Federal Credit Union Act [12 U.S.C. 1751 et seq.] and have retail food stores or wholesale food concerns in their field of membership, with the cooperation of the Treasury Department, except that retail food stores defined in section 2012(*o*)(4) of this title shall be authorized to redeem their members’ food benefits prior to receipt by the members of the food so purchased, retail food stores authorized to accept and redeem benefits through on-line transactions shall be authorized to accept benefits prior to the delivery of food if the delivery occurs within a reasonable time of the purchase, as determined by the Secretary, and publicly operated community mental health centers or private nonprofit organizations or institutions which serve meals to narcotics addicts or alcoholics in drug addiction or alcoholic treatment and rehabilitation programs, public and private nonprofit shelters that prepare and serve meals for battered women and children, and public or private nonprofit group living arrangements that serve meals to disabled or blind residents, shall not be authorized to redeem benefits through financial institutions which are insured by the Federal Deposit Insurance Corporation or the Federal Credit Union Act. Notwithstanding the preceding sentence, a center, organization, institution, shelter, group living arrangement, or establishment described in that sentence may be authorized to redeem benefits through a financial institution described in that sentence if the center, organization, institution, shelter, group living arrangement, or establishment is equipped with 1 or more point-of-sale devices and is operating in an area in which an electronic benefit transfer system described in section 2016(h) of this title has been implemented. No financial institution may impose on or collect from a retail food store a fee or other charge for the redemption of benefits that are submitted to the financial institution in a manner consistent with the requirements, other than any requirements relating to cancellation of benefits, for the presentation of benefits by financial institutions to the Federal Reserve banks.
 
-(Pub. L. 88–525, § 10, Aug. 31, 1964, 78 Stat. 706; Pub. L. 91–671, § 6, Jan. 11, 1971, 84 Stat. 2051; Pub. L. 92–603, title IV, § 411(c)–(e), Oct. 30, 1972, 86 Stat. 1491; Pub. L. 93–86, § 3(f), (i), (k), Aug. 10, 1973, 87 Stat. 247, 248; Pub. L. 93–125, § 1(j), Oct. 18, 1973, 87 Stat. 450; Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 969; Pub. L. 96–58, § 8, Aug. 14, 1979, 93 Stat. 392; Pub. L. 96–249, title I, § 101(b), May 26, 1980, 94 Stat. 357; Pub. L. 97–98, title XIII, § 1315, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 99–198, title XV, §§ 1501(b), 1522, 1523(a), Dec. 23, 1985, 99 Stat. 1566, 1580; Pub. L. 99–570, title XI, § 11002(e), Oct. 27, 1986, 100 Stat. 3207–168; Pub. L. 107–171, title IV, § 4113(a), May 13, 2002, 116 Stat. 313; Pub. L. 110–234, title IV, § 4115(b)(7), May 22, 2008, 122 Stat. 1107; Pub. L. 110–246, § 4(a), title IV, § 4115(b)(7), June 18, 2008, 122 Stat. 1664, 1868; Pub. L. 113–79, title IV, § 4011(b)(2)(B), Feb. 7, 2014, 128 Stat. 793; Pub. L. 115–334, title IV, § 4022(4), Dec. 20, 2018, 132 Stat. 4653.)
+(Pub. L. 88–525, § 10, Aug. 31, 1964, 78 Stat. 706; Pub. L. 91–671, § 6, Jan. 11, 1971, 84 Stat. 2051; Pub. L. 92–603, title IV, § 411(c)–(e), Oct. 30, 1972, 86 Stat. 1491; Pub. L. 93–86, § 3(f), (i), (k), Aug. 10, 1973, 87 Stat. 247, 248; Pub. L. 93–125, § 1(j), Oct. 18, 1973, 87 Stat. 450; Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 969; Pub. L. 96–58, § 8, Aug. 14, 1979, 93 Stat. 392; Pub. L. 96–249, title I, § 101(b), May 26, 1980, 94 Stat. 357; Pub. L. 97–98, title XIII, § 1315, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 99–198, title XV, §§ 1501(b), 1522, 1523(a), Dec. 23, 1985, 99 Stat. 1566, 1580; Pub. L. 99–570, title XI, § 11002(e), Oct. 27, 1986, 100 Stat. 3207–168; Pub. L. 107–171, title IV, § 4113(a), May 13, 2002, 116 Stat. 313; Pub. L. 110–234, title IV, § 4115(b)(7), May 22, 2008, 122 Stat. 1107; Pub. L. 110–246, § 4(a), title IV, § 4115(b)(7), June 18, 2008, 122 Stat. 1664, 1868; Pub. L. 113–79, title IV, § 4011(b)(2)(B), Feb. 7, 2014, 128 Stat. 793; Pub. L. 115–334, title IV, § 4022(4), Dec. 20, 2018, 132 Stat. 4653.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Credit Union Act, referred to in text, is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
+The Federal Credit Union Act, referred to in text, is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
 **Codification**
 
@@ -5359,43 +5359,43 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Pub. L. 113–79 inserted “retail food stores authorized to accept and redeem benefits through on-line transactions shall be authorized to accept benefits prior to the delivery of food if the delivery occurs within a reasonable time of the purchase, as determined by the Secretary,” after “food so purchased,”.
 
-2008—Pub. L. 110–246, § 4115(b)(7), in section catchline, substituted “program benefits” for “coupons” and, in text, substituted “section 2012(p)(4)” for “section 2012(k)(4)” and “section 2016(h)” for “section 2016(i)” and substituted “benefits” for “coupons” wherever appearing.
+2008—Pub. L. 110–246, § 4115(b)(7), in section catchline, substituted “program benefits” for “coupons” and, in text, substituted “section 2012(p)(4)” for “section 2012(k)(4)” and “section 2016(h)” for “section 2016(i)” and substituted “benefits” for “coupons” wherever appearing.
 
 2002—Pub. L. 107–171 inserted after first sentence “Notwithstanding the preceding sentence, a center, organization, institution, shelter, group living arrangement, or establishment described in that sentence may be authorized to redeem coupons through a financial institution described in that sentence if the center, organization, institution, shelter, group living arrangement, or establishment is equipped with 1 or more point-of-sale devices and is operating in an area in which an electronic benefit transfer system described in section 2016(i) of this title has been implemented.”
 
-1986—Pub. L. 99–570, § 11002(e), (f), temporarily struck out “and” after “battered women and children,” and inserted “, and public or private nonprofit establishments, or public or private nonprofit shelters that feed individuals who do not reside in permanent dwellings and individuals who have no fixed mailing addresses”. See Effective and Termination Dates of 1986 Amendment note below.
+1986—Pub. L. 99–570, § 11002(e), (f), temporarily struck out “and” after “battered women and children,” and inserted “, and public or private nonprofit establishments, or public or private nonprofit shelters that feed individuals who do not reside in permanent dwellings and individuals who have no fixed mailing addresses”. See Effective and Termination Dates of 1986 Amendment note below.
 
-1985—Pub. L. 99–198, § 1501(b), inserted reference to publicly operated community mental health centers.
+1985—Pub. L. 99–198, § 1501(b), inserted reference to publicly operated community mental health centers.
 
-Pub. L. 99–198, § 1522, inserted “, or which are insured under the Federal Credit Union Act and have retail food stores or wholesale food concerns in their field of membership” and “or the Federal Credit Union Act”.
+Pub. L. 99–198, § 1522, inserted “, or which are insured under the Federal Credit Union Act and have retail food stores or wholesale food concerns in their field of membership” and “or the Federal Credit Union Act”.
 
-Pub. L. 99–198, § 1523(a), inserted sentence providing that no financial institution may impose on or collect from a retail food store a fee or other charge for the redemption of coupons that are submitted to the financial institution in a manner consistent with the requirements, other than any requirements relating to cancellation of coupons, for the presentation of coupons by financial institutions to the Federal Reserve banks.
+Pub. L. 99–198, § 1523(a), inserted sentence providing that no financial institution may impose on or collect from a retail food store a fee or other charge for the redemption of coupons that are submitted to the financial institution in a manner consistent with the requirements, other than any requirements relating to cancellation of coupons, for the presentation of coupons by financial institutions to the Federal Reserve banks.
 
 1981—Pub. L. 97–98 substituted “financial institutions which are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation” for “banks” wherever appearing.
 
-1980—Pub. L. 96–249 substituted “purchased,” for “purchased” and “residents” for “residents,” and inserted “, public and private nonprofit shelters that prepare and serve meals for battered women and children” after “programs”.
+1980—Pub. L. 96–249 substituted “purchased,” for “purchased” and “residents” for “residents,” and inserted “, public and private nonprofit shelters that prepare and serve meals for battered women and children” after “programs”.
 
 1979—Pub. L. 96–58 inserted provisions relating to public and private nonprofit group living arrangements that serve meals to disabled or blind residents.
 
 1977—Pub. L. 95–113 substituted revised provisions covering redemption of coupons for provisions relating to administration of program which are now covered by section 2020 of this title.
 
-1973—Subsec. (e). Pub. L. 93–86, § 3(i), inserted cls. (6) and (7), designated former cl. (6) as (8), and inserted provision relating to time for submission of plan of operation to Secretary for approval and time for Secretary to make a determination of approval or disapproval of such plan.
+1973—Subsec. (e). Pub. L. 93–86, § 3(i), inserted cls. (6) and (7), designated former cl. (6) as (8), and inserted provision relating to time for submission of plan of operation to Secretary for approval and time for Secretary to make a determination of approval or disapproval of such plan.
 
 Subsec. (h). Pub. L. 93–125 inserted “members of” after “the Secretary shall permit”.
 
-Pub. L. 93–86, § 3(k), inserted provisions authorizing meal purchases from senior citizens’ centers, apartment buildings occupied primarily by elderly persons, any public or nonprofit private school which prepares meals especially for elderly persons, any public or nonprofit private eating establishment which prepares meals especially for elderly persons during special hours, and any other public or nonprofit private establishment approved for such purpose by the Secretary.
+Pub. L. 93–86, § 3(k), inserted provisions authorizing meal purchases from senior citizens’ centers, apartment buildings occupied primarily by elderly persons, any public or nonprofit private school which prepares meals especially for elderly persons, any public or nonprofit private eating establishment which prepares meals especially for elderly persons during special hours, and any other public or nonprofit private establishment approved for such purpose by the Secretary.
 
-Subsec. (i). Pub. L. 93–86, § 3(f), added subsec. (i).
+Subsec. (i). Pub. L. 93–86, § 3(f), added subsec. (i).
 
-1972—Subsec. (c). Pub. L. 92–603, § 411(c), struck out provisions relating to filing of an affidavit by household for certification of eligibility for public assistance.
+1972—Subsec. (c). Pub. L. 92–603, § 411(c), struck out provisions relating to filing of an affidavit by household for certification of eligibility for public assistance.
 
-Subsec. (e). Pub. L. 92–603, § 411(d), (e), substituted “prescribed by the Secretary in the regulations issued pursuant to this chapter” for “used by them in the certification of applicants for benefits under the federally aided public assistance programs” in cl. (2), and struck out provisions requiring the State agency to institute procedures under which any household participating in the food stamp program shall be entitled to have the charges for its coupon allotment deducted from grants or payments such household is entitled to receive and have its coupon allotment distributed to it with such grant or payment.
+Subsec. (e). Pub. L. 92–603, § 411(d), (e), substituted “prescribed by the Secretary in the regulations issued pursuant to this chapter” for “used by them in the certification of applicants for benefits under the federally aided public assistance programs” in cl. (2), and struck out provisions requiring the State agency to institute procedures under which any household participating in the food stamp program shall be entitled to have the charges for its coupon allotment deducted from grants or payments such household is entitled to receive and have its coupon allotment distributed to it with such grant or payment.
 
-1971—Subsec. (c). Pub. L. 91–671, § 6(a), inserted provisions respecting certification of eligibility for benefits by execution of an affidavit and duration of validity of a certification upon removal of a household from one political subdivision to another.
+1971—Subsec. (c). Pub. L. 91–671, § 6(a), inserted provisions respecting certification of eligibility for benefits by execution of an affidavit and duration of validity of a certification upon removal of a household from one political subdivision to another.
 
-Subsec. (e). Pub. L. 91–671, § 6(b), substituted “regulations” for “regulation” in second sentence preceding cl. (1) and “from time to time may” for “may from time to time”, and added cls. (5) and (6) and provision for withholding in the State plan.
+Subsec. (e). Pub. L. 91–671, § 6(b), substituted “regulations” for “regulation” in second sentence preceding cl. (1) and “from time to time may” for “may from time to time”, and added cls. (5) and (6) and provision for withholding in the State plan.
 
-Subsec. (h). Pub. L. 91–671, § 6(c), added subsec. (h).
+Subsec. (h). Pub. L. 91–671, § 6(c), added subsec. (h).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5407,7 +5407,7 @@ Amendment by section 4115(b)(7) of Pub. L. 110–246 effective Oct. 1, 2008, see
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–171, title IV, § 4113(b), May 13, 2002, 116 Stat. 314, provided that: “The amendment made by this section [amending this section] takes effect on the date of enactment of this Act [May 13, 2002].”
+Pub. L. 107–171, title IV, § 4113(b), May 13, 2002, 116 Stat. 314, provided that: “The amendment made by this section [amending this section] takes effect on the date of enactment of this Act [May 13, 2002].”
 
 **Effective and Termination Dates of 1986 Amendment**
 
@@ -5425,7 +5425,7 @@ Amendment by Pub. L. 96–58 to be implemented in all States by July 1, 1980, bu
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
+Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
 
 **Effective Date of 1972 Amendment**
 
@@ -5433,7 +5433,7 @@ Amendment by Pub. L. 92–603 effective Jan. 1, 1973, see section 411(h) of Pub.
 
 **Regulations**
 
-Pub. L. 99–198, title XV, § 1523(b), Dec. 23, 1985, 99 Stat. 1580, provided that: “The Secretary of Agriculture, in consultation with the Board of Governors of the Federal Reserve System, shall issue regulations implementing the amendment made by subsection (a) [amending this section].”
+Pub. L. 99–198, title XV, § 1523(b), Dec. 23, 1985, 99 Stat. 1580, provided that: “The Secretary of Agriculture, in consultation with the Board of Governors of the Federal Reserve System, shall issue regulations implementing the amendment made by subsection (a) [amending this section].”
 
 **Publicly Operated Community Health Centers**
 
@@ -5441,9 +5441,9 @@ Provisions of this section concerning private, nonprofit drug addiction or alcoh
 
 **Extension Until October 1, 1976, of Final Date for Compliance With Regulations Governing Use of Food Stamps by AFDC Families**
 
-Pub. L. 94–182, title II, § 201, Dec. 31, 1975, 89 Stat. 1056, permitted the final date for compliance with regulations implementing former subsec. (e)(7) of this section to be extended until Oct. 1, 1976.
+Pub. L. 94–182, title II, § 201, Dec. 31, 1975, 89 Stat. 1056, permitted the final date for compliance with regulations implementing former subsec. (e)(7) of this section to be extended until Oct. 1, 1976.
 
-## § 2020. Administration
+## § 2020. Administration
 
 **(a) State responsibility**
 
@@ -5509,9 +5509,9 @@ In the certification of applicant households for the supplemental nutrition assi
 
 **(d) Plan of operation by State agency; approval by Secretary; Indians**
 
-The State agency (as defined in section 2012(s)(1) of this title) of each State desiring to participate in the supplemental nutrition assistance program shall submit for approval a plan of operation specifying the manner in which such program will be conducted within the State in every political subdivision. The Secretary may not, as a part of the approval process for a plan of operation, require a State to submit for prior approval by the Secretary the State agency instructions to staff, interpretations of existing policy, State agency methods of administration, forms used by the State agency, or any materials, documents, memoranda, bulletins, or other matter, unless the State determines that the materials, documents, memoranda, bulletins, or other matter alter or amend the State plan of operation or conflict with the rights and levels of benefits to which a household is entitled. In the case of all or part of an Indian reservation, the State agency as defined in section 2012(s)(1) of this title shall be responsible for conducting such program on such reservation unless the Secretary determines that the State agency (as defined in section 2012(s)(1) of this title) is failing, subsequent to August 31, 1964, properly to administer such program on such reservation in accordance with the purposes of this chapter and further determines that the State agency as defined in section 2012(s)(2) of this title is capable of effectively and efficiently conducting such program, in light of the distance of the reservation from State agency-operated certification and issuance centers, the previous experience of such tribal organization in the operation of programs authorized under the Indian Self-Determination Act (25 U.S.C. 450) 1
+The State agency (as defined in section 2012(s)(1) of this title) of each State desiring to participate in the supplemental nutrition assistance program shall submit for approval a plan of operation specifying the manner in which such program will be conducted within the State in every political subdivision. The Secretary may not, as a part of the approval process for a plan of operation, require a State to submit for prior approval by the Secretary the State agency instructions to staff, interpretations of existing policy, State agency methods of administration, forms used by the State agency, or any materials, documents, memoranda, bulletins, or other matter, unless the State determines that the materials, documents, memoranda, bulletins, or other matter alter or amend the State plan of operation or conflict with the rights and levels of benefits to which a household is entitled. In the case of all or part of an Indian reservation, the State agency as defined in section 2012(s)(1) of this title shall be responsible for conducting such program on such reservation unless the Secretary determines that the State agency (as defined in section 2012(s)(1) of this title) is failing, subsequent to August 31, 1964, properly to administer such program on such reservation in accordance with the purposes of this chapter and further determines that the State agency as defined in section 2012(s)(2) of this title is capable of effectively and efficiently conducting such program, in light of the distance of the reservation from State agency-operated certification and issuance centers, the previous experience of such tribal organization in the operation of programs authorized under the Indian Self-Determination Act (25 U.S.C. 450) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and similar Acts of Congress, the tribal organization’s management and fiscal capabilities, and the adequacy of measures taken by the tribal organization to ensure that there shall be no discrimination in the operation of the program on the basis of race, color, sex, or national origin, in which event such State agency shall be responsible for conducting such program and submitting for approval a plan of operation specifying the manner in which such program will be conducted. The Secretary, upon the request of a tribal organization, shall provide the designees of such organization with appropriate training and technical assistance to enable them to qualify as expeditiously as possible as a State agency pursuant to section 2012(s)(2) of this title. A State agency, as defined in section 2012(s)(1) of this title, before it submits its plan of operation to the Secretary for the administration of the supplemental nutrition assistance program on all or part of an Indian reservation, shall consult in good faith with the tribal organization about that portion of the State’s plan of operation pertaining to the implementation of the program for members of the tribe, and shall implement the program in a manner that is responsive to the needs of the Indians on the reservation as determined by ongoing consultation with the tribal organization.
 
@@ -5705,7 +5705,7 @@ and similar Acts of Congress, the tribal organization’s management and fiscal 
 
 **(ii)** if accurate, would have been required to be reported by the household based on the reporting requirements assigned to the household by the State agency under section 2015(c) of this title.
 
-**(f) Repealed. Pub. L. 111–296, title II, § 241(b)(2), Dec. 13, 2010, 124 Stat. 3236**
+**(f) Repealed. Pub. L. 111–296, title II, § 241(b)(2), Dec. 13, 2010, 124 Stat. 3236**
 
 **(g) State noncompliance; correction of failures**
 
@@ -5955,29 +5955,29 @@ The Secretary shall require that State agencies make available to the National A
 
 The initial match and corresponding actions required by paragraph (3)(B) shall occur within 3 years after December 20, 2018.
 
-(Pub. L. 88–525, § 11, Aug. 31, 1964, 78 Stat. 707; Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 969; Pub. L. 96–249, title I, §§ 113, 116–120, 122, 123, May 26, 1980, 94 Stat. 361–363; Pub. L. 97–35, title I, § 111(a), Aug. 13, 1981, 95 Stat. 362; Pub. L. 97–98, title XIII, §§ 1316–1320(a), 1321–1323, Dec. 22, 1981, 95 Stat. 1286, 1287; Pub. L. 97–253, title I, §§ 166–174, 180(b)(1), 189(b)(2), 190(c)(1), Sept. 8, 1982, 96 Stat. 779, 780, 783, 787; Pub. L. 98–204, § 7, Dec. 2, 1983, 97 Stat. 1386; Pub. L. 98–369, div. B, title VI, § 2651(i), July 18, 1984, 98 Stat. 1150; Pub. L. 99–198, title XV, §§ 1507(b), 1517(b), 1525–1531(a), (b), 1535(b)(1), 1537(b), (c), Dec. 23, 1985, 99 Stat. 1568, 1576, 1580–1582, 1584, 1586, 1587; Pub. L. 100–77, title VIII, §§ 808(a), 809(a), July 22, 1987, 101 Stat. 536; Pub. L. 100–435, title II, § 204(a), title III, §§ 310, 311, 320, 321(a), 322, 323, 330, 352, Sept. 19, 1988, 102 Stat. 1657, 1660–1662, 1665; Pub. L. 101–624, title XVII, §§ 1736–1741, 1763(b), Nov. 28, 1990, 104 Stat. 3793, 3794, 3806; Pub. L. 102–237, title IX, § 941(5), (6), Dec. 13, 1991, 105 Stat. 1892; Pub. L. 103–66, title XIII, § 13941(a), Aug. 10, 1993, 107 Stat. 676; Pub. L. 103–296, title I, § 108(f)(2), (3), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 104–66, title I, § 1011(x), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–193, title VIII, §§ 809(b), 819(b), 835–840, 844(b), 848(b)(1), 854(b), Aug. 22, 1996, 110 Stat. 2313, 2320, 2329–2331, 2333, 2334, 2342; Pub. L. 105–33, title I, §§ 1003(a)(1), (2), (b), 1004, Aug. 5, 1997, 111 Stat. 255, 256; Pub. L. 105–379, § 1(a), Nov. 12, 1998, 112 Stat. 3399; Pub. L. 107–171, title IV, §§ 4114(a), 4115(a), 4116(a), May 13, 2002, 116 Stat. 314, 315; Pub. L. 108–265, title I, § 104(b)(2), June 30, 2004, 118 Stat. 737; Pub. L. 110–234, title IV, §§ 4001(b), 4002(a)(6), 4106, 4111(b), 4115(b)(8), 4116–4120, 4406(a)(2), title VII, § 7511(c)(5), May 22, 2008, 122 Stat. 1092, 1093, 1101, 1102, 1107, 1110–1112, 1140, 1267; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4002(a)(6), 4106, 4111(b), 4115(b)(8), 4116–4120, 4406(a)(2), title VII, § 7511(c)(5), June 18, 2008, 122 Stat. 1664, 1853, 1854, 1862, 1863, 1868, 1871–1874, 1902, 2029; Pub. L. 111–296, title II, § 241(b)(2), Dec. 13, 2010, 124 Stat. 3236; Pub. L. 113–79, title IV, §§ 4013, 4014(a), 4015, 4016(a), Feb. 7, 2014, 128 Stat. 793, 795; Pub. L. 115–334, title IV, §§ 4005(c), 4009–4011, 4013(a), 4022(5), Dec. 20, 2018, 132 Stat. 4632, 4639, 4640, 4642, 4653; Pub. L. 117–286, § 4(a)(27), Dec. 27, 2022, 136 Stat. 4308.)
+(Pub. L. 88–525, § 11, Aug. 31, 1964, 78 Stat. 707; Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 969; Pub. L. 96–249, title I, §§ 113, 116–120, 122, 123, May 26, 1980, 94 Stat. 361–363; Pub. L. 97–35, title I, § 111(a), Aug. 13, 1981, 95 Stat. 362; Pub. L. 97–98, title XIII, §§ 1316–1320(a), 1321–1323, Dec. 22, 1981, 95 Stat. 1286, 1287; Pub. L. 97–253, title I, §§ 166–174, 180(b)(1), 189(b)(2), 190(c)(1), Sept. 8, 1982, 96 Stat. 779, 780, 783, 787; Pub. L. 98–204, § 7, Dec. 2, 1983, 97 Stat. 1386; Pub. L. 98–369, div. B, title VI, § 2651(i), July 18, 1984, 98 Stat. 1150; Pub. L. 99–198, title XV, §§ 1507(b), 1517(b), 1525–1531(a), (b), 1535(b)(1), 1537(b), (c), Dec. 23, 1985, 99 Stat. 1568, 1576, 1580–1582, 1584, 1586, 1587; Pub. L. 100–77, title VIII, §§ 808(a), 809(a), July 22, 1987, 101 Stat. 536; Pub. L. 100–435, title II, § 204(a), title III, §§ 310, 311, 320, 321(a), 322, 323, 330, 352, Sept. 19, 1988, 102 Stat. 1657, 1660–1662, 1665; Pub. L. 101–624, title XVII, §§ 1736–1741, 1763(b), Nov. 28, 1990, 104 Stat. 3793, 3794, 3806; Pub. L. 102–237, title IX, § 941(5), (6), Dec. 13, 1991, 105 Stat. 1892; Pub. L. 103–66, title XIII, § 13941(a), Aug. 10, 1993, 107 Stat. 676; Pub. L. 103–296, title I, § 108(f)(2), (3), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 104–66, title I, § 1011(x), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–193, title VIII, §§ 809(b), 819(b), 835–840, 844(b), 848(b)(1), 854(b), Aug. 22, 1996, 110 Stat. 2313, 2320, 2329–2331, 2333, 2334, 2342; Pub. L. 105–33, title I, §§ 1003(a)(1), (2), (b), 1004, Aug. 5, 1997, 111 Stat. 255, 256; Pub. L. 105–379, § 1(a), Nov. 12, 1998, 112 Stat. 3399; Pub. L. 107–171, title IV, §§ 4114(a), 4115(a), 4116(a), May 13, 2002, 116 Stat. 314, 315; Pub. L. 108–265, title I, § 104(b)(2), June 30, 2004, 118 Stat. 737; Pub. L. 110–234, title IV, §§ 4001(b), 4002(a)(6), 4106, 4111(b), 4115(b)(8), 4116–4120, 4406(a)(2), title VII, § 7511(c)(5), May 22, 2008, 122 Stat. 1092, 1093, 1101, 1102, 1107, 1110–1112, 1140, 1267; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4002(a)(6), 4106, 4111(b), 4115(b)(8), 4116–4120, 4406(a)(2), title VII, § 7511(c)(5), June 18, 2008, 122 Stat. 1664, 1853, 1854, 1862, 1863, 1868, 1871–1874, 1902, 2029; Pub. L. 111–296, title II, § 241(b)(2), Dec. 13, 2010, 124 Stat. 3236; Pub. L. 113–79, title IV, §§ 4013, 4014(a), 4015, 4016(a), Feb. 7, 2014, 128 Stat. 793, 795; Pub. L. 115–334, title IV, §§ 4005(c), 4009–4011, 4013(a), 4022(5), Dec. 20, 2018, 132 Stat. 4632, 4639, 4640, 4642, 4653; Pub. L. 117–286, § 4(a)(27), Dec. 27, 2022, 136 Stat. 4308.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Age Discrimination Act of 1975, referred to in subsec. (c)(2)(A), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§ 6101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of Title 42 and Tables.
+The Age Discrimination Act of 1975, referred to in subsec. (c)(2)(A), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§ 6101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of Title 42 and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (c)(2)(C), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (c)(2)(C), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (c)(2)(D), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (c)(2)(D), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-The Indian Self-Determination Act (25 U.S.C. 450), referred to in subsec. (d), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of Title 25, Indians, prior to editorial reclassification as subchapter I (§ 5321 et seq.) of chapter 46 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Indian Self-Determination Act (25 U.S.C. 450), referred to in subsec. (d), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of Title 25, Indians, prior to editorial reclassification as subchapter I (§ 5321 et seq.) of chapter 46 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
-The Immigration and Nationality Act, referred to in subsec. (e)(15), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (e)(15), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (e)(19), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see section 1(a) of Pub. L. 113–128, set out as a Short Title note under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (e)(19), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see section 1(a) of Pub. L. 113–128, set out as a Short Title note under section 3101 of Title 29 and Tables.
 
-The Social Security Act, referred to in subsec. (s)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (s)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Richard B. Russell National School Lunch Act, referred to in subsec. (u), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (u), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
-The Child Nutrition Act of 1966, referred to in subsec. (u)(2)(A), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
+The Child Nutrition Act of 1966, referred to in subsec. (u)(2)(A), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
 **Codification**
 
@@ -5987,31 +5987,31 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2022—Subsec. (*o*)(1). Pub. L. 117–286 substituted “chapter 10 of title 5,” for “the Federal Advisory Committee Act,”.
 
-2018—Subsec. (a)(2). Pub. L. 115–334, § 4022(5)(A), substituted “2012(s)(1)” for “2012(t)(1)”.
+2018—Subsec. (a)(2). Pub. L. 115–334, § 4022(5)(A), substituted “2012(s)(1)” for “2012(t)(1)”.
 
-Subsec. (a)(3)(B). Pub. L. 115–334, § 4013(a)(1), substituted “All records, and the entire information systems in which records are contained, that are covered” for “Records described” in introductory provisions.
+Subsec. (a)(3)(B). Pub. L. 115–334, § 4013(a)(1), substituted “All records, and the entire information systems in which records are contained, that are covered” for “Records described” in introductory provisions.
 
-Subsec. (a)(3)(B)(i). Pub. L. 115–334, § 4013(a)(2), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “be available for inspection and audit at any reasonable time;”.
+Subsec. (a)(3)(B)(i). Pub. L. 115–334, § 4013(a)(2), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “be available for inspection and audit at any reasonable time;”.
 
-Subsec. (d). Pub. L. 115–334, § 4022(5)(B), substituted “2012(s)(1)” for “2012(t)(1)” wherever appearing and “2012(s)(2)” for “2012(t)(2)” in two places.
+Subsec. (d). Pub. L. 115–334, § 4022(5)(B), substituted “2012(s)(1)” for “2012(t)(1)” wherever appearing and “2012(s)(2)” for “2012(t)(2)” in two places.
 
-Subsec. (e)(17). Pub. L. 115–334, § 4022(5)(C)(i), substituted “2012(s)(1)” for “2012(t)(1)”.
+Subsec. (e)(17). Pub. L. 115–334, § 4022(5)(C)(i), substituted “2012(s)(1)” for “2012(t)(1)”.
 
-Subsec. (e)(19). Pub. L. 115–334, § 4005(c)(1), inserted “the extent to which such programs will be carried out in coordination with the activities carried out under title I of the Workforce Innovation and Opportunity Act (29 U.S.C. 3111 et seq.),” before “and the basis,”.
+Subsec. (e)(19). Pub. L. 115–334, § 4005(c)(1), inserted “the extent to which such programs will be carried out in coordination with the activities carried out under title I of the Workforce Innovation and Opportunity Act (29 U.S.C. 3111 et seq.),” before “and the basis,”.
 
-Subsec. (e)(23). Pub. L. 115–334, § 4022(5)(C)(ii), substituted “simplified supplemental nutrition assistance program” for “Simplified Supplemental Nutrition Assistance Program” in introductory provisions.
+Subsec. (e)(23). Pub. L. 115–334, § 4022(5)(C)(ii), substituted “simplified supplemental nutrition assistance program” for “Simplified Supplemental Nutrition Assistance Program” in introductory provisions.
 
-Subsec. (e)(26). Pub. L. 115–334, § 4009, added par. (26).
+Subsec. (e)(26). Pub. L. 115–334, § 4009, added par. (26).
 
-Subsec. (t). Pub. L. 115–334, § 4010(1), substituted “simplified application” for “simple application” in heading.
+Subsec. (t). Pub. L. 115–334, § 4010(1), substituted “simplified application” for “simple application” in heading.
 
-Subsec. (t)(1). Pub. L. 115–334, § 4010(2), substituted “implement supplemental nutrition assistance program simplified application and eligibility determination systems” for “implement—
+Subsec. (t)(1). Pub. L. 115–334, § 4010(2), substituted “implement supplemental nutrition assistance program simplified application and eligibility determination systems” for “implement—
 
 “(A) simple supplemental nutrition assistance program application and eligibility determination systems; or
 
 “(B) measures to improve access to supplemental nutrition assistance program benefits by eligible households”.
 
-Subsec. (t)(2)(B). Pub. L. 115–334, § 4010(3)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “establishing methods for applying for benefits and determining eligibility that—
+Subsec. (t)(2)(B). Pub. L. 115–334, § 4010(3)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “establishing methods for applying for benefits and determining eligibility that—
 
 “(i) more extensively use—
 
@@ -6021,245 +6021,245 @@ Subsec. (t)(2)(B). Pub. L. 115–334, § 4010(3)(A), amended subpar. (B) gener
 
 “(ii) otherwise improve the administrative infrastructure used in processing applications and determining eligibility;”.
 
-Subsec. (t)(2)(C) to (E). Pub. L. 115–334, § 4010(3)(B), (C), redesignated subpar. (E) as (C) and struck out former subpars. (C) and (D) which read as follows:
+Subsec. (t)(2)(C) to (E). Pub. L. 115–334, § 4010(3)(B), (C), redesignated subpar. (E) as (C) and struck out former subpars. (C) and (D) which read as follows:
 
 “(C) developing procedures, training materials, and other resources aimed at reducing barriers to participation and reaching eligible households;
 
 “(D) improving methods for informing and enrolling eligible households; or”.
 
-Subsec. (w). Pub. L. 115–334, § 4005(c)(2), added subsec. (w).
+Subsec. (w). Pub. L. 115–334, § 4005(c)(2), added subsec. (w).
 
-Subsec. (x). Pub. L. 115–334, § 4011, added subsec. (x).
+Subsec. (x). Pub. L. 115–334, § 4011, added subsec. (x).
 
-Subsec. (e)(3). Pub. L. 113–79, § 4013(1), inserted “and after compliance with the requirement specified in paragraph (24)” after “section 2025(e) of this title”.
+Subsec. (e)(3). Pub. L. 113–79, § 4013(1), inserted “and after compliance with the requirement specified in paragraph (24)” after “section 2025(e) of this title”.
 
-Subsec. (e)(24). Pub. L. 113–79, § 4013(2)–(4), added par. (24).
+Subsec. (e)(24). Pub. L. 113–79, § 4013(2)–(4), added par. (24).
 
-Subsec. (e)(25). Pub. L. 113–79, § 4014(a), added par. (25).
+Subsec. (e)(25). Pub. L. 113–79, § 4014(a), added par. (25).
 
-Subsec. (p). Pub. L. 113–79, § 4015, added subsec. (p) and struck out former subsec. (p). Prior to amendment, text read as follows: “Notwithstanding any other provision of law, in carrying out the supplemental nutrition assistance program, a State agency shall not be required to use an income and eligibility or an immigration status verification system established under section 1137 of the Social Security Act (42 U.S.C. 1320b–7).”
+Subsec. (p). Pub. L. 113–79, § 4015, added subsec. (p) and struck out former subsec. (p). Prior to amendment, text read as follows: “Notwithstanding any other provision of law, in carrying out the supplemental nutrition assistance program, a State agency shall not be required to use an income and eligibility or an immigration status verification system established under section 1137 of the Social Security Act (42 U.S.C. 1320b–7).”
 
-Subsec. (v). Pub. L. 113–79, § 4016(a), added subsec. (v).
+Subsec. (v). Pub. L. 113–79, § 4016(a), added subsec. (v).
 
 2010—Subsec. (f). Pub. L. 111–296 struck out subsec. (f) which related to nutrition education.
 
-2008—Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing in subsecs. (d), (e) (except par. (25)), (f), (g), (i), (j), (*o*) to (q), and (t).
+2008—Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing in subsecs. (d), (e) (except par. (25)), (f), (g), (i), (j), (*o*) to (q), and (t).
 
-Subsec. (a). Pub. L. 110–246, § 4116, added subsec. (a) and struck out former subsec. (a) which read as follows: “The State agency of each participating State shall assume responsibility for the certification of applicant households and for the issuance of coupons and the control and accountability thereof. There shall be kept such records as may be necessary to ascertain whether the program is being conducted in compliance with the provisions of this chapter and the regulations issued pursuant to this chapter. Such records shall be available for inspection and audit at any reasonable time and shall be preserved for such period of time, not less than three years, as may be specified in the regulations issued pursuant to this chapter.”
+Subsec. (a). Pub. L. 110–246, § 4116, added subsec. (a) and struck out former subsec. (a) which read as follows: “The State agency of each participating State shall assume responsibility for the certification of applicant households and for the issuance of coupons and the control and accountability thereof. There shall be kept such records as may be necessary to ascertain whether the program is being conducted in compliance with the provisions of this chapter and the regulations issued pursuant to this chapter. Such records shall be available for inspection and audit at any reasonable time and shall be preserved for such period of time, not less than three years, as may be specified in the regulations issued pursuant to this chapter.”
 
-Subsec. (c). Pub. L. 110–246, § 4117, added subsec. (c) and struck out former subsec. (c) which read as follows: “In the certification of applicant households for the food stamp program, there shall be no discrimination by reason of race, sex, religious creed, national origin, or political beliefs.”
+Subsec. (c). Pub. L. 110–246, § 4117, added subsec. (c) and struck out former subsec. (c) which read as follows: “In the certification of applicant households for the food stamp program, there shall be no discrimination by reason of race, sex, religious creed, national origin, or political beliefs.”
 
-Subsec. (d). Pub. L. 110–246, § 4115(b)(8)(A), substituted “section 2012(t)(1)” for “section 2012(n)(1)” wherever appearing and “section 2012(t)(2)” for “section 2012(n)(2)” in two places.
+Subsec. (d). Pub. L. 110–246, § 4115(b)(8)(A), substituted “section 2012(t)(1)” for “section 2012(n)(1)” wherever appearing and “section 2012(t)(2)” for “section 2012(n)(2)” in two places.
 
-Subsec. (e). Pub. L. 110–246, § 4115(b)(8)(E), substituted “benefits” for “coupons” wherever appearing in pars. (2)(B)(vi), (8), (9), (11), (18), and (21).
+Subsec. (e). Pub. L. 110–246, § 4115(b)(8)(E), substituted “benefits” for “coupons” wherever appearing in pars. (2)(B)(vi), (8), (9), (11), (18), and (21).
 
-Pub. L. 110–246, § 4002(a)(6)(A)(i), (ii), substituted “supplemental nutrition assistance program benefits” for “food stamps” wherever appearing and “supplemental nutrition assistance program offices” for “food stamp offices” in two places.
+Pub. L. 110–246, § 4002(a)(6)(A)(i), (ii), substituted “supplemental nutrition assistance program benefits” for “food stamps” wherever appearing and “supplemental nutrition assistance program offices” for “food stamp offices” in two places.
 
-Subsec. (e)(1). Pub. L. 110–246, § 4118, realigned margins and in subpar. (B) substituted “comply with regulations of the Secretary requiring the use of” for “use”.
+Subsec. (e)(1). Pub. L. 110–246, § 4118, realigned margins and in subpar. (B) substituted “comply with regulations of the Secretary requiring the use of” for “use”.
 
-Subsec. (e)(2)(B)(iii). Pub. L. 110–246, § 4002(a)(6)(A)(iii), substituted “supplemental nutrition assistance program office” for “food stamp office”.
+Subsec. (e)(2)(B)(iii). Pub. L. 110–246, § 4002(a)(6)(A)(iii), substituted “supplemental nutrition assistance program office” for “food stamp office”.
 
-Subsec. (e)(2)(C). Pub. L. 110–246, § 4119, inserted subpar. heading, designated existing provisions as cl. (i), inserted cl. heading, and added cls. (ii) and (iii).
+Subsec. (e)(2)(C). Pub. L. 110–246, § 4119, inserted subpar. heading, designated existing provisions as cl. (i), inserted cl. heading, and added cls. (ii) and (iii).
 
-Subsec. (e)(7). Pub. L. 110–246, § 4115(b)(8)(D), substituted “benefit” for “coupon”.
+Subsec. (e)(7). Pub. L. 110–246, § 4115(b)(8)(D), substituted “benefit” for “coupon”.
 
-Subsec. (e)(8). Pub. L. 110–246, § 4120(1), in introductory provisions, substituted “safeguards which prohibit the use or disclosure of information obtained from applicant households” for “safeguards which limit the use or disclosure of information obtained from applicant households to persons directly connected with the administration or enforcement of the provisions of this chapter, regulations issued pursuant to this chapter, Federal assistance programs, or federally assisted State programs”.
+Subsec. (e)(8). Pub. L. 110–246, § 4120(1), in introductory provisions, substituted “safeguards which prohibit the use or disclosure of information obtained from applicant households” for “safeguards which limit the use or disclosure of information obtained from applicant households to persons directly connected with the administration or enforcement of the provisions of this chapter, regulations issued pursuant to this chapter, Federal assistance programs, or federally assisted State programs”.
 
-Subsec. (e)(8)(A) to (D). Pub. L. 110–246, § 4120(2), (3), added subpar. (A) and redesignated former subpars. (A) to (C) as (B) to (D), respectively. Former subpar. (D) redesignated (E).
+Subsec. (e)(8)(A) to (D). Pub. L. 110–246, § 4120(2), (3), added subpar. (A) and redesignated former subpars. (A) to (C) as (B) to (D), respectively. Former subpar. (D) redesignated (E).
 
-Subsec. (e)(8)(E). Pub. L. 110–246, § 4120(2), redesignated subpar. (D) as (E). Former subpar. (E) redesignated (F).
+Subsec. (e)(8)(E). Pub. L. 110–246, § 4120(2), redesignated subpar. (D) as (E). Former subpar. (E) redesignated (F).
 
-Pub. L. 110–246, § 4115(b)(8)(B)(i), substituted “paragraph (15) or (18)(B)” for “paragraph (16) or (20)(B)”.
+Pub. L. 110–246, § 4115(b)(8)(B)(i), substituted “paragraph (15) or (18)(B)” for “paragraph (16) or (20)(B)”.
 
-Subsec. (e)(8)(F). Pub. L. 110–246, § 4120(2), (4), redesignated subpar. (E) as (F) and inserted “or subsection (u)” before semicolon at end.
+Subsec. (e)(8)(F). Pub. L. 110–246, § 4120(2), (4), redesignated subpar. (E) as (F) and inserted “or subsection (u)” before semicolon at end.
 
-Subsec. (e)(15) to (17). Pub. L. 110–246, § 4115(b)(8)(B)(ii)–(iv), redesignated pars. (16) to (18) as (15) to (17), respectively, in par. (17), substituted “described in section 2012(t)(1) of this title” for “(described in section 2012(n)(1) of this title)”, and struck out former par. (15) which read as follows: “that the State agency shall require each household certified as eligible to participate by methods other than the out-of-office methods specified in the fourth sentence of paragraph (2) of this subsection in those project areas or parts of project areas in which the Secretary, in consultation with the Department’s Inspector General, finds that it would be useful to protect the program’s integrity and would be cost effective, to present a photographic identification card when using its authorization card in order to receive its coupons. The State agency may permit a member of a household to comply with this paragraph by presenting a photographic identification card used to receive assistance under a welfare or public assistance program;”.
+Subsec. (e)(15) to (17). Pub. L. 110–246, § 4115(b)(8)(B)(ii)–(iv), redesignated pars. (16) to (18) as (15) to (17), respectively, in par. (17), substituted “described in section 2012(t)(1) of this title” for “(described in section 2012(n)(1) of this title)”, and struck out former par. (15) which read as follows: “that the State agency shall require each household certified as eligible to participate by methods other than the out-of-office methods specified in the fourth sentence of paragraph (2) of this subsection in those project areas or parts of project areas in which the Secretary, in consultation with the Department’s Inspector General, finds that it would be useful to protect the program’s integrity and would be cost effective, to present a photographic identification card when using its authorization card in order to receive its coupons. The State agency may permit a member of a household to comply with this paragraph by presenting a photographic identification card used to receive assistance under a welfare or public assistance program;”.
 
-Subsec. (e)(18) to (24). Pub. L. 110–246, § 4115(b)(8)(B)(ii), (iii), redesignated pars. (20) to (25) as (18) to (23), respectively, and struck out former par. (19) which read as follows: “that, in project areas or parts thereof where authorization cards are used, and eligible households are required to present photographic identification cards in order to receive their coupons, the State agency shall include, in any agreement or contract with a coupon issuer, a provision that (A) the issuer shall (i) require the presenter to furnish a photographic identification card at the time the authorization card is presented, and (ii) record on the authorization card the identification number shown on the photographic identification card; and (B) if the State agency determines that the authorization card has been stolen or otherwise was not received by a household certified as eligible, the issuer shall be liable to the State agency for the face value of any coupons issued in the transaction in which such card is used and the issuer fails to comply with the requirements of clause (A) of this paragraph;”. Former par. (18) redesignated (17).
+Subsec. (e)(18) to (24). Pub. L. 110–246, § 4115(b)(8)(B)(ii), (iii), redesignated pars. (20) to (25) as (18) to (23), respectively, and struck out former par. (19) which read as follows: “that, in project areas or parts thereof where authorization cards are used, and eligible households are required to present photographic identification cards in order to receive their coupons, the State agency shall include, in any agreement or contract with a coupon issuer, a provision that (A) the issuer shall (i) require the presenter to furnish a photographic identification card at the time the authorization card is presented, and (ii) record on the authorization card the identification number shown on the photographic identification card; and (B) if the State agency determines that the authorization card has been stolen or otherwise was not received by a household certified as eligible, the issuer shall be liable to the State agency for the face value of any coupons issued in the transaction in which such card is used and the issuer fails to comply with the requirements of clause (A) of this paragraph;”. Former par. (18) redesignated (17).
 
-Subsec. (e)(25). Pub. L. 110–246, § 4115(b)(8)(B)(iii), redesignated par. (25) as (23).
+Subsec. (e)(25). Pub. L. 110–246, § 4115(b)(8)(B)(iii), redesignated par. (25) as (23).
 
-Pub. L. 110–246, § 4002(a)(6)(A)(iv), substituted “Simplified Supplemental Nutrition Assistance Program” for “Simplified Food Stamp Program” in introductory provisions and “supplemental nutrition assistance program benefits” for “food stamp benefits” in subpar. (A).
+Pub. L. 110–246, § 4002(a)(6)(A)(iv), substituted “Simplified Supplemental Nutrition Assistance Program” for “Simplified Food Stamp Program” in introductory provisions and “supplemental nutrition assistance program benefits” for “food stamp benefits” in subpar. (A).
 
-Subsec. (f). Pub. L. 110–246, § 4111(b), added subsec. (f) and struck out former subsec. (f) which related to assignment of responsibility for nutrition education to the Cooperative Extension Service, in cooperation with the Food and Nutrition Service, and grants to eligible private nonprofit organizations and State agencies to direct a collaborative effort to coordinate and integrate nutrition education into other programs available to food stamp program participants and other low-income households.
+Subsec. (f). Pub. L. 110–246, § 4111(b), added subsec. (f) and struck out former subsec. (f) which related to assignment of responsibility for nutrition education to the Cooperative Extension Service, in cooperation with the Food and Nutrition Service, and grants to eligible private nonprofit organizations and State agencies to direct a collaborative effort to coordinate and integrate nutrition education into other programs available to food stamp program participants and other low-income households.
 
-Subsec. (f)(1). Pub. L. 110–246, § 7511(c)(5), which directed substitution of “National Institute of Food and Agriculture” for “Cooperative Extension Service”, could not be executed because “Cooperative Extension Service” did not appear subsequent to amendment by Pub. L. 110–246, § 4111(b). See above and Effective Date of 2008 Amendment note below.
+Subsec. (f)(1). Pub. L. 110–246, § 7511(c)(5), which directed substitution of “National Institute of Food and Agriculture” for “Cooperative Extension Service”, could not be executed because “Cooperative Extension Service” did not appear subsequent to amendment by Pub. L. 110–246, § 4111(b). See above and Effective Date of 2008 Amendment note below.
 
-Subsec. (h). Pub. L. 110–246, § 4115(b)(8)(C), substituted “benefits” for “coupon or coupons”.
+Subsec. (h). Pub. L. 110–246, § 4115(b)(8)(C), substituted “benefits” for “coupon or coupons”.
 
-Subsec. (k). Pub. L. 110–246, § 4002(a)(6)(B), substituted “may provide, on request by the State agency, supplemental nutrition assistance program benefits” for “may issue, upon request by the State agency, food stamps”.
+Subsec. (k). Pub. L. 110–246, § 4002(a)(6)(B), substituted “may provide, on request by the State agency, supplemental nutrition assistance program benefits” for “may issue, upon request by the State agency, food stamps”.
 
-Subsec. (*l*). Pub. L. 110–246, § 4002(a)(6)(C), substituted “supplemental nutrition assistance program participation” for “food stamp participation”.
+Subsec. (*l*). Pub. L. 110–246, § 4002(a)(6)(C), substituted “supplemental nutrition assistance program participation” for “food stamp participation”.
 
-Subsec. (n). Pub. L. 110–246, § 4115(b)(8)(E), substituted “both benefits and benefits or payments” for “both coupons and benefits or payments” and “both benefits and assistance provided in lieu of benefits” for “both coupons and assistance provided in lieu of coupons”.
+Subsec. (n). Pub. L. 110–246, § 4115(b)(8)(E), substituted “both benefits and benefits or payments” for “both coupons and benefits or payments” and “both benefits and assistance provided in lieu of benefits” for “both coupons and assistance provided in lieu of coupons”.
 
-Subsec. (q). Pub. L. 110–246, § 4115(b)(8)(F), substituted “subsection (e)(18)(B)” for “subsection (e)(20)(B)”.
+Subsec. (q). Pub. L. 110–246, § 4115(b)(8)(F), substituted “subsection (e)(18)(B)” for “subsection (e)(20)(B)”.
 
-Pub. L. 110–246, § 4002(a)(6)(D), substituted “benefits” for “food stamps” in heading.
+Pub. L. 110–246, § 4002(a)(6)(D), substituted “benefits” for “food stamps” in heading.
 
-Subsec. (r). Pub. L. 110–246, § 4002(a)(6)(D), substituted “benefits” for “food stamps” in heading.
+Subsec. (r). Pub. L. 110–246, § 4002(a)(6)(D), substituted “benefits” for “food stamps” in heading.
 
-Subsec. (s)(1). Pub. L. 110–246, § 4106, designated part of existing provisions as subpar. (A) and added subpar. (B).
+Subsec. (s)(1). Pub. L. 110–246, § 4106, designated part of existing provisions as subpar. (A) and added subpar. (B).
 
-Pub. L. 110–246, § 4002(a)(6)(E), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
+Pub. L. 110–246, § 4002(a)(6)(E), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
 
-Subsec. (s)(2), (3). Pub. L. 110–246, § 4002(a)(6)(E), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
+Subsec. (s)(2), (3). Pub. L. 110–246, § 4002(a)(6)(E), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
 
-Subsec. (t)(1). Pub. L. 110–246, § 4406(a)(2), substituted “Subject to the availability of appropriations under section 2027(a) of this title, for each fiscal year” for “For each of fiscal years 2003 through 2007”.
+Subsec. (t)(1). Pub. L. 110–246, § 4406(a)(2), substituted “Subject to the availability of appropriations under section 2027(a) of this title, for each fiscal year” for “For each of fiscal years 2003 through 2007”.
 
-Pub. L. 110–246, § 4002(a)(6)(F), substituted “supplemental nutrition assistance program application” for “food stamp application” in subpar. (A) and “supplemental nutrition assistance program benefits” for “food stamp benefits” in subpar. (B).
+Pub. L. 110–246, § 4002(a)(6)(F), substituted “supplemental nutrition assistance program application” for “food stamp application” in subpar. (A) and “supplemental nutrition assistance program benefits” for “food stamp benefits” in subpar. (B).
 
 2004—Subsec. (u). Pub. L. 108–265 added subsec. (u).
 
-2002—Subsec. (e)(2)(B)(ii). Pub. L. 107–171, § 4114(a), designated existing provisions as subcl. (I) and added subcl. (II).
+2002—Subsec. (e)(2)(B)(ii). Pub. L. 107–171, § 4114(a), designated existing provisions as subcl. (I) and added subcl. (II).
 
-Subsec. (s). Pub. L. 107–171, § 4115(a), added subsec. (s).
+Subsec. (s). Pub. L. 107–171, § 4115(a), added subsec. (s).
 
-Subsec. (t). Pub. L. 107–171, § 4116(a), added subsec. (t).
+Subsec. (t). Pub. L. 107–171, § 4116(a), added subsec. (t).
 
 1998—Subsec. (r). Pub. L. 105–379 added subsec. (r).
 
-1997—Subsec. (e)(8)(E). Pub. L. 105–33, § 1003(a)(2), substituted “paragraph (16) or (20)(B)” for “paragraph (16)”.
+1997—Subsec. (e)(8)(E). Pub. L. 105–33, § 1003(a)(2), substituted “paragraph (16) or (20)(B)” for “paragraph (16)”.
 
-Subsec. (e)(20). Pub. L. 105–33, § 1003(a)(1), added par. (20) and struck out former par. (20) which read as follows: “that the State agency shall establish a system and take action on a periodic basis to verify and otherwise assure that an individual does not receive coupons in more than one jurisdiction within the State;”.
+Subsec. (e)(20). Pub. L. 105–33, § 1003(a)(1), added par. (20) and struck out former par. (20) which read as follows: “that the State agency shall establish a system and take action on a periodic basis to verify and otherwise assure that an individual does not receive coupons in more than one jurisdiction within the State;”.
 
-Subsec. (f). Pub. L. 105–33, § 1004, inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
+Subsec. (f). Pub. L. 105–33, § 1004, inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
-Subsec. (q). Pub. L. 105–33, § 1003(b), added subsec. (q).
+Subsec. (q). Pub. L. 105–33, § 1003(b), added subsec. (q).
 
-1996—Subsec. (e)(2). Pub. L. 104–193, § 835(1)(A), added par. (2) and struck out former par. (2) which required that each State plan of operation was to provide that each household which contacted food stamp office in person during office hours to make what could reasonably be interpreted as oral or written request for food stamp assistance was to receive and be permitted to file, on same day that such contact was first made, simplified, uniform national application form for participation in food stamp program.
+1996—Subsec. (e)(2). Pub. L. 104–193, § 835(1)(A), added par. (2) and struck out former par. (2) which required that each State plan of operation was to provide that each household which contacted food stamp office in person during office hours to make what could reasonably be interpreted as oral or written request for food stamp assistance was to receive and be permitted to file, on same day that such contact was first made, simplified, uniform national application form for participation in food stamp program.
 
-Subsec. (e)(3). Pub. L. 104–193, §§ 809(b), 835(1)(B), substituted “shall” for “shall—” after “and that the State agency”, struck out “(A)” before “provide each applicant household” and struck out subpars. (B) to (E) and concluding provisions which provided that State agency was to assist each applicant household in obtaining appropriate verification and completing application process, not require any household to submit additional proof of matter on which State agency already had current verification, not deny any application for participation solely because of failure of person outside household to cooperate, process applications if household complied with requirements of first sentence of section 2015(c) of this title by taking appropriate steps to verify information otherwise required to be verified under this chapter, provide household, at time of each certification and recertification, with statement describing reporting responsibilities of household under this chapter, and provide toll-free or local telephone number, or telephone number at which collect calls would be accepted by State agency, at which household could reach appropriate representative of State agency.
+Subsec. (e)(3). Pub. L. 104–193, §§ 809(b), 835(1)(B), substituted “shall” for “shall—” after “and that the State agency”, struck out “(A)” before “provide each applicant household” and struck out subpars. (B) to (E) and concluding provisions which provided that State agency was to assist each applicant household in obtaining appropriate verification and completing application process, not require any household to submit additional proof of matter on which State agency already had current verification, not deny any application for participation solely because of failure of person outside household to cooperate, process applications if household complied with requirements of first sentence of section 2015(c) of this title by taking appropriate steps to verify information otherwise required to be verified under this chapter, provide household, at time of each certification and recertification, with statement describing reporting responsibilities of household under this chapter, and provide toll-free or local telephone number, or telephone number at which collect calls would be accepted by State agency, at which household could reach appropriate representative of State agency.
 
-Subsec. (e)(6). Pub. L. 104–193, § 836, substituted “(6) that—” for “(6) that”, realigned margins of subpars. (A) and (B), in subpar. (B) substituted “Office of Personnel Management” for “United States Civil Service Commission”, and struck out subpars. (C) to (E) which read as follows: “(C) the State agency shall provide a continuing, comprehensive program of training for all personnel undertaking such certification so that eligible households are promptly and accurately certified to receive the allotments for which they are eligible under this chapter; (D) the State agency, at its option, may undertake intensive training to ensure that State agency personnel who undertake the certification of households that include a member who engages in farming are qualified to perform such certification; and (E) at its option, the State agency may provide, or contract for the provision of, training and assistance to persons working with volunteer or nonprofit organizations that provide program information activities or eligibility screening to persons potentially eligible for food stamps;”.
+Subsec. (e)(6). Pub. L. 104–193, § 836, substituted “(6) that—” for “(6) that”, realigned margins of subpars. (A) and (B), in subpar. (B) substituted “Office of Personnel Management” for “United States Civil Service Commission”, and struck out subpars. (C) to (E) which read as follows: “(C) the State agency shall provide a continuing, comprehensive program of training for all personnel undertaking such certification so that eligible households are promptly and accurately certified to receive the allotments for which they are eligible under this chapter; (D) the State agency, at its option, may undertake intensive training to ensure that State agency personnel who undertake the certification of households that include a member who engages in farming are qualified to perform such certification; and (E) at its option, the State agency may provide, or contract for the provision of, training and assistance to persons working with volunteer or nonprofit organizations that provide program information activities or eligibility screening to persons potentially eligible for food stamps;”.
 
-Subsec. (e)(8). Pub. L. 104–193, §§ 837, 844(b), in introductory provisions, substituted “except that—” for “except that”, in subpar. (A), realigned margin, substituted “the safeguards” for “such safeguards” and semicolon for comma at end, in subpar. (B), realigned margin and substituted “chapter;” for “chapter, and”, in subpar. (C), realigned margin, substituted “the safeguards” for “such safeguards”, struck out “and excluding claims arising from an error of the State agency, that has not been recovered pursuant to such section” before “, from Federal pay”, and inserted before semicolon at end “or a Federal income tax refund as authorized by section 3720A of title 31”, and added subpars. (D) and (E).
+Subsec. (e)(8). Pub. L. 104–193, §§ 837, 844(b), in introductory provisions, substituted “except that—” for “except that”, in subpar. (A), realigned margin, substituted “the safeguards” for “such safeguards” and semicolon for comma at end, in subpar. (B), realigned margin and substituted “chapter;” for “chapter, and”, in subpar. (C), realigned margin, substituted “the safeguards” for “such safeguards”, struck out “and excluding claims arising from an error of the State agency, that has not been recovered pursuant to such section” before “, from Federal pay”, and inserted before semicolon at end “or a Federal income tax refund as authorized by section 3720A of title 31”, and added subpars. (D) and (E).
 
-Subsec. (e)(9). Pub. L. 104–193, § 838, in subpar. (A), substituted “7 days” for “five days”, redesignated subpar. (C) as (B), substituted “7 days” for “five days”, and struck out former subpar. (B) which read as follows: “provide coupons no later than five days after the date of application to any household in which all members are homeless individuals and that meets the income and resource criteria for coupons under this chapter;”, and redesignated subpar. (D) as (C) and substituted “or (B)” for “, (B), or (C)”.
+Subsec. (e)(9). Pub. L. 104–193, § 838, in subpar. (A), substituted “7 days” for “five days”, redesignated subpar. (C) as (B), substituted “7 days” for “five days”, and struck out former subpar. (B) which read as follows: “provide coupons no later than five days after the date of application to any household in which all members are homeless individuals and that meets the income and resource criteria for coupons under this chapter;”, and redesignated subpar. (D) as (C) and substituted “or (B)” for “, (B), or (C)”.
 
-Subsec. (e)(10). Pub. L. 104–193, § 839, inserted before semicolon at end a period and “At the option of a State, at any time prior to a fair hearing determination under this paragraph, a household may withdraw, orally or in writing, a request by the household for the fair hearing. If the withdrawal request is an oral request, the State agency shall provide a written notice to the household confirming the withdrawal request and providing the household with an opportunity to request a hearing”.
+Subsec. (e)(10). Pub. L. 104–193, § 839, inserted before semicolon at end a period and “At the option of a State, at any time prior to a fair hearing determination under this paragraph, a household may withdraw, orally or in writing, a request by the household for the fair hearing. If the withdrawal request is an oral request, the State agency shall provide a written notice to the household confirming the withdrawal request and providing the household with an opportunity to request a hearing”.
 
-Subsec. (e)(14). Pub. L. 104–193, § 835(1)(C), (D)(i), redesignated par. (15) as (14) and struck out former par. (14) which read as follows: “that the State agency shall prominently display in all food stamp and public assistance offices posters prepared or obtained by the Secretary describing the information contained in subparagraphs (A) through (D) of this paragraph and shall make available in such offices for home use pamphlets prepared or obtained by the Secretary listing (A) foods that contain substantial amounts of recommended daily allowances of vitamins, minerals, and protein for children and adults; (B) menus that combine such foods into meals; (C) details on eligibility for other programs administered by the Secretary that provide nutrition benefits; and (D) general information on the relationship between health and diet;”.
+Subsec. (e)(14). Pub. L. 104–193, § 835(1)(C), (D)(i), redesignated par. (15) as (14) and struck out former par. (14) which read as follows: “that the State agency shall prominently display in all food stamp and public assistance offices posters prepared or obtained by the Secretary describing the information contained in subparagraphs (A) through (D) of this paragraph and shall make available in such offices for home use pamphlets prepared or obtained by the Secretary listing (A) foods that contain substantial amounts of recommended daily allowances of vitamins, minerals, and protein for children and adults; (B) menus that combine such foods into meals; (C) details on eligibility for other programs administered by the Secretary that provide nutrition benefits; and (D) general information on the relationship between health and diet;”.
 
-Subsec. (e)(15) to (17). Pub. L. 104–193, § 835(1)(D)(i), redesignated pars. (16) to (18) as (15) to (17), respectively. Former par. (15) redesignated (14).
+Subsec. (e)(15) to (17). Pub. L. 104–193, § 835(1)(D)(i), redesignated pars. (16) to (18) as (15) to (17), respectively. Former par. (15) redesignated (14).
 
-Subsec. (e)(18). Pub. L. 104–193, § 840, substituted “at the option of the State agency, that information may be” for “that information is” and “may be requested” for “shall be requested”.
+Subsec. (e)(18). Pub. L. 104–193, § 840, substituted “at the option of the State agency, that information may be” for “that information is” and “may be requested” for “shall be requested”.
 
-Pub. L. 104–193, § 835(1)(D)(i), redesignated par. (19) as (18). Former par. (18) redesignated (17).
+Pub. L. 104–193, § 835(1)(D)(i), redesignated par. (19) as (18). Former par. (18) redesignated (17).
 
-Subsec. (e)(19) to (22). Pub. L. 104–193, § 835(1)(D)(i), redesignated pars. (20) to (23) as (19) to (22), respectively. Former par. (19) redesignated (18).
+Subsec. (e)(19) to (22). Pub. L. 104–193, § 835(1)(D)(i), redesignated pars. (20) to (23) as (19) to (22), respectively. Former par. (19) redesignated (18).
 
-Subsec. (e)(23). Pub. L. 104–193, §§ 819(b)(1), 835(1)(D)(i), redesignated par. (24) as (23) and struck out “and” at end. Former par. (23) redesignated (22).
+Subsec. (e)(23). Pub. L. 104–193, §§ 819(b)(1), 835(1)(D)(i), redesignated par. (24) as (23) and struck out “and” at end. Former par. (23) redesignated (22).
 
-Subsec. (e)(24). Pub. L. 104–193, § 835(1)(D)(ii), redesignated par. (26) as (24). Former par. (24) redesignated (23).
+Subsec. (e)(24). Pub. L. 104–193, § 835(1)(D)(ii), redesignated par. (26) as (24). Former par. (24) redesignated (23).
 
-Subsec. (e)(25). Pub. L. 104–193, § 854(b), added par. (25).
+Subsec. (e)(25). Pub. L. 104–193, § 854(b), added par. (25).
 
-Pub. L. 104–193, §§ 819(b)(2), 835(1)(C), substituted semicolon for concluding period and struck out par. (25) which read as follows: “a procedure for designating project areas or parts of project areas that are rural and in which low-income persons face substantial difficulties in obtaining transportation. The State agency shall designate the areas according to procedures approved by the Secretary. In each area so designated, the State agency shall provide for the issuance of coupons by mail to all eligible households in the area, except that any household with mail losses exceeding levels established by the Secretary shall not be entitled to such a mailing and the State agency shall not be required to issue coupons by mail in those localities within such area where the mail loss rates exceed standards set by the Secretary.”
+Pub. L. 104–193, §§ 819(b)(2), 835(1)(C), substituted semicolon for concluding period and struck out par. (25) which read as follows: “a procedure for designating project areas or parts of project areas that are rural and in which low-income persons face substantial difficulties in obtaining transportation. The State agency shall designate the areas according to procedures approved by the Secretary. In each area so designated, the State agency shall provide for the issuance of coupons by mail to all eligible households in the area, except that any household with mail losses exceeding levels established by the Secretary shall not be entitled to such a mailing and the State agency shall not be required to issue coupons by mail in those localities within such area where the mail loss rates exceed standards set by the Secretary.”
 
-Subsec. (e)(26). Pub. L. 104–193, § 835(1)(D)(ii), redesignated par. (26) as (24).
+Subsec. (e)(26). Pub. L. 104–193, § 835(1)(D)(ii), redesignated par. (26) as (24).
 
-Pub. L. 104–193, § 819(b)(3), added par. (26).
+Pub. L. 104–193, § 819(b)(3), added par. (26).
 
-Subsec. (g). Pub. L. 104–193, § 848(b)(1), in first sentence, struck out “the Secretary’s standards for the efficient and effective administration of the program established under section 2025(b)(1) of this title or” before “the requirements established pursuant to section 2032”.
+Subsec. (g). Pub. L. 104–193, § 848(b)(1), in first sentence, struck out “the Secretary’s standards for the efficient and effective administration of the program established under section 2025(b)(1) of this title or” before “the requirements established pursuant to section 2032”.
 
-Subsec. (i). Pub. L. 104–193, § 835(2)(A), inserted subsec. heading.
+Subsec. (i). Pub. L. 104–193, § 835(2)(A), inserted subsec. heading.
 
-Subsec. (i)(1). Pub. L. 104–193, § 835(2)(A), designated portion of existing provisions as par. (1), inserted heading, and substituted “Notwithstanding any other provision of law,” for “Notwithstanding any other provision of law, the Secretary, the Commissioner of Social Security and the Secretary of Health and Human Services shall develop a system by which (1) a single interview shall be conducted to determine eligibility for the food stamp program and the aid to families with dependent children program under part A of title IV of the Social Security Act; (2)”.
+Subsec. (i)(1). Pub. L. 104–193, § 835(2)(A), designated portion of existing provisions as par. (1), inserted heading, and substituted “Notwithstanding any other provision of law,” for “Notwithstanding any other provision of law, the Secretary, the Commissioner of Social Security and the Secretary of Health and Human Services shall develop a system by which (1) a single interview shall be conducted to determine eligibility for the food stamp program and the aid to families with dependent children program under part A of title IV of the Social Security Act; (2)”.
 
-Subsec. (i)(2). Pub. L. 104–193, § 835(2)(B), substituted a period, par. (2) designation, heading, and “Except in a case of disqualification as a penalty for failure to comply with a public assistance program rule or regulation, no” for “; (3) households in which all members are included in a federally aided public assistance or State or local general assistance grant in a State that has a single State-wide general assistance application form shall have their application for participation in the food stamp program contained in the public assistance or general assistance application form, and households applying for a local general assistance grant in a local jurisdiction in which the agency administering the general assistance program also administers the food stamp program shall be provided an application for participation in the food stamp program at the time of their application for general assistance, along with information concerning how to apply for the food stamp program; and (4) new applicants, as well as households which have recently lost or been denied eligibility for public assistance or general assistance, shall be certified for participation in the food stamp program based on information in the public assistance or general assistance case file to the extent that reasonably verified information is available in such case file. In addition to implementing paragraphs (1) through (4), the State agency shall inform applicants for benefits under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) that such applicants may file, along with their application for such benefits, an application for benefits under this chapter, and that if such applicants file, they shall have a single interview for food stamps and for benefits under part A of title IV of the Social Security Act. No”.
+Subsec. (i)(2). Pub. L. 104–193, § 835(2)(B), substituted a period, par. (2) designation, heading, and “Except in a case of disqualification as a penalty for failure to comply with a public assistance program rule or regulation, no” for “; (3) households in which all members are included in a federally aided public assistance or State or local general assistance grant in a State that has a single State-wide general assistance application form shall have their application for participation in the food stamp program contained in the public assistance or general assistance application form, and households applying for a local general assistance grant in a local jurisdiction in which the agency administering the general assistance program also administers the food stamp program shall be provided an application for participation in the food stamp program at the time of their application for general assistance, along with information concerning how to apply for the food stamp program; and (4) new applicants, as well as households which have recently lost or been denied eligibility for public assistance or general assistance, shall be certified for participation in the food stamp program based on information in the public assistance or general assistance case file to the extent that reasonably verified information is available in such case file. In addition to implementing paragraphs (1) through (4), the State agency shall inform applicants for benefits under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) that such applicants may file, along with their application for such benefits, an application for benefits under this chapter, and that if such applicants file, they shall have a single interview for food stamps and for benefits under part A of title IV of the Social Security Act. No”.
 
-Subsec. (p). Pub. L. 104–193, § 840(2), added subsec. (p).
+Subsec. (p). Pub. L. 104–193, § 840(2), added subsec. (p).
 
-1995—Subsec. (*l*). Pub. L. 104–66 struck out “, and shall, upon completion of the audit, provide a report to Congress of its findings and recommendations within one hundred and eighty days” after “within that State” in first sentence.
+1995—Subsec. (*l*). Pub. L. 104–66 struck out “, and shall, upon completion of the audit, provide a report to Congress of its findings and recommendations within one hundred and eighty days” after “within that State” in first sentence.
 
-1994—Subsec. (i). Pub. L. 103–296, § 108(f)(3), inserted “, the Commissioner of Social Security” after “the Secretary” in first sentence.
+1994—Subsec. (i). Pub. L. 103–296, § 108(f)(3), inserted “, the Commissioner of Social Security” after “the Secretary” in first sentence.
 
-Subsec. (j). Pub. L. 103–296, § 108(f)(2), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” wherever appearing.
+Subsec. (j). Pub. L. 103–296, § 108(f)(2), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” wherever appearing.
 
 1993—Subsec. (e)(8)(C). Pub. L. 103–66 added cl. (C).
 
-1991—Subsec. (b). Pub. L. 102–237, § 941(6), redesignated subsec. (p) as (b) and transferred it to follow subsec. (a).
+1991—Subsec. (b). Pub. L. 102–237, § 941(6), redesignated subsec. (p) as (b) and transferred it to follow subsec. (a).
 
-Subsec. (e)(2). Pub. L. 102–237, § 941(5)(A), substituted a semicolon for period at end.
+Subsec. (e)(2). Pub. L. 102–237, § 941(5)(A), substituted a semicolon for period at end.
 
-Subsec. (e)(3)(D). Pub. L. 102–237, § 941(5)(B)(i), substituted “section 2015 of this title)” for “section 2015 of this title”.
+Subsec. (e)(3)(D). Pub. L. 102–237, § 941(5)(B)(i), substituted “section 2015 of this title)” for “section 2015 of this title”.
 
-Subsec. (e)(3)(E). Pub. L. 102–237, § 941(5)(B)(ii), made technical amendment to clarify alignment of margin of concluding provisions.
+Subsec. (e)(3)(E). Pub. L. 102–237, § 941(5)(B)(ii), made technical amendment to clarify alignment of margin of concluding provisions.
 
-Subsec. (e)(15). Pub. L. 102–237, § 941(5)(C), substituted a semicolon for period at end.
+Subsec. (e)(15). Pub. L. 102–237, § 941(5)(C), substituted a semicolon for period at end.
 
-Subsec. (p). Pub. L. 102–237, § 941(6), redesignated subsec. (p) as (b) and transferred it to follow subsec. (a).
+Subsec. (p). Pub. L. 102–237, § 941(6), redesignated subsec. (p) as (b) and transferred it to follow subsec. (a).
 
-1990—Subsec. (e)(2). Pub. L. 101–624, § 1736(1), substituted “on or near its front cover) explanations” for “instructions” in third sentence.
+1990—Subsec. (e)(2). Pub. L. 101–624, § 1736(1), substituted “on or near its front cover) explanations” for “instructions” in third sentence.
 
-Pub. L. 101–624, § 1736(2), substituted “The State agency shall require that an adult representative of each household that is applying for food stamp benefits shall certify in writing, under penalty of perjury, that the information contained in the application is true and that all members of the household are either citizens or are aliens eligible to receive food stamps under section 2015(f) of this title. The signature of the adult under this section shall be deemed sufficient to comply with any provision of Federal law requiring household members to sign the application or statements in connection with the application process.” for “One adult member of a household that is applying for a coupon allotment shall be required to certify in writing, under penalty of perjury, the truth of the information contained in the application for the allotment.”
+Pub. L. 101–624, § 1736(2), substituted “The State agency shall require that an adult representative of each household that is applying for food stamp benefits shall certify in writing, under penalty of perjury, that the information contained in the application is true and that all members of the household are either citizens or are aliens eligible to receive food stamps under section 2015(f) of this title. The signature of the adult under this section shall be deemed sufficient to comply with any provision of Federal law requiring household members to sign the application or statements in connection with the application process.” for “One adult member of a household that is applying for a coupon allotment shall be required to certify in writing, under penalty of perjury, the truth of the information contained in the application for the allotment.”
 
-Subsec. (e)(3)(E). Pub. L. 101–624, § 1737, inserted before semicolon at end a period followed by “Under rules prescribed by the Secretary, a State agency shall develop standard estimates of the shelter expenses that may reasonably be expected to be incurred by households in which all members are homeless but that are not receiving free shelter throughout the month. The Secretary may issue regulations to preclude the use of the estimates for households with extremely low shelter costs for whom the following sentence shall not apply. A State agency shall use the estimates in determining the allotments of the households, unless a household verifies higher expenses”.
+Subsec. (e)(3)(E). Pub. L. 101–624, § 1737, inserted before semicolon at end a period followed by “Under rules prescribed by the Secretary, a State agency shall develop standard estimates of the shelter expenses that may reasonably be expected to be incurred by households in which all members are homeless but that are not receiving free shelter throughout the month. The Secretary may issue regulations to preclude the use of the estimates for households with extremely low shelter costs for whom the following sentence shall not apply. A State agency shall use the estimates in determining the allotments of the households, unless a household verifies higher expenses”.
 
-Subsec. (e)(21). Pub. L. 101–624, § 1738(1), struck out “and” after “within the State;”.
+Subsec. (e)(21). Pub. L. 101–624, § 1738(1), struck out “and” after “within the State;”.
 
-Subsec. (e)(22). Pub. L. 101–624, § 1738(2), substituted semicolon for period at end.
+Subsec. (e)(22). Pub. L. 101–624, § 1738(2), substituted semicolon for period at end.
 
-Subsec. (e)(25). Pub. L. 101–624, § 1738(3)–(5), added par. (25).
+Subsec. (e)(25). Pub. L. 101–624, § 1738(3)–(5), added par. (25).
 
-Subsec. (f). Pub. L. 101–624, § 1739, inserted first sentence and struck out former first sentence which read as follows: “To encourage the purchase of nutritious foods, the Secretary is authorized to extend food and nutrition education to reach food stamp program participants, using the methods and techniques developed in the expanded food and nutrition education and other programs.”
+Subsec. (f). Pub. L. 101–624, § 1739, inserted first sentence and struck out former first sentence which read as follows: “To encourage the purchase of nutritious foods, the Secretary is authorized to extend food and nutrition education to reach food stamp program participants, using the methods and techniques developed in the expanded food and nutrition education and other programs.”
 
-Subsec. (g). Pub. L. 101–624, § 1763(b), inserted “or the requirements established pursuant to section 2032 of this title” after “section 2025(b)(1) of this title” in first sentence.
+Subsec. (g). Pub. L. 101–624, § 1763(b), inserted “or the requirements established pursuant to section 2032 of this title” after “section 2025(b)(1) of this title” in first sentence.
 
-Subsec. (i)(3). Pub. L. 101–624, § 1740, inserted “in a State that has a single State-wide general assistance application form” after “grant” and inserted before semicolon at end “, and households applying for a local general assistance grant in a local jurisdiction in which the agency administering the general assistance program also administers the food stamp program shall be provided an application for participation in the food stamp program at the time of their application for general assistance, along with information concerning how to apply for the food stamp program”.
+Subsec. (i)(3). Pub. L. 101–624, § 1740, inserted “in a State that has a single State-wide general assistance application form” after “grant” and inserted before semicolon at end “, and households applying for a local general assistance grant in a local jurisdiction in which the agency administering the general assistance program also administers the food stamp program shall be provided an application for participation in the food stamp program at the time of their application for general assistance, along with information concerning how to apply for the food stamp program”.
 
-Subsec. (j)(1). Pub. L. 101–624, § 1741, inserted “supplemental security income or” after “recipient of”.
+Subsec. (j)(1). Pub. L. 101–624, § 1741, inserted “supplemental security income or” after “recipient of”.
 
-1988—Subsec. (e)(1)(A). Pub. L. 100–435, § 204(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “not conduct food stamp outreach activities with funds provided under this chapter except, at the option of the State agency, food stamp informational activities directed at homeless individuals; and”.
+1988—Subsec. (e)(1)(A). Pub. L. 100–435, § 204(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “not conduct food stamp outreach activities with funds provided under this chapter except, at the option of the State agency, food stamp informational activities directed at homeless individuals; and”.
 
-Subsec. (e)(2). Pub. L. 100–435, § 310, inserted provisions relating to brief, simply-written, and readable application forms.
+Subsec. (e)(2). Pub. L. 100–435, § 310, inserted provisions relating to brief, simply-written, and readable application forms.
 
-Pub. L. 100–435, § 330, substituted “The State agency shall waive in-office interviews, on a household’s request, if a household is unable to appoint an authorized representative pursuant to paragraph (7) and has no adult household members able to come to the appropriate State agency office because such members are elderly, are mentally or physically handicapped, live in a location not served by a certification office, or have transportation difficulties or similar hardships as determined by the State agency (including hardships due to residing in a rural area, illness, care of a household member, prolonged severe weather, or work or training hours). If an in-office interview is waived, the State agency may conduct a telephone interview or a home visit. The State agency shall provide for telephone contact by, mail delivery of forms to, and mail return of forms by, households that have transportation difficulties or similar hardships.” for “The State agency shall comply with the standards established by the Secretary for telephone contact by, mail delivery of forms to and mail return of forms by, and subsequent home or telephone interview with, the elderly, physically or mentally handicapped, and persons otherwise unable, solely because of transportation difficulties and similar hardships, to appear in person at a certification office or through a representative pursuant to paragraph (7) of this subsection, so that such persons may have an adequate opportunity to be certified properly;”.
+Pub. L. 100–435, § 330, substituted “The State agency shall waive in-office interviews, on a household’s request, if a household is unable to appoint an authorized representative pursuant to paragraph (7) and has no adult household members able to come to the appropriate State agency office because such members are elderly, are mentally or physically handicapped, live in a location not served by a certification office, or have transportation difficulties or similar hardships as determined by the State agency (including hardships due to residing in a rural area, illness, care of a household member, prolonged severe weather, or work or training hours). If an in-office interview is waived, the State agency may conduct a telephone interview or a home visit. The State agency shall provide for telephone contact by, mail delivery of forms to, and mail return of forms by, households that have transportation difficulties or similar hardships.” for “The State agency shall comply with the standards established by the Secretary for telephone contact by, mail delivery of forms to and mail return of forms by, and subsequent home or telephone interview with, the elderly, physically or mentally handicapped, and persons otherwise unable, solely because of transportation difficulties and similar hardships, to appear in person at a certification office or through a representative pursuant to paragraph (7) of this subsection, so that such persons may have an adequate opportunity to be certified properly;”.
 
-Subsec. (e)(3). Pub. L. 100–435, § 323, inserted provisions at end relating to dissemination of statements describing reporting responsibilities and telephone number to call State agency.
+Subsec. (e)(3). Pub. L. 100–435, § 323, inserted provisions at end relating to dissemination of statements describing reporting responsibilities and telephone number to call State agency.
 
-Pub. L. 100–435, § 311, inserted cls. (A) to (E).
+Pub. L. 100–435, § 311, inserted cls. (A) to (E).
 
-Subsec. (e)(6)(C). Pub. L. 100–435, § 322(a), substituted “shall provide” for “shall undertake to provide” and inserted “so that eligible households are promptly and accurately certified to receive the allotments for which they are eligible under this chapter” after “such certification”.
+Subsec. (e)(6)(C). Pub. L. 100–435, § 322(a), substituted “shall provide” for “shall undertake to provide” and inserted “so that eligible households are promptly and accurately certified to receive the allotments for which they are eligible under this chapter” after “such certification”.
 
-Subsec. (e)(6)(D). Pub. L. 100–435, § 321(a), added cl. (D).
+Subsec. (e)(6)(D). Pub. L. 100–435, § 321(a), added cl. (D).
 
-Subsec. (e)(6)(E). Pub. L. 100–435, § 322(b), added cl. (E).
+Subsec. (e)(6)(E). Pub. L. 100–435, § 322(b), added cl. (E).
 
-Subsec. (i). Pub. L. 100–435, § 352, amended second sentence generally. Prior to amendment, second sentence read as follows: “Each State agency shall implement clauses (1) and (2) and may implement clause (3) or (4), or both such clauses.”
+Subsec. (i). Pub. L. 100–435, § 352, amended second sentence generally. Prior to amendment, second sentence read as follows: “Each State agency shall implement clauses (1) and (2) and may implement clause (3) or (4), or both such clauses.”
 
-Subsec. (p). Pub. L. 100–435, § 320, added subsec. (p).
+Subsec. (p). Pub. L. 100–435, § 320, added subsec. (p).
 
-1987—Subsec. (e)(1)(A). Pub. L. 100–77, § 808(a), inserted “except, at the option of the State agency, food stamp informational activities directed at homeless individuals” after “this chapter”.
+1987—Subsec. (e)(1)(A). Pub. L. 100–77, § 808(a), inserted “except, at the option of the State agency, food stamp informational activities directed at homeless individuals” after “this chapter”.
 
-Subsec. (e)(9). Pub. L. 100–77, § 809(a), added subpars. (B) and (C), redesignated former subpar. (B) as (D), and directed the substitution of “a household referred to in subparagraph (A), (B), or (C)” for “the household” which was executed by making the substitution for the first reference to “the household” as the probable intent of Congress.
+Subsec. (e)(9). Pub. L. 100–77, § 809(a), added subpars. (B) and (C), redesignated former subpar. (B) as (D), and directed the substitution of “a household referred to in subparagraph (A), (B), or (C)” for “the household” which was executed by making the substitution for the first reference to “the household” as the probable intent of Congress.
 
-1985—Subsec. (e)(2). Pub. L. 99–198, § 1529, inserted provision directing the State agency to provide a method of certifying and issuing coupons to eligible households that do not reside in permanent dwellings or who do not have fixed mailing addresses and to take such steps as are necessary to ensure that participation in the food stamp program is limited to eligible households.
+1985—Subsec. (e)(2). Pub. L. 99–198, § 1529, inserted provision directing the State agency to provide a method of certifying and issuing coupons to eligible households that do not reside in permanent dwellings or who do not have fixed mailing addresses and to take such steps as are necessary to ensure that participation in the food stamp program is limited to eligible households.
 
-Pub. L. 99–198, § 1525, inserted requirement that one adult member of a household that is applying for a coupon allotment certify in writing, under penalty of perjury, the truth of the information contained in the application for the allotment.
+Pub. L. 99–198, § 1525, inserted requirement that one adult member of a household that is applying for a coupon allotment certify in writing, under penalty of perjury, the truth of the information contained in the application for the allotment.
 
-Subsec. (e)(3). Pub. L. 99–198, § 1527, struck out “only” after “verification”, inserted “, household size (in any case such size is questionable,”, and substituted “such other eligibility factors as the State agency determines are necessary” for “any factors of eligibility involving households that fall within the State agency’s error-prone household profiles as developed by the State agency from the error rate reduction system conducted under section 2025 of this title and as approved by the Secretary”.
+Subsec. (e)(3). Pub. L. 99–198, § 1527, struck out “only” after “verification”, inserted “, household size (in any case such size is questionable,”, and substituted “such other eligibility factors as the State agency determines are necessary” for “any factors of eligibility involving households that fall within the State agency’s error-prone household profiles as developed by the State agency from the error rate reduction system conducted under section 2025 of this title and as approved by the Secretary”.
 
-Subsec. (e)(16). Pub. L. 99–198, § 1528, substituted “fourth sentence” for “last sentence”, inserted “and would be cost effective” after “integrity”, and inserted provision authorizing the State agency to permit a member of a household to comply with this paragraph by presenting a photographic identification card used to receive assistance under a welfare or public assistance program.
+Subsec. (e)(16). Pub. L. 99–198, § 1528, substituted “fourth sentence” for “last sentence”, inserted “and would be cost effective” after “integrity”, and inserted provision authorizing the State agency to permit a member of a household to comply with this paragraph by presenting a photographic identification card used to receive assistance under a welfare or public assistance program.
 
-Subsec. (e)(22). Pub. L. 99–198, § 1517(b), added par. (22).
+Subsec. (e)(22). Pub. L. 99–198, § 1517(b), added par. (22).
 
-Subsec. (e)(23). Pub. L. 99–198, § 1526, added par. (23).
+Subsec. (e)(23). Pub. L. 99–198, § 1526, added par. (23).
 
-Subsec. (e)(24). Pub. L. 99–198, § 1535(b)(1), added par. (24).
+Subsec. (e)(24). Pub. L. 99–198, § 1535(b)(1), added par. (24).
 
-Subsec. (f). Pub. L. 99–198, § 1530, inserted provisions directing State agencies to encourage food stamp program participants to participate in the expanded food and nutrition education program conducted under section 343(d) of this title and any program established under sections 3175a through 3175e of this title and, at the request of personnel of such education program, allow personnel and information materials of such education program to be placed in food stamp offices.
+Subsec. (f). Pub. L. 99–198, § 1530, inserted provisions directing State agencies to encourage food stamp program participants to participate in the expanded food and nutrition education program conducted under section 343(d) of this title and any program established under sections 3175a through 3175e of this title and, at the request of personnel of such education program, allow personnel and information materials of such education program to be placed in food stamp offices.
 
-Subsec. (g). Pub. L. 99–198, § 1537(c), inserted “the State plan for automated data processing submitted pursuant to subsection (*o*)(2) of this section,” and substituted “sections 2025(a), 2025(c), and 2025(g) of this title” for “sections 2025(a) and 2025(c) of this title”.
+Subsec. (g). Pub. L. 99–198, § 1537(c), inserted “the State plan for automated data processing submitted pursuant to subsection (*o*)(2) of this section,” and substituted “sections 2025(a), 2025(c), and 2025(g) of this title” for “sections 2025(a) and 2025(c) of this title”.
 
-Subsec. (i). Pub. L. 99–198, § 1531(a), in cl. (2) of first sentence, inserted “applicants for or” after “members are” and substituted “informed of the availability of benefits under the food stamp program and be assisted in making a simple application to participate in such program” for “permitted to apply for participation in the food stamp program by executing a simple application”, effective Oct. 1, 1986.
+Subsec. (i). Pub. L. 99–198, § 1531(a), in cl. (2) of first sentence, inserted “applicants for or” after “members are” and substituted “informed of the availability of benefits under the food stamp program and be assisted in making a simple application to participate in such program” for “permitted to apply for participation in the food stamp program by executing a simple application”, effective Oct. 1, 1986.
 
-Pub. L. 99–198, § 1507(b), inserted sentence directing that no household shall have its application to participate in the food stamp program denied nor its benefits under the food stamp program terminated solely on the basis that its application to participate has been denied or its benefits have been terminated under any of the programs carried out under the statutes specified in the second sentence of section 2014(a) of this title and without a separate determination by the State agency that the household fails to satisfy the eligibility requirements for participation in the food stamp program.
+Pub. L. 99–198, § 1507(b), inserted sentence directing that no household shall have its application to participate in the food stamp program denied nor its benefits under the food stamp program terminated solely on the basis that its application to participate has been denied or its benefits have been terminated under any of the programs carried out under the statutes specified in the second sentence of section 2014(a) of this title and without a separate determination by the State agency that the household fails to satisfy the eligibility requirements for participation in the food stamp program.
 
-Subsec. (j). Pub. L. 99–198, § 1531(b), amended subsec. (j) generally, effective Oct. 1, 1986. Prior to amendment, subsec. (j) read as follows: “The Secretary, in conjunction with the Secretary of Health and Human Services, is authorized to prescribe regulations permitting applicants for and recipients of social security benefits to apply for food stamps at social security offices and be certified for food stamp eligibility in such offices in order that the application and certification for food stamp assistance may be accomplished as efficiently and conveniently as possible.”
+Subsec. (j). Pub. L. 99–198, § 1531(b), amended subsec. (j) generally, effective Oct. 1, 1986. Prior to amendment, subsec. (j) read as follows: “The Secretary, in conjunction with the Secretary of Health and Human Services, is authorized to prescribe regulations permitting applicants for and recipients of social security benefits to apply for food stamps at social security offices and be certified for food stamp eligibility in such offices in order that the application and certification for food stamp assistance may be accomplished as efficiently and conveniently as possible.”
 
-Subsec. (*o*). Pub. L. 99–198, § 1537(b), added subsec. (*o*).
+Subsec. (*o*). Pub. L. 99–198, § 1537(b), added subsec. (*o*).
 
 1984—Subsec. (e)(19). Pub. L. 98–369 amended par. (19) generally. Prior to amendment, par. (19) read as follows: “that—
 
@@ -6273,61 +6273,61 @@ Subsec. (*o*). Pub. L. 99–198, § 1537(b), added subsec. (*o*).
 
 1983—Subsec. (e)(19). Pub. L. 98–204 amended par. (19) generally. Prior to amendment, par. (19) read as follows: “that information available from the Social Security Administration under the provisions of section 6103(i)(7) of title 26, and information available from agencies administering State unemployment compensation laws under the provisions of section 303(d) of the Social Security Act, shall be requested and utilized by the State agency (described in section 2012(n)(1) of this title), to the extent permitted under the provisions of such sections, except that the State agency shall not be required to request such information from the Social Security Administration if such information is available from the agency administering the State unemployment compensation laws;”.
 
-1982—Subsec. (d). Pub. L. 97–253, § 166, inserted provision that the Secretary may not, as a part of the approval process for a plan of operation, require a State to submit for prior approval by the Secretary the State agency instructions to staff, interpretations of existing policy, State agency methods of administration, forms used by the State agency, or any materials, documents, memoranda, bulletins, or other matter, unless the State determines that the materials, documents, memoranda, bulletins, or other matter alter or amend the State plan of operation or conflict with the rights and levels of benefits to which a household is entitled.
+1982—Subsec. (d). Pub. L. 97–253, § 166, inserted provision that the Secretary may not, as a part of the approval process for a plan of operation, require a State to submit for prior approval by the Secretary the State agency instructions to staff, interpretations of existing policy, State agency methods of administration, forms used by the State agency, or any materials, documents, memoranda, bulletins, or other matter, unless the State determines that the materials, documents, memoranda, bulletins, or other matter alter or amend the State plan of operation or conflict with the rights and levels of benefits to which a household is entitled.
 
-Subsec. (e)(2). Pub. L. 97–253, § 167(a), struck out “points and hours of certification, and for” after “Secretary for” in last sentence.
+Subsec. (e)(2). Pub. L. 97–253, § 167(a), struck out “points and hours of certification, and for” after “Secretary for” in last sentence.
 
-Subsec. (e)(3). Pub. L. 97–253, § 180(b)(1), substituted “section 2025(e) of this title” for “subsections (h) and (i) of section 2025 of this title” and “error rate reduction system” for “quality control program”, respectively.
+Subsec. (e)(3). Pub. L. 97–253, § 180(b)(1), substituted “section 2025(e) of this title” for “subsections (h) and (i) of section 2025 of this title” and “error rate reduction system” for “quality control program”, respectively.
 
-Subsec. (e)(7). Pub. L. 97–253, § 168, substituted “an” for “any” wherever appearing and inserted provision that the Secretary may restrict the number of households which may be represented by an individual and otherwise establish criteria and verification standards for representation under this paragraph.
+Subsec. (e)(7). Pub. L. 97–253, § 168, substituted “an” for “any” wherever appearing and inserted provision that the Secretary may restrict the number of households which may be represented by an individual and otherwise establish criteria and verification standards for representation under this paragraph.
 
-Subsec. (e)(8). Pub. L. 97–253, § 169, substituted “, regulations issued pursuant to this chapter, Federal assistance programs, or federally assisted State programs” for “or the regulations issued pursuant to this chapter”.
+Subsec. (e)(8). Pub. L. 97–253, § 169, substituted “, regulations issued pursuant to this chapter, Federal assistance programs, or federally assisted State programs” for “or the regulations issued pursuant to this chapter”.
 
-Subsec. (e)(9). Pub. L. 97–253, § 170, added par. (9). Former par. (9), which required that the State plan of operation provide that households in immediate need because of no income as defined in section 2014(d) and (e) of this title would receive coupons on an expedited basis, was struck out.
+Subsec. (e)(9). Pub. L. 97–253, § 170, added par. (9). Former par. (9), which required that the State plan of operation provide that households in immediate need because of no income as defined in section 2014(d) and (e) of this title would receive coupons on an expedited basis, was struck out.
 
-Subsec. (e)(10). Pub. L. 97–253, § 171, inserted provision that in any case in which the State agency receives from the household a written statement containing information that clearly requires a reduction or termination of the household’s benefits, the State agency may act immediately to reduce or terminate the household’s benefits and may provide notice of its action to the household as late as the date on which the action becomes effective.
+Subsec. (e)(10). Pub. L. 97–253, § 171, inserted provision that in any case in which the State agency receives from the household a written statement containing information that clearly requires a reduction or termination of the household’s benefits, the State agency may act immediately to reduce or terminate the household’s benefits and may provide notice of its action to the household as late as the date on which the action becomes effective.
 
-Subsec. (e)(13). Pub. L. 97–253, §§ 167(b), 190(c)(1), redesignated par. (14) as (13) and struck out former par. (13) which provided that the State plan of operation provide for compliance with standards set by the Secretary with respect to points and hours of coupon issuance.
+Subsec. (e)(13). Pub. L. 97–253, §§ 167(b), 190(c)(1), redesignated par. (14) as (13) and struck out former par. (13) which provided that the State plan of operation provide for compliance with standards set by the Secretary with respect to points and hours of coupon issuance.
 
-Subsec. (e)(14) to (21). Pub. L. 97–253, § 190(c)(1), redesignated pars. (14) to (22) as (13) to (21), respectively.
+Subsec. (e)(14) to (21). Pub. L. 97–253, § 190(c)(1), redesignated pars. (14) to (22) as (13) to (21), respectively.
 
-Subsec. (e)(22). Pub. L. 97–253, §§ 172, 190(c)(1), added par. (22) and redesignated it as par. (21).
+Subsec. (e)(22). Pub. L. 97–253, §§ 172, 190(c)(1), added par. (22) and redesignated it as par. (21).
 
-Subsec. (i). Pub. L. 97–253, §§ 173, 189(b)(2)(A), inserted provision requiring each State agency to implement pars. (1) and (2), and permitting each such agency to implement either par. (3) or (4), or both, and substituted reference to the Secretary of Health and Human Services for former reference to the Secretary of Health, Education, and Welfare.
+Subsec. (i). Pub. L. 97–253, §§ 173, 189(b)(2)(A), inserted provision requiring each State agency to implement pars. (1) and (2), and permitting each such agency to implement either par. (3) or (4), or both, and substituted reference to the Secretary of Health and Human Services for former reference to the Secretary of Health, Education, and Welfare.
 
-Subsec. (j). Pub. L. 97–253, § 189(b)(2)(B), substituted reference to the Secretary of Health and Human Services for former reference to the Secretary of Health, Education, and Welfare.
+Subsec. (j). Pub. L. 97–253, § 189(b)(2)(B), substituted reference to the Secretary of Health and Human Services for former reference to the Secretary of Health, Education, and Welfare.
 
-Subsec. (n). Pub. L. 97–253, § 174, added subsec. (n).
+Subsec. (n). Pub. L. 97–253, § 174, added subsec. (n).
 
-1981—Subsec. (b). Pub. L. 97–98, § 1316, struck out subsec. (b) which provided that certification of a household as eligible in any political subdivision, in the event of removal of such household to another political subdivision in which the food stamp program is operating, remains valid for participation in the food stamp program for a period of sixty days from the date of such removal.
+1981—Subsec. (b). Pub. L. 97–98, § 1316, struck out subsec. (b) which provided that certification of a household as eligible in any political subdivision, in the event of removal of such household to another political subdivision in which the food stamp program is operating, remains valid for participation in the food stamp program for a period of sixty days from the date of such removal.
 
 Subsec. (e)(1). Pub. L. 97–35 added cl. (A) and redesignated cl. (C) as (B). Former cls. (A) and (B), relating to informing low-income households about the program, and conducting other outreach activities, respectively, were struck out.
 
-Subsec. (e)(2). Pub. L. 97–98, § 1317, inserted provision that the application contain in understandable terms and in prominent and boldface lettering a statement that the information provided by the applicant is subject to verification and if incorrect the applicant may be subject to denial of food stamps and criminal prosecution.
+Subsec. (e)(2). Pub. L. 97–98, § 1317, inserted provision that the application contain in understandable terms and in prominent and boldface lettering a statement that the information provided by the applicant is subject to verification and if incorrect the applicant may be subject to denial of food stamps and criminal prosecution.
 
-Subsec. (e)(4). Pub. L. 97–98, § 1318, substituted “prior to” for “immediately prior to or at” and “advising the household” for “advising it”.
+Subsec. (e)(4). Pub. L. 97–98, § 1318, substituted “prior to” for “immediately prior to or at” and “advising the household” for “advising it”.
 
-Subsec. (e)(8). Pub. L. 97–98, § 1319, inserted provision that such safeguards not prevent the use or disclosure of such information to the Comptroller General of the United States for audit and examination authorized by any other provision of law and that, notwithstanding any other provision of law, all information obtained under this chapter from an applicant household be available to local, State, or Federal law enforcement officials for the purpose of investigating an alleged violation of this chapter or any regulation issued under this chapter.
+Subsec. (e)(8). Pub. L. 97–98, § 1319, inserted provision that such safeguards not prevent the use or disclosure of such information to the Comptroller General of the United States for audit and examination authorized by any other provision of law and that, notwithstanding any other provision of law, all information obtained under this chapter from an applicant household be available to local, State, or Federal law enforcement officials for the purpose of investigating an alleged violation of this chapter or any regulation issued under this chapter.
 
-Subsec. (e)(11). Pub. L. 97–98, § 1320(a), inserted provision that allotments not be restored for any period of time more than one year prior to the date the State agency receives a request for such restoration from a household or the State agency is notified or otherwise discovers that a loss to a household has occurred.
+Subsec. (e)(11). Pub. L. 97–98, § 1320(a), inserted provision that allotments not be restored for any period of time more than one year prior to the date the State agency receives a request for such restoration from a household or the State agency is notified or otherwise discovers that a loss to a household has occurred.
 
-Subsec. (e)(20), (21). Pub. L. 97–98, § 1321, added pars. (20) and (21).
+Subsec. (e)(20), (21). Pub. L. 97–98, § 1321, added pars. (20) and (21).
 
-Subsec. (f). Pub. L. 97–98, § 1322, substituted “is authorized to extend food and nutrition education to reach food stamp participants, using methods and techniques developed in the expanded food and nutrition education and other programs” for “shall extend the expanded food and nutrition education program to the greatest extent possible to reach food stamp program participants” and struck out provision that the program be supplemented by the development of single concept printed materials, specifically designed for persons with low reading and comprehension levels, on how to buy and prepare more nutritious and economical meals and on the relationship between food and good health.
+Subsec. (f). Pub. L. 97–98, § 1322, substituted “is authorized to extend food and nutrition education to reach food stamp participants, using methods and techniques developed in the expanded food and nutrition education and other programs” for “shall extend the expanded food and nutrition education program to the greatest extent possible to reach food stamp program participants” and struck out provision that the program be supplemented by the development of single concept printed materials, specifically designed for persons with low reading and comprehension levels, on how to buy and prepare more nutritious and economical meals and on the relationship between food and good health.
 
-Subsec. (m). Pub. L. 97–98, § 1323, added subsec. (m).
+Subsec. (m). Pub. L. 97–98, § 1323, added subsec. (m).
 
-1980—Subsec. (e)(3). Pub. L. 96–249, § 116, inserted “(in part through the use of the information, if any, obtained under subsections (h) and (i) of section 2025 of this title)” after “section 2014(d) of this title” and “although the State agency may verify prior to certification, whether questionable or not, the size of any applicant household and any factors of eligibility involving households that fall within the State agency’s error-prone household profiles as developed by the State agency from the quality control program conducted under section 2025 of this title and as approved by the Secretary” after “sections 2014 and 2015 of this title,”.
+1980—Subsec. (e)(3). Pub. L. 96–249, § 116, inserted “(in part through the use of the information, if any, obtained under subsections (h) and (i) of section 2025 of this title)” after “section 2014(d) of this title” and “although the State agency may verify prior to certification, whether questionable or not, the size of any applicant household and any factors of eligibility involving households that fall within the State agency’s error-prone household profiles as developed by the State agency from the quality control program conducted under section 2025 of this title and as approved by the Secretary” after “sections 2014 and 2015 of this title,”.
 
-Subsec. (e)(4). Pub. L. 96–249, § 113, inserted proviso that the timeliness standards for submitting the notice of expiration and filing an application for recertification may be modified by the Secretary in light of sections 2014(f)(2) and 2015(c) of this title if administratively necessary.
+Subsec. (e)(4). Pub. L. 96–249, § 113, inserted proviso that the timeliness standards for submitting the notice of expiration and filing an application for recertification may be modified by the Secretary in light of sections 2014(f)(2) and 2015(c) of this title if administratively necessary.
 
-Subsec. (e)(17) to (19). Pub. L. 96–249, §§ 117–119, added pars. (17) to (19).
+Subsec. (e)(17) to (19). Pub. L. 96–249, §§ 117–119, added pars. (17) to (19).
 
-Subsec. (g). Pub. L. 96–249, § 120, inserted “, upon information received by the Secretary, investigation initiated by the Secretary, or investigation that the Secretary shall initiate upon receiving sufficient information evidencing a pattern of lack of compliance by a State agency of a type specified in this subsection,” after “the Secretary determines”, “without good cause” after “to comply”, “or the Secretary’s standards for the efficient and effective administration of the program established under section 2025(b)(1) of this title” after “subsection (d) of this section,”, and “, and whether or not the Secretary refers such matter to the Attorney General, the Secretary shall proceed to withhold from the State such funds authorized under sections 2025(a) and (c) of this title as the Secretary determines to be appropriate, subject to administrative and judicial review under section 2023 of this title” after “relief shall issue”.
+Subsec. (g). Pub. L. 96–249, § 120, inserted “, upon information received by the Secretary, investigation initiated by the Secretary, or investigation that the Secretary shall initiate upon receiving sufficient information evidencing a pattern of lack of compliance by a State agency of a type specified in this subsection,” after “the Secretary determines”, “without good cause” after “to comply”, “or the Secretary’s standards for the efficient and effective administration of the program established under section 2025(b)(1) of this title” after “subsection (d) of this section,”, and “, and whether or not the Secretary refers such matter to the Attorney General, the Secretary shall proceed to withhold from the State such funds authorized under sections 2025(a) and (c) of this title as the Secretary determines to be appropriate, subject to administrative and judicial review under section 2023 of this title” after “relief shall issue”.
 
-Subsec. (i)(2). Pub. L. 96–249, § 122, substituted “simple application” for “simplified affidavit”.
+Subsec. (i)(2). Pub. L. 96–249, § 122, substituted “simple application” for “simplified affidavit”.
 
-Subsec. (*l*). Pub. L. 96–249, § 123, added subsec. (*l*).
+Subsec. (*l*). Pub. L. 96–249, § 123, added subsec. (*l*).
 
 1977—Pub. L. 95–113 substituted revised provisions relating to the administration of the program for provisions relating to the disqualification of retail stores and wholesale concerns which are now covered by section 2021 of this title.
 
@@ -6351,17 +6351,17 @@ Amendment by Pub. L. 108–265 effective July 1, 2005, see section 502(b)(4) of 
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–171, title IV, § 4114(b), May 13, 2002, 116 Stat. 314, provided that: “The amendments made by this section [amending this section] take effect 18 months after the date of enactment of this Act [May 13, 2002].”
+Pub. L. 107–171, title IV, § 4114(b), May 13, 2002, 116 Stat. 314, provided that: “The amendments made by this section [amending this section] take effect 18 months after the date of enactment of this Act [May 13, 2002].”
 
 Amendment by sections 4115(a) and 4116(a) of Pub. L. 107–171 effective Oct. 1, 2002, except as otherwise provided, see section 4405 of Pub. L. 107–171, set out as an Effective Date note under section 1161 of Title 2, The Congress.
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–379, § 1(c), Nov. 12, 1998, 112 Stat. 3399, provided that: “This section [amending this section and enacting provisions set out as a note below] and the amendments made by this section take effect on June 1, 2000.”
+Pub. L. 105–379, § 1(c), Nov. 12, 1998, 112 Stat. 3399, provided that: “This section [amending this section and enacting provisions set out as a note below] and the amendments made by this section take effect on June 1, 2000.”
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–33, title I, § 1003(a)(3), Aug. 5, 1997, 111 Stat. 255, provided that:
+Pub. L. 105–33, title I, § 1003(a)(3), Aug. 5, 1997, 111 Stat. 255, provided that:
 
 > **“(A) In general.—** Except as provided in subparagraph (B), the amendments made by this subsection [amending this section] shall take effect on the date that is 1 year after the date of enactment of this Act [Aug. 5, 1997].
 
@@ -6395,11 +6395,11 @@ Amendment by Pub. L. 100–435 to be effective and implemented on July 1, 1989, 
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–77, title VIII, § 809(b), July 22, 1987, 101 Stat. 536, provided that: “The amendments made by this section [amending this section] shall become effective and be implemented as soon as the Secretary of Agriculture determines is practicable after the date of enactment of this Act [July 22, 1987], but not later than 160 days after the date of enactment of this Act.”
+Pub. L. 100–77, title VIII, § 809(b), July 22, 1987, 101 Stat. 536, provided that: “The amendments made by this section [amending this section] shall become effective and be implemented as soon as the Secretary of Agriculture determines is practicable after the date of enactment of this Act [July 22, 1987], but not later than 160 days after the date of enactment of this Act.”
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–198, title XV, § 1531(a), (b), Dec. 23, 1985, 99 Stat. 1582, provided that the amendments made by section 1531(a), (b) are effective Oct. 1, 1986.
+Pub. L. 99–198, title XV, § 1531(a), (b), Dec. 23, 1985, 99 Stat. 1582, provided that the amendments made by section 1531(a), (b) are effective Oct. 1, 1986.
 
 **Effective Date of 1984 Amendment**
 
@@ -6423,11 +6423,11 @@ Amendment by Pub. L. 97–35 effective and implemented upon such dates as Secret
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
+Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
 
 **Regulations**
 
-Pub. L. 113–79, title IV, § 4016(b), Feb. 7, 2014, 128 Stat. 795, provided that:
+Pub. L. 113–79, title IV, § 4016(b), Feb. 7, 2014, 128 Stat. 795, provided that:
 
 > **“(1) In general.—** Not later than 2 years after the date of enactment of this Act [Feb. 7, 2014], the Secretary [of Agriculture] shall issue a proposed rule to carry out the amendments made by this section [amending this section].
 
@@ -6443,7 +6443,7 @@ Pub. L. 113–79, title IV, § 4016(b), Feb. 7, 2014, 128 Stat. 795, provided 
 
 > **“(E)** describe future milestones.”
 
-Secretary of Agriculture to promulgate regulations necessary to implement amendment of this section by Pub. L. 105–33, not later than one year after Aug. 5, 1997, see § 1005(a) of Pub. L. 105–33 set out as a note under section 2015 of this title.
+Secretary of Agriculture to promulgate regulations necessary to implement amendment of this section by Pub. L. 105–33, not later than one year after Aug. 5, 1997, see § 1005(a) of Pub. L. 105–33 set out as a note under section 2015 of this title.
 
 **Abolition of Immigration and Naturalization Service and Transfer of Functions**
 
@@ -6451,11 +6451,11 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 **Availability of Information Under the Food and Nutrition Act of 2008**
 
-Pub. L. 114–92, div. A, title VI, § 605, Nov. 25, 2015, 129 Stat. 837, provided that: “In administering the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.), the Secretary of Agriculture shall ensure that any safeguards that prevent the use or disclosure of information obtained from applicant households shall not prevent the use of that information by, or the disclosure of that information to, the Secretary of Defense for purposes of determining the number of applicant households that contain one or more members of a regular component or reserve component of the Armed Forces.”
+Pub. L. 114–92, div. A, title VI, § 605, Nov. 25, 2015, 129 Stat. 837, provided that: “In administering the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.), the Secretary of Agriculture shall ensure that any safeguards that prevent the use or disclosure of information obtained from applicant households shall not prevent the use of that information by, or the disclosure of that information to, the Secretary of Defense for purposes of determining the number of applicant households that contain one or more members of a regular component or reserve component of the Armed Forces.”
 
 **Report**
 
-Pub. L. 105–379, § 1(b), Nov. 12, 1998, 112 Stat. 3399, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (2)(PP), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(PP), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
+Pub. L. 105–379, § 1(b), Nov. 12, 1998, 112 Stat. 3399, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (2)(PP), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(PP), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
 
 > “Not later than September 1, 2000, the Secretary of Agriculture shall submit a report regarding the progress and effectiveness of the cooperative arrangements entered into by State agencies under section 11(r) of the Food and Nutrition Act of 2008 (7 U.S.C. 2020(r)) (as added by subsection (a)) to—
 
@@ -6471,7 +6471,7 @@ Pub. L. 105–379, § 1(b), Nov. 12, 1998, 112 Stat. 3399, as amended by Pub. 
 
 **Audit of Simplified Food Stamp Application at Social Security Administration Offices**
 
-Pub. L. 101–624, title XVII, § 1742, Nov. 28, 1990, 104 Stat. 3795, directed Comptroller General to conduct an audit of programs established under 7 U.S.C. 2020(i) and (j) under which an applicant for or recipient of social security benefits may make or be provided a simple application to participate in the food stamp program at social security offices, and, not later than Dec. 31, 1991, deliver a report on results of study to Committee on Agriculture of House of Representatives, Committee on Agriculture, Nutrition, and Forestry of Senate, and Special Committee on Aging of Senate.
+Pub. L. 101–624, title XVII, § 1742, Nov. 28, 1990, 104 Stat. 3795, directed Comptroller General to conduct an audit of programs established under 7 U.S.C. 2020(i) and (j) under which an applicant for or recipient of social security benefits may make or be provided a simple application to participate in the food stamp program at social security offices, and, not later than Dec. 31, 1991, deliver a report on results of study to Committee on Agriculture of House of Representatives, Committee on Agriculture, Nutrition, and Forestry of Senate, and Special Committee on Aging of Senate.
 
 **Executive Documents**
 
@@ -6483,7 +6483,7 @@ By the authority vested in me as President of the United States of America by Se
 
 Jimmy Carter.
 
-## § 2021. Civil penalties and disqualification of retail food stores and wholesale food concerns
+## § 2021. Civil penalties and disqualification of retail food stores and wholesale food concerns
 
 **(a) Disqualification**
 
@@ -6651,7 +6651,7 @@ The Secretary shall evaluate the pilot projects selected under this subsection t
 
 Any costs incurred by a State to operate pilot projects under this subsection that are in excess of the amount expended under this chapter to identify, investigate, and reduce fraud described in paragraph (1)(A) in the respective State in the previous fiscal year shall not be eligible for Federal reimbursement under this chapter.
 
-(Pub. L. 88–525, § 12, Aug. 31, 1964, 78 Stat. 707; Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 974; Pub. L. 97–253, title I, §§ 175, 176(a), Sept. 8, 1982, 96 Stat. 781; Pub. L. 99–198, title XV, § 1532(a), Dec. 23, 1985, 99 Stat. 1582; Pub. L. 100–435, title III, § 344, Sept. 19, 1988, 102 Stat. 1664; Pub. L. 101–624, title XVII, §§ 1743–1745, Nov. 28, 1990, 104 Stat. 3795, 3796; Pub. L. 103–66, title XIII, §§ 13943, 13944, Aug. 10, 1993, 107 Stat. 677; Pub. L. 104–127, title IV, § 401(a), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title VIII, §§ 841–843, Aug. 22, 1996, 110 Stat. 2331, 2332; Pub. L. 110–234, title IV, § 4132, May 22, 2008, 122 Stat. 1114; Pub. L. 110–246, § 4(a), title IV, § 4132, June 18, 2008, 122 Stat. 1664, 1875; Pub. L. 113–79, title IV, §§ 4017, 4030(g), Feb. 7, 2014, 128 Stat. 796, 814.)
+(Pub. L. 88–525, § 12, Aug. 31, 1964, 78 Stat. 707; Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 974; Pub. L. 97–253, title I, §§ 175, 176(a), Sept. 8, 1982, 96 Stat. 781; Pub. L. 99–198, title XV, § 1532(a), Dec. 23, 1985, 99 Stat. 1582; Pub. L. 100–435, title III, § 344, Sept. 19, 1988, 102 Stat. 1664; Pub. L. 101–624, title XVII, §§ 1743–1745, Nov. 28, 1990, 104 Stat. 3795, 3796; Pub. L. 103–66, title XIII, §§ 13943, 13944, Aug. 10, 1993, 107 Stat. 677; Pub. L. 104–127, title IV, § 401(a), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title VIII, §§ 841–843, Aug. 22, 1996, 110 Stat. 2331, 2332; Pub. L. 110–234, title IV, § 4132, May 22, 2008, 122 Stat. 1114; Pub. L. 110–246, § 4(a), title IV, § 4132, June 18, 2008, 122 Stat. 1664, 1875; Pub. L. 113–79, title IV, §§ 4017, 4030(g), Feb. 7, 2014, 128 Stat. 796, 814.)
 
 **Editorial Notes**
 
@@ -6661,63 +6661,63 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2014—Subsec. (b)(3)(C). Pub. L. 113–79, § 4030(g)(1), substituted “civil penalties” for “civil money penalties”.
+2014—Subsec. (b)(3)(C). Pub. L. 113–79, § 4030(g)(1), substituted “civil penalties” for “civil money penalties”.
 
-Subsec. (g)(1). Pub. L. 113–79, § 4030(g)(2), made technical amendment to reference in original act which appears in text as reference to section 1786 of title 42.
+Subsec. (g)(1). Pub. L. 113–79, § 4030(g)(2), made technical amendment to reference in original act which appears in text as reference to section 1786 of title 42.
 
-Subsec. (i). Pub. L. 113–79, § 4017, added subsec. (i).
+Subsec. (i). Pub. L. 113–79, § 4017, added subsec. (i).
 
-2008—Pub. L. 110–246, § 4132(1), substituted “Civil penalties” for “Civil money penalties” in section catchline.
+2008—Pub. L. 110–246, § 4132(1), substituted “Civil penalties” for “Civil money penalties” in section catchline.
 
-Subsec. (a). Pub. L. 110–246, § 4132(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “Any approved retail food store or wholesale food concern may be disqualified for a specified period of time from further participation in the food stamp program, or subjected to a civil money penalty of up to $10,000 for each violation if the Secretary determines that its disqualification would cause hardship to food stamp households, on a finding, made as specified in the regulations, that such store or concern has violated any of the provisions of this chapter or the regulations issued pursuant to this chapter. Regulations issued pursuant to this chapter shall provide criteria for the finding of a violation and the suspension or disqualification of a retail food store or wholesale food concern on the basis of evidence that may include facts established through on-site investigations, inconsistent redemption data, or evidence obtained through a transaction report under an electronic benefit transfer system.”
+Subsec. (a). Pub. L. 110–246, § 4132(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “Any approved retail food store or wholesale food concern may be disqualified for a specified period of time from further participation in the food stamp program, or subjected to a civil money penalty of up to $10,000 for each violation if the Secretary determines that its disqualification would cause hardship to food stamp households, on a finding, made as specified in the regulations, that such store or concern has violated any of the provisions of this chapter or the regulations issued pursuant to this chapter. Regulations issued pursuant to this chapter shall provide criteria for the finding of a violation and the suspension or disqualification of a retail food store or wholesale food concern on the basis of evidence that may include facts established through on-site investigations, inconsistent redemption data, or evidence obtained through a transaction report under an electronic benefit transfer system.”
 
-Subsec. (b). Pub. L. 110–246, § 4132(2)(A), inserted heading and substituted “Subject to subsection (c), a disqualification” for “Disqualification” in introductory provisions.
+Subsec. (b). Pub. L. 110–246, § 4132(2)(A), inserted heading and substituted “Subject to subsection (c), a disqualification” for “Disqualification” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 110–246, § 4132(2)(B), substituted “not to exceed 5 years” for “of no less than six months nor more than five years”.
+Subsec. (b)(1). Pub. L. 110–246, § 4132(2)(B), substituted “not to exceed 5 years” for “of no less than six months nor more than five years”.
 
-Subsec. (b)(2). Pub. L. 110–246, § 4132(2)(C), substituted “not to exceed 10 years” for “of no less than twelve months nor more than ten years”.
+Subsec. (b)(2). Pub. L. 110–246, § 4132(2)(C), substituted “not to exceed 10 years” for “of no less than twelve months nor more than ten years”.
 
-Subsec. (b)(3)(B). Pub. L. 110–246, § 4132(2)(D), (E), in introductory provisions, inserted “or a finding of the unauthorized redemption, use, transfer, acquisition, alteration, or possession of EBT cards” after “wholesale food concern” and substituted “civil penalty” for “civil money penalty” and “civil penalties” for “civil money penalties”.
+Subsec. (b)(3)(B). Pub. L. 110–246, § 4132(2)(D), (E), in introductory provisions, inserted “or a finding of the unauthorized redemption, use, transfer, acquisition, alteration, or possession of EBT cards” after “wholesale food concern” and substituted “civil penalty” for “civil money penalty” and “civil penalties” for “civil money penalties”.
 
-Subsec. (b)(3)(C). Pub. L. 110–246, § 4132(2)(E), substituted “civil penalty” for “civil money penalty”.
+Subsec. (b)(3)(C). Pub. L. 110–246, § 4132(2)(E), substituted “civil penalty” for “civil money penalty”.
 
-Subsec. (c). Pub. L. 110–246, § 4132(3), inserted subsec. heading, added par. (1), designated existing provisions as par. (2), inserted par. heading, and substituted “civil penalty” for “civil money penalty” in text.
+Subsec. (c). Pub. L. 110–246, § 4132(3), inserted subsec. heading, added par. (1), designated existing provisions as par. (2), inserted par. heading, and substituted “civil penalty” for “civil money penalty” in text.
 
-Subsec. (d). Pub. L. 110–246, § 4132(4), inserted subsec. heading, added pars. (1) and (2), designated part of existing provisions as pars. (3) to (5), inserted par. headings, in par. (5), substituted “A store or concern described in paragraph (4)” for “Such store or concern”, and struck out after subsec. designation “As a condition of authorization to accept and redeem coupons, the Secretary may require a retail food store or wholesale food concern which has been disqualified or subjected to a civil penalty pursuant to subsection (a) of this section to furnish a bond to cover the value of coupons which such store or concern may in the future accept and redeem in violation of this chapter.”
+Subsec. (d). Pub. L. 110–246, § 4132(4), inserted subsec. heading, added pars. (1) and (2), designated part of existing provisions as pars. (3) to (5), inserted par. headings, in par. (5), substituted “A store or concern described in paragraph (4)” for “Such store or concern”, and struck out after subsec. designation “As a condition of authorization to accept and redeem coupons, the Secretary may require a retail food store or wholesale food concern which has been disqualified or subjected to a civil penalty pursuant to subsection (a) of this section to furnish a bond to cover the value of coupons which such store or concern may in the future accept and redeem in violation of this chapter.”
 
-Subsec. (e). Pub. L. 110–246, § 4132(5), substituted “civil penalty” for “civil money penalty” wherever appearing.
+Subsec. (e). Pub. L. 110–246, § 4132(5), substituted “civil penalty” for “civil money penalty” wherever appearing.
 
-Subsec. (h). Pub. L. 110–246, § 4132(6), added subsec. (h).
+Subsec. (h). Pub. L. 110–246, § 4132(6), added subsec. (h).
 
-1996—Subsec. (a). Pub. L. 104–193, § 841, inserted at end “Regulations issued pursuant to this chapter shall provide criteria for the finding of a violation and the suspension or disqualification of a retail food store or wholesale food concern on the basis of evidence that may include facts established through on-site investigations, inconsistent redemption data, or evidence obtained through a transaction report under an electronic benefit transfer system.”
+1996—Subsec. (a). Pub. L. 104–193, § 841, inserted at end “Regulations issued pursuant to this chapter shall provide criteria for the finding of a violation and the suspension or disqualification of a retail food store or wholesale food concern on the basis of evidence that may include facts established through on-site investigations, inconsistent redemption data, or evidence obtained through a transaction report under an electronic benefit transfer system.”
 
-Subsec. (b)(3)(B). Pub. L. 104–127, § 401(a), struck out “(including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conduct or approval of the violation)” after “substantial evidence” and substituted “, including evidence that—” and cls. (i) and (ii) for “; or”.
+Subsec. (b)(3)(B). Pub. L. 104–127, § 401(a), struck out “(including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conduct or approval of the violation)” after “substantial evidence” and substituted “, including evidence that—” and cls. (i) and (ii) for “; or”.
 
-Subsec. (b)(4). Pub. L. 104–193, § 842, added par. (4).
+Subsec. (b)(4). Pub. L. 104–193, § 842, added par. (4).
 
-Subsec. (g). Pub. L. 104–193, § 843, added subsec. (g).
+Subsec. (g). Pub. L. 104–193, § 843, added subsec. (g).
 
-1993—Subsec. (b)(3)(B). Pub. L. 103–66, § 13943, substituted “for violations occurring during a single investigation” for “during a 2-year period”.
+1993—Subsec. (b)(3)(B). Pub. L. 103–66, § 13943, substituted “for violations occurring during a single investigation” for “during a 2-year period”.
 
-Subsec. (b)(3)(C). Pub. L. 103–66, § 13944, substituted “substance (as” for “substances (as the term is” and “for violations occurring during a single investigation” for “during a 2-year period”.
+Subsec. (b)(3)(C). Pub. L. 103–66, § 13944, substituted “substance (as” for “substances (as the term is” and “for violations occurring during a single investigation” for “during a 2-year period”.
 
-1990—Subsec. (b)(3). Pub. L. 101–624, § 1743, in subpar. (A) struck out “or” after “disqualification;”, in subpar. (B) inserted “for each violation (except that the amount of civil money penalties imposed during a 2-year period may not exceed $40,000)” after “$20,000” and “(including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conduct or approval of the violation)” after “evidence”, and substituted “; or” for period at end, and added subpar. (C).
+1990—Subsec. (b)(3). Pub. L. 101–624, § 1743, in subpar. (A) struck out “or” after “disqualification;”, in subpar. (B) inserted “for each violation (except that the amount of civil money penalties imposed during a 2-year period may not exceed $40,000)” after “$20,000” and “(including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conduct or approval of the violation)” after “evidence”, and substituted “; or” for period at end, and added subpar. (C).
 
-Subsec. (e)(3). Pub. L. 101–624, § 1744, added par. (3).
+Subsec. (e)(3). Pub. L. 101–624, § 1744, added par. (3).
 
-Subsec. (f). Pub. L. 101–624, § 1745, added subsec. (f).
+Subsec. (f). Pub. L. 101–624, § 1745, added subsec. (f).
 
 1988—Subsec. (b)(3). Pub. L. 100–435 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “permanent upon the third occasion of disqualification or the first occasion of a disqualification based on the purchase of coupons or trafficking in coupons or authorization cards by a retail food store or wholesale food concern.”
 
 1985—Subsec. (e). Pub. L. 99–198 added subsec. (e).
 
-1982—Subsec. (a). Pub. L. 97–253, § 175(1)–(3), redesignated first sentence as subsec. (a), substituted “$10,000” for “$5,000”, and struck out second sentence relating to disqualification.
+1982—Subsec. (a). Pub. L. 97–253, § 175(1)–(3), redesignated first sentence as subsec. (a), substituted “$10,000” for “$5,000”, and struck out second sentence relating to disqualification.
 
-Subsec. (b). Pub. L. 97–253, § 175(3), added subsec. (b) relating to disqualification.
+Subsec. (b). Pub. L. 97–253, § 175(3), added subsec. (b) relating to disqualification.
 
-Subsec. (c). Pub. L. 97–253, § 175(4), redesignated last sentence as subsec. (c).
+Subsec. (c). Pub. L. 97–253, § 175(4), redesignated last sentence as subsec. (c).
 
-Subsec. (d). Pub. L. 97–253, § 176(a), added subsec. (d).
+Subsec. (d). Pub. L. 97–253, § 176(a), added subsec. (d).
 
 1977—Pub. L. 95–113 substituted revised provisions covering civil money penalties and disqualification of retail food stores and wholesale food concerns for provisions relating to the determination and disposition of claims which are now covered by section 2022 of this title.
 
@@ -6751,9 +6751,9 @@ Amendment by Pub. L. 97–253 effective Sept. 8, 1982, see section 193(a) of Pub
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
+Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
 
-## § 2022. Disposition of claims
+## § 2022. Disposition of claims
 
 **(a) General authority of the Secretary**
 
@@ -6869,7 +6869,7 @@ Any liability amount established under section 2025(c)(1)(C) of this title shall
 
 The amount of an overissuance of benefits, as determined under subsection (b)(1), that has not been recovered pursuant to such subsection may be recovered from Federal pay (including salaries and pensions) as authorized by section 5514 of title 5 or a Federal income tax refund as authorized by section 3720A of title 31.
 
-(Pub. L. 88–525, § 13, Aug. 31, 1964, 78 Stat. 707; Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 974; Pub. L. 97–35, title I, § 113, Aug. 13, 1981, 95 Stat. 363; Pub. L. 97–253, title I, §§ 177, 178, Sept. 8, 1982, 96 Stat. 781, 782; Pub. L. 99–198, title XV, §§ 1533–1535(a), Dec. 23, 1985, 99 Stat. 1583; Pub. L. 100–435, title VI, §§ 601, 602, Sept. 19, 1988, 102 Stat. 1674; Pub. L. 101–624, title XVII, § 1746, Nov. 28, 1990, 104 Stat. 3796; Pub. L. 102–237, title IX, § 911, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 103–66, title XIII, §§ 13941(b), 13951(a), Aug. 10, 1993, 107 Stat. 676, 677; Pub. L. 104–193, title VIII, § 844(a), Aug. 22, 1996, 110 Stat. 2332; Pub. L. 107–171, title IV, § 4118(b), May 13, 2002, 116 Stat. 321; Pub. L. 110–234, title IV, §§ 4115(b)(9), 4133, May 22, 2008, 122 Stat. 1107, 1116; Pub. L. 110–246, § 4(a), title IV, §§ 4115(b)(9), 4133, June 18, 2008, 122 Stat. 1664, 1869, 1877; Pub. L. 113–79, title IV, § 4020(b)(1), Feb. 7, 2014, 128 Stat. 798; Pub. L. 119–21, title I, § 10105(b), July 4, 2025, 139 Stat. 84.)
+(Pub. L. 88–525, § 13, Aug. 31, 1964, 78 Stat. 707; Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 974; Pub. L. 97–35, title I, § 113, Aug. 13, 1981, 95 Stat. 363; Pub. L. 97–253, title I, §§ 177, 178, Sept. 8, 1982, 96 Stat. 781, 782; Pub. L. 99–198, title XV, §§ 1533–1535(a), Dec. 23, 1985, 99 Stat. 1583; Pub. L. 100–435, title VI, §§ 601, 602, Sept. 19, 1988, 102 Stat. 1674; Pub. L. 101–624, title XVII, § 1746, Nov. 28, 1990, 104 Stat. 3796; Pub. L. 102–237, title IX, § 911, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 103–66, title XIII, §§ 13941(b), 13951(a), Aug. 10, 1993, 107 Stat. 676, 677; Pub. L. 104–193, title VIII, § 844(a), Aug. 22, 1996, 110 Stat. 2332; Pub. L. 107–171, title IV, § 4118(b), May 13, 2002, 116 Stat. 321; Pub. L. 110–234, title IV, §§ 4115(b)(9), 4133, May 22, 2008, 122 Stat. 1107, 1116; Pub. L. 110–246, § 4(a), title IV, §§ 4115(b)(9), 4133, June 18, 2008, 122 Stat. 1664, 1869, 1877; Pub. L. 113–79, title IV, § 4020(b)(1), Feb. 7, 2014, 128 Stat. 798; Pub. L. 119–21, title I, § 10105(b), July 4, 2025, 139 Stat. 84.)
 
 **Editorial Notes**
 
@@ -6883,37 +6883,37 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Subsec. (a)(1). Pub. L. 113–79 substituted “section 2025(c)(1)(D)(i)(II) of this title” for “section 2025(c)(1)(D)(i)(III) of this title”.
 
-2008—Pub. L. 110–246, § 4115(b)(9), substituted “benefits” for “coupons” wherever appearing.
+2008—Pub. L. 110–246, § 4115(b)(9), substituted “benefits” for “coupons” wherever appearing.
 
-Subsec. (b)(5). Pub. L. 110–246, § 4133, added par. (5).
+Subsec. (b)(5). Pub. L. 110–246, § 4133, added par. (5).
 
 2002—Subsec. (a). Pub. L. 107–171, inserted subsec. (a) heading, redesignated par. (2) as (4) and inserted heading, designated existing provisions of par. (1) as pars. (1) to (3) and inserted headings, in par. (1) substituted “Except in the case of an at-risk amount required under section 2025(c)(1)(D)(i)(III) of this title, the Secretary” for “The Secretary” and struck out “In determining whether to settle, adjust, compromise, or waive a claim arising against a State agency pursuant to section 2025(c) of this title, the Secretary shall review a State agency’s plans for new dollar investment in activities to improve program administration in order to reduce payment error, and shall take the State agency’s plans for new dollar investment in such activities into consideration as the Secretary considers appropriate.” after “section 2023 of this title.”, and in par. (2) substituted “claim established under section 2025(c)(1) of this title” for “claim established under section 2025(c)(1)(C) of this title”.
 
-1996—Subsec. (b). Pub. L. 104–193, § 844(a)(1), added subsec. (b) and struck out former subsec. (b) which provided for reduction of allotment for households with ineligible individuals and collection by State agencies of claims against households arising from overissuance of coupons.
+1996—Subsec. (b). Pub. L. 104–193, § 844(a)(1), added subsec. (b) and struck out former subsec. (b) which provided for reduction of allotment for households with ineligible individuals and collection by State agencies of claims against households arising from overissuance of coupons.
 
-Subsec. (d). Pub. L. 104–193, § 844(a)(2), substituted “, as determined under subsection (b)(1),” for “as determined under subsection (b) and except for claims arising from an error of the State agency,” and inserted before period at end “or a Federal income tax refund as authorized by section 3720A of title 31”.
+Subsec. (d). Pub. L. 104–193, § 844(a)(2), substituted “, as determined under subsection (b)(1),” for “as determined under subsection (b) and except for claims arising from an error of the State agency,” and inserted before period at end “or a Federal income tax refund as authorized by section 3720A of title 31”.
 
-1993—Subsec. (a)(1). Pub. L. 103–66, § 13951(a), in fifth sentence, struck out “(after a determination on any request for a waiver for good cause related to the claim has been made by the Secretary)” after “30 days from the date on which the bill for collection” and in sixth sentence substituted “1 year” for “2 years”.
+1993—Subsec. (a)(1). Pub. L. 103–66, § 13951(a), in fifth sentence, struck out “(after a determination on any request for a waiver for good cause related to the claim has been made by the Secretary)” after “30 days from the date on which the bill for collection” and in sixth sentence substituted “1 year” for “2 years”.
 
-Subsec. (d). Pub. L. 103–66, § 13941(b), added subsec. (d).
+Subsec. (d). Pub. L. 103–66, § 13941(b), added subsec. (d).
 
-1991—Subsec. (b)(2)(A). Pub. L. 102–237 inserted before period at end of first sentence “, except that the household shall be given notice permitting it to elect another means of repayment and given 10 days to make such an election before the State agency commences action to reduce the household’s monthly allotment”.
+1991—Subsec. (b)(2)(A). Pub. L. 102–237 inserted before period at end of first sentence “, except that the household shall be given notice permitting it to elect another means of repayment and given 10 days to make such an election before the State agency commences action to reduce the household’s monthly allotment”.
 
 1990—Subsec. (b)(1)(A). Pub. L. 101–624 substituted “on the date of receipt (or, if the date of receipt is not a business day, on the next business day)” for “within thirty days”.
 
-1988—Subsec. (a)(1). Pub. L. 100–435, § 601, inserted provisions relating to review of State agency’s plans for program investment to reduce payment error when Secretary determines whether to settle, etc., claims under section 2025(c) of this title.
+1988—Subsec. (a)(1). Pub. L. 100–435, § 601, inserted provisions relating to review of State agency’s plans for program investment to reduce payment error when Secretary determines whether to settle, etc., claims under section 2025(c) of this title.
 
-Pub. L. 100–435, § 602, inserted provisions relating to failure of State agency to pay a claim under section 2025(c)(1)(C) of this title and interest with respect to unpaid portion of such claims.
+Pub. L. 100–435, § 602, inserted provisions relating to failure of State agency to pay a claim under section 2025(c)(1)(C) of this title and interest with respect to unpaid portion of such claims.
 
-1985—Subsec. (a). Pub. L. 99–198, § 1533, designated existing provisions as par. (1) and added par. (2).
+1985—Subsec. (a). Pub. L. 99–198, § 1533, designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b)(1)(B). Pub. L. 99–198, § 1534, substituted “shall” for “may” and inserted “, unless the State agency demonstrates to the satisfaction of the Secretary that such other means are not cost effective”.
+Subsec. (b)(1)(B). Pub. L. 99–198, § 1534, substituted “shall” for “may” and inserted “, unless the State agency demonstrates to the satisfaction of the Secretary that such other means are not cost effective”.
 
-Subsec. (c). Pub. L. 99–198, § 1535(a), added subsec. (c).
+Subsec. (c). Pub. L. 99–198, § 1535(a), added subsec. (c).
 
-1982—Subsec. (b)(1). Pub. L. 97–253, §§ 177(a), 178, redesignated existing provisions, which were formerly undesignated, as subpar. (A), inserted “within thirty days of a demand for an election” after “make an election”, and added subpar. (B).
+1982—Subsec. (b)(1). Pub. L. 97–253, §§ 177(a), 178, redesignated existing provisions, which were formerly undesignated, as subpar. (A), inserted “within thirty days of a demand for an election” after “make an election”, and added subpar. (B).
 
-Subsec. (b)(2). Pub. L. 97–253, § 177(b), redesignated existing provisions, which had been undesignated, as subpar. (A) and added subpar. (B).
+Subsec. (b)(2). Pub. L. 97–253, § 177(b), redesignated existing provisions, which had been undesignated, as subpar. (A) and added subpar. (B).
 
 1981—Pub. L. 97–35 designated existing provisions as subsec. (a), inserted provisions relating to power to waive claims, and the power to otherwise reduce amounts, and added subsec. (b).
 
@@ -6929,7 +6929,7 @@ Amendment by sections 4115(b)(9) and 4133 of Pub. L. 110–246 effective Oct. 1,
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–171, title IV, § 4118(e), May 13, 2002, 116 Stat. 321, provided that: “The amendments made by this section [amending this section and sections 2025, 2027, and 2031 of this title] shall not apply with respect to any sanction, appeal, new investment agreement, or other action by the Secretary of Agriculture or a State agency that is based on a payment error rate calculated for any fiscal year before fiscal year 2003.”
+Pub. L. 107–171, title IV, § 4118(e), May 13, 2002, 116 Stat. 321, provided that: “The amendments made by this section [amending this section and sections 2025, 2027, and 2031 of this title] shall not apply with respect to any sanction, appeal, new investment agreement, or other action by the Secretary of Agriculture or a State agency that is based on a payment error rate calculated for any fiscal year before fiscal year 2003.”
 
 Amendment by Pub. L. 107–171 effective Oct. 1, 2002, except as otherwise provided, see section 4405 of Pub. L. 107–171, set out as an Effective Date note under section 1161 of Title 2, The Congress.
 
@@ -6957,9 +6957,9 @@ Amendment by Pub. L. 97–35 effective and implemented upon such dates as Secret
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
+Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
 
-## § 2023. Administrative and judicial review; restoration of rights
+## § 2023. Administrative and judicial review; restoration of rights
 
 **(a)**
 
@@ -6973,15 +6973,15 @@ Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided 
 
 **(5)** If such request is made by such store, concern, or State agency, such information as may be submitted by the store, concern, or State agency, as well as such other information as may be available, shall be reviewed by the person or persons designated by the Secretary, who shall, subject to the right of judicial review hereinafter provided, make a determination which shall be final and which shall take effect thirty days after the date of the delivery or service of such final notice of determination.
 
-**(6)** Determinations regarding claims made pursuant to section 2025(c) of this title (including determinations as to whether there is good cause for not imposing all or a portion of the penalty) shall be made on the record after opportunity for an agency hearing in accordance with section 1
+**(6)** Determinations regarding claims made pursuant to section 2025(c) of this title (including determinations as to whether there is good cause for not imposing all or a portion of the penalty) shall be made on the record after opportunity for an agency hearing in accordance with section 1
 
-<sup>1</sup>  So in original. Probably should be “sections”.
+<sup>1</sup> So in original. Probably should be “sections”.
 
 556 and 557 of title 5 in which one or more administrative law judges appointed pursuant to section 3105 of such title shall preside over the taking of evidence.
 
-**(7)** Such judges shall have authority to issue and enforce subpoenas in the manner prescribed in sections 2
+**(7)** Such judges shall have authority to issue and enforce subpoenas in the manner prescribed in sections 2
 
-<sup>2</sup>  So in original. Probably should be “section”.
+<sup>2</sup> So in original. Probably should be “section”.
 
 499m(c) and (d) of this title and to appoint expert witnesses under the provisions of Rule 706 of the Federal Rules of Evidence.
 
@@ -7009,7 +7009,7 @@ Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided 
 
 **(b)** In any judicial action arising under this chapter, any allotments found to have been wrongfully withheld shall be restored only for periods of not more than one year prior to the date of the commencement of such action, or in the case of an action seeking review of a final State agency determination, not more than one year prior to the date of the filing of a request with the State for the restoration of such allotments or, in either case, not more than one year prior to the date the State agency is notified or otherwise discovers the possible loss to a household.
 
-(Pub. L. 88–525, § 14, Aug. 31, 1964, 78 Stat. 708; Pub. L. 91–671, § 7, Jan. 11, 1971, 84 Stat. 2052; Pub. L. 92–603, title IV, § 411(f), Oct. 30, 1972, 86 Stat. 1492; Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 974; Pub. L. 97–98, title XIII, § 1320(b), Dec. 22, 1981, 95 Stat. 1286; Pub. L. 97–253, title I, § 176(b), Sept. 8, 1982, 96 Stat. 781; Pub. L. 99–198, title XV, § 1536, Dec. 23, 1985, 99 Stat. 1585; Pub. L. 100–435, title VI, § 603, Sept. 19, 1988, 102 Stat. 1674; Pub. L. 103–66, title XIII, § 13951(b), Aug. 10, 1993, 107 Stat. 678; Pub. L. 104–193, title VIII, § 845, Aug. 22, 1996, 110 Stat. 2333; Pub. L. 107–171, title IV, § 4117(a), May 13, 2002, 116 Stat. 316; Pub. L. 110–234, title IV, §§ 4001(b), 4002(a)(7), May 22, 2008, 122 Stat. 1092, 1094; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4002(a)(7), June 18, 2008, 122 Stat. 1664, 1853, 1855.)
+(Pub. L. 88–525, § 14, Aug. 31, 1964, 78 Stat. 708; Pub. L. 91–671, § 7, Jan. 11, 1971, 84 Stat. 2052; Pub. L. 92–603, title IV, § 411(f), Oct. 30, 1972, 86 Stat. 1492; Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 974; Pub. L. 97–98, title XIII, § 1320(b), Dec. 22, 1981, 95 Stat. 1286; Pub. L. 97–253, title I, § 176(b), Sept. 8, 1982, 96 Stat. 781; Pub. L. 99–198, title XV, § 1536, Dec. 23, 1985, 99 Stat. 1585; Pub. L. 100–435, title VI, § 603, Sept. 19, 1988, 102 Stat. 1674; Pub. L. 103–66, title XIII, § 13951(b), Aug. 10, 1993, 107 Stat. 678; Pub. L. 104–193, title VIII, § 845, Aug. 22, 1996, 110 Stat. 2333; Pub. L. 107–171, title IV, § 4117(a), May 13, 2002, 116 Stat. 316; Pub. L. 110–234, title IV, §§ 4001(b), 4002(a)(7), May 22, 2008, 122 Stat. 1092, 1094; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4002(a)(7), June 18, 2008, 122 Stat. 1664, 1853, 1855.)
 
 **Editorial Notes**
 
@@ -7023,9 +7023,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (a)(1). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+2008—Subsec. (a)(1). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsec. (b). Pub. L. 110–246, § 4002(a)(7), substituted “any allotments” for “any food stamp allotments”.
+Subsec. (b). Pub. L. 110–246, § 4002(a)(7), substituted “any allotments” for “any food stamp allotments”.
 
 2002—Subsec. (a)(2). Pub. L. 107–171 added heading and text of par. (2) and struck out former par. (2) which read as follows: “Such notice shall be delivered by certified mail or personal service.”
 
@@ -7045,11 +7045,11 @@ Subsec. (b). Pub. L. 110–246, § 4002(a)(7), substituted “any allotments�
 
 1972—Subsec. (e). Pub. L. 92–603 struck out subsec. (e) which provided that no person be charged with violation of this chapter or any other law on the basis of statements or information contained in affidavits filed under section 2019(c) of this title, except for fraud.
 
-1971—Subsec. (a). Pub. L. 91–671, § 7(a), provided for purchase of coupons.
+1971—Subsec. (a). Pub. L. 91–671, § 7(a), provided for purchase of coupons.
 
-Subsec. (b). Pub. L. 91–671, § 7(a), included alteration as an offense and made authorization to purchase cards the subject matter of the enumerated offenses.
+Subsec. (b). Pub. L. 91–671, § 7(a), included alteration as an offense and made authorization to purchase cards the subject matter of the enumerated offenses.
 
-Subsec. (e). Pub. L. 91–671, § 7(b), added subsec. (e).
+Subsec. (e). Pub. L. 91–671, § 7(b), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7061,7 +7061,7 @@ Amendment by sections 4001(b) and 4002(a)(7) of Pub. L. 110–246 effective Oct.
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–171, title IV, § 4117(b), May 13, 2002, 116 Stat. 316, provided that: “The amendment made by this section [amending this section] takes effect on the date of enactment of this Act [May 13, 2002].”
+Pub. L. 107–171, title IV, § 4117(b), May 13, 2002, 116 Stat. 316, provided that: “The amendment made by this section [amending this section] takes effect on the date of enactment of this Act [May 13, 2002].”
 
 **Effective Date of 1993 Amendment**
 
@@ -7083,13 +7083,13 @@ Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agricultur
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
+Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
 
 **Effective Date of 1972 Amendment**
 
 Amendment by Pub. L. 92–603 effective Jan. 1, 1973, see section 411(h) of Pub. L. 92–603, set out as a note under section 2012 of this title.
 
-## § 2024. Violations and enforcement
+## § 2024. Violations and enforcement
 
 **(a) In general**
 
@@ -7097,9 +7097,9 @@ Notwithstanding any other provision of this chapter, the Secretary may provide f
 
 **(b) Unauthorized use, transfer, acquisition, alteration, or possession of benefits**
 
-**(1)** Subject to the provisions of paragraph (2) of this subsection, whoever knowingly uses, transfers, acquires, alters, or possesses benefits in any manner contrary to this chapter or the regulations issued pursuant to this chapter shall, if such benefits are of a value of $5,000 or more, be guilty of a felony and shall be fined not more than $250,000 or imprisoned for not more than twenty years, or both, and shall, if such benefits are of a value of $100 or more, but less than $5,000, or if the item used, transferred, acquired, altered, or possessed is a benefit that has a value of $100 or more, but less than $5,000, be guilty of a felony and shall, upon the first conviction thereof, be fined not more than $10,000 or imprisoned for not more than five years, or both, and, upon the second and any subsequent conviction thereof, shall be imprisoned for not less than six months nor more than five years and may also be fined not more than $10,000 or, if such benefits are of a value of less than $100, or if the item used, transferred, acquired, altered, or processed 1
+**(1)** Subject to the provisions of paragraph (2) of this subsection, whoever knowingly uses, transfers, acquires, alters, or possesses benefits in any manner contrary to this chapter or the regulations issued pursuant to this chapter shall, if such benefits are of a value of $5,000 or more, be guilty of a felony and shall be fined not more than $250,000 or imprisoned for not more than twenty years, or both, and shall, if such benefits are of a value of $100 or more, but less than $5,000, or if the item used, transferred, acquired, altered, or possessed is a benefit that has a value of $100 or more, but less than $5,000, be guilty of a felony and shall, upon the first conviction thereof, be fined not more than $10,000 or imprisoned for not more than five years, or both, and, upon the second and any subsequent conviction thereof, shall be imprisoned for not less than six months nor more than five years and may also be fined not more than $10,000 or, if such benefits are of a value of less than $100, or if the item used, transferred, acquired, altered, or processed 1
 
-<sup>1</sup>  So in original. Probably should be “possessed”.
+<sup>1</sup> So in original. Probably should be “possessed”.
 
 is a benefit that has a value of less than $100, shall be guilty of a misdemeanor, and, upon the first conviction thereof, shall be fined not more than $1,000 or imprisoned for not more than one year, or both, and upon the second and any subsequent conviction thereof, shall be imprisoned for not more than one year and may also be fined not more than $1,000. In addition to such penalties, any person convicted of a felony or misdemeanor violation under this subsection may be suspended by the court from participation in the supplemental nutrition assistance program for an additional period of up to eighteen months consecutive to that period of suspension mandated by section 2015(b)(1) of this title.
 
@@ -7141,7 +7141,7 @@ No interest in property shall be forfeited under this subsection as the result o
 
 **(D)** fourth, by the Secretary to carry out the approval, reauthorization, and compliance investigations of retail stores and wholesale food concerns under section 2018 of this title.
 
-(Pub. L. 88–525, § 15, Aug. 31, 1964, 78 Stat. 708; Pub. L. 91–671, § 8, Jan. 11, 1971, 84 Stat. 2052; Pub. L. 93–347, § 2, July 12, 1974, 88 Stat. 341; Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 975; Pub. L. 96–249, title I, § 124, May 26, 1980, 94 Stat. 363; Pub. L. 97–98, title XIII, § 1324, Dec. 22, 1981, 95 Stat. 1288; Pub. L. 101–624, title XVII, §§ 1747(a), (c), 1748, 1749, Nov. 28, 1990, 104 Stat. 3796, 3797; Pub. L. 104–193, title VIII, § 846, Aug. 22, 1996, 110 Stat. 2334; Pub. L. 110–234, title IV, §§ 4001(b), 4115(b)(10), May 22, 2008 122 Stat. 1092, 1107; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4115(b)(10), June 18, 2008, 122 Stat. 1664, 1853, 1869; Pub. L. 113–79, title IV, § 4030(h), Feb. 7, 2014, 128 Stat. 814; Pub. L. 115–334, title IV, § 4022(6), Dec. 20, 2018, 132 Stat. 4653.)
+(Pub. L. 88–525, § 15, Aug. 31, 1964, 78 Stat. 708; Pub. L. 91–671, § 8, Jan. 11, 1971, 84 Stat. 2052; Pub. L. 93–347, § 2, July 12, 1974, 88 Stat. 341; Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 975; Pub. L. 96–249, title I, § 124, May 26, 1980, 94 Stat. 363; Pub. L. 97–98, title XIII, § 1324, Dec. 22, 1981, 95 Stat. 1288; Pub. L. 101–624, title XVII, §§ 1747(a), (c), 1748, 1749, Nov. 28, 1990, 104 Stat. 3796, 3797; Pub. L. 104–193, title VIII, § 846, Aug. 22, 1996, 110 Stat. 2334; Pub. L. 110–234, title IV, §§ 4001(b), 4115(b)(10), May 22, 2008 122 Stat. 1092, 1107; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4115(b)(10), June 18, 2008, 122 Stat. 1664, 1853, 1869; Pub. L. 113–79, title IV, § 4030(h), Feb. 7, 2014, 128 Stat. 814; Pub. L. 115–334, title IV, § 4022(6), Dec. 20, 2018, 132 Stat. 4653.)
 
 **Editorial Notes**
 
@@ -7155,35 +7155,35 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Subsec. (b)(1). Pub. L. 113–79 substituted “a benefit” for “an benefit” in two places.
 
-2008—Subsec. (a). Pub. L. 110–246, § 4115(b)(10)(A), substituted “benefits” for “coupons”.
+2008—Subsec. (a). Pub. L. 110–246, § 4115(b)(10)(A), substituted “benefits” for “coupons”.
 
-Subsec. (b)(1). Pub. L. 110–246, § 4115(b)(10)(B), substituted “possesses benefits” for “possesses coupons, authorization cards, or access devices”, “such benefits are of a value of $5,000” for “such coupons, authorization cards, or access devices are of a value of $5,000”, “such benefits are of a value of $100” for “such coupons or authorization cards are of a value of $100”, and “such benefits are of a value of less than $100” for “such coupons or authorization cards are of a value of less than $100”, and substituted “benefit” for “access device” in two places.
+Subsec. (b)(1). Pub. L. 110–246, § 4115(b)(10)(B), substituted “possesses benefits” for “possesses coupons, authorization cards, or access devices”, “such benefits are of a value of $5,000” for “such coupons, authorization cards, or access devices are of a value of $5,000”, “such benefits are of a value of $100” for “such coupons or authorization cards are of a value of $100”, and “such benefits are of a value of less than $100” for “such coupons or authorization cards are of a value of less than $100”, and substituted “benefit” for “access device” in two places.
 
-Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsec. (c). Pub. L. 110–246, § 4115(b)(10)(C), substituted “benefits” for “coupons” in two places.
+Subsec. (c). Pub. L. 110–246, § 4115(b)(10)(C), substituted “benefits” for “coupons” in two places.
 
-Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsec. (d). Pub. L. 110–246, § 4115(b)(10)(D), substituted “Benefits” for “Coupons”.
+Subsec. (d). Pub. L. 110–246, § 4115(b)(10)(D), substituted “Benefits” for “Coupons”.
 
-Subsec. (e). Pub. L. 110–246, § 4115(b)(10)(G), which directed amendment of subsec. (e) by substituting “benefits” for “coupon, authorization cards or access devices”, could not be executed because the phrase “coupon, authorization cards or access devices” did not appear.
+Subsec. (e). Pub. L. 110–246, § 4115(b)(10)(G), which directed amendment of subsec. (e) by substituting “benefits” for “coupon, authorization cards or access devices”, could not be executed because the phrase “coupon, authorization cards or access devices” did not appear.
 
-Pub. L. 110–246, § 4115(b)(10)(E), (F), redesignated subsec. (g) as (e) and struck out former subsec. (e) which read as follows: “Any coupon issuer or any officer, employee, or agent thereof convicted of failing to provide the report required under section 2016(d) of this title or of violating the regulations issued under section 2016(d) and (e) of this title shall be fined not more than $1,000 or imprisoned for not more than one year, or both.”
+Pub. L. 110–246, § 4115(b)(10)(E), (F), redesignated subsec. (g) as (e) and struck out former subsec. (e) which read as follows: “Any coupon issuer or any officer, employee, or agent thereof convicted of failing to provide the report required under section 2016(d) of this title or of violating the regulations issued under section 2016(d) and (e) of this title shall be fined not more than $1,000 or imprisoned for not more than one year, or both.”
 
-Subsecs. (f) to (h). Pub. L. 110–246, § 4115(b)(10)(E), (F), redesignated subsecs. (g) and (h) as (e) and (f), respectively, and struck out former subsec. (f) which read as follows: “Any coupon issuer or any officer, employee, or agent thereof convicted of knowingly providing false information in the report required under section 2016(d) of this title shall be fined not more than $10,000 or imprisoned not more than five years, or both.”
+Subsecs. (f) to (h). Pub. L. 110–246, § 4115(b)(10)(E), (F), redesignated subsecs. (g) and (h) as (e) and (f), respectively, and struck out former subsec. (f) which read as follows: “Any coupon issuer or any officer, employee, or agent thereof convicted of knowingly providing false information in the report required under section 2016(d) of this title shall be fined not more than $10,000 or imprisoned not more than five years, or both.”
 
-1996—Subsec. (g). Pub. L. 104–193, § 846(a), struck out “or intended to be furnished” after “that are furnished”.
+1996—Subsec. (g). Pub. L. 104–193, § 846(a), struck out “or intended to be furnished” after “that are furnished”.
 
-Subsec. (h). Pub. L. 104–193, § 846(b), added subsec. (h).
+Subsec. (h). Pub. L. 104–193, § 846(b), added subsec. (h).
 
-1990—Subsec. (b)(1). Pub. L. 101–624, § 1748, inserted “if such coupons, authorization cards, or access devices are of a value of $5,000 or more, be guilty of a felony and shall be fined not more than $250,000 or imprisoned for not more than twenty years, or both, and shall,” after “chapter shall”, and inserted “but less than $5,000,” after “$100 or more” in two places.
+1990—Subsec. (b)(1). Pub. L. 101–624, § 1748, inserted “if such coupons, authorization cards, or access devices are of a value of $5,000 or more, be guilty of a felony and shall be fined not more than $250,000 or imprisoned for not more than twenty years, or both, and shall,” after “chapter shall”, and inserted “but less than $5,000,” after “$100 or more” in two places.
 
-Pub. L. 101–624, § 1747(a), substituted “, authorization cards, or access devices in any manner contrary to” for “or authorization cards in any manner not authorized by”, and inserted “or if the item used, transferred, acquired, altered, or possessed is an access device that has a value of $100 or more,” after “a value of $100 or more,”, and inserted “or if the item used, transferred, acquired, altered, or processed is an access device that has a value of less than $100,” after “a value of less than $100,”.
+Pub. L. 101–624, § 1747(a), substituted “, authorization cards, or access devices in any manner contrary to” for “or authorization cards in any manner not authorized by”, and inserted “or if the item used, transferred, acquired, altered, or possessed is an access device that has a value of $100 or more,” after “a value of $100 or more,”, and inserted “or if the item used, transferred, acquired, altered, or processed is an access device that has a value of less than $100,” after “a value of less than $100,”.
 
-Subsec. (c). Pub. L. 101–624, § 1749, substituted “$20,000” for “$10,000” in two places.
+Subsec. (c). Pub. L. 101–624, § 1749, substituted “$20,000” for “$10,000” in two places.
 
-Subsec. (g). Pub. L. 101–624, § 1747(c), substituted “, authorization cards or access devices, or anything of value obtained by use of an access device, in any manner contrary to” for “or authorization cards in any manner not authorized by”.
+Subsec. (g). Pub. L. 101–624, § 1747(c), substituted “, authorization cards or access devices, or anything of value obtained by use of an access device, in any manner contrary to” for “or authorization cards in any manner not authorized by”.
 
 1981—Subsec. (b). Pub. L. 97–98 designated existing provision as par. (1), inserted provisions specifying the minimum and maximum sentences for the second and any subsequent convictions for felonies and misdemeanors and provision authorizing the court to suspend a person convicted of a felony or misdemeanor under this subsection from participation in the food stamp program for an additional period of up to eighteen months consecutive to that period of suspension mandated by section 2015(b)(1) of this title, and added par. (2).
 
@@ -7213,9 +7213,9 @@ Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agricultur
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
+Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
 
-## § 2025. Administrative cost-sharing and quality control
+## § 2025. Administrative cost-sharing and quality control
 
 **(a) Administrative costs**
 
@@ -8041,13 +8041,13 @@ The pendency of an appeal under this paragraph shall not affect the requirement 
 
 **(II)** used to match Federal funds under a Federal program other than the supplemental nutrition assistance program.
 
-(Pub. L. 88–525, § 16, Aug. 31, 1964, 78 Stat. 709; Pub. L. 90–91 §§ 1, 2, Sept. 27, 1967, 81 Stat. 228; Pub. L. 90–552, Oct. 8, 1968, 82 Stat. 958; Pub. L. 91–116, Nov. 13, 1969, 83 Stat. 191; Pub. L. 91–671, § 9, Jan. 11, 1971, 84 Stat. 2052; Pub. L. 93–86, § 3(j), Aug. 10, 1973, 87 Stat. 248; Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 976; Pub. L. 96–58, §§ 4, 6, Aug. 14, 1979, 93 Stat. 391; Pub. L. 96–249, title I, §§ 121, 125, 126, 128, 129, May 26, 1980, 94 Stat. 363, 364, 367; Pub. L. 97–35, title I, §§ 111(b), 114, Aug. 13, 1981, 95 Stat. 362, 363; Pub. L. 97–98, title XIII, §§ 1325–1327, Dec. 22, 1981, 95 Stat. 1289; Pub. L. 97–253, title I, §§ 179, 180(a), 189(b)(3), (c), Sept. 8, 1982, 96 Stat. 782, 787; Pub. L. 99–198, title XV, §§ 1517(c), 1524, 1535(c)(1), 1537(a), 1539, Dec. 23, 1985, 99 Stat. 1577, 1580, 1585, 1588; Pub. L. 99–603, title I, § 121(b)(5), Nov. 6, 1986, 100 Stat. 3391; Pub. L. 100–77, title VIII, § 808(b), July 22, 1987, 101 Stat. 536; Pub. L. 100–435, title II, § 204(b), title III, § 321(b), (c), title IV, § 404(e), (g), title VI, § 604, Sept. 19, 1988, 102 Stat. 1657, 1662, 1668, 1675; Pub. L. 101–624, title XVII, §§ 1750, 1752(a), 1753, Nov. 28, 1990, 104 Stat. 3797, 3798; Pub. L. 102–237, title IX, § 941(7), Dec. 13, 1991, 105 Stat. 1892; Pub. L. 103–66, title XIII, §§ 13922(c), 13951(c), 13961, Aug. 10, 1993, 107 Stat. 675, 678, 679; Pub. L. 103–296, title I, § 108(f)(2), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 104–66, title I, § 1011(j), Dec. 21, 1995, 109 Stat. 710; Pub. L. 104–127, title IV, § 401(b), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title I, § 109(c), title VIII, §§ 817(b)–(d), 844(c), 847, 848(a), (b)(2), 849, Aug. 22, 1996, 110 Stat. 2169, 2319, 2320, 2333–2335; Pub. L. 105–33, title I, § 1002(a), Aug. 5, 1997, 111 Stat. 252; Pub. L. 105–185, title V, §§ 501, 502(a), June 23, 1998, 112 Stat. 575; Pub. L. 106–78, title VII, § 758, Oct. 22, 1999, 113 Stat. 1172; Pub. L. 107–171, title IV, §§ 4118(a), 4119(a), 4120(a), 4121(a), (d), 4122(a), May 13, 2002, 116 Stat. 316, 321, 323, 324; Pub. L. 110–234, title IV, §§ 4001(b), 4002(a)(8), 4115(b)(11), 4121, 4122, 4406(a)(3), (4), May 22, 2008, 122 Stat. 1092, 1094, 1108, 1113, 1140, 1141; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4002(a)(8), 4115(b)(11), 4121, 4122, 4406(a)(3), (4), June 18, 2008, 122 Stat. 1664, 1853, 1855, 1869, 1874, 1875, 1902; Pub. L. 112–240, title VII, § 701(d)(1), Jan. 2, 2013, 126 Stat. 2363; Pub. L. 113–76, div. A, title VII, § 717, Jan. 17, 2014, 128 Stat. 36; Pub. L. 113–79, title IV, §§ 4018(a), 4019, 4020(a), (b)(2), 4021, 4022(a), (b)(2), 4030(i), Feb. 7, 2014, 128 Stat. 797–799, 808, 814; Pub. L. 115–334, title IV, §§ 4005(d), 4012, 4013(b)–(e), 4015(b), Dec. 20, 2018, 132 Stat. 4632, 4641–4643, 4648; Pub. L. 119–21, title I, §§ 10101(b)(1), 10106, July 4, 2025, 139 Stat. 81, 85.)
+(Pub. L. 88–525, § 16, Aug. 31, 1964, 78 Stat. 709; Pub. L. 90–91 §§ 1, 2, Sept. 27, 1967, 81 Stat. 228; Pub. L. 90–552, Oct. 8, 1968, 82 Stat. 958; Pub. L. 91–116, Nov. 13, 1969, 83 Stat. 191; Pub. L. 91–671, § 9, Jan. 11, 1971, 84 Stat. 2052; Pub. L. 93–86, § 3(j), Aug. 10, 1973, 87 Stat. 248; Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 976; Pub. L. 96–58, §§ 4, 6, Aug. 14, 1979, 93 Stat. 391; Pub. L. 96–249, title I, §§ 121, 125, 126, 128, 129, May 26, 1980, 94 Stat. 363, 364, 367; Pub. L. 97–35, title I, §§ 111(b), 114, Aug. 13, 1981, 95 Stat. 362, 363; Pub. L. 97–98, title XIII, §§ 1325–1327, Dec. 22, 1981, 95 Stat. 1289; Pub. L. 97–253, title I, §§ 179, 180(a), 189(b)(3), (c), Sept. 8, 1982, 96 Stat. 782, 787; Pub. L. 99–198, title XV, §§ 1517(c), 1524, 1535(c)(1), 1537(a), 1539, Dec. 23, 1985, 99 Stat. 1577, 1580, 1585, 1588; Pub. L. 99–603, title I, § 121(b)(5), Nov. 6, 1986, 100 Stat. 3391; Pub. L. 100–77, title VIII, § 808(b), July 22, 1987, 101 Stat. 536; Pub. L. 100–435, title II, § 204(b), title III, § 321(b), (c), title IV, § 404(e), (g), title VI, § 604, Sept. 19, 1988, 102 Stat. 1657, 1662, 1668, 1675; Pub. L. 101–624, title XVII, §§ 1750, 1752(a), 1753, Nov. 28, 1990, 104 Stat. 3797, 3798; Pub. L. 102–237, title IX, § 941(7), Dec. 13, 1991, 105 Stat. 1892; Pub. L. 103–66, title XIII, §§ 13922(c), 13951(c), 13961, Aug. 10, 1993, 107 Stat. 675, 678, 679; Pub. L. 103–296, title I, § 108(f)(2), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 104–66, title I, § 1011(j), Dec. 21, 1995, 109 Stat. 710; Pub. L. 104–127, title IV, § 401(b), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title I, § 109(c), title VIII, §§ 817(b)–(d), 844(c), 847, 848(a), (b)(2), 849, Aug. 22, 1996, 110 Stat. 2169, 2319, 2320, 2333–2335; Pub. L. 105–33, title I, § 1002(a), Aug. 5, 1997, 111 Stat. 252; Pub. L. 105–185, title V, §§ 501, 502(a), June 23, 1998, 112 Stat. 575; Pub. L. 106–78, title VII, § 758, Oct. 22, 1999, 113 Stat. 1172; Pub. L. 107–171, title IV, §§ 4118(a), 4119(a), 4120(a), 4121(a), (d), 4122(a), May 13, 2002, 116 Stat. 316, 321, 323, 324; Pub. L. 110–234, title IV, §§ 4001(b), 4002(a)(8), 4115(b)(11), 4121, 4122, 4406(a)(3), (4), May 22, 2008, 122 Stat. 1092, 1094, 1108, 1113, 1140, 1141; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4002(a)(8), 4115(b)(11), 4121, 4122, 4406(a)(3), (4), June 18, 2008, 122 Stat. 1664, 1853, 1855, 1869, 1874, 1875, 1902; Pub. L. 112–240, title VII, § 701(d)(1), Jan. 2, 2013, 126 Stat. 2363; Pub. L. 113–76, div. A, title VII, § 717, Jan. 17, 2014, 128 Stat. 36; Pub. L. 113–79, title IV, §§ 4018(a), 4019, 4020(a), (b)(2), 4021, 4022(a), (b)(2), 4030(i), Feb. 7, 2014, 128 Stat. 797–799, 808, 814; Pub. L. 115–334, title IV, §§ 4005(d), 4012, 4013(b)–(e), 4015(b), Dec. 20, 2018, 132 Stat. 4632, 4641–4643, 4648; Pub. L. 119–21, title I, §§ 10101(b)(1), 10106, July 4, 2025, 139 Stat. 81, 85.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsecs. (e), (g)(1)(D), (h)(1)(F)(i)(I), (iv), and (k), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Titles XVI, XIX, and XX of the Act are classified generally to subchapters XVI (§ 1381 et seq.), XIX (§ 1396 et seq.), and XX (§ 1397 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (e), (g)(1)(D), (h)(1)(F)(i)(I), (iv), and (k), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Titles XVI, XIX, and XX of the Act are classified generally to subchapters XVI (§ 1381 et seq.), XIX (§ 1396 et seq.), and XX (§ 1397 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Codification**
 
@@ -8055,137 +8055,137 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–21, § 10106, substituted “agency, through fiscal year 2026, 50 percent, and for fiscal year 2027 and each fiscal year thereafter, 25 percent,” for “agency an amount equal to 50 per centum”.
+2025—Subsec. (a). Pub. L. 119–21, § 10106, substituted “agency, through fiscal year 2026, 50 percent, and for fiscal year 2027 and each fiscal year thereafter, 25 percent,” for “agency an amount equal to 50 per centum”.
 
-Subsec. (c)(1)(A)(ii)(II). Pub. L. 119–21, § 10101(b)(1), substituted “section 2012(u)(3)” for “section 2012(u)(4)”.
+Subsec. (c)(1)(A)(ii)(II). Pub. L. 119–21, § 10101(b)(1), substituted “section 2012(u)(3)” for “section 2012(u)(4)”.
 
-2018—Subsec. (a). Pub. L. 115–334, § 4015(b), added cl. (9).
+2018—Subsec. (a). Pub. L. 115–334, § 4015(b), added cl. (9).
 
-Subsec. (c)(1)(B). Pub. L. 115–334, § 4013(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) related to adjustment of Federal share of administrative costs for fiscal years before fiscal year 2003.
+Subsec. (c)(1)(B). Pub. L. 115–334, § 4013(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) related to adjustment of Federal share of administrative costs for fiscal years before fiscal year 2003.
 
-Subsec. (c)(4). Pub. L. 115–334, § 4013(c), inserted “, including providing access to applicable State records and the entire information systems in which the records are contained,” after “the Secretary considers necessary”.
+Subsec. (c)(4). Pub. L. 115–334, § 4013(c), inserted “, including providing access to applicable State records and the entire information systems in which the records are contained,” after “the Secretary considers necessary”.
 
-Subsec. (d). Pub. L. 115–334, § 4013(d)(1), substituted “State performance indicators” for “Bonuses for States that demonstrate high or most improved performance” in heading.
+Subsec. (d). Pub. L. 115–334, § 4013(d)(1), substituted “State performance indicators” for “Bonuses for States that demonstrate high or most improved performance” in heading.
 
-Subsec. (d)(2). Pub. L. 115–334, § 4013(d)(2)(A), substituted “through 2017” for “and thereafter” in heading.
+Subsec. (d)(2). Pub. L. 115–334, § 4013(d)(2)(A), substituted “through 2017” for “and thereafter” in heading.
 
-Subsec. (d)(2)(A), (B). Pub. L. 115–334, § 4013(d)(2)(B), (C), substituted “through fiscal year 2017” for “and each fiscal year thereafter” in introductory provisions.
+Subsec. (d)(2)(A), (B). Pub. L. 115–334, § 4013(d)(2)(B), (C), substituted “through fiscal year 2017” for “and each fiscal year thereafter” in introductory provisions.
 
-Subsec. (d)(6). Pub. L. 115–334, § 4013(d)(3), added par. (6).
+Subsec. (d)(6). Pub. L. 115–334, § 4013(d)(3), added par. (6).
 
-Subsec. (g)(1). Pub. L. 115–334, § 4012(2), (3), in introductory provisions, substituted “paragraph (2)” for “paragraphs (2) and (3)” and “in the—” for “in the”, inserted subpar. (A) designation before “planning”, and redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A).
+Subsec. (g)(1). Pub. L. 115–334, § 4012(2), (3), in introductory provisions, substituted “paragraph (2)” for “paragraphs (2) and (3)” and “in the—” for “in the”, inserted subpar. (A) designation before “planning”, and redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A).
 
-Subsec. (g)(1)(A)(v). Pub. L. 115–334, § 4012(2), (4), redesignated subsec. (g)(1)(E) as cl. (v) of subsec. (g)(1)(A) and substituted “, including a requirement that—”, subcls. (I) and (II), and “(III) the data resulting from each pilot project carried out under this clause” for “, including through pilot projects in limited areas for major systems changes as determined under rules promulgated by the Secretary, data from which”.
+Subsec. (g)(1)(A)(v). Pub. L. 115–334, § 4012(2), (4), redesignated subsec. (g)(1)(E) as cl. (v) of subsec. (g)(1)(A) and substituted “, including a requirement that—”, subcls. (I) and (II), and “(III) the data resulting from each pilot project carried out under this clause” for “, including through pilot projects in limited areas for major systems changes as determined under rules promulgated by the Secretary, data from which”.
 
-Subsec. (g)(1)(A)(vi). Pub. L. 115–334, § 4012(1), (2), redesignated subsec. (g)(1)(F) as cl. (vi) of subsec. (g)(1)(A) and cls. (i) and (ii) of former subpar. (F) as subcls. (I) and (II), respectively, of cl. (vi).
+Subsec. (g)(1)(A)(vi). Pub. L. 115–334, § 4012(1), (2), redesignated subsec. (g)(1)(F) as cl. (vi) of subsec. (g)(1)(A) and cls. (i) and (ii) of former subpar. (F) as subcls. (I) and (II), respectively, of cl. (vi).
 
-Subsec. (g)(1)(A)(vii). Pub. L. 115–334, §§ 4012(5), 4013(e), added cl. (vii).
+Subsec. (g)(1)(A)(vii). Pub. L. 115–334, §§ 4012(5), 4013(e), added cl. (vii).
 
-Subsec. (g)(1)(B). Pub. L. 115–334, § 4012(6), added subpar. (B). Former subpar. (B) redesignated cl. (ii) of subsec. (g)(1)(A).
+Subsec. (g)(1)(B). Pub. L. 115–334, § 4012(6), added subpar. (B). Former subpar. (B) redesignated cl. (ii) of subsec. (g)(1)(A).
 
-Subsec. (g)(1)(C) to (F). Pub. L. 115–334, § 4012(2), redesignated subpars. (C) to (F) as cls. (iii) to (vi), respectively, of subsec. (g)(1)(A).
+Subsec. (g)(1)(C) to (F). Pub. L. 115–334, § 4012(2), redesignated subpars. (C) to (F) as cls. (iii) to (vi), respectively, of subsec. (g)(1)(A).
 
-Subsec. (h)(1)(A). Pub. L. 115–334, § 4005(d)(1)(A), substituted “$103,900,000” for “$90,000,000”.
+Subsec. (h)(1)(A). Pub. L. 115–334, § 4005(d)(1)(A), substituted “$103,900,000” for “$90,000,000”.
 
-Subsec. (h)(1)(C)(i). Pub. L. 115–334, § 4005(d)(1)(B)(i), inserted “, subject to clauses (ii) through (v),” before “shall reallocate”.
+Subsec. (h)(1)(C)(i). Pub. L. 115–334, § 4005(d)(1)(B)(i), inserted “, subject to clauses (ii) through (v),” before “shall reallocate”.
 
-Subsec. (h)(1)(C)(iv), (v). Pub. L. 115–334, § 4005(d)(1)(B)(ii), added cls. (iv) and (v).
+Subsec. (h)(1)(C)(iv), (v). Pub. L. 115–334, § 4005(d)(1)(B)(ii), added cls. (iv) and (v).
 
-Subsec. (h)(1)(D). Pub. L. 115–334, § 4005(d)(1)(C), substituted “$100,000” for “$50,000”.
+Subsec. (h)(1)(D). Pub. L. 115–334, § 4005(d)(1)(C), substituted “$100,000” for “$50,000”.
 
-Subsec. (h)(5)(B)(v). Pub. L. 115–334, § 4005(d)(2), added cl. (v).
+Subsec. (h)(5)(B)(v). Pub. L. 115–334, § 4005(d)(2), added cl. (v).
 
-2014—Subsec. (a). Pub. L. 113–79, § 4030(i), made technical amendment to reference in original act which was executed in text by striking out period after “section 1610(b) of title 43” in proviso following cl. (8).
+2014—Subsec. (a). Pub. L. 113–79, § 4030(i), made technical amendment to reference in original act which was executed in text by striking out period after “section 1610(b) of title 43” in proviso following cl. (8).
 
-Subsec. (a)(4). Pub. L. 113–79, § 4018(a), inserted “designed to persuade an individual to apply for program benefits or that promote the program through television, radio, or billboard advertisements” after “recruitment activities”.
+Subsec. (a)(4). Pub. L. 113–79, § 4018(a), inserted “designed to persuade an individual to apply for program benefits or that promote the program through television, radio, or billboard advertisements” after “recruitment activities”.
 
-Subsec. (c)(1)(A). Pub. L. 113–79, § 4019, designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+Subsec. (c)(1)(A). Pub. L. 113–79, § 4019, designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
 
-Subsec. (c)(1)(D)(i). Pub. L. 113–79, § 4020(a), (b)(2)(A)(i), redesignated subcls. (II) to (IV) as (I) to (III), respectively, substituted “and (II)” for “through (III)” in subcl. (III), and struck out former subcl. (I) which read as follows: “waive the responsibility of the State agency to pay all or any portion of the liability amount established for the fiscal year (referred to in this paragraph as the ‘waiver amount’);”.
+Subsec. (c)(1)(D)(i). Pub. L. 113–79, § 4020(a), (b)(2)(A)(i), redesignated subcls. (II) to (IV) as (I) to (III), respectively, substituted “and (II)” for “through (III)” in subcl. (III), and struck out former subcl. (I) which read as follows: “waive the responsibility of the State agency to pay all or any portion of the liability amount established for the fiscal year (referred to in this paragraph as the ‘waiver amount’);”.
 
-Subsec. (c)(1)(D)(ii). Pub. L. 113–79, § 4020(b)(2)(A)(ii), struck out “waiver amount or” before “new investment”.
+Subsec. (c)(1)(D)(ii). Pub. L. 113–79, § 4020(b)(2)(A)(ii), struck out “waiver amount or” before “new investment”.
 
-Subsec. (c)(1)(E)(i). Pub. L. 113–79, § 4020(b)(2)(B), substituted “(D)(i)(II)” for “(D)(i)(III)”.
+Subsec. (c)(1)(E)(i). Pub. L. 113–79, § 4020(b)(2)(B), substituted “(D)(i)(II)” for “(D)(i)(III)”.
 
-Subsec. (c)(1)(F). Pub. L. 113–79, § 4020(b)(2)(C), substituted “(D)(i)(I)” for “(D)(i)(II)” wherever appearing.
+Subsec. (c)(1)(F). Pub. L. 113–79, § 4020(b)(2)(C), substituted “(D)(i)(I)” for “(D)(i)(II)” wherever appearing.
 
-Subsec. (d)(5). Pub. L. 113–79, § 4021, added par. (5).
+Subsec. (d)(5). Pub. L. 113–79, § 4021, added par. (5).
 
-Subsec. (h)(1)(A). Pub. L. 113–79, § 4022(a)(1)(A), substituted “24 months” for “15 months” and struck out “, except that for fiscal year 2013 and fiscal year 2014, the amount shall be $79,000,000” before period at end.
+Subsec. (h)(1)(A). Pub. L. 113–79, § 4022(a)(1)(A), substituted “24 months” for “15 months” and struck out “, except that for fiscal year 2013 and fiscal year 2014, the amount shall be $79,000,000” before period at end.
 
 Pub. L. 113–76 inserted “and fiscal year 2014” after “2013”.
 
-Subsec. (h)(1)(C). Pub. L. 113–79, § 4022(a)(1)(B), designated existing provisions as cl. (i), inserted heading, and added cls. (ii) and (iii).
+Subsec. (h)(1)(C). Pub. L. 113–79, § 4022(a)(1)(B), designated existing provisions as cl. (i), inserted heading, and added cls. (ii) and (iii).
 
-Subsec. (h)(1)(F). Pub. L. 113–79, § 4022(a)(1)(C), added subpar. (F).
+Subsec. (h)(1)(F). Pub. L. 113–79, § 4022(a)(1)(C), added subpar. (F).
 
-Subsec. (h)(3), (4). Pub. L. 113–79, § 4022(b)(2), inserted “or a pilot project under paragraph (1)(F)” after “section 2015(d)(4) of this title”.
+Subsec. (h)(3), (4). Pub. L. 113–79, § 4022(b)(2), inserted “or a pilot project under paragraph (1)(F)” after “section 2015(d)(4) of this title”.
 
-Subsec. (h)(5). Pub. L. 113–79, § 4022(a)(2), added par. (5) and struck out former par. (5) which read as follows: “The Secretary shall monitor the employment and training programs carried out by State agencies under section 2015(d)(4) of this title to measure their effectiveness in terms of the increase in the numbers of household members who obtain employment and the numbers of such members who retain such employment as a result of their participation in such employment and training programs.”
+Subsec. (h)(5). Pub. L. 113–79, § 4022(a)(2), added par. (5) and struck out former par. (5) which read as follows: “The Secretary shall monitor the employment and training programs carried out by State agencies under section 2015(d)(4) of this title to measure their effectiveness in terms of the increase in the numbers of household members who obtain employment and the numbers of such members who retain such employment as a result of their participation in such employment and training programs.”
 
-2013—Subsec. (h)(1)(A). Pub. L. 112–240 inserted “, except that for fiscal year 2013, the amount shall be $79,000,000” before period at end.
+2013—Subsec. (h)(1)(A). Pub. L. 112–240 inserted “, except that for fiscal year 2013, the amount shall be $79,000,000” before period at end.
 
-2008—Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing in subsecs. (a) to (c), (e), (i), and (k).
+2008—Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing in subsecs. (a) to (c), (e), (i), and (k).
 
-Subsec. (a)(2), (3). Pub. L. 110–246, § 4115(b)(11), substituted “benefits” for “coupons”.
+Subsec. (a)(2), (3). Pub. L. 110–246, § 4115(b)(11), substituted “benefits” for “coupons”.
 
-Subsec. (a)(4). Pub. L. 110–246, § 4002(a)(8)(A), substituted “informational activities relating to the supplemental nutrition assistance program” for “food stamp informational activities”.
+Subsec. (a)(4). Pub. L. 110–246, § 4002(a)(8)(A), substituted “informational activities relating to the supplemental nutrition assistance program” for “food stamp informational activities”.
 
-Subsec. (c)(9)(C). Pub. L. 110–246, § 4002(a)(8)(B), substituted “the caseload under the supplemental nutrition assistance program” for “food stamp caseload”.
+Subsec. (c)(9)(C). Pub. L. 110–246, § 4002(a)(8)(B), substituted “the caseload under the supplemental nutrition assistance program” for “food stamp caseload”.
 
-Subsec. (g). Pub. L. 110–246, § 4121, added subsec. (g) and struck out former subsec. (g) which read as follows: “The Secretary is authorized to pay to each State agency the amount provided under subsection (a)(6) of this section for the costs incurred by the State agency in the planning, design, development, or installation of automatic data processing and information retrieval systems that the Secretary determines (1) will assist in meeting the requirements of this chapter, (2) meet such conditions as the Secretary prescribes, (3) are likely to provide more efficient and effective administration of the food stamp program, and (4) will be compatible with other such systems used in the administration of State programs funded under part A of title IV of the Social Security Act: *Provided*, That there shall be no such payments to the extent that a State agency is reimbursed for such costs under any other Federal program or uses such systems for purposes not connected with the food stamp program: *Provided further*, That any costs matched under this subsection shall be excluded in determining the State agency’s administrative costs under any other subsection of this section.”
+Subsec. (g). Pub. L. 110–246, § 4121, added subsec. (g) and struck out former subsec. (g) which read as follows: “The Secretary is authorized to pay to each State agency the amount provided under subsection (a)(6) of this section for the costs incurred by the State agency in the planning, design, development, or installation of automatic data processing and information retrieval systems that the Secretary determines (1) will assist in meeting the requirements of this chapter, (2) meet such conditions as the Secretary prescribes, (3) are likely to provide more efficient and effective administration of the food stamp program, and (4) will be compatible with other such systems used in the administration of State programs funded under part A of title IV of the Social Security Act: *Provided*, That there shall be no such payments to the extent that a State agency is reimbursed for such costs under any other Federal program or uses such systems for purposes not connected with the food stamp program: *Provided further*, That any costs matched under this subsection shall be excluded in determining the State agency’s administrative costs under any other subsection of this section.”
 
-Subsec. (h)(1)(A). Pub. L. 110–246, § 4406(a)(3)(A), substituted provisions relating to reservation of $90,000,000 for each fiscal year for provisions relating to reservation of $75,000,000 for fiscal year 1996, $79,000,000 for fiscal year 1997, $81,000,000 and an additional $131,000,000 for fiscal year 1998, $84,000,000 and an additional $31,000,000 for fiscal year 1999, $86,000,000 and an additional $86,000,000 fiscal year 2000, $88,000,000 and an additional $131,000,000 for fiscal year 2001, and $90,000,000 for each of fiscal years 2002 through 2007.
+Subsec. (h)(1)(A). Pub. L. 110–246, § 4406(a)(3)(A), substituted provisions relating to reservation of $90,000,000 for each fiscal year for provisions relating to reservation of $75,000,000 for fiscal year 1996, $79,000,000 for fiscal year 1997, $81,000,000 and an additional $131,000,000 for fiscal year 1998, $84,000,000 and an additional $31,000,000 for fiscal year 1999, $86,000,000 and an additional $86,000,000 fiscal year 2000, $88,000,000 and an additional $131,000,000 for fiscal year 2001, and $90,000,000 for each of fiscal years 2002 through 2007.
 
-Pub. L. 110–246, § 4122, substituted “to remain available for 15 months” for “to remain available until expended”.
+Pub. L. 110–246, § 4122, substituted “to remain available for 15 months” for “to remain available until expended”.
 
-Subsec. (h)(1)(E)(i). Pub. L. 110–246, § 4406(a)(3)(B), substituted “for each fiscal year” for “for each of fiscal years 2002 through 2007” in introductory provisions.
+Subsec. (h)(1)(E)(i). Pub. L. 110–246, § 4406(a)(3)(B), substituted “for each fiscal year” for “for each of fiscal years 2002 through 2007” in introductory provisions.
 
-Pub. L. 110–246, § 4002(a)(8)(C), substituted “members of households receiving supplemental nutrition assistance program benefits” for “food stamp recipients” in introductory provisions.
+Pub. L. 110–246, § 4002(a)(8)(C), substituted “members of households receiving supplemental nutrition assistance program benefits” for “food stamp recipients” in introductory provisions.
 
-Subsec. (k)(3)(A). Pub. L. 110–246, § 4406(a)(4)(A), struck out “effective for each of fiscal years 1999 through 2007,” before “the Secretary shall reduce”.
+Subsec. (k)(3)(A). Pub. L. 110–246, § 4406(a)(4)(A), struck out “effective for each of fiscal years 1999 through 2007,” before “the Secretary shall reduce”.
 
-Subsec. (k)(3)(B)(ii). Pub. L. 110–246, § 4406(a)(4)(B), struck out “through fiscal year 2007” after “for each subsequent fiscal year”.
+Subsec. (k)(3)(B)(ii). Pub. L. 110–246, § 4406(a)(4)(B), struck out “through fiscal year 2007” after “for each subsequent fiscal year”.
 
-2002—Subsec. (c). Pub. L. 107–171, § 4118(a)(1), inserted heading.
+2002—Subsec. (c). Pub. L. 107–171, § 4118(a)(1), inserted heading.
 
-Subsec. (c)(1). Pub. L. 107–171, § 4118(a)(1), added par. (1) and struck out former par. (1) which related to payment error improvement system.
+Subsec. (c)(1). Pub. L. 107–171, § 4118(a)(1), added par. (1) and struck out former par. (1) which related to payment error improvement system.
 
-Subsec. (c)(4). Pub. L. 107–171, § 4118(a)(2), inserted heading and substituted “The Secretary may require a State agency to report any factors that the Secretary considers necessary to determine a State agency’s payment error rate, liability amount or new investment amount under paragraph (1), or performance under the performance measures under subsection (d).” for “The Secretary may require a State agency to report any factors that the Secretary considers necessary to determine a State agency’s payment error rate, enhanced administrative funding, or claim for payment error, under this subsection.”
+Subsec. (c)(4). Pub. L. 107–171, § 4118(a)(2), inserted heading and substituted “The Secretary may require a State agency to report any factors that the Secretary considers necessary to determine a State agency’s payment error rate, liability amount or new investment amount under paragraph (1), or performance under the performance measures under subsection (d).” for “The Secretary may require a State agency to report any factors that the Secretary considers necessary to determine a State agency’s payment error rate, enhanced administrative funding, or claim for payment error, under this subsection.”
 
-Subsec. (c)(5). Pub. L. 107–171, § 4118(a)(3), inserted heading and substituted “To facilitate the implementation of this subsection, each State agency shall expeditiously submit to the Secretary data concerning the operations of the State agency in each fiscal year sufficient for the Secretary to establish the State agency’s payment error rate, liability amount or new investment amount under paragraph (1), or performance under the performance measures under subsection (d).” for “To facilitate the implementation of this subsection each State agency shall submit to the Secretary expeditiously data regarding its operations in each fiscal year sufficient for the Secretary to establish the payment error rate for the State agency for such fiscal year and determine the amount of either incentive payments under paragraph (1)(A) or claims under paragraph (1)(C). The Secretary shall make a determination for a fiscal year, and notify the State agency of such determination, within nine months following the end of each fiscal year.” and “paragraph (1) for a fiscal year” for “paragraph (1)(C) for a fiscal year”.
+Subsec. (c)(5). Pub. L. 107–171, § 4118(a)(3), inserted heading and substituted “To facilitate the implementation of this subsection, each State agency shall expeditiously submit to the Secretary data concerning the operations of the State agency in each fiscal year sufficient for the Secretary to establish the State agency’s payment error rate, liability amount or new investment amount under paragraph (1), or performance under the performance measures under subsection (d).” for “To facilitate the implementation of this subsection each State agency shall submit to the Secretary expeditiously data regarding its operations in each fiscal year sufficient for the Secretary to establish the payment error rate for the State agency for such fiscal year and determine the amount of either incentive payments under paragraph (1)(A) or claims under paragraph (1)(C). The Secretary shall make a determination for a fiscal year, and notify the State agency of such determination, within nine months following the end of each fiscal year.” and “paragraph (1) for a fiscal year” for “paragraph (1)(C) for a fiscal year”.
 
-Subsec. (c)(6). Pub. L. 107–171, § 4118(a)(4), inserted heading, designated first sentence as subpar. (A), inserted heading, struck out “and incentive payments or claims pursuant to paragraphs (1)(A) and (1)(C)” after “State agencies of their error rates”, and substituted “paragraph (8)” for “paragraph (5)” in two places, designated second sentence as subpar. (B) and inserted heading, designated third sentence as subpar. (C), inserted heading, and substituted “the liability amount of a State under paragraph (1)(C)” for “the State share of the cost of payment error under paragraph (1)(C)” and “paragraph (8)” for “paragraph (5)”, and added subpar. (D).
+Subsec. (c)(6). Pub. L. 107–171, § 4118(a)(4), inserted heading, designated first sentence as subpar. (A), inserted heading, struck out “and incentive payments or claims pursuant to paragraphs (1)(A) and (1)(C)” after “State agencies of their error rates”, and substituted “paragraph (8)” for “paragraph (5)” in two places, designated second sentence as subpar. (B) and inserted heading, designated third sentence as subpar. (C), inserted heading, and substituted “the liability amount of a State under paragraph (1)(C)” for “the State share of the cost of payment error under paragraph (1)(C)” and “paragraph (8)” for “paragraph (5)”, and added subpar. (D).
 
-Subsec. (c)(7). Pub. L. 107–171, § 4118(a)(5), inserted heading, designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraphs (B) and (C), if the Secretary asserts a financial claim against or establishes a liability amount with respect to” for “If the Secretary asserts a financial claim against” and “paragraph (1)” for “paragraph (1)(C)”, and added subpars. (B) and (C).
+Subsec. (c)(7). Pub. L. 107–171, § 4118(a)(5), inserted heading, designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraphs (B) and (C), if the Secretary asserts a financial claim against or establishes a liability amount with respect to” for “If the Secretary asserts a financial claim against” and “paragraph (1)” for “paragraph (1)(C)”, and added subpars. (B) and (C).
 
-Subsec. (c)(8)(A). Pub. L. 107–171, § 4118(a)(6)(A), substituted “paragraph (1)” for “paragraph (1)(C)”.
+Subsec. (c)(8)(A). Pub. L. 107–171, § 4118(a)(6)(A), substituted “paragraph (1)” for “paragraph (1)(C)”.
 
-Subsec. (c)(8)(B). Pub. L. 107–171, § 4119(a)(1), substituted “the first May 31 after the end of the fiscal year referred to in subparagraph (A)” for “180 days after the end of the fiscal year”.
+Subsec. (c)(8)(B). Pub. L. 107–171, § 4119(a)(1), substituted “the first May 31 after the end of the fiscal year referred to in subparagraph (A)” for “180 days after the end of the fiscal year”.
 
-Subsec. (c)(8)(C). Pub. L. 107–171, § 4119(a)(2), substituted “the first June 30 after the end of the fiscal year referred to in subparagraph (A)” for “30 days thereafter” in introductory provisions.
+Subsec. (c)(8)(C). Pub. L. 107–171, § 4119(a)(2), substituted “the first June 30 after the end of the fiscal year referred to in subparagraph (A)” for “30 days thereafter” in introductory provisions.
 
-Subsec. (c)(8)(C)(i). Pub. L. 107–171, § 4118(a)(6)(B)(i), substituted “payment claimed against State agencies or liability amount established with respect to State agencies;” for “payment claimed against State agencies; and”.
+Subsec. (c)(8)(C)(i). Pub. L. 107–171, § 4118(a)(6)(B)(i), substituted “payment claimed against State agencies or liability amount established with respect to State agencies;” for “payment claimed against State agencies; and”.
 
-Subsec. (c)(8)(C)(ii). Pub. L. 107–171, § 4118(a)(6)(B)(ii), substituted “claims or liability amounts; and” for “claims.”
+Subsec. (c)(8)(C)(ii). Pub. L. 107–171, § 4118(a)(6)(B)(ii), substituted “claims or liability amounts; and” for “claims.”
 
-Subsec. (c)(8)(C)(iii). Pub. L. 107–171, § 4118(a)(6)(B)(iii), added cl. (iii).
+Subsec. (c)(8)(C)(iii). Pub. L. 107–171, § 4118(a)(6)(B)(iii), added cl. (iii).
 
-Subsec. (c)(8)(D), (H). Pub. L. 107–171, § 4118(a)(6)(C), inserted “or liability amount” after “claim” wherever appearing.
+Subsec. (c)(8)(D), (H). Pub. L. 107–171, § 4118(a)(6)(C), inserted “or liability amount” after “claim” wherever appearing.
 
-Subsec. (d). Pub. L. 107–171, § 4120(a), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Secretary shall undertake the following studies of the payment error improvement system established under subsection (c) of this section:
+Subsec. (d). Pub. L. 107–171, § 4120(a), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Secretary shall undertake the following studies of the payment error improvement system established under subsection (c) of this section:
 
 “(1) An assessment of the feasibility of measuring payment errors due to improper denials and terminations of benefits or otherwise developing performance standards with financial consequences for improper denials and terminations, including incorporation in subsection (c) of this section. The Secretary shall report the results of such study and the recommendations of the Secretary to the Congress by July 1, 1990.
 
 “(2) An evaluation of the effectiveness of the system of program improvement initiated under this section that shall be reported to the Congress along with the Secretary’s recommendations no later than 3 years from September 19, 1988.”
 
-Subsec. (h)(1)(A)(vii). Pub. L. 107–171, § 4121(a)(1), added cl. (vii) and struck out former cl. (vii) which read as follows: “for fiscal year 2002—
+Subsec. (h)(1)(A)(vii). Pub. L. 107–171, § 4121(a)(1), added cl. (vii) and struck out former cl. (vii) which read as follows: “for fiscal year 2002—
 
 “(I) $90,000,000; and
 
 “(II) an additional amount of $75,000,000.”
 
-Subsec. (h)(1)(B). Pub. L. 107–171, § 4121(a)(2), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows:
+Subsec. (h)(1)(B). Pub. L. 107–171, § 4121(a)(2), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows:
 
 “(i) Allocation formula.—The Secretary shall allocate the amounts reserved under subparagraph (A) among the State agencies using a reasonable formula, as determined and adjusted by the Secretary each fiscal year, to reflect—
 
@@ -8203,147 +8203,147 @@ Subsec. (h)(1)(B). Pub. L. 107–171, § 4121(a)(2), added subpar. (B) and str
 
 “(iii) Reporting requirement.—A State agency shall submit such reports to the Secretary as the Secretary determines are necessary to ensure compliance with this paragraph.”
 
-Subsec. (h)(1)(E) to (G). Pub. L. 107–171, § 4121(a)(3), added subpar. (E) and struck out heading and text of former subpars. (E) to (G) which related to use of funds, maintenance of effort, and component costs, respectively.
+Subsec. (h)(1)(E) to (G). Pub. L. 107–171, § 4121(a)(3), added subpar. (E) and struck out heading and text of former subpars. (E) to (G) which related to use of funds, maintenance of effort, and component costs, respectively.
 
-Subsec. (h)(3). Pub. L. 107–171, § 4121(d), substituted “the amount of the reimbursement for dependent care expenses shall not exceed” for “such total amount shall not exceed an amount representing $25 per participant per month for costs of transportation and other actual costs (other than dependent care costs) and”.
+Subsec. (h)(3). Pub. L. 107–171, § 4121(d), substituted “the amount of the reimbursement for dependent care expenses shall not exceed” for “such total amount shall not exceed an amount representing $25 per participant per month for costs of transportation and other actual costs (other than dependent care costs) and”.
 
-Subsec. (k)(3)(A). Pub. L. 107–171, § 4122(a)(1), substituted “2007” for “2002”.
+Subsec. (k)(3)(A). Pub. L. 107–171, § 4122(a)(1), substituted “2007” for “2002”.
 
-Subsec. (k)(3)(B)(ii). Pub. L. 107–171, § 4122(a)(2), substituted “2007” for “2002”.
+Subsec. (k)(3)(B)(ii). Pub. L. 107–171, § 4122(a)(2), substituted “2007” for “2002”.
 
 1999—Subsec. (a). Pub. L. 106–78, which directed the amendment of “the Food Stamp Act (Public Law 95–113, section 16(a))” by inserting “or in a Native village within the State of Alaska identified in section 1610(b) of title 43.” before “such amounts”, was executed by making the amendment to this section, which is section 16(a) of the Food Stamp Act of 1977, Pub. L. 88–525, as amended by Pub. L. 95–113, to reflect the probable intent of Congress.
 
-1998—Subsec. (a). Pub. L. 105–185, § 502(a)(1), substituted “Subject to subsection (k), the Secretary” for “The Secretary” in first sentence.
+1998—Subsec. (a). Pub. L. 105–185, § 502(a)(1), substituted “Subject to subsection (k), the Secretary” for “The Secretary” in first sentence.
 
-Subsec. (h)(1)(A)(iv)(II). Pub. L. 105–185, § 501(1), substituted “$31,000,000” for “$131,000,000”.
+Subsec. (h)(1)(A)(iv)(II). Pub. L. 105–185, § 501(1), substituted “$31,000,000” for “$131,000,000”.
 
-Subsec. (h)(1)(A)(v)(II). Pub. L. 105–185, § 501(2), substituted “$86,000,000” for “$131,000,000”.
+Subsec. (h)(1)(A)(v)(II). Pub. L. 105–185, § 501(2), substituted “$86,000,000” for “$131,000,000”.
 
-Subsec. (k). Pub. L. 105–185, § 502(a)(2), added subsec. (k).
+Subsec. (k). Pub. L. 105–185, § 502(a)(2), added subsec. (k).
 
 1997—Subsec. (h)(1). Pub. L. 105–33 added par. (1) and struck out former par. (1) consisting of subpars. (A) to (D) requiring the Secretary to reserve for allocation to State agencies specified amounts for fiscal years 1996 to 2002 to carry out employment and training programs.
 
-1996—Subsec. (a). Pub. L. 104–193, §§ 844(c), 847, inserted “but not including recruitment activities,” before “(5) fair” and substituted “35 percent of the value of all funds or allotments recovered or collected pursuant to sections 2015(b) and 2022(c) of this title and 20 percent of the value of any other funds or allotments recovered or collected, except the value of funds or allotments recovered or collected that arise” for “25 percent during the period beginning October 1, 1990, and ending September 30, 1995, and 50 percent thereafter of the value of all funds or allotments recovered or collected pursuant to subsections (b)(1) and (c) of section 2022 of this title and 10 percent during the period beginning October 1, 1990, and ending September 30, 1995, and 25 percent thereafter of the value of all funds or allotments recovered or collected pursuant to section 2022(b)(2) of this title, except the value of funds or allotments recovered or collected pursuant to section 2022(b)(2) of this title which arise”.
+1996—Subsec. (a). Pub. L. 104–193, §§ 844(c), 847, inserted “but not including recruitment activities,” before “(5) fair” and substituted “35 percent of the value of all funds or allotments recovered or collected pursuant to sections 2015(b) and 2022(c) of this title and 20 percent of the value of any other funds or allotments recovered or collected, except the value of funds or allotments recovered or collected that arise” for “25 percent during the period beginning October 1, 1990, and ending September 30, 1995, and 50 percent thereafter of the value of all funds or allotments recovered or collected pursuant to subsections (b)(1) and (c) of section 2022 of this title and 10 percent during the period beginning October 1, 1990, and ending September 30, 1995, and 25 percent thereafter of the value of all funds or allotments recovered or collected pursuant to section 2022(b)(2) of this title, except the value of funds or allotments recovered or collected pursuant to section 2022(b)(2) of this title which arise”.
 
-Subsec. (b). Pub. L. 104–193, §§ 848(a), 849, added subsec. (b) and struck out former subsec. (b) which read as follows: “The Secretary shall (1) establish standards for the efficient and effective administration of the food stamp program by the States, including standards for the periodic review of the hours that food stamp offices are open during the day, week, or month to ensure that employed individuals are adequately served by the food stamp program, and (2) instruct each State to submit, at regular intervals, reports which shall specify the specific administrative actions proposed to be taken and implemented in order to meet the efficiency and effectiveness standards established pursuant to clause (1) of this subsection.”
+Subsec. (b). Pub. L. 104–193, §§ 848(a), 849, added subsec. (b) and struck out former subsec. (b) which read as follows: “The Secretary shall (1) establish standards for the efficient and effective administration of the food stamp program by the States, including standards for the periodic review of the hours that food stamp offices are open during the day, week, or month to ensure that employed individuals are adequately served by the food stamp program, and (2) instruct each State to submit, at regular intervals, reports which shall specify the specific administrative actions proposed to be taken and implemented in order to meet the efficiency and effectiveness standards established pursuant to clause (1) of this subsection.”
 
-Subsec. (c)(1)(B). Pub. L. 104–193, § 848(b)(2), struck out “pursuant to subsection (b) of this section” after “by the States”.
+Subsec. (c)(1)(B). Pub. L. 104–193, § 848(b)(2), struck out “pursuant to subsection (b) of this section” after “by the States”.
 
-Subsec. (g)(4). Pub. L. 104–193, § 109(c), substituted “State programs funded under part A of” for “State plans under the Aid to Families with Dependent Children Program under”.
+Subsec. (g)(4). Pub. L. 104–193, § 109(c), substituted “State programs funded under part A of” for “State plans under the Aid to Families with Dependent Children Program under”.
 
-Subsec. (h). Pub. L. 104–193, § 817(b), inserted subsec. heading.
+Subsec. (h). Pub. L. 104–193, § 817(b), inserted subsec. heading.
 
-Subsec. (h)(1). Pub. L. 104–193, § 817(b), added par. (1) and struck out former par. (1) which authorized Secretary to allocate funds among State agencies for each of the fiscal years 1991 through 2002 to carry out employment and training program under section 2015(d)(4) of this title.
+Subsec. (h)(1). Pub. L. 104–193, § 817(b), added par. (1) and struck out former par. (1) which authorized Secretary to allocate funds among State agencies for each of the fiscal years 1991 through 2002 to carry out employment and training program under section 2015(d)(4) of this title.
 
-Pub. L. 104–127, § 401(b), substituted “2002” for “1995” wherever appearing in subpars. (A), (B), (D), and (E)(ii).
+Pub. L. 104–127, § 401(b), substituted “2002” for “1995” wherever appearing in subpars. (A), (B), (D), and (E)(ii).
 
-Subsec. (h)(2). Pub. L. 104–193, § 817(c), inserted before period at end “, including the costs for case management and casework to facilitate the transition from economic dependency to self-sufficiency through work”.
+Subsec. (h)(2). Pub. L. 104–193, § 817(c), inserted before period at end “, including the costs for case management and casework to facilitate the transition from economic dependency to self-sufficiency through work”.
 
-Subsec. (h)(5). Pub. L. 104–193, § 817(d)(1), struck out “(A)” before “The Secretary shall” and struck out subpar. (B) which read as follows: “The Secretary shall, not later than January 1, 1989, report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the effectiveness of such employment and training programs.”
+Subsec. (h)(5). Pub. L. 104–193, § 817(d)(1), struck out “(A)” before “The Secretary shall” and struck out subpar. (B) which read as follows: “The Secretary shall, not later than January 1, 1989, report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the effectiveness of such employment and training programs.”
 
-Subsec. (h)(6). Pub. L. 104–193, § 817(d)(2), struck out par. (6) which read as follows: “The Secretary shall develop, and transmit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a proposal for modifying the rate of Federal payments under this subsection so as to reflect the relative effectiveness of the various States in carrying out employment and training programs under section 2015(d)(4) of this title.”
+Subsec. (h)(6). Pub. L. 104–193, § 817(d)(2), struck out par. (6) which read as follows: “The Secretary shall develop, and transmit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a proposal for modifying the rate of Federal payments under this subsection so as to reflect the relative effectiveness of the various States in carrying out employment and training programs under section 2015(d)(4) of this title.”
 
 1995—Subsec. (i)(3). Pub. L. 104–66 struck out par. (3) which read as follows: “Not later than 12 months after December 23, 1985, and each 12 months thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that lists project areas identified under paragraph (1) and describes any procedures required to be carried out under paragraph (2).”
 
 1994—Subsec. (e). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” in two places.
 
-1993—Subsec. (a). Pub. L. 103–66, § 13961(1), added cls. (6) to (8) and in proviso struck out “authorized to pay each State agency an amount not less than 75 per centum of the costs of State food stamp program investigations and prosecutions, and is further” after “That the Secretary is”.
+1993—Subsec. (a). Pub. L. 103–66, § 13961(1), added cls. (6) to (8) and in proviso struck out “authorized to pay each State agency an amount not less than 75 per centum of the costs of State food stamp program investigations and prosecutions, and is further” after “That the Secretary is”.
 
-Subsec. (c)(1)(C). Pub. L. 103–66, § 13951(c)(1), substituted “national performance measure” for “payment error tolerance level” and substituted “equal to—” followed by cl. (i) for “equal to its payment error rate less such tolerance level times the total value of allotments issued in such a fiscal year by such State agency.”
+Subsec. (c)(1)(C). Pub. L. 103–66, § 13951(c)(1), substituted “national performance measure” for “payment error tolerance level” and substituted “equal to—” followed by cl. (i) for “equal to its payment error rate less such tolerance level times the total value of allotments issued in such a fiscal year by such State agency.”
 
-Subsec. (c)(3)(A). Pub. L. 103–66, § 13951(c)(2), substituted “120 days” for “60 days (or 90 days at the discretion of the Secretary)”.
+Subsec. (c)(3)(A). Pub. L. 103–66, § 13951(c)(2), substituted “120 days” for “60 days (or 90 days at the discretion of the Secretary)”.
 
-Subsec. (c)(6). Pub. L. 103–66, § 13951(c)(3), struck out “shall be used to establish a payment-error tolerance level. Such tolerance level for any fiscal year will be one percentage point added to the lowest national performance measure ever announced up to and including such fiscal year under this section. The payment-error tolerance level” after “The announced national performance measure”.
+Subsec. (c)(6). Pub. L. 103–66, § 13951(c)(3), struck out “shall be used to establish a payment-error tolerance level. Such tolerance level for any fiscal year will be one percentage point added to the lowest national performance measure ever announced up to and including such fiscal year under this section. The payment-error tolerance level” after “The announced national performance measure”.
 
-Subsec. (c)(8), (9). Pub. L. 103–66, § 13951(c)(4), added pars. (8) and (9).
+Subsec. (c)(8), (9). Pub. L. 103–66, § 13951(c)(4), added pars. (8) and (9).
 
-Subsec. (g). Pub. L. 103–66, § 13961(2), which directed the substitution of “the amount provided under subsection (a)(6) of this section for” for “an amount equal to 63 percent effective on October 1, 1991, of”, was executed to reflect the probable intent of Congress by making the substitution for “an amount equal to—
+Subsec. (g). Pub. L. 103–66, § 13961(2), which directed the substitution of “the amount provided under subsection (a)(6) of this section for” for “an amount equal to 63 percent effective on October 1, 1991, of”, was executed to reflect the probable intent of Congress by making the substitution for “an amount equal to—
 
 “63 percent effective on October 1, 1991, of”.
 
-Subsec. (h)(3). Pub. L. 103–66, § 13922(c), substituted “equal to the payment made under section 2015(d)(4)(I)(i)(II) of this title but not more than the applicable local market rate,” for “representing $160 per month per dependent”.
+Subsec. (h)(3). Pub. L. 103–66, § 13922(c), substituted “equal to the payment made under section 2015(d)(4)(I)(i)(II) of this title but not more than the applicable local market rate,” for “representing $160 per month per dependent”.
 
-Subsecs. (j), (k). Pub. L. 103–66, § 13961(3), (4), redesignated subsec. (k) as (j) and struck out former subsec. (j) which read as follows: “The Secretary is authorized to pay to each State agency an amount equal to 100 per centum of the costs incurred by the State agency in implementing and operating the immigration status verification system described in section 1137(d) of the Social Security Act.”
+Subsecs. (j), (k). Pub. L. 103–66, § 13961(3), (4), redesignated subsec. (k) as (j) and struck out former subsec. (j) which read as follows: “The Secretary is authorized to pay to each State agency an amount equal to 100 per centum of the costs incurred by the State agency in implementing and operating the immigration status verification system described in section 1137(d) of the Social Security Act.”
 
-1991—Subsec. (g). Pub. L. 102–237, § 941(7)(A), inserted a comma after “1991”.
+1991—Subsec. (g). Pub. L. 102–237, § 941(7)(A), inserted a comma after “1991”.
 
-Subsec. (h)(4). Pub. L. 102–237, § 941(7)(B), substituted “this chapter” for “the chapter”.
+Subsec. (h)(4). Pub. L. 102–237, § 941(7)(B), substituted “this chapter” for “the chapter”.
 
-1990—Subsec. (a). Pub. L. 101–624, § 1750, substituted “25 percent during the period beginning October 1, 1990, and ending September 30, 1995, and 50 percent thereafter” for “50 per centum”, and “10 percent during the period beginning October 1, 1990, and ending September 30, 1995, and 25 percent thereafter” for “25 per centum”.
+1990—Subsec. (a). Pub. L. 101–624, § 1750, substituted “25 percent during the period beginning October 1, 1990, and ending September 30, 1995, and 50 percent thereafter” for “50 per centum”, and “10 percent during the period beginning October 1, 1990, and ending September 30, 1995, and 25 percent thereafter” for “25 per centum”.
 
-Subsec. (g). Pub. L. 101–624, § 1752(a), substituted “The” for “Effective October 1, 1980, the” and “63 percent effective on October 1, 1991” for “75 per centum”.
+Subsec. (g). Pub. L. 101–624, § 1752(a), substituted “The” for “Effective October 1, 1980, the” and “63 percent effective on October 1, 1991” for “75 per centum”.
 
-Subsec. (h)(1). Pub. L. 101–624, § 1753, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary shall allocate among the State agencies in each fiscal year, from funds appropriated for such fiscal year under section 2027(a)(1) of this title, the amount of $40,000,000 for the fiscal year ending September 30, 1986, $50,000,000 for the fiscal year ending September 30, 1987, $60,000,000 for the fiscal year ending September 30, 1988, and $75,000,000 for each of the fiscal years ending September 30, 1989 and September 30, 1990, to carry out the employment and training program under section 2015(d)(4) of this title, except as provided in paragraph (3), during such fiscal year.”
+Subsec. (h)(1). Pub. L. 101–624, § 1753, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary shall allocate among the State agencies in each fiscal year, from funds appropriated for such fiscal year under section 2027(a)(1) of this title, the amount of $40,000,000 for the fiscal year ending September 30, 1986, $50,000,000 for the fiscal year ending September 30, 1987, $60,000,000 for the fiscal year ending September 30, 1988, and $75,000,000 for each of the fiscal years ending September 30, 1989 and September 30, 1990, to carry out the employment and training program under section 2015(d)(4) of this title, except as provided in paragraph (3), during such fiscal year.”
 
-1988—Subsec. (a)(4). Pub. L. 100–435, § 204(b), substituted “, including those undertaken” for “permitted”.
+1988—Subsec. (a)(4). Pub. L. 100–435, § 204(b), substituted “, including those undertaken” for “permitted”.
 
-Subsec. (c). Pub. L. 100–435, § 604(1), added subsec. (c) and struck out former subsec. (c) which related to State incentives for reducing error.
+Subsec. (c). Pub. L. 100–435, § 604(1), added subsec. (c) and struck out former subsec. (c) which related to State incentives for reducing error.
 
-Subsec. (d). Pub. L. 100–435, § 604(2), added subsec. (d) and struck out former subsec. (d) which defined “payment error rate” and instituted error rate reduction program.
+Subsec. (d). Pub. L. 100–435, § 604(2), added subsec. (d) and struck out former subsec. (d) which defined “payment error rate” and instituted error rate reduction program.
 
-Subsec. (h). Pub. L. 100–435, § 321(c), redesignated subsec. (h), relating to payment of costs of immigration status verification system, as (j).
+Subsec. (h). Pub. L. 100–435, § 321(c), redesignated subsec. (h), relating to payment of costs of immigration status verification system, as (j).
 
-Subsec. (h)(3). Pub. L. 100–435, § 404(g), inserted “for costs of transportation and other actual costs (other than dependent care costs) and an amount representing $160 per month per dependent” after “month”.
+Subsec. (h)(3). Pub. L. 100–435, § 404(g), inserted “for costs of transportation and other actual costs (other than dependent care costs) and an amount representing $160 per month per dependent” after “month”.
 
-Subsec. (h)(6). Pub. L. 100–435, § 404(e), added par. (6).
+Subsec. (h)(6). Pub. L. 100–435, § 404(e), added par. (6).
 
-Subsec. (j). Pub. L. 100–435, § 321(c), redesignated subsec. (h), relating to payment of costs of immigration status verification system, as (j).
+Subsec. (j). Pub. L. 100–435, § 321(c), redesignated subsec. (h), relating to payment of costs of immigration status verification system, as (j).
 
-Subsec. (k). Pub. L. 100–435, § 321(b), added subsec. (k).
+Subsec. (k). Pub. L. 100–435, § 321(b), added subsec. (k).
 
 1987—Subsec. (a). Pub. L. 100–77 substituted “(4) food stamp informational activities permitted under section 2020(e)(1)(A) of this title, and (5)” for “and (4)” in first sentence.
 
 1986—Subsec. (h). Pub. L. 99–603 added, at end of section, subsec. (h) relating to payment of costs of immigration status verification system.
 
-1985—Subsec. (a). Pub. L. 99–198, § 1535(c)(1), substituted “subsections (b)(1) and (c) of section 2022 of this title” for “section 2022(b)(1) of this title”.
+1985—Subsec. (a). Pub. L. 99–198, § 1535(c)(1), substituted “subsections (b)(1) and (c) of section 2022 of this title” for “section 2022(b)(1) of this title”.
 
-Subsec. (b)(1). Pub. L. 99–198, § 1524, inserted “, including standards for the periodic review of the hours that food stamp offices are open during the day, week, or month to ensure that employed individuals are adequately served by the food stamp program,” after “States”.
+Subsec. (b)(1). Pub. L. 99–198, § 1524, inserted “, including standards for the periodic review of the hours that food stamp offices are open during the day, week, or month to ensure that employed individuals are adequately served by the food stamp program,” after “States”.
 
-Subsec. (d)(2)(A). Pub. L. 99–198, § 1537(a)(1), inserted “less any amount payable as a result of the use by the State agency of correctly processed information received from an automatic information exchange system made available by any Federal department or agency”.
+Subsec. (d)(2)(A). Pub. L. 99–198, § 1537(a)(1), inserted “less any amount payable as a result of the use by the State agency of correctly processed information received from an automatic information exchange system made available by any Federal department or agency”.
 
-Subsec. (d)(6). Pub. L. 99–198, § 1537(a)(2), added par. (6).
+Subsec. (d)(6). Pub. L. 99–198, § 1537(a)(2), added par. (6).
 
-Subsec. (h). Pub. L. 99–198, § 1517(c), added subsec. (h) relating to authorization of appropriations, etc.
+Subsec. (h). Pub. L. 99–198, § 1517(c), added subsec. (h) relating to authorization of appropriations, etc.
 
-Subsec. (i). Pub. L. 99–198, § 1539, added subsec. (i).
+Subsec. (i). Pub. L. 99–198, § 1539, added subsec. (i).
 
-1982—Subsec. (a). Pub. L. 97–253, § 179, inserted “, except the value of funds or allotments recovered or collected pursuant to section 2022(b)(2) of this title which arise from an error of a State agency”.
+1982—Subsec. (a). Pub. L. 97–253, § 179, inserted “, except the value of funds or allotments recovered or collected pursuant to section 2022(b)(2) of this title which arise from an error of a State agency”.
 
-Subsec. (c). Pub. L. 97–253, § 180(a)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary is authorized to adjust a State agency’s federally funded share of administrative costs pursuant to subsection (a) of this section, other than the costs already shared in excess of 50 per centum as described in the exception clause of subsection (a) of this section, by increasing such share to (1) effective October 1, 1978, 60 per centum of all such administrative costs in the case of a State agency whose (A) semiannual cumulative allotment error rates with respect to eligibility, overissuance, and underissuance as calculated in the quality control program undertaken pursuant to subsection (d)(1) of this section are less than five per centum and (B) whose rate of invalid decisions in denying eligibility as calculated in the quality control program conducted under subsection (d)(1) of this section is less than a nationwide percentage that the Secretary determines to be reasonable; (2) effective October 1, 1980, 65 per centum of all such administrative costs in the case of a State agency meeting the standards contained in paragraph (1) of this subsection; (3) effective October 1, 1980, 60 per centum of all such administrative costs in the case of a State agency whose cumulative allotment error rate as determined under paragraph (1)(A) of this subsection is greater than 5 per centum but less than 8 per centum or the national standard payment error rate for the base period, whichever is lower, and which also meets the standard contained in paragraph (1)(B) of this subsection; and (4) effective October 1, 1980, 55 per centum of all such administrative costs in the case of a State agency whose annual rate of error reduction is equal to or exceeds 25 per centum, and, effective October 1, 1981, which also meets the standard contained in paragraph (1)(B) of this subsection. No State agency shall receive more than one of the increased federally funded shares of administrative costs set forth in paragraphs (1) through (4) of this subsection.”
+Subsec. (c). Pub. L. 97–253, § 180(a)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary is authorized to adjust a State agency’s federally funded share of administrative costs pursuant to subsection (a) of this section, other than the costs already shared in excess of 50 per centum as described in the exception clause of subsection (a) of this section, by increasing such share to (1) effective October 1, 1978, 60 per centum of all such administrative costs in the case of a State agency whose (A) semiannual cumulative allotment error rates with respect to eligibility, overissuance, and underissuance as calculated in the quality control program undertaken pursuant to subsection (d)(1) of this section are less than five per centum and (B) whose rate of invalid decisions in denying eligibility as calculated in the quality control program conducted under subsection (d)(1) of this section is less than a nationwide percentage that the Secretary determines to be reasonable; (2) effective October 1, 1980, 65 per centum of all such administrative costs in the case of a State agency meeting the standards contained in paragraph (1) of this subsection; (3) effective October 1, 1980, 60 per centum of all such administrative costs in the case of a State agency whose cumulative allotment error rate as determined under paragraph (1)(A) of this subsection is greater than 5 per centum but less than 8 per centum or the national standard payment error rate for the base period, whichever is lower, and which also meets the standard contained in paragraph (1)(B) of this subsection; and (4) effective October 1, 1980, 55 per centum of all such administrative costs in the case of a State agency whose annual rate of error reduction is equal to or exceeds 25 per centum, and, effective October 1, 1981, which also meets the standard contained in paragraph (1)(B) of this subsection. No State agency shall receive more than one of the increased federally funded shares of administrative costs set forth in paragraphs (1) through (4) of this subsection.”
 
-Subsec. (d). Pub. L. 97–253, § 180(a)(2), (3), added subsec. (d), and struck out former subsec. (d) which provided that effective October 1, 1981, and annually thereafter, each State not receiving an increased share of administrative costs pursuant to subsec. (c)(2) of this section was required to develop and submit to the Secretary for approval, as part of the plan of operation required to be submitted under section 2020(d) of this title, a quality control plan for the State which had to specify the actions such State proposes to take in order to reduce the incidence of error rates in and the value of food stamp allotments for households which failed to meet basic program eligibility requirements, food stamp allotments overissued to eligible households, and food stamp allotments underissued to eligible households, and (2) the incidence of invalid decisions in certifying or denying eligibility.
+Subsec. (d). Pub. L. 97–253, § 180(a)(2), (3), added subsec. (d), and struck out former subsec. (d) which provided that effective October 1, 1981, and annually thereafter, each State not receiving an increased share of administrative costs pursuant to subsec. (c)(2) of this section was required to develop and submit to the Secretary for approval, as part of the plan of operation required to be submitted under section 2020(d) of this title, a quality control plan for the State which had to specify the actions such State proposes to take in order to reduce the incidence of error rates in and the value of food stamp allotments for households which failed to meet basic program eligibility requirements, food stamp allotments overissued to eligible households, and food stamp allotments underissued to eligible households, and (2) the incidence of invalid decisions in certifying or denying eligibility.
 
-Subsec. (e). Pub. L. 97–253, §§ 180(a)(2), 189(b)(3), redesignated subsec. (f) as (e), substituted reference to the Secretary of Health and Human Services for former reference to the Secretary of Health, Education, and Welfare. Former subsec. (e), which defined “quality control” as the monitoring and reduction of the rate of errors in determining basic eligibility and benefit levels, was struck out.
+Subsec. (e). Pub. L. 97–253, §§ 180(a)(2), 189(b)(3), redesignated subsec. (f) as (e), substituted reference to the Secretary of Health and Human Services for former reference to the Secretary of Health, Education, and Welfare. Former subsec. (e), which defined “quality control” as the monitoring and reduction of the rate of errors in determining basic eligibility and benefit levels, was struck out.
 
-Subsec. (f). Pub. L. 97–253, §§ 180(a)(2), 189(c), redesignated subsec. (h) as (f), substituted a period for the semicolon, and struck out “and” at the end. Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 97–253, §§ 180(a)(2), 189(c), redesignated subsec. (h) as (f), substituted a period for the semicolon, and struck out “and” at the end. Former subsec. (f) redesignated (e).
 
-Subsec. (g). Pub. L. 97–253, § 180(a)(2), redesignated former subsec. (i) as (g). Former subsec. (g), which related to State liability for error under this section, was struck out.
+Subsec. (g). Pub. L. 97–253, § 180(a)(2), redesignated former subsec. (i) as (g). Former subsec. (g), which related to State liability for error under this section, was struck out.
 
-Subsecs. (h), (i). Pub. L. 97–253, § 180(a)(2), redesignated subsecs. (h) and (i) as (f) and (g), respectively.
+Subsecs. (h), (i). Pub. L. 97–253, § 180(a)(2), redesignated subsecs. (h) and (i) as (f) and (g), respectively.
 
 1981—Subsec. (a). Pub. L. 97–35 substituted provisions relating to recovery through section 2022(b)(1) and (2) of this title for provisions relating to recovery through prosecutions or other State activities, substituted “determinations of ineligibility” for “determinations of fraud”, struck out “(1) outreach,” and redesignated cls. (2) to (5) as (1) to (4), respectively.
 
-Subsec. (b)(1). Pub. L. 97–98, § 1325, struck out “, including, but not limited to, staffing standards such as caseload per certification worker limitations,” after “by the States”.
+Subsec. (b)(1). Pub. L. 97–98, § 1325, struck out “, including, but not limited to, staffing standards such as caseload per certification worker limitations,” after “by the States”.
 
-Subsec. (c). Pub. L. 97–98, § 1326(1), inserted “, and, effective October 1, 1981, which also meets the standard contained in paragraph (1)(B) of this subsection” after “exceeds 25 per centum”.
+Subsec. (c). Pub. L. 97–98, § 1326(1), inserted “, and, effective October 1, 1981, which also meets the standard contained in paragraph (1)(B) of this subsection” after “exceeds 25 per centum”.
 
-Subsec. (d). Pub. L. 97–98, § 1326(2), substituted in provision preceding par. (1) “October 1, 1981” for “October 1, 1978” and “subsection (c)(2) of this section” for “subsection (c) of this section”.
+Subsec. (d). Pub. L. 97–98, § 1326(2), substituted in provision preceding par. (1) “October 1, 1981” for “October 1, 1978” and “subsection (c)(2) of this section” for “subsection (c) of this section”.
 
-Subsec. (f). Pub. L. 97–98, § 1327, substituted “State agencies shall” for “State agencies may”.
+Subsec. (f). Pub. L. 97–98, § 1327, substituted “State agencies shall” for “State agencies may”.
 
-1980—Subsec. (b). Pub. L. 96–249, § 121, struck out provisions requiring that if the Secretary finds that a State has failed without good cause to meet any of the Secretary’s standards, or has failed to carry out the approved State plan of operation under section 2020(d) of this title, the Secretary withhold from the State such funds authorized under subsections (a) and (c) of this section as the Secretary determines to be appropriate.
+1980—Subsec. (b). Pub. L. 96–249, § 121, struck out provisions requiring that if the Secretary finds that a State has failed without good cause to meet any of the Secretary’s standards, or has failed to carry out the approved State plan of operation under section 2020(d) of this title, the Secretary withhold from the State such funds authorized under subsections (a) and (c) of this section as the Secretary determines to be appropriate.
 
-Subsec. (c). Pub. L. 96–249, § 125, designated existing provisions as par. (1), substituted “(A) semiannual cumulative” for “cumulative”, and added subpar. (B) and pars. (2) to (4).
+Subsec. (c). Pub. L. 96–249, § 125, designated existing provisions as par. (1), substituted “(A) semiannual cumulative” for “cumulative”, and added subpar. (B) and pars. (2) to (4).
 
-Subsec. (g). Pub. L. 96–249, § 126, added subsec. (g).
+Subsec. (g). Pub. L. 96–249, § 126, added subsec. (g).
 
-Subsec. (h). Pub. L. 96–249, § 128, added subsec. (h).
+Subsec. (h). Pub. L. 96–249, § 128, added subsec. (h).
 
-Subsec. (i). Pub. L. 96–249, § 129, added subsec. (i).
+Subsec. (i). Pub. L. 96–249, § 129, added subsec. (i).
 
-1979—Subsec. (a). Pub. L. 96–58, § 6, authorized the Secretary to permit each State to retain 50 per centum of the value of all funds or allotments recovered or collected through prosecutions or other State activities directed against individuals who fraudulently obtain allotments as determined in accordance with this chapter but directed that officials responsible for making determinations of fraud under this chapter should not receive or benefit from revenues retained by the State under the provisions of this subsection.
+1979—Subsec. (a). Pub. L. 96–58, § 6, authorized the Secretary to permit each State to retain 50 per centum of the value of all funds or allotments recovered or collected through prosecutions or other State activities directed against individuals who fraudulently obtain allotments as determined in accordance with this chapter but directed that officials responsible for making determinations of fraud under this chapter should not receive or benefit from revenues retained by the State under the provisions of this subsection.
 
-Subsec. (f). Pub. L. 96–58, § 4, added subsec. (f).
+Subsec. (f). Pub. L. 96–58, § 4, added subsec. (f).
 
 1977—Pub. L. 95–113 substituted revised provisions relating to administrative cost-sharing and quality control for provisions authorizing appropriations and relating to the financial operation of the program which are now covered by section 2027 of this title.
 
@@ -8377,9 +8377,9 @@ Amendment by sections 4001(b), 4002(a)(8), 4115(b)(11), 4121, 4122, and 4406(a)(
 
 Amendment by section 4118(a) of Pub. L. 107–171 not applicable with respect to any sanction, appeal, new investment agreement, or other action by the Secretary of Agriculture or a State agency that is based on a payment error rate calculated for any fiscal year before fiscal year 2003, see section 4118(e) of Pub. L. 107–171, set out as a note under section 2022 of this title.
 
-Pub. L. 107–171, title IV, § 4119(b), May 13, 2002, 116 Stat. 321, provided that: “The amendments made by this section [amending this section] take effect on the date of enactment of this Act [May 13, 2002].”
+Pub. L. 107–171, title IV, § 4119(b), May 13, 2002, 116 Stat. 321, provided that: “The amendments made by this section [amending this section] take effect on the date of enactment of this Act [May 13, 2002].”
 
-Pub. L. 107–171, title IV, § 4120(b), May 13, 2002, 116 Stat. 323, provided that: “The amendment made by this section [amending this section] takes effect on the date of enactment of this Act [May 13, 2002].”
+Pub. L. 107–171, title IV, § 4120(b), May 13, 2002, 116 Stat. 323, provided that: “The amendment made by this section [amending this section] takes effect on the date of enactment of this Act [May 13, 2002].”
 
 Amendment by section 4121(a), (d) of Pub. L. 107–171 effective May 13, 2002, see section 4121(e) of Pub. L. 107–171, set out as a note under section 2015 of this title.
 
@@ -8387,11 +8387,11 @@ Amendment by section 4122(a) of Pub. L. 107–171 effective Oct. 1, 2002, except
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–78, title VII, § 758, Oct. 22, 1999, 113 Stat. 1172, provided that the amendment made by section 758 is effective beginning in fiscal year 2001 and thereafter.
+Pub. L. 106–78, title VII, § 758, Oct. 22, 1999, 113 Stat. 1172, provided that the amendment made by section 758 is effective beginning in fiscal year 2001 and thereafter.
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–185, title V, § 510(a), June 23, 1998, 112 Stat. 580, provided that: “The amendments made by sections 501 and 502 [amending this section] take effect on the date of enactment of this Act [June 23, 1998].”
+Pub. L. 105–185, title V, § 510(a), June 23, 1998, 112 Stat. 580, provided that: “The amendments made by sections 501 and 502 [amending this section] take effect on the date of enactment of this Act [June 23, 1998].”
 
 **Effective Date of 1997 Amendment**
 
@@ -8407,9 +8407,9 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–66, title XIII, § 13971, Aug. 10, 1993, 107 Stat. 680, provided that:
+Pub. L. 103–66, title XIII, § 13971, Aug. 10, 1993, 107 Stat. 680, provided that:
 
-> **“(a) General Effective Date and Implementation.—** Except as provided in subsection (b), this chapter [chapter 3 (§§ 13901–13971) of title XIII of Pub. L. 103–66, amending this section and sections 2012, 2014, 2015, 2017, 2020 to 2023, 2026, and 2028 of this title, and enacting provisions set out as a note under section 2011 of this title] and the amendments made by this chapter shall take effect, and shall be implemented beginning on, October 1, 1993.
+> **“(a) General Effective Date and Implementation.—** Except as provided in subsection (b), this chapter [chapter 3 (§§ 13901–13971) of title XIII of Pub. L. 103–66, amending this section and sections 2012, 2014, 2015, 2017, 2020 to 2023, 2026, and 2028 of this title, and enacting provisions set out as a note under section 2011 of this title] and the amendments made by this chapter shall take effect, and shall be implemented beginning on, October 1, 1993.
 
 > **“(b) Special Effective Dates and Implementation.—**
 
@@ -8445,7 +8445,7 @@ Amendment by Pub. L. 102–237 effective and to be implemented no later than Feb
 
 Amendment by section 1750 of Pub. L. 101–624 effective Oct. 1, 1990, amendment by section 1752(a) of Pub. L. 101–624 effective and implemented first day of month beginning 120 days after publication of implementing regulations to be promulgated not later than Oct. 1, 1991, and amendment by section 1753 of Pub. L. 101–624 effective Nov. 28, 1990, see section 1781(a), (b)(1), (2) of Pub. L. 101–624, set out as a note under section 2012 of this title.
 
-Pub. L. 101–624, title XVII, § 1752(b), Nov. 28, 1990, 104 Stat. 3797, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (2)(KK), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(KK), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that: “The amendment made by subsection (a)(2) [amending this section] shall not apply to proposals for automatic data processing and information retrieval systems under section 16(g) of the Food and Nutrition Act of 2008 [7 U.S.C. 2025(g)] that were approved by the Secretary of Agriculture prior to the date of enactment of this Act [Nov. 28, 1990].”
+Pub. L. 101–624, title XVII, § 1752(b), Nov. 28, 1990, 104 Stat. 3797, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (2)(KK), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(KK), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that: “The amendment made by subsection (a)(2) [amending this section] shall not apply to proposals for automatic data processing and information retrieval systems under section 16(g) of the Food and Nutrition Act of 2008 [7 U.S.C. 2025(g)] that were approved by the Secretary of Agriculture prior to the date of enactment of this Act [Nov. 28, 1990].”
 
 **Effective Date of 1988 Amendment**
 
@@ -8457,7 +8457,7 @@ Amendment by Pub. L. 99–603 effective Oct. 1, 1987, see section 121(c)(2) of P
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–198, title XV, § 1537(a), Dec. 23, 1985, 99 Stat. 1585, provided that the amendment made by section 1537(a) is effective with respect to the fiscal year beginning Oct. 1, 1985, and each fiscal year thereafter.
+Pub. L. 99–198, title XV, § 1537(a), Dec. 23, 1985, 99 Stat. 1585, provided that the amendment made by section 1537(a) is effective with respect to the fiscal year beginning Oct. 1, 1985, and each fiscal year thereafter.
 
 **Effective Date of 1982 Amendment**
 
@@ -8481,7 +8481,7 @@ Secretary of Agriculture to issue final regulations implementing the amendment o
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
+Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
 
 **Regulations**
 
@@ -8489,7 +8489,7 @@ Secretary of Agriculture to promulgate regulations necessary to implement amendm
 
 **Process for Selecting Pilot Programs**
 
-Pub. L. 113–79, title IV, § 4022(c)(2), Feb. 7, 2014, 128 Stat. 808, provided that:
+Pub. L. 113–79, title IV, § 4022(c)(2), Feb. 7, 2014, 128 Stat. 808, provided that:
 
 > **“(A) In general.—** Not later than 180 days after the date of enactment of this Act [Feb. 7, 2014], the Secretary [of Agriculture] shall—
 
@@ -8503,7 +8503,7 @@ Pub. L. 113–79, title IV, § 4022(c)(2), Feb. 7, 2014, 128 Stat. 808, provid
 
 **Monitoring of Employment and Training Programs**
 
-Pub. L. 113–79, title IV, § 4022(c)(3), Feb. 7, 2014, 128 Stat. 809, provided that:
+Pub. L. 113–79, title IV, § 4022(c)(3), Feb. 7, 2014, 128 Stat. 809, provided that:
 
 > **“(A) In general.—** Not later than 18 months after the date of enactment of this Act [Feb. 7, 2014], the Secretary [of Agriculture] shall issue interim final regulations implementing the amendments made by subsection (a)(2) [amending this section].
 
@@ -8511,11 +8511,11 @@ Pub. L. 113–79, title IV, § 4022(c)(3), Feb. 7, 2014, 128 Stat. 809, provid
 
 **Carryover Funds**
 
-Pub. L. 107–171, title IV, § 4121(b), May 13, 2002, 116 Stat. 323, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (2)(C), May 22, 2008, 122 Stat. 1096; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(C), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that: “Notwithstanding any other provision of law, funds provided under section 16(h)(1)(A) of the Food and Nutrition Act of 2008 (7 U.S.C. 2025(h)(1)(A)) for any fiscal year before fiscal year 2002 shall be rescinded on the date of enactment of this Act [May 13, 2002], unless obligated by a State agency before that date.”
+Pub. L. 107–171, title IV, § 4121(b), May 13, 2002, 116 Stat. 323, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (2)(C), May 22, 2008, 122 Stat. 1096; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(C), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that: “Notwithstanding any other provision of law, funds provided under section 16(h)(1)(A) of the Food and Nutrition Act of 2008 (7 U.S.C. 2025(h)(1)(A)) for any fiscal year before fiscal year 2002 shall be rescinded on the date of enactment of this Act [May 13, 2002], unless obligated by a State agency before that date.”
 
 **Review of Methodology Used To Make Certain Determinations**
 
-Pub. L. 105–185, title V, § 502(b), June 23, 1998, 112 Stat. 578, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (2)(G), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(G), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that:
+Pub. L. 105–185, title V, § 502(b), June 23, 1998, 112 Stat. 578, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (2)(G), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(G), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that:
 
 > “Not later than 1 year after the date of enactment [June 23, 1998], the Comptroller General of the United States shall—
 
@@ -8525,11 +8525,11 @@ Pub. L. 105–185, title V, § 502(b), June 23, 1998, 112 Stat. 578, as amende
 
 **Report to Congress**
 
-Pub. L. 105–33, title I, § 1002(b), Aug. 5, 1997, 111 Stat. 254, provided that: “Not later than 30 months after the date of enactment of this Act [Aug. 5, 1997], the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report regarding whether the amounts made available under section 16(h)(1)(A) of the Food Stamp Act of 1977 [now the Food and Nutrition Act of 2008, 7 U.S.C. 2025(h)(1)(A)] (as a result of the amendment made by subsection (a)) have been used by State agencies to increase the number of work slots for recipients subject to section 6(*o*) of the Food Stamp Act of 1977 (7 U.S.C. 2015(*o*)) in employment and training programs and workfare in the most efficient and effective manner practicable.”
+Pub. L. 105–33, title I, § 1002(b), Aug. 5, 1997, 111 Stat. 254, provided that: “Not later than 30 months after the date of enactment of this Act [Aug. 5, 1997], the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report regarding whether the amounts made available under section 16(h)(1)(A) of the Food Stamp Act of 1977 [now the Food and Nutrition Act of 2008, 7 U.S.C. 2025(h)(1)(A)] (as a result of the amendment made by subsection (a)) have been used by State agencies to increase the number of work slots for recipients subject to section 6(*o*) of the Food Stamp Act of 1977 (7 U.S.C. 2015(*o*)) in employment and training programs and workfare in the most efficient and effective manner practicable.”
 
 **Quality Control Sanctions**
 
-Pub. L. 101–624, title XVII, § 1751, Nov. 28, 1990, 104 Stat. 3797, provided that:
+Pub. L. 101–624, title XVII, § 1751, Nov. 28, 1990, 104 Stat. 3797, provided that:
 
 > **“(a) In General.—** No disallowance or other similar action shall be applied to or collected from any State for any of the fiscal years 1983, 1984, or 1985 under section 16(c) of the Food Stamp Act of 1977 (7 U.S.C. 2025(c)) or any predecessor statutory or regulatory provision relating to disallowances or other similar actions for erroneous issuances made in carrying out a State plan under such Act [7 U.S.C. 2011 et seq.], except for amounts to be paid or collected after the date of enactment of this Act [Nov. 28, 1990] pursuant to settlement agreements which do not provide for payment adjustments based on future changes in law.
 
@@ -8537,7 +8537,7 @@ Pub. L. 101–624, title XVII, § 1751, Nov. 28, 1990, 104 Stat. 3797, provide
 
 **Quality Control Studies and Penalty Moratorium**
 
-Pub. L. 99–198, title XV, § 1538, Dec. 23, 1985, 99 Stat. 1587, as amended by Pub. L. 99–260, § 12, Mar. 20, 1986, 100 Stat. 52, provided that:
+Pub. L. 99–198, title XV, § 1538, Dec. 23, 1985, 99 Stat. 1587, as amended by Pub. L. 99–260, § 12, Mar. 20, 1986, 100 Stat. 52, provided that:
 
 > **“(a)**
 
@@ -8589,7 +8589,7 @@ Pub. L. 99–198, title XV, § 1538, Dec. 23, 1985, 99 Stat. 1587, as amended 
 
 [References to the food stamp program established under the Food and Nutrition Act of 2008 considered to refer to the supplemental nutrition assistance program established under that Act, see section 4002(c) of Pub. L. 110–246, set out as a note under section 2012 of this title.]
 
-## § 2026. Research, demonstration, and evaluations
+## § 2026. Research, demonstration, and evaluations
 
 **(a) Contracts or grants; issuance of aggregate allotments**
 
@@ -8701,13 +8701,13 @@ Pub. L. 99–198, title XV, § 1538, Dec. 23, 1985, 99 Stat. 1587, as amended 
 
 **(A)** The Secretary may conduct demonstration projects to test improved consistency or coordination between the supplemental nutrition assistance program employment and training program and the Job Opportunities and Basic Skills program under title IV of the Social Security Act (42 U.S.C. 601 et seq.).
 
-**(B)** Notwithstanding paragraph (1), the Secretary may, as part of a project authorized under this paragraph, waive requirements under section 2015(d) of this title to permit a State to operate an employment and training program for supplemental nutrition assistance program recipients on the same terms and conditions under which the State operates its Job Opportunities and Basic Skills program for recipients of aid to families with dependent children under part F 1
+**(B)** Notwithstanding paragraph (1), the Secretary may, as part of a project authorized under this paragraph, waive requirements under section 2015(d) of this title to permit a State to operate an employment and training program for supplemental nutrition assistance program recipients on the same terms and conditions under which the State operates its Job Opportunities and Basic Skills program for recipients of aid to families with dependent children under part F 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of title IV of the Social Security Act (42 U.S.C. 681 et seq.). Any work experience program conducted as part of the project shall be conducted in conformity with section 482(f) 1 of such Act (42 U.S.C. 682(f)).
+of title IV of the Social Security Act (42 U.S.C. 681 et seq.). Any work experience program conducted as part of the project shall be conducted in conformity with section 482(f) 1 of such Act (42 U.S.C. 682(f)).
 
-**(C)** A State seeking such a waiver shall provide assurances that the resulting employment and training program shall meet the requirements of subsections (a)(19) and (g) of section 402 <sup>1</sup> of such Act (42 U.S.C. 602) (but not including the provision of transitional benefits under clauses (ii) through (vii) of section 402(g)(1)(A) <sup>1</sup>) and sections 481 through 487 <sup>1</sup> of such Act (42 U.S.C. 681 through 687). Each reference to “aid to families with dependent children” in such sections shall be deemed to be a reference to supplemental nutrition assistance program benefits for purposes of the demonstration project.
+**(C)** A State seeking such a waiver shall provide assurances that the resulting employment and training program shall meet the requirements of subsections (a)(19) and (g) of section 402 <sup>1</sup> of such Act (42 U.S.C. 602) (but not including the provision of transitional benefits under clauses (ii) through (vii) of section 402(g)(1)(A) <sup>1</sup>) and sections 481 through 487 <sup>1</sup> of such Act (42 U.S.C. 681 through 687). Each reference to “aid to families with dependent children” in such sections shall be deemed to be a reference to supplemental nutrition assistance program benefits for purposes of the demonstration project.
 
 **(D)** Notwithstanding the other provisions of this paragraph, participation in an employment and training activity in which supplemental nutrition assistance program benefits are converted to cash shall occur only with the consent of the participant.
 
@@ -8849,9 +8849,9 @@ Funds provided under this paragraph shall not be used for any project that limit
 
 **(A)** increase the supplemental nutrition assistance purchasing power of the participating households by providing increased supplemental nutrition assistance program benefit allotments to the participating households;
 
-**(B)** increase access to farmers 2
+**(B)** increase access to farmers 2
 
-<sup>2</sup>  So in original. Probably should be “farmers’ ”.
+<sup>2</sup> So in original. Probably should be “farmers’ ”.
 
 markets by participating households through the electronic redemption of supplemental nutrition assistance program benefits at farmers’ markets;
 
@@ -9067,17 +9067,17 @@ Nothing in this subsection shall be construed to prevent or limit the ability of
 
 **(B)** $5,000,000 for fiscal year 2022 and each fiscal year thereafter.
 
-(Pub. L. 88–525, § 17, as added Pub. L. 93–86, § 3(n), Aug. 10, 1973, 87 Stat. 248; amended Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 977; Pub. L. 95–400, Sept. 30, 1978, 92 Stat. 856; Pub. L. 96–249, title I, §§ 130–132(a), 133, May 26, 1980, 94 Stat. 367, 368; Pub. L. 97–98, title XIII, §§ 1328–1330, Dec. 22, 1981, 95 Stat. 1289, 1290; Pub. L. 97–253, title I, §§ 152(c), 181, 182, 190(d), Sept. 8, 1982, 96 Stat. 776, 784, 785, 787; Pub. L. 99–114, § 4, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, § 2, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, § 2, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title XV, § 1540, Dec. 23, 1985, 99 Stat. 1588; Pub. L. 100–435, title V, §§ 504, 505, Sept. 19, 1988, 102 Stat. 1673; Pub. L. 101–624, title XVII, §§ 1729(b), 1731, 1754–1759, Nov. 28, 1990, 104 Stat. 3790, 3798–3800, 3802; Pub. L. 102–237, title IX, § 941(8), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 103–66, title XIII, § 13925, Aug. 10, 1993, 107 Stat. 675; Pub. L. 103–225, title II, § 204, Mar. 25, 1994, 108 Stat. 109; Pub. L. 104–127, title IV, § 401(c), (d), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title I, § 109(d), title VIII, §§ 815(b)(1), 850–852, 854(c)(2), Aug. 22, 1996, 110 Stat. 2169, 2317, 2336–2338, 2342; Pub. L. 105–18, title VII, [(b)], June 12, 1997, 111 Stat. 217; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(2)(C), (f)(2)(C)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–418, 2681–429; Pub. L. 107–171, title IV, §§ 4112(b)(4), 4116(b), 4122(b), 4123(a), May 13, 2002, 116 Stat. 313, 316, 324; Pub. L. 110–234, title IV, §§ 4001(b), 4002(a)(9), 4115(b)(12), 4141, 4406(a)(5), May 22, 2008, 122 Stat. 1092, 1094, 1108, 1117, 1141; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4002(a)(9), 4115(b)(12), 4141, 4406(a)(5), June 18, 2008, 122 Stat. 1664, 1853, 1855, 1869, 1879, 1902; Pub. L. 113–79, title IV, §§ 4022(b)(3), 4023, Feb. 7, 2014, 128 Stat. 808, 809; Pub. L. 113–128, title V, § 512(*l*)(3), July 22, 2014, 128 Stat. 1709; Pub. L. 115–334, title IV, §§ 4005(e), 4014, 4015(a), 4022(7), Dec. 20, 2018, 132 Stat. 4634, 4643–4645, 4653.)
+(Pub. L. 88–525, § 17, as added Pub. L. 93–86, § 3(n), Aug. 10, 1973, 87 Stat. 248; amended Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 977; Pub. L. 95–400, Sept. 30, 1978, 92 Stat. 856; Pub. L. 96–249, title I, §§ 130–132(a), 133, May 26, 1980, 94 Stat. 367, 368; Pub. L. 97–98, title XIII, §§ 1328–1330, Dec. 22, 1981, 95 Stat. 1289, 1290; Pub. L. 97–253, title I, §§ 152(c), 181, 182, 190(d), Sept. 8, 1982, 96 Stat. 776, 784, 785, 787; Pub. L. 99–114, § 4, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, § 2, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, § 2, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title XV, § 1540, Dec. 23, 1985, 99 Stat. 1588; Pub. L. 100–435, title V, §§ 504, 505, Sept. 19, 1988, 102 Stat. 1673; Pub. L. 101–624, title XVII, §§ 1729(b), 1731, 1754–1759, Nov. 28, 1990, 104 Stat. 3790, 3798–3800, 3802; Pub. L. 102–237, title IX, § 941(8), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 103–66, title XIII, § 13925, Aug. 10, 1993, 107 Stat. 675; Pub. L. 103–225, title II, § 204, Mar. 25, 1994, 108 Stat. 109; Pub. L. 104–127, title IV, § 401(c), (d), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title I, § 109(d), title VIII, §§ 815(b)(1), 850–852, 854(c)(2), Aug. 22, 1996, 110 Stat. 2169, 2317, 2336–2338, 2342; Pub. L. 105–18, title VII, [(b)], June 12, 1997, 111 Stat. 217; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(2)(C), (f)(2)(C)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–418, 2681–429; Pub. L. 107–171, title IV, §§ 4112(b)(4), 4116(b), 4122(b), 4123(a), May 13, 2002, 116 Stat. 313, 316, 324; Pub. L. 110–234, title IV, §§ 4001(b), 4002(a)(9), 4115(b)(12), 4141, 4406(a)(5), May 22, 2008, 122 Stat. 1092, 1094, 1108, 1117, 1141; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4002(a)(9), 4115(b)(12), 4141, 4406(a)(5), June 18, 2008, 122 Stat. 1664, 1853, 1855, 1869, 1879, 1902; Pub. L. 113–79, title IV, §§ 4022(b)(3), 4023, Feb. 7, 2014, 128 Stat. 808, 809; Pub. L. 113–128, title V, § 512(*l*)(3), July 22, 2014, 128 Stat. 1709; Pub. L. 115–334, title IV, §§ 4005(e), 4014, 4015(a), 4022(7), Dec. 20, 2018, 132 Stat. 4634, 4643–4645, 4653.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsecs. (b)(1)(B)(v), (vi), (2)(A), (B), (I), (d)(1)(B), (3)(C), and (m)(2)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title IV, part A of title IV, title XVI, and title XIX of the Act are classified generally to subchapter IV (§ 601 et seq.), part A (§ 601 et seq.) of subchapter IV, subchapter XVI (§ 1381 et seq.), and subchapter XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part F of title IV of the Act was classified generally to part F (§ 681 et seq.) of subchapter IV of chapter 7 of Title 42, prior to repeal by Pub. L. 104–193, title I, § 108(e), Aug. 22, 1996, 110 Stat. 2167. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (b)(1)(B)(v), (vi), (2)(A), (B), (I), (d)(1)(B), (3)(C), and (m)(2)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title IV, part A of title IV, title XVI, and title XIX of the Act are classified generally to subchapter IV (§ 601 et seq.), part A (§ 601 et seq.) of subchapter IV, subchapter XVI (§ 1381 et seq.), and subchapter XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part F of title IV of the Act was classified generally to part F (§ 681 et seq.) of subchapter IV of chapter 7 of Title 42, prior to repeal by Pub. L. 104–193, title I, § 108(e), Aug. 22, 1996, 110 Stat. 2167. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Sections 481 to 487 of the Social Security Act, referred to in subsec. (b)(2)(B), (C), (E), were classified to section 681 to 687, respectively, of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 104–193, title I, § 108(e), Aug. 22, 1996, 110 Stat. 2167.
+Sections 481 to 487 of the Social Security Act, referred to in subsec. (b)(2)(B), (C), (E), were classified to section 681 to 687, respectively, of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 104–193, title I, § 108(e), Aug. 22, 1996, 110 Stat. 2167.
 
-Section 402 of the Social Security Act, referred to in subsec. (b)(2)(C), which was classified to section 602 of Title 42, The Public Health and Welfare, was repealed and a new section 402 enacted by Pub. L. 104–193, title I, § 103(a)(1), Aug. 22, 1996, 110 Stat. 2112, and, as so enacted, no longer contains subsecs. (a)(19) and (g).
+Section 402 of the Social Security Act, referred to in subsec. (b)(2)(C), which was classified to section 602 of Title 42, The Public Health and Welfare, was repealed and a new section 402 enacted by Pub. L. 104–193, title I, § 103(a)(1), Aug. 22, 1996, 110 Stat. 2112, and, as so enacted, no longer contains subsecs. (a)(19) and (g).
 
 The Omnibus Budget Reconciliation Act of 1981, referred to in subsec. (e), is Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 357. Part 1 of subtitle A of title I of the Omnibus Budget Reconciliation Act amended this chapter generally. For complete classification of this Act to the Code, see Tables.
 
@@ -9085,7 +9085,7 @@ The Food Stamp and Commodity Distribution Amendments of 1981, referred to in sub
 
 The Food Stamp Act Amendments of 1982, referred to in subsec. (e), is subtitle E of title I of Pub. L. 97–253, Sept. 8, 1982, 96 Stat. 772, which amended this chapter generally. For complete classification of this Act to the Code, see Short Title of 1982 Amendment note set out under section 2011 of this title and Tables.
 
-The Child Care and Development Block Grant Act of 1990, referred to in subsec. (m)(2)(A)(ii), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, § 5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 9857(a) of Title 42 and Tables.
+The Child Care and Development Block Grant Act of 1990, referred to in subsec. (m)(2)(A)(ii), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, § 5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 9857(a) of Title 42 and Tables.
 
 The effective date of this subsection, referred to in subsec. (n)(7)(A), probably means the date of enactment of Pub. L. 115–334, which added subsec. (n) and which was approved Dec. 20, 2018.
 
@@ -9095,127 +9095,127 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Subsec. (b)(1)(B)(iv)(III)(aa). Pub. L. 115–334, § 4022(7), substituted “2012(m)” for “2012(n)”.
+2018—Subsec. (b)(1)(B)(iv)(III)(aa). Pub. L. 115–334, § 4022(7), substituted “2012(m)” for “2012(n)”.
 
-Subsec. (b)(2), (3). Pub. L. 115–334, § 4005(e), redesignated par. (3) as (2) and struck out former par. (2) which related to two pilot projects involving the performance of work in return for supplemental nutrition assistance program benefits and joint issuance of initial and interim reports by the Secretary of Agriculture and the Secretary of Labor to appropriate committees of Congress and a final report describing the results of such projects based upon their operation from commencement through the fiscal year ending Sept. 30, 1981.
+Subsec. (b)(2), (3). Pub. L. 115–334, § 4005(e), redesignated par. (3) as (2) and struck out former par. (2) which related to two pilot projects involving the performance of work in return for supplemental nutrition assistance program benefits and joint issuance of initial and interim reports by the Secretary of Agriculture and the Secretary of Labor to appropriate committees of Congress and a final report describing the results of such projects based upon their operation from commencement through the fiscal year ending Sept. 30, 1981.
 
-Subsec. (m). Pub. L. 115–334, § 4014, added subsec. (m).
+Subsec. (m). Pub. L. 115–334, § 4014, added subsec. (m).
 
-Subsec. (n). Pub. L. 115–334, § 4015(a), added subsec. (n).
+Subsec. (n). Pub. L. 115–334, § 4015(a), added subsec. (n).
 
-2014—Subsec. (b)(1)(B)(iv)(III)(hh). Pub. L. 113–79, § 4022(b)(3), inserted “(h)(1)(F),” after “(g),”.
+2014—Subsec. (b)(1)(B)(iv)(III)(hh). Pub. L. 113–79, § 4022(b)(3), inserted “(h)(1)(F),” after “(g),”.
 
 Subsec. (b)(2). Pub. L. 113–128 substituted “a program carried out under title I of the Workforce Innovation and Opportunity Act” for “a program carried out under title I of the Workforce Investment Act of 1998”.
 
-Subsec. (*l*). Pub. L. 113–79, § 4023, added subsec. (*l*).
+Subsec. (*l*). Pub. L. 113–79, § 4023, added subsec. (*l*).
 
-2008—Subsec. (a)(1). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+2008—Subsec. (a)(1). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsec. (a)(2). Pub. L. 110–246, § 4115(b)(12)(A), substituted “benefit issuance” for “coupon issuance”.
+Subsec. (a)(2). Pub. L. 110–246, § 4115(b)(12)(A), substituted “benefit issuance” for “coupon issuance”.
 
-Pub. L. 110–246, § 4002(a)(9)(A), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits” in two places.
+Pub. L. 110–246, § 4002(a)(9)(A), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits” in two places.
 
-Subsec. (b)(1)(A). Pub. L. 110–246, § 4002(a)(9)(B)(i)(I), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
+Subsec. (b)(1)(A). Pub. L. 110–246, § 4002(a)(9)(B)(i)(I), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
 
-Pub. L. 110–246, § 4001(b), substituted “efficiency of the supplemental nutrition assistance program” for “efficiency of the food stamp program”.
+Pub. L. 110–246, § 4001(b), substituted “efficiency of the supplemental nutrition assistance program” for “efficiency of the food stamp program”.
 
-Subsec. (b)(1)(B)(i)(I). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Subsec. (b)(1)(B)(i)(I). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsec. (b)(1)(B)(ii)(II). Pub. L. 110–246, § 4002(a)(9)(B)(i)(II)(aa), substituted “supplemental nutrition assistance program recipients” for “food stamp recipients”.
+Subsec. (b)(1)(B)(ii)(II). Pub. L. 110–246, § 4002(a)(9)(B)(i)(II)(aa), substituted “supplemental nutrition assistance program recipients” for “food stamp recipients”.
 
-Subsec. (b)(1)(B)(iii)(I). Pub. L. 110–246, § 4002(a)(9)(B)(i)(II)(bb), substituted “the number of households in the State receiving supplemental nutrition assistance program benefits” for “the State’s food stamp households”.
+Subsec. (b)(1)(B)(iii)(I). Pub. L. 110–246, § 4002(a)(9)(B)(i)(II)(bb), substituted “the number of households in the State receiving supplemental nutrition assistance program benefits” for “the State’s food stamp households”.
 
-Subsec. (b)(1)(B)(iv). Pub. L. 110–246, § 4115(b)(12)(B)(i)(I), in subcl. (I) inserted “or otherwise providing benefits in a form not restricted to the purchase of food” after “the form of cash”, in subcl. (III)(aa) substituted “section 2012(n)” for “section 2012(i)”, and in subcl. (VII) substituted “section 2016(i)” for “section 2016(j)”.
+Subsec. (b)(1)(B)(iv). Pub. L. 110–246, § 4115(b)(12)(B)(i)(I), in subcl. (I) inserted “or otherwise providing benefits in a form not restricted to the purchase of food” after “the form of cash”, in subcl. (III)(aa) substituted “section 2012(n)” for “section 2012(i)”, and in subcl. (VII) substituted “section 2016(i)” for “section 2016(j)”.
 
-Subsec. (b)(1)(B)(iv)(IV)(bb). Pub. L. 110–246, § 4002(a)(9)(B)(i)(II)(cc), substituted “supplemental nutrition assistance program deductions” for “food stamp deductions”.
+Subsec. (b)(1)(B)(iv)(IV)(bb). Pub. L. 110–246, § 4002(a)(9)(B)(i)(II)(cc), substituted “supplemental nutrition assistance program deductions” for “food stamp deductions”.
 
-Subsec. (b)(1)(B)(v). Pub. L. 110–246, § 4115(b)(12)(B)(i)(II), struck out “countersigned food coupons or similar” before “identification mechanisms” and substituted “EBT cards” for “food coupons”.
+Subsec. (b)(1)(B)(v). Pub. L. 110–246, § 4115(b)(12)(B)(i)(II), struck out “countersigned food coupons or similar” before “identification mechanisms” and substituted “EBT cards” for “food coupons”.
 
-Subsec. (b)(1)(B)(vi). Pub. L. 110–246, § 4406(a)(5), substituted “Subject to the availability of appropriations under section 2027(a) of this title, any pilot” for “Any pilot” and struck out “through October 1, 2007,” after “shall be continued”.
+Subsec. (b)(1)(B)(vi). Pub. L. 110–246, § 4406(a)(5), substituted “Subject to the availability of appropriations under section 2027(a) of this title, any pilot” for “Any pilot” and struck out “through October 1, 2007,” after “shall be continued”.
 
-Subsec. (b)(1)(C)(i)(I). Pub. L. 110–246, § 4115(b)(12)(B)(ii), substituted “EBT cards” for “coupons”.
+Subsec. (b)(1)(C)(i)(I). Pub. L. 110–246, § 4115(b)(12)(B)(ii), substituted “EBT cards” for “coupons”.
 
-Subsec. (b)(2). Pub. L. 110–246, § 4002(a)(9)(B)(ii), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
+Subsec. (b)(2). Pub. L. 110–246, § 4002(a)(9)(B)(ii), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
 
-Pub. L. 110–246, § 4001(b), substituted “participate in the supplemental nutrition assistance program” for “participate in the food stamp program”.
+Pub. L. 110–246, § 4001(b), substituted “participate in the supplemental nutrition assistance program” for “participate in the food stamp program”.
 
-Subsec. (b)(3)(A). Pub. L. 110–246, § 4002(a)(9)(B)(iii)(I), substituted “supplemental nutrition assistance program employment” for “food stamp employment”.
+Subsec. (b)(3)(A). Pub. L. 110–246, § 4002(a)(9)(B)(iii)(I), substituted “supplemental nutrition assistance program employment” for “food stamp employment”.
 
-Subsec. (b)(3)(B). Pub. L. 110–246, § 4002(a)(9)(B)(iii)(II), substituted “supplemental nutrition assistance program recipients” for “food stamp recipients”.
+Subsec. (b)(3)(B). Pub. L. 110–246, § 4002(a)(9)(B)(iii)(II), substituted “supplemental nutrition assistance program recipients” for “food stamp recipients”.
 
-Subsec. (b)(3)(C). Pub. L. 110–246, § 4002(a)(9)(B)(iii)(III), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
+Subsec. (b)(3)(C). Pub. L. 110–246, § 4002(a)(9)(B)(iii)(III), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
 
-Subsec. (b)(3)(D). Pub. L. 110–246, § 4002(a)(9)(B)(iii)(IV), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
+Subsec. (b)(3)(D). Pub. L. 110–246, § 4002(a)(9)(B)(iii)(IV), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
 
-Subsec. (c). Pub. L. 110–246, § 4002(a)(9)(C), substituted “eligible for supplemental nutrition assistance” for “eligible for food stamps”.
+Subsec. (c). Pub. L. 110–246, § 4002(a)(9)(C), substituted “eligible for supplemental nutrition assistance” for “eligible for food stamps”.
 
-Pub. L. 110–246, § 4001(b), substituted “effectiveness of the supplemental nutrition assistance program” for “effectiveness of the food stamp program”.
+Pub. L. 110–246, § 4001(b), substituted “effectiveness of the supplemental nutrition assistance program” for “effectiveness of the food stamp program”.
 
-Subsec. (d)(1)(B). Pub. L. 110–246, § 4002(a)(9)(D)(i), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
+Subsec. (d)(1)(B). Pub. L. 110–246, § 4002(a)(9)(D)(i), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
 
-Subsec. (d)(2)(A). Pub. L. 110–246, § 4002(a)(9)(D)(ii)(I), substituted “allotments” for “food stamp allotments” in two places.
+Subsec. (d)(2)(A). Pub. L. 110–246, § 4002(a)(9)(D)(ii)(I), substituted “allotments” for “food stamp allotments” in two places.
 
-Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsec. (d)(2)(C). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” in introductory provisions.
+Subsec. (d)(2)(C). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” in introductory provisions.
 
-Subsec. (d)(2)(C)(ii). Pub. L. 110–246, § 4002(a)(9)(D)(ii)(II), substituted “supplemental nutrition assistance program benefits” for “food stamp benefit”.
+Subsec. (d)(2)(C)(ii). Pub. L. 110–246, § 4002(a)(9)(D)(ii)(II), substituted “supplemental nutrition assistance program benefits” for “food stamp benefit”.
 
-Subsec. (d)(3)(E). Pub. L. 110–246, § 4002(a)(9)(D)(iii), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
+Subsec. (d)(3)(E). Pub. L. 110–246, § 4002(a)(9)(D)(iii), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
 
-Subsec. (e). Pub. L. 110–246, § 4002(a)(9)(E), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
+Subsec. (e). Pub. L. 110–246, § 4002(a)(9)(E), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
 
-Pub. L. 110–246, § 4001(b), substituted “affect the supplemental nutrition assistance program” for “affect the food stamp program”.
+Pub. L. 110–246, § 4001(b), substituted “affect the supplemental nutrition assistance program” for “affect the food stamp program”.
 
-Subsec. (f). Pub. L. 110–246, § 4115(b)(12)(C), substituted “section 2016(f)(2)” for “section 2016(g)(2)”.
+Subsec. (f). Pub. L. 110–246, § 4115(b)(12)(C), substituted “section 2016(f)(2)” for “section 2016(g)(2)”.
 
-Pub. L. 110–246, § 4002(a)(9)(E), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
+Pub. L. 110–246, § 4002(a)(9)(E), substituted “supplemental nutrition assistance program benefits” for “food stamp benefits”.
 
-Subsec. (g). Pub. L. 110–246, § 4002(a)(9)(F), substituted “receipt of supplemental nutrition assistance program and other transfer payments” for “receipt of food stamp and other transfer payments” in introductory provisions.
+Subsec. (g). Pub. L. 110–246, § 4002(a)(9)(F), substituted “receipt of supplemental nutrition assistance program and other transfer payments” for “receipt of food stamp and other transfer payments” in introductory provisions.
 
-Pub. L. 110–246, § 4001(b), substituted “from the supplemental nutrition assistance program” for “from the food stamp program” in introductory provisions.
+Pub. L. 110–246, § 4001(b), substituted “from the supplemental nutrition assistance program” for “from the food stamp program” in introductory provisions.
 
-Subsec. (h)(2). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Subsec. (h)(2). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsec. (j). Pub. L. 110–246, § 4115(b)(12)(D), substituted “benefit trafficking” for “coupon trafficking”.
+Subsec. (j). Pub. L. 110–246, § 4115(b)(12)(D), substituted “benefit trafficking” for “coupon trafficking”.
 
-Pub. L. 110–246, § 4002(a)(9)(G), substituted “supplemental nutrition assistance program agencies” for “food stamp agencies”.
+Pub. L. 110–246, § 4002(a)(9)(G), substituted “supplemental nutrition assistance program agencies” for “food stamp agencies”.
 
-Subsec. (k). Pub. L. 110–246, § 4141, added subsec. (k).
+Subsec. (k). Pub. L. 110–246, § 4141, added subsec. (k).
 
-2002—Subsec. (a)(1). Pub. L. 107–171, § 4123(a), substituted “enter into contracts with or make grants to public or private organizations or agencies under this section to” for “, by way of making contracts with or grants to public or private organizations or agencies,” and inserted at end “The waiver authority of the Secretary under subsection (b) shall extend to all contracts and grants under this section.”
+2002—Subsec. (a)(1). Pub. L. 107–171, § 4123(a), substituted “enter into contracts with or make grants to public or private organizations or agencies under this section to” for “, by way of making contracts with or grants to public or private organizations or agencies,” and inserted at end “The waiver authority of the Secretary under subsection (b) shall extend to all contracts and grants under this section.”
 
-Subsec. (b)(1)(B)(iv)(III)(aa). Pub. L. 107–171, § 4112(b)(4), substituted “paragraphs (4) and (5) of section 2012(i) of this title” for “the last 2 sentences of section 2012(i) of this title”.
+Subsec. (b)(1)(B)(iv)(III)(aa). Pub. L. 107–171, § 4112(b)(4), substituted “paragraphs (4) and (5) of section 2012(i) of this title” for “the last 2 sentences of section 2012(i) of this title”.
 
-Subsec. (b)(1)(B)(vi). Pub. L. 107–171, § 4122(b), substituted “2007” for “2002”.
+Subsec. (b)(1)(B)(vi). Pub. L. 107–171, § 4122(b), substituted “2007” for “2002”.
 
-Subsecs. (i) to (k). Pub. L. 107–171, § 4116(b), redesignated subsecs. (j) and (k) as (i) and (j), respectively, and struck out former subsec. (i) which related to grants to improve food stamp participation.
+Subsecs. (i) to (k). Pub. L. 107–171, § 4116(b), redesignated subsecs. (j) and (k) as (i) and (j), respectively, and struck out former subsec. (i) which related to grants to improve food stamp participation.
 
-1998—Subsec. (b)(2). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(2)(C)], in second sentence, struck out “the Job Training Partnership Act or” before “title I of the Workforce”.
+1998—Subsec. (b)(2). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(2)(C)], in second sentence, struck out “the Job Training Partnership Act or” before “title I of the Workforce”.
 
-Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(2)(C)], in second sentence, substituted “to accept an offer of employment from a political subdivision or provider pursuant to a program carried out under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998,” for “to accept an offer of employment from a political subdivision or a prime sponsor pursuant to the Comprehensive Employment and Training Act of 1973, as amended (29 U.S.C. 812),” and substituted “, if all of the jobs supported under the program have been made available to participants in the program before the political subdivision or provider providing the jobs extends an offer of employment under this paragraph, and if the political subdivision or provider, in employing the person, complies with the requirements of Federal law that relate to the program.” for “: *Provided*, That all of the political subdivision’s or prime sponsor’s public service jobs supported under the Comprehensive Employment and Training Act of 1973, as amended (29 U.S.C. 812), are filled before such subdivision or sponsor can extend a job offer pursuant to this paragraph: *Provided further*, That the sponsor of each such project shall provide the assurances required of prime sponsors under section 205(c)(7), (8), (15), (19), and (24) of the Comprehensive Employment and Training Act of 1973, as amended (29 U.S.C. 845(c)), and the Secretary shall require such sponsors to comply with the conditions contained in sections 208(a)(1), (4), and (5) and (c) and 703(4) of the Comprehensive Employment and Training Act of 1973, as amended (29 U.S.C. 848(a) and (c) and 983).”
+Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(2)(C)], in second sentence, substituted “to accept an offer of employment from a political subdivision or provider pursuant to a program carried out under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998,” for “to accept an offer of employment from a political subdivision or a prime sponsor pursuant to the Comprehensive Employment and Training Act of 1973, as amended (29 U.S.C. 812),” and substituted “, if all of the jobs supported under the program have been made available to participants in the program before the political subdivision or provider providing the jobs extends an offer of employment under this paragraph, and if the political subdivision or provider, in employing the person, complies with the requirements of Federal law that relate to the program.” for “: *Provided*, That all of the political subdivision’s or prime sponsor’s public service jobs supported under the Comprehensive Employment and Training Act of 1973, as amended (29 U.S.C. 812), are filled before such subdivision or sponsor can extend a job offer pursuant to this paragraph: *Provided further*, That the sponsor of each such project shall provide the assurances required of prime sponsors under section 205(c)(7), (8), (15), (19), and (24) of the Comprehensive Employment and Training Act of 1973, as amended (29 U.S.C. 845(c)), and the Secretary shall require such sponsors to comply with the conditions contained in sections 208(a)(1), (4), and (5) and (c) and 703(4) of the Comprehensive Employment and Training Act of 1973, as amended (29 U.S.C. 848(a) and (c) and 983).”
 
 1997—Subsec. (b)(1)(B)(iv)(VII). Pub. L. 105–18 added subcl. (VII).
 
-1996—Subsec. (b)(1). Pub. L. 104–193, §§ 850, 851, in first sentence, substituted “benefits to eligible households, and may waive any requirement of this chapter to the extent necessary for the project to be conducted.” along with subpar. (B) heading, cls. (i) to (iv), cl. (v) of subpar. (B) heading, and “A pilot or experimental project may include” for “benefits to eligible households, including”, in subpar. (B)(v), substituted “are receiving assistance under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.)” for “to aid to families with dependent children under part A of title IV of the Social Security Act”, substituted “coupons.” along with cl. (vi) of subpar. (B) heading and “Any pilot” for “coupons. The Secretary may waive the requirements of this chapter to the degree necessary for such projects to be conducted, except that no project, other than a project involving the payment of the average value of allotments by household size in the form of cash to eligible households or a project conducted under paragraph (3), shall be implemented which would lower or further restrict the income or resource standards or benefit levels provided pursuant to sections 2014 and 2017 of this title. Any pilot”, redesignated former subpar. (B) as (C), and added subpar. (D).
+1996—Subsec. (b)(1). Pub. L. 104–193, §§ 850, 851, in first sentence, substituted “benefits to eligible households, and may waive any requirement of this chapter to the extent necessary for the project to be conducted.” along with subpar. (B) heading, cls. (i) to (iv), cl. (v) of subpar. (B) heading, and “A pilot or experimental project may include” for “benefits to eligible households, including”, in subpar. (B)(v), substituted “are receiving assistance under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.)” for “to aid to families with dependent children under part A of title IV of the Social Security Act”, substituted “coupons.” along with cl. (vi) of subpar. (B) heading and “Any pilot” for “coupons. The Secretary may waive the requirements of this chapter to the degree necessary for such projects to be conducted, except that no project, other than a project involving the payment of the average value of allotments by household size in the form of cash to eligible households or a project conducted under paragraph (3), shall be implemented which would lower or further restrict the income or resource standards or benefit levels provided pursuant to sections 2014 and 2017 of this title. Any pilot”, redesignated former subpar. (B) as (C), and added subpar. (D).
 
-Pub. L. 104–193, § 109(d)(1), which directed substitution of “or are receiving assistance under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.)” for “to aid to families with dependent children under part A of title IV of the Social Security Act” in first sentence of subsec. (b)(1)(A), effective July 1, 1997, could not be executed because of amendment by Pub. L. 104–193 which redesignated portions of subsec. (b)(1)(A) and struck out the language sought to be amended. See above.
+Pub. L. 104–193, § 109(d)(1), which directed substitution of “or are receiving assistance under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.)” for “to aid to families with dependent children under part A of title IV of the Social Security Act” in first sentence of subsec. (b)(1)(A), effective July 1, 1997, could not be executed because of amendment by Pub. L. 104–193 which redesignated portions of subsec. (b)(1)(A) and struck out the language sought to be amended. See above.
 
-Pub. L. 104–127, § 401(c), substituted “October 1, 2002” for “October 1, 1995” in last sentence of par. (1)(A).
+Pub. L. 104–127, § 401(c), substituted “October 1, 2002” for “October 1, 1995” in last sentence of par. (1)(A).
 
-Subsec. (b)(2). Pub. L. 104–193, § 815(b)(1), substituted “section 2015(d)(1)(A)(i)” for “section 2015(d)(1)(i)” in second sentence.
+Subsec. (b)(2). Pub. L. 104–193, § 815(b)(1), substituted “section 2015(d)(1)(A)(i)” for “section 2015(d)(1)(i)” in second sentence.
 
-Subsec. (b)(3)(I). Pub. L. 104–193, § 109(d)(2), added subpar. (I).
+Subsec. (b)(3)(I). Pub. L. 104–193, § 109(d)(2), added subpar. (I).
 
-Subsec. (d). Pub. L. 104–193, § 852, added subsec. (d) and struck out former subsec. (d) which authorized pilot projects for employment of applicants and recipients, defined “qualification period”, and provided for exceptions, waiver of requirements, and reestablishment of eligibility.
+Subsec. (d). Pub. L. 104–193, § 852, added subsec. (d) and struck out former subsec. (d) which authorized pilot projects for employment of applicants and recipients, defined “qualification period”, and provided for exceptions, waiver of requirements, and reestablishment of eligibility.
 
-Subsec. (i). Pub. L. 104–193, § 854(c)(2), redesignated subsec. (j) as (i) and struck out former subsec. (i) which authorized four demonstration projects, in both urban and rural areas, under which households in which each member received benefits under State plan approved under part A of title IV of Social Security Act would be issued monthly allotments following rules and procedures of programs under part A of title IV of Social Security Act, and without regard to eligibility, benefit, and administrative rules established under this chapter.
+Subsec. (i). Pub. L. 104–193, § 854(c)(2), redesignated subsec. (j) as (i) and struck out former subsec. (i) which authorized four demonstration projects, in both urban and rural areas, under which households in which each member received benefits under State plan approved under part A of title IV of Social Security Act would be issued monthly allotments following rules and procedures of programs under part A of title IV of Social Security Act, and without regard to eligibility, benefit, and administrative rules established under this chapter.
 
-Subsec. (j). Pub. L. 104–193, § 854(c)(2), redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
+Subsec. (j). Pub. L. 104–193, § 854(c)(2), redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
 
-Subsec. (j)(1)(A). Pub. L. 104–127, § 401(d), substituted “2002” for “1995”.
+Subsec. (j)(1)(A). Pub. L. 104–127, § 401(d), substituted “2002” for “1995”.
 
-Subsecs. (k), (*l*). Pub. L. 104–193, § 854(c)(2)(B), redesignated subsec. (*l*) as (k). Former subsec. (k) redesignated (j).
+Subsecs. (k), (*l*). Pub. L. 104–193, § 854(c)(2)(B), redesignated subsec. (*l*) as (k). Former subsec. (k) redesignated (j).
 
 1994—Subsec. (*l*). Pub. L. 103–225 added subsec. (*l*).
 
@@ -9223,29 +9223,29 @@ Subsecs. (k), (*l*). Pub. L. 104–193, § 854(c)(2)(B), redesignated subsec. 
 
 1991—Subsec. (b)(3)(C). Pub. L. 102–237 inserted a closing parenthesis after “402(g)(1)(A)”.
 
-1990—Subsec. (a). Pub. L. 101–624, § 1731, designated existing provisions as par. (1) and added par. (2).
+1990—Subsec. (a). Pub. L. 101–624, § 1731, designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b)(1). Pub. L. 101–624, § 1756(1), inserted “or a project conducted under paragraph (3)” after “eligible households” in second sentence of subpar. (A).
+Subsec. (b)(1). Pub. L. 101–624, § 1756(1), inserted “or a project conducted under paragraph (3)” after “eligible households” in second sentence of subpar. (A).
 
-Pub. L. 101–624, § 1755, designated existing provisions as subpar. (A) and added subpar. (B).
+Pub. L. 101–624, § 1755, designated existing provisions as subpar. (A) and added subpar. (B).
 
-Pub. L. 101–624, § 1754, substituted “1995” for “1990”.
+Pub. L. 101–624, § 1754, substituted “1995” for “1990”.
 
-Subsec. (b)(3). Pub. L. 101–624, § 1756(2), added par. (3).
+Subsec. (b)(3). Pub. L. 101–624, § 1756(2), added par. (3).
 
-Subsec. (f). Pub. L. 101–624, § 1729(b), struck out par. (1) designation preceding text.
+Subsec. (f). Pub. L. 101–624, § 1729(b), struck out par. (1) designation preceding text.
 
-Subsec. (h). Pub. L. 101–624, § 1757, added subsec. (h).
+Subsec. (h). Pub. L. 101–624, § 1757, added subsec. (h).
 
-Subsec. (i). Pub. L. 101–624, § 1758, added subsec. (i).
+Subsec. (i). Pub. L. 101–624, § 1758, added subsec. (i).
 
-Subsec. (j). Pub. L. 101–624, § 1759, added subsec. (j).
+Subsec. (j). Pub. L. 101–624, § 1759, added subsec. (j).
 
-1988—Subsec. (f). Pub. L. 100–435, § 504, added subsec. (f).
+1988—Subsec. (f). Pub. L. 100–435, § 504, added subsec. (f).
 
-Subsec. (g). Pub. L. 100–435, § 505, added subsec. (g).
+Subsec. (g). Pub. L. 100–435, § 505, added subsec. (g).
 
-1985—Subsec. (b)(1). Pub. L. 99–198, § 1540(a), substituted “October 1, 1990” for “December 31, 1985”.
+1985—Subsec. (b)(1). Pub. L. 99–198, § 1540(a), substituted “October 1, 1990” for “December 31, 1985”.
 
 Pub. L. 99–182 substituted “December 31, 1985” for “December 13, 1985”.
 
@@ -9253,27 +9253,27 @@ Pub. L. 99–157 substituted “December 13, 1985” for “November 15, 1985”
 
 Pub. L. 99–114 substituted “through November 15, 1985” for “until October 1, 1985”.
 
-Subsecs. (d) to (f). Pub. L. 99–198, § 1540(b), (c), struck out subsec. (d) which had authorized the Secretary to conduct statewide pilot projects respecting the processing of applications for certain recipients, and redesignated subsecs. (e) and (f) as (d) and (e), respectively.
+Subsecs. (d) to (f). Pub. L. 99–198, § 1540(b), (c), struck out subsec. (d) which had authorized the Secretary to conduct statewide pilot projects respecting the processing of applications for certain recipients, and redesignated subsecs. (e) and (f) as (d) and (e), respectively.
 
-1982—Subsec. (d). Pub. L. 97–253, §§ 152(c), 190(d), redesignated subsec. (f) as (d), and struck out former subsec. (d), which provided that notwithstanding any other provision of law, the Secretary has required, in consultation with the Secretary of the Treasury, to conduct a study, through the use of Federal income tax data, of the feasibility, alternative methods of implementation, and the effects of a program to recover food stamp benefits from members of eligible households in which the adjusted gross income of members of such households for a calendar year (as defined by the Internal Revenue Code of 1954) exceeded twice the income poverty guidelines set forth in section 2014(c) of this title, and that such study had to be conducted in rural and urban areas only on a voluntary basis by food stamp recipients, and that the Secretary was required, no later than twelve months and eighteen months from September 29, 1977, to report the results of the study to the Committees on Agriculture and Ways and Means of the House of Representatives and to the Committees on Agriculture, Nutrition, and Forestry and Finance of the Senate, together with such recommendations as the Secretary deemed appropriate.
+1982—Subsec. (d). Pub. L. 97–253, §§ 152(c), 190(d), redesignated subsec. (f) as (d), and struck out former subsec. (d), which provided that notwithstanding any other provision of law, the Secretary has required, in consultation with the Secretary of the Treasury, to conduct a study, through the use of Federal income tax data, of the feasibility, alternative methods of implementation, and the effects of a program to recover food stamp benefits from members of eligible households in which the adjusted gross income of members of such households for a calendar year (as defined by the Internal Revenue Code of 1954) exceeded twice the income poverty guidelines set forth in section 2014(c) of this title, and that such study had to be conducted in rural and urban areas only on a voluntary basis by food stamp recipients, and that the Secretary was required, no later than twelve months and eighteen months from September 29, 1977, to report the results of the study to the Committees on Agriculture and Ways and Means of the House of Representatives and to the Committees on Agriculture, Nutrition, and Forestry and Finance of the Senate, together with such recommendations as the Secretary deemed appropriate.
 
-Subsec. (e). Pub. L. 97–253, §§ 152(c), 190(d), redesignated subsec. (g) as (e) and struck out former subsec. (e) which provided for a study of the Consumer Price Index and other alternative consumer price or cost-of-living indices.
+Subsec. (e). Pub. L. 97–253, §§ 152(c), 190(d), redesignated subsec. (g) as (e) and struck out former subsec. (e) which provided for a study of the Consumer Price Index and other alternative consumer price or cost-of-living indices.
 
-Subsec. (f). Pub. L. 97–253, § 190(d), redesignated subsec. (h) as (f). Former subsec. (f) redesignated (d).
+Subsec. (f). Pub. L. 97–253, § 190(d), redesignated subsec. (h) as (f). Former subsec. (f) redesignated (d).
 
-Subsecs. (g), (h). Pub. L. 97–253, §§ 181, 182, 190(d), added subsecs. (g) and (h) and redesignated them as (e) and (f), respectively.
+Subsecs. (g), (h). Pub. L. 97–253, §§ 181, 182, 190(d), added subsecs. (g) and (h) and redesignated them as (e) and (f), respectively.
 
-1981—Subsec. (b)(1). Pub. L. 97–98, § 1328, substituted “may conduct” for “is authorized to conduct”, “age sixty-five or over and any of whose members are entitled to supplemental security income benefits under title XVI of the Social Security Act or to aid to families with dependent children under part A of title IV of the Social Security Act” for “either age sixty-five or over or entitled to supplemental security income benefits under title XVI of the Social Security Act”, and “October 1, 1985” for “October 1, 1981” and inserted “or the average value of allotments by household size” after “value of allotments”, “, other than a proj­ect involving the payment of the average value of allotments by household size in the form of cash to eligible households,” after “no project”, “and operating as of October 1, 1981,” after “under this paragraph” and “all of whose members are either age sixty-five or over or entitled to supplemental security income benefits under title XVI of the Social Security Act” before “shall be continued”.
+1981—Subsec. (b)(1). Pub. L. 97–98, § 1328, substituted “may conduct” for “is authorized to conduct”, “age sixty-five or over and any of whose members are entitled to supplemental security income benefits under title XVI of the Social Security Act or to aid to families with dependent children under part A of title IV of the Social Security Act” for “either age sixty-five or over or entitled to supplemental security income benefits under title XVI of the Social Security Act”, and “October 1, 1985” for “October 1, 1981” and inserted “or the average value of allotments by household size” after “value of allotments”, “, other than a proj­ect involving the payment of the average value of allotments by household size in the form of cash to eligible households,” after “no project”, “and operating as of October 1, 1981,” after “under this paragraph” and “all of whose members are either age sixty-five or over or entitled to supplemental security income benefits under title XVI of the Social Security Act” before “shall be continued”.
 
-Subsec. (c). Pub. L. 97–98, § 1329, inserted provision authorizing the Secretary to implement pilot programs to test various means of measuring on a continual basis the nutritional status of low income people in order to develop minimum common criteria and methods for systematic nutrition monitoring that could be applied on a nationwide basis and directing the Secretary to report on the progress of these pilot programs on an annual basis commencing on July 1, 1982, to designated Congressional committees.
+Subsec. (c). Pub. L. 97–98, § 1329, inserted provision authorizing the Secretary to implement pilot programs to test various means of measuring on a continual basis the nutritional status of low income people in order to develop minimum common criteria and methods for systematic nutrition monitoring that could be applied on a nationwide basis and directing the Secretary to report on the progress of these pilot programs on an annual basis commencing on July 1, 1982, to designated Congressional committees.
 
-Subsec. (f). Pub. L. 97–98, § 1330, added subsec. (f).
+Subsec. (f). Pub. L. 97–98, § 1330, added subsec. (f).
 
-1980—Subsec. (b)(1). Pub. L. 96–249, § 130, inserted provisions requiring that any pilot or experimental proj­ect implemented under this paragraph involving the payment of the value of allotments in the form of cash to eligible households be continued until October 1, 1981, if the State so requests.
+1980—Subsec. (b)(1). Pub. L. 96–249, § 130, inserted provisions requiring that any pilot or experimental proj­ect implemented under this paragraph involving the payment of the value of allotments in the form of cash to eligible households be continued until October 1, 1981, if the State so requests.
 
-Subsec. (b)(2). Pub. L. 96–249, §§ 131, 132(a), inserted “(ten days in at least one pilot project area designated by the Secretary)” after “thirty days” and substituted “interim reports no later than October 1, 1979, October 1, 1980, and March 30, 1981, shall issue a final report describing the results of such pilot project based upon their operation from their commencement through the fiscal year ending September 30, 1981, and shall pay to the agencies or organizations operating such pilot projects 50 per centum of all administrative costs involved in such operation” for “an interim report no later than October 1, 1979, and shall issue a final report describing the results of such pilot proj­ects no later than October 1, 1980”.
+Subsec. (b)(2). Pub. L. 96–249, §§ 131, 132(a), inserted “(ten days in at least one pilot project area designated by the Secretary)” after “thirty days” and substituted “interim reports no later than October 1, 1979, October 1, 1980, and March 30, 1981, shall issue a final report describing the results of such pilot project based upon their operation from their commencement through the fiscal year ending September 30, 1981, and shall pay to the agencies or organizations operating such pilot projects 50 per centum of all administrative costs involved in such operation” for “an interim report no later than October 1, 1979, and shall issue a final report describing the results of such pilot proj­ects no later than October 1, 1980”.
 
-Subsec. (e). Pub. L. 96–249, § 133, added subsec. (e).
+Subsec. (e). Pub. L. 96–249, § 133, added subsec. (e).
 
 1978—Subsec. (b)(2). Pub. L. 95–400 required issuance of an interim report no later than Oct. 1, 1979, and substituted requirement for issuance of a final report no later than Oct. 1, 1980, for prior requirement of a final report no later than eighteen months following Sept. 29, 1977.
 
@@ -9293,13 +9293,13 @@ Amendment by sections 4001(b), 4002(a)(9), 4115(b)(12), 4141, and 4406(a)(5) of 
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–171, title IV, § 4123(b), May 13, 2002, 116 Stat. 324, provided that: “The amendments made by this section [amending this section] take effect on the date of enactment of this Act [May 13, 2002].”
+Pub. L. 107–171, title IV, § 4123(b), May 13, 2002, 116 Stat. 324, provided that: “The amendments made by this section [amending this section] take effect on the date of enactment of this Act [May 13, 2002].”
 
 Amendment by sections 4112(b)(4), 4116(b), and 4122(b) of Pub. L. 107–171 effective Oct. 1, 2002, except as otherwise provided, see section 4405 of Pub. L. 107–171, set out as an Effective Date note under section 1161 of Title 2, The Congress.
 
 **Effective Date of 1998 Amendment**
 
-Amendment by section 101(f) [title VIII, § 405(d)(2)(C)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(2)(C)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) [title VIII, § 405(d)(2)(C)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(2)(C)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 **Effective Date of 1996 Amendment**
 
@@ -9333,11 +9333,11 @@ Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agricultur
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–249, title I, § 132(b), May 26, 1980, 94 Stat. 368, provided that: “The provisions of section 17(b)(2) of the Food Stamp Act of 1977 [now the Food and Nutrition Act of 2008, 7 U.S.C. 2026(b)(2)] for the sharing of administrative costs, as added by subsection (a) of this section, shall be effective on the date of enactment of this Act [May 26, 1980].”
+Pub. L. 96–249, title I, § 132(b), May 26, 1980, 94 Stat. 368, provided that: “The provisions of section 17(b)(2) of the Food Stamp Act of 1977 [now the Food and Nutrition Act of 2008, 7 U.S.C. 2026(b)(2)] for the sharing of administrative costs, as added by subsection (a) of this section, shall be effective on the date of enactment of this Act [May 26, 1980].”
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
+Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that the amendment made by section 1301 is effective Oct. 1, 1977.
 
 **Termination of Reporting Requirements**
 
@@ -9345,13 +9345,13 @@ For termination, effective May 15, 2000, of provisions in subsec. (c) of this se
 
 **Study of Use of Food Stamps To Purchase Vitamins and Minerals**
 
-Pub. L. 104–193, title VIII, § 855, Aug. 22, 1996, 110 Stat. 2342, directed the Secretary of Agriculture, in consultation with the National Academy of Sciences and the Center for Disease Control and Prevention, to conduct a study on the use of food stamps to purchase vitamins and minerals and to report the results of the study to Committees of Congress not later than Dec. 15, 1998.
+Pub. L. 104–193, title VIII, § 855, Aug. 22, 1996, 110 Stat. 2342, directed the Secretary of Agriculture, in consultation with the National Academy of Sciences and the Center for Disease Control and Prevention, to conduct a study on the use of food stamps to purchase vitamins and minerals and to report the results of the study to Committees of Congress not later than Dec. 15, 1998.
 
 **Demonstration Projects for Vehicle Exclusion Limit**
 
-Pub. L. 102–237, title IX, § 912, Dec. 13, 1991, 105 Stat. 1887, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (2)(NN), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(NN), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that: “The Secretary of Agriculture shall solicit requests to participate in the demonstration projects required by section 17(h) of the Food and Nutrition Act of 2008 (7 U.S.C. 2026(h)) by May 1, 1992. The projects shall commence operations no later than January 1, 1993.”
+Pub. L. 102–237, title IX, § 912, Dec. 13, 1991, 105 Stat. 1887, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (2)(NN), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(NN), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that: “The Secretary of Agriculture shall solicit requests to participate in the demonstration projects required by section 17(h) of the Food and Nutrition Act of 2008 (7 U.S.C. 2026(h)) by May 1, 1992. The projects shall commence operations no later than January 1, 1993.”
 
-## § 2026a. Healthy fluid milk incentives projects
+## § 2026a. Healthy fluid milk incentives projects
 
 **(a) Definition of fluid milk** In this section the term “fluid milk” means all varieties of pasteurized cow’s milk that—
 
@@ -9427,7 +9427,7 @@ There is authorized to be appropriated $20,000,000 to carry out and evaluate the
 
 Only funds appropriated under paragraph (1) in advance specifically to carry out this section shall be available to carry out this section.
 
-(Pub. L. 115–334, title IV, § 4208, Dec. 20, 2018, 132 Stat. 4667.)
+(Pub. L. 115–334, title IV, § 4208, Dec. 20, 2018, 132 Stat. 4667.)
 
 **Editorial Notes**
 
@@ -9439,7 +9439,7 @@ The Food and Nutrition Act of 2008, referred to in subsec. (c)(4), is Pub. L. 88
 
 Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the Food and Nutrition Act of 2008 which comprises this chapter.
 
-## § 2027. Appropriations and allotments
+## § 2027. Appropriations and allotments
 
 **(a) Authorization of allotments; monthly reports of expenditures to Congressional committees; restriction on use of funds; nutrition education improvements**
 
@@ -9475,9 +9475,9 @@ Not later than sixty days after the issuance of a report under subsection (a) of
 
 **(e) Disposition of funds collected pursuant to claims**
 
-Funds collected from claims against households or State agencies, including claims collected pursuant to section 2016(f) 1
+Funds collected from claims against households or State agencies, including claims collected pursuant to section 2016(f) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, subsections (g) and (h) of section 2020 of this title, subsections (b) and (c) of section 2022 of this title, and section 2025(c)(1) of this title, claims resulting from resolution of audit findings, and claims collected from households receiving overissuances, shall be credited to the supplemental nutrition assistance program appropriation account for the fiscal year in which the collection occurs. Funds provided to State agencies under section 2025(c) of this title shall be paid from the appropriation account for the fiscal year in which the funds are provided.
 
@@ -9503,13 +9503,13 @@ Paragraph (1)(B) shall not apply to programmatic activities undertaken with resp
 
 The Secretary shall issue regulations that prohibit entities that receive funds under this chapter to compensate any person for conducting outreach activities relating to participation in, or for recruiting individuals to apply to receive benefits under, the supplemental nutrition assistance program, if the amount of the compensation would be based on the number of individuals who apply to receive the benefits.
 
-(Pub. L. 88–525, § 18, as added Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 979; amended Pub. L. 96–58, § 1, Aug. 14, 1979, 93 Stat. 389; Pub. L. 96–249, title I, § 134, title II, § 201, May 26, 1980, 94 Stat. 368, 370; Pub. L. 97–18, § 1, June 30, 1981, 95 Stat. 102; Pub. L. 97–98, title XIII, §§ 1331, 1332, Dec. 22, 1981, 95 Stat. 1291; Pub. L. 97–253, title I, §§ 180(b)(2), 183, Sept. 8, 1982, 96 Stat. 784, 785; Pub. L. 99–198, title XV, §§ 1535(c)(2), 1541, 1542(a), Dec. 23, 1985, 99 Stat. 1585, 1589; Pub. L. 101–624, title XVII, §§ 1760, 1761, Nov. 28, 1990, 104 Stat. 3803, 3804; Pub. L. 104–127, title IV, § 401(e), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title VIII, § 853, Aug. 22, 1996, 110 Stat. 2339; Pub. L. 105–362, title I, § 101(b), Nov. 10, 1998, 112 Stat. 3281; Pub. L. 107–171, title IV, §§ 4118(c), 4122(c), May 13, 2002, 116 Stat. 321, 324; Pub. L. 110–234, title IV, §§ 4001(b), 4002(a)(10), 4406(a)(1), title VII, § 7101(b)(3), May 22, 2008, 122 Stat. 1092, 1095, 1140, 1213; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4002(a)(10), 4406(a)(1), title VII, § 7101(b)(3), June 18, 2008, 122 Stat. 1664, 1853, 1856, 1902, 1974; Pub. L. 113–79, title IV, §§ 4018(b), (c), 4024, 4030(j), Feb. 7, 2014, 128 Stat. 797, 809, 814; Pub. L. 115–334, title IV, § 4016, Dec. 20, 2018, 132 Stat. 4648.)
+(Pub. L. 88–525, § 18, as added Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 979; amended Pub. L. 96–58, § 1, Aug. 14, 1979, 93 Stat. 389; Pub. L. 96–249, title I, § 134, title II, § 201, May 26, 1980, 94 Stat. 368, 370; Pub. L. 97–18, § 1, June 30, 1981, 95 Stat. 102; Pub. L. 97–98, title XIII, §§ 1331, 1332, Dec. 22, 1981, 95 Stat. 1291; Pub. L. 97–253, title I, §§ 180(b)(2), 183, Sept. 8, 1982, 96 Stat. 784, 785; Pub. L. 99–198, title XV, §§ 1535(c)(2), 1541, 1542(a), Dec. 23, 1985, 99 Stat. 1585, 1589; Pub. L. 101–624, title XVII, §§ 1760, 1761, Nov. 28, 1990, 104 Stat. 3803, 3804; Pub. L. 104–127, title IV, § 401(e), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title VIII, § 853, Aug. 22, 1996, 110 Stat. 2339; Pub. L. 105–362, title I, § 101(b), Nov. 10, 1998, 112 Stat. 3281; Pub. L. 107–171, title IV, §§ 4118(c), 4122(c), May 13, 2002, 116 Stat. 321, 324; Pub. L. 110–234, title IV, §§ 4001(b), 4002(a)(10), 4406(a)(1), title VII, § 7101(b)(3), May 22, 2008, 122 Stat. 1092, 1095, 1140, 1213; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4002(a)(10), 4406(a)(1), title VII, § 7101(b)(3), June 18, 2008, 122 Stat. 1664, 1853, 1856, 1902, 1974; Pub. L. 113–79, title IV, §§ 4018(b), (c), 4024, 4030(j), Feb. 7, 2014, 128 Stat. 797, 809, 814; Pub. L. 115–334, title IV, § 4016, Dec. 20, 2018, 132 Stat. 4648.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subsec. (f) of section 2016 of this title, referred to in subsec. (e), was redesignated (e) by Pub. L. 110–246, title IV, § 4115(a)(12), June 18, 2008, 122 Stat. 1866.
+Subsec. (f) of section 2016 of this title, referred to in subsec. (e), was redesignated (e) by Pub. L. 110–246, title IV, § 4115(a)(12), June 18, 2008, 122 Stat. 1866.
 
 **Codification**
 
@@ -9519,27 +9519,27 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2018—Subsec. (a)(1). Pub. L. 115–334 substituted “2023” for “2018”.
 
-2014—Subsec. (a)(1). Pub. L. 113–79, § 4024, substituted “through 2018” for “through 2012”.
+2014—Subsec. (a)(1). Pub. L. 113–79, § 4024, substituted “through 2018” for “through 2012”.
 
-Subsec. (e). Pub. L. 113–79, § 4030(j), substituted “section 2016(f) of this title” for “sections 2016(f) of this title”.
+Subsec. (e). Pub. L. 113–79, § 4030(j), substituted “section 2016(f) of this title” for “sections 2016(f) of this title”.
 
-Subsec. (g). Pub. L. 113–79, § 4018(b), added subsec. (g).
+Subsec. (g). Pub. L. 113–79, § 4018(b), added subsec. (g).
 
-Subsec. (h). Pub. L. 113–79, § 4018(c), added subsec. (h).
+Subsec. (h). Pub. L. 113–79, § 4018(c), added subsec. (h).
 
-2008—Subsec. (a)(1). Pub. L. 110–246, § 4406(a)(1), substituted “for each of fiscal years 2008 through 2012” for “for each of the fiscal years 2003 through 2007”.
+2008—Subsec. (a)(1). Pub. L. 110–246, § 4406(a)(1), substituted “for each of fiscal years 2008 through 2012” for “for each of the fiscal years 2003 through 2007”.
 
-Subsec. (a)(3)(A)(ii). Pub. L. 110–246, § 4002(a)(10), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
+Subsec. (a)(3)(A)(ii). Pub. L. 110–246, § 4002(a)(10), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
 
-Subsec. (a)(3)(B). Pub. L. 110–246, § 7101(b)(3), substituted “section 3103” for “section 3103(5)”.
+Subsec. (a)(3)(B). Pub. L. 110–246, § 7101(b)(3), substituted “section 3103” for “section 3103(5)”.
 
-Subsec. (a)(3)(D). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Subsec. (a)(3)(D). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsecs. (b), (d), (e). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Subsecs. (b), (d), (e). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-2002—Subsec. (a)(1). Pub. L. 107–171, § 4122(c), substituted “2003 through 2007” for “1996 through 2002”.
+2002—Subsec. (a)(1). Pub. L. 107–171, § 4122(c), substituted “2003 through 2007” for “1996 through 2002”.
 
-Subsec. (e). Pub. L. 107–171, § 4118(c), substituted “subsections (g) and (h) of section 2020 of this title,” for “2020(g) and (h), and” and inserted “and section 2025(c)(1) of this title,” after “section 2022 of this title,”.
+Subsec. (e). Pub. L. 107–171, § 4118(c), substituted “subsections (g) and (h) of section 2020 of this title,” for “2020(g) and (h), and” and inserted “and section 2025(c)(1) of this title,” after “section 2022 of this title,”.
 
 1998—Subsec. (a)(1). Pub. L. 105–362 struck out at end “The Secretary shall, by the fifteenth day of each month, submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate setting forth the Secretary’s best estimate of the second preceding month’s expenditure, including administrative costs, as well as the cumulative totals for the fiscal year. In each monthly report, the Secretary shall also state whether there is reason to believe that supplemental appropriations will be needed to support the operation of the program through the end of the fiscal year.”
 
@@ -9547,39 +9547,39 @@ Subsec. (e). Pub. L. 107–171, § 4118(c), substituted “subsections (g) and
 
 Pub. L. 104–127 substituted “1991 through 1997” for “1991 through 1995” in first sentence.
 
-1990—Subsec. (a)(1). Pub. L. 101–624, §§ 1760(1)(A), 1761(1), substituted “To carry out this chapter, there are authorized to be appropriated such sums as are necessary for each of the fiscal years 1991 through 1995.” for former first two sentences which related to authorizations of appropriation for fiscal years ending September 30, 1978 through September 30, 1990, and inserted “, subject to paragraph (3)”.
+1990—Subsec. (a)(1). Pub. L. 101–624, §§ 1760(1)(A), 1761(1), substituted “To carry out this chapter, there are authorized to be appropriated such sums as are necessary for each of the fiscal years 1991 through 1995.” for former first two sentences which related to authorizations of appropriation for fiscal years ending September 30, 1978 through September 30, 1990, and inserted “, subject to paragraph (3)”.
 
-Pub. L. 101–624, § 1760(1)(B), substituted “supplemental appropriations will be needed to support the operation of the program through the end of the fiscal year” for “reductions in the value of allotments issued to households certified to participate in the food stamp program will be necessary under subsection (b) of this section”.
+Pub. L. 101–624, § 1760(1)(B), substituted “supplemental appropriations will be needed to support the operation of the program through the end of the fiscal year” for “reductions in the value of allotments issued to households certified to participate in the food stamp program will be necessary under subsection (b) of this section”.
 
-Subsec. (a)(3). Pub. L. 101–624, § 1761(2), added par. (3).
+Subsec. (a)(3). Pub. L. 101–624, § 1761(2), added par. (3).
 
-Subsec. (b). Pub. L. 101–624, § 1760(2), struck out “amount authorized in subsection (a)(1) of this section” after “exceed the appropriation”.
+Subsec. (b). Pub. L. 101–624, § 1760(2), struck out “amount authorized in subsection (a)(1) of this section” after “exceed the appropriation”.
 
-1985—Subsec. (a)(1). Pub. L. 99–198, § 1541(1), inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1986, 1987, 1988, 1989, and 1990.
+1985—Subsec. (a)(1). Pub. L. 99–198, § 1541(1), inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1986, 1987, 1988, 1989, and 1990.
 
-Subsec. (b). Pub. L. 99–198, § 1541(2), substituted “the appropriation amount authorized in subsection (a)(1) of this section,” for “the limitation set herein,”.
+Subsec. (b). Pub. L. 99–198, § 1541(2), substituted “the appropriation amount authorized in subsection (a)(1) of this section,” for “the limitation set herein,”.
 
-Subsec. (e). Pub. L. 99–198, § 1535(c)(2), substituted reference to subsections (b) and (c) of section 2022 of this title for reference to 2022(b) of this title.
+Subsec. (e). Pub. L. 99–198, § 1535(c)(2), substituted reference to subsections (b) and (c) of section 2022 of this title for reference to 2022(b) of this title.
 
-Subsec. (f). Pub. L. 99–198, § 1542(a), added subsec. (f).
+Subsec. (f). Pub. L. 99–198, § 1542(a), added subsec. (f).
 
-1982—Subsec. (a)(1). Pub. L. 97–253, § 183, inserted provisions for appropriations for the fiscal years ending on September 30, 1983–1985, inclusive.
+1982—Subsec. (a)(1). Pub. L. 97–253, § 183, inserted provisions for appropriations for the fiscal years ending on September 30, 1983–1985, inclusive.
 
-Subsec. (e). Pub. L. 97–253, § 180(b)(2), struck out reference to section 2025(g) of this title in first sentence.
+Subsec. (e). Pub. L. 97–253, § 180(b)(2), struck out reference to section 2025(g) of this title in first sentence.
 
-1981—Subsec. (a)(1). Pub. L. 97–98, § 1331, struck out “and” after “September 30, 1980;” and inserted “; and not in excess of $11,300,000,000 for the fiscal year ending September 30, 1982”.
+1981—Subsec. (a)(1). Pub. L. 97–98, § 1331, struck out “and” after “September 30, 1980;” and inserted “; and not in excess of $11,300,000,000 for the fiscal year ending September 30, 1982”.
 
 Pub. L. 97–18 substituted “$11,480,000,000” for “$9,739,276,000” in appropriation authorization for the fiscal year ending Sept. 30, 1981.
 
-Subsec. (e). Pub. L. 97–98, § 1332, added subsec. (e).
+Subsec. (e). Pub. L. 97–98, § 1332, added subsec. (e).
 
 1980—Subsec. (a). Pub. L. 96–249 designated existing provisions as par. (1) and substituted “$9,491,000,000” for “$6,188,600,000” and “$9,739,276,000” for “$6,235,900,000”, and added par. (2).
 
-1979—Subsec. (a). Pub. L. 96–58, § 1(1), (2), substituted “$6,778,900,000” for “$6,158,900,000” in provisions authorizing appropriations for the fiscal year ending Sept. 30, 1979, struck out provisions directing that sums appropriated under this chapter would continue to remain available until expended, and inserted provisions requiring the Secretary to submit monthly reports to Senate and House Committees relating to monthly expenditures and stating whether or not there is reason to believe that reductions in the value of allotments issued to households certified to participate in the food stamp program will be necessary under subsec. (b) of this section.
+1979—Subsec. (a). Pub. L. 96–58, § 1(1), (2), substituted “$6,778,900,000” for “$6,158,900,000” in provisions authorizing appropriations for the fiscal year ending Sept. 30, 1979, struck out provisions directing that sums appropriated under this chapter would continue to remain available until expended, and inserted provisions requiring the Secretary to submit monthly reports to Senate and House Committees relating to monthly expenditures and stating whether or not there is reason to believe that reductions in the value of allotments issued to households certified to participate in the food stamp program will be necessary under subsec. (b) of this section.
 
-Subsec. (b). Pub. L. 96–58, § 1(3), substituted “Notwithstanding any other provision of this chapter, if” for “If” at beginning of second sentence.
+Subsec. (b). Pub. L. 96–58, § 1(3), substituted “Notwithstanding any other provision of this chapter, if” for “If” at beginning of second sentence.
 
-Subsecs. (c), (d). Pub. L. 96–58, § 1(4), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 96–58, § 1(4), added subsecs. (c) and (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9601,7 +9601,7 @@ Amendment by sections 1760(1)(A) and 1761 of Pub. L. 101–624 effective Oct. 1,
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–198, title XV, § 1542(b), Dec. 23, 1985, 99 Stat. 1589, provided that: “The amendment made by this section [amending this section] shall become effective on October 1, 1986.”
+Pub. L. 99–198, title XV, § 1542(b), Dec. 23, 1985, 99 Stat. 1589, provided that: “The amendment made by this section [amending this section] shall become effective on October 1, 1986.”
 
 **Effective Date of 1982 Amendment**
 
@@ -9617,13 +9617,13 @@ Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agricultur
 
 **Effective Date**
 
-Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that this section is effective Oct. 1, 1977.
+Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided that this section is effective Oct. 1, 1977.
 
 **Availability of Amounts if Sequestration Order Issued for Fiscal Year 1989**
 
 Amounts available to carry out food stamp program [now supplemental nutrition assistance program] under this section to be reduced if sequestration order is issued under section 902(b) of Title 2, The Congress, see section 701(c)(1) of Pub. L. 100–435, set out as an Effective Date of 1988 Amendment note under section 2012 of this title.
 
-## § 2028. Consolidated block grants for Puerto Rico and American Samoa
+## § 2028. Consolidated block grants for Puerto Rico and American Samoa
 
 **(a) Payments to governmental entities**
 
@@ -9755,7 +9755,7 @@ Notwithstanding subparagraph (A), the Secretary, informed by the report required
 
 Out of any funds made available under section 2027 of this title for fiscal year 2014, the Secretary shall make available to carry out the review and report described in paragraphs (1) and (2) $1,000,000, to remain available until expended.
 
-(Pub. L. 88–525, § 19, as added Pub. L. 97–35, title I, § 116(a)(2), Aug. 13, 1981, 95 Stat. 364; amended Pub. L. 97–253, title I, § 184(a), Sept. 8, 1982, 96 Stat. 785; Pub. L. 98–204, § 1, Dec. 2, 1983, 97 Stat. 1385; Pub. L. 99–114, § 2, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, § 3, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, § 3, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title XV, § 1543, Dec. 23, 1985, 99 Stat. 1589; Pub. L. 101–624, title XVII, § 1762(b), Nov. 28, 1990, 104 Stat. 3804; Pub. L. 102–237, title IX, § 941(9), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 103–66, title XIII, § 13917, Aug. 10, 1993, 107 Stat. 674; Pub. L. 104–127, title IV, § 401(f), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 106–387, § 1(a) [title VIII, § 821], Oct. 28, 2000, 114 Stat. 1549, 1549A–59; Pub. L. 107–171, title IV, § 4124(a), May 13, 2002, 116 Stat. 324; Pub. L. 110–234, title IV, §§ 4115(b)(13), 4406(a)(6), May 22, 2008, 122 Stat. 1108, 1141; Pub. L. 110–246, § 4(a), title IV, §§ 4115(b)(13), 4406(a)(6), June 18, 2008, 122 Stat. 1664, 1870, 1902; Pub. L. 113–79, title IV, § 4025, Feb. 7, 2014, 128 Stat. 809; Pub. L. 119–21, title I, § 10101(b)(2), July 4, 2025, 139 Stat. 81.)
+(Pub. L. 88–525, § 19, as added Pub. L. 97–35, title I, § 116(a)(2), Aug. 13, 1981, 95 Stat. 364; amended Pub. L. 97–253, title I, § 184(a), Sept. 8, 1982, 96 Stat. 785; Pub. L. 98–204, § 1, Dec. 2, 1983, 97 Stat. 1385; Pub. L. 99–114, § 2, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, § 3, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, § 3, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title XV, § 1543, Dec. 23, 1985, 99 Stat. 1589; Pub. L. 101–624, title XVII, § 1762(b), Nov. 28, 1990, 104 Stat. 3804; Pub. L. 102–237, title IX, § 941(9), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 103–66, title XIII, § 13917, Aug. 10, 1993, 107 Stat. 674; Pub. L. 104–127, title IV, § 401(f), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 106–387, § 1(a) [title VIII, § 821], Oct. 28, 2000, 114 Stat. 1549, 1549A–59; Pub. L. 107–171, title IV, § 4124(a), May 13, 2002, 116 Stat. 324; Pub. L. 110–234, title IV, §§ 4115(b)(13), 4406(a)(6), May 22, 2008, 122 Stat. 1108, 1141; Pub. L. 110–246, § 4(a), title IV, §§ 4115(b)(13), 4406(a)(6), June 18, 2008, 122 Stat. 1664, 1870, 1902; Pub. L. 113–79, title IV, § 4025, Feb. 7, 2014, 128 Stat. 809; Pub. L. 119–21, title I, § 10101(b)(2), July 4, 2025, 139 Stat. 81.)
 
 **Editorial Notes**
 
@@ -9769,11 +9769,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Subsec. (e). Pub. L. 113–79 added subsec. (e).
 
-2008—Subsec. (a)(2)(A)(ii). Pub. L. 110–246, §§ 4115(b)(13), 4406(a)(6), substituted “subject to the availability of appropriations under section 2027(a) of this title, for each fiscal year thereafter” for “for each of fiscal years 2004 through 2007” and “section 2012(u)(4)” for “section 2012(*o*)(4)”.
+2008—Subsec. (a)(2)(A)(ii). Pub. L. 110–246, §§ 4115(b)(13), 4406(a)(6), substituted “subject to the availability of appropriations under section 2027(a) of this title, for each fiscal year thereafter” for “for each of fiscal years 2004 through 2007” and “section 2012(u)(4)” for “section 2012(*o*)(4)”.
 
-2002—Pub. L. 107–171, § 4124(a)(1), substituted “Consolidated block grants for Puerto Rico and American Samoa” for “Puerto Rico block grant” in section catchline.
+2002—Pub. L. 107–171, § 4124(a)(1), substituted “Consolidated block grants for Puerto Rico and American Samoa” for “Puerto Rico block grant” in section catchline.
 
-Subsec. (a). Pub. L. 107–171, § 4124(a)(1), inserted heading, added pars. (1) and (2), redesignated former par. (2) as (3) and inserted heading, and struck out former par. (1) which read as follows:
+Subsec. (a). Pub. L. 107–171, § 4124(a)(1), inserted heading, added pars. (1) and (2), redesignated former par. (2) as (3) and inserted heading, and struck out former par. (1) which read as follows:
 
 “(1)(A) From the sums appropriated under this chapter, the Secretary shall, subject to the provisions of this section, pay to the Commonwealth of Puerto Rico—
 
@@ -9787,9 +9787,9 @@ to finance 100 percent of the expenditures for food assistance provided to needy
 
 “(B) The payments to the Commonwealth for any fiscal year shall not exceed the expenditures by that jurisdiction during that year for the provision of the assistance the provision of which is included in the plan of the Commonwealth approved under subsection (b) of this section and 50 per centum of the related administrative expenses.”
 
-Subsec. (b). Pub. L. 107–171, § 4124(a)(2), substituted “subsection (a)(2)(B)” for “subsection (a)(1)(A)” wherever appearing.
+Subsec. (b). Pub. L. 107–171, § 4124(a)(2), substituted “subsection (a)(2)(B)” for “subsection (a)(1)(A)” wherever appearing.
 
-Subsec. (c). Pub. L. 107–171, § 4124(a)(3), substituted “subsection (a)(2)(A)” for “subsection (a)(1)(A)” in two places.
+Subsec. (c). Pub. L. 107–171, § 4124(a)(3), substituted “subsection (a)(2)(A)” for “subsection (a)(1)(A)” in two places.
 
 2000—Subsec. (a)(1)(A). Pub. L. 106–387 substituted “Puerto Rico—” and cls. (i) to (iii) for “Puerto Rico $1,143,000,000 for fiscal year 1996, $1,174,000,000 for fiscal year 1997, $1,204,000,000 for fiscal year 1998, $1,236,000,000 for fiscal year 1999, $1,268,000,000 for fiscal year 2000, $1,301,000,000 for fiscal year 2001, and $1,335,000,000 for fiscal year 2002,”.
 
@@ -9801,11 +9801,11 @@ Subsec. (c). Pub. L. 107–171, § 4124(a)(3), substituted “subsection (a)(2
 
 1990—Subsec. (a)(1)(A). Pub. L. 101–624 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “From the sums appropriated under this chapter the Secretary shall, subject to the provisions of this subsection and subsection (b) of this section, pay to the Commonwealth of Puerto Rico not to exceed $825,000,000 for the fiscal year ending September 30, 1986, $852,750,000 for the fiscal year ending September 30, 1987, $879,750,000 for the fiscal year ending September 30, 1988, $908,250,000 for the fiscal year ending September 30, 1989, and $936,750,000 for the fiscal year ending September 30, 1990, to finance 100 per centum of the expenditures for food assistance provided to needy persons, and 50 per centum of the administrative expenses related to the provision of such assistance.”
 
-1985—Subsec. (a)(1)(A). Pub. L. 99–198, § 1543(1), (2), substituted “for the fiscal year ending September 30, 1986, $852,750,000 for the fiscal year ending September 30, 1987, $879,750,000 for the fiscal year ending September 30, 1988, $908,250,000 for the fiscal year ending September 30, 1989, and $936,750,000 for the fiscal year ending September 30, 1990,” for “for each fiscal year” and struck out “noncash” after “100 per centum of the expenditures for”.
+1985—Subsec. (a)(1)(A). Pub. L. 99–198, § 1543(1), (2), substituted “for the fiscal year ending September 30, 1986, $852,750,000 for the fiscal year ending September 30, 1987, $879,750,000 for the fiscal year ending September 30, 1988, $908,250,000 for the fiscal year ending September 30, 1989, and $936,750,000 for the fiscal year ending September 30, 1990,” for “for each fiscal year” and struck out “noncash” after “100 per centum of the expenditures for”.
 
 Pub. L. 99–114, Pub. L. 99–157, and Pub. L. 99–182, made identical amendments which temporarily struck out “noncash” after “100 per centum of the expenditures for”, for specified periods of time. See Effective and Termination Dates of 1985 Amendments note below.
 
-Subsec. (b)(1)(A)(i). Pub. L. 99–198, § 1543(3), substituted “the agency or agencies directly.” for “a single agency which shall be”.
+Subsec. (b)(1)(A)(i). Pub. L. 99–198, § 1543(3), substituted “the agency or agencies directly.” for “a single agency which shall be”.
 
 1983—Subsec. (a)(1)(A). Pub. L. 98–204 temporarily struck out “noncash” after “100 per centum of the expenditures for”. See Effective and Termination Dates of 1983 Amendment note below.
 
@@ -9821,7 +9821,7 @@ Amendment by sections 4115(b)(13) and 4406(a)(6) of Pub. L. 110–246 effective 
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–171, title IV, § 4124(c), (d), May 13, 2002, 116 Stat. 326, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (2)(C), May 22, 2008, 122 Stat. 1096; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(C), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that:
+Pub. L. 107–171, title IV, § 4124(c), (d), May 13, 2002, 116 Stat. 326, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (2)(C), May 22, 2008, 122 Stat. 1096; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(C), June 18, 2008, 122 Stat. 1664, 1857, 1858, provided that:
 
 > **“(c) Applicability.—**
 
@@ -9845,33 +9845,33 @@ Amendment by Pub. L. 101–624 effective Oct. 1, 1990, see section 1781(b)(1) of
 
 **Effective and Termination Dates of 1985 Amendments**
 
-Pub. L. 99–182, § 3, Dec. 13, 1985, 99 Stat. 1173, provided that the amendment made by section 3 is effective for the period beginning Dec. 14, 1985, and ending Dec. 31, 1985.
+Pub. L. 99–182, § 3, Dec. 13, 1985, 99 Stat. 1173, provided that the amendment made by section 3 is effective for the period beginning Dec. 14, 1985, and ending Dec. 31, 1985.
 
-Pub. L. 99–157, § 3, Nov. 15, 1985, 99 Stat. 818, provided that the amendment made by section 3 is effective for the period beginning Nov. 16, 1985, and ending Dec. 13, 1985.
+Pub. L. 99–157, § 3, Nov. 15, 1985, 99 Stat. 818, provided that the amendment made by section 3 is effective for the period beginning Nov. 16, 1985, and ending Dec. 13, 1985.
 
-Pub. L. 99–114, § 2, Oct. 1, 1985, 99 Stat. 488, provided that the amendment made by section 2 is effective for the period beginning Oct. 1, 1985, and ending Nov. 15, 1985.
+Pub. L. 99–114, § 2, Oct. 1, 1985, 99 Stat. 488, provided that the amendment made by section 2 is effective for the period beginning Oct. 1, 1985, and ending Nov. 15, 1985.
 
 **Effective and Termination Dates of 1983 Amendment**
 
-Pub. L. 98–204, § 1, Dec. 2, 1983, 97 Stat. 1385, provided that the amendment made by that section is effective for the period beginning Jan. 1, 1984, and ending Sept. 30, 1985.
+Pub. L. 98–204, § 1, Dec. 2, 1983, 97 Stat. 1385, provided that the amendment made by that section is effective for the period beginning Jan. 1, 1984, and ending Sept. 30, 1985.
 
 **Effective Date of 1982 Amendment**
 
 Amendment by Pub. L. 97–253 effective Sept. 8, 1982, see section 193(a) of Pub. L. 97–253, set out as a note under section 2012 of this title.
 
-Pub. L. 97–253, title I, § 184(b), Sept. 8, 1982, 96 Stat. 785, as amended by Pub. L. 98–107, § 101(b), Oct. 1, 1983, 97 Stat. 734, provided that: “The amendment made by subsection (a) [amending this section] shall not apply with respect to any plan submitted under section 19(b) of the Food Stamp Act of 1977 [now the Food and Nutrition Act of 2008] (7 U.S.C. 2028(b)) by the Commonwealth of Puerto Rico in order to receive payments for the fiscal year ending September 30, 1982, or the fiscal year ending September 30, 1983, or for the first three months of the fiscal year ending September 30, 1984.”
+Pub. L. 97–253, title I, § 184(b), Sept. 8, 1982, 96 Stat. 785, as amended by Pub. L. 98–107, § 101(b), Oct. 1, 1983, 97 Stat. 734, provided that: “The amendment made by subsection (a) [amending this section] shall not apply with respect to any plan submitted under section 19(b) of the Food Stamp Act of 1977 [now the Food and Nutrition Act of 2008] (7 U.S.C. 2028(b)) by the Commonwealth of Puerto Rico in order to receive payments for the fiscal year ending September 30, 1982, or the fiscal year ending September 30, 1983, or for the first three months of the fiscal year ending September 30, 1984.”
 
 **Effective Date**
 
-Pub. L. 97–35, title I, § 116(a), Aug. 13, 1981, 95 Stat. 364, provided that this section is effective July 1, 1982.
+Pub. L. 97–35, title I, § 116(a), Aug. 13, 1981, 95 Stat. 364, provided that this section is effective July 1, 1982.
 
 **Nutrition Assistance Program in Puerto Rico**
 
-Pub. L. 101–624, title XVII, § 1762(a), Nov. 28, 1990, 104 Stat. 3804, provided that: “It is the policy of Congress that citizens of the United States who reside in the Commonwealth of Puerto Rico should be safeguarded against hunger and treated on an equitable and fair basis with other citizens under Federal nutritional programs.”
+Pub. L. 101–624, title XVII, § 1762(a), Nov. 28, 1990, 104 Stat. 3804, provided that: “It is the policy of Congress that citizens of the United States who reside in the Commonwealth of Puerto Rico should be safeguarded against hunger and treated on an equitable and fair basis with other citizens under Federal nutritional programs.”
 
 **Nutritional Needs of Puerto Ricans; Study and Report to Congress**
 
-Pub. L. 101–624, title XVII, § 1762(c), (d), Nov. 28, 1990, 104 Stat. 3805, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(A), (B), (D), (2)(KK), May 22, 2008, 122 Stat. 1095, 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(A), (B), (D), (2)(KK), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
+Pub. L. 101–624, title XVII, § 1762(c), (d), Nov. 28, 1990, 104 Stat. 3805, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(A), (B), (D), (2)(KK), May 22, 2008, 122 Stat. 1095, 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(A), (B), (D), (2)(KK), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
 
 > **“(c) Study of Nutritional Needs of Puerto Ricans.—** The Comptroller General of the United States shall conduct a study of—
 
@@ -9897,13 +9897,13 @@ Pub. L. 101–624, title XVII, § 1762(c), (d), Nov. 28, 1990, 104 Stat. 3805,
 
 **Study of Food Assistance Program in Puerto Rico; Report to Congress by March 1, 1985**
 
-Pub. L. 98–204, § 2, Dec. 2, 1983, 97 Stat. 1385, directed the Secretary of Agriculture to conduct a study of the food assistance program in Puerto Rico and to submit a final report of the findings of the study to Committees of Congress no later than Mar. 1, 1985.
+Pub. L. 98–204, § 2, Dec. 2, 1983, 97 Stat. 1385, directed the Secretary of Agriculture to conduct a study of the food assistance program in Puerto Rico and to submit a final report of the findings of the study to Committees of Congress no later than Mar. 1, 1985.
 
 **Amount Payable to the Commonwealth of Puerto Rico for Fiscal Year 1982; Plans To Be Submitted to the Secretary for Grants for Fiscal Years 1982 and 1983**
 
-Pub. L. 97–35, title I, § 116(b), Aug. 13, 1981, 95 Stat. 366, provided for a payment of $206,500,000 to Puerto Rico for fiscal year 1982, notwithstanding the provisions of this section, and required Puerto Rico to submit the plan required by the provisions of subsec. (b) of this section by Apr. 1, 1982, to receive payments for fiscal years 1982 and 1983.
+Pub. L. 97–35, title I, § 116(b), Aug. 13, 1981, 95 Stat. 366, provided for a payment of $206,500,000 to Puerto Rico for fiscal year 1982, notwithstanding the provisions of this section, and required Puerto Rico to submit the plan required by the provisions of subsec. (b) of this section by Apr. 1, 1982, to receive payments for fiscal years 1982 and 1983.
 
-## § 2029. Workfare
+## § 2029. Workfare
 
 **(a) Program plan; guidelines; compliance**
 
@@ -9965,15 +9965,15 @@ An individual or a household may become ineligible under section 2015(d)(1) of t
 
 **(3)** The Secretary may suspend or cancel some or all of these payments, or may withdraw approval from a political subdivision to operate a workfare program, upon a finding that the subdivision has failed to comply with the workfare requirements.
 
-(Pub. L. 88–525, § 20, as added Pub. L. 97–98, title XIII, § 1333, Dec. 22, 1981, 95 Stat. 1291; amended Pub. L. 97–253, title I, §§ 185–188, Sept. 8, 1982, 96 Stat. 786; Pub. L. 99–198, title XV, § 1517(d), Dec. 23, 1985, 99 Stat. 1577; Pub. L. 102–237, title IX, § 941(10), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 104–193, title I, § 109(e), title VIII, § 815(b)(2), Aug. 22, 1996, 110 Stat. 2170, 2317; Pub. L. 110–234, title IV, § 4001(b), May 22, 2008, 122 Stat. 1092; Pub. L. 110–246, § 4(a), title IV, § 4001(b), June 18, 2008, 122 Stat. 1664, 1853.)
+(Pub. L. 88–525, § 20, as added Pub. L. 97–98, title XIII, § 1333, Dec. 22, 1981, 95 Stat. 1291; amended Pub. L. 97–253, title I, §§ 185–188, Sept. 8, 1982, 96 Stat. 786; Pub. L. 99–198, title XV, § 1517(d), Dec. 23, 1985, 99 Stat. 1577; Pub. L. 102–237, title IX, § 941(10), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 104–193, title I, § 109(e), title VIII, § 815(b)(2), Aug. 22, 1996, 110 Stat. 2170, 2317; Pub. L. 110–234, title IV, § 4001(b), May 22, 2008, 122 Stat. 1092; Pub. L. 110–246, § 4(a), title IV, § 4001(b), June 18, 2008, 122 Stat. 1664, 1853.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Fair Labor Standards Act of 1938, referred to in subsec. (a)(1), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (a)(1), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
-The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title IV of the Act is classified generally to subchapter IV (§ 601 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title IV of the Act is classified generally to subchapter IV (§ 601 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Codification**
 
@@ -9981,15 +9981,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsecs. (a)(1), (f). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+2008—Subsecs. (a)(1), (f). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-1996—Subsec. (a)(2)(B). Pub. L. 104–193, § 109(e)(1), substituted “operating any” for “operating—
+1996—Subsec. (a)(2)(B). Pub. L. 104–193, § 109(e)(1), substituted “operating any” for “operating—
 
 “(i) a workfare program pursuant to title IV of the Social Security Act (42 U.S.C. 601 et seq.); or
 
 “(ii) any other”.
 
-Subsec. (b). Pub. L. 104–193, § 109(e)(2), struck out “(1)” before “A household member shall be exempt”, redesignated subpars. (A) to (F) as pars. (1) to (6), respectively, in par. (2), substituted “a work activity” for “a work training program”, and struck out former par. (2) which read as follows:
+Subsec. (b). Pub. L. 104–193, § 109(e)(2), struck out “(1)” before “A household member shall be exempt”, redesignated subpars. (A) to (F) as pars. (1) to (6), respectively, in par. (2), substituted “a work activity” for “a work training program”, and struck out former par. (2) which read as follows:
 
 “(2)(A) Subject to subparagraphs (B) and (C), in the case of a household that is exempt from work requirements imposed under this chapter as the result of participation in a community work experience program established under section 409 of the Social Security Act (42 U.S.C. 609), the maximum number of hours in a month for which all members of such household may be required to participate in such program shall equal the result obtained by dividing—
 
@@ -10001,19 +10001,19 @@ Subsec. (b). Pub. L. 104–193, § 109(e)(2), struck out “(1)” before “A
 
 “(C) For the purpose of subparagraph (A)(i), the value of the food stamp allotment of a household for a month shall be determined in accordance with regulations governing the issuance of an allotment to a household that contains more members than the number of members in an assistance unit established under title IV of such Act.”
 
-Subsec. (f). Pub. L. 104–193, § 815(b)(2), added subsec. (f) and struck out former subsec. (f) which read as follows: “In the event that any person fails to comply with the requirements of this section, neither that person nor the household to which that person belongs shall be eligible to participate in the food stamp program for two months, unless that person or another person in the household satisfies all outstanding workfare obligations prior to the end of the two-month disqualification period.”
+Subsec. (f). Pub. L. 104–193, § 815(b)(2), added subsec. (f) and struck out former subsec. (f) which read as follows: “In the event that any person fails to comply with the requirements of this section, neither that person nor the household to which that person belongs shall be eligible to participate in the food stamp program for two months, unless that person or another person in the household satisfies all outstanding workfare obligations prior to the end of the two-month disqualification period.”
 
 1991—Subsec. (g)(2). Pub. L. 102–237 realigned the margins of subpars. (A) and (B) and cls. (i) and (ii) of subpar. (B).
 
 1985—Subsec. (b). Pub. L. 99–198 in amending subsec. (b) generally, designated existing provisions of subsec. (b) as par. (1), reorganized and expanded provisions of par. (1) as thus designated, lowered minimum age for exempted household members from eighteen years to sixteen years, and added par. (2).
 
-1982—Subsec. (a). Pub. L. 97–253, § 185, redesignated existing provisions, formerly undesignated, as par. (1), and added par. (2).
+1982—Subsec. (a). Pub. L. 97–253, § 185, redesignated existing provisions, formerly undesignated, as par. (1), and added par. (2).
 
-Subsec. (b)(4). Pub. L. 97–253, § 186, substituted “at the option of the operating agency, subject to and currently actively and satisfactorily participating” for “subject to and currently involved”.
+Subsec. (b)(4). Pub. L. 97–253, § 186, substituted “at the option of the operating agency, subject to and currently actively and satisfactorily participating” for “subject to and currently involved”.
 
-Subsec. (c). Pub. L. 97–253, § 187, substituted “, when added to any other hours worked during such week by such member for compensation (in cash or in kind) in any other capacity, exceeds thirty hours a week” for “either exceeds twenty hours a week or would, together with any other hours worked in any other compensated capacity by such member on a regular or predictable part-time basis, exceed thirty hours a week”.
+Subsec. (c). Pub. L. 97–253, § 187, substituted “, when added to any other hours worked during such week by such member for compensation (in cash or in kind) in any other capacity, exceeds thirty hours a week” for “either exceeds twenty hours a week or would, together with any other hours worked in any other compensated capacity by such member on a regular or predictable part-time basis, exceed thirty hours a week”.
 
-Subsec. (g)(2), (3). Pub. L. 97–253, § 188, added par. (2) and redesignated former par. (2) as (3).
+Subsec. (g)(2), (3). Pub. L. 97–253, § 188, added par. (2) and redesignated former par. (2) as (3).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10041,9 +10041,9 @@ Amendment by section 188 of Pub. L. 97–253 effective Oct. 1, 1982, see section
 
 Section effective on earlier of Sept. 8, 1982, or date effective pursuant to section 1338 of Pub. L. 97–98, set out as an Effective Date of 1981 Amendment note under section 2012 of this title, which made the section effective on such date as Secretary of Agriculture may prescribe, taking into account need for orderly implementation, see section 192(b) of Pub. L. 97–253 set out as an Effective Date of 1982 Amendment note under section 2012 of this title.
 
-## § 2030. Repealed. Pub. L. 110–234, title IV, § 4115(b)(14), May 22, 2008, 122 Stat. 1108, and Pub. L. 110–246, § 4(a), title IV, § 4115(b)(14), June 18, 2008, 122 Stat. 1664, 1870
+## § 2030. Repealed. Pub. L. 110–234, title IV, § 4115(b)(14), May 22, 2008, 122 Stat. 1108, and Pub. L. 110–246, § 4(a), title IV, § 4115(b)(14), June 18, 2008, 122 Stat. 1664, 1870
 
-Section, Pub. L. 88–525, § 21, as added Pub. L. 100–203, title I, § 1509, Dec. 22, 1987, 101 Stat. 1330–29; amended Pub. L. 100–481, § 1, Oct. 11, 1988, 102 Stat. 2336; Pub. L. 104–316, title I, § 104(a), Oct. 19, 1996, 110 Stat. 3829, related to a demonstration project as an alternative to the food stamp program in the State of Washington.
+Section, Pub. L. 88–525, § 21, as added Pub. L. 100–203, title I, § 1509, Dec. 22, 1987, 101 Stat. 1330–29; amended Pub. L. 100–481, § 1, Oct. 11, 1988, 102 Stat. 2336; Pub. L. 104–316, title I, § 104(a), Oct. 19, 1996, 110 Stat. 3829, related to a demonstration project as an alternative to the food stamp program in the State of Washington.
 
 **Editorial Notes**
 
@@ -10059,13 +10059,13 @@ Repeal of section effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246,
 
 Repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-## § 2031. Minnesota Family Investment Project
+## § 2031. Minnesota Family Investment Project
 
 **(a) In general**
 
-**(1)** Subject to paragraph (2), upon written application of the State of Minnesota that complies with this section and sections 6 to 11, 13, 130, and 132 of article 5 of 282 of the 1989 Laws of Minnesota, and after approval of such application by the Secretary in accordance with subsections (b) and (d), the State may implement a family investment demonstration project (hereinafter in this section referred to as the “Project”) in parts of the State to determine whether the Project more effectively helps families to become self-supporting and enhances their ability to care for their children than do the supplemental nutrition assistance program and programs under parts A and F 1
+**(1)** Subject to paragraph (2), upon written application of the State of Minnesota that complies with this section and sections 6 to 11, 13, 130, and 132 of article 5 of 282 of the 1989 Laws of Minnesota, and after approval of such application by the Secretary in accordance with subsections (b) and (d), the State may implement a family investment demonstration project (hereinafter in this section referred to as the “Project”) in parts of the State to determine whether the Project more effectively helps families to become self-supporting and enhances their ability to care for their children than do the supplemental nutrition assistance program and programs under parts A and F 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title IV of the Social Security Act [42 U.S.C. 601 et seq.]. The State may provide cash payments under the Project, subject to paragraph (2), that replace assistance otherwise available under the supplemental nutrition assistance program and under part A of title IV of the Social Security Act.
 
@@ -10165,7 +10165,7 @@ This subparagraph shall not be construed to require the State to make the determ
 
 **(C)** Each family whose Project participation is terminated shall be screened for potential eligibility for the supplemental nutrition assistance program and if the screening indicates potential eligibility, the family or family member shall be given a specific request to supply all additional information needed to determine such eligibility and assistance in completing a signed supplemental nutrition assistance program application including provision of any relevant information obtained by the State for purpose of the Project. If the family or family member supplies such additional information within ten days after receiving the request, the State shall, within five days after the State receives such information, determine whether the family or family member is eligible for the supplemental nutrition assistance program. Each family or family member who is determined through the screening or otherwise to be ineligible for the supplemental nutrition assistance program shall be notified of that determination.
 
-**(11)** Section 2020(e)(10) of this title shall apply with respect to applicant and participating families in the same manner as such paragraph applies with respect to applicants and participants in the supplemental nutrition assistance program, except that families shall be given notice of any action for which a hearing is available in a manner consistent with the notice requirements of the regulations implementing sections 402(a)(4) and 482(h) <sup>1</sup> of the Social Security Act [42 U.S.C. 602(a)(4)].
+**(11)** Section 2020(e)(10) of this title shall apply with respect to applicant and participating families in the same manner as such paragraph applies with respect to applicants and participants in the supplemental nutrition assistance program, except that families shall be given notice of any action for which a hearing is available in a manner consistent with the notice requirements of the regulations implementing sections 402(a)(4) and 482(h) <sup>1</sup> of the Social Security Act [42 U.S.C. 602(a)(4)].
 
 **(12)** For each fiscal year, the Secretary shall not be liable for any costs related to carrying out the Project in excess of those that the Secretary would have been liable for had the Project not been implemented, except for costs for evaluating the Project, but shall adjust for the full amount of the federal share of increases or decreases in costs that result from changes in economic, demographic, and other conditions in the State based on data specific to the State, changes in eligibility or benefit levels authorized by this chapter, or changes in amounts of Federal funds available to States and localities under the supplemental nutrition assistance program.
 
@@ -10269,15 +10269,15 @@ Participating families shall be excluded from any sample taken for purposes of m
 
 **(4)** The term “State” means the State of Minnesota.
 
-(Pub. L. 88–525, § 22, as added Pub. L. 101–202, Dec. 6, 1989, 103 Stat. 1796; amended Pub. L. 102–237, title IX, § 941(11), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 107–171, title IV, § 4118(d), May 13, 2002, 116 Stat. 321; Pub. L. 110–234, title IV, §§ 4001(b), 4002(a)(11), 4115(b)(15), May 22, 2008, 122 Stat. 1092, 1095, 1108; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4002(a)(11), 4115(b)(15), June 18, 2008, 122 Stat. 1664, 1853, 1856, 1870; Pub. L. 113–79, title IV, § 4030(k), Feb. 7, 2014, 128 Stat. 814.)
+(Pub. L. 88–525, § 22, as added Pub. L. 101–202, Dec. 6, 1989, 103 Stat. 1796; amended Pub. L. 102–237, title IX, § 941(11), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 107–171, title IV, § 4118(d), May 13, 2002, 116 Stat. 321; Pub. L. 110–234, title IV, §§ 4001(b), 4002(a)(11), 4115(b)(15), May 22, 2008, 122 Stat. 1092, 1095, 1108; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4002(a)(11), 4115(b)(15), June 18, 2008, 122 Stat. 1664, 1853, 1856, 1870; Pub. L. 113–79, title IV, § 4030(k), Feb. 7, 2014, 128 Stat. 814.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsecs. (a), (b)(2), (3)(A), (B)(ii), (iii), (C)(ii), (iii), (5), (7), and (g)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Part F of title IV of the Act was classified generally to part F (§ 681 et seq.) of subchapter IV of chapter 7 of Title 42, prior to repeal by Pub. L. 104–193, title I, § 108(e), Aug. 22, 1996, 110 Stat. 2167. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a), (b)(2), (3)(A), (B)(ii), (iii), (C)(ii), (iii), (5), (7), and (g)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Part F of title IV of the Act was classified generally to part F (§ 681 et seq.) of subchapter IV of chapter 7 of Title 42, prior to repeal by Pub. L. 104–193, title I, § 108(e), Aug. 22, 1996, 110 Stat. 2167. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Section 482 of the Social Security Act, referred to in subsec. (b)(11), was classified to section 682 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 104–193, title I, § 108(e), Aug. 22, 1996, 110 Stat. 2167.
+Section 482 of the Social Security Act, referred to in subsec. (b)(11), was classified to section 682 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 104–193, title I, § 108(e), Aug. 22, 1996, 110 Stat. 2167.
 
 **Codification**
 
@@ -10287,37 +10287,37 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Subsec. (b)(10)(B)(i). Pub. L. 113–79 substituted “Benefits shall” for “Food benefits shall”.
 
-2008—Pub. L. 110–246, § 4002(a)(11)(A), substituted “Minnesota Family Investment Project” for “Food stamp portion of Minnesota Family Investment Plan” in section catchline.
+2008—Pub. L. 110–246, § 4002(a)(11)(A), substituted “Minnesota Family Investment Project” for “Food stamp portion of Minnesota Family Investment Plan” in section catchline.
 
-Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
+Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
 
-Subsec. (b)(3)(D). Pub. L. 110–246, § 4115(b)(15)(B), substituted “benefits” for “coupons” in two places.
+Subsec. (b)(3)(D). Pub. L. 110–246, § 4115(b)(15)(B), substituted “benefits” for “coupons” in two places.
 
-Subsec. (b)(9). Pub. L. 110–246, § 4115(b)(15)(B), substituted “benefits” for “coupons”.
+Subsec. (b)(9). Pub. L. 110–246, § 4115(b)(15)(B), substituted “benefits” for “coupons”.
 
-Subsec. (b)(10)(B)(i). Pub. L. 110–246, § 4115(b)(15)(B), substituted “benefits shall be issued” for “coupons shall be issued”.
+Subsec. (b)(10)(B)(i). Pub. L. 110–246, § 4115(b)(15)(B), substituted “benefits shall be issued” for “coupons shall be issued”.
 
-Subsec. (b)(10)(B)(ii). Pub. L. 110–246, § 4115(b)(15)(A), (B), substituted “benefits shall be provided” for “coupons shall be provided”, “value of the benefits” for “value of the food coupons”, and “the date benefits” for “the date food coupons”.
+Subsec. (b)(10)(B)(ii). Pub. L. 110–246, § 4115(b)(15)(A), (B), substituted “benefits shall be provided” for “coupons shall be provided”, “value of the benefits” for “value of the food coupons”, and “the date benefits” for “the date food coupons”.
 
-Subsec. (b)(12). Pub. L. 110–246, § 4002(a)(11)(B), made technical amendment to reference in original Act which appears in text as reference to this chapter.
+Subsec. (b)(12). Pub. L. 110–246, § 4002(a)(11)(B), made technical amendment to reference in original Act which appears in text as reference to this chapter.
 
-Subsec. (d)(1), (2). Pub. L. 110–246, § 4115(b)(15)(B), substituted “benefits” for “coupons” wherever appearing.
+Subsec. (d)(1), (2). Pub. L. 110–246, § 4115(b)(15)(B), substituted “benefits” for “coupons” wherever appearing.
 
-Subsec. (d)(3). Pub. L. 110–246, § 4002(a)(11)(B), made technical amendment to reference in original Act which appears in text as reference to this chapter.
+Subsec. (d)(3). Pub. L. 110–246, § 4002(a)(11)(B), made technical amendment to reference in original Act which appears in text as reference to this chapter.
 
-Subsec. (g)(1). Pub. L. 110–246, § 4002(a)(11)(C), made technical amendment to reference in original Act which appears in introductory provisions as reference to this chapter.
+Subsec. (g)(1). Pub. L. 110–246, § 4002(a)(11)(C), made technical amendment to reference in original Act which appears in introductory provisions as reference to this chapter.
 
-Subsec. (g)(1)(A). Pub. L. 110–246, § 4115(b)(15)(C), substituted “benefits” for “coupon”.
+Subsec. (g)(1)(A). Pub. L. 110–246, § 4115(b)(15)(C), substituted “benefits” for “coupon”.
 
-Subsec. (h). Pub. L. 110–246, § 4115(b)(15)(A), substituted “benefits” for “food coupons”.
+Subsec. (h). Pub. L. 110–246, § 4115(b)(15)(A), substituted “benefits” for “food coupons”.
 
 2002—Subsec. (h). Pub. L. 107–171 substituted “section 2025(c)(1) of this title” for “section 2025(c)(1)(C) of this title” and struck out “Payments for administrative costs incurred by the State shall be included for purposes of establishing the adjustment under section 2025(c)(1)(A) of this title.” at end.
 
-1991—Pub. L. 102–237, § 941(11)(A), inserted section catchline.
+1991—Pub. L. 102–237, § 941(11)(A), inserted section catchline.
 
-Subsec. (d)(2)(B). Pub. L. 102–237, § 941(11)(B), substituted “subsection (b)(3)(D)(iii)” for “paragraph (b)(3)(D)(iii)”.
+Subsec. (d)(2)(B). Pub. L. 102–237, § 941(11)(B), substituted “subsection (b)(3)(D)(iii)” for “paragraph (b)(3)(D)(iii)”.
 
-Subsec. (h). Pub. L. 102–237, § 941(11)(C), substituted “subsection (b)(12)” for “subsection b(12)”.
+Subsec. (h). Pub. L. 102–237, § 941(11)(C), substituted “subsection (b)(12)” for “subsection b(12)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10341,7 +10341,7 @@ Amendment by Pub. L. 102–237 effective and to be implemented no later than Feb
 
 For termination, effective May 15, 2000, of provisions in subsec. (f)(2) of this section relating to submitting reports on periodic audits to certain committees of Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 2 of House Document No. 103–7.
 
-## § 2032. Automated data processing and information retrieval systems
+## § 2032. Automated data processing and information retrieval systems
 
 **(a) Standards and procedures for reviews**
 
@@ -10391,7 +10391,7 @@ The Secretary shall conduct appropriate periodic reviews of systems to ensure co
 
 Not later than October 1, 1993, the Secretary shall report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the extent to which State agencies have developed and are operating effective systems that support supplemental nutrition assistance program delivery in compliance with this chapter and regulations issued under this chapter.
 
-(Pub. L. 88–525, § 23, as added Pub. L. 101–624, title XVII, § 1763(a), Nov. 28, 1990, 104 Stat. 3805; amended Pub. L. 110–234, title IV, § 4001(b), May 22, 2008, 122 Stat. 1092; Pub. L. 110–246, § 4(a), title IV, § 4001(b), June 18, 2008, 122 Stat. 1664, 1853.)
+(Pub. L. 88–525, § 23, as added Pub. L. 101–624, title XVII, § 1763(a), Nov. 28, 1990, 104 Stat. 3805; amended Pub. L. 110–234, title IV, § 4001(b), May 22, 2008, 122 Stat. 1092; Pub. L. 110–246, § 4(a), title IV, § 4001(b), June 18, 2008, 122 Stat. 1664, 1853.)
 
 **Editorial Notes**
 
@@ -10403,7 +10403,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-Subsec. (c). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Subsec. (c). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10413,9 +10413,9 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by section 4001(b) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
-## § 2033. Repealed. Pub. L. 107–171, title IV, § 4124(b), May 13, 2002, 116 Stat. 326
+## § 2033. Repealed. Pub. L. 107–171, title IV, § 4124(b), May 13, 2002, 116 Stat. 326
 
-Section, Pub. L. 88–525, § 24, as added Pub. L. 104–127, title IV, § 401(g), Apr. 4, 1996, 110 Stat. 1027, related to payments by the Secretary to the Territory of American Samoa for fiscal years 1996 through 2002 to finance expenditures for nutrition assistance program extended under section 1469d(c) of title 48.
+Section, Pub. L. 88–525, § 24, as added Pub. L. 104–127, title IV, § 401(g), Apr. 4, 1996, 110 Stat. 1027, related to payments by the Secretary to the Territory of American Samoa for fiscal years 1996 through 2002 to finance expenditures for nutrition assistance program extended under section 1469d(c) of title 48.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10423,7 +10423,7 @@ Section, Pub. L. 88–525, § 24, as added Pub. L. 104–127, title IV, § 4
 
 Repeal effective May 13, 2002 and applicable beginning on Oct. 1, 2002, see section 4124(c), (d) of Pub. L. 107–171, set out as an Effective Date of 2002 Amendment note under section 2028 of this title.
 
-## § 2034. Assistance for community food projects
+## § 2034. Assistance for community food projects
 
 **(a) Definitions** In this section:
 
@@ -10557,7 +10557,7 @@ The Secretary may share information concerning community food projects with rese
 
 **(3)** the degree of success in improving the long-term capacity of a community to address food and agriculture problems related to hunger or access to healthy food.
 
-(Pub. L. 88–525, § 25, as added Pub. L. 104–127, title IV, § 401(h), Apr. 4, 1996, 110 Stat. 1027; amended Pub. L. 107–171, title IV, § 4125(a), May 13, 2002, 116 Stat. 326; Pub. L. 110–234, title IV, §§ 4402, 4406(a)(7), May 22, 2008, 122 Stat. 1135, 1141; Pub. L. 110–246, § 4(a), title IV, §§ 4402, 4406(a)(7), June 18, 2008, 122 Stat. 1664, 1896, 1902; Pub. L. 110–380, § 1(a), Oct. 8, 2008, 122 Stat. 4080; Pub. L. 113–79, title IV, § 4026, Feb. 7, 2014, 128 Stat. 810; Pub. L. 115–334, title IV, §§ 4017, 4022(8), Dec. 20, 2018, 132 Stat. 4648, 4654.)
+(Pub. L. 88–525, § 25, as added Pub. L. 104–127, title IV, § 401(h), Apr. 4, 1996, 110 Stat. 1027; amended Pub. L. 107–171, title IV, § 4125(a), May 13, 2002, 116 Stat. 326; Pub. L. 110–234, title IV, §§ 4402, 4406(a)(7), May 22, 2008, 122 Stat. 1135, 1141; Pub. L. 110–246, § 4(a), title IV, §§ 4402, 4406(a)(7), June 18, 2008, 122 Stat. 1664, 1896, 1902; Pub. L. 110–380, § 1(a), Oct. 8, 2008, 122 Stat. 4080; Pub. L. 113–79, title IV, § 4026, Feb. 7, 2014, 128 Stat. 810; Pub. L. 115–334, title IV, §§ 4017, 4022(8), Dec. 20, 2018, 132 Stat. 4648, 4654.)
 
 **Editorial Notes**
 
@@ -10573,51 +10573,51 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Subsec. (a)(1)(B)(i)(I). Pub. L. 115–334, § 4022(8), substituted “service;” for “service;;”.
+2018—Subsec. (a)(1)(B)(i)(I). Pub. L. 115–334, § 4022(8), substituted “service;” for “service;;”.
 
-Subsec. (b)(2)(C). Pub. L. 115–334, § 4017(2), substituted “each of fiscal years 2015 through 2018; and” for “fiscal year 2015 and each fiscal year thereafter.”
+Subsec. (b)(2)(C). Pub. L. 115–334, § 4017(2), substituted “each of fiscal years 2015 through 2018; and” for “fiscal year 2015 and each fiscal year thereafter.”
 
-Subsec. (b)(2)(D). Pub. L. 115–334, § 4017(1), (3), added subpar. (D).
+Subsec. (b)(2)(D). Pub. L. 115–334, § 4017(1), (3), added subpar. (D).
 
-2014—Subsec. (a)(1)(B)(i)(I). Pub. L. 113–79, § 4026(1)(A)(i)(I), inserted “through food distribution, community outreach to assist in participation in Federally assisted nutrition programs, or improving access to food as part of a comprehensive service;” after “individuals”.
+2014—Subsec. (a)(1)(B)(i)(I). Pub. L. 113–79, § 4026(1)(A)(i)(I), inserted “through food distribution, community outreach to assist in participation in Federally assisted nutrition programs, or improving access to food as part of a comprehensive service;” after “individuals”.
 
-Subsec. (a)(1)(B)(i)(III). Pub. L. 113–79, § 4026(1)(A)(i)(II), inserted “food access,” after “food,”.
+Subsec. (a)(1)(B)(i)(III). Pub. L. 113–79, § 4026(1)(A)(i)(II), inserted “food access,” after “food,”.
 
-Subsec. (a)(1)(B)(ii)(I). Pub. L. 113–79, § 4026(1)(A)(ii), added subcl. (I) and struck out former subcl. (I) which read as follows: “infrastructure improvement and development;”.
+Subsec. (a)(1)(B)(ii)(I). Pub. L. 113–79, § 4026(1)(A)(ii), added subcl. (I) and struck out former subcl. (I) which read as follows: “infrastructure improvement and development;”.
 
-Subsec. (a)(2), (3). Pub. L. 113–79, § 4026(1)(B), added pars. (2) and (3) and struck out former pars. (2) and (3) which defined “Center” and “underserved community”, respectively.
+Subsec. (a)(2), (3). Pub. L. 113–79, § 4026(1)(B), added pars. (2) and (3) and struck out former pars. (2) and (3) which defined “Center” and “underserved community”, respectively.
 
-Subsec. (b)(2)(B). Pub. L. 113–79, § 4026(2)(B), substituted “each of fiscal years 2008 through 2014; and” for “fiscal year 2008 and each fiscal year thereafter.”
+Subsec. (b)(2)(B). Pub. L. 113–79, § 4026(2)(B), substituted “each of fiscal years 2008 through 2014; and” for “fiscal year 2008 and each fiscal year thereafter.”
 
-Subsec. (b)(2)(C). Pub. L. 113–79, § 4026(2), added subpar. (C).
+Subsec. (b)(2)(C). Pub. L. 113–79, § 4026(2), added subpar. (C).
 
-Subsec. (c). Pub. L. 113–79, § 4026(3)(A), substituted “public food program service provider, a tribal organization, or a private nonprofit entity, including gleaners,” for “private nonprofit entity” in introductory provisions.
+Subsec. (c). Pub. L. 113–79, § 4026(3)(A), substituted “public food program service provider, a tribal organization, or a private nonprofit entity, including gleaners,” for “private nonprofit entity” in introductory provisions.
 
-Subsec. (c)(1)(C). Pub. L. 113–79, § 4026(3)(B), added subpar. (C).
+Subsec. (c)(1)(C). Pub. L. 113–79, § 4026(3)(B), added subpar. (C).
 
-Subsec. (c)(4). Pub. L. 113–79, § 4026(3)(C)–(E), added par. (4).
+Subsec. (c)(4). Pub. L. 113–79, § 4026(3)(C)–(E), added par. (4).
 
-Subsec. (d)(5). Pub. L. 113–79, § 4026(4), added par. (5).
+Subsec. (d)(5). Pub. L. 113–79, § 4026(4), added par. (5).
 
-Subsec. (f)(2). Pub. L. 113–79, § 4026(5), substituted “5 years” for “3 years”.
+Subsec. (f)(2). Pub. L. 113–79, § 4026(5), substituted “5 years” for “3 years”.
 
-Subsecs. (h), (i). Pub. L. 113–79, § 4026(6), added subsec. (h) and struck out former subsecs. (h) and (i) which related to healthy urban food enterprise development center and innovative programs for addressing common community problems, respectively.
+Subsecs. (h), (i). Pub. L. 113–79, § 4026(6), added subsec. (h) and struck out former subsecs. (h) and (i) which related to healthy urban food enterprise development center and innovative programs for addressing common community problems, respectively.
 
-2008—Subsec. (a). Pub. L. 110–246, § 4402(1), added subsec. (a) and struck out former subsec. (a) which defined “community food project”.
+2008—Subsec. (a). Pub. L. 110–246, § 4402(1), added subsec. (a) and struck out former subsec. (a) which defined “community food project”.
 
-Subsec. (b)(2)(B). Pub. L. 110–246, § 4406(a)(7)(A), as amended by Pub. L. 110–380, substituted “for fiscal year 2008 and each fiscal year thereafter” for “for each of fiscal years 1997 through 2007”. See Codification note above.
+Subsec. (b)(2)(B). Pub. L. 110–246, § 4406(a)(7)(A), as amended by Pub. L. 110–380, substituted “for fiscal year 2008 and each fiscal year thereafter” for “for each of fiscal years 1997 through 2007”. See Codification note above.
 
-Subsecs. (h), (i). Pub. L. 110–246, § 4402(2), (3), added subsec. (h) and redesignated former subsec. (h) as (i).
+Subsecs. (h), (i). Pub. L. 110–246, § 4402(2), (3), added subsec. (h) and redesignated former subsec. (h) as (i).
 
-Subsec. (i)(4). Pub. L. 110–246, § 4406(a)(7)(B), as amended by Pub. L. 110–380, substituted “each fiscal year thereafter” for “each of fiscal years 2003 through 2007”. See Codification note above.
+Subsec. (i)(4). Pub. L. 110–246, § 4406(a)(7)(B), as amended by Pub. L. 110–380, substituted “each fiscal year thereafter” for “each of fiscal years 2003 through 2007”. See Codification note above.
 
-2002—Subsec. (a). Pub. L. 107–171, § 4125(a)(1), designated pars. (1) to (3) as subpars. (A) to (C) of par. (1), respectively, and added par. (2).
+2002—Subsec. (a). Pub. L. 107–171, § 4125(a)(1), designated pars. (1) to (3) as subpars. (A) to (C) of par. (1), respectively, and added par. (2).
 
-Subsec. (b)(2)(B). Pub. L. 107–171, § 4125(a)(2), substituted “$5,000,000” for “$2,500,000” and “2007” for “2002”.
+Subsec. (b)(2)(B). Pub. L. 107–171, § 4125(a)(2), substituted “$5,000,000” for “$2,500,000” and “2007” for “2002”.
 
-Subsec. (d)(4). Pub. L. 107–171, § 4125(a)(3), added par. (4) and struck out former par. (4) which read as follows: “encourage long-term planning activities and multi-system, interagency approaches.”
+Subsec. (d)(4). Pub. L. 107–171, § 4125(a)(3), added par. (4) and struck out former par. (4) which read as follows: “encourage long-term planning activities and multi-system, interagency approaches.”
 
-Subsec. (h). Pub. L. 107–171, § 4125(a)(4), added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows:
+Subsec. (h). Pub. L. 107–171, § 4125(a)(4), added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows:
 
 “(1) In general.—The Secretary shall provide for the evaluation of the success of community food projects supported using funds under this section.
 
@@ -10633,9 +10633,9 @@ Amendment by sections 4402 and 4406(a)(7) of Pub. L. 110–246 effective Oct. 1,
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–171, title IV, § 4125(b), May 13, 2002, 116 Stat. 327, provided that: “The amendments made by this section [amending this section] take effect on the date of enactment of this Act [May 13, 2002].”
+Pub. L. 107–171, title IV, § 4125(b), May 13, 2002, 116 Stat. 327, provided that: “The amendments made by this section [amending this section] take effect on the date of enactment of this Act [May 13, 2002].”
 
-## § 2035. Simplified supplemental nutrition assistance program
+## § 2035. Simplified supplemental nutrition assistance program
 
 **(a) “Federal costs” defined**
 
@@ -10733,13 +10733,13 @@ In operating a Program, a State or political subdivision of a State may standard
 
 Notwithstanding any other provision of this section, a household may not receive benefits under this section as a result of the eligibility of the household under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), unless the Secretary determines that any household with income above 130 percent of the poverty guidelines is not eligible for the program.
 
-(Pub. L. 88–525, § 26, as added Pub. L. 104–193, title VIII, § 854(a), Aug. 22, 1996, 110 Stat. 2340; amended Pub. L. 110–234, title IV, §§ 4001(b), 4002(a)(12), 4115(b)(16), May 22, 2008, 122 Stat. 1092, 1095, 1109; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4002(a)(12), 4115(b)(16), June 18, 2008, 122 Stat. 1664, 1853, 1857, 1870; Pub. L. 113–79, title IV, § 4030(*l*), Feb. 7, 2014, 128 Stat. 814; Pub. L. 115–334, title IV, § 4022(9), Dec. 20, 2018, 132 Stat. 4654.)
+(Pub. L. 88–525, § 26, as added Pub. L. 104–193, title VIII, § 854(a), Aug. 22, 1996, 110 Stat. 2340; amended Pub. L. 110–234, title IV, §§ 4001(b), 4002(a)(12), 4115(b)(16), May 22, 2008, 122 Stat. 1092, 1095, 1109; Pub. L. 110–246, § 4(a), title IV, §§ 4001(b), 4002(a)(12), 4115(b)(16), June 18, 2008, 122 Stat. 1664, 1853, 1857, 1870; Pub. L. 113–79, title IV, § 4030(*l*), Feb. 7, 2014, 128 Stat. 814; Pub. L. 115–334, title IV, § 4022(9), Dec. 20, 2018, 132 Stat. 4654.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsecs. (c) and (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c) and (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Codification**
 
@@ -10751,17 +10751,17 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Subsec. (f)(3)(C). Pub. L. 113–79 substituted “subsections” for “subsection”.
 
-2008—Pub. L. 110–246, § 4002(a)(12)(A), substituted “Simplified supplemental nutrition assistance program” for “Simplified Food Stamp Program” in section catchline.
+2008—Pub. L. 110–246, § 4002(a)(12)(A), substituted “Simplified supplemental nutrition assistance program” for “Simplified Food Stamp Program” in section catchline.
 
-Subsec. (b). Pub. L. 110–246, § 4002(a)(12)(B), which directed amendment of subsec. (b) by substituting “simplified supplemental nutrition assistance program” for “simplified food stamp program”, could not be executed because the term “simplified food stamp program” did not appear.
+Subsec. (b). Pub. L. 110–246, § 4002(a)(12)(B), which directed amendment of subsec. (b) by substituting “simplified supplemental nutrition assistance program” for “simplified food stamp program”, could not be executed because the term “simplified food stamp program” did not appear.
 
-Subsec. (c)(4)(B), (C). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Subsec. (c)(4)(B), (C). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsec. (f)(1). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Subsec. (f)(1). Pub. L. 110–246, § 4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsec. (f)(3)(A). Pub. L. 110–246, § 4115(b)(16)(A), substituted “subsections (a) through (f)” for “subsections (a) through (g)”.
+Subsec. (f)(3)(A). Pub. L. 110–246, § 4115(b)(16)(A), substituted “subsections (a) through (f)” for “subsections (a) through (g)”.
 
-Subsec. (f)(3)(E). Pub. L. 110–246, § 4115(b)(16)(B), substituted “(15), (17), (18), (22), and (23)” for “(16), (18), (20), (24), and (25)”.
+Subsec. (f)(3)(E). Pub. L. 110–246, § 4115(b)(16)(B), substituted “(15), (17), (18), (22), and (23)” for “(16), (18), (20), (24), and (25)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10771,7 +10771,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by sections 4001(b), 4002(a)(12), and 4115(b)(16) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
-## § 2036. Availability of commodities for emergency food assistance program
+## § 2036. Availability of commodities for emergency food assistance program
 
 **(a) Purchase of commodities**
 
@@ -10823,7 +10823,7 @@ From amounts made available to carry out this chapter, for each of the fiscal ye
 
 **(3)** preferences of recipients.
 
-(Pub. L. 88–525, § 27, as added Pub. L. 104–193, title VIII, § 871(g), Aug. 22, 1996, 110 Stat. 2346; amended Pub. L. 107–171, title IV, § 4126(a), May 13, 2002, 116 Stat. 328; Pub. L. 110–234, title IV, § 4201(a), May 22, 2008, 122 Stat. 1120; Pub. L. 110–246, § 4(a), title IV, § 4201(a), June 18, 2008, 122 Stat. 1664, 1882; Pub. L. 113–79, title IV, §§ 4027(a), 4030(m), Feb. 7, 2014, 128 Stat. 812, 814; Pub. L. 115–334, title IV, § 4018(e), Dec. 20, 2018, 132 Stat. 4650; Pub. L. 119–21, title I, § 10101(b)(3), July 4, 2025, 139 Stat. 81.)
+(Pub. L. 88–525, § 27, as added Pub. L. 104–193, title VIII, § 871(g), Aug. 22, 1996, 110 Stat. 2346; amended Pub. L. 107–171, title IV, § 4126(a), May 13, 2002, 116 Stat. 328; Pub. L. 110–234, title IV, § 4201(a), May 22, 2008, 122 Stat. 1120; Pub. L. 110–246, § 4(a), title IV, § 4201(a), June 18, 2008, 122 Stat. 1664, 1882; Pub. L. 113–79, title IV, §§ 4027(a), 4030(m), Feb. 7, 2014, 128 Stat. 812, 814; Pub. L. 115–334, title IV, § 4018(e), Dec. 20, 2018, 132 Stat. 4650; Pub. L. 119–21, title I, § 10101(b)(3), July 4, 2025, 139 Stat. 81.)
 
 **Editorial Notes**
 
@@ -10835,25 +10835,25 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2025—Subsec. (a)(2). Pub. L. 119–21 substituted “section 2012(u)(3)” for “section 2012(u)(4)” in subpars. (C) and (E).
 
-2018—Subsec. (a)(1), (2)(C). Pub. L. 115–334, § 4018(e)(1), (2)(A), substituted “2023” for “2018”.
+2018—Subsec. (a)(1), (2)(C). Pub. L. 115–334, § 4018(e)(1), (2)(A), substituted “2023” for “2018”.
 
-Subsec. (a)(2)(D). Pub. L. 115–334, § 4018(e)(2)(B)(i), substituted “2023” for “2018” in introductory provisions.
+Subsec. (a)(2)(D). Pub. L. 115–334, § 4018(e)(2)(B)(i), substituted “2023” for “2018” in introductory provisions.
 
-Subsec. (a)(2)(D)(v) to (ix). Pub. L. 115–334, § 4018(e)(2)(B)(ii), added cls. (v) to (ix).
+Subsec. (a)(2)(D)(v) to (ix). Pub. L. 115–334, § 4018(e)(2)(B)(ii), added cls. (v) to (ix).
 
-Subsec. (a)(2)(E). Pub. L. 115–334, § 4018(e)(2)(C), substituted “2024” for “2019”, “subparagraph (D)(ix)” for “subparagraph (D)(iv)”, and “June 30, 2023” for “June 30, 2017”.
+Subsec. (a)(2)(E). Pub. L. 115–334, § 4018(e)(2)(C), substituted “2024” for “2019”, “subparagraph (D)(ix)” for “subparagraph (D)(iv)”, and “June 30, 2023” for “June 30, 2017”.
 
-2014—Subsec. (a)(1). Pub. L. 113–79, § 4030(m), made technical amendment to reference in original act which appears in text as reference to section 7515 of this title.
+2014—Subsec. (a)(1). Pub. L. 113–79, § 4030(m), made technical amendment to reference in original act which appears in text as reference to section 7515 of this title.
 
-Pub. L. 113–79, § 4027(a)(1), substituted “2014 through 2018” for “2008 through 2012”.
+Pub. L. 113–79, § 4027(a)(1), substituted “2014 through 2018” for “2008 through 2012”.
 
-Subsec. (a)(2)(C). Pub. L. 113–79, § 4027(a)(2)(B)(i), substituted “2018” for “2012”.
+Subsec. (a)(2)(C). Pub. L. 113–79, § 4027(a)(2)(B)(i), substituted “2018” for “2012”.
 
-Subsec. (a)(2)(D), (E). Pub. L. 113–79, § 4027(a)(2)(A), (B)(ii), (C), added subpars. (D) and (E).
+Subsec. (a)(2)(D), (E). Pub. L. 113–79, § 4027(a)(2)(A), (B)(ii), (C), added subpars. (D) and (E).
 
-Subsec. (a)(3). Pub. L. 113–79, § 4027(a)(3), added par. (3).
+Subsec. (a)(3). Pub. L. 113–79, § 4027(a)(3), added par. (3).
 
-2008—Subsec. (a). Pub. L. 110–246, § 4201(a), reenacted subsec. heading without change, designated existing provisions as par. (1), inserted par. heading, substituted “for each of the fiscal years 2008 through 2012, the Secretary shall purchase a dollar amount described in paragraph (2)” for “for each of fiscal years 2002 through 2007, the Secretary shall purchase $140,000,000”, and added par. (2).
+2008—Subsec. (a). Pub. L. 110–246, § 4201(a), reenacted subsec. heading without change, designated existing provisions as par. (1), inserted par. heading, substituted “for each of the fiscal years 2008 through 2012, the Secretary shall purchase a dollar amount described in paragraph (2)” for “for each of fiscal years 2002 through 2007, the Secretary shall purchase $140,000,000”, and added par. (2).
 
 2002—Subsec. (a). Pub. L. 107–171 substituted “2002 through 2007” for “1997 through 2002” and “$140,000,000” for “$100,000,000”.
 
@@ -10867,9 +10867,9 @@ Amendment by section 4201(a) of Pub. L. 110–246 effective Oct. 1, 2008, see se
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–171, title IV, § 4126(b), May 13, 2002, 116 Stat. 328, provided that: “The amendments made by this section amending this section] take effect on October 1, 2001.”
+Pub. L. 107–171, title IV, § 4126(b), May 13, 2002, 116 Stat. 328, provided that: “The amendments made by this section amending this section] take effect on October 1, 2001.”
 
-## § 2036a. Nutrition education and obesity prevention grant program
+## § 2036a. Nutrition education and obesity prevention grant program
 
 **(a) Definition of eligible individual** In this section, the term “eligible individual” means an individual who is eligible to receive benefits under a nutrition education and obesity prevention program under this section as a result of being—
 
@@ -11091,7 +11091,7 @@ Any costs of nutrition education and obesity prevention in excess of the grants 
 
 Not later than January 1, 2012, the Secretary shall publish in the Federal Register a description of the requirements for the receipt of a grant under this section.
 
-(Pub. L. 88–525, § 28, as added Pub. L. 111–296, title II, § 241(a), Dec. 13, 2010, 124 Stat. 3232; amended Pub. L. 112–240, title VII, § 701(d)(2), Jan. 2, 2013, 126 Stat. 2363; Pub. L. 113–79, title IV, § 4028, Feb. 7, 2014, 128 Stat. 813; Pub. L. 115–334, title IV, § 4019, Dec. 20, 2018, 132 Stat. 4650; Pub. L. 119–21, title I, § 10107, July 4, 2025, 139 Stat. 85.)
+(Pub. L. 88–525, § 28, as added Pub. L. 111–296, title II, § 241(a), Dec. 13, 2010, 124 Stat. 3232; amended Pub. L. 112–240, title VII, § 701(d)(2), Jan. 2, 2013, 126 Stat. 2363; Pub. L. 113–79, title IV, § 4028, Feb. 7, 2014, 128 Stat. 813; Pub. L. 115–334, title IV, § 4019, Dec. 20, 2018, 132 Stat. 4650; Pub. L. 119–21, title I, § 10107, July 4, 2025, 139 Stat. 85.)
 
 **Editorial Notes**
 
@@ -11099,17 +11099,17 @@ Not later than January 1, 2012, the Secretary shall publish in the Federal Regis
 
 2025—Subsec. (d)(1)(F). Pub. L. 119–21 substituted “for each of fiscal years 2016 through 2025” for “for fiscal year 2016 and each subsequent fiscal year”.
 
-2018—Subsec. (c)(2)(B). Pub. L. 115–334, § 4019(1)(A)(i), substituted “A” for “Except as provided in subparagraph (C), a” in introductory provisions.
+2018—Subsec. (c)(2)(B). Pub. L. 115–334, § 4019(1)(A)(i), substituted “A” for “Except as provided in subparagraph (C), a” in introductory provisions.
 
-Subsec. (c)(2)(B)(iii), (iv). Pub. L. 115–334, § 4019(1)(A)(ii)–(iv), added cl. (iii) and redesignated former cl. (iii) as (iv).
+Subsec. (c)(2)(B)(iii), (iv). Pub. L. 115–334, § 4019(1)(A)(ii)–(iv), added cl. (iii) and redesignated former cl. (iii) as (iv).
 
-Subsec. (c)(2)(C). Pub. L. 115–334, § 4019(1)(B), struck out subpar. (C). Text read as follows: “During each of fiscal years 2011 and 2012, a nutrition education State plan under this section shall be consistent with the requirements of section 2020(f) of this title (as that section, other than paragraph (3)(C), existed on the day before December 13, 2010).”
+Subsec. (c)(2)(C). Pub. L. 115–334, § 4019(1)(B), struck out subpar. (C). Text read as follows: “During each of fiscal years 2011 and 2012, a nutrition education State plan under this section shall be consistent with the requirements of section 2020(f) of this title (as that section, other than paragraph (3)(C), existed on the day before December 13, 2010).”
 
-Subsec. (c)(3)(B). Pub. L. 115–334, § 4019(2), inserted “, the Director of the National Institute of Food and Agriculture,” before “and outside stakeholders” in introductory provisions.
+Subsec. (c)(3)(B). Pub. L. 115–334, § 4019(2), inserted “, the Director of the National Institute of Food and Agriculture,” before “and outside stakeholders” in introductory provisions.
 
-Subsec. (c)(5). Pub. L. 115–334, § 4019(3), inserted “the expanded food and nutrition education program or” before “other health promotion”.
+Subsec. (c)(5). Pub. L. 115–334, § 4019(3), inserted “the expanded food and nutrition education program or” before “other health promotion”.
 
-Subsec. (c)(6) to (9). Pub. L. 115–334, § 4019(4), added pars. (6) to (9).
+Subsec. (c)(6) to (9). Pub. L. 115–334, § 4019(4), added pars. (6) to (9).
 
 2014—Subsec. (b). Pub. L. 113–79 inserted “and physical activity” after “healthy food choices”.
 
@@ -11125,7 +11125,7 @@ Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of P
 
 Section effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as a Effective Date of 2010 Amendment note under section 1751 of Title 42, The Public Health and Welfare.
 
-## § 2036b. Retail food store and recipient trafficking
+## § 2036b. Retail food store and recipient trafficking
 
 **(a) Purpose**
 
@@ -11161,7 +11161,7 @@ The Secretary shall be entitled to receive, shall accept, and shall use to carry
 
 The funding provided under subparagraph (A) shall supplement (and not supplant) other Federal funding for programs carried out under this chapter.
 
-(Pub. L. 88–525, § 29, as added Pub. L. 113–79, title IV, § 4029, Feb. 7, 2014, 128 Stat. 813; amended Pub. L. 115–334, title IV, § 4020, Dec. 20, 2018, 132 Stat. 4652.)
+(Pub. L. 88–525, § 29, as added Pub. L. 113–79, title IV, § 4029, Feb. 7, 2014, 128 Stat. 813; amended Pub. L. 115–334, title IV, § 4020, Dec. 20, 2018, 132 Stat. 4652.)
 
 **Editorial Notes**
 
@@ -11169,7 +11169,7 @@ The funding provided under subparagraph (A) shall supplement (and not supplant) 
 
 2018—Subsec. (c)(1). Pub. L. 115–334 substituted “2023” for “2018”.
 
-## § 2036c. Annual State report on verification of SNAP participation
+## § 2036c. Annual State report on verification of SNAP participation
 
 **(a) Annual report** Not later than 1 year after the date specified by the Secretary during the 180-day period beginning on February 7, 2014, and annually thereafter, each State agency that carries out the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) shall submit to the Secretary a report containing sufficient information for the Secretary to determine whether the State agency has, for the most recently concluded fiscal year preceding that annual date, verified that the State agency in that fiscal year—
 
@@ -11185,7 +11185,7 @@ For any fiscal year for which a State agency fails to comply with subsection (a)
 
 Not later than 90 days after the completion in multiple States of a temporary pilot program to test the detection and prevention of duplicate participation by beneficiaries of the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.), the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report assessing the feasibility, effectiveness, and cost for the expansion of the pilot program nationwide.
 
-(Pub. L. 113–79, title IV, § 4032, Feb. 7, 2014, 128 Stat. 817.)
+(Pub. L. 113–79, title IV, § 4032, Feb. 7, 2014, 128 Stat. 817.)
 
 **Editorial Notes**
 
@@ -11203,7 +11203,7 @@ Section was enacted as part of the Agricultural Act of 2014, and not as part of 
 
 “Secretary” means the Secretary of Agriculture, see section 9001 of this title.
 
-## § 2036d. Pilot projects to encourage the use of public-private partnerships committed to addressing food insecurity
+## § 2036d. Pilot projects to encourage the use of public-private partnerships committed to addressing food insecurity
 
 **(a) In general**
 
@@ -11253,4 +11253,4 @@ There is authorized to be appropriated to carry out this section $5,000,000 to r
 
 Only funds appropriated under paragraph (1) in advance specifically to carry out this section shall be available to carry out this section.
 
-(Pub. L. 88–525, § 30, as added Pub. L. 115–334, title IV, § 4021, Dec. 20, 2018, 132 Stat. 4652.)
+(Pub. L. 88–525, § 30, as added Pub. L. 115–334, title IV, § 4021, Dec. 20, 2018, 132 Stat. 4652.)

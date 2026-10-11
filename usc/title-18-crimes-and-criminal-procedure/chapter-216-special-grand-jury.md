@@ -19,35 +19,35 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1970—Pub. L. 91–452, title I, § 101(a), Oct. 15, 1970, 84 Stat. 923, added chapter 216 and items 3331 to 3334.
+1970—Pub. L. 91–452, title I, § 101(a), Oct. 15, 1970, 84 Stat. 923, added chapter 216 and items 3331 to 3334.
 
 **Statutory Notes and Related Subsidiaries**
 
 **National Commission on Individual Rights**
 
-Pub. L. 91–452, title XII, §§ 1201–1211, Oct. 15, 1970, 84 Stat. 960, 961, established the National Commission on Individual Rights to conduct a comprehensive study and review of Federal laws and practices relating to special grand juries authorized under chapter 216 of this title, dangerous special offender sentencing under section 3575 of this title, wiretapping and electronic surveillance, bail reform and preventive detention, no-knock search warrants, the accumulation of data on individuals by Federal agencies as authorized by law or acquired by executive action, and other practices which in its opinion might infringe upon the individual rights of the people of the United States. The Commission was required to make interim reports at least every two years and a final report to the President and Congress six years after Jan. 1, 1972, and was to cease to exist 60 days after submission of the final report.
+Pub. L. 91–452, title XII, §§ 1201–1211, Oct. 15, 1970, 84 Stat. 960, 961, established the National Commission on Individual Rights to conduct a comprehensive study and review of Federal laws and practices relating to special grand juries authorized under chapter 216 of this title, dangerous special offender sentencing under section 3575 of this title, wiretapping and electronic surveillance, bail reform and preventive detention, no-knock search warrants, the accumulation of data on individuals by Federal agencies as authorized by law or acquired by executive action, and other practices which in its opinion might infringe upon the individual rights of the people of the United States. The Commission was required to make interim reports at least every two years and a final report to the President and Congress six years after Jan. 1, 1972, and was to cease to exist 60 days after submission of the final report.
 
-## § 3331. Summoning and term
+## § 3331. Summoning and term
 
 **(a)** In addition to such other grand juries as shall be called from time to time, each district court which is located in a judicial district containing more than four million inhabitants or in which the Attorney General, the Deputy Attorney General, the Associate Attorney General, or any designated Assistant Attorney General, certifies in writing to the chief judge of the district that in his judgment a special grand jury is necessary because of criminal activity in the district shall order a special grand jury to be summoned at least once in each period of eighteen months unless another special grand jury is then serving. The grand jury shall serve for a term of eighteen months unless an order for its discharge is entered earlier by the court upon a determination of the grand jury by majority vote that its business has been completed. If, at the end of such term or any extension thereof, the district court determines the business of the grand jury has not been completed, the court may enter an order extending such term for an additional period of six months. No special grand jury term so extended shall exceed thirty-six months, except as provided in subsection (e) of section 3333 of this chapter.
 
 **(b)** If a district court within any judicial circuit fails to extend the term of a special grand jury or enters an order for the discharge of such grand jury before such grand jury determines that it has completed its business, the grand jury, upon the affirmative vote of a majority of its members, may apply to the chief judge of the circuit for an order for the continuance of the term of the grand jury. Upon the making of such an application by the grand jury, the term thereof shall continue until the entry upon such application by the chief judge of the circuit of an appropriate order. No special grand jury term so extended shall exceed thirty-six months, except as provided in subsection (e) of section 3333 of this chapter.
 
-(Added Pub. L. 91–452, title I, § 101(a), Oct. 15, 1970, 84 Stat. 923; amended Pub. L. 100–690, title VII, § 7020(d), Nov. 18, 1988, 102 Stat. 4396.)
+(Added Pub. L. 91–452, title I, § 101(a), Oct. 15, 1970, 84 Stat. 923; amended Pub. L. 100–690, title VII, § 7020(d), Nov. 18, 1988, 102 Stat. 4396.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsec. (a). Pub. L. 100–690 inserted “, the Associate Attorney General” after “Deputy Attorney General”.
+1988—Subsec. (a). Pub. L. 100–690 inserted “, the Associate Attorney General” after “Deputy Attorney General”.
 
-## § 3332. Powers and duties
+## § 3332. Powers and duties
 
 **(a)** It shall be the duty of each such grand jury impaneled within any judicial district to inquire into offenses against the criminal laws of the United States alleged to have been committed within that district. Such alleged offenses may be brought to the attention of the grand jury by the court or by any attorney appearing on behalf of the United States for the presentation of evidence. Any such attorney receiving information concerning such an alleged offense from any other person shall, if requested by such other person, inform the grand jury of such alleged offense, the identity of such other person, and such attorney’s action or recommendation.
 
 **(b)** Whenever the district court determines that the volume of business of the special grand jury exceeds the capacity of the grand jury to discharge its obligations, the district court may order an additional special grand jury for that district to be impaneled.
 
-(Added Pub. L. 91–452, title I, § 101(a), Oct. 15, 1970, 84 Stat. 924.)
+(Added Pub. L. 91–452, title I, § 101(a), Oct. 15, 1970, 84 Stat. 924.)
 
 **Editorial Notes**
 
@@ -55,7 +55,7 @@ Pub. L. 91–452, title XII, §§ 1201–1211, Oct. 15, 1970, 84 Stat. 960, 96
 
 The criminal laws of the United States, referred to in subsec. (a), are classified generally to this title.
 
-## § 3333. Reports
+## § 3333. Reports
 
 **(a)** A special grand jury impaneled by any district court, with the concurrence of a majority of its members, may, upon completion of its original term, or each extension thereof, submit to the court a report—
 
@@ -83,10 +83,10 @@ The criminal laws of the United States, referred to in subsec. (a), are classifi
 
 **(f)** As used in this section, “public officer or employee” means any officer or employee of the United States, any State, the District of Columbia, the Commonwealth of Puerto Rico, any territory or possession of the United States, or any political subdivision, or any department, agency, or instrumentality thereof.
 
-(Added Pub. L. 91–452, title I, § 101(a), Oct. 15, 1970, 84 Stat. 924.)
+(Added Pub. L. 91–452, title I, § 101(a), Oct. 15, 1970, 84 Stat. 924.)
 
-## § 3334. General provisions
+## § 3334. General provisions
 
 The provisions of chapter 215, title 18, United States Code, and the Federal Rules of Criminal Procedure applicable to regular grand juries shall apply to special grand juries to the extent not inconsistent with sections 3331, 3332, or 3333 of this chapter.
 
-(Added Pub. L. 91–452, title I, § 101(a), Oct. 15, 1970, 84 Stat. 926.)
+(Added Pub. L. 91–452, title I, § 101(a), Oct. 15, 1970, 84 Stat. 926.)

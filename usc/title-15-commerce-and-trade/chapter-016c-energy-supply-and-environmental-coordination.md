@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 16C—ENERGY SUPPLY AND ENVIRONMENTAL COORDINATION
 
-## § 791. Congressional declaration of purpose
+## § 791. Congressional declaration of purpose
 
 The purposes of this chapter are (1) to provide for a means to assist in meeting the essential needs of the United States for fuels, in a manner which is consistent, to the fullest extent practicable, with existing national commitments to protect and improve the environment, and (2) to provide requirements for reports respecting energy resources.
 
-(Pub. L. 93–319, § 1(b), June 22, 1974, 88 Stat. 246.)
+(Pub. L. 93–319, § 1(b), June 22, 1974, 88 Stat. 246.)
 
 **Editorial Notes**
 
@@ -31,9 +31,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Short Title**
 
-Pub. L. 93–319, § 1(a), June 22, 1974, 88 Stat. 246, provided that Pub. L. 93–319 [enacting this chapter, enacting sections 1857c–10 and 1857f–6f of Title 42, The Public Health and Welfare, and amending sections 1857b–1, 1857c–5, 1857c–8, 1857c–9, 1857d–1, 1857f–1, 1857f–6e, 1857f–7, 1857h–5, and 1857*l* of Title 42] may be cited as the “Energy Supply and Environmental Coordination Act of 1974”.
+Pub. L. 93–319, § 1(a), June 22, 1974, 88 Stat. 246, provided that Pub. L. 93–319 [enacting this chapter, enacting sections 1857c–10 and 1857f–6f of Title 42, The Public Health and Welfare, and amending sections 1857b–1, 1857c–5, 1857c–8, 1857c–9, 1857d–1, 1857f–1, 1857f–6e, 1857f–7, 1857h–5, and 1857*l* of Title 42] may be cited as the “Energy Supply and Environmental Coordination Act of 1974”.
 
-## § 792. Coal conversion and allocation
+## § 792. Coal conversion and allocation
 
 **(a) Powerplant and fuel burning installations** The Federal Energy Administrator—
 
@@ -51,17 +51,17 @@ from burning natural gas or petroleum products as its primary energy source, if 
 
 **(A)** Before issuing an order under subsection (a) which is applicable to a powerplant or installation for a period ending on or before June 30, 1975, the Federal Energy Administrator (i) shall give notice to the public and afford interested persons an opportunity for written presentations of data, views, and arguments, (ii) shall consult with the Administrator of the Environmental Protection Agency, and (iii) shall take into account the likelihood that the powerplant or installation will be permitted to burn coal after June 30, 1975.
 
-**(B)** An order described in subparagraph (A) of this paragraph shall not become effective until the date which the Administrator of the Environmental Protection Agency certifies pursuant to section 1857c–10(d)(1)(A) 1
+**(B)** An order described in subparagraph (A) of this paragraph shall not become effective until the date which the Administrator of the Environmental Protection Agency certifies pursuant to section 1857c–10(d)(1)(A) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of title 42 is the earliest date that such plant or installation will be able to comply with the air pollution requirements which will be applicable to it. Such order shall not be effective for any period certified by the Administrator of the Environmental Protection Agency pursuant to section 1857c–10(d)(3)(B) 1 of title 42.
+of title 42 is the earliest date that such plant or installation will be able to comply with the air pollution requirements which will be applicable to it. Such order shall not be effective for any period certified by the Administrator of the Environmental Protection Agency pursuant to section 1857c–10(d)(3)(B) 1 of title 42.
 
 **(3)**
 
 **(A)** Before issuing an order under subsection (a) which is applicable to a powerplant or installation after June 30, 1975 (or modifying an order to which paragraph (2) applies, so as to apply such order to a powerplant or installation after such date), the Federal Energy Administrator shall give notice to the public and afford interested persons an opportunity for oral and written presentations of data, views, and arguments.
 
-**(B)** An order (or modification thereof) described in subparagraph (A) of this paragraph shall not become effective until (i) the Administrator of the Environmental Protection Agency notifies the Federal Energy Administrator under section 1857c–10(d)(1)(B) <sup>1</sup> of title 42 that such plant or installation will be able on and after July 1, 1975, to burn coal and to comply with all applicable air pollution requirements without a compliance date extension under section 1857c–10(c) <sup>1</sup> of title 42, or (ii) if such notification is not given, the date which the Administrator of the Environmental Protection Agency certifies pursuant to section 1857c–10(d)(1)(B) <sup>1</sup> of title 42 is the earliest date that such plant or installation will be able to comply with all applicable requirements of such 1857c–10 <sup>1</sup> of title 42. Such order (or modification) shall not be effective during any period certified by the Administrator of the Environmental Protection Agency under section 1857c–10(d)(3)(B) <sup>1</sup> of title 42.
+**(B)** An order (or modification thereof) described in subparagraph (A) of this paragraph shall not become effective until (i) the Administrator of the Environmental Protection Agency notifies the Federal Energy Administrator under section 1857c–10(d)(1)(B) <sup>1</sup> of title 42 that such plant or installation will be able on and after July 1, 1975, to burn coal and to comply with all applicable air pollution requirements without a compliance date extension under section 1857c–10(c) <sup>1</sup> of title 42, or (ii) if such notification is not given, the date which the Administrator of the Environmental Protection Agency certifies pursuant to section 1857c–10(d)(1)(B) <sup>1</sup> of title 42 is the earliest date that such plant or installation will be able to comply with all applicable requirements of such 1857c–10 <sup>1</sup> of title 42. Such order (or modification) shall not be effective during any period certified by the Administrator of the Environmental Protection Agency under section 1857c–10(d)(3)(B) <sup>1</sup> of title 42.
 
 **(c) Construction and design of powerplants or other major fuel burning installations**
 
@@ -83,7 +83,7 @@ The Federal Energy Administrator may, by rule or order, allocate coal (1) to any
 
 **(2)** Authority to amend, repeal, rescind, modify, or enforce such rules or orders shall expire at midnight, December 31, 1984; but the expiration of such authority shall not affect any administrative or judicial proceeding which relates to any act or omission which occurred prior to January 1, 1985.
 
-(Pub. L. 93–319, § 2, June 22, 1974, 88 Stat. 246; Pub. L. 94–163, title I, § 101, Dec. 22, 1975, 89 Stat. 875; Pub. L. 95–70, § 7, July 21, 1977, 91 Stat. 277.)
+(Pub. L. 93–319, § 2, June 22, 1974, 88 Stat. 246; Pub. L. 94–163, title I, § 101, Dec. 22, 1975, 89 Stat. 875; Pub. L. 95–70, § 7, July 21, 1977, 91 Stat. 277.)
 
 **Editorial Notes**
 
@@ -91,19 +91,19 @@ The Federal Energy Administrator may, by rule or order, allocate coal (1) to any
 
 This chapter, referred to in subsecs. (b)(1) and (d), was in the original “this Act”, meaning Pub. L. 93–319. For complete classification of this Act to the Code, see Short Title note set out under section 791 of this title and Tables.
 
-Section 1857c–10 of title 42, referred to in subsec. (b)(2)(B), (3)(B), was in the original a reference to section 119 of the Clean Air Act, and was repealed by Pub. L. 95–95, § 112(b), which provided in part that references in this section to section 1857c–10 shall be construed to refer to section 7413(d) of title 42 and to paragraph (5) thereof in particular. Subsequently, section 7413 of title 42 was amended generally by Pub. L. 101–549, title VII, § 701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, subsec. (d) no longer relates to final compliance orders. See section 7413(a) of title 42 for provisions relating generally to compliance orders. For further details, see Compliance Orders note set out below.
+Section 1857c–10 of title 42, referred to in subsec. (b)(2)(B), (3)(B), was in the original a reference to section 119 of the Clean Air Act, and was repealed by Pub. L. 95–95, § 112(b), which provided in part that references in this section to section 1857c–10 shall be construed to refer to section 7413(d) of title 42 and to paragraph (5) thereof in particular. Subsequently, section 7413 of title 42 was amended generally by Pub. L. 101–549, title VII, § 701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, subsec. (d) no longer relates to final compliance orders. See section 7413(a) of title 42 for provisions relating generally to compliance orders. For further details, see Compliance Orders note set out below.
 
 **Amendments**
 
 1977—Subsec. (f)(1). Pub. L. 95–70 substituted “shall expire at midnight, December 31, 1978” for “shall expire at midnight, June 30, 1977”.
 
-1975—Subsec. (a). Pub. L. 94–163, § 101(b), authorized the Administrator to prohibit any powerplant or other fuel burning installation from burning natural gas or petroleum products as its primary energy source if such powerplant or other installation is required to meet a design or construction requirement under subsec. (c) of this section.
+1975—Subsec. (a). Pub. L. 94–163, § 101(b), authorized the Administrator to prohibit any powerplant or other fuel burning installation from burning natural gas or petroleum products as its primary energy source if such powerplant or other installation is required to meet a design or construction requirement under subsec. (c) of this section.
 
-Subsec. (c). Pub. L. 94–163, § 101(c), inserted “or other major fuel burning installation” after “powerplant” wherever appearing and inserted “in the case of a powerplant” after “if the Administrator determines that (1)”.
+Subsec. (c). Pub. L. 94–163, § 101(c), inserted “or other major fuel burning installation” after “powerplant” wherever appearing and inserted “in the case of a powerplant” after “if the Administrator determines that (1)”.
 
-Subsec. (f)(1). Pub. L. 94–163, § 101(a)(1), substituted “June 30, 1977” for “June 30, 1975” and “January 1, 1985” for “January 1, 1979”.
+Subsec. (f)(1). Pub. L. 94–163, § 101(a)(1), substituted “June 30, 1977” for “June 30, 1975” and “January 1, 1985” for “January 1, 1979”.
 
-Subsec. (f)(2). Pub. L. 94–163, § 101(a)(2), substituted “December 31, 1984” for “December 31, 1978” and “January 1, 1985” for “January 1, 1979”.
+Subsec. (f)(2). Pub. L. 94–163, § 101(a)(2), substituted “December 31, 1984” for “December 31, 1978” and “January 1, 1985” for “January 1, 1979”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -113,7 +113,7 @@ Federal Energy Administration terminated and functions vested by law in Administ
 
 **Compliance Orders**
 
-Pub. L. 95–95, title I, § 112(b), Aug. 7, 1977, 91 Stat. 709, repealed section 119 of the Clean Air Act, which was classified to section 1857c–10 of Title 42, The Public Health and Welfare, and which related to the Administrator’s authority to deal with the energy shortage. Section 112(b) of Pub. L. 95–95 provided that:
+Pub. L. 95–95, title I, § 112(b), Aug. 7, 1977, 91 Stat. 709, repealed section 119 of the Clean Air Act, which was classified to section 1857c–10 of Title 42, The Public Health and Welfare, and which related to the Administrator’s authority to deal with the energy shortage. Section 112(b) of Pub. L. 95–95 provided that:
 
 > **“(1)** Section 119 of such Act [section 1857c–10 of Title 42, The Public Health and Welfare] is hereby repealed. All references to such section 119 [section 1857c–10 of Title 42] or subsections thereof in section 2 of the Energy Supply and Environmental Coordination Act of 1974 (Public Law 93–319) [this section] or any amendment thereto, or any subsequent enactment which supersedes such Act [Pub. L. 93–319, June 22, 1974, 88 Stat. 246], shall be construed to refer to section 113(d) of the Clean Air Act [section 7413(d) of Title 42] and to paragraph (5) thereof in particular. Any certification or notification required to be given by the Administrator of the Environmental Protection Agency under section 2 of the Energy Supply and Environmental Coordination Act of 1974 [this section] or any amendment thereto, or any subsequent enactment which supersedes such Act, shall be given only when the Governor of the State in which is located the source to which the proposed order under section 113(d)(5) of the Clean Air Act [section 7413(d)(5) of Title 42] is to be issued gives his prior written concurrence.
 
@@ -121,19 +121,19 @@ Pub. L. 95–95, title I, § 112(b), Aug. 7, 1977, 91 Stat. 709, repealed sect
 
 > **“(3)** Any certification required under section 2 of the Energy Supply and Environmental Coordination Act of 1974 [this section] or any amendment thereto, or any subsequent enactment which supersedes such Act [Pub. L. 93–319], or under this subsection may be provided in an order under section 113(d) of the Clean Air Act [section 7413(d) of Title 42].”
 
-## § 793. Protection of public health and environment
+## § 793. Protection of public health and environment
 
 **(a) Distribution of low sulfur fuel**
 
 Any allocation program provided for in section 792 of this title or in the Emergency Petroleum Allocation Act of 1973 [15 U.S.C. 751 et seq.],1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall, to the maximum extent practicable, include measures to assure that available low sulfur fuel will be distributed on a priority basis to those areas of the United States designated by the Administrator of the Environmental Protection Agency as requiring low sulfur fuel to avoid or minimize adverse impact on public health.
 
 **(b) Study of chronic effects of sulfur oxide emissions among exposed populations**
 
-In order to determine the health effects of emissions of sulfur oxides to the air resulting from any conversions to burning coal to which section 119 <sup>1</sup> of the Clean Air Act [42 U.S.C. 1857c–10] applies, the Department of Health and Human Services shall, through the National Institute of Environmental Health Sciences and in cooperation with the Environmental Protection Agency, conduct a study of chronic effects among exposed populations. The sum of $3,500,000 is authorized to be appropriated for such a study. In order to assure that long-term studies can be conducted without interruption, such sums as are appropriated shall be available until expended.
+In order to determine the health effects of emissions of sulfur oxides to the air resulting from any conversions to burning coal to which section 119 <sup>1</sup> of the Clean Air Act [42 U.S.C. 1857c–10] applies, the Department of Health and Human Services shall, through the National Institute of Environmental Health Sciences and in cooperation with the Environmental Protection Agency, conduct a study of chronic effects among exposed populations. The sum of $3,500,000 is authorized to be appropriated for such a study. In order to assure that long-term studies can be conducted without interruption, such sums as are appropriated shall be available until expended.
 
 **(c) Major Federal actions significantly affecting the quality of the human environment**
 
@@ -145,19 +145,19 @@ In order to determine the health effects of emissions of sulfur oxides to the ai
 
 In order to expedite the prompt construction of facilities for the importation of hydroelectric energy thereby helping to reduce the shortage of petroleum products in the United States, the Federal Power Commission is hereby authorized and directed to issue a Presidential permit pursuant to Executive Order 10485 of September 3, 1953, for the construction, operation, maintenance, and connection of facilities for the transmission of electric energy at the borders of the United States without preparing an environmental impact statement pursuant to section 102 of the National Environmental Policy Act of 1969 [42 U.S.C. 4332] for facilities for the transmission of electric energy between Canada and the United States in the vicinity of Fort Covington, New York.
 
-(Pub. L. 93–319, § 7, June 22, 1974, 88 Stat. 259; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 93–319, § 7, June 22, 1974, 88 Stat. 259; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, which was classified generally to chapter 16A (§ 751 et seq.) of this title, was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
+The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, which was classified generally to chapter 16A (§ 751 et seq.) of this title, was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
 
-Section 119 of the Clean Air Act [42 U.S.C. 1857c–10], referred to in subsec. (b), was repealed by Pub. L. 95–95, § 112(b)(1), Aug. 7, 1977, 91 Stat. 709, which is set out as a Compliance Orders note under section 792 of this title. A new section 119 of the Clean Air Act was added by Pub. L. 95–95, § 117(b), and is classified to section 7419 of Title 42, The Public Health and Welfare.
+Section 119 of the Clean Air Act [42 U.S.C. 1857c–10], referred to in subsec. (b), was repealed by Pub. L. 95–95, § 112(b)(1), Aug. 7, 1977, 91 Stat. 709, which is set out as a Compliance Orders note under section 792 of this title. A new section 119 of the Clean Air Act was added by Pub. L. 95–95, § 117(b), and is classified to section 7419 of Title 42, The Public Health and Welfare.
 
-The Clean Air Act, referred to in subsec. (c), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42. For complete classification of this Act of the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (c), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42. For complete classification of this Act of the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note under section 4321 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (c)(2), was in the original “this Act”, meaning Pub. L. 93–319. For complete classification of this Act to the Code, see Short Title note set out under section 791 of this title and Tables.
 
@@ -173,7 +173,7 @@ Executive Order 10485 of September 3, 1953, referred to in subsec. (d), is Ex. O
 
 The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
-## § 794. Energy conservation study
+## § 794. Energy conservation study
 
 **(a) Study of conservation methods** The Federal Energy Administrator shall conduct a study on potential methods of energy conservation and, not later than six months after June 22, 1974, shall submit to Congress a report on the results of such study. The study shall include, but not be limited to, the following:
 
@@ -199,7 +199,7 @@ Within ninety days of June 22, 1974, the Secretary of Transportation, after cons
 
 **(5)** recommendations on the feasibility of providing tax incentives for persons who use public mass transportation systems.
 
-(Pub. L. 93–319, § 8, June 22, 1974, 88 Stat. 260.)
+(Pub. L. 93–319, § 8, June 22, 1974, 88 Stat. 260.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -207,25 +207,25 @@ Within ninety days of June 22, 1974, the Secretary of Transportation, after cons
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
-## § 795. Report to Congress by January 31, 1975
+## § 795. Report to Congress by January 31, 1975
 
 The Administrator of the Environmental Protection Agency shall report to Congress not later than January 31, 1975, on the implementation of sections 3 through 7 of the Energy Supply and Environmental Coordination Act of 1974.
 
-(Pub. L. 93–319, § 9, June 22, 1974, 88 Stat. 261.)
+(Pub. L. 93–319, § 9, June 22, 1974, 88 Stat. 261.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 3 through 7 of the Energy Supply and Environmental Coordination Act of 1974, referred to in text, are sections 3 through 7 of Pub. L. 93–319, June 22, 1974, 88 Stat. 248–260, which sections enacted section 793 of this title and section 1857c–10 of Title 42, The Public Health and Welfare, and amended sections 1857c–5, 1857c–8, 1857c–9, 1857d–1, 1857f–1, and 1857h–5 of Title 42. Section 1857c–10 of Title 42 was repealed by Pub. L. 95–95, § 112(b)(1). On enactment of Pub. L. 95–95, sections 1857c–5, 1857c–8, 1857c–9, 1857d–1, 1857f–1, and 1857h–5 were reclassified to sections 7410, 7413, 7414, 7416, 7521, and 7607, respectively, of Title 42.
+Sections 3 through 7 of the Energy Supply and Environmental Coordination Act of 1974, referred to in text, are sections 3 through 7 of Pub. L. 93–319, June 22, 1974, 88 Stat. 248–260, which sections enacted section 793 of this title and section 1857c–10 of Title 42, The Public Health and Welfare, and amended sections 1857c–5, 1857c–8, 1857c–9, 1857d–1, 1857f–1, and 1857h–5 of Title 42. Section 1857c–10 of Title 42 was repealed by Pub. L. 95–95, § 112(b)(1). On enactment of Pub. L. 95–95, sections 1857c–5, 1857c–8, 1857c–9, 1857d–1, 1857f–1, and 1857h–5 were reclassified to sections 7410, 7413, 7414, 7416, 7521, and 7607, respectively, of Title 42.
 
-## § 796. Reporting of energy information
+## § 796. Reporting of energy information
 
 **(a) Authority of Federal Energy Administrator to request, acquire, and collect energy information; rules and regulations**
 
 For the purpose of assuring that the Federal Energy Administrator, the Congress, the States, and the public have access to and are able to obtain reliable energy information, the Federal Energy Administrator shall request, acquire, and collect such energy information as he determines to be necessary to assist in the formulation of energy policy or to carry out the purposes of this chapter or the Emergency Petroleum Allocation Act of 1973 [15 U.S.C. 751 et seq.].1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 The Federal Energy Administrator shall promptly promulgate rules pursuant to subsection (b)(1)(A) of this section requiring reports of such information to be submitted to the Federal Energy Administrator at least every ninety calendar days.
 
@@ -241,9 +241,9 @@ The Federal Energy Administrator shall promptly promulgate rules pursuant to sub
 
 **(D)** to administer oaths.
 
-**(2)** For the purpose of verifying the accuracy of any energy information requested, acquired, or collected by the Federal Energy Administrator, the Federal Energy Administrator, or any officer or employer 2
+**(2)** For the purpose of verifying the accuracy of any energy information requested, acquired, or collected by the Federal Energy Administrator, the Federal Energy Administrator, or any officer or employer 2
 
-<sup>2</sup>  So in original. Probably should be “employee”.
+<sup>2</sup> So in original. Probably should be “employee”.
 
 duly designated by him, upon presenting appropriate credentials and a written notice from the Federal Energy Administrator to the owner, operator, or agent in charge, may—
 
@@ -311,7 +311,7 @@ Information obtained by the Administration under authority of this chapter shall
 
 The authority contained in this section is in addition to, independent of, not limited by, and not in limitation of, any other authority of the Federal Energy Administrator.
 
-(Pub. L. 93–319, § 11, June 22, 1974, 88 Stat. 262; Pub. L. 94–163, title V, §§ 505(a), 506, Dec. 22, 1975, 89 Stat. 960; Pub. L. 95–620, title VII, § 762(d), Nov. 9, 1978, 92 Stat. 3346; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 93–319, § 11, June 22, 1974, 88 Stat. 262; Pub. L. 94–163, title V, §§ 505(a), 506, Dec. 22, 1975, 89 Stat. 960; Pub. L. 95–620, title VII, § 762(d), Nov. 9, 1978, 92 Stat. 3346; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -319,7 +319,7 @@ The authority contained in this section is in addition to, independent of, not l
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 93–319. For complete classification of this Act to the Code, see Short Title note set out under section 791 of this title and Tables.
 
-The Emergency Petroleum Allocation Act of 1973, referred to in subsecs. (a), (c)(2)(C), and (d), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, which was classified generally to chapter 16A (§ 751 et seq.) of this title, was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
+The Emergency Petroleum Allocation Act of 1973, referred to in subsecs. (a), (c)(2)(C), and (d), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, which was classified generally to chapter 16A (§ 751 et seq.) of this title, was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
 
 **Amendments**
 
@@ -327,9 +327,9 @@ The Emergency Petroleum Allocation Act of 1973, referred to in subsecs. (a), (c)
 
 1978—Subsec. (g). Pub. L. 95–620 struck out provisions comprising par. (2) relating to termination of this section at midnight, Dec. 31, 1979, and designated remaining provisions as subsec. (g).
 
-1975—Subsec. (c)(3). Pub. L. 94–163, § 505(a), added par. (3).
+1975—Subsec. (c)(3). Pub. L. 94–163, § 505(a), added par. (3).
 
-Subsec. (g)(2). Pub. L. 94–163, § 506, substituted “December 31, 1979” for “June 30, 1975” in two places.
+Subsec. (g)(2). Pub. L. 94–163, § 506, substituted “December 31, 1979” for “June 30, 1975” in two places.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -339,7 +339,7 @@ Amendment by Pub. L. 95–620 effective 180 days after Nov. 9, 1978, see section
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 94–163, title V, § 505(b), Dec. 22, 1975, 89 Stat. 960, provided that: “The amendment made by subsection (a) to section 11(c) of the Energy Supply and Environmental Coordination Act of 1974 [subsec. (c) of this section] shall take effect on the first day of the first accounting quarter to which such practices apply.”
+Pub. L. 94–163, title V, § 505(b), Dec. 22, 1975, 89 Stat. 960, provided that: “The amendment made by subsection (a) to section 11(c) of the Energy Supply and Environmental Coordination Act of 1974 [subsec. (c) of this section] shall take effect on the first day of the first accounting quarter to which such practices apply.”
 
 **Transfer of Functions**
 
@@ -347,7 +347,7 @@ Federal Energy Administration terminated and functions vested by law in Administ
 
 The Federal Power Commission was terminated and its functions, personnel, property, funds, etc., were transferred to Secretary of Energy (except for certain functions transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42.
 
-## § 797. Enforcement
+## § 797. Enforcement
 
 **(a) Violations**
 
@@ -365,7 +365,7 @@ It shall be unlawful for any person to violate any provision of section 792 of t
 
 **(5)** Any person suffering legal wrong because of any act or practice arising out of any violation of subsection (a) may bring a civil action for appropriate relief, including an action for a declaratory judgment or writ of injunction. United States district courts shall have jurisdiction of actions under this paragraph without regard to the amount in controversy. Nothing in this paragraph shall authorize any person to recover damages.
 
-(Pub. L. 93–319, § 12, June 22, 1974, 88 Stat. 264.)
+(Pub. L. 93–319, § 12, June 22, 1974, 88 Stat. 264.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -373,17 +373,17 @@ It shall be unlawful for any person to violate any provision of section 792 of t
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
-## § 798. Definitions
+## § 798. Definitions
 
-**(a)** For purposes of this chapter and the Clean Air Act [42 U.S.C. 7401 et seq.] the term “Federal Energy Administrator” means the Administrator of the Federal Energy Administration established by Federal Energy Administration Act of 1974 [15 U.S.C. 761 et seq.]; except that until such Administrator takes office and after such Administration ceases to exist, such term means any officer of the United States designated as Federal Energy Administrator by the President for purposes of this chapter and section 119 1
+**(a)** For purposes of this chapter and the Clean Air Act [42 U.S.C. 7401 et seq.] the term “Federal Energy Administrator” means the Administrator of the Federal Energy Administration established by Federal Energy Administration Act of 1974 [15 U.S.C. 761 et seq.]; except that until such Administrator takes office and after such Administration ceases to exist, such term means any officer of the United States designated as Federal Energy Administrator by the President for purposes of this chapter and section 119 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Clean Air Act [42 U.S.C. 1857c–10].
 
-**(b)** For purposes of this chapter, the term “petroleum product” means crude oil, residual fuel oil, or any refined petroleum product (as defined in section 752(5) <sup>1</sup> of this title).
+**(b)** For purposes of this chapter, the term “petroleum product” means crude oil, residual fuel oil, or any refined petroleum product (as defined in section 752(5) <sup>1</sup> of this title).
 
-(Pub. L. 93–319, § 14, June 22, 1974, 88 Stat. 265.)
+(Pub. L. 93–319, § 14, June 22, 1974, 88 Stat. 265.)
 
 **Editorial Notes**
 
@@ -391,11 +391,11 @@ of the Clean Air Act [42 U.S.C. 1857c–10].
 
 This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 93–319. For complete classification of this Act to the Code, see Short Title note set out under section 791 of this title and Tables.
 
-The Clean Air Act, referred to in subsec. (a), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (a), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-Section 119 of the Clean Air Act [42 U.S.C. 1857c–10], referred to in subsec. (a), was repealed by Pub. L. 95–95, § 112(b)(1), Aug. 7, 1977, 91 Stat. 709, which is set out as a Compliance Orders note under section 792 of this title. A new section 119 of the Clean Air Act was added by Pub. L. 95–95, § 117(b), and is classified to section 7419 of Title 42.
+Section 119 of the Clean Air Act [42 U.S.C. 1857c–10], referred to in subsec. (a), was repealed by Pub. L. 95–95, § 112(b)(1), Aug. 7, 1977, 91 Stat. 709, which is set out as a Compliance Orders note under section 792 of this title. A new section 119 of the Clean Air Act was added by Pub. L. 95–95, § 117(b), and is classified to section 7419 of Title 42.
 
-The Federal Energy Administration Act of 1974, referred to in subsec. (a), is Pub. L. 93–275, May 7, 1974, 88 Stat. 96, which is classified generally to chapter 16B (§ 761 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 761 of this title and Tables.
+The Federal Energy Administration Act of 1974, referred to in subsec. (a), is Pub. L. 93–275, May 7, 1974, 88 Stat. 96, which is classified generally to chapter 16B (§ 761 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 761 of this title and Tables.
 
 Section 752 of this title, referred to in subsec. (b), was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President’s authority under that section on Sept. 30, 1981.
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 81—DRUG-FREE WORKPLACE
 
-## § 8101. Definitions and construction
+## § 8101. Definitions and construction
 
 **(a) Definitions.—** In this chapter:
 
@@ -41,13 +41,13 @@ retrieved: 2026-10-11
 
 **(b) Construction.—** This chapter does not require law enforcement agencies to comply with this chapter if the head of the agency determines it would be inappropriate in connection with the agency’s undercover operations.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3826.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3826.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8101(a)(1) | 41:706(7). | Pub. L. 100–690, title V, §§ 5157, 5158, Nov. 18, 1988, 102 Stat. 4308. |
+| 8101(a)(1) | 41:706(7). | Pub. L. 100–690, title V, §§ 5157, 5158, Nov. 18, 1988, 102 Stat. 4308. |
 | 8101(a)(2) | 41:706(3). |  |
 | 8101(a)(3) | 41:706(4). |  |
 | 8101(a)(4) | 41:706(5). |  |
@@ -57,7 +57,7 @@ retrieved: 2026-10-11
 | 8101(a)(8) | 41:706(6). |  |
 | 8101(b) | 41:707. |  |
 
-## § 8102. Drug-free workplace requirements for Federal contractors
+## § 8102. Drug-free workplace requirements for Federal contractors
 
 **(a) In General.—**
 
@@ -103,13 +103,13 @@ retrieved: 2026-10-11
 
 **(3) Effect of debarment.—** A contractor or individual debarred by a final decision under this subsection is ineligible for award of a contract by a Federal agency, and for participation in a future procurement by a Federal agency, for a period specified in the decision, not to exceed 5 years.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3827; Pub. L. 115–232, div. A, title VIII, § 836(b)(20), Aug. 13, 2018, 132 Stat. 1864.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3827; Pub. L. 115–232, div. A, title VIII, § 836(b)(20), Aug. 13, 2018, 132 Stat. 1864.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8102 | 41:701. | Pub. L. 100–690, title V, § 5152, Nov. 18, 1988, 102 Stat. 4304; Pub. L. 103–355, title IV, § 4104(d), title VIII, § 8301(f), Oct. 13, 1994, 108 Stat. 3342, 3397; Pub. L. 104–106, div. D, title XLIII, §§ 4301(a)(3), 4321(i)(13), Feb. 10, 1996, 110 Stat. 656, 677. |
+| 8102 | 41:701. | Pub. L. 100–690, title V, § 5152, Nov. 18, 1988, 102 Stat. 4304; Pub. L. 103–355, title IV, § 4104(d), title VIII, § 8301(f), Oct. 13, 1994, 108 Stat. 3342, 3397; Pub. L. 104–106, div. D, title XLIII, §§ 4301(a)(3), 4321(i)(13), Feb. 10, 1996, 110 Stat. 656, 677. |
 
 **Editorial Notes**
 
@@ -123,7 +123,7 @@ retrieved: 2026-10-11
 
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
-## § 8103. Drug-free workplace requirements for Federal grant recipients
+## § 8103. Drug-free workplace requirements for Federal grant recipients
 
 **(a) In General.—**
 
@@ -169,15 +169,15 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 **(3) Effect of debarment.—** A grantee debarred by a final decision under this subsection is ineligible for award of a grant by a Federal agency, and for participation in a future grant by a Federal agency, for a period specified in the decision, not to exceed 5 years.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3828.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3828.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8103 | 41:702. | Pub. L. 100–690, title V, § 5153, Nov. 18, 1988, 102 Stat. 4306; Pub. L. 105–85, div. A, title VIII, § 809, Nov. 18, 1997, 111 Stat. 1838. |
+| 8103 | 41:702. | Pub. L. 100–690, title V, § 5153, Nov. 18, 1988, 102 Stat. 4306; Pub. L. 105–85, div. A, title VIII, § 809, Nov. 18, 1997, 111 Stat. 1838. |
 
-## § 8104. Employee sanctions and remedies
+## § 8104. Employee sanctions and remedies
 
 Within 30 days after receiving notice from an employee of a conviction pursuant to section 8102(a)(1)(D)(ii) or 8103(a)(1)(D)(ii) of this title, a contractor or grantee shall—
 
@@ -185,15 +185,15 @@ Within 30 days after receiving notice from an employee of a conviction pursuant 
 
 **(2)** require the employee to satisfactorily participate in a drug abuse assistance or rehabilitation program approved for those purposes by a Federal, State, or local health, law enforcement, or other appropriate agency.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3830.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3830.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8104 | 41:703. | Pub. L. 100–690, title V, § 5154, Nov. 18, 1988, 102 Stat. 4307. |
+| 8104 | 41:703. | Pub. L. 100–690, title V, § 5154, Nov. 18, 1988, 102 Stat. 4307. |
 
-## § 8105. Waiver
+## § 8105. Waiver
 
 **(a) In General.—** The head of an agency may waive a suspension of payments, termination of the contract or grant, or suspension or debarment of a contractor or grantee under this chapter with respect to a particular contract or grant if—
 
@@ -203,24 +203,24 @@ Within 30 days after receiving notice from an employee of a conviction pursuant 
 
 **(b) Waiver Authority May Not Be Delegated.—** The authority of the head of an agency under this section to waive a suspension, termination, or debarment shall not be delegated.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3830.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3830.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8105 | 41:704. | Pub. L. 100–690, title V, § 5155, Nov. 18, 1988, 102 Stat. 4307. |
+| 8105 | 41:704. | Pub. L. 100–690, title V, § 5155, Nov. 18, 1988, 102 Stat. 4307. |
 
-## § 8106. Regulations
+## § 8106. Regulations
 
 Government-wide regulations governing actions under this chapter shall be issued pursuant to division B of subtitle I of this title.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3830.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3830.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8106 | 41:705. | Pub. L. 100–690, title V, § 5156, Nov. 18, 1988, 102 Stat. 4308. |
+| 8106 | 41:705. | Pub. L. 100–690, title V, § 5156, Nov. 18, 1988, 102 Stat. 4308. |
 
 The words “Not later than 90 days after November 18, 1988, the” are omitted as obsolete.

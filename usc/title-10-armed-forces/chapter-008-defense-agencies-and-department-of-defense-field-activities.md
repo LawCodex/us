@@ -21,31 +21,31 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title IX, § 912(a), Dec. 18, 2025, 139 Stat. 1015, added item 199. Amendment was made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title IX, § 912(a), Dec. 18, 2025, 139 Stat. 1015, added item 199. Amendment was made pursuant to operation of section 102 of this title.
 
-2021—Pub. L. 117–81, div. A, title IX, § 902(a)(4)(B), Dec. 27, 2021, 135 Stat. 1869, which directed amendment of the table of sections at the beginning of “subtitle I” of this chapter by adding item 198 after item 197, was executed to the table of sections at the beginning of this subchapter, to reflect the probable intent of Congress.
+2021—Pub. L. 117–81, div. A, title IX, § 902(a)(4)(B), Dec. 27, 2021, 135 Stat. 1869, which directed amendment of the table of sections at the beginning of “subtitle I” of this chapter by adding item 198 after item 197, was executed to the table of sections at the beginning of this subchapter, to reflect the probable intent of Congress.
 
-2004—Pub. L. 108–375, div. A, title X, § 1010(b), Oct. 28, 2004, 118 Stat. 2038, added item 197.
+2004—Pub. L. 108–375, div. A, title X, § 1010(b), Oct. 28, 2004, 118 Stat. 2038, added item 197.
 
-2002—Pub. L. 107–314, div. A, title II, § 231(a)(2), Dec. 2, 2002, 116 Stat. 2489, added item 196.
+2002—Pub. L. 107–314, div. A, title II, § 231(a)(2), Dec. 2, 2002, 116 Stat. 2489, added item 196.
 
-1997—Pub. L. 105–85, div. A, title III, § 383(b), Nov. 18, 1997, 111 Stat. 1711, added item 195.
+1997—Pub. L. 105–85, div. A, title III, § 383(b), Nov. 18, 1997, 111 Stat. 1711, added item 195.
 
-1986—Pub. L. 99–433, title III, § 301(a)(2), Oct. 1, 1986, 100 Stat. 1019, inserted “AND DEPARTMENT OF DEFENSE FIELD ACTIVITIES” in chapter heading, added subchapter analysis and subchapter I analysis, and struck out former chapter analysis consisting of item 191 “Unauthorized use of Defense Intelligence Agency name, initials, or seal”.
+1986—Pub. L. 99–433, title III, § 301(a)(2), Oct. 1, 1986, 100 Stat. 1019, inserted “AND DEPARTMENT OF DEFENSE FIELD ACTIVITIES” in chapter heading, added subchapter analysis and subchapter I analysis, and struck out former chapter analysis consisting of item 191 “Unauthorized use of Defense Intelligence Agency name, initials, or seal”.
 
-1985—Pub. L. 99–145, title XIII, § 1302(a)(2), Nov. 8, 1985, 99 Stat. 737, redesignated item 192 “Benefits for certain employees of the Defense Intelligence Agency” as item 1605 and transferred it to chapter 83 of this title.
+1985—Pub. L. 99–145, title XIII, § 1302(a)(2), Nov. 8, 1985, 99 Stat. 737, redesignated item 192 “Benefits for certain employees of the Defense Intelligence Agency” as item 1605 and transferred it to chapter 83 of this title.
 
-1983—Pub. L. 98–215, title V, § 501(b), Dec. 9, 1983, 97 Stat. 1479, added item 192.
+1983—Pub. L. 98–215, title V, § 501(b), Dec. 9, 1983, 97 Stat. 1479, added item 192.
 
-1982—Pub. L. 97–269, title V, § 501(a), Sept. 27, 1982, 96 Stat. 1144, added chapter 8 heading and analysis of sections for chapter 8, consisting of a single item 191.
+1982—Pub. L. 97–269, title V, § 501(a), Sept. 27, 1982, 96 Stat. 1144, added chapter 8 heading and analysis of sections for chapter 8, consisting of a single item 191.
 
-### § 191. Secretary of Defense: authority to provide for common performance of supply or service activities
+### § 191. Secretary of Defense: authority to provide for common performance of supply or service activities
 
 **(a) Authority.—** Whenever the Secretary of Defense determines such action would be more effective, economical, or efficient, the Secretary may provide for the performance of a supply or service activity that is common to more than one military department by a single agency of the Department of Defense.
 
 **(b) Designation of Common Supply or Service Agency.—** Any agency of the Department of Defense established under subsection (a) (or under the second sentence of section 125(d) of this title (as in effect before October 1, 1986)) for the performance of a supply or service activity referred to in such subsection shall be designated as a Defense Agency or a Department of Defense Field Activity.
 
-(Added Pub. L. 99–433, title III, § 301(a)(2), Oct. 1, 1986, 100 Stat. 1019; amended Pub. L. 100–26, § 7(i)(1), Apr. 21, 1987, 101 Stat. 282.)
+(Added Pub. L. 99–433, title III, § 301(a)(2), Oct. 1, 1986, 100 Stat. 1019; amended Pub. L. 100–26, § 7(i)(1), Apr. 21, 1987, 101 Stat. 282.)
 
 **Editorial Notes**
 
@@ -65,7 +65,7 @@ A prior section 191 was renumbered section 202 of this title and subsequently re
 
 **Mission Management Pilot Program**
 
-Pub. L. 117–81, div. A, title VIII, § 871, Dec. 27, 2021, 135 Stat. 1855, as amended by Pub. L. 118–31, div. A, title VIII, § 871, Dec. 22, 2023, 137 Stat. 349, provided that:
+Pub. L. 117–81, div. A, title VIII, § 871, Dec. 27, 2021, 135 Stat. 1855, as amended by Pub. L. 118–31, div. A, title VIII, § 871, Dec. 22, 2023, 137 Stat. 349, provided that:
 
 > **“(a) In General.—** Subject to the availability of appropriations, the Secretary of Defense shall establish a pilot program to identify lessons learned and improved mission outcomes achieved by quickly delivering solutions that fulfill critical operational needs arising from cross-service missions undertaken by combatant commands through the use of a coordinated and iterative approach to develop, evaluate, and transition such solutions.
 
@@ -217,7 +217,7 @@ Pub. L. 117–81, div. A, title VIII, § 871, Dec. 27, 2021, 135 Stat. 1855, a
 
 **Establishment of Mission-Oriented Pilot Programs To Close Significant Capabilities Gaps**
 
-Pub. L. 117–81, div. A, title VIII, § 872, Dec. 27, 2021, 135 Stat. 1859, provided that:
+Pub. L. 117–81, div. A, title VIII, § 872, Dec. 27, 2021, 135 Stat. 1859, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall establish, within the Strategic Capabilities Office of the Office of the Secretary of Defense, not fewer than two mission-oriented integration pilot programs with the objective of closing significant capabilities gaps by developing and implementing capabilities and by synchronizing and integrating missions across covered Armed Forces and Defense Agencies.
 
@@ -319,7 +319,7 @@ Pub. L. 117–81, div. A, title VIII, § 872, Dec. 27, 2021, 135 Stat. 1859, p
 
 **Actions To Increase the Efficiency and Transparency of the Defense Logistics Agency**
 
-Pub. L. 115–232, div. A, title IX, § 924, Aug. 13, 2018, 132 Stat. 1931, provided that:
+Pub. L. 115–232, div. A, title IX, § 924, Aug. 13, 2018, 132 Stat. 1931, provided that:
 
 > **“(a) System and Capability.—** Not later than January 1, 2020, the Director of the Defense Logistics Agency and the Chief Management Officer of the Department of Defense shall jointly, in consultation with the customers served by the Agency, develop and implement—
 
@@ -347,17 +347,17 @@ Pub. L. 115–232, div. A, title IX, § 924, Aug. 13, 2018, 132 Stat. 1931, pr
 
 **Comptroller General Review of Operations of Defense Logistics Agency**
 
-Pub. L. 106–398, § 1 [[div. A], title IX, § 917], Oct. 30, 2000, 114 Stat. 1654, 1654A–232, directed the Comptroller General to review the operations of the Defense Logistics Agency and to submit to committees of Congress one or more reports setting forth the Comptroller General’s findings not later than Feb. 1, 2002.
+Pub. L. 106–398, § 1 [[div. A], title IX, § 917], Oct. 30, 2000, 114 Stat. 1654, 1654A–232, directed the Comptroller General to review the operations of the Defense Logistics Agency and to submit to committees of Congress one or more reports setting forth the Comptroller General’s findings not later than Feb. 1, 2002.
 
 **Comptroller General Review of Operations of Defense Information Systems Agency**
 
-Pub. L. 106–398, § 1 [[div. A], title IX, § 918], Oct. 30, 2000, 114 Stat. 1654, 1654A–232, directed the Comptroller General to review the operations of the Defense Information Systems Agency and to submit to committees of Congress one or more reports setting forth the Comptroller General’s findings not later than Feb. 1, 2002.
+Pub. L. 106–398, § 1 [[div. A], title IX, § 918], Oct. 30, 2000, 114 Stat. 1654, 1654A–232, directed the Comptroller General to review the operations of the Defense Information Systems Agency and to submit to committees of Congress one or more reports setting forth the Comptroller General’s findings not later than Feb. 1, 2002.
 
 **Reassessment of Defense Agencies and Department of Defense Field Activities**
 
-Pub. L. 99–433, title III, § 303, Oct. 1, 1986, 100 Stat. 1023, directed Secretary of Defense to conduct a study of functions and organizational structure of Defense Agencies and Department of Defense Field Activities to determine the most effective, economical, or efficient means of providing supply or service activities common to more than one military department, with Secretary to submit a report to Congress not later than Oct. 1, 1987. The report was to include a study of improved application of computer systems to functions of Defense Agencies and Department of Defense Field Activities, including a plan for rapid replacement, where necessary, of existing automated data processing equipment with new equipment, and plans to achieve reductions in total number of members of Armed Forces and civilian employees assigned or detailed to permanent duty in Defense Agencies and Department of Defense Field Activities (other than National Security Agency) by 5 percent, 10 percent, and 15 percent of total number of such members and employees projected to be assigned or detailed to such duty on Sept. 30, 1988, together with a discussion of implications of each such reduction and a draft of any legislation that would be required to implement each such plan.
+Pub. L. 99–433, title III, § 303, Oct. 1, 1986, 100 Stat. 1023, directed Secretary of Defense to conduct a study of functions and organizational structure of Defense Agencies and Department of Defense Field Activities to determine the most effective, economical, or efficient means of providing supply or service activities common to more than one military department, with Secretary to submit a report to Congress not later than Oct. 1, 1987. The report was to include a study of improved application of computer systems to functions of Defense Agencies and Department of Defense Field Activities, including a plan for rapid replacement, where necessary, of existing automated data processing equipment with new equipment, and plans to achieve reductions in total number of members of Armed Forces and civilian employees assigned or detailed to permanent duty in Defense Agencies and Department of Defense Field Activities (other than National Security Agency) by 5 percent, 10 percent, and 15 percent of total number of such members and employees projected to be assigned or detailed to such duty on Sept. 30, 1988, together with a discussion of implications of each such reduction and a draft of any legislation that would be required to implement each such plan.
 
-### § 192. Defense Agencies and Department of Defense Field Activities: oversight by the Secretary of Defense
+### § 192. Defense Agencies and Department of Defense Field Activities: oversight by the Secretary of Defense
 
 **(a) Overall Supervision.—**
 
@@ -413,33 +413,33 @@ Pub. L. 99–433, title III, § 303, Oct. 1, 1986, 100 Stat. 1023, directed Se
 
 **(2)** Such recommendations for legislative action as the Secretary considers appropriate in connection with the termination of the Agency or Activity.
 
-(Added Pub. L. 99–433, title III, § 301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 105–261, div. A, title III, § 361(a), Oct. 17, 1998, 112 Stat. 1984; Pub. L. 106–65, div. A, title X, § 1066(a)(3), Oct. 5, 1999, 113 Stat. 770; Pub. L. 109–163, div. A, title III, § 371, Jan. 6, 2006, 119 Stat. 3209; Pub. L. 110–181, div. A, title IX, §§ 904(c), 931(a)(1), Jan. 28, 2008, 122 Stat. 274, 285; Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 115–91, div. A, title X, § 1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597; Pub. L. 115–232, div. A, title IX, § 923, title X, § 1081(f)(1)(A)(i), Aug. 13, 2018, 132 Stat. 1930, 1986; Pub. L. 116–283, div. A, title X, § 1081(a)(11), Jan. 1, 2021, 134 Stat. 3871; Pub. L. 118–31, div. A, title IX, § 901(b), Dec. 22, 2023, 137 Stat. 354.)
+(Added Pub. L. 99–433, title III, § 301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 105–261, div. A, title III, § 361(a), Oct. 17, 1998, 112 Stat. 1984; Pub. L. 106–65, div. A, title X, § 1066(a)(3), Oct. 5, 1999, 113 Stat. 770; Pub. L. 109–163, div. A, title III, § 371, Jan. 6, 2006, 119 Stat. 3209; Pub. L. 110–181, div. A, title IX, §§ 904(c), 931(a)(1), Jan. 28, 2008, 122 Stat. 274, 285; Pub. L. 113–291, div. A, title IX, § 901(n)(1), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 115–91, div. A, title X, § 1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597; Pub. L. 115–232, div. A, title IX, § 923, title X, § 1081(f)(1)(A)(i), Aug. 13, 2018, 132 Stat. 1930, 1986; Pub. L. 116–283, div. A, title X, § 1081(a)(11), Jan. 1, 2021, 134 Stat. 3871; Pub. L. 118–31, div. A, title IX, § 901(b), Dec. 22, 2023, 137 Stat. 354.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 192, Pub. L. 98–215, title V, § 501(a), Dec. 9, 1983, 97 Stat. 1478, which related to benefits for certain personnel of the Defense Intelligence Agency, was redesignated as section 1605 of this title and amended by Pub. L. 99–145, title XIII, § 1302(a)(1), Nov. 8, 1985, 99 Stat. 737. Provisions of prior section 192 as related to members of the armed forces were enacted as section 431 of Title 37, Pay and Allowances of the Uniformed Services, by section 1302(b)(1) of Pub. L. 99–145.
+A prior section 192, Pub. L. 98–215, title V, § 501(a), Dec. 9, 1983, 97 Stat. 1478, which related to benefits for certain personnel of the Defense Intelligence Agency, was redesignated as section 1605 of this title and amended by Pub. L. 99–145, title XIII, § 1302(a)(1), Nov. 8, 1985, 99 Stat. 737. Provisions of prior section 192 as related to members of the armed forces were enacted as section 431 of Title 37, Pay and Allowances of the Uniformed Services, by section 1302(b)(1) of Pub. L. 99–145.
 
 **Amendments**
 
-2023—Subsec. (c)(1)(A). Pub. L. 118–31, § 901(b)(1)(A), substituted “the Secretary of Defense” for “the Chief Management Officer of the Department of Defense”.
+2023—Subsec. (c)(1)(A). Pub. L. 118–31, § 901(b)(1)(A), substituted “the Secretary of Defense” for “the Chief Management Officer of the Department of Defense”.
 
-Subsec. (c)(1)(B), (C). Pub. L. 118–31, § 901(b)(1)(B), substituted “the Secretary” for “the Chief Management Officer”.
+Subsec. (c)(1)(B), (C). Pub. L. 118–31, § 901(b)(1)(B), substituted “the Secretary” for “the Chief Management Officer”.
 
-Subsec. (c)(2)(A), (B)(i). Pub. L. 118–31, § 901(b)(2), substituted “the Secretary” for “the Chief Management Officer”.
+Subsec. (c)(2)(A), (B)(i). Pub. L. 118–31, § 901(b)(2), substituted “the Secretary” for “the Chief Management Officer”.
 
 2021—Subsec. (c)(1). Pub. L. 116–283 struck out par. (1) relating to periodic review of services and supplies provided by each Defense Agency and Department of Defense Field Activity.
 
-2018—Subsec. (c)(1) to (3). Pub. L. 115–232, § 923(a), added par. (1) relating to efficiency and effectiveness reviews and par. (2) and redesignated former par. (2) as (3).
+2018—Subsec. (c)(1) to (3). Pub. L. 115–232, § 923(a), added par. (1) relating to efficiency and effectiveness reviews and par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (e). Pub. L. 115–232, § 923(b), (c), added subsec. (e) and struck out former subsec. (e) which related to special rule for Defense Business Transformation Agency.
+Subsec. (e). Pub. L. 115–232, § 923(b), (c), added subsec. (e) and struck out former subsec. (e) which related to special rule for Defense Business Transformation Agency.
 
-Subsec. (e)(2). Pub. L. 115–232, § 1081(f)(1)(A)(i), substituted “Chief Management Officer” for “Deputy Chief Management Officer”.
+Subsec. (e)(2). Pub. L. 115–232, § 1081(f)(1)(A)(i), substituted “Chief Management Officer” for “Deputy Chief Management Officer”.
 
-2008—Subsec. (c)(2). Pub. L. 110–181, § 931(a)(1), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+2008—Subsec. (c)(2). Pub. L. 110–181, § 931(a)(1), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
 
-Subsec. (e)(2). Pub. L. 110–181, § 904(c), substituted “that the Director of the Agency shall report directly to the Deputy Chief Management Officer of the Department of Defense.” for “that the Agency be managed cooperatively by the Deputy Under Secretary of Defense for Business Transformation and the Deputy Under Secretary of Defense for Financial Management.”
+Subsec. (e)(2). Pub. L. 110–181, § 904(c), substituted “that the Director of the Agency shall report directly to the Deputy Chief Management Officer of the Department of Defense.” for “that the Agency be managed cooperatively by the Deputy Under Secretary of Defense for Business Transformation and the Deputy Under Secretary of Defense for Financial Management.”
 
 2006—Subsec. (e). Pub. L. 109–163 added subsec. (e).
 
@@ -451,9 +451,9 @@ Subsec. (e)(2). Pub. L. 110–181, § 904(c), substituted “that the Director
 
 **First Review of Defense Agencies by Secretary of Defense**
 
-Pub. L. 99–433, title III, § 304(a), Oct. 1, 1986, 100 Stat. 1024, required the first review under subsec. (c) of this section to be completed not later than two years after the date that the report under Pub. L. 99–433, § 303(e), formerly set out as a note under section 191 of this title, was required to be submitted to Congress (Oct. 1, 1987).
+Pub. L. 99–433, title III, § 304(a), Oct. 1, 1986, 100 Stat. 1024, required the first review under subsec. (c) of this section to be completed not later than two years after the date that the report under Pub. L. 99–433, § 303(e), formerly set out as a note under section 191 of this title, was required to be submitted to Congress (Oct. 1, 1987).
 
-### § 193. Combat support agencies: oversight
+### § 193. Combat support agencies: oversight
 
 **(a) Combat Readiness.—**
 
@@ -493,7 +493,7 @@ Pub. L. 99–433, title III, § 304(a), Oct. 1, 1986, 100 Stat. 1024, required
 
 **(5)** Any other Defense Agency designated as a combat support agency by the Secretary of Defense.
 
-(Added Pub. L. 99–433, title III, § 301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 104–201, div. A, title XI, § 1112(c), Sept. 23, 1996, 110 Stat. 2683; Pub. L. 105–85, div. A, title X, § 1073(a)(5), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 108–136, div. A, title IX, § 921(d)(3), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 109–364, div. A, title IX, § 907, Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–181, div. A, title IX, § 931(a)(2), (3), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, [div. A], title IX, § 932(a)(1), (2), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, § 1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 113–66, div. A, title X, § 1082, Dec. 26, 2013, 127 Stat. 871.)
+(Added Pub. L. 99–433, title III, § 301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 104–201, div. A, title XI, § 1112(c), Sept. 23, 1996, 110 Stat. 2683; Pub. L. 105–85, div. A, title X, § 1073(a)(5), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 108–136, div. A, title IX, § 921(d)(3), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 109–364, div. A, title IX, § 907, Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–181, div. A, title IX, § 931(a)(2), (3), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, [div. A], title IX, § 932(a)(1), (2), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, § 1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 113–66, div. A, title X, § 1082, Dec. 26, 2013, 127 Stat. 871.)
 
 **Editorial Notes**
 
@@ -501,45 +501,45 @@ Pub. L. 99–433, title III, § 304(a), Oct. 1, 1986, 100 Stat. 1024, required
 
 2013—Subsec. (a)(1). Pub. L. 113–66 inserted “and the congressional defense committees” after “the Secretary of Defense” in introductory provisions.
 
-2009—Subsecs. (d)(2), (e). Pub. L. 111–84 repealed Pub. L. 110–417, § 932(a)(1), (2). See 2008 Amendment note below.
+2009—Subsecs. (d)(2), (e). Pub. L. 111–84 repealed Pub. L. 110–417, § 932(a)(1), (2). See 2008 Amendment note below.
 
-2008—Subsecs. (d)(2), (e). Pub. L. 110–181 and Pub. L. 110–417, § 932(a)(1), (2), made identical amendments, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, § 932(a)(1), (2), was repealed by Pub. L. 111–84.
+2008—Subsecs. (d)(2), (e). Pub. L. 110–181 and Pub. L. 110–417, § 932(a)(1), (2), made identical amendments, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, § 932(a)(1), (2), was repealed by Pub. L. 111–84.
 
 2006—Subsec. (f)(1). Pub. L. 109–364 substituted “Defense Information Systems Agency” for “Defense Communications Agency”.
 
-2003—Subsec. (d). Pub. L. 108–136, § 921(d)(3)(B), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in heading.
+2003—Subsec. (d). Pub. L. 108–136, § 921(d)(3)(B), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in heading.
 
-Subsec. (d)(1), (2). Pub. L. 108–136, § 921(d)(3)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+Subsec. (d)(1), (2). Pub. L. 108–136, § 921(d)(3)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-Subsec. (e). Pub. L. 108–136, § 921(d)(3)(A), (C), substituted “NGA” for “NIMA” in heading and “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in text.
+Subsec. (e). Pub. L. 108–136, § 921(d)(3)(A), (C), substituted “NGA” for “NIMA” in heading and “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in text.
 
-Subsec. (f)(4). Pub. L. 108–136, § 921(d)(3)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+Subsec. (f)(4). Pub. L. 108–136, § 921(d)(3)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
 1997—Subsec. (d)(1). Pub. L. 105–85 substituted “agencies perform” for “agencies performs”.
 
-1996—Subsec. (d). Pub. L. 104–201, § 1112(c)(1)(A), substituted “Review of National Security Agency and National Imagery and Mapping Agency” for “Review of National Security Agency” in heading.
+1996—Subsec. (d). Pub. L. 104–201, § 1112(c)(1)(A), substituted “Review of National Security Agency and National Imagery and Mapping Agency” for “Review of National Security Agency” in heading.
 
-Subsec. (d)(1). Pub. L. 104–201, § 1112(c)(1)(B), inserted “and the National Imagery and Mapping Agency” after “the National Security Agency” and substituted “that the agencies” for “the Agency”.
+Subsec. (d)(1). Pub. L. 104–201, § 1112(c)(1)(B), inserted “and the National Imagery and Mapping Agency” after “the National Security Agency” and substituted “that the agencies” for “the Agency”.
 
-Subsec. (d)(2). Pub. L. 104–201, § 1112(c)(1)(C), inserted “and the National Imagery and Mapping Agency” after “the National Security Agency”.
+Subsec. (d)(2). Pub. L. 104–201, § 1112(c)(1)(C), inserted “and the National Imagery and Mapping Agency” after “the National Security Agency”.
 
-Subsec. (e). Pub. L. 104–201, § 1112(c)(2), substituted “DIA, NSA, and NIMA” for “DIA and NSA” in heading and “, the National Security Agency, and the National Imagery and Mapping Agency” for “and the National Security Agency” in text.
+Subsec. (e). Pub. L. 104–201, § 1112(c)(2), substituted “DIA, NSA, and NIMA” for “DIA and NSA” in heading and “, the National Security Agency, and the National Imagery and Mapping Agency” for “and the National Security Agency” in text.
 
-Subsec. (f)(4). Pub. L. 104–201, § 1112(c)(3), substituted “The National Imagery and Mapping Agency” for “Defense Mapping Agency”.
+Subsec. (f)(4). Pub. L. 104–201, § 1112(c)(3), substituted “The National Imagery and Mapping Agency” for “Defense Mapping Agency”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
+Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–201, div. A, title XI, § 1124, Sept. 23, 1996, 110 Stat. 2688, provided that: “This title [enacting section 424 and chapter 22 of this title and sections 3045 and 3046 of Title 50, War and National Defense, amending this section, sections 201 and 451 to 456 of this title, sections 2302, 3132, 4301, 4701, 5102, 5342, 6339, and 7323 of Title 5, Government Organization and Employees, section 105 of the Ethics in Government Act of 1978, set out in the Appendix to Title 5, section 82 of Title 14, Coast Guard, section 2006 of Title 29, Labor, section 1336 of Title 44, Public Printing and Documents, and sections 3003 and 3038 of Title 50, renumbering chapter 22 and sections 451, 452, 2792 to 2796, and 2798 of this title as chapter 23 and sections 481, 482, 451 to 455, and 456 of this title, respectively, repealing sections 424, 425, 2791, and 2797 of this title, enacting provisions set out as notes under section 441 of this title, and amending provisions set out as a note under section 501 of Title 44] and the amendments made by this title shall take effect on October 1, 1996, or the date of the enactment of this Act [Sept. 23, 1996], whichever is later.”
+Pub. L. 104–201, div. A, title XI, § 1124, Sept. 23, 1996, 110 Stat. 2688, provided that: “This title [enacting section 424 and chapter 22 of this title and sections 3045 and 3046 of Title 50, War and National Defense, amending this section, sections 201 and 451 to 456 of this title, sections 2302, 3132, 4301, 4701, 5102, 5342, 6339, and 7323 of Title 5, Government Organization and Employees, section 105 of the Ethics in Government Act of 1978, set out in the Appendix to Title 5, section 82 of Title 14, Coast Guard, section 2006 of Title 29, Labor, section 1336 of Title 44, Public Printing and Documents, and sections 3003 and 3038 of Title 50, renumbering chapter 22 and sections 451, 452, 2792 to 2796, and 2798 of this title as chapter 23 and sections 481, 482, 451 to 455, and 456 of this title, respectively, repealing sections 424, 425, 2791, and 2797 of this title, enacting provisions set out as notes under section 441 of this title, and amending provisions set out as a note under section 501 of Title 44] and the amendments made by this title shall take effect on October 1, 1996, or the date of the enactment of this Act [Sept. 23, 1996], whichever is later.”
 
 **Framework on Governance, Mission Management, Resourcing, and Effective Oversight of Combat Support Agencies That Are Also Elements of the Intelligence Community**
 
-Pub. L. 115–232, div. A, title XVI, § 1626, Aug. 13, 2018, 132 Stat. 2121, provided that:
+Pub. L. 115–232, div. A, title XVI, § 1626, Aug. 13, 2018, 132 Stat. 2121, provided that:
 
 > **“(a) Framework Required.—**
 
@@ -589,9 +589,9 @@ Pub. L. 115–232, div. A, title XVI, § 1626, Aug. 13, 2018, 132 Stat. 2121, 
 
 **First Report and Other Actions by Chairman of Joint Chiefs of Staff**
 
-Pub. L. 99–433, title III, § 304(b), Oct. 1, 1986, 100 Stat. 1025, required the first report under subsec. (a) of section 193 of this title to be submitted and subsecs. (b) and (c) of section 193 to be implemented not later than one year after Oct. 1, 1986, and a report on implementation to be submitted to Congress for 1988 under section 113(c) of this title.
+Pub. L. 99–433, title III, § 304(b), Oct. 1, 1986, 100 Stat. 1025, required the first report under subsec. (a) of section 193 of this title to be submitted and subsecs. (b) and (c) of section 193 to be implemented not later than one year after Oct. 1, 1986, and a report on implementation to be submitted to Congress for 1988 under section 113(c) of this title.
 
-### § 194. Limitations on personnel
+### § 194. Limitations on personnel
 
 **(a) Cap on Headquarters Management Personnel.—** The total number of members of the armed forces and civilian employees assigned or detailed to permanent duty in the management headquarters activities or management headquarters support activities in the Defense Agencies and Department of Defense Field Activities may not exceed the number that is the number of such members and employees assigned or detailed to such duty on September 30, 1989.
 
@@ -609,7 +609,7 @@ Pub. L. 99–433, title III, § 304(b), Oct. 1, 1986, 100 Stat. 1025, required
 
 **(f) Definitions.—** In this section, the terms “management headquarters activities” and “management headquarters support activities” have the meanings given those terms in Department of Defense Instruction 5100.73, titled “Major DoD Headquarters Activities”.
 
-(Added Pub. L. 99–433, title III, § 301(a)(2), Oct. 1, 1986, 100 Stat. 1021; amended Pub. L. 100–180, div. A, title XIII, § 1314(b)(3), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–189, div. A, title XVI, § 1622(h)(1), Nov. 29, 1989, 103 Stat. 1605; Pub. L. 113–66, div. A, title IX, § 906, Dec. 26, 2013, 127 Stat. 818.)
+(Added Pub. L. 99–433, title III, § 301(a)(2), Oct. 1, 1986, 100 Stat. 1021; amended Pub. L. 100–180, div. A, title XIII, § 1314(b)(3), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–189, div. A, title XVI, § 1622(h)(1), Nov. 29, 1989, 103 Stat. 1605; Pub. L. 113–66, div. A, title IX, § 906, Dec. 26, 2013, 127 Stat. 818.)
 
 **Editorial Notes**
 
@@ -629,11 +629,11 @@ Baseline personnel limitations in this section inapplicable to certain acquisiti
 
 **Reductions in Defense Intelligence Agency Personnel**
 
-Pub. L. 100–202, § 101(b) [title VIII, § 8122], Dec. 22, 1987, 101 Stat. 1329–43, 1329–85, provided that nothing in section 102d(1) of Public Law 100–178, 101 Stat. 1010, section 601(b)(2)(A) of Public Law 99–433, 100 Stat. 1065 [set out below], or section 601(d) of Public Law 99–433, 100 Stat. 1065 [set out below], shall be construed as requiring or suggesting that the Secretary of Defense avoid allocating personnel reductions to the Defense Intelligence Agency, prior to repeal by Pub. L. 100–456, div. A, title XII, § 1213, Sept. 29, 1988, 102 Stat. 2053.
+Pub. L. 100–202, § 101(b) [title VIII, § 8122], Dec. 22, 1987, 101 Stat. 1329–43, 1329–85, provided that nothing in section 102d(1) of Public Law 100–178, 101 Stat. 1010, section 601(b)(2)(A) of Public Law 99–433, 100 Stat. 1065 [set out below], or section 601(d) of Public Law 99–433, 100 Stat. 1065 [set out below], shall be construed as requiring or suggesting that the Secretary of Defense avoid allocating personnel reductions to the Defense Intelligence Agency, prior to repeal by Pub. L. 100–456, div. A, title XII, § 1213, Sept. 29, 1988, 102 Stat. 2053.
 
 **Reduction in Personnel Assigned to Management Headquarters Activities and Certain Other Activities**
 
-Pub. L. 99–433, title VI, § 601, Oct. 1, 1986, 100 Stat. 1064, as amended by Pub. L. 100–180, div. A, title XIII, § 1312, Dec. 4, 1987, 101 Stat. 1174; Pub. L. 101–189, div. A, title XVI, § 1622(h)(2), Nov. 29, 1989, 103 Stat. 1606, provided that:
+Pub. L. 99–433, title VI, § 601, Oct. 1, 1986, 100 Stat. 1064, as amended by Pub. L. 100–180, div. A, title XIII, § 1312, Dec. 4, 1987, 101 Stat. 1174; Pub. L. 101–189, div. A, title XVI, § 1622(h)(2), Nov. 29, 1989, 103 Stat. 1606, provided that:
 
 > **“(a) Military Departments and Combatant Commands.—**
 
@@ -687,21 +687,21 @@ Pub. L. 99–433, title VI, § 601, Oct. 1, 1986, 100 Stat. 1064, as amended b
 
 > **“(g) Definitions.—** For purposes of this section, the terms ‘management headquarters activities’ and ‘management headquarters support activities’ have the meanings given those terms in Department of Defense Directive 5100.73, entitled ‘Department of Defense Management Headquarters and Headquarters Support Activities’ and dated January 7, 1985.”
 
-### § 195. Defense Automated Printing Service: applicability of Federal printing requirements
+### § 195. Defense Automated Printing Service: applicability of Federal printing requirements
 
 The Defense Automated Printing Service shall comply fully with the requirements of section 501 of title 44 relating to the production and procurement of printing, binding, and blank-book work.
 
-(Added Pub. L. 105–85, div. A, title III, § 383(a), Nov. 18, 1997, 111 Stat. 1711.)
+(Added Pub. L. 105–85, div. A, title III, § 383(a), Nov. 18, 1997, 111 Stat. 1711.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Authority To Procure Services From Government Publishing Office**
 
-Pub. L. 105–85, div. A, title III, § 387(c), Nov. 18, 1997, 111 Stat. 1713, as amended by Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537, provided that: “Consistent with section 501 of title 44, United States Code, the Secretary of a military department or head of a Defense Agency may contract directly with the Government Publishing Office for printing and duplication services otherwise available through the Defense Automated Printing Service.”
+Pub. L. 105–85, div. A, title III, § 387(c), Nov. 18, 1997, 111 Stat. 1713, as amended by Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537, provided that: “Consistent with section 501 of title 44, United States Code, the Secretary of a military department or head of a Defense Agency may contract directly with the Government Publishing Office for printing and duplication services otherwise available through the Defense Automated Printing Service.”
 
-### [§ 196. Renumbered § 4173]
+### [§ 196. Renumbered § 4173]
 
-### § 197. Defense Logistics Agency: fees charged for logistics information
+### § 197. Defense Logistics Agency: fees charged for logistics information
 
 **(a) Authority.—** The Secretary of Defense may charge fees for providing information in the Federal Logistics Information System through Defense Logistics Information Services to a department or agency of the executive branch outside the Department of Defense, or to a State, a political subdivision of a State, or any person.
 
@@ -711,9 +711,9 @@ Pub. L. 105–85, div. A, title III, § 387(c), Nov. 18, 1997, 111 Stat. 1713,
 
 **(d) Defense Logistics Information Services Defined.—** In this section, the term “Defense Logistics Information Services” means the organization within the Defense Logistics Agency that is known as Defense Logistics Information Services.
 
-(Added Pub. L. 108–375, div. A, title X, § 1010(a), Oct. 28, 2004, 118 Stat. 2038.)
+(Added Pub. L. 108–375, div. A, title X, § 1010(a), Oct. 28, 2004, 118 Stat. 2038.)
 
-### § 198. Office of Local Defense Community Cooperation
+### § 198. Office of Local Defense Community Cooperation
 
 **(a) In General.—** There is in the Department of Defense an Office of Local Defense Community Cooperation (in this section referred to as the “Office”). The Secretary shall designate the Office as a Department of Defense Field Activity pursuant to section 191, effective as of the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283).
 
@@ -739,7 +739,7 @@ Pub. L. 105–85, div. A, title III, § 387(c), Nov. 18, 1997, 111 Stat. 1713,
 
 **(d) Annual Report to Congress.—** Not later than June 1 each year, the Director of the Office of Local Defense Community Cooperation shall submit to the congressional defense committees a report on the activities of the Office during the preceding year, including the assistance provided pursuant to subsection (c)(1) during such year.
 
-(Added Pub. L. 116–283, div. A, title IX, § 905(a)(1), Jan. 1, 2021, 134 Stat. 3798, § 146; renumbered § 198 and amended Pub. L. 117–81, div. A, title IX, § 902(a)(1)–(3), Dec. 27, 2021, 135 Stat. 1868, 1869.)
+(Added Pub. L. 116–283, div. A, title IX, § 905(a)(1), Jan. 1, 2021, 134 Stat. 3798, § 146; renumbered § 198 and amended Pub. L. 117–81, div. A, title IX, § 902(a)(1)–(3), Dec. 27, 2021, 135 Stat. 1868, 1869.)
 
 **Editorial Notes**
 
@@ -749,25 +749,25 @@ The date of the enactment of the William M. (Mac) Thornberry National Defense Au
 
 **Amendments**
 
-2021—Pub. L. 117–81, § 902(a)(1), renumbered section 146 of this title as this section.
+2021—Pub. L. 117–81, § 902(a)(1), renumbered section 146 of this title as this section.
 
-Subsec. (a). Pub. L. 117–81, § 902(a)(2), substituted “in the Department of Defense an” for “in the Office of the Secretary of Defense an office to be known as the” and inserted at end “The Secretary shall designate the Office as a Department of Defense Field Activity pursuant to section 191, effective as of the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283).”
+Subsec. (a). Pub. L. 117–81, § 902(a)(2), substituted “in the Department of Defense an” for “in the Office of the Secretary of Defense an office to be known as the” and inserted at end “The Secretary shall designate the Office as a Department of Defense Field Activity pursuant to section 191, effective as of the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283).”
 
-Subsec. (b). Pub. L. 117–81, § 902(a)(3)(A), substituted “Secretary of Defense” for “Under Secretary of Defense for Acquisition and Sustainment” in introductory provisions.
+Subsec. (b). Pub. L. 117–81, § 902(a)(3)(A), substituted “Secretary of Defense” for “Under Secretary of Defense for Acquisition and Sustainment” in introductory provisions.
 
-Subsec. (c)(4). Pub. L. 117–81, § 902(a)(3)(B), substituted “Secretary” for “Under Secretary of Defense for Acquisition and Sustainment”.
+Subsec. (c)(4). Pub. L. 117–81, § 902(a)(3)(B), substituted “Secretary” for “Under Secretary of Defense for Acquisition and Sustainment”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Limitation on Involuntary Separation of Personnel**
 
-Pub. L. 117–81, div. A, title IX, § 902(b), Dec. 27, 2021, 135 Stat. 1869, provided that: “No personnel of the Office of Local Defense Community Cooperation under section 198 of title 10, United States Code (as added by subsection (a)), may be involuntarily separated from service with that Office during the one-year period beginning on the date of the enactment of this Act [Dec. 27, 2021], except for cause.”
+Pub. L. 117–81, div. A, title IX, § 902(b), Dec. 27, 2021, 135 Stat. 1869, provided that: “No personnel of the Office of Local Defense Community Cooperation under section 198 of title 10, United States Code (as added by subsection (a)), may be involuntarily separated from service with that Office during the one-year period beginning on the date of the enactment of this Act [Dec. 27, 2021], except for cause.”
 
 **Administration of Programs**
 
-Pub. L. 117–81, div. A, title IX, § 902(c), Dec. 27, 2021, 135 Stat. 1869, provided that: “Any program, project, or other activity administered by the Office of Economic Adjustment of the Department of Defense as of the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) [Jan. 1, 2021] shall be administered by the Office of Local Defense Community Cooperation under section 198 of title 10, United States Code (as added by subsection (a)).”
+Pub. L. 117–81, div. A, title IX, § 902(c), Dec. 27, 2021, 135 Stat. 1869, provided that: “Any program, project, or other activity administered by the Office of Economic Adjustment of the Department of Defense as of the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) [Jan. 1, 2021] shall be administered by the Office of Local Defense Community Cooperation under section 198 of title 10, United States Code (as added by subsection (a)).”
 
-### § 199. Joint Interagency Task Force 401
+### § 199. Joint Interagency Task Force 401
 
 **(a) Establishment.—** There is established in the Department of Defense a joint activity to be known as the “Joint Interagency Task Force 401” (referred to in this section as the “Task Force”).
 
@@ -849,7 +849,7 @@ Pub. L. 117–81, div. A, title IX, § 902(c), Dec. 27, 2021, 135 Stat. 1869, 
 
 **(3)** The terms “small unmanned aircraft”, “unmanned aircraft”, and “unmanned aircraft system” have the meanings given those terms in section 44801 of title 49.
 
-(Added Pub. L. 119–60, div. A, title IX, § 912(a), Dec. 18, 2025, 139 Stat. 1015.)
+(Added Pub. L. 119–60, div. A, title IX, § 912(a), Dec. 18, 2025, 139 Stat. 1015.)
 
 ## SUBCHAPTER II—MISCELLANEOUS DEFENSE AGENCY MATTERS
 
@@ -857,27 +857,27 @@ Pub. L. 117–81, div. A, title IX, § 902(c), Dec. 27, 2021, 135 Stat. 1869, 
 
 **Amendments**
 
-2024—Pub. L. 118–159, div. A, title XVI, § 1649(b)(1), Dec. 23, 2024, 138 Stat. 2199, struck out item 205 “Missile Defense Agency”. Amendment was made pursuant to operation of section 102 of this title.
+2024—Pub. L. 118–159, div. A, title XVI, § 1649(b)(1), Dec. 23, 2024, 138 Stat. 2199, struck out item 205 “Missile Defense Agency”. Amendment was made pursuant to operation of section 102 of this title.
 
-2017—Pub. L. 115–91, div. A, title XVI, § 1676(c)(2), Dec. 12, 2017, 131 Stat. 1773, added item 205.
+2017—Pub. L. 115–91, div. A, title XVI, § 1676(c)(2), Dec. 12, 2017, 131 Stat. 1773, added item 205.
 
-2016—Pub. L. 114–328, div. A, title V, § 502(d)(2), Dec. 23, 2016, 130 Stat. 2102, which directed amendment of the “table of sections at the beginning of chapter 8” of this title by striking item 203, was executed by striking item 203 “Director of Missile Defense Agency” in the analysis preceding subchapter II of chapter 8 of this title to reflect the probable intent of Congress.
+2016—Pub. L. 114–328, div. A, title V, § 502(d)(2), Dec. 23, 2016, 130 Stat. 2102, which directed amendment of the “table of sections at the beginning of chapter 8” of this title by striking item 203, was executed by striking item 203 “Director of Missile Defense Agency” in the analysis preceding subchapter II of chapter 8 of this title to reflect the probable intent of Congress.
 
-2013—Pub. L. 112–239, div. A, title XVI, § 1612(b), Jan. 2, 2013, 126 Stat. 2065, added item 204.
+2013—Pub. L. 112–239, div. A, title XVI, § 1612(b), Jan. 2, 2013, 126 Stat. 2065, added item 204.
 
-2002—Pub. L. 107–314, div. A, title II, § 225(b)(1)(B)(ii), Dec. 2, 2002, 116 Stat. 2486, substituted “Missile Defense Agency” for “Ballistic Missile Defense Organization” in item 203.
+2002—Pub. L. 107–314, div. A, title II, § 225(b)(1)(B)(ii), Dec. 2, 2002, 116 Stat. 2486, substituted “Missile Defense Agency” for “Ballistic Missile Defense Organization” in item 203.
 
-1997—Pub. L. 105–107, title V, § 503(d)(1), Nov. 20, 1997, 111 Stat. 2262, struck out item 202 “Unauthorized use of Defense Intelligence Agency name, initials, or seal”.
+1997—Pub. L. 105–107, title V, § 503(d)(1), Nov. 20, 1997, 111 Stat. 2262, struck out item 202 “Unauthorized use of Defense Intelligence Agency name, initials, or seal”.
 
-Pub. L. 105–85, div. A, title II, § 235(b), Nov. 18, 1997, 111 Stat. 1665, added item 203.
+Pub. L. 105–85, div. A, title II, § 235(b), Nov. 18, 1997, 111 Stat. 1665, added item 203.
 
-1996—Pub. L. 104–201, div. A, title XI, § 1103(b), Sept. 23, 1996, 110 Stat. 2677, substituted “Certain intelligence officials: consultation and concurrence regarding appointments; evaluation of performance” for “Consultation regarding appointment of certain intelligence officials” in item 201.
+1996—Pub. L. 104–201, div. A, title XI, § 1103(b), Sept. 23, 1996, 110 Stat. 2677, substituted “Certain intelligence officials: consultation and concurrence regarding appointments; evaluation of performance” for “Consultation regarding appointment of certain intelligence officials” in item 201.
 
-1991—Pub. L. 102–190, div. A, title IX, § 922(b), Dec. 5, 1991, 105 Stat. 1453, added item 201 and redesignated former item 201 as 202.
+1991—Pub. L. 102–190, div. A, title IX, § 922(b), Dec. 5, 1991, 105 Stat. 1453, added item 201 and redesignated former item 201 as 202.
 
-1986—Pub. L. 99–433, title III, § 301(a)(2), Oct. 1, 1986, 100 Stat. 1022, added subchapter heading and analysis of sections for subchapter II.
+1986—Pub. L. 99–433, title III, § 301(a)(2), Oct. 1, 1986, 100 Stat. 1022, added subchapter heading and analysis of sections for subchapter II.
 
-### § 201. Certain intelligence officials: consultation and concurrence regarding appointments; evaluation of performance
+### § 201. Certain intelligence officials: consultation and concurrence regarding appointments; evaluation of performance
 
 **(a) Consultation Regarding Appointment.—** Before submitting a recommendation to the President regarding the appointment of an individual to the position of Director of the Defense Intelligence Agency, the Secretary of Defense shall consult with the Director of National Intelligence regarding the recommendation.
 
@@ -905,7 +905,7 @@ Pub. L. 105–85, div. A, title II, § 235(b), Nov. 18, 1997, 111 Stat. 1665, 
 
 **(C)** The Director of the National Geospatial-Intelligence Agency.
 
-(Added Pub. L. 102–190, div. A, title IX, § 922(a)(2), Dec. 5, 1991, 105 Stat. 1453; amended Pub. L. 104–201, div. A, title XI, § 1103(a), Sept. 23, 1996, 110 Stat. 2676; Pub. L. 108–136, div. A, title IX, § 921(d)(4), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 110–181, div. A, title IX, § 931(a)(4), (5), (c)(2), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, [div. A], title IX, § 932(a)(3)–(5), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, § 1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 113–291, div. A, title X, § 1071(c)(4), Dec. 19, 2014, 128 Stat. 3508.)
+(Added Pub. L. 102–190, div. A, title IX, § 922(a)(2), Dec. 5, 1991, 105 Stat. 1453; amended Pub. L. 104–201, div. A, title XI, § 1103(a), Sept. 23, 1996, 110 Stat. 2676; Pub. L. 108–136, div. A, title IX, § 921(d)(4), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 110–181, div. A, title IX, § 931(a)(4), (5), (c)(2), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, [div. A], title IX, § 932(a)(3)–(5), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, § 1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 113–291, div. A, title X, § 1071(c)(4), Dec. 19, 2014, 128 Stat. 3508.)
 
 **Editorial Notes**
 
@@ -917,17 +917,17 @@ A prior section 201 was renumbered section 202 of this title and subsequently re
 
 2014—Subsec. (b)(1). Pub. L. 113–291 substituted “(50 U.S.C. 3041(b))” for “(50 U.S.C. 403–6(b))”.
 
-2009—Subsecs. (a), (b)(1), (c)(1). Pub. L. 111–84 repealed Pub. L. 110–417, § 932(a)(3)–(5). See 2008 Amendment notes below.
+2009—Subsecs. (a), (b)(1), (c)(1). Pub. L. 111–84 repealed Pub. L. 110–417, § 932(a)(3)–(5). See 2008 Amendment notes below.
 
-2008—Subsec. (a). Pub. L. 110–181, § 931(a)(4), and Pub. L. 110–417, § 932(a)(3), amended subsec. (a) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, § 932(a)(3), was repealed by Pub. L. 111–84.
+2008—Subsec. (a). Pub. L. 110–181, § 931(a)(4), and Pub. L. 110–417, § 932(a)(3), amended subsec. (a) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, § 932(a)(3), was repealed by Pub. L. 111–84.
 
-Subsec. (b)(1). Pub. L. 110–417, § 932(a)(4), which directed substitution of “Director of National Intelligence” for “Director of Central Intelligence”, could not be executed because of the intervening amendment by Pub. L. 110–181, § 931(c)(2)(A), and was repealed by Pub. L. 111–84.
+Subsec. (b)(1). Pub. L. 110–417, § 932(a)(4), which directed substitution of “Director of National Intelligence” for “Director of Central Intelligence”, could not be executed because of the intervening amendment by Pub. L. 110–181, § 931(c)(2)(A), and was repealed by Pub. L. 111–84.
 
-Pub. L. 110–181, § 931(c)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Before submitting a recommendation to the President regarding the appointment of an individual to a position referred to in paragraph (2), the Secretary of Defense shall seek the concurrence of the Director of Central Intelligence in the recommendation. If the Director does not concur in the recommendation, the Secretary may make the recommendation to the President without the Director’s concurrence, but shall include in the recommendation a statement that the Director does not concur in the recommendation.”
+Pub. L. 110–181, § 931(c)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Before submitting a recommendation to the President regarding the appointment of an individual to a position referred to in paragraph (2), the Secretary of Defense shall seek the concurrence of the Director of Central Intelligence in the recommendation. If the Director does not concur in the recommendation, the Secretary may make the recommendation to the President without the Director’s concurrence, but shall include in the recommendation a statement that the Director does not concur in the recommendation.”
 
-Subsec. (c)(1). Pub. L. 110–181, § 931(c)(2)(B), substituted “National Intelligence Program” for “National Foreign Intelligence Program”.
+Subsec. (c)(1). Pub. L. 110–181, § 931(c)(2)(B), substituted “National Intelligence Program” for “National Foreign Intelligence Program”.
 
-Pub. L. 110–181, § 931(a)(5), and Pub. L. 110–417, § 932(a)(5), amended par. (1) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, § 932(a)(5), was repealed by Pub. L. 111–84.
+Pub. L. 110–181, § 931(a)(5), and Pub. L. 110–417, § 932(a)(5), amended par. (1) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, § 932(a)(5), was repealed by Pub. L. 111–84.
 
 2003—Subsecs. (b)(2)(C), (c)(2)(C). Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
@@ -937,7 +937,7 @@ Pub. L. 110–181, § 931(a)(5), and Pub. L. 110–417, § 932(a)(5), amende
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
+Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
 **Effective Date of 1996 Amendment**
 
@@ -945,11 +945,11 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. 
 
 **Defense Intelligence Agency**
 
-Pub. L. 102–190, div. A, title IX, § 921, Dec. 5, 1991, 105 Stat. 1452, as amended by Pub. L. 103–337, div. A, title X, § 1070(d)(1), Oct. 5, 1994, 108 Stat. 2858, provided that, during the period beginning on Dec. 5, 1991, and ending on Jan. 1, 1993, the Assistant Secretary of Defense referred to in section 138(b)(3) of this title could be assigned supervision of the Defense Intelligence Agency other than day-to-day operational control over the Agency, set forth the responsibilities of the Director of the Defense Intelligence Agency during the period beginning on Dec. 5, 1991, and ending on Jan. 1, 1993, and directed the Secretary of the Army and the Director of the Defense Intelligence Agency to take all required actions in order to transfer the Armed Forces Medical Intelligence Center and the Missile and Space Intelligence Center from the Department of the Army to the control of the Defense Intelligence Agency not later than Jan. 1, 1992.
+Pub. L. 102–190, div. A, title IX, § 921, Dec. 5, 1991, 105 Stat. 1452, as amended by Pub. L. 103–337, div. A, title X, § 1070(d)(1), Oct. 5, 1994, 108 Stat. 2858, provided that, during the period beginning on Dec. 5, 1991, and ending on Jan. 1, 1993, the Assistant Secretary of Defense referred to in section 138(b)(3) of this title could be assigned supervision of the Defense Intelligence Agency other than day-to-day operational control over the Agency, set forth the responsibilities of the Director of the Defense Intelligence Agency during the period beginning on Dec. 5, 1991, and ending on Jan. 1, 1993, and directed the Secretary of the Army and the Director of the Defense Intelligence Agency to take all required actions in order to transfer the Armed Forces Medical Intelligence Center and the Missile and Space Intelligence Center from the Department of the Army to the control of the Defense Intelligence Agency not later than Jan. 1, 1992.
 
 **Joint Intelligence Center**
 
-Pub. L. 102–190, div. A, title IX, § 923, Dec. 5, 1991, 105 Stat. 1453, provided that:
+Pub. L. 102–190, div. A, title IX, § 923, Dec. 5, 1991, 105 Stat. 1453, provided that:
 
 > **“(a) Requirement for Center.—** The Secretary of Defense shall direct the consolidation of existing single-service current intelligence centers that are located within the District of Columbia or its vicinity into a joint intelligence center that is responsible for preparing current intelligence assessments (including indications and warning). The joint intelligence center shall be located within the District of Columbia or its vicinity. As appropriate for the support of military operations, the joint intelligence center shall provide for and manage the collection and analysis of intelligence.
 
@@ -957,22 +957,22 @@ Pub. L. 102–190, div. A, title IX, § 923, Dec. 5, 1991, 105 Stat. 1453, pro
 
 > **“(c) Responsiveness to Command Authorities.—** The Secretary shall ensure that the center is fully responsive to the intelligence needs of the Secretary, the Chairman of the Joint Chiefs of Staff, and the commanders of the combatant commands.”
 
-### [§ 202. Repealed. Pub. L. 105–107, title V, § 503(c), Nov. 20, 1997, 111 Stat. 2262]
+### [§ 202. Repealed. Pub. L. 105–107, title V, § 503(c), Nov. 20, 1997, 111 Stat. 2262]
 
-Section, added Pub. L. 97–269, title V, § 501(a), Sept. 27, 1982, 96 Stat. 1145, § 191; amended Pub. L. 98–525, title XIV, § 1405(6), Oct. 19, 1984, 98 Stat. 2622; renumbered § 201, Pub. L. 99–433, title III, § 301(a)(1), Oct. 1, 1986, 100 Stat. 1019; renumbered § 202, Pub. L. 102–190, div. A, title IX, § 922(a)(1), Dec. 5, 1991, 105 Stat. 1453; Pub. L. 105–107, title V, § 503(b), Nov. 20, 1997, 111 Stat. 2262, related to unauthorized use of Defense Intelligence Agency name, initials, or seal, after amendment by Pub. L. 105–107, which transferred subsec. (b) to end of section 425.
+Section, added Pub. L. 97–269, title V, § 501(a), Sept. 27, 1982, 96 Stat. 1145, § 191; amended Pub. L. 98–525, title XIV, § 1405(6), Oct. 19, 1984, 98 Stat. 2622; renumbered § 201, Pub. L. 99–433, title III, § 301(a)(1), Oct. 1, 1986, 100 Stat. 1019; renumbered § 202, Pub. L. 102–190, div. A, title IX, § 922(a)(1), Dec. 5, 1991, 105 Stat. 1453; Pub. L. 105–107, title V, § 503(b), Nov. 20, 1997, 111 Stat. 2262, related to unauthorized use of Defense Intelligence Agency name, initials, or seal, after amendment by Pub. L. 105–107, which transferred subsec. (b) to end of section 425.
 
-### [§ 203. Repealed. Pub. L. 114–328, div. A, title V, § 502(d)(1), Dec. 23, 2016, 130 Stat. 2102]
+### [§ 203. Repealed. Pub. L. 114–328, div. A, title V, § 502(d)(1), Dec. 23, 2016, 130 Stat. 2102]
 
-Section, added Pub. L. 105–85, div. A, title II, § 235(a), Nov. 18, 1997, 111 Stat. 1665; amended Pub. L. 107–314, div. A, title II, § 225(b)(1)(A), (B)(i), Dec. 2, 2002, 116 Stat. 2486, related to appointment of Director of Missile Defense Agency.
+Section, added Pub. L. 105–85, div. A, title II, § 235(a), Nov. 18, 1997, 111 Stat. 1665; amended Pub. L. 107–314, div. A, title II, § 225(b)(1)(A), (B)(i), Dec. 2, 2002, 116 Stat. 2486, related to appointment of Director of Missile Defense Agency.
 
-### [§ 204. Renumbered § 3848]
+### [§ 204. Renumbered § 3848]
 
-### [§ 205. Repealed. Pub. L. 118–159, div. A, title XVI, § 1649(b)(1), Dec. 23, 2024, 138 Stat. 2199]
+### [§ 205. Repealed. Pub. L. 118–159, div. A, title XVI, § 1649(b)(1), Dec. 23, 2024, 138 Stat. 2199]
 
-Section, added Pub. L. 115–91, div. A, title XVI, § 1676(c)(1), Dec. 12, 2017, 131 Stat. 1773; amended Pub. L. 116–283, div. A, title XVI, § 1641(a), Jan. 1, 2021, 134 Stat. 4061; Pub. L. 117–81, div. A, title XVI, § 1661(a), Dec. 27, 2021, 135 Stat. 2101; Pub. L. 118–31, div. A, title XVI, § 1661, Dec. 22, 2023, 137 Stat. 602, related to the Missile Defense Agency. See section 5502 of this title.
+Section, added Pub. L. 115–91, div. A, title XVI, § 1676(c)(1), Dec. 12, 2017, 131 Stat. 1773; amended Pub. L. 116–283, div. A, title XVI, § 1641(a), Jan. 1, 2021, 134 Stat. 4061; Pub. L. 117–81, div. A, title XVI, § 1661(a), Dec. 27, 2021, 135 Stat. 2101; Pub. L. 118–31, div. A, title XVI, § 1661, Dec. 22, 2023, 137 Stat. 602, related to the Missile Defense Agency. See section 5502 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Application**
 
-Pub. L. 115–91, div. A, title XVI, § 1676(c)(3), Dec. 12, 2017, 131 Stat. 1773, as amended by Pub. L. 117–81, div. A, title XVI, § 1671(d)(1), Dec. 27, 2021, 135 Stat. 2113, related to applicability of subsecs. (a) and (b) of former section 205 of this title.
+Pub. L. 115–91, div. A, title XVI, § 1676(c)(3), Dec. 12, 2017, 131 Stat. 1773, as amended by Pub. L. 117–81, div. A, title XVI, § 1671(d)(1), Dec. 27, 2021, 135 Stat. 2113, related to applicability of subsecs. (a) and (b) of former section 205 of this title.

@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1984—Pub. L. 98–473, title II, § 213(b), Oct. 12, 1984, 98 Stat. 2013, added item 3742.
+1984—Pub. L. 98–473, title II, § 213(b), Oct. 12, 1984, 98 Stat. 2013, added item 3742.
 
-## § 3731. Appeal by United States
+## § 3731. Appeal by United States
 
 In a criminal case an appeal by the United States shall lie to a court of appeals from a decision, judgment, or order of a district court dismissing an indictment or information or granting a new trial after verdict or judgment, as to any one or more counts, or any part thereof, except that no appeal shall lie where the double jeopardy clause of the United States Constitution prohibits further prosecution.
 
@@ -33,13 +33,13 @@ The appeal in all such cases shall be taken within thirty days after the decisio
 
 The provisions of this section shall be liberally construed to effectuate its purposes.
 
-(June 25, 1948, ch. 645, 62 Stat. 844; May 24, 1949, ch. 139, § 58, 63 Stat. 97; Pub. L. 90–351, title VIII, § 1301, June 19, 1968, 82 Stat. 237; Pub. L. 91–644, title III, § 14(a), Jan. 2, 1971, 84 Stat. 1890; Pub. L. 98–473, title II, §§ 205, 1206, Oct. 12, 1984, 98 Stat. 1986, 2153; Pub. L. 99–646, § 32, Nov. 10, 1986, 100 Stat. 3598; Pub. L. 103–322, title XXXIII, § 330008(4), Sept. 13, 1994, 108 Stat. 2142; Pub. L. 107–273, div. B, title III, § 3004, Nov. 2, 2002, 116 Stat. 1805.)
+(June 25, 1948, ch. 645, 62 Stat. 844; May 24, 1949, ch. 139, § 58, 63 Stat. 97; Pub. L. 90–351, title VIII, § 1301, June 19, 1968, 82 Stat. 237; Pub. L. 91–644, title III, § 14(a), Jan. 2, 1971, 84 Stat. 1890; Pub. L. 98–473, title II, §§ 205, 1206, Oct. 12, 1984, 98 Stat. 1986, 2153; Pub. L. 99–646, § 32, Nov. 10, 1986, 100 Stat. 3598; Pub. L. 103–322, title XXXIII, § 330008(4), Sept. 13, 1994, 108 Stat. 2142; Pub. L. 107–273, div. B, title III, § 3004, Nov. 2, 2002, 116 Stat. 1805.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 18, U.S.C., 1940 ed., § 682 (Mar. 2, 1907, ch. 2564, 34 Stat. 1246; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54; May 9, 1942, ch. 295, § 1, 56 Stat. 271).
+Based on title 18, U.S.C., 1940 ed., § 682 (Mar. 2, 1907, ch. 2564, 34 Stat. 1246; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54; May 9, 1942, ch. 295, § 1, 56 Stat. 271).
 
 The word “dismissing” was substituted for “sustaining a motion to dismiss” in two places for conciseness and clarity, there being no difference in effect of a decision of dismissal whether made on motion or by the court sua sponte.
 
@@ -53,27 +53,27 @@ This section [section 58] corrects a typographical error in the second paragraph
 
 **Amendments**
 
-2002—First par. Pub. L. 107–273 inserted “, or any part thereof” after “as to any one or more counts”.
+2002—First par. Pub. L. 107–273 inserted “, or any part thereof” after “as to any one or more counts”.
 
 1994—Second par. Pub. L. 103–322 substituted “order of a district court” for “order of a district courts”.
 
 1986—Fifth par. Pub. L. 99–646 struck out fifth par. which read as follows: “Pending the prosecution and determination of the appeal in the foregoing instances, the defendant shall be released in accordance with chapter 207 of this title.”
 
-1984—First par. Pub. L. 98–473, § 1206, inserted “or granting a new trial after verdict or judgment,” after “indictment or information”.
+1984—First par. Pub. L. 98–473, § 1206, inserted “or granting a new trial after verdict or judgment,” after “indictment or information”.
 
-Third par. Pub. L. 98–473, § 205, inserted third par. relating to appeals from a decision or order, entered by a district court of the United States, granting the release of a person charged with or convicted of an offense, or denying a motion for revocation of, or modification of the conditions of, a decision or order granting release.
+Third par. Pub. L. 98–473, § 205, inserted third par. relating to appeals from a decision or order, entered by a district court of the United States, granting the release of a person charged with or convicted of an offense, or denying a motion for revocation of, or modification of the conditions of, a decision or order granting release.
 
-1971—First par. Pub. L. 91–644, § 14(a)(1), enacted provision for appeal to a court of appeals from decision, judgment, or order of district court dismissing an indictment or information as to any one or more counts, except that no appeal shall lie where double jeopardy prohibits further prosecution.
+1971—First par. Pub. L. 91–644, § 14(a)(1), enacted provision for appeal to a court of appeals from decision, judgment, or order of district court dismissing an indictment or information as to any one or more counts, except that no appeal shall lie where double jeopardy prohibits further prosecution.
 
-Second par. Pub. L. 91–644, § 14(a)(1), enacted provision for appeal to a court of appeals from decision or order of district court suppressing or excluding evidence or requiring the return of seized property in a criminal proceeding, not made after the defendant has been put in jeopardy and before the verdict or finding on an indictment or information, if the United States attorney certifies to the district court that the appeal is not taken for purpose of delay and that the evidence is a substantial proof of a fact material in the proceeding.
+Second par. Pub. L. 91–644, § 14(a)(1), enacted provision for appeal to a court of appeals from decision or order of district court suppressing or excluding evidence or requiring the return of seized property in a criminal proceeding, not made after the defendant has been put in jeopardy and before the verdict or finding on an indictment or information, if the United States attorney certifies to the district court that the appeal is not taken for purpose of delay and that the evidence is a substantial proof of a fact material in the proceeding.
 
 Such first and second pars. superseded former first eight pars. Pars. one through four had provided for appeal from district courts to Supreme Court from decision or judgment setting aside, or dismissing any indictment or information, or any count thereof and from decision arresting judgment of conviction for insufficiency of indictment or information, where such decision or judgment was based upon invalidity or construction of the statute upon which the indictment or information was founded and for an appeal from decision or judgment sustaining a motion in bar, where defendant had not been put in jeopardy. Pars. five through eight provided for appeal from district courts to a court of appeals where there were no provisions for direct appeal to Supreme Court from decision or judgment setting aside, or dismissing any indictment or information, or any count thereof and from decision arresting a judgment of conviction, and from an order, granting a motion for return of seized property or a motion to suppress evidence, made before trial of a person charged with violation of a Federal law, if the United States attorney certified to the judge who granted the motion that the appeal was not taken for purpose of delay and that the evidence was a substantial proof of the charge pending against the defendant.
 
-Third par. Pub. L. 91–644, § 14(a)(2), authorized within third par., formerly ninth, an appeal within thirty days after order has been rendered.
+Third par. Pub. L. 91–644, § 14(a)(2), authorized within third par., formerly ninth, an appeal within thirty days after order has been rendered.
 
-Fourth par. Pub. L. 91–644, § 14(a), in revising the provisions, had the effect of designating former tenth par. as fourth par.
+Fourth par. Pub. L. 91–644, § 14(a), in revising the provisions, had the effect of designating former tenth par. as fourth par.
 
-Fifth par. Pub. L. 91–644, § 14(a)(3), substituted as a fifth par. provision for liberal construction of this section for prior eleventh par. provision respecting remand of case by Supreme Court to court of appeals that should have been taken to such court and treatment of the court’s jurisdiction to hear and determine the case as if the appeal were so taken in the first instance and for prior twelfth par. provision respecting certification of case to Supreme Court that should have been taken directly to such Court and treatment of the Court’s jurisdiction to hear and determine the case as if the appeal were taken directly to such Court.
+Fifth par. Pub. L. 91–644, § 14(a)(3), substituted as a fifth par. provision for liberal construction of this section for prior eleventh par. provision respecting remand of case by Supreme Court to court of appeals that should have been taken to such court and treatment of the court’s jurisdiction to hear and determine the case as if the appeal were so taken in the first instance and for prior twelfth par. provision respecting certification of case to Supreme Court that should have been taken directly to such Court and treatment of the Court’s jurisdiction to hear and determine the case as if the appeal were taken directly to such Court.
 
 1968—Pub. L. 90–351 inserted eighth par. providing for an appeal by the United States from decisions sustaining motions to suppress evidence and substituted in tenth par. “defendant shall be released in accordance with chapter 207 of this title” for “defendant shall be admitted to bail on his own recognizance”, respectively.
 
@@ -83,9 +83,9 @@ Fifth par. Pub. L. 91–644, § 14(a)(3), substituted as a fifth par. provisio
 
 **Savings Provision**
 
-Pub. L. 91–644, title III, § 14(b), Jan. 2, 1971, 84 Stat. 1890, provided that: “The amendments made by this section [amending this section] shall not apply with respect to any criminal case begun in any district court before the effective date of this section [Jan. 2, 1971].”
+Pub. L. 91–644, title III, § 14(b), Jan. 2, 1971, 84 Stat. 1890, provided that: “The amendments made by this section [amending this section] shall not apply with respect to any criminal case begun in any district court before the effective date of this section [Jan. 2, 1971].”
 
-## § 3732. Taking of appeal; notice; time—(Rule)
+## § 3732. Taking of appeal; notice; time—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -99,7 +99,7 @@ Taking appeal; notice, contents, signing; time, Rule 37(a).
 
 Rule 37 of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1967, eff. July 1, 1968, and is covered by Rule 3, Federal Rules of Appellate Procedure, set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-## § 3733. Assignment of errors—(Rule)
+## § 3733. Assignment of errors—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -115,7 +115,7 @@ Necessity of specific objection in order to assign error in instructions, Rule 3
 
 Rule 37 of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1947, eff. July 1, 1968, and is covered by Rule 3, Federal Rules of Appellate Procedure, set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-## § 3734. Bill of exceptions abolished—(Rule)
+## § 3734. Bill of exceptions abolished—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -131,7 +131,7 @@ Bill of exceptions not required, Rule 37(a)(1).
 
 Rule 37 of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1967, eff. July 1, 1968, and is covered by Rule 3, Federal Rules of Appellate Procedure, set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-## § 3735. Bail on appeal or certiorari—(Rule)
+## § 3735. Bail on appeal or certiorari—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -147,7 +147,7 @@ Rule 38(c) of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1967
 
 Rule 46 was amended as part of the Bail Reform Act in 1966 and in 1972, and some provisions originally contained in Rule 46 are covered by this chapter, see Notes of Advisory Committee on Rules and Amendment notes under Rule 46, this Appendix.
 
-## § 3736. Certiorari—(Rule)
+## § 3736. Certiorari—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -161,7 +161,7 @@ Petition to Supreme Court, time, Rule 37(b).
 
 Rule 37 of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1967, eff. July 1, 1968. Provisions of such former rule for certiorari are covered by rule 19 et seq. of the Rules of the United States Supreme Court.
 
-## § 3737. Record—(Rule)
+## § 3737. Record—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -179,7 +179,7 @@ Bill of exceptions unnecessary, Rule 37(a)(1).
 
 Rules 37 and 39 of the Federal Rules of Criminal Procedure were abrogated Dec. 4, 1967, eff. July 1, 1968, and are covered by Rule 10, Federal Rules of Appellate Procedure, set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-## § 3738. Docketing appeal and record—(Rule)
+## § 3738. Docketing appeal and record—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -193,7 +193,7 @@ Filing record on appeal and docketing proceeding; time, Rule 39(c).
 
 Rule 39 of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1967, eff. July 1, 1968, and is covered by Rules 10 to 12, Federal Rules of Appellate Procedure, set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-## § 3739. Supervision—(Rule)
+## § 3739. Supervision—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -207,7 +207,7 @@ Control and supervision in appellate court, Rule 39(a).
 
 Rule 39 of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1967, eff. July 1, 1968, and is covered by Rule 27, Federal Rules of Appellate Procedure, set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-## § 3740. Argument—(Rule)
+## § 3740. Argument—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -221,7 +221,7 @@ Setting appeal for argument; preference to criminal appeals, Rule 39(d).
 
 Rule 39 of the Federal Rules of Criminal Procedure was abrogated Dec. 4, 1967, eff. July 1, 1968, and is covered by Rule 34, Federal Rules of Appellate Procedure, set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-## § 3741. Harmless error and plain error—(Rule)
+## § 3741. Harmless error and plain error—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -233,7 +233,7 @@ Waiver of error, Rules 12(b)(2) and 30.
 
 (June 25, 1948, ch. 645, 62 Stat. 846.)
 
-## § 3742. Review of a sentence
+## § 3742. Review of a sentence
 
 **(a) Appeal by a Defendant.—** A defendant may file a notice of appeal in the district court for review of an otherwise final sentence if the sentence—
 
@@ -241,9 +241,9 @@ Waiver of error, Rules 12(b)(2) and 30.
 
 **(2)** was imposed as a result of an incorrect application of the sentencing guidelines; or
 
-**(3)** is greater than the sentence specified in the applicable guideline range to the extent that the sentence includes a greater fine or term of imprisonment, probation, or supervised release than the maximum established in the guideline range, or includes a more limiting condition of probation or supervised release under section 3563(b)(6) or (b)(11) 1
+**(3)** is greater than the sentence specified in the applicable guideline range to the extent that the sentence includes a greater fine or term of imprisonment, probation, or supervised release than the maximum established in the guideline range, or includes a more limiting condition of probation or supervised release under section 3563(b)(6) or (b)(11) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 than the maximum established in the guideline range; or
 
@@ -255,7 +255,7 @@ than the maximum established in the guideline range; or
 
 **(2)** was imposed as a result of an incorrect application of the sentencing guidelines;
 
-**(3)** is less than the sentence specified in the applicable guideline range to the extent that the sentence includes a lesser fine or term of imprisonment, probation, or supervised release than the minimum established in the guideline range, or includes a less limiting condition of probation or supervised release under section 3563(b)(6) or (b)(11) <sup>1</sup> than the minimum established in the guideline range; or
+**(3)** is less than the sentence specified in the applicable guideline range to the extent that the sentence includes a lesser fine or term of imprisonment, probation, or supervised release than the minimum established in the guideline range, or includes a less limiting condition of probation or supervised release under section 3563(b)(6) or (b)(11) <sup>1</sup> than the minimum established in the guideline range; or
 
 **(4)** was imposed for an offense for which there is no sentencing guideline and is plainly unreasonable.
 
@@ -337,13 +337,13 @@ The court of appeals shall give due regard to the opportunity of the district co
 
 **(2)** a factor is an “impermissible” ground of departure if it is not a permissible factor within the meaning of subsection (j)(1).
 
-(Added Pub. L. 98–473, title II, § 213(a), Oct. 12, 1984, 98 Stat. 2011; amended Pub. L. 99–646, § 73(a), Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–182, §§ 4–6, Dec. 7, 1987, 101 Stat. 1266, 1267; Pub. L. 100–690, title VII, § 7103(a), Nov. 18, 1988, 102 Stat. 4416; Pub. L. 101–647, title XXXV, §§ 3501, 3503, Nov. 29, 1990, 104 Stat. 4921; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title XXXIII, § 330002(k), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 108–21, title IV, § 401(d)–(f), Apr. 30, 2003, 117 Stat. 670, 671.)
+(Added Pub. L. 98–473, title II, § 213(a), Oct. 12, 1984, 98 Stat. 2011; amended Pub. L. 99–646, § 73(a), Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–182, §§ 4–6, Dec. 7, 1987, 101 Stat. 1266, 1267; Pub. L. 100–690, title VII, § 7103(a), Nov. 18, 1988, 102 Stat. 4416; Pub. L. 101–647, title XXXV, §§ 3501, 3503, Nov. 29, 1990, 104 Stat. 4921; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title XXXIII, § 330002(k), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 108–21, title IV, § 401(d)–(f), Apr. 30, 2003, 117 Stat. 670, 671.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3563(b)(6) or (b)(11), referred to in subsecs. (a)(3) and (b)(3), was renumbered section 3563(b)(5) or (b)(10) by Pub. L. 104–132, title II, § 203(2)(B), Apr. 24, 1996, 110 Stat. 1227.
+Section 3563(b)(6) or (b)(11), referred to in subsecs. (a)(3) and (b)(3), was renumbered section 3563(b)(5) or (b)(10) by Pub. L. 104–132, title II, § 203(2)(B), Apr. 24, 1996, 110 Stat. 1227.
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (c), are set out in the Appendix of this title.
 
@@ -353,91 +353,91 @@ For information regarding the constitutionality of certain provisions of this se
 
 **Amendments**
 
-2003—Subsec. (e). Pub. L. 108–21, § 401(d)(2), in concluding provisions, substituted “, except with respect to determinations under subsection (3)(A) or (3)(B), shall give due deference to the district court’s application of the guidelines to the facts. With respect to determinations under subsection (3)(A) or (3)(B), the court of appeals shall review de novo the district court’s application of the guidelines to the facts” for “shall give due deference to the district court’s application of the guidelines to the facts”.
+2003—Subsec. (e). Pub. L. 108–21, § 401(d)(2), in concluding provisions, substituted “, except with respect to determinations under subsection (3)(A) or (3)(B), shall give due deference to the district court’s application of the guidelines to the facts. With respect to determinations under subsection (3)(A) or (3)(B), the court of appeals shall review de novo the district court’s application of the guidelines to the facts” for “shall give due deference to the district court’s application of the guidelines to the facts”.
 
-Subsec. (e)(3). Pub. L. 108–21, § 401(d)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “is outside the applicable guideline range, and is unreasonable, having regard for—
+Subsec. (e)(3). Pub. L. 108–21, § 401(d)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “is outside the applicable guideline range, and is unreasonable, having regard for—
 
 “(A) the factors to be considered in imposing a sentence, as set forth in chapter 227 of this title; and
 
 “(B) the reasons for the imposition of the particular sentence, as stated by the district court pursuant to the provisions of section 3553(c); or”.
 
-Subsec. (f). Pub. L. 108–21, § 401(d)(3)(A), struck out “the sentence” before dash at end of introductory provisions.
+Subsec. (f). Pub. L. 108–21, § 401(d)(3)(A), struck out “the sentence” before dash at end of introductory provisions.
 
-Subsec. (f)(1). Pub. L. 108–21, § 401(d)(3)(B), inserted “the sentence” before “was imposed”.
+Subsec. (f)(1). Pub. L. 108–21, § 401(d)(3)(B), inserted “the sentence” before “was imposed”.
 
-Subsec. (f)(2). Pub. L. 108–21, § 401(d)(3)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “is outside the applicable guideline range and is unreasonable or was imposed for an offense for which there is no applicable sentencing guideline and is plainly unreasonable, it shall state specific reasons for its conclusions and—
+Subsec. (f)(2). Pub. L. 108–21, § 401(d)(3)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “is outside the applicable guideline range and is unreasonable or was imposed for an offense for which there is no applicable sentencing guideline and is plainly unreasonable, it shall state specific reasons for its conclusions and—
 
 “(A) if it determines that the sentence is too high and the appeal has been filed under subsection (a), it shall set aside the sentence and remand the case for further sentencing proceedings with such instructions as the court considers appropriate;
 
 “(B) if it determines that the sentence is too low and the appeal has been filed under subsection (b), it shall set aside the sentence and remand the case for further sentencing proceedings with such instructions as the court considers appropriate;”.
 
-Subsec. (f)(3). Pub. L. 108–21, § 401(d)(3)(D), inserted “the sentence” before “is not described”.
+Subsec. (f)(3). Pub. L. 108–21, § 401(d)(3)(D), inserted “the sentence” before “is not described”.
 
-Subsecs. (g) to (i). Pub. L. 108–21, § 401(e), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
+Subsecs. (g) to (i). Pub. L. 108–21, § 401(e), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
-Subsec. (j). Pub. L. 108–21, § 401(f), added subsec. (j).
+Subsec. (j). Pub. L. 108–21, § 401(f), added subsec. (j).
 
 1994—Subsec. (b). Pub. L. 103–322 struck out comma after “Government” in introductory provisions.
 
-1990—Subsec. (b). Pub. L. 101–647, § 3501, struck out “, with the personal approval of the Attorney General or the Solicitor General” after “The Government” in introductory provisions and inserted at end “The Government may not further prosecute such appeal without the personal approval of the Attorney General, the Solicitor General, or a deputy solicitor general designated by the Solicitor General.”
+1990—Subsec. (b). Pub. L. 101–647, § 3501, struck out “, with the personal approval of the Attorney General or the Solicitor General” after “The Government” in introductory provisions and inserted at end “The Government may not further prosecute such appeal without the personal approval of the Attorney General, the Solicitor General, or a deputy solicitor general designated by the Solicitor General.”
 
-Subsec. (g). Pub. L. 101–647, § 3503, inserted “(except for the requirement of approval by the Attorney General or the Solicitor General in the case of a Government appeal)” after “and this section shall apply”.
+Subsec. (g). Pub. L. 101–647, § 3503, inserted “(except for the requirement of approval by the Attorney General or the Solicitor General in the case of a Government appeal)” after “and this section shall apply”.
 
-1988—Subsec. (a)(2). Pub. L. 100–690, § 7103(a)(1), struck out “issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)” after “guidelines”.
+1988—Subsec. (a)(2). Pub. L. 100–690, § 7103(a)(1), struck out “issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)” after “guidelines”.
 
-Subsec. (a)(3). Pub. L. 100–690, § 7103(a)(2), added par. (3) and struck out former par. (3) which read as follows: “was imposed for an offense for which a sentencing guideline has been issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(1), and the sentence is greater than—
+Subsec. (a)(3). Pub. L. 100–690, § 7103(a)(2), added par. (3) and struck out former par. (3) which read as follows: “was imposed for an offense for which a sentencing guideline has been issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(1), and the sentence is greater than—
 
 “(A) the sentence specified in the applicable guideline to the extent that the sentence includes a greater fine or term of imprisonment or term of supervised release than the maximum established in the guideline, or includes a more limiting condition of probation or supervised release under section 3563(b)(6) or (b)(11) than the maximum established in the guideline; and
 
 “(B) the sentence specified in a plea agreement, if any, under Rule 11(e)(1)(B) or (e)(1)(C) of the Federal Rules of Criminal Procedure; or”.
 
-Subsec. (a)(4). Pub. L. 100–690, § 7103(a)(4), added par. (4) and struck out former par. (4) which read as follows: “was imposed for an offense for which no sentencing guideline has been issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(1) and is plainly unreasonable or greater than the sentence specified in a plea agreement under Rule 11(e)(1)(B) or (e)(1)(C) of the Federal Rules of Criminal Procedure.”
+Subsec. (a)(4). Pub. L. 100–690, § 7103(a)(4), added par. (4) and struck out former par. (4) which read as follows: “was imposed for an offense for which no sentencing guideline has been issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(1) and is plainly unreasonable or greater than the sentence specified in a plea agreement under Rule 11(e)(1)(B) or (e)(1)(C) of the Federal Rules of Criminal Procedure.”
 
-Subsec. (b). Pub. L. 100–690, § 7103(a)(5), inserted “, with the personal approval of the Attorney General or the Solicitor General,” after “The Government” in introductory provisions, and struck out concluding provisions which read as follows: “and the Attorney General or the Solicitor General personally approves the filing of the notice of appeal.”
+Subsec. (b). Pub. L. 100–690, § 7103(a)(5), inserted “, with the personal approval of the Attorney General or the Solicitor General,” after “The Government” in introductory provisions, and struck out concluding provisions which read as follows: “and the Attorney General or the Solicitor General personally approves the filing of the notice of appeal.”
 
-Subsec. (b)(2). Pub. L. 100–690, § 7103(a)(1), struck out “issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)” after “guidelines”.
+Subsec. (b)(2). Pub. L. 100–690, § 7103(a)(1), struck out “issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)” after “guidelines”.
 
-Subsec. (b)(3). Pub. L. 100–690, § 7103(a)(3), added par. (3) and struck out former par. (3) which read as follows: “was imposed for an offense for which a sentencing guideline has been issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(1), and the sentence is less than—
+Subsec. (b)(3). Pub. L. 100–690, § 7103(a)(3), added par. (3) and struck out former par. (3) which read as follows: “was imposed for an offense for which a sentencing guideline has been issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(1), and the sentence is less than—
 
 “(A) the sentence specified in the applicable guideline to the extent that the sentence includes a lesser fine or term of imprisonment or term of supervised release than the minimum established in the guideline, or includes a less limiting condition of probation or supervised release under section 3563(b)(6) or (b)(11) than the minimum established in the guideline; and
 
 “(B) the sentence specified in a plea agreement, if any, under Rule 11(e)(1)(B) or (e)(1)(C) of the Federal Rules of Criminal Procedure; or”.
 
-Subsec. (b)(4). Pub. L. 100–690, § 7103(a)(5)(A), added par. (4) and struck out former par. (4) which read as follows: “was imposed for an offense for which no sentencing guideline has been issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(1) and is plainly unreasonable or less than the sentence specified in a plea agreement under Rule 11(e)(1)(B) or (e)(1)(C) of the Federal Rules of Criminal Procedure;”.
+Subsec. (b)(4). Pub. L. 100–690, § 7103(a)(5)(A), added par. (4) and struck out former par. (4) which read as follows: “was imposed for an offense for which no sentencing guideline has been issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(1) and is plainly unreasonable or less than the sentence specified in a plea agreement under Rule 11(e)(1)(B) or (e)(1)(C) of the Federal Rules of Criminal Procedure;”.
 
-Subsec. (c). Pub. L. 100–690, § 7103(a)(8), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 100–690, § 7103(a)(8), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 100–690, § 7103(a)(8), redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 100–690, § 7103(a)(8), redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Pub. L. 100–690, § 7103(a)(6), (7), substituted “applicable guideline range” for “range of the applicable sentencing guideline” in par. (3) and inserted “and shall give due deference to the district court’s application of the guidelines to the facts” after “are clearly erroneous” in concluding provisions.
+Pub. L. 100–690, § 7103(a)(6), (7), substituted “applicable guideline range” for “range of the applicable sentencing guideline” in par. (3) and inserted “and shall give due deference to the district court’s application of the guidelines to the facts” after “are clearly erroneous” in concluding provisions.
 
-Subsec. (e). Pub. L. 100–690, § 7103(a)(8), redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 100–690, § 7103(a)(8), redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (e)(2). Pub. L. 100–690, § 7103(a)(6), substituted “applicable guideline range” for “range of the applicable sentencing guideline”.
+Subsec. (e)(2). Pub. L. 100–690, § 7103(a)(6), substituted “applicable guideline range” for “range of the applicable sentencing guideline”.
 
-Subsecs. (f), (g). Pub. L. 100–690, § 7103(a)(8), redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
+Subsecs. (f), (g). Pub. L. 100–690, § 7103(a)(8), redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
-Subsec. (h). Pub. L. 100–690, § 7103(a)(9), added subsec. (h).
+Subsec. (h). Pub. L. 100–690, § 7103(a)(9), added subsec. (h).
 
-1987—Subsec. (a)(4). Pub. L. 100–182, § 5(1), substituted “and is plainly unreasonable or greater than the sentence specified in a plea agreement under” for “and is greater than the sentence specified in a plea agreement, if any, under”.
+1987—Subsec. (a)(4). Pub. L. 100–182, § 5(1), substituted “and is plainly unreasonable or greater than the sentence specified in a plea agreement under” for “and is greater than the sentence specified in a plea agreement, if any, under”.
 
-Subsec. (b)(4). Pub. L. 100–182, § 5(2), substituted “and is plainly unreasonable or less than the sentence specified in a plea agreement under” for “and is less than the sentence specified in a plea agreement, if any, under”.
+Subsec. (b)(4). Pub. L. 100–182, § 5(2), substituted “and is plainly unreasonable or less than the sentence specified in a plea agreement under” for “and is less than the sentence specified in a plea agreement, if any, under”.
 
-Subsec. (d)(4). Pub. L. 100–182, § 5(3), added par. (4).
+Subsec. (d)(4). Pub. L. 100–182, § 5(3), added par. (4).
 
-Subsec. (e)(2). Pub. L. 100–182, § 5(4), inserted “or was imposed for an offense for which there is no applicable sentencing guideline and is plainly unreasonable” in introductory provisions.
+Subsec. (e)(2). Pub. L. 100–182, § 5(4), inserted “or was imposed for an offense for which there is no applicable sentencing guideline and is plainly unreasonable” in introductory provisions.
 
-Subsec. (e)(2)(A), (B). Pub. L. 100–182, § 5(5), substituted “and” for “the court shall” before “remand”.
+Subsec. (e)(2)(A), (B). Pub. L. 100–182, § 5(5), substituted “and” for “the court shall” before “remand”.
 
-Subsec. (e)(3). Pub. L. 100–182, § 6, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “was not imposed in violation of law or imposed as a result of an incorrect application of the sentencing guidelines, and is not unreasonable, it shall affirm the sentence.”
+Subsec. (e)(3). Pub. L. 100–182, § 6, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “was not imposed in violation of law or imposed as a result of an incorrect application of the sentencing guidelines, and is not unreasonable, it shall affirm the sentence.”
 
-Subsec. (f). Pub. L. 100–182, § 4, added subsec. (f).
+Subsec. (f). Pub. L. 100–182, § 4, added subsec. (f).
 
-1986—Subsec. (e)(1). Pub. L. 99–646, § 73(a)(1), substituted provision directing the court to remand the case for further sentencing proceedings with such instructions as the court considers appropriate, for provision directing the court to remand the case for further sentencing proceedings or correct the sentence.
+1986—Subsec. (e)(1). Pub. L. 99–646, § 73(a)(1), substituted provision directing the court to remand the case for further sentencing proceedings with such instructions as the court considers appropriate, for provision directing the court to remand the case for further sentencing proceedings or correct the sentence.
 
-Subsec. (e)(2)(A). Pub. L. 99–646, § 73(a)(2), substituted provision directing the court to remand the case for further sentencing proceedings with such instructions as the court considers appropriate for provision directing the court to remand the case for imposition of a lesser sentence, remand the case for further sentencing proceedings, or impose a lesser sentence.
+Subsec. (e)(2)(A). Pub. L. 99–646, § 73(a)(2), substituted provision directing the court to remand the case for further sentencing proceedings with such instructions as the court considers appropriate for provision directing the court to remand the case for imposition of a lesser sentence, remand the case for further sentencing proceedings, or impose a lesser sentence.
 
-Subsec. (e)(2)(B). Pub. L. 99–646, § 73(a)(2), substituted provision directing the court to remand the case for further sentencing proceedings with such instructions as the court considers appropriate, for provision directing the court to remand the case for imposition of a greater sentence, remand the case for further sentencing proceedings, or impose a greater sentence.
+Subsec. (e)(2)(B). Pub. L. 99–646, § 73(a)(2), substituted provision directing the court to remand the case for further sentencing proceedings with such instructions as the court considers appropriate, for provision directing the court to remand the case for imposition of a greater sentence, remand the case for further sentencing proceedings, or impose a greater sentence.
 
 **Statutory Notes and Related Subsidiaries**
 

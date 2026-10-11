@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 109—ANIMAL HEALTH PROTECTION
 
-## § 8301. Findings
+## § 8301. Findings
 
 Congress finds that—
 
@@ -49,25 +49,25 @@ Congress finds that—
 
 **(iii)** to protect the agriculture, environment, economy, and health and welfare of the people of the United States.
 
-(Pub. L. 107–171, title X, § 10402, May 13, 2002, 116 Stat. 494.)
+(Pub. L. 107–171, title X, § 10402, May 13, 2002, 116 Stat. 494.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in pars. (2) and (5)(A), was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in pars. (2) and (5)(A), was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out below and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 107–171, title X, § 10401, May 13, 2002, 116 Stat. 494, provided that: “This subtitle [subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, enacting this chapter, amending sections 7714 and 7733 of this title, section 1540 of Title 16, Conservation, and sections 136a and 618 of Title 21, Food and Drugs, and repealing sections 429, 2260, 2260a of this title, section 1306 of Title 19, Customs Duties, sections 102 to 105, 111, 112, 113, 114 to 114d–1, 114e to 114h, 115 to 131, 134 to 135b, 612 to 614 of Title 21, sections 3901 and 3902 of Title 46, Shipping, and provisions set out as a note under section 129a of Title 21] may be cited as the ‘Animal Health Protection Act’.”
+Pub. L. 107–171, title X, § 10401, May 13, 2002, 116 Stat. 494, provided that: “This subtitle [subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, enacting this chapter, amending sections 7714 and 7733 of this title, section 1540 of Title 16, Conservation, and sections 136a and 618 of Title 21, Food and Drugs, and repealing sections 429, 2260, 2260a of this title, section 1306 of Title 19, Customs Duties, sections 102 to 105, 111, 112, 113, 114 to 114d–1, 114e to 114h, 115 to 131, 134 to 135b, 612 to 614 of Title 21, sections 3901 and 3902 of Title 46, Shipping, and provisions set out as a note under section 129a of Title 21] may be cited as the ‘Animal Health Protection Act’.”
 
 **Transfer of Functions**
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 8302. Definitions
+## § 8302. Definitions
 
 In this chapter:
 
@@ -175,13 +175,13 @@ The term “United States” means all of the States.
 
 The term “veterinary countermeasure” means any biological product (including an animal vaccine or diagnostic), pharmaceutical product (including a therapeutic), non-pharmaceutical product (including a disinfectant), or other product or equipment to prevent, detect, respond to, or mitigate harm to public or animal health resulting from, animal pests or diseases.
 
-(Pub. L. 107–171, title X, § 10403, May 13, 2002, 116 Stat. 494; Pub. L. 115–334, title XII, § 12101(a), Dec. 20, 2018, 132 Stat. 4937; Pub. L. 117–328, div. HH, title V, § 603, Dec. 29, 2022, 136 Stat. 5996.)
+(Pub. L. 107–171, title X, § 10403, May 13, 2002, 116 Stat. 494; Pub. L. 115–334, title XII, § 12101(a), Dec. 20, 2018, 132 Stat. 4937; Pub. L. 117–328, div. HH, title V, § 603, Dec. 29, 2022, 136 Stat. 5996.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in introductory provisions and par. (16), was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
+This chapter, referred to in introductory provisions and par. (16), was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 **Codification**
 
@@ -199,7 +199,7 @@ Amendment by Pub. L. 117–328 is based on section 4 of H.R. 5608, One Hundred S
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 8303. Restriction on importation or entry
+## § 8303. Restriction on importation or entry
 
 **(a) In general** With notice to the Secretary of the Treasury and public notice as soon as practicable, the Secretary may prohibit or restrict—
 
@@ -245,13 +245,13 @@ The Secretary may promulgate regulations requiring that any animal imported or e
 
 **(ii)** recover from the owner the costs of any care, handling, disposal, or other action incurred by the Secretary in connection with the remedial action, destruction, or removal.
 
-(Pub. L. 107–171, title X, § 10404, May 13, 2002, 116 Stat. 496.)
+(Pub. L. 107–171, title X, § 10404, May 13, 2002, 116 Stat. 496.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (c)(1)(B), was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
+This chapter, referred to in subsec. (c)(1)(B), was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -259,7 +259,7 @@ This chapter, referred to in subsec. (c)(1)(B), was in the original “this subt
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 8304. Exportation
+## § 8304. Exportation
 
 **(a) In general** The Secretary may prohibit or restrict—
 
@@ -303,7 +303,7 @@ The Secretary may certify the classification, quality, quantity, condition, proc
 
 Funds appropriated under paragraph (1) shall remain available until expended.
 
-(Pub. L. 107–171, title X, § 10405, May 13, 2002, 116 Stat. 497; Pub. L. 110–234, title XI, § 11010(c), May 22, 2008, 122 Stat. 1360; Pub. L. 110–246, § 4(a), title XI, § 11010(c), June 18, 2008, 122 Stat. 1664, 2121; Pub. L. 113–79, title XII, § 12101(c), Feb. 7, 2014, 128 Stat. 978.)
+(Pub. L. 107–171, title X, § 10405, May 13, 2002, 116 Stat. 497; Pub. L. 110–234, title XI, § 11010(c), May 22, 2008, 122 Stat. 1360; Pub. L. 110–246, § 4(a), title XI, § 11010(c), June 18, 2008, 122 Stat. 1664, 2121; Pub. L. 113–79, title XII, § 12101(c), Feb. 7, 2014, 128 Stat. 978.)
 
 **Editorial Notes**
 
@@ -319,7 +319,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Subsec. (d)(1). Pub. L. 113–79 substituted “2018” for “2012” in subpars. (A) and (B).
 
-2008—Subsec. (d). Pub. L. 110–246, § 11010(c), added subsec. (d).
+2008—Subsec. (d). Pub. L. 110–246, § 11010(c), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -333,13 +333,13 @@ For transfer of functions of the Secretary of Agriculture relating to agricultur
 
 **Trichinae Certification Program**
 
-Pub. L. 113–79, title XII, § 12101(a), (b), Feb. 7, 2014, 128 Stat. 978, provided that:
+Pub. L. 113–79, title XII, § 12101(a), (b), Feb. 7, 2014, 128 Stat. 978, provided that:
 
 > **“(a) Alternative Certification Process.—** The Secretary of Agriculture shall amend the rule made under paragraph (2) of section 11010(a) of the Food, Conservation, and Energy Act of 2008 (7 U.S.C. 8304(a) [sic]) [7 U.S.C. 8304 note, set out below] to implement the voluntary trichinae certification program established under paragraph (1) of such section, to include a requirement to establish an alternative trichinae certification process based on surveillance or other methods consistent with international standards for categorizing compartments as having negligible risk for trichinae.
 
 > **“(b) Final Regulations.—** Not later than one year after the date on which the international standards referred to in subsection (a) are adopted, the Secretary shall finalize the rule amended under such subsection.”
 
-Pub. L. 110–234, title XI, § 11010(a), (b), May 22, 2008, 122 Stat. 1359, and Pub. L. 110–246, § 4(a), title XI, § 11010(a), (b), June 18, 2008, 122 Stat. 1664, 2121, provided that:
+Pub. L. 110–234, title XI, § 11010(a), (b), May 22, 2008, 122 Stat. 1359, and Pub. L. 110–246, § 4(a), title XI, § 11010(a), (b), June 18, 2008, 122 Stat. 1664, 2121, provided that:
 
 > **“(a) Voluntary Trichinae Certification.—**
 
@@ -357,7 +357,7 @@ Pub. L. 110–234, title XI, § 11010(a), (b), May 22, 2008, 122 Stat. 1359, a
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.]
 
-## § 8305. Interstate movement
+## § 8305. Interstate movement
 
 The Secretary may prohibit or restrict—
 
@@ -365,9 +365,9 @@ The Secretary may prohibit or restrict—
 
 **(2)** the use of any means of conveyance or facility in connection with the movement in interstate commerce of any animal or article if the Secretary determines that the prohibition or restriction is necessary to prevent the introduction or dissemination of any pest or disease of livestock.
 
-(Pub. L. 107–171, title X, § 10406, May 13, 2002, 116 Stat. 498.)
+(Pub. L. 107–171, title X, § 10406, May 13, 2002, 116 Stat. 498.)
 
-## § 8306. Seizure, quarantine, and disposal
+## § 8306. Seizure, quarantine, and disposal
 
 **(a) In general** The Secretary may hold, seize, quarantine, treat, destroy, dispose of, or take other remedial action with respect to—
 
@@ -395,13 +395,13 @@ The Secretary may prohibit or restrict—
 
 **(A) In general** The Secretary may take action in a State under this subsection only on finding that measures being taken by the State are inadequate to control or eradicate the pest or disease, after review and consultation with—
 
-**“(i)**  1
+**“(i)** 1
 
-<sup>1</sup>  So in original. Opening quotation marks probably should not appear.
+<sup>1</sup> So in original. Opening quotation marks probably should not appear.
 
 the Governor or an appropriate animal health official of the State; or
 
-**“(ii)**  <sup>1</sup> in the case of any animal, article, facility, or means of conveyance under the jurisdiction of an Indian tribe, the head of the Indian tribe.
+**“(ii)** <sup>1</sup> in the case of any animal, article, facility, or means of conveyance under the jurisdiction of an Indian tribe, the head of the Indian tribe.
 
 **(B) Notice** Subject to subparagraph (C), before any action is taken in a State under subparagraph (A), the Secretary shall—
 
@@ -465,13 +465,13 @@ The determination by the Secretary of the amount to be paid under this subsectio
 
 **(D)** any animal, article, facility, or means of conveyance that becomes or has become affected with or exposed to any pest or disease of livestock because of a violation of an agreement for the control and eradication of diseases or pests or a violation of this chapter by the owner.
 
-(Pub. L. 107–171, title X, § 10407, May 13, 2002, 116 Stat. 498; Pub. L. 110–234, title XI, § 11011(1), May 22, 2008, 122 Stat. 1360; Pub. L. 110–246, § 4(a), title XI, § 11011(1), June 18, 2008, 122 Stat. 1664, 2121.)
+(Pub. L. 107–171, title X, § 10407, May 13, 2002, 116 Stat. 498; Pub. L. 110–234, title XI, § 11011(1), May 22, 2008, 122 Stat. 1360; Pub. L. 110–246, § 4(a), title XI, § 11011(1), June 18, 2008, 122 Stat. 1664, 2121.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsecs. (a) and (d)(3), was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (d)(3), was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 **Codification**
 
@@ -479,7 +479,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (d)(2)(C). Pub. L. 110–246, § 11011(1), struck out “of longer than 60 days” after “or review”.
+2008—Subsec. (d)(2)(C). Pub. L. 110–246, § 11011(1), struck out “of longer than 60 days” after “or review”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -491,7 +491,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 8307. Inspections, seizures, and warrants
+## § 8307. Inspections, seizures, and warrants
 
 **(a) Guidelines**
 
@@ -521,13 +521,13 @@ On proper oath or affirmation showing probable cause to believe that there is on
 
 The warrant may be applied for and executed by the Secretary or any United States marshal.
 
-(Pub. L. 107–171, title X, § 10408, May 13, 2002, 116 Stat. 500.)
+(Pub. L. 107–171, title X, § 10408, May 13, 2002, 116 Stat. 500.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsecs. (b) and (c), was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
+This chapter, referred to in subsecs. (b) and (c), was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -537,7 +537,7 @@ For transfer of functions of the Secretary of Agriculture relating to agricultur
 
 **Preclearance Quarantine Inspections**
 
-Pub. L. 107–171, title X, § 10811, May 13, 2002, 116 Stat. 531, provided that:
+Pub. L. 107–171, title X, § 10811, May 13, 2002, 116 Stat. 531, provided that:
 
 > **“(a) Preclearance Inspections Required.—** The Secretary of Agriculture, acting through the Administrator of the Animal and Plant Health Inspection Service, shall conduct preclearance quarantine inspections of persons, baggage, cargo, and any other articles destined for movement from the State of Hawaii to any of the following—
 
@@ -553,7 +553,7 @@ Pub. L. 107–171, title X, § 10811, May 13, 2002, 116 Stat. 531, provided th
 
 > **“(c) Limitation.—** The Secretary shall not implement this section unless appropriations for necessary expenses of the Animal and Plant Health Inspection Service for inspection, quarantine, and regulatory activities are increased by an amount not less than $3,000,000 in an Act making appropriations for fiscal year 2003.”
 
-## § 8308. Detection, control, and eradication of diseases and pests
+## § 8308. Detection, control, and eradication of diseases and pests
 
 **(a) In general**
 
@@ -573,13 +573,13 @@ The Secretary shall compensate industry participants and State agencies that coo
 
 The action of the Secretary in carrying out paragraph (1) shall not be subject to review by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary.
 
-(Pub. L. 107–171, title X, § 10409, May 13, 2002, 116 Stat. 501; Pub. L. 110–234, title XI, § 11011(2), May 22, 2008, 122 Stat. 1360; Pub. L. 110–246, § 4(a), title XI, § 11011(2), June 18, 2008, 122 Stat. 1664, 2122.)
+(Pub. L. 107–171, title X, § 10409, May 13, 2002, 116 Stat. 501; Pub. L. 110–234, title XI, § 11011(2), May 22, 2008, 122 Stat. 1360; Pub. L. 110–246, § 4(a), title XI, § 11011(2), June 18, 2008, 122 Stat. 1664, 2122.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (b)(1), was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
+This chapter, referred to in subsec. (b)(1), was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 **Codification**
 
@@ -587,7 +587,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (b)(2), (3). Pub. L. 110–246, § 11011(2), added par. (2), redesignated former par. (2) as (3), and, in par. (3), struck out “of longer than 60 days” after “review”.
+2008—Subsec. (b)(2), (3). Pub. L. 110–246, § 11011(2), added par. (2), redesignated former par. (2) as (3), and, in par. (3), struck out “of longer than 60 days” after “review”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -601,7 +601,7 @@ For transfer of functions of the Secretary of Agriculture relating to agricultur
 
 **National Poultry Improvement Plan**
 
-Pub. L. 113–79, title XII, § 12107, Feb. 7, 2014, 128 Stat. 982, provided that:
+Pub. L. 113–79, title XII, § 12107, Feb. 7, 2014, 128 Stat. 982, provided that:
 
 > “The Secretary of Agriculture shall ensure that the Department of Agriculture continues to administer the diagnostic surveillance program for H5/H7 low pathogenic avian influenza with respect to commercial poultry under section 146.14 of title 9, Code of Federal Regulations (or a successor regulation), without amending the regulations in section 147.43 of title 9, Code of Federal Regulations (as in effect on the date of the enactment of this Act [Feb. 7, 2014]), with respect to the governance of the General Conference Committee established under such section. The Secretary of Agriculture shall maintain—
 
@@ -613,7 +613,7 @@ Pub. L. 113–79, title XII, § 12107, Feb. 7, 2014, 128 Stat. 982, provided t
 
 > **“(2)** the funding levels for the National Poultry Improvement Plan for Commercial Poultry (established under part 146 of title 9, Code of Federal Regulations, or a successor regulation) at the fiscal year 2013 funding levels for the Plan.”
 
-## § 8308a. Animal disease prevention and management
+## § 8308a. Animal disease prevention and management
 
 **(a) National Animal Health Laboratory Network**
 
@@ -715,9 +715,9 @@ The Secretary shall establish a program, to be known as the National Animal Dise
 
 **(5) Consultation**
 
-For purposes of setting priorities under this subsection, the Secretary shall consult with eligible entities specified in paragraph (3). The Federal Advisory Committee Act (5 U.S.C. App.) 1
+For purposes of setting priorities under this subsection, the Secretary shall consult with eligible entities specified in paragraph (3). The Federal Advisory Committee Act (5 U.S.C. App.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall not apply to consultation carried out under this paragraph.
 
@@ -841,35 +841,35 @@ Using the funds made available under subsection (d), the Secretary of Agricultur
 
 Nothing in paragraph (1) shall be construed to terminate a contract, grant, cooperative agreement, or other legal instrument entered into during the period specified in such paragraph.
 
-(Pub. L. 107–171, title X, § 10409A, as added Pub. L. 113–79, title XII, § 12105, Feb. 7, 2014, 128 Stat. 980; amended Pub. L. 115–334, title XII, § 12101(b)–(d), Dec. 20, 2018, 132 Stat. 4937–4940; Pub. L. 119–21, title I, § 10607(a), July 4, 2025, 139 Stat. 110.)
+(Pub. L. 107–171, title X, § 10409A, as added Pub. L. 113–79, title XII, § 12105, Feb. 7, 2014, 128 Stat. 980; amended Pub. L. 115–334, title XII, § 12101(b)–(d), Dec. 20, 2018, 132 Stat. 4937–4940; Pub. L. 119–21, title I, § 10607(a), July 4, 2025, 139 Stat. 110.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Advisory Committee Act, referred to in subsec. (b)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
+The Federal Advisory Committee Act, referred to in subsec. (b)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 **Amendments**
 
-2025—Subsec. (d)(1)(B). Pub. L. 119–21, § 10607(a)(1), substituted “Fiscal years 2023 through 2025” for “Subsequent fiscal years” in heading and “each of fiscal years 2023 through 2025” for “fiscal year 2023 and each fiscal year thereafter” in text.
+2025—Subsec. (d)(1)(B). Pub. L. 119–21, § 10607(a)(1), substituted “Fiscal years 2023 through 2025” for “Subsequent fiscal years” in heading and “each of fiscal years 2023 through 2025” for “fiscal year 2023 and each fiscal year thereafter” in text.
 
-Subsec. (d)(1)(C), (D). Pub. L. 119–21, § 10607(a)(2), added subpars. (C) and (D).
+Subsec. (d)(1)(C), (D). Pub. L. 119–21, § 10607(a)(2), added subpars. (C) and (D).
 
-2018—Pub. L. 115–334, § 12101(b)(1), substituted “Animal disease prevention and management” for “National animal health laboratory network” in section catchline.
+2018—Pub. L. 115–334, § 12101(b)(1), substituted “Animal disease prevention and management” for “National animal health laboratory network” in section catchline.
 
-Subsec. (a). Pub. L. 115–334, § 12101(b)(2), (4), substituted “National Animal Health Laboratory Network” for “Definition of eligible laboratory” in heading, inserted par. (1) designation and heading and substituted “In this subsection,” for “In this section,”, redesignated subsecs. (b) and (c) as pars. (2) and (3), respectively, and realigned margins.
+Subsec. (a). Pub. L. 115–334, § 12101(b)(2), (4), substituted “National Animal Health Laboratory Network” for “Definition of eligible laboratory” in heading, inserted par. (1) designation and heading and substituted “In this subsection,” for “In this section,”, redesignated subsecs. (b) and (c) as pars. (2) and (3), respectively, and realigned margins.
 
-Subsec. (a)(2). Pub. L. 115–334, § 12101(b)(3)(B), redesignated pars. (1) to (3) of former subsec. (b) as subpars. (A) to (C), respectively, and realigned margins.
+Subsec. (a)(2). Pub. L. 115–334, § 12101(b)(3)(B), redesignated pars. (1) to (3) of former subsec. (b) as subpars. (A) to (C), respectively, and realigned margins.
 
-Subsec. (a)(2)(B). Pub. L. 115–334, § 12101(b)(3)(A), redesignated subpars. (A) to (E) of former subsec. (b)(2) as cls. (i) to (v), respectively, and realigned margins.
+Subsec. (a)(2)(B). Pub. L. 115–334, § 12101(b)(3)(A), redesignated subpars. (A) to (E) of former subsec. (b)(2) as cls. (i) to (v), respectively, and realigned margins.
 
-Subsec. (b). Pub. L. 115–334, § 12101(b)(5), added subsec. (b). Former subsec. (b) redesignated (a)(2).
+Subsec. (b). Pub. L. 115–334, § 12101(b)(5), added subsec. (b). Former subsec. (b) redesignated (a)(2).
 
-Subsec. (c). Pub. L. 115–334, § 12101(c), added subsec. (c). Former subsec. (c) redesignated (a)(3).
+Subsec. (c). Pub. L. 115–334, § 12101(c), added subsec. (c). Former subsec. (c) redesignated (a)(3).
 
-Subsecs. (d), (e). Pub. L. 115–334, § 12101(d), added subsecs. (d) and (e) and struck out former subsec. (d) which authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2014 through 2018.
+Subsecs. (d), (e). Pub. L. 115–334, § 12101(d), added subsecs. (d) and (e) and struck out former subsec. (d) which authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2014 through 2018.
 
-## § 8309. Veterinary accreditation program
+## § 8309. Veterinary accreditation program
 
 **(a) In general**
 
@@ -883,9 +883,9 @@ The Secretary shall consult with State animal health officials and veterinary pr
 
 **(1) In general**
 
-The Secretary may, after notice and opportunity for a hearing on the record, suspend or revoke the accreditation of any veterinarian accredited under this title 1
+The Secretary may, after notice and opportunity for a hearing on the record, suspend or revoke the accreditation of any veterinarian accredited under this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 who violates this chapter.
 
@@ -907,13 +907,13 @@ The Secretary shall provide the veterinarian with a subsequent notice and an opp
 
 The criminal and civil penalties described in section 8313 of this title shall not apply to a violation of this section that is not a violation of any other provision of this chapter.
 
-(Pub. L. 107–171, title X, § 10410, May 13, 2002, 116 Stat. 501.)
+(Pub. L. 107–171, title X, § 10410, May 13, 2002, 116 Stat. 501.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
+This chapter, referred to in text, was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 This title, referred to in subsec. (c)(1), is title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 486. For complete classification of title X to the Code, see Tables.
 
@@ -923,7 +923,7 @@ This title, referred to in subsec. (c)(1), is title X of Pub. L. 107–171, May 
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 8310. Cooperation
+## § 8310. Cooperation
 
 **(a) In general**
 
@@ -975,13 +975,13 @@ The Secretary shall consult and coordinate with the head of a Federal agency wit
 
 Subject to the consultation and coordination requirement in paragraph (1), the Department of Agriculture shall be the lead agency with respect to issues related to pests and diseases of livestock.
 
-(Pub. L. 107–171, title X, § 10411, May 13, 2002, 116 Stat. 502.)
+(Pub. L. 107–171, title X, § 10411, May 13, 2002, 116 Stat. 502.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (a), was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -989,7 +989,7 @@ This chapter, referred to in subsec. (a), was in the original “this subtitle�
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 8311. Reimbursable agreements
+## § 8311. Reimbursable agreements
 
 **(a) Authority to enter into agreements**
 
@@ -1037,13 +1037,13 @@ On failure by a person to reimburse the Secretary in accordance with this sectio
 
 **(B)** remain available until expended, without fiscal year limitation.
 
-(Pub. L. 107–171, title X, § 10412, May 13, 2002, 116 Stat. 503; Pub. L. 114–125, title VIII, § 818(b), Feb. 24, 2016, 130 Stat. 222.)
+(Pub. L. 107–171, title X, § 10412, May 13, 2002, 116 Stat. 503; Pub. L. 114–125, title VIII, § 818(b), Feb. 24, 2016, 130 Stat. 222.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (c)(1), was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
+This chapter, referred to in subsec. (c)(1), was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 **Amendments**
 
@@ -1059,7 +1059,7 @@ This chapter, referred to in subsec. (c)(1), was in the original “this subtitl
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 8312. Administration and claims
+## § 8312. Administration and claims
 
 **(a) Administration** To carry out this chapter, the Secretary may—
 
@@ -1081,13 +1081,13 @@ Except as provided in paragraph (2), the Secretary may pay a tort claim, in the 
 
 A claim may not be allowed under this subsection unless the claim is presented in writing to the Secretary not later than 2 years after the date on which the claim arises.
 
-(Pub. L. 107–171, title X, § 10413, May 13, 2002, 116 Stat. 503.)
+(Pub. L. 107–171, title X, § 10413, May 13, 2002, 116 Stat. 503.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsecs. (a) and (b)(1), was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (b)(1), was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1095,7 +1095,7 @@ This chapter, referred to in subsecs. (a) and (b)(1), was in the original “thi
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 8313. Penalties
+## § 8313. Penalties
 
 **(a) Criminal penalties**
 
@@ -1169,13 +1169,13 @@ In the construction and enforcement of this chapter, the act, omission, or failu
 
 Subject to the approval of the Attorney General, the Secretary shall establish guidelines to determine under what circumstances the Secretary may issue a civil penalty or suitable notice of warning in lieu of prosecution by the Attorney General of a violation of this chapter.
 
-(Pub. L. 107–171, title X, § 10414, May 13, 2002, 116 Stat. 504; Pub. L. 110–234, title XI, § 11012(a), May 22, 2008, 122 Stat. 1360; Pub. L. 110–246, § 4(a), title XI, § 11012(a), June 18, 2008, 122 Stat. 1664, 2122.)
+(Pub. L. 107–171, title X, § 10414, May 13, 2002, 116 Stat. 504; Pub. L. 110–234, title XI, § 11012(a), May 22, 2008, 122 Stat. 1360; Pub. L. 110–246, § 4(a), title XI, § 11012(a), June 18, 2008, 122 Stat. 1664, 2122.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
+This chapter, referred to in text, was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 **Codification**
 
@@ -1183,7 +1183,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (b)(1)(A)(iii). Pub. L. 110–246, § 11012(a), added cl. (iii) and struck out former cl. (iii) which read as follows: “$500,000 for all violations adjudicated in a single proceeding; or”.
+2008—Subsec. (b)(1)(A)(iii). Pub. L. 110–246, § 11012(a), added cl. (iii) and struck out former cl. (iii) which read as follows: “$500,000 for all violations adjudicated in a single proceeding; or”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1195,7 +1195,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 8314. Enforcement
+## § 8314. Enforcement
 
 **(a) Collection of information**
 
@@ -1207,9 +1207,9 @@ The Secretary may gather and compile information and conduct any inspection or i
 
 **(A) In general**
 
-The Secretary shall have the power to subpoena the attendance and testimony of any witness, the production of all evidence (including books, papers, documents, electronically stored information, and other tangible things that constitute or contain evidence), or to require the person to whom the subpoena is directed to permit the inspection of premises relating to the administration or enforcement of this chapter 1
+The Secretary shall have the power to subpoena the attendance and testimony of any witness, the production of all evidence (including books, papers, documents, electronically stored information, and other tangible things that constitute or contain evidence), or to require the person to whom the subpoena is directed to permit the inspection of premises relating to the administration or enforcement of this chapter 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or any matter under investigation in connection with this chapter.1
 
@@ -1277,13 +1277,13 @@ Any action arising under this chapter may be brought, and process may be served,
 
 Paragraphs (1) and (2) do not apply to sections 8309(c) and 8313(b) of this title.
 
-(Pub. L. 107–171, title X, § 10415, May 13, 2002, 116 Stat. 505; Pub. L. 110–234, title XI, § 11012(b), May 22, 2008, 122 Stat. 1360; Pub. L. 110–246, § 4(a), title XI, § 11012(b), June 18, 2008, 122 Stat. 1664, 2122.)
+(Pub. L. 107–171, title X, § 10415, May 13, 2002, 116 Stat. 505; Pub. L. 110–234, title XI, § 11012(b), May 22, 2008, 122 Stat. 1360; Pub. L. 110–246, § 4(a), title XI, § 11012(b), June 18, 2008, 122 Stat. 1664, 2122.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (a)(2)(A), was in the original “this title”, and was translated as reading “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, to reflect the probable intent of Congress.
+This chapter, referred to in subsec. (a)(2)(A), was in the original “this title”, and was translated as reading “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, to reflect the probable intent of Congress.
 
 **Codification**
 
@@ -1291,13 +1291,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (a)(2)(A). Pub. L. 110–246, § 11012(b)(1), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “The Secretary shall have power to issue a subpoena to compel the attendance and testimony of any witness and the production of any documentary evidence relating to the administration or enforcement of this chapter or any matter under investigation in connection with this chapter.”
+2008—Subsec. (a)(2)(A). Pub. L. 110–246, § 11012(b)(1), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “The Secretary shall have power to issue a subpoena to compel the attendance and testimony of any witness and the production of any documentary evidence relating to the administration or enforcement of this chapter or any matter under investigation in connection with this chapter.”
 
-Subsec. (a)(2)(B). Pub. L. 110–246, § 11012(b)(2), struck out “documentary” before “evidence”.
+Subsec. (a)(2)(B). Pub. L. 110–246, § 11012(b)(2), struck out “documentary” before “evidence”.
 
-Subsec. (a)(2)(C)(i). Pub. L. 110–246, § 11012(b)(3)(A), substituted “testimony of any witness, the production of evidence, or the inspection of premises” for “testimony of any witness and the production of documentary evidence”.
+Subsec. (a)(2)(C)(i). Pub. L. 110–246, § 11012(b)(3)(A), substituted “testimony of any witness, the production of evidence, or the inspection of premises” for “testimony of any witness and the production of documentary evidence”.
 
-Subsec. (a)(2)(C)(ii). Pub. L. 110–246, § 11012(b)(3)(B), substituted “question, produce evidence, or permit the inspection of premises” for “question or to produce documentary evidence”.
+Subsec. (a)(2)(C)(ii). Pub. L. 110–246, § 11012(b)(3)(B), substituted “question, produce evidence, or permit the inspection of premises” for “question or to produce documentary evidence”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1309,17 +1309,17 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 8315. Regulations and orders
+## § 8315. Regulations and orders
 
 The Secretary may promulgate such regulations, and issue such orders, as the Secretary determines necessary to carry out this chapter.
 
-(Pub. L. 107–171, title X, § 10416, May 13, 2002, 116 Stat. 507.)
+(Pub. L. 107–171, title X, § 10416, May 13, 2002, 116 Stat. 507.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
+This chapter, referred to in text, was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1327,7 +1327,7 @@ This chapter, referred to in text, was in the original “this subtitle”, mean
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 8316. Authorization of appropriations
+## § 8316. Authorization of appropriations
 
 **(a) In general**
 
@@ -1353,13 +1353,13 @@ The action of any officer, employee, or agent of the Secretary in carrying out t
 
 **(2)** the construction and operation of research laboratories, quarantine stations, and other buildings and facilities for special purposes.
 
-(Pub. L. 107–171, title X, § 10417, May 13, 2002, 116 Stat. 507; Pub. L. 110–234, title XI, § 11011(3), May 22, 2008, 122 Stat. 1360; Pub. L. 110–246, § 4(a), title XI, § 11011(3), June 18, 2008, 122 Stat. 1664, 2122.)
+(Pub. L. 107–171, title X, § 10417, May 13, 2002, 116 Stat. 507; Pub. L. 110–234, title XI, § 11011(3), May 22, 2008, 122 Stat. 1360; Pub. L. 110–246, § 4(a), title XI, § 11011(3), June 18, 2008, 122 Stat. 1664, 2122.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
+This chapter, referred to in text, was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 **Codification**
 
@@ -1367,7 +1367,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (b)(3). Pub. L. 110–246, § 11011(3), struck out “of longer than 60 days” after “review”.
+2008—Subsec. (b)(3). Pub. L. 110–246, § 11011(3), struck out “of longer than 60 days” after “review”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1379,11 +1379,11 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 8317. Effect on regulations
+## § 8317. Effect on regulations
 
 A regulation issued under a provision of law repealed by subsection (a) shall remain in effect until the Secretary issues a regulation under section 8303(b) or 8315 of this title that supersedes the earlier regulation.
 
-(Pub. L. 107–171, title X, § 10418(c), May 13, 2002, 116 Stat. 509.)
+(Pub. L. 107–171, title X, § 10418(c), May 13, 2002, 116 Stat. 509.)
 
 **Editorial Notes**
 
@@ -1397,11 +1397,11 @@ Subsection (a), referred to in text, means section 10418(a) of title X of Pub. L
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 8318. Veterinary training
+## § 8318. Veterinary training
 
 The Secretary of Agriculture may develop a program to maintain in all regions of the United States a sufficient number of Federal and State veterinarians and veterinary teams, including those based at colleges of veterinary medicine, who are well trained in recognition and diagnosis of exotic and endemic animal diseases and who are capable of providing effective services before, during, and after emergencies.
 
-(Pub. L. 107–171, title X, § 10504, May 13, 2002, 116 Stat. 510; Pub. L. 115–334, title XII, § 12106, Dec. 20, 2018, 132 Stat. 4943.)
+(Pub. L. 107–171, title X, § 10504, May 13, 2002, 116 Stat. 510; Pub. L. 115–334, title XII, § 12106, Dec. 20, 2018, 132 Stat. 4943.)
 
 **Editorial Notes**
 
@@ -1413,11 +1413,11 @@ Section was not enacted as part of the Animal Health Protection Act which compri
 
 2018—Pub. L. 115–334 inserted “and veterinary teams, including those based at colleges of veterinary medicine,” before “who are well trained” and “and who are capable of providing effective services before, during, and after emergencies” before period at end.
 
-## § 8319. Surveillance of zoonotic diseases
+## § 8319. Surveillance of zoonotic diseases
 
 The Secretary of Health and Human Services, through the Commissioner of Food and Drugs and the Director of the Centers for Disease Control and Prevention, and the Secretary of Agriculture shall coordinate the surveillance of zoonotic diseases.
 
-(Pub. L. 107–188, title III, § 313, June 12, 2002, 116 Stat. 674.)
+(Pub. L. 107–188, title III, § 313, June 12, 2002, 116 Stat. 674.)
 
 **Editorial Notes**
 
@@ -1425,7 +1425,7 @@ The Secretary of Health and Human Services, through the Commissioner of Food and
 
 Section was enacted as part of the Public Health Security and Bioterrorism Preparedness and Response Act of 2002, and not as part of the Animal Health Protection Act which comprises this chapter.
 
-## § 8320. Expansion of Animal and Plant Health Inspection Service activities
+## § 8320. Expansion of Animal and Plant Health Inspection Service activities
 
 **(a) In general** The Secretary of Agriculture (referred to in this section as the “Secretary”) may utilize existing authorities to give high priority to enhancing and expanding the capacity of the Animal and Plant Health Inspection Service to conduct activities to—
 
@@ -1455,7 +1455,7 @@ The Administrator of the Animal and Plant Health Inspection Service may implemen
 
 There is authorized to be appropriated to carry out this section, $30,000,000 for fiscal year 2002, and such sums as may be necessary for each subsequent fiscal year.
 
-(Pub. L. 107–188, title III, § 331, June 12, 2002, 116 Stat. 678.)
+(Pub. L. 107–188, title III, § 331, June 12, 2002, 116 Stat. 678.)
 
 **Editorial Notes**
 
@@ -1463,7 +1463,7 @@ There is authorized to be appropriated to carry out this section, $30,000,000 fo
 
 Section was enacted as part of the Public Health Security and Bioterrorism Preparedness and Response Act of 2002, and not as part of the Animal Health Protection Act which comprises this chapter.
 
-## § 8321. Pest and Disease Response Fund
+## § 8321. Pest and Disease Response Fund
 
 **(a) Establishment**
 
@@ -1481,21 +1481,21 @@ In implementing the Animal Health Protection Act (7 U.S.C. 8301 et seq.) and the
 
 For each of the fiscal years 2005 through 2009, there is authorized to be appropriated to the Secretary of Agriculture $1,000,000 for deposit in the Fund.
 
-(Pub. L. 108–465, title IV, § 401, Dec. 21, 2004, 118 Stat. 3886.)
+(Pub. L. 108–465, title IV, § 401, Dec. 21, 2004, 118 Stat. 3886.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Animal Health Protection Act, referred to in subsec. (c), is subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
+The Animal Health Protection Act, referred to in subsec. (c), is subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
-The Plant Protection Act, referred to in subsec. (c), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to chapter 104 (§ 7701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
+The Plant Protection Act, referred to in subsec. (c), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to chapter 104 (§ 7701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
 **Codification**
 
 Section was enacted as part of the Specialty Crops Competitiveness Act of 2004, and not as part of the Animal Health Protection Act which comprises this chapter.
 
-## § 8322. National aquatic animal health plan
+## § 8322. National aquatic animal health plan
 
 **(a) In general**
 
@@ -1521,13 +1521,13 @@ In carrying out this section, the Secretary may make use of the authorities unde
 
 In this section, the term “eligible entity” means a State, a political subdivision of a State, Indian tribe, or other appropriate entity, as determined by the Secretary of Agriculture.
 
-(Pub. L. 110–234, title XI, § 11013, May 22, 2008, 122 Stat. 1361; Pub. L. 110–246, § 4(a), title XI, § 11013, June 18, 2008, 122 Stat. 1664, 2122; Pub. L. 113–79, title XII, § 12103, Feb. 7, 2014, 128 Stat. 979; Pub. L. 115–334, title XII, § 12105, Dec. 20, 2018, 132 Stat. 4943.)
+(Pub. L. 110–234, title XI, § 11013, May 22, 2008, 122 Stat. 1361; Pub. L. 110–246, § 4(a), title XI, § 11013, June 18, 2008, 122 Stat. 1664, 2122; Pub. L. 113–79, title XII, § 12103, Feb. 7, 2014, 128 Stat. 979; Pub. L. 115–334, title XII, § 12105, Dec. 20, 2018, 132 Stat. 4943.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Animal Health Protection Act, referred to in subsec. (c), is subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
+The Animal Health Protection Act, referred to in subsec. (c), is subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 **Codification**
 

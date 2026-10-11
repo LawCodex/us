@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1543—NAVY CLUB OF THE UNITED STATES OF AMERICA"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1543—NAVY CLUB OF THE UNITED STATES OF AMERICA"
 identifier: "/us/usc/t36/stII/ptB/ch1543"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1543—NAVY CLUB OF THE UNITED STATES OF AMERICA
 
-## § 154301. Organization
+## § 154301. Organization
 
 **(a) Federal Charter.—** Navy Club of the United States of America (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -27,12 +27,12 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 154301(a) | 36:140. | June 6, 1940, ch. 239, §§ 1, 3(a), 54 Stat. 232, 233. |
+| 154301(a) | 36:140. | June 6, 1940, ch. 239, §§ 1, 3(a), 54 Stat. 232, 233. |
 | 154301(b) | 36:140b(a). |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate obsolete words.
 
-## § 154302. Purposes
+## § 154302. Purposes
 
 The purposes of the corporation are—
 
@@ -54,13 +54,13 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 154302 | 36:140a. | June 6, 1940, ch. 239, § 2, 54 Stat. 232. |
+| 154302 | 36:140a. | June 6, 1940, ch. 239, § 2, 54 Stat. 232. |
 
 In this section, the word “individuals” is substituted for “persons” for consistency in the revised title and with other titles of the United States Code.
 
 In clause (1), the words “further” and “those” are omitted as unnecessary.
 
-In clause (2), the words “described in clause (1) of this section” are substituted for “those . . . who have been such members” for clarity.
+In clause (2), the words “described in clause (1) of this section” are substituted for “those . . . who have been such members” for clarity.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -68,7 +68,7 @@ In clause (2), the words “described in clause (1) of this section” are subst
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 154303. Powers
+## § 154303. Powers
 
 The corporation may—
 
@@ -96,7 +96,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 154303 | 36:140b(b)–(j). | June 6, 1940, ch. 239, § 3(b)–(j), 54 Stat. 233. |
+| 154303 | 36:140b(b)–(j). | June 6, 1940, ch. 239, § 3(b)–(j), 54 Stat. 233. |
 
 In clause (1), the words “not inconsistent with the Constitution and laws of the United States or of any State” are omitted as unnecessary.
 
@@ -106,7 +106,7 @@ Clause (6) is substituted for “acquire, by purchase, devise, bequest, gift, or
 
 In clause (9), the word “generally” is omitted as unnecessary. The words “any other act” are substituted for “any and all lawful acts” for consistency in the revised title.
 
-## § 154304. Annual report
+## § 154304. Annual report
 
 Not later than December 1 of each year, the corporation shall submit a report to Congress on the activities of the corporation during the prior calendar year. The report may not be printed as a public document.
 
@@ -116,7 +116,7 @@ Not later than December 1 of each year, the corporation shall submit a report to
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 154304 | 36:140c. | June 6, 1940, ch. 239, § 4, 54 Stat. 233; Aug. 30, 1964, Pub. L. 88–504, § 4(11), 78 Stat. 637. |
+| 154304 | 36:140c. | June 6, 1940, ch. 239, § 4, 54 Stat. 233; Aug. 30, 1964, Pub. L. 88–504, § 4(11), 78 Stat. 637. |
 
 This section is substituted for the source provision for consistency in the revised title.
 

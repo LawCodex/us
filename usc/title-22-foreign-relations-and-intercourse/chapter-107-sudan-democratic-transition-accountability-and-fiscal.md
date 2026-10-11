@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 107—SUDAN DEMOCRATIC TRANSITION, ACCOUNTABILITY, AND FISCAL TRANSPARENCY
 
-## § 10001. Definitions
+## § 10001. Definitions
 
 Except as otherwise provided, in this chapter:
 
@@ -67,7 +67,7 @@ Except as otherwise provided, in this chapter:
 
 **(B)** the Rapid Support Forces,1
 
-<sup>1</sup>  So in original. The comma probably should be a semicolon.
+<sup>1</sup> So in original. The comma probably should be a semicolon.
 
 **(C)** Sudan’s Popular Defense Forces and other paramilitary units;
 
@@ -83,23 +83,23 @@ Except as otherwise provided, in this chapter:
 
 **(B)** the members of the Sovereignty Council described in paragraph (3)(A) select a chair of the Council for the remaining 18 months of the period.
 
-(Pub. L. 116–283, div. A, title XII, § 1262, Jan. 1, 2021, 134 Stat. 3967.)
+(Pub. L. 116–283, div. A, title XII, § 1262, Jan. 1, 2021, 134 Stat. 3967.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this subtitle”, meaning subtitle G (§§ 1261–1270E) of title XII of div. A of Pub. L. 116–283, known as the Sudan Democratic Transition, Accountability, and Fiscal Transparency Act of 2020, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this subtitle”, meaning subtitle G (§§ 1261–1270E) of title XII of div. A of Pub. L. 116–283, known as the Sudan Democratic Transition, Accountability, and Fiscal Transparency Act of 2020, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 116–283, div. A, title XII, § 1261, Jan. 1, 2021, 134 Stat. 3967, provided that: “This subtitle [subtitle G (§§ 1261–1270E) of title XII of div. A of Pub. L. 116–283, enacting this chapter and amending and repealing provisions set out as notes under section 1701 of Title 50, War and National Defense] may be cited as the ‘Sudan Democratic Transition, Accountability, and Fiscal Transparency Act of 2020’.”
+Pub. L. 116–283, div. A, title XII, § 1261, Jan. 1, 2021, 134 Stat. 3967, provided that: “This subtitle [subtitle G (§§ 1261–1270E) of title XII of div. A of Pub. L. 116–283, enacting this chapter and amending and repealing provisions set out as notes under section 1701 of Title 50, War and National Defense] may be cited as the ‘Sudan Democratic Transition, Accountability, and Fiscal Transparency Act of 2020’.”
 
 **Special Envoy for Sudan**
 
-Pub. L. 118–159, div. G, title LXXII, § 7204, Dec. 23, 2024, 138 Stat. 2529, provided that:
+Pub. L. 118–159, div. G, title LXXII, § 7204, Dec. 23, 2024, 138 Stat. 2529, provided that:
 
 > **“(a) Establishment.—** The President shall, with the advice and consent of the Senate, appoint a Special Envoy for Sudan at the Department (in this section referred to as the ‘Special Envoy’). The Special Envoy shall report directly to the Secretary [of State] and should not hold another position in the Department [of State] while holding the position of Special Envoy.
 
@@ -119,7 +119,7 @@ Pub. L. 118–159, div. G, title LXXII, § 7204, Dec. 23, 2024, 138 Stat. 2529
 
 > **“(d) Sunset.—** The position of the Special Envoy for Sudan shall terminate on the date that is 2 years after the date of the enactment of this Act.”
 
-## § 10002. Statement of policy
+## § 10002. Statement of policy
 
 It is the policy of the United States—
 
@@ -153,9 +153,9 @@ It is the policy of the United States—
 
 **(L)** promoting responsible international and regional engagement.
 
-(Pub. L. 116–283, div. A, title XII, § 1263, Jan. 1, 2021, 134 Stat. 3968.)
+(Pub. L. 116–283, div. A, title XII, § 1263, Jan. 1, 2021, 134 Stat. 3968.)
 
-## § 10003. Support for democratic governance, rule of law, human rights, and fundamental freedoms
+## § 10003. Support for democratic governance, rule of law, human rights, and fundamental freedoms
 
 **(a) Sense of Congress**
 
@@ -187,19 +187,19 @@ It is the sense of Congress that the political transition in Sudan, following se
 
 Of the amounts authorized to be appropriated to carry out part I and chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq. and 2346 et seq.) for fiscal years 2021 and 2022, $20,000,000 is authorized to be appropriated for each such fiscal year to carry out this section.
 
-(Pub. L. 116–283, div. A, title XII, § 1264, Jan. 1, 2021, 134 Stat. 3969.)
+(Pub. L. 116–283, div. A, title XII, § 1264, Jan. 1, 2021, 134 Stat. 3969.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Trafficking Victims Protection Act of 2000, referred to in subsec. (b), is div. A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to chapter 78 (§ 7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+The Trafficking Victims Protection Act of 2000, referred to in subsec. (b), is div. A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to chapter 78 (§ 7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 The Child Soldiers Prevention Act of 2008, referred to in subsec. (b), is title IV of Pub. L. 110–457, Dec. 23, 2008, 122 Stat. 5087, which is classified principally to sections 2370c to 2370c–2 of this title. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 2151 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (b) and (c), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I and chapter 4 of part II of the Act are classified generally to part I (§ 2151 et seq.) of subchapter I and part IV (§ 2346 et seq.) of subchapter II, respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (b) and (c), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I and chapter 4 of part II of the Act are classified generally to part I (§ 2151 et seq.) of subchapter I and part IV (§ 2346 et seq.) of subchapter II, respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-## § 10004. Support for development programs
+## § 10004. Support for development programs
 
 **(a) In general** Notwithstanding any other provision of law (other than the Trafficking Victims Protection Act of 2000 [22 U.S.C. 7101 et seq.] and the Child Soldiers Prevention Act of 2008), the President is authorized to provide assistance under part I and chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq. and 2346 et seq.) and under the Better Utilization of Investments Leading to Development Act of 2018 (22 U.S.C. 9601 et seq.) for programs in Sudan—
 
@@ -223,21 +223,21 @@ The Foreign Assistance Act of 1961, referred to in subsecs. (b) and (c), is Pub.
 
 Of the amounts authorized to be appropriated to carry out part I and chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq. and 2346 et seq.) for fiscal years 2021 and 2022, $80,000,000 is authorized to be appropriated for each such fiscal year to carry out this section.
 
-(Pub. L. 116–283, div. A, title XII, § 1265, Jan. 1, 2021, 134 Stat. 3970.)
+(Pub. L. 116–283, div. A, title XII, § 1265, Jan. 1, 2021, 134 Stat. 3970.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Trafficking Victims Protection Act of 2000, referred to in subsec. (a), is div. A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to chapter 78 (§ 7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+The Trafficking Victims Protection Act of 2000, referred to in subsec. (a), is div. A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to chapter 78 (§ 7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 The Child Soldiers Prevention Act of 2008, referred to in subsec. (a), is title IV of Pub. L. 110–457, Dec. 23, 2008, 122 Stat. 5087, which is classified principally to sections 2370c to 2370c–2 of this title. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 2151 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (b), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I and chapter 4 of part II of the Act are classified generally to part I (§ 2151 et seq.) of subchapter I and part IV (§ 2346 et seq.) of subchapter II, respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (b), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I and chapter 4 of part II of the Act are classified generally to part I (§ 2151 et seq.) of subchapter I and part IV (§ 2346 et seq.) of subchapter II, respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Better Utilization of Investments Leading to Development Act of 2018, referred to in subsec. (a), is div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, also known as the BUILD Act of 2018. Div. F is classified principally to chapter 103 of this title. For complete classification of div. F to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
-## § 10005. Support for conflict mitigation
+## § 10005. Support for conflict mitigation
 
 **(a) In general** Notwithstanding any other provision of law (other than the Trafficking Victims Protection Act of 2000 [22 U.S.C. 7101 et seq.] and the Child Soldiers Prevention Act of 2008), the President is authorized to provide assistance under part I and chapters 4, 5, and 6 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq., 2346 et seq., and 2348 et seq.)—
 
@@ -261,19 +261,19 @@ The Better Utilization of Investments Leading to Development Act of 2018, referr
 
 Of the amounts authorized to be appropriated to carry out part I and chapters 4 and 6 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq., 2346 et seq., and 2348 et seq.) for fiscal years 2021 and 2022, $20,000,000 is authorized to be appropriated for each such fiscal year to carry out this section.
 
-(Pub. L. 116–283, div. A, title XII, § 1266, Jan. 1, 2021, 134 Stat. 3970.)
+(Pub. L. 116–283, div. A, title XII, § 1266, Jan. 1, 2021, 134 Stat. 3970.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Trafficking Victims Protection Act of 2000, referred to in subsec. (a), is div. A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to chapter 78 (§ 7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+The Trafficking Victims Protection Act of 2000, referred to in subsec. (a), is div. A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to chapter 78 (§ 7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 The Child Soldiers Prevention Act of 2008, referred to in subsec. (a), is title IV of Pub. L. 110–457, Dec. 23, 2008, 122 Stat. 5087, which is classified principally to sections 2370c to 2370c–2 of this title. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 2151 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (b), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I and chapters 4, 5, and 6 of part II of the Act are classified generally to part I (§ 2151 et seq.) of subchapter I and to parts IV (§ 2346 et seq.), V (§ 2347 et seq.), and VI (§ 2348 et seq.), respectively, of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (b), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I and chapters 4, 5, and 6 of part II of the Act are classified generally to part I (§ 2151 et seq.) of subchapter I and to parts IV (§ 2346 et seq.), V (§ 2347 et seq.), and VI (§ 2348 et seq.), respectively, of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-## § 10006. Support for accountability for war crimes, crimes against humanity, and genocide in Sudan
+## § 10006. Support for accountability for war crimes, crimes against humanity, and genocide in Sudan
 
 **(a) Sense of Congress**
 
@@ -295,19 +295,19 @@ It is the sense of Congress that the Secretary of State should conduct robust di
 
 Of the amounts authorized to be appropriated to carry out part I and chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq. and 2346 et seq.) for fiscal years 2021 and 2022, $10,000,000 is authorized to be appropriated for each such fiscal year to carry out this section.
 
-(Pub. L. 116–283, div. A, title XII, § 1267, Jan. 1, 2021, 134 Stat. 3971.)
+(Pub. L. 116–283, div. A, title XII, § 1267, Jan. 1, 2021, 134 Stat. 3971.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Trafficking Victims Protection Act of 2000, referred to in subsec. (b), is div. A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to chapter 78 (§ 7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+The Trafficking Victims Protection Act of 2000, referred to in subsec. (b), is div. A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to chapter 78 (§ 7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 The Child Soldiers Prevention Act of 2008, referred to in subsec. (b), is title IV of Pub. L. 110–457, Dec. 23, 2008, 122 Stat. 5087, which is classified principally to sections 2370c to 2370c–2 of this title. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 2151 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (b) and (c), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I and chapter 4 of part II of the Act are classified generally to part I (§ 2151 et seq.) of subchapter I and part IV (§ 2346 et seq.) of subchapter II, respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (b) and (c), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I and chapter 4 of part II of the Act are classified generally to part I (§ 2151 et seq.) of subchapter I and part IV (§ 2346 et seq.) of subchapter II, respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-## § 10007. Suspension of assistance
+## § 10007. Suspension of assistance
 
 **(a) In general**
 
@@ -319,9 +319,9 @@ The President is authorized to suspend the provision of assistance authorized un
 
 **(2)** any planned diplomatic engagement to restart the provision of such assistance.
 
-(Pub. L. 116–283, div. A, title XII, § 1268, Jan. 1, 2021, 134 Stat. 3972.)
+(Pub. L. 116–283, div. A, title XII, § 1268, Jan. 1, 2021, 134 Stat. 3972.)
 
-## § 10008. Multilateral assistance
+## § 10008. Multilateral assistance
 
 **(a) Sense of the Congress** It is the sense of the Congress that—
 
@@ -373,9 +373,9 @@ Upon the removal of Sudan from the State Sponsors of Terrorism List, and once th
 
 **(5)** the Committee on Financial Services of the House of Representatives.
 
-(Pub. L. 116–283, div. A, title XII, § 1269, Jan. 1, 2021, 134 Stat. 3972.)
+(Pub. L. 116–283, div. A, title XII, § 1269, Jan. 1, 2021, 134 Stat. 3972.)
 
-## § 10009. Coordinated support to recover assets stolen from the Sudanese people
+## § 10009. Coordinated support to recover assets stolen from the Sudanese people
 
 The Secretary of State, in coordination with the Secretary of the Treasury and the Attorney General, shall seek to advance the efforts of the Government of Sudan to recover assets stolen from the Sudanese people, including with regard to international efforts—
 
@@ -395,9 +395,9 @@ The Secretary of State, in coordination with the Secretary of the Treasury and t
 
 **(ii)** there are robust financial management and oversight measures to safeguard repatriated assets.
 
-(Pub. L. 116–283, div. A, title XII, § 1270, Jan. 1, 2021, 134 Stat. 3974.)
+(Pub. L. 116–283, div. A, title XII, § 1270, Jan. 1, 2021, 134 Stat. 3974.)
 
-## § 10010. Limitation on assistance to the Sudanese security and intelligence services
+## § 10010. Limitation on assistance to the Sudanese security and intelligence services
 
 **(a) In general**
 
@@ -445,7 +445,7 @@ The certification described in subsection (a) containing the conditions describe
 
 **(2)** the date on which the President determines that a successful rotation of military to civilian leadership in the Sovereignty Council has occurred.
 
-(Pub. L. 116–283, div. A, title XII, § 1270A, Jan. 1, 2021, 134 Stat. 3974.)
+(Pub. L. 116–283, div. A, title XII, § 1270A, Jan. 1, 2021, 134 Stat. 3974.)
 
 **Editorial Notes**
 
@@ -455,7 +455,7 @@ The National Security Act, 2010, referred to in subsec. (c)(1)(A), was passed by
 
 The Armed Forces Act, 2007, referred to in subsec. (c)(1)(A), was passed by the National Assembly of Sudan and entered into force on Dec. 17, 2007. The Act was amended in July 2013.
 
-## § 10011. Reports
+## § 10011. Reports
 
 **(a) Report on accountability for human rights abuses** Not later than 180 days after January 1, 2021, and annually thereafter for 2 years, the President shall submit a report to the appropriate congressional committees that—
 
@@ -497,7 +497,7 @@ Not later than 180 days after January 1, 2021, the President shall submit a repo
 
 The reports required under subsections (b) and (c) shall be submitted in unclassified form, but may include a classified annex.
 
-(Pub. L. 116–283, div. A, title XII, § 1270B, Jan. 1, 2021, 134 Stat. 3975.)
+(Pub. L. 116–283, div. A, title XII, § 1270B, Jan. 1, 2021, 134 Stat. 3975.)
 
 **Editorial Notes**
 
@@ -505,7 +505,7 @@ The reports required under subsections (b) and (c) shall be submitted in unclass
 
 Executive Order No. 13400, referred to in subsec. (c), is Ex. Ord. No. 13400, Apr. 26, 2006, 71 F.R. 25483, which is listed in a table under section 1701 of Title 50, War and National Defense.
 
-## § 10012. United States strategy for support to a civilian-led government in Sudan
+## § 10012. United States strategy for support to a civilian-led government in Sudan
 
 **(a) In general** Not later than 180 days after January 1, 2021, the Secretary of State, in coordination with the Administrator of the United States Agency for International Development and the Secretary of the Treasury, shall submit a strategy to the appropriate congressional committees that includes—
 
@@ -535,10 +535,10 @@ Executive Order No. 13400, referred to in subsec. (c), is Ex. Ord. No. 13400, Ap
 
 **(2)** recommendations for legislative or administrative measures to facilitate the implementation of this chapter.
 
-(Pub. L. 116–283, div. A, title XII, § 1270C, Jan. 1, 2021, 134 Stat. 3977.)
+(Pub. L. 116–283, div. A, title XII, § 1270C, Jan. 1, 2021, 134 Stat. 3977.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (b), was in the original “this subtitle”, meaning subtitle G (§§ 1261–1270E) of title XII of div. A of Pub. L. 116–283, known as the Sudan Democratic Transition, Accountability, and Fiscal Transparency Act of 2020, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original “this subtitle”, meaning subtitle G (§§ 1261–1270E) of title XII of div. A of Pub. L. 116–283, known as the Sudan Democratic Transition, Accountability, and Fiscal Transparency Act of 2020, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.

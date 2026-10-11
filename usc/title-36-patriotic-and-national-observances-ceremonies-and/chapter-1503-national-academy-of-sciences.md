@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1503—NATIONAL ACADEMY OF SCIENCES"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1503—NATIONAL ACADEMY OF SCIENCES"
 identifier: "/us/usc/t36/stII/ptB/ch1503"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1503—NATIONAL ACADEMY OF SCIENCES
 
-## § 150301. Federal charter
+## § 150301. Federal charter
 
 National Academy of Sciences (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -25,11 +25,11 @@ National Academy of Sciences (in this chapter, the “corporation”) is a feder
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150301 | 36:251. | Mar. 3, 1863, ch. 111, § 1, 12 Stat. 806. |
+| 150301 | 36:251. | Mar. 3, 1863, ch. 111, § 1, 12 Stat. 806. |
 
 This section is substituted for the source provision for consistency in the revised title and to eliminate executed and unnecessary words.
 
-## § 150302. Powers
+## § 150302. Powers
 
 **(a) General.—** The corporation may—
 
@@ -61,8 +61,8 @@ This section is substituted for the source provision for consistency in the revi
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150302(a) | 36:252. | Mar. 3, 1863, ch. 111, § 2, 12 Stat. 806; July 14, 1870, ch. 264, 16 Stat. 277. |
-| 150302(b) | 36:254. | June 20, 1884, ch. 107, 23 Stat. 50; May 27, 1914, ch. 101, § 1, 38 Stat. 383. |
+| 150302(a) | 36:252. | Mar. 3, 1863, ch. 111, § 2, 12 Stat. 806; July 14, 1870, ch. 264, 16 Stat. 277. |
+| 150302(b) | 36:254. | June 20, 1884, ch. 107, 23 Stat. 50; May 27, 1914, ch. 101, § 1, 38 Stat. 383. |
 
 In subsection (a)(1), the word “rules” is omitted as included in “regulations”.
 
@@ -74,7 +74,7 @@ In subsection (a)(4), the words “its actions under this subsection” are subs
 
 In subsection (b)(1), before clause (A), the word “may” is substituted for “be, and the same is, authorized and empowered to” for consistency in the revised title and to eliminate unnecessary words. In clause (A), the words “either real or personal” are omitted as unnecessary and for consistency in the revised title. In clause (C), the word “reinvest” is omitted as unnecessary.
 
-## § 150303. Services to United States Government
+## § 150303. Services to United States Government
 
 On request of the United States Government, the corporation shall investigate, examine, experiment, and report on any subject of science or art. The corporation may not receive compensation for services to the Government, but the actual expense of the investigation, examination, experimentation, and report shall be paid by the Government from an appropriation for that purpose.
 
@@ -84,7 +84,7 @@ On request of the United States Government, the corporation shall investigate, e
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150303 | 36:253 (words after 1st comma). | Mar. 3, 1863, ch. 111, § 3 (words after 1st comma), 12 Stat. 806. |
+| 150303 | 36:253 (words after 1st comma). | Mar. 3, 1863, ch. 111, § 3 (words after 1st comma), 12 Stat. 806. |
 
 The words “any department of” are omitted as unnecessary.
 
@@ -92,7 +92,7 @@ The words “any department of” are omitted as unnecessary.
 
 **Key National Indicators**
 
-Pub. L. 111–148, title V, § 5605, Mar. 23, 2010, 124 Stat. 680, provided that:
+Pub. L. 111–148, title V, § 5605, Mar. 23, 2010, 124 Stat. 680, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -250,7 +250,7 @@ NOW, THEREFORE, by the authority vested in me as President by the Constitution a
 
 \4. When a department or agency of the executive branch of the Government determines that the Academy, because of its unique qualifications, is the only source that can provide the measure of expertise, independence, objectivity, and audience acceptance necessary to meet the department’s or agency’s program requirements, acquisition of services by the Academy may be obtained on a noncompetitive basis if otherwise in accordance with applicable law and regulations.
 
-## § 150304. Annual meeting
+## § 150304. Annual meeting
 
 The corporation shall hold an annual meeting at a place designated by the corporation.
 
@@ -260,4 +260,4 @@ The corporation shall hold an annual meeting at a place designated by the corpor
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 150304 | 36:253 (words before 1st comma). | Mar. 3, 1863, ch. 111, § 3 (words before 1st comma), 12 Stat. 806. |
+| 150304 | 36:253 (words before 1st comma). | Mar. 3, 1863, ch. 111, § 3 (words before 1st comma), 12 Stat. 806. |

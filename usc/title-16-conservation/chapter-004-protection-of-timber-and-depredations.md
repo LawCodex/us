@@ -15,39 +15,39 @@ retrieved: 2026-10-11
 
 # CHAPTER 4—PROTECTION OF TIMBER, AND DEPREDATIONS
 
-## §§ 591, 592. Repealed. Feb. 28, 1933, ch. 131, § 1, 47 Stat. 1349
+## §§ 591, 592. Repealed. Feb. 28, 1933, ch. 131, § 1, 47 Stat. 1349
 
-Sections, R.S. §§ 2458, 2459, related to lands producing live oak and red cedar timbers needed by Navy.
+Sections, R.S. §§ 2458, 2459, related to lands producing live oak and red cedar timbers needed by Navy.
 
-## § 593. Protection of timber in Florida
+## § 593. Protection of timber in Florida
 
 The President is authorized to employ so much of the land and naval forces of the United States as may be necessary effectually to prevent the felling, cutting down, or other destruction of the timber of the United States in Florida, and to prevent the transportation or carrying away any such timber as may be already felled or cut down; and to take such other and further measures as may be deemed advisable for the preservation of the timber of the United States in Florida.
 
-(R.S. § 2460.)
+(R.S. § 2460.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 2460 derived from act Feb. 23, 1882, ch. 9, 3 Stat. 651.
+R.S. § 2460 derived from act Feb. 23, 1882, ch. 9, 3 Stat. 651.
 
-## § 594. Protection of timber owned by United States from fire, disease, or insect ravages
+## § 594. Protection of timber owned by United States from fire, disease, or insect ravages
 
 The Secretary of the Interior is authorized to protect and preserve, from fire, disease, or the ravages of beetles, or other insects, timber owned by the United States upon the public lands, national parks, national monuments, Indian reservations, or other lands under the jurisdiction of the Department of the Interior owned by the United States, either directly or in cooperation with other departments of the Federal Government, with States, or with owners of timber; and appropriations are authorized to be made for such purposes.
 
 (Sept. 20, 1922, ch. 349, 42 Stat. 857.)
 
-## §§ 594–1 to 594–5. Repealed. Pub. L. 95–313, § 16(a)(3), formerly § 13(a)(3), July 1, 1978, 92 Stat. 374; renumbered § 16(a)(3), Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525
+## §§ 594–1 to 594–5. Repealed. Pub. L. 95–313, § 16(a)(3), formerly § 13(a)(3), July 1, 1978, 92 Stat. 374; renumbered § 16(a)(3), Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525
 
-Section 594–1, act June 25, 1947, ch. 141, § 1, 61 Stat. 177, set forth policy of Federal Government respecting protection of all forest lands from insects and diseases.
+Section 594–1, act June 25, 1947, ch. 141, § 1, 61 Stat. 177, set forth policy of Federal Government respecting protection of all forest lands from insects and diseases.
 
-Section 594–2, act June 25, 1947, ch. 141, § 2, 61 Stat. 177, related to conduct of surveys by Secretary of Agriculture to detect infestation by forest insect pests and tree diseases.
+Section 594–2, act June 25, 1947, ch. 141, § 2, 61 Stat. 177, related to conduct of surveys by Secretary of Agriculture to detect infestation by forest insect pests and tree diseases.
 
-Section 594–3, act June 25, 1947, ch. 141, § 3, 61 Stat. 177, related to allocation of funds for pest and plant disease control.
+Section 594–3, act June 25, 1947, ch. 141, § 3, 61 Stat. 177, related to allocation of funds for pest and plant disease control.
 
-Section 594–4, act June 25, 1947, ch. 141, § 4, 61 Stat. 177, related to contributions for insect or disease control carried out on non-federally owned forest land.
+Section 594–4, act June 25, 1947, ch. 141, § 4, 61 Stat. 177, related to contributions for insect or disease control carried out on non-federally owned forest land.
 
-Section 594–5, acts June 25, 1947, ch. 141, § 5, 61 Stat. 177; June 20, 1975, Pub. L. 94–40, 89 Stat. 224, set forth funding requirements for Federal program.
+Section 594–5, acts June 25, 1947, ch. 141, § 5, 61 Stat. 177; June 20, 1975, Pub. L. 94–40, 89 Stat. 224, set forth funding requirements for Federal program.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -57,17 +57,17 @@ Repeal effective Oct. 1, 1978, see section 17 of Pub. L. 95–313, set out as an
 
 **Short Title**
 
-Act June 25, 1947, ch. 141, § 7, 61 Stat. 177, providing that sections 594–1 to 594–5 of this title be known as the “Forest Pest Control Act”, was repealed by Pub. L. 95–313, § 16(a)(3), formerly § 13(a)(3), July 1, 1978, 92 Stat. 374, renumbered § 16(a)(3), Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525.
+Act June 25, 1947, ch. 141, § 7, 61 Stat. 177, providing that sections 594–1 to 594–5 of this title be known as the “Forest Pest Control Act”, was repealed by Pub. L. 95–313, § 16(a)(3), formerly § 13(a)(3), July 1, 1978, 92 Stat. 374, renumbered § 16(a)(3), Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525.
 
 **Construction**
 
-Act June 25, 1947, ch. 141, § 6, 61 Stat. 177, providing that sections 594–1 to 594–5 of this title not be construed as limiting or repealing existing legislation, was repealed by Pub. L. 95–313, § 16(a)(3), formerly § 13(a)(3), July 1, 1978, 92 Stat. 374, renumbered § 16(a)(3), Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525.
+Act June 25, 1947, ch. 141, § 6, 61 Stat. 177, providing that sections 594–1 to 594–5 of this title not be construed as limiting or repealing existing legislation, was repealed by Pub. L. 95–313, § 16(a)(3), formerly § 13(a)(3), July 1, 1978, 92 Stat. 374, renumbered § 16(a)(3), Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525.
 
 **Plan for Control of Dutch Elm Disease**
 
-Pub. L. 94–588, § 20, Oct. 22, 1976, 90 Stat. 2963, provided that the Secretary of Agriculture, in consultation with officials of both the States and political subdivisions thereof, conduct a study of the incidence of Dutch elm disease and evaluate methods for controlling the spread of such disease and submit a report on the results of such study to the President and the Congress on or before Mar. 1, 1977.
+Pub. L. 94–588, § 20, Oct. 22, 1976, 90 Stat. 2963, provided that the Secretary of Agriculture, in consultation with officials of both the States and political subdivisions thereof, conduct a study of the incidence of Dutch elm disease and evaluate methods for controlling the spread of such disease and submit a report on the results of such study to the President and the Congress on or before Mar. 1, 1977.
 
-## § 594a. Repealed. Pub. L. 95–313, § 16(a)(2), formerly § 13(a)(2), July 1, 1978, 92 Stat. 374; renumbered § 16(a)(2), Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525
+## § 594a. Repealed. Pub. L. 95–313, § 16(a)(2), formerly § 13(a)(2), July 1, 1978, 92 Stat. 374; renumbered § 16(a)(2), Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525
 
 Section, act Apr. 26, 1940, ch. 159, 54 Stat. 168, set forth provisions relating to white-pine blister rust control by the Secretary of Agriculture, and local authorities.
 
@@ -77,39 +77,39 @@ Section, act Apr. 26, 1940, ch. 159, 54 Stat. 168, set forth provisions relating
 
 Repeal effective Oct. 1, 1978, see section 17 of Pub. L. 95–313, set out as an Effective Date note under section 2101 of this title.
 
-## §§ 595, 596. Repealed. Feb. 28, 1933, ch. 131, § 1, 47 Stat. 1349
+## §§ 595, 596. Repealed. Feb. 28, 1933, ch. 131, § 1, 47 Stat. 1349
 
-Sections, R.S. §§ 2461, 2462, penalized cutting and provided for forfeiture of vessels carrying away timber on lands reserved or purchased to supply timber for Navy.
+Sections, R.S. §§ 2461, 2462, penalized cutting and provided for forfeiture of vessels carrying away timber on lands reserved or purchased to supply timber for Navy.
 
-## §§ 597 to 600. Repealed. Dec. 16, 1930, ch. 14, § 1, 46 Stat. 1028
+## §§ 597 to 600. Repealed. Dec. 16, 1930, ch. 14, § 1, 46 Stat. 1028
 
-Sections, R.S. § 2463, acts Mar. 3, 1879, ch. 189, §§ 1, 2, 20 Stat. 470, 471; Mar. 2, 1895, ch. 182, 28 Stat. 814, related to red cedar timber and reservation of lands for naval purposes.
+Sections, R.S. § 2463, acts Mar. 3, 1879, ch. 189, §§ 1, 2, 20 Stat. 470, 471; Mar. 2, 1895, ch. 182, 28 Stat. 814, related to red cedar timber and reservation of lands for naval purposes.
 
-## § 601. Disposition of moneys collected for depredations
+## § 601. Disposition of moneys collected for depredations
 
 All moneys collected for depredations upon the public lands shall be covered into the Treasury of the United States as other moneys received from the sale of public lands.
 
-(Apr. 30, 1878, ch. 76, § 2, 20 Stat. 46.)
+(Apr. 30, 1878, ch. 76, § 2, 20 Stat. 46.)
 
-## § 602. Seizure of timber cut
+## § 602. Seizure of timber cut
 
 If any timber cut on the public lands shall be exported from the Territories of the United States, it shall be liable to seizure by United States authority wherever found.
 
-(Apr. 30, 1878, ch. 76, § 2, 20 Stat. 46.)
+(Apr. 30, 1878, ch. 76, § 2, 20 Stat. 46.)
 
-## § 603. Omitted
+## § 603. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act June 3, 1878, ch. 151, § 5, 20 Stat. 90, related to prosecutions for violating former section 595 of this title.
+Section, act June 3, 1878, ch. 151, § 5, 20 Stat. 90, related to prosecutions for violating former section 595 of this title.
 
-## § 604. Cutting timber on certain mineral lands; permits to corporations; railroad corporations
+## § 604. Cutting timber on certain mineral lands; permits to corporations; railroad corporations
 
 All citizens of the United States and other persons, bona fide residents of the States of Colorado, Nevada, New Mexico, Arizona, Utah, Wyoming, North Dakota, South Dakota, Idaho, or Montana, and all other mineral districts of the United States, are authorized and permitted to fell and remove, for building, agricultural, mining, or other domestic purposes, any timber or other trees growing or being on the public lands, said lands being mineral, and not subject to entry under existing laws of the United States, except for mineral entry, in said States or districts of which such citizens or persons may be at the time bona fide residents, subject to such rules and regulations as the Secretary of the Interior may prescribe for the protection of the timber and of the undergrowth growing upon such lands, and for other purposes. It shall be lawful for the Secretary of the Interior to grant permits in accordance with the provisions of this section, to corporations incorporated under a Federal law of the United States or incorporated under the laws of a State or Territory of the United States, other than the State in which the privilege is requested. Such permits to confer the same rights and benefits upon such corporations as are conferred upon corporations incorporated in the State in which the privilege is to be exercised, but all such corporations shall first have complied with the laws of that State so as to entitle them to do business therein. The provisions of this section and sections 605 and 606 of this title shall not extend to railroad corporations.
 
-(June 3, 1878, ch. 150, § 1, 20 Stat. 88; Jan. 11, 1921, ch. 22, 41 Stat. 1088.)
+(June 3, 1878, ch. 150, § 1, 20 Stat. 88; Jan. 11, 1921, ch. 22, 41 Stat. 1088.)
 
 **Editorial Notes**
 
@@ -127,31 +127,31 @@ As originally enacted that act began with the following language: “Section 1 o
 
 This language was omitted as having been given effect by the combination of the remaining language of the act with section 1 of act June 3, 1878, to form this section, by section 612 of this title.
 
-## § 605. Unlawful cutting on mineral lands; notice to Secretary
+## § 605. Unlawful cutting on mineral lands; notice to Secretary
 
 It shall be the duty of such officer as the Secretary of the Interior may designate in whose district any mineral land may be situated to ascertain from time to time whether any timber is being cut or used upon any such lands, except for the purposes authorized by section 604 of this title, within such land district; and, if so, he shall immediately notify the Secretary of the Interior of that fact; and all necessary expenses incurred in making such proper examinations shall be paid for and allowed such officer in making up his next quarterly account.
 
-(June 3, 1878, ch. 150, § 2, 20 Stat. 88; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
+(June 3, 1878, ch. 150, § 2, 20 Stat. 88; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 “Such officer as the Secretary of the Interior may designate” substituted in text for “the register and the receiver of any local land office”, “Secretary of the Interior” for “Commissioner of the General Land Office”, and “such officer” for “such register and receiver” on authority of Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5.
 
-## § 606. Offense for unlawful cutting on mineral lands; punishment
+## § 606. Offense for unlawful cutting on mineral lands; punishment
 
 Any person or persons who shall violate the provisions of sections 604 and 605 of this title, or any rules and regulations in pursuance thereof made by the Secretary of the Interior, shall be deemed guilty of a misdemeanor, and, upon conviction, shall be fined in any sum not exceeding $500, and to which may be added imprisonment for any term not exceeding six months.
 
-(June 3, 1878, ch. 150, § 3, 20 Stat. 89.)
+(June 3, 1878, ch. 150, § 3, 20 Stat. 89.)
 
-## § 607. Cutting and removal of timber on certain public lands for certain purposes
+## § 607. Cutting and removal of timber on certain public lands for certain purposes
 
 In the States of Alaska, Colorado, Montana, Idaho, North Dakota, and South Dakota, Wyoming, New Mexico, and Arizona, and the gold and silver regions of Nevada, California, Oregon, Washington, and Utah in any criminal prosecution or civil action by the United States for a trespass on such public timber lands or to recover timber or lumber cut thereon it shall be a defense if the defendant shall show that the said timber was so cut or removed from the timber lands for use in such State by a resident thereof for agricultural, mining, manufacturing, or domestic purposes under rules and regulations made and prescribed by the Secretary of the Interior and has not been transported out of the same, but nothing herein contained shall operate to enlarge the rights of any railway company to cut timber on the public domain. The Secretary of the Interior may make suitable rules and regulations to carry out the provisions of this section, and he may designate the sections or tracts of land where timber may be cut, and it shall not be lawful to cut or remove any timber except as may be prescribed by such rules and regulations, but this section shall not operate to repeal sections 604 to 606 of this title.
 
-(Mar. 3, 1891, ch. 559, 26 Stat. 1093; Mar. 3, 1891, ch. 561, § 8, 26 Stat. 1099; Feb. 13, 1893, ch. 103, 27 Stat. 444; July 1, 1898, ch. 546, § 1, 30 Stat. 618; Mar. 3, 1901, ch. 855, 31 Stat. 1436; Mar. 3, 1901, ch. 862, 31 Stat. 1439; Mar. 3, 1919, ch. 111, 40 Stat. 1321; Mar. 3, 1919, ch. 115, 40 Stat. 1322; Feb. 27, 1922, ch. 82, 42 Stat. 398; Aug. 21, 1935, ch. 591, 49 Stat. 665; Pub. L. 86–70, § 41, June 25, 1959, 73 Stat. 151.)
+(Mar. 3, 1891, ch. 559, 26 Stat. 1093; Mar. 3, 1891, ch. 561, § 8, 26 Stat. 1099; Feb. 13, 1893, ch. 103, 27 Stat. 444; July 1, 1898, ch. 546, § 1, 30 Stat. 618; Mar. 3, 1901, ch. 855, 31 Stat. 1436; Mar. 3, 1901, ch. 862, 31 Stat. 1439; Mar. 3, 1919, ch. 111, 40 Stat. 1321; Mar. 3, 1919, ch. 115, 40 Stat. 1322; Feb. 27, 1922, ch. 82, 42 Stat. 398; Aug. 21, 1935, ch. 591, 49 Stat. 665; Pub. L. 86–70, § 41, June 25, 1959, 73 Stat. 151.)
 
 **Editorial Notes**
 
@@ -177,11 +177,11 @@ The portion of the section omitted here prescribed the time within which suits b
 
 1959—Pub. L. 86–70 included Alaska within the enumeration of States and struck out provisions which related to Territory of Alaska.
 
-## § 607a. Cutting and use of timber in Alaska by settlers, residents, miners, etc.
+## § 607a. Cutting and use of timber in Alaska by settlers, residents, miners, etc.
 
 The Secretary of the Interior may permit under regulations to be prescribed by him the use of timber found upon the public land in Alaska by actual settlers, residents, individual miners, and prospectors for minerals, for firewood, fencing, buildings, mining, prospecting, and for domestic purposes, as may actually be needed by such persons for such purposes and may permit such use by churches, hospitals, and charitable institutions in Alaska for firewood, fencing, buildings, and for domestic purposes.
 
-(May 14, 1898, ch. 299, § 11, 30 Stat. 414; June 15, 1938, ch. 437, 52 Stat. 699.)
+(May 14, 1898, ch. 299, § 11, 30 Stat. 414; June 15, 1938, ch. 437, 52 Stat. 699.)
 
 **Editorial Notes**
 
@@ -195,11 +195,11 @@ Section was formerly classified to section 423 of Title 48, Territories and Insu
 
 1938—Act June 15, 1938, inserted last clause relating to use of timber by churches, hospitals, and charitable institutions.
 
-## § 608. Permits to cut and remove timber; citizens of Malheur County, Oregon
+## § 608. Permits to cut and remove timber; citizens of Malheur County, Oregon
 
 It shall be lawful for the Secretary of the Interior to grant permits under the provisions of section 607 of this title to citizens of Malheur County, Oregon, to cut timber in the State of Idaho for agricultural, mining, or other domestic purposes, and to remove the timber so cut to Malheur County, State of Oregon.
 
-(Mar. 3, 1891, ch. 561, § 8 (part), as added Mar. 3, 1919, ch. 111, 40 Stat. 1321.)
+(Mar. 3, 1891, ch. 561, § 8 (part), as added Mar. 3, 1919, ch. 111, 40 Stat. 1321.)
 
 **Editorial Notes**
 
@@ -207,11 +207,11 @@ It shall be lawful for the Secretary of the Interior to grant permits under the 
 
 Section is derived from act Mar. 3, 1919, which recites that it amends section 8 of act Mar. 3, 1891, which is the source of section 607 of this title, by adding this section thereto. Section 8 of act Mar. 3, 1891, is classified to sections 607, 608 to 611a of this title.
 
-## § 609. Permits to cut and remove timber; citizens of Modoc County, California
+## § 609. Permits to cut and remove timber; citizens of Modoc County, California
 
 It shall be lawful for the Secretary of the Interior to grant permits under the provisions of section 607 of this title, to citizens of Modoc County, California, to cut timber in the State of Nevada for agricultural, mining, or other domestic purposes, and to remove the timber so cut to Modoc County, State of California.
 
-(Mar. 3, 1891, ch. 561, § 8 (part), as added Mar. 3, 1919, ch. 115, 40 Stat. 1322.)
+(Mar. 3, 1891, ch. 561, § 8 (part), as added Mar. 3, 1919, ch. 115, 40 Stat. 1322.)
 
 **Editorial Notes**
 
@@ -219,11 +219,11 @@ It shall be lawful for the Secretary of the Interior to grant permits under the 
 
 Section is derived from act Mar. 3, 1919, which recites that it amends section 8 of act Mar. 3, 1891, which is the source of section 607 of this title, by adding this section thereto. Section 8 of act Mar. 3, 1891, is classified to sections 607, 608 to 611a of this title.
 
-## § 610. Permits to cut and remove timber; citizens of Washington County and Kane County, Utah
+## § 610. Permits to cut and remove timber; citizens of Washington County and Kane County, Utah
 
 It shall be lawful for the Secretary of the Interior to grant permits under the provisions of section 607 of this title, to citizens of Washington County and of Kane County, Utah, to cut timber on the public lands of the counties of Mohave and Coconino, Arizona, for agricultural, mining, or other domestic purposes, and remove the timber so cut to said Washington County and Kane County, Utah.
 
-(Mar. 3, 1891, ch. 561, § 8 (part), as added Feb. 27, 1922, ch. 82, 42 Stat. 398.)
+(Mar. 3, 1891, ch. 561, § 8 (part), as added Feb. 27, 1922, ch. 82, 42 Stat. 398.)
 
 **Editorial Notes**
 
@@ -231,11 +231,11 @@ It shall be lawful for the Secretary of the Interior to grant permits under the 
 
 Section is derived from act Feb. 27, 1922, which recites that it amends section 8 of act Mar. 3, 1891, which is the source of section 607 of this title, by adding this section thereto. Section 8 of act Mar. 3, 1891, is classified to sections 607, 608 to 611a of this title.
 
-## § 611. Permits to cut and remove timber; citizens of Idaho and Wyoming
+## § 611. Permits to cut and remove timber; citizens of Idaho and Wyoming
 
 It shall be lawful for the Secretary of the Interior to grant permits under the provisions of section 607 of this title, to citizens of Idaho and Wyoming to cut timber in the State of Wyoming west of the Continental Divide on the Snake River and its tributaries to the boundary line of Idaho, for agricultural, mining, or other domestic purposes, and to remove the timber so cut to the State of Idaho.
 
-(Mar. 3, 1891, ch. 561, § 8 (part), as added July 1, 1898, ch. 546, § 1, 30 Stat. 618.)
+(Mar. 3, 1891, ch. 561, § 8 (part), as added July 1, 1898, ch. 546, § 1, 30 Stat. 618.)
 
 **Editorial Notes**
 
@@ -243,11 +243,11 @@ It shall be lawful for the Secretary of the Interior to grant permits under the 
 
 Section is derived from act July 1, 1898, which recites that it amends section 8 of act Mar. 3, 1891, which is the source of section 607 of this title, by adding this section thereto. Section 8 of act Mar. 3, 1891, is classified to sections 607, 608 to 611a of this title.
 
-## § 611a. Permits to cut and remove timber; citizens of Bear Lake County, Idaho
+## § 611a. Permits to cut and remove timber; citizens of Bear Lake County, Idaho
 
 The Secretary of the Interior is authorized to grant permits, subject to the provisions of section 607 of this title, to citizens of Bear Lake County, Idaho, to cut and remove timber on the unappropriated public domain in Lincoln County, Wyoming, for domestic use in Bear Lake County, Idaho: *Provided*, That no live standing timber shall be taken without compensation.
 
-(Mar. 3, 1891, ch. 561, § 8 (part), as added Aug. 21, 1935, ch. 591, 49 Stat. 665.)
+(Mar. 3, 1891, ch. 561, § 8 (part), as added Aug. 21, 1935, ch. 591, 49 Stat. 665.)
 
 **Editorial Notes**
 
@@ -255,7 +255,7 @@ The Secretary of the Interior is authorized to grant permits, subject to the pro
 
 Section is derived from act Aug. 1, 1935, which recites that it amends section 8 of act Mar. 31, 1891, which is the source of section 607 of this title, by adding this section thereto. Section 8 of act Mar. 3, 1891, is classified to sections 607, 608 to 611a of this title.
 
-## § 612. Permits to cut and remove timber to certain corporations
+## § 612. Permits to cut and remove timber to certain corporations
 
 It shall be lawful for the Secretary of the Interior to grant permits in accordance with the provisions of section 607 of this title, to corporations incorporated under a Federal law of the United States or incorporated under the laws of a State or Territory of the United States, other than the State in which the privilege is requested, said permits to confer the same rights and benefits upon such corporations as are conferred upon corporations incorporated in the State in which the privilege is to be exercised: *Provided*, That all such corporations shall first have complied with the laws of that State so as to entitle them to do business therein; but nothing herein shall operate to enlarge the rights of any railway company to cut timber on the public domain.
 
@@ -267,27 +267,27 @@ It shall be lawful for the Secretary of the Interior to grant permits in accorda
 
 See portion of note under section 604 of this title relative to act Jan. 11, 1921, which is applicable equally to this section.
 
-## § 613. Limitations of use of timber taken not to apply to certain territory
+## § 613. Limitations of use of timber taken not to apply to certain territory
 
 The provisions of section 607 of this title, limiting the use of timber taken from public lands to residents of the State in which such timber is found, for use within said State, shall not apply to the south slope of Pryor Mountains, in the State of Montana, lying south of the Crow Reservation, west of the Big Horn River, and east of Sage Creek; but within the above-described boundaries the provisions of said section shall apply equally to the residents of the States of Wyoming and Montana, and to the use of timber taken from the above-described tract in either of the above-named States.
 
 (Mar. 3, 1901, ch. 862, 31 Stat. 1439.)
 
-## §§ 614, 615. Repealed. Pub. L. 87–689, § 2, Sept. 25, 1962, 76 Stat. 588
+## §§ 614, 615. Repealed. Pub. L. 87–689, § 2, Sept. 25, 1962, 76 Stat. 588
 
-Sections, acts Mar. 4, 1913, ch. 165, §§ 1, 2, 37 Stat. 1015, 1016; July 3, 1926, ch. 779, §§ 1, 2, 44 Stat. 890, 891, related to sale of timber killed or damaged by forest-fires and to disposal of proceeds of sale of burnt timber on an existing claim.
+Sections, acts Mar. 4, 1913, ch. 165, §§ 1, 2, 37 Stat. 1015, 1016; July 3, 1926, ch. 779, §§ 1, 2, 44 Stat. 890, 891, related to sale of timber killed or damaged by forest-fires and to disposal of proceeds of sale of burnt timber on an existing claim.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Savings Provision**
 
-Pub. L. 87–689, § 2, Sept. 25, 1962, 76 Stat. 588, provided in part that rights and liabilities existing under sections 614 and 615 of this title on Sept. 25, 1962, shall not be affected thereby.
+Pub. L. 87–689, § 2, Sept. 25, 1962, 76 Stat. 588, provided in part that rights and liabilities existing under sections 614 and 615 of this title on Sept. 25, 1962, shall not be affected thereby.
 
-## § 615a. Sale of timber in Alaska; appraisal; local consumption; accounting; deposit in Treasury
+## § 615a. Sale of timber in Alaska; appraisal; local consumption; accounting; deposit in Treasury
 
 The Secretary of the Interior, under such rules and regulations as he may prescribe, may cause to be appraised the timber or any part thereof upon public lands in Alaska, and may from time to time sell so much thereof as he may deem proper for not less than the appraised value thereof, in such quantities to each purchaser as he shall prescribe, to be used in Alaska except as aforesaid, but not for export therefrom except as provided under section 615b of this title. And such sales shall at all times be limited to actual necessities for consumption in Alaska from year to year, and payments for such timber shall be made to such officer as the Secretary of the Interior may designate of the local land office of the land district in which said timber may be sold, under such rules and regulations as the Secretary of the Interior may prescribe, and the moneys arising therefrom shall be accounted for by such officer as the Secretary of the Interior may designate to the Secretary of the Interior in a separate account, and shall be covered into the Treasury.
 
-(May 14, 1898, ch. 299, § 11, 30 Stat. 414; Oct. 28, 1921, ch. 114, § 1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1144; 1946 Reorg. Plan. No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
+(May 14, 1898, ch. 299, § 11, 30 Stat. 414; Oct. 28, 1921, ch. 114, § 1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1144; 1946 Reorg. Plan. No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
 **Editorial Notes**
 
@@ -307,15 +307,15 @@ Acts Oct. 28, 1921, and Mar. 3, 1925, consolidated offices of register and recei
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Functions of Commissioner of General Land Office and registers transferred to Secretary of the Interior or that officer as the Secretary may designate, see Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5.
 
-## § 615b. Exportation of timber pulp wood and wood pulp from Alaska
+## § 615b. Exportation of timber pulp wood and wood pulp from Alaska
 
 Birch timber and pulp wood or wood pulp manufactured from timber in Alaska may be exported therefrom.
 
-(Feb. 1, 1905, ch. 288, § 2, 33 Stat. 628; June 5, 1920, ch. 235, § 1, 41 Stat. 917.)
+(Feb. 1, 1905, ch. 288, § 2, 33 Stat. 628; June 5, 1920, ch. 235, § 1, 41 Stat. 917.)
 
 **Editorial Notes**
 
@@ -327,11 +327,11 @@ Section was formerly classified to section 422 of Title 48, Territories and Insu
 
 1920—Act June 5, 1920, authorized exportation of birch timber.
 
-## § 616. Exportation of timber cut on national forest or public land in Alaska
+## § 616. Exportation of timber cut on national forest or public land in Alaska
 
 Timber lawfully cut on any national forest, or on the public lands in Alaska, may be exported from the State or Territory where grown if, in the judgment of the Secretary of the department administering the national forests, or the public lands in Alaska, the supply of timber for local use will not be endangered thereby, and the respective Secretaries concerned are authorized to issue rules and regulations to carry out the purposes of this section.
 
-(Apr. 12, 1926, § 1, ch. 117, 44 Stat. 242.)
+(Apr. 12, 1926, § 1, ch. 117, 44 Stat. 242.)
 
 **Executive Documents**
 
@@ -339,7 +339,7 @@ Timber lawfully cut on any national forest, or on the public lands in Alaska, ma
 
 Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
 
-## § 617. Exportation of unprocessed timber from Federal lands
+## § 617. Exportation of unprocessed timber from Federal lands
 
 **(a) Limitation of quantity available for export**
 
@@ -357,7 +357,7 @@ The Secretaries of the departments administering lands referred to in subsection
 
 In issuing rules and regulations pursuant to subsection (c), the appropriate Secretaries may include therein provisions authorizing the said Secretaries, in their discretion, to exclude from the limitations imposed by this section sales having an appraised value of less than $2,000.
 
-(Apr. 12, 1926, ch. 117, § 2, as added Pub. L. 90–554, pt. IV, § 401, Oct. 8, 1968, 82 Stat. 966; amended Pub. L. 91–609, title IX, § 921, Dec. 31, 1970, 84 Stat. 1817.)
+(Apr. 12, 1926, ch. 117, § 2, as added Pub. L. 90–554, pt. IV, § 401, Oct. 8, 1968, 82 Stat. 966; amended Pub. L. 91–609, title IX, § 921, Dec. 31, 1970, 84 Stat. 1817.)
 
 **Editorial Notes**
 
@@ -365,7 +365,7 @@ In issuing rules and regulations pursuant to subsection (c), the appropriate Sec
 
 1970—Subsec. (a). Pub. L. 91–609 extended date for application of limitation provision from 1971 to 1973 calendar year.
 
-## § 618. Timber contract payment modification
+## § 618. Timber contract payment modification
 
 **(a) Statement of purpose, authorization, scope, qualifications, financial requirements, etc., for buy-out**
 
@@ -447,7 +447,7 @@ The Secretary of Agriculture and the Secretary of the Interior shall monitor bid
 
 Effective January 1, 1985, in any contract for the sale of timber from the National Forests, the Secretary of Agriculture shall require a cash down-payment at the time the contract is executed and periodic payments to be made over the remaining period of the contract.
 
-(Pub. L. 98–478, § 2, Oct. 16, 1984, 98 Stat. 2213.)
+(Pub. L. 98–478, § 2, Oct. 16, 1984, 98 Stat. 2213.)
 
 **Editorial Notes**
 
@@ -459,13 +459,13 @@ This Act, referred to in subsec. (a)(4)(B), (7)(C), is Pub. L. 98–478, Oct. 16
 
 **Short Title**
 
-Pub. L. 98–478, § 1, Oct. 16, 1984, 98 Stat. 2213, provided: “That this Act [enacting this section and sections 539f and 619 of this title] may be cited as ‘Federal Timber Contract Payment Modification Act’.”
+Pub. L. 98–478, § 1, Oct. 16, 1984, 98 Stat. 2213, provided: “That this Act [enacting this section and sections 539f and 619 of this title] may be cited as ‘Federal Timber Contract Payment Modification Act’.”
 
 **Administrative Appeals of Timber Sales**
 
-Pub. L. 99–500, § 101(h) [title III, § 320], Oct. 18, 1986, 100 Stat. 1783–242, 1783–286, and Pub. L. 99–591, § 101(h) [title III, § 320], Oct. 30, 1986, 100 Stat. 3341–242, 3341–287, provided that: “To assure that National Forest and Bureau of Land Management timber included in sales defaulted by the purchaser, or returned under the Federal Timber Contract Payment Modification Act (Public Law 98–478) [see Short Title note above], is available for resale in a timely manner, such sales shall be subject only to one level of administrative appeal. This limitation shall not abridge the right of judicial review. Actions on such administrative appeals should be completed within 90 days of receipt of the notice of appeal. Sales that are reoffered shall be modified, including minor additions or deletions, as appropriate, to reduce adverse environmental impacts, pursuant to current land management plans and guidelines, and such modifications in themselves should not be construed to require the preparation of new or supplemental environmental assessments. This section shall not apply to any decision on the determination of damages due to the Government for defaulted or canceled contracts.”
+Pub. L. 99–500, § 101(h) [title III, § 320], Oct. 18, 1986, 100 Stat. 1783–242, 1783–286, and Pub. L. 99–591, § 101(h) [title III, § 320], Oct. 30, 1986, 100 Stat. 3341–242, 3341–287, provided that: “To assure that National Forest and Bureau of Land Management timber included in sales defaulted by the purchaser, or returned under the Federal Timber Contract Payment Modification Act (Public Law 98–478) [see Short Title note above], is available for resale in a timely manner, such sales shall be subject only to one level of administrative appeal. This limitation shall not abridge the right of judicial review. Actions on such administrative appeals should be completed within 90 days of receipt of the notice of appeal. Sales that are reoffered shall be modified, including minor additions or deletions, as appropriate, to reduce adverse environmental impacts, pursuant to current land management plans and guidelines, and such modifications in themselves should not be construed to require the preparation of new or supplemental environmental assessments. This section shall not apply to any decision on the determination of damages due to the Government for defaulted or canceled contracts.”
 
-## § 619. Emergency stumpage rate redeterminations in Alaska
+## § 619. Emergency stumpage rate redeterminations in Alaska
 
 **(a) Application; applicable period**
 
@@ -479,9 +479,9 @@ In making the emergency rate redeterminations the Secretary may modify existing 
 
 The provisions of this section shall not apply to contracts held by the holders of 50-year timber sale contracts in Alaska.
 
-(Pub. L. 98–478, § 4, Oct. 16, 1984, 98 Stat. 2217.)
+(Pub. L. 98–478, § 4, Oct. 16, 1984, 98 Stat. 2217.)
 
-## § 620. Findings and purposes
+## § 620. Findings and purposes
 
 **(a) Findings** The Congress makes the following findings:
 
@@ -513,13 +513,13 @@ The provisions of this section shall not apply to contracts held by the holders 
 
 **(5)** to effect measures aimed at meeting these objectives in conformity with the obligations of the United States under the WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of section 3501 of title 19).
 
-(Pub. L. 101–382, title IV, § 488, Aug. 20, 1990, 104 Stat. 714; Pub. L. 106–36, title I, § 1002(a)(1), June 25, 1999, 113 Stat. 132.)
+(Pub. L. 101–382, title IV, § 488, Aug. 20, 1990, 104 Stat. 714; Pub. L. 106–36, title I, § 1002(a)(1), June 25, 1999, 113 Stat. 132.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Endangered Species Act of 1973, referred to in subsec. (a)(5), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (a)(5), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 The National Forest Management Act of 1976, referred to in subsec. (a)(5), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, 581h, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables.
 
@@ -527,29 +527,29 @@ Sections 620 to 620j of this title, referred to in subsec. (b), was in the origi
 
 **Amendments**
 
-1999—Subsec. (b)(3). Pub. L. 106–36, § 1002(a)(1)(A), substituted “GATT 1994 (as defined in section 3501(1)(B) of title 19)” for “General Agreement on Tariffs and Trade”.
+1999—Subsec. (b)(3). Pub. L. 106–36, § 1002(a)(1)(A), substituted “GATT 1994 (as defined in section 3501(1)(B) of title 19)” for “General Agreement on Tariffs and Trade”.
 
-Subsec. (b)(5). Pub. L. 106–36, § 1002(a)(1)(B), substituted “WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of section 3501 of title 19)” for “General Agreement on Tariffs and Trade”.
+Subsec. (b)(5). Pub. L. 106–36, § 1002(a)(1)(B), substituted “WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of section 3501 of title 19)” for “General Agreement on Tariffs and Trade”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 101–382, title IV, § 494, Aug. 20, 1990, 104 Stat. 725, provided that: “Except as otherwise provided in this title, the provisions of this title [enacting this section and sections 620a to 620j of this title and provisions set out as a note below] take effect on the date of the enactment of this Act [Aug. 20, 1990].”
+Pub. L. 101–382, title IV, § 494, Aug. 20, 1990, 104 Stat. 725, provided that: “Except as otherwise provided in this title, the provisions of this title [enacting this section and sections 620a to 620j of this title and provisions set out as a note below] take effect on the date of the enactment of this Act [Aug. 20, 1990].”
 
 **Short Title of 1997 Amendment**
 
-Pub. L. 105–83, title VI, § 601, Nov. 14, 1997, 111 Stat. 1617, provided that: “This title [amending sections 620b to 620f of this title] may be cited as the ‘Forest Resources Conservation and Shortage Relief Act of 1997’.”
+Pub. L. 105–83, title VI, § 601, Nov. 14, 1997, 111 Stat. 1617, provided that: “This title [amending sections 620b to 620f of this title] may be cited as the ‘Forest Resources Conservation and Shortage Relief Act of 1997’.”
 
 **Short Title of 1993 Amendment**
 
-Pub. L. 103–45, § 1, July 1, 1993, 107 Stat. 223, provided that: “This Act [amending sections 620c and 620d of this title and enacting provisions set out as a note under section 620c of this title] may be cited as the ‘Forest Resources Conservation and Shortage Relief Amendments Act of 1993’.”
+Pub. L. 103–45, § 1, July 1, 1993, 107 Stat. 223, provided that: “This Act [amending sections 620c and 620d of this title and enacting provisions set out as a note under section 620c of this title] may be cited as the ‘Forest Resources Conservation and Shortage Relief Amendments Act of 1993’.”
 
 **Short Title**
 
-Pub. L. 101–382, title IV, § 487, Aug. 20, 1990, 104 Stat. 714, provided that: “This title [enacting this section and sections 620a to 620j of this title and provisions set out as a note above] may be cited as the ‘Forest Resources Conservation and Shortage Relief Act of 1990’.”
+Pub. L. 101–382, title IV, § 487, Aug. 20, 1990, 104 Stat. 714, provided that: “This title [enacting this section and sections 620a to 620j of this title and provisions set out as a note above] may be cited as the ‘Forest Resources Conservation and Shortage Relief Act of 1990’.”
 
-## § 620a. Restrictions on exports of unprocessed timber originating from Federal lands
+## § 620a. Restrictions on exports of unprocessed timber originating from Federal lands
 
 **(a) Prohibition on export of unprocessed timber originating from Federal lands**
 
@@ -565,9 +565,9 @@ The prohibition contained in subsection (a) shall not apply to specific quantiti
 
 Any determination under paragraph (1) shall be made in regulations issued in accordance with section 553 of title 5. Any such determination shall be reviewed at least once in every 3-year period. The Secretary concerned shall publish notice of such review in the Federal Register, and shall give the public an opportunity to comment on such review.
 
-(Pub. L. 101–382, title IV, § 489, Aug. 20, 1990, 104 Stat. 715.)
+(Pub. L. 101–382, title IV, § 489, Aug. 20, 1990, 104 Stat. 715.)
 
-## § 620b. Limitations on substitution of unprocessed Federal timber for unprocessed timber exported from private lands
+## § 620b. Limitations on substitution of unprocessed Federal timber for unprocessed timber exported from private lands
 
 **(a) Direct substitution**
 
@@ -725,7 +725,7 @@ The exportability of unprocessed timber from private land located outside of a s
 
 Nothing in this section restricts or authorizes any restriction on the domestic transportation or processing of timber harvested from private land, except that the Secretary may prohibit processing facilities located in the State of Idaho that have sourcing areas from processing timber harvested from private land outside of the boundaries of those sourcing areas.
 
-(Pub. L. 101–382, title IV, § 490, Aug. 20, 1990, 104 Stat. 715; Pub. L. 105–83, title VI, § 602(a), Nov. 14, 1997, 111 Stat. 1618.)
+(Pub. L. 101–382, title IV, § 490, Aug. 20, 1990, 104 Stat. 715; Pub. L. 105–83, title VI, § 602(a), Nov. 14, 1997, 111 Stat. 1618.)
 
 **Editorial Notes**
 
@@ -735,25 +735,25 @@ August 20, 1990, referred to in subsec. (a)(2)(B), was in the original “the ef
 
 **Amendments**
 
-1997—Subsec. (a)(1). Pub. L. 105–83, § 602(a)(1)(A), inserted “paragraph (3) and” after “Except as provided in”.
+1997—Subsec. (a)(1). Pub. L. 105–83, § 602(a)(1)(A), inserted “paragraph (3) and” after “Except as provided in”.
 
-Subsec. (a)(3). Pub. L. 105–83, § 602(a)(1)(B), added par. (3).
+Subsec. (a)(3). Pub. L. 105–83, § 602(a)(1)(B), added par. (3).
 
-Subsec. (c). Pub. L. 105–83, § 602(a)(2)(A), struck out “Approval of” before “Sourcing areas” in heading.
+Subsec. (c). Pub. L. 105–83, § 602(a)(2)(A), struck out “Approval of” before “Sourcing areas” in heading.
 
-Subsec. (c)(2). Pub. L. 105–83, § 602(a)(2)(B)(i), inserted “for sourcing areas for processing facilities located outside the northwestern private timber open market area” after “application” in heading.
+Subsec. (c)(2). Pub. L. 105–83, § 602(a)(2)(B)(i), inserted “for sourcing areas for processing facilities located outside the northwestern private timber open market area” after “application” in heading.
 
-Subsec. (c)(2)(A). Pub. L. 105–83, § 602(a)(2)(B)(ii), inserted “(except private land located in the northwestern private timber open market area)” after “private lands”.
+Subsec. (c)(2)(A). Pub. L. 105–83, § 602(a)(2)(B)(ii), inserted “(except private land located in the northwestern private timber open market area)” after “private lands”.
 
-Subsec. (c)(3). Pub. L. 105–83, § 602(a)(2)(C), inserted “for sourcing areas for processing facilities located outside of the northwestern private timber open market area” in heading, designated existing provisions as subpar. (A), inserted heading, and struck out at end “In making a determination referred to in this paragraph, the Secretary concerned shall consider equally the timber purchasing patterns, on private and Federal lands, of the applicant as well as other persons in the same local vicinity as the applicant, and the relative similarity of such purchasing patterns.”, and added subpars. (B) to (D).
+Subsec. (c)(3). Pub. L. 105–83, § 602(a)(2)(C), inserted “for sourcing areas for processing facilities located outside of the northwestern private timber open market area” in heading, designated existing provisions as subpar. (A), inserted heading, and struck out at end “In making a determination referred to in this paragraph, the Secretary concerned shall consider equally the timber purchasing patterns, on private and Federal lands, of the applicant as well as other persons in the same local vicinity as the applicant, and the relative similarity of such purchasing patterns.”, and added subpars. (B) to (D).
 
-Subsec. (c)(4), (5). Pub. L. 105–83, § 602(a)(2)(D), (E), inserted “for sourcing areas for processing facilities located outside the northwestern private timber open market area” in headings.
+Subsec. (c)(4), (5). Pub. L. 105–83, § 602(a)(2)(D), (E), inserted “for sourcing areas for processing facilities located outside the northwestern private timber open market area” in headings.
 
-Subsec. (c)(6), (7). Pub. L. 105–83, § 602(a)(2)(F), added pars. (6) and (7).
+Subsec. (c)(6), (7). Pub. L. 105–83, § 602(a)(2)(F), added pars. (6) and (7).
 
-Subsec. (d). Pub. L. 105–83, § 602(a)(3), added subsec. (d).
+Subsec. (d). Pub. L. 105–83, § 602(a)(3), added subsec. (d).
 
-## § 620c. Restriction on exports of unprocessed timber from State and other public lands
+## § 620c. Restriction on exports of unprocessed timber from State and other public lands
 
 **(a) Order to prohibit export of unprocessed timber originating from State or other public lands**
 
@@ -847,9 +847,9 @@ Not later than 30 days after July 1, 1993, the Governor of any State that had, b
 
 **(f) Western red cedar**
 
-Nothing in this section shall be construed to supersede section 4606(i) 1
+Nothing in this section shall be construed to supersede section 4606(i) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 50.
 
@@ -877,13 +877,13 @@ Notwithstanding any other provision of this section, beginning on January 1, 199
 
 Nothing in sections 620 to 620j of this title shall be construed to limit the authority of the President or the United States Trade Representative to take action authorized by law to respond appropriately to any measures taken by a foreign government in connection with sections 620 to 620j of this title.
 
-(Pub. L. 101–382, title IV, § 491, Aug. 20, 1990, 104 Stat. 719; Pub. L. 103–45, § 2, July 1, 1993, 107 Stat. 223; Pub. L. 105–83, title VI, § 602(b), Nov. 14, 1997, 111 Stat. 1620; Pub. L. 106–36, title I, § 1002(a)(2), June 25, 1999, 113 Stat. 133.)
+(Pub. L. 101–382, title IV, § 491, Aug. 20, 1990, 104 Stat. 719; Pub. L. 103–45, § 2, July 1, 1993, 107 Stat. 223; Pub. L. 105–83, title VI, § 602(b), Nov. 14, 1997, 111 Stat. 1620; Pub. L. 106–36, title I, § 1002(a)(2), June 25, 1999, 113 Stat. 133.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4606(i) of title 50, referred to in subsec. (f), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+Section 4606(i) of title 50, referred to in subsec. (f), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 **Amendments**
 
@@ -891,11 +891,11 @@ Section 4606(i) of title 50, referred to in subsec. (f), was repealed by Pub. L.
 
 1997—Subsec. (b)(2). Pub. L. 105–83 struck out “the following shall apply:” in introductory provisions, substituted “the Secretary” for “(A) The Secretary” and “as of November 14, 1997” for “during the period beginning on June 1, 1993, and ending on December 31, 1995”, and struck out subpar. (B) which read as follows: “For all periods on or after January 1, 1996, the Secretary of Commerce shall issue an order referred to in subsection (a) of this section not later than September 30, 1995. Such order shall prohibit the export of the lesser of 400,000,000 board feet or the annual sales volume in that State of unprocessed timber originating from public lands.”
 
-1993—Subsec. (a). Pub. L. 103–45, § 2(1), substituted “(g)” for “(e)” and “as provided” for “in the amounts specified”.
+1993—Subsec. (a). Pub. L. 103–45, § 2(1), substituted “(g)” for “(e)” and “as provided” for “in the amounts specified”.
 
-Subsec. (b)(1). Pub. L. 103–45, § 2(2)(A), inserted “, notwithstanding any other provision of law,” after “prohibit” and substituted “, effective June 1, 1993” for “not later than 21 days after August 20, 1990”.
+Subsec. (b)(1). Pub. L. 103–45, § 2(2)(A), inserted “, notwithstanding any other provision of law,” after “prohibit” and substituted “, effective June 1, 1993” for “not later than 21 days after August 20, 1990”.
 
-Subsec. (b)(2). Pub. L. 103–45, § 2(2)(B), added subpar. (A) and struck out former subpar. (A), redesignated subpar. (D) as (B) and substituted “annual sales volume in that State of unprocessed timber originating from public lands” for “total annual sales volume” at end, and struck out former subpars. (B) and (C). Prior to amendment, former subpars. (A) to (C) read as follows:
+Subsec. (b)(2). Pub. L. 103–45, § 2(2)(B), added subpar. (A) and struck out former subpar. (A), redesignated subpar. (D) as (B) and substituted “annual sales volume in that State of unprocessed timber originating from public lands” for “total annual sales volume” at end, and struck out former subpars. (B) and (C). Prior to amendment, former subpars. (A) to (C) read as follows:
 
 “(A) The Secretary of Commerce shall issue an order referred to in subsection (a) of this section not later than 21 days after August 20, 1990. Such order shall cover a period beginning 120 days after the issuance of such an order, or January 1, 1991, whichever is earlier, and shall extend to December 31, 1991. Such order shall prohibit the export of 75 percent of the annual sales volume in such State of unprocessed timber from public lands.
 
@@ -903,25 +903,25 @@ Subsec. (b)(2). Pub. L. 103–45, § 2(2)(B), added subpar. (A) and struck out
 
 “(C) For the period beginning on January 1, 1994, and ending on December 31, 1995, the Secretary of Commerce shall, after notice and an opportunity for a hearing, issue an order referred to in subsection (a) of this section not later than September 30, 1993. Such order shall prohibit the export of at least 75 percent of such State’s annual sales volume for this 2-year period.”
 
-Subsec. (b)(3), (4). Pub. L. 103–45, § 2(2)(C), (D), added par. (3), redesignated former par. (3) as (4), and substituted “the Secretary of Commerce pursuant to sections 620 to 620j of this title and the effectiveness of State programs authorized under subsection (d)” for “States pursuant to sections 620 to 620j of this title”.
+Subsec. (b)(3), (4). Pub. L. 103–45, § 2(2)(C), (D), added par. (3), redesignated former par. (3) as (4), and substituted “the Secretary of Commerce pursuant to sections 620 to 620j of this title and the effectiveness of State programs authorized under subsection (d)” for “States pursuant to sections 620 to 620j of this title”.
 
-Subsecs. (c) to (*l*). Pub. L. 103–45, § 2(3), (4), added subsecs. (c) to (f), struck out former subsecs. (c) and (d) which related to basis for increase in volume prohibited from export and administrative provisions, respectively, and redesignated former subsecs. (e) to (j) as (g) to (*l*), respectively.
+Subsecs. (c) to (*l*). Pub. L. 103–45, § 2(3), (4), added subsecs. (c) to (f), struck out former subsecs. (c) and (d) which related to basis for increase in volume prohibited from export and administrative provisions, respectively, and redesignated former subsecs. (e) to (j) as (g) to (*l*), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Severability of Provisions**
 
-Pub. L. 103–45, § 4, July 1, 1993, 107 Stat. 228, provided that: “If any provision of this Act [amending this section and section 620d of this title and enacting provisions set out as a note under section 620 of this title], or the amendments made by this Act, or the application thereof to any person or circumstance is held invalid, the remainder of this Act and such amendments and the application of such provision to other persons not similarly situated or to other circumstances shall not be affected by such invalidation.”
+Pub. L. 103–45, § 4, July 1, 1993, 107 Stat. 228, provided that: “If any provision of this Act [amending this section and section 620d of this title and enacting provisions set out as a note under section 620 of this title], or the amendments made by this Act, or the application thereof to any person or circumstance is held invalid, the remainder of this Act and such amendments and the application of such provision to other persons not similarly situated or to other circumstances shall not be affected by such invalidation.”
 
-**Extension and Issuance of Order Under Subsection (b)(2)**
+**Extension and Issuance of Order Under Subsection (b)(2)**
 
-Pub. L. 104–208, div. A, title I, § 101(d) [title III], Sept. 30, 1996, 110 Stat. 3009–181, 3009–223, which in part directed Secretary of Commerce to extend until Sept. 30, 1997, the order issued under subsec. (b)(2)(A) of this section and to issue an order under subsec. (b)(2)(B) of this section effective Oct. 1, 1997, was from the Department of the Interior and Related Agencies Appropriations Act, 1997, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 104–208, div. A, title I, § 101(d) [title III], Sept. 30, 1996, 110 Stat. 3009–181, 3009–223, which in part directed Secretary of Commerce to extend until Sept. 30, 1997, the order issued under subsec. (b)(2)(A) of this section and to issue an order under subsec. (b)(2)(B) of this section effective Oct. 1, 1997, was from the Department of the Interior and Related Agencies Appropriations Act, 1997, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 104–134, title I, § 101(c) [title III, § 333], Apr. 26, 1996, 110 Stat. 1321–156, 1321–210; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+Pub. L. 104–134, title I, § 101(c) [title III, § 333], Apr. 26, 1996, 110 Stat. 1321–156, 1321–210; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
-Pub. L. 104–99, title I, § 130, Jan. 26, 1996, 110 Stat. 34.
+Pub. L. 104–99, title I, § 130, Jan. 26, 1996, 110 Stat. 34.
 
-## § 620d. Monitoring and enforcement
+## § 620d. Monitoring and enforcement
 
 **(a) Monitoring and reports** In accordance with regulations issued under this section—
 
@@ -1007,7 +1007,7 @@ in such form as the Secretary of Commerce may prescribe; and
 
 **(cc)** on condition of there being no further violation under this paragraph for a prescribed period, suspend imposition of the penalty.
 
-**(ii) Contractural 1 [footnote: 1 So in original. Probably should be “Contractual”.] remedies.—** In the case of a minor violation of sections 620 to 620j of this title (including a regulation), the Secretary concerned shall, to the maximum extent practicable, permit a contracting officer to redress the violation in accordance with the applicable timber sale contract rather than assess a penalty under this paragraph.
+**(ii) Contractural 1 [footnote: 1 So in original. Probably should be “Contractual”.] remedies.—** In the case of a minor violation of sections 620 to 620j of this title (including a regulation), the Secretary concerned shall, to the maximum extent practicable, permit a contracting officer to redress the violation in accordance with the applicable timber sale contract rather than assess a penalty under this paragraph.
 
 **(3) Penalties not exclusive; judicial review**
 
@@ -1039,23 +1039,23 @@ The head of the appropriate Federal department or agency under sections 620 to 6
 
 Subsections (c) and (d) do not apply to violations of section 620i of this title.
 
-(Pub. L. 101–382, title IV, § 492, Aug. 20, 1990, 104 Stat. 722; Pub. L. 103–45, § 3, July 1, 1993, 107 Stat. 226; Pub. L. 105–83, title VI, § 603, Nov. 14, 1997, 111 Stat. 1620.)
+(Pub. L. 101–382, title IV, § 492, Aug. 20, 1990, 104 Stat. 722; Pub. L. 103–45, § 3, July 1, 1993, 107 Stat. 226; Pub. L. 105–83, title VI, § 603, Nov. 14, 1997, 111 Stat. 1620.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1997—Subsec. (c)(2)(C). Pub. L. 105–83, § 603(1), added subpar. (C).
+1997—Subsec. (c)(2)(C). Pub. L. 105–83, § 603(1), added subpar. (C).
 
-Subsec. (d)(1). Pub. L. 105–83, § 603(2), inserted subpar. (A) designation and heading, substituted “Subject to subparagraph (B), the head” for “The head”, and added subpar. (B).
+Subsec. (d)(1). Pub. L. 105–83, § 603(2), inserted subpar. (A) designation and heading, substituted “Subject to subparagraph (B), the head” for “The head”, and added subpar. (B).
 
-1993—Subsec. (a)(3), (4). Pub. L. 103–45, § 3(a), added pars. (3) and (4).
+1993—Subsec. (a)(3), (4). Pub. L. 103–45, § 3(a), added pars. (3) and (4).
 
-Subsec. (c)(1). Pub. L. 103–45, § 3(b)(1), designated existing provisions as subpar. (A) and added subpar. (B).
+Subsec. (c)(1). Pub. L. 103–45, § 3(b)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (c)(2). Pub. L. 103–45, § 3(b)(2), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii) of subpar. (A), and added subpar. (B).
+Subsec. (c)(2). Pub. L. 103–45, § 3(b)(2), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii) of subpar. (A), and added subpar. (B).
 
-## § 620e. Definitions
+## § 620e. Definitions
 
 For purposes of sections 620 to 620j of this title:
 
@@ -1131,7 +1131,7 @@ For purposes of sections 620 to 620j of this title:
 
 **(B)** in the case of a violation of a subsequent purchaser of the timber, an act or omission with respect to an operation at a particular processing facility or log yard.
 
-(Pub. L. 101–382, title IV, § 493, Aug. 20, 1990, 104 Stat. 723; Pub. L. 105–83, title VI, § 604, Nov. 14, 1997, 111 Stat. 1621.)
+(Pub. L. 101–382, title IV, § 493, Aug. 20, 1990, 104 Stat. 723; Pub. L. 105–83, title VI, § 604, Nov. 14, 1997, 111 Stat. 1621.)
 
 **Editorial Notes**
 
@@ -1141,17 +1141,17 @@ Sections 620 to 620j of this title, referred to in par. (11), was in the origina
 
 **Amendments**
 
-1997—Pars. (3) to (8). Pub. L. 105–83, § 604(1), (2), added pars. (3) and (4) and redesignated former pars. (3) to (6) as (5) to (8), respectively. Former pars. (7) and (8) redesignated (9) and (10), respectively.
+1997—Pars. (3) to (8). Pub. L. 105–83, § 604(1), (2), added pars. (3) and (4) and redesignated former pars. (3) to (6) as (5) to (8), respectively. Former pars. (7) and (8) redesignated (9) and (10), respectively.
 
-Par. (9). Pub. L. 105–83, § 604(1), redesignated par. (7) as (9).
+Par. (9). Pub. L. 105–83, § 604(1), redesignated par. (7) as (9).
 
-Par. (9)(B)(ix). Pub. L. 105–83, § 604(3), substituted “Pulp logs, cull logs, and incidental volumes of grade 3 and 4 sawlogs” for “Pulp logs or cull logs” and inserted “primary” before “purpose” and “, or to the extent that a small quantity of such logs are processed, into other products at domestic processing facilities” before period at end.
+Par. (9)(B)(ix). Pub. L. 105–83, § 604(3), substituted “Pulp logs, cull logs, and incidental volumes of grade 3 and 4 sawlogs” for “Pulp logs or cull logs” and inserted “primary” before “purpose” and “, or to the extent that a small quantity of such logs are processed, into other products at domestic processing facilities” before period at end.
 
-Par. (10). Pub. L. 105–83, § 604(1), redesignated par. (8) as (10).
+Par. (10). Pub. L. 105–83, § 604(1), redesignated par. (8) as (10).
 
-Par. (11). Pub. L. 105–83, § 604(4), added par. (11).
+Par. (11). Pub. L. 105–83, § 604(4), added par. (11).
 
-## § 620f. Regulations and review
+## § 620f. Regulations and review
 
 **(a) Regulations**
 
@@ -1235,13 +1235,13 @@ Subject to subparagraph (B), the Secretary concerned shall issue regulations tha
 
 **(b) Review**
 
-The Secretaries of Agriculture and Interior shall, in consultation, review the definition of unprocessed timber under section 620e(7) of this title for purposes of sections 620 to 620j of this title and, not later than 18 months after August 20, 1990, submit to the Congress any recommendations they have with respect to such definition. Specifically, the Secretaries shall report on the effects of maintaining 2 size standards under section 620e(B)(ii) 1
+The Secretaries of Agriculture and Interior shall, in consultation, review the definition of unprocessed timber under section 620e(7) of this title for purposes of sections 620 to 620j of this title and, not later than 18 months after August 20, 1990, submit to the Congress any recommendations they have with respect to such definition. Specifically, the Secretaries shall report on the effects of maintaining 2 size standards under section 620e(B)(ii) 1
 
-<sup>1</sup>  So in original. Probably should be section “620e(7)(B)(ii)”.
+<sup>1</sup> So in original. Probably should be section “620e(7)(B)(ii)”.
 
 and (iii) of this title.
 
-(Pub. L. 101–382, title IV, § 495, Aug. 20, 1990, 104 Stat. 725; Pub. L. 105–83, title VI, § 605, Nov. 14, 1997, 111 Stat. 1622.)
+(Pub. L. 101–382, title IV, § 495, Aug. 20, 1990, 104 Stat. 725; Pub. L. 105–83, title VI, § 605, Nov. 14, 1997, 111 Stat. 1622.)
 
 **Editorial Notes**
 
@@ -1249,17 +1249,17 @@ and (iii) of this title.
 
 1997—Subsec. (a). Pub. L. 105–83 redesignated first two sentences as pars. (1) and (2), respectively, and inserted headings, and substituted pars. (3) to (5) for last sentence which read as follows: “Except as otherwise provided in sections 620 to 620j of this title, regulations and guidelines under this subsection shall be issued not later than 9 months after August 20, 1990.”
 
-## § 620g. Authorization of appropriations
+## § 620g. Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary to carry out sections 620 to 620j of this title.
 
-(Pub. L. 101–382, title IV, § 496, Aug. 20, 1990, 104 Stat. 725.)
+(Pub. L. 101–382, title IV, § 496, Aug. 20, 1990, 104 Stat. 725.)
 
-## § 620h. Savings provision
+## § 620h. Savings provision
 
 Nothing in sections 620 to 620j of this title, or regulations issued under sections 620 to 620j of this title, shall be construed to abrogate or affect any timber sale contract entered into before August 20, 1990.
 
-(Pub. L. 101–382, title IV, § 497, Aug. 20, 1990, 104 Stat. 725.)
+(Pub. L. 101–382, title IV, § 497, Aug. 20, 1990, 104 Stat. 725.)
 
 **Editorial Notes**
 
@@ -1267,7 +1267,7 @@ Nothing in sections 620 to 620j of this title, or regulations issued under secti
 
 August 20, 1990, referred to in text, was in the original “the effective date of this title”, which is the date of enactment of title IV of Pub. L. 101–382, approved Aug. 20, 1990, except as otherwise provided in sections 620 to 620j of this title, see section 494 of Pub. L. 101–382, set out as an Effective Date note under section 620 of this title.
 
-## § 620i. Eastern hardwoods study
+## § 620i. Eastern hardwoods study
 
 **(a) Study** The Secretary of Commerce, in conjunction with the Secretary of Agriculture and the Secretary of the Interior, shall conduct a study of the export from the United States, during the 2-year period beginning on January 1, 1991, of unprocessed hardwood timber harvested from Federal lands or public lands east of the 100th meridian. In order to carry out the provisions of this section—
 
@@ -1279,7 +1279,7 @@ August 20, 1990, referred to in text, was in the original “the effective date 
 
 Not later than April 1, 1993, the Secretary of Commerce shall submit to the Committees on Agriculture, Natural Resources, and Foreign Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report describing the volume and value of unprocessed timber grown and harvested from Federal lands or public lands east of the 100th meridian that is exported from the United States during the 2-year period beginning on January 1, 1991, the country to which such timber is exported, and the State in which such timber was grown and harvested.
 
-(Pub. L. 101–382, title IV, § 498, Aug. 20, 1990, 104 Stat. 725; Pub. L. 103–437, § 6(d)(35), Nov. 2, 1994, 108 Stat. 4585.)
+(Pub. L. 101–382, title IV, § 498, Aug. 20, 1990, 104 Stat. 725; Pub. L. 103–437, § 6(d)(35), Nov. 2, 1994, 108 Stat. 4585.)
 
 **Editorial Notes**
 
@@ -1287,7 +1287,7 @@ Not later than April 1, 1993, the Secretary of Commerce shall submit to the Comm
 
 1994—Subsec. (b). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs”.
 
-## § 620j. Authority of Export Administration Act of 1979
+## § 620j. Authority of Export Administration Act of 1979
 
 Nothing in sections 620 to 620j of this title shall be construed to—
 
@@ -1295,16 +1295,16 @@ Nothing in sections 620 to 620j of this title shall be construed to—
 
 **(2)** warrant the exercise of the authority contained in,
 
-section 7 1
+section 7 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Export Administration Act of 1979 with respect to the export of unprocessed timber.
 
-(Pub. L. 101–382, title IV, § 499, Aug. 20, 1990, 104 Stat. 726.)
+(Pub. L. 101–382, title IV, § 499, Aug. 20, 1990, 104 Stat. 726.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 7 of the Export Administration Act of 1979, referred to in text, is section 7 of Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 515, which was classified to section 4606 of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+Section 7 of the Export Administration Act of 1979, referred to in text, is section 7 of Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 515, which was classified to section 4606 of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.

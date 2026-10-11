@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 87—UNITED STATES AND INDIA NUCLEAR COOPERATION
 
-## § 8001. Sense of Congress
+## § 8001. Sense of Congress
 
 It is the sense of Congress that—
 
@@ -53,13 +53,13 @@ It is the sense of Congress that—
 
 **(13)** the United States should not seek to facilitate or encourage the continuation of nuclear exports to India by any other party if such exports are terminated under United States law.
 
-(Pub. L. 109–401, title I, § 102, Dec. 18, 2006, 120 Stat. 2726.)
+(Pub. L. 109–401, title I, § 102, Dec. 18, 2006, 120 Stat. 2726.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 109–401, title I, § 101, Dec. 18, 2006, 120 Stat. 2726, provided that: “This title [enacting this chapter and amending section 2652c of this title and section 2153 of Title 42, The Public Health and Welfare] may be cited as the ‘Henry J. Hyde United States-India Peaceful Atomic Energy Cooperation Act of 2006’.”
+Pub. L. 109–401, title I, § 101, Dec. 18, 2006, 120 Stat. 2726, provided that: “This title [enacting this chapter and amending section 2652c of this title and section 2153 of Title 42, The Public Health and Welfare] may be cited as the ‘Henry J. Hyde United States-India Peaceful Atomic Energy Cooperation Act of 2006’.”
 
 **United States-India Nuclear Cooperation Approval and Nonproliferation Enhancement**
 
@@ -203,7 +203,7 @@ You are authorized and directed to publish this determination in the Federal Reg
 
 Barack Obama.
 
-## § 8002. Statements of policy
+## § 8002. Statements of policy
 
 **(a) In general** The following shall be the policies of the United States:
 
@@ -211,9 +211,9 @@ Barack Obama.
 
 **(2)** Encourage States Party to the NPT to interpret the right to “develop research, production and use of nuclear energy for peaceful purposes”, as set forth in Article IV of the NPT, as being a right that applies only to the extent that it is consistent with the object and purpose of the NPT to prevent the spread of nuclear weapons and nuclear weapons capabilities, including by refraining from all nuclear cooperation with any State Party that the International Atomic Energy Agency (IAEA) determines is not in full compliance with its NPT obligations, including its safeguards obligations.
 
-**(3)** Act in a manner fully consistent with the Guidelines for Nuclear Transfers and the Guidelines for Transfers of Nuclear-Related Dual-Use Equipment, Materials, Software and Related Technology developed by the NSG, and decisions related to the those 1
+**(3)** Act in a manner fully consistent with the Guidelines for Nuclear Transfers and the Guidelines for Transfers of Nuclear-Related Dual-Use Equipment, Materials, Software and Related Technology developed by the NSG, and decisions related to the those 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 guidelines, and the rules and practices regarding NSG decisionmaking.
 
@@ -255,7 +255,7 @@ guidelines, and the rules and practices regarding NSG decisionmaking.
 
 **(10)** Any nuclear power reactor fuel reserve provided to the Government of India for use in safeguarded civilian nuclear facilities should be commensurate with reasonable reactor operating requirements.
 
-(Pub. L. 109–401, title I, § 103, Dec. 18, 2006, 120 Stat. 2727.)
+(Pub. L. 109–401, title I, § 103, Dec. 18, 2006, 120 Stat. 2727.)
 
 **Editorial Notes**
 
@@ -263,9 +263,9 @@ guidelines, and the rules and practices regarding NSG decisionmaking.
 
 This chapter, referred to in subsec. (a)(6), was in the original “this title”, meaning title I of Pub. L. 109–401, Dec. 18, 2006, 120 Stat. 2726, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 8001 of this title and Tables.
 
-The Atomic Energy Act of 1954, referred to in subsec. (a)(6), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (a)(6), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
-## § 8003. Waiver authority and congressional approval
+## § 8003. Waiver authority and congressional approval
 
 **(a) In general** If the President makes the determination described in subsection (b), the President may—
 
@@ -451,7 +451,7 @@ The authority provided under subsection (a)(1) to exempt an agreement shall term
 
 **(ii)** any licenses approved by the Department of Commerce for the export or reexport to India of commodities, related technology, and software which are controlled for nuclear nonproliferation reasons on the Nuclear Referral List of the Commerce Control List maintained under part 774 of title 15, Code of Federal Regulation,1
 
-<sup>1</sup>  So in original. Probably should be “Regulations,”.
+<sup>1</sup> So in original. Probably should be “Regulations,”.
 
 or any successor regulation;
 
@@ -591,9 +591,9 @@ Each annual report submitted under paragraph (2) after the initial report may be
 
 **(B) Report on progress toward regional nonproliferation**
 
-The information required to be submitted under paragraph (2)(F) after the initial report may be submitted together with the annual report on progress toward regional nonproliferation required under section 2376(c) 2
+The information required to be submitted under paragraph (2)(F) after the initial report may be submitted together with the annual report on progress toward regional nonproliferation required under section 2376(c) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title.
 
@@ -601,7 +601,7 @@ of this title.
 
 Each report submitted under this subsection shall be submitted in unclassified form, but may contain a classified annex.
 
-(Pub. L. 109–401, title I, § 104, Dec. 18, 2006, 120 Stat. 2729; Pub. L. 110–369, title I, §§ 101(c), 105, Oct. 8, 2008, 122 Stat. 4029, 4030.)
+(Pub. L. 109–401, title I, § 104, Dec. 18, 2006, 120 Stat. 2729; Pub. L. 110–369, title I, §§ 101(c), 105, Oct. 8, 2008, 122 Stat. 4029, 4030.)
 
 **Editorial Notes**
 
@@ -611,7 +611,7 @@ This chapter, referred to in subsec. (d)(1), (2), (3)(A), was in the original �
 
 Section 101(a) of the United States-India Nuclear Cooperation Approval and Nonproliferation Enhancement Act, referred to in subsec. (g)(2)(M), is section 101(a) of Pub. L. 110–369, which is set out in a note under section 8001 of this title.
 
-Section 2376(c) of this title, referred to in subsec. (g)(3)(B), was repealed by Pub. L. 113–188, title XIV, § 1401, Nov. 26, 2014, 128 Stat. 2023.
+Section 2376(c) of this title, referred to in subsec. (g)(3)(B), was repealed by Pub. L. 113–188, title XIV, § 1401, Nov. 26, 2014, 128 Stat. 2023.
 
 **Codification**
 
@@ -619,11 +619,11 @@ Section is comprised of section 104 of Pub. L. 109–401. Subsec. (e) of section
 
 **Amendments**
 
-2008—Subsec. (f). Pub. L. 110–369, § 101(c), substituted “October 8, 2008” for “the enactment of a joint resolution under section 2153(d) of title 42 approving such an agreement”.
+2008—Subsec. (f). Pub. L. 110–369, § 101(c), substituted “October 8, 2008” for “the enactment of a joint resolution under section 2153(d) of title 42 approving such an agreement”.
 
-Subsec. (g)(1)(B) to (E). Pub. L. 110–369, § 105(a), added subpar. (B) and redesignated former subpars. (B) to (D) as (C) to (E), respectively.
+Subsec. (g)(1)(B) to (E). Pub. L. 110–369, § 105(a), added subpar. (B) and redesignated former subpars. (B) to (D) as (C) to (E), respectively.
 
-Subsec. (g)(2)(M). Pub. L. 110–369, § 105(b), added subpar. (M).
+Subsec. (g)(2)(M). Pub. L. 110–369, § 105(b), added subpar. (M).
 
 **Executive Documents**
 
@@ -675,11 +675,11 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 Barack Obama.
 
-## § 8004. United States compliance with its nuclear nonproliferation treaty obligations
+## § 8004. United States compliance with its nuclear nonproliferation treaty obligations
 
 Nothing in this chapter constitutes authority for any action in violation of an obligation of the United States under the NPT.
 
-(Pub. L. 109–401, title I, § 105, Dec. 18, 2006, 120 Stat. 2738.)
+(Pub. L. 109–401, title I, § 105, Dec. 18, 2006, 120 Stat. 2738.)
 
 **Editorial Notes**
 
@@ -687,19 +687,19 @@ Nothing in this chapter constitutes authority for any action in violation of an 
 
 This chapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 109–401, Dec. 18, 2006, 120 Stat. 2726, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 8001 of this title and Tables.
 
-## § 8005. Inoperability of determination and waivers
+## § 8005. Inoperability of determination and waivers
 
 A determination and any waiver under section 8003 of this title shall cease to be effective if the President determines that India has detonated a nuclear explosive device after December 18, 2006.
 
-(Pub. L. 109–401, title I, § 106, Dec. 18, 2006, 120 Stat. 2738.)
+(Pub. L. 109–401, title I, § 106, Dec. 18, 2006, 120 Stat. 2738.)
 
-## § 8006. MTCR adherent status
+## § 8006. MTCR adherent status
 
 Congress finds that India is not an MTCR adherent for the purposes of section 2797b of this title.
 
-(Pub. L. 109–401, title I, § 107, Dec. 18, 2006, 120 Stat. 2738.)
+(Pub. L. 109–401, title I, § 107, Dec. 18, 2006, 120 Stat. 2738.)
 
-## § 8007. United States-India scientific cooperative nuclear nonproliferation program
+## § 8007. United States-India scientific cooperative nuclear nonproliferation program
 
 **(a) Establishment**
 
@@ -733,9 +733,9 @@ All United States activities related to the program shall be consistent with Uni
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section for each of fiscal years 2007 through 2011.
 
-(Pub. L. 109–401, title I, § 109, Dec. 18, 2006, 120 Stat. 2739.)
+(Pub. L. 109–401, title I, § 109, Dec. 18, 2006, 120 Stat. 2739.)
 
-## § 8008. Definitions
+## § 8008. Definitions
 
 In this chapter:
 
@@ -757,9 +757,9 @@ In this chapter:
 
 **(6)** The terms “Missile Technology Control Regime”, “MTCR”, and “MTCR adherent” have the meanings given the terms in section 2797c of this title.
 
-**(7)** The term “nuclear materials and equipment” means source material, special nuclear material, production and utilization facilities and any components thereof, and any other items or materials that are determined to have significance for nuclear explosive purposes pursuant to subsection 1
+**(7)** The term “nuclear materials and equipment” means source material, special nuclear material, production and utilization facilities and any components thereof, and any other items or materials that are determined to have significance for nuclear explosive purposes pursuant to subsection 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 2139(b) of title 42.
 
@@ -785,7 +785,7 @@ In this chapter:
 
 **(B)** any existing or future heavy water production plant with respect to which there is no obligation to accept IAEA safeguards on any nuclear material produced by or used in connection with any heavy water produced therefrom.
 
-(Pub. L. 109–401, title I, § 110, Dec. 18, 2006, 120 Stat. 2739.)
+(Pub. L. 109–401, title I, § 110, Dec. 18, 2006, 120 Stat. 2739.)
 
 **Editorial Notes**
 

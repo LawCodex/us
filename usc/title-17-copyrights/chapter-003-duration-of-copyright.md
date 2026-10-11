@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 3—DURATION OF COPYRIGHT
 
-## § 301. Preemption with respect to other laws
+## § 301. Preemption with respect to other laws
 
 **(a)** On and after January 1, 1978, all legal or equitable rights that are equivalent to any of the exclusive rights within the general scope of copyright as specified by section 106 in works of authorship that are fixed in a tangible medium of expression and come within the subject matter of copyright as specified by sections 102 and 103, whether created before or after that date and whether published or unpublished, are governed exclusively by this title. Thereafter, no person is entitled to any such right or equivalent right in any such work under the common law or statutes of any State.
 
@@ -47,7 +47,7 @@ retrieved: 2026-10-11
 
 **(C)** activities violating legal or equitable rights which extend beyond the life of the author.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2572; Pub. L. 100–568, § 6, Oct. 31, 1988, 102 Stat. 2857; Pub. L. 101–650, title VI, § 605, title VII, § 705, Dec. 1, 1990, 104 Stat. 5131, 5134; Pub. L. 105–298, title I, § 102(a), Oct. 27, 1998, 112 Stat. 2827; Pub. L. 115–264, title II, § 202(a)(1), Oct. 11, 2018, 132 Stat. 3728.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2572; Pub. L. 100–568, § 6, Oct. 31, 1988, 102 Stat. 2857; Pub. L. 101–650, title VI, § 605, title VII, § 705, Dec. 1, 1990, 104 Stat. 5131, 5134; Pub. L. 105–298, title I, § 102(a), Oct. 27, 1998, 112 Stat. 2827; Pub. L. 115–264, title II, § 202(a)(1), Oct. 11, 2018, 132 Stat. 3728.)
 
 **Historical and Revision Notes**
 
@@ -61,7 +61,7 @@ By substituting a single Federal system for the present anachronistic, uncertain
 
 \2. “Publication,” perhaps the most important single concept under the present law, also represents its most serious defect. Although at one time when works were disseminated almost exclusively through printed copies, “publication” could serve as a practical dividing line between common law and statutory protection, this is no longer true. With the development of the 20th-century communications revolution, the concept of publication has become increasingly artificial and obscure. To cope with the legal consequences of an established concept that has lost much of its meaning and justification, the courts have given “publication” a number of diverse interpretations, some of them radically different. Not unexpectedly, the results in individual cases have become unpredictable and often unfair. A single Federal system would help to clear up this chaotic situation.
 
-\3. Enactment of section 301 would also implement the “limited times” provision of the Constitution [Const. Art. I, § 8, cl. 8], which has become distorted under the traditional concept of “publication.” Common law protection in “unpublished” works is now perpetual, no matter how widely they may be disseminated by means other than “publication”; the bill would place a time limit on the duration of exclusive rights in them. The provision would also aid scholarship and the dissemination of historical materials by making unpublished, undisseminated manuscripts available for publication after a reasonable period.
+\3. Enactment of section 301 would also implement the “limited times” provision of the Constitution [Const. Art. I, § 8, cl. 8], which has become distorted under the traditional concept of “publication.” Common law protection in “unpublished” works is now perpetual, no matter how widely they may be disseminated by means other than “publication”; the bill would place a time limit on the duration of exclusive rights in them. The provision would also aid scholarship and the dissemination of historical materials by making unpublished, undisseminated manuscripts available for publication after a reasonable period.
 
 \4. Adoption of a uniform national copyright system would greatly improve international dealings in copyrighted material. No other country has anything like our present dual system. In an era when copyrighted works can be disseminated instantaneously to every country on the globe, the need for effective international copyright relations, and the concomitant need for national uniformity, assume ever greater importance.
 
@@ -69,7 +69,7 @@ Under section 301, the statute would apply to all works created after its effect
 
 **Preemption of State Law.** The intention of section 301 is to preempt and abolish any rights under the common law or statutes of a State that are equivalent to copyright and that extend to works coming within the scope of the Federal copyright law. The declaration of this principle in section 301 is intended to be stated in the clearest and most unequivocal language possible, so as to foreclose any conceivable misinterpretation of its unqualified intention that Congress shall act preemptively, and to avoid the development of any vague borderline areas between State and Federal protection.
 
-Under section 301(a) all “legal or equitable rights that are equivalent to any of the exclusive rights within the general scope of copyright as specified by section 106” are governed exclusively by the Federal copyright statute if the works involved are “works of authorship that are fixed in a tangible medium of expression and come within the subject matter of copyright as specified by sections 102 and 103.” All corresponding State laws, whether common law or statutory, are preempted and abrogated. Regardless of when the work was created and whether it is published or unpublished, disseminated or undisseminated, in the public domain or copyrighted under the Federal statute, the States cannot offer it protection equivalent to copyright. Section 1338 of title 28, United States Code, also makes clear that any action involving rights under the Federal copyright law would come within the exclusive jurisdiction of the Federal courts. The preemptive effect of section 301 is limited to State laws; as stated expressly in subsection (d) of section 301, there is no intention to deal with the question of whether Congress can or should offer the equivalent of copyright protection under some constitutional provision other than the patent-copyright clause of article 1, section 8 [Const. Art. I, § 8, cl. 8].
+Under section 301(a) all “legal or equitable rights that are equivalent to any of the exclusive rights within the general scope of copyright as specified by section 106” are governed exclusively by the Federal copyright statute if the works involved are “works of authorship that are fixed in a tangible medium of expression and come within the subject matter of copyright as specified by sections 102 and 103.” All corresponding State laws, whether common law or statutory, are preempted and abrogated. Regardless of when the work was created and whether it is published or unpublished, disseminated or undisseminated, in the public domain or copyrighted under the Federal statute, the States cannot offer it protection equivalent to copyright. Section 1338 of title 28, United States Code, also makes clear that any action involving rights under the Federal copyright law would come within the exclusive jurisdiction of the Federal courts. The preemptive effect of section 301 is limited to State laws; as stated expressly in subsection (d) of section 301, there is no intention to deal with the question of whether Congress can or should offer the equivalent of copyright protection under some constitutional provision other than the patent-copyright clause of article 1, section 8 [Const. Art. I, § 8, cl. 8].
 
 As long as a work fits within one of the general subject matter categories of sections 102 and 103, the bill prevents the States from protecting it even if it fails to achieve Federal statutory copyright because it is too minimal or lacking in originality to qualify, or because it has fallen into the public domain. On the other hand section 301(b) explicitly preserves common law copyright protection for one important class of works: works that have not been “fixed in any tangible medium of expression.” Examples would include choreography that has never been filmed or notated, an extemporaneous speech, “original works of authorship” communicated solely through conversations or live broadcasts, and a dramatic sketch or musical composition improvised or developed from memory and without being recorded or written down. As mentioned above in connection with section 102, unfixed works are not included in the specified “subject matter of copyright.” They are therefore not affected by the preemption of section 301, and would continue to be subject to protection under State statute or common law until fixed in tangible form.
 
@@ -93,7 +93,7 @@ Nothing contained in section 301 precludes the owner of a material embodiment of
 
 A unique and difficult problem is presented with respect to the status of sound recordings fixed before February 12, 1972, the effective date of the amendment bringing recordings fixed after that date under Federal copyright protection. In its testimony during the 1975 hearings, the Department of Justice pointed out that, under section 301 as then written:
 
-This language could be read as abrogating the anti-piracy laws now existing in 29 states relating to pre-February 15, 1972, sound recordings on the grounds that these statutes proscribe activities violating rights equivalent to \* \* \* the exclusive rights within the general scope of copyright. \* \* \* Certainly such a result cannot have been intended for it would likely effect the immediate resurgence of piracy of pre-February 15, 1972, sound recordings.
+This language could be read as abrogating the anti-piracy laws now existing in 29 states relating to pre-February 15, 1972, sound recordings on the grounds that these statutes proscribe activities violating rights equivalent to \* \* \* the exclusive rights within the general scope of copyright. \* \* \* Certainly such a result cannot have been intended for it would likely effect the immediate resurgence of piracy of pre-February 15, 1972, sound recordings.
 
 The Department recommended that section 301(b) be amended to exclude sound recordings fixed prior to February 15, 1972 from the effect of the preemption.
 
@@ -113,13 +113,13 @@ Section 610(a) of the Visual Artists Rights Act of 1990 [Pub. L. 101–650], ref
 
 **Amendments**
 
-2018—Subsec. (c). Pub. L. 115–264, § 202(a)(1), added subsec. (c) and struck out former subsec. (c) which read as follows: “With respect to sound recordings fixed before February 15, 1972, any rights or remedies under the common law or statutes of any State shall not be annulled or limited by this title until February 15, 2067. The preemptive provisions of subsection (a) shall apply to any such rights and remedies pertaining to any cause of action arising from undertakings commenced on and after February 15, 2067. Notwithstanding the provisions of section 303, no sound recording fixed before February 15, 1972, shall be subject to copyright under this title before, on, or after February 15, 2067.”
+2018—Subsec. (c). Pub. L. 115–264, § 202(a)(1), added subsec. (c) and struck out former subsec. (c) which read as follows: “With respect to sound recordings fixed before February 15, 1972, any rights or remedies under the common law or statutes of any State shall not be annulled or limited by this title until February 15, 2067. The preemptive provisions of subsection (a) shall apply to any such rights and remedies pertaining to any cause of action arising from undertakings commenced on and after February 15, 2067. Notwithstanding the provisions of section 303, no sound recording fixed before February 15, 1972, shall be subject to copyright under this title before, on, or after February 15, 2067.”
 
 1998—Subsec. (c). Pub. L. 105–298 substituted “2067” for “2047” wherever appearing.
 
-1990—Subsec. (b)(4). Pub. L. 101–650, § 705, added par. (4).
+1990—Subsec. (b)(4). Pub. L. 101–650, § 705, added par. (4).
 
-Subsec. (f). Pub. L. 101–650, § 605, added subsec. (f).
+Subsec. (f). Pub. L. 101–650, § 605, added subsec. (f).
 
 1988—Subsec. (e). Pub. L. 100–568 added subsec. (e).
 
@@ -135,7 +135,7 @@ Amendment by section 705 Pub. L. 101–650 applicable to any architectural work 
 
 Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action arising under this title before such date being governed by provisions in effect when cause of action arose, see section 13 of Pub. L. 100–568, set out as a note under section 101 of this title.
 
-## § 302. Duration of copyright: Works created on or after January 1, 1978
+## § 302. Duration of copyright: Works created on or after January 1, 1978
 
 **(a) In General.—** Copyright in a work created on or after January 1, 1978, subsists from its creation and, except as provided by the following subsections, endures for a term consisting of the life of the author and 70 years after the author’s death.
 
@@ -147,7 +147,7 @@ Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action 
 
 **(e) Presumption as to Author’s Death.—** After a period of 95 years from the year of first publication of a work, or a period of 120 years from the year of its creation, whichever expires first, any person who obtains from the Copyright Office a certified report that the records provided by subsection (d) disclose nothing to indicate that the author of the work is living, or died less than 70 years before, is entitled to the benefits of a presumption that the author has been dead for at least 70 years. Reliance in good faith upon this presumption shall be a complete defense to any action for infringement under this title.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2572; Pub. L. 105–298, title I, § 102(b), Oct. 27, 1998, 112 Stat. 2827.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2572; Pub. L. 105–298, title I, § 102(b), Oct. 27, 1998, 112 Stat. 2827.)
 
 **Historical and Revision Notes**
 
@@ -191,7 +191,7 @@ The definition of “created” in section 101, which will be discussed in more 
 
 **Anonymous Works, Pseudonymous Works, and Works Made for Hire.** Computing the term from the author’s death also requires special provisions to deal with cases where the authorship is not revealed or where the “author” is not an individual. Section 302(c) therefore provides a special term for anonymous works, pseudonymous works, and works made for hire: 75 years from publication or 100 years from creation, whichever is shorter. The definitions in section 101 make the status of anonymous and pseudonymous works depend on what is revealed on the copies or phonorecords of a work; a work is “anonymous” if “no natural person is identified as author,” and is “pseudonymous” if “the author is identified under a fictitious name.”
 
-Section 302(c) provides that the 75- and 100-year terms for an anonymous or pseudonymous work can be converted to the ordinary life-plus-50 term if “the identity of one or more authors \* \* \* is revealed” in special records maintained for this purpose in the Copyright Office. The term in such cases would be “based on the life of the author or authors whose identity has been revealed.” Instead of forcing a user to search through countless Copyright Office records to determine if an author’s identity has been revealed, the bill sets up a special registry for the purpose, with requirements concerning the filing of identifying statements that parallel those of the following subsection (d) with respect to statements of the date of an author’s death.
+Section 302(c) provides that the 75- and 100-year terms for an anonymous or pseudonymous work can be converted to the ordinary life-plus-50 term if “the identity of one or more authors \* \* \* is revealed” in special records maintained for this purpose in the Copyright Office. The term in such cases would be “based on the life of the author or authors whose identity has been revealed.” Instead of forcing a user to search through countless Copyright Office records to determine if an author’s identity has been revealed, the bill sets up a special registry for the purpose, with requirements concerning the filing of identifying statements that parallel those of the following subsection (d) with respect to statements of the date of an author’s death.
 
 The alternative terms established in section 302(c)—75 years from publication or 100 years from creation, whichever expires first—are necessary to set a time limit on protection of unpublished material. For example, copyright in a work created in 1978 and published in 1988 would expire in 2063 (75 years from publication). A question arises as to when the copyright should expire if the work is never published. Both the Constitution and the underlying purposes of the bill require the establishment of an alternative term for unpublished work and the only practicable basis for this alternative is “creation.” Under the bill a work created in 1980 but not published until after 2005 (or never published) would fall into the public domain in 2080 (100 years after creation).
 
@@ -207,19 +207,19 @@ Although the periods of 75 or 100 years for anonymous and pseudonymous works and
 
 **Amendments**
 
-1998—Subsecs. (a), (b). Pub. L. 105–298, § 102(b)(1), (2), substituted “70” for “fifty”.
+1998—Subsecs. (a), (b). Pub. L. 105–298, § 102(b)(1), (2), substituted “70” for “fifty”.
 
-Subsec. (c). Pub. L. 105–298, § 102(b)(3), in first sentence, substituted “95” for “seventy-five” and “120” for “one hundred”.
+Subsec. (c). Pub. L. 105–298, § 102(b)(3), in first sentence, substituted “95” for “seventy-five” and “120” for “one hundred”.
 
-Subsec. (e). Pub. L. 105–298, § 102(b)(4), in first sentence, substituted “95” for “seventy-five”, “120” for “one hundred”, and “70” for “fifty” in two places.
+Subsec. (e). Pub. L. 105–298, § 102(b)(4), in first sentence, substituted “95” for “seventy-five”, “120” for “one hundred”, and “70” for “fifty” in two places.
 
-## § 303. Duration of copyright: Works created but not published or copyrighted before January 1, 1978
+## § 303. Duration of copyright: Works created but not published or copyrighted before January 1, 1978
 
 **(a)** Copyright in a work created before January 1, 1978, but not theretofore in the public domain or copyrighted, subsists from January 1, 1978, and endures for the term provided by section 302. In no case, however, shall the term of copyright in such a work expire before December 31, 2002; and, if the work is published on or before December 31, 2002, the term of copyright shall not expire before December 31, 2047.
 
 **(b)** The distribution before January 1, 1978, of a phonorecord shall not for any purpose constitute a publication of any musical work, dramatic work, or literary work embodied therein.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2573; Pub. L. 105–80, § 11, Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–298, title I, § 102(c), Oct. 27, 1998, 112 Stat. 2827; Pub. L. 111–295, § 5(a), Dec. 9, 2010, 124 Stat. 3181.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2573; Pub. L. 105–80, § 11, Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–298, title I, § 102(c), Oct. 27, 1998, 112 Stat. 2827; Pub. L. 111–295, § 5(a), Dec. 9, 2010, 124 Stat. 3181.)
 
 **Historical and Revision Notes**
 
@@ -241,7 +241,7 @@ A special problem under this provision is what to do with works whose ordinary s
 
 1997—Pub. L. 105–80 designated existing provisions as subsec. (a) and added subsec. (b).
 
-## § 304. Duration of copyright: Subsisting copyrights
+## § 304. Duration of copyright: Subsisting copyrights
 
 **(a) Copyrights in Their First Term on January 1, 1978.—**
 
@@ -345,7 +345,7 @@ shall be entitled to a renewal and extension of the copyright in such work for a
 
 **(2)** Termination of the grant may be effected at any time during a period of 5 years beginning at the end of 75 years from the date copyright was originally secured.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2573; Pub. L. 102–307, title I, § 102(a), (d), June 26, 1992, 106 Stat. 264, 266; Pub. L. 105–80, § 12(a)(9), Nov. 13, 1997, 111 Stat. 1535; Pub. L. 105–298, title I, §§ 102(d)(1), 103, Oct. 27, 1998, 112 Stat. 2827, 2829; Pub. L. 107–273, div. C, title III, § 13210(10), Nov. 2, 2002, 116 Stat. 1910.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2573; Pub. L. 102–307, title I, § 102(a), (d), June 26, 1992, 106 Stat. 264, 266; Pub. L. 105–80, § 12(a)(9), Nov. 13, 1997, 111 Stat. 1535; Pub. L. 105–298, title I, §§ 102(d)(1), 103, Oct. 27, 1998, 112 Stat. 2827, 2829; Pub. L. 107–273, div. C, title III, § 13210(10), Nov. 2, 2002, 116 Stat. 1910.)
 
 **Historical and Revision Notes**
 
@@ -391,27 +391,27 @@ The Sonny Bono Copyright Term Extension Act, referred to in subsecs. (b) and (d)
 
 2002—Subsec. (c)(2)(A) to (C). Pub. L. 107–273, in subpars. (A) to (C), substituted “The” for “the” and, in subpars. (A) and (B), substituted period for semicolon at end.
 
-1998—Subsec. (a)(1)(B), (C). Pub. L. 105–298, § 102(d)(1)(A)(i), substituted “67” for “47” in concluding provisions.
+1998—Subsec. (a)(1)(B), (C). Pub. L. 105–298, § 102(d)(1)(A)(i), substituted “67” for “47” in concluding provisions.
 
-Subsec. (a)(2)(A), (B). Pub. L. 105–298, § 102(d)(1)(A)(ii), substituted “67” for “47” in introductory provisions.
+Subsec. (a)(2)(A), (B). Pub. L. 105–298, § 102(d)(1)(A)(ii), substituted “67” for “47” in introductory provisions.
 
-Subsec. (a)(3)(A)(i), (B). Pub. L. 105–298, § 102(d)(1)(A)(iii), substituted “67” for “47”.
+Subsec. (a)(3)(A)(i), (B). Pub. L. 105–298, § 102(d)(1)(A)(iii), substituted “67” for “47”.
 
-Subsec. (b). Pub. L. 105–298, § 102(d)(1)(B), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The duration of any copyright, the renewal term of which is subsisting at any time between December 31, 1976, and December 31, 1977, inclusive, or for which renewal registration is made between December 31, 1976, and December 31, 1977, inclusive, is extended to endure for a term of seventy-five years from the date copyright was originally secured.”
+Subsec. (b). Pub. L. 105–298, § 102(d)(1)(B), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The duration of any copyright, the renewal term of which is subsisting at any time between December 31, 1976, and December 31, 1977, inclusive, or for which renewal registration is made between December 31, 1976, and December 31, 1977, inclusive, is extended to endure for a term of seventy-five years from the date copyright was originally secured.”
 
-Subsec. (c)(2). Pub. L. 105–298, § 103(1), struck out “by his widow or her widower and his or her children or grandchildren” after “exercised,” in introductory provisions.
+Subsec. (c)(2). Pub. L. 105–298, § 103(1), struck out “by his widow or her widower and his or her children or grandchildren” after “exercised,” in introductory provisions.
 
-Subsec. (c)(2)(D). Pub. L. 105–298, § 103(2), added subpar. (D).
+Subsec. (c)(2)(D). Pub. L. 105–298, § 103(2), added subpar. (D).
 
-Subsec. (c)(4)(A). Pub. L. 105–298, § 102(d)(1)(C), inserted “or, in the case of a termination under subsection (d), within the five-year period specified by subsection (d)(2),” before “and the notice”.
+Subsec. (c)(4)(A). Pub. L. 105–298, § 102(d)(1)(C), inserted “or, in the case of a termination under subsection (d), within the five-year period specified by subsection (d)(2),” before “and the notice”.
 
-Subsec. (d). Pub. L. 105–298, § 102(d)(1)(D), added subsec. (d).
+Subsec. (d). Pub. L. 105–298, § 102(d)(1)(D), added subsec. (d).
 
 1997—Subsec. (c). Pub. L. 105–80 substituted “subsection (a)(1)(C)” for “the subsection (a)(1)(C)” in introductory provisions.
 
-1992—Subsec. (a). Pub. L. 102–307, § 102(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Copyrights in Their First Term on January 1, 1978.—Any copyright, the first term of which is subsisting on January 1, 1978, shall endure for twenty-eight years from the date it was originally secured: *Provided*, That in the case of any posthumous work or of any periodical, cyclopedic, or other composite work upon which the copyright was originally secured by the proprietor thereof, or of any work copyrighted by a corporate body (otherwise than as assignee or licensee of the individual author) or by an employer for whom such work is made for hire, the proprietor of such copyright shall be entitled to a renewal and extension of the copyright in such work for the further term of forty-seven years when application for such renewal and extension shall have been made to the Copyright Office and duly registered therein within one year prior to the expiration of the original term of copyright: *And provided further*, That in the case of any other copyrighted work, including a contribution by an individual author to a periodical or to a cyclopedic or other composite work, the author of such work, if still living, or the widow, widower, or children of the author, if the author be not living, or if such author, widow, widower, or children be not living, then the author’s executors, or in the absence of a will, his or her next of kin shall be entitled to a renewal and extension of the copyright in such work for a further term of forty-seven years when application for such renewal and extension shall have been made to the Copyright Office and duly registered therein within one year prior to the expiration of the original term of copyright: *And provided further*, That in default of the registration of such application for renewal and extension, the copyright in any work shall terminate at the expiration of twenty-eight years from the date copyright was originally secured.”
+1992—Subsec. (a). Pub. L. 102–307, § 102(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Copyrights in Their First Term on January 1, 1978.—Any copyright, the first term of which is subsisting on January 1, 1978, shall endure for twenty-eight years from the date it was originally secured: *Provided*, That in the case of any posthumous work or of any periodical, cyclopedic, or other composite work upon which the copyright was originally secured by the proprietor thereof, or of any work copyrighted by a corporate body (otherwise than as assignee or licensee of the individual author) or by an employer for whom such work is made for hire, the proprietor of such copyright shall be entitled to a renewal and extension of the copyright in such work for the further term of forty-seven years when application for such renewal and extension shall have been made to the Copyright Office and duly registered therein within one year prior to the expiration of the original term of copyright: *And provided further*, That in the case of any other copyrighted work, including a contribution by an individual author to a periodical or to a cyclopedic or other composite work, the author of such work, if still living, or the widow, widower, or children of the author, if the author be not living, or if such author, widow, widower, or children be not living, then the author’s executors, or in the absence of a will, his or her next of kin shall be entitled to a renewal and extension of the copyright in such work for a further term of forty-seven years when application for such renewal and extension shall have been made to the Copyright Office and duly registered therein within one year prior to the expiration of the original term of copyright: *And provided further*, That in default of the registration of such application for renewal and extension, the copyright in any work shall terminate at the expiration of twenty-eight years from the date copyright was originally secured.”
 
-Subsec. (c). Pub. L. 102–307, § 102(d), substituted “subsection (a)(1)(C)” for “second proviso of subsection (a)” in introductory provisions.
+Subsec. (c). Pub. L. 102–307, § 102(d), substituted “subsection (a)(1)(C)” for “second proviso of subsection (a)” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -425,11 +425,11 @@ Subsec. (b) of this section effective Oct. 19, 1976, see section 102 of Pub. L. 
 
 **Legal Effect of Renewal of Copyright Unchanged**
 
-Pub. L. 102–307, title I, § 102(c), June 26, 1992, 106 Stat. 266, as amended by Pub. L. 105–298, title I, § 102(d)(2)(A), Oct. 27, 1998, 112 Stat. 2828, provided that: “The renewal and extension of a copyright for a further term of 67 years provided for under paragraphs (1) and (2) of section 304(a) of title 17, United States Code[,] shall have the same effect with respect to any grant, before the effective date of the Sonny Bono Copyright Term Extension Act [Oct. 27, 1998], of a transfer or license of the further term as did the renewal of a copyright before the effective date of the Sonny Bono Copyright Term Extension Act under the law in effect at the time of such grant.”
+Pub. L. 102–307, title I, § 102(c), June 26, 1992, 106 Stat. 266, as amended by Pub. L. 105–298, title I, § 102(d)(2)(A), Oct. 27, 1998, 112 Stat. 2828, provided that: “The renewal and extension of a copyright for a further term of 67 years provided for under paragraphs (1) and (2) of section 304(a) of title 17, United States Code[,] shall have the same effect with respect to any grant, before the effective date of the Sonny Bono Copyright Term Extension Act [Oct. 27, 1998], of a transfer or license of the further term as did the renewal of a copyright before the effective date of the Sonny Bono Copyright Term Extension Act under the law in effect at the time of such grant.”
 
 **Ad Interim Copyrights Subsisting or Capable of Being Secured Under Predecessor Provisions**
 
-Pub. L. 94–553, title I, § 107, Oct. 19, 1976, 90 Stat. 2600, provided that: “In the case of any work in which an ad interim copyright is subsisting or is capable of being secured on December 31, 1977, under section 22 of title 17 as it existed on that date, copyright protection is hereby extended to endure for the term or terms provided by section 304 of title 17 as amended by the first section of this Act [this section].”
+Pub. L. 94–553, title I, § 107, Oct. 19, 1976, 90 Stat. 2600, provided that: “In the case of any work in which an ad interim copyright is subsisting or is capable of being secured on December 31, 1977, under section 22 of title 17 as it existed on that date, copyright protection is hereby extended to endure for the term or terms provided by section 304 of title 17 as amended by the first section of this Act [this section].”
 
 **Copyright Granted to “Science and Health with Key to the Scriptures” for Term of 75 Years**
 
@@ -437,7 +437,7 @@ Private Law 92–60, Dec. 15, 1971, 85 Stat. 857, provided: “That, any provisi
 
 **Extension of Renewal Terms Under Prior Law**
 
-Pub. L. 93–573, title I, § 104, Dec. 31, 1974, 88 Stat. 1873, provided that in any case in which the renewal term of a copyright subsisting in any work on Dec. 31, 1974, or the term thereof as extended by Public Law 87–668, by Public Law 89–142, by Public Law 90–141, by Public Law 90–416, by Public Law 91–417, by Public Law 91–555, by Public Law 92–170, or by Public Law 92–556 (or by all or certain of said laws) [set out below], would expire prior to Dec. 31, 1976, such term was continued until Dec. 31, 1976.
+Pub. L. 93–573, title I, § 104, Dec. 31, 1974, 88 Stat. 1873, provided that in any case in which the renewal term of a copyright subsisting in any work on Dec. 31, 1974, or the term thereof as extended by Public Law 87–668, by Public Law 89–142, by Public Law 90–141, by Public Law 90–416, by Public Law 91–417, by Public Law 91–555, by Public Law 92–170, or by Public Law 92–556 (or by all or certain of said laws) [set out below], would expire prior to Dec. 31, 1976, such term was continued until Dec. 31, 1976.
 
 Pub. L. 92–566, Oct. 25, 1972, 86 Stat. 1181, provided that in any case in which the renewal term of a copyright subsisting in any work on Oct. 25, 1972, or the term thereof as extended by Public Law 87–668, by Public Law 89–142, by Public Law 90–141, by Public Law 90–416, by Public Law 91–147, by Public Law 91–555, or by Public Law 92–170 (or by all or certain of said laws) [set out below], would expire prior to Dec. 31, 1974, such term was continued until Dec. 31, 1974.
 
@@ -455,11 +455,11 @@ Pub. L. 89–142, Aug. 28, 1965, 79 Stat. 581, provided that in any case in whic
 
 Pub. L. 87–668, Sept. 19, 1962, 76 Stat. 555, provided that in any case in which the renewal term of a copyright subsisting in any work on Sept. 19, 1962, would expire prior to Dec. 31, 1965, such term was continued until Dec. 31, 1965.
 
-## § 305. Duration of copyright: Terminal date
+## § 305. Duration of copyright: Terminal date
 
 All terms of copyright provided by sections 302 through 304 run to the end of the calendar year in which they would otherwise expire.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2576.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2576.)
 
 **Historical and Revision Notes**
 

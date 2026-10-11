@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1980—Pub. L. 96–513, title V, § 501(19), Dec. 12, 1980, 94 Stat. 2908, substituted “RETIREMENT OF WARRANT OFFICERS FOR LENGTH OF SERVICE” for “RETIREMENT FOR LENGTH OF SERVICE” as chapter heading.
+1980—Pub. L. 96–513, title V, § 501(19), Dec. 12, 1980, 94 Stat. 2908, substituted “RETIREMENT OF WARRANT OFFICERS FOR LENGTH OF SERVICE” for “RETIREMENT FOR LENGTH OF SERVICE” as chapter heading.
 
-## § 1293. Twenty years or more: warrant officers
+## § 1293. Twenty years or more: warrant officers
 
 The Secretary concerned may, upon the warrant officer’s request, retire a warrant officer of any armed force under his jurisdiction who has at least 20 years of active service that could be credited to him under section 511 of the Career Compensation Act of 1949, as amended (70 Stat. 114).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 101; Pub. L. 87–649, § 6(f)(3), Sept. 7, 1962, 76 Stat. 494.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 101; Pub. L. 87–649, § 6(f)(3), Sept. 7, 1962, 76 Stat. 494.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1293 | 10:600(d) (as applicable to 10:600*l*(a)). 10:600*l*(a). 34:135(d) (as applicable to 34:430(a)). 34:430(a). | May 29, 1954, ch. 249, §§ 2(d) (as applicable to § 14(a)), 14(a), 68 Stat. 157, 162. |
+| 1293 | 10:600(d) (as applicable to 10:600*l*(a)). 10:600*l*(a). 34:135(d) (as applicable to 34:430(a)). 34:430(a). | May 29, 1954, ch. 249, §§ 2(d) (as applicable to § 14(a)), 14(a), 68 Stat. 157, 162. |
 
-The words, “The Secretary concerned may \* \* \* retire” are substituted for the words “may \* \* \* and in the discretion of the Secretary, be retired”. 10:600*l*(a) (last 14 words) and 34:430(a) (last 14 words) are omitted as covered by section 1315 of this title.
+The words, “The Secretary concerned may \* \* \* retire” are substituted for the words “may \* \* \* and in the discretion of the Secretary, be retired”. 10:600*l*(a) (last 14 words) and 34:430(a) (last 14 words) are omitted as covered by section 1315 of this title.
 
 **Editorial Notes**
 
@@ -53,7 +53,7 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 **Renewal of Temporary Early Retirement Authority**
 
-Pub. L. 112–213, title II, § 219, Dec. 20, 2012, 126 Stat. 1558, as amended by Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8213, Jan. 1, 2021, 134 Stat. 4650, provided that:
+Pub. L. 112–213, title II, § 219, Dec. 20, 2012, 126 Stat. 1558, as amended by Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8213, Jan. 1, 2021, 134 Stat. 4650, provided that:
 
 > “For fiscal years 2019 through 2025—
 
@@ -67,23 +67,23 @@ Pub. L. 112–213, title II, § 219, Dec. 20, 2012, 126 Stat. 1558, as amended
 
 **Temporary Early Retirement Authority**
 
-Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8053], Sept. 30, 1996, 110 Stat. 3009–71, 3009–99, provided that: “During the current fiscal year and hereafter, appropriations available for the pay and allowances of active duty members of the Armed Forces shall be available to pay the retired pay which is payable pursuant to section 4403 of Public Law 102–484 (10 U.S.C. 1293 note) under the terms and conditions provided in section 4403.”
+Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8053], Sept. 30, 1996, 110 Stat. 3009–71, 3009–99, provided that: “During the current fiscal year and hereafter, appropriations available for the pay and allowances of active duty members of the Armed Forces shall be available to pay the retired pay which is payable pursuant to section 4403 of Public Law 102–484 (10 U.S.C. 1293 note) under the terms and conditions provided in section 4403.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 104–61, title VIII, § 8066, Dec. 1, 1995, 109 Stat. 664.
+Pub. L. 104–61, title VIII, § 8066, Dec. 1, 1995, 109 Stat. 664.
 
-Pub. L. 103–335, title VIII, § 8077, Sept. 30, 1994, 108 Stat. 2636.
+Pub. L. 103–335, title VIII, § 8077, Sept. 30, 1994, 108 Stat. 2636.
 
-Pub. L. 103–139, title VIII, § 8095, Nov. 11, 1993, 107 Stat. 1461.
+Pub. L. 103–139, title VIII, § 8095, Nov. 11, 1993, 107 Stat. 1461.
 
-Pub. L. 104–106, div. A, title V, § 566(c), Feb. 10, 1996, 110 Stat. 328, as amended by Pub. L. 107–372, title II, § 272(b), Dec. 19, 2002, 116 Stat. 3094, provided that: “Section 4403 (other than subsection (f)) of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2702; 10 U.S.C. 1293 note) shall apply to the commissioned officer corps of the National Oceanic and Atmospheric Administration in the same manner and to the same extent as that section applies to the Department of Defense. The Secretary of Commerce shall implement the provisions of that section with respect to such commissioned officer corps and shall apply the provisions of that section to the provisions of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 [33 U.S.C. 3001 et seq.] relating to the retirement of members of such commissioned officer corps.”
+Pub. L. 104–106, div. A, title V, § 566(c), Feb. 10, 1996, 110 Stat. 328, as amended by Pub. L. 107–372, title II, § 272(b), Dec. 19, 2002, 116 Stat. 3094, provided that: “Section 4403 (other than subsection (f)) of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2702; 10 U.S.C. 1293 note) shall apply to the commissioned officer corps of the National Oceanic and Atmospheric Administration in the same manner and to the same extent as that section applies to the Department of Defense. The Secretary of Commerce shall implement the provisions of that section with respect to such commissioned officer corps and shall apply the provisions of that section to the provisions of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 [33 U.S.C. 3001 et seq.] relating to the retirement of members of such commissioned officer corps.”
 
-[Pub. L. 104–106, div. A, title V, § 566(d), Feb. 10, 1996, 110 Stat. 328, provided that: “This section [amending former section 857a of Title 33, Navigation and Navigable Waters, and enacting provisions set out as a note above] shall apply only to members of the commissioned officer corps of the National Oceanic and Atmospheric Administration who are separated after September 30, 1995.” ]
+[Pub. L. 104–106, div. A, title V, § 566(d), Feb. 10, 1996, 110 Stat. 328, provided that: “This section [amending former section 857a of Title 33, Navigation and Navigable Waters, and enacting provisions set out as a note above] shall apply only to members of the commissioned officer corps of the National Oceanic and Atmospheric Administration who are separated after September 30, 1995.” ]
 
-Pub. L. 103–337, div. A, title V, § 542(d), Oct. 5, 1994, 108 Stat. 2769, as amended by Pub. L. 107–296, title XVII, § 1704(e)(5), Nov. 25, 2002, 116 Stat. 2315, provided that: “Section 4403 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2702; 10 U.S.C. 1293 note) shall apply to the Coast Guard in the same manner and to the same extent as that provision applies to the Department of Defense. The Secretary of Homeland Security shall implement the provisions of that section with respect to the Coast Guard and apply the applicable provisions of title 14, United States Code, relating to retirement of Coast Guard personnel.”
+Pub. L. 103–337, div. A, title V, § 542(d), Oct. 5, 1994, 108 Stat. 2769, as amended by Pub. L. 107–296, title XVII, § 1704(e)(5), Nov. 25, 2002, 116 Stat. 2315, provided that: “Section 4403 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484; 106 Stat. 2702; 10 U.S.C. 1293 note) shall apply to the Coast Guard in the same manner and to the same extent as that provision applies to the Department of Defense. The Secretary of Homeland Security shall implement the provisions of that section with respect to the Coast Guard and apply the applicable provisions of title 14, United States Code, relating to retirement of Coast Guard personnel.”
 
-Pub. L. 102–484, div. D, title XLIV, § 4403, Oct. 23, 1992, 106 Stat. 2702, as amended by Pub. L. 103–160, div. A, title V, § 561(a), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 104–106, div. A, title XV, § 1504(c)(3), Feb. 10, 1996, 110 Stat. 514; Pub. L. 105–261, div. A, title V, § 561(a), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, § 1 [[div. A], title V, § 571(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–314, div. A, title V, § 554, Dec. 2, 2002, 116 Stat. 2553; Pub. L. 112–81, title V, § 504(b), Dec. 31, 2011, 125 Stat. 1390; Pub. L. 112–239, div. A, title X, § 1076(k), Jan. 2, 2013, 126 Stat. 1955; Pub. L. 114–328, div. A, title V, § 508(a), Dec. 23, 2016, 130 Stat. 2109; Pub. L. 115–232, div. A, title V, § 553(b)(5), title VIII, § 809(b)(2), Aug. 13, 2018, 132 Stat. 1772, 1840, Pub. L. 119–60, div. A, title VI, § 603, Dec. 18, 2025, 139 Stat. 905, provided that:
+Pub. L. 102–484, div. D, title XLIV, § 4403, Oct. 23, 1992, 106 Stat. 2702, as amended by Pub. L. 103–160, div. A, title V, § 561(a), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 104–106, div. A, title XV, § 1504(c)(3), Feb. 10, 1996, 110 Stat. 514; Pub. L. 105–261, div. A, title V, § 561(a), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, § 1 [[div. A], title V, § 571(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–314, div. A, title V, § 554, Dec. 2, 2002, 116 Stat. 2553; Pub. L. 112–81, title V, § 504(b), Dec. 31, 2011, 125 Stat. 1390; Pub. L. 112–239, div. A, title X, § 1076(k), Jan. 2, 2013, 126 Stat. 1955; Pub. L. 114–328, div. A, title V, § 508(a), Dec. 23, 2016, 130 Stat. 2109; Pub. L. 115–232, div. A, title V, § 553(b)(5), title VIII, § 809(b)(2), Aug. 13, 2018, 132 Stat. 1772, 1840, Pub. L. 119–60, div. A, title VI, § 603, Dec. 18, 2025, 139 Stat. 905, provided that:
 
 > **“(a) Purpose.—** The purpose of this section is to provide the Secretary of Defense a temporary additional force management tool with which to effect the drawdown of military forces during the active force drawdown period.
 
@@ -149,9 +149,9 @@ Pub. L. 102–484, div. D, title XLIV, § 4403, Oct. 23, 1992, 106 Stat. 2702,
 
 > **“(i) Active Force Drawdown Period.—** For purposes of this section, the active force drawdown period is (1) the period beginning on the date of the enactment of this Act and ending on September 1, 2002, and (2) the period beginning on December 31, 2011, and ending on December 31, 2030.”
 
-[Pub. L. 107–314, div. A, title V, § 554, Dec. 2, 2002, 116 Stat. 2553, provided that the amendment made by that section to section 4403 of Pub. L. 102–484, set out above, is effective Jan. 1, 2002.]
+[Pub. L. 107–314, div. A, title V, § 554, Dec. 2, 2002, 116 Stat. 2553, provided that the amendment made by that section to section 4403 of Pub. L. 102–484, set out above, is effective Jan. 1, 2002.]
 
-## § 1305. Thirty years or more: regular warrant officers
+## § 1305. Thirty years or more: regular warrant officers
 
 **(a)**
 
@@ -165,13 +165,13 @@ Pub. L. 102–484, div. D, title XLIV, § 4403, Oct. 23, 1992, 106 Stat. 2702,
 
 **(c)** Under such regulations as the Secretary concerned may prescribe, the Secretary concerned may defer the retirement under subsection (a) of any warrant officer upon the recommendation of a board of officers and with the consent of the warrant officer, but not later than 60 days after the warrant officer becomes 62 years of age.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 101; Pub. L. 87–649, § 6(f)(3), Sept. 7, 1962, 76 Stat. 494; Pub. L. 89–718, § 3, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 102–190, div. A, title XI, § 1116, Dec. 5, 1991, 105 Stat. 1503; Pub. L. 109–364, div. A, title V, § 505(c), Oct. 17, 2006, 120 Stat. 2179; Pub. L. 110–417, [div. A], title V, § 501, Oct. 14, 2008, 122 Stat. 4432; Pub. L. 112–239, div. A, title V, § 504, Jan. 2, 2013, 126 Stat. 1715; Pub. L. 118–31, div. A, title V, § 509A, Dec. 22, 2023, 137 Stat. 243.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 101; Pub. L. 87–649, § 6(f)(3), Sept. 7, 1962, 76 Stat. 494; Pub. L. 89–718, § 3, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 102–190, div. A, title XI, § 1116, Dec. 5, 1991, 105 Stat. 1503; Pub. L. 109–364, div. A, title V, § 505(c), Oct. 17, 2006, 120 Stat. 2179; Pub. L. 110–417, [div. A], title V, § 501, Oct. 14, 2008, 122 Stat. 4432; Pub. L. 112–239, div. A, title V, § 504, Jan. 2, 2013, 126 Stat. 1715; Pub. L. 118–31, div. A, title V, § 509A, Dec. 22, 2023, 137 Stat. 243.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1305(a) | 10:600(d) (as applicable to 10:600*l*(b)(2)). 10:600*l*(b)(2) (last sentence). 10:600r(c) (as applicable to 10:600*l*(b)(2)). 34:135(d) (as applicable to 34:430(b)(2)). | May 29, 1954, ch. 249, §§ 2(d) (as applicable to § 14(b)(2)), 14(b)(2), (e) (as applicable to (b)(2)), 21(c) (as applicable to § 14(b)(2)), 68 Stat. 157, 163, 168. |
+| 1305(a) | 10:600(d) (as applicable to 10:600*l*(b)(2)). 10:600*l*(b)(2) (last sentence). 10:600r(c) (as applicable to 10:600*l*(b)(2)). 34:135(d) (as applicable to 34:430(b)(2)). | May 29, 1954, ch. 249, §§ 2(d) (as applicable to § 14(b)(2)), 14(b)(2), (e) (as applicable to (b)(2)), 21(c) (as applicable to § 14(b)(2)), 68 Stat. 157, 163, 168. |
 |  | 34:430(b)(2) (last sentence). |  |
 |  | 34:430c (as applicable to 34:430(b)(2)). |  |
 | 1305(b) | 10:600*l*(e) (as applicable to 10:600*l*(b)(2)). |  |
@@ -181,9 +181,9 @@ Pub. L. 102–484, div. D, title XLIV, § 4403, Oct. 23, 1992, 106 Stat. 2702,
 
 In subsection (a), the words “has at least” are substituted for the words “has completed”. The words “and is not so continued on active service” and “on that date which” are omitted as surplusage. 10:600*l*(b)(2) (last 16 words of last sentence) and 34:430(b)(2) (last 16 words of last sentence) are omitted as covered by section 1315 of this title.
 
-In subsection (b), the words “The Secretary concerned may defer” are substituted for the words “may, in the discretion of the Secretary, be deferred”. The words “determination of his” are inserted for clarity. The words “not more than” are substituted for the words “a period not to exceed”. The words “he would otherwise be required to retire under this section” are substituted for the words “retirement \* \* \* would otherwise be required”. The words “which is required”, “possible”, “proper”, and “a period of” are omitted as surplusage.
+In subsection (b), the words “The Secretary concerned may defer” are substituted for the words “may, in the discretion of the Secretary, be deferred”. The words “determination of his” are inserted for clarity. The words “not more than” are substituted for the words “a period not to exceed”. The words “he would otherwise be required to retire under this section” are substituted for the words “retirement \* \* \* would otherwise be required”. The words “which is required”, “possible”, “proper”, and “a period of” are omitted as surplusage.
 
-In subsection (c), the words “the Secretary concerned may defer the retirement” are substituted for the words “in the discretion of the Secretary \* \* \* be continued on active service”. The words “but not later than” are substituted for the words “but not beyond that date which is”.
+In subsection (c), the words “the Secretary concerned may defer the retirement” are substituted for the words “in the discretion of the Secretary \* \* \* be continued on active service”. The words “but not later than” are substituted for the words “but not beyond that date which is”.
 
 **Editorial Notes**
 
@@ -193,15 +193,15 @@ Section 511 of the Career Compensation Act of 1949, referred to in subsec. (a)(1
 
 **Amendments**
 
-2023—Subsec. (a)(3). Pub. L. 118–31, § 509A(1), inserted “or a Marine Corps Marine Gunner warrant officer in such grade,” after “chief warrant officer, W–5,”.
+2023—Subsec. (a)(3). Pub. L. 118–31, § 509A(1), inserted “or a Marine Corps Marine Gunner warrant officer in such grade,” after “chief warrant officer, W–5,”.
 
-Subsec. (b). Pub. L. 118–31, § 509A(2), substituted “when the warrant officer” for “when he”.
+Subsec. (b). Pub. L. 118–31, § 509A(2), substituted “when the warrant officer” for “when he”.
 
-Subsec. (c). Pub. L. 118–31, § 509A(3), substituted “as the Secretary concerned” for “as he” and “after the warrant officer” for “after he”.
+Subsec. (c). Pub. L. 118–31, § 509A(3), substituted “as the Secretary concerned” for “as he” and “after the warrant officer” for “after he”.
 
-2013—Subsec. (a)(1). Pub. L. 112–239, § 504(1), substituted “Subject to paragraphs (2) and (3), a regular warrant officer” for “A regular warrant officer (other than a regular Army warrant officer)” and “date on which the officer” for “date on which he”.
+2013—Subsec. (a)(1). Pub. L. 112–239, § 504(1), substituted “Subject to paragraphs (2) and (3), a regular warrant officer” for “A regular warrant officer (other than a regular Army warrant officer)” and “date on which the officer” for “date on which he”.
 
-Subsec. (a)(3). Pub. L. 112–239, § 504(2), added par. (3).
+Subsec. (a)(3). Pub. L. 112–239, § 504(2), added par. (3).
 
 2008—Subsec. (a). Pub. L. 110–417 designated existing provisions as par. (1), substituted “A regular warrant officer (other than a regular Army warrant officer) who has at least 30 years of active service that could be credited to the officer” for “A regular warrant officer who has at least 30 years of active service as a warrant officer that could be credited to him”, and added par. (2).
 
@@ -227,7 +227,7 @@ Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. 
 
 Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
 
-## § 1315. Computation of retired pay: law applicable
+## § 1315. Computation of retired pay: law applicable
 
 A member of the armed forces retired under this chapter is entitled to retired pay computed under chapter 71 of this title.
 

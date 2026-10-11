@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 17A—CONGRESSIONAL BUDGET AND FISCAL OPERATIONS
 
-## § 621. Congressional declaration of purpose
+## § 621. Congressional declaration of purpose
 
 The Congress declares that it is essential—
 
@@ -29,39 +29,39 @@ The Congress declares that it is essential—
 
 **(5)** to provide for the furnishing of information by the executive branch in a manner that will assist the Congress in discharging its duties.
 
-(Pub. L. 93–344, § 2, July 12, 1974, 88 Stat. 298.)
+(Pub. L. 93–344, § 2, July 12, 1974, 88 Stat. 298.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 1301 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1301 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 93–344, title IX, § 905, July 12, 1974, 88 Stat. 331, provided effective dates for Pub. L. 93–344 prior to repeal by Pub. L. 105–33, title X, § 10120(a), Aug. 5, 1997, 111 Stat. 696.
+Pub. L. 93–344, title IX, § 905, July 12, 1974, 88 Stat. 331, provided effective dates for Pub. L. 93–344 prior to repeal by Pub. L. 105–33, title X, § 10120(a), Aug. 5, 1997, 111 Stat. 696.
 
 **Short Title of 1999 Amendment**
 
-Pub. L. 106–141, § 1, Dec. 7, 1999, 113 Stat. 1699, provided that: “This Act [amending sections 658b and 658c of this title] may be cited as the ‘State Flexibility Clarification Act’.”
+Pub. L. 106–141, § 1, Dec. 7, 1999, 113 Stat. 1699, provided that: “This Act [amending sections 658b and 658c of this title] may be cited as the ‘State Flexibility Clarification Act’.”
 
 **Short Title of 1981 Amendment**
 
-Pub. L. 97–108, § 1, Dec. 23, 1981, 95 Stat. 1510, provided: “That this Act [amending section 653 of this title and enacting provisions set out as notes under section 653 of this title] may be cited as the ‘State and Local Government Cost Estimate Act of 1981’.”
+Pub. L. 97–108, § 1, Dec. 23, 1981, 95 Stat. 1510, provided: “That this Act [amending section 653 of this title and enacting provisions set out as notes under section 653 of this title] may be cited as the ‘State and Local Government Cost Estimate Act of 1981’.”
 
 **Short Title**
 
-Pub. L. 93–344, § 1(a), July 12, 1974, 88 Stat. 297, as amended by Pub. L. 104–130, § 4(a), Apr. 9, 1996, 110 Stat. 1211, provided that: “This Act [enacting chapters 17, 17A and 17B, and section 190a–3 of this title, and sections 11a, 11c, 11d, and 1020a of former Title 31, amending section 105 of Title 1, General Provisions, sections 190b and 190d of this title, and sections 11, 665, 701, 1020, and 1151, 1152, 1153, and 1154 of former Title 31, repealing sections 66 and 81 of this title, and sections 571 and 581c–1 of former Title 31, and enacting provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, General Provisions, and 1020 of former Title 31] may be cited as the ‘Congressional Budget and Impoundment Control Act of 1974’. Titles I through IX may be cited as the ‘Congressional Budget Act of 1974’, and title X [enacting chapter 17B of this title] may be cited as the ‘Impoundment Control Act of 1974’.”
+Pub. L. 93–344, § 1(a), July 12, 1974, 88 Stat. 297, as amended by Pub. L. 104–130, § 4(a), Apr. 9, 1996, 110 Stat. 1211, provided that: “This Act [enacting chapters 17, 17A and 17B, and section 190a–3 of this title, and sections 11a, 11c, 11d, and 1020a of former Title 31, amending section 105 of Title 1, General Provisions, sections 190b and 190d of this title, and sections 11, 665, 701, 1020, and 1151, 1152, 1153, and 1154 of former Title 31, repealing sections 66 and 81 of this title, and sections 571 and 581c–1 of former Title 31, and enacting provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, General Provisions, and 1020 of former Title 31] may be cited as the ‘Congressional Budget and Impoundment Control Act of 1974’. Titles I through IX may be cited as the ‘Congressional Budget Act of 1974’, and title X [enacting chapter 17B of this title] may be cited as the ‘Impoundment Control Act of 1974’.”
 
 [Amendment of section 1(a) of Pub. L. 93–344, set out above, by Pub. L. 104–130 was reversed pursuant to section 5 of Pub. L. 104–130, set out as an Effective and Termination Dates note under section 691 of this title.]
 
-Pub. L. 93–344, title V, § 500, as added Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, provided that: “This title [enacting subchapter III of this chapter] may be cited as the ‘Federal Credit Reform Act of 1990’.”
+Pub. L. 93–344, title V, § 500, as added Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, provided that: “This title [enacting subchapter III of this chapter] may be cited as the ‘Federal Credit Reform Act of 1990’.”
 
 **Financial Safety and Soundness of Government-Sponsored Enterprises**
 
-Pub. L. 101–508, title XIII, § 13501, Nov. 5, 1990, 104 Stat. 1388–628, provided that:
+Pub. L. 101–508, title XIII, § 13501, Nov. 5, 1990, 104 Stat. 1388–628, provided that:
 
 > **“(a) Definition.—** For purposes of this section, the terms ‘Government-sponsored enterprise’ and ‘GSE’ mean the Farm Credit System (including the Farm Credit Banks, Banks for Cooperatives, and Federal Agricultural Mortgage Corporation), the Federal Home Loan Bank System, the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, and the Student Loan Marketing Association.
 
@@ -111,15 +111,15 @@ Pub. L. 101–508, title XIII, § 13501, Nov. 5, 1990, 104 Stat. 1388–628, p
 
 **Multiyear Authorizations and 2-Year Appropriations for Selected Agencies and Accounts**
 
-Pub. L. 100–119, title II, § 201, Sept. 29, 1987, 101 Stat. 784, provided that: “It is the sense of the Congress that the Congress should undertake an experiment with multiyear authorizations and 2-year appropriations for selected agencies and accounts. An evaluation of the efficacy and desirability of such experiment should be conducted at the end of the 2-year period. The appropriate committees are directed to develop a plan in consultation with the leadership of the House and Senate to implement this experiment.”
+Pub. L. 100–119, title II, § 201, Sept. 29, 1987, 101 Stat. 784, provided that: “It is the sense of the Congress that the Congress should undertake an experiment with multiyear authorizations and 2-year appropriations for selected agencies and accounts. An evaluation of the efficacy and desirability of such experiment should be conducted at the end of the 2-year period. The appropriate committees are directed to develop a plan in consultation with the leadership of the House and Senate to implement this experiment.”
 
 **Financial Management Reform**
 
-Pub. L. 100–119, title II, § 203, Sept. 29, 1987, 101 Stat. 784, provided that: “It is the sense of the Congress that the Congress should undertake a coordinated effort to identify problems and develop specific recommendations to reform the financial management systems of the United States Government, including consideration of the use of generally accepted accounting principles.”
+Pub. L. 100–119, title II, § 203, Sept. 29, 1987, 101 Stat. 784, provided that: “It is the sense of the Congress that the Congress should undertake a coordinated effort to identify problems and develop specific recommendations to reform the financial management systems of the United States Government, including consideration of the use of generally accepted accounting principles.”
 
 **Exercise of Congressional Rulemaking Power**
 
-Pub. L. 93–344, title IX, § 904, July 12, 1974, 88 Stat. 331, as amended by Pub. L. 99–177, title II, § 271(a), Dec. 12, 1985, 99 Stat. 1094; Pub. L. 101–508, title XIII, §§ 13112(a)(11), 13208(a), Nov. 5, 1990, 104 Stat. 1388–608, 1388–619; Pub. L. 104–130, § 4(c), Apr. 9, 1996, 110 Stat. 1212; Pub. L. 105–33, title X, § 10119, Aug. 5, 1997, 111 Stat. 695; Pub. L. 112–25, title I, § 105(c), Aug. 2, 2011, 125 Stat. 247; Pub. L. 113–67, div. A, title I, § 122(16), (17), Dec. 26, 2013, 127 Stat. 1176, provided that:
+Pub. L. 93–344, title IX, § 904, July 12, 1974, 88 Stat. 331, as amended by Pub. L. 99–177, title II, § 271(a), Dec. 12, 1985, 99 Stat. 1094; Pub. L. 101–508, title XIII, §§ 13112(a)(11), 13208(a), Nov. 5, 1990, 104 Stat. 1388–608, 1388–619; Pub. L. 104–130, § 4(c), Apr. 9, 1996, 110 Stat. 1212; Pub. L. 105–33, title X, § 10119, Aug. 5, 1997, 111 Stat. 695; Pub. L. 112–25, title I, § 105(c), Aug. 2, 2011, 125 Stat. 247; Pub. L. 113–67, div. A, title I, § 122(16), (17), Dec. 26, 2013, 127 Stat. 1176, provided that:
 
 > **“(a)** The provisions of this title and of titles I, III, IV, and V and the provisions of sections 701, 703, and 1017 [enacting this chapter (except subchapter IV) and sections 190a–3 and 688 of this title, amending the Rules of the House of Representatives and the Standing Rules of the Senate, and sections 190b and 190d of this title, and enacting provisions set out as notes under this section and sections 190a–1 and 632 of this title] are enacted by the Congress—
 
@@ -147,7 +147,7 @@ Pub. L. 93–344, title IX, § 904, July 12, 1974, 88 Stat. 331, as amended by
 
 [Amendment of section 904 of Pub. L. 93–344, set out above, by Pub. L. 104–130 was reversed pursuant to section 5 of Pub. L. 104–130, set out as an Effective and Termination Dates note under section 691 of this title.]
 
-## § 622. Definitions
+## § 622. Definitions
 
 For purposes of this Act—
 
@@ -169,9 +169,9 @@ For purposes of this Act—
 
 **(C) New budget authority.—** The term “new budget authority” means, with respect to a fiscal year—
 
-**(i)** budget authority that first becomes available for obligation in that year, including budget authority that becomes available in that year s 1
+**(i)** budget authority that first becomes available for obligation in that year, including budget authority that becomes available in that year s 1
 
-<sup>1</sup>  So in original. Probably should be “as”.
+<sup>1</sup> So in original. Probably should be “as”.
 
 a result of a reappropriation; or
 
@@ -189,13 +189,13 @@ and includes a change in the estimated level of new budget authority provided in
 
 **(5)** The term “appropriation Act” means an Act referred to in section 105 of title 1.
 
-**(6)** The term “deficit” means, with respect to a fiscal year, the amount by which outlays exceeds 2
+**(6)** The term “deficit” means, with respect to a fiscal year, the amount by which outlays exceeds 2
 
-<sup>2</sup>  So in original. Probably should be “exceed”.
+<sup>2</sup> So in original. Probably should be “exceed”.
 
 receipts during that year.
 
-**(7)** The term “surplus” means, with respect to a fiscal year, the amount by which receipts exceeds <sup>2</sup> outlays during that year.
+**(7)** The term “surplus” means, with respect to a fiscal year, the amount by which receipts exceeds <sup>2</sup> outlays during that year.
 
 **(8)** The term “government-sponsored enterprise” means a corporate entity created by a law of the United States that—
 
@@ -231,7 +231,7 @@ receipts during that year.
 
 **(11)** The terms “emergency” and “unanticipated” have the meanings given to such terms in section 900(c) of this title.
 
-(Pub. L. 93–344, § 3, July 12, 1974, 88 Stat. 299; Aug. 1, 1946, ch. 724, title I, § 302(c), as added Pub. L. 95–110, § 1, Sept. 20, 1977, 91 Stat. 884, renumbered title I, Pub. L. 102–486, title IX, § 902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 99–177, title II, §§ 201(a), 232(b), Dec. 12, 1985, 99 Stat. 1039, 1062; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–119, title I, § 106(a), Sept. 29, 1987, 101 Stat. 780; Pub. L. 100–203, title VIII, § 8003(c), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §§ 13112(a)(2), 13201(b)(1), 13211(a), Nov. 5, 1990, 104 Stat. 1388–607, 1388–614, 1388–620; Pub. L. 105–33, title X, § 10101, Aug. 5, 1997, 111 Stat. 678; Pub. L. 112–25, title I, § 105(b), Aug. 2, 2011, 125 Stat. 247.)
+(Pub. L. 93–344, § 3, July 12, 1974, 88 Stat. 299; Aug. 1, 1946, ch. 724, title I, § 302(c), as added Pub. L. 95–110, § 1, Sept. 20, 1977, 91 Stat. 884, renumbered title I, Pub. L. 102–486, title IX, § 902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 99–177, title II, §§ 201(a), 232(b), Dec. 12, 1985, 99 Stat. 1039, 1062; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–119, title I, § 106(a), Sept. 29, 1987, 101 Stat. 780; Pub. L. 100–203, title VIII, § 8003(c), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §§ 13112(a)(2), 13201(b)(1), 13211(a), Nov. 5, 1990, 104 Stat. 1388–607, 1388–614, 1388–620; Pub. L. 105–33, title X, § 10101, Aug. 5, 1997, 111 Stat. 678; Pub. L. 112–25, title I, § 105(b), Aug. 2, 2011, 125 Stat. 247.)
 
 **Editorial Notes**
 
@@ -241,7 +241,7 @@ This Act, referred to in text, means Pub. L. 93–344, July 12, 1974, 88 Stat. 2
 
 **Codification**
 
-Section was formerly classified to section 1302 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1302 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Amendments**
 
@@ -249,15 +249,15 @@ Section was formerly classified to section 1302 of Title 31 prior to the general
 
 1997—Par. (9). Pub. L. 105–33 amended par. (9) generally. Prior to amendment, par. (9) read as follows: “The term ‘entitlement authority’ means spending authority described by section 651(c)(2)(C) of this title.”
 
-1990—Par. (2). Pub. L. 101–508, § 13211(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘budget authority’ means authority provided by law to enter into obligations which will result in immediate or future outlays involving Government funds or to collect offsetting receipts., except that such term does not include authority to insure or guarantee the repayment of indebtedness incurred by another person or government. The term includes the cost for direct loan and loan guarantee programs, as those terms are defined by subchapter III of this chapter”.
+1990—Par. (2). Pub. L. 101–508, § 13211(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘budget authority’ means authority provided by law to enter into obligations which will result in immediate or future outlays involving Government funds or to collect offsetting receipts., except that such term does not include authority to insure or guarantee the repayment of indebtedness incurred by another person or government. The term includes the cost for direct loan and loan guarantee programs, as those terms are defined by subchapter III of this chapter”.
 
-Pub. L. 101–508, § 13201(b)(1), inserted at end: “The term includes the cost for direct loan and loan guarantee programs, as those terms are defined by subchapter III of this chapter”.
+Pub. L. 101–508, § 13201(b)(1), inserted at end: “The term includes the cost for direct loan and loan guarantee programs, as those terms are defined by subchapter III of this chapter”.
 
-Pars. (6) to (8). Pub. L. 101–508, § 13112(a)(2), added pars. (6) to (8) and struck out former par. (6) which defined “deficit” and contained provisions relating to calculation of the deficit, former par. (7) which defined “maximum deficit amount”, and former par. (8) which defined “off-budget Federal entity”.
+Pars. (6) to (8). Pub. L. 101–508, § 13112(a)(2), added pars. (6) to (8) and struck out former par. (6) which defined “deficit” and contained provisions relating to calculation of the deficit, former par. (7) which defined “maximum deficit amount”, and former par. (8) which defined “off-budget Federal entity”.
 
-1987—Par. (7)(C). Pub. L. 100–203, § 8003(c)(1), (2), redesignated subpar. (D) as (C). Former subpar. (C), which provided for maximum deficit amount of $108,000,000,000 for fiscal year beginning Oct. 1, 1987, was struck out.
+1987—Par. (7)(C). Pub. L. 100–203, § 8003(c)(1), (2), redesignated subpar. (D) as (C). Former subpar. (C), which provided for maximum deficit amount of $108,000,000,000 for fiscal year beginning Oct. 1, 1987, was struck out.
 
-Par. (7)(D) to (I). Pub. L. 100–203, § 8003(c)(2)–(7), redesignated subpars. (E) to (I) as (D) to (H), respectively. Former subpar. (D) redesignated (C).
+Par. (7)(D) to (I). Pub. L. 100–203, § 8003(c)(2)–(7), redesignated subpars. (E) to (I) as (D) to (H), respectively. Former subpar. (D) redesignated (C).
 
 Pub. L. 100–119 inserted subpars. (D) to (I) and struck out former subpars. (D) to (F) which read as follows:
 
@@ -269,11 +269,11 @@ Pub. L. 100–119 inserted subpars. (D) to (I) and struck out former subpars. (D
 
 1986—Par. (6). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1985—Par. (2). Pub. L. 99–177, § 201(a)(2), inserted reference to the collection of offsetting receipts, effective Apr. 15, 1986.
+1985—Par. (2). Pub. L. 99–177, § 201(a)(2), inserted reference to the collection of offsetting receipts, effective Apr. 15, 1986.
 
-Par. (4). Pub. L. 99–177, § 232(b), struck out subpar. (B) relating to concurrent resolutions as provided in section 641 of this title, and redesignated subpar. (C) as (B).
+Par. (4). Pub. L. 99–177, § 232(b), struck out subpar. (B) relating to concurrent resolutions as provided in section 641 of this title, and redesignated subpar. (C) as (B).
 
-Pars. (6) to (10). Pub. L. 99–177, § 201(a)(1), added pars. (6) to (10).
+Pars. (6) to (10). Pub. L. 99–177, § 201(a)(1), added pars. (6) to (10).
 
 1977—Pub. L. 95–110 struck out designation “(a)” before “For the purpose of this chapter” and struck out subsec. (b) which provided that Members of the respective Houses of Congress who were members of the Joint Committee on Atomic Energy were to be treated as standing committees of their respective Houses of Congress.
 
@@ -285,13 +285,13 @@ References to the food stamp program established under the Food and Nutrition Ac
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title XIII, § 13211(b), Nov. 5, 1990, 104 Stat. 1388–620, provided that: “The amendment made by subsection (a) [amending this section] shall be effective for fiscal year 1992 and subsequent fiscal years.”
+Pub. L. 101–508, title XIII, § 13211(b), Nov. 5, 1990, 104 Stat. 1388–620, provided that: “The amendment made by subsection (a) [amending this section] shall be effective for fiscal year 1992 and subsequent fiscal years.”
 
 **Effective Date of 1985 Amendment**
 
-Amendment by sections 201(a)(1) and 232(b) of Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, and amendment by section 201(a)(2) of Pub. L. 99–177 effective Apr. 15, 1986, see section 275(a)(1), (2)(A) of Pub. L. 99–177, as amended, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
+Amendment by sections 201(a)(1) and 232(b) of Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, and amendment by section 201(a)(2) of Pub. L. 99–177 effective Apr. 15, 1986, see section 275(a)(1), (2)(A) of Pub. L. 99–177, as amended, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
 
-## § 623. Continuing study of additional budget reform proposals
+## § 623. Continuing study of additional budget reform proposals
 
 **(a)** The Committees on the Budget of the House of Representatives and the Senate shall study on a continuing basis proposals designed to improve and facilitate methods of congressional budgetmaking. The proposals to be studied shall include, but are not limited to, proposals for—
 
@@ -307,17 +307,17 @@ Amendment by sections 201(a)(1) and 232(b) of Pub. L. 99–177 effective Dec. 12
 
 **(c)** Nothing in this section shall preclude studies to improve the budgetary process by any other committee of the House of Representatives or the Senate or any joint committee of the Congress.
 
-(Pub. L. 93–344, title VII, § 703, July 12, 1974, 88 Stat. 326.)
+(Pub. L. 93–344, title VII, § 703, July 12, 1974, 88 Stat. 326.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 1303 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1303 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 ## SUBCHAPTER I—CONGRESSIONAL BUDGET PROCESS
 
-### § 631. Timetable
+### § 631. Timetable
 
 The timetable with respect to the congressional budget process for any fiscal year is as follows:
 
@@ -334,13 +334,13 @@ The timetable with respect to the congressional budget process for any fiscal ye
 | June 30 | House completes action on annual appropriation bills. |
 | October 1 | Fiscal year begins. |
 
-(Pub. L. 93–344, title III, § 300, July 12, 1974, 88 Stat. 306; Pub. L. 99–177, title II, § 201(b), Dec. 12, 1985, 99 Stat. 1040; Pub. L. 101–508, title XIII, § 13112(a)(4), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 105–33, title X, § 10104(a), Aug. 5, 1997, 111 Stat. 679.)
+(Pub. L. 93–344, title III, § 300, July 12, 1974, 88 Stat. 306; Pub. L. 99–177, title II, § 201(b), Dec. 12, 1985, 99 Stat. 1040; Pub. L. 101–508, title XIII, § 13112(a)(4), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 105–33, title X, § 10104(a), Aug. 5, 1997, 111 Stat. 679.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 1321 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1321 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Amendments**
 
@@ -354,7 +354,7 @@ Section was formerly classified to section 1321 of Title 31 prior to the general
 
 **Effective Date of 1985 Amendment**
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
 
 **Effective Date**
 
@@ -362,7 +362,7 @@ Subchapter applicable with respect to the fiscal year beginning Oct. 1, 1976, an
 
 **Senate Budget Enforcement**
 
-Pub. L. 112–25, title I, § 106, Aug. 2, 2011, 125 Stat. 247, provided that:
+Pub. L. 112–25, title I, § 106, Aug. 2, 2011, 125 Stat. 247, provided that:
 
 > **“(a) In General.—**
 
@@ -412,7 +412,7 @@ Pub. L. 112–25, title I, § 106, Aug. 2, 2011, 125 Stat. 247, provided that:
 
 > **“(2)** Subsections (a)(2), (b)(2), and (c)(2) shall expire if a concurrent resolution on the budget for fiscal year 2013 is agreed to by the Senate and House of Representatives pursuant to section 301 of the Congressional Budget Act of 1974.”
 
-### § 632. Annual adoption of concurrent resolution on the budget
+### § 632. Annual adoption of concurrent resolution on the budget
 
 **(a) Content of concurrent resolution on the budget** On or before April 15 of each year, the Congress shall complete action on a concurrent resolution on the budget for the fiscal year beginning on October 1 of such year. The concurrent resolution shall set forth appropriate levels for the fiscal year beginning on October 1 of such year and for at least each of the 4 ensuing fiscal years for the following—
 
@@ -458,9 +458,9 @@ If the Committee on the Budget of the House of Representatives reports any concu
 
 **(d) Views and estimates of other committees**
 
-Within 6 weeks after the President submits a budget under section 1105(a) of title 31, or at such time as may be requested by the Committee on the Budget, each committee of the House of Representatives having legislative jurisdiction shall submit to the Committee on the Budget of the House and each committee of the Senate having legislative jurisdiction shall submit to the Committee on the Budget of the Senate its views and estimates (as determined by the committee making such submission) with respect to all matters set forth in subsections (a) and (b) which relate to matters within the jurisdiction or functions of such committee. The Joint Economic Committee shall submit to the Committees on the Budget of both Houses its recommendations as to the fiscal policy appropriate to the goals of the Employment Act of 1946 [15 U.S.C. 1021 et seq.]. Any other committee of the House of Representatives or the Senate may submit to the Committee on the Budget of its House, and any joint committee of the Congress may submit to the Committees on the Budget of both Houses, its views and estimates with respect to all matters set forth in subsections (a) and (b) which relate to matters within its jurisdiction or functions. Any Committee 1
+Within 6 weeks after the President submits a budget under section 1105(a) of title 31, or at such time as may be requested by the Committee on the Budget, each committee of the House of Representatives having legislative jurisdiction shall submit to the Committee on the Budget of the House and each committee of the Senate having legislative jurisdiction shall submit to the Committee on the Budget of the Senate its views and estimates (as determined by the committee making such submission) with respect to all matters set forth in subsections (a) and (b) which relate to matters within the jurisdiction or functions of such committee. The Joint Economic Committee shall submit to the Committees on the Budget of both Houses its recommendations as to the fiscal policy appropriate to the goals of the Employment Act of 1946 [15 U.S.C. 1021 et seq.]. Any other committee of the House of Representatives or the Senate may submit to the Committee on the Budget of its House, and any joint committee of the Congress may submit to the Committees on the Budget of both Houses, its views and estimates with respect to all matters set forth in subsections (a) and (b) which relate to matters within its jurisdiction or functions. Any Committee 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 of the House of Representatives or the Senate that anticipates that the committee will consider any proposed legislation establishing, amending, or reauthorizing any Federal program likely to have a significant budgetary impact on any State, local, or tribal government, or likely to have a significant financial impact on the private sector, including any legislative proposal submitted by the executive branch likely to have such a budgetary or financial impact, shall include its views and estimates on that proposal to the Committee on the Budget of the applicable House.
 
@@ -520,65 +520,65 @@ The Committee on the Budget of the House of Representatives shall consult with t
 
 It shall not be in order in the Senate to consider any concurrent resolution on the budget (or amendment, motion, or conference report on the resolution) that would decrease the excess of social security revenues over social security outlays in any of the fiscal years covered by the concurrent resolution. No change in chapter 1 of the Internal Revenue Code of 1986 [26 U.S.C. 1 et seq.] shall be treated as affecting the amount of social security revenues unless such provision changes the income tax treatment of social security benefits.
 
-(Pub. L. 93–344, title III, § 301, July 12, 1974, 88 Stat. 306; Pub. L. 95–523, title III, §§ 303(a), 304, Oct. 27, 1978, 92 Stat. 1905, 1906; Pub. L. 99–177, title II, § 201(b), Dec. 12, 1985, 99 Stat. 1040; Pub. L. 100–119, title I, § 106(d), title II, § 208(a), Sept. 29, 1987, 101 Stat. 781, 786; Pub. L. 100–418, title V, § 5302, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 101–508, title XIII, §§ 13112(a)(5), 13203, 13204, 13301(b), 13303(a), (b), Nov. 5, 1990, 104 Stat. 1388–608, 1388–615, 1388–616, 1388–623, 1388–625; Pub. L. 104–4, title I, § 102(2), Mar. 22, 1995, 109 Stat. 62; Pub. L. 105–33, title X, § 10105(a)–(f)(1), Aug. 5, 1997, 111 Stat. 679, 680; Pub. L. 113–67, div. A, title I, § 122(1), (2), Dec. 26, 2013, 127 Stat. 1175.)
+(Pub. L. 93–344, title III, § 301, July 12, 1974, 88 Stat. 306; Pub. L. 95–523, title III, §§ 303(a), 304, Oct. 27, 1978, 92 Stat. 1905, 1906; Pub. L. 99–177, title II, § 201(b), Dec. 12, 1985, 99 Stat. 1040; Pub. L. 100–119, title I, § 106(d), title II, § 208(a), Sept. 29, 1987, 101 Stat. 781, 786; Pub. L. 100–418, title V, § 5302, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 101–508, title XIII, §§ 13112(a)(5), 13203, 13204, 13301(b), 13303(a), (b), Nov. 5, 1990, 104 Stat. 1388–608, 1388–615, 1388–616, 1388–623, 1388–625; Pub. L. 104–4, title I, § 102(2), Mar. 22, 1995, 109 Stat. 62; Pub. L. 105–33, title X, § 10105(a)–(f)(1), Aug. 5, 1997, 111 Stat. 679, 680; Pub. L. 113–67, div. A, title I, § 122(1), (2), Dec. 26, 2013, 127 Stat. 1175.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsecs. (a) and (i), is classified generally to Title 26, Internal Revenue Code.
 
 This Act, referred to in subsec. (b)(4), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A and 17B, and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153 and 1154 of former Title 31, section 105 of Title 1, General Provisions, sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31 and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
-The Employment Act of 1946, referred to in subsec. (d), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, which is classified generally to chapter 21 (§ 1021 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1021 of Title 15 and Tables.
+The Employment Act of 1946, referred to in subsec. (d), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, which is classified generally to chapter 21 (§ 1021 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1021 of Title 15 and Tables.
 
-The Congressional Budget Act of 1974, referred to in subsec. (g)(3), is titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297. Titles III and IV of the Act are classified generally to this subchapter (§ 631 et seq.) and subchapter II (§ 651 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+The Congressional Budget Act of 1974, referred to in subsec. (g)(3), is titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297. Titles III and IV of the Act are classified generally to this subchapter (§ 631 et seq.) and subchapter II (§ 651 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 **Codification**
 
-Section was formerly classified to section 1322 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1322 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Amendments**
 
-2013—Subsec. (a). Pub. L. 113–67, § 122(2), substituted “old-age” for “old age” in concluding provisions.
+2013—Subsec. (a). Pub. L. 113–67, § 122(2), substituted “old-age” for “old age” in concluding provisions.
 
-Subsec. (a)(6), (7). Pub. L. 113–67, § 122(1), substituted “for purposes” for “For purposes”.
+Subsec. (a)(6), (7). Pub. L. 113–67, § 122(1), substituted “for purposes” for “For purposes”.
 
-1997—Subsec. (a). Pub. L. 105–33, § 10105(a), in introductory provisions, substituted “and for at least each of the 4 ensuing fiscal years” for “, and planning levels for each of the two ensuing fiscal years,”.
+1997—Subsec. (a). Pub. L. 105–33, § 10105(a), in introductory provisions, substituted “and for at least each of the 4 ensuing fiscal years” for “, and planning levels for each of the two ensuing fiscal years,”.
 
-Subsec. (a)(1), (4). Pub. L. 105–33, § 10105(b), substituted “and outlays” for “, budget outlays, direct loan obligations, and primary loan guarantee commitments”.
+Subsec. (a)(1), (4). Pub. L. 105–33, § 10105(b), substituted “and outlays” for “, budget outlays, direct loan obligations, and primary loan guarantee commitments”.
 
-Subsec. (b)(7). Pub. L. 105–33, § 10105(c)(1), added par. (7) and struck out former par. (7) which related to setting forth pay-as-you-go procedures for the Senate.
+Subsec. (b)(7). Pub. L. 105–33, § 10105(c)(1), added par. (7) and struck out former par. (7) which related to setting forth pay-as-you-go procedures for the Senate.
 
-Subsec. (b)(9). Pub. L. 105–33, § 10105(c)(2), (3), added par. (9).
+Subsec. (b)(9). Pub. L. 105–33, § 10105(c)(2), (3), added par. (9).
 
-Subsec. (d). Pub. L. 105–33, § 10105(d), in first sentence, inserted “or at such time as may be requested by the Committee on the Budget,” after “title 31,”.
+Subsec. (d). Pub. L. 105–33, § 10105(d), in first sentence, inserted “or at such time as may be requested by the Committee on the Budget,” after “title 31,”.
 
-Subsec. (e). Pub. L. 105–33, § 10105(e), designated existing provisions as par. (1), inserted par. heading, added pars. (2) and (3), and struck out former last sentence consisting of pars. (1) to (9) which contained requirements for contents of report to accompany the concurrent resolution on the budget.
+Subsec. (e). Pub. L. 105–33, § 10105(e), designated existing provisions as par. (1), inserted par. heading, added pars. (2) and (3), and struck out former last sentence consisting of pars. (1) to (9) which contained requirements for contents of report to accompany the concurrent resolution on the budget.
 
-Subsec. (i). Pub. L. 105–33, § 10105(f)(1), inserted heading and substituted “(or amendment, motion, or conference report on the resolution)” for “as reported to the Senate”.
+Subsec. (i). Pub. L. 105–33, § 10105(f)(1), inserted heading and substituted “(or amendment, motion, or conference report on the resolution)” for “as reported to the Senate”.
 
 1995—Subsec. (d). Pub. L. 104–4 inserted at end “Any Committee of the House of Representatives or the Senate that anticipates that the committee will consider any proposed legislation establishing, amending, or reauthorizing any Federal program likely to have a significant budgetary impact on any State, local, or tribal government, or likely to have a significant financial impact on the private sector, including any legislative proposal submitted by the executive branch likely to have such a budgetary or financial impact, shall include its views and estimates on that proposal to the Committee on the Budget of the applicable House.”
 
-1990—Subsec. (a). Pub. L. 101–508, § 13301(b), inserted at end: “The concurrent resolution shall not include the outlays and revenue totals of the old age, survivors, and disability insurance program established under title II of the Social Security Act or the related provisions of the Internal Revenue Code of 1986 in the surplus or deficit totals required by this subsection or in any other surplus or deficit totals required by this subchapter.”
+1990—Subsec. (a). Pub. L. 101–508, § 13301(b), inserted at end: “The concurrent resolution shall not include the outlays and revenue totals of the old age, survivors, and disability insurance program established under title II of the Social Security Act or the related provisions of the Internal Revenue Code of 1986 in the surplus or deficit totals required by this subsection or in any other surplus or deficit totals required by this subchapter.”
 
-Subsec. (a)(6), (7). Pub. L. 101–508, § 13303(a), added pars. (6) and (7).
+Subsec. (a)(6), (7). Pub. L. 101–508, § 13303(a), added pars. (6) and (7).
 
-Subsec. (b)(5), (6). Pub. L. 101–508, § 13203, added pars. (5) and (6).
+Subsec. (b)(5), (6). Pub. L. 101–508, § 13203, added pars. (5) and (6).
 
-Subsec. (b)(7), (8). Pub. L. 101–508, § 13204, added pars. (7) and (8).
+Subsec. (b)(7), (8). Pub. L. 101–508, § 13204, added pars. (7) and (8).
 
-Subsec. (d). Pub. L. 101–508, § 13112(a)(5), substituted “Within 6 weeks after the President submits a budget under section 1105(a) of title 31” for “On or before February 25 of each year”.
+Subsec. (d). Pub. L. 101–508, § 13112(a)(5), substituted “Within 6 weeks after the President submits a budget under section 1105(a) of title 31” for “On or before February 25 of each year”.
 
-Subsec. (i). Pub. L. 101–508, § 13303(b), amended subsec. (i) generally, substituting present provisions for former provisions relating to maximum deficit amounts.
+Subsec. (i). Pub. L. 101–508, § 13303(b), amended subsec. (i) generally, substituting present provisions for former provisions relating to maximum deficit amounts.
 
 1988—Subsec. (e)(10). Pub. L. 100–418 temporarily added par. (10). See Effective and Termination Dates of 1988 Amendment note below.
 
-1987—Subsec. (g). Pub. L. 100–119, § 208(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The joint explanatory statement accompanying a conference report on a concurrent resolution on the budget shall set forth the common economic assumptions upon which such joint statement and conference report are based, or upon which any amendment contained in the joint explanatory statement to be proposed by the conferees in the case of technical disagreement is based.”
+1987—Subsec. (g). Pub. L. 100–119, § 208(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The joint explanatory statement accompanying a conference report on a concurrent resolution on the budget shall set forth the common economic assumptions upon which such joint statement and conference report are based, or upon which any amendment contained in the joint explanatory statement to be proposed by the conferees in the case of technical disagreement is based.”
 
-Subsec. (i)(2). Pub. L. 100–119, § 106(d), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
+Subsec. (i)(2). Pub. L. 100–119, § 106(d), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
 1985—Pub. L. 99–177 substituted “Adoption of concurrent resolution on the budget” for “Adoption of first concurrent resolution” in section catchline.
 
@@ -592,13 +592,13 @@ Subsec. (d). Pub. L. 99–177 amended subsec. (d) generally, substituting provis
 
 Subsec. (e). Pub. L. 99–177 amended subsec. (e) generally, substituting provisions relating to hearings and report in developing the concurrent resolution on the budget, for provisions relating to achievement of goals for reducing unemployment.
 
-Subsecs. (f) to (i). Pub. L. 99–177, §§ 201(b), 275(b)(2)(B), in amending section generally, added subsecs. (f) to (i).
+Subsecs. (f) to (i). Pub. L. 99–177, §§ 201(b), 275(b)(2)(B), in amending section generally, added subsecs. (f) to (i).
 
-1978—Subsec. (a)(6), (7). Pub. L. 95–523, § 304(a), added par. (6) and redesignated former par. (6) as (7).
+1978—Subsec. (a)(6), (7). Pub. L. 95–523, § 304(a), added par. (6) and redesignated former par. (6) as (7).
 
-Subsec. (d). Pub. L. 95–523, § 303(a), which directed insertion in subsec. (c) provisions relating to consideration by the Committee on the Budget of each House respecting short-term and medium-term goals set forth in the Joint Economic Committee report and the reflection of its views in its report and insertion of “also” after “concurrent resolution shall” was executed to subsec. (d) to reflect the probable intent of Congress.
+Subsec. (d). Pub. L. 95–523, § 303(a), which directed insertion in subsec. (c) provisions relating to consideration by the Committee on the Budget of each House respecting short-term and medium-term goals set forth in the Joint Economic Committee report and the reflection of its views in its report and insertion of “also” after “concurrent resolution shall” was executed to subsec. (d) to reflect the probable intent of Congress.
 
-Subsec. (e). Pub. L. 95–523, § 304(b), added subsec. (e).
+Subsec. (e). Pub. L. 95–523, § 304(b), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -608,7 +608,7 @@ Amendment by Pub. L. 104–4 effective Jan. 1, 1996, or on the date 90 days afte
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title XIII, § 13306, Nov. 5, 1990, 104 Stat. 1388–628, provided that: “Sections 13301, 13302, and 13303 and any amendments made by such sections [amending this section and sections 633 and 642 of this title and enacting provisions set out as notes under this section] shall apply with respect to fiscal years beginning on or after October 1, 1990. Section 13304 [amending section 401 of Title 42, The Public Health and Welfare] shall be effective for annual reports of the Board of Trustees issued in or after calendar year 1991.”
+Pub. L. 101–508, title XIII, § 13306, Nov. 5, 1990, 104 Stat. 1388–628, provided that: “Sections 13301, 13302, and 13303 and any amendments made by such sections [amending this section and sections 633 and 642 of this title and enacting provisions set out as notes under this section] shall apply with respect to fiscal years beginning on or after October 1, 1990. Section 13304 [amending section 401 of Title 42, The Public Health and Welfare] shall be effective for annual reports of the Board of Trustees issued in or after calendar year 1991.”
 
 **Effective and Termination Dates of 1988 Amendment**
 
@@ -616,11 +616,11 @@ Amendment by Pub. L. 100–418 effective for fiscal years 1989, 1990, 1991, and 
 
 **Effective Date of 1985 Amendment**
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
 
 **Exclusion of Social Security From All Budgets**
 
-Pub. L. 101–508, title XIII, § 13301(a), Nov. 5, 1990, 104 Stat. 1388–623, provided that:
+Pub. L. 101–508, title XIII, § 13301(a), Nov. 5, 1990, 104 Stat. 1388–623, provided that:
 
 > “Notwithstanding any other provision of law, the receipts and disbursements of the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund shall not be counted as new budget authority, outlays, receipts, or deficit or surplus for purposes of—
 
@@ -632,7 +632,7 @@ Pub. L. 101–508, title XIII, § 13301(a), Nov. 5, 1990, 104 Stat. 1388–623
 
 **Protection of OASDI Trust Funds in House of Representatives**
 
-Pub. L. 101–508, title XIII, § 13302, Nov. 5, 1990, 104 Stat. 1388–623, provided that:
+Pub. L. 101–508, title XIII, § 13302, Nov. 5, 1990, 104 Stat. 1388–623, provided that:
 
 > **“(a) In General.—** It shall not be in order in the House of Representatives to consider any bill or joint resolution, as reported, or any amendment thereto or conference report thereon, if, upon enactment—
 
@@ -674,13 +674,13 @@ Pub. L. 101–508, title XIII, § 13302, Nov. 5, 1990, 104 Stat. 1388–623, p
 
 **Balanced Federal Budgets; Congressional Budget Committee Reports by April 15, 1979, 1980, and 1981, of Balanced Fiscal Year Budgets for 1981 and 1982**
 
-Pub. L. 96–5, § 5, Apr. 2, 1979, 93 Stat. 8, which provided that Congress shall balance the Federal budget, that the Budget Committees were to report, by April 15, 1979, a fiscal year budget for 1981 that would be in balance, and also a fiscal year budget for 1982 that would be in balance, and by April 15, 1980, a fiscal year budget for 1981 that would be in balance, and by April 15, 1981, a fiscal year budget for 1982 that would be in balance, and that the Budget Committees were to show the consequences of each budget on each budget function and on the economy, setting forth the effects on revenues, spending, employment, inflation, and national security, was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068.
+Pub. L. 96–5, § 5, Apr. 2, 1979, 93 Stat. 8, which provided that Congress shall balance the Federal budget, that the Budget Committees were to report, by April 15, 1979, a fiscal year budget for 1981 that would be in balance, and also a fiscal year budget for 1982 that would be in balance, and by April 15, 1980, a fiscal year budget for 1981 that would be in balance, and by April 15, 1981, a fiscal year budget for 1982 that would be in balance, and that the Budget Committees were to show the consequences of each budget on each budget function and on the economy, setting forth the effects on revenues, spending, employment, inflation, and national security, was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068.
 
 **Application of Congressional Budget Process to Fiscal Year Beginning July 1, 1975**
 
-Pub. L. 93–344, title IX, § 906, July 12, 1974, 88 Stat. 332, provided for application of provisions of this subchapter and sections 602(f), 651, and 652 of this title with respect to the fiscal year beginning July 1, 1975, to the extent agreed to by the Committees on the Budget of the House of Representatives and the Senate, prior to repeal by Pub. L. 105–33, title X, § 10120(a), Aug. 5, 1997, 111 Stat. 696.
+Pub. L. 93–344, title IX, § 906, July 12, 1974, 88 Stat. 332, provided for application of provisions of this subchapter and sections 602(f), 651, and 652 of this title with respect to the fiscal year beginning July 1, 1975, to the extent agreed to by the Committees on the Budget of the House of Representatives and the Senate, prior to repeal by Pub. L. 105–33, title X, § 10120(a), Aug. 5, 1997, 111 Stat. 696.
 
-### § 633. Committee allocations
+### § 633. Committee allocations
 
 **(a) Committee spending allocations**
 
@@ -782,7 +782,7 @@ would not increase the deficit, and, if the sum of any outlay reductions provide
 
 **(B)** Such revised allocations, functional levels, and budget aggregates shall be considered for the purposes of this Act as allocations, functional levels, and budget aggregates contained in the most recently agreed to concurrent resolution on the budget.
 
-(Pub. L. 93–344, title III, § 302, July 12, 1974, 88 Stat. 308; Pub. L. 99–177, title II, § 201(b), Dec. 12, 1985, 99 Stat. 1044; Pub. L. 101–508, title XIII, §§ 13112(a)(6), (7), 13201(b)(2), (3), 13207(a)(1)(A), (B), (2), 13303(c), Nov. 5, 1990, 104 Stat. 1388–608, 1388–614, 1388–617, 1388–618, 1388–625; Pub. L. 105–33, title X, § 10106, Aug. 5, 1997, 111 Stat. 680; Pub. L. 113–67, div. A, title I, § 122(3), Dec. 26, 2013, 127 Stat. 1175.)
+(Pub. L. 93–344, title III, § 302, July 12, 1974, 88 Stat. 308; Pub. L. 99–177, title II, § 201(b), Dec. 12, 1985, 99 Stat. 1044; Pub. L. 101–508, title XIII, §§ 13112(a)(6), (7), 13201(b)(2), (3), 13207(a)(1)(A), (B), (2), 13303(c), Nov. 5, 1990, 104 Stat. 1388–608, 1388–614, 1388–617, 1388–618, 1388–625; Pub. L. 105–33, title X, § 10106, Aug. 5, 1997, 111 Stat. 680; Pub. L. 113–67, div. A, title I, § 122(3), Dec. 26, 2013, 127 Stat. 1175.)
 
 **Editorial Notes**
 
@@ -792,17 +792,17 @@ This Act, referred to in subsec. (g)(2)(B), means Pub. L. 93–344, July 12, 197
 
 **Codification**
 
-Section was formerly classified to section 1323 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1323 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Amendments**
 
 2013—Subsec. (g)(2)(A). Pub. L. 113–67 substituted “Committee on the Budget” for “committee on the Budget”.
 
-1997—Subsec. (a). Pub. L. 105–33, § 10106(a), added subsec. (a) and struck out former subsec. (a) which required inclusion of certain allocations to committees of the House of Representatives and of the Senate in the joint explanatory statement accompanying a conference report on a concurrent resolution on the budget.
+1997—Subsec. (a). Pub. L. 105–33, § 10106(a), added subsec. (a) and struck out former subsec. (a) which required inclusion of certain allocations to committees of the House of Representatives and of the Senate in the joint explanatory statement accompanying a conference report on a concurrent resolution on the budget.
 
-Subsec. (b). Pub. L. 105–33, § 10106(a), added subsec. (b) and struck out former subsec. (b) which required committees of each House to subdivide among their subcommittees the allocations of budget outlays and new budget authority allocated to them in joint explanatory statement accompanying conference report on concurrent resolution on budget and required further subdivisions of such allocations by subcommittees.
+Subsec. (b). Pub. L. 105–33, § 10106(a), added subsec. (b) and struck out former subsec. (b) which required committees of each House to subdivide among their subcommittees the allocations of budget outlays and new budget authority allocated to them in joint explanatory statement accompanying conference report on concurrent resolution on budget and required further subdivisions of such allocations by subcommittees.
 
-Subsec. (c). Pub. L. 105–33, § 10106(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report, providing—
+Subsec. (c). Pub. L. 105–33, § 10106(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “It shall not be in order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report, providing—
 
 “(1) new budget authority for a fiscal year; or
 
@@ -810,41 +810,41 @@ Subsec. (c). Pub. L. 105–33, § 10106(b), reenacted heading without change a
 
 within the jurisdiction of any committee which has received an appropriate allocation of such authority pursuant to subsection (a) of this section for such fiscal year, unless and until such committee makes the allocation or subdivisions required by subsection (b) of this section, in connection with the most recently agreed to concurrent resolution on the budget for such fiscal year.”
 
-Subsec. (f)(1). Pub. L. 105–33, § 10106(c)(1), substituted “providing new budget authority for any fiscal year” for “providing new budget authority for such fiscal year or new entitlement authority effective during such fiscal year” in introductory provisions and “applicable allocation of new budget authority made under subsection (a) or (b) for the first fiscal year or the total of fiscal years to be exceeded.” for “appropriate allocation made pursuant to subsection (b) of this section for such fiscal year of new discretionary budget authority or new entitlement authority to be exceeded.” in concluding provisions.
+Subsec. (f)(1). Pub. L. 105–33, § 10106(c)(1), substituted “providing new budget authority for any fiscal year” for “providing new budget authority for such fiscal year or new entitlement authority effective during such fiscal year” in introductory provisions and “applicable allocation of new budget authority made under subsection (a) or (b) for the first fiscal year or the total of fiscal years to be exceeded.” for “appropriate allocation made pursuant to subsection (b) of this section for such fiscal year of new discretionary budget authority or new entitlement authority to be exceeded.” in concluding provisions.
 
-Subsec. (f)(2). Pub. L. 105–33, § 10106(c)(2), reenacted heading without change and amended text generally. Prior to amendment, text provided that consideration in the Senate was not in order for certain bills, joint resolutions, amendments, motions, or conference reports that provided for budget outlays, new budget authority, or new spending authority in excess of certain allocations.
+Subsec. (f)(2). Pub. L. 105–33, § 10106(c)(2), reenacted heading without change and amended text generally. Prior to amendment, text provided that consideration in the Senate was not in order for certain bills, joint resolutions, amendments, motions, or conference reports that provided for budget outlays, new budget authority, or new spending authority in excess of certain allocations.
 
-Subsec. (g). Pub. L. 105–33, § 10106(d), amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “For purposes of this section, the levels of new budget authority, spending authority as described in section 651(c)(2) of this title, outlays, and new credit authority for a fiscal year shall be determined on the basis of estimates made by the Committee on the Budget of the House of Representatives or the Senate, as the case may be.”
+Subsec. (g). Pub. L. 105–33, § 10106(d), amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “For purposes of this section, the levels of new budget authority, spending authority as described in section 651(c)(2) of this title, outlays, and new credit authority for a fiscal year shall be determined on the basis of estimates made by the Committee on the Budget of the House of Representatives or the Senate, as the case may be.”
 
-1990—Subsec. (a)(1). Pub. L. 101–508, § 13201(b)(3)(A), substituted “and total entitlement authority” for “total entitlement authority, and total credit authority”, “or such entitlement authority” for “such entitlement authority, or such credit authority”, and “and entitlement authority” for “entitlement authority, and credit authority”.
+1990—Subsec. (a)(1). Pub. L. 101–508, § 13201(b)(3)(A), substituted “and total entitlement authority” for “total entitlement authority, and total credit authority”, “or such entitlement authority” for “such entitlement authority, or such credit authority”, and “and entitlement authority” for “entitlement authority, and credit authority”.
 
-Subsec. (a)(2). Pub. L. 101–508, § 13303(c)(1), inserted “social security outlays for the fiscal year of the resolution and for each of the 4 succeeding fiscal years,” after “appropriate levels of”.
+Subsec. (a)(2). Pub. L. 101–508, § 13303(c)(1), inserted “social security outlays for the fiscal year of the resolution and for each of the 4 succeeding fiscal years,” after “appropriate levels of”.
 
-Pub. L. 101–508, § 13201(b)(3)(B), substituted “total budget outlays and total new budget authority” for “total budget outlays, total new budget authority and new credit authority”.
+Pub. L. 101–508, § 13201(b)(3)(B), substituted “total budget outlays and total new budget authority” for “total budget outlays, total new budget authority and new credit authority”.
 
-Pub. L. 101–508, § 13112(a)(6), struck out “the House of Representatives and” after “among each committee of”.
+Pub. L. 101–508, § 13112(a)(6), struck out “the House of Representatives and” after “among each committee of”.
 
-Subsec. (b)(1)(A). Pub. L. 101–508, § 13201(b)(3)(C), substituted “budget outlays and new budget authority” for “budget outlays, new budget authority, and new credit authority”.
+Subsec. (b)(1)(A). Pub. L. 101–508, § 13201(b)(3)(C), substituted “budget outlays and new budget authority” for “budget outlays, new budget authority, and new credit authority”.
 
-Subsec. (c). Pub. L. 101–508, § 13207(a)(1)(A), substituted “bill, joint resolution, amendment, motion, or conference report” for “bill or resolution, or amendment thereto”.
+Subsec. (c). Pub. L. 101–508, § 13207(a)(1)(A), substituted “bill, joint resolution, amendment, motion, or conference report” for “bill or resolution, or amendment thereto”.
 
-Subsec. (c)(3). Pub. L. 101–508, § 13201(b)(3)(D), struck out par. (3) which read as follows: “new credit authority for a fiscal year;”.
+Subsec. (c)(3). Pub. L. 101–508, § 13201(b)(3)(D), struck out par. (3) which read as follows: “new credit authority for a fiscal year;”.
 
-Subsec. (f)(1). Pub. L. 101–508, § 13207(a)(1)(B), inserted “joint” before “resolution” the second and third places appearing in introductory provisions.
+Subsec. (f)(1). Pub. L. 101–508, § 13207(a)(1)(B), inserted “joint” before “resolution” the second and third places appearing in introductory provisions.
 
-Pub. L. 101–508, § 13201(b)(3)(E), substituted “year or new entitlement authority effective during such fiscal year,” for “year, new entitlement authority effective during such fiscal year, or new credit authority for such fiscal year,” in introductory provisions and “authority or new entitlement authority” for “authority, new entitlement authority, or new credit authority” in closing provisions.
+Pub. L. 101–508, § 13201(b)(3)(E), substituted “year or new entitlement authority effective during such fiscal year,” for “year, new entitlement authority effective during such fiscal year, or new credit authority for such fiscal year,” in introductory provisions and “authority or new entitlement authority” for “authority, new entitlement authority, or new credit authority” in closing provisions.
 
-Subsec. (f)(2). Pub. L. 101–508, § 13303(c)(3), inserted three sentences at end beginning with “In applying this paragraph—”.
+Subsec. (f)(2). Pub. L. 101–508, § 13303(c)(3), inserted three sentences at end beginning with “In applying this paragraph—”.
 
-Pub. L. 101–508, § 13303(c)(2), which directed the insertion of “or provides for social security outlays in excess of the appropriate allocation of social security outlays under subsection (a) of this section for the fiscal year of the resolution or for the total of that year and the 4 succeeding fiscal years” before the period, was executed by making the insertion before the period at end of first sentence, as the probable intent of Congress, in view of the applicability of the amendment. See Effective and Termination Dates of 1990 Amendment note below.
+Pub. L. 101–508, § 13303(c)(2), which directed the insertion of “or provides for social security outlays in excess of the appropriate allocation of social security outlays under subsection (a) of this section for the fiscal year of the resolution or for the total of that year and the 4 succeeding fiscal years” before the period, was executed by making the insertion before the period at end of first sentence, as the probable intent of Congress, in view of the applicability of the amendment. See Effective and Termination Dates of 1990 Amendment note below.
 
-Pub. L. 101–508, § 13207(a)(2), substituted “outlays, new budget authority, or new spending authority (as defined in section 651(c)(2) of this title)” for “outlays or new budget authority”.
+Pub. L. 101–508, § 13207(a)(2), substituted “outlays, new budget authority, or new spending authority (as defined in section 651(c)(2) of this title)” for “outlays or new budget authority”.
 
-Pub. L. 101–508, § 13207(a)(1)(B), substituted “bill, joint resolution, amendment, motion, or conference report” for “bill or resolution (including a conference report thereon), or any amendment to a bill or resolution”.
+Pub. L. 101–508, § 13207(a)(1)(B), substituted “bill, joint resolution, amendment, motion, or conference report” for “bill or resolution (including a conference report thereon), or any amendment to a bill or resolution”.
 
-Pub. L. 101–508, § 13201(b)(2), temporarily inserted “or new credit authority” after “new budget authority”. See Effective and Termination Dates of 1990 Amendment note below.
+Pub. L. 101–508, § 13201(b)(2), temporarily inserted “or new credit authority” after “new budget authority”. See Effective and Termination Dates of 1990 Amendment note below.
 
-Pub. L. 101–508, § 13112(a)(7), inserted “(A)” after “in excess of”, substituted “under subsection (a) of this section, or (B) the appropriate allocation (if any) of such outlays or authority reported under subsection (b) of this section” for “under subsection (b) of this section”, and inserted after first sentence “Subparagraph (A) shall not apply to any bill, resolution, amendment, motion, or conference report that is within the jurisdiction of the Committee on Appropriations.”
+Pub. L. 101–508, § 13112(a)(7), inserted “(A)” after “in excess of”, substituted “under subsection (a) of this section, or (B) the appropriate allocation (if any) of such outlays or authority reported under subsection (b) of this section” for “under subsection (b) of this section”, and inserted after first sentence “Subparagraph (A) shall not apply to any bill, resolution, amendment, motion, or conference report that is within the jurisdiction of the Committee on Appropriations.”
 
 1985—Pub. L. 99–177 substituted “Committee allocations” for “Matters to be included in joint statement of managers; reports by committees” in section catchline.
 
@@ -860,17 +860,17 @@ Subsecs. (d) to (g). Pub. L. 99–177, in amending section generally, added subs
 
 **Effective and Termination Dates of 1990 Amendment**
 
-Pub. L. 101–508, title XIII, § 13201(b)(2), Nov. 5, 1990, 104 Stat. 1388–614, provided that the amendment made by section 13201(b)(2) is effective Jan. 1, 1991, for fiscal year 1991 only.
+Pub. L. 101–508, title XIII, § 13201(b)(2), Nov. 5, 1990, 104 Stat. 1388–614, provided that the amendment made by section 13201(b)(2) is effective Jan. 1, 1991, for fiscal year 1991 only.
 
-Pub. L. 101–508, title XIII, § 13201(b)(3), Nov. 5, 1990, 104 Stat. 1388–614, provided that the amendment made by section 13201(b)(3) is effective for fiscal years beginning after Sept. 30, 1991.
+Pub. L. 101–508, title XIII, § 13201(b)(3), Nov. 5, 1990, 104 Stat. 1388–614, provided that the amendment made by section 13201(b)(3) is effective for fiscal years beginning after Sept. 30, 1991.
 
 Amendment by section 13303(c) of Pub. L. 101–508 applicable with respect to fiscal years beginning on or after Oct. 1, 1990, see section 13306 of Pub. L. 101–508, set out as an Effective Date of 1990 Amendment note under section 632 of this title.
 
 **Effective Date of 1985 Amendment**
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, except that such amendment, insofar as it relates to subsecs. (c), (f), and (g) of this section, to become effective Apr. 15, 1986, see section 275(a)(1), (2)(A) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, except that such amendment, insofar as it relates to subsecs. (c), (f), and (g) of this section, to become effective Apr. 15, 1986, see section 275(a)(1), (2)(A) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
 
-### § 634. Concurrent resolution on the budget must be adopted before budget-related legislation is considered
+### § 634. Concurrent resolution on the budget must be adopted before budget-related legislation is considered
 
 **(a) In general** Until the concurrent resolution on the budget for a fiscal year has been agreed to, it shall not be in order in the House of Representatives, with respect to the first fiscal year covered by that resolution, or the Senate, with respect to any fiscal year covered by that resolution, to consider any bill or joint resolution, amendment or motion thereto, or conference report thereon that—
 
@@ -906,25 +906,25 @@ Until the concurrent resolution on the budget for a fiscal year has been agreed 
 
 Paragraph (1) does not apply to appropriations legislation making advance appropriations for the first or second fiscal year after the year the allocation referred to in that paragraph is made.
 
-(Pub. L. 93–344, title III, § 303, July 12, 1974, 88 Stat. 309; Pub. L. 99–177, title II, § 201(b), Dec. 12, 1985, 99 Stat. 1046; Pub. L. 101–508, title XIII, §§ 13205, 13207(a)(1)(C), Nov. 5, 1990, 104 Stat. 1388–616, 1388–617; Pub. L. 105–33, title X, § 10107(a), Aug. 5, 1997, 111 Stat. 683.)
+(Pub. L. 93–344, title III, § 303, July 12, 1974, 88 Stat. 309; Pub. L. 99–177, title II, § 201(b), Dec. 12, 1985, 99 Stat. 1046; Pub. L. 101–508, title XIII, §§ 13205, 13207(a)(1)(C), Nov. 5, 1990, 104 Stat. 1388–616, 1388–617; Pub. L. 105–33, title X, § 10107(a), Aug. 5, 1997, 111 Stat. 683.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 1324 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1324 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Amendments**
 
 1997—Pub. L. 105–33 amended section catchline and text generally. Prior to amendment, text provided that concurrent resolution on the budget must be adopted before legislation providing new budget authority, new spending authority, new credit authority, or changes in revenues or public debt limit could be considered.
 
-1990—Subsec. (a). Pub. L. 101–508, § 13207(a)(1)(C), substituted “bill, joint resolution, amendment, motion, or conference report” for “bill or resolution (or amendment thereto)”.
+1990—Subsec. (a). Pub. L. 101–508, § 13207(a)(1)(C), substituted “bill, joint resolution, amendment, motion, or conference report” for “bill or resolution (or amendment thereto)”.
 
-Pub. L. 101–508, § 13205(a)(4), inserted “(or, in the Senate, a concurrent resolution on the budget covering such fiscal year)” after “fiscal year” in closing provisions.
+Pub. L. 101–508, § 13205(a)(4), inserted “(or, in the Senate, a concurrent resolution on the budget covering such fiscal year)” after “fiscal year” in closing provisions.
 
-Subsec. (a)(5), (6). Pub. L. 101–508, § 13205(a)(1)–(3), added pars. (5) and (6) and struck out former par. (5) which read as follows: “new credit authority for a fiscal year,”.
+Subsec. (a)(5), (6). Pub. L. 101–508, § 13205(a)(1)–(3), added pars. (5) and (6) and struck out former par. (5) which read as follows: “new credit authority for a fiscal year,”.
 
-Subsec. (b). Pub. L. 101–508, § 13205(b), designated existing provisions as par. (1) and substituted “In the House of Representatives, subsection (a)” for “Subsection (a)”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+Subsec. (b). Pub. L. 101–508, § 13205(b), designated existing provisions as par. (1) and substituted “In the House of Representatives, subsection (a)” for “Subsection (a)”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
 1985—Pub. L. 99–177 inserted reference to new credit authority in section catchline.
 
@@ -938,19 +938,19 @@ Subsec. (c). Pub. L. 99–177 amended subsec. (c) generally, inserting reference
 
 **Effective Date of 1985 Amendment**
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
 
-### § 635. Permissible revisions of concurrent resolutions on the budget
+### § 635. Permissible revisions of concurrent resolutions on the budget
 
 At any time after the concurrent resolution on the budget for a fiscal year has been agreed to pursuant to section 632 of this title, and before the end of such fiscal year, the two Houses may adopt a concurrent resolution on the budget which revises or reaffirms the concurrent resolution on the budget for such fiscal year most recently agreed to.
 
-(Pub. L. 93–344, title III, § 304, July 12, 1974, 88 Stat. 310; Pub. L. 99–177, title II, § 201(b), Dec. 12, 1985, 99 Stat. 1047; Pub. L. 100–119, title II, § 208(b), Sept. 29, 1987, 101 Stat. 786; Pub. L. 101–508, title XIII, § 13112(a)(8), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 105–33, title X, § 10108, Aug. 5, 1997, 111 Stat. 684.)
+(Pub. L. 93–344, title III, § 304, July 12, 1974, 88 Stat. 310; Pub. L. 99–177, title II, § 201(b), Dec. 12, 1985, 99 Stat. 1047; Pub. L. 100–119, title II, § 208(b), Sept. 29, 1987, 101 Stat. 786; Pub. L. 101–508, title XIII, § 13112(a)(8), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 105–33, title X, § 10108, Aug. 5, 1997, 111 Stat. 684.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 1325 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1325 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Amendments**
 
@@ -966,9 +966,9 @@ Section was formerly classified to section 1325 of Title 31 prior to the general
 
 **Effective Date of 1985 Amendment**
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
 
-### § 636. Provisions relating to consideration of concurrent resolutions on the budget
+### § 636. Provisions relating to consideration of concurrent resolutions on the budget
 
 **(a) Procedure in House after report of Committee; debate**
 
@@ -1016,7 +1016,7 @@ Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respe
 
 **(2)** a conference report on a concurrent resolution on the budget unless the figures contained in such resolution, as recommended in such conference report, are mathematically consistent.
 
-(Pub. L. 93–344, title III, § 305, July 12, 1974, 88 Stat. 310; Pub. L. 95–523, title III, § 303(b), (c), Oct. 27, 1978, 92 Stat. 1905, 1906; Pub. L. 99–177, title II, § 201(b), Dec. 12, 1985, 99 Stat. 1047; Pub. L. 100–119, title II, § 209, Sept. 29, 1987, 101 Stat. 787; Pub. L. 100–203, title VIII, § 8003(d), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §§ 13209, 13210(1), Nov. 5, 1990, 104 Stat. 1388–619, 1388–620; Pub. L. 105–33, title X, § 10109(a), Aug. 5, 1997, 111 Stat. 684; Pub. L. 113–67, div. A, title I, § 122(4)–(6), Dec. 26, 2013, 127 Stat. 1175.)
+(Pub. L. 93–344, title III, § 305, July 12, 1974, 88 Stat. 310; Pub. L. 95–523, title III, § 303(b), (c), Oct. 27, 1978, 92 Stat. 1905, 1906; Pub. L. 99–177, title II, § 201(b), Dec. 12, 1985, 99 Stat. 1047; Pub. L. 100–119, title II, § 209, Sept. 29, 1987, 101 Stat. 787; Pub. L. 100–203, title VIII, § 8003(d), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §§ 13209, 13210(1), Nov. 5, 1990, 104 Stat. 1388–619, 1388–620; Pub. L. 105–33, title X, § 10109(a), Aug. 5, 1997, 111 Stat. 684; Pub. L. 113–67, div. A, title I, § 122(4)–(6), Dec. 26, 2013, 127 Stat. 1175.)
 
 **Editorial Notes**
 
@@ -1026,29 +1026,29 @@ This Act, referred to in subsec. (b)(4), means Pub. L. 93–344, July 12, 1974, 
 
 **Codification**
 
-Section was formerly classified to section 1326 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1326 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Amendments**
 
-2013—Subsec. (a)(1). Pub. L. 113–67, § 122(4), substituted “clause 4 of rule XIII” for “clause 2(*l*)(6) of rule XI”.
+2013—Subsec. (a)(1). Pub. L. 113–67, § 122(4), substituted “clause 4 of rule XIII” for “clause 2(*l*)(6) of rule XI”.
 
-Subsec. (a)(5). Pub. L. 113–67, § 122(5), substituted “provisions of rule XVIII” for “provisions of rule XXIII”.
+Subsec. (a)(5). Pub. L. 113–67, § 122(5), substituted “provisions of rule XVIII” for “provisions of rule XXIII”.
 
-Subsec. (b)(1). Pub. L. 113–67, § 122(6), substituted “section 635” for “section 635(a)”.
+Subsec. (b)(1). Pub. L. 113–67, § 122(6), substituted “section 635” for “section 635(a)”.
 
 1997—Subsec. (a)(1). Pub. L. 105–33 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “When the Committee on the Budget of the House of Representatives has reported any concurrent resolution on the budget, it is in order at any time after the fifth day (excluding Saturdays, Sundays, and legal holidays) following the day on which the report upon such resolution by the Committee on the Budget has been available to Members of the House and, if applicable, after the first day (excluding Saturdays, Sundays, and legal holidays) following the day on which a report upon such resolution by the Committee on Rules pursuant to section 632(c) of this title has been available to Members of the House (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the concurrent resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.”
 
-1990—Subsec. (c)(1). Pub. L. 101–508, § 13209(1), struck out at beginning “The conference report on any concurrent resolution on the budget shall be in order in the Senate at any time after the third day (excluding Saturdays, Sundays, and legal holidays) following the day on which such conference report is reported and is available to Members of the Senate.” and inserted “on any concurrent resolution on the budget (or a reconciliation bill or resolution)” after “consideration of the conference report”.
+1990—Subsec. (c)(1). Pub. L. 101–508, § 13209(1), struck out at beginning “The conference report on any concurrent resolution on the budget shall be in order in the Senate at any time after the third day (excluding Saturdays, Sundays, and legal holidays) following the day on which such conference report is reported and is available to Members of the Senate.” and inserted “on any concurrent resolution on the budget (or a reconciliation bill or resolution)” after “consideration of the conference report”.
 
-Subsec. (c)(2). Pub. L. 101–508, § 13209(2), inserted “(or a message between Houses)” after “conference report” wherever appearing.
+Subsec. (c)(2). Pub. L. 101–508, § 13209(2), inserted “(or a message between Houses)” after “conference report” wherever appearing.
 
-Subsecs. (d), (e). Pub. L. 101–508, § 13210(1), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “If at the end of 7 days (excluding Saturdays, Sundays, and legal holidays) after the conferees of both Houses have been appointed to a committee of conference on a concurrent resolution on the budget, the conferees are unable to reach agreement with respect to all matters in disagreement between the two Houses, then the conferees shall submit to their respective Houses, on the first day thereafter on which their House is in session—
+Subsecs. (d), (e). Pub. L. 101–508, § 13210(1), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “If at the end of 7 days (excluding Saturdays, Sundays, and legal holidays) after the conferees of both Houses have been appointed to a committee of conference on a concurrent resolution on the budget, the conferees are unable to reach agreement with respect to all matters in disagreement between the two Houses, then the conferees shall submit to their respective Houses, on the first day thereafter on which their House is in session—
 
 “(1) a conference report recommending those matters on which they have agreed and reporting in disagreement those matters on which they have not agreed; or
 
 “(2) a conference report in disagreement, if the matter in disagreement is an amendment which strikes out the entire text of the concurrent resolution and inserts a substitute text.”
 
-1987—Subsec. (c)(2). Pub. L. 100–203, § 8003(d), inserted a comma after “therewith”.
+1987—Subsec. (c)(2). Pub. L. 100–203, § 8003(d), inserted a comma after “therewith”.
 
 Pub. L. 100–119 inserted “and all amendments in disagreement, and all amendments thereto, and debatable motions and appeals in connection therewith” after “budget,”.
 
@@ -1058,17 +1058,17 @@ Subsec. (b). Pub. L. 99–177, in amending subsec. (b) generally, in par. (1) su
 
 Subsecs. (c) to (e). Pub. L. 99–177, in amending section generally, reenacted subsecs. (c) to (e) without change.
 
-1978—Subsec. (a). Pub. L. 95–523, § 303(b), inserted in par. (2) “, plus such additional hours of debate as are consumed pursuant to paragraph (3)” after “and minority parties”, added pars. (3) and (4) and redesignated existing pars. (3) to (6) as (6) to (9), respectively. Existing pars. (3) to (6) were renumbered (5) to (8), respectively, as the probable intent of Congress, notwithstanding the language of section 303(b)(2) of Pub. L. 95–523 directing that existing pars. (3) to (6) be redesignated (6) to (9), respectively.
+1978—Subsec. (a). Pub. L. 95–523, § 303(b), inserted in par. (2) “, plus such additional hours of debate as are consumed pursuant to paragraph (3)” after “and minority parties”, added pars. (3) and (4) and redesignated existing pars. (3) to (6) as (6) to (9), respectively. Existing pars. (3) to (6) were renumbered (5) to (8), respectively, as the probable intent of Congress, notwithstanding the language of section 303(b)(2) of Pub. L. 95–523 directing that existing pars. (3) to (6) be redesignated (6) to (9), respectively.
 
-Subsec. (b). Pub. L. 95–523, § 303(c), added pars. (3) and (4) and redesignated existing pars. (3) and (4) as (6) and (7), respectively. Existing pars. (3) and (4) were renumbered (5) and (6), respectively, as the probable intent of Congress, notwithstanding the language of section 303(c)(1) of Pub. L. 95–523 directing that existing pars. (3) and (4) be redesignated (6) and (7), respectively.
+Subsec. (b). Pub. L. 95–523, § 303(c), added pars. (3) and (4) and redesignated existing pars. (3) and (4) as (6) and (7), respectively. Existing pars. (3) and (4) were renumbered (5) and (6), respectively, as the probable intent of Congress, notwithstanding the language of section 303(c)(1) of Pub. L. 95–523 directing that existing pars. (3) and (4) be redesignated (6) and (7), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1985 Amendment**
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
 
-### § 637. Legislation dealing with Congressional budget must be handled by Budget Committees
+### § 637. Legislation dealing with Congressional budget must be handled by Budget Committees
 
 **(a) In the Senate**
 
@@ -1078,13 +1078,13 @@ In the Senate, no bill, resolution, amendment, motion, or conference report, dea
 
 In the House of Representatives, no bill or joint resolution, or amendment thereto, or conference report thereon, dealing with any matter which is within the jurisdiction of the Committee on the Budget shall be considered unless it is a bill or joint resolution which has been reported by the Committee on the Budget (or from the consideration of which such committee has been discharged) or unless it is an amendment to such a bill or joint resolution.
 
-(Pub. L. 93–344, title III, § 306, July 12, 1974, 88 Stat. 313; Pub. L. 99–177, title II, § 201(b), Dec. 12, 1985, 99 Stat. 1050; Pub. L. 101–508, title XIII, § 13207(a)(1)(D), Nov. 5, 1990, 104 Stat. 1388–617; Pub. L. 113–67, div. A, title I, § 122(7), Dec. 26, 2013, 127 Stat. 1175.)
+(Pub. L. 93–344, title III, § 306, July 12, 1974, 88 Stat. 313; Pub. L. 99–177, title II, § 201(b), Dec. 12, 1985, 99 Stat. 1050; Pub. L. 101–508, title XIII, § 13207(a)(1)(D), Nov. 5, 1990, 104 Stat. 1388–617; Pub. L. 113–67, div. A, title I, § 122(7), Dec. 26, 2013, 127 Stat. 1175.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 1327 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1327 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Amendments**
 
@@ -1098,19 +1098,19 @@ Section was formerly classified to section 1327 of Title 31 prior to the general
 
 **Effective Date of 1985 Amendment**
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
 
-### § 638. House committee action on all appropriation bills to be completed by June 10
+### § 638. House committee action on all appropriation bills to be completed by June 10
 
 On or before June 10 of each year, the Committee on Appropriations of the House of Representatives shall report annual appropriation bills providing new budget authority under the jurisdiction of all of its subcommittees for the fiscal year which begins on October 1 of that year.
 
-(Pub. L. 93–344, title III, § 307, July 12, 1974, 88 Stat. 313; Pub. L. 99–177, title II, § 201(b), Dec. 12, 1985, 99 Stat. 1051.)
+(Pub. L. 93–344, title III, § 307, July 12, 1974, 88 Stat. 313; Pub. L. 99–177, title II, § 201(b), Dec. 12, 1985, 99 Stat. 1051.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 1328 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1328 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Amendments**
 
@@ -1120,9 +1120,9 @@ Section was formerly classified to section 1328 of Title 31 prior to the general
 
 **Effective Date of 1985 Amendment**
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
 
-### § 639. Reports, summaries, and projections of Congressional budget actions
+### § 639. Reports, summaries, and projections of Congressional budget actions
 
 **(a) Legislation providing new budget authority or providing increase or decrease in revenues or tax expenditures**
 
@@ -1172,51 +1172,51 @@ The chairman of the Committee on the Budget of the House of Representatives shal
 
 Estimates under this section shall be provided in accordance with the scorekeeping guidelines determined under section 902(d)(5) of this title.
 
-(Pub. L. 93–344, title III, § 308, July 12, 1974, 88 Stat. 313; Pub. L. 99–177, title II, § 201(b), Dec. 12, 1985, 99 Stat. 1051; Pub. L. 101–508, title XIII, § 13206, Nov. 5, 1990, 104 Stat. 1388–617; Pub. L. 105–33, title X, § 10110, Aug. 5, 1997, 111 Stat. 685; Pub. L. 111–139, title I, § 4(b), Feb. 12, 2010, 124 Stat. 11; Pub. L. 113–67, div. A, title I, § 122(8), Dec. 26, 2013, 127 Stat. 1175.)
+(Pub. L. 93–344, title III, § 308, July 12, 1974, 88 Stat. 313; Pub. L. 99–177, title II, § 201(b), Dec. 12, 1985, 99 Stat. 1051; Pub. L. 101–508, title XIII, § 13206, Nov. 5, 1990, 104 Stat. 1388–617; Pub. L. 105–33, title X, § 10110, Aug. 5, 1997, 111 Stat. 685; Pub. L. 111–139, title I, § 4(b), Feb. 12, 2010, 124 Stat. 11; Pub. L. 113–67, div. A, title I, § 122(8), Dec. 26, 2013, 127 Stat. 1175.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 1329 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1329 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Amendments**
 
 2013—Subsec. (d). Pub. L. 113–67 made technical amendment to heading in original Act.
 
-2010—Subsec. (a). Pub. L. 111–139, § 4(b)(1)(B), struck out “Reports on” before “Legislation” in heading.
+2010—Subsec. (a). Pub. L. 111–139, § 4(b)(1)(B), struck out “Reports on” before “Legislation” in heading.
 
-Subsec. (a)(3). Pub. L. 111–139, § 4(b)(1)(A), added par. (3).
+Subsec. (a)(3). Pub. L. 111–139, § 4(b)(1)(A), added par. (3).
 
-Subsec. (d). Pub. L. 111–139, § 4(b)(2), added subsec. (d).
+Subsec. (d). Pub. L. 111–139, § 4(b)(2), added subsec. (d).
 
-1997—Subsec. (a). Pub. L. 105–33, § 10110(1)(A), struck out “, new spending authority, or new credit authority,” after “new budget authority” in heading.
+1997—Subsec. (a). Pub. L. 105–33, § 10110(1)(A), struck out “, new spending authority, or new credit authority,” after “new budget authority” in heading.
 
-Subsec. (a)(1). Pub. L. 105–33, § 10110(4), in introductory provisions, substituted “bill or joint resolution” for “bill or resolution” in two places.
+Subsec. (a)(1). Pub. L. 105–33, § 10110(4), in introductory provisions, substituted “bill or joint resolution” for “bill or resolution” in two places.
 
-Pub. L. 105–33, § 10110(1)(D), in introductory provisions, struck out “, new spending authority described in section 651(c)(2) of this title, or new credit authority,” after “continuing appropriations)”.
+Pub. L. 105–33, § 10110(1)(D), in introductory provisions, struck out “, new spending authority described in section 651(c)(2) of this title, or new credit authority,” after “continuing appropriations)”.
 
-Subsec. (a)(1)(B). Pub. L. 105–33, § 10110(1)(C), substituted “revenues, or tax expenditures” for “spending authority, revenues, tax expenditures, direct loan obligations, or primary loan guarantee commitments”.
+Subsec. (a)(1)(B). Pub. L. 105–33, § 10110(1)(C), substituted “revenues, or tax expenditures” for “spending authority, revenues, tax expenditures, direct loan obligations, or primary loan guarantee commitments”.
 
-Pub. L. 105–33, § 10110(1)(B), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “including an identification of any new spending authority described in section 651(c)(2) of this title which is contained in such measure and a justification for the use of such financing method instead of annual appropriations;”.
+Pub. L. 105–33, § 10110(1)(B), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “including an identification of any new spending authority described in section 651(c)(2) of this title which is contained in such measure and a justification for the use of such financing method instead of annual appropriations;”.
 
-Subsec. (a)(1)(C), (D). Pub. L. 105–33, § 10110(1)(B), redesignated subpars. (C) and (D) as (B) and (C), respectively.
+Subsec. (a)(1)(C), (D). Pub. L. 105–33, § 10110(1)(B), redesignated subpars. (C) and (D) as (B) and (C), respectively.
 
-Subsec. (a)(2). Pub. L. 105–33, § 10110(4), substituted “bill or joint resolution” for “bill or resolution”.
+Subsec. (a)(2). Pub. L. 105–33, § 10110(4), substituted “bill or joint resolution” for “bill or resolution”.
 
-Pub. L. 105–33, § 10110(1)(D), struck out “, new spending authority described in section 651(c)(2) of this title, or new credit authority,” after “continuing appropriations)”.
+Pub. L. 105–33, § 10110(1)(D), struck out “, new spending authority described in section 651(c)(2) of this title, or new credit authority,” after “continuing appropriations)”.
 
-Subsec. (b)(1). Pub. L. 105–33, § 10110(4), substituted “bills and joint resolutions” for “bills and resolutions” in two places.
+Subsec. (b)(1). Pub. L. 105–33, § 10110(4), substituted “bills and joint resolutions” for “bills and resolutions” in two places.
 
-Pub. L. 105–33, § 10110(2), struck out “, new spending authority described in section 651(c)(2) of this title, or new credit authority,” after “new budget authority”.
+Pub. L. 105–33, § 10110(2), struck out “, new spending authority described in section 651(c)(2) of this title, or new credit authority,” after “new budget authority”.
 
-Subsec. (c)(3) to (5). Pub. L. 105–33, § 10110(3), inserted “and” at end of par. (3), substituted a period for “; and” at end of par. (4), and struck out par. (5) which read as follows: “credit authority for each fiscal year in such period.”
+Subsec. (c)(3) to (5). Pub. L. 105–33, § 10110(3), inserted “and” at end of par. (3), substituted a period for “; and” at end of par. (4), and struck out par. (5) which read as follows: “credit authority for each fiscal year in such period.”
 
-1990—Subsec. (a)(1). Pub. L. 101–508, § 13206(a)(1), inserted “(or fiscal years)” after “fiscal year” in introductory provisions and in subpars. (A) and (C).
+1990—Subsec. (a)(1). Pub. L. 101–508, § 13206(a)(1), inserted “(or fiscal years)” after “fiscal year” in introductory provisions and in subpars. (A) and (C).
 
-Subsec. (a)(2). Pub. L. 101–508, § 13206(b), inserted “(or fiscal years)” after “fiscal year”.
+Subsec. (a)(2). Pub. L. 101–508, § 13206(b), inserted “(or fiscal years)” after “fiscal year”.
 
-Subsec. (b)(1). Pub. L. 101–508, § 13206(c), substituted “for each fiscal year covered by a concurrent resolution on the budget” for “for a fiscal year” in first sentence, and “the first fiscal year covered by the appropriate concurrent resolution” for “such fiscal year” in second sentence.
+Subsec. (b)(1). Pub. L. 101–508, § 13206(c), substituted “for each fiscal year covered by a concurrent resolution on the budget” for “for a fiscal year” in first sentence, and “the first fiscal year covered by the appropriate concurrent resolution” for “such fiscal year” in second sentence.
 
 1985—Subsec. (a). Pub. L. 99–177, in amending subsec. (a) generally, designated existing provisions as par. (1), substituted provisions relating to reports on legislation providing new budget authority, new spending authority, or new credit authority, or providing an increase or decrease in revenues or tax expenditures, for provisions relating to reports on legislation providing new budget authority or tax expenditures, and added par. (2).
 
@@ -1228,19 +1228,19 @@ Subsec. (c). Pub. L. 99–177 amended subsec. (c) generally, adding pars. (4) an
 
 **Effective Date of 1985 Amendment**
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
 
-### § 640. House approval of regular appropriation bills
+### § 640. House approval of regular appropriation bills
 
 It shall not be in order in the House of Representatives to consider any resolution providing for an adjournment period of more than three calendar days during the month of July until the House of Representatives has approved annual appropriation bills providing new budget authority under the jurisdiction of all the subcommittees of the Committee on Appropriations for the fiscal year beginning on October 1 of such year. For purposes of this section, the chairman of the Committee on Appropriations of the House of Representatives shall periodically advise the Speaker as to changes in jurisdiction among its various subcommittees.
 
-(Pub. L. 93–344, title III, § 309, July 12, 1974, 88 Stat. 314; Pub. L. 99–177, title II, § 201(b), Dec. 12, 1985, 99 Stat. 1052.)
+(Pub. L. 93–344, title III, § 309, July 12, 1974, 88 Stat. 314; Pub. L. 99–177, title II, § 201(b), Dec. 12, 1985, 99 Stat. 1052.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 1330 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1330 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Amendments**
 
@@ -1256,9 +1256,9 @@ Paragraph (1) shall not apply to any bill or resolution if legislation authorizi
 
 **Effective Date of 1985 Amendment**
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
 
-### § 641. Reconciliation
+### § 641. Reconciliation
 
 **(a) Inclusion of reconciliation directives in concurrent resolutions on the budget** A concurrent resolution on the budget for any fiscal year, to the extent necessary to effectuate the provisions and requirements of such resolution, shall—
 
@@ -1344,17 +1344,17 @@ It shall not be in order in the House of Representatives to consider any resolut
 
 Notwithstanding any other provision of law, it shall not be in order in the Senate or the House of Representatives to consider any reconciliation bill or reconciliation resolution reported pursuant to a concurrent resolution on the budget agreed to under section 632 or 635 of this title, or a joint resolution pursuant to section 907d of this title, or any amendment thereto or conference report thereon, that contains recommendations with respect to the old-age, survivors, and disability insurance program established under title II of the Social Security Act [42 U.S.C. 401 et seq.].
 
-(Pub. L. 93–344, title III, § 310, July 12, 1974, 88 Stat. 315; Pub. L. 99–177, title II, § 201(b), Dec. 12, 1985, 99 Stat. 1053; Pub. L. 101–508, title XIII, §§ 13112(a)(9), 13207(c), (d), 13210(2), Nov. 5, 1990, 104 Stat. 1388–608, 1388–618 to 1388–620; Pub. L. 105–33, title X, § 10111, Aug. 5, 1997, 111 Stat. 685; Pub. L. 113–67, div. A, title I, § 122(9), Dec. 26, 2013, 127 Stat. 1175.)
+(Pub. L. 93–344, title III, § 310, July 12, 1974, 88 Stat. 315; Pub. L. 99–177, title II, § 201(b), Dec. 12, 1985, 99 Stat. 1053; Pub. L. 101–508, title XIII, §§ 13112(a)(9), 13207(c), (d), 13210(2), Nov. 5, 1990, 104 Stat. 1388–608, 1388–618 to 1388–620; Pub. L. 105–33, title X, § 10111, Aug. 5, 1997, 111 Stat. 685; Pub. L. 113–67, div. A, title I, § 122(9), Dec. 26, 2013, 127 Stat. 1175.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (g), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (g), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Codification**
 
-Section was formerly classified to section 1331 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1331 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Amendments**
 
@@ -1362,17 +1362,17 @@ Section was formerly classified to section 1331 of Title 31 prior to the general
 
 Subsec. (c)(1)(A)(ii). Pub. L. 113–67 substituted “under that paragraph by more than—” for “under that paragraph by more than”.
 
-1997—Subsec. (c)(1)(A)(i). Pub. L. 105–33, § 10111(1), substituted subcls. (I) and (II) for “20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection, and”.
+1997—Subsec. (c)(1)(A)(i). Pub. L. 105–33, § 10111(1), substituted subcls. (I) and (II) for “20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection, and”.
 
-Subsec. (c)(1)(A)(ii). Pub. L. 105–33, § 10111(2), substituted subcls. (I) and (II) for “20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection; and”.
+Subsec. (c)(1)(A)(ii). Pub. L. 105–33, § 10111(2), substituted subcls. (I) and (II) for “20 percent of the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection; and”.
 
-1990—Subsec. (a)(4). Pub. L. 101–508, § 13207(d), inserted before period at end “(including a direction to achieve deficit reduction)”.
+1990—Subsec. (a)(4). Pub. L. 101–508, § 13207(d), inserted before period at end “(including a direction to achieve deficit reduction)”.
 
-Subsec. (c). Pub. L. 101–508, § 13207(c), designated existing provisions as par. (1), redesignated former par. (1) and subpars. (A) and (B) thereof as subpar. (A) and cls. (i) and (ii), respectively, redesignated former par. (2) as subpar. (B) of par. (1), and added par. (2).
+Subsec. (c). Pub. L. 101–508, § 13207(c), designated existing provisions as par. (1), redesignated former par. (1) and subpars. (A) and (B) thereof as subpar. (A) and cls. (i) and (ii), respectively, redesignated former par. (2) as subpar. (B) of par. (1), and added par. (2).
 
-Subsec. (f). Pub. L. 101–508, § 13210(2), struck out par. (1) heading “In general” and text which directed Congress to complete action on any reconciliation bill or reconciliation resolution reported under subsec. (b) of this section not later than June 15 of each year, and struck out the par. (2) designation and heading “Point of order in the House of Representatives”.
+Subsec. (f). Pub. L. 101–508, § 13210(2), struck out par. (1) heading “In general” and text which directed Congress to complete action on any reconciliation bill or reconciliation resolution reported under subsec. (b) of this section not later than June 15 of each year, and struck out the par. (2) designation and heading “Point of order in the House of Representatives”.
 
-Subsec. (g). Pub. L. 101–508, § 13112(a)(9), substituted “joint resolution pursuant” for “resolution pursuant” and “section 907d of this title” for “section 904(b) of this title”.
+Subsec. (g). Pub. L. 101–508, § 13112(a)(9), substituted “joint resolution pursuant” for “resolution pursuant” and “section 907d of this title” for “section 904(b) of this title”.
 
 1985—Pub. L. 99–177 substituted “Reconciliation” for “Second required concurrent resolution and reconciliation process” in section catchline.
 
@@ -1394,9 +1394,9 @@ Subsec. (g). Pub. L. 99–177, in amending section generally, added subsec. (g).
 
 **Effective Date of 1985 Amendment**
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, except that such amendment, insofar as it relates to subsecs. (c), (d), and (g) of this section, to become effective Apr. 15, 1986, see section 275(a)(1), (2)(A) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, except that such amendment, insofar as it relates to subsecs. (c), (d), and (g) of this section, to become effective Apr. 15, 1986, see section 275(a)(1), (2)(A) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
 
-### § 642. Budget-related legislation must be within appropriate levels
+### § 642. Budget-related legislation must be within appropriate levels
 
 **(a) Enforcement of budget aggregates**
 
@@ -1440,7 +1440,7 @@ For purposes of subsection (a)(3), no provision of any legislation involving a c
 
 would not cause the appropriate allocation of new budget authority made pursuant to section 633(a) of this title for that fiscal year to be exceeded.
 
-(Pub. L. 93–344, title III, § 311, July 12, 1974, 88 Stat. 316; Pub. L. 99–177, title II, § 201(b), Dec. 12, 1985, 99 Stat. 1055; Pub. L. 100–119, title I, § 106(e)(1), Sept. 29, 1987, 101 Stat. 781; Pub. L. 101–508, title XIII, §§ 13112(a)(10), 13207(a)(1)(E), 13303(d), Nov. 5, 1990, 104 Stat. 1388–608, 1388–617, 1388–626; Pub. L. 105–33, title X, § 10112(a), Aug. 5, 1997, 111 Stat. 686.)
+(Pub. L. 93–344, title III, § 311, July 12, 1974, 88 Stat. 316; Pub. L. 99–177, title II, § 201(b), Dec. 12, 1985, 99 Stat. 1055; Pub. L. 100–119, title I, § 106(e)(1), Sept. 29, 1987, 101 Stat. 781; Pub. L. 101–508, title XIII, §§ 13112(a)(10), 13207(a)(1)(E), 13303(d), Nov. 5, 1990, 104 Stat. 1388–608, 1388–617, 1388–626; Pub. L. 105–33, title X, § 10112(a), Aug. 5, 1997, 111 Stat. 686.)
 
 **Editorial Notes**
 
@@ -1450,17 +1450,17 @@ The Internal Revenue Code of 1986, referred to in subsec. (b)(2), is classified 
 
 **Codification**
 
-Section was formerly classified to section 1332 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1332 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Amendments**
 
 1997—Pub. L. 105–33 amended section catchline and text generally. Prior to amendment, section provided that new budget authority, new spending authority, and revenue legislation had to be within appropriate levels.
 
-1990—Subsec. (a). Pub. L. 101–508, § 13303(d), designated existing provisions as par. (1), redesignated former pars. (1) to (3) thereof as subpars. (A) to (C), respectively, and added par. (2).
+1990—Subsec. (a). Pub. L. 101–508, § 13303(d), designated existing provisions as par. (1), redesignated former pars. (1) to (3) thereof as subpars. (A) to (C), respectively, and added par. (2).
 
-Pub. L. 101–508, § 13207(a)(1)(E), substituted “bill, joint resolution, amendment, motion, or conference report” for “bill, resolution, or amendment” and struck out “or any conference report on any such bill or resolution” after “reducing revenues for such fiscal year,”.
+Pub. L. 101–508, § 13207(a)(1)(E), substituted “bill, joint resolution, amendment, motion, or conference report” for “bill, resolution, or amendment” and struck out “or any conference report on any such bill or resolution” after “reducing revenues for such fiscal year,”.
 
-Pub. L. 101–508, § 13112(a)(10), in closing provisions, substituted “except in the case that a declaration of war by the Congress is in effect” for “or, in the Senate, would otherwise result in a deficit for such fiscal year that—
+Pub. L. 101–508, § 13112(a)(10), in closing provisions, substituted “except in the case that a declaration of war by the Congress is in effect” for “or, in the Senate, would otherwise result in a deficit for such fiscal year that—
 
 “(A) for fiscal year 1989 or any subsequent fiscal year, exceeds the maximum deficit amount specified for such fiscal year in section 622(7) of this title; and
 
@@ -1490,9 +1490,9 @@ Amendment by section 13303(d) of Pub. L. 101–508 applicable with respect to fi
 
 **Effective Date of 1985 Amendment**
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
 
-### § 643. Determinations and points of order
+### § 643. Determinations and points of order
 
 **(a) Budget Committee determinations**
 
@@ -1528,13 +1528,13 @@ Each provision of this Act that establishes a point of order against an amendmen
 
 In the Senate, if a point of order under this Act against a bill or resolution is sustained, the Presiding Officer shall then recommit the bill or resolution to the committee of appropriate jurisdiction for further consideration.
 
-(Pub. L. 93–344, title III, § 312, as added Pub. L. 101–508, title XIII, § 13207(b)(1), Nov. 5, 1990, 104 Stat. 1388–618; amended Pub. L. 105–33, title X, § 10113(a), Aug. 5, 1997, 111 Stat. 687.)
+(Pub. L. 93–344, title III, § 312, as added Pub. L. 101–508, title XIII, § 13207(b)(1), Nov. 5, 1990, 104 Stat. 1388–618; amended Pub. L. 105–33, title X, § 10113(a), Aug. 5, 1997, 111 Stat. 687.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (c), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of this title, amended sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106 and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of this title, enacted provisions set out as notes under section 900 of this title and section 911 of Title 42, and amended provisions set out as a note under section 621 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (c), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of this title, amended sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106 and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of this title, enacted provisions set out as notes under section 900 of this title and section 911 of Title 42, and amended provisions set out as a note under section 621 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
 
 This Act, referred to in subsecs. (d) to (f), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A, and 17B and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153, and 1154 of former Title 31, section 105 of Title 1, General Provisions, and sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31 and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
@@ -1542,7 +1542,7 @@ This Act, referred to in subsecs. (d) to (f), means Pub. L. 93–344, July 12, 1
 
 1997—Pub. L. 105–33 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) and (b) and provided that each provision of this Act that established point of order against an amendment also established point of order in Senate against an amendment between Houses and prescribed effect of sustaining point of order against an amendment or bill under this Act.
 
-### § 644. Extraneous matter in reconciliation legislation
+### § 644. Extraneous matter in reconciliation legislation
 
 **(a) In general**
 
@@ -1574,7 +1574,7 @@ such material contained in such conference report or amendment shall be deemed s
 
 Notwithstanding any other law or rule of the Senate, it shall be in order for a Senator to raise a single point of order that several provisions of a bill, resolution, amendment, motion, or conference report violate this section. The Presiding Officer may sustain the point of order as to some or all of the provisions against which the Senator raised the point of order. If the Presiding Officer so sustains the point of order as to some of the provisions (including provisions of an amendment, motion, or conference report) against which the Senator raised the point of order, then only those provisions (including provisions of an amendment, motion, or conference report) against which the Presiding Officer sustains the point of order shall be deemed stricken pursuant to this section. Before the Presiding Officer rules on such a point of order, any Senator may move to waive such a point of order as it applies to some or all of the provisions against which the point of order was raised. Such a motion to waive is amendable in accordance with the rules and precedents of the Senate. After the Presiding Officer rules on such a point of order, any Senator may appeal the ruling of the Presiding Officer on such a point of order as it applies to some or all of the provisions on which the Presiding Officer ruled.
 
-(Pub. L. 93–344, title III, § 313, formerly Pub. L. 99–272, title XX, § 20001, Apr. 7, 1986, 100 Stat. 390, as amended Pub. L. 99–509, title VII, § 7006, Oct. 21, 1986, 100 Stat. 1949; Pub. L. 100–119, title II, § 205(a), (b), Sept. 29, 1987, 101 Stat. 784; renumbered § 313 of Pub. L. 93–344 and amended Pub. L. 101–508, title XIII, § 13214(a)–(b)(4), Nov. 5, 1990, 104 Stat. 1388–621, 1388–622; Pub. L. 105–33, title X, § 10113(b)(1), Aug. 5, 1997, 111 Stat. 688.)
+(Pub. L. 93–344, title III, § 313, formerly Pub. L. 99–272, title XX, § 20001, Apr. 7, 1986, 100 Stat. 390, as amended Pub. L. 99–509, title VII, § 7006, Oct. 21, 1986, 100 Stat. 1949; Pub. L. 100–119, title II, § 205(a), (b), Sept. 29, 1987, 101 Stat. 784; renumbered § 313 of Pub. L. 93–344 and amended Pub. L. 101–508, title XIII, § 13214(a)–(b)(4), Nov. 5, 1990, 104 Stat. 1388–621, 1388–622; Pub. L. 105–33, title X, § 10113(b)(1), Aug. 5, 1997, 111 Stat. 688.)
 
 **Editorial Notes**
 
@@ -1584,75 +1584,75 @@ Prior to redesignation by Pub. L. 101–508, this section was section 20001 of P
 
 **Amendments**
 
-1997—Subsec. (c). Pub. L. 105–33, § 10113(b)(1)(A), redesignated subsec. (c), relating to point of order, as (d).
+1997—Subsec. (c). Pub. L. 105–33, § 10113(b)(1)(A), redesignated subsec. (c), relating to point of order, as (d).
 
-Subsec. (d). Pub. L. 105–33, § 10113(b)(1)(A), redesignated subsec. (c), relating to point of order, as (d) and inserted heading. Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 105–33, § 10113(b)(1)(A), redesignated subsec. (c), relating to point of order, as (d) and inserted heading. Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 105–33, § 10113(b)(1)(B), redesignated subsec. (d) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “For purposes of this section, the levels of new budget authority, budget outlays, new entitlement authority, and revenues for a fiscal year shall be determined on the basis of estimates made by the Committee on the Budget of the Senate.”
+Subsec. (e). Pub. L. 105–33, § 10113(b)(1)(B), redesignated subsec. (d) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “For purposes of this section, the levels of new budget authority, budget outlays, new entitlement authority, and revenues for a fiscal year shall be determined on the basis of estimates made by the Committee on the Budget of the Senate.”
 
-1990—Pub. L. 101–508, § 13214(b)(2)(A), inserted “Extraneous matter in reconciliation legislation” as section catchline.
+1990—Pub. L. 101–508, § 13214(b)(2)(A), inserted “Extraneous matter in reconciliation legislation” as section catchline.
 
-Pub. L. 101–508, § 13214(b)(1), redesignated section 20001 of Pub. L. 99–272 as this section.
+Pub. L. 101–508, § 13214(b)(1), redesignated section 20001 of Pub. L. 99–272 as this section.
 
-Subsec. (a). Pub. L. 101–508, § 13214(a)(1)(A), inserted heading “In general”.
+Subsec. (a). Pub. L. 101–508, § 13214(a)(1)(A), inserted heading “In general”.
 
-Pub. L. 101–508, § 13214(b)(4)(B), substituted “subsection (b)” for “subsection (d)”.
+Pub. L. 101–508, § 13214(b)(4)(B), substituted “subsection (b)” for “subsection (d)”.
 
-Pub. L. 101–508, § 13214(b)(4)(A), made technical amendment to reference to section 641 of this title to reflect change in reference to corresponding section of original act.
+Pub. L. 101–508, § 13214(b)(4)(A), made technical amendment to reference to section 641 of this title to reflect change in reference to corresponding section of original act.
 
-Pub. L. 101–508, § 13214(b)(2)(B), struck out at end “An affirmative vote of three-fifths of the Members, duly chosen and sworn, shall be required to sustain an appeal of the ruling of the Chair on a point of order raised under this section, as well as to waive or suspend the provisions of this subsection.”
+Pub. L. 101–508, § 13214(b)(2)(B), struck out at end “An affirmative vote of three-fifths of the Members, duly chosen and sworn, shall be required to sustain an appeal of the ruling of the Chair on a point of order raised under this section, as well as to waive or suspend the provisions of this subsection.”
 
-Pub. L. 101–508, § 13214(a)(1)(B), inserted “(whether that bill or resolution originated in the Senate or the House) or section 907d of this title” after “section 641 of this title”.
+Pub. L. 101–508, § 13214(a)(1)(B), inserted “(whether that bill or resolution originated in the Senate or the House) or section 907d of this title” after “section 641 of this title”.
 
-Subsec. (b). Pub. L. 101–508, § 13214(b)(2)(B), (C), redesignated subsec. (d) as (b) and struck out former subsec. (b) which provided that no motion to waive or suspend the requirement of section 636(b)(2) of this title, as it related to germaneness with respect to a reconciliation bill or resolution, could be agreed to unless supported by an affirmative vote of three-fifths of the Members, duly chosen and sworn, which super-majority was to be required to successfully appeal the ruling of the Chair on a point of order raised under that section, as well as to waive or suspend the provisions of this subsection.
+Subsec. (b). Pub. L. 101–508, § 13214(b)(2)(B), (C), redesignated subsec. (d) as (b) and struck out former subsec. (b) which provided that no motion to waive or suspend the requirement of section 636(b)(2) of this title, as it related to germaneness with respect to a reconciliation bill or resolution, could be agreed to unless supported by an affirmative vote of three-fifths of the Members, duly chosen and sworn, which super-majority was to be required to successfully appeal the ruling of the Chair on a point of order raised under that section, as well as to waive or suspend the provisions of this subsection.
 
-Pub. L. 101–508, § 13214(a)(2), inserted heading “Extraneous provisions”.
+Pub. L. 101–508, § 13214(a)(2), inserted heading “Extraneous provisions”.
 
-Subsec. (b)(1)(A). Pub. L. 101–508, § 13214(b)(4)(A), made technical amendment to reference to section 641 of this title to reflect change in reference to corresponding section of original act.
+Subsec. (b)(1)(A). Pub. L. 101–508, § 13214(b)(4)(A), made technical amendment to reference to section 641 of this title to reflect change in reference to corresponding section of original act.
 
-Pub. L. 101–508, § 13214(a)(3), inserted before semicolon “(but a provision in which outlay decreases or revenue increases exactly offset outlay increases or revenue decreases shall not be considered extraneous by virtue of this subparagraph)”.
+Pub. L. 101–508, § 13214(a)(3), inserted before semicolon “(but a provision in which outlay decreases or revenue increases exactly offset outlay increases or revenue decreases shall not be considered extraneous by virtue of this subparagraph)”.
 
-Subsec. (b)(1)(F). Pub. L. 101–508, § 13214(a)(4)–(6), added subpar. (F).
+Subsec. (b)(1)(F). Pub. L. 101–508, § 13214(a)(4)–(6), added subpar. (F).
 
-Subsec. (b)(2). Pub. L. 101–508, § 13214(a)(7), substituted “A Senate-originated provision” for “A provision”.
+Subsec. (b)(2). Pub. L. 101–508, § 13214(a)(7), substituted “A Senate-originated provision” for “A provision”.
 
-Subsec. (b)(2)(C). Pub. L. 101–508, § 13214(b)(4)(C), inserted “or” after “scorekeeping purposes;”.
+Subsec. (b)(2)(C). Pub. L. 101–508, § 13214(b)(4)(C), inserted “or” after “scorekeeping purposes;”.
 
-Subsec. (c). Pub. L. 101–508, § 13214(b)(4)(F), which directed the substitution of “this subsection” for “this resolution” in par. (2), was executed to last sentence of subsec. (c) as the probable intent of Congress.
+Subsec. (c). Pub. L. 101–508, § 13214(b)(4)(F), which directed the substitution of “this subsection” for “this resolution” in par. (2), was executed to last sentence of subsec. (c) as the probable intent of Congress.
 
-Pub. L. 101–508, § 13214(b)(4)(E), substituted “(b)(1)(A), (b)(1)(B), (b)(1)(D), (b)(1)(E), or (b)(1)(F)” for “(d)(1)(A) or (d)(1)(D) of section 20001 of the Consolidated Omnibus Budget Reconciliation Act of 1985”.
+Pub. L. 101–508, § 13214(b)(4)(E), substituted “(b)(1)(A), (b)(1)(B), (b)(1)(D), (b)(1)(E), or (b)(1)(F)” for “(d)(1)(A) or (d)(1)(D) of section 20001 of the Consolidated Omnibus Budget Reconciliation Act of 1985”.
 
-Pub. L. 101–508, § 13214(b)(4)(D), substituted “When” for “when”.
+Pub. L. 101–508, § 13214(b)(4)(D), substituted “When” for “when”.
 
-Pub. L. 101–508, § 13214(b)(4)(A), made technical amendment to reference to section 641 of this title to reflect change in reference to corresponding section of original act.
+Pub. L. 101–508, § 13214(b)(4)(A), made technical amendment to reference to section 641 of this title to reflect change in reference to corresponding section of original act.
 
-Pub. L. 101–508, § 13214(b)(3), redesignated as subsec. (c), relating to point of order, subsec. (a) of the first section of Senate Resolution No. 286, Ninety-ninth Congress, Dec. 19, 1985, as amended by Senate Resolution No. 509, Ninety-ninth Congress, Oct. 16, 1986.
+Pub. L. 101–508, § 13214(b)(3), redesignated as subsec. (c), relating to point of order, subsec. (a) of the first section of Senate Resolution No. 286, Ninety-ninth Congress, Dec. 19, 1985, as amended by Senate Resolution No. 509, Ninety-ninth Congress, Oct. 16, 1986.
 
-Pub. L. 101–508, § 13214(b)(2)(C), redesignated subsec. (e), relating to extraneous materials, as (c).
+Pub. L. 101–508, § 13214(b)(2)(C), redesignated subsec. (e), relating to extraneous materials, as (c).
 
-Pub. L. 101–508, § 13214(b)(2)(B), struck out subsec. (c) which provided for effective and termination dates of this section.
+Pub. L. 101–508, § 13214(b)(2)(B), struck out subsec. (c) which provided for effective and termination dates of this section.
 
-Subsec. (d). Pub. L. 101–508, § 13214(b)(2)(C), redesignated subsec. (f) as (d). Former subsec. (d) redesignated (b).
+Subsec. (d). Pub. L. 101–508, § 13214(b)(2)(C), redesignated subsec. (f) as (d). Former subsec. (d) redesignated (b).
 
-Subsecs. (e) to (g). Pub. L. 101–508, § 13214(a)(8), (b)(2)(C), added subsecs. (e) to (g) and redesignated them as subsecs. (c) to (e), respectively.
+Subsecs. (e) to (g). Pub. L. 101–508, § 13214(a)(8), (b)(2)(C), added subsecs. (e) to (g) and redesignated them as subsecs. (c) to (e), respectively.
 
-1987—Subsec. (c). Pub. L. 100–119, § 205(a), substituted “September 30, 1992” for “January 2, 1988”.
+1987—Subsec. (c). Pub. L. 100–119, § 205(a), substituted “September 30, 1992” for “January 2, 1988”.
 
-Subsec. (d)(1)(E). Pub. L. 100–119, § 205(b), which directed that cl. (E) be added to subsec. (d)(1)(A), was executed to subsec. (d)(1), as the probable intent of Congress.
+Subsec. (d)(1)(E). Pub. L. 100–119, § 205(b), which directed that cl. (E) be added to subsec. (d)(1)(A), was executed to subsec. (d)(1), as the probable intent of Congress.
 
-1986—Subsec. (c). Pub. L. 99–509, § 7006(b), substituted “January 2, 1988” for “January 2, 1987”.
+1986—Subsec. (c). Pub. L. 99–509, § 7006(b), substituted “January 2, 1988” for “January 2, 1987”.
 
-Pub. L. 99–509, § 7006(c), substituted “section 20001” for “section 1201” in Senate Resolution No. 286, Ninety-ninth Congress, Dec. 19, 1985. See 1990 Amendment note above.
+Pub. L. 99–509, § 7006(c), substituted “section 20001” for “section 1201” in Senate Resolution No. 286, Ninety-ninth Congress, Dec. 19, 1985. See 1990 Amendment note above.
 
-Subsec. (d)(2). Pub. L. 99–509, § 7006(a)(1), substituted “paragraph (1)(A) if the Chairman and Ranking Minority Member of the Committee on the Budget and the Chairman and Ranking Minority Member of the Committee which reported the provision certify that” for “(1)(A) above if” in introductory provisions.
+Subsec. (d)(2). Pub. L. 99–509, § 7006(a)(1), substituted “paragraph (1)(A) if the Chairman and Ranking Minority Member of the Committee on the Budget and the Chairman and Ranking Minority Member of the Committee which reported the provision certify that” for “(1)(A) above if” in introductory provisions.
 
-Subsec. (d)(2)(A). Pub. L. 99–509, § 7006(a)(2), substituted “the provision mitigates” for “it is designed to mitigate the”.
+Subsec. (d)(2)(A). Pub. L. 99–509, § 7006(a)(2), substituted “the provision mitigates” for “it is designed to mitigate the”.
 
-Subsec. (d)(2)(B). Pub. L. 99–509, § 7006(a)(3), substituted “the provision” for “it”.
+Subsec. (d)(2)(B). Pub. L. 99–509, § 7006(a)(3), substituted “the provision” for “it”.
 
-Subsec. (d)(3). Pub. L. 99–509, § 7006(a)(4), added par. (3).
+Subsec. (d)(3). Pub. L. 99–509, § 7006(a)(4), added par. (3).
 
-### § 645. Adjustments
+### § 645. Adjustments
 
 **(a) Adjustments**
 
@@ -1672,9 +1672,9 @@ Following any adjustment made under subsection (a), the Committees on Appropriat
 
 **(d) Emergencies in the House of Representatives**
 
-**(1)** In the House of Representatives, if a reported bill or joint resolution, or amendment thereto or conference report thereon, contains a provision providing new budget authority and outlays or reducing revenue, and a designation of such provision as an emergency requirement pursuant to 901(b)(2)(A) 1
+**(1)** In the House of Representatives, if a reported bill or joint resolution, or amendment thereto or conference report thereon, contains a provision providing new budget authority and outlays or reducing revenue, and a designation of such provision as an emergency requirement pursuant to 901(b)(2)(A) 1
 
-<sup>1</sup>  So in original. Probably should be preceded by the word “section”.
+<sup>1</sup> So in original. Probably should be preceded by the word “section”.
 
 of this title, the chair of the Committee on the Budget of the House of Representatives shall not count the budgetary effects of such provision for purposes of this subchapter and subchapter II and the Rules of the House of Representatives.
 
@@ -1758,7 +1758,7 @@ As used in this subsection, the term “additional new budget authority” means
 
 Following any adjustment made under paragraph (1), the Committees on Appropriations of the Senate and the House of Representatives may report appropriately revised suballocations pursuant to section 633(b) of this title to carry out this subsection.
 
-(Pub. L. 93–344, title III, § 314, as added Pub. L. 105–33, title X, § 10114(a), Aug. 5, 1997, 111 Stat. 688; amended Pub. L. 105–89, title II, § 201(b)(2), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 112–25, title I, § 105(a), Aug. 2, 2011, 125 Stat. 246; Pub. L. 112–78, title V, § 511, Dec. 23, 2011, 125 Stat. 1291; Pub. L. 113–67, div. A, title I, § 122(10), Dec. 26, 2013, 127 Stat. 1176; Pub. L. 115–123, div. C, title II, § 30206(d), Feb. 9, 2018, 132 Stat. 131.)
+(Pub. L. 93–344, title III, § 314, as added Pub. L. 105–33, title X, § 10114(a), Aug. 5, 1997, 111 Stat. 688; amended Pub. L. 105–89, title II, § 201(b)(2), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 112–25, title I, § 105(a), Aug. 2, 2011, 125 Stat. 246; Pub. L. 112–78, title V, § 511, Dec. 23, 2011, 125 Stat. 1291; Pub. L. 113–67, div. A, title I, § 122(10), Dec. 26, 2013, 127 Stat. 1176; Pub. L. 115–123, div. C, title II, § 30206(d), Feb. 9, 2018, 132 Stat. 131.)
 
 **Editorial Notes**
 
@@ -1772,15 +1772,15 @@ This Act, referred to in subsec. (g)(1)(C), is Pub. L. 115–123, Feb. 9, 2018, 
 
 2013—Subsec. (d)(2). Pub. L. 113–67 redesignated subpar. (B) as (A) and substituted “under paragraph (1)” for “under subparagraph (A)”, redesignated subpar. (C) as (B) and substituted “under subparagraph (A)” for “under subparagraph (B)”, and struck out former subpar. (A) which read as follows: “In the House of Representatives, if a reported bill or joint resolution, or amendment thereto or conference report thereon, contains a provision providing new budget authority and outlays or reducing revenue, and a designation of such provision as an emergency pursuant to paragraph (1), the chair of the Committee on the Budget shall not count the budgetary effects of such provision for purposes of this subchapter and subchapter II and the Rules of the House of Representatives.”
 
-2011—Subsec. (a). Pub. L. 112–25, § 105(a)(1), added subsec. (a) and struck out former subsec. (a) which related to general adjustment provisions and described the matters to be adjusted.
+2011—Subsec. (a). Pub. L. 112–25, § 105(a)(1), added subsec. (a) and struck out former subsec. (a) which related to general adjustment provisions and described the matters to be adjusted.
 
-Subsecs. (b) to (d). Pub. L. 112–25, § 105(a)(2), (3), added subsec. (d), redesignated former subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which related to amounts of adjustments.
+Subsecs. (b) to (d). Pub. L. 112–25, § 105(a)(2), (3), added subsec. (d), redesignated former subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which related to amounts of adjustments.
 
-Subsec. (e). Pub. L. 112–78, § 511(2), added subsec. (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 112–78, § 511(2), added subsec. (e). Former subsec. (e) redesignated (f).
 
-Pub. L. 112–25, § 105(a)(2), (3), added subsec. (e) and struck out former subsec. (e) which defined “continuing disability reviews” and “new budget authority” as used in former subsec. (b)(2).
+Pub. L. 112–25, § 105(a)(2), (3), added subsec. (e) and struck out former subsec. (e) which defined “continuing disability reviews” and “new budget authority” as used in former subsec. (b)(2).
 
-Subsec. (f). Pub. L. 112–78, § 511(1), redesignated subsec. (e) as (f).
+Subsec. (f). Pub. L. 112–78, § 511(1), redesignated subsec. (e) as (f).
 
 1997—Subsec. (b)(6). Pub. L. 105–89 added par. (6).
 
@@ -1790,11 +1790,11 @@ Subsec. (f). Pub. L. 112–78, § 511(1), redesignated subsec. (e) as (f).
 
 Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation is required, see section 501 of Pub. L. 105–89, set out as a note under section 622 of Title 42, The Public Health and Welfare.
 
-### § 645a. Effect of adoption of special order of business in House of Representatives
+### § 645a. Effect of adoption of special order of business in House of Representatives
 
 For purposes of a reported bill or joint resolution considered in the House of Representatives pursuant to a special order of business, the term “as reported” in this subchapter or subchapter II shall be considered to refer to the text made in order as an original bill or joint resolution for the purpose of amendment or to the text on which the previous question is ordered directly to passage, as the case may be. In the case of a reported bill or joint resolution considered pursuant to a special order of business, a point of order under section 634 of this title shall be determined on the basis of the text made in order as an original bill or joint resolution for the purpose of amendment or to the text on which the previous question is ordered directly to passage, as the case may be.
 
-(Pub. L. 93–344, title III, § 315, as added Pub. L. 105–33, title X, § 10115(a), Aug. 5, 1997, 111 Stat. 690; amended Pub. L. 113–67, div. A, title I, § 122(11), Dec. 26, 2013, 127 Stat. 1176.)
+(Pub. L. 93–344, title III, § 315, as added Pub. L. 105–33, title X, § 10115(a), Aug. 5, 1997, 111 Stat. 690; amended Pub. L. 113–67, div. A, title I, § 122(11), Dec. 26, 2013, 127 Stat. 1176.)
 
 **Editorial Notes**
 
@@ -1806,7 +1806,7 @@ For purposes of a reported bill or joint resolution considered in the House of R
 
 ### Part A—General Provisions
 
-#### § 651. Budget-related legislation not subject to appropriations
+#### § 651. Budget-related legislation not subject to appropriations
 
 **(a) Controls on certain budget-related legislation not subject to appropriations** It shall not be in order in either the House of Representatives or the Senate to consider any bill or joint resolution (in the House of Representatives only, as reported), amendment, motion, or conference report that provides—
 
@@ -1842,51 +1842,51 @@ unless that bill, joint resolution, amendment, motion, or conference report also
 
 **(3)** In the House of Representatives, subsections (a) and (b) shall not apply to new authority described in those subsections to the extent that a provision in a bill or joint resolution, or an amendment thereto or a conference report thereon, establishes prospectively for a Federal office or position a specified or minimum level of compensation to be funded by annual discretionary appropriations.
 
-(Pub. L. 93–344, title IV, § 401, July 12, 1974, 88 Stat. 317; Pub. L. 99–177, title II, § 211, Dec. 12, 1985, 99 Stat. 1056; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–508, title XIII, § 13207(a)(1)(F), (G), Nov. 5, 1990, 104 Stat. 1388–617, 1388–618; Pub. L. 105–33, title X, § 10116(a)(1)–(5), Aug. 5, 1997, 111 Stat. 690, 691; Pub. L. 113–67, div. A, title I, § 122(12), (13), Dec. 26, 2013, 127 Stat. 1176.)
+(Pub. L. 93–344, title IV, § 401, July 12, 1974, 88 Stat. 317; Pub. L. 99–177, title II, § 211, Dec. 12, 1985, 99 Stat. 1056; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–508, title XIII, § 13207(a)(1)(F), (G), Nov. 5, 1990, 104 Stat. 1388–617, 1388–618; Pub. L. 105–33, title X, § 10116(a)(1)–(5), Aug. 5, 1997, 111 Stat. 690, 691; Pub. L. 113–67, div. A, title I, § 122(12), (13), Dec. 26, 2013, 127 Stat. 1176.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (c)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (c)(1)(B), is classified generally to Title 26, Internal Revenue Code.
 
 **Codification**
 
-In subsec. (c)(2)(A), “section 9101(2) of title 31”, “section 9101(3) of title 31”, and “chapter 91 of title 31” were substituted for “section 201 of the Government Corporation Control Act [31 U.S.C. 856]”, “section 101 of such Act [31 U.S.C. 846]”, and “that Act”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c)(2)(A), “section 9101(2) of title 31”, “section 9101(3) of title 31”, and “chapter 91 of title 31” were substituted for “section 201 of the Government Corporation Control Act [31 U.S.C. 856]”, “section 101 of such Act [31 U.S.C. 846]”, and “that Act”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-Section was formerly classified to section 1351 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1351 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Amendments**
 
-2013—Subsec. (b)(2). Pub. L. 113–67, § 122(12), substituted “section 633(a)” for “section 633(b)”.
+2013—Subsec. (b)(2). Pub. L. 113–67, § 122(12), substituted “section 633(a)” for “section 633(b)”.
 
-Subsec. (c)(3). Pub. L. 113–67, § 122(13), added par. (3).
+Subsec. (c)(3). Pub. L. 113–67, § 122(13), added par. (3).
 
-1997—Pub. L. 105–33, § 10116(a)(1)(A), substituted “Budget-related legislation not subject to appropriations” for “Bills providing new spending authority” as section catchline.
+1997—Pub. L. 105–33, § 10116(a)(1)(A), substituted “Budget-related legislation not subject to appropriations” for “Bills providing new spending authority” as section catchline.
 
-Subsec. (a). Pub. L. 105–33, § 10116(a)(1)(B), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “It shall not be in order in either the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report, as reported to its House which provides new spending authority described in subsection (c)(2)(A) or (B) of this section, unless that bill, resolution, conference report, or amendment also provides that such new spending authority as described in subsection (c)(2)(A) or (B) of this section is to be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.”
+Subsec. (a). Pub. L. 105–33, § 10116(a)(1)(B), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “It shall not be in order in either the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report, as reported to its House which provides new spending authority described in subsection (c)(2)(A) or (B) of this section, unless that bill, resolution, conference report, or amendment also provides that such new spending authority as described in subsection (c)(2)(A) or (B) of this section is to be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.”
 
-Subsec. (b). Pub. L. 105–33, § 10116(a)(2)(A), inserted “new” before “entitlement” in heading.
+Subsec. (b). Pub. L. 105–33, § 10116(a)(2)(A), inserted “new” before “entitlement” in heading.
 
-Subsec. (b)(1). Pub. L. 105–33, § 10116(a)(2)(B), added par. (1) and struck out former par. (1) which read as follows: “It shall not be in order in either the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report, as reported to its House, which provides new spending authority described in subsection (c)(2)(C) of this section which is to become effective before the first day of the fiscal year which begins during the calendar year in which such bill or resolution is reported.”
+Subsec. (b)(1). Pub. L. 105–33, § 10116(a)(2)(B), added par. (1) and struck out former par. (1) which read as follows: “It shall not be in order in either the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report, as reported to its House, which provides new spending authority described in subsection (c)(2)(C) of this section which is to become effective before the first day of the fiscal year which begins during the calendar year in which such bill or resolution is reported.”
 
-Subsec. (b)(2). Pub. L. 105–33, § 10116(a)(2)(C), substituted “new entitlement authority” for “new spending authority described in subsection (c)(2)(C) of this section” and “of the Senate or may then be referred to the Committee on Appropriations of the House, as the case may be,” for “of that House”.
+Subsec. (b)(2). Pub. L. 105–33, § 10116(a)(2)(C), substituted “new entitlement authority” for “new spending authority described in subsection (c)(2)(C) of this section” and “of the Senate or may then be referred to the Committee on Appropriations of the House, as the case may be,” for “of that House”.
 
-Subsec. (c). Pub. L. 105–33, § 10116(a)(5), redesignated subsec. (d) as (c).
+Subsec. (c). Pub. L. 105–33, § 10116(a)(5), redesignated subsec. (d) as (c).
 
-Pub. L. 105–33, § 10116(a)(3), struck out subsec. (c) which defined terms “new spending authority” and “spending authority”.
+Pub. L. 105–33, § 10116(a)(3), struck out subsec. (c) which defined terms “new spending authority” and “spending authority”.
 
-Subsec. (d). Pub. L. 105–33, § 10116(a)(5), redesignated subsec. (d) as (c).
+Subsec. (d). Pub. L. 105–33, § 10116(a)(5), redesignated subsec. (d) as (c).
 
-Subsec. (d)(1). Pub. L. 105–33, § 10116(a)(4)(A), which directed substitution of “new authority described in those subsections if outlays from that new authority will flow” for “new spending authority if the budget authority for outlays which result from such new spending authority is derived”, was executed by making the substitution for “new spending authority if the budget authority for outlays which will result from such new spending authority is derived” in introductory provisions to reflect the probable intent of Congress.
+Subsec. (d)(1). Pub. L. 105–33, § 10116(a)(4)(A), which directed substitution of “new authority described in those subsections if outlays from that new authority will flow” for “new spending authority if the budget authority for outlays which result from such new spending authority is derived”, was executed by making the substitution for “new spending authority if the budget authority for outlays which will result from such new spending authority is derived” in introductory provisions to reflect the probable intent of Congress.
 
-Subsec. (d)(2), (3). Pub. L. 105–33, § 10116(a)(4)(B), (C), redesignated par. (3) as (2), substituted “new authority described in those subsections” for “new spending authority” in introductory provisions, and struck out former par. (2) which read as follows: “Subsections (a) and (b) of this section shall not apply to new spending authority which is an amendment to or extension of chapter 67 of title 31, or a continuation of the program of fiscal assistance to State and local governments provided by that chapter, to the extent so provided in the bill or resolution providing such authority.”
+Subsec. (d)(2), (3). Pub. L. 105–33, § 10116(a)(4)(B), (C), redesignated par. (3) as (2), substituted “new authority described in those subsections” for “new spending authority” in introductory provisions, and struck out former par. (2) which read as follows: “Subsections (a) and (b) of this section shall not apply to new spending authority which is an amendment to or extension of chapter 67 of title 31, or a continuation of the program of fiscal assistance to State and local governments provided by that chapter, to the extent so provided in the bill or resolution providing such authority.”
 
-1990—Subsec. (a). Pub. L. 101–508, § 13207(a)(1)(F), substituted “bill, joint resolution, amendment, motion, or conference report” for “bill, resolution, or conference report” and struck out “(or any amendment which provides such new spending authority)” after “subsection (c)(2)(A) or (B) of this section”.
+1990—Subsec. (a). Pub. L. 101–508, § 13207(a)(1)(F), substituted “bill, joint resolution, amendment, motion, or conference report” for “bill, resolution, or conference report” and struck out “(or any amendment which provides such new spending authority)” after “subsection (c)(2)(A) or (B) of this section”.
 
-Subsec. (b)(1). Pub. L. 101–508, § 13207(a)(1)(G), substituted “bill, joint resolution, amendment, motion, or conference report, as reported to its House” for “bill or resolution” and struck out “(or any amendment which provides such new spending authority)” after “subsection (c)(2)(C) of this section”.
+Subsec. (b)(1). Pub. L. 101–508, § 13207(a)(1)(G), substituted “bill, joint resolution, amendment, motion, or conference report, as reported to its House” for “bill or resolution” and struck out “(or any amendment which provides such new spending authority)” after “subsection (c)(2)(C) of this section”.
 
 1986—Subsec. (d)(1)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
@@ -1902,17 +1902,17 @@ Subsec. (d). Pub. L. 99–177, in amending subsec. (d) generally, reenacted pars
 
 **Effective Date of 1985 Amendment**
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
 
 **Effective Date**
 
-Pub. L. 93–344, title IX, § 905(c), July 12, 1974, 88 Stat. 331 (formerly set out as a note under section 621 of this title), provided that except as provided in section 906 of Pub. L. 93–344 (formerly set out as a note under section 632 of this title) this section shall take effect on the first day of the second regular session of the Ninety-fourth Congress.
+Pub. L. 93–344, title IX, § 905(c), July 12, 1974, 88 Stat. 331 (formerly set out as a note under section 621 of this title), provided that except as provided in section 906 of Pub. L. 93–344 (formerly set out as a note under section 632 of this title) this section shall take effect on the first day of the second regular session of the Ninety-fourth Congress.
 
-#### § 652. Repealed. Pub. L. 105–33, title X, § 10116(b), Aug. 5, 1997, 111 Stat. 692
+#### § 652. Repealed. Pub. L. 105–33, title X, § 10116(b), Aug. 5, 1997, 111 Stat. 692
 
-Section, Pub. L. 93–344, title IV, § 402, July 12, 1974, 88 Stat. 318; Pub. L. 99–177, title II, § 212, Dec. 12, 1985, 99 Stat. 1058; Pub. L. 101–508, title XIII, § 13207(a)(1)(H), Nov. 5, 1990, 104 Stat. 1388–618, related to legislation providing new credit authority.
+Section, Pub. L. 93–344, title IV, § 402, July 12, 1974, 88 Stat. 318; Pub. L. 99–177, title II, § 212, Dec. 12, 1985, 99 Stat. 1058; Pub. L. 101–508, title XIII, § 13207(a)(1)(H), Nov. 5, 1990, 104 Stat. 1388–618, related to legislation providing new credit authority.
 
-#### § 653. Analysis by Congressional Budget Office
+#### § 653. Analysis by Congressional Budget Office
 
 The Director of the Congressional Budget Office shall, to the extent practicable, prepare for each bill or resolution of a public character reported by any committee of the House of Representatives or the Senate (except the Committee on Appropriations of each House), and submit to such committee—
 
@@ -1924,13 +1924,13 @@ The Director of the Congressional Budget Office shall, to the extent practicable
 
 The estimates, comparison, and description so submitted shall be included in the report accompanying such bill or resolution if timely submitted to such committee before such report is filed.
 
-(Pub. L. 93–344, title IV, § 402, formerly § 403, July 12, 1974, 88 Stat. 320; Pub. L. 97–108, § 2(a), Dec. 23, 1981, 95 Stat. 1510; Pub. L. 99–177, title II, § 213, Dec. 12, 1985, 99 Stat. 1059; Pub. L. 104–4, title I, § 104, Mar. 22, 1995, 109 Stat. 62; renumbered § 402, Pub. L. 105–33, title X, § 10116(c)(1), Aug. 5, 1997, 111 Stat. 692.)
+(Pub. L. 93–344, title IV, § 402, formerly § 403, July 12, 1974, 88 Stat. 320; Pub. L. 97–108, § 2(a), Dec. 23, 1981, 95 Stat. 1510; Pub. L. 99–177, title II, § 213, Dec. 12, 1985, 99 Stat. 1059; Pub. L. 104–4, title I, § 104, Mar. 22, 1995, 109 Stat. 62; renumbered § 402, Pub. L. 105–33, title X, § 10116(c)(1), Aug. 5, 1997, 111 Stat. 692.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 1353 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1353 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Prior Provisions**
 
@@ -1938,17 +1938,17 @@ A prior section 402 of Pub. L. 93–344 was classified to section 652 of this ti
 
 **Amendments**
 
-1995—Subsec. (a). Pub. L. 104–4, § 104(2), struck out subsection designation.
+1995—Subsec. (a). Pub. L. 104–4, § 104(2), struck out subsection designation.
 
-Subsec. (a)(2). Pub. L. 104–4, § 104(1)(A), (C), redesignated par. (3) as (2) and struck out former par. (2), which read as follows: “an estimate of the cost which would be incurred by State and local governments in carrying out or complying with any significant bill or resolution in the fiscal year in which it is to become effective and in each of the four fiscal years following such fiscal year, together with the basis for each such estimate;”.
+Subsec. (a)(2). Pub. L. 104–4, § 104(1)(A), (C), redesignated par. (3) as (2) and struck out former par. (2), which read as follows: “an estimate of the cost which would be incurred by State and local governments in carrying out or complying with any significant bill or resolution in the fiscal year in which it is to become effective and in each of the four fiscal years following such fiscal year, together with the basis for each such estimate;”.
 
-Subsec. (a)(3). Pub. L. 104–4, § 104(1)(C), redesignated par. (4) as (3). Former par. (3) redesignated (2).
+Subsec. (a)(3). Pub. L. 104–4, § 104(1)(C), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
-Pub. L. 104–4, § 104(1)(B), which directed the substitution of “paragraph (1)” for “paragraphs (1) and (2)”, was executed by making the substitution for “paragraph (1) and (2)” to reflect the probable intent of Congress.
+Pub. L. 104–4, § 104(1)(B), which directed the substitution of “paragraph (1)” for “paragraphs (1) and (2)”, was executed by making the substitution for “paragraph (1) and (2)” to reflect the probable intent of Congress.
 
-Subsec. (a)(4). Pub. L. 104–4, § 104(1)(C), redesignated par. (4) as (3).
+Subsec. (a)(4). Pub. L. 104–4, § 104(1)(C), redesignated par. (4) as (3).
 
-Subsecs. (b), (c). Pub. L. 104–4, § 104(3), struck out subsecs. (b) and (c) which read as follows:
+Subsecs. (b), (c). Pub. L. 104–4, § 104(3), struck out subsecs. (b) and (c) which read as follows:
 
 “(b) For purposes of subsection (a)(2) of this section, the term ‘local government’ has the same meaning as in section 6501 of title 31.
 
@@ -1956,9 +1956,9 @@ Subsecs. (b), (c). Pub. L. 104–4, § 104(3), struck out subsecs. (b) and (c)
 
 1985—Subsec. (a). Pub. L. 99–177 added par. (4) and substituted “estimates, comparison, and description” for “estimates and comparison” in last sentence.
 
-1981—Subsec. (a). Pub. L. 97–108, § 2(a)(1)–(6), designated existing provisions as subsec. (a), added par. (2), redesignated former par. (2) as (3), in par. (3) as so redesignated, substituted “estimates” for “estimate” in two places, and substituted reference to pars. (1) and (2) for reference to par. (1), and in provision following par. (3) substituted “estimates” for “estimate”.
+1981—Subsec. (a). Pub. L. 97–108, § 2(a)(1)–(6), designated existing provisions as subsec. (a), added par. (2), redesignated former par. (2) as (3), in par. (3) as so redesignated, substituted “estimates” for “estimate” in two places, and substituted reference to pars. (1) and (2) for reference to par. (1), and in provision following par. (3) substituted “estimates” for “estimate”.
 
-Subsecs. (b) and (c). Pub. L. 97–108, § 2(a)(7), added subsecs. (b) and (c).
+Subsecs. (b) and (c). Pub. L. 97–108, § 2(a)(7), added subsecs. (b) and (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1968,11 +1968,11 @@ Amendment by Pub. L. 104–4 effective Jan. 1, 1996, or on the date 90 days afte
 
 **Effective Date of 1985 Amendment**
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–108, § 2(b), Dec. 23, 1981, 95 Stat. 1511, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to bills or resolutions reported by committees of the House of Representatives and the Senate after September 30, 1982.”
+Pub. L. 97–108, § 2(b), Dec. 23, 1981, 95 Stat. 1511, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to bills or resolutions reported by committees of the House of Representatives and the Senate after September 30, 1982.”
 
 **Effective Date**
 
@@ -1980,43 +1980,43 @@ Amendment by Pub. L. 93–344 effective on day on which first Director of Congre
 
 **Authorization of Appropriations**
 
-Pub. L. 97–108, § 3, Dec. 23, 1981, 95 Stat. 1511, provided that: “There are authorized to be appropriated such sums as may be necessary to carry out this Act [amending this section and enacting provisions set out as notes under this section and section 621 of this title].”
+Pub. L. 97–108, § 3, Dec. 23, 1981, 95 Stat. 1511, provided that: “There are authorized to be appropriated such sums as may be necessary to carry out this Act [amending this section and enacting provisions set out as notes under this section and section 621 of this title].”
 
 **Expiration of Authorization**
 
-Pub. L. 97–108, § 4, Dec. 23, 1981, 95 Stat. 1511, which provided for expiration on Sept. 30, 1987, of authorization granted under Pub. L. 97–108, which amended this section and enacted provisions set out as notes under sections 621 and 653 of this title, was repealed by Pub. L. 100–119, title II, § 204, Sept. 29, 1987, 101 Stat. 784.
+Pub. L. 97–108, § 4, Dec. 23, 1981, 95 Stat. 1511, which provided for expiration on Sept. 30, 1987, of authorization granted under Pub. L. 97–108, which amended this section and enacted provisions set out as notes under sections 621 and 653 of this title, was repealed by Pub. L. 100–119, title II, § 204, Sept. 29, 1987, 101 Stat. 784.
 
-#### § 654. Study by Government Accountability Office of forms of Federal financial commitment not reviewed annually by Congress
+#### § 654. Study by Government Accountability Office of forms of Federal financial commitment not reviewed annually by Congress
 
 The Government Accountability Office shall study those provisions of law which provide mandatory spending and report to the Congress its recommendations for the appropriate form of financing for activities or programs financed by such provisions not later than eighteen months after December 12, 1985. Such report shall be revised from time to time.
 
-(Pub. L. 93–344, title IV, § 404, formerly § 405, as added Pub. L. 99–177, title II, § 214, Dec. 12, 1985, 99 Stat. 1059; renumbered § 404 and amended Pub. L. 105–33, title X, § 10116(c)(1), (2), Aug. 5, 1997, 111 Stat. 692; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 93–344, title IV, § 404, formerly § 405, as added Pub. L. 99–177, title II, § 214, Dec. 12, 1985, 99 Stat. 1059; renumbered § 404 and amended Pub. L. 105–33, title X, § 10116(c)(1), (2), Aug. 5, 1997, 111 Stat. 692; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 404 of Pub. L. 93–344, which is not classified to the Code, was renumbered section 403 by Pub. L. 105–33, title X, § 10116(c)(1), Aug. 5, 1997, 111 Stat. 692.
+A prior section 404 of Pub. L. 93–344, which is not classified to the Code, was renumbered section 403 by Pub. L. 105–33, title X, § 10116(c)(1), Aug. 5, 1997, 111 Stat. 692.
 
 **Amendments**
 
 2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline and text.
 
-1997—Pub. L. 105–33, § 10116(c)(2), substituted “mandatory spending” for “spending authority as described by section 651(c)(2) of this title and which provide permanent appropriations,”.
+1997—Pub. L. 105–33, § 10116(c)(2), substituted “mandatory spending” for “spending authority as described by section 651(c)(2) of this title and which provide permanent appropriations,”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Section effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
+Section effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
 
-#### § 655. Off-budget agencies, programs, and activities
+#### § 655. Off-budget agencies, programs, and activities
 
 **(a)** Notwithstanding any other provision of law, budget authority, credit authority, and estimates of outlays and receipts for activities of the Federal budget which are off-budget immediately prior to December 12, 1985, not including activities of the Federal Old-Age and Survivors Insurance and Federal Disability Insurance Trust Funds, shall be included in a budget submitted pursuant to section 1105 of title 31 and in a concurrent resolution on the budget reported pursuant to section 632 or section 635 of this title and shall be considered, for purposes of this Act, budget authority, outlays, and spending authority in accordance with definitions set forth in this Act.
 
 **(b)** All receipts and disbursements of the Federal Financing Bank with respect to any obligations which are issued, sold, or guaranteed by a Federal agency shall be treated as a means of financing such agency for purposes of section 1105 of title 31 and for purposes of this Act.
 
-(Pub. L. 93–344, title IV, § 405, formerly § 406, as added Pub. L. 99–177, title II, § 214, Dec. 12, 1985, 99 Stat. 1059; renumbered § 405, Pub. L. 105–33, title X, § 10116(c)(1), Aug. 5, 1997, 111 Stat. 692.)
+(Pub. L. 93–344, title IV, § 405, formerly § 406, as added Pub. L. 99–177, title II, § 214, Dec. 12, 1985, 99 Stat. 1059; renumbered § 405, Pub. L. 105–33, title X, § 10116(c)(1), Aug. 5, 1997, 111 Stat. 692.)
 
 **Editorial Notes**
 
@@ -2032,13 +2032,13 @@ A prior section 405 of Pub. L. 93–344 was renumbered section 404 and is classi
 
 **Effective Date**
 
-Section effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
+Section effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
 
-#### § 656. Member User Group
+#### § 656. Member User Group
 
 The Speaker of the House of Representatives, after consulting with the Minority Leader of the House, may appoint a Member User Group for the purpose of reviewing budgetary scorekeeping rules and practices of the House and advising the Speaker from time to time on the effect and impact of such rules and practices.
 
-(Pub. L. 93–344, title IV, § 406, formerly § 407, as added Pub. L. 99–177, title II, § 214, Dec. 12, 1985, 99 Stat. 1060; renumbered § 406, Pub. L. 105–33, title X, § 10116(c)(1), Aug. 5, 1997, 111 Stat. 692.)
+(Pub. L. 93–344, title IV, § 406, formerly § 407, as added Pub. L. 99–177, title II, § 214, Dec. 12, 1985, 99 Stat. 1060; renumbered § 406, Pub. L. 105–33, title X, § 10116(c)(1), Aug. 5, 1997, 111 Stat. 692.)
 
 **Editorial Notes**
 
@@ -2050,11 +2050,11 @@ A prior section 406 of Pub. L. 93–344 was renumbered section 405 and is classi
 
 **Effective Date**
 
-Section effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
+Section effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
 
 ### Part B—Federal Mandates
 
-#### § 658. Definitions
+#### § 658. Definitions
 
 For purposes of this part:
 
@@ -2166,13 +2166,13 @@ The term “State” has the same meaning as defined in section 6501(9) of title
 
 The term “tribal government” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688; 43 U.S.C. 1601 et seq.) which is recognized as eligible for the special programs and services provided by the United States to Indians because of their special status as Indians.
 
-(Pub. L. 93–344, title IV, § 421, as added Pub. L. 104–4, title I, § 101(a)(2), Mar. 22, 1995, 109 Stat. 50; amended Pub. L. 113–67, div. A, title I, § 122(14), Dec. 26, 2013, 127 Stat. 1176.)
+(Pub. L. 93–344, title IV, § 421, as added Pub. L. 104–4, title I, § 101(a)(2), Mar. 22, 1995, 109 Stat. 50; amended Pub. L. 113–67, div. A, title I, § 122(14), Dec. 26, 2013, 127 Stat. 1176.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Alaska Native Claims Settlement Act, referred to in par. (13), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (13), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 **Amendments**
 
@@ -2184,7 +2184,7 @@ The Alaska Native Claims Settlement Act, referred to in par. (13), is Pub. L. 92
 
 Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under section 1516 of this title, whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under section 1511 of this title.
 
-#### § 658a. Exclusions
+#### § 658a. Exclusions
 
 This part shall not apply to any provision in a bill, joint resolution, amendment, motion, or conference report before Congress that—
 
@@ -2202,13 +2202,13 @@ This part shall not apply to any provision in a bill, joint resolution, amendmen
 
 **(7)** relates to the old-age, survivors, and disability insurance program under title II of the Social Security Act [42 U.S.C. 401 et seq.] (including taxes imposed by sections 3101(a) and 3111(a) of title 26 (relating to old-age, survivors, and disability insurance)).
 
-(Pub. L. 93–344, title IV, § 422, as added Pub. L. 104–4, title I, § 101(a)(2), Mar. 22, 1995, 109 Stat. 53.)
+(Pub. L. 93–344, title IV, § 422, as added Pub. L. 104–4, title I, § 101(a)(2), Mar. 22, 1995, 109 Stat. 53.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in par. (7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in par. (7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2216,7 +2216,7 @@ The Social Security Act, referred to in par. (7), is act Aug. 14, 1935, ch. 531,
 
 Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under section 1516 of this title, whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under section 1511 of this title.
 
-#### § 658b. Duties of Congressional committees
+#### § 658b. Duties of Congressional committees
 
 **(a) In general**
 
@@ -2262,7 +2262,7 @@ Upon receiving a statement from the Director under section 658c of this title, a
 
 If the statement is not published in the report, or if the bill or joint resolution to which the statement relates is expected to be considered by the Senate or the House of Representatives before the report is published, the committee shall cause the statement, or a summary thereof, to be published in the Congressional Record in advance of floor consideration of the bill or joint resolution.
 
-(Pub. L. 93–344, title IV, § 423, as added Pub. L. 104–4, title I, § 101(a)(2), Mar. 22, 1995, 109 Stat. 53; amended Pub. L. 106–141, § 2(a), Dec. 7, 1999, 113 Stat. 1699.)
+(Pub. L. 93–344, title IV, § 423, as added Pub. L. 104–4, title I, § 101(a)(2), Mar. 22, 1995, 109 Stat. 53; amended Pub. L. 106–141, § 2(a), Dec. 7, 1999, 113 Stat. 1699.)
 
 **Editorial Notes**
 
@@ -2276,7 +2276,7 @@ If the statement is not published in the report, or if the bill or joint resolut
 
 Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under section 1516 of this title, whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under section 1511 of this title.
 
-#### § 658c. Duties of Director; statements on bills and joint resolutions other than appropriations bills and joint resolutions
+#### § 658c. Duties of Director; statements on bills and joint resolutions other than appropriations bills and joint resolutions
 
 **(a) Federal intergovernmental mandates in reported bills and resolutions** For each bill or joint resolution of a public character reported by any committee of authorization of the Senate or the House of Representatives, the Director of the Congressional Budget Office shall prepare and submit to the committee a statement as follows:
 
@@ -2326,7 +2326,7 @@ If the Director estimates that the direct costs of a Federal mandate will not eq
 
 If a bill or joint resolution is passed in an amended form (including if passed by one House as an amendment in the nature of a substitute for the text of a bill or joint resolution from the other House) or is reported by a committee of conference in amended form, and the amended form contains a Federal mandate not previously considered by either House or which contains an increase in the direct cost of a previously considered Federal mandate, then the committee of conference shall ensure, to the greatest extent practicable, that the Director shall prepare a statement as provided in this subsection or a supplemental statement for the bill or joint resolution in that amended form.
 
-(Pub. L. 93–344, title IV, § 424, as added Pub. L. 104–4, title I, § 101(a)(2), Mar. 22, 1995, 109 Stat. 55; amended Pub. L. 106–141, § 2(b), Dec. 7, 1999, 113 Stat. 1699.)
+(Pub. L. 93–344, title IV, § 424, as added Pub. L. 104–4, title I, § 101(a)(2), Mar. 22, 1995, 109 Stat. 55; amended Pub. L. 106–141, § 2(b), Dec. 7, 1999, 113 Stat. 1699.)
 
 **Editorial Notes**
 
@@ -2340,7 +2340,7 @@ If a bill or joint resolution is passed in an amended form (including if passed 
 
 Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under section 1516 of this title, whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under section 1511 of this title.
 
-#### § 658d. Legislation subject to point of order
+#### § 658d. Legislation subject to point of order
 
 **(a) In general** It shall not be in order in the Senate or the House of Representatives to consider—
 
@@ -2406,7 +2406,7 @@ For purposes of this section, in the Senate, the presiding officer of the Senate
 
 For purposes of this section, in the Senate, the levels of Federal mandates for a fiscal year shall be determined based on the estimates made by the Committee on the Budget.
 
-(Pub. L. 93–344, title IV, § 425, as added Pub. L. 104–4, title I, § 101(a)(2), Mar. 22, 1995, 109 Stat. 56.)
+(Pub. L. 93–344, title IV, § 425, as added Pub. L. 104–4, title I, § 101(a)(2), Mar. 22, 1995, 109 Stat. 56.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2418,7 +2418,7 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under section 1516 of this title, whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under section 1511 of this title.
 
-#### § 658e. Provisions relating to House of Representatives
+#### § 658e. Provisions relating to House of Representatives
 
 **(a) Enforcement in House of Representatives**
 
@@ -2446,7 +2446,7 @@ A question of consideration under this section shall be debatable for 10 minutes
 
 The disposition of the question of consideration under this subsection with respect to a bill or joint resolution shall be considered also to determine the question of consideration under this subsection with respect to an amendment made in order as original text.
 
-(Pub. L. 93–344, title IV, § 426, as added Pub. L. 104–4, title I, § 101(a)(2), Mar. 22, 1995, 109 Stat. 59.)
+(Pub. L. 93–344, title IV, § 426, as added Pub. L. 104–4, title I, § 101(a)(2), Mar. 22, 1995, 109 Stat. 59.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2454,11 +2454,11 @@ The disposition of the question of consideration under this subsection with resp
 
 Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under section 1516 of this title, whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under section 1511 of this title.
 
-#### § 658f. Requests to Congressional Budget Office from Senators
+#### § 658f. Requests to Congressional Budget Office from Senators
 
 At the written request of a Senator, the Director shall, to the extent practicable, prepare an estimate of the direct costs of a Federal intergovernmental mandate contained in an amendment of such Senator.
 
-(Pub. L. 93–344, title IV, § 427, as added Pub. L. 104–4, title I, § 101(a)(2), Mar. 22, 1995, 109 Stat. 59.)
+(Pub. L. 93–344, title IV, § 427, as added Pub. L. 104–4, title I, § 101(a)(2), Mar. 22, 1995, 109 Stat. 59.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2466,7 +2466,7 @@ At the written request of a Senator, the Director shall, to the extent practicab
 
 Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under section 1516 of this title, whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under section 1511 of this title.
 
-#### § 658g. Clarification of application
+#### § 658g. Clarification of application
 
 **(a) In general** This part applies to any bill, joint resolution, amendment, motion, or conference report that reauthorizes appropriations, or that amends existing authorizations of appropriations, to carry out any statute, or that otherwise amends any statute, only if enactment of the bill, joint resolution, amendment, motion, or conference report—
 
@@ -2490,7 +2490,7 @@ For purposes of this part, the direct cost of the Federal mandates in a bill, jo
 
 For purposes of this section, in the case of legislation to extend authorization of appropriations, the authorization level that would be provided by the extension shall be compared to the authorization level for the last year in which authorization of appropriations is already provided.
 
-(Pub. L. 93–344, title IV, § 428, as added Pub. L. 104–4, title I, § 101(a)(2), Mar. 22, 1995, 109 Stat. 59.)
+(Pub. L. 93–344, title IV, § 428, as added Pub. L. 104–4, title I, § 101(a)(2), Mar. 22, 1995, 109 Stat. 59.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2500,7 +2500,7 @@ Section effective Jan. 1, 1996, or on the date 90 days after appropriations are 
 
 ## SUBCHAPTER III—CREDIT REFORM
 
-### § 661. Purposes
+### § 661. Purposes
 
 The purposes of this subchapter are to—
 
@@ -2512,15 +2512,15 @@ The purposes of this subchapter are to—
 
 **(4)** improve the allocation of resources among credit programs and between credit and other spending programs.
 
-(Pub. L. 93–344, title V, § 501, as added Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–610.)
+(Pub. L. 93–344, title V, § 501, as added Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–610.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 661, Pub. L. 93–344, title VI, § 606, July 12, 1974, 88 Stat. 325, directed that Budget Committees of House and Senate study, on a continuing basis, any provisions of law which exempt agencies or programs from inclusion in the budget and make recommendations from time to time with regard to terminating or modifying such provisions, prior to repeal by Pub. L. 99–177, title II, §§ 223, 275(a)(1), Dec. 12, 1985, 99 Stat. 1060, 1100, effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985.
+A prior section 661, Pub. L. 93–344, title VI, § 606, July 12, 1974, 88 Stat. 325, directed that Budget Committees of House and Senate study, on a continuing basis, any provisions of law which exempt agencies or programs from inclusion in the budget and make recommendations from time to time with regard to terminating or modifying such provisions, prior to repeal by Pub. L. 99–177, title II, §§ 223, 275(a)(1), Dec. 12, 1985, 99 Stat. 1060, 1100, effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985.
 
-A prior section 501 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 321, was classified to section 1020 of former Title 31, prior to repeal and reenactment as section 1102 of Title 31, Money and Finance, by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
+A prior section 501 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 321, was classified to section 1020 of former Title 31, prior to repeal and reenactment as section 1102 of Title 31, Money and Finance, by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2528,13 +2528,13 @@ A prior section 501 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 321, w
 
 For short title of title V of Pub. L. 93–344, which enacted this subchapter, as the “Federal Credit Reform Act of 1990”, see section 500 of Pub. L. 93–344, set out as a note under section 621 of this title.
 
-### § 661a. Definitions
+### § 661a. Definitions
 
 For purposes of this subchapter—
 
-**(1)** The term “direct loan” means a disbursement of funds by the Government to a non-Federal borrower under a contract that requires the repayment of such funds with or without interest. The term includes the purchase of, or participation in, a loan made by another lender and financing arrangements that defer payment for more than 90 days, including the sale of a government 1
+**(1)** The term “direct loan” means a disbursement of funds by the Government to a non-Federal borrower under a contract that requires the repayment of such funds with or without interest. The term includes the purchase of, or participation in, a loan made by another lender and financing arrangements that defer payment for more than 90 days, including the sale of a government 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 asset on credit terms. The term does not include the acquisition of a federally guaranteed loan in satisfaction of default claims or the price support loans of the Commodity Credit Corporation.
 
@@ -2586,21 +2586,21 @@ These accounts shall be shown in the budget on a cash basis.
 
 **(11)** The term “Director” means the Director of the Office of Management and Budget.
 
-(Pub. L. 93–344, title V, § 502, as added Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–610; amended Pub. L. 105–33, title X, § 10117(a), Aug. 5, 1997, 111 Stat. 692.)
+(Pub. L. 93–344, title V, § 502, as added Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–610; amended Pub. L. 105–33, title X, § 10117(a), Aug. 5, 1997, 111 Stat. 692.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 502 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 321, was set out as a note under section 1020 of former Title 31, prior to repeal by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068.
+A prior section 502 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 321, was set out as a note under section 1020 of former Title 31, prior to repeal by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068.
 
 **Amendments**
 
-1997—Par. (1). Pub. L. 105–33, § 10117(a)(1), inserted “and financing arrangements that defer payment for more than 90 days, including the sale of a government asset on credit terms” after “another lender”.
+1997—Par. (1). Pub. L. 105–33, § 10117(a)(1), inserted “and financing arrangements that defer payment for more than 90 days, including the sale of a government asset on credit terms” after “another lender”.
 
-Par. (5)(A). Pub. L. 105–33, § 10117(a)(2), inserted “or modification thereof” after “or loan guarantee”.
+Par. (5)(A). Pub. L. 105–33, § 10117(a)(2), inserted “or modification thereof” after “or loan guarantee”.
 
-Par. (5)(B), (C). Pub. L. 105–33, § 10117(a)(3), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
+Par. (5)(B), (C). Pub. L. 105–33, § 10117(a)(3), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
 
 “(B) The cost of a direct loan shall be the net present value, at the time when the direct loan is disbursed, of the following cash flows:
 
@@ -2616,15 +2616,15 @@ Par. (5)(B), (C). Pub. L. 105–33, § 10117(a)(3), added subpars. (B) and (C)
 
 “(ii) the estimated payments to the Government including origination and other fees, penalties and recoveries.”
 
-Par. (5)(D). Pub. L. 105–33, § 10117(a)(4), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “Any Government action that alters the estimated net present value of an outstanding direct loan or loan guarantee (except modifications within the terms of existing contracts or through other existing authorities) shall be counted as a change in the cost of that direct loan or loan guarantee. The calculation of such changes shall be based on the estimated present value of the direct loan or loan guarantee at the time of modification.”
+Par. (5)(D). Pub. L. 105–33, § 10117(a)(4), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “Any Government action that alters the estimated net present value of an outstanding direct loan or loan guarantee (except modifications within the terms of existing contracts or through other existing authorities) shall be counted as a change in the cost of that direct loan or loan guarantee. The calculation of such changes shall be based on the estimated present value of the direct loan or loan guarantee at the time of modification.”
 
-Par. (5)(E). Pub. L. 105–33, § 10117(a)(5), inserted “the cash flows of” after “similar maturity to”.
+Par. (5)(E). Pub. L. 105–33, § 10117(a)(5), inserted “the cash flows of” after “similar maturity to”.
 
-Par. (5)(F). Pub. L. 105–33, § 10117(a)(6), added subpar. (F).
+Par. (5)(F). Pub. L. 105–33, § 10117(a)(6), added subpar. (F).
 
-Pars. (9) to (11). Pub. L. 105–33, § 10117(a)(7), added pars. (9) and (10) and redesignated former par. (9) as (11).
+Pars. (9) to (11). Pub. L. 105–33, § 10117(a)(7), added pars. (9) and (10) and redesignated former par. (9) as (11).
 
-### § 661b. OMB and CBO analysis, coordination, and review
+### § 661b. OMB and CBO analysis, coordination, and review
 
 **(a) In general**
 
@@ -2650,15 +2650,15 @@ The Director shall review, to the extent possible, historical data and develop t
 
 The Director and the Director of the Congressional Budget Office shall each analyze and report to Congress on differences in long-term administrative costs for credit programs versus grant programs by January 31, 1992. Their reports shall recommend to Congress any changes, if necessary, in the treatment of administrative costs under credit reform accounting.
 
-(Pub. L. 93–344, title V, § 503, as added Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–611.)
+(Pub. L. 93–344, title V, § 503, as added Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–611.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 503 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 321, was classified to section 701 of former Title 31, prior to repeal and reenactment in section 1552(a) of Title 31, Money and Finance, by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
+A prior section 503 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 321, was classified to section 701 of former Title 31, prior to repeal and reenactment in section 1552(a) of Title 31, Money and Finance, by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
 
-### § 661c. Budgetary treatment
+### § 661c. Budgetary treatment
 
 **(a) President’s budget**
 
@@ -2698,27 +2698,27 @@ When the estimated cost for a group of direct loans or loan guarantees for a giv
 
 All funding for an agency’s administration of a direct loan or loan guarantee program shall be displayed as distinct and separately identified subaccounts within the same budget account as the program’s cost.
 
-(Pub. L. 93–344, title V, § 504, as added Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–612; amended Pub. L. 105–33, title X, § 10117(b), Aug. 5, 1997, 111 Stat. 693.)
+(Pub. L. 93–344, title V, § 504, as added Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–612; amended Pub. L. 105–33, title X, § 10117(b), Aug. 5, 1997, 111 Stat. 693.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 504 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 322, was classified to section 1020a of former Title 31, prior to repeal by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068.
+A prior section 504 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 322, was classified to section 1020a of former Title 31, prior to repeal by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068.
 
 **Amendments**
 
-1997—Subsec. (b)(1). Pub. L. 105–33, § 10117(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “appropriations of budget authority to cover their costs are made in advance;”.
+1997—Subsec. (b)(1). Pub. L. 105–33, § 10117(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “appropriations of budget authority to cover their costs are made in advance;”.
 
-Subsec. (b)(2). Pub. L. 105–33, § 10117(b)(2), substituted “has been provided in advance in an appropriations Act” for “is enacted”.
+Subsec. (b)(2). Pub. L. 105–33, § 10117(b)(2), substituted “has been provided in advance in an appropriations Act” for “is enacted”.
 
-Subsec. (c). Pub. L. 105–33, § 10117(b)(3), substituted “Subsections (b) and (e)” for “Subsection (b)”.
+Subsec. (c). Pub. L. 105–33, § 10117(b)(3), substituted “Subsections (b) and (e)” for “Subsection (b)”.
 
-Subsec. (d)(1). Pub. L. 105–33, § 10117(b)(4), substituted “modify outstanding direct loans (or direct loan obligations) or loan guarantees (or loan guarantee commitments)” for “directly or indirectly alter the costs of outstanding direct loans and loan guarantees”.
+Subsec. (d)(1). Pub. L. 105–33, § 10117(b)(4), substituted “modify outstanding direct loans (or direct loan obligations) or loan guarantees (or loan guarantee commitments)” for “directly or indirectly alter the costs of outstanding direct loans and loan guarantees”.
 
-Subsec. (e). Pub. L. 105–33, § 10117(b)(5), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “A direct loan obligation or loan guarantee commitment shall not be modified in a manner that increases its cost unless budget authority for the additional cost is appropriated, or is available out of existing appropriations or from other budgetary resources.”
+Subsec. (e). Pub. L. 105–33, § 10117(b)(5), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “A direct loan obligation or loan guarantee commitment shall not be modified in a manner that increases its cost unless budget authority for the additional cost is appropriated, or is available out of existing appropriations or from other budgetary resources.”
 
-### § 661d. Authorizations
+### § 661d. Authorizations
 
 **(a) Authorization of appropriations for costs**
 
@@ -2772,7 +2772,7 @@ Nothing in this subchapter shall be construed as authorizing or requiring the pu
 
 Nothing in this subchapter shall be construed to change the authority or the responsibility of a Federal agency to determine the terms and conditions of eligibility for, or the amount of assistance provided by a direct loan or a loan guarantee.
 
-(Pub. L. 93–344, title V, § 505, as added Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–613; amended Pub. L. 105–33, title X, § 10117(c), Aug. 5, 1997, 111 Stat. 694; Pub. L. 113–67, div. A, title I, § 122(15), Dec. 26, 2013, 127 Stat. 1176.)
+(Pub. L. 93–344, title V, § 505, as added Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–613; amended Pub. L. 105–33, title X, § 10117(c), Aug. 5, 1997, 111 Stat. 694; Pub. L. 113–67, div. A, title I, § 122(15), Dec. 26, 2013, 127 Stat. 1176.)
 
 **Editorial Notes**
 
@@ -2784,13 +2784,13 @@ A prior section 505 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 322, r
 
 2013—Subsec. (c). Pub. L. 113–67 made technical amendment to reference in original act which appears in text as reference to section 655(b) of this title.
 
-1997—Subsec. (c). Pub. L. 105–33, § 10117(c)(2), substituted “supersede” for “supercede”.
+1997—Subsec. (c). Pub. L. 105–33, § 10117(c)(2), substituted “supersede” for “supercede”.
 
-Pub. L. 105–33, § 10117(c)(1), inserted before period at end of second sentence “, except that the rate of interest charged by the Secretary on lending to financing accounts (including amounts treated as lending to financing accounts by the Federal Financing Bank (hereinafter in this subsection referred to as the ‘Bank’) pursuant to section 655(b) of this title) and the rate of interest paid to financing accounts on uninvested balances in financing accounts shall be the same as the rate determined pursuant to section 661a(5)(E) of this title. For guaranteed loans financed by the Bank and treated as direct loans by a Federal agency pursuant to section 655(b) of this title, any fee or interest surcharge (the amount by which the interest rate charged exceeds the rate determined pursuant to section 661a(5)(E) of this title) that the Bank charges to a private borrower pursuant to section 2285(c) of title 12 shall be considered a cash flow to the Government for the purposes of determining the cost of the direct loan pursuant to section 661a(5) of this title. All such amounts shall be credited to the appropriate financing account. The Bank is authorized to require reimbursement from a Federal agency to cover the administrative expenses of the Bank that are attributable to the direct loans financed for that agency. All such payments by an agency shall be considered administrative expenses subject to section 661c(g) of this title. This subsection shall apply to transactions related to direct loan obligations or loan guarantee commitments made on or after October 1, 1991”.
+Pub. L. 105–33, § 10117(c)(1), inserted before period at end of second sentence “, except that the rate of interest charged by the Secretary on lending to financing accounts (including amounts treated as lending to financing accounts by the Federal Financing Bank (hereinafter in this subsection referred to as the ‘Bank’) pursuant to section 655(b) of this title) and the rate of interest paid to financing accounts on uninvested balances in financing accounts shall be the same as the rate determined pursuant to section 661a(5)(E) of this title. For guaranteed loans financed by the Bank and treated as direct loans by a Federal agency pursuant to section 655(b) of this title, any fee or interest surcharge (the amount by which the interest rate charged exceeds the rate determined pursuant to section 661a(5)(E) of this title) that the Bank charges to a private borrower pursuant to section 2285(c) of title 12 shall be considered a cash flow to the Government for the purposes of determining the cost of the direct loan pursuant to section 661a(5) of this title. All such amounts shall be credited to the appropriate financing account. The Bank is authorized to require reimbursement from a Federal agency to cover the administrative expenses of the Bank that are attributable to the direct loans financed for that agency. All such payments by an agency shall be considered administrative expenses subject to section 661c(g) of this title. This subsection shall apply to transactions related to direct loan obligations or loan guarantee commitments made on or after October 1, 1991”.
 
-Subsec. (d). Pub. L. 105–33, § 10117(c)(3), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “If funds in liquidating accounts are insufficient to satisfy the obligations and commitments of said accounts, there is hereby provided permanent, indefinite authority to make any payments required to be made on such obligations and commitments.”
+Subsec. (d). Pub. L. 105–33, § 10117(c)(3), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “If funds in liquidating accounts are insufficient to satisfy the obligations and commitments of said accounts, there is hereby provided permanent, indefinite authority to make any payments required to be made on such obligations and commitments.”
 
-### § 661e. Treatment of deposit insurance and agencies and other insurance programs
+### § 661e. Treatment of deposit insurance and agencies and other insurance programs
 
 **(a) In general**
 
@@ -2804,7 +2804,7 @@ The Director and the Director of the Congressional Budget Office shall each stud
 
 For the purposes of subsection (b), the Office of Management and Budget and the Congressional Budget Office shall have access to all agency data that may facilitate these studies.
 
-(Pub. L. 93–344, title V, § 506, as added Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–614; amended Pub. L. 105–33, title X, § 10117(d), Aug. 5, 1997, 111 Stat. 695.)
+(Pub. L. 93–344, title V, § 506, as added Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–614; amended Pub. L. 105–33, title X, § 10117(d), Aug. 5, 1997, 111 Stat. 695.)
 
 **Editorial Notes**
 
@@ -2816,7 +2816,7 @@ A prior section 506 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 322, a
 
 1997—Pub. L. 105–33 struck out subsec. (a) designation and heading, redesignated pars. (1) to (3) of former subsec. (a) as subsecs. (a) to (c), respectively, inserted subsec. headings, and substituted “subsection (b)” for “paragraph (2)” in subsec. (c).
 
-### § 661f. Effect on other laws
+### § 661f. Effect on other laws
 
 **(a) Effect on other laws**
 
@@ -2826,38 +2826,38 @@ This subchapter shall supersede, modify, or repeal any provision of law enacted 
 
 Collections resulting from direct loans obligated or loan guarantees committed prior to October 1, 1991, shall be credited to the liquidating accounts of Federal agencies. Amounts so credited shall be available, to the same extent that they were available prior to November 5, 1990, to liquidate obligations arising from such direct loans obligated or loan guarantees committed prior to October 1, 1991, including repayment of any obligations held by the Secretary of the Treasury or the Federal Financing Bank. The unobligated balances of such accounts that are in excess of current needs shall be transferred to the general fund of the Treasury. Such transfers shall be made from time to time but, at least once each year.
 
-(Pub. L. 93–344, title V, § 507, as added Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–614.)
+(Pub. L. 93–344, title V, § 507, as added Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–614.)
 
 ## SUBCHAPTER IV—BUDGET AGREEMENT ENFORCEMENT PROVISIONS
 
-### §§ 665 to 665e. Repealed. Pub. L. 105–33, title X, § 10118(a), Aug. 5, 1997, 111 Stat. 695
+### §§ 665 to 665e. Repealed. Pub. L. 105–33, title X, § 10118(a), Aug. 5, 1997, 111 Stat. 695
 
-Section 665, Pub. L. 93–344, title VI, § 601, as added Pub. L. 101–508, title XIII, § 13111, Nov. 5, 1990, 104 Stat. 1388–602; amended Pub. L. 103–66, title XIV, § 14002(a), (b), Aug. 10, 1993, 107 Stat. 683, defined terms and provided for points of order in cases where measures would exceed discretionary spending limits.
+Section 665, Pub. L. 93–344, title VI, § 601, as added Pub. L. 101–508, title XIII, § 13111, Nov. 5, 1990, 104 Stat. 1388–602; amended Pub. L. 103–66, title XIV, § 14002(a), (b), Aug. 10, 1993, 107 Stat. 683, defined terms and provided for points of order in cases where measures would exceed discretionary spending limits.
 
-A prior section 601 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 323, was classified to section 11 of former Title 31, prior to repeal and reenactment as sections 1105(a)(15), 1106(b), and 1108(d) of Title 31, Money and Finance, by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
+A prior section 601 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 323, was classified to section 11 of former Title 31, prior to repeal and reenactment as sections 1105(a)(15), 1106(b), and 1108(d) of Title 31, Money and Finance, by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
 
-Section 665a, Pub. L. 93–344, title VI, § 602, as added Pub. L. 101–508, title XIII, § 13111, Nov. 5, 1990, 104 Stat. 1388–603; amended Pub. L. 103–322, title XXXI, § 310001(f)(1), Sept. 13, 1994, 108 Stat. 2103, related to committee allocations and enforcement.
+Section 665a, Pub. L. 93–344, title VI, § 602, as added Pub. L. 101–508, title XIII, § 13111, Nov. 5, 1990, 104 Stat. 1388–603; amended Pub. L. 103–322, title XXXI, § 310001(f)(1), Sept. 13, 1994, 108 Stat. 2103, related to committee allocations and enforcement.
 
-A prior section 602 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 324, was classified to section 11 of former Title 31, prior to repeal and reenactment as section 1106(a) of Title 31, Money and Finance, by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
+A prior section 602 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 324, was classified to section 11 of former Title 31, prior to repeal and reenactment as section 1106(a) of Title 31, Money and Finance, by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
 
-Section 665b, Pub. L. 93–344, title VI, § 603, as added Pub. L. 101–508, title XIII, § 13111, Nov. 5, 1990, 104 Stat. 1388–605, related to consideration of legislation before adoption of budget resolution for that fiscal year.
+Section 665b, Pub. L. 93–344, title VI, § 603, as added Pub. L. 101–508, title XIII, § 13111, Nov. 5, 1990, 104 Stat. 1388–605, related to consideration of legislation before adoption of budget resolution for that fiscal year.
 
-A prior section 603 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 324, was classified to section 11 of former Title 31, prior to repeal and reenactment in section 1105(a)(1)–(14) of Title 31, Money and Finance, by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
+A prior section 603 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 324, was classified to section 11 of former Title 31, prior to repeal and reenactment in section 1105(a)(1)–(14) of Title 31, Money and Finance, by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
 
-Section 665c, Pub. L. 93–344, title VI, § 604, as added Pub. L. 101–508, title XIII, § 13111, Nov. 5, 1990, 104 Stat. 1388–605, related to reconciliation directives regarding pay-as-you-go requirements.
+Section 665c, Pub. L. 93–344, title VI, § 604, as added Pub. L. 101–508, title XIII, § 13111, Nov. 5, 1990, 104 Stat. 1388–605, related to reconciliation directives regarding pay-as-you-go requirements.
 
-A prior section 604 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 324, was classified to section 11 of former Title 31, prior to repeal and reenactment in section 1105(a)(1)–(14) of Title 31, Money and Finance, by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
+A prior section 604 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 324, was classified to section 11 of former Title 31, prior to repeal and reenactment in section 1105(a)(1)–(14) of Title 31, Money and Finance, by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
 
-Section 665d, Pub. L. 93–344, title VI, § 605, as added Pub. L. 101–508, title XIII, § 13111, Nov. 5, 1990, 104 Stat. 1388–606, related to application of section 642 of this title and points of order in Senate for measures exceeding specified maximum deficit amount.
+Section 665d, Pub. L. 93–344, title VI, § 605, as added Pub. L. 101–508, title XIII, § 13111, Nov. 5, 1990, 104 Stat. 1388–606, related to application of section 642 of this title and points of order in Senate for measures exceeding specified maximum deficit amount.
 
-A prior section 605 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 325, was classified to section 11a of former Title 31, prior to repeal and reenactment in section 1109 of Title 31, Money and Finance, by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
+A prior section 605 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 325, was classified to section 11a of former Title 31, prior to repeal and reenactment in section 1109 of Title 31, Money and Finance, by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31.
 
-Section 665e, Pub. L. 93–344, title VI, § 606, as added Pub. L. 101–508, title XIII, § 13111, Nov. 5, 1990, 104 Stat. 1388–606; amended Pub. L. 104–121, title I, § 103(c), Mar. 29, 1996, 110 Stat. 849; Pub. L. 104–193, title II, § 211(d)(5)(C), Aug. 22, 1996, 110 Stat. 2192, related to 5-year budget resolutions and requirement that budget resolutions conform to Balanced Budget and Emergency Deficit Control Act of 1985.
+Section 665e, Pub. L. 93–344, title VI, § 606, as added Pub. L. 101–508, title XIII, § 13111, Nov. 5, 1990, 104 Stat. 1388–606; amended Pub. L. 104–121, title I, § 103(c), Mar. 29, 1996, 110 Stat. 849; Pub. L. 104–193, title II, § 211(d)(5)(C), Aug. 22, 1996, 110 Stat. 2192, related to 5-year budget resolutions and requirement that budget resolutions conform to Balanced Budget and Emergency Deficit Control Act of 1985.
 
-A prior section 606 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 325, was classified to section 661 of this title, prior to repeal by Pub. L. 99–177, title II, § 223, Dec. 12, 1985, 99 Stat. 1060.
+A prior section 606 of Pub. L. 93–344, title VI, July 12, 1974, 88 Stat. 325, was classified to section 661 of this title, prior to repeal by Pub. L. 99–177, title II, § 223, Dec. 12, 1985, 99 Stat. 1060.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 93–344, title VI, § 607, as added by Pub. L. 101–508, title XIII, § 13111, Nov. 5, 1990, 104 Stat. 1388–607, and amended by Pub. L. 103–66, title XIV, § 14002(c)(3)(B), Aug. 10, 1993, 107 Stat. 684, provided that title VI of Pub. L. 93–344, enacting this subchapter, was effective Nov. 5, 1990, and was applicable to fiscal years 1991 to 1998, prior to repeal by Pub. L. 105–33, title X, § 10118(a), Aug. 5, 1997, 111 Stat. 695.
+Pub. L. 93–344, title VI, § 607, as added by Pub. L. 101–508, title XIII, § 13111, Nov. 5, 1990, 104 Stat. 1388–607, and amended by Pub. L. 103–66, title XIV, § 14002(c)(3)(B), Aug. 10, 1993, 107 Stat. 684, provided that title VI of Pub. L. 93–344, enacting this subchapter, was effective Nov. 5, 1990, and was applicable to fiscal years 1991 to 1998, prior to repeal by Pub. L. 105–33, title X, § 10118(a), Aug. 5, 1997, 111 Stat. 695.

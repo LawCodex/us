@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1998—Pub. L. 105–362, title XIII, § 1302(b)(2)(B)(ii), Nov. 10, 1998, 112 Stat. 3293, added item 4705 and struck out former items 4705 “Reports” and 4706 “Regulations”.
+1998—Pub. L. 105–362, title XIII, § 1302(b)(2)(B)(ii), Nov. 10, 1998, 112 Stat. 3293, added item 4705 and struck out former items 4705 “Reports” and 4706 “Regulations”.
 
-## § 4701. Definitions
+## § 4701. Definitions
 
 **(a)** For the purpose of this chapter—
 
@@ -43,7 +43,7 @@ retrieved: 2026-10-11
 
 **(b)** This chapter shall not apply to any position in the Drug Enforcement Administration which is excluded from the competitive service under section 201 of the Crime Control Act of 1976 (28 U.S.C. 509 note; 90 Stat. 2425).
 
-(Added Pub. L. 95–454, title VI, § 601(a), Oct. 13, 1978, 92 Stat. 1185; amended Pub. L. 96–54, § 2(a)(21), Aug. 14, 1979, 93 Stat. 382; Pub. L. 101–474, § 5(g), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 103–359, title V, § 501(f), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, § 1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–417, [div. A], title IX, § 931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Added Pub. L. 95–454, title VI, § 601(a), Oct. 13, 1978, 92 Stat. 1185; amended Pub. L. 96–54, § 2(a)(21), Aug. 14, 1979, 93 Stat. 382; Pub. L. 101–474, § 5(g), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 103–359, title V, § 501(f), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, § 1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–417, [div. A], title IX, § 931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Editorial Notes**
 
@@ -57,7 +57,7 @@ retrieved: 2026-10-11
 
 1994—Subsec. (a)(1)(B). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
 
-1990—Subsec. (a)(1). Pub. L. 101–474 struck out “, the Administrative Office of the United States Courts,” after “means an Executive agency”.
+1990—Subsec. (a)(1). Pub. L. 101–474 struck out “, the Administrative Office of the United States Courts,” after “means an Executive agency”.
 
 1979—Subsec. (b). Pub. L. 96–54 substituted “chapter” for “subchapter” and “28 U.S.C. 509” for “5 U.S.C. 5108”.
 
@@ -81,7 +81,7 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 **Design Elements of Pay-for-Performance Systems in Demonstration Projects**
 
-Pub. L. 108–136, div. A, title XI, § 1126, Nov. 24, 2003, 117 Stat. 1640, provided that:
+Pub. L. 108–136, div. A, title XI, § 1126, Nov. 24, 2003, 117 Stat. 1640, provided that:
 
 > “A pay-for-performance system may not be initiated under chapter 47 of title 5, United States Code, after the date of the enactment of this Act [Nov. 24, 2003], unless it incorporates the following elements:
 
@@ -101,7 +101,7 @@ Pub. L. 108–136, div. A, title XI, § 1126, Nov. 24, 2003, 117 Stat. 1640, p
 
 > **“(8)** A means for ensuring that adequate agency resources are allocated for the design, implementation, and administration of the pay-for-performance system.”
 
-## § 4702. Research programs
+## § 4702. Research programs
 
 The Office of Personnel Management shall—
 
@@ -113,7 +113,7 @@ The Office of Personnel Management shall—
 
 **(4)** carry out the preceding functions directly or through agreement or contract.
 
-(Added Pub. L. 95–454, title VI, § 601(a), Oct. 13, 1978, 92 Stat. 1185.)
+(Added Pub. L. 95–454, title VI, § 601(a), Oct. 13, 1978, 92 Stat. 1185.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -121,7 +121,7 @@ The Office of Personnel Management shall—
 
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
-## § 4703. Demonstration projects
+## § 4703. Demonstration projects
 
 **(a)** Except as provided in this section, the Office of Personnel Management may, directly or through agreement or contract with one or more agencies and other public and private organizations, conduct and evaluate demonstration projects. Subject to the provisions of this section, the conducting of demonstration projects shall not be limited by any lack of specific authority under this title to take the action contemplated, or by any provision of this title or any rule or regulation prescribed under this title which is inconsistent with the action, including any law or regulation relating to—
 
@@ -227,9 +227,9 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 **(i)** Upon request of the Director of the Office of Personnel Management, agencies shall cooperate with and assist the Office, to the extent practicable, in any evaluation undertaken under subsection (h) of this section and provide the Office with requested information and reports relating to the conducting of demonstration projects in their respective agencies.
 
-**(j)** Each agency at which a demonstration project authorized by this section is ongoing shall submit an annual report to the Office of Personnel Management, the Office and 1
+**(j)** Each agency at which a demonstration project authorized by this section is ongoing shall submit an annual report to the Office of Personnel Management, the Office and 1
 
-<sup>1</sup>  So in original. Probably should be “of”.
+<sup>1</sup> So in original. Probably should be “of”.
 
 Management and Budget, the Committee on Homeland Security and Governmental Affairs of the United States Senate, and the Committee on Oversight and Government Reform of the United States House of Representatives that includes—
 
@@ -239,15 +239,15 @@ Management and Budget, the Committee on Homeland Security and Governmental Affai
 
 **(3)** a comparison of the items listed in (1) and (2) with employees not covered by the demonstration project.
 
-(Added Pub. L. 95–454, title VI, § 601(a), Oct. 13, 1978, 92 Stat. 1186; amended Pub. L. 115–232, div. A, title XI, § 1106, Aug. 13, 2018, 132 Stat. 2001.)
+(Added Pub. L. 95–454, title VI, § 601(a), Oct. 13, 1978, 92 Stat. 1186; amended Pub. L. 115–232, div. A, title XI, § 1106, Aug. 13, 2018, 132 Stat. 2001.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (d)(2). Pub. L. 115–232, § 1106(1), added par. (2) and struck out former par. (2) which read as follows: “Not more than 10 active demonstration projects may be in effect at any time.”
+2018—Subsec. (d)(2). Pub. L. 115–232, § 1106(1), added par. (2) and struck out former par. (2) which read as follows: “Not more than 10 active demonstration projects may be in effect at any time.”
 
-Subsec. (j). Pub. L. 115–232, § 1106(2), added subsec. (j).
+Subsec. (j). Pub. L. 115–232, § 1106(2), added subsec. (j).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -261,13 +261,13 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 **Authority of Export-Import Bank To Conduct Demonstration Program**
 
-Pub. L. 104–97, § 2, Jan. 11, 1996, 109 Stat. 984, provided that: “Notwithstanding section 4701(a)(1)(A) of title 5, United States Code, the Export-Import Bank of the United States may conduct a demonstration project in accordance with section 4703 of such title.”
+Pub. L. 104–97, § 2, Jan. 11, 1996, 109 Stat. 984, provided that: “Notwithstanding section 4701(a)(1)(A) of title 5, United States Code, the Export-Import Bank of the United States may conduct a demonstration project in accordance with section 4703 of such title.”
 
-## § 4704. Allocation of funds
+## § 4704. Allocation of funds
 
 Funds appropriated to the Office of Personnel Management for the purpose of this chapter may be allocated by the Office to any agency conducting demonstration projects or assisting the Office in conducting such projects. Funds so allocated shall remain available for such period as may be specified in appropriation Acts. No contract shall be entered into under this chapter unless the contract has been provided for in advance in appropriation Acts.
 
-(Added Pub. L. 95–454, title VI, § 601(a), Oct. 13, 1978, 92 Stat. 1188.)
+(Added Pub. L. 95–454, title VI, § 601(a), Oct. 13, 1978, 92 Stat. 1188.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -275,17 +275,17 @@ Funds appropriated to the Office of Personnel Management for the purpose of this
 
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
-## § 4705. Regulations
+## § 4705. Regulations
 
 The Office of Personnel Management shall prescribe regulations to carry out the purpose of this chapter.
 
-(Added Pub. L. 95–454, title VI, § 601(a), Oct. 13, 1978, 92 Stat. 1188, § 4706; renumbered § 4705, Pub. L. 105–362, title XIII, § 1302(b)(2)(B)(i), Nov. 10, 1998, 112 Stat. 3293.)
+(Added Pub. L. 95–454, title VI, § 601(a), Oct. 13, 1978, 92 Stat. 1188, § 4706; renumbered § 4705, Pub. L. 105–362, title XIII, § 1302(b)(2)(B)(i), Nov. 10, 1998, 112 Stat. 3293.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4705, added Pub. L. 95–454, title VI, § 601(a), Oct. 13, 1978, 92 Stat. 1188, required annual report on research programs and demonstration projects, prior to repeal by Pub. L. 105–362, title XIII, § 1302(b)(2)(B)(i), Nov. 10, 1998, 112 Stat. 3293.
+A prior section 4705, added Pub. L. 95–454, title VI, § 601(a), Oct. 13, 1978, 92 Stat. 1188, required annual report on research programs and demonstration projects, prior to repeal by Pub. L. 105–362, title XIII, § 1302(b)(2)(B)(i), Nov. 10, 1998, 112 Stat. 3293.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -293,4 +293,4 @@ A prior section 4705, added Pub. L. 95–454, title VI, § 601(a), Oct. 13, 19
 
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
-## [§ 4706. Renumbered § 4705]
+## [§ 4706. Renumbered § 4705]

@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 48—AGENCY PERSONNEL DEMONSTRATION PROJECT
 
-## § 4801. Nonapplicability of chapter 47
+## § 4801. Nonapplicability of chapter 47
 
 Chapter 47 shall not apply to this chapter.
 
-(Added Pub. L. 107–123, § 8(a), Jan. 16, 2002, 115 Stat. 2398.)
+(Added Pub. L. 107–123, § 8(a), Jan. 16, 2002, 115 Stat. 2398.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -27,7 +27,7 @@ Chapter 47 shall not apply to this chapter.
 
 Section effective Oct. 1, 2001, see section 11 of Pub. L. 107–123, set out as an Effective Date of 2002 Amendment note under section 78ee of Title 15, Commerce and Trade.
 
-## § 4802. Securities and Exchange Commission
+## § 4802. Securities and Exchange Commission
 
 **(a)** In this section, the term “Commission” means the Securities and Exchange Commission.
 
@@ -41,7 +41,7 @@ Section effective Oct. 1, 2001, see section 11 of Pub. L. 107–123, set out as 
 
 **(f)** This section shall be administered consistent with merit system principles.
 
-(Added Pub. L. 107–123, § 8(a), Jan. 16, 2002, 115 Stat. 2398.)
+(Added Pub. L. 107–123, § 8(a), Jan. 16, 2002, 115 Stat. 2398.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -51,11 +51,11 @@ Section effective Oct. 1, 2001, see section 11 of Pub. L. 107–123, set out as 
 
 **Employees Represented by Labor Organizations**
 
-Pub. L. 107–123, § 8(b), Jan. 16, 2002, 115 Stat. 2398, provided that: “To the extent that any employee of the Securities and Exchange Commission is represented by a labor organization with exclusive recognition in accordance with chapter 71 of title 5, United States Code, no reduction in base pay of such employee shall be made by reason of enactment of this section [enacting this chapter, amending sections 3132 and 5373 of this title, section 1833b of Title 12, Banks and Banking, and section 78d of Title 15, Commerce and Trade, and enacting provisions set out as a note under this section] (including the amendments made by this section).”
+Pub. L. 107–123, § 8(b), Jan. 16, 2002, 115 Stat. 2398, provided that: “To the extent that any employee of the Securities and Exchange Commission is represented by a labor organization with exclusive recognition in accordance with chapter 71 of title 5, United States Code, no reduction in base pay of such employee shall be made by reason of enactment of this section [enacting this chapter, amending sections 3132 and 5373 of this title, section 1833b of Title 12, Banks and Banking, and section 78d of Title 15, Commerce and Trade, and enacting provisions set out as a note under this section] (including the amendments made by this section).”
 
 **Implementation Plan and Report**
 
-Pub. L. 107–123, § 8(c), Jan. 16, 2002, 115 Stat. 2398, provided that:
+Pub. L. 107–123, § 8(c), Jan. 16, 2002, 115 Stat. 2398, provided that:
 
 > **“(1) Implementation plan.—**
 

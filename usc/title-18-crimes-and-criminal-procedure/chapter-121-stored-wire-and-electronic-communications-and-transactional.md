@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–141, div. V, § 103(a)(2), Mar. 23, 2018, 132 Stat. 1214, added item 2713.
+2018—Pub. L. 115–141, div. V, § 103(a)(2), Mar. 23, 2018, 132 Stat. 1214, added item 2713.
 
-2002—Pub. L. 107–273, div. B, title IV, § 4005(b), Nov. 2, 2002, 116 Stat. 1812, made technical correction to directory language of Pub. L. 107–56, title II, § 223(c)(2), Oct. 26, 2001, 115 Stat. 295, effective Oct. 26, 2001. See 2001 Amendment note below.
+2002—Pub. L. 107–273, div. B, title IV, § 4005(b), Nov. 2, 2002, 116 Stat. 1812, made technical correction to directory language of Pub. L. 107–56, title II, § 223(c)(2), Oct. 26, 2001, 115 Stat. 295, effective Oct. 26, 2001. See 2001 Amendment note below.
 
-2001—Pub. L. 107–56, title II, §§ 223(c)(2), 224, Oct. 26, 2001, 115 Stat. 295, as amended by Pub. L. 107–273, div. B, title IV, § 4005(b), Nov. 2, 2002, 116 Stat. 1812, temporarily added item 2712.
+2001—Pub. L. 107–56, title II, §§ 223(c)(2), 224, Oct. 26, 2001, 115 Stat. 295, as amended by Pub. L. 107–273, div. B, title IV, § 4005(b), Nov. 2, 2002, 116 Stat. 1812, temporarily added item 2712.
 
-Pub. L. 107–56, title II, §§ 212(a)(2), (b)(2), 224, Oct. 26, 2001, 115 Stat. 285, 295, temporarily substituted “Voluntary disclosure of customer communications or records” for “Disclosure of contents” in item 2702 and “Required disclosure of customer communications or records” for “Requirements for governmental access” in item 2703.
+Pub. L. 107–56, title II, §§ 212(a)(2), (b)(2), 224, Oct. 26, 2001, 115 Stat. 285, 295, temporarily substituted “Voluntary disclosure of customer communications or records” for “Disclosure of contents” in item 2702 and “Required disclosure of customer communications or records” for “Requirements for governmental access” in item 2703.
 
-1988—Pub. L. 100–690, title VII, § 7067, Nov. 18, 1988, 102 Stat. 4405, which directed amendment of item 2710 by inserting “for chapter” after “Definitions” was executed by making the insertion in item 2711 to reflect the probable intent of Congress and the intervening redesignation of item 2710 as 2711 by Pub. L. 100–618, see below.
+1988—Pub. L. 100–690, title VII, § 7067, Nov. 18, 1988, 102 Stat. 4405, which directed amendment of item 2710 by inserting “for chapter” after “Definitions” was executed by making the insertion in item 2711 to reflect the probable intent of Congress and the intervening redesignation of item 2710 as 2711 by Pub. L. 100–618, see below.
 
-Pub. L. 100–618, § 2(b), Nov. 5, 1988, 102 Stat. 3197, added item 2710 and redesignated former item 2710 as 2711.
+Pub. L. 100–618, § 2(b), Nov. 5, 1988, 102 Stat. 3197, added item 2710 and redesignated former item 2710 as 2711.
 
-## § 2701. Unlawful access to stored communications
+## § 2701. Unlawful access to stored communications
 
 **(a) Offense.—** Except as provided in subsection (c) of this section whoever—
 
@@ -63,25 +63,25 @@ and thereby obtains, alters, or prevents authorized access to a wire or electron
 
 **(3)** in section 2703, 2704 or 2518 of this title.
 
-(Added Pub. L. 99–508, title II, § 201[(a)], Oct. 21, 1986, 100 Stat. 1860; amended Pub. L. 103–322, title XXXIII, § 330016(1)(K), (U), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 104–294, title VI, § 601(a)(3), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 107–296, title XXII, § 2207(j)(2), formerly title II, § 225(j)(2), Nov. 25, 2002, 116 Stat. 2158, renumbered § 2207(j)(2), Pub. L. 115–278, § 2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178.)
+(Added Pub. L. 99–508, title II, § 201[(a)], Oct. 21, 1986, 100 Stat. 1860; amended Pub. L. 103–322, title XXXIII, § 330016(1)(K), (U), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 104–294, title VI, § 601(a)(3), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 107–296, title XXII, § 2207(j)(2), formerly title II, § 225(j)(2), Nov. 25, 2002, 116 Stat. 2158, renumbered § 2207(j)(2), Pub. L. 115–278, § 2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Subsec. (b)(1). Pub. L. 107–296, § 2207(j)(2)(A), formerly § 225(j)(2)(A), as renumbered by Pub. L. 115–278, § 2(g)(2)(I), in introductory provisions, inserted “, or in furtherance of any criminal or tortious act in violation of the Constitution or laws of the United States or any State” after “commercial gain”.
+2002—Subsec. (b)(1). Pub. L. 107–296, § 2207(j)(2)(A), formerly § 225(j)(2)(A), as renumbered by Pub. L. 115–278, § 2(g)(2)(I), in introductory provisions, inserted “, or in furtherance of any criminal or tortious act in violation of the Constitution or laws of the United States or any State” after “commercial gain”.
 
-Subsec. (b)(1)(A). Pub. L. 107–296, § 2207(j)(2)(B), formerly § 225(j)(2)(B), as renumbered by Pub. L. 115–278, § 2(g)(2)(I), substituted “5 years” for “one year”.
+Subsec. (b)(1)(A). Pub. L. 107–296, § 2207(j)(2)(B), formerly § 225(j)(2)(B), as renumbered by Pub. L. 115–278, § 2(g)(2)(I), substituted “5 years” for “one year”.
 
-Subsec. (b)(1)(B). Pub. L. 107–296, § 2207(j)(2)(C), formerly § 225(j)(2)(C), as renumbered by Pub. L. 115–278, § 2(g)(2)(I), substituted “10 years” for “two years”.
+Subsec. (b)(1)(B). Pub. L. 107–296, § 2207(j)(2)(C), formerly § 225(j)(2)(C), as renumbered by Pub. L. 115–278, § 2(g)(2)(I), substituted “10 years” for “two years”.
 
-Subsec. (b)(2). Pub. L. 107–296, § 2207(j)(2)(D), formerly § 225(j)(2)(D), as renumbered by Pub. L. 115–278, § 2(g)(2)(I), added par. (2) and struck out former par. (2) which read as follows: “a fine under this title or imprisonment for not more than six months, or both, in any other case.”
+Subsec. (b)(2). Pub. L. 107–296, § 2207(j)(2)(D), formerly § 225(j)(2)(D), as renumbered by Pub. L. 115–278, § 2(g)(2)(I), added par. (2) and struck out former par. (2) which read as follows: “a fine under this title or imprisonment for not more than six months, or both, in any other case.”
 
 1996—Subsec. (b)(1)(A), (2). Pub. L. 104–294 substituted “fine under this title” for “fine of under this title”.
 
-1994—Subsec. (b)(1)(A). Pub. L. 103–322, § 330016(1)(U), substituted “under this title” for “not more than $250,000”.
+1994—Subsec. (b)(1)(A). Pub. L. 103–322, § 330016(1)(U), substituted “under this title” for “not more than $250,000”.
 
-Subsec. (b)(2). Pub. L. 103–322, § 330016(1)(K), substituted “under this title” for “not more than $5,000”.
+Subsec. (b)(2). Pub. L. 103–322, § 330016(1)(K), substituted “under this title” for “not more than $5,000”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -91,17 +91,17 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 **Effective Date**
 
-Pub. L. 99–508, title II, § 202, Oct. 21, 1986, 100 Stat. 1868, provided that: “This title and the amendments made by this title [enacting this chapter] shall take effect ninety days after the date of the enactment of this Act [Oct. 21, 1986] and shall, in the case of conduct pursuant to a court order or extension, apply only with respect to court orders or extensions made after this title takes effect.”
+Pub. L. 99–508, title II, § 202, Oct. 21, 1986, 100 Stat. 1868, provided that: “This title and the amendments made by this title [enacting this chapter] shall take effect ninety days after the date of the enactment of this Act [Oct. 21, 1986] and shall, in the case of conduct pursuant to a court order or extension, apply only with respect to court orders or extensions made after this title takes effect.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–618, § 1, Nov. 5, 1988, 102 Stat. 3195, provided that: “This Act [enacting section 2710 of this title and renumbering former section 2710 as 2711 of this title] may be cited as the ‘Video Privacy Protection Act of 1988’.”
+Pub. L. 100–618, § 1, Nov. 5, 1988, 102 Stat. 3195, provided that: “This Act [enacting section 2710 of this title and renumbering former section 2710 as 2711 of this title] may be cited as the ‘Video Privacy Protection Act of 1988’.”
 
 **Short Title**
 
 This chapter is popularly known as the “Stored Communications Act”.
 
-## § 2702. Voluntary disclosure of customer communications or records
+## § 2702. Voluntary disclosure of customer communications or records
 
 **(a) Prohibitions.—** Except as provided in subsection (b) or (c)—
 
@@ -137,7 +137,7 @@ This chapter is popularly known as the “Stored Communications Act”.
 
 **(ii)** appear to pertain to the commission of a crime; or
 
-**[(B)** Repealed. Pub. L. 108–21, title V, § 508(b)(1)(A), Apr. 30, 2003, 117 Stat. 684]
+**[(B)** Repealed. Pub. L. 108–21, title V, § 508(b)(1)(A), Apr. 30, 2003, 117 Stat. 684]
 
 **(8)** to a governmental entity, if the provider, in good faith, believes that an emergency involving danger of death or serious physical injury to any person requires disclosure without delay of communications relating to the emergency; or
 
@@ -171,55 +171,55 @@ This chapter is popularly known as the “Stored Communications Act”.
 
 **(3)** the number of accounts from which the Department of Justice has received voluntary disclosures under subsection (c)(4).
 
-(Added Pub. L. 99–508, title II, § 201[(a)], Oct. 21, 1986, 100 Stat. 1860; amended Pub. L. 100–690, title VII, § 7037, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 105–314, title VI, § 604(b), Oct. 30, 1998, 112 Stat. 2984; Pub. L. 107–56, title II, § 212(a)(1), Oct. 26, 2001, 115 Stat. 284; Pub. L. 107–296, title XXII, § 2207(d)(1), formerly title II, § 225(d)(1), Nov. 25, 2002, 116 Stat. 2157, renumbered § 2207(d)(1), Pub. L. 115–278, § 2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 108–21, title V, § 508(b), Apr. 30, 2003, 117 Stat. 684; Pub. L. 109–177, title I, § 107(a), (b)(1), (c), Mar. 9, 2006, 120 Stat. 202, 203; Pub. L. 110–401, title V, § 501(b)(2), Oct. 13, 2008, 122 Stat. 4251; Pub. L. 114–23, title VI, § 602(d), June 2, 2015, 129 Stat. 295; Pub. L. 115–141, div. V, § 104(2)(A), Mar. 23, 2018, 132 Stat. 1216.)
+(Added Pub. L. 99–508, title II, § 201[(a)], Oct. 21, 1986, 100 Stat. 1860; amended Pub. L. 100–690, title VII, § 7037, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 105–314, title VI, § 604(b), Oct. 30, 1998, 112 Stat. 2984; Pub. L. 107–56, title II, § 212(a)(1), Oct. 26, 2001, 115 Stat. 284; Pub. L. 107–296, title XXII, § 2207(d)(1), formerly title II, § 225(d)(1), Nov. 25, 2002, 116 Stat. 2157, renumbered § 2207(d)(1), Pub. L. 115–278, § 2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 108–21, title V, § 508(b), Apr. 30, 2003, 117 Stat. 684; Pub. L. 109–177, title I, § 107(a), (b)(1), (c), Mar. 9, 2006, 120 Stat. 202, 203; Pub. L. 110–401, title V, § 501(b)(2), Oct. 13, 2008, 122 Stat. 4251; Pub. L. 114–23, title VI, § 602(d), June 2, 2015, 129 Stat. 295; Pub. L. 115–141, div. V, § 104(2)(A), Mar. 23, 2018, 132 Stat. 1216.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (b)(9). Pub. L. 115–141, § 104(2)(A)(i), added par. (9).
+2018—Subsec. (b)(9). Pub. L. 115–141, § 104(2)(A)(i), added par. (9).
 
-Subsec. (c)(7). Pub. L. 115–141, § 104(2)(A)(ii), added par. (7).
+Subsec. (c)(7). Pub. L. 115–141, § 104(2)(A)(ii), added par. (7).
 
 2015—Subsec. (d)(3). Pub. L. 114–23 added par. (3).
 
 2008—Subsecs. (b)(6), (c)(5). Pub. L. 110–401 substituted “section 2258A” for “section 227 of the Victims of Child Abuse Act of 1990 (42 U.S.C. 13032)”.
 
-2006—Subsec. (a). Pub. L. 109–177, § 107(c), inserted “or (c)” after “Except as provided in subsection (b)”.
+2006—Subsec. (a). Pub. L. 109–177, § 107(c), inserted “or (c)” after “Except as provided in subsection (b)”.
 
-Subsec. (b)(8). Pub. L. 109–177, § 107(b)(1)(A), struck out “Federal, State, or local” before “governmental entity”.
+Subsec. (b)(8). Pub. L. 109–177, § 107(b)(1)(A), struck out “Federal, State, or local” before “governmental entity”.
 
-Subsec. (c)(4). Pub. L. 109–177, § 107(b)(1)(B), added par. (4) and struck out former par. (4) which read as follows: “to a governmental entity, if the provider reasonably believes that an emergency involving immediate danger of death or serious physical injury to any person justifies disclosure of the information;”.
+Subsec. (c)(4). Pub. L. 109–177, § 107(b)(1)(B), added par. (4) and struck out former par. (4) which read as follows: “to a governmental entity, if the provider reasonably believes that an emergency involving immediate danger of death or serious physical injury to any person justifies disclosure of the information;”.
 
-Subsec. (d). Pub. L. 109–177, § 107(a), added subsec. (d).
+Subsec. (d). Pub. L. 109–177, § 107(a), added subsec. (d).
 
-2003—Subsec. (b)(5). Pub. L. 108–21, § 508(b)(1)(C), which directed amendment of par. (5) by striking “or” at the end, could not be executed because “or” did not appear at the end. See 2002 Amendment note below.
+2003—Subsec. (b)(5). Pub. L. 108–21, § 508(b)(1)(C), which directed amendment of par. (5) by striking “or” at the end, could not be executed because “or” did not appear at the end. See 2002 Amendment note below.
 
-Subsec. (b)(6). Pub. L. 108–21, § 508(b)(1)(D), added par. (6). Former par. (6) redesignated (7).
+Subsec. (b)(6). Pub. L. 108–21, § 508(b)(1)(D), added par. (6). Former par. (6) redesignated (7).
 
-Subsec. (b)(6)(B). Pub. L. 108–21, § 508(b)(1)(A), struck out subpar. (B) which read as follows: “if required by section 227 of the Crime Control Act of 1990; or”.
+Subsec. (b)(6)(B). Pub. L. 108–21, § 508(b)(1)(A), struck out subpar. (B) which read as follows: “if required by section 227 of the Crime Control Act of 1990; or”.
 
-Subsec. (b)(7), (8). Pub. L. 108–21, § 508(b)(1)(B), redesignated pars. (6) and (7) as (7) and (8), respectively.
+Subsec. (b)(7), (8). Pub. L. 108–21, § 508(b)(1)(B), redesignated pars. (6) and (7) as (7) and (8), respectively.
 
-Subsec. (c)(5), (6). Pub. L. 108–21, § 508(b)(2), added par. (5) and redesignated former par. (5) as (6).
+Subsec. (c)(5), (6). Pub. L. 108–21, § 508(b)(2), added par. (5) and redesignated former par. (5) as (6).
 
-2002—Subsec. (b)(5). Pub. L. 107–296, § 2207(d)(1)(A), formerly § 225(d)(1)(A), as renumbered by Pub. L. 115–278, § 2(g)(2)(I), struck out “or” at end.
+2002—Subsec. (b)(5). Pub. L. 107–296, § 2207(d)(1)(A), formerly § 225(d)(1)(A), as renumbered by Pub. L. 115–278, § 2(g)(2)(I), struck out “or” at end.
 
-Subsec. (b)(6)(A). Pub. L. 107–296, § 2207(d)(1)(B), formerly § 225(d)(1)(B), as renumbered by Pub. L. 115–278, § 2(g)(2)(I), inserted “or” at end.
+Subsec. (b)(6)(A). Pub. L. 107–296, § 2207(d)(1)(B), formerly § 225(d)(1)(B), as renumbered by Pub. L. 115–278, § 2(g)(2)(I), inserted “or” at end.
 
-Subsec. (b)(6)(C). Pub. L. 107–296, § 2207(d)(1)(C), formerly § 225(d)(1)(C), as renumbered by Pub. L. 115–278, § 2(g)(2)(I), struck out subpar. (C) which read as follows: “if the provider reasonably believes that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of the information without delay.”
+Subsec. (b)(6)(C). Pub. L. 107–296, § 2207(d)(1)(C), formerly § 225(d)(1)(C), as renumbered by Pub. L. 115–278, § 2(g)(2)(I), struck out subpar. (C) which read as follows: “if the provider reasonably believes that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of the information without delay.”
 
-Subsec. (b)(7). Pub. L. 107–296, § 2207(d)(1)(D), formerly § 225(d)(1)(D), as renumbered by Pub. L. 115–278, § 2(g)(2)(I), added par. (7).
+Subsec. (b)(7). Pub. L. 107–296, § 2207(d)(1)(D), formerly § 225(d)(1)(D), as renumbered by Pub. L. 115–278, § 2(g)(2)(I), added par. (7).
 
-2001—Pub. L. 107–56, § 212(a)(1)(A), substituted “Voluntary disclosure of customer communications or records” for “Disclosure of contents” in section catchline.
+2001—Pub. L. 107–56, § 212(a)(1)(A), substituted “Voluntary disclosure of customer communications or records” for “Disclosure of contents” in section catchline.
 
-Subsec. (a)(3). Pub. L. 107–56, § 212(a)(1)(B), added par. (3).
+Subsec. (a)(3). Pub. L. 107–56, § 212(a)(1)(B), added par. (3).
 
-Subsec. (b). Pub. L. 107–56, § 212(a)(1)(C), substituted “Exceptions for disclosure of communications” for “Exceptions” in heading and “A provider described in subsection (a)” for “A person or entity” in introductory provisions.
+Subsec. (b). Pub. L. 107–56, § 212(a)(1)(C), substituted “Exceptions for disclosure of communications” for “Exceptions” in heading and “A provider described in subsection (a)” for “A person or entity” in introductory provisions.
 
-Subsec. (b)(6)(C). Pub. L. 107–56, § 212(a)(1)(D), added subpar. (C).
+Subsec. (b)(6)(C). Pub. L. 107–56, § 212(a)(1)(D), added subpar. (C).
 
-Subsec. (c). Pub. L. 107–56, § 212(a)(1)(E), added subsec. (c).
+Subsec. (c). Pub. L. 107–56, § 212(a)(1)(E), added subsec. (c).
 
 1998—Subsec. (b)(6). Pub. L. 105–314 amended par. (6) generally. Prior to amendment, par. (6) read as follows: “to a law enforcement agency, if such contents—
 
@@ -239,7 +239,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 Section effective 90 days after Oct. 21, 1986, and, in the case of conduct pursuant to a court order or extension, applicable only with respect to court orders or extensions made after such effective date, see section 202 of Pub. L. 99–508, set out as a note under section 2701 of this title.
 
-## § 2703. Required disclosure of customer communications or records
+## § 2703. Required disclosure of customer communications or records
 
 **(a) Contents of Wire or Electronic Communications in Electronic Storage.—** A governmental entity may require the disclosure by a provider of electronic communication service of the contents of a wire or electronic communication, that is in electronic storage in an electronic communications system for one hundred and eighty days or less, only pursuant to a warrant issued using the procedures described in the Federal Rules of Criminal Procedure (or, in the case of a State court, issued using State warrant procedures and, in the case of a court-martial or other proceeding under chapter 47 of title 10 (the Uniform Code of Military Justice), issued under section 846 of that title, in accordance with regulations prescribed by the President) by a court of competent jurisdiction. A governmental entity may require the disclosure by a provider of electronic communications services of the contents of a wire or electronic communication that has been in electronic storage in an electronic communications system for more than one hundred and eighty days by the means available under subsection (b) of this section.
 
@@ -363,7 +363,7 @@ Such a motion shall be filed not later than 14 days after the date on which the 
 
 **(B)** Nothing in this paragraph shall be construed to modify or otherwise affect any other authority to make a motion to modify or quash a protective order issued under section 2705.
 
-(Added Pub. L. 99–508, title II, § 201[(a)], Oct. 21, 1986, 100 Stat. 1861; amended Pub. L. 100–690, title VII, §§ 7038, 7039, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title XXXIII, § 330003(b), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 103–414, title II, § 207(a), Oct. 25, 1994, 108 Stat. 4292; Pub. L. 104–132, title VIII, § 804, Apr. 24, 1996, 110 Stat. 1305; Pub. L. 104–293, title VI, § 601(b), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 104–294, title VI, § 605(f), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 105–184, § 8, June 23, 1998, 112 Stat. 522; Pub. L. 107–56, title II, §§ 209(2), 210, 212(b)(1), 220(a)(1), (b), Oct. 26, 2001, 115 Stat. 283, 285, 291, 292; Pub. L. 107–273, div. B, title IV, § 4005(a)(2), div. C, title I, § 11010, Nov. 2, 2002, 116 Stat. 1812, 1822; Pub. L. 107–296, title XXII, § 2207(h)(1), formerly title II, § 225(h)(1), Nov. 25, 2002, 116 Stat. 2158, renumbered § 2207(h)(1), Pub. L. 115–278, § 2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 109–162, title XI, § 1171(a)(1), Jan. 5, 2006, 119 Stat. 3123; Pub. L. 111–79, § 2(1), Oct. 19, 2009, 123 Stat. 2086; Pub. L. 114–328, div. E, title LVII, § 5228(b)(1), Dec. 23, 2016, 130 Stat. 2912; Pub. L. 115–141, div. V, § 103(b), Mar. 23, 2018, 132 Stat. 1214.)
+(Added Pub. L. 99–508, title II, § 201[(a)], Oct. 21, 1986, 100 Stat. 1861; amended Pub. L. 100–690, title VII, §§ 7038, 7039, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title XXXIII, § 330003(b), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 103–414, title II, § 207(a), Oct. 25, 1994, 108 Stat. 4292; Pub. L. 104–132, title VIII, § 804, Apr. 24, 1996, 110 Stat. 1305; Pub. L. 104–293, title VI, § 601(b), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 104–294, title VI, § 605(f), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 105–184, § 8, June 23, 1998, 112 Stat. 522; Pub. L. 107–56, title II, §§ 209(2), 210, 212(b)(1), 220(a)(1), (b), Oct. 26, 2001, 115 Stat. 283, 285, 291, 292; Pub. L. 107–273, div. B, title IV, § 4005(a)(2), div. C, title I, § 11010, Nov. 2, 2002, 116 Stat. 1812, 1822; Pub. L. 107–296, title XXII, § 2207(h)(1), formerly title II, § 225(h)(1), Nov. 25, 2002, 116 Stat. 2158, renumbered § 2207(h)(1), Pub. L. 115–278, § 2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 109–162, title XI, § 1171(a)(1), Jan. 5, 2006, 119 Stat. 3123; Pub. L. 111–79, § 2(1), Oct. 19, 2009, 123 Stat. 2086; Pub. L. 114–328, div. E, title LVII, § 5228(b)(1), Dec. 23, 2016, 130 Stat. 2912; Pub. L. 115–141, div. V, § 103(b), Mar. 23, 2018, 132 Stat. 1214.)
 
 **Editorial Notes**
 
@@ -381,33 +381,33 @@ The Federal Rules of Criminal Procedure, referred to in subsecs. (a), (b)(1)(A),
 
 2006—Subsec. (c)(1)(C). Pub. L. 109–162 struck out “or” at end.
 
-2002—Subsec. (c)(1)(E). Pub. L. 107–273, § 4005(a)(2), realigned margins.
+2002—Subsec. (c)(1)(E). Pub. L. 107–273, § 4005(a)(2), realigned margins.
 
-Subsec. (e). Pub. L. 107–296 inserted “, statutory authorization” after “subpoena”.
+Subsec. (e). Pub. L. 107–296 inserted “, statutory authorization” after “subpoena”.
 
-Subsec. (g). Pub. L. 107–273, § 11010, added subsec. (g).
+Subsec. (g). Pub. L. 107–273, § 11010, added subsec. (g).
 
-2001—Pub. L. 107–56, § 212(b)(1)(A), substituted “Required disclosure of customer communications or records” for “Requirements for governmental access” in section catchline.
+2001—Pub. L. 107–56, § 212(b)(1)(A), substituted “Required disclosure of customer communications or records” for “Requirements for governmental access” in section catchline.
 
-Subsec. (a). Pub. L. 107–56, §§ 209(2)(A), (B), 220(a)(1), substituted “Contents of Wire or Electronic” for “Contents of Electronic” in heading and “contents of a wire or electronic” for “contents of an electronic” in two places and “using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation” for “under the Federal Rules of Criminal Procedure” in text.
+Subsec. (a). Pub. L. 107–56, §§ 209(2)(A), (B), 220(a)(1), substituted “Contents of Wire or Electronic” for “Contents of Electronic” in heading and “contents of a wire or electronic” for “contents of an electronic” in two places and “using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation” for “under the Federal Rules of Criminal Procedure” in text.
 
-Subsec. (b). Pub. L. 107–56, § 209(2)(A), substituted “Contents of Wire or Electronic” for “Contents of Electronic” in heading.
+Subsec. (b). Pub. L. 107–56, § 209(2)(A), substituted “Contents of Wire or Electronic” for “Contents of Electronic” in heading.
 
-Subsec. (b)(1). Pub. L. 107–56, §§ 209(2)(C), 220(a)(1), substituted “any wire or electronic communication” for “any electronic communication” in introductory provisions and “using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation” for “under the Federal Rules of Criminal Procedure” in subpar. (A).
+Subsec. (b)(1). Pub. L. 107–56, §§ 209(2)(C), 220(a)(1), substituted “any wire or electronic communication” for “any electronic communication” in introductory provisions and “using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation” for “under the Federal Rules of Criminal Procedure” in subpar. (A).
 
-Subsec. (b)(2). Pub. L. 107–56, § 209(2)(C), substituted “any wire or electronic communication” for “any electronic communication” in introductory provisions.
+Subsec. (b)(2). Pub. L. 107–56, § 209(2)(C), substituted “any wire or electronic communication” for “any electronic communication” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 107–56, §§ 212(b)(1)(C), 220(a)(1), designated subpar. (A) and introductory provisions of subpar. (B) as par. (1), substituted “A governmental entity may require a provider of electronic communication service or remote computing service to” for “(A) Except as provided in subparagraph (B), a provider of electronic communication service or remote computing service may” and a closing parenthesis for provisions which began with “covered by subsection (a) or (b) of this section) to any person other than a governmental entity.” in former subpar. (A) and ended with “(B) A provider of electronic communication service or remote computing service shall disclose a record or other information pertaining to a subscriber to or customer of such service (not including the contents of communications covered by subsection (a) or (b) of this section) to a governmental entity”, redesignated clauses (i) to (iv) of former subpar. (B) as subpars. (A) to (D), respectively, substituted “using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation” for “under the Federal Rules of Criminal Procedure” in subpar. (A) and “; or” for period at end of subpar. (D), added subpar. (E), and redesignated former subpar. (C) as par. (2).
+Subsec. (c)(1). Pub. L. 107–56, §§ 212(b)(1)(C), 220(a)(1), designated subpar. (A) and introductory provisions of subpar. (B) as par. (1), substituted “A governmental entity may require a provider of electronic communication service or remote computing service to” for “(A) Except as provided in subparagraph (B), a provider of electronic communication service or remote computing service may” and a closing parenthesis for provisions which began with “covered by subsection (a) or (b) of this section) to any person other than a governmental entity.” in former subpar. (A) and ended with “(B) A provider of electronic communication service or remote computing service shall disclose a record or other information pertaining to a subscriber to or customer of such service (not including the contents of communications covered by subsection (a) or (b) of this section) to a governmental entity”, redesignated clauses (i) to (iv) of former subpar. (B) as subpars. (A) to (D), respectively, substituted “using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation” for “under the Federal Rules of Criminal Procedure” in subpar. (A) and “; or” for period at end of subpar. (D), added subpar. (E), and redesignated former subpar. (C) as par. (2).
 
-Subsec. (c)(2). Pub. L. 107–56, § 210, amended par. (2), as redesignated by section 212 of Pub. L. 107–56, by substituting “entity the—” for “entity the name, address, local and long distance telephone toll billing records, telephone number or other subscriber number or identity, and length of service of a subscriber” in introductory provisions, inserting subpars. (A) to (F), striking out “and the types of services the subscriber or customer utilized,” before “when the governmental entity uses an administrative subpoena”, inserting “of a subscriber” at beginning of concluding provisions and designating “to or customer of such service when the governmental entity uses an administrative subpoena authorized by a Federal or State statute or a Federal or State grand jury or trial subpoena or any means available under paragraph (1).” as remainder of concluding provisions.
+Subsec. (c)(2). Pub. L. 107–56, § 210, amended par. (2), as redesignated by section 212 of Pub. L. 107–56, by substituting “entity the—” for “entity the name, address, local and long distance telephone toll billing records, telephone number or other subscriber number or identity, and length of service of a subscriber” in introductory provisions, inserting subpars. (A) to (F), striking out “and the types of services the subscriber or customer utilized,” before “when the governmental entity uses an administrative subpoena”, inserting “of a subscriber” at beginning of concluding provisions and designating “to or customer of such service when the governmental entity uses an administrative subpoena authorized by a Federal or State statute or a Federal or State grand jury or trial subpoena or any means available under paragraph (1).” as remainder of concluding provisions.
 
-Pub. L. 107–56, § 212(b)(1)(C)(iii), (D), redesignated subpar. (C) of par. (1) as par. (2) and temporarily substituted “paragraph (1)” for “subparagraph (B)”.
+Pub. L. 107–56, § 212(b)(1)(C)(iii), (D), redesignated subpar. (C) of par. (1) as par. (2) and temporarily substituted “paragraph (1)” for “subparagraph (B)”.
 
-Pub. L. 107–56, § 212(b)(1)(B), redesignated par. (2) as (3).
+Pub. L. 107–56, § 212(b)(1)(B), redesignated par. (2) as (3).
 
-Subsec. (c)(3). Pub. L. 107–56, § 212(b)(1)(B), redesignated par. (2) as (3).
+Subsec. (c)(3). Pub. L. 107–56, § 212(b)(1)(B), redesignated par. (2) as (3).
 
-Subsec. (d). Pub. L. 107–56, § 220(b), struck out “described in section 3127(2)(A)” after “court of competent jurisdiction”.
+Subsec. (d). Pub. L. 107–56, § 220(b), struck out “described in section 3127(2)(A)” after “court of competent jurisdiction”.
 
 1998—Subsec. (c)(1)(B)(iv). Pub. L. 105–184 added cl. (iv).
 
@@ -417,17 +417,17 @@ Subsec. (d). Pub. L. 104–294 substituted “in section 3127(2)(A)” for “in
 
 Subsec. (f). Pub. L. 104–132 added subsec. (f).
 
-1994—Subsec. (c)(1)(B). Pub. L. 103–414, § 207(a)(1)(A), redesignated cls. (ii) to (iv) as (i) to (iii), respectively, and struck out former cl. (i) which read as follows: “uses an administrative subpoena authorized by a Federal or State statute, or a Federal or State grand jury or trial subpoena;”.
+1994—Subsec. (c)(1)(B). Pub. L. 103–414, § 207(a)(1)(A), redesignated cls. (ii) to (iv) as (i) to (iii), respectively, and struck out former cl. (i) which read as follows: “uses an administrative subpoena authorized by a Federal or State statute, or a Federal or State grand jury or trial subpoena;”.
 
-Subsec. (c)(1)(C). Pub. L. 103–414, § 207(a)(1)(B), added subpar. (C).
+Subsec. (c)(1)(C). Pub. L. 103–414, § 207(a)(1)(B), added subpar. (C).
 
-Subsec. (d). Pub. L. 103–414, § 207(a)(2), amended first sentence generally. Prior to amendment, first sentence read as follows: “A court order for disclosure under subsection (b) or (c) of this section may be issued by any court that is a court of competent jurisdiction set forth in section 3127(2)(A) of this title and shall issue only if the governmental entity shows that there is reason to believe the contents of a wire or electronic communication, or the records or other information sought, are relevant to a legitimate law enforcement inquiry.”
+Subsec. (d). Pub. L. 103–414, § 207(a)(2), amended first sentence generally. Prior to amendment, first sentence read as follows: “A court order for disclosure under subsection (b) or (c) of this section may be issued by any court that is a court of competent jurisdiction set forth in section 3127(2)(A) of this title and shall issue only if the governmental entity shows that there is reason to believe the contents of a wire or electronic communication, or the records or other information sought, are relevant to a legitimate law enforcement inquiry.”
 
 Pub. L. 103–322 substituted “section 3127(2)(A)” for “section 3126(2)(A)”.
 
-1988—Subsecs. (b)(1)(B)(i), (c)(1)(B)(i). Pub. L. 100–690, § 7038, inserted “or trial” after “grand jury”.
+1988—Subsecs. (b)(1)(B)(i), (c)(1)(B)(i). Pub. L. 100–690, § 7038, inserted “or trial” after “grand jury”.
 
-Subsec. (d). Pub. L. 100–690, § 7039, inserted “may be issued by any court that is a court of competent jurisdiction set forth in section 3126(2)(A) of this title and” before “shall issue”.
+Subsec. (d). Pub. L. 100–690, § 7039, inserted “may be issued by any court that is a court of competent jurisdiction set forth in section 3126(2)(A) of this title and” before “shall issue”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -445,9 +445,9 @@ Section effective 90 days after Oct. 21, 1986, and, in the case of conduct pursu
 
 **Rule of Construction**
 
-Pub. L. 115–141, div. V, § 103(c), Mar. 23, 2018, 132 Stat. 1216, provided that: “Nothing in this section [enacting section 2713 of this title and amending this section], or an amendment made by this section, shall be construed to modify or otherwise affect the common law standards governing the availability or application of comity analysis to other types of compulsory process or to instances of compulsory process issued under section 2703 of title 18, United States Code, as amended by this section, and not covered under subsection (h)(2) of such section 2703.”
+Pub. L. 115–141, div. V, § 103(c), Mar. 23, 2018, 132 Stat. 1216, provided that: “Nothing in this section [enacting section 2713 of this title and amending this section], or an amendment made by this section, shall be construed to modify or otherwise affect the common law standards governing the availability or application of comity analysis to other types of compulsory process or to instances of compulsory process issued under section 2703 of title 18, United States Code, as amended by this section, and not covered under subsection (h)(2) of such section 2703.”
 
-## § 2704. Backup preservation
+## § 2704. Backup preservation
 
 **(a) Backup Preservation.—**
 
@@ -485,7 +485,7 @@ Pub. L. 115–141, div. V, § 103(c), Mar. 23, 2018, 132 Stat. 1216, provided 
 
 **(5)** A court order denying a motion or application under this section shall not be deemed a final order and no interlocutory appeal may be taken therefrom by the customer.
 
-(Added Pub. L. 99–508, title II, § 201[(a)], Oct. 21, 1986, 100 Stat. 1863.)
+(Added Pub. L. 99–508, title II, § 201[(a)], Oct. 21, 1986, 100 Stat. 1863.)
 
 **Editorial Notes**
 
@@ -499,7 +499,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (b)(2), are set out
 
 Section effective 90 days after Oct. 21, 1986, and, in the case of conduct pursuant to a court order or extension, applicable only with respect to court orders or extensions made after such effective date, see section 202 of Pub. L. 99–508, set out as a note under section 2701 of this title.
 
-## § 2705. Delayed notice
+## § 2705. Delayed notice
 
 **(a) Delay of Notification.—**
 
@@ -553,7 +553,7 @@ Section effective 90 days after Oct. 21, 1986, and, in the case of conduct pursu
 
 **(5)** otherwise seriously jeopardizing an investigation or unduly delaying a trial.
 
-(Added Pub. L. 99–508, title II, § 201[(a)], Oct. 21, 1986, 100 Stat. 1864.)
+(Added Pub. L. 99–508, title II, § 201[(a)], Oct. 21, 1986, 100 Stat. 1864.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -561,7 +561,7 @@ Section effective 90 days after Oct. 21, 1986, and, in the case of conduct pursu
 
 Section effective 90 days after Oct. 21, 1986, and, in the case of conduct pursuant to a court order or extension, applicable only with respect to court orders or extensions made after such effective date, see section 202 of Pub. L. 99–508, set out as a note under section 2701 of this title.
 
-## § 2706. Cost reimbursement
+## § 2706. Cost reimbursement
 
 **(a) Payment.—** Except as otherwise provided in subsection (c), a governmental entity obtaining the contents of communications, records, or other information under section 2702, 2703, or 2704 of this title shall pay to the person or entity assembling or providing such information a fee for reimbursement for such costs as are reasonably necessary and which have been directly incurred in searching for, assembling, reproducing, or otherwise providing such information. Such reimbursable costs shall include any costs due to necessary disruption of normal operations of any electronic communication service or remote computing service in which such information may be stored.
 
@@ -569,7 +569,7 @@ Section effective 90 days after Oct. 21, 1986, and, in the case of conduct pursu
 
 **(c) Exception.—** The requirement of subsection (a) of this section does not apply with respect to records or other information maintained by a communications common carrier that relate to telephone toll records and telephone listings obtained under section 2703 of this title. The court may, however, order a payment as described in subsection (a) if the court determines the information required is unusually voluminous in nature or otherwise caused an undue burden on the provider.
 
-(Added Pub. L. 99–508, title II, § 201[(a)], Oct. 21, 1986, 100 Stat. 1866; amended Pub. L. 100–690, title VII, § 7061, Nov. 18, 1988, 102 Stat. 4404.)
+(Added Pub. L. 99–508, title II, § 201[(a)], Oct. 21, 1986, 100 Stat. 1866; amended Pub. L. 100–690, title VII, § 7061, Nov. 18, 1988, 102 Stat. 4404.)
 
 **Editorial Notes**
 
@@ -583,7 +583,7 @@ Section effective 90 days after Oct. 21, 1986, and, in the case of conduct pursu
 
 Section effective 90 days after Oct. 21, 1986, and, in the case of conduct pursuant to a court order or extension, applicable only with respect to court orders or extensions made after such effective date, see section 202 of Pub. L. 99–508, set out as a note under section 2701 of this title.
 
-## § 2707. Civil action
+## § 2707. Civil action
 
 **(a) Cause of Action.—** Except as provided in section 2703(e), any provider of electronic communication service, subscriber, or other person aggrieved by any violation of this chapter in which the conduct constituting the violation is engaged in with a knowing or intentional state of mind may, in a civil action, recover from the person or entity, other than the United States, which engaged in that violation such relief as may be appropriate.
 
@@ -613,7 +613,7 @@ is a complete defense to any civil or criminal action brought under this chapter
 
 **(g) Improper Disclosure.—** Any willful disclosure of a “record”, as that term is defined in section 552a(a) of title 5, United States Code, obtained by an investigative or law enforcement officer, or a governmental entity, pursuant to section 2703 of this title, or from a device installed pursuant to section 3123 or 3125 of this title, that is not a disclosure made in the proper performance of the official functions of the officer or governmental entity making the disclosure, is a violation of this chapter. This provision shall not apply to information previously lawfully disclosed (prior to the commencement of any civil or administrative proceeding under this chapter) to the public by a Federal, State, or local governmental entity or by the plaintiff in a civil action under this chapter.
 
-(Added Pub. L. 99–508, title II, § 201[(a)], Oct. 21, 1986, 100 Stat. 1866; amended Pub. L. 104–293, title VI, § 601(c), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 107–56, title II, §§ 223(b), title VIII, § 815, Oct. 26, 2001, 115 Stat. 293, 384; Pub. L. 107–273, div. B, title IV, § 4005(f)(2), Nov. 2, 2002, 116 Stat. 1813; Pub. L. 115–141, div. V, § 104(2)(B), Mar. 23, 2018, 132 Stat. 1216.)
+(Added Pub. L. 99–508, title II, § 201[(a)], Oct. 21, 1986, 100 Stat. 1866; amended Pub. L. 104–293, title VI, § 601(c), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 107–56, title II, §§ 223(b), title VIII, § 815, Oct. 26, 2001, 115 Stat. 293, 384; Pub. L. 107–273, div. B, title IV, § 4005(f)(2), Nov. 2, 2002, 116 Stat. 1813; Pub. L. 115–141, div. V, § 104(2)(B), Mar. 23, 2018, 132 Stat. 1216.)
 
 **Editorial Notes**
 
@@ -621,37 +621,37 @@ is a complete defense to any civil or criminal action brought under this chapter
 
 2018—Subsec. (e)(3). Pub. L. 115–141 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “a good faith determination that section 2511(3) of this title permitted the conduct complained of;”.
 
-2002—Subsec. (e)(1). Pub. L. 107–273 made technical correction to directory language of Pub. L. 107–56, § 815. See 2001 Amendment note below.
+2002—Subsec. (e)(1). Pub. L. 107–273 made technical correction to directory language of Pub. L. 107–56, § 815. See 2001 Amendment note below.
 
-2001—Subsec. (a). Pub. L. 107–56, § 223(b)(1), inserted “, other than the United States,” after “person or entity”.
+2001—Subsec. (a). Pub. L. 107–56, § 223(b)(1), inserted “, other than the United States,” after “person or entity”.
 
-Subsec. (d). Pub. L. 107–56, § 223(b)(2), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “If a court determines that any agency or department of the United States has violated this chapter and the court finds that the circumstances surrounding the violation raise the question whether or not an officer or employee of the agency or department acted willfully or intentionally with respect to the violation, the agency or department concerned shall promptly initiate a proceeding to determine whether or not disciplinary action is warranted against the officer or employee.”
+Subsec. (d). Pub. L. 107–56, § 223(b)(2), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “If a court determines that any agency or department of the United States has violated this chapter and the court finds that the circumstances surrounding the violation raise the question whether or not an officer or employee of the agency or department acted willfully or intentionally with respect to the violation, the agency or department concerned shall promptly initiate a proceeding to determine whether or not disciplinary action is warranted against the officer or employee.”
 
-Subsec. (e)(1). Pub. L. 107–56, § 815, as amended by Pub. L. 107–273, inserted “(including a request of a governmental entity under section 2703(f) of this title)” after “or a statutory authorization”.
+Subsec. (e)(1). Pub. L. 107–56, § 815, as amended by Pub. L. 107–273, inserted “(including a request of a governmental entity under section 2703(f) of this title)” after “or a statutory authorization”.
 
-Subsec. (g). Pub. L. 107–56, § 223(b)(3), added subsec. (g).
+Subsec. (g). Pub. L. 107–56, § 223(b)(3), added subsec. (g).
 
-1996—Subsec. (a). Pub. L. 104–293, § 601(c)(1), substituted “other person” for “customer”.
+1996—Subsec. (a). Pub. L. 104–293, § 601(c)(1), substituted “other person” for “customer”.
 
-Subsec. (c). Pub. L. 104–293, § 601(c)(2), inserted at end “If the violation is willful or intentional, the court may assess punitive damages. In the case of a successful action to enforce liability under this section, the court may assess the costs of the action, together with reasonable attorney fees determined by the court.”
+Subsec. (c). Pub. L. 104–293, § 601(c)(2), inserted at end “If the violation is willful or intentional, the court may assess punitive damages. In the case of a successful action to enforce liability under this section, the court may assess the costs of the action, together with reasonable attorney fees determined by the court.”
 
-Subsecs. (d) to (f). Pub. L. 104–293, § 601(c)(3), (4), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+Subsecs. (d) to (f). Pub. L. 104–293, § 601(c)(3), (4), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–273, div. B, title IV, § 4005(f)(2), Nov. 2, 2002, 116 Stat. 1813, provided that the amendment made by section 4005(f)(2) is effective Oct. 26, 2001.
+Pub. L. 107–273, div. B, title IV, § 4005(f)(2), Nov. 2, 2002, 116 Stat. 1813, provided that the amendment made by section 4005(f)(2) is effective Oct. 26, 2001.
 
 **Effective Date**
 
 Section effective 90 days after Oct. 21, 1986, and, in the case of conduct pursuant to a court order or extension, applicable only with respect to court orders or extensions made after such effective date, see section 202 of Pub. L. 99–508, set out as a note under section 2701 of this title.
 
-## § 2708. Exclusivity of remedies
+## § 2708. Exclusivity of remedies
 
 The remedies and sanctions described in this chapter are the only judicial remedies and sanctions for nonconstitutional violations of this chapter.
 
-(Added Pub. L. 99–508, title II, § 201[(a)], Oct. 21, 1986, 100 Stat. 1867.)
+(Added Pub. L. 99–508, title II, § 201[(a)], Oct. 21, 1986, 100 Stat. 1867.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -659,7 +659,7 @@ The remedies and sanctions described in this chapter are the only judicial remed
 
 Section effective 90 days after Oct. 21, 1986, and, in the case of conduct pursuant to a court order or extension, applicable only with respect to court orders or extensions made after such effective date, see section 202 of Pub. L. 99–508, set out as a note under section 2701 of this title.
 
-## § 2709. Counterintelligence access to telephone toll and transactional records
+## § 2709. Counterintelligence access to telephone toll and transactional records
 
 **(a) Duty to Provide.—** A wire or electronic communication service provider shall comply with a request for subscriber information and toll billing records information, or electronic communication transactional records in its custody or possession made by the Director of the Federal Bureau of Investigation under subsection (b) of this section.
 
@@ -713,33 +713,33 @@ Section effective 90 days after Oct. 21, 1986, and, in the case of conduct pursu
 
 **(g) Libraries.—** A library (as that term is defined in section 213(1) of the Library Services and Technology Act (20 U.S.C. 9122(1)), the services of which include access to the Internet, books, journals, magazines, newspapers, or other similar forms of communication in print or digitally by patrons for their use, review, examination, or circulation, is not a wire or electronic communication service provider for purposes of this section, unless the library is providing the services defined in section 2510(15) (“electronic communication service”) of this title.
 
-(Added Pub. L. 99–508, title II, § 201[(a)], Oct. 21, 1986, 100 Stat. 1867; amended Pub. L. 103–142, Nov. 17, 1993, 107 Stat. 1491; Pub. L. 104–293, title VI, § 601(a), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 107–56, title V, § 505(a), Oct. 26, 2001, 115 Stat. 365; Pub. L. 109–177, title I, § 116(a), Mar. 9, 2006, 120 Stat. 213; Pub. L. 109–178, §§ 4(b), 5, Mar. 9, 2006, 120 Stat. 280, 281; Pub. L. 114–23, title V, §§ 501(a), 502(a), 503(a), June 2, 2015, 129 Stat. 282, 283, 289.)
+(Added Pub. L. 99–508, title II, § 201[(a)], Oct. 21, 1986, 100 Stat. 1867; amended Pub. L. 103–142, Nov. 17, 1993, 107 Stat. 1491; Pub. L. 104–293, title VI, § 601(a), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 107–56, title V, § 505(a), Oct. 26, 2001, 115 Stat. 365; Pub. L. 109–177, title I, § 116(a), Mar. 9, 2006, 120 Stat. 213; Pub. L. 109–178, §§ 4(b), 5, Mar. 9, 2006, 120 Stat. 280, 281; Pub. L. 114–23, title V, §§ 501(a), 502(a), 503(a), June 2, 2015, 129 Stat. 282, 283, 289.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2015—Subsec. (b). Pub. L. 114–23, § 501(a), substituted “may, using a term that specifically identifies a person, entity, telephone number, or account as the basis for a request” for “may” in introductory provisions.
+2015—Subsec. (b). Pub. L. 114–23, § 501(a), substituted “may, using a term that specifically identifies a person, entity, telephone number, or account as the basis for a request” for “may” in introductory provisions.
 
-Subsec. (c). Pub. L. 114–23, § 502(a), added subsec. (c) and struck out former subsec. (c) which related to prohibition of certain disclosure.
+Subsec. (c). Pub. L. 114–23, § 502(a), added subsec. (c) and struck out former subsec. (c) which related to prohibition of certain disclosure.
 
-Subsecs. (d) to (g). Pub. L. 114–23, § 503(a), added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
+Subsecs. (d) to (g). Pub. L. 114–23, § 503(a), added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
 
 2006—Subsec. (c). Pub. L. 109–177 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “No wire or electronic communication service provider, or officer, employee, or agent thereof, shall disclose to any person that the Federal Bureau of Investigation has sought or obtained access to information or records under this section.”
 
-Subsec. (c)(4). Pub. L. 109–178, § 4(b), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under this section shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform the Director or such designee that the person intends to consult an attorney to obtain legal advice or legal assistance.”
+Subsec. (c)(4). Pub. L. 109–178, § 4(b), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under this section shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform the Director or such designee that the person intends to consult an attorney to obtain legal advice or legal assistance.”
 
-Subsec. (f). Pub. L. 109–178, § 5, added subsec. (f).
+Subsec. (f). Pub. L. 109–178, § 5, added subsec. (f).
 
-2001—Subsec. (b). Pub. L. 107–56, § 505(a)(1), inserted “at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director” after “Deputy Assistant Director” in introductory provisions.
+2001—Subsec. (b). Pub. L. 107–56, § 505(a)(1), inserted “at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director” after “Deputy Assistant Director” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 107–56, § 505(a)(2), struck out “in a position not lower than Deputy Assistant Director” after “(or his designee” and substituted “made that the name, address, length of service, and toll billing records sought are relevant to an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely on the basis of activities protected by the first amendment to the Constitution of the United States; and” for “made that—
+Subsec. (b)(1). Pub. L. 107–56, § 505(a)(2), struck out “in a position not lower than Deputy Assistant Director” after “(or his designee” and substituted “made that the name, address, length of service, and toll billing records sought are relevant to an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely on the basis of activities protected by the first amendment to the Constitution of the United States; and” for “made that—
 
 “(A) the name, address, length of service, and toll billing records sought are relevant to an authorized foreign counterintelligence investigation; and
 
 “(B) there are specific and articulable facts giving reason to believe that the person or entity to whom the information sought pertains is a foreign power or an agent of a foreign power as defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801); and”.
 
-Subsec. (b)(2). Pub. L. 107–56, § 505(a)(3), struck out “in a position not lower than Deputy Assistant Director” after “(or his designee” and substituted “made that the information sought is relevant to an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.” for “made that—
+Subsec. (b)(2). Pub. L. 107–56, § 505(a)(3), struck out “in a position not lower than Deputy Assistant Director” after “(or his designee” and substituted “made that the information sought is relevant to an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.” for “made that—
 
 “(A) the information sought is relevant to an authorized foreign counterintelligence investigation; and
 
@@ -751,13 +751,13 @@ Subsec. (b)(2). Pub. L. 107–56, § 505(a)(3), struck out “in a position no
 
 1996—Subsec. (b)(1). Pub. L. 104–293 inserted “local and long distance” before “toll billing records”.
 
-1993—Subsec. (b). Pub. L. 103–142, § 1, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Required Certification.—The Director of the Federal Bureau of Investigation (or an individual within the Federal Bureau of Investigation designated for this purpose by the Director) may request any such information and records if the Director (or the Director’s designee) certifies in writing to the wire or electronic communication service provider to which the request is made that—
+1993—Subsec. (b). Pub. L. 103–142, § 1, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Required Certification.—The Director of the Federal Bureau of Investigation (or an individual within the Federal Bureau of Investigation designated for this purpose by the Director) may request any such information and records if the Director (or the Director’s designee) certifies in writing to the wire or electronic communication service provider to which the request is made that—
 
 “(1) the information sought is relevant to an authorized foreign counterintelligence investigation; and
 
 “(2) there are specific and articulable facts giving reason to believe that the person or entity to whom the information sought pertains is a foreign power or an agent of a foreign power as defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801).”
 
-Subsec. (e). Pub. L. 103–142, § 2, inserted “, and the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate,” after “Senate”.
+Subsec. (e). Pub. L. 103–142, § 2, inserted “, and the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate,” after “Senate”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -765,7 +765,7 @@ Subsec. (e). Pub. L. 103–142, § 2, inserted “, and the Committee on the
 
 Section effective 90 days after Oct. 21, 1986, and, in the case of conduct pursuant to a court order or extension, applicable only with respect to court orders or extensions made after such effective date, see section 202 of Pub. L. 99–508, set out as a note under section 2701 of this title.
 
-## § 2710. Wrongful disclosure of video tape rental or sale records
+## § 2710. Wrongful disclosure of video tape rental or sale records
 
 **(a) Definitions.—** For purposes of this section—
 
@@ -841,7 +841,7 @@ If an order is granted pursuant to subparagraph (C) or (F), the court shall impo
 
 **(f) Preemption.—** The provisions of this section preempt only the provisions of State or local law that require disclosure prohibited by this section.
 
-(Added Pub. L. 100–618, § 2(a)(2), Nov. 5, 1988, 102 Stat. 3195; amended Pub. L. 112–258, § 2, Jan. 10, 2013, 126 Stat. 2414.)
+(Added Pub. L. 100–618, § 2(a)(2), Nov. 5, 1988, 102 Stat. 3195; amended Pub. L. 112–258, § 2, Jan. 10, 2013, 126 Stat. 2414.)
 
 **Editorial Notes**
 
@@ -857,7 +857,7 @@ A prior section 2710 was renumbered section 2711 of this title.
 
 2013—Subsec. (b)(2)(B). Pub. L. 112–258 added subpar. (B) and struck out former subpar. (B) which read as follows: “to any person with the informed, written consent of the consumer given at the time the disclosure is sought;”.
 
-## § 2711. Definitions for chapter
+## § 2711. Definitions for chapter
 
 As used in this chapter—
 
@@ -881,7 +881,7 @@ As used in this chapter—
 
 **(4)** the term “governmental entity” means a department or agency of the United States or any State or political subdivision thereof.
 
-(Added Pub. L. 99–508, title II, § 201[(a)], Oct. 21, 1986, 100 Stat. 1868, § 2710; renumbered § 2711, Pub. L. 100–618, § 2(a)(1), Nov. 5, 1988, 102 Stat. 3195; amended Pub. L. 107–56, title II, § 220(a)(2), Oct. 26, 2001, 115 Stat. 292; Pub. L. 109–177, title I, § 107(b)(2), Mar. 9, 2006, 120 Stat. 202; Pub. L. 111–79, § 2(2), Oct. 19, 2009, 123 Stat. 2086; Pub. L. 114–328, div. E, title LVII, § 5228(b)(2), Dec. 23, 2016, 130 Stat. 2913.)
+(Added Pub. L. 99–508, title II, § 201[(a)], Oct. 21, 1986, 100 Stat. 1868, § 2710; renumbered § 2711, Pub. L. 100–618, § 2(a)(1), Nov. 5, 1988, 102 Stat. 3195; amended Pub. L. 107–56, title II, § 220(a)(2), Oct. 26, 2001, 115 Stat. 292; Pub. L. 109–177, title I, § 107(b)(2), Mar. 9, 2006, 120 Stat. 202; Pub. L. 111–79, § 2(2), Oct. 19, 2009, 123 Stat. 2086; Pub. L. 114–328, div. E, title LVII, § 5228(b)(2), Dec. 23, 2016, 130 Stat. 2913.)
 
 **Editorial Notes**
 
@@ -907,7 +907,7 @@ Amendment by Pub. L. 114–328 effective on the date designated by the President
 
 Section effective 90 days after Oct. 21, 1986, and, in the case of conduct pursuant to a court order or extension, applicable only with respect to court orders or extensions made after such effective date, see section 202 of Pub. L. 99–508, set out as a note under section 2701 of this title.
 
-## § 2712. Civil actions against the United States
+## § 2712. Civil actions against the United States
 
 **(a) In General.—** Any person who is aggrieved by any willful violation of this chapter or of chapter 119 of this title or of sections 106(a), 305(a), or 405(a) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) may commence an action in United States District Court against the United States to recover money damages. In any such action, if a person who is aggrieved successfully establishes such a violation of this chapter or of chapter 119 of this title or of the above specific provisions of title 50, the Court may assess as damages—
 
@@ -939,7 +939,7 @@ Section effective 90 days after Oct. 21, 1986, and, in the case of conduct pursu
 
 **(3)** In requesting a stay under paragraph (1), the Government may, in appropriate cases, submit evidence ex parte in order to avoid disclosing any matter that may adversely affect a related investigation or a related criminal case. If the Government makes such an ex parte submission, the plaintiff shall be given an opportunity to make a submission to the court, not ex parte, and the court may, in its discretion, request further information from either party.
 
-(Added Pub. L. 107–56, title II, § 223(c)(1), Oct. 26, 2001, 115 Stat. 294.)
+(Added Pub. L. 107–56, title II, § 223(c)(1), Oct. 26, 2001, 115 Stat. 294.)
 
 **Editorial Notes**
 
@@ -947,10 +947,10 @@ Section effective 90 days after Oct. 21, 1986, and, in the case of conduct pursu
 
 Sections 106, 305, and 405 of the Foreign Intelligence Surveillance Act of 1978, referred to in subsecs. (a) and (b)(4), are classified to sections 1806, 1825, and 1845, respectively, of Title 50, War and National Defense.
 
-The Federal Tort Claims Act, referred to in subsec. (b)(1), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+The Federal Tort Claims Act, referred to in subsec. (b)(1), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
-## § 2713. Required preservation and disclosure of communications and records
+## § 2713. Required preservation and disclosure of communications and records
 
 A provider of electronic communication service or remote computing service shall comply with the obligations of this chapter to preserve, backup, or disclose the contents of a wire or electronic communication and any record or other information pertaining to a customer or subscriber within such provider’s possession, custody, or control, regardless of whether such communication, record, or other information is located within or outside of the United States.
 
-(Added Pub. L. 115–141, div. V, § 103(a)(1), Mar. 23, 2018, 132 Stat. 1214.)
+(Added Pub. L. 115–141, div. V, § 103(a)(1), Mar. 23, 2018, 132 Stat. 1214.)

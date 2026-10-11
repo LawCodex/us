@@ -19,25 +19,25 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 553 of this title as this chapter and items 5983, 5985, and 5986 as 8183, 8185, and 8186, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 553 of this title as this chapter and items 5983, 5985, and 5986 as 8183, 8185, and 8186, respectively.
 
-1980—Pub. L. 96–513, title V, § 503(42), Dec. 12, 1980, 94 Stat. 2914, struck out item 5982 “Ships and squadrons: detail of retired officers to command”.
+1980—Pub. L. 96–513, title V, § 503(42), Dec. 12, 1980, 94 Stat. 2914, struck out item 5982 “Ships and squadrons: detail of retired officers to command”.
 
-1970—Pub. L. 91–482, § 2C, Oct. 21, 1970, 84 Stat. 1082, struck out item 5981 “Squadrons: detail of officers on active list to command”.
+1970—Pub. L. 91–482, § 2C, Oct. 21, 1970, 84 Stat. 1082, struck out item 5981 “Squadrons: detail of officers on active list to command”.
 
-1968—Pub. L. 90–235, § 4(a)(4), (b)(3), Jan. 2, 1968, 81 Stat. 759, 760, struck out item 5984 “Military institutions and colleges: details as superintendents and instructors”, and item 5987 “American National Red Cross: detail of officers in the Medical Corps”.
+1968—Pub. L. 90–235, § 4(a)(4), (b)(3), Jan. 2, 1968, 81 Stat. 759, 760, struck out item 5984 “Military institutions and colleges: details as superintendents and instructors”, and item 5987 “American National Red Cross: detail of officers in the Medical Corps”.
 
-## § 8183. State Department: assignment of enlisted members as custodians of buildings in foreign countries
+## § 8183. State Department: assignment of enlisted members as custodians of buildings in foreign countries
 
 Upon the request of the Secretary of State, the Secretary of the Navy may assign enlisted members of the naval service to serve as custodians under the supervision of the principal officer at any embassy, legation, or consulate.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 374, § 5983; renumbered § 8183, Pub. L. 115–232, div. A, title VIII, § 807(b)(6), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 374, § 5983; renumbered § 8183, Pub. L. 115–232, div. A, title VIII, § 807(b)(6), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5983 | 22 U.S.C. 957. | Aug. 13, 1946, ch. 957, § 562, 60 Stat. 1011. |
+| 5983 | 22 U.S.C. 957. | Aug. 13, 1946, ch. 957, § 562, 60 Stat. 1011. |
 
 **Editorial Notes**
 
@@ -53,7 +53,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Department of Defense Support to Security of United States Diplomatic Facilities**
 
-Pub. L. 113–291, div. A, title XII, § 1269, Dec. 19, 2014, 128 Stat. 3586, provided that:
+Pub. L. 113–291, div. A, title XII, § 1269, Dec. 19, 2014, 128 Stat. 3586, provided that:
 
 > **“(a) Marine Corps Security Guard Program.—**
 
@@ -97,7 +97,7 @@ Pub. L. 113–291, div. A, title XII, § 1269, Dec. 19, 2014, 128 Stat. 3586, 
 
 **Additional Marine Corps Personnel for the Marine Corps Security Guard Program**
 
-Pub. L. 112–239, div. A, title IV, § 404, Jan. 2, 2013, 126 Stat. 1708, provided that:
+Pub. L. 112–239, div. A, title IV, § 404, Jan. 2, 2013, 126 Stat. 1708, provided that:
 
 > **“(a) Additional Personnel.—**
 
@@ -137,17 +137,17 @@ Pub. L. 112–239, div. A, title IV, § 404, Jan. 2, 2013, 126 Stat. 1708, pro
 
 > **“(B)** take such modification into account in requesting an end strength and funds for the Program for any fiscal year in which such modification is in effect.”
 
-## § 8185. Nautical Schools: detail of naval officers as superintendents or instructors
+## § 8185. Nautical Schools: detail of naval officers as superintendents or instructors
 
 The President may detail officers of the Navy as superintendents or instructors of institutions receiving benefits under chapter 515 of title 46 when in his opinion it can be done without detriment to the naval service. Officers so detailed shall be recalled from an institution if it is discontinued or if the good of the naval service requires.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 374, § 5985; Pub. L. 99–145, title XIII, § 1303(a)(21), Nov. 8, 1985, 99 Stat. 739; Pub. L. 109–304, § 17(a)(5), Oct. 6, 2006, 120 Stat. 1706; renumbered § 8185, Pub. L. 115–232, div. A, title VIII, § 807(b)(6), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 374, § 5985; Pub. L. 99–145, title XIII, § 1303(a)(21), Nov. 8, 1985, 99 Stat. 739; Pub. L. 109–304, § 17(a)(5), Oct. 6, 2006, 120 Stat. 1706; renumbered § 8185, Pub. L. 115–232, div. A, title VIII, § 807(b)(6), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5985 | 34 U.S.C. 1123 (less 1st proviso as applicable to vessels, and less 2d proviso). | Mar. 4, 1911, ch. 265, § 3 (less 1st proviso as applicable to vessels, and less 2d proviso), 36 Stat. 1353. |
+| 5985 | 34 U.S.C. 1123 (less 1st proviso as applicable to vessels, and less 2d proviso). | Mar. 4, 1911, ch. 265, § 3 (less 1st proviso as applicable to vessels, and less 2d proviso), 36 Stat. 1353. |
 
 The words “naval service” are substituted for the words “public service” for uniformity within the section. The citation of the act establishing the nautical institutions is substituted for the words “such schools” for clarity. The word “proper” is omitted as surplusage.
 
@@ -167,13 +167,13 @@ The words “naval service” are substituted for the words “public service”
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8186. Technical institutions: detail of naval officers to promote knowledge of naval engineering and naval architecture
+## § 8186. Technical institutions: detail of naval officers to promote knowledge of naval engineering and naval architecture
 
 **(a)** To promote a knowledge of naval engineering and naval architecture, the President, upon the application of any established scientific school or college in the United States, the Commonwealths or possessions, may detail a qualified officer of the Navy as a professor in that school or college. The number of officers detailed under this section may not exceed 25 at any one time.
 
 **(b)** The President may prescribe regulations for detailing such officers and may recall them when the public interest requires.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 374, § 5986; Pub. L. 109–163, div. A, title X, § 1057(a)(5), Jan. 6, 2006, 119 Stat. 3440; renumbered § 8186, Pub. L. 115–232, div. A, title VIII, § 807(b)(6), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 374, § 5986; Pub. L. 109–163, div. A, title X, § 1057(a)(5), Jan. 6, 2006, 119 Stat. 3440; renumbered § 8186, Pub. L. 115–232, div. A, title VIII, § 807(b)(6), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Historical and Revision Notes**
 
@@ -191,25 +191,25 @@ In subsection (b) the word “regulations” is substituted for the word “rule
 
 **Prior Provisions**
 
-A prior section 8201, acts Aug. 10, 1956, ch. 1041, 70A Stat. 497; Sept. 2, 1958, Pub. L. 85–861, § 1(157), 72 Stat. 1513; Oct. 13, 1964, Pub. L. 88–647, title III, § 301(20), 78 Stat. 1073, prescribed authorized strength of Air Force in members on active duty, exclusive of certain categories, and authorized daily average strength of Air Force in members on active duty during fiscal year, exclusive of certain categories, prior to repeal by Pub. L. 96–513, title II, § 202, Dec. 12, 1980, 94 Stat. 2878, effective Sept. 15, 1981.
+A prior section 8201, acts Aug. 10, 1956, ch. 1041, 70A Stat. 497; Sept. 2, 1958, Pub. L. 85–861, § 1(157), 72 Stat. 1513; Oct. 13, 1964, Pub. L. 88–647, title III, § 301(20), 78 Stat. 1073, prescribed authorized strength of Air Force in members on active duty, exclusive of certain categories, and authorized daily average strength of Air Force in members on active duty during fiscal year, exclusive of certain categories, prior to repeal by Pub. L. 96–513, title II, § 202, Dec. 12, 1980, 94 Stat. 2878, effective Sept. 15, 1981.
 
-A prior section 8202, acts Aug. 10, 1956, ch. 1041, 70A Stat. 498; Sept. 2, 1958, Pub. L. 85–861, § 1(158), 72 Stat. 1514; Dec. 28, 1967, Pub. L. 90–228, § 1(4), (5), 81 Stat. 745; Dec. 12, 1980, Pub. L. 96–513, title II, § 203(b), 94 Stat. 2879, related to authorized strength of Air Force in general officers on active duty, prior to repeal by Pub. L. 101–510, div. A, title IV, § 403(b)(3)(A), Nov. 5, 1990, 104 Stat. 1545.
+A prior section 8202, acts Aug. 10, 1956, ch. 1041, 70A Stat. 498; Sept. 2, 1958, Pub. L. 85–861, § 1(158), 72 Stat. 1514; Dec. 28, 1967, Pub. L. 90–228, § 1(4), (5), 81 Stat. 745; Dec. 12, 1980, Pub. L. 96–513, title II, § 203(b), 94 Stat. 2879, related to authorized strength of Air Force in general officers on active duty, prior to repeal by Pub. L. 101–510, div. A, title IV, § 403(b)(3)(A), Nov. 5, 1990, 104 Stat. 1545.
 
-Prior sections 8203 to 8209 were repealed by Pub. L. 96–513, title II, § 202, Dec. 12, 1980, 94 Stat. 2878, effective Sept. 15, 1981.
+Prior sections 8203 to 8209 were repealed by Pub. L. 96–513, title II, § 202, Dec. 12, 1980, 94 Stat. 2878, effective Sept. 15, 1981.
 
-Section 8203, acts Aug. 10, 1956, ch. 1041, 70A Stat. 498; Sept. 2, 1958, Pub. L. 85–861, § 1(159), 72 Stat. 1514, prescribed authorized strength of Regular Air Force in members on active duty, exclusive of officer candidates and aviation cadets.
+Section 8203, acts Aug. 10, 1956, ch. 1041, 70A Stat. 498; Sept. 2, 1958, Pub. L. 85–861, § 1(159), 72 Stat. 1514, prescribed authorized strength of Regular Air Force in members on active duty, exclusive of officer candidates and aviation cadets.
 
-Section 8204, acts Aug. 10, 1956, ch. 1041, 70A Stat. 499; Aug. 6, 1958, Pub. L. 85–600, § 1(14), 72 Stat. 523, prescribed authorized strength of Regular Air Force in commissioned officers on active list.
+Section 8204, acts Aug. 10, 1956, ch. 1041, 70A Stat. 499; Aug. 6, 1958, Pub. L. 85–600, § 1(14), 72 Stat. 523, prescribed authorized strength of Regular Air Force in commissioned officers on active list.
 
-Section 8205, acts Aug. 10, 1956, ch. 1041, 70A Stat. 499; Aug. 6, 1958, Pub. L. 85–600, § 1(15), 72 Stat. 523; Sept. 2, 1958, Pub. L. 85–861, § 1(160), 72 Stat. 1514, prescribed authorized strength of Regular Air Force in commissioned officers on active list, exclusive of certain categories.
+Section 8205, acts Aug. 10, 1956, ch. 1041, 70A Stat. 499; Aug. 6, 1958, Pub. L. 85–600, § 1(15), 72 Stat. 523; Sept. 2, 1958, Pub. L. 85–861, § 1(160), 72 Stat. 1514, prescribed authorized strength of Regular Air Force in commissioned officers on active list, exclusive of certain categories.
 
-Section 8206, acts Aug. 10, 1956, ch. 1041, 70A Stat. 499; Aug. 21, 1957, Pub. L. 85–155, title III, § 301(1), 71 Stat. 386; Nov. 8, 1967, Pub. L. 90–130, § 1(26)(A), 81 Stat. 382, prescribed authorized strength of Air Force nurses in commissioned officers on active list of Regular Air Force.
+Section 8206, acts Aug. 10, 1956, ch. 1041, 70A Stat. 499; Aug. 21, 1957, Pub. L. 85–155, title III, § 301(1), 71 Stat. 386; Nov. 8, 1967, Pub. L. 90–130, § 1(26)(A), 81 Stat. 382, prescribed authorized strength of Air Force nurses in commissioned officers on active list of Regular Air Force.
 
-Section 8207, acts Aug. 10, 1956, ch. 1041, 70A Stat. 499; Aug. 21, 1957, Pub. L. 85–155, title III, § 301(2), 71 Stat. 386; Nov. 8, 1967, Pub. L. 90–130, § 1(26)(B), 81 Stat. 382, prescribed authorized strength of Air Force medical specialists in commissioned officers on active list of Regular Air Force.
+Section 8207, acts Aug. 10, 1956, ch. 1041, 70A Stat. 499; Aug. 21, 1957, Pub. L. 85–155, title III, § 301(2), 71 Stat. 386; Nov. 8, 1967, Pub. L. 90–130, § 1(26)(B), 81 Stat. 382, prescribed authorized strength of Air Force medical specialists in commissioned officers on active list of Regular Air Force.
 
-Section 8208, acts Aug. 10, 1956, ch. 1041, 70A Stat. 499; Nov. 8, 1967, Pub. L. 90–130, § 1(26)(C), 81 Stat. 382, authorized prescribed strength in female commissioned officers on active list of Regular Air Force, other than those designated under section 8067 of this title to perform professional services.
+Section 8208, acts Aug. 10, 1956, ch. 1041, 70A Stat. 499; Nov. 8, 1967, Pub. L. 90–130, § 1(26)(C), 81 Stat. 382, authorized prescribed strength in female commissioned officers on active list of Regular Air Force, other than those designated under section 8067 of this title to perform professional services.
 
-Section 8209, acts Aug. 10, 1956, ch. 1041, 70A Stat. 500; Sept. 2, 1958, Pub. L. 85–861, § 1(156), 72 Stat. 1513; Nov. 8, 1967, Pub. L. 90–130, § 1(26)(D), 81 Stat. 382, prescribed authorized strength of Regular Air Force in commissioned officers on active list in each of categories of officers designated under section 8067 of this title.
+Section 8209, acts Aug. 10, 1956, ch. 1041, 70A Stat. 500; Sept. 2, 1958, Pub. L. 85–861, § 1(156), 72 Stat. 1513; Nov. 8, 1967, Pub. L. 90–130, § 1(26)(D), 81 Stat. 382, prescribed authorized strength of Regular Air Force in commissioned officers on active list in each of categories of officers designated under section 8067 of this title.
 
 A prior section 8210 was renumbered section 9110 of this title.
 

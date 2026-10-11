@@ -19,27 +19,27 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1992—Pub. L. 102–572, title IV, § 403(b), Oct. 29, 1992, 106 Stat. 4512, substituted “Optional” for “Experimental” in item 1878.
+1992—Pub. L. 102–572, title IV, § 403(b), Oct. 29, 1992, 106 Stat. 4512, substituted “Optional” for “Experimental” in item 1878.
 
-1988—Pub. L. 100–702, title VIII, § 805(b), Nov. 19, 1988, 102 Stat. 4659, added item 1878.
+1988—Pub. L. 100–702, title VIII, § 805(b), Nov. 19, 1988, 102 Stat. 4659, added item 1878.
 
-1983—Pub. L. 97–463, § 3(2), Jan. 12, 1983, 96 Stat. 2532, added item 1877.
+1983—Pub. L. 97–463, § 3(2), Jan. 12, 1983, 96 Stat. 2532, added item 1877.
 
-1980—Pub. L. 96–417, title III, § 302(b), Oct. 10, 1980, 94 Stat. 1739, added item 1876.
+1980—Pub. L. 96–417, title III, § 302(b), Oct. 10, 1980, 94 Stat. 1739, added item 1876.
 
-1978—Pub. L. 95–572, § 6(a)(2), Nov. 2, 1978, 92 Stat. 2456, added item 1875.
+1978—Pub. L. 95–572, § 6(a)(2), Nov. 2, 1978, 92 Stat. 2456, added item 1875.
 
-1968—Pub. L. 90–274, § 101, Mar. 27, 1968, 82 Stat. 53, substituted “Declaration of policy” for “Qualifications” as item 1861, “Discrimination prohibited” for “Exemptions” as item 1862, “Plan for random jury selection” for “Exclusion or excuse from service” as item 1863, “Drawing of names from the master jury wheel; completion of juror qualification form” for “Manner of drawing; jury commissioners and their compensation” as item 1864, “Qualifications for jury service” for “Apportionment within district; additional jury commissioners” as item 1865, “Selection and summoning of jury panels” for “Special petit juries; talesmen from bystanders” as item 1866, “Challenging compliance with selection procedures” for “Summoning jurors” as item 1867, “Maintenance and inspection of records” for “Disqualification of marshal or deputy” as item 1868, “Definitions” for “Frequency of service” as item 1869, and reenacted items 1870–1874 without change.
+1968—Pub. L. 90–274, § 101, Mar. 27, 1968, 82 Stat. 53, substituted “Declaration of policy” for “Qualifications” as item 1861, “Discrimination prohibited” for “Exemptions” as item 1862, “Plan for random jury selection” for “Exclusion or excuse from service” as item 1863, “Drawing of names from the master jury wheel; completion of juror qualification form” for “Manner of drawing; jury commissioners and their compensation” as item 1864, “Qualifications for jury service” for “Apportionment within district; additional jury commissioners” as item 1865, “Selection and summoning of jury panels” for “Special petit juries; talesmen from bystanders” as item 1866, “Challenging compliance with selection procedures” for “Summoning jurors” as item 1867, “Maintenance and inspection of records” for “Disqualification of marshal or deputy” as item 1868, “Definitions” for “Frequency of service” as item 1869, and reenacted items 1870–1874 without change.
 
-## § 1861. Declaration of policy
+## § 1861. Declaration of policy
 
 It is the policy of the United States that all litigants in Federal courts entitled to trial by jury shall have the right to grand and petit juries selected at random from a fair cross section of the community in the district or division wherein the court convenes. It is further the policy of the United States that all citizens shall have the opportunity to be considered for service on grand and petit juries in the district courts of the United States, and shall have an obligation to serve as jurors when summoned for that purpose.
 
-(June 25, 1948, ch. 646, 62 Stat. 951; Pub. L. 85–315, part V, § 152, Sept. 9, 1957, 71 Stat. 638; Pub. L. 90–274, § 101, Mar. 27, 1968, 82 Stat. 54.)
+(June 25, 1948, ch. 646, 62 Stat. 951; Pub. L. 85–315, part V, § 152, Sept. 9, 1957, 71 Stat. 638; Pub. L. 90–274, § 101, Mar. 27, 1968, 82 Stat. 54.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 411 and 415 (Mar. 3, 1911, ch. 231, §§ 275, 278, 38 Stat. 1164, 1165).
+Based on title 28, U.S.C., 1940 ed., §§ 411 and 415 (Mar. 3, 1911, ch. 231, §§ 275, 278, 38 Stat. 1164, 1165).
 
 The revised section prescribes uniform standards of qualification for jurors in Federal Courts instead of making qualifications depend upon State laws. This is in accord with proposed legislation recommended by the Judicial Conference of the United States.
 
@@ -59,21 +59,21 @@ Pub. L. 85–315 substituted “and who has resided for a period of one year wit
 
 **Effective Date of 1968 Amendment**
 
-Pub. L. 90–274, § 104, Mar. 27, 1968, 82 Stat. 63, provided that: “This Act [amending this section and sections 1821, 1862 to 1869, and 1871 of this title, repealing section 867 of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under this section] shall become effective two hundred and seventy days after the date of enactment [Mar. 27, 1968]: *Provided*, That this Act shall not apply in any case in which an indictment has been returned or petit jury empaneled prior to such effective date.”
+Pub. L. 90–274, § 104, Mar. 27, 1968, 82 Stat. 63, provided that: “This Act [amending this section and sections 1821, 1862 to 1869, and 1871 of this title, repealing section 867 of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under this section] shall become effective two hundred and seventy days after the date of enactment [Mar. 27, 1968]: *Provided*, That this Act shall not apply in any case in which an indictment has been returned or petit jury empaneled prior to such effective date.”
 
 **Short Title of 1978 Amendment**
 
-Pub. L. 95–572, § 1, Nov. 2, 1978, 92 Stat. 2453, provided that: “This Act [enacting sections 1363 and 1875 of this title, amending sections 1863, 1865, 1866, 1869, and 1871 of this title, renumbering section 1363 (relating to construction of references to laws of the United States or Acts of Congress) as section 1364 of this title, and enacting provisions set out as a note under section 1363 of this title] may be cited as the ‘Jury System Improvements Act of 1978’.”
+Pub. L. 95–572, § 1, Nov. 2, 1978, 92 Stat. 2453, provided that: “This Act [enacting sections 1363 and 1875 of this title, amending sections 1863, 1865, 1866, 1869, and 1871 of this title, renumbering section 1363 (relating to construction of references to laws of the United States or Acts of Congress) as section 1364 of this title, and enacting provisions set out as a note under section 1363 of this title] may be cited as the ‘Jury System Improvements Act of 1978’.”
 
 **Short Title**
 
-Pub. L. 90–274, § 1, Mar. 27, 1968, 82 Stat. 53, provided: “That this Act [amending this section and sections 1821, 1862 to 1869, and 1871 of this title, repealing section 867 of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under this section] may be cited as the ‘Jury Selection and Service Act of 1968’.”
+Pub. L. 90–274, § 1, Mar. 27, 1968, 82 Stat. 53, provided: “That this Act [amending this section and sections 1821, 1862 to 1869, and 1871 of this title, repealing section 867 of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under this section] may be cited as the ‘Jury Selection and Service Act of 1968’.”
 
-## § 1862. Discrimination prohibited
+## § 1862. Discrimination prohibited
 
 No citizen shall be excluded from service as a grand or petit juror in the district courts of the United States or in the Court of International Trade on account of race, color, religion, sex, national origin, or economic status.
 
-(June 25, 1948, ch. 646, 62 Stat. 952; Pub. L. 90–274, § 101, Mar. 27, 1968, 82 Stat. 54; Pub. L. 96–417, title III, § 302(c), Oct. 10, 1980, 94 Stat. 1739.)
+(June 25, 1948, ch. 646, 62 Stat. 952; Pub. L. 90–274, § 101, Mar. 27, 1968, 82 Stat. 54; Pub. L. 96–417, title III, § 302(c), Oct. 10, 1980, 94 Stat. 1739.)
 
 **Historical and Revision Notes**
 
@@ -97,7 +97,7 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 
 Amendment by Pub. L. 90–274 effective 270 days after Mar. 27, 1968, except as to cases in which an indictment has been returned or a petit jury empaneled prior to such effective date, see section 104 of Pub. L. 90–274, set out as a note under section 1861 of this title.
 
-## § 1863. Plan for random jury selection
+## § 1863. Plan for random jury selection
 
 **(a)** Each United States district court shall devise and place into operation a written plan for random selection of grand and petit jurors that shall be designed to achieve the objectives of sections 1861 and 1862 of this title, and that shall otherwise comply with the provisions of this title. The plan shall be placed into operation after approval by a reviewing panel consisting of the members of the judicial council of the circuit and either the chief judge of the district whose plan is being reviewed or such other active district judge of that district as the chief judge of the district may designate. The panel shall examine the plan to ascertain that it complies with the provisions of this title. If the reviewing panel finds that the plan does not comply, the panel shall state the particulars in which the plan fails to comply and direct the district court to present within a reasonable time an alternative plan remedying the defect or defects. Separate plans may be adopted for each division or combination of divisions within a judicial district. The district court may modify a plan at any time and it shall modify the plan when so directed by the reviewing panel. The district court shall promptly notify the panel, the Administrative Office of the United States Courts, and the Attorney General of the United States, of the initial adoption and future modifications of the plan by filing copies therewith. Modifications of the plan made at the instance of the district court shall become effective after approval by the panel. Each district court shall submit a report on the jury selection process within its jurisdiction to the Administrative Office of the United States Courts in such form and at such times as the Judicial Conference of the United States may specify. The Judicial Conference of the United States may, from time to time, adopt rules and regulations governing the provisions and the operation of the plans formulated under this title.
 
@@ -115,9 +115,9 @@ Amendment by Pub. L. 90–274 effective 270 days after Mar. 27, 1968, except as 
 
 **(A)** except as provided in subparagraph (B), specify those groups of persons or occupational classes whose members shall, on individual request therefor, be excused from jury service. Such groups or classes shall be excused only if the district court finds, and the plan states, that jury service by such class or group would entail undue hardship or extreme inconvenience to the members thereof, and excuse of members thereof would not be inconsistent with sections 1861 and 1862 of this title.
 
-**(B)** specify that volunteer safety personnel, upon individual request, shall be excused from jury service. For purposes of this subparagraph, the term “volunteer safety personnel” means individuals serving a public agency (as defined in section 1203(6) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 1
+**(B)** specify that volunteer safety personnel, upon individual request, shall be excused from jury service. For purposes of this subparagraph, the term “volunteer safety personnel” means individuals serving a public agency (as defined in section 1203(6) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 ) in an official capacity, without compensation, as firefighters or members of a rescue squad or ambulance crew.
 
@@ -131,11 +131,11 @@ Amendment by Pub. L. 90–274 effective 270 days after Mar. 27, 1968, except as 
 
 **(d)** State, local, and Federal officials having custody, possession, or control of voter registration lists, lists of actual voters, or other appropriate records shall make such lists and records available to the jury commission or clerks for inspection, reproduction, and copying at all reasonable times as the commission or clerk may deem necessary and proper for the performance of duties under this title. The district courts shall have jurisdiction upon application by the Attorney General of the United States to compel compliance with this subsection by appropriate process.
 
-(June 25, 1948, ch. 646, 62 Stat. 952; Pub. L. 90–274, § 101, Mar. 27, 1968, 82 Stat. 54; Pub. L. 92–269, § 2, Apr. 6, 1972, 86 Stat. 117; Pub. L. 95–572, § 2(a), Nov. 2, 1978, 92 Stat. 2453; Pub. L. 100–702, title VIII, § 802(b), (c), Nov. 19, 1988, 102 Stat. 4657, 4658; Pub. L. 102–572, title IV, § 401, Oct. 29, 1992, 106 Stat. 4511.)
+(June 25, 1948, ch. 646, 62 Stat. 952; Pub. L. 90–274, § 101, Mar. 27, 1968, 82 Stat. 54; Pub. L. 92–269, § 2, Apr. 6, 1972, 86 Stat. 117; Pub. L. 95–572, § 2(a), Nov. 2, 1978, 92 Stat. 2453; Pub. L. 100–702, title VIII, § 802(b), (c), Nov. 19, 1988, 102 Stat. 4657, 4658; Pub. L. 102–572, title IV, § 401, Oct. 29, 1992, 106 Stat. 4511.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940, ed., § 415 (Mar. 3, 1911, ch. 231, § 278, 36 Stat. 1165).
+Based on title 28, U.S.C., 1940, ed., § 415 (Mar. 3, 1911, ch. 231, § 278, 36 Stat. 1165).
 
 Subsections (a) and (b) are new and merely declaratory of existing practice.
 
@@ -155,9 +155,9 @@ The date of enactment of the Jury Selection and Service Act of 1968, referred to
 
 1992—Subsec. (b)(2). Pub. L. 102–572 inserted at end “The plan for the district of Massachusetts may require the names of prospective jurors to be selected from the resident list provided for in chapter 234A, Massachusetts General Laws, or comparable authority, rather than from voter lists.”
 
-1988—Subsec. (b)(5). Pub. L. 100–702, § 802(b), designated existing provisions as subpar. (A), inserted “except as provided in subparagraph (B),”, and added subpar. (B).
+1988—Subsec. (b)(5). Pub. L. 100–702, § 802(b), designated existing provisions as subpar. (A), inserted “except as provided in subparagraph (B),”, and added subpar. (B).
 
-Subsec. (b)(6). Pub. L. 100–702, § 802(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “specify those groups of persons or occupational classes whose members shall be barred from jury service on the ground that they are exempt. Such groups or classes shall be exempt only if the district court finds, and the plan states, that their exemption is in the public interest and would not be inconsistent with sections 1861 and 1862 of this title. The plan shall provide for exemption of the following persons: (i) members in active service in the Armed Forces of the United States; (ii) members of the fire or police departments of any State, district, territory, possession, or subdivision thereof; (iii) public officers in the executive, legislative, or judicial branches of the Government of the United States, or any State, district, territory, or possession or subdivision thereof, who are actively engaged in the performance of official duties.”
+Subsec. (b)(6). Pub. L. 100–702, § 802(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “specify those groups of persons or occupational classes whose members shall be barred from jury service on the ground that they are exempt. Such groups or classes shall be exempt only if the district court finds, and the plan states, that their exemption is in the public interest and would not be inconsistent with sections 1861 and 1862 of this title. The plan shall provide for exemption of the following persons: (i) members in active service in the Armed Forces of the United States; (ii) members of the fire or police departments of any State, district, territory, possession, or subdivision thereof; (iii) public officers in the executive, legislative, or judicial branches of the Government of the United States, or any State, district, territory, or possession or subdivision thereof, who are actively engaged in the performance of official duties.”
 
 1978—Subsec. (b)(7) to (9). Pub. L. 95–572 struck out par. (7) relating to random jury selection plan provision for fixing the distance, in miles or in travel time, from each place of holding court beyond which pro­spective jurors residing should, on individual request, be excused from jury service on the ground of undue hardship in traveling to the place where court was held, now incorporated in definition of “undue hardship or extreme inconvenience” in section 1869(j) of this title, and redesignated pars. (8) and (9) as (7) and (8), respectively.
 
@@ -187,19 +187,19 @@ Amendment by Pub. L. 90–274 effective 270 days after Mar. 27, 1968, except as 
 
 **Refilling of Master Jury Wheel Not Later Than September 1, 1973; Refilling of Qualified Jury Wheel Not Later Than October 1, 1973; Retroactive Effect**
 
-Pub. L. 92–269, §§ 3, 4, Apr. 6, 1972, 86 Stat. 117, provided that each judicial district and each division or combination of divisions within a judicial district, for which a separate plan for random selection of jurors had been adopted pursuant to this section, other than the District of Columbia and the districts of Puerto Rico and the Canal Zone, would not later than Sept. 1, 1973, refill its master jury wheel with names obtained from the voter registration lists for, or the lists of actual voters in, the 1972 general election.
+Pub. L. 92–269, §§ 3, 4, Apr. 6, 1972, 86 Stat. 117, provided that each judicial district and each division or combination of divisions within a judicial district, for which a separate plan for random selection of jurors had been adopted pursuant to this section, other than the District of Columbia and the districts of Puerto Rico and the Canal Zone, would not later than Sept. 1, 1973, refill its master jury wheel with names obtained from the voter registration lists for, or the lists of actual voters in, the 1972 general election.
 
-## § 1864. Drawing of names from the master jury wheel; completion of juror qualification form
+## § 1864. Drawing of names from the master jury wheel; completion of juror qualification form
 
 **(a)** From time to time as directed by the district court, the clerk or a district judge shall draw at random from the master jury wheel the names of as many persons as may be required for jury service. The clerk or jury commission shall post a general notice for public review in the clerk’s office and on the court’s website explaining the process by which names are periodically and randomly drawn. The clerk or jury commission may, upon order of the court, prepare an alphabetical list of the names drawn from the master jury wheel. Any list so prepared shall not be disclosed to any person except pursuant to the district court plan or pursuant to section 1867 or 1868 of this title. The clerk or jury commission shall mail to every person whose name is drawn from the master wheel a juror qualification form accompanied by instructions to fill out and return the form, duly signed and sworn, to the clerk or jury commission by mail within ten days. If the person is unable to fill out the form, another shall do it for him, and shall indicate that he has done so and the reason therefor. In any case in which it appears that there is an omission, ambiguity, or error in a form, the clerk or jury commission shall return the form with instructions to the person to make such additions or corrections as may be necessary and to return the form to the clerk or jury commission within ten days. Any person who fails to return a completed juror qualification form as instructed may be summoned by the clerk or jury commission forthwith to appear before the clerk or jury commission to fill out a juror qualification form. A person summoned to appear because of failure to return a juror qualification form as instructed who personally appears and executes a juror qualification form before the clerk or jury commission may, at the discretion of the district court, except where his prior failure to execute and mail such form was willful, be entitled to receive for such appearance the same fees and travel allowances paid to jurors under section 1871 of this title. At the time of his appearance for jury service, any person may be required to fill out another juror qualification form in the presence of the jury commission or the clerk or the court, at which time, in such cases as it appears warranted, the person may be questioned, but only with regard to his responses to questions contained on the form. Any information thus acquired by the clerk or jury commission may be noted on the juror qualification form and transmitted to the chief judge or such district court judge as the plan may provide.
 
 **(b)** Any person summoned pursuant to subsection (a) of this section who fails to appear as directed shall be ordered by the district court forthwith to appear and show cause for his failure to comply with the summons. Any person who fails to appear pursuant to such order or who fails to show good cause for noncompliance with the summons may be fined not more than $1,000, imprisoned not more than three days, ordered to perform community service, or any combination thereof. Any person who willfully misrepresents a material fact on a juror qualification form for the purpose of avoiding or securing service as a juror may be fined not more than $1,000, imprisoned not more than three days, ordered to perform community service, or any combination thereof.
 
-(June 25, 1948, ch. 646, 62 Stat. 952; Pub. L. 90–274, § 101, Mar. 27, 1968, 82 Stat. 57; Pub. L. 100–702, title VIII, § 803(a), Nov. 19, 1988, 102 Stat. 4658; Pub. L. 110–406, §§ 5(a), 17(a), Oct. 13, 2008, 122 Stat. 4292, 4295.)
+(June 25, 1948, ch. 646, 62 Stat. 952; Pub. L. 90–274, § 101, Mar. 27, 1968, 82 Stat. 57; Pub. L. 100–702, title VIII, § 803(a), Nov. 19, 1988, 102 Stat. 4658; Pub. L. 110–406, §§ 5(a), 17(a), Oct. 13, 2008, 122 Stat. 4292, 4295.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 412, 412a (Mar. 3, 1911, ch. 231, § 276, 36 Stat. 1164; Feb. 3, 1917, ch. 27, 39 Stat. 873; May 21, 1945, ch. 129, title IV, 59 Stat. 198; July 5, 1946, ch. 541, title IV, 60 Stat. 478).
+Based on title 28, U.S.C., 1940 ed., §§ 412, 412a (Mar. 3, 1911, ch. 231, § 276, 36 Stat. 1164; Feb. 3, 1917, ch. 27, 39 Stat. 873; May 21, 1945, ch. 129, title IV, 59 Stat. 198; July 5, 1946, ch. 541, title IV, 60 Stat. 478).
 
 The words “The district court” were substituted for the phrase “the judge thereof, or by the judge senior in commission in districts having more than one judge” to conform to other sections authorizing appointment of court officers. See section 751 of this title relating to appointment of district court clerk.
 
@@ -211,15 +211,15 @@ Changes were made in phraseology.
 
 **Senate Revision Amendment**
 
-As finally enacted, act July 9, 1947, ch. 211, title IV, 61 Stat. 304, which was classified to Title 28, U.S.C., 1946 ed., § 412a, was also a source of this section. Accordingly such act was included by Senate amendment in the schedule of repeals. See 80th Congress Senate Report No. 1559.
+As finally enacted, act July 9, 1947, ch. 211, title IV, 61 Stat. 304, which was classified to Title 28, U.S.C., 1946 ed., § 412a, was also a source of this section. Accordingly such act was included by Senate amendment in the schedule of repeals. See 80th Congress Senate Report No. 1559.
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–406, § 5(a), struck out “publicly” after “judge shall” in first sentence and inserted “The clerk or jury commission shall post a general notice for public review in the clerk’s office and on the court’s website explaining the process by which names are periodically and randomly drawn.” after first sentence.
+2008—Subsec. (a). Pub. L. 110–406, § 5(a), struck out “publicly” after “judge shall” in first sentence and inserted “The clerk or jury commission shall post a general notice for public review in the clerk’s office and on the court’s website explaining the process by which names are periodically and randomly drawn.” after first sentence.
 
-Subsec. (b). Pub. L. 110–406, § 17(a), substituted “$1,000, imprisoned not more than three days, ordered to perform community service, or any combination thereof.” for “$100 or imprisoned not more than three days, or both.” in two places.
+Subsec. (b). Pub. L. 110–406, § 17(a), substituted “$1,000, imprisoned not more than three days, ordered to perform community service, or any combination thereof.” for “$100 or imprisoned not more than three days, or both.” in two places.
 
 1988—Subsec. (a). Pub. L. 100–702 amended second sentence generally. Prior to amendment, second sentence read as follows: “The clerk or jury commission shall prepare an alphabetical list of the names drawn, which list shall not be disclosed to any person except pursuant to the district court plan and to sections 1867 and 1868 of this title.”
 
@@ -231,7 +231,7 @@ Subsec. (b). Pub. L. 110–406, § 17(a), substituted “$1,000, imprisoned no
 
 Amendment by Pub. L. 90–274 effective 270 days after Mar. 27, 1968, except as to cases in which an indictment has been returned or a petit jury empaneled prior to such effective date, see section 104 of Pub. L. 90–274, set out as a note under section 1861 of this title.
 
-## § 1865. Qualifications for jury service
+## § 1865. Qualifications for jury service
 
 **(a)** The chief judge of the district court, or such other district court judge as the plan may provide, on his initiative or upon recommendation of the clerk or jury commission, or the clerk under supervision of the court if the court’s jury selection plan so authorizes, shall determine solely on the basis of information provided on the juror qualification form and other competent evidence whether a person is unqualified for, or exempt, or to be excused from jury service. The clerk shall enter such determination in the space provided on the juror qualification form and in any alphabetical list of names drawn from the master jury wheel. If a person did not appear in response to a summons, such fact shall be noted on said list.
 
@@ -247,11 +247,11 @@ Amendment by Pub. L. 90–274 effective 270 days after Mar. 27, 1968, except as 
 
 **(5)** has a charge pending against him for the commission of, or has been convicted in a State or Federal court of record of, a crime punishable by imprisonment for more than one year and his civil rights have not been restored.
 
-(June 25, 1948, ch. 646, 62 Stat. 952; Pub. L. 90–274, § 101, Mar. 27, 1968, 82 Stat. 58; Pub. L. 92–269, § 1, Apr. 6, 1972, 86 Stat. 117; Pub. L. 95–572, § 3(a), Nov. 2, 1978, 92 Stat. 2453; Pub. L. 100–702, title VIII, § 803(b), Nov. 19, 1988, 102 Stat. 4658; Pub. L. 106–518, title III, § 305, Nov. 13, 2000, 114 Stat. 2418.)
+(June 25, 1948, ch. 646, 62 Stat. 952; Pub. L. 90–274, § 101, Mar. 27, 1968, 82 Stat. 58; Pub. L. 92–269, § 1, Apr. 6, 1972, 86 Stat. 117; Pub. L. 95–572, § 3(a), Nov. 2, 1978, 92 Stat. 2453; Pub. L. 100–702, title VIII, § 803(b), Nov. 19, 1988, 102 Stat. 4658; Pub. L. 106–518, title III, § 305, Nov. 13, 2000, 114 Stat. 2418.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 181, 413 (Mar. 3, 1911, ch. 231, §§ 100, 277, 36 Stat. 1121, 1164).
+Based on title 28, U.S.C., 1940 ed., §§ 181, 413 (Mar. 3, 1911, ch. 231, §§ 100, 277, 36 Stat. 1121, 1164).
 
 Section consolidates a part of section 181 with section 413 of title 28, U.S.C., 1940 ed. Other provisions of said section 181 are incorporated in section 115 of this title.
 
@@ -265,9 +265,9 @@ Changes were made in phraseology.
 
 **Amendments**
 
-2000—Subsec. (a). Pub. L. 106–518, § 305(1), inserted “or the clerk under supervision of the court if the court’s jury selection plan so authorizes,” after “jury commission,”.
+2000—Subsec. (a). Pub. L. 106–518, § 305(1), inserted “or the clerk under supervision of the court if the court’s jury selection plan so authorizes,” after “jury commission,”.
 
-Subsec. (b). Pub. L. 106–518, § 305(2), inserted “or the clerk if the court’s jury selection plan so provides,” after “may provide,” in introductory provisions.
+Subsec. (b). Pub. L. 106–518, § 305(2), inserted “or the clerk if the court’s jury selection plan so provides,” after “may provide,” in introductory provisions.
 
 1988—Subsec. (a). Pub. L. 100–702 substituted “in any alphabetical” for “the alphabetical”.
 
@@ -289,7 +289,7 @@ Amendment by Pub. L. 95–572 applicable with respect to any grand or petit juro
 
 Amendment by Pub. L. 90–274 effective 270 days after Mar. 27, 1968, except as to cases in which an indictment has been returned or a petit jury empaneled prior to such effective date, see section 104 of Pub. L. 90–274, set out as a note under section 1861 of this title.
 
-## § 1866. Selection and summoning of jury panels
+## § 1866. Selection and summoning of jury panels
 
 **(a)** The jury commission, or in the absence thereof the clerk, shall maintain a qualified jury wheel and shall place in such wheel names of all persons drawn from the master jury wheel who are determined to be qualified as jurors and not exempt or excused pursuant to the district court plan. From time to time, the jury commission or the clerk shall draw at random from the qualified jury wheel such number of names of persons as may be required for assignment to grand and petit jury panels. The clerk or jury commission shall post a general notice for public review in the clerk’s office and on the court’s website explaining the process by which names are periodically and randomly drawn. The jury commission or the clerk shall prepare a separate list of names of persons assigned to each grand and petit jury panel.
 
@@ -311,13 +311,13 @@ If such service is made by mail, the summons may be served by the marshal or by 
 
 **(g)** Any person summoned for jury service who fails to appear as directed may be ordered by the district court to appear forthwith and show cause for failure to comply with the summons. Any person who fails to show good cause for noncompliance with a summons may be fined not more than $1,000, imprisoned not more than three days, ordered to perform community service, or any combination thereof.
 
-(June 25, 1948, ch. 646, 62 Stat. 952; May 24, 1949, ch. 179, § 96, 63 Stat. 103; Pub. L. 90–274, § 101, Mar. 27, 1968, 82 Stat. 58; Pub. L. 91–543, Dec. 11, 1970, 84 Stat. 1408; Pub. L. 95–572, § 2(b), Nov. 2, 1978, 92 Stat. 2453; Pub. L. 97–463, § 2, Jan. 12, 1983, 96 Stat. 2531; Pub. L. 100–702, title VIII, § 801, Nov. 19, 1988, 102 Stat. 4657; Pub. L. 110–406, §§ 4, 5(b), 17(b), Oct. 13, 2008, 122 Stat. 4292, 4295.)
+(June 25, 1948, ch. 646, 62 Stat. 952; May 24, 1949, ch. 179, § 96, 63 Stat. 103; Pub. L. 90–274, § 101, Mar. 27, 1968, 82 Stat. 58; Pub. L. 91–543, Dec. 11, 1970, 84 Stat. 1408; Pub. L. 95–572, § 2(b), Nov. 2, 1978, 92 Stat. 2453; Pub. L. 97–463, § 2, Jan. 12, 1983, 96 Stat. 2531; Pub. L. 100–702, title VIII, § 801, Nov. 19, 1988, 102 Stat. 4657; Pub. L. 110–406, §§ 4, 5(b), 17(b), Oct. 13, 2008, 122 Stat. 4292, 4295.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 28, U.S.C., 1940 ed., §§ 417, 418 (Mar. 3, 1911, ch. 231, §§ 280, 281, 36 Stat. 1165).
+Based on title 28, U.S.C., 1940 ed., §§ 417, 418 (Mar. 3, 1911, ch. 231, §§ 280, 281, 36 Stat. 1165).
 
 Section consolidates parts of sections 417, 418 of title 28, U.S.C., 1940 ed., with necessary changes in phraseology.
 
@@ -331,15 +331,15 @@ This section amends section 1866 of title 28, U.S.C., by restoring provision of 
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–406, § 5(b), struck out “publicly” after “clerk shall” in second sentence and inserted “The clerk or jury commission shall post a general notice for public review in the clerk’s office and on the court’s website explaining the process by which names are periodically and randomly drawn.” after second sentence.
+2008—Subsec. (a). Pub. L. 110–406, § 5(b), struck out “publicly” after “clerk shall” in second sentence and inserted “The clerk or jury commission shall post a general notice for public review in the clerk’s office and on the court’s website explaining the process by which names are periodically and randomly drawn.” after second sentence.
 
-Subsec. (g). Pub. L. 110–406, § 17(b), substituted “$1,000, imprisoned not more than three days, ordered to perform community service, or any combination thereof.” for “$100 or imprisoned not more than three days, or both.”
+Subsec. (g). Pub. L. 110–406, § 17(b), substituted “$1,000, imprisoned not more than three days, ordered to perform community service, or any combination thereof.” for “$100 or imprisoned not more than three days, or both.”
 
-Pub. L. 110–406, § 4, substituted “may be ordered” for “shall be ordered” and struck out “his” before “failure to comply”.
+Pub. L. 110–406, § 4, substituted “may be ordered” for “shall be ordered” and struck out “his” before “failure to comply”.
 
 1988—Subsec. (c)(1). Pub. L. 100–702 amended cl. (1) generally. Prior to amendment, cl. (1) read as follows: “excused by the court, upon a showing of undue hardship or extreme inconvenience, for such period as the court deems necessary, at the conclusion of which such person shall be summoned again for jury service under subsections (b) and (c) of this section, or”.
 
-1983—Subsec. (b). Pub. L. 97–463, § 2, inserted provision in second par. authorizing service by first-class mail of persons drawn for jury service, substituted in fourth par. “If such service is made by mail, the summons may be served by the marshal or by the clerk, the jury commission or their duly designated deputies, who shall make affidavit of service and shall attach thereto any receipt from the addressee for a registered or certified summons” for “If such service is made by registered or certified mail, the summons may be served by the clerk or jury commission or their duly designated deputies who shall make affidavit of service and shall file with such affidavit the addressee’s receipt for the registered or certified summons” and struck out provision requiring the marshal, if service was made by the marshal, to attach to his return the addressee’s receipt for the registered or certified mail.
+1983—Subsec. (b). Pub. L. 97–463, § 2, inserted provision in second par. authorizing service by first-class mail of persons drawn for jury service, substituted in fourth par. “If such service is made by mail, the summons may be served by the marshal or by the clerk, the jury commission or their duly designated deputies, who shall make affidavit of service and shall attach thereto any receipt from the addressee for a registered or certified summons” for “If such service is made by registered or certified mail, the summons may be served by the clerk or jury commission or their duly designated deputies who shall make affidavit of service and shall file with such affidavit the addressee’s receipt for the registered or certified summons” and struck out provision requiring the marshal, if service was made by the marshal, to attach to his return the addressee’s receipt for the registered or certified mail.
 
 1978—Subsec. (c). Pub. L. 95–572 struck out introductory text reference to par. (7) of section 1863(b) of this title.
 
@@ -363,7 +363,7 @@ Amendment by Pub. L. 95–572 applicable with respect to any grand or petit juro
 
 Amendment by Pub. L. 90–274 effective 270 days after Mar. 27, 1968, except as to cases in which an indictment has been returned or a petit jury empaneled prior to such effective date, see section 104 of Pub. L. 90–274, set out as a note under section 1861 of this title.
 
-## § 1867. Challenging compliance with selection procedures
+## § 1867. Challenging compliance with selection procedures
 
 **(a)** In criminal cases, before the voir dire examination begins, or within seven days after the defendant discovered or could have discovered, by the exercise of diligence, the grounds therefor, whichever is earlier, the defendant may move to dismiss the indictment or stay the proceedings against him on the ground of substantial failure to comply with the provisions of this title in selecting the grand or petit jury.
 
@@ -377,11 +377,11 @@ Amendment by Pub. L. 90–274 effective 270 days after Mar. 27, 1968, except as 
 
 **(f)** The contents of records or papers used by the jury commission or clerk in connection with the jury selection process shall not be disclosed, except pursuant to the district court plan or as may be necessary in the preparation or presentation of a motion under subsection (a), (b), or (c) of this section, until after the master jury wheel has been emptied and refilled pursuant to section 1863(b)(4) of this title and all persons selected to serve as jurors before the master wheel was emptied have completed such service. The parties in a case shall be allowed to inspect, reproduce, and copy such records or papers at all reasonable times during the preparation and pendency of such a motion. Any person who discloses the contents of any record or paper in violation of this subsection may be fined not more than $1,000 or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 646, 62 Stat. 953; Pub. L. 85–259, Sept. 2, 1957, 71 Stat. 583; Pub. L. 90–274, § 101, Mar. 27, 1968, 82 Stat. 59.)
+(June 25, 1948, ch. 646, 62 Stat. 953; Pub. L. 85–259, Sept. 2, 1957, 71 Stat. 583; Pub. L. 90–274, § 101, Mar. 27, 1968, 82 Stat. 59.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 416 (Mar. 3, 1911, ch. 231, § 279, 36 Stat. 1165; Jan. 31, 1929, ch. 126, 45 Stat. 1145).
+Based on title 28, U.S.C., 1940 ed., § 416 (Mar. 3, 1911, ch. 231, § 279, 36 Stat. 1165; Jan. 31, 1929, ch. 126, 45 Stat. 1145).
 
 Provisions for service by a disinterested person when marshal or his deputy is disqualified is incorporated in section 1868 of this title.
 
@@ -411,15 +411,15 @@ Changes were made in phraseology.
 
 Amendment by Pub. L. 90–274 effective 270 days after Mar. 27, 1968, except as to cases in which an indictment has been returned or a petit jury empaneled prior to such effective date, see section 104 of Pub. L. 90–274, set out as a note under section 1861 of this title.
 
-## § 1868. Maintenance and inspection of records
+## § 1868. Maintenance and inspection of records
 
 After the master jury wheel is emptied and refilled pursuant to section 1863(b)(4) of this title, and after all persons selected to serve as jurors before the master wheel was emptied have completed such service, all records and papers compiled and maintained by the jury commission or clerk before the master wheel was emptied shall be preserved in the custody of the clerk for four years or for such longer period as may be ordered by a court, and shall be available for public inspection for the purpose of determining the validity of the selection of any jury.
 
-(June 25, 1948, ch. 646, 62 Stat. 953; Pub. L. 90–274, § 101, Mar. 27, 1968, 82 Stat. 60.)
+(June 25, 1948, ch. 646, 62 Stat. 953; Pub. L. 90–274, § 101, Mar. 27, 1968, 82 Stat. 60.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 416, 417 (Mar. 3, 1911, ch. 231, §§ 279, 280, 36 Stat. 1165, Jan. 31, 1929, ch. 126, 45 Stat. 1145).
+Based on title 28, U.S.C., 1940 ed., §§ 416, 417 (Mar. 3, 1911, ch. 231, §§ 279, 280, 36 Stat. 1165, Jan. 31, 1929, ch. 126, 45 Stat. 1145).
 
 Section consolidates parts of sections 416, 417 of title 28, U.S.C., 1940 ed., with necessary changes in phraseology.
 
@@ -441,7 +441,7 @@ Words, “in the opinion of the court, disqualified” were substituted for “n
 
 Amendment by Pub. L. 90–274 effective 270 days after Mar. 27, 1968, except as to cases in which an indictment has been returned or a petit jury empaneled prior to such effective date, see section 104 of Pub. L. 90–274, set out as a note under section 1861 of this title.
 
-## § 1869. Definitions
+## § 1869. Definitions
 
 For purposes of this chapter—
 
@@ -467,33 +467,33 @@ For purposes of this chapter—
 
 **(k)** “jury summons” shall mean a summons issued by a clerk of court, jury commission, or their duly designated deputies, containing either a preprinted or stamped seal of court, and containing the name of the issuing clerk imprinted in preprinted, type, or facsimile manner on the summons or the envelopes transmitting the summons.
 
-(June 25, 1948, ch. 646, 62 Stat. 953; Pub. L. 88–139, § 2, Oct. 16, 1963, 77 Stat. 248; Pub. L. 90–274, § 101, Mar. 27, 1968, 82 Stat. 61; Pub. L. 91–358, title I, § 172(b), July 29, 1970, 84 Stat. 590; Pub. L. 92–437, § 1, Sept. 29, 1972, 86 Stat. 740; Pub. L. 95–572, §§ 3(b), 4, Nov. 2, 1978, 92 Stat. 2453; Pub. L. 95–598, title II, § 243, Nov. 6, 1978, 92 Stat. 2671; Pub. L. 99–650, § 3, Nov. 14, 1986, 100 Stat. 3641; Pub. L. 100–702, title VIII, §§ 802(a), 804, Nov. 19, 1988, 102 Stat. 4657, 4658; Pub. L. 110–406, § 5(c), Oct. 13, 2008, 122 Stat. 4292.)
+(June 25, 1948, ch. 646, 62 Stat. 953; Pub. L. 88–139, § 2, Oct. 16, 1963, 77 Stat. 248; Pub. L. 90–274, § 101, Mar. 27, 1968, 82 Stat. 61; Pub. L. 91–358, title I, § 172(b), July 29, 1970, 84 Stat. 590; Pub. L. 92–437, § 1, Sept. 29, 1972, 86 Stat. 740; Pub. L. 95–572, §§ 3(b), 4, Nov. 2, 1978, 92 Stat. 2453; Pub. L. 95–598, title II, § 243, Nov. 6, 1978, 92 Stat. 2671; Pub. L. 99–650, § 3, Nov. 14, 1986, 100 Stat. 3641; Pub. L. 100–702, title VIII, §§ 802(a), 804, Nov. 19, 1988, 102 Stat. 4657, 4658; Pub. L. 110–406, § 5(c), Oct. 13, 2008, 122 Stat. 4292.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 423 (Mar. 3, 1911, ch. 231, § 286, 36 Stat. 1166). Changes were made in phraseology.
+Based on title 28, U.S.C., 1940 ed., § 423 (Mar. 3, 1911, ch. 231, § 286, 36 Stat. 1166). Changes were made in phraseology.
 
 **Editorial Notes**
 
 **References in Text**
 
-The Voting Rights Act of 1965, referred to in subsec. (c), is Pub. L. 89–110, Aug. 6, 1965, 79 Stat. 437, which was formerly classified generally to subchapters I–A (§ 1973 et seq.), I–B (§ 1973aa et seq.), and I–C (§ 1973bb et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified generally to chapters 103 (§ 10301 et seq.), 105 (§ 10501 et seq.), and 107 (§ 10701 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
+The Voting Rights Act of 1965, referred to in subsec. (c), is Pub. L. 89–110, Aug. 6, 1965, 79 Stat. 437, which was formerly classified generally to subchapters I–A (§ 1973 et seq.), I–B (§ 1973aa et seq.), and I–C (§ 1973bb et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified generally to chapters 103 (§ 10301 et seq.), 105 (§ 10501 et seq.), and 107 (§ 10701 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
 2008—Subsecs. (j) to (*l*). Pub. L. 110–406 inserted “and” at end of subsec. (j), redesignated subsec. (*l*) as (k), and struck out former subsec. (k) which defined “publicly draw”.
 
-1988—Subsec. (a). Pub. L. 100–702, § 802(a), amended subsec. (a) generally, substituting “, any authorized deputy clerk, and any other person authorized by the court to assist the clerk in the performance of functions under this chapter” for “or any authorized deputy clerk”.
+1988—Subsec. (a). Pub. L. 100–702, § 802(a), amended subsec. (a) generally, substituting “, any authorized deputy clerk, and any other person authorized by the court to assist the clerk in the performance of functions under this chapter” for “or any authorized deputy clerk”.
 
-Subsec. (f). Pub. L. 100–702, § 804, amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “ ‘district court of the United States’, ‘district court’, and ‘court’ shall mean courts constituted under chapter 5 of title 28, United States Code, section 22 of the Organic Act of Guam, as amended (64 Stat. 389; 48 U.S.C. 1424), section 21 of the Revised Organic Act of the Virgin Islands (68 Stat. 506; 48 U.S.C. 1611), and section 1 of title 3, Canal Zone Code;;”.
+Subsec. (f). Pub. L. 100–702, § 804, amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “ ‘district court of the United States’, ‘district court’, and ‘court’ shall mean courts constituted under chapter 5 of title 28, United States Code, section 22 of the Organic Act of Guam, as amended (64 Stat. 389; 48 U.S.C. 1424), section 21 of the Revised Organic Act of the Virgin Islands (68 Stat. 506; 48 U.S.C. 1611), and section 1 of title 3, Canal Zone Code;;”.
 
 1986—Subsec. (f). Pub. L. 99–650 struck out “except that for purposes of sections 1861, 1862, 1866(c), 1866(d), and 1867 of this chapter such terms shall include the Superior Court of the District of Columbia” after “Canal Zone Code;”.
 
 1978—Subsec. (f). Pub. L. 95–598 directed the amendment of subsec. (f) by inserting “chapter 6 of title 28, United States Code,” after “chapter 5 of title 28, United States Code,”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-Subsec. (h). Pub. L. 95–572, § 3(b), struck out “by pardon or amnesty” after “civil rights restored”.
+Subsec. (h). Pub. L. 95–572, § 3(b), struck out “by pardon or amnesty” after “civil rights restored”.
 
-Subsecs. (j) to (*l*). Pub. L. 95–572, § 4, added subsecs. (j) to (*l*).
+Subsecs. (j) to (*l*). Pub. L. 95–572, § 4, added subsecs. (j) to (*l*).
 
 1972—Subsec. (h). Pub. L. 92–437 added race and occupation to the particulars to be elicited on the juror qualification form, in provisions distinguishing between information to be requested and information to be required, struck out “race and occupation of a potential juror”, and in information to be contained in the form, struck out “race, color” and “occupation” from the particulars, and required additional material to be contained in the form that information concerning race is required solely to enforce nondiscrimination in jury selection and that it has no bearing on an individual’s qualification for jury service.
 
@@ -507,7 +507,7 @@ Subsecs. (j) to (*l*). Pub. L. 95–572, § 4, added subsecs. (j) to (*l*).
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–650, § 4(a), Nov. 14, 1986, 100 Stat. 3641, provided in part that: “The provisions of this Act [amending this section] shall take effect 180 days after the date of enactment of this Act [Nov. 14, 1986]”.
+Pub. L. 99–650, § 4(a), Nov. 14, 1986, 100 Stat. 3641, provided in part that: “The provisions of this Act [amending this section] shall take effect 180 days after the date of enactment of this Act [Nov. 14, 1986]”.
 
 **Effective Date of 1978 Amendment**
 
@@ -515,7 +515,7 @@ Amendment by Pub. L. 95–572 applicable with respect to any grand or petit juro
 
 **Effective Date of 1972 Amendment**
 
-Pub. L. 92–437, § 2, Sept. 29, 1972, 86 Stat. 741, provided that: “This Act [amending this section] shall take effect on the sixtieth day after the date of its enactment [Sept. 29, 1972].”
+Pub. L. 92–437, § 2, Sept. 29, 1972, 86 Stat. 741, provided that: “This Act [amending this section] shall take effect on the sixtieth day after the date of its enactment [Sept. 29, 1972].”
 
 **Effective Date of 1970 Amendment**
 
@@ -527,9 +527,9 @@ Amendment by Pub. L. 90–274 effective 270 days after Mar. 27, 1968, except as 
 
 **Termination of United States District Court for the District of the Canal Zone**
 
-For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and Pub. L. 96–70, title II, §§ 2101, 2202–2203, Sept. 27, 1979, 93 Stat. 493, 494, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and Pub. L. 96–70, title II, §§ 2101, 2202–2203, Sept. 27, 1979, 93 Stat. 493, 494, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
-## § 1870. Challenges
+## § 1870. Challenges
 
 In civil cases, each party shall be entitled to three peremptory challenges. Several defendants or several plaintiffs may be considered as a single party for the purposes of making challenges, or the court may allow additional peremptory challenges and permit them to be exercised separately or jointly.
 
@@ -539,7 +539,7 @@ All challenges for cause or favor, whether to the array or panel or to individua
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 424 (Mar. 3, 1911, ch. 231, § 287, 36 Stat. 1166).
+Based on title 28, U.S.C., 1940 ed., § 424 (Mar. 3, 1911, ch. 231, § 287, 36 Stat. 1166).
 
 Provisions of section 424 of title 28, U.S.C., 1940 ed., relating to the number of peremptory challenges in criminal cases were deleted as superseded by Rule 24 of the Federal Rules of Criminal Procedure.
 
@@ -553,9 +553,9 @@ Changes were made in phraseology.
 
 **Amendments**
 
-1959—Pub. L. 86–282 substituted “may” for “shall” after “several plaintiffs”, and “, or the court may allow” for “. If there is more than one defendant the court may allow the defendants”.
+1959—Pub. L. 86–282 substituted “may” for “shall” after “several plaintiffs”, and “, or the court may allow” for “. If there is more than one defendant the court may allow the defendants”.
 
-## § 1871. Fees
+## § 1871. Fees
 
 **(a)** Grand and petit jurors in district courts appearing pursuant to this chapter shall be paid the fees and allowances provided by this section. The requisite fees and allowances shall be disbursed on the certificate of the clerk of court in accordance with the procedure established by the Director of the Administrative Office of the United States Courts. Attendance fees for extended service under subsection (b) of this section shall be certified by the clerk only upon the order of a district judge.
 
@@ -597,13 +597,13 @@ Changes were made in phraseology.
 
 **(g)** The Director of the Administrative Office of the United States Courts shall promulgate such regulations as may be necessary to carry out his authority under this section.
 
-(June 25, 1948, ch. 646, 62 Stat. 953; May 24, 1949, ch. 139, § 97, 63 Stat. 103; July 14, 1949, ch. 333, 63 Stat. 411; Pub. L. 85–299, Sept. 7, 1957, 71 Stat. 618; Pub. L. 89–165, Sept. 2, 1965, 79 Stat. 645; Pub. L. 90–274, § 102(a), Mar. 27, 1968, 82 Stat. 62; Pub. L. 95–572, § 5, Nov. 2, 1978, 92 Stat. 2454; Pub. L. 101–650, title III, § 314(b), Dec. 1, 1990, 104 Stat. 5115; Pub. L. 102–572, title IV, § 402, Oct. 29, 1992, 106 Stat. 4511; Pub. L. 110–406, § 3(a), Oct. 13, 2008, 122 Stat. 4292; Pub. L. 115–141, div. E, title III, § 307(a), Mar. 23, 2018, 132 Stat. 556.)
+(June 25, 1948, ch. 646, 62 Stat. 953; May 24, 1949, ch. 139, § 97, 63 Stat. 103; July 14, 1949, ch. 333, 63 Stat. 411; Pub. L. 85–299, Sept. 7, 1957, 71 Stat. 618; Pub. L. 89–165, Sept. 2, 1965, 79 Stat. 645; Pub. L. 90–274, § 102(a), Mar. 27, 1968, 82 Stat. 62; Pub. L. 95–572, § 5, Nov. 2, 1978, 92 Stat. 2454; Pub. L. 101–650, title III, § 314(b), Dec. 1, 1990, 104 Stat. 5115; Pub. L. 102–572, title IV, § 402, Oct. 29, 1992, 106 Stat. 4511; Pub. L. 110–406, § 3(a), Oct. 13, 2008, 122 Stat. 4292; Pub. L. 115–141, div. E, title III, § 307(a), Mar. 23, 2018, 132 Stat. 556.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 28, U.S.C., 1940 ed., §§ 600, 600a, 600b, 608, and sections 11–1512 and 11–1513 of the D.C. Code, 1940 ed., (R.S. §§ 236, 323; Apr. 26, 1926, ch. 183, §§ 1, 2, 44 Stat. 323; May 17, 1932, ch. 190, 47 Stat. 158; Oct. 13, 1941, ch. 431, § 2, 55 Stat. 736).
+Based on title 28, U.S.C., 1940 ed., §§ 600, 600a, 600b, 608, and sections 11–1512 and 11–1513 of the D.C. Code, 1940 ed., (R.S. §§ 236, 323; Apr. 26, 1926, ch. 183, §§ 1, 2, 44 Stat. 323; May 17, 1932, ch. 190, 47 Stat. 158; Oct. 13, 1941, ch. 431, § 2, 55 Stat. 736).
 
 Section consolidates section 600 of title 28, U.S.C., 1940 ed., and sections 11–1512 and 11–1513 of the D.C. Code, 1940 ed., with part of section 608 of title 28, U.S.C., 1940 ed. The remainder of such section 608, relating to payment of witnesses’ compensation, is the basis of section 1825 of this title.
 
@@ -645,11 +645,11 @@ Act May 24, 1949, increased jury fees and mileage and subsistence allowances.
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–141, div. E, title III, § 307(b), Mar. 23, 2018, 132 Stat. 556, provided that: “The amendment made in subsection (a) [amending this section] shall take effect 45 days after the date of enactment of this Act [Mar. 23, 2018].”
+Pub. L. 115–141, div. E, title III, § 307(b), Mar. 23, 2018, 132 Stat. 556, provided that: “The amendment made in subsection (a) [amending this section] shall take effect 45 days after the date of enactment of this Act [Mar. 23, 2018].”
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–406, § 3(b), Oct. 13, 2008, 122 Stat. 4292, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 2009.”
+Pub. L. 110–406, § 3(b), Oct. 13, 2008, 122 Stat. 4292, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 2009.”
 
 **Effective Date of 1992 Amendment**
 
@@ -667,7 +667,7 @@ Amendment by Pub. L. 90–274 effective 270 days after Mar. 27, 1968, except as 
 
 Pub. L. 101–162, title IV, Nov. 21, 1989, 103 Stat. 1012, provided: “That for fiscal year 1990 and here­after, funds appropriated under this heading [Courts of Appeals, District Courts and Other Judicial Services and fees of jurors and commissioners] shall be available for refreshment of jurors.”
 
-## § 1872. Issues of fact in Supreme Court
+## § 1872. Issues of fact in Supreme Court
 
 In all original actions at law in the Supreme Court against citizens of the United States, issues of fact shall be tried by a jury.
 
@@ -675,11 +675,11 @@ In all original actions at law in the Supreme Court against citizens of the Unit
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 343 (Mar. 3, 1911, ch. 231, § 235, 36 Stat. 1156).
+Based on title 28, U.S.C., 1940 ed., § 343 (Mar. 3, 1911, ch. 231, § 235, 36 Stat. 1156).
 
 Changes were made in phraseology.
 
-## § 1873. Admiralty and maritime cases
+## § 1873. Admiralty and maritime cases
 
 In any case of admiralty and maritime jurisdiction relating to any matter of contract or tort arising upon or concerning any vessel of twenty tons or upward, enrolled and licensed for the coasting trade, and employed in the business of commerce and navigation between places in different states upon the lakes and navigable waters connecting said lakes, the trial of all issues of fact shall be by jury if either party demands it.
 
@@ -687,7 +687,7 @@ In any case of admiralty and maritime jurisdiction relating to any matter of con
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 770 (R.S. §§ 566, 648; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167).
+Based on title 28, U.S.C., 1940 ed., § 770 (R.S. §§ 566, 648; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167).
 
 Words “and Territories” following words “in different States” were omitted as obsolete. The act of February 26, 1845, ch. 20, 5 Stat. 726, from which this language was derived was intended primarily to cover the Great Lakes regions.
 
@@ -695,7 +695,7 @@ The first sentence of section 770 of title 28, U.S.C., 1940 ed., providing gener
 
 Changes were made in phraseology.
 
-## § 1874. Actions on bonds and specialties
+## § 1874. Actions on bonds and specialties
 
 In all actions to recover the forfeiture annexed to any articles of agreement, covenant, bond, or other specialty, wherein the forfeiture, breach, or nonperformance appears by default or confession of the defendant, the court shall render judgment for the plaintiff for such amount as is due. If the sum is uncertain, it shall, upon request of either party, be assessed by a jury.
 
@@ -703,7 +703,7 @@ In all actions to recover the forfeiture annexed to any articles of agreement, c
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 785 (R.S. § 961).
+Based on title 28, U.S.C., 1940 ed., § 785 (R.S. § 961).
 
 Word “actions” was substituted for “all suits brought,” in view of Rule 2 of the Federal Rules of Civil Procedure. For the same reason, words “according to equity,” after “to recover so much as is due,” were omitted.
 
@@ -711,7 +711,7 @@ Words “or upon demurrer,” after “default or confession of the defendant,�
 
 Changes were made in phraseology.
 
-## § 1875. Protection of jurors’ employment
+## § 1875. Protection of jurors’ employment
 
 **(a)** No employer shall discharge, threaten to discharge, intimidate, or coerce any permanent employee by reason of such employee’s jury service, or the attendance or scheduled attendance in connection with such service, in any court of the United States.
 
@@ -731,7 +731,7 @@ Changes were made in phraseology.
 
 **(2)** In any action or proceeding under this section, the court may award a prevailing employee who brings such action by retained counsel a reasonable attorney’s fee as part of the costs. The court may tax a defendant employer, as costs payable to the court, the attorney fees and expenses incurred on behalf of a prevailing employee, where such costs were expended by the court pursuant to paragraph (1) of this subsection. The court may award a prevailing employer a reasonable attorney’s fee as part of the costs only if the court finds that the action is frivolous, vexatious, or brought in bad faith.
 
-(Added Pub. L. 95–572, § 6(a)(1), Nov. 2, 1978, 92 Stat. 2456; amended Pub. L. 97–463, § 1, Jan. 12, 1983, 96 Stat. 2531; Pub. L. 110–406, § 19, Oct. 13, 2008, 122 Stat. 4295.)
+(Added Pub. L. 95–572, § 6(a)(1), Nov. 2, 1978, 92 Stat. 2456; amended Pub. L. 97–463, § 1, Jan. 12, 1983, 96 Stat. 2531; Pub. L. 110–406, § 19, Oct. 13, 2008, 122 Stat. 4295.)
 
 **Editorial Notes**
 
@@ -739,9 +739,9 @@ Changes were made in phraseology.
 
 2008—Subsec. (b)(3). Pub. L. 110–406 substituted “$5,000 for each violation as to each employee, and may be ordered to perform community service.” for “$1,000 for each violation as to each employee.”
 
-1983—Subsec. (d)(1). Pub. L. 97–463, § 1(1), substituted designation “(d)(1)” for “(d)” before “An individual claiming”.
+1983—Subsec. (d)(1). Pub. L. 97–463, § 1(1), substituted designation “(d)(1)” for “(d)” before “An individual claiming”.
 
-Subsec. (d)(2). Pub. L. 97–463, § 1(2), inserted provision empowering the court to tax a defendant employer, as costs payable to the court, the attorney fees and expenses incurred on behalf of a prevailing employee, where such costs were expended by the court pursuant to par. (1) of this subsection and, in existing provisions, substituted “only if the court finds that the action is frivolous” for “if the court determines that the action is frivolous”.
+Subsec. (d)(2). Pub. L. 97–463, § 1(2), inserted provision empowering the court to tax a defendant employer, as costs payable to the court, the attorney fees and expenses incurred on behalf of a prevailing employee, where such costs were expended by the court pursuant to par. (1) of this subsection and, in existing provisions, substituted “only if the court finds that the action is frivolous” for “if the court determines that the action is frivolous”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -749,7 +749,7 @@ Subsec. (d)(2). Pub. L. 97–463, § 1(2), inserted provision empowering the c
 
 Section applicable with respect to any grand or petit juror summoned for service or actually serving on or after Nov. 2, 1978, see section 7(a) of Pub. L. 95–572, set out as a note under section 1363 of this title.
 
-## § 1876. Trial by jury in the Court of International Trade
+## § 1876. Trial by jury in the Court of International Trade
 
 **(a)** In any civil action in the Court of International Trade which is to be tried before a jury, the jury shall be selected in accordance with the provisions of this chapter and under the procedures set forth in the jury selection plan of the district court for the judicial district in which the case is to be tried.
 
@@ -763,7 +763,7 @@ Section applicable with respect to any grand or petit juror summoned for service
 
 **(4)** jurors shall be compensated in accordance with section 1871 of this title.
 
-(Added Pub. L. 96–417, title III, § 302(a), Oct. 10, 1980, 94 Stat. 1739.)
+(Added Pub. L. 96–417, title III, § 302(a), Oct. 10, 1980, 94 Stat. 1739.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -771,7 +771,7 @@ Section applicable with respect to any grand or petit juror summoned for service
 
 Section applicable with respect to civil actions commenced on or after Nov. 1, 1980, see section 701(b)(1)(C) of Pub. L. 96–417, set out as an Effective Date of 1980 Amendment note under section 251 of this title.
 
-## § 1877. Protection of jurors
+## § 1877. Protection of jurors
 
 **(a)** Subject to the provisions of this section and title 5 of the United States Code, subchapter 1 of chapter 81, title 5, United States Code, applies to a Federal grand or petit juror, except that entitlement to disability compensation payments does not commence until the day after the date of termination of service as a juror.
 
@@ -781,7 +781,7 @@ Section applicable with respect to civil actions commenced on or after Nov. 1, 1
 
 **(2)** performance of duty as a juror includes that time when a juror is (A) in attendance at court pursuant to a summons, (B) in deliberation, (C) sequestered by order of a judge, or (D) at a site, by order of the court, for the taking of a view.
 
-(Added Pub. L. 97–463, § 3(1), Jan. 12, 1983, 96 Stat. 2531.)
+(Added Pub. L. 97–463, § 3(1), Jan. 12, 1983, 96 Stat. 2531.)
 
 **Editorial Notes**
 
@@ -789,13 +789,13 @@ Section applicable with respect to civil actions commenced on or after Nov. 1, 1
 
 The General Schedule, referred to in subsec. (b)(1), is set out under section 5332 of Title 5, Government Organization and Employees.
 
-## § 1878. Optional use of a one-step summoning and qualification procedure
+## § 1878. Optional use of a one-step summoning and qualification procedure
 
 **(a)** At the option of each district court, jurors may be summoned and qualified in a single procedure, if the court’s jury selection plan so authorizes, in lieu of the two separate procedures otherwise provided for by this chapter. Courts shall ensure that a one-step summoning and qualification procedure conducted under this section does not violate the policies and objectives set forth in sections 1861 and 1862 of this title.
 
 **(b)** Jury selection conducted under this section shall be subject to challenge under section 1867 of this title for substantial failure to comply with the provisions of this title in selecting the jury. However, no challenge under section 1867 of this title shall lie solely on the basis that a jury was selected in accordance with a one-step summoning and qualification procedure authorized by this section.
 
-(Added Pub. L. 100–702, title VIII, § 805(a), Nov. 19, 1988, 102 Stat. 4658; amended Pub. L. 102–572, title IV, § 403(a), Oct. 29, 1992, 106 Stat. 4512.)
+(Added Pub. L. 100–702, title VIII, § 805(a), Nov. 19, 1988, 102 Stat. 4658; amended Pub. L. 102–572, title IV, § 403(a), Oct. 29, 1992, 106 Stat. 4512.)
 
 **Editorial Notes**
 
@@ -815,4 +815,4 @@ Amendment by Pub. L. 102–572 effective Jan. 1, 1993, see section 1101(a) of Pu
 
 **Savings Provision**
 
-Pub. L. 102–572, title IV, § 403(c), Oct. 29, 1972, 106 Stat. 4512, provided that: “For courts participating in the experiment authorized under section 1878 of title 28, United States Code (as in effect before the effective date of this section [Jan. 1, 1993]), the amendment made by subsection (a) of this section [amending this section] shall be effective on and after January 1, 1992.”
+Pub. L. 102–572, title IV, § 403(c), Oct. 29, 1972, 106 Stat. 4512, provided that: “For courts participating in the experiment authorized under section 1878 of title 28, United States Code (as in effect before the effective date of this section [Jan. 1, 1993]), the amendment made by subsection (a) of this section [amending this section] shall be effective on and after January 1, 1992.”

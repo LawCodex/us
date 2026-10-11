@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 97—DEPARTMENT OF HOMELAND SECURITY
 
-## § 9701. Establishment of human resources management system
+## § 9701. Establishment of human resources management system
 
 **(a) In General.—** Notwithstanding any other provision of this part, the Secretary of Homeland Security may, in regulations prescribed jointly with the Director of the Office of Personnel Management, establish, and from time to time adjust, a human resources management system for some or all of the organizational units of the Department of Homeland Security.
 
@@ -139,7 +139,7 @@ retrieved: 2026-10-11
 
 **(h) Sunset Provision.—** Effective 5 years after the conclusion of the transition period defined under section 1501 of the Homeland Security Act of 2002, all authority to issue regulations under this section (including regulations which would modify, supersede, or terminate any regulations previously issued under this section) shall cease to be available.
 
-(Added Pub. L. 107–296, title VIII, § 841(a)(2), Nov. 25, 2002, 116 Stat. 2230.)
+(Added Pub. L. 107–296, title VIII, § 841(a)(2), Nov. 25, 2002, 116 Stat. 2230.)
 
 **Editorial Notes**
 
@@ -157,4 +157,4 @@ Section effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–29
 
 **Allowances and Benefits for Personnel Abroad**
 
-Pub. L. 111–83, title V, § 546, Oct. 28, 2009, 123 Stat. 2177, provided that: “For fiscal year 2010 and thereafter, the Secretary [of Homeland Security] may provide to personnel appointed or assigned to serve abroad, allowances and benefits similar to those provided under chapter 9 of title I of the Foreign Service Act of 1990 [1980] (22 U.S.C. 4081 et seq.).”
+Pub. L. 111–83, title V, § 546, Oct. 28, 2009, 123 Stat. 2177, provided that: “For fiscal year 2010 and thereafter, the Secretary [of Homeland Security] may provide to personnel appointed or assigned to serve abroad, allowances and benefits similar to those provided under chapter 9 of title I of the Foreign Service Act of 1990 [1980] (22 U.S.C. 4081 et seq.).”

@@ -19,7 +19,7 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1989—Pub. L. 101–12, § 3(b)(2), (3), Apr. 10, 1989, 103 Stat. 31, substituted “, OFFICE OF SPECIAL COUNSEL, AND EMPLOYEE RIGHT OF ACTION” for “AND SPECIAL COUNSEL” in chapter heading, and amended chapter analysis generally, inserting subchapter I heading, and in item 1204 substituting “Powers and functions of the Merit Systems Protection Board” for “Special Counsel; appointment and removal”, in item 1205 substituting “Transmittal of information to Congress” for “Powers and functions of the Merit Systems Protection Board and Special Counsel”, in item 1206 substituting “Annual report” for “Authority and responsibilities of the Special Counsel”, omitting items 1207 “Hearings and decisions on complaints filed by the Special Counsel”, 1208 “Stays of certain personnel actions”, and 1209 “Information”, and inserting subchapters II and III headings and items 1211 to 1219, 1221, and 1222.
+1989—Pub. L. 101–12, § 3(b)(2), (3), Apr. 10, 1989, 103 Stat. 31, substituted “, OFFICE OF SPECIAL COUNSEL, AND EMPLOYEE RIGHT OF ACTION” for “AND SPECIAL COUNSEL” in chapter heading, and amended chapter analysis generally, inserting subchapter I heading, and in item 1204 substituting “Powers and functions of the Merit Systems Protection Board” for “Special Counsel; appointment and removal”, in item 1205 substituting “Transmittal of information to Congress” for “Powers and functions of the Merit Systems Protection Board and Special Counsel”, in item 1206 substituting “Annual report” for “Authority and responsibilities of the Special Counsel”, omitting items 1207 “Hearings and decisions on complaints filed by the Special Counsel”, 1208 “Stays of certain personnel actions”, and 1209 “Information”, and inserting subchapters II and III headings and items 1211 to 1219, 1221, and 1222.
 
 ## SUBCHAPTER I—MERIT SYSTEMS PROTECTION BOARD
 
@@ -27,13 +27,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1989—Pub. L. 101–12, § 3(b)(4), Apr. 10, 1989, 103 Stat. 31, inserted subchapter heading.
+1989—Pub. L. 101–12, § 3(b)(4), Apr. 10, 1989, 103 Stat. 31, inserted subchapter heading.
 
-### § 1201. Appointment of members of the Merit Systems Protection Board
+### § 1201. Appointment of members of the Merit Systems Protection Board
 
 The Merit Systems Protection Board is composed of 3 members appointed by the President, by and with the advice and consent of the Senate, not more than 2 of whom may be adherents of the same political party. The members of the Board shall be individuals who, by demonstrated ability, background, training, or experience are especially qualified to carry out the functions of the Board. No member of the Board may hold another office or position in the Government of the United States, except as otherwise provided by law or at the direction of the President. The Board shall have an official seal which shall be judicially noticed. The Board shall have its principal office in the District of Columbia and may have field offices in other appropriate locations.
 
-(Added Pub. L. 95–454, title II, § 202(a), Oct. 13, 1978, 92 Stat. 1121; amended Pub. L. 101–12, § 3(a)(1), Apr. 10, 1989, 103 Stat. 16.)
+(Added Pub. L. 95–454, title II, § 202(a), Oct. 13, 1978, 92 Stat. 1121; amended Pub. L. 101–12, § 3(a)(1), Apr. 10, 1989, 103 Stat. 16.)
 
 **Editorial Notes**
 
@@ -45,7 +45,7 @@ The Merit Systems Protection Board is composed of 3 members appointed by the Pre
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–12, § 11, Apr. 10, 1989, 103 Stat. 35, provided that: “This Act and the amendments made by this Act [see Short Title of 1989 Amendment note below] shall take effect 90 days following the date of enactment of this Act [Apr. 10, 1989].”
+Pub. L. 101–12, § 11, Apr. 10, 1989, 103 Stat. 35, provided that: “This Act and the amendments made by this Act [see Short Title of 1989 Amendment note below] shall take effect 90 days following the date of enactment of this Act [Apr. 10, 1989].”
 
 **Effective Date**
 
@@ -53,11 +53,11 @@ Subchapter effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95�
 
 **Short Title of 1989 Amendment**
 
-Pub. L. 101–12, § 1, Apr. 10, 1989, 103 Stat. 16, provided that: “This Act [enacting subchapters II and III of this chapter and section 3352 of this title, amending this section and sections 1202 to 1206, 1209, 1211, 2302, 2303, 3393, 7502, 7512, 7521, 7542, 7701, and 7703 of this title and section 4139 of Title 22, Foreign Relations and Intercourse, repealing sections 1207 and 1208 of this title, and enacting provisions set out as notes under this section and sections 1211 and 5509 of this title] may be cited as the ‘Whistleblower Protection Act of 1989’.”
+Pub. L. 101–12, § 1, Apr. 10, 1989, 103 Stat. 16, provided that: “This Act [enacting subchapters II and III of this chapter and section 3352 of this title, amending this section and sections 1202 to 1206, 1209, 1211, 2302, 2303, 3393, 7502, 7512, 7521, 7542, 7701, and 7703 of this title and section 4139 of Title 22, Foreign Relations and Intercourse, repealing sections 1207 and 1208 of this title, and enacting provisions set out as notes under this section and sections 1211 and 5509 of this title] may be cited as the ‘Whistleblower Protection Act of 1989’.”
 
 **Savings Provision**
 
-Pub. L. 101–12, § 7, Apr. 10, 1989, 103 Stat. 34, provided that:
+Pub. L. 101–12, § 7, Apr. 10, 1989, 103 Stat. 34, provided that:
 
 > **“(a) Orders, Rules, and Regulations.—** All orders, rules, and regulations issued by the Merit Systems Protection Board or the Special Counsel before the effective date of this Act [see Effective Date of 1989 Amendment note above] shall continue in effect, according to their terms, until modified, terminated, superseded, or repealed.
 
@@ -67,7 +67,7 @@ Pub. L. 101–12, § 7, Apr. 10, 1989, 103 Stat. 34, provided that:
 
 **Whistleblower Protection; Congressional Statement of Findings and Purpose**
 
-Pub. L. 101–12, § 2, Apr. 10, 1989, 103 Stat. 16, provided that:
+Pub. L. 101–12, § 2, Apr. 10, 1989, 103 Stat. 16, provided that:
 
 > **“(a) Findings.—** The Congress finds that—
 
@@ -91,9 +91,9 @@ Pub. L. 101–12, § 2, Apr. 10, 1989, 103 Stat. 16, provided that:
 
 **Terms of Office of Members**
 
-Pub. L. 95–454, title II, § 202(b), Oct. 13, 1978, 92 Stat. 1131, provided that: “Any term of office of any member of the Merit Systems Protection Board serving on the effective date of this Act [see Effective Date of 1978 Amendment note set out under section 1101 of this title] shall continue in effect until the term would expire under section 1102 of title 5, United States Code, as in effect immediately before the effective date of this Act, and upon expiration of the term, appointments to such office shall be made under sections 1201 and 1202 of title 5, United States Code (as added by this section).”
+Pub. L. 95–454, title II, § 202(b), Oct. 13, 1978, 92 Stat. 1131, provided that: “Any term of office of any member of the Merit Systems Protection Board serving on the effective date of this Act [see Effective Date of 1978 Amendment note set out under section 1101 of this title] shall continue in effect until the term would expire under section 1102 of title 5, United States Code, as in effect immediately before the effective date of this Act, and upon expiration of the term, appointments to such office shall be made under sections 1201 and 1202 of title 5, United States Code (as added by this section).”
 
-### § 1202. Term of office; filling vacancies; removal
+### § 1202. Term of office; filling vacancies; removal
 
 **(a)** The term of office of each member of the Merit Systems Protection Board is 7 years.
 
@@ -103,15 +103,15 @@ Pub. L. 95–454, title II, § 202(b), Oct. 13, 1978, 92 Stat. 1131, provided 
 
 **(d)** Any member may be removed by the President only for inefficiency, neglect of duty, or malfeasance in office.
 
-(Added Pub. L. 95–454, title II, § 202(a), Oct. 13, 1978, 92 Stat. 1122; amended Pub. L. 100–202, § 101(m) [title VI, § 620], Dec. 22, 1987, 101 Stat. 1329–390, 1329–427; Pub. L. 101–12, § 3(a)(2), (3), Apr. 10, 1989, 103 Stat. 17.)
+(Added Pub. L. 95–454, title II, § 202(a), Oct. 13, 1978, 92 Stat. 1122; amended Pub. L. 100–202, § 101(m) [title VI, § 620], Dec. 22, 1987, 101 Stat. 1329–390, 1329–427; Pub. L. 101–12, § 3(a)(2), (3), Apr. 10, 1989, 103 Stat. 17.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1989—Pub. L. 101–12, § 3(a)(2), substituted a semicolon for the comma after “office” in section catchline.
+1989—Pub. L. 101–12, § 3(a)(2), substituted a semicolon for the comma after “office” in section catchline.
 
-Subsec. (b). Pub. L. 101–12, § 3(a)(3), substituted “the member’s” for “his” in first sentence and struck out “of this title” after “section 1201” in second sentence.
+Subsec. (b). Pub. L. 101–12, § 3(a)(3), substituted “the member’s” for “his” in first sentence and struck out “of this title” after “section 1201” in second sentence.
 
 1987—Subsec. (b). Pub. L. 100–202 inserted provision permitting any new member serving portion of seven-year term to continue serving until successor is appointed and has qualified, with exception limiting duration of such service.
 
@@ -121,7 +121,7 @@ Subsec. (b). Pub. L. 101–12, § 3(a)(3), substituted “the member’s” fo
 
 Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see section 11 of Pub. L. 101–12, set out as a note under section 1201 of this title.
 
-### § 1203. Chairman; Vice Chairman
+### § 1203. Chairman; Vice Chairman
 
 **(a)** The President shall from time to time appoint, by and with the advice and consent of the Senate, one of the members of the Merit Systems Protection Board as the Chairman of the Board. The Chairman is the chief executive and administrative officer of the Board.
 
@@ -129,15 +129,15 @@ Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see sec
 
 **(c)** During the absence or disability of both the Chairman and the Vice Chairman, or when the offices of Chairman and Vice Chairman are vacant, the remaining Board member shall perform the functions vested in the Chairman.
 
-(Added Pub. L. 95–454, title II, § 202(a), Oct. 13, 1978, 92 Stat. 1122; amended Pub. L. 101–12, § 3(a)(4), (5), Apr. 10, 1989, 103 Stat. 17.)
+(Added Pub. L. 95–454, title II, § 202(a), Oct. 13, 1978, 92 Stat. 1122; amended Pub. L. 101–12, § 3(a)(4), (5), Apr. 10, 1989, 103 Stat. 17.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1989—Subsec. (a). Pub. L. 101–12, § 3(a)(4), struck out the comma after “time” in first sentence.
+1989—Subsec. (a). Pub. L. 101–12, § 3(a)(4), struck out the comma after “time” in first sentence.
 
-Subsec. (c). Pub. L. 101–12, § 3(a)(5), substituted “the Chairman and the Vice Chairman” for “the Chairman and Vice Chairman” after “both”.
+Subsec. (c). Pub. L. 101–12, § 3(a)(5), substituted “the Chairman and the Vice Chairman” for “the Chairman and Vice Chairman” after “both”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -145,7 +145,7 @@ Subsec. (c). Pub. L. 101–12, § 3(a)(5), substituted “the Chairman and the
 
 Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see section 11 of Pub. L. 101–12, set out as a note under section 1201 of this title.
 
-### § 1204. Powers and functions of the Merit Systems Protection Board
+### § 1204. Powers and functions of the Merit Systems Protection Board
 
 **(a)** The Merit Systems Protection Board shall—
 
@@ -237,7 +237,7 @@ Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see sec
 
 **(n)** The Board may accept and use gifts and donations of property and services to carry out the duties of the Board.
 
-(Added Pub. L. 95–454, title II, § 202(a), Oct. 13, 1978, 92 Stat. 1122, § 1205; amended Pub. L. 97–258, § 3(a)(2), Sept. 13, 1982, 96 Stat. 1063; renumbered § 1204 and amended Pub. L. 101–12, § 3(a)(7), Apr. 10, 1989, 103 Stat. 17; Pub. L. 102–568, title V, § 506(c)(4), Oct. 29, 1992, 106 Stat. 4341; Pub. L. 103–353, § 2(b)(2)(A), Oct. 13, 1994, 108 Stat. 3169; Pub. L. 103–424, § 2, Oct. 29, 1994, 108 Stat. 4361; Pub. L. 103–446, title XII, § 1203(c)(1), Nov. 2, 1994, 108 Stat. 4690; Pub. L. 112–199, title I, § 107(a), Nov. 27, 2012, 126 Stat. 1469; Pub. L. 113–76, div. E, title V, Jan. 17, 2014, 128 Stat. 217.)
+(Added Pub. L. 95–454, title II, § 202(a), Oct. 13, 1978, 92 Stat. 1122, § 1205; amended Pub. L. 97–258, § 3(a)(2), Sept. 13, 1982, 96 Stat. 1063; renumbered § 1204 and amended Pub. L. 101–12, § 3(a)(7), Apr. 10, 1989, 103 Stat. 17; Pub. L. 102–568, title V, § 506(c)(4), Oct. 29, 1992, 106 Stat. 4341; Pub. L. 103–353, § 2(b)(2)(A), Oct. 13, 1994, 108 Stat. 3169; Pub. L. 103–424, § 2, Oct. 29, 1994, 108 Stat. 4361; Pub. L. 103–446, title XII, § 1203(c)(1), Nov. 2, 1994, 108 Stat. 4690; Pub. L. 112–199, title I, § 107(a), Nov. 27, 2012, 126 Stat. 1469; Pub. L. 113–76, div. E, title V, Jan. 17, 2014, 128 Stat. 217.)
 
 **Editorial Notes**
 
@@ -247,7 +247,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (d), are set out in
 
 **Prior Provisions**
 
-A prior section 1204 was renumbered section 1211(b) of this title by Pub. L. 101–12, § 3(a)(6). Pub. L. 102–378, § 2(3), Oct. 2, 1992, 106 Stat. 1346, struck out section catchline of prior section 1204.
+A prior section 1204 was renumbered section 1211(b) of this title by Pub. L. 101–12, § 3(a)(6). Pub. L. 102–378, § 2(3), Oct. 2, 1992, 106 Stat. 1346, struck out section catchline of prior section 1204.
 
 **Amendments**
 
@@ -263,47 +263,47 @@ Subsec. (m). Pub. L. 103–424 added subsec. (m).
 
 1992—Subsec. (a)(1). Pub. L. 102–568 substituted “4323” for “2023”.
 
-1989—Pub. L. 101–12, § 3(a)(7), renumbered section 1205 of this title as this section.
+1989—Pub. L. 101–12, § 3(a)(7), renumbered section 1205 of this title as this section.
 
-Pub. L. 101–12, § 3(a)(7)(A), struck out “and Special Counsel” after “Board” in section catchline.
+Pub. L. 101–12, § 3(a)(7)(A), struck out “and Special Counsel” after “Board” in section catchline.
 
-Subsec. (a)(4). Pub. L. 101–12, § 3(a)(7)(A), (C), substituted “subsection (f)” for “subsection (e) of this section”.
+Subsec. (a)(4). Pub. L. 101–12, § 3(a)(7)(A), (C), substituted “subsection (f)” for “subsection (e) of this section”.
 
-Subsec. (b)(1). Pub. L. 101–12, § 3(a)(7)(A), struck out “the Special Counsel,” after “Board,”.
+Subsec. (b)(1). Pub. L. 101–12, § 3(a)(7)(A), struck out “the Special Counsel,” after “Board,”.
 
-Subsec. (b)(2). Pub. L. 101–12, § 3(a)(7)(D), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any member of the Board, the Special Counsel, and any administrative law judge appointed by the Board under section 3105 of this title may—
+Subsec. (b)(2). Pub. L. 101–12, § 3(a)(7)(D), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any member of the Board, the Special Counsel, and any administrative law judge appointed by the Board under section 3105 of this title may—
 
 “(A) issue subpenas requiring the attendance and testimony of witnesses and the production of documentary or other evidence from any place in the United States or any territory or possession thereof, the Commonwealth of Puerto Rico, or the District of Columbia; and
 
 “(B) order the taking of depositions and order responses to written interrogatories.”
 
-Subsec. (b)(3). Pub. L. 101–12, § 3(a)(7)(B), substituted “subpoena” for “subpena” and “subpoenaed” for “subpenaed”.
+Subsec. (b)(3). Pub. L. 101–12, § 3(a)(7)(B), substituted “subpoena” for “subpena” and “subpoenaed” for “subpenaed”.
 
-Subsec. (c). Pub. L. 101–12, § 3(a)(7)(B), (E), substituted “subpoena” for “subpena” in two places, “(b)(2)(A) or section 1214(b), upon application by the Board” for “(b)(2) of this section”, and “for the district” for “for the judicial district”.
+Subsec. (c). Pub. L. 101–12, § 3(a)(7)(B), (E), substituted “subpoena” for “subpena” in two places, “(b)(2)(A) or section 1214(b), upon application by the Board” for “(b)(2) of this section”, and “for the district” for “for the judicial district”.
 
-Subsec. (d). Pub. L. 101–12, § 3(a)(7)(F), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 101–12, § 3(a)(7)(F), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 101–12, § 3(a)(7)(F), redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 101–12, § 3(a)(7)(F), redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (e)(1). Pub. L. 101–12, § 3(a)(7)(A), (G)(i), designated existing provisions as subpar. (A), struck out “of this section” after “subsection (a)(1)”, and added subpar. (B).
+Subsec. (e)(1). Pub. L. 101–12, § 3(a)(7)(A), (G)(i), designated existing provisions as subpar. (A), struck out “of this section” after “subsection (a)(1)”, and added subpar. (B).
 
-Subsec. (e)(2). Pub. L. 101–12, § 3(a)(7)(G)(ii), designated existing provisions as subpar. (A), struck out “of this section” after “subsection (a)(2)”, and added subpar. (B).
+Subsec. (e)(2). Pub. L. 101–12, § 3(a)(7)(G)(ii), designated existing provisions as subpar. (A), struck out “of this section” after “subsection (a)(2)”, and added subpar. (B).
 
-Subsec. (e)(3). Pub. L. 101–12, § 3(a)(7)(A), (G)(iii), struck out “of this section” after “subsection (a)(3)” and inserted “of Personnel Management” after “Office”.
+Subsec. (e)(3). Pub. L. 101–12, § 3(a)(7)(A), (G)(iii), struck out “of this section” after “subsection (a)(3)” and inserted “of Personnel Management” after “Office”.
 
-Subsec. (f). Pub. L. 101–12, § 3(a)(7)(F), redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 101–12, § 3(a)(7)(F), redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (f)(1). Pub. L. 101–12, § 3(a)(7)(H)(i), inserted “of the Office of Personnel Management” after “Director” and struck out “of this title” after “section 1103”.
+Subsec. (f)(1). Pub. L. 101–12, § 3(a)(7)(H)(i), inserted “of the Office of Personnel Management” after “Director” and struck out “of this title” after “section 1103”.
 
-Subsec. (f)(2). Pub. L. 101–12, § 3(a)(7)(H)(ii), inserted comma after “subsection” and in subpars. (A) and (B) struck out “of this title” after “section 2302(b)”.
+Subsec. (f)(2). Pub. L. 101–12, § 3(a)(7)(H)(ii), inserted comma after “subsection” and in subpars. (A) and (B) struck out “of this title” after “section 2302(b)”.
 
-Subsec. (f)(3), (4). Pub. L. 101–12, § 3(a)(7)(H)(iii), struck out “(A)” before “The Director”, struck out subpar. (B) which provided that any review conducted by the Board be limited to determining the validity on its face of the provision under review and whether the provision under review has been validly implemented, and redesignated former subpar. (C) and cls. (i) and (ii) of former subpar. (C) as par. (4) and subpars. (A) and (B), respectively, of par. (4).
+Subsec. (f)(3), (4). Pub. L. 101–12, § 3(a)(7)(H)(iii), struck out “(A)” before “The Director”, struck out subpar. (B) which provided that any review conducted by the Board be limited to determining the validity on its face of the provision under review and whether the provision under review has been validly implemented, and redesignated former subpar. (C) and cls. (i) and (ii) of former subpar. (C) as par. (4) and subpars. (A) and (B), respectively, of par. (4).
 
-Subsecs. (g) to (i). Pub. L. 101–12, § 3(a)(7)(F), redesignated former subsecs. (f) to (h) as (g) to (i), respectively. Former subsec. (i) redesignated (j).
+Subsecs. (g) to (i). Pub. L. 101–12, § 3(a)(7)(F), redesignated former subsecs. (f) to (h) as (g) to (i), respectively. Former subsec. (i) redesignated (j).
 
-Subsec. (j). Pub. L. 101–12, § 3(a)(7)(F), (I), redesignated former subsec. (i) as (j) and substituted “chapter 33” for “chapter 33 of this title”. Former subsec. (j) redesignated (k).
+Subsec. (j). Pub. L. 101–12, § 3(a)(7)(F), (I), redesignated former subsec. (i) as (j) and substituted “chapter 33” for “chapter 33 of this title”. Former subsec. (j) redesignated (k).
 
-Subsecs. (k), (*l*). Pub. L. 101–12, § 3(a)(7)(F), redesignated former subsecs. (j) and (k) as (k) and (*l*), respectively.
+Subsecs. (k), (*l*). Pub. L. 101–12, § 3(a)(7)(F), redesignated former subsecs. (j) and (k) as (k) and (*l*), respectively.
 
 1982—Subsec. (j). Pub. L. 97–258 substituted “section 1105 of title 31” for “section 201 of the Budget and Accounting Act, 1921 (31 U.S.C. 11)”.
 
@@ -311,11 +311,11 @@ Subsecs. (k), (*l*). Pub. L. 101–12, § 3(a)(7)(F), redesignated former subs
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–199, title II, § 202, Nov. 27, 2012, 126 Stat. 1476, provided that: “Except as otherwise provided in section 109 [see Effective Date note set out under section 2304 of this title], this Act [see section 1 of Pub. L. 112–199, set out as a Short Title of 2012 Amendment note under section 101 of this title] shall take effect 30 days after the date of enactment of this Act [Nov. 27, 2012].”
+Pub. L. 112–199, title II, § 202, Nov. 27, 2012, 126 Stat. 1476, provided that: “Except as otherwise provided in section 109 [see Effective Date note set out under section 2304 of this title], this Act [see section 1 of Pub. L. 112–199, set out as a Short Title of 2012 Amendment note under section 101 of this title] shall take effect 30 days after the date of enactment of this Act [Nov. 27, 2012].”
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–424, § 14, Oct. 29, 1994, 108 Stat. 4368, provided that: “The provisions of this Act [amending this section and sections 1211, 1212, 1214, 1218, 1221, 2105, 2302, 4313, 7121, and 8348 of this title, enacting provisions set out as notes under sections 1212 and 1214 of this title and section 1441a of Title 12, Banks and Banking, and amending provisions set out as a note under section 5509 of this title] and the amendments made by this Act shall be effective on and after the date of the enactment of this Act [Oct. 29, 1994].”
+Pub. L. 103–424, § 14, Oct. 29, 1994, 108 Stat. 4368, provided that: “The provisions of this Act [amending this section and sections 1211, 1212, 1214, 1218, 1221, 2105, 2302, 4313, 7121, and 8348 of this title, enacting provisions set out as notes under sections 1212 and 1214 of this title and section 1441a of Title 12, Banks and Banking, and amending provisions set out as a note under section 5509 of this title] and the amendments made by this Act shall be effective on and after the date of the enactment of this Act [Oct. 29, 1994].”
 
 Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of Title 38, Veterans’ Benefits.
 
@@ -327,11 +327,11 @@ Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see sec
 
 For termination, effective May 15, 2000, of reporting provisions in subsecs. (a)(3) and (*l*) of this section (formerly 5 U.S.C. 1205(a)(3) and (k)), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 176 of House Document No. 103–7.
 
-### § 1205. Transmittal of information to Congress
+### § 1205. Transmittal of information to Congress
 
 Notwithstanding any other provision of law or any rule, regulation or policy directive, any member of the Board, or any employee of the Board designated by the Board, may transmit to the Congress on the request of any committee or subcommittee thereof, by report, testimony, or otherwise, information and views on functions, responsibilities, or other matters relating to the Board, without review, clearance, or approval by any other administrative authority.
 
-(Added Pub. L. 95–454, title II, § 202(a), Oct. 13, 1978, 92 Stat. 1131, § 1209(a); renumbered § 1205 and amended Pub. L. 101–12, § 3(a)(9), Apr. 10, 1989, 103 Stat. 18.)
+(Added Pub. L. 95–454, title II, § 202(a), Oct. 13, 1978, 92 Stat. 1131, § 1209(a); renumbered § 1205 and amended Pub. L. 101–12, § 3(a)(9), Apr. 10, 1989, 103 Stat. 18.)
 
 **Editorial Notes**
 
@@ -349,17 +349,17 @@ A prior section 1205 was renumbered section 1204 of this title.
 
 Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see section 11 of Pub. L. 101–12, set out as a note under section 1201 of this title.
 
-### § 1206. Annual report
+### § 1206. Annual report
 
 The Board shall submit an annual report to the President and the Congress on its activities, which shall include a description of significant actions taken by the Board to carry out its functions under this title. The report shall also review the significant actions of the Office of Personnel Management, including an analysis of whether the actions of the Office of Personnel Management are in accord with merit system principles and free from prohibited personnel practices.
 
-(Added Pub. L. 95–454, title II, § 202(a), Oct. 13, 1978, 92 Stat. 1131, § 1209(b); renumbered § 1206 and amended Pub. L. 101–12, § 3(a)(10), Apr. 10, 1989, 103 Stat. 18.)
+(Added Pub. L. 95–454, title II, § 202(a), Oct. 13, 1978, 92 Stat. 1131, § 1209(b); renumbered § 1206 and amended Pub. L. 101–12, § 3(a)(10), Apr. 10, 1989, 103 Stat. 18.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1206, added Pub. L. 95–454, title II, § 202(a), Oct. 13, 1978, 92 Stat. 1125, which related to authority and responsibilities of Special Counsel, was repealed by Pub. L. 101–12, §§ 3(a)(8), 11, Apr. 10, 1989, 103 Stat. 18, effective 90 days following Apr. 10, 1989. See section 1212 of this title.
+A prior section 1206, added Pub. L. 95–454, title II, § 202(a), Oct. 13, 1978, 92 Stat. 1125, which related to authority and responsibilities of Special Counsel, was repealed by Pub. L. 101–12, §§ 3(a)(8), 11, Apr. 10, 1989, 103 Stat. 18, effective 90 days following Apr. 10, 1989. See section 1212 of this title.
 
 **Amendments**
 
@@ -375,11 +375,11 @@ Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see sec
 
 For termination, effective May 15, 2000, of provisions in first sentence of this section relating to annual reports to Congress (formerly 5 U.S.C. 1209(b)), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 176 of House Document No. 103–7.
 
-### [§§ 1207, 1208. Repealed. Pub. L. 101–12, § 3(a)(8), Apr. 10, 1989, 103 Stat. 18]
+### [§§ 1207, 1208. Repealed. Pub. L. 101–12, § 3(a)(8), Apr. 10, 1989, 103 Stat. 18]
 
-Section 1207, added Pub. L. 95–454, title II, § 202(a), Oct. 13, 1978, 92 Stat. 1130, provided for hearings and decisions on complaints filed by Special Counsel. See section 1215(a)(2) to (5) of this title.
+Section 1207, added Pub. L. 95–454, title II, § 202(a), Oct. 13, 1978, 92 Stat. 1130, provided for hearings and decisions on complaints filed by Special Counsel. See section 1215(a)(2) to (5) of this title.
 
-Section 1208, added Pub. L. 95–454, title II, § 202(a), Oct. 13, 1978, 92 Stat. 1130, related to stays of certain personnel actions. See section 1214(b) of this title.
+Section 1208, added Pub. L. 95–454, title II, § 202(a), Oct. 13, 1978, 92 Stat. 1130, related to stays of certain personnel actions. See section 1214(b) of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -387,23 +387,23 @@ Section 1208, added Pub. L. 95–454, title II, § 202(a), Oct. 13, 1978, 92 S
 
 Repeal of sections effective 90 days following Apr. 10, 1989, see section 11 of Pub. L. 101–12, set out as an Effective Date of 1989 Amendment note under section 1201 of this title.
 
-### [§ 1209. Renumbered §§ 1205 and 1206]
+### [§ 1209. Renumbered §§ 1205 and 1206]
 
 **Editorial Notes**
 
 **Codification**
 
-Subsecs. (a) and (b) of this section were renumbered as sections 1205 and 1206, respectively, of this title by Pub. L. 101–12, § 3(a)(9), (10). Pub. L. 102–378, § 2(2), Oct. 2, 1992, 106 Stat. 1346, struck out section catchline of prior section 1209.
+Subsecs. (a) and (b) of this section were renumbered as sections 1205 and 1206, respectively, of this title by Pub. L. 101–12, § 3(a)(9), (10). Pub. L. 102–378, § 2(2), Oct. 2, 1992, 106 Stat. 1346, struck out section catchline of prior section 1209.
 
 ## SUBCHAPTER II—OFFICE OF SPECIAL COUNSEL
 
-### § 1211. Establishment
+### § 1211. Establishment
 
 **(a)** There is established the Office of Special Counsel, which shall be headed by the Special Counsel. The Office shall have an official seal which shall be judicially noticed. The Office shall have its principal office in the District of Columbia and shall have field offices in other appropriate locations.
 
 **(b)** The Special Counsel shall be appointed by the President, by and with the advice and consent of the Senate, for a term of 5 years. The Special Counsel may continue to serve beyond the expiration of the term until a successor is appointed and has qualified, except that the Special Counsel may not continue to serve for more than one year after the date on which the term of the Special Counsel would otherwise expire under this subsection. The Special Counsel shall be an attorney who, by demonstrated ability, background, training, or experience, is especially qualified to carry out the functions of the position. A Special Counsel appointed to fill a vacancy occurring before the end of a term of office of the Special Counsel’s predecessor serves for the remainder of the term. The Special Counsel may be removed by the President only for inefficiency, neglect of duty, or malfeasance in office. The Special Counsel may not hold another office or position in the Government of the United States, except as otherwise provided by law or at the direction of the President.
 
-(Added Pub. L. 101–12, § 3(a)(11), Apr. 10, 1989, 103 Stat. 19, § 1211(a), and Pub. L. 95–454, title II, § 202(a), Oct. 13, 1978, 92 Stat. 1122, § 1204; renumbered § 1211(b) and amended Pub. L. 101–12, § 3(a)(6), (12), Apr. 10, 1989, 103 Stat. 17, 19; Pub. L. 103–424, § 3(a), Oct. 29, 1994, 108 Stat. 4361.)
+(Added Pub. L. 101–12, § 3(a)(11), Apr. 10, 1989, 103 Stat. 19, § 1211(a), and Pub. L. 95–454, title II, § 202(a), Oct. 13, 1978, 92 Stat. 1122, § 1204; renumbered § 1211(b) and amended Pub. L. 101–12, § 3(a)(6), (12), Apr. 10, 1989, 103 Stat. 17, 19; Pub. L. 103–424, § 3(a), Oct. 29, 1994, 108 Stat. 4361.)
 
 **Editorial Notes**
 
@@ -411,7 +411,7 @@ Subsecs. (a) and (b) of this section were renumbered as sections 1205 and 1206, 
 
 1994—Subsec. (b). Pub. L. 103–424 inserted after first sentence “The Special Counsel may continue to serve beyond the expiration of the term until a successor is appointed and has qualified, except that the Special Counsel may not continue to serve for more than one year after the date on which the term of the Special Counsel would otherwise expire under this subsection.”
 
-1989—Subsec. (b). Pub. L. 101–12, § 3(a)(6), (12), renumbered section 1204 of this title as subsec. (b) of this section, substituted “Special Counsel shall be appointed by the President” for “Special Counsel of the Merit Systems Protection Board shall be appointed by the President from attorneys”, substituted “The Special Counsel shall be an attorney who, by demonstrated ability, background, training, or experience, is especially qualified to carry out the functions of the position. A Special Counsel appointed to fill a vacancy occurring before the end of a term of office of the Special Counsel’s predecessor serves for the remainder of the term.” for “A Special Counsel appointed to fill a vacancy occurring before the end of a term of office of his predecessor serves for the remainder of the term.”, and inserted at end “The Special Counsel may not hold another office or position in the Government of the United States, except as otherwise provided by law or at the direction of the President.”
+1989—Subsec. (b). Pub. L. 101–12, § 3(a)(6), (12), renumbered section 1204 of this title as subsec. (b) of this section, substituted “Special Counsel shall be appointed by the President” for “Special Counsel of the Merit Systems Protection Board shall be appointed by the President from attorneys”, substituted “The Special Counsel shall be an attorney who, by demonstrated ability, background, training, or experience, is especially qualified to carry out the functions of the position. A Special Counsel appointed to fill a vacancy occurring before the end of a term of office of the Special Counsel’s predecessor serves for the remainder of the term.” for “A Special Counsel appointed to fill a vacancy occurring before the end of a term of office of his predecessor serves for the remainder of the term.”, and inserted at end “The Special Counsel may not hold another office or position in the Government of the United States, except as otherwise provided by law or at the direction of the President.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -421,13 +421,13 @@ Subchapter effective 90 days following Apr. 10, 1989, see section 11 of Pub. L. 
 
 **Allegations of Wrongdoing Against Special Counsel or Deputy Special Counsel**
 
-Pub. L. 110–409, § 7(b), Oct. 14, 2008, 122 Stat. 4312, which provided for review by the Integrity Committee of allegations of wrongdoing against the Special Counsel or the Deputy Special Counsel, was repealed by Pub. L. 114–317, § 7(a)(1), Dec. 16, 2016, 130 Stat. 1605. See section 424(d)(12) of this title.
+Pub. L. 110–409, § 7(b), Oct. 14, 2008, 122 Stat. 4312, which provided for review by the Integrity Committee of allegations of wrongdoing against the Special Counsel or the Deputy Special Counsel, was repealed by Pub. L. 114–317, § 7(a)(1), Dec. 16, 2016, 130 Stat. 1605. See section 424(d)(12) of this title.
 
 **Transfer of Funds**
 
-Pub. L. 101–12, § 8(c), Apr. 10, 1989, 103 Stat. 34, provided that: “The personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available to the Special Counsel of the Merit Systems Protection Board are, subject to section 1531 of title 31, United States Code, transferred to the Special Counsel referred to in section 1211 of title 5, United States Code (as added by section 3(a) of this Act), for appropriate allocation.”
+Pub. L. 101–12, § 8(c), Apr. 10, 1989, 103 Stat. 34, provided that: “The personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available to the Special Counsel of the Merit Systems Protection Board are, subject to section 1531 of title 31, United States Code, transferred to the Special Counsel referred to in section 1211 of title 5, United States Code (as added by section 3(a) of this Act), for appropriate allocation.”
 
-### § 1212. Powers and functions of the Office of Special Counsel
+### § 1212. Powers and functions of the Office of Special Counsel
 
 **(a)** The Office of Special Counsel shall—
 
@@ -563,21 +563,21 @@ in the same manner as provided under section 1204.
 
 **(B)** may reimburse the Inspector General for services provided under the agreement.
 
-(Added Pub. L. 101–12, § 3(a)(13), Apr. 10, 1989, 103 Stat. 19; amended Pub. L. 103–424, § 3(b), Oct. 29, 1994, 108 Stat. 4362; Pub. L. 112–199, title I, § 113, Nov. 27, 2012, 126 Stat. 1472; Pub. L. 115–91, div. A, title X, § 1097(a), (g), Dec. 12, 2017, 131 Stat. 1615, 1623.)
+(Added Pub. L. 101–12, § 3(a)(13), Apr. 10, 1989, 103 Stat. 19; amended Pub. L. 103–424, § 3(b), Oct. 29, 1994, 108 Stat. 4362; Pub. L. 112–199, title I, § 113, Nov. 27, 2012, 126 Stat. 1472; Pub. L. 115–91, div. A, title X, § 1097(a), (g), Dec. 12, 2017, 131 Stat. 1615, 1623.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Subsec. (b)(5), (6). Pub. L. 115–91, § 1097(a), added pars. (5) and (6).
+2017—Subsec. (b)(5), (6). Pub. L. 115–91, § 1097(a), added pars. (5) and (6).
 
-Subsec. (i). Pub. L. 115–91, § 1097(g), added subsec. (i).
+Subsec. (i). Pub. L. 115–91, § 1097(g), added subsec. (i).
 
 2012—Subsec. (h). Pub. L. 112–199 added subsec. (h).
 
-1994—Subsec. (g)(1). Pub. L. 103–424, § 3(b)(1) substituted “disclose any information from or about” for “provide information concerning”.
+1994—Subsec. (g)(1). Pub. L. 103–424, § 3(b)(1) substituted “disclose any information from or about” for “provide information concerning”.
 
-Subsec. (g)(2). Pub. L. 103–424, § 3(b)(2), substituted “an evaluation of the work performance, ability, aptitude, general qualifications, character, loyalty, or suitability for any personnel action of any” for “a matter described in subparagraph (A) or (B) of section 2302(b)(2) in connection with a”.
+Subsec. (g)(2). Pub. L. 103–424, § 3(b)(2), substituted “an evaluation of the work performance, ability, aptitude, general qualifications, character, loyalty, or suitability for any personnel action of any” for “a matter described in subparagraph (A) or (B) of section 2302(b)(2) in connection with a”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -591,7 +591,7 @@ Amendment by Pub. L. 112–199 effective 30 days after Nov. 27, 2012, see sectio
 
 **Regulations**
 
-Pub. L. 115–91, div. A, title X, § 1097(m), Dec. 12, 2017, 131 Stat. 1626, provided that:
+Pub. L. 115–91, div. A, title X, § 1097(m), Dec. 12, 2017, 131 Stat. 1626, provided that:
 
 > **“(1) In general.—** Not later than 2 years after the date of enactment of this Act [Dec. 12, 2017], the Special Counsel shall prescribe such regulations as may be necessary to perform—
 
@@ -603,7 +603,7 @@ Pub. L. 115–91, div. A, title X, § 1097(m), Dec. 12, 2017, 131 Stat. 1626, 
 
 **Suicide by Employees**
 
-Pub. L. 115–73, title I, § 105, Oct. 26, 2017, 131 Stat. 1238, as amended by Pub. L. 115–91, div. A, title X, § 1097(*l*), Dec. 12, 2017, 131 Stat. 1626, provided that:
+Pub. L. 115–73, title I, § 105, Oct. 26, 2017, 131 Stat. 1238, as amended by Pub. L. 115–91, div. A, title X, § 1097(*l*), Dec. 12, 2017, 131 Stat. 1626, provided that:
 
 > **“(a) Referral.—** The head of an agency shall refer to the Special Counsel, along with any information known to the agency regarding the circumstances described in paragraphs (2) and (3), any instance in which the head of the agency has credible information indicating—
 
@@ -629,11 +629,11 @@ Pub. L. 115–73, title I, § 105, Oct. 26, 2017, 131 Stat. 1238, as amended b
 
 **Policy Statement Regarding Implementation of Whistleblower Protection Act**
 
-Pub. L. 103–424, § 12(a), Oct. 29, 1994, 108 Stat. 4366, provided that: “No later than 6 months after the date of enactment of this Act [Oct. 29, 1994], the Special Counsel shall issue a policy statement regarding the implementation of the Whistleblower Protection Act of 1989 [see Short Title of 1989 Amendment note set out under section 1201 of this title]. Such policy statement shall be made available to each person alleging a prohibited personnel practice described under section 2302(b)(8) of title 5, United States Code, and shall include detailed guidelines identifying specific categories of information that may (or may not) be communicated to agency officials for an investigative purpose, or for the purpose of obtaining corrective action under section 1214 of title 5, United States Code, or disciplinary action under section 1215 of such title, the circumstances under which such information is likely to be disclosed, and whether or not the consent of any person is required in advance of any such communication.”
+Pub. L. 103–424, § 12(a), Oct. 29, 1994, 108 Stat. 4366, provided that: “No later than 6 months after the date of enactment of this Act [Oct. 29, 1994], the Special Counsel shall issue a policy statement regarding the implementation of the Whistleblower Protection Act of 1989 [see Short Title of 1989 Amendment note set out under section 1201 of this title]. Such policy statement shall be made available to each person alleging a prohibited personnel practice described under section 2302(b)(8) of title 5, United States Code, and shall include detailed guidelines identifying specific categories of information that may (or may not) be communicated to agency officials for an investigative purpose, or for the purpose of obtaining corrective action under section 1214 of title 5, United States Code, or disciplinary action under section 1215 of such title, the circumstances under which such information is likely to be disclosed, and whether or not the consent of any person is required in advance of any such communication.”
 
 **Annual Survey of Individuals Seeking Assistance**
 
-Pub. L. 103–424, § 13, Oct. 29, 1994, 108 Stat. 4367, provided that:
+Pub. L. 103–424, § 13, Oct. 29, 1994, 108 Stat. 4367, provided that:
 
 > **“(a) In General.—** The Office of Special Counsel shall, after consulting with the Office of Policy and Evaluation of the Merit Systems Protection Board, conduct an annual survey of all individuals who contact the Office of Special Counsel for assistance. The survey shall—
 
@@ -647,7 +647,7 @@ Pub. L. 103–424, § 13, Oct. 29, 1994, 108 Stat. 4367, provided that:
 
 **Definitions**
 
-Pub. L. 115–73, title I, § 101, Oct. 26, 2017, 131 Stat. 1235, provided that:
+Pub. L. 115–73, title I, § 101, Oct. 26, 2017, 131 Stat. 1235, provided that:
 
 > “In this title [enacting sections 2307 and 7515 of this title, amending sections 1214, 1221, 2302, 4505a, and 5755 of this title and sections 3657 and 3673 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under this section and section 2301 of this title, and amending provisions set out as a note under section 2302 of this title]—
 
@@ -661,7 +661,7 @@ Pub. L. 115–73, title I, § 101, Oct. 26, 2017, 131 Stat. 1235, provided tha
 
 > **“(3)** the term ‘personnel action’ has the meaning given that term under section 2302 of title 5, United States Code.”
 
-### § 1213. Provisions relating to disclosures of violations of law, gross mismanagement, and certain other matters
+### § 1213. Provisions relating to disclosures of violations of law, gross mismanagement, and certain other matters
 
 **(a)** This section applies with respect to—
 
@@ -763,25 +763,25 @@ if such disclosure is not specifically prohibited by law and if such information
 
 **(j)** With respect to any disclosure of information described in subsection (a) which involves foreign intelligence or counterintelligence information, if the disclosure is specifically prohibited by law or by Executive order, the Special Counsel shall transmit such information to the National Security Advisor, the Permanent Select Committee on Intelligence of the House of Representatives, and the Select Committee on Intelligence of the Senate.
 
-(Added Pub. L. 101–12, § 3(a)(13), Apr. 10, 1989, 103 Stat. 21; amended Pub. L. 104–316, title I, § 103(a), Oct. 19, 1996, 110 Stat. 3828; Pub. L. 107–304, § 3, Nov. 27, 2002, 116 Stat. 2364; Pub. L. 115–91, div. A, title X, § 1097(c)(2), Dec. 12, 2017, 131 Stat. 1618.)
+(Added Pub. L. 101–12, § 3(a)(13), Apr. 10, 1989, 103 Stat. 21; amended Pub. L. 104–316, title I, § 103(a), Oct. 19, 1996, 110 Stat. 3828; Pub. L. 107–304, § 3, Nov. 27, 2002, 116 Stat. 2364; Pub. L. 115–91, div. A, title X, § 1097(c)(2), Dec. 12, 2017, 131 Stat. 1618.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Subsec. (b). Pub. L. 115–91, § 1097(c)(2)(A), substituted “45 days” for “15 days”.
+2017—Subsec. (b). Pub. L. 115–91, § 1097(c)(2)(A), substituted “45 days” for “15 days”.
 
-Subsec. (e)(1). Pub. L. 115–91, § 1097(c)(2)(B)(i), substituted “Any report required under subsection (c) or paragraph (5) of this subsection” for “Any such report”.
+Subsec. (e)(1). Pub. L. 115–91, § 1097(c)(2)(B)(i), substituted “Any report required under subsection (c) or paragraph (5) of this subsection” for “Any such report”.
 
-Subsec. (e)(2). Pub. L. 115–91, § 1097(c)(2)(B)(ii), added par. (2) and struck out former par. (2) which related to review of any report of the head of an agency required under subsection (c).
+Subsec. (e)(2). Pub. L. 115–91, § 1097(c)(2)(B)(ii), added par. (2) and struck out former par. (2) which related to review of any report of the head of an agency required under subsection (c).
 
-Subsec. (e)(3). Pub. L. 115–91, § 1097(c)(2)(B)(iii), substituted “report submitted to the Special Counsel by the head of an agency under subsection (c) or paragraph (5) of this subsection” for “agency report received pursuant to subsection (c) of this section”.
+Subsec. (e)(3). Pub. L. 115–91, § 1097(c)(2)(B)(iii), substituted “report submitted to the Special Counsel by the head of an agency under subsection (c) or paragraph (5) of this subsection” for “agency report received pursuant to subsection (c) of this section”.
 
-Subsec. (e)(5). Pub. L. 115–91, § 1097(c)(2)(B)(iv), added par. (5).
+Subsec. (e)(5). Pub. L. 115–91, § 1097(c)(2)(B)(iv), added par. (5).
 
-2002—Subsec. (g)(1). Pub. L. 107–304, § 3(1), struck out at end “If the Special Counsel does not transmit the information to the head of the agency, the Special Counsel shall return any documents and other matter provided by the individual who made the disclosure.”
+2002—Subsec. (g)(1). Pub. L. 107–304, § 3(1), struck out at end “If the Special Counsel does not transmit the information to the head of the agency, the Special Counsel shall return any documents and other matter provided by the individual who made the disclosure.”
 
-Subsec. (g)(3). Pub. L. 107–304, § 3(2), added par. (3) and struck out former par. (3) which read as follows: “If the Special Counsel does not transmit the information to the head of the agency under paragraph (2), the Special Counsel shall—
+Subsec. (g)(3). Pub. L. 107–304, § 3(2), added par. (3) and struck out former par. (3) which read as follows: “If the Special Counsel does not transmit the information to the head of the agency under paragraph (2), the Special Counsel shall—
 
 “(A) return any documents and other matter provided by the individual who made the disclosure; and
 
@@ -791,11 +791,11 @@ Subsec. (g)(3). Pub. L. 107–304, § 3(2), added par. (3) and struck out form
 
 “(ii) other offices available for receiving disclosures, should the individual wish to pursue the matter further.”
 
-1996—Subsec. (e)(3). Pub. L. 104–316, § 103(a)(1), substituted “President and” for “President,” and struck out “, and the Comptroller General” before period at end.
+1996—Subsec. (e)(3). Pub. L. 104–316, § 103(a)(1), substituted “President and” for “President,” and struck out “, and the Comptroller General” before period at end.
 
-Subsec. (e)(4). Pub. L. 104–316, § 103(a)(2), substituted “President and” for “President,” and struck out “, and the Comptroller General” before “together with a”.
+Subsec. (e)(4). Pub. L. 104–316, § 103(a)(2), substituted “President and” for “President,” and struck out “, and the Comptroller General” before “together with a”.
 
-### § 1214. Investigation of prohibited personnel practices; corrective action
+### § 1214. Investigation of prohibited personnel practices; corrective action
 
 **(a)**
 
@@ -961,41 +961,41 @@ Subsec. (e)(4). Pub. L. 104–316, § 103(a)(2), substituted “President and�
 
 **(i)** The Special Counsel may petition the Board to order corrective action, including fees, costs, or damages reasonably incurred by an employee due to an investigation of the employee by an agency, if the investigation by an agency was commenced, expanded, or extended in retaliation for a disclosure or protected activity described in section 2302(b)(8) or subparagraph (A)(i), (B), (C), or (D) of section 2302(b)(9), without regard to whether a personnel action, as defined in section 2302(a)(2)(A), is taken.
 
-(Added Pub. L. 101–12, § 3(a)(13), Apr. 10, 1989, 103 Stat. 23; amended Pub. L. 103–424, §§ 3(c), (d), 8(a), Oct. 29, 1994, 108 Stat. 4362, 4364; Pub. L. 112–199, title I, §§ 101(b)(1)(A), (2)(A), 104(c)(1), 107(b), 114(a), Nov. 27, 2012, 126 Stat. 1465, 1468, 1469, 1472; Pub. L. 115–42, § 1, June 27, 2017, 131 Stat. 883; Pub. L. 115–73, title I, § 102(a), Oct. 26, 2017, 131 Stat. 1236; Pub. L. 115–91, div. A, title X, § 1097(c)(3)(A), (4), (f), (j), Dec. 12, 2017, 131 Stat. 1619, 1622, 1625.)
+(Added Pub. L. 101–12, § 3(a)(13), Apr. 10, 1989, 103 Stat. 23; amended Pub. L. 103–424, §§ 3(c), (d), 8(a), Oct. 29, 1994, 108 Stat. 4362, 4364; Pub. L. 112–199, title I, §§ 101(b)(1)(A), (2)(A), 104(c)(1), 107(b), 114(a), Nov. 27, 2012, 126 Stat. 1465, 1468, 1469, 1472; Pub. L. 115–42, § 1, June 27, 2017, 131 Stat. 883; Pub. L. 115–73, title I, § 102(a), Oct. 26, 2017, 131 Stat. 1236; Pub. L. 115–91, div. A, title X, § 1097(c)(3)(A), (4), (f), (j), Dec. 12, 2017, 131 Stat. 1619, 1622, 1625.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Subsec. (a)(6). Pub. L. 115–91, § 1097(f), added par. (6).
+2017—Subsec. (a)(6). Pub. L. 115–91, § 1097(f), added par. (6).
 
 Subsec. (b)(1)(B). Pub. L. 115–42 designated existing provisions as cl. (i) and added cl. (ii).
 
-Subsec. (b)(1)(B)(ii). Pub. L. 115–91, § 1097(j), struck out “who was appointed, by and with the advice and consent of the Senate,” after “member of the Board”.
+Subsec. (b)(1)(B)(ii). Pub. L. 115–91, § 1097(j), struck out “who was appointed, by and with the advice and consent of the Senate,” after “member of the Board”.
 
-Subsec. (b)(1)(E). Pub. L. 115–91, § 1097(c)(3)(A), added subpar. (E) and struck out former subpar. (E) which read as follows: “If the Merit Systems Protection Board grants a stay under this subsection, the head of the agency employing the employee shall give priority to a request for a transfer submitted by the employee.”
+Subsec. (b)(1)(E). Pub. L. 115–91, § 1097(c)(3)(A), added subpar. (E) and struck out former subpar. (E) which read as follows: “If the Merit Systems Protection Board grants a stay under this subsection, the head of the agency employing the employee shall give priority to a request for a transfer submitted by the employee.”
 
 Pub. L. 115–73 added subpar. (E).
 
-Subsec. (i). Pub. L. 115–91, § 1097(c)(4), added subsec. (i).
+Subsec. (i). Pub. L. 115–91, § 1097(c)(4), added subsec. (i).
 
-2012—Subsecs. (a)(3), (b)(4)(A). Pub. L. 112–199, § 101(b)(1)(A), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)”.
+2012—Subsecs. (a)(3), (b)(4)(A). Pub. L. 112–199, § 101(b)(1)(A), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)”.
 
-Subsec. (b)(4)(B)(i). Pub. L. 112–199, § 101(b)(1)(A), (2)(A), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)” in two places and inserted “or protected activity” after “disclosure”.
+Subsec. (b)(4)(B)(i). Pub. L. 112–199, § 101(b)(1)(A), (2)(A), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)” in two places and inserted “or protected activity” after “disclosure”.
 
-Subsec. (b)(4)(B)(ii). Pub. L. 112–199, § 114(a), inserted “, after a finding that a protected disclosure was a contributing factor,” after “ordered if”.
+Subsec. (b)(4)(B)(ii). Pub. L. 112–199, § 114(a), inserted “, after a finding that a protected disclosure was a contributing factor,” after “ordered if”.
 
-Subsec. (g)(2). Pub. L. 112–199, § 107(b), substituted “any other reasonable and foreseeable consequential damages, and compensatory damages (including interest, reasonable expert witness fees, and costs).” for “and any other reasonable and foreseeable consequential damages.”
+Subsec. (g)(2). Pub. L. 112–199, § 107(b), substituted “any other reasonable and foreseeable consequential damages, and compensatory damages (including interest, reasonable expert witness fees, and costs).” for “and any other reasonable and foreseeable consequential damages.”
 
-Subsec. (h). Pub. L. 112–199, § 104(c)(1), added subsec. (h).
+Subsec. (h). Pub. L. 112–199, § 104(c)(1), added subsec. (h).
 
-1994—Subsec. (a)(1)(D). Pub. L. 103–424, § 3(c)(1), added subpar. (D).
+1994—Subsec. (a)(1)(D). Pub. L. 103–424, § 3(c)(1), added subpar. (D).
 
-Subsec. (a)(2)(A)(iv). Pub. L. 103–424, § 3(c)(2), added cl. (iv).
+Subsec. (a)(2)(A)(iv). Pub. L. 103–424, § 3(c)(2), added cl. (iv).
 
-Subsec. (b)(2). Pub. L. 103–424, § 3(d), added subpars. (A) and (E) and redesignated former subpars. (A) to (C) as (B) to (D), respectively.
+Subsec. (b)(2). Pub. L. 103–424, § 3(d), added subpars. (A) and (E) and redesignated former subpars. (A) to (C) as (B) to (D), respectively.
 
-Subsec. (g). Pub. L. 103–424, § 8(a), added subsec. (g).
+Subsec. (g). Pub. L. 103–424, § 8(a), added subsec. (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1005,9 +1005,9 @@ Amendment by Pub. L. 112–199 effective 30 days after Nov. 27, 2012, see sectio
 
 **Termination Statement**
 
-Pub. L. 103–424, § 12(b), Oct. 29, 1994, 108 Stat. 4367, provided that: “The Special Counsel shall include in any letter terminating an investigation under section 1214(a)(2) of title 5, United States Code, the name and telephone number of an employee of the Special Counsel who is available to respond to reasonable questions from the person regarding the investigation or review conducted by the Special Counsel, the relevant facts ascertained by the Special Counsel, and the law applicable to the person’s allegations.”
+Pub. L. 103–424, § 12(b), Oct. 29, 1994, 108 Stat. 4367, provided that: “The Special Counsel shall include in any letter terminating an investigation under section 1214(a)(2) of title 5, United States Code, the name and telephone number of an employee of the Special Counsel who is available to respond to reasonable questions from the person regarding the investigation or review conducted by the Special Counsel, the relevant facts ascertained by the Special Counsel, and the law applicable to the person’s allegations.”
 
-### § 1215. Disciplinary action
+### § 1215. Disciplinary action
 
 **(a)**
 
@@ -1057,7 +1057,7 @@ the Special Counsel shall prepare a written complaint against the employee conta
 
 **(2)** In any case in which the Special Counsel transmits recommendations to an agency head under paragraph (1), the agency head shall, within 60 days after receiving such recommendations, transmit a report to the Special Counsel on each recommendation and the action taken, or proposed to be taken, with respect to each such recommendation.
 
-(Added Pub. L. 101–12, § 3(a)(13), Apr. 10, 1989, 103 Stat. 27; amended Pub. L. 112–199, title I, § 106, Nov. 27, 2012, 126 Stat. 1468.)
+(Added Pub. L. 101–12, § 3(a)(13), Apr. 10, 1989, 103 Stat. 27; amended Pub. L. 112–199, title I, § 106, Nov. 27, 2012, 126 Stat. 1468.)
 
 **Editorial Notes**
 
@@ -1071,7 +1071,7 @@ the Special Counsel shall prepare a written complaint against the employee conta
 
 Amendment by Pub. L. 112–199 effective 30 days after Nov. 27, 2012, see section 202 of Pub. L. 112–199, set out as a note under section 1204 of this title.
 
-### § 1216. Other matters within the jurisdiction of the Office of Special Counsel
+### § 1216. Other matters within the jurisdiction of the Office of Special Counsel
 
 **(a)** In addition to the authority otherwise provided in this chapter, the Special Counsel shall, except as provided in subsection (b), conduct an investigation of any allegation concerning—
 
@@ -1089,7 +1089,7 @@ Amendment by Pub. L. 112–199 effective 30 days after Nov. 27, 2012, see sectio
 
 **(c)** If the Special Counsel receives an allegation concerning any matter under paragraph (1), (3), (4), or (5) of subsection (a), the Special Counsel may investigate and seek corrective action under section 1214 and disciplinary action under section 1215 in the same way as if a prohibited personnel practice were involved.
 
-(Added Pub. L. 101–12, § 3(a)(13), Apr. 10, 1989, 103 Stat. 28; amended Pub. L. 103–94, § 3, Oct. 6, 1993, 107 Stat. 1004.)
+(Added Pub. L. 101–12, § 3(a)(13), Apr. 10, 1989, 103 Stat. 28; amended Pub. L. 103–94, § 3, Oct. 6, 1993, 107 Stat. 1004.)
 
 **Editorial Notes**
 
@@ -1107,7 +1107,7 @@ Amendment by Pub. L. 112–199 effective 30 days after Nov. 27, 2012, see sectio
 
 Amendment by Pub. L. 103–94 effective 120 days after Oct. 6, 1993, but not to release or extinguish any penalty, forfeiture, or liability incurred under amended provision, which is to be treated as remaining in force for purpose of that penalty, forfeiture, or liability, and no provision of Pub. L. 103–94 to affect any proceedings with respect to which charges were filed on or before 120 days after Oct. 6, 1993, with orders to be issued in such proceedings and appeals taken therefrom as if Pub. L. 103–94 had not been enacted, see section 12 of Pub. L. 103–94, set out as an Effective Date; Savings Provision note under section 7321 of this title.
 
-### § 1217. Transmittal of information to Congress
+### § 1217. Transmittal of information to Congress
 
 **(a) In General.—** The Special Counsel or any employee of the Special Counsel designated by the Special Counsel, shall transmit to the Congress on the request of any committee or subcommittee thereof, by report, testimony, or otherwise, information and the Special Counsel’s views on functions, responsibilities, or other matters relating to the Office. Such information shall be transmitted concurrently to the President and any other appropriate agency in the executive branch.
 
@@ -1127,7 +1127,7 @@ Amendment by Pub. L. 103–94 effective 120 days after Oct. 6, 1993, but not to 
 
 **(E)** whether the agency that entered into the agreement has agreed to pursue any disciplinary action as a result of the allegation described in subparagraph (B).
 
-(Added Pub. L. 101–12, § 3(a)(13), Apr. 10, 1989, 103 Stat. 28; Pub. L. 115–91, div. A, title X, § 1097(h)(3), Dec. 12, 2017, 131 Stat. 1625.)
+(Added Pub. L. 101–12, § 3(a)(13), Apr. 10, 1989, 103 Stat. 28; Pub. L. 115–91, div. A, title X, § 1097(h)(3), Dec. 12, 2017, 131 Stat. 1625.)
 
 **Editorial Notes**
 
@@ -1135,7 +1135,7 @@ Amendment by Pub. L. 103–94 effective 120 days after Oct. 6, 1993, but not to 
 
 2017—Pub. L. 115–91 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-### § 1218. Annual report
+### § 1218. Annual report
 
 The Special Counsel shall submit to Congress, on an annual basis, a report regarding the activities of the Special Counsel, which shall include, for the year preceding the submission of the report—
 
@@ -1177,7 +1177,7 @@ The Special Counsel shall submit to Congress, on an annual basis, a report regar
 
 **(13)** the results for the Office of Special Counsel of any employee viewpoint survey conducted by the Office of Personnel Management or any other agency.
 
-(Added Pub. L. 101–12, § 3(a)(13), Apr. 10, 1989, 103 Stat. 29; amended Pub. L. 103–424, § 3(e), Oct. 29, 1994, 108 Stat. 4363; Pub. L. 115–91, div. A, title X, § 1097(h)(1), Dec. 12, 2017, 131 Stat. 1623.)
+(Added Pub. L. 101–12, § 3(a)(13), Apr. 10, 1989, 103 Stat. 29; amended Pub. L. 103–424, § 3(e), Oct. 29, 1994, 108 Stat. 4363; Pub. L. 115–91, div. A, title X, § 1097(h)(1), Dec. 12, 2017, 131 Stat. 1623.)
 
 **Editorial Notes**
 
@@ -1193,7 +1193,7 @@ The Special Counsel shall submit to Congress, on an annual basis, a report regar
 
 For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 188 of House Document No. 103–7.
 
-### § 1219. Public information
+### § 1219. Public information
 
 **(a)** The Special Counsel shall maintain and make available to the public—
 
@@ -1215,7 +1215,7 @@ For termination, effective May 15, 2000, of reporting provisions in this section
 
 **(b)** The Special Counsel shall take steps to ensure that any list or report made available to the public under this section does not contain any information the disclosure of which is prohibited by law or by Executive order requiring that information be kept secret in the interest of national defense or the conduct of foreign affairs.
 
-(Added Pub. L. 101–12, § 3(a)(13), Apr. 10, 1989, 103 Stat. 29; Pub. L. 115–91, div. A, title X, § 1097(h)(2), Dec. 12, 2017, 131 Stat. 1624.)
+(Added Pub. L. 101–12, § 3(a)(13), Apr. 10, 1989, 103 Stat. 29; Pub. L. 115–91, div. A, title X, § 1097(h)(2), Dec. 12, 2017, 131 Stat. 1624.)
 
 **Editorial Notes**
 
@@ -1225,7 +1225,7 @@ For termination, effective May 15, 2000, of reporting provisions in this section
 
 ## SUBCHAPTER III—INDIVIDUAL RIGHT OF ACTION IN CERTAIN REPRISAL CASES
 
-### § 1221. Individual right of action in certain reprisal cases
+### § 1221. Individual right of action in certain reprisal cases
 
 **(a)** Subject to the provisions of subsection (b) of this section and subsection 1214(a)(3), an employee, former employee, or applicant for employment may, with respect to any personnel action taken, or proposed to be taken, against such employee, former employee, or applicant for employment, as a result of a prohibited personnel practice described in section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D), seek corrective action from the Merit Systems Protection Board.
 
@@ -1285,7 +1285,7 @@ For termination, effective May 15, 2000, of reporting provisions in this section
 
 **(3)** If an employee, former emloyee,1
 
-<sup>1</sup>  So in original. Probably should be “employee,”.
+<sup>1</sup> So in original. Probably should be “employee,”.
 
 or applicant for employment is the prevailing party in an appeal from the Merit Systems Protection Board, the agency involved shall be liable to the employee, former employee, or applicant for reasonable attorney’s fees and any other reasonable costs incurred, regardless of the basis of the decision.
 
@@ -1303,7 +1303,7 @@ or applicant for employment is the prevailing party in an appeal from the Merit 
 
 **(k)** If the Board grants a stay under subsection (c) and the employee who is the subject of the action is in probationary status, the head of the agency employing the employee shall give priority to a request for a transfer submitted by the employee.
 
-(Added Pub. L. 101–12, § 3(a)(13), Apr. 10, 1989, 103 Stat. 29; amended Pub. L. 103–424, §§ 4, 8(b), Oct. 29, 1994, 108 Stat. 4363, 4365; Pub. L. 112–199, title I, §§ 101(b)(1)(A), (2)(A), 104(c)(2), 107(b), 114(b), Nov. 27, 2012, 126 Stat. 1465, 1468, 1469, 1472; Pub. L. 115–73, title I, § 102(b), Oct. 26, 2017, 131 Stat. 1236; Pub. L. 115–91, div. A, title X, § 1097(c)(3)(B), Dec. 12, 2017, 131 Stat. 1619.)
+(Added Pub. L. 101–12, § 3(a)(13), Apr. 10, 1989, 103 Stat. 29; amended Pub. L. 103–424, §§ 4, 8(b), Oct. 29, 1994, 108 Stat. 4363, 4365; Pub. L. 112–199, title I, §§ 101(b)(1)(A), (2)(A), 104(c)(2), 107(b), 114(b), Nov. 27, 2012, 126 Stat. 1465, 1468, 1469, 1472; Pub. L. 115–73, title I, § 102(b), Oct. 26, 2017, 131 Stat. 1236; Pub. L. 115–91, div. A, title X, § 1097(c)(3)(B), Dec. 12, 2017, 131 Stat. 1619.)
 
 **Editorial Notes**
 
@@ -1313,29 +1313,29 @@ or applicant for employment is the prevailing party in an appeal from the Merit 
 
 Pub. L. 115–73 added subsec. (k).
 
-2012—Subsec. (a). Pub. L. 112–199, § 101(b)(1)(A), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)”.
+2012—Subsec. (a). Pub. L. 112–199, § 101(b)(1)(A), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)”.
 
-Subsec. (e)(1). Pub. L. 112–199, § 101(b)(1)(A), (2)(A), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)” in two places and inserted “or protected activity” after “disclosure” wherever appearing.
+Subsec. (e)(1). Pub. L. 112–199, § 101(b)(1)(A), (2)(A), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)” in two places and inserted “or protected activity” after “disclosure” wherever appearing.
 
-Subsec. (e)(2). Pub. L. 112–199, § 114(b), inserted “, after a finding that a protected disclosure was a contributing factor,” after “ordered if”.
+Subsec. (e)(2). Pub. L. 112–199, § 114(b), inserted “, after a finding that a protected disclosure was a contributing factor,” after “ordered if”.
 
-Subsec. (g)(1)(A)(ii). Pub. L. 112–199, § 107(b), substituted “any other reasonable and foreseeable consequential damages, and compensatory damages (including interest, reasonable expert witness fees, and costs).” for “and any other reasonable and foreseeable consequential changes.”
+Subsec. (g)(1)(A)(ii). Pub. L. 112–199, § 107(b), substituted “any other reasonable and foreseeable consequential damages, and compensatory damages (including interest, reasonable expert witness fees, and costs).” for “and any other reasonable and foreseeable consequential changes.”
 
-Subsec. (g)(4). Pub. L. 112–199, § 104(c)(2), added par. (4).
+Subsec. (g)(4). Pub. L. 112–199, § 104(c)(2), added par. (4).
 
-Subsec. (i). Pub. L. 112–199, § 101(b)(1)(A), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)”.
+Subsec. (i). Pub. L. 112–199, § 101(b)(1)(A), inserted “or section 2302(b)(9)(A)(i), (B), (C), or (D)” after “section 2302(b)(8)”.
 
-1994—Subsec. (d)(1). Pub. L. 103–424, § 4(a), added par. (1) and struck out former par. (1) which read as follows: “At the request of an employee, former employee, or applicant for employment seeking corrective action under subsection (a), the Board may issue a subpoena for the attendance and testimony of any person or the production of documentary or other evidence from any person if the Board finds that such subpoena is necessary for the development of relevant evidence.”
+1994—Subsec. (d)(1). Pub. L. 103–424, § 4(a), added par. (1) and struck out former par. (1) which read as follows: “At the request of an employee, former employee, or applicant for employment seeking corrective action under subsection (a), the Board may issue a subpoena for the attendance and testimony of any person or the production of documentary or other evidence from any person if the Board finds that such subpoena is necessary for the development of relevant evidence.”
 
-Subsec. (e)(1). Pub. L. 103–424, § 4(b), which directed the amendment of section 1221(e)(1), without specifying the Code title to be amended, by inserting at end “The employee may demonstrate that the disclosure was a contributing factor in the personnel action through circumstantial evidence, such as evidence that—
+Subsec. (e)(1). Pub. L. 103–424, § 4(b), which directed the amendment of section 1221(e)(1), without specifying the Code title to be amended, by inserting at end “The employee may demonstrate that the disclosure was a contributing factor in the personnel action through circumstantial evidence, such as evidence that—
 
 “(A) the official taking the personnel action knew of the disclosure; and
 
 “(B) the personnel action occurred within a period of time such that a reasonable person could conclude that the disclosure was a contributing factor in the personnel action.”, was executed to subsec. (e)(1) of this section to reflect the probable intent of Congress.
 
-Subsec. (f)(3). Pub. L. 103–424, § 4(c), added par. (3).
+Subsec. (f)(3). Pub. L. 103–424, § 4(c), added par. (3).
 
-Subsec. (g). Pub. L. 103–424, § 8(b), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+Subsec. (g). Pub. L. 103–424, § 8(b), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1347,8 +1347,8 @@ Amendment by Pub. L. 112–199 effective 30 days after Nov. 27, 2012, see sectio
 
 Subchapter effective 90 days following Apr. 10, 1989, see section 11 of Pub. L. 101–12, set out as an Effective Date of 1989 Amendment note under section 1201 of this title.
 
-### § 1222. Availability of other remedies
+### § 1222. Availability of other remedies
 
 Except as provided in section 1221(i), nothing in this chapter or chapter 23 shall be construed to limit any right or remedy available under a provision of statute which is outside of both this chapter and chapter 23.
 
-(Added Pub. L. 101–12, § 3(a)(13), Apr. 10, 1989, 103 Stat. 31.)
+(Added Pub. L. 101–12, § 3(a)(13), Apr. 10, 1989, 103 Stat. 31.)

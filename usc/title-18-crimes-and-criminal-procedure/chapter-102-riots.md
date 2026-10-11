@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1968—Pub. L. 90–284, title I, § 104(a), Apr. 11, 1968, 82 Stat. 75, added chapter 102 and items 2101 and 2102.
+1968—Pub. L. 90–284, title I, § 104(a), Apr. 11, 1968, 82 Stat. 75, added chapter 102 and items 2101 and 2102.
 
-## § 2101. Riots
+## § 2101. Riots
 
 **(a)** Whoever travels in interstate or foreign commerce or uses any facility of interstate or foreign commerce, including, but not limited to, the mail, telegraph, telephone, radio, or television, with intent—
 
@@ -33,15 +33,15 @@ retrieved: 2026-10-11
 
 **(4)** to aid or abet any person in inciting or participating in or carrying on a riot or committing any act of violence in furtherance of a riot;
 
-and who either during the course of any such travel or use or thereafter performs or attempts to perform any other overt act for any purpose specified in subparagraph (A), (B), (C), or (D) of this paragraph— 1
+and who either during the course of any such travel or use or thereafter performs or attempts to perform any other overt act for any purpose specified in subparagraph (A), (B), (C), or (D) of this paragraph— 1
 
-<sup>1</sup>  So in original. Probably should be “paragraph (1), (2), (3), or (4) of this subsection—”.
+<sup>1</sup> So in original. Probably should be “paragraph (1), (2), (3), or (4) of this subsection—”.
 
 Shall be fined under this title, or imprisoned not more than five years, or both.
 
-**(b)** In any prosecution under this section, proof that a defendant engaged or attempted to engage in one or more of the overt acts described in subparagraph (A), (B), (C), or (D) of paragraph (1) of subsection (a) 2
+**(b)** In any prosecution under this section, proof that a defendant engaged or attempted to engage in one or more of the overt acts described in subparagraph (A), (B), (C), or (D) of paragraph (1) of subsection (a) 2
 
-<sup>2</sup>  So in original. Probably should be “paragraph (1), (2), (3), or (4) of subsection (a)”.
+<sup>2</sup> So in original. Probably should be “paragraph (1), (2), (3), or (4) of subsection (a)”.
 
 and (1) has traveled in interstate or foreign commerce, or (2) has use of or used any facility of interstate or foreign commerce, including but not limited to, mail, telegraph, telephone, radio, or television, to communicate with or broadcast to any person or group of persons prior to such overt acts, such travel or use shall be admissible proof to establish that such defendant traveled in or used such facility of interstate or foreign commerce.
 
@@ -53,7 +53,7 @@ and (1) has traveled in interstate or foreign commerce, or (2) has use of or use
 
 **(f)** Nothing in this section shall be construed as indicating an intent on the part of Congress to prevent any State, any possession or Commonwealth of the United States, or the District of Columbia, from exercising jurisdiction over any offense over which it would have jurisdiction in the absence of this section; nor shall anything in this section be construed as depriving State and local law enforcement authorities of responsibility for prosecuting acts that may be violations of this section and that are violations of State and local law.
 
-(Added Pub. L. 90–284, title I, § 104(a), Apr. 11, 1968, 82 Stat. 75; amended Pub. L. 99–386, title I, § 106, Aug. 22, 1986, 100 Stat. 822; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, § 601(f)(15), Oct. 11, 1996, 110 Stat. 3500.)
+(Added Pub. L. 90–284, title I, § 104(a), Apr. 11, 1968, 82 Stat. 75; amended Pub. L. 99–386, title I, § 106, Aug. 22, 1986, 100 Stat. 822; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, § 601(f)(15), Oct. 11, 1996, 110 Stat. 3500.)
 
 **Editorial Notes**
 
@@ -63,12 +63,12 @@ and (1) has traveled in interstate or foreign commerce, or (2) has use of or use
 
 1994—Subsec. (a)(1). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-1986—Subsec. (d). Pub. L. 99–386 struck out “; or in the alternative shall report in writing, to the respective Houses of the Congress, the Department’s reason for not so proceeding” after “such prosecution”.
+1986—Subsec. (d). Pub. L. 99–386 struck out “; or in the alternative shall report in writing, to the respective Houses of the Congress, the Department’s reason for not so proceeding” after “such prosecution”.
 
-## § 2102. Definitions
+## § 2102. Definitions
 
 **(a)** As used in this chapter, the term “riot” means a public disturbance involving (1) an act or acts of violence by one or more persons part of an assemblage of three or more persons, which act or acts shall constitute a clear and present danger of, or shall result in, damage or injury to the property of any other person or to the person of any other individual or (2) a threat or threats of the commission of an act or acts of violence by one or more persons part of an assemblage of three or more persons having, individually or collectively, the ability of immediate execution of such threat or threats, where the performance of the threatened act or acts of violence would constitute a clear and present danger of, or would result in, damage or injury to the property of any other person or to the person of any other individual.
 
 **(b)** As used in this chapter, the term “to incite a riot”, or “to organize, promote, encourage, participate in, or carry on a riot”, includes, but is not limited to, urging or instigating other persons to riot, but shall not be deemed to mean the mere oral or written (1) advocacy of ideas or (2) expression of belief, not involving advocacy of any act or acts of violence or assertion of the rightness of, or the right to commit, any such act or acts.
 
-(Added Pub. L. 90–284, title I, § 104(a), Apr. 11, 1968, 82 Stat. 76.)
+(Added Pub. L. 90–284, title I, § 104(a), Apr. 11, 1968, 82 Stat. 76.)

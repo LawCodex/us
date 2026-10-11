@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 18—LONGSHORE AND HARBOR WORKERS’ COMPENSATION
 
-## § 901. Short title
+## § 901. Short title
 
 This chapter may be cited as “Longshore and Harbor Workers’ Compensation Act.”
 
-(Mar. 4, 1927, ch. 509, § 1, 44 Stat. 1424; Pub. L. 98–426, § 27(d)(1), Sept. 28, 1984, 98 Stat. 1654.)
+(Mar. 4, 1927, ch. 509, § 1, 44 Stat. 1424; Pub. L. 98–426, § 27(d)(1), Sept. 28, 1984, 98 Stat. 1654.)
 
 **Editorial Notes**
 
@@ -31,7 +31,7 @@ This chapter may be cited as “Longshore and Harbor Workers’ Compensation Act
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–426, § 28(a)–(g), Sept. 28, 1984, 98 Stat. 1655, provided that:
+Pub. L. 98–426, § 28(a)–(g), Sept. 28, 1984, 98 Stat. 1655, provided that:
 
 > **“(a)** Except as otherwise provided in this section, the amendments made by this Act [enacting section 942 of this title, amending this section, sections 902 to 910, 912 to 914, 917 to 919, 921 to 923, 928 to 935, 938 to 940, 944, and 948a of this title, and section 932 of Title 30, Mineral Lands and Mining, repealing sections 945 to 947 of this title, and enacting provisions set out as notes under this section and section 907 of this title] shall be effective on the date of enactment of this Act [Sept. 28, 1984] and shall apply both with respect to claims filed after such date and to claims pending on such date.
 
@@ -57,21 +57,21 @@ Pub. L. 98–426, § 28(a)–(g), Sept. 28, 1984, 98 Stat. 1655, provided that
 
 **Effective Date**
 
-Section 52, formerly § 51, of act Mar. 4, 1927, renumbered Oct. 27, 1972, Pub. L. 92–576, § 19, 86 Stat. 1263, provided that: “Sections 39 to 48, 50 to 52 [50 to 52, formerly 49 to 51, renumbered Pub. L. 92–576, § 19], inclusive [sections 939 to 948, 949, and 950 of this title], shall become effective upon the passage of this Act [Mar. 4, 1927], and the remainder of this Act shall become effective on July 1, 1927.”
+Section 52, formerly § 51, of act Mar. 4, 1927, renumbered Oct. 27, 1972, Pub. L. 92–576, § 19, 86 Stat. 1263, provided that: “Sections 39 to 48, 50 to 52 [50 to 52, formerly 49 to 51, renumbered Pub. L. 92–576, § 19], inclusive [sections 939 to 948, 949, and 950 of this title], shall become effective upon the passage of this Act [Mar. 4, 1927], and the remainder of this Act shall become effective on July 1, 1927.”
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–426, § 1(a), Sept. 28, 1984, 98 Stat. 1639, provided that: “this Act [enacting section 942 of this title, amending this section, sections 902 to 910, 912 to 914, 917 to 919, 921 to 923, 928 to 935, 938 to 940, 944, and 948a of this title, and section 932 of Title 30, Mineral Lands and Mining, repealing sections 945 to 947 of this title, and enacting provisions set out as notes under this section and section 907 of this title] may be cited as the ‘Longshore and Harbor Workers’ Compensation Act Amendments of 1984’.”
+Pub. L. 98–426, § 1(a), Sept. 28, 1984, 98 Stat. 1639, provided that: “this Act [enacting section 942 of this title, amending this section, sections 902 to 910, 912 to 914, 917 to 919, 921 to 923, 928 to 935, 938 to 940, 944, and 948a of this title, and section 932 of Title 30, Mineral Lands and Mining, repealing sections 945 to 947 of this title, and enacting provisions set out as notes under this section and section 907 of this title] may be cited as the ‘Longshore and Harbor Workers’ Compensation Act Amendments of 1984’.”
 
 **Short Title of 1972 Amendment**
 
-Pub. L. 92–576, § 1, Oct. 27, 1972, 86 Stat. 1251, provided: “That this Act [enacting section 948a, amending sections 902, 903, 905 to 910, 912 to 914, 917, 919, 921, 921a, 923, 927, 928, 933, 935, 939, 940, and 944 of this title, and enacting and amending provisions set out as notes under this section and section 902 of this title] may be cited as the ‘Longshoremen’s and Harbor Workers’ Compensation Act Amendments of 1972’.”
+Pub. L. 92–576, § 1, Oct. 27, 1972, 86 Stat. 1251, provided: “That this Act [enacting section 948a, amending sections 902, 903, 905 to 910, 912 to 914, 917, 919, 921, 921a, 923, 927, 928, 933, 935, 939, 940, and 944 of this title, and enacting and amending provisions set out as notes under this section and section 902 of this title] may be cited as the ‘Longshoremen’s and Harbor Workers’ Compensation Act Amendments of 1972’.”
 
 **References to Longshoremen’s and Harbor Workers’ Compensation Act**
 
-Pub. L. 98–426, § 27(d)(2), Sept. 28, 1984, 98 Stat. 1654, provided that: “Reference in any other statute, regulation, order, or other document to the Longshoremen’s and Harbor Workers’ Compensation Act shall be deemed to refer to the Longshore and Harbor Workers’ Compensation Act.”
+Pub. L. 98–426, § 27(d)(2), Sept. 28, 1984, 98 Stat. 1654, provided that: “Reference in any other statute, regulation, order, or other document to the Longshoremen’s and Harbor Workers’ Compensation Act shall be deemed to refer to the Longshore and Harbor Workers’ Compensation Act.”
 
-## § 902. Definitions
+## § 902. Definitions
 
 When used in this chapter—
 
@@ -147,7 +147,7 @@ but not after he reaches the age of twenty-three or has completed four years of 
 
 **(22)** The singular includes the plural and the masculine includes the feminine and neuter.
 
-(Mar. 4, 1927, ch. 509, § 2, 44 Stat. 1424; June 25, 1938, ch. 685, § 1, 52 Stat. 1164; Pub. L. 92–576, §§ 2(a), (b), 3, 5(b), 15(c), 18(b), 20(c)(1), Oct. 27, 1972, 86 Stat. 1251, 1253, 1262, 1263, 1265; Pub. L. 98–426, §§ 2, 5(a)(2), 27(a)(1), Sept. 28, 1984, 98 Stat. 1639, 1641, 1654; Pub. L. 111–5, div. A, title VIII, § 803, Feb. 17, 2009, 123 Stat. 187.)
+(Mar. 4, 1927, ch. 509, § 2, 44 Stat. 1424; June 25, 1938, ch. 685, § 1, 52 Stat. 1164; Pub. L. 92–576, §§ 2(a), (b), 3, 5(b), 15(c), 18(b), 20(c)(1), Oct. 27, 1972, 86 Stat. 1251, 1253, 1262, 1263, 1265; Pub. L. 98–426, §§ 2, 5(a)(2), 27(a)(1), Sept. 28, 1984, 98 Stat. 1639, 1641, 1654; Pub. L. 111–5, div. A, title VIII, § 803, Feb. 17, 2009, 123 Stat. 187.)
 
 **Editorial Notes**
 
@@ -157,39 +157,39 @@ The phrase “a student as defined in paragraph (19) of this section”, referre
 
 **Amendments**
 
-2009—Par. (3)(F). Pub. L. 111–5, § 803(2), substituted “, or individuals employed to repair any recreational vessel, or to dismantle any part of a recreational vessel in connection with the repair of such vessel;” for semicolon at end.
+2009—Par. (3)(F). Pub. L. 111–5, § 803(2), substituted “, or individuals employed to repair any recreational vessel, or to dismantle any part of a recreational vessel in connection with the repair of such vessel;” for semicolon at end.
 
-Pub. L. 111–5, § 803(1), which directed the striking out of “, repair or dismantle”, was executed by striking out “, repair, or dismantle” after “build” to reflect the probable intent of Congress.
+Pub. L. 111–5, § 803(1), which directed the striking out of “, repair or dismantle”, was executed by striking out “, repair, or dismantle” after “build” to reflect the probable intent of Congress.
 
-1984—Par. (3). Pub. L. 98–426, § 2(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘employee’ means any person engaged in maritime employment, including any longshoreman or other person engaged in longshoring operations, and any harborworker including a ship repairman, shipbuilder, and shipbreaker, but such term does not include a master or member of a crew of any vessel, or any person engaged by the master to load or unload or repair any small vessel under eighteen tons net.”
+1984—Par. (3). Pub. L. 98–426, § 2(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘employee’ means any person engaged in maritime employment, including any longshoreman or other person engaged in longshoring operations, and any harborworker including a ship repairman, shipbuilder, and shipbreaker, but such term does not include a master or member of a crew of any vessel, or any person engaged by the master to load or unload or repair any small vessel under eighteen tons net.”
 
-Par. (6). Pub. L. 98–426, § 27(a)(1), substituted “The term ‘Secretary’ means the Secretary of Labor” for “The term ‘commission’ means the United States Employees’ Compensation Commission”.
+Par. (6). Pub. L. 98–426, § 27(a)(1), substituted “The term ‘Secretary’ means the Secretary of Labor” for “The term ‘commission’ means the United States Employees’ Compensation Commission”.
 
-Par. (10). Pub. L. 98–426, § 2(b), inserted “; but such term shall mean permanent impairment, determined (to the extent covered thereby) under the guides to the evaluation of permanent impairment promulgated and modified from time to time by the American Medical Association, in the case of an individual whose claim is described in section 910(d)(2) of this title”.
+Par. (10). Pub. L. 98–426, § 2(b), inserted “; but such term shall mean permanent impairment, determined (to the extent covered thereby) under the guides to the evaluation of permanent impairment promulgated and modified from time to time by the American Medical Association, in the case of an individual whose claim is described in section 910(d)(2) of this title”.
 
-Par. (13). Pub. L. 98–426, § 2(c), amended par. (13) generally. Prior to amendment, par. (13) read as follows: “ ‘Wages’ means the money rate at which the service rendered is recompensed under the contract of hiring in force at the time of the injury, including the reasonable value of board, rent, housing, lodging, or similar advantage received from the employer, and gratuities received in the course of employment from others than the employer”.
+Par. (13). Pub. L. 98–426, § 2(c), amended par. (13) generally. Prior to amendment, par. (13) read as follows: “ ‘Wages’ means the money rate at which the service rendered is recompensed under the contract of hiring in force at the time of the injury, including the reasonable value of board, rent, housing, lodging, or similar advantage received from the employer, and gratuities received in the course of employment from others than the employer”.
 
-Par. (21). Pub. L. 98–426, § 5(a)(2), substituted “Unless the context requires otherwise, the” for “The”.
+Par. (21). Pub. L. 98–426, § 5(a)(2), substituted “Unless the context requires otherwise, the” for “The”.
 
-1972—Par. (3). Pub. L. 92–576, § 2(a), defined “employee” to mean any person engaged in maritime employment, including any longshoreman or other person engaged in longshoring operations, and any harborworker including a ship repairman, shipbuilder, and shipbreaker and substituted “or” for “nor” before “any person engaged by the master”.
+1972—Par. (3). Pub. L. 92–576, § 2(a), defined “employee” to mean any person engaged in maritime employment, including any longshoreman or other person engaged in longshoring operations, and any harborworker including a ship repairman, shipbuilder, and shipbreaker and substituted “or” for “nor” before “any person engaged by the master”.
 
-Par. (4). Pub. L. 92–576, § 2(b), defined “employer” to include an employer any of whose employees are employed in maritime employment upon the navigable waters of the United States, including any adjoining pier, wharf, dry dock, terminal, building way, marine railway, or other adjoining area customarily used by an employer in loading, unloading, repairing, or building a vessel.
+Par. (4). Pub. L. 92–576, § 2(b), defined “employer” to include an employer any of whose employees are employed in maritime employment upon the navigable waters of the United States, including any adjoining pier, wharf, dry dock, terminal, building way, marine railway, or other adjoining area customarily used by an employer in loading, unloading, repairing, or building a vessel.
 
-Par. (14). Pub. L. 92–576, § 3(b), defined “child, grandchild, brother, and sister” to include a student as defined in par. (19) of this section.
+Par. (14). Pub. L. 92–576, § 3(b), defined “child, grandchild, brother, and sister” to include a student as defined in par. (19) of this section.
 
-Par. (16). Pub. L. 92–576, § 20(c)(1), consolidated provisions of former par. (16) definition of “widow” and former par. (17) definition of “widower” in one definition of “widow or widower”; and in redefining “widower”, substituted provision for decedent’s husband living with or dependent upon wife for support at time of her death, for prior provision for decedent’s husband living with and dependent upon wife for support at time of her death, and included decedent’s husband living apart from wife for justifiable cause or by reason of her desertion at time of her death.
+Par. (16). Pub. L. 92–576, § 20(c)(1), consolidated provisions of former par. (16) definition of “widow” and former par. (17) definition of “widower” in one definition of “widow or widower”; and in redefining “widower”, substituted provision for decedent’s husband living with or dependent upon wife for support at time of her death, for prior provision for decedent’s husband living with and dependent upon wife for support at time of her death, and included decedent’s husband living apart from wife for justifiable cause or by reason of her desertion at time of her death.
 
-Par. (17). Pub. L. 92–576, § 20(c)(1), redesignated former par. (18) definition of “adoption” or “adopted” as par. (17). Former par. (17) definition of “widower” incorporated in par. (16).
+Par. (17). Pub. L. 92–576, § 20(c)(1), redesignated former par. (18) definition of “adoption” or “adopted” as par. (17). Former par. (17) definition of “widower” incorporated in par. (16).
 
-Par. (18). Pub. L. 92–576, §§ 3(a), 20(c)(1), added par. (19) definition of “student” and redesignated such par. (19) as par. (18). Former par. (18) definition of “adoption” or “adopted” redesignated par. (17).
+Par. (18). Pub. L. 92–576, §§ 3(a), 20(c)(1), added par. (19) definition of “student” and redesignated such par. (19) as par. (18). Former par. (18) definition of “adoption” or “adopted” redesignated par. (17).
 
-Par. (19). Pub. L. 92–576, §§ 5(b), 20(c)(1), added par. (20) definition of “national average weekly wage” and redesignated such par. (20) as par. (19). Former par. (19) definition of “student” redesignated par. (18).
+Par. (19). Pub. L. 92–576, §§ 5(b), 20(c)(1), added par. (20) definition of “national average weekly wage” and redesignated such par. (20) as par. (19). Former par. (19) definition of “student” redesignated par. (18).
 
-Par. (20). Pub. L. 92–576, §§ 15(c), 20(c)(1), added par. (21) definition of “Board” and redesignated such par. (21) as par. (20). Former par. (20) definition of “national average weekly wage” redesignated par. (19).
+Par. (20). Pub. L. 92–576, §§ 15(c), 20(c)(1), added par. (21) definition of “Board” and redesignated such par. (21) as par. (20). Former par. (20) definition of “national average weekly wage” redesignated par. (19).
 
-Par. (21). Pub. L. 92–576, §§ 18(b), 20(c)(1), added par. (22) definition of “vessel” and redesignated such par. (22) as par. (21). Former par. (21) definition of “Board” redesignated par. (20).
+Par. (21). Pub. L. 92–576, §§ 18(b), 20(c)(1), added par. (22) definition of “vessel” and redesignated such par. (22) as par. (21). Former par. (21) definition of “Board” redesignated par. (20).
 
-Par. (22). Pub. L. 92–576, §§ 3(a), 5(b), 15(c), 18(b), 20(c)(1), redesignated former par. (19) definition of “singular” as pars. (20), (21), (22), (23), and (22) again. Former par. (22) definition of “vessel” redesignated par. (21).
+Par. (22). Pub. L. 92–576, §§ 3(a), 5(b), 15(c), 18(b), 20(c)(1), redesignated former par. (19) definition of “singular” as pars. (20), (21), (22), (23), and (22) again. Former par. (22) definition of “vessel” redesignated par. (21).
 
 1938—Par. (14). Act June 25, 1938, included within definition of child, “a child in relation to whom the deceased employee stood in loco parentis for at least one year prior to the time of injury” and within definition of child, grandchild, brother, and sister “persons who though eighteen years of age or over, are wholly dependent upon the deceased employee and incapable of self-support by reason of mental or physical disability”.
 
@@ -201,17 +201,17 @@ Amendment by sections 2(a) and 5(a)(2) of Pub. L. 98–426 applicable with respe
 
 **Effective Date of 1972 Amendment**
 
-Pub. L. 92–576, § 20(c)(3), Oct. 27, 1972, 86 Stat. 1265, provided that: “The amendments made by this subsection [amending this section and section 909 of this title] shall apply only with respect to deaths or injuries occurring after the enactment of this Act, [Oct. 27, 1972].”
+Pub. L. 92–576, § 20(c)(3), Oct. 27, 1972, 86 Stat. 1265, provided that: “The amendments made by this subsection [amending this section and section 909 of this title] shall apply only with respect to deaths or injuries occurring after the enactment of this Act, [Oct. 27, 1972].”
 
-Pub. L. 92–576, § 22, Oct. 27, 1972, 86 Stat. 1265, provided that: “The amendments made by this Act [see Short Title note set out under section 901 of this title] shall become effective thirty days after the date of enactment of this Act [Oct. 27, 1972].”
+Pub. L. 92–576, § 22, Oct. 27, 1972, 86 Stat. 1265, provided that: “The amendments made by this Act [see Short Title note set out under section 901 of this title] shall become effective thirty days after the date of enactment of this Act [Oct. 27, 1972].”
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Prior to the amendment of this chapter by Pub. L. 98–426, the word “Secretary” meaning the Secretary of Labor had been substituted for the word “commission” meaning the United States Employees’ Compensation Commission throughout this chapter even when not expressly so directed by statute in view of the transfer of the functions of the commission first to the Federal Security Administrator by Reorg. Plan No. 2 of 1946, § 3, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, and later to the Secretary of Labor by Reorg. Plan No. 19 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271. Where such substitution had thus been made the statutory substitution of terms by Pub. L. 98–426 required no change in text.
+Prior to the amendment of this chapter by Pub. L. 98–426, the word “Secretary” meaning the Secretary of Labor had been substituted for the word “commission” meaning the United States Employees’ Compensation Commission throughout this chapter even when not expressly so directed by statute in view of the transfer of the functions of the commission first to the Federal Security Administrator by Reorg. Plan No. 2 of 1946, § 3, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, and later to the Secretary of Labor by Reorg. Plan No. 19 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1271. Where such substitution had thus been made the statutory substitution of terms by Pub. L. 98–426 required no change in text.
 
-## § 903. Coverage
+## § 903. Coverage
 
 **(a) Disability or death; injuries occurring upon navigable waters of United States**
 
@@ -245,27 +245,27 @@ No compensation shall be payable if the injury was occasioned solely by the into
 
 Notwithstanding any other provision of law, any amounts paid to an employee for the same injury, disability, or death for which benefits are claimed under this chapter pursuant to any other workers’ compensation law or section 30104 of title 46 shall be credited against any liability imposed by this chapter.
 
-(Mar. 4, 1927, ch. 509, § 3, 44 Stat. 1426; Pub. L. 92–576, §§ 2(c), 21, Oct. 27, 1972, 86 Stat. 1251, 1265; Pub. L. 98–426, § 3, Sept. 28, 1984, 98 Stat. 1640; Pub. L. 104–324, title VII, § 703, Oct. 19, 1996, 110 Stat. 3933.)
+(Mar. 4, 1927, ch. 509, § 3, 44 Stat. 1426; Pub. L. 92–576, §§ 2(c), 21, Oct. 27, 1972, 86 Stat. 1251, 1265; Pub. L. 98–426, § 3, Sept. 28, 1984, 98 Stat. 1640; Pub. L. 104–324, title VII, § 703, Oct. 19, 1996, 110 Stat. 3933.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (e), “section 30104 of title 46” substituted for “section 20 of the Act of March 4, 1915 (38 Stat. 1185, chapter 153; 46 U.S.C. 688) (relating to recovery for injury to or death of seamen)” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 30104 of Title 46, Shipping.
+In subsec. (e), “section 30104 of title 46” substituted for “section 20 of the Act of March 4, 1915 (38 Stat. 1185, chapter 153; 46 U.S.C. 688) (relating to recovery for injury to or death of seamen)” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 30104 of Title 46, Shipping.
 
 **Amendments**
 
 1996—Subsec. (d)(3)(B). Pub. L. 104–324 inserted before period at end “as measured under section 14502 of title 46, or an alternate tonnage measured under section 14302 of that title as prescribed by the Secretary under section 14104 of that title”.
 
-1984—Subsec. (a). Pub. L. 98–426, § 3(a), inserted introductory language relating to exceptions provided for elsewhere in this section, redesignated existing par. (1) as subsec. (b), and struck out existing par. (2) which had excepted from coverage masters and crew members or persons engaged by such masters or crew members to load, unload, or repair vessels under 18 tons net.
+1984—Subsec. (a). Pub. L. 98–426, § 3(a), inserted introductory language relating to exceptions provided for elsewhere in this section, redesignated existing par. (1) as subsec. (b), and struck out existing par. (2) which had excepted from coverage masters and crew members or persons engaged by such masters or crew members to load, unload, or repair vessels under 18 tons net.
 
-Subsec. (b). Pub. L. 98–426, § 3(a), redesignated as subsec. (b) provisions formerly set out in subsec. (a)(2). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 98–426, § 3(a), redesignated as subsec. (b) provisions formerly set out in subsec. (a)(2). Former subsec. (b) redesignated (c).
 
-Subsecs. (c) to (e). Pub. L. 98–426, § 3(a), (b), redesignated former subsec. (b) as (c) and added subsecs. (d) and (e).
+Subsecs. (c) to (e). Pub. L. 98–426, § 3(a), (b), redesignated former subsec. (b) as (c) and added subsecs. (d) and (e).
 
-1972—Subsec. (a). Pub. L. 92–576, § 2(c), substituted provisions respecting coverage of injuries occurring upon navigable waters of the United States, including any adjoining pier, wharf, dry dock, terminal, building way, marine railway, or other adjoining area customarily used by an employer in loading, unloading, repairing, or building a vessel, for prior provisions respecting coverage of such injuries upon navigable waters and if recovery for the disability or death through workmen’s compensation proceedings may not validly be provided by State law.
+1972—Subsec. (a). Pub. L. 92–576, § 2(c), substituted provisions respecting coverage of injuries occurring upon navigable waters of the United States, including any adjoining pier, wharf, dry dock, terminal, building way, marine railway, or other adjoining area customarily used by an employer in loading, unloading, repairing, or building a vessel, for prior provisions respecting coverage of such injuries upon navigable waters and if recovery for the disability or death through workmen’s compensation proceedings may not validly be provided by State law.
 
-Subsec. (a)(1). Pub. L. 92–576, § 21, substituted “or” for “nor” before “any person engaged by the master”.
+Subsec. (a)(1). Pub. L. 92–576, § 21, substituted “or” for “nor” before “any person engaged by the master”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -281,13 +281,13 @@ Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section
 
 The Longshoremen’s and Harbor Workers’ Compensation Act [this chapter] was made applicable in respect to the injury or death of an employee of an employer carrying on any employment in the District of Columbia, by act May 17, 1928, ch. 612, 45 Stat. 600, as amended.
 
-## § 904. Liability for compensation
+## § 904. Liability for compensation
 
 **(a)** Every employer shall be liable for and shall secure the payment to his employees of the compensation payable under sections 907, 908, and 909 of this title. In the case of an employer who is a subcontractor, only if such subcontractor fails to secure the payment of compensation shall the contractor be liable for and be required to secure the payment of compensation. A subcontractor shall not be deemed to have failed to secure the payment of compensation if the contractor has provided insurance for such compensation for the benefit of the subcontractor.
 
 **(b)** Compensation shall be payable irrespective of fault as a cause for the injury.
 
-(Mar. 4, 1927, ch. 509, § 4, 44 Stat. 1426; Pub. L. 98–426, § 4(a), Sept. 28, 1984, 98 Stat. 1641.)
+(Mar. 4, 1927, ch. 509, § 4, 44 Stat. 1426; Pub. L. 98–426, § 4(a), Sept. 28, 1984, 98 Stat. 1641.)
 
 **Editorial Notes**
 
@@ -301,7 +301,7 @@ The Longshoremen’s and Harbor Workers’ Compensation Act [this chapter] was m
 
 Amendment by Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect to claims filed after Sept. 28, 1984, and to claims pending on that date, see section 28(a) of Pub. L. 98–426, set out as a note under section 901 of this title.
 
-## § 905. Exclusiveness of liability
+## § 905. Exclusiveness of liability
 
 **(a) Employer liability; failure of employer to secure payment of compensation**
 
@@ -315,17 +315,17 @@ In the event of injury to a person covered under this chapter caused by the negl
 
 In the event that the negligence of a vessel causes injury to a person entitled to receive benefits under this Act by virtue of section 1333 of title 43, then such person, or anyone otherwise entitled to recover damages by reason thereof, may bring an action against such vessel in accordance with the provisions of subsection (b) of this section. Nothing contained in subsection (b) of this section shall preclude the enforcement according to its terms of any reciprocal indemnity provision whereby the employer of a person entitled to receive benefits under this chapter by virtue of section 1333 of title 43 and the vessel agree to defend and indemnify the other for cost of defense and loss or liability for damages arising out of or resulting from death or bodily injury to their employees.
 
-(Mar. 4, 1927, ch. 509, § 5, 44 Stat. 1426; Pub. L. 92–576, § 18(a), Oct. 27, 1972, 86 Stat. 1263; Pub. L. 98–426, §§ 4(b), 5(a)(1), (b), Sept. 28, 1984, 98 Stat. 1641.)
+(Mar. 4, 1927, ch. 509, § 5, 44 Stat. 1426; Pub. L. 92–576, § 18(a), Oct. 27, 1972, 86 Stat. 1263; Pub. L. 98–426, §§ 4(b), 5(a)(1), (b), Sept. 28, 1984, 98 Stat. 1641.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1984—Subsec. (a). Pub. L. 98–426, § 4(b), inserted at end “For purposes of this subsection, a contractor shall be deemed the employer of a subcontractor’s employees only if the subcontractor fails to secure the payment of compensation as required by section 904 of this title.”
+1984—Subsec. (a). Pub. L. 98–426, § 4(b), inserted at end “For purposes of this subsection, a contractor shall be deemed the employer of a subcontractor’s employees only if the subcontractor fails to secure the payment of compensation as required by section 904 of this title.”
 
-Subsec. (b). Pub. L. 98–426, § 5(a)(1), substituted “If such person was employed to provide shipbuilding, repairing, or breaking services and such person’s employer was the owner, owner pro hac vice, agent, operator, or charterer of the vessel, no such action shall be permitted, in whole or in part or directly or indirectly, against the injured person’s employer (in any capacity, including as the vessel’s owner, owner pro hac vice, agent, operator, or charterer) or against the employees of the employer” for “If such person was employed by the vessel to provide ship building or repair services, no such action shall be permitted if the injury was caused by the negligence of persons engaged in providing ship building or repair services to the vessel”.
+Subsec. (b). Pub. L. 98–426, § 5(a)(1), substituted “If such person was employed to provide shipbuilding, repairing, or breaking services and such person’s employer was the owner, owner pro hac vice, agent, operator, or charterer of the vessel, no such action shall be permitted, in whole or in part or directly or indirectly, against the injured person’s employer (in any capacity, including as the vessel’s owner, owner pro hac vice, agent, operator, or charterer) or against the employees of the employer” for “If such person was employed by the vessel to provide ship building or repair services, no such action shall be permitted if the injury was caused by the negligence of persons engaged in providing ship building or repair services to the vessel”.
 
-Subsec. (c). Pub. L. 98–426, § 5(b), added subsec. (c).
+Subsec. (c). Pub. L. 98–426, § 5(b), added subsec. (c).
 
 1972—Pub. L. 92–576 designated existing provisions as subsec. (a), substituted “the chapter” for “this chapter”, and added subsec. (b).
 
@@ -339,7 +339,7 @@ Amendment by section 4(b) of Pub. L. 98–426 effective Sept. 28, 1984, and appl
 
 Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section 22 of Pub. L. 92–576, set out as a note under section 902 of this title.
 
-## § 906. Compensation
+## § 906. Compensation
 
 **(a) Time for commencement**
 
@@ -357,19 +357,19 @@ No compensation shall be allowed for the first three days of the disability, exc
 
 Determinations under subsection (b)(3) with respect to a period shall apply to employees or survivors currently receiving compensation for permanent total disability or death benefits during such period, as well as those newly awarded compensation during such period.
 
-(Mar. 4, 1927, ch. 509, § 6, 44 Stat. 1426; June 24, 1948, ch. 623, § 1, 62 Stat. 602; July 26, 1956, ch. 735, § 1, 70 Stat. 654; Pub. L. 87–87, § 1, July 14, 1961, 75 Stat. 203; Pub. L. 92–576, §§ 4, 5(a), Oct. 27, 1972, 86 Stat. 1252; Pub. L. 98–426, § 6, Sept. 28, 1984, 98 Stat. 1641.)
+(Mar. 4, 1927, ch. 509, § 6, 44 Stat. 1426; June 24, 1948, ch. 623, § 1, 62 Stat. 602; July 26, 1956, ch. 735, § 1, 70 Stat. 654; Pub. L. 87–87, § 1, July 14, 1961, 75 Stat. 203; Pub. L. 92–576, §§ 4, 5(a), Oct. 27, 1972, 86 Stat. 1252; Pub. L. 98–426, § 6, Sept. 28, 1984, 98 Stat. 1641.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1984—Subsec. (b)(1). Pub. L. 98–426, § 6(a), substituted provisions setting a maximum compensation for disability on death of 200 per centum of the applicable national average weekly wage as determined by the Secretary for former provisions which had set out a schedule of progressive percentages of 125 per centum or $167, whichever is greater, during the period ending September 30, 1973, 150 per centum during the period beginning October 1, 1973, and ending September 30, 1974, 175 per centum during the period beginning October 1, 1974, and ending September 30, 1975, and 200 per centum beginning October 1, 1975.
+1984—Subsec. (b)(1). Pub. L. 98–426, § 6(a), substituted provisions setting a maximum compensation for disability on death of 200 per centum of the applicable national average weekly wage as determined by the Secretary for former provisions which had set out a schedule of progressive percentages of 125 per centum or $167, whichever is greater, during the period ending September 30, 1973, 150 per centum during the period beginning October 1, 1973, and ending September 30, 1974, 175 per centum during the period beginning October 1, 1974, and ending September 30, 1975, and 200 per centum beginning October 1, 1975.
 
-Subsecs. (c), (d). Pub. L. 98–426, § 6(b), redesignated subsec. (d) as (c) and substituted “under subsection (b)(3)” for “under this subsection”. Former subsec. (c), which had directed that the maximum rate of compensation for a nonappropriated fund instrumentality employee be equal to 66⅔ per centum of the maximum rate of basic pay established for a Federal employee in grade GS–12 by section 5332 of title 5 and the minimum rate of compensation for such an employee be equal to 66⅔ per centum of the minimum rate of basic pay established for a Federal employee in grade GS–2 by such section, was struck out.
+Subsecs. (c), (d). Pub. L. 98–426, § 6(b), redesignated subsec. (d) as (c) and substituted “under subsection (b)(3)” for “under this subsection”. Former subsec. (c), which had directed that the maximum rate of compensation for a nonappropriated fund instrumentality employee be equal to 66⅔ per centum of the maximum rate of basic pay established for a Federal employee in grade GS–12 by section 5332 of title 5 and the minimum rate of compensation for such an employee be equal to 66⅔ per centum of the minimum rate of basic pay established for a Federal employee in grade GS–2 by such section, was struck out.
 
-1972—Subsec. (a). Pub. L. 92–576, § 4, substituted “fourteen days” for “twenty-eight days”.
+1972—Subsec. (a). Pub. L. 92–576, § 4, substituted “fourteen days” for “twenty-eight days”.
 
-Subsecs. (b) to (d). Pub. L. 92–576, § 5(a) added subsecs. (b) to (d) and struck out former subsec. (b) compensation for disability provisions which prescribed a $70 per week limit, a $18 per week minimum for total disability, and provided that if the employee’s average weekly wages, as computed under section 910 of this title, were less than $18 per week he should receive as compensation for total disability his average weekly wages.
+Subsecs. (b) to (d). Pub. L. 92–576, § 5(a) added subsecs. (b) to (d) and struck out former subsec. (b) compensation for disability provisions which prescribed a $70 per week limit, a $18 per week minimum for total disability, and provided that if the employee’s average weekly wages, as computed under section 910 of this title, were less than $18 per week he should receive as compensation for total disability his average weekly wages.
 
 1961—Subsec. (b). Pub. L. 87–87 increased limitation on compensation for disability from “$54” to “$70” per week.
 
@@ -391,17 +391,17 @@ Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section
 
 **Effective Date of 1961 Amendment**
 
-Pub. L. 87–87, § 4, July 14, 1961, 75 Stat. 204, provided that: “The amendments made by the foregoing provisions of this Act [amending this section and sections 909 and 914 of this title] shall become effective as to injuries or death sustained on or after the date of enactment [July 14, 1961].”
+Pub. L. 87–87, § 4, July 14, 1961, 75 Stat. 204, provided that: “The amendments made by the foregoing provisions of this Act [amending this section and sections 909 and 914 of this title] shall become effective as to injuries or death sustained on or after the date of enactment [July 14, 1961].”
 
 **Effective Date of 1956 Amendment**
 
-Act July 26, 1956, ch. 735, § 9, 70 Stat. 656, provided that: “The amendments made by the first section and sections 2, 4, and 5 of this Act [amending this section and sections 908, 909, and 914 of this title] shall be applicable only with respect to injuries and death occurring on or after the date of enactment of this Act [July 26, 1956] notwithstanding the provisions of the Act of December 2, 1942, as amended (42 U.S.C. sec. 1701 et seq.).”
+Act July 26, 1956, ch. 735, § 9, 70 Stat. 656, provided that: “The amendments made by the first section and sections 2, 4, and 5 of this Act [amending this section and sections 908, 909, and 914 of this title] shall be applicable only with respect to injuries and death occurring on or after the date of enactment of this Act [July 26, 1956] notwithstanding the provisions of the Act of December 2, 1942, as amended (42 U.S.C. sec. 1701 et seq.).”
 
 **Effective Date of 1948 Amendment**
 
-Act June 24, 1948, ch. 623, § 6, 62 Stat. 604, provided that: “The provisions of this Act [amending this section and sections 908, 909, 910, and 914 of this title] shall be applicable only to injuries or deaths occurring on or after the effective date hereof [June 24, 1948].”
+Act June 24, 1948, ch. 623, § 6, 62 Stat. 604, provided that: “The provisions of this Act [amending this section and sections 908, 909, 910, and 914 of this title] shall be applicable only to injuries or deaths occurring on or after the effective date hereof [June 24, 1948].”
 
-## § 907. Medical services and supplies
+## § 907. Medical services and supplies
 
 **(a) General requirement**
 
@@ -429,9 +429,9 @@ The employee shall have the right to choose an attending physician authorized by
 
 **(v)** has otherwise been excluded from participation in such program.
 
-**(C)** Medical services provided by physicians or health care providers who are named on the list published by the Secretary pursuant to subparagraph (A) of this section 1
+**(C)** Medical services provided by physicians or health care providers who are named on the list published by the Secretary pursuant to subparagraph (A) of this section 1
 
-<sup>1</sup>  So in original. Probably should be “this paragraph”.
+<sup>1</sup> So in original. Probably should be “this paragraph”.
 
 shall not be reimbursable under this chapter; except that the Secretary shall direct the reimbursement of medical claims for services rendered by such physicians or health care providers in cases where the services were rendered in an emergency.
 
@@ -481,9 +481,9 @@ Unless the parties to the claim agree, the Secretary shall not employ or select 
 
 **(2)** Any decision to take action with respect to a physician or health care provider under this section shall be based on specific findings of fact by the Secretary. The Secretary shall provide notice of these findings and an opportunity for a hearing pursuant to section 556 of title 5 for a provider who would be affected by a decision under this section. A request for a hearing must be filed with the Secretary within thirty days after notice of the findings is received by the provider making such request. If a hearing is held, the Secretary shall, on the basis of evidence adduced at the hearing, affirm, modify, or reverse the findings of fact and proposed action under this section.
 
-**(3)** For the purpose of any hearing, investigation, or other proceeding authorized or directed under this section, the provisions of section 2
+**(3)** For the purpose of any hearing, investigation, or other proceeding authorized or directed under this section, the provisions of section 2
 
-<sup>2</sup>  So in original. Probably should be “sections”.
+<sup>2</sup> So in original. Probably should be “sections”.
 
 49 and 50 of title 15 (relating to the attendance of witnesses and the production of books, papers, and documents) shall apply to the jurisdiction, powers, and duties of the Secretary or any officer designated by him.
 
@@ -495,21 +495,21 @@ Unless the parties to the claim agree, the Secretary shall not employ or select 
 
 **(2)** If an employee refuses to submit to medical or surgical services solely because, in adherence to the tenets and practice of a recognized church or religious denomination, the employee relies upon prayer or spiritual means alone for healing, such employee shall not be considered to have unreasonably refused medical or surgical treatment under subsection (d).
 
-(Mar. 4, 1927, ch. 509, § 7, 44 Stat. 1427; May 26, 1934, ch. 354, § 1, 48 Stat. 806; June 25, 1938, ch. 685, §§ 2, 3, 52 Stat. 1165; Pub. L. 86–757, Sept. 13, 1960, 74 Stat. 900; Pub. L. 92–576, § 6, Oct. 27, 1972, 86 Stat. 1254; Pub. L. 98–426, § 7, Sept. 28, 1984, 98 Stat. 1642.)
+(Mar. 4, 1927, ch. 509, § 7, 44 Stat. 1427; May 26, 1934, ch. 354, § 1, 48 Stat. 806; June 25, 1938, ch. 685, §§ 2, 3, 52 Stat. 1165; Pub. L. 86–757, Sept. 13, 1960, 74 Stat. 900; Pub. L. 92–576, § 6, Oct. 27, 1972, 86 Stat. 1254; Pub. L. 98–426, § 7, Sept. 28, 1984, 98 Stat. 1642.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1984—Subsec. (b). Pub. L. 98–426, § 7(a), inserted “or where the charges exceed those prevailing within the community for the same or similar services or exceed the provider’s customary charges”.
+1984—Subsec. (b). Pub. L. 98–426, § 7(a), inserted “or where the charges exceed those prevailing within the community for the same or similar services or exceed the provider’s customary charges”.
 
-Subsec. (c). Pub. L. 98–426, § 7(b), substituted provisions respecting physicians and health care providers not authorized to render medical care or services under this chapter for former provision respecting physicians designated by the Secretary as authorized to render such care and whose names shall be available to employees through posting or in such other form as the Secretary may prescribe.
+Subsec. (c). Pub. L. 98–426, § 7(b), substituted provisions respecting physicians and health care providers not authorized to render medical care or services under this chapter for former provision respecting physicians designated by the Secretary as authorized to render such care and whose names shall be available to employees through posting or in such other form as the Secretary may prescribe.
 
-Subsec. (d). Pub. L. 98–426, § 7(c), substituted provisions for the recovery by the employee of amounts spent on medical services which the employer failed to provide; for the procedure to be followed for recovery; and for suspension of any payments made if the employee unreasonably refuses to submit to treatment or examination for former provisions which required a request for treatment or services and the filing of a physician’s report for recovery, and permitted the Secretary to excuse a failure to file a report when justified and to suspend payment if the employee unreasonably refuses treatment or examination.
+Subsec. (d). Pub. L. 98–426, § 7(c), substituted provisions for the recovery by the employee of amounts spent on medical services which the employer failed to provide; for the procedure to be followed for recovery; and for suspension of any payments made if the employee unreasonably refuses to submit to treatment or examination for former provisions which required a request for treatment or services and the filing of a physician’s report for recovery, and permitted the Secretary to excuse a failure to file a report when justified and to suspend payment if the employee unreasonably refuses treatment or examination.
 
-Subsec. (j). Pub. L. 98–426, § 7(d), added subsec. (j).
+Subsec. (j). Pub. L. 98–426, § 7(d), added subsec. (j).
 
-Subsec. (k). Pub. L. 98–426, § 7(e), added subsec. (k).
+Subsec. (k). Pub. L. 98–426, § 7(e), added subsec. (k).
 
 1972—Subsec. (a). Pub. L. 92–576 reenacted provisions without change.
 
@@ -537,9 +537,9 @@ Subsec. (d). Pub. L. 86–757 redesignated all but first sentence of former subs
 
 Subsecs. (e) to (g). Pub. L. 86–757 redesignated former subsecs. (b) to (d) as (e) to (g), striking out “unless and until notice of election to sue has been given as required by section 933(a) of this title” and “without the giving of such notice” before and after “or suit has been brought against such third party” in subsec. (g).
 
-1938—Subsec. (a). Act June 25, 1938, § 2, authorized deputy commissioner to excuse failure to furnish prescribed medical report.
+1938—Subsec. (a). Act June 25, 1938, § 2, authorized deputy commissioner to excuse failure to furnish prescribed medical report.
 
-Subsec. (d). Act June 25, 1938, § 3, added subsec. (d).
+Subsec. (d). Act June 25, 1938, § 3, added subsec. (d).
 
 1934—Subsec. (a). Act May 26, 1934, authorized deputy commissioner to suspend payment of compensation for refusal, without justification, to submit to medical or surgical treatment.
 
@@ -555,9 +555,9 @@ Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section
 
 **Claims Filed Under Black Lung Benefits Act**
 
-Pub. L. 98–426, § 28(h)(1), Sept. 28, 1984, 98 Stat. 1655, provided that: “The amendments made by section 7 of this Act [amending this section] shall not apply to claims filed under the Black Lung Benefits Act (30 U.S.C. 901 et seq.).”
+Pub. L. 98–426, § 28(h)(1), Sept. 28, 1984, 98 Stat. 1655, provided that: “The amendments made by section 7 of this Act [amending this section] shall not apply to claims filed under the Black Lung Benefits Act (30 U.S.C. 901 et seq.).”
 
-## § 908. Compensation for disability
+## § 908. Compensation for disability
 
 Compensation for disability shall be paid to the employee as follows:
 
@@ -683,43 +683,43 @@ and who is determined by the deputy commissioner to have violated clause (A) or 
 
 **(3)** Compensation forfeited under this subsection, if already paid, shall be recovered by a deduction from the compensation payable to the employee in any amount and on such schedule as determined by the deputy commissioner.
 
-(Mar. 4, 1927, ch. 509, § 8, 44 Stat. 1427; May 26, 1934, ch. 354, §§ 2, 3, 48 Stat. 806; June 25, 1938, ch. 685, §§ 4, 5, 52 Stat. 1165; June 24, 1948, ch. 623, § 2, 62 Stat. 602; July 26, 1956, ch. 735, §§ 2, 3, 70 Stat. 655; Pub. L. 92–576, §§ 5(c), 7, 9, 20(a), Oct. 27, 1972, 86 Stat. 1253, 1255, 1257, 1264; Pub. L. 98–426, §§ 8, 27(a)(2), Sept. 28, 1984, 98 Stat. 1644, 1654.)
+(Mar. 4, 1927, ch. 509, § 8, 44 Stat. 1427; May 26, 1934, ch. 354, §§ 2, 3, 48 Stat. 806; June 25, 1938, ch. 685, §§ 4, 5, 52 Stat. 1165; June 24, 1948, ch. 623, § 2, 62 Stat. 602; July 26, 1956, ch. 735, §§ 2, 3, 70 Stat. 655; Pub. L. 92–576, §§ 5(c), 7, 9, 20(a), Oct. 27, 1972, 86 Stat. 1253, 1255, 1257, 1264; Pub. L. 98–426, §§ 8, 27(a)(2), Sept. 28, 1984, 98 Stat. 1644, 1654.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1984—Subsec. (c)(13). Pub. L. 98–426, § 8(a), redesignated compensation for loss of hearing in one ear as subpar. (A) and for loss in both ears as subpar. (B) and added subpars. (C), (D), and (E) respecting establishing proof of hearing loss.
+1984—Subsec. (c)(13). Pub. L. 98–426, § 8(a), redesignated compensation for loss of hearing in one ear as subpar. (A) and for loss in both ears as subpar. (B) and added subpars. (C), (D), and (E) respecting establishing proof of hearing loss.
 
-Subsec. (c)(20). Pub. L. 98–426, § 8(b), substituted “$7,500” for “$3,500”.
+Subsec. (c)(20). Pub. L. 98–426, § 8(b), substituted “$7,500” for “$3,500”.
 
-Subsec. (c)(21). Pub. L. 98–426, § 8(c)(1), substituted “the average weekly wages of the employee and the employee’s” for “his average weekly wages and his”; and struck out “, but subject to reconsideration of the degree of such impairment by the deputy commissioner on his own motion or upon application of any party in interest”.
+Subsec. (c)(21). Pub. L. 98–426, § 8(c)(1), substituted “the average weekly wages of the employee and the employee’s” for “his average weekly wages and his”; and struck out “, but subject to reconsideration of the degree of such impairment by the deputy commissioner on his own motion or upon application of any party in interest”.
 
-Subsec. (c)(23). Pub. L. 98–426, § 8(c)(2), added par. (23).
+Subsec. (c)(23). Pub. L. 98–426, § 8(c)(2), added par. (23).
 
-Subsec. (d)(3), (4). Pub. L. 98–426, § 8(d), redesignated par. (4) as par. (3). Former par. (3), which provided that if an employee who was receiving compensation for permanent partial disability pursuant to subsection (c)(21) of this section died from causes other than the injury, his survivors would receive death benefits as provided in section 909(b)–(g) of this title, except that the percentage figures therein would be applied to the weekly compensation payable to the employee at the time of his death multiplied by 1.5, rather than to his average weekly wages, was struck out.
+Subsec. (d)(3), (4). Pub. L. 98–426, § 8(d), redesignated par. (4) as par. (3). Former par. (3), which provided that if an employee who was receiving compensation for permanent partial disability pursuant to subsection (c)(21) of this section died from causes other than the injury, his survivors would receive death benefits as provided in section 909(b)–(g) of this title, except that the percentage figures therein would be applied to the weekly compensation payable to the employee at the time of his death multiplied by 1.5, rather than to his average weekly wages, was struck out.
 
-Subsec. (f)(1). Pub. L. 98–426, § 8(e)(1), inserted at end of second and fourth sentences “, except that, in the case of an injury falling within the provisions of subsection (c)(13), the employer shall provide compensation for the lesser of such periods”.
+Subsec. (f)(1). Pub. L. 98–426, § 8(e)(1), inserted at end of second and fourth sentences “, except that, in the case of an injury falling within the provisions of subsection (c)(13), the employer shall provide compensation for the lesser of such periods”.
 
-Subsec. (f)(2)(A). Pub. L. 98–426, § 8(e)(2), designated existing provisions of par. (2) as subpar. (A).
+Subsec. (f)(2)(A). Pub. L. 98–426, § 8(e)(2), designated existing provisions of par. (2) as subpar. (A).
 
-Pub. L. 98–426, § 8(e)(3), inserted “, except that the special fund shall not assume responsibility with respect to such benefits (and such payments shall not be subject to cessation) in the case of any employer who fails to comply with section 932(a) of this title”.
+Pub. L. 98–426, § 8(e)(3), inserted “, except that the special fund shall not assume responsibility with respect to such benefits (and such payments shall not be subject to cessation) in the case of any employer who fails to comply with section 932(a) of this title”.
 
-Subsec. (f)(2)(B). Pub. L. 98–426, § 8(e)(4), added subpar. (B).
+Subsec. (f)(2)(B). Pub. L. 98–426, § 8(e)(4), added subpar. (B).
 
-Subsec. (f)(3). Pub. L. 98–426, § 8(e)(5), added par. (3).
+Subsec. (f)(3). Pub. L. 98–426, § 8(e)(5), added par. (3).
 
-Subsec. (g). Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
+Subsec. (g). Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
 
-Subsec. (i)(1) to (3). Pub. L. 98–426, § 8(f), substituted pars. (1) to (3) respecting procedures for approval of a settlement by the deputy commissioner or administrative law judge for former pars. (A) and (B) respecting settlements approved by the deputy commissioner or Secretary.
+Subsec. (i)(1) to (3). Pub. L. 98–426, § 8(f), substituted pars. (1) to (3) respecting procedures for approval of a settlement by the deputy commissioner or administrative law judge for former pars. (A) and (B) respecting settlements approved by the deputy commissioner or Secretary.
 
-Subsec. (i)(4). Pub. L. 98–426, § 8(g), added par. (4).
+Subsec. (i)(4). Pub. L. 98–426, § 8(g), added par. (4).
 
-Subsec. (j). Pub. L. 98–426, § 8(h), added subsec. (j).
+Subsec. (j). Pub. L. 98–426, § 8(h), added subsec. (j).
 
-1972—Subsec. (c)(20). Pub. L. 92–576, § 7, included compensation for serious disfigurement of the neck and other normally exposed areas likely to handicap the employee in securing or maintaining employment.
+1972—Subsec. (c)(20). Pub. L. 92–576, § 7, included compensation for serious disfigurement of the neck and other normally exposed areas likely to handicap the employee in securing or maintaining employment.
 
-Subsec. (d). Pub. L. 92–576, § 5(c), in revising provisions substituted par. (1), subpars. (A) to (D) and pars. (2) to (4) for former provisions having an introductory par. and pars. (1) to (5), making the following changes:
+Subsec. (d). Pub. L. 92–576, § 5(c), in revising provisions substituted par. (1), subpars. (A) to (D) and pars. (2) to (4) for former provisions having an introductory par. and pars. (1) to (5), making the following changes:
 
 Par. (1) incorporated former introductory par. providing for payments to survivors rather than for payments “for the benefit of the persons after”; subpar. (A) incorporated former par. (1) providing for a widower rather than dependent husband;
 
@@ -733,13 +733,13 @@ Pars. (2) and (3) added and former par. (3) struck out, such par. making it disc
 
 Par. (4) incorporated former par. (5), inserting provision for payment of compensation to the special fund except where payable under subsec. (c)(21) of this section.
 
-Subsec. (f)(1). Pub. L. 92–576, § 9(a) added par. (1) and struck out former par. (1) which provided that if an employee received an injury which of itself would only cause permanent partial disability but which, combined with a previous disability did in fact cause permanent total disability, the employer should provide compensation only for the disability caused by the subsequent injury, and proviso of such former par. (1) providing that in addition to compensation for the permanent partial disability, and after the cessation of the payments for the prescribed period of weeks, the employee should be paid the remainder of the compensation that would be due for permanent total disability and provision that additional compensation should be paid out of the special fund established in section 944 of this title. See par. (2) of this subsection.
+Subsec. (f)(1). Pub. L. 92–576, § 9(a) added par. (1) and struck out former par. (1) which provided that if an employee received an injury which of itself would only cause permanent partial disability but which, combined with a previous disability did in fact cause permanent total disability, the employer should provide compensation only for the disability caused by the subsequent injury, and proviso of such former par. (1) providing that in addition to compensation for the permanent partial disability, and after the cessation of the payments for the prescribed period of weeks, the employee should be paid the remainder of the compensation that would be due for permanent total disability and provision that additional compensation should be paid out of the special fund established in section 944 of this title. See par. (2) of this subsection.
 
-Subsec. (f)(2). Pub. L. 92–576, § 9, incorporated proviso of first sentence and second sentence of former par. (1) in provisions designated as par. (2) and struck out former par. (2) which stated that in all other cases in which, following a previous disability, an employee received an injury which was not covered by former par. (1), the employer should provide compensation only for the disability caused by the subsequent injury, and in determining compensation for the subsequent injury or for death resulting therefrom, the average weekly wages should be such sum as would reasonably represent the earning capacity of the employee at the time of the subsequent injury. See par. (1) of this subsection.
+Subsec. (f)(2). Pub. L. 92–576, § 9, incorporated proviso of first sentence and second sentence of former par. (1) in provisions designated as par. (2) and struck out former par. (2) which stated that in all other cases in which, following a previous disability, an employee received an injury which was not covered by former par. (1), the employer should provide compensation only for the disability caused by the subsequent injury, and in determining compensation for the subsequent injury or for death resulting therefrom, the average weekly wages should be such sum as would reasonably represent the earning capacity of the employee at the time of the subsequent injury. See par. (1) of this subsection.
 
-Subsec. (i). Pub. L. 92–576, § 20(a), designated existing provisions as subpar. (A), substituted “Whenever” for “In cases under subsection (c)(21) and subsection (e) of this section, whenever”, “he may approve” for “he may, with the approval of the Secretary, approve”, and “deputy commissioner” for “Secretary”, and struck out after “*Provided*,” where first appearing “That the sum so agreed upon shall be payable in installments as provided in section 914(b) of this title, which installments shall be subject to commutation under section 914(j) of this title; *And provided further*,” and added subpar. (B).
+Subsec. (i). Pub. L. 92–576, § 20(a), designated existing provisions as subpar. (A), substituted “Whenever” for “In cases under subsection (c)(21) and subsection (e) of this section, whenever”, “he may approve” for “he may, with the approval of the Secretary, approve”, and “deputy commissioner” for “Secretary”, and struck out after “*Provided*,” where first appearing “That the sum so agreed upon shall be payable in installments as provided in section 914(b) of this title, which installments shall be subject to commutation under section 914(j) of this title; *And provided further*,” and added subpar. (B).
 
-1956—Subsec. (c). Act July 26, 1956, § 2, increased periods in schedule of compensation as follows:
+1956—Subsec. (c). Act July 26, 1956, § 2, increased periods in schedule of compensation as follows:
 
 Par. (1) Arm lost, increased from two hundred and eighty to three hundred and twelve weeks’ compensation.
 
@@ -765,17 +765,17 @@ Par. (11) Toe other than great toe lost, increased from eight to sixteen weeks�
 
 Par. (12) Fourth finger lost, increased from seven to fifteen weeks’ compensation.
 
-Subsec. (g). Act July 26, 1956, § 3, substituted “$25” for “$10”.
+Subsec. (g). Act July 26, 1956, § 3, substituted “$25” for “$10”.
 
 1948—Subsec. (c). Act June 24, 1948, inserted in opening par. “or temporary partial disability”, “or subsection (e)”, and “respectively”.
 
-1938—Subsec. (c). Act June 25, 1938, § 4, in par. (22), inserted exception clause.
+1938—Subsec. (c). Act June 25, 1938, § 4, in par. (22), inserted exception clause.
 
-Subsecs. (h), (i). Act June 25, 1938, § 5 added subsecs. (h) and (i).
+Subsecs. (h), (i). Act June 25, 1938, § 5 added subsecs. (h) and (i).
 
-1934—Subsec. (c). Act May 26, 1934, § 2, inserted in opening par. “which shall be in addition to compensation for temporary total disability paid in accordance with subsection (b) of this section” and decreased periods in schedule of compensation of pars. (1) to (12).
+1934—Subsec. (c). Act May 26, 1934, § 2, inserted in opening par. “which shall be in addition to compensation for temporary total disability paid in accordance with subsection (b) of this section” and decreased periods in schedule of compensation of pars. (1) to (12).
 
-Subsec. (c). Act May 26, 1934, § 3, substituted new par. (22), providing that “In any case in which there shall be a loss of, or loss of use of, more than one member or parts of more than one member set forth in paragraphs (1) to (19) of this subdivision, not amounting to permanent total disability, the award of compensation shall be for the loss of, or loss of use of, each such member or part thereof, which awards shall run consecutively.”, for former provisions, providing that “In case of temporary total disability and permanent partial disability, both resulting from the same injury, if the temporary total disability continues for a longer period than the number of weeks set forth in the following schedule, the period of temporary total disability in excess of such number of weeks shall be added to the compensation period provided in this subdivision: Arm, thirty-two weeks; leg, forty weeks; hand, thirty-two weeks; foot, thirty-two weeks; eye, twenty weeks; thumb, twenty-four weeks; first finger, eighteen weeks; great toe, twelve weeks; second finger, twelve weeks; third finger, eight weeks; fourth finger, eight weeks; toe other than great toe, eight weeks.
+Subsec. (c). Act May 26, 1934, § 3, substituted new par. (22), providing that “In any case in which there shall be a loss of, or loss of use of, more than one member or parts of more than one member set forth in paragraphs (1) to (19) of this subdivision, not amounting to permanent total disability, the award of compensation shall be for the loss of, or loss of use of, each such member or part thereof, which awards shall run consecutively.”, for former provisions, providing that “In case of temporary total disability and permanent partial disability, both resulting from the same injury, if the temporary total disability continues for a longer period than the number of weeks set forth in the following schedule, the period of temporary total disability in excess of such number of weeks shall be added to the compensation period provided in this subdivision: Arm, thirty-two weeks; leg, forty weeks; hand, thirty-two weeks; foot, thirty-two weeks; eye, twenty weeks; thumb, twenty-four weeks; first finger, eighteen weeks; great toe, twelve weeks; second finger, twelve weeks; third finger, eight weeks; fourth finger, eight weeks; toe other than great toe, eight weeks.
 
 “In any case resulting in loss or partial loss of arm, leg, hand, foot, eye, thumb, finger, or toe, where the temporary total disability does not extend beyond the periods above mentioned for such injury, compensation shall be limited to the schedule contained in this subdivision.”
 
@@ -797,7 +797,7 @@ Amendment by act July 26, 1956, applicable only with respect to injuries and dea
 
 Amendment by act June 24, 1948, applicable to death or injuries occurring after June 24, 1948, see section 6 of act June 24, 1948, set out as a note under section 906 of this title.
 
-## § 909. Compensation for death
+## § 909. Compensation for death
 
 If the injury causes death, the compensation therefore shall be known as a death benefit and shall be payable in the amount and to or for the benefit of the persons following:
 
@@ -819,31 +819,31 @@ If the injury causes death, the compensation therefore shall be known as a death
 
 **(g)** Aliens: Compensation under this chapter to aliens not residents (or about to become nonresidents) of the United States or Canada shall be the same in amount as provided for residents, except that dependents in any foreign country shall be limited to surviving wife and child or children, or if there be no surviving wife or child or children, to surviving father or mother whom the employee has supported, either wholly or in part, for the period of one year prior to the date of the injury, and except that the Secretary may, at his option or upon the application of the insurance carrier shall, commute all future installments of compensation to be paid to such aliens by paying or causing to be paid to them one-half of the commuted amount of such future installments of compensation as determined by the Secretary.
 
-(Mar. 4, 1927, ch. 509, § 9, 44 Stat. 1429; June 25, 1938, ch. 685, § 6, 52 Stat. 1166; June 24, 1948, ch. 623, § 3, 62 Stat. 602; July 26, 1956, ch. 735, § 4, 70 Stat. 655; Pub. L. 87–87, § 2, July 14, 1961, 75 Stat. 203; Pub. L. 92–576, §§ 5(d), 10, 20(c)(2), Oct. 27, 1972, 86 Stat. 1253, 1257, 1265; Pub. L. 98–426, §§ 9, 27(a)(2), Sept. 28, 1984, 98 Stat. 1647, 1654.)
+(Mar. 4, 1927, ch. 509, § 9, 44 Stat. 1429; June 25, 1938, ch. 685, § 6, 52 Stat. 1166; June 24, 1948, ch. 623, § 3, 62 Stat. 602; July 26, 1956, ch. 735, § 4, 70 Stat. 655; Pub. L. 87–87, § 2, July 14, 1961, 75 Stat. 203; Pub. L. 92–576, §§ 5(d), 10, 20(c)(2), Oct. 27, 1972, 86 Stat. 1253, 1257, 1265; Pub. L. 98–426, §§ 9, 27(a)(2), Sept. 28, 1984, 98 Stat. 1647, 1654.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1984—Pub. L. 98–426, § 9(a), amended generally provision preceding subsec. (a), striking out “or if the employee who sustains permanent total disability due to the injury thereafter dies from causes other than the injury,” after “injury causes death”.
+1984—Pub. L. 98–426, § 9(a), amended generally provision preceding subsec. (a), striking out “or if the employee who sustains permanent total disability due to the injury thereafter dies from causes other than the injury,” after “injury causes death”.
 
-Subsec. (a). Pub. L. 98–426, § 9(b), substituted “$3,000” for “$1,000”.
+Subsec. (a). Pub. L. 98–426, § 9(b), substituted “$3,000” for “$1,000”.
 
-Subsec. (e). Pub. L. 98–426, § 9(c), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “In computing death benefits the average weekly wages of the deceased shall be considered to have been not less than the applicable national average weekly wage as prescribed in section 906(b) of this title but the total weekly benefits shall not exceed the average weekly wages of the deceased”.
+Subsec. (e). Pub. L. 98–426, § 9(c), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “In computing death benefits the average weekly wages of the deceased shall be considered to have been not less than the applicable national average weekly wage as prescribed in section 906(b) of this title but the total weekly benefits shall not exceed the average weekly wages of the deceased”.
 
-Subsec. (g). Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
+Subsec. (g). Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
 
-1972—Pub. L. 92–576, § 5(d), added to introductory provision that the compensation shall be known as a death benefit if the employee who sustains permanent total disability due to the injury thereafter dies from causes other than the injury.
+1972—Pub. L. 92–576, § 5(d), added to introductory provision that the compensation shall be known as a death benefit if the employee who sustains permanent total disability due to the injury thereafter dies from causes other than the injury.
 
-Subsec. (a). Pub. L. 92–576, § 10(a), substituted “$1,000” for “$400”.
+Subsec. (a). Pub. L. 92–576, § 10(a), substituted “$1,000” for “$400”.
 
-Subsec. (b). Pub. L. 92–576, §§ 10(b), 20(c)(2), substituted “50” for “35” per centum in three places and “16⅔” for “15” per centum in two places and “widow or widower” for “surviving wife or dependent husband” in three places.
+Subsec. (b). Pub. L. 92–576, §§ 10(b), 20(c)(2), substituted “50” for “35” per centum in three places and “16⅔” for “15” per centum in two places and “widow or widower” for “surviving wife or dependent husband” in three places.
 
-Subsec. (c). Pub. L. 92–576, §§ 10(b), 20(c)(2), substituted “50” for “35” per centum in two places and “16⅔” for “15” per centum and “widow or widower” for “surviving wife or dependent husband”.
+Subsec. (c). Pub. L. 92–576, §§ 10(b), 20(c)(2), substituted “50” for “35” per centum in two places and “16⅔” for “15” per centum and “widow or widower” for “surviving wife or dependent husband”.
 
-Subsec. (d). Pub. L. 92–576, §§ 10(c), 20(c)(2), in first sentence, substituted “husband or child,” and “husband” for “dependent husband or child” and “dependent husband” and “20” for “15” per centum, and inserted “and any other persons who satisfy the definition of the term ‘dependent’ in section 152 of title 26, but are not otherwise eligible under this section” after “time of the injury,” and “during such dependency” after “support of each such person”, and in second sentence, substituted “widow or widower” for “surviving wife or dependent husband”, respectively.
+Subsec. (d). Pub. L. 92–576, §§ 10(c), 20(c)(2), in first sentence, substituted “husband or child,” and “husband” for “dependent husband or child” and “dependent husband” and “20” for “15” per centum, and inserted “and any other persons who satisfy the definition of the term ‘dependent’ in section 152 of title 26, but are not otherwise eligible under this section” after “time of the injury,” and “during such dependency” after “support of each such person”, and in second sentence, substituted “widow or widower” for “surviving wife or dependent husband”, respectively.
 
-Subsec. (e). Pub. L. 92–576, § 10(d), substituted “less than the applicable national average weekly wage as prescribed in section 906(b) of this title but the total weekly benefits shall not exceed the average weekly wages of the deceased” for “more than $105 nor less than $27 but the total weekly compensation shall not exceed the weekly wages of the deceased”.
+Subsec. (e). Pub. L. 92–576, § 10(d), substituted “less than the applicable national average weekly wage as prescribed in section 906(b) of this title but the total weekly benefits shall not exceed the average weekly wages of the deceased” for “more than $105 nor less than $27 but the total weekly compensation shall not exceed the weekly wages of the deceased”.
 
 1961—Subsec. (e). Pub. L. 87–87 increased the maximum limitation with respect to average weekly wages from “$81” to “$105” in the computation of death benefits.
 
@@ -883,7 +883,7 @@ Amendment by act July 26, 1956, applicable only with respect to injuries and dea
 
 Amendment by act June 24, 1948, applicable to death or injuries occurring after June 24, 1948, see section 6 of act June 24, 1948, set out as a note under section 906 of this title.
 
-## § 910. Determination of pay
+## § 910. Determination of pay
 
 Except as otherwise provided in this chapter, the average weekly wage of the injured employee at the time of the injury shall be taken as the basis upon which to compute compensation and shall be determined as follows:
 
@@ -923,17 +923,17 @@ Except as otherwise provided in this chapter, the average weekly wage of the inj
 
 **(i)** For purposes of this section with respect to a claim for compensation for death or disability due to an occupational disease which does not immediately result in death or disability, the time of injury shall be deemed to be the date on which the employee or claimant becomes aware, or in the exercise of reasonable diligence or by reason of medical advice should have been aware, of the relationship between the employment, the disease, and the death or disability.
 
-(Mar. 4, 1927, ch. 509, § 10, 44 Stat. 1431; June 24, 1948, ch. 623, § 4, 62 Stat. 603; Pub. L. 92–576, § 11, Oct. 27, 1972, 86 Stat. 1258; Pub. L. 98–426, § 10, Sept. 28, 1984, 98 Stat. 1647.)
+(Mar. 4, 1927, ch. 509, § 10, 44 Stat. 1431; June 24, 1948, ch. 623, § 4, 62 Stat. 603; Pub. L. 92–576, § 11, Oct. 27, 1972, 86 Stat. 1258; Pub. L. 98–426, § 10, Sept. 28, 1984, 98 Stat. 1647.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1984—Subsec. (d). Pub. L. 98–426, § 10(a)(1), designated existing provisions as par. (1) and added par. (2).
+1984—Subsec. (d). Pub. L. 98–426, § 10(a)(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (f). Pub. L. 98–426, § 10(b), substituted “subject to this chapter” for “sustained after October 27, 1972,” and inserted “the lesser of—” after “by” in introductory language, designated balance of existing provisions as par. (1), substituted “; or” for a period at end of par. (1), and added par. (2).
+Subsec. (f). Pub. L. 98–426, § 10(b), substituted “subject to this chapter” for “sustained after October 27, 1972,” and inserted “the lesser of—” after “by” in introductory language, designated balance of existing provisions as par. (1), substituted “; or” for a period at end of par. (1), and added par. (2).
 
-Subsec. (i). Pub. L. 98–426, § 10(a)(2), added subsec. (i).
+Subsec. (i). Pub. L. 98–426, § 10(a)(2), added subsec. (i).
 
 1972—Subsecs. (f) to (h). Pub. L. 92–576 added subsecs. (f) to (h).
 
@@ -957,13 +957,13 @@ Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section
 
 Amendment by act June 24, 1948, applicable to death or injuries occurring after June 24, 1948, see section 6 of act June 24, 1948, set out as a note under section 906 of this title.
 
-## § 911. Guardian for minor or incompetent
+## § 911. Guardian for minor or incompetent
 
 The deputy commissioner may require the appointment by a court of competent jurisdiction, for any person who is mentally incompetent or a minor, of a guardian or other representative to receive compensation payable to such person under this chapter and to exercise the powers granted to or to perform the duties required of such person under this chapter.
 
-(Mar. 4, 1927, ch. 509, § 11, 44 Stat. 1431.)
+(Mar. 4, 1927, ch. 509, § 11, 44 Stat. 1431.)
 
-## § 912. Notice of injury or death
+## § 912. Notice of injury or death
 
 **(a) Time limitation**
 
@@ -981,19 +981,19 @@ Notice shall be given to the deputy commissioner by delivering it to him or send
 
 Failure to give such notice shall not bar any claim under this chapter (1) if the employer (or his agent or agents or other responsible official or officials designated by the employer pursuant to subsection (c)) or the carrier had knowledge of the injury or death, (2) the deputy commissioner determines that the employer or carrier has not been prejudiced by failure to give such notice, or (3) if the deputy commissioner excuses such failure on the ground that (i) notice, while not given to a responsible official designated by the employer pursuant to subsection (c) of this section, was given to an official of the employer or the employer’s insurance carrier, and that the employer or carrier was not prejudiced due to the failure to provide notice to a responsible official designated by the employer pursuant to subsection (c), or (ii) for some satisfactory reason such notice could not be given; nor unless objection to such failure is raised before the deputy commissioner at the first hearing of a claim for compensation in respect of such injury or death.
 
-(Mar. 4, 1927, ch. 509, § 12, 44 Stat. 1431; Pub. L. 92–576, § 12(a), Oct. 27, 1972, 86 Stat. 1259; Pub. L. 98–426, § 11, Sept. 28, 1984, 98 Stat. 1648.)
+(Mar. 4, 1927, ch. 509, § 12, 44 Stat. 1431; Pub. L. 92–576, § 12(a), Oct. 27, 1972, 86 Stat. 1259; Pub. L. 98–426, § 11, Sept. 28, 1984, 98 Stat. 1648.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1984—Subsec. (a). Pub. L. 98–426, § 11(a), inserted a comma after “aware” and “only by reason of medical advice” after “diligence” and inserted “except that in the case of an occupational disease which does not immediately result in a disability or death, such notice shall be given within one year after the employee or claimant becomes aware, or in the exercise of reasonable diligence or by reason of medical advice should have been aware, of the relationship between the employment, the disease, and the death or disability” in first sentence.
+1984—Subsec. (a). Pub. L. 98–426, § 11(a), inserted a comma after “aware” and “only by reason of medical advice” after “diligence” and inserted “except that in the case of an occupational disease which does not immediately result in a disability or death, such notice shall be given within one year after the employee or claimant becomes aware, or in the exercise of reasonable diligence or by reason of medical advice should have been aware, of the relationship between the employment, the disease, and the death or disability” in first sentence.
 
-Subsec. (c). Pub. L. 98–426, § 11(b), inserted at end “Each employer shall designate those agents or other responsible officials to receive such notice, except that the employer shall designate as its representatives individuals among first line supervisors, local plant management, and personnel office officials. Such designations shall be made in accordance with regulations prescribed by the Secretary and the employer shall notify his employees and the Secretary of such designation in a manner prescribed by the Secretary in regulations.”
+Subsec. (c). Pub. L. 98–426, § 11(b), inserted at end “Each employer shall designate those agents or other responsible officials to receive such notice, except that the employer shall designate as its representatives individuals among first line supervisors, local plant management, and personnel office officials. Such designations shall be made in accordance with regulations prescribed by the Secretary and the employer shall notify his employees and the Secretary of such designation in a manner prescribed by the Secretary in regulations.”
 
-Subsec. (d)(1). Pub. L. 98–426, § 11(c), substituted “(or his agent or agents or other responsible official or officials designated by the employer pursuant to subsection (c))” for “(or his agent in charge of the business in the place where the injury occurred)”, substituted “injury or death, (2)” for “injury or death and”, and substituted “or (3)” for “or (2)”.
+Subsec. (d)(1). Pub. L. 98–426, § 11(c), substituted “(or his agent or agents or other responsible official or officials designated by the employer pursuant to subsection (c))” for “(or his agent in charge of the business in the place where the injury occurred)”, substituted “injury or death, (2)” for “injury or death and”, and substituted “or (3)” for “or (2)”.
 
-Pub. L. 98–426, § 11(c)(4), inserted “(i) notice, while not given to a responsible official designated by the employer pursuant to subsection (c) of this section, was given to an official of the employer or the employer’s insurance carrier, and that the employer or carrier was not prejudiced due to the failure to provide notice to a responsible official designated by the employer pursuant to subsection (c), or (ii)”.
+Pub. L. 98–426, § 11(c)(4), inserted “(i) notice, while not given to a responsible official designated by the employer pursuant to subsection (c) of this section, was given to an official of the employer or the employer’s insurance carrier, and that the employer or carrier was not prejudiced due to the failure to provide notice to a responsible official designated by the employer pursuant to subsection (c), or (ii)”.
 
 1972—Subsec. (a). Pub. L. 92–576 provided for notice of an injury or death within thirty days after the employee or beneficiary is aware or in the exercise of reasonable diligence should have been aware of a relationship between the injury or death and the employment.
 
@@ -1007,7 +1007,7 @@ Amendment by section 11(a) of Pub. L. 98–426 effective Sept. 28, 1984, and app
 
 Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section 22 of Pub. L. 92–576, set out as a note under section 902 of this title.
 
-## § 913. Filing of claims
+## § 913. Filing of claims
 
 **(a) Time to file**
 
@@ -1027,7 +1027,7 @@ If a person who is entitled to compensation under this chapter is mentally incom
 
 Where recovery is denied to any person, in a suit brought at law or in admiralty to recover damages in respect of injury or death, on the ground that such person was an employee and that the defendant was an employer within the meaning of this chapter and that such employer had secured compensation to such employee under this chapter, the limitation of time prescribed in subsection (a) shall begin to run only from the date of termination of such suit.
 
-(Mar. 4, 1927, ch. 509, § 13, 44 Stat. 1432; Pub. L. 92–576, § 12(b), Oct. 27, 1972, 86 Stat. 1259; Pub. L. 98–426, § 12, Sept. 28, 1984, 98 Stat. 1649.)
+(Mar. 4, 1927, ch. 509, § 13, 44 Stat. 1432; Pub. L. 92–576, § 12(b), Oct. 27, 1972, 86 Stat. 1259; Pub. L. 98–426, § 12, Sept. 28, 1984, 98 Stat. 1649.)
 
 **Editorial Notes**
 
@@ -1047,7 +1047,7 @@ Amendment by Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with
 
 Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section 22 of Pub. L. 92–576, set out as a note under section 902 of this title.
 
-## § 914. Payment of compensation
+## § 914. Payment of compensation
 
 **(a) Manner of payment**
 
@@ -1093,21 +1093,21 @@ If the employer has made advance payments of compensation, he shall be entitled 
 
 An injured employee, or in case of death his dependents or personal representative, shall give receipts for payment of compensation to the employer paying the same and such employer shall produce the same for inspection by the deputy commissioner, whenever required.
 
-(Mar. 4, 1927, ch. 509, § 14, 44 Stat. 1432; May 26, 1934, ch. 354, § 4, 48 Stat. 807; June 25, 1938, ch. 685, § 7, 52 Stat. 1167; June 24, 1948, ch. 623, § 5, 62 Stat. 603; July 26, 1956, ch. 735, § 5, 70 Stat. 655; Pub. L. 87–87, § 3, July 14, 1961, 75 Stat. 203; Pub. L. 92–576, §§ 5(e), 15(d), Oct. 27, 1972, 86 Stat. 1254, 1262; Pub. L. 98–426, §§ 13, 27(a)(2), Sept. 28, 1984, 98 Stat. 1649, 1654.)
+(Mar. 4, 1927, ch. 509, § 14, 44 Stat. 1432; May 26, 1934, ch. 354, § 4, 48 Stat. 807; June 25, 1938, ch. 685, § 7, 52 Stat. 1167; June 24, 1948, ch. 623, § 5, 62 Stat. 603; July 26, 1956, ch. 735, § 5, 70 Stat. 655; Pub. L. 87–87, § 3, July 14, 1961, 75 Stat. 203; Pub. L. 92–576, §§ 5(e), 15(d), Oct. 27, 1972, 86 Stat. 1254, 1262; Pub. L. 98–426, §§ 13, 27(a)(2), Sept. 28, 1984, 98 Stat. 1649, 1654.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1984—Subsec. (b). Pub. L. 98–426, § 13(a), substituted “employer has been notified pursuant to section 912 of this title, or the employer,” for “employer”.
+1984—Subsec. (b). Pub. L. 98–426, § 13(a), substituted “employer has been notified pursuant to section 912 of this title, or the employer,” for “employer”.
 
-Subsecs. (c), (d), (g). Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
+Subsecs. (c), (d), (g). Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
 
-Subsecs. (j) to (*l*). Pub. L. 98–426, § 13(b), redesignated subsecs. (k) and (*l*) as (j) and (k), respectively, and struck out former subsec. (j) which provided that whenever the deputy commissioner determines that it was in the interest of justice, the liability of the employer for compensation, or any part thereof as determined by the deputy commissioner with the approval of the Secretary, could be discharged by the payment of a lump sum equal to the present value of future compensation payments commuted, computed at 4 per centum true discount compounded annually, that the probability of the death of the injured employee or other person entitled to compensation before the expiration of the period during which he was entitled to compensation would be determined in accordance with the American Experience Table of Mortality, and the probability of the remarriage of the surviving wife would be determined in accordance with the remarriage tables of the Dutch Royal Insurance Institution, and that the probability of the happening of any other contingency affecting the amount or duration of the compensation would be disregarded, was struck out.
+Subsecs. (j) to (*l*). Pub. L. 98–426, § 13(b), redesignated subsecs. (k) and (*l*) as (j) and (k), respectively, and struck out former subsec. (j) which provided that whenever the deputy commissioner determines that it was in the interest of justice, the liability of the employer for compensation, or any part thereof as determined by the deputy commissioner with the approval of the Secretary, could be discharged by the payment of a lump sum equal to the present value of future compensation payments commuted, computed at 4 per centum true discount compounded annually, that the probability of the death of the injured employee or other person entitled to compensation before the expiration of the period during which he was entitled to compensation would be determined in accordance with the American Experience Table of Mortality, and the probability of the remarriage of the surviving wife would be determined in accordance with the remarriage tables of the Dutch Royal Insurance Institution, and that the probability of the happening of any other contingency affecting the amount or duration of the compensation would be disregarded, was struck out.
 
-1972—Subsec. (f). Pub. L. 92–576, § 15(d), substituted “order staying payment has been issued by the Board or court” for “interlocutory injunction staying payments is allowed by the court as provided therein”.
+1972—Subsec. (f). Pub. L. 92–576, § 15(d), substituted “order staying payment has been issued by the Board or court” for “interlocutory injunction staying payments is allowed by the court as provided therein”.
 
-Subsec. (m). Pub. L. 92–576, § 5(e), repealed subsec. (m) limiting aggregate money allowance for an injury under this chapter to $24,000, making the limitation inapplicable to cases of permanent total disability or death, and providing that in applying the limitation there shall not be taken into account any amount payable under section 908(g) of this title for maintenance during rehabilitation or any amount of additional compensation required to be paid under this section for delay or default in the payment of compensation or any amount accruing as interest upon defaulted compensation collectible under section 918 of this title.
+Subsec. (m). Pub. L. 92–576, § 5(e), repealed subsec. (m) limiting aggregate money allowance for an injury under this chapter to $24,000, making the limitation inapplicable to cases of permanent total disability or death, and providing that in applying the limitation there shall not be taken into account any amount payable under section 908(g) of this title for maintenance during rehabilitation or any amount of additional compensation required to be paid under this section for delay or default in the payment of compensation or any amount accruing as interest upon defaulted compensation collectible under section 918 of this title.
 
 1961—Subsec. (m). Pub. L. 87–87 increased limitation on total money allowance as compensation for injury from “$17,280” to “$24,000”.
 
@@ -1141,25 +1141,25 @@ Amendment by act July 26, 1956, applicable only with respect to injuries and dea
 
 Amendment by act June 24, 1948, applicable to death or injuries occurring after June 24, 1948, see section 6 of act June 24, 1948, set out as a note under section 906 of this title.
 
-## § 915. Invalid agreements
+## § 915. Invalid agreements
 
 **(a)** No agreement by an employee to pay any portion of premium paid by his employer to a carrier or to contribute to a benefit fund or department maintained by such employer for the purpose of providing compensation or medical services and supplies as required by this chapter shall be valid, and any employer who makes a deduction for such purpose from the pay of any employee entitled to the benefits of this chapter shall be guilty of a misdemeanor, and upon conviction thereof shall be punished by a fine of not more than $1,000.
 
 **(b)** No agreement by an employee to waive his right to compensation under this chapter shall be valid.
 
-(Mar. 4, 1927, ch. 509, § 15, 44 Stat. 1434.)
+(Mar. 4, 1927, ch. 509, § 15, 44 Stat. 1434.)
 
-## § 916. Assignment and exemption from claims of creditors
+## § 916. Assignment and exemption from claims of creditors
 
 No assignment, release, or commutation of compensation or benefits due or payable under this chapter, except as provided by this chapter, shall be valid, and such compensation and benefits shall be exempt from all claims of creditors and from levy, execution, and attachment or other remedy for recovery or collection of a debt, which exemption may not be waived.
 
-(Mar. 4, 1927, ch. 509, § 16, 44 Stat. 1434.)
+(Mar. 4, 1927, ch. 509, § 16, 44 Stat. 1434.)
 
-## § 917. Lien against compensation
+## § 917. Lien against compensation
 
 Where a trust fund which complies with section 186(c) of title 29 established pursuant to a collective-bargaining agreement in effect between an employer and an employee covered under this chapter has paid disability benefits to an employee which the employee is legally obligated to repay by reason of his entitlement to compensation under this chapter or under a settlement, the Secretary shall authorize a lien on such compensation in favor of the trust fund for the amount of such payments.
 
-(Mar. 4, 1927, ch. 509, § 17, 44 Stat. 1434; June 25, 1938, ch. 685, § 8, 52 Stat. 1167; Pub. L. 92–576, § 20(b), Oct. 27, 1972, 86 Stat. 1264; Pub. L. 95–598, title III, § 324, Nov. 6, 1978, 92 Stat. 2679; Pub. L. 98–426, § 14, Sept. 28, 1984, 98 Stat. 1649.)
+(Mar. 4, 1927, ch. 509, § 17, 44 Stat. 1434; June 25, 1938, ch. 685, § 8, 52 Stat. 1167; Pub. L. 92–576, § 20(b), Oct. 27, 1972, 86 Stat. 1264; Pub. L. 95–598, title III, § 324, Nov. 6, 1978, 92 Stat. 2679; Pub. L. 98–426, § 14, Sept. 28, 1984, 98 Stat. 1649.)
 
 **Editorial Notes**
 
@@ -1187,17 +1187,17 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section 22 of Pub. L. 92–576, set out as a note under section 902 of this title.
 
-## § 918. Collection of defaulted payments; special fund
+## § 918. Collection of defaulted payments; special fund
 
-**(a)** In case of default by the employer in the payment of compensation due under any award of compensation for a period of thirty days after the compensation is due and payable, the person to whom such compensation is payable may, within one year after such default, make application to the deputy commissioner making the compensation order or 1
+**(a)** In case of default by the employer in the payment of compensation due under any award of compensation for a period of thirty days after the compensation is due and payable, the person to whom such compensation is payable may, within one year after such default, make application to the deputy commissioner making the compensation order or 1
 
-<sup>1</sup>  So in original. Probably should be “for”.
+<sup>1</sup> So in original. Probably should be “for”.
 
 a supplementary order declaring the amount of the default. After investigation, notice, and hearing, as provided in section 919 of this title, the deputy commissioner shall make a supplementary order, declaring the amount of the default, which shall be filed in the same manner as the compensation order. In case the payment in default is an installment of the award, the deputy commissioner may, in his discretion, declare the whole of the award as the amount in default. The applicant may file a certified copy of such supplementary order with the clerk of the Federal district court for the judicial district in which the employer has his principal place of business or maintains an office, or for the judicial district in which the injury occurred. In case such principal place of business or office or place where the injury occurred is in the District of Columbia, a copy of such supplementary order may be filed with the clerk of the United States District Court for the District of Columbia. Such supplementary order of the deputy commissioner shall be final, and the court shall, upon the filing of the copy, enter judgment for the amount declared in default by the supplementary order if such supplementary order is in accordance with law. Review of the judgment so entered may be had as in civil suits for damages at common law. Final proceedings to execute the judgment may be had by writ of execution in the form used by the court in suits at common law in actions of assumpsit. No fee shall be required for filing the supplementary order nor for entry of judgment thereon, and the applicant shall not be liable for costs in a proceeding for review of the judgment unless the court shall otherwise direct. The court shall modify such judgment to conform to any later compensation order upon presentation of a certified copy thereof to the court.
 
 **(b)** In cases where judgment cannot be satisfied by reason of the employer’s insolvency or other circumstances precluding payment, the Secretary of Labor may, in his discretion and to the extent he shall determine advisable after consideration of current commitments payable from the special fund established in section 944 of this title, make payment from such fund upon any award made under this chapter, and in addition, provide any necessary medical, surgical, and other treatment required by section 907 of this title in any case of disability where there has been a default in furnishing medical treatment by reason of the insolvency of the employer. Such an employer shall be liable for payment into such fund of the amounts paid therefrom by the Secretary of Labor under this subsection; and for the purpose of enforcing this liability, the Secretary of Labor for the benefit of the fund shall be subrogated to all the rights of the person receiving such payment or benefits as against the employer and may by a proceeding in the name of the Secretary of Labor under this section or under subsection (c) of section 921 of this title, or both, seek to recover the amount of the default or so much thereof as in the judgment of the Secretary is possible, or the Secretary may settle and compromise any such claim.
 
-(Mar. 4, 1927, ch. 509, § 18, 44 Stat. 1434; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, § 32(b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; July 26, 1956, ch. 735, § 6, 70 Stat. 655; Pub. L. 98–426, § 27(b), Sept. 28, 1984, 98 Stat. 1654.)
+(Mar. 4, 1927, ch. 509, § 18, 44 Stat. 1434; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, § 32(b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; July 26, 1956, ch. 735, § 6, 70 Stat. 655; Pub. L. 98–426, § 27(b), Sept. 28, 1984, 98 Stat. 1654.)
 
 **Editorial Notes**
 
@@ -1207,7 +1207,7 @@ As originally enacted, subsec. (a) contained a reference to the Supreme Court of
 
 **Amendments**
 
-1984—Subsec. (b). Pub. L. 98–426 struck out “, including the right of lien and priority provided for by section 917 of this title,” after “shall be subrogated to all the rights of the person receiving such payment or benefits”.
+1984—Subsec. (b). Pub. L. 98–426 struck out “, including the right of lien and priority provided for by section 917 of this title,” after “shall be subrogated to all the rights of the person receiving such payment or benefits”.
 
 1956—Act July 26, 1956, designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -1217,7 +1217,7 @@ As originally enacted, subsec. (a) contained a reference to the Supreme Court of
 
 Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of Pub. L. 98–426, set out as a note under section 901 of this title.
 
-## § 919. Procedure in respect of claims
+## § 919. Procedure in respect of claims
 
 **(a) Filing of claim**
 
@@ -1233,9 +1233,9 @@ The deputy commissioner shall make or cause to be made such investigations as he
 
 **(d) Provisions governing conduct of hearing; administrative law judges**
 
-Notwithstanding any other provisions of this chapter, any hearing held under this chapter shall be conducted in accordance with the provisions of section 554 of title 5. Any such hearing shall be conducted by a 1
+Notwithstanding any other provisions of this chapter, any hearing held under this chapter shall be conducted in accordance with the provisions of section 554 of title 5. Any such hearing shall be conducted by a 1
 
-<sup>1</sup>  So in original. Probably should be “an”.
+<sup>1</sup> So in original. Probably should be “an”.
 
 administrative law judge qualified under section 3105 of that title. All powers, duties, and responsibilities vested by this chapter, on October 27, 1972, in the deputy commissioners with respect to such hearings shall be vested in such administrative law judges.
 
@@ -1255,13 +1255,13 @@ At any time after a claim has been filed with him, the deputy commissioner may, 
 
 An injured employee claiming or entitled to compensation shall submit to such physical examination by a medical officer of the United States or by a duly qualified physician designated or approved by the Secretary as the deputy commissioner may require. The place or places shall be reasonably convenient for the employee. Such physician or physicians as the employee, employer, or carrier may select and pay for may participate in an examination if the employee, employer, or carrier so requests. Proceedings shall be suspended and no compensation be payable for any period during which the employee may refuse to submit to examination.
 
-(Mar. 4, 1927, ch. 509, § 19, 44 Stat. 1435; June 25, 1938, ch. 685, § 9, 52 Stat. 1167; Pub. L. 86–507, § 1(30), (31), June 11, 1960, 74 Stat. 202; Pub. L. 92–576, § 14, Oct. 27, 1972, 86 Stat. 1261; Pub. L. 95–251, § 2(a)(10), Mar. 27, 1978, 92 Stat. 183; Pub. L. 98–426, § 27(a)(2), Sept. 28, 1984, 98 Stat. 1654.)
+(Mar. 4, 1927, ch. 509, § 19, 44 Stat. 1435; June 25, 1938, ch. 685, § 9, 52 Stat. 1167; Pub. L. 86–507, § 1(30), (31), June 11, 1960, 74 Stat. 202; Pub. L. 92–576, § 14, Oct. 27, 1972, 86 Stat. 1261; Pub. L. 95–251, § 2(a)(10), Mar. 27, 1978, 92 Stat. 183; Pub. L. 98–426, § 27(a)(2), Sept. 28, 1984, 98 Stat. 1654.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1984—Subsecs. (a), (b), (g), (h). Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note under section 902 of this title.
+1984—Subsecs. (a), (b), (g), (h). Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note under section 902 of this title.
 
 1978—Subsec. (d). Pub. L. 95–251 substituted references to administrative law judges for references to hearing examiners.
 
@@ -1281,7 +1281,7 @@ Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of 
 
 Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section 22 of Pub. L. 92–576, set out as a note under section 902 of this title.
 
-## § 920. Presumptions
+## § 920. Presumptions
 
 In any proceeding for the enforcement of a claim for compensation under this chapter it shall be presumed, in the absence of substantial evidence to the contrary—
 
@@ -1293,9 +1293,9 @@ In any proceeding for the enforcement of a claim for compensation under this cha
 
 **(d)** That the injury was not occasioned by the willful intention of the injured employee to injure or kill himself or another.
 
-(Mar. 4, 1927, ch. 509, § 20, 44 Stat. 1436.)
+(Mar. 4, 1927, ch. 509, § 20, 44 Stat. 1436.)
 
-## § 921. Review of compensation orders
+## § 921. Review of compensation orders
 
 **(a) Effectiveness and finality of orders**
 
@@ -1325,7 +1325,7 @@ If any employer or his officers or agents fails to comply with a compensation or
 
 Proceedings for suspending, setting aside, or enforcing a compensation order, whether rejecting a claim or making an award, shall not be instituted otherwise than as provided in this section and section 918 of this title.
 
-(Mar. 4, 1927, ch. 509, § 21, 44 Stat. 1436; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, § 32(b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 92–576, § 15(a), (b), Oct. 27, 1972, 86 Stat. 1261, 1262; Pub. L. 95–251, § 2(a)(10), Mar. 27, 1978, 92 Stat. 183; Pub. L. 98–426, § 15, Sept. 28, 1984, 98 Stat. 1649.)
+(Mar. 4, 1927, ch. 509, § 21, 44 Stat. 1436; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, § 32(b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 92–576, § 15(a), (b), Oct. 27, 1972, 86 Stat. 1261, 1262; Pub. L. 95–251, § 2(a)(10), Mar. 27, 1978, 92 Stat. 183; Pub. L. 98–426, § 15, Sept. 28, 1984, 98 Stat. 1649.)
 
 **Editorial Notes**
 
@@ -1335,17 +1335,17 @@ As originally enacted, subsec. (d) contained a reference to the Supreme Court of
 
 **Amendments**
 
-1984—Subsec. (b)(1). Pub. L. 98–426, § 15(1), (2), substituted “five” for “three”, and inserted “The Chairman shall have the authority, as delegated by the Secretary, to exercise all administrative functions necessary to operate the Board.”
+1984—Subsec. (b)(1). Pub. L. 98–426, § 15(1), (2), substituted “five” for “three”, and inserted “The Chairman shall have the authority, as delegated by the Secretary, to exercise all administrative functions necessary to operate the Board.”
 
-Subsec. (b)(2). Pub. L. 98–426, § 15(3), substituted “three” for “two” wherever appearing.
+Subsec. (b)(2). Pub. L. 98–426, § 15(3), substituted “three” for “two” wherever appearing.
 
-Subsec. (b)(5). Pub. L. 98–426, § 15(4), added par. (5).
+Subsec. (b)(5). Pub. L. 98–426, § 15(4), added par. (5).
 
 1978—Subsec. (b)(4). Pub. L. 95–251 substituted “administrative law judge” for “hearing examiner”.
 
-1972—Subsec. (b). Pub. L. 92–576, § 15(a), added subsec. (b). Former provisions of subsec. (b) for injunction proceedings to suspend or set aside a compensation order by a party in interest against a deputy commissioner in Federal district court for judicial district where injury occurred superseded by subsec. (c) of this section and former provisions of such subsec. (b) respecting service of process and stay of payments, except for the procedural requirement of an interlocutory injunction to the court and hearing on at least three days’ notice to the parties in interest and the deputy commissioner, incorporated in subsec. (c) of this section.
+1972—Subsec. (b). Pub. L. 92–576, § 15(a), added subsec. (b). Former provisions of subsec. (b) for injunction proceedings to suspend or set aside a compensation order by a party in interest against a deputy commissioner in Federal district court for judicial district where injury occurred superseded by subsec. (c) of this section and former provisions of such subsec. (b) respecting service of process and stay of payments, except for the procedural requirement of an interlocutory injunction to the court and hearing on at least three days’ notice to the parties in interest and the deputy commissioner, incorporated in subsec. (c) of this section.
 
-Subsecs. (c) to (e). Pub. L. 92–576, § 15(a), (b), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+Subsecs. (c) to (e). Pub. L. 92–576, § 15(a), (b), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1367,27 +1367,27 @@ Pub. L. 108–7, div. G, title I, Feb. 20, 2003, 117 Stat. 306.
 
 Pub. L. 107–116, title I, Jan. 10, 2002, 115 Stat. 2184.
 
-Pub. L. 106–554, § 1(a)(1) [title I], Dec. 21, 2000, 114 Stat. 2763, 2763A–10.
+Pub. L. 106–554, § 1(a)(1) [title I], Dec. 21, 2000, 114 Stat. 2763, 2763A–10.
 
-Pub. L. 106–113, div. B, § 1000(a)(4) [title I], Nov. 29, 1999, 113 Stat. 1535, 1501A–224.
+Pub. L. 106–113, div. B, § 1000(a)(4) [title I], Nov. 29, 1999, 113 Stat. 1535, 1501A–224.
 
-Pub. L. 105–277, div. A, § 101(f) [title I], Oct. 21, 1998, 112 Stat. 2681–337, 2681–345.
+Pub. L. 105–277, div. A, § 101(f) [title I], Oct. 21, 1998, 112 Stat. 2681–337, 2681–345.
 
 Pub. L. 105–78, title I, Nov. 13, 1997, 111 Stat. 1475.
 
-Pub. L. 104–208, div. A, title I, § 101(e) [title I], Sept. 30, 1996, 110 Stat. 3009–233, 3009–241.
+Pub. L. 104–208, div. A, title I, § 101(e) [title I], Sept. 30, 1996, 110 Stat. 3009–233, 3009–241.
 
-Pub. L. 104–134, title I, § 101(d) [title I], Apr. 26, 1996, 110 Stat. 1321–211, 1321–218; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+Pub. L. 104–134, title I, § 101(d) [title I], Apr. 26, 1996, 110 Stat. 1321–211, 1321–218; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
-## § 921a. Appearance of attorneys for Secretary, deputy commissioner, or Board
+## § 921a. Appearance of attorneys for Secretary, deputy commissioner, or Board
 
-Attorneys appointed by the Secretary shall represent the Secretary, the deputy commissioner, or the Board in any court proceedings under section 21 [33 U.S.C. 921] or other provisions of this Act 1
+Attorneys appointed by the Secretary shall represent the Secretary, the deputy commissioner, or the Board in any court proceedings under section 21 [33 U.S.C. 921] or other provisions of this Act 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 except for proceedings in the Supreme Court of the United States.
 
-(May 4, 1928, ch. 502, 45 Stat. 490; June 25, 1948, ch. 646, § 1, 62 Stat. 909; Pub. L. 92–576, § 16, Oct. 27, 1972, 86 Stat. 1262.)
+(May 4, 1928, ch. 502, 45 Stat. 490; June 25, 1948, ch. 646, § 1, 62 Stat. 909; Pub. L. 92–576, § 16, Oct. 27, 1972, 86 Stat. 1262.)
 
 **Editorial Notes**
 
@@ -1413,19 +1413,19 @@ Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” 
 
 Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section 22 of Pub. L. 92–576, set out as a note under section 902 of this title.
 
-## § 922. Modification of awards
+## § 922. Modification of awards
 
 Upon his own initiative, or upon the application of any party in interest (including an employer or carrier which has been granted relief under section 908(f) of this title), on the ground of a change in conditions or because of a mistake in a determination of fact by the deputy commissioner, the deputy commissioner may, at any time prior to one year after the date of the last payment of compensation, whether or not a compensation order has been issued, or at any time prior to one year after the rejection of a claim, review a compensation case (including a case under which payments are made pursuant to section 944(i) of this title) in accordance with the procedure prescribed in respect of claims in section 919 of this title, and in accordance with such section issue a new compensation order which may terminate, continue, reinstate, increase, or decrease such compensation, or award compensation. Such new order shall not affect any compensation previously paid, except that an award increasing the compensation rate may be made effective from the date of the injury, and if any part of the compensation due or to become due is unpaid, an award decreasing the compensation rate may be made effective from the date of the injury, and any payment made prior thereto in excess of such decreased rate shall be deducted from any unpaid compensation, in such manner and by such method as may be determined by the deputy commissioner with the approval of the Secretary. This section does not authorize the modification of settlements.
 
-(Mar. 4, 1927, ch. 509, § 22, 44 Stat. 1437; May 26, 1934, ch. 354, § 5, 48 Stat. 807; June 25, 1938, ch. 685, § 10, 52 Stat. 1167; Pub. L. 98–426, §§ 16, 27(a)(2), Sept. 28, 1984, 98 Stat. 1650, 1654.)
+(Mar. 4, 1927, ch. 509, § 22, 44 Stat. 1437; May 26, 1934, ch. 354, § 5, 48 Stat. 807; June 25, 1938, ch. 685, § 10, 52 Stat. 1167; Pub. L. 98–426, §§ 16, 27(a)(2), Sept. 28, 1984, 98 Stat. 1650, 1654.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1984—Pub. L. 98–426, § 16, inserted “(including an employer or carrier which has been granted relief under section 908(f) of this title)” after “party in interest” and “(including a case under which payments are made pursuant to section 941(i) of this title)” after “review a compensation case” and inserted at end “This section does not authorize the modification of settlements.”
+1984—Pub. L. 98–426, § 16, inserted “(including an employer or carrier which has been granted relief under section 908(f) of this title)” after “party in interest” and “(including a case under which payments are made pursuant to section 941(i) of this title)” after “review a compensation case” and inserted at end “This section does not authorize the modification of settlements.”
 
-Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
+Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
 
 1938—Act June 25, 1938, permitted review of compensation case at any time prior to one year after rejection of claim and authorized award of compensation.
 
@@ -1437,13 +1437,13 @@ Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission�
 
 Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of Pub. L. 98–426, set out as a note under section 901 of this title.
 
-## § 923. Procedure before deputy commissioner or Board
+## § 923. Procedure before deputy commissioner or Board
 
 **(a)** In making an investigation or inquiry or conducting a hearing the deputy commissioner or Board shall not be bound by common law or statutory rules of evidence or by technical or formal rules of procedure, except as provided by this chapter; but may make such investigation or inquiry or conduct such hearing in such manner as to best ascertain the rights of the parties. Declarations of a deceased employee concerning the injury in respect of which the investigation or inquiry is being made or the hearing conducted shall be received in evidence and shall, if corroborated by other evidence, be sufficient to establish the injury.
 
 **(b)** Hearings before a deputy commissioner or Board shall be open to the public and shall be stenographically reported, and the deputy commissioners or Board, subject to the approval of the Secretary, are authorized to contract for the reporting of such hearings. The Secretary shall by regulation provide for the preparation of a record of the hearings and other proceedings before the deputy commissioners or Board.
 
-(Mar. 4, 1927, ch. 509, § 23, 44 Stat. 1437; Pub. L. 92–576, § 15(e), Oct. 27, 1972, 86 Stat. 1262; Pub. L. 98–426, § 27(a)(2), Sept. 28, 1984, 98 Stat. 1654.)
+(Mar. 4, 1927, ch. 509, § 23, 44 Stat. 1437; Pub. L. 92–576, § 15(e), Oct. 27, 1972, 86 Stat. 1262; Pub. L. 98–426, § 27(a)(2), Sept. 28, 1984, 98 Stat. 1654.)
 
 **Editorial Notes**
 
@@ -1463,11 +1463,11 @@ Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of 
 
 Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section 22 of Pub. L. 92–576, set out as a note under section 902 of this title.
 
-## § 924. Witnesses
+## § 924. Witnesses
 
 No person shall be required to attend as a witness in any proceeding before a deputy commissioner at a place outside of the State of his residence and more than one hundred miles from his place of residence, unless his lawful mileage and fee for one day’s attendance shall be first paid or tendered to him; but the testimony of any witness may be taken by deposition or interrogatories according to the rules of practice of the Federal district court for the judicial district in which the case is pending (or of the United States District Court for the District of Columbia if the case is pending in the District).
 
-(Mar. 4, 1927, ch. 509, § 24, 44 Stat. 1437; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, § 32(b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107.)
+(Mar. 4, 1927, ch. 509, § 24, 44 Stat. 1437; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, § 32(b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107.)
 
 **Editorial Notes**
 
@@ -1475,29 +1475,29 @@ No person shall be required to attend as a witness in any proceeding before a de
 
 As originally enacted, this section contained a reference to the Supreme Court of the District of Columbia. Act June 25, 1936, substituted “the district court of the United States for the District of Columbia” for “the Supreme Court of the District of Columbia”, and act June 25, 1948, as amended by act May 24, 1949, substituted “United States District Court for the District of Columbia” for “district court of the United States for the District of Columbia”.
 
-## § 925. Witness fees
+## § 925. Witness fees
 
 Witnesses summoned in a proceeding before a deputy commissioner or whose depositions are taken shall receive the same fees and mileage as witnesses in courts of the United States.
 
-(Mar. 4, 1927, ch. 509, § 25, 44 Stat. 1437.)
+(Mar. 4, 1927, ch. 509, § 25, 44 Stat. 1437.)
 
-## § 926. Costs in proceedings brought without reasonable grounds
+## § 926. Costs in proceedings brought without reasonable grounds
 
 If the court having jurisdiction of proceedings in respect of any claim or compensation order determines that the proceedings in respect of such claim or order have been instituted or continued without reasonable ground, the costs of such proceedings shall be assessed against the party who has so instituted or continued such proceedings.
 
-(Mar. 4, 1927, ch. 509, § 26, 44 Stat. 1438.)
+(Mar. 4, 1927, ch. 509, § 26, 44 Stat. 1438.)
 
-## § 927. Powers of deputy commissioners or Board
+## § 927. Powers of deputy commissioners or Board
 
-**(a)** The deputy commissioner or Board shall have power to preserve and enforce order during any such proceedings; to issue subpoenas for, to administer oaths to, and to compel the attendance and testimony of witnesses, or the production of books, papers, documents, and other evidence, or the taking of depositions before any designated individual competent to administer oaths; to examine witnesses; and to do all things conformable to law which may be necessary to enable him effiectively 1
+**(a)** The deputy commissioner or Board shall have power to preserve and enforce order during any such proceedings; to issue subpoenas for, to administer oaths to, and to compel the attendance and testimony of witnesses, or the production of books, papers, documents, and other evidence, or the taking of depositions before any designated individual competent to administer oaths; to examine witnesses; and to do all things conformable to law which may be necessary to enable him effiectively 1
 
-<sup>1</sup>  So in original. Probably should be “effectively”.
+<sup>1</sup> So in original. Probably should be “effectively”.
 
 to discharge the duties of his office.
 
 **(b)** If any person in proceedings before a deputy commissioner or Board disobeys or resists any lawful order or process, or misbehaves during a hearing or so near the place thereof as to obstruct the same, or neglects to produce, after having been ordered to do so, any pertinent book, paper, or document, or refuses to appear after having been subpoenaed, or upon appearing refuses to take the oath as a witness, or after having taken the oath refuses to be examined according to law, the deputy commissioner or Board shall certify the facts to the district court having jurisdiction in the place in which he is sitting (or to the United States District Court for the District of Columbia if he is sitting in such District) which shall thereupon in a summary manner hear the evidence as to the acts complained of, and if the evidence so warrants, punish such person in the same manner and to the same extent as for a contempt committed before the court, or commit such person upon the same conditions as if the doing of the forbidden act had occurred with reference to the process of or in the presence of the court.
 
-(Mar. 4, 1927, ch. 509, § 27, 44 Stat. 1438; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, § 32(b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 92–576, § 15(e), Oct. 27, 1972, 86 Stat. 1262.)
+(Mar. 4, 1927, ch. 509, § 27, 44 Stat. 1438; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, § 32(b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 92–576, § 15(e), Oct. 27, 1972, 86 Stat. 1262.)
 
 **Editorial Notes**
 
@@ -1515,7 +1515,7 @@ As originally enacted, subsec. (b) contained a reference to the Supreme Court of
 
 Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section 22 of Pub. L. 92–576, set out as a note under section 902 of this title.
 
-## § 928. Fees for services
+## § 928. Fees for services
 
 **(a) Attorney’s fee; successful prosecution of claim**
 
@@ -1523,9 +1523,9 @@ If the employer or carrier declines to pay any compensation on or before the thi
 
 **(b) Attorney’s fee; successful prosecution for additional compensation; independent medical evaluation of disability controversy; restriction of other assessments**
 
-If the employer or carrier pays or tenders payment of compensation without an award pursuant to section 914(a) and (b) of this title, and thereafter a controversy develops over the amount of additional compensation, if any, to which the employee may be entitled, the deputy commissioner or Board shall set the matter for an informal conference and following such conference the deputy commissioner or Board shall recommend in writing a disposition of the controversy. If the employer or carrier refuse 1
+If the employer or carrier pays or tenders payment of compensation without an award pursuant to section 914(a) and (b) of this title, and thereafter a controversy develops over the amount of additional compensation, if any, to which the employee may be entitled, the deputy commissioner or Board shall set the matter for an informal conference and following such conference the deputy commissioner or Board shall recommend in writing a disposition of the controversy. If the employer or carrier refuse 1
 
-<sup>1</sup>  So in original. Probably should be “refuses”.
+<sup>1</sup> So in original. Probably should be “refuses”.
 
 to accept such written recommendation, within fourteen days after its receipt by them, they shall pay or tender to the employee in writing the additional compensation, if any, to which they believe the employee is entitled. If the employee refuses to accept such payment or tender of compensation, and thereafter utilizes the services of an attorney at law, and if the compensation thereafter awarded is greater than the amount paid or tendered by the employer or carrier, a reasonable attorney’s fee based solely upon the difference between the amount awarded and the amount tendered or paid shall be awarded in addition to the amount of compensation. The foregoing sentence shall not apply if the controversy relates to degree or length of disability, and if the employer or carrier offers to submit the case for evaluation by physicians employed or selected by the Secretary, as authorized in section 907(e) of this title and offers to tender an amount of compensation based upon the degree or length of disability found by the independent medical report at such time as an evaluation of disability can be made. If the claimant is successful in review proceedings before the Board or court in any such case an award may be made in favor of the claimant and against the employer or carrier for a reasonable attorney’s fee for claimant’s counsel in accord with the above provisions. In all other cases any claim for legal services shall not be assessed against the employer or carrier.
 
@@ -1541,7 +1541,7 @@ In cases where an attorney’s fee is awarded against an employer or carrier the
 
 A person who receives a fee, gratuity, or other consideration on account of services rendered as a representative of a claimant, unless the consideration is approved by the deputy commissioner, administrative law judge, Board, or court, or who makes it a business to solicit employment for a lawyer, or for himself, with respect to a claim or award for compensation under this chapter, shall, upon conviction thereof, for each offense be punished by a fine of not more than $1,000 or be imprisoned for not more than one year, or both.
 
-(Mar. 4, 1927, ch. 509, § 28, 44 Stat. 1438; Pub. L. 92–576, § 13, Oct. 27, 1972, 86 Stat. 1259; Pub. L. 98–426, § 17, Sept. 28, 1984, 98 Stat. 1650.)
+(Mar. 4, 1927, ch. 509, § 28, 44 Stat. 1438; Pub. L. 92–576, § 13, Oct. 27, 1972, 86 Stat. 1259; Pub. L. 98–426, § 17, Sept. 28, 1984, 98 Stat. 1650.)
 
 **Editorial Notes**
 
@@ -1563,17 +1563,17 @@ Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of 
 
 Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section 22 of Pub. L. 92–576, set out as a note under section 902 of this title.
 
-## § 929. Record of injury or death
+## § 929. Record of injury or death
 
 Every employer shall keep a record in respect of any injury to an employee. Such record shall contain such information of disease, other disability, or death in respect of such injury as the Secretary may by regulation require, and shall be available to inspection by the Secretary or by any State authority at such times and under such conditions as the Secretary may by regulation prescribe.
 
-(Mar. 4, 1927, ch. 509, § 29, 44 Stat. 1438; Pub. L. 98–426, § 27(a)(2), Sept. 28, 1984, 98 Stat. 1654.)
+(Mar. 4, 1927, ch. 509, § 29, 44 Stat. 1438; Pub. L. 98–426, § 27(a)(2), Sept. 28, 1984, 98 Stat. 1654.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1984—Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
+1984—Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1581,7 +1581,7 @@ Every employer shall keep a record in respect of any injury to an employee. Such
 
 Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of Pub. L. 98–426, set out as a note under section 901 of this title.
 
-## § 930. Reports to Secretary
+## § 930. Reports to Secretary
 
 **(a) Time for sending; contents; copy to deputy commissioner**
 
@@ -1607,21 +1607,21 @@ Any employer, insurance carrier, or self-insured employer who knowingly and will
 
 Where the employer or the carrier has been given notice, or the employer (or his agent in charge of the business in the place where the injury occurred) or the carrier has knowledge, of any injury or death of an employee and fails, neglects, or refuses to file report thereof as required by the provisions of subsection (a) of this section, the limitations in subsection (a) of section 913 of this title shall not begin to run against the claim of the injured employee or his dependents entitled to compensation, or in favor of either the employer or the carrier, until such report shall have been furnished as required by the provisions of subsection (a) of this section.
 
-(Mar. 4, 1927, ch. 509, § 30, 44 Stat. 1439; June 25, 1938, ch. 685, § 11, 52 Stat. 1167; Pub. L. 98–426, §§ 18, 27(a)(2), Sept. 28, 1984, 98 Stat. 1650, 1654.)
+(Mar. 4, 1927, ch. 509, § 30, 44 Stat. 1439; June 25, 1938, ch. 685, § 11, 52 Stat. 1167; Pub. L. 98–426, §§ 18, 27(a)(2), Sept. 28, 1984, 98 Stat. 1650, 1654.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1984—Subsec. (a). Pub. L. 98–426, § 18(a)(1), inserted “, which causes loss of one or more shifts of work,” after “Within ten days from the date of any injury”.
+1984—Subsec. (a). Pub. L. 98–426, § 18(a)(1), inserted “, which causes loss of one or more shifts of work,” after “Within ten days from the date of any injury”.
 
-Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
+Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
 
-Pub. L. 98–426, § 18(a)(2), inserted at end “Notwithstanding the requirements of this subsection, each employer shall keep a record of each and every injury regardless of whether such injury results in the loss of one or more shifts of work.”
+Pub. L. 98–426, § 18(a)(2), inserted at end “Notwithstanding the requirements of this subsection, each employer shall keep a record of each and every injury regardless of whether such injury results in the loss of one or more shifts of work.”
 
-Subsecs. (b), (d). Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
+Subsecs. (b), (d). Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
 
-Subsec. (e). Pub. L. 98–426, § 18(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any employer who fails or refuses to send any report required of him by this section shall be subject to a civil penalty not to exceed $500 for each such failure or refusal.”
+Subsec. (e). Pub. L. 98–426, § 18(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any employer who fails or refuses to send any report required of him by this section shall be subject to a civil penalty not to exceed $500 for each such failure or refusal.”
 
 1938—Subsec. (f). Act June 25, 1938, added subsec. (f).
 
@@ -1631,7 +1631,7 @@ Subsec. (e). Pub. L. 98–426, § 18(b), amended subsec. (e) generally. Prior 
 
 Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of Pub. L. 98–426, set out as a note under section 901 of this title.
 
-## § 931. Penalty for misrepresentation
+## § 931. Penalty for misrepresentation
 
 **(a) Felony; fine; imprisonment**
 
@@ -1669,7 +1669,7 @@ Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of 
 
 A person including, but not limited to, an employer, his duly authorized agent, or an employee of an insurance carrier who knowingly and willfully makes a false statement or representation for the purpose of reducing, denying, or terminating benefits to an injured employee, or his dependents pursuant to section 909 of this title if the injury results in death, shall be punished by a fine not to exceed $10,000, by imprisonment not to exceed five years, or by both.
 
-(Mar. 4, 1927, ch. 509, § 31, 44 Stat. 1439; Pub. L. 98–426, § 19, Sept. 28, 1984, 98 Stat. 1650.)
+(Mar. 4, 1927, ch. 509, § 31, 44 Stat. 1439; Pub. L. 98–426, § 19, Sept. 28, 1984, 98 Stat. 1650.)
 
 **Editorial Notes**
 
@@ -1683,7 +1683,7 @@ A person including, but not limited to, an employer, his duly authorized agent, 
 
 Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of Pub. L. 98–426, set out as a note under section 901 of this title.
 
-## § 932. Security for compensation
+## § 932. Security for compensation
 
 **(a)** Every employer shall secure the payment of compensation under this chapter—
 
@@ -1693,19 +1693,19 @@ Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of 
 
 **(b)** In granting authorization to any carrier to insure payment of compensation under this chapter the Secretary may take into consideration the recommendation of any State authority having supervision over carriers or over workmen’s compensation, and may authorize any carrier to insure the payment of compensation under this chapter in a limited territory. Any marine protection and indemnity mutual insurance corporation or association, authorized to write insurance against liability for loss or damage from personal injury and death, and for other losses and damages, incidental to or in respect of the ownership, operation, or chartering of vessels on a mutual assessment plan, shall be deemed a qualified carrier to insure compensation under this chapter. The Secretary may suspend or revoke any such authorization for good cause shown after a hearing at which the carrier shall be entitled to be heard in person or by counsel and to present evidence. No suspension or revocation shall affect the liability of any carrier already incurred.
 
-(Mar. 4, 1927, ch. 509, § 32, 44 Stat. 1439; Pub. L. 98–426, §§ 20, 27(a)(2), Sept. 28, 1984, 98 Stat. 1652, 1654.)
+(Mar. 4, 1927, ch. 509, § 32, 44 Stat. 1439; Pub. L. 98–426, §§ 20, 27(a)(2), Sept. 28, 1984, 98 Stat. 1652, 1654.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1984—Subsec. (a)(1). Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
+1984—Subsec. (a)(1). Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
 
-Subsec. (a)(2). Pub. L. 98–426, § 20, inserted “based on the employer’s financial condition, the employer’s previous record of payments, and other relevant factors,” after “in an amount determined by the commission,”.
+Subsec. (a)(2). Pub. L. 98–426, § 20, inserted “based on the employer’s financial condition, the employer’s previous record of payments, and other relevant factors,” after “in an amount determined by the commission,”.
 
-Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
+Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
 
-Subsec. (b). Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
+Subsec. (b). Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1713,7 +1713,7 @@ Subsec. (b). Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for �
 
 Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of Pub. L. 98–426, set out as a note under section 901 of this title.
 
-## § 933. Compensation for injuries where third persons are liable
+## § 933. Compensation for injuries where third persons are liable
 
 **(a) Election of remedies**
 
@@ -1767,31 +1767,31 @@ Where the employer is insured and the insurance carrier has assumed the payment 
 
 The right to compensation or benefits under this chapter shall be the exclusive remedy to an employee when he is injured, or to his eligible survivors or legal representatives if he is killed, by the negligence or wrong of any other person or persons in the same employ: *Provided*, That this provision shall not affect the liability of a person other than an officer or employee of the employer.
 
-(Mar. 4, 1927, ch. 509, § 33, 44 Stat. 1440; June 25, 1938, ch. 685, §§ 12, 13, 52 Stat. 1168; Pub. L. 86–171, Aug. 18, 1959, 73 Stat. 391; Pub. L. 92–576, § 15(f)–(h), Oct. 27, 1972, 86 Stat. 1262; Pub. L. 98–426, § 21, Sept. 28, 1984, 98 Stat. 1652.)
+(Mar. 4, 1927, ch. 509, § 33, 44 Stat. 1440; June 25, 1938, ch. 685, §§ 12, 13, 52 Stat. 1168; Pub. L. 86–171, Aug. 18, 1959, 73 Stat. 391; Pub. L. 92–576, § 15(f)–(h), Oct. 27, 1972, 86 Stat. 1262; Pub. L. 98–426, § 21, Sept. 28, 1984, 98 Stat. 1652.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1984—Subsec. (b). Pub. L. 98–426, § 21(a), substituted “Acceptance of compensation under an award in a compensation order filed by the deputy commissioner, an administrative law judge, or the Board shall operate as an assignment to the employer of all rights of the person entitled to compensation to recover damages against such third person unless such person shall commence an action against such third person within six months after such acceptance” for “Acceptance of such compensation under an award in a compensation order filed by the deputy commissioner or Board shall operate as an assignment to the employer of all right of the person entitled to compensation to recover damages against such third person unless such person shall commence an action against such third person within six months after such award” and inserted at end “If the employer fails to commence an action against such third person within ninety days after the cause of action is assigned under this section, the right to bring such action shall revert to the person entitled to compensation. For the purpose of this subsection, the term ‘award’ with respect to a compensation order means a formal order issued by the deputy commissioner, an administrative law judge, or Board.”
+1984—Subsec. (b). Pub. L. 98–426, § 21(a), substituted “Acceptance of compensation under an award in a compensation order filed by the deputy commissioner, an administrative law judge, or the Board shall operate as an assignment to the employer of all rights of the person entitled to compensation to recover damages against such third person unless such person shall commence an action against such third person within six months after such acceptance” for “Acceptance of such compensation under an award in a compensation order filed by the deputy commissioner or Board shall operate as an assignment to the employer of all right of the person entitled to compensation to recover damages against such third person unless such person shall commence an action against such third person within six months after such award” and inserted at end “If the employer fails to commence an action against such third person within ninety days after the cause of action is assigned under this section, the right to bring such action shall revert to the person entitled to compensation. For the purpose of this subsection, the term ‘award’ with respect to a compensation order means a formal order issued by the deputy commissioner, an administrative law judge, or Board.”
 
-Subsec. (e)(2). Pub. L. 98–426, § 21(b), struck out “, less one-fifth of such excess which shall belong to the employer” after “or to the representative”.
+Subsec. (e)(2). Pub. L. 98–426, § 21(b), struck out “, less one-fifth of such excess which shall belong to the employer” after “or to the representative”.
 
-Subsec. (f). Pub. L. 98–426, § 21(c)(1), inserted “net” before “amount recovered”.
+Subsec. (f). Pub. L. 98–426, § 21(c)(1), inserted “net” before “amount recovered”.
 
-Pub. L. 98–426, § 21(c)(2), inserted at end “Such net amount shall be equal to the actual amount recovered less the expenses reasonably incurred by such person in respect to such proceedings (including reasonable attorneys’ fees).”
+Pub. L. 98–426, § 21(c)(2), inserted at end “Such net amount shall be equal to the actual amount recovered less the expenses reasonably incurred by such person in respect to such proceedings (including reasonable attorneys’ fees).”
 
-Subsec. (g). Pub. L. 98–426, § 21(d), designated existing provisions as par. (1), substituted “If the person entitled to compensation (or the person’s representative) enters into a settlement with a third person referred to in subsection (a) for an amount less than the compensation to which the person (or the person’s representative) would be entitled under this chapter, the employer shall be liable for compensation as determined under subsection (f) only if written approval of the settlement is obtained from the employer and the employer’s carrier, before the settlement is executed, and by the person entitled to compensation (or the person’s representative)” for “If compromise with such third person is made by the person entitled to compensation or such representative of an amount less than the compensation to which such person or representative would be entitled to under this chapter the employer shall be liable for compensation as determined in subsection (f) only if the written approval of such compromise is obtained from the employer and its insurance carrier by the person entitled to compensation or such representative at the time of or prior to such compromise on a form provided by the Secretary and filed in the office of the deputy commissioner having jurisdiction of such injury or death within thirty days after such compromise is made”, inserted at end “The approval shall be made on a form provided by the Secretary and shall be filed in the office of the deputy commissioner within thirty days after the settlement is entered into.”, and added pars. (2) to (4).
+Subsec. (g). Pub. L. 98–426, § 21(d), designated existing provisions as par. (1), substituted “If the person entitled to compensation (or the person’s representative) enters into a settlement with a third person referred to in subsection (a) for an amount less than the compensation to which the person (or the person’s representative) would be entitled under this chapter, the employer shall be liable for compensation as determined under subsection (f) only if written approval of the settlement is obtained from the employer and the employer’s carrier, before the settlement is executed, and by the person entitled to compensation (or the person’s representative)” for “If compromise with such third person is made by the person entitled to compensation or such representative of an amount less than the compensation to which such person or representative would be entitled to under this chapter the employer shall be liable for compensation as determined in subsection (f) only if the written approval of such compromise is obtained from the employer and its insurance carrier by the person entitled to compensation or such representative at the time of or prior to such compromise on a form provided by the Secretary and filed in the office of the deputy commissioner having jurisdiction of such injury or death within thirty days after such compromise is made”, inserted at end “The approval shall be made on a form provided by the Secretary and shall be filed in the office of the deputy commissioner within thirty days after the settlement is entered into.”, and added pars. (2) to (4).
 
-1972—Subsecs. (b), (e)(1)(A). Pub. L. 92–576, § 15(f), (g), inserted “or Board” after “deputy commissioner”.
+1972—Subsecs. (b), (e)(1)(A). Pub. L. 92–576, § 15(f), (g), inserted “or Board” after “deputy commissioner”.
 
-Subsec. (g). Pub. L. 92–576, § 15(h), substituted “if the written approval of such compromise is obtained from the employer and its insurance carrier by the person entitled to compensation or such representative at the time of or prior to such compromise on a form provided by the Secretary and filed in the office of the deputy commissioner having jurisdiction of such injury or death within thirty days after such compromise is made” for “if such compromise is made with his written approval”.
+Subsec. (g). Pub. L. 92–576, § 15(h), substituted “if the written approval of such compromise is obtained from the employer and its insurance carrier by the person entitled to compensation or such representative at the time of or prior to such compromise on a form provided by the Secretary and filed in the office of the deputy commissioner having jurisdiction of such injury or death within thirty days after such compromise is made” for “if such compromise is made with his written approval”.
 
 1959—Subsec. (a). Pub. L. 86–171 inserted “or a person or persons in his employ” after “employer” and substituted “he need not elect whether” for “he may elect, by giving notice to the deputy commissioner in such manner as the Secretary may provide,”.
 
 Subsec. (b). Pub. L. 86–171 inserted “unless such person shall commence an action against such third person within six months after such award”.
 
-Subsec. (c). Pub. L. 86–171 struck out “, whether or not the representative has notified the deputy commissioner of his election” after “third person”.
+Subsec. (c). Pub. L. 86–171 struck out “, whether or not the representative has notified the deputy commissioner of his election” after “third person”.
 
 Subsec. (d). Pub. L. 86–171 reenacted subsec. (d) without change.
 
@@ -1803,11 +1803,11 @@ Subsec. (g). Pub. L. 86–171 corrected reference to “subsection (e)” to rea
 
 Subsecs. (h), (i). Pub. L. 86–171 redesignated subsec. (i) as (h) and struck out former subsec. (h) that permitted the deputy commissioner to make an election for a minor or to authorize the parent or guardian to make the election.
 
-1938—Subsec. (b). Act June 25, 1938, § 12, inserted “under an award in a compensation order filed by the deputy commissioner” and struck out “, whether or not the person entitled to compensation has notified the deputy commissioner of his election” at end of sentence.
+1938—Subsec. (b). Act June 25, 1938, § 12, inserted “under an award in a compensation order filed by the deputy commissioner” and struck out “, whether or not the person entitled to compensation has notified the deputy commissioner of his election” at end of sentence.
 
-Subsec. (e). Act June 25, 1938, § 12, redesignated par. (1)(C) as par. (1)(C) and (D) and included in said par. (1)(D) the present value of the cost of benefits furnished.
+Subsec. (e). Act June 25, 1938, § 12, redesignated par. (1)(C) as par. (1)(C) and (D) and included in said par. (1)(D) the present value of the cost of benefits furnished.
 
-Subsec. (i). Act June 25, 1938, § 13, added subsec. (i).
+Subsec. (i). Act June 25, 1938, § 13, added subsec. (i).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1819,11 +1819,11 @@ Amendment by Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with
 
 Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section 22 of Pub. L. 92–576, set out as a note under section 902 of this title.
 
-## § 934. Compensation notice
+## § 934. Compensation notice
 
 Every employer who has secured compensation under the provisions of this chapter shall keep posted in a conspicuous place or places in and about his place or places of business typewritten or printed notices, in accordance with a form prescribed by the Secretary, stating that such employer has secured the payment of compensation in accordance with the provisions of this chapter. Such notices shall contain the name and address of the carrier, if any, with whom the employer has secured payment of compensation and the date of the expiration of the policy.
 
-(Mar. 4, 1927, ch. 509, § 34, 44 Stat. 1441; Pub. L. 98–426, § 27(a)(2), Sept. 28, 1984, 98 Stat. 1654.)
+(Mar. 4, 1927, ch. 509, § 34, 44 Stat. 1441; Pub. L. 98–426, § 27(a)(2), Sept. 28, 1984, 98 Stat. 1654.)
 
 **Editorial Notes**
 
@@ -1837,11 +1837,11 @@ Every employer who has secured compensation under the provisions of this chapter
 
 Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of Pub. L. 98–426, set out as a note under section 901 of this title.
 
-## § 935. Substitution of carrier for employer
+## § 935. Substitution of carrier for employer
 
 In any case where the employer is not a self-insurer, in order that the liability for compensation imposed by this chapter may be most effectively discharged by the employer, and in order that the administration of this chapter in respect of such liability may be facilitated, the Secretary shall by regulation provide for the discharge, by the carrier for such employer, of such obligations and duties of the employer in respect to such liability, imposed by this chapter upon the employer, as it considers proper in order to effectuate the provisions of this chapter. For such purposes (1) notice to or knowledge of an employer of the occurrence of the injury shall be notice to or knowledge of the carrier, (2) jurisdiction of the employer by a deputy commissioner, the Board, or the Secretary, or any court under this chapter shall be jurisdiction of the carrier, and (3) any requirement by a deputy commissioner, the Board, or the Secretary, or any court under any compensation order, finding, or decision shall be binding upon the carrier in the same manner and to the same extent as upon the employer.
 
-(Mar. 4, 1927, ch. 509, § 35, 44 Stat. 1441; Pub. L. 92–576, § 15(i), Oct. 27, 1972, 86 Stat. 1262; Pub. L. 98–426, § 27(a)(2), Sept. 28, 1984, 98 Stat. 1654.)
+(Mar. 4, 1927, ch. 509, § 35, 44 Stat. 1441; Pub. L. 92–576, § 15(i), Oct. 27, 1972, 86 Stat. 1262; Pub. L. 98–426, § 27(a)(2), Sept. 28, 1984, 98 Stat. 1654.)
 
 **Editorial Notes**
 
@@ -1861,21 +1861,21 @@ Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of 
 
 Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section 22 of Pub. L. 92–576, set out as a note under section 902 of this title.
 
-## § 936. Insurance policies
+## § 936. Insurance policies
 
 **(a)** Every policy or contract of insurance issued under authority of this chapter shall contain (1) a provision to carry out the provisions of section 935 of this title, and (2) a provision that insolvency or bankruptcy of the employer and/or discharge therein shall not relieve the carrier from payment of compensation for disability or death sustained by an employee during the life of such policy or contract.
 
 **(b)** No contract or policy of insurance issued by a carrier under this chapter shall be canceled prior to the date specified in such contract or policy for its expiration until at least thirty days have elapsed after a notice of cancellation has been sent to the deputy commissioner and to the employer in accordance with the provisions of subsection (c) of section 912 of this title.
 
-(Mar. 4, 1927, ch. 509, § 36, 44 Stat. 1441.)
+(Mar. 4, 1927, ch. 509, § 36, 44 Stat. 1441.)
 
-## § 937. Certificate of compliance with chapter
+## § 937. Certificate of compliance with chapter
 
 No stevedoring firm shall be employed in any compensation district by a vessel or by hull owners until it presents to such vessel or hull owners a certificate issued by a deputy commissioner assigned to such district that it has complied with the provisions of this chapter requiring the securing of compensation to its employees. Any person violating the provisions of this section shall be punished by a fine of not more than $1,000, or by imprisonment for not more than one year, or by both such fine and imprisonment.
 
-(Mar. 4, 1927, ch. 509, § 37, 44 Stat. 1442.)
+(Mar. 4, 1927, ch. 509, § 37, 44 Stat. 1442.)
 
-## § 938. Penalties
+## § 938. Penalties
 
 **(a) Failure to secure payment of compensation**
 
@@ -1889,7 +1889,7 @@ Any employer who knowingly transfers, sells, encumbers, assigns, or in any manne
 
 This section shall not affect any other liability of the employer under this chapter.
 
-(Mar. 4, 1927, ch. 509, § 38, 44 Stat. 1442; June 25, 1938, ch. 685, § 14, 52 Stat. 1168; Pub. L. 98–426, § 22, Sept. 28, 1984, 98 Stat. 1653.)
+(Mar. 4, 1927, ch. 509, § 38, 44 Stat. 1442; June 25, 1938, ch. 685, § 14, 52 Stat. 1168; Pub. L. 98–426, § 22, Sept. 28, 1984, 98 Stat. 1653.)
 
 **Editorial Notes**
 
@@ -1905,13 +1905,13 @@ This section shall not affect any other liability of the employer under this cha
 
 Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of Pub. L. 98–426, set out as a note under section 901 of this title.
 
-## § 939. Administration by Secretary
+## § 939. Administration by Secretary
 
 **(a) Prescribing rules and regulations; appointing and fixing compensation of employees; making expenditures**
 
-Except as otherwise specifically provided, the Secretary shall administer the provisions of this chapter, and for such purpose the Secretary is authorized (1) to make such rules and regulations; (2) to appoint and fix the compensation of such temporary technical assistants and medical advisers, and, subject to the provisions of the civil service laws, to appoint, and, in accordance with chapter 51 and subchapter III of chapter 53 of title 5, to fix the compensation of such deputy commissioners (except deputy commissioners appointed under subsection (a) of section 940 of this title) and other officers and employees; and (3) to make such expenditures (including expenditures for personal services and rent at the seat of government and elsewhere, for law books, books of reference, periodicals, and for printing and binding) as may be necessary in the administration of this chapter. All expenditures of the Secretary in the administration of this chapter shall be allowed and paid as provided in section 945 1
+Except as otherwise specifically provided, the Secretary shall administer the provisions of this chapter, and for such purpose the Secretary is authorized (1) to make such rules and regulations; (2) to appoint and fix the compensation of such temporary technical assistants and medical advisers, and, subject to the provisions of the civil service laws, to appoint, and, in accordance with chapter 51 and subchapter III of chapter 53 of title 5, to fix the compensation of such deputy commissioners (except deputy commissioners appointed under subsection (a) of section 940 of this title) and other officers and employees; and (3) to make such expenditures (including expenditures for personal services and rent at the seat of government and elsewhere, for law books, books of reference, periodicals, and for printing and binding) as may be necessary in the administration of this chapter. All expenditures of the Secretary in the administration of this chapter shall be allowed and paid as provided in section 945 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title upon the presentation of itemized vouchers therefor approved by the Secretary.
 
@@ -1925,27 +1925,27 @@ The Secretary shall establish compensation districts, to include the high seas a
 
 **(2)** The Secretary shall direct the vocational rehabilitation of permanently disabled employees and shall arrange with the appropriate public or private agencies in States or Territories, possessions, or the District of Columbia for such rehabilitation. The Secretary may in his discretion furnish such prosthetic appliances or other apparatus made necessary by an injury upon which an award has been made under this chapter to render a disabled employee fit to engage in a remunerative occupation. Where necessary rehabilitation services are not available otherwise, the Secretary of Labor may, in his discretion, use the fund provided for in section 944 of this title in such amounts as may be necessary to procure such services, including necessary prosthetic appliance or other apparatus. This fund shall also be available in such amounts as may be authorized in annual appropriations for the Department of Labor for the costs of administering this subsection.
 
-(Mar. 4, 1927, ch. 509, § 39, 44 Stat. 1442; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, § 32(b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972; July 26, 1956, ch. 735, § 7, 70 Stat. 656; Pub. L. 92–576, § 17, Oct. 27, 1972, 86 Stat. 1262; Pub. L. 98–426, § 27(a)(2), (c), Sept. 28, 1984, 98 Stat. 1654.)
+(Mar. 4, 1927, ch. 509, § 39, 44 Stat. 1442; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, § 32(b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972; July 26, 1956, ch. 735, § 7, 70 Stat. 656; Pub. L. 92–576, § 17, Oct. 27, 1972, 86 Stat. 1262; Pub. L. 98–426, § 27(a)(2), (c), Sept. 28, 1984, 98 Stat. 1654.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 945 of this title, referred to in subsec. (a), was repealed by Pub. L. 98–426, § 25, Sept. 28, 1984, 98 Stat. 1654. See section 944 of this title.
+Section 945 of this title, referred to in subsec. (a), was repealed by Pub. L. 98–426, § 25, Sept. 28, 1984, 98 Stat. 1654. See section 944 of this title.
 
 **Codification**
 
-In subsec. (a) “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (a) “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 As originally enacted, subsec. (b) contained a reference to the Supreme Court of the District of Columbia. Act June 25, 1936, substituted “the district court of the United States for the District of Columbia” for “the Supreme Court of the District of Columbia”, and act June 25, 1948, as amended by act May 24, 1949, substituted “United States District Court for the District of Columbia” for “district court of the United States for the District of Columbia”.
 
-Former second sentence of subsec. (c), providing that the Federal Board for Vocational Education should cooperate with the Employees’ Compensation Commission in such educational work has been omitted. The functions of the Board were transferred to the Department of the Interior by Ex. Ord. No. 6166, § 15, June 10, 1933, and then to the Federal Security Agency by Reorg. Plan No. 1 of 1939, §§ 201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424. The Commission was abolished and its functions transferred to the Federal Security Administrator and the Federal Board for Vocational Education was abolished by Reorg. Plan No. 2 of 1946, former sections 3 and 8, respectively, set out in the Appendix to Title 5, Government Organization and Employees.
+Former second sentence of subsec. (c), providing that the Federal Board for Vocational Education should cooperate with the Employees’ Compensation Commission in such educational work has been omitted. The functions of the Board were transferred to the Department of the Interior by Ex. Ord. No. 6166, § 15, June 10, 1933, and then to the Federal Security Agency by Reorg. Plan No. 1 of 1939, §§ 201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424. The Commission was abolished and its functions transferred to the Federal Security Administrator and the Federal Board for Vocational Education was abolished by Reorg. Plan No. 2 of 1946, former sections 3 and 8, respectively, set out in the Appendix to Title 5, Government Organization and Employees.
 
 **Amendments**
 
-1984—Subsec. (a). Pub. L. 98–426, § 27(c), substituted “Secretary” for “United States Employees’ Compensation Commission”. See Transfer of Functions note set out under section 902 of this title.
+1984—Subsec. (a). Pub. L. 98–426, § 27(c), substituted “Secretary” for “United States Employees’ Compensation Commission”. See Transfer of Functions note set out under section 902 of this title.
 
-Subsecs. (b), (c)(2). Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
+Subsecs. (b), (c)(2). Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
 
 1972—Subsec. (c). Pub. L. 92–576 added par. (1) and redesignated existing provisions as par. (2).
 
@@ -1965,9 +1965,9 @@ Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section
 
 **Repeals**
 
-Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
+Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
-## § 940. Deputy commissioners
+## § 940. Deputy commissioners
 
 **(a) Appointment; use of personnel and facilities of boards, commissions, or other agencies; expenses and salaries**
 
@@ -1993,13 +1993,13 @@ If any deputy commissioner is removed from office, or for any reason ceases to a
 
 Neither a deputy commissioner or Board member nor any business associate of a deputy commissioner or Board member shall appear as attorney in any proceeding under this chapter, and no deputy commissioner or Board member shall act in any such case in which he is interested, or when he is employed by any party in interest or related to any party in interest by consanguinity or affinity within the third degree, as determined by the common law.
 
-(Mar. 4, 1927, ch. 509, § 40, 44 Stat. 1443; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972; Pub. L. 92–576, § 15(j), Oct. 27, 1972, 86 Stat. 1262; Pub. L. 98–426, § 27(a)(2), Sept. 28, 1984, 98 Stat. 1654.)
+(Mar. 4, 1927, ch. 509, § 40, 44 Stat. 1443; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972; Pub. L. 92–576, § 15(j), Oct. 27, 1972, 86 Stat. 1262; Pub. L. 98–426, § 27(a)(2), Sept. 28, 1984, 98 Stat. 1654.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (b) “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (b) “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 **Amendments**
 
@@ -2021,13 +2021,13 @@ Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section
 
 **Repeals**
 
-Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
+Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
 **Transfer of Functions**
 
 For transfer of functions to the Secretary of Labor, see note set out under section 902 of this title.
 
-## § 941. Safety rules and regulations
+## § 941. Safety rules and regulations
 
 **(a) Safe place of employment; installation of safety devices and safeguards**
 
@@ -2067,31 +2067,31 @@ Any employer who, willfully, violates or fails or refuses to comply with the pro
 
 **(2)** The provisions of this section, with the exception of paragraph (1) of subsection (b), shall not be applied under the authority of subchapter I of chapter 81 of title 5.
 
-(Mar. 4, 1927, ch. 509, § 41, 44 Stat. 1444; Pub. L. 85–742, § 1, Aug. 23, 1958, 72 Stat. 835; Pub. L. 97–375, title I, § 110(b), Dec. 21, 1982, 96 Stat. 1820.)
+(Mar. 4, 1927, ch. 509, § 41, 44 Stat. 1444; Pub. L. 85–742, § 1, Aug. 23, 1958, 72 Stat. 835; Pub. L. 97–375, title I, § 110(b), Dec. 21, 1982, 96 Stat. 1820.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title 52 of the Revised Statutes, referred to in subsec. (a), consisted of R.S. §§ 4399 to 4500, which were classified to sections 170, 214, 215, 222, 224, 224a, 226, 228, 229, 230 to 234, 239, 240, 361, 362, 364, 371 to 373, 375 to 382, 384, 385, 391, 391a, 392 to 394, 399 to 404, 405 to 416, 435 to 440, 451 to 453, 460, 461 to 463, 464, 466, 467 to 482, and 489 to 498 of former Title 46, Shipping. For complete classification of R.S. §§ 4399 to 4500 to the Code, see Tables. A majority of such sections of the Revised Statutes were repealed and various provisions thereof were reenacted in Title 46, Shipping, by Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 500. For disposition of sections of former Title 46 into revised Title 46, see Disposition Table preceding section 101 of Title 46.
+Title 52 of the Revised Statutes, referred to in subsec. (a), consisted of R.S. §§ 4399 to 4500, which were classified to sections 170, 214, 215, 222, 224, 224a, 226, 228, 229, 230 to 234, 239, 240, 361, 362, 364, 371 to 373, 375 to 382, 384, 385, 391, 391a, 392 to 394, 399 to 404, 405 to 416, 435 to 440, 451 to 453, 460, 461 to 463, 464, 466, 467 to 482, and 489 to 498 of former Title 46, Shipping. For complete classification of R.S. §§ 4399 to 4500 to the Code, see Tables. A majority of such sections of the Revised Statutes were repealed and various provisions thereof were reenacted in Title 46, Shipping, by Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 500. For disposition of sections of former Title 46 into revised Title 46, see Disposition Table preceding section 101 of Title 46.
 
 Act of June 15, 1917, referred to in subsec. (a), is act June 15, 1917, ch. 30, 40 Stat. 217, as amended. For complete classification of this Act to the Code, see Tables.
 
-Act of August 7, 1953, referred to in subsec. (g)(1), is known as the Outer Continental Shelf Lands Act, and is classified to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
+Act of August 7, 1953, referred to in subsec. (g)(1), is known as the Outer Continental Shelf Lands Act, and is classified to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
-Act of May 22, 1953, referred to in subsec. (g)(1), is known as the Submerged Lands Act, and is classified generally to subchapters I and II (§§ 1301 et seq., 1311 et seq.) of chapter 29 of Title 43. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
+Act of May 22, 1953, referred to in subsec. (g)(1), is known as the Submerged Lands Act, and is classified generally to subchapters I and II (§§ 1301 et seq., 1311 et seq.) of chapter 29 of Title 43. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 Act of May 17, 1928, referred to in subsec. (g)(1), extended the applicability of this chapter in respect to the injury or death of an employee of an employer carrying on any employment in the District of Columbia.
 
-Act of August 16, 1941, referred to in subsec. (g)(1), is known as the Defense Base Act and is classified generally to chapter 11 (§ 1651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1651 of Title 42 and Tables.
+Act of August 16, 1941, referred to in subsec. (g)(1), is known as the Defense Base Act and is classified generally to chapter 11 (§ 1651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1651 of Title 42 and Tables.
 
 **Codification**
 
-In subsec. (b)(5), “subsections (b) to (f) of section 6507 of title 41” substituted for “section 5 of the Act of June 30, 1936 (ch. 881, 49 Stat. 2036), as amended,” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(5), “subsections (b) to (f) of section 6507 of title 41” substituted for “section 5 of the Act of June 30, 1936 (ch. 881, 49 Stat. 2036), as amended,” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (d) “section 552 of title 5” substituted for “section 3 of the Administrative Procedure Act (ch. 324, 60 Stat. 237), as amended”, and in subsec. (g)(2) “subchapter I of chapter 81 of title 5” substituted for “the Act of September 7, 1916 (ch. 458, 39 Stat. 742), as amended”, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees. Said section 3 of the Administrative Procedure Act had been classified to section 1002 of former Title 5, Executive Departments and Government Officers and Employees. Said act of Sept. 7, 1916, was known as the “Federal Employees’ Compensation Act” and had been classified to section 751 et seq. of former Title 5.
+In subsec. (d) “section 552 of title 5” substituted for “section 3 of the Administrative Procedure Act (ch. 324, 60 Stat. 237), as amended”, and in subsec. (g)(2) “subchapter I of chapter 81 of title 5” substituted for “the Act of September 7, 1916 (ch. 458, 39 Stat. 742), as amended”, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees. Said section 3 of the Administrative Procedure Act had been classified to section 1002 of former Title 5, Executive Departments and Government Officers and Employees. Said act of Sept. 7, 1916, was known as the “Federal Employees’ Compensation Act” and had been classified to section 751 et seq. of former Title 5.
 
-As originally enacted, subsec. (e) contained the phrase “, together with the District Court for the Territory of Alaska,” following “the United States district courts”. The phrase has been deleted as superfluous in view of Pub. L. 85–508, July 7, 1958, 72 Stat. 339 (set out as a note preceding section 21 of Title 48, Territories and Insular Possessions) which admitted Alaska into the union and enacted section 81A of Title 28, Judiciary and Judicial Procedure, constituting Alaska as one judicial district and in view of section 132 of Title 28 which provides that: “There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district.”
+As originally enacted, subsec. (e) contained the phrase “, together with the District Court for the Territory of Alaska,” following “the United States district courts”. The phrase has been deleted as superfluous in view of Pub. L. 85–508, July 7, 1958, 72 Stat. 339 (set out as a note preceding section 21 of Title 48, Territories and Insular Possessions) which admitted Alaska into the union and enacted section 81A of Title 28, Judiciary and Judicial Procedure, constituting Alaska as one judicial district and in view of section 132 of Title 28 which provides that: “There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district.”
 
 **Amendments**
 
@@ -2103,23 +2103,23 @@ As originally enacted, subsec. (e) contained the phrase “, together with the
 
 **“Secretary” Defined**
 
-Pub. L. 85–742, § 2, Aug. 23, 1958, 72 Stat. 837, provided that: “The term ‘Secretary’ as used in this Act and in amendments made by this Act [to this section] means the Secretary of Labor.”
+Pub. L. 85–742, § 2, Aug. 23, 1958, 72 Stat. 837, provided that: “The term ‘Secretary’ as used in this Act and in amendments made by this Act [to this section] means the Secretary of Labor.”
 
-## § 942. Annual report
+## § 942. Annual report
 
 The Secretary shall make to Congress at the end of each fiscal year,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 a report of the administration of this chapter for the preceding fiscal year, including a detailed statement of receipts of and expenditures from the fund established in section 944 of this title, together with such recommendations as the Secretary deems advisable. Such report shall include the annual report required under section 936(b) of title 30 and shall be identified as the Annual Report of the Office of Workers’ Compensation Programs.
 
-(Mar. 4, 1927, ch. 509, § 42, as added Pub. L. 98–426, § 23, Sept. 28, 1984, 98 Stat. 1653; amended Pub. L. 104–66, title I, § 1102(b)(1), Dec. 21, 1995, 109 Stat. 722.)
+(Mar. 4, 1927, ch. 509, § 42, as added Pub. L. 98–426, § 23, Sept. 28, 1984, 98 Stat. 1653; amended Pub. L. 104–66, title I, § 1102(b)(1), Dec. 21, 1995, 109 Stat. 722.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 942, act Mar. 4, 1927, ch. 509, § 42, 44 Stat. 1444, related to travel and subsistence expenses. See section 5701 et seq. of Title 5, Government Organization and Employees.
+A prior section 942, act Mar. 4, 1927, ch. 509, § 42, 44 Stat. 1444, related to travel and subsistence expenses. See section 5701 et seq. of Title 5, Government Organization and Employees.
 
 **Amendments**
 
@@ -2131,11 +2131,11 @@ A prior section 942, act Mar. 4, 1927, ch. 509, § 42, 44 Stat. 1444, related 
 
 Section effective Sept. 28, 1984, see section 28(e)(1) of Pub. L. 98–426, set out as an Effective Date of 1984 Amendment note under section 901 of this title.
 
-## § 943. Repealed. Pub. L. 89–348, § 1(15), Nov. 8, 1965, 79 Stat. 1311
+## § 943. Repealed. Pub. L. 89–348, § 1(15), Nov. 8, 1965, 79 Stat. 1311
 
-Section, act Mar. 4, 1927, ch. 509, § 43, 44 Stat. 1444, required Secretary to make a report to Congress at beginning of each regular session of the administration of this chapter for preceding fiscal year, including a detailed statement of receipts of and expenditures from funds established in sections 944 and 945 of this title.
+Section, act Mar. 4, 1927, ch. 509, § 43, 44 Stat. 1444, required Secretary to make a report to Congress at beginning of each regular session of the administration of this chapter for preceding fiscal year, including a detailed statement of receipts of and expenditures from funds established in sections 944 and 945 of this title.
 
-## § 944. Special fund
+## § 944. Special fund
 
 **(a) Establishment; administration; custody, trust**
 
@@ -2187,9 +2187,9 @@ All civil penalties and unpaid assessments provided for in this chapter shall be
 
 **(i) Proceeds available for certain payments** The proceeds of this fund shall be available for payments:
 
-**(1)** Pursuant to sections 1
+**(1)** Pursuant to sections 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 910 of this title with respect to certain initial and subsequent annual adjustments in compensation for total permanent disability or death.
 
@@ -2203,65 +2203,65 @@ All civil penalties and unpaid assessments provided for in this chapter shall be
 
 The fund shall be audited annually and the results of such audit shall be included in the annual report required by section 942 of this title.
 
-(Mar. 4, 1927, ch. 509, § 44, 44 Stat. 1444; July 26, 1956, ch. 735, § 8, 70 Stat. 656; Pub. L. 92–576, § 8, Oct. 27, 1972, 86 Stat. 1256; Pub. L. 98–426, §§ 24, 27(a)(2), Sept. 28, 1984, 98 Stat. 1653, 1654.)
+(Mar. 4, 1927, ch. 509, § 44, 44 Stat. 1444; July 26, 1956, ch. 735, § 8, 70 Stat. 656; Pub. L. 92–576, § 8, Oct. 27, 1972, 86 Stat. 1256; Pub. L. 98–426, §§ 24, 27(a)(2), Sept. 28, 1984, 98 Stat. 1653, 1654.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1984—Subsecs. (a), (b). Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
+1984—Subsecs. (a), (b). Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
 
-Subsec. (c)(2). Pub. L. 98–426, § 24(a), substituted provisions requiring that, at the beginning of each calendar year the Secretary estimate the probable expenses of the fund during that calendar year and the amount of payments required (and the schedule therefor) to maintain adequate reserves in the fund and that each carrier and self-insurer make payments into the fund on a prorated assessment by the Secretary determined by (A) computing the ratio (expressed as a percent) of (i) the carrier’s or self-insured’s workers’ compensation payments under this chapter during the preceding calendar year, to (ii) the total of such payments by all carriers and self-insureds under this chapter during such year; (B) computing the ratio (expressed as a percent) of (i) the payments under section 908(f) of this title during the preceding calendar year which are attributable to the carrier or self-insured, to (ii) the total of such payments during such year attributable to all carriers and self-insureds; (C) dividing the sum of the percentages computed under (A) and (B) for the carrier or self-insured by two; and (D) multiplying the percent computed under (C) by such probable expenses of the fund (as determined under the first sentence of this paragraph) for provisions which had formerly required that at the beginning of each calendar year the Secretary estimate the probable expenses of the fund during that calendar year and each carrier or self-insurer make payments into the fund on a prorated assessment by the Secretary in the proportion that the total compensation and medical payments made on risks covered by this chapter by each carrier and self-insurer bore to the total of such payments made by all carriers and self-insurers under the chapter in the prior calendar year in accordance with a formula and schedule to be determined from time to time by the Secretary to maintain adequate reserves in the fund.
+Subsec. (c)(2). Pub. L. 98–426, § 24(a), substituted provisions requiring that, at the beginning of each calendar year the Secretary estimate the probable expenses of the fund during that calendar year and the amount of payments required (and the schedule therefor) to maintain adequate reserves in the fund and that each carrier and self-insurer make payments into the fund on a prorated assessment by the Secretary determined by (A) computing the ratio (expressed as a percent) of (i) the carrier’s or self-insured’s workers’ compensation payments under this chapter during the preceding calendar year, to (ii) the total of such payments by all carriers and self-insureds under this chapter during such year; (B) computing the ratio (expressed as a percent) of (i) the payments under section 908(f) of this title during the preceding calendar year which are attributable to the carrier or self-insured, to (ii) the total of such payments during such year attributable to all carriers and self-insureds; (C) dividing the sum of the percentages computed under (A) and (B) for the carrier or self-insured by two; and (D) multiplying the percent computed under (C) by such probable expenses of the fund (as determined under the first sentence of this paragraph) for provisions which had formerly required that at the beginning of each calendar year the Secretary estimate the probable expenses of the fund during that calendar year and each carrier or self-insurer make payments into the fund on a prorated assessment by the Secretary in the proportion that the total compensation and medical payments made on risks covered by this chapter by each carrier and self-insurer bore to the total of such payments made by all carriers and self-insurers under the chapter in the prior calendar year in accordance with a formula and schedule to be determined from time to time by the Secretary to maintain adequate reserves in the fund.
 
-Subsec. (e). Pub. L. 98–426, § 24(b), redesignated subsec. (f) as (e). Former subsec. (e), which authorized the appropriation to the Secretary of the sum of $2,000,000 which the Secretary was required to deposit into the fund and directed that, upon deposit in the fund such moneys would be treated as the property of such fund, that the sum, without additional payments for interest, would be repaid from the money or property belonging to the fund on a schedule of repayment set by the Secretary, that full repayment had to be made no later than five years from the date of deposit into the fund, and that each such repayment, as made, would be covered into the Treasury of the United States as miscellaneous receipts, was struck out.
+Subsec. (e). Pub. L. 98–426, § 24(b), redesignated subsec. (f) as (e). Former subsec. (e), which authorized the appropriation to the Secretary of the sum of $2,000,000 which the Secretary was required to deposit into the fund and directed that, upon deposit in the fund such moneys would be treated as the property of such fund, that the sum, without additional payments for interest, would be repaid from the money or property belonging to the fund on a schedule of repayment set by the Secretary, that full repayment had to be made no later than five years from the date of deposit into the fund, and that each such repayment, as made, would be covered into the Treasury of the United States as miscellaneous receipts, was struck out.
 
-Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
+Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
 
-Subsec. (f). Pub. L. 98–426, § 24(b), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 98–426, § 24(b), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
+Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
 
-Subsec. (g). Pub. L. 98–426, § 24(b), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+Subsec. (g). Pub. L. 98–426, § 24(b), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
-Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
+Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
 
-Subsec. (h). Pub. L. 98–426, § 24(b), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
+Subsec. (h). Pub. L. 98–426, § 24(b), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
 
-Pub. L. 98–426, § 24(c), inserted “and unpaid assessments” after “civil penalties”.
+Pub. L. 98–426, § 24(c), inserted “and unpaid assessments” after “civil penalties”.
 
-Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
+Pub. L. 98–426, § 27(a)(2), substituted “Secretary” for “commission”. See Transfer of Functions note set out under section 902 of this title.
 
-Subsec. (i). Pub. L. 98–426, § 24(b), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
+Subsec. (i). Pub. L. 98–426, § 24(b), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
 
-Subsec. (i)(1). Pub. L. 98–426, § 24(d)(1), struck out “and 911” after “sections 910”, inserted “certain” before “initial”, and struck out “which occurred prior to the effective date of this subsection” after “disability or death”.
+Subsec. (i)(1). Pub. L. 98–426, § 24(d)(1), struck out “and 911” after “sections 910”, inserted “certain” before “initial”, and struck out “which occurred prior to the effective date of this subsection” after “disability or death”.
 
-Subsec. (i)(4). Pub. L. 98–426, § 24(d)(2), inserted “(e)” after “section 907”.
+Subsec. (i)(4). Pub. L. 98–426, § 24(d)(2), inserted “(e)” after “section 907”.
 
-Subsec. (j). Pub. L. 98–426, § 24(b), redesignated (k) as (j). Former subsec. (j) redesignated (i).
+Subsec. (j). Pub. L. 98–426, § 24(b), redesignated (k) as (j). Former subsec. (j) redesignated (i).
 
-Pub. L. 98–426, § 24(e), substituted “The fund shall be audited annually and the results of such audit shall be included in the annual report required by section 942 of this title” for “At the close of each fiscal year the Secretary shall submit to the Congress a complete audit of the fund”.
+Pub. L. 98–426, § 24(e), substituted “The fund shall be audited annually and the results of such audit shall be included in the annual report required by section 942 of this title” for “At the close of each fiscal year the Secretary shall submit to the Congress a complete audit of the fund”.
 
-Subsec. (k). Pub. L. 98–426, § 24(b), redesignated subsec. (k) as (j).
+Subsec. (k). Pub. L. 98–426, § 24(b), redesignated subsec. (k) as (j).
 
-1972—Subsec. (a). Pub. L. 92–576, § 8(a), substituted “special fund” for “special fund for the purpose of making payments in accordance with the provisions of subsections (f) and (g) of section 908, of subsection (b) of section 918, and of subsection (c) of section 939 of this title”.
+1972—Subsec. (a). Pub. L. 92–576, § 8(a), substituted “special fund” for “special fund for the purpose of making payments in accordance with the provisions of subsections (f) and (g) of section 908, of subsection (b) of section 918, and of subsection (c) of section 939 of this title”.
 
-Subsec. (c)(1). Pub. L. 92–576, § 8(b), increased compensation payment for death to $5,000 from $1,000; inserted provision for compensation which would otherwise be compensable under this chapter; deleted second sentence, less two provisos, now incorporated in subsec. (j)(2) of this section; deleted first such proviso for priority of payments authorized by subsec. (f) over other payments authorized from the fund; and deleted second such proviso, now incorporated in subsec. (k) of this section.
+Subsec. (c)(1). Pub. L. 92–576, § 8(b), increased compensation payment for death to $5,000 from $1,000; inserted provision for compensation which would otherwise be compensable under this chapter; deleted second sentence, less two provisos, now incorporated in subsec. (j)(2) of this section; deleted first such proviso for priority of payments authorized by subsec. (f) over other payments authorized from the fund; and deleted second such proviso, now incorporated in subsec. (k) of this section.
 
-Subsec. (c)(2), (3). Pub. L. 92–576, § 8(b), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (c)(2), (3). Pub. L. 92–576, § 8(b), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (d). Pub. L. 92–576, § 8(b), added subsec. (d). Former subsec. (d) redesignated (f).
+Subsec. (d). Pub. L. 92–576, § 8(b), added subsec. (d). Former subsec. (d) redesignated (f).
 
-Subsec. (e). Pub. L. 92–576, § 8(b), added subsec. (e). Former subsec. (e) redesignated (g).
+Subsec. (e). Pub. L. 92–576, § 8(b), added subsec. (e). Former subsec. (e) redesignated (g).
 
-Subsecs. (f) to (i). Pub. L. 92–576, § 8(b), redesignated former subsecs. (d) to (g) as (f) to (i), respectively.
+Subsecs. (f) to (i). Pub. L. 92–576, § 8(b), redesignated former subsecs. (d) to (g) as (f) to (i), respectively.
 
-Subsec. (j). Pub. L. 92–576, § 8(d), added pars. (1), (3), and (4), and incorporated former part of first sentence of subsec. (a) and former second sentence, less provisos, of subsec. (c)(1), in provisions designated as par. (2).
+Subsec. (j). Pub. L. 92–576, § 8(d), added pars. (1), (3), and (4), and incorporated former part of first sentence of subsec. (a) and former second sentence, less provisos, of subsec. (c)(1), in provisions designated as par. (2).
 
-Subsec. (k). Pub. L. 92–576, § 8(d), incorporated former provisions of subsec. (c)(1), last proviso, in provisions designated as subsec. (k).
+Subsec. (k). Pub. L. 92–576, § 8(d), incorporated former provisions of subsec. (c)(1), last proviso, in provisions designated as subsec. (k).
 
-1956—Subsec. (a). Act July 26, 1956, § 8(a), substituted “, of subsection (b) of section 918 of this title, and of subsection (c) of section 939 of this title” for “of this title.”
+1956—Subsec. (a). Act July 26, 1956, § 8(a), substituted “, of subsection (b) of section 918 of this title, and of subsection (c) of section 939 of this title” for “of this title.”
 
-Subsec. (c)(1). Act July 26, 1956, § 8(b), substituted provisions relating to availability of fund for payments under sections 908(f) and (g), 918(b), and 939(c) of this title, proviso that subsec. (f) payments have priority, and further proviso requiring annual audit, for former provision that fifty per centum of each payment shall be available for the payments under section 908(f) and (g) of this title.
+Subsec. (c)(1). Act July 26, 1956, § 8(b), substituted provisions relating to availability of fund for payments under sections 908(f) and (g), 918(b), and 939(c) of this title, proviso that subsec. (f) payments have priority, and further proviso requiring annual audit, for former provision that fifty per centum of each payment shall be available for the payments under section 908(f) and (g) of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2277,15 +2277,15 @@ Amendment by Pub. L. 92–576 effective 30 days after Oct. 27, 1972, see section
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
+For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
 
-## §§ 945 to 947. Repealed. Pub. L. 98–426, § 25, Sept. 28, 1984, 98 Stat. 1654
+## §§ 945 to 947. Repealed. Pub. L. 98–426, § 25, Sept. 28, 1984, 98 Stat. 1654
 
-Section 945, act Mar. 4, 1927, ch. 509, § 45, 44 Stat. 1445, provided for creation of a fund to provide for payment of all expenses connected with administration of this chapter. See section 944 of this title.
+Section 945, act Mar. 4, 1927, ch. 509, § 45, 44 Stat. 1445, provided for creation of a fund to provide for payment of all expenses connected with administration of this chapter. See section 944 of this title.
 
-Section 946, act Mar. 4, 1927, ch. 509, § 46, 44 Stat. 1445, appropriated $250,000 to be available for expenses of administration of this chapter for fiscal years ending June 30, 1927, and June 30, 1928.
+Section 946, act Mar. 4, 1927, ch. 509, § 46, 44 Stat. 1445, appropriated $250,000 to be available for expenses of administration of this chapter for fiscal years ending June 30, 1927, and June 30, 1928.
 
-Section 947, act Mar. 4, 1927, ch. 509, § 47, 44 Stat. 1445, provided for availability of appropriations for salaries and contingent expenses in administration of this chapter.
+Section 947, act Mar. 4, 1927, ch. 509, § 47, 44 Stat. 1445, provided for availability of appropriations for salaries and contingent expenses in administration of this chapter.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2293,25 +2293,25 @@ Section 947, act Mar. 4, 1927, ch. 509, § 47, 44 Stat. 1445, provided for ava
 
 Repeal effective Sept. 28, 1984, see section 28(e)(1) of Pub. L. 98–426, set out as an Effective Date of 1984 Amendment note under section 901 of this title.
 
-## § 948. Laws inapplicable
+## § 948. Laws inapplicable
 
 Nothing in sections 4283, 4284, 4285, 4286, or 4289 of the Revised Statutes, as amended, nor in section 18 of the Act entitled “An act to remove certain burdens on the American merchant marine and encourage the American foreign carrying trade, and for other purposes,” approved June 26, 1884, as amended, shall be held to limit the amount for which recovery may be had (1) in any suit at law or in admiralty where an employer has failed to secure compensation as required by this chapter, or (2) in any proceeding for compensation, any addition to compensation, or any civil penalty.
 
-(Mar. 4, 1927, ch. 509, § 48, 44 Stat. 1446.)
+(Mar. 4, 1927, ch. 509, § 48, 44 Stat. 1446.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 4283, 4284, 4285, 4286, and 4289 of the Revised Statutes, referred to in text, were classified to sections 183, 184, 185, 186, and 188, respectively, of the former Appendix to Title 46, Shipping, and were repealed and restated in chapter 305 of Title 46, Shipping, by Pub. L. 109–304, §§ 6(c), 19, Oct. 6, 2006, 120 Stat. 1509, 1710. For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding section 101 of Title 46.
+Sections 4283, 4284, 4285, 4286, and 4289 of the Revised Statutes, referred to in text, were classified to sections 183, 184, 185, 186, and 188, respectively, of the former Appendix to Title 46, Shipping, and were repealed and restated in chapter 305 of Title 46, Shipping, by Pub. L. 109–304, §§ 6(c), 19, Oct. 6, 2006, 120 Stat. 1509, 1710. For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding section 101 of Title 46.
 
-Section 18 of the Act entitled “An act to remove certain burdens on the American merchant marine and encourage the American foreign carrying trade, and for other purposes,” approved June 26, 1884, as amended, referred to in text, is section 18 of act June 26, 1884, ch. 121, 23 Stat. 57, which was classified to section 189 of the former Appendix to Title 46, Shipping, and was repealed and restated in section 30505 of Title 46, Shipping, by Pub. L. 109–304, §§ 6(c), 19, Oct. 6, 2006, 120 Stat. 1509, 1710. Section 30505 of Title 46 was subsequently renumbered section 30523 of Title 46 by Pub. L. 117–263, div. K, title CXV, § 11503(a)(3), Dec. 23, 2022, 136 Stat. 4130.
+Section 18 of the Act entitled “An act to remove certain burdens on the American merchant marine and encourage the American foreign carrying trade, and for other purposes,” approved June 26, 1884, as amended, referred to in text, is section 18 of act June 26, 1884, ch. 121, 23 Stat. 57, which was classified to section 189 of the former Appendix to Title 46, Shipping, and was repealed and restated in section 30505 of Title 46, Shipping, by Pub. L. 109–304, §§ 6(c), 19, Oct. 6, 2006, 120 Stat. 1509, 1710. Section 30505 of Title 46 was subsequently renumbered section 30523 of Title 46 by Pub. L. 117–263, div. K, title CXV, § 11503(a)(3), Dec. 23, 2022, 136 Stat. 4130.
 
-## § 948a. Discrimination against employees who bring proceedings; penalties; deposit of payments in special fund; civil actions; entitlement to restoration of employment and compensation, qualifications requirement; liability of employer for penalties and payments; insurance policy exemption from liability
+## § 948a. Discrimination against employees who bring proceedings; penalties; deposit of payments in special fund; civil actions; entitlement to restoration of employment and compensation, qualifications requirement; liability of employer for penalties and payments; insurance policy exemption from liability
 
 It shall be unlawful for any employer or his duly authorized agent to discharge or in any other manner discriminate against an employee as to his employment because such employee has claimed or attempted to claim compensation from such employer, or because he has testified or is about to testify in a proceeding under this chapter. The discharge or refusal to employ a person who has been adjudicated to have filed a fraudulent claim for compensation is not a violation of this section. Any employer who violates this section shall be liable to a penalty of not less than $1,000 or more than $5,000, as may be determined by the deputy commissioner. All such penalties shall be paid to the deputy commissioner for deposit in the special fund as described in section 944 of this title, and if not paid may be recovered in a civil action brought in the appropriate United States district court. Any employee so discriminated against shall be restored to his employment and shall be compensated by his employer for any loss of wages arising out of such discrimination: *Provided*, That if such employee shall cease to be qualified to perform the duties of his employment, he shall not be entitled to such restoration and compensation. The employer alone and not his carrier shall be liable for such penalties and payments. Any provision in an insurance policy undertaking to relieve the employer from the liability for such penalties and payments shall be void.
 
-(Mar. 4, 1927, ch. 509, § 49, as added Pub. L. 92–576, § 19, Oct. 27, 1972, 86 Stat. 1263; amended Pub. L. 98–426, § 26, Sept. 28, 1984, 98 Stat. 1654.)
+(Mar. 4, 1927, ch. 509, § 49, as added Pub. L. 92–576, § 19, Oct. 27, 1972, 86 Stat. 1263; amended Pub. L. 98–426, § 26, Sept. 28, 1984, 98 Stat. 1654.)
 
 **Editorial Notes**
 
@@ -2329,14 +2329,14 @@ Amendment by Pub. L. 98–426 effective Sept. 28, 1984, see section 28(e)(1) of 
 
 Section effective 30 days after Oct. 27, 1972, see section 22 of Pub. L. 92–576, set out as an Effective Date of 1972 Amendment note under section 902 of this title.
 
-## § 949. Effect of unconstitutionality
+## § 949. Effect of unconstitutionality
 
 If any part of this chapter is adjudged unconstitutional by the courts, and such adjudication has the effect of invalidating any payment of compensation under this chapter, the period intervening between the time the injury was sustained and the time of such adjudication shall not be computed as a part of the time prescribed by law for the commencement of any action against the employer in respect of such injury; but the amount of any compensation paid under this chapter on account of such injury shall be deducted from the amount of damages awarded in such action in respect of such injury.
 
-(Mar. 4, 1927, ch. 509, § 50 formerly § 49, 44 Stat. 1446; renumbered § 50, Pub. L. 92–576, § 19, Oct. 27, 1972, 86 Stat. 1263.)
+(Mar. 4, 1927, ch. 509, § 50 formerly § 49, 44 Stat. 1446; renumbered § 50, Pub. L. 92–576, § 19, Oct. 27, 1972, 86 Stat. 1263.)
 
-## § 950. Separability
+## § 950. Separability
 
 If any provision of this chapter is declared unconstitutional or the applicability thereof to any person or circumstances is held invalid, the validity of the remainder of the chapter and the applicability of such provision to other persons and circumstances shall not be affected thereby.
 
-(Mar. 4, 1927, ch. 509, § 51 formerly § 50, 44 Stat. 1446; renumbered § 51, Pub. L. 92–576, § 19, Oct. 27, 1972, 86 Stat. 1263.)
+(Mar. 4, 1927, ch. 509, § 51 formerly § 50, 44 Stat. 1446; renumbered § 51, Pub. L. 92–576, § 19, Oct. 27, 1972, 86 Stat. 1263.)

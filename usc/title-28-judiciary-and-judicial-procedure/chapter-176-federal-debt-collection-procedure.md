@@ -23,11 +23,11 @@ retrieved: 2026-10-11
 
 “United States magistrate judges” substituted for “United States magistrates” in item 3008 pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
 
-### § 3001. Applicability of chapter
+### § 3001. Applicability of chapter
 
-**(a) In General.—** Except as provided in subsection (b), the 1
+**(a) In General.—** Except as provided in subsection (b), the 1
 
-<sup>1</sup>  So in original. Probably should be “this”.
+<sup>1</sup> So in original. Probably should be “this”.
 
 chapter provides the exclusive civil procedures for the United States—
 
@@ -39,19 +39,19 @@ chapter provides the exclusive civil procedures for the United States—
 
 **(c) Amounts Owing Other Than Debts.—** This chapter shall not apply with respect to an amount owing that is not a debt or to a claim for an amount owing that is not a debt.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4933.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4933.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 101–647, title XXXVI, § 3631, Nov. 29, 1990, 104 Stat. 4966, provided that:
+Pub. L. 101–647, title XXXVI, § 3631, Nov. 29, 1990, 104 Stat. 4966, provided that:
 
 > **“(a)** Except as provided in subsection (b), this Act [probably should be “title”, meaning title XXXVI of Pub. L. 101–647, which enacted this chapter and section 2044 of this title, amended sections 550, 1962, 1963, and 2410 of this title, section 523 of Title 11, Bankruptcy, and sections 3142 and 3552 of Title 18, Crimes and Criminal Procedure, and enacted provisions set out as a note under section 1 of this title] and the amendments made by this Act [title] shall take effect 180 days after the date of the enactment of this Act [Nov. 29, 1990].
 
 > **“(b)**
 
-> **(1)** The amendments made by title I of this Act [probably should be “subtitle A of this title”, meaning subtitle A (§§ 3611, 3302 [3612]) of title XXXVI of Pub. L. 101–647, which enacted this chapter] shall apply with respect to actions pending on the effective date of this Act [probably should be title XXXVI of Pub. L. 101–647] in any court on—
+> **(1)** The amendments made by title I of this Act [probably should be “subtitle A of this title”, meaning subtitle A (§§ 3611, 3302 [3612]) of title XXXVI of Pub. L. 101–647, which enacted this chapter] shall apply with respect to actions pending on the effective date of this Act [probably should be title XXXVI of Pub. L. 101–647] in any court on—
 
 > **“(A)** a claim for a debt; or
 
@@ -65,7 +65,7 @@ Pub. L. 101–647, title XXXVI, § 3631, Nov. 29, 1990, 104 Stat. 4966, provid
 
 > **“(B)** the term ‘debt’ has the meaning given such term in section and [sic] 3002(3) of such chapter.”
 
-### § 3002. Definitions
+### § 3002. Definitions
 
 As used in this chapter:
 
@@ -121,7 +121,7 @@ and includes any amount owing to the United States for the benefit of an Indian 
 
 **(16)** “United States marshal” means a United States marshal, a deputy marshal, or an official of the United States Marshals Service designated under section 564.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4933.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4933.)
 
 **Editorial Notes**
 
@@ -135,7 +135,7 @@ Section 303 of the Consumer Credit Protection Act, referred to in par. (9), is c
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3003. Rules of construction
+### § 3003. Rules of construction
 
 **(a) Terms.—** For purposes of this chapter—
 
@@ -189,7 +189,7 @@ Section effective 180 days after Nov. 29, 1990, and applicable with respect to c
 
 **(f) Applicability of Federal Rules of Civil Procedure.—** Except as provided otherwise in this chapter, the Federal Rules of Civil Procedure shall apply with respect to actions and proceedings under this chapter.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4935.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4935.)
 
 **Editorial Notes**
 
@@ -203,7 +203,7 @@ The Federal Rules of Civil Procedure, referred to in subsecs. (c)(8)(A) and (f),
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3004. Service of process; enforcement; notice
+### § 3004. Service of process; enforcement; notice
 
 **(a) Manner of Service.—** A complaint, notice, writ, or other process required to be served in an action or proceeding under this chapter shall be served in accordance with the Federal Rules of Civil Procedure unless otherwise provided in this chapter.
 
@@ -219,7 +219,7 @@ Section effective 180 days after Nov. 29, 1990, and applicable with respect to c
 
 **(c) Notice and Other Process.—** At such time as counsel for the United States considers appropriate, but not later than the time a prejudgment or postjudgment remedy is put into effect under this chapter, counsel for the United States shall exercise reasonable diligence to serve on the debtor and any person who the United States believes, after exercising due diligence, has possession, custody, or control of the property, a copy of the application for such remedy, the order granting such remedy, and the notice required by section 3101(d) or 3202(b).
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4936.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4936.)
 
 **Editorial Notes**
 
@@ -233,11 +233,11 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3005. Application of chapter to judgments
+### § 3005. Application of chapter to judgments
 
 This chapter shall not apply with respect to a judgment on a debt if such judgment is entered more than 10 years before the effective date of this chapter.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4936.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4936.)
 
 **Editorial Notes**
 
@@ -251,11 +251,11 @@ For effective date of this chapter, referred to in text, see section 3631 of Pub
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3006. Affidavit requirements
+### § 3006. Affidavit requirements
 
 Any affidavit required of the United States by this chapter may be made on information and belief, if reliable and reasonably necessary, establishing with particularity, to the court’s satisfaction, facts supporting the claim of the United States.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4936.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4936.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -263,7 +263,7 @@ Any affidavit required of the United States by this chapter may be made on infor
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3007. Perishable personal property
+### § 3007. Perishable personal property
 
 **(a) Authority To Sell.—** If at any time during any action or proceeding under this chapter the court determines on its own initiative or upon motion of any party, that any seized or detained personal property is likely to perish, waste, or be destroyed, or otherwise substantially depreciate in value during the pendency of the proceeding, the court shall order a commercially reasonable sale of such property.
 
@@ -271,7 +271,7 @@ Section effective 180 days after Nov. 29, 1990, and applicable with respect to c
 
 **(c) Presumption.—** For purposes of liability on the part of the United States, there shall be a presumption that the price paid at a sale under subsection (a) is the fair market value of the property or portion.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4937.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4937.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -279,11 +279,11 @@ Section effective 180 days after Nov. 29, 1990, and applicable with respect to c
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3008. Proceedings before United States magistrate judges
+### § 3008. Proceedings before United States magistrate judges
 
 A district court of the United States may assign its duties in proceedings under this chapter to a United States magistrate judge to the extent not inconsistent with the Constitution and laws of the United States.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4937; amended Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4937; amended Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -295,11 +295,11 @@ A district court of the United States may assign its duties in proceedings under
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3009. United States marshals’ authority to designate keeper
+### § 3009. United States marshals’ authority to designate keeper
 
 Whenever a United States marshal is authorized to seize property pursuant to this chapter, the United States marshal may designate another person or Federal agency to hold for safekeeping such property seized.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4937.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4937.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -307,7 +307,7 @@ Whenever a United States marshal is authorized to seize property pursuant to thi
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3010. Co-owned property
+### § 3010. Co-owned property
 
 **(a) Limitation.—** The remedies available to the United States under this chapter may be enforced against property which is co-owned by a debtor and any other person only to the extent allowed by the law of the State where the property is located. This section shall not be construed to limit any right or interest of a debtor or co-owner in a retirement system for Federal military or civilian personnel established by the United States or any agency thereof or in a qualified retirement arrangement.
 
@@ -317,7 +317,7 @@ Section effective 180 days after Nov. 29, 1990, and applicable with respect to c
 
 **(2)** the term “qualified retirement arrangement” means a plan qualified under section 401(a), 403(a), or 409 of the Internal Revenue Code of 1986 or a plan that is subject to the requirements of section 205 of the Employee Retirement Income Security Act of 1974.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4937.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4937.)
 
 **Editorial Notes**
 
@@ -333,7 +333,7 @@ Section 205 of the Employee Retirement Income Security Act of 1974, referred to 
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3011. Assessment of surcharge on a debt
+### § 3011. Assessment of surcharge on a debt
 
 **(a) Surcharge Authorized.—** In an action or proceeding under subchapter B or C, and subject to subsection (b), the United States is entitled to recover a surcharge of 10 percent of the amount of the debt in connection with the recovery of the debt, to cover the cost of processing and handling the litigation and enforcement under this chapter of the claim for such debt.
 
@@ -343,7 +343,7 @@ Section effective 180 days after Nov. 29, 1990, and applicable with respect to c
 
 **(2)** the law pursuant to which the action on the claim is based provides any other amount to cover such costs.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4937.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4937.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -351,11 +351,11 @@ Section effective 180 days after Nov. 29, 1990, and applicable with respect to c
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3012. Joinder of additional defendant
+### § 3012. Joinder of additional defendant
 
 The United States or the debtor may join as an additional defendant in an action or proceeding under this chapter any person reasonably believed to owe money (including money owed on account of a requirement to provide goods or services pursuant to a loan or loan guarantee extended under Federal law) to the debtor arising out of the transaction or occurrence giving rise to a debt.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4938.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4938.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -363,11 +363,11 @@ The United States or the debtor may join as an additional defendant in an action
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3013. Modification or protective order; supervision of enforcement
+### § 3013. Modification or protective order; supervision of enforcement
 
 The court may at any time on its own initiative or the motion of any interested person, and after such notice as it may require, make an order denying, limiting, conditioning, regulating, extending, or modifying the use of any enforcement procedure under this chapter.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4938.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4938.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -375,7 +375,7 @@ The court may at any time on its own initiative or the motion of any interested 
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3014. Exempt property
+### § 3014. Exempt property
 
 **(a) Election To Exempt Property.—** An individual debtor may, in an action or proceeding under this chapter, elect to exempt property listed in either paragraph (1) or, in the alternative, paragraph (2). If such action or proceeding is against debtors who are husband and wife, one debtor may not elect to exempt property listed in paragraph (1) and the other debtor elect to exempt property listed in paragraph (2). If the debtors cannot agree on the alternative to be elected, they shall be deemed to elect paragraph (1). Such property is either—
 
@@ -397,7 +397,7 @@ Section effective 180 days after Nov. 29, 1990, and applicable with respect to c
 
 **(c) Debtors in Joint Cases.—** Subject to the limitation in subsection (a), this section shall apply separately with respect to each debtor in a joint case.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4938.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4938.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -405,13 +405,13 @@ Section effective 180 days after Nov. 29, 1990, and applicable with respect to c
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3015. Discovery as to debtor’s financial condition
+### § 3015. Discovery as to debtor’s financial condition
 
 **(a) In General.—** Except as provided in subsection (b), in an action or proceeding under subchapter B or C, the United States may have discovery regarding the financial condition of the debtor in the manner in which discovery is authorized by the Federal Rules of Civil Procedure in an action on a claim for a debt.
 
 **(b) Limitation.—** Subsection (a) shall not apply with respect to an action or proceeding under subchapter B unless there is a reasonable likelihood that the debt involved exceeds $50,000.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4939.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4939.)
 
 **Editorial Notes**
 
@@ -427,7 +427,7 @@ Section effective 180 days after Nov. 29, 1990, and applicable with respect to c
 
 ## SUBCHAPTER B—PREJUDGMENT REMEDIES
 
-### § 3101. Prejudgment remedies
+### § 3101. Prejudgment remedies
 
 (a) Application.—(1) The United States may, in a proceeding in conjunction with the complaint or at any time after the filing of a civil action on a claim for a debt, make application under oath to a court to issue any prejudgment remedy.
 
@@ -497,7 +497,7 @@ Section effective 180 days after Nov. 29, 1990, and applicable with respect to c
 
 (e) Issuance of Writ.—On the court’s determination that the requirements of subsections (a), (b), and (c) have been met, the court shall issue all process sufficient to put into effect the prejudgment remedy sought.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4939.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4939.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -505,7 +505,7 @@ Section effective 180 days after Nov. 29, 1990, and applicable with respect to c
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3102. Attachment
+### § 3102. Attachment
 
 **(a) Property Subject to Attachment.—**
 
@@ -607,7 +607,7 @@ in the same manner that a summons is served in a civil action and make the retur
 
 **(3) Restoration of property and exoneration of replevin bond.—** If the attachment is vacated or if the judgment on the claim for the debt is for the person against whom the writ attachment is issued, the court shall order the property, or proceeds of perishable property sold under section 3007, restored to the debtor and shall exonerate any replevin bond.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4942.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4942.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -615,7 +615,7 @@ in the same manner that a summons is served in a civil action and make the retur
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3103. Receivership
+### § 3103. Receivership
 
 **(a) Appointment of a Receiver.—** If the requirements of section 3101 are satisfied, a court may appoint a receiver for property in which the debtor has a substantial nonexempt interest if the United States shows reasonable cause to believe that there is a substantial danger that the property will be removed from the jurisdiction of the court, lost, concealed, materially injured or damaged, or mismanaged.
 
@@ -647,7 +647,7 @@ A receiver appointed to manage residential or commercial property shall have dem
 
 **(3)** At the termination of a receivership, the receiver shall file a final accounting of the receipts and disbursements and apply for compensation setting forth the amount sought and the services rendered by the receiver.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4944.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4944.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -655,7 +655,7 @@ A receiver appointed to manage residential or commercial property shall have dem
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3104. Garnishment
+### § 3104. Garnishment
 
 **(a) In General.—** If the requirements of section 3101 are satisfied, a court may issue a writ of garnishment against property (excluding earnings) in which the debtor has a substantial nonexempt interest and which is in the possession, custody, or control of a person other than the debtor in order to satisfy a claim for a debt. Co-owned property shall be subject to garnishment to the same extent as co-owned property is subject to garnishment under the law of the State in which such property is located. A court may issue simultaneous separate writs of garnishment to several garnishees. A writ of garnishment issued under this subsection shall be continuing and shall terminate only as provided in section 3205(c)(10).
 
@@ -679,7 +679,7 @@ Section effective 180 days after Nov. 29, 1990, and applicable with respect to c
 
 **(2)** property attached or in receivership, or income sequestered, under this subchapter.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4945.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4945.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -687,7 +687,7 @@ Section effective 180 days after Nov. 29, 1990, and applicable with respect to c
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3105. Sequestration
+### § 3105. Sequestration
 
 **(a) Property Subject to Sequestration.—**
 
@@ -769,7 +769,7 @@ in the same manner that a summons is served in a civil action and make the retur
 
 **(2) Restoration of income.—** If the sequestration is vacated or if the judgment on the claim for the debt is for the person against whom the writ of sequestration is issued, the court shall order the income restored to the debtor.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4946.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4946.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -779,7 +779,7 @@ Section effective 180 days after Nov. 29, 1990, and applicable with respect to c
 
 ## SUBCHAPTER C—POSTJUDGMENT REMEDIES
 
-### § 3201. Judgment liens
+### § 3201. Judgment liens
 
 **(a) Creation.—** A judgment in a civil action shall create a lien on all real property of a judgment debtor on filing a certified copy of the abstract of the judgment in the manner in which a notice of tax lien would be filed under paragraphs (1) and (2) of section 6323(f) of the Internal Revenue Code of 1986. A lien created under this paragraph is for the amount necessary to satisfy the judgment, including costs and interest.
 
@@ -805,7 +805,7 @@ Section effective 180 days after Nov. 29, 1990, and applicable with respect to c
 
 **(2)** This subsection shall not preclude the United States from using an execution sale pursuant to section 3203(g) to sell real property subject to a judgment lien.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4948.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4948.)
 
 **Editorial Notes**
 
@@ -819,7 +819,7 @@ Section 6323(f) of the Internal Revenue Code of 1986, referred to in subsec. (a)
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3202. Enforcement of judgments
+### § 3202. Enforcement of judgments
 
 (a) Enforcement Remedies.—A judgment may be enforced by any of the remedies set forth in this subchapter. A court may issue other writs pursuant to section 1651 of title 28, United States Code, as necessary to support such remedies, subject to rule 81(b) of the Federal Rules of Civil Procedure.
 
@@ -839,9 +839,9 @@ Section effective 180 days after Nov. 29, 1990, and applicable with respect to c
 
 “At the hearing you may explain to the judge why you believe the property the Government has taken is exempt [For a default judgment:] or why you think you do not owe the money to the Government. [For a writ of execution:] If you do not request a hearing within 20 days of receiving this notice, your [property] may be sold at public auction and the payment used toward the money you owe the Government.
 
-“If you think you live outside the Federal judicial district in which the court is located, you may request, not later than 20 days after your 1
+“If you think you live outside the Federal judicial district in which the court is located, you may request, not later than 20 days after your 1
 
-<sup>1</sup>  So in original. Probably should be “you”.
+<sup>1</sup> So in original. Probably should be “you”.
 
 receive this notice, that this proceeding to take your property be transferred by the court to the Federal judicial district in which you reside. You must make your request in writing, and either mail it or deliver it in person to the clerk of the court at [address]. You must also send a copy of your request to the Government at [address], so the Government will know you want the proceeding to be transferred.
 
@@ -865,7 +865,7 @@ This subparagraph shall not be construed to afford the judgment debtor the right
 
 (e) Sale of Property.—The property of a judgment debtor which is subject to sale to satisfy the judgment may be sold by judicial sale, pursuant to sections 2001, 2002, and 2004 or by execution sale pursuant to section 3203(g). If a hearing is requested pursuant to subsection (d), property with respect to which the request relates shall not be sold before such hearing.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4949.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4949.)
 
 **Editorial Notes**
 
@@ -879,7 +879,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3203. Execution
+### § 3203. Execution
 
 **(a) Property Subject to Execution.—** All property in which the judgment debtor has a substantial nonexempt interest shall be subject to levy pursuant to a writ of execution. The debtor’s earnings shall not be subject to execution while in the possession, custody, or control of the debtor’s employer. Co-owned property shall be subject to execution to the extent such property is subject to execution under the law of the State in which it is located.
 
@@ -929,9 +929,9 @@ Section effective 180 days after Nov. 29, 1990, and applicable with respect to c
 
 **(1) Before execution sale.—**
 
-**(A)** Before execution sale, the United States marshal may return property 1
+**(A)** Before execution sale, the United States marshal may return property 1
 
-<sup>1</sup>  So in original. The word “property” probably should not appear.
+<sup>1</sup> So in original. The word “property” probably should not appear.
 
 to the judgment debtor any personal property taken in execution, on—
 
@@ -999,7 +999,7 @@ When a sufficient number of lots are sold to satisfy the amount of the execution
 
 **(2) Postponement of sale.—** The United States marshal may postpone an execution sale from time to time by continuing the required posting or publication of notice until the date to which the sale is postponed, and appending, at the foot of each such notice of a current copy of the following:
 
-“The above sale is postponed until the        day of          , 19  , at    o’clock   .M.,            , United States Marshal for the District of            , by                , Deputy, dated            .”
+“The above sale is postponed until the day of , 19 , at o’clock .M., , United States Marshal for the District of , by , Deputy, dated .”
 
 **(3) Sale procedures.—**
 
@@ -1033,7 +1033,7 @@ When a sufficient number of lots are sold to satisfy the amount of the execution
 
 **(2) Further levy if execution not satisfied.—** If the proceeds of the execution sale of the property levied on are insufficient to satisfy the execution, the United States marshal shall proceed on the same writ of execution to levy other property of the judgment debtor.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4950.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4950.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1041,7 +1041,7 @@ When a sufficient number of lots are sold to satisfy the amount of the execution
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3204. Installment payment order
+### § 3204. Installment payment order
 
 **(a) Authority To Issue Order.—** Subject to subsection (c), if it is shown that the judgment debtor—
 
@@ -1059,7 +1059,7 @@ then upon motion of the United States and notice to the judgment debtor, the cou
 
 **(2)** An order may not be issued under subsection (a) with respect to any earnings of the debtor except nonexempt disposable earnings.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4955.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4955.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1067,7 +1067,7 @@ then upon motion of the United States and notice to the judgment debtor, the cou
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3205. Garnishment
+### § 3205. Garnishment
 
 **(a) In General.—** A court may issue a writ of garnishment against property (including nonexempt disposable earnings) in which the debtor has a substantial nonexempt interest and which is in the possession, custody, or control of a person other than the debtor, in order to satisfy the judgment against the debtor. Co-owned property shall be subject to garnishment to the same extent as co-owned property is subject to garnishment under the law of the State in which such property is located. A court may issue simultaneous separate writs of garnishment to several garnishees. A writ of garnishment issued under this subsection shall be continuing and shall terminate only as provided in subsection (c)(10).
 
@@ -1149,13 +1149,13 @@ The garnishee shall file the original answer with the court issuing the writ and
 
 **(B)** exhaustion of property in the possesion,1
 
-<sup>1</sup>  So in original. Probably should be “possession,”.
+<sup>1</sup> So in original. Probably should be “possession,”.
 
 custody, or control of the garnishee in which the debtor has a substantial nonexempt interest (including nonexempt disposable earnings), unless the garnishee reinstates or reemploys the judgment debtor within 90 days after the judgment debtor’s dismissal or resignation; or
 
 **(C)** satisfaction of the debt with respect to which the writ is issued.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4956.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4956.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1163,11 +1163,11 @@ custody, or control of the garnishee in which the debtor has a substantial nonex
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3206. Discharge
+### § 3206. Discharge
 
 A person who pursuant to an execution or order issued under this chapter by a court pays or delivers to the United States, a United States marshal, or a receiver, money or other personal property in which a judgment debtor has or will have an interest, or so pays a debt such person owes the judgment debtor, is discharged from such debt to the judgment debtor to the extent of the payment or delivery.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4959.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4959.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1177,7 +1177,7 @@ Section effective 180 days after Nov. 29, 1990, and applicable with respect to c
 
 ## SUBCHAPTER D—FRAUDULENT TRANSFERS INVOLVING DEBTS
 
-### § 3301. Definitions
+### § 3301. Definitions
 
 As used in this subchapter:
 
@@ -1249,37 +1249,37 @@ As used in this subchapter:
 
 **(v)** a person in control of the debtor.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(D)** an affiliate, or an insider of an affiliate as if the affiliate were the debtor; and
 
 **(E)** a managing agent of the debtor.
 
-**(4)**  2
+**(4)** 2
 
-<sup>2</sup>  So in original. Probably should be “(6)”.
+<sup>2</sup> So in original. Probably should be “(6)”.
 
 “Lien” means a charge against or an interest in property to secure payment of a debt and includes a security interest created by agreement, a judicial lien obtained by legal or equitable process or proceedings, a common law lien, or a statutory lien.
 
-**(5)**  3
+**(5)** 3
 
-<sup>3</sup>  So in original. Probably should be “(7)”.
+<sup>3</sup> So in original. Probably should be “(7)”.
 
 “Relative” means an individual related, by consanguinity or adoption, within the third degree as determined by the common law, a spouse, or an individual so related to a spouse within the third degree as so determined.
 
-**(6)**  4
+**(6)** 4
 
-<sup>4</sup>  So in original. Probably should be “(8)”.
+<sup>4</sup> So in original. Probably should be “(8)”.
 
 “Transfer” means every mode, direct or indirect, absolute or conditional, voluntary or involuntary, of disposing of or parting with an asset or an interest in an asset, and includes payment of money, release, lease, and creation of a lien or other encumbrance.
 
-**(7)**  5
+**(7)** 5
 
-<sup>5</sup>  So in original. Probably should be “(9)”.
+<sup>5</sup> So in original. Probably should be “(9)”.
 
 “Valid lien” means a lien that is effective against the holder of a judicial lien subsequently obtained in legal or equitable proceeding.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4959.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4959.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1287,7 +1287,7 @@ As used in this subchapter:
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3302. Insolvency
+### § 3302. Insolvency
 
 **(a) In General.—** Except as provided in subsection (c), a debtor is insolvent if the sum of the debtor’s debts is greater than all of the debtor’s assets at a fair valuation.
 
@@ -1303,7 +1303,7 @@ Section effective 180 days after Nov. 29, 1990, and applicable with respect to c
 
 **(e) Debts.—** For purposes of this section, debts do not include an obligation to the extent such obligation is secured by a valid lien on property of the debtor not included as an asset.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4961.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4961.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1311,7 +1311,7 @@ Section effective 180 days after Nov. 29, 1990, and applicable with respect to c
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3303. Value for transfer or obligation
+### § 3303. Value for transfer or obligation
 
 **(a) Transaction.—** Value is given for a transfer or an obligation if, in exchange for the transfer or obligation, property is transferred or an antecedent debt is secured or satisfied, but value does not include an unperformed promise made otherwise than in the ordinary course of the promisor’s business to furnish support to the debtor or another person.
 
@@ -1319,7 +1319,7 @@ Section effective 180 days after Nov. 29, 1990, and applicable with respect to c
 
 **(c) Present Value.—** A transfer is made for present value if the exchange between the debtor and the transferee is intended by them to be contemporaneous and is in fact substantially contemporaneous.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4961.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4961.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1327,7 +1327,7 @@ Section effective 180 days after Nov. 29, 1990, and applicable with respect to c
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3304. Transfer fraudulent as to a debt to the United States
+### § 3304. Transfer fraudulent as to a debt to the United States
 
 **(a) Debt Arising Before Transfer.—** Except as provided in section 3307, a transfer made or obligation incurred by a debtor is fraudulent as to a debt to the United States which arises before the transfer is made or the obligation is incurred if—
 
@@ -1379,7 +1379,7 @@ Section effective 180 days after Nov. 29, 1990, and applicable with respect to c
 
 **(K)** the debtor transferred the essential assets of the business to a lienor who transferred the assets to an insider of the debtor.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4961.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4961.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1387,7 +1387,7 @@ Section effective 180 days after Nov. 29, 1990, and applicable with respect to c
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3305. When transfer is made or obligation is incurred
+### § 3305. When transfer is made or obligation is incurred
 
 For the purposes of this subchapter:
 
@@ -1409,7 +1409,7 @@ For the purposes of this subchapter:
 
 **(B)** if evidenced by a writing executed by the obligor, when such writing is delivered to or for the benefit of the obligee.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4962.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4962.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1417,7 +1417,7 @@ For the purposes of this subchapter:
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3306. Remedies of the United States
+### § 3306. Remedies of the United States
 
 **(a) In General.—** In an action or proceeding under this subchapter for relief against a transfer or obligation, the United States, subject to section 3307 and to applicable principles of equity and in accordance with the Federal Rules of Civil Procedure, may obtain—
 
@@ -1435,7 +1435,7 @@ Section effective 180 days after Nov. 29, 1990, and applicable with respect to c
 
 **(3)** under section 3304(a)(2) within 2 years after the transfer was made or the obligation was incurred.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4963.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4963.)
 
 **Editorial Notes**
 
@@ -1449,7 +1449,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3307. Defenses, liability, and protection of trans­feree
+### § 3307. Defenses, liability, and protection of trans­feree
 
 **(a) Good Faith Transfer.—** A transfer or obligation is not voidable under section 3304(b) with respect to a person who took in good faith and for a reasonably equivalent value or against any transferee or obligee subsequent to such person.
 
@@ -1483,7 +1483,7 @@ Section effective 180 days after Nov. 29, 1990, and applicable with respect to c
 
 **(3)** if made pursuant to a good-faith effort to rehabilitate the debtor and the transfer secured both present value given for that purpose and an antecedent debt of the debtor.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4963.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4963.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1491,11 +1491,11 @@ Section effective 180 days after Nov. 29, 1990, and applicable with respect to c
 
 Section effective 180 days after Nov. 29, 1990, and applicable with respect to certain actions for debts owed the United States pending in court on that effective date, see section 3631 of Pub. L. 101–647, set out as a note under section 3001 of this title.
 
-### § 3308. Supplementary provision
+### § 3308. Supplementary provision
 
 Except as provided in this subchapter, the principles of law and equity, including the law merchant and the law relating to principal and agent, estoppel, laches, fraud, misrepresentation, duress, coercion, mistake, insolvency, or other validating or invalidating cause shall apply to actions and proceedings under this subchapter.
 
-(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4964.)
+(Added Pub. L. 101–647, title XXXVI, § 3611, Nov. 29, 1990, 104 Stat. 4964.)
 
 **Statutory Notes and Related Subsidiaries**
 

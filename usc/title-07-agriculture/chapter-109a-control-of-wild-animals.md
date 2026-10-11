@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 109A—CONTROL OF WILD ANIMALS
 
-## § 8351. Predatory and other wild animals
+## § 8351. Predatory and other wild animals
 
 **(a) In general**
 
@@ -31,15 +31,15 @@ The Secretary shall administer the program in a manner consistent with all of th
 
 **(2)** a migratory bird included on the list under section 10.13 of title 50, Code of Federal Regulations (or successor regulations) that is posing a conflict.
 
-(Mar. 2, 1931, ch. 370, § 1, 46 Stat. 1468; Pub. L. 102–237, title X, § 1013(d), Dec. 13, 1991, 105 Stat. 1901; Pub. L. 106–387, § 1(a) [title VII, § 767], Oct. 28, 2000, 114 Stat. 1549, 1549A–44; Pub. L. 115–270, title IV, § 4307, Oct. 23, 2018, 132 Stat. 3886.)
+(Mar. 2, 1931, ch. 370, § 1, 46 Stat. 1468; Pub. L. 102–237, title X, § 1013(d), Dec. 13, 1991, 105 Stat. 1901; Pub. L. 106–387, § 1(a) [title VII, § 767], Oct. 28, 2000, 114 Stat. 1549, 1549A–44; Pub. L. 115–270, title IV, § 4307, Oct. 23, 2018, 132 Stat. 3886.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Act of June 8, 1940 (commonly known as the Bald Eagle Protection Act), referred to in subsec. (c)(1), is act June 8, 1940, ch. 278, 54 Stat. 250, which is classified generally to subchapter II of chapter 5A (§ 668 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
+The Act of June 8, 1940 (commonly known as the Bald Eagle Protection Act), referred to in subsec. (c)(1), is act June 8, 1940, ch. 278, 54 Stat. 250, which is classified generally to subchapter II of chapter 5A (§ 668 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (c)(1), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (c)(1), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
 **Codification**
 
@@ -57,13 +57,13 @@ Section was formerly classified to section 426 of this title prior to editorial 
 
 **Transfer of Functions**
 
-Functions of Secretary of Agriculture administered through Bureau of Biological Survey, relating to conservation of wildlife, game, and migratory birds, transferred to Secretary of the Interior by 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, set out in the Appendix to Title 5, Government Organization and Employees. See also sections 401 to 404 of said plan for provisions relating to transfer of functions, records, property, personnel, and funds.
+Functions of Secretary of Agriculture administered through Bureau of Biological Survey, relating to conservation of wildlife, game, and migratory birds, transferred to Secretary of the Interior by 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, set out in the Appendix to Title 5, Government Organization and Employees. See also sections 401 to 404 of said plan for provisions relating to transfer of functions, records, property, personnel, and funds.
 
-Pub. L. 99–190, § 101(a) [H.R. 3037, title I, § 101], Dec. 19, 1985, 99 Stat. 1185; Pub. L. 100–202, § 106, Dec. 22, 1987, 101 Stat. 1329–433, provided in part: “That effective upon the date of enactment of this Act [Dec. 19, 1985] and notwithstanding any other provision of law, the authorities of the Secretary of Agriculture under the Act of March 2, 1931 (46 Stat. 1468; 7 U.S.C. 426–426b) [now 7 U.S.C. 8351, 8352], (transferred to the Secretary of the Interior pursuant to section 4(f) of 1939 Reorganization Plan No. II) and all personnel, property, records, unexpended balances of appropriations, allocations and other funds of the Fish and Wildlife Service, United States Department of the Interior used, held, available or to be made available in connection with the administration of such Act, are hereby transferred from the Secretary of the Interior to the Secretary of Agriculture, and this appropriation shall be available to carry out such authorities.”
+Pub. L. 99–190, § 101(a) [H.R. 3037, title I, § 101], Dec. 19, 1985, 99 Stat. 1185; Pub. L. 100–202, § 106, Dec. 22, 1987, 101 Stat. 1329–433, provided in part: “That effective upon the date of enactment of this Act [Dec. 19, 1985] and notwithstanding any other provision of law, the authorities of the Secretary of Agriculture under the Act of March 2, 1931 (46 Stat. 1468; 7 U.S.C. 426–426b) [now 7 U.S.C. 8351, 8352], (transferred to the Secretary of the Interior pursuant to section 4(f) of 1939 Reorganization Plan No. II) and all personnel, property, records, unexpended balances of appropriations, allocations and other funds of the Fish and Wildlife Service, United States Department of the Interior used, held, available or to be made available in connection with the administration of such Act, are hereby transferred from the Secretary of the Interior to the Secretary of Agriculture, and this appropriation shall be available to carry out such authorities.”
 
 **Feral Swine Eradication and Control Pilot Program**
 
-Pub. L. 115–334, title II, § 2408, Dec. 20, 2018, 132 Stat. 4574, as amended by Pub. L. 118–22, div. B, title I, § 102(d)(1)(C), Nov. 17, 2023, 137 Stat. 116; Pub. L. 119–21, title I, § 10601(f), July 4, 2025, 139 Stat. 108, provided that:
+Pub. L. 115–334, title II, § 2408, Dec. 20, 2018, 132 Stat. 4574, as amended by Pub. L. 118–22, div. B, title I, § 102(d)(1)(C), Nov. 17, 2023, 137 Stat. 116; Pub. L. 119–21, title I, § 10601(f), July 4, 2025, 139 Stat. 108, provided that:
 
 > **“(a) In General.—** The Secretary [of Agriculture] shall establish a feral swine eradication and control pilot program to respond to the threat feral swine pose to agriculture, native ecosystems, and human and animal health.
 
@@ -179,11 +179,11 @@ Pub. L. 111–11, title VI, subtitle C, Mar. 30, 2009, 123 Stat. 1170, provided 
 
 > “There is authorized to be appropriated to carry out this subtitle $1,000,000 for fiscal year 2009 and each fiscal year thereafter.”
 
-## § 8352. Authorization of expenditures for the eradication and control of predatory and other wild animals
+## § 8352. Authorization of expenditures for the eradication and control of predatory and other wild animals
 
 The Secretary of Agriculture is authorized to make such expenditures for equipment, supplies, and materials, including the employment of persons and means in the District of Columbia and elsewhere, and to employ such means as may be necessary to execute the functions imposed upon him by section 8351 of this title.
 
-(Mar. 2, 1931, ch. 370, § 3, 46 Stat. 1469.)
+(Mar. 2, 1931, ch. 370, § 3, 46 Stat. 1469.)
 
 **Editorial Notes**
 
@@ -195,13 +195,13 @@ Section was formerly classified to section 426b of this title prior to editorial
 
 **Transfer of Functions**
 
-Functions of Secretary of Agriculture administered through Bureau of Biological Survey, relating to conservation of wildlife, game, and migratory birds, transferred to Secretary of the Interior by 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, set out in the Appendix to Title 5, Government Organization and Employees. See also sections 401 to 404 of said plan for provisions relating to transfer of functions, records, property, personnel, and funds.
+Functions of Secretary of Agriculture administered through Bureau of Biological Survey, relating to conservation of wildlife, game, and migratory birds, transferred to Secretary of the Interior by 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, set out in the Appendix to Title 5, Government Organization and Employees. See also sections 401 to 404 of said plan for provisions relating to transfer of functions, records, property, personnel, and funds.
 
-## § 8353. Control of nuisance mammals and birds and those constituting reservoirs of zoonotic diseases; exception
+## § 8353. Control of nuisance mammals and birds and those constituting reservoirs of zoonotic diseases; exception
 
 On and after December 22, 1987, the Secretary of Agriculture is authorized, except for urban rodent control, to conduct activities and to enter into agreements with States, local jurisdictions, individuals, and public and private agencies, organizations, and institutions in the control of nuisance mammals and birds and those mammal and bird species that are reservoirs for zoonotic diseases, and to deposit any money collected under any such agreement into the appropriation accounts that incur the costs to be available immediately and to remain available until expended for Animal Damage Control activities.
 
-(Pub. L. 100–202, § 101(k) [title I], Dec. 22, 1987, 101 Stat. 1329–322, 1329–331.)
+(Pub. L. 100–202, § 101(k) [title I], Dec. 22, 1987, 101 Stat. 1329–322, 1329–331.)
 
 **Editorial Notes**
 
@@ -209,15 +209,15 @@ On and after December 22, 1987, the Secretary of Agriculture is authorized, exce
 
 Section was formerly classified to section 426c of this title prior to editorial reclassification and renumbering as this section.
 
-## § 8354. Expenditures for cooperative agreements to lease aircraft
+## § 8354. Expenditures for cooperative agreements to lease aircraft
 
-On and after November 10, 2005, notwithstanding any other provision of law, the Secretary of Agriculture may use appropriations available to the Secretary for activities authorized under sections 8351 to 8353 1
+On and after November 10, 2005, notwithstanding any other provision of law, the Secretary of Agriculture may use appropriations available to the Secretary for activities authorized under sections 8351 to 8353 1
 
-<sup>1</sup>  See Reference in Text note below.
+<sup>1</sup> See Reference in Text note below.
 
 of this title, under this or any other Act, to enter into cooperative agreements, with a State, political subdivision, or agency thereof, a public or private agency, organization, or any other person, to lease aircraft if the Secretary determines that the objectives of the agreement will: (1) serve a mutual interest of the parties to the agreement in carrying out the programs administered by the Animal and Plant Health Inspection Service, Wildlife Services; and (2) all parties will contribute resources to the accomplishment of these objectives; award of a cooperative agreement authorized by the Secretary may be made for an initial term not to exceed 5 years.
 
-(Pub. L. 109–97, title VII, § 749, Nov. 10, 2005, 119 Stat. 2156.)
+(Pub. L. 109–97, title VII, § 749, Nov. 10, 2005, 119 Stat. 2156.)
 
 **Editorial Notes**
 
@@ -233,11 +233,11 @@ Section was formerly classified to section 426d of this title prior to editorial
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-Pub. L. 108–447, div. A, title VII, § 758, Dec. 8, 2004, 118 Stat. 2846.
+Pub. L. 108–447, div. A, title VII, § 758, Dec. 8, 2004, 118 Stat. 2846.
 
-Pub. L. 108–199, div. A, title VII, § 776, Jan. 23, 2004, 118 Stat. 41.
+Pub. L. 108–199, div. A, title VII, § 776, Jan. 23, 2004, 118 Stat. 41.
 
-## § 8355. Losses of livestock due to depredation by federally protected species
+## § 8355. Losses of livestock due to depredation by federally protected species
 
 **(a) Definitions** In this section:
 
@@ -359,7 +359,7 @@ The Secretaries shall allocate available funding to carry out this Act among Sta
 
 **(2)** $10,000,000 shall be used to provide grants for the purpose described in subsection (b)(1)(B).
 
-(Pub. L. 116–188, title I, § 102, Oct. 30, 2020, 134 Stat. 908; Pub. L. 118–198, title I, § 101, Dec. 23, 2024, 138 Stat. 2678.)
+(Pub. L. 116–188, title I, § 102, Oct. 30, 2020, 134 Stat. 908; Pub. L. 118–198, title I, § 101, Dec. 23, 2024, 138 Stat. 2678.)
 
 **Editorial Notes**
 
@@ -367,9 +367,9 @@ The Secretaries shall allocate available funding to carry out this Act among Sta
 
 The Act of June 8, 1940 (commonly known as the “Bald and Golden Eagle Protection Act”), referred to in subsec. (a)(2)(A), is act June 8, 1940, ch. 278, 54 Stat. 250, which is classified generally to subchapter II of chapter 5A (§668 et seq.) of Title 16, Conservation. The Act is also commonly known as the Bald Eagle Protection Act. For complete classification of this Act to the Code, see Tables.
 
-The Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), referred to in subsec. (a)(2)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+The Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.), referred to in subsec. (a)(2)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
-The Migratory Bird Treaty Act (16 U.S.C. 703 et seq.), referred to in subsec. (a)(2)(C), is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of Title 16, Conservation. For complete classification of this Act to the Code, see section 710 of Title 16 and Tables.
+The Migratory Bird Treaty Act (16 U.S.C. 703 et seq.), referred to in subsec. (a)(2)(C), is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of Title 16, Conservation. For complete classification of this Act to the Code, see section 710 of Title 16 and Tables.
 
 This Act, referred to in subsec. (b)(2)(B), is Pub. L. 116–188, Oct. 30, 2020, 134 Stat. 905, known as the America’s Conservation Enhancement Act. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of Title 16, Conservation, and Tables.
 
@@ -377,7 +377,7 @@ This Act, referred to in subsec. (b)(2)(B), is Pub. L. 116–188, Oct. 30, 2020,
 
 2024—Subsec. (d). Pub. L. 118–198 substituted “2030” for “2025” in introductory provisions.
 
-## § 8356. Depredation permits for black vultures and common ravens; black vulture livestock protection program
+## § 8356. Depredation permits for black vultures and common ravens; black vulture livestock protection program
 
 **(a) Depredation permits for black vultures and common ravens**
 
@@ -421,16 +421,16 @@ The Secretary, in consultation with the Secretary of Agriculture, acting through
 
 Not later than 1 year after December 23, 2024, the Secretary, in consultation with the Secretary of Agriculture, acting through the Administrator of the Animal and Plant Health Inspection Service, shall submit to the Chair and Ranking Member of the Committee on Environment and Public Works of the Senate and the Chair and Ranking Member of the Committee on Natural Resources of the House of Representatives a report on the status of the program, including the results of the study required under paragraph (3).
 
-(Pub. L. 116–188, title I, § 103, Oct. 30, 2020, 134 Stat. 911; Pub. L. 118–198, title I, § 102, Dec. 23, 2024, 138 Stat. 2678.)
+(Pub. L. 116–188, title I, § 103, Oct. 30, 2020, 134 Stat. 911; Pub. L. 118–198, title I, § 102, Dec. 23, 2024, 138 Stat. 2678.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Pub. L. 118–198, § 102(2), (4), (5), designated existing provisions as subsec. (a) and inserted heading, redesignated former subsecs. (a) to (c) as pars. (1) to (3), respectively, of subsec. (a) and realigned margins, and added subsec. (b).
+2024—Pub. L. 118–198, § 102(2), (4), (5), designated existing provisions as subsec. (a) and inserted heading, redesignated former subsecs. (a) to (c) as pars. (1) to (3), respectively, of subsec. (a) and realigned margins, and added subsec. (b).
 
-Pub. L. 118–198, § 102(1), inserted “; black vulture livestock protection program” after “common ravens” in section catchline.
+Pub. L. 118–198, § 102(1), inserted “; black vulture livestock protection program” after “common ravens” in section catchline.
 
-Subsec. (a)(2), (3). Pub. L. 118–198, § 102(3), substituted “paragraph (1)” for “subsection (a)”.
+Subsec. (a)(2), (3). Pub. L. 118–198, § 102(3), substituted “paragraph (1)” for “subsection (a)”.
 
-Subsecs. (b), (c). Pub. L. 118–198, § 102(2), (5), added subsec. (b) and redesignated former subsecs. (b) and (c) as pars. (2) and (3), respectively, of subsec. (a).
+Subsecs. (b), (c). Pub. L. 118–198, § 102(2), (5), added subsec. (b) and redesignated former subsecs. (b) and (c) as pars. (2) and (3), respectively, of subsec. (a).

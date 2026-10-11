@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—SHORE PROTECTION
 
-### § 2601. Definitions
+### § 2601. Definitions
 
 In this chapter—
 
@@ -53,7 +53,7 @@ In this chapter—
 
 **(7)** “waste source” means a facility or vessel from which municipal or commercial waste is loaded onto a vessel, including any rolling stock or motor vehicles from which that waste is directly loaded.
 
-(Pub. L. 100–688, title IV, § 4101, Nov. 18, 1988, 102 Stat. 4154.)
+(Pub. L. 100–688, title IV, § 4101, Nov. 18, 1988, 102 Stat. 4154.)
 
 **Editorial Notes**
 
@@ -61,9 +61,9 @@ In this chapter—
 
 Presidential Proclamation Number 5030, referred to in par. (2)(D), is set out under section 1453 of Title 16, Conservation.
 
-The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in par. (3)(D) and (E), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052. Title I of that Act is classified generally to subchapter I (§ 1411 et seq.) of chapter 27 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
+The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in par. (3)(D) and (E), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052. Title I of that Act is classified generally to subchapter I (§ 1411 et seq.) of chapter 27 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
 
-The Federal Water Pollution Control Act, referred to in par. (3)(E), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, referred to in par. (3)(E), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
 The Rivers and Harbors Appropriation Act of 1899, referred to in par. (3)(E), is act Mar. 3, 1899, ch. 425, 30 Stat. 1151, which enacted sections 401, 403, 404, 406 to 409, 411 to 416, 418, 502, 549, 686, and 687 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -71,7 +71,7 @@ The Rivers and Harbors Appropriation Act of 1899, referred to in par. (3)(E), is
 
 **Short Title**
 
-Pub. L. 100–688, title IV, § 4001, Nov. 18, 1988, 102 Stat. 4154, provided that: “This title [enacting this chapter] may be cited as the ‘Shore Protection Act of 1988’.”
+Pub. L. 100–688, title IV, § 4001, Nov. 18, 1988, 102 Stat. 4154, provided that: “This title [enacting this chapter] may be cited as the ‘Shore Protection Act of 1988’.”
 
 **Executive Documents**
 
@@ -79,7 +79,7 @@ Pub. L. 100–688, title IV, § 4001, Nov. 18, 1988, 102 Stat. 4154, provided 
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
-### § 2602. Vessel permits and numbers
+### § 2602. Vessel permits and numbers
 
 **(a) In general** A vessel (except a public vessel as defined in section 2101 of title 46) may not transport municipal or commercial waste in coastal waters without—
 
@@ -153,31 +153,31 @@ If a vessel is a documented vessel, the Secretary may endorse a permit on the ve
 
 The Secretary may include information in a permit in the vessel information system maintained under chapter 125 of title 46.
 
-(Pub. L. 100–688, title IV, § 4102, Nov. 18, 1988, 102 Stat. 4155.)
+(Pub. L. 100–688, title IV, § 4102, Nov. 18, 1988, 102 Stat. 4155.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Solid Waste Disposal Act, referred to in subsec. (d)(2), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (d)(2), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
-The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (d)(3), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, which is classified generally to chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of this title and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
+The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (d)(3), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, which is classified generally to chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of this title and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
 
 The Rivers and Harbors Appropriation Act of 1899, referred to in subsec. (d)(4), is act Mar. 3, 1899, ch. 425, 30 Stat. 1151, which enacted sections 401, 403, 404, 406 to 409, 411 to 416, 418, 502, 549, 686, and 687 of this title. For complete classification of this Act to the Code, see Tables.
 
-The Federal Water Pollution Control Act, referred to in subsec. (d)(5), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (d)(5), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 100–688, title IV, § 4204(b), Nov. 18, 1988, 102 Stat. 4160, provided that: “Section 4102(a) of this Act [33 U.S.C. 2602(a)] is effective 240 days after the date of enactment of this Act [Nov. 18, 1988].”
+Pub. L. 100–688, title IV, § 4204(b), Nov. 18, 1988, 102 Stat. 4160, provided that: “Section 4102(a) of this Act [33 U.S.C. 2602(a)] is effective 240 days after the date of enactment of this Act [Nov. 18, 1988].”
 
 **Availability of Applications**
 
-Pub. L. 100–688, title IV, § 4204(a), Nov. 18, 1988, 102 Stat. 4160, provided that: “The Secretary shall make vessel applications for permits to be issued under section 4102 of this Act [33 U.S.C. 2602] publicly available within 60 days after the date of enactment of this Act [Nov. 18, 1988].”
+Pub. L. 100–688, title IV, § 4204(a), Nov. 18, 1988, 102 Stat. 4160, provided that: “The Secretary shall make vessel applications for permits to be issued under section 4102 of this Act [33 U.S.C. 2602] publicly available within 60 days after the date of enactment of this Act [Nov. 18, 1988].”
 
-### § 2603. Waste handling practices
+### § 2603. Waste handling practices
 
 **(a) In general**
 
@@ -205,15 +205,15 @@ The owner or operator of any waste source or receiving facility shall provide ad
 
 **(3)** if the Administrator determines that tracking systems are required to assure adequate enforcement of laws preventing the deposit of municipal or commercial waste into coastal waters, requiring installation of the appropriate systems within 18 months after the Administrator makes that determination.
 
-(Pub. L. 100–688, title IV, § 4103, Nov. 18, 1988, 102 Stat. 4156.)
+(Pub. L. 100–688, title IV, § 4103, Nov. 18, 1988, 102 Stat. 4156.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 100–688, title IV, § 4204(c), Nov. 18, 1988, 102 Stat. 4160, provided that: “Section 4103 of this Act [33 U.S.C. 2603] takes effect 60 days after the date of enactment of this Act [Nov. 18, 1988].”
+Pub. L. 100–688, title IV, § 4204(c), Nov. 18, 1988, 102 Stat. 4160, provided that: “Section 4103 of this Act [33 U.S.C. 2603] takes effect 60 days after the date of enactment of this Act [Nov. 18, 1988].”
 
-### § 2604. Suspension, revocation, and injunctions
+### § 2604. Suspension, revocation, and injunctions
 
 **(a) Suspension and revocation**
 
@@ -223,15 +223,15 @@ After notice and opportunity for a hearing, the Secretary of Transportation may,
 
 The Secretary or the Administrator may bring a civil action to enjoin any operation in violation of this chapter or a regulation prescribed under this chapter in the district court of the United States for the district in which the violation occurred.
 
-(Pub. L. 100–688, title IV, § 4104, Nov. 18, 1988, 102 Stat. 4157.)
+(Pub. L. 100–688, title IV, § 4104, Nov. 18, 1988, 102 Stat. 4157.)
 
-### § 2605. Enforcement
+### § 2605. Enforcement
 
 **(a) General authority**
 
-The Secretary of Transportation shall enforce this chapter under section 89 1
+The Secretary of Transportation shall enforce this chapter under section 89 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 14. The Secretary may authorize other officers or employees of the United States Government to enforce this chapter under that section.
 
@@ -253,19 +253,19 @@ The Secretary of the Treasury may refuse the clearance required by section 60105
 
 The Administrator shall conduct an investigation of the owner or operator of a vessel or facility if the owner has 5 or more separate violations during a 6-month period.
 
-(Pub. L. 100–688, title IV, § 4105, Nov. 18, 1988, 102 Stat. 4157.)
+(Pub. L. 100–688, title IV, § 4105, Nov. 18, 1988, 102 Stat. 4157.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 89 of title 14, referred to in subsec. (a), was redesignated section 522 of title 14 by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and reference to section 89 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+Section 89 of title 14, referred to in subsec. (a), was redesignated section 522 of title 14 by Pub. L. 115–282, title I, § 105(b), Dec. 4, 2018, 132 Stat. 4200, and reference to section 89 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 **Codification**
 
-In subsec. (c), “section 60105 of title 46” substituted for “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
+In subsec. (c), “section 60105 of title 46” substituted for “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
 
-### § 2606. Subpena authority
+### § 2606. Subpena authority
 
 **(a) General authority**
 
@@ -283,7 +283,7 @@ When a person fails to obey a subpena issued under this section, the district co
 
 A witness complying with a subpena issued under this section may be paid for actual travel and attendance at the rate provided for witnesses in the district courts of the United States.
 
-(Pub. L. 100–688, title IV, § 4106, Nov. 18, 1988, 102 Stat. 4157.)
+(Pub. L. 100–688, title IV, § 4106, Nov. 18, 1988, 102 Stat. 4157.)
 
 **Editorial Notes**
 
@@ -291,13 +291,13 @@ A witness complying with a subpena issued under this section may be paid for act
 
 This chapter, referred to in subsec. (b), was in the original “this part” and was translated as reading “this title” to reflect the probable intent of Congress.
 
-### § 2607. Fees
+### § 2607. Fees
 
 The Secretary of Transportation may collect a fee under section 9701 of title 31 of not more than $1,000, from each person to whom a permit is issued under this subchapter for a permitting system and to maintain information.
 
-(Pub. L. 100–688, title IV, § 4107, Nov. 18, 1988, 102 Stat. 4158.)
+(Pub. L. 100–688, title IV, § 4107, Nov. 18, 1988, 102 Stat. 4158.)
 
-### § 2608. Civil penalty procedures
+### § 2608. Civil penalty procedures
 
 **(a) General procedures**
 
@@ -317,9 +317,9 @@ If a person fails to pay an assessment of a civil penalty after it has become fi
 
 **(2)** the Secretary finds that the penalty was unlawfully, improperly, or excessively imposed.
 
-(Pub. L. 100–688, title IV, § 4108, Nov. 18, 1988, 102 Stat. 4158.)
+(Pub. L. 100–688, title IV, § 4108, Nov. 18, 1988, 102 Stat. 4158.)
 
-### § 2609. Penalties
+### § 2609. Penalties
 
 **(a) General penalty**
 
@@ -337,11 +337,11 @@ Any person that knowingly violates, or that knowingly aids, abets, authorizes, o
 
 The court, the Secretary of Transportation, or the Administrator, as the case may be, may pay up to one-half of a fine or penalty to any person giving information leading to the assessment of the fine or penalty.
 
-(Pub. L. 100–688, title IV, § 4109, Nov. 18, 1988, 102 Stat. 4158.)
+(Pub. L. 100–688, title IV, § 4109, Nov. 18, 1988, 102 Stat. 4158.)
 
 ## SUBCHAPTER II—RELATED PROVISIONS
 
-### § 2621. Study and recommendations
+### § 2621. Study and recommendations
 
 **(a) Study**
 
@@ -351,9 +351,9 @@ The Administrator, in consultation with the Secretary of Transportation, shall c
 
 The Secretary shall provide recommendations to the Administrator concerning the various tracking systems that might be applicable to vessels transporting municipal or commercial waste which the Secretary currently is studying. The Secretary shall consider the relative effectiveness of various systems and the relative costs of the systems both to the United States Government and to the vessel owner.
 
-(Pub. L. 100–688, title IV, § 4201, Nov. 18, 1988, 102 Stat. 4159.)
+(Pub. L. 100–688, title IV, § 4201, Nov. 18, 1988, 102 Stat. 4159.)
 
-### § 2622. Relation to other laws
+### § 2622. Relation to other laws
 
 **(a) Effect on Federal and State laws**
 
@@ -363,18 +363,18 @@ This chapter does not affect the application of any other Federal or State law, 
 
 This chapter shall be carried out with respect to foreign vessels consistent with the obligations of the United States under international law.
 
-(Pub. L. 100–688, title IV, § 4202, Nov. 18, 1988, 102 Stat. 4159.)
+(Pub. L. 100–688, title IV, § 4202, Nov. 18, 1988, 102 Stat. 4159.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (a), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, which is classified generally to chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of this title and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
+The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (a), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, which is classified generally to chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of this title and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
 
-The Solid Waste Disposal Act, referred to in subsec. (a), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (a), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
-### § 2623. Authorization of appropriations
+### § 2623. Authorization of appropriations
 
 There are authorized to be appropriated $1,500,000 for each of the fiscal years 1989 and 1990, to carry out this chapter.
 
-(Pub. L. 100–688, title IV, § 4203, Nov. 18, 1988, 102 Stat. 4160.)
+(Pub. L. 100–688, title IV, § 4203, Nov. 18, 1988, 102 Stat. 4160.)

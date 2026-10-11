@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 14—AGENCY CHIEF HUMAN CAPITAL OFFICERS
 
-## § 1401. Establishment of agency Chief Human Capital Officers
+## § 1401. Establishment of agency Chief Human Capital Officers
 
 The head of each agency referred to under paragraphs (1) and (2) of section 901(b) of title 31 shall appoint or designate a Chief Human Capital Officer, who shall—
 
@@ -25,7 +25,7 @@ The head of each agency referred to under paragraphs (1) and (2) of section 901(
 
 **(3)** carry out such functions as the primary duty of the Chief Human Capital Officer.
 
-(Added Pub. L. 107–296, title XIII, § 1302(a), Nov. 25, 2002, 116 Stat. 2287.)
+(Added Pub. L. 107–296, title XIII, § 1302(a), Nov. 25, 2002, 116 Stat. 2287.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -35,7 +35,7 @@ Chapter effective 180 days after Nov. 25, 2002, see section 1305 of Pub. L. 107�
 
 **Chief Human Capital Officers Council**
 
-Pub. L. 107–296, title XIII, § 1303, Nov. 25, 2002, 116 Stat. 2288, as amended by Pub. L. 117–81, div. F, title LXVI, § 6604, Dec. 27, 2021, 135 Stat. 2441, provided that:
+Pub. L. 107–296, title XIII, § 1303, Nov. 25, 2002, 116 Stat. 2288, as amended by Pub. L. 117–81, div. F, title LXVI, § 6604, Dec. 27, 2021, 135 Stat. 2441, provided that:
 
 > **“(a) Establishment.—** There is established a Chief Human Capital Officers Council, consisting of—
 
@@ -59,7 +59,7 @@ Pub. L. 107–296, title XIII, § 1303, Nov. 25, 2002, 116 Stat. 2288, as amen
 
 > **“(2) Public availability.—** Not later than 30 days after the date on which the Council submits a report under paragraph (1), the Director of the Office of Personnel Management shall make the report publicly available on the website of the Office of Personnel Management.”
 
-## § 1402. Authority and functions of agency Chief Human Capital Officers
+## § 1402. Authority and functions of agency Chief Human Capital Officers
 
 **(a)** The functions of each Chief Human Capital Officer shall include—
 
@@ -73,7 +73,7 @@ Pub. L. 107–296, title XIII, § 1303, Nov. 25, 2002, 116 Stat. 2288, as amen
 
 **(5)** identifying best practices and benchmarking studies,1
 
-<sup>1</sup>  So in original. The comma probably should be a semicolon.
+<sup>1</sup> So in original. The comma probably should be a semicolon.
 
 and
 
@@ -89,4 +89,4 @@ and
 
 **(2)** may request such information or assistance as may be necessary for carrying out the duties and responsibilities provided by this chapter from any Federal, State, or local governmental entity.
 
-(Added Pub. L. 107–296, title XIII, § 1302(a), Nov. 25, 2002, 116 Stat. 2288.)
+(Added Pub. L. 107–296, title XIII, § 1302(a), Nov. 25, 2002, 116 Stat. 2288.)

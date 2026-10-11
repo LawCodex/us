@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 141—GENERAL PROVISIONS
 
-## § 14101. Findings and purposes
+## § 14101. Findings and purposes
 
 **(a) 1965 Findings and Purpose.—**
 
@@ -69,15 +69,15 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 14101(a) | 40 App.:2(a). | Pub. L. 89–4, § 2(a), Mar. 9, 1965, 79 Stat. 5; Pub. L. 94–188, title I, § 102, Dec. 31, 1975, 89 Stat. 1079. |
-| 14101(b) | 40 App.:2(b). | Pub. L. 89–4, § 2(b), as added Pub. L. 94–188, title I, § 102, Dec. 31, 1975, 89 Stat. 1079; Pub. L. 107–149, § 2(b)(1), Mar. 12, 2002, 116 Stat. 66. |
-| 14101(c) | 40 App.:2(c). | Pub. L. 89–4, § 2(c), as added Pub. L. 105–393, title II, § 202, Nov. 13, 1998, 112 Stat. 3618; Pub. L. 107–149, § 2(b)(2), Mar. 12, 2002, 116 Stat. 66. |
+| 14101(a) | 40 App.:2(a). | Pub. L. 89–4, § 2(a), Mar. 9, 1965, 79 Stat. 5; Pub. L. 94–188, title I, § 102, Dec. 31, 1975, 89 Stat. 1079. |
+| 14101(b) | 40 App.:2(b). | Pub. L. 89–4, § 2(b), as added Pub. L. 94–188, title I, § 102, Dec. 31, 1975, 89 Stat. 1079; Pub. L. 107–149, § 2(b)(1), Mar. 12, 2002, 116 Stat. 66. |
+| 14101(c) | 40 App.:2(c). | Pub. L. 89–4, § 2(c), as added Pub. L. 105–393, title II, § 202, Nov. 13, 1998, 112 Stat. 3618; Pub. L. 107–149, § 2(b)(2), Mar. 12, 2002, 116 Stat. 66. |
 
 In subsection (b)(1), the words “December 31, 1975” are substituted for “now” for clarity.
 
 In subsection (c)(1), the words “decade ending November 13, 1998” are substituted for “past decade” for clarity.
 
-## § 14102. Definitions
+## § 14102. Definitions
 
 **(a) Definitions.—** In this subtitle—
 
@@ -121,14 +121,14 @@ In subsection (c)(1), the words “decade ending November 13, 1998” are substi
 
 **(b) Change in Definition.—** The Commission may not propose or consider a recommendation for any change in the definition of the Appalachian region as set forth in this section without a prior resolution by the Committee on Environment and Public Works of the Senate or the Committee on Transportation and Infrastructure of the House of Representatives that directs a study of the change.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1254; Pub. L. 110–371, § 7, Oct. 8, 2008, 122 Stat. 4042; Pub. L. 117–58, div. A, title I, § 11506(a), Nov. 15, 2021, 135 Stat. 584.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1254; Pub. L. 110–371, § 7, Oct. 8, 2008, 122 Stat. 4042; Pub. L. 117–58, div. A, title I, § 11506(a), Nov. 15, 2021, 135 Stat. 584.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 14102(a)(1) | 40 App.:403 (less last 2 pars.). | Pub. L. 89–4, title IV, § 403, Mar. 9, 1965, 79 Stat. 21; Pub. L. 90–103, title I, § 123, Oct. 11, 1967, 81 Stat. 266; Pub. L. 91–123, title I, § 110, Nov. 25, 1969, 83 Stat. 215; Pub. L. 101–434, Oct. 17, 1990, 104 Stat. 985; Pub. L. 102–240, title I, § 1087, Dec. 18, 1991, 105 Stat. 2022; Pub. L. 103–437, § 14(e), Nov. 2, 1994, 108 Stat. 4591; Pub. L. 105–178, title I, § 1222(a), June 9, 1998, 112 Stat. 223; Pub. L. 107–149, §§ 11, 13(j), Mar. 12, 2002, 116 Stat. 70, 73. |
-| 14102(a)(2) | 40 App.:301. | Pub. L. 89–4, title III, § 301, Mar. 9, 1965, 79 Stat. 19. |
+| 14102(a)(1) | 40 App.:403 (less last 2 pars.). | Pub. L. 89–4, title IV, § 403, Mar. 9, 1965, 79 Stat. 21; Pub. L. 90–103, title I, § 123, Oct. 11, 1967, 81 Stat. 266; Pub. L. 91–123, title I, § 110, Nov. 25, 1969, 83 Stat. 215; Pub. L. 101–434, Oct. 17, 1990, 104 Stat. 985; Pub. L. 102–240, title I, § 1087, Dec. 18, 1991, 105 Stat. 2022; Pub. L. 103–437, § 14(e), Nov. 2, 1994, 108 Stat. 4591; Pub. L. 105–178, title I, § 1222(a), June 9, 1998, 112 Stat. 223; Pub. L. 107–149, §§ 11, 13(j), Mar. 12, 2002, 116 Stat. 70, 73. |
+| 14102(a)(2) | 40 App.:301. | Pub. L. 89–4, title III, § 301, Mar. 9, 1965, 79 Stat. 19. |
 | 14102(b) | 40 App.:403 (last 2 pars.). |  |
 
 In subsection (a)(2), the words “the appropriate state official” are substituted for “the State officer designated by the appropriate State law to make such certification” to eliminate unnecessary words. The words “No entity shall be certified as a local development district for the purposes of this Act unless it is one of the following” are omitted as unnecessary.
@@ -139,19 +139,19 @@ In subsection (b), the text of 40 App.:403 (last par.) is omitted as obsolete.
 
 **Amendments**
 
-2021—Subsec. (a)(1)(G). Pub. L. 117–58, § 11506(a)(1), inserted “Catawba,” after “Caldwell,” and “Cleveland,” after “Clay,”.
+2021—Subsec. (a)(1)(G). Pub. L. 117–58, § 11506(a)(1), inserted “Catawba,” after “Caldwell,” and “Cleveland,” after “Clay,”.
 
-Subsec. (a)(1)(J). Pub. L. 117–58, § 11506(a)(2), substituted “Spartanburg, and Union” for “and Spartanburg”.
+Subsec. (a)(1)(J). Pub. L. 117–58, § 11506(a)(2), substituted “Spartanburg, and Union” for “and Spartanburg”.
 
-Subsec. (a)(1)(M). Pub. L. 117–58, § 11506(a)(3), inserted “, of which the counties of Brooke, Hancock, Marshall, and Ohio shall be considered to be located in the North Central subregion” after “West Virginia”.
+Subsec. (a)(1)(M). Pub. L. 117–58, § 11506(a)(3), inserted “, of which the counties of Brooke, Hancock, Marshall, and Ohio shall be considered to be located in the North Central subregion” after “West Virginia”.
 
-2008—Subsec. (a)(1)(C). Pub. L. 110–371, § 7(a), inserted “Metcalfe,” after “Menifee,”, “Nicholas,” after “Morgan,”, and “Robertson,” after “Pulaski,”.
+2008—Subsec. (a)(1)(C). Pub. L. 110–371, § 7(a), inserted “Metcalfe,” after “Menifee,”, “Nicholas,” after “Morgan,”, and “Robertson,” after “Pulaski,”.
 
-Subsec. (a)(1)(H). Pub. L. 110–371, § 7(b), inserted “Ashtabula,” after “Adams,”, “Mahoning,” after “Lawrence,”, and “Trumbull,” after “Scioto,”.
+Subsec. (a)(1)(H). Pub. L. 110–371, § 7(b), inserted “Ashtabula,” after “Adams,”, “Mahoning,” after “Lawrence,”, and “Trumbull,” after “Scioto,”.
 
-Subsec. (a)(1)(K). Pub. L. 110–371, § 7(c), inserted “Lawrence, Lewis,” after “Knox,”.
+Subsec. (a)(1)(K). Pub. L. 110–371, § 7(c), inserted “Lawrence, Lewis,” after “Knox,”.
 
-Subsec. (a)(1)(L). Pub. L. 110–371, § 7(d), inserted “Henry,” after “Grayson,” and “Patrick,” after “Montgomery,”.
+Subsec. (a)(1)(L). Pub. L. 110–371, § 7(d), inserted “Henry,” after “Grayson,” and “Patrick,” after “Montgomery,”.
 
 **Statutory Notes and Related Subsidiaries**
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 46A—FOREIGN DIRECT INVESTMENT AND INTERNATIONAL FINANCIAL DATA
 
-## § 3141. Congressional findings
+## § 3141. Congressional findings
 
 The Congress makes the following findings:
 
@@ -31,7 +31,7 @@ The Congress makes the following findings:
 
 **(6)** The Government Accountability Office may have limited access to Government data on foreign direct investment.
 
-(Pub. L. 101–533, § 2, Nov. 7, 1990, 104 Stat. 2344; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 101–533, § 2, Nov. 7, 1990, 104 Stat. 2344; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -47,9 +47,9 @@ Executive Order Numbered 11961, referred to in par. (4), is set out as a note un
 
 **Short Title**
 
-Pub. L. 101–533, § 1, Nov. 7, 1990, 104 Stat. 2344, provided that: “This Act [enacting this chapter and section 401 of Title 13, Census, and amending sections 3101 and 3103 to 3105 of this title and section 9 of Title 13] may be cited as the ‘Foreign Direct Investment and International Financial Data Improvements Act of 1990’.”
+Pub. L. 101–533, § 1, Nov. 7, 1990, 104 Stat. 2344, provided that: “This Act [enacting this chapter and section 401 of Title 13, Census, and amending sections 3101 and 3103 to 3105 of this title and section 9 of Title 13] may be cited as the ‘Foreign Direct Investment and International Financial Data Improvements Act of 1990’.”
 
-## § 3142. Report by Secretary of Commerce
+## § 3142. Report by Secretary of Commerce
 
 **(a) Annual report on foreign direct investment in United States**
 
@@ -63,9 +63,9 @@ Not later than 6 months after November 7, 1990, and not later than the end of ea
 
 **(3)** the Bureau of Labor Statistics pertaining to information collected under the International Investment and Trade in Services Survey Act, but only to the extent that such information is in a form that cannot be associated with, or otherwise identify, directly or indirectly, a person, including any enterprise or establishment;
 
-**(4)** the Secretary of Commerce or the Secretary’s designee pursuant to section 2 1
+**(4)** the Secretary of Commerce or the Secretary’s designee pursuant to section 2 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of Executive Order 11858 of May 7, 1975;
 
@@ -85,19 +85,19 @@ of Executive Order 11858 of May 7, 1975;
 
 **(1)** The analysis in each report prepared under subsection (a) shall, to the extent of available data, compare business enterprises controlled by foreign persons with other business enterprises in the United States with respect to employment, market share, value added, productivity, research and development, exports, imports, profitability, taxes paid, and investment incentives and services provided by State and local governments (including quasi-governmental entities).
 
-**(2)** Each such analysis shall be done by significant industry sectors and geographical regions, except that information shall not be presented in a way in which any person, including any business enterprise or establishment, can be identified. The restriction contained in the preceding sentence on presentation of information does not apply to information that is obtained from foreign governments or agencies thereof and that has been published pursuant to the lawful disclosure of the information. To the extent that data are available, each such analysis shall include an analysis, together with current levels and trends, of the number and market share of business enterprises at least 10 percent of the voting securities or other evidences of ownership of which are owned or controlled by a foreign person, and of the number and market share of the establishments of such business enterprises, that are engaged substantially in the production or coproduction of any critical technologies identified in the most recent assessment prepared under section 4816 of title 10 or included in the most recent report submitted to the President under section 6683 <sup>1</sup> of title 42.
+**(2)** Each such analysis shall be done by significant industry sectors and geographical regions, except that information shall not be presented in a way in which any person, including any business enterprise or establishment, can be identified. The restriction contained in the preceding sentence on presentation of information does not apply to information that is obtained from foreign governments or agencies thereof and that has been published pursuant to the lawful disclosure of the information. To the extent that data are available, each such analysis shall include an analysis, together with current levels and trends, of the number and market share of business enterprises at least 10 percent of the voting securities or other evidences of ownership of which are owned or controlled by a foreign person, and of the number and market share of the establishments of such business enterprises, that are engaged substantially in the production or coproduction of any critical technologies identified in the most recent assessment prepared under section 4816 of title 10 or included in the most recent report submitted to the President under section 6683 <sup>1</sup> of title 42.
 
-(Pub. L. 101–533, § 3, Nov. 7, 1990, 104 Stat. 2344; Pub. L. 102–484, div. A, title X, § 1054(f), Oct. 23, 1992, 106 Stat. 2503; Pub. L. 103–160, div. A, title XI, § 1182(d)(2), Nov. 30, 1993, 107 Stat. 1773; Pub. L. 105–261, div. A, title X, § 1069(d)(2), Oct. 17, 1998, 112 Stat. 2136; Pub. L. 117–81, div. A, title XVII, § 1702(*l*)(4), Dec. 27, 2021, 135 Stat. 2160.)
+(Pub. L. 101–533, § 3, Nov. 7, 1990, 104 Stat. 2344; Pub. L. 102–484, div. A, title X, § 1054(f), Oct. 23, 1992, 106 Stat. 2503; Pub. L. 103–160, div. A, title XI, § 1182(d)(2), Nov. 30, 1993, 107 Stat. 1773; Pub. L. 105–261, div. A, title X, § 1069(d)(2), Oct. 17, 1998, 112 Stat. 2136; Pub. L. 117–81, div. A, title XVII, § 1702(*l*)(4), Dec. 27, 2021, 135 Stat. 2160.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Investment and Trade in Services Survey Act, referred to in subsec. (b)(1), (3), is Pub. L. 94–472, Oct. 11, 1976, 90 Stat. 2059, which is classified generally to chapter 46 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The International Investment and Trade in Services Survey Act, referred to in subsec. (b)(1), (3), is Pub. L. 94–472, Oct. 11, 1976, 90 Stat. 2059, which is classified generally to chapter 46 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-Executive Order 11858, referred to in subsec. (b)(4), is set out as a note under section 4565 of Title 50, War and National Defense. Ex. Ord. No. 11858 was amended generally by Ex. Ord. No. 13456, § 1, Jan. 23, 2008, 73 F.R. 4677, and, as so amended, section 2 no longer relates to the collection of information on foreign investment. However, similar provisions are now contained in section 9 of Ex. Ord. No. 11858.
+Executive Order 11858, referred to in subsec. (b)(4), is set out as a note under section 4565 of Title 50, War and National Defense. Ex. Ord. No. 11858 was amended generally by Ex. Ord. No. 13456, § 1, Jan. 23, 2008, 73 F.R. 4677, and, as so amended, section 2 no longer relates to the collection of information on foreign investment. However, similar provisions are now contained in section 9 of Ex. Ord. No. 11858.
 
-The Agricultural Foreign Investment Disclosure Act of 1978, referred to in subsec. (b)(5), is Pub. L. 95–460, Oct. 14, 1978, 92 Stat. 1263, which is classified generally to chapter 66 (§ 3501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 3501 of Title 7 and Tables.
+The Agricultural Foreign Investment Disclosure Act of 1978, referred to in subsec. (b)(5), is Pub. L. 95–460, Oct. 14, 1978, 92 Stat. 1263, which is classified generally to chapter 66 (§ 3501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 3501 of Title 7 and Tables.
 
 Section 6683 of title 42, referred to in subsec. (c)(2), was omitted from the Code.
 
@@ -117,7 +117,7 @@ Section 6683 of title 42, referred to in subsec. (c)(2), was omitted from the Co
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
-## § 3143. Reports by Government Accountability Office
+## § 3143. Reports by Government Accountability Office
 
 **(a) In general**
 
@@ -155,7 +155,7 @@ Before issuing any such report, the Comptroller General shall in each instance s
 
 The access by the Comptroller General to information under this Act shall be in conformity with section 716 of title 31.
 
-(Pub. L. 101–533, § 4, Nov. 7, 1990, 104 Stat. 2346; Pub. L. 104–316, title I, § 111(c), Oct. 19, 1996, 110 Stat. 3833; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 101–533, § 4, Nov. 7, 1990, 104 Stat. 2346; Pub. L. 104–316, title I, § 111(c), Oct. 19, 1996, 110 Stat. 3833; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -167,13 +167,13 @@ This Act and the amendments made by this Act, referred to in subsecs. (b)(4) and
 
 2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline.
 
-1996—Subsec. (a). Pub. L. 104–316, § 111(c)(1), substituted “reports referred to in” for “report required under”.
+1996—Subsec. (a). Pub. L. 104–316, § 111(c)(1), substituted “reports referred to in” for “report required under”.
 
-Subsec. (b). Pub. L. 104–316, § 111(c)(2)(A), (D), substituted “Reports” for “Report” in heading, in introductory provisions substituted “Consistent with the provisions of this section, the Comptroller General may submit” for “Not later than 5 months after each report issued by the Secretary of Commerce under section 3142 of this title, the Comptroller General of the United States shall submit”, and struck out closing provisions which read as follows: “Reports under this subsection shall be issued only with respect to the first 3 reports issued by the Secretary of Commerce under section 3142 of this title.”
+Subsec. (b). Pub. L. 104–316, § 111(c)(2)(A), (D), substituted “Reports” for “Report” in heading, in introductory provisions substituted “Consistent with the provisions of this section, the Comptroller General may submit” for “Not later than 5 months after each report issued by the Secretary of Commerce under section 3142 of this title, the Comptroller General of the United States shall submit”, and struck out closing provisions which read as follows: “Reports under this subsection shall be issued only with respect to the first 3 reports issued by the Secretary of Commerce under section 3142 of this title.”
 
-Pub. L. 104–316, § 111(c)(2)(B), which directed that subsec. (b) be amended by substituting “Congress reports” for “Congress, a report”, was executed in the introductory provisions by making the substitution for “Congress a report”, to reflect the probable intent of Congress.
+Pub. L. 104–316, § 111(c)(2)(B), which directed that subsec. (b) be amended by substituting “Congress reports” for “Congress, a report”, was executed in the introductory provisions by making the substitution for “Congress a report”, to reflect the probable intent of Congress.
 
-Subsec. (b)(1). Pub. L. 104–316, § 111(c)(2)(C), substituted “reports issued by the Secretary of Commerce under section 3142 of this title” for “the report of the Secretary of Commerce”.
+Subsec. (b)(1). Pub. L. 104–316, § 111(c)(2)(C), substituted “reports issued by the Secretary of Commerce under section 3142 of this title” for “the report of the Secretary of Commerce”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -181,7 +181,7 @@ Subsec. (b)(1). Pub. L. 104–316, § 111(c)(2)(C), substituted “reports iss
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
-## § 3144. Access to information; confidentiality
+## § 3144. Access to information; confidentiality
 
 **(a) Confidentiality**
 
@@ -189,9 +189,9 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 **(2)** Only those officers and employees who have sworn to observe the provisions of section 5(c) of the International Investment and Trade in Services Survey Act (22 U.S.C. 3104(c)) may have access under this Act to information to which such provisions apply, and such officers and employees are subject to the penalties for improper disclosure of such information provided in section 5(e) of that Act [22 U.S.C. 3104(e)] to the same extent as such section applies to officers or employees designated to perform functions under that Act [22 U.S.C. 3101 et seq.].
 
-**(3)** Those officers and employees referred to in paragraphs (1) and (2) of this section 1
+**(3)** Those officers and employees referred to in paragraphs (1) and (2) of this section 1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
 shall be subject to any other restriction or penalty imposed by law with respect to disclosure of information to which such officers or employees have access under this Act.
 
@@ -213,7 +213,7 @@ Information obtained under this Act shall be immune from legal process and shall
 
 **(2)** The Director of the Office of Management and Budget shall be responsible for the implementation of the exchange of information under this Act between the Bureau of Economic Analysis and the Bureau of Labor Statistics, and shall resolve any questions on access to information, data, or methodology that may arise between the Bureau of Economic Analysis and the Bureau of Labor Statistics, except that the Director shall not construe this section in a manner which would prevent the augmentation and improvement of the quality of international data collected under the International Investment and Trade in Services Survey Act [22 U.S.C. 3101 et seq.].
 
-(Pub. L. 101–533, § 8, Nov. 7, 1990, 104 Stat. 2350.)
+(Pub. L. 101–533, § 8, Nov. 7, 1990, 104 Stat. 2350.)
 
 **Editorial Notes**
 
@@ -221,9 +221,9 @@ Information obtained under this Act shall be immune from legal process and shall
 
 This Act or the amendments made by this Act, referred to in text, is Pub. L. 101–533, Nov. 7, 1990, 104 Stat. 2344, known as the Foreign Direct Investment and International Financial Data Improvements Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3141 of this title and Tables.
 
-The International Investment and Trade in Services Survey Act, referred to in subsecs. (a)(2) and (e), is Pub. L. 94–472, Oct. 11, 1976, 90 Stat. 2059, which is classified generally to chapter 46 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The International Investment and Trade in Services Survey Act, referred to in subsecs. (a)(2) and (e), is Pub. L. 94–472, Oct. 11, 1976, 90 Stat. 2059, which is classified generally to chapter 46 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-## § 3145. Construction of foreign direct investment and international financial data provisions
+## § 3145. Construction of foreign direct investment and international financial data provisions
 
 **(a) In general**
 
@@ -239,9 +239,9 @@ Nothing in this Act or the amendments made by this Act shall be construed to req
 
 consistent with the purposes of the provisions of law amended by this Act and the Paperwork Reduction Act of 1980.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Pub. L. 101–533, § 9, Nov. 7, 1990, 104 Stat. 2351.)
+(Pub. L. 101–533, § 9, Nov. 7, 1990, 104 Stat. 2351.)
 
 **Editorial Notes**
 
@@ -249,9 +249,9 @@ consistent with the purposes of the provisions of law amended by this Act and th
 
 This Act or the amendments made by this Act, referred to in text, is Pub. L. 101–533, Nov. 7, 1990, 104 Stat. 2344, known as the Foreign Direct Investment and International Financial Data Improvements Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3141 of this title and Tables.
 
-The Paperwork Reduction Act of 1980, referred to in subsec. (b), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, § 2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
+The Paperwork Reduction Act of 1980, referred to in subsec. (b), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, § 2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
 
-## § 3146. Definitions
+## § 3146. Definitions
 
 For purposes of this Act—
 
@@ -259,7 +259,7 @@ For purposes of this Act—
 
 **(2)** the term “foreign direct investment in the United States” means direct investment by foreign persons in any business enterprise that is a United States person.
 
-(Pub. L. 101–533, § 10, Nov. 7, 1990, 104 Stat. 2351.)
+(Pub. L. 101–533, § 10, Nov. 7, 1990, 104 Stat. 2351.)
 
 **Editorial Notes**
 

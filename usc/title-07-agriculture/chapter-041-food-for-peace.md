@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 41—FOOD FOR PEACE
 
-## § 1691. United States policy
+## § 1691. United States policy
 
 It is the policy of the United States to use its abundant agricultural productivity to promote the foreign policy of the United States by enhancing the food security of the developing world through the use of agricultural commodities and local currencies accruing under this chapter to—
 
@@ -29,7 +29,7 @@ It is the policy of the United States to use its abundant agricultural productiv
 
 **(5)** prevent conflicts.
 
-(July 10, 1954, ch. 469, § 2, 68 Stat. 454; Pub. L. 89–808, § 2(A), Nov. 11, 1966, 80 Stat. 1526; Pub. L. 94–161, title II, § 201, Dec. 20, 1975, 89 Stat. 850; Pub. L. 99–198, title XI, § 1111(a), Dec. 23, 1985, 99 Stat. 1474; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3633; Pub. L. 107–171, title III, § 3001, May 13, 2002, 116 Stat. 280; Pub. L. 110–246, title III, § 3002, June 18, 2008, 122 Stat. 1821.)
+(July 10, 1954, ch. 469, § 2, 68 Stat. 454; Pub. L. 89–808, § 2(A), Nov. 11, 1966, 80 Stat. 1526; Pub. L. 94–161, title II, § 201, Dec. 20, 1975, 89 Stat. 850; Pub. L. 99–198, title XI, § 1111(a), Dec. 23, 1985, 99 Stat. 1474; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3633; Pub. L. 107–171, title III, § 3001, May 13, 2002, 116 Stat. 280; Pub. L. 110–246, title III, § 3002, June 18, 2008, 122 Stat. 1821.)
 
 **Editorial Notes**
 
@@ -51,7 +51,7 @@ It is the policy of the United States to use its abundant agricultural productiv
 
 **Change of Name**
 
-Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821, provided that: “Any reference in any Federal, State, tribal, or local law (including regulations) to the ‘Agricultural Trade Development and Assistance Act of 1954’ shall be considered to be a reference to the ‘Food for Peace Act’ [see Short Title note below].”
+Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821, provided that: “Any reference in any Federal, State, tribal, or local law (including regulations) to the ‘Agricultural Trade Development and Assistance Act of 1954’ shall be considered to be a reference to the ‘Food for Peace Act’ [see Short Title note below].”
 
 **Effective Date of 2008 Amendment**
 
@@ -59,37 +59,37 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–624, title XV, § 1513, Nov. 28, 1990, 104 Stat. 3662, provided that: “The amendment made by section 1512 [enacting sections 1736g–1 and 1737 to 1738m of this title, amending this section and sections 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736, 1736a to 1736f, and 1736g of this title, and enacting provisions set out as a note under this section] shall become effective on January 1, 1991.”
+Pub. L. 101–624, title XV, § 1513, Nov. 28, 1990, 104 Stat. 3662, provided that: “The amendment made by section 1512 [enacting sections 1736g–1 and 1737 to 1738m of this title, amending this section and sections 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736, 1736a to 1736f, and 1736g of this title, and enacting provisions set out as a note under this section] shall become effective on January 1, 1991.”
 
 **Effective Date of 1966 Amendment**
 
-Pub. L. 89–808, § 5, Nov. 11, 1966, 80 Stat. 1538, provided that: “This Act [enacting sections 1707a, 1710, 1725, and 1736a to 1736d of this title, amending this section and sections 1431, 1431b, 1446a–1, 1701 to 1704, 1705, 1707, 1708, 1709, 1721 to 1724, and 1731 to 1736 of this title, repealing sections 1693 to 1697 of this title, and amending provisions set out as a note under section 1701 of this title] shall take effect as of January 1, 1967, except that section 4 [enacting section 1707a of this title] shall take effect upon enactment [Nov. 11, 1966].”
+Pub. L. 89–808, § 5, Nov. 11, 1966, 80 Stat. 1538, provided that: “This Act [enacting sections 1707a, 1710, 1725, and 1736a to 1736d of this title, amending this section and sections 1431, 1431b, 1446a–1, 1701 to 1704, 1705, 1707, 1708, 1709, 1721 to 1724, and 1731 to 1736 of this title, repealing sections 1693 to 1697 of this title, and amending provisions set out as a note under section 1701 of this title] shall take effect as of January 1, 1967, except that section 4 [enacting section 1707a of this title] shall take effect upon enactment [Nov. 11, 1966].”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–385, § 1(a), Nov. 13, 1998, 112 Stat. 3460, provided that: “This Act [amending sections 1736f–1 and 4001 of this title and section 1241f of Title 46, Appendix, Shipping, enacting provisions set out as notes under this section, section 1721 of this title, and section 2293 of Title 22, Foreign Relations and Intercourse, and amending provisions set out as a note under section 1736f–1 of this title] may be cited as the ‘Africa: Seeds of Hope Act of 1998’.”
+Pub. L. 105–385, § 1(a), Nov. 13, 1998, 112 Stat. 3460, provided that: “This Act [amending sections 1736f–1 and 4001 of this title and section 1241f of Title 46, Appendix, Shipping, enacting provisions set out as notes under this section, section 1721 of this title, and section 2293 of Title 22, Foreign Relations and Intercourse, and amending provisions set out as a note under section 1736f–1 of this title] may be cited as the ‘Africa: Seeds of Hope Act of 1998’.”
 
-Pub. L. 105–385, title II, § 211, Nov. 13, 1998, 112 Stat. 3465, provided that: “This subtitle [subtitle B (§§ 211, 212) of title II of Pub. L. 105–385, amending sections 1736f–1 and 4001 of this title and section 1241f of Title 46, Appendix, Shipping, and amending provisions set out as a note under section 1736f–1 of this title] may be cited as the ‘Bill Emerson Humanitarian Trust Act of 1998’.”
+Pub. L. 105–385, title II, § 211, Nov. 13, 1998, 112 Stat. 3465, provided that: “This subtitle [subtitle B (§§ 211, 212) of title II of Pub. L. 105–385, amending sections 1736f–1 and 4001 of this title and section 1241f of Title 46, Appendix, Shipping, and amending provisions set out as a note under section 1736f–1 of this title] may be cited as the ‘Bill Emerson Humanitarian Trust Act of 1998’.”
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–532, § 1, Oct. 27, 1992, 106 Stat. 3509, provided that: “This Act [enacting sections 1738*o* to 1738r, 3294, and 5404 of this title and amending section 1738m of this title] may be cited as the ‘Enterprise for the Americas Initiative Act of 1992’.”
+Pub. L. 102–532, § 1, Oct. 27, 1992, 106 Stat. 3509, provided that: “This Act [enacting sections 1738*o* to 1738r, 3294, and 5404 of this title and amending section 1738m of this title] may be cited as the ‘Enterprise for the Americas Initiative Act of 1992’.”
 
-Pub. L. 102–532, § 2, Oct. 27, 1992, 106 Stat. 3509, which enacted sections 1738*o* to 1738r of this title, is popularly known as the “Good Neighbor Environmental Act of 1992”.
+Pub. L. 102–532, § 2, Oct. 27, 1992, 106 Stat. 3509, which enacted sections 1738*o* to 1738r of this title, is popularly known as the “Good Neighbor Environmental Act of 1992”.
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–624, title XV, § 1501, Nov. 28, 1990, 104 Stat. 3632, provided that: “This title [see Tables for classification] may be cited as the ‘Agricultural Development and Trade Act of 1990’.”
+Pub. L. 101–624, title XV, § 1501, Nov. 28, 1990, 104 Stat. 3632, provided that: “This title [see Tables for classification] may be cited as the ‘Agricultural Development and Trade Act of 1990’.”
 
-Pub. L. 101–624, title XV, § 1511, Nov. 28, 1990, 104 Stat. 3633, provided that: “This subtitle [subtitle A (§§ 1511–1517) of title XV of Pub. L. 101–624, enacting sections 1706, 1736g–1 and 1737 to 1738m of this title and sections 1241g to 1241v of Appendix to Title 46, Shipping, amending this section and sections 1431, 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736g, 1736*o*, 1736bb–6 of this title, and section 1241f of Appendix to Title 46, and enacting provisions set out as notes under this section] may be cited as the ‘Mickey Leland Food for Peace Act’.”
+Pub. L. 101–624, title XV, § 1511, Nov. 28, 1990, 104 Stat. 3633, provided that: “This subtitle [subtitle A (§§ 1511–1517) of title XV of Pub. L. 101–624, enacting sections 1706, 1736g–1 and 1737 to 1738m of this title and sections 1241g to 1241v of Appendix to Title 46, Shipping, amending this section and sections 1431, 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736g, 1736*o*, 1736bb–6 of this title, and section 1241f of Appendix to Title 46, and enacting provisions set out as notes under this section] may be cited as the ‘Mickey Leland Food for Peace Act’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–576, § 1, Oct. 31, 1988, 102 Stat. 2897, provided that: “This Act [amending section 1727 of this title and enacting provisions set out as a note under section 1727 of this title] may be cited as the ‘Bangladesh Disaster Assistance Act of 1988’.”
+Pub. L. 100–576, § 1, Oct. 31, 1988, 102 Stat. 2897, provided that: “This Act [amending section 1727 of this title and enacting provisions set out as a note under section 1727 of this title] may be cited as the ‘Bangladesh Disaster Assistance Act of 1988’.”
 
 **Short Title of 1987 Amendment**
 
-Pub. L. 100–202, § 16, as added by Pub. L. 100–418, title IV, § 4610(a), Aug. 23, 1988, 102 Stat. 1411, provided that sections 1 to 16 under the heading “Agricultural Aid and Trade Missions Act” of Pub. L. 100–202, which enacted sections 1726b and 1736bb to 1736bb–6 of this title, and amended sections 1701, 1703, 1709, 1722, 1726, and 1726a of this title, was to be cited as the “Agricultural Aid and Trade Missions Act”, prior to repeal by Pub. L. 104–127, title II, § 271(a), Apr. 4, 1996, 110 Stat. 976.
+Pub. L. 100–202, § 16, as added by Pub. L. 100–418, title IV, § 4610(a), Aug. 23, 1988, 102 Stat. 1411, provided that sections 1 to 16 under the heading “Agricultural Aid and Trade Missions Act” of Pub. L. 100–202, which enacted sections 1726b and 1736bb to 1736bb–6 of this title, and amended sections 1701, 1703, 1709, 1722, 1726, and 1726a of this title, was to be cited as the “Agricultural Aid and Trade Missions Act”, prior to repeal by Pub. L. 104–127, title II, § 271(a), Apr. 4, 1996, 110 Stat. 976.
 
 **Short Title of 1980 Amendment**
 
@@ -97,15 +97,15 @@ For short title of title III of Pub. L. 96–494, which enacted section 1736f–
 
 **Short Title of 1966 Amendment**
 
-Pub. L. 89–808, § 1, Nov. 11, 1966, 80 Stat. 1526, provided: “That this Act [enacting sections 1707a, 1710, 1725, and 1736a to 1736d, amending this section and sections 1431, 1431b, 1446a–1, 1701 to 1704, 1705, 1707, 1708, 1709, 1721 to 1724, and 1731 to 1736, repealing sections 1693 to 1697 of this title, and amending provisions set out as a note under section 1701 of this title] may be cited as the ‘Food for Peace Act of 1966’.”
+Pub. L. 89–808, § 1, Nov. 11, 1966, 80 Stat. 1526, provided: “That this Act [enacting sections 1707a, 1710, 1725, and 1736a to 1736d, amending this section and sections 1431, 1431b, 1446a–1, 1701 to 1704, 1705, 1707, 1708, 1709, 1721 to 1724, and 1731 to 1736, repealing sections 1693 to 1697 of this title, and amending provisions set out as a note under section 1701 of this title] may be cited as the ‘Food for Peace Act of 1966’.”
 
 **Short Title**
 
-Act July 10, 1954, ch. 469, § 1, 68 Stat. 454, as amended by act Nov. 28, 1990, Pub. L. 101–624, title XV, § 1512, 104 Stat. 3633; Pub. L. 110–246, title III, § 3001(a), June 18, 2008, 122 Stat. 1820, provided that: “This Act [enacting this chapter] may be cited as the ‘Food for Peace Act’.”
+Act July 10, 1954, ch. 469, § 1, 68 Stat. 454, as amended by act Nov. 28, 1990, Pub. L. 101–624, title XV, § 1512, 104 Stat. 3633; Pub. L. 110–246, title III, § 3001(a), June 18, 2008, 122 Stat. 1820, provided that: “This Act [enacting this chapter] may be cited as the ‘Food for Peace Act’.”
 
 **Minimum Level of Food Assistance**
 
-Pub. L. 100–418, title IV, § 4310, Aug. 23, 1988, 102 Stat. 1399, as amended by Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(J), June 18, 2008, 122 Stat. 1820, provided that:
+Pub. L. 100–418, title IV, § 4310, Aug. 23, 1988, 102 Stat. 1399, as amended by Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(J), June 18, 2008, 122 Stat. 1820, provided that:
 
 > **“(a) Annual Minimum.—** It is the sense of Congress that—
 
@@ -121,19 +121,19 @@ Pub. L. 100–418, title IV, § 4310, Aug. 23, 1988, 102 Stat. 1399, as amende
 
 **Food Aid and Market Development**
 
-Pub. L. 100–418, title IV, § 4311, Aug. 23, 1988, 102 Stat. 1400, which declared it to be the policy of the United States to use food aid and agriculturally-related foreign economic assistance programs more effectively to develop markets for United States agricultural commodities and products, and which directed the President (or, as appropriate, the Secretary of Agriculture) to encourage recipient countries under food assistance agreements entered into under any program administered by the Secretary to agree to give preference to United States food and food products in future food purchases, was repealed by Pub. L. 101–624, title XV, § 1571, Nov. 28, 1990, 104 Stat. 3702.
+Pub. L. 100–418, title IV, § 4311, Aug. 23, 1988, 102 Stat. 1400, which declared it to be the policy of the United States to use food aid and agriculturally-related foreign economic assistance programs more effectively to develop markets for United States agricultural commodities and products, and which directed the President (or, as appropriate, the Secretary of Agriculture) to encourage recipient countries under food assistance agreements entered into under any program administered by the Secretary to agree to give preference to United States food and food products in future food purchases, was repealed by Pub. L. 101–624, title XV, § 1571, Nov. 28, 1990, 104 Stat. 3702.
 
 **Agricultural Trade and Export Policy Commission Act**
 
-Pub. L. 97–98, title XII, subtitle C (§§ 1217–1224), as added Pub. L. 98–412, Aug. 30, 1984, 98 Stat. 1576, known as the Agricultural Trade and Export Policy Commission Act, established a National Commission on Agricultural Trade and Export Policy to conduct a study of agriculture-related trade and export policies, programs, and practices of United States, directed Commission to submit to President and Congress a final report and recommendations by July 1, 1986, and provided for termination of Commission 60 days thereafter.
+Pub. L. 97–98, title XII, subtitle C (§§ 1217–1224), as added Pub. L. 98–412, Aug. 30, 1984, 98 Stat. 1576, known as the Agricultural Trade and Export Policy Commission Act, established a National Commission on Agricultural Trade and Export Policy to conduct a study of agriculture-related trade and export policies, programs, and practices of United States, directed Commission to submit to President and Congress a final report and recommendations by July 1, 1986, and provided for termination of Commission 60 days thereafter.
 
 **Use of Nonprice-Supported Commodities**
 
-Pub. L. 95–113, title XII, § 1209, Sept. 29, 1977, 91 Stat. 957, as amended by Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821, provided that: “It is the sense of Congress that there be no discrimination between ‘price-supported’ and ‘nonprice-supported’ commodities in the programming of commodities under the Food for Peace Act, as amended (Public Law 480) [which enacted this chapter and amended sections 1427 and 1431 of this title].”
+Pub. L. 95–113, title XII, § 1209, Sept. 29, 1977, 91 Stat. 957, as amended by Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821, provided that: “It is the sense of Congress that there be no discrimination between ‘price-supported’ and ‘nonprice-supported’ commodities in the programming of commodities under the Food for Peace Act, as amended (Public Law 480) [which enacted this chapter and amended sections 1427 and 1431 of this title].”
 
 **Special Task Force**
 
-Pub. L. 95–113, title XII, § 1210, Sept. 29, 1977, 91 Stat. 957, required the Secretary of Agriculture, not later than eighteen months after Sept. 29, 1977, to appoint a special task force to review and report to Congress upon the administration of the Agricultural Trade Development and Assistance Act of 1954 (now Food for Peace Act), 7 U.S.C. 1961 et seq.
+Pub. L. 95–113, title XII, § 1210, Sept. 29, 1977, 91 Stat. 957, required the Secretary of Agriculture, not later than eighteen months after Sept. 29, 1977, to appoint a special task force to review and report to Congress upon the administration of the Agricultural Trade Development and Assistance Act of 1954 (now Food for Peace Act), 7 U.S.C. 1961 et seq.
 
 **Executive Documents**
 
@@ -201,7 +201,7 @@ Sec. 5. *Regulatory Review*. Policies, regulations, and analyses required by thi
 
 Sec. 6. *Revocations*. Executive Order No. 12220 of June 27, 1980, and Executive Order No. 12583 of February 19, 1987, are revoked.
 
-## § 1691a. Food aid to developing countries
+## § 1691a. Food aid to developing countries
 
 **(a) Policy**
 
@@ -227,7 +227,7 @@ In light of the Uruguay Round Agreement on Agriculture and the Ministerial Decis
 
 **(2)** the United States should increase its contribution of bona fide food assistance to developing countries consistent with the Agreement on Agriculture.
 
-(July 10, 1954, ch. 469, § 3, as added Pub. L. 94–161, title II, § 202, Dec. 20, 1975, 89 Stat. 851; amended Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3633; Pub. L. 104–127, title II, § 201(a), Apr. 4, 1996, 110 Stat. 951; Pub. L. 110–246, title III, § 3003, June 18, 2008, 122 Stat. 1821.)
+(July 10, 1954, ch. 469, § 3, as added Pub. L. 94–161, title II, § 202, Dec. 20, 1975, 89 Stat. 851; amended Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3633; Pub. L. 104–127, title II, § 201(a), Apr. 4, 1996, 110 Stat. 951; Pub. L. 110–246, title III, § 3003, June 18, 2008, 122 Stat. 1821.)
 
 **Editorial Notes**
 
@@ -255,29 +255,29 @@ Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. 
 
 **World Food Conference Recommendations**
 
-Pub. L. 94–161, title II, § 213, Dec. 20, 1975, 89 Stat. 855, directed the President to strengthen the efforts of the United States to carry out the recommendations of the World Food Conference and to submit a detailed report to the Congress not later than Nov. 1, 1976, prior to repeal by Pub. L. 97–113, title VII, § 734(a)(7), Dec. 29, 1981, 95 Stat. 1560.
+Pub. L. 94–161, title II, § 213, Dec. 20, 1975, 89 Stat. 855, directed the President to strengthen the efforts of the United States to carry out the recommendations of the World Food Conference and to submit a detailed report to the Congress not later than Nov. 1, 1976, prior to repeal by Pub. L. 97–113, title VII, § 734(a)(7), Dec. 29, 1981, 95 Stat. 1560.
 
 ## SUBCHAPTER I—BARTER
 
-### § 1692. Transferred
+### § 1692. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act July 10, 1954, ch. 469, title III, § 310, formerly § 303, 68 Stat. 459, as amended and renumbered, which related to bartering authority of Secretary, was transferred to section 1727g of this title.
+Section, act July 10, 1954, ch. 469, title III, § 310, formerly § 303, 68 Stat. 459, as amended and renumbered, which related to bartering authority of Secretary, was transferred to section 1727g of this title.
 
-### §§ 1693 to 1697. Repealed. Pub. L. 89–808, § 2(D), Nov. 11, 1966, 80 Stat. 1535
+### §§ 1693 to 1697. Repealed. Pub. L. 89–808, § 2(D), Nov. 11, 1966, 80 Stat. 1535
 
-Section 1693, acts July 10, 1954, ch. 469, title III, § 304, 68 Stat. 459; Aug. 13, 1957, Pub. L. 85–128, § 1(6), 71 Stat. 345; Oct. 8, 1964, Pub. L. 88–638, § 1(16), 78 Stat. 1037, provided for assistance to friendly nations in being independent of Russian or Communist Chinese trade, prevention of increased availability of commodities to unfriendly nations, and nonauthorization of transactions with Russia or Communist China. See section 1703(j) of this title.
+Section 1693, acts July 10, 1954, ch. 469, title III, § 304, 68 Stat. 459; Aug. 13, 1957, Pub. L. 85–128, § 1(6), 71 Stat. 345; Oct. 8, 1964, Pub. L. 88–638, § 1(16), 78 Stat. 1037, provided for assistance to friendly nations in being independent of Russian or Communist Chinese trade, prevention of increased availability of commodities to unfriendly nations, and nonauthorization of transactions with Russia or Communist China. See section 1703(j) of this title.
 
-Section 1694, acts July 10, 1954, ch. 469, title III, § 305, 68 Stat. 459; Sept. 21, 1959, Pub. L. 86–341, title I, § 10, 73 Stat. 607, provided for identification of packages and containers by appropriate markings. See section 1722 of this title.
+Section 1694, acts July 10, 1954, ch. 469, title III, § 305, 68 Stat. 459; Sept. 21, 1959, Pub. L. 86–341, title I, § 10, 73 Stat. 607, provided for identification of packages and containers by appropriate markings. See section 1722 of this title.
 
-Section 1695, act July 10, 1954, ch. 469, title III, § 306, as added Sept. 21, 1959, Pub. L. 86–341, title I, § 11, 73 Stat. 608, provided for distribution of surplus food commodities to needy persons in United States: authorization, term of program, and cost limitation; duties of Secretary of Agriculture; issuance of food stamps and their redemption; receipt of benefits not deemed income or resources under provisions of other laws; availability of surplus foods for distribution; definition of needy person; report to Congress; and authorization of appropriations. See Supplemental Nutrition Assistance Program classified to chapter 51 of this title.
+Section 1695, act July 10, 1954, ch. 469, title III, § 306, as added Sept. 21, 1959, Pub. L. 86–341, title I, § 11, 73 Stat. 608, provided for distribution of surplus food commodities to needy persons in United States: authorization, term of program, and cost limitation; duties of Secretary of Agriculture; issuance of food stamps and their redemption; receipt of benefits not deemed income or resources under provisions of other laws; availability of surplus foods for distribution; definition of needy person; report to Congress; and authorization of appropriations. See Supplemental Nutrition Assistance Program classified to chapter 51 of this title.
 
-Section 1696, act July 10, 1954, ch. 469, title III, § 307, as added Sept. 21, 1959, Pub. L. 86–341, title I, § 12, 73 Stat. 609, provided for availability of surplus commodities for distribution to needy families and persons in United States. See Supplemental Nutrition Assistance Program classified to chapter 51 of this title and provisions of section 1721 et seq. of this title relating to donations of food on a government-to-government basis and through voluntary organizations.
+Section 1696, act July 10, 1954, ch. 469, title III, § 307, as added Sept. 21, 1959, Pub. L. 86–341, title I, § 12, 73 Stat. 609, provided for availability of surplus commodities for distribution to needy families and persons in United States. See Supplemental Nutrition Assistance Program classified to chapter 51 of this title and provisions of section 1721 et seq. of this title relating to donations of food on a government-to-government basis and through voluntary organizations.
 
-Section 1697, act July 10, 1954, ch. 469, title III, § 308, as added Sept. 21, 1959, Pub. L. 86–341, title I, § 13, 73 Stat. 609; amended Sept. 27, 1962, Pub. L. 87–703, title II, § 203, 76 Stat. 611, related to disposal of animal fats and edible oils. See section 1721 et seq. of this title.
+Section 1697, act July 10, 1954, ch. 469, title III, § 308, as added Sept. 21, 1959, Pub. L. 86–341, title I, § 13, 73 Stat. 609; amended Sept. 27, 1962, Pub. L. 87–703, title II, § 203, 76 Stat. 611, related to disposal of animal fats and edible oils. See section 1721 et seq. of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -287,7 +287,7 @@ Repeal effective Jan. 1, 1967, see section 5 of Pub. L. 89–808, set out as an 
 
 ## SUBCHAPTER II—ECONOMIC ASSISTANCE AND FOOD SECURITY
 
-### § 1701. Economic assistance and food security
+### § 1701. Economic assistance and food security
 
 **(a) In general**
 
@@ -297,7 +297,7 @@ The President shall establish a program under this subchapter to provide for the
 
 To carry out the policies and accomplish the objectives described in section 1691 of this title, the Secretary may negotiate and execute agreements with developing countries and private entities to finance the sale and exportation of agricultural commodities to such countries and entities.
 
-(July 10, 1954, ch. 469, title I, § 101, 68 Stat. 455; Pub. L. 85–931, § 1, Sept. 6, 1958, 72 Stat. 1790; Pub. L. 87–128, title II, § 201(1), Aug. 8, 1961, 75 Stat. 306; Pub. L. 88–205, pt. IV, § 403(a), Dec. 16, 1963, 77 Stat. 390; Pub. L. 88–638, § 1(1), (2), Oct. 8, 1964, 78 Stat. 1035; Pub. L. 89–808, § 2(B), Nov. 11, 1966, 80 Stat. 1526; Pub. L. 97–113, title IV, § 401(1), Dec. 29, 1981, 95 Stat. 1537; Pub. L. 99–198, title XI, § 1111(c), Dec. 23, 1985, 99 Stat. 1474; Pub. L. 100–202, § 8, Dec. 22, 1987, 101 Stat. 1329–447; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3633; Pub. L. 104–127, title II, § 202, Apr. 4, 1996, 110 Stat. 951; Pub. L. 110–246, title III, § 3004(b), June 18, 2008, 122 Stat. 1822.)
+(July 10, 1954, ch. 469, title I, § 101, 68 Stat. 455; Pub. L. 85–931, § 1, Sept. 6, 1958, 72 Stat. 1790; Pub. L. 87–128, title II, § 201(1), Aug. 8, 1961, 75 Stat. 306; Pub. L. 88–205, pt. IV, § 403(a), Dec. 16, 1963, 77 Stat. 390; Pub. L. 88–638, § 1(1), (2), Oct. 8, 1964, 78 Stat. 1035; Pub. L. 89–808, § 2(B), Nov. 11, 1966, 80 Stat. 1526; Pub. L. 97–113, title IV, § 401(1), Dec. 29, 1981, 95 Stat. 1537; Pub. L. 99–198, title XI, § 1111(c), Dec. 23, 1985, 99 Stat. 1474; Pub. L. 100–202, § 8, Dec. 22, 1987, 101 Stat. 1329–447; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3633; Pub. L. 104–127, title II, § 202, Apr. 4, 1996, 110 Stat. 951; Pub. L. 110–246, title III, § 3004(b), June 18, 2008, 122 Stat. 1822.)
 
 **Editorial Notes**
 
@@ -305,25 +305,25 @@ To carry out the policies and accomplish the objectives described in section 169
 
 2008—Pub. L. 110–246 substituted “Economic assistance and food security” for “Trade and development assistance” in section catchline.
 
-1996—Subsec. (a). Pub. L. 104–127, § 202(1), inserted “and private entities” after “developing countries”.
+1996—Subsec. (a). Pub. L. 104–127, § 202(1), inserted “and private entities” after “developing countries”.
 
 Subsec. (b). Pub. L. 104–127 inserted “and private entities” after “developing countries” and “and entities” after “such countries”.
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing President to negotiate agreements with friendly countries for sales of commodities for dollars on credit terms, or for foreign currencies, on credit or on terms permitting conversion to dollars, setting minimum level for sales in foreign currencies, limiting extent of sales for foreign currency to amounts that can be productively used in private sector of foreign country, and requiring that sales for foreign currency through financial intermediaries be on terms and conditions specified in agreements.
 
-1987—Subsec. (b)(1). Pub. L. 100–202, § 8(1), inserted provisions which required for each of fiscal years 1988 through 1990 that each agreement provide for some sale of foreign currencies for use under section 1708 of this title unless the President determines that the level of agricultural commodities furnished under this subchapter will be significantly reduced as a result of this sentence.
+1987—Subsec. (b)(1). Pub. L. 100–202, § 8(1), inserted provisions which required for each of fiscal years 1988 through 1990 that each agreement provide for some sale of foreign currencies for use under section 1708 of this title unless the President determines that the level of agricultural commodities furnished under this subchapter will be significantly reduced as a result of this sentence.
 
-Subsec. (b)(2). Pub. L. 100–202, § 8(2), inserted “, or enter into sales agreements not providing for sales for foreign currencies for use under section 1708 of this title,” after “currencies”.
+Subsec. (b)(2). Pub. L. 100–202, § 8(2), inserted “, or enter into sales agreements not providing for sales for foreign currencies for use under section 1708 of this title,” after “currencies”.
 
 1985—Pub. L. 99–198 in amending section generally, incorporated existing text in provisions designated subsec. (a) and added subsecs. (b) to (d).
 
-1981—Pub. L. 97–113 substituted “, to the extent that sales for dollars under the terms applicable to such sales are not possible, for foreign currencies on credit terms and on terms which permit conversion to dollars at the exchange rate applicable to the sales agreement” for “for foreign currencies”.
+1981—Pub. L. 97–113 substituted “, to the extent that sales for dollars under the terms applicable to such sales are not possible, for foreign currencies on credit terms and on terms which permit conversion to dollars at the exchange rate applicable to the sales agreement” for “for foreign currencies”.
 
 1966—Pub. L. 89–808 substituted “agreements with friendly countries to provide for the sale of agricultural commodities for dollars on credit terms or for foreign currencies” for “agreements with friendly nations or organizations of friendly nations to provide for the sale of surplus agricultural commodities for foreign currencies” and struck out subsecs. (a) to (d), (f), and (g), relating to safeguarding usual marketings and disruption of world prices and normal patterns of commercial trade with friendly countries, use of private channels to maximum extent practicable, development and expansion of foreign markets, restrictive commitments from participating countries, exchange rates, and currency conversion, now covered by section 1703(c), (e) to (h), and (m)(1) of this title, respectively, and subsec. (e), relating to maximum opportunity for friendly nation to purchase surplus agricultural commodities.
 
-1964—Subsec. (f). Pub. L. 88–638, § 1(1), inserted “, and which are not less favorable than the highest of exchange rates obtainable by any other nation”, and struck out “from the government or agencies thereof” before “in the respective countries”.
+1964—Subsec. (f). Pub. L. 88–638, § 1(1), inserted “, and which are not less favorable than the highest of exchange rates obtainable by any other nation”, and struck out “from the government or agencies thereof” before “in the respective countries”.
 
-Subsec. (g). Pub. L. 88–638, § 1(2), added subsec. (g).
+Subsec. (g). Pub. L. 88–638, § 1(2), added subsec. (g).
 
 1963—Subsec. (f). Pub. L. 88–205 substituted “the highest of exchange rates legally obtainable from the Government or agencies thereof” for “the rates at which United States Government agencies can buy currencies from the United States disbursing officers”.
 
@@ -367,21 +367,21 @@ Pub. L. 90–7, Apr. 1, 1967, 81 Stat. 7, provided:
 
 **Cotton and Cotton Products**
 
-Pub. L. 85–931, § 8, Sept. 6, 1958, 72 Stat. 1792, as amended by Pub. L. 89–808, § 3(d), Nov. 11, 1966, 80 Stat. 1538; Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821, provided that: “In carrying out the provisions of the Food for Peace Act, as amended [this chapter], extra long staple cotton shall be made available for sale pursuant to the provisions of title I of the Act [this subchapter] in the same manner as upland cotton or any other surplus agricultural commodity is made available, and products manufactured entirely from upland or long staple cotton shall be made available for sale pursuant to the provisions of title I of the Act [this subchapter] as long as cotton is in surplus supply in the same manner as any other agricultural commodity or product is made available, and no discriminatory or other conditions shall be imposed which will prevent or tend to interfere with their sale or availability for sale under the Act [this chapter].”
+Pub. L. 85–931, § 8, Sept. 6, 1958, 72 Stat. 1792, as amended by Pub. L. 89–808, § 3(d), Nov. 11, 1966, 80 Stat. 1538; Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821, provided that: “In carrying out the provisions of the Food for Peace Act, as amended [this chapter], extra long staple cotton shall be made available for sale pursuant to the provisions of title I of the Act [this subchapter] in the same manner as upland cotton or any other surplus agricultural commodity is made available, and products manufactured entirely from upland or long staple cotton shall be made available for sale pursuant to the provisions of title I of the Act [this subchapter] as long as cotton is in surplus supply in the same manner as any other agricultural commodity or product is made available, and no discriminatory or other conditions shall be imposed which will prevent or tend to interfere with their sale or availability for sale under the Act [this chapter].”
 
 [Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 89–808, set out as a note under section 1691 of this title.]
 
 **Cargo Preference Law Exemption**
 
-Act Aug. 3, 1956, ch. 933, § 3, 70 Stat. 988, provided that: “Sales of fresh fruit and the products thereof under title I of the Act [sections 1701 to 1704, 1705 to 1707, 1708 to 1711 of this title] shall be exempt from the requirements of the cargo preference laws (Public Resolution 17, Seventy-third Congress (15 U.S.C. 616a) [now 46 U.S.C. 55304] and section 901(b) of the Merchant Marine Act, 1936 (46 U.S.C. 1241(b)) [now 46 U.S.C. 55305]).”
+Act Aug. 3, 1956, ch. 933, § 3, 70 Stat. 988, provided that: “Sales of fresh fruit and the products thereof under title I of the Act [sections 1701 to 1704, 1705 to 1707, 1708 to 1711 of this title] shall be exempt from the requirements of the cargo preference laws (Public Resolution 17, Seventy-third Congress (15 U.S.C. 616a) [now 46 U.S.C. 55304] and section 901(b) of the Merchant Marine Act, 1936 (46 U.S.C. 1241(b)) [now 46 U.S.C. 55305]).”
 
 **Executive Documents**
 
 **Implementation of Program**
 
-Program under this subchapter to provide for sale of agricultural commodities to developing countries to be implemented by Secretary of Agriculture, see Ex. Ord. No. 12752, § 1(a), Feb. 25, 1991, 56 F.R. 8255, set out as a note under section 1691 of this title.
+Program under this subchapter to provide for sale of agricultural commodities to developing countries to be implemented by Secretary of Agriculture, see Ex. Ord. No. 12752, § 1(a), Feb. 25, 1991, 56 F.R. 8255, set out as a note under section 1691 of this title.
 
-### § 1702. Agreements regarding eligible countries and private entities
+### § 1702. Agreements regarding eligible countries and private entities
 
 **(a) Priority** In selecting agreements to be entered into under this subchapter, the Secretary shall give priority to agreements providing for the export of agricultural commodities to developing countries that—
 
@@ -393,15 +393,15 @@ Program under this subchapter to provide for sale of agricultural commodities to
 
 An agreement entered into under this subchapter with a private entity shall require such security, or such other provisions as the Secretary determines necessary, to provide reasonable and adequate assurance of repayment of the financing extended to the private entity.
 
-(July 10, 1954, ch. 469, title I, § 102, 68 Stat. 455; Apr. 25, 1955, ch. 27, 69 Stat. 44; Pub. L. 88–638, § 1(3), Oct. 8, 1964, 78 Stat. 1035; Pub. L. 89–808, § 2(B), Nov. 11, 1966, 80 Stat. 1526; Pub. L. 90–436, § 9, July 29, 1968, 82 Stat. 451; Pub. L. 95–88, title II, § 201(a), Aug. 3, 1977, 91 Stat. 545; Pub. L. 95–113, title XII, § 1201, Sept. 29, 1977, 91 Stat. 955; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3634; Pub. L. 104–127, title II, § 203, Apr. 4, 1996, 110 Stat. 951; Pub. L. 110–246, title III, § 3005, June 18, 2008, 122 Stat. 1822.)
+(July 10, 1954, ch. 469, title I, § 102, 68 Stat. 455; Apr. 25, 1955, ch. 27, 69 Stat. 44; Pub. L. 88–638, § 1(3), Oct. 8, 1964, 78 Stat. 1035; Pub. L. 89–808, § 2(B), Nov. 11, 1966, 80 Stat. 1526; Pub. L. 90–436, § 9, July 29, 1968, 82 Stat. 451; Pub. L. 95–88, title II, § 201(a), Aug. 3, 1977, 91 Stat. 545; Pub. L. 95–113, title XII, § 1201, Sept. 29, 1977, 91 Stat. 955; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3634; Pub. L. 104–127, title II, § 203, Apr. 4, 1996, 110 Stat. 951; Pub. L. 110–246, title III, § 3005, June 18, 2008, 122 Stat. 1822.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–246, § 3005(1), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “have the demonstrated potential to become commercial markets for competitively priced United States agricultural commodities;”.
+2008—Subsec. (a). Pub. L. 110–246, § 3005(1), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “have the demonstrated potential to become commercial markets for competitively priced United States agricultural commodities;”.
 
-Subsec. (c). Pub. L. 110–246, § 3005(2), struck out subsec. (c) which related to agricultural market development plan pursuant to which a developing country could demonstrate potential to become a commercial market for competitively priced United States agricultural commodities for the purpose of being granted a priority under former subsec. (a)(1).
+Subsec. (c). Pub. L. 110–246, § 3005(2), struck out subsec. (c) which related to agricultural market development plan pursuant to which a developing country could demonstrate potential to become a commercial market for competitively priced United States agricultural commodities for the purpose of being granted a priority under former subsec. (a)(1).
 
 1996—Pub. L. 104–127 amended section generally, substituting present provisions for provisions outlining eligibility of developing countries for assistance under this subchapter and factors in determining priority for assistance.
 
@@ -433,13 +433,13 @@ Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. 
 
 Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under section 1307 of this title.
 
-Pub. L. 95–88, title II, § 215, Aug. 3, 1977, 91 Stat. 552, provided that: “The provisions of this title [enacting sections 1712 to 1714 and 1727 to 1727f of this title, amending this section and sections 1427, 1431, 1692, 1703, 1706, 1711, 1721, 1722, 1723, 1726, 1731, and 1736b of this title, and enacting provisions set out as notes under sections 1708 and 1722 of this title] shall become effective October 1, 1977.”
+Pub. L. 95–88, title II, § 215, Aug. 3, 1977, 91 Stat. 552, provided that: “The provisions of this title [enacting sections 1712 to 1714 and 1727 to 1727f of this title, amending this section and sections 1427, 1431, 1692, 1703, 1706, 1711, 1721, 1722, 1723, 1726, 1731, and 1736b of this title, and enacting provisions set out as notes under sections 1708 and 1722 of this title] shall become effective October 1, 1977.”
 
 **Effective Date of 1966 Amendment**
 
 Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 89–808, set out as a note under section 1691 of this title.
 
-### § 1703. Terms and conditions of sales
+### § 1703. Terms and conditions of sales
 
 **(a) Payment**
 
@@ -473,61 +473,61 @@ The Secretary may defer the date on which the developing country or private enti
 
 Delivery of the commodities shall be made in accordance with the terms of the agreement.
 
-(July 10, 1954, ch. 469, title I, § 103, 68 Stat. 456; Aug. 12, 1955, ch. 873, § 1, 69 Stat. 721; May 28, 1956, ch. 327, title II, § 208(a), 70 Stat. 201; Aug. 3, 1956, ch. 933, § 1, 70 Stat. 988; Pub. L. 85–128, § 1(2), Aug. 13, 1957, 71 Stat. 345; Pub. L. 85–931, § 2, Sept. 6, 1958, 72 Stat. 1790; Pub. L. 86–341, title I, § 2, Sept. 21, 1959, 73 Stat. 606; Pub. L. 87–28, May 4, 1961, 75 Stat. 64; Pub. L. 87–128, title II, § 201(2), Aug. 8, 1961, 75 Stat. 306; Pub. L. 88–638, § 1(4), (5), Oct. 8, 1964, 78 Stat. 1035; Pub. L. 89–808, § 2(B), Nov. 11, 1966, 80 Stat. 1526; Pub. L. 90–436, §§ 4, 5, July 29, 1968, 82 Stat. 450; Pub. L. 91–524, title VII, § 703, Nov. 30, 1970, as added Pub. L. 93–86, § 1(26), Aug. 10, 1973, 87 Stat. 237; Pub. L. 93–125, § 1(e), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–161, title II, § 203, Dec. 20, 1975, 89 Stat. 851; Pub. L. 95–88, title II, §§ 201(b), 211(b)(1), Aug. 3, 1977, 91 Stat. 545, 551; Pub. L. 95–424, title I, § 102(b)(2)(B), Oct. 6, 1978, 92 Stat. 941; Pub. L. 96–53, title II, § 201, Aug. 14, 1979, 93 Stat. 368; Pub. L. 97–113, title IV, § 401(2)–(4), Dec. 29, 1981, 95 Stat. 1537; Pub. L. 99–198, title XI, § 1111(d), Dec. 23, 1985, 99 Stat. 1475; Pub. L. 100–202, § 9, Dec. 22, 1987, 101 Stat. 1329–448; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3634; Pub. L. 104–127, title II, § 204, Apr. 4, 1996, 110 Stat. 953.)
+(July 10, 1954, ch. 469, title I, § 103, 68 Stat. 456; Aug. 12, 1955, ch. 873, § 1, 69 Stat. 721; May 28, 1956, ch. 327, title II, § 208(a), 70 Stat. 201; Aug. 3, 1956, ch. 933, § 1, 70 Stat. 988; Pub. L. 85–128, § 1(2), Aug. 13, 1957, 71 Stat. 345; Pub. L. 85–931, § 2, Sept. 6, 1958, 72 Stat. 1790; Pub. L. 86–341, title I, § 2, Sept. 21, 1959, 73 Stat. 606; Pub. L. 87–28, May 4, 1961, 75 Stat. 64; Pub. L. 87–128, title II, § 201(2), Aug. 8, 1961, 75 Stat. 306; Pub. L. 88–638, § 1(4), (5), Oct. 8, 1964, 78 Stat. 1035; Pub. L. 89–808, § 2(B), Nov. 11, 1966, 80 Stat. 1526; Pub. L. 90–436, §§ 4, 5, July 29, 1968, 82 Stat. 450; Pub. L. 91–524, title VII, § 703, Nov. 30, 1970, as added Pub. L. 93–86, § 1(26), Aug. 10, 1973, 87 Stat. 237; Pub. L. 93–125, § 1(e), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–161, title II, § 203, Dec. 20, 1975, 89 Stat. 851; Pub. L. 95–88, title II, §§ 201(b), 211(b)(1), Aug. 3, 1977, 91 Stat. 545, 551; Pub. L. 95–424, title I, § 102(b)(2)(B), Oct. 6, 1978, 92 Stat. 941; Pub. L. 96–53, title II, § 201, Aug. 14, 1979, 93 Stat. 368; Pub. L. 97–113, title IV, § 401(2)–(4), Dec. 29, 1981, 95 Stat. 1537; Pub. L. 99–198, title XI, § 1111(d), Dec. 23, 1985, 99 Stat. 1475; Pub. L. 100–202, § 9, Dec. 22, 1987, 101 Stat. 1329–448; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3634; Pub. L. 104–127, title II, § 204, Apr. 4, 1996, 110 Stat. 953.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (a)(2)(A). Pub. L. 104–127, § 204(1), struck out “a recipient country to make” after “may permit” and substituted “the appropriate country” for “such country”.
+1996—Subsec. (a)(2)(A). Pub. L. 104–127, § 204(1), struck out “a recipient country to make” after “may permit” and substituted “the appropriate country” for “such country”.
 
-Subsec. (c). Pub. L. 104–127, § 204(2), struck out “less than 10 nor” before “more than 30”.
+Subsec. (c). Pub. L. 104–127, § 204(2), struck out “less than 10 nor” before “more than 30”.
 
-Subsec. (d). Pub. L. 104–127, § 204(3), substituted “developing country or private entity” for “recipient country” and “5 years” for “7 years”.
+Subsec. (d). Pub. L. 104–127, § 204(3), substituted “developing country or private entity” for “recipient country” and “5 years” for “7 years”.
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions requiring President to consider efforts of recipients to increase agricultural production, determine amount needed in foreign currencies, protect other markets for United States commodities, make sales only to friendly countries, use private trade channels whenever practicable, consider expansion of markets, prevent resale by recipients, obtain favorable exchange rates, emphasize production of food crops, assist friendly countries in avoiding Communist domination, require payment of at least 5 per centum of purchase price upon delivery in dollars or convertible currency, obtain commitments from recipients to publicize source of food, require convertibility of foreign currencies, avoid displacement of sales that would otherwise have been made, assure United States obtains fair share in increase of commercial purchases by recipients, assure convertibility of foreign currencies at uniform exchange rates, and favor countries promoting private sector in allocation of commodities.
 
 1987—Subsec. (r). Pub. L. 100–202 added subsec. (r).
 
-1985—Subsec. (b). Pub. L. 99–198, § 1111(d)(1), inserted “, in section 1708 of this title,” after “section 1704 of this title”.
+1985—Subsec. (b). Pub. L. 99–198, § 1111(d)(1), inserted “, in section 1708 of this title,” after “section 1704 of this title”.
 
-Subsec. (d). Pub. L. 99–198, § 1111(d)(2), struck out “for dollars on credit terms” after “agricultural commodities”.
+Subsec. (d). Pub. L. 99–198, § 1111(d)(2), struck out “for dollars on credit terms” after “agricultural commodities”.
 
-Subsec. (m). Pub. L. 99–198, § 1111(d)(3), inserted introductory text “except as provided in section 1708 of this title,” substituted a period for the semicolon at end of cl. (2), and inserted provisions respecting period for convertibility of foreign currencies into dollars and establishment in the agreement for sale of a schedule for conversion without specifying the exchange rate.
+Subsec. (m). Pub. L. 99–198, § 1111(d)(3), inserted introductory text “except as provided in section 1708 of this title,” substituted a period for the semicolon at end of cl. (2), and inserted provisions respecting period for convertibility of foreign currencies into dollars and establishment in the agreement for sale of a schedule for conversion without specifying the exchange rate.
 
-Subsec. (n). Pub. L. 99–198, § 1111(d)(4), struck out “for dollars on credit terms” after “sales” and “for cash dollars” after “made”.
+Subsec. (n). Pub. L. 99–198, § 1111(d)(4), struck out “for dollars on credit terms” after “sales” and “for cash dollars” after “made”.
 
-Subsec. (*o*). Pub. L. 99–198, § 1111(d)(5), substituted “take” for “Take”.
+Subsec. (*o*). Pub. L. 99–198, § 1111(d)(5), substituted “take” for “Take”.
 
-Subsecs. (p), (q). Pub. L. 99–198, § 1111(d)(6), (7), substituted “except as provided in section 1708 of this title, assure convertibility” for “Assure convertibility”.
+Subsecs. (p), (q). Pub. L. 99–198, § 1111(d)(6), (7), substituted “except as provided in section 1708 of this title, assure convertibility” for “Assure convertibility”.
 
-1981—Subsec. (b). Pub. L. 97–113, § 401(2), struck out requirement that President take steps to assure a progressive transition from sales for foreign currencies to sales for dollars (or to the extent that transition to sales for dollars under the terms applicable to such sales is not possible, transition to sales for foreign currencies on credit terms no less favorable to the United States than those for development loans made under section 2151t of title 22, and on terms which permit conversion to dollars at the exchange rate applicable to the sales agreement) at a rate whereby the transition can be completed by Dec. 31, 1971; and struck out reference to subsec. (c) of section 1704 of this title.
+1981—Subsec. (b). Pub. L. 97–113, § 401(2), struck out requirement that President take steps to assure a progressive transition from sales for foreign currencies to sales for dollars (or to the extent that transition to sales for dollars under the terms applicable to such sales is not possible, transition to sales for foreign currencies on credit terms no less favorable to the United States than those for development loans made under section 2151t of title 22, and on terms which permit conversion to dollars at the exchange rate applicable to the sales agreement) at a rate whereby the transition can be completed by Dec. 31, 1971; and struck out reference to subsec. (c) of section 1704 of this title.
 
-Subsec. (d). Pub. L. 97–113, § 401(3), in defining “friendly country”, struck out provision excluding from term “for the purpose only of sales of agricultural commodities for foreign currencies under this subchapter, any country or area dominated by a Communist government”.
+Subsec. (d). Pub. L. 97–113, § 401(3), in defining “friendly country”, struck out provision excluding from term “for the purpose only of sales of agricultural commodities for foreign currencies under this subchapter, any country or area dominated by a Communist government”.
 
-Subsec. (*l*). Pub. L. 97–113, § 401(4), struck out requirement that President obtain commitments from friendly purchasing countries that will insure, insofar as practicable, that food commodities sold for foreign currencies under this subchapter shall be marked or identified at point of distribution or sale as being provided on a concessional basis to the recipient government through the generosity of the people of the United States of America.
+Subsec. (*l*). Pub. L. 97–113, § 401(4), struck out requirement that President obtain commitments from friendly purchasing countries that will insure, insofar as practicable, that food commodities sold for foreign currencies under this subchapter shall be marked or identified at point of distribution or sale as being provided on a concessional basis to the recipient government through the generosity of the people of the United States of America.
 
 1979—Subsec. (f). Pub. L. 96–53 substituted provisions requiring Presidential consideration to the development and expansion of markets for United States agricultural commodities and local foodstuffs, for provisions requiring special Presidential consideration to the development and expansion of foreign markets for United States agricultural commodities.
 
 1978—Subsec. (b). Pub. L. 95–424 substituted “section 2151t of title 22” for “section 2161 of title 22”.
 
-1977—Subsec. (b). Pub. L. 95–88, § 211(b)(1), substituted “and in subchapters I and III–A of this chapter” for “and in section 1706(b)(2) of this title” after “uses specified in subsections (a), (b), (c), (e), and (h) of section 1704”.
+1977—Subsec. (b). Pub. L. 95–88, § 211(b)(1), substituted “and in subchapters I and III–A of this chapter” for “and in section 1706(b)(2) of this title” after “uses specified in subsections (a), (b), (c), (e), and (h) of section 1704”.
 
-Subsec. (d). Pub. L. 95–88, § 201(b), struck out provisions that “friendly country” not include, for the purpose only of sales of agricultural commodities under this subchapter, any nation which sold or furnished or permitted ships or aircraft under its registry to transport to or from Cuba or North Vietnam (excluding United States installations in Cuba) any equipment, materials, or commodities so long as they were governed by a Communist regime: *Provided*, That this exclusion from the definition of “friendly country” could be waived by the President if he determined that such waiver was in the national interest and reported such determination to the Congress within 10 days of the date of such determination, and struck out provisions that “friendly country” also not include, for the purposes only of sales under this subchapter, the United Arab Republic, unless the President determined that such sale was in the national interest of the United States, that no sales to the United Arab Republic be based upon the requirements of that nation for more than one fiscal year, and that the President keep the President of the Senate and the Speaker of the House of Representatives fully and currently informed with respect to sales made to the United Arab Republic under this subchapter.
+Subsec. (d). Pub. L. 95–88, § 201(b), struck out provisions that “friendly country” not include, for the purpose only of sales of agricultural commodities under this subchapter, any nation which sold or furnished or permitted ships or aircraft under its registry to transport to or from Cuba or North Vietnam (excluding United States installations in Cuba) any equipment, materials, or commodities so long as they were governed by a Communist regime: *Provided*, That this exclusion from the definition of “friendly country” could be waived by the President if he determined that such waiver was in the national interest and reported such determination to the Congress within 10 days of the date of such determination, and struck out provisions that “friendly country” also not include, for the purposes only of sales under this subchapter, the United Arab Republic, unless the President determined that such sale was in the national interest of the United States, that no sales to the United Arab Republic be based upon the requirements of that nation for more than one fiscal year, and that the President keep the President of the Senate and the Speaker of the House of Representatives fully and currently informed with respect to sales made to the United Arab Republic under this subchapter.
 
-1975—Subsec. (a). Pub. L. 94–161, § 203(1), substituted “efforts to increase their own agricultural production, especially through small, family farm agriculture, to improve their facilities for transportation, storage, and distribution of food commodities, and to reduce their rate of population growth” for “efforts to meet their problems of food production and population growth”.
+1975—Subsec. (a). Pub. L. 94–161, § 203(1), substituted “efforts to increase their own agricultural production, especially through small, family farm agriculture, to improve their facilities for transportation, storage, and distribution of food commodities, and to reduce their rate of population growth” for “efforts to meet their problems of food production and population growth”.
 
-Subsec. (b). Pub. L. 94–161, § 203(2), substituted “section 1704 and in section 1706(b)(2) of this title” for “section 1704 of this title”.
+Subsec. (b). Pub. L. 94–161, § 203(2), substituted “section 1704 and in section 1706(b)(2) of this title” for “section 1704 of this title”.
 
-Subsec. (d). Pub. L. 94–161, § 203(3), substituted second proviso “*Provided*, That this exclusion from the definition of ‘friendly country’ may be waived by the President if he determines that such waiver is in the national interest and reports such determination to the Congress within 10 days of the date of such determination” for “*Provided*, That with respect to furnishing, selling, or selling and transporting to Cuba medical supplies, non-strategic raw materials for agriculture, and non-strategic agricultural or food commodities, sales agreements may be entered into if the President finds with respect to each such country and so informs the Senate and the House of Representatives of the reasons therefor, that the making of each such agreement would be in the national interest of the United States and all such findings and reasons therefor shall be published in the Federal Register”.
+Subsec. (d). Pub. L. 94–161, § 203(3), substituted second proviso “*Provided*, That this exclusion from the definition of ‘friendly country’ may be waived by the President if he determines that such waiver is in the national interest and reports such determination to the Congress within 10 days of the date of such determination” for “*Provided*, That with respect to furnishing, selling, or selling and transporting to Cuba medical supplies, non-strategic raw materials for agriculture, and non-strategic agricultural or food commodities, sales agreements may be entered into if the President finds with respect to each such country and so informs the Senate and the House of Representatives of the reasons therefor, that the making of each such agreement would be in the national interest of the United States and all such findings and reasons therefor shall be published in the Federal Register”.
 
 1973—Subsec. (*o*). Pub. L. 93–125 made technical correction to Pub. L. 93–86, see 1973 Amendment note below.
 
-Pub. L. 91–524, § 703, as added by Pub. L. 93–86 as amended by Pub. L. 93–125, inserted “and that commercial supplies are available to meet demands developed through programs carried out under this chapter.” before the semicolon at end.
+Pub. L. 91–524, § 703, as added by Pub. L. 93–86 as amended by Pub. L. 93–125, inserted “and that commercial supplies are available to meet demands developed through programs carried out under this chapter.” before the semicolon at end.
 
-1968—Subsec. (b). Pub. L. 90–436, § 4, made mandatory, except when determined by President to be inconsistent with objectives of this chapter, proviso that President, in agreements for credit sales, require immediate payment in dollars or in foreign currencies upon delivery of agricultural commodities, such payment to be considered as an advance payment of earliest obligations.
+1968—Subsec. (b). Pub. L. 90–436, § 4, made mandatory, except when determined by President to be inconsistent with objectives of this chapter, proviso that President, in agreements for credit sales, require immediate payment in dollars or in foreign currencies upon delivery of agricultural commodities, such payment to be considered as an advance payment of earliest obligations.
 
-Subsecs. (*o*) to (q). Pub. L. 90–436, § 5, added subsecs. (*o*) to (q).
+Subsecs. (*o*) to (q). Pub. L. 90–436, § 5, added subsecs. (*o*) to (q).
 
 1966—Subsec. (a). Pub. L. 89–808 substituted provisions respecting self-help measures for meeting problems of food production and population growth for former provisions for appropriations for reimbursement of Commodity Credit Corporation, advance use of other funds, and classification of expenditures, now provided for in part by section 1733 of this title.
 
@@ -557,9 +557,9 @@ Subsec. (m). Pub. L. 89–808 redesignated provisions of former section 1701(g) 
 
 Subsec. (n). Pub. L. 89–808 incorporated in provisions added as subsec. (n) part of former section 1734 of this title requiring the Secretary to take such reasonable precautions as he determines necessary to avoid replacing any sales which the Secretary found and determined would otherwise be made for cash dollars.
 
-1964—Subsec. (a). Pub. L. 88–638, § 1(4), directed the President to classify expenditures under this chapter as for international affairs and finance rather than for agriculture and agricultural resources.
+1964—Subsec. (a). Pub. L. 88–638, § 1(4), directed the President to classify expenditures under this chapter as for international affairs and finance rather than for agriculture and agricultural resources.
 
-Subsec. (b). Pub. L. 88–638, § 1(5), substituted “1965” for “1962”, “1966” for “1964”, and “$2,700,000,000 plus any amount by which agreements entered into in prior years have called or will call for appropriations to reimburse the Commodity Credit Corporation in amounts less than authorized for such prior years by this chapter as in effect during such years” for “$4,500,000,000”.
+Subsec. (b). Pub. L. 88–638, § 1(5), substituted “1965” for “1962”, “1966” for “1964”, and “$2,700,000,000 plus any amount by which agreements entered into in prior years have called or will call for appropriations to reimburse the Commodity Credit Corporation in amounts less than authorized for such prior years by this chapter as in effect during such years” for “$4,500,000,000”.
 
 1961—Subsec. (b). Pub. L. 87–128 substituted authorization provision of $4,500,000,000 for period beginning January 1, 1962, and ending December 31, 1964, with a limitation of $2,500,000,000 for any one calendar year, for authorization provision of $1,500,000,000 plus any amount by which agreements entered into in the preceding calendar year called for appropriations in amount less than authorized for such preceding year by this chapter as in effect during the preceding year for period beginning January 1, 1960, and ending December 31, 1961.
 
@@ -601,17 +601,17 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
 **Effective Date of 1964 Amendment**
 
-Pub. L. 88–638, § 1(5), Oct. 8, 1964, 78 Stat. 1035, provided that the amendment made by section 1(5) is effective Jan. 1, 1965.
+Pub. L. 88–638, § 1(5), Oct. 8, 1964, 78 Stat. 1035, provided that the amendment made by section 1(5) is effective Jan. 1, 1965.
 
 **Effective Date of 1961 Amendment**
 
-Pub. L. 87–128, title II, § 201(2), Aug. 8, 1961, 75 Stat. 306, provided that the amendment made by section 201(2) is effective Jan. 1, 1962.
+Pub. L. 87–128, title II, § 201(2), Aug. 8, 1961, 75 Stat. 306, provided that the amendment made by section 201(2) is effective Jan. 1, 1962.
 
 **Effective Date of 1959 Amendment**
 
-Pub. L. 86–341, title I, § 2, Sept. 21, 1959, 73 Stat. 606, provided that the amendment made by section 2 is effective Jan. 1, 1960.
+Pub. L. 86–341, title I, § 2, Sept. 21, 1959, 73 Stat. 606, provided that the amendment made by section 2 is effective Jan. 1, 1960.
 
-### § 1704. Use of local currency payment
+### § 1704. Use of local currency payment
 
 **(a) In general**
 
@@ -661,9 +661,9 @@ To make payments of United States obligations (including obligations entered int
 
 **(8) Safe water and sanitation**
 
-To provide assistance under section 2152h 1
+To provide assistance under section 2152h 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 22 to promote good health, economic development, poverty reduction, women’s empowerment, conflict prevention, and environmental sustainability by increasing affordable and equitable access to safe water and sanitation.
 
@@ -677,7 +677,7 @@ Section 1306 of title 31 shall not apply to local currencies used by the Preside
 
 Any department or agency of the Federal Government other than the Department of Agriculture using any such local currencies for a purpose for which funds have been appropriated shall reimburse the Commodity Credit Corporation in an amount equivalent to the dollar value of the currencies used.
 
-(July 10, 1954, ch. 469, title I, § 104, 68 Stat. 456; Aug. 26, 1954, ch. 937, title V, § 544(h), (i), as added July 18, 1956, ch. 627, § 11(a), 70 Stat. 564, 565; amended Aug. 3, 1956, ch. 933, § 2, 70 Stat. 988; Pub. L. 85–128, § 1(4), Aug. 13, 1957, 71 Stat. 345; Aug. 26, 1954, ch. 937, title V, § 544(c), as added Pub. L. 85–141, § 11(b)(2), Aug. 14, 1957, 71 Stat. 365; Pub. L. 85–477, ch. V, § 502(*l*), June 30, 1958, 72 Stat. 275; Pub. L. 85–931, § 3, Sept. 6, 1958, 72 Stat. 1790; Pub. L. 86–108, ch. VII, § 701(d), July 24, 1959, 73 Stat. 258; Pub. L. 86–341, title I, §§ 4–9, Sept. 21, 1959, 73 Stat. 606, 607; Pub. L. 87–128, title II, § 201(3), Aug. 8, 1961, 75 Stat. 306; Pub. L. 87–195, pt. III, § 612(b), pt. IV, § 704, Sept. 4, 1961, 75 Stat. 443, 463; Pub. L. 87–839, § 2, Oct. 18, 1962, 76 Stat. 1074; Pub. L. 88–205, pt. III, § 301(d)(2), Dec. 16, 1963, 77 Stat. 386; Pub. L. 88–638, §§ 1(6)–(10), 2, Oct. 8, 1964, 78 Stat. 1035–1038; Pub. L. 89–106, § 5, Aug. 4, 1965, 79 Stat. 432; Pub. L. 89–808, § 2(B), Nov. 11, 1966, 80 Stat. 1528; Pub. L. 90–436, §§ 2(a), 3, 6, July 29, 1968, 82 Stat. 450, 451; Pub. L. 91–524, title VII, § 702, Nov. 30, 1970, 84 Stat. 1379; Pub. L. 94–161, title II, § 204, Dec. 20, 1975, 89 Stat. 852; Pub. L. 96–53, title I, § 121, Aug. 14, 1979, 93 Stat. 366; Pub. L. 97–113, title IV, §§ 401(5), 402, Dec. 29, 1981, 95 Stat. 1537; Pub. L. 100–418, title IV, § 4401, Aug. 23, 1988, 102 Stat. 1400; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3635; Pub. L. 104–127, title II, § 205, Apr. 4, 1996, 110 Stat. 953; Pub. L. 109–121, § 5(b), Dec. 1, 2005, 119 Stat. 2537; Pub. L. 110–246, title III, § 3006, June 18, 2008, 122 Stat. 1822.)
+(July 10, 1954, ch. 469, title I, § 104, 68 Stat. 456; Aug. 26, 1954, ch. 937, title V, § 544(h), (i), as added July 18, 1956, ch. 627, § 11(a), 70 Stat. 564, 565; amended Aug. 3, 1956, ch. 933, § 2, 70 Stat. 988; Pub. L. 85–128, § 1(4), Aug. 13, 1957, 71 Stat. 345; Aug. 26, 1954, ch. 937, title V, § 544(c), as added Pub. L. 85–141, § 11(b)(2), Aug. 14, 1957, 71 Stat. 365; Pub. L. 85–477, ch. V, § 502(*l*), June 30, 1958, 72 Stat. 275; Pub. L. 85–931, § 3, Sept. 6, 1958, 72 Stat. 1790; Pub. L. 86–108, ch. VII, § 701(d), July 24, 1959, 73 Stat. 258; Pub. L. 86–341, title I, §§ 4–9, Sept. 21, 1959, 73 Stat. 606, 607; Pub. L. 87–128, title II, § 201(3), Aug. 8, 1961, 75 Stat. 306; Pub. L. 87–195, pt. III, § 612(b), pt. IV, § 704, Sept. 4, 1961, 75 Stat. 443, 463; Pub. L. 87–839, § 2, Oct. 18, 1962, 76 Stat. 1074; Pub. L. 88–205, pt. III, § 301(d)(2), Dec. 16, 1963, 77 Stat. 386; Pub. L. 88–638, §§ 1(6)–(10), 2, Oct. 8, 1964, 78 Stat. 1035–1038; Pub. L. 89–106, § 5, Aug. 4, 1965, 79 Stat. 432; Pub. L. 89–808, § 2(B), Nov. 11, 1966, 80 Stat. 1528; Pub. L. 90–436, §§ 2(a), 3, 6, July 29, 1968, 82 Stat. 450, 451; Pub. L. 91–524, title VII, § 702, Nov. 30, 1970, 84 Stat. 1379; Pub. L. 94–161, title II, § 204, Dec. 20, 1975, 89 Stat. 852; Pub. L. 96–53, title I, § 121, Aug. 14, 1979, 93 Stat. 366; Pub. L. 97–113, title IV, §§ 401(5), 402, Dec. 29, 1981, 95 Stat. 1537; Pub. L. 100–418, title IV, § 4401, Aug. 23, 1988, 102 Stat. 1400; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3635; Pub. L. 104–127, title II, § 205, Apr. 4, 1996, 110 Stat. 953; Pub. L. 109–121, § 5(b), Dec. 1, 2005, 119 Stat. 2537; Pub. L. 110–246, title III, § 3006, June 18, 2008, 122 Stat. 1822.)
 
 **Editorial Notes**
 
@@ -687,33 +687,33 @@ Section 2152h of title 22, referred to in subsec. (c)(8), was in the original �
 
 **Amendments**
 
-2008—Subsec. (c). Pub. L. 110–246, § 3006(7), redesignated pars. (2) to (9) as (1) to (8), respectively.
+2008—Subsec. (c). Pub. L. 110–246, § 3006(7), redesignated pars. (2) to (9) as (1) to (8), respectively.
 
-Pub. L. 110–246, § 3006(1), inserted “, through agreements with recipient governments, private voluntary organizations, and cooperatives,” after “developing country” in introductory provisions.
+Pub. L. 110–246, § 3006(1), inserted “, through agreements with recipient governments, private voluntary organizations, and cooperatives,” after “developing country” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 110–246, § 3006(2), struck out par. (1). Prior to amendment, text read as follows: “To carry out programs to help develop markets for United States agricultural commodities on a mutually beneficial basis in the appropriate developing country.”
+Subsec. (c)(1). Pub. L. 110–246, § 3006(2), struck out par. (1). Prior to amendment, text read as follows: “To carry out programs to help develop markets for United States agricultural commodities on a mutually beneficial basis in the appropriate developing country.”
 
-Subsec. (c)(2)(E). Pub. L. 110–246, § 3006(3), added subpar. (E).
+Subsec. (c)(2)(E). Pub. L. 110–246, § 3006(3), added subpar. (E).
 
-Subsec. (c)(3). Pub. L. 110–246, § 3006(4), substituted “development of agricultural businesses and agricultural trade capacity” for “agricultural business development and agricultural trade expansion”.
+Subsec. (c)(3). Pub. L. 110–246, § 3006(4), substituted “development of agricultural businesses and agricultural trade capacity” for “agricultural business development and agricultural trade expansion”.
 
-Subsec. (c)(4). Pub. L. 110–246, § 3006(5), struck out “, or otherwise increasing the consumption of and markets for, United States” before “agricultural products”.
+Subsec. (c)(4). Pub. L. 110–246, § 3006(5), struck out “, or otherwise increasing the consumption of and markets for, United States” before “agricultural products”.
 
-Subsec. (c)(5). Pub. L. 110–246, § 3006(6), inserted “to promote agricultural products produced in appropriate developing countries” after “trade fairs”.
+Subsec. (c)(5). Pub. L. 110–246, § 3006(6), inserted “to promote agricultural products produced in appropriate developing countries” after “trade fairs”.
 
 2005—Subsec. (c)(9). Pub. L. 109–121 added par. (9).
 
-1996—Subsec. (a). Pub. L. 104–127, § 205(1), substituted “developing country or private entity” for “recipient country”.
+1996—Subsec. (a). Pub. L. 104–127, § 205(1), substituted “developing country or private entity” for “recipient country”.
 
-Subsec. (c). Pub. L. 104–127, § 205(2), substituted “appropriate developing country” for “recipient country” in introductory provisions and pars. (1), (6), and (7), and “appropriate developing countries” for “recipient countries” in par. (3).
+Subsec. (c). Pub. L. 104–127, § 205(2), substituted “appropriate developing country” for “recipient country” in introductory provisions and pars. (1), (6), and (7), and “appropriate developing countries” for “recipient countries” in par. (3).
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing President to use local currencies received as payments to pay United States obligations, for agricultural market development, for educational and cultural exchange, for scientific activities, for purchase of real property abroad, for purchase of foreign books, periodicals, etc., for United States libraries, to meet emergency relief requirements, for loans to United States businesses for trade expansion and to firms for development of facilities increasing market for commodities, for loans to recipients to improve food production and marketing, to purchase goods and services for other friendly countries, to pay for food production assistance programs, for sale for dollars to United States citizens, to pay for animal and plant pest control, and provisions relating to application of section 1306 of title 31, and to use of currencies of which United States has amounts in excess of needs for next two fiscal years.
 
 1988—Subsec. (b)(1). Pub. L. 100–418 inserted “(including wood and processed wood products of the United States)” after first reference to “agricultural commodities”.
 
-1981—Pub. L. 97–113, § 401(5)(A), (B), substituted in introductory text “agreements for such sales entered into prior to January 1, 1972,” for “this subchapter” and struck out from penultimate proviso, par. (3), “except as provided in subsection (c) of this section),” after “foreign currencies”.
+1981—Pub. L. 97–113, § 401(5)(A), (B), substituted in introductory text “agreements for such sales entered into prior to January 1, 1972,” for “this subchapter” and struck out from penultimate proviso, par. (3), “except as provided in subsection (c) of this section),” after “foreign currencies”.
 
-Subsec. (d). Pub. L. 97–113, § 402, increased fiscal year limitation to $10,000,000 from $5,000,000.
+Subsec. (d). Pub. L. 97–113, § 402, increased fiscal year limitation to $10,000,000 from $5,000,000.
 
 1979—Subsec. (f). Pub. L. 96–53 substituted “Agency for International Development” for “Advisory Committee on Voluntary Foreign Aid”.
 
@@ -721,11 +721,11 @@ Subsec. (d). Pub. L. 97–113, § 402, increased fiscal year limitation to $10
 
 1970—Pub. L. 91–524 inserted provision allowing appropriation acts to specifically authorize the use of foreign currencies in the educational and cultural exchange program without requiring the appropriation of dollars for the purchase of those same foreign currencies.
 
-1968—Subsec. (b)(2). Pub. L. 90–436, § 3, authorized the financing with at least 2 percent of the total sales proceeds each year in each country of additional activities to strengthen the resources of American schools, colleges, universities, and other public and nonprofit private educational agencies for international studies and research pursuant to programs authorized by title VI of the National Defense Education Act, the Mutual Educational and Cultural Exchange Act of 1961, the International Education Act of 1966, the Higher Education Act of 1965, the Elementary and Secondary Education Act of 1965, the National Foundation on the Arts and the Humanities Act of 1965, and the Public Broadcasting Act of 1967.
+1968—Subsec. (b)(2). Pub. L. 90–436, § 3, authorized the financing with at least 2 percent of the total sales proceeds each year in each country of additional activities to strengthen the resources of American schools, colleges, universities, and other public and nonprofit private educational agencies for international studies and research pursuant to programs authorized by title VI of the National Defense Education Act, the Mutual Educational and Cultural Exchange Act of 1961, the International Education Act of 1966, the Higher Education Act of 1965, the Elementary and Secondary Education Act of 1965, the National Foundation on the Arts and the Humanities Act of 1965, and the Public Broadcasting Act of 1967.
 
-Subsec. (h). Pub. L. 90–436, § 2(a), inserted provision that not less than 5 percent of the total sales proceeds, if requested by the foreign country, be used for voluntary programs to control population growth.
+Subsec. (h). Pub. L. 90–436, § 2(a), inserted provision that not less than 5 percent of the total sales proceeds, if requested by the foreign country, be used for voluntary programs to control population growth.
 
-Subsec. (k). Pub. L. 90–436, § 6, added subsec. (k).
+Subsec. (k). Pub. L. 90–436, § 6, added subsec. (k).
 
 1966—Pub. L. 89–808, in introductory text, struck out “section 724 of title 31, or” after “Notwithstanding”, substituted “foreign countries or international organizations” for “friendly nations, or organizations of nations”, and inserted “in connection with sales for foreign currencies” after “accrue”.
 
@@ -789,55 +789,55 @@ Pub. L. 89–808 struck out pars. for establishment of an advisory committee and
 
 1965—Subsec. (a). Pub. L. 89–106 authorized the Secretary of Agriculture to release such amounts of the foreign currencies set aside for the market development program as he determined not to be needed, within a reasonable period of time, for that purpose.
 
-1964—Subsec. (c). Pub. L. 88–638, § 1(6), inserted “including internal security” and struck out “military” before “equipment”.
+1964—Subsec. (c). Pub. L. 88–638, § 1(6), inserted “including internal security” and struck out “military” before “equipment”.
 
-Subsec. (e). Pub. L. 88–638, § 1(7), substituted “currencies shall also be available to the maximum usable extent” for “not more than 25 per centum of the currencies received pursuant to each such agreement shall be available”.
+Subsec. (e). Pub. L. 88–638, § 1(7), substituted “currencies shall also be available to the maximum usable extent” for “not more than 25 per centum of the currencies received pursuant to each such agreement shall be available”.
 
-Subsec. (t). Pub. L. 88–638, § 2, redesignated subsec. (b) of section 612 of Pub. L. 87–195, as subsec. (t) of this section, inserted “For sale to United States citizens as provided herein”, substituted “the Foreign Assistance Act of 1961, as amended” for “this chapter”, and provided that except in the case of foreign currencies acquired under this subchapter, dollars received from the sale of foreign currencies shall be deposited to the account of the Commodity Credit Corporation and shall be treated as a reimbursement to such Corporation.
+Subsec. (t). Pub. L. 88–638, § 2, redesignated subsec. (b) of section 612 of Pub. L. 87–195, as subsec. (t) of this section, inserted “For sale to United States citizens as provided herein”, substituted “the Foreign Assistance Act of 1961, as amended” for “this chapter”, and provided that except in the case of foreign currencies acquired under this subchapter, dollars received from the sale of foreign currencies shall be deposited to the account of the Commodity Credit Corporation and shall be treated as a reimbursement to such Corporation.
 
-Pub. L. 88–638, § 1(8)–(10), established an advisory committee, specified its composition, directed it to review the status and usage of foreign currencies accruing under this subchapter and to make various recommendations, provided that the committee be consulted with respect to various matters, for the transmittal of certain proposals to congressional committees, and that any loan under this section shall bear interest as the President shall determine, within certain limits and taking various matters into consideration, and inserted “pursuant to agreements entered into on or before December 31, 1964 and to not less than 20 per centum in the aggregate of the foreign currencies which accrue pursuant to agreements entered into thereafter” in first proviso.
+Pub. L. 88–638, § 1(8)–(10), established an advisory committee, specified its composition, directed it to review the status and usage of foreign currencies accruing under this subchapter and to make various recommendations, provided that the committee be consulted with respect to various matters, for the transmittal of certain proposals to congressional committees, and that any loan under this section shall bear interest as the President shall determine, within certain limits and taking various matters into consideration, and inserted “pursuant to agreements entered into on or before December 31, 1964 and to not less than 20 per centum in the aggregate of the foreign currencies which accrue pursuant to agreements entered into thereafter” in first proviso.
 
 1963—Subsec. (t). Pub. L. 88–205 added subsec. (b) to section 612 of Pub. L. 87–195, which was designated as subsec. (t) of this section by Pub. L. 88–638.
 
 1962—Subsec. (m). Pub. L. 87–839 inserted “or section 1122b of title 46”.
 
-1961—Pub. L. 87–128, § 201(3)(a), inserted “, including principal and interest from loan repayments,” after “foreign currencies”, in opening provisions.
+1961—Pub. L. 87–128, § 201(3)(a), inserted “, including principal and interest from loan repayments,” after “foreign currencies”, in opening provisions.
 
-Subsec. (a). Pub. L. 87–128, § 201(3)(d), inserted, in second sentence, “each year” after “made” and “set aside in the amounts and kinds of foreign currencies specified by the Secretary of Agriculture and” after “be”, where “made” and “be” first appear; substituted, in third sentence, “Provision shall be made” for “Particular regard shall be given to provide” and “the Secretary of Agriculture determines to” for “may” and inserted “(not less than 2 per centum)” after “thereof”; inserted sentence concerning conversion of monies into foreign currencies and deposit in special Treasury account; and substituted, in last sentence, “the Secretary of Agriculture is authorized and directed to enter into agreements” for “agreements may be entered into”.
+Subsec. (a). Pub. L. 87–128, § 201(3)(d), inserted, in second sentence, “each year” after “made” and “set aside in the amounts and kinds of foreign currencies specified by the Secretary of Agriculture and” after “be”, where “made” and “be” first appear; substituted, in third sentence, “Provision shall be made” for “Particular regard shall be given to provide” and “the Secretary of Agriculture determines to” for “may” and inserted “(not less than 2 per centum)” after “thereof”; inserted sentence concerning conversion of monies into foreign currencies and deposit in special Treasury account; and substituted, in last sentence, “the Secretary of Agriculture is authorized and directed to enter into agreements” for “agreements may be entered into”.
 
 Subsec. (e). Pub. L. 87–195 substituted “procedures established by such agency as the President shall direct for loans mutually agreeable to said agency” for “procedures established by the Export-Import Bank for loans mutually agreeable to said bank”.
 
-Subsec. (s). Pub. L. 87–128, § 201(3)(c), added subsec. (s).
+Subsec. (s). Pub. L. 87–128, § 201(3)(c), added subsec. (s).
 
-Pub. L. 87–128, § 201(3)(b), substituted in final proviso “pursuant to” for “for the purpose of subsection (p) of this section, except in such amounts as may be specified from time to time in appropriation Acts, and no foreign currencies shall be allocated under any provision of this chapter after June 30, 1960, for the purposes specified in”.
+Pub. L. 87–128, § 201(3)(b), substituted in final proviso “pursuant to” for “for the purpose of subsection (p) of this section, except in such amounts as may be specified from time to time in appropriation Acts, and no foreign currencies shall be allocated under any provision of this chapter after June 30, 1960, for the purposes specified in”.
 
-1959—Subsec. (a). Pub. L. 86–341, § 4, provided that from sale proceeds and loan repayments under this subchapter not less than the equivalent of 5 per centum of the total sales made under this subchapter after September 21, 1959, shall be made available in advance for use as provided by this subsection over such period of years as the Secretary of Agriculture determines will most effectively carry out the purposes of this subsection, prohibited the allocation of such funds after June 30, 1960, except as may be specified in appropriation acts, required particular regard to be given for provisions in sale and loan agreements for the convertibility of such amount of the proceeds thereof as may be needed to carry out the purpose of this subsection in those countries which are or offer reasonable potential of becoming dollar markets for United States agricultural commodities, and permitted the entering into agreements for the sale of surplus agricultural commodities in such amounts as the Secretary of Agriculture determines to be adequate and for the use of the proceeds to carry out the purpose of this subsection in cases where sufficient foreign currencies for carrying out the purpose of this subsection in such countries are not otherwise available.
+1959—Subsec. (a). Pub. L. 86–341, § 4, provided that from sale proceeds and loan repayments under this subchapter not less than the equivalent of 5 per centum of the total sales made under this subchapter after September 21, 1959, shall be made available in advance for use as provided by this subsection over such period of years as the Secretary of Agriculture determines will most effectively carry out the purposes of this subsection, prohibited the allocation of such funds after June 30, 1960, except as may be specified in appropriation acts, required particular regard to be given for provisions in sale and loan agreements for the convertibility of such amount of the proceeds thereof as may be needed to carry out the purpose of this subsection in those countries which are or offer reasonable potential of becoming dollar markets for United States agricultural commodities, and permitted the entering into agreements for the sale of surplus agricultural commodities in such amounts as the Secretary of Agriculture determines to be adequate and for the use of the proceeds to carry out the purpose of this subsection in cases where sufficient foreign currencies for carrying out the purpose of this subsection in such countries are not otherwise available.
 
-Subsec. (b). Pub. L. 86–341, § 5, among other changes, substituted “strategic or other materials” for “strategic and critical materials” in two places, limited purchases or contracts to purchase to such amounts as may be specified from time to time in appropriation acts, and eliminated provisions which authorized contracts, including advance payment contracts, for supply extending over periods up to ten years, and which permitted the strategic and critical materials acquired under authority of this subchapter to be additional to the amounts acquired under authority of the Strategic and Critical Materials Stockpile Act.
+Subsec. (b). Pub. L. 86–341, § 5, among other changes, substituted “strategic or other materials” for “strategic and critical materials” in two places, limited purchases or contracts to purchase to such amounts as may be specified from time to time in appropriation acts, and eliminated provisions which authorized contracts, including advance payment contracts, for supply extending over periods up to ten years, and which permitted the strategic and critical materials acquired under authority of this subchapter to be additional to the amounts acquired under authority of the Strategic and Critical Materials Stockpile Act.
 
-Subsec. (k). Pub. L. 86–341, § 6, authorized the use of foreign currencies to promote and support programs of medical and scientific research, cultural and educational development, health, nutrition, and sanitation.
+Subsec. (k). Pub. L. 86–341, § 6, authorized the use of foreign currencies to promote and support programs of medical and scientific research, cultural and educational development, health, nutrition, and sanitation.
 
-Pub. L. 86–108 substituted “conduct research and support” for “conduct and support”, and “: *Provided*, That foreign currencies shall be available for the purposes of this subsection (in addition to funds otherwise made available for such purposes) only in such amounts as may be specified from time to time in appropriation Acts;” for “, but no foreign currencies shall be used for the purposes of this subsection unless specific appropriations be made therefor;”.
+Pub. L. 86–108 substituted “conduct research and support” for “conduct and support”, and “: *Provided*, That foreign currencies shall be available for the purposes of this subsection (in addition to funds otherwise made available for such purposes) only in such amounts as may be specified from time to time in appropriation Acts;” for “, but no foreign currencies shall be used for the purposes of this subsection unless specific appropriations be made therefor;”.
 
-Subsec. (*o*). Pub. L. 86–341, § 7, struck out provisions which permitted the use of foreign currencies in the supporting of workshops in American studies or American educational techniques, and supporting chairs in American studies. See subsec. (p) of this section.
+Subsec. (*o*). Pub. L. 86–341, § 7, struck out provisions which permitted the use of foreign currencies in the supporting of workshops in American studies or American educational techniques, and supporting chairs in American studies. See subsec. (p) of this section.
 
-Subsecs. (p) to (r). Pub. L. 86–341, § 8, added subsecs. (p) to (r).
+Subsecs. (p) to (r). Pub. L. 86–341, § 8, added subsecs. (p) to (r).
 
-Pub. L. 86–341, § 9, inserted proviso in closing provisions limiting availability of foreign currencies for the purpose of subsec. (p) of this section to such amounts as may be specified from time to time in appropriation Acts, and prohibiting allocation of foreign currencies after June 30, 1960, for the purposes specified in subsections (k), (p), and (r) of this section to such amounts as may be specified from time to time in appropriation Acts.
+Pub. L. 86–341, § 9, inserted proviso in closing provisions limiting availability of foreign currencies for the purpose of subsec. (p) of this section to such amounts as may be specified from time to time in appropriation Acts, and prohibiting allocation of foreign currencies after June 30, 1960, for the purposes specified in subsections (k), (p), and (r) of this section to such amounts as may be specified from time to time in appropriation Acts.
 
-1958—Subsec. (h). Pub. L. 85–931, § 3(a), authorized use of foreign currencies to finance programs for interchange of persons between United States and foreign countries.
+1958—Subsec. (h). Pub. L. 85–931, § 3(a), authorized use of foreign currencies to finance programs for interchange of persons between United States and foreign countries.
 
 Subsec. (k). Pub. L. 85–477 added subsec. (k).
 
-Subsecs. (*l*) to (*o*). Pub. L. 85–931, § 3(b), added subsecs. (*l*) to (*o*).
+Subsecs. (*l*) to (*o*). Pub. L. 85–931, § 3(b), added subsecs. (*l*) to (*o*).
 
 1957—Subsec. (e). Pub. L. 85–128 provided that not more than 25 percent of the currencies received pursuant to each agreement be available through the Export-Import Bank for loans mutually agreeable to said bank and the country with which the agreement is made for business development in such countries and for loans to domestic or foreign firms for facilities to aid markets for United States agricultural products, provided no such loans be made for the manufacture of products to be exported to United States in competition with United States products or for manufacture or production of any commodity to be marketed in competition with United States agricultural commodities or products thereof, and that foreign currencies may be accepted in repayment of such loans.
 
-Subsec. (h). Pub. L. 85–141, § 11(b)(2), added section 544(c) to act Aug. 26, 1954, which section inserted provisions in this subsection authorizing the setting aside of amounts from sale proceeds and loan repayments.
+Subsec. (h). Pub. L. 85–141, § 11(b)(2), added section 544(c) to act Aug. 26, 1954, which section inserted provisions in this subsection authorizing the setting aside of amounts from sale proceeds and loan repayments.
 
 1956—Subsec. (h). Act July 18, 1956, added section 544(h) to act Aug. 26, 1954, which section inserted provisions in this section relating to allocation of funds and to the special and particular effort to be made to provide for the purposes of this subsection.
 
-Subsec. (i). Act Aug. 26, 1954, § 544(i), as added by act July 18, 1956, added subsec. (i).
+Subsec. (i). Act Aug. 26, 1954, § 544(i), as added by act July 18, 1956, added subsec. (i).
 
 Subsec. (j). Act Aug. 3, 1956, added subsec. (j).
 
@@ -863,13 +863,13 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
 Section 704 of Pub. L. 87–195, cited as a credit to this section, was repealed by section 401 of Pub. L. 87–565, pt. IV, Aug. 1, 1962, 76 Stat. 263, except insofar as section 704 affected this section.
 
-Pub. L. 85–477, ch. IV, § 401(h), June 30, 1958, 72 Stat. 270, repealed section 544(c) of act Aug. 26, 1954, cited as a credit to this section, except insofar as such section 544(c) affected this section.
+Pub. L. 85–477, ch. IV, § 401(h), June 30, 1958, 72 Stat. 270, repealed section 544(c) of act Aug. 26, 1954, cited as a credit to this section, except insofar as such section 544(c) affected this section.
 
-Pub. L. 85–141, § 11(b)(1), repealed section 544(h), (i) of act Aug. 26, 1954, cited as a credit to this section, except insofar as such section 544(h), (i) affected this section.
+Pub. L. 85–141, § 11(b)(1), repealed section 544(h), (i) of act Aug. 26, 1954, cited as a credit to this section, except insofar as such section 544(h), (i) affected this section.
 
 **Payment From Foreign Currencies for Family Housing Projects or Community Facilities Constructed or Acquired by Department of Defense**
 
-Pub. L. 86–500, title V, § 509, June 8, 1960, 74 Stat. 186, as amended by Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821, provided that:
+Pub. L. 86–500, title V, § 509, June 8, 1960, 74 Stat. 186, as amended by Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821, provided that:
 
 > “Notwithstanding the provisions of any other law, at least 75 per centum of the total cost of any family housing project or community facility hereafter constructed or acquired in any foreign country by the Department of Defense or any military department shall be paid for from foreign currencies acquired by the Commodity Credit Corporation pursuant to the provisions of the Food for Peace Act [this chapter]; except that the following projects authorized pursuant to this Act shall not be subject to this requirement:
 
@@ -889,7 +889,7 @@ Pub. L. 86–500, title V, § 509, June 8, 1960, 74 Stat. 186, as amended by P
 
 **Limitation on Use of Foreign Currencies for Participation in Trade, Agricultural and Horticultural Fairs**
 
-Pub. L. 86–30, title I, § 101, May 20, 1959, 73 Stat. 35, as amended by Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821, provided that: “Subject to allocation in such manner as may now or hereafter be prescribed by the President, foreign currencies which have accrued under title I of the Food for Peace Act, as amended (7 U.S.C. 1704) [this section] may be used without fiscal year limitation for the purposes of section 104(m) of that Act [former subsec. (m) of this section], including administrative expenses directly related thereto, in an amount not to exceed the equivalent of $1,275,000.”
+Pub. L. 86–30, title I, § 101, May 20, 1959, 73 Stat. 35, as amended by Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821, provided that: “Subject to allocation in such manner as may now or hereafter be prescribed by the President, foreign currencies which have accrued under title I of the Food for Peace Act, as amended (7 U.S.C. 1704) [this section] may be used without fiscal year limitation for the purposes of section 104(m) of that Act [former subsec. (m) of this section], including administrative expenses directly related thereto, in an amount not to exceed the equivalent of $1,275,000.”
 
 **International Cooperation in Health Research, Research Training, and Research Planning**
 
@@ -897,13 +897,13 @@ Use of foreign currencies accruing under this subchapter to carry out purposes o
 
 **Use of Foreign Currencies**
 
-Foreign currencies accruing to United States under this subchapter may be used for purposes set forth in this section, see Ex. Ord. No. 12752, § 2(b)(1), (2), Feb. 25, 1991, 56 F.R. 8255, set out as a note under section 1691 of this title.
+Foreign currencies accruing to United States under this subchapter may be used for purposes set forth in this section, see Ex. Ord. No. 12752, § 2(b)(1), (2), Feb. 25, 1991, 56 F.R. 8255, set out as a note under section 1691 of this title.
 
-### § 1704a. Agreements for use of foreign currencies; reports to Congress
+### § 1704a. Agreements for use of foreign currencies; reports to Congress
 
 Within sixty days after any agreement is entered into for the use of any foreign currencies, a full report thereon shall be made to the Senate and the House of Representatives of the United States and to the Committees on Agriculture and Appropriations thereof.
 
-(Pub. L. 85–128, § 1(5), Aug. 13, 1957, 71 Stat. 345.)
+(Pub. L. 85–128, § 1(5), Aug. 13, 1957, 71 Stat. 345.)
 
 **Editorial Notes**
 
@@ -917,9 +917,9 @@ Section was not enacted as part of the Food for Peace Act which comprises this c
 
 For provisions requiring Secretary of Agriculture and Administrator of Agency for International Development to transmit reports required by this section as related to use of foreign currencies accruing under subchapters II and III–A of this chapter, see section 2(b)(3) of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8255, set out as a note under section 1691 of this title.
 
-### § 1704b. Repealed. Pub. L. 97–214, § 7(4), July 12, 1982, 96 Stat. 173
+### § 1704b. Repealed. Pub. L. 97–214, § 7(4), July 12, 1982, 96 Stat. 173
 
-Section, Pub. L. 86–149, title IV, § 420, Aug. 10, 1959, 73 Stat. 324, related to utilization of foreign currencies for construction of military projects and reimbursement of Commodity Credit Corporation.
+Section, Pub. L. 86–149, title IV, § 420, Aug. 10, 1959, 73 Stat. 324, related to utilization of foreign currencies for construction of military projects and reimbursement of Commodity Credit Corporation.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -927,17 +927,17 @@ Section, Pub. L. 86–149, title IV, § 420, Aug. 10, 1959, 73 Stat. 324, rela
 
 Repeal effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of Title 10, Armed Forces.
 
-### § 1704c. Payments by Secretary of Defense in liquidation of amount due for foreign currencies
+### § 1704c. Payments by Secretary of Defense in liquidation of amount due for foreign currencies
 
 The Secretary of Defense shall pay to the Commodity Credit Corporation an amount not to exceed $6,000,000 per year until the amount due for foreign currencies used for housing constructed or acquired under title II of the Food for Peace Act (7 U.S.C. 1721–1726) has been liquidated.
 
-(Pub. L. 97–214, § 9(a), July 12, 1982, 96 Stat. 174; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(C), June 18, 2008, 122 Stat. 1820.)
+(Pub. L. 97–214, § 9(a), July 12, 1982, 96 Stat. 174; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(C), June 18, 2008, 122 Stat. 1820.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food for Peace Act (7 U.S.C. 1721–1726), referred to in text, is act July 10, 1954, ch. 469, 68 Stat. 457. Title II of the Act is classified generally to subchapter III (§ 1721 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
+The Food for Peace Act (7 U.S.C. 1721–1726), referred to in text, is act July 10, 1954, ch. 469, 68 Stat. 457. Title II of the Act is classified generally to subchapter III (§ 1721 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
 
 **Codification**
 
@@ -959,69 +959,69 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 Section effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing before, on or after such date, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of Title 10, Armed Forces.
 
-### §§ 1705, 1706. Repealed. Pub. L. 104–127, title II, §§ 206, 265(a), Apr. 4, 1996, 110 Stat. 953, 974
+### §§ 1705, 1706. Repealed. Pub. L. 104–127, title II, §§ 206, 265(a), Apr. 4, 1996, 110 Stat. 953, 974
 
-Section 1705, acts July 10, 1954, ch. 469, title I, § 105, 68 Stat. 457; Dec. 16, 1963, Pub. L. 88–205, pt. IV, § 403(b), 77 Stat. 390; Nov. 11, 1966, Pub. L. 89–808, § 2(B), 80 Stat. 1532; Dec. 23, 1985, Pub. L. 99–198, title XI, § 1111(e), 99 Stat. 1475; Nov. 28, 1990, Pub. L. 101–624, title XV, § 1512, 104 Stat. 3636, set out congressional declaration of policy with regard to value-added foods.
+Section 1705, acts July 10, 1954, ch. 469, title I, § 105, 68 Stat. 457; Dec. 16, 1963, Pub. L. 88–205, pt. IV, § 403(b), 77 Stat. 390; Nov. 11, 1966, Pub. L. 89–808, § 2(B), 80 Stat. 1532; Dec. 23, 1985, Pub. L. 99–198, title XI, § 1111(e), 99 Stat. 1475; Nov. 28, 1990, Pub. L. 101–624, title XV, § 1512, 104 Stat. 3636, set out congressional declaration of policy with regard to value-added foods.
 
-Section 1706, Pub. L. 101–624, title XV, § 1517, Nov. 28, 1990, 104 Stat. 3664, related to debt-for-health-and-protection swap.
+Section 1706, Pub. L. 101–624, title XV, § 1517, Nov. 28, 1990, 104 Stat. 3664, related to debt-for-health-and-protection swap.
 
-A prior section 1706, acts July 10, 1954, ch. 469, title I, § 106, 68 Stat. 457; Aug. 12, 1955, ch. 873, § 2, 69 Stat. 721; Aug. 8, 1961, Pub. L. 87–128, title II, § 201(4), 75 Stat. 307; Dec. 16, 1963, Pub. L. 88–205, pt. IV, § 403 (c)(1), 77 Stat. 390; Nov. 11, 1966, Pub. L. 89–808, § 2(B), 80 Stat. 1532; Dec. 20, 1975, Pub. L. 94–161, title II, § 205, 89 Stat. 852; Aug. 3, 1977, Pub. L. 95–88, title II, § 211(b)(2), 91 Stat. 551; Oct. 6, 1978, Pub. L. 95–424, title I, § 102(b)(2)(C), 92 Stat. 941; Dec. 29, 1981, Pub. L. 97–113, title IV, § 401(6), 95 Stat. 1537; Dec. 23, 1985, Pub. L. 99–198, title XI, § 1111(f), (g), 99 Stat. 1475, related to payments for commodities and use of proceeds prior to the general revision of this chapter by Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3633.
+A prior section 1706, acts July 10, 1954, ch. 469, title I, § 106, 68 Stat. 457; Aug. 12, 1955, ch. 873, § 2, 69 Stat. 721; Aug. 8, 1961, Pub. L. 87–128, title II, § 201(4), 75 Stat. 307; Dec. 16, 1963, Pub. L. 88–205, pt. IV, § 403 (c)(1), 77 Stat. 390; Nov. 11, 1966, Pub. L. 89–808, § 2(B), 80 Stat. 1532; Dec. 20, 1975, Pub. L. 94–161, title II, § 205, 89 Stat. 852; Aug. 3, 1977, Pub. L. 95–88, title II, § 211(b)(2), 91 Stat. 551; Oct. 6, 1978, Pub. L. 95–424, title I, § 102(b)(2)(C), 92 Stat. 941; Dec. 29, 1981, Pub. L. 97–113, title IV, § 401(6), 95 Stat. 1537; Dec. 23, 1985, Pub. L. 99–198, title XI, § 1111(f), (g), 99 Stat. 1475, related to payments for commodities and use of proceeds prior to the general revision of this chapter by Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3633.
 
-### § 1707. Omitted
-
-**Editorial Notes**
-
-**Codification**
-
-Section, acts July 10, 1954, ch. 469, title I, § 107, 68 Stat. 457; Oct. 8, 1964, Pub. L. 88–638, § 1(11), 78 Stat. 1036; Sept. 6, 1965, Pub. L. 89–171, pt. III, § 401, 79 Stat. 662; Nov. 11, 1966, Pub. L. 89–808, § 2(B), 80 Stat. 1532, relating to policy of encouraging overseas sales of commodities, was omitted in the general revision of this chapter by Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3633.
-
-### § 1707a. Repealed. Pub. L. 101–624, title XV, § 1574, Nov. 28, 1990, 104 Stat. 3702
-
-Section, Pub. L. 89–808, § 4, Nov. 11, 1966, 80 Stat. 1538; Pub. L. 95–501, title I, § 101, Oct. 21, 1978, 92 Stat. 1685; Pub. L. 97–98, title XII, § 1201, Dec. 22, 1981, 95 Stat. 1274; Pub. L. 98–623, title IV, § 405(c), Nov. 8, 1984, 98 Stat. 3409; Pub. L. 99–198, title XI, §§ 1130, 1131, Dec. 23, 1985, 99 Stat. 1486; Pub. L. 100–418, title IV, § 4402(b), Aug. 23, 1988, 102 Stat. 1400, provided for an export credit sales program. See section 5621 et seq. of this title.
-
-### §§ 1707b to 1707d. Omitted
+### § 1707. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Sections were omitted as part of the complete revision of the Agricultural Trade Act of 1978 (Pub. L. 95–501) by Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3668. See chapter 87 (§ 5601 et seq.) of this title.
+Section, acts July 10, 1954, ch. 469, title I, § 107, 68 Stat. 457; Oct. 8, 1964, Pub. L. 88–638, § 1(11), 78 Stat. 1036; Sept. 6, 1965, Pub. L. 89–171, pt. III, § 401, 79 Stat. 662; Nov. 11, 1966, Pub. L. 89–808, § 2(B), 80 Stat. 1532, relating to policy of encouraging overseas sales of commodities, was omitted in the general revision of this chapter by Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3633.
 
-Section 1707b, Pub. L. 95–501, title II, § 201, Oct. 21, 1978, 92 Stat. 1686, provided for a program of deferred payment sales of agricultural commodities.
+### § 1707a. Repealed. Pub. L. 101–624, title XV, § 1574, Nov. 28, 1990, 104 Stat. 3702
 
-Section 1707c, Pub. L. 95–501, title II, § 202, Oct. 21, 1978, 92 Stat. 1687, provided for a program of credit sales to People’s Republic of China.
+Section, Pub. L. 89–808, § 4, Nov. 11, 1966, 80 Stat. 1538; Pub. L. 95–501, title I, § 101, Oct. 21, 1978, 92 Stat. 1685; Pub. L. 97–98, title XII, § 1201, Dec. 22, 1981, 95 Stat. 1274; Pub. L. 98–623, title IV, § 405(c), Nov. 8, 1984, 98 Stat. 3409; Pub. L. 99–198, title XI, §§ 1130, 1131, Dec. 23, 1985, 99 Stat. 1486; Pub. L. 100–418, title IV, § 4402(b), Aug. 23, 1988, 102 Stat. 1400, provided for an export credit sales program. See section 5621 et seq. of this title.
 
-Section 1707d, Pub. L. 95–501, title II, § 203, Oct. 21, 1978, 92 Stat. 1687, defined “agricultural commodity”.
-
-### §§ 1708 to 1715. Omitted
+### §§ 1707b to 1707d. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Sections were omitted in the general revision of this chapter by Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3633.
+Sections were omitted as part of the complete revision of the Agricultural Trade Act of 1978 (Pub. L. 95–501) by Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3668. See chapter 87 (§ 5601 et seq.) of this title.
 
-Section 1708, act July 10, 1954, ch. 469, title I, § 108, as added Dec. 23, 1985, Pub. L. 99–198, title XI, § 1111(h), 99 Stat. 1476; amended Aug. 23, 1988, Pub. L. 100–418, title II, § 2309, 102 Stat. 1346, related to agreements with financial intermediaries in developing countries for purchase of commodities.
+Section 1707b, Pub. L. 95–501, title II, § 201, Oct. 21, 1978, 92 Stat. 1686, provided for a program of deferred payment sales of agricultural commodities.
 
-A prior section 1708, acts July 10, 1954, ch. 469, title I, § 108, 68 Stat. 457; Oct. 8, 1964, Pub. L. 88–638, § 1(12), 78 Stat. 1037; Nov. 11, 1966, Pub. L. 89–808, § 2(B), 80 Stat. 1533, which authorized Commodity Credit Corporation to finance ocean freight charges pursuant to agreements for sales of agricultural commodities for foreign currencies, was repealed by Pub. L. 97–113, title IV, § 401(7), Dec. 29, 1981, 95 Stat. 1537.
+Section 1707c, Pub. L. 95–501, title II, § 202, Oct. 21, 1978, 92 Stat. 1687, provided for a program of credit sales to People’s Republic of China.
 
-Section 1709, acts July 10, 1954, ch. 469, title I, § 109, 68 Stat. 457; Aug. 13, 1957, Pub. L. 85–128, § 1(1), 71 Stat. 345; Sept. 6, 1958, Pub. L. 85–931, § 4, 72 Stat. 1791; Sept. 21, 1959, Pub. L. 86–341, title I, § 1, 73 Stat. 606; Aug. 8, 1961, Pub. L. 87–128, title II, § 201(5), 75 Stat. 307; Oct. 8, 1964, Pub. L. 88–638, § 1(15), 78 Stat. 1037; Nov. 11, 1966, Pub. L. 89–808, § 2(B), 80 Stat. 1533; July 29, 1968, Pub. L. 90–436, § 2(b), 82 Stat. 450; Dec. 20, 1975, Pub. L. 94–161, title II, § 206, 89 Stat. 853; Dec. 22, 1981, Pub. L. 97–98, title XII, § 1210, 95 Stat. 1281; Dec. 29, 1981, Pub. L. 97–113, title IV, § 401(8), 95 Stat. 1537; Dec. 23, 1985, Pub. L. 99–198, title XI, § 1112(a)(1), 99 Stat. 1478; Dec. 22, 1987, Pub. L. 100–202, § 10, 101 Stat. 1329–448, related to self-help measures developing countries should take before entering into agreements for purchases of commodities.
+Section 1707d, Pub. L. 95–501, title II, § 203, Oct. 21, 1978, 92 Stat. 1687, defined “agricultural commodity”.
 
-Section 1710, act July 10, 1954, ch. 469, title I, § 110, as added Nov. 11, 1966, Pub. L. 89–808, § 2(B), 80 Stat. 1534, limited agreements under this subchapter so that they would not call for appropriations of more than $1,900,000,000 for any calendar year.
+### §§ 1708 to 1715. Omitted
 
-Section 1711, act July 10, 1954, ch. 469, title I, § 111, as added Dec. 20, 1975, Pub. L. 94–161, title II, § 207, 89 Stat. 853; amended Aug. 3, 1977, Pub. L. 95–88, title II, § 202, 91 Stat. 545, restricted 75% of food aid under this subchapter to countries meeting International Development Association poverty criterion.
+**Editorial Notes**
 
-Section 1712, act July 10, 1954, ch. 469, title I, § 112, as added Aug. 3, 1977, Pub. L. 95–88, title II, § 203, 91 Stat. 545; amended H. Res. 89, Feb. 5, 1979; Dec. 16, 1980, Pub. L. 96–533, title VII, § 701(c), 94 Stat. 3156, prohibited financing of commodity sales to foreign governments engaging in gross violations of human rights.
+**Codification**
 
-Section 1713, act July 10, 1954, ch. 469, title I, § 113, as added Aug. 3, 1977, Pub. L. 95–88, title II, § 204, 91 Stat. 546, required priority to be given to financing sales of food and fiber commodities.
+Sections were omitted in the general revision of this chapter by Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3633.
 
-Section 1714, act July 10, 1954, ch. 469, title I, § 114, as added Aug. 3, 1977, Pub. L. 95–88, title II, § 205, 91 Stat. 546, related to provision of high protein, blended and fortified foods to developing countries, and waiver of repayments.
+Section 1708, act July 10, 1954, ch. 469, title I, § 108, as added Dec. 23, 1985, Pub. L. 99–198, title XI, § 1111(h), 99 Stat. 1476; amended Aug. 23, 1988, Pub. L. 100–418, title II, § 2309, 102 Stat. 1346, related to agreements with financial intermediaries in developing countries for purchase of commodities.
 
-Section 1715, act July 10, 1954, ch. 469, title I, § 115, as added Sept. 29, 1977, Pub. L. 95–113, title XII, § 1202, 91 Stat. 955; amended H. Res. 89, Feb. 5, 1979; Dec. 22, 1981, Pub. L. 97–98, title XII, § 1211, 95 Stat. 1281, related to commodity sale procedures.
+A prior section 1708, acts July 10, 1954, ch. 469, title I, § 108, 68 Stat. 457; Oct. 8, 1964, Pub. L. 88–638, § 1(12), 78 Stat. 1037; Nov. 11, 1966, Pub. L. 89–808, § 2(B), 80 Stat. 1533, which authorized Commodity Credit Corporation to finance ocean freight charges pursuant to agreements for sales of agricultural commodities for foreign currencies, was repealed by Pub. L. 97–113, title IV, § 401(7), Dec. 29, 1981, 95 Stat. 1537.
+
+Section 1709, acts July 10, 1954, ch. 469, title I, § 109, 68 Stat. 457; Aug. 13, 1957, Pub. L. 85–128, § 1(1), 71 Stat. 345; Sept. 6, 1958, Pub. L. 85–931, § 4, 72 Stat. 1791; Sept. 21, 1959, Pub. L. 86–341, title I, § 1, 73 Stat. 606; Aug. 8, 1961, Pub. L. 87–128, title II, § 201(5), 75 Stat. 307; Oct. 8, 1964, Pub. L. 88–638, § 1(15), 78 Stat. 1037; Nov. 11, 1966, Pub. L. 89–808, § 2(B), 80 Stat. 1533; July 29, 1968, Pub. L. 90–436, § 2(b), 82 Stat. 450; Dec. 20, 1975, Pub. L. 94–161, title II, § 206, 89 Stat. 853; Dec. 22, 1981, Pub. L. 97–98, title XII, § 1210, 95 Stat. 1281; Dec. 29, 1981, Pub. L. 97–113, title IV, § 401(8), 95 Stat. 1537; Dec. 23, 1985, Pub. L. 99–198, title XI, § 1112(a)(1), 99 Stat. 1478; Dec. 22, 1987, Pub. L. 100–202, § 10, 101 Stat. 1329–448, related to self-help measures developing countries should take before entering into agreements for purchases of commodities.
+
+Section 1710, act July 10, 1954, ch. 469, title I, § 110, as added Nov. 11, 1966, Pub. L. 89–808, § 2(B), 80 Stat. 1534, limited agreements under this subchapter so that they would not call for appropriations of more than $1,900,000,000 for any calendar year.
+
+Section 1711, act July 10, 1954, ch. 469, title I, § 111, as added Dec. 20, 1975, Pub. L. 94–161, title II, § 207, 89 Stat. 853; amended Aug. 3, 1977, Pub. L. 95–88, title II, § 202, 91 Stat. 545, restricted 75% of food aid under this subchapter to countries meeting International Development Association poverty criterion.
+
+Section 1712, act July 10, 1954, ch. 469, title I, § 112, as added Aug. 3, 1977, Pub. L. 95–88, title II, § 203, 91 Stat. 545; amended H. Res. 89, Feb. 5, 1979; Dec. 16, 1980, Pub. L. 96–533, title VII, § 701(c), 94 Stat. 3156, prohibited financing of commodity sales to foreign governments engaging in gross violations of human rights.
+
+Section 1713, act July 10, 1954, ch. 469, title I, § 113, as added Aug. 3, 1977, Pub. L. 95–88, title II, § 204, 91 Stat. 546, required priority to be given to financing sales of food and fiber commodities.
+
+Section 1714, act July 10, 1954, ch. 469, title I, § 114, as added Aug. 3, 1977, Pub. L. 95–88, title II, § 205, 91 Stat. 546, related to provision of high protein, blended and fortified foods to developing countries, and waiver of repayments.
+
+Section 1715, act July 10, 1954, ch. 469, title I, § 115, as added Sept. 29, 1977, Pub. L. 95–113, title XII, § 1202, 91 Stat. 955; amended H. Res. 89, Feb. 5, 1979; Dec. 22, 1981, Pub. L. 97–98, title XII, § 1211, 95 Stat. 1281, related to commodity sale procedures.
 
 ## SUBCHAPTER III—EMERGENCY AND PRIVATE ASSISTANCE PROGRAMS
 
-### § 1721. General authority
+### § 1721. General authority
 
 The President shall establish a program under this subchapter (to be implemented by the Administrator) to provide agricultural commodities to foreign countries on behalf of the people of the United States to—
 
@@ -1039,7 +1039,7 @@ The President shall establish a program under this subchapter (to be implemented
 
 **(7)** build resilience to mitigate and prevent food crises and reduce the future need for emergency aid.
 
-(July 10, 1954, ch. 469, title II, § 201, 68 Stat. 457; May 28, 1956, ch. 327, title II, § 208(b), 70 Stat. 201; Aug. 3, 1956, ch. 933, § 4, 70 Stat. 988; Pub. L. 89–808, § 2(C), Nov. 11, 1966, 80 Stat. 1534; Pub. L. 94–161, title II, § 208, Dec. 20, 1975, 89 Stat. 853; Pub. L. 95–88, title II, § 206, Aug. 3, 1977, 91 Stat. 547; Pub. L. 97–113, title IV, § 404, Dec. 29, 1981, 95 Stat. 1538; Pub. L. 99–83, title X, § 1002, Aug. 8, 1985, 99 Stat. 270; Pub. L. 99–198, title XI, §§ 1102, 1103, Dec. 23, 1985, 99 Stat. 1465; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3636; Pub. L. 110–246, title III, § 3007, June 18, 2008, 122 Stat. 1823; Pub. L. 113–79, title III, § 3001, Feb. 7, 2014, 128 Stat. 772.)
+(July 10, 1954, ch. 469, title II, § 201, 68 Stat. 457; May 28, 1956, ch. 327, title II, § 208(b), 70 Stat. 201; Aug. 3, 1956, ch. 933, § 4, 70 Stat. 988; Pub. L. 89–808, § 2(C), Nov. 11, 1966, 80 Stat. 1534; Pub. L. 94–161, title II, § 208, Dec. 20, 1975, 89 Stat. 853; Pub. L. 95–88, title II, § 206, Aug. 3, 1977, 91 Stat. 547; Pub. L. 97–113, title IV, § 404, Dec. 29, 1981, 95 Stat. 1538; Pub. L. 99–83, title X, § 1002, Aug. 8, 1985, 99 Stat. 270; Pub. L. 99–198, title XI, §§ 1102, 1103, Dec. 23, 1985, 99 Stat. 1465; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3636; Pub. L. 110–246, title III, § 3007, June 18, 2008, 122 Stat. 1823; Pub. L. 113–79, title III, § 3001, Feb. 7, 2014, 128 Stat. 772.)
 
 **Editorial Notes**
 
@@ -1047,17 +1047,17 @@ The President shall establish a program under this subchapter (to be implemented
 
 2014—Pub. L. 113–79 inserted “(to be implemented by the Administrator)” after “under this subchapter” in introductory provisions and struck out concluding provisions which read as follows: “Such program shall be implemented by the Administrator.”
 
-Par. (7). Pub. L. 113–79, § 3001(2), added par. (7) and struck out former par. (7). Prior to amendment, par. (7) read as follows: “promote economic and nutritional security by increasing educational, training, and other productive activities.”
+Par. (7). Pub. L. 113–79, § 3001(2), added par. (7) and struck out former par. (7). Prior to amendment, par. (7) read as follows: “promote economic and nutritional security by increasing educational, training, and other productive activities.”
 
-2008—Par. (1). Pub. L. 110–246, § 3007(1), added par. (1) and struck out former par. (1) which read as follows: “address famine or other urgent or extraordinary relief requirements;”.
+2008—Par. (1). Pub. L. 110–246, § 3007(1), added par. (1) and struck out former par. (1) which read as follows: “address famine or other urgent or extraordinary relief requirements;”.
 
-Par. (5). Pub. L. 110–246, § 3007(2)(A), inserted “food security and support” after “promote”.
+Par. (5). Pub. L. 110–246, § 3007(2)(A), inserted “food security and support” after “promote”.
 
-Par. (7). Pub. L. 110–246, § 3007(2)(B)–(4), added par. (7).
+Par. (7). Pub. L. 110–246, § 3007(2)(B)–(4), added par. (7).
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions requiring President to furnish commodities to meet famine, combat malnutrition, promote economic development in friendly countries, and for needy persons and school lunch and preschool feeding programs, setting minimum quantity for distribution, requiring use of certain distribution networks, requiring President to consider benefits of distributing processed and protein-fortified foods, nutritional needs of recipients, cost effectiveness of particular commodities, and purposes of this subchapter, requiring that 75 percent of commodities distributed be in form of processed or fortified products or bagged commodities, and authorizing waiver of such 75 percent requirement.
 
-1985—Subsec. (b). Pub. L. 99–198, § 1102, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The minimum quantity of agricultural commodities distributed under this subchapter—
+1985—Subsec. (b). Pub. L. 99–198, § 1102, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The minimum quantity of agricultural commodities distributed under this subchapter—
 
 “(1) for fiscal years 1978 through 1980 shall be 1,600,000 metric tons, of which not less than 1,300,000 metric tons shall be distributed through nonprofit voluntary agencies and the World Food Program;
 
@@ -1069,7 +1069,7 @@ unless the President determines and reports to the Congress, together with his r
 
 Pub. L. 99–83 inserted provisions relating to minimum quantities for fiscal years 1986 and 1987.
 
-Subsec. (c). Pub. L. 99–198, § 1103, added subsec. (c).
+Subsec. (c). Pub. L. 99–198, § 1103, added subsec. (c).
 
 1981—Subsec. (b)(3). Pub. L. 97–113 substituted “1,200,000 metric tons for nonemergency programs” for “1,400,000 metric tons”.
 
@@ -1107,7 +1107,7 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
 **Nonemergency Food Assistance Programs**
 
-Pub. L. 105–385, title II, § 201, Nov. 13, 1998, 112 Stat. 3465, as amended by Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(D), June 18, 2008, 122 Stat. 1820, provided that:
+Pub. L. 105–385, title II, § 201, Nov. 13, 1998, 112 Stat. 3465, as amended by Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(D), June 18, 2008, 122 Stat. 1820, provided that:
 
 > **“(a) In General.—** In providing nonemergency assistance under title II of the Food for Peace Act (7 U.S.C. 1721 et seq.), the Administrator of the United States Agency for International Development shall ensure that—
 
@@ -1129,9 +1129,9 @@ Pub. L. 85–683, Aug. 19, 1958, 72 Stat. 635, as authorizing Commodity Credit C
 
 **Implementation of Program**
 
-Program under this subchapter to provide for donation of agricultural commodities to foreign countries to be implemented by Administrator of the Agency for International Development, see Ex. Ord. No. 12752, § 1(b), Feb. 25, 1991, 56 F.R. 8255, set out as a note under section 1691 of this title.
+Program under this subchapter to provide for donation of agricultural commodities to foreign countries to be implemented by Administrator of the Agency for International Development, see Ex. Ord. No. 12752, § 1(b), Feb. 25, 1991, 56 F.R. 8255, set out as a note under section 1691 of this title.
 
-### § 1722. Provision of agricultural commodities
+### § 1722. Provision of agricultural commodities
 
 **(a) Emergency assistance**
 
@@ -1237,29 +1237,29 @@ Agricultural commodities and other assistance provided under this subchapter sha
 
 Of the funds made available under section 1726a(f) of this title,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 for fiscal years 2014 through 2023, not more than $4,500,000 may be used to carry out this subsection.
 
-(July 10, 1954, ch. 469, title II, § 202, 68 Stat. 458; Pub. L. 86–472, ch. VI, § 601(a)(1), May 14, 1960, 74 Stat. 140; Pub. L. 88–205, pt. IV, § 403(d), Dec. 16, 1963, 77 Stat. 390; Pub. L. 89–808, § 2(C), Nov. 11, 1966, 80 Stat. 1534; Pub. L. 95–88, title II, §§ 207, 208(a), Aug. 3, 1977, 91 Stat. 547; Pub. L. 96–53, title I, § 121, title II, § 202, Aug. 14, 1979, 93 Stat. 366, 368; Pub. L. 99–83, title X, §§ 1003, 1004(a), 1005, Aug. 8, 1985, 99 Stat. 270, 271; Pub. L. 100–202, § 11, Dec. 22, 1987, 101 Stat. 1329–448; Pub. L. 101–508, title I, § 1204(b)(1), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3636; Pub. L. 104–127, title II, § 207(a), Apr. 4, 1996, 110 Stat. 953; Pub. L. 107–171, title III, § 3002, May 13, 2002, 116 Stat. 280; Pub. L. 110–246, title III, § 3008, June 18, 2008, 122 Stat. 1823; Pub. L. 113–79, title III, §§ 3002, 3003, Feb. 7, 2014, 128 Stat. 773; Pub. L. 115–334, title III, §§ 3101, 3102, Dec. 20, 2018, 132 Stat. 4603, 4604.)
+(July 10, 1954, ch. 469, title II, § 202, 68 Stat. 458; Pub. L. 86–472, ch. VI, § 601(a)(1), May 14, 1960, 74 Stat. 140; Pub. L. 88–205, pt. IV, § 403(d), Dec. 16, 1963, 77 Stat. 390; Pub. L. 89–808, § 2(C), Nov. 11, 1966, 80 Stat. 1534; Pub. L. 95–88, title II, §§ 207, 208(a), Aug. 3, 1977, 91 Stat. 547; Pub. L. 96–53, title I, § 121, title II, § 202, Aug. 14, 1979, 93 Stat. 366, 368; Pub. L. 99–83, title X, §§ 1003, 1004(a), 1005, Aug. 8, 1985, 99 Stat. 270, 271; Pub. L. 100–202, § 11, Dec. 22, 1987, 101 Stat. 1329–448; Pub. L. 101–508, title I, § 1204(b)(1), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3636; Pub. L. 104–127, title II, § 207(a), Apr. 4, 1996, 110 Stat. 953; Pub. L. 107–171, title III, § 3002, May 13, 2002, 116 Stat. 280; Pub. L. 110–246, title III, § 3008, June 18, 2008, 122 Stat. 1823; Pub. L. 113–79, title III, §§ 3002, 3003, Feb. 7, 2014, 128 Stat. 773; Pub. L. 115–334, title III, §§ 3101, 3102, Dec. 20, 2018, 132 Stat. 4603, 4604.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (g). Pub. L. 115–334, § 3101, amended subsec. (g) generally. Prior to amendment, text read as follows: “Commodities provided under this subchapter shall, to the extent practicable, be clearly identified with appropriate markings on the package or container of such commodity in the language of the locality in which such commodities are distributed, as being furnished by the people of the United States of America.”
+2018—Subsec. (g). Pub. L. 115–334, § 3101, amended subsec. (g) generally. Prior to amendment, text read as follows: “Commodities provided under this subchapter shall, to the extent practicable, be clearly identified with appropriate markings on the package or container of such commodity in the language of the locality in which such commodities are distributed, as being furnished by the people of the United States of America.”
 
-Subsec. (h)(3). Pub. L. 115–334, § 3102, substituted “2023” for “2018”.
+Subsec. (h)(3). Pub. L. 115–334, § 3102, substituted “2023” for “2018”.
 
-2014—Subsec. (e)(1). Pub. L. 113–79, § 3002(1)(A), substituted “20 percent” for “13 percent” in introductory provisions.
+2014—Subsec. (e)(1). Pub. L. 113–79, § 3002(1)(A), substituted “20 percent” for “13 percent” in introductory provisions.
 
-Subsec. (e)(1)(A). Pub. L. 113–79, § 3002(1)(B), substituted “and enhancing” for “new”.
+Subsec. (e)(1)(A). Pub. L. 113–79, § 3002(1)(B), substituted “and enhancing” for “new”.
 
-Subsec. (e)(1)(B) to (D). Pub. L. 113–79, § 3002(1)(C)–(E), added subpars. (B) and (C), redesignated former subpar. (C) as (D), and struck out former subpar. (B). Prior to amendment, subpar. (B) read as follows: “meeting specific administrative, management, personnel and internal transportation and distribution costs for carrying out programs in foreign countries under this subchapter; and”.
+Subsec. (e)(1)(B) to (D). Pub. L. 113–79, § 3002(1)(C)–(E), added subpars. (B) and (C), redesignated former subpar. (C) as (D), and struck out former subpar. (B). Prior to amendment, subpar. (B) read as follows: “meeting specific administrative, management, personnel and internal transportation and distribution costs for carrying out programs in foreign countries under this subchapter; and”.
 
-Subsec. (e)(4). Pub. L. 113–79, § 3002(2), added par. (4).
+Subsec. (e)(4). Pub. L. 113–79, § 3002(2), added par. (4).
 
-Subsec. (h)(1). Pub. L. 113–79, § 3003(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Administrator shall use funds made available for fiscal year 2009 and subsequent fiscal years to carry out this subchapter—
+Subsec. (h)(1). Pub. L. 113–79, § 3003(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Administrator shall use funds made available for fiscal year 2009 and subsequent fiscal years to carry out this subchapter—
 
 “(A) to assess the types and quality of agricultural commodities and products donated for food aid;
 
@@ -1267,29 +1267,29 @@ Subsec. (h)(1). Pub. L. 113–79, § 3003(1), added par. (1) and struck out fo
 
 “(C) to test prototypes.”
 
-Subsec. (h)(3). Pub. L. 113–79, § 3003(2), substituted “fiscal years 2014 through 2018” for “fiscal years 2009 through 2011”.
+Subsec. (h)(3). Pub. L. 113–79, § 3003(2), substituted “fiscal years 2014 through 2018” for “fiscal years 2009 through 2011”.
 
-2008—Subsec. (b)(2). Pub. L. 110–246, § 3008(1), substituted “may not use as a sole rationale for denying a request for funds” for “may not deny a request for funds” in introductory provisions.
+2008—Subsec. (b)(2). Pub. L. 110–246, § 3008(1), substituted “may not use as a sole rationale for denying a request for funds” for “may not deny a request for funds” in introductory provisions.
 
-Subsec. (e)(1). Pub. L. 110–246, § 3008(2)(A), substituted “not less than 7.5 percent nor more than 13 percent” for “not less than 5 percent nor more than 10 percent” in introductory provisions.
+Subsec. (e)(1). Pub. L. 110–246, § 3008(2)(A), substituted “not less than 7.5 percent nor more than 13 percent” for “not less than 5 percent nor more than 10 percent” in introductory provisions.
 
-Subsec. (e)(1)(C). Pub. L. 110–246, § 3008(2)(B)–(D), added subpar. (C).
+Subsec. (e)(1)(C). Pub. L. 110–246, § 3008(2)(B)–(D), added subpar. (C).
 
-Subsec. (h). Pub. L. 110–246, § 3008(3), added subsec. (h) and struck out former subsec. (h) which required Administrator to streamline program procedures and guidelines not later than 1 year after May 13, 2002, and incorporate changes, to the maximum extent practicable, beginning in fiscal year 2004.
+Subsec. (h). Pub. L. 110–246, § 3008(3), added subsec. (h) and struck out former subsec. (h) which required Administrator to streamline program procedures and guidelines not later than 1 year after May 13, 2002, and incorporate changes, to the maximum extent practicable, beginning in fiscal year 2004.
 
-2002—Subsec. (b)(3). Pub. L. 107–171, § 3002(1), added par. (3).
+2002—Subsec. (b)(3). Pub. L. 107–171, § 3002(1), added par. (3).
 
-Subsec. (e)(1). Pub. L. 107–171, § 3002(2), substituted “not less than 5 percent nor more than 10 percent of the funds” for “not less than $10,000,000, and not more than $28,000,000,”.
+Subsec. (e)(1). Pub. L. 107–171, § 3002(2), substituted “not less than 5 percent nor more than 10 percent of the funds” for “not less than $10,000,000, and not more than $28,000,000,”.
 
-Subsec. (h). Pub. L. 107–171, § 3002(3), added subsec. (h).
+Subsec. (h). Pub. L. 107–171, § 3002(3), added subsec. (h).
 
-1996—Subsec. (b). Pub. L. 104–127, § 207(a)(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The Administrator may provide agricultural commodities for non-emergency assistance under this subchapter through eligible organizations (as described in subsection (d) of this section) that have entered into an agreement with the Administrator to use such commodities in accordance with this subchapter.”
+1996—Subsec. (b). Pub. L. 104–127, § 207(a)(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The Administrator may provide agricultural commodities for non-emergency assistance under this subchapter through eligible organizations (as described in subsection (d) of this section) that have entered into an agreement with the Administrator to use such commodities in accordance with this subchapter.”
 
-Subsec. (e). Pub. L. 104–127, § 207(a)(2)(A), substituted “eligible organizations” for “private voluntary organizations and cooperatives” in heading.
+Subsec. (e). Pub. L. 104–127, § 207(a)(2)(A), substituted “eligible organizations” for “private voluntary organizations and cooperatives” in heading.
 
-Subsec. (e)(1). Pub. L. 104–127, § 207(a)(2)(B), in introductory provisions, substituted “$28,000,000” for “$13,500,000” and “eligible organizations described in subsection (d), to assist the organizations” for “private voluntary organizations and cooperatives to assist such organizations and cooperatives”.
+Subsec. (e)(1). Pub. L. 104–127, § 207(a)(2)(B), in introductory provisions, substituted “$28,000,000” for “$13,500,000” and “eligible organizations described in subsection (d), to assist the organizations” for “private voluntary organizations and cooperatives to assist such organizations and cooperatives”.
 
-Subsec. (e)(2). Pub. L. 104–127, § 207(a)(2)(C), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “In order to receive funds made available under paragraph (1), a private voluntary organization or cooperative must submit a request for such funds (which must be approved by the Administrator) when submitting a proposal to the Administrator for an agreement under this subchapter. Such request for funds shall include a specific explanation of—
+Subsec. (e)(2). Pub. L. 104–127, § 207(a)(2)(C), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “In order to receive funds made available under paragraph (1), a private voluntary organization or cooperative must submit a request for such funds (which must be approved by the Administrator) when submitting a proposal to the Administrator for an agreement under this subchapter. Such request for funds shall include a specific explanation of—
 
 “(A) the program costs to be offset by such funds;
 
@@ -1297,7 +1297,7 @@ Subsec. (e)(2). Pub. L. 104–127, § 207(a)(2)(C), added par. (2) and struck 
 
 “(C) the degree to which such funds will improve the provision of food assistance to foreign countries (particularly those in sub-Saharan Africa suffering from acute, long-term food shortages).”
 
-Subsec. (e)(3). Pub. L. 104–127, § 207(a)(2)(D), substituted “an eligible organization, the Administrator may provide assistance to the eligible organization” for “a private voluntary organization or cooperative, the Administrator may provide assistance to that organization or cooperative”.
+Subsec. (e)(3). Pub. L. 104–127, § 207(a)(2)(D), substituted “an eligible organization, the Administrator may provide assistance to the eligible organization” for “a private voluntary organization or cooperative, the Administrator may provide assistance to that organization or cooperative”.
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to furnishing commodities through friendly governments, agencies, and organizations, assistance for community and other self-help activities, and multiyear agreements for distribution of commodities through nonprofit voluntary agencies and cooperatives.
 
@@ -1305,19 +1305,19 @@ Subsec. (e)(1). Pub. L. 101–508, in introductory provisions, substituted “th
 
 1987—Subsec. (a). Pub. L. 100–202 inserted “or cooperatives” after “voluntary agencies”.
 
-1985—Subsec. (a). Pub. L. 99–83, § 1003, inserted provisions relating to appropriate disposition under section 1721 of this title.
+1985—Subsec. (a). Pub. L. 99–83, § 1003, inserted provisions relating to appropriate disposition under section 1721 of this title.
 
-Subsec. (b)(4). Pub. L. 99–83, § 1004(a), added par. (4).
+Subsec. (b)(4). Pub. L. 99–83, § 1004(a), added par. (4).
 
-Subsec. (c). Pub. L. 99–83, § 1005, added subsec. (c).
+Subsec. (c). Pub. L. 99–83, § 1005, added subsec. (c).
 
-1979—Subsec. (a). Pub. L. 96–53, § 121, substituted “Agency for International Development” for “Advisory Committee on Voluntary Foreign Aid”, and “Advisory Committee” wherever appearing.
+1979—Subsec. (a). Pub. L. 96–53, § 121, substituted “Agency for International Development” for “Advisory Committee on Voluntary Foreign Aid”, and “Advisory Committee” wherever appearing.
 
-Subsec. (b)(2). Pub. L. 96–53, § 202, substituted provisions relating to encouragement of entities distributing commodities to work with indigenous institutions and to employ indigenous workers, for provisions relating to employment of indigenous workers.
+Subsec. (b)(2). Pub. L. 96–53, § 202, substituted provisions relating to encouragement of entities distributing commodities to work with indigenous institutions and to employ indigenous workers, for provisions relating to employment of indigenous workers.
 
-1977—Subsec. (a). Pub. L. 95–88, §§ 207(1), (2), 208(a), designated existing provisions as subsec. (a), struck out requirement that assistance to needy persons, insofar as practicable, be directed toward community and other self-help activities designed to alleviate the causes of the need for such assistance, and inserted provisions authorizing the President to utilize a foreign nonprofit voluntary agency which is registered with and approved by the Advisory Committee on Voluntary Foreign Aid if no United States nonprofit voluntary agency registered with and approved by the Advisory Committee is available.
+1977—Subsec. (a). Pub. L. 95–88, §§ 207(1), (2), 208(a), designated existing provisions as subsec. (a), struck out requirement that assistance to needy persons, insofar as practicable, be directed toward community and other self-help activities designed to alleviate the causes of the need for such assistance, and inserted provisions authorizing the President to utilize a foreign nonprofit voluntary agency which is registered with and approved by the Advisory Committee on Voluntary Foreign Aid if no United States nonprofit voluntary agency registered with and approved by the Advisory Committee is available.
 
-Subsec. (b). Pub. L. 95–88, § 207(3), added subsec. (b).
+Subsec. (b). Pub. L. 95–88, § 207(3), added subsec. (b).
 
 1966—Pub. L. 89–808 substituted provisions for furnishing commodities for prescribed purposes through use of friendly governments, agencies, and organizations, using to extent practicable registered and approved nonprofit voluntary agencies, identification of source of commodities, determination by the President of the manner and terms and conditions of furnishing the commodities and for directions of the assistance toward community and self-help activities for former provisions for transfer of commodities on a grant bases to assist the prescribed programs.
 
@@ -1355,13 +1355,13 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
 **Registration of Foreign Nonprofit Voluntary Agencies**
 
-Pub. L. 95–88, title II, § 208(b), Aug. 3, 1977, 91 Stat. 548, provided that: “For purposes of implementing the amendment made by subsection (a) [providing for the utilization by the President of foreign nonprofit voluntary agencies], the President shall issue regulations governing registration with an approval by the Advisory Committee on Voluntary Foreign Aid of foreign nonprofit voluntary agencies.”
+Pub. L. 95–88, title II, § 208(b), Aug. 3, 1977, 91 Stat. 548, provided that: “For purposes of implementing the amendment made by subsection (a) [providing for the utilization by the President of foreign nonprofit voluntary agencies], the President shall issue regulations governing registration with an approval by the Advisory Committee on Voluntary Foreign Aid of foreign nonprofit voluntary agencies.”
 
 **Continuation of Authority**
 
-Pub. L. 86–472, ch. VI, § 601(a)(2), May 14, 1960, 74 Stat. 140, which provided that the amendment of this section by section 601(a)(1) shall expire June 30, 1961, was repealed by Pub. L. 87–92, July 20, 1961, 75 Stat. 211.
+Pub. L. 86–472, ch. VI, § 601(a)(2), May 14, 1960, 74 Stat. 140, which provided that the amendment of this section by section 601(a)(1) shall expire June 30, 1961, was repealed by Pub. L. 87–92, July 20, 1961, 75 Stat. 211.
 
-### § 1723. Generation and use of currencies by private voluntary organizations and cooperatives
+### § 1723. Generation and use of currencies by private voluntary organizations and cooperatives
 
 **(a) Local sale and barter of commodities**
 
@@ -1379,39 +1379,39 @@ A private voluntary organization or cooperative submitting a proposal to enter i
 
 **(3)** be invested, and any interest earned on such investment may be used, for the purposes for which the assistance was provided to that organization, without further appropriation by Congress.
 
-(July 10, 1954, ch. 469, title II, § 203, 68 Stat. 458; May 28, 1956, ch. 327, title II, § 208(c), 70 Stat. 201; Pub. L. 85–128, § 1(3), Aug. 13, 1957, 71 Stat. 345; Pub. L. 86–341, title I, § 3, Sept. 21, 1959, 73 Stat. 606; Pub. L. 86–472, ch. VI, § 601(b), May 14, 1960, 74 Stat. 140; Pub. L. 87–128, title II, § 202(1), Aug. 8, 1961, 75 Stat. 307; Pub. L. 88–638, § 1(13), (14), Oct. 8, 1964, 78 Stat. 1037; Pub. L. 89–808, § 2(C), Nov. 11, 1966, 80 Stat. 1535; Pub. L. 95–88, title II, § 209, Aug. 3, 1977, 91 Stat. 548; Pub. L. 98–473, title III, § 305, Oct. 12, 1984, 98 Stat. 2195; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3638; Pub. L. 104–127, title II, § 208, Apr. 4, 1996, 110 Stat. 954; Pub. L. 107–171, title III, § 3003, May 13, 2002, 116 Stat. 281; Pub. L. 110–246, title III, § 3009, June 18, 2008, 122 Stat. 1824; Pub. L. 115–334, title III, § 3103, Dec. 20, 2018, 132 Stat. 4604.)
+(July 10, 1954, ch. 469, title II, § 203, 68 Stat. 458; May 28, 1956, ch. 327, title II, § 208(c), 70 Stat. 201; Pub. L. 85–128, § 1(3), Aug. 13, 1957, 71 Stat. 345; Pub. L. 86–341, title I, § 3, Sept. 21, 1959, 73 Stat. 606; Pub. L. 86–472, ch. VI, § 601(b), May 14, 1960, 74 Stat. 140; Pub. L. 87–128, title II, § 202(1), Aug. 8, 1961, 75 Stat. 307; Pub. L. 88–638, § 1(13), (14), Oct. 8, 1964, 78 Stat. 1037; Pub. L. 89–808, § 2(C), Nov. 11, 1966, 80 Stat. 1535; Pub. L. 95–88, title II, § 209, Aug. 3, 1977, 91 Stat. 548; Pub. L. 98–473, title III, § 305, Oct. 12, 1984, 98 Stat. 2195; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3638; Pub. L. 104–127, title II, § 208, Apr. 4, 1996, 110 Stat. 954; Pub. L. 107–171, title III, § 3003, May 13, 2002, 116 Stat. 281; Pub. L. 110–246, title III, § 3009, June 18, 2008, 122 Stat. 1824; Pub. L. 115–334, title III, § 3103, Dec. 20, 2018, 132 Stat. 4604.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–334, § 3103(1), inserted “to generate proceeds to be used as provided in this section” before period at end.
+2018—Subsec. (a). Pub. L. 115–334, § 3103(1), inserted “to generate proceeds to be used as provided in this section” before period at end.
 
-Subsecs. (b) to (d). Pub. L. 115–334, § 3103(2), (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “In carrying out agreements of the type referred to in subsection (a), the Administrator shall permit private voluntary organizations and cooperatives to sell, in 1 or more recipient countries, or in 1 or more countries in the same region, an amount of commodities equal to not less than 15 percent of the aggregate amounts of all commodities distributed under non-emergency programs under this subchapter for each fiscal year, to generate proceeds to be used as provided in this section.”
+Subsecs. (b) to (d). Pub. L. 115–334, § 3103(2), (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “In carrying out agreements of the type referred to in subsection (a), the Administrator shall permit private voluntary organizations and cooperatives to sell, in 1 or more recipient countries, or in 1 or more countries in the same region, an amount of commodities equal to not less than 15 percent of the aggregate amounts of all commodities distributed under non-emergency programs under this subchapter for each fiscal year, to generate proceeds to be used as provided in this section.”
 
 2008—Subsec. (b). Pub. L. 110–246 inserted “in” before “1 or more recipient countries”.
 
-2002—Pub. L. 107–171, § 3003(1), struck out “foreign” before “currencies” in section catchline.
+2002—Pub. L. 107–171, § 3003(1), struck out “foreign” before “currencies” in section catchline.
 
-Subsec. (a). Pub. L. 107–171, § 3003(2), substituted “1 or more recipient countries, or 1 or more countries” for “the recipient country, or in a country”.
+Subsec. (a). Pub. L. 107–171, § 3003(2), substituted “1 or more recipient countries, or 1 or more countries” for “the recipient country, or in a country”.
 
-Subsec. (b). Pub. L. 107–171, § 3003(3), substituted “1 or more recipient countries, or in 1 or more countries” for “in recipient countries, or in countries” and struck out “foreign currency” before “proceeds”.
+Subsec. (b). Pub. L. 107–171, § 3003(3), substituted “1 or more recipient countries, or in 1 or more countries” for “in recipient countries, or in countries” and struck out “foreign currency” before “proceeds”.
 
-Subsec. (c). Pub. L. 107–171, § 3003(4), struck out “foreign currency” before “proceeds” and substituted “1 or more recipient countries, or in 1 or more countries” for “the recipient country, or in a country”.
+Subsec. (c). Pub. L. 107–171, § 3003(4), struck out “foreign currency” before “proceeds” and substituted “1 or more recipient countries, or in 1 or more countries” for “the recipient country, or in a country”.
 
-Subsec. (d). Pub. L. 107–171, § 3003(5)(A), substituted “Proceeds” for “Foreign currencies” in introductory provisions.
+Subsec. (d). Pub. L. 107–171, § 3003(5)(A), substituted “Proceeds” for “Foreign currencies” in introductory provisions.
 
-Subsec. (d)(2). Pub. L. 107–171, § 3003(5)(B), substituted “income-generating” for “income generating” and “1 or more recipient countries or within 1 or more countries” for “the recipient country or within a country”.
+Subsec. (d)(2). Pub. L. 107–171, § 3003(5)(B), substituted “income-generating” for “income generating” and “1 or more recipient countries or within 1 or more countries” for “the recipient country or within a country”.
 
-Subsec. (d)(3). Pub. L. 107–171, § 3003(5)(C), inserted comma after “invested” and after “investment may be used”.
+Subsec. (d)(3). Pub. L. 107–171, § 3003(5)(C), inserted comma after “invested” and after “investment may be used”.
 
-1996—Subsec. (a). Pub. L. 104–127, § 208(1), inserted “, or in a country in the same region,” after “in the recipient country”.
+1996—Subsec. (a). Pub. L. 104–127, § 208(1), inserted “, or in a country in the same region,” after “in the recipient country”.
 
-Subsec. (b). Pub. L. 104–127, § 208(2), inserted “or in countries in the same region,” after “in recipient countries,” and substituted “15 percent” for “10 percent”.
+Subsec. (b). Pub. L. 104–127, § 208(2), inserted “or in countries in the same region,” after “in recipient countries,” and substituted “15 percent” for “10 percent”.
 
-Subsec. (c). Pub. L. 104–127, § 208(3), inserted “or in a country in the same region,” after “recipient country,”.
+Subsec. (c). Pub. L. 104–127, § 208(3), inserted “or in a country in the same region,” after “recipient country,”.
 
-Subsec. (d)(2). Pub. L. 104–127, § 208(4), inserted “or within a country in the same region” after “recipient country”.
+Subsec. (d)(2). Pub. L. 104–127, § 208(4), inserted “or within a country in the same region” after “recipient country”.
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to the payment of costs and charges by the Commodity Credit Corporation for packaging, enrichment, preservation, processing, transportation, handling, and other incidental charges relating to commodities.
 
@@ -1453,13 +1453,13 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
 **Effective Date of 1964 Amendment**
 
-Pub. L. 88–638, § 1(13), Oct. 8, 1964, 78 Stat. 1037, provided that the substitutions of “1965” for “1961”, “1966” for “1964”, and “$400,000,000” for “$300,000,000” are not effective until Jan. 1, 1965.
+Pub. L. 88–638, § 1(13), Oct. 8, 1964, 78 Stat. 1037, provided that the substitutions of “1965” for “1961”, “1966” for “1964”, and “$400,000,000” for “$300,000,000” are not effective until Jan. 1, 1965.
 
 **Effective Date of 1959 Amendment**
 
-Pub. L. 86–341, title I, § 3, Sept. 21, 1959, 73 Stat. 606, provided that the amendment made by section 3 is effective Jan. 1, 1960.
+Pub. L. 86–341, title I, § 3, Sept. 21, 1959, 73 Stat. 606, provided that the amendment made by section 3 is effective Jan. 1, 1960.
 
-### § 1724. Levels of assistance
+### § 1724. Levels of assistance
 
 **(a) Minimum levels**
 
@@ -1485,7 +1485,7 @@ Except as provided in paragraph (2), in making agricultural commodities availabl
 
 The Administrator may waive the requirement of paragraph (1) for any fiscal year in which the Administrator determines that the requirements of the programs established under this subchapter will not be best served by the enforcement of such requirement under such paragraph.
 
-(July 10, 1954, ch. 469, title II, § 204, 68 Stat. 458; Pub. L. 85–128, § 1(1), Aug. 13, 1957, 71 Stat. 345; Pub. L. 85–931, § 5, Sept. 6, 1958, 72 Stat. 1791; Pub. L. 86–341, title I, § 1, Sept. 21, 1959, 73 Stat. 606; Pub. L. 87–128, title II, § 202(2), Aug. 8, 1961, 75 Stat. 307; Pub. L. 88–638, § 1(15), Oct. 8, 1964, 78 Stat. 1037; Pub. L. 89–808, § 2(C), Nov. 11, 1966, 80 Stat. 1535; Pub. L. 95–113, title XII, § 1203, Sept. 29, 1977, 91 Stat. 956; Pub. L. 97–98, title XII, § 1212, Dec. 22, 1981, 95 Stat. 1281; Pub. L. 99–198, title XI, § 1101, Dec. 23, 1985, 99 Stat. 1465; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3639; Pub. L. 104–127, title II, § 209, Apr. 4, 1996, 110 Stat. 954; Pub. L. 107–171, title III, § 3004, May 13, 2002, 116 Stat. 282; Pub. L. 108–199, div. A, title VII, § 758, Jan. 23, 2004, 118 Stat. 38; Pub. L. 110–246, title III, § 3010, June 18, 2008, 122 Stat. 1824; Pub. L. 113–79, title III, § 3004, Feb. 7, 2014, 128 Stat. 774; Pub. L. 115–334, title III, § 3104, Dec. 20, 2018, 132 Stat. 4604.)
+(July 10, 1954, ch. 469, title II, § 204, 68 Stat. 458; Pub. L. 85–128, § 1(1), Aug. 13, 1957, 71 Stat. 345; Pub. L. 85–931, § 5, Sept. 6, 1958, 72 Stat. 1791; Pub. L. 86–341, title I, § 1, Sept. 21, 1959, 73 Stat. 606; Pub. L. 87–128, title II, § 202(2), Aug. 8, 1961, 75 Stat. 307; Pub. L. 88–638, § 1(15), Oct. 8, 1964, 78 Stat. 1037; Pub. L. 89–808, § 2(C), Nov. 11, 1966, 80 Stat. 1535; Pub. L. 95–113, title XII, § 1203, Sept. 29, 1977, 91 Stat. 956; Pub. L. 97–98, title XII, § 1212, Dec. 22, 1981, 95 Stat. 1281; Pub. L. 99–198, title XI, § 1101, Dec. 23, 1985, 99 Stat. 1465; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3639; Pub. L. 104–127, title II, § 209, Apr. 4, 1996, 110 Stat. 954; Pub. L. 107–171, title III, § 3004, May 13, 2002, 116 Stat. 282; Pub. L. 108–199, div. A, title VII, § 758, Jan. 23, 2004, 118 Stat. 38; Pub. L. 110–246, title III, § 3010, June 18, 2008, 122 Stat. 1824; Pub. L. 113–79, title III, § 3004, Feb. 7, 2014, 128 Stat. 774; Pub. L. 115–334, title III, § 3104, Dec. 20, 2018, 132 Stat. 4604.)
 
 **Editorial Notes**
 
@@ -1499,11 +1499,11 @@ The Administrator may waive the requirement of paragraph (1) for any fiscal year
 
 2004—Subsec. (a)(3). Pub. L. 108–199 substituted “the Committees on International Relations, Agriculture and Appropriations of the House of Representatives, and the Committees on Appropriations and” for “the Committee on Foreign Affairs and Committee on Agriculture of the House of Representatives, and the Committee on”.
 
-2002—Subsec. (a)(1). Pub. L. 107–171, § 3004(1), (2), substituted “2002 through 2007” for “1996 through 2002” and “2,500,000 metric tons” for “2,025,000 metric tons”.
+2002—Subsec. (a)(1). Pub. L. 107–171, § 3004(1), (2), substituted “2002 through 2007” for “1996 through 2002” and “2,500,000 metric tons” for “2,025,000 metric tons”.
 
-Subsec. (a)(2). Pub. L. 107–171, § 3004(1), (3), substituted “2002 through 2007” for “1996 through 2002” and “1,875,000 metric tons” for “1,550,000 metric tons”.
+Subsec. (a)(2). Pub. L. 107–171, § 3004(1), (3), substituted “2002 through 2007” for “1996 through 2002” and “1,875,000 metric tons” for “1,550,000 metric tons”.
 
-1996—Subsec. (a)(1). Pub. L. 104–127, § 209(1)(A), substituted “amount that for each of fiscal years 1996 through 2002 is not less than 2,025,000 metric tons.” for “amount that—
+1996—Subsec. (a)(1). Pub. L. 104–127, § 209(1)(A), substituted “amount that for each of fiscal years 1996 through 2002 is not less than 2,025,000 metric tons.” for “amount that—
 
 “(A) for fiscal year 1991, is not less than 1,925,000 metric tons;
 
@@ -1515,7 +1515,7 @@ Subsec. (a)(2). Pub. L. 107–171, § 3004(1), (3), substituted “2002 throug
 
 “(E) for fiscal year 1995, is not less than 2,025,000 metric tons.”
 
-Subsec. (a)(2). Pub. L. 104–127, § 209(1)(B), substituted “amount that for each of fiscal years 1996 through 2002 is not less than 1,550,000 metric tons.” for “an amount that—
+Subsec. (a)(2). Pub. L. 104–127, § 209(1)(B), substituted “amount that for each of fiscal years 1996 through 2002 is not less than 1,550,000 metric tons.” for “an amount that—
 
 “(A) for fiscal year 1991, is not less than 1,450,000 metric tons;
 
@@ -1527,9 +1527,9 @@ Subsec. (a)(2). Pub. L. 104–127, § 209(1)(B), substituted “amount that fo
 
 “(E) for fiscal year 1995, is not less than 1,550,000 metric tons.”
 
-Subsec. (a)(3). Pub. L. 104–127, § 209(1)(C), inserted at end “No waiver shall be made before the beginning of the applicable fiscal year.”
+Subsec. (a)(3). Pub. L. 104–127, § 209(1)(C), inserted at end “No waiver shall be made before the beginning of the applicable fiscal year.”
 
-Subsec. (b)(1). Pub. L. 104–127, § 209(2), inserted before period at end “and that not less than 50 percent of the quantity of the bagged commodities that are whole grain commodities be bagged in the United States”.
+Subsec. (b)(1). Pub. L. 104–127, § 209(2), inserted before period at end “and that not less than 50 percent of the quantity of the bagged commodities that are whole grain commodities be bagged in the United States”.
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to authorization of appropriations for reimbursement of Commodity Credit Corporation for costs incurred in connection with programs of assistance undertaken under this subchapter, and appropriations for purchase of foreign currencies.
 
@@ -1567,7 +1567,7 @@ Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. 
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–198, title XI, § 1101, Dec. 23, 1985, 99 Stat. 1465, provided that the amendment made by that section is effective Oct. 1, 1985.
+Pub. L. 99–198, title XI, § 1101, Dec. 23, 1985, 99 Stat. 1465, provided that the amendment made by that section is effective Oct. 1, 1985.
 
 **Effective Date of 1981 Amendment**
 
@@ -1581,7 +1581,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 89–808, set out as a note under section 1691 of this title.
 
-### § 1725. Food Aid Consultative Group
+### § 1725. Food Aid Consultative Group
 
 **(a) Establishment**
 
@@ -1627,7 +1627,7 @@ Chapter 10 of title 5 shall not apply to the Group.
 
 The Group shall terminate on December 31, 2023.
 
-(July 10, 1954, ch. 469, title II, § 205, as added Pub. L. 89–808, § 2(C), Nov. 11, 1966, 80 Stat. 1535; amended Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3639; Pub. L. 104–127, title II, § 210, Apr. 4, 1996, 110 Stat. 955; Pub. L. 107–171, title III, § 3005, May 13, 2002, 116 Stat. 282; Pub. L. 110–246, title III, § 3011, June 18, 2008, 122 Stat. 1824; Pub. L. 113–79, title III, § 3005, Feb. 7, 2014, 128 Stat. 774; Pub. L. 115–334, title III, § 3105, title XII, § 12405(c), Dec. 20, 2018, 132 Stat. 4604, 4975; Pub. L. 117–286, § 4(a)(26), Dec. 27, 2022, 136 Stat. 4308.)
+(July 10, 1954, ch. 469, title II, § 205, as added Pub. L. 89–808, § 2(C), Nov. 11, 1966, 80 Stat. 1535; amended Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3639; Pub. L. 104–127, title II, § 210, Apr. 4, 1996, 110 Stat. 955; Pub. L. 107–171, title III, § 3005, May 13, 2002, 116 Stat. 282; Pub. L. 110–246, title III, § 3011, June 18, 2008, 122 Stat. 1824; Pub. L. 113–79, title III, § 3005, Feb. 7, 2014, 128 Stat. 774; Pub. L. 115–334, title III, § 3105, title XII, § 12405(c), Dec. 20, 2018, 132 Stat. 4604, 4975; Pub. L. 117–286, § 4(a)(26), Dec. 27, 2022, 136 Stat. 4308.)
 
 **Editorial Notes**
 
@@ -1635,33 +1635,33 @@ The Group shall terminate on December 31, 2023.
 
 2022—Subsec. (e). Pub. L. 117–286, which directed amendment of “Section 205(e) of the Agricultural Trade Development and Assistance Act of 1954” by substituting “Chapter 10 of title 5” for “Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text, was executed to this section, which is section 205(e) of the Food for Peace Act, to reflect the probable intent of Congress.
 
-2018—Subsec. (b)(2). Pub. L. 115–334, § 12405(c), substituted “Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs” for “Under Secretary of Agriculture for Farm and Foreign Agricultural Services”.
+2018—Subsec. (b)(2). Pub. L. 115–334, § 12405(c), substituted “Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs” for “Under Secretary of Agriculture for Farm and Foreign Agricultural Services”.
 
-Subsec. (d)(1). Pub. L. 115–334, § 3105(1), substituted “30 days” for “45 days”.
+Subsec. (d)(1). Pub. L. 115–334, § 3105(1), substituted “30 days” for “45 days”.
 
-Subsec. (f). Pub. L. 115–334, § 3105(2), substituted “2023” for “2018”.
+Subsec. (f). Pub. L. 115–334, § 3105(2), substituted “2023” for “2018”.
 
-2014—Subsec. (b)(7), (8). Pub. L. 113–79, § 3005(a), added par. (7) and redesignated former par. (7) as (8).
+2014—Subsec. (b)(7), (8). Pub. L. 113–79, § 3005(a), added par. (7) and redesignated former par. (7) as (8).
 
-Subsec. (d). Pub. L. 113–79, § 3005(b), designated existing provisions as par. (1), substituted “Not later than 45 days before a proposed regulation, handbook, or guideline implementing this subchapter, or a proposed significant revision to a regulation, handbook, or guideline implementing this subchapter, becomes final, the Administrator shall provide the proposal to the Group for review and comment.” for “In preparing regulations, handbooks, or guidelines implementing this subchapter, or significant revisions thereto, the Administrator shall provide such proposals to the Group for review and comment.”, and added par. (2).
+Subsec. (d). Pub. L. 113–79, § 3005(b), designated existing provisions as par. (1), substituted “Not later than 45 days before a proposed regulation, handbook, or guideline implementing this subchapter, or a proposed significant revision to a regulation, handbook, or guideline implementing this subchapter, becomes final, the Administrator shall provide the proposal to the Group for review and comment.” for “In preparing regulations, handbooks, or guidelines implementing this subchapter, or significant revisions thereto, the Administrator shall provide such proposals to the Group for review and comment.”, and added par. (2).
 
-Subsec. (f). Pub. L. 113–79, § 3005(c), substituted “2018” for “2012”.
+Subsec. (f). Pub. L. 113–79, § 3005(c), substituted “2018” for “2012”.
 
-2008—Subsec. (b)(7). Pub. L. 110–246, § 3011(1), added par. (7).
+2008—Subsec. (b)(7). Pub. L. 110–246, § 3011(1), added par. (7).
 
-Subsec. (f). Pub. L. 110–246, § 3011(2), substituted “2012” for “2007”.
+Subsec. (f). Pub. L. 110–246, § 3011(2), substituted “2012” for “2007”.
 
 2002—Subsec. (f). Pub. L. 107–171 substituted “2007” for “2002”.
 
-1996—Subsec. (a). Pub. L. 104–127, § 210(1), substituted “eligible organizations described in section 1722(d)(1) of this title” for “private voluntary organizations, cooperatives and indigenous non-governmental organizations”.
+1996—Subsec. (a). Pub. L. 104–127, § 210(1), substituted “eligible organizations described in section 1722(d)(1) of this title” for “private voluntary organizations, cooperatives and indigenous non-governmental organizations”.
 
-Subsec. (b)(2). Pub. L. 104–127, § 210(2)(A), substituted “of Agriculture for Farm and Foreign Agricultural Services” for “for International Affairs and Commodity Programs”.
+Subsec. (b)(2). Pub. L. 104–127, § 210(2)(A), substituted “of Agriculture for Farm and Foreign Agricultural Services” for “for International Affairs and Commodity Programs”.
 
-Subsec. (b)(6). Pub. L. 104–127, § 210(2)(B)–(D), added par. (6).
+Subsec. (b)(6). Pub. L. 104–127, § 210(2)(B)–(D), added par. (6).
 
-Subsec. (d). Pub. L. 104–127, § 210(3), inserted “(but at least twice per year)” after “when appropriate”.
+Subsec. (d). Pub. L. 104–127, § 210(3), inserted “(but at least twice per year)” after “when appropriate”.
 
-Subsec. (f). Pub. L. 104–127, § 210(4), substituted “2002” for “1995”.
+Subsec. (f). Pub. L. 104–127, § 210(4), substituted “2002” for “1995”.
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions declaring sense of Congress that President should encourage advanced nations to increase contributions for combating hunger, particularly through expansion of international food and agricultural assistance programs, and that United States should work for expansion of United Nations World food program.
 
@@ -1679,11 +1679,11 @@ Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. 
 
 Section effective Jan. 1, 1967, see section 5 of Pub. L. 89–808, set out as an Effective Date of 1966 Amendment note under section 1691 of this title.
 
-### § 1726. Repealed. Pub. L. 107–171, title III, § 3006, May 13, 2002, 116 Stat. 282
+### § 1726. Repealed. Pub. L. 107–171, title III, § 3006, May 13, 2002, 116 Stat. 282
 
-Section, act July 10, 1954, ch. 469, title II, § 206, as added Pub. L. 94–161, title II, § 209, Dec. 20, 1975, 89 Stat. 854; amended Pub. L. 95–88, title II, § 210, Aug. 3, 1977, 91 Stat. 548; Pub. L. 96–53, title II, § 203, Aug. 14, 1979, 93 Stat. 368; Pub. L. 99–198, title XI, § 1112(a)(2), Dec. 23, 1985, 99 Stat. 1478; Pub. L. 100–202, §§ 12, 13, Dec. 22, 1987, 101 Stat. 1329–448; Pub. L. 100–418, title IV, § 4610(d), Aug. 23, 1988, 102 Stat. 1411; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3640, related to maximum level of expenditures.
+Section, act July 10, 1954, ch. 469, title II, § 206, as added Pub. L. 94–161, title II, § 209, Dec. 20, 1975, 89 Stat. 854; amended Pub. L. 95–88, title II, § 210, Aug. 3, 1977, 91 Stat. 548; Pub. L. 96–53, title II, § 203, Aug. 14, 1979, 93 Stat. 368; Pub. L. 99–198, title XI, § 1112(a)(2), Dec. 23, 1985, 99 Stat. 1478; Pub. L. 100–202, §§ 12, 13, Dec. 22, 1987, 101 Stat. 1329–448; Pub. L. 100–418, title IV, § 4610(d), Aug. 23, 1988, 102 Stat. 1411; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3640, related to maximum level of expenditures.
 
-### § 1726a. Administration
+### § 1726a. Administration
 
 **(a) Proposals**
 
@@ -1793,7 +1793,7 @@ In submitting project reports to the Administrator, a private voluntary organiza
 
 An organization or cooperative described in paragraph (1) may omit any confidential information from the copy of the report submitted for public display under that paragraph.
 
-(July 10, 1954, ch. 469, title II, § 207, as added Pub. L. 99–198, title XI, § 1104(a), Dec. 23, 1985, 99 Stat. 1466; amended Pub. L. 100–202, § 14, Dec. 22, 1987, 101 Stat. 1329–449; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3640; Pub. L. 104–127, title II, § 207(b), Apr. 4, 1996, 110 Stat. 954; Pub. L. 107–171, title III, § 3007, May 13, 2002, 116 Stat. 282; Pub. L. 110–246, title III, §§ 3012, 3018(b), June 18, 2008, 122 Stat. 1824, 1828; Pub. L. 113–79, title III, § 3006(a), (b), Feb. 7, 2014, 128 Stat. 774, 775; Pub. L. 115–334, title III, §§ 3106, 3107, Dec. 20, 2018, 132 Stat. 4604.)
+(July 10, 1954, ch. 469, title II, § 207, as added Pub. L. 99–198, title XI, § 1104(a), Dec. 23, 1985, 99 Stat. 1466; amended Pub. L. 100–202, § 14, Dec. 22, 1987, 101 Stat. 1329–449; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3640; Pub. L. 104–127, title II, § 207(b), Apr. 4, 1996, 110 Stat. 954; Pub. L. 107–171, title III, § 3007, May 13, 2002, 116 Stat. 282; Pub. L. 110–246, title III, §§ 3012, 3018(b), June 18, 2008, 122 Stat. 1824, 1828; Pub. L. 113–79, title III, § 3006(a), (b), Feb. 7, 2014, 128 Stat. 774, 775; Pub. L. 115–334, title III, §§ 3106, 3107, Dec. 20, 2018, 132 Stat. 4604.)
 
 **Editorial Notes**
 
@@ -1801,49 +1801,49 @@ An organization or cooperative described in paragraph (1) may omit any confident
 
 The Agriculture Improvement Act of 2018 and such Act, referred to in subsec. (c)(1), is Pub. L. 115–334, Dec. 20, 2018, 132 Stat. 4490. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under section 9001 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (f)(4)(B)(ii), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (f)(4)(B)(ii), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 **Amendments**
 
-2018—Subsec. (c)(1). Pub. L. 115–334, § 3106, substituted “the Agriculture Improvement Act of 2018” for “the Agricultural Act of 2014”.
+2018—Subsec. (c)(1). Pub. L. 115–334, § 3106, substituted “the Agriculture Improvement Act of 2018” for “the Agricultural Act of 2014”.
 
-Subsec. (f)(4)(A). Pub. L. 115–334, § 3107(1), substituted “1.5 percent, but not less than $17,000,000,” for “$17,000,000” and “2023” for “2018” in two places.
+Subsec. (f)(4)(A). Pub. L. 115–334, § 3107(1), substituted “1.5 percent, but not less than $17,000,000,” for “$17,000,000” and “2023” for “2018” in two places.
 
-Subsec. (f)(4)(B)(i). Pub. L. 115–334, § 3107(2)(A), substituted “2023” for “2018”.
+Subsec. (f)(4)(B)(i). Pub. L. 115–334, § 3107(2)(A), substituted “2023” for “2018”.
 
-Subsec. (f)(4)(B)(ii). Pub. L. 115–334, § 3107(2)(B), struck out “chapter 1 of part I of” before “the Foreign Assistance Act of 1961”.
+Subsec. (f)(4)(B)(ii). Pub. L. 115–334, § 3107(2)(B), struck out “chapter 1 of part I of” before “the Foreign Assistance Act of 1961”.
 
-2014—Subsec. (c). Pub. L. 113–79, § 3006(a)(1), inserted “and guidance” after “Regulations” in heading.
+2014—Subsec. (c). Pub. L. 113–79, § 3006(a)(1), inserted “and guidance” after “Regulations” in heading.
 
-Subsec. (c)(1). Pub. L. 113–79, § 3006(a)(2), inserted at end “Not later than 270 days after the date of the enactment of the Agricultural Act of 2014, the Administrator shall issue all regulations and revisions to agency guidance necessary to implement the amendments made to this subchapter by such Act.”
+Subsec. (c)(1). Pub. L. 113–79, § 3006(a)(2), inserted at end “Not later than 270 days after the date of the enactment of the Agricultural Act of 2014, the Administrator shall issue all regulations and revisions to agency guidance necessary to implement the amendments made to this subchapter by such Act.”
 
-Subsec. (c)(2). Pub. L. 113–79, § 3006(a)(3), inserted “and guidance” after “develop regulations” in introductory provisions.
+Subsec. (c)(2). Pub. L. 113–79, § 3006(a)(3), inserted “and guidance” after “develop regulations” in introductory provisions.
 
-Subsec. (f)(2)(F). Pub. L. 113–79, § 3006(b)(1), substituted “maintenance of” for “upgraded”.
+Subsec. (f)(2)(F). Pub. L. 113–79, § 3006(b)(1), substituted “maintenance of” for “upgraded”.
 
-Subsec. (f)(3), (4). Pub. L. 113–79, § 3006(b)(2), (3), redesignated pars. (5) and (6) as (3) and (4), respectively, and struck out former pars. (3) and (4) which related to reports to be submitted by the Administrator and the Comptroller General.
+Subsec. (f)(3), (4). Pub. L. 113–79, § 3006(b)(2), (3), redesignated pars. (5) and (6) as (3) and (4), respectively, and struck out former pars. (3) and (4) which related to reports to be submitted by the Administrator and the Comptroller General.
 
-Subsec. (f)(4)(A). Pub. L. 113–79, § 3006(b)(4)(A), substituted “$17,000,000 of the funds made available under this subchapter for each of fiscal years 2014 through 2018, except for paragraph (2)(F), for which not more than $500,000 shall be made available for each of the fiscal years 2014 through 2018.” for “$22,000,000 of the funds made available under this subchapter for each of fiscal years 2009 through 2012, except for paragraph (2)(F), for which only $2,500,000 shall be made available during fiscal year 2009.”
+Subsec. (f)(4)(A). Pub. L. 113–79, § 3006(b)(4)(A), substituted “$17,000,000 of the funds made available under this subchapter for each of fiscal years 2014 through 2018, except for paragraph (2)(F), for which not more than $500,000 shall be made available for each of the fiscal years 2014 through 2018.” for “$22,000,000 of the funds made available under this subchapter for each of fiscal years 2009 through 2012, except for paragraph (2)(F), for which only $2,500,000 shall be made available during fiscal year 2009.”
 
-Subsec. (f)(4)(B)(i). Pub. L. 113–79, § 3006(b)(4)(B), substituted “2018” for “2012”.
+Subsec. (f)(4)(B)(i). Pub. L. 113–79, § 3006(b)(4)(B), substituted “2018” for “2012”.
 
-Subsec. (f)(5), (6). Pub. L. 113–79, § 3006(b)(3), redesignated pars. (5) and (6) as (3) and (4), respectively.
+Subsec. (f)(5), (6). Pub. L. 113–79, § 3006(b)(3), redesignated pars. (5) and (6) as (3) and (4), respectively.
 
-2008—Subsec. (a)(3). Pub. L. 110–246, § 3012(1), struck out “and the conditions that must be met for the approval of such proposal” before period at end.
+2008—Subsec. (a)(3). Pub. L. 110–246, § 3012(1), struck out “and the conditions that must be met for the approval of such proposal” before period at end.
 
-Subsec. (c)(3). Pub. L. 110–246, § 3012(2), struck out par. (3). Prior to amendment, text read as follows: “Handbooks developed by the Administrator to assist in carrying out the program under this subchapter shall be designed to foster the development of programs under this subchapter by eligible organizations.”
+Subsec. (c)(3). Pub. L. 110–246, § 3012(2), struck out par. (3). Prior to amendment, text read as follows: “Handbooks developed by the Administrator to assist in carrying out the program under this subchapter shall be designed to foster the development of programs under this subchapter by eligible organizations.”
 
-Subsec. (d). Pub. L. 110–246, § 3012(3), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “Not later than 15 days after receipt from a United States field mission of a call forward for agricultural commodities for programs that meet the requirements of this subchapter, the order for the purchase or the supply, from inventory, of such commodities or products shall be transmitted to the Commodity Credit Corporation.”
+Subsec. (d). Pub. L. 110–246, § 3012(3), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “Not later than 15 days after receipt from a United States field mission of a call forward for agricultural commodities for programs that meet the requirements of this subchapter, the order for the purchase or the supply, from inventory, of such commodities or products shall be transmitted to the Commodity Credit Corporation.”
 
-Subsec. (e). Pub. L. 110–246, § 3018(b), struck out par. (1) designation and struck out par. (2). Prior to amendment, text read as follows: “Not later than December 1 of each year, the Administrator shall submit to the Committee on Agriculture and the Committee on International Relations of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that contains—
+Subsec. (e). Pub. L. 110–246, § 3018(b), struck out par. (1) designation and struck out par. (2). Prior to amendment, text read as follows: “Not later than December 1 of each year, the Administrator shall submit to the Committee on Agriculture and the Committee on International Relations of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that contains—
 
 “(A) a list of programs, countries, and commodities approved to date for assistance under this section; and
 
 “(B) a statement of the total amount of funds approved to date for transportation and administrative costs under this section.”
 
-Subsecs. (f), (g). Pub. L. 110–246, § 3012(4), added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 110–246, § 3012(4), added subsecs. (f) and (g).
 
-2002—Subsec. (a). Pub. L. 107–171, § 3007(1), added pars. (1) and (2), redesignated former par. (2) as (3), and struck out heading and text of former par. (1). Text read as follows: “Not later than 45 days after the receipt by the Administrator of a proposal submitted—
+2002—Subsec. (a). Pub. L. 107–171, § 3007(1), added pars. (1) and (2), redesignated former par. (2) as (3), and struck out heading and text of former par. (1). Text read as follows: “Not later than 45 days after the receipt by the Administrator of a proposal submitted—
 
 “(A) by an eligible organization, with the concurrence of the appropriate United States field mission, for commodities; or
 
@@ -1851,23 +1851,23 @@ Subsecs. (f), (g). Pub. L. 110–246, § 3012(4), added subsecs. (f) and (g).
 
 under this subchapter, the Administrator shall make a decision concerning such proposal.”
 
-Subsec. (b). Pub. L. 107–171, § 3007(2), substituted “guideline or annual policy guidance” for “guideline” wherever appearing.
+Subsec. (b). Pub. L. 107–171, § 3007(2), substituted “guideline or annual policy guidance” for “guideline” wherever appearing.
 
-Subsec. (e). Pub. L. 107–171, § 3007(3), added subsec. (e).
+Subsec. (e). Pub. L. 107–171, § 3007(3), added subsec. (e).
 
-1996—Subsec. (a)(1)(A), (B). Pub. L. 104–127, § 207(b)(1), substituted “an eligible organization” for “a private voluntary organization or cooperative”.
+1996—Subsec. (a)(1)(A), (B). Pub. L. 104–127, § 207(b)(1), substituted “an eligible organization” for “a private voluntary organization or cooperative”.
 
-Subsec. (b)(1). Pub. L. 104–127, § 207(b)(2)(A), substituted “eligible organizations” for “private voluntary organizations and cooperatives”.
+Subsec. (b)(1). Pub. L. 104–127, § 207(b)(2)(A), substituted “eligible organizations” for “private voluntary organizations and cooperatives”.
 
-Subsec. (b)(2). Pub. L. 104–127, § 207(b)(2)(B), substituted “eligible organizations” for “organizations, cooperatives,”.
+Subsec. (b)(2). Pub. L. 104–127, § 207(b)(2)(B), substituted “eligible organizations” for “organizations, cooperatives,”.
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to requests by nonprofit voluntary agency or cooperative for nonemergency food assistance agreements, and uses of foreign currency proceeds.
 
-1987—Subsec. (a). Pub. L. 100–202, § 14(1), inserted “or cooperative” after “agency”.
+1987—Subsec. (a). Pub. L. 100–202, § 14(1), inserted “or cooperative” after “agency”.
 
-Subsec. (b). Pub. L. 100–202, § 14(2), substituted “10 percent” for “5 percent”.
+Subsec. (b). Pub. L. 100–202, § 14(2), substituted “10 percent” for “5 percent”.
 
-Subsec. (c). Pub. L. 100–202, § 14(3), added subsec. (c).
+Subsec. (c). Pub. L. 100–202, § 14(3), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1881,9 +1881,9 @@ Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. 
 
 **Effective Date**
 
-Pub. L. 99–198, title XI, § 1104(b), Dec. 23, 1985, 99 Stat. 1466, as amended by Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821, provided that: “Section 207 of the Food for Peace Act (as added by subsection (a)) [this section] shall apply with respect to agreements entered into after December 31, 1985.”
+Pub. L. 99–198, title XI, § 1104(b), Dec. 23, 1985, 99 Stat. 1466, as amended by Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821, provided that: “Section 207 of the Food for Peace Act (as added by subsection (a)) [this section] shall apply with respect to agreements entered into after December 31, 1985.”
 
-### § 1726b. International food relief partnership
+### § 1726b. International food relief partnership
 
 **(a) In general** The Administrator may provide grants to—
 
@@ -1923,19 +1923,19 @@ Not later than 180 days after November 9, 2000, the Administrator, in consultati
 
 There is authorized to be appropriated to the Administrator to carry out this section, in addition to amounts otherwise available to carry out this section, $10,000,000 for each of fiscal years 2014 through 2023, to remain available until expended.
 
-(July 10, 1954, ch. 469, title II, § 208, as added Pub. L. 106–472, title III, § 310(a), Nov. 9, 2000, 114 Stat. 2075; amended Pub. L. 107–171, title III, § 3008, May 13, 2002, 116 Stat. 283; Pub. L. 110–246, title III, § 3013, June 18, 2008, 122 Stat. 1826; Pub. L. 113–79, title III, § 3007, Feb. 7, 2014, 128 Stat. 775; Pub. L. 115–334, title III, § 3108, Dec. 20, 2018, 132 Stat. 4604.)
+(July 10, 1954, ch. 469, title II, § 208, as added Pub. L. 106–472, title III, § 310(a), Nov. 9, 2000, 114 Stat. 2075; amended Pub. L. 107–171, title III, § 3008, May 13, 2002, 116 Stat. 283; Pub. L. 110–246, title III, § 3013, June 18, 2008, 122 Stat. 1826; Pub. L. 113–79, title III, § 3007, Feb. 7, 2014, 128 Stat. 775; Pub. L. 115–334, title III, § 3108, Dec. 20, 2018, 132 Stat. 4604.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1726b, act July 10, 1954, ch. 469, title II, § 208, as added Dec. 22, 1987, Pub. L. 100–202, § 15, 101 Stat. 1329–449, which related to periods for review of proposals for famine relief and promulgation of guidelines for such proposals, was omitted in the general revision of this chapter by Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3633.
+A prior section 1726b, act July 10, 1954, ch. 469, title II, § 208, as added Dec. 22, 1987, Pub. L. 100–202, § 15, 101 Stat. 1329–449, which related to periods for review of proposals for famine relief and promulgation of guidelines for such proposals, was omitted in the general revision of this chapter by Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3633.
 
 **Amendments**
 
-2018—Pub. L. 115–334, § 3108(1), amended section catchline generally. Prior to amendment, section catchline read as follows: “Assistance for stockpiling and rapid transportation, delivery, and distribution of shelf-stable prepackaged foods”.
+2018—Pub. L. 115–334, § 3108(1), amended section catchline generally. Prior to amendment, section catchline read as follows: “Assistance for stockpiling and rapid transportation, delivery, and distribution of shelf-stable prepackaged foods”.
 
-Subsec. (f). Pub. L. 115–334, § 3108(2), substituted “2023” for “2018”.
+Subsec. (f). Pub. L. 115–334, § 3108(2), substituted “2023” for “2018”.
 
 2014—Subsec. (f). Pub. L. 113–79 substituted “$10,000,000 for each of fiscal years 2014 through 2018” for “$8,000,000 for each of fiscal years 2001 through 2012”.
 
@@ -1949,7 +1949,7 @@ Subsec. (f). Pub. L. 115–334, § 3108(2), substituted “2023” for “2018
 
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 1726c. Local and regional food aid procurement projects
+### § 1726c. Local and regional food aid procurement projects
 
 **(a) Definitions** In this section:
 
@@ -2077,7 +2077,7 @@ In carrying out this section, the Secretary may give a preference to eligible or
 
 **(B)** implementation time frames and costs.
 
-(Pub. L. 110–246, title III, § 3206, June 18, 2008, 122 Stat. 1840; Pub. L. 113–79, title III, § 3207, Feb. 7, 2014, 128 Stat. 780; Pub. L. 115–334, title III, § 3311, Dec. 20, 2018, 132 Stat. 4623.)
+(Pub. L. 110–246, title III, § 3206, June 18, 2008, 122 Stat. 1840; Pub. L. 113–79, title III, § 3207, Feb. 7, 2014, 128 Stat. 780; Pub. L. 115–334, title III, § 3311, Dec. 20, 2018, 132 Stat. 4623.)
 
 **Editorial Notes**
 
@@ -2089,27 +2089,27 @@ Section was enacted as part of the Food, Conservation, and Energy Act of 2008, a
 
 2018—Subsec. (e)(1). Pub. L. 115–334 inserted “to the Secretary” after “appropriated” and substituted “2019 through 2023” for “2014 through 2018”.
 
-2014—Subsec. (b). Pub. L. 113–79, § 3207(1)(A), (B), substituted “Field-based projects” for “Study; field-based projects” in heading, struck out par. (2) designation and heading, redesignated subpars. (A) and (B) of former par. (2) as pars. (1) and (2), respectively, and struck out former par. (1) which required a study of prior local and regional procurements for food aid programs and a report to Congress.
+2014—Subsec. (b). Pub. L. 113–79, § 3207(1)(A), (B), substituted “Field-based projects” for “Study; field-based projects” in heading, struck out par. (2) designation and heading, redesignated subpars. (A) and (B) of former par. (2) as pars. (1) and (2), respectively, and struck out former par. (1) which required a study of prior local and regional procurements for food aid programs and a report to Congress.
 
-Subsec. (b)(1). Pub. L. 113–79, § 3207(1)(C), substituted “paragraph (2)” for “subparagraph (B)”.
+Subsec. (b)(1). Pub. L. 113–79, § 3207(1)(C), substituted “paragraph (2)” for “subparagraph (B)”.
 
-Subsec. (b)(2). Pub. L. 113–79, § 3207(1)(D), substituted “paragraph (1)” for “subparagraph (A)”.
+Subsec. (b)(2). Pub. L. 113–79, § 3207(1)(D), substituted “paragraph (1)” for “subparagraph (A)”.
 
-Subsec. (c)(1). Pub. L. 113–79, § 3207(2), substituted “subsection (b)” for “subsection (b)(2)”.
+Subsec. (c)(1). Pub. L. 113–79, § 3207(2), substituted “subsection (b)” for “subsection (b)(2)”.
 
-Subsec. (d). Pub. L. 113–79, § 3207(3), (4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to regulations and guidelines.
+Subsec. (d). Pub. L. 113–79, § 3207(3), (4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to regulations and guidelines.
 
-Subsec. (d)(2). Pub. L. 113–79, § 3207(5)(A), struck out subpar. (A) designation and heading, redesignated cls. (i) and (ii) of former subpar. (A) as subpars. (A) and (B), respectively, substituted “subparagraph (A)” for “clause (i)” in subpar. (B), and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “To be eligible to receive a grant from, or enter into a cooperative agreement with, the Secretary under this subsection, an eligible organization shall agree—
+Subsec. (d)(2). Pub. L. 113–79, § 3207(5)(A), struck out subpar. (A) designation and heading, redesignated cls. (i) and (ii) of former subpar. (A) as subpars. (A) and (B), respectively, substituted “subparagraph (A)” for “clause (i)” in subpar. (B), and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “To be eligible to receive a grant from, or enter into a cooperative agreement with, the Secretary under this subsection, an eligible organization shall agree—
 
 “(i) to collect by September 30, 2011, data containing the information required under subsection (f)(1)(B) relating to the field-based project funded through the grant; and
 
 “(ii) to provide to the Secretary the data collected under clause (i).”
 
-Subsec. (d)(4). Pub. L. 113–79, § 3207(5)(B), struck out par. (4). Text read as follows: “The Secretary shall not award a grant to any eligible organization under paragraph (1) until the date on which the Secretary promulgates regulations or issues guidelines under subsection (d)(1)”.
+Subsec. (d)(4). Pub. L. 113–79, § 3207(5)(B), struck out par. (4). Text read as follows: “The Secretary shall not award a grant to any eligible organization under paragraph (1) until the date on which the Secretary promulgates regulations or issues guidelines under subsection (d)(1)”.
 
-Subsec. (e). Pub. L. 113–79, § 3207(6), added subsec. (e). Former subsec. (e) redesignated (d).
+Subsec. (e). Pub. L. 113–79, § 3207(6), added subsec. (e). Former subsec. (e) redesignated (d).
 
-Subsecs. (f), (g). Pub. L. 113–79, § 3207(3), struck out subsecs. (f) and (g) which related, respectively, to independent evaluations of field-based projects and report to Congress and to Commodity Credit Corporation funding and funding amounts for fiscal years 2009 through 2012.
+Subsecs. (f), (g). Pub. L. 113–79, § 3207(3), struck out subsecs. (f) and (g) which related, respectively, to independent evaluations of field-based projects and report to Congress and to Commodity Credit Corporation funding and funding amounts for fiscal years 2009 through 2012.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2123,7 +2123,7 @@ Section effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out a
 
 ## SUBCHAPTER III–A—FOOD FOR DEVELOPMENT
 
-### § 1727. Bilateral grant program
+### § 1727. Bilateral grant program
 
 **(a) In general**
 
@@ -2133,13 +2133,13 @@ The President shall establish a program under which agricultural commodities are
 
 To carry out the policies and accomplish the objectives described in section 1691 of this title, the Administrator may negotiate and execute agreements with least developed countries to provide commodities to such countries on a grant basis.
 
-(July 10, 1954, ch. 469, title III, § 301, as added Pub. L. 95–88, title II, § 211(a)(2), Aug. 3, 1977, 91 Stat. 548; amended Pub. L. 96–53, title II, § 204(a), Aug. 14, 1979, 93 Stat. 369; Pub. L. 99–198, title XI, § 1112(a)(3), Dec. 23, 1985, 99 Stat. 1478; Pub. L. 100–576, § 4(a)(1), Oct. 31, 1988, 102 Stat. 2898; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3641.)
+(July 10, 1954, ch. 469, title III, § 301, as added Pub. L. 95–88, title II, § 211(a)(2), Aug. 3, 1977, 91 Stat. 548; amended Pub. L. 96–53, title II, § 204(a), Aug. 14, 1979, 93 Stat. 369; Pub. L. 99–198, title XI, § 1112(a)(3), Dec. 23, 1985, 99 Stat. 1478; Pub. L. 100–576, § 4(a)(1), Oct. 31, 1988, 102 Stat. 2898; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3641.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 301 of act July 10, 1954, ch. 469, title III, 68 Stat. 458, which amended section 1427 of this title, was renumbered section 308 by Pub. L. 95–88, title II, § 211(a)(1), Aug. 3, 1977, 91 Stat. 548.
+A prior section 301 of act July 10, 1954, ch. 469, title III, 68 Stat. 458, which amended section 1427 of this title, was renumbered section 308 by Pub. L. 95–88, title II, § 211(a)(1), Aug. 3, 1977, 91 Stat. 548.
 
 **Amendments**
 
@@ -2149,7 +2149,7 @@ A prior section 301 of act July 10, 1954, ch. 469, title III, 68 Stat. 458, whic
 
 1985—Subsec. (b). Pub. L. 99–198 inserted “(including immunization of children)” after “health services”.
 
-1979—Subsec. (a). Pub. L. 96–53 inserted “, or the dollar sales value of the commodities themselves,” after “the local sale of such commodities”, and substituted “in the participating country of funds from the sale of such commodities or of the commodities themselves” for “of funds from the sale of such commodities in the participating country”.
+1979—Subsec. (a). Pub. L. 96–53 inserted “, or the dollar sales value of the commodities themselves,” after “the local sale of such commodities”, and substituted “in the participating country of funds from the sale of such commodities or of the commodities themselves” for “of funds from the sale of such commodities in the participating country”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2167,7 +2167,7 @@ Section effective Oct. 1, 1977, see section 215 of Pub. L. 95–88, set out as a
 
 **Amendment of Food for Development Agreements; Disaster Assistance for Bangladesh**
 
-Pub. L. 100–576, § 4(a)(2), (3), Oct. 31, 1988, 102 Stat. 2898, provided that:
+Pub. L. 100–576, § 4(a)(2), (3), Oct. 31, 1988, 102 Stat. 2898, provided that:
 
 > **“(2)** Food for Development agreements entered into under title III of that Act [this subchapter] before the date of enactment of this Act [Oct. 31, 1988] may be amended in order to implement the amendment made by paragraph (1) [amending this section].
 
@@ -2175,15 +2175,15 @@ Pub. L. 100–576, § 4(a)(2), (3), Oct. 31, 1988, 102 Stat. 2898, provided th
 
 **Increased Immunizations of Children; Reporting Requirement**
 
-Pub. L. 99–198, title XI, § 1112(b), Dec. 23, 1985, 99 Stat. 1478, as amended by Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821, provided that: “In the implementation of health programs undertaken in relation to assistance provided under the Food for Peace Act [this chapter], it shall be the goal of the organizations and agencies involved to provide as many additional immunizations of children as possible. Such increased immunization activities should be taken in coordination with similar efforts of other organizations and in keeping with any national plans for expanded programs of immunization. The President shall include information concerning such immunization activities in the annual reports required by section 634 of the Foreign Assistance Act of 1961 [22 U.S.C. 2394], including a report on the estimated number of immunizations provided each year pursuant to this subsection.”
+Pub. L. 99–198, title XI, § 1112(b), Dec. 23, 1985, 99 Stat. 1478, as amended by Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821, provided that: “In the implementation of health programs undertaken in relation to assistance provided under the Food for Peace Act [this chapter], it shall be the goal of the organizations and agencies involved to provide as many additional immunizations of children as possible. Such increased immunization activities should be taken in coordination with similar efforts of other organizations and in keeping with any national plans for expanded programs of immunization. The President shall include information concerning such immunization activities in the annual reports required by section 634 of the Foreign Assistance Act of 1961 [22 U.S.C. 2394], including a report on the estimated number of immunizations provided each year pursuant to this subsection.”
 
 **Executive Documents**
 
 **Implementation of Program**
 
-Program under this subchapter to provide for donation of agricultural commodities to least developed countries to be implemented by Administrator of the Agency for International Development, see Ex. Ord. No. 12752, § 1(c), Feb. 25, 1991, 56 F.R. 8255, set out as a note under section 1691 of this title.
+Program under this subchapter to provide for donation of agricultural commodities to least developed countries to be implemented by Administrator of the Agency for International Development, see Ex. Ord. No. 12752, § 1(c), Feb. 25, 1991, 56 F.R. 8255, set out as a note under section 1691 of this title.
 
-### § 1727a. Eligible countries
+### § 1727a. Eligible countries
 
 **(a) Least developed countries** A country shall be considered to be a least developed country and eligible for the donation of agricultural commodities under this subchapter if—
 
@@ -2215,13 +2215,13 @@ That the mortality rate of children under 5 years of age in the country is in ex
 
 **(4)** have a long-term plan for broad-based, equitable, and sustainable development.
 
-(July 10, 1954, ch. 469, title III, § 302, as added Pub. L. 95–88, title II, § 211(a)(2), Aug. 3, 1977, 91 Stat. 549; amended Pub. L. 96–53, title II, § 205, Aug. 14, 1979, 93 Stat. 369; Pub. L. 99–83, title X, § 1004(b), Aug. 8, 1985, 99 Stat. 271; Pub. L. 99–198, title XI, § 1108, Dec. 23, 1985, 99 Stat. 1467; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3642.)
+(July 10, 1954, ch. 469, title III, § 302, as added Pub. L. 95–88, title II, § 211(a)(2), Aug. 3, 1977, 91 Stat. 549; amended Pub. L. 96–53, title II, § 205, Aug. 14, 1979, 93 Stat. 369; Pub. L. 99–83, title X, § 1004(b), Aug. 8, 1985, 99 Stat. 271; Pub. L. 99–198, title XI, § 1108, Dec. 23, 1985, 99 Stat. 1467; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3642.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 302 of act July 10, 1954, ch. 469, title III, 68 Stat. 458, which amended section 1431 of this title, was renumbered section 309 by Pub. L. 95–88, title II, § 211(a)(1), Aug. 3, 1977, 91 Stat. 548.
+A prior section 302 of act July 10, 1954, ch. 469, title III, 68 Stat. 458, which amended section 1431 of this title, was renumbered section 309 by Pub. L. 95–88, title II, § 211(a)(1), Aug. 3, 1977, 91 Stat. 548.
 
 **Amendments**
 
@@ -2251,17 +2251,17 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 Section effective Oct. 1, 1977, see section 215 of Pub. L. 95–88, set out as an Effective Date of 1977 Amendment note under section 1702 of this title.
 
-### § 1727b. Grant programs
+### § 1727b. Grant programs
 
 To carry out the policies and accomplish the objectives described in section 1691 of this title, the Administrator may negotiate and execute agreements with least developed countries to provide commodities to such countries on a grant basis either through the Commodity Credit Corporation or through private trade channels.
 
-(July 10, 1954, ch. 469, title III, § 303, as added Pub. L. 95–88, title II, § 211(a)(2), Aug. 3, 1977, 91 Stat. 550; amended Pub. L. 96–53, title II, § 204(c), Aug. 14, 1979, 93 Stat. 369; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3642.)
+(July 10, 1954, ch. 469, title III, § 303, as added Pub. L. 95–88, title II, § 211(a)(2), Aug. 3, 1977, 91 Stat. 550; amended Pub. L. 96–53, title II, § 204(c), Aug. 14, 1979, 93 Stat. 369; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3642.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 303 of act July 10, 1954, ch. 469, title III, 68 Stat. 459, which enacted section 1692 of this title, was renumbered section 310 by Pub. L. 95–88, title II, § 211(a)(1), Aug. 3, 1977, 91 Stat. 548.
+A prior section 303 of act July 10, 1954, ch. 469, title III, 68 Stat. 459, which enacted section 1692 of this title, was renumbered section 310 by Pub. L. 95–88, title II, § 211(a)(1), Aug. 3, 1977, 91 Stat. 548.
 
 **Amendments**
 
@@ -2283,7 +2283,7 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 Section effective Oct. 1, 1977, see section 215 of Pub. L. 95–88, set out as an Effective Date of 1977 Amendment note under section 1702 of this title.
 
-### § 1727c. Direct uses or sales of commodities
+### § 1727c. Direct uses or sales of commodities
 
 Agricultural commodities provided to a least developed country under this section—
 
@@ -2295,13 +2295,13 @@ Agricultural commodities provided to a least developed country under this sectio
 
 **(2)** may be sold in such country by the government of the country or the Administrator (or their designees) as provided in the agreement, and the proceeds of such sale used in accordance with this subchapter.
 
-(July 10, 1954, ch. 469, title III, § 304, as added Pub. L. 95–88, title II, § 211(a)(2), Aug. 3, 1977, 91 Stat. 550; amended Pub. L. 95–424, title II, § 202, Oct. 6, 1978, 92 Stat. 955; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3642.)
+(July 10, 1954, ch. 469, title III, § 304, as added Pub. L. 95–88, title II, § 211(a)(2), Aug. 3, 1977, 91 Stat. 550; amended Pub. L. 95–424, title II, § 202, Oct. 6, 1978, 92 Stat. 955; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3642.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 304 of act July 10, 1954, ch. 469, title III, 68 Stat. 459, enacted section 1693 of this title, prior to repeal by Pub. L. 89–808, § 2(D), Nov. 11, 1966, 80 Stat. 1535.
+A prior section 304 of act July 10, 1954, ch. 469, title III, 68 Stat. 459, enacted section 1693 of this title, prior to repeal by Pub. L. 89–808, § 2(D), Nov. 11, 1966, 80 Stat. 1535.
 
 **Amendments**
 
@@ -2323,7 +2323,7 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 Section effective Oct. 1, 1977, see section 215 of Pub. L. 95–88, set out as an Effective Date of 1977 Amendment note under section 1702 of this title.
 
-### § 1727d. Local currency accounts
+### § 1727d. Local currency accounts
 
 **(a) Retention of proceeds** To the extent determined to be appropriate by the Administrator, revenues generated from the sale, under section 1727c(2) of this title, of agricultural commodities provided under this subchapter shall be deposited into a separate account (that may be interest bearing) in the recipient country to be disbursed for the benefit of such country in accordance with local currency agreements entered into between the recipient country and the Administrator. The Administrator may determine not to deposit such revenues in a separate account if—
 
@@ -2339,21 +2339,21 @@ The proceeds of sales pursuant to section 1727c(2) of this title shall be the pr
 
 The Administrator shall consider the local currency proceeds as an integral part of the overall development strategy of the Agency for International Development and the recipient country.
 
-(July 10, 1954, ch. 469, title III, § 305, as added Pub. L. 95–88, title II, § 211(a)(2), Aug. 3, 1977, 91 Stat. 550; amended Pub. L. 95–424, title II, § 203, Oct. 6, 1978, 92 Stat. 955; Pub. L. 96–53, title II, §§ 204(b), 206, Aug. 14, 1979, 93 Stat. 369; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3643.)
+(July 10, 1954, ch. 469, title III, § 305, as added Pub. L. 95–88, title II, § 211(a)(2), Aug. 3, 1977, 91 Stat. 550; amended Pub. L. 95–424, title II, § 203, Oct. 6, 1978, 92 Stat. 955; Pub. L. 96–53, title II, §§ 204(b), 206, Aug. 14, 1979, 93 Stat. 369; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3643.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 305 of act July 10, 1954, ch. 469, title III, 68 Stat. 459, enacted section 1694 of this title, prior to repeal by Pub. L. 89–808, § 2(D), Nov. 11, 1966, 80 Stat. 1535.
+A prior section 305 of act July 10, 1954, ch. 469, title III, 68 Stat. 459, enacted section 1694 of this title, prior to repeal by Pub. L. 89–808, § 2(D), Nov. 11, 1966, 80 Stat. 1535.
 
 **Amendments**
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing deposit of funds generated from sale of commodities into special account, providing that disbursements shall be considered payment by recipient government or as full forgiveness of repayment obligations, consideration of disbursements as payment with respect to credit obligations or annual repayment obligations, and application of dollar sales value of commodities against repayment obligations.
 
-1979—Subsec. (a). Pub. L. 96–53, § 206, inserted provisions relating to disbursements from the special account equal to the dollar value of credit furnished by the Commodity Credit Corporation under section 1727c(a) of this title.
+1979—Subsec. (a). Pub. L. 96–53, § 206, inserted provisions relating to disbursements from the special account equal to the dollar value of credit furnished by the Commodity Credit Corporation under section 1727c(a) of this title.
 
-Subsec. (c). Pub. L. 96–53, § 204(b), added subsec. (c).
+Subsec. (c). Pub. L. 96–53, § 204(b), added subsec. (c).
 
 1978—Subsecs. (a), (b). Pub. L. 95–424 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -2375,7 +2375,7 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 Section effective Oct. 1, 1977, see section 215 of Pub. L. 95–88, set out as an Effective Date of 1977 Amendment note under section 1702 of this title.
 
-### § 1727e. Use of local currency proceeds
+### § 1727e. Use of local currency proceeds
 
 **(a) In general** The local currency proceeds of sales pursuant to section 1727c(2) of this title shall be used in the recipient country for specific economic development purposes, including—
 
@@ -2423,13 +2423,13 @@ A nongovernmental organization may invest local currencies that accrue to that o
 
 If the Administrator determines that local currencies deposited in a special account pursuant to this subchapter are not needed for any of the activities prescribed in paragraphs (1) through (13) of subsection (a) or for any other specific economic development purpose in the recipient country, the Administrator may use those currencies to provide support for any institution (other than an institution whose primary purpose is to provide religious education) located in the recipient country that provides education in agricultural sciences or other disciplines for a significant number of United States nationals (who may include members of the United States Armed Forces or the Foreign Service or dependents of such members).
 
-(July 10, 1954, ch. 469, title III, § 306, as added Pub. L. 95–88, title II, § 211(a)(2), Aug. 3, 1977, 91 Stat. 551; amended Pub. L. 96–53, title II, § 207(a), Aug. 14, 1979, 93 Stat. 369; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3643; Pub. L. 104–127, title II, § 211(a), Apr. 4, 1996, 110 Stat. 955.)
+(July 10, 1954, ch. 469, title III, § 306, as added Pub. L. 95–88, title II, § 211(a)(2), Aug. 3, 1977, 91 Stat. 551; amended Pub. L. 96–53, title II, § 207(a), Aug. 14, 1979, 93 Stat. 369; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3643; Pub. L. 104–127, title II, § 211(a), Apr. 4, 1996, 110 Stat. 955.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 306 of act July 10, 1954, ch. 469, title III, as added Sept. 21, 1959, Pub. L. 86–341, title I, § 11, 73 Stat. 608, enacted section 1695 of this title, prior to repeal by Pub. L. 89–808, § 2(D), Nov. 11, 1966, 80 Stat. 1535.
+A prior section 306 of act July 10, 1954, ch. 469, title III, as added Sept. 21, 1959, Pub. L. 86–341, title I, § 11, 73 Stat. 608, enacted section 1695 of this title, prior to repeal by Pub. L. 89–808, § 2(D), Nov. 11, 1966, 80 Stat. 1535.
 
 **Amendments**
 
@@ -2457,31 +2457,31 @@ Section effective Oct. 1, 1977, see section 215 of Pub. L. 95–88, set out as a
 
 **Use of Foreign Currencies**
 
-Foreign currencies accruing to United States under this subchapter may be used for purposes set forth in this section, see Ex. Ord. No. 12752, § 2(b)(1), Feb. 25, 1991, 56 F.R. 8255, set out as a note under section 1691 of this title.
+Foreign currencies accruing to United States under this subchapter may be used for purposes set forth in this section, see Ex. Ord. No. 12752, § 2(b)(1), Feb. 25, 1991, 56 F.R. 8255, set out as a note under section 1691 of this title.
 
-### §§ 1727f, 1727g. Omitted
+### §§ 1727f, 1727g. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Sections were omitted in the general revision of this chapter by Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3633.
+Sections were omitted in the general revision of this chapter by Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3633.
 
-Section 1727f, act July 10, 1954, ch. 469, title III, § 307, as added Aug. 3, 1977, Pub. L. 95–88, title II, § 211(a)(2), 91 Stat. 551; amended Aug. 14, 1979, Pub. L. 96–53, title II, § 207(b), 93 Stat. 369, related to annual presidential review of agreements for use of proceeds from sales of commodities.
+Section 1727f, act July 10, 1954, ch. 469, title III, § 307, as added Aug. 3, 1977, Pub. L. 95–88, title II, § 211(a)(2), 91 Stat. 551; amended Aug. 14, 1979, Pub. L. 96–53, title II, § 207(b), 93 Stat. 369, related to annual presidential review of agreements for use of proceeds from sales of commodities.
 
-A prior section 307 of act July 10, 1954, ch. 469, title III, as added Sept. 21, 1959, Pub. L. 86–341, title I, § 12, 73 Stat. 609, which enacted section 1696 of this title, was repealed by Pub. L. 89–808, § 2(D), Nov. 11, 1966, 80 Stat. 1535.
+A prior section 307 of act July 10, 1954, ch. 469, title III, as added Sept. 21, 1959, Pub. L. 86–341, title I, § 12, 73 Stat. 609, which enacted section 1696 of this title, was repealed by Pub. L. 89–808, § 2(D), Nov. 11, 1966, 80 Stat. 1535.
 
-Section 1727g, act July 10, 1954, ch. 469, title III, § 310, formerly § 303, 68 Stat. 459; Pub. L. 85–931, § 6, Sept. 6, 1958, 72 Stat. 1791; Pub. L. 90–436, § 7, July 29, 1968, 82 Stat. 451; renumbered § 310, Pub. L. 95–88, title II, § 211(a)(1), Aug. 3, 1977, 91 Stat. 548; Pub. L. 99–198, title XI, § 1167(c), Dec. 23, 1985, 99 Stat. 1503, related to authority of Secretary to barter agricultural commodities for strategic and other materials.
+Section 1727g, act July 10, 1954, ch. 469, title III, § 310, formerly § 303, 68 Stat. 459; Pub. L. 85–931, § 6, Sept. 6, 1958, 72 Stat. 1791; Pub. L. 90–436, § 7, July 29, 1968, 82 Stat. 451; renumbered § 310, Pub. L. 95–88, title II, § 211(a)(1), Aug. 3, 1977, 91 Stat. 548; Pub. L. 99–198, title XI, § 1167(c), Dec. 23, 1985, 99 Stat. 1503, related to authority of Secretary to barter agricultural commodities for strategic and other materials.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Barter of Agricultural Commodities for Strategic and Critical Materials**
 
-Pub. L. 99–198, title XI, § 1167(a), Dec. 23, 1985, 99 Stat. 1502, set out findings by Congress concerning the barter or exchange of agricultural commodities for strategic and critical materials for the national defense stockpile, prior to repeal by Pub. L. 101–624, title XV, § 1572(3), Nov. 28, 1990, 104 Stat. 3702.
+Pub. L. 99–198, title XI, § 1167(a), Dec. 23, 1985, 99 Stat. 1502, set out findings by Congress concerning the barter or exchange of agricultural commodities for strategic and critical materials for the national defense stockpile, prior to repeal by Pub. L. 101–624, title XV, § 1572(3), Nov. 28, 1990, 104 Stat. 3702.
 
 ## SUBCHAPTER III–B—EMERGENCY FOOD ASSISTANCE
 
-### § 1728. Findings regarding emergency food assistance
+### § 1728. Findings regarding emergency food assistance
 
 The Congress finds that—
 
@@ -2493,7 +2493,7 @@ The Congress finds that—
 
 **(4)** the ability of the United States to provide food and other necessary assistance on a timely basis, and to ensure that such assistance is distributed to those in need, should be enhanced in order to better enable the United States to help those affected by severe food shortages.
 
-(Pub. L. 98–473, title III, § 302, Oct. 12, 1984, 98 Stat. 2194.)
+(Pub. L. 98–473, title III, § 302, Oct. 12, 1984, 98 Stat. 2194.)
 
 **Editorial Notes**
 
@@ -2505,9 +2505,9 @@ Section was enacted as part of the President’s Emergency Food Assistance Act o
 
 **Short Title**
 
-Pub. L. 98–473, title III, § 301, Oct. 12, 1984, 98 Stat. 2194, provided that: “This title [enacting this subchapter and amending section 1723 of this title] may be cited as the ‘President’s Emergency Food Assistance Act of 1984’.”
+Pub. L. 98–473, title III, § 301, Oct. 12, 1984, 98 Stat. 2194, provided that: “This title [enacting this subchapter and amending section 1723 of this title] may be cited as the ‘President’s Emergency Food Assistance Act of 1984’.”
 
-### § 1728a. President’s Emergency Food Assistance Fund
+### § 1728a. President’s Emergency Food Assistance Fund
 
 **(a) Establishment; authority of President to furnish assistance from Fund**
 
@@ -2521,13 +2521,13 @@ Because the effects of severe food shortages will vary with the country or regio
 
 There are authorized to be appropriated to the President $50,000,000 each for fiscal year 1985 and fiscal year 1986 to carry out the purposes of this subchapter, to remain available until expanded.1
 
-<sup>1</sup>  So in original. Probably should be “expended.”
+<sup>1</sup> So in original. Probably should be “expended.”
 
 **(d) Authority of President**
 
 The President may make loans, advances, and grants to, make and perform agreements and contracts with, or enter into transactions with, any individual, corporation, or other body of persons, government or government agency, whether within or without the United States, and international and intergovernmental organizations in furtherance of the purposes and within the limitations of this subchapter.
 
-(Pub. L. 98–473, title III, § 303, Oct. 12, 1984, 98 Stat. 2194.)
+(Pub. L. 98–473, title III, § 303, Oct. 12, 1984, 98 Stat. 2194.)
 
 **Editorial Notes**
 
@@ -2535,17 +2535,17 @@ The President may make loans, advances, and grants to, make and perform agreemen
 
 Section was enacted as part of the President’s Emergency Food Assistance Act of 1984, and not as part of the Food for Peace Act which comprises this chapter.
 
-### § 1728b. Omitted
+### § 1728b. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 98–473, title III, § 304, Oct. 12, 1984, 98 Stat. 2195, which required the President to submit a comprehensive annual report to appropriate committees of Congress detailing activities carried out under this subchapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 21 of House Document No. 103–7.
+Section, Pub. L. 98–473, title III, § 304, Oct. 12, 1984, 98 Stat. 2195, which required the President to submit a comprehensive annual report to appropriate committees of Congress detailing activities carried out under this subchapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 21 of House Document No. 103–7.
 
 ## SUBCHAPTER IV—GENERAL AUTHORITIES AND REQUIREMENTS
 
-### § 1731. Commodity determinations
+### § 1731. Commodity determinations
 
 **(a) Ineligible commodities**
 
@@ -2561,7 +2561,7 @@ Tobacco or the products thereof shall not be made available under section 1727b 
 
 Subsection (a)(1) shall not be construed to prohibit representatives of the United States wine, beer, distilled spirits, or other alcoholic beverage industry from participating in agricultural market development activities carried out by the Secretary with foreign currencies made available under subchapter II of this chapter.
 
-(July 10, 1954, ch. 469, title IV, § 401, as added Pub. L. 86–341, title I, § 14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 87–703, title II, § 201(1), Sept. 27, 1962, 76 Stat. 610; Pub. L. 89–808, § 2(E), Nov. 11, 1966, 80 Stat. 1535; Pub. L. 95–88, title II, § 212, Aug. 3, 1977, 91 Stat. 551; Pub. L. 95–113, title XII, § 1204, Sept. 29, 1977, 91 Stat. 956; Pub. L. 96–53, title II, § 208, Aug. 14, 1979, 93 Stat. 370; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3645; Pub. L. 104–127, title II, § 212, Apr. 4, 1996, 110 Stat. 955; Pub. L. 110–246, title III, § 3014(a), June 18, 2008, 122 Stat. 1826.)
+(July 10, 1954, ch. 469, title IV, § 401, as added Pub. L. 86–341, title I, § 14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 87–703, title II, § 201(1), Sept. 27, 1962, 76 Stat. 610; Pub. L. 89–808, § 2(E), Nov. 11, 1966, 80 Stat. 1535; Pub. L. 95–88, title II, § 212, Aug. 3, 1977, 91 Stat. 551; Pub. L. 95–113, title XII, § 1204, Sept. 29, 1977, 91 Stat. 956; Pub. L. 96–53, title II, § 208, Aug. 14, 1979, 93 Stat. 370; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3645; Pub. L. 104–127, title II, § 212, Apr. 4, 1996, 110 Stat. 955; Pub. L. 110–246, title III, § 3014(a), June 18, 2008, 122 Stat. 1826.)
 
 **Editorial Notes**
 
@@ -2611,7 +2611,7 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
 **Export Sales of Dairy Products**
 
-Pub. L. 99–198, title XI, § 1163, Dec. 23, 1985, 99 Stat. 1499, as amended by Pub. L. 100–435, title I, § 107, Sept. 19, 1988, 102 Stat. 1651; Pub. L. 101–624, title I, § 111, Nov. 28, 1990, 104 Stat. 3380; Pub. L. 103–465, title IV, § 411(c), Dec. 8, 1994, 108 Stat. 4963, provided that:
+Pub. L. 99–198, title XI, § 1163, Dec. 23, 1985, 99 Stat. 1499, as amended by Pub. L. 100–435, title I, § 107, Sept. 19, 1988, 102 Stat. 1651; Pub. L. 101–624, title I, § 111, Nov. 28, 1990, 104 Stat. 3380; Pub. L. 103–465, title IV, § 411(c), Dec. 8, 1994, 108 Stat. 4963, provided that:
 
 > **“(a)** In each fiscal year, the Secretary of Agriculture may sell dairy products for export, at such prices as the Secretary determines appropriate, in a quantity and allocated as determined by the Secretary, consistent with the obligations undertaken by the United States set forth in the Uruguay Round Agreements, if the disposition of the commodities will not interfere with the usual marketings of the United States nor disrupt world prices of agricultural commodities and patterns of commercial trade.
 
@@ -2623,7 +2623,7 @@ Pub. L. 99–198, title XI, § 1163, Dec. 23, 1985, 99 Stat. 1499, as amended 
 
 [Amendment of section 1163 of Pub. L. 99–198, set out above, by Pub. L. 100–435 effective and implemented on Oct. 1, 1988, see section 701 of Pub. L. 100–435, set out as a note under section 2012 of this title.]
 
-### § 1732. Definitions
+### § 1732. Definitions
 
 As used in this chapter:
 
@@ -2667,7 +2667,7 @@ The term “private voluntary organization” means a not-for-profit, nongovernm
 
 The term “Secretary” means the Secretary of Agriculture, unless otherwise specified in this chapter.
 
-(July 10, 1954, ch. 469, title IV, § 402, as added Pub. L. 86–341, title I, § 14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 87–703, title II, § 201(2), Sept. 27, 1962, 76 Stat. 611; Pub. L. 89–808, § 2(E), Nov. 11, 1966, 80 Stat. 1536; Pub. L. 92–42, July 1, 1971, 85 Stat. 99; Pub. L. 95–113, title XII, § 1205, Sept. 29, 1977, 91 Stat. 956; Pub. L. 96–72, § 24, Sept. 29, 1979, 93 Stat. 536; Pub. L. 97–98, title XII, § 1213, Dec. 22, 1981, 95 Stat. 1281; Pub. L. 98–623, title IV, § 405(b), Nov. 8, 1984, 98 Stat. 3409; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3645; Pub. L. 104–127, title II, § 211(b), Apr. 4, 1996, 110 Stat. 955; Pub. L. 110–246, title III, § 3015, June 18, 2008, 122 Stat. 1826.)
+(July 10, 1954, ch. 469, title IV, § 402, as added Pub. L. 86–341, title I, § 14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 87–703, title II, § 201(2), Sept. 27, 1962, 76 Stat. 611; Pub. L. 89–808, § 2(E), Nov. 11, 1966, 80 Stat. 1536; Pub. L. 92–42, July 1, 1971, 85 Stat. 99; Pub. L. 95–113, title XII, § 1205, Sept. 29, 1977, 91 Stat. 956; Pub. L. 96–72, § 24, Sept. 29, 1979, 93 Stat. 536; Pub. L. 97–98, title XII, § 1213, Dec. 22, 1981, 95 Stat. 1281; Pub. L. 98–623, title IV, § 405(b), Nov. 8, 1984, 98 Stat. 3409; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3645; Pub. L. 104–127, title II, § 211(b), Apr. 4, 1996, 110 Stat. 955; Pub. L. 110–246, title III, § 3015, June 18, 2008, 122 Stat. 1826.)
 
 **Editorial Notes**
 
@@ -2719,7 +2719,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 89–808, set out as a note under section 1691 of this title.
 
-### § 1733. General provisions
+### § 1733. General provisions
 
 **(a) Prohibition** No agricultural commodity, food procured outside of the United States, food voucher, or cash transfer for food shall be made available under this chapter unless it is determined that—
 
@@ -2825,41 +2825,41 @@ Local currencies that are made available for use under this chapter may not be u
 
 A sale described in paragraph (1) may be made in United States dollars or other currencies.
 
-(July 10, 1954, ch. 469, title IV, § 403, as added Pub. L. 86–341, title I, § 14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 87–703, title II, § 201(3), Sept. 27, 1962, 76 Stat. 611; Pub. L. 88–638, § 1(17), Oct. 8, 1964, 78 Stat. 1037; Pub. L. 89–808, § 2(E), Nov. 11, 1966, 80 Stat. 1536; Pub. L. 95–113, title XII, § 1206, Sept. 29, 1977, 91 Stat. 956; Pub. L. 96–533, title IV, § 407, Dec. 16, 1980, 94 Stat. 3151; Pub. L. 97–98, title XII, § 1214, Dec. 22, 1981, 95 Stat. 1282; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3646; Pub. L. 102–237, title III, § 321, Dec. 13, 1991, 105 Stat. 1857; Pub. L. 104–127, title II, § 213, Apr. 4, 1996, 110 Stat. 956; Pub. L. 107–171, title III, § 3009(a), May 13, 2002, 116 Stat. 283; Pub. L. 113–79, title III, § 3008, Feb. 7, 2014, 128 Stat. 775; Pub. L. 115–334, title III, §§ 3109, 3112(b), Dec. 20, 2018, 132 Stat. 4604, 4606.)
+(July 10, 1954, ch. 469, title IV, § 403, as added Pub. L. 86–341, title I, § 14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 87–703, title II, § 201(3), Sept. 27, 1962, 76 Stat. 611; Pub. L. 88–638, § 1(17), Oct. 8, 1964, 78 Stat. 1037; Pub. L. 89–808, § 2(E), Nov. 11, 1966, 80 Stat. 1536; Pub. L. 95–113, title XII, § 1206, Sept. 29, 1977, 91 Stat. 956; Pub. L. 96–533, title IV, § 407, Dec. 16, 1980, 94 Stat. 3151; Pub. L. 97–98, title XII, § 1214, Dec. 22, 1981, 95 Stat. 1282; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3646; Pub. L. 102–237, title III, § 321, Dec. 13, 1991, 105 Stat. 1857; Pub. L. 104–127, title II, § 213, Apr. 4, 1996, 110 Stat. 956; Pub. L. 107–171, title III, § 3009(a), May 13, 2002, 116 Stat. 283; Pub. L. 113–79, title III, § 3008, Feb. 7, 2014, 128 Stat. 775; Pub. L. 115–334, title III, §§ 3109, 3112(b), Dec. 20, 2018, 132 Stat. 4604, 4606.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food for Progress Act of 1985, referred to in subsec. (*l*)(1)(C), is Pub. L. 99–198, title XI, § 1110, Dec. 23, 1985, 99 Stat. 1472, which is classified to section 1736*o* of this title.
+The Food for Progress Act of 1985, referred to in subsec. (*l*)(1)(C), is Pub. L. 99–198, title XI, § 1110, Dec. 23, 1985, 99 Stat. 1472, which is classified to section 1736*o* of this title.
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–334, § 3109(a)(1), inserted “, food procured outside of the United States, food voucher, or cash transfer for food” after “agricultural commodity” in introductory provisions.
+2018—Subsec. (a). Pub. L. 115–334, § 3109(a)(1), inserted “, food procured outside of the United States, food voucher, or cash transfer for food” after “agricultural commodity” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 115–334, § 3109(a)(2), inserted “in the case of the provision of an agricultural commodity,” before “adequate”.
+Subsec. (a)(1). Pub. L. 115–334, § 3109(a)(2), inserted “in the case of the provision of an agricultural commodity,” before “adequate”.
 
-Subsec. (a)(2). Pub. L. 115–334, § 3109(a)(3), substituted “agricultural commodity or use of the food procured outside of the United States, food voucher, or cash transfer for food” for “commodity”.
+Subsec. (a)(2). Pub. L. 115–334, § 3109(a)(3), substituted “agricultural commodity or use of the food procured outside of the United States, food voucher, or cash transfer for food” for “commodity”.
 
-Subsec. (b). Pub. L. 115–334, § 3109(b), in first sentence, inserted “, the use of food procured outside of the United States, food vouchers, and cash transfers for food,” after “agricultural commodities” and, in second sentence, struck out “of sales of agricultural commodities” after “benefits to the local economy”.
+Subsec. (b). Pub. L. 115–334, § 3109(b), in first sentence, inserted “, the use of food procured outside of the United States, food vouchers, and cash transfers for food,” after “agricultural commodities” and, in second sentence, struck out “of sales of agricultural commodities” after “benefits to the local economy”.
 
-Subsec. (m). Pub. L. 115–334, § 3112(b), struck out subsec. (m) which related to annual report on use of funds.
+Subsec. (m). Pub. L. 115–334, § 3112(b), struck out subsec. (m) which related to annual report on use of funds.
 
-2014—Subsec. (b). Pub. L. 113–79, § 3008(a), inserted at end “The Secretary or the Administrator, as appropriate, shall seek information, as part of the regular proposal and submission process, from implementing agencies on the potential costs and benefits to the local economy of sales of agricultural commodities within the recipient country.”
+2014—Subsec. (b). Pub. L. 113–79, § 3008(a), inserted at end “The Secretary or the Administrator, as appropriate, shall seek information, as part of the regular proposal and submission process, from implementing agencies on the potential costs and benefits to the local economy of sales of agricultural commodities within the recipient country.”
 
-Subsec. (m). Pub. L. 113–79, § 3008(b), added subsec. (m).
+Subsec. (m). Pub. L. 113–79, § 3008(b), added subsec. (m).
 
-2002—Subsec. (e). Pub. L. 107–171, § 3009(a)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
+2002—Subsec. (e). Pub. L. 107–171, § 3009(a)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Subsec. (*l*). Pub. L. 107–171, § 3009(a)(2), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 107–171, § 3009(a)(2), added subsec. (*l*).
 
-1996—Subsec. (b). Pub. L. 104–127, § 213(1), inserted heading and struck out former heading “Consultations” and in text struck out “consult with representatives from the International Monetary Fund, the International Bank for Reconstruction and Development, the World Bank, and other donor organizations to” before “ensure that”.
+1996—Subsec. (b). Pub. L. 104–127, § 213(1), inserted heading and struck out former heading “Consultations” and in text struck out “consult with representatives from the International Monetary Fund, the International Bank for Reconstruction and Development, the World Bank, and other donor organizations to” before “ensure that”.
 
-Subsec. (c). Pub. L. 104–127, § 213(2), struck out “from countries” after “require commitments” and substituted “or use for other” for “for use for other”.
+Subsec. (c). Pub. L. 104–127, § 213(2), struck out “from countries” after “require commitments” and substituted “or use for other” for “for use for other”.
 
-Subsec. (f). Pub. L. 104–127, § 213(3), inserted “or private entities, as appropriate,” after “from countries” and “or private entities” after “such countries”.
+Subsec. (f). Pub. L. 104–127, § 213(3), inserted “or private entities, as appropriate,” after “from countries” and “or private entities” after “such countries”.
 
-Subsec. (i)(2)(C). Pub. L. 104–127, § 213(4), struck out heading and text of subpar. (C). Text read as follows: “Not later than 30 days after an authorization is provided under subparagraph (B), the Secretary or the Administrator, as appropriate, shall prepare and submit to the appropriate committees of Congress a report concerning such authorization and include in any such report the reason for the authorization, including an explanation of why no alternatives to such handling or distribution were available.”
+Subsec. (i)(2)(C). Pub. L. 104–127, § 213(4), struck out heading and text of subpar. (C). Text read as follows: “Not later than 30 days after an authorization is provided under subparagraph (B), the Secretary or the Administrator, as appropriate, shall prepare and submit to the appropriate committees of Congress a report concerning such authorization and include in any such report the reason for the authorization, including an explanation of why no alternatives to such handling or distribution were available.”
 
 1991—Subsec. (i)(2)(C). Pub. L. 102–237 substituted “committees” for “Committees”.
 
@@ -2901,7 +2901,7 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
 Functions of President under subsec. (j) of this section delegated to Secretary of State by section 4(b) of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
 
-### § 1734. Agreements
+### § 1734. Agreements
 
 **(a) In general**
 
@@ -2943,17 +2943,17 @@ Before entering into agreements with foreign countries under subchapters II and 
 
 **(3)** fostering increased food security.
 
-(July 10, 1954, ch. 469, title IV, § 404, as added Pub. L. 86–341, title I, § 14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 89–808, § 2(E), Nov. 11, 1966, 80 Stat. 1536; Pub. L. 96–53, title II, § 209, Aug. 14, 1979, 93 Stat. 370; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3648; Pub. L. 104–127, title II, § 214, Apr. 4, 1996, 110 Stat. 956.)
+(July 10, 1954, ch. 469, title IV, § 404, as added Pub. L. 86–341, title I, § 14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 89–808, § 2(E), Nov. 11, 1966, 80 Stat. 1536; Pub. L. 96–53, title II, § 209, Aug. 14, 1979, 93 Stat. 370; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3648; Pub. L. 104–127, title II, § 214, Apr. 4, 1996, 110 Stat. 956.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–127, § 214(1), inserted “with foreign countries” after “Before entering into agreements”.
+1996—Subsec. (a). Pub. L. 104–127, § 214(1), inserted “with foreign countries” after “Before entering into agreements”.
 
-Subsec. (b)(2). Pub. L. 104–127, § 214(2), inserted “with foreign countries” after “agreements entered into” and “and broad-based economic growth” before semicolon at end.
+Subsec. (b)(2). Pub. L. 104–127, § 214(2), inserted “with foreign countries” after “agreements entered into” and “and broad-based economic growth” before semicolon at end.
 
-Subsec. (c)(1). Pub. L. 104–127, § 214(3), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Agreements to provide assistance on a multi-year basis under this chapter shall be made available to recipient countries or to eligible organizations.”
+Subsec. (c)(1). Pub. L. 104–127, § 214(3), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Agreements to provide assistance on a multi-year basis under this chapter shall be made available to recipient countries or to eligible organizations.”
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions outlining aims of assistance programs, namely humanitarian and national interest objectives, and requiring assessments of recipient countries to determine types and quantities of commodities needed, conditions under which distribution should take place, most suitable timing for delivery, etc.
 
@@ -2975,11 +2975,11 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 89–808, set out as a note under section 1691 of this title.
 
-### § 1735. Consultation
+### § 1735. Consultation
 
 The Secretary and the Administrator shall cooperate and consult in the implementation of this chapter.
 
-(July 10, 1954, ch. 469, title IV, § 405, as added Pub. L. 86–341, title I, § 14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 87–703, title II, § 201(4), Sept. 27, 1962, 76 Stat. 611; Pub. L. 89–808, § 2(E), Nov. 11, 1966, 80 Stat. 1536; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3650.)
+(July 10, 1954, ch. 469, title IV, § 405, as added Pub. L. 86–341, title I, § 14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 87–703, title II, § 201(4), Sept. 27, 1962, 76 Stat. 611; Pub. L. 89–808, § 2(E), Nov. 11, 1966, 80 Stat. 1536; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3650.)
 
 **Editorial Notes**
 
@@ -3001,7 +3001,7 @@ Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. 
 
 Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 89–808, set out as a note under section 1691 of this title.
 
-### § 1736. Use of Commodity Credit Corporation
+### § 1736. Use of Commodity Credit Corporation
 
 **(a) In general**
 
@@ -3039,7 +3039,7 @@ The funds, facilities, and authorities of the Commodity Credit Corporation may b
 
 Funds shall be available under this chapter only to the extent provided in advance in appropriation Acts.
 
-(July 10, 1954, ch. 469, title IV, § 406, as added Pub. L. 86–341, title I, § 14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 87–703, title II, § 201(5), Sept. 27, 1962, 76 Stat. 611; Pub. L. 89–808, § 2(E), Nov. 11, 1966, 80 Stat. 1536; Pub. L. 94–161, title II, § 214, Dec. 20, 1975, 89 Stat. 855; Pub. L. 101–508, title I, § 1204(b)(2), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3650; Pub. L. 102–237, title III, § 323, Dec. 13, 1991, 105 Stat. 1857; Pub. L. 104–127, title II, § 215, Apr. 4, 1996, 110 Stat. 956; Pub. L. 110–246, title III, §§ 3014(b)(1), 3016, June 18, 2008, 122 Stat. 1826, 1827; Pub. L. 115–334, title III, § 3110, Dec. 20, 2018, 132 Stat. 4605.)
+(July 10, 1954, ch. 469, title IV, § 406, as added Pub. L. 86–341, title I, § 14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 87–703, title II, § 201(5), Sept. 27, 1962, 76 Stat. 611; Pub. L. 89–808, § 2(E), Nov. 11, 1966, 80 Stat. 1536; Pub. L. 94–161, title II, § 214, Dec. 20, 1975, 89 Stat. 855; Pub. L. 101–508, title I, § 1204(b)(2), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3650; Pub. L. 102–237, title III, § 323, Dec. 13, 1991, 105 Stat. 1857; Pub. L. 104–127, title II, § 215, Apr. 4, 1996, 110 Stat. 956; Pub. L. 110–246, title III, §§ 3014(b)(1), 3016, June 18, 2008, 122 Stat. 1826, 1827; Pub. L. 115–334, title III, § 3110, Dec. 20, 2018, 132 Stat. 4605.)
 
 **Editorial Notes**
 
@@ -3047,15 +3047,15 @@ Funds shall be available under this chapter only to the extent provided in advan
 
 2018—Subsec. (b)(6). Pub. L. 115–334 substituted “storage, distribution, and program implementation costs to use the commodities” for “storage and distribution costs”.
 
-2008—Subsec. (a). Pub. L. 110–246, § 3014(b)(1), struck out “(that have been determined to be available under section 1731(a) of this title)” after “commodities”.
+2008—Subsec. (a). Pub. L. 110–246, § 3014(b)(1), struck out “(that have been determined to be available under section 1731(a) of this title)” after “commodities”.
 
-Subsec. (b)(2). Pub. L. 110–246, § 3016, inserted “, including the costs of carrying out section 1736g–2 of this title” before semicolon at end.
+Subsec. (b)(2). Pub. L. 110–246, § 3016, inserted “, including the costs of carrying out section 1736g–2 of this title” before semicolon at end.
 
-1996—Subsec. (a). Pub. L. 104–127, § 215(1), substituted “may” for “shall” after “Corporation”.
+1996—Subsec. (a). Pub. L. 104–127, § 215(1), substituted “may” for “shall” after “Corporation”.
 
-Subsec. (b). Pub. L. 104–127, § 215(2)(A), in introductory provisions, substituted “subchapters III and III–A” for “this chapter”.
+Subsec. (b). Pub. L. 104–127, § 215(2)(A), in introductory provisions, substituted “subchapters III and III–A” for “this chapter”.
 
-Subsec. (b)(4). Pub. L. 104–127, § 215(2)(B), added par. (4) and struck out former par. (4) which read as follows: “the ocean freight charges from United States ports to designated ports of entry abroad;”.
+Subsec. (b)(4). Pub. L. 104–127, § 215(2)(B), added par. (4) and struck out former par. (4) which read as follows: “the ocean freight charges from United States ports to designated ports of entry abroad;”.
 
 1991—Subsec. (b)(5)(D). Pub. L. 102–237 substituted “time” for “items”.
 
@@ -3063,11 +3063,11 @@ Subsec. (b)(4). Pub. L. 104–127, § 215(2)(B), added par. (4) and struck out
 
 Subsec. (d). Pub. L. 101–508 added subsec. (d).
 
-1975—Subsec. (a). Pub. L. 94–161, § 214(1), substituted “the President” for “the Secretary of Agriculture”.
+1975—Subsec. (a). Pub. L. 94–161, § 214(1), substituted “the President” for “the Secretary of Agriculture”.
 
-Subsec. (a)(1). Pub. L. 94–161, § 214(2), struck out “through existing agencies of the Department of Agriculture” after “establish and administer”.
+Subsec. (a)(1). Pub. L. 94–161, § 214(2), struck out “through existing agencies of the Department of Agriculture” after “establish and administer”.
 
-Subsec. (a)(5). Pub. L. 94–161, § 214(3), substituted “with other foreign assistance activities of the United States” for “with the activities of the Peace Corps, the Agency for International Development, and other agencies of the United States and to assign, upon agreement with such agencies, such persons to work with and under the administration of such agencies: *Provided*, That nothing in this section shall be construed to infringe upon the powers or functions of the Secretary of State”.
+Subsec. (a)(5). Pub. L. 94–161, § 214(3), substituted “with other foreign assistance activities of the United States” for “with the activities of the Peace Corps, the Agency for International Development, and other agencies of the United States and to assign, upon agreement with such agencies, such persons to work with and under the administration of such agencies: *Provided*, That nothing in this section shall be construed to infringe upon the powers or functions of the Secretary of State”.
 
 1966—Pub. L. 89–808 substituted food production assistance provisions for provision respecting applicability of other laws, now provided for by section 1707(d) of this title.
 
@@ -3091,9 +3091,9 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
 **Farmer-to-Farmer Programs for Fiscal Years 1986 Through 1990**
 
-Pub. L. 99–198, title XI, § 1107, Dec. 23, 1985, 99 Stat. 1467, as amended by Pub. L. 100–277, § 6, Apr. 4, 1988, 102 Stat. 69, directed that not less than one-tenth of 1 percent of the funds available for each of the fiscal years ending Sept. 30, 1986, through Sept. 30, 1990, to carry out this chapter be used to carry out section 1736(a)(1), (2) of this title, and directed the Administrator of the Agency for International Development, in conjunction with the Secretary of Agriculture, to submit to Congress a report, not later than 120 days after Dec. 23, 1985, indicating the manner in which the Agency intended to implement such provisions.
+Pub. L. 99–198, title XI, § 1107, Dec. 23, 1985, 99 Stat. 1467, as amended by Pub. L. 100–277, § 6, Apr. 4, 1988, 102 Stat. 69, directed that not less than one-tenth of 1 percent of the funds available for each of the fiscal years ending Sept. 30, 1986, through Sept. 30, 1990, to carry out this chapter be used to carry out section 1736(a)(1), (2) of this title, and directed the Administrator of the Agency for International Development, in conjunction with the Secretary of Agriculture, to submit to Congress a report, not later than 120 days after Dec. 23, 1985, indicating the manner in which the Agency intended to implement such provisions.
 
-### § 1736–1. Special Assistant for Agricultural Trade and Food Assistance
+### § 1736–1. Special Assistant for Agricultural Trade and Food Assistance
 
 **(a) Appointment by President**
 
@@ -3131,7 +3131,7 @@ The Special Assistant shall serve in the Executive Office of the President.
 
 Compensation for the Special Assistant shall be fixed by the President at an annual rate of basic pay of not less than the rate applicable to positions in level III of the Executive Schedule.
 
-(Pub. L. 99–198, title XI, § 1113(a)–(d), Dec. 23, 1985, 99 Stat. 1479; Pub. L. 99–260, § 4(a)(1), (b), (d), Mar. 20, 1986, 100 Stat. 49; Pub. L. 101–624, title XV, § 1572(2), Nov. 28, 1990, 104 Stat. 3702.)
+(Pub. L. 99–198, title XI, § 1113(a)–(d), Dec. 23, 1985, 99 Stat. 1479; Pub. L. 99–260, § 4(a)(1), (b), (d), Mar. 20, 1986, 100 Stat. 49; Pub. L. 101–624, title XV, § 1572(2), Nov. 28, 1990, 104 Stat. 3702.)
 
 **Editorial Notes**
 
@@ -3149,13 +3149,13 @@ Another section 1113(d) of Pub. L. 99–198 amended section 5312 of Title 5, Gov
 
 1990—Subsec. (c)(9)(B), (C). Pub. L. 101–624 redesignated subpar. (C) as (B) and struck out former subpar. (B) which required that report contain identification of at least 15 target countries most likely to emerge as growth markets for commodities in next 5 to 10 years.
 
-1986—Pub. L. 99–260, § 4(a)(1)(A), substituted “Food Assistance” for “Food Aid” in section catchline.
+1986—Pub. L. 99–260, § 4(a)(1)(A), substituted “Food Assistance” for “Food Aid” in section catchline.
 
-Subsec. (a). Pub. L. 99–260, § 4(a)(1)(B), (b), substituted “Food Assistance” for “Food Aid” and inserted provision that the President appoint the initial Special Assistant not later than May 1, 1986.
+Subsec. (a). Pub. L. 99–260, § 4(a)(1)(B), (b), substituted “Food Assistance” for “Food Aid” and inserted provision that the President appoint the initial Special Assistant not later than May 1, 1986.
 
-Subsec. (d). Pub. L. 99–260, § 4(d), amended subsec. (d) generally, substituting provision relating to compensation of the Special Assistant for provision relating to additional required functions of the Special Assistant.
+Subsec. (d). Pub. L. 99–260, § 4(d), amended subsec. (d) generally, substituting provision relating to compensation of the Special Assistant for provision relating to additional required functions of the Special Assistant.
 
-### § 1736a. Administrative provisions
+### § 1736a. Administrative provisions
 
 **(a) Subchapter II programs**
 
@@ -3293,9 +3293,9 @@ Not later than April 1 of each fiscal year, the Administrator and the Secretary 
 
 **(iii)** For each instance in which a commodity was made available under this chapter at a rate of return less than 70 percent, the reasons for the rate of return realized.
 
-**(I)** For funds expended for purposes of section 1
+**(I)** For funds expended for purposes of section 1
 
-<sup>1</sup>  So in original. Probably should be “sections”.
+<sup>1</sup> So in original. Probably should be “sections”.
 
 1722(e), 1736(b)(6), and 1736a(c)(1)(B) of this title, a detailed accounting of the expenditures and purposes of such expenditures with respect to each such section.
 
@@ -3305,89 +3305,89 @@ Not later than April 1 of each fiscal year, the Administrator and the Secretary 
 
 **(B)** the cost to the Federal Government to procure and ship the commodity to a recipient country for monetization.
 
-(July 10, 1954, ch. 469, title IV, § 407, as added Pub. L. 89–808, § 2(E), Nov. 11, 1966, 80 Stat. 1537; amended Pub. L. 90–436, § 8, July 29, 1968, 82 Stat. 451; Pub. L. 94–161, title II, § 210, Dec. 20, 1975, 89 Stat. 854; Pub. L. 101–508, title I, § 1204(b)(3), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3650; Pub. L. 102–237, title III, §§ 319, 324, 325, 328, 329, 332, Dec. 13, 1991, 105 Stat. 1857, 1858; Pub. L. 104–66, title I, § 1011(e), Dec. 21, 1995, 109 Stat. 709; Pub. L. 104–127, title II, § 216, Apr. 4, 1996, 110 Stat. 957; Pub. L. 106–472, title III, § 310(b), Nov. 9, 2000, 114 Stat. 2076; Pub. L. 107–171, title III, §§ 3010, 3011, May 13, 2002, 116 Stat. 284; Pub. L. 110–246, title III, §§ 3017, 3018(a), June 18, 2008, 122 Stat. 1827; Pub. L. 113–79, title III, §§ 3009, 3010, Feb. 7, 2014, 128 Stat. 776, 777; Pub. L. 115–334, title III, §§ 3111, 3112(a), Dec. 20, 2018, 132 Stat. 4605.)
+(July 10, 1954, ch. 469, title IV, § 407, as added Pub. L. 89–808, § 2(E), Nov. 11, 1966, 80 Stat. 1537; amended Pub. L. 90–436, § 8, July 29, 1968, 82 Stat. 451; Pub. L. 94–161, title II, § 210, Dec. 20, 1975, 89 Stat. 854; Pub. L. 101–508, title I, § 1204(b)(3), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3650; Pub. L. 102–237, title III, §§ 319, 324, 325, 328, 329, 332, Dec. 13, 1991, 105 Stat. 1857, 1858; Pub. L. 104–66, title I, § 1011(e), Dec. 21, 1995, 109 Stat. 709; Pub. L. 104–127, title II, § 216, Apr. 4, 1996, 110 Stat. 957; Pub. L. 106–472, title III, § 310(b), Nov. 9, 2000, 114 Stat. 2076; Pub. L. 107–171, title III, §§ 3010, 3011, May 13, 2002, 116 Stat. 284; Pub. L. 110–246, title III, §§ 3017, 3018(a), June 18, 2008, 122 Stat. 1827; Pub. L. 113–79, title III, §§ 3009, 3010, Feb. 7, 2014, 128 Stat. 776, 777; Pub. L. 115–334, title III, §§ 3111, 3112(a), Dec. 20, 2018, 132 Stat. 4605.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food for Progress Act of 1985, referred to in subsec. (f)(2)(C)(iii), is Pub. L. 99–198, title XI, § 1110, Dec. 23, 1985, 99 Stat. 1472, which is classified to section 1736*o* of this title.
+The Food for Progress Act of 1985, referred to in subsec. (f)(2)(C)(iii), is Pub. L. 99–198, title XI, § 1110, Dec. 23, 1985, 99 Stat. 1472, which is classified to section 1736*o* of this title.
 
 **Codification**
 
-In subsec. (c)(2), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(2), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
-2018—Subsec. (c)(4)(A). Pub. L. 115–334, § 3111, substituted “2023” for “2018” in two places.
+2018—Subsec. (c)(4)(A). Pub. L. 115–334, § 3111, substituted “2023” for “2018” in two places.
 
-Subsec. (f). Pub. L. 115–334, § 3112(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) related to annual report regarding each program and activity carried out under this chapter and annual report regarding the administration of food assistance programs under subchapter III to benefit foreign countries.
+Subsec. (f). Pub. L. 115–334, § 3112(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) related to annual report regarding each program and activity carried out under this chapter and annual report regarding the administration of food assistance programs under subchapter III to benefit foreign countries.
 
-2014—Subsec. (c)(4)(A). Pub. L. 113–79, § 3009(1), substituted “2018” for “2012” and “for each of fiscal years 2001 through 2013 not more than $10,000,000 of such funds and for each of fiscal years 2014 through 2018 not more than $15,000,000 of such funds” for “for each such fiscal year not more than $10,000,000 of such funds”.
+2014—Subsec. (c)(4)(A). Pub. L. 113–79, § 3009(1), substituted “2018” for “2012” and “for each of fiscal years 2001 through 2013 not more than $10,000,000 of such funds and for each of fiscal years 2014 through 2018 not more than $15,000,000 of such funds” for “for each such fiscal year not more than $10,000,000 of such funds”.
 
-Subsec. (c)(4)(B). Pub. L. 113–79, § 3009(2), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows:
+Subsec. (c)(4)(B). Pub. L. 113–79, § 3009(2), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows:
 
 “(i) Feasibility assessments.—The Administrator may carry out assessments for the establishment of not less than 2 sites to determine the feasibility of, and costs associated with, using the sites to store and handle agricultural commodities for prepositioning in foreign countries.
 
 “(ii) Establishment of sites.—Based on the results of each assessment carried out under clause (i), the Administrator may establish additional sites for prepositioning in foreign countries.”
 
-Subsec. (f)(1). Pub. L. 113–79, § 3010(1), substituted “food aid” for “agricultural trade” in heading.
+Subsec. (f)(1). Pub. L. 113–79, § 3010(1), substituted “food aid” for “agricultural trade” in heading.
 
-Subsec. (f)(1)(B)(ii). Pub. L. 113–79, § 3010(2), inserted “and the total number of beneficiaries of the project and the activities carried out through such project” before semicolon at end.
+Subsec. (f)(1)(B)(ii). Pub. L. 113–79, § 3010(2), inserted “and the total number of beneficiaries of the project and the activities carried out through such project” before semicolon at end.
 
-Subsec. (f)(1)(B)(iii). Pub. L. 113–79, § 3010(3)(A), inserted “, and the total number of beneficiaries in,” after “commodities made available to” in introductory provisions.
+Subsec. (f)(1)(B)(iii). Pub. L. 113–79, § 3010(3)(A), inserted “, and the total number of beneficiaries in,” after “commodities made available to” in introductory provisions.
 
-Subsec. (f)(1)(B)(iii)(III). Pub. L. 113–79, § 3010(3)(B)–(D), added subcl. (III).
+Subsec. (f)(1)(B)(iii)(III). Pub. L. 113–79, § 3010(3)(B)–(D), added subcl. (III).
 
-2008—Subsec. (c)(4). Pub. L. 110–246, § 3017(1), designated existing provisions as subpar. (A), inserted heading, substituted “2012” for “2007” and “$10,000,000” for “$2,000,000”, and added subpar. (B).
+2008—Subsec. (c)(4). Pub. L. 110–246, § 3017(1), designated existing provisions as subpar. (A), inserted heading, substituted “2012” for “2007” and “$10,000,000” for “$2,000,000”, and added subpar. (B).
 
-Subsec. (c)(5). Pub. L. 110–246, § 3017(2), added par. (5).
+Subsec. (c)(5). Pub. L. 110–246, § 3017(2), added par. (5).
 
-Subsec. (f). Pub. L. 110–246, § 3018(a), added subsec. (f) and struck out former subsec. (f) which directed President to prepare an annual report concerning programs and activities implemented under this chapter for the preceding fiscal year, described contents of report, and directed that it be submitted not later than Jan. 15 of each year to the Committee on Agriculture and the Committee on Foreign Affairs of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+Subsec. (f). Pub. L. 110–246, § 3018(a), added subsec. (f) and struck out former subsec. (f) which directed President to prepare an annual report concerning programs and activities implemented under this chapter for the preceding fiscal year, described contents of report, and directed that it be submitted not later than Jan. 15 of each year to the Committee on Agriculture and the Committee on Foreign Affairs of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
-2002—Subsec. (c)(1). Pub. L. 107–171, § 3011, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+2002—Subsec. (c)(1). Pub. L. 107–171, § 3011, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-Subsec. (c)(4). Pub. L. 107–171, § 3010, substituted “through 2007” for “and 2002”.
+Subsec. (c)(4). Pub. L. 107–171, § 3010, substituted “through 2007” for “and 2002”.
 
 2000—Subsec. (c)(4). Pub. L. 106–472 added par. (4).
 
-1996—Pub. L. 104–127, § 216(2)–(5), which directed amendment of subsecs. (c), (d), (g), and (h), respectively, of this section, was executed to subsecs. (b), (c), (f), and (g), respectively, of this section, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 104–66 which struck out subsec. (b) and redesignated subsecs. (c) to (h) as (b) to (g), respectively. See 1995 Amendment note below.
+1996—Pub. L. 104–127, § 216(2)–(5), which directed amendment of subsecs. (c), (d), (g), and (h), respectively, of this section, was executed to subsecs. (b), (c), (f), and (g), respectively, of this section, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 104–66 which struck out subsec. (b) and redesignated subsecs. (c) to (h) as (b) to (g), respectively. See 1995 Amendment note below.
 
-Subsec. (a)(1). Pub. L. 104–127, § 216(1)(A), inserted “or private entity that enters into an agreement under subchapter II of this chapter” after “importing country”.
+Subsec. (a)(1). Pub. L. 104–127, § 216(1)(A), inserted “or private entity that enters into an agreement under subchapter II of this chapter” after “importing country”.
 
-Subsec. (a)(2). Pub. L. 104–127, § 216(1)(B), inserted at end “Resulting contracts may contain such terms and conditions as the Secretary determines are necessary and appropriate.”
+Subsec. (a)(2). Pub. L. 104–127, § 216(1)(B), inserted at end “Resulting contracts may contain such terms and conditions as the Secretary determines are necessary and appropriate.”
 
-Subsec. (b)(1)(A), (2)(A). Pub. L. 104–127, § 216(2), inserted “importer or” before “importing country”.
+Subsec. (b)(1)(A), (2)(A). Pub. L. 104–127, § 216(2), inserted “importer or” before “importing country”.
 
-Subsec. (c)(2). Pub. L. 104–127, § 216(3)(A), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “No purchase of agricultural commodities from private stocks or purchase of ocean transportation services by the United States Government shall be financed under subchapters III and III–A of this chapter unless such purchases are made on the basis of full and open competition utilizing such procedures as are determined necessary and appropriate by the Administrator.”
+Subsec. (c)(2). Pub. L. 104–127, § 216(3)(A), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “No purchase of agricultural commodities from private stocks or purchase of ocean transportation services by the United States Government shall be financed under subchapters III and III–A of this chapter unless such purchases are made on the basis of full and open competition utilizing such procedures as are determined necessary and appropriate by the Administrator.”
 
-Subsec. (c)(4). Pub. L. 104–127, § 216(3)(B), struck out heading and text of par. (4). Text read as follows: “Notwithstanding any provision of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) or other similar provisions relating to the making or performance of Federal Government contracts, the Administrator may procure ocean transportation services under this chapter under such full and open competitive procedures as the Administrator determines are necessary and appropriate.”
+Subsec. (c)(4). Pub. L. 104–127, § 216(3)(B), struck out heading and text of par. (4). Text read as follows: “Notwithstanding any provision of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) or other similar provisions relating to the making or performance of Federal Government contracts, the Administrator may procure ocean transportation services under this chapter under such full and open competitive procedures as the Administrator determines are necessary and appropriate.”
 
-Subsec. (f)(2)(D). Pub. L. 104–127, § 216(4), added subpar. (D).
+Subsec. (f)(2)(D). Pub. L. 104–127, § 216(4), added subpar. (D).
 
-Subsec. (g). Pub. L. 104–127, § 216(5), struck out heading and text of subsec. (g). Text read as follows: “On World Food Day, October 16 of each year, the President shall submit to the appropriate committees of Congress a report, prepared with the assistance of the Secretary and the Administrator, assessing progress towards food security in each country receiving United States Government food assistance. Special emphasis should be given in such report to the nutritional status of the poorest populations in such countries.”
+Subsec. (g). Pub. L. 104–127, § 216(5), struck out heading and text of subsec. (g). Text read as follows: “On World Food Day, October 16 of each year, the President shall submit to the appropriate committees of Congress a report, prepared with the assistance of the Secretary and the Administrator, assessing progress towards food security in each country receiving United States Government food assistance. Special emphasis should be given in such report to the nutritional status of the poorest populations in such countries.”
 
 1995—Subsecs. (b) to (h). Pub. L. 104–66 redesignated subsecs. (c) to (h) as (b) to (g), respectively, and struck out former subsec. (b) which required reporting of agricultural commodity or ocean transportation supplier fees.
 
-1991—Subsec. (b)(1). Pub. L. 102–237, § 329, struck out “or agricultural commodity donated” after “ocean transportation financed”.
+1991—Subsec. (b)(1). Pub. L. 102–237, § 329, struck out “or agricultural commodity donated” after “ocean transportation financed”.
 
-Subsec. (c)(1)(A). Pub. L. 102–237, § 324, substituted “subchapter II of this chapter” for “this section”.
+Subsec. (c)(1)(A). Pub. L. 102–237, § 324, substituted “subchapter II of this chapter” for “this section”.
 
-Subsec. (c)(1)(C). Pub. L. 102–237, § 325, struck out “other” before “foreign government”.
+Subsec. (c)(1)(C). Pub. L. 102–237, § 325, struck out “other” before “foreign government”.
 
-Subsec. (c)(2)(B), (3). Pub. L. 102–237, § 319, inserted “subchapter II of” before “this chapter”.
+Subsec. (c)(2)(B), (3). Pub. L. 102–237, § 319, inserted “subchapter II of” before “this chapter”.
 
-Subsec. (c)(4). Pub. L. 102–237, § 328(a), inserted “provides or” after “in which such person” and substituted “of a person” for “if the person is”.
+Subsec. (c)(4). Pub. L. 102–237, § 328(a), inserted “provides or” after “in which such person” and substituted “of a person” for “if the person is”.
 
-Subsec. (d)(3). Pub. L. 102–237, § 328(b), struck out “other” before “foreign government”.
+Subsec. (d)(3). Pub. L. 102–237, § 328(b), struck out “other” before “foreign government”.
 
-Subsec. (d)(4). Pub. L. 102–237, § 332, substituted “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)” for “the Federal Property Act of 1949, as amended,”.
+Subsec. (d)(4). Pub. L. 102–237, § 332, substituted “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)” for “the Federal Property Act of 1949, as amended,”.
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions which established an Advisory Committee to survey the general policies relating to the administration of this chapter, including implementation of self-help provisions, uses to be made of foreign currencies, amount of currencies to be reserved in sales agreements for loans to private industry, rates of exchange, interest rates, and terms under which dollar credit sales are made.
 
 Subsec. (c)(4). Pub. L. 101–508 substituted “providing ocean transportation or” for “providing ocean”.
 
-1975—Pub. L. 94–161 inserted “, or their designees (who shall be members of such committees or, in the case of members from the executive branch, who shall have been confirmed by the Senate)” in first sentence.
+1975—Pub. L. 94–161 inserted “, or their designees (who shall be members of such committees or, in the case of members from the executive branch, who shall have been confirmed by the Senate)” in first sentence.
 
 1968—Pub. L. 90–436 struck out provisions that the vice chairman and one ranking minority member of the specified House committees and the next ranking majority member and one ranking minority member of the specified Senate committees be members of the Advisory Committee, and inserted provisions requiring the Advisory Committee to meet not less than four times during each calendar year and setting forth the order of precedence at such meetings.
 
@@ -3411,13 +3411,13 @@ Section effective Jan. 1, 1967, see section 5 of Pub. L. 89–808, set out as an
 
 **Preparation of Annual Report**
 
-For provisions requiring Food Assistance Policy Council to prepare annual report pursuant to subsec. (g)(1) [now (f)(1)] of this section, see Ex. Ord. No. 12752, § 3(c), Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
+For provisions requiring Food Assistance Policy Council to prepare annual report pursuant to subsec. (g)(1) [now (f)(1)] of this section, see Ex. Ord. No. 12752, § 3(c), Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
 
-### § 1736b. Expiration date
+### § 1736b. Expiration date
 
 No agreements to finance sales or to provide other assistance under this chapter shall be entered into after December 31, 2023.
 
-(July 10, 1954, ch. 469, title IV, § 408, as added Pub. L. 89–808, § 2(E), Nov. 11, 1966, 80 Stat. 1537; amended Pub. L. 94–161, title II, § 211, Dec. 20, 1975, 89 Stat. 854; Pub. L. 95–88, title II, § 213, Aug. 3, 1977, 91 Stat. 551; Pub. L. 95–113, title XII, § 1207, Sept. 29, 1977, 91 Stat. 957; Pub. L. 96–470, title II, § 213, Oct. 19, 1980, 94 Stat. 2246; Pub. L. 97–98, title XII, § 1215, Dec. 22, 1981, 95 Stat. 1282; Pub. L. 99–83, title X, § 1006, Aug. 8, 1985, 99 Stat. 271; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3653; Pub. L. 104–127, title II, § 217, Apr. 4, 1996, 110 Stat. 957; Pub. L. 107–171, title III, § 3012, May 13, 2002, 116 Stat. 284; Pub. L. 110–246, title III, § 3019, June 18, 2008, 122 Stat. 1828; Pub. L. 113–79, title III, § 3011, Feb. 7, 2014, 128 Stat. 777; Pub. L. 115–334, title III, § 3113, Dec. 20, 2018, 132 Stat. 4607.)
+(July 10, 1954, ch. 469, title IV, § 408, as added Pub. L. 89–808, § 2(E), Nov. 11, 1966, 80 Stat. 1537; amended Pub. L. 94–161, title II, § 211, Dec. 20, 1975, 89 Stat. 854; Pub. L. 95–88, title II, § 213, Aug. 3, 1977, 91 Stat. 551; Pub. L. 95–113, title XII, § 1207, Sept. 29, 1977, 91 Stat. 957; Pub. L. 96–470, title II, § 213, Oct. 19, 1980, 94 Stat. 2246; Pub. L. 97–98, title XII, § 1215, Dec. 22, 1981, 95 Stat. 1282; Pub. L. 99–83, title X, § 1006, Aug. 8, 1985, 99 Stat. 271; Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3653; Pub. L. 104–127, title II, § 217, Apr. 4, 1996, 110 Stat. 957; Pub. L. 107–171, title III, § 3012, May 13, 2002, 116 Stat. 284; Pub. L. 110–246, title III, § 3019, June 18, 2008, 122 Stat. 1828; Pub. L. 113–79, title III, § 3011, Feb. 7, 2014, 128 Stat. 777; Pub. L. 115–334, title III, § 3113, Dec. 20, 2018, 132 Stat. 4607.)
 
 **Editorial Notes**
 
@@ -3481,13 +3481,13 @@ Amendment by Pub. L. 95–88 effective Oct. 1, 1977, see section 215 of Pub. L. 
 
 Section effective Jan. 1, 1967, see section 5 of Pub. L. 89–808, set out as an Effective Date of 1966 Amendment note under section 1691 of this title.
 
-### §§ 1736c, 1736d. Repealed. Pub. L. 104–127, title II, §§ 218, 219, Apr. 4, 1996, 110 Stat. 957
+### §§ 1736c, 1736d. Repealed. Pub. L. 104–127, title II, §§ 218, 219, Apr. 4, 1996, 110 Stat. 957
 
-Section 1736c, act July 10, 1954, ch. 469, title IV, § 409, as added Nov. 11, 1966, Pub. L. 89–808, § 2(E), 80 Stat. 1537; amended July 29, 1968, Pub. L. 90–436, § 1, 82 Stat. 450; Nov. 30, 1970, Pub. L. 91–524, title VII, § 701, 84 Stat. 1379; Aug. 10, 1973, Pub. L. 93–86, § 1(26), 87 Stat. 237; Sept. 29, 1977, Pub. L. 95–113, title XII, § 1208, 91 Stat. 957; Dec. 22, 1981, Pub. L. 97–98, title XII, § 1216, 95 Stat. 1282; Dec. 23, 1985, Pub. L. 99–198, title XI, § 1105, 99 Stat. 1466; Nov. 28, 1990, Pub. L. 101–624, title XV, § 1512, 104 Stat. 3653; Dec. 13, 1991, Pub. L. 102–237, title III, § 322, 105 Stat. 1857, required promulgation of regulations to implement chapter not later than 180 days after Nov. 28, 1990.
+Section 1736c, act July 10, 1954, ch. 469, title IV, § 409, as added Nov. 11, 1966, Pub. L. 89–808, § 2(E), 80 Stat. 1537; amended July 29, 1968, Pub. L. 90–436, § 1, 82 Stat. 450; Nov. 30, 1970, Pub. L. 91–524, title VII, § 701, 84 Stat. 1379; Aug. 10, 1973, Pub. L. 93–86, § 1(26), 87 Stat. 237; Sept. 29, 1977, Pub. L. 95–113, title XII, § 1208, 91 Stat. 957; Dec. 22, 1981, Pub. L. 97–98, title XII, § 1216, 95 Stat. 1282; Dec. 23, 1985, Pub. L. 99–198, title XI, § 1105, 99 Stat. 1466; Nov. 28, 1990, Pub. L. 101–624, title XV, § 1512, 104 Stat. 3653; Dec. 13, 1991, Pub. L. 102–237, title III, § 322, 105 Stat. 1857, required promulgation of regulations to implement chapter not later than 180 days after Nov. 28, 1990.
 
-Section 1736d, act July 10, 1954, ch. 469, title IV, § 410, as added Nov. 11, 1966, Pub. L. 89–808, § 2(E), 80 Stat. 1538; amended Nov. 28, 1990, Pub. L. 101–624, title XV, § 1512, 104 Stat. 3653; Dec. 13, 1991, Pub. L. 102–237, title III, § 322, 105 Stat. 1857, provided for independent evaluation of programs under subchapters II, III, and III–A of this chapter and report to Congress.
+Section 1736d, act July 10, 1954, ch. 469, title IV, § 410, as added Nov. 11, 1966, Pub. L. 89–808, § 2(E), 80 Stat. 1538; amended Nov. 28, 1990, Pub. L. 101–624, title XV, § 1512, 104 Stat. 3653; Dec. 13, 1991, Pub. L. 102–237, title III, § 322, 105 Stat. 1857, provided for independent evaluation of programs under subchapters II, III, and III–A of this chapter and report to Congress.
 
-### § 1736e. Debt forgiveness
+### § 1736e. Debt forgiveness
 
 **(a) Authority** The President, taking into account the financial resources of a country, may waive payments of principal and interest that such country would otherwise be required to make to the Commodity Credit Corporation under dollar sales agreements under subchapter II if—
 
@@ -3521,17 +3521,17 @@ If the authority of this section is used to waive payments otherwise required to
 
 The authority of this section applies with respect to credit sales agreements entered into before November 28, 1990.
 
-(July 10, 1954, ch. 469, title IV, § 411, as added Pub. L. 91–524, title VII, § 704, Nov. 30, 1970, as added Pub. L. 93–86, § 1(26), Aug. 10, 1973, 87 Stat. 237; amended Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3654; Pub. L. 102–237, title III, §§ 322, 326, 336, Dec. 13, 1991, 105 Stat. 1857, 1859.)
+(July 10, 1954, ch. 469, title IV, § 411, as added Pub. L. 91–524, title VII, § 704, Nov. 30, 1970, as added Pub. L. 93–86, § 1(26), Aug. 10, 1973, 87 Stat. 237; amended Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3654; Pub. L. 102–237, title III, §§ 322, 326, 336, Dec. 13, 1991, 105 Stat. 1857, 1859.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Subsec. (a). Pub. L. 102–237, § 326, substituted “subchapter II” for “this subchapter” in introductory provisions.
+1991—Subsec. (a). Pub. L. 102–237, § 326, substituted “subchapter II” for “this subchapter” in introductory provisions.
 
-Subsec. (b). Pub. L. 102–237, § 336, inserted “at least 10 days prior to providing the debt relief” before period at end of first sentence.
+Subsec. (b). Pub. L. 102–237, § 336, inserted “at least 10 days prior to providing the debt relief” before period at end of first sentence.
 
-Subsec. (e). Pub. L. 102–237, § 322, substituted “November 28, 1990” for “the date of enactment of this Act”.
+Subsec. (e). Pub. L. 102–237, § 322, substituted “November 28, 1990” for “the date of enactment of this Act”.
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions prohibiting assistance under subchapters II, III and III–A of this chapter to North Vietnam after July 1, 1973, unless specifically authorized by Act of Congress.
 
@@ -3543,7 +3543,7 @@ Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. 
 
 **Renegotiation of Payment Terms of Loans for Sale of Agricultural Commodities**
 
-Pub. L. 102–27, title II, Apr. 10, 1991, 105 Stat. 147, as amended by Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821, provided that: “Title I of the Public Law 480 [7 U.S.C. 1701 et seq.] program allowed for the repayment of loans for the sale of agricultural commodities in foreign or local currencies until December 31, 1971. Since that time, until the law was changed in the 1985 farm bill [probably means Pub. L. 99–198, see Tables for classification], all sales have been on dollar credit terms. In view of the present financial situation, it is impossible for many countries to repay their loans in dollars. Therefore, the President may use the authority in section 411 and section 604 of the Food for Peace Act [7 U.S.C. 1736e, 1738c] to renegotiate the payment on Public Law 480 debt in eligible countries in Latin America, the Caribbean and sub-Saharan Africa.”
+Pub. L. 102–27, title II, Apr. 10, 1991, 105 Stat. 147, as amended by Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821, provided that: “Title I of the Public Law 480 [7 U.S.C. 1701 et seq.] program allowed for the repayment of loans for the sale of agricultural commodities in foreign or local currencies until December 31, 1971. Since that time, until the law was changed in the 1985 farm bill [probably means Pub. L. 99–198, see Tables for classification], all sales have been on dollar credit terms. In view of the present financial situation, it is impossible for many countries to repay their loans in dollars. Therefore, the President may use the authority in section 411 and section 604 of the Food for Peace Act [7 U.S.C. 1736e, 1738c] to renegotiate the payment on Public Law 480 debt in eligible countries in Latin America, the Caribbean and sub-Saharan Africa.”
 
 **Executive Documents**
 
@@ -3551,7 +3551,7 @@ Pub. L. 102–27, title II, Apr. 10, 1991, 105 Stat. 147, as amended by Pub. L. 
 
 Functions of President under this section delegated to Secretary of Agriculture, in consultation with Food Assistance Policy Council and Department of the Treasury, by section 4(d) of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
 
-### § 1736f. Authorization of appropriations
+### § 1736f. Authorization of appropriations
 
 **(a) Authorization of appropriations** There are authorized to be appropriated—
 
@@ -3597,13 +3597,13 @@ Funds appropriated each year to carry out part I of the Foreign Assistance Act o
 
 In determining the amount expended for a fiscal year for nonemergency food assistance programs under paragraph (1), amounts expended for that year to carry out programs under section 1737 of this title may be considered amounts expended for nonemergency food assistance programs.
 
-(July 10, 1954, ch. 469, title IV, § 412, as added Pub. L. 94–161, title II, § 212, Dec. 20, 1975, 89 Stat. 855; amended Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3655; Pub. L. 104–127, title II, § 220, Apr. 4, 1996, 110 Stat. 958; Pub. L. 106–387, § 1(a) [title VII, § 768], Oct. 28, 2000, 114 Stat. 1549, 1549A–45; Pub. L. 110–246, title III, §§ 3020, 3021, June 18, 2008, 122 Stat. 1829; Pub. L. 113–79, title III, § 3012, Feb. 7, 2014, 128 Stat. 777; Pub. L. 115–334, title III, § 3114, Dec. 20, 2018, 132 Stat. 4607.)
+(July 10, 1954, ch. 469, title IV, § 412, as added Pub. L. 94–161, title II, § 212, Dec. 20, 1975, 89 Stat. 855; amended Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3655; Pub. L. 104–127, title II, § 220, Apr. 4, 1996, 110 Stat. 958; Pub. L. 106–387, § 1(a) [title VII, § 768], Oct. 28, 2000, 114 Stat. 1549, 1549A–45; Pub. L. 110–246, title III, §§ 3020, 3021, June 18, 2008, 122 Stat. 1829; Pub. L. 113–79, title III, § 3012, Feb. 7, 2014, 128 Stat. 777; Pub. L. 115–334, title III, § 3114, Dec. 20, 2018, 132 Stat. 4607.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (e)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of Title 22, Foreign Relations and Intercourse. For provisions deeming references to subchapter I to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of Title 22, and sections 2348c and 2349aa–5 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (e)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of Title 22, Foreign Relations and Intercourse. For provisions deeming references to subchapter I to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of Title 22, and sections 2348c and 2349aa–5 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 **Amendments**
 
@@ -3611,19 +3611,19 @@ The Foreign Assistance Act of 1961, referred to in subsec. (e)(2), is Pub. L. 87
 
 2014—Subsec. (e). Pub. L. 113–79 amended subsec. (e) generally. Prior to amendment, subsec. (e) specified minimum amounts to be expended for nonemergency food assistance programs under subchapter III for fiscal years 2009 to 2012, provided an exception allowing the President to use less than the amount specified, and required notification to Congress if the President determined that there was an urgent need for additional emergency food assistance.
 
-2008—Subsec. (a). Pub. L. 110–246, § 3020, added subsec. (a) and struck out former subsec. (a) which authorized appropriations for programs under subchapters II, III, and III–A of this chapter.
+2008—Subsec. (a). Pub. L. 110–246, § 3020, added subsec. (a) and struck out former subsec. (a) which authorized appropriations for programs under subchapters II, III, and III–A of this chapter.
 
-Subsec. (e). Pub. L. 110–246, § 3021, added subsec. (e).
+Subsec. (e). Pub. L. 110–246, § 3021, added subsec. (e).
 
 2000—Subsec. (d). Pub. L. 106–387 substituted “dairy price support operations” for “title I of the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.)”.
 
-1996—Subsec. (b). Pub. L. 104–127, § 220(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “Of the amounts made available in each fiscal year to carry out subchapters II and III–A of this chapter, not less than—
+1996—Subsec. (b). Pub. L. 104–127, § 220(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “Of the amounts made available in each fiscal year to carry out subchapters II and III–A of this chapter, not less than—
 
 “(1) 40 percent shall be made available to carry out the credit sales program established under subchapter II of this chapter; and
 
 “(2) 40 percent shall be made available to carry out the grant program established under subchapter III–A of this chapter.”
 
-Subsecs. (c) to (e). Pub. L. 104–127, § 220, redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out heading and text of former subsec. (c). Text read as follows: “Notwithstanding any other provision of law and except as provided in subsection (b) of this section, if the President determines it to be necessary for purposes of this chapter, the President may direct that not in excess of 15 percent of the funds available in any fiscal year for carrying out any subchapter of this chapter be used to carry out any other subchapter of this chapter.”
+Subsecs. (c) to (e). Pub. L. 104–127, § 220, redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out heading and text of former subsec. (c). Text read as follows: “Notwithstanding any other provision of law and except as provided in subsection (b) of this section, if the President determines it to be necessary for purposes of this chapter, the President may direct that not in excess of 15 percent of the funds available in any fiscal year for carrying out any subchapter of this chapter be used to carry out any other subchapter of this chapter.”
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing President to seek agreement for international food reserve, with costs to be shared equitably among nations, and with safeguards against price disruptions.
 
@@ -3639,17 +3639,17 @@ Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. 
 
 **Availability of Funds**
 
-Pub. L. 109–97, title VII, § 722, Nov. 10, 2005, 119 Stat. 2152, as amended by Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821, provided that: “Hereafter, notwithstanding section 412 of the Food for Peace Act (7 U.S.C. 1736f), any balances available to carry out title III of such Act [7 U.S.C. 1727 et seq.] as of the date of enactment of this Act [Nov. 10, 2005], and any recoveries and reimbursements that become available to carry out title III of such Act, may be used to carry out title II of such Act [7 U.S.C. 1721 et seq.].”
+Pub. L. 109–97, title VII, § 722, Nov. 10, 2005, 119 Stat. 2152, as amended by Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821, provided that: “Hereafter, notwithstanding section 412 of the Food for Peace Act (7 U.S.C. 1736f), any balances available to carry out title III of such Act [7 U.S.C. 1727 et seq.] as of the date of enactment of this Act [Nov. 10, 2005], and any recoveries and reimbursements that become available to carry out title III of such Act, may be used to carry out title II of such Act [7 U.S.C. 1721 et seq.].”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 108–447, div. A, title VII, § 724, Dec. 8, 2004, 118 Stat. 2841.
+Pub. L. 108–447, div. A, title VII, § 724, Dec. 8, 2004, 118 Stat. 2841.
 
-Pub. L. 108–199, div. A, title VII, § 724, Jan. 23, 2004, 118 Stat. 34.
+Pub. L. 108–199, div. A, title VII, § 724, Jan. 23, 2004, 118 Stat. 34.
 
-Pub. L. 108–7, div. A, title VII, § 727, Feb. 20, 2003, 117 Stat. 42.
+Pub. L. 108–7, div. A, title VII, § 727, Feb. 20, 2003, 117 Stat. 42.
 
-Pub. L. 107–76, title VII, § 730, Nov. 28, 2001, 115 Stat. 736.
+Pub. L. 107–76, title VII, § 730, Nov. 28, 2001, 115 Stat. 736.
 
 **Executive Documents**
 
@@ -3657,7 +3657,7 @@ Pub. L. 107–76, title VII, § 730, Nov. 28, 2001, 115 Stat. 736.
 
 Functions of President under subsec. (b) of this section delegated to Director of the Office of Management and Budget by section 4(e) of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
 
-### § 1736f–1. Establishment of commodity trust
+### § 1736f–1. Establishment of commodity trust
 
 **(a) In general**
 
@@ -3777,13 +3777,13 @@ The Secretary shall provide for the management of eligible commodities and funds
 
 **(A)** for the management of eligible commodities in the trust established under this section as to location and quality of eligible commodities needed to meet emergency situations;
 
-**(B)** for the periodic rotation or replacement of stocks of eligible commodities in the trust to avoid spoilage and deterioration of the commodities; 1
+**(B)** for the periodic rotation or replacement of stocks of eligible commodities in the trust to avoid spoilage and deterioration of the commodities; 1
 
-<sup>1</sup>  So in original. Probably should be followed by “and”.
+<sup>1</sup> So in original. Probably should be followed by “and”.
 
-**(C)** subject to the need for release of commodities from the trust under subsection (c)(1), for the management of the trust to preserve the value of the trust through acquisitions under subsection (b)(2); and 2
+**(C)** subject to the need for release of commodities from the trust under subsection (c)(1), for the management of the trust to preserve the value of the trust through acquisitions under subsection (b)(2); and 2
 
-<sup>2</sup>  So in original. The “; and” probably should be a period.
+<sup>2</sup> So in original. The “; and” probably should be a period.
 
 **(3) Funds**
 
@@ -3799,9 +3799,9 @@ The Secretary may invest funds held in the trust in any short-term obligation of
 
 **(1)** considered a part of the total domestic supply (including carryover) for the purpose of subsection (c) or for the purpose of administering the Food for Peace Act (7 U.S.C. 1691 et seq.); and
 
-**(2)** subject to any quantitative limitation on exports that may be imposed under section 4606 3
+**(2)** subject to any quantitative limitation on exports that may be imposed under section 4606 3
 
-<sup>3</sup>  See References in Text note below.
+<sup>3</sup> See References in Text note below.
 
 of title 50.
 
@@ -3841,17 +3841,17 @@ The authority to replenish stocks of eligible commodities to maintain the trust 
 
 Eligible commodities remaining in the trust after September 30, 2026, shall be disposed of by release for use in providing for emergency humanitarian food needs in developing countries as provided in this section.
 
-(Pub. L. 96–494, title III, § 302, as added Pub. L. 104–127, title II, § 225(a), Apr. 4, 1996, 110 Stat. 959; amended Pub. L. 105–385, title II, § 212(a), (b)(3), Nov. 13, 1998, 112 Stat. 3465, 3467; Pub. L. 107–171, title III, § 3202, May 13, 2002, 116 Stat. 300; Pub. L. 110–246, title III, §§ 3001(b)(1)(A), (2)(E), 3201, June 18, 2008, 122 Stat. 1820, 1834; Pub. L. 113–79, title III, § 3202, Feb. 7, 2014, 128 Stat. 779; Pub. L. 115–334, title III, § 3303, Dec. 20, 2018, 132 Stat. 4619; Pub. L. 118–22, div. B, title I, § 102(d)(2), Nov. 17, 2023, 137 Stat. 116; Pub. L. 118–158, div. D, § 4101(d)(1), Dec. 21, 2024, 138 Stat. 1769; Pub. L. 119–37, div. E, § 5002(d)(1), Nov. 12, 2025, 139 Stat. 627.)
+(Pub. L. 96–494, title III, § 302, as added Pub. L. 104–127, title II, § 225(a), Apr. 4, 1996, 110 Stat. 959; amended Pub. L. 105–385, title II, § 212(a), (b)(3), Nov. 13, 1998, 112 Stat. 3465, 3467; Pub. L. 107–171, title III, § 3202, May 13, 2002, 116 Stat. 300; Pub. L. 110–246, title III, §§ 3001(b)(1)(A), (2)(E), 3201, June 18, 2008, 122 Stat. 1820, 1834; Pub. L. 113–79, title III, § 3202, Feb. 7, 2014, 128 Stat. 779; Pub. L. 115–334, title III, § 3303, Dec. 20, 2018, 132 Stat. 4619; Pub. L. 118–22, div. B, title I, § 102(d)(2), Nov. 17, 2023, 137 Stat. 116; Pub. L. 118–158, div. D, § 4101(d)(1), Dec. 21, 2024, 138 Stat. 1769; Pub. L. 119–37, div. E, § 5002(d)(1), Nov. 12, 2025, 139 Stat. 627.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food Security Wheat Reserve Act of 1980, referred to in subsec. (b)(1)(A), (B), is title III of the Agricultural Act of 1980, Pub. L. 96–494, Dec. 3, 1980, 94 Stat. 2578, which enacted former section 1736f–1 of this title and provisions set out as notes under that section, prior to the general amendment of title III by Pub. L. 104–127, title II, § 225(a), Apr. 4, 1996, 110 Stat. 959.
+The Food Security Wheat Reserve Act of 1980, referred to in subsec. (b)(1)(A), (B), is title III of the Agricultural Act of 1980, Pub. L. 96–494, Dec. 3, 1980, 94 Stat. 2578, which enacted former section 1736f–1 of this title and provisions set out as notes under that section, prior to the general amendment of title III by Pub. L. 104–127, title II, § 225(a), Apr. 4, 1996, 110 Stat. 959.
 
-The Food for Peace Act, referred to in subsecs. (b)(2)(B)(i), (c)(1)(B), (C), (e)(1), and (f)(2)(A), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to this chapter (§ 1691 et seq.). Title II of the Act is classified to subchapter III (§ 1721 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
+The Food for Peace Act, referred to in subsecs. (b)(2)(B)(i), (c)(1)(B), (C), (e)(1), and (f)(2)(A), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to this chapter (§ 1691 et seq.). Title II of the Act is classified to subchapter III (§ 1721 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
 
-Section 4606 of title 50, referred to in subsec. (e)(2), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+Section 4606 of title 50, referred to in subsec. (e)(2), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 **Codification**
 
@@ -3863,7 +3863,7 @@ Section was enacted as part of the Bill Emerson Humanitarian Trust Act which is 
 
 **Prior Provisions**
 
-A prior section 1736f–1, Pub. L. 96–494, title III, § 302, Dec. 3, 1980, 94 Stat. 2578; Pub. L. 99–198, title X, § 1013, Dec. 23, 1985, 99 Stat. 1456; Pub. L. 101–624, title XI, § 1143, title XV, § 1515(c), Nov. 28, 1990, 104 Stat. 3515, 3663, established food security wheat reserve, prior to general amendment of title III of Pub. L. 96–494 by Pub. L. 104–127, § 225(a).
+A prior section 1736f–1, Pub. L. 96–494, title III, § 302, Dec. 3, 1980, 94 Stat. 2578; Pub. L. 99–198, title X, § 1013, Dec. 23, 1985, 99 Stat. 1456; Pub. L. 101–624, title XI, § 1143, title XV, § 1515(c), Nov. 28, 1990, 104 Stat. 3515, 3663, established food security wheat reserve, prior to general amendment of title III of Pub. L. 96–494 by Pub. L. 104–127, § 225(a).
 
 **Amendments**
 
@@ -3873,71 +3873,71 @@ A prior section 1736f–1, Pub. L. 96–494, title III, § 302, Dec. 3, 1980, 
 
 2023—Subsec. (h)(2). Pub. L. 118–22 substituted “2024” for “2023”.
 
-2018—Subsec. (b)(2)(B)(i). Pub. L. 115–334, § 3303(1), substituted “2023” for “2018” in two places.
+2018—Subsec. (b)(2)(B)(i). Pub. L. 115–334, § 3303(1), substituted “2023” for “2018” in two places.
 
-Subsec. (h). Pub. L. 115–334, § 3303(2), substituted “2023” for “2018” in pars. (1) and (2).
+Subsec. (h). Pub. L. 115–334, § 3303(2), substituted “2023” for “2018” in pars. (1) and (2).
 
-2014—Subsec. (b)(2)(B)(i). Pub. L. 113–79, § 3202(1), substituted “2018” for “2012” in two places.
+2014—Subsec. (b)(2)(B)(i). Pub. L. 113–79, § 3202(1), substituted “2018” for “2012” in two places.
 
-Subsec. (h). Pub. L. 113–79, § 3202(2), substituted “2018” for “2012” in pars. (1) and (2).
+Subsec. (h). Pub. L. 113–79, § 3202(2), substituted “2018” for “2012” in pars. (1) and (2).
 
-2008—Subsec. (a). Pub. L. 110–246, § 3201(1), substituted “establish and maintain a trust” for “establish a trust stock” and “any combination of the commodities, or funds” for “or any combination of the commodities, totaling not more than 4,000,000 metric tons”.
+2008—Subsec. (a). Pub. L. 110–246, § 3201(1), substituted “establish and maintain a trust” for “establish a trust stock” and “any combination of the commodities, or funds” for “or any combination of the commodities, totaling not more than 4,000,000 metric tons”.
 
-Subsec. (b)(1)(D). Pub. L. 110–246, § 3201(2)(A), added subpar. (D) and struck out former subpar. (D) which read as follows: “funds made available under paragraph (2)(B) which shall be used solely to replenish commodities in the trust.”
+Subsec. (b)(1)(D). Pub. L. 110–246, § 3201(2)(A), added subpar. (D) and struck out former subpar. (D) which read as follows: “funds made available under paragraph (2)(B) which shall be used solely to replenish commodities in the trust.”
 
-Subsec. (b)(2)(B)(i). Pub. L. 110–246, § 3201(2)(B)(i), substituted “2012” for “2007” in two places, substituted “(c)(1)” for “(c)(2)”, and struck out “and” at end.
+Subsec. (b)(2)(B)(i). Pub. L. 110–246, § 3201(2)(B)(i), substituted “2012” for “2007” in two places, substituted “(c)(1)” for “(c)(2)”, and struck out “and” at end.
 
-Pub. L. 110–246, § 3001(b)(1)(A), (2)(E), substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+Pub. L. 110–246, § 3001(b)(1)(A), (2)(E), substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
-Subsec. (b)(2)(B)(ii), (iii). Pub. L. 110–246, § 3201(2)(B)(ii), (iii), substituted “; or” for period at end of cl. (ii) and added cl. (iii).
+Subsec. (b)(2)(B)(ii), (iii). Pub. L. 110–246, § 3201(2)(B)(ii), (iii), substituted “; or” for period at end of cl. (ii) and added cl. (iii).
 
-Subsec. (c). Pub. L. 110–246, § 3201(3), added par. (1), redesignated former pars. (3) to (5) as (2) to (4), respectively, and struck out former pars. (1) and (2) which related to, in par. (1), release of eligible commodities to provide emergency assistance to developing countries under title II of the Agricultural Trade Development and Assistance Act of 1954, and, in par. (2), release of eligible commodities to provide emergency food assistance to developing countries at such time as the domestic supply of such commodities had been so limited that quantities of them could not have been made available for disposition under the Act.
+Subsec. (c). Pub. L. 110–246, § 3201(3), added par. (1), redesignated former pars. (3) to (5) as (2) to (4), respectively, and struck out former pars. (1) and (2) which related to, in par. (1), release of eligible commodities to provide emergency assistance to developing countries under title II of the Agricultural Trade Development and Assistance Act of 1954, and, in par. (2), release of eligible commodities to provide emergency food assistance to developing countries at such time as the domestic supply of such commodities had been so limited that quantities of them could not have been made available for disposition under the Act.
 
-Subsec. (d). Pub. L. 110–246, § 3201(4), substituted “Management of trust” for “Management of eligible commodities” in subsec. heading, added par. (1), designated existing provisions as par. (2), inserted par. heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (2), and added par. (3).
+Subsec. (d). Pub. L. 110–246, § 3201(4), substituted “Management of trust” for “Management of eligible commodities” in subsec. heading, added par. (1), designated existing provisions as par. (2), inserted par. heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (2), and added par. (3).
 
-Subsecs. (e)(1), (f)(2)(A). Pub. L. 110–246, § 3001(b)(1)(A), (2)(E), substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+Subsecs. (e)(1), (f)(2)(A). Pub. L. 110–246, § 3001(b)(1)(A), (2)(E), substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
-Subsec. (h). Pub. L. 110–246, § 3201(5), substituted “2012” for “2007” in pars. (1) and (2).
+Subsec. (h). Pub. L. 110–246, § 3201(5), substituted “2012” for “2007” in pars. (1) and (2).
 
 2002—Subsec. (b)(2)(B)(i). Pub. L. 107–171 substituted “2007” for “2002” in two places.
 
 Subsec. (h). Pub. L. 107–171 substituted “2007” for “2002” in pars. (1) and (2).
 
-1998—Pub. L. 105–385, § 212(b)(3)(A), substituted “trust” for “reserve” in section catchline.
+1998—Pub. L. 105–385, § 212(b)(3)(A), substituted “trust” for “reserve” in section catchline.
 
-Subsec. (a). Pub. L. 105–385, § 212(b)(3)(B), substituted “trust” for “reserve” in two places.
+Subsec. (a). Pub. L. 105–385, § 212(b)(3)(B), substituted “trust” for “reserve” in two places.
 
-Subsec. (b). Pub. L. 105–385, § 212(a)(1)(A), (b)(3)(C)(i), in heading inserted “or funds” after “Commodities” and substituted “trust” for “reserve”.
+Subsec. (b). Pub. L. 105–385, § 212(a)(1)(A), (b)(3)(C)(i), in heading inserted “or funds” after “Commodities” and substituted “trust” for “reserve”.
 
-Subsec. (b)(1). Pub. L. 105–385, § 212(b)(3)(B), substituted “trust” for “reserve” in introductory provisions.
+Subsec. (b)(1). Pub. L. 105–385, § 212(b)(3)(B), substituted “trust” for “reserve” in introductory provisions.
 
-Subsec. (b)(1)(B). Pub. L. 105–385, § 212(b)(3)(C)(ii), substituted “trust,” for “reserve,”.
+Subsec. (b)(1)(B). Pub. L. 105–385, § 212(b)(3)(C)(ii), substituted “trust,” for “reserve,”.
 
-Subsec. (b)(1)(C). Pub. L. 105–385, § 212(b)(3)(B), substituted “trust” for “reserve”.
+Subsec. (b)(1)(C). Pub. L. 105–385, § 212(b)(3)(B), substituted “trust” for “reserve”.
 
-Subsec. (b)(1)(D). Pub. L. 105–385, § 212(a)(1)(B), added subpar. (D).
+Subsec. (b)(1)(D). Pub. L. 105–385, § 212(a)(1)(B), added subpar. (D).
 
-Subsec. (b)(2). Pub. L. 105–385, § 212(b)(3)(C)(iii), substituted “trust” for “reserve” in heading.
+Subsec. (b)(2). Pub. L. 105–385, § 212(b)(3)(C)(iii), substituted “trust” for “reserve” in heading.
 
-Subsec. (b)(2)(A). Pub. L. 105–385, § 212(b)(3)(B), substituted “trust” for “reserve” in introductory provisions.
+Subsec. (b)(2)(A). Pub. L. 105–385, § 212(b)(3)(B), substituted “trust” for “reserve” in introductory provisions.
 
-Subsec. (b)(2)(B). Pub. L. 105–385, § 212(a)(1)(C), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “Any use of funds to acquire eligible commodities through purchases from producers or in the market to replenish the reserve must be authorized in an appropriations Act.”
+Subsec. (b)(2)(B). Pub. L. 105–385, § 212(a)(1)(C), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “Any use of funds to acquire eligible commodities through purchases from producers or in the market to replenish the reserve must be authorized in an appropriations Act.”
 
-Subsec. (c)(1)(B). Pub. L. 105–385, § 212(b)(3)(B), substituted “trust” for “reserve” in introductory provisions.
+Subsec. (c)(1)(B). Pub. L. 105–385, § 212(b)(3)(B), substituted “trust” for “reserve” in introductory provisions.
 
-Subsec. (c)(2). Pub. L. 105–385, § 212(a)(2), (b)(3)(B), designated existing provisions as subpar. (A), inserted heading, substituted “trust” for “reserve”, and added subpar. (B).
+Subsec. (c)(2). Pub. L. 105–385, § 212(a)(2), (b)(3)(B), designated existing provisions as subpar. (A), inserted heading, substituted “trust” for “reserve”, and added subpar. (B).
 
-Subsecs. (c)(3), (d)(1), (2). Pub. L. 105–385, § 212(b)(3)(B), substituted “trust” for “reserve”.
+Subsecs. (c)(3), (d)(1), (2). Pub. L. 105–385, § 212(b)(3)(B), substituted “trust” for “reserve”.
 
-Subsec. (d)(3). Pub. L. 105–385, § 212(a)(3), added par. (3).
+Subsec. (d)(3). Pub. L. 105–385, § 212(a)(3), added par. (3).
 
-Subsec. (e). Pub. L. 105–385, § 212(b)(3)(B), (D), substituted “trust” for “reserve” in heading and introductory provisions.
+Subsec. (e). Pub. L. 105–385, § 212(b)(3)(B), (D), substituted “trust” for “reserve” in heading and introductory provisions.
 
-Subsec. (f)(2). Pub. L. 105–385, § 212(a)(4)(A), inserted “of trust” after “Reimbursement” in heading.
+Subsec. (f)(2). Pub. L. 105–385, § 212(a)(4)(A), inserted “of trust” after “Reimbursement” in heading.
 
-Subsec. (f)(2)(A). Pub. L. 105–385, § 212(a)(4)(B), inserted before period at end “and the funds shall be available to replenish the trust under subsection (b)”.
+Subsec. (f)(2)(A). Pub. L. 105–385, § 212(a)(4)(B), inserted before period at end “and the funds shall be available to replenish the trust under subsection (b)”.
 
-Subsecs. (f)(2)(B)(ii), (h)(1), (2). Pub. L. 105–385, § 212(b)(3)(B), substituted “trust” for “reserve”.
+Subsecs. (f)(2)(B)(ii), (h)(1), (2). Pub. L. 105–385, § 212(b)(3)(B), substituted “trust” for “reserve”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3959,19 +3959,19 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 **Effective Date**
 
-Pub. L. 96–494, title III, § 303, Dec. 3, 1980, 94 Stat. 2580, provided that title III of Pub. L. 96–494 (enacting former section 1736f–1 of this title and provisions formerly set out as a note under that section) became effective on Dec. 3, 1980, prior to the general amendment of title III of Pub. L. 96–494 by Pub. L. 104–127, § 225(a).
+Pub. L. 96–494, title III, § 303, Dec. 3, 1980, 94 Stat. 2580, provided that title III of Pub. L. 96–494 (enacting former section 1736f–1 of this title and provisions formerly set out as a note under that section) became effective on Dec. 3, 1980, prior to the general amendment of title III of Pub. L. 96–494 by Pub. L. 104–127, § 225(a).
 
 **Short Title**
 
-Pub. L. 96–494, title III, § 301, as added by Pub. L. 104–127, title II, § 225(a), Apr. 4, 1996, 110 Stat. 959, and amended by Pub. L. 105–385, title II, § 212(b)(2), Nov. 13, 1998, 112 Stat. 3466, provided that: “This title [enacting this section] may be cited as the ‘Bill Emerson Humanitarian Trust Act’.”
+Pub. L. 96–494, title III, § 301, as added by Pub. L. 104–127, title II, § 225(a), Apr. 4, 1996, 110 Stat. 959, and amended by Pub. L. 105–385, title II, § 212(b)(2), Nov. 13, 1998, 112 Stat. 3466, provided that: “This title [enacting this section] may be cited as the ‘Bill Emerson Humanitarian Trust Act’.”
 
-A prior section 301 of title III of Pub. L. 96–494 provided that title III (enacting former section 1736f–1 of this title and provisions set out as a note under that section) could be cited as the “Food Security Wheat Reserve Act of 1980”, prior to the general amendment of title III of Pub. L. 96–494 by Pub. L. 104–127, § 225(a).
+A prior section 301 of title III of Pub. L. 96–494 provided that title III (enacting former section 1736f–1 of this title and provisions set out as a note under that section) could be cited as the “Food Security Wheat Reserve Act of 1980”, prior to the general amendment of title III of Pub. L. 96–494 by Pub. L. 104–127, § 225(a).
 
-### § 1736g. Coordination of foreign assistance programs
+### § 1736g. Coordination of foreign assistance programs
 
 To the maximum extent practicable, assistance for a foreign country under subchapter III–A shall be coordinated and integrated with United States development assistance objectives and programs for that country and with the overall development strategy of that country. Special emphasis should be placed on, and funds devoted to, activities that will increase the nutritional impact of programs of assistance under subchapter III–A, and child survival programs and projects, in least developed countries by improving the design and implementation of such programs and projects.
 
-(July 10, 1954, ch. 469, title IV, § 413, as added Pub. L. 96–53, title II, § 210, Aug. 14, 1979, 93 Stat. 370; amended Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3656; Pub. L. 104–127, title II, § 221, Apr. 4, 1996, 110 Stat. 958; Pub. L. 110–246, title III, § 3022, June 18, 2008, 122 Stat. 1829; Pub. L. 113–79, title III, § 3015, Feb. 7, 2014, 128 Stat. 778.)
+(July 10, 1954, ch. 469, title IV, § 413, as added Pub. L. 96–53, title II, § 210, Aug. 14, 1979, 93 Stat. 370; amended Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3656; Pub. L. 104–127, title II, § 221, Apr. 4, 1996, 110 Stat. 958; Pub. L. 110–246, title III, § 3022, June 18, 2008, 122 Stat. 1829; Pub. L. 113–79, title III, § 3015, Feb. 7, 2014, 128 Stat. 778.)
 
 **Editorial Notes**
 
@@ -3999,7 +3999,7 @@ Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. 
 
 Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out as an Effective Date of 1979 Amendment note under section 2151 of Title 22, Foreign Relations and Intercourse.
 
-### § 1736g–1. Assistance in furtherance of narcotics control objectives of United States
+### § 1736g–1. Assistance in furtherance of narcotics control objectives of United States
 
 **(a) Substantial injury**
 
@@ -4007,13 +4007,13 @@ Local currencies that are made available for use under this chapter may not be u
 
 **(b) Exception for narcotics control**
 
-Notwithstanding subsection (a), the President may provide assistance under this chapter, including assistance through the use of local currencies generated by the sale of commodities under such chapter, for economic development activities undertaken in an eligible country that is a major illicit drug producing country (as defined in section 2291(i)(2) 1
+Notwithstanding subsection (a), the President may provide assistance under this chapter, including assistance through the use of local currencies generated by the sale of commodities under such chapter, for economic development activities undertaken in an eligible country that is a major illicit drug producing country (as defined in section 2291(i)(2) 1
 
-<sup>1</sup>  So in original. Probably should be section “2291(e)(2)”.
+<sup>1</sup> So in original. Probably should be section “2291(e)(2)”.
 
 of title 22), for the purpose of reducing the dependence of the economy of such country on the production of crops from which narcotic and psychotropic drugs are derived.
 
-(July 10, 1954, ch. 469, title IV, § 414, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3656.)
+(July 10, 1954, ch. 469, title IV, § 414, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3656.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4021,7 +4021,7 @@ of title 22), for the purpose of reducing the dependence of the economy of such 
 
 Section effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set out as an Effective Date of 1990 Amendment note under section 1691 of this title.
 
-### § 1736g–2. Micronutrient fortification programs
+### § 1736g–2. Micronutrient fortification programs
 
 **(a) In general**
 
@@ -4043,7 +4043,7 @@ Under a program, grains and other commodities made available to a developing cou
 
 The authority to carry out programs established under this section shall terminate on September 30, 2023.
 
-(July 10, 1954, ch. 469, title IV, § 415, as added Pub. L. 104–127, title II, § 222, Apr. 4, 1996, 110 Stat. 958; amended Pub. L. 107–171, title III, § 3013, May 13, 2002, 116 Stat. 284; Pub. L. 110–246, title III, § 3023, June 18, 2008, 122 Stat. 1830; Pub. L. 113–79, title III, § 3013, Feb. 7, 2014, 128 Stat. 777; Pub. L. 115–334, title III, § 3115, Dec. 20, 2018, 132 Stat. 4607.)
+(July 10, 1954, ch. 469, title IV, § 415, as added Pub. L. 104–127, title II, § 222, Apr. 4, 1996, 110 Stat. 958; amended Pub. L. 107–171, title III, § 3013, May 13, 2002, 116 Stat. 284; Pub. L. 110–246, title III, § 3023, June 18, 2008, 122 Stat. 1830; Pub. L. 113–79, title III, § 3013, Feb. 7, 2014, 128 Stat. 777; Pub. L. 115–334, title III, § 3115, Dec. 20, 2018, 132 Stat. 4607.)
 
 **Editorial Notes**
 
@@ -4057,29 +4057,29 @@ The authorities provided by each provision of, and each amendment made by, Pub. 
 
 2018—Subsec. (c). Pub. L. 115–334 substituted “2023” for “2018”.
 
-2014—Subsec. (a)(2)(B). Pub. L. 113–79, § 3013(a), struck out “, using recommendations included in the report entitled ‘Micronutrient Compliance Review of Fortified Public Law 480 Commodities’, published in October 2001, with implementation by independent entities with proven experience and expertise in food aid commodity quality enhancements” before period at end.
+2014—Subsec. (a)(2)(B). Pub. L. 113–79, § 3013(a), struck out “, using recommendations included in the report entitled ‘Micronutrient Compliance Review of Fortified Public Law 480 Commodities’, published in October 2001, with implementation by independent entities with proven experience and expertise in food aid commodity quality enhancements” before period at end.
 
-Subsec. (c). Pub. L. 113–79, § 3013(b), substituted “2018” for “2012”.
+Subsec. (c). Pub. L. 113–79, § 3013(b), substituted “2018” for “2012”.
 
-2008—Subsec. (a)(1). Pub. L. 110–246, § 3023(1)(A), substituted “2008” for “2003”.
+2008—Subsec. (a)(1). Pub. L. 110–246, § 3023(1)(A), substituted “2008” for “2003”.
 
-Subsec. (a)(2). Pub. L. 110–246, § 3023(1)(B), in subpar. (A), inserted “and” at end, added subpar. (B), and struck out former subpars. (B) and (C) which read as follows:
+Subsec. (a)(2). Pub. L. 110–246, § 3023(1)(B), in subpar. (A), inserted “and” at end, added subpar. (B), and struck out former subpars. (B) and (C) which read as follows:
 
 “(B) encourage the development of technologies for the fortification of grains and other commodities that are readily transferable to developing countries; and
 
 “(C) assess and apply technologies and systems to improve and ensure the quality, shelf life, bioavailability, and safety of fortified food aid commodities, and products of those commodities, that are provided to developing countries, by using the same mechanism that was used to assess the micronutrient fortification program in the report entitled ‘Micronutrient Compliance Review of Fortified P.L. 480 Commodities’, published October 2001 with funds from the Bureau for Humanitarian Response of the United States Agency for International Development.”
 
-Subsecs. (b) to (d). Pub. L. 110–246, § 3023(2), (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, in subsec. (c), substituted “2012” for “2007”, and struck out former subsec. (b). Prior to amendment, text read as follows: “From among the countries eligible for assistance under this chapter, the Secretary may select not more than 5 developing countries to participate in a program under this section.”
+Subsecs. (b) to (d). Pub. L. 110–246, § 3023(2), (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, in subsec. (c), substituted “2012” for “2007”, and struck out former subsec. (b). Prior to amendment, text read as follows: “From among the countries eligible for assistance under this chapter, the Secretary may select not more than 5 developing countries to participate in a program under this section.”
 
-2002—Pub. L. 107–171, § 3013(1), substituted “programs” for “pilot program” in section catchline.
+2002—Pub. L. 107–171, § 3013(1), substituted “programs” for “pilot program” in section catchline.
 
-Subsec. (a). Pub. L. 107–171, § 3013(2), designated first sentence as par. (1), inserted heading, and substituted “Not later than September 30, 2003, the Administrator, in consultation with the Secretary, shall establish micronutrient fortification programs.” for “Subject to the availability of practical technology and to cost effectiveness, not later than September 30, 1997, the Secretary, in consultation with the Administrator, shall establish a micronutrient fortification pilot program under this chapter.”, designated second sentence as par. (2), inserted heading, and substituted “The purpose of a program” for “The purpose of the program”, redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (2), respectively, struck out “and” at end of subpar. (A), struck out “whole” before “grains and other commodities” and substituted “; and” for period at end of subpar. (B), and added subpar. (C).
+Subsec. (a). Pub. L. 107–171, § 3013(2), designated first sentence as par. (1), inserted heading, and substituted “Not later than September 30, 2003, the Administrator, in consultation with the Secretary, shall establish micronutrient fortification programs.” for “Subject to the availability of practical technology and to cost effectiveness, not later than September 30, 1997, the Secretary, in consultation with the Administrator, shall establish a micronutrient fortification pilot program under this chapter.”, designated second sentence as par. (2), inserted heading, and substituted “The purpose of a program” for “The purpose of the program”, redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (2), respectively, struck out “and” at end of subpar. (A), struck out “whole” before “grains and other commodities” and substituted “; and” for period at end of subpar. (B), and added subpar. (C).
 
-Subsec. (b). Pub. L. 107–171, § 3013(3), substituted “a program under this section” for “the pilot program”.
+Subsec. (b). Pub. L. 107–171, § 3013(3), substituted “a program under this section” for “the pilot program”.
 
-Subsec. (c). Pub. L. 107–171, § 3013(4), substituted “a program, grains” for “the pilot program, whole grains”, “a program may be fortified” for “the pilot program may be fortified”, and “(such as vitamin A, iron, iodine, and folic acid)” for “(including vitamin A, iron, and iodine)”.
+Subsec. (c). Pub. L. 107–171, § 3013(4), substituted “a program, grains” for “the pilot program, whole grains”, “a program may be fortified” for “the pilot program may be fortified”, and “(such as vitamin A, iron, iodine, and folic acid)” for “(including vitamin A, iron, and iodine)”.
 
-Subsec. (d). Pub. L. 107–171, § 3013(5), substituted “programs” for “the pilot program” and “2007” for “2002”.
+Subsec. (d). Pub. L. 107–171, § 3013(5), substituted “programs” for “the pilot program” and “2007” for “2002”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4087,23 +4087,23 @@ Subsec. (d). Pub. L. 107–171, § 3013(5), substituted “programs” for “
 
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 1736g–3. Use of certain local currency
+### § 1736g–3. Use of certain local currency
 
 Local currency payments received by the United States pursuant to agreements entered into under subchapter II (as in effect on November 27, 1990) may be utilized by the Secretary in accordance with section 1708 of this title (as in effect on November 27, 1990).
 
-(July 10, 1954, ch. 469, title IV, § 416, as added Pub. L. 104–127, title II, § 223, Apr. 4, 1996, 110 Stat. 958.)
+(July 10, 1954, ch. 469, title IV, § 416, as added Pub. L. 104–127, title II, § 223, Apr. 4, 1996, 110 Stat. 958.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1708 of this title (as in effect on November 27, 1990), referred to in text, was omitted in the general amendment of this chapter by Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3633.
+Section 1708 of this title (as in effect on November 27, 1990), referred to in text, was omitted in the general amendment of this chapter by Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3633.
 
-### § 1736h. Congressional consultation on bilateral commodity supply agreements
+### § 1736h. Congressional consultation on bilateral commodity supply agreements
 
 As soon as practicable before the Government of the United States enters into any bilateral international agreement, other than a treaty, involving a commitment on the part of the United States to assure access by a foreign country or instrumentality thereof to United States agricultural commodities or products thereof on a commercial basis, the President is encouraged to notify and consult with the appropriate committees of Congress for the purpose of setting forth in detail the terms of and reasons for negotiating such agreement.
 
-(Pub. L. 97–98, title XII, § 1202, Dec. 22, 1981, 95 Stat. 1275.)
+(Pub. L. 97–98, title XII, § 1202, Dec. 22, 1981, 95 Stat. 1275.)
 
 **Editorial Notes**
 
@@ -4117,19 +4117,19 @@ Section was enacted as part of the Agriculture and Food Act of 1981, and not as 
 
 Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under section 4301 of this title.
 
-### §§ 1736i to 1736k. Repealed. Pub. L. 101–624, title XV, § 1573, Nov. 28, 1990, 104 Stat. 3702
+### §§ 1736i to 1736k. Repealed. Pub. L. 101–624, title XV, § 1573, Nov. 28, 1990, 104 Stat. 3702
 
-Section 1736i, Pub. L. 97–98, title XII, § 1203, Dec. 22, 1981, 95 Stat. 1275, provided for a special standby export subsidy program.
+Section 1736i, Pub. L. 97–98, title XII, § 1203, Dec. 22, 1981, 95 Stat. 1275, provided for a special standby export subsidy program.
 
-Section 1736j, Pub. L. 97–98, title XII, § 1204, Dec. 22, 1981, 95 Stat. 1276; Pub. L. 99–198, title XI, § 1133(b), Dec. 23, 1985, 99 Stat. 1489, provided for protection against agricultural embargo. See section 5672 of this title.
+Section 1736j, Pub. L. 97–98, title XII, § 1204, Dec. 22, 1981, 95 Stat. 1276; Pub. L. 99–198, title XI, § 1133(b), Dec. 23, 1985, 99 Stat. 1489, provided for protection against agricultural embargo. See section 5672 of this title.
 
-Section 1736k, Pub. L. 97–98, title XII, § 1205, Dec. 22, 1981, 95 Stat. 1277, provided for development of plans, recommendations, and programs to alleviate the adverse impact of export embargoes on agricultural commodities. See section 5672 of this title.
+Section 1736k, Pub. L. 97–98, title XII, § 1205, Dec. 22, 1981, 95 Stat. 1277, provided for development of plans, recommendations, and programs to alleviate the adverse impact of export embargoes on agricultural commodities. See section 5672 of this title.
 
-### § 1736l. Consultation on grain marketing
+### § 1736l. Consultation on grain marketing
 
 Congress encourages the Secretary of Agriculture, in coordination with other appropriate Federal departments and agencies, to continue to consult with representatives of other major grain exporting nations toward the goal of establishing more orderly marketing of grain and achieving higher farm income for producers of grain.
 
-(Pub. L. 97–98, title XII, § 1206, Dec. 22, 1981, 95 Stat. 1278.)
+(Pub. L. 97–98, title XII, § 1206, Dec. 22, 1981, 95 Stat. 1278.)
 
 **Editorial Notes**
 
@@ -4143,13 +4143,13 @@ Section was enacted as part of the Agriculture and Food Act of 1981, and not as 
 
 Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under section 4301 of this title.
 
-### §§ 1736m, 1736n. Repealed. Pub. L. 104–127, title II, §§ 226, 266, Apr. 4, 1996, 110 Stat. 962, 974
+### §§ 1736m, 1736n. Repealed. Pub. L. 104–127, title II, §§ 226, 266, Apr. 4, 1996, 110 Stat. 962, 974
 
-Section 1736m, Pub. L. 97–98, title XII, § 1207, Dec. 22, 1981, 95 Stat. 1278; Pub. L. 99–198, title XI, § 1126(c), Dec. 23, 1985, 99 Stat. 1482, related to expansion of international markets for United States agricultural commodities and products.
+Section 1736m, Pub. L. 97–98, title XII, § 1207, Dec. 22, 1981, 95 Stat. 1278; Pub. L. 99–198, title XI, § 1126(c), Dec. 23, 1985, 99 Stat. 1482, related to expansion of international markets for United States agricultural commodities and products.
 
-Section 1736n, Pub. L. 97–98, title XII, § 1208, Dec. 22, 1981, 95 Stat. 1280; Pub. L. 101–624, title XV, § 1515(a), Nov. 28, 1990, 104 Stat. 3663, directed Secretary of Agriculture to continue investigating potential for increased usage of protein byproducts derived from alcohol fuel production and report results to Congress.
+Section 1736n, Pub. L. 97–98, title XII, § 1208, Dec. 22, 1981, 95 Stat. 1280; Pub. L. 101–624, title XV, § 1515(a), Nov. 28, 1990, 104 Stat. 3663, directed Secretary of Agriculture to continue investigating potential for increased usage of protein byproducts derived from alcohol fuel production and report results to Congress.
 
-### § 1736o. Food for progress
+### § 1736o. Food for progress
 
 **(a) Short title**
 
@@ -4265,9 +4265,9 @@ of eligible commodities made available under section 1431(b) of this title for u
 
 **(4)** The cost of eligible commodities made available under section 1431(b) of this title which are furnished under this section, and the expenses incurred in connection with furnishing such eligible commodities, shall be in addition to the level of assistance programmed under the Food for Peace Act [7 U.S.C. 1691 et seq.] and may not be considered expenditures for international affairs and finance.
 
-**(5) Sale procedure.—** In making sales of eligible eligible 1
+**(5) Sale procedure.—** In making sales of eligible eligible 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 commodities under this section, the Secretary shall follow the sale procedure described in section 403(*l*) of the Food for Peace Act [7 U.S.C. 1733(*l*)].
 
@@ -4411,13 +4411,13 @@ For each of fiscal years 2019 through 2023, subject to the availability of appro
 
 There is authorized to be appropriated to carry out pilot agreements pursuant to this subsection $10,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 99–198, title XI, § 1110, Dec. 23, 1985, 99 Stat. 1472; Pub. L. 100–418, title IV, § 4303, Aug. 23, 1988, 102 Stat. 1397; Pub. L. 101–624, title XV, §§ 1516, 1572(1), Nov. 28, 1990, 104 Stat. 3663, 3702; Pub. L. 102–237, title III, § 335, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, § 701, Oct. 24, 1992, 106 Stat. 3348; Pub. L. 104–127, title II, §§ 227, 265(b), Apr. 4, 1996, 110 Stat. 962, 974; Pub. L. 105–277, div. A, § 101(a) [title XI, § 1125], Oct. 21, 1998, 112 Stat. 2681, 2681–45; Pub. L. 107–171, title III, §§ 3009(b)(2), 3106, May 13, 2002, 116 Stat. 283, 291; Pub. L. 108–7, div. A, title VII, § 745, Feb. 20, 2003, 117 Stat. 44; Pub. L. 110–246, title III, §§ 3001(b)(1)(A), (2)(F), 3014(b)(2), 3105, June 18, 2008, 122 Stat. 1820, 1826, 1833; Pub. L. 113–79, title III, § 3201, Feb. 7, 2014, 128 Stat. 779; Pub. L. 115–334, title III, § 3302, Dec. 20, 2018, 132 Stat. 4617.)
+(Pub. L. 99–198, title XI, § 1110, Dec. 23, 1985, 99 Stat. 1472; Pub. L. 100–418, title IV, § 4303, Aug. 23, 1988, 102 Stat. 1397; Pub. L. 101–624, title XV, §§ 1516, 1572(1), Nov. 28, 1990, 104 Stat. 3663, 3702; Pub. L. 102–237, title III, § 335, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, § 701, Oct. 24, 1992, 106 Stat. 3348; Pub. L. 104–127, title II, §§ 227, 265(b), Apr. 4, 1996, 110 Stat. 962, 974; Pub. L. 105–277, div. A, § 101(a) [title XI, § 1125], Oct. 21, 1998, 112 Stat. 2681, 2681–45; Pub. L. 107–171, title III, §§ 3009(b)(2), 3106, May 13, 2002, 116 Stat. 283, 291; Pub. L. 108–7, div. A, title VII, § 745, Feb. 20, 2003, 117 Stat. 44; Pub. L. 110–246, title III, §§ 3001(b)(1)(A), (2)(F), 3014(b)(2), 3105, June 18, 2008, 122 Stat. 1820, 1826, 1833; Pub. L. 113–79, title III, § 3201, Feb. 7, 2014, 128 Stat. 779; Pub. L. 115–334, title III, § 3302, Dec. 20, 2018, 132 Stat. 4617.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food for Peace Act, referred to in subsecs. (e) and (f)(4), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to this chapter (§ 1691 et seq.). Title I of the Act is classified to subchapter II (§ 1701 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
+The Food for Peace Act, referred to in subsecs. (e) and (f)(4), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to this chapter (§ 1691 et seq.). Title I of the Act is classified to subchapter II (§ 1701 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
 
 **Codification**
 
@@ -4425,149 +4425,149 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 **Amendments**
 
-2018—Pub. L. 115–334, § 3302(1), substituted “Secretary” for “President” wherever appearing, except in subsecs. (f)(5) and (*l*)(4).
+2018—Pub. L. 115–334, § 3302(1), substituted “Secretary” for “President” wherever appearing, except in subsecs. (f)(5) and (*l*)(4).
 
-Subsec. (b)(5)(F), (G). Pub. L. 115–334, § 3302(2)(A), added subpar. (F) and redesignated former subpar. (F) as (G).
+Subsec. (b)(5)(F), (G). Pub. L. 115–334, § 3302(2)(A), added subpar. (F) and redesignated former subpar. (F) as (G).
 
-Subsec. (b)(10), (11). Pub. L. 115–334, § 3302(2)(B), added pars. (10) and (11).
+Subsec. (b)(10), (11). Pub. L. 115–334, § 3302(2)(B), added pars. (10) and (11).
 
-Subsec. (f)(3). Pub. L. 115–334, § 3302(3), substituted “2023” for “2018”.
+Subsec. (f)(3). Pub. L. 115–334, § 3302(3), substituted “2023” for “2018”.
 
-Subsec. (g). Pub. L. 115–334, § 3302(4), substituted “2023” for “2018”.
+Subsec. (g). Pub. L. 115–334, § 3302(4), substituted “2023” for “2018”.
 
-Subsec. (j)(3). Pub. L. 115–334, § 3302(5), substituted “April 1” for “December 1”, inserted dash after “the Senate” and subpar. (A) designation before “a list”, substituted “approved during the prior fiscal year” for “approved to date for the fiscal year”, and added subpars. (B) and (C).
+Subsec. (j)(3). Pub. L. 115–334, § 3302(5), substituted “April 1” for “December 1”, inserted dash after “the Senate” and subpar. (A) designation before “a list”, substituted “approved during the prior fiscal year” for “approved to date for the fiscal year”, and added subpars. (B) and (C).
 
-Subsec. (k). Pub. L. 115–334, § 3302(6), substituted “2023” for “2018”.
+Subsec. (k). Pub. L. 115–334, § 3302(6), substituted “2023” for “2018”.
 
-Subsec. (*l*)(1). Pub. L. 115–334, § 3302(7), substituted “2023” for “2018”.
+Subsec. (*l*)(1). Pub. L. 115–334, § 3302(7), substituted “2023” for “2018”.
 
-Subsec. (m). Pub. L. 115–334, § 3302(8), substituted “Secretarial” for “Presidential” in heading.
+Subsec. (m). Pub. L. 115–334, § 3302(8), substituted “Secretarial” for “Presidential” in heading.
 
-Subsec. (*o*). Pub. L. 115–334, § 3302(9), struck out “(acting through the Secretary)” before dash at end of introductory provisions.
+Subsec. (*o*). Pub. L. 115–334, § 3302(9), struck out “(acting through the Secretary)” before dash at end of introductory provisions.
 
-Subsec. (*o*)(1). Pub. L. 115–334, § 3302(10), substituted “subparagraphs (C) and (G)” for “subparagraphs (C) and (F)”.
+Subsec. (*o*)(1). Pub. L. 115–334, § 3302(10), substituted “subparagraphs (C) and (G)” for “subparagraphs (C) and (F)”.
 
-Subsec. (p). Pub. L. 115–334, § 3302(11), added subsec. (p).
+Subsec. (p). Pub. L. 115–334, § 3302(11), added subsec. (p).
 
-2014—Subsec. (f)(3). Pub. L. 113–79, § 3201(a)(1), substituted “2018” for “2012”.
+2014—Subsec. (f)(3). Pub. L. 113–79, § 3201(a)(1), substituted “2018” for “2012”.
 
-Subsec. (f)(6). Pub. L. 113–79, § 3201(b), struck out par. (6) which related to approval of project for Malawi during fiscal year 2009.
+Subsec. (f)(6). Pub. L. 113–79, § 3201(b), struck out par. (6) which related to approval of project for Malawi during fiscal year 2009.
 
-Subsecs. (g), (k), (*l*)(1). Pub. L. 113–79, § 3201(a)(2)–(4), substituted “2018” for “2012”.
+Subsecs. (g), (k), (*l*)(1). Pub. L. 113–79, § 3201(a)(2)–(4), substituted “2018” for “2012”.
 
-2008—Subsec. (b). Pub. L. 110–246, § 3001(b)(1)(A), (2)(F), substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954” wherever appearing.
+2008—Subsec. (b). Pub. L. 110–246, § 3001(b)(1)(A), (2)(F), substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954” wherever appearing.
 
-Subsec. (e)(1). Pub. L. 110–246, § 3014(b)(2), struck out “determined to be available under section 401 of the Agricultural Trade Development and Assistance Act of 1954” after “such eligible commodities”.
+Subsec. (e)(1). Pub. L. 110–246, § 3014(b)(2), struck out “determined to be available under section 401 of the Agricultural Trade Development and Assistance Act of 1954” after “such eligible commodities”.
 
-Subsec. (e)(2) to (4). Pub. L. 110–246, § 3001(b)(1)(A), (2)(F), substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+Subsec. (e)(2) to (4). Pub. L. 110–246, § 3001(b)(1)(A), (2)(F), substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
-Subsec. (f)(3). Pub. L. 110–246, § 3105(a), substituted “2012” for “2007”.
+Subsec. (f)(3). Pub. L. 110–246, § 3105(a), substituted “2012” for “2007”.
 
-Subsec. (f)(4), (5). Pub. L. 110–246, § 3001(b)(1)(A), (2)(F), substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+Subsec. (f)(4), (5). Pub. L. 110–246, § 3001(b)(1)(A), (2)(F), substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
 
-Subsec. (f)(6). Pub. L. 110–246, § 3105(b), added par. (6).
+Subsec. (f)(6). Pub. L. 110–246, § 3105(b), added par. (6).
 
-Subsecs. (g), (k), (*l*)(1). Pub. L. 110–246, § 3105(a), substituted “2012” for “2007”.
+Subsecs. (g), (k), (*l*)(1). Pub. L. 110–246, § 3105(a), substituted “2012” for “2007”.
 
-2003—Subsecs. (c), (g). Pub. L. 108–7, § 745(1), substituted “shall” for “may”.
+2003—Subsecs. (c), (g). Pub. L. 108–7, § 745(1), substituted “shall” for “may”.
 
-Subsec. (*o*). Pub. L. 108–7, § 745(2), added subsec. (*o*).
+Subsec. (*o*). Pub. L. 108–7, § 745(2), added subsec. (*o*).
 
-2002—Subsecs. (b), (c). Pub. L. 107–171, § 3106(b)(1), added heading and text of subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which read as follows:
+2002—Subsecs. (b), (c). Pub. L. 107–171, § 3106(b)(1), added heading and text of subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which read as follows:
 
 “(b) In order to use the food resources of the United States more effectively in support of developing countries, and countries that are emerging democracies, that have made commitments to introduce or expand free enterprise elements in their agricultural economies through changes in commodity pricing, marketing, input availability, distribution, and private sector involvement, the President is authorized to enter into agreements with the governments of such countries (including the independent states of the former Soviet Union), or with private voluntary organizations, nonprofit agricultural organizations, cooperatives, intergovernmental organizations, or other private entities, to furnish commodities made available pursuant to subsections (e) and (f) of this section. Such agreements may provide for commodities to be furnished on a multiyear basis.
 
 “(c) As used in this section, the term ‘commodities’ means agricultural commodities and the products thereof.”
 
-Subsec. (d). Pub. L. 107–171, § 3106(b)(2)(A), (D), (c), inserted heading, in introductory provisions struck out “food” after “domestic production of” and substituted “eligible commodities” for “commodities” in two places, and in par. (2) substituted “eligible commodities” for “commodities”.
+Subsec. (d). Pub. L. 107–171, § 3106(b)(2)(A), (D), (c), inserted heading, in introductory provisions struck out “food” after “domestic production of” and substituted “eligible commodities” for “commodities” in two places, and in par. (2) substituted “eligible commodities” for “commodities”.
 
-Subsec. (e). Pub. L. 107–171, § 3106(b)(2)(D), (E), (d), inserted heading, substituted “eligible commodities” for “commodities” and “Corporation” for “Commodity Credit Corporation” wherever appearing, inserted “, and subsection (g) does not apply to eligible commodities furnished on a grant basis or on credit terms under that title” before period at end of par. (2), and added par. (5).
+Subsec. (e). Pub. L. 107–171, § 3106(b)(2)(D), (E), (d), inserted heading, substituted “eligible commodities” for “commodities” and “Corporation” for “Commodity Credit Corporation” wherever appearing, inserted “, and subsection (g) does not apply to eligible commodities furnished on a grant basis or on credit terms under that title” before period at end of par. (2), and added par. (5).
 
-Subsec. (f). Pub. L. 107–171, § 3106(b)(2)(D), (E), (e)(1), inserted heading and substituted “eligible commodities” for “commodities” and “Corporation” for “Commodity Credit Corporation” wherever appearing.
+Subsec. (f). Pub. L. 107–171, § 3106(b)(2)(D), (E), (e)(1), inserted heading and substituted “eligible commodities” for “commodities” and “Corporation” for “Commodity Credit Corporation” wherever appearing.
 
-Subsec. (f)(3). Pub. L. 107–171, § 3106(a), (b)(2)(D), (E), substituted “Corporation” for “Commodity Credit Corporation”, “eligible commodities” for “commodities” in two places, and “2007” for “2002”.
+Subsec. (f)(3). Pub. L. 107–171, § 3106(a), (b)(2)(D), (E), substituted “Corporation” for “Commodity Credit Corporation”, “eligible commodities” for “commodities” in two places, and “2007” for “2002”.
 
-Pub. L. 107–171, § 3106(e)(2), which directed substitution of “$40,000,000” for “$30,000,000 (or in the case of fiscal year 1999, $35,000,000)”, was executed by making the substitution for “$30,000,000 (or, in the case of fiscal year 1999, $35,000,000)” to reflect the probable intent of Congress.
+Pub. L. 107–171, § 3106(e)(2), which directed substitution of “$40,000,000” for “$30,000,000 (or in the case of fiscal year 1999, $35,000,000)”, was executed by making the substitution for “$30,000,000 (or, in the case of fiscal year 1999, $35,000,000)” to reflect the probable intent of Congress.
 
-Subsec. (f)(5). Pub. L. 107–171, § 3009(b)(2), added par. (5).
+Subsec. (f)(5). Pub. L. 107–171, § 3009(b)(2), added par. (5).
 
-Subsec. (g). Pub. L. 107–171, § 3106(f), added subsec. (g) and struck out former subsec. (g) which read as follows: “Not more than 500,000 metric tons of commodities may be furnished under this section in each of the fiscal years 1986 through 2002.”
+Subsec. (g). Pub. L. 107–171, § 3106(f), added subsec. (g) and struck out former subsec. (g) which read as follows: “Not more than 500,000 metric tons of commodities may be furnished under this section in each of the fiscal years 1986 through 2002.”
 
-Subsec. (h). Pub. L. 107–171, § 3106(b)(2)(D), (g), inserted heading and substituted “eligible commodities” for “commodities”.
+Subsec. (h). Pub. L. 107–171, § 3106(b)(2)(D), (g), inserted heading and substituted “eligible commodities” for “commodities”.
 
-Subsec. (i). Pub. L. 107–171, § 3106(h), inserted heading.
+Subsec. (i). Pub. L. 107–171, § 3106(h), inserted heading.
 
-Subsec. (j). Pub. L. 107–171, § 3106(b)(2)(D), (i), inserted heading, designated existing provisions as par. (1), inserted par. (1) heading, struck out “may” after “the President”, substituted “eligible commodities” for “commodities” in two places, “is encouraged to approve” for “approve”, and “multicountry or multiyear” for “multiyear”, and added pars. (2) and (3).
+Subsec. (j). Pub. L. 107–171, § 3106(b)(2)(D), (i), inserted heading, designated existing provisions as par. (1), inserted par. (1) heading, struck out “may” after “the President”, substituted “eligible commodities” for “commodities” in two places, “is encouraged to approve” for “approve”, and “multicountry or multiyear” for “multiyear”, and added pars. (2) and (3).
 
-Subsec. (k). Pub. L. 107–171, § 3106(a), (j), inserted heading and substituted “2007” for “2002”.
+Subsec. (k). Pub. L. 107–171, § 3106(a), (j), inserted heading and substituted “2007” for “2002”.
 
-Subsec. (*l*). Pub. L. 107–171, § 3106(a), (b)(2)(B), (D), (E), (k), inserted heading, substituted “eligible commodities” for “commodities” wherever appearing, in par. (1) substituted “2007” for “2002”, “$15,000,000” for “$10,000,000”, and “Corporation” for “Commodity Credit Corporation” after “$12,000,000) of”, in par. (2) struck out “agricultural” after “President may provide”, in par. (3) substituted “proceeds” for “local currencies”, and added par. (4).
+Subsec. (*l*). Pub. L. 107–171, § 3106(a), (b)(2)(B), (D), (E), (k), inserted heading, substituted “eligible commodities” for “commodities” wherever appearing, in par. (1) substituted “2007” for “2002”, “$15,000,000” for “$10,000,000”, and “Corporation” for “Commodity Credit Corporation” after “$12,000,000) of”, in par. (2) struck out “agricultural” after “President may provide”, in par. (3) substituted “proceeds” for “local currencies”, and added par. (4).
 
-Subsec. (m). Pub. L. 107–171, § 3106(b)(2)(C), (D), (*l*), inserted heading and, in par. (1), substituted “eligible commodities” for “commodities” in two places and struck out “these” after “marketing of”.
+Subsec. (m). Pub. L. 107–171, § 3106(b)(2)(C), (D), (*l*), inserted heading and, in par. (1), substituted “eligible commodities” for “commodities” in two places and struck out “these” after “marketing of”.
 
-Subsec. (n). Pub. L. 107–171, § 3106(m), added subsec. (n) and struck out former subsec. (n) which read as follows: “During fiscal year 1999, to the maximum extent practicable, the Secretary shall utilize Private Voluntary Organizations to carry out this section.”
+Subsec. (n). Pub. L. 107–171, § 3106(m), added subsec. (n) and struck out former subsec. (n) which read as follows: “During fiscal year 1999, to the maximum extent practicable, the Secretary shall utilize Private Voluntary Organizations to carry out this section.”
 
-Subsec. (*o*). Pub. L. 107–171, § 3106(b)(2)(F), struck out subsec. (*o*) which read as follows: “As used in this section, the term ‘independent states of the former Soviet Union’ means the independent states of the former Soviet Union as defined in section 5602(8) of this title.”
+Subsec. (*o*). Pub. L. 107–171, § 3106(b)(2)(F), struck out subsec. (*o*) which read as follows: “As used in this section, the term ‘independent states of the former Soviet Union’ means the independent states of the former Soviet Union as defined in section 5602(8) of this title.”
 
-1998—Subsec. (f)(3). Pub. L. 105–277, § 101(a) [title XI, § 1125(1)], inserted “(or, in the case of fiscal year 1999, $35,000,000)” after “$30,000,000”.
+1998—Subsec. (f)(3). Pub. L. 105–277, § 101(a) [title XI, § 1125(1)], inserted “(or, in the case of fiscal year 1999, $35,000,000)” after “$30,000,000”.
 
-Subsec. (*l*)(1). Pub. L. 105–277, § 101(a) [title XI, § 1125(2)], inserted “(or, in the case of fiscal year 1999, $12,000,000)” after “$10,000,000”.
+Subsec. (*l*)(1). Pub. L. 105–277, § 101(a) [title XI, § 1125(2)], inserted “(or, in the case of fiscal year 1999, $12,000,000)” after “$10,000,000”.
 
-Subsecs. (n), (*o*). Pub. L. 105–277, § 101(a) [title XI, § 1125(3), (4)], added subsec. (n) and redesignated former subsec. (n) as (*o*).
+Subsecs. (n), (*o*). Pub. L. 105–277, § 101(a) [title XI, § 1125(3), (4)], added subsec. (n) and redesignated former subsec. (n) as (*o*).
 
-1996—Subsec. (b). Pub. L. 104–127, § 227(1), struck out “(1)” before “In order to use”, inserted “intergovernmental organizations,” after “cooperatives,”, and struck out par. (2) which read as follows: “The annual tonnage limitation contained in subsection (g) of this section shall not apply with respect to commodities furnished to the independent states of the former Soviet Union during fiscal year 1993.”
+1996—Subsec. (b). Pub. L. 104–127, § 227(1), struck out “(1)” before “In order to use”, inserted “intergovernmental organizations,” after “cooperatives,”, and struck out par. (2) which read as follows: “The annual tonnage limitation contained in subsection (g) of this section shall not apply with respect to commodities furnished to the independent states of the former Soviet Union during fiscal year 1993.”
 
-Subsec. (e)(3). Pub. L. 104–127, § 265(b), substituted “section 103” for “section 106”.
+Subsec. (e)(3). Pub. L. 104–127, § 265(b), substituted “section 103” for “section 106”.
 
-Subsec. (e)(4). Pub. L. 104–127, § 227(2), substituted “section 406” for “section 203”.
+Subsec. (e)(4). Pub. L. 104–127, § 227(2), substituted “section 406” for “section 203”.
 
-Subsec. (f)(1)(B). Pub. L. 104–127, § 227(3)(A), struck out “in the case of the independent states of the former Soviet Union,” before “sales on credit terms,”.
+Subsec. (f)(1)(B). Pub. L. 104–127, § 227(3)(A), struck out “in the case of the independent states of the former Soviet Union,” before “sales on credit terms,”.
 
-Subsec. (f)(2) to (5). Pub. L. 104–127, § 227(3)(B)–(D), in par. (4), inserted “for each of fiscal years 1996 through 2002” after “may be used”, redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “Not less than 75,000 metric tons shall be made available pursuant to section 1431(b)(10)(C) of this title to carry out this section unless the President determines there are an insufficient number of eligible recipients.”
+Subsec. (f)(2) to (5). Pub. L. 104–127, § 227(3)(B)–(D), in par. (4), inserted “for each of fiscal years 1996 through 2002” after “may be used”, redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “Not less than 75,000 metric tons shall be made available pursuant to section 1431(b)(10)(C) of this title to carry out this section unless the President determines there are an insufficient number of eligible recipients.”
 
-Subsec. (g). Pub. L. 104–127, § 227(4), substituted “2002” for “1995”.
+Subsec. (g). Pub. L. 104–127, § 227(4), substituted “2002” for “1995”.
 
-Subsec. (j). Pub. L. 104–127, § 227(5), substituted “may” for “shall”.
+Subsec. (j). Pub. L. 104–127, § 227(5), substituted “may” for “shall”.
 
-Subsec. (k). Pub. L. 104–127, § 227(6), substituted “2002” for “1995”.
+Subsec. (k). Pub. L. 104–127, § 227(6), substituted “2002” for “1995”.
 
-Subsec. (*l*)(1). Pub. L. 104–127, § 227(7), substituted “1996 through 2002” for “1991 through 1995” and inserted “, and to provide technical assistance for monetization programs,” after “monitoring of food assistance programs”.
+Subsec. (*l*)(1). Pub. L. 104–127, § 227(7), substituted “1996 through 2002” for “1991 through 1995” and inserted “, and to provide technical assistance for monetization programs,” after “monitoring of food assistance programs”.
 
-Subsec. (m). Pub. L. 104–127, § 227(8), in introductory provisions, struck out “with respect to the independent states of the former Soviet Union” after “this section” and substituted “agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives” for “private voluntary organizations and cooperatives”, and in par. (2), struck out “in the independent states” after “the use” and substituted “agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives” for “private voluntary organizations and cooperatives”.
+Subsec. (m). Pub. L. 104–127, § 227(8), in introductory provisions, struck out “with respect to the independent states of the former Soviet Union” after “this section” and substituted “agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives” for “private voluntary organizations and cooperatives”, and in par. (2), struck out “in the independent states” after “the use” and substituted “agricultural trade organizations, intergovernmental organizations, private voluntary organizations, and cooperatives” for “private voluntary organizations and cooperatives”.
 
-1992—Subsec. (b). Pub. L. 102–511, § 701(1), designated existing provisions as par. (1), inserted “(including the independent states of the former Soviet Union)” after “such countries”, substituted “cooperatives, or other private entities” for “or cooperatives”, and added par. (2).
+1992—Subsec. (b). Pub. L. 102–511, § 701(1), designated existing provisions as par. (1), inserted “(including the independent states of the former Soviet Union)” after “such countries”, substituted “cooperatives, or other private entities” for “or cooperatives”, and added par. (2).
 
-Subsec. (f)(1). Pub. L. 102–511, § 701(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Commodities made available under section 1431(b) of this title for use in carrying out this section shall be provided on a grant basis.”
+Subsec. (f)(1). Pub. L. 102–511, § 701(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Commodities made available under section 1431(b) of this title for use in carrying out this section shall be provided on a grant basis.”
 
-Subsecs. (m) and (n). Pub. L. 102–511, § 701(3), added subsecs. (m) and (n).
+Subsecs. (m) and (n). Pub. L. 102–511, § 701(3), added subsecs. (m) and (n).
 
-1991—Subsec. (k). Pub. L. 102–237, § 335(1), (3), redesignated subsec. (*l*) as (k) and struck out “September 30,” before “December 31”.
+1991—Subsec. (k). Pub. L. 102–237, § 335(1), (3), redesignated subsec. (*l*) as (k) and struck out “September 30,” before “December 31”.
 
-Subsecs. (*l*), (m). Pub. L. 102–237, § 335(2), (3), redesignated subsec. (m) as (*l*) and substituted “this section” for “this Act” wherever appearing.
+Subsecs. (*l*), (m). Pub. L. 102–237, § 335(2), (3), redesignated subsec. (m) as (*l*) and substituted “this section” for “this Act” wherever appearing.
 
-1990—Subsec. (b). Pub. L. 101–624, § 1516(1), substituted “developing countries, and countries that are emerging democracies, that” for “countries that”, and “the governments of such countries, or with private voluntary organizations, nonprofit agricultural organizations, or cooperatives,” for “developing countries”.
+1990—Subsec. (b). Pub. L. 101–624, § 1516(1), substituted “developing countries, and countries that are emerging democracies, that” for “countries that”, and “the governments of such countries, or with private voluntary organizations, nonprofit agricultural organizations, or cooperatives,” for “developing countries”.
 
-Subsec. (d). Pub. L. 101–624, § 1516(2), struck out “with countries” before “under this section” in introductory provisions.
+Subsec. (d). Pub. L. 101–624, § 1516(2), struck out “with countries” before “under this section” in introductory provisions.
 
-Subsec. (e)(3). Pub. L. 101–624, § 1516(3), struck out “to a developing country” before “under this section”, and “by a developing country” before “for commodities”.
+Subsec. (e)(3). Pub. L. 101–624, § 1516(3), struck out “to a developing country” before “under this section”, and “by a developing country” before “for commodities”.
 
-Subsec. (e)(4). Pub. L. 101–624, § 1516(4), struck out “to a developing country” before “under this section” in two places, and substituted “sections 402, 403(a), 403(c), and 403(i)” for “section 401(b)”.
+Subsec. (e)(4). Pub. L. 101–624, § 1516(4), struck out “to a developing country” before “under this section” in two places, and substituted “sections 402, 403(a), 403(c), and 403(i)” for “section 401(b)”.
 
-Subsec. (f)(1). Pub. L. 101–624, § 1516(5), struck out “to developing countries” before “on a grant basis”.
+Subsec. (f)(1). Pub. L. 101–624, § 1516(5), struck out “to developing countries” before “on a grant basis”.
 
-Subsec. (g). Pub. L. 101–624, § 1516(6), substituted “1995” for “1990”.
+Subsec. (g). Pub. L. 101–624, § 1516(6), substituted “1995” for “1990”.
 
-Subsec. (j). Pub. L. 101–624, § 1572(1), redesignated subsec. (k) as (j) and struck out former subsec. (j) which read as follows: “Within 90 days after the end of each fiscal year in which an agreement under this section is in effect with respect to a country, the President shall report to the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the status of such agreement and the progress being made to implement private, free enterprise agricultural policies for long-term agricultural development in such country.”
+Subsec. (j). Pub. L. 101–624, § 1572(1), redesignated subsec. (k) as (j) and struck out former subsec. (j) which read as follows: “Within 90 days after the end of each fiscal year in which an agreement under this section is in effect with respect to a country, the President shall report to the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the status of such agreement and the progress being made to implement private, free enterprise agricultural policies for long-term agricultural development in such country.”
 
-Pub. L. 101–624, § 1516(7), struck out “entered into with a country” before “under this section”, and inserted “with respect to a country” after “effect”.
+Pub. L. 101–624, § 1516(7), struck out “entered into with a country” before “under this section”, and inserted “with respect to a country” after “effect”.
 
-Subsec. (k). Pub. L. 101–624, § 1572(1)(B), redesignated subsec. (k) as (j).
+Subsec. (k). Pub. L. 101–624, § 1572(1)(B), redesignated subsec. (k) as (j).
 
-Pub. L. 101–624, § 1516(8), substituted “the recipient” for “recipient countries”.
+Pub. L. 101–624, § 1516(8), substituted “the recipient” for “recipient countries”.
 
-Subsec. (*l*). Pub. L. 101–624, § 1516(9), substituted “December 31, 1995” for “1990”.
+Subsec. (*l*). Pub. L. 101–624, § 1516(9), substituted “December 31, 1995” for “1990”.
 
-Subsec. (m). Pub. L. 101–624, § 1516(10), added subsec. (m).
+Subsec. (m). Pub. L. 101–624, § 1516(10), added subsec. (m).
 
 1988—Subsecs. (k), (*l*). Pub. L. 100–418 added subsec. (k) and redesignated former subsec. (k) as (*l*).
 
@@ -4587,7 +4587,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 Ex. Ord. No. 12583, Feb. 19, 1987, 52 F.R. 5427, which related to the delegation of functions relating to entering into agreements with developing countries and waiving minimum tonnage requirements, was revoked by section 6 of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
 
-### § 1736o–1. McGovern-Dole International Food for Education and Child Nutrition Program
+### § 1736o–1. McGovern-Dole International Food for Education and Child Nutrition Program
 
 **(a) Definition of agricultural commodity** In this section, the term “agricultural commodity” means an agricultural commodity, or a product of an agricultural commodity, that—
 
@@ -4751,7 +4751,7 @@ Funds made available to carry out this section may be used to pay the administra
 
 Of the funds made available to carry out this section, not more than 10 percent shall be used to purchase agricultural commodities described in subsection (a)(2).
 
-(Pub. L. 107–171, title III, § 3107, May 13, 2002, 116 Stat. 295; Pub. L. 110–246, title III, §§ 3001(b)(1)(A), (2)(G), 3106, June 18, 2008, 122 Stat. 1820, 1833; Pub. L. 113–79, title III, § 3204, Feb. 7, 2014, 128 Stat. 780; Pub. L. 115–334, title III, § 3309, Dec. 20, 2018, 132 Stat. 4622.)
+(Pub. L. 107–171, title III, § 3107, May 13, 2002, 116 Stat. 295; Pub. L. 110–246, title III, §§ 3001(b)(1)(A), (2)(G), 3106, June 18, 2008, 122 Stat. 1820, 1833; Pub. L. 113–79, title III, § 3204, Feb. 7, 2014, 128 Stat. 780; Pub. L. 115–334, title III, § 3309, Dec. 20, 2018, 132 Stat. 4622.)
 
 **Editorial Notes**
 
@@ -4761,39 +4761,39 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–334, § 3309(1), inserted dash after “that” and par. (1) designation before “is produced” and added par. (2).
+2018—Subsec. (a). Pub. L. 115–334, § 3309(1), inserted dash after “that” and par. (1) designation before “is produced” and added par. (2).
 
-Subsec. (c)(2)(A)(vi), (vii). Pub. L. 115–334, § 3309(2), added cl. (vi) and redesignated former cl. (vi) as (vii).
+Subsec. (c)(2)(A)(vi), (vii). Pub. L. 115–334, § 3309(2), added cl. (vi) and redesignated former cl. (vi) as (vii).
 
-Subsec. (f)(1)(E) to (G). Pub. L. 115–334, § 3309(3), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
+Subsec. (f)(1)(E) to (G). Pub. L. 115–334, § 3309(3), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
 
-Subsec. (*l*)(2). Pub. L. 115–334, § 3309(4)(A), substituted “2023” for “2018”.
+Subsec. (*l*)(2). Pub. L. 115–334, § 3309(4)(A), substituted “2023” for “2018”.
 
-Subsec. (*l*)(4). Pub. L. 115–334, § 3309(4)(B), added par. (4).
+Subsec. (*l*)(4). Pub. L. 115–334, § 3309(4)(B), added par. (4).
 
-2014—Subsec. (d). Pub. L. 113–79, § 3204(b), struck out “to” after “shall” in introductory provisions.
+2014—Subsec. (d). Pub. L. 113–79, § 3204(b), struck out “to” after “shall” in introductory provisions.
 
-Subsec. (*l*)(2). Pub. L. 113–79, § 3204(a), substituted “2018” for “2012”.
+Subsec. (*l*)(2). Pub. L. 113–79, § 3204(a), substituted “2018” for “2012”.
 
-2008—Subsecs. (b), (c)(2)(B). Pub. L. 110–246, § 3106(1), substituted “Secretary” for “President” in introductory provisions.
+2008—Subsecs. (b), (c)(2)(B). Pub. L. 110–246, § 3106(1), substituted “Secretary” for “President” in introductory provisions.
 
-Subsec. (d). Pub. L. 110–246, § 3106(2), substituted “The Secretary shall” for “The President shall designate 1 or more Federal agencies” in introductory provisions.
+Subsec. (d). Pub. L. 110–246, § 3106(2), substituted “The Secretary shall” for “The President shall designate 1 or more Federal agencies” in introductory provisions.
 
-Subsec. (f)(1). Pub. L. 110–246, § 3106(1), substituted “Secretary” for “President” in introductory provisions.
+Subsec. (f)(1). Pub. L. 110–246, § 3106(1), substituted “Secretary” for “President” in introductory provisions.
 
-Subsec. (f)(2). Pub. L. 110–246, § 3106(3), substituted “Secretary” for “implementing agency” in introductory provisions.
+Subsec. (f)(2). Pub. L. 110–246, § 3106(3), substituted “Secretary” for “implementing agency” in introductory provisions.
 
-Subsecs. (h), (i). Pub. L. 110–246, § 3106(1), substituted “Secretary” for “President” wherever appearing.
+Subsecs. (h), (i). Pub. L. 110–246, § 3106(1), substituted “Secretary” for “President” wherever appearing.
 
-Subsec. (k). Pub. L. 110–246, § 3001(b)(1)(A), (2)(G), made technical amendment to reference in original act which appears in text as reference to section 1733(a) of this title.
+Subsec. (k). Pub. L. 110–246, § 3001(b)(1)(A), (2)(G), made technical amendment to reference in original act which appears in text as reference to section 1733(a) of this title.
 
-Subsec. (*l*)(1). Pub. L. 110–246, § 3106(4)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Of the funds of the Commodity Credit Corporation, the Secretary shall use $100,000,000 for fiscal year 2003 to carry out this section.”
+Subsec. (*l*)(1). Pub. L. 110–246, § 3106(4)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Of the funds of the Commodity Credit Corporation, the Secretary shall use $100,000,000 for fiscal year 2003 to carry out this section.”
 
-Pub. L. 110–246, § 3106(1), substituted “Secretary” for “President”.
+Pub. L. 110–246, § 3106(1), substituted “Secretary” for “President”.
 
-Subsec. (*l*)(2). Pub. L. 110–246, § 3106(4)(B), substituted “2008 through 2012” for “2004 through 2007”.
+Subsec. (*l*)(2). Pub. L. 110–246, § 3106(4)(B), substituted “2008 through 2012” for “2004 through 2007”.
 
-Subsec. (*l*)(3). Pub. L. 110–246, § 3106(4)(C), substituted “the Department of Agriculture or any other Federal agency assisting” for “any Federal agency implementing or assisting”.
+Subsec. (*l*)(3). Pub. L. 110–246, § 3106(4)(C), substituted “the Department of Agriculture or any other Federal agency assisting” for “any Federal agency implementing or assisting”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4821,7 +4821,7 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 George W. Bush.
 
-### § 1736p. Trade policy declaration
+### § 1736p. Trade policy declaration
 
 It is hereby declared to be the agricultural trade policy of the United States to—
 
@@ -4837,7 +4837,7 @@ It is hereby declared to be the agricultural trade policy of the United States t
 
 **(6)** provide for consideration of United States agricultural trade interests in the design of national fiscal and monetary policy that may foster continued strength in the value of the dollar.
 
-(Pub. L. 99–198, title XI, § 1121, Dec. 23, 1985, 99 Stat. 1480; Pub. L. 104–127, title II, § 267, Apr. 4, 1996, 110 Stat. 974.)
+(Pub. L. 99–198, title XI, § 1121, Dec. 23, 1985, 99 Stat. 1480; Pub. L. 104–127, title II, § 267, Apr. 4, 1996, 110 Stat. 974.)
 
 **Editorial Notes**
 
@@ -4857,11 +4857,11 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 “(4) counter aggressively unfair foreign trade practices using all available means, including export restitution, export bonus programs, and, if necessary, restrictions on United States imports of foreign agricultural commodities and their products, as a means to encourage fairer trade;”.
 
-### § 1736q. Repealed. Pub. L. 104–127, title II, § 268, Apr. 4, 1996, 110 Stat. 975
+### § 1736q. Repealed. Pub. L. 104–127, title II, § 268, Apr. 4, 1996, 110 Stat. 975
 
-Section, Pub. L. 99–198, title XI, § 1122, Dec. 23, 1985, 99 Stat. 1480, related to liberalization of agricultural trade policy.
+Section, Pub. L. 99–198, title XI, § 1122, Dec. 23, 1985, 99 Stat. 1480, related to liberalization of agricultural trade policy.
 
-### § 1736r. Trade negotiations policy
+### § 1736r. Trade negotiations policy
 
 **(a) Findings** Congress finds that—
 
@@ -4901,7 +4901,7 @@ that should result in increased exports of United States agricultural products, 
 
 **(4)** encouraging government policies that avoid price-depressing surpluses.
 
-(Pub. L. 99–198, title XI, § 1123, Dec. 23, 1985, 99 Stat. 1481; Pub. L. 104–127, title II, § 269, Apr. 4, 1996, 110 Stat. 975.)
+(Pub. L. 99–198, title XI, § 1123, Dec. 23, 1985, 99 Stat. 1481; Pub. L. 104–127, title II, § 269, Apr. 4, 1996, 110 Stat. 975.)
 
 **Editorial Notes**
 
@@ -4917,7 +4917,7 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 **Agricultural Trade Negotiating Objectives and Consultations With Congress**
 
-Pub. L. 106–200, title IV, § 409, May 18, 2000, 114 Stat. 295, provided that:
+Pub. L. 106–200, title IV, § 409, May 18, 2000, 114 Stat. 295, provided that:
 
 > **“(a) Findings.—** Congress finds that—
 
@@ -4973,19 +4973,19 @@ Pub. L. 106–200, title IV, § 409, May 18, 2000, 114 Stat. 295, provided tha
 
 > **“(3)** if by the conclusion of the negotiations, the primary agricultural competitors of the United States do not agree to reduce their trade distorting domestic supports and eliminate export subsidies in accordance with the negotiating objectives expressed in this section, the United States should take steps to increase the leverage of United States negotiators and level the playing field for United States producers.”
 
-### §§ 1736s, 1736t. Repealed. Pub. L. 101–624, title XV, § 1572(3), Nov. 28, 1990, 104 Stat. 3702
+### §§ 1736s, 1736t. Repealed. Pub. L. 101–624, title XV, § 1572(3), Nov. 28, 1990, 104 Stat. 3702
 
-Section 1736s, Pub. L. 99–198, title XI, § 1124, Dec. 23, 1985, 99 Stat. 1481; Pub. L. 99–260, § 5, Mar. 20, 1986, 100 Stat. 49; Pub. L. 100–418, title IV, § 4304, Aug. 23, 1988, 102 Stat. 1397; Pub. L. 101–239, title I, § 1005(b), Dec. 19, 1989, 103 Stat. 2109, provided for targeted export assistance for fiscal years 1986 through 1990.
+Section 1736s, Pub. L. 99–198, title XI, § 1124, Dec. 23, 1985, 99 Stat. 1481; Pub. L. 99–260, § 5, Mar. 20, 1986, 100 Stat. 49; Pub. L. 100–418, title IV, § 4304, Aug. 23, 1988, 102 Stat. 1397; Pub. L. 101–239, title I, § 1005(b), Dec. 19, 1989, 103 Stat. 2109, provided for targeted export assistance for fiscal years 1986 through 1990.
 
-Section 1736t, Pub. L. 99–198, title XI, § 1125, Dec. 23, 1985, 99 Stat. 1482; Pub. L. 100–418, title IV, § 4402(a), Aug. 23, 1988, 102 Stat. 1400, provided for short-term export credits.
+Section 1736t, Pub. L. 99–198, title XI, § 1125, Dec. 23, 1985, 99 Stat. 1482; Pub. L. 100–418, title IV, § 4402(a), Aug. 23, 1988, 102 Stat. 1400, provided for short-term export credits.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Export Credit Guarantee Program**
 
-Pub. L. 100–418, title IV, § 4305, Aug. 23, 1988, 102 Stat. 1398, which stated the sense of Congress that, to the extent that the Commodity Credit Corporation made a specified allocation of credit guarantees available under the export credit guarantee program referred to in section 1736t for short-term credit extended to finance the export sales of United States agricultural commodities and products, such allocation was to be made on a country-only basis and not on a commodity basis or a commodity and country basis, was repealed by Pub. L. 101–624, title XV, § 1571, Nov. 28, 1990, 104 Stat. 3702.
+Pub. L. 100–418, title IV, § 4305, Aug. 23, 1988, 102 Stat. 1398, which stated the sense of Congress that, to the extent that the Commodity Credit Corporation made a specified allocation of credit guarantees available under the export credit guarantee program referred to in section 1736t for short-term credit extended to finance the export sales of United States agricultural commodities and products, such allocation was to be made on a country-only basis and not on a commodity basis or a commodity and country basis, was repealed by Pub. L. 101–624, title XV, § 1571, Nov. 28, 1990, 104 Stat. 3702.
 
-### § 1736u. Cooperator market development program
+### § 1736u. Cooperator market development program
 
 **(a) Sense of Congress**
 
@@ -4993,9 +4993,9 @@ It is the sense of Congress that the cooperator market development program of th
 
 **(b) Exemption from requirements of OMB circular**
 
-The cooperator market development program shall be exempt from the requirements of Circular A 110 issued by the Office of Management and Budget.
+The cooperator market development program shall be exempt from the requirements of Circular A 110 issued by the Office of Management and Budget.
 
-(Pub. L. 99–198, title XI, § 1126(a), (b), Dec. 23, 1985, 99 Stat. 1482.)
+(Pub. L. 99–198, title XI, § 1126(a), (b), Dec. 23, 1985, 99 Stat. 1482.)
 
 **Editorial Notes**
 
@@ -5005,15 +5005,15 @@ Section consists of subsecs. (a) and (b) of section 1126 of Pub. L. 99–198. Su
 
 Section was enacted as part of the Food Security Act of 1985, and not as part of the Food for Peace Act which comprises this chapter.
 
-### §§ 1736v to 1736x. Repealed. Pub. L. 101–624, title XV, § 1572(3), Nov. 28, 1990, 104 Stat. 3702
+### §§ 1736v to 1736x. Repealed. Pub. L. 101–624, title XV, § 1572(3), Nov. 28, 1990, 104 Stat. 3702
 
-Section 1736v, Pub. L. 99–198, title XI, § 1127, Dec. 23, 1985, 99 Stat. 1483; Pub. L. 99–260, § 6, Mar. 20, 1986, 100 Stat. 50; Pub. L. 100–418, title IV, § 4306, Aug. 23, 1988, 102 Stat. 1398, provided for program to develop and expand markets for United States agricultural commodities.
+Section 1736v, Pub. L. 99–198, title XI, § 1127, Dec. 23, 1985, 99 Stat. 1483; Pub. L. 99–260, § 6, Mar. 20, 1986, 100 Stat. 50; Pub. L. 100–418, title IV, § 4306, Aug. 23, 1988, 102 Stat. 1398, provided for program to develop and expand markets for United States agricultural commodities.
 
-Section 1736w, Pub. L. 99–198, title XI, § 1128, Dec. 23, 1985, 99 Stat. 1485, provided for program of export sales of poultry, beef and pork meats and meat-food products for 1986 through 1989.
+Section 1736w, Pub. L. 99–198, title XI, § 1128, Dec. 23, 1985, 99 Stat. 1485, provided for program of export sales of poultry, beef and pork meats and meat-food products for 1986 through 1989.
 
-Section 1736x, Pub. L. 99–198, title XI, § 1132, Dec. 23, 1985, 99 Stat. 1488; Pub. L. 100–418, title IV, § 4307, Aug. 23, 1988, 102 Stat. 1398, provided for reports by agricultural attachés. See section 1748 of this title.
+Section 1736x, Pub. L. 99–198, title XI, § 1132, Dec. 23, 1985, 99 Stat. 1488; Pub. L. 100–418, title IV, § 4307, Aug. 23, 1988, 102 Stat. 1398, provided for reports by agricultural attachés. See section 1748 of this title.
 
-### § 1736y. Contract sanctity and producer embargo protection
+### § 1736y. Contract sanctity and producer embargo protection
 
 It is hereby declared to be the policy of the United States—
 
@@ -5025,13 +5025,13 @@ It is hereby declared to be the policy of the United States—
 
 **(4)** that contracts for the export of such commodities or products entered into before the imposition of any prohibition or limitation on the export of such commodities or products should not be abrogated.
 
-(Pub. L. 99–198, title XI, § 1133(a), Dec. 23, 1985, 99 Stat. 1489.)
+(Pub. L. 99–198, title XI, § 1133(a), Dec. 23, 1985, 99 Stat. 1489.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Export Administration Act, referred to in par. (3), probably means the Export Administration Act of 1979, Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
+The Export Administration Act, referred to in par. (3), probably means the Export Administration Act of 1979, Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
 
 **Codification**
 
@@ -5039,39 +5039,39 @@ Section is comprised of section 1133(a) of Pub. L. 99–198. Section 1133(b) of 
 
 Section was enacted as part of the Food Security Act of 1985, and not as part of the Food for Peace Act which comprises this chapter.
 
-### §§ 1736z, 1736aa. Repealed. Pub. L. 101–624, title XV, § 1572(3), Nov. 28, 1990, 104 Stat. 3702
+### §§ 1736z, 1736aa. Repealed. Pub. L. 101–624, title XV, § 1572(3), Nov. 28, 1990, 104 Stat. 3702
 
-Section 1736z, Pub. L. 99–198, title XI, § 1162, Dec. 23, 1985, 99 Stat. 1499, provided for a regular assessment of certain projects and activities administered by the Secretary and Department of Agriculture.
+Section 1736z, Pub. L. 99–198, title XI, § 1162, Dec. 23, 1985, 99 Stat. 1499, provided for a regular assessment of certain projects and activities administered by the Secretary and Department of Agriculture.
 
-Section 1736aa, Pub. L. 99–198, title XI, § 1167(d), Dec. 23, 1985, 99 Stat. 1503, provided for barter by exporters of agricultural commodities and products for foreign products needed by exporters.
+Section 1736aa, Pub. L. 99–198, title XI, § 1167(d), Dec. 23, 1985, 99 Stat. 1503, provided for barter by exporters of agricultural commodities and products for foreign products needed by exporters.
 
-### §§ 1736bb to 1736bb–6. Repealed. Pub. L. 104–127, title II, § 271(a), Apr. 4, 1996, 110 Stat. 976
+### §§ 1736bb to 1736bb–6. Repealed. Pub. L. 104–127, title II, § 271(a), Apr. 4, 1996, 110 Stat. 976
 
-Section 1736bb, Pub. L. 100–202, § 1, Dec. 22, 1987, 101 Stat. 1329–445; Pub. L. 100–418, title IV, § 4610(b), Aug. 23, 1988, 102 Stat. 1411, related to establishment of agricultural aid and trade missions.
+Section 1736bb, Pub. L. 100–202, § 1, Dec. 22, 1987, 101 Stat. 1329–445; Pub. L. 100–418, title IV, § 4610(b), Aug. 23, 1988, 102 Stat. 1411, related to establishment of agricultural aid and trade missions.
 
-Section 1736bb–1, Pub. L. 100–202, § 2, Dec. 22, 1987, 101 Stat. 1329–445, related to required and additional missions and eligible countries.
+Section 1736bb–1, Pub. L. 100–202, § 2, Dec. 22, 1987, 101 Stat. 1329–445, related to required and additional missions and eligible countries.
 
-Section 1736bb–2, Pub. L. 100–202, § 3, Dec. 22, 1987, 101 Stat. 1329–446, related to functions of members of missions to eligible countries.
+Section 1736bb–2, Pub. L. 100–202, § 3, Dec. 22, 1987, 101 Stat. 1329–446, related to functions of members of missions to eligible countries.
 
-Section 1736bb–3, Pub. L. 100–202, § 4, Dec. 22, 1987, 101 Stat. 1329–446; Pub. L. 100–418, title IV, § 4610(b), Aug. 23, 1988, 102 Stat. 1411, related to mission reports.
+Section 1736bb–3, Pub. L. 100–202, § 4, Dec. 22, 1987, 101 Stat. 1329–446; Pub. L. 100–418, title IV, § 4610(b), Aug. 23, 1988, 102 Stat. 1411, related to mission reports.
 
-Section 1736bb–4, Pub. L. 100–202, § 5, Dec. 22, 1987, 101 Stat. 1329–446; Pub. L. 100–418, title IV, § 4610(b), Aug. 23, 1988, 102 Stat. 1411, related to quarterly progress reports on implementing recommendations of missions.
+Section 1736bb–4, Pub. L. 100–202, § 5, Dec. 22, 1987, 101 Stat. 1329–446; Pub. L. 100–418, title IV, § 4610(b), Aug. 23, 1988, 102 Stat. 1411, related to quarterly progress reports on implementing recommendations of missions.
 
-Section 1736bb–5, Pub. L. 100–202, § 6, Dec. 22, 1987, 101 Stat. 1329–447; Pub. L. 100–418, title IV, § 4610(b), Aug. 23, 1988, 102 Stat. 1411, related to authorization of appropriations.
+Section 1736bb–5, Pub. L. 100–202, § 6, Dec. 22, 1987, 101 Stat. 1329–447; Pub. L. 100–418, title IV, § 4610(b), Aug. 23, 1988, 102 Stat. 1411, related to authorization of appropriations.
 
-Section 1736bb–6, Pub. L. 100–202, § 7, Dec. 22, 1987, 101 Stat. 1329–447; Pub. L. 100–418, title IV, § 4610(b), Aug. 23, 1988, 102 Stat. 1411; Pub. L. 101–624, title XV, § 1515(b), Nov. 28, 1990, 104 Stat. 3663; Pub. L. 102–237, title III, § 307, Dec. 13, 1991, 105 Stat. 1856, provided definitions for former sections 1736bb to 1736bb–6.
+Section 1736bb–6, Pub. L. 100–202, § 7, Dec. 22, 1987, 101 Stat. 1329–447; Pub. L. 100–418, title IV, § 4610(b), Aug. 23, 1988, 102 Stat. 1411; Pub. L. 101–624, title XV, § 1515(b), Nov. 28, 1990, 104 Stat. 3663; Pub. L. 102–237, title III, § 307, Dec. 13, 1991, 105 Stat. 1856, provided definitions for former sections 1736bb to 1736bb–6.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Inapplicability of Federal Advisory Committee Act to Agricultural Aid and Trade Missions**
 
-Pub. L. 100–277, § 7, Apr. 4, 1988, 102 Stat. 69, provided that any agricultural aid and trade mission established under this section and any other activity under sections 1736bb to 1736bb–6 of this title were not to be considered advisory committee for purposes of Federal Advisory Committee Act, see 5 U.S.C. 1001 et seq., prior to repeal by Pub. L. 104–127, title II, § 271(b), Apr. 4, 1996, 110 Stat. 976.
+Pub. L. 100–277, § 7, Apr. 4, 1988, 102 Stat. 69, provided that any agricultural aid and trade mission established under this section and any other activity under sections 1736bb to 1736bb–6 of this title were not to be considered advisory committee for purposes of Federal Advisory Committee Act, see 5 U.S.C. 1001 et seq., prior to repeal by Pub. L. 104–127, title II, § 271(b), Apr. 4, 1996, 110 Stat. 976.
 
-### § 1736cc. Repealed. Pub. L. 101–624, title XV, § 1577, Nov. 28, 1990, 104 Stat. 3702
+### § 1736cc. Repealed. Pub. L. 101–624, title XV, § 1577, Nov. 28, 1990, 104 Stat. 3702
 
-Section, Pub. L. 101–220, § 13, Dec. 12, 1989, 103 Stat. 1884, prohibited duty drawback claims by exporters who used certain export promotion programs.
+Section, Pub. L. 101–220, § 13, Dec. 12, 1989, 103 Stat. 1884, prohibited duty drawback claims by exporters who used certain export promotion programs.
 
-### § 1736dd. International food security technical assistance
+### § 1736dd. International food security technical assistance
 
 **(a) Definition of international food security**
 
@@ -5107,7 +5107,7 @@ In carrying out this section, the Secretary shall give priority to programs rela
 
 There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 101–624, title XV, § 1543B, as added Pub. L. 115–334, title III, § 3308, Dec. 20, 2018, 132 Stat. 4621.)
+(Pub. L. 101–624, title XV, § 1543B, as added Pub. L. 115–334, title III, § 3308, Dec. 20, 2018, 132 Stat. 4621.)
 
 **Editorial Notes**
 
@@ -5117,7 +5117,7 @@ Section was enacted as part of the Food, Agriculture, Conservation, and Trade Ac
 
 ## SUBCHAPTER V—FARMER-TO-FARMER PROGRAM
 
-### § 1737. John Ogonowski and Doug Bereuter Farmer-to-Farmer Program
+### § 1737. John Ogonowski and Doug Bereuter Farmer-to-Farmer Program
 
 **(a) Definitions** In this section:
 
@@ -5165,9 +5165,9 @@ The term “sub-Saharan African country” has the meaning given the term in sec
 
 **(vii)** marketing;
 
-**(viii)** inputs 1
+**(viii)** inputs 1
 
-<sup>1</sup>  So in original. Probably should be followed by a semicolon.
+<sup>1</sup> So in original. Probably should be followed by a semicolon.
 
 **(ix)** agricultural education and extension;
 
@@ -5281,49 +5281,49 @@ The Administrator of the Agency for International Development shall develop a gr
 
 **(D)** expand the footprint and impact of the programs and activities under this subchapter, and diversity among program participants, including land-grant colleges and universities and cooperative extension services (as such terms are defined in section 3103 of this title).
 
-(July 10, 1954, ch. 469, title V, § 501, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3656; amended Pub. L. 102–237, title III, § 301, Dec. 13, 1991, 105 Stat. 1855; Pub. L. 104–127, title II, §§ 224, 277(c)(1), Apr. 4, 1996, 110 Stat. 959, 979; Pub. L. 107–76, title VII, § 777, Nov. 28, 2001, 115 Stat. 747; Pub. L. 107–171, title III, § 3014, May 13, 2002, 116 Stat. 285; Pub. L. 108–447, div. A, title VII, § 769, Dec. 8, 2004, 118 Stat. 2848; Pub. L. 110–246, title III, § 3024, June 18, 2008, 122 Stat. 1830; Pub. L. 113–79, title III, § 3014(a), Feb. 7, 2014, 128 Stat. 778; Pub. L. 115–334, title III, § 3116, Dec. 20, 2018, 132 Stat. 4607.)
+(July 10, 1954, ch. 469, title V, § 501, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3656; amended Pub. L. 102–237, title III, § 301, Dec. 13, 1991, 105 Stat. 1855; Pub. L. 104–127, title II, §§ 224, 277(c)(1), Apr. 4, 1996, 110 Stat. 959, 979; Pub. L. 107–76, title VII, § 777, Nov. 28, 2001, 115 Stat. 747; Pub. L. 107–171, title III, § 3014, May 13, 2002, 116 Stat. 285; Pub. L. 108–447, div. A, title VII, § 769, Dec. 8, 2004, 118 Stat. 2848; Pub. L. 110–246, title III, § 3024, June 18, 2008, 122 Stat. 1830; Pub. L. 113–79, title III, § 3014(a), Feb. 7, 2014, 128 Stat. 778; Pub. L. 115–334, title III, § 3116, Dec. 20, 2018, 132 Stat. 4607.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (b). Pub. L. 115–334, § 3116(1)(A), inserted “section 1342 of title 31 or” after “Notwithstanding” in introductory provisions.
+2018—Subsec. (b). Pub. L. 115–334, § 3116(1)(A), inserted “section 1342 of title 31 or” after “Notwithstanding” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 115–334, § 3116(1)(B), inserted “technical” before “assistance” in introductory provisions.
+Subsec. (b)(1). Pub. L. 115–334, § 3116(1)(B), inserted “technical” before “assistance” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 115–334, § 3116(1)(C)(i), in introductory provisions, inserted “employees or staff of a State cooperative institution (as such term is defined in paragraph 18 of section 3103 of this title, except that subparagraphs (E), (F), and (G) of such paragraph shall not apply),” after “private corporations,”.
+Subsec. (b)(2). Pub. L. 115–334, § 3116(1)(C)(i), in introductory provisions, inserted “employees or staff of a State cooperative institution (as such term is defined in paragraph 18 of section 3103 of this title, except that subparagraphs (E), (F), and (G) of such paragraph shall not apply),” after “private corporations,”.
 
-Subsec. (b)(2)(A)(viii). Pub. L. 115–334, § 3116(1)(C)(ii)(I), struck out “; and” at end.
+Subsec. (b)(2)(A)(viii). Pub. L. 115–334, § 3116(1)(C)(ii)(I), struck out “; and” at end.
 
-Subsec. (b)(2)(A)(ix) to (xiii). Pub. L. 115–334, § 3116(1)(C)(ii)(II), added cls. (ix) to (xiii) and struck out former cl. (ix) which read as follows: “agricultural extension; and”.
+Subsec. (b)(2)(A)(ix) to (xiii). Pub. L. 115–334, § 3116(1)(C)(ii)(II), added cls. (ix) to (xiii) and struck out former cl. (ix) which read as follows: “agricultural extension; and”.
 
-Subsecs. (d), (e)(1). Pub. L. 115–334, § 3116(2), (3), in introductory provisions, substituted “2023” for “2018”.
+Subsecs. (d), (e)(1). Pub. L. 115–334, § 3116(2), (3), in introductory provisions, substituted “2023” for “2018”.
 
-Subsec. (f). Pub. L. 115–334, § 3116(4), added subsec. (f).
+Subsec. (f). Pub. L. 115–334, § 3116(4), added subsec. (f).
 
-2014—Subsec. (d). Pub. L. 113–79, § 3014(a)(1), substituted “2013, and not less than the greater of $15,000,000 or 0.6 percent of the amounts made available for each of fiscal years 2014 through 2018,” for “2012” in introductory provisions.
+2014—Subsec. (d). Pub. L. 113–79, § 3014(a)(1), substituted “2013, and not less than the greater of $15,000,000 or 0.6 percent of the amounts made available for each of fiscal years 2014 through 2018,” for “2012” in introductory provisions.
 
-Subsec. (e)(1). Pub. L. 113–79, § 3014(a)(2), substituted “2018” for “2012” in introductory provisions.
+Subsec. (e)(1). Pub. L. 113–79, § 3014(a)(2), substituted “2018” for “2012” in introductory provisions.
 
-2008—Subsec. (d). Pub. L. 110–246, § 3024(a), in introductory provisions, substituted “not less than the greater of $10,000,000 or” for “not less than” and “2008 through 2012” for “2002 through 2007”.
+2008—Subsec. (d). Pub. L. 110–246, § 3024(a), in introductory provisions, substituted “not less than the greater of $10,000,000 or” for “not less than” and “2008 through 2012” for “2002 through 2007”.
 
-Subsec. (e)(1). Pub. L. 110–246, § 3024(b), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out programs under this section in sub-Saharan African and Caribbean Basin countries $10,000,000 for each of fiscal years 2002 through 2007.”
+Subsec. (e)(1). Pub. L. 110–246, § 3024(b), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out programs under this section in sub-Saharan African and Caribbean Basin countries $10,000,000 for each of fiscal years 2002 through 2007.”
 
-2004—Pub. L. 108–447, § 769(2), inserted “and Doug Bereuter” after “John Ogonowski” in section catchline.
+2004—Pub. L. 108–447, § 769(2), inserted “and Doug Bereuter” after “John Ogonowski” in section catchline.
 
-Subsec. (b)(1). Pub. L. 108–447, § 769(1), inserted “and Doug Bereuter” after “John Ogonowski” in introductory provisions.
+Subsec. (b)(1). Pub. L. 108–447, § 769(1), inserted “and Doug Bereuter” after “John Ogonowski” in introductory provisions.
 
 2002—Pub. L. 107–171 reenacted section catchline without change and amended text generally, substituting, in subsec. (a), provisions relating to definitions for general provisions, in subsec. (b), provisions authorizing the President to administer the program for provisions relating to definitions, in subsec. (c), provisions relating to special emphasis on sub-Saharan African and Caribbean Basin countries for provisions relating to minimum funding, in subsec. (d), provisions relating to minimum funding for provisions relating to designation of program, and adding subsec. (e) relating to authorization of appropriations.
 
-2001—Pub. L. 107–76, § 777(1), inserted “John Ogonowski” before “Farmer-to-Farmer Program” in section catchline.
+2001—Pub. L. 107–76, § 777(1), inserted “John Ogonowski” before “Farmer-to-Farmer Program” in section catchline.
 
-Subsec. (d). Pub. L. 107–76, § 777(2), added subsec. (d).
+Subsec. (d). Pub. L. 107–76, § 777(2), added subsec. (d).
 
-1996—Subsec. (a). Pub. L. 104–127, § 277(c)(1)(A), substituted “emerging markets” for “emerging democracies” in introductory provisions.
+1996—Subsec. (a). Pub. L. 104–127, § 277(c)(1)(A), substituted “emerging markets” for “emerging democracies” in introductory provisions.
 
-Subsec. (a)(6). Pub. L. 104–127, § 224(1), added par. (6) and struck out former par. (6) which read as follows: “to the extent practicable, augment the funds available for programs established under this section through the use of foreign currencies that accrue from the sale of agricultural commodities under this chapter, and local currencies generated from other types of foreign assistance activities.”
+Subsec. (a)(6). Pub. L. 104–127, § 224(1), added par. (6) and struck out former par. (6) which read as follows: “to the extent practicable, augment the funds available for programs established under this section through the use of foreign currencies that accrue from the sale of agricultural commodities under this chapter, and local currencies generated from other types of foreign assistance activities.”
 
-Subsec. (b)(1). Pub. L. 104–127, § 277(c)(1)(B), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The term ‘emerging democracy’ means a country that is taking steps toward—
+Subsec. (b)(1). Pub. L. 104–127, § 277(c)(1)(B), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The term ‘emerging democracy’ means a country that is taking steps toward—
 
 “(A) political pluralism, based on progress toward free and fair elections and a multiparty political system;
 
@@ -5333,7 +5333,7 @@ Subsec. (b)(1). Pub. L. 104–127, § 277(c)(1)(B), added par. (1) and struck 
 
 “(D) a willingness to build a friendly relationship with the United States.”
 
-Subsec. (c). Pub. L. 104–127, § 224(2), substituted “0.4 percent of the amounts” for “0.2 percent of the amounts”, “1996 through 2002” for “1991 through 1995”, and “0.2 percent to be used” for “0.1 percent to be used”.
+Subsec. (c). Pub. L. 104–127, § 224(2), substituted “0.4 percent of the amounts” for “0.2 percent of the amounts”, “1996 through 2002” for “1991 through 1995”, and “0.2 percent to be used” for “0.1 percent to be used”.
 
 1991—Subsec. (a)(3). Pub. L. 102–237 struck out comma after “public”.
 
@@ -5355,11 +5355,11 @@ Functions of President under this section delegated to Administrator of the Agen
 
 ## SUBCHAPTER VI—ENTERPRISE FOR THE AMERICAS INITIATIVE
 
-### § 1738. Establishment of Facility
+### § 1738. Establishment of Facility
 
 There is established in the Department of the Treasury an entity to be known as the “Enterprise for the Americas Facility” (hereafter referred to in this subchapter as the “Facility”).
 
-(July 10, 1954, ch. 469, title VI, § 601, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3658.)
+(July 10, 1954, ch. 469, title VI, § 601, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3658.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5371,7 +5371,7 @@ Subchapter effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set ou
 
 **Executive Order No. 12757**
 
-Ex. Ord. No. 12757, Mar. 19, 1991, 56 F.R. 12107, as amended by Ex. Ord. No. 12823, Dec. 3, 1992, 57 F.R. 57645; Ex. Ord. No. 13028, Dec. 3, 1996, 61 F.R. 64589; Ex. Ord. No. 13131, July 22, 1999, 64 F.R. 40733, which related to implementation of the Enterprise for the Americas Initiative and the Tropical Forest Conservation Act of 1998, was revoked by Ex. Ord. No. 13345, § 6(a), July 8, 2004, 69 F.R. 41903, set out below.
+Ex. Ord. No. 12757, Mar. 19, 1991, 56 F.R. 12107, as amended by Ex. Ord. No. 12823, Dec. 3, 1992, 57 F.R. 57645; Ex. Ord. No. 13028, Dec. 3, 1996, 61 F.R. 64589; Ex. Ord. No. 13131, July 22, 1999, 64 F.R. 40733, which related to implementation of the Enterprise for the Americas Initiative and the Tropical Forest Conservation Act of 1998, was revoked by Ex. Ord. No. 13345, § 6(a), July 8, 2004, 69 F.R. 41903, set out below.
 
 **Ex. Ord. No. 13345. Assigning Foreign Affairs Functions and Implementing the Enterprise for the Americas Initiative and the Tropical Forest Conservation Act**
 
@@ -5457,13 +5457,13 @@ Sec. 7. *Judicial Review*. This order is not intended to, and does not, create a
 
 George W. Bush.
 
-### § 1738a. Purpose
+### § 1738a. Purpose
 
 The purpose of this subchapter is to encourage and support improvement in the lives of the people of Latin America and the Caribbean through market-oriented reforms and economic growth with inter-related actions to promote debt reduction, investment reforms, and community-based conservation and sustainable use of the environment. The Facility will support such objectives through the administration of debt reduction operations relating to those countries that meet investment reform and other policy conditions provided for in this subchapter.
 
-(July 10, 1954, ch. 469, title VI, § 602, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3658.)
+(July 10, 1954, ch. 469, title VI, § 602, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3658.)
 
-### § 1738b. Eligibility for benefits under Facility
+### § 1738b. Eligibility for benefits under Facility
 
 **(a) Requirements** To be eligible for benefits from the Facility under this subchapter, a country shall—
 
@@ -5483,7 +5483,7 @@ The purpose of this subchapter is to encourage and support improvement in the li
 
 The President shall determine whether a country is an eligible country for purposes of subsection (a).
 
-(July 10, 1954, ch. 469, title VI, § 603, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3658; amended Pub. L. 102–237, title III, § 302, Dec. 13, 1991, 105 Stat. 1855.)
+(July 10, 1954, ch. 469, title VI, § 603, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3658; amended Pub. L. 102–237, title III, § 302, Dec. 13, 1991, 105 Stat. 1855.)
 
 **Editorial Notes**
 
@@ -5497,7 +5497,7 @@ The President shall determine whether a country is an eligible country for purpo
 
 For delegation of functions of President under subsec. (b) of this section, see section 1 of Ex. Ord. No. 13345, July 8, 2004, 69 F.R. 41901, set out as a note under section 1738 of this title.
 
-### § 1738c. Reduction of certain debt
+### § 1738c. Reduction of certain debt
 
 **(a) Authority to reduce debt**
 
@@ -5517,7 +5517,7 @@ A debt reduction authorized under subsection (a) shall be accomplished, at the d
 
 The Facility shall notify the Commodity Credit Corporation of an agreement entered into under subsection (b) with an eligible country to exchange a new obligation for outstanding obligations. At the direction of the Facility, the old obligations that are the subject of the agreement may be canceled and a new debt obligation may be established for the country relating to the agreement. The Commodity Credit Corporation shall make an adjustment in its accounts to reflect a debt reduction under this section.
 
-(July 10, 1954, ch. 469, title VI, § 604, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3658; amended Pub. L. 102–237, title III, § 303, Dec. 13, 1991, 105 Stat. 1855.)
+(July 10, 1954, ch. 469, title VI, § 604, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3658; amended Pub. L. 102–237, title III, § 303, Dec. 13, 1991, 105 Stat. 1855.)
 
 **Editorial Notes**
 
@@ -5531,7 +5531,7 @@ The Facility shall notify the Commodity Credit Corporation of an agreement enter
 
 For delegation of functions of President under subsec. (a) of this section, see section 1 of Ex. Ord. No. 13345, July 8, 2004, 69 F.R. 41901, set out as a note under section 1738 of this title.
 
-### § 1738d. Repayment of principal
+### § 1738d. Repayment of principal
 
 **(a) Currency of payment**
 
@@ -5541,9 +5541,9 @@ The principal amount owed under each new obligation issued under section 1738c o
 
 Principal repayments on new obligations issued under section 1738c of this title shall be deposited in Commodity Credit Corporation accounts.
 
-(July 10, 1954, ch. 469, title VI, § 605, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3659.)
+(July 10, 1954, ch. 469, title VI, § 605, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3659.)
 
-### § 1738e. Interest of new obligations
+### § 1738e. Interest of new obligations
 
 **(a) Rate of interest**
 
@@ -5563,7 +5563,7 @@ If an eligible country to which a new obligation has been issued under section 1
 
 If an eligible country to which a new obligation has been issued under section 1738c of this title enters into an agreement under section 1738f of this title subsequent to the date on which interest first becomes due on such new obligation, any interest paid on such new obligation prior to such agreement being entered into shall not be redeposited into the Fund established for the eligible country under section 1738g(a) of this title but shall be deposited into Commodity Credit Corporation accounts.
 
-(July 10, 1954, ch. 469, title VI, § 606, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3659; amended Pub. L. 102–237, title III, § 304, Dec. 13, 1991, 105 Stat. 1855.)
+(July 10, 1954, ch. 469, title VI, § 606, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3659; amended Pub. L. 102–237, title III, § 304, Dec. 13, 1991, 105 Stat. 1855.)
 
 **Editorial Notes**
 
@@ -5571,7 +5571,7 @@ If an eligible country to which a new obligation has been issued under section 1
 
 1991—Subsec. (c). Pub. L. 102–237 inserted “accounts” after “Corporation”.
 
-### § 1738f. Environmental framework agreements
+### § 1738f. Environmental framework agreements
 
 **(a) Authority**
 
@@ -5615,7 +5615,7 @@ the majority of which shall be local representatives from nongovernmental organi
 
 **(7)** have any grant over $100,000 be subject to veto by the United States and the government of the eligible country.
 
-(July 10, 1954, ch. 469, title VI, § 607, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3659; amended Pub. L. 102–237, title III, § 305, Dec. 13, 1991, 105 Stat. 1855.)
+(July 10, 1954, ch. 469, title VI, § 607, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3659; amended Pub. L. 102–237, title III, § 305, Dec. 13, 1991, 105 Stat. 1855.)
 
 **Editorial Notes**
 
@@ -5629,7 +5629,7 @@ the majority of which shall be local representatives from nongovernmental organi
 
 For delegation of functions of President under this section, see section 2 of Ex. Ord. No. 13345, July 8, 2004, 69 F.R. 41901, set out as a note under section 1738 of this title.
 
-### § 1738g. Enterprise for the Americas environmental funds
+### § 1738g. Enterprise for the Americas environmental funds
 
 **(a) Establishment**
 
@@ -5639,15 +5639,15 @@ An eligible country shall, under the terms of an environmental framework agreeme
 
 Amounts deposited into an Environmental Fund shall be invested until disbursed. Notwithstanding any other provision of law, any return on such investment may be retained by the Environmental Fund and need not be deposited to the account of the Commodity Credit Corporation and may be retained without further appropriation by Congress.
 
-(July 10, 1954, ch. 469, title VI, § 608, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3660.)
+(July 10, 1954, ch. 469, title VI, § 608, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3660.)
 
-### § 1738h. Disbursement of environmental funds
+### § 1738h. Disbursement of environmental funds
 
 Funds in an Environmental Fund shall be disbursed only pursuant to a framework agreement entered into pursuant to section 1738f of this title.
 
-(July 10, 1954, ch. 469, title VI, § 609, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3661.)
+(July 10, 1954, ch. 469, title VI, § 609, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3661.)
 
-### § 1738i. Enterprise for the Americas Board
+### § 1738i. Enterprise for the Americas Board
 
 **(a) Establishment**
 
@@ -5675,27 +5675,27 @@ The Board shall be headed by a chairperson who shall be appointed by the Preside
 
 **(3)** review the programs, operations, and fiscal audits of the bodies referred to in section 1738f(c) of this title.
 
-(July 10, 1954, ch. 469, title VI, § 610, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3661; amended Pub. L. 102–237, title III, § 339, Dec. 13, 1991, 105 Stat. 1861; Pub. L. 102–549, title VI, § 603, Oct. 28, 1992, 106 Stat. 3669.)
+(July 10, 1954, ch. 469, title VI, § 610, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3661; amended Pub. L. 102–237, title III, § 339, Dec. 13, 1991, 105 Stat. 1861; Pub. L. 102–549, title VI, § 603, Oct. 28, 1992, 106 Stat. 3669.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Pub. L. 102–549, § 603(1), substituted “Enterprise” for “Environment” in section catchline.
+1992—Pub. L. 102–549, § 603(1), substituted “Enterprise” for “Environment” in section catchline.
 
-Subsec. (a). Pub. L. 102–549, § 603(2), substituted “Enterprise” for “Environment”.
+Subsec. (a). Pub. L. 102–549, § 603(2), substituted “Enterprise” for “Environment”.
 
-Subsec. (b)(1)(B). Pub. L. 102–549, § 603(3), inserted “child survival and child development,” after “environmental,” and “, at least one of whom shall be a representative from a child survival and child development organization”.
+Subsec. (b)(1)(B). Pub. L. 102–549, § 603(3), inserted “child survival and child development,” after “environmental,” and “, at least one of whom shall be a representative from a child survival and child development organization”.
 
-1991—Subsec. (b)(1)(A). Pub. L. 102–237, § 339(1), substituted “six” for “five” and inserted “, at least one of whom shall be a representative of the Department of Agriculture” after “Government”.
+1991—Subsec. (b)(1)(A). Pub. L. 102–237, § 339(1), substituted “six” for “five” and inserted “, at least one of whom shall be a representative of the Department of Agriculture” after “Government”.
 
-Subsec. (b)(1)(B). Pub. L. 102–237, § 339(2), substituted “five” for “four”.
+Subsec. (b)(1)(B). Pub. L. 102–237, § 339(2), substituted “five” for “four”.
 
-### § 1738j. Oversight
+### § 1738j. Oversight
 
 The President may designate appropriate United States agencies to review the implementation of programs under this subchapter and the fiscal audits relating to such programs. Such oversight shall not constitute active management of an Environmental Fund.
 
-(July 10, 1954, ch. 469, title VI, § 611, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3661.)
+(July 10, 1954, ch. 469, title VI, § 611, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3661.)
 
 **Executive Documents**
 
@@ -5703,7 +5703,7 @@ The President may designate appropriate United States agencies to review the imp
 
 For delegation of functions of President under this section, see section 1 of Ex. Ord. No. 13345, July 8, 2004, 69 F.R. 41901, set out as a note under section 1738 of this title.
 
-### § 1738k. Eligible activities and grantees
+### § 1738k. Eligible activities and grantees
 
 **(a) Eligible entities** Activities eligible to receive assistance through the framework agreements entered into under section 1738f of this title, shall include—
 
@@ -5733,19 +5733,19 @@ Appropriate activities and priorities relating to the use of an Environmental Fu
 
 In providing assistance from an Environmental Fund, the body established under section 1738f(c) of this title within the eligible country shall give priority to projects that are run by nongovernmental organizations and other private entities, and that involve local communities in their planning and execution.
 
-(July 10, 1954, ch. 469, title VI, § 612, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3661; amended Pub. L. 102–237, title III, § 306, Dec. 13, 1991, 105 Stat. 1856.)
+(July 10, 1954, ch. 469, title VI, § 612, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3661; amended Pub. L. 102–237, title III, § 306, Dec. 13, 1991, 105 Stat. 1856.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Global Environmental Protection Assistance Act of 1989, referred to in subsec. (a)(1), is title VII of Pub. L. 101–240, Dec. 19, 1989, 103 Stat. 2521, which is classified generally to part VII (§ 2281 et seq.) of subchapter I of chapter 32 and chapter 86 (§ 7901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title of 1989 Amendments note set out under section 2151 of Title 22 and Tables.
+The Global Environmental Protection Assistance Act of 1989, referred to in subsec. (a)(1), is title VII of Pub. L. 101–240, Dec. 19, 1989, 103 Stat. 2521, which is classified generally to part VII (§ 2281 et seq.) of subchapter I of chapter 32 and chapter 86 (§ 7901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title of 1989 Amendments note set out under section 2151 of Title 22 and Tables.
 
 **Amendments**
 
 1991—Subsec. (a)(1). Pub. L. 102–237 substituted “2281 et seq.);” for “462), and—”.
 
-### § 1738l. Encouraging multilateral debt donations
+### § 1738l. Encouraging multilateral debt donations
 
 **(a) Encouraging donations from official creditors**
 
@@ -5755,29 +5755,29 @@ The President should actively encourage other official creditors of an eligible 
 
 The President shall make every effort to insure that programs established through Environmental Funds are able to receive donations from private and public entities, and private creditors of the eligible country.
 
-(July 10, 1954, ch. 469, title VI, § 613, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3662.)
+(July 10, 1954, ch. 469, title VI, § 613, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3662.)
 
-### § 1738m. Annual report to Congress
+### § 1738m. Annual report to Congress
 
 **(a) In general** Not later than December 31 of each fiscal year, the President shall prepare and submit to the Speaker of the House of Representatives and the President Pro Tempore of the Senate an annual report concerning the operation of the Facility for the prior fiscal year. This report shall include—
 
 **(1)** a description of the activities undertaken by the Facility during the previous fiscal year;
 
-**(2)** a description of any Enviromental 1
+**(2)** a description of any Enviromental 1
 
-<sup>1</sup>  So in original. Probably should be “Environmental”.
+<sup>1</sup> So in original. Probably should be “Environmental”.
 
 Framework Agreement entered into under this subchapter;
 
 **(3)** a report on what Environmental Funds have been established under this subchapter and on the operations of such Funds; and
 
-**(4)** a description of any grants that have been extended by administering bodies pursuant to an Enviromental <sup>1</sup> Framework Agreement under this subchapter.
+**(4)** a description of any grants that have been extended by administering bodies pursuant to an Enviromental <sup>1</sup> Framework Agreement under this subchapter.
 
 **(b) Supplemental views in annual report**
 
 No later than December 15 of each fiscal year, each member of the Board shall be entitled to receive a copy of the report required under subsection (a). Each member of the Board may prepare and submit supplemental views to the President on the implementation of this subchapter by December 31 for inclusion in the annual report when it is transmitted to Congress pursuant to this section.
 
-(July 10, 1954, ch. 469, title VI, § 614, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3662; as amended Pub. L. 102–237, title III, § 330, Dec. 13, 1991, 105 Stat. 1858; Pub. L. 102–532, § 3, Oct. 27, 1992, 106 Stat. 3512.)
+(July 10, 1954, ch. 469, title VI, § 614, as added Pub. L. 101–624, title XV, § 1512, Nov. 28, 1990, 104 Stat. 3662; as amended Pub. L. 102–237, title III, § 330, Dec. 13, 1991, 105 Stat. 1858; Pub. L. 102–532, § 3, Oct. 27, 1992, 106 Stat. 3512.)
 
 **Editorial Notes**
 
@@ -5791,7 +5791,7 @@ No later than December 15 of each fiscal year, each member of the Board shall be
 
 **Termination of Reporting Requirements**
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under this section are listed on page 20), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402(1)] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under this section are listed on page 20), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402(1)] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
 
 **Executive Documents**
 
@@ -5799,13 +5799,13 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 For delegation of functions of President under this section, see section 2 of Ex. Ord. No. 13345, July 8, 2004, 69 F.R. 41901, set out as a note under section 1738 of this title.
 
-### § 1738n. Consultations with Congress
+### § 1738n. Consultations with Congress
 
 The President shall consult with the appropriate congressional committees on a periodic basis to review the operation of the Facility under this subchapter and the eligibility of countries for benefits from the Facility under this subchapter.
 
-(July 10, 1954, ch. 469, title VI, § 615, as added Pub. L. 102–237, title III, § 331, Dec. 13, 1991, 105 Stat. 1858.)
+(July 10, 1954, ch. 469, title VI, § 615, as added Pub. L. 102–237, title III, § 331, Dec. 13, 1991, 105 Stat. 1858.)
 
-### § 1738o. Sale of qualified debt to eligible countries
+### § 1738o. Sale of qualified debt to eligible countries
 
 **(a) In general**
 
@@ -5849,9 +5849,9 @@ The proceeds from a sale of qualified debt under this section shall be deposited
 
 Before any sale of qualified debt may occur under this section, the President should consult with the eligible country’s government concerning such sale. The topics addressed in the consultation shall include the amount of qualified debt involved in the transaction and the uses to which funds made available as a result of the sale shall be applied.
 
-(July 10, 1954, ch. 469, title VI, § 616, as added Pub. L. 102–532, § 2, Oct. 27, 1992, 106 Stat. 3509.)
+(July 10, 1954, ch. 469, title VI, § 616, as added Pub. L. 102–532, § 2, Oct. 27, 1992, 106 Stat. 3509.)
 
-### § 1738p. Sale, reduction, or cancellation of qualified debt to facilitate certain debt swaps
+### § 1738p. Sale, reduction, or cancellation of qualified debt to facilitate certain debt swaps
 
 **(a) Authority to sell, reduce, or cancel qualified debt** For the purpose of facilitating eligible debt swaps, the President, in accordance with this section—
 
@@ -5903,9 +5903,9 @@ The proceeds from the sale, reduction, or cancellation of qualified debt pursuan
 
 As used in this section, the term “eligible debt swap” means a debt-for-development swap or debt-for-nature swap.
 
-(July 10, 1954, ch. 469, title VI, § 617, as added Pub. L. 102–532, § 2, Oct. 27, 1992, 106 Stat. 3510.)
+(July 10, 1954, ch. 469, title VI, § 617, as added Pub. L. 102–532, § 2, Oct. 27, 1992, 106 Stat. 3510.)
 
-### § 1738q. Notification to congressional committees
+### § 1738q. Notification to congressional committees
 
 **(a) Notice of negotiations**
 
@@ -5923,13 +5923,13 @@ The Secretary of State or the Secretary of the Treasury, as appropriate, shall s
 
 As used in this section, the term “designated congressional committees” means the Committee on Agriculture and the Committee on Foreign Affairs of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
-(July 10, 1954, ch. 469, title VI, § 618, as added Pub. L. 102–532, § 2, Oct. 27, 1992, 106 Stat. 3511.)
+(July 10, 1954, ch. 469, title VI, § 618, as added Pub. L. 102–532, § 2, Oct. 27, 1992, 106 Stat. 3511.)
 
-### § 1738r. “Qualified debt” defined
+### § 1738r. “Qualified debt” defined
 
-As used in sections 1738*o*, 1738p, and 1738q of this title, the term “qualified debt” means any obligation, or portion of such obligation, of an eligible country to pay for purchases of United States agricultural commodities guaranteed by the Commodity Credit Corporation under export credit guarantee programs authorized pursuant to section 714c(f) of title 15 or section 1707a(b) 1
+As used in sections 1738*o*, 1738p, and 1738q of this title, the term “qualified debt” means any obligation, or portion of such obligation, of an eligible country to pay for purchases of United States agricultural commodities guaranteed by the Commodity Credit Corporation under export credit guarantee programs authorized pursuant to section 714c(f) of title 15 or section 1707a(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title—
 
@@ -5939,10 +5939,10 @@ of this title—
 
 Such term includes the obligation to pay any interest which was due or accrued not later than September 1, 1992, and unpaid as of the date of a debt sale pursuant to section 1738*o* of this title or a debt sale, reduction, or cancellation pursuant to section 1738p of this title (as the case may be).
 
-(July 10, 1954, ch. 469, title VI, § 619, as added Pub. L. 102–532, § 2, Oct. 27, 1992, 106 Stat. 3511.)
+(July 10, 1954, ch. 469, title VI, § 619, as added Pub. L. 102–532, § 2, Oct. 27, 1992, 106 Stat. 3511.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1707a of this title, referred to in text, was repealed by Pub. L. 101–624, title XV, § 1574, Nov. 28, 1990, 104 Stat. 3702. See section 5621 et seq. of this title.
+Section 1707a of this title, referred to in text, was repealed by Pub. L. 101–624, title XV, § 1574, Nov. 28, 1990, 104 Stat. 3702. See section 5621 et seq. of this title.

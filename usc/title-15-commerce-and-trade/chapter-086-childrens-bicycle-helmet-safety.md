@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 86—CHILDREN’S BICYCLE HELMET SAFETY
 
-## § 6001. Establishment of program
+## § 6001. Establishment of program
 
 **(a) In general**
 
@@ -25,15 +25,15 @@ The Administrator of the National Highway Traffic Safety Administration may, in 
 
 The amount provided by a grant under this section shall not exceed 80 percent of the cost of the program for which the grant is made. In crediting the recipient State, political subdivision, or nonprofit organization for the non-Federal share of the cost of such a program (other than planning and administration), the aggregate of all expenditures made by such State, political subdivision, or nonprofit organization (exclusive of Federal funds) for the purposes described in section 6002 of this title (other than expenditures for planning and administration) shall be available for such crediting, without regard to whether such expenditures were actually made in connection with such program.
 
-(Pub. L. 103–267, title II, § 202, June 16, 1994, 108 Stat. 726.)
+(Pub. L. 103–267, title II, § 202, June 16, 1994, 108 Stat. 726.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 103–267, title II, § 201, June 16, 1994, 108 Stat. 726, provided that: “This title [enacting this chapter] may be cited as the ‘Children’s Bicycle Helmet Safety Act of 1994’.”
+Pub. L. 103–267, title II, § 201, June 16, 1994, 108 Stat. 726, provided that: “This title [enacting this chapter] may be cited as the ‘Children’s Bicycle Helmet Safety Act of 1994’.”
 
-## § 6002. Purposes for grants
+## § 6002. Purposes for grants
 
 A grant made under section 6001 of this title may be used by a grantee to—
 
@@ -47,15 +47,15 @@ A grant made under section 6001 of this title may be used by a grantee to—
 
 The Administrator shall review grant applications for compliance with this section prior to awarding grants.
 
-(Pub. L. 103–267, title II, § 203, June 16, 1994, 108 Stat. 727.)
+(Pub. L. 103–267, title II, § 203, June 16, 1994, 108 Stat. 727.)
 
-## § 6003. Report to Congress
+## § 6003. Report to Congress
 
 Not later than May 1, 1997, the Administrator of the National Highway Traffic Safety Administration shall report to Congress on the effectiveness of the grant program established by section 6001 of this title. The report shall include a list of grant recipients, a summary of the types of programs implemented by the grantees, and any recommendation by the Administrator regarding how the program should be changed in the future.
 
-(Pub. L. 103–267, title II, § 204, June 16, 1994, 108 Stat. 727.)
+(Pub. L. 103–267, title II, § 204, June 16, 1994, 108 Stat. 727.)
 
-## § 6004. Standards
+## § 6004. Standards
 
 **(a) In general** Bicycle helmets manufactured 9 months or more after June 16, 1994, shall conform to—
 
@@ -83,9 +83,9 @@ Not later than May 1, 1997, the Administrator of the National Highway Traffic Sa
 
 **(4)** include additional provisions as appropriate.
 
-Sections 7, 9, and 30(d) 1
+Sections 7, 9, and 30(d) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Consumer Product Safety Act (15 U.S.C. 2056, 2058, 2079(d)) shall not apply to the proceeding under this subsection and section 11 of such Act (15 U.S.C. 2060) shall not apply with respect to any standard issued under such proceeding. The final standard shall take effect 1 year from the date it is issued.
 
@@ -99,23 +99,23 @@ Until the final standard takes effect, a bicycle helmet that does not conform to
 
 The final standard developed under subsection (c) shall be considered a consumer product safety standard promulgated under the Consumer Product Safety Act.
 
-(Pub. L. 103–267, title II, § 205, June 16, 1994, 108 Stat. 727.)
+(Pub. L. 103–267, title II, § 205, June 16, 1994, 108 Stat. 727.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 30(d) of the Consumer Product Safety Act, referred to in subsec. (c), was classified to section 2079(d) of this title prior to repeal by Pub. L. 110–314, title II, § 237, Aug. 14, 2008, 122 Stat. 3076.
+Section 30(d) of the Consumer Product Safety Act, referred to in subsec. (c), was classified to section 2079(d) of this title prior to repeal by Pub. L. 110–314, title II, § 237, Aug. 14, 2008, 122 Stat. 3076.
 
-The Consumer Product Safety Act, referred to in subsec. (d), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to chapter 47 (§ 2051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
+The Consumer Product Safety Act, referred to in subsec. (d), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to chapter 47 (§ 2051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
 
-## § 6005. Authorization of appropriations
+## § 6005. Authorization of appropriations
 
 For the National Highway Traffic Safety Administration to carry out the grant program authorized by this chapter, there are authorized to be appropriated $2,000,000 for fiscal year 1995, $3,000,000 for fiscal year 1996, and $4,000,000 for fiscal year 1997.
 
-(Pub. L. 103–267, title II, § 206, June 16, 1994, 108 Stat. 728.)
+(Pub. L. 103–267, title II, § 206, June 16, 1994, 108 Stat. 728.)
 
-## § 6006. “Approved bicycle helmet” defined
+## § 6006. “Approved bicycle helmet” defined
 
 In this chapter, the term “approved bicycle helmet” means a bicycle helmet that meets—
 
@@ -123,4 +123,4 @@ In this chapter, the term “approved bicycle helmet” means a bicycle helmet t
 
 **(2)** the final standard, once it is established under section 6004(c) of this title.
 
-(Pub. L. 103–267, title II, § 207, June 16, 1994, 108 Stat. 728.)
+(Pub. L. 103–267, title II, § 207, June 16, 1994, 108 Stat. 728.)

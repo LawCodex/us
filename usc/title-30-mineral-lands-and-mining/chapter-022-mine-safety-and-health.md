@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 22—MINE SAFETY AND HEALTH
 
-## § 801. Congressional findings and declaration of purpose
+## § 801. Congressional findings and declaration of purpose
 
 Congress declares that—
 
@@ -33,7 +33,7 @@ Congress declares that—
 
 **(g)** it is the purpose of this chapter (1) to establish interim mandatory health and safety standards and to direct the Secretary of Health and Human Services and the Secretary of Labor to develop and promulgate improved mandatory health or safety standards to protect the health and safety of the Nation’s coal or other miners; (2) to require that each operator of a coal or other mine and every miner in such mine comply with such standards; (3) to cooperate with, and provide assistance to, the States in the development and enforcement of effective State coal or other mine health and safety programs; and (4) to improve and expand, in cooperation with the States and the coal or other mining industry, research and development and training programs aimed at preventing coal or other mine accidents and occupationally caused diseases in the industry.
 
-(Pub. L. 91–173, § 2, Dec. 30, 1969, 83 Stat. 742; Pub. L. 95–164, title I, § 102(a), Nov. 9, 1977, 91 Stat. 1290; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 91–173, § 2, Dec. 30, 1969, 83 Stat. 742; Pub. L. 95–164, title I, § 102(a), Nov. 9, 1977, 91 Stat. 1290; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Editorial Notes**
 
@@ -43,9 +43,9 @@ This chapter, referred to in par. (g), was in the original “this Act”, meani
 
 **Amendments**
 
-1977—Pars. (a) to (d), (f). Pub. L. 95–164, § 102(a)(1), inserted “or other” after “coal” wherever appearing.
+1977—Pars. (a) to (d), (f). Pub. L. 95–164, § 102(a)(1), inserted “or other” after “coal” wherever appearing.
 
-Par. (g). Pub. L. 95–164, § 102(a)(1), (2), inserted “or other” after “coal” wherever appearing and substituted “Secretary of Labor” for “Secretary of the Interior”.
+Par. (g). Pub. L. 95–164, § 102(a)(1), (2), inserted “or other” after “coal” wherever appearing and substituted “Secretary of Labor” for “Secretary of the Interior”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -55,49 +55,49 @@ Par. (g). Pub. L. 95–164, § 102(a)(1), (2), inserted “or other” after �
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–164, title III, § 307, Nov. 9, 1977, 91 Stat. 1322, provided that: “Except as otherwise provided, this Act and the amendments made by this Act [see Short Title of 1977 Amendment note below] shall take effect 120 days after the date of enactment of this Act [Nov. 9, 1977]. The Secretary of Labor and the Secretary of the Interior are authorized to establish such rules and regulations as may be necessary for the efficient transfer of functions provided under this Act. The amendment to the Federal Coal Mine Health and Safety Act of 1969 made by section 202 of this Act [amending section 842(e) of this title and repealing subsec. (k) of section 878 of this title] shall be effective on the date of enactment [Nov. 9, 1977].”
+Pub. L. 95–164, title III, § 307, Nov. 9, 1977, 91 Stat. 1322, provided that: “Except as otherwise provided, this Act and the amendments made by this Act [see Short Title of 1977 Amendment note below] shall take effect 120 days after the date of enactment of this Act [Nov. 9, 1977]. The Secretary of Labor and the Secretary of the Interior are authorized to establish such rules and regulations as may be necessary for the efficient transfer of functions provided under this Act. The amendment to the Federal Coal Mine Health and Safety Act of 1969 made by section 202 of this Act [amending section 842(e) of this title and repealing subsec. (k) of section 878 of this title] shall be effective on the date of enactment [Nov. 9, 1977].”
 
 **Effective Date**
 
-Pub. L. 91–173, title V, § 509, Dec. 30, 1969, 83 Stat. 803, provided that: “Except to the extent an earlier date is specifically provided in this Act [see Short Title note below], the provisions of titles I and III of this Act [subchapters I and III of this chapter] shall become operative ninety days after the date of enactment of this Act [Dec. 30, 1969], and the provisions of title II of this Act [subchapter II of this chapter] shall become operative six months after the date of enactment of this Act. The provisions of the Federal Coal Mine Safety Act, as amended [section 451 et seq. of this title], are repealed on the operative date of titles I and III of this Act except that such provisions shall continue to apply to any order, notice, decision, or finding issued under that Act prior to such operative date and to any proceedings related to such order, notice, decision or findings. All other provisions of this Act, shall be effective on the date of enactment of this Act [Dec. 30, 1969].”
+Pub. L. 91–173, title V, § 509, Dec. 30, 1969, 83 Stat. 803, provided that: “Except to the extent an earlier date is specifically provided in this Act [see Short Title note below], the provisions of titles I and III of this Act [subchapters I and III of this chapter] shall become operative ninety days after the date of enactment of this Act [Dec. 30, 1969], and the provisions of title II of this Act [subchapter II of this chapter] shall become operative six months after the date of enactment of this Act. The provisions of the Federal Coal Mine Safety Act, as amended [section 451 et seq. of this title], are repealed on the operative date of titles I and III of this Act except that such provisions shall continue to apply to any order, notice, decision, or finding issued under that Act prior to such operative date and to any proceedings related to such order, notice, decision or findings. All other provisions of this Act, shall be effective on the date of enactment of this Act [Dec. 30, 1969].”
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–236, § 1, June 15, 2006, 120 Stat. 493, provided that: “This Act [enacting sections 826 and 963 to 965 of this title, amending sections 813, 818, 820, 825, and 876 of this title and section 671 of Title 29, Labor, and enacting provisions set out as notes under this section and sections 811 and 820 of this title] may be cited as the ‘Mine Improvement and New Emergency Response Act of 2006’ or the ‘MINER Act’.”
+Pub. L. 109–236, § 1, June 15, 2006, 120 Stat. 493, provided that: “This Act [enacting sections 826 and 963 to 965 of this title, amending sections 813, 818, 820, 825, and 876 of this title and section 671 of Title 29, Labor, and enacting provisions set out as notes under this section and sections 811 and 820 of this title] may be cited as the ‘Mine Improvement and New Emergency Response Act of 2006’ or the ‘MINER Act’.”
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–275, § 1, Nov. 2, 2002, 116 Stat. 1925, provided that: “This Act [amending sections 902, 921 to 924, 925, 932a, and 936 of this title, repealing sections 904, 924a, and 945 of this title, and enacting provisions set out as notes under sections 902 and 921 of this title] may be cited as the ‘Black Lung Consolidation of Administrative Responsibility Act’.”
+Pub. L. 107–275, § 1, Nov. 2, 2002, 116 Stat. 1925, provided that: “This Act [amending sections 902, 921 to 924, 925, 932a, and 936 of this title, repealing sections 904, 924a, and 945 of this title, and enacting provisions set out as notes under sections 902 and 921 of this title] may be cited as the ‘Black Lung Consolidation of Administrative Responsibility Act’.”
 
 **Short Title of 1981 Amendment**
 
-Pub. L. 97–119, title II, § 201(a), Dec. 29, 1981, 95 Stat. 1643, provided that: “This title [amending sections 901, 902, 921 to 923, 932, and 940 of this title and enacting provisions set out as notes under section 901 of this title] may be cited as the ‘Black Lung Benefits Amendments of 1981’.”
+Pub. L. 97–119, title II, § 201(a), Dec. 29, 1981, 95 Stat. 1643, provided that: “This title [amending sections 901, 902, 921 to 923, 932, and 940 of this title and enacting provisions set out as notes under section 901 of this title] may be cited as the ‘Black Lung Benefits Amendments of 1981’.”
 
 **Short Title of 1978 Amendment**
 
-Pub. L. 95–239, § 1, Mar. 1, 1978, 92 Stat. 95, provided that: “This Act [enacting sections 903, 904, 924a, and 942 to 945 of this title, amending sections 901, 902, 921 to 924, 931, 932, 933, 937, 940, and 941 of this title, and enacting provisions set out as notes under sections 901, 932a, and 934a of this title, section 4121 of Title 26, Internal Revenue Code, and section 675 of Title 29, Labor] may be cited as the ‘Black Lung Benefits Reform Act of 1977’.”
+Pub. L. 95–239, § 1, Mar. 1, 1978, 92 Stat. 95, provided that: “This Act [enacting sections 903, 904, 924a, and 942 to 945 of this title, amending sections 901, 902, 921 to 924, 931, 932, 933, 937, 940, and 941 of this title, and enacting provisions set out as notes under sections 901, 932a, and 934a of this title, section 4121 of Title 26, Internal Revenue Code, and section 675 of Title 29, Labor] may be cited as the ‘Black Lung Benefits Reform Act of 1977’.”
 
 **Short Title of 1977 Amendment**
 
-Pub. L. 95–164, § 1, Nov. 9, 1977, 91 Stat. 1290, provided: “That this Act [enacting sections 822 to 825 and 961 of this title and section 557a of Title 29, Labor, amending this section, sections 802 to 804, 811 to 821, 842, 861, 878, 951 to 955, 958, and 959 of this title, and sections 5314 and 5315 of Title 5, Government Organization and Employees, repealing sections 721 to 740 of this title and section 1456a of Title 43, Public Lands, and enacting provisions set out as notes under this section, section 954 of this title and section 11 of former Title 31, Money and Finance] may be cited as the ‘Federal Mine Safety and Health Amendments Act of 1977’.”
+Pub. L. 95–164, § 1, Nov. 9, 1977, 91 Stat. 1290, provided: “That this Act [enacting sections 822 to 825 and 961 of this title and section 557a of Title 29, Labor, amending this section, sections 802 to 804, 811 to 821, 842, 861, 878, 951 to 955, 958, and 959 of this title, and sections 5314 and 5315 of Title 5, Government Organization and Employees, repealing sections 721 to 740 of this title and section 1456a of Title 43, Public Lands, and enacting provisions set out as notes under this section, section 954 of this title and section 11 of former Title 31, Money and Finance] may be cited as the ‘Federal Mine Safety and Health Amendments Act of 1977’.”
 
 **Short Title of 1972 Amendment**
 
-Pub. L. 92–303, § 1(a), May 19, 1972, 86 Stat. 150, provided: “That this Act [enacting sections 925 and 937 to 941 of this title, amending sections 901, 902, 921 to 924, 931, 932, 933, 934, and 936 of this title, and enacting provisions set out as notes under sections 921 to 923 of this title] may be cited as the ‘Black Lung Benefits Act of 1972’.”
+Pub. L. 92–303, § 1(a), May 19, 1972, 86 Stat. 150, provided: “That this Act [enacting sections 925 and 937 to 941 of this title, amending sections 901, 902, 921 to 924, 931, 932, 933, 934, and 936 of this title, and enacting provisions set out as notes under sections 921 to 923 of this title] may be cited as the ‘Black Lung Benefits Act of 1972’.”
 
 **Short Title**
 
-Pub. L. 91–173, § 1, Dec. 30, 1969, 83 Stat. 742, as amended by Pub. L. 95–164, title I, § 101, Nov. 9, 1977, 91 Stat. 1290, provided: “That this Act [which was known as the Federal Coal Mine Health and Safety Act of 1969 prior to the amendment by Pub. L. 95–164 and which enacted this chapter, amended sections 633 and 636 of Title 15, Commerce and Trade, repealed sections 451 to 460 and 471 to 483 of this title, and enacted provisions set out as notes under this section and section 636 of Title 15] may be cited as the ‘Federal Mine Safety and Health Act of 1977’.”
+Pub. L. 91–173, § 1, Dec. 30, 1969, 83 Stat. 742, as amended by Pub. L. 95–164, title I, § 101, Nov. 9, 1977, 91 Stat. 1290, provided: “That this Act [which was known as the Federal Coal Mine Health and Safety Act of 1969 prior to the amendment by Pub. L. 95–164 and which enacted this chapter, amended sections 633 and 636 of Title 15, Commerce and Trade, repealed sections 451 to 460 and 471 to 483 of this title, and enacted provisions set out as notes under this section and section 636 of Title 15] may be cited as the ‘Federal Mine Safety and Health Act of 1977’.”
 
 For short title of subchapter IV of this chapter as the “Black Lung Benefits Act”, see section 901(b) of this title.
 
 **Separability**
 
-Pub. L. 91–173, title V, § 510, Dec. 30, 1969, 83 Stat. 803, provided that: “If any provision of this Act [see Short Title note set out above], or the application of such provision to any person or circumstance shall be held invalid, the remainder of this Act, or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
+Pub. L. 91–173, title V, § 510, Dec. 30, 1969, 83 Stat. 803, provided that: “If any provision of this Act [see Short Title note set out above], or the application of such provision to any person or circumstance shall be held invalid, the remainder of this Act, or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
 
 **Requirement Concerning Family Liaisons**
 
-Pub. L. 109–236, § 7, June 15, 2006, 120 Stat. 500, provided that:
+Pub. L. 109–236, § 7, June 15, 2006, 120 Stat. 500, provided that:
 
 > “The Secretary of Labor shall establish a policy that—
 
@@ -107,7 +107,7 @@ Pub. L. 109–236, § 7, June 15, 2006, 120 Stat. 500, provided that:
 
 > **“(3)** requires that in such accidents, that the Mine Safety and Health Administration shall serve as the primary communicator with the operator, miners’ families, the press and the public.”
 
-## § 802. Definitions
+## § 802. Definitions
 
 For the purpose of this chapter, the term—
 
@@ -145,7 +145,7 @@ For the purpose of this chapter, the term—
 
 **(o)** “Commission” means the Federal Mine Safety and Health Review Commission.
 
-(Pub. L. 91–173, § 3, Dec. 30, 1969, 83 Stat. 743; Pub. L. 95–164, title I, § 102(b), Nov. 9, 1977, 91 Stat. 1290.)
+(Pub. L. 91–173, § 3, Dec. 30, 1969, 83 Stat. 743; Pub. L. 95–164, title I, § 102(b), Nov. 9, 1977, 91 Stat. 1290.)
 
 **Editorial Notes**
 
@@ -155,17 +155,17 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Amendments**
 
-1977—Par. (a). Pub. L. 95–164, § 102(b)(1), substituted “Secretary of Labor” for “Secretary of the Interior”.
+1977—Par. (a). Pub. L. 95–164, § 102(b)(1), substituted “Secretary of Labor” for “Secretary of the Interior”.
 
-Par. (d). Pub. L. 95–164, § 102(b)(2), (4), substituted “supervises a coal or other mine or any independent contractor performing services or construction at such mine” for “supervises a coal mine”.
+Par. (d). Pub. L. 95–164, § 102(b)(2), (4), substituted “supervises a coal or other mine or any independent contractor performing services or construction at such mine” for “supervises a coal mine”.
 
-Pars. (e), (g). Pub. L. 95–164, § 102(b)(4), inserted “or other” after “coal” wherever appearing.
+Pars. (e), (g). Pub. L. 95–164, § 102(b)(4), inserted “or other” after “coal” wherever appearing.
 
-Par. (h). Pub. L. 95–164, § 102(b)(3), added subpar. (1), designated existing provisions as subpar. (2), and inserted “For purposes of subchapters II, III, and IV of this chapter,” after “(2)”.
+Par. (h). Pub. L. 95–164, § 102(b)(3), added subpar. (1), designated existing provisions as subpar. (2), and inserted “For purposes of subchapters II, III, and IV of this chapter,” after “(2)”.
 
-Par. (j). Pub. L. 95–164, § 102(b)(4), inserted “or other” after “coal”.
+Par. (j). Pub. L. 95–164, § 102(b)(4), inserted “or other” after “coal”.
 
-Pars. (n), (*o*). Pub. L. 95–164, § 102(b)(5), added pars. (n) and (*o*).
+Pars. (n), (*o*). Pub. L. 95–164, § 102(b)(5), added pars. (n) and (*o*).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -179,11 +179,11 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 803. Mines subject to coverage
+## § 803. Mines subject to coverage
 
 Each coal or other mine, the products of which enter commerce, or the operations or products of which affect commerce, and each operator of such mine, and every miner in such mine shall be subject to the provisions of this chapter.
 
-(Pub. L. 91–173, § 4, Dec. 30, 1969, 83 Stat. 744; Pub. L. 95–164, title I, § 102(c), Nov. 9, 1977, 91 Stat. 1291.)
+(Pub. L. 91–173, § 4, Dec. 30, 1969, 83 Stat. 744; Pub. L. 95–164, title I, § 102(c), Nov. 9, 1977, 91 Stat. 1291.)
 
 **Editorial Notes**
 
@@ -201,7 +201,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under section 801 of this title.
 
-## § 804. Interim Compliance Panel
+## § 804. Interim Compliance Panel
 
 **(a) Establishment; composition** There is hereby established the Interim Compliance Panel, which shall be composed of five members as follows:
 
@@ -237,7 +237,7 @@ The Panel is authorized to appoint as many administrative law judges as are nece
 
 **(2)** The Panel shall make an annual report, in writing, to the Secretary for transmittal by him to the Congress concerning the achievement of its purposes, and any other relevant information (including any recommendations) which it deems appropriate.
 
-(Pub. L. 91–173, § 5, Dec. 30, 1969, 83 Stat. 744; Pub. L. 95–164, title I, § 102(d), Nov. 9, 1977, 91 Stat. 1291; Pub. L. 95–251, § 2(a)(9), Mar. 27, 1978, 92 Stat. 183; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–285, § 10(b), May 18, 1992, 106 Stat. 172.)
+(Pub. L. 91–173, § 5, Dec. 30, 1969, 83 Stat. 744; Pub. L. 95–164, title I, § 102(d), Nov. 9, 1977, 91 Stat. 1291; Pub. L. 95–251, § 2(a)(9), Mar. 27, 1978, 92 Stat. 183; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–285, § 10(b), May 18, 1992, 106 Stat. 172.)
 
 **Editorial Notes**
 
@@ -271,7 +271,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (f)(2) of this
 
 ## SUBCHAPTER I—GENERAL
 
-### § 811. Mandatory safety and health standards
+### § 811. Mandatory safety and health standards
 
 **(a) Development, promulgation, and revision** The Secretary shall by rule in accordance with procedures set forth in this section and in accordance with section 553 of title 5 (without regard to any reference in such section to sections 556 and 557 of such title), develop, promulgate, and revise as may be appropriate, improved mandatory health or safety standards for the protection of life and prevention of injuries in coal or other mines.
 
@@ -323,7 +323,7 @@ Any person who may be adversely affected by a mandatory health or safety standar
 
 The Secretary shall send a copy of every proposed mandatory health or safety standard or regulation at the time of publication in the Federal Register to the operator of each coal or other mine and the representative of the miners at such mine and such copy shall be immediately posted on the bulletin board of the mine by the operator or his agent, but failure to receive such notice shall not relieve anyone of the obligation to comply with such standard or regulation.
 
-(Pub. L. 91–173, title I, § 101, Dec. 30, 1969, 83 Stat. 745; Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1291; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 91–173, title I, § 101, Dec. 30, 1969, 83 Stat. 745; Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1291; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Editorial Notes**
 
@@ -363,9 +363,9 @@ Section operative 90 days after Dec. 30, 1969, except to the extent an earlier d
 
 **Sealing of Abandoned Areas**
 
-Pub. L. 109–236, § 10, June 15, 2006, 120 Stat. 501, provided that:“Not later than 18 months after the issuance by the Mine Safety and Health Administration of a final report on the Sago Mine accident or the date of enactment of the Mine Improvement and New Emergency Response Act of 2006 [June 15, 2006], whichever occurs earlier, the Secretary of Labor shall finalize mandatory heath and safety standards relating to the sealing of abandoned areas in underground coal mines. Such health and safety standards shall provide for an increase in the 20 psi standard currently set forth in section 75.335(a)(2) of title 30, Code of Federal Regulations.”
+Pub. L. 109–236, § 10, June 15, 2006, 120 Stat. 501, provided that:“Not later than 18 months after the issuance by the Mine Safety and Health Administration of a final report on the Sago Mine accident or the date of enactment of the Mine Improvement and New Emergency Response Act of 2006 [June 15, 2006], whichever occurs earlier, the Secretary of Labor shall finalize mandatory heath and safety standards relating to the sealing of abandoned areas in underground coal mines. Such health and safety standards shall provide for an increase in the 20 psi standard currently set forth in section 75.335(a)(2) of title 30, Code of Federal Regulations.”
 
-### § 812. Advisory committees
+### § 812. Advisory committees
 
 **(a) Committee on coal or other mine safety research; establishment; membership; chairman; functions; conflicts of interest**
 
@@ -411,7 +411,7 @@ The Secretary or the Secretary of Health and Human Services may appoint other ad
 
 Advisory committee members, other than officers or employees of Federal, State, or local governments, shall be, for each day (including traveltime) during which they are performing committee business, entitled to receive compensation at a rate fixed by the appropriate Secretary but not in excess of the maximum rate of pay for grade GS–18 as provided in the General Schedule under section 5332 of title 5, and shall, notwithstanding the limitations of sections 5703 and 5704 of title 5, be fully reimbursed for travel, subsistence, and related expenses.
 
-(Pub. L. 91–173, title I, § 102, Dec. 30, 1969, 83 Stat. 747; Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1295; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–285, § 10(b), May 18, 1992, 106 Stat. 172.)
+(Pub. L. 91–173, title I, § 102, Dec. 30, 1969, 83 Stat. 747; Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1295; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–285, § 10(b), May 18, 1992, 106 Stat. 172.)
 
 **Editorial Notes**
 
@@ -427,7 +427,7 @@ This chapter, referred to in subsec. (c), was in the original “this Act”, me
 
 Subsec. (b). Pub. L. 95–164 expanded the area of coverage for the advisory committee on mine health research from “coal mines” to “coal or other mines”.
 
-Subsec. (c). Pub. L. 95–164 struck out “, who shall be an individual who has no economic interest in the coal mining industry, and who is not an operator, miner, or an officer or employee of the Federal Government or any State or local government” after “chairman of each such committee” and inserted “(including the chairman)” after “A majority of the members”.
+Subsec. (c). Pub. L. 95–164 struck out “, who shall be an individual who has no economic interest in the coal mining industry, and who is not an operator, miner, or an officer or employee of the Federal Government or any State or local government” after “chairman of each such committee” and inserted “(including the chairman)” after “A majority of the members”.
 
 Subsec. (d). Pub. L. 95–164 reenacted subsec. (d) without change.
 
@@ -453,7 +453,7 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 **Executive Documents**
 
@@ -461,7 +461,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 Functions vested by law in Office of Science and Technology and in Director or Deputy Director of Office of Science and Technology transferred to Director of National Science Foundation, and Office of Science and Technology, including offices of Director and Deputy Director, provided for by sections 1 and 2 of Reorg. Plan No. 2, of 1962, eff. June 8, 1962, 27 F.R. 5419, 76 Stat. 1253, abolished by sections 2 and 3(a)(5) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, 38 F.R. 9579, 87 Stat. 1089, both set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 813. Inspections, investigations, and recordkeeping
+### § 813. Inspections, investigations, and recordkeeping
 
 **(a) Purposes; advance notice; frequency; guidelines; right of access**
 
@@ -489,9 +489,9 @@ Subject to regulations issued by the Secretary, a representative of the operator
 
 **(g) Immediate inspection; notice of violation or danger; determination**
 
-**(1)** Whenever a repersentative 1
+**(1)** Whenever a repersentative 1
 
-<sup>1</sup>  So in original. Probably should be “representative”.
+<sup>1</sup> So in original. Probably should be “representative”.
 
 of the miners or a miner in the case of a coal or other mine where there is no such representative has reasonable grounds to believe that a violation of this chapter or a mandatory health or safety standard exists, or an imminent danger exists, such miner or representative shall have a right to obtain an immediate inspection by giving notice to the Secretary or his authorized representative of such violation or danger. Any such notice shall be reduced to writing, signed by the representative of the miners or by the miner, and a copy shall be provided the operator or his agent no later than at the time of inspection, except that the operator or his agent shall be notified forthwith if the complaint indicates that an imminent danger exists. The name of the person giving such notice and the names of individual miners referred to therein shall not appear in such copy or notification. Upon receipt of such notification, a special inspection shall be made as soon as possible to determine if such violation or danger exists in accordance with the provisions of this subchapter. If the Secretary determines that a violation or danger does not exist, he shall notify the miner or representative of the miners in writing of such determination.
 
@@ -513,7 +513,7 @@ In the event of any accident occurring in any coal or other mine, the operator s
 
 In the event of any accident occurring in a coal or other mine, an authorized representative of the Secretary, when present, may issue such orders as he deems appropriate to insure the safety of any person in the coal or other mine, and the operator of such mine shall obtain the approval of such representative, in consultation with appropriate State representatives, when feasible, of any plan to recover any person in such mine or to recover the coal or other mine or return affected areas of such mine to normal.
 
-(Pub. L. 91–173, title I, § 103, Dec. 30, 1969, 83 Stat. 749; Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1297; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 109–236, § 5(a), June 15, 2006, 120 Stat. 498.)
+(Pub. L. 91–173, title I, § 103, Dec. 30, 1969, 83 Stat. 749; Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1297; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 109–236, § 5(a), June 15, 2006, 120 Stat. 498.)
 
 **Editorial Notes**
 
@@ -555,7 +555,7 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 
 Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
-### § 814. Citations and orders
+### § 814. Citations and orders
 
 **(a) Issuance and form of citations; prompt issuance**
 
@@ -605,7 +605,7 @@ If, based upon samples taken, analyzed, and recorded pursuant to section 842(a) 
 
 Any citation or order issued under this section shall remain in effect until modified, terminated or vacated by the Secretary or his authorized representative, or modified, terminated or vacated by the Commission or the courts pursuant to section 815 or 816 of this title.
 
-(Pub. L. 91–173, title I, § 104, Dec. 30, 1969, 83 Stat. 750; Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1300.)
+(Pub. L. 91–173, title I, § 104, Dec. 30, 1969, 83 Stat. 750; Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1300.)
 
 **Editorial Notes**
 
@@ -643,7 +643,7 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 
 Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
-### § 815. Procedure for enforcement
+### § 815. Procedure for enforcement
 
 **(a) Notification of civil penalty; contest**
 
@@ -671,9 +671,9 @@ No temporary relief shall be granted in the case of a citation issued under subs
 
 **(1)** No person shall discharge or in any manner discriminate against or cause to be discharged or cause discrimination against or otherwise interfere with the exercise of the statutory rights of any miner, representative of miners or applicant for employment in any coal or other mine subject to this chapter because such miner, representative of miners or applicant for employment has filed or made a complaint under or related to this chapter, including a complaint notifying the operator or the operator’s agent, or the representative of the miners at the coal or other mine of an alleged danger or safety or health violation in a coal or other mine, or because such miner, representative of miners or applicant for employment is the subject of medical evaluations and potential transfer under a standard published pursuant to section 811 of this title or because such miner, representative of miners or applicant for employment has instituted or caused to be instituted any proceeding under or related to this chapter or has testified or is about to testify in any such proceeding, or because of the exercise by such miner, representative of miners or applicant for employment on behalf of himself or others of any statutory right afforded by this chapter.
 
-**(2)** Any miner or applicant for employment or representative of miners who believes that he has been discharged, interfered with, or otherwise discriminated against by any person in violation of this subsection may, within 60 days after such violation occurs, file a complaint with the Secretary alleging such discrimination. Upon receipt of such complaint, the Secretary shall forward a copy of the complaint to the respondent and shall cause such investigation to be made as he deems appropriate. Such investigation shall commence within 15 days of the Secretary’s receipt of the complaint, and if the Secretary finds that such complaint was not frivolously brought, the Commission, on an expedited basis upon application of the Secretary, shall order the immediate reinstatement of the miner pending final order on the complaint. If upon such investigation, the Secretary determines that the provisions of this subsection have been violated, he shall immediately file a complaint with the Commission, with service upon the alleged violator and the miner, applicant for employment, or representative of miners alleging such discrimination or interference and propose an order granting appropriate relief. The Commission shall afford an opportunity for a hearing (in accordance with section 554 of title 5 but without regard to subsection (a)(3) of such section) and thereafter shall issue an order, based upon findings of fact, affirming, modifying, or vacating the Secretary’s proposed order, or directing other appropriate relief. Such order shall become final 30 days after its issuance. The Commission shall have authority in such proceedings to require a person committing a violation of this subsection to take such affirmative action to abate the violation as the Commission deems appropriate, including, but not limited to, the rehiring or reinstatement of the miner to his former position with back pay and interest. The complaining miner, applicant, or representative of miners may present additional evidence on his own behalf during any hearing held pursuant to his 1
+**(2)** Any miner or applicant for employment or representative of miners who believes that he has been discharged, interfered with, or otherwise discriminated against by any person in violation of this subsection may, within 60 days after such violation occurs, file a complaint with the Secretary alleging such discrimination. Upon receipt of such complaint, the Secretary shall forward a copy of the complaint to the respondent and shall cause such investigation to be made as he deems appropriate. Such investigation shall commence within 15 days of the Secretary’s receipt of the complaint, and if the Secretary finds that such complaint was not frivolously brought, the Commission, on an expedited basis upon application of the Secretary, shall order the immediate reinstatement of the miner pending final order on the complaint. If upon such investigation, the Secretary determines that the provisions of this subsection have been violated, he shall immediately file a complaint with the Commission, with service upon the alleged violator and the miner, applicant for employment, or representative of miners alleging such discrimination or interference and propose an order granting appropriate relief. The Commission shall afford an opportunity for a hearing (in accordance with section 554 of title 5 but without regard to subsection (a)(3) of such section) and thereafter shall issue an order, based upon findings of fact, affirming, modifying, or vacating the Secretary’s proposed order, or directing other appropriate relief. Such order shall become final 30 days after its issuance. The Commission shall have authority in such proceedings to require a person committing a violation of this subsection to take such affirmative action to abate the violation as the Commission deems appropriate, including, but not limited to, the rehiring or reinstatement of the miner to his former position with back pay and interest. The complaining miner, applicant, or representative of miners may present additional evidence on his own behalf during any hearing held pursuant to his 1
 
-<sup>1</sup>  So in original. Probably should be “this”.
+<sup>1</sup> So in original. Probably should be “this”.
 
 paragraph.
 
@@ -683,7 +683,7 @@ paragraph.
 
 If, within 30 days of receipt thereof, an operator of a coal or other mine notifies the Secretary that he intends to contest the issuance or modification of an order issued under section 814 of this title, or citation or a notification of proposed assessment of a penalty issued under subsection (a) or (b) of this section, or the reasonableness of the length of abatement time fixed in a citation or modification thereof issued under section 814 of this title, or any miner or representative of miners notifies the Secretary of an intention to contest the issuance, modification, or termination of any order issued under section 814 of this title, or the reasonableness of the length of time set for abatement by a citation or modification thereof issued under section 814 of this title, the Secretary shall immediately advise the Commission of such notification, and the Commission shall afford an opportunity for a hearing (in accordance with section 554 of title 5, but without regard to subsection (a)(3) of such section), and thereafter shall issue an order, based on findings of fact, affirming, modifying, or vacating the Secretary’s citation, order, or proposed penalty, or directing other appropriate relief. Such order shall become final 30 days after its issuance. The rules of procedure prescribed by the Commission shall provide affected miners or representatives of affected miners an opportunity to participate as parties to hearings under this section. The Commission shall take whatever action is necessary to expedite proceedings for hearing appeals of orders issued under section 814 of this title.
 
-(Pub. L. 91–173, title I, § 105, Dec. 30, 1969, 83 Stat. 753; Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1303.)
+(Pub. L. 91–173, title I, § 105, Dec. 30, 1969, 83 Stat. 753; Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1303.)
 
 **Editorial Notes**
 
@@ -711,7 +711,7 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 
 Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
-### § 816. Judicial review of Commission orders
+### § 816. Judicial review of Commission orders
 
 **(a) Petition by person adversely affected or aggrieved; temporary relief**
 
@@ -739,7 +739,7 @@ The Secretary may also obtain review or enforcement of any final order of the Co
 
 The commencement of a proceeding under this section shall not, unless specifically ordered by the court, operate as a stay of the order or decision of the Commission or the Panel.
 
-(Pub. L. 91–173, title I, § 106, Dec. 30, 1969, 83 Stat. 754; Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1306; Pub. L. 98–620, title IV, § 402(34), Nov. 8, 1984, 98 Stat. 3360.)
+(Pub. L. 91–173, title I, § 106, Dec. 30, 1969, 83 Stat. 754; Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1306; Pub. L. 98–620, title IV, § 402(34), Nov. 8, 1984, 98 Stat. 3360.)
 
 **Editorial Notes**
 
@@ -781,7 +781,7 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 
 Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
-### § 817. Procedures to counteract dangerous conditions
+### § 817. Procedures to counteract dangerous conditions
 
 **(a) Withdrawal orders**
 
@@ -807,7 +807,7 @@ Each finding made and order issued under this section shall be given promptly to
 
 **(2)** The Commission shall take whatever action is necessary to expedite proceedings under this subsection.
 
-(Pub. L. 91–173, title I, § 107, Dec. 30, 1969, 83 Stat. 755; Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1307.)
+(Pub. L. 91–173, title I, § 107, Dec. 30, 1969, 83 Stat. 755; Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1307.)
 
 **Editorial Notes**
 
@@ -829,7 +829,7 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 
 Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
-### § 818. Injunctions
+### § 818. Injunctions
 
 **(a) Civil action by Secretary**
 
@@ -853,7 +853,7 @@ Section operative 90 days after Dec. 30, 1969, except to the extent an earlier d
 
 In any action brought under subsection (a), the court shall have jurisdiction to provide such relief as may be appropriate. In the case of an action under subsection (a)(2), the court shall in its order require such assurance or affirmative steps as it deems necessary to assure itself that the protection afforded to miners under this chapter shall be provided by the operator. Temporary restraining orders shall be issued in accordance with rule 65 of the Federal Rules of Civil Procedure, as amended, except that the time limit in such orders, when issued without notice, shall be seven days from the date of entry. Except as otherwise provided herein, any relief granted by the court to enforce any order under paragraph (1) of subsection (a) shall continue in effect until the completion or final termination of all proceedings for review of such order under this subchapter, unless prior thereto, the district court granting such relief sets it aside or modifies it. In any action instituted under this section to enforce an order or decision issued by the Commission or the Secretary after a public hearing in accordance with section 554 of title 5, the findings of the Commission or the Secretary, as the case may be, if supported by substantial evidence on the record considered as a whole, shall be conclusive.
 
-(Pub. L. 91–173, title I, § 108, Dec. 30, 1969, 83 Stat. 756; Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1309; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 109–236, § 9, June 15, 2006, 120 Stat. 501.)
+(Pub. L. 91–173, title I, § 108, Dec. 30, 1969, 83 Stat. 756; Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1309; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 109–236, § 9, June 15, 2006, 120 Stat. 501.)
 
 **Editorial Notes**
 
@@ -865,7 +865,7 @@ Rule 65 of the Federal Rules of Civil Procedure, referred to in subsec. (b), is 
 
 **Amendments**
 
-2006—Subsec. (a)(1)(A). Pub. L. 109–236 inserted before comma at end “, or fails or refuses to comply with any order or decision, including a civil penalty assessment order, that is issued under this chapter”.
+2006—Subsec. (a)(1)(A). Pub. L. 109–236 inserted before comma at end “, or fails or refuses to comply with any order or decision, including a civil penalty assessment order, that is issued under this chapter”.
 
 1977—Pub. L. 95–164 redesignated existing provisions as subsecs. (a)(1) and (b), added subsec. (a)(2), and in the redesignated provisions inserted references to findings of the Commission, inserted requirement that in actions brought under subsec. (a)(2) the courts require such assurances or affirmative action as they deem necessary to assure that the protections offered by this chapter to the miners be provided by the operator, and struck out provisions relating to the appointment of attorneys by the Secretary to represent him in actions under this section.
 
@@ -883,7 +883,7 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 
 Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
-### § 819. Posting of orders and decisions
+### § 819. Posting of orders and decisions
 
 **(a) Mine office; bulletin board**
 
@@ -901,7 +901,7 @@ In order to insure prompt compliance with any notice, order, citation, or decisi
 
 Each operator of a coal or other mine subject to this chapter shall file with the Secretary the name and address of such mine and the name and address of the person who controls or operates the mine. Any revisions in such names or addresses shall be promptly filed with the Secretary. Each operator of a coal or other mine subject to this chapter shall designate a responsible official at such mine as the principal officer in charge of health and safety at such mine, and such official shall receive a copy of any notice, order, citation, or decision issued under this chapter affecting such mine. In any case where the mine is subject to the control of any person not directly involved in the daily operations of the coal or other mine, there shall be filed with the Secretary the name and address of such person and the name and address of a principal official of such person who shall have overall responsibility for the conduct of an effective health and safety program at any coal or other mine subject to the control of such person, and such official shall receive a copy of any notice, order, citation, or decision issued affecting any such mine. The mere designation of a health and safety official under this subsection shall not be construed as making such official subject to any penalty under this chapter.
 
-(Pub. L. 91–173, title I, § 109, Dec. 30, 1969, 83 Stat. 756; Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1310.)
+(Pub. L. 91–173, title I, § 109, Dec. 30, 1969, 83 Stat. 756; Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1310.)
 
 **Editorial Notes**
 
@@ -923,7 +923,7 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 
 Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
-### § 820. Penalties
+### § 820. Penalties
 
 **(a) Civil penalty for violation of mandatory health or safety standards**
 
@@ -941,9 +941,9 @@ Section operative 90 days after Dec. 30, 1969, except to the extent an earlier d
 
 **(b) Civil penalty for failure to correct violation for which citation has been issued**
 
-**(1)** Any operator who fails to correct a violation for which a citation has been issued under section 814(a) of this title within the period permitted for its correction may be assessed a civil penalty of not more than $$5,000 1
+**(1)** Any operator who fails to correct a violation for which a citation has been issued under section 814(a) of this title within the period permitted for its correction may be assessed a civil penalty of not more than $$5,000 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 for each day during which such failure or violation continues.
 
@@ -989,7 +989,7 @@ No proposed penalty which has been contested before the Commission under section
 
 The provisions of this section shall not be applicable with respect to subchapter IV of this chapter.
 
-(Pub. L. 91–173, title I, § 110, Dec. 30, 1969, 83 Stat. 758; Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1311; Pub. L. 101–508, title III, § 3102, Nov. 5, 1990, 104 Stat. 1388–29; Pub. L. 109–236, § 5(b), § 8(a), June 15, 2006, 120 Stat. 498, 500; Pub. L. 109–280, title XIII, § 1301, Aug. 17, 2006, 120 Stat. 1108.)
+(Pub. L. 91–173, title I, § 110, Dec. 30, 1969, 83 Stat. 758; Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1311; Pub. L. 101–508, title III, § 3102, Nov. 5, 1990, 104 Stat. 1388–29; Pub. L. 109–236, § 5(b), § 8(a), June 15, 2006, 120 Stat. 498, 500; Pub. L. 109–280, title XIII, § 1301, Aug. 17, 2006, 120 Stat. 1108.)
 
 **Editorial Notes**
 
@@ -999,23 +999,23 @@ This chapter, referred to in subsecs. (a)(1), (c) to (f), and (h) to (j), was in
 
 **Amendments**
 
-2006—Subsec. (a). Pub. L. 109–280, § 1301(2), substituted “(1) The operator” for “(1)(1) The operator” in par. (1), substituted “subsection (a)(1)” for “paragraph (1)” in par. (2), relating to criminal penalties, and redesignated that par. as subsec. (d).
+2006—Subsec. (a). Pub. L. 109–280, § 1301(2), substituted “(1) The operator” for “(1)(1) The operator” in par. (1), substituted “subsection (a)(1)” for “paragraph (1)” in par. (2), relating to criminal penalties, and redesignated that par. as subsec. (d).
 
-Pub. L. 109–236, § 8(a)(1), inserted “(1)” after subsec. heading, added par. (2), relating to criminal penalties, and added pars. (3) and (4).
+Pub. L. 109–236, § 8(a)(1), inserted “(1)” after subsec. heading, added par. (2), relating to criminal penalties, and added pars. (3) and (4).
 
-Pub. L. 109–236, § 5(b), designated existing provisions as par. (1) and added par. (2), relating to civil penalties.
+Pub. L. 109–236, § 5(b), designated existing provisions as par. (1) and added par. (2), relating to civil penalties.
 
-Subsec. (b). Pub. L. 109–280, § 1301(3), inserted par. (1) and (2) designations.
+Subsec. (b). Pub. L. 109–280, § 1301(3), inserted par. (1) and (2) designations.
 
-Pub. L. 109–236, § 8(a)(2), inserted at end “Violations under this section that are deemed to be flagrant may be assessed a civil penalty of not more than $220,000. For purposes of the preceding sentence, the term ‘flagrant’ with respect to a violation means a reckless or repeated failure to make reasonable efforts to eliminate a known violation of a mandatory health or safety standard that substantially and proximately caused, or reasonably could have been expected to cause, death or serious bodily injury.”
+Pub. L. 109–236, § 8(a)(2), inserted at end “Violations under this section that are deemed to be flagrant may be assessed a civil penalty of not more than $220,000. For purposes of the preceding sentence, the term ‘flagrant’ with respect to a violation means a reckless or repeated failure to make reasonable efforts to eliminate a known violation of a mandatory health or safety standard that substantially and proximately caused, or reasonably could have been expected to cause, death or serious bodily injury.”
 
-Subsec. (d). Pub. L. 109–280, § 1301(2)(B)(ii), redesignated subsec. (a)(2), relating to criminal penalties, as (d).
+Subsec. (d). Pub. L. 109–280, § 1301(2)(B)(ii), redesignated subsec. (a)(2), relating to criminal penalties, as (d).
 
-Pub. L. 109–280, § 1301(1), struck out subsec. (d) which read as follows: “Any operator who willfully violates a mandatory health or safety standard, or knowingly violates or fails or refuses to comply with any order issued under section 814 of this title and section 817 of this title, or any order incorporated in a final decision issued under this subchapter, except an order incorporated in a decision under subsection (a) of this section or section 815(c) of this title, shall, upon conviction, be punished by a fine of not more than $25,000, or by imprisonment for not more than one year, or by both, except that if the conviction is for a violation committed after the first conviction of such operator under this chapter, punishment shall be by a fine of not more than $50,000, or by imprisonment for not more than five years, or both.”
+Pub. L. 109–280, § 1301(1), struck out subsec. (d) which read as follows: “Any operator who willfully violates a mandatory health or safety standard, or knowingly violates or fails or refuses to comply with any order issued under section 814 of this title and section 817 of this title, or any order incorporated in a final decision issued under this subchapter, except an order incorporated in a decision under subsection (a) of this section or section 815(c) of this title, shall, upon conviction, be punished by a fine of not more than $25,000, or by imprisonment for not more than one year, or by both, except that if the conviction is for a violation committed after the first conviction of such operator under this chapter, punishment shall be by a fine of not more than $50,000, or by imprisonment for not more than five years, or both.”
 
-1990—Subsec. (a). Pub. L. 101–508, § 3102(1), substituted “$50,000” for “$10,000”.
+1990—Subsec. (a). Pub. L. 101–508, § 3102(1), substituted “$50,000” for “$10,000”.
 
-Subsec. (b). Pub. L. 101–508, § 3102(2), substituted “$5,000” for “1,000”.
+Subsec. (b). Pub. L. 101–508, § 3102(2), substituted “$5,000” for “1,000”.
 
 1977—Pub. L. 95–164 substituted provisions setting the civil and criminal penalties with regard to violations of this chapter for provisions relating to claims of idled miners, which provisions, as revised, were transferred to section 821 of this title.
 
@@ -1031,13 +1031,13 @@ Section operative 90 days after Dec. 30, 1969, except to the extent an earlier d
 
 **Regulations**
 
-Pub. L. 109–236, § 8(b), June 15, 2006, 120 Stat. 501, provided that: “Not later than December 30, 2006, the Secretary of Labor shall promulgate final regulations with respect to penalties.”
+Pub. L. 109–236, § 8(b), June 15, 2006, 120 Stat. 501, provided that: “Not later than December 30, 2006, the Secretary of Labor shall promulgate final regulations with respect to penalties.”
 
-### § 821. Entitlement of miners to full compensation
+### § 821. Entitlement of miners to full compensation
 
 If a coal or other mine or area of such mine is closed by an order issued under section 813 of this title, section 814 of this title, or section 817 of this title, all miners working during the shift when such order was issued who are idled by such order shall be entitled, regardless of the result of any review of such order, to full compensation by the operator at their regular rates of pay for the period they are idled, but for not more than the balance of such shift. If such order is not terminated prior to the next working shift, all miners on that shift who are idled by such order shall be entitled to full compensation by the operator at their regular rates of pay for the period they are idled, but for not more than four hours of such shift. If a coal or other mine or area of such mine is closed by an order issued under section 814 of this title or section 817 of this title for a failure of the operator to comply with any mandatory health or safety standards, all miners who are idled due to such order shall be fully compensated after all interested parties are given an opportunity for a public hearing, which shall be expedited in such cases, and after such order is final, by the operator for lost time at their regular rates of pay for such time as the miners are idled by such closing, or for one week, whichever is the lesser. Whenever an operator violates or fails or refuses to comply with any order issued under section 813 of this title, section 814 of this title, or section 817 of this title, all miners employed at the affected mine who would have been withdrawn from, or prevented from entering, such mine or area thereof as a result of such order shall be entitled to full compensation by the operator at their regular rates of pay, in addition to pay received for work performed after such order was issued, for the period beginning when such order was issued and ending when such order is complied with, vacated, or terminated. The Commission shall have authority to order compensation due under this section upon the filing of a complaint by a miner or his representative and after opportunity for hearing subject to section 554 of title 5.
 
-(Pub. L. 91–173, title I, § 111, Dec. 30, 1969, 83 Stat. 759; Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1312.)
+(Pub. L. 91–173, title I, § 111, Dec. 30, 1969, 83 Stat. 759; Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1312.)
 
 **Editorial Notes**
 
@@ -1055,11 +1055,11 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 
 Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
-### § 822. Representation of Secretary in civil litigation by Solicitor of Labor
+### § 822. Representation of Secretary in civil litigation by Solicitor of Labor
 
 Except as provided in section 518(a) of title 28, relating to litigation before the Supreme Court, the Solicitor of Labor may appear for and represent the Secretary in any civil litigation brought under this chapter but all such litigation shall be subject to the direction and control of the Attorney General.
 
-(Pub. L. 91–173, title I, § 112, as added Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1313.)
+(Pub. L. 91–173, title I, § 112, as added Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1313.)
 
 **Editorial Notes**
 
@@ -1077,7 +1077,7 @@ Provisions similar to this section were contained in section 816(f) of this titl
 
 Section effective 120 days after Nov. 9, 1977, see section 307 of Pub. L. 95–164, set out as an Effective Date of 1977 Amendment note under section 801 of this title.
 
-### § 823. Federal Mine Safety and Health Review Commission
+### § 823. Federal Mine Safety and Health Review Commission
 
 **(a) Establishment; membership; chairman**
 
@@ -1133,7 +1133,7 @@ The Commission is authorized to delegate to any group of three or more members a
 
 In connection with hearings before the Commission or its administrative law judges under this chapter, the Commission and its administrative law judges may compel the attendance and testimony of witnesses and the production of books, papers, or documents, or objects, and order testimony to be taken by deposition at any stage of the proceedings before them. Any person may be compelled to appear and depose and produce similar documentary or physical evidence, in the same manner as witnesses may be compelled to appear and produce evidence before the Commission and its administrative law judges. Witnesses shall be paid the same fees and mileage that are paid witnesses in the courts of the United States and at depositions ordered by such courts. In case of contumacy, failure, or refusal of any person to obey a subpoena or order of the Commission or an administrative law judge, respectively, to appear, to testify, or to produce documentary or physical evidence, any district court of the United States or the United States courts of any territory or possession, within the jurisdiction of which such person is found, or resides, or transacts business, shall, upon the application of the Commission, or the administrative law judge, respectively, have jurisdiction to issue to such person an order requiring such person to appear, to testify, or to produce evidence as ordered by the Commission or the administrative law judge, respectively, and any failure to obey such order of the court may be punished by the court as a contempt thereof.
 
-(Pub. L. 91–173, title I, § 113, as added Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1313; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783.)
+(Pub. L. 91–173, title I, § 113, as added Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1313; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783.)
 
 **Editorial Notes**
 
@@ -1157,13 +1157,13 @@ Section effective 120 days after Nov. 9, 1977, see section 307 of Pub. L. 95–1
 
 **Transfer of Functions**
 
-“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (b)(2) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (b)(2) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
-### § 823a. Principal office in District of Columbia; proceedings held elsewhere
+### § 823a. Principal office in District of Columbia; proceedings held elsewhere
 
 The principal office of the Commission shall be in the District of Columbia. Whenever the Commission deems that convenience of the public or the parties may be promoted, or delay or expense may be minimized, it may hold hearings or conduct other proceedings at any other place.
 
-(Pub. L. 95–164, title III, § 302(d), Nov. 9, 1977, 91 Stat. 1320.)
+(Pub. L. 95–164, title III, § 302(d), Nov. 9, 1977, 91 Stat. 1320.)
 
 **Editorial Notes**
 
@@ -1177,11 +1177,11 @@ Section was enacted as part of Pub. L. 95–164, known as the Federal Mine Safet
 
 Section effective 120 days after Nov. 9, 1977, see section 307 of Pub. L. 95–164, set out as an Effective Date of 1977 Amendment note under section 801 of this title.
 
-### § 824. Authorization of appropriations
+### § 824. Authorization of appropriations
 
 There are authorized to be appropriated, out of any moneys in the Treasury not otherwise appropriated, such sums as may be necessary to carry out the provisions of this subchapter.
 
-(Pub. L. 91–173, title I, § 114, as added Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1315.)
+(Pub. L. 91–173, title I, § 114, as added Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1315.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1189,7 +1189,7 @@ There are authorized to be appropriated, out of any moneys in the Treasury not o
 
 Section effective 120 days after Nov. 9, 1977, see section 307 of Pub. L. 95–164, set out as an Effective Date of 1977 Amendment note under section 801 of this title.
 
-### § 825. Mandatory health and safety training
+### § 825. Mandatory health and safety training
 
 **(a) Approved program; regulations** Each operator of a coal or other mine shall have a health and safety training program which shall be approved by the Secretary. The Secretary shall promulgate regulations with respect to such health and safety training programs not more than 180 days after the effective date of the Federal Mine Safety and Health Amendments Act of 1977. Each training program approved by the Secretary shall provide as a minimum that—
 
@@ -1289,7 +1289,7 @@ The Secretary shall promulgate appropriate standards for safety and health train
 
 **(ff)** are comprised of individuals with a minimum of 3 years underground coal mine experience that shall have occurred within the 10-year period preceding their employment on the contract mine rescue team.
 
-(Pub. L. 91–173, title I, § 115, as added Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1315; amended Pub. L. 109–236, § 4, June 15, 2006, 120 Stat. 497.)
+(Pub. L. 91–173, title I, § 115, as added Pub. L. 95–164, title II, § 201, Nov. 9, 1977, 91 Stat. 1315; amended Pub. L. 109–236, § 4, June 15, 2006, 120 Stat. 497.)
 
 **Editorial Notes**
 
@@ -1309,7 +1309,7 @@ This chapter, referred to in subsec. (a)(1), (2), was in the original “this Ac
 
 Section effective 120 days after Nov. 9, 1977, see section 307 of Pub. L. 95–164, set out as an Effective Date of 1977 Amendment note under section 801 of this title.
 
-### § 826. Limitation on certain liability for rescue operations
+### § 826. Limitation on certain liability for rescue operations
 
 **(a) In general**
 
@@ -1325,7 +1325,7 @@ No person shall bring an action against any covered individual or his or her reg
 
 For purposes of subsection (a), the term “regular employer” means the entity that is the covered employee’s legal or statutory employer pursuant to applicable State law.
 
-(Pub. L. 91–173, title I, § 116, as added Pub. L. 109–236, § 3, June 15, 2006, 120 Stat. 496.)
+(Pub. L. 91–173, title I, § 116, as added Pub. L. 109–236, § 3, June 15, 2006, 120 Stat. 496.)
 
 **Editorial Notes**
 
@@ -1335,13 +1335,13 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 ## SUBCHAPTER II—INTERIM MANDATORY HEALTH STANDARDS
 
-### § 841. Mandatory health standards for underground mines; enforcement; review; purpose
+### § 841. Mandatory health standards for underground mines; enforcement; review; purpose
 
 **(a)** The provisions of sections 842 through 846 of this title and the applicable provisions of section 878 of this title shall be interim mandatory health standards applicable to all underground coal mines until superseded in whole or in part by improved mandatory health standards promulgated by the Secretary under the provisions of section 811 of this title, and shall be enforced in the same manner and to the same extent as any mandatory health standard promulgated under the provisions of section 811 of this title. Any orders issued in the enforcement of the interim standards set forth in this subchapter shall be subject to review as provided in subchapter I of this chapter.
 
 **(b)** Among other things, it is the purpose of this subchapter to provide, to the greatest extent possible, that the working conditions in each underground coal mine are sufficiently free of respirable dust concentrations in the mine atmosphere to permit each miner the opportunity to work underground during the period of his entire adult working life without incurring any disability from pneumoconiosis or any other occupation-related disease during or at the end of such period.
 
-(Pub. L. 91–173, title II, § 201, Dec. 30, 1969, 83 Stat. 760.)
+(Pub. L. 91–173, title II, § 201, Dec. 30, 1969, 83 Stat. 760.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1349,7 +1349,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 Section operative six months after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
-### § 842. Dust concentration and respiratory equipment
+### § 842. Dust concentration and respiratory equipment
 
 **(a) Samples; procedures; transmittal; notice of excess concentration; periodic reports to Secretary; contents**
 
@@ -1397,7 +1397,7 @@ The Secretary shall cause to be made such frequent spot inspections as he deems 
 
 Respiratory equipment approved by the Secretary and the Secretary of Health and Human Services shall be made available to all persons whenever exposed to concentrations of respirable dust in excess of the levels required to be maintained under this chapter. Use of respirators shall not be substituted for environmental control measures in the active workings. Each operator shall maintain a supply of respiratory equipment adequate to deal with occurrences of concentrations of respirable dust in the mine atmosphere in excess of the levels required to be maintained under this chapter.
 
-(Pub. L. 91–173, title II, § 202, Dec. 30, 1969, 83 Stat. 760; Pub. L. 95–164, title II, § 202(a), Nov. 9, 1977, 91 Stat. 1317; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 91–173, title II, § 202, Dec. 30, 1969, 83 Stat. 760; Pub. L. 95–164, title II, § 202(a), Nov. 9, 1977, 91 Stat. 1317; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Editorial Notes**
 
@@ -1425,7 +1425,7 @@ Amendment by Pub. L. 95–164 effective Nov. 9, 1977, see section 307 of Pub. L.
 
 Section operative six months after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
-### § 843. Medical examinations
+### § 843. Medical examinations
 
 **(a) Chest roentgenogram; availability; periodic intervals; other tests; transmittal of results; advice of rights**
 
@@ -1435,9 +1435,9 @@ The operator of a coal mine shall cooperate with the Secretary of Health and Hum
 
 **(1)** On and after the operative date of this subchapter, any miner who, in the judgment of the Secretary of Health and Human Services based upon such reading or other medical examinations, shows evidence of the development of pneumoconiosis shall be afforded the option of transferring from his position to another position in any area of the mine, for such period or periods as may be necessary to prevent further development of such disease, where the concentration of respirable dust in the mine atmosphere is not more than 2.0 milligrams of dust per cubic meter of air.
 
-**(2)** Effective three years after December 30, 1969, any miner who, in the judgment of the Secretary of Health and Human Services based upon such reading or other medical examinations, shows evidence of the development of pneumoconiosis shall be afforded the option of transferring from his position to another position in any area of the mine, for such period or periods as may be necessary to prevent further development of such disease, where the concentration of respirable dust in the mine atmosphere is not more than 1.0 millograms 1
+**(2)** Effective three years after December 30, 1969, any miner who, in the judgment of the Secretary of Health and Human Services based upon such reading or other medical examinations, shows evidence of the development of pneumoconiosis shall be afforded the option of transferring from his position to another position in any area of the mine, for such period or periods as may be necessary to prevent further development of such disease, where the concentration of respirable dust in the mine atmosphere is not more than 1.0 millograms 1
 
-<sup>1</sup>  So in original. Probably should be “milligrams”.
+<sup>1</sup> So in original. Probably should be “milligrams”.
 
 of dust per cubic meter of air, or if such level is not attainable in such mine, to a position in such mine where the concentration of respirable dust is the lowest attainable below 2.0 milligrams per cubic meter of air.
 
@@ -1451,7 +1451,7 @@ No payment may be required of any miner in connection with any examination or te
 
 If the death of any active miner occurs in any coal mine, or if the death of any active or inactive miner occurs in any other place, the Secretary of Health and Human Services is authorized to provide for an autopsy to be performed on such miner, with the consent of his surviving widow or, if he has no such widow, then with the consent of his surviving next of kin. The results of such autopsy shall be submitted to the Secretary of Health and Human Services and, with the consent of such survivor, to the miner’s physician or other interested person. Such autopsy shall be paid for by the Secretary of Health and Human Services.
 
-(Pub. L. 91–173, title II, § 203, Dec. 30, 1969, 83 Stat. 763; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 91–173, title II, § 203, Dec. 30, 1969, 83 Stat. 763; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Editorial Notes**
 
@@ -1471,11 +1471,11 @@ For operative date of this subchapter, referred to in subsec. (b)(1), see sectio
 
 Section operative six months after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
-### § 844. Rock dust and gas hazards; controls
+### § 844. Rock dust and gas hazards; controls
 
 The dust resulting from drilling in rock shall be controlled by the use of permissible dust collectors, or by water or water with a wetting agent, or by ventilation, or by any other method or device approved by the Secretary which is at least as effective in controlling such dust. Respiratory equipment approved by the Secretary and the Secretary of Health and Human Services shall be provided persons exposed for short periods to inhalation hazards from gas, dusts, fumes, or mist. When the exposure is for prolonged periods, other measures to protect such persons or to reduce the hazard shall be taken.
 
-(Pub. L. 91–173, title II, § 204, Dec. 30, 1969, 83 Stat. 764; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 91–173, title II, § 204, Dec. 30, 1969, 83 Stat. 764; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1487,11 +1487,11 @@ The dust resulting from drilling in rock shall be controlled by the use of permi
 
 Section operative six months after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
-### § 845. Dust standards in presence of quartz
+### § 845. Dust standards in presence of quartz
 
 In coal mining operations where the concentration of respirable dust in the mine atmosphere of any working place contains more than 5 per centum quartz, the Secretary of Health and Human Services shall prescribe an appropriate formula for determining the applicable respirable dust standard under this subchapter for such working place and the Secretary shall apply such formula in carrying out his duties under this subchapter.
 
-(Pub. L. 91–173, title II, § 205, Dec. 30, 1969, 83 Stat. 765; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 91–173, title II, § 205, Dec. 30, 1969, 83 Stat. 765; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1503,11 +1503,11 @@ In coal mining operations where the concentration of respirable dust in the mine
 
 Section operative six months after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
-### § 846. Noise standards; promulgation of new standards; tests; procedures; protective devices
+### § 846. Noise standards; promulgation of new standards; tests; procedures; protective devices
 
 On and after the operative date of this subchapter, the standards on noise prescribed under chapter 65 of title 41, in effect October 1, 1969, shall be applicable to each coal mine and each operator of such mine shall comply with them. Within six months after December 30, 1969, the Secretary of Health and Human Services shall establish, and the Secretary shall publish, as provided in section 811 of this title, proposed mandatory health standards establishing maximum noise exposure levels for all underground coal mines. Beginning six months after the operative date of this subchapter, and at intervals of at least every six months thereafter, the operator of each coal mine shall conduct, in a manner prescribed by the Secretary of Health and Human Services, tests by a qualified person of the noise level at the mine and report and certify the results to the Secretary and the Secretary of Health and Human Services. In meeting such standard under this section, the operator shall not require the use of any protective device or system, including personal devices, which the Secretary or his authorized representative finds to be hazardous or cause a hazard to the miners in such mine.
 
-(Pub. L. 91–173, title II, § 206, Dec. 30, 1969, 83 Stat. 765; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 91–173, title II, § 206, Dec. 30, 1969, 83 Stat. 765; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Editorial Notes**
 
@@ -1517,7 +1517,7 @@ For the operative date of this subchapter, referred to in text, see section 509 
 
 **Codification**
 
-In text, “chapter 65 of title 41” substituted for “the Walsh-Healey Public Contracts Act, as amended” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In text, “chapter 65 of title 41” substituted for “the Walsh-Healey Public Contracts Act, as amended” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1531,7 +1531,7 @@ Section operative six months after Dec. 30, 1969, except to the extent an earlie
 
 ## SUBCHAPTER III—INTERIM MANDATORY SAFETY STANDARDS FOR UNDERGROUND COAL MINES
 
-### § 861. Mandatory safety standards for underground mines
+### § 861. Mandatory safety standards for underground mines
 
 **(a) Coverage; enforcement; review**
 
@@ -1541,15 +1541,15 @@ The provisions of sections 862 through 878 of this title shall be interim mandat
 
 The purpose of this subchapter is to provide for the immediate application of mandatory safety standards developed on the basis of experience and advances in technology and to prevent newly created hazards resulting from new technology in coal mining. The Secretary of the Interior in coordination with the Secretary shall immediately initiate studies, investigations, and research to further upgrade such standards and to develop and promulgate new and improved standards promptly that will provide increased protection to the miners, particularly in connection with hazards from trolley wires, trolley feeder wires, and signal wires, the splicing and use of trailing cables, and in connection with improvements in vulcanizing of electric conductors, improvement in roof control measures, methane drainage in advance of mining, improved methods of measuring methane and other explosive gases and oxygen concentrations, and the use of improved underground equipment and other sources of power for such equipment.
 
-(Pub. L. 91–173, title III, § 301, Dec. 30, 1969, 83 Stat. 765; Pub. L. 95–164, title II, § 203, Nov. 9, 1977, 91 Stat. 1317.)
+(Pub. L. 91–173, title III, § 301, Dec. 30, 1969, 83 Stat. 765; Pub. L. 95–164, title II, § 203, Nov. 9, 1977, 91 Stat. 1317.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1977—Subsec. (b). Pub. L. 95–164, § 203(a), substituted “The Secretary of the Interior in coordination with the Secretary shall immediately initiate studies” for “The Secretary shall immediately initiate studies”.
+1977—Subsec. (b). Pub. L. 95–164, § 203(a), substituted “The Secretary of the Interior in coordination with the Secretary shall immediately initiate studies” for “The Secretary shall immediately initiate studies”.
 
-Subsecs. (c), (d). Pub. L. 95–164, § 203(b), struck out subsec. (c) which related to the modification of standards, and subsec. (d) which related to the applicability of section 553 of title 5 in cases where the provisions of sections 862 to 878 of this title had provided that certain actions, conditions, or requirements be carried out as prescribed by the Secretary or the Secretary of Health, Education, and Welfare.
+Subsecs. (c), (d). Pub. L. 95–164, § 203(b), struck out subsec. (c) which related to the modification of standards, and subsec. (d) which related to the applicability of section 553 of title 5 in cases where the provisions of sections 862 to 878 of this title had provided that certain actions, conditions, or requirements be carried out as prescribed by the Secretary or the Secretary of Health, Education, and Welfare.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1561,7 +1561,7 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 
 Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
-### § 862. Roof support
+### § 862. Roof support
 
 **(a) Roof control plan; contents; review; availability**
 
@@ -1587,7 +1587,7 @@ Roof bolts shall not be recovered where complete extractions of pillars are atte
 
 Where miners are exposed to danger from falls of roof, face, and ribs the operator shall examine and test the roof, face, and ribs before any work or machine is started, and as frequently thereafter as may be necessary to insure safety. When dangerous conditions are found, they shall be corrected immediately.
 
-(Pub. L. 91–173, title III, § 302, Dec. 30, 1969, 83 Stat. 766.)
+(Pub. L. 91–173, title III, § 302, Dec. 30, 1969, 83 Stat. 766.)
 
 **Editorial Notes**
 
@@ -1601,7 +1601,7 @@ For the operative date of this subchapter, referred to in subsec. (a), see secti
 
 Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
-### § 863. Ventilation
+### § 863. Ventilation
 
 **(a) Equipment; approval; daily examinations**
 
@@ -1621,9 +1621,9 @@ All active workings shall be ventilated by a current of air containing not less 
 
 **(d) Pre-shift examinations and tests; scope; violations of mandatory standards; notification; posting of “DANGER” signs; restriction of entry; records; re-entry**
 
-**(1)** Within three hours immediately preceding the beginning of any shift, and before any miner in such shift enters the active workings of a coal mine, certified persons designated by the operator of the mine shall examine such workings and any other underground area of the mine designated by the Secretary or his authorized representative. Each such examiner shall examine every working section in such workings and shall make tests in each such working section for accumulations of methane with means approved by the Secretary for detecting methane and shall make tests for oxygen deficiency with a permissible flame safety lamp or other means approved by the Secretary; examine seals and doors to determine whether they are functioning properly; examine and test the roof, face, and rib conditions in such working section; examine active roadways, travelways, and belt conveyors on which men are carried, approaches to abandoned areas, and accessible falls in such section for hazards; test by means of an anemometer or other device approved by the Secretary to determine whether the air in each split is traveling in its proper course and in normal volume and velocity; and examine for such other hazards and violations of the mandatory health or safety standards, as an authorized representative of the Secretary may from time to time require. Belt conveyors on which coal is carried shall be examined after each coal-producing shift has begun. Such mine examiner shall place his initials and the date and time at all places he examines. If such mine examiner finds a condition which constitutes a violation of a mandatory health or safety standard or any condition which is hazardous to persons who may enter or be in such area, he shall indicate such hazardous place by posting a “DANGER” sign conspiciously 1
+**(1)** Within three hours immediately preceding the beginning of any shift, and before any miner in such shift enters the active workings of a coal mine, certified persons designated by the operator of the mine shall examine such workings and any other underground area of the mine designated by the Secretary or his authorized representative. Each such examiner shall examine every working section in such workings and shall make tests in each such working section for accumulations of methane with means approved by the Secretary for detecting methane and shall make tests for oxygen deficiency with a permissible flame safety lamp or other means approved by the Secretary; examine seals and doors to determine whether they are functioning properly; examine and test the roof, face, and rib conditions in such working section; examine active roadways, travelways, and belt conveyors on which men are carried, approaches to abandoned areas, and accessible falls in such section for hazards; test by means of an anemometer or other device approved by the Secretary to determine whether the air in each split is traveling in its proper course and in normal volume and velocity; and examine for such other hazards and violations of the mandatory health or safety standards, as an authorized representative of the Secretary may from time to time require. Belt conveyors on which coal is carried shall be examined after each coal-producing shift has begun. Such mine examiner shall place his initials and the date and time at all places he examines. If such mine examiner finds a condition which constitutes a violation of a mandatory health or safety standard or any condition which is hazardous to persons who may enter or be in such area, he shall indicate such hazardous place by posting a “DANGER” sign conspiciously 1
 
-<sup>1</sup>  So in original. Probably should be “conspicuously”.
+<sup>1</sup> So in original. Probably should be “conspicuously”.
 
 at all points which persons entering such hazardous place would be required to pass, and shall notify the operator of the mine. No person, other than an authorized representative of the Secretary or a State mine inspector or persons authorized by the operator to enter such place for the purpose of eliminating the hazardous condition therein, shall enter such place while such sign is so posted. Upon completing his examination, such mine examiner shall report the results of his examination to a person, designated by the operator to receive such reports at a designated station on the surface of the mine, before other persons enter the underground areas of such mine to work in such shift. Each such mine examiner shall also record the results of his examination with ink or indelible pencil in a book approved by the Secretary kept for such purpose in an area on the surface of the mine chosen by the operator to minimize the danger of destruction by fire or other hazard, and the record shall be open for inspection by interested persons.
 
@@ -1729,7 +1729,7 @@ Before a coal mine is reopened after having been abandoned or declared inactive 
 
 **(3)** In the case of mines opened on or after the operative date of this subchapter, or in the case of working sections opened on or after such date in mines opened prior to such date, the mining system shall be designed in accordance with a plan and revisions thereof approved by the Secretary and adopted by such operator so that, as each working section of the mine is abandoned, it can be isolated from the active workings of the mine with explosion-proof seals or bulkheads.
 
-(Pub. L. 91–173, title III, § 303, Dec. 30, 1969, 83 Stat. 767.)
+(Pub. L. 91–173, title III, § 303, Dec. 30, 1969, 83 Stat. 767.)
 
 **Editorial Notes**
 
@@ -1745,9 +1745,9 @@ Section operative 90 days after Dec. 30, 1969, except to the extent an earlier d
 
 **Belt Haulage Entries for Ventilation**
 
-Pub. L. 110–161, div. G, title I, § 112(a), Dec. 26, 2007, 121 Stat. 2168, provided that: “Not later than June 20, 2008, the Secretary of Labor shall propose regulations pursuant to section 303(y) of the Federal Mine Safety and Health Act of 1977 [30 U.S.C. 863(y)], consistent with the recommendations of the Technical Study Panel established pursuant to section 11 of the Mine Improvement and New Emergency Response (MINER) Act (Public Law 109–236) [enacting section 963 of this title], to require that in any coal mine, regardless of the date on which it was opened, belt haulage entries not be used to ventilate active working places without prior approval from the Assistant Secretary. Further, a mine ventilation plan incorporating the use of air coursed through belt haulage entries to ventilate active working places shall not be approved until the Assistant Secretary has reviewed the elements of the plan related to the use of belt air and determined that the plan at all times affords at least the same measure of protection where belt haulage entries are not used to ventilate working places. The Secretary shall finalize the regulations not later than December 31, 2008.”
+Pub. L. 110–161, div. G, title I, § 112(a), Dec. 26, 2007, 121 Stat. 2168, provided that: “Not later than June 20, 2008, the Secretary of Labor shall propose regulations pursuant to section 303(y) of the Federal Mine Safety and Health Act of 1977 [30 U.S.C. 863(y)], consistent with the recommendations of the Technical Study Panel established pursuant to section 11 of the Mine Improvement and New Emergency Response (MINER) Act (Public Law 109–236) [enacting section 963 of this title], to require that in any coal mine, regardless of the date on which it was opened, belt haulage entries not be used to ventilate active working places without prior approval from the Assistant Secretary. Further, a mine ventilation plan incorporating the use of air coursed through belt haulage entries to ventilate active working places shall not be approved until the Assistant Secretary has reviewed the elements of the plan related to the use of belt air and determined that the plan at all times affords at least the same measure of protection where belt haulage entries are not used to ventilate working places. The Secretary shall finalize the regulations not later than December 31, 2008.”
 
-### § 864. Combustible materials and rock dusting
+### § 864. Combustible materials and rock dusting
 
 **(a) Accumulations; maintenance**
 
@@ -1769,7 +1769,7 @@ Where rock dust is required to be applied, it shall be distributed upon the top,
 
 Subsections (b) through (d) of this section shall not apply to underground anthracite mines.
 
-(Pub. L. 91–173, title III, § 304, Dec. 30, 1969, 83 Stat. 774.)
+(Pub. L. 91–173, title III, § 304, Dec. 30, 1969, 83 Stat. 774.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1777,7 +1777,7 @@ Subsections (b) through (d) of this section shall not apply to underground anthr
 
 Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
-### § 865. Electrical equipment
+### § 865. Electrical equipment
 
 **(a) Allowable equipment; replacements; maintenance; permits for noncompliance; renewals; limitations; list of electric face equipment; survey of new and rebuilt equipment; publication of results**
 
@@ -1889,7 +1889,7 @@ No device for the purpose of lighting any coal mine which has not been approved 
 
 An authorized representative of the Secretary may require in any mine that electric face equipment be provided with devices that will permit the equipment to be deenergized quickly in the event of an emergency.
 
-(Pub. L. 91–173, title III, § 305, Dec. 30, 1969, 83 Stat. 775.)
+(Pub. L. 91–173, title III, § 305, Dec. 30, 1969, 83 Stat. 775.)
 
 **Editorial Notes**
 
@@ -1903,7 +1903,7 @@ For the operative date of this subchapter, referred to in subsecs. (a)(1), (2), 
 
 Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
-### § 866. Trailing cables
+### § 866. Trailing cables
 
 **(a) Requirements established for flame resistant cables**
 
@@ -1937,7 +1937,7 @@ Trailing cables shall be clamped to machines in a manner to protect the cables f
 
 Trailing cable and power cable connections to junction boxes shall not be made or broken under load.
 
-(Pub. L. 91–173, title III, § 306, Dec. 30, 1969, 83 Stat. 779.)
+(Pub. L. 91–173, title III, § 306, Dec. 30, 1969, 83 Stat. 779.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1945,7 +1945,7 @@ Trailing cable and power cable connections to junction boxes shall not be made o
 
 Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
-### § 867. Grounding of equipment
+### § 867. Grounding of equipment
 
 **(a) Metallic enclosed power conductors; metallic frames and other equipment; methods**
 
@@ -1967,7 +1967,7 @@ High-voltage lines, both on the surface and underground, shall be deenergized an
 
 When not in use, power circuits underground shall be deenergized on idle days and idle shifts, except that rectifiers and transformers may remain energized.
 
-(Pub. L. 91–173, title III, § 307, Dec. 30, 1969, 83 Stat. 780.)
+(Pub. L. 91–173, title III, § 307, Dec. 30, 1969, 83 Stat. 780.)
 
 **Editorial Notes**
 
@@ -1981,7 +1981,7 @@ For the operative date of this subchapter, referred to in subsec. (d), see secti
 
 Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
-### § 868. Underground high-voltage distribution
+### § 868. Underground high-voltage distribution
 
 **(a) Circuits entering underground areas of mines; circuit breakers**
 
@@ -2037,7 +2037,7 @@ Frames, supporting structures, and enclosures of stationary, portable, or mobile
 
 Power centers and portable transformers shall be deenergized before they are moved from one location to another, except that, when equipment powered by sources other than such centers or transformers is not available, the Secretary may permit such centers and transformers to be moved while energized, if he determines that another equivalent or greater hazard may otherwise be created, and if they are moved under the supervision of a qualified person, and if such centers and transformers are examined prior to such movement by such person and found to be grounded by methods approved by an authorized representative of the Secretary and otherwise protected from hazards to the miner. A record shall be kept of such examinations. High-voltage cables, other than trailing cables, shall not be moved or handled at any time while energized, except that, when such centers and transformers are moved while energized as permitted under this subsection, energized high-voltage cables attached to such centers and transformers may be moved only by a qualified person and the operator of such mine shall require that such person wear approved and tested insulated wireman’s gloves.
 
-(Pub. L. 91–173, title III, § 308, Dec. 30, 1969, 83 Stat. 780.)
+(Pub. L. 91–173, title III, § 308, Dec. 30, 1969, 83 Stat. 780.)
 
 **Editorial Notes**
 
@@ -2051,7 +2051,7 @@ For the operative date of this subchapter, referred to in subsec. (d), see secti
 
 Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
-### § 869. Underground low- and medium-voltage alternating current circuits
+### § 869. Underground low- and medium-voltage alternating current circuits
 
 **(a) Circuits providing power for three-phase equipment; circuit breakers**
 
@@ -2081,7 +2081,7 @@ Circuit breakers shall be marked for identification.
 
 Trailing cables for medium voltage circuits shall include grounding conductors, a ground check conductor, and ground metallic shields around each power conductor or a grounded metallic shield over the assembly, except that on equipment employing cable reels, cables without shields may be used if the insulation is rated 2,000 volts or more.
 
-(Pub. L. 91–173, title III, § 309, Dec. 30, 1969, 83 Stat. 782.)
+(Pub. L. 91–173, title III, § 309, Dec. 30, 1969, 83 Stat. 782.)
 
 **Editorial Notes**
 
@@ -2095,7 +2095,7 @@ For the operative date of this subchapter, referred to in subsecs. (c) and (d), 
 
 Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
-### § 870. Trolley wires and trolley feeder wires
+### § 870. Trolley wires and trolley feeder wires
 
 **(a) Intervals for cutoff switches**
 
@@ -2113,7 +2113,7 @@ Trolley wires and trolley feeder wires, high-voltage cables and transformers sha
 
 Trolley wires, trolley feeder wires, and bare signal wires shall be insulated adequately where they pass through doors and stoppings, and where they cross other power wires and cables. Trolley wires and trolley feeder wires shall be guarded adequately (1) at all points where men are required to work or pass regularly under the wires; (2) on both sides of all doors and stoppings; and (3) at man-trip stations. The Secretary or his authorized representatives shall specify other conditions where trolley wires and trolley feeder wires shall be adequately protected to prevent contact by any person, or shall require the use of improved methods to prevent such contact. Temporary guards shall be provided where trackmen and other persons work in proximity to trolley wires and trolley feeder wires.
 
-(Pub. L. 91–173, title III, § 310, Dec. 30, 1969, 83 Stat. 783.)
+(Pub. L. 91–173, title III, § 310, Dec. 30, 1969, 83 Stat. 783.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2121,7 +2121,7 @@ Trolley wires, trolley feeder wires, and bare signal wires shall be insulated ad
 
 Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
-### § 871. Fire protection
+### § 871. Fire protection
 
 **(a) Firefighting equipment; promulgation of minimum requirements for equipment; existing requirements; examinations after blasting**
 
@@ -2155,7 +2155,7 @@ Underground belt conveyors shall be equipped with slippage and sequence switches
 
 On and after the operative date of this subchapter, all conveyor belts acquired for use underground shall meet the requirements to be established by the Secretary for flame-resistant conveyor belts.
 
-(Pub. L. 91–173, title III, § 311, Dec. 30, 1969, 83 Stat. 783; Pub. L. 102–285, § 10(b), May 18, 1992, 106 Stat. 172.)
+(Pub. L. 91–173, title III, § 311, Dec. 30, 1969, 83 Stat. 783; Pub. L. 102–285, § 10(b), May 18, 1992, 106 Stat. 172.)
 
 **Editorial Notes**
 
@@ -2173,7 +2173,7 @@ For the operative date of this subchapter, referred to subsecs. (a), (e), (g), a
 
 Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
-### § 872. Maps
+### § 872. Maps
 
 **(a) Fireproof repository; contents; certification**
 
@@ -2187,7 +2187,7 @@ The coal mine map and any revision and supplement thereof shall be available for
 
 Whenever an operator permanently closes or abandons a coal mine, or temporarily closes a coal mine for a period of more than ninety days, he shall promptly notify the Secretary of such closure. Within sixty days of the permanent closure or abandonment of the mine, or, when the mine is temporarily closed, upon the expiration of a period of ninety days from the date of closure, the operator shall file with the Secretary a copy of the mine map revised and supplemented to the date of the closure. Such copy of the mine map shall be certified by a registered surveyor or registered engineer of the State in which the mine is located and shall be available for public inspection.
 
-(Pub. L. 91–173, title III, § 312, Dec. 30, 1969, 83 Stat. 785.)
+(Pub. L. 91–173, title III, § 312, Dec. 30, 1969, 83 Stat. 785.)
 
 **Editorial Notes**
 
@@ -2201,7 +2201,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
-### § 873. Blasting and explosives
+### § 873. Blasting and explosives
 
 **(a) Limitations on storage and use of black powder and mudcaps**
 
@@ -2231,7 +2231,7 @@ When supplies of explosives and detonators for use in one or more working sectio
 
 Explosives and detonators stored in the working places shall be kept in separate closed containers which shall be located out of the line of blast and not less than fifty feet from the working face and fifteen feet from any pipeline, powerline, rail, or conveyor, except that, if kept in niches in the rib, the distance from any pipeline, powerline, rail, or conveyor shall be at least five feet. Such explosives and detonators, when stored, shall be separated by a distance of at least five feet.
 
-(Pub. L. 91–173, title III, § 313, Dec. 30, 1969, 83 Stat. 785.)
+(Pub. L. 91–173, title III, § 313, Dec. 30, 1969, 83 Stat. 785.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2239,7 +2239,7 @@ Explosives and detonators stored in the working places shall be kept in separate
 
 Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
-### § 874. Hoisting and mantrips
+### § 874. Hoisting and mantrips
 
 **(a) Transporting of persons; required equipment and capabilities; safety catches; daily examinations; operators**
 
@@ -2265,7 +2265,7 @@ Each locomotive and haulage car used in an underground coal mine shall be equipp
 
 All haulage equipment acquired by an operator of a coal mine on or after one year after the operative date of this subchapter shall be equipped with automatic couplers which couple by impact and uncouple without the necessity of persons going between the ends of such equipment. All haulage equipment without automatic couplers in use in a mine on the operative date of this subchapter shall also be so equipped within four years after the operative date of this subchapter.
 
-(Pub. L. 91–173, title III, § 314, Dec. 30, 1969, 83 Stat. 786.)
+(Pub. L. 91–173, title III, § 314, Dec. 30, 1969, 83 Stat. 786.)
 
 **Editorial Notes**
 
@@ -2279,11 +2279,11 @@ For the operative date of this subchapter, referred to in subsec. (f), see secti
 
 Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
-### § 875. Emergency shelters; construction; contents; implementation plans
+### § 875. Emergency shelters; construction; contents; implementation plans
 
 The Secretary or an authorized representative of the Secretary may prescribe in any coal mine that rescue chambers, properly sealed and ventilated, be erected at suitable locations in the mine to which persons may go in case of an emergency for protection against hazards. Such chambers shall be properly equipped with first aid materials, an adequate supply of air and self-contained breathing equipment, an independent communication system to the surface, and proper accommodations for the persons while awaiting rescue, and such other equipment as the Secretary may require. A plan for the erection, maintenance, and revisions of such chambers and the training of the miners in their proper use shall be submitted by the operator to the Secretary for his approval.
 
-(Pub. L. 91–173, title III, § 315, Dec. 30, 1969, 83 Stat. 787.)
+(Pub. L. 91–173, title III, § 315, Dec. 30, 1969, 83 Stat. 787.)
 
 **Editorial Notes**
 
@@ -2295,9 +2295,9 @@ Section operative 90 days after Dec. 30, 1969, except to the extent an earlier d
 
 **Regulations**
 
-Pub. L. 110–161, div. G, title I, § 112(b), Dec. 26, 2007, 121 Stat. 2168, provided that: “Not later than June 15, 2008, the Secretary of Labor shall propose regulations pursuant to section 315 of the Federal Coal Mine Health and Safety Act of 1969 [30 U.S.C. 875], consistent with the recommendations of the National Institute for Occupational Safety and Health pursuant to section 13 of the MINER Act (Public Law 109–236) [120 Stat. 504], requiring rescue chambers, or facilities that afford at least the same measure of protection, in underground coal mines. The Secretary shall finalize the regulations not later than December 31, 2008.”
+Pub. L. 110–161, div. G, title I, § 112(b), Dec. 26, 2007, 121 Stat. 2168, provided that: “Not later than June 15, 2008, the Secretary of Labor shall propose regulations pursuant to section 315 of the Federal Coal Mine Health and Safety Act of 1969 [30 U.S.C. 875], consistent with the recommendations of the National Institute for Occupational Safety and Health pursuant to section 13 of the MINER Act (Public Law 109–236) [120 Stat. 504], requiring rescue chambers, or facilities that afford at least the same measure of protection, in underground coal mines. The Secretary shall finalize the regulations not later than December 31, 2008.”
 
-### § 876. Communication facilities; locations and emergency response plans
+### § 876. Communication facilities; locations and emergency response plans
 
 **(a) In general**
 
@@ -2377,7 +2377,7 @@ In addition to the content requirements contained in subparagraph (E), and subje
 
 Not later than 3 years after June 15, 2006, a plan shall, to be approved, provide for post accident communication between underground and surface personnel via a wireless two-way medium, and provide for an electronic tracking system permitting surface personnel to determine the location of any persons trapped underground or set forth within the plan the reasons such provisions can not be adopted. Where such plan sets forth the reasons such provisions can not be adopted, the plan shall also set forth the operator’s alternative means of compliance. Such alternative shall approximate, as closely as possible, the degree of functional utility and safety protection provided by the wireless two-way medium and tracking system referred to in this subpart.1
 
-<sup>1</sup>  So in original. Probably should be “subparagraph”.
+<sup>1</sup> So in original. Probably should be “subparagraph”.
 
 **(G) Plan dispute resolution**
 
@@ -2397,7 +2397,7 @@ A party adversely affected by a decision under clause (ii) may pursue all furthe
 
 Notwithstanding any other provision of this chapter, nothing in this section, and no response and preparedness plan developed under this section, shall be approved if it reduces the protection afforded miners by an existing mandatory health or safety standard.
 
-(Pub. L. 91–173, title III, § 316, Dec. 30, 1969, 83 Stat. 787; Pub. L. 109–236, § 2, June 15, 2006, 120 Stat. 493.)
+(Pub. L. 91–173, title III, § 316, Dec. 30, 1969, 83 Stat. 787; Pub. L. 109–236, § 2, June 15, 2006, 120 Stat. 493.)
 
 **Editorial Notes**
 
@@ -2415,7 +2415,7 @@ This chapter, referred to in subsec. (b)(2)(C)(iv), (H), was in the original “
 
 Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
-### § 877. General safety provisions
+### § 877. General safety provisions
 
 **(a) Location of oil and gas wells; establishment and maintenance of barriers; minimum requisites; exceptions**
 
@@ -2503,7 +2503,7 @@ An adequate supply of potable water shall be provided for drinking purposes in t
 
 Within one year after the operative date of this subchapter, the Secretary shall propose standards for preventing explosions from explosive gases other than methane and for testing for accumulations of such gases.
 
-(Pub. L. 91–173, title III, § 317, Dec. 30, 1969, 83 Stat. 787; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 91–173, title III, § 317, Dec. 30, 1969, 83 Stat. 787; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Editorial Notes**
 
@@ -2523,7 +2523,7 @@ This chapter, referred to in subsec. (i), was in the original “this Act”, me
 
 Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under section 801 of this title.
 
-### § 878. Definitions
+### § 878. Definitions
 
 For the purpose of this subchapter and subchapter II of this chapter, the term—
 
@@ -2565,11 +2565,11 @@ For the purpose of this subchapter and subchapter II of this chapter, the term�
 
 **(j)** “low voltage” means up to and including 660 volts; “medium voltage” means voltages from 661 to 1,000 volts; and “high voltage” means more than 1,000 volts;
 
-**(k)** Repealed. Pub. L. 95–164, title II, § 202(b), Nov. 9, 1977, 91 Stat. 1317.
+**(k)** Repealed. Pub. L. 95–164, title II, § 202(b), Nov. 9, 1977, 91 Stat. 1317.
 
 **(l)** “coal mine” includes areas of adjoining mines connected underground.
 
-(Pub. L. 91–173, title III, § 318, Dec. 30, 1969, 83 Stat. 791; Pub. L. 95–164, title II, § 202(b), Nov. 9, 1977, 91 Stat. 1317; Pub. L. 102–285, § 10(b), May 18, 1992, 106 Stat. 172.)
+(Pub. L. 91–173, title III, § 318, Dec. 30, 1969, 83 Stat. 791; Pub. L. 95–164, title II, § 202(b), Nov. 9, 1977, 91 Stat. 1317; Pub. L. 102–285, § 10(b), May 18, 1992, 106 Stat. 172.)
 
 **Editorial Notes**
 
@@ -2601,13 +2601,13 @@ Section operative 90 days after Dec. 30, 1969, except to the extent an earlier d
 
 ### Part A—General Provisions
 
-#### § 901. Congressional findings and declaration of purpose; short title
+#### § 901. Congressional findings and declaration of purpose; short title
 
 **(a)** Congress finds and declares that there are a significant number of coal miners living today who are totally disabled due to pneumoconiosis arising out of employment in one or more of the Nation’s coal mines; that there are a number of survivors of coal miners whose deaths were due to this disease; and that few States provide benefits for death or disability due to this disease to coal miners or their surviving dependents. It is, therefore, the purpose of this subchapter to provide benefits, in cooperation with the States, to coal miners who are totally disabled due to pneumoconiosis and to the surviving dependents of miners whose death was due to such disease; and to ensure that in the future adequate benefits are provided to coal miners and their dependents in the event of their death or total disability due to pneumoconiosis.
 
 **(b)** This subchapter may be cited as the “Black Lung Benefits Act”.
 
-(Pub. L. 91–173, title IV, § 401, Dec. 30, 1969, 83 Stat. 792; Pub. L. 92–303, §§ 3(a), 4(b)(2), May 19, 1972, 86 Stat. 153, 154; Pub. L. 95–239, § 16, Mar. 1, 1978, 92 Stat. 105; Pub. L. 97–119, title II, § 203(a)(4), Dec. 29, 1981, 95 Stat. 1644.)
+(Pub. L. 91–173, title IV, § 401, Dec. 30, 1969, 83 Stat. 792; Pub. L. 92–303, §§ 3(a), 4(b)(2), May 19, 1972, 86 Stat. 153, 154; Pub. L. 95–239, § 16, Mar. 1, 1978, 92 Stat. 105; Pub. L. 97–119, title II, § 203(a)(4), Dec. 29, 1981, 95 Stat. 1644.)
 
 **Editorial Notes**
 
@@ -2617,21 +2617,21 @@ Section operative 90 days after Dec. 30, 1969, except to the extent an earlier d
 
 1978—Pub. L. 95–239 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1972—Pub. L. 92–303, § 3(a), inserted “or who were totally disabled by this disease at the time of their deaths” after “disease” the first and third times it appeared and struck out “underground” before “coal mines”.
+1972—Pub. L. 92–303, § 3(a), inserted “or who were totally disabled by this disease at the time of their deaths” after “disease” the first and third times it appeared and struck out “underground” before “coal mines”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–119, title II, § 206(a), Dec. 29, 1981, 95 Stat. 1645, provided that: “Except as otherwise provided, the provisions of this title [see Short Title of 1981 Amendment note set out under section 801 of this title] shall take effect on January 1, 1982.”
+Pub. L. 97–119, title II, § 206(a), Dec. 29, 1981, 95 Stat. 1645, provided that: “Except as otherwise provided, the provisions of this title [see Short Title of 1981 Amendment note set out under section 801 of this title] shall take effect on January 1, 1982.”
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–239, § 20(a), Mar. 1, 1978, 92 Stat. 106, provided that: “The provisions of this Act [see Short Title of 1978 Amendment note set out under section 801 of this title] shall take effect on the date of enactment of this Act [Mar. 1, 1978].”
+Pub. L. 95–239, § 20(a), Mar. 1, 1978, 92 Stat. 106, provided that: “The provisions of this Act [see Short Title of 1978 Amendment note set out under section 801 of this title] shall take effect on the date of enactment of this Act [Mar. 1, 1978].”
 
 **Effective Date of 1972 Amendment**
 
-Pub. L. 92–303, § 3(c), May 19, 1972, 86 Stat. 153, provided that: “The amendments made by this section [amending this section and sections 902, 921, 932, and 933 of this title] shall be effective as of December 30, 1969.”
+Pub. L. 92–303, § 3(c), May 19, 1972, 86 Stat. 153, provided that: “The amendments made by this section [amending this section and sections 902, 921, 932, and 933 of this title] shall be effective as of December 30, 1969.”
 
 Amendment by section 4(b)(2) of Pub. L. 92–303 effective Dec. 30, 1969, see section 4(g) of Pub. L. 92–303, set out as a note under section 921 of this title.
 
@@ -2641,7 +2641,7 @@ Subchapter effective Dec. 30, 1969, see section 509 of Pub. L. 91–173, set out
 
 **Separability**
 
-Pub. L. 97–119, title II, § 206(b), Dec. 29, 1981, 95 Stat. 1645, provided that: “If any provision of this title [see Short Title of 1981 Amendment note, set out under section 801 of this title], or the application of such provision to any person or circumstance, shall be held invalid, the remainder of this title, or the application of such provision to persons or circumstances other than those to which it is held invalid, shall not be affected thereby.”
+Pub. L. 97–119, title II, § 206(b), Dec. 29, 1981, 95 Stat. 1645, provided that: “If any provision of this title [see Short Title of 1981 Amendment note, set out under section 801 of this title], or the application of such provision to any person or circumstance, shall be held invalid, the remainder of this title, or the application of such provision to persons or circumstances other than those to which it is held invalid, shall not be affected thereby.”
 
 **Special Benefits for Disabled Coal Miners**
 
@@ -2649,13 +2649,13 @@ Pub. L. 102–394, title II, Oct. 6, 1992, 106 Stat. 1806, provided that: “For
 
 **Study of Current Medical Methods for Diagnosis of Pneumoconiosis and Nature and Extent of Impairment Attributable to Simple and Complicated Pneumoconiosis; Report to Congress**
 
-Pub. L. 97–119, title II, § 202(e), Dec. 29, 1981, 95 Stat. 1643, directed Secretary of Labor, in consultation with Secretary of Health and Human Services, to undertake a study of current medical methods for diagnosis of pneumoconiosis, and of nature and extent of impairment and disability that are attributable to the existence of both simple and complicated pneumoconiosis, with study, together with appropriate recommendations, to be transmitted to Congress no later than eighteen months after Jan. 1, 1982.
+Pub. L. 97–119, title II, § 202(e), Dec. 29, 1981, 95 Stat. 1643, directed Secretary of Labor, in consultation with Secretary of Health and Human Services, to undertake a study of current medical methods for diagnosis of pneumoconiosis, and of nature and extent of impairment and disability that are attributable to the existence of both simple and complicated pneumoconiosis, with study, together with appropriate recommendations, to be transmitted to Congress no later than eighteen months after Jan. 1, 1982.
 
 **Study of Benefits Under This Subchapter, Other Benefits Received, and Benefits if State Workers’ Compensation Programs Applicable; Report to Congress**
 
-Pub. L. 97–119, title II, § 203(c), Dec. 29, 1981, 95 Stat. 1644, directed Secretary of Labor to undertake a study of the benefits provided by this subchapter, other benefits received by individuals who receive benefits under this subchapter, and benefits which would be received were State workers’ compensation programs applicable in lieu of benefits under this subchapter, with study, together with appropriate recommendations, to be transmitted to Congress no later than eighteen months after Jan. 1, 1982.
+Pub. L. 97–119, title II, § 203(c), Dec. 29, 1981, 95 Stat. 1644, directed Secretary of Labor to undertake a study of the benefits provided by this subchapter, other benefits received by individuals who receive benefits under this subchapter, and benefits which would be received were State workers’ compensation programs applicable in lieu of benefits under this subchapter, with study, together with appropriate recommendations, to be transmitted to Congress no later than eighteen months after Jan. 1, 1982.
 
-#### § 902. Definitions
+#### § 902. Definitions
 
 For purposes of this subchapter—
 
@@ -2673,7 +2673,7 @@ For purposes of this subchapter—
 
 **(e)** The term “widow” includes the wife living with or dependent for support on the miner at the time of his death, or living apart for reasonable cause or because of his desertion, or who meets the requirements of section 416(c)(1), (2), (3), (4), or (5),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and section 416(k) of title 42, who is not married. The determination of an individual’s status as the “widow” of a miner shall be made in accordance with section 416(h)(1) of title 42 as if such miner were the “insured individual” referred to therein. Such term also includes a “surviving divorced wife” as defined in section 416(d)(2) of title 42 who for the month preceding the month in which the miner died, was receiving at least one-half of her support, as determined in accordance with regulations prescribed by the Secretary, from the miner, or was receiving substantial contributions from the miner (pursuant to a written agreement) or there was in effect a court order for substantial contributions to her support from the miner at the time of his death.
 
@@ -2691,9 +2691,9 @@ and section 416(k) of title 42, who is not married. The determination of an indi
 
 **(2)** Criteria applied by the Secretary of Labor in the case of—
 
-**(A)** any claim arising under part B of this subchapter or subject to a determination by the Secretary of Labor under section 945(a) <sup>1</sup> of this title;
+**(A)** any claim arising under part B of this subchapter or subject to a determination by the Secretary of Labor under section 945(a) <sup>1</sup> of this title;
 
-**(B)** any claim which is subject to review by the Secretary of Labor under section 945(b) <sup>1</sup> of this title; and
+**(B)** any claim which is subject to review by the Secretary of Labor under section 945(b) <sup>1</sup> of this title; and
 
 **(C)** any claim filed on or before the effective date of regulations promulgated under this subsection by the Secretary of Labor;
 
@@ -2725,53 +2725,53 @@ The term “student” means a “full-time student” as defined in section 402
 
 **(2)** in which (A) the claimant was notified by the Department of Labor of an administrative or informal denial more than 1 year prior to March 1, 1978, and did not, within 1 year from the date of notification of such denial, request a hearing, present additional evidence or indicate an intention to present additional evidence, or (B) the claim was denied under the law in effect prior to March 1, 1978, following a formal hearing or administrative or judicial review proceeding.
 
-(Pub. L. 91–173, title IV, § 402, Dec. 30, 1969, 83 Stat. 792; Pub. L. 92–303, §§ 1(c)(2)–(4), 3(b), 4(a), May 19, 1972, 86 Stat. 151–153; Pub. L. 95–239, § 2, Mar. 1, 1978, 92 Stat. 95; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–119, title I, § 104(b)(1), title II, § 205(b), Dec. 29, 1981, 95 Stat. 1639, 1645; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–296, title I, § 108(i)(1), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 107–275, § 2(b)(1), Nov. 2, 2002, 116 Stat. 1925.)
+(Pub. L. 91–173, title IV, § 402, Dec. 30, 1969, 83 Stat. 792; Pub. L. 92–303, §§ 1(c)(2)–(4), 3(b), 4(a), May 19, 1972, 86 Stat. 151–153; Pub. L. 95–239, § 2, Mar. 1, 1978, 92 Stat. 95; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–119, title I, § 104(b)(1), title II, § 205(b), Dec. 29, 1981, 95 Stat. 1639, 1645; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–296, title I, § 108(i)(1), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 107–275, § 2(b)(1), Nov. 2, 2002, 116 Stat. 1925.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 416(c)(1), (2), (3), (4), or (5) of title 42, referred to in subsec. (e), was redesignated section 416(c)(1)(A), (B), (C), (D), and (E) by Pub. L. 108–203, title IV, § 414(a)(2), (4), Mar. 2, 2004, 118 Stat. 529.
+Section 416(c)(1), (2), (3), (4), or (5) of title 42, referred to in subsec. (e), was redesignated section 416(c)(1)(A), (B), (C), (D), and (E) by Pub. L. 108–203, title IV, § 414(a)(2), (4), Mar. 2, 2004, 118 Stat. 529.
 
-Section 945 of this title, referred to in subsec. (f)(2)(A), (B), was repealed by Pub. L. 107–275, § 2(c)(1), Nov. 2, 2002, 116 Stat. 1926.
+Section 945 of this title, referred to in subsec. (f)(2)(A), (B), was repealed by Pub. L. 107–275, § 2(c)(1), Nov. 2, 2002, 116 Stat. 1926.
 
 **Amendments**
 
-2002—Subsec. (c). Pub. L. 107–275, § 2(b)(1)(A), substituted “, except where expressly otherwise provided,” for “where used in part C”.
+2002—Subsec. (c). Pub. L. 107–275, § 2(b)(1)(A), substituted “, except where expressly otherwise provided,” for “where used in part C”.
 
-Subsec. (f)(1). Pub. L. 107–275, § 2(b)(1)(B), inserted “, which were in effect on November 2, 2002,” after “Secretary of Health and Human Services”.
+Subsec. (f)(1). Pub. L. 107–275, § 2(b)(1)(B), inserted “, which were in effect on November 2, 2002,” after “Secretary of Health and Human Services”.
 
-Subsec. (f)(2)(A). Pub. L. 107–275, § 2(b)(1)(C)(ii), struck out comma after “Secretary of Labor”.
+Subsec. (f)(2)(A). Pub. L. 107–275, § 2(b)(1)(C)(ii), struck out comma after “Secretary of Labor”.
 
-Pub. L. 107–275, § 2(b)(1)(C)(i), substituted “arising under part B of this subchapter” for “which is subject to review by the Secretary of Health and Human Services,”.
+Pub. L. 107–275, § 2(b)(1)(C)(i), substituted “arising under part B of this subchapter” for “which is subject to review by the Secretary of Health and Human Services,”.
 
-Subsec. (i)(1). Pub. L. 107–275, § 2(b)(1)(D), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “denied by the Social Security Administration; or”.
+Subsec. (i)(1). Pub. L. 107–275, § 2(b)(1)(D), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “denied by the Social Security Administration; or”.
 
 1994—Subsec. (c). Pub. L. 103–296 substituted “where used in part C means the Secretary of Labor” for “where used in part B means the Secretary of Health, Education, and Welfare, and where used in part C means the Secretary of Labor”.
 
 1986—Subsecs. (h), (i). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1981—Subsec. (h). Pub. L. 97–119, § 104(b)(1), substituted “by section 9501 of title 26” for “in section 934a(a)(1) of this title”.
+1981—Subsec. (h). Pub. L. 97–119, § 104(b)(1), substituted “by section 9501 of title 26” for “in section 934a(a)(1) of this title”.
 
-Subsec. (i). Pub. L. 97–119, § 205(b), added subsec. (i).
+Subsec. (i). Pub. L. 97–119, § 205(b), added subsec. (i).
 
-1978—Subsec. (b). Pub. L. 95–239, § 2(a), substituted “a chronic dust disease of the lung and its sequelae, including respiratory and pulmonary impairments, arising out of coal mine employment” for “a chronic dust disease of the lung arising out of employment in a coal mine”.
+1978—Subsec. (b). Pub. L. 95–239, § 2(a), substituted “a chronic dust disease of the lung and its sequelae, including respiratory and pulmonary impairments, arising out of coal mine employment” for “a chronic dust disease of the lung arising out of employment in a coal mine”.
 
-Subsec. (d). Pub. L. 95–239, § 2(b), substituted “any individual who works or has worked in or around a coal mine or coal preparation facility in the extraction or preparation of coal” for “any individual who is or was employed in a coal mine” and inserted provisions that extended to definition of the term “miner” so as to include also an individual who works or has worked in coal mine construction or transportation in or around a coal mine, to the extent that such individual was exposed to coal dust as a result of such employment.
+Subsec. (d). Pub. L. 95–239, § 2(b), substituted “any individual who works or has worked in or around a coal mine or coal preparation facility in the extraction or preparation of coal” for “any individual who is or was employed in a coal mine” and inserted provisions that extended to definition of the term “miner” so as to include also an individual who works or has worked in coal mine construction or transportation in or around a coal mine, to the extent that such individual was exposed to coal dust as a result of such employment.
 
-Subsec. (f). Pub. L. 95–239, § 2(c), designated existing provisions as pars. (1)(A) and (1)(C), inserted references in the provisions preceding par. (1)(A) to regulations promulgated by the Secretary of Labor for claims under part C of this subchapter and to the relevant provisions of subsecs. (b) and (d) of section 923 of this title, and added pars. (1)(B), (1)(D), and (2).
+Subsec. (f). Pub. L. 95–239, § 2(c), designated existing provisions as pars. (1)(A) and (1)(C), inserted references in the provisions preceding par. (1)(A) to regulations promulgated by the Secretary of Labor for claims under part C of this subchapter and to the relevant provisions of subsecs. (b) and (d) of section 923 of this title, and added pars. (1)(B), (1)(D), and (2).
 
-Subsec. (h). Pub. L. 95–239, § 2(d), added subsec. (h).
+Subsec. (h). Pub. L. 95–239, § 2(d), added subsec. (h).
 
-1972—Subsec. (a). Pub. L. 92–303, § 1(c)(2), expanded definition of “dependent” to include children and wife without reference to section 8110 of title 5.
+1972—Subsec. (a). Pub. L. 92–303, § 1(c)(2), expanded definition of “dependent” to include children and wife without reference to section 8110 of title 5.
 
-Subsecs. (b), (d). Pub. L. 92–303, § 3(b), substituted “a coal mine” for “an underground coal mine”.
+Subsecs. (b), (d). Pub. L. 92–303, § 3(b), substituted “a coal mine” for “an underground coal mine”.
 
-Subsec. (e). Pub. L. 92–303, § 1(c)(3), expanded definition of “widow” by reference to title 42 and provided procedure for the determination of the status.
+Subsec. (e). Pub. L. 92–303, § 1(c)(3), expanded definition of “widow” by reference to title 42 and provided procedure for the determination of the status.
 
-Subsec. (f). Pub. L. 92–303, § 4(a), expanded definition of “total disability” to include a miner prevented from engaging in gainful employment by pneumoconiosis.
+Subsec. (f). Pub. L. 92–303, § 4(a), expanded definition of “total disability” to include a miner prevented from engaging in gainful employment by pneumoconiosis.
 
-Subsec. (g). Pub. L. 92–303, § 1(c)(4), added subsec. (g).
+Subsec. (g). Pub. L. 92–303, § 1(c)(4), added subsec. (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2781,7 +2781,7 @@ Subsec. (g). Pub. L. 92–303, § 1(c)(4), added subsec. (g).
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–275, § 4, Nov. 2, 2002, 116 Stat. 1928, provided that: “This Act [amending this section and sections 921 to 924, 925, 932a, and 936 of this title, repealing sections 904, 924a, and 945 of this title, and enacting provisions set out as notes under sections 801 and 921 of this title], and the amendments made by this Act, shall take effect 90 days after the date of enactment of this Act [Nov. 2, 2002].”
+Pub. L. 107–275, § 4, Nov. 2, 2002, 116 Stat. 1928, provided that: “This Act [amending this section and sections 921 to 924, 925, 932a, and 936 of this title, repealing sections 904, 924a, and 945 of this title, and enacting provisions set out as notes under sections 801 and 921 of this title], and the amendments made by this Act, shall take effect 90 days after the date of enactment of this Act [Nov. 2, 2002].”
 
 **Effective Date of 1994 Amendment**
 
@@ -2801,13 +2801,13 @@ Amendment by section 3(b) of Pub. L. 92–303 effective Dec. 30, 1969, see secti
 
 Amendment by section 4(a) of Pub. L. 92–303 effective Dec. 30, 1969, see section 4(g) of Pub. L. 92–303, set out as a note under section 921 of this title.
 
-#### § 903. Field offices
+#### § 903. Field offices
 
 **(a)** The Secretary of Labor shall establish and operate such field offices as may be necessary to assist miners and survivors of miners in the filing and processing of claims under this subchapter. Such field offices shall, to the extent feasible, be reasonably accessible to such miners and survivors. The Secretary, in connection with the establishment and operation of field offices, may enter into arrangements with other Federal departments and agencies, and with State agencies, for the use of existing facilities operated by such departments and agencies. Where the establishment of separate facilities is not feasible the Secretary may enter into such arrangements as he deems necessary with the heads of Federal departments, agencies, and instrumentalities and with State agencies for the use of existing facilities and personnel under their control.
 
 **(b)** There are authorized to be appropriated for the purposes of subsection (a) such sums as may be necessary.
 
-(Pub. L. 95–239, § 18, Mar. 1, 1978, 92 Stat. 105.)
+(Pub. L. 95–239, § 18, Mar. 1, 1978, 92 Stat. 105.)
 
 **Editorial Notes**
 
@@ -2821,9 +2821,9 @@ Section was enacted as part of the Black Lung Benefits Reform Act of 1977, and n
 
 Section effective Mar. 1, 1978, see section 20(a) of Pub. L. 95–239, set out as an Effective Date of 1978 Amendment note under section 901 of this title.
 
-#### § 904. Repealed. Pub. L. 107–275, § 2(c)(2), Nov. 2, 2002, 116 Stat. 1926
+#### § 904. Repealed. Pub. L. 107–275, § 2(c)(2), Nov. 2, 2002, 116 Stat. 1926
 
-Section, Pub. L. 95–239, § 19, Mar. 1, 1978, 92 Stat. 106, related to providing information to potential beneficiaries of changes made by Black Lung Benefits Reform Act of 1977.
+Section, Pub. L. 95–239, § 19, Mar. 1, 1978, 92 Stat. 106, related to providing information to potential beneficiaries of changes made by Black Lung Benefits Reform Act of 1977.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2833,7 +2833,7 @@ Repeal effective 90 days after Nov. 2, 2002, see section 4 of Pub. L. 107–275,
 
 ### Part B—Claims for Benefits Filed on or Before December 31, 1973
 
-#### § 921. Regulations and presumptions
+#### § 921. Regulations and presumptions
 
 **(a) Promulgation; payment of benefits**
 
@@ -2851,13 +2851,13 @@ The Secretary shall by regulation prescribe standards for determining for purpos
 
 **(3)** If a miner is suffering or suffered from a chronic dust disease of the lung which (A) when diagnosed by chest roentgenogram, yields one or more large opacities (greater than one centimeter in diameter) and would be classified in category A, B, or C in the International Classification of Radiographs of the Pneumoconioses by the International Labor Organization, (B) when diagnosed by biopsy or autopsy, yields massive lesions in the lung, or (C) when diagnosis is made by other means, would be a condition which could reasonably be expected to yield results described in clause (A) or (B) if diagnosis had been made in the manner prescribed in clause (A) or (B), then there shall be an irrebuttable presumption that he is totally disabled due to pneumoconiosis or that his death was due to pneumoconiosis, or that at the time of his death he was totally disabled by pneumoconiosis.1
 
-<sup>1</sup>  So in original. The period probably should be a comma.
+<sup>1</sup> So in original. The period probably should be a comma.
 
 as the case may be.
 
-**(4)** if 2
+**(4)** if 2
 
-<sup>2</sup>  So in original. Probably should be capitalized.
+<sup>2</sup> So in original. Probably should be capitalized.
 
 a miner was employed for fifteen years or more in one or more underground coal mines, and if there is a chest roentgenogram submitted in connection with such miner’s, his widow’s, his child’s, his parent’s, his brother’s, his sister’s, or his dependent’s claim under this subchapter and it is interpreted as negative with respect to the requirements of paragraph (3) of this subsection, and if other evidence demonstrates the existence of a totally disabling respiratory or pulmonary impairment, then there shall be a rebuttable presumption that such miner is totally disabled due to pneumoconiosis, that his death was due to pneumoconiosis, or that at the time of his death he was totally disabled by pneumoconiosis. In the case of a living miner, a wife’s affidavit may not be used by itself to establish the presumption. The Secretary shall not apply all or a portion of the requirement of this paragraph that the miner work in an underground mine where he determines that conditions of a miner’s employment in a coal mine other than an underground mine were substantially similar to conditions in an underground mine. The Secretary may rebut such presumption only by establishing that (A) such miner does not, or did not, have pneumoconiosis, or that (B) his respiratory or pulmonary impairment did not arise out of, or in connection with, employment in a coal mine.
 
@@ -2867,7 +2867,7 @@ a miner was employed for fifteen years or more in one or more underground coal m
 
 Nothing in subsection (c) shall be deemed to affect the applicability of subsection (a) in the case of a claim where the presumptions provided for therein are inapplicable.
 
-(Pub. L. 91–173, title IV, § 411, Dec. 30, 1969, 83 Stat. 793; Pub. L. 92–303, §§ 3(a), 4(b)(1), (3), (c), (d), May 19, 1972, 86 Stat. 153, 154; Pub. L. 95–239, § 3(a), Mar. 1, 1978, 92 Stat. 96; Pub. L. 97–119, title II, §§ 202(b), 203(a)(5), Dec. 29, 1981, 95 Stat. 1643, 1644; Pub. L. 103–296, title I, § 108(i)(2), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 107–275, § 2(a), Nov. 2, 2002, 116 Stat. 1925; Pub. L. 111–148, title I, § 1556(a), Mar. 23, 2010, 124 Stat. 260.)
+(Pub. L. 91–173, title IV, § 411, Dec. 30, 1969, 83 Stat. 793; Pub. L. 92–303, §§ 3(a), 4(b)(1), (3), (c), (d), May 19, 1972, 86 Stat. 153, 154; Pub. L. 95–239, § 3(a), Mar. 1, 1978, 92 Stat. 96; Pub. L. 97–119, title II, §§ 202(b), 203(a)(5), Dec. 29, 1981, 95 Stat. 1643, 1644; Pub. L. 103–296, title I, § 108(i)(2), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 107–275, § 2(a), Nov. 2, 2002, 116 Stat. 1925; Pub. L. 111–148, title I, § 1556(a), Mar. 23, 2010, 124 Stat. 260.)
 
 **Editorial Notes**
 
@@ -2883,29 +2883,29 @@ The effective date of the Black Lung Benefits Amendments of 1981, referred to in
 
 1994—Subsecs. (a), (b), (c)(4), (5). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
 
-1981—Subsec. (a). Pub. L. 97–119, § 203(a)(5), inserted “, except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Benefits Amendments of 1981,” after “pneumoconiosis or”.
+1981—Subsec. (a). Pub. L. 97–119, § 203(a)(5), inserted “, except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Benefits Amendments of 1981,” after “pneumoconiosis or”.
 
-Subsec. (c)(2), (4). Pub. L. 97–119, § 202(b)(1), inserted provision that this paragraph not apply with respect to claims filed on or after the effective date of the Black Lung Benefits Amendments of 1981.
+Subsec. (c)(2), (4). Pub. L. 97–119, § 202(b)(1), inserted provision that this paragraph not apply with respect to claims filed on or after the effective date of the Black Lung Benefits Amendments of 1981.
 
-Subsec. (c)(5). Pub. L. 97–119, § 202(b)(2), inserted provision that this paragraph not apply with respect to claims filed on or after the day that is 180 days after the effective date of the Black Lung Benefits Amendments of 1981.
+Subsec. (c)(5). Pub. L. 97–119, § 202(b)(2), inserted provision that this paragraph not apply with respect to claims filed on or after the day that is 180 days after the effective date of the Black Lung Benefits Amendments of 1981.
 
 1978—Subsec. (c). Pub. L. 95–239 capitalized and repunctuated the existing paragraphs to change their construction from that of uncapitalized clauses to complete sentences, and added par. (5).
 
-1972—Subsec. (a). Pub. L. 92–303, § 4(b)(1), substituted “pneumoconiosis or who at the time of his death was totally disabled by pneumoconiosis” for “pneumoconiosis”.
+1972—Subsec. (a). Pub. L. 92–303, § 4(b)(1), substituted “pneumoconiosis or who at the time of his death was totally disabled by pneumoconiosis” for “pneumoconiosis”.
 
-Subsec. (b). Pub. L. 92–303, § 4(d), inserted provision for the promulgation and publication in the Federal Register of final regulations and their amendments and for time limits for publication.
+Subsec. (b). Pub. L. 92–303, § 4(d), inserted provision for the promulgation and publication in the Federal Register of final regulations and their amendments and for time limits for publication.
 
-Subsec. (c)(1), (2). Pub. L. 92–303, § 3(a), substituted “coal mines” for “underground coal mines”.
+Subsec. (c)(1), (2). Pub. L. 92–303, § 3(a), substituted “coal mines” for “underground coal mines”.
 
-Subsec. (c)(3). Pub. L. 92–303, § 4(b)(3), inserted presumption that at the time of death the miner was totally disabled by pneumoconiosis.
+Subsec. (c)(3). Pub. L. 92–303, § 4(b)(3), inserted presumption that at the time of death the miner was totally disabled by pneumoconiosis.
 
-Subsec. (c)(4). Pub. L. 92–303, § 4(c), added par. (4).
+Subsec. (c)(4). Pub. L. 92–303, § 4(c), added par. (4).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–148, title I, § 1556(c), Mar. 23, 2010, 124 Stat. 260, provided that: “The amendments made by this section [amending this section and section 932 of this title] shall apply with respect to claims filed under part B or part C of the Black Lung Benefits Act (30 U.S.C. 921 et seq., 931 et seq.) after January 1, 2005, that are pending on or after the date of enactment of this Act [Mar. 23, 2010].”
+Pub. L. 111–148, title I, § 1556(c), Mar. 23, 2010, 124 Stat. 260, provided that: “The amendments made by this section [amending this section and section 932 of this title] shall apply with respect to claims filed under part B or part C of the Black Lung Benefits Act (30 U.S.C. 921 et seq., 931 et seq.) after January 1, 2005, that are pending on or after the date of enactment of this Act [Mar. 23, 2010].”
 
 **Effective Date of 2002 Amendment**
 
@@ -2927,11 +2927,11 @@ Amendment by Pub. L. 95–239 effective Mar. 1, 1978, see section 20(a) of Pub. 
 
 Amendment by section 3(a) of Pub. L. 92–303 effective Dec. 30, 1969, see section 3(c) of Pub. L. 92–303, set out as a note under section 901 of this title.
 
-Pub. L. 92–303, § 4(g), May 19, 1972, 86 Stat. 154, provided that: “The amendments made by this section [amending this section and sections 901, 902, 923, and 931 of this title] shall be effective as of December 30, 1969.”
+Pub. L. 92–303, § 4(g), May 19, 1972, 86 Stat. 154, provided that: “The amendments made by this section [amending this section and sections 901, 902, 923, and 931 of this title] shall be effective as of December 30, 1969.”
 
 **Transitional Provisions**
 
-Pub. L. 107–275, § 3, Nov. 2, 2002, 116 Stat. 1926, provided that:
+Pub. L. 107–275, § 3, Nov. 2, 2002, 116 Stat. 1926, provided that:
 
 > **“(a) Applicability.—** This section shall apply to the transfer of all functions relating to the administration of part B of subchapter IV (30 U.S.C. 901 et seq.) [probably means 30 U.S.C. 921 et seq.] from the Commissioner of Social Security (hereinafter in this section referred to as the ‘Commissioner’) to the Secretary of Labor, as provided by this Act [see Short Title of 2002 Amendment note set out under section 801 of this title].
 
@@ -2989,7 +2989,7 @@ Pub. L. 107–275, § 3, Nov. 2, 2002, 116 Stat. 1926, provided that:
 
 > **“(g) Preservation of Penalties, etc.—** The transfer of functions under this Act shall not release or extinguish any penalty, forfeiture, liability, prosecution, investigation, or right to initiate a future investigation or prosecution involving any function transferred by this Act.”
 
-#### § 922. Payment of benefits
+#### § 922. Payment of benefits
 
 **(a) Schedules** Subject to the provisions of subsection (b) of this section, benefit payments shall be made by the Secretary under this part as follows:
 
@@ -3031,7 +3031,7 @@ Notwithstanding subsection (a), benefit payments under this section to a miner o
 
 Benefits payable under this part shall be deemed not to be income for purposes of the Internal Revenue Code of 1986.
 
-(Pub. L. 91–173, title IV, § 412, Dec. 30, 1969, 83 Stat. 794; Pub. L. 92–303, §§ 1(b)(1), (2), (c)(1), 2(a), May 19, 1972, 86 Stat. 150, 151, 153; Pub. L. 95–239, §§ 3(b)(1), 4, Mar. 1, 1978, 92 Stat. 96, 97; Pub. L. 97–119, title II, § 203(a)(1)–(3), (d), Dec. 29, 1981, 95 Stat. 1643, 1644; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–296, title I, § 108(i)(2), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 107–275, § 2(a), Nov. 2, 2002, 116 Stat. 1925.)
+(Pub. L. 91–173, title IV, § 412, Dec. 30, 1969, 83 Stat. 794; Pub. L. 92–303, §§ 1(b)(1), (2), (c)(1), 2(a), May 19, 1972, 86 Stat. 150, 151, 153; Pub. L. 95–239, §§ 3(b)(1), 4, Mar. 1, 1978, 92 Stat. 96, 97; Pub. L. 97–119, title II, § 203(a)(1)–(3), (d), Dec. 29, 1981, 95 Stat. 1643, 1644; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–296, title I, § 108(i)(2), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 107–275, § 2(a), Nov. 2, 2002, 116 Stat. 1925.)
 
 **Editorial Notes**
 
@@ -3041,7 +3041,7 @@ Grade GS–2, referred to in subsec. (a)(1), is contained in the General Schedul
 
 The effective date of the Black Lung Benefits Amendments of 1981, referred to in subsec. (a)(2), (3), and (5), is Jan. 1, 1982, except as otherwise provided. See section 206(a) of Pub. L. 97–119, set out as an Effective Date of 1981 Amendment note under section 901 of this title.
 
-The Social Security Act, referred to in subsec. (a)(5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of that Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of that Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (c), is classified to Title 26, Internal Revenue Code.
 
@@ -3053,25 +3053,25 @@ The Internal Revenue Code of 1986, referred to in subsec. (c), is classified to 
 
 1986—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1981—Subsec. (a)(1). Pub. L. 97–119, § 203(d), substituted “37½ per centum of the monthly pay rate for Federal employees in grade GS–2, step 1” for “50 per centum of the minimum monthly payment to which a Federal employee in grade GS–2, who is totally disabled, is entitled at the time of payment under chapter 81 of title 5”.
+1981—Subsec. (a)(1). Pub. L. 97–119, § 203(d), substituted “37½ per centum of the monthly pay rate for Federal employees in grade GS–2, step 1” for “50 per centum of the minimum monthly payment to which a Federal employee in grade GS–2, who is totally disabled, is entitled at the time of payment under chapter 81 of title 5”.
 
-Subsec. (a)(2). Pub. L. 97–119, § 203(a)(1), inserted “, except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Amendments of 1981,” after “pneumoconiosis or”.
+Subsec. (a)(2). Pub. L. 97–119, § 203(a)(1), inserted “, except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Amendments of 1981,” after “pneumoconiosis or”.
 
-Subsec. (a)(3). Pub. L. 97–119, § 203(a)(2), inserted “, except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Benefits Amendments of 1981,” after “pneumoconiosis or” and substituted “time of his death or” for “time of his death, or”.
+Subsec. (a)(3). Pub. L. 97–119, § 203(a)(2), inserted “, except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Benefits Amendments of 1981,” after “pneumoconiosis or” and substituted “time of his death or” for “time of his death, or”.
 
-Subsec. (a)(5). Pub. L. 97–119, § 203(a)(3), inserted “, except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Benefits Amendments of 1981,” after “pneumoconiosis, or” and substituted “time of his death or who was totally” for “time of his death, or of a miner who was totally”.
+Subsec. (a)(5). Pub. L. 97–119, § 203(a)(3), inserted “, except with respect to a claim filed under part C of this subchapter on or after the effective date of the Black Lung Benefits Amendments of 1981,” after “pneumoconiosis, or” and substituted “time of his death or who was totally” for “time of his death, or of a miner who was totally”.
 
-1978—Subsec. (a)(3). Pub. L. 95–239, § 3(b)(1)(A), inserted reference to any child or children entitled to the payment of benefits under paragraph (5) of section 921(c) of this title.
+1978—Subsec. (a)(3). Pub. L. 95–239, § 3(b)(1)(A), inserted reference to any child or children entitled to the payment of benefits under paragraph (5) of section 921(c) of this title.
 
-Subsec. (a)(5). Pub. L. 95–239, § 3(b)(1)(B), inserted references to the payment of benefits under par. (5) of section 921(c) of this title.
+Subsec. (a)(5). Pub. L. 95–239, § 3(b)(1)(B), inserted references to the payment of benefits under par. (5) of section 921(c) of this title.
 
-Subsec. (b). Pub. L. 95–239, § 4, substituted “on account of the disability of such miner due to pneumoconiosis” for “on account of the disability of such miner”.
+Subsec. (b). Pub. L. 95–239, § 4, substituted “on account of the disability of such miner due to pneumoconiosis” for “on account of the disability of such miner”.
 
-1972—Subsec. (a)(3), (4). Pub. L. 92–303, § 1(b)(1), added par. (3) and redesignated former par. (3) as par. (4).
+1972—Subsec. (a)(3), (4). Pub. L. 92–303, § 1(b)(1), added par. (3) and redesignated former par. (3) as par. (4).
 
-Subsec. (a)(5), (6). Pub. L. 92–303, § 1(b)(2), added pars. (5) and (6).
+Subsec. (a)(5), (6). Pub. L. 92–303, § 1(b)(2), added pars. (5) and (6).
 
-Subsec. (b). Pub. L. 92–303, §§ 1(c)(1), 2(a), substituted “widow, child, parent, brother, or sister” for “widow” wherever appearing, and inserted provision that this part would not be considered as a workmen’s compensation law or plan for purposes of section 224 of such Act.
+Subsec. (b). Pub. L. 92–303, §§ 1(c)(1), 2(a), substituted “widow, child, parent, brother, or sister” for “widow” wherever appearing, and inserted provision that this part would not be considered as a workmen’s compensation law or plan for purposes of section 224 of such Act.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3093,15 +3093,15 @@ Amendment by Pub. L. 95–239 effective Mar. 1, 1978, see section 20(a) of Pub. 
 
 **Effective Date of 1972 Amendment**
 
-Pub. L. 92–303, § 2(b), May 19, 1972, 86 Stat. 153, provided that: “The amendment made by this section [amending this section] shall be effective as of December 30, 1969.”
+Pub. L. 92–303, § 2(b), May 19, 1972, 86 Stat. 153, provided that: “The amendment made by this section [amending this section] shall be effective as of December 30, 1969.”
 
 **Calculation of Monthly Benefit Payments**
 
-Pub. L. 103–333, title V, § 512, Sept. 30, 1994, 108 Stat. 2573, provided that: “Notwithstanding any other provision of law, monthly benefit rates during fiscal year 1995 and thereafter under part B or part C of the Black Lung Benefits Act [30 U.S.C. 921 et seq., 931 et seq.] shall continue to be based on the benefit rates in effect in September, 1994 and be paid in accordance with the Act, until exceeded by the benefit rate specified in section 412(a)(1) of the Act [30 U.S.C. 922(a)(1)].”
+Pub. L. 103–333, title V, § 512, Sept. 30, 1994, 108 Stat. 2573, provided that: “Notwithstanding any other provision of law, monthly benefit rates during fiscal year 1995 and thereafter under part B or part C of the Black Lung Benefits Act [30 U.S.C. 921 et seq., 931 et seq.] shall continue to be based on the benefit rates in effect in September, 1994 and be paid in accordance with the Act, until exceeded by the benefit rate specified in section 412(a)(1) of the Act [30 U.S.C. 922(a)(1)].”
 
-Pub. L. 103–112, title V, § 508(a), Oct. 21, 1993, 107 Stat. 1113, provided that: “Notwithstanding any other provision of law, monthly benefit payments under part B or part C of the Black Lung Benefits Act [30 U.S.C. 921 et seq., 931 et seq.] for months after December 1993 and before October 1994 shall be calculated as though the provisions of Federal law prescribing pay rates for Federal employees continued in effect, without amendment to or limitation of such provisions, after January 1993.”
+Pub. L. 103–112, title V, § 508(a), Oct. 21, 1993, 107 Stat. 1113, provided that: “Notwithstanding any other provision of law, monthly benefit payments under part B or part C of the Black Lung Benefits Act [30 U.S.C. 921 et seq., 931 et seq.] for months after December 1993 and before October 1994 shall be calculated as though the provisions of Federal law prescribing pay rates for Federal employees continued in effect, without amendment to or limitation of such provisions, after January 1993.”
 
-#### § 923. Filing of notice of claim
+#### § 923. Filing of notice of claim
 
 **(a) Promulgation of regulations; time requirement**
 
@@ -3119,7 +3119,7 @@ No claim for benefits under this section shall be considered unless the claimant
 
 No miner who is engaged in coal mine employment shall (except as provided in section 921(c)(3) of this title) be entitled to any benefits under this part while so employed. Any miner who has been determined to be eligible for benefits pursuant to a claim filed while such miner was engaged in coal mine employment shall be entitled to such benefits if his or her employment terminates within one year after the date such determination becomes final.
 
-(Pub. L. 91–173, title IV, § 413, Dec. 30, 1969, 83 Stat. 794; Pub. L. 92–303, §§ 1(c)(5)(A), 4(f), 5(2), May 19, 1972, 86 Stat. 152, 154, 155; Pub. L. 95–239, § 5, Mar. 1, 1978, 92 Stat. 97; Pub. L. 97–119, title II, § 202(a), (c), Dec. 29, 1981, 95 Stat. 1643; Pub. L. 103–296, title I, § 108(i)(2), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 107–275, § 2(a), (b)(2), Nov. 2, 2002, 116 Stat. 1925.)
+(Pub. L. 91–173, title IV, § 413, Dec. 30, 1969, 83 Stat. 794; Pub. L. 92–303, §§ 1(c)(5)(A), 4(f), 5(2), May 19, 1972, 86 Stat. 152, 154, 155; Pub. L. 95–239, § 5, Mar. 1, 1978, 92 Stat. 97; Pub. L. 97–119, title II, § 202(a), (c), Dec. 29, 1981, 95 Stat. 1643; Pub. L. 103–296, title I, § 108(i)(2), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 107–275, § 2(a), (b)(2), Nov. 2, 2002, 116 Stat. 1925.)
 
 **Editorial Notes**
 
@@ -3127,29 +3127,29 @@ No miner who is engaged in coal mine employment shall (except as provided in sec
 
 The effective date of the Black Lung Benefits Amendments of 1981, referred to in subsec. (b), is Jan. 1, 1982, except as otherwise provided. See section 206(a) of Pub. L. 97–119, set out as an Effective Date of 1981 Amendment note under section 901 of this title.
 
-The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of this Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of this Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
-2002—Subsec. (a). Pub. L. 107–275, § 2(a), substituted “Secretary” for “Commissioner of Social Security”.
+2002—Subsec. (a). Pub. L. 107–275, § 2(a), substituted “Secretary” for “Commissioner of Social Security”.
 
-Subsec. (b). Pub. L. 107–275, § 2(b)(2), substituted “No” for “In carrying out the provisions of this part, the Commissioner of Social Security shall to the maximum extent feasible (and consistent with the provisions of this part) utilize the personnel and procedures he uses in determining entitlement to disability insurance benefit payments under section 223 of the Social Security Act, but no”.
+Subsec. (b). Pub. L. 107–275, § 2(b)(2), substituted “No” for “In carrying out the provisions of this part, the Commissioner of Social Security shall to the maximum extent feasible (and consistent with the provisions of this part) utilize the personnel and procedures he uses in determining entitlement to disability insurance benefit payments under section 223 of the Social Security Act, but no”.
 
-Pub. L. 107–275, § 2(a), substituted “Secretary has” for “Commissioner of Social Security has” in two places and “Secretary shall” for “Commissioner of Social Security shall” in two places.
+Pub. L. 107–275, § 2(a), substituted “Secretary has” for “Commissioner of Social Security has” in two places and “Secretary shall” for “Commissioner of Social Security shall” in two places.
 
-Subsec. (c). Pub. L. 107–275, § 2(a), substituted “Secretary” for “Commissioner of Social Security”.
+Subsec. (c). Pub. L. 107–275, § 2(a), substituted “Secretary” for “Commissioner of Social Security”.
 
 1994—Subsecs. (a) to (c). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary” wherever appearing, except in reference to Secretary of Labor.
 
-1981—Subsec. (b). Pub. L. 97–119, § 202(a), (c), inserted “, from persons not eligible for benefits in such case with respect to claims filed on or after the effective date of the Black Lung Benefits Amendments of 1981,” after “such affidavits” and “, other than that involving a claim filed on or after the effective date of the Black Lung Benefits Amendments of 1981,” after “In any case”.
+1981—Subsec. (b). Pub. L. 97–119, § 202(a), (c), inserted “, from persons not eligible for benefits in such case with respect to claims filed on or after the effective date of the Black Lung Benefits Amendments of 1981,” after “such affidavits” and “, other than that involving a claim filed on or after the effective date of the Black Lung Benefits Amendments of 1981,” after “In any case”.
 
-1978—Subsec. (b). Pub. L. 95–239, § 5(a), (b), (c), provided that, in the case of a deceased miner where there is no medical or other relevant evidence, the affidavits be considered sufficient to establish that the miner was totally disabled due to pneumoconiosis or that death was due to pneumoconiosis, directed the Secretary to accept a board certified or board eligible radiologist’s interpretation of a chest roentgenogram in cases in which there is other evidence that a miner has a pulmonary or respiratory impairment, provided for regulations covering roentgenogram techniques, provided for acceptance by the Secretary of an autopsy report concerning the presence of pneumoconiosis and the stage of advancement of that pneumoconiosis, directed that each miner who files a claim for benefits under this subchapter be provided upon request an opportunity to substantiate the claim by means of a complete pulmonary evaluation, and, in the reference to the various subsections of section 405 of Title 42, struck out reference to subsec. (f) and inserted reference to subsec. (n).
+1978—Subsec. (b). Pub. L. 95–239, § 5(a), (b), (c), provided that, in the case of a deceased miner where there is no medical or other relevant evidence, the affidavits be considered sufficient to establish that the miner was totally disabled due to pneumoconiosis or that death was due to pneumoconiosis, directed the Secretary to accept a board certified or board eligible radiologist’s interpretation of a chest roentgenogram in cases in which there is other evidence that a miner has a pulmonary or respiratory impairment, provided for regulations covering roentgenogram techniques, provided for acceptance by the Secretary of an autopsy report concerning the presence of pneumoconiosis and the stage of advancement of that pneumoconiosis, directed that each miner who files a claim for benefits under this subchapter be provided upon request an opportunity to substantiate the claim by means of a complete pulmonary evaluation, and, in the reference to the various subsections of section 405 of Title 42, struck out reference to subsec. (f) and inserted reference to subsec. (n).
 
-Subsec. (d). Pub. L. 95–239, § 5(d), added subsec. (d).
+Subsec. (d). Pub. L. 95–239, § 5(d), added subsec. (d).
 
-1972—Subsec. (a). Pub. L. 92–303, § 5(2), substituted “1973” for “1972”.
+1972—Subsec. (a). Pub. L. 92–303, § 5(2), substituted “1973” for “1972”.
 
-Subsec. (b). Pub. L. 92–303, §§ 1(c)(5)(A), 4(f), inserted provisions making sections 404 to 408 of title 42 applicable, and for a more liberal consideration of claims for benefits.
+Subsec. (b). Pub. L. 92–303, §§ 1(c)(5)(A), 4(f), inserted provisions making sections 404 to 408 of title 42 applicable, and for a more liberal consideration of claims for benefits.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3175,11 +3175,11 @@ Amendment by section 4(f) of Pub. L. 92–303 effective Dec. 30, 1969, see secti
 
 **Effective Date for the Application of Section 405 of Title 42**
 
-Pub. L. 92–303, § 1(c)(5)(B), May 19, 1972, 86 Stat. 152, provided that: “Only section 205(b), (g), and (h) of those sections of the Social Security Act [section 405(b), (g), and (h) of Title 42, The Public Health and Welfare] recited in subparagraph (A) of this paragraph [amending this section] shall be effective as of the date provided in subsection (d) of this section.”
+Pub. L. 92–303, § 1(c)(5)(B), May 19, 1972, 86 Stat. 152, provided that: “Only section 205(b), (g), and (h) of those sections of the Social Security Act [section 405(b), (g), and (h) of Title 42, The Public Health and Welfare] recited in subparagraph (A) of this paragraph [amending this section] shall be effective as of the date provided in subsection (d) of this section.”
 
 [There is no subsec. (d) in section 1 of Pub. L. 92–303 as it was enacted. However, Senate Report No. 92–743, at page 30, refers to such a subsec. (d) applying the provisions of section of Pub. L. 92–303 retroactively to Dec. 30, 1969.]
 
-#### § 924. Time for filing claims
+#### § 924. Time for filing claims
 
 **(a) Claims filed before December 31, 1973**
 
@@ -3213,7 +3213,7 @@ No benefits shall be paid under this part to the residents of any State which, a
 
 No benefits shall be payable to a widow, child, parent, brother, or sister under this part on account of the death of a miner unless (1) benefits under this part were being paid to such miner with respect to disability due to pneumoconiosis prior to his death, (2) the death of such miner occurred prior to January 1, 1974, or (3) any such individual is entitled to benefits under paragraph (5) of section 921(c) of this title.
 
-(Pub. L. 91–173, title IV, § 414, Dec. 30, 1969, 83 Stat. 795; Pub. L. 92–303, §§ 1(c)(1), (6), 5(1)–(3), May 19, 1972, 86 Stat. 151, 152, 155; Pub. L. 95–239, § 3(b)(2), Mar. 1, 1978, 92 Stat. 97; Pub. L. 103–296, title I, § 108(i)(2), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 107–275, § 2(a), Nov. 2, 2002, 116 Stat. 1925.)
+(Pub. L. 91–173, title IV, § 414, Dec. 30, 1969, 83 Stat. 795; Pub. L. 92–303, §§ 1(c)(1), (6), 5(1)–(3), May 19, 1972, 86 Stat. 151, 152, 155; Pub. L. 95–239, § 3(b)(2), Mar. 1, 1978, 92 Stat. 97; Pub. L. 103–296, title I, § 108(i)(2), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 107–275, § 2(a), Nov. 2, 2002, 116 Stat. 1925.)
 
 **Editorial Notes**
 
@@ -3225,11 +3225,11 @@ No benefits shall be payable to a widow, child, parent, brother, or sister under
 
 1978—Subsec. (e). Pub. L. 95–239 added cl. (3) relating to individuals entitled to benefits under par. (5) of section 921(c) of this title.
 
-1972—Subsec. (a). Pub. L. 92–303, §§ 1(c)(6), 5(2), designated existing provisions as par. (1) and added pars. (2) and (3), and in par. (1) substituted “1973” for “1972” wherever appearing.
+1972—Subsec. (a). Pub. L. 92–303, §§ 1(c)(6), 5(2), designated existing provisions as par. (1) and added pars. (2) and (3), and in par. (1) substituted “1973” for “1972” wherever appearing.
 
-Subsec. (b). Pub. L. 92–303, §§ 5(1), (2), substituted “June 30, 1973” for “December 31, 1971” and “December 31, 1973” for “December 31, 1971”.
+Subsec. (b). Pub. L. 92–303, §§ 5(1), (2), substituted “June 30, 1973” for “December 31, 1971” and “December 31, 1973” for “December 31, 1971”.
 
-Subsec. (e). Pub. L. 92–303, §§ 1(c)(1), 5(3), substituted “widow, child, parent, brother, or sister” for “widow” and “1974” for “1973”.
+Subsec. (e). Pub. L. 92–303, §§ 1(c)(1), 5(3), substituted “widow, child, parent, brother, or sister” for “widow” and “1974” for “1973”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3245,9 +3245,9 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 Amendment by Pub. L. 95–239 effective Mar. 1, 1978, see section 20(a) of Pub. L. 95–239, set out as a note under section 901 of this title.
 
-#### § 924a. Repealed. Pub. L. 107–275, § 2(c)(2), Nov. 2, 2002, 116 Stat. 1926
+#### § 924a. Repealed. Pub. L. 107–275, § 2(c)(2), Nov. 2, 2002, 116 Stat. 1926
 
-Section, Pub. L. 95–239, § 11, Mar. 1, 1978, 92 Stat. 101, related to notification to miners of eligibility for medical services and supplies and the period for filing a claim.
+Section, Pub. L. 95–239, § 11, Mar. 1, 1978, 92 Stat. 101, related to notification to miners of eligibility for medical services and supplies and the period for filing a claim.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3255,7 +3255,7 @@ Section, Pub. L. 95–239, § 11, Mar. 1, 1978, 92 Stat. 101, related to notif
 
 Repeal effective 90 days after Nov. 2, 2002, see section 4 of Pub. L. 107–275, set out as an Effective Date of 2002 Amendment note under section 902 of this title.
 
-#### § 925. Procedure for the determination of claims during transition period
+#### § 925. Procedure for the determination of claims during transition period
 
 **(a)** Notwithstanding any other provision in this subchapter, for the purpose of assuring the uninterrupted receipt of benefits by claimants at such time as responsibility for administration of the benefits program is assumed by either a State workmen’s compensation agency or the Secretary of Labor, any claim for benefits under this part filed during the period from July 1, 1973 to December 31, 1973, shall be considered and determined in accordance with the procedures of this section. With respect to any such claim—
 
@@ -3269,15 +3269,15 @@ Repeal effective 90 days after Nov. 2, 2002, see section 4 of Pub. L. 107–275,
 
 **(b)** The Secretary of Labor may issue such regulations as are necessary or appropriate to carry out the purpose of this section.
 
-(Pub. L. 91–173, title IV, § 415, as added Pub. L. 92–303, § 7, May 19, 1972, 86 Stat. 156; amended Pub. L. 97–119, title I, § 104(b)(2), Dec. 29, 1981, 95 Stat. 1639; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–296, title I, § 108(i)(2), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 107–275, § 2(b)(3), Nov. 2, 2002, 116 Stat. 1925.)
+(Pub. L. 91–173, title IV, § 415, as added Pub. L. 92–303, § 7, May 19, 1972, 86 Stat. 156; amended Pub. L. 97–119, title I, § 104(b)(2), Dec. 29, 1981, 95 Stat. 1639; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–296, title I, § 108(i)(2), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 107–275, § 2(b)(3), Nov. 2, 2002, 116 Stat. 1925.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Subsec. (a)(2) to (5). Pub. L. 107–275, § 2(b)(3)(A), redesignated pars. (3) to (5) as (2) to (4), respectively, substituted “paragraph (2)” for “paragraph 4” in par. (4), and struck out former par. (2) which read as follows: “The manner and place of filing such claim shall be in accordance with regulations issued jointly by the Commissioner of Social Security and the Secretary of Labor, which regulations shall provide, among other things, that such claims may be filed in district offices of the Social Security Administration and thereafter transferred to the jurisdiction of the Department of Labor for further consideration.”
+2002—Subsec. (a)(2) to (5). Pub. L. 107–275, § 2(b)(3)(A), redesignated pars. (3) to (5) as (2) to (4), respectively, substituted “paragraph (2)” for “paragraph 4” in par. (4), and struck out former par. (2) which read as follows: “The manner and place of filing such claim shall be in accordance with regulations issued jointly by the Commissioner of Social Security and the Secretary of Labor, which regulations shall provide, among other things, that such claims may be filed in district offices of the Social Security Administration and thereafter transferred to the jurisdiction of the Department of Labor for further consideration.”
 
-Subsec. (b). Pub. L. 107–275, § 2(b)(3)(B), struck out “, after consultation with the Commissioner of Social Security,” after “Secretary of Labor”.
+Subsec. (b). Pub. L. 107–275, § 2(b)(3)(B), struck out “, after consultation with the Commissioner of Social Security,” after “Secretary of Labor”.
 
 1994—Subsecs. (a)(2), (b). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health, Education, and Welfare”.
 
@@ -3297,13 +3297,13 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 ### Part C—Claims for Benefits After December 31, 1973
 
-#### § 931. Benefits under State workmen’s compensation laws
+#### § 931. Benefits under State workmen’s compensation laws
 
 **(a) Filing**
 
 On and after January 1, 1974, any claim for benefits for death or total disability due to pneumoconiosis shall be filed pursuant to the applicable State workmen’s compensation law, except that during any period when miners or their surviving widows, children, parents, brothers, or sisters, as the case may be, are not covered by a State workmen’s compensation law which provides adequate coverage for pneumoconiosis, and in any case in which benefits based upon eligibility under paragraph (5) of section 921(c) of this title are involved.1
 
-<sup>1</sup>  So in original. The period probably should be a comma.
+<sup>1</sup> So in original. The period probably should be a comma.
 
 they shall be entitled to claim benefits under this part.
 
@@ -3331,29 +3331,29 @@ The action of the Secretary in including or failing to include any State workmen
 
 Final regulations required for implementation of any amendments to this part shall be promulgated and published in the Federal Register at the earliest practicable date after the date of enactment of such amendments, and in no event later than the end of the sixth month following the month in which such amendments are enacted.
 
-(Pub. L. 91–173, title IV, § 421, Dec. 30, 1969, 83 Stat. 795; Pub. L. 92–303, §§ 1(c)(1), 4(e), 5(3), (5), May 19, 1972, 86 Stat. 151, 154, 155; Pub. L. 95–239, §§ 3(b)(3), 6, Mar. 1, 1978, 92 Stat. 97, 98.)
+(Pub. L. 91–173, title IV, § 421, Dec. 30, 1969, 83 Stat. 795; Pub. L. 92–303, §§ 1(c)(1), 4(e), 5(3), (5), May 19, 1972, 86 Stat. 151, 154, 155; Pub. L. 95–239, §§ 3(b)(3), 6, Mar. 1, 1978, 92 Stat. 97, 98.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Public Law 803, 69th Congress, referred to in subsec. (b)(2)(F), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, popularly known as the Longshore and Harbor Workers’ Compensation Act, which is classified generally to chapter 18 (§ 901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see section 901 of Title 33 and Tables.
+Public Law 803, 69th Congress, referred to in subsec. (b)(2)(F), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, popularly known as the Longshore and Harbor Workers’ Compensation Act, which is classified generally to chapter 18 (§ 901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see section 901 of Title 33 and Tables.
 
 **Amendments**
 
-1978—Subsec. (a). Pub. L. 95–239, § 3(b)(3), inserted reference to cases in which benefits based upon eligibility under par. (5) of section 921(c) of this title are involved.
+1978—Subsec. (a). Pub. L. 95–239, § 3(b)(3), inserted reference to cases in which benefits based upon eligibility under par. (5) of section 921(c) of this title are involved.
 
-Subsec. (b)(2)(A). Pub. L. 95–239, § 6(a), added the exceptions set out in cls. (i) and (ii).
+Subsec. (b)(2)(A). Pub. L. 95–239, § 6(a), added the exceptions set out in cls. (i) and (ii).
 
-Subsec. (b)(2)(C). Pub. L. 95–239, § 6(b), substituted “established under this part, and by the regulations of the Secretary promulgated under this part” for “established under part B of this subchapter, and by the regulations of the Secretary of Health, Education, and Welfare promulgated thereunder”.
+Subsec. (b)(2)(C). Pub. L. 95–239, § 6(b), substituted “established under this part, and by the regulations of the Secretary promulgated under this part” for “established under part B of this subchapter, and by the regulations of the Secretary of Health, Education, and Welfare promulgated thereunder”.
 
-Subsec. (b)(2)(D). Pub. L. 95–239, § 6(c), substituted “total disability of a miner due to pneumoconiosis is deemed to be timely filed if such claim is filed within three years after a medical determination of total disability due to pneumoconiosis” for “total disability or death of a miner due to pneumoconiosis is deemed to be timely filed if such claim is filed within three years of the discovery of total disability due to pneumoconiosis, or the date of such death, as the case may be”.
+Subsec. (b)(2)(D). Pub. L. 95–239, § 6(c), substituted “total disability of a miner due to pneumoconiosis is deemed to be timely filed if such claim is filed within three years after a medical determination of total disability due to pneumoconiosis” for “total disability or death of a miner due to pneumoconiosis is deemed to be timely filed if such claim is filed within three years of the discovery of total disability due to pneumoconiosis, or the date of such death, as the case may be”.
 
-1972—Subsec. (a). Pub. L. 92–303, §§ 1(c)(1), 5(3), substituted “widows, children, parents, brothers, or sisters, as the case may be,” for “widows” and “1974” for “1973”.
+1972—Subsec. (a). Pub. L. 92–303, §§ 1(c)(1), 5(3), substituted “widows, children, parents, brothers, or sisters, as the case may be,” for “widows” and “1974” for “1973”.
 
-Subsec. (b)(2)(C). Pub. L. 92–303, § 4(e), substituted “section 902(f) of this title and to those standards established under part B of this subchapter” for “those established by section 921 of this title”.
+Subsec. (b)(2)(C). Pub. L. 92–303, § 4(e), substituted “section 902(f) of this title and to those standards established under part B of this subchapter” for “those established by section 921 of this title”.
 
-Subsec. (c). Pub. L. 92–303, § 5(5), added subsec. (c).
+Subsec. (c). Pub. L. 92–303, § 5(5), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3365,13 +3365,13 @@ Amendment by Pub. L. 95–239 effective Mar. 1, 1978, see section 20(a) of Pub. 
 
 Amendment by section 4(e) of Pub. L. 92–303 effective Dec. 30, 1969, see section 4(g) of Pub. L. 92–303, set out as a note under section 921 of this title.
 
-#### § 932. Failure to meet workmen’s compensation requirements
+#### § 932. Failure to meet workmen’s compensation requirements
 
 **(a) Benefits; applicability of Longshore and Harbor Workers’ Compensation Act; promulgation of regulations**
 
 Subject to section 28(h)(1) of the Longshore and Harbor Workers’ Compensation Act Amendments of 1984, during any period after December 31, 1973, in which a State workmen’s compensation law is not included on the list published by the Secretary under section 931(b) of this title, the provisions of Public Law 803, 69th Congress (44 Stat. 1424, approved March 4, 1927), as amended [33 U.S.C. 901 et seq.], and as it may be amended from time to time (other than the provisions contained in sections 1, 2, 3, 4,,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 8, 9, 10, 12, 13, 29, 30, 31, 32, 33, 37, 38, 41, 43, 44, 45, 46, 47, 48, 49, 50, and 51 thereof) [33 U.S.C. 901, 902, 903, 904, 908, 909, 910, 912, 913, 929, 930, 931, 932, 933, 937, 938, 941, 943, 944, 945, 946, 947, 948, 948a, 949, 950], shall (except as otherwise provided in this subsection or by regulations of the Secretary and except that references in such Act to the employer shall be considered to refer to the trustees of the fund, as the Secretary considers appropriate and as is consistent with the provisions of section 9501(d) of title 26), be applicable to each operator of a coal mine in such State with respect to death or total disability due to pneumoconiosis arising out of employment in such mine, or with respect to entitlements established in paragraph (5) of section 921(c) of this title. In administering this part, the Secretary is authorized to prescribe in the Federal Register such additional provisions, not inconsistent with those specifically excluded by this subsection, as he deems necessary to provide for the payment of benefits by such operator to persons entitled thereto as provided in this part and thereafter those provisions shall be applicable to such operator.
 
@@ -3381,9 +3381,9 @@ During any such period each such operator shall be liable for and shall secure t
 
 **(c) Persons entitled to benefits**
 
-Benefits shall be paid during such period by each such operator under this section to the categories of persons entitled to benefits under section 922(a) of this title in accordance with the regulations of the Secretary applicable under this section: *Provided*, That, except as provided in subsection (i) of this section, no benefit shall be payable by any operator on account of death or total disability due to pneumoconiosis (1) which did not arise, at least in part, out of employment in a mine during a period after December 31, 1969, when it was operated by such operator; or (2) which was the subject of a claim denied before March 1, 1978, and which is or has been approved in accordance with the provisions of section 945 2
+Benefits shall be paid during such period by each such operator under this section to the categories of persons entitled to benefits under section 922(a) of this title in accordance with the regulations of the Secretary applicable under this section: *Provided*, That, except as provided in subsection (i) of this section, no benefit shall be payable by any operator on account of death or total disability due to pneumoconiosis (1) which did not arise, at least in part, out of employment in a mine during a period after December 31, 1969, when it was operated by such operator; or (2) which was the subject of a claim denied before March 1, 1978, and which is or has been approved in accordance with the provisions of section 945 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title.
 
@@ -3435,7 +3435,7 @@ The Secretary of Labor shall by regulation establish standards, which may includ
 
 **(2)** in which the miner’s last coal mine employment was before January 1, 1970; or
 
-**(3)** in which there was a claim denied before March 1, 1978, and such claim is or has been approved in accordance with the provisions of section 945 <sup>2</sup> of this title.
+**(3)** in which there was a claim denied before March 1, 1978, and such claim is or has been approved in accordance with the provisions of section 945 <sup>2</sup> of this title.
 
 **(k) Secretary as party in claim proceedings**
 
@@ -3445,9 +3445,9 @@ The Secretary shall be a party in any proceeding relative to a claim for benefit
 
 In no case shall the eligible survivors of a miner who was determined to be eligible to receive benefits under this subchapter at the time of his or her death be required to file a new claim for benefits, or refile or otherwise revalidate the claim of such miner,.3
 
-<sup>3</sup>  So in original.
+<sup>3</sup> So in original.
 
-(Pub. L. 91–173, title IV, § 422, Dec. 30, 1969, 83 Stat. 796; Pub. L. 92–303, §§ 3(a), (b), 5(2)–(4), (9), 8, May 19, 1972, 86 Stat. 153, 155–157; Pub. L. 95–239, §§ 3(b)(4), 7(a)–(h), Mar. 1, 1978, 92 Stat. 97–99; Pub. L. 97–119, title I, § 104(b)(3)–(5), title II, §§ 203(a)(6), (b), 204, 205(a), Dec. 29, 1981, 95 Stat. 1639, 1644, 1645; Pub. L. 98–426, § 28(h)(2), Sept. 28, 1984, 98 Stat. 1655; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 111–148, title I, § 1556(b), Mar. 23, 2010, 124 Stat. 260.)
+(Pub. L. 91–173, title IV, § 422, Dec. 30, 1969, 83 Stat. 796; Pub. L. 92–303, §§ 3(a), (b), 5(2)–(4), (9), 8, May 19, 1972, 86 Stat. 153, 155–157; Pub. L. 95–239, §§ 3(b)(4), 7(a)–(h), Mar. 1, 1978, 92 Stat. 97–99; Pub. L. 97–119, title I, § 104(b)(3)–(5), title II, §§ 203(a)(6), (b), 204, 205(a), Dec. 29, 1981, 95 Stat. 1639, 1644, 1645; Pub. L. 98–426, § 28(h)(2), Sept. 28, 1984, 98 Stat. 1655; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 111–148, title I, § 1556(b), Mar. 23, 2010, 124 Stat. 260.)
 
 **Editorial Notes**
 
@@ -3455,69 +3455,69 @@ In no case shall the eligible survivors of a miner who was determined to be elig
 
 Section 28(h)(1) of the Longshore and Harbor Workers’ Compensation Act Amendments of 1984, referred to in subsec. (a), is section 28(h)(1) of Pub. L. 98–426, which is set out as a note under section 907 of Title 33, Navigation and Navigable Waters.
 
-Public Law 803, 69th Congress, referred to in subsec. (a), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, popularly known as the Longshore and Harbor Workers’ Compensation Act, which is classified generally to chapter 18 (§ 901 et seq.) of Title 33. For complete classification of this Act to the Code, see section 901 of Title 33 and Tables.
+Public Law 803, 69th Congress, referred to in subsec. (a), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, popularly known as the Longshore and Harbor Workers’ Compensation Act, which is classified generally to chapter 18 (§ 901 et seq.) of Title 33. For complete classification of this Act to the Code, see section 901 of Title 33 and Tables.
 
-Section 42 of Public Law 803, referred to in subsec. (a), was repealed by Pub. L. 89-554, § 8(a), Sept. 6, 1966, 80 Stat. 647.
+Section 42 of Public Law 803, referred to in subsec. (a), was repealed by Pub. L. 89-554, § 8(a), Sept. 6, 1966, 80 Stat. 647.
 
-Section 43 of Public Law 803, referred to in subsec. (a), was repealed by Pub. L. 89-348, § 1(15), Nov. 8, 1965, 79 Stat. 1311.
+Section 43 of Public Law 803, referred to in subsec. (a), was repealed by Pub. L. 89-348, § 1(15), Nov. 8, 1965, 79 Stat. 1311.
 
-Sections 45, 46, and 47 of Public Law 803, referred to in subsec. (a), were repealed by Pub. L. 98–426, § 25, Sept. 28, 1984, 98 Stat. 1654.
+Sections 45, 46, and 47 of Public Law 803, referred to in subsec. (a), were repealed by Pub. L. 98–426, § 25, Sept. 28, 1984, 98 Stat. 1654.
 
-Section 945 of this title, referred to in subsecs. (c), (j)(3), was repealed by Pub. L. 107–275, § 2(c)(1), Nov. 2, 2002, 116. Stat. 1926.
+Section 945 of this title, referred to in subsecs. (c), (j)(3), was repealed by Pub. L. 107–275, § 2(c)(1), Nov. 2, 2002, 116. Stat. 1926.
 
 The effective date of the Black Lung Benefits Amendments of 1981, referred to in subsecs. (d) and (g), is Jan. 1, 1982, except as otherwise provided. See section 206(a) of Pub. L. 97–119, set out as an Effective Date of 1981 Amendment note under section 901 of this title.
 
 **Amendments**
 
-2010—Subsec. (*l*). Pub. L. 111–148 struck out “, except with respect to a claim filed under this part on or after the effective date of the Black Lung Benefits Amendments of 1981” after “claim of such miner”.
+2010—Subsec. (*l*). Pub. L. 111–148 struck out “, except with respect to a claim filed under this part on or after the effective date of the Black Lung Benefits Amendments of 1981” after “claim of such miner”.
 
 1986—Subsecs. (a), (i)(4), (j). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 1984—Subsec. (a). Pub. L. 98–426 substituted “Subject to section 28(h)(1) of the Longshore and Harbor Workers’ Compensation Act Amendments of 1984, during” for “During”.
 
-1981—Subsec. (a). Pub. L. 97–119, § 104(b)(3), substituted “section 9501(d) of title 26” for “section 934 of this title”.
+1981—Subsec. (a). Pub. L. 97–119, § 104(b)(3), substituted “section 9501(d) of title 26” for “section 934 of this title”.
 
-Subsec. (c). Pub. L. 97–119, § 205(a)(1), substituted “due to pneumoconiosis (1)” for “due to pneumoconiosis” and added cl. (2).
+Subsec. (c). Pub. L. 97–119, § 205(a)(1), substituted “due to pneumoconiosis (1)” for “due to pneumoconiosis” and added cl. (2).
 
-Subsec. (d). Pub. L. 97–119, § 204, inserted provision relating to accrual of interest if payment is not made within the time required and accumulation of interest with respect to payments withheld pending final adjudication of liability in the case of claims filed on or after the effective date of the Black Lung Benefits Amendments of 1981.
+Subsec. (d). Pub. L. 97–119, § 204, inserted provision relating to accrual of interest if payment is not made within the time required and accumulation of interest with respect to payments withheld pending final adjudication of liability in the case of claims filed on or after the effective date of the Black Lung Benefits Amendments of 1981.
 
-Subsec. (g). Pub. L. 97–119, § 203(b), inserted provision reducing the amount of benefits payable under this section with respect to any claim filed on or after the effective date of the Black Lung Benefits Amendments of 1981.
+Subsec. (g). Pub. L. 97–119, § 203(b), inserted provision reducing the amount of benefits payable under this section with respect to any claim filed on or after the effective date of the Black Lung Benefits Amendments of 1981.
 
-Subsec. (i)(4). Pub. L. 97–119, § 104(b)(4), substituted “section 9501(d) of title 26” for “section 934 of this title”.
+Subsec. (i)(4). Pub. L. 97–119, § 104(b)(4), substituted “section 9501(d) of title 26” for “section 934 of this title”.
 
-Subsec. (j). Pub. L. 97–119, §§ 104(b)(5), 205(a)(2), substituted in provision preceding par. (1) “section 9501 of title 26” for “section 934 of this title” and in par. (1) “section 9501(d)(1) of title 26” for “section 934(a)(1) of this title” and added par. (3).
+Subsec. (j). Pub. L. 97–119, §§ 104(b)(5), 205(a)(2), substituted in provision preceding par. (1) “section 9501 of title 26” for “section 934 of this title” and in par. (1) “section 9501(d)(1) of title 26” for “section 934(a)(1) of this title” and added par. (3).
 
-Subsec. (*l*). Pub. L. 97–119, § 203(a)(6), inserted before period at end “, except with respect to a claim filed under this part on or after the effective date of the Black Lung Benefits Amendments of 1981,”.
+Subsec. (*l*). Pub. L. 97–119, § 203(a)(6), inserted before period at end “, except with respect to a claim filed under this part on or after the effective date of the Black Lung Benefits Amendments of 1981,”.
 
-1978—Subsec. (a). Pub. L. 95–239, §§ 3(b)(4), 7(a), inserted “, and as it may be amended from time to time” after “as amended”, inserted a comma after “and 51 thereof)”, substituted “or by regulations of the Secretary and except that references in such Act to the employer shall be considered to refer to the trustees of the fund, as the Secretary considers appropriate and as is consistent with the provisions of section 934 of this title)” for “and except as the Secretary shall by regulation otherwise provide)”, and inserted “, or with respect to entitlements established in paragraph (5) of section 921(c) of this title” after “with respect to death or total disability due to pneumoconiosis arising out of employment in such mine”.
+1978—Subsec. (a). Pub. L. 95–239, §§ 3(b)(4), 7(a), inserted “, and as it may be amended from time to time” after “as amended”, inserted a comma after “and 51 thereof)”, substituted “or by regulations of the Secretary and except that references in such Act to the employer shall be considered to refer to the trustees of the fund, as the Secretary considers appropriate and as is consistent with the provisions of section 934 of this title)” for “and except as the Secretary shall by regulation otherwise provide)”, and inserted “, or with respect to entitlements established in paragraph (5) of section 921(c) of this title” after “with respect to death or total disability due to pneumoconiosis arising out of employment in such mine”.
 
-Subsec. (b). Pub. L. 95–239, § 7(b), provided that an employer, other than an operator of a coal mine, shall not be required to secure the payment of benefits with respect to any employee of that employer to the extent that the employee is engaged in the transportation of coal or in coal mine construction and authorized the Secretary to require an employer to secure a bond or otherwise guarantee the payment of benefits.
+Subsec. (b). Pub. L. 95–239, § 7(b), provided that an employer, other than an operator of a coal mine, shall not be required to secure the payment of benefits with respect to any employee of that employer to the extent that the employee is engaged in the transportation of coal or in coal mine construction and authorized the Secretary to require an employer to secure a bond or otherwise guarantee the payment of benefits.
 
-Subsec. (c). Pub. L. 95–239, § 7(c), struck out reference to regulations of the Secretary of Health, Education, and Welfare and substituted “employment in a mine during a period after December 31, 1969, when it was operated” for “employment in a mine during the period when it was operated”.
+Subsec. (c). Pub. L. 95–239, § 7(c), struck out reference to regulations of the Secretary of Health, Education, and Welfare and substituted “employment in a mine during a period after December 31, 1969, when it was operated” for “employment in a mine during the period when it was operated”.
 
-Subsec. (e)(3). Pub. L. 95–239, § 7(d), struck out par. (3) which had provided that no payment of benefits could be required under this section for any period after twelve years after Dec. 30, 1969.
+Subsec. (e)(3). Pub. L. 95–239, § 7(d), struck out par. (3) which had provided that no payment of benefits could be required under this section for any period after twelve years after Dec. 30, 1969.
 
-Subsec. (f). Pub. L. 95–239, § 7(e), provided that any claim for benefits by a miner under this section be filed within three years after the later of either a medical determination of total disability due to pneumoconiosis or March 1, 1978, and struck out provisions which had set special limitations on the filing of a claim by a widow.
+Subsec. (f). Pub. L. 95–239, § 7(e), provided that any claim for benefits by a miner under this section be filed within three years after the later of either a medical determination of total disability due to pneumoconiosis or March 1, 1978, and struck out provisions which had set special limitations on the filing of a claim by a widow.
 
-Subsec. (h). Pub. L. 95–239, § 7(f), struck out provision under which the regulations of the Secretary of Health, Education, and Welfare promulgated under section 921 of this title had also been applicable to claims under this section.
+Subsec. (h). Pub. L. 95–239, § 7(f), struck out provision under which the regulations of the Secretary of Health, Education, and Welfare promulgated under section 921 of this title had also been applicable to claims under this section.
 
-Subsec. (i)(1). Pub. L. 95–239, § 7(g), imposed claim liability on operators who acquired a mine from a prior operator on or after Jan. 1, 1970, with respect to benefits to miners previously employed by a prior operator, as if the acquisition had not occurred.
+Subsec. (i)(1). Pub. L. 95–239, § 7(g), imposed claim liability on operators who acquired a mine from a prior operator on or after Jan. 1, 1970, with respect to benefits to miners previously employed by a prior operator, as if the acquisition had not occurred.
 
-Subsec. (i)(2). Pub. L. 95–239, § 7(g), reenacted par. (2) without change.
+Subsec. (i)(2). Pub. L. 95–239, § 7(g), reenacted par. (2) without change.
 
-Subsec. (i)(3), (4). Pub. L. 95–239, § 7(g), added pars. (3) and (4).
+Subsec. (i)(3), (4). Pub. L. 95–239, § 7(g), added pars. (3) and (4).
 
-Subsecs. (j) to (*l*). Pub. L. 95–239, § 7(h), added subsecs. (j) to (*l*).
+Subsecs. (j) to (*l*). Pub. L. 95–239, § 7(h), added subsecs. (j) to (*l*).
 
-1972—Subsec. (a). Pub. L. 92–303, §§ 3(b), 5(2), (9), substituted “a coal mine” for “an underground coal mine”, “1973” for “1972” and struck out reference to section 7 of Pub. L. 803, 69th Congress (44 Stat. 1424, approved March 4, 1927), respectively,
+1972—Subsec. (a). Pub. L. 92–303, §§ 3(b), 5(2), (9), substituted “a coal mine” for “an underground coal mine”, “1973” for “1972” and struck out reference to section 7 of Pub. L. 803, 69th Congress (44 Stat. 1424, approved March 4, 1927), respectively,
 
-Subsec. (e)(2). Pub. L. 92–303, § 5(3), substituted “January 1, 1974” for “January 1, 1973”.
+Subsec. (e)(2). Pub. L. 92–303, § 5(3), substituted “January 1, 1974” for “January 1, 1973”.
 
-Subsec. (e)(3). Pub. L. 92–303, § 5(4), substituted “twelve years” for “seven years”.
+Subsec. (e)(3). Pub. L. 92–303, § 5(4), substituted “twelve years” for “seven years”.
 
-Subsec. (f). Pub. L. 92–303, § 8, designated existing provisions as par. (1) and added par. (2).
+Subsec. (f). Pub. L. 92–303, § 8, designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (h). Pub. L. 92–303, § 3(a), substituted “coal mine” for “underground coal mine”.
+Subsec. (h). Pub. L. 92–303, § 3(a), substituted “coal mine” for “underground coal mine”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3541,21 +3541,21 @@ Amendment by Pub. L. 95–239 effective Mar. 1, 1978, see section 20(a) of Pub. 
 
 Amendment by section 3(a), (b) of Pub. L. 92–303 effective Dec. 30, 1969, see section 3(c) of Pub. L. 92–303, set out as a note under section 901 of this title.
 
-#### § 932a. Appointment of qualified individuals to hear and determine claims for benefits
+#### § 932a. Appointment of qualified individuals to hear and determine claims for benefits
 
-Qualified individuals appointed by the Secretary of Labor may hear and determine claims for benefits under part B or part C of title IV of the Federal Coal Mine Health and Safety Act of 1969 1
+Qualified individuals appointed by the Secretary of Labor may hear and determine claims for benefits under part B or part C of title IV of the Federal Coal Mine Health and Safety Act of 1969 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 [30 U.S.C. 921 et seq., 931 et seq.] and under section 415 of such Act [30 U.S.C. 925]. For purposes of this section, the term “qualified individual” means such an individual, regardless of whether that individual is a hearing examiner appointed under section 3105 of title 5. Nothing in this section shall be deemed to imply that there is or is not in effect any authority for such individuals to hear and determine such claims under any provision of law other than this section.
 
-(Pub. L. 94–504, Oct. 15, 1976, 90 Stat. 2428; Pub. L. 107–275, § 2(b)(5), Nov. 2, 2002, 116 Stat. 1926.)
+(Pub. L. 94–504, Oct. 15, 1976, 90 Stat. 2428; Pub. L. 107–275, § 2(b)(5), Nov. 2, 2002, 116 Stat. 1926.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Coal Mine Health and Safety Act of 1969, referred to in text, is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, which was renamed the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, § 101, Nov. 9, 1977, 91 Stat. 1290. Parts B and C of title IV of the Federal Mine Safety and Health Act of 1977 are classified generally to part B (§ 921 et seq.) of this subchapter and to this part (§ 931 et seq.), respectively. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+The Federal Coal Mine Health and Safety Act of 1969, referred to in text, is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, which was renamed the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, § 101, Nov. 9, 1977, 91 Stat. 1290. Parts B and C of title IV of the Federal Mine Safety and Health Act of 1977 are classified generally to part B (§ 921 et seq.) of this subchapter and to this part (§ 931 et seq.), respectively. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 **Codification**
 
@@ -3571,11 +3571,11 @@ Section was not enacted as part of the Federal Mine Safety and Health Act of 197
 
 Amendment by Pub. L. 107–275 effective 90 days after Nov. 2, 2002, see section 4 of Pub. L. 107–275, set out as a note under section 902 of this title.
 
-**Extension of Adjudication Period Through March 1, 1979**
+**Extension of Adjudication Period Through March 1, 1979**
 
-Pub. L. 95–239, § 7(i), Mar. 1, 1978, 92 Stat. 100, authorized individuals appointed to hear and determine claims for benefits under this part and under section 925 of this title pursuant to this section, notwithstanding the provisions of section 932(a) of this title, to continue to adjudicate such claims during the one-year period following Mar. 1, 1978.
+Pub. L. 95–239, § 7(i), Mar. 1, 1978, 92 Stat. 100, authorized individuals appointed to hear and determine claims for benefits under this part and under section 925 of this title pursuant to this section, notwithstanding the provisions of section 932(a) of this title, to continue to adjudicate such claims during the one-year period following Mar. 1, 1978.
 
-#### § 933. Duties of operators in States not qualifying under workmen’s compensation laws
+#### § 933. Duties of operators in States not qualifying under workmen’s compensation laws
 
 **(a) Securing of benefits for miners; self-insurers; mutual companies**
 
@@ -3591,9 +3591,9 @@ During any period in which a State workmen’s compensation law is not included 
 
 **(c) Cancellation of insurance contracts**
 
-No policy or contract of insurance issued by a carrier to comply with the requirements of clause (2) of subsection (a) of this subsection 1
+No policy or contract of insurance issued by a carrier to comply with the requirements of clause (2) of subsection (a) of this subsection 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 shall be canceled prior to the date specified in such policy or contract for its expiration until at least thirty days have elapsed after notice of cancellation has been sent by registered or certified mail to the Secretary and to the operator at his last known place of business.
 
@@ -3603,13 +3603,13 @@ shall be canceled prior to the date specified in such policy or contract for its
 
 **(2)** Any employer of a miner who knowingly transfers, sells, encumbers, assigns, or in any manner disposes of, conceals, secrets,2
 
-<sup>2</sup>  So in original. Probably should be “secretes,”.
+<sup>2</sup> So in original. Probably should be “secretes,”.
 
 or destroys any property belonging to such employer, after any miner employed by such employer has filed a claim under this subchapter, and with intent to avoid the payment of benefits under this subchapter to such miner or his or her dependents, shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine of not more than $1,000, or by imprisonment for not more than one year, or both. In any case where such employer is a corporation, the president, secretary, and treasurer thereof also shall be severally liable for such penalty of imprisonment as well as jointly liable with such corporation for such fine.
 
 **(3)** This subsection shall not affect any other liability of the employer under this part.
 
-(Pub. L. 91–173, title IV, § 423, Dec. 30, 1969, 83 Stat. 797; Pub. L. 92–303, § 3(b), May 19, 1972, 86 Stat. 153; Pub. L. 95–239, § 8, Mar. 1, 1978, 92 Stat. 100.)
+(Pub. L. 91–173, title IV, § 423, Dec. 30, 1969, 83 Stat. 797; Pub. L. 92–303, § 3(b), May 19, 1972, 86 Stat. 153; Pub. L. 95–239, § 8, Mar. 1, 1978, 92 Stat. 100.)
 
 **Editorial Notes**
 
@@ -3629,7 +3629,7 @@ Amendment by Pub. L. 95–239 effective Mar. 1, 1978, see section 20(a) of Pub. 
 
 Amendment by Pub. L. 92–303 effective Dec. 30, 1969, see section 3(c) of Pub. L. 92–303, set out as a note under section 901 of this title.
 
-#### § 934. “Fund” defined; liability of operators to United States for repayments to fund; procedures applicable; rate of interest
+#### § 934. “Fund” defined; liability of operators to United States for repayments to fund; procedures applicable; rate of interest
 
 **(a)** For purposes of this section, the term “fund” has the meaning set forth in section 902(h) of this title.
 
@@ -3671,7 +3671,7 @@ then the operator is liable to the United States for repayment to the fund of th
 
 **(B)** for any period after calendar year 1982, shall be the rate established by section 6621 of title 26 which is in effect for such period.
 
-(Pub. L. 91–173, title IV, § 424, Dec. 30, 1969, 83 Stat. 798; Pub. L. 92–303, § 1(c)(1), May 19, 1972, 86 Stat. 151; Pub. L. 95–227, § 3(d), Feb. 10, 1978, 92 Stat. 13; Pub. L. 96–222, title I, § 108(b)(2)(A), Apr. 1, 1980, 94 Stat. 226; Pub. L. 97–119, title I, § 104(a)(1), (2), (b)(6), Dec. 29, 1981, 95 Stat. 1639; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 91–173, title IV, § 424, Dec. 30, 1969, 83 Stat. 798; Pub. L. 92–303, § 1(c)(1), May 19, 1972, 86 Stat. 151; Pub. L. 95–227, § 3(d), Feb. 10, 1978, 92 Stat. 13; Pub. L. 96–222, title I, § 108(b)(2)(A), Apr. 1, 1980, 94 Stat. 226; Pub. L. 97–119, title I, § 104(a)(1), (2), (b)(6), Dec. 29, 1981, 95 Stat. 1639; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
 
 **Editorial Notes**
 
@@ -3683,21 +3683,21 @@ Section 6321, referred to in subsec. (b)(3)(A)(i), means section 6321 of Title 2
 
 Section 6332(b), referred to in subsec. (b)(3)(A)(i), means section 6332(b) of Title 26.
 
-The Bankruptcy Act, referred to in subsec. (b)(3)(B), is act July 1, 1898, ch. 541, 30 Stat. 544, which was classified generally to former Title 11, Bankruptcy. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11.
+The Bankruptcy Act, referred to in subsec. (b)(3)(B), is act July 1, 1898, ch. 541, 30 Stat. 544, which was classified generally to former Title 11, Bankruptcy. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11.
 
 **Codification**
 
-In subsec. (b)(3)(B), “section 3713(a) of title 31” substituted for “section 3466 of the Revised Statutes (31 U.S.C. 191)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b)(3)(B), “section 3713(a) of title 31” substituted for “section 3466 of the Revised Statutes (31 U.S.C. 191)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
 1986—Subsec. (b)(3)(A), (C), (D), (5)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1981—Subsec. (a). Pub. L. 97–119, § 104(b)(6), substituted provision defining “fund” as used in this section for provision specifying payments, repayments, and reimbursements which funds from the Black Lung Disability Trust Fund would be available to pay.
+1981—Subsec. (a). Pub. L. 97–119, § 104(b)(6), substituted provision defining “fund” as used in this section for provision specifying payments, repayments, and reimbursements which funds from the Black Lung Disability Trust Fund would be available to pay.
 
-Subsec. (b)(1). Pub. L. 97–119, § 104(a)(2), inserted “plus interest thereon” after “attributed to him”.
+Subsec. (b)(1). Pub. L. 97–119, § 104(a)(2), inserted “plus interest thereon” after “attributed to him”.
 
-Subsec. (b)(5). Pub. L. 97–119, § 104(a)(1), added par. (5).
+Subsec. (b)(5). Pub. L. 97–119, § 104(a)(1), added par. (5).
 
 1980—Subsec. (b)(3)(A)(i). Pub. L. 96–222 substituted “Federal Mine Safety and Health Act of 1977” for “Federal Coal Mine Health and Safety Act of 1969”.
 
@@ -3709,7 +3709,7 @@ Subsec. (b)(5). Pub. L. 97–119, § 104(a)(1), added par. (5).
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–119, title I, § 104(a)(3), Dec. 29, 1981, 95 Stat. 1639, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on January 1, 1982, and shall apply to amounts outstanding on such date or arising thereafter.”
+Pub. L. 97–119, title I, § 104(a)(3), Dec. 29, 1981, 95 Stat. 1639, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on January 1, 1982, and shall apply to amounts outstanding on such date or arising thereafter.”
 
 **Effective Date of 1980 Amendment**
 
@@ -3717,11 +3717,11 @@ Amendment by Pub. L. 96–222 effective as if included in the provisions of Pub.
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–227, § 3(e), Feb. 10, 1978, 92 Stat. 15, provided that: “This section [enacting section 934a of this title and amending this section] shall take effect on April 1, 1978.”
+Pub. L. 95–227, § 3(e), Feb. 10, 1978, 92 Stat. 15, provided that: “This section [enacting section 934a of this title and amending this section] shall take effect on April 1, 1978.”
 
-#### § 934a. Repealed. Pub. L. 97–119, title I, § 103(b), Dec. 29, 1981, 95 Stat. 1638
+#### § 934a. Repealed. Pub. L. 97–119, title I, § 103(b), Dec. 29, 1981, 95 Stat. 1638
 
-Section, Pub. L. 95–227, § 3(a)–(c), Feb. 10, 1978, 92 Stat. 12; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–222, title I, § 108(b)(2)(A), (3)(A), Apr. 1, 1980, 94 Stat. 226, established a Black Lung Disability Trust Fund, designated trustees for the fund, and provided for operation of the fund. See section 9501 of Title 26, Internal Revenue Code.
+Section, Pub. L. 95–227, § 3(a)–(c), Feb. 10, 1978, 92 Stat. 12; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–222, title I, § 108(b)(2)(A), (3)(A), Apr. 1, 1980, 94 Stat. 226, established a Black Lung Disability Trust Fund, designated trustees for the fund, and provided for operation of the fund. See section 9501 of Title 26, Internal Revenue Code.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3731,17 +3731,17 @@ Repeal effective Jan. 1, 1982, see section 103(d)(1) of Pub. L. 97–119, set ou
 
 **Provisions Relating to Payment of Benefits to Miners and Eligible Survivors of Miners To Take Effect as Rules and Regulations of Secretary of Labor**
 
-Pub. L. 95–239, § 20(b), Mar. 1, 1978, 92 Stat. 106, provided that in the event that the payment of benefits to miners and to eligible survivors of miners cannot be made from the Black Lung Disability Trust Fund established by section 3(a) of the Black Lung Benefits Revenue Act of 1977 [former subsec. (a) of this section], the provisions of the Act relating to the payment of benefits to miners and to eligible survivors of miners, as in effect immediately before the date of the enactment of this Act [Mar. 1, 1978], shall take effect, as rules and regulations of the Secretary of Labor until such provisions are revoked, amended, or revised by law, and that the Secretary of Labor may promulgate additional rules and regulations to carry out such provisions and shall make benefit payments to miners and to eligible survivors of miners in accordance with such provisions.
+Pub. L. 95–239, § 20(b), Mar. 1, 1978, 92 Stat. 106, provided that in the event that the payment of benefits to miners and to eligible survivors of miners cannot be made from the Black Lung Disability Trust Fund established by section 3(a) of the Black Lung Benefits Revenue Act of 1977 [former subsec. (a) of this section], the provisions of the Act relating to the payment of benefits to miners and to eligible survivors of miners, as in effect immediately before the date of the enactment of this Act [Mar. 1, 1978], shall take effect, as rules and regulations of the Secretary of Labor until such provisions are revoked, amended, or revised by law, and that the Secretary of Labor may promulgate additional rules and regulations to carry out such provisions and shall make benefit payments to miners and to eligible survivors of miners in accordance with such provisions.
 
-#### § 935. Utilization of services of State and local agencies
+#### § 935. Utilization of services of State and local agencies
 
 With the consent and cooperation of State agencies charged with administration of State workmen’s compensation laws, the Secretary may, for the purpose of carrying out his functions and duties under section 932 of this title, utilize the services of State and local agencies and their employees and, notwithstanding any other provision of law, may advance funds to or reimburse such State and local agencies and their employees for services rendered for such purposes.
 
-(Pub. L. 91–173, title IV, § 425, Dec. 30, 1969, 83 Stat. 798.)
+(Pub. L. 91–173, title IV, § 425, Dec. 30, 1969, 83 Stat. 798.)
 
-#### § 936. Regulations and reports
+#### § 936. Regulations and reports
 
-**(a) Promulgation; applicability of section 553 of title 5**
+**(a) Promulgation; applicability of section 553 of title 5**
 
 The Secretary of Labor and the Secretary of Health and Human Services are authorized to issue such regulations as each deems appropriate to carry out the provisions of this subchapter. Such regulations shall be issued in conformity with section 553 of title 5, notwithstanding subsection (a) thereof.
 
@@ -3753,7 +3753,7 @@ At the end of fiscal year 2003 and each succeeding fiscal year, the Secretary of
 
 Nothing in this subchapter shall relieve any operator of the duty to comply with any State workmen’s compensation law, except insofar as such State law is in conflict with the provisions of this subchapter and the Secretary by regulation, so prescribes. The provisions of any State workmen’s compensation law which provide greater benefits than the benefits payable under this subchapter shall not thereby be construed or held to be in conflict with the provisions of this subchapter.
 
-(Pub. L. 91–173, title IV, § 426, Dec. 30, 1969, 83 Stat. 798; Pub. L. 92–303, § 5(3), May 19, 1972, 86 Stat. 155; Pub. L. 103–296, title I, § 108(i)(3), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 104–66, title I, § 1102(b)(2), Dec. 21, 1995, 109 Stat. 723; Pub. L. 107–275, § 2(b)(4), Nov. 2, 2002, 116 Stat. 1926.)
+(Pub. L. 91–173, title IV, § 426, Dec. 30, 1969, 83 Stat. 798; Pub. L. 92–303, § 5(3), May 19, 1972, 86 Stat. 155; Pub. L. 103–296, title I, § 108(i)(3), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 104–66, title I, § 1102(b)(2), Dec. 21, 1995, 109 Stat. 723; Pub. L. 107–275, § 2(b)(4), Nov. 2, 2002, 116 Stat. 1926.)
 
 **Editorial Notes**
 
@@ -3763,15 +3763,15 @@ Section 942 of title 33, referred to in subsec. (b), was in the original “sect
 
 **Amendments**
 
-2002—Subsec. (a). Pub. L. 107–275, § 2(b)(4)(A), struck out “, the Commissioner of Social Security,” after “The Secretary of Labor”.
+2002—Subsec. (a). Pub. L. 107–275, § 2(b)(4)(A), struck out “, the Commissioner of Social Security,” after “The Secretary of Labor”.
 
-Subsec. (b). Pub. L. 107–275, § 2(b)(4)(B), amended first sentence generally. Prior to amendment, first sentence read as follows: “At the end of each fiscal year, the Commissioner of Social Security shall submit to the Congress an annual report upon the subject matter of part B of this subchapter, and, after January 1, 1974, the Secretary of Labor shall also submit such a report upon the subject matter of this part.”
+Subsec. (b). Pub. L. 107–275, § 2(b)(4)(B), amended first sentence generally. Prior to amendment, first sentence read as follows: “At the end of each fiscal year, the Commissioner of Social Security shall submit to the Congress an annual report upon the subject matter of part B of this subchapter, and, after January 1, 1974, the Secretary of Labor shall also submit such a report upon the subject matter of this part.”
 
 1995—Subsec. (b). Pub. L. 104–66 substituted “At the end of each fiscal year, the” for “Within 120 days following the convening of each session of Congress the” and inserted at end “Each such report shall be prepared and submitted to Congress in accordance with the requirement with respect to submission under section 942 of title 33.”
 
-1994—Subsec. (a). Pub. L. 103–296, § 108(i)(3)(A), substituted “, the Commissioner of Social Security, and the Secretary of Health and Human Services” for “and the Secretary of Health, Education, and Welfare”.
+1994—Subsec. (a). Pub. L. 103–296, § 108(i)(3)(A), substituted “, the Commissioner of Social Security, and the Secretary of Health and Human Services” for “and the Secretary of Health, Education, and Welfare”.
 
-Subsec. (b). Pub. L. 103–296, § 108(i)(3)(B), substituted “Commissioner of Social Security” for “Secretary of Health, Education, and Welfare”.
+Subsec. (b). Pub. L. 103–296, § 108(i)(3)(B), substituted “Commissioner of Social Security” for “Secretary of Health, Education, and Welfare”.
 
 1972—Subsec. (b). Pub. L. 92–303 substituted “January 1, 1974” for “January 1, 1973”.
 
@@ -3785,7 +3785,7 @@ Amendment by Pub. L. 107–275 effective 90 days after Nov. 2, 2002, see section
 
 Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
 
-#### § 937. Contracts and grants
+#### § 937. Contracts and grants
 
 **(a) Construction, purchase, and operation of fixed-site and mobile clinical facilities**
 
@@ -3799,7 +3799,7 @@ The Secretary of Health and Human Services shall initiate research within the Na
 
 There is hereby authorized to be appropriated for the purpose of subsection (a) of this section $10,000,000 for each fiscal year. There are hereby authorized to be appropriated for the purposes of subsection (b) of this section such sums as are necessary.
 
-(Pub. L. 91–173, title IV, § 427, as added Pub. L. 92–303, § 5(6), May 19, 1972, 86 Stat. 155; amended Pub. L. 95–239, § 9, Mar. 1, 1978, 92 Stat. 100; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 91–173, title IV, § 427, as added Pub. L. 92–303, § 5(6), May 19, 1972, 86 Stat. 155; amended Pub. L. 95–239, § 9, Mar. 1, 1978, 92 Stat. 100; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Editorial Notes**
 
@@ -3817,7 +3817,7 @@ There is hereby authorized to be appropriated for the purpose of subsection (a) 
 
 Amendment by Pub. L. 95–239 effective Mar. 1, 1978, see section 20(a) of Pub. L. 95–239, set out as a note under section 901 of this title.
 
-#### § 938. Miners suffering from pneumoconiosis; discrimination prohibited
+#### § 938. Miners suffering from pneumoconiosis; discrimination prohibited
 
 **(a) Mine operators**
 
@@ -3831,7 +3831,7 @@ Any miner who believes that he has been discharged or otherwise discriminated ag
 
 Whenever an order is issued under this subsection granting relief to a miner at the request of such miner, a sum equal to the aggregate amount of all costs and expenses (including the attorney’s fees) as determined by the Secretary to have been reasonably incurred by such miner for, or in connection with, the institution and prosecution of such proceedings, shall be assessed against the person committing the violation.
 
-(Pub. L. 91–173, title IV, § 428, as added Pub. L. 92–303, § 5(7), May 19, 1972, 86 Stat. 155; amended Pub. L. 95–251, § 2(a)(9), Mar. 27, 1978, 92 Stat. 183; Pub. L. 101–509, title V, § 529 [title I, § 104(d)(3)], Nov. 5, 1990, 104 Stat. 1427, 1447.)
+(Pub. L. 91–173, title IV, § 428, as added Pub. L. 92–303, § 5(7), May 19, 1972, 86 Stat. 155; amended Pub. L. 95–251, § 2(a)(9), Mar. 27, 1978, 92 Stat. 183; Pub. L. 101–509, title V, § 529 [title I, § 104(d)(3)], Nov. 5, 1990, 104 Stat. 1427, 1447.)
 
 **Editorial Notes**
 
@@ -3845,19 +3845,19 @@ Whenever an order is issued under this subsection granting relief to a miner at 
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
 
-#### § 939. Authorization of appropriations
+#### § 939. Authorization of appropriations
 
 There is authorized to be appropriated to the Secretary of Labor such sums as may be necessary to carry out his responsibilities under this subchapter. Such sums shall remain available until expended.
 
-(Pub. L. 91–173, title IV, § 429, as added Pub. L. 92–303, § 5(8), May 19, 1972, 86 Stat. 156.)
+(Pub. L. 91–173, title IV, § 429, as added Pub. L. 92–303, § 5(8), May 19, 1972, 86 Stat. 156.)
 
-#### § 940. Applicability of amendments to part B of this subchapter to this part
+#### § 940. Applicability of amendments to part B of this subchapter to this part
 
 The amendments made by the Black Lung Benefits Act of 1972, the Black Lung Benefits Reform Act of 1977 and the Black Lung Benefits Amendments of 1981 to part B of this subchapter shall, to the extent appropriate, also apply to this part.
 
-(Pub. L. 91–173, title IV, § 430, as added Pub. L. 92–303, § 5(10), May 19, 1972, 86 Stat. 156; amended Pub. L. 95–239, § 10, Mar. 1, 1978, 92 Stat. 100; Pub. L. 97–119, title II, § 202(d), Dec. 29, 1981, 95 Stat. 1643.)
+(Pub. L. 91–173, title IV, § 430, as added Pub. L. 92–303, § 5(10), May 19, 1972, 86 Stat. 156; amended Pub. L. 95–239, § 10, Mar. 1, 1978, 92 Stat. 100; Pub. L. 97–119, title II, § 202(d), Dec. 29, 1981, 95 Stat. 1643.)
 
 **Editorial Notes**
 
@@ -3871,7 +3871,7 @@ The Black Lung Benefits Amendments of 1981, referred to in text, is Pub. L. 97�
 
 **Amendments**
 
-1981—Pub. L. 97–119 inserted “, and the Black Lung Benefits Amendments of 1981”.
+1981—Pub. L. 97–119 inserted “, and the Black Lung Benefits Amendments of 1981”.
 
 1978—Pub. L. 95–239 inserted reference to amendments made by the Black Lung Benefits Reform Act of 1977 and struck out provision that, for the purpose of determining the applicability of the presumption established by 921(c)(4) of this title to claims filed under this part, no period of employment after June 30, 1971, could be considered in determining whether a miner was employed at least fifteen years in one or more underground mines.
 
@@ -3885,11 +3885,11 @@ Amendment by Pub. L. 97–119 effective Jan. 1, 1982, except as otherwise provid
 
 Amendment by Pub. L. 95–239 effective Mar. 1, 1978, see section 20(a) of Pub. L. 95–239, set out as a note under section 901 of this title.
 
-#### § 941. Penalty for false statements or representations
+#### § 941. Penalty for false statements or representations
 
 Any person who willfully makes any false or misleading statement or representation for the purpose of obtaining any benefit or payment under this subchapter shall be guilty of a misdemeanor and on conviction thereof shall be punished by a fine of not more than $1,000, or by imprisonment for not more than one year, or both.
 
-(Pub. L. 91–173, title IV, § 431, as added Pub. L. 92–303, § 6, May 19, 1972, 86 Stat. 156; amended Pub. L. 95–239, § 12(a), Mar. 1, 1978, 92 Stat. 101.)
+(Pub. L. 91–173, title IV, § 431, as added Pub. L. 92–303, § 6, May 19, 1972, 86 Stat. 156; amended Pub. L. 95–239, § 12(a), Mar. 1, 1978, 92 Stat. 101.)
 
 **Editorial Notes**
 
@@ -3903,13 +3903,13 @@ Any person who willfully makes any false or misleading statement or representati
 
 Amendment by Pub. L. 95–239 effective Mar. 1, 1978, see section 20(a) of Pub. L. 95–239, set out as a note under section 901 of this title.
 
-#### § 942. Miner benefit entitlement reports; penalty for failure or refusal to file
+#### § 942. Miner benefit entitlement reports; penalty for failure or refusal to file
 
 **(a)** The Secretary may by regulation require employers to file reports concerning miners who may be or are entitled to benefits under this part, including the date of commencement and cessation of benefits and the amount of such benefits. Any such report shall not be evidence of any fact stated therein in any proceeding relating to death or total disability due to pneumoconiosis of any miner to which such report relates.
 
 **(b)** Any employer who fails or refuses to file any report required of such employer under this section shall be subject to a civil penalty of not more than $500 for each such failure or refusal.
 
-(Pub. L. 91–173, title IV, § 432, as added Pub. L. 95–239, § 12(b), Mar. 1, 1978, 92 Stat. 101.)
+(Pub. L. 91–173, title IV, § 432, as added Pub. L. 95–239, § 12(b), Mar. 1, 1978, 92 Stat. 101.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3917,7 +3917,7 @@ Amendment by Pub. L. 95–239 effective Mar. 1, 1978, see section 20(a) of Pub. 
 
 Section effective Mar. 1, 1978, see section 20(a) of Pub. L. 95–239, set out as an Effective Date of 1978 Amendment note under section 901 of this title.
 
-#### § 943. Black lung insurance program
+#### § 943. Black lung insurance program
 
 **(a) Authorization to establish and carry out**
 
@@ -3983,19 +3983,19 @@ The Secretary may undertake and carry out such studies and investigations, and r
 
 **(i) Authorization of appropriations**
 
-There are authorized to be appropriated to the insurance fund, as repayable advances, such sums as may be necessary to meet obligations incurred under subsection (g). All such sums shall remain available without fiscal year limitation. Advances made pursuant to this subsection shall be repaid, with interest, to the general fund of the Treasury when the Secretary determines that moneys are available in the insurance fund for such repayments. Interest on such advances shall be computed in the same manner as provided in subsection (b)(2) of section 934a 1
+There are authorized to be appropriated to the insurance fund, as repayable advances, such sums as may be necessary to meet obligations incurred under subsection (g). All such sums shall remain available without fiscal year limitation. Advances made pursuant to this subsection shall be repaid, with interest, to the general fund of the Treasury when the Secretary determines that moneys are available in the insurance fund for such repayments. Interest on such advances shall be computed in the same manner as provided in subsection (b)(2) of section 934a 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
-(Pub. L. 91–173, title IV, § 433, as added Pub. L. 95–239, § 13, Mar. 1, 1978, 92 Stat. 101.)
+(Pub. L. 91–173, title IV, § 433, as added Pub. L. 95–239, § 13, Mar. 1, 1978, 92 Stat. 101.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 934a of this title, referred to in subsec. (i), was repealed by Pub. L. 97–119, title I, § 103(b), Dec. 29, 1981, 95 Stat. 1638. See section 9501(c) of Title 26, Internal Revenue Code.
+Section 934a of this title, referred to in subsec. (i), was repealed by Pub. L. 97–119, title I, § 103(b), Dec. 29, 1981, 95 Stat. 1638. See section 9501(c) of Title 26, Internal Revenue Code.
 
 **Codification**
 
@@ -4007,11 +4007,11 @@ Subsec. (h) of this section, which required the Secretary to report to Congress 
 
 Section effective Mar. 1, 1978, see section 20(a) of Pub. L. 95–239, set out as an Effective Date of 1978 Amendment note under section 901 of this title.
 
-#### § 944. Statement of reasons for denial of claim
+#### § 944. Statement of reasons for denial of claim
 
 Any individual whose claim for benefits under this subchapter is denied shall receive from the Secretary a written statement of the reasons for denial of such claim, and a summary of the administrative hearing record or, upon good cause shown, a copy of any transcript thereof.
 
-(Pub. L. 91–173, title IV, § 434, as added Pub. L. 95–239, § 14, Mar. 1, 1978, 92 Stat. 103.)
+(Pub. L. 91–173, title IV, § 434, as added Pub. L. 95–239, § 14, Mar. 1, 1978, 92 Stat. 103.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4019,9 +4019,9 @@ Any individual whose claim for benefits under this subchapter is denied shall re
 
 Section effective Mar. 1, 1978, see section 20(a) of Pub. L. 95–239, set out as an Effective Date of 1978 Amendment note under section 901 of this title.
 
-#### § 945. Repealed. Pub. L. 107–275, § 2(c)(1), Nov. 2, 2002, 116 Stat. 1926
+#### § 945. Repealed. Pub. L. 107–275, § 2(c)(1), Nov. 2, 2002, 116 Stat. 1926
 
-Section, Pub. L. 91–173, title IV, § 435, as added Pub. L. 95–239, § 15, Mar. 1, 1978, 92 Stat. 103; amended Pub. L. 103–296, title I, § 108(i)(4), Aug. 15, 1994, 108 Stat. 1488, related to review of claims pending on, or denied on or before, Mar. 1, 1978.
+Section, Pub. L. 91–173, title IV, § 435, as added Pub. L. 95–239, § 15, Mar. 1, 1978, 92 Stat. 103; amended Pub. L. 103–296, title I, § 108(i)(4), Aug. 15, 1994, 108 Stat. 1488, related to review of claims pending on, or denied on or before, Mar. 1, 1978.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4031,7 +4031,7 @@ Repeal effective 90 days after Nov. 2, 2002, see section 4 of Pub. L. 107–275,
 
 ## SUBCHAPTER V—ADMINISTRATIVE PROVISIONS
 
-### § 951. Studies and research
+### § 951. Studies and research
 
 **(a) Appropriate projects** The Secretary of the Interior and the Secretary of Health and Human Services, as appropriate, shall conduct such studies, research, experiments, and demonstrations as may be appropriate—
 
@@ -4083,7 +4083,7 @@ The Secretary is authorized to grant on a mine-by-mine basis an exception to any
 
 The Secretary of Health and Human Services is authorized to make grants to any public or private agency, institution, or organization, and operators or individuals for research and experiments to develop effective respiratory equipment.
 
-(Pub. L. 91–173, title V, § 501, Dec. 30, 1969, 83 Stat. 798; Pub. L. 95–164, title III, § 303(a), Nov. 9, 1977, 91 Stat. 1320; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 91–173, title V, § 501, Dec. 30, 1969, 83 Stat. 798; Pub. L. 95–164, title III, § 303(a), Nov. 9, 1977, 91 Stat. 1320; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Editorial Notes**
 
@@ -4091,19 +4091,19 @@ The Secretary of Health and Human Services is authorized to make grants to any p
 
 This chapter, referred to in subsecs. (a)(12), (c), (e), and (f), was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
-The Occupational Safety and Health Act of 1970, referred to in subsec. (b), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsec. (b), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 **Amendments**
 
-1977—Subsec. (a). Pub. L. 95–164, § 303(a)(1), (2), (6), substituted “The Secretary of the Interior and” for “The Secretary and” in provisions preceding par. (1), inserted references to mines and mining other than coal mines and coal mining in pars. (1), (2), (3), (4), and (9), added par. (11), and redesignated former par. (11) as (12).
+1977—Subsec. (a). Pub. L. 95–164, § 303(a)(1), (2), (6), substituted “The Secretary of the Interior and” for “The Secretary and” in provisions preceding par. (1), inserted references to mines and mining other than coal mines and coal mining in pars. (1), (2), (3), (4), and (9), added par. (11), and redesignated former par. (11) as (12).
 
-Subsec. (b). Pub. L. 95–164, § 303(a)(1), (3), inserted references to mines other than coal mines, inserted “through the National Institute for Occupational Safety and Health established under the Occupational Safety and Health Act of 1970” after “Secretary of Health, Education, and Welfare”, and substituted “carried out by the Secretary of the Interior in coordination with the Secretary” for “carried out by the Secretary”.
+Subsec. (b). Pub. L. 95–164, § 303(a)(1), (3), inserted references to mines other than coal mines, inserted “through the National Institute for Occupational Safety and Health established under the Occupational Safety and Health Act of 1970” after “Secretary of Health, Education, and Welfare”, and substituted “carried out by the Secretary of the Interior in coordination with the Secretary” for “carried out by the Secretary”.
 
-Subsec. (c). Pub. L. 95–164, § 303(a)(4), substituted “the Secretary of the Interior and the Secretary of Health, Education, and Welfare in coordination with the Secretary” for “the Secretary and the Secretary of Health, Education, and Welfare” and “the Secretary of the Interior or the Secretary of Health, Education, and Welfare in coordination with the Secretary” for “the Secretary or the Secretary of Health, Education, and Welfare”.
+Subsec. (c). Pub. L. 95–164, § 303(a)(4), substituted “the Secretary of the Interior and the Secretary of Health, Education, and Welfare in coordination with the Secretary” for “the Secretary and the Secretary of Health, Education, and Welfare” and “the Secretary of the Interior or the Secretary of Health, Education, and Welfare in coordination with the Secretary” for “the Secretary or the Secretary of Health, Education, and Welfare”.
 
-Subsec. (d). Pub. L. 95–164, § 303(a)(1), inserted reference to mines other than coal mines.
+Subsec. (d). Pub. L. 95–164, § 303(a)(1), inserted reference to mines other than coal mines.
 
-Subsec. (e). Pub. L. 95–164, § 303(a)(5), substituted “Secretary of the Interior” for “Secretary” and “$60,000,000” for “$30,000,000”.
+Subsec. (e). Pub. L. 95–164, § 303(a)(5), substituted “Secretary of the Interior” for “Secretary” and “$60,000,000” for “$30,000,000”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4119,7 +4119,7 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 
 Subchapter effective Dec. 30, 1969, see section 509 of Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, set out as a note under section 801 of this title.
 
-### § 951a. Health, Safety, and Mining Technology Research program
+### § 951a. Health, Safety, and Mining Technology Research program
 
 **(a) Health, Safety, and Mining Technology Research Plan**
 
@@ -4133,7 +4133,7 @@ Subchapter effective Dec. 30, 1969, see section 509 of Pub. L. 91–173, Dec. 30
 
 For the purposes of section 951(b) of this title, as amended, activities in the field of coal or other mine health under such section shall also be carried out by the Secretary of the Interior acting through the Director of the Bureau of Mines. Nothing in this subsection is intended to preclude or duplicate the ongoing research activities of the Bureau of Mines on health hazards safety technology or research conducted by the National Institute of Occupational Safety and Health on coal mine safety and health effects.
 
-(Pub. L. 102–486, title XXV, § 2512, Oct. 24, 1992, 106 Stat. 3111.)
+(Pub. L. 102–486, title XXV, § 2512, Oct. 24, 1992, 106 Stat. 3111.)
 
 **Editorial Notes**
 
@@ -4147,7 +4147,7 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 
 Bureau of Mines redesignated United States Bureau of Mines by section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
 
-### § 952. Training and education
+### § 952. Training and education
 
 **(a) Programs for operators, agents, and miners** The Secretary shall expand programs for the education and training of operators and agents thereof, and miners in—
 
@@ -4163,11 +4163,11 @@ The Secretary shall, to the greatest extent possible, provide technical assistan
 
 **(1)** The National Mine Health and Safety Academy shall be maintained as an agency of the Department of Labor. The Academy shall be responsible for the training of mine safety and health inspectors under section 954 of this title, and in training of technical support personnel of the Mine Safety and Health Administration established under section 557a of title 29; and for any other training programs for mine inspectors, mining personnel, or other persons as the Secretary of Labor shall designate. In performing this function, the Academy shall have the authority to enter into cooperative educational and training agreements with educational institutions, State governments, labor organizations, and mine operators and related industries. Such training shall be conducted by the Academy in accordance with curriculum needs and assignment of instructional personnel established by the user.
 
-**(2)** Repealed. Pub. L. 96–38, title I, § 100, July 25, 1979, 93 Stat. 111.
+**(2)** Repealed. Pub. L. 96–38, title I, § 100, July 25, 1979, 93 Stat. 111.
 
 **(3)** The Secretary of the Interior shall conduct his safety research responsibilities under section 951 of this title in coordination with the Secretary of Labor, and the Secretaries of Labor and the Interior are authorized to enter into contractual or other agreements for the performance of such safety related research.
 
-(Pub. L. 91–173, title V, § 502, Dec. 30, 1969, 83 Stat. 800; Pub. L. 95–164, title III, § 303(b), (h), Nov. 9, 1977, 91 Stat. 1320, 1321; Pub. L. 96–38, title I, § 100, July 25, 1979, 93 Stat. 111.)
+(Pub. L. 91–173, title V, § 502, Dec. 30, 1969, 83 Stat. 800; Pub. L. 95–164, title III, § 303(b), (h), Nov. 9, 1977, 91 Stat. 1320, 1321; Pub. L. 96–38, title I, § 100, July 25, 1979, 93 Stat. 111.)
 
 **Editorial Notes**
 
@@ -4181,9 +4181,9 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 Subsec. (c)(2). Pub. L. 96–38 struck out par. (2) which directed that the National Mine Health and Safety Academy use the facilities and personnel of the Department of the Interior and that the Secretary of the Interior appoint or assign to the Academy necessary officers and employees.
 
-1977—Subsecs. (a), (b). Pub. L. 95–164, § 303(b), inserted references to mines other than coal mines.
+1977—Subsecs. (a), (b). Pub. L. 95–164, § 303(b), inserted references to mines other than coal mines.
 
-Subsec. (c). Pub. L. 95–164, § 303(h), added subsec. (c).
+Subsec. (c). Pub. L. 95–164, § 303(h), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4191,7 +4191,7 @@ Subsec. (c). Pub. L. 95–164, § 303(h), added subsec. (c).
 
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under section 801 of this title.
 
-### § 953. Assistance to States
+### § 953. Assistance to States
 
 **(a) Development and enforcement of health and safety regulations; improvement of workmen’s compensation and occupational disease laws; promotion of Federal-State coordination in mine safety** The Secretary, in coordination with the Secretary of Health and Human Services and the Secretary of the Interior, is authorized to make grants in accordance with an application approved under this section to any State in which coal or other mining takes place—
 
@@ -4245,17 +4245,17 @@ The amount granted to any coal or other mining State for a fiscal year under thi
 
 There is authorized to be appropriated $3,000,000 for fiscal year 1970, and $10,000,000 annually in each succeeding fiscal year to carry out the provisions of this section, which shall remain available until expended. The Secretary shall provide for an equitable distribution of sums appropriated for grants under this section to the States where there is an approved application, except that no less than one-half of such sum shall be allocated to coal-producing States.
 
-(Pub. L. 91–173, title V, § 503, Dec. 30, 1969, 83 Stat. 800; Pub. L. 95–164, title III, § 303(c), Nov. 9, 1977, 91 Stat. 1320; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 91–173, title V, § 503, Dec. 30, 1969, 83 Stat. 800; Pub. L. 95–164, title III, § 303(c), Nov. 9, 1977, 91 Stat. 1320; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1977—Subsec. (a). Pub. L. 95–164, § 303(c)(1), inserted reference to mines and mining other than coal mines and coal mining and substituted “Secretary of the Interior” for “Secretary of Labor”.
+1977—Subsec. (a). Pub. L. 95–164, § 303(c)(1), inserted reference to mines and mining other than coal mines and coal mining and substituted “Secretary of the Interior” for “Secretary of Labor”.
 
-Subsecs. (b), (f), (g). Pub. L. 95–164, § 303(c)(1), inserted references to mines and mining other than coal mines and coal mining.
+Subsecs. (b), (f), (g). Pub. L. 95–164, § 303(c)(1), inserted references to mines and mining other than coal mines and coal mining.
 
-Subsec. (h). Pub. L. 95–164, § 303(c)(2), substituted “$10,000,000” for “$5,000,000” and inserted requirement that no less than one-half of sums appropriated for grants be allocated to coal-producing States.
+Subsec. (h). Pub. L. 95–164, § 303(c)(2), substituted “$10,000,000” for “$5,000,000” and inserted requirement that no less than one-half of sums appropriated for grants be allocated to coal-producing States.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4267,11 +4267,11 @@ Subsec. (h). Pub. L. 95–164, § 303(c)(2), substituted “$10,000,000” for
 
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under section 801 of this title.
 
-### § 954. Appointment of administrative personnel and inspectors; qualifications; training programs
+### § 954. Appointment of administrative personnel and inspectors; qualifications; training programs
 
 The Secretary may, subject to the civil service laws, appoint such employees as he deems requisite for the administration of this chapter and prescribe their duties. Persons appointed as authorized representatives of the Secretary shall be qualified by practical experience in mining or by experience as a practical mining engineer or by education: *Provided, however*, That, to the maximum extent feasible, in the selection of persons for appointment as mine inspectors, no person shall be so selected unless he has the basic qualification of at least five years practical mining experience and in assigning mine inspectors to the inspection and investigation of individual mines, due consideration shall be given to the extent possible to their previous experience in the particular type of mining operation where such inspections are to be made. Persons appointed to assist such representatives in the taking of samples of respirable dust for the purpose of enforcing subchapter II of this chapter shall be qualified by training, experience, or education. The provisions of section 201 of the Revenue and Expenditure Control Act of 1968 (82 Stat. 251, 270) shall not apply with respect to the appointment of such authorized representatives of the Secretary or to persons appointed to assist such representatives and to carry out the provisions of this chapter, and, in applying the provisions of such section to other agencies under the Secretary and to other agencies of the Government, such appointed persons shall not be taken into account. Such persons shall be adequately trained by the Secretary. The Secretary shall develop programs with educational institutions and operators designed to enable persons to qualify for positions in the administration of this chapter. In selecting persons and training and retraining persons to carry out the provisions of this chapter, the Secretary shall work with appropriate educational institutions, operators, and representatives of miners in developing and maintaining adequate programs for the training and continuing education of persons, particularly inspectors, and where appropriate, the Secretary shall cooperate with such institutions in carrying out the provisions of this section by providing financial and technical assistance to such institutions.
 
-(Pub. L. 91–173, title V, § 505, Dec. 30, 1969, 83 Stat. 802; Pub. L. 95–164, title III, § 303(d), Nov. 9, 1977, 91 Stat. 1320.)
+(Pub. L. 91–173, title V, § 505, Dec. 30, 1969, 83 Stat. 802; Pub. L. 95–164, title III, § 303(d), Nov. 9, 1977, 91 Stat. 1320.)
 
 **Editorial Notes**
 
@@ -4279,7 +4279,7 @@ The Secretary may, subject to the civil service laws, appoint such employees as 
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
-Section 201 of the Revenue and Expenditure Control Act of 1968 (82 Stat. 251, 270), referred to in text, is section 201 of Pub. L. 90–364, title II, June 28, 1968, 82 Stat. 270, which was set out as a note under section 3101 of Title 5 and was repealed by Pub. L. 91–47, title V, § 503, July 22, 1969, 83 Stat. 83.
+Section 201 of the Revenue and Expenditure Control Act of 1968 (82 Stat. 251, 270), referred to in text, is section 201 of Pub. L. 90–364, title II, June 28, 1968, 82 Stat. 270, which was set out as a note under section 3101 of Title 5 and was repealed by Pub. L. 91–47, title V, § 503, July 22, 1969, 83 Stat. 83.
 
 **Amendments**
 
@@ -4293,15 +4293,15 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 
 **Number of Inspectors**
 
-Pub. L. 95–164, title III, § 304, Nov. 9, 1977, 91 Stat. 1320, provided that: “Nothing contained in this Act [see Short Title of 1977 Amendment note under section 801 of this title] or any amendment made by this Act shall be construed to reduce the number of inspectors engaged in enforcement of the Federal Coal Mine Health and Safety Act of 1969 [this chapter] and the Federal Metal and Nonmetallic Mine Safety Act [section 721 et seq. of this title] as in effect prior to the effective date of this Act [120 days after Nov. 9, 1977] or to reduce the number of inspectors engaged in the enforcement of the Occupational Safety and Health Act of 1970 [section 651 et seq. of Title 29, Labor].”
+Pub. L. 95–164, title III, § 304, Nov. 9, 1977, 91 Stat. 1320, provided that: “Nothing contained in this Act [see Short Title of 1977 Amendment note under section 801 of this title] or any amendment made by this Act shall be construed to reduce the number of inspectors engaged in enforcement of the Federal Coal Mine Health and Safety Act of 1969 [this chapter] and the Federal Metal and Nonmetallic Mine Safety Act [section 721 et seq. of this title] as in effect prior to the effective date of this Act [120 days after Nov. 9, 1977] or to reduce the number of inspectors engaged in the enforcement of the Occupational Safety and Health Act of 1970 [section 651 et seq. of Title 29, Labor].”
 
-### § 955. State laws
+### § 955. State laws
 
 **(a)** No State law in effect on December 30, 1969 or which may become effective thereafter shall be superseded by any provision of this chapter or order issued or any mandatory health or safety standard, except insofar as such State law is in conflict with this chapter or with any order issued or any mandatory health or safety standard.
 
 **(b)** The provisions of any State law or regulation in effect upon the operative date of this chapter, or which may become effective thereafter, which provide for more stringent health and safety standards applicable to coal or other mines than do the provisions of this chapter or any order issued or any mandatory health or safety standard shall not thereby be construed or held to be in conflict with this chapter. The provisions of any State law or regulation in effect on December 30, 1969, or which may become effective thereafter, which provide for health and safety standards applicable to coal or other mines for which no provision is contained in this chapter or in any order issued or any mandatory health or safety standard, shall not be held to be in conflict with this chapter.
 
-(Pub. L. 91–173, title V, § 506, Dec. 30, 1969, 83 Stat. 803; Pub. L. 95–164, title III, § 303(e), Nov. 9, 1977, 91 Stat. 1321.)
+(Pub. L. 91–173, title V, § 506, Dec. 30, 1969, 83 Stat. 803; Pub. L. 95–164, title III, § 303(e), Nov. 9, 1977, 91 Stat. 1321.)
 
 **Editorial Notes**
 
@@ -4321,11 +4321,11 @@ For the operative date of this chapter, referred to in subsec. (b), see section 
 
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under section 801 of this title.
 
-### § 956. Applicability of administrative procedure provisions
+### § 956. Applicability of administrative procedure provisions
 
 Except as otherwise provided in this chapter, the provisions of sections 551 to 559 and sections 701 to 706 of title 5 shall not apply to the making of any order, notice, or decision made pursuant to this chapter, or to any proceeding for the review thereof.
 
-(Pub. L. 91–173, title V, § 507, Dec. 30, 1969, 83 Stat. 803.)
+(Pub. L. 91–173, title V, § 507, Dec. 30, 1969, 83 Stat. 803.)
 
 **Editorial Notes**
 
@@ -4333,11 +4333,11 @@ Except as otherwise provided in this chapter, the provisions of sections 551 to 
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
-### § 957. Promulgation of regulations
+### § 957. Promulgation of regulations
 
 The Secretary, the Secretary of Health and Human Services, the Commissioner of Social Security, and the Panel are authorized to issue such regulations as each deems appropriate to carry out any provision of this chapter.
 
-(Pub. L. 91–173, title V, § 508, Dec. 30, 1969, 83 Stat. 803; Pub. L. 103–296, title I, § 108(i)(5), Aug. 15, 1994, 108 Stat. 1488.)
+(Pub. L. 91–173, title V, § 508, Dec. 30, 1969, 83 Stat. 803; Pub. L. 103–296, title I, § 108(i)(5), Aug. 15, 1994, 108 Stat. 1488.)
 
 **Editorial Notes**
 
@@ -4355,13 +4355,13 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
 
-### § 958. Annual reports to Congress; contents
+### § 958. Annual reports to Congress; contents
 
 **(a)** Within one hundred and twenty days following the convening of each session of Congress the Secretary shall submit through the President to the Congress and to the Office of Science and Technology an annual report upon the subject matter of this chapter, the progress concerning the achievement of its purposes, the needs and requirements in the field of coal or other mine health and safety, the amount and status of each loan made pursuant to this chapter, a description and the anticipated cost of each project and program he has undertaken under sections 861(b) and 951 of this title, and any other relevant information, including any recommendations he deems appropriate.
 
-**(b)** Repealed. Pub. L. 96–470, title I, § 106(f), Oct. 19, 1980, 94 Stat. 2238.
+**(b)** Repealed. Pub. L. 96–470, title I, § 106(f), Oct. 19, 1980, 94 Stat. 2238.
 
-(Pub. L. 91–173, title V, § 511, Dec. 30, 1969, 83 Stat. 803; Pub. L. 95–164, title III, § 303(f), Nov. 9, 1977, 91 Stat. 1321; Pub. L. 96–470, title I, § 106(f), Oct. 19, 1980, 94 Stat. 2238.)
+(Pub. L. 91–173, title V, § 511, Dec. 30, 1969, 83 Stat. 803; Pub. L. 95–164, title III, § 303(f), Nov. 9, 1977, 91 Stat. 1321; Pub. L. 96–470, title I, § 106(f), Oct. 19, 1980, 94 Stat. 2238.)
 
 **Editorial Notes**
 
@@ -4391,13 +4391,13 @@ For termination, effective May 15, 2000, of provisions in subsec. (a) of this se
 
 Functions vested by law in Office of Science and Technology and in Director or Deputy Director of Office of Science and Technology transferred to Director of National Science Foundation, and Office of Science and Technology, including offices of Director and Deputy Director, provided for by sections 1 and 2 of Reorg. Plan No. 2 of 1962, eff. June 8, 1962, 27 F.R. 5419, 76 Stat. 1253, was abolished by sections 2 and 3(a)(5) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, 38 F.R. 9579, 87 Stat. 1089, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 959. Study of coordination of Federal and State activities; report
+### § 959. Study of coordination of Federal and State activities; report
 
 **(a)** The Secretary shall make a study to determine the best manner to coordinate Federal and State activities in the field of coal or other mine health and safety so as to achieve (1) maximum health and safety protection for miners, (2) an avoidance of duplication of effort, (3) maximum effectiveness, (4) a reduction of delay to a minimum, and (5) most effective use of Federal inspectors.
 
 **(b)** The Secretary shall make a report of the results of his study to the Congress as soon as practicable after December 30, 1969.
 
-(Pub. L. 91–173, title V, § 512, Dec. 30, 1969, 83 Stat. 804; Pub. L. 95–164, title III, § 303(g), Nov. 9, 1977, 91 Stat. 1321.)
+(Pub. L. 91–173, title V, § 512, Dec. 30, 1969, 83 Stat. 804; Pub. L. 95–164, title III, § 303(g), Nov. 9, 1977, 91 Stat. 1321.)
 
 **Editorial Notes**
 
@@ -4411,19 +4411,19 @@ Functions vested by law in Office of Science and Technology and in Director or D
 
 Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as otherwise provided, see section 307 of Pub. L. 95–164, set out as a note under section 801 of this title.
 
-### § 960. Limitation on issuance of temporary restraining order or preliminary injunction
+### § 960. Limitation on issuance of temporary restraining order or preliminary injunction
 
 In any proceeding in which the validity of any interim mandatory health or safety standard set forth in subchapters II and III of this chapter is in issue, no justice, judge, or court of the United States shall issue any temporary restraining order or preliminary injunction restraining the enforcement of such standard pending a determination of such issue on its merits.
 
-(Pub. L. 91–173, title V, § 513, Dec. 30, 1969, 83 Stat. 804.)
+(Pub. L. 91–173, title V, § 513, Dec. 30, 1969, 83 Stat. 804.)
 
-### § 961. Functions transferred under 1977 amendments
+### § 961. Functions transferred under 1977 amendments
 
 **(a) Transfer of functions to Secretary of Labor**
 
-Except with respect to the functions assigned to the Secretary of the Interior pursuant to section 501 of the Federal Coal Mine Health and Safety Act of 1969 [30 U.S.C. 951], the functions of the Secretary of the Interior under the Federal Coal Mine Health and Safety Act of 1969, as amended [30 U.S.C. 801 et seq.], and the Federal Metal and Nonmetallic Mine Safety Act [30 U.S.C. 721 et seq.] are transferred to the Secretary of Labor, except those which are expressly transferred to the Commission by this Act. Effective on the date of enactment of this Act, Health 1
+Except with respect to the functions assigned to the Secretary of the Interior pursuant to section 501 of the Federal Coal Mine Health and Safety Act of 1969 [30 U.S.C. 951], the functions of the Secretary of the Interior under the Federal Coal Mine Health and Safety Act of 1969, as amended [30 U.S.C. 801 et seq.], and the Federal Metal and Nonmetallic Mine Safety Act [30 U.S.C. 721 et seq.] are transferred to the Secretary of Labor, except those which are expressly transferred to the Commission by this Act. Effective on the date of enactment of this Act, Health 1
 
-<sup>1</sup>  So in original. Probably should be “the Health”.
+<sup>1</sup> So in original. Probably should be “the Health”.
 
 and Safety Academy is transferred to the Secretary of Labor.
 
@@ -4445,9 +4445,9 @@ and Safety Academy is transferred to the Secretary of Labor.
 
 **(d) “Function” defined**
 
-For purposes of this section, (1) the term “function” includes power and duty, and (2) the transfer of a function, under any provision of law, of an agency or the head of a department shall also be a transfer of all functions under such law which are exercised by any officer 2
+For purposes of this section, (1) the term “function” includes power and duty, and (2) the transfer of a function, under any provision of law, of an agency or the head of a department shall also be a transfer of all functions under such law which are exercised by any officer 2
 
-<sup>2</sup>  So in original. Probably should be “office”.
+<sup>2</sup> So in original. Probably should be “office”.
 
 or officer of such agency or department.
 
@@ -4455,15 +4455,15 @@ or officer of such agency or department.
 
 The Director of the Office of Management and Budget in consultation with the Secretary of Labor and the Secretary of the Interior is authorized and directed to make such determinations as may be necessary with regard to the dispositions of personnel, personnel positions, property, records, assets, liabilities, contracts, obligations, commitments, unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, in connection with the functions transferred by this Act as he may deem necessary to accomplish the purposes of this Act.
 
-(Pub. L. 95–164, title III, § 301, Nov. 9, 1977, 91 Stat. 1317; Pub. L. 96–38, title I, § 100, July 25, 1979, 93 Stat. 111.)
+(Pub. L. 95–164, title III, § 301, Nov. 9, 1977, 91 Stat. 1317; Pub. L. 96–38, title I, § 100, July 25, 1979, 93 Stat. 111.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Coal Mine Health and Safety Act of 1969, referred to in subsecs. (a) and (b)(1), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, which was redesignated the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, § 101, Nov. 9, 1977, 91 Stat. 1290, and is classified principally to this chapter (§ 801 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+The Federal Coal Mine Health and Safety Act of 1969, referred to in subsecs. (a) and (b)(1), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, which was redesignated the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, § 101, Nov. 9, 1977, 91 Stat. 1290, and is classified principally to this chapter (§ 801 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
-The Federal Metal and Nonmetallic Mine Safety Act, referred to in subsecs. (a) and (b), is Pub. L. 89–577, Sept. 16, 1966, 80 Stat. 772, which was classified generally to chapter 21 (§ 721 et seq.) of this title and was repealed by Pub. L. 95–164, title III, § 306(a), Nov. 9, 1977, 91 Stat. 1322.
+The Federal Metal and Nonmetallic Mine Safety Act, referred to in subsecs. (a) and (b), is Pub. L. 89–577, Sept. 16, 1966, 80 Stat. 772, which was classified generally to chapter 21 (§ 721 et seq.) of this title and was repealed by Pub. L. 95–164, title III, § 306(a), Nov. 9, 1977, 91 Stat. 1322.
 
 This Act, referred to in subsecs. (a), (c)(1), and (e), means Pub. L. 95–164, Nov. 9, 1977, 91 Stat. 1290, known as the Federal Mine Safety and Health Amendments Act of 1977, which enacted sections 822 to 825 and 961 of this title and section 557a of Title 29, Labor, amended sections 801 to 804, 811 to 821, 842, 861, 878, 951 to 955, 958, and 959 of this title and sections 5314 and 5315 of Title 5, Government Organization and Employees, repealed sections 721 to 740 of this title and section 1456a of Title 43, Public Lands, and enacted provisions set out as notes under sections 801 and 954 of this title and section 11 of former Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 801 of this title and Tables.
 
@@ -4471,7 +4471,7 @@ The date of enactment of this Act, referred to in subsec. (a), is the date of en
 
 The Health and Safety Academy, referred to in subsec. (a), probably means the National Mine Health and Safety Academy. See section 952(c) of this title.
 
-The Federal Mine Safety and Health Act of 1977, referred to in subsec. (b)(1), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, as amended by Pub. L. 95–164, title I, § 101, Nov. 9, 1977, 91 Stat. 1290, which is classified principally to this chapter (§ 801 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+The Federal Mine Safety and Health Act of 1977, referred to in subsec. (b)(1), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, as amended by Pub. L. 95–164, title I, § 101, Nov. 9, 1977, 91 Stat. 1290, which is classified principally to this chapter (§ 801 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 For the time this section takes effect, referred to in subsec. (c)(2) and (4), see Effective Date of 1977 Amendment note set out under section 801 of this title.
 
@@ -4489,7 +4489,7 @@ Section was enacted as part of Pub. L. 95–164, known as the Federal Mine Safet
 
 For the effective date of this section, see section 307 of Pub. L. 95–164, set out as an Effective Date of 1977 Amendment note under section 801 of this title.
 
-### § 962. Acceptance of contributions and prosecution of projects; cooperative programs to promote health and safety education and training; recognition and funding of Joseph A. Holmes Safety Association; use of funds for costs of mine rescue and survival operations
+### § 962. Acceptance of contributions and prosecution of projects; cooperative programs to promote health and safety education and training; recognition and funding of Joseph A. Holmes Safety Association; use of funds for costs of mine rescue and survival operations
 
 The Secretary is authorized to accept lands, buildings, equipment, and other contributions from public and private sources and to prosecute projects in cooperation with other agencies, Federal, State, or private: *Provided further*, That the Mine Safety and Health Administration is authorized to promote health and safety education and training in the mining community through cooperative programs with States, industry, and safety associations: *Provided further*, That the Secretary is authorized to recognize the Joseph A. Holmes Safety Association as a principal safety association and, notwithstanding any other provision of law, may provide funds and, with or without reimbursement, personnel, including service of Mine Safety and Health Administration officials as officers in local chapters or in the national organization: *Provided further*, That any funds available to the Department of Labor may be used, with the approval of the Secretary, to provide for the costs of mine rescue and survival operations in the event of a major disaster.
 
@@ -4551,17 +4551,17 @@ Pub. L. 108–7, div. G, title I, Feb. 20, 2003, 117 Stat. 305.
 
 Pub. L. 107–116, title I, Jan. 10, 2002, 115 Stat. 2183.
 
-Pub. L. 106–554, § 1(a)(1) [title I], Dec. 21, 2000, 114 Stat. 2763, 2763A–9.
+Pub. L. 106–554, § 1(a)(1) [title I], Dec. 21, 2000, 114 Stat. 2763, 2763A–9.
 
-Pub. L. 106–113, div. B, § 1000(a)(4) [title I], Nov. 29, 1999, 113 Stat. 1535, 1501A–223.
+Pub. L. 106–113, div. B, § 1000(a)(4) [title I], Nov. 29, 1999, 113 Stat. 1535, 1501A–223.
 
-Pub. L. 105–277, div. A, § 101(f) [title I], Oct. 21, 1998, 112 Stat. 2681–337, 2681–344.
+Pub. L. 105–277, div. A, § 101(f) [title I], Oct. 21, 1998, 112 Stat. 2681–337, 2681–344.
 
 Pub. L. 105–78, title I, Nov. 13, 1997, 111 Stat. 1475.
 
-Pub. L. 104–208, div. A, title I, § 101(e) [title I], Sept. 30, 1996, 110 Stat. 3009–233, 3009–240.
+Pub. L. 104–208, div. A, title I, § 101(e) [title I], Sept. 30, 1996, 110 Stat. 3009–233, 3009–240.
 
-Pub. L. 104–134, title I, § 101(d) [title I], Apr. 26, 1996, 110 Stat. 1321–211, 1321–218; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+Pub. L. 104–134, title I, § 101(d) [title I], Apr. 26, 1996, 110 Stat. 1321–211, 1321–218; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
 Pub. L. 103–333, title I, Sept. 30, 1994, 108 Stat. 2545.
 
@@ -4577,9 +4577,9 @@ Pub. L. 101–166, title I, Nov. 21, 1989, 103 Stat. 1164.
 
 Pub. L. 100–436, title I, Sept. 20, 1988, 102 Stat. 1686.
 
-Pub. L. 100–202, § 101(h) [title I], Dec. 22, 1987, 101 Stat. 1329–256, 1329–262.
+Pub. L. 100–202, § 101(h) [title I], Dec. 22, 1987, 101 Stat. 1329–256, 1329–262.
 
-Pub. L. 99–500, § 101(i) [H.R. 5233, title I], Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(i) [H.R. 5233, title I], Oct. 30, 1986, 100 Stat. 3341–287.
+Pub. L. 99–500, § 101(i) [H.R. 5233, title I], Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(i) [H.R. 5233, title I], Oct. 30, 1986, 100 Stat. 3341–287.
 
 Pub. L. 99–178, title I, Dec. 12, 1985, 99 Stat. 1107.
 
@@ -4587,19 +4587,19 @@ Pub. L. 98–619, title I, Nov. 8, 1984, 98 Stat. 3310.
 
 Pub. L. 98–139, title I, Oct. 31, 1983, 97 Stat. 876.
 
-Pub. L. 97–377, title I, § 101(e)(1) [title I], Dec. 21, 1982, 96 Stat. 1878, 1883.
+Pub. L. 97–377, title I, § 101(e)(1) [title I], Dec. 21, 1982, 96 Stat. 1878, 1883.
 
-Pub. L. 97–92, § 101(a) [H.R. 4560, title I], Dec. 15, 1981, 95 Stat. 1183.
+Pub. L. 97–92, § 101(a) [H.R. 4560, title I], Dec. 15, 1981, 95 Stat. 1183.
 
-Pub. L. 96–536, § 101(a) [incorporating H.R. 4389, title I, for FY 1980], Dec. 16, 1980, 94 Stat. 3166.
+Pub. L. 96–536, § 101(a) [incorporating H.R. 4389, title I, for FY 1980], Dec. 16, 1980, 94 Stat. 3166.
 
-Pub. L. 96–123, § 101(g) [H.R. 4389, title I], Nov. 20, 1979, 93 Stat. 925.
+Pub. L. 96–123, § 101(g) [H.R. 4389, title I], Nov. 20, 1979, 93 Stat. 925.
 
 Pub. L. 95–480, title I, Oct. 18, 1978, 92 Stat. 1570.
 
 Pub. L. 95–355, title I, Sept. 8, 1978, 92 Stat. 529.
 
-### § 963. Technical Study Panel
+### § 963. Technical Study Panel
 
 **(a) Establishment**
 
@@ -4631,9 +4631,9 @@ Not later than 180 days after the receipt of the report under paragraph (1), the
 
 Members appointed to the Panel, while carrying out the duties of the Panel shall be entitled to receive compensation, per diem in lieu of subsistence, and travel expenses in the same manner and under the same conditions as that prescribed under section 210(c) of title 42.
 
-(Pub. L. 91–173, title V, § 514, as added Pub. L. 109–236, § 11, June 15, 2006, 120 Stat. 501.)
+(Pub. L. 91–173, title V, § 514, as added Pub. L. 109–236, § 11, June 15, 2006, 120 Stat. 501.)
 
-### § 964. Scholarships
+### § 964. Scholarships
 
 **(a) Establishment**
 
@@ -4701,9 +4701,9 @@ The skills described in paragraph (1) include skills developed through programs 
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(Pub. L. 91–173, title V, § 515, as added Pub. L. 109–236, § 12, June 15, 2006, 120 Stat. 502.)
+(Pub. L. 91–173, title V, § 515, as added Pub. L. 109–236, § 12, June 15, 2006, 120 Stat. 502.)
 
-### § 965. Brookwood-Sago Mine Safety Grants
+### § 965. Brookwood-Sago Mine Safety Grants
 
 **(a) In general**
 
@@ -4713,7 +4713,7 @@ The Secretary of Labor shall establish a program to award competitive grants for
 
 It is the purpose of this section,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 to provide for the funding of education and training programs to better identify, avoid, and prevent unsafe working conditions in and around mines.
 
@@ -4749,7 +4749,7 @@ The Secretary of Labor shall use not less than 1 percent of the funds made avail
 
 There are authorized to be appropriated for each fiscal year, such sums as may be necessary to carry out this section.
 
-(Pub. L. 109–236, § 14, June 15, 2006, 120 Stat. 504.)
+(Pub. L. 109–236, § 14, June 15, 2006, 120 Stat. 504.)
 
 **Editorial Notes**
 
@@ -4757,7 +4757,7 @@ There are authorized to be appropriated for each fiscal year, such sums as may b
 
 Section was enacted as part of the Mine Improvement and New Emergency Response Act of 2006, also known as the MINER Act, and not as part of the Federal Mine Safety and Health Act of 1977 which comprises this chapter.
 
-### § 966. Retention of fees
+### § 966. Retention of fees
 
 The Mine Safety and Health Administration may retain up to $2,499,000 in this fiscal year and each fiscal year thereafter from fees collected for the approval and certification of equipment, materials, and explosives for use in mines, and may utilize such sums for such activities.
 

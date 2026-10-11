@@ -17,26 +17,26 @@ retrieved: 2026-10-11
 
 ## [SUBCHAPTER I—REPEALED]
 
-### [§ 2446a. Renumbered § 4401]
+### [§ 2446a. Renumbered § 4401]
 
-### [§ 2446b. Renumbered § 4402]
+### [§ 2446b. Renumbered § 4402]
 
-### [§ 2446c. Renumbered § 4403]
+### [§ 2446c. Renumbered § 4403]
 
 ## [SUBCHAPTER II—REPEALED]
 
-### [§ 2447a. Renumbered § 4421]
+### [§ 2447a. Renumbered § 4421]
 
-### [§ 2447b. Renumbered § 4422]
+### [§ 2447b. Renumbered § 4422]
 
-### [§ 2447c. Renumbered § 4423]
+### [§ 2447c. Renumbered § 4423]
 
-### [§ 2447d. Renumbered § 4424]
+### [§ 2447d. Renumbered § 4424]
 
-### [§ 2447e. Renumbered § 4425]
+### [§ 2447e. Renumbered § 4425]
 
 ## [SUBCHAPTER III—REPEALED]
 
-### [§ 2448a. Renumbered § 4271]
+### [§ 2448a. Renumbered § 4271]
 
-### [§ 2448b. Renumbered § 4272]
+### [§ 2448b. Renumbered § 4272]

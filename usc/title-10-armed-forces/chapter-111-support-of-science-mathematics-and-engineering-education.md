@@ -19,29 +19,29 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2023—Pub. L. 118–31, div. A, title XV, § 1531(a), Dec. 22, 2023, 137 Stat. 560, added item 2192c. Amendment was made pursuant to operation of section 102 of this title.
+2023—Pub. L. 118–31, div. A, title XV, § 1531(a), Dec. 22, 2023, 137 Stat. 560, added item 2192c. Amendment was made pursuant to operation of section 102 of this title.
 
-2021—Pub. L. 117–81, div. A, title XVII, § 1701(p)(2)(B), (w)(2), Dec. 27, 2021, 135 Stat. 2148, 2154, struck out items 2192a “Science, Mathematics, and Research for Transformation (SMART) Defense Education Program”, 2196 “Manufacturing engineering education: grant program”, and 2197 “Manufacturing experts in the classroom”.
+2021—Pub. L. 117–81, div. A, title XVII, § 1701(p)(2)(B), (w)(2), Dec. 27, 2021, 135 Stat. 2148, 2154, struck out items 2192a “Science, Mathematics, and Research for Transformation (SMART) Defense Education Program”, 2196 “Manufacturing engineering education: grant program”, and 2197 “Manufacturing experts in the classroom”.
 
-Pub. L. 116–283, div. A, title V, § 591(b), Jan. 1, 2021, 134 Stat. 3665, added item 2193b and struck out former item 2193b “Improvement of education in technical fields: program for support of elementary and secondary education in science, mathematics, and technology”.
+Pub. L. 116–283, div. A, title V, § 591(b), Jan. 1, 2021, 134 Stat. 3665, added item 2193b and struck out former item 2193b “Improvement of education in technical fields: program for support of elementary and secondary education in science, mathematics, and technology”.
 
-2019—Pub. L. 116–92, div. A, title II, § 211(b), Dec. 20, 2019, 133 Stat. 1255, added item 2192b.
+2019—Pub. L. 116–92, div. A, title II, § 211(b), Dec. 20, 2019, 133 Stat. 1255, added item 2192b.
 
-2006—Pub. L. 109–163, div. A, title XI, § 1104(d)(2), Jan. 6, 2006, 119 Stat. 3450, added item 2192a.
+2006—Pub. L. 109–163, div. A, title XI, § 1104(d)(2), Jan. 6, 2006, 119 Stat. 3450, added item 2192a.
 
-1999—Pub. L. 106–65, div. A, title V, § 580(d)(3), Oct. 5, 1999, 113 Stat. 633, added items 2192, 2193, 2193a, and 2193b and struck out former items 2192 “Science, mathematics, and engineering education” and 2193 “Science and mathematics education improvement program”.
+1999—Pub. L. 106–65, div. A, title V, § 580(d)(3), Oct. 5, 1999, 113 Stat. 633, added items 2192, 2193, 2193a, and 2193b and struck out former items 2192 “Science, mathematics, and engineering education” and 2193 “Science and mathematics education improvement program”.
 
-1992—Pub. L. 102–484, div. D, title XLII, § 4238(b)(2), Oct. 23, 1992, 106 Stat. 2694, substituted “experts” for “managers” in item 2197.
+1992—Pub. L. 102–484, div. D, title XLII, § 4238(b)(2), Oct. 23, 1992, 106 Stat. 2694, substituted “experts” for “managers” in item 2197.
 
-1991—Pub. L. 102–190, div. A, title VIII, §§ 825(a)(2), 828(b), Dec. 5, 1991, 105 Stat. 1442, 1444, struck out item 2196 “Definition” and added items 2196 to 2199.
+1991—Pub. L. 102–190, div. A, title VIII, §§ 825(a)(2), 828(b), Dec. 5, 1991, 105 Stat. 1442, 1444, struck out item 2196 “Definition” and added items 2196 to 2199.
 
-1990—Pub. L. 101–510, div. A, title II, § 247(a)(2)(A), (C), Nov. 5, 1990, 104 Stat. 1523, substituted “SUPPORT OF SCIENCE, MATHEMATICS, AND ENGINEERING EDUCATION” for “NATIONAL DEFENSE SCIENCE AND ENGINEERING GRADUATE FELLOWSHIPS” in chapter heading and added items 2192 to 2196.
+1990—Pub. L. 101–510, div. A, title II, § 247(a)(2)(A), (C), Nov. 5, 1990, 104 Stat. 1523, substituted “SUPPORT OF SCIENCE, MATHEMATICS, AND ENGINEERING EDUCATION” for “NATIONAL DEFENSE SCIENCE AND ENGINEERING GRADUATE FELLOWSHIPS” in chapter heading and added items 2192 to 2196.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Study Regarding Establishment Within the Department of Defense of a Designated Central Program Office To Oversee Academic Engagement Programs Relating To Establishing Cyber Talent Across the Department**
 
-Pub. L. 117–81, div. A, title XV, § 1532, Dec. 27, 2021, 135 Stat. 2052, as amended by Pub. L. 118–31, div. A, title XV, § 1531(c)(5), Dec. 22, 2023, 137 Stat. 563, provided that:
+Pub. L. 117–81, div. A, title XV, § 1532, Dec. 27, 2021, 135 Stat. 2052, as amended by Pub. L. 118–31, div. A, title XV, § 1531(c)(5), Dec. 22, 2023, 137 Stat. 563, provided that:
 
 > **“(a) In General.—** Not later than 270 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a study regarding the need, feasibility, and advisability of establishing within the Department of Defense a designated central program office responsible for overseeing covered academic engagement programs across the Department. Such study shall examine the following:
 
@@ -89,7 +89,7 @@ Pub. L. 117–81, div. A, title XV, § 1532, Dec. 27, 2021, 135 Stat. 2052, as
 
 **Encouragement of Contractor Science, Technology, Engineering, and Mathematics (STEM) Programs**
 
-Pub. L. 116–283, div. A, title II, § 245(a)–(d), Jan. 1, 2021, 134 Stat. 3489, 3490, provided that:
+Pub. L. 116–283, div. A, title II, § 245(a)–(d), Jan. 1, 2021, 134 Stat. 3489, 3490, provided that:
 
 > **“(a) In General.—** The Under Secretary of Defense for Research and Engineering, in coordination with the Under Secretary of Defense for Acquisition and Sustainment, shall develop programs and incentives to ensure that Department of Defense contractors take appropriate steps to—
 
@@ -119,9 +119,9 @@ Pub. L. 116–283, div. A, title II, § 245(a)–(d), Jan. 1, 2021, 134 Stat. 
 
 > **“(2)** The term ‘institution of higher education’ has the meaning given such term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).”
 
-Pub. L. 112–81, div. A, title VIII, § 862, Dec. 31, 2011, 125 Stat. 1521, which related to the encouragement of contractor science, technology, engineering, and math (STEM) programs, was repealed by Pub. L. 116–283, div. A, title II, § 245(e), Jan. 1, 2021, 134 Stat. 3490.
+Pub. L. 112–81, div. A, title VIII, § 862, Dec. 31, 2011, 125 Stat. 1521, which related to the encouragement of contractor science, technology, engineering, and math (STEM) programs, was repealed by Pub. L. 116–283, div. A, title II, § 245(e), Jan. 1, 2021, 134 Stat. 3490.
 
-## § 2191. Graduate fellowships
+## § 2191. Graduate fellowships
 
 **(a)** The Secretary of Defense shall prescribe regulations providing for the award of fellowships to citizens and nationals of the United States who agree to pursue graduate degrees in science, engineering, or other fields of study designated by the Secretary to be of priority interest to the Department of Defense.
 
@@ -139,9 +139,9 @@ Pub. L. 112–81, div. A, title VIII, § 862, Dec. 31, 2011, 125 Stat. 1521, w
 
 **(4)** the maximum amount that may be awarded to an individual during an academic year.
 
-(Added Pub. L. 101–189, div. A, title VIII, § 843(d)(1), Nov. 29, 1989, 103 Stat. 1516.)
+(Added Pub. L. 101–189, div. A, title VIII, § 843(d)(1), Nov. 29, 1989, 103 Stat. 1516.)
 
-## § 2192. Improvement of education in technical fields: general authority regarding education in science, mathematics, and engineering
+## § 2192. Improvement of education in technical fields: general authority regarding education in science, mathematics, and engineering
 
 **(a)** The Secretary of Defense, in consultation with the Secretary of Education, shall, on a continuing basis—
 
@@ -173,7 +173,7 @@ Pub. L. 112–81, div. A, title VIII, § 862, Dec. 31, 2011, 125 Stat. 1521, w
 
 **(c)** The Secretary shall designate an individual within the Office of the Secretary of Defense to advise and assist the Secretary regarding matters relating to science, mathematics, and engineering education and training.
 
-(Added Pub. L. 101–510, div. A, title II, § 247(a)(1), Nov. 5, 1990, 104 Stat. 1521; amended Pub. L. 106–65, div. A, title V, § 580(d)(1), Oct. 5, 1999, 113 Stat. 633; Pub. L. 108–136, div. A, title II, § 233, Nov. 24, 2003, 117 Stat. 1423; Pub. L. 111–383, div. A, title II, § 211(a), Jan. 7, 2011, 124 Stat. 4162.)
+(Added Pub. L. 101–510, div. A, title II, § 247(a)(1), Nov. 5, 1990, 104 Stat. 1521; amended Pub. L. 106–65, div. A, title V, § 580(d)(1), Oct. 5, 1999, 113 Stat. 633; Pub. L. 108–136, div. A, title II, § 233, Nov. 24, 2003, 117 Stat. 1423; Pub. L. 111–383, div. A, title II, § 211(a), Jan. 7, 2011, 124 Stat. 4162.)
 
 **Editorial Notes**
 
@@ -189,15 +189,15 @@ Pub. L. 112–81, div. A, title VIII, § 862, Dec. 31, 2011, 125 Stat. 1521, w
 
 **Science, Mathematics, and Research for Transformation (SMART) Defense Scholarship Pilot Program**
 
-Pub. L. 108–375, div. A, title XI, § 1105, Oct. 28, 2004, 118 Stat. 2074, as amended by Pub. L. 109–163, div. A, title X, § 1056(d), title XI, § 1104(a)–(c), Jan. 6, 2006, 119 Stat. 3440, 3448, 3449; Pub. L. 111–383, div. A, title X, § 1075(h)(5), Jan. 7, 2011, 124 Stat. 4377, which related to a pilot program to provide financial assistance for education in science, mathematics, engineering, and technology skills and disciplines that were determined to be critical to the national security functions of the Department of Defense, was repealed and restated in section 2192a of this title by Pub. L. 109–163, div. A, title XI, § 1104(d)(1)(B), (e)(1), Jan. 6, 2006, 119 Stat. 3450.
+Pub. L. 108–375, div. A, title XI, § 1105, Oct. 28, 2004, 118 Stat. 2074, as amended by Pub. L. 109–163, div. A, title X, § 1056(d), title XI, § 1104(a)–(c), Jan. 6, 2006, 119 Stat. 3440, 3448, 3449; Pub. L. 111–383, div. A, title X, § 1075(h)(5), Jan. 7, 2011, 124 Stat. 4377, which related to a pilot program to provide financial assistance for education in science, mathematics, engineering, and technology skills and disciplines that were determined to be critical to the national security functions of the Department of Defense, was repealed and restated in section 2192a of this title by Pub. L. 109–163, div. A, title XI, § 1104(d)(1)(B), (e)(1), Jan. 6, 2006, 119 Stat. 3450.
 
 **Department of Defense Support for Science, Mathematics, and Engineering Education**
 
-Pub. L. 102–190, div. A, title VIII, § 829, Dec. 5, 1991, 105 Stat. 1444, directed Secretary of Defense to develop and submit to Congress a master plan for activities by Department of Defense during each of fiscal years 1993 through 1997 to support education in science, mathematics, and engineering at all levels of education in the United States, with each such plan to be developed in consultation with Secretary of Education, prior to repeal by Pub. L. 104–106, div. A, title X, § 1063(c), Feb. 10, 1996, 110 Stat. 444.
+Pub. L. 102–190, div. A, title VIII, § 829, Dec. 5, 1991, 105 Stat. 1444, directed Secretary of Defense to develop and submit to Congress a master plan for activities by Department of Defense during each of fiscal years 1993 through 1997 to support education in science, mathematics, and engineering at all levels of education in the United States, with each such plan to be developed in consultation with Secretary of Education, prior to repeal by Pub. L. 104–106, div. A, title X, § 1063(c), Feb. 10, 1996, 110 Stat. 444.
 
-## [§ 2192a. Renumbered § 4093]
+## [§ 2192a. Renumbered § 4093]
 
-## § 2192b. Program on enhancement of preparation of dependents of members of armed forces for careers in science, technology, engineering, and mathematics
+## § 2192b. Program on enhancement of preparation of dependents of members of armed forces for careers in science, technology, engineering, and mathematics
 
 **(a) Program Required.—** The Secretary of Defense shall carry out a program to—
 
@@ -229,9 +229,9 @@ Pub. L. 102–190, div. A, title VIII, § 829, Dec. 5, 1991, 105 Stat. 1444, d
 
 **(e) Covered Schools Defined.—** In this section, the term “covered schools” means elementary or secondary schools at which the Secretary determines a significant number of dependents of members of the armed forces are enrolled.
 
-(Added Pub. L. 116–92, div. A, title II, § 211(a), Dec. 20, 2019, 133 Stat. 1254.)
+(Added Pub. L. 116–92, div. A, title II, § 211(a), Dec. 20, 2019, 133 Stat. 1254.)
 
-## § 2192c. Office for academic engagement relating to cyber activities
+## § 2192c. Office for academic engagement relating to cyber activities
 
 **(a) Establishment.—** The Secretary of Defense, acting through the Chief Information Officer of the Department of Defense, shall establish an office to establish, maintain, and oversee the activities of the Department of Defense that pertain to the relationship between the Department and academia, including with entities involved in primary, secondary, or postsecondary education, with respect to cyber-related matters (in this section referred to as the “Office”).
 
@@ -303,7 +303,7 @@ Pub. L. 102–190, div. A, title VIII, § 829, Dec. 5, 1991, 105 Stat. 1444, d
 
 **(3)** An academic partnership focused on establishing cyber talent among the personnel referred to in paragraph (2).
 
-(Added Pub. L. 118–31, div. A, title XV, § 1531(a), Dec. 22, 2023, 137 Stat. 560.)
+(Added Pub. L. 118–31, div. A, title XV, § 1531(a), Dec. 22, 2023, 137 Stat. 560.)
 
 **Editorial Notes**
 
@@ -315,7 +315,7 @@ Section 1649 of the National Defense Authorization Act for Fiscal Year 2020, ref
 
 **Collaborative Cybersecurity Educational Program**
 
-Pub. L. 119–60, div. A, title XV, § 1514, Dec. 18, 2025, 139 Stat. 1151, provided that:
+Pub. L. 119–60, div. A, title XV, § 1514, Dec. 18, 2025, 139 Stat. 1151, provided that:
 
 > **“(a) Program Required.—** The Secretary of Defense shall establish and carry out [a] program under which the Secretary shall seek to collaborate with academic institutions to develop cybersecurity educational programs at such institutions, including by establishing curriculum standards, developing competencies in cybersecurity at such institutions, promoting community outreach regarding participation in such educational programs, integrating best practices across such educational programs, and advancing solutions to challenges in addressing educational needs with respect to cyber.
 
@@ -377,9 +377,9 @@ Pub. L. 119–60, div. A, title XV, § 1514, Dec. 18, 2025, 139 Stat. 1151, pr
 
 **Deadline for Establishment**
 
-Pub. L. 118–31, div. A, title XV, § 1531(b), Dec. 22, 2023, 137 Stat. 562, provided that: “The Secretary of Defense shall establish the office under section 2192c of title 10, United States Code, as added by subsection (a), by not later than 270 days after the date of the enactment of this Act [Dec. 22, 2023].”
+Pub. L. 118–31, div. A, title XV, § 1531(b), Dec. 22, 2023, 137 Stat. 562, provided that: “The Secretary of Defense shall establish the office under section 2192c of title 10, United States Code, as added by subsection (a), by not later than 270 days after the date of the enactment of this Act [Dec. 22, 2023].”
 
-## § 2193. Improvement of education in technical fields: grants for higher education in science and mathematics
+## § 2193. Improvement of education in technical fields: grants for higher education in science and mathematics
 
 **(a)**
 
@@ -399,7 +399,7 @@ Pub. L. 118–31, div. A, title XV, § 1531(b), Dec. 22, 2023, 137 Stat. 562, 
 
 **(2)** The term “cost of attendance” has the meaning given such term in section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087*ll*).
 
-(Added Pub. L. 101–510, div. A, title II, § 247(a)(1), Nov. 5, 1990, 104 Stat. 1521; amended Pub. L. 105–244, title I, § 102(a)(2)(A), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 106–65, div. A, title V, § 580(c)(2), (3), (d)(2), Oct. 5, 1999, 113 Stat. 633.)
+(Added Pub. L. 101–510, div. A, title II, § 247(a)(1), Nov. 5, 1990, 104 Stat. 1521; amended Pub. L. 105–244, title I, § 102(a)(2)(A), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 106–65, div. A, title V, § 580(c)(2), (3), (d)(2), Oct. 5, 1999, 113 Stat. 633.)
 
 **Editorial Notes**
 
@@ -409,13 +409,13 @@ Section 101 of the Higher Education Act of 1965, referred to in subsec. (b)(1), 
 
 **Amendments**
 
-1999—Pub. L. 106–65, § 580(d)(2), amended section catchline generally. Prior to amendment, catchline read as follows: “Science and mathematics education improvement program”.
+1999—Pub. L. 106–65, § 580(d)(2), amended section catchline generally. Prior to amendment, catchline read as follows: “Science and mathematics education improvement program”.
 
-Subsec. (b). Pub. L. 106–65, § 580(c)(3), redesignated subsec. (c) as (b).
+Subsec. (b). Pub. L. 106–65, § 580(c)(3), redesignated subsec. (c) as (b).
 
-Pub. L. 106–65, § 580(c)(2), redesignated subsec. (b) as section 2193a of this title.
+Pub. L. 106–65, § 580(c)(2), redesignated subsec. (b) as section 2193a of this title.
 
-Subsec. (c). Pub. L. 106–65, § 580(c)(3), redesignated subsec. (c) as (b).
+Subsec. (c). Pub. L. 106–65, § 580(c)(3), redesignated subsec. (c) as (b).
 
 1998—Subsec. (c)(1). Pub. L. 105–244 substituted “section 101 of the Higher Education Act of 1965” for “section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a))”.
 
@@ -425,29 +425,29 @@ Subsec. (c). Pub. L. 106–65, § 580(c)(3), redesignated subsec. (c) as (b).
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
-## § 2193a. Improvement of education in technical fields: general authority for support of elementary and secondary education in science and mathematics
+## § 2193a. Improvement of education in technical fields: general authority for support of elementary and secondary education in science and mathematics
 
 The Secretary of Defense, in coordination with the Secretary of Education, may establish programs for the purpose of improving the mathematics and scientific knowledge and skills of elementary and secondary school students and faculty members.
 
-(Added and amended Pub. L. 106–65, div. A, title V, § 580(c)(1), (2), Oct. 5, 1999, 113 Stat. 632, 633.)
+(Added and amended Pub. L. 106–65, div. A, title V, § 580(c)(1), (2), Oct. 5, 1999, 113 Stat. 632, 633.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of section 2193(b) of this title, which was transferred to, and redesignated as text of, this section, was based on Pub. L. 101–510, div. A, title II, § 247(a)(1), Nov. 5, 1990, 104 Stat. 1521.
+The text of section 2193(b) of this title, which was transferred to, and redesignated as text of, this section, was based on Pub. L. 101–510, div. A, title II, § 247(a)(1), Nov. 5, 1990, 104 Stat. 1521.
 
 **Amendments**
 
-1999—Pub. L. 106–65, § 580(c)(2), renumbered section 2193(b) of this title as text of this section. See Codification note above.
+1999—Pub. L. 106–65, § 580(c)(2), renumbered section 2193(b) of this title as text of this section. See Codification note above.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Pilot Program on Enhancement of Preparation of Dependents of Members of Armed Forces for Careers in Science, Technology, Engineering, and Mathematics**
 
-Pub. L. 113–291, div. A, title II, § 233, Dec. 19, 2014, 128 Stat. 3334, which required the Secretary of Defense to carry out a pilot program related to the enhancement of preparation of certain students for careers in science, technology, engineering, and mathematics, was repealed by Pub. L. 116–92, div. A, title II, § 211(c), Dec. 20, 2019, 133 Stat. 1255. See section 2192b of this title.
+Pub. L. 113–291, div. A, title II, § 233, Dec. 19, 2014, 128 Stat. 3334, which required the Secretary of Defense to carry out a pilot program related to the enhancement of preparation of certain students for careers in science, technology, engineering, and mathematics, was repealed by Pub. L. 116–92, div. A, title II, § 211(c), Dec. 20, 2019, 133 Stat. 1255. See section 2192b of this title.
 
-## § 2193b. Improvement of education in technical fields: program for support of elementary and secondary education in science, technology, engineering, art and design, and mathematics
+## § 2193b. Improvement of education in technical fields: program for support of elementary and secondary education in science, technology, engineering, art and design, and mathematics
 
 **(a) Authority for Program.—** The Secretary of Defense may conduct a science, technology, engineering, art and design, and mathematics education improvement program known as the “Department of Defense STARBASE Program”. The Secretary shall carry out the program in coordination with the Secretaries of the military departments and the Secretary of the Department in which the Coast Guard is operating.
 
@@ -479,33 +479,33 @@ Pub. L. 113–291, div. A, title II, § 233, Dec. 19, 2014, 128 Stat. 3334, wh
 
 **(h) State Defined.—** In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, and Guam.
 
-(Added Pub. L. 106–65, div. A, title V, § 580(a), Oct. 5, 1999, 113 Stat. 631; amended Pub. L. 107–107, div. A, title V, § 596(b), Dec. 28, 2001, 115 Stat. 1127; Pub. L. 108–375, div. A, title V, § 519, title X, § 1084(d)(16), Oct. 28, 2004, 118 Stat. 1886, 2062; Pub. L. 110–181, div. A, title V, § 592, Jan. 28, 2008, 122 Stat. 138; Pub. L. 111–383, div. A, title V, § 595, Jan. 7, 2011, 124 Stat. 4234; Pub. L. 116–92, div. A, title V, § 552, Dec. 20, 2019, 133 Stat. 1386; Pub. L. 116–283, div. A, title V, §§ 591(a), 592, Jan. 1, 2021, 134 Stat. 3665, 3666.)
+(Added Pub. L. 106–65, div. A, title V, § 580(a), Oct. 5, 1999, 113 Stat. 631; amended Pub. L. 107–107, div. A, title V, § 596(b), Dec. 28, 2001, 115 Stat. 1127; Pub. L. 108–375, div. A, title V, § 519, title X, § 1084(d)(16), Oct. 28, 2004, 118 Stat. 1886, 2062; Pub. L. 110–181, div. A, title V, § 592, Jan. 28, 2008, 122 Stat. 138; Pub. L. 111–383, div. A, title V, § 595, Jan. 7, 2011, 124 Stat. 4234; Pub. L. 116–92, div. A, title V, § 552, Dec. 20, 2019, 133 Stat. 1386; Pub. L. 116–283, div. A, title V, §§ 591(a), 592, Jan. 1, 2021, 134 Stat. 3665, 3666.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 591(a)(1), substituted “science, technology, engineering, art and design, and mathematics” for “science, mathematics, and technology” in section catchline.
+2021—Pub. L. 116–283, § 591(a)(1), substituted “science, technology, engineering, art and design, and mathematics” for “science, mathematics, and technology” in section catchline.
 
-Subsec. (a). Pub. L. 116–283, § 591(a)(2), substituted “science, technology, engineering, art and design, and mathematics” for “science, mathematics, and technology”.
+Subsec. (a). Pub. L. 116–283, § 591(a)(2), substituted “science, technology, engineering, art and design, and mathematics” for “science, mathematics, and technology”.
 
-Subsec. (b). Pub. L. 116–283, § 591(a)(3), substituted “science, technology, engineering, art and design, and mathematics” for “mathematics, science, and technology”.
+Subsec. (b). Pub. L. 116–283, § 591(a)(3), substituted “science, technology, engineering, art and design, and mathematics” for “mathematics, science, and technology”.
 
-Subsec. (h). Pub. L. 116–283, § 592, inserted “the Commonwealth of the Northern Mariana Islands, American Samoa,” before “Guam”.
+Subsec. (h). Pub. L. 116–283, § 592, inserted “the Commonwealth of the Northern Mariana Islands, American Samoa,” before “Guam”.
 
-2019—Subsec. (a). Pub. L. 116–92, § 552(1), inserted “and the Secretary of the Department in which the Coast Guard is operating” after “military departments”.
+2019—Subsec. (a). Pub. L. 116–92, § 552(1), inserted “and the Secretary of the Department in which the Coast Guard is operating” after “military departments”.
 
-Subsec. (f). Pub. L. 116–92, § 552(2), substituted “, the Secretaries of the military departments, and the Secretary of the Department in which the Coast Guard is operating” for “and the Secretaries of the military departments”.
+Subsec. (f). Pub. L. 116–92, § 552(2), substituted “, the Secretaries of the military departments, and the Secretary of the Department in which the Coast Guard is operating” for “and the Secretaries of the military departments”.
 
 2011—Subsec. (g). Pub. L. 111–383 substituted “March 31 of each year” for “90 days after the end of each fiscal year”.
 
-2008—Subsec. (c)(3)(A). Pub. L. 110–181, § 592(1), substituted “more than four academies” for “more than two academies”.
+2008—Subsec. (c)(3)(A). Pub. L. 110–181, § 592(1), substituted “more than four academies” for “more than two academies”.
 
-Subsec. (c)(3)(B). Pub. L. 110–181, § 592(2), substituted “in excess of four” for “in excess of two” in two places.
+Subsec. (c)(3)(B). Pub. L. 110–181, § 592(2), substituted “in excess of four” for “in excess of two” in two places.
 
-2004—Subsec. (c)(2). Pub. L. 108–375, § 1084(d)(16), substituted “October 5, 1999” for “the date of the enactment of this section”.
+2004—Subsec. (c)(2). Pub. L. 108–375, § 1084(d)(16), substituted “October 5, 1999” for “the date of the enactment of this section”.
 
-Subsec. (c)(3). Pub. L. 108–375, § 519, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary may support the establishment and operation of any academy in excess of two academies in a State only if the Secretary has first authorized in writing the establishment of the academy and the costs of the establishment and operation of the academy are paid out of funds provided by sources other than the Department of Defense. Any such costs that are paid out of appropriated funds shall be considered as paid out of funds provided by such other sources if such sources fully reimburse the United States for the costs.”
+Subsec. (c)(3). Pub. L. 108–375, § 519, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary may support the establishment and operation of any academy in excess of two academies in a State only if the Secretary has first authorized in writing the establishment of the academy and the costs of the establishment and operation of the academy are paid out of funds provided by sources other than the Department of Defense. Any such costs that are paid out of appropriated funds shall be considered as paid out of funds provided by such other sources if such sources fully reimburse the United States for the costs.”
 
 2001—Subsec. (f). Pub. L. 107–107 designated existing provisions as par. (1) and added par. (2).
 
@@ -513,9 +513,9 @@ Subsec. (c)(3). Pub. L. 108–375, § 519, amended par. (3) generally. Prior t
 
 **Existing STARBASE Academies**
 
-Pub. L. 106–65, div. A, title V, § 580(b), Oct. 5, 1999, 113 Stat. 632, provided that: “While continuing in operation, the academies existing on the date of the enactment of this Act [Oct. 5, 1999] under the Department of Defense STARBASE Program, as such program is in effect on such date, shall be counted for the purpose of meeting the requirement under section 2193b(c)(1) of title 10, United States Code (as added by subsection (a)), relating to the minimum number of STARBASE academies.”
+Pub. L. 106–65, div. A, title V, § 580(b), Oct. 5, 1999, 113 Stat. 632, provided that: “While continuing in operation, the academies existing on the date of the enactment of this Act [Oct. 5, 1999] under the Department of Defense STARBASE Program, as such program is in effect on such date, shall be counted for the purpose of meeting the requirement under section 2193b(c)(1) of title 10, United States Code (as added by subsection (a)), relating to the minimum number of STARBASE academies.”
 
-## § 2194. Education partnerships
+## § 2194. Education partnerships
 
 **(a)** The Secretary of Defense shall authorize the director of each defense laboratory to enter into one or more education partnership agreements with educational institutions in the United States for the purpose of encouraging and enhancing study in scientific disciplines at all levels of education. The educational institutions referred to in the preceding sentence are local educational agency, colleges, universities, and any other nonprofit institutions that are dedicated to improving science, mathematics, business, law, technology transfer or transition and engineering education.
 
@@ -543,9 +543,9 @@ Pub. L. 106–65, div. A, title V, § 580(b), Oct. 5, 1999, 113 Stat. 632, pro
 
 **(8)** entering into new and separate contracts or cooperative agreements with, or making grants to, the institution to provide financial assistance for activities conducted under such partnership agreement.
 
-**(c)** The Secretary of Defense shall ensure that the director of each defense laboratory shall give a priority under this section to entering into an education partnership agreement with one or more historically Black colleges and universities and other minority institutions referred to in paragraphs (3), (4), and (5) of section 312(b) 1
+**(c)** The Secretary of Defense shall ensure that the director of each defense laboratory shall give a priority under this section to entering into an education partnership agreement with one or more historically Black colleges and universities and other minority institutions referred to in paragraphs (3), (4), and (5) of section 312(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Higher Education Act of 1965 (20 U.S.C. 1058(b)).
 
@@ -561,13 +561,13 @@ of the Higher Education Act of 1965 (20 U.S.C. 1058(b)).
 
 **(3)** The term “United States” includes the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
 
-(Added Pub. L. 101–510, div. A, title II, § 247(a)(1), Nov. 5, 1990, 104 Stat. 1522; amended Pub. L. 103–382, title III, § 391(b)(4), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–106, div. A, title XV, § 1503(a)(19), Feb. 10, 1996, 110 Stat. 512; Pub. L. 106–398, § 1 [[div. A], title II, § 253], Oct. 30, 2000, 114 Stat. 1654, 1654A–49; Pub. L. 107–110, title X, § 1076(e), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 108–178, § 4(b)(1), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 111–350, § 5(b)(3), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 111–383, div. A, title II, § 211(b), Jan. 7, 2011, 124 Stat. 4163; Pub. L. 112–239, div. A, title II, § 251, Jan. 2, 2013, 126 Stat. 1688; Pub. L. 114–92, div. A, title II, § 213, Nov. 25, 2015, 129 Stat. 767; Pub. L. 114–95, title IX, § 9215(uuu)(4), Dec. 10, 2015, 129 Stat. 2190; Pub. L. 118–159, div. A, title II, § 213, Dec. 23, 2024, 138 Stat. 1824.)
+(Added Pub. L. 101–510, div. A, title II, § 247(a)(1), Nov. 5, 1990, 104 Stat. 1522; amended Pub. L. 103–382, title III, § 391(b)(4), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–106, div. A, title XV, § 1503(a)(19), Feb. 10, 1996, 110 Stat. 512; Pub. L. 106–398, § 1 [[div. A], title II, § 253], Oct. 30, 2000, 114 Stat. 1654, 1654A–49; Pub. L. 107–110, title X, § 1076(e), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 108–178, § 4(b)(1), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 111–350, § 5(b)(3), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 111–383, div. A, title II, § 211(b), Jan. 7, 2011, 124 Stat. 4163; Pub. L. 112–239, div. A, title II, § 251, Jan. 2, 2013, 126 Stat. 1688; Pub. L. 114–92, div. A, title II, § 213, Nov. 25, 2015, 129 Stat. 767; Pub. L. 114–95, title IX, § 9215(uuu)(4), Dec. 10, 2015, 129 Stat. 2190; Pub. L. 118–159, div. A, title II, § 213, Dec. 23, 2024, 138 Stat. 1824.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Paragraphs (3), (4), and (5) of section 312(b) of the Higher Education Act of 1965 (20 U.S.C. 1058(b)), referred to in subsec. (c), were repealed by Pub. L. 102–325, title III, § 302(a)(3), July 23, 1992, 106 Stat. 472.
+Paragraphs (3), (4), and (5) of section 312(b) of the Higher Education Act of 1965 (20 U.S.C. 1058(b)), referred to in subsec. (c), were repealed by Pub. L. 102–325, title III, § 302(a)(3), July 23, 1992, 106 Stat. 472.
 
 Section 8101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(2), is classified to section 7801 of Title 20, Education.
 
@@ -575,15 +575,15 @@ Section 8101 of the Elementary and Secondary Education Act of 1965, referred to 
 
 2024—Subsec. (b)(8). Pub. L. 118–159 added par. (8).
 
-2015—Subsec. (a). Pub. L. 114–92, § 213(1), inserted “business, law, technology transfer or transition” after “mathematics,”.
+2015—Subsec. (a). Pub. L. 114–92, § 213(1), inserted “business, law, technology transfer or transition” after “mathematics,”.
 
-Subsec. (b)(4) to (7). Pub. L. 114–92, § 213(2), added par. (4), redesignated former pars. (4) to (6) as (5) to (7), respectively, and, in pars. (5) and (6), substituted “projects, including research and technology transfer or transition projects” for “research projects”.
+Subsec. (b)(4) to (7). Pub. L. 114–92, § 213(2), added par. (4), redesignated former pars. (4) to (6) as (5) to (7), respectively, and, in pars. (5) and (6), substituted “projects, including research and technology transfer or transition projects” for “research projects”.
 
 Subsec. (f)(2). Pub. L. 114–95 substituted “section 8101 of the Elementary and Secondary Education Act of 1965” for “section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)”.
 
-2013—Subsec. (f)(2). Pub. L. 112–239, § 251(b), inserted “(20 U.S.C. 7801)” before period at end.
+2013—Subsec. (f)(2). Pub. L. 112–239, § 251(b), inserted “(20 U.S.C. 7801)” before period at end.
 
-Subsec. (f)(3). Pub. L. 112–239, § 251(a), added par. (3).
+Subsec. (f)(3). Pub. L. 112–239, § 251(a), added par. (3).
 
 2011—Subsec. (b)(2). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” in introductory provisions.
 
@@ -593,21 +593,21 @@ Subsecs. (e), (f). Pub. L. 111–383 added subsec. (e) and redesignated former s
 
 2002—Subsec. (e)(2). Pub. L. 107–110 substituted “section 9101 of the Elementary and Secondary Education Act of 1965” for “section 14101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801)”.
 
-2000—Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title II, § 253(a)(1)], inserted “, and is encouraged to provide,” after “may provide” in introductory provisions.
+2000—Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title II, § 253(a)(1)], inserted “, and is encouraged to provide,” after “may provide” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 106–398, § 1 [[div. A], title II, § 253(a)(2)], inserted before semicolon “for any purpose and duration in support of such agreement that the director considers appropriate”.
+Subsec. (b)(1). Pub. L. 106–398, § 1 [[div. A], title II, § 253(a)(2)], inserted before semicolon “for any purpose and duration in support of such agreement that the director considers appropriate”.
 
-Subsec. (b)(2). Pub. L. 106–398, § 1 [[div. A], title II, § 253(a)(3)], added par. (2) and struck out former par. (2) which read as follows: “transferring to the institution defense laboratory equipment determined by the director to be surplus;”.
+Subsec. (b)(2). Pub. L. 106–398, § 1 [[div. A], title II, § 253(a)(3)], added par. (2) and struck out former par. (2) which read as follows: “transferring to the institution defense laboratory equipment determined by the director to be surplus;”.
 
-Subsec. (e). Pub. L. 106–398, § 1 [[div. A], title II, § 253(b)], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “In this section, the term ‘local educational agency’ has the meaning given such term in section 14101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801).”
+Subsec. (e). Pub. L. 106–398, § 1 [[div. A], title II, § 253(b)], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “In this section, the term ‘local educational agency’ has the meaning given such term in section 14101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801).”
 
 1996—Subsec. (e). Pub. L. 104–106 substituted “(20 U.S.C. 8801)” for “(20 U.S.C. 2891(12))”.
 
-1994—Subsec. (a). Pub. L. 103–382, § 391(b)(4)(A), substituted “educational agency” for “education agencies”.
+1994—Subsec. (a). Pub. L. 103–382, § 391(b)(4)(A), substituted “educational agency” for “education agencies”.
 
-Subsec. (e). Pub. L. 103–382, § 394(b)(4)(B)(iii), which directed amendment of subsec. (e) by striking out “(20 U.S.C. 1058(b)” could not be executed because “(20 U.S.C. 1058(b)” does not appear in subsec. (e).
+Subsec. (e). Pub. L. 103–382, § 394(b)(4)(B)(iii), which directed amendment of subsec. (e) by striking out “(20 U.S.C. 1058(b)” could not be executed because “(20 U.S.C. 1058(b)” does not appear in subsec. (e).
 
-Pub. L. 103–382, § 391(b)(4)(B)(i), (ii), substituted “educational agency” for “education agency” and “section 14101” for “section 1471(12)”.
+Pub. L. 103–382, § 391(b)(4)(B)(i), (ii), substituted “educational agency” for “education agency” and “section 14101” for “section 1471(12)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -623,7 +623,7 @@ Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L.
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 
-## § 2195. Department of Defense cooperative education programs
+## § 2195. Department of Defense cooperative education programs
 
 **(a)** The Secretary of Defense shall ensure that the director of each defense laboratory establishes, in association with one or more public or private colleges or universities in the United States or one or more consortia of colleges or universities in the United States, cooperative work-education programs for undergraduate and graduate students.
 
@@ -653,7 +653,7 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 **(B)** a similar cooperative or summer education program of the Agency that meets the criteria for Federal cooperative or summer education programs prescribed by the Office of Personnel Management.
 
-(Added Pub. L. 101–510, div. A, title II, § 247(a)(1), Nov. 5, 1990, 104 Stat. 1522; amended Pub. L. 108–136, div. A, title IX, § 926, Nov. 24, 2003, 117 Stat. 1579.)
+(Added Pub. L. 101–510, div. A, title II, § 247(a)(1), Nov. 5, 1990, 104 Stat. 1522; amended Pub. L. 108–136, div. A, title IX, § 926, Nov. 24, 2003, 117 Stat. 1579.)
 
 **Editorial Notes**
 
@@ -661,17 +661,17 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 2003—Subsec. (d). Pub. L. 108–136 added subsec. (d).
 
-## [§ 2196. Renumbered § 4843]
+## [§ 2196. Renumbered § 4843]
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2196, added Pub. L. 101–510, div. A, title II, § 247(a)(1), Nov. 5, 1990, 104 Stat. 1523; amended Pub. L. 102–25, title VII, § 701(i)(2), Apr. 6, 1991, 105 Stat. 116, defined “defense laboratory”, prior to repeal by Pub. L. 102–190, § 825(a)(1). See section 2199 of this title.
+A prior section 2196, added Pub. L. 101–510, div. A, title II, § 247(a)(1), Nov. 5, 1990, 104 Stat. 1523; amended Pub. L. 102–25, title VII, § 701(i)(2), Apr. 6, 1991, 105 Stat. 116, defined “defense laboratory”, prior to repeal by Pub. L. 102–190, § 825(a)(1). See section 2199 of this title.
 
-## [§ 2197. Renumbered § 4844]
+## [§ 2197. Renumbered § 4844]
 
-## § 2198. Management training program in Japanese language and culture
+## § 2198. Management training program in Japanese language and culture
 
 **(a)** The Secretary of Defense, in coordination with the National Science Foundation, shall establish a program for the making of grants on a competitive basis to United States institutions of higher education and other United States not-for-profit organizations for the conduct of programs for scientists, engineers, and managers to learn Japanese language and culture.
 
@@ -689,7 +689,7 @@ A prior section 2196, added Pub. L. 101–510, div. A, title II, § 247(a)(1),
 
 **(c)** In this section, the term “defense critical technology” means a technology that is identified under section 4816 of this title as critical for attaining the national security objectives set forth in section 4811(a) of this title.
 
-(Added Pub. L. 102–190, div. A, title VIII, § 828(a), Dec. 5, 1991, 105 Stat. 1444; amended Pub. L. 103–35, title II, § 201(c)(3), May 31, 1993, 107 Stat. 98; Pub. L. 105–85, div. A, title X, § 1073(a)(39), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 116–283, div. A, title XVIII, § 1867(e)(1), Jan. 1, 2021, 134 Stat. 4282.)
+(Added Pub. L. 102–190, div. A, title VIII, § 828(a), Dec. 5, 1991, 105 Stat. 1444; amended Pub. L. 103–35, title II, § 201(c)(3), May 31, 1993, 107 Stat. 98; Pub. L. 105–85, div. A, title X, § 1073(a)(39), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 116–283, div. A, title XVIII, § 1867(e)(1), Jan. 1, 2021, 134 Stat. 4282.)
 
 **Editorial Notes**
 
@@ -707,7 +707,7 @@ A prior section 2196, added Pub. L. 101–510, div. A, title II, § 247(a)(1),
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-## § 2199. Definitions
+## § 2199. Definitions
 
 In this chapter:
 
@@ -717,7 +717,7 @@ In this chapter:
 
 **(3)** The term “regional center for the transfer of manufacturing technology” means a manufacturing extension center for the transfer of manufacturing technology and best business practices referred to in section 25(b) of the National Institute of Standards and Technology Act (15 U.S.C. 278k).
 
-(Added Pub. L. 102–190, div. A, title VIII, § 825(a)(1), Dec. 5, 1991, 105 Stat. 1441; amended Pub. L. 105–244, title I, § 102(a)(2)(B), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 114–329, title V, § 501(e)(1), Jan. 6, 2017, 130 Stat. 3032.)
+(Added Pub. L. 102–190, div. A, title VIII, § 825(a)(1), Dec. 5, 1991, 105 Stat. 1441; amended Pub. L. 105–244, title I, § 102(a)(2)(B), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 114–329, title V, § 501(e)(1), Jan. 6, 2017, 130 Stat. 3032.)
 
 **Editorial Notes**
 
@@ -727,9 +727,9 @@ Section 101 of the Higher Education Act of 1965, referred to in par. (2), is cla
 
 **Amendments**
 
-2017—Par. (3). Pub. L. 114–329, § 501(e)(1)(B), (C), inserted “and best business practices” before “referred” and substituted “section 25(b)” for “section 25(a)”.
+2017—Par. (3). Pub. L. 114–329, § 501(e)(1)(B), (C), inserted “and best business practices” before “referred” and substituted “section 25(b)” for “section 25(a)”.
 
-Pub. L. 114–329, § 501(e)(1)(A), which directed substitution of “manufacturing extension center” for “regional center”, was executed by making the substitution after “means a” outside of the defined term, to reflect the probable intent of Congress.
+Pub. L. 114–329, § 501(e)(1)(A), which directed substitution of “manufacturing extension center” for “regional center”, was executed by making the substitution after “means a” outside of the defined term, to reflect the probable intent of Congress.
 
 1998—Par. (2). Pub. L. 105–244 substituted “section 101 of the Higher Education Act of 1965” for “section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a))”.
 

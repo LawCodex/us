@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2006—Pub. L. 109–163, div. A, title V, § 515(b)(4)(G), Jan. 6, 2006, 119 Stat. 3235, substituted “Navy Reserve” for “Naval Reserve” in item 10303.
+2006—Pub. L. 109–163, div. A, title V, § 515(b)(4)(G), Jan. 6, 2006, 119 Stat. 3235, substituted “Navy Reserve” for “Naval Reserve” in item 10303.
 
-## § 10301. Reserve Forces Policy Board
+## § 10301. Reserve Forces Policy Board
 
 **(a) In General.—** As provided in section 175 of this title, there is in the Office of the Secretary of Defense a board known as the “Reserve Forces Policy Board” (in this section referred to as the “Board”).
 
@@ -79,13 +79,13 @@ retrieved: 2026-10-11
 
 **(f) Relationship to Service Reserve Policy Committees and Boards.—** This section does not affect the committees and boards prescribed within the military departments by sections 10302 through 10305 of this title, and a member of such a committee or board may, if otherwise eligible, be a member of the Board.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(b)(1), Oct. 5, 1994, 108 Stat. 2980; amended Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, § 515(b)(1)(CC), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 111–383, div. A, title V, § 514(a)(1), Jan. 7, 2011, 124 Stat. 4211.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(b)(1), Oct. 5, 1994, 108 Stat. 2980; amended Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, § 515(b)(1)(CC), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 111–383, div. A, title V, § 514(a)(1), Jan. 7, 2011, 124 Stat. 4211.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 175 of this title, prior to amendment by Pub. L. 103–337, § 1661(b)(3).
+Provisions similar to those in this section were contained in section 175 of this title, prior to amendment by Pub. L. 103–337, § 1661(b)(3).
 
 **Amendments**
 
@@ -99,7 +99,7 @@ Provisions similar to those in this section were contained in section 175 of thi
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 111–383, div. A, title V, § 514(a)(2), Jan. 7, 2011, 124 Stat. 4213, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on July 1, 2011.”
+Pub. L. 111–383, div. A, title V, § 514(a)(2), Jan. 7, 2011, 124 Stat. 4213, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on July 1, 2011.”
 
 **Effective Date of 2002 Amendment**
 
@@ -109,7 +109,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 10302. Army Reserve Forces Policy Committee
+## § 10302. Army Reserve Forces Policy Committee
 
 **(a)** There is in the Office of the Secretary of the Army an Army Reserve Forces Policy Committee. The Committee shall review and comment upon major policy matters directly affecting the reserve components and the mobilization preparedness of the Army. The Committee’s comments on such policy matters shall accompany the final report regarding any such matters submitted to the Secretary of the Army and the Chief of Staff.
 
@@ -133,7 +133,7 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 **(h)** There shall be not less than 10 officers of the Army National Guard of the United States and the Army Reserve on duty with the Army Staff, one-half of whom shall be from each of those components. These officers shall be considered as additional members of the Army Staff while on that duty.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 161, § 3033; Pub. L. 85–861, § 33(a)(17), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 90–168, § 2(18), Dec. 1, 1967, 81 Stat. 524; renumbered § 3021 and amended Pub. L. 99–433, title V, § 501(a)(8), Oct. 1, 1986, 100 Stat. 1039; renumbered § 10302, Pub. L. 103–337, div. A, title XVI, § 1661(b)(2)(A), Oct. 5, 1994, 108 Stat. 2981; Pub. L. 115–232, div. A, title V, § 516, Aug. 13, 2018, 132 Stat. 1753.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 161, § 3033; Pub. L. 85–861, § 33(a)(17), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 90–168, § 2(18), Dec. 1, 1967, 81 Stat. 524; renumbered § 3021 and amended Pub. L. 99–433, title V, § 501(a)(8), Oct. 1, 1986, 100 Stat. 1039; renumbered § 10302, Pub. L. 103–337, div. A, title XVI, § 1661(b)(2)(A), Oct. 5, 1994, 108 Stat. 2981; Pub. L. 115–232, div. A, title V, § 516, Aug. 13, 2018, 132 Stat. 1753.)
 
 **Historical and Revision Notes**
 
@@ -141,7 +141,7 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3033(a)   3033(b)   3033(c)   3033(d)   3033(e)     3033(f) | 10:38 (1st par., less last 37 words). 10:38 (last 37 words of 1st par.). 10:38 (1st sentence, less proviso of 2d par.). 10:38 (proviso of 1st sentence of 2d par.). 10:38 (2d sentence, and 3d sentence less proviso, of 2d par.). 10:38 (proviso of 3d sentence, and last sentence, of 2d par.). | June 3, 1916, ch. 134, § 5 (less last par.); June 4, 1920, ch. 227, subch. I, § 5 (1st 7 pars.); Sept. 22, 1922, ch. 423, § 1; July 2, 1926, ch. 721, § 5; May 21, 1928, ch. 647; added June 15, 1933, ch. 87, § 2 (less last par.), 48 Stat. 153; June 3, 1938, ch. 319; July 14, 1939, ch. 269; June 28, 1950, ch. 383, § 401(b), 64 Stat. 271. |
+| 3033(a) 3033(b) 3033(c) 3033(d) 3033(e) 3033(f) | 10:38 (1st par., less last 37 words). 10:38 (last 37 words of 1st par.). 10:38 (1st sentence, less proviso of 2d par.). 10:38 (proviso of 1st sentence of 2d par.). 10:38 (2d sentence, and 3d sentence less proviso, of 2d par.). 10:38 (proviso of 3d sentence, and last sentence, of 2d par.). | June 3, 1916, ch. 134, § 5 (less last par.); June 4, 1920, ch. 227, subch. I, § 5 (1st 7 pars.); Sept. 22, 1922, ch. 423, § 1; July 2, 1926, ch. 721, § 5; May 21, 1928, ch. 647; added June 15, 1933, ch. 87, § 2 (less last par.), 48 Stat. 153; June 3, 1938, ch. 319; July 14, 1939, ch. 269; June 28, 1950, ch. 383, § 401(b), 64 Stat. 271. |
 
 In subsection (a), the words “the following subjects” are inserted for clarity.
 
@@ -157,17 +157,17 @@ The change is necessary to make subsection (d) coextensive with subsection (c), 
 
 **Amendments**
 
-2018—Subsec. (b)(2), (3). Pub. L. 115–232, § 516(1), struck out “not on active duty” after “United States” in par. (2) and after “Army Reserve” in par. (3).
+2018—Subsec. (b)(2), (3). Pub. L. 115–232, § 516(1), struck out “not on active duty” after “United States” in par. (2) and after “Army Reserve” in par. (3).
 
-Subsec. (c). Pub. L. 115–232, § 516(2), inserted “of the reserve components” after “among the members” and struck out “not on active duty” before period at end.
+Subsec. (c). Pub. L. 115–232, § 516(2), inserted “of the reserve components” after “among the members” and struck out “not on active duty” before period at end.
 
 1994—Pub. L. 103–337 renumbered section 3021 of this title as this section.
 
-1986—Pub. L. 99–433, § 501(a)(8)(C), renumbered section 3033 of this title as this section, and substituted “Army Reserve Forces Policy Committee” for “Reserve components of Army; policies and regulations for government of” in section catchline.
+1986—Pub. L. 99–433, § 501(a)(8)(C), renumbered section 3033 of this title as this section, and substituted “Army Reserve Forces Policy Committee” for “Reserve components of Army; policies and regulations for government of” in section catchline.
 
-Subsec. (a). Pub. L. 99–433, § 501(a)(8)(A), substituted “Office” for “office” and “Committee. The Committee” for “Committee which”, inserted “and the mobilization preparedness”, and substituted “Army. The” for “Army, and the” and “Secretary of the Army and the Chief of Staff” for “Chief of Staff and the Assistant Secretary responsible for reserve affairs”.
+Subsec. (a). Pub. L. 99–433, § 501(a)(8)(A), substituted “Office” for “office” and “Committee. The Committee” for “Committee which”, inserted “and the mobilization preparedness”, and substituted “Army. The” for “Army, and the” and “Secretary of the Army and the Chief of Staff” for “Chief of Staff and the Assistant Secretary responsible for reserve affairs”.
 
-Subsec. (h). Pub. L. 99–433, § 501(a)(8)(B), struck out “General” before “Staff” in two places.
+Subsec. (h). Pub. L. 99–433, § 501(a)(8)(B), struck out “General” before “Staff” in two places.
 
 1967—Pub. L. 90–168 amended section generally, and restated with certain changes the existing authority relating to the Army Reserve Forces Policy Committee within the Office of the Secretary of the Army, reduced the membership of the Committee from 21 to 15, reduced the grade requirements so as to permit inclusion of colonels, and provided that the Committee review and comment upon all major policies affecting Army Reserve matters and that the Committee comments accompany any final submission to the Chief of Staff and Assistant Secretary responsible for Reserve Affairs.
 
@@ -183,23 +183,23 @@ Amendment by Pub. L. 90–168 effective on first day of first calendar month fol
 
 Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under section 101 of this title.
 
-## § 10303. Navy Reserve Policy Board
+## § 10303. Navy Reserve Policy Board
 
 A Navy Reserve Policy Board shall be convened at least once annually at the seat of government to consider, recommend, and report to the Secretary of the Navy on reserve policy matters. At least half of the members of the Board must be officers of the Navy Reserve.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(b)(1), Oct. 5, 1994, 108 Stat. 2981; amended Pub. L. 109–163, div. A, title V, § 515(b)(1)(DD), (3)(H), Jan. 6, 2006, 119 Stat. 3233, 3234.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(b)(1), Oct. 5, 1994, 108 Stat. 2981; amended Pub. L. 109–163, div. A, title V, § 515(b)(1)(DD), (3)(H), Jan. 6, 2006, 119 Stat. 3233, 3234.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 5251(c) of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
+Provisions similar to those in this section were contained in section 5251(c) of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
 
 **Amendments**
 
-2006—Pub. L. 109–163, § 515(b)(3)(H), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
+2006—Pub. L. 109–163, § 515(b)(3)(H), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
 
-Pub. L. 109–163, § 515(b)(1)(DD), substituted “Navy Reserve” for “Naval Reserve” in two places in text.
+Pub. L. 109–163, § 515(b)(1)(DD), substituted “Navy Reserve” for “Naval Reserve” in two places in text.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -207,17 +207,17 @@ Pub. L. 109–163, § 515(b)(1)(DD), substituted “Navy Reserve” for “Nav
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 10304. Marine Corps Reserve Policy Board
+## § 10304. Marine Corps Reserve Policy Board
 
 A Marine Corps Reserve Policy Board shall be convened at least once annually at the seat of government to consider, recommend, and report to the Secretary of the Navy on reserve policy matters. At least half of the members of the Board must be officers of the Marine Corps Reserve.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(b)(1), Oct. 5, 1994, 108 Stat. 2981.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(b)(1), Oct. 5, 1994, 108 Stat. 2981.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 5252(c) of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
+Provisions similar to those in this section were contained in section 5252(c) of this title, prior to repeal by Pub. L. 103–337, § 1661(a)(3)(A).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -225,7 +225,7 @@ Provisions similar to those in this section were contained in section 5252(c) of
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 10305. Air Force Reserve Forces Policy Committee
+## § 10305. Air Force Reserve Forces Policy Committee
 
 **(a)** There is in the Office of the Secretary of the Air Force an Air Reserve Forces Policy Committee on Air National Guard and Air Force Reserve Policy. The Committee shall review and comment upon major policy matters directly affecting the reserve components and the mobilization preparedness of the Air Force. The Committee’s comments on such policy matters shall accompany the final report regarding any such matters submitted to the Secretary of the Air Force and the Chief of Staff.
 
@@ -257,7 +257,7 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 **(h)** There shall be not less than 10 officers of the Air National Guard of the United States and the Air Force Reserve on duty with the Air Staff, one-half of whom shall be from each of those components. These officers shall be considered as additional members of the Air Staff while on that duty.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 491, § 8033; Pub. L. 85–861, § 33(a)(17), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 90–168, § 2(21), Dec. 1, 1967, 81 Stat. 525; renumbered § 8021 and amended Pub. L. 99–433, title V, § 521(a)(6), Oct. 1, 1986, 100 Stat. 1059; renumbered § 10305, Pub. L. 103–337, div. A, title XVI, § 1661(b)(2)(B), Oct. 5, 1994, 108 Stat. 2981; Pub. L. 118–31, div. A, title V, § 511, title IX, § 916, Dec. 22, 2023, 137 Stat. 244, 368.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 491, § 8033; Pub. L. 85–861, § 33(a)(17), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 90–168, § 2(21), Dec. 1, 1967, 81 Stat. 525; renumbered § 8021 and amended Pub. L. 99–433, title V, § 521(a)(6), Oct. 1, 1986, 100 Stat. 1059; renumbered § 10305, Pub. L. 103–337, div. A, title XVI, § 1661(b)(2)(B), Oct. 5, 1994, 108 Stat. 2981; Pub. L. 118–31, div. A, title V, § 511, title IX, § 916, Dec. 22, 2023, 137 Stat. 244, 368.)
 
 **Historical and Revision Notes**
 
@@ -265,8 +265,8 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8033(a)   8033(b)   8033(c)   8033(d)   8033(e)     8033(f) | 10:38 (1st par., less last 37 words). 10:38 (last 37 words of 1st par.). 10:38 (1st sentence, less proviso, of 2d par.). 10:38 (proviso of 1st sentence of 2d par.). 10:38 (2d sentence, and 3d sentence less proviso, of 2d par.). 10:38 (proviso of 3d sentence, and last sentence, of 2d par.). | June 3, 1916, ch. 134, § 5 (less last par.); June 4, 1920, ch. 227, subch. I, § 5 (1st 7 pars.); Sept. 22, 1922, ch. 423, § 1, July 2, 1926, ch. 721, § 5; May 21, 1928, ch. 647; added June 15, 1933, ch. 87, § 2 (less last par.), 48 Stat. 153; June 3, 1938, ch. 319; July 14, 1939, ch. 269; June 28, 1950, ch. 383, § 401(b), 64 Stat. 271. |
-| 8033(g) | 5:626(f). | July 26, 1947, ch. 343, § 207(f), 61 Stat. 503. |
+| 8033(a) 8033(b) 8033(c) 8033(d) 8033(e) 8033(f) | 10:38 (1st par., less last 37 words). 10:38 (last 37 words of 1st par.). 10:38 (1st sentence, less proviso, of 2d par.). 10:38 (proviso of 1st sentence of 2d par.). 10:38 (2d sentence, and 3d sentence less proviso, of 2d par.). 10:38 (proviso of 3d sentence, and last sentence, of 2d par.). | June 3, 1916, ch. 134, § 5 (less last par.); June 4, 1920, ch. 227, subch. I, § 5 (1st 7 pars.); Sept. 22, 1922, ch. 423, § 1, July 2, 1926, ch. 721, § 5; May 21, 1928, ch. 647; added June 15, 1933, ch. 87, § 2 (less last par.), 48 Stat. 153; June 3, 1938, ch. 319; July 14, 1939, ch. 269; June 28, 1950, ch. 383, § 401(b), 64 Stat. 271. |
+| 8033(g) | 5:626(f). | July 26, 1947, ch. 343, § 207(f), 61 Stat. 503. |
 
 In subsection (a), the words “the following subjects” are inserted for clarity.
 
@@ -284,23 +284,23 @@ The change is necessary to make subsection (d) coextensive with subsection (c), 
 
 **Amendments**
 
-2023—Subsec. (b). Pub. L. 118–31, § 916(2)–(4), inserted par. (1) designation before “The committee”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), and added par. (2).
+2023—Subsec. (b). Pub. L. 118–31, § 916(2)–(4), inserted par. (1) designation before “The committee”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), and added par. (2).
 
-Pub. L. 118–31, § 916(1), substituted “shall have voting members, who shall be” for “consists of” in introductory provisions.
+Pub. L. 118–31, § 916(1), substituted “shall have voting members, who shall be” for “consists of” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 118–31, § 511(1), struck out “not on active duty” after “Air National Guard of the United States”.
+Subsec. (b)(2). Pub. L. 118–31, § 511(1), struck out “not on active duty” after “Air National Guard of the United States”.
 
-Subsec. (b)(3). Pub. L. 118–31, § 511(1), struck out “not on active duty” before period at end.
+Subsec. (b)(3). Pub. L. 118–31, § 511(1), struck out “not on active duty” before period at end.
 
-Subsec. (c). Pub. L. 118–31, § 511(2), inserted “of the reserve components” after “among the members” and struck out “not on active duty” before period at end.
+Subsec. (c). Pub. L. 118–31, § 511(2), inserted “of the reserve components” after “among the members” and struck out “not on active duty” before period at end.
 
 1994—Pub. L. 103–337 renumbered section 8021 of this title as this section.
 
-1986—Pub. L. 99–433, § 521(a)(6)(C), renumbered section 8033 of this title as this section, and substituted “Air Force Reserve Forces Policy Committee” for “Reserve components of Air Force; policies and regulations for government of: functions of National Guard Bureau with respect to Air National Guard” in section catchline.
+1986—Pub. L. 99–433, § 521(a)(6)(C), renumbered section 8033 of this title as this section, and substituted “Air Force Reserve Forces Policy Committee” for “Reserve components of Air Force; policies and regulations for government of: functions of National Guard Bureau with respect to Air National Guard” in section catchline.
 
-Subsec. (a). Pub. L. 99–433, § 521(a)(6)(A), substituted “Policy. The Committee” for “Policy which”, inserted “and the mobilization preparedness”, and substituted “Air Force. The” for “Air Force and the” and “Secretary of the Air Force and the Chief of Staff” for “Chief of Staff, and the Assistant Secretary responsible for reserve affairs”.
+Subsec. (a). Pub. L. 99–433, § 521(a)(6)(A), substituted “Policy. The Committee” for “Policy which”, inserted “and the mobilization preparedness”, and substituted “Air Force. The” for “Air Force and the” and “Secretary of the Air Force and the Chief of Staff” for “Chief of Staff, and the Assistant Secretary responsible for reserve affairs”.
 
-Subsec. (b)(2). Pub. L. 99–433, § 521(a)(6)(B), inserted “and” after the semicolon.
+Subsec. (b)(2). Pub. L. 99–433, § 521(a)(6)(B), inserted “and” after the semicolon.
 
 1967—Pub. L. 90–168 amended section generally, and among other changes, redesignated subsec. (e) as (h) and increased from seven to eight the number of subsecs. in the section and in such subsecs. (a)–(h) restated with certain changes the existing authority relating to the Staff Committee on Air Force Reserve Policy within the Office of the Secretary of the Air Force, reduced the membership of the Committee from 21 to 15, reduced the grade requirements so as to permit inclusion of colonels, and provided that the Committee review and comment on all major policies affecting Air Force Reserve matters and that the Committee comments accompany any final submission to the Chief of Staff and Assistant Secretary responsible for Reserve matters.
 

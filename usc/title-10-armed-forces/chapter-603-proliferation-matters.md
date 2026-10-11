@@ -21,11 +21,11 @@ retrieved: 2026-10-11
 
 Chapter analysis added pursuant to operation of section 102 of this title.
 
-## § 6151. Authority to conduct program relating to fissile materials
+## § 6151. Authority to conduct program relating to fissile materials
 
 The Secretary of Energy may conduct programs designed to improve the protection, control, and accountability of fissile materials in Russia.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1372.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1372.)
 
 **Editorial Notes**
 
@@ -33,15 +33,15 @@ The Secretary of Energy may conduct programs designed to improve the protection,
 
 A prior section 6151 was renumbered section 8262 of this title.
 
-Provisions similar to those in this section were contained in section 2565 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2565 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-## § 6152. Completion of material protection, control, and accounting activities in the Russian Federation
+## § 6152. Completion of material protection, control, and accounting activities in the Russian Federation
 
 **(a) In General.—** Except as provided in subsection (b) or specifically authorized by Congress, international material protection, control, and accounting activities in the Russian Federation shall be completed not later than fiscal year 2018.
 
 **(b) Exception.—** The limitation in subsection (a) shall not apply to international material protection, control, and accounting activities in the Russian Federation associated with the Agreement Concerning the Management and Disposition of Plutonium Designated as No Longer Required for Defense Purposes and Related Cooperation, signed at Moscow and Washington August 29 and September 1, 2000, and entered into force July 13, 2011 (TIAS 11–713.1), between the United States and the Russian Federation.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1372.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1372.)
 
 **Editorial Notes**
 
@@ -49,9 +49,9 @@ Provisions similar to those in this section were contained in section 2565 of Ti
 
 A prior section 6152 was renumbered section 8263 of this title.
 
-Provisions similar to those in this section were contained in section 3122(b) of Pub. L. 113–291, which was set out as a note under section 2565 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(14).
+Provisions similar to those in this section were contained in section 3122(b) of Pub. L. 113–291, which was set out as a note under section 2565 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(14).
 
-## § 6153. Disposition of weapons-usable plutonium at Savannah River Site
+## § 6153. Disposition of weapons-usable plutonium at Savannah River Site
 
 **(a) Plan for Construction and Operation of MOX Facility.—**
 
@@ -155,27 +155,27 @@ the Secretary shall, from funds available to the Secretary, pay to the State of 
 
 **(3)** The terms “defense plutonium” and “defense plutonium materials” mean weapons-usable plutonium.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1373, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1373, 1462.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (b)(6)(B), (C) and (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (b)(6)(B), (C) and (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Prior Provisions**
 
 A prior section 6153 was enumbered section 8264 of this title.
 
-Provisions similar to those in this section were contained in section 2566 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2566 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-Subsec. (h). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (3) headings which corresponded to the defined term in each par.
+Subsec. (h). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (3) headings which corresponded to the defined term in each par.
 
-## § 6154. Disposition of surplus defense plutonium at Savannah River Site, Aiken, South Carolina
+## § 6154. Disposition of surplus defense plutonium at Savannah River Site, Aiken, South Carolina
 
 **(a) Consultation Required.—** The Secretary of Energy shall consult with the Governor of the State of South Carolina regarding any decisions or plans of the Secretary related to the disposition of surplus defense plutonium and defense plutonium materials located at the Savannah River Site, Aiken, South Carolina.
 
@@ -207,7 +207,7 @@ Subsec. (h). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (3) h
 
 **(h) Annual Report on Funding for Fissile Materials Disposition Activities.—** The Secretary shall include with the budget justification materials submitted to Congress in support of the Department of Energy budget for each fiscal year (as submitted with the budget of the President under section 1105(a) of title 31) a report setting forth the extent to which amounts requested for the Department for such fiscal year for fissile materials disposition activities will enable the Department to meet commitments for the disposition of surplus defense plutonium and defense plutonium materials located at the Savannah River Site, and for any other fissile materials disposition activities, in such fiscal year.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1376.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1376.)
 
 **Editorial Notes**
 
@@ -215,9 +215,9 @@ Subsec. (h). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (3) h
 
 A prior section 6154 was renumbered section 8265 of this title.
 
-Provisions similar to those in this section were contained in section 2567 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2567 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-## § 6155. Acceleration of removal or security of fissile materials, radiological materials, and related equipment at vulnerable sites worldwide
+## § 6155. Acceleration of removal or security of fissile materials, radiological materials, and related equipment at vulnerable sites worldwide
 
 **(a) Sense of Congress.—**
 
@@ -301,7 +301,7 @@ Provisions similar to those in this section were contained in section 2567 of Ti
 
 **(7)** The term “alternative technologies” means technologies, such as accelerator-based equipment, that do not use radiological materials.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1377, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1377, 1462.)
 
 **Editorial Notes**
 
@@ -309,15 +309,15 @@ Provisions similar to those in this section were contained in section 2567 of Ti
 
 A prior section 6155 was renumbered section 8266 of this title.
 
-Provisions similar to those in this section were contained in section 2569 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2569 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-Subsec. (e). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (5) headings which read as follows: “In general”, “Programs covered”, “Retention and use of amounts”, “Return of amounts not used within 5 years”, and “Annual report”, respectively.
+Subsec. (e). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (5) headings which read as follows: “In general”, “Programs covered”, “Retention and use of amounts”, “Return of amounts not used within 5 years”, and “Annual report”, respectively.
 
-## § 6156. Acceleration of replacement of cesium blood irradiation sources
+## § 6156. Acceleration of replacement of cesium blood irradiation sources
 
 **(a) Goal.—** The Administrator shall ensure that the goal of the covered programs is eliminating the use of blood irradiation devices in the United States that rely on cesium chloride by December 31, 2027.
 
@@ -373,7 +373,7 @@ Subsec. (e). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (5) h
 
 **(B)** The Off-Site Source Recovery Program.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(A), Dec. 18, 2025, 139 Stat. 1380, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(A), Dec. 18, 2025, 139 Stat. 1380, 1462.)
 
 **Editorial Notes**
 
@@ -385,27 +385,27 @@ The date of the enactment of the John S. McCain National Defense Authorization A
 
 A prior section 6156 was renumbered section 8267 of this title.
 
-Provisions similar to those in this section were contained in section 3141 of Pub. L. 115–232, which was set out as a note under section 2569 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(15).
+Provisions similar to those in this section were contained in section 3141 of Pub. L. 115–232, which was set out as a note under section 2569 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(15).
 
 **Amendments**
 
-2025—Subsec. (f). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which corresponded to the defined term in each par.
+2025—Subsec. (f). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which corresponded to the defined term in each par.
 
-## § 6157. International agreements on nuclear weapons data
+## § 6157. International agreements on nuclear weapons data
 
 The Secretary of Energy may, with the concurrence of the Secretary of State and in coordination with the Secretary of Defense, the Secretary of Homeland Security, and the Director of National Intelligence, enter into agreements with countries or international organizations to conduct data collection and analysis to determine accurately and in a timely manner the source of any components of, or fissile material used or attempted to be used in, a nuclear device or weapon.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1382.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1382.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 6157, act Aug. 10, 1956, ch. 1041, 70A Stat. 387, related to transportation of motor vehicles on permanent change of station, prior to repeal by Pub. L. 87–651, title I, § 123(b), Sept. 7, 1962, 76 Stat. 514.
+A prior section 6157, act Aug. 10, 1956, ch. 1041, 70A Stat. 387, related to transportation of motor vehicles on permanent change of station, prior to repeal by Pub. L. 87–651, title I, § 123(b), Sept. 7, 1962, 76 Stat. 514.
 
-Provisions similar to those in this section were contained in section 2572 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2572 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-## § 6158. International agreements on information on radioactive materials
+## § 6158. International agreements on information on radioactive materials
 
 The Secretary of Energy may, with the concurrence of the Secretary of State and in coordination with the Secretary of Defense, the Secretary of Homeland Security, and the Director of National Intelligence, enter into agreements with countries or international organizations—
 
@@ -417,17 +417,17 @@ The Secretary of Energy may, with the concurrence of the Secretary of State and 
 
 **(B)** the interdiction or discovery of a nuclear device or weapon or nuclear material.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1382.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1382.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 6158, act Aug. 10, 1956, ch. 1041, 70A Stat. 387, exempted enlisted members of the Marine Corps, while on active duty, from personal arrest for debt or contract, prior to repeal by Pub. L. 90–235, § 7(b)(1), Jan. 2, 1968, 81 Stat. 763.
+A prior section 6158, act Aug. 10, 1956, ch. 1041, 70A Stat. 387, exempted enlisted members of the Marine Corps, while on active duty, from personal arrest for debt or contract, prior to repeal by Pub. L. 90–235, § 7(b)(1), Jan. 2, 1968, 81 Stat. 763.
 
-Provisions similar to those in this section were contained in section 2573 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2573 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-## § 6159. Defense nuclear nonproliferation management plan
+## § 6159. Defense nuclear nonproliferation management plan
 
 **(a) Plan Required.—** The Administrator shall develop and annually update a five-year management plan for activities associated with the defense nuclear nonproliferation programs of the Administration to prevent and counter the proliferation of materials, technology, equipment, and expertise related to nuclear and radiological weapons in order to minimize and address the risk of nuclear terrorism and the proliferation of such weapons.
 
@@ -501,21 +501,21 @@ Provisions similar to those in this section were contained in section 2573 of Ti
 
 **(17)** Such other matters as the Administrator considers appropriate.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1382, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1382, 1462.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 6159, added Pub. L. 85–56, title XXII, § 2201(31)(C), June 17, 1957, 71 Stat. 161, provided for a pension to disabled naval enlisted personnel serving 20 years or more, equal to one-half the pay of enlisted man’s rating at the time of his discharge, prior to repeal by Pub. L. 91–482, § 1(a), Oct. 21, 1970, 84 Stat. 1082.
+A prior section 6159, added Pub. L. 85–56, title XXII, § 2201(31)(C), June 17, 1957, 71 Stat. 161, provided for a pension to disabled naval enlisted personnel serving 20 years or more, equal to one-half the pay of enlisted man’s rating at the time of his discharge, prior to repeal by Pub. L. 91–482, § 1(a), Oct. 21, 1970, 84 Stat. 1082.
 
-Provisions similar to those in this section were contained in section 2575 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2575 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-## § 6160. Information relating to certain defense nuclear nonproliferation programs
+## § 6160. Information relating to certain defense nuclear nonproliferation programs
 
 **(a) Technologies and Capabilities.—** The Administrator shall document, for efforts that are not focused on basic research, the technologies and capabilities of the defense nuclear nonproliferation research and development program that—
 
@@ -529,7 +529,7 @@ Provisions similar to those in this section were contained in section 2575 of Ti
 
 **(2)** The Administrator may carry out paragraph (1) using a common template or such other means as the Administrator determines appropriate.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1385, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1385, 1462.)
 
 **Editorial Notes**
 
@@ -537,13 +537,13 @@ Provisions similar to those in this section were contained in section 2575 of Ti
 
 A prior section 6160 was renumbered section 8270 of this title.
 
-Provisions similar to those in this section were contained in section 2576 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2576 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-## § 6161. Annual Selected Acquisition Reports on certain hardware relating to defense nuclear nonproliferation
+## § 6161. Annual Selected Acquisition Reports on certain hardware relating to defense nuclear nonproliferation
 
 **(a) Annual Selected Acquisition Reports.—**
 
@@ -557,7 +557,7 @@ Provisions similar to those in this section were contained in section 2576 of Ti
 
 **(2)** exceeds $500,000,000 in total program cost over the course of five years.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1385, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1385, 1462.)
 
 **Editorial Notes**
 
@@ -565,10 +565,10 @@ Provisions similar to those in this section were contained in section 2576 of Ti
 
 A prior section 6161 was renumbered section 8271 of this title.
 
-Provisions similar to those in this section were contained in section 2577 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2577 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-Subsec. (a). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which read as follows: “In general” and “Matters included”, respectively.
+Subsec. (a). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which read as follows: “In general” and “Matters included”, respectively.

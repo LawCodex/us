@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 64—METHANE TRANSPORTATION RESEARCH, DEVELOPMENT, AND DEMONSTRATION
 
-## § 3801. Congressional statement of findings and declaration of policy
+## § 3801. Congressional statement of findings and declaration of policy
 
 **(a)** The Congress finds and declares that—
 
@@ -45,21 +45,21 @@ retrieved: 2026-10-11
 
 **(5)** supplement, but neither supplant nor duplicate, the automotive propulsion system research and development efforts of private industry.
 
-(Pub. L. 96–512, § 2, Dec. 12, 1980, 94 Stat. 2827.)
+(Pub. L. 96–512, § 2, Dec. 12, 1980, 94 Stat. 2827.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Clean Air Act, as amended, referred to in subsec. (b)(4), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, as amended, referred to in subsec. (b)(4), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 96–512, § 1, Dec. 12, 1980, 94 Stat. 2827, provided: “That this Act [enacting this chapter] may be cited as the ‘Methane Transportation Research, Development, and Demonstration Act of 1980’.”
+Pub. L. 96–512, § 1, Dec. 12, 1980, 94 Stat. 2827, provided: “That this Act [enacting this chapter] may be cited as the ‘Methane Transportation Research, Development, and Demonstration Act of 1980’.”
 
-## § 3802. Definitions
+## § 3802. Definitions
 
 For purposes of this chapter—
 
@@ -75,9 +75,9 @@ For purposes of this chapter—
 
 **(f)** the terms “facilities for the transmission and storage of methane”, “methane transmission, storage and dispensing facilities”, and any variant thereof means such facilities which are (1) directly necessary for the conduct of a demonstration, (2) for the exclusive use of a demonstration and (3) reasonably incidental to a demonstration.
 
-(Pub. L. 96–512, § 3, Dec. 12, 1980, 94 Stat. 2828.)
+(Pub. L. 96–512, § 3, Dec. 12, 1980, 94 Stat. 2828.)
 
-## § 3803. Duties of Secretary of Energy
+## § 3803. Duties of Secretary of Energy
 
 **(a) Designation of management entity for program**
 
@@ -119,9 +119,9 @@ The Secretary shall have the responsibility for monitoring and assuring proper m
 
 **(3)** Such certifications shall be available to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate. The provisions of chapter 5 of title 5 shall not apply to such certifications and no court shall have any jurisdiction to review the preparation or adequacy of such certifications; but section 553 of title 5 and section 5916 of title 42 shall apply to public disclosure of such certifications.
 
-**(4)** The Secretary of Energy also shall include in the report required by section 3808 1
+**(4)** The Secretary of Energy also shall include in the report required by section 3808 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title a detailed discussion of how each research and development contract, grant, or project funded under the authority of this chapter satisfies the requirement of this subsection.
 
@@ -129,13 +129,13 @@ of this title a detailed discussion of how each research and development contrac
 
 **(6)** The provisions and requirements of this subsection shall not apply with respect to any contract, grant, or project which was entered into, made, or formally approved and initiated prior to the enactment of this chapter, or with respect to any renewal or extension thereof.
 
-(Pub. L. 96–512, § 4, Dec. 12, 1980, 94 Stat. 2828; Pub. L. 97–375, title I, § 106(c), Dec. 21, 1982, 96 Stat. 1820; Pub. L. 103–437, § 5(b)(5), Nov. 2, 1994, 108 Stat. 4582.)
+(Pub. L. 96–512, § 4, Dec. 12, 1980, 94 Stat. 2828; Pub. L. 97–375, title I, § 106(c), Dec. 21, 1982, 96 Stat. 1820; Pub. L. 103–437, § 5(b)(5), Nov. 2, 1994, 108 Stat. 4582.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3808 of this title, referred to in subsec. (d)(4), was repealed by Pub. L. 104–66, title I, § 1051(p), Dec. 21, 1995, 109 Stat. 717.
+Section 3808 of this title, referred to in subsec. (d)(4), was repealed by Pub. L. 104–66, title I, § 1051(p), Dec. 21, 1995, 109 Stat. 717.
 
 **Amendments**
 
@@ -143,7 +143,7 @@ Section 3808 of this title, referred to in subsec. (d)(4), was repealed by Pub. 
 
 1982—Subsec. (c)(8). Pub. L. 97–375 struck out “and report to the Congress on” after “ascertain”.
 
-## § 3804. Coordination with other Federal departments and agencies
+## § 3804. Coordination with other Federal departments and agencies
 
 **(a) Related responsibilities and regulatory activities**
 
@@ -153,9 +153,9 @@ In carrying out the programs established under sections 3803 and 3806 of this ti
 
 Each department, agency, and instrumentality of the executive branch of the Federal Government shall carefully consider any written request from the Secretary, the head of any organizational entity designated by the Secretary pursuant to section 3803(a) of this title, or the head of any agency which is party to an agreement or arrangement pursuant to section 3803(b) of this title, to furnish such assistance, on a reimbursable basis, as the Secretary or such head deems necessary to carry out the program and to achieve the purposes of this chapter. Such assistance may include transfer of personnel with their consent and without prejudice to their position and rating.
 
-(Pub. L. 96–512, § 5, Dec. 12, 1980, 94 Stat. 2830.)
+(Pub. L. 96–512, § 5, Dec. 12, 1980, 94 Stat. 2830.)
 
-## § 3805. Research and development activities
+## § 3805. Research and development activities
 
 The Secretary, acting through appropriate agencies and contractors, shall initiate and provide for the conduct of research and development in areas relating to methane-fueled vehicles, including but not limited to—
 
@@ -175,9 +175,9 @@ The Secretary, acting through appropriate agencies and contractors, shall initia
 
 **(8)** overcoming institutional barriers to widespread use including but not limited to restrictions on the transportation of methane for vehicular use through tunnels, and the potential expansion of the distribution of methane for vehicular purposes.
 
-(Pub. L. 96–512, § 6, Dec. 12, 1980, 94 Stat. 2830.)
+(Pub. L. 96–512, § 6, Dec. 12, 1980, 94 Stat. 2830.)
 
-## § 3806. Demonstrations
+## § 3806. Demonstrations
 
 **(a) Development of data assessing current state-of-the-art**
 
@@ -231,9 +231,9 @@ Each demonstration shall have a duration of at least three years during which ti
 
 *Provided, however*, That not fewer than two demonstrations initiated in each year shall be located in a county or standard metropolitan statistical area designated by the Secretary upon recommendation of the Administrator of the Environmental Protection Agency based on severity or uniqueness of air quality conditions: *And provided further*, That the fleet or portions of fleets participating in each demonstration with funding under this chapter shall consist of not fewer than fifty vehicles except in the case of one demonstration each year involving methane-fueled off-road agricultural equipment.
 
-(Pub. L. 96–512, § 7, Dec. 12, 1980, 94 Stat. 2830.)
+(Pub. L. 96–512, § 7, Dec. 12, 1980, 94 Stat. 2830.)
 
-## § 3807. Use of methane-fueled vehicles by Federal agencies and departments
+## § 3807. Use of methane-fueled vehicles by Federal agencies and departments
 
 The Secretary shall consult with the Postmaster General of the United States Postal Service, the Administrator of the General Services Administration, the Secretary of Defense, and the heads of other Federal agencies where appropriate to—
 
@@ -241,19 +241,19 @@ The Secretary shall consult with the Postmaster General of the United States Pos
 
 **(b)** arrange for appropriate use of methane-fueled vehicles at the earliest practicable date.
 
-(Pub. L. 96–512, § 8, Dec. 12, 1980, 94 Stat. 2832.)
+(Pub. L. 96–512, § 8, Dec. 12, 1980, 94 Stat. 2832.)
 
-## § 3808. Repealed. Pub. L. 104–66, title I, § 1051(p), Dec. 21, 1995, 109 Stat. 717
+## § 3808. Repealed. Pub. L. 104–66, title I, § 1051(p), Dec. 21, 1995, 109 Stat. 717
 
-Section, Pub. L. 96–512, § 9, Dec. 12, 1980, 94 Stat. 2833, directed Secretary of Energy to submit such reports to Congress as Secretary deemed appropriate, including annual report on all activities under this chapter.
+Section, Pub. L. 96–512, § 9, Dec. 12, 1980, 94 Stat. 2833, directed Secretary of Energy to submit such reports to Congress as Secretary deemed appropriate, including annual report on all activities under this chapter.
 
-## § 3809. Authorization of appropriations; required funding
+## § 3809. Authorization of appropriations; required funding
 
 There are authorized to be appropriated to the Secretary for purposes of carrying out this chapter, not to exceed $3,000,000 for the fiscal year ending September 30, 1982, not less than one-half of which shall be for the purpose of making loans under section 3806(b) of this title; not to exceed $5,000,000 for the fiscal year ending September 30, 1983, not less than one-half of which shall be for the purpose of making loans under section 3806(b) of this title; not to exceed $5,000,000 for the fiscal year ending September 30, 1984, not less than one-half of which shall be for the purpose of making loans under section 3806(b) of this title; and such sums as may be necessary for the fiscal years ending September 30, 1985, and September 30, 1986. Any amount appropriated pursuant to this section shall remain available until expended.
 
-(Pub. L. 96–512, § 10, Dec. 12, 1980, 94 Stat. 2833.)
+(Pub. L. 96–512, § 10, Dec. 12, 1980, 94 Stat. 2833.)
 
-## § 3810. Relationship to other laws
+## § 3810. Relationship to other laws
 
 **(a) Modification or waiver**
 
@@ -263,4 +263,4 @@ Nothing in this chapter shall be construed as authorizing the Secretary or any o
 
 Nothing in this chapter shall be construed as granting the Secretary or any other Federal official any authority to promulgate rules of general application to regulate the production, transportation, storage, safety, use or pricing of methane as a transportation fuel or vehicles which use methane as a transportation fuel.
 
-(Pub. L. 96–512, § 11, Dec. 12, 1980, 94 Stat. 2833.)
+(Pub. L. 96–512, § 11, Dec. 12, 1980, 94 Stat. 2833.)

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 85—NATIONAL CAPITAL SERVICE AREA AND DIRECTOR
 
-## § 8501. National Capital Service Area
+## § 8501. National Capital Service Area
 
 **(a) Establishment.—**
 
@@ -151,13 +151,13 @@ thence generally north and west up the Potomac River along the Virginia-District
 
 **(d) Right To Participate in Election Not Affected by Residency.—** An individual may not be denied the right to vote or otherwise participate in any manner in any election in the District of Columbia solely because the individual resides in the National Capital Service Area.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1211; Pub. L. 109–284, § 6(24), Sept. 27, 2006, 120 Stat. 1213.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1211; Pub. L. 109–284, § 6(24), Sept. 27, 2006, 120 Stat. 1213.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8501(a) | 40:136(a), (f). | Pub. L. 93–198, title VII, § 739(a), (f), (h)–(j), Dec. 24, 1973, 87 Stat. 825, 826, 829. |
+| 8501(a) | 40:136(a), (f). | Pub. L. 93–198, title VII, § 739(a), (f), (h)–(j), Dec. 24, 1973, 87 Stat. 825, 826, 829. |
 | 8501(b)(1) | 40:136(h)(1). |  |
 | 8501(b)(2) | 40:136(i). |  |
 | 8501(c) | 40:136(h)(2). |  |
@@ -185,7 +185,7 @@ The District of Columbia Home Rule Act, referred to in subsec. (c), is Pub. L. 9
 
 2006—Subsec. (b)(1)(A). Pub. L. 109–284 inserted “of this title” after “sections 5101 and 5102”.
 
-## § 8502. National Capital Service Director
+## § 8502. National Capital Service Director
 
 **(a) Establishment and Compensation.—** There is in the Executive Office of the President the National Capital Service Director who shall be appointed by the President. The Director shall receive compensation at the maximum rate established for level IV of the Executive Schedule under section 5315 of title 5.
 
@@ -197,13 +197,13 @@ The District of Columbia Home Rule Act, referred to in subsec. (c), is Pub. L. 9
 
 **(2) Director.—** Except with respect to that part of the National Capital Service Area comprising the United States Capitol Buildings and Grounds as defined and described in sections 5101 and 5102 of this title, the Supreme Court Building and grounds as described in section 6101 of this title, and the Library of Congress buildings and grounds as defined in section 11 of the Act of August 4, 1950 (2 U.S.C. 167j), the Director shall ensure that there is provided in the remainder of the area described in section 8501(a) of this title adequate police protection and maintenance of streets and highways.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1215; Pub. L. 109–284, § 6(25), (26), Sept. 27, 2006, 120 Stat. 1213.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1215; Pub. L. 109–284, § 6(25), (26), Sept. 27, 2006, 120 Stat. 1213.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8502(a) | 40:136(b) (1st sentence), (c) (1st sentence). | Pub. L. 93–198, title VII, § 739(b), (c), Dec. 24, 1973, 87 Stat. 825. |
+| 8502(a) | 40:136(b) (1st sentence), (c) (1st sentence). | Pub. L. 93–198, title VII, § 739(b), (c), Dec. 24, 1973, 87 Stat. 825. |
 | 8502(b) | 40:136(c) (last sentence). |  |
 | 8502(c) | 40:136(b) (2d, last sentences). |  |
 
@@ -215,6 +215,6 @@ In subsection (b), the reference to chapter 33 of title 5 is substituted for “
 
 **Amendments**
 
-2006—Subsec. (a). Pub. L. 109–284, § 6(25), substituted “5315” for “5314”.
+2006—Subsec. (a). Pub. L. 109–284, § 6(25), substituted “5315” for “5314”.
 
-Subsec. (c)(2). Pub. L. 109–284, § 6(26), inserted “of this title” after “sections 5101 and 5102”.
+Subsec. (c)(2). Pub. L. 109–284, § 6(26), inserted “of this title” after “sections 5101 and 5102”.

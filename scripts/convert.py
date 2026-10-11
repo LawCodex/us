@@ -71,7 +71,7 @@ def wrap(mark, t):
 
 
 def norm_ws(s):
-    s = re.sub(r"[ \t\r\n]+", " ", s)
+    s = re.sub(r"[^\S\u00a0]+", " ", s)
     s = s.replace("\x00", "  \n")
     return "\n".join(x.strip() for x in s.split("\n")).strip()
 
@@ -353,7 +353,10 @@ class TitleConverter:
     def __init__(self, path, out_root, meta):
         self.tree = etree.parse(path, etree.XMLParser(huge_tree=True, remove_comments=True))
         self.root = self.tree.getroot()
-        self.title = self.root.find(f".//{{{U}}}main/*")
+        self.title = self.root.find(f"{{{U}}}main/*")
+        if self.title is None:  # title appendices: <appendix> directly under <uscDoc>
+            self.title = next(c for c in self.root if ln(c) and ln(c) != "meta")
+        self.appendix = ln(self.title) == "appendix"
         self.meta = meta
         self.out_root = out_root
         self.r = Renderer()
@@ -365,7 +368,9 @@ class TitleConverter:
         self.positive = pl is not None and (pl.text or "").strip() == "yes"
         self.pub = self.root.findtext(f".//{{{U}}}meta/{{{U}}}docPublicationName") or ""
         self.title_label = label(self.title)
-        self.dir = os.path.join(out_root, f"title-{self.tnum}-{slug(norm_ws(inline(self.title.find(f'{{{U}}}heading'), md=False)) if self.title.find(f'{{{U}}}heading') is not None else '')}")
+        hd = self.title.find(f"{{{U}}}heading")
+        tslug = "appendix" if self.appendix else slug(norm_ws(inline(hd, md=False)) if hd is not None else "")
+        self.dir = os.path.join(out_root, f"title-{self.tnum}-{tslug}")
         self.files = []
         self.stats = {"chapters": 0, "sections": 0, "files": 0, "bytes": 0}
 
@@ -464,7 +469,9 @@ class TitleConverter:
         return written
 
     def unit_filename(self, el, used):
-        kind = ln(el)
+        kind = {"compiledAct": "act", "courtRules": "rules", "courtRule": "rule",
+                "reorganizationPlans": "reorganization", "reorganizationPlan": "plan",
+                "level": ""}.get(ln(el), ln(el))
         num = el.find(f"{{{U}}}num")
         val = (num.get("value") if num is not None else None) or ""
         if not val and num is not None:
@@ -476,6 +483,7 @@ class TitleConverter:
         head = el.find(f"{{{U}}}heading")
         h = slug(norm_ws(inline(head, md=False))) if head is not None else ""
         base = "-".join(x for x in (kind.lower(), numpart, h) if x)[:100].rstrip("-")
+        base = re.sub(r"^(act|rules|reorganization)-\1-", r"\1-", base)
         fn, i = base + ".md", 2
         while fn in used:
             fn = f"{base}-{i}.md"

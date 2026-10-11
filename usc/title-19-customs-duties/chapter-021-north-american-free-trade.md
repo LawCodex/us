@@ -15,39 +15,39 @@ retrieved: 2026-10-11
 
 # CHAPTER 21—NORTH AMERICAN FREE TRADE
 
-## § 3301. Repealed. Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78
+## § 3301. Repealed. Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78
 
-Section, Pub. L. 103–182, § 2, Dec. 8, 1993, 107 Stat. 2060, defined terms for the North American Free Trade Agreement Implementation Act.
+Section, Pub. L. 103–182, § 2, Dec. 8, 1993, 107 Stat. 2060, defined terms for the North American Free Trade Agreement Implementation Act.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal of North American Free Trade Agreement Implementation Act**
 
-Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, provided that: “The North American Free Trade Agreement Implementation Act (Public Law 103–182; 19 U.S.C. 3301 et seq.) is repealed, effective on the date on which the USMCA enters into force [July 1, 2020].”
+Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, provided that: “The North American Free Trade Agreement Implementation Act (Public Law 103–182; 19 U.S.C. 3301 et seq.) is repealed, effective on the date on which the USMCA enters into force [July 1, 2020].”
 
 [For definition of “USMCA” as used in section 601 of Pub. L. 116–113, set out above, see section 4502 of this title.]
 
 **Short Title**
 
-Pub. L. 103–182, § 1(a), Dec. 8, 1993, 107 Stat. 2057, which provided that Pub. L. 103–182 could be cited as the “North American Free Trade Agreement Implementation Act”, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+Pub. L. 103–182, § 1(a), Dec. 8, 1993, 107 Stat. 2057, which provided that Pub. L. 103–182 could be cited as the “North American Free Trade Agreement Implementation Act”, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 ## SUBCHAPTER I—APPROVAL OF, AND GENERAL PROVISIONS RELATING TO, NORTH AMERICAN FREE TRADE AGREEMENT
 
-### §§ 3311 to 3317. Repealed. Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78
+### §§ 3311 to 3317. Repealed. Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78
 
-Section 3311, Pub. L. 103–182, title I, § 101, Dec. 8, 1993, 107 Stat. 2061, related to approval and entry into force of the North American Free Trade Agreement.
+Section 3311, Pub. L. 103–182, title I, § 101, Dec. 8, 1993, 107 Stat. 2061, related to approval and entry into force of the North American Free Trade Agreement.
 
-Section 3312, Pub. L. 103–182, title I, § 102, Dec. 8, 1993, 107 Stat. 2062; Pub. L. 117–286, § 4(a)(141), Dec. 27, 2022, 136 Stat. 4321, described the relationship of the Agreement to United States and State law.
+Section 3312, Pub. L. 103–182, title I, § 102, Dec. 8, 1993, 107 Stat. 2062; Pub. L. 117–286, § 4(a)(141), Dec. 27, 2022, 136 Stat. 4321, described the relationship of the Agreement to United States and State law.
 
-Section 3313, Pub. L. 103–182, title I, § 103, Dec. 8, 1993, 107 Stat. 2063, related to consultation and layover requirements for, and effective date of, proclaimed actions.
+Section 3313, Pub. L. 103–182, title I, § 103, Dec. 8, 1993, 107 Stat. 2063, related to consultation and layover requirements for, and effective date of, proclaimed actions.
 
-Section 3314, Pub. L. 103–182, title I, § 104, Dec. 8, 1993, 107 Stat. 2064, related to implementing actions in anticipation of entry into force and initial regulations.
+Section 3314, Pub. L. 103–182, title I, § 104, Dec. 8, 1993, 107 Stat. 2064, related to implementing actions in anticipation of entry into force and initial regulations.
 
-Section 3315, Pub. L. 103–182, title I, § 105, Dec. 8, 1993, 107 Stat. 2064; Pub. L. 110–161, div. B, title I, § 107, Dec. 26, 2007, 121 Stat. 1893, related to establishment of United States Section of NAFTA Secretariat.
+Section 3315, Pub. L. 103–182, title I, § 105, Dec. 8, 1993, 107 Stat. 2064; Pub. L. 110–161, div. B, title I, § 107, Dec. 26, 2007, 121 Stat. 1893, related to establishment of United States Section of NAFTA Secretariat.
 
-Section 3316, Pub. L. 103–182, title I, § 106, Dec. 8, 1993, 107 Stat. 2065, related to appointments to chapter 20 panel proceedings, with emphasis on individuals having expertise in environmental issues.
+Section 3316, Pub. L. 103–182, title I, § 106, Dec. 8, 1993, 107 Stat. 2065, related to appointments to chapter 20 panel proceedings, with emphasis on individuals having expertise in environmental issues.
 
-Section 3317, Pub. L. 103–182, title I, § 108, Dec. 8, 1993, 107 Stat. 2066, related to congressional intent regarding future accessions with respect to countries other than Canada and Mexico.
+Section 3317, Pub. L. 103–182, title I, § 108, Dec. 8, 1993, 107 Stat. 2066, related to congressional intent regarding future accessions with respect to countries other than Canada and Mexico.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -57,7 +57,7 @@ Repeal effective on the date on which the USMCA entered into force (July 1, 2020
 
 **Effective Date; Termination of NAFTA Status**
 
-Pub. L. 103–182, title I, § 109, Dec. 8, 1993, 107 Stat. 2067, which provided that title I of Pub. L. 103–182 (except for section 107) would take effect on Dec. 8, 1993, and terminated the effect of sections 101 through 106 of Pub. L. 103–182 with respect to a country ceasing to be a NAFTA country, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+Pub. L. 103–182, title I, § 109, Dec. 8, 1993, 107 Stat. 2067, which provided that title I of Pub. L. 103–182 (except for section 107) would take effect on Dec. 8, 1993, and terminated the effect of sections 101 through 106 of Pub. L. 103–182 with respect to a country ceasing to be a NAFTA country, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 **Executive Documents**
 
@@ -275,17 +275,17 @@ William J. Clinton.
 
 ## SUBCHAPTER II—CUSTOMS PROVISIONS
 
-### §§ 3331 to 3335. Repealed. Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78
+### §§ 3331 to 3335. Repealed. Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78
 
-Section 3331, Pub. L. 103–182, title II, § 201, Dec. 8, 1993, 107 Stat. 2068; Pub. L. 104–188, title I, § 1954(a)(5), Aug. 20, 1996, 110 Stat. 1927, provided for various tariff modifications.
+Section 3331, Pub. L. 103–182, title II, § 201, Dec. 8, 1993, 107 Stat. 2068; Pub. L. 104–188, title I, § 1954(a)(5), Aug. 20, 1996, 110 Stat. 1927, provided for various tariff modifications.
 
-Section 3332, Pub. L. 103–182, title II, § 202, Dec. 8, 1993, 107 Stat. 2069; Pub. L. 104–295, § 21(a)(2), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 105–206, title V, § 5003(b)(4), July 22, 1998, 112 Stat. 790, related to rules of origin for goods.
+Section 3332, Pub. L. 103–182, title II, § 202, Dec. 8, 1993, 107 Stat. 2069; Pub. L. 104–295, § 21(a)(2), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 105–206, title V, § 5003(b)(4), July 22, 1998, 112 Stat. 790, related to rules of origin for goods.
 
-Section 3333, Pub. L. 103–182, title II, § 203, Dec. 8, 1993, 107 Stat. 2086; Pub. L. 116–113, title V, § 501(b)(1), (2), (d)(1)–(3), Jan. 29, 2020, 134 Stat. 67, 68, consisted of subsecs. (a) to (e) relating to drawback. Subsecs. (b) and (c) had amended sections 81c, 1311 to 1313, and 1562 of this title. Subsecs. (a), (d), and (e) were transferred to section 4534 of this title by Pub. L. 116–113 prior to repeal of section 3333.
+Section 3333, Pub. L. 103–182, title II, § 203, Dec. 8, 1993, 107 Stat. 2086; Pub. L. 116–113, title V, § 501(b)(1), (2), (d)(1)–(3), Jan. 29, 2020, 134 Stat. 67, 68, consisted of subsecs. (a) to (e) relating to drawback. Subsecs. (b) and (c) had amended sections 81c, 1311 to 1313, and 1562 of this title. Subsecs. (a), (d), and (e) were transferred to section 4534 of this title by Pub. L. 116–113 prior to repeal of section 3333.
 
-Section 3334, Pub. L. 103–182, title II, § 210, Dec. 8, 1993, 107 Stat. 2099, prohibited drawback for television picture tubes.
+Section 3334, Pub. L. 103–182, title II, § 210, Dec. 8, 1993, 107 Stat. 2099, prohibited drawback for television picture tubes.
 
-Section 3335, Pub. L. 103–182, title II, § 211, Dec. 8, 1993, 107 Stat. 2099, related to monitoring of television and picture tube imports and reports on results.
+Section 3335, Pub. L. 103–182, title II, § 211, Dec. 8, 1993, 107 Stat. 2099, related to monitoring of television and picture tube imports and reports on results.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -295,7 +295,7 @@ Repeal effective on the date on which the USMCA entered into force (July 1, 2020
 
 **Effective Date**
 
-Pub. L. 103–182, title II, § 213, Dec. 8, 1993, 107 Stat. 2099, which set out various effective dates for provisions in title II of Pub. L. 103–182, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+Pub. L. 103–182, title II, § 213, Dec. 8, 1993, 107 Stat. 2099, which set out various effective dates for provisions in title II of Pub. L. 103–182, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 ## SUBCHAPTER III—APPLICATION OF AGREEMENT TO SECTORS AND SERVICES
 
@@ -303,23 +303,23 @@ Pub. L. 103–182, title II, § 213, Dec. 8, 1993, 107 Stat. 2099, which set o
 
 #### subpart 1—relief from imports benefiting from agreement
 
-##### §§ 3351 to 3358. Repealed. Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78
+##### §§ 3351 to 3358. Repealed. Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78
 
-Section 3351, Pub. L. 103–182, title III, § 301, Dec. 8, 1993, 107 Stat. 2100, provided definitions for this subpart.
+Section 3351, Pub. L. 103–182, title III, § 301, Dec. 8, 1993, 107 Stat. 2100, provided definitions for this subpart.
 
-Section 3352, Pub. L. 103–182, title III, § 302, Dec. 8, 1993, 107 Stat. 2100, related to commencing of action for relief.
+Section 3352, Pub. L. 103–182, title III, § 302, Dec. 8, 1993, 107 Stat. 2100, related to commencing of action for relief.
 
-Section 3353, Pub. L. 103–182, title III, § 303, Dec. 8, 1993, 107 Stat. 2101, related to required International Trade Commission actions on petitions.
+Section 3353, Pub. L. 103–182, title III, § 303, Dec. 8, 1993, 107 Stat. 2101, related to required International Trade Commission actions on petitions.
 
-Section 3354, Pub. L. 103–182, title III, § 304, Dec. 8, 1993, 107 Stat. 2102, related to provision of relief from certain imports.
+Section 3354, Pub. L. 103–182, title III, § 304, Dec. 8, 1993, 107 Stat. 2102, related to provision of relief from certain imports.
 
-Section 3355, Pub. L. 103–182, title III, § 305, Dec. 8, 1993, 107 Stat. 2103, related to termination of relief authority for certain articles.
+Section 3355, Pub. L. 103–182, title III, § 305, Dec. 8, 1993, 107 Stat. 2103, related to termination of relief authority for certain articles.
 
-Section 3356, Pub. L. 103–182, title III, § 306, Dec. 8, 1993, 107 Stat. 2104, related to compensation authority.
+Section 3356, Pub. L. 103–182, title III, § 306, Dec. 8, 1993, 107 Stat. 2104, related to compensation authority.
 
-Section 3357, Pub. L. 103–182, title III, § 307, Dec. 8, 1993, 107 Stat. 2104, related to submission of petitions to the International Trade Commission.
+Section 3357, Pub. L. 103–182, title III, § 307, Dec. 8, 1993, 107 Stat. 2104, related to submission of petitions to the International Trade Commission.
 
-Section 3358, Pub. L. 103–182, title III, § 309, Dec. 8, 1993, 107 Stat. 2105; Pub. L. 104–295, § 21(b)(4), Oct. 11, 1996, 110 Stat. 3530; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210, related to price-based snapback for frozen concentrated orange juice.
+Section 3358, Pub. L. 103–182, title III, § 309, Dec. 8, 1993, 107 Stat. 2105; Pub. L. 104–295, § 21(b)(4), Oct. 11, 1996, 110 Stat. 3530; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210, related to price-based snapback for frozen concentrated orange juice.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -329,27 +329,27 @@ Repeal effective on the date on which the USMCA entered into force (July 1, 2020
 
 **Effective Date**
 
-Pub. L. 103–182, title III, § 318, Dec. 8, 1993, 107 Stat. 2108, which provided that the provisions of subtitle A of title III of Pub. L. 103–182 would take effect on the date the North American Free Trade Agreement entered into force with respect to the United States, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+Pub. L. 103–182, title III, § 318, Dec. 8, 1993, 107 Stat. 2108, which provided that the provisions of subtitle A of title III of Pub. L. 103–182 would take effect on the date the North American Free Trade Agreement entered into force with respect to the United States, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 #### subpart 2—relief from imports from all countries
 
-##### §§ 3371, 3372. Transferred
+##### §§ 3371, 3372. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section 3371, Pub. L. 103–182, title III, § 311, Dec. 8, 1993, 107 Stat. 2106, which related to NAFTA article impact in import relief cases under the Trade Act of 1974, was renumbered as section 301 of subtitle A of title III of Pub. L. 116–113 by Pub. L. 116–113, title V, § 502(b)(1)–(3), Jan. 29, 2020, 134 Stat. 70, and transferred to section 4551 of this title.
+Section 3371, Pub. L. 103–182, title III, § 311, Dec. 8, 1993, 107 Stat. 2106, which related to NAFTA article impact in import relief cases under the Trade Act of 1974, was renumbered as section 301 of subtitle A of title III of Pub. L. 116–113 by Pub. L. 116–113, title V, § 502(b)(1)–(3), Jan. 29, 2020, 134 Stat. 70, and transferred to section 4551 of this title.
 
-Section 3372, Pub. L. 103–182, title III, § 312, Dec. 8, 1993, 107 Stat. 2107, which related to presidential actions regarding NAFTA imports, was renumbered as section 302 of subtitle A of title III of Pub. L. 116–113 by Pub. L. 116–113, title V, § 502(c)(1)–(3), Jan. 29, 2020, 134 Stat. 70, and transferred to section 4552 of this title.
+Section 3372, Pub. L. 103–182, title III, § 312, Dec. 8, 1993, 107 Stat. 2107, which related to presidential actions regarding NAFTA imports, was renumbered as section 302 of subtitle A of title III of Pub. L. 116–113 by Pub. L. 116–113, title V, § 502(c)(1)–(3), Jan. 29, 2020, 134 Stat. 70, and transferred to section 4552 of this title.
 
 #### subpart 3—general provisions
 
-##### §§ 3381, 3382. Repealed. Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78
+##### §§ 3381, 3382. Repealed. Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78
 
-Section 3381, Pub. L. 103–182, title III, § 316, Dec. 8, 1993, 107 Stat. 2108; Pub. L. 104–295, § 21(b)(3), Oct. 11, 1996, 110 Stat. 3530, related to monitoring of fresh or chilled tomatoes and peppers.
+Section 3381, Pub. L. 103–182, title III, § 316, Dec. 8, 1993, 107 Stat. 2108; Pub. L. 104–295, § 21(b)(3), Oct. 11, 1996, 110 Stat. 3530, related to monitoring of fresh or chilled tomatoes and peppers.
 
-Section 3382, Pub. L. 103–182, title III, § 317(a), Dec. 8, 1993, 107 Stat. 2108, required the International Trade Commission to adopt procedures and rules to bring it into conformity with chapter 8 of NAFTA.
+Section 3382, Pub. L. 103–182, title III, § 317(a), Dec. 8, 1993, 107 Stat. 2108, required the International Trade Commission to adopt procedures and rules to bring it into conformity with chapter 8 of NAFTA.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -359,9 +359,9 @@ Repeal effective on the date on which the USMCA entered into force (July 1, 2020
 
 ### Part B—Agriculture
 
-#### § 3391. Repealed. Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78
+#### § 3391. Repealed. Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78
 
-Section, Pub. L. 103–182, title III, § 321, Dec. 8, 1993, 107 Stat. 2108; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210, related to trade of various agricultural products and assistance for farmworkers affected by NAFTA.
+Section, Pub. L. 103–182, title III, § 321, Dec. 8, 1993, 107 Stat. 2108; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210, related to trade of various agricultural products and assistance for farmworkers affected by NAFTA.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -371,27 +371,27 @@ Repeal effective on the date on which the USMCA entered into force (July 1, 2020
 
 ### Part C—Temporary Entry of Business Persons
 
-#### § 3401. Transferred
+#### § 3401. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 103–182, title III, § 341(a), Dec. 8, 1993, 107 Stat. 2116, which related to nonimmigrant traders and investors, was renumbered as section 311(a) of subtitle B of title III of Pub. L. 116–113 by Pub. L. 116–113, title V, § 503(b)(1)–(3), Jan. 29, 2020, 134 Stat. 71, and transferred to section 4561(a) of this title. After the renumbering and transfer of section 341 of Pub. L. 103–182 to section 311 of Pub. L. 116–113, the subsec. (a) designation of this section was struck out, and subsecs. (b) and (c), which had amended section 1184 of Title 8, Immigration and Nationality, were repealed.
+Section, Pub. L. 103–182, title III, § 341(a), Dec. 8, 1993, 107 Stat. 2116, which related to nonimmigrant traders and investors, was renumbered as section 311(a) of subtitle B of title III of Pub. L. 116–113 by Pub. L. 116–113, title V, § 503(b)(1)–(3), Jan. 29, 2020, 134 Stat. 71, and transferred to section 4561(a) of this title. After the renumbering and transfer of section 341 of Pub. L. 103–182 to section 311 of Pub. L. 116–113, the subsec. (a) designation of this section was struck out, and subsecs. (b) and (c), which had amended section 1184 of Title 8, Immigration and Nationality, were repealed.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 103–182, title III, § 342, Dec. 8, 1993, 107 Stat. 2118, which provided that subtitle D of title III of Pub. L. 103–182 took effect on the date the North American Free Trade Agreement entered into force with respect to the United States, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+Pub. L. 103–182, title III, § 342, Dec. 8, 1993, 107 Stat. 2118, which provided that subtitle D of title III of Pub. L. 103–182 took effect on the date the North American Free Trade Agreement entered into force with respect to the United States, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 ### Part D—Standards
 
 #### subpart 1—standards and measures
 
-##### § 3411. Repealed. Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78
+##### § 3411. Repealed. Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78
 
-Section, Pub. L. 103–182, title III, § 352, Dec. 8, 1993, 107 Stat. 2122, related to effective date of certain transportation regulations.
+Section, Pub. L. 103–182, title III, § 352, Dec. 8, 1993, 107 Stat. 2122, related to effective date of certain transportation regulations.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -401,9 +401,9 @@ Repeal effective on the date on which the USMCA entered into force (July 1, 2020
 
 #### subpart 2—agricultural standards
 
-##### § 3421. Repealed. Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78
+##### § 3421. Repealed. Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78
 
-Section, Pub. L. 103–182, title III, § 361, Dec. 8, 1993, 107 Stat. 2122, set out agricultural standards on peanut butter and peanut paste, established a grant for an animal health biocontainment facility, and required annual reports on inspections of certain imported foods.
+Section, Pub. L. 103–182, title III, § 361, Dec. 8, 1993, 107 Stat. 2122, set out agricultural standards on peanut butter and peanut paste, established a grant for an animal health biocontainment facility, and required annual reports on inspections of certain imported foods.
 
 **Editorial Notes**
 
@@ -421,39 +421,39 @@ Repeal effective on the date on which the USMCA entered into force (July 1, 2020
 
 ### Part A—Organizational, Administrative, and Procedural Provisions Regarding Implementation of Chapter 19 of Agreement
 
-#### §§ 3431 to 3438. Transferred
+#### §§ 3431 to 3438. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section 3431, Pub. L. 103–182, title IV, § 401, Dec. 8, 1993, 107 Stat. 2129, which defined certain references in this part, was renumbered as section 411 of subtitle B of title IV of Pub. L. 116–113 by Pub. L. 116–113, title V, § 504(b)(1), (2), Jan. 29, 2020, 134 Stat. 72, and transferred to section 4581 of this title.
+Section 3431, Pub. L. 103–182, title IV, § 401, Dec. 8, 1993, 107 Stat. 2129, which defined certain references in this part, was renumbered as section 411 of subtitle B of title IV of Pub. L. 116–113 by Pub. L. 116–113, title V, § 504(b)(1), (2), Jan. 29, 2020, 134 Stat. 72, and transferred to section 4581 of this title.
 
-Section 3432, Pub. L. 103–182, title IV, § 402, Dec. 8, 1993, 107 Stat. 2129; Pub. L. 104–295, § 21(c)(1), Oct. 11, 1996, 110 Stat. 3530, which set out organizational and administrative provisions relating to panels and committees, was renumbered as section 412 of subtitle B of title IV of Pub. L. 116–113 by Pub. L. 116–113, title V, § 504(c)(1), (2), Jan. 29, 2020, 134 Stat. 73, and transferred to section 4582 of this title.
+Section 3432, Pub. L. 103–182, title IV, § 402, Dec. 8, 1993, 107 Stat. 2129; Pub. L. 104–295, § 21(c)(1), Oct. 11, 1996, 110 Stat. 3530, which set out organizational and administrative provisions relating to panels and committees, was renumbered as section 412 of subtitle B of title IV of Pub. L. 116–113 by Pub. L. 116–113, title V, § 504(c)(1), (2), Jan. 29, 2020, 134 Stat. 73, and transferred to section 4582 of this title.
 
-Section 3433, Pub. L. 103–182, title IV, § 403, Dec. 8, 1993, 107 Stat. 2136, which related to testimony and production of papers in extraordinary challenges, was renumbered as section 413 of subtitle B of title IV of Pub. L. 116–113 by Pub. L. 116–113, title V, § 504(d)(1), (2), Jan. 29, 2020, 134 Stat. 74, 75, and transferred to section 4583 of this title.
+Section 3433, Pub. L. 103–182, title IV, § 403, Dec. 8, 1993, 107 Stat. 2136, which related to testimony and production of papers in extraordinary challenges, was renumbered as section 413 of subtitle B of title IV of Pub. L. 116–113 by Pub. L. 116–113, title V, § 504(d)(1), (2), Jan. 29, 2020, 134 Stat. 74, 75, and transferred to section 4583 of this title.
 
-Section 3434, Pub. L. 103–182, title IV, § 404, Dec. 8, 1993, 107 Stat. 2137, which related to requests for review of determinations by competent investigating authorities of NAFTA countries, was renumbered as section 414 of subtitle B of title IV of Pub. L. 116–113 by Pub. L. 116–113, title V, § 504(e)(1), (2), Jan. 29, 2020, 134 Stat. 75, and transferred to section 4584 of this title.
+Section 3434, Pub. L. 103–182, title IV, § 404, Dec. 8, 1993, 107 Stat. 2137, which related to requests for review of determinations by competent investigating authorities of NAFTA countries, was renumbered as section 414 of subtitle B of title IV of Pub. L. 116–113 by Pub. L. 116–113, title V, § 504(e)(1), (2), Jan. 29, 2020, 134 Stat. 75, and transferred to section 4584 of this title.
 
-Section 3435, Pub. L. 103–182, title IV, § 405, Dec. 8, 1993, 107 Stat. 2137, which provided for rules of procedure for panels and committees, was renumbered as section 415 of subtitle B of title IV of Pub. L. 116–113 by Pub. L. 116–113, title V, § 504(f)(1), (2), Jan. 29, 2020, 134 Stat. 75, and transferred to section 4585 of this title.
+Section 3435, Pub. L. 103–182, title IV, § 405, Dec. 8, 1993, 107 Stat. 2137, which provided for rules of procedure for panels and committees, was renumbered as section 415 of subtitle B of title IV of Pub. L. 116–113 by Pub. L. 116–113, title V, § 504(f)(1), (2), Jan. 29, 2020, 134 Stat. 75, and transferred to section 4585 of this title.
 
-Section 3436, Pub. L. 103–182, title IV, § 406, Dec. 8, 1993, 107 Stat. 2138, which set out agreement negotiating objectives with respect to subsidies, was renumbered as section 416 of subtitle B of title IV of Pub. L. 116–113 by Pub. L. 116–113, title V, § 504(g)(1), (2), Jan. 29, 2020, 134 Stat. 75, and transferred to section 4586 of this title.
+Section 3436, Pub. L. 103–182, title IV, § 406, Dec. 8, 1993, 107 Stat. 2138, which set out agreement negotiating objectives with respect to subsidies, was renumbered as section 416 of subtitle B of title IV of Pub. L. 116–113 by Pub. L. 116–113, title V, § 504(g)(1), (2), Jan. 29, 2020, 134 Stat. 75, and transferred to section 4586 of this title.
 
-Section 3437, Pub. L. 103–182, title IV, § 407, Dec. 8, 1993, 107 Stat. 2138; Pub. L. 104–295, § 21(c)(2), Oct. 11, 1996, 110 Stat. 3530, which related to identification of industries facing subsidized imports, was renumbered as section 417 of subtitle B of title IV of Pub. L. 116–113 by Pub. L. 116–113, title V, § 504(h)(1), (2), Jan. 29, 2020, 134 Stat. 75, 76, and transferred to section 4587 of this title.
+Section 3437, Pub. L. 103–182, title IV, § 407, Dec. 8, 1993, 107 Stat. 2138; Pub. L. 104–295, § 21(c)(2), Oct. 11, 1996, 110 Stat. 3530, which related to identification of industries facing subsidized imports, was renumbered as section 417 of subtitle B of title IV of Pub. L. 116–113 by Pub. L. 116–113, title V, § 504(h)(1), (2), Jan. 29, 2020, 134 Stat. 75, 76, and transferred to section 4587 of this title.
 
-Section 3438, Pub. L. 103–182, title IV, § 408, Dec. 8, 1993, 107 Stat. 2140, which limited application of amendments to certain antidumping and countervailing duty laws, was renumbered as section 418 of subtitle B of title IV of Pub. L. 116–113 by Pub. L. 116–113, title V, § 504(i)(1), (2), Jan. 29, 2020, 134 Stat. 76, and transferred to section 4588 of this title.
+Section 3438, Pub. L. 103–182, title IV, § 408, Dec. 8, 1993, 107 Stat. 2140, which limited application of amendments to certain antidumping and countervailing duty laws, was renumbered as section 418 of subtitle B of title IV of Pub. L. 116–113 by Pub. L. 116–113, title V, § 504(i)(1), (2), Jan. 29, 2020, 134 Stat. 76, and transferred to section 4588 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 103–182, title IV, § 416, Dec. 8, 1993, 107 Stat. 2148, which provided that title IV of Pub. L. 103–182 took effect on the date the Agreement entered into force with respect to the United States but was not applicable to certain determinations or binational panel reviews, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+Pub. L. 103–182, title IV, § 416, Dec. 8, 1993, 107 Stat. 2148, which provided that title IV of Pub. L. 103–182 took effect on the date the Agreement entered into force with respect to the United States but was not applicable to certain determinations or binational panel reviews, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 ### Part B—General Provisions
 
-#### § 3451. Repealed. Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78
+#### § 3451. Repealed. Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78
 
-Section, Pub. L. 103–182, title IV, § 415, Dec. 8, 1993, 107 Stat. 2148; Pub. L. 104–295, § 21(c)(4), Oct. 11, 1996, 110 Stat. 3530, set out effects of termination of NAFTA country status and transition provisions.
+Section, Pub. L. 103–182, title IV, § 415, Dec. 8, 1993, 107 Stat. 2148; Pub. L. 104–295, § 21(c)(4), Oct. 11, 1996, 110 Stat. 3530, set out effects of termination of NAFTA country status and transition provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -465,13 +465,13 @@ Repeal effective on the date on which the USMCA entered into force (July 1, 2020
 
 ### Part A—Provisions Relating to Performance Under Agreement
 
-#### §§ 3461 to 3463. Repealed. Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78
+#### §§ 3461 to 3463. Repealed. Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78
 
-Section 3461, Pub. L. 103–182, title V, § 511, Dec. 8, 1993, 107 Stat. 2154, expressed the sense of Congress regarding discriminatory taxes.
+Section 3461, Pub. L. 103–182, title V, § 511, Dec. 8, 1993, 107 Stat. 2154, expressed the sense of Congress regarding discriminatory taxes.
 
-Section 3462, Pub. L. 103–182, title V, § 512, Dec. 8, 1993, 107 Stat. 2155, required the President to provide to Congress a comprehensive study on the operation and effects of NAFTA.
+Section 3462, Pub. L. 103–182, title V, § 512, Dec. 8, 1993, 107 Stat. 2155, required the President to provide to Congress a comprehensive study on the operation and effects of NAFTA.
 
-Section 3463, Pub. L. 103–182, title V, § 514, Dec. 8, 1993, 107 Stat. 2157, required reports on the impact of NAFTA on motor vehicle exports to Mexico.
+Section 3463, Pub. L. 103–182, title V, § 514, Dec. 8, 1993, 107 Stat. 2157, required reports on the impact of NAFTA on motor vehicle exports to Mexico.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -481,13 +481,13 @@ Repeal effective on the date on which the USMCA entered into force (July 1, 2020
 
 **Effective Date**
 
-Pub. L. 103–182, title V, § 516, Dec. 8, 1993, 107 Stat. 2160, which provided that subtitle B of title V of Pub. L. 103–182, except for section 515, took effect on the date the North American Free Trade Agreement entered into force with respect to the United States (Jan. 1, 1994), was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+Pub. L. 103–182, title V, § 516, Dec. 8, 1993, 107 Stat. 2160, which provided that subtitle B of title V of Pub. L. 103–182, except for section 515, took effect on the date the North American Free Trade Agreement entered into force with respect to the United States (Jan. 1, 1994), was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 ### Part B—Implementation of NAFTA Supplemental Agreements
 
-#### § 3471. Repealed. Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78
+#### § 3471. Repealed. Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78
 
-Section, Pub. L. 103–182, title V, § 531, Dec. 8, 1993, 107 Stat. 2163, authorized the United States to participate in the Commission for Labor Cooperation.
+Section, Pub. L. 103–182, title V, § 531, Dec. 8, 1993, 107 Stat. 2163, authorized the United States to participate in the Commission for Labor Cooperation.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -495,7 +495,7 @@ Section, Pub. L. 103–182, title V, § 531, Dec. 8, 1993, 107 Stat. 2163, aut
 
 Repeal effective on the date on which the USMCA entered into force (July 1, 2020), see section 601 of Pub. L. 116–113, set out as a note under former section 3301 of this title.
 
-#### § 3472. Agreement on Environmental Cooperation
+#### § 3472. Agreement on Environmental Cooperation
 
 **(a) Commission for Environmental Cooperation**
 
@@ -513,15 +513,15 @@ There are authorized to be appropriated to the President (or such agency as the 
 
 **(2)** the term “North American Agreement on Environmental Cooperation” means the North American Agreement on Environmental Cooperation Between the Government of the United States of America, the Government of Canada, and the Government of the United Mexican States (signed at Mexico City, Washington, and Ottawa on September 8, 9, 12, and 14, 1993).
 
-(Pub. L. 103–182, title V, § 532, Dec. 8, 1993, 107 Stat. 2164; Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78; Pub. L. 116–260, div. O, title VI, § 601(a)(1), (2), Dec. 27, 2020, 134 Stat. 2149.)
+(Pub. L. 103–182, title V, § 532, Dec. 8, 1993, 107 Stat. 2164; Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78; Pub. L. 116–260, div. O, title VI, § 601(a)(1), (2), Dec. 27, 2020, 134 Stat. 2149.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2020—Pub. L. 116–260, § 601(a)(1), (2), provided that section 601 of Pub. L. 116–113 does not apply to this section and revived the provisions of this section as if such section 601 had not been enacted. See below.
+2020—Pub. L. 116–260, § 601(a)(1), (2), provided that section 601 of Pub. L. 116–113 does not apply to this section and revived the provisions of this section as if such section 601 had not been enacted. See below.
 
-Pub. L. 116–113, § 601, which repealed this section effective on the date the USMCA entered into force (July 1, 2020), was made inapplicable to this section by section 601(a)(1), (2) of Pub. L. 116–260.
+Pub. L. 116–113, § 601, which repealed this section effective on the date the USMCA entered into force (July 1, 2020), was made inapplicable to this section by section 601(a)(1), (2) of Pub. L. 116–260.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -531,7 +531,7 @@ Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div
 
 **Technical Corrections to the United States-Mexico-Canada Agreement Implementation Act: Environment Cooperation Commissions and North American Development Bank**
 
-Pub. L. 116–260, div. O, title VI, § 601(a)(1), (2), Dec. 27, 2020, 134 Stat. 2149, provided that:
+Pub. L. 116–260, div. O, title VI, § 601(a)(1), (2), Dec. 27, 2020, 134 Stat. 2149, provided that:
 
 > **“(1) In general.—** Section 601 of the United States-Mexico-Canada Agreement Implementation Act (Public Law 116–113; 134 Stat. 78) [19 U.S.C. 3301 note] shall not apply to the provisions specified in paragraph (2) and such provisions shall be restored and revived as if such section had not been enacted.
 
@@ -637,7 +637,7 @@ Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30,
 
 Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
-#### § 3473. Agreement on Border Environment Cooperation Commission
+#### § 3473. Agreement on Border Environment Cooperation Commission
 
 **(a) Border Environment Cooperation Commission**
 
@@ -661,15 +661,15 @@ For the purpose of any civil action which may be brought within the United State
 
 **(3)** the term “United States” means the United States, its territories and possessions, and the Commonwealth of Puerto Rico.
 
-(Pub. L. 103–182, title V, § 533, Dec. 8, 1993, 107 Stat. 2164; Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78; Pub. L. 116–260, div. O, title VI, § 601(a)(1), (2), Dec. 27, 2020, 134 Stat. 2149.)
+(Pub. L. 103–182, title V, § 533, Dec. 8, 1993, 107 Stat. 2164; Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78; Pub. L. 116–260, div. O, title VI, § 601(a)(1), (2), Dec. 27, 2020, 134 Stat. 2149.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2020—Pub. L. 116–260, § 601(a)(1), (2), provided that section 601 of Pub. L. 116–113 does not apply to this section and revived the provisions of this section as if such section 601 had not been enacted. See below.
+2020—Pub. L. 116–260, § 601(a)(1), (2), provided that section 601 of Pub. L. 116–113 does not apply to this section and revived the provisions of this section as if such section 601 had not been enacted. See below.
 
-Pub. L. 116–113, § 601, which repealed this section effective on the date the USMCA entered into force (July 1, 2020), was made inapplicable to this section by section 601(a)(1), (2) of Pub. L. 116–260.
+Pub. L. 116–113, § 601, which repealed this section effective on the date the USMCA entered into force (July 1, 2020), was made inapplicable to this section by section 601(a)(1), (2) of Pub. L. 116–260.
 
 **Statutory Notes and Related Subsidiaries**
 

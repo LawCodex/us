@@ -15,27 +15,27 @@ retrieved: 2026-10-11
 
 # CHAPTER 106—CHAMPIONING AMERICAN BUSINESS THROUGH DIPLOMACY
 
-## § 9901. Findings
+## § 9901. Findings
 
 Congress makes the following findings:
 
 **(1)** According to the 2017 National Security Strategy of the United States of America, “Retaining our position as the world’s preeminent economic actor strengthens our ability to use the tools of economic diplomacy for the good of Americans and others.”.
 
-**(2)** A November 7, 2018, cable from Secretary of State Michael R. Pompeo to all diplomatic and consular posts—“Boosting Commercial Diplomacy Around the World”—stated that “helping American companies is a foreign policy priority. . .Promoting broad-based, responsible, and sustainable economic growth helps to stabilize regions and creates new and growing markets for U.S. companies. A transparent and level playing field for U.S. investment in these countries counters real and growing challenges such as China’s Belt and Road initiative.”.
+**(2)** A November 7, 2018, cable from Secretary of State Michael R. Pompeo to all diplomatic and consular posts—“Boosting Commercial Diplomacy Around the World”—stated that “helping American companies is a foreign policy priority. . .Promoting broad-based, responsible, and sustainable economic growth helps to stabilize regions and creates new and growing markets for U.S. companies. A transparent and level playing field for U.S. investment in these countries counters real and growing challenges such as China’s Belt and Road initiative.”.
 
-**(3)** In the January–February 2019 issue of The Foreign Service Journal, Ambassador Barbara Stephenson, the President of the American Foreign Service Association, wrote, “Foreign Service support for American business. . .is a major reason why the U.S. Foreign Service was created.”.
+**(3)** In the January–February 2019 issue of The Foreign Service Journal, Ambassador Barbara Stephenson, the President of the American Foreign Service Association, wrote, “Foreign Service support for American business. . .is a major reason why the U.S. Foreign Service was created.”.
 
-(Pub. L. 116–94, div. J, title VII, § 702, Dec. 20, 2019, 133 Stat. 3069.)
+(Pub. L. 116–94, div. J, title VII, § 702, Dec. 20, 2019, 133 Stat. 3069.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 116–94, div. J, title VII, § 701, Dec. 20, 2019, 133 Stat. 3069, provided that: “This title [enacting this chapter and amending sections 2651a, 3927, and 4028 of this title] may be cited as the ‘Championing American Business Through Diplomacy Act of 2019’.”
+Pub. L. 116–94, div. J, title VII, § 701, Dec. 20, 2019, 133 Stat. 3069, provided that: “This title [enacting this chapter and amending sections 2651a, 3927, and 4028 of this title] may be cited as the ‘Championing American Business Through Diplomacy Act of 2019’.”
 
 **Direction to Embassy Deal Teams**
 
-Pub. L. 118–31, div. F, title LXV, § 6503, Dec. 22, 2023, 137 Stat. 1007, provided that:
+Pub. L. 118–31, div. F, title LXV, § 6503, Dec. 22, 2023, 137 Stat. 1007, provided that:
 
 > **“(a) Purposes.—** The purposes of deal teams at United States embassies and consulates are—
 
@@ -127,7 +127,7 @@ Pub. L. 118–31, div. F, title LXV, § 6503, Dec. 22, 2023, 137 Stat. 1007, p
 
 **Establishment of a “Deal Team of the Year” Award**
 
-Pub. L. 118–31, div. F, title LXV, § 6504, Dec. 22, 2023, 137 Stat. 1009, provided that:
+Pub. L. 118–31, div. F, title LXV, § 6504, Dec. 22, 2023, 137 Stat. 1009, provided that:
 
 > **“(a) Establishment.—** The Secretary [of State] shall establish a new award, to be known as the ‘Deal Team of the Year Award’, and annually present the award to a deal team at one United States mission in each region to recognize outstanding achievements in supporting a United States company or companies pursuing commercial deals abroad or in identifying new deal prospects for United States companies.
 
@@ -151,7 +151,7 @@ Pub. L. 118–31, div. F, title LXV, § 6504, Dec. 22, 2023, 137 Stat. 1009, p
 
 > **“(3)** a detailed description of the reason such deal teams received such award.”
 
-## § 9902. Report from each mission on matters of commercial relations
+## § 9902. Report from each mission on matters of commercial relations
 
 **(a) In general** Not later than 1 year after December 20, 2019, and annually thereafter, the chief of mission at each bilateral diplomatic mission of the United States and the Director of the American Institute in Taiwan shall submit to the Secretary of State mission plans that include the following:
 
@@ -163,9 +163,9 @@ Pub. L. 118–31, div. F, title LXV, § 6504, Dec. 22, 2023, 137 Stat. 1009, p
 
 The Secretary of State, after receiving the information required under subsection (a), shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report, disaggregated by country or region, on activities and initiatives, including with appropriate examples, to create an enabling environment and otherwise promote United States economic and business interests in each such country or region, as well as information about significant foreign competition to United States businesses in the relevant country or region, including state-directed investments by foreign governments and United States strategic competitors in such country or region.
 
-(Pub. L. 116–94, div. J, title VII, § 706, Dec. 20, 2019, 133 Stat. 3071.)
+(Pub. L. 116–94, div. J, title VII, § 706, Dec. 20, 2019, 133 Stat. 3071.)
 
-## § 9903. Consolidated report on unified investment climate statement and country commercial guide
+## § 9903. Consolidated report on unified investment climate statement and country commercial guide
 
 **(a) In general**
 
@@ -225,9 +225,9 @@ The Secretary of State and the Secretary of Commerce shall jointly produce and m
 
 Nothing in this section may be construed to require the duplication of existing reports.
 
-(Pub. L. 116–94, div. J, title VII, § 707, Dec. 20, 2019, 133 Stat. 3071.)
+(Pub. L. 116–94, div. J, title VII, § 707, Dec. 20, 2019, 133 Stat. 3071.)
 
-## § 9904. Whole-of-government coordination and consultation to support United States economic and business interests
+## § 9904. Whole-of-government coordination and consultation to support United States economic and business interests
 
 **(a) In general**
 
@@ -283,7 +283,7 @@ The trade expansion advisory committee shall convene at least twice annually or 
 
 **(C)** in advancing the overall mission and goals of United States national security.
 
-(Pub. L. 116–94, div. J, title VII, § 708, Dec. 20, 2019, 133 Stat. 3072.)
+(Pub. L. 116–94, div. J, title VII, § 708, Dec. 20, 2019, 133 Stat. 3072.)
 
 **Editorial Notes**
 
@@ -309,7 +309,7 @@ The Secretary of State is authorized and directed to publish this memorandum in 
 
 J.R. Biden, Jr.
 
-## § 9905. Private sector consultation and coordination
+## § 9905. Private sector consultation and coordination
 
 **(a) Consultation with private sector by embassy**
 
@@ -333,7 +333,7 @@ The Secretary of State, Secretary of Commerce, and United States Trade Represent
 
 Proprietary information submitted by a private party in accordance with this chapter shall be considered to be a matter falling within the meaning of trade secrets and commercial or financial information exemption under section 552(b)(4) of title 5 and shall be exempt from disclosure without the express approval of the private party.
 
-(Pub. L. 116–94, div. J, title VII, § 709, Dec. 20, 2019, 133 Stat. 3074.)
+(Pub. L. 116–94, div. J, title VII, § 709, Dec. 20, 2019, 133 Stat. 3074.)
 
 **Editorial Notes**
 
@@ -341,8 +341,8 @@ Proprietary information submitted by a private party in accordance with this cha
 
 This chapter, referred to in subsec. (d)(2), was in the original “this Act” and was translated as reading “this title”, meaning title VII of div. J of Pub. L. 116–94, Dec. 20, 2019, 133 Stat. 3069, known as the Championing American Business Through Diplomacy Act of 2019, to reflect the probable intent of Congress, notwithstanding section 3 of Pub. L. 116–94, set out as a note under section 1 of Title 1, General Provisions. Title VII is classified principally to this chapter. For complete classification of title VII to the Code, see Short Title note set out under section 9901 of this title and Tables.
 
-## § 9906. Improving awareness of United States Government tools and services to support United States businesses overseas
+## § 9906. Improving awareness of United States Government tools and services to support United States businesses overseas
 
 The Secretary of State and the Secretary of Commerce shall take actions to improve the awareness of United States businesses with respect to United States Government tools and services to assist such businesses overseas, especially small and medium-sized enterprises, including by coordinating with State trade agencies, Export Assistance Centers, and Small Businesses Development Centers.
 
-(Pub. L. 116–94, div. J, title VII, § 710, Dec. 20, 2019, 133 Stat. 3075.)
+(Pub. L. 116–94, div. J, title VII, § 710, Dec. 20, 2019, 133 Stat. 3075.)

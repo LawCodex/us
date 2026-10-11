@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—CONTROL OF TOXIC SUBSTANCES
 
-### § 2601. Findings, policy, and intent
+### § 2601. Findings, policy, and intent
 
 **(a) Findings** The Congress finds that—
 
@@ -39,49 +39,49 @@ retrieved: 2026-10-11
 
 It is the intent of Congress that the Administrator shall carry out this chapter in a reasonable and prudent manner, and that the Administrator shall consider the environmental, economic, and social impact of any action the Administrator takes or proposes as provided under this chapter.
 
-(Pub. L. 94–469, title I, § 2, Oct. 11, 1976, 90 Stat. 2003; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §§ 2, 19(b), June 22, 2016, 130 Stat. 448, 505.)
+(Pub. L. 94–469, title I, § 2, Oct. 11, 1976, 90 Stat. 2003; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §§ 2, 19(b), June 22, 2016, 130 Stat. 448, 505.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Subsec. (b)(1). Pub. L. 114–182, § 19(b), substituted “information” for “data” in two places.
+2016—Subsec. (b)(1). Pub. L. 114–182, § 19(b), substituted “information” for “data” in two places.
 
-Subsec. (c). Pub. L. 114–182, § 2, substituted “proposes as provided” for “proposes to take”.
+Subsec. (c). Pub. L. 114–182, § 2, substituted “proposes as provided” for “proposes to take”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 94–469, title I, § 31, Oct. 11, 1976, 90 Stat. 2051; renumbered title I, Pub. L. 99–519, § 3(c), Oct. 22, 1986, 100 Stat. 2989, provided that: “Except as provided in section 4(f) [section 2603(f) of this title], this Act [enacting this chapter] shall take effect on January 1, 1977.”
+Pub. L. 94–469, title I, § 31, Oct. 11, 1976, 90 Stat. 2051; renumbered title I, Pub. L. 99–519, § 3(c), Oct. 22, 1986, 100 Stat. 2989, provided that: “Except as provided in section 4(f) [section 2603(f) of this title], this Act [enacting this chapter] shall take effect on January 1, 1977.”
 
 **Short Title of 2016 Amendment**
 
-Pub. L. 114–182, § 1(a), June 22, 2016, 130 Stat. 448, provided that: “This Act [enacting section 280g–17 of Title 42, The Public Health and Welfare, amending this section, sections 2602 to 2611, 2613 to 2615, 2617 to 2620, 2623, 2625 to 2627, and 2629 of this title, section 6939f of Title 42, and section 254 of Title 47, Telecommunications, repealing section 2624 of this title, and enacting provisions set out as notes under this section, section 280g–17 of Title 42, and sections 254 and 609 of Title 47] may be cited as the ‘Frank R. Lautenberg Chemical Safety for the 21st Century Act’.”
+Pub. L. 114–182, § 1(a), June 22, 2016, 130 Stat. 448, provided that: “This Act [enacting section 280g–17 of Title 42, The Public Health and Welfare, amending this section, sections 2602 to 2611, 2613 to 2615, 2617 to 2620, 2623, 2625 to 2627, and 2629 of this title, section 6939f of Title 42, and section 254 of Title 47, Telecommunications, repealing section 2624 of this title, and enacting provisions set out as notes under this section, section 280g–17 of Title 42, and sections 254 and 609 of Title 47] may be cited as the ‘Frank R. Lautenberg Chemical Safety for the 21st Century Act’.”
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–199, § 1, July 7, 2010, 124 Stat. 1359, provided that: “This Act [enacting subchapter VI of this chapter and provisions set out as a note under section 2697 of this title] may be cited as the ‘Formaldehyde Standards for Composite Wood Products Act’.”
+Pub. L. 111–199, § 1, July 7, 2010, 124 Stat. 1359, provided that: “This Act [enacting subchapter VI of this chapter and provisions set out as a note under section 2697 of this title] may be cited as the ‘Formaldehyde Standards for Composite Wood Products Act’.”
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–414, § 1, Oct. 14, 2008, 122 Stat. 4341, provided that: “This Act [enacting section 6939f of Title 42, The Public Health and Welfare, amending sections 2605 and 2611 of this title, and enacting provisions set out as a note under section 2611 of this title] may be cited as the ‘Mercury Export Ban Act of 2008’.”
+Pub. L. 110–414, § 1, Oct. 14, 2008, 122 Stat. 4341, provided that: “This Act [enacting section 6939f of Title 42, The Public Health and Welfare, amending sections 2605 and 2611 of this title, and enacting provisions set out as a note under section 2611 of this title] may be cited as the ‘Mercury Export Ban Act of 2008’.”
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–550, title X, § 1021(c), Oct. 28, 1992, 106 Stat. 3924, provided that: “This subtitle [subtitle B (§ 1021) of title X of Pub. L. 102–550, enacting sections 2681 to 2692 of this title and amending sections 2606, 2610, 2612, 2615, 2616, 2618, and 2619 of this title] may be cited as the ‘Lead-Based Paint Exposure Reduction Act’.”
+Pub. L. 102–550, title X, § 1021(c), Oct. 28, 1992, 106 Stat. 3924, provided that: “This subtitle [subtitle B (§ 1021) of title X of Pub. L. 102–550, enacting sections 2681 to 2692 of this title and amending sections 2606, 2610, 2612, 2615, 2616, 2618, and 2619 of this title] may be cited as the ‘Lead-Based Paint Exposure Reduction Act’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–519, § 1, Oct. 22, 1986, 100 Stat. 2970, provided that: “This Act [enacting sections 2641 to 2654 of this title and section 4022 of Title 20, Education, amending sections 2614, 2618, and 2619 of this title and sections 4014 and 4021 of Title 20, and enacting provisions set out as a note under section 4014 of Title 20] may be cited as the ‘Asbestos Hazard Emergency Response Act of 1986’.”
+Pub. L. 99–519, § 1, Oct. 22, 1986, 100 Stat. 2970, provided that: “This Act [enacting sections 2641 to 2654 of this title and section 4022 of Title 20, Education, amending sections 2614, 2618, and 2619 of this title and sections 4014 and 4021 of Title 20, and enacting provisions set out as a note under section 4014 of Title 20] may be cited as the ‘Asbestos Hazard Emergency Response Act of 1986’.”
 
 **Short Title**
 
-Pub. L. 94–469, § 1, Oct. 11, 1976, 90 Stat. 2003; renumbered title I, Pub. L. 99–519, § 3(c), Oct. 22, 1986, 100 Stat. 2989, provided that: “This Act [enacting this chapter and provisions set out as notes under this section] may be cited as the ‘Toxic Substances Control Act’.”
+Pub. L. 94–469, § 1, Oct. 11, 1976, 90 Stat. 2003; renumbered title I, Pub. L. 99–519, § 3(c), Oct. 22, 1986, 100 Stat. 2989, provided that: “This Act [enacting this chapter and provisions set out as notes under this section] may be cited as the ‘Toxic Substances Control Act’.”
 
 **Modification of Definition of Sport Fishing Equipment Under Toxic Substances Control Act**
 
-Pub. L. 116–188, title I, § 108, Oct. 30, 2020, 134 Stat. 920, as amended by Pub. L. 118–198, title I, § 107, Dec. 23, 2024, 138 Stat. 2680, provided that:
+Pub. L. 116–188, title I, § 108, Oct. 30, 2020, 134 Stat. 920, as amended by Pub. L. 118–198, title I, § 107, Dec. 23, 2024, 138 Stat. 2680, provided that:
 
 > **“(a) Prohibition.—** During the period beginning on the date of enactment of the America’s Conservation Enhancement Reauthorization Act of 2024 [Dec. 23, 2024] and ending on September 30, 2030, the Administrator of the Environmental Protection Agency shall not take any action to regulate the lead content of sport fishing equipment or sport fishing equipment components under the Toxic Substances Control Act (15 U.S.C. 2601 et seq.).
 
@@ -89,7 +89,7 @@ Pub. L. 116–188, title I, § 108, Oct. 30, 2020, 134 Stat. 920, as amended b
 
 **No Retroactivity of Pub. L. 114–182 Amendments**
 
-Pub. L. 114–182, title I, § 20, June 22, 2016, 130 Stat. 510, provided that: “Nothing in sections 1 through 19 [amending this section, sections 2602 to 2611, 2613 to 2615, 2617 to 2620, 2623, 2625 to 2627, and 2629 of this title, and section 6939f of Title 42, The Public Health and Welfare, repealing section 2624 of this title, and enacting provisions set out as a note under this section], or the amendments made by sections 1 through 19, shall be interpreted to apply retroactively to any State, Federal, or maritime legal action filed before the date of enactment of this Act [June 22, 2016].”
+Pub. L. 114–182, title I, § 20, June 22, 2016, 130 Stat. 510, provided that: “Nothing in sections 1 through 19 [amending this section, sections 2602 to 2611, 2613 to 2615, 2617 to 2620, 2623, 2625 to 2627, and 2629 of this title, and section 6939f of Title 42, The Public Health and Welfare, repealing section 2624 of this title, and enacting provisions set out as a note under this section], or the amendments made by sections 1 through 19, shall be interpreted to apply retroactively to any State, Federal, or maritime legal action filed before the date of enactment of this Act [June 22, 2016].”
 
 **Executive Documents**
 
@@ -97,13 +97,13 @@ Pub. L. 114–182, title I, § 20, June 22, 2016, 130 Stat. 510, provided that
 
 For provisions relating to the responsibility of the head of each Executive agency for compliance with applicable pollution control standards, see Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
 
-### § 2602. Definitions
+### § 2602. Definitions
 
 As used in this chapter:
 
-**(1)** the 1
+**(1)** the 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 term “Administrator” means the Administrator of the Environmental Protection Agency.
 
@@ -171,9 +171,9 @@ for which information for a chemical substance or mixture are to be developed an
 
 **(B)** to the extent necessary to assure that information respecting such effects and characteristics are reliable and adequate—
 
-**(i)** the manner in which such information are 2
+**(i)** the manner in which such information are 2
 
-<sup>2</sup>  So in original. Probably should be “is”.
+<sup>2</sup> So in original. Probably should be “is”.
 
 to be developed,
 
@@ -185,15 +185,15 @@ to be developed,
 
 **(17)** The term “United States”, when used in the geographic sense, means all of the States.
 
-(Pub. L. 94–469, title I, § 3, Oct. 11, 1976, 90 Stat. 2004; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 100–418, title I, § 1214(e)(1), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 114–92, div. A, title III, § 315, Nov. 25, 2015, 129 Stat. 791; Pub. L. 114–182, title I, §§ 3, 19(c), June 22, 2016, 130 Stat. 448, 505.)
+(Pub. L. 94–469, title I, § 3, Oct. 11, 1976, 90 Stat. 2004; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 100–418, title I, § 1214(e)(1), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 114–92, div. A, title III, § 315, Nov. 25, 2015, 129 Stat. 791; Pub. L. 114–182, title I, §§ 3, 19(c), June 22, 2016, 130 Stat. 448, 505.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (2)(B)(ii), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (2)(B)(ii), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
-The Atomic Energy Act of 1954, referred to in par. (2)(B)(iv), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, and amended, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, referred to in par. (2)(B)(iv), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, and amended, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 The Harmonized Tariff Schedule of the United States, referred to in par. (9), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
@@ -201,27 +201,27 @@ For definition of Canal Zone, Governor of the Canal Zone, and Panama Canal Compa
 
 **Amendments**
 
-2016—Pars. (4) to (7). Pub. L. 114–182, § 3(1)–(3), added pars. (4) and (7) and redesignated former pars. (4) and (5) as (5) and (6), respectively. Former pars. (6) and (7) redesignated (8) and (9), respectively.
+2016—Pars. (4) to (7). Pub. L. 114–182, § 3(1)–(3), added pars. (4) and (7) and redesignated former pars. (4) and (5) as (5) and (6), respectively. Former pars. (6) and (7) redesignated (8) and (9), respectively.
 
-Par. (8). Pub. L. 114–182, § 19(c)(1), substituted “information” for “data”.
+Par. (8). Pub. L. 114–182, § 19(c)(1), substituted “information” for “data”.
 
-Pub. L. 114–182, § 3(1), redesignated par. (6) as (8). Former par. (8) redesignated (10).
+Pub. L. 114–182, § 3(1), redesignated par. (6) as (8). Former par. (8) redesignated (10).
 
-Pars. (9) to (14). Pub. L. 114–182, § 3(1), (4), added par. (12) and redesignated former pars. (7) to (11) as (9), (10), (11), (13), and (14), respectively. Former pars. (12) to (14) redesignated (15) to (17), respectively.
+Pars. (9) to (14). Pub. L. 114–182, § 3(1), (4), added par. (12) and redesignated former pars. (7) to (11) as (9), (10), (11), (13), and (14), respectively. Former pars. (12) to (14) redesignated (15) to (17), respectively.
 
-Par. (15). Pub. L. 114–182, § 19(c)(2)(A), (B), in introductory provisions, substituted “protocols and methodologies for the development of information” for “standards for the development of test data”.
+Par. (15). Pub. L. 114–182, § 19(c)(2)(A), (B), in introductory provisions, substituted “protocols and methodologies for the development of information” for “standards for the development of test data”.
 
-Pub. L. 114–182, § 3(1), redesignated par. (12) as (15).
+Pub. L. 114–182, § 3(1), redesignated par. (12) as (15).
 
-Par. (15)(A). Pub. L. 114–182, § 19(c)(2)(C), substituted “on such information” for “on such data” in concluding provisions.
+Par. (15)(A). Pub. L. 114–182, § 19(c)(2)(C), substituted “on such information” for “on such data” in concluding provisions.
 
-Pub. L. 114–182, § 19(c)(2)(B), substituted “for which information” for “for which test data” in concluding provisions.
+Pub. L. 114–182, § 19(c)(2)(B), substituted “for which information” for “for which test data” in concluding provisions.
 
-Par. (15)(B). Pub. L. 114–182, § 19(c)(2)(C), substituted “information” for “data” wherever appearing.
+Par. (15)(B). Pub. L. 114–182, § 19(c)(2)(C), substituted “information” for “data” wherever appearing.
 
-Pars. (16), (17). Pub. L. 114–182, § 3(1), redesignated pars. (13) and (14) as (16) and (17), respectively.
+Pars. (16), (17). Pub. L. 114–182, § 3(1), redesignated pars. (13) and (14) as (16) and (17), respectively.
 
-2015—Par. (2)(B)(v). Pub. L. 114–92 substituted “and any component of such an article (limited to shot shells, cartridges, and components of shot shells and cartridges), and” for “, and”.
+2015—Par. (2)(B)(v). Pub. L. 114–92 substituted “and any component of such an article (limited to shot shells, cartridges, and components of shot shells and cartridges), and” for “, and”.
 
 1988—Par. (7). Pub. L. 100–418 substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 of the Tariff Schedules of the United States”.
 
@@ -237,7 +237,7 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 
 Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
 
-### § 2603. Testing of chemical substances and mixtures
+### § 2603. Testing of chemical substances and mixtures
 
 **(a) Testing requirements**
 
@@ -395,9 +395,9 @@ Upon the receipt of any information pursuant to a rule, order, or consent agreem
 
 The recommendations of the committee shall be in the form of a list of chemical substances and mixtures which shall be set forth, either by individual substance or mixture or by groups of substances or mixtures, in the order in which the committee determines the Administrator should take action under subsection (a) with respect to the substances and mixtures. In establishing such list, the committee shall give priority attention to those chemical substances and mixtures which are known to cause or contribute to or which are suspected of causing or contributing to cancer, gene mutations, or birth defects. The committee shall designate chemical substances and mixtures on the list with respect to which the committee determines the Administrator should, within 12 months of the date on which such substances and mixtures are first designated, initiate a proceeding under subsection (a). The total number of chemical substances and mixtures on the list which are designated under the preceding sentence may not, at any time, exceed 50.
 
-**(B)** As soon as practicable but not later than nine months after January 1, 1977, the committee shall publish in the Federal Register and transmit to the Administrator the list and designations required by subparagraph (A) together with the reasons for the committee’s inclusion of each chemical substance or mixture on the list. At least every six months after the date of the transmission to the Administrator of the list pursuant to the preceeding 1
+**(B)** As soon as practicable but not later than nine months after January 1, 1977, the committee shall publish in the Federal Register and transmit to the Administrator the list and designations required by subparagraph (A) together with the reasons for the committee’s inclusion of each chemical substance or mixture on the list. At least every six months after the date of the transmission to the Administrator of the list pursuant to the preceeding 1
 
-<sup>1</sup>  So in original. Probably should be “preceding”.
+<sup>1</sup> So in original. Probably should be “preceding”.
 
 sentence, the committee shall make such revisions in the list as it determines to be necessary and shall transmit them to the Administrator together with the committee’s reasons for the revisions. Upon receipt of any such revision, the Administrator shall publish in the Federal Register the list with such revision, the reasons for such revision, and the designations made under subparagraph (A). The Administrator shall provide reasonable opportunity to any interested person to file with the Administrator written comments on the committee’s list, any revision of such list by the committee, and designations made by the committee, and shall make such comments available to the public. Within the 12-month period beginning on the date of the first inclusion on the list of a chemical substance or mixture designated by the committee under subparagraph (A) the Administrator shall with respect to such chemical substance or mixture issue an order, enter into a consent agreement, or initiate a rulemaking proceeding under subsection (a), or, if such an order or consent agreement is not issued or such a proceeding is not initiated within such period, publish in the Federal Register the Administrator’s reason for not issuing such an order, entering into such a consent agreement, or initiating such a proceeding.
 
@@ -523,137 +523,137 @@ A violation of this paragraph shall not be a prohibited act under section 2614 o
 
 This paragraph authorizes, but does not require, the Administrator to review the means by which a person conducted testing described in subparagraph (A).
 
-(Pub. L. 94–469, title I, § 4, Oct. 11, 1976, 90 Stat. 2006; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §§ 4, 19(d), June 22, 2016, 130 Stat. 449, 505.)
+(Pub. L. 94–469, title I, § 4, Oct. 11, 1976, 90 Stat. 2006; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §§ 4, 19(d), June 22, 2016, 130 Stat. 449, 505.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Occupational Safety and Health Act of 1970, referred to in text, is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in text, is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 **Amendments**
 
-2016—Subsec. (a)(1). Pub. L. 114–182, § 4(2)(B)(x), in concluding provisions, inserted “, or, in the case of a chemical substance or mixture described in subparagraph (A)(i), by rule, order, or consent agreement,” after “shall by rule”, substituted “information” for “data” in two places, and substituted “and which is relevant” for “and which are relevant”.
+2016—Subsec. (a)(1). Pub. L. 114–182, § 4(2)(B)(x), in concluding provisions, inserted “, or, in the case of a chemical substance or mixture described in subparagraph (A)(i), by rule, order, or consent agreement,” after “shall by rule”, substituted “information” for “data” in two places, and substituted “and which is relevant” for “and which are relevant”.
 
-Pub. L. 114–182, § 4(2)(B)(v), substituted “such information” for “such data” in two places.
+Pub. L. 114–182, § 4(2)(B)(v), substituted “such information” for “such data” in two places.
 
-Pub. L. 114–182, § 4(2)(B)(iii), substituted “there is insufficient information” for “there are insufficient data” in two places.
+Pub. L. 114–182, § 4(2)(B)(iii), substituted “there is insufficient information” for “there are insufficient data” in two places.
 
-Pub. L. 114–182, § 4(2)(A), substituted “(1) If the Administrator finds” for “If the Administrator finds”.
+Pub. L. 114–182, § 4(2)(A), substituted “(1) If the Administrator finds” for “If the Administrator finds”.
 
-Subsec. (a)(1)(A)(i)(I). Pub. L. 114–182, § 4(2)(B)(i), substituted “(A)(i)(I)” for “(1)(A)(i)”.
+Subsec. (a)(1)(A)(i)(I). Pub. L. 114–182, § 4(2)(B)(i), substituted “(A)(i)(I)” for “(1)(A)(i)”.
 
-Subsec. (a)(1)(A)(i)(II). Pub. L. 114–182, § 4(2)(B)(ii), substituted “(II)” for “(ii)”.
+Subsec. (a)(1)(A)(i)(II). Pub. L. 114–182, § 4(2)(B)(ii), substituted “(II)” for “(ii)”.
 
-Subsec. (a)(1)(A)(i)(III). Pub. L. 114–182, § 4(2)(B)(iv), substituted “(III)” for “(iii)”.
+Subsec. (a)(1)(A)(i)(III). Pub. L. 114–182, § 4(2)(B)(iv), substituted “(III)” for “(iii)”.
 
-Subsec. (a)(1)(A)(ii)(I). Pub. L. 114–182, § 4(2)(B)(viii), which directed amendment of subsec. (a)(1) by substituting “(bb)” for “(II)”, was executed by making the substitution in text of subsec. (a)(1)(A)(ii)(I) after “quantities or”, to reflect the probable intent of Congress.
+Subsec. (a)(1)(A)(ii)(I). Pub. L. 114–182, § 4(2)(B)(viii), which directed amendment of subsec. (a)(1) by substituting “(bb)” for “(II)”, was executed by making the substitution in text of subsec. (a)(1)(A)(ii)(I) after “quantities or”, to reflect the probable intent of Congress.
 
-Pub. L. 114–182, § 4(2)(B)(vii), which directed amendment of subsec. (a)(1) by substituting “(aa)” for “(I)”, was executed by making the substitution in text of subsec. (a)(1)(A)(ii)(I) after “quantities, and”, to reflect the probable intent of Congress.
+Pub. L. 114–182, § 4(2)(B)(vii), which directed amendment of subsec. (a)(1) by substituting “(aa)” for “(I)”, was executed by making the substitution in text of subsec. (a)(1)(A)(ii)(I) after “quantities, and”, to reflect the probable intent of Congress.
 
-Pub. L. 114–182, § 4(2)(B)(vi), substituted “(ii)(I)” for “(B)(i)”.
+Pub. L. 114–182, § 4(2)(B)(vi), substituted “(ii)(I)” for “(B)(i)”.
 
-Subsec. (a)(1)(A)(ii)(II). Pub. L. 114–182, § 4(2)(B)(ii), substituted “(II)” for “(ii)”.
+Subsec. (a)(1)(A)(ii)(II). Pub. L. 114–182, § 4(2)(B)(ii), substituted “(II)” for “(ii)”.
 
-Subsec. (a)(1)(A)(ii)(III). Pub. L. 114–182, § 4(2)(B)(iv), substituted “(III)” for “(iii)”.
+Subsec. (a)(1)(A)(ii)(III). Pub. L. 114–182, § 4(2)(B)(iv), substituted “(III)” for “(iii)”.
 
-Subsec. (a)(1)(B). Pub. L. 114–182, § 4(2)(B)(ix), substituted “(B)” for “(2)”. Former subpar. (B) redesignated subpar. (A)(ii).
+Subsec. (a)(1)(B). Pub. L. 114–182, § 4(2)(B)(ix), substituted “(B)” for “(2)”. Former subpar. (B) redesignated subpar. (A)(ii).
 
-Subsec. (a)(2) to (4). Pub. L. 114–182, § 4(2)(C), added pars. (2) to (4). Former par. (2) redesignated par. (1)(B).
+Subsec. (a)(2) to (4). Pub. L. 114–182, § 4(2)(C), added pars. (2) to (4). Former par. (2) redesignated par. (1)(B).
 
-Subsec. (b). Pub. L. 114–182, § 19(d)(1)(A)(i), which directed amendment of subsec. (b)(1) by inserting “, order, or consent agreement” at end of paragraph heading, was executed by making the insertion at end of subsec. (b) heading to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 114–182, § 19(d)(1)(A)(i), which directed amendment of subsec. (b)(1) by inserting “, order, or consent agreement” at end of paragraph heading, was executed by making the insertion at end of subsec. (b) heading to reflect the probable intent of Congress.
 
-Pub. L. 114–182, § 4(1), substituted “protocols and methodologies” for “standards” wherever appearing except after “various test” in concluding provisions of par. (1).
+Pub. L. 114–182, § 4(1), substituted “protocols and methodologies” for “standards” wherever appearing except after “various test” in concluding provisions of par. (1).
 
-Subsec. (b)(1). Pub. L. 114–182, § 19(d)(1)(A)(ii), substituted “rule, order, or consent agreement” for “rule” wherever appearing.
+Subsec. (b)(1). Pub. L. 114–182, § 19(d)(1)(A)(ii), substituted “rule, order, or consent agreement” for “rule” wherever appearing.
 
-Pub. L. 114–182, § 4(3)(A)(iii), substituted “information” for “data” in concluding provisions.
+Pub. L. 114–182, § 4(3)(A)(iii), substituted “information” for “data” in concluding provisions.
 
-Subsec. (b)(1)(B). Pub. L. 114–182, § 4(3)(A)(i), substituted “information” for “test data”.
+Subsec. (b)(1)(B). Pub. L. 114–182, § 4(3)(A)(i), substituted “information” for “test data”.
 
-Subsec. (b)(1)(C). Pub. L. 114–182, § 4(3)(A)(ii), substituted “information” for “data”.
+Subsec. (b)(1)(C). Pub. L. 114–182, § 4(3)(A)(ii), substituted “information” for “data”.
 
-Subsec. (b)(2)(A). Pub. L. 114–182, § 4(3)(B)(i), inserted “Protocols and methodologies for the development of information may also be prescribed for the assessment of exposure or exposure potential to humans or the environment.” after “health or the environment.” and substituted “information may be” for “test data may be” and “tiered testing” for “hierarchical tests”.
+Subsec. (b)(2)(A). Pub. L. 114–182, § 4(3)(B)(i), inserted “Protocols and methodologies for the development of information may also be prescribed for the assessment of exposure or exposure potential to humans or the environment.” after “health or the environment.” and substituted “information may be” for “test data may be” and “tiered testing” for “hierarchical tests”.
 
-Subsec. (b)(2)(B). Pub. L. 114–182, § 19(d)(1)(B), substituted “rules, orders, and consent agreements” for “rules”.
+Subsec. (b)(2)(B). Pub. L. 114–182, § 19(d)(1)(B), substituted “rules, orders, and consent agreements” for “rules”.
 
-Pub. L. 114–182, § 4(3)(B)(ii), substituted “information” for “data”.
+Pub. L. 114–182, § 4(3)(B)(ii), substituted “information” for “data”.
 
-Subsec. (b)(3). Pub. L. 114–182, § 4(3)(C)(i), substituted “information” for “data” wherever appearing in subpars. (A) and (B).
+Subsec. (b)(3). Pub. L. 114–182, § 4(3)(C)(i), substituted “information” for “data” wherever appearing in subpars. (A) and (B).
 
-Subsec. (b)(3)(A). Pub. L. 114–182, § 19(d)(1)(C), substituted “rule or order” for “rule”.
+Subsec. (b)(3)(A). Pub. L. 114–182, § 19(d)(1)(C), substituted “rule or order” for “rule”.
 
-Pub. L. 114–182, § 4(3)(C)(ii), inserted “or (C), as applicable,” after “subparagraph (B)”.
+Pub. L. 114–182, § 4(3)(C)(ii), inserted “or (C), as applicable,” after “subparagraph (B)”.
 
-Subsec. (b)(3)(B). Pub. L. 114–182, § 4(3)(C)(iv), substituted “subsection (a)(1)” for “subsection (a)” in introductory provisions.
+Subsec. (b)(3)(B). Pub. L. 114–182, § 4(3)(C)(iv), substituted “subsection (a)(1)” for “subsection (a)” in introductory provisions.
 
-Pub. L. 114–182, § 4(3)(C)(iii), substituted “(a)(1)(A)(i)(II) or (a)(1)(A)(ii)(II)” for “(a)(1)(A)(ii) or (a)(1)(B)(ii)” in cls. (i) to (iii).
+Pub. L. 114–182, § 4(3)(C)(iii), substituted “(a)(1)(A)(i)(II) or (a)(1)(A)(ii)(II)” for “(a)(1)(A)(ii) or (a)(1)(B)(ii)” in cls. (i) to (iii).
 
-Subsec. (b)(3)(C). Pub. L. 114–182, § 4(3)(C)(v), added subpar. (C).
+Subsec. (b)(3)(C). Pub. L. 114–182, § 4(3)(C)(v), added subpar. (C).
 
-Subsec. (b)(4). Pub. L. 114–182, § 19(d)(1)(D), substituted “rule, order, or consent agreement under subsection (a)” for “rule under subsection (a)” in two places, “repeals the rule or order or modifies the consent agreement to terminate the requirement” for “repeals the rule” in two places, and “repeals or modifies the application of the rule, order, or consent agreement” for “repeals the application of the rule”.
+Subsec. (b)(4). Pub. L. 114–182, § 19(d)(1)(D), substituted “rule, order, or consent agreement under subsection (a)” for “rule under subsection (a)” in two places, “repeals the rule or order or modifies the consent agreement to terminate the requirement” for “repeals the rule” in two places, and “repeals or modifies the application of the rule, order, or consent agreement” for “repeals the application of the rule”.
 
-Pub. L. 114–182, § 4(3)(D), substituted “of information” for “of data” in two places and “to information” for “to test data” in two places.
+Pub. L. 114–182, § 4(3)(D), substituted “of information” for “of data” in two places and “to information” for “to test data” in two places.
 
-Subsec. (b)(5). Pub. L. 114–182, § 4(3)(E), struck out par. (5) which read as follows: “Rules issued under subsection (a) (and any substantive amendment thereto or repeal thereof) shall be promulgated pursuant to section 553 of title 5 except that (A) the Administrator shall give interested persons an opportunity for the oral presentation of data, views, or arguments, in addition to an opportunity to make written submissions; (B) a transcript shall be made of any oral presentation; and (C) the Administrator shall make and publish with the rule the findings described in paragraph (1)(A) or (1)(B) of subsection (a) and, in the case of a rule respecting a mixture, the finding described in paragraph (2) of such subsection.”
+Subsec. (b)(5). Pub. L. 114–182, § 4(3)(E), struck out par. (5) which read as follows: “Rules issued under subsection (a) (and any substantive amendment thereto or repeal thereof) shall be promulgated pursuant to section 553 of title 5 except that (A) the Administrator shall give interested persons an opportunity for the oral presentation of data, views, or arguments, in addition to an opportunity to make written submissions; (B) a transcript shall be made of any oral presentation; and (C) the Administrator shall make and publish with the rule the findings described in paragraph (1)(A) or (1)(B) of subsection (a) and, in the case of a rule respecting a mixture, the finding described in paragraph (2) of such subsection.”
 
-Subsec. (c)(1). Pub. L. 114–182, § 19(d)(2)(A), substituted “rule or order” for “rule”.
+Subsec. (c)(1). Pub. L. 114–182, § 19(d)(2)(A), substituted “rule or order” for “rule”.
 
-Pub. L. 114–182, § 4(4)(A), substituted “information” for “data”.
+Pub. L. 114–182, § 4(4)(A), substituted “information” for “data”.
 
-Subsec. (c)(2). Pub. L. 114–182, § 19(d)(2)(B)(iii), substituted “the rule or order” for “the rule” in concluding provisions.
+Subsec. (c)(2). Pub. L. 114–182, § 19(d)(2)(B)(iii), substituted “the rule or order” for “the rule” in concluding provisions.
 
-Pub. L. 114–182, § 4(4)(B), substituted “information” for “data” wherever appearing.
+Pub. L. 114–182, § 4(4)(B), substituted “information” for “data” wherever appearing.
 
-Subsec. (c)(2)(A). Pub. L. 114–182, § 19(d)(2)(B)(i), substituted “a rule, order, or consent agreement under subsection (a) or for which information is being developed pursuant to such a rule, order, or consent agreement” for “a rule under subsection (a) or for which data is being developed pursuant to such a rule”. Amendment was executed as if the amendment by Pub. L. 114–182, § 4(4)(B), had not applied, to reflect the probable intent of Congress. See above.
+Subsec. (c)(2)(A). Pub. L. 114–182, § 19(d)(2)(B)(i), substituted “a rule, order, or consent agreement under subsection (a) or for which information is being developed pursuant to such a rule, order, or consent agreement” for “a rule under subsection (a) or for which data is being developed pursuant to such a rule”. Amendment was executed as if the amendment by Pub. L. 114–182, § 4(4)(B), had not applied, to reflect the probable intent of Congress. See above.
 
-Subsec. (c)(2)(B). Pub. L. 114–182, § 19(d)(2)(B)(ii), substituted “such rule, order, or consent agreement or which is being developed pursuant to such rule, order, or consent agreement” for “such rule or which is being developed pursuant to such rule”.
+Subsec. (c)(2)(B). Pub. L. 114–182, § 19(d)(2)(B)(ii), substituted “such rule, order, or consent agreement or which is being developed pursuant to such rule, order, or consent agreement” for “such rule or which is being developed pursuant to such rule”.
 
-Subsec. (c)(3)(A). Pub. L. 114–182, § 4(4)(C)(i), substituted “information” for “test data” wherever appearing.
+Subsec. (c)(3)(A). Pub. L. 114–182, § 4(4)(C)(i), substituted “information” for “test data” wherever appearing.
 
-Subsec. (c)(3)(A)(i). Pub. L. 114–182, § 4(4)(C), substituted “submitted such information” for “submitted such test data” and “submit such information” for “submit such data”.
+Subsec. (c)(3)(A)(i). Pub. L. 114–182, § 4(4)(C), substituted “submitted such information” for “submitted such test data” and “submit such information” for “submit such data”.
 
-Subsec. (c)(3)(B). Pub. L. 114–182, § 4(4)(C)(i), substituted “information” for “test data” in introductory provisions.
+Subsec. (c)(3)(B). Pub. L. 114–182, § 4(4)(C)(i), substituted “information” for “test data” in introductory provisions.
 
-Subsec. (c)(3)(B)(i). Pub. L. 114–182, § 19(d)(2)(C), substituted “rule, order, or consent agreement” for “rule promulgated”.
+Subsec. (c)(3)(B)(i). Pub. L. 114–182, § 19(d)(2)(C), substituted “rule, order, or consent agreement” for “rule promulgated”.
 
-Pub. L. 114–182, § 4(4)(C)(ii), substituted “such information” for “such data”.
+Pub. L. 114–182, § 4(4)(C)(ii), substituted “such information” for “such data”.
 
-Subsec. (c)(3)(B)(ii)(II). Pub. L. 114–182, § 4(4)(C)(ii), substituted “such information” for “such data”.
+Subsec. (c)(3)(B)(ii)(II). Pub. L. 114–182, § 4(4)(C)(ii), substituted “such information” for “such data”.
 
-Subsec. (c)(4). Pub. L. 114–182, § 19(d)(2)(D)(i), (ii), substituted “pursuant to a rule, order, or consent agreement” for “pursuant to a rule promulgated” in two places and “such rule, order, or consent agreement” for “such rule” wherever appearing.
+Subsec. (c)(4). Pub. L. 114–182, § 19(d)(2)(D)(i), (ii), substituted “pursuant to a rule, order, or consent agreement” for “pursuant to a rule promulgated” in two places and “such rule, order, or consent agreement” for “such rule” wherever appearing.
 
-Pub. L. 114–182, § 4(4)(D), substituted “information” for “test data” wherever appearing.
+Pub. L. 114–182, § 4(4)(D), substituted “information” for “test data” wherever appearing.
 
-Subsec. (c)(4)(B). Pub. L. 114–182, § 19(d)(2)(D)(iii), substituted “the rule or order” for “the rule”.
+Subsec. (c)(4)(B). Pub. L. 114–182, § 19(d)(2)(D)(iii), substituted “the rule or order” for “the rule”.
 
-Subsec. (d). Pub. L. 114–182, § 19(d)(3), substituted “rule, order, or consent agreement” for “rule”.
+Subsec. (d). Pub. L. 114–182, § 19(d)(3), substituted “rule, order, or consent agreement” for “rule”.
 
-Pub. L. 114–182, § 4(5), substituted “any information” for “any test data”, “development of information” for “development of test data”, “nature of the information” for “nature of the test data”, and “for which information has” for “for which data have”, and substituted “such information” for “such data” in two places.
+Pub. L. 114–182, § 4(5), substituted “any information” for “any test data”, “development of information” for “development of test data”, “nature of the information” for “nature of the test data”, and “for which information has” for “for which data have”, and substituted “such information” for “such data” in two places.
 
-Pub. L. 114–182, § 4(1), substituted “protocols and methodologies” for “standards”.
+Pub. L. 114–182, § 4(1), substituted “protocols and methodologies” for “standards”.
 
-Subsec. (e)(1)(A). Pub. L. 114–182, § 4(6)(A)(i)(I), substituted “development of information” for “promulgation of a rule” in introductory provisions.
+Subsec. (e)(1)(A). Pub. L. 114–182, § 4(6)(A)(i)(I), substituted “development of information” for “promulgation of a rule” in introductory provisions.
 
-Subsec. (e)(1)(A)(vi), (vii). Pub. L. 114–182, § 4(6)(A)(i)(II), substituted “information” for “data”.
+Subsec. (e)(1)(A)(vi), (vii). Pub. L. 114–182, § 4(6)(A)(i)(II), substituted “information” for “data”.
 
-Subsec. (e)(1)(B). Pub. L. 114–182, § 4(6)(A)(ii), substituted “issue an order, enter into a consent agreement, or initiate a rulemaking proceeding under subsection (a), or, if such an order or consent agreement is not issued or such a proceeding is not initiated within such period, publish in the Federal Register the Administrator’s reason for not issuing such an order, entering into such a consent agreement, or initiating such a proceeding” for “either initiate a rulemaking proceeding under subsection (a) or if such a proceeding is not initiated within such period, publish in the Federal Register the Administrator’s reason for not initiating such a proceeding”.
+Subsec. (e)(1)(B). Pub. L. 114–182, § 4(6)(A)(ii), substituted “issue an order, enter into a consent agreement, or initiate a rulemaking proceeding under subsection (a), or, if such an order or consent agreement is not issued or such a proceeding is not initiated within such period, publish in the Federal Register the Administrator’s reason for not issuing such an order, entering into such a consent agreement, or initiating such a proceeding” for “either initiate a rulemaking proceeding under subsection (a) or if such a proceeding is not initiated within such period, publish in the Federal Register the Administrator’s reason for not initiating such a proceeding”.
 
-Subsec. (e)(2)(A). Pub. L. 114–182, § 4(6)(B)(i), substituted “ten members” for “eight members” in introductory provisions.
+Subsec. (e)(2)(A). Pub. L. 114–182, § 4(6)(B)(i), substituted “ten members” for “eight members” in introductory provisions.
 
-Subsec. (e)(2)(A)(ix), (x). Pub. L. 114–182, § 4(6)(B)(ii), added cls. (ix) and (x).
+Subsec. (e)(2)(A)(ix), (x). Pub. L. 114–182, § 4(6)(B)(ii), added cls. (ix) and (x).
 
-Subsec. (f). Pub. L. 114–182, § 4(7)(B), in concluding provisions, struck out “or will present” after “mixture presents” and “from cancer, gene mutations, or birth defects” after “human beings”, substituted “applicable” for “appropriate”, and inserted “, made without consideration of costs or other nonrisk factors,” after “publish in the Federal Register a finding”.
+Subsec. (f). Pub. L. 114–182, § 4(7)(B), in concluding provisions, struck out “or will present” after “mixture presents” and “from cancer, gene mutations, or birth defects” after “human beings”, substituted “applicable” for “appropriate”, and inserted “, made without consideration of costs or other nonrisk factors,” after “publish in the Federal Register a finding”.
 
-Subsec. (f)(1). Pub. L. 114–182, § 4(7)(A), substituted “information” for “test data”.
+Subsec. (f)(1). Pub. L. 114–182, § 4(7)(A), substituted “information” for “test data”.
 
-Subsec. (g). Pub. L. 114–182, § 19(d)(4), substituted “rule, order, or consent agreement” for “rule”.
+Subsec. (g). Pub. L. 114–182, § 19(d)(4), substituted “rule, order, or consent agreement” for “rule”.
 
-Pub. L. 114–182, § 4(8), substituted “Petition for protocols and methodologies for the development of information” for “Petition for standards for the development of test data” in heading and “submit information” for “submit data” and “development of information” for “development of test data” in text.
+Pub. L. 114–182, § 4(8), substituted “Petition for protocols and methodologies for the development of information” for “Petition for standards for the development of test data” in heading and “submit information” for “submit data” and “development of information” for “development of test data” in text.
 
-Pub. L. 114–182, § 4(1), substituted “protocols and methodologies” for “standards” in two places.
+Pub. L. 114–182, § 4(1), substituted “protocols and methodologies” for “standards” in two places.
 
-Subsec. (h). Pub. L. 114–182, § 4(9), added subsec. (h).
+Subsec. (h). Pub. L. 114–182, § 4(9), added subsec. (h).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -661,7 +661,7 @@ Subsec. (h). Pub. L. 114–182, § 4(9), added subsec. (h).
 
 Section effective Jan. 1, 1977, except as provided in subsec. (f) of this section, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
 
-### § 2604. Manufacturing and processing notices
+### § 2604. Manufacturing and processing notices
 
 **(a) In general**
 
@@ -803,9 +803,9 @@ A notice under this paragraph respecting a chemical substance shall identify the
 
 **(e) Regulation pending development of information**
 
-**(1)**  1
+**(1)** 1
 
-<sup>1</sup>  So in original. There is no par. (2).
+<sup>1</sup> So in original. There is no par. (2).
 
 (A) If the Administrator determines that—
 
@@ -909,103 +909,103 @@ if all persons engaged in such experimentation, research, or analysis for a manu
 
 **(3)** For purposes of this section, the term “applicable review period” means the period starting on the date the Administrator receives a notice under subsection (a)(1) and ending 90 days after that date, or on such date as is provided for in subsection (b)(1) or (c).
 
-(Pub. L. 94–469, title I, § 5, Oct. 11, 1976, 90 Stat. 2012; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §§ 5, 19(e), June 22, 2016, 130 Stat. 454, 506.)
+(Pub. L. 94–469, title I, § 5, Oct. 11, 1976, 90 Stat. 2012; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §§ 5, 19(e), June 22, 2016, 130 Stat. 454, 506.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Subsec. (a)(1). Pub. L. 114–182, § 5(1)(A), designated existing provisions as subpar. (A) and redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively; substituted “Except as provided in subparagraph (B) of this paragraph and” for “Except as provided in” in introductory provisions; substituted “significant new use.” for “significant new use,” at end of cl. (ii); struck out concluding provisions “unless such person submits to the Administrator, at least 90 days before such manufacture or processing, a notice, in accordance with subsection (d), of such person’s intention to manufacture or process such substance and such person complies with any applicable requirement of subsection (b).”; and added subpar. (B).
+2016—Subsec. (a)(1). Pub. L. 114–182, § 5(1)(A), designated existing provisions as subpar. (A) and redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively; substituted “Except as provided in subparagraph (B) of this paragraph and” for “Except as provided in” in introductory provisions; substituted “significant new use.” for “significant new use,” at end of cl. (ii); struck out concluding provisions “unless such person submits to the Administrator, at least 90 days before such manufacture or processing, a notice, in accordance with subsection (d), of such person’s intention to manufacture or process such substance and such person complies with any applicable requirement of subsection (b).”; and added subpar. (B).
 
-Subsec. (a)(3) to (5). Pub. L. 114–182, § 5(1)(B), added pars. (3) to (5).
+Subsec. (a)(3) to (5). Pub. L. 114–182, § 5(1)(B), added pars. (3) to (5).
 
-Subsec. (b). Pub. L. 114–182, § 5(2)(A), substituted “information” for “test data” in heading.
+Subsec. (b). Pub. L. 114–182, § 5(2)(A), substituted “information” for “test data” in heading.
 
-Subsec. (b)(1)(A). Pub. L. 114–182, § 19(e)(1)(A), substituted “a rule, order, or consent agreement” for “a rule promulgated” and “such rule, order, or consent agreement” for “such rule”.
+Subsec. (b)(1)(A). Pub. L. 114–182, § 19(e)(1)(A), substituted “a rule, order, or consent agreement” for “a rule promulgated” and “such rule, order, or consent agreement” for “such rule”.
 
-Pub. L. 114–182, § 5(2)(B)(i), substituted “submit information” for “submit test data” and “such information” for “such data”.
+Pub. L. 114–182, § 5(2)(B)(i), substituted “submit information” for “submit test data” and “such information” for “such data”.
 
-Subsec. (b)(1)(B). Pub. L. 114–182, § 5(2)(B)(ii), in concluding provisions, substituted “information” for “test data”, “subsection (a)(1)(A)(i)” for “subsection (a)(1)(A)”, and “subsection (a)(1)(A)(ii)” for “subsection (a)(1)(B)”.
+Subsec. (b)(1)(B). Pub. L. 114–182, § 5(2)(B)(ii), in concluding provisions, substituted “information” for “test data”, “subsection (a)(1)(A)(i)” for “subsection (a)(1)(A)”, and “subsection (a)(1)(A)(ii)” for “subsection (a)(1)(B)”.
 
-Subsec. (b)(1)(B)(ii). Pub. L. 114–182, § 19(e)(1)(B), substituted “rule or order” for “rule promulgated”.
+Subsec. (b)(1)(B)(ii). Pub. L. 114–182, § 19(e)(1)(B), substituted “rule or order” for “rule promulgated”.
 
-Subsec. (b)(2)(A). Pub. L. 114–182, § 5(2)(C)(i)(II), (III), in concluding provisions, substituted “may” for “shall” and “information prescribed” for “data prescribed”.
+Subsec. (b)(2)(A). Pub. L. 114–182, § 5(2)(C)(i)(II), (III), in concluding provisions, substituted “may” for “shall” and “information prescribed” for “data prescribed”.
 
-Subsec. (b)(2)(A)(ii). Pub. L. 114–182, § 19(e)(1)(C), substituted “rule, order, or consent agreement” for “rule promulgated”.
+Subsec. (b)(2)(A)(ii). Pub. L. 114–182, § 19(e)(1)(C), substituted “rule, order, or consent agreement” for “rule promulgated”.
 
-Pub. L. 114–182, § 5(2)(C)(i)(I), substituted “information” for “test data”.
+Pub. L. 114–182, § 5(2)(C)(i)(I), substituted “information” for “test data”.
 
-Subsec. (b)(2)(B). Pub. L. 114–182, § 5(2)(C)(ii)(I)–(III), in introductory provisions, substituted “Information” for “Data”, “be information” for “be data”, “the information” for “the data”, and “shows” for “show”.
+Subsec. (b)(2)(B). Pub. L. 114–182, § 5(2)(C)(ii)(I)–(III), in introductory provisions, substituted “Information” for “Data”, “be information” for “be data”, “the information” for “the data”, and “shows” for “show”.
 
-Subsec. (b)(2)(B)(i). Pub. L. 114–182, § 5(2)(C)(ii)(IV), substituted “subsection (a)(1)(A)(i)” for “subsection (a)(1)(A)”.
+Subsec. (b)(2)(B)(i). Pub. L. 114–182, § 5(2)(C)(ii)(IV), substituted “subsection (a)(1)(A)(i)” for “subsection (a)(1)(A)”.
 
-Subsec. (b)(2)(B)(ii). Pub. L. 114–182, § 5(2)(C)(ii)(V), substituted “subsection (a)(1)(A)(ii)” for “subsection (a)(1)(B)”.
+Subsec. (b)(2)(B)(ii). Pub. L. 114–182, § 5(2)(C)(ii)(V), substituted “subsection (a)(1)(A)(ii)” for “subsection (a)(1)(B)”.
 
-Subsec. (b)(3). Pub. L. 114–182, § 5(2)(D), substituted “Information” for “Data” and “paragraph (1) or (2) of this subsection or under subsection (e)” for “paragraph (1) or (2)”.
+Subsec. (b)(3). Pub. L. 114–182, § 5(2)(D), substituted “Information” for “Data” and “paragraph (1) or (2) of this subsection or under subsection (e)” for “paragraph (1) or (2)”.
 
-Subsec. (b)(4)(A)(i). Pub. L. 114–182, § 5(2)(E)(i), inserted “, without consideration of costs or other nonrisk factors” after “health or the environment”.
+Subsec. (b)(4)(A)(i). Pub. L. 114–182, § 5(2)(E)(i), inserted “, without consideration of costs or other nonrisk factors” after “health or the environment”.
 
-Subsec. (b)(4)(C). Pub. L. 114–182, § 5(2)(E)(ii), struck out “, except that (i) the Administrator shall give interested persons an opportunity for the oral presentation of data, views, or arguments, in addition to an opportunity to make written submissions, (ii) a transcript shall be kept of any oral presentation, and (iii) the Administrator shall make and publish with the rule the finding described in subparagraph (A)” before period at end.
+Subsec. (b)(4)(C). Pub. L. 114–182, § 5(2)(E)(ii), struck out “, except that (i) the Administrator shall give interested persons an opportunity for the oral presentation of data, views, or arguments, in addition to an opportunity to make written submissions, (ii) a transcript shall be kept of any oral presentation, and (iii) the Administrator shall make and publish with the rule the finding described in subparagraph (A)” before period at end.
 
-Subsec. (c). Pub. L. 114–182, § 5(3), substituted “review” for “notice” in heading and struck out “before which the manufacturing or processing of a chemical substance subject to such subsection may begin” after “subsection (a) or (b)” in text.
+Subsec. (c). Pub. L. 114–182, § 5(3), substituted “review” for “notice” in heading and struck out “before which the manufacturing or processing of a chemical substance subject to such subsection may begin” after “subsection (a) or (b)” in text.
 
-Subsec. (d)(1)(B). Pub. L. 114–182, § 5(4)(A), substituted “information” for “test data”.
+Subsec. (d)(1)(B). Pub. L. 114–182, § 5(4)(A), substituted “information” for “test data”.
 
-Subsec. (d)(1)(C). Pub. L. 114–182, § 5(4)(B), substituted “information” for “data”.
+Subsec. (d)(1)(C). Pub. L. 114–182, § 5(4)(B), substituted “information” for “data”.
 
-Subsec. (d)(2). Pub. L. 114–182, § 5(4)(B), substituted “information” for “data” wherever appearing.
+Subsec. (d)(2). Pub. L. 114–182, § 5(4)(B), substituted “information” for “data” wherever appearing.
 
-Subsec. (d)(2)(B). Pub. L. 114–182, § 5(4)(C), substituted “uses of such substance identified in the notice” for “uses or intended uses of such substance”.
+Subsec. (d)(2)(B). Pub. L. 114–182, § 5(4)(C), substituted “uses of such substance identified in the notice” for “uses or intended uses of such substance”.
 
-Subsec. (d)(2)(C). Pub. L. 114–182, § 19(e)(2), substituted “rule, order, or consent agreement” for “rule”.
+Subsec. (d)(2)(C). Pub. L. 114–182, § 19(e)(2), substituted “rule, order, or consent agreement” for “rule”.
 
-Subsec. (d)(3). Pub. L. 114–182, § 5(4)(D), substituted “for which the applicable review period” for “for which the notification period prescribed by subsection (a), (b), or (c)” and “such period” for “such notification period”.
+Subsec. (d)(3). Pub. L. 114–182, § 5(4)(D), substituted “for which the applicable review period” for “for which the notification period prescribed by subsection (a), (b), or (c)” and “such period” for “such notification period”.
 
-Subsec. (e)(1)(A). Pub. L. 114–182, § 5(5)(A)(iii)(III), inserted before period at end of concluding provisions “to the extent necessary to protect against an unreasonable risk of injury to health or the environment, without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed or susceptible subpopulation identified as relevant by the Administrator under the conditions of use, and the submitter of the notice may commence manufacture of the chemical substance, or manufacture or processing of the chemical substance for a significant new use, including while any required information is being developed, only in compliance with the order”.
+Subsec. (e)(1)(A). Pub. L. 114–182, § 5(5)(A)(iii)(III), inserted before period at end of concluding provisions “to the extent necessary to protect against an unreasonable risk of injury to health or the environment, without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed or susceptible subpopulation identified as relevant by the Administrator under the conditions of use, and the submitter of the notice may commence manufacture of the chemical substance, or manufacture or processing of the chemical substance for a significant new use, including while any required information is being developed, only in compliance with the order”.
 
-Pub. L. 114–182, § 5(5)(A)(iii)(II), which directed substitution of “applicable review period” for “notification period applicable to the manufacturing or processing of such substance under subsection (a), (b), (c)” in concluding provisions, was executed by making the substitution for “notification period applicable to the manufacturing or processing of such substance under subsection (a), (b), or (c)” to reflect the probable intent of Congress.
+Pub. L. 114–182, § 5(5)(A)(iii)(II), which directed substitution of “applicable review period” for “notification period applicable to the manufacturing or processing of such substance under subsection (a), (b), (c)” in concluding provisions, was executed by making the substitution for “notification period applicable to the manufacturing or processing of such substance under subsection (a), (b), or (c)” to reflect the probable intent of Congress.
 
-Pub. L. 114–182, § 5(5)(A)(iii)(I), substituted “shall issue an order” for “may issue a proposed order” in concluding provisions.
+Pub. L. 114–182, § 5(5)(A)(iii)(I), substituted “shall issue an order” for “may issue a proposed order” in concluding provisions.
 
-Subsec. (e)(1)(A)(i). Pub. L. 114–182, § 5(5)(A)(i), substituted “; or” for “; and” at end.
+Subsec. (e)(1)(A)(i). Pub. L. 114–182, § 5(5)(A)(i), substituted “; or” for “; and” at end.
 
-Subsec. (e)(1)(A)(ii)(I). Pub. L. 114–182, § 5(5)(A)(ii), inserted “without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed subpopulation identified as relevant by the Administrator under the conditions of use;” after “health or the environment,”.
+Subsec. (e)(1)(A)(ii)(I). Pub. L. 114–182, § 5(5)(A)(ii), inserted “without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed subpopulation identified as relevant by the Administrator under the conditions of use;” after “health or the environment,”.
 
-Subsec. (e)(1)(B). Pub. L. 114–182, § 5(5)(B)(iii), substituted “of the order” for “of the proposed order”.
+Subsec. (e)(1)(B). Pub. L. 114–182, § 5(5)(B)(iii), substituted “of the order” for “of the proposed order”.
 
-Pub. L. 114–182, § 5(5)(B)(ii), which directed substitution of “applicable review period” for “notification period applicable to the manufacture or processing of such substance under subsection (a), (b), (c)”, was executed by making the substitution for “notification period applicable to the manufacture or processing of such substance under subsection (a), (b), or (c)” to reflect the probable intent of Congress.
+Pub. L. 114–182, § 5(5)(B)(ii), which directed substitution of “applicable review period” for “notification period applicable to the manufacture or processing of such substance under subsection (a), (b), (c)”, was executed by making the substitution for “notification period applicable to the manufacture or processing of such substance under subsection (a), (b), or (c)” to reflect the probable intent of Congress.
 
-Pub. L. 114–182, § 5(5)(B)(i), substituted “An order” for “A proposed order”.
+Pub. L. 114–182, § 5(5)(B)(i), substituted “An order” for “A proposed order”.
 
-Subsec. (e)(1)(C). Pub. L. 114–182, § 5(5)(C), struck out subpar. (C) which read as follows: “If a manufacturer or processor of a chemical substance to be subject to a proposed order issued under subparagraph (A) files with the Administrator (within the 30-day period beginning on the date such manufacturer or processor received the notice required by subparagraph (B)(ii)) objections specifying with particularity the provisions of the order deemed objectionable and stating the grounds therefor, the proposed order shall not take effect.”
+Subsec. (e)(1)(C). Pub. L. 114–182, § 5(5)(C), struck out subpar. (C) which read as follows: “If a manufacturer or processor of a chemical substance to be subject to a proposed order issued under subparagraph (A) files with the Administrator (within the 30-day period beginning on the date such manufacturer or processor received the notice required by subparagraph (B)(ii)) objections specifying with particularity the provisions of the order deemed objectionable and stating the grounds therefor, the proposed order shall not take effect.”
 
-Subsec. (e)(2). Pub. L. 114–182, § 5(5)(D), struck out par. (2) which related to injunctions to prohibit or limit the manufacture, processing, distribution in commerce, use, or disposal of a chemical substance.
+Subsec. (e)(2). Pub. L. 114–182, § 5(5)(D), struck out par. (2) which related to injunctions to prohibit or limit the manufacture, processing, distribution in commerce, use, or disposal of a chemical substance.
 
-Subsec. (f)(1). Pub. L. 114–182, § 5(6)(A), substituted “determines that a chemical substance or significant new use with” for “finds that there is a reasonable basis to conclude that the manufacture, processing, distribution in commerce, use, or disposal of a chemical substance with”, “, without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed subpopulation identified as relevant by the Administrator under the conditions of use,” for “before a rule promulgated under section 2605 of this title can protect against such risk,” and “applicable review period” for “notification period applicable under subsection (a), (b), or (c) to the manufacturing or processing of such substance” and struck out “, or that any combination of such activities,” after “required by subsection (a)” and “or will present” after “presents”.
+Subsec. (f)(1). Pub. L. 114–182, § 5(6)(A), substituted “determines that a chemical substance or significant new use with” for “finds that there is a reasonable basis to conclude that the manufacture, processing, distribution in commerce, use, or disposal of a chemical substance with”, “, without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed subpopulation identified as relevant by the Administrator under the conditions of use,” for “before a rule promulgated under section 2605 of this title can protect against such risk,” and “applicable review period” for “notification period applicable under subsection (a), (b), or (c) to the manufacturing or processing of such substance” and struck out “, or that any combination of such activities,” after “required by subsection (a)” and “or will present” after “presents”.
 
-Subsec. (f)(2). Pub. L. 114–182, § 5(6)(B), substituted “Section 2605(d)(3)(B)” for “Section 2605(d)(2)(B)” in concluding provisions.
+Subsec. (f)(2). Pub. L. 114–182, § 5(6)(B), substituted “Section 2605(d)(3)(B)” for “Section 2605(d)(2)(B)” in concluding provisions.
 
-Subsec. (f)(3)(A). Pub. L. 114–182, § 5(6)(C)(i), substituted “Administrator may” for “Administrator may—”, struck out cl. (i) designation before “issue”, substituted “an order to prohibit or limit the” for “a proposed order to prohibit the” and “under paragraph (1). Such order shall take effect on the expiration of the applicable review period.” for “under paragraph (1), or”, and struck out cl. (ii) and concluding provisions which read as follows:
+Subsec. (f)(3)(A). Pub. L. 114–182, § 5(6)(C)(i), substituted “Administrator may” for “Administrator may—”, struck out cl. (i) designation before “issue”, substituted “an order to prohibit or limit the” for “a proposed order to prohibit the” and “under paragraph (1). Such order shall take effect on the expiration of the applicable review period.” for “under paragraph (1), or”, and struck out cl. (ii) and concluding provisions which read as follows:
 
 “(ii) apply, through attorneys of the Environmental Protection Agency, to the United States District Court for the District of Columbia or the United States district court for the judicial district in which the manufacturer, or processor, as the case may be, of such substance, is found, resides, or transacts business for an injunction to prohibit the manufacture, processing, or distribution in commerce of such substance.
 
 A proposed order issued under clause (i) respecting a chemical substance shall take effect on the expiration of the notification period applicable under subsection (a), (b), or (c) to the manufacture or processing of such substance.”
 
-Subsec. (f)(3)(B), (C). Pub. L. 114–182, § 5(6)(C)(ii), (iii), redesignated subpar. (C) as (B), substituted “subparagraph (B)” for “subparagraphs (B) and (C)”, struck out “clause (i) of” after “order issued under” and “; and the provisions of subparagraph (C) of subsection (e)(2) shall apply with respect to an injunction issued under subparagraph (B)” after “subparagraph (A)”, and struck out former subpar. (B) which read as follows: “If the district court of the United States to which an application has been made under subparagraph (A)(ii) finds that there is a reasonable basis to conclude that the manufacture, processing, distribution in commerce, use, or disposal of the chemical substance with respect to which such application was made, or that any combination of such activities, presents or will present an unreasonable risk of injury to health or the environment before a rule promulgated under section 2605 of this title can protect against such risk, the court shall issue an injunction to prohibit the manufacture, processing, or distribution in commerce of such substance or to prohibit any combination of such activities.”
+Subsec. (f)(3)(B), (C). Pub. L. 114–182, § 5(6)(C)(ii), (iii), redesignated subpar. (C) as (B), substituted “subparagraph (B)” for “subparagraphs (B) and (C)”, struck out “clause (i) of” after “order issued under” and “; and the provisions of subparagraph (C) of subsection (e)(2) shall apply with respect to an injunction issued under subparagraph (B)” after “subparagraph (A)”, and struck out former subpar. (B) which read as follows: “If the district court of the United States to which an application has been made under subparagraph (A)(ii) finds that there is a reasonable basis to conclude that the manufacture, processing, distribution in commerce, use, or disposal of the chemical substance with respect to which such application was made, or that any combination of such activities, presents or will present an unreasonable risk of injury to health or the environment before a rule promulgated under section 2605 of this title can protect against such risk, the court shall issue an injunction to prohibit the manufacture, processing, or distribution in commerce of such substance or to prohibit any combination of such activities.”
 
-Subsec. (f)(3)(D). Pub. L. 114–182, § 5(6)(C)(iv), struck out subpar. (D) which read as follows: “If the Administrator issues an order pursuant to subparagraph (A)(i) respecting a chemical substance and objections are filed in accordance with subsection (e)(1)(C), the Administrator shall seek an injunction under subparagraph (A)(ii) respecting such substance unless the Administrator determines, on the basis of such objections, that such substance does not or will not present an unreasonable risk of injury to health or the environment.”
+Subsec. (f)(3)(D). Pub. L. 114–182, § 5(6)(C)(iv), struck out subpar. (D) which read as follows: “If the Administrator issues an order pursuant to subparagraph (A)(i) respecting a chemical substance and objections are filed in accordance with subsection (e)(1)(C), the Administrator shall seek an injunction under subparagraph (A)(ii) respecting such substance unless the Administrator determines, on the basis of such objections, that such substance does not or will not present an unreasonable risk of injury to health or the environment.”
 
-Subsec. (f)(4), (5). Pub. L. 114–182, § 5(6)(D), added pars. (4) and (5).
+Subsec. (f)(4), (5). Pub. L. 114–182, § 5(6)(D), added pars. (4) and (5).
 
-Subsec. (g). Pub. L. 114–182, § 5(7), amended subsec. (g) generally. Prior to amendment, text read as follows: “If the Administrator has not initiated any action under this section or section 2605 or 2606 of this title to prohibit or limit the manufacture, processing, distribution in commerce, use, or disposal of a chemical substance, with respect to which notification or data is required by subsection (a)(1)(B) or (b), before the expiration of the notification period applicable to the manufacturing or processing of such substance, the Administrator shall publish a statement of the Administrator’s reasons for not initiating such action. Such a statement shall be published in the Federal Register before the expiration of such period. Publication of such statement in accordance with the preceding sentence is not a prerequisite to the manufacturing or processing of the substance with respect to which the statement is to be published.”
+Subsec. (g). Pub. L. 114–182, § 5(7), amended subsec. (g) generally. Prior to amendment, text read as follows: “If the Administrator has not initiated any action under this section or section 2605 or 2606 of this title to prohibit or limit the manufacture, processing, distribution in commerce, use, or disposal of a chemical substance, with respect to which notification or data is required by subsection (a)(1)(B) or (b), before the expiration of the notification period applicable to the manufacturing or processing of such substance, the Administrator shall publish a statement of the Administrator’s reasons for not initiating such action. Such a statement shall be published in the Federal Register before the expiration of such period. Publication of such statement in accordance with the preceding sentence is not a prerequisite to the manufacturing or processing of the substance with respect to which the statement is to be published.”
 
-Subsec. (h)(1)(A). Pub. L. 114–182, § 5(8)(A), inserted “, including an unreasonable risk to a potentially exposed or susceptible subpopulation identified by the Administrator for the specific conditions of use identified in the application” after “health or the environment”.
+Subsec. (h)(1)(A). Pub. L. 114–182, § 5(8)(A), inserted “, including an unreasonable risk to a potentially exposed or susceptible subpopulation identified by the Administrator for the specific conditions of use identified in the application” after “health or the environment”.
 
-Subsec. (h)(2). Pub. L. 114–182, § 5(8)(B), substituted “information” for “data” wherever appearing.
+Subsec. (h)(2). Pub. L. 114–182, § 5(8)(B), substituted “information” for “data” wherever appearing.
 
-Subsec. (h)(4). Pub. L. 114–182, § 5(8)(C), substituted “environment, including an unreasonable risk to a potentially exposed or susceptible subpopulation identified by the Administrator under the conditions of use” for “environment. A rule promulgated under this paragraph (and any substantive amendment to, or repeal of, such a rule) shall be promulgated in accordance with paragraphs (2) and (3) of section 2605(c) of this title”.
+Subsec. (h)(4). Pub. L. 114–182, § 5(8)(C), substituted “environment, including an unreasonable risk to a potentially exposed or susceptible subpopulation identified by the Administrator under the conditions of use” for “environment. A rule promulgated under this paragraph (and any substantive amendment to, or repeal of, such a rule) shall be promulgated in accordance with paragraphs (2) and (3) of section 2605(c) of this title”.
 
-Subsec. (i). Pub. L. 114–182, § 5(9), amended subsec. (i) generally. Prior to amendment, text read as follows: “For purposes of this section, the terms ‘manufacture’ and ‘process’ mean manufacturing or processing for commercial purposes.”
+Subsec. (i). Pub. L. 114–182, § 5(9), amended subsec. (i) generally. Prior to amendment, text read as follows: “For purposes of this section, the terms ‘manufacture’ and ‘process’ mean manufacturing or processing for commercial purposes.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1013,7 +1013,7 @@ Subsec. (i). Pub. L. 114–182, § 5(9), amended subsec. (i) generally. Prior 
 
 Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
 
-### § 2605. Prioritization, risk evaluation, and regulation of chemical substances and mixtures
+### § 2605. Prioritization, risk evaluation, and regulation of chemical substances and mixtures
 
 **(a) Scope of regulation** If the Administrator determines in accordance with subsection (b)(4)(A) that the manufacture, processing, distribution in commerce, use, or disposal of a chemical substance or mixture, or that any combination of such activities, presents an unreasonable risk of injury to health or the environment, the Administrator shall by rule and subject to section 2617 of this title, and in accordance with subsection (c)(2), apply one or more of the following requirements to such substance or mixture to the extent necessary so that the chemical substance or mixture no longer presents such risk:
 
@@ -1375,61 +1375,61 @@ If, at any time prior to the date that is 90 days after June 22, 2016, the Admin
 
 For the purposes of this chapter, the term “requirement” as used in this section shall not displace statutory or common law.
 
-(Pub. L. 94–469, title I, § 6, Oct. 11, 1976, 90 Stat. 2020; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 109–364, div. A, title III, § 317(a), Oct. 17, 2006, 120 Stat. 2142; Pub. L. 110–414, § 3, Oct. 14, 2008, 122 Stat. 4342; Pub. L. 114–182, title I, § 6, June 22, 2016, 130 Stat. 460.)
+(Pub. L. 94–469, title I, § 6, Oct. 11, 1976, 90 Stat. 2020; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 109–364, div. A, title III, § 317(a), Oct. 17, 2006, 120 Stat. 2142; Pub. L. 110–414, § 3, Oct. 14, 2008, 122 Stat. 4342; Pub. L. 114–182, title I, § 6, June 22, 2016, 130 Stat. 460.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Pub. L. 114–182, § 6(1), substituted “Prioritization, risk evaluation, and regulation of chemical substances and mixtures” for “Regulation of hazardous chemical substances and mixtures” in section catchline.
+2016—Pub. L. 114–182, § 6(1), substituted “Prioritization, risk evaluation, and regulation of chemical substances and mixtures” for “Regulation of hazardous chemical substances and mixtures” in section catchline.
 
-Subsec. (a). Pub. L. 114–182, § 6(2)(A)–(D), in introductory provisions, substituted “determines in accordance with subsection (b)(4)(A)” for “finds that there is a reasonable basis to conclude” and “so that the chemical substance or mixture no longer presents such risk” for “to protect adequately against such risk using the least burdensome requirements”, struck out “or will present” after “presents”, and inserted “and subject to section 2617 of this title, and in accordance with subsection (c)(2),” after “shall by rule”.
+Subsec. (a). Pub. L. 114–182, § 6(2)(A)–(D), in introductory provisions, substituted “determines in accordance with subsection (b)(4)(A)” for “finds that there is a reasonable basis to conclude” and “so that the chemical substance or mixture no longer presents such risk” for “to protect adequately against such risk using the least burdensome requirements”, struck out “or will present” after “presents”, and inserted “and subject to section 2617 of this title, and in accordance with subsection (c)(2),” after “shall by rule”.
 
-Subsec. (a)(1)(A), (2)(A). Pub. L. 114–182, § 6(2)(E), inserted “or otherwise restricting” after “prohibiting”.
+Subsec. (a)(1)(A), (2)(A). Pub. L. 114–182, § 6(2)(E), inserted “or otherwise restricting” after “prohibiting”.
 
-Subsec. (a)(3). Pub. L. 114–182, § 6(2)(F), inserted “minimum” before “warnings” in two places.
+Subsec. (a)(3). Pub. L. 114–182, § 6(2)(F), inserted “minimum” before “warnings” in two places.
 
-Subsec. (a)(4). Pub. L. 114–182, § 6(2)(G), substituted “or monitor or conduct tests” for “and monitor or conduct tests”.
+Subsec. (a)(4). Pub. L. 114–182, § 6(2)(G), substituted “or monitor or conduct tests” for “and monitor or conduct tests”.
 
-Subsec. (a)(7). Pub. L. 114–182, § 6(2)(H), substituted “such determination” for “such unreasonable risk of injury” in subpar. (A) and for “such risk of injury” in subpar. (B).
+Subsec. (a)(7). Pub. L. 114–182, § 6(2)(H), substituted “such determination” for “such unreasonable risk of injury” in subpar. (A) and for “such risk of injury” in subpar. (B).
 
-Subsec. (b). Pub. L. 114–182, § 6(3), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to quality control procedures in the manufacturing or processing of a chemical substance or mixture to prevent unreasonable risk of injury to health or the environment.
+Subsec. (b). Pub. L. 114–182, § 6(3), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to quality control procedures in the manufacturing or processing of a chemical substance or mixture to prevent unreasonable risk of injury to health or the environment.
 
-Subsec. (c). Pub. L. 114–182, § 6(4), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to promulgation of subsection (a) rules.
+Subsec. (c). Pub. L. 114–182, § 6(4), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to promulgation of subsection (a) rules.
 
-Subsec. (d)(1), (2). Pub. L. 114–182, § 6(5)(B), added pars. (1) and (2) and struck out former par. (1) which read as follows: “The Administrator shall specify in any rule under subsection (a) the date on which it shall take effect, which date shall be as soon as feasible.” Former par. (2) redesignated (3).
+Subsec. (d)(1), (2). Pub. L. 114–182, § 6(5)(B), added pars. (1) and (2) and struck out former par. (1) which read as follows: “The Administrator shall specify in any rule under subsection (a) the date on which it shall take effect, which date shall be as soon as feasible.” Former par. (2) redesignated (3).
 
-Subsec. (d)(3). Pub. L. 114–182, § 6(5)(A), redesignated par. (2) as (3).
+Subsec. (d)(3). Pub. L. 114–182, § 6(5)(A), redesignated par. (2) as (3).
 
-Subsec. (d)(3)(A). Pub. L. 114–182, § 6(5)(C)(i)(I), in introductory provisions, substituted “, and compliance with the proposed requirements to be mandatory, upon publication in the Federal Register of the proposed rule and until the compliance dates applicable to such requirements in a final rule promulgated under section 2605(a) of this title or until the Administrator revokes such proposed rule, in accordance with subparagraph (B), if” for “upon its publication in the Federal Register and until the effective date of final action taken, in accordance with subparagraph (B), respecting such rule if”.
+Subsec. (d)(3)(A). Pub. L. 114–182, § 6(5)(C)(i)(I), in introductory provisions, substituted “, and compliance with the proposed requirements to be mandatory, upon publication in the Federal Register of the proposed rule and until the compliance dates applicable to such requirements in a final rule promulgated under section 2605(a) of this title or until the Administrator revokes such proposed rule, in accordance with subparagraph (B), if” for “upon its publication in the Federal Register and until the effective date of final action taken, in accordance with subparagraph (B), respecting such rule if”.
 
-Subsec. (d)(3)(A)(i)(I). Pub. L. 114–182, § 6(5)(C)(i)(II), inserted “without consideration of costs or other non-risk factors” after “effective date”.
+Subsec. (d)(3)(A)(i)(I). Pub. L. 114–182, § 6(5)(C)(i)(II), inserted “without consideration of costs or other non-risk factors” after “effective date”.
 
-Subsec. (d)(3)(B). Pub. L. 114–182, § 6(5)(C)(ii), substituted “in accordance with subsection (c), and either promulgate such rule (as proposed or with modifications) or revoke it.” for “, provide reasonable opportunity, in accordance with paragraphs (2) and (3) of subsection (c), for a hearing on such rule, and either promulgate such rule (as proposed or with modifications) or revoke it; and if such a hearing is requested, the Administrator shall commence the hearing within five days from the date such request is made unless the Administrator and the person making the request agree upon a later date for the hearing to begin, and after the hearing is concluded the Administrator shall, within ten days of the conclusion of the hearing, either promulgate such rule (as proposed or with modifications) or revoke it.”
+Subsec. (d)(3)(B). Pub. L. 114–182, § 6(5)(C)(ii), substituted “in accordance with subsection (c), and either promulgate such rule (as proposed or with modifications) or revoke it.” for “, provide reasonable opportunity, in accordance with paragraphs (2) and (3) of subsection (c), for a hearing on such rule, and either promulgate such rule (as proposed or with modifications) or revoke it; and if such a hearing is requested, the Administrator shall commence the hearing within five days from the date such request is made unless the Administrator and the person making the request agree upon a later date for the hearing to begin, and after the hearing is concluded the Administrator shall, within ten days of the conclusion of the hearing, either promulgate such rule (as proposed or with modifications) or revoke it.”
 
-Subsec. (e)(4). Pub. L. 114–182, § 6(6), substituted “paragraph (3)” for “paragraphs (2), (3), and (4)”.
+Subsec. (e)(4). Pub. L. 114–182, § 6(6), substituted “paragraph (3)” for “paragraphs (2), (3), and (4)”.
 
-Subsecs. (g) to (j). Pub. L. 114–182, § 6(7), added subsecs. (g) to (j).
+Subsecs. (g) to (j). Pub. L. 114–182, § 6(7), added subsecs. (g) to (j).
 
 2008—Subsec. (f). Pub. L. 110–414 added subsec. (f).
 
-2006—Subsec. (e)(3)(A). Pub. L. 109–364, § 317(a)(1), (b), temporarily substituted “subparagraphs (B), (C), and (D)” for “subparagraphs (B) and (C)” in introductory provisions. See Termination Date of 2006 Amendment note below.
+2006—Subsec. (e)(3)(A). Pub. L. 109–364, § 317(a)(1), (b), temporarily substituted “subparagraphs (B), (C), and (D)” for “subparagraphs (B) and (C)” in introductory provisions. See Termination Date of 2006 Amendment note below.
 
-Subsec. (e)(3)(B). Pub. L. 109–364, § 317(a)(2), (b), temporarily substituted “but not more than 1 year from the date it is granted, except as provided in subparagraph (D)” for “but not more than one year from the date it is granted” in concluding provisions. See Termination Date of 2006 Amendment note below.
+Subsec. (e)(3)(B). Pub. L. 109–364, § 317(a)(2), (b), temporarily substituted “but not more than 1 year from the date it is granted, except as provided in subparagraph (D)” for “but not more than one year from the date it is granted” in concluding provisions. See Termination Date of 2006 Amendment note below.
 
-Subsec. (e)(3)(D). Pub. L. 109–364, § 317(a)(3), (b), temporarily added subpar. (D) which read as follows: “The Administrator may extend an exemption granted pursuant to subparagraph (B) that has not yet expired for a period not to exceed 60 days for the purpose of authorizing the Secretary of Defense and the Secretaries of the military departments to provide for the transportation into the customs territory of the United States of polychlorinated biphenyls generated by or under the control of the Department of Defense for purposes of their disposal, treatment, or storage in the customs territory of the United States if those polychlorinated biphenyls are already in transit from their storage locations but the Administrator determines, in the sole discretion of the Administrator, they would not otherwise arrive in the customs territory of the United States within the period of the original exemption. The Administrator shall promptly publish notice of such extension in the Federal Register.” See Termination Date of 2006 Amendment note below.
+Subsec. (e)(3)(D). Pub. L. 109–364, § 317(a)(3), (b), temporarily added subpar. (D) which read as follows: “The Administrator may extend an exemption granted pursuant to subparagraph (B) that has not yet expired for a period not to exceed 60 days for the purpose of authorizing the Secretary of Defense and the Secretaries of the military departments to provide for the transportation into the customs territory of the United States of polychlorinated biphenyls generated by or under the control of the Department of Defense for purposes of their disposal, treatment, or storage in the customs territory of the United States if those polychlorinated biphenyls are already in transit from their storage locations but the Administrator determines, in the sole discretion of the Administrator, they would not otherwise arrive in the customs territory of the United States within the period of the original exemption. The Administrator shall promptly publish notice of such extension in the Federal Register.” See Termination Date of 2006 Amendment note below.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Termination Date of 2006 Amendment**
 
-Pub. L. 109–364, div. A, title III, § 317(b), Oct. 17, 2006, 120 Stat. 2142, provided that: “The amendments made by subsection (a) [amending this section] shall cease to have effect on September 30, 2012. The termination of the authority to grant exemptions pursuant to such amendments shall not effect the validity of any exemption granted prior to such date.”
+Pub. L. 109–364, div. A, title III, § 317(b), Oct. 17, 2006, 120 Stat. 2142, provided that: “The amendments made by subsection (a) [amending this section] shall cease to have effect on September 30, 2012. The termination of the authority to grant exemptions pursuant to such amendments shall not effect the validity of any exemption granted prior to such date.”
 
 **Effective Date**
 
 Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
 
-### § 2606. Imminent hazards
+### § 2606. Imminent hazards
 
 **(a) Actions authorized and required**
 
@@ -1461,9 +1461,9 @@ A civil action may be commenced under this paragraph notwithstanding the existen
 
 **(B)** In determining the judicial district in which an action may be brought under subsection (a) in instances in which such action may be brought in more than one judicial district, the Administrator shall take into account the convenience of the parties.
 
-**(C)** Subpeonas 1
+**(C)** Subpeonas 1
 
-<sup>1</sup>  So in original. Probably should be “Subpoenas”.
+<sup>1</sup> So in original. Probably should be “Subpoenas”.
 
 requiring attendance of witnesses in an action brought under subsection (a) may be served in any judicial district.
 
@@ -1481,19 +1481,19 @@ Notwithstanding any other provision of law, in any action under subsection (a), 
 
 For the purposes of subsection (a), the term “imminently hazardous chemical substance or mixture” means a chemical substance or mixture which presents an imminent and unreasonable risk of serious or widespread injury to health or the environment, without consideration of costs or other nonrisk factors. Such a risk to health or the environment shall be considered imminent if it is shown that the manufacture, processing, distribution in commerce, use, or disposal of the chemical substance or mixture, or that any combination of such activities, is likely to result in such injury to health or the environment before a final rule under section 2605 of this title can protect against such risk.
 
-(Pub. L. 94–469, title I, § 7, Oct. 11, 1976, 90 Stat. 2026; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 102–550, title X, § 1021(b)(1), Oct. 28, 1992, 106 Stat. 3923; Pub. L. 114–182, title I, §§ 7, 19(f), June 22, 2016, 130 Stat. 470, 507.)
+(Pub. L. 94–469, title I, § 7, Oct. 11, 1976, 90 Stat. 2026; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 102–550, title X, § 1021(b)(1), Oct. 28, 1992, 106 Stat. 3923; Pub. L. 114–182, title I, §§ 7, 19(f), June 22, 2016, 130 Stat. 470, 507.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Subsec. (a)(1). Pub. L. 114–182, § 19(f)(1), in concluding provisions, substituted “a determination under section 2604 or 2605 of this title, a rule under section 2603, 2604, or 2605 of this title or subchapter IV, an order under section 2603, 2604, or 2605 of this title or subchapter IV, or a consent agreement under section 2603 of this title” for “a rule under section 2603 of this title, 2604 of this title, 2605 of this title, or subchapter IV or an order under section 2604 of this title or subchapter IV”.
+2016—Subsec. (a)(1). Pub. L. 114–182, § 19(f)(1), in concluding provisions, substituted “a determination under section 2604 or 2605 of this title, a rule under section 2603, 2604, or 2605 of this title or subchapter IV, an order under section 2603, 2604, or 2605 of this title or subchapter IV, or a consent agreement under section 2603 of this title” for “a rule under section 2603 of this title, 2604 of this title, 2605 of this title, or subchapter IV or an order under section 2604 of this title or subchapter IV”.
 
-Subsec. (a)(2). Pub. L. 114–182, § 19(f)(2), substituted “section 2605(d)(3)(A)(i)” for “section 2605(d)(2)(A)(i)”.
+Subsec. (a)(2). Pub. L. 114–182, § 19(f)(2), substituted “section 2605(d)(3)(A)(i)” for “section 2605(d)(2)(A)(i)”.
 
-Subsec. (b)(1). Pub. L. 114–182, § 7(1), inserted “(as identified by the Administrator without consideration of costs or other nonrisk factors)” after “from the unreasonable risk”.
+Subsec. (b)(1). Pub. L. 114–182, § 7(1), inserted “(as identified by the Administrator without consideration of costs or other nonrisk factors)” after “from the unreasonable risk”.
 
-Subsec. (f). Pub. L. 114–182, § 7(2), inserted “, without consideration of costs or other nonrisk factors” after “widespread injury to health or the environment”.
+Subsec. (f). Pub. L. 114–182, § 7(2), inserted “, without consideration of costs or other nonrisk factors” after “widespread injury to health or the environment”.
 
 1992—Subsec. (a)(1). Pub. L. 102–550 substituted “section 2603 of this title, 2604 of this title, 2605 of this title, or subchapter IV” for “section 2603, 2604, or 2605 of this title” in last sentence.
 
@@ -1505,7 +1505,7 @@ Pub. L. 102–550, which directed the insertion of “or subchapter IV” after 
 
 Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
 
-### § 2607. Reporting and retention of information
+### § 2607. Reporting and retention of information
 
 **(a) Reports**
 
@@ -1549,7 +1549,7 @@ The Administrator may not require in a rule promulgated under this paragraph the
 
 **(I)** subject to a rule proposed or promulgated under section 2603, 2604(b)(4), or 2605 of this title,,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 an order in effect under section 2603 or 2604(e) of this title, or a consent agreement under section 2603 of this title, or
 
@@ -1755,7 +1755,7 @@ Any person who manufactures, processes, or distributes in commerce a chemical su
 
 For purposes of this section, the terms “manufacture” and “process” mean manufacture or process for commercial purposes.
 
-(Pub. L. 94–469, title I, § 8, Oct. 11, 1976, 90 Stat. 2027; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §§ 8, 19(g), June 22, 2016, 130 Stat. 470, 507; Pub. L. 116–92, div. F, title LXXIII, § 7351, Dec. 20, 2019, 133 Stat. 2289.)
+(Pub. L. 94–469, title I, § 8, Oct. 11, 1976, 90 Stat. 2027; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §§ 8, 19(g), June 22, 2016, 130 Stat. 470, 507; Pub. L. 116–92, div. F, title LXXIII, § 7351, Dec. 20, 2019, 133 Stat. 2289.)
 
 **Editorial Notes**
 
@@ -1763,19 +1763,19 @@ For purposes of this section, the terms “manufacture” and “process” mean
 
 2019—Subsec. (a)(7). Pub. L. 116–92 added par. (7).
 
-2016—Subsec. (a)(2). Pub. L. 114–182, § 8(a)(1)(A), struck out concluding provisions which read as follows: “To the extent feasible, the Administrator shall not require under paragraph (1), any reporting which is unnecessary or duplicative.”
+2016—Subsec. (a)(2). Pub. L. 114–182, § 8(a)(1)(A), struck out concluding provisions which read as follows: “To the extent feasible, the Administrator shall not require under paragraph (1), any reporting which is unnecessary or duplicative.”
 
-Subsec. (a)(2)(E). Pub. L. 114–182, § 19(g)(1), substituted “information” for “data”.
+Subsec. (a)(2)(E). Pub. L. 114–182, § 19(g)(1), substituted “information” for “data”.
 
-Subsec. (a)(3)(A)(ii)(I). Pub. L. 114–182, § 19(g)(2), substituted “, an order in effect under section 2603 or 2604(e) of this title, or a consent agreement under section 2603 of this title” for “or an order in effect under section 2604(e) of this title”.
+Subsec. (a)(3)(A)(ii)(I). Pub. L. 114–182, § 19(g)(2), substituted “, an order in effect under section 2603 or 2604(e) of this title, or a consent agreement under section 2603 of this title” for “or an order in effect under section 2604(e) of this title”.
 
-Subsec. (a)(3)(C). Pub. L. 114–182, § 8(a)(1)(B), added subpar. (C).
+Subsec. (a)(3)(C). Pub. L. 114–182, § 8(a)(1)(B), added subpar. (C).
 
-Subsec. (a)(4) to (6). Pub. L. 114–182, § 8(a)(1)(C), added pars. (4) to (6).
+Subsec. (a)(4) to (6). Pub. L. 114–182, § 8(a)(1)(C), added pars. (4) to (6).
 
-Subsec. (b)(3) to (9). Pub. L. 114–182, § 8(a)(2), added pars. (3) to (9).
+Subsec. (b)(3) to (9). Pub. L. 114–182, § 8(a)(2), added pars. (3) to (9).
 
-Subsec. (b)(10). Pub. L. 114–182, § 8(b), added par. (10).
+Subsec. (b)(10). Pub. L. 114–182, § 8(b), added par. (10).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1833,7 +1833,7 @@ Pub. L. 100–577, Oct. 31, 1988, 102 Stat. 2901, provided that:
 
 > **“(7)** The term ‘thermal system insulation’ means material in a building applied to pipes, fittings, boilers, breeching, tanks, ducts, or other structural components to prevent heat loss or gain or water condensation, or for other purposes.”
 
-### § 2608. Relationship to other Federal laws
+### § 2608. Relationship to other Federal laws
 
 **(a) Laws not administered by the Administrator**
 
@@ -1895,27 +1895,27 @@ In administering this chapter, the Administrator shall consult and coordinate wi
 
 In addition to the requirements of subsection (a), if the Administrator obtains information related to exposures or releases of a chemical substance or mixture that may be prevented or reduced under another Federal law, including a law not administered by the Administrator, the Administrator shall make such information available to the relevant Federal agency or office of the Environmental Protection Agency.
 
-(Pub. L. 94–469, title I, § 9, Oct. 11, 1976, 90 Stat. 2030; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §§ 9, 19(h), June 22, 2016, 130 Stat. 476, 507.)
+(Pub. L. 94–469, title I, § 9, Oct. 11, 1976, 90 Stat. 2030; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §§ 9, 19(h), June 22, 2016, 130 Stat. 476, 507.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Subsec. (a). Pub. L. 114–182, § 19(h)(1), substituted “section 2605(a)” for “section 2605” wherever appearing.
+2016—Subsec. (a). Pub. L. 114–182, § 19(h)(1), substituted “section 2605(a)” for “section 2605” wherever appearing.
 
-Subsec. (a)(1). Pub. L. 114–182, § 9(1)(A), in introductory provisions, substituted “determines” for “has reasonable basis to conclude”, struck out “or will present” after “presents”, and inserted “, without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed or susceptible subpopulation identified as relevant by the Administrator, under the conditions of use,” after “or the environment”.
+Subsec. (a)(1). Pub. L. 114–182, § 9(1)(A), in introductory provisions, substituted “determines” for “has reasonable basis to conclude”, struck out “or will present” after “presents”, and inserted “, without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed or susceptible subpopulation identified as relevant by the Administrator, under the conditions of use,” after “or the environment”.
 
-Subsec. (a)(2)(A). Pub. L. 114–182, § 9(1)(B)(i), inserted “, within the time period specified by the Administrator in the report,” after “issues an order”.
+Subsec. (a)(2)(A). Pub. L. 114–182, § 9(1)(B)(i), inserted “, within the time period specified by the Administrator in the report,” after “issues an order”.
 
-Subsec. (a)(2)(B). Pub. L. 114–182, § 9(1)(B)(ii), inserted “responds within the time period specified by the Administrator in the report and” before “initiates, within 90”.
+Subsec. (a)(2)(B). Pub. L. 114–182, § 9(1)(B)(ii), inserted “responds within the time period specified by the Administrator in the report and” before “initiates, within 90”.
 
-Subsec. (a)(3) to (6). Pub. L. 114–182, § 9(1)(C), (D), added pars. (3) to (5) and redesignated former par. (3) as (6).
+Subsec. (a)(3) to (6). Pub. L. 114–182, § 9(1)(C), (D), added pars. (3) to (5) and redesignated former par. (3) as (6).
 
-Subsec. (b). Pub. L. 114–182, § 9(2), designated existing provisions as par. (1) and added par. (2).
+Subsec. (b). Pub. L. 114–182, § 9(2), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (d). Pub. L. 114–182, § 19(h)(2), substituted “Health and Human Services” for “Health, Education, and Welfare”.
+Subsec. (d). Pub. L. 114–182, § 19(h)(2), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-Subsec. (e). Pub. L. 114–182, § 9(3), added subsec. (e).
+Subsec. (e). Pub. L. 114–182, § 9(3), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1927,7 +1927,7 @@ Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a
 
 For termination, effective May 15, 2000, of provisions in subsec. (d) of this section relating to reporting certain coordinating actions annually to Congress in the report required by section 2629 of this title, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 163 of House Document No. 103–7.
 
-### § 2609. Research, development, collection, dissemination, and utilization of information
+### § 2609. Research, development, collection, dissemination, and utilization of information
 
 **(a) Authority**
 
@@ -1963,31 +1963,31 @@ The Administrator shall establish and promote programs and workshops to train or
 
 The Administrator shall, in consultation with the Secretary of Health and Human Services and other heads of appropriate departments and agencies, establish and coordinate a system for exchange among Federal, State, and local authorities of research and development results respecting toxic chemical substances and mixtures, including a system to facilitate and promote the development of standard information format and analysis and consistent testing procedures.
 
-(Pub. L. 94–469, title I, § 10, Oct. 11, 1976, 90 Stat. 2031; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, § 19(i), June 22, 2016, 130 Stat. 507.)
+(Pub. L. 94–469, title I, § 10, Oct. 11, 1976, 90 Stat. 2031; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, § 19(i), June 22, 2016, 130 Stat. 507.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Pub. L. 114–182, § 19(i)(2), substituted “Health and Human Services” for “Health, Education, and Welfare” wherever appearing.
+2016—Pub. L. 114–182, § 19(i)(2), substituted “Health and Human Services” for “Health, Education, and Welfare” wherever appearing.
 
-Pub. L. 114–182, § 19(i)(1), substituted “information” for “data” in section catchline.
+Pub. L. 114–182, § 19(i)(1), substituted “information” for “data” in section catchline.
 
-Subsec. (b). Pub. L. 114–182, § 19(i)(3)(A), substituted “Information” for “Data” in heading.
+Subsec. (b). Pub. L. 114–182, § 19(i)(3)(A), substituted “Information” for “Data” in heading.
 
-Subsec. (b)(1). Pub. L. 114–182, § 19(i)(3)(B), substituted “information” for “data”.
+Subsec. (b)(1). Pub. L. 114–182, § 19(i)(3)(B), substituted “information” for “data”.
 
-Subsec. (b)(2)(A). Pub. L. 114–182, § 19(i)(3)(C), substituted “information” for “data”.
+Subsec. (b)(2)(A). Pub. L. 114–182, § 19(i)(3)(C), substituted “information” for “data”.
 
-Subsec. (b)(2)(B). Pub. L. 114–182, § 19(i)(3)(D), substituted “an information” for “a data”.
+Subsec. (b)(2)(B). Pub. L. 114–182, § 19(i)(3)(D), substituted “an information” for “a data”.
 
-Subsec. (g). Pub. L. 114–182, § 19(i)(4), substituted “information” for “data”.
+Subsec. (g). Pub. L. 114–182, § 19(i)(4), substituted “information” for “data”.
 
 **Codification**
 
-In subsec. (a), “section 3324(a) and (b) of title 31 and section 6101 of title 41” substituted for “sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529, 14 U.S.C. 5)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a), “section 3324(a) and (b) of title 31 and section 6101 of title 41” substituted for “sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529, 14 U.S.C. 5)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (b)(2)(B), “section 3324(a) and (b) of title 31 and section 6101 of title 41” substituted for “sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529, 41 U.S.C. 5)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(2)(B), “section 3324(a) and (b) of title 31 and section 6101 of title 41” substituted for “sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529, 41 U.S.C. 5)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1999,7 +1999,7 @@ Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a
 
 Grants awarded under this section are available for research, development, monitoring, public education, training, demonstrations, and studies, beginning in fiscal year 2000 and thereafter, see provisions of title III of Pub. L. 106–74, set out as a note under section 136r of Title 7, Agriculture.
 
-### § 2610. Inspections and subpoenas
+### § 2610. Inspections and subpoenas
 
 **(a) In general**
 
@@ -2027,19 +2027,19 @@ unless the nature and extent of such information are described with reasonable s
 
 In carrying out this chapter, the Administrator may by subpoena require the attendance and testimony of witnesses and the production of reports, papers, documents, answers to questions, and other information that the Administrator deems necessary. Witnesses shall be paid the same fees and mileage that are paid witnesses in the courts of the United States. In the event of contumacy, failure, or refusal of any person to obey any such subpoena, any district court of the United States in which venue is proper shall have jurisdiction to order any such person to comply with such subpoena. Any failure to obey such an order of the court is punishable by the court as a contempt thereof.
 
-(Pub. L. 94–469, title I, § 11, Oct. 11, 1976, 90 Stat. 2032; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 102–550, title X, § 1021(b)(2), (3), Oct. 28, 1992, 106 Stat. 3923; Pub. L. 114–182, title I, § 19(j), June 22, 2016, 130 Stat. 507.)
+(Pub. L. 94–469, title I, § 11, Oct. 11, 1976, 90 Stat. 2032; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 102–550, title X, § 1021(b)(2), (3), Oct. 28, 1992, 106 Stat. 3923; Pub. L. 114–182, title I, § 19(j), June 22, 2016, 130 Stat. 507.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Subsec. (b)(2). Pub. L. 114–182, § 19(j)(1), substituted “information” for “data” wherever appearing.
+2016—Subsec. (b)(2). Pub. L. 114–182, § 19(j)(1), substituted “information” for “data” wherever appearing.
 
-Subsec. (b)(2)(E). Pub. L. 114–182, § 19(j)(2), substituted “rule promulgated, order issued, or consent agreement entered into” for “rule promulgated”.
+Subsec. (b)(2)(E). Pub. L. 114–182, § 19(j)(2), substituted “rule promulgated, order issued, or consent agreement entered into” for “rule promulgated”.
 
-1992—Subsec. (a). Pub. L. 102–550, § 1021(b)(2), in first sentence, substituted “substances, mixtures, or products subject to subchapter IV” for “substances or mixtures” and inserted “such products,” before “or such articles”.
+1992—Subsec. (a). Pub. L. 102–550, § 1021(b)(2), in first sentence, substituted “substances, mixtures, or products subject to subchapter IV” for “substances or mixtures” and inserted “such products,” before “or such articles”.
 
-Subsec. (b)(1). Pub. L. 102–550, § 1021(b)(3), substituted “chemical substances, mixtures, or products subject to subchapter IV” for “chemical substances or mixtures”.
+Subsec. (b)(1). Pub. L. 102–550, § 1021(b)(3), substituted “chemical substances, mixtures, or products subject to subchapter IV” for “chemical substances or mixtures”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2047,7 +2047,7 @@ Subsec. (b)(1). Pub. L. 102–550, § 1021(b)(3), substituted “chemical subs
 
 Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
 
-### § 2611. Exports
+### § 2611. Exports
 
 **(a) In general**
 
@@ -2171,27 +2171,27 @@ This paragraph does not prohibit the export of mercury compounds on the list pub
 
 Nothing in this paragraph shall be construed to affect the authority of the Administrator under the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.).
 
-(Pub. L. 94–469, title I, § 12, Oct. 11, 1976, 90 Stat. 2033; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 110–414, § 4, Oct. 14, 2008, 122 Stat. 4342; Pub. L. 114–182, title I, §§ 10(a), (b), 19(k), June 22, 2016, 130 Stat. 477, 508.)
+(Pub. L. 94–469, title I, § 12, Oct. 11, 1976, 90 Stat. 2033; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 110–414, § 4, Oct. 14, 2008, 122 Stat. 4342; Pub. L. 114–182, title I, §§ 10(a), (b), 19(k), June 22, 2016, 130 Stat. 477, 508.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Solid Waste Disposal Act, referred to in subsec. (c)(7)(F), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (c)(7)(F), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
 **Amendments**
 
-2016—Subsec. (a)(2). Pub. L. 114–182, § 10(a), substituted “presents” for “will present”.
+2016—Subsec. (a)(2). Pub. L. 114–182, § 10(a), substituted “presents” for “will present”.
 
-Subsec. (b)(1). Pub. L. 114–182, § 19(k), substituted “information” for “data” in two places.
+Subsec. (b)(1). Pub. L. 114–182, § 19(k), substituted “information” for “data” in two places.
 
-Subsec. (c). Pub. L. 114–182, § 10(b)(1), inserted “and mercury compounds” after “mercury” in heading.
+Subsec. (c). Pub. L. 114–182, § 10(b)(1), inserted “and mercury compounds” after “mercury” in heading.
 
-Subsec. (c)(7). Pub. L. 114–182, § 10(b)(2), added par. (7).
+Subsec. (c)(7). Pub. L. 114–182, § 10(b)(2), added par. (7).
 
-2008—Subsec. (a)(1). Pub. L. 110–414, § 4(1), substituted “subsections (b) and (c)” for “subsection (b)” in introductory provisions.
+2008—Subsec. (a)(1). Pub. L. 110–414, § 4(1), substituted “subsections (b) and (c)” for “subsection (b)” in introductory provisions.
 
-Subsec. (c). Pub. L. 110–414, § 4(2), added subsec. (c).
+Subsec. (c). Pub. L. 110–414, § 4(2), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2201,7 +2201,7 @@ Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a
 
 **Findings**
 
-Pub. L. 110–414, § 2, Oct. 14, 2008, 122 Stat. 4341, provided that:
+Pub. L. 110–414, § 2, Oct. 14, 2008, 122 Stat. 4341, provided that:
 
 > “Congress finds that—
 
@@ -2237,7 +2237,7 @@ Pub. L. 110–414, § 2, Oct. 14, 2008, 122 Stat. 4341, provided that:
 
 > **“(13)** banning exports of elemental mercury from the United States will have a notable effect on the market availability of elemental mercury and switching to affordable mercury alternatives in the developing world.”
 
-### § 2612. Entry into customs territory of the United States
+### § 2612. Entry into customs territory of the United States
 
 **(a) In general**
 
@@ -2253,7 +2253,7 @@ Pub. L. 110–414, § 2, Oct. 14, 2008, 122 Stat. 4341, provided that:
 
 The Secretary of the Treasury, after consultation with the Administrator, shall issue rules for the administration of subsection (a) of this section.
 
-(Pub. L. 94–469, title I, § 13, Oct. 11, 1976, 90 Stat. 2034; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 100–418, title I, § 1214(e)(2), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 102–550, title X, § 1021(b)(4), Oct. 28, 1992, 106 Stat. 3923.)
+(Pub. L. 94–469, title I, § 13, Oct. 11, 1976, 90 Stat. 2034; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 100–418, title I, § 1214(e)(2), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 102–550, title X, § 1021(b)(4), Oct. 28, 1992, 106 Stat. 3923.)
 
 **Editorial Notes**
 
@@ -2277,7 +2277,7 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 
 Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
 
-### § 2613. Confidential information
+### § 2613. Confidential information
 
 **(a) In general** Except as provided in this section, the Administrator shall not disclose information that is exempt from disclosure pursuant to subsection (a) of section 552 of title 5 by reason of subsection (b)(4) of that section—
 
@@ -2661,7 +2661,7 @@ Nothing in this chapter prevents the Administrator from reviewing, requiring sub
 
 Notwithstanding any limitation contained in this section or any other provision of law, all information reported to or otherwise obtained by the Administrator (or any representative of the Administrator) under this chapter shall be made available, upon written request of any duly authorized committee of the Congress, to such committee.
 
-(Pub. L. 94–469, title I, § 14, Oct. 11, 1976, 90 Stat. 2034; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, § 11, June 22, 2016, 130 Stat. 481.)
+(Pub. L. 94–469, title I, § 14, Oct. 11, 1976, 90 Stat. 2034; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, § 11, June 22, 2016, 130 Stat. 481.)
 
 **Editorial Notes**
 
@@ -2675,7 +2675,7 @@ Notwithstanding any limitation contained in this section or any other provision 
 
 Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
 
-### § 2614. Prohibited acts
+### § 2614. Prohibited acts
 
 It shall be unlawful for any person to—
 
@@ -2687,7 +2687,7 @@ It shall be unlawful for any person to—
 
 **(4)** fail or refuse to permit entry or inspection as required by section 2610 of this title.
 
-(Pub. L. 94–469, title I, § 15, Oct. 11, 1976, 90 Stat. 2036; renumbered title I and amended Pub. L. 99–519, § 3(b)(1), (c)(1), Oct. 22, 1986, 100 Stat. 2988, 2989; Pub. L. 114–182, title I, § 19(*l*), June 22, 2016, 130 Stat. 508.)
+(Pub. L. 94–469, title I, § 15, Oct. 11, 1976, 90 Stat. 2036; renumbered title I and amended Pub. L. 99–519, § 3(b)(1), (c)(1), Oct. 22, 1986, 100 Stat. 2988, 2989; Pub. L. 114–182, title I, § 19(*l*), June 22, 2016, 130 Stat. 508.)
 
 **Editorial Notes**
 
@@ -2703,7 +2703,7 @@ It shall be unlawful for any person to—
 
 Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
 
-### § 2615. Penalties
+### § 2615. Penalties
 
 **(a) Civil**
 
@@ -2747,15 +2747,15 @@ Notwithstanding the penalties described in subparagraph (A), an organization tha
 
 Subparagraphs (B) through (F) of section 7413(c)(5) of title 42 shall apply to the prosecution of a violation under this paragraph.
 
-(Pub. L. 94–469, title I, § 16, Oct. 11, 1976, 90 Stat. 2037; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 102–550, title X, § 1021(b)(5), Oct. 28, 1992, 106 Stat. 3923; Pub. L. 114–182, title I, § 12, June 22, 2016, 130 Stat. 492.)
+(Pub. L. 94–469, title I, § 16, Oct. 11, 1976, 90 Stat. 2037; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 102–550, title X, § 1021(b)(5), Oct. 28, 1992, 106 Stat. 3923; Pub. L. 114–182, title I, § 12, June 22, 2016, 130 Stat. 492.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Subsec. (a)(1). Pub. L. 114–182, § 12(1), substituted “$37,500” for “$25,000”.
+2016—Subsec. (a)(1). Pub. L. 114–182, § 12(1), substituted “$37,500” for “$25,000”.
 
-Subsec. (b). Pub. L. 114–182, § 12(2), designated existing provisions as par. (1), inserted heading, substituted “$50,000” for “$25,000”, and added par. (2).
+Subsec. (b). Pub. L. 114–182, § 12(2), designated existing provisions as par. (1), inserted heading, substituted “$50,000” for “$25,000”, and added par. (2).
 
 1992—Subsecs. (a)(1), (2)(A), (b). Pub. L. 102–550 substituted “section 2614 or 2689 of this title” for “section 2614 of this title” wherever appearing.
 
@@ -2765,7 +2765,7 @@ Subsec. (b). Pub. L. 114–182, § 12(2), designated existing provisions as pa
 
 Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
 
-### § 2616. Specific enforcement and seizure
+### § 2616. Specific enforcement and seizure
 
 **(a) Specific enforcement**
 
@@ -2791,13 +2791,13 @@ In any such civil action process may be served on a defendant in any judicial di
 
 Any chemical substance, mixture, or product subject to subchapter IV which was manufactured, processed, or distributed in commerce in violation of this chapter or any rule promulgated or order issued under this chapter or any article containing such a substance or mixture shall be liable to be proceeded against, by process of libel, for the seizure and condemnation of such substance, mixture, product, or article, in any district court of the United States within the jurisdiction of which such substance, mixture, product, or article is found. Such proceedings shall conform as nearly as possible to proceedings in rem in admiralty.
 
-(Pub. L. 94–469, title I, § 17, Oct. 11, 1976, 90 Stat. 2037; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 102–550, title X, § 1021(b)(6), (7), Oct. 28, 1992, 106 Stat. 3923.)
+(Pub. L. 94–469, title I, § 17, Oct. 11, 1976, 90 Stat. 2037; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 102–550, title X, § 1021(b)(6), (7), Oct. 28, 1992, 106 Stat. 3923.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Subsec. (a). Pub. L. 102–550, § 1021(b)(6), which directed that subsec. (a) be amended “to read as follows” and then set out the subsec. (a) designation and heading, followed by the par. (1) designation and text, without any restatement of par. (2), was executed as a general amendment of par. (1) only, to reflect the probable intent of Congress. Prior to amendment, par. (1) read as follows: “The district courts of the United States shall have jurisdiction over civil actions to—
+1992—Subsec. (a). Pub. L. 102–550, § 1021(b)(6), which directed that subsec. (a) be amended “to read as follows” and then set out the subsec. (a) designation and heading, followed by the par. (1) designation and text, without any restatement of par. (2), was executed as a general amendment of par. (1) only, to reflect the probable intent of Congress. Prior to amendment, par. (1) read as follows: “The district courts of the United States shall have jurisdiction over civil actions to—
 
 “(A) restrain any violation of section 2614 of this title,
 
@@ -2807,7 +2807,7 @@ Any chemical substance, mixture, or product subject to subchapter IV which was m
 
 “(D) direct any manufacturer or processor of a chemical substance or mixture manufactured or processed in violation of section 2604 or 2605 of this title or a rule or order under section 2604 or 2605 of this title and distributed in commerce, (i) to give notice of such fact to distributors in commerce of such substance or mixture and, to the extent reasonably ascertainable, to other persons in possession of such substance or mixture or exposed to such substance or mixture, (ii) to give public notice of such risk of injury, and (iii) to either replace or repurchase such substance or mixture, whichever the person to which the requirement is directed elects.”
 
-Subsec. (b). Pub. L. 102–550, § 1021(b)(7), in first sentence substituted “substance, mixture, or product subject to subchapter IV” for “substance or mixture” and inserted “product,” before “or article” in two places.
+Subsec. (b). Pub. L. 102–550, § 1021(b)(7), in first sentence substituted “substance, mixture, or product subject to subchapter IV” for “substance or mixture” and inserted “product,” before “or article” in two places.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2815,7 +2815,7 @@ Subsec. (b). Pub. L. 102–550, § 1021(b)(7), in first sentence substituted �
 
 Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
 
-### § 2617. Preemption
+### § 2617. Preemption
 
 **(a) In general**
 
@@ -2831,13 +2831,13 @@ Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a
 
 **(B) Chemical substances found not to present an unreasonable risk or restricted** A statute, criminal penalty, or administrative action to prohibit or otherwise restrict the manufacture, processing, or distribution in commerce or use of a chemical substance—
 
-**(i)** for which the determination described in section 2605(i)(1) of this title is made, consistent with the scope of the risk evaluation under section 2605(b)(4)(D) 1
+**(i)** for which the determination described in section 2605(i)(1) of this title is made, consistent with the scope of the risk evaluation under section 2605(b)(4)(D) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title; or
 
-**(ii)** for which a final rule is promulgated under section 2605(a) of this title, after the effective date of the rule issued under section 2605(a) of this title for the chemical substance, consistent with the scope of the risk evaluation under section 2605(b)(4)(D) <sup>1</sup> of this title.
+**(ii)** for which a final rule is promulgated under section 2605(a) of this title, after the effective date of the rule issued under section 2605(a) of this title for the chemical substance, consistent with the scope of the risk evaluation under section 2605(b)(4)(D) <sup>1</sup> of this title.
 
 **(C) Significant new use**
 
@@ -3013,7 +3013,7 @@ Nothing in this chapter, nor any amendments made by the Frank R. Lautenberg Chem
 
 This chapter does not affect the authority of any court to make a determination in an adjudicatory proceeding under applicable State or Federal law with respect to the admission into evidence or any other use of this chapter or rules, regulations, requirements, standards of performance, risk evaluations, scientific assessments, or orders issued pursuant to this chapter.
 
-(Pub. L. 94–469, title I, § 18, Oct. 11, 1976, 90 Stat. 2038; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, § 13, June 22, 2016, 130 Stat. 492.)
+(Pub. L. 94–469, title I, § 18, Oct. 11, 1976, 90 Stat. 2038; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, § 13, June 22, 2016, 130 Stat. 492.)
 
 **Editorial Notes**
 
@@ -3025,11 +3025,11 @@ The Frank R. Lautenberg Chemical Safety for the 21st Century Act, referred to in
 
 **Amendments**
 
-2016—Subsec. (a). Pub. L. 114–182, § 13(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to effect of chapter on State law.
+2016—Subsec. (a). Pub. L. 114–182, § 13(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to effect of chapter on State law.
 
-Subsec. (b). Pub. L. 114–182, § 13(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to exemption from required testing of chemical substances or mixtures.
+Subsec. (b). Pub. L. 114–182, § 13(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to exemption from required testing of chemical substances or mixtures.
 
-Subsecs. (c) to (g). Pub. L. 114–182, § 13(3), added subsecs. (c) to (g).
+Subsecs. (c) to (g). Pub. L. 114–182, § 13(3), added subsecs. (c) to (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3037,7 +3037,7 @@ Subsecs. (c) to (g). Pub. L. 114–182, § 13(3), added subsecs. (c) to (g).
 
 Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
 
-### § 2618. Judicial review
+### § 2618. Judicial review
 
 **(a) In general**
 
@@ -3045,7 +3045,7 @@ Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a
 
 **(A)** Except as otherwise provided in this subchapter, not later than 60 days after the date on which a rule is promulgated under this subchapter, subchapter II, or subchapter IV, or the date on which an order is issued under section 2603, 2604(e), 2604(f), or 2605(i)(1) of this title,,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 any person may file a petition for judicial review of such rule or order with the United States Court of Appeals for the District of Columbia Circuit or for the circuit in which such person resides or in which such person’s principal place of business is located. Courts of appeals of the United States shall have exclusive jurisdiction of any action to obtain judicial review (other than in an enforcement proceeding) of such a rule or order if any district court of the United States would have had jurisdiction of such action but for this subparagraph.
 
@@ -3089,41 +3089,41 @@ The decision of the court in an action commenced under subsection (a), or of the
 
 The remedies as provided in this section shall be in addition to and not in lieu of any other remedies provided by law.
 
-(Pub. L. 94–469, title I, § 19, Oct. 11, 1976, 90 Stat. 2039; renumbered title I and amended Pub. L. 99–519, § 3(b)(2), (c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 102–550, title X, § 1021(b)(8), Oct. 28, 1992, 106 Stat. 3923; Pub. L. 114–182, title I, §§ 14, 19(m), June 22, 2016, 130 Stat. 498, 508.)
+(Pub. L. 94–469, title I, § 19, Oct. 11, 1976, 90 Stat. 2039; renumbered title I and amended Pub. L. 99–519, § 3(b)(2), (c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 102–550, title X, § 1021(b)(8), Oct. 28, 1992, 106 Stat. 3923; Pub. L. 114–182, title I, §§ 14, 19(m), June 22, 2016, 130 Stat. 498, 508.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Subsec. (a)(1)(A). Pub. L. 114–182, § 19(m)(1)(A), substituted “Except as otherwise provided in this subchapter, not later than 60 days after the date on which a rule is promulgated under this subchapter, subchapter II, or subchapter IV, or the date on which an order is issued under section 2603, 2604(e), 2604(f), or 2605(i)(1) of this title,” for “Not later than 60 days after the date of the promulgation of a rule under section 2603(a), 2604(a)(2), 2604(b)(4), 2605(a), 2605(e), or 2607 of this title, or under subchapter II or IV”, “such rule or order” for “such rule”, and “such a rule or order” for “such a rule”.
+2016—Subsec. (a)(1)(A). Pub. L. 114–182, § 19(m)(1)(A), substituted “Except as otherwise provided in this subchapter, not later than 60 days after the date on which a rule is promulgated under this subchapter, subchapter II, or subchapter IV, or the date on which an order is issued under section 2603, 2604(e), 2604(f), or 2605(i)(1) of this title,” for “Not later than 60 days after the date of the promulgation of a rule under section 2603(a), 2604(a)(2), 2604(b)(4), 2605(a), 2605(e), or 2607 of this title, or under subchapter II or IV”, “such rule or order” for “such rule”, and “such a rule or order” for “such a rule”.
 
-Subsec. (a)(1)(B). Pub. L. 114–182, § 19(m)(1)(B), substituted “Except as otherwise provided in this subchapter, courts” for “Courts” and “this subchapter, other than an order under section 2603, 2604(e), 2604(f), or 2605(i)(1) of this title,” for “subparagraph (A) or (B) of section 2605(b)(1) of this title”.
+Subsec. (a)(1)(B). Pub. L. 114–182, § 19(m)(1)(B), substituted “Except as otherwise provided in this subchapter, courts” for “Courts” and “this subchapter, other than an order under section 2603, 2604(e), 2604(f), or 2605(i)(1) of this title,” for “subparagraph (A) or (B) of section 2605(b)(1) of this title”.
 
-Subsec. (a)(1)(C). Pub. L. 114–182, § 14(1), added subpar. (C).
+Subsec. (a)(1)(C). Pub. L. 114–182, § 14(1), added subpar. (C).
 
-Subsec. (a)(2). Pub. L. 114–182, § 19(m)(1)(C), substituted “record” for “rulemaking record” and “based the rule or order” for “based the rule”.
+Subsec. (a)(2). Pub. L. 114–182, § 19(m)(1)(C), substituted “record” for “rulemaking record” and “based the rule or order” for “based the rule”.
 
-Subsec. (a)(3). Pub. L. 114–182, § 14(2), struck out par. (3) which defined “rulemaking record”.
+Subsec. (a)(3). Pub. L. 114–182, § 14(2), struck out par. (3) which defined “rulemaking record”.
 
-Subsec. (b). Pub. L. 114–182, § 19(m)(2), substituted “review a rule, or an order under section 2603, 2604(e), 2604(f), or 2605(i)(1) of this title,” for “review a rule”, “such rule or order” for “such rule”, “the rule or order” for “the rule”, “new rule or order” for “new rule” in two places, and “modified rule or order” for “modified rule”.
+Subsec. (b). Pub. L. 114–182, § 19(m)(2), substituted “review a rule, or an order under section 2603, 2604(e), 2604(f), or 2605(i)(1) of this title,” for “review a rule”, “such rule or order” for “such rule”, “the rule or order” for “the rule”, “new rule or order” for “new rule” in two places, and “modified rule or order” for “modified rule”.
 
-Subsec. (c)(1)(A). Pub. L. 114–182, § 19(m)(3)(A)(i), substituted “a rule or order” for “a rule” and “such rule or order” for “such rule”.
+Subsec. (c)(1)(A). Pub. L. 114–182, § 19(m)(3)(A)(i), substituted “a rule or order” for “a rule” and “such rule or order” for “such rule”.
 
-Subsec. (c)(1)(B). Pub. L. 114–182, § 19(m)(3)(A)(ii)(I), substituted “a rule or order” for “a rule” in introductory provisions.
+Subsec. (c)(1)(B). Pub. L. 114–182, § 19(m)(3)(A)(ii)(I), substituted “a rule or order” for “a rule” in introductory provisions.
 
-Pub. L. 114–182, § 19(m)(3)(A)(ii)(III), struck out concluding provisions which read as follows: “The term ‘evidence’ as used in clause (i) means any matter in the rulemaking record.”
+Pub. L. 114–182, § 19(m)(3)(A)(ii)(III), struck out concluding provisions which read as follows: “The term ‘evidence’ as used in clause (i) means any matter in the rulemaking record.”
 
-Subsec. (c)(1)(B)(i). Pub. L. 114–182, § 19(m)(3)(A)(ii)(II), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “in the case of review of a rule under section 2603(a), 2604(b)(4), 2605(a), or 2605(e) of this title, the standard for review prescribed by paragraph (2)(E) of such section 706 shall not apply and the court shall hold unlawful and set aside such rule if the court finds that the rule is not supported by substantial evidence in the rulemaking record (as defined in subsection (a)(3)) taken as a whole;”.
+Subsec. (c)(1)(B)(i). Pub. L. 114–182, § 19(m)(3)(A)(ii)(II), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “in the case of review of a rule under section 2603(a), 2604(b)(4), 2605(a), or 2605(e) of this title, the standard for review prescribed by paragraph (2)(E) of such section 706 shall not apply and the court shall hold unlawful and set aside such rule if the court finds that the rule is not supported by substantial evidence in the rulemaking record (as defined in subsection (a)(3)) taken as a whole;”.
 
-Subsec. (c)(1)(B)(ii), (iii). Pub. L. 114–182, § 19(m)(3)(A)(ii)(III), added cl. (ii) and struck out former cls. (ii) and (iii) which related to review of rules under section 2605(a) of this title and statements not subject to court review, respectively.
+Subsec. (c)(1)(B)(ii), (iii). Pub. L. 114–182, § 19(m)(3)(A)(ii)(III), added cl. (ii) and struck out former cls. (ii) and (iii) which related to review of rules under section 2605(a) of this title and statements not subject to court review, respectively.
 
-Subsec. (c)(1)(C). Pub. L. 114–182, § 19(m)(3)(A)(iii), struck out subpar. (C) which read as follows: “A determination, rule, or ruling of the Administrator described in subparagraph (B)(ii) may be reviewed only in an action under this section and only in accordance with such subparagraph.”
+Subsec. (c)(1)(C). Pub. L. 114–182, § 19(m)(3)(A)(iii), struck out subpar. (C) which read as follows: “A determination, rule, or ruling of the Administrator described in subparagraph (B)(ii) may be reviewed only in an action under this section and only in accordance with such subparagraph.”
 
-Subsec. (c)(2). Pub. L. 114–182, § 19(m)(3)(B), substituted “any rule or order” for “any rule”.
+Subsec. (c)(2). Pub. L. 114–182, § 19(m)(3)(B), substituted “any rule or order” for “any rule”.
 
-1992—Subsec. (a)(1)(A). Pub. L. 102–550, § 1021(b)(8)(A), substituted “subchapter II or IV” for “subchapter II”.
+1992—Subsec. (a)(1)(A). Pub. L. 102–550, § 1021(b)(8)(A), substituted “subchapter II or IV” for “subchapter II”.
 
-Subsec. (a)(3)(B). Pub. L. 102–550, § 1021(b)(8)(B), inserted before semicolon at end “and in the case of a rule under subchapter IV, the finding required for the issuance of such a rule”.
+Subsec. (a)(3)(B). Pub. L. 102–550, § 1021(b)(8)(B), inserted before semicolon at end “and in the case of a rule under subchapter IV, the finding required for the issuance of such a rule”.
 
 1986—Subsec. (a)(1)(A). Pub. L. 99–519 inserted reference to subchapter II of this chapter.
 
@@ -3133,7 +3133,7 @@ Subsec. (a)(3)(B). Pub. L. 102–550, § 1021(b)(8)(B), inserted before semico
 
 Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
 
-### § 2619. Citizens’ civil actions
+### § 2619. Citizens’ civil actions
 
 **(a) In general** Except as provided in subsection (b), any person may commence a civil action—
 
@@ -3175,15 +3175,15 @@ Notice under this subsection shall be given in such manner as the Administrator 
 
 The court issuing such an order shall give prompt notification of the order to the other courts in which the civil actions consolidated under the order are pending.
 
-(Pub. L. 94–469, title I, § 20, Oct. 11, 1976, 90 Stat. 2041; renumbered title I and amended Pub. L. 99–519, § 3(b)(3), (c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 102–550, title X, § 1021(b)(9), Oct. 28, 1992, 106 Stat. 3923; Pub. L. 114–182, title I, §§ 15, 19(n), June 22, 2016, 130 Stat. 498, 509.)
+(Pub. L. 94–469, title I, § 20, Oct. 11, 1976, 90 Stat. 2041; renumbered title I and amended Pub. L. 99–519, § 3(b)(3), (c)(1), Oct. 22, 1986, 100 Stat. 2989; Pub. L. 102–550, title X, § 1021(b)(9), Oct. 28, 1992, 106 Stat. 3923; Pub. L. 114–182, title I, §§ 15, 19(n), June 22, 2016, 130 Stat. 498, 509.)
 
 **Editorial Notes**
 
 **Amendments**
 
-Subsec. (a)(1). Pub. L. 114–182, § 19(n), substituted “order issued under section 2603 or 2604 of this title” for “order issued under section 2604 of this title”.
+Subsec. (a)(1). Pub. L. 114–182, § 19(n), substituted “order issued under section 2603 or 2604 of this title” for “order issued under section 2604 of this title”.
 
-Subsec. (b)(2), (3). Pub. L. 114–182, § 15, substituted “, except that no prior notification shall be required in the case of a civil action brought to compel a decision by the Administrator pursuant to section 2617(f)(3)(B) of this title; or” for period at end of par. (2) and added par. (3).
+Subsec. (b)(2), (3). Pub. L. 114–182, § 15, substituted “, except that no prior notification shall be required in the case of a civil action brought to compel a decision by the Administrator pursuant to section 2617(f)(3)(B) of this title; or” for period at end of par. (2) and added par. (3).
 
 1992—Subsec. (a)(1). Pub. L. 102–550 substituted “subchapter II or IV” for “subchapter II” in two places.
 
@@ -3195,7 +3195,7 @@ Subsec. (b)(2), (3). Pub. L. 114–182, § 15, substituted “, except that 
 
 Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
 
-### § 2620. Citizens’ petitions
+### § 2620. Citizens’ petitions
 
 **(a) In general**
 
@@ -3223,7 +3223,7 @@ Any person may petition the Administrator to initiate a proceeding for the issua
 
 **(ii)** in the case of a petition to initiate a proceeding for the issuance of a rule under section 2605(a) or 2607 of this title or an order under section 2604(f) of this title, the chemical substance or mixture to be subject to such rule or order presents an unreasonable risk of injury to health or the environment, without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed or susceptible subpopulation, under the conditions of use.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 the court shall order the Administrator to initiate the action requested by the petitioner. If the court finds that the extent of the risk to health or the environment alleged by the petitioner is less than the extent of risks to health or the environment with respect to which the Administrator is taking action under this chapter and there are insufficient resources available to the Administrator to take the action requested by the petitioner, the court may permit the Administrator to defer initiating the action requested by the petitioner until such time as the court prescribes.
 
@@ -3231,21 +3231,21 @@ the court shall order the Administrator to initiate the action requested by the 
 
 **(5)** The remedies under this section shall be in addition to, and not in lieu of, other remedies provided by law.
 
-(Pub. L. 94–469, title I, § 21, Oct. 11, 1976, 90 Stat. 2042; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, § 19(*o*), June 22, 2016, 130 Stat. 509.)
+(Pub. L. 94–469, title I, § 21, Oct. 11, 1976, 90 Stat. 2042; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, § 19(*o*), June 22, 2016, 130 Stat. 509.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Subsec. (a). Pub. L. 114–182, § 19(*o*)(1), substituted “order under section 2603 or 2604(e) or (f) of this title” for “order under section 2604(e) or 2605(b)(2) of this title”.
+2016—Subsec. (a). Pub. L. 114–182, § 19(*o*)(1), substituted “order under section 2603 or 2604(e) or (f) of this title” for “order under section 2604(e) or 2605(b)(2) of this title”.
 
-Subsec. (b)(1). Pub. L. 114–182, § 19(*o*)(2)(A), substituted “order under section 2603 or 2604(e) or (f) of this title” for “order under section 2604(e), 2605(b)(1)(A), or 2605(b)(1)(B) of this title”.
+Subsec. (b)(1). Pub. L. 114–182, § 19(*o*)(2)(A), substituted “order under section 2603 or 2604(e) or (f) of this title” for “order under section 2604(e), 2605(b)(1)(A), or 2605(b)(1)(B) of this title”.
 
-Subsec. (b)(4)(B). Pub. L. 114–182, § 19(*o*)(2)(B)(i), substituted “order under section 2603 or 2604(e) or (f) of this title” for “order under section 2604(e) or 2605(b)(2) of this title” in introductory provisions.
+Subsec. (b)(4)(B). Pub. L. 114–182, § 19(*o*)(2)(B)(i), substituted “order under section 2603 or 2604(e) or (f) of this title” for “order under section 2604(e) or 2605(b)(2) of this title” in introductory provisions.
 
-Subsec. (b)(4)(B)(i). Pub. L. 114–182, § 19(*o*)(2)(B)(ii), substituted “order under section 2603 or 2604(e) of this title” for “order under section 2604(e) of this title” in introductory provisions.
+Subsec. (b)(4)(B)(i). Pub. L. 114–182, § 19(*o*)(2)(B)(ii), substituted “order under section 2603 or 2604(e) of this title” for “order under section 2604(e) of this title” in introductory provisions.
 
-Subsec. (b)(4)(B)(ii). Pub. L. 114–182, § 19(*o*)(2)(B)(iii), substituted “section 2605(a) or 2607 of this title or an order under section 2604(f) of this title, the chemical substance or mixture to be subject to such rule or order presents an unreasonable risk of injury to health or the environment, without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed or susceptible subpopulation, under the conditions of use” for “section 2605 or 2607 of this title or an order under section 2605(b)(2) of this title, there is a reasonable basis to conclude that the issuance of such a rule or order is necessary to protect health or the environment against an unreasonable risk of injury to health or the environment”.
+Subsec. (b)(4)(B)(ii). Pub. L. 114–182, § 19(*o*)(2)(B)(iii), substituted “section 2605(a) or 2607 of this title or an order under section 2604(f) of this title, the chemical substance or mixture to be subject to such rule or order presents an unreasonable risk of injury to health or the environment, without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed or susceptible subpopulation, under the conditions of use” for “section 2605 or 2607 of this title or an order under section 2605(b)(2) of this title, there is a reasonable basis to conclude that the issuance of such a rule or order is necessary to protect health or the environment against an unreasonable risk of injury to health or the environment”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3253,11 +3253,11 @@ Subsec. (b)(4)(B)(ii). Pub. L. 114–182, § 19(*o*)(2)(B)(iii), substituted �
 
 Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
 
-### § 2621. National defense waiver
+### § 2621. National defense waiver
 
 The Administrator shall waive compliance with any provision of this chapter upon a request and determination by the President that the requested waiver is necessary in the interest of national defense. The Administrator shall maintain a written record of the basis upon which such waiver was granted and make such record available for in camera examination when relevant in a judicial proceeding under this chapter. Upon the issuance of such a waiver, the Administrator shall publish in the Federal Register a notice that the waiver was granted for national defense purposes, unless, upon the request of the President, the Administrator determines to omit such publication because the publication itself would be contrary to the interests of national defense, in which event the Administrator shall submit notice thereof to the Armed Services Committees of the Senate and the House of Representatives.
 
-(Pub. L. 94–469, title I, § 22, Oct. 11, 1976, 90 Stat. 2044; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
+(Pub. L. 94–469, title I, § 22, Oct. 11, 1976, 90 Stat. 2044; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3265,7 +3265,7 @@ The Administrator shall waive compliance with any provision of this chapter upon
 
 Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
 
-### § 2622. Employee protection
+### § 2622. Employee protection
 
 **(a) In general** No employer may discharge any employee or otherwise discriminate against any employee with respect to the employee’s compensation, terms, conditions, or privileges of employment because the employee (or any person acting pursuant to a request of the employee) has—
 
@@ -3299,7 +3299,7 @@ Whenever a person has failed to comply with an order issued under subsection (b)
 
 Subsection (a) of this section shall not apply with respect to any employee who, acting without direction from the employee’s employer (or any agent of the employer), deliberately causes a violation of any requirement of this chapter.
 
-(Pub. L. 94–469, title I, § 23, Oct. 11, 1976, 90 Stat. 2044; Pub. L. 98–620, title IV, § 402(19), Nov. 8, 1984, 98 Stat. 3358; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
+(Pub. L. 94–469, title I, § 23, Oct. 11, 1976, 90 Stat. 2044; Pub. L. 98–620, title IV, § 402(19), Nov. 8, 1984, 98 Stat. 3358; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
 
 **Editorial Notes**
 
@@ -3317,7 +3317,7 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
 
-### § 2623. Employment effects
+### § 2623. Employment effects
 
 **(a) In general** The Administrator shall evaluate on a continuing basis the potential effects on employment (including reductions in employment or loss of employment from threatened plant closures) of—
 
@@ -3349,7 +3349,7 @@ allegedly resulting from a rule or order under section 2603, 2604, or 2605 of th
 
 **(4)** This section shall not be construed to require the Administrator to amend or repeal any rule or order in effect under this chapter.
 
-(Pub. L. 94–469, title I, § 24, Oct. 11, 1976, 90 Stat. 2045; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, § 19(p), June 22, 2016, 130 Stat. 510.)
+(Pub. L. 94–469, title I, § 24, Oct. 11, 1976, 90 Stat. 2045; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, § 19(p), June 22, 2016, 130 Stat. 510.)
 
 **Editorial Notes**
 
@@ -3363,11 +3363,11 @@ allegedly resulting from a rule or order under section 2603, 2604, or 2605 of th
 
 Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
 
-### § 2624. Repealed. Pub. L. 114–182, title I, § 16, June 22, 2016, 130 Stat. 499
+### § 2624. Repealed. Pub. L. 114–182, title I, § 16, June 22, 2016, 130 Stat. 499
 
-Section, Pub. L. 94–469, title I, § 25, Oct. 11, 1976, 90 Stat. 2046; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989, required a study on indemnification for actions taken by the Administrator under Federal law.
+Section, Pub. L. 94–469, title I, § 25, Oct. 11, 1976, 90 Stat. 2046; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989, required a study on indemnification for actions taken by the Administrator under Federal law.
 
-### § 2625. Administration
+### § 2625. Administration
 
 **(a) Cooperation of Federal agencies** Upon request by the Administrator, each Federal department and agency is authorized—
 
@@ -3615,7 +3615,7 @@ Nothing in this chapter prevents the Administrator from initiating a risk evalua
 
 Nothing in this chapter requires the Administrator to revise or withdraw a completed risk evaluation, determination, or rule under this chapter solely because the action was completed prior to the development of a policy, procedure, or guidance pursuant to the amendments made by the Frank R. Lautenberg Chemical Safety for the 21st Century Act.
 
-(Pub. L. 94–469, title I, § 26, Oct. 11, 1976, 90 Stat. 2046; Pub. L. 98–80, § 2(c)(2)(A), Aug. 23, 1983, 97 Stat. 485; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §§ 17, 19(q), June 22, 2016, 130 Stat. 499, 510; Pub. L. 117–286, § 4(a)(69), Dec. 27, 2022, 136 Stat. 4313.)
+(Pub. L. 94–469, title I, § 26, Oct. 11, 1976, 90 Stat. 2046; Pub. L. 98–80, § 2(c)(2)(A), Aug. 23, 1983, 97 Stat. 485; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §§ 17, 19(q), June 22, 2016, 130 Stat. 499, 510; Pub. L. 117–286, § 4(a)(69), Dec. 27, 2022, 136 Stat. 4313.)
 
 **Editorial Notes**
 
@@ -3629,19 +3629,19 @@ The Frank R. Lautenberg Chemical Safety for the 21st Century Act, referred to in
 
 2022—Subsec. (b)(4)(E). Pub. L. 117–286 substituted “chapter 10 of title 5” for “the Federal Advisory Committee Act (5 U.S.C. App.)”.
 
-2016—Subsec. (b)(1). Pub. L. 114–182, § 17(1), struck out “of a reasonable fee” before “from any person”, substituted “information under section 2603 of this title or a notice or other information to be reviewed by the Administrator under section 2604 of this title, or who manufactures or processes a chemical substance that is the subject of a risk evaluation under section 2605(b) of this title, of a fee that is sufficient and not more than reasonably necessary to defray the cost related to such chemical substance of administering sections 2603, 2604, and 2605 of this title, and collecting, processing, reviewing, and providing access to and protecting from disclosure as appropriate under section 2613 of this title information on chemical substances under this subchapter, including contractor costs incurred by the Administrator” for “data under section 2603 or 2604 of this title to defray the cost of administering this chapter”, struck out “Such rules shall not provide for any fee in excess of $2,500 or, in the case of a small business concern, any fee in excess of $100.” before “In setting a fee”, and substituted “pay such fee and the cost to the Administrator of carrying out the activities described in this paragraph” for “submit the data and the cost to the Administrator of reviewing such data”.
+2016—Subsec. (b)(1). Pub. L. 114–182, § 17(1), struck out “of a reasonable fee” before “from any person”, substituted “information under section 2603 of this title or a notice or other information to be reviewed by the Administrator under section 2604 of this title, or who manufactures or processes a chemical substance that is the subject of a risk evaluation under section 2605(b) of this title, of a fee that is sufficient and not more than reasonably necessary to defray the cost related to such chemical substance of administering sections 2603, 2604, and 2605 of this title, and collecting, processing, reviewing, and providing access to and protecting from disclosure as appropriate under section 2613 of this title information on chemical substances under this subchapter, including contractor costs incurred by the Administrator” for “data under section 2603 or 2604 of this title to defray the cost of administering this chapter”, struck out “Such rules shall not provide for any fee in excess of $2,500 or, in the case of a small business concern, any fee in excess of $100.” before “In setting a fee”, and substituted “pay such fee and the cost to the Administrator of carrying out the activities described in this paragraph” for “submit the data and the cost to the Administrator of reviewing such data”.
 
-Subsec. (b)(2). Pub. L. 114–182, § 17(2)(A), substituted “paragraph (4)” for “paragraph (1)”.
+Subsec. (b)(2). Pub. L. 114–182, § 17(2)(A), substituted “paragraph (4)” for “paragraph (1)”.
 
-Subsec. (b)(3) to (6). Pub. L. 114–182, § 17(2)(B), added pars. (3) to (6).
+Subsec. (b)(3) to (6). Pub. L. 114–182, § 17(2)(B), added pars. (3) to (6).
 
-Subsec. (e). Pub. L. 114–182, § 19(q)(1), substituted “Health and Human Services” for “Health, Education, and Welfare” wherever appearing.
+Subsec. (e). Pub. L. 114–182, § 19(q)(1), substituted “Health and Human Services” for “Health, Education, and Welfare” wherever appearing.
 
-Subsec. (g)(1)(A). Pub. L. 114–182, § 19(q)(2), substituted “information” for “data”.
+Subsec. (g)(1)(A). Pub. L. 114–182, § 19(q)(2), substituted “information” for “data”.
 
-Subsecs. (h) to (p). Pub. L. 114–182, § 17(3), added subsecs. (h) to (p).
+Subsecs. (h) to (p). Pub. L. 114–182, § 17(3), added subsecs. (h) to (p).
 
-1983—Subsec. (g)(2). Pub. L. 98–80 struck out “(A)” before “be in addition” and “, and (B) be compensated at the rate of pay authorized for such Assistant Administrators” after “No. 3 of 1970”.
+1983—Subsec. (g)(2). Pub. L. 98–80 struck out “(A)” before “be in addition” and “, and (B) be compensated at the rate of pay authorized for such Assistant Administrators” after “No. 3 of 1970”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3653,7 +3653,7 @@ Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a
 
 For termination, effective May 15, 2000, of provisions in subsec. (e)(2)(B) of this section relating to annual reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and pages 93 and 164 of House Document No. 103–7.
 
-### § 2626. Development and evaluation of test methods
+### § 2626. Development and evaluation of test methods
 
 **(a) In general**
 
@@ -3663,13 +3663,13 @@ The Secretary of Health and Human Services, in consultation with the Administrat
 
 No grant may be made or contract entered into under subsection (a) unless an application therefor has been submitted to and approved by the Secretary. Such an application shall be submitted in such form and manner and contain such information as the Secretary may require. The Secretary may apply such conditions to grants and contracts under subsection (a) as the Secretary determines are necessary to carry out the purposes of such subsection. Contracts may be entered into under such subsection without regard to section 3324(a) and (b) of title 31 and section 6101 of title 41.
 
-(Pub. L. 94–469, title I, § 27, Oct. 11, 1976, 90 Stat. 2049; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 104–66, title I, § 1061(a), Dec. 21, 1995, 109 Stat. 719; Pub. L. 114–182, title I, § 19(r), June 22, 2016, 130 Stat. 510.)
+(Pub. L. 94–469, title I, § 27, Oct. 11, 1976, 90 Stat. 2049; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 104–66, title I, § 1061(a), Dec. 21, 1995, 109 Stat. 719; Pub. L. 114–182, title I, § 19(r), June 22, 2016, 130 Stat. 510.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (b), “section 3324(a) and (b) of title 31 and section 6101 of title 41” substituted for “sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529; 41 U.S.C. 5)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b), “section 3324(a) and (b) of title 31 and section 6101 of title 41” substituted for “sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529; 41 U.S.C. 5)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
@@ -3687,7 +3687,7 @@ In subsec. (b), “section 3324(a) and (b) of title 31 and section 6101 of title
 
 Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
 
-### § 2627. State programs
+### § 2627. State programs
 
 **(a) In general**
 
@@ -3711,7 +3711,7 @@ For the purpose of complementing (but not reducing) the authority of, or actions
 
 **(2)** The Administrator may approve an application submitted in accordance with paragraph (1) only if the applicant has established to the satisfaction of the Administrator a priority need, as determined under rules of the Administrator, for the grant for which the application has been submitted. Such rules shall take into consideration the seriousness of the health effects in a State which are associated with chemical substances or mixtures, including cancer, birth defects, and gene mutations, the extent of the exposure in a State of human beings and the environment to chemical substances and mixtures, and the extent to which chemical substances and mixtures are manufactured, processed, used, and disposed of in a State.
 
-(Pub. L. 94–469, title I, § 28, Oct. 11, 1976, 90 Stat. 2049; Pub. L. 97–129, § 1(a), Dec. 29, 1981, 95 Stat. 1686; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, § 18, June 22, 2016, 130 Stat. 505.)
+(Pub. L. 94–469, title I, § 28, Oct. 11, 1976, 90 Stat. 2049; Pub. L. 97–129, § 1(a), Dec. 29, 1981, 95 Stat. 1686; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, § 18, June 22, 2016, 130 Stat. 505.)
 
 **Editorial Notes**
 
@@ -3731,11 +3731,11 @@ For the purpose of complementing (but not reducing) the authority of, or actions
 
 Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
 
-### § 2628. Authorization of appropriations
+### § 2628. Authorization of appropriations
 
 There are authorized to be appropriated to the Administrator for purposes of carrying out this chapter (other than sections 2626 and 2627 of this title and subsections (a) and (c) through (g) of section 2609 of this title) $58,646,000 for the fiscal year 1982 and $62,000,000 for the fiscal year 1983. No part of the funds appropriated under this section may be used to construct any research laboratories.
 
-(Pub. L. 94–469, title I, § 29, Oct. 11, 1976, 90 Stat. 2050; Pub. L. 97–129, § 1(b), Dec. 29, 1981, 95 Stat. 1686; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
+(Pub. L. 94–469, title I, § 29, Oct. 11, 1976, 90 Stat. 2050; Pub. L. 97–129, § 1(b), Dec. 29, 1981, 95 Stat. 1686; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
 
 **Editorial Notes**
 
@@ -3749,7 +3749,7 @@ There are authorized to be appropriated to the Administrator for purposes of car
 
 Section effective Jan. 1, 1977, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
 
-### § 2629. Annual report
+### § 2629. Annual report
 
 The Administrator shall prepare and submit to the President and the Congress on or before January 1, 1978, and on or before January 1 of each succeeding year a comprehensive report on the administration of this chapter during the preceding fiscal year. Such reports shall include—
 
@@ -3765,7 +3765,7 @@ The Administrator shall prepare and submit to the President and the Congress on 
 
 **(6)** such recommendations for additional legislation as the Administrator deems necessary to carry out the purposes of this chapter.
 
-(Pub. L. 94–469, title I, § 30, Oct. 11, 1976, 90 Stat. 2050; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, § 19(s), June 22, 2016, 130 Stat. 510.)
+(Pub. L. 94–469, title I, § 30, Oct. 11, 1976, 90 Stat. 2050; renumbered title I, Pub. L. 99–519, § 3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, § 19(s), June 22, 2016, 130 Stat. 510.)
 
 **Editorial Notes**
 
@@ -3785,7 +3785,7 @@ For termination, effective May 15, 2000, of provisions in this section relating 
 
 ## SUBCHAPTER II—ASBESTOS HAZARD EMERGENCY RESPONSE
 
-### § 2641. Congressional findings and purpose
+### § 2641. Congressional findings and purpose
 
 **(a) Findings** The Congress finds the following:
 
@@ -3805,9 +3805,9 @@ For termination, effective May 15, 2000, of provisions in this section relating 
 
 **(3)** to require the Administrator to conduct a study to find out the extent of the danger to human health posed by asbestos in public and commercial buildings and the means to respond to any such danger.
 
-(Pub. L. 94–469, title II, § 201, as added Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2970.)
+(Pub. L. 94–469, title II, § 201, as added Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2970.)
 
-### § 2642. Definitions
+### § 2642. Definitions
 
 For purposes of this subchapter—
 
@@ -3887,21 +3887,21 @@ The term “school” means any elementary school or secondary school as defined
 
 The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Northern Marianas, the Trust Territory of the Pacific Islands, and the Virgin Islands.
 
-(Pub. L. 94–469, title II, § 202, as added Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2971; amended Pub. L. 103–382, title III, § 391(c)(1)–(3), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 107–110, title X, § 1076(f)(1), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 114–95, title IX, § 9215(xxx)(1), Dec. 10, 2015, 129 Stat. 2191.)
+(Pub. L. 94–469, title II, § 202, as added Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2971; amended Pub. L. 103–382, title III, § 391(c)(1)–(3), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 107–110, title X, § 1076(f)(1), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 114–95, title IX, § 9215(xxx)(1), Dec. 10, 2015, 129 Stat. 2191.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Defense Dependents’ Education Act of 1978, referred to in par. (7)(C), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, which is classified principally to chapter 25A (§ 921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
+The Defense Dependents’ Education Act of 1978, referred to in par. (7)(C), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, which is classified principally to chapter 25A (§ 921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
 
 **Amendments**
 
-2015—Par. (7)(A). Pub. L. 114–95, § 9215(xxx)(1)(A), made technical amendment to reference in original act which appears in text as reference to section 7801 of title 20.
+2015—Par. (7)(A). Pub. L. 114–95, § 9215(xxx)(1)(A), made technical amendment to reference in original act which appears in text as reference to section 7801 of title 20.
 
-Par. (9). Pub. L. 114–95, § 9215(xxx)(1)(B), substituted “any elementary school or secondary school (as defined in section 7801 of title 20)” for “any elementary or secondary school (as defined in section 7801 of title 20)”.
+Par. (9). Pub. L. 114–95, § 9215(xxx)(1)(B), substituted “any elementary school or secondary school (as defined in section 7801 of title 20)” for “any elementary or secondary school (as defined in section 7801 of title 20)”.
 
-Par. (12). Pub. L. 114–95, § 9215(xxx)(1)(C), substituted “elementary school or secondary school as defined in section 7801 of title 20” for “elementary or secondary school as defined in section 7801 of title 20”.
+Par. (12). Pub. L. 114–95, § 9215(xxx)(1)(C), substituted “elementary school or secondary school as defined in section 7801 of title 20” for “elementary or secondary school as defined in section 7801 of title 20”.
 
 2002—Pars. (7)(A), (9), (12). Pub. L. 107–110 substituted “7801” for “8801”.
 
@@ -3923,7 +3923,7 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-### § 2643. EPA regulations
+### § 2643. EPA regulations
 
 **(a) In general**
 
@@ -3983,9 +3983,9 @@ In the case of a response action for the circumstances described in subsection (
 
 **(6) “Preventive measures” defined**
 
-For purposes of this section, the term “preventive measures” means actions which eliminate the reasonable likelihood of asbestos-containing material becoming damaged, deteriorated, or delaminated, or significantly damaged 1
+For purposes of this section, the term “preventive measures” means actions which eliminate the reasonable likelihood of asbestos-containing material becoming damaged, deteriorated, or delaminated, or significantly damaged 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 deteriorated, or delaminated (as the case may be) or which protect human health and the environment.
 
@@ -4005,7 +4005,7 @@ Such information or advisory shall be based on the best available scientific evi
 
 **(2)** Response Action.2
 
-<sup>2</sup>  So in original. Probably should not be capitalized.
+<sup>2</sup> So in original. Probably should not be capitalized.
 
 **(3)** Post-response action, including any periodic reinspection of asbestos-containing material and long-term surveillance activity.
 
@@ -4103,19 +4103,19 @@ The Secretary of Defense, in cooperation with the Administrator, shall, to the e
 
 The Administrator, upon request by a Governor and after notice and comment and opportunity for a public hearing in the affected State, may waive some or all of the requirements of this section and section 2644 of this title with respect to such State if it has established and is implementing a program of asbestos inspection and management that contains requirements that are at least as stringent as the requirements of this section and section 2644 of this title.
 
-(Pub. L. 94–469, title II, § 203, as added Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2972; amended Pub. L. 101–637, § 13, Nov. 28, 1990, 104 Stat. 4593.)
+(Pub. L. 94–469, title II, § 203, as added Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2972; amended Pub. L. 101–637, § 13, Nov. 28, 1990, 104 Stat. 4593.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Defense Dependents’ Education Act of 1978, referred to in subsec. (*l*)(1), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, which is classified principally to chapter 25A (§ 921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
+The Defense Dependents’ Education Act of 1978, referred to in subsec. (*l*)(1), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, which is classified principally to chapter 25A (§ 921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
 
 **Amendments**
 
 1990—Subsec. (d)(7). Pub. L. 101–637 added par. (7).
 
-### § 2644. Requirements if EPA fails to promulgate regulations
+### § 2644. Requirements if EPA fails to promulgate regulations
 
 **(a) In general**
 
@@ -4161,7 +4161,7 @@ The local educational agency shall, within 720 days after October 22, 1986, deve
 
 **(A)** include the elements listed in section 2643(i)(1) of this title, including an inspection statement as described in paragraph (3) of this section,1
 
-<sup>1</sup>  So in original. Probably should be “subsection,”.
+<sup>1</sup> So in original. Probably should be “subsection,”.
 
 **(B)** provide for the attachment of warning labels as described in section 2643(i)(3) of this title,
 
@@ -4211,9 +4211,9 @@ The local educational agency shall provide for the protection of building occupa
 
 The local educational agency shall provide for the transportation and disposal of asbestos in accordance with the most recent version of the Environmental Protection Agency’s “Asbestos Waste Management Guidance” (or any successor to such document).
 
-(Pub. L. 94–469, title II, § 204, as added Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2977.)
+(Pub. L. 94–469, title II, § 204, as added Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2977.)
 
-### § 2645. Submission to State Governor
+### § 2645. Submission to State Governor
 
 **(a) Submission**
 
@@ -4321,17 +4321,17 @@ The approval of a deferral request from a local educational agency shall not be 
 
 **(D)** A list containing each local educational agency that failed to submit a management plan as of October 9, 1989.
 
-(Pub. L. 94–469, title II, § 205, as added Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2979; amended Pub. L. 100–368, §§ 1(a), 2, July 18, 1988, 102 Stat. 829, 831.)
+(Pub. L. 94–469, title II, § 205, as added Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2979; amended Pub. L. 100–368, §§ 1(a), 2, July 18, 1988, 102 Stat. 829, 831.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsec. (d). Pub. L. 100–368, § 1(a), added subsec. (d).
+1988—Subsec. (d). Pub. L. 100–368, § 1(a), added subsec. (d).
 
-Subsec. (e). Pub. L. 100–368, § 2, added subsec. (e).
+Subsec. (e). Pub. L. 100–368, § 2, added subsec. (e).
 
-### § 2646. Contractor and laboratory accreditation
+### § 2646. Contractor and laboratory accreditation
 
 **(a) Contractor accreditation** A person may not—
 
@@ -4355,9 +4355,9 @@ unless such person is accredited by a State under subsection (b) or is accredite
 
 **(iii)** Persons who design or carry out response actions, other than the type of action described in sections 2643(f) and 2644(c) of this title, with respect to friable asbestos-containing material in such schools or in public or commercial buildings.
 
-**(B) Plan requirements** The plan shall include a requirement that any person in a category listed in paragraph (1) 1
+**(B) Plan requirements** The plan shall include a requirement that any person in a category listed in paragraph (1) 1
 
-<sup>1</sup>  So in original. Probably should be “subparagraph (A)”.
+<sup>1</sup> So in original. Probably should be “subparagraph (A)”.
 
 achieve a passing grade on an examination and participate in continuing education to stay informed about current asbestos inspection and response action technology. The examination shall demonstrate the knowledge of the person in areas that the Administrator prescribes as necessary and appropriate in each of the categories. Such examinations may include requirements for knowledge in the following areas:
 
@@ -4441,21 +4441,21 @@ may be accredited under paragraph (1) if the Administrator determines that the c
 
 Not later than August 31, 1988, and every three months thereafter until August 31, 1991, the Administrator shall publish in the Federal Register a list of all Environmental Protection Agency-approved asbestos training courses for persons to achieve accreditation in each category described in subsection (b)(1)(A) and for laboratories to achieve accreditation. The Administrator may continue publishing such a list after August 31, 1991, at such times as the Administrator considers it useful. The list shall include the name and address of each approved trainer and, to the extent available, a list of all the geographic sites where training courses will take place. The Administrator shall provide a copy of the list to each State official on the list published by the Administrator under section 2645(d)(6) of this title and to each regional office of the Environmental Protection Agency.
 
-(Pub. L. 94–469, title II, § 206, as added Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2980; amended Pub. L. 100–368, § 3, July 18, 1988, 102 Stat. 832; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 101–637, § 15(a)(1), (2), Nov. 28, 1990, 104 Stat. 4596.)
+(Pub. L. 94–469, title II, § 206, as added Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2980; amended Pub. L. 100–368, § 3, July 18, 1988, 102 Stat. 832; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 101–637, § 15(a)(1), (2), Nov. 28, 1990, 104 Stat. 4596.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Defense Dependents’ Education Act of 1978, referred to in subsec. (b)(2), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, which is classified principally to chapter 25A (§ 921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
+The Defense Dependents’ Education Act of 1978, referred to in subsec. (b)(2), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, which is classified principally to chapter 25A (§ 921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
 
-The Asbestos School Hazard Abatement Act of 1984, referred to in subsec. (e)(2), is title V of Pub. L. 98–377, Aug. 11, 1984, 98 Stat. 1287, which is classified generally to subchapter V (§ 4011 et seq.) of chapter 52 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 4011 of Title 20 and Tables.
+The Asbestos School Hazard Abatement Act of 1984, referred to in subsec. (e)(2), is title V of Pub. L. 98–377, Aug. 11, 1984, 98 Stat. 1287, which is classified generally to subchapter V (§ 4011 et seq.) of chapter 52 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 4011 of Title 20 and Tables.
 
 **Amendments**
 
-1990—Subsec. (a)(1), (3). Pub. L. 101–637, § 15(a)(1), inserted before comma at end “or in a public or commercial building”.
+1990—Subsec. (a)(1), (3). Pub. L. 101–637, § 15(a)(1), inserted before comma at end “or in a public or commercial building”.
 
-Subsec. (b)(1)(A)(i), (iii). Pub. L. 101–637, § 15(a)(2), inserted before period at end “or in public or commercial buildings”.
+Subsec. (b)(1)(A)(i), (iii). Pub. L. 101–637, § 15(a)(2), inserted before period at end “or in public or commercial buildings”.
 
 1988—Subsec. (d)(1), (2). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards” wherever appearing.
 
@@ -4465,17 +4465,17 @@ Subsec. (f). Pub. L. 100–368 added subsec. (f).
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–637, § 15(c), Nov. 28, 1990, 104 Stat. 4597, provided that: “This section [amending this section and section 2647 of this title and enacting provisions set out as notes under this section] shall take effect upon the expiration of the 12-month period following the date of the enactment of this Act [Nov. 28, 1990]. The Administrator may extend the effective date for a period not to exceed one year if the Administrator determines that accredited asbestos contractors are needed to perform school-site abatement required under the Asbestos Hazard Emergency Response Act [of 1986] (15 U.S.C. 2641) and such an extension is necessary to ensure effective implementation of section 203 of the Toxic Substances Control Act [15 U.S.C. 2643].”
+Pub. L. 101–637, § 15(c), Nov. 28, 1990, 104 Stat. 4597, provided that: “This section [amending this section and section 2647 of this title and enacting provisions set out as notes under this section] shall take effect upon the expiration of the 12-month period following the date of the enactment of this Act [Nov. 28, 1990]. The Administrator may extend the effective date for a period not to exceed one year if the Administrator determines that accredited asbestos contractors are needed to perform school-site abatement required under the Asbestos Hazard Emergency Response Act [of 1986] (15 U.S.C. 2641) and such an extension is necessary to ensure effective implementation of section 203 of the Toxic Substances Control Act [15 U.S.C. 2643].”
 
 **Revision of Model Contractor Accreditation Program**
 
-Pub. L. 101–637, § 15(a)(3), Nov. 28, 1990, 104 Stat. 4596, provided that: “Not later than one year after the date of the enactment of this Act [Nov. 28, 1990], the Administrator of the Environmental Protection Agency shall revise the model contractor accreditation plan promulgated under section 206(b)(1) of the Toxic Substances Control Act (15 U.S.C. 2646(b)(1)) to increase the minimum number of hours of training, including additional hours of hands-on health and safety training, required for asbestos abatement workers and to make such other changes as may be necessary to implement the amendments made by paragraphs (1) and (2) [amending this section].”
+Pub. L. 101–637, § 15(a)(3), Nov. 28, 1990, 104 Stat. 4596, provided that: “Not later than one year after the date of the enactment of this Act [Nov. 28, 1990], the Administrator of the Environmental Protection Agency shall revise the model contractor accreditation plan promulgated under section 206(b)(1) of the Toxic Substances Control Act (15 U.S.C. 2646(b)(1)) to increase the minimum number of hours of training, including additional hours of hands-on health and safety training, required for asbestos abatement workers and to make such other changes as may be necessary to implement the amendments made by paragraphs (1) and (2) [amending this section].”
 
 **EPA Administrator Not Exercising “Statutory Authority” Under OSHA Law in Exercising Authority Under This Chapter**
 
-Pub. L. 101–637, § 15(b), Nov. 28, 1990, 104 Stat. 4596, provided that: “In exercising any authority under the Toxic Substances Control Act [15 U.S.C. 2601 et seq.] in connection with the amendment made by subsection (a) of this section [amending this section and section 2647 of this title], the Administrator of the Environmental Protection Agency shall not, for purposes of section 4(b)(1) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 653(b)(1)), be considered to be exercising statutory authority to prescribe or enforce standards or regulations affecting occupational safety and health.”
+Pub. L. 101–637, § 15(b), Nov. 28, 1990, 104 Stat. 4596, provided that: “In exercising any authority under the Toxic Substances Control Act [15 U.S.C. 2601 et seq.] in connection with the amendment made by subsection (a) of this section [amending this section and section 2647 of this title], the Administrator of the Environmental Protection Agency shall not, for purposes of section 4(b)(1) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 653(b)(1)), be considered to be exercising statutory authority to prescribe or enforce standards or regulations affecting occupational safety and health.”
 
-### § 2647. Enforcement
+### § 2647. Enforcement
 
 **(a) Penalties** Any local educational agency—
 
@@ -4489,7 +4489,7 @@ Pub. L. 101–637, § 15(b), Nov. 28, 1990, 104 Stat. 4596, provided that: “
 
 **(5)** which knowingly submits false information to the Governor regarding a deferral request under section 2645(d) of this title.1
 
-<sup>1</sup>  So in original. The period probably should be a comma.
+<sup>1</sup> So in original. The period probably should be a comma.
 
 is liable for a civil penalty of not more than $5,000 for each day during which the violation continues. Any civil penalty under this subsection shall be assessed and collected in the same manner, and subject to the same provisions, as in the case of civil penalties assessed and collected under section 2615 of this title. For purposes of this subsection, a “violation” means a failure to comply with respect to a single school building. The court shall order that any civil penalty collected under this subsection be used by the local educational agency for purposes of complying with this subchapter. Any portion of a civil penalty remaining unspent after compliance by a local educational agency is completed shall be deposited into the Asbestos Trust Fund established by section 4022 of title 20.
 
@@ -4543,7 +4543,7 @@ Any person may file a complaint with the Administrator or with the Governor of t
 
 and who fails to obtain the accreditation under section 2646 of this title, or in the case of employees to require or provide for the accreditation required, is liable for a civil penalty of not more than $5,000 for each day during which the violation continues, unless such contractor is a direct employee of the Federal Government.
 
-(Pub. L. 94–469, title II, § 207, as added Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2983; amended Pub. L. 100–368, § 5, July 18, 1988, 102 Stat. 833; Pub. L. 101–637, § 15(a)(4), Nov. 28, 1990, 104 Stat. 4596.)
+(Pub. L. 94–469, title II, § 207, as added Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2983; amended Pub. L. 100–368, § 5, July 18, 1988, 102 Stat. 833; Pub. L. 101–637, § 15(a)(4), Nov. 28, 1990, 104 Stat. 4596.)
 
 **Editorial Notes**
 
@@ -4563,7 +4563,7 @@ Amendment by Pub. L. 101–637 effective upon expiration of 12-month period foll
 
 In exercising any authority under this chapter in connection with amendment made by Pub. L. 101–637, Administrator of Environmental Protection Agency not, for purposes of section 653(b)(1) of Title 29, Labor, to be considered to be exercising statutory authority to prescribe or enforce standards or regulations affecting occupational safety and health, see section 15(b) of Pub. L. 101–637, set out as a note under section 2646 of this title.
 
-### § 2648. Emergency authority
+### § 2648. Emergency authority
 
 **(a) Emergency action**
 
@@ -4597,9 +4597,9 @@ The Administrator or the Governor of a State may seek reimbursement for all cost
 
 to secure such relief as may be necessary to respond to the hazard. The district court of the United States in the district in which the response will be carried out shall have jurisdiction to grant such relief, including injunctive relief.
 
-(Pub. L. 94–469, title II, § 208, as added Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2985.)
+(Pub. L. 94–469, title II, § 208, as added Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2985.)
 
-### § 2649. State and Federal law
+### § 2649. State and Federal law
 
 **(a) No preemption**
 
@@ -4621,9 +4621,9 @@ Nothing in this subchapter creates a cause of action or in any other way increas
 
 It is not the intent of Congress that this subchapter or rules, regulations, or orders issued pursuant to this subchapter be interpreted as influencing, in either the plaintiff’s or defendant’s favor, the disposition of any civil action for damages relating to asbestos. This subsection does not affect the authority of any court to make a determination in an adjudicatory proceeding under applicable State law with respect to the admission into evidence or any other use of this subchapter or rules, regulations, or orders issued pursuant to this subchapter.
 
-(Pub. L. 94–469, title II, § 209, as added Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2986.)
+(Pub. L. 94–469, title II, § 209, as added Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2986.)
 
-### § 2650. Asbestos contractors and local educational agencies
+### § 2650. Asbestos contractors and local educational agencies
 
 **(a) Study**
 
@@ -4653,9 +4653,9 @@ Not later than October 1, 1990, the Administrator shall submit to the Congress a
 
 On the basis of the interim report or the final report of the study required by subsection (a), a State may enact or amend State law to establish or modify a standard of liability for local educational agencies or asbestos contractors with respect to actions required under this subchapter.
 
-(Pub. L. 94–469, title II, § 210, as added Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2986.)
+(Pub. L. 94–469, title II, § 210, as added Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2986.)
 
-### § 2651. Public protection
+### § 2651. Public protection
 
 **(a) Public protection**
 
@@ -4665,9 +4665,9 @@ No State or local educational agency may discriminate against a person in any wa
 
 Any public or private employee or representative of employees who believes he or she has been fired or otherwise discriminated against in violation of subsection (a) may within 90 days after the alleged violation occurs apply to the Secretary of Labor for a review of the firing or alleged discrimination. The review shall be conducted in accordance with section 660(c) of title 29.
 
-(Pub. L. 94–469, title II, § 211, as added Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2987.)
+(Pub. L. 94–469, title II, § 211, as added Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2987.)
 
-### § 2652. Asbestos Ombudsman
+### § 2652. Asbestos Ombudsman
 
 **(a) Appointment**
 
@@ -4681,9 +4681,9 @@ The Administrator shall appoint an Asbestos Ombudsman, who shall carry out the d
 
 **(3)** to make such recommendations to the Administrator as the Ombudsman considers appropriate.
 
-(Pub. L. 94–469, title II, § 212, as added Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2987.)
+(Pub. L. 94–469, title II, § 212, as added Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2987.)
 
-### § 2653. EPA study of asbestos-containing material in public buildings
+### § 2653. EPA study of asbestos-containing material in public buildings
 
 Within 360 days after October 22, 1986, the Administrator shall conduct and submit to the Congress the results of a study which shall—
 
@@ -4697,15 +4697,15 @@ Within 360 days after October 22, 1986, the Administrator shall conduct and subm
 
 **(5)** include recommendations that explicitly address whether there is a need to establish standards for, and regulate asbestos exposure in, public and commercial buildings.
 
-(Pub. L. 94–469, title II, § 213, as added Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2987.)
+(Pub. L. 94–469, title II, § 213, as added Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2987.)
 
-### § 2654. Transitional rules
+### § 2654. Transitional rules
 
 Any regulation of the Environmental Protection Agency under subchapter I which is inconsistent with this subchapter shall not be in effect after October 22, 1986. Any advanced notice of proposed rulemaking, any proposed rule, and any regulation of the Environmental Protection Agency in effect before October 22, 1986, which is consistent with the regulations required under section 2643 of this title shall remain in effect and may be used to meet the requirements of section 2643 of this title, except that any such regulation shall be enforced under this chapter.
 
-(Pub. L. 94–469, title II, § 214, as added Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2988.)
+(Pub. L. 94–469, title II, § 214, as added Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2988.)
 
-### § 2655. Worker protection
+### § 2655. Worker protection
 
 **(a) Prohibition on certain activities** Until the local educational agency with authority over a school has submitted a management plan (for the school) which the State Governor has not disapproved as of the end of the period for review and revision of the plan under section 2645 of this title, the local educational agency may not do either of the following in the school:
 
@@ -4737,15 +4737,15 @@ Any regulation of the Environmental Protection Agency under subchapter I which i
 
 **(2)** the structural integrity of the building.
 
-(Pub. L. 94–469, title II, § 215, as added Pub. L. 100–368, § 4(a), July 18, 1988, 102 Stat. 832.)
+(Pub. L. 94–469, title II, § 215, as added Pub. L. 100–368, § 4(a), July 18, 1988, 102 Stat. 832.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 100–368, § 4(c), July 18, 1988, 102 Stat. 833, provided that: “Section 215 of the Toxic Substances Control Act [this section], as added by subsection (a), shall take effect on October 12, 1988.”
+Pub. L. 100–368, § 4(c), July 18, 1988, 102 Stat. 833, provided that: “Section 215 of the Toxic Substances Control Act [this section], as added by subsection (a), shall take effect on October 12, 1988.”
 
-### § 2656. Training grants
+### § 2656. Training grants
 
 **(a) Grants**
 
@@ -4755,27 +4755,27 @@ The Administrator is authorized to award grants under this section to nonprofit 
 
 Of such sums as are authorized to be appropriated pursuant to section 4021(a) of title 20 for the fiscal years 1991, 1992, 1993, 1994, and 1995, not more than $5,000,000 are authorized to be appropriated to carry out this section in each such fiscal year.
 
-(Pub. L. 94–469, title II, § 216, as added Pub. L. 101–637, § 16(a)(1), Nov. 28, 1990, 104 Stat. 4597.)
+(Pub. L. 94–469, title II, § 216, as added Pub. L. 101–637, § 16(a)(1), Nov. 28, 1990, 104 Stat. 4597.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 101–637, § 16(b), Nov. 28, 1990, 104 Stat. 4598, provided that: “Section 216 of the Toxic Substances Control Act [this section], as added by subsection (a), shall take effect on the date of the enactment of this Act [Nov. 28, 1990].”
+Pub. L. 101–637, § 16(b), Nov. 28, 1990, 104 Stat. 4598, provided that: “Section 216 of the Toxic Substances Control Act [this section], as added by subsection (a), shall take effect on the date of the enactment of this Act [Nov. 28, 1990].”
 
 ## SUBCHAPTER III—INDOOR RADON ABATEMENT
 
-### § 2661. National goal
+### § 2661. National goal
 
 The national long-term goal of the United States with respect to radon levels in buildings is that the air within buildings in the United States should be as free of radon as the ambient air outside of buildings.
 
-(Pub. L. 94–469, title III, § 301, as added Pub. L. 100–551, § 1(a), Oct. 28, 1988, 102 Stat. 2755.)
+(Pub. L. 94–469, title III, § 301, as added Pub. L. 100–551, § 1(a), Oct. 28, 1988, 102 Stat. 2755.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Report on Recommended Policy for Dealing With Radon in Assisted Housing**
 
-Pub. L. 100–628, title X, § 1091, Nov. 7, 1988, 102 Stat. 3283, provided that:
+Pub. L. 100–628, title X, § 1091, Nov. 7, 1988, 102 Stat. 3283, provided that:
 
 > **“(a) Purposes.—** The purposes of this section are—
 
@@ -4823,7 +4823,7 @@ Pub. L. 100–628, title X, § 1091, Nov. 7, 1988, 102 Stat. 3283, provided th
 
 > **“(e) Authorization.—** Funds available for housing covered by this section shall be available to carry out this section with respect to such housing.”
 
-### § 2662. Definitions
+### § 2662. Definitions
 
 For purposes of this subchapter:
 
@@ -4835,9 +4835,9 @@ For purposes of this subchapter:
 
 **(C)** the governing authority of any school operated pursuant to section 241 of title 20, as in effect before enactment of the Improving America’s Schools Act of 1994, or successor authority, relating to impact aid for children who reside on Federal property.
 
-**(2)** The term “nonprofit elementary or secondary school” has the meaning given such term by section 2642(8) 1
+**(2)** The term “nonprofit elementary or secondary school” has the meaning given such term by section 2642(8) 1
 
-<sup>1</sup>  So in original. Probably should be section “2642(9)”.
+<sup>1</sup> So in original. Probably should be section “2642(9)”.
 
 of this title.
 
@@ -4845,13 +4845,13 @@ of this title.
 
 **(4)** The term “school building” has the meaning given such term by section 2642(13) of this title.
 
-(Pub. L. 94–469, title III, § 302, as added Pub. L. 100–551, § 1(a), Oct. 28, 1988, 102 Stat. 2755; amended Pub. L. 103–382, title III, § 391(c)(4), 392(b)(2), Oct. 20, 1994, 108 Stat. 4022, 4026; Pub. L. 107–110, title X, § 1076(f)(2), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 114–95, title IX, § 9215(xxx)(2), Dec. 10, 2015, 129 Stat. 2191.)
+(Pub. L. 94–469, title III, § 302, as added Pub. L. 100–551, § 1(a), Oct. 28, 1988, 102 Stat. 2755; amended Pub. L. 103–382, title III, § 391(c)(4), 392(b)(2), Oct. 20, 1994, 108 Stat. 4022, 4026; Pub. L. 107–110, title X, § 1076(f)(2), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 114–95, title IX, § 9215(xxx)(2), Dec. 10, 2015, 129 Stat. 2191.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 241 of title 20, as in effect before enactment of the Improving America’s Schools Act of 1994, referred to in par. (1)(C), means section 241 of Title 20, Education, prior to its repeal by Pub. L. 103–382, title III, § 331(b), Oct. 20, 1994, 108 Stat. 3965.
+Section 241 of title 20, as in effect before enactment of the Improving America’s Schools Act of 1994, referred to in par. (1)(C), means section 241 of Title 20, Education, prior to its repeal by Pub. L. 103–382, title III, § 331(b), Oct. 20, 1994, 108 Stat. 3965.
 
 **Amendments**
 
@@ -4859,7 +4859,7 @@ Section 241 of title 20, as in effect before enactment of the Improving America�
 
 2002—Par. (1)(A). Pub. L. 107–110 substituted “7801” for “8801”.
 
-1994—Par. (1)(A). Pub. L. 103–382, § 391(c)(4)(A), made technical amendment to reference to section 8801 of title 20 to reflect change in reference to corresponding section of original act.
+1994—Par. (1)(A). Pub. L. 103–382, § 391(c)(4)(A), made technical amendment to reference to section 8801 of title 20 to reflect change in reference to corresponding section of original act.
 
 Par. (1)(C). Pub. L. 103–382 directed two separate amendments of par. (1)(C), the first, by section 391(c)(4)(B) of Pub. L. 103–382, directed the insertion of “or successor authority” immediately after “section 241 of title 20”, the second, by section 392(b)(2) of Pub. L. 103–382, directed the insertion (without reference to the first amendment) of “as in effect before enactment of the Improving America’s Schools Act of 1994” immediately after “section 241 of title 20,”. Literal execution of the second amendment was not possible, as “section 241 of title 20,” was amended to read “section 241 of title 20 or successor authority,” by the first amendment. Commas were editorially inserted before and after the phrase added by the second amendment and it was inserted immediately after “section 241 of title 20” to reflect the probable intent of Congress.
 
@@ -4873,7 +4873,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 
-### § 2663. EPA citizen’s guide
+### § 2663. EPA citizen’s guide
 
 **(a) Publication**
 
@@ -4893,23 +4893,23 @@ The updated citizen’s guide published as provided in subsection (a) shall incl
 
 **(C)** The cost and technological feasibility of reducing radon concentrations within existing and new buildings.
 
-**(D)** The relationship between short-term and long-term testing techniques and the relationship between (i) measurements based on both such techniques, and (ii) the actions 1
+**(D)** The relationship between short-term and long-term testing techniques and the relationship between (i) measurements based on both such techniques, and (ii) the actions 1
 
-<sup>1</sup>  So in original. Probably should be “action”.
+<sup>1</sup> So in original. Probably should be “action”.
 
 levels set forth as provided in paragraph (1).
 
 **(E)** Outdoor radon levels around the country.
 
-(Pub. L. 94–469, title III, § 303, as added Pub. L. 100–551, § 1(a), Oct. 28, 1988, 102 Stat. 2755.)
+(Pub. L. 94–469, title III, § 303, as added Pub. L. 100–551, § 1(a), Oct. 28, 1988, 102 Stat. 2755.)
 
-### § 2664. Model construction standards and techniques
+### § 2664. Model construction standards and techniques
 
 The Administrator of the Environmental Protection Agency shall develop model construction standards and techniques for controlling radon levels within new buildings. To the maximum extent possible, these standards and techniques should be developed with the assistance of organizations involved in establishing national building construction standards and techniques. The Administrator shall make a draft of the document containing the model standards and techniques available for public review and comment. The model standards and techniques shall provide for geographic differences in construction types and materials, geology, weather, and other variables that may affect radon levels in new buildings. The Administrator shall make final model standards and techniques available to the public by June 1, 1990. The Administrator shall work to ensure that organizations responsible for developing national model building codes, and authorities which regulate building construction within States or political subdivisions within States, adopt the Agency’s model standards and techniques.
 
-(Pub. L. 94–469, title III, § 304, as added Pub. L. 100–551, § 1(a), Oct. 28, 1988, 102 Stat. 2756.)
+(Pub. L. 94–469, title III, § 304, as added Pub. L. 100–551, § 1(a), Oct. 28, 1988, 102 Stat. 2756.)
 
-### § 2665. Technical assistance to States for radon programs
+### § 2665. Technical assistance to States for radon programs
 
 **(a) Required activities** The Administrator (or another Federal department or agency designated by the Administrator) shall develop and implement activities designed to assist State radon programs. These activities may include, but are not limited to, the following:
 
@@ -5005,7 +5005,7 @@ In addition to any charge imposed pursuant to paragraph (2), the Administrator s
 
 **(3)** No amount appropriated under this subsection may be used to cover the costs of the proficiency rating program under subsection (a)(2).
 
-(Pub. L. 94–469, title III, § 305, as added Pub. L. 100–551, § 1(a), Oct. 28, 1988, 102 Stat. 2756; amended Pub. L. 101–508, title X, § 10202, Nov. 5, 1990, 104 Stat. 1388–393; Pub. L. 104–66, title II, § 2021(*l*), Dec. 21, 1995, 109 Stat. 728.)
+(Pub. L. 94–469, title III, § 305, as added Pub. L. 100–551, § 1(a), Oct. 28, 1988, 102 Stat. 2756; amended Pub. L. 101–508, title X, § 10202, Nov. 5, 1990, 104 Stat. 1388–393; Pub. L. 104–66, title II, § 2021(*l*), Dec. 21, 1995, 109 Stat. 728.)
 
 **Editorial Notes**
 
@@ -5015,7 +5015,7 @@ In addition to any charge imposed pursuant to paragraph (2), the Administrator s
 
 1990—Subsec. (e)(5) to (7). Pub. L. 101–508 added pars. (5) to (7).
 
-### § 2666. Grant assistance to States for radon programs
+### § 2666. Grant assistance to States for radon programs
 
 **(a) In general**
 
@@ -5107,7 +5107,7 @@ States may, at the Governor’s discretion, use funds from grants under this sec
 
 **(5)** No amount appropriated under this subsection may be used to cover the costs of the proficiency rating program under section 2665(a)(2) of this title.
 
-(Pub. L. 94–469, title III, § 306, as added Pub. L. 100–551, § 1(a), Oct. 28, 1988, 102 Stat. 2758.)
+(Pub. L. 94–469, title III, § 306, as added Pub. L. 100–551, § 1(a), Oct. 28, 1988, 102 Stat. 2758.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5115,7 +5115,7 @@ States may, at the Governor’s discretion, use funds from grants under this sec
 
 Pub. L. 109–54, title II, Aug. 2, 2005, 119 Stat. 531, provided in part that: “Beginning in fiscal year 2006 and thereafter, and notwithstanding section 306 of the Toxic Substances Control Act [15 U.S.C. 2666], the Federal share of the cost of radon program activities implemented with Federal assistance under section 306 shall not exceed 60 percent in the third and subsequent grant years.”
 
-### § 2667. Radon in schools
+### § 2667. Radon in schools
 
 **(a) Study of radon in schools**
 
@@ -5157,9 +5157,9 @@ On or before October 1, 1989, the Administrator shall submit to the Congress a s
 
 For the purpose of carrying out the provisions of paragraph (6) of subsection (a), there are authorized to be appropriated such sums, not to exceed $500,000, as may be necessary. For the purpose of carrying out the provisions of this section other than such paragraph (6), there are authorized to be appropriated such sums, not to exceed $1,000,000, as may be necessary.
 
-(Pub. L. 94–469, title III, § 307, as added Pub. L. 100–551, § 1(a), Oct. 28, 1988, 102 Stat. 2761.)
+(Pub. L. 94–469, title III, § 307, as added Pub. L. 100–551, § 1(a), Oct. 28, 1988, 102 Stat. 2761.)
 
-### § 2668. Regional radon training centers
+### § 2668. Regional radon training centers
 
 **(a) Funding program**
 
@@ -5195,9 +5195,9 @@ No funding may be given under this section in any fiscal year to an applicant wh
 
 There is authorized to be appropriated to carry out the program under this section not to exceed $1,000,000 for each of fiscal years 1989, 1990, and 1991.
 
-(Pub. L. 94–469, title III, § 308, as added Pub. L. 100–551, § 1(a), Oct. 28, 1988, 102 Stat. 2762.)
+(Pub. L. 94–469, title III, § 308, as added Pub. L. 100–551, § 1(a), Oct. 28, 1988, 102 Stat. 2762.)
 
-### § 2669. Study of radon in Federal buildings
+### § 2669. Study of radon in Federal buildings
 
 **(a) Study requirement**
 
@@ -5239,23 +5239,23 @@ Not later than June 1, 1990, the head of each Federal department or agency condu
 
 Not later than October 1, 1990, the Administrator shall submit a report to the Congress describing the results of the studies conducted pursuant to subsection (a).
 
-(Pub. L. 94–469, title III, § 309, as added Pub. L. 100–551, § 1(a), Oct. 28, 1988, 102 Stat. 2763.)
+(Pub. L. 94–469, title III, § 309, as added Pub. L. 100–551, § 1(a), Oct. 28, 1988, 102 Stat. 2763.)
 
-### § 2670. Regulations
+### § 2670. Regulations
 
 The Administrator is authorized to issue such regulations as may be necessary to carry out the provisions of this subchapter.
 
-(Pub. L. 94–469, title III, § 310, as added Pub. L. 100–551, § 1(a), Oct. 28, 1988, 102 Stat. 2764.)
+(Pub. L. 94–469, title III, § 310, as added Pub. L. 100–551, § 1(a), Oct. 28, 1988, 102 Stat. 2764.)
 
-### § 2671. Additional authorizations
+### § 2671. Additional authorizations
 
 Amounts authorized to be appropriated in this subchapter for purposes of carrying out the provisions of this subchapter are in addition to amounts authorized to be appropriated under other provisions of law for radon-related activities.
 
-(Pub. L. 94–469, title III, § 311, as added Pub. L. 100–551, § 1(a), Oct. 28, 1988, 102 Stat. 2764.)
+(Pub. L. 94–469, title III, § 311, as added Pub. L. 100–551, § 1(a), Oct. 28, 1988, 102 Stat. 2764.)
 
 ## SUBCHAPTER IV—LEAD EXPOSURE REDUCTION
 
-### § 2681. Definitions
+### § 2681. Definitions
 
 For the purposes of this subchapter:
 
@@ -5339,17 +5339,17 @@ The term “residential real property” means real property on which there is s
 
 The term “target housing” means any housing constructed prior to 1978, except housing for the elderly or persons with disabilities or any 0-bedroom dwelling (unless any child who is less than 6 years of age resides or is expected to reside in such housing). In the case of jurisdictions which banned the sale or use of lead-based paint prior to 1978, the Secretary of Housing and Urban Development, at the Secretary’s discretion, may designate an earlier date.
 
-(Pub. L. 94–469, title IV, § 401, as added Pub. L. 102–550, title X, § 1021(a), Oct. 28, 1992, 106 Stat. 3912; amended Pub. L. 115–31, div. K, title II, § 237(c), May 5, 2017, 131 Stat. 789.)
+(Pub. L. 94–469, title IV, § 401, as added Pub. L. 102–550, title X, § 1021(a), Oct. 28, 1992, 106 Stat. 3912; amended Pub. L. 115–31, div. K, title II, § 237(c), May 5, 2017, 131 Stat. 789.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Par. (17). Pub. L. 115–31, § 237(c)(1), which directed insertion of “or any 0-bedroom dwelling” after “disabilities,”, was executed by making the insertion after “disabilities” the first place appearing to reflect the probable intent of Congress.
+2017—Par. (17). Pub. L. 115–31, § 237(c)(1), which directed insertion of “or any 0-bedroom dwelling” after “disabilities,”, was executed by making the insertion after “disabilities” the first place appearing to reflect the probable intent of Congress.
 
-Pub. L. 115–31, § 237(c)(2), which directed substitution of “housing)” for “housing for the elderly or persons with disabilities) or any 0 bedroom dwelling”, was executed by making the substitution for “housing for the elderly or persons with disabilities) or any 0-bedroom dwelling” to reflect the probable intent of Congress.
+Pub. L. 115–31, § 237(c)(2), which directed substitution of “housing)” for “housing for the elderly or persons with disabilities) or any 0 bedroom dwelling”, was executed by making the substitution for “housing for the elderly or persons with disabilities) or any 0-bedroom dwelling” to reflect the probable intent of Congress.
 
-### § 2682. Lead-based paint activities training and certification
+### § 2682. Lead-based paint activities training and certification
 
 **(a) Regulations**
 
@@ -5401,21 +5401,21 @@ The Administrator shall conduct a study of the extent to which persons engaged i
 
 Within 4 years after October 28, 1992, the Administrator shall revise the regulations under subsection (a) to apply the regulations to renovation or remodeling activities in target housing, public buildings constructed before 1978, and commercial buildings that create lead-based paint hazards. In determining which contractors are engaged in such activities, the Administrator shall utilize the results of the study under paragraph (2) and consult with the representatives of labor organizations, lead-based paint activities contractors, persons engaged in remodeling and renovation, experts in lead health effects, and others. If the Administrator determines that any category of contractors engaged in renovation or remodeling does not require certification, the Administrator shall publish an explanation of the basis for that determination.
 
-(Pub. L. 94–469, title IV, § 402, as added Pub. L. 102–550, title X, § 1021(a), Oct. 28, 1992, 106 Stat. 3914.)
+(Pub. L. 94–469, title IV, § 402, as added Pub. L. 102–550, title X, § 1021(a), Oct. 28, 1992, 106 Stat. 3914.)
 
-### § 2683. Identification of dangerous levels of lead
+### § 2683. Identification of dangerous levels of lead
 
 Within 18 months after October 28, 1992, the Administrator shall promulgate regulations which shall identify, for purposes of this subchapter and the Residential Lead-Based Paint Hazard Reduction Act of 1992 [42 U.S.C. 4851 et seq.], lead-based paint hazards, lead-contaminated dust, and lead-contaminated soil.
 
-(Pub. L. 94–469, title IV, § 403, as added Pub. L. 102–550, title X, § 1021(a), Oct. 28, 1992, 106 Stat. 3916.)
+(Pub. L. 94–469, title IV, § 403, as added Pub. L. 102–550, title X, § 1021(a), Oct. 28, 1992, 106 Stat. 3916.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Residential Lead-Based Paint Hazard Reduction Act of 1992, referred to in text, is title X of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3897, which is classified principally to chapter 63A (§ 4851 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4851 of Title 42 and Tables.
+The Residential Lead-Based Paint Hazard Reduction Act of 1992, referred to in text, is title X of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3897, which is classified principally to chapter 63A (§ 4851 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4851 of Title 42 and Tables.
 
-### § 2684. Authorized State programs
+### § 2684. Authorized State programs
 
 **(a) Approval**
 
@@ -5453,9 +5453,9 @@ The Administrator is authorized to make grants to States to develop and carry ou
 
 If a State does not have a State program authorized under this section and in effect by the date which is 2 years after promulgation of the regulations under section 2682 or 2686 of this title, the Administrator shall, by such date, establish a Federal program for section 2682 or 2686 of this title (as the case may be) for such State and administer and enforce such program in such State.
 
-(Pub. L. 94–469, title IV, § 404, as added Pub. L. 102–550, title X, § 1021(a), Oct. 28, 1992, 106 Stat. 3916.)
+(Pub. L. 94–469, title IV, § 404, as added Pub. L. 102–550, title X, § 1021(a), Oct. 28, 1992, 106 Stat. 3916.)
 
-### § 2685. Lead abatement and measurement
+### § 2685. Lead abatement and measurement
 
 **(a) Program to promote lead exposure abatement**
 
@@ -5473,7 +5473,7 @@ The Administrator, in cooperation with other appropriate Federal departments and
 
 **(1)** The Secretary of Health and Human Services (hereafter in this subsection referred to as the “Secretary”), acting through the Director of the Centers for Disease Control,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 (CDC), and the Director of the National Institute of Environmental Health Sciences, shall jointly conduct a study of the sources of lead exposure in children who have elevated blood lead levels (or other indicators of elevated lead body burden), as defined by the Director of the Centers for Disease Control.
 
@@ -5561,9 +5561,9 @@ Not later than 6 months after October 28, 1992, the Administrator, in cooperatio
 
 Not later than 30 months after October 28, 1992, the President shall, after notice and opportunity for comment, establish by rule appropriate criteria, testing protocols, and performance characteristics as are necessary to ensure, to the greatest extent possible and consistent with the purposes and policy of this subchapter, that lead-based paint hazard evaluation and reduction products introduced into commerce after a period specified in the rule are effective for the intended use described by the manufacturer. The rule shall identify the types or classes of products that are subject to such rule. The President, in implementation of the rule, shall, to the maximum extent possible, utilize independent testing laboratories, as appropriate, and consult with such entities and others in developing the rules. The President may delegate the authorities under this subsection to the Environmental Protection Agency or the Secretary of Commerce or such other appropriate agency.
 
-(Pub. L. 94–469, title IV, § 405, as added Pub. L. 102–550, title X, § 1021(a), Oct. 28, 1992, 106 Stat. 3917.)
+(Pub. L. 94–469, title IV, § 405, as added Pub. L. 102–550, title X, § 1021(a), Oct. 28, 1992, 106 Stat. 3917.)
 
-### § 2686. Lead hazard information pamphlet
+### § 2686. Lead hazard information pamphlet
 
 **(a) Lead hazard information pamphlet** Not later than 2 years after October 28, 1992, after notice and opportunity for comment, the Administrator of the Environmental Protection Agency, in consultation with the Secretary of Housing and Urban Development and with the Secretary of Health and Human Services, shall publish, and from time to time revise, a lead hazard information pamphlet to be used in connection with this subchapter and section 4852d of title 42. The pamphlet shall—
 
@@ -5589,33 +5589,33 @@ Not later than 30 months after October 28, 1992, the President shall, after noti
 
 Within 2 years after October 28, 1992, the Administrator shall promulgate regulations under this subsection to require each person who performs for compensation a renovation of target housing to provide a lead hazard information pamphlet to the owner and occupant of such housing prior to commencing the renovation.
 
-(Pub. L. 94–469, title IV, § 406, as added Pub. L. 102–550, title X, § 1021(a), Oct. 28, 1992, 106 Stat. 3920.)
+(Pub. L. 94–469, title IV, § 406, as added Pub. L. 102–550, title X, § 1021(a), Oct. 28, 1992, 106 Stat. 3920.)
 
-### § 2687. Regulations
+### § 2687. Regulations
 
 The regulations of the Administrator under this subchapter shall include such recordkeeping and reporting requirements as may be necessary to insure the effective implementation of this subchapter. The regulations may be amended from time to time as necessary.
 
-(Pub. L. 94–469, title IV, § 407, as added Pub. L. 102–550, title X, § 1021(a), Oct. 28, 1992, 106 Stat. 3921.)
+(Pub. L. 94–469, title IV, § 407, as added Pub. L. 102–550, title X, § 1021(a), Oct. 28, 1992, 106 Stat. 3921.)
 
-### § 2688. Control of lead-based paint hazards at Federal facilities
+### § 2688. Control of lead-based paint hazards at Federal facilities
 
 Each department, agency, and instrumentality of executive, legislative, and judicial branches of the Federal Government (1) having jurisdiction over any property or facility, or (2) engaged in any activity resulting, or which may result, in a lead-based paint hazard, and each officer, agent, or employee thereof, shall be subject to, and comply with, all Federal, State, interstate, and local requirements, both substantive and procedural (including any requirement for certification, licensing, recordkeeping, or reporting or any provisions for injunctive relief and such sanctions as may be imposed by a court to enforce such relief) respecting lead-based paint, lead-based paint activities, and lead-based paint hazards in the same manner, and to the same extent as any nongovernmental entity is subject to such requirements, including the payment of reasonable service charges. The Federal, State, interstate, and local substantive and procedural requirements referred to in this subsection include, but are not limited to, all administrative orders and all civil and administrative penalties and fines regardless of whether such penalties or fines are punitive or coercive in nature, or whether imposed for isolated, intermittent or continuing violations. The United States hereby expressly waives any immunity otherwise applicable to the United States with respect to any such substantive or procedural requirement (including, but not limited to, any injunctive relief, administrative order, or civil or administrative penalty or fine referred to in the preceding sentence, or reasonable service charge). The reasonable service charges referred to in this section include, but are not limited to, fees or charges assessed for certification and licensing, as well as any other nondiscriminatory charges that are assessed in connection with a Federal, State, interstate, or local lead-based paint, lead-based paint activities, or lead-based paint hazard activities program. No agent, employee, or officer of the United States shall be personally liable for any civil penalty under any Federal, State, interstate, or local law relating to lead-based paint, lead-based paint activities, or lead-based paint hazards with respect to any act or omission within the scope of his official duties.
 
-(Pub. L. 94–469, title IV, § 408, as added Pub. L. 102–550, title X, § 1021(a), Oct. 28, 1992, 106 Stat. 3921.)
+(Pub. L. 94–469, title IV, § 408, as added Pub. L. 102–550, title X, § 1021(a), Oct. 28, 1992, 106 Stat. 3921.)
 
-### § 2689. Prohibited acts
+### § 2689. Prohibited acts
 
 It shall be unlawful for any person to fail or refuse to comply with a provision of this subchapter or with any rule or order issued under this subchapter.
 
-(Pub. L. 94–469, title IV, § 409, as added Pub. L. 102–550, title X, § 1021(a), Oct. 28, 1992, 106 Stat. 3921.)
+(Pub. L. 94–469, title IV, § 409, as added Pub. L. 102–550, title X, § 1021(a), Oct. 28, 1992, 106 Stat. 3921.)
 
-### § 2690. Relationship to other Federal law
+### § 2690. Relationship to other Federal law
 
 Nothing in this subchapter shall affect the authority of other appropriate Federal agencies to establish or enforce any requirements which are at least as stringent as those established pursuant to this subchapter.
 
-(Pub. L. 94–469, title IV, § 410, as added Pub. L. 102–550, title X, § 1021(a), Oct. 28, 1992, 106 Stat. 3921.)
+(Pub. L. 94–469, title IV, § 410, as added Pub. L. 102–550, title X, § 1021(a), Oct. 28, 1992, 106 Stat. 3921.)
 
-### § 2691. General provisions relating to administrative proceedings
+### § 2691. General provisions relating to administrative proceedings
 
 **(a) Applicability**
 
@@ -5651,17 +5651,17 @@ The material referred to in subsection (c)(2)(B) shall not be included in the re
 
 The requirements of this section shall take effect with respect to any rule the proposal of which occurs after 90 days after October 28, 1992.
 
-(Pub. L. 94–469, title IV, § 411, as added Pub. L. 102–550, title X, § 1021(a), Oct. 28, 1992, 106 Stat. 3922.)
+(Pub. L. 94–469, title IV, § 411, as added Pub. L. 102–550, title X, § 1021(a), Oct. 28, 1992, 106 Stat. 3922.)
 
-### § 2692. Authorization of appropriations
+### § 2692. Authorization of appropriations
 
 There are authorized to be appropriated to carry out the purposes of this subchapter such sums as may be necessary.
 
-(Pub. L. 94–469, title IV, § 412, as added Pub. L. 102–550, title X, § 1021(a), Oct. 28, 1992, 106 Stat. 3923.)
+(Pub. L. 94–469, title IV, § 412, as added Pub. L. 102–550, title X, § 1021(a), Oct. 28, 1992, 106 Stat. 3923.)
 
 ## SUBCHAPTER V—HEALTHY HIGH-PERFORMANCE SCHOOLS
 
-### § 2695. Grants for healthy school environments
+### § 2695. Grants for healthy school environments
 
 **(a) In general** The Administrator, in consultation with the Secretary of Education, may provide grants to States for use in—
 
@@ -5677,7 +5677,7 @@ There are authorized to be appropriated to carry out the purposes of this subcha
 
 The authority of the Administrator to carry out this section shall expire 5 years after December 19, 2007.
 
-(Pub. L. 94–469, title V, § 501, as added Pub. L. 110–140, title IV, § 461(a), Dec. 19, 2007, 121 Stat. 1640.)
+(Pub. L. 94–469, title V, § 501, as added Pub. L. 110–140, title IV, § 461(a), Dec. 19, 2007, 121 Stat. 1640.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5685,7 +5685,7 @@ The authority of the Administrator to carry out this section shall expire 5 year
 
 Subchapter effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 
-### § 2695a. Model guidelines for siting of school facilities
+### § 2695a. Model guidelines for siting of school facilities
 
 Not later than 18 months after December 19, 2007, the Administrator, in consultation with the Secretary of Education and the Secretary of Health and Human Services, shall issue voluntary school site selection guidelines that account for—
 
@@ -5697,9 +5697,9 @@ Not later than 18 months after December 19, 2007, the Administrator, in consulta
 
 **(4)** the potential use of a school at the site as an emergency shelter.
 
-(Pub. L. 94–469, title V, § 502, as added Pub. L. 110–140, title IV, § 461(a), Dec. 19, 2007, 121 Stat. 1640.)
+(Pub. L. 94–469, title V, § 502, as added Pub. L. 110–140, title IV, § 461(a), Dec. 19, 2007, 121 Stat. 1640.)
 
-### § 2695b. Public outreach
+### § 2695b. Public outreach
 
 **(a) Reports**
 
@@ -5709,9 +5709,9 @@ The Administrator shall publish and submit to Congress an annual report on all a
 
 The Federal Director appointed under section 17092(a) of title 42 (in this subchapter referred to as the “Federal Director”) shall ensure, to the maximum extent practicable, that the public clearinghouse established under section 17083(1) of title 42 receives and makes available information on the exposure of children to environmental hazards in school facilities, as provided by the Administrator.
 
-(Pub. L. 94–469, title V, § 503, as added Pub. L. 110–140, title IV, § 461(a), Dec. 19, 2007, 121 Stat. 1640.)
+(Pub. L. 94–469, title V, § 503, as added Pub. L. 110–140, title IV, § 461(a), Dec. 19, 2007, 121 Stat. 1640.)
 
-### § 2695c. Environmental health program
+### § 2695c. Environmental health program
 
 **(a) In general** Not later than 2 years after December 19, 2007, the Administrator, in consultation with the Secretary of Education, the Secretary of Health and Human Services, and other relevant agencies, shall issue voluntary guidelines for use by the State in developing and implementing an environmental health program for schools that—
 
@@ -5769,23 +5769,23 @@ The Federal Director appointed under section 17092(a) of title 42 (in this subch
 
 **(2)** information on the exposure of children to environmental hazards in school facilities, as provided by the Administrator.
 
-(Pub. L. 94–469, title V, § 504, as added Pub. L. 110–140, title IV, § 461(a), Dec. 19, 2007, 121 Stat. 1641.)
+(Pub. L. 94–469, title V, § 504, as added Pub. L. 110–140, title IV, § 461(a), Dec. 19, 2007, 121 Stat. 1641.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Energy Independence and Security Act of 2007, referred to in subsec. (a)(1), is Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1492. Subtitle C of title IV of the Act enacted part C (§ 17091 et seq.) of subchapter III of chapter 152 of Title 42, The Public Health and Welfare, amended sections 6832, 6834, 8253, and 8254 of Title 42, and enacted provisions set out as a note under section 6834 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 17001 of Title 42 and Tables.
+The Energy Independence and Security Act of 2007, referred to in subsec. (a)(1), is Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1492. Subtitle C of title IV of the Act enacted part C (§ 17091 et seq.) of subchapter III of chapter 152 of Title 42, The Public Health and Welfare, amended sections 6832, 6834, 8253, and 8254 of Title 42, and enacted provisions set out as a note under section 6834 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 17001 of Title 42 and Tables.
 
-### § 2695d. Authorization of appropriations
+### § 2695d. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this subchapter $1,000,000 for fiscal year 2009, and $1,500,000 for each of fiscal years 2010 through 2013, to remain available until expended.
 
-(Pub. L. 94–469, title V, § 505, as added Pub. L. 110–140, title IV, § 461(a), Dec. 19, 2007, 121 Stat. 1642.)
+(Pub. L. 94–469, title V, § 505, as added Pub. L. 110–140, title IV, § 461(a), Dec. 19, 2007, 121 Stat. 1642.)
 
 ## SUBCHAPTER VI—FORMALDEHYDE STANDARDS FOR COMPOSITE WOOD PRODUCTS
 
-### § 2697. Formaldehyde standards
+### § 2697. Formaldehyde standards
 
 **(a) Definitions** In this section:
 
@@ -6015,13 +6015,13 @@ Except as provided in an applicable sell-through regulation promulgated pursuant
 
 **(A)** Compliance with the emission standards described in paragraph (2) shall be measured by—
 
-**(i)** quarterly tests shall be 1
+**(i)** quarterly tests shall be 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 conducted pursuant to test method ASTM E–1333–96 (2002) or, subject to subparagraph (B), ASTM D–6007–02; and
 
-**(ii)** quality control tests shall be <sup>1</sup> conducted pursuant to ASTM D–6007–02, ASTM D–5582, or such other test methods as may be established by the Administrator through rulemaking.
+**(ii)** quality control tests shall be <sup>1</sup> conducted pursuant to ASTM D–6007–02, ASTM D–5582, or such other test methods as may be established by the Administrator through rulemaking.
 
 **(B)** Test results obtained under subparagraph (A)(i) or (ii) by any test method other than ASTM E–1333–96 (2002) must include a showing of equivalence by means established by the Administrator through rulemaking.
 
@@ -6141,7 +6141,7 @@ The Administrator may, after public notice and opportunity for comment, substitu
 
 An individual or entity that violates any requirement under this section (including any regulation promulgated pursuant to subsection (d)) shall be considered to have committed a prohibited act under section 2614 of this title.
 
-(Pub. L. 94–469, title VI, § 601, as added Pub. L. 111–199, § 2(a), July 7, 2010, 124 Stat. 1359; amended Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+(Pub. L. 94–469, title VI, § 601, as added Pub. L. 111–199, § 2(a), July 7, 2010, 124 Stat. 1359; amended Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6151,4 +6151,4 @@ An individual or entity that violates any requirement under this section (includ
 
 **Modification of Regulation**
 
-Pub. L. 111–199, § 4, July 7, 2010, 124 Stat. 1367, provided that: “Not later than 180 days after the date of promulgation of regulations pursuant to section 601(d) of the Toxic Substances Control Act [15 U.S.C. 2697(d)] (as amended by section 2), the Secretary of Housing and Urban Development shall update the regulation contained in section 3280.308 of title 24, Code of Federal Regulations (as in effect on the date of enactment of this Act [July 7, 2010]), to ensure that the regulation reflects the standards established by section 601 of the Toxic Substances Control Act [15 U.S.C. 2697].”
+Pub. L. 111–199, § 4, July 7, 2010, 124 Stat. 1367, provided that: “Not later than 180 days after the date of promulgation of regulations pursuant to section 601(d) of the Toxic Substances Control Act [15 U.S.C. 2697(d)] (as amended by section 2), the Secretary of Housing and Urban Development shall update the regulation contained in section 3280.308 of title 24, Code of Federal Regulations (as in effect on the date of enactment of this Act [July 7, 2010]), to ensure that the regulation reflects the standards established by section 601 of the Toxic Substances Control Act [15 U.S.C. 2697].”

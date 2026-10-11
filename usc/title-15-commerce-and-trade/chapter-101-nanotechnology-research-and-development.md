@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 101—NANOTECHNOLOGY RESEARCH AND DEVELOPMENT
 
-## § 7501. National Nanotechnology Program
+## § 7501. National Nanotechnology Program
 
 **(a) National Nanotechnology Program** The President shall implement a National Nanotechnology Program. Through appropriate agencies, councils, and the National Nanotechnology Coordination Office established in section 7502 of this title, the Program shall—
 
@@ -79,9 +79,9 @@ retrieved: 2026-10-11
 
 **(A)** the near-term and long-term objectives for the Program;
 
-**(B)** the anticipated schedule for achieving the near-term objectives; and 1
+**(B)** the anticipated schedule for achieving the near-term objectives; and 1
 
-<sup>1</sup>  So in original. The word “and” probably should not appear.
+<sup>1</sup> So in original. The word “and” probably should not appear.
 
 **(C)** the metrics that will be used to assess progress toward the near-term and long-term objectives;
 
@@ -115,7 +115,7 @@ retrieved: 2026-10-11
 
 **(5)** an assessment of how Federal agencies are implementing the plan described in subsection (c)(7), and a description of the amount of Small Business Innovative Research and Small Business Technology Transfer Research funds supporting the plan.
 
-(Pub. L. 108–153, § 2, Dec. 3, 2003, 117 Stat. 1923; Pub. L. 114–329, title II, § 204(b)(1), Jan. 6, 2017, 130 Stat. 2999.)
+(Pub. L. 108–153, § 2, Dec. 3, 2003, 117 Stat. 1923; Pub. L. 114–329, title II, § 204(b)(1), Jan. 6, 2017, 130 Stat. 2999.)
 
 **Editorial Notes**
 
@@ -141,9 +141,9 @@ Committee on Science of House of Representatives changed to Committee on Science
 
 **Short Title**
 
-Pub. L. 108–153, § 1, Dec. 3, 2003, 117 Stat. 1923, provided that: “This Act [enacting this chapter] may be cited as the ‘21st Century Nanotechnology Research and Development Act’.”
+Pub. L. 108–153, § 1, Dec. 3, 2003, 117 Stat. 1923, provided that: “This Act [enacting this chapter] may be cited as the ‘21st Century Nanotechnology Research and Development Act’.”
 
-## § 7502. Program coordination
+## § 7502. Program coordination
 
 **(a) In general** The President shall establish a National Nanotechnology Coordination Office, with a Director and full-time staff, which shall—
 
@@ -167,7 +167,7 @@ The National Nanotechnology Coordination Office shall be funded through interage
 
 **(3)** the actions taken by the Director to ensure stable funding of this Office.
 
-(Pub. L. 108–153, § 3, Dec. 3, 2003, 117 Stat. 1926.)
+(Pub. L. 108–153, § 3, Dec. 3, 2003, 117 Stat. 1926.)
 
 **Editorial Notes**
 
@@ -181,7 +181,7 @@ Section 631 of Public Law 108–7, referred to in subsec. (b), is section 631 of
 
 Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
-## § 7503. Advisory Panel
+## § 7503. Advisory Panel
 
 **(a) In general**
 
@@ -209,9 +209,9 @@ The Advisory Panel established or designated by the President under subsection (
 
 **(d) Reports**
 
-Not later than 4 years after the date of the most recent assessment under subsection (c), and quadrennially thereafter, the Advisory Panel shall submit to the President, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Science, Space, and Technology of the House of Representatives a report its 1
+Not later than 4 years after the date of the most recent assessment under subsection (c), and quadrennially thereafter, the Advisory Panel shall submit to the President, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Science, Space, and Technology of the House of Representatives a report its 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 assessments under subsection (c) and its recommendations for ways to improve the Program.
 
@@ -223,7 +223,7 @@ Non-Federal members of the Advisory Panel, while attending meetings of the Advis
 
 Section 1013 of title 5 shall not apply to the Advisory Panel.
 
-(Pub. L. 108–153, § 4, Dec. 3, 2003, 117 Stat. 1927; Pub. L. 114–329, title II, § 204(b)(2), Jan. 6, 2017, 130 Stat. 2999; Pub. L. 117–286, § 4(a)(78), Dec. 27, 2022, 136 Stat. 4314.)
+(Pub. L. 108–153, § 4, Dec. 3, 2003, 117 Stat. 1927; Pub. L. 114–329, title II, § 204(b)(2), Jan. 6, 2017, 130 Stat. 2999; Pub. L. 117–286, § 4(a)(78), Dec. 27, 2022, 136 Stat. 4314.)
 
 **Editorial Notes**
 
@@ -239,7 +239,7 @@ Section 1013 of title 5 shall not apply to the Advisory Panel.
 
 President’s Council of Advisors on Science and Technology to serve as the advisory panel identified in this section and to be known as the National Nanotechnology Advisory Panel when performing the functions of such advisory committee, see section 3(b)(iv) of Ex. Ord. No. 14007, set out in a note under section 6601 of Title 42, The Public Health and Welfare.
 
-## § 7504. Quadrennial external review of the National Nanotechnology Program
+## § 7504. Quadrennial external review of the National Nanotechnology Program
 
 **(a) In general** The Director of the National Nanotechnology Coordination Office shall enter into an arrangement with the National Research Council of the National Academy of Sciences to conduct a quadrennial evaluation of the Program, including—
 
@@ -297,17 +297,17 @@ Not later than 30 days after the date the first evaluation under subsection (a) 
 
 Not later than 30 days after the date the President receives the report under paragraph (1), the Director of the Office of Science and Technology Policy shall transmit a copy of the report to Congress.
 
-(Pub. L. 108–153, § 5, Dec. 3, 2003, 117 Stat. 1928; Pub. L. 114–329, title II, § 204(b)(3), Jan. 6, 2017, 130 Stat. 2999.)
+(Pub. L. 108–153, § 5, Dec. 3, 2003, 117 Stat. 1928; Pub. L. 114–329, title II, § 204(b)(3), Jan. 6, 2017, 130 Stat. 2999.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Pub. L. 114–329, § 204(b)(3)(A)–(D), substituted “Quadrennial” for “Triennial” in section catchline and “quadrennial” for “triennial” in subsecs. (a) to (c).
+2017—Pub. L. 114–329, § 204(b)(3)(A)–(D), substituted “Quadrennial” for “Triennial” in section catchline and “quadrennial” for “triennial” in subsecs. (a) to (c).
 
-Subsec. (d). Pub. L. 114–329, § 204(b)(3)(E), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Director of the National Nanotechnology Coordination Office shall transmit the results of any evaluation for which it made arrangements under subsection (a) to the Advisory Panel, the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science upon receipt. The first such evaluation shall be transmitted no later than June 10, 2005, with subsequent evaluations transmitted to the Committees every 3 years thereafter.”
+Subsec. (d). Pub. L. 114–329, § 204(b)(3)(E), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Director of the National Nanotechnology Coordination Office shall transmit the results of any evaluation for which it made arrangements under subsection (a) to the Advisory Panel, the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science upon receipt. The first such evaluation shall be transmitted no later than June 10, 2005, with subsequent evaluations transmitted to the Committees every 3 years thereafter.”
 
-## § 7505. Authorization of appropriations
+## § 7505. Authorization of appropriations
 
 **(a) National Science Foundation** There are authorized to be appropriated to the Director of the National Science Foundation to carry out the Director’s responsibilities under this chapter—
 
@@ -359,17 +359,17 @@ Subsec. (d). Pub. L. 114–329, § 204(b)(3)(E), amended subsec. (d) generally
 
 **(4)** $6,800,000 for fiscal year 2008.
 
-(Pub. L. 108–153, § 6, Dec. 3, 2003, 117 Stat. 1929.)
+(Pub. L. 108–153, § 6, Dec. 3, 2003, 117 Stat. 1929.)
 
-## § 7506. Department of Commerce programs
+## § 7506. Department of Commerce programs
 
 **(a) NIST programs** The Director of the National Institute of Standards and Technology shall—
 
 **(1)** as part of the Program activities under section 7501(b)(7) of this title, establish a program to conduct basic research on issues related to the development and manufacture of nanotechnology, including metrology; reliability and quality assurance; processes control; and manufacturing best practices; and
 
-**(2)** utilize the Manufacturing Extension Partnership program 1
+**(2)** utilize the Manufacturing Extension Partnership program 1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 to the extent possible to ensure that the research conducted under paragraph (1) reaches small- and medium-sized manufacturing companies.
 
@@ -377,7 +377,7 @@ to the extent possible to ensure that the research conducted under paragraph (1)
 
 The Secretary of Commerce or his designee, in consultation with the National Nanotechnology Coordination Office and, to the extent possible, utilizing resources at the National Technical Information Service, shall establish a clearinghouse of information related to commercialization of nanotechnology research, including information relating to activities by regional, State, and local commercial nanotechnology initiatives; transition of research, technologies, and concepts from Federal nanotechnology research and development programs into commercial and military products; best practices by government, universities and private sector laboratories transitioning technology to commercial use; examples of ways to overcome barriers and challenges to technology deployment; and use of manufacturing infrastructure and workforce.
 
-(Pub. L. 108–153, § 7, Dec. 3, 2003, 117 Stat. 1930.)
+(Pub. L. 108–153, § 7, Dec. 3, 2003, 117 Stat. 1930.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -385,7 +385,7 @@ The Secretary of Commerce or his designee, in consultation with the National Nan
 
 The Manufacturing Extension Partnership Program, referred to in subsec. (a), redesignated the Hollings Manufacturing Partnership Program by a provision of title II of div. B of Pub. L. 108–447, formerly set out as a note under section 278k of this title. Program subsequently designated the Hollings Manufacturing Extension Partnership by former section 278k(i) of this title, as added by Pub. L. 111–358, and by section 278k of this title, as generally amended by Pub. L. 114–329.
 
-## § 7507. Department of Energy programs
+## § 7507. Department of Energy programs
 
 **(a) Research consortia**
 
@@ -401,9 +401,9 @@ Of the sums authorized for the Department of Energy under section 7505(b) of thi
 
 The Secretary of Energy shall carry out projects to develop, plan, construct, acquire, operate, or support special equipment, instrumentation, or facilities for investigators conducting research and development in nanotechnology.
 
-(Pub. L. 108–153, § 8, Dec. 3, 2003, 117 Stat. 1930.)
+(Pub. L. 108–153, § 8, Dec. 3, 2003, 117 Stat. 1930.)
 
-## § 7508. Additional centers
+## § 7508. Additional centers
 
 **(a) American Nanotechnology Preparedness Center** The Program shall provide for the establishment, on a merit-reviewed and competitive basis, of an American Nanotechnology Preparedness Center which shall—
 
@@ -423,7 +423,7 @@ The Secretary of Energy shall carry out projects to develop, plan, construct, ac
 
 **(2)** within 18 months after December 3, 2003, a report describing how the Centers described in this section have been established.
 
-(Pub. L. 108–153, § 9, Dec. 3, 2003, 117 Stat. 1930.)
+(Pub. L. 108–153, § 9, Dec. 3, 2003, 117 Stat. 1930.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -431,7 +431,7 @@ The Secretary of Energy shall carry out projects to develop, plan, construct, ac
 
 Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
-## § 7509. Definitions
+## § 7509. Definitions
 
 In this chapter:
 
@@ -457,10 +457,10 @@ The term “advanced technology user facility” means a nanotechnology research
 
 **(6) Program component area**
 
-The term “program component area” means a major subject area established under section 7501(c)(2) of this title under which is 1
+The term “program component area” means a major subject area established under section 7501(c)(2) of this title under which is 1
 
-<sup>1</sup>  So in original. Probably should be “are”.
+<sup>1</sup> So in original. Probably should be “are”.
 
 grouped related individual projects and activities carried out under the Program.
 
-(Pub. L. 108–153, § 10, Dec. 3, 2003, 117 Stat. 1931.)
+(Pub. L. 108–153, § 10, Dec. 3, 2003, 117 Stat. 1931.)

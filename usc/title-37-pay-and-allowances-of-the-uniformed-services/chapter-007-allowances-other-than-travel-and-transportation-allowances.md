@@ -19,105 +19,105 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2022—Pub. L. 117–263, div. A, title VI, § 615(b), Dec. 23, 2022, 136 Stat. 2624, added item 431.
+2022—Pub. L. 117–263, div. A, title VI, § 615(b), Dec. 23, 2022, 136 Stat. 2624, added item 431.
 
-2021—Pub. L. 117–81, div. A, title VI, § 601(d), Dec. 27, 2021, 135 Stat. 1765, added item 402b.
+2021—Pub. L. 117–81, div. A, title VI, § 601(d), Dec. 27, 2021, 135 Stat. 1765, added item 402b.
 
-Pub. L. 116–283, div. A, title VI, § 604(c)(1), Jan. 1, 2021, 134 Stat. 3672, added items 405 and 435.
+Pub. L. 116–283, div. A, title VI, § 604(c)(1), Jan. 1, 2021, 134 Stat. 3672, added items 405 and 435.
 
-2017—Pub. L. 115–91, div. A, title VI, § 604(a)(2), Dec. 12, 2017, 131 Stat. 1420, added item 403a.
+2017—Pub. L. 115–91, div. A, title VI, § 604(a)(2), Dec. 12, 2017, 131 Stat. 1420, added item 403a.
 
-2016—Pub. L. 114–328, div. A, title VI, § 644(b)(3), Dec. 23, 2016, 130 Stat. 2167, substituted “Allowance to cover monthly premium for Servicemembers’ Group Life Insurance: members serving in a designated duty assignment” for “Allowance to cover monthly premium for Servicemembers’ Group Life Insurance: members serving in Operation Enduring Freedom or Operation Iraqi Freedom” in item 437.
+2016—Pub. L. 114–328, div. A, title VI, § 644(b)(3), Dec. 23, 2016, 130 Stat. 2167, substituted “Allowance to cover monthly premium for Servicemembers’ Group Life Insurance: members serving in a designated duty assignment” for “Allowance to cover monthly premium for Servicemembers’ Group Life Insurance: members serving in Operation Enduring Freedom or Operation Iraqi Freedom” in item 437.
 
-2011—Pub. L. 112–81, div. A, title VI, § 631(f)(1), (3)(A), Dec. 31, 2011, 125 Stat. 1464, 1465, substituted “ALLOWANCES OTHER THAN TRAVEL AND TRANSPORTATION ALLOWANCES” for “ALLOWANCES” in chapter heading and struck out items 404 “Travel and transportation allowances: general”, 404a “Travel and transportation allowances: temporary lodging expenses”, 404b “Travel and transportation allowances: payment of lodging expenses at temporary duty location during authorized absence of member”, 405 “Travel and transportation allowances: per diem while on duty outside the continental United States”, 405a “Travel and transportation allowances: departure allowances”, 406 “Travel and transportation allowances: dependents; baggage and household effects”, 406a “Travel and transportation allowances: authorized for travel performed under orders that are canceled, revoked, or modified”, 406b “Travel and transportation allowances: members of the uniformed services attached to a ship overhauling or inactivating”, 406c “Travel and transportation allowances: members assigned to a vessel under construction”, 407 “Travel and transportation allowances: dislocation allowance”, 408 “Travel and transportation allowances: travel within limits of duty station”, 408a “Travel and transportation allowances: inactive duty training outside of normal commuting distances”, 409 “Travel and transportation allowances: house trailers and mobile homes”, 410 “Travel and transportation allowances: miscellaneous categories”, 411 “Travel and transportation allowances: administrative provisions”, 411a “Travel and transportation allowances: travel performed in connection with convalescent leave”, 411b “Travel and transportation allowances: travel performed in connection with leave between consecutive overseas tours”, 411c “Travel and transportation allowances: travel performed in connection with rest and recuperative leave from certain stations in foreign countries”, 411d “Travel and transportation allowances: transportation incident to personal emergencies for certain members and dependents”, 411e “Travel and transportation allowances: transportation incident to certain emergencies for members performing temporary duty”, 411f “Travel and transportation allowances: transportation for survivors of deceased member to attend member’s burial ceremonies; transportation for survivors of member dying overseas to attend transfer ceremonies”, 411g “Travel and transportation allowances: transportation incident to voluntary extensions of overseas tours of duty”, 411h “Travel and transportation allowances: transportation of designated individuals incident to hospitalization of members for treatment of wounds, illness, or injury”, 411i “Travel and transportation allowances: parking expenses”, 411j “Travel and transportation allowances: transportation of family members incident to the repatriation of members held captive”, 411k “Travel and transportation allowances: non-medical attendants for members who are determined to be very seriously or seriously wounded, ill, or injured”, 411*l* “Travel and transportation allowances: attendance of members and other persons at Yellow Ribbon Reintegration Program events”, 412 “Appropriations for travel: may not be used for attendance at certain meetings”, 428 “Allowance for recruiting expenses”, 429 “Travel and transportation allowances: minor dependent schooling”, 430 “Travel and transportation: dependent children of members stationed overseas”, 431 “Benefits for certain members assigned to the Defense Intelligence Agency”, 432 “Travel and transportation: members escorting certain dependents”, 434 “Subsistence reimbursement relating to escorts of foreign arms control inspection teams”, and 435 “Funeral honors duty: allowance”.
+2011—Pub. L. 112–81, div. A, title VI, § 631(f)(1), (3)(A), Dec. 31, 2011, 125 Stat. 1464, 1465, substituted “ALLOWANCES OTHER THAN TRAVEL AND TRANSPORTATION ALLOWANCES” for “ALLOWANCES” in chapter heading and struck out items 404 “Travel and transportation allowances: general”, 404a “Travel and transportation allowances: temporary lodging expenses”, 404b “Travel and transportation allowances: payment of lodging expenses at temporary duty location during authorized absence of member”, 405 “Travel and transportation allowances: per diem while on duty outside the continental United States”, 405a “Travel and transportation allowances: departure allowances”, 406 “Travel and transportation allowances: dependents; baggage and household effects”, 406a “Travel and transportation allowances: authorized for travel performed under orders that are canceled, revoked, or modified”, 406b “Travel and transportation allowances: members of the uniformed services attached to a ship overhauling or inactivating”, 406c “Travel and transportation allowances: members assigned to a vessel under construction”, 407 “Travel and transportation allowances: dislocation allowance”, 408 “Travel and transportation allowances: travel within limits of duty station”, 408a “Travel and transportation allowances: inactive duty training outside of normal commuting distances”, 409 “Travel and transportation allowances: house trailers and mobile homes”, 410 “Travel and transportation allowances: miscellaneous categories”, 411 “Travel and transportation allowances: administrative provisions”, 411a “Travel and transportation allowances: travel performed in connection with convalescent leave”, 411b “Travel and transportation allowances: travel performed in connection with leave between consecutive overseas tours”, 411c “Travel and transportation allowances: travel performed in connection with rest and recuperative leave from certain stations in foreign countries”, 411d “Travel and transportation allowances: transportation incident to personal emergencies for certain members and dependents”, 411e “Travel and transportation allowances: transportation incident to certain emergencies for members performing temporary duty”, 411f “Travel and transportation allowances: transportation for survivors of deceased member to attend member’s burial ceremonies; transportation for survivors of member dying overseas to attend transfer ceremonies”, 411g “Travel and transportation allowances: transportation incident to voluntary extensions of overseas tours of duty”, 411h “Travel and transportation allowances: transportation of designated individuals incident to hospitalization of members for treatment of wounds, illness, or injury”, 411i “Travel and transportation allowances: parking expenses”, 411j “Travel and transportation allowances: transportation of family members incident to the repatriation of members held captive”, 411k “Travel and transportation allowances: non-medical attendants for members who are determined to be very seriously or seriously wounded, ill, or injured”, 411*l* “Travel and transportation allowances: attendance of members and other persons at Yellow Ribbon Reintegration Program events”, 412 “Appropriations for travel: may not be used for attendance at certain meetings”, 428 “Allowance for recruiting expenses”, 429 “Travel and transportation allowances: minor dependent schooling”, 430 “Travel and transportation: dependent children of members stationed overseas”, 431 “Benefits for certain members assigned to the Defense Intelligence Agency”, 432 “Travel and transportation: members escorting certain dependents”, 434 “Subsistence reimbursement relating to escorts of foreign arms control inspection teams”, and 435 “Funeral honors duty: allowance”.
 
-Pub. L. 111–383, div. A, title X, § 1075(c)(3)(B), Jan. 7, 2011, 124 Stat. 4372, added item 438 and struck out former item 438 “Preventive health care allowance”.
+Pub. L. 111–383, div. A, title X, § 1075(c)(3)(B), Jan. 7, 2011, 124 Stat. 4372, added item 438 and struck out former item 438 “Preventive health care allowance”.
 
-Pub. L. 111–383, div. A, title X, § 1075(c)(3)(A), Jan. 7, 2011, 124 Stat. 4372, which directed substitution of item 411k for item 438, was executed by making the substitution for former item 411k “Travel and transportation allowances: non-medical attendants for members determined to be very seriously or seriously wounded, ill, or injured”, to reflect the probable intent of Congress.
+Pub. L. 111–383, div. A, title X, § 1075(c)(3)(A), Jan. 7, 2011, 124 Stat. 4372, which directed substitution of item 411k for item 438, was executed by making the substitution for former item 411k “Travel and transportation allowances: non-medical attendants for members determined to be very seriously or seriously wounded, ill, or injured”, to reflect the probable intent of Congress.
 
-Pub. L. 111–383, div. A, title VI, § 622(a)(2), Jan. 7, 2011, 124 Stat. 4239, added item 411*l*.
+Pub. L. 111–383, div. A, title VI, § 622(a)(2), Jan. 7, 2011, 124 Stat. 4239, added item 411*l*.
 
-2009—Pub. L. 111–84, div. A, title V, § 542(b)(2)(B), title VI, §§ 603(c), 632(g)(2), 633(a)(2), Oct. 28, 2009, 123 Stat. 2300, 2350, 2362, 2363, added items 411f, 411k, and 439, struck out former item 411f “Travel and transportation allowances: transportation for survivors of deceased member to attend the member’s burial ceremonies”, and substituted “Travel and transportation allowances: transportation of designated individuals incident to hospitalization of members for treatment of wounds, illness, or injury” for “Travel and transportation allowances: transportation of family members incident to illness or injury of members” in item 411h.
+2009—Pub. L. 111–84, div. A, title V, § 542(b)(2)(B), title VI, §§ 603(c), 632(g)(2), 633(a)(2), Oct. 28, 2009, 123 Stat. 2300, 2350, 2362, 2363, added items 411f, 411k, and 439, struck out former item 411f “Travel and transportation allowances: transportation for survivors of deceased member to attend the member’s burial ceremonies”, and substituted “Travel and transportation allowances: transportation of designated individuals incident to hospitalization of members for treatment of wounds, illness, or injury” for “Travel and transportation allowances: transportation of family members incident to illness or injury of members” in item 411h.
 
-2008—Pub. L. 110–417, [div. A], title VII, § 714(b), Oct. 14, 2008, 122 Stat. 4505, added item 438.
+2008—Pub. L. 110–417, [div. A], title VII, § 714(b), Oct. 14, 2008, 122 Stat. 4505, added item 438.
 
-Pub. L. 110–181, div. A, title VI, §§ 631(a)(2), 633(a)(2), Jan. 28, 2008, 122 Stat. 154, 155, added items 408a and 433a.
+Pub. L. 110–181, div. A, title VI, §§ 631(a)(2), 633(a)(2), Jan. 28, 2008, 122 Stat. 154, 155, added items 408a and 433a.
 
-2006—Pub. L. 109–364, div. A, title VI, § 606(c), title X, § 1071(c)(5), Oct. 17, 2006, 120 Stat. 2246, 2401, substituted “dislocation allowance” for “dislocation allowances” in item 407, inserted “Corps” after “United States Marine” in item 425, and struck out “portion of” before “monthly” in item 437.
+2006—Pub. L. 109–364, div. A, title VI, § 606(c), title X, § 1071(c)(5), Oct. 17, 2006, 120 Stat. 2246, 2401, substituted “dislocation allowance” for “dislocation allowances” in item 407, inserted “Corps” after “United States Marine” in item 425, and struck out “portion of” before “monthly” in item 437.
 
-Pub. L. 109–163, div. A, title VI, §§ 613(b), 651(b)(2), 653(b) Jan. 6, 2006, 119 Stat. 3292, 3311, 3313, added items 411j and 437 and substituted “Travel and transportation allowances: payment of lodging expenses at temporary duty location during authorized absence of member” for “Travel and transportation allowances: lodging expenses at temporary duty location for members on authorized leave” in item 404b.
+Pub. L. 109–163, div. A, title VI, §§ 613(b), 651(b)(2), 653(b) Jan. 6, 2006, 119 Stat. 3292, 3311, 3313, added items 411j and 437 and substituted “Travel and transportation allowances: payment of lodging expenses at temporary duty location during authorized absence of member” for “Travel and transportation allowances: lodging expenses at temporary duty location for members on authorized leave” in item 404b.
 
-2005—Pub. L. 109–13, div. A, title I, § 1026(b)(2), May 11, 2005, 119 Stat. 254, substituted “illness or injury of members” for “the serious illness or injury of members” in item 411h.
+2005—Pub. L. 109–13, div. A, title I, § 1026(b)(2), May 11, 2005, 119 Stat. 254, substituted “illness or injury of members” for “the serious illness or injury of members” in item 411h.
 
-2004—Pub. L. 108–375, div. A, title VI, § 605(b)(3), Oct. 28, 2004, 118 Stat. 1945, substituted “continental United States” for “United States or in Hawaii or Alaska” in item 405.
+2004—Pub. L. 108–375, div. A, title VI, § 605(b)(3), Oct. 28, 2004, 118 Stat. 1945, substituted “continental United States” for “United States or in Hawaii or Alaska” in item 405.
 
-2003—Pub. L. 108–136, div. A, title V, § 541(b)(5)(B), title VI, § 635(b), Nov. 24, 2003, 117 Stat. 1477, 1511, added item 404b and substituted “High-deployment allowance: lengthy or numerous deployments; frequent mobilizations” for “Per diem allowance for lengthy or numerous deployments” in item 436.
+2003—Pub. L. 108–136, div. A, title V, § 541(b)(5)(B), title VI, § 635(b), Nov. 24, 2003, 117 Stat. 1477, 1511, added item 404b and substituted “High-deployment allowance: lengthy or numerous deployments; frequent mobilizations” for “Per diem allowance for lengthy or numerous deployments” in item 436.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1087(c)(1)(B)], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, made technical amendment to directory language of Pub. L. 106–65, § 586(c)(2). See 1999 Amendment note below.
+2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1087(c)(1)(B)], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, made technical amendment to directory language of Pub. L. 106–65, § 586(c)(2). See 1999 Amendment note below.
 
-Pub. L. 106–398, § 1 [[div. A], title X, § 1087(c)(1)(A)(ii)], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, made technical amendment to directory language of Pub. L. 106–65, § 578(k)(4). See 1999 Amendment note below.
+Pub. L. 106–398, § 1 [[div. A], title X, § 1087(c)(1)(A)(ii)], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, made technical amendment to directory language of Pub. L. 106–65, § 578(k)(4). See 1999 Amendment note below.
 
-Pub. L. 106–398, § 1 [[div. A], title VI, §§ 604(a)(2), 645(b), title X, § 1087(b)(4)], Oct. 30, 2000, 114 Stat. 1654, 1654A–147, 1654A–162, 1654A–292, added items 402a and 411i and redesignated item 435 “Per diem allowance for lengthy or numerous deployments” as 436.
+Pub. L. 106–398, § 1 [[div. A], title VI, §§ 604(a)(2), 645(b), title X, § 1087(b)(4)], Oct. 30, 2000, 114 Stat. 1654, 1654A–147, 1654A–162, 1654A–292, added items 402a and 411i and redesignated item 435 “Per diem allowance for lengthy or numerous deployments” as 436.
 
-1999—Pub. L. 106–65, div. A, title V, § 586(c)(2), Oct. 5, 1999, 113 Stat. 639, as amended by Pub. L. 106–398, § 1 [[div. A], title X, § 1087(c)(1)(B)], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, added item 435 “Per diem allowance for lengthy or numerous deployments”.
+1999—Pub. L. 106–65, div. A, title V, § 586(c)(2), Oct. 5, 1999, 113 Stat. 639, as amended by Pub. L. 106–398, § 1 [[div. A], title X, § 1087(c)(1)(B)], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, added item 435 “Per diem allowance for lengthy or numerous deployments”.
 
-Pub. L. 106–65, div. A, title V, § 578(k)(4), Oct. 5, 1999, 113 Stat. 631, as amended by Pub. L. 106–398, § 1 [[div. A], title X, § 1087(c)(1)(A)(ii)], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, added item 435 “Funeral honors duty: allowance”.
+Pub. L. 106–65, div. A, title V, § 578(k)(4), Oct. 5, 1999, 113 Stat. 631, as amended by Pub. L. 106–398, § 1 [[div. A], title X, § 1087(c)(1)(A)(ii)], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, added item 435 “Funeral honors duty: allowance”.
 
-1998—Pub. L. 105–261, div. A, title VI, § 633(b)(2), Oct. 17, 1998, 112 Stat. 2044, substituted “rest and recuperative leave from certain stations” for “leave from certain stations” in item 411c.
+1998—Pub. L. 105–261, div. A, title VI, § 633(b)(2), Oct. 17, 1998, 112 Stat. 2044, substituted “rest and recuperative leave from certain stations” for “leave from certain stations” in item 411c.
 
-1997—Pub. L. 105–85, div. A, title VI, § 603(c)(4), Nov. 18, 1997, 111 Stat. 1782, substituted “housing” for “quarters” in item 403 and struck out item 403a “Variable housing allowance”.
+1997—Pub. L. 105–85, div. A, title VI, § 603(c)(4), Nov. 18, 1997, 111 Stat. 1782, substituted “housing” for “quarters” in item 403 and struck out item 403a “Variable housing allowance”.
 
-1994—Pub. L. 103–337, div. A, title VI, § 602(a)(2), Oct. 5, 1994, 108 Stat. 2781, added item 403b.
+1994—Pub. L. 103–337, div. A, title VI, § 602(a)(2), Oct. 5, 1994, 108 Stat. 2781, added item 403b.
 
-1992—Pub. L. 102–484, div. A, title VI, § 623(a)(2), Oct. 23, 1992, 106 Stat. 2423, added item 434.
+1992—Pub. L. 102–484, div. A, title VI, § 623(a)(2), Oct. 23, 1992, 106 Stat. 2423, added item 434.
 
-1990—Pub. L. 101–510, div. A, title V, § 504(a)(1), title XIV, § 1484(f)(1), Nov. 5, 1990, 104 Stat. 1559, 1717, revised chapter heading so as to appear in all capital letters and renumbered Pub. L. 95–561, § 1407(c)(1)(B). See 1978 Amendment note below.
+1990—Pub. L. 101–510, div. A, title V, § 504(a)(1), title XIV, § 1484(f)(1), Nov. 5, 1990, 104 Stat. 1559, 1717, revised chapter heading so as to appear in all capital letters and renumbered Pub. L. 95–561, § 1407(c)(1)(B). See 1978 Amendment note below.
 
-1989—Pub. L. 101–189, div. A, title V, § 502(b)(2), title VI, § 624(a)(2), Nov. 29, 1989, 103 Stat. 1437, 1448, added items 406c and 433.
+1989—Pub. L. 101–189, div. A, title V, § 502(b)(2), title VI, § 624(a)(2), Nov. 29, 1989, 103 Stat. 1437, 1448, added items 406c and 433.
 
-1987—Pub. L. 100–180, div. A, title VI, §§ 611(a)(2), 614(a)(2), (d)(3), 615(a)(2), title XIII, § 1314(c)(2), Dec. 4, 1987, 101 Stat. 1093–1096, 1176, substituted “leave between consecutive overseas tours” for “certain leave” in item 411b, added items 411g and 411h, inserted “and Vice Chairman” in item 413, added item 419, and redesignated former items 419 and 420 as 420 and 421, respectively.
+1987—Pub. L. 100–180, div. A, title VI, §§ 611(a)(2), 614(a)(2), (d)(3), 615(a)(2), title XIII, § 1314(c)(2), Dec. 4, 1987, 101 Stat. 1093–1096, 1176, substituted “leave between consecutive overseas tours” for “certain leave” in item 411b, added items 411g and 411h, inserted “and Vice Chairman” in item 413, added item 419, and redesignated former items 419 and 420 as 420 and 421, respectively.
 
-Pub. L. 100–26, § 8(b)(1), Apr. 21, 1987, 101 Stat. 285, redesignated item 431 “Travel and transportation: members escorting certain dependents” as item 432.
+Pub. L. 100–26, § 8(b)(1), Apr. 21, 1987, 101 Stat. 285, redesignated item 431 “Travel and transportation: members escorting certain dependents” as item 432.
 
-1986—Pub. L. 99–661, div. A, title VI, § 615(a)(2), Nov. 14, 1986, 100 Stat. 3880, added item 431 “Travel and transportation: members escorting certain dependents”.
+1986—Pub. L. 99–661, div. A, title VI, § 615(a)(2), Nov. 14, 1986, 100 Stat. 3880, added item 431 “Travel and transportation: members escorting certain dependents”.
 
-1985—Pub. L. 99–145, title VI, §§ 616(c)(2), 620(a)(2), title XIII, §§ 1302(b)(2), 1303(b)(7), Nov. 8, 1985, 99 Stat. 641, 643, 738, 740, substituted “allowances:” for “allowances;” in item 404 and “departure” for “evacuation” in item 405a, struck out “away from home port” after “inactivating” in item 406b, added item 411f, substituted “allowances” for “allowance” in item 425, and added item 431 “Benefits for certain members assigned to the Defense Intelligence Agency”.
+1985—Pub. L. 99–145, title VI, §§ 616(c)(2), 620(a)(2), title XIII, §§ 1302(b)(2), 1303(b)(7), Nov. 8, 1985, 99 Stat. 641, 643, 738, 740, substituted “allowances:” for “allowances;” in item 404 and “departure” for “evacuation” in item 405a, struck out “away from home port” after “inactivating” in item 406b, added item 411f, substituted “allowances” for “allowance” in item 425, and added item 431 “Benefits for certain members assigned to the Defense Intelligence Agency”.
 
-1984—Pub. L. 98–525, title VI, §§ 602(d)(2), 612(a)(2), Oct. 19, 1984, 98 Stat. 2536, 2539, struck out “; variable housing allowance” after “Basic allowance for quarters” in item 403, and added item 403a, and substituted “personal emergencies for certain members and dependents” for “certain emergencies for members performing temporary duty” in item 411d.
+1984—Pub. L. 98–525, title VI, §§ 602(d)(2), 612(a)(2), Oct. 19, 1984, 98 Stat. 2536, 2539, struck out “; variable housing allowance” after “Basic allowance for quarters” in item 403, and added item 403a, and substituted “personal emergencies for certain members and dependents” for “certain emergencies for members performing temporary duty” in item 411d.
 
-1983—Pub. L. 98–94, title IX, §§ 910(a)(2), 932(e)(2), Sept. 24, 1983, 97 Stat. 639, 650, struck out item 421 “Contract surgeons” and added item 430.
+1983—Pub. L. 98–94, title IX, §§ 910(a)(2), 932(e)(2), Sept. 24, 1983, 97 Stat. 639, 650, struck out item 421 “Contract surgeons” and added item 430.
 
-1981—Pub. L. 97–60, title I, §§ 122(a)(2), 126(b), Oct. 14, 1981, 95 Stat. 1003, 1005, added items 404a, 411c, 411d, and 411e.
+1981—Pub. L. 97–60, title I, §§ 122(a)(2), 126(b), Oct. 14, 1981, 95 Stat. 1003, 1005, added items 404a, 411c, 411d, and 411e.
 
-Pub. L. 97–22, § 11(b)(3)(B), July 10, 1981, 95 Stat. 138, substituted “uniformed services” for “Uniformed Services” in item 406b.
+Pub. L. 97–22, § 11(b)(3)(B), July 10, 1981, 95 Stat. 138, substituted “uniformed services” for “Uniformed Services” in item 406b.
 
-1980—Pub. L. 96–343, § 4(a)(3), Sept. 8, 1980, 94 Stat. 1125, substituted “for quarters; variable housing allowance” for “for quarters” in item 403.
+1980—Pub. L. 96–343, § 4(a)(3), Sept. 8, 1980, 94 Stat. 1125, substituted “for quarters; variable housing allowance” for “for quarters” in item 403.
 
-Pub. L. 96–342, title VIII, § 808(a)(2), Sept. 8, 1980, 94 Stat. 1097, substituted “house trailers and mobile homes” for “trailers” in item 409.
+Pub. L. 96–342, title VIII, § 808(a)(2), Sept. 8, 1980, 94 Stat. 1097, substituted “house trailers and mobile homes” for “trailers” in item 409.
 
-1978—Pub. L. 95–561, title XIV, § 1407(e)(1)(B), formerly § 1407(c)(1)(B), Nov. 1, 1978, 92 Stat. 2367, renumbered § 1407(d)(1)(B) by Pub. L. 101–510, div. A, title V, § 504(a)(1), Nov. 5, 1990, 104 Stat. 1559, renumbered § 1407(e)(1)(B) by Pub. L. 107–107, div. A, title III, § 353(1), Dec. 28, 2001, 115 Stat. 1063, added item 429.
+1978—Pub. L. 95–561, title XIV, § 1407(e)(1)(B), formerly § 1407(c)(1)(B), Nov. 1, 1978, 92 Stat. 2367, renumbered § 1407(d)(1)(B) by Pub. L. 101–510, div. A, title V, § 504(a)(1), Nov. 5, 1990, 104 Stat. 1559, renumbered § 1407(e)(1)(B) by Pub. L. 107–107, div. A, title III, § 353(1), Dec. 28, 2001, 115 Stat. 1063, added item 429.
 
-1973—Pub. L. 93–213, § 1(2), Dec. 28, 1973, 87 Stat. 910, added item 411b.
+1973—Pub. L. 93–213, § 1(2), Dec. 28, 1973, 87 Stat. 910, added item 411b.
 
-Pub. L. 93–170, § 1(2), Nov. 29, 1973, 87 Stat. 689, substituted “overhauling or inactivating” for “overhauling” in item 406b.
+Pub. L. 93–170, § 1(2), Nov. 29, 1973, 87 Stat. 689, substituted “overhauling or inactivating” for “overhauling” in item 406b.
 
-1971—Pub. L. 92–129, title II, § 205(b), Sept. 28, 1971, 85 Stat. 359, added item 428.
+1971—Pub. L. 92–129, title II, § 205(b), Sept. 28, 1971, 85 Stat. 359, added item 428.
 
-1970—Pub. L. 91–210, § 1(2), Mar. 13, 1970, 84 Stat. 53, added item 406b.
+1970—Pub. L. 91–210, § 1(2), Mar. 13, 1970, 84 Stat. 53, added item 406b.
 
-1968—Pub. L. 90–377, § 9, July 5, 1968, 82 Stat. 288, struck out item 426 “Prisoners in naval confinement facilities”.
+1968—Pub. L. 90–377, § 9, July 5, 1968, 82 Stat. 288, struck out item 426 “Prisoners in naval confinement facilities”.
 
-1967—Pub. L. 90–207, § 9(2), Dec. 16, 1967, 81 Stat. 655, inserted item 411a.
+1967—Pub. L. 90–207, § 9(2), Dec. 16, 1967, 81 Stat. 655, inserted item 411a.
 
-1965—Pub. L. 89–26, § 1(2), May 22, 1965, 79 Stat. 117, inserted item 405a.
+1965—Pub. L. 89–26, § 1(2), May 22, 1965, 79 Stat. 117, inserted item 405a.
 
-1964—Pub. L. 88–647, title II, § 202(6), Oct. 13, 1964, 78 Stat. 1071, substituted “Cadets and midshipmen” for “Cadets, midshipmen, and naval officer candidates” in item 422.
+1964—Pub. L. 88–647, title II, § 202(6), Oct. 13, 1964, 78 Stat. 1071, substituted “Cadets and midshipmen” for “Cadets, midshipmen, and naval officer candidates” in item 422.
 
-1963—Pub. L. 88–238, § 1(2), Dec. 23, 1963, 77 Stat. 476, inserted item 406a.
+1963—Pub. L. 88–238, § 1(2), Dec. 23, 1963, 77 Stat. 476, inserted item 406a.
 
-Pub. L. 88–132, § 11(2), Oct. 2, 1963, 77 Stat. 217, added item 427.
+Pub. L. 88–132, § 11(2), Oct. 2, 1963, 77 Stat. 217, added item 427.
 
-## § 401. Definitions
+## § 401. Definitions
 
 **(a) Dependent Defined.—** In this chapter, the term “dependent”, with respect to a member of a uniformed service, means the following persons:
 
@@ -179,13 +179,13 @@ Pub. L. 88–132, § 11(2), Oct. 2, 1963, 77 Stat. 217, added item 427.
 
 **(E)** any other person, including a former stepparent, who has stood in loco parentis to the member at any time for a continuous period of at least five years before the member became 21 years of age.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 469; Pub. L. 93–64, title I, §§ 103, 104, July 9, 1973, 87 Stat. 148; Pub. L. 100–26, § 8(e)(7), Apr. 21, 1987, 101 Stat. 286; Pub. L. 102–190, div. A, title VI, § 621, Dec. 5, 1991, 105 Stat. 1377; Pub. L. 103–160, div. A, title VI, § 631(a), Nov. 30, 1993, 107 Stat. 1683; Pub. L. 103–337, div. A, title VII, § 701(b), Oct. 5, 1994, 108 Stat. 2797.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 469; Pub. L. 93–64, title I, §§ 103, 104, July 9, 1973, 87 Stat. 148; Pub. L. 100–26, § 8(e)(7), Apr. 21, 1987, 101 Stat. 286; Pub. L. 102–190, div. A, title VI, § 621, Dec. 5, 1991, 105 Stat. 1377; Pub. L. 103–160, div. A, title VI, § 631(a), Nov. 30, 1993, 107 Stat. 1683; Pub. L. 103–337, div. A, title VII, § 701(b), Oct. 5, 1994, 108 Stat. 2797.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 401 | 37:231(g) (less last proviso of last sentence). | Oct. 12, 1949, ch. 681, § 102(g) (less last proviso of last sentence), 63 Stat. 804; Sept. 8, 1950, ch. 922, § 1, 64 Stat. 794; Mar. 23, 1953, ch. 8 (as applicable to § 102(g)), 67 Stat. 6; June 30, 1955, ch. 250, § 103 (as applicable to § 102(g)), 69 Stat. 224; Mar. 23, 1959, Pub. L. 86–4, § 3 (as applicable to § 102(g)), 73 Stat. 13. |
+| 401 | 37:231(g) (less last proviso of last sentence). | Oct. 12, 1949, ch. 681, § 102(g) (less last proviso of last sentence), 63 Stat. 804; Sept. 8, 1950, ch. 922, § 1, 64 Stat. 794; Mar. 23, 1953, ch. 8 (as applicable to § 102(g)), 67 Stat. 6; June 30, 1955, ch. 250, § 103 (as applicable to § 102(g)), 69 Stat. 224; Mar. 23, 1959, Pub. L. 86–4, § 3 (as applicable to § 102(g)), 73 Stat. 13. |
 
 The words “lawful”, “at all times and in all places”, “except as hereinafter limited in this subsection”, and “in addition to those persons otherwise defined as dependents in this subsection” are omitted as surplusage. In clause (1), the word “spouse” is substituted for words “wife” and “husband”. Clause (2) is substituted for the 16th through 24th words of the first sentence of section 231(g) of existing title 37 and the third sentence (less last proviso) of section 231(g) of existing title 37. Clause (3) is substituted for the second sentence of section 231(g) of existing title 37 and the last sentence (less provisos) of section 231(g) of existing title 37. The second sentence is substituted for the last proviso of the third sentence of section 231(g) of existing title 37. The last sentence is substituted for the first proviso of the last sentence of section 231(g) of existing title 37.
 
@@ -217,23 +217,23 @@ For the purposes of this section, the relationship between a stepparent and his 
 
 1987—Pub. L. 100–26 inserted “the term” after “In this chapter,”.
 
-1973—Cl. (2). Pub. L. 93–64, § 103(1), in revising cl. (1) of first sentence, substituted “unmarried child” for “unmarried legitimate child” and defined dependent to include an illegitimate child whose alleged member-father has been judicially decreed to be the father of the child or judicially ordered to contribute to the child’s support, or whose parentage has been admitted in writing by the member.
+1973—Cl. (2). Pub. L. 93–64, § 103(1), in revising cl. (1) of first sentence, substituted “unmarried child” for “unmarried legitimate child” and defined dependent to include an illegitimate child whose alleged member-father has been judicially decreed to be the father of the child or judicially ordered to contribute to the child’s support, or whose parentage has been admitted in writing by the member.
 
-Cl. (3). Pub. L. 93–64, § 104, in revising cl. (3) of first sentence, substituted “five years before the member became 21 years” for “five years before he became 21 years”, struck out requirement of actual residence of parent in the member’s household, and inserted provision respecting determination of dependency of parent, including items (A) and (B), formerly contained in former section 2201 of Appendix to Title 50, War and National Defense.
+Cl. (3). Pub. L. 93–64, § 104, in revising cl. (3) of first sentence, substituted “five years before the member became 21 years” for “five years before he became 21 years”, struck out requirement of actual residence of parent in the member’s household, and inserted provision respecting determination of dependency of parent, including items (A) and (B), formerly contained in former section 2201 of Appendix to Title 50, War and National Defense.
 
-Closing text. Pub. L. 93–64, § 103(2), struck out second sentence, following cl. (3) of first sentence, stating that a person is not a dependent of a female member unless he is in fact dependent on her for over one-half of his support.
+Closing text. Pub. L. 93–64, § 103(2), struck out second sentence, following cl. (3) of first sentence, stating that a person is not a dependent of a female member unless he is in fact dependent on her for over one-half of his support.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–160, div. A, title VI, § 631(b), Nov. 30, 1993, 107 Stat. 1684, provided that: “Section 401(a)(4) of title 37, United States Code, as added by subsection (a), shall apply with respect to determinations of dependency made on or after July 1, 1994.”
+Pub. L. 103–160, div. A, title VI, § 631(b), Nov. 30, 1993, 107 Stat. 1684, provided that: “Section 401(a)(4) of title 37, United States Code, as added by subsection (a), shall apply with respect to determinations of dependency made on or after July 1, 1994.”
 
 **Effective Date of 1973 Amendment**
 
-Pub. L. 93–64, title II, § 206, July 9, 1973, 87 Stat. 149, provided that: “This Act [enacting section 1173 of Title 10, Armed Forces, amending this section and sections 302, 302a, 303, 308a, and 403 of this title, and repealing sections 2210 to 2212 of the former Appendix to Title 50, War and National Defense] shall become effective July 1, 1973.”
+Pub. L. 93–64, title II, § 206, July 9, 1973, 87 Stat. 149, provided that: “This Act [enacting section 1173 of Title 10, Armed Forces, amending this section and sections 302, 302a, 303, 308a, and 403 of this title, and repealing sections 2210 to 2212 of the former Appendix to Title 50, War and National Defense] shall become effective July 1, 1973.”
 
-## § 402. Basic allowance for subsistence
+## § 402. Basic allowance for subsistence
 
 **(a) Entitlement to Allowance.—**
 
@@ -289,17 +289,17 @@ Pub. L. 93–64, title II, § 206, July 9, 1973, 87 Stat. 149, provided that: 
 
 **(2)** The regulations shall include the specific rates of basic allowance for subsistence required by subsection (b).
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 470; Pub. L. 89–444, § 2(2), June 9, 1966, 80 Stat. 198; Pub. L. 93–419, § 3(1)–(5), Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–513, title IV, § 411, Dec. 12, 1980, 94 Stat. 2905; Pub. L. 98–94, title IX, § 908(a), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title VI, § 605, Oct. 19, 1984, 98 Stat. 2537; Pub. L. 98–557, § 17(d), Oct. 30, 1984, 98 Stat. 2868; Pub. L. 99–145, title XIII, § 1303(b)(5), Nov. 8, 1985, 99 Stat. 740; Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VI, § 602(a)–(c)(1), Feb. 10, 1996, 110 Stat. 356, 357; Pub. L. 105–85, div. A, title VI, § 602(a), Nov. 18, 1997, 111 Stat. 1771; Pub. L. 105–261, div. A, title VI, § 604(a), Oct. 17, 1998, 112 Stat. 2037; Pub. L. 106–398, § 1 [[div. A], title VI, § 603(a), (b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–144, 1654A–145; Pub. L. 107–107, div. A, title VI, § 604(a), Dec. 28, 2001, 115 Stat. 1133; Pub. L. 107–296, title XVII, § 1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, § 603, Dec. 2, 2002, 116 Stat. 2566; Pub. L. 108–136, div. A, title VI, § 604, title X, § 1045(b)(2), Nov. 24, 2003, 117 Stat. 1499, 1612; Pub. L. 109–163, div. A, title VI, § 607(a), Jan. 6, 2006, 119 Stat. 3288; Pub. L. 109–364, div. A, title VI, § 603(a), Oct. 17, 2006, 120 Stat. 2245; Pub. L. 110–181, div. A, title VI, § 614(h), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, [div. A], title VI, § 602, Oct. 14, 2008, 122 Stat. 4483; Pub. L. 119–60, div. A, title VI, § 621(a)(1), Dec. 18, 2025, 139 Stat. 908.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 470; Pub. L. 89–444, § 2(2), June 9, 1966, 80 Stat. 198; Pub. L. 93–419, § 3(1)–(5), Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–513, title IV, § 411, Dec. 12, 1980, 94 Stat. 2905; Pub. L. 98–94, title IX, § 908(a), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title VI, § 605, Oct. 19, 1984, 98 Stat. 2537; Pub. L. 98–557, § 17(d), Oct. 30, 1984, 98 Stat. 2868; Pub. L. 99–145, title XIII, § 1303(b)(5), Nov. 8, 1985, 99 Stat. 740; Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VI, § 602(a)–(c)(1), Feb. 10, 1996, 110 Stat. 356, 357; Pub. L. 105–85, div. A, title VI, § 602(a), Nov. 18, 1997, 111 Stat. 1771; Pub. L. 105–261, div. A, title VI, § 604(a), Oct. 17, 1998, 112 Stat. 2037; Pub. L. 106–398, § 1 [[div. A], title VI, § 603(a), (b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–144, 1654A–145; Pub. L. 107–107, div. A, title VI, § 604(a), Dec. 28, 2001, 115 Stat. 1133; Pub. L. 107–296, title XVII, § 1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, § 603, Dec. 2, 2002, 116 Stat. 2566; Pub. L. 108–136, div. A, title VI, § 604, title X, § 1045(b)(2), Nov. 24, 2003, 117 Stat. 1499, 1612; Pub. L. 109–163, div. A, title VI, § 607(a), Jan. 6, 2006, 119 Stat. 3288; Pub. L. 109–364, div. A, title VI, § 603(a), Oct. 17, 2006, 120 Stat. 2245; Pub. L. 110–181, div. A, title VI, § 614(h), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, [div. A], title VI, § 602, Oct. 14, 2008, 122 Stat. 4483; Pub. L. 119–60, div. A, title VI, § 621(a)(1), Dec. 18, 2025, 139 Stat. 908.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 402(a) 402(b) | 37:251(a) (1st sentence). 37:251(a) (2d and last sentences). 37:251(b). 37:251(c). | Oct. 12, 1949, ch. 681, § 301, 63 Stat. 812; May 19, 1952, ch. 310, § 1(d), 66 Stat. 80; Aug. 10, 1956, ch. 1041, § 20(b), 70A Stat. 627; Sept. 2, 1958, Pub. L. 85–861, § 10, 72 Stat. 1556. |
-|  | 37:251a. | Aug. 1, 1953, ch. 305, § 617, 67 Stat. 352. |
-| 402(c)   402(d) 402(e) 402(f) | 37:301(a) (45 words before proviso). 37:301(e) (less applicability to basic pay, incentive pay, administrative pay, and duty without pay). 37:251(a) (less 1st, 2d, and last sentences). 37:251(e). 37:251(f). 37:251(d). | Oct. 12, 1949, ch. 681, § 501(a) (45 words before proviso), (e) (less applicability to basic pay, incentive pay, administrative pay, and duty without pay), 63 Stat. 825, 827; July 9, 1952, ch. 608, § 244, 66 Stat. 494; June 30, 1960, Pub. L. 86–559, § 8, 74 Stat. 282. |
+| 402(a) 402(b) | 37:251(a) (1st sentence). 37:251(a) (2d and last sentences). 37:251(b). 37:251(c). | Oct. 12, 1949, ch. 681, § 301, 63 Stat. 812; May 19, 1952, ch. 310, § 1(d), 66 Stat. 80; Aug. 10, 1956, ch. 1041, § 20(b), 70A Stat. 627; Sept. 2, 1958, Pub. L. 85–861, § 10, 72 Stat. 1556. |
+|  | 37:251a. | Aug. 1, 1953, ch. 305, § 617, 67 Stat. 352. |
+| 402(c) 402(d) 402(e) 402(f) | 37:301(a) (45 words before proviso). 37:301(e) (less applicability to basic pay, incentive pay, administrative pay, and duty without pay). 37:251(a) (less 1st, 2d, and last sentences). 37:251(e). 37:251(f). 37:251(d). | Oct. 12, 1949, ch. 681, § 501(a) (45 words before proviso), (e) (less applicability to basic pay, incentive pay, administrative pay, and duty without pay), 63 Stat. 825, 827; July 9, 1952, ch. 608, § 244, 66 Stat. 494; June 30, 1960, Pub. L. 86–559, § 8, 74 Stat. 282. |
 
-In subsection (a), the words “in the amount set forth in subsection (d)” are substituted for the words “in such amounts . . . as are provided in this section”.
+In subsection (a), the words “in the amount set forth in subsection (d)” are substituted for the words “in such amounts . . . as are provided in this section”.
 
 In subsection (b), the words “on a daily basis” are substituted for the last sentence of section 251(a) of existing title 37. The words “United States” are substituted for the word “Government”, in the 2d sentence of section 251(a) of existing title 37, section 251(b) of existing title 37, and section 251(e) of existing title 37. The word “confined” is substituted for the word “sick” for clarity. The last 16 words of the third sentence are substituted for section 251(b) (proviso) of existing title 37. The fourth sentence is substituted for section 251(a) of existing title 37. The last sentence is substituted for section 301(a) (45 words before proviso) of existing title 37 and section 301(e) (less applicability to basic pay, incentive pay, administrative pay, and duty without pay). In that sentence, the words “of a reserve component of a uniformed service, or of the National Guard” are substituted for the enumeration of the organizations concerned.
 
@@ -313,35 +313,35 @@ In subsection (e), the words “Effective April 15, 1955,” are omitted as exec
 
 **Amendments**
 
-2025—Subsec. (b)(1). Pub. L. 119–60, § 621(a)(1)(A), added par. (1) and struck out former par. (1) which related to the monthly rate of basic allowance for subsistence to be in effect for an enlisted member.
+2025—Subsec. (b)(1). Pub. L. 119–60, § 621(a)(1)(A), added par. (1) and struck out former par. (1) which related to the monthly rate of basic allowance for subsistence to be in effect for an enlisted member.
 
-Subsec. (b)(3). Pub. L. 119–60, § 621(a)(1)(B), struck out par. (3) which read as follows: “For purposes of implementing paragraph (1), the monthly rate of basic allowance for subsistence that was in effect for an enlisted member for calendar year 2001 is deemed to be $233.”
+Subsec. (b)(3). Pub. L. 119–60, § 621(a)(1)(B), struck out par. (3) which read as follows: “For purposes of implementing paragraph (1), the monthly rate of basic allowance for subsistence that was in effect for an enlisted member for calendar year 2001 is deemed to be $233.”
 
-2008—Subsec. (h)(1). Pub. L. 110–417, § 602(1), struck out before period at end “during any month covered by paragraph (3) in which the member is entitled to a basic allowance for subsistence under this section”.
+2008—Subsec. (h)(1). Pub. L. 110–417, § 602(1), struck out before period at end “during any month covered by paragraph (3) in which the member is entitled to a basic allowance for subsistence under this section”.
 
-Subsec. (h)(3). Pub. L. 110–417, § 602(2), struck out par. (3) which read as follows: “This subsection shall apply to months beginning during the period beginning on October 1, 2005, and ending on December 31, 2008.”
+Subsec. (h)(3). Pub. L. 110–417, § 602(2), struck out par. (3) which read as follows: “This subsection shall apply to months beginning during the period beginning on October 1, 2005, and ending on December 31, 2008.”
 
 Pub. L. 110–181 substituted “December 31, 2008” for “December 31, 2007”.
 
-2006—Subsec. (h). Pub. L. 109–163, § 607(a)(2), added subsec. (h). Former subsec. (h) redesignated (i).
+2006—Subsec. (h). Pub. L. 109–163, § 607(a)(2), added subsec. (h). Former subsec. (h) redesignated (i).
 
 Subsec. (h)(3). Pub. L. 109–364 substituted “December 31, 2007” for “December 31, 2006”.
 
-Subsec. (i). Pub. L. 109–163, § 607(a)(1), redesignated subsec. (h) as (i).
+Subsec. (i). Pub. L. 109–163, § 607(a)(1), redesignated subsec. (h) as (i).
 
-2003—Subsec. (b)(1). Pub. L. 108–136, § 1045(b)(2)(A)(i)–(iii), redesignated par. (2) as (1), substituted “The” for “On and after January 1, 2002, the”, and struck out former par. (1) which read as follows: “Through December 31, 2001, the monthly rate of basic allowance for subsistence to be in effect for an enlisted member for a year (beginning on January 1 of that year) shall be the amount that is halfway between the following amounts, which are determined by the Secretary of Agriculture as of October 1 of the preceding year:
+2003—Subsec. (b)(1). Pub. L. 108–136, § 1045(b)(2)(A)(i)–(iii), redesignated par. (2) as (1), substituted “The” for “On and after January 1, 2002, the”, and struck out former par. (1) which read as follows: “Through December 31, 2001, the monthly rate of basic allowance for subsistence to be in effect for an enlisted member for a year (beginning on January 1 of that year) shall be the amount that is halfway between the following amounts, which are determined by the Secretary of Agriculture as of October 1 of the preceding year:
 
 “(A) The amount equal to the monthly cost of a moderate-cost food plan for a male in the United States who is between 20 and 50 years of age.”
 
 “(B) The amount equal to the monthly cost of a liberal food plan for a male in the United States who is between 20 and 50 years of age.”
 
-Subsec. (b)(2). Pub. L. 108–136, § 1045(b)(2)(A)(ii), redesignated par. (3) as (2). Former par. (2) redesignated (1).
+Subsec. (b)(2). Pub. L. 108–136, § 1045(b)(2)(A)(ii), redesignated par. (3) as (2). Former par. (2) redesignated (1).
 
-Subsec. (b)(3), (4). Pub. L. 108–136, § 1045(b)(2)(A)(ii), (iv), redesignated par. (4) as (3) and substituted “paragraph (1)” for “paragraph (2)”. Former par. (3) redesignated (2).
+Subsec. (b)(3), (4). Pub. L. 108–136, § 1045(b)(2)(A)(ii), (iv), redesignated par. (4) as (3) and substituted “paragraph (1)” for “paragraph (2)”. Former par. (3) redesignated (2).
 
-Subsec. (d). Pub. L. 108–136, § 1045(b)(2)(B), substituted “subsection (b)(1)” for “subsection (b)(2)”.
+Subsec. (d). Pub. L. 108–136, § 1045(b)(2)(B), substituted “subsection (b)(1)” for “subsection (b)(2)”.
 
-Subsecs. (f) to (h). Pub. L. 108–136, § 604, added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+Subsecs. (f) to (h). Pub. L. 108–136, § 604, added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
 2002—Subsec. (d). Pub. L. 107–314 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
 
@@ -353,21 +353,21 @@ Pub. L. 107–296, which directed amendment of subsec. (d) by substituting “of
 
 2001—Subsec. (b)(4). Pub. L. 107–107 added par. (4).
 
-2000—Subsec. (b)(1). Pub. L. 106–398, § 1 [[div. A], title VI, § 603(a)(1)], substituted “Through December 31, 2001, the monthly rate” for “The monthly rate” in introductory provisions.
+2000—Subsec. (b)(1). Pub. L. 106–398, § 1 [[div. A], title VI, § 603(a)(1)], substituted “Through December 31, 2001, the monthly rate” for “The monthly rate” in introductory provisions.
 
-Subsec. (b)(2), (3). Pub. L. 106–398, § 1 [[div. A], title VI, § 603(a)(2), (3)], added par. (2) and redesignated former par. (2) as (3).
+Subsec. (b)(2), (3). Pub. L. 106–398, § 1 [[div. A], title VI, § 603(a)(2), (3)], added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (d)(1). Pub. L. 106–398, § 1 [[div. A], title VI, § 603(b)], substituted “in effect under paragraph (1) or (2) of subsection (b)” for “established under subsection (b)(1)”.
+Subsec. (d)(1). Pub. L. 106–398, § 1 [[div. A], title VI, § 603(b)], substituted “in effect under paragraph (1) or (2) of subsection (b)” for “established under subsection (b)(1)”.
 
 1998—Subsecs. (e) to (g). Pub. L. 105–261 added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
 1997—Pub. L. 105–85 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to basic allowance for subsistence for members of the uniformed services.
 
-1996—Subsec. (b). Pub. L. 104–106, § 602(a), (b), designated first sentence as par. (1), redesignated former pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, of par. (1), designated second to fourth sentences as par. (2), designated fifth and sixth sentences as par. (3), and added par. (4).
+1996—Subsec. (b). Pub. L. 104–106, § 602(a), (b), designated first sentence as par. (1), redesignated former pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, of par. (1), designated second to fourth sentences as par. (2), designated fifth and sixth sentences as par. (3), and added par. (4).
 
-Subsec. (e)(1). Pub. L. 104–106, § 602(c)(1)(A), substituted “subsection (b)(2)” for “the third sentence of subsection (b)”.
+Subsec. (e)(1). Pub. L. 104–106, § 602(c)(1)(A), substituted “subsection (b)(2)” for “the third sentence of subsection (b)”.
 
-Subsec. (e)(2). Pub. L. 104–106, § 602(c)(1)(B), substituted “subsection (b)(2)” for “subsection (b)”.
+Subsec. (e)(2). Pub. L. 104–106, § 602(c)(1)(B), substituted “subsection (b)(2)” for “subsection (b)”.
 
 1991—Subsec. (e). Pub. L. 102–25 struck out “of this section” after “subsection (b)” in pars. (1) and (2).
 
@@ -379,17 +379,17 @@ Subsec. (d). Pub. L. 98–557 inserted provisions relating to Secretary of Trans
 
 1983—Subsec. (e). Pub. L. 98–94 designated existing provisions as par. (1) and added par. (2).
 
-1980—Subsec. (b). Pub. L. 96–513, § 411(a), inserted provisions authorizing an allowance while performing travel under orders, and struck out provisions prohibiting an allowance while being subsisted at the expense of United States.
+1980—Subsec. (b). Pub. L. 96–513, § 411(a), inserted provisions authorizing an allowance while performing travel under orders, and struck out provisions prohibiting an allowance while being subsisted at the expense of United States.
 
-Subsec. (e). Pub. L. 96–513, § 411(b), inserted reference to definitions of “field duty” and “sea duty”.
+Subsec. (e). Pub. L. 96–513, § 411(b), inserted reference to definitions of “field duty” and “sea duty”.
 
-1974—Subsec. (a). Pub. L. 93–419, § 3(1), struck out “this section or by another” after “otherwise provided by” and substituted “as set forth in this section” for “in the amount set forth in subsection (d) of this section”.
+1974—Subsec. (a). Pub. L. 93–419, § 3(1), struck out “this section or by another” after “otherwise provided by” and substituted “as set forth in this section” for “in the amount set forth in subsection (d) of this section”.
 
-Subsec. (b). Pub. L. 93–419, § 3(2), substituted provisions for allowance for enlisted members authorized to receive basic allowance for subsistence under this subsection by reference to section 1009 of this title for provisions for allowance for enlisted members on leave or were authorized to mess separately at an amount equal to the cost of ration to be determined by the Secretary of Defense.
+Subsec. (b). Pub. L. 93–419, § 3(2), substituted provisions for allowance for enlisted members authorized to receive basic allowance for subsistence under this subsection by reference to section 1009 of this title for provisions for allowance for enlisted members on leave or were authorized to mess separately at an amount equal to the cost of ration to be determined by the Secretary of Defense.
 
-Subsec. (c). Pub. L. 93–419, § 3(3), inserted reference to section 1009 of this title in provisions relating to the amount of basic allowance for subsistence.
+Subsec. (c). Pub. L. 93–419, § 3(3), inserted reference to section 1009 of this title in provisions relating to the amount of basic allowance for subsistence.
 
-Subsecs. (d) to (f). Pub. L. 93–419, § 3(4), (5), struck out subsec. (d) which related to basic allowance for subsistence for members of the uniformed services, and redesignated subsecs. (e) and (f) as (d) and (e), respectively.
+Subsecs. (d) to (f). Pub. L. 93–419, § 3(4), (5), struck out subsec. (d) which related to basic allowance for subsistence for members of the uniformed services, and redesignated subsecs. (e) and (f) as (d) and (e), respectively.
 
 1966—Subsec. (c). Pub. L. 89–444 extended to aviation cadets of the Coast Guard the entitlement to the same basic allowance for subsistence as is provided for an officer of the Coast Guard.
 
@@ -405,11 +405,11 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–85, div. A, title VI, § 602(g), Nov. 18, 1997, 111 Stat. 1775, provided that: “This section [amending this section, section 404 of this title, and section 6081 of Title 10, Armed Forces, and enacting provisions set out as a note below] and the amendments made by this section shall take effect on January 1, 1998.”
+Pub. L. 105–85, div. A, title VI, § 602(g), Nov. 18, 1997, 111 Stat. 1775, provided that: “This section [amending this section, section 404 of this title, and section 6081 of Title 10, Armed Forces, and enacting provisions set out as a note below] and the amendments made by this section shall take effect on January 1, 1998.”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–525, title VI, § 605, Oct. 19, 1984, 98 Stat. 2537, provided that the amendment made by that section is effective Oct. 1, 1984.
+Pub. L. 98–525, title VI, § 605, Oct. 19, 1984, 98 Stat. 2537, provided that the amendment made by that section is effective Oct. 1, 1984.
 
 **Effective Date of 1980 Amendment**
 
@@ -425,7 +425,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Rate for Enlisted Members When Messing Facilities Not Available**
 
-Pub. L. 107–107, div. A, title VI, § 604(b), Dec. 28, 2001, 115 Stat. 1133, provided that:
+Pub. L. 107–107, div. A, title VI, § 604(b), Dec. 28, 2001, 115 Stat. 1133, provided that:
 
 > **“(1)** Notwithstanding section 402 of title 37, United States Code, the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, may prescribe a rate of basic allowance for subsistence to apply to enlisted members of the uniformed services when messing facilities of the United States are not available. The rate may be higher than the rate of basic allowance for subsistence that would otherwise be applicable to the members under that section, but may not be higher than the highest rate that was in effect for enlisted members of the uniformed services under those circumstances before the date of the enactment of this Act [Dec. 28, 2001].
 
@@ -433,25 +433,25 @@ Pub. L. 107–107, div. A, title VI, § 604(b), Dec. 28, 2001, 115 Stat. 1133,
 
 **Transitional Authority To Provide Basic Allowance for Subsistence**
 
-Pub. L. 107–107, div. A, title VI, § 604(c), Dec. 28, 2001, 115 Stat. 1134, provided that: “Notwithstanding the repeal of subsections (c) through (f) of section 602 of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 37 U.S.C. 402 note) by section 603(c) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–145) [see below], the basic allowance for subsistence shall be paid in accordance with such subsections for October, November, and December of 2001.”
+Pub. L. 107–107, div. A, title VI, § 604(c), Dec. 28, 2001, 115 Stat. 1134, provided that: “Notwithstanding the repeal of subsections (c) through (f) of section 602 of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 37 U.S.C. 402 note) by section 603(c) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–145) [see below], the basic allowance for subsistence shall be paid in accordance with such subsections for October, November, and December of 2001.”
 
-Pub. L. 105–85, div. A, title VI, § 602(c)–(f), Nov. 18, 1997, 111 Stat. 1772, as amended by Pub. L. 105–261, div. A, title VI, § 604(b), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–398, § 1 [[div. A, title X, § 1087(e)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, which provided that a basic allowance for subsistence was to be paid to members of the uniformed services according to the conditions and at the rates provided in this note and not under the authority of this section during the period beginning on Jan. 1, 1998, and ending on the first day of the month immediately following the first month for which the monthly equivalent of the rate of basic allowance for subsistence payable to enlisted members of the uniformed services determined under this note was equal to or exceeded by the amount that would otherwise have been the monthly rate of basic allowance for subsistence under subsec. (b)(1) of this section, was repealed by Pub. L. 106–398, § 1 [[div. A, title VI, § 603(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–145, effective Oct. 1, 2001.
+Pub. L. 105–85, div. A, title VI, § 602(c)–(f), Nov. 18, 1997, 111 Stat. 1772, as amended by Pub. L. 105–261, div. A, title VI, § 604(b), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–398, § 1 [[div. A, title X, § 1087(e)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, which provided that a basic allowance for subsistence was to be paid to members of the uniformed services according to the conditions and at the rates provided in this note and not under the authority of this section during the period beginning on Jan. 1, 1998, and ending on the first day of the month immediately following the first month for which the monthly equivalent of the rate of basic allowance for subsistence payable to enlisted members of the uniformed services determined under this note was equal to or exceeded by the amount that would otherwise have been the monthly rate of basic allowance for subsistence under subsec. (b)(1) of this section, was repealed by Pub. L. 106–398, § 1 [[div. A, title VI, § 603(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–145, effective Oct. 1, 2001.
 
 **Increase in Basic Allowance for Subsistence**
 
-Pub. L. 96–343, § 7, Sept. 8, 1980, 94 Stat. 1128, provided that: “Effective September 1, 1980, the rates of basic allowance for subsistence authorized by section 402 of title 37, United States Code, as in effect on the day before the date of the enactment of this Act [Sept. 8, 1980] (as prescribed by the President under section 1009 of such title), are increased by 10 percent.”
+Pub. L. 96–343, § 7, Sept. 8, 1980, 94 Stat. 1128, provided that: “Effective September 1, 1980, the rates of basic allowance for subsistence authorized by section 402 of title 37, United States Code, as in effect on the day before the date of the enactment of this Act [Sept. 8, 1980] (as prescribed by the President under section 1009 of such title), are increased by 10 percent.”
 
 **Executive Documents**
 
 **Executive Order No. 10119**
 
-Ex. Ord. No. 10119, Mar. 30, 1950, 15 F.R. 1767, as amended by 1953 Reorg. Plan No. 1, §§ 5, 8, Apr. 11, 1953, 18 F.R. 2053; Ex. Ord. No. 10605, Apr. 22, 1955, 20 F.R. 2747, which related to regulations governing basic allowance for subsistence, was revoked by Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, formerly set out as a note under section 301 of this title.
+Ex. Ord. No. 10119, Mar. 30, 1950, 15 F.R. 1767, as amended by 1953 Reorg. Plan No. 1, §§ 5, 8, Apr. 11, 1953, 18 F.R. 2053; Ex. Ord. No. 10605, Apr. 22, 1955, 20 F.R. 2747, which related to regulations governing basic allowance for subsistence, was revoked by Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, formerly set out as a note under section 301 of this title.
 
 **Regulations Relating to Subsistence Allowance**
 
 Regulations relating to basic allowance for subsistence, see Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, formerly set out as a note under section 301 of this title.
 
-## § 402a. Supplemental subsistence allowance for low-income members with dependents
+## § 402a. Supplemental subsistence allowance for low-income members with dependents
 
 **(a) Supplemental Allowance Required.—**
 
@@ -505,9 +505,9 @@ Regulations relating to basic allowance for subsistence, see Ex. Ord. No. 11157,
 
 **(C)** A service provided under the Head Start Act (42 U.S.C. 9831 et seq.).
 
-**(D)** Assistance under the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 1
+**(D)** Assistance under the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 et seq.).
 
@@ -525,21 +525,21 @@ et seq.).
 
 **(3)** The term “supplemental nutrition assistance program” means the program established pursuant to section 4 of the Food and Nutrition Act of 2008 (7 U.S.C. 2013).
 
-(Added Pub. L. 106–398, § 1 [[div. A], title VI, § 604(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–145; amended Pub. L. 107–107, div. A, title VI, § 604(d), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 107–296, title XVII, § 1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title VI, § 602(a), (b), Oct. 28, 2004, 118 Stat. 1943; Pub. L. 109–163, div. A, title VI, § 608, Jan. 6, 2006, 119 Stat. 3289; Pub. L. 109–364, div. A, title X, § 1071(c)(6), (e)(4), Oct. 17, 2006, 120 Stat. 2401; Pub. L. 110–234, title IV, § 4002(b)(1)(A), (B), (2)(T), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(A), (B), (2)(T), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–84, div. A, title VI, § 602(a), Oct. 28, 2009, 123 Stat. 2347; Pub. L. 112–81, div. A, title X, § 1063(a), Dec. 31, 2011, 125 Stat. 1586; Pub. L. 114–92, div. A, title VI, § 602, Nov. 25, 2015, 129 Stat. 836; Pub. L. 114–328, div. A, title VI, § 618(h)(2), Dec. 23, 2016, 130 Stat. 2160.)
+(Added Pub. L. 106–398, § 1 [[div. A], title VI, § 604(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–145; amended Pub. L. 107–107, div. A, title VI, § 604(d), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 107–296, title XVII, § 1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title VI, § 602(a), (b), Oct. 28, 2004, 118 Stat. 1943; Pub. L. 109–163, div. A, title VI, § 608, Jan. 6, 2006, 119 Stat. 3289; Pub. L. 109–364, div. A, title X, § 1071(c)(6), (e)(4), Oct. 17, 2006, 120 Stat. 2401; Pub. L. 110–234, title IV, § 4002(b)(1)(A), (B), (2)(T), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(A), (B), (2)(T), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–84, div. A, title VI, § 602(a), Oct. 28, 2009, 123 Stat. 2347; Pub. L. 112–81, div. A, title X, § 1063(a), Dec. 31, 2011, 125 Stat. 1586; Pub. L. 114–92, div. A, title VI, § 602, Nov. 25, 2015, 129 Stat. 836; Pub. L. 114–328, div. A, title VI, § 618(h)(2), Dec. 23, 2016, 130 Stat. 2160.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Richard B. Russell National School Lunch Act, referred to in subsec. (f)(2)(A), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (f)(2)(A), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
-The Child Nutrition Act of 1966, referred to in subsec. (f)(2)(B), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
+The Child Nutrition Act of 1966, referred to in subsec. (f)(2)(B), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
-The Head Start Act, referred to in subsec. (f)(2)(C), is subchapter B (§ 635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
+The Head Start Act, referred to in subsec. (f)(2)(C), is subchapter B (§ 635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
-The Child Care and Development Block Grant Act of 1990, referred to in subsec. (f)(2)(D), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, § 5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 9857(a) of Title 42 and Tables.
+The Child Care and Development Block Grant Act of 1990, referred to in subsec. (f)(2)(D), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, § 5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 9857(a) of Title 42 and Tables.
 
-The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (f)(3), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, which is classified principally to subchapter II (§ 8621 et seq.) of chapter 94 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of Title 42 and Tables.
+The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (f)(3), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, which is classified principally to subchapter II (§ 8621 et seq.) of chapter 94 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of Title 42 and Tables.
 
 **Codification**
 
@@ -549,33 +549,33 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2016—Subsec. (b)(3)(B). Pub. L. 114–328 inserted “or 351” after “section 310”.
 
-2015—Subsec. (b)(1). Pub. L. 114–92, § 602(1), inserted “and paragraph (4)” after “subsection (d)”.
+2015—Subsec. (b)(1). Pub. L. 114–92, § 602(1), inserted “and paragraph (4)” after “subsection (d)”.
 
-Subsec. (b)(4). Pub. L. 114–92, § 602(2), added par. (4).
+Subsec. (b)(4). Pub. L. 114–92, § 602(2), added par. (4).
 
 2011—Subsecs. (f) to (h). Pub. L. 112–81 redesignated subsecs. (g) and (h) as (f) and (g), respectively, and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “Not later than March 1 of each year after 2001, the Secretary of Defense shall submit to Congress a report specifying the number of members of the armed forces who received, at any time during the preceding year, the supplemental subsistence allowance. In preparing the report, the Secretary of Defense shall consult with the Secretary of Homeland Security, with respect to the Coast Guard.”
 
 2009—Subsec. (a)(2), (3)(B). Pub. L. 111–84 substituted “$1,100” for “$500”.
 
-2008—Subsec. (a)(1), (3). Pub. L. 110–246, § 4002(b)(1)(A), (2)(T), substituted “supplemental nutrition assistance program” for “food stamp program”.
+2008—Subsec. (a)(1), (3). Pub. L. 110–246, § 4002(b)(1)(A), (2)(T), substituted “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsec. (b)(1). Pub. L. 110–246, § 4002(b)(1)(A), (B), (2)(T), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” and “supplemental nutrition assistance program” for “food stamp program”.
+Subsec. (b)(1). Pub. L. 110–246, § 4002(b)(1)(A), (B), (2)(T), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” and “supplemental nutrition assistance program” for “food stamp program”.
 
-Subsec. (h)(2). Pub. L. 110–246, § 4002(b)(1)(B), (2)(T), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+Subsec. (h)(2). Pub. L. 110–246, § 4002(b)(1)(B), (2)(T), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
-Subsec. (h)(3). Pub. L. 110–246, § 4002(b)(1)(A), (B), (2)(T), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+Subsec. (h)(3). Pub. L. 110–246, § 4002(b)(1)(A), (B), (2)(T), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
-2006—Subsec. (b)(3)(B). Pub. L. 109–364, § 1071(c)(6), substituted “title” for “section”.
+2006—Subsec. (b)(3)(B). Pub. L. 109–364, § 1071(c)(6), substituted “title” for “section”.
 
-Subsec. (f). Pub. L. 109–163, § 608(b), as amended by Pub. L. 109–364, § 1071(e)(4), substituted “Secretary of Homeland Security, with respect to the Coast Guard” for “Secretary of Transportation” and struck out at end “No report is required under this subsection after March 1, 2006.”
+Subsec. (f). Pub. L. 109–163, § 608(b), as amended by Pub. L. 109–364, § 1071(e)(4), substituted “Secretary of Homeland Security, with respect to the Coast Guard” for “Secretary of Transportation” and struck out at end “No report is required under this subsection after March 1, 2006.”
 
-Subsec. (i). Pub. L. 109–163, § 608(a), struck out heading and text of subsec. (i). Text read as follows: “No supplemental subsistence allowance may be provided under this section after September 30, 2006.”
+Subsec. (i). Pub. L. 109–163, § 608(a), struck out heading and text of subsec. (i). Text read as follows: “No supplemental subsistence allowance may be provided under this section after September 30, 2006.”
 
-2004—Subsec. (b)(2). Pub. L. 108–375, § 602(a)(1), substituted “concerned” for dash after “Secretary” and struck out “(A) shall not take into consideration the amount of the supplemental subsistence allowance payable under this section; but” and subpar. (B) designation before “shall take”.
+2004—Subsec. (b)(2). Pub. L. 108–375, § 602(a)(1), substituted “concerned” for dash after “Secretary” and struck out “(A) shall not take into consideration the amount of the supplemental subsistence allowance payable under this section; but” and subpar. (B) designation before “shall take”.
 
-Subsec. (b)(3). Pub. L. 108–375, § 602(a)(2), added par. (3).
+Subsec. (b)(3). Pub. L. 108–375, § 602(a)(2), added par. (3).
 
-Subsecs. (g) to (i). Pub. L. 108–375, § 602(b), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
+Subsecs. (g) to (i). Pub. L. 108–375, § 602(b), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
 2002—Subsec. (g)(1)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
@@ -585,7 +585,7 @@ Subsecs. (g) to (i). Pub. L. 108–375, § 602(b), added subsec. (g) and redes
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–84, div. A, title VI, § 602(b), Oct. 28, 2009, 123 Stat. 2347, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 2009, and shall apply with respect to monthly supplemental subsistence allowances for low-income members with dependents payable on or after that date.”
+Pub. L. 111–84, div. A, title VI, § 602(b), Oct. 28, 2009, 123 Stat. 2347, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 2009, and shall apply with respect to monthly supplemental subsistence allowances for low-income members with dependents payable on or after that date.”
 
 **Effective Date of 2008 Amendment**
 
@@ -595,11 +595,11 @@ Amendment by section 4002(b)(1)(A), (B), (2)(T) of Pub. L. 110–246 effective O
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–364, div. A, title X, § 1071(e), Oct. 17, 2006, 120 Stat. 2401, provided that the amendment made by section 1071(e)(4) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
+Pub. L. 109–364, div. A, title X, § 1071(e), Oct. 17, 2006, 120 Stat. 2401, provided that the amendment made by section 1071(e)(4) is effective as of Jan. 6, 2006, and as if included in Pub. L. 109–163 as enacted.
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–375, div. A, title VI, § 602(c), Oct. 28, 2004, 118 Stat. 1944, provided that: “The amendments made by this section [amending this section] shall apply in determining, on or after the date of the enactment of this Act [Oct. 28, 2004], the eligibility of a person for a supplemental subsistence allowance under section 402a of title 37, United States Code, or for Federal assistance under a law specified in subsection (g) of such section, as so amended.”
+Pub. L. 108–375, div. A, title VI, § 602(c), Oct. 28, 2004, 118 Stat. 1944, provided that: “The amendments made by this section [amending this section] shall apply in determining, on or after the date of the enactment of this Act [Oct. 28, 2004], the eligibility of a person for a supplemental subsistence allowance under section 402a of title 37, United States Code, or for Federal assistance under a law specified in subsection (g) of such section, as so amended.”
 
 **Effective Date of 2002 Amendment**
 
@@ -607,9 +607,9 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Effective Date**
 
-Pub. L. 106–398, § 1 [[div. A], title VI, § 604(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–147, provided that: “Section 402a of title 37, United States Code, as added by subsection (a), shall take effect on the first day of the first month that begins not less than 180 days after the date of the enactment of this Act [Oct. 30, 2000].”
+Pub. L. 106–398, § 1 [[div. A], title VI, § 604(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–147, provided that: “Section 402a of title 37, United States Code, as added by subsection (a), shall take effect on the first day of the first month that begins not less than 180 days after the date of the enactment of this Act [Oct. 30, 2000].”
 
-## § 402b. Basic needs allowance for members on active service in the Armed Forces
+## § 402b. Basic needs allowance for members on active service in the Armed Forces
 
 **(a) Allowance Required.—** The Secretary concerned shall pay to each member who is eligible under subsection (b) a basic needs allowance in the amount determined for such member under subsection (c).
 
@@ -699,7 +699,7 @@ Pub. L. 106–398, § 1 [[div. A], title VI, § 604(b)], Oct. 30, 2000, 114 
 
 **(2) Household.—** The term “household” means a member of the armed forces and any dependents of the member enrolled in the Defense Enrollment Eligibility Reporting System, regardless of the location of those dependents.
 
-(Added Pub. L. 117–81, div. A, title VI, § 601(a), Dec. 27, 2021, 135 Stat. 1761; amended Pub. L. 117–263, div. A, title VI, § 611(a), Dec. 23, 2022, 136 Stat. 2622; Pub. L. 117–328, div. O, title II, § 201(a), Dec. 29, 2022, 136 Stat. 5226; Pub. L. 118–31, div. A, title VI, § 621(a), Dec. 22, 2023, 137 Stat. 293; Pub. L. 118–159, div. A, title VI, § 621, Dec. 23, 2024, 138 Stat. 1933.)
+(Added Pub. L. 117–81, div. A, title VI, § 601(a), Dec. 27, 2021, 135 Stat. 1761; amended Pub. L. 117–263, div. A, title VI, § 611(a), Dec. 23, 2022, 136 Stat. 2622; Pub. L. 117–328, div. O, title II, § 201(a), Dec. 29, 2022, 136 Stat. 5226; Pub. L. 118–31, div. A, title VI, § 621(a), Dec. 22, 2023, 137 Stat. 293; Pub. L. 118–159, div. A, title VI, § 621, Dec. 23, 2024, 138 Stat. 1933.)
 
 **Editorial Notes**
 
@@ -709,31 +709,31 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 **Amendments**
 
-2024—Subsec. (b)(2). Pub. L. 118–159, § 621(a), struck out subpar. (A) designation before “the gross household income”, substituted “200 percent” for “150 percent” and “; and” for “; or”, and struck out subpar. (B) which read as follows: “if the Secretary concerned determines it appropriate (based on location, household need, or special circumstance), the gross household income of the member during the most recent calendar year did not exceed an amount equal to 200 percent of the Federal poverty guidelines of the Department of Health and Human Services for the location of the member and the number of individuals in the household of the member for such year; and”.
+2024—Subsec. (b)(2). Pub. L. 118–159, § 621(a), struck out subpar. (A) designation before “the gross household income”, substituted “200 percent” for “150 percent” and “; and” for “; or”, and struck out subpar. (B) which read as follows: “if the Secretary concerned determines it appropriate (based on location, household need, or special circumstance), the gross household income of the member during the most recent calendar year did not exceed an amount equal to 200 percent of the Federal poverty guidelines of the Department of Health and Human Services for the location of the member and the number of individuals in the household of the member for such year; and”.
 
-Subsec. (c)(1)(A). Pub. L. 118–159, § 621(b), substituted “200 percent” for “150 percent (or, in the case of a member described in subsection (b)(2)(B), 200 percent)”.
+Subsec. (c)(1)(A). Pub. L. 118–159, § 621(b), substituted “200 percent” for “150 percent (or, in the case of a member described in subsection (b)(2)(B), 200 percent)”.
 
 2023—Subsec. (k)(1)(B). Pub. L. 118–31 inserted “or that otherwise has a demonstrated need” after “high cost of living”.
 
-2022—Pub. L. 117–328, § 201(a)(1), made technical amendment to directory language of Pub. L. 117–263, § 611(a). See Amendment notes below.
+2022—Pub. L. 117–328, § 201(a)(1), made technical amendment to directory language of Pub. L. 117–263, § 611(a). See Amendment notes below.
 
-Subsec. (b)(2). Pub. L. 117–263, § 611(a)(1), as amended by Pub. L. 117–328, § 201(a)(2), designated existing provisions as subpar. (A), substituted “150 percent” for “130 percent” and “; or” for “; and”, and added subpar. (B).
+Subsec. (b)(2). Pub. L. 117–263, § 611(a)(1), as amended by Pub. L. 117–328, § 201(a)(2), designated existing provisions as subpar. (A), substituted “150 percent” for “130 percent” and “; or” for “; and”, and added subpar. (B).
 
-Subsec. (c)(1)(A). Pub. L. 117–263, § 611(a)(2), as amended by Pub. L. 117–328, § 201(a)(3), substituted “150 percent (or, in the case of a member described in subsection (b)(2)(B), 200 percent)” for “130 percent”.
+Subsec. (c)(1)(A). Pub. L. 117–263, § 611(a)(2), as amended by Pub. L. 117–328, § 201(a)(3), substituted “150 percent (or, in the case of a member described in subsection (b)(2)(B), 200 percent)” for “130 percent”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of *2022* Amendment**
 
-Pub. L. 117–328, div. O, title II, § 201(b), Dec. 29, 2022, 136 Stat. 5227, provided that: “The amendments made by this section [amending section 611(a) of Pub. L. 117–263, which amended this section] shall take effect as if included in the enactment of such Act [meaning Pub. L. 117–263, approved Dec. 23, 2022].”
+Pub. L. 117–328, div. O, title II, § 201(b), Dec. 29, 2022, 136 Stat. 5227, provided that: “The amendments made by this section [amending section 611(a) of Pub. L. 117–263, which amended this section] shall take effect as if included in the enactment of such Act [meaning Pub. L. 117–263, approved Dec. 23, 2022].”
 
 **Implementation**
 
-Pub. L. 118–31, div. A, title VI, § 621(b), Dec. 22, 2023, 137 Stat. 293, provided that: “The Secretary of Defense shall revise the guidance issued with respect to implementation of the basic needs allowance under section 402b of title 37, United States Code, to reflect the amendment made by subsection (a) [amending this section].”
+Pub. L. 118–31, div. A, title VI, § 621(b), Dec. 22, 2023, 137 Stat. 293, provided that: “The Secretary of Defense shall revise the guidance issued with respect to implementation of the basic needs allowance under section 402b of title 37, United States Code, to reflect the amendment made by subsection (a) [amending this section].”
 
-Pub. L. 117–263, div. A, title VI, § 611(b), Dec. 23, 2022, 136 Stat. 2622, provided that: “Not later than January 1, 2024, the Secretary concerned (as defined in section 101 of title 37, United States Code) shall modify the calculation of the basic needs allowance under section 402b of title 37, United States Code, to implement the amendments made by subsection (a) [amending this section].”
+Pub. L. 117–263, div. A, title VI, § 611(b), Dec. 23, 2022, 136 Stat. 2622, provided that: “Not later than January 1, 2024, the Secretary concerned (as defined in section 101 of title 37, United States Code) shall modify the calculation of the basic needs allowance under section 402b of title 37, United States Code, to implement the amendments made by subsection (a) [amending this section].”
 
-## § 403. Basic allowance for housing
+## § 403. Basic allowance for housing
 
 **(a) General Entitlement.—**
 
@@ -1011,15 +1011,15 @@ Pub. L. 117–263, div. A, title VI, § 611(b), Dec. 23, 2022, 136 Stat. 2622,
 
 **(2)** each time such member receives a permanent change of station.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 470; Pub. L. 88–132, § 10, Oct. 2, 1963, 77 Stat. 216; Pub. L. 89–718, §§ 49(a)(1), 54, Nov. 2, 1966, 80 Stat. 1121, 1122; Pub. L. 90–207, § 1(3), Dec. 16, 1967, 81 Stat. 651; Pub. L. 92–129, title II, § 204, Sept. 28, 1971, 85 Stat. 358; Pub. L. 93–64, title I, § 105, July 9, 1973, 87 Stat. 148; Pub. L. 93–419, § 3(6), Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–343, § 4(a)(1), (2), Sept. 8, 1980, 94 Stat. 1125; Pub. L. 96–513, title V, § 516(10), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §§ 6(a)–(c), 7, Dec. 23, 1980, 94 Stat. 3367, 3368; Pub. L. 97–22, § 11(b)(2), July 10, 1981, 95 Stat. 138; Pub. L. 98–94, title IX, § 907(a), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title VI, §§ 602(c), 604(a), Oct. 19, 1984, 98 Stat. 2534, 2537; Pub. L. 99–145, title VI, §§ 604(a), 605(a), title VIII, § 809(b), title XIII, § 1303(b)(6), Nov. 8, 1985, 99 Stat. 638, 681, 740; Pub. L. 99–227, § 1, Dec. 28, 1985, 99 Stat. 1745; Pub. L. 100–26, § 8(d)(5), Apr. 21, 1987, 101 Stat. 285; Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §§ 602(a), 604(a), 632(a), Dec. 5, 1991, 105 Stat. 1373, 1374, 1380; Pub. L. 103–337, div. A, title VI, § 604(a), (b), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 104–106, div. A, title VI, §§ 603(a), 604(a), Feb. 10, 1996, 110 Stat. 357, 358; Pub. L. 104–201, div. A, title VI, §§ 604(a)–(c), 605, Sept. 23, 1996, 110 Stat. 2540, 2541; Pub. L. 105–85, div. A, title VI, § 603(a), Nov. 18, 1997, 111 Stat. 1775; Pub. L. 105–261, div. A, title VI, § 603(a), Oct. 17, 1998, 112 Stat. 2037; Pub. L. 106–398, § 1 [[div. A], title VI, §§ 605(a)–(d), 607, 608, title X, § 1087(b)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–147 to 1654A–149, 1654A–292; Pub. L. 107–107, div. A, title VI, § 605(a), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 107–296, title XVII, § 1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, § 602, Dec. 2, 2002, 116 Stat. 2566; Pub. L. 108–136, div. A, title VI, § 605(a), Nov. 24, 2003, 117 Stat. 1500; Pub. L. 108–375, div. A, title VI, §§ 603, 604, Oct. 28, 2004, 118 Stat. 1944; Pub. L. 109–13, div. A, title I, § 1022(a), May 11, 2005, 119 Stat. 251; Pub. L. 109–163, div. A, title VI, §§ 609(a), 610, 611, Jan. 6, 2006, 119 Stat. 3289, 3290; Pub. L. 109–364, div. A, title VI, §§ 604(a), 605(a), Oct. 17, 2006, 120 Stat. 2245, 2246; Pub. L. 110–181, div. A, title VI, §§ 602(a), 603(b), Jan. 28, 2008, 122 Stat. 145; Pub. L. 112–81, div. A, title VI, §§ 601, 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1447, 1465; Pub. L. 112–239, div. A, title VI, §§ 602, 603(a), 604(a), title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1773, 1774, 1948; Pub. L. 113–66, div. A, title VI, § 601, Dec. 26, 2013, 127 Stat. 779; Pub. L. 113–291, div. A, title VI, §§ 602, 604(a), Dec. 19, 2014, 128 Stat. 3397, 3398; Pub. L. 114–92, div. A, title VI, §§ 603, 604, Nov. 25, 2015, 129 Stat. 837; Pub. L. 114–328, div. A, title VI, § 603, Dec. 23, 2016, 130 Stat. 2156; Pub. L. 115–91, div. A, title VI, § 605, Dec. 12, 2017, 131 Stat. 1421; Pub. L. 115–232, div. A, title VI, § 611(e), Aug. 13, 2018, 132 Stat. 1797; Pub. L. 116–92, div. A, title VI, §§ 605, 611(e), Dec. 20, 2019, 133 Stat. 1424, 1426; Pub. L. 116–283, div. A, title VI, §§ 603, 611(e), Jan. 1, 2021, 134 Stat. 3671, 3673; Pub. L. 117–81, div. A, title VI, § 611(e), Dec. 27, 2021, 135 Stat. 1769; Pub. L. 117–263, div. A, title VI, §§ 601(e), 612, 613(a), 614, 626(h)(1), Dec. 23, 2022, 136 Stat. 2620, 2623, 2629; Pub. L. 118–31, div. A, title VI, §§ 613(e), 622–624, Dec. 22, 2023, 137 Stat. 292–294; Pub. L. 118–159, div. A, title VI, §§ 611(e), 622, Dec. 23, 2024, 138 Stat. 1932, 1933; Pub. L. 119–60, div. A, title VI, § 611(e), Dec. 18, 2025, 139 Stat. 906.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 470; Pub. L. 88–132, § 10, Oct. 2, 1963, 77 Stat. 216; Pub. L. 89–718, §§ 49(a)(1), 54, Nov. 2, 1966, 80 Stat. 1121, 1122; Pub. L. 90–207, § 1(3), Dec. 16, 1967, 81 Stat. 651; Pub. L. 92–129, title II, § 204, Sept. 28, 1971, 85 Stat. 358; Pub. L. 93–64, title I, § 105, July 9, 1973, 87 Stat. 148; Pub. L. 93–419, § 3(6), Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–343, § 4(a)(1), (2), Sept. 8, 1980, 94 Stat. 1125; Pub. L. 96–513, title V, § 516(10), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §§ 6(a)–(c), 7, Dec. 23, 1980, 94 Stat. 3367, 3368; Pub. L. 97–22, § 11(b)(2), July 10, 1981, 95 Stat. 138; Pub. L. 98–94, title IX, § 907(a), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title VI, §§ 602(c), 604(a), Oct. 19, 1984, 98 Stat. 2534, 2537; Pub. L. 99–145, title VI, §§ 604(a), 605(a), title VIII, § 809(b), title XIII, § 1303(b)(6), Nov. 8, 1985, 99 Stat. 638, 681, 740; Pub. L. 99–227, § 1, Dec. 28, 1985, 99 Stat. 1745; Pub. L. 100–26, § 8(d)(5), Apr. 21, 1987, 101 Stat. 285; Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §§ 602(a), 604(a), 632(a), Dec. 5, 1991, 105 Stat. 1373, 1374, 1380; Pub. L. 103–337, div. A, title VI, § 604(a), (b), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 104–106, div. A, title VI, §§ 603(a), 604(a), Feb. 10, 1996, 110 Stat. 357, 358; Pub. L. 104–201, div. A, title VI, §§ 604(a)–(c), 605, Sept. 23, 1996, 110 Stat. 2540, 2541; Pub. L. 105–85, div. A, title VI, § 603(a), Nov. 18, 1997, 111 Stat. 1775; Pub. L. 105–261, div. A, title VI, § 603(a), Oct. 17, 1998, 112 Stat. 2037; Pub. L. 106–398, § 1 [[div. A], title VI, §§ 605(a)–(d), 607, 608, title X, § 1087(b)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–147 to 1654A–149, 1654A–292; Pub. L. 107–107, div. A, title VI, § 605(a), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 107–296, title XVII, § 1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, § 602, Dec. 2, 2002, 116 Stat. 2566; Pub. L. 108–136, div. A, title VI, § 605(a), Nov. 24, 2003, 117 Stat. 1500; Pub. L. 108–375, div. A, title VI, §§ 603, 604, Oct. 28, 2004, 118 Stat. 1944; Pub. L. 109–13, div. A, title I, § 1022(a), May 11, 2005, 119 Stat. 251; Pub. L. 109–163, div. A, title VI, §§ 609(a), 610, 611, Jan. 6, 2006, 119 Stat. 3289, 3290; Pub. L. 109–364, div. A, title VI, §§ 604(a), 605(a), Oct. 17, 2006, 120 Stat. 2245, 2246; Pub. L. 110–181, div. A, title VI, §§ 602(a), 603(b), Jan. 28, 2008, 122 Stat. 145; Pub. L. 112–81, div. A, title VI, §§ 601, 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1447, 1465; Pub. L. 112–239, div. A, title VI, §§ 602, 603(a), 604(a), title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1773, 1774, 1948; Pub. L. 113–66, div. A, title VI, § 601, Dec. 26, 2013, 127 Stat. 779; Pub. L. 113–291, div. A, title VI, §§ 602, 604(a), Dec. 19, 2014, 128 Stat. 3397, 3398; Pub. L. 114–92, div. A, title VI, §§ 603, 604, Nov. 25, 2015, 129 Stat. 837; Pub. L. 114–328, div. A, title VI, § 603, Dec. 23, 2016, 130 Stat. 2156; Pub. L. 115–91, div. A, title VI, § 605, Dec. 12, 2017, 131 Stat. 1421; Pub. L. 115–232, div. A, title VI, § 611(e), Aug. 13, 2018, 132 Stat. 1797; Pub. L. 116–92, div. A, title VI, §§ 605, 611(e), Dec. 20, 2019, 133 Stat. 1424, 1426; Pub. L. 116–283, div. A, title VI, §§ 603, 611(e), Jan. 1, 2021, 134 Stat. 3671, 3673; Pub. L. 117–81, div. A, title VI, § 611(e), Dec. 27, 2021, 135 Stat. 1769; Pub. L. 117–263, div. A, title VI, §§ 601(e), 612, 613(a), 614, 626(h)(1), Dec. 23, 2022, 136 Stat. 2620, 2623, 2629; Pub. L. 118–31, div. A, title VI, §§ 613(e), 622–624, Dec. 22, 2023, 137 Stat. 292–294; Pub. L. 118–159, div. A, title VI, §§ 611(e), 622, Dec. 23, 2024, 138 Stat. 1932, 1933; Pub. L. 119–60, div. A, title VI, § 611(e), Dec. 18, 2025, 139 Stat. 906.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 403(a)   403(b) 403(c) 403(d) | 37:252(a). 37:252(f). 37:252(b). 37:252(c). 37:252(d). | Oct. 12, 1949, ch. 681, § 302(a)–(f), 63 Stat. 812; May 19, 1952, ch. 310, § 1(b), (c), 66 Stat. 79; May 20, 1958, Pub. L. 85–422, § 1(9), 72 Stat. 127. |
+| 403(a) 403(b) 403(c) 403(d) | 37:252(a). 37:252(f). 37:252(b). 37:252(c). 37:252(d). | Oct. 12, 1949, ch. 681, § 302(a)–(f), 63 Stat. 812; May 19, 1952, ch. 310, § 1(b), (c), 66 Stat. 79; May 20, 1958, Pub. L. 85–422, § 1(9), 72 Stat. 127. |
 | 403(e) | 37:111a. | July 2, 1945, ch. 227, 59 Stat. 316. |
-| 403(f) 403(g) | 37:320. 37:252(e). | June 29, 1950, ch. 405, § 102, 64 Stat. 288. |
+| 403(f) 403(g) | 37:320. 37:252(e). | June 29, 1950, ch. 405, § 102, 64 Stat. 288. |
 
 In subsection (a), the words “at the following monthly rates” are substituted for the words “in such amount and under such circumstances as are provided in this section”. Section 252(f) (words before table) of existing title 37 is omitted as surplusage.
 
@@ -1037,69 +1037,69 @@ In subsection (g), the word “including” is substituted for the words “and 
 
 **References in Text**
 
-The Servicemembers Civil Relief Act, referred to in subsec. (q), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which is classified generally to chapter 50 (§ 3901 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 3901 of Title 50 and Tables.
+The Servicemembers Civil Relief Act, referred to in subsec. (q), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which is classified generally to chapter 50 (§ 3901 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 3901 of Title 50 and Tables.
 
 **Amendments**
 
 2025–Subsec. (b)(7)(E), (8)(C). Pub. L. 119–60 substituted “December 31, 2026” for “December 31, 2025”.
 
-2024—Subsec. (b)(7)(E). Pub. L. 118–159, § 611(e)(1), substituted “December 31, 2025” for “December 31, 2024”.
+2024—Subsec. (b)(7)(E). Pub. L. 118–159, § 611(e)(1), substituted “December 31, 2025” for “December 31, 2024”.
 
-Subsec. (b)(8)(C). Pub. L. 118–159, § 611(e)(2), which directed substitution of “December 31, 2025” for “September 30, 2024”, was executed by making the substitution for “December 31, 2024”, to reflect the probable intent of Congress.
+Subsec. (b)(8)(C). Pub. L. 118–159, § 611(e)(2), which directed substitution of “December 31, 2025” for “September 30, 2024”, was executed by making the substitution for “December 31, 2024”, to reflect the probable intent of Congress.
 
-Subsec. (f)(2)(A). Pub. L. 118–159, § 622(1), substituted “subparagraphs (B) and (C),” for “subparagraphs (B), (C), and (D),”.
+Subsec. (f)(2)(A). Pub. L. 118–159, § 622(1), substituted “subparagraphs (B) and (C),” for “subparagraphs (B), (C), and (D),”.
 
-Subsec. (f)(2)(B). Pub. L. 118–159, § 622(2), substituted “a pay grade below E–6” for “pay grade E–4 or E–5” and struck out “for members serving in pay grades E–4 and E–5” after “availability of quarters”.
+Subsec. (f)(2)(B). Pub. L. 118–159, § 622(2), substituted “a pay grade below E–6” for “pay grade E–4 or E–5” and struck out “for members serving in pay grades E–4 and E–5” after “availability of quarters”.
 
-Subsec. (f)(2)(D). Pub. L. 118–159, § 622(3), struck out subpar. (D) which read as follows:
+Subsec. (f)(2)(D). Pub. L. 118–159, § 622(3), struck out subpar. (D) which read as follows:
 
 “(i) Under regulations prescribed by the Secretary concerned, the Secretary may authorize the payment of a basic allowance for housing to a member of a uniformed service without dependents who is serving in a pay grade below E–6 and has orders to a naval vessel during a shipyard availability or maintenance period.
 
 “(ii) In prescribing regulations under clause (i), the Secretary concerned shall consider the availability of quarters for members serving in pay grades below E–6 before authorizing the payment of a basic allowance for housing for such members.”
 
-2023—Subsec. (b)(5). Pub. L. 118–31, § 622, substituted period at end for “and shall be based on the following:
+2023—Subsec. (b)(5). Pub. L. 118–31, § 622, substituted period at end for “and shall be based on the following:
 
 “(A) The average cost of a two-bedroom apartment in that military housing area.
 
 “(B) One-half of the difference between the average cost of a two-bedroom townhouse in that area and the amount determined in subparagraph (A).”
 
-Subsec. (b)(7)(E). Pub. L. 118–31, § 613(e)(1), substituted “December 31, 2024” for “December 31, 2023”.
+Subsec. (b)(7)(E). Pub. L. 118–31, § 613(e)(1), substituted “December 31, 2024” for “December 31, 2023”.
 
-Subsec. (b)(8)(C). Pub. L. 118–31, § 613(e)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “This paragraph shall cease to be effective on December 31, 2023.”
+Subsec. (b)(8)(C). Pub. L. 118–31, § 613(e)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “This paragraph shall cease to be effective on December 31, 2023.”
 
-Subsec. (f)(2)(A). Pub. L. 118–31, § 623(1), substituted “subparagraphs (B), (C), and (D)” for “subparagraphs (B) and (C)”.
+Subsec. (f)(2)(A). Pub. L. 118–31, § 623(1), substituted “subparagraphs (B), (C), and (D)” for “subparagraphs (B) and (C)”.
 
-Subsec. (f)(2)(D). Pub. L. 118–31, § 623(2), added subpar. (D).
+Subsec. (f)(2)(D). Pub. L. 118–31, § 623(2), added subpar. (D).
 
-Subsec. (g)(3). Pub. L. 118–31, § 624, substituted “Except in the case of a member of a reserve component without dependents who is called or ordered to active duty to attend training for at least 140 days but fewer than 365 days, paragraphs” for “Paragraphs”.
+Subsec. (g)(3). Pub. L. 118–31, § 624, substituted “Except in the case of a member of a reserve component without dependents who is called or ordered to active duty to attend training for at least 140 days but fewer than 365 days, paragraphs” for “Paragraphs”.
 
-2022—Subsec. (b)(7)(E). Pub. L. 117–263, § 601(e)(1), substituted “December 31, 2023” for “December 31, 2022”.
+2022—Subsec. (b)(7)(E). Pub. L. 117–263, § 601(e)(1), substituted “December 31, 2023” for “December 31, 2022”.
 
-Subsec. (b)(8)(C). Pub. L. 117–263, § 612, which directed substitution of “2024” for “2022” could not be executed because of the intervening amendment by Pub. L. 117–263, § 601(e)(2), See below.
+Subsec. (b)(8)(C). Pub. L. 117–263, § 612, which directed substitution of “2024” for “2022” could not be executed because of the intervening amendment by Pub. L. 117–263, § 601(e)(2), See below.
 
-Pub. L. 117–263, § 601(e)(2), substituted “December 31, 2023” for “September 30, 2022”.
+Pub. L. 117–263, § 601(e)(2), substituted “December 31, 2023” for “September 30, 2022”.
 
-Subsec. (d)(2)(A). Pub. L. 117–263, § 626(h)(1)(A), substituted ‘section 452” for “section 476”.
+Subsec. (d)(2)(A). Pub. L. 117–263, § 626(h)(1)(A), substituted ‘section 452” for “section 476”.
 
-Subsec. (g)(2). Pub. L. 117–263, § 626(h)(1)(B)(i), substituted “section 452” for “section 474”.
+Subsec. (g)(2). Pub. L. 117–263, § 626(h)(1)(B)(i), substituted “section 452” for “section 474”.
 
-Subsec. (g)(3). Pub. L. 117–263, § 626(h)(1)(B)(ii), substituted “section 453(c)” for “section 476”.
+Subsec. (g)(3). Pub. L. 117–263, § 626(h)(1)(B)(ii), substituted “section 453(c)” for “section 476”.
 
-Subsecs. (m) to (*o*). Pub. L. 117–263, § 613(a), added subsec. (m) and redesignated former subsecs. (m) and (n) as (n) and (*o*). Former subsec. (*o*) redesignated (p).
+Subsecs. (m) to (*o*). Pub. L. 117–263, § 613(a), added subsec. (m) and redesignated former subsecs. (m) and (n) as (n) and (*o*). Former subsec. (*o*) redesignated (p).
 
-Subsec. (p). Pub. L. 117–263, §§ 613(a), 614, redesignated subsec. (*o*) as (p), substituted “Certain” for “Low-Cost and No-Cost” in heading, designated existing provisions as par. (1), and added par. (2). Former subsec. (p) redesignated (q).
+Subsec. (p). Pub. L. 117–263, §§ 613(a), 614, redesignated subsec. (*o*) as (p), substituted “Certain” for “Low-Cost and No-Cost” in heading, designated existing provisions as par. (1), and added par. (2). Former subsec. (p) redesignated (q).
 
-Subsec. (q). Pub. L. 117–263, § 613(a), redesignated subsec. (p) as (q).
+Subsec. (q). Pub. L. 117–263, § 613(a), redesignated subsec. (p) as (q).
 
 2021—Subsec. (b)(7)(E). Pub. L. 117–81 substituted “December 31, 2022” for “December 31, 2021”.
 
-Pub. L. 116–283, § 611(e), substituted “December 31, 2021” for “December 31, 2020”.
+Pub. L. 116–283, § 611(e), substituted “December 31, 2021” for “December 31, 2020”.
 
-Subsec. (p). Pub. L. 116–283, § 603, added subsec. (p).
+Subsec. (p). Pub. L. 116–283, § 603, added subsec. (p).
 
-2019—Subsec. (b)(7)(E). Pub. L. 116–92, § 611(e), substituted “December 31, 2020” for “December 31, 2019”.
+2019—Subsec. (b)(7)(E). Pub. L. 116–92, § 611(e), substituted “December 31, 2020” for “December 31, 2019”.
 
-Subsec. (b)(8). Pub. L. 116–92, § 605, added par. (8).
+Subsec. (b)(8). Pub. L. 116–92, § 605, added par. (8).
 
 2018—Subsec. (b)(7)(E). Pub. L. 115–232 substituted “December 31, 2019” for “December 31, 2018”.
 
@@ -1107,71 +1107,71 @@ Subsec. (b)(8). Pub. L. 116–92, § 605, added par. (8).
 
 2016—Subsec. (b)(7)(E). Pub. L. 114–328 substituted “December 31, 2017” for “December 31, 2016”.
 
-2015—Subsec. (b)(3)(B). Pub. L. 114–92, § 603, substituted “may not exceed the following:” for “may not exceed one percent.” and added cls. (i) to (v).
+2015—Subsec. (b)(3)(B). Pub. L. 114–92, § 603, substituted “may not exceed the following:” for “may not exceed one percent.” and added cls. (i) to (v).
 
-Subsec. (b)(7)(E). Pub. L. 114–92, § 604, substituted “December 31, 2016” for “December 31, 2015”.
+Subsec. (b)(7)(E). Pub. L. 114–92, § 604, substituted “December 31, 2016” for “December 31, 2015”.
 
-2014—Subsec. (b)(3). Pub. L. 113–291, § 604(a), amended par. (3) generally. Prior to amendment, par. (3) related to the total amount that could be paid for a fiscal year for the basic allowance for housing.
+2014—Subsec. (b)(3). Pub. L. 113–291, § 604(a), amended par. (3) generally. Prior to amendment, par. (3) related to the total amount that could be paid for a fiscal year for the basic allowance for housing.
 
-Subsec. (b)(7)(E). Pub. L. 113–291, § 602, substituted “December 31, 2015” for “December 31, 2014”.
+Subsec. (b)(7)(E). Pub. L. 113–291, § 602, substituted “December 31, 2015” for “December 31, 2014”.
 
 2013—Subsec. (b)(7)(E). Pub. L. 113–66 substituted “December 31, 2014” for “December 31, 2013”.
 
-Pub. L. 112–239, § 602, substituted “December 31, 2013” for “December 31, 2012”.
+Pub. L. 112–239, § 602, substituted “December 31, 2013” for “December 31, 2012”.
 
-Subsec. (d)(2)(A). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
+Subsec. (d)(2)(A). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
-Subsec. (f)(2)(C). Pub. L. 112–239, § 603(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “Notwithstanding section 421 of this title, two members of the uniformed services in a pay grade below pay grade E–6 who are married to each other, have no other dependents, and are simultaneously assigned to sea duty are each entitled to a basic allowance for housing during the period of such simultaneous sea duty. The amount of the allowance payable to a member under the preceding sentence shall be based on the without dependents rate for the pay grade of the member.”
+Subsec. (f)(2)(C). Pub. L. 112–239, § 603(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “Notwithstanding section 421 of this title, two members of the uniformed services in a pay grade below pay grade E–6 who are married to each other, have no other dependents, and are simultaneously assigned to sea duty are each entitled to a basic allowance for housing during the period of such simultaneous sea duty. The amount of the allowance payable to a member under the preceding sentence shall be based on the without dependents rate for the pay grade of the member.”
 
-Subsec. (g)(2), (3). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment notes below.
+Subsec. (g)(2), (3). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment notes below.
 
-Subsec. (g)(6). Pub. L. 112–239, § 604(a), added par. (6).
+Subsec. (g)(6). Pub. L. 112–239, § 604(a), added par. (6).
 
-2011—Subsec. (b)(7)(E). Pub. L. 112–81, § 601, substituted “December 31, 2012” for “December 31, 2009”.
+2011—Subsec. (b)(7)(E). Pub. L. 112–81, § 601, substituted “December 31, 2012” for “December 31, 2009”.
 
-Subsec. (d)(2)(A). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “476” for “406”.
+Subsec. (d)(2)(A). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “476” for “406”.
 
-Subsec. (g)(2). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “474” for “404”.
+Subsec. (g)(2). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “474” for “404”.
 
-Subsec. (g)(3). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “476” for “406”.
+Subsec. (g)(3). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “476” for “406”.
 
-2008—Subsec. (b)(7)(E). Pub. L. 110–181, § 603(b), substituted “December 31, 2009” for “December 31, 2008”.
+2008—Subsec. (b)(7)(E). Pub. L. 110–181, § 603(b), substituted “December 31, 2009” for “December 31, 2008”.
 
-Subsec. (g)(1). Pub. L. 110–181, § 602(a), inserted “to attend accession training,” after “called or ordered to active duty” and inserted a comma after “contingency operation” the first time appearing.
+Subsec. (g)(1). Pub. L. 110–181, § 602(a), inserted “to attend accession training,” after “called or ordered to active duty” and inserted a comma after “contingency operation” the first time appearing.
 
-2006—Subsec. (b)(7). Pub. L. 109–163, § 609(a), added par. (7).
+2006—Subsec. (b)(7). Pub. L. 109–163, § 609(a), added par. (7).
 
-Subsec. (g)(1). Pub. L. 109–163, § 610(b), inserted “or for a period of more than 30 days” after “in support of a contingency operation” in two places in introductory provisions.
+Subsec. (g)(1). Pub. L. 109–163, § 610(b), inserted “or for a period of more than 30 days” after “in support of a contingency operation” in two places in introductory provisions.
 
-Subsec. (g)(2). Pub. L. 109–364, § 604(a)(2), added par. (2). Former par. (2) redesignated (3).
+Subsec. (g)(2). Pub. L. 109–364, § 604(a)(2), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (g)(3). Pub. L. 109–364, § 604(a)(1), (3), redesignated par. (2) as (3) and substituted “Paragraphs (1) and (2)” for “Paragraph (1)”. Former par. (3) redesignated (4).
+Subsec. (g)(3). Pub. L. 109–364, § 604(a)(1), (3), redesignated par. (2) as (3) and substituted “Paragraphs (1) and (2)” for “Paragraph (1)”. Former par. (3) redesignated (4).
 
-Pub. L. 109–163, § 610(a)(2), added par. (3). Former par. (3) redesignated (4).
+Pub. L. 109–163, § 610(a)(2), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (g)(4). Pub. L. 109–364, § 604(a)(1), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+Subsec. (g)(4). Pub. L. 109–364, § 604(a)(1), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-Pub. L. 109–163, § 610(a)(1), (3), redesignated par. (3) as (4) and substituted “30 days or less” for “less than 140 days”.
+Pub. L. 109–163, § 610(a)(1), (3), redesignated par. (3) as (4) and substituted “30 days or less” for “less than 140 days”.
 
-Subsec. (g)(5). Pub. L. 109–364, § 604(a)(1), redesignated par. (4) as (5).
+Subsec. (g)(5). Pub. L. 109–364, § 604(a)(1), redesignated par. (4) as (5).
 
-Subsec. (*l*). Pub. L. 109–163, § 611, substituted “365 days” for “180 days” wherever appearing.
+Subsec. (*l*). Pub. L. 109–163, § 611, substituted “365 days” for “180 days” wherever appearing.
 
-Subsec. (*l*)(3), (4). Pub. L. 109–364, § 605(a), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (*l*)(3), (4). Pub. L. 109–364, § 605(a), added par. (3) and redesignated former par. (3) as (4).
 
-2005—Subsec. (*l*). Pub. L. 109–13, § 1022, temporarily substituted “365 days” for “180 days” wherever appearing. See Effective and Termination Dates of 2005 Amendments note below.
+2005—Subsec. (*l*). Pub. L. 109–13, § 1022, temporarily substituted “365 days” for “180 days” wherever appearing. See Effective and Termination Dates of 2005 Amendments note below.
 
-2004—Subsec. (d). Pub. L. 108–375, § 604(1), substituted “Do Not” for “Are Unable To” in heading.
+2004—Subsec. (d). Pub. L. 108–375, § 604(1), substituted “Do Not” for “Are Unable To” in heading.
 
-Subsec. (d)(1). Pub. L. 108–375, § 603(1), substituted “may be paid” for “is entitled to”.
+Subsec. (d)(1). Pub. L. 108–375, § 603(1), substituted “may be paid” for “is entitled to”.
 
-Subsec. (d)(3)(C). Pub. L. 108–375, § 604(2), added subpar. (C).
+Subsec. (d)(3)(C). Pub. L. 108–375, § 604(2), added subpar. (C).
 
-Subsec. (d)(4). Pub. L. 108–375, § 603(2), inserted first sentence and struck out former first sentence which read as follows: “The family separation basic allowance for housing under this subsection shall be in addition to any other allowance or per diem that the member is otherwise entitled to receive under this title.”
+Subsec. (d)(4). Pub. L. 108–375, § 603(2), inserted first sentence and struck out former first sentence which read as follows: “The family separation basic allowance for housing under this subsection shall be in addition to any other allowance or per diem that the member is otherwise entitled to receive under this title.”
 
 2003—Subsec. (f)(2)(C). Pub. L. 108–136 substituted “are each entitled to a basic allowance for housing” for “are jointly entitled to one basic allowance for housing” in first sentence, inserted second sentence, and struck out former second and third sentences which read as follows: “The amount of the allowance shall be based on the without dependents rate for the pay grade of the senior member of the couple. However, this subparagraph shall not apply to a couple if one or both of the members are entitled to a basic allowance for housing under subparagraph (B).”
 
-2002—Subsec. (b)(7). Pub. L. 107–314, § 602(1), redesignated par. (7) as subsec. (*o*).
+2002—Subsec. (b)(7). Pub. L. 107–314, § 602(1), redesignated par. (7) as subsec. (*o*).
 
 Subsecs. (f)(3), (*l*)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” wherever appearing.
 
@@ -1179,17 +1179,17 @@ Subsec. (*o*). Pub. L. 107–314 redesignated subsec. (b)(7) as subsec. (*o*), i
 
 2001—Subsec. (i). Pub. L. 107–107 struck out “who is in a pay grade E–4 (4 or more years of service) or above” after “A member of a uniformed service”.
 
-2000—Subsec. (b)(1). Pub. L. 106–398, § 1 [[div. A], title VI, § 605(a)(3)], added par. (1). Former par. (1) redesignated (2).
+2000—Subsec. (b)(1). Pub. L. 106–398, § 1 [[div. A], title VI, § 605(a)(3)], added par. (1). Former par. (1) redesignated (2).
 
-Subsec. (b)(2). Pub. L. 106–398, § 1 [[div. A], title VI, § 607(a)], inserted at end “After June 30, 2001, the Secretary may not differentiate between members with dependents in pay grades E–1 through E–4 in determining what constitutes adequate housing for members.”
+Subsec. (b)(2). Pub. L. 106–398, § 1 [[div. A], title VI, § 607(a)], inserted at end “After June 30, 2001, the Secretary may not differentiate between members with dependents in pay grades E–1 through E–4 in determining what constitutes adequate housing for members.”
 
-Pub. L. 106–398, § 1 [[div. A], title VI, § 605(a)(1), (2)], redesignated par. (1) as (2) and struck out former par. (2) which read as follows: “Subject to paragraph (3), the monthly amount of a basic allowance for housing for an area of the United States for a member of a uniformed service is equal to the difference between—
+Pub. L. 106–398, § 1 [[div. A], title VI, § 605(a)(1), (2)], redesignated par. (1) as (2) and struck out former par. (2) which read as follows: “Subject to paragraph (3), the monthly amount of a basic allowance for housing for an area of the United States for a member of a uniformed service is equal to the difference between—
 
 “(A) the monthly cost of adequate housing in that area, as determined by the Secretary of Defense, for members of the uniformed services serving in the same pay grade and with the same dependency status as the member; and
 
 “(B) 15 percent of the national average monthly cost of adequate housing in the United States, as determined by the Secretary, for members of the uniformed services serving in the same pay grade and with the same dependency status as the member.”
 
-Subsec. (b)(3). Pub. L. 106–398, § 1 [[div. A], title VI, § 605(b)], added par. (3) and struck out former par. (3) which read as follows: “The rates of basic allowance for housing shall be reduced as necessary to comply with this paragraph. The total amount that may be paid for a fiscal year for the basic allowance for housing under this subsection is the product of—
+Subsec. (b)(3). Pub. L. 106–398, § 1 [[div. A], title VI, § 605(b)], added par. (3) and struck out former par. (3) which read as follows: “The rates of basic allowance for housing shall be reduced as necessary to comply with this paragraph. The total amount that may be paid for a fiscal year for the basic allowance for housing under this subsection is the product of—
 
 “(A) the total amount authorized to be paid for such allowance for the preceding fiscal year (as adjusted under paragraph (5)); and
 
@@ -1199,93 +1199,93 @@ Subsec. (b)(3). Pub. L. 106–398, § 1 [[div. A], title VI, § 605(b)], add
 
 “(ii) the denominator of which is the index of the national average monthly cost of housing for June of the fiscal year before the preceding fiscal year.”
 
-Subsec. (b)(5). Pub. L. 106–398, § 1 [[div. A], title VI, § 607(b)], added par. (5).
+Subsec. (b)(5). Pub. L. 106–398, § 1 [[div. A], title VI, § 607(b)], added par. (5).
 
-Pub. L. 106–398, § 1 [[div. A], title VI, § 605(b)(1)], struck out par. (5) which read as follows: “In making a determination under paragraph (3) for a fiscal year, the amount authorized to be paid for the preceding fiscal year for the basic allowance for housing shall be adjusted to reflect changes during the year for which the determination is made in the number, grade distribution, geographic distribution in the United States, and dependency status of members of the uniformed services entitled to the allowance from the number of such members during the preceding fiscal year.”
+Pub. L. 106–398, § 1 [[div. A], title VI, § 605(b)(1)], struck out par. (5) which read as follows: “In making a determination under paragraph (3) for a fiscal year, the amount authorized to be paid for the preceding fiscal year for the basic allowance for housing shall be adjusted to reflect changes during the year for which the determination is made in the number, grade distribution, geographic distribution in the United States, and dependency status of members of the uniformed services entitled to the allowance from the number of such members during the preceding fiscal year.”
 
-Subsec. (b)(6). Pub. L. 106–398, § 1 [[div. A], title VI, § 605(c)(1)], struck out “, changes in the national average monthly cost of housing,” after “housing costs in the area”.
+Subsec. (b)(6). Pub. L. 106–398, § 1 [[div. A], title VI, § 605(c)(1)], struck out “, changes in the national average monthly cost of housing,” after “housing costs in the area”.
 
-Subsec. (b)(7). Pub. L. 106–398, § 1 [[div. A], title VI, § 605(c)(2)], struck out “without dependents” after “In the case of a member”.
+Subsec. (b)(7). Pub. L. 106–398, § 1 [[div. A], title VI, § 605(c)(2)], struck out “without dependents” after “In the case of a member”.
 
-Subsec. (d)(3). Pub. L. 106–398, § 1 [[div. A], title VI, § 605(d)], added par. (3) and struck out former par. (3) which read as follows: “In the case of a member with dependents who is assigned to duty at a location or under circumstances that, as determined by the Secretary concerned, require the member’s dependents to reside at a different location, the member shall receive a basic allowance for housing, as provided in subsection (a) or (b), as if the member were assigned to duty in the area in which the dependents reside, regardless of whether the member resides in quarters of the United States or is also entitled to a family separation basic allowance for housing by reason of paragraph (1).”
+Subsec. (d)(3). Pub. L. 106–398, § 1 [[div. A], title VI, § 605(d)], added par. (3) and struck out former par. (3) which read as follows: “In the case of a member with dependents who is assigned to duty at a location or under circumstances that, as determined by the Secretary concerned, require the member’s dependents to reside at a different location, the member shall receive a basic allowance for housing, as provided in subsection (a) or (b), as if the member were assigned to duty in the area in which the dependents reside, regardless of whether the member resides in quarters of the United States or is also entitled to a family separation basic allowance for housing by reason of paragraph (1).”
 
-Subsec. (f)(2)(B). Pub. L. 106–398, § 1 [[div. A], title VI, § 608(a)], substituted “E–4 or E–5” for “E–5” in first sentence and “grades E–4 and E–5” for “grade E–5” in second sentence.
+Subsec. (f)(2)(B). Pub. L. 106–398, § 1 [[div. A], title VI, § 608(a)], substituted “E–4 or E–5” for “E–5” in first sentence and “grades E–4 and E–5” for “grade E–5” in second sentence.
 
-Subsec. (f)(3). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(b)(2)], substituted “regulations” for “regulation”.
+Subsec. (f)(3). Pub. L. 106–398, § 1 [[div. A], title X, § 1087(b)(2)], substituted “regulations” for “regulation”.
 
-Subsec. (m)(1)(B). Pub. L. 106–398, § 1 [[div. A], title VI, § 608(b)], substituted “E–3” for “E–4”.
+Subsec. (m)(1)(B). Pub. L. 106–398, § 1 [[div. A], title VI, § 608(b)], substituted “E–3” for “E–4”.
 
 1998—Subsec. (c)(3). Pub. L. 105–261 added par. (3).
 
 1997—Pub. L. 105–85 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (m) relating to basic allowances for quarters.
 
-1996—Subsec. (b). Pub. L. 104–106, § 603(a), designated first sentence as par. (1), designated second sentence as par. (2) and substituted “Subject” for “However, subject”, and added par. (3).
+1996—Subsec. (b). Pub. L. 104–106, § 603(a), designated first sentence as par. (1), designated second sentence as par. (2) and substituted “Subject” for “However, subject”, and added par. (3).
 
-Subsec. (b)(3). Pub. L. 104–201, § 605, substituted “Subject to the provisions of subsection (j), a member” for “A member”.
+Subsec. (b)(3). Pub. L. 104–201, § 605, substituted “Subject to the provisions of subsection (j), a member” for “A member”.
 
-Subsec. (c)(2). Pub. L. 104–201, § 604(a)–(c), designated first sentence as subpar. (A) and substituted “Except as provided in subparagraphs (B) and (C), a member” for “A member”, added subpars. (B) and (C), and struck out former second sentence which read as follows: “A member of a uniformed service without dependents who is in a pay grade above E–5 who is assigned to sea duty under a permanent change of station is not entitled to a basic allowance for quarters if the unit to which the member is ordered is deployed and the permanent station of the unit is different than the permanent station from which the member is reporting.”
+Subsec. (c)(2). Pub. L. 104–201, § 604(a)–(c), designated first sentence as subpar. (A) and substituted “Except as provided in subparagraphs (B) and (C), a member” for “A member”, added subpars. (B) and (C), and struck out former second sentence which read as follows: “A member of a uniformed service without dependents who is in a pay grade above E–5 who is assigned to sea duty under a permanent change of station is not entitled to a basic allowance for quarters if the unit to which the member is ordered is deployed and the permanent station of the unit is different than the permanent station from which the member is reporting.”
 
-Pub. L. 104–106, § 604(a), substituted “E–6” for “E–7” in first sentence and “E–5” for “E–6” in second sentence.
+Pub. L. 104–106, § 604(a), substituted “E–6” for “E–7” in first sentence and “E–5” for “E–6” in second sentence.
 
 1994—Subsec. (*l*). Pub. L. 103–337 substituted “180 days” for “90 days” wherever appearing.
 
-1991—Subsec. (a). Pub. L. 102–190, § 604(a)(1), designated existing provisions as par. (1) and added par. (2).
+1991—Subsec. (a). Pub. L. 102–190, § 604(a)(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b). Pub. L. 102–25, § 702(b)(1), struck out “of this section” after “subsection (j)”.
+Subsec. (b). Pub. L. 102–25, § 702(b)(1), struck out “of this section” after “subsection (j)”.
 
-Subsec. (d). Pub. L. 102–190, § 632(a), designated existing provisions as par. (1) and added par. (2).
+Subsec. (d). Pub. L. 102–190, § 632(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (j)(1). Pub. L. 102–190, § 604(a)(2), substituted “Secretary of Defense shall” for “President may”.
+Subsec. (j)(1). Pub. L. 102–190, § 604(a)(2), substituted “Secretary of Defense shall” for “President may”.
 
-Subsec. (j)(2). Pub. L. 102–25, § 702(b)(1), struck out “of this section” after “subsection (b)”.
+Subsec. (j)(2). Pub. L. 102–25, § 702(b)(1), struck out “of this section” after “subsection (b)”.
 
-Subsec. (m). Pub. L. 102–190, § 602(a), added subsec. (m).
+Subsec. (m). Pub. L. 102–190, § 602(a), added subsec. (m).
 
 1987—Subsec. (*l*)(1). Pub. L. 100–26 substituted “armed forces” for “Armed Forces”.
 
-1985—Subsec. (a). Pub. L. 99–145, § 1303(b)(6), inserted “or as otherwise prescribed by law” after “of this title”.
+1985—Subsec. (a). Pub. L. 99–145, § 1303(b)(6), inserted “or as otherwise prescribed by law” after “of this title”.
 
-Pub. L. 99–145, § 604(a), inserted provision permitting the allowance authorized by this section to be paid in advance.
+Pub. L. 99–145, § 604(a), inserted provision permitting the allowance authorized by this section to be paid in advance.
 
-Subsec. (c)(1). Pub. L. 99–145, § 605(a)(1), substituted “who makes a permanent change of station for assignment to a unit conducting field operations is not entitled to a basic allowance for quarters while on that initial field duty” for “is not entitled to a basic allowance for quarters while he is on field duty”.
+Subsec. (c)(1). Pub. L. 99–145, § 605(a)(1), substituted “who makes a permanent change of station for assignment to a unit conducting field operations is not entitled to a basic allowance for quarters while on that initial field duty” for “is not entitled to a basic allowance for quarters while he is on field duty”.
 
-Subsec. (c)(2). Pub. L. 99–145, § 605(a)(2), substituted “who is assigned to sea duty under a permanent change of station is not entitled to a basic allowance for quarters if the unit to which the member is ordered is deployed and the permanent station of the unit is different than the permanent station from which the member is reporting” for “and who is on sea duty is not entitled to a basic allowance for quarters while the unit to which he is assigned is deployed for a period in excess of 90 days”.
+Subsec. (c)(2). Pub. L. 99–145, § 605(a)(2), substituted “who is assigned to sea duty under a permanent change of station is not entitled to a basic allowance for quarters if the unit to which the member is ordered is deployed and the permanent station of the unit is different than the permanent station from which the member is reporting” for “and who is on sea duty is not entitled to a basic allowance for quarters while the unit to which he is assigned is deployed for a period in excess of 90 days”.
 
-Subsec. (c)(3). Pub. L. 99–145, § 605(a)(3), struck out par. (3) which provided that for purposes of this subsection, duty for a period of less than three months was not considered to be field duty or sea duty.
+Subsec. (c)(3). Pub. L. 99–145, § 605(a)(3), struck out par. (3) which provided that for purposes of this subsection, duty for a period of less than three months was not considered to be field duty or sea duty.
 
-Subsec. (k). Pub. L. 99–145, § 809(b), substituted “25-year period” for “15-year period”.
+Subsec. (k). Pub. L. 99–145, § 809(b), substituted “25-year period” for “15-year period”.
 
 Subsec. (*l*). Pub. L. 99–227 added subsec. (*l*).
 
-1984—Pub. L. 98–525, § 602(c)(2), struck out “; variable housing allowance” in section catchline.
+1984—Pub. L. 98–525, § 602(c)(2), struck out “; variable housing allowance” in section catchline.
 
-Subsec. (a). Pub. L. 98–525, § 602(c)(1), struck out designation for par. (1) preceding “Except as otherwise provided by law” and struck out par. (2) which related to variable housing allowances.
+Subsec. (a). Pub. L. 98–525, § 602(c)(1), struck out designation for par. (1) preceding “Except as otherwise provided by law” and struck out par. (2) which related to variable housing allowances.
 
-Subsec. (j)(2). Pub. L. 98–525, § 604(a), inserted reference to training missions.
+Subsec. (j)(2). Pub. L. 98–525, § 604(a), inserted reference to training missions.
 
 1983—Subsec. (a)(2)(A), (D). Pub. L. 98–94 substituted “Except as provided in subparagraph (D) of this paragraph, a member” for “A member” at beginning of subpar. (A), and added subpar. (D).
 
 1981—Subsec. (b). Pub. L. 97–22 substituted “pay grade E–6” for “pay grade F–6”.
 
-1980—Pub. L. 96–343, § 4(a)(2), substituted “for quarters; variable housing allowance” for “for quarters” in section catchline.
+1980—Pub. L. 96–343, § 4(a)(2), substituted “for quarters; variable housing allowance” for “for quarters” in section catchline.
 
-Subsec. (a). Pub. L. 96–343, § 4(a)(1), designated existing provisions as par. (1) and added par. (2).
+Subsec. (a). Pub. L. 96–343, § 4(a)(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b). Pub. L. 96–579, § 6(a)(1), (2), substituted in second sentence “subject to the provisions of subsection (j)” for “except as provided by regulations prescribed under subsection (j)”, “member” for “commissioned officer”, and “F–6” for “C–3”. Because “C–3” did not appear in this subsection, “F–6” was substituted for “O–3” as the probable intent of Congress.
+Subsec. (b). Pub. L. 96–579, § 6(a)(1), (2), substituted in second sentence “subject to the provisions of subsection (j)” for “except as provided by regulations prescribed under subsection (j)”, “member” for “commissioned officer”, and “F–6” for “C–3”. Because “C–3” did not appear in this subsection, “F–6” was substituted for “O–3” as the probable intent of Congress.
 
-Subsec. (c). Pub. L. 96–579, § 6(b), reenacted existing text in provisions designated as pars. (1) and (3), and substituted par. (2) respecting nonentitlement to basic allowance for quarters when on sea duty for member of a uniformed service in pay grade below E–7 or above E–6 for prior nonentitlement provision for such member when on sea duty.
+Subsec. (c). Pub. L. 96–579, § 6(b), reenacted existing text in provisions designated as pars. (1) and (3), and substituted par. (2) respecting nonentitlement to basic allowance for quarters when on sea duty for member of a uniformed service in pay grade below E–7 or above E–6 for prior nonentitlement provision for such member when on sea duty.
 
-Subsec. (e). Pub. L. 96–513, § 516(10)(A), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
+Subsec. (e). Pub. L. 96–513, § 516(10)(A), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
-Subsec. (j). Pub. L. 96–579, § 6(c), designated existing provisions as par. (1) and added par. (2).
+Subsec. (j). Pub. L. 96–579, § 6(c), designated existing provisions as par. (1) and added par. (2).
 
-Pub. L. 96–513, § 516(10)(B), substituted “terms” for “words”.
+Pub. L. 96–513, § 516(10)(B), substituted “terms” for “words”.
 
-Subsec. (k). Pub. L. 96–579, § 7, added subsec. (k).
+Subsec. (k). Pub. L. 96–579, § 7, added subsec. (k).
 
 1974—Subsec. (a). Pub. L. 93–419 substituted reference to section 1009 of this title for provisions setting out in tables the rates of basic allowance for quarters for members of uniformed services.
 
-1973—Subsec. (a). Pub. L. 93–64, § 105(1), (2), substituted in table provisions reading:
+1973—Subsec. (a). Pub. L. 93–64, § 105(1), (2), substituted in table provisions reading:
 
 | “E–4 | $81.60 | $121.50 |
 |---|---|---|
@@ -1301,9 +1301,9 @@ Subsec. (k). Pub. L. 96–579, § 7, added subsec. (k).
 
 and struck out “A member in pay grade E–4 (less than four years’ service), E–3, E–2, or E–1 is considered at all times to be without dependents.”
 
-Subsec. (b). Pub. L. 93–64, § 105(3), in second sentence substituted reference to subsection “(j)” for “(g)”.
+Subsec. (b). Pub. L. 93–64, § 105(3), in second sentence substituted reference to subsection “(j)” for “(g)”.
 
-Subsecs. (g) to (j). Pub. L. 93–64, § 105(4), (5), added subsecs. (g) to (i) and redesignated former subsec. (g) as (j).
+Subsecs. (g) to (j). Pub. L. 93–64, § 105(4), (5), added subsecs. (g) to (i) and redesignated former subsec. (g) as (j).
 
 1971—Subsec. (a). Pub. L. 92–129 increased quarters allowances as shown in table. Prior to this amendment the table was set out as follows:
 
@@ -1373,37 +1373,37 @@ Subsec. (e). Pub. L. 89–718 substituted “Environmental Science Services Admi
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title VI, § 603(b), Jan. 2, 2013, 126 Stat. 1773, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2013.”
+Pub. L. 112–239, div. A, title VI, § 603(b), Jan. 2, 2013, 126 Stat. 1773, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2013.”
 
-Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–181, div. A, title VI, § 602(b), Jan. 28, 2008, 122 Stat. 145, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to months beginning on or after the date of the enactment of this Act [Jan. 28, 2008].”
+Pub. L. 110–181, div. A, title VI, § 602(b), Jan. 28, 2008, 122 Stat. 145, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to months beginning on or after the date of the enactment of this Act [Jan. 28, 2008].”
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–364, div. A, title VI, § 604(b), Oct. 17, 2006, 120 Stat. 2246, provided that: “Paragraph (2) of section 403(g) of title 37, United States Code, as added by subsection (a), shall apply with respect to months beginning on or after October 1, 2006.”
+Pub. L. 109–364, div. A, title VI, § 604(b), Oct. 17, 2006, 120 Stat. 2246, provided that: “Paragraph (2) of section 403(g) of title 37, United States Code, as added by subsection (a), shall apply with respect to months beginning on or after October 1, 2006.”
 
-Pub. L. 109–364, div. A, title VI, § 605(b), Oct. 17, 2006, 120 Stat. 2246, provided that:
+Pub. L. 109–364, div. A, title VI, § 605(b), Oct. 17, 2006, 120 Stat. 2246, provided that:
 
 > **“(1) General rule.—** The amendments made by subsection (a) [amending this section] shall take effect on October 1, 2006.
 
 > **“(2) Transitional rule.—** After October 1, 2006, the Secretary of Defense, and the Secretary of Homeland Security in the case of the Coast Guard, may pay the allowance authorized by section 403(*l*)(2) of title 37, United States Code, to a member of the uniformed services who is the spouse of a member who died on active duty during the one-year period ending on that date, except that the payment of the allowance must terminate within 365 days after the date of the member’s death.”
 
-Pub. L. 109–163, div. A, title VI, § 609(c), Jan. 6, 2006, 119 Stat. 3290, provided that: “The amendments made by this section [amending this section and section 404a of this title] shall apply with respect to months beginning on or after September 1, 2005.”
+Pub. L. 109–163, div. A, title VI, § 609(c), Jan. 6, 2006, 119 Stat. 3290, provided that: “The amendments made by this section [amending this section and section 404a of this title] shall apply with respect to months beginning on or after September 1, 2005.”
 
-Pub. L. 109–163, div. A, title VI, § 611, Jan. 6, 2006, 119 Stat. 3290, provided in part that the amendment of this section by section 611 is effective immediately after the termination, pursuant to section 1022(b) of Pub. L. 109–13 and section 124 of Pub. L. 109–177, of the amendments made by section 1022(a) of Pub. L. 109–13. See Effective and Termination Dates of 2005 Amendments note below.
+Pub. L. 109–163, div. A, title VI, § 611, Jan. 6, 2006, 119 Stat. 3290, provided in part that the amendment of this section by section 611 is effective immediately after the termination, pursuant to section 1022(b) of Pub. L. 109–13 and section 124 of Pub. L. 109–177, of the amendments made by section 1022(a) of Pub. L. 109–13. See Effective and Termination Dates of 2005 Amendments note below.
 
 **Effective and Termination Dates of 2005 Amendment**
 
-Pub. L. 109–77, § 124, Sept. 30, 2005, 119 Stat. 2041, provided that: “The amendment made by section 1022 of Public Law 109–13 [amending this section] shall continue in effect through the date specified in section 106(3) of this joint resolution [Dec. 31, 2005].”
+Pub. L. 109–77, § 124, Sept. 30, 2005, 119 Stat. 2041, provided that: “The amendment made by section 1022 of Public Law 109–13 [amending this section] shall continue in effect through the date specified in section 106(3) of this joint resolution [Dec. 31, 2005].”
 
-Pub. L. 109–13, div. A, title I, § 1022(b), May 11, 2005, 119 Stat. 251, provided that: “The amendment made by this section [amending this section] shall terminate on September 30, 2005. Effective on October 1, 2005, the provisions of section 403(*l*) of title 37, United States Code, as in effect on the date before the date of the enactment of this Act [May 11, 2005] shall be revived.”
+Pub. L. 109–13, div. A, title I, § 1022(b), May 11, 2005, 119 Stat. 251, provided that: “The amendment made by this section [amending this section] shall terminate on September 30, 2005. Effective on October 1, 2005, the provisions of section 403(*l*) of title 37, United States Code, as in effect on the date before the date of the enactment of this Act [May 11, 2005] shall be revived.”
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–136, div. A, title VI, § 605(b), Nov. 24, 2003, 117 Stat. 1500, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as of October 1, 2003, and apply to months beginning on or after that date.”
+Pub. L. 108–136, div. A, title VI, § 605(b), Nov. 24, 2003, 117 Stat. 1500, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as of October 1, 2003, and apply to months beginning on or after that date.”
 
 **Effective Date of 2002 Amendment**
 
@@ -1411,11 +1411,11 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–107, div. A, title VI, § 605(b), Dec. 28, 2001, 115 Stat. 1134, provided that: “The amendment made by this section [amending this section] shall take effect on January 1, 2003, and apply to members of the uniformed services in a travel or leave status between permanent duty stations on or after that date.”
+Pub. L. 107–107, div. A, title VI, § 605(b), Dec. 28, 2001, 115 Stat. 1134, provided that: “The amendment made by this section [amending this section] shall take effect on January 1, 2003, and apply to members of the uniformed services in a travel or leave status between permanent duty stations on or after that date.”
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–398, § 1 [[div. A], title VI, § 605(f)], Oct. 30, 2000, 114 Stat. 1654, 1654A–148, provided that:
+Pub. L. 106–398, § 1 [[div. A], title VI, § 605(f)], Oct. 30, 2000, 114 Stat. 1654, 1654A–148, provided that:
 
 > **“(1)** The amendments made by this section [amending this section and provisions set out as a note below] shall take effect on October 1, 2000.
 
@@ -1425,7 +1425,7 @@ Pub. L. 106–398, § 1 [[div. A], title VI, § 605(f)], Oct. 30, 2000, 114 
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–261, div. A, title VI, § 603(c), Oct. 17, 1998, 112 Stat. 2037, provided that: “The reimbursement authority provided by section 403(c)(3)(B) of title 37, United States Code, as added by subsection (a), applies with respect to losses relating to housing that are sustained, on or after July 1, 1997, by a member of the uniformed services as a result of fluctuations in the relative value of the currencies of the United States and the foreign country in which the housing is located.”
+Pub. L. 105–261, div. A, title VI, § 603(c), Oct. 17, 1998, 112 Stat. 2037, provided that: “The reimbursement authority provided by section 403(c)(3)(B) of title 37, United States Code, as added by subsection (a), applies with respect to losses relating to housing that are sustained, on or after July 1, 1997, by a member of the uniformed services as a result of fluctuations in the relative value of the currencies of the United States and the foreign country in which the housing is located.”
 
 **Effective Date of 1997 Amendment**
 
@@ -1433,29 +1433,29 @@ Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub.
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–201, div. A, title VI, § 604(e), Sept. 23, 1996, 110 Stat. 2541, provided that: “The amendments made by this section [amending this section and section 403a of this title] shall take effect on July 1, 1997.”
+Pub. L. 104–201, div. A, title VI, § 604(e), Sept. 23, 1996, 110 Stat. 2541, provided that: “The amendments made by this section [amending this section and section 403a of this title] shall take effect on July 1, 1997.”
 
-Pub. L. 104–106, div. A, title VI, § 603(b), Feb. 10, 1996, 110 Stat. 358, provided that: “The amendments made by this section [amending this section] shall take effect on July 1, 1996.”
+Pub. L. 104–106, div. A, title VI, § 603(b), Feb. 10, 1996, 110 Stat. 358, provided that: “The amendments made by this section [amending this section] shall take effect on July 1, 1996.”
 
-Pub. L. 104–106, div. A, title VI, § 604(b), Feb. 10, 1996, 110 Stat. 358, provided that: “The amendments made by this section [amending this section] shall take effect on July 1, 1996.”
+Pub. L. 104–106, div. A, title VI, § 604(b), Feb. 10, 1996, 110 Stat. 358, provided that: “The amendments made by this section [amending this section] shall take effect on July 1, 1996.”
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–337, div. A, title VI, § 604(c), Oct. 5, 1994, 108 Stat. 2782, provided that: “The amendments made by this section [amending this section] shall take effect as of October 1, 1993.”
+Pub. L. 103–337, div. A, title VI, § 604(c), Oct. 5, 1994, 108 Stat. 2782, provided that: “The amendments made by this section [amending this section] shall take effect as of October 1, 1993.”
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–190, div. A, title VI, § 604(c), Dec. 5, 1991, 105 Stat. 1374, provided that: “The amendments made by this section [amending this section and section 403a of this title] shall take effect six months after the date of the enactment of this Act [Dec. 5, 1991].”
+Pub. L. 102–190, div. A, title VI, § 604(c), Dec. 5, 1991, 105 Stat. 1374, provided that: “The amendments made by this section [amending this section and section 403a of this title] shall take effect six months after the date of the enactment of this Act [Dec. 5, 1991].”
 
-Pub. L. 102–190, div. A, title VI, § 632(b), Dec. 5, 1991, 105 Stat. 1380, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 5, 1991] and shall apply to calls or orders of members of the reserve components of the Armed Forces to active duty on or after that date.”
+Pub. L. 102–190, div. A, title VI, § 632(b), Dec. 5, 1991, 105 Stat. 1380, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 5, 1991] and shall apply to calls or orders of members of the reserve components of the Armed Forces to active duty on or after that date.”
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–227, § 2, Dec. 28, 1985, 99 Stat. 1745, provided that: “The amendments made by section 1 of this Act [amending this section] shall take effect December 12, 1985, and shall apply only with respect to housing for and payment of an allowance for quarters to dependents of members of the uniformed services who died on or after that date.”
+Pub. L. 99–227, § 2, Dec. 28, 1985, 99 Stat. 1745, provided that: “The amendments made by section 1 of this Act [amending this section] shall take effect December 12, 1985, and shall apply only with respect to housing for and payment of an allowance for quarters to dependents of members of the uniformed services who died on or after that date.”
 
-Pub. L. 99–145, title VI, § 604(c), Nov. 8, 1985, 99 Stat. 638, provided that: “The amendments made by this section [amending this section and section 403a of this title] shall take effect on October 1, 1985.”
+Pub. L. 99–145, title VI, § 604(c), Nov. 8, 1985, 99 Stat. 638, provided that: “The amendments made by this section [amending this section and section 403a of this title] shall take effect on October 1, 1985.”
 
-Pub. L. 99–145, title VI, § 605(b), Nov. 8, 1985, 99 Stat. 638, provided that:
+Pub. L. 99–145, title VI, § 605(b), Nov. 8, 1985, 99 Stat. 638, provided that:
 
 > **“(1)** The amendments made by paragraphs (1) and (2) of subsection (a) [amending this section] shall take effect on October 1, 1985.
 
@@ -1465,7 +1465,7 @@ Amendment by section 809(b) of Pub. L. 99–145 effective Oct. 1, 1985, see sect
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–525, title VI, § 602(f), Oct. 19, 1984, 98 Stat. 2536, as amended by Pub. L. 99–145, title VI, § 603(b), Nov. 8, 1985, 99 Stat. 637; Pub. L. 99–661, div. A, title XIII, § 1342(b), Nov. 14, 1986, 100 Stat. 3991; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that:
+Pub. L. 98–525, title VI, § 602(f), Oct. 19, 1984, 98 Stat. 2536, as amended by Pub. L. 99–145, title VI, § 603(b), Nov. 8, 1985, 99 Stat. 637; Pub. L. 99–661, div. A, title XIII, § 1342(b), Nov. 14, 1986, 100 Stat. 3991; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that:
 
 > **“(1)** Except as provided in paragraph (2), the amendments made by this section [enacting section 403a of this title, amending this section, section 405 of this title, section 7572 of Title 10, Armed Forces, and provisions set out as a note under this section, and enacting provisions set out as a note under this section] shall take effect on January 1, 1985.
 
@@ -1489,23 +1489,23 @@ Pub. L. 98–525, title VI, § 602(f), Oct. 19, 1984, 98 Stat. 2536, as amende
 
 [Amendment of this note by Pub. L. 99–661 effective Nov. 14, 1986, see section 1342(h)(1) of Pub. L. 99–661, set out as an Effective Date of 1986 Amendment note under section 301 of this title.]
 
-Pub. L. 98–525, title VI, § 604(b), Oct. 19, 1984, 98 Stat. 2537, provided that: “The amendment made by subsection (a) [amending this section] shall apply only with respect to members making an election under section 403(b) of title 37, United States Code, after September 30, 1984.”
+Pub. L. 98–525, title VI, § 604(b), Oct. 19, 1984, 98 Stat. 2537, provided that: “The amendment made by subsection (a) [amending this section] shall apply only with respect to members making an election under section 403(b) of title 37, United States Code, after September 30, 1984.”
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–94, title IX, § 907(b), Sept. 24, 1983, 97 Stat. 637, provided that: “The amendments made by subsection (a) [amending this section] shall apply only with respect to members called or ordered to active duty after September 30, 1983.”
+Pub. L. 98–94, title IX, § 907(b), Sept. 24, 1983, 97 Stat. 637, provided that: “The amendments made by subsection (a) [amending this section] shall apply only with respect to members called or ordered to active duty after September 30, 1983.”
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–22, § 11(b)(2), July 10, 1981, 95 Stat. 138, provided that the amendment made by that section is effective Oct. 1, 1980.
+Pub. L. 97–22, § 11(b)(2), July 10, 1981, 95 Stat. 138, provided that the amendment made by that section is effective Oct. 1, 1980.
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–579, § 6(d), Dec. 23, 1980, 94 Stat. 3368, provided that: “The amendments made by this section [amending this section] shall only apply to payment of basic allowance for quarters for months after September 1980.”
+Pub. L. 96–579, § 6(d), Dec. 23, 1980, 94 Stat. 3368, provided that: “The amendments made by this section [amending this section] shall only apply to payment of basic allowance for quarters for months after September 1980.”
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
 
-Pub. L. 96–343, § 4(b), Sept. 8, 1980, 94 Stat. 1125, provided that: “Paragraph (2) of section 403(a) of title 37, United States Code, as added by subsection (a), shall take effect on September 30, 1981.”
+Pub. L. 96–343, § 4(b), Sept. 8, 1980, 94 Stat. 1125, provided that: “Paragraph (2) of section 403(a) of title 37, United States Code, as added by subsection (a), shall take effect on September 30, 1981.”
 
 **Effective Date of 1974 Amendment**
 
@@ -1533,7 +1533,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Improvements to Basic Allowance for Housing**
 
-Pub. L. 119–60, div. A, title VI, § 624, Dec. 18, 2025, 139 Stat. 909, provided that:
+Pub. L. 119–60, div. A, title VI, § 624, Dec. 18, 2025, 139 Stat. 909, provided that:
 
 > **“(a) Increasing Awareness.—** The Secretary of Defense shall seek to improve transparency of the calculation of BAH by—
 
@@ -1603,23 +1603,23 @@ Pub. L. 119–60, div. A, title VI, § 624, Dec. 18, 2025, 139 Stat. 909, prov
 
 **Special Rule**
 
-Pub. L. 113–291, div. A, title VI, § 604(b), Dec. 19, 2014, 128 Stat. 3399, which provided that reduction in housing allowance authorized by section 403(b)(3) of this title, as amended by Pub. L. 113–291, was not applicable with respect to certain benefits paid by the Secretary of Veterans Affairs and such benefits would be subject to section 403(b)(3) as it read the day before Dec. 19, 2014, was repealed by Pub. L. 115–48, title V, § 501(a), Aug. 16, 2017, 131 Stat. 996.
+Pub. L. 113–291, div. A, title VI, § 604(b), Dec. 19, 2014, 128 Stat. 3399, which provided that reduction in housing allowance authorized by section 403(b)(3) of this title, as amended by Pub. L. 113–291, was not applicable with respect to certain benefits paid by the Secretary of Veterans Affairs and such benefits would be subject to section 403(b)(3) as it read the day before Dec. 19, 2014, was repealed by Pub. L. 115–48, title V, § 501(a), Aug. 16, 2017, 131 Stat. 996.
 
-[Pub. L. 115–48, title V, § 501(b), Aug. 16, 2017, 131 Stat. 996, provided that: “The amendment made by subsection (a) [repealing section 604(b) of Pub. L. 113–291, formerly set out above] shall take effect on January 1, 2018, and shall apply with respect to individuals who first use their entitlement to educational assistance under chapter 33 of title 38, United States Code, on or after such date.” ]
+[Pub. L. 115–48, title V, § 501(b), Aug. 16, 2017, 131 Stat. 996, provided that: “The amendment made by subsection (a) [repealing section 604(b) of Pub. L. 113–291, formerly set out above] shall take effect on January 1, 2018, and shall apply with respect to individuals who first use their entitlement to educational assistance under chapter 33 of title 38, United States Code, on or after such date.” ]
 
 **Transitional Provisions**
 
-Pub. L. 112–239, div. A, title VI, § 604(b), Jan. 2, 2013, 126 Stat. 1774, as amended by Pub. L. 113–291, div. A, title X, § 1071(h), Dec. 19, 2014, 128 Stat. 3512, provided that:
+Pub. L. 112–239, div. A, title VI, § 604(b), Jan. 2, 2013, 126 Stat. 1774, as amended by Pub. L. 113–291, div. A, title X, § 1071(h), Dec. 19, 2014, 128 Stat. 3512, provided that:
 
 > **“(1) In general.—** The basic allowance for housing paid to a member of a reserve component described in subparagraph (A) of paragraph (6) of section 403(g) of title 37, United States Code, as added by subsection (a), who on January 2, 2013, is being paid basic allowance for housing at a rate that is based on a housing area other than the member’s permanent duty station, shall be paid at that current rate until the member is assigned to perform duty at the member’s permanent duty station, at which time the member shall be paid basic allowance for housing at the prevailing permanent duty station housing area rate or at the permanent duty station housing rate for which the member has qualified under such paragraph (6).
 
 > **“(2) Alternative rate.—** The Secretary of a military department, with the approval of the Secretary of Defense, may pay a member covered by paragraph (1) and under the jurisdiction of that Secretary a basic allowance for housing at a rate higher than the rate provided under such paragraph to ensure that the member is treated fairly and equitably or to serve the best interests of the United States.”
 
-[Pub. L. 113–291, div. A, title X, § 1071(h), Dec. 19, 2014, 128 Stat. 3512, provided that the amendment made by that section to section 604(b) of Pub. L. 112–239, set out above, is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.]
+[Pub. L. 113–291, div. A, title X, § 1071(h), Dec. 19, 2014, 128 Stat. 3512, provided that the amendment made by that section to section 604(b) of Pub. L. 112–239, set out above, is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.]
 
 **Minimum Rates of Basic Allowance; Annual Limitation**
 
-Pub. L. 106–246, div. B, title I, § 101(a), (b), July 13, 2000, 114 Stat. 528, provided that:
+Pub. L. 106–246, div. B, title I, § 101(a), (b), July 13, 2000, 114 Stat. 528, provided that:
 
 > **“(a) Minimum Rates of Basic Allowance for Housing for Members of the Uniformed Services.—** During the period beginning on January 1, 2000, and ending on September 30, 2001 (or such earlier date as the Secretary of Defense considers appropriate), a member of the uniformed services entitled to a basic allowance for housing for a military housing area in the United States shall be paid the allowance at a monthly rate not less than the rate in effect on December 31, 1999, in that area for members serving in the same pay grade and with the same dependency status as the member.
 
@@ -1627,35 +1627,35 @@ Pub. L. 106–246, div. B, title I, § 101(a), (b), July 13, 2000, 114 Stat. 5
 
 **Transition to Basic Allowance for Housing**
 
-Pub. L. 105–85, div. A, title VI, § 603(b), Nov. 18, 1997, 111 Stat. 1781, as amended by Pub. L. 106–398, § 1 [[div. A], title VI, § 605(e)], Oct. 30, 2000, 114 Stat. 1654, 1654A–148; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “The Secretary of Defense shall develop and implement a plan to incrementally manage the rate of growth of the various components of the basic allowance for housing authorized by section 403 of title 37, United States Code (as amended by subsection (a)), during a transition period of not more than eight years. During the transition period, the Secretary may continue to use the authorities provided under sections 403, 403a, 475(b), and 427(a) of title 37, United States Code (as in effect on the day before the date of the enactment of this Act [Nov. 18, 1997]), but subject to such modifications as the Secretary considers necessary, to provide allowances for members of the uniformed services.”
+Pub. L. 105–85, div. A, title VI, § 603(b), Nov. 18, 1997, 111 Stat. 1781, as amended by Pub. L. 106–398, § 1 [[div. A], title VI, § 605(e)], Oct. 30, 2000, 114 Stat. 1654, 1654A–148; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “The Secretary of Defense shall develop and implement a plan to incrementally manage the rate of growth of the various components of the basic allowance for housing authorized by section 403 of title 37, United States Code (as amended by subsection (a)), during a transition period of not more than eight years. During the transition period, the Secretary may continue to use the authorities provided under sections 403, 403a, 475(b), and 427(a) of title 37, United States Code (as in effect on the day before the date of the enactment of this Act [Nov. 18, 1997]), but subject to such modifications as the Secretary considers necessary, to provide allowances for members of the uniformed services.”
 
 **Exception to Limitation on Amount of Basic Allowance for Quarters for Members Receiving Allowance Due to Payment of Child Support**
 
-Pub. L. 102–190, div. A, title VI, § 602(b), Dec. 5, 1991, 105 Stat. 1373, provided that subsec. (m) of this section, as added by section 602(a) of Pub. L. 102–190, temporarily was not to apply with respect to a member of a uniformed service assigned to quarters of the United States or a housing facility under the jurisdiction of a uniformed service who, on the day before Dec. 5, 1991, was entitled to receive a basic allowance for quarters solely by reason of the member’s payment of child support.
+Pub. L. 102–190, div. A, title VI, § 602(b), Dec. 5, 1991, 105 Stat. 1373, provided that subsec. (m) of this section, as added by section 602(a) of Pub. L. 102–190, temporarily was not to apply with respect to a member of a uniformed service assigned to quarters of the United States or a housing facility under the jurisdiction of a uniformed service who, on the day before Dec. 5, 1991, was entitled to receive a basic allowance for quarters solely by reason of the member’s payment of child support.
 
 **Active Duty in Connection With Operation Desert Storm**
 
-Pub. L. 102–25, title III, § 310A, Apr. 6, 1991, 105 Stat. 84, provided that, during the period beginning on Aug. 2, 1990, and ending on the first day of the first month beginning on or after the date 180 days after the end of the Persian Gulf conflict, a member of a reserve component of the uniformed services without dependents who was called or ordered to active duty in connection with Operation Desert Storm was to be entitled to a basic allowance for quarters under this section if, because of the call or order, the member was unable to continue to occupy a residence maintained as the primary residence of the member at the time of the call or order, and owned by the member or for which the member was responsible for rental payments.
+Pub. L. 102–25, title III, § 310A, Apr. 6, 1991, 105 Stat. 84, provided that, during the period beginning on Aug. 2, 1990, and ending on the first day of the first month beginning on or after the date 180 days after the end of the Persian Gulf conflict, a member of a reserve component of the uniformed services without dependents who was called or ordered to active duty in connection with Operation Desert Storm was to be entitled to a basic allowance for quarters under this section if, because of the call or order, the member was unable to continue to occupy a residence maintained as the primary residence of the member at the time of the call or order, and owned by the member or for which the member was responsible for rental payments.
 
 **Increase in Basic Allowance for Quarters Effective January 1, 1989**
 
-Pub. L. 100–456, div. A, title VI, § 601(c), Sept. 29, 1988, 102 Stat. 1976, provided that the rates of basic allowance for quarters for members of the uniformed services were increased by 7 percent effective on Jan. 1, 1989, and authorized the President to allocate the increase among pay grades and dependency categories, and the Secretary of Defense to establish separate rates of basic allowance for quarters for commissioned officers credited with over four years of active service as enlisted members or warrant officers.
+Pub. L. 100–456, div. A, title VI, § 601(c), Sept. 29, 1988, 102 Stat. 1976, provided that the rates of basic allowance for quarters for members of the uniformed services were increased by 7 percent effective on Jan. 1, 1989, and authorized the President to allocate the increase among pay grades and dependency categories, and the Secretary of Defense to establish separate rates of basic allowance for quarters for commissioned officers credited with over four years of active service as enlisted members or warrant officers.
 
 **Minimum Rate of Quarters Allowance Set at Rate as of December 31, 1984**
 
-Pub. L. 99–190, § 101(b) [title VIII, § 8088], Dec. 19, 1985, 99 Stat. 1185, 1216, provided that effective Jan. 1, 1985, the rate of the basic allowance for quarters authorized by subsec. (a) of this section which was payable to a member of the uniformed services who was entitled to that allowance on Dec. 31, 1984, was not to be less than the rate of the basic allowance for quarters that was in effect for that member on Dec. 31, 1984, with certain exceptions.
+Pub. L. 99–190, § 101(b) [title VIII, § 8088], Dec. 19, 1985, 99 Stat. 1185, 1216, provided that effective Jan. 1, 1985, the rate of the basic allowance for quarters authorized by subsec. (a) of this section which was payable to a member of the uniformed services who was entitled to that allowance on Dec. 31, 1984, was not to be less than the rate of the basic allowance for quarters that was in effect for that member on Dec. 31, 1984, with certain exceptions.
 
 **Basic Allowance for Quarters and Variable Housing Allowance**
 
-Pub. L. 98–525, title VI, § 602(a), Oct. 19, 1984, 98 Stat. 2533, as amended by Pub. L. 99–661, div. A, title XIII, § 1341(a), Nov. 14, 1986, 100 Stat. 3990, revised, effective Jan. 1, 1985, the rates of the basic allowance for quarters authorized by subsec. (a)(1) of this section and provided that, during the period beginning on Jan. 1, 1985, and ending on the effective date of a change made by law in the rates of basic allowance for quarters that increased the rates for such allowance to a level not less than 7 percent greater than the rates in effect on Jan. 1, 1985, the rate of the basic allowance for quarters authorized by subsec. (a)(1) of this section which was payable to a member of the uniformed services who was entitled to that allowance during such period and who was entitled to that allowance on Dec. 31, 1984, was not to be less than the rate of the basic allowance for quarters that was in effect for that member on Dec. 31, 1984, with certain exceptions.
+Pub. L. 98–525, title VI, § 602(a), Oct. 19, 1984, 98 Stat. 2533, as amended by Pub. L. 99–661, div. A, title XIII, § 1341(a), Nov. 14, 1986, 100 Stat. 3990, revised, effective Jan. 1, 1985, the rates of the basic allowance for quarters authorized by subsec. (a)(1) of this section and provided that, during the period beginning on Jan. 1, 1985, and ending on the effective date of a change made by law in the rates of basic allowance for quarters that increased the rates for such allowance to a level not less than 7 percent greater than the rates in effect on Jan. 1, 1985, the rate of the basic allowance for quarters authorized by subsec. (a)(1) of this section which was payable to a member of the uniformed services who was entitled to that allowance during such period and who was entitled to that allowance on Dec. 31, 1984, was not to be less than the rate of the basic allowance for quarters that was in effect for that member on Dec. 31, 1984, with certain exceptions.
 
 **Freeze of Variable Housing Allowance at Fiscal Year 1983 Rates**
 
-Pub. L. 98–94, title IX, § 906, Sept. 24, 1983, 97 Stat. 637, as amended by Pub. L. 98–525, title VI, § 602(b)(2), Oct. 19, 1984, 98 Stat. 2534, provided that during the period beginning on Oct. 1, 1983, and ending on Jan. 1, 1985, the rates at which the variable housing allowance under subsec. (a)(2) of this section was paid was to be the same as the rates in effect on Sept. 30, 1983.
+Pub. L. 98–94, title IX, § 906, Sept. 24, 1983, 97 Stat. 637, as amended by Pub. L. 98–525, title VI, § 602(b)(2), Oct. 19, 1984, 98 Stat. 2534, provided that during the period beginning on Oct. 1, 1983, and ending on Jan. 1, 1985, the rates at which the variable housing allowance under subsec. (a)(2) of this section was paid was to be the same as the rates in effect on Sept. 30, 1983.
 
 **Variable Housing Allowance During Fiscal Year 1981; Amount; Regulations**
 
-Pub. L. 96–343, § 4(c), Sept. 8, 1980, 94 Stat. 1125, provided that during fiscal year 1981, a member of a uniformed service entitled to basic allowance for quarters under this section could be paid a variable housing allowance whenever assigned to duty in an area of the United States (other than Alaska and Hawaii) which was a high housing cost area with respect to such member, and a member with dependents who was assigned to an unaccompanied tour of duty outside the United States could be paid a variable housing allowance while serving such tour of duty for any period during which the member’s dependents resided in an area of the United States which would qualify the member to receive a variable housing allowance if assigned to duty in that area.
+Pub. L. 96–343, § 4(c), Sept. 8, 1980, 94 Stat. 1125, provided that during fiscal year 1981, a member of a uniformed service entitled to basic allowance for quarters under this section could be paid a variable housing allowance whenever assigned to duty in an area of the United States (other than Alaska and Hawaii) which was a high housing cost area with respect to such member, and a member with dependents who was assigned to an unaccompanied tour of duty outside the United States could be paid a variable housing allowance while serving such tour of duty for any period during which the member’s dependents resided in an area of the United States which would qualify the member to receive a variable housing allowance if assigned to duty in that area.
 
 **Pay Continuation**
 
@@ -1663,15 +1663,15 @@ Amendment of this section by Pub. L. 92–129 not to reduce the pay to which any
 
 **1962 Increase in Quarters Allowance**
 
-Act Oct. 12, 1949, ch. 681, title III, § 302(f), 63 Stat. 812, as amended by Pub. L. 87–531, § 1, July 10, 1962, 76 Stat. 152, which had provided for increases in quarters allowances without amending subsec. (a) of this section through the device of effecting an amendment to section 302(f) of the Career Compensation Act of 1949, was repealed by section 75(5) of Pub. L. 89–718 except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun before November 2, 1966. The substance of these quarters allowance increases were incorporated into the text of this section through the amendment of subsec. (a) of this section by Pub. L. 89–718.
+Act Oct. 12, 1949, ch. 681, title III, § 302(f), 63 Stat. 812, as amended by Pub. L. 87–531, § 1, July 10, 1962, 76 Stat. 152, which had provided for increases in quarters allowances without amending subsec. (a) of this section through the device of effecting an amendment to section 302(f) of the Career Compensation Act of 1949, was repealed by section 75(5) of Pub. L. 89–718 except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun before November 2, 1966. The substance of these quarters allowance increases were incorporated into the text of this section through the amendment of subsec. (a) of this section by Pub. L. 89–718.
 
 **Enlisted Members Without Dependents**
 
-Act Oct. 12, 1949, ch. 681, title III, 302(g), 63 Stat. 812, which provided that enlisted members without dependents shall be entitled to a basic allowance for quarters at the rate of $51.30 per month, was repealed by Pub. L. 87–531, § 2, July 10, 1962, 76 Stat. 152. Laws effective after Jan. 9, 1962, that are inconsistent with Pub. L. 87–649, to be considered as superseding Pub. L. 87–649 to the extent of the inconsistency, see section 12(a) of Pub. L. 87–649, set out as a note preceding section 101 of this title.
+Act Oct. 12, 1949, ch. 681, title III, 302(g), 63 Stat. 812, which provided that enlisted members without dependents shall be entitled to a basic allowance for quarters at the rate of $51.30 per month, was repealed by Pub. L. 87–531, § 2, July 10, 1962, 76 Stat. 152. Laws effective after Jan. 9, 1962, that are inconsistent with Pub. L. 87–649, to be considered as superseding Pub. L. 87–649 to the extent of the inconsistency, see section 12(a) of Pub. L. 87–649, set out as a note preceding section 101 of this title.
 
 **Authority of Secretaries With Respect to Payment of Quarters Allowances**
 
-Pub. L. 87–531, § 5, July 10, 1962, 76 Stat. 153, provided that: “The Secretaries of the departments concerned shall have the same authority with respect to payments of quarters allowances to enlisted members of the uniformed services to pay grades E–4 (over 4 years’ service) through E–9 that they have with respect to enlisted members of the uniformed services in pay grades E–1, E–2, E–3, and E–4 (4 years’ or less service) under sections 10 and 11 of the Dependents Assistance Act of 1950 ([former] 50 App. U.S.C. 2210, 2211).”
+Pub. L. 87–531, § 5, July 10, 1962, 76 Stat. 153, provided that: “The Secretaries of the departments concerned shall have the same authority with respect to payments of quarters allowances to enlisted members of the uniformed services to pay grades E–4 (over 4 years’ service) through E–9 that they have with respect to enlisted members of the uniformed services in pay grades E–1, E–2, E–3, and E–4 (4 years’ or less service) under sections 10 and 11 of the Dependents Assistance Act of 1950 ([former] 50 App. U.S.C. 2210, 2211).”
 
 **Executive Documents**
 
@@ -1683,7 +1683,7 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
 Ex. Ord. No. 10204, Jan. 16, 1951, 16 F.R. 417, as amended by Ex. Ord. No. 11120, Oct. 2, 1963, 28 F.R. 10631; Ex. Ord. No. 11146, Mar. 13, 1964, 29 F.R. 3417, which related to regulations governing basic allowances for quarters, was revoked by Ex. Ord. No. 11157, June 22, 1964, 29 F.R. 7973, formerly set out as a note under section 301 of this title.
 
-## § 403a. Housing treatment for certain members of the armed forces, and their spouses and other dependents, undergoing a permanent change of station within the United States
+## § 403a. Housing treatment for certain members of the armed forces, and their spouses and other dependents, undergoing a permanent change of station within the United States
 
 **(a) Housing Treatment for Certain Members Who Have a Spouse or Other Dependents.—**
 
@@ -1735,21 +1735,21 @@ Ex. Ord. No. 10204, Jan. 16, 1951, 16 F.R. 417, as amended by Ex. Ord. No. 11120
 
 **(3) Permanent change of station.—** The term “permanent change of station” means a permanent change of station described in section 452(b)(2) of this title.
 
-(Added Pub. L. 115–91, div. A, title VI, § 604(a)(1), Dec. 12, 2017, 131 Stat. 1419.)
+(Added Pub. L. 115–91, div. A, title VI, § 604(a)(1), Dec. 12, 2017, 131 Stat. 1419.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 403a, added Pub. L. 98–525, title VI, § 602(d)(1), Oct. 19, 1984, 98 Stat. 2534; amended Pub. L. 99–145, title VI, §§ 602(a)–(d), 604(b), Nov. 8, 1985, 99 Stat. 636–638; Pub. L. 100–26, § 8(e)(8), Apr. 21, 1987, 101 Stat. 286; Pub. L. 101–189, div. A, title VI, § 602(a), Nov. 29, 1989, 103 Stat. 1445; Pub. L. 101–510, div. A, title VI, § 602, Nov. 5, 1990, 104 Stat. 1575; Pub. L. 102–25, title VII, § 702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §§ 603, 604(b), 633, Dec. 5, 1991, 105 Stat. 1373, 1374, 1381; Pub. L. 103–160, div. A, title VI, § 604, Nov. 30, 1993, 107 Stat. 1679; Pub. L. 104–106, div. A, title VI, § 605(a)(1), (b), Feb. 10, 1996, 110 Stat. 358; Pub. L. 104–201, div. A, title VI, §§ 604(d), 606(a)–(d), Sept. 23, 1996, 110 Stat. 2541, 2542, related to variable housing allowances, prior to repeal by Pub. L. 105–85, div. A, title VI, § 603(c)(1), Nov. 18, 1997, 111 Stat. 1781.
+A prior section 403a, added Pub. L. 98–525, title VI, § 602(d)(1), Oct. 19, 1984, 98 Stat. 2534; amended Pub. L. 99–145, title VI, §§ 602(a)–(d), 604(b), Nov. 8, 1985, 99 Stat. 636–638; Pub. L. 100–26, § 8(e)(8), Apr. 21, 1987, 101 Stat. 286; Pub. L. 101–189, div. A, title VI, § 602(a), Nov. 29, 1989, 103 Stat. 1445; Pub. L. 101–510, div. A, title VI, § 602, Nov. 5, 1990, 104 Stat. 1575; Pub. L. 102–25, title VII, § 702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §§ 603, 604(b), 633, Dec. 5, 1991, 105 Stat. 1373, 1374, 1381; Pub. L. 103–160, div. A, title VI, § 604, Nov. 30, 1993, 107 Stat. 1679; Pub. L. 104–106, div. A, title VI, § 605(a)(1), (b), Feb. 10, 1996, 110 Stat. 358; Pub. L. 104–201, div. A, title VI, §§ 604(d), 606(a)–(d), Sept. 23, 1996, 110 Stat. 2541, 2542, related to variable housing allowances, prior to repeal by Pub. L. 105–85, div. A, title VI, § 603(c)(1), Nov. 18, 1997, 111 Stat. 1781.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 115–91, div. A, title VI, § 604(b), Dec. 12, 2017, 131 Stat. 1420, provided that: “The amendments made by this section [enacting this section] shall take effect on October 1, 2018.”
+Pub. L. 115–91, div. A, title VI, § 604(b), Dec. 12, 2017, 131 Stat. 1420, provided that: “The amendments made by this section [enacting this section] shall take effect on October 1, 2018.”
 
-## § 403b. Cost-of-living allowance in the continental United States
+## § 403b. Cost-of-living allowance in the continental United States
 
 **(a) Payment Authorized.—** The Secretary concerned may pay a cost-of-living allowance to the eligible members of a uniformed service under the jurisdiction of the Secretary.
 
@@ -1831,7 +1831,7 @@ Pub. L. 115–91, div. A, title VI, § 604(b), Dec. 12, 2017, 131 Stat. 1420, 
 
 **(D)** The Secretary of Health and Human Services, with respect to the Public Health Service.
 
-(Added Pub. L. 103–337, div. A, title VI, § 602(a)(1), Oct. 5, 1994, 108 Stat. 2779; amended Pub. L. 107–296, title XVII, § 1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, § 654(b)(2), Dec. 2, 2002, 116 Stat. 2582; Pub. L. 118–31, div. A, title VI, § 625, Dec. 22, 2023, 137 Stat. 294.)
+(Added Pub. L. 103–337, div. A, title VI, § 602(a)(1), Oct. 5, 1994, 108 Stat. 2779; amended Pub. L. 107–296, title XVII, § 1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, § 654(b)(2), Dec. 2, 2002, 116 Stat. 2582; Pub. L. 118–31, div. A, title VI, § 625, Dec. 22, 2023, 137 Stat. 294.)
 
 **Editorial Notes**
 
@@ -1855,7 +1855,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **OCONUS Cost of Living Allowance: Adjustments; Notice to Certain Congressional Committees**
 
-Pub. L. 117–263, div. A, title VI, § 617, Dec. 23, 2022, 136 Stat. 2624, as amended by Pub. L. 118–31, div. A, title VI, § 627, Dec. 22, 2023, 137 Stat. 294, provided that:
+Pub. L. 117–263, div. A, title VI, § 617, Dec. 23, 2022, 136 Stat. 2624, as amended by Pub. L. 118–31, div. A, title VI, § 627, Dec. 22, 2023, 137 Stat. 294, provided that:
 
 > **“(a) Reductions.—** The Secretary of Defense may reduce an OCONUS COLA in accordance with this subsection.
 
@@ -1917,7 +1917,7 @@ Pub. L. 117–263, div. A, title VI, § 617, Dec. 23, 2022, 136 Stat. 2624, as
 
 **Conditions on Provision of Allowance**
 
-Pub. L. 103–337, div. A, title VI, § 602(b), Oct. 5, 1994, 108 Stat. 2781, provided that:
+Pub. L. 103–337, div. A, title VI, § 602(b), Oct. 5, 1994, 108 Stat. 2781, provided that:
 
 > **“(1)** A cost-of-living allowance under section 403b of title 37, United States Code, as added by subsection (a), may not be provided until after the end of the 90-day period beginning on the date the Secretary of Defense submits the report required under paragraph (2).
 
@@ -1933,13 +1933,13 @@ Pub. L. 103–337, div. A, title VI, § 602(b), Oct. 5, 1994, 108 Stat. 2781, 
 
 [Report submitted by Secretary of Defense on Mar. 31, 1995.]
 
-## [§ 404. Renumbered § 474]
+## [§ 404. Renumbered § 474]
 
-## [§ 404a. Renumbered § 474a]
+## [§ 404a. Renumbered § 474a]
 
-## [§ 404b. Renumbered § 474b]
+## [§ 404b. Renumbered § 474b]
 
-## § 405. Travel and transportation allowances: per diem while on duty outside the continental United States
+## § 405. Travel and transportation allowances: per diem while on duty outside the continental United States
 
 **(a) Per Diem Authorized.—** Without regard to the monetary limitation of this title, the Secretary concerned may pay a per diem to a member of the uniformed services who is on duty outside of the continental United States, whether or not the member is in a travel status. The Secretary may pay the per diem in advance of the accrual of the per diem.
 
@@ -1961,13 +1961,13 @@ Pub. L. 103–337, div. A, title VI, § 602(b), Oct. 5, 1994, 108 Stat. 2781, 
 
 **(e) Payment of Allowance Based on Overseas Location of Dependents.—** In the case of a member assigned to duty inside the continental United States whose dependents continue to reside outside the continental United States, the Secretary concerned may pay the member a per diem under this section based on the location of the dependents and provide reimbursement under subsection (d) for an unusual or extraordinary expense incurred by the dependents if the Secretary determines that such payment or reimbursement is in the best interest of the member or the member’s dependents and in the best interest of the United States.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 473, § 405; Pub. L. 89–718, § 57, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 91–486, Oct. 22, 1970, 84 Stat. 1085; Pub. L. 96–107, title VIII, § 807(a), Nov. 9, 1979, 93 Stat. 813; Pub. L. 98–525, title VI, § 602(e), Oct. 19, 1984, 98 Stat. 2536; Pub. L. 99–145, title XIII, § 1303(b)(8), Nov. 8, 1985, 99 Stat. 741; Pub. L. 101–189, div. A, title VI, § 622(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 103–160, div. A, title VI, § 622(a), Nov. 30, 1993, 107 Stat. 1683; Pub. L. 105–85, div. A, title VI, § 603(c)(2), Nov. 18, 1997, 111 Stat. 1781; Pub. L. 105–261, div. A, title VI, § 603(b), Oct. 17, 1998, 112 Stat. 2037; Pub. L. 106–398, § 1 [[div. A], title VI, § 641(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–160; Pub. L. 108–375, div. A, title VI, § 605(a), (b)(1), (2), Oct. 28, 2004, 118 Stat. 1945; Pub. L. 109–163, div. A, title VI, § 612, Jan. 6, 2006, 119 Stat. 3291; renumbered § 475 and amended Pub. L. 112–81, div. A, title VI, § 631(d)(2), (e)(4), Dec. 31, 2011, 125 Stat. 1460, 1462; renumbered § 405 and amended Pub. L. 116–283, div. A, title VI, § 604(a), Jan. 1, 2021, 134 Stat. 3672.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 473, § 405; Pub. L. 89–718, § 57, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 91–486, Oct. 22, 1970, 84 Stat. 1085; Pub. L. 96–107, title VIII, § 807(a), Nov. 9, 1979, 93 Stat. 813; Pub. L. 98–525, title VI, § 602(e), Oct. 19, 1984, 98 Stat. 2536; Pub. L. 99–145, title XIII, § 1303(b)(8), Nov. 8, 1985, 99 Stat. 741; Pub. L. 101–189, div. A, title VI, § 622(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 103–160, div. A, title VI, § 622(a), Nov. 30, 1993, 107 Stat. 1683; Pub. L. 105–85, div. A, title VI, § 603(c)(2), Nov. 18, 1997, 111 Stat. 1781; Pub. L. 105–261, div. A, title VI, § 603(b), Oct. 17, 1998, 112 Stat. 2037; Pub. L. 106–398, § 1 [[div. A], title VI, § 641(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–160; Pub. L. 108–375, div. A, title VI, § 605(a), (b)(1), (2), Oct. 28, 2004, 118 Stat. 1945; Pub. L. 109–163, div. A, title VI, § 612, Jan. 6, 2006, 119 Stat. 3291; renumbered § 475 and amended Pub. L. 112–81, div. A, title VI, § 631(d)(2), (e)(4), Dec. 31, 2011, 125 Stat. 1460, 1462; renumbered § 405 and amended Pub. L. 116–283, div. A, title VI, § 604(a), Jan. 1, 2021, 134 Stat. 3672.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 405 | 37:253(b). | Oct. 12, 1949, ch. 681, § 303(b), 63 Stat. 814. |
+| 405 | 37:253(b). | Oct. 12, 1949, ch. 681, § 303(b), 63 Stat. 814. |
 
 The words “Secretaries concerned” are substituted for the words “Secretaries of the uniformed services” to conform to other subsections of the source statute. The words “outside the United States, or in Hawaii or Alaska” are substituted for the words “outside the continental United States or in Alaska” to conform to the definition of United States in section 101(1) of this revised title and to retain the coverage of the source statute.
 
@@ -1979,29 +1979,29 @@ A prior section 405 was renumbered section 475 of this title prior to being renu
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 604(a)(1), renumbered section 475 of this title as this section.
+2021—Pub. L. 116–283, § 604(a)(1), renumbered section 475 of this title as this section.
 
-Subsec. (f). Pub. L. 116–283, § 604(a)(2), struck out subsec. (f). Text read as follows: “During and after the travel authorities expiration date, no per diem may be paid under this section for any period.”
+Subsec. (f). Pub. L. 116–283, § 604(a)(2), struck out subsec. (f). Text read as follows: “During and after the travel authorities expiration date, no per diem may be paid under this section for any period.”
 
-2011—Pub. L. 112–81, § 631(d)(2), renumbered section 405 of this title as section 475.
+2011—Pub. L. 112–81, § 631(d)(2), renumbered section 405 of this title as section 475.
 
-Subsec. (f). Pub. L. 112–81, § 631(e)(4), added subsec. (f).
+Subsec. (f). Pub. L. 112–81, § 631(e)(4), added subsec. (f).
 
-2006—Subsec. (d). Pub. L. 109–163, § 612(b)(1), substituted “Unusual or Extraordinary” for “Nonrecurring” in heading.
+2006—Subsec. (d). Pub. L. 109–163, § 612(b)(1), substituted “Unusual or Extraordinary” for “Nonrecurring” in heading.
 
-Subsec. (d)(1). Pub. L. 109–163, § 612(b)(1), (3)(A), in introductory provisions, inserted “or (e)” after “subsection (a)” and substituted “an unusual or extraordinary” for “a nonrecurring”.
+Subsec. (d)(1). Pub. L. 109–163, § 612(b)(1), (3)(A), in introductory provisions, inserted “or (e)” after “subsection (a)” and substituted “an unusual or extraordinary” for “a nonrecurring”.
 
-Subsec. (d)(1)(A). Pub. L. 109–163, § 612(b)(3)(B), inserted “or the location of the member’s dependents” before semicolon.
+Subsec. (d)(1)(A). Pub. L. 109–163, § 612(b)(3)(B), inserted “or the location of the member’s dependents” before semicolon.
 
-Subsec. (d)(1)(C), (2). Pub. L. 109–163, § 612(b)(2), inserted “or (e)” after “subsection (a)”.
+Subsec. (d)(1)(C), (2). Pub. L. 109–163, § 612(b)(2), inserted “or (e)” after “subsection (a)”.
 
-Subsec. (e). Pub. L. 109–163, § 612(a), added subsec. (e).
+Subsec. (e). Pub. L. 109–163, § 612(a), added subsec. (e).
 
-2004—Pub. L. 108–375, § 605(b)(2), amended section catchline generally, substituting “continental United States” for “United States or in Hawaii or Alaska”.
+2004—Pub. L. 108–375, § 605(b)(2), amended section catchline generally, substituting “continental United States” for “United States or in Hawaii or Alaska”.
 
-Subsec. (a). Pub. L. 108–375, § 605(b)(1), substituted “outside of the continental United States” for “outside of the United States or in Hawaii or Alaska”.
+Subsec. (a). Pub. L. 108–375, § 605(b)(1), substituted “outside of the continental United States” for “outside of the United States or in Hawaii or Alaska”.
 
-Subsec. (d). Pub. L. 108–375, § 605(a), added subsec. (d).
+Subsec. (d). Pub. L. 108–375, § 605(a), added subsec. (d).
 
 2000—Pub. L. 106–398 amended section generally. Prior to amendment, section authorized payment of a per diem to members of the uniformed services on duty outside of the United States or in Hawaii or Alaska and specified what elements were to be considered in determining the per diem allowance.
 
@@ -2015,11 +2015,11 @@ Subsec. (d). Pub. L. 108–375, § 605(a), added subsec. (d).
 
 1985—Pub. L. 99–145 inserted “the” after “outside” in section catchline.
 
-1984—Subsec. (a). Pub. L. 98–525, § 602(e)(1), designated first two sentences of existing section as subsec. (a).
+1984—Subsec. (a). Pub. L. 98–525, § 602(e)(1), designated first two sentences of existing section as subsec. (a).
 
-Subsec. (b). Pub. L. 98–525, § 602(e)(2), (3), designated third and fourth sentences of existing section as subsec. (b), in such third sentence as so designated inserted “for a member who is on duty outside of the United States” after “under this section”, and inserted after such third sentence: “A station housing allowance may not be prescribed under this section for a member who is on duty in Hawaii or Alaska.”
+Subsec. (b). Pub. L. 98–525, § 602(e)(2), (3), designated third and fourth sentences of existing section as subsec. (b), in such third sentence as so designated inserted “for a member who is on duty outside of the United States” after “under this section”, and inserted after such third sentence: “A station housing allowance may not be prescribed under this section for a member who is on duty in Hawaii or Alaska.”
 
-Subsec. (c). Pub. L. 98–525, § 602(e)(4), designated last sentence of existing section as subsec. (c).
+Subsec. (c). Pub. L. 98–525, § 602(e)(4), designated last sentence of existing section as subsec. (c).
 
 1979—Pub. L. 96–107 inserted provisions relating to advance payment of station housing allowances.
 
@@ -2035,11 +2035,11 @@ Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub.
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–160, div. A, title VI, § 622(b), Nov. 30, 1993, 107 Stat. 1683, as amended by Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to nonrecurring expenses and currency fluctuation gains described in [former] section 475(d) of title 37, United States Code, that are incurred by members of the uniformed services on or after October 1, 1993.”
+Pub. L. 103–160, div. A, title VI, § 622(b), Nov. 30, 1993, 107 Stat. 1683, as amended by Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to nonrecurring expenses and currency fluctuation gains described in [former] section 475(d) of title 37, United States Code, that are incurred by members of the uniformed services on or after October 1, 1993.”
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–189, div. A, title VI, § 622(b), Nov. 29, 1989, 103 Stat. 1447, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to expenses incurred after August 31, 1990.”
+Pub. L. 101–189, div. A, title VI, § 622(b), Nov. 29, 1989, 103 Stat. 1447, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to expenses incurred after August 31, 1990.”
 
 **Effective Date of 1984 Amendment**
 
@@ -2047,63 +2047,63 @@ Amendment by Pub. L. 98–525 effective Jan. 1, 1985, with exceptions, see secti
 
 **Effective Date of 1979 Amendment**
 
-Pub. L. 96–107, title VIII, § 807(b), Nov. 9, 1979, 93 Stat. 814, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1979.”
+Pub. L. 96–107, title VIII, § 807(b), Nov. 9, 1979, 93 Stat. 814, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1979.”
 
-## [§ 405a. Renumbered § 475a]
+## [§ 405a. Renumbered § 475a]
 
-## [§ 406. Renumbered § 476]
+## [§ 406. Renumbered § 476]
 
-## [§ 406a. Renumbered § 476a]
+## [§ 406a. Renumbered § 476a]
 
-## [§ 406b. Renumbered § 476b]
+## [§ 406b. Renumbered § 476b]
 
-## [§ 406c. Renumbered § 476c]
+## [§ 406c. Renumbered § 476c]
 
-## [§ 407. Renumbered § 477]
+## [§ 407. Renumbered § 477]
 
-## [§ 408. Renumbered § 478]
+## [§ 408. Renumbered § 478]
 
-## [§ 408a. Renumbered § 478a]
+## [§ 408a. Renumbered § 478a]
 
-## [§ 409. Renumbered § 479]
+## [§ 409. Renumbered § 479]
 
-## [§ 410. Renumbered § 480]
+## [§ 410. Renumbered § 480]
 
-## [§ 411. Renumbered § 481]
+## [§ 411. Renumbered § 481]
 
-## [§ 411a. Renumbered § 481a]
+## [§ 411a. Renumbered § 481a]
 
-## [§ 411b. Renumbered § 481b]
+## [§ 411b. Renumbered § 481b]
 
-## [§ 411c. Renumbered § 481c]
+## [§ 411c. Renumbered § 481c]
 
-## [§ 411d. Renumbered § 481d]
+## [§ 411d. Renumbered § 481d]
 
-## [§ 411e. Renumbered § 481e]
+## [§ 411e. Renumbered § 481e]
 
-## [§ 411f. Renumbered § 481f]
+## [§ 411f. Renumbered § 481f]
 
-## [§ 411g. Repealed. Pub. L. 112–81, div. A, title VI, § 631(c), Dec. 31, 2011, 125 Stat. 1460]
+## [§ 411g. Repealed. Pub. L. 112–81, div. A, title VI, § 631(c), Dec. 31, 2011, 125 Stat. 1460]
 
-Section, added Pub. L. 100–180, div. A, title VI, § 614(a)(1), Dec. 4, 1987, 101 Stat. 1093; amended Pub. L. 100–456, div. A, title VI, § 624(a), Sept. 29, 1988, 102 Stat. 1984; Pub. L. 101–189, div. A, title VI, § 653(c)(1), Nov. 29, 1989, 103 Stat. 1462, related to travel and transportation allowances: transportation incident to voluntary extensions of overseas tours of duty.
+Section, added Pub. L. 100–180, div. A, title VI, § 614(a)(1), Dec. 4, 1987, 101 Stat. 1093; amended Pub. L. 100–456, div. A, title VI, § 624(a), Sept. 29, 1988, 102 Stat. 1984; Pub. L. 101–189, div. A, title VI, § 653(c)(1), Nov. 29, 1989, 103 Stat. 1462, related to travel and transportation allowances: transportation incident to voluntary extensions of overseas tours of duty.
 
-## [§ 411h. Renumbered § 481h]
+## [§ 411h. Renumbered § 481h]
 
-## [§ 411i. Renumbered § 481i]
+## [§ 411i. Renumbered § 481i]
 
-## [§ 411j. Renumbered § 481j]
+## [§ 411j. Renumbered § 481j]
 
-## [§ 411k. Renumbered § 481k]
+## [§ 411k. Renumbered § 481k]
 
-## [§ 411l. Renumbered § 481l]
+## [§ 411l. Renumbered § 481l]
 
-## [§ 412. Renumbered § 455]
+## [§ 412. Renumbered § 455]
 
-## § 413. Chairman and Vice Chairman of the Joint Chiefs of Staff
+## § 413. Chairman and Vice Chairman of the Joint Chiefs of Staff
 
 The Chairman and Vice Chairman of the Joint Chiefs of Staff are entitled to the allowances provided by law for the Chief of Staff of the Army.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 476; Pub. L. 100–180, div. A, title XIII, § 1314(c)(1), Dec. 4, 1987, 101 Stat. 1176.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 476; Pub. L. 100–180, div. A, title XIII, § 1314(c)(1), Dec. 4, 1987, 101 Stat. 1176.)
 
 **Historical and Revision Notes**
 
@@ -2121,9 +2121,9 @@ The Chairman and Vice Chairman of the Joint Chiefs of Staff are entitled to the 
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–180, div. A, title XIII, § 1314(e)(2), Dec. 4, 1987, 101 Stat. 1176, provided that: “The amendments made by subsections (c)(1), (d)(3), and (d)(4) [amending this section and provisions set out as notes under sections 431 and 1009 of this title] shall take effect as of October 1, 1986.”
+Pub. L. 100–180, div. A, title XIII, § 1314(e)(2), Dec. 4, 1987, 101 Stat. 1176, provided that: “The amendments made by subsections (c)(1), (d)(3), and (d)(4) [amending this section and provisions set out as notes under sections 431 and 1009 of this title] shall take effect as of October 1, 1986.”
 
-## § 414. Personal money allowance
+## § 414. Personal money allowance
 
 **(a) Allowance for Officers Serving in Certain Ranks or Positions.—** In addition to other pay or allowances authorized by this title, an officer who is entitled to basic pay is entitled to a personal money allowance of—
 
@@ -2139,14 +2139,14 @@ Pub. L. 100–180, div. A, title XIII, § 1314(e)(2), Dec. 4, 1987, 101 Stat. 
 
 **(b) Allowance for Senior Enlisted Members.—** In addition to other pay or allowances authorized by this title, a noncommissioned officer is entitled to a personal money allowance of $2,000 a year while serving as the Sergeant Major of the Army, the Master Chief Petty Officer of the Navy, the Chief Master Sergeant of the Air Force, the Sergeant Major of the Marine Corps, the Chief Master Sergeant of the Space Force, the Master Chief Petty Officer of the Coast Guard, the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or the Senior Enlisted Advisor to the Chief of the National Guard Bureau.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 476; Pub. L. 89–718, § 49(a)(2), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 102–25, title VII, § 702(b)(2), Apr. 6, 1991, 105 Stat. 117; Pub. L. 106–398, § 1 [[div. A], title VI, § 609(a), (b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–149; Pub. L. 108–375, div. A, title V, § 557(a)(2), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 109–148, div. A, title VIII, § 8124(b), Dec. 30, 2005, 119 Stat. 2727; Pub. L. 109–163, div. A, title VI, § 685(c), Jan. 6, 2006, 119 Stat. 3325; Pub. L. 109–364, div. A, title X, § 1071(c)(7), Oct. 17, 2006, 120 Stat. 2401; Pub. L. 113–291, div. A, title VI, § 603(c), Dec. 19, 2014, 128 Stat. 3398; Pub. L. 115–232, div. A, title VI, § 601(a), Aug. 13, 2018, 132 Stat. 1794; Pub. L. 116–283, div. A, title IX, § 925(e)(1), Jan. 1, 2021, 134 Stat. 3827; Pub. L. 118–159, div. A, title V, § 521(g)(3), Dec. 23, 2024, 138 Stat. 1881.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 476; Pub. L. 89–718, § 49(a)(2), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 102–25, title VII, § 702(b)(2), Apr. 6, 1991, 105 Stat. 117; Pub. L. 106–398, § 1 [[div. A], title VI, § 609(a), (b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–149; Pub. L. 108–375, div. A, title V, § 557(a)(2), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 109–148, div. A, title VIII, § 8124(b), Dec. 30, 2005, 119 Stat. 2727; Pub. L. 109–163, div. A, title VI, § 685(c), Jan. 6, 2006, 119 Stat. 3325; Pub. L. 109–364, div. A, title X, § 1071(c)(7), Oct. 17, 2006, 120 Stat. 2401; Pub. L. 113–291, div. A, title VI, § 603(c), Dec. 19, 2014, 128 Stat. 3398; Pub. L. 115–232, div. A, title VI, § 601(a), Aug. 13, 2018, 132 Stat. 1794; Pub. L. 116–283, div. A, title IX, § 925(e)(1), Jan. 1, 2021, 134 Stat. 3827; Pub. L. 118–159, div. A, title V, § 521(g)(3), Dec. 23, 2024, 138 Stat. 1881.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 414(a) | 37:254. | Oct. 12, 1949, ch. 681, § 304, 63 Stat. 816; Aug. 10, 1956, ch. 1041, § 20(c), 70A Stat. 627; May 20, 1958, Pub. L. 85–422, § 1(11), 72 Stat. 127; Sept. 14, 1961, Pub. L. 87–233, § 3, 75 Stat. 507. |
-| 414(b) | 37:257. | Aug. 2, 1946, ch. 756, § 3, 60 Stat. 853. |
+| 414(a) | 37:254. | Oct. 12, 1949, ch. 681, § 304, 63 Stat. 816; Aug. 10, 1956, ch. 1041, § 20(c), 70A Stat. 627; May 20, 1958, Pub. L. 85–422, § 1(11), 72 Stat. 127; Sept. 14, 1961, Pub. L. 87–233, § 3, 75 Stat. 507. |
+| 414(b) | 37:257. | Aug. 2, 1946, ch. 756, § 3, 60 Stat. 853. |
 
 In subsection (b), the words “pay or” are inserted to conform to subsection (a). The word “position” is substituted for the words “capacities” and “officers”, respectively. In clause (1), the words “Superintendent of the Naval Postgraduate School” are substituted for the words “Head of the Postgraduate school at the Naval Academy” to reflect present terminology.
 
@@ -2156,31 +2156,31 @@ In subsection (b), the words “pay or” are inserted to conform to subsection 
 
 2024—Subsec. (b). Pub. L. 118–159 substituted “the Chief Master Sergeant of the Space Force” for “the senior enlisted advisor of the Space Force”.
 
-2021—Subsec. (a)(5). Pub. L. 116–283, § 925(e)(1)(A), inserted “Chief of Space Operations,” after “Commandant of the Marine Corps,”.
+2021—Subsec. (a)(5). Pub. L. 116–283, § 925(e)(1)(A), inserted “Chief of Space Operations,” after “Commandant of the Marine Corps,”.
 
-Subsec. (b). Pub. L. 116–283, § 925(e)(1)(B), inserted “the senior enlisted advisor of the Space Force,” after “Sergeant Major of the Marine Corps,”.
+Subsec. (b). Pub. L. 116–283, § 925(e)(1)(B), inserted “the senior enlisted advisor of the Space Force,” after “Sergeant Major of the Marine Corps,”.
 
 2018—Subsecs. (b), (c). Pub. L. 115–232 redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to allowance for certain naval officers.
 
-2014—Subsec. (a)(5). Pub. L. 113–291, § 603(c)(1), substituted “Commandant of the Coast Guard, or Chief of the National Guard Bureau” for “or Commandant of the Coast Guard”.
+2014—Subsec. (a)(5). Pub. L. 113–291, § 603(c)(1), substituted “Commandant of the Coast Guard, or Chief of the National Guard Bureau” for “or Commandant of the Coast Guard”.
 
-Subsec. (c). Pub. L. 113–291, § 603(c)(2), substituted “the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or the Senior Enlisted Advisor to the Chief of the National Guard Bureau” for “or the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff”.
+Subsec. (c). Pub. L. 113–291, § 603(c)(2), substituted “the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or the Senior Enlisted Advisor to the Chief of the National Guard Bureau” for “or the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff”.
 
-2006—Subsec. (c). Pub. L. 109–364 struck out before period at end “, or the Senior Enlisted Advisor for the Chairman of the Joint Chiefs of Staff”.
+2006—Subsec. (c). Pub. L. 109–364 struck out before period at end “, or the Senior Enlisted Advisor for the Chairman of the Joint Chiefs of Staff”.
 
-Pub. L. 109–163, § 685(c)(2) inserted before period at end “, or the Senior Enlisted Advisor for the Chairman of the Joint Chiefs of Staff”.
+Pub. L. 109–163, § 685(c)(2) inserted before period at end “, or the Senior Enlisted Advisor for the Chairman of the Joint Chiefs of Staff”.
 
-Pub. L. 109–163, § 685(c)(1), which directed that subsec. (c) be amended by striking “or” after “Sergeant Major of the Marine Corps,” could not be executed because of prior amendment by Pub. L. 109–148. See below.
+Pub. L. 109–163, § 685(c)(1), which directed that subsec. (c) be amended by striking “or” after “Sergeant Major of the Marine Corps,” could not be executed because of prior amendment by Pub. L. 109–148. See below.
 
 2005–Subsec. (c). Pub. L. 109–148 substituted “the Master Chief Petty Officer of the Coast Guard, or the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff” for “or the Master Chief Petty Officer of the Coast Guard”.
 
 2004—Subsec. (b)(1). Pub. L. 108–375 substituted “President of the Naval Postgraduate School” for “Superintendent of the Naval Postgraduate School”.
 
-2000—Subsec. (a). Pub. L. 106–398, § 1 [[div. A], title VI, § 609(b)(1)], inserted heading.
+2000—Subsec. (a). Pub. L. 106–398, § 1 [[div. A], title VI, § 609(b)(1)], inserted heading.
 
-Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title VI, § 609(b)(2)], inserted heading.
+Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title VI, § 609(b)(2)], inserted heading.
 
-Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title VI, § 609(a)], added subsec. (c).
+Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title VI, § 609(a)], added subsec. (c).
 
 1991—Subsec. (a)(3). Pub. L. 102–25 struck out “of this subsection” after “clause (1)”.
 
@@ -2190,7 +2190,7 @@ Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title VI, § 609(a)], added 
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–232, div. A, title VI, § 601(b), Aug. 13, 2018, 132 Stat. 1794, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on December 31, 2018, and shall apply with respect to personal money allowances payable under section 414 of title 37, United States Code, for years beginning after that date.”
+Pub. L. 115–232, div. A, title VI, § 601(b), Aug. 13, 2018, 132 Stat. 1794, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on December 31, 2018, and shall apply with respect to personal money allowances payable under section 414 of title 37, United States Code, for years beginning after that date.”
 
 **Effective Date of 2014 Amendment**
 
@@ -2198,7 +2198,7 @@ Amendment by Pub. L. 113–291 effective on Dec. 19, 2014 and applicable with re
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–398, § 1 [[div. A], title VI, § 609(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–149, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 2000.”
+Pub. L. 106–398, § 1 [[div. A], title VI, § 609(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–149, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 2000.”
 
 **Transfer of Functions**
 
@@ -2210,7 +2210,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service, transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out in the Appendix to Title 5, Government Organization and Employees. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 3508(b) of Title 20, Education.
 
-## § 415. Uniform allowance: officers; initial allowance
+## § 415. Uniform allowance: officers; initial allowance
 
 **(a)** Subject to subsection (b), an officer of an armed force is entitled to an initial allowance of not more than $400 as reimbursement for the purchase of required uniforms and equipment—
 
@@ -2232,16 +2232,16 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
 An officer is not entitled to more than one allowance under this subsection.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 477; Pub. L. 88–647, title II, § 202(3), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–444, § 2(1), June 9, 1966, 80 Stat. 198; Pub. L. 89–718, § 63, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 90–83, § 5(1), Sept. 11, 1967, 81 Stat. 221; Pub. L. 91–278, § 3(3), June 12, 1970, 84 Stat. 306; Pub. L. 96–76, title III, § 313(c), Sept. 29, 1979, 93 Stat. 586; Pub. L. 96–513, title IV, § 412, Dec. 12, 1980, 94 Stat. 2905; Pub. L. 97–22, § 10(c), July 10, 1981, 95 Stat. 137; Pub. L. 97–60, title I, § 131(a), Oct. 14, 1981, 95 Stat. 1005; Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 106–398, § 1 [[div. A], title VI, § 610(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–150.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 477; Pub. L. 88–647, title II, § 202(3), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–444, § 2(1), June 9, 1966, 80 Stat. 198; Pub. L. 89–718, § 63, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 90–83, § 5(1), Sept. 11, 1967, 81 Stat. 221; Pub. L. 91–278, § 3(3), June 12, 1970, 84 Stat. 306; Pub. L. 96–76, title III, § 313(c), Sept. 29, 1979, 93 Stat. 586; Pub. L. 96–513, title IV, § 412, Dec. 12, 1980, 94 Stat. 2905; Pub. L. 97–22, § 10(c), July 10, 1981, 95 Stat. 137; Pub. L. 97–60, title I, § 131(a), Oct. 14, 1981, 95 Stat. 1005; Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 106–398, § 1 [[div. A], title VI, § 610(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–150.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 415(a) 415(b) 415(c) | 37:255(a) (less provisos). 37:255(a) (2d proviso). 37:255(a) (last proviso). | Oct. 12, 1949, ch. 681, § 305(a) (less 1st proviso); added Aug. 10, 1956, ch. 1041, § 20(d) (1st par., less 1st proviso), 70A Stat. 628. |
-| 415(d) | 42:214. | July 1, 1944, ch. 373, § 213; restated Apr. 27, 1956, ch. 211, § 2(a), 70 Stat. 116. |
-| 415(e) | 37:256. | Oct. 12, 1949, ch. 681, § 306; added Aug. 10, 1956, ch. 1041, § 20(d) (last par.), 70A Stat. 629. |
-|  | [Uncodified.] | Aug. 7, 1947, ch. 512, § 302(f), 61 Stat. 830. |
+| 415(a) 415(b) 415(c) | 37:255(a) (less provisos). 37:255(a) (2d proviso). 37:255(a) (last proviso). | Oct. 12, 1949, ch. 681, § 305(a) (less 1st proviso); added Aug. 10, 1956, ch. 1041, § 20(d) (1st par., less 1st proviso), 70A Stat. 628. |
+| 415(d) | 42:214. | July 1, 1944, ch. 373, § 213; restated Apr. 27, 1956, ch. 211, § 2(a), 70 Stat. 116. |
+| 415(e) | 37:256. | Oct. 12, 1949, ch. 681, § 306; added Aug. 10, 1956, ch. 1041, § 20(d) (last par.), 70A Stat. 629. |
+|  | [Uncodified.] | Aug. 7, 1947, ch. 512, § 302(f), 61 Stat. 830. |
 
 In subsection (a), the words “Subject to subsections (b) and (c) of this section,” are inserted for clarity. The words “of an armed force” are inserted, since the source section, as originally enacted, did not apply to the Public Health Service or the Coast and Geodetic Survey. (See section 243 of the Armed Forces Reserve Act of 1952 (66 Stat. 492).) The words “of the Army, or the Air Force, without specification of component” are inserted to reflect the definition of “reserve component” in section 102(k) of the source statute. That definition is executed throughout this revised title. For that reason, the words “but not as a member of the Army without specification of component or the Air Force without specification of component, in section 255(a)(2) of existing title 37”, are omitted, and since those categories are excluded by the words “member of a reserve component”. The words “of a reserve component”, in section 255(a)(3) of existing title 37, are omitted, since the Ready Reserve cannot be in anything other than a reserve component.
 
@@ -2265,11 +2265,11 @@ In subsection (e), the words “as a temporary officer” are inserted for clari
 
 Subsec. (a)(4). Pub. L. 97–60 added par. (4).
 
-1980—Subsec. (a). Pub. L. 96–513, § 412(1), (2), substituted “an officer of an armed force is entitled” for “a reserve officer of an armed force, an officer of the Army or the Air Force without specification of component, or a regular officer of an armed force appointed under section 2106 or 2107 of title 10 is entitled”.
+1980—Subsec. (a). Pub. L. 96–513, § 412(1), (2), substituted “an officer of an armed force is entitled” for “a reserve officer of an armed force, an officer of the Army or the Air Force without specification of component, or a regular officer of an armed force appointed under section 2106 or 2107 of title 10 is entitled”.
 
-Subsecs. (c), (d). Pub. L. 96–513, § 412(3), (4), redesignated subsec. (d) as (c). Former subsec. (c), relating to limitations on qualifications for initial allowances by certain officers, was struck out.
+Subsecs. (c), (d). Pub. L. 96–513, § 412(3), (4), redesignated subsec. (d) as (c). Former subsec. (c), relating to limitations on qualifications for initial allowances by certain officers, was struck out.
 
-Subsec. (e). Pub. L. 96–513, § 412(3), struck out subsec. (e) relating to uniform allowances for temporary officers or warrant officers.
+Subsec. (e). Pub. L. 96–513, § 412(3), struck out subsec. (e) relating to uniform allowances for temporary officers or warrant officers.
 
 1979—Subsec. (d). Pub. L. 96–76 in cl. (1) inserted provisions for applicability to officers on inactive duty training status, and struck out cl. (3) setting forth applicability to officers entitled to basic pay of pay grade O–1, O–2, or O–3.
 
@@ -2277,7 +2277,7 @@ Subsec. (e). Pub. L. 96–513, § 412(3), struck out subsec. (e) relating to u
 
 1967—Subsec. (d)(3). Pub. L. 90–83 substituted “entitled to the basic pay” for “is entitled to the basic pay”.
 
-1966—Subsec. (a). Pub. L. 89–718 struck out “, United States Code,” after “title 10”.
+1966—Subsec. (a). Pub. L. 89–718 struck out “, United States Code,” after “title 10”.
 
 Subsec. (e). Pub. L. 89–444 substituted “section 214 of title 14” for “section 435 of title 14”.
 
@@ -2287,11 +2287,11 @@ Subsec. (e). Pub. L. 89–444 substituted “section 214 of title 14” for “s
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–398, § 1 [[div. A], title VI, § 610(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–150, provided that: “The amendments made by this section [amending this section and section 416 of this title] shall take effect on October 1, 2000.”
+Pub. L. 106–398, § 1 [[div. A], title VI, § 610(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–150, provided that: “The amendments made by this section [amending this section and section 416 of this title] shall take effect on October 1, 2000.”
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–22, § 10(c), July 10, 1981, 95 Stat. 137, provided that the amendment made by that section is effective Sept. 15, 1981.
+Pub. L. 97–22, § 10(c), July 10, 1981, 95 Stat. 137, provided that the amendment made by that section is effective Sept. 15, 1981.
 
 **Effective Date of 1980 Amendment**
 
@@ -2307,7 +2307,7 @@ Amendment by Pub. L. 96–76 effective Oct. 1, 1979, see section 314 of Pub. L. 
 
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and all functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out in the Appendix to Title 5, Government Organization and Employees. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 3508(b) of Title 20, Education.
 
-## § 416. Uniform allowance: officers; additional allowances
+## § 416. Uniform allowance: officers; additional allowances
 
 **(a)** In addition to the allowance provided by section 415 of this title, a reserve officer of an armed force, an officer of the Army or the Air Force without specification of component, an officer of the Space Force not on sustained duty, or a regular officer of an armed force appointed under section 2106 or 2107 of title 10 is entitled to not more than $200 as reimbursement for additional uniforms and equipment required on that duty, for each time that the officer enters on active duty for a period of more than 90 days.
 
@@ -2317,13 +2317,13 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
 **(2)** the officer enters on that tour within two years after completing a period of active duty of more than 90 days’ duration.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 477; Pub. L. 88–624, § 1, Oct. 3, 1964, 78 Stat. 1002; Pub. L. 88–647, title II, § 202(3), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–718, § 63, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 96–513, title V, § 516(13), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 101–189, div. A, title VI, § 663(a), Nov. 29, 1989, 103 Stat. 1465; Pub. L. 106–398, § 1 [[div. A], title VI, § 610(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–150; Pub. L. 107–107, div. A, title VI, § 606(a), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 119–60, div. A, title VI, § 601(e), Dec. 18, 2025, 139 Stat. 904.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 477; Pub. L. 88–624, § 1, Oct. 3, 1964, 78 Stat. 1002; Pub. L. 88–647, title II, § 202(3), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–718, § 63, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 96–513, title V, § 516(13), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 101–189, div. A, title VI, § 663(a), Nov. 29, 1989, 103 Stat. 1465; Pub. L. 106–398, § 1 [[div. A], title VI, § 610(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–150; Pub. L. 107–107, div. A, title VI, § 606(a), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 119–60, div. A, title VI, § 601(e), Dec. 18, 2025, 139 Stat. 904.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 416(a) 416(b) | 37:255(b). 37:255(c). | Oct. 12, 1949, ch. 681, § 305(b), (c); added Aug. 10, 1956, ch. 1041, § 20(d) (2d and 3d pars.), 70A Stat. 628; Sept. 2, 1958, Pub. L. 85–861, § 33(f), 72 Stat. 1568. |
+| 416(a) 416(b) | 37:255(b). 37:255(c). | Oct. 12, 1949, ch. 681, § 305(b), (c); added Aug. 10, 1956, ch. 1041, § 20(d) (2d and 3d pars.), 70A Stat. 628; Sept. 2, 1958, Pub. L. 85–861, § 33(f), 72 Stat. 1568. |
 
 In subsection (a), the words “In addition to the initial uniform allowance authorized by section 431 (a)–(d) of this title” are substituted for the word “additional”. Section 255(b) (last proviso of 1st sentence) of existing title 37 is omitted as executed. The words “may not be included” are substituted for the words “shall be excluded”. Section 255(b) (last sentence) of existing title 37 is omitted, since the categories named therein are excluded by the words “a reserve officer”. (See revision note for section 415(a) of this revised title.)
 
@@ -2345,7 +2345,7 @@ Subsec. (b). Pub. L. 101–189 redesignated first sentence of subsec. (b) as (a)
 
 1980—Pub. L. 96–513 substituted “additional allowances” for “additional allowance” in section catchline.
 
-1966—Subsec. (b). Pub. L. 89–718 struck out “, United States Code,” after “title 10”.
+1966—Subsec. (b). Pub. L. 89–718 struck out “, United States Code,” after “title 10”.
 
 1964—Subsec. (a). Pub. L. 88–624 substituted “in one or more reserve components” for “in a reserve component” and “section 1332(a)(2)” for “section 1332”.
 
@@ -2355,11 +2355,11 @@ Subsec. (b). Pub. L. 88–647 included a regular officer of an armed force appoi
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–107, div. A, title VI, § 606(b), Dec. 28, 2001, 115 Stat. 1134, provided that: “The amendment made by this section [amending this section] shall take effect as of October 1, 2000.”
+Pub. L. 107–107, div. A, title VI, § 606(b), Dec. 28, 2001, 115 Stat. 1134, provided that: “The amendment made by this section [amending this section] shall take effect as of October 1, 2000.”
 
 **Effective Date of 2000 Amendment**
 
-Amendment by Pub. L. 106–398 effective Oct. 1, 2000, see section 1 [[div. A], title VI, § 610(c)] of Pub. L. 106–398, set out as a note under section 415 of this title.
+Amendment by Pub. L. 106–398 effective Oct. 1, 2000, see section 1 [[div. A], title VI, § 610(c)] of Pub. L. 106–398, set out as a note under section 415 of this title.
 
 **Effective Date of 1980 Amendment**
 
@@ -2367,7 +2367,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **One-Time Uniform Allowance for Officers Who Transfer to the Space Force**
 
-Pub. L. 116–283, div. A, title VI, § 606, Jan. 1, 2021, 134 Stat. 3672, as amended by Pub. L. 117–263, div. A, title VI, § 616, Dec. 23, 2022, 136 Stat. 2624; Pub. L. 118–31, div. A, title VI, § 628, Dec. 22, 2023, 137 Stat. 295; Pub. L. 118–159, div. A, title VI, § 625, Dec. 23, 2024, 138 Stat. 1934, provided that:
+Pub. L. 116–283, div. A, title VI, § 606, Jan. 1, 2021, 134 Stat. 3672, as amended by Pub. L. 117–263, div. A, title VI, § 616, Dec. 23, 2022, 136 Stat. 2624; Pub. L. 118–31, div. A, title VI, § 628, Dec. 22, 2023, 137 Stat. 295; Pub. L. 118–159, div. A, title VI, § 625, Dec. 23, 2024, 138 Stat. 1934, provided that:
 
 > **“(a) In General.—** The Secretary of the Air Force may provide an officer who transfers from the Army, Navy, Air Force, or Marine Corps to the Space Force an allowance of not more than $400 as reimbursement for the purchase of required uniforms and equipment.
 
@@ -2383,13 +2383,13 @@ Pub. L. 116–283, div. A, title VI, § 606, Jan. 1, 2021, 134 Stat. 3672, as 
 
 **Save Pay Provision**
 
-Pub. L. 101–189, div. A, title VI, § 663(b), Nov. 29, 1989, 103 Stat. 1465, provided that: “An officer of an armed force who, but for the amendments made by subsection (a) [amending this section], would have become entitled to a uniform reimbursement under section 416(a) of title 37, United States Code, before the end of the one-year period beginning on the date of the enactment of this Act [Nov. 29, 1989] shall be entitled (during such one-year period) to receive such reimbursement under such section as in effect on the day before the date of the enactment of this Act.”
+Pub. L. 101–189, div. A, title VI, § 663(b), Nov. 29, 1989, 103 Stat. 1465, provided that: “An officer of an armed force who, but for the amendments made by subsection (a) [amending this section], would have become entitled to a uniform reimbursement under section 416(a) of title 37, United States Code, before the end of the one-year period beginning on the date of the enactment of this Act [Nov. 29, 1989] shall be entitled (during such one-year period) to receive such reimbursement under such section as in effect on the day before the date of the enactment of this Act.”
 
 **Allowance for Service Prior to October 3, 1964**
 
-Pub. L. 88–624, § 2, Oct. 3, 1964, 78 Stat. 1002, provided that: “The amendments made by this Act [amending this section] do not entitle an officer to an allowance for any 4-year period of service completed prior to the effective date of this Act [Oct. 3, 1964].”
+Pub. L. 88–624, § 2, Oct. 3, 1964, 78 Stat. 1002, provided that: “The amendments made by this Act [amending this section] do not entitle an officer to an allowance for any 4-year period of service completed prior to the effective date of this Act [Oct. 3, 1964].”
 
-## § 417. Uniform allowance: officers; general provisions
+## § 417. Uniform allowance: officers; general provisions
 
 **(a)** Subject to standards, policies, and procedures prescribed by the Secretary of Defense, the Secretary of each military department may prescribe regulations that he considers necessary to carry out sections 415(a)–(c) and 416 of this title within his department. The Secretary of Homeland Security, with the concurrence of the Secretary of the Navy, may prescribe regulations that he considers necessary to carry out those sections for the Coast Guard when it is not operating as a service in the Navy. As far as practicable, regulations for all reserve components shall be uniform.
 
@@ -2403,13 +2403,13 @@ Pub. L. 88–624, § 2, Oct. 3, 1964, 78 Stat. 1002, provided that: “The ame
 
 **(2)** A uniform allowance may not be paid, and uniforms may not be furnished, to an officer under section 1593 of title 10 or section 5901 of title 5 for a period of employment referred to in paragraph (1) for which an officer is paid a uniform allowance under section 415 or 416 of this title.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 478; Pub. L. 90–623, § 3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title X, § 1038(b), Feb. 10, 1996, 110 Stat. 432; Pub. L. 107–296, title XVII, § 1704(c), Nov. 25, 2002, 116 Stat. 2314.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 478; Pub. L. 90–623, § 3(1), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title X, § 1038(b), Feb. 10, 1996, 110 Stat. 432; Pub. L. 107–296, title XVII, § 1704(c), Nov. 25, 2002, 116 Stat. 2314.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 417(a) 417(b) 417(c) | 37:255(e). 37:255(d). 37:255(a) (1st proviso). | Oct. 12, 1949, ch. 681, § 305 (1st proviso of (a)), (d), (e); added Aug. 10, 1956, ch. 1041, § 20(d) (1st proviso of 1st par., 4th par., and 5th par.), 70A Stat. 629. |
+| 417(a) 417(b) 417(c) | 37:255(e). 37:255(d). 37:255(a) (1st proviso). | Oct. 12, 1949, ch. 681, § 305 (1st proviso of (a)), (d), (e); added Aug. 10, 1956, ch. 1041, § 20(d) (1st proviso of 1st par., 4th par., and 5th par.), 70A Stat. 629. |
 
 In subsection (a), the words “within that department” are inserted for clarity. The words “may prescribe” are substituted for the words “shall prescribe”, since the words “that he considers necessary” indicate that the prescribing of regulations is not mandatory.
 
@@ -2437,7 +2437,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of Title 5, Government Organization and Employees.
 
-## § 418. Clothing allowance: enlisted members
+## § 418. Clothing allowance: enlisted members
 
 **(a)** The Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, may prescribe the quantity and kind of clothing to be furnished annually to an enlisted member of the armed forces or the National Guard, and may prescribe the amount of a cash allowance to be paid to such a member if clothing is not so furnished to him.
 
@@ -2465,15 +2465,15 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 **(5)** The Secretary of Defense shall ensure that all procurements of athletic footwear to which this subsection applies are made using firm fixed price contracts.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 478; Pub. L. 104–106, div. A, title X, § 1038(c), Feb. 10, 1996, 110 Stat. 432; Pub. L. 104–201, div. A, title VI, § 654, Sept. 23, 1996, 110 Stat. 2583; Pub. L. 106–398, § 1 [[div. A], title VI, § 611], Oct. 30, 2000, 114 Stat. 1654, 1654A–150; Pub. L. 107–296, title XVII, § 1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 114–328, div. A, title VIII, § 817, Dec. 23, 2016, 130 Stat. 2272; Pub. L. 115–91, div. A, title VI, § 633, Dec. 12, 2017, 131 Stat. 1431; Pub. L. 116–283, div. A, title IX, § 925(e)(2), Jan. 1, 2021, 134 Stat. 3827; Pub. L. 117–81, div. A, title XVII, § 1702(f)(2), Dec. 27, 2021, 135 Stat. 2157.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 478; Pub. L. 104–106, div. A, title X, § 1038(c), Feb. 10, 1996, 110 Stat. 432; Pub. L. 104–201, div. A, title VI, § 654, Sept. 23, 1996, 110 Stat. 2583; Pub. L. 106–398, § 1 [[div. A], title VI, § 611], Oct. 30, 2000, 114 Stat. 1654, 1654A–150; Pub. L. 107–296, title XVII, § 1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 114–328, div. A, title VIII, § 817, Dec. 23, 2016, 130 Stat. 2272; Pub. L. 115–91, div. A, title VI, § 633, Dec. 12, 2017, 131 Stat. 1431; Pub. L. 116–283, div. A, title IX, § 925(e)(2), Jan. 1, 2021, 134 Stat. 3827; Pub. L. 117–81, div. A, title XVII, § 1702(f)(2), Dec. 27, 2021, 135 Stat. 2157.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 418 | 37:305. | Oct. 12, 1949, ch. 681, § 505, 63 Stat. 828. |
+| 418 | 37:305. | Oct. 12, 1949, ch. 681, § 505, 63 Stat. 828. |
 
-The words “the armed forces” are substituted for the words “the Army, the Navy, the Air Force, the Marine Corps, the Coast Guard” to conform to the definition in section 101(4) of this title. The words “the Naval Reserve, the Marine Corps Reserve, . . . the National Guard of the United States, the Air National Guard of the United States, the Army Reserve, the Air Force Reserve, and the Coast Guard Reserve” are omitted, since, under the definitions of the armed forces concerned in sections 3062(c), 5001(a)(1) and (2), and 8062(d) of title 10, and section 751a of title 14, those organizations, or their successors, are components of the armed force concerned.
+The words “the armed forces” are substituted for the words “the Army, the Navy, the Air Force, the Marine Corps, the Coast Guard” to conform to the definition in section 101(4) of this title. The words “the Naval Reserve, the Marine Corps Reserve, . . . the National Guard of the United States, the Air National Guard of the United States, the Army Reserve, the Air Force Reserve, and the Coast Guard Reserve” are omitted, since, under the definitions of the armed forces concerned in sections 3062(c), 5001(a)(1) and (2), and 8062(d) of title 10, and section 751a of title 14, those organizations, or their successors, are components of the armed force concerned.
 
 **Editorial Notes**
 
@@ -2483,11 +2483,11 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 **Amendments**
 
-2021—Subsec. (d)(1). Pub. L. 116–283, § 925(e)(2)(A), substituted “Marine Corps, or Space Force” for “or Marine Corps”.
+2021—Subsec. (d)(1). Pub. L. 116–283, § 925(e)(2)(A), substituted “Marine Corps, or Space Force” for “or Marine Corps”.
 
 Subsec. (d)(2)(A). Pub. L. 117–81 substituted “section 4862” for “section 2533a” and “chapter 137 legacy provisions (as such term is defined in section 3016 of title 10)” for “chapter 137 of title 10”.
 
-Subsec. (d)(4). Pub. L. 116–283, § 925(e)(2)(B), substituted “the Marine Corps, or the Space Force” for “or the Marine Corps”.
+Subsec. (d)(4). Pub. L. 116–283, § 925(e)(2)(B), substituted “the Marine Corps, or the Space Force” for “or the Marine Corps”.
 
 2017—Subsec. (d)(4), (5). Pub. L. 115–91 added pars. (4) and (5).
 
@@ -2495,9 +2495,9 @@ Subsec. (d)(4). Pub. L. 116–283, § 925(e)(2)(B), substituted “the Marine 
 
 2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-2000—Subsec. (a). Pub. L. 106–398, § 1 [[div. A], title VI, § 611(1)], substituted “The Secretary of Defense and the Secretary of Transportation, with respect to the Coast Guard when it is not operating as a service in the Navy,” for “The President”.
+2000—Subsec. (a). Pub. L. 106–398, § 1 [[div. A], title VI, § 611(1)], substituted “The Secretary of Defense and the Secretary of Transportation, with respect to the Coast Guard when it is not operating as a service in the Navy,” for “The President”.
 
-Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title VI, § 611(2)], substituted “the Secretary of Defense” for “the President”.
+Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title VI, § 611(2)], substituted “the Secretary of Defense” for “the President”.
 
 1996—Pub. L. 104–106 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
@@ -2511,7 +2511,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Reduction of Gender-Related Inequities in Costs of Uniforms to Members of the Armed Forces**
 
-Pub. L. 117–81, div. A, title V, § 571, Dec. 27, 2021, 135 Stat. 1753, provided that:
+Pub. L. 117–81, div. A, title V, § 571, Dec. 27, 2021, 135 Stat. 1753, provided that:
 
 > **“(a) Establishment of Criteria.—** Not later than 180 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense, acting through the Under Secretary of Defense for Personnel and Readiness and in coordination with the Secretaries of the military departments, shall establish criteria, consistent across the Armed Forces, for determining which uniform or clothing items across the Armed Forces are considered uniquely military for purposes of calculating the standard cash clothing replacement allowances, in part to reduce differences in out-of pocket costs incurred by enlisted members of the Armed Forces across the military services and by gender within an Armed Force.
 
@@ -2547,7 +2547,7 @@ Pub. L. 117–81, div. A, title V, § 571, Dec. 27, 2021, 135 Stat. 1753, prov
 
 **Ex. Ord. No. 10113. Clothing Allowances for Enlisted Personnel**
 
-Ex. Ord. No. 10113, Feb. 24, 1950, 15 F.R. 1065, as amended by Ex. Ord. No. 13286, § 83, Feb. 28, 2003, 68 F.R. 10631, provided:
+Ex. Ord. No. 10113, Feb. 24, 1950, 15 F.R. 1065, as amended by Ex. Ord. No. 13286, § 83, Feb. 28, 2003, 68 F.R. 10631, provided:
 
 By virtue of the authority vested in me as President of the United States and as Commander in Chief of the armed forces, it is ordered as follows:
 
@@ -2561,11 +2561,11 @@ By virtue of the authority vested in me as President of the United States and as
 
 \5. This order shall become effective on April 1, 1950, and on that date shall supersede Executive Order No. 10049 [Apr. 4, 1949, 14 F.R. 1563] entitled “Delegating the Authority of the President to Prescribe Clothing Allowances, and Cash Allowances in Lieu Thereof, to Enlisted Men in the Armed Forces.”
 
-## § 419. Civilian clothing allowance
+## § 419. Civilian clothing allowance
 
 Under regulations prescribed by the Secretary of Defense, an officer of an armed force who is assigned to a permanent duty station at a location outside the United States may be paid a civilian clothing allowance in such amount as the Secretary shall determine under regulations if such officer is required to wear civilian clothing all or a substantial portion of the time in the performance of the officer’s official duties. A clothing allowance under this section is in addition to any uniform allowance to which an officer is otherwise entitled under this title.
 
-(Added Pub. L. 100–180, div. A, title VI, § 611(a)(1)(B), Dec. 4, 1987, 101 Stat. 1093; amended Pub. L. 100–456, div. A, title VI, § 625, Sept. 29, 1988, 102 Stat. 1984; Pub. L. 101–189, div. A, title VI, § 653(c)(2), Nov. 29, 1989, 103 Stat. 1462.)
+(Added Pub. L. 100–180, div. A, title VI, § 611(a)(1)(B), Dec. 4, 1987, 101 Stat. 1093; amended Pub. L. 100–456, div. A, title VI, § 625, Sept. 29, 1988, 102 Stat. 1984; Pub. L. 101–189, div. A, title VI, § 653(c)(2), Nov. 29, 1989, 103 Stat. 1462.)
 
 **Editorial Notes**
 
@@ -2583,9 +2583,9 @@ A prior section 419 was renumbered section 420 of this title.
 
 **Effective Date**
 
-Pub. L. 100–180, div. A, title VI, § 611(b), Dec. 4, 1987, 101 Stat. 1093, provided that: “Section 419 of title 37, United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act [Dec. 4, 1987]. No member may be paid a clothing allowance under such section for any period before such date.”
+Pub. L. 100–180, div. A, title VI, § 611(b), Dec. 4, 1987, 101 Stat. 1093, provided that: “Section 419 of title 37, United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act [Dec. 4, 1987]. No member may be paid a clothing allowance under such section for any period before such date.”
 
-## § 420. Allowances while participating in international sports
+## § 420. Allowances while participating in international sports
 
 **(a)** Section 717 of title 10 does not authorize the payment of allowances at higher rates than those provided for participation in military activities not covered by that section.
 
@@ -2593,13 +2593,13 @@ Pub. L. 100–180, div. A, title VI, § 611(b), Dec. 4, 1987, 101 Stat. 1093, 
 
 **(c)** Notwithstanding any other law, a member of a uniformed service who has no dependents is not entitled to the basic allowances for subsistence and housing authorized by sections 402 and 403 of this title for a period during which he is subsisted and quartered by the agency sponsoring his participation in a competition covered by section 717 of title 10.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 478, § 419; Pub. L. 89–718, § 64, Nov. 2, 1966, 80 Stat. 1123; renumbered § 420, Pub. L. 100–180, div. A, title VI, § 611(a)(1)(A), Dec. 4, 1987, 101 Stat. 1093; Pub. L. 105–85, div. A, title VI, § 603(d)(1)(C), Nov. 18, 1997, 111 Stat. 1782; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–263, div. A, title VI, § 626(h)(2), Dec. 23, 2022, 136 Stat. 2629.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 478, § 419; Pub. L. 89–718, § 64, Nov. 2, 1966, 80 Stat. 1123; renumbered § 420, Pub. L. 100–180, div. A, title VI, § 611(a)(1)(A), Dec. 4, 1987, 101 Stat. 1093; Pub. L. 105–85, div. A, title VI, § 603(d)(1)(C), Nov. 18, 1997, 111 Stat. 1782; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–263, div. A, title VI, § 626(h)(2), Dec. 23, 2022, 136 Stat. 2629.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 419(a) 419(b) 419(c) | 37:256a(a). 37:256a(b). 37:256a(c). | Oct. 12, 1949, ch. 681, § 307; added Sept. 2, 1958, Pub. L. 85–861, § 11, 72 Stat. 1556. |
+| 419(a) 419(b) 419(c) | 37:256a(a). 37:256a(b). 37:256a(c). | Oct. 12, 1949, ch. 681, § 307; added Sept. 2, 1958, Pub. L. 85–861, § 11, 72 Stat. 1556. |
 
 **Editorial Notes**
 
@@ -2611,9 +2611,9 @@ A prior section 420 was renumbered section 421 of this title.
 
 2022—Subsec. (b). Pub. L. 117–263 substituted “section 452” for “sections 474–481”.
 
-2013—Subsec. (b). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
+2013—Subsec. (b). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
-2011—Subsec. (b). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “474–481” for “404–411”.
+2011—Subsec. (b). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “474–481” for “404–411”.
 
 1997—Subsec. (c). Pub. L. 105–85 substituted “housing” for “quarters”.
 
@@ -2623,23 +2623,23 @@ A prior section 420 was renumbered section 421 of this title.
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 **Effective Date of 1997 Amendment**
 
 Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub. L. 105–85, set out as a note under section 5561 of Title 5, Government Organization and Employees.
 
-## § 421. Allowances: no increase while dependent is entitled to basic pay
+## § 421. Allowances: no increase while dependent is entitled to basic pay
 
 A member of a uniformed service may not be paid an increased allowance under this chapter, on account of a dependent, for any period during which that dependent is entitled to basic pay under section 204 of this title.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 479, § 420; renumbered § 421, Pub. L. 100–180, div. A, title VI, § 611(a)(1)(A), Dec. 4, 1987, 101 Stat. 1093.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 479, § 420; renumbered § 421, Pub. L. 100–180, div. A, title VI, § 611(a)(1)(A), Dec. 4, 1987, 101 Stat. 1093.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 420 | 37:231(g) (last proviso of last sentence). | Oct. 12, 1949, ch. 681, § 102(g) (last proviso of last sentence), 63 Stat. 805. |
+| 420 | 37:231(g) (last proviso of last sentence). | Oct. 12, 1949, ch. 681, § 102(g) (last proviso of last sentence), 63 Stat. 805. |
 
 The words “of a uniformed service” are inserted for clarity. The words “claiming a dependent as defined in this subsection” are omitted as surplusage. The words “under section 204 of this title” are substituted for the words “for the performance of duty as defined in section 232(e) of this revised title”.
 
@@ -2647,9 +2647,9 @@ The words “of a uniformed service” are inserted for clarity. The words “cl
 
 **Prior Provisions**
 
-A prior section 421, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 479; Pub. L. 88–132, § 3(b), Oct. 2, 1963, 77 Stat. 212, provided for pay and allowances of contract surgeons, prior to repeal by Pub. L. 98–94, title IX, § 932(e)(1), Sept. 24, 1983, 97 Stat. 650, eff. Oct. 1, 1983. See section 1091 of Title 10, Armed Forces.
+A prior section 421, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 479; Pub. L. 88–132, § 3(b), Oct. 2, 1963, 77 Stat. 212, provided for pay and allowances of contract surgeons, prior to repeal by Pub. L. 98–94, title IX, § 932(e)(1), Sept. 24, 1983, 97 Stat. 650, eff. Oct. 1, 1983. See section 1091 of Title 10, Armed Forces.
 
-## § 422. Cadets and midshipmen
+## § 422. Cadets and midshipmen
 
 **(a)** A cadet at the United States Military Academy, the United States Air Force Academy, or the Coast Guard Academy, or a midshipman at the United States Naval Academy, is entitled to the allowances provided by law for a midshipman in the Navy, and to travel and transportation allowances prescribed under section 452 of this title while traveling under orders as a cadet or midshipman.
 
@@ -2665,13 +2665,13 @@ A prior section 421, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 479; Pub. L. 88�
 
 However, no allowance for travel on discharge may be paid to a discharged cadet or midshipman who continues his scholastic instruction at the same educational institution.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 479; Pub. L. 88–647, title II, § 202(4), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–718, § 63, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–263, div. A, title VI, § 626(h)(3), Dec. 23, 2022, 136 Stat. 2629.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 479; Pub. L. 88–647, title II, § 202(4), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–718, § 63, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–263, div. A, title VI, § 626(h)(3), Dec. 23, 2022, 136 Stat. 2629.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 422(a) | 37:308 (less applicability to pay). | Oct. 12, 1949, ch. 681, § 508 (less applicability to pay), 63 Stat. 828. |
+| 422(a) | 37:308 (less applicability to pay). | Oct. 12, 1949, ch. 681, § 508 (less applicability to pay), 63 Stat. 828. |
 | 422(b) | 10:6081(b) (9th through 17th words). | [None.] |
 |  | 10:6081(c) (16th through 19th words). | [None.] |
 | 422(c) | 10:6904(c). | [None.] |
@@ -2686,27 +2686,27 @@ In subsection (a), the words “prescribed under section 410 of this title” ar
 
 2022—Subsec. (a). Pub. L. 117–263 substituted “section 452” for “section 480”.
 
-2013—Subsec. (a). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
+2013—Subsec. (a). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
-2011—Subsec. (a). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “480” for “410”.
+2011—Subsec. (a). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “480” for “410”.
 
-1966—Subsec. (c). Pub. L. 89–718 struck out “, United States Code,” after “title 10”.
+1966—Subsec. (c). Pub. L. 89–718 struck out “, United States Code,” after “title 10”.
 
-1964—Subsec. (c). Pub. L. 88–647, § 202(4)(A), (B), among other changes, substituted provisions relating to a cadet or midshipman appointed under section 2107 of title 10, for provisions relating to a midshipman appointed under section 6904 of title 10, or a seaman recruit enlisted under section 6905 of title 10, and “educational institution” for “college or university”, in text, and “Cadets and midshipmen” for “Cadets, midshipmen, and naval officer candidates”, in section catchline.
+1964—Subsec. (c). Pub. L. 88–647, § 202(4)(A), (B), among other changes, substituted provisions relating to a cadet or midshipman appointed under section 2107 of title 10, for provisions relating to a midshipman appointed under section 6904 of title 10, or a seaman recruit enlisted under section 6905 of title 10, and “educational institution” for “college or university”, in text, and “Cadets and midshipmen” for “Cadets, midshipmen, and naval officer candidates”, in section catchline.
 
-Subsec. (d). Pub. L. 88–647, § 202(4)(C), struck out subsec. (d) which entitled a midshipman under section 6906 of title 10, while on flight training or duty, to the allowances of a midshipman at the United States Naval Academy.
+Subsec. (d). Pub. L. 88–647, § 202(4)(C), struck out subsec. (d) which entitled a midshipman under section 6906 of title 10, while on flight training or duty, to the allowances of a midshipman at the United States Naval Academy.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 **Transfer of Functions**
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 423. Validity of allowance payments based on purported marriages
+## § 423. Validity of allowance payments based on purported marriages
 
 A payment of an allowance, based on a purported marriage, that is made under this chapter, under the Career Compensation Act of 1949, or under the Pay Readjustment Act of 1942, before judicial annulment or termination of that marriage, is valid, if a court of competent jurisdiction adjudges or decrees that the marriage was entered into in good faith on the part of the spouse who is a member of a uniformed service or if, in the absence of such a judgment or decree, such a finding of good faith is made by the Secretary concerned or by a person designated by him to investigate the matter.
 
@@ -2716,7 +2716,7 @@ A payment of an allowance, based on a purported marriage, that is made under thi
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 423 | 37:303. | Oct. 12, 1949, ch. 681, § 503, 63 Stat. 827. |
+| 423 | 37:303. | Oct. 12, 1949, ch. 681, § 503, 63 Stat. 827. |
 
 The words “or which hereafter may be” are omitted as surplusage. The words “a person designated by him to investigate the matter” are substituted for the words “such person as he may designate for the purpose”.
 
@@ -2724,11 +2724,11 @@ The words “or which hereafter may be” are omitted as surplusage. The words �
 
 **References in Text**
 
-The Career Compensation Act of 1949, referred to in text, is act Oct. 12, 1949, ch. 681, 63 Stat. 802, which was classified principally to chapter 4 (§ 231 et seq.) of former Title 37, Pay and Allowances, prior to the revision and reenactment of Title 37 by Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 451. For distribution of sections of chapter 4 of former Title 37, see Table preceding section 101 of this title.
+The Career Compensation Act of 1949, referred to in text, is act Oct. 12, 1949, ch. 681, 63 Stat. 802, which was classified principally to chapter 4 (§ 231 et seq.) of former Title 37, Pay and Allowances, prior to the revision and reenactment of Title 37 by Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 451. For distribution of sections of chapter 4 of former Title 37, see Table preceding section 101 of this title.
 
-The Pay Readjustment Act of 1942, referred to in text, is act June 16, 1942, ch. 413, 56 Stat. 359, which was classified principally to chapter 2 (§ 101 et seq.) of former Title 37, Pay and Allowances, prior to the revision and reenactment of title 37 by Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 451. For distribution of sections of chapter 2 of former title 37, see Table preceding section 101 of this title.
+The Pay Readjustment Act of 1942, referred to in text, is act June 16, 1942, ch. 413, 56 Stat. 359, which was classified principally to chapter 2 (§ 101 et seq.) of former Title 37, Pay and Allowances, prior to the revision and reenactment of title 37 by Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 451. For distribution of sections of chapter 2 of former title 37, see Table preceding section 101 of this title.
 
-## § 424. Band leaders
+## § 424. Band leaders
 
 **(a)** The leader of the Army Band is entitled to the allowances of a captain in the Army.
 
@@ -2740,7 +2740,7 @@ The Pay Readjustment Act of 1942, referred to in text, is act June 16, 1942, ch.
 
 **(e)** The director of the Coast Guard Band is entitled to the allowances of an officer in the grade in which he is serving. However, his allowances may not be less than those to which he was entitled at the time of his appointment as director.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 480; Pub. L. 89–189, § 3, Sept. 17, 1965, 79 Stat. 820; Pub. L. 95–551, § 3(b)(2), Oct. 30, 1978, 92 Stat. 2069; Pub. L. 115–232, div. A, title VIII, § 809(m)(4), Aug. 13, 2018, 132 Stat. 1843.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 480; Pub. L. 89–189, § 3, Sept. 17, 1965, 79 Stat. 820; Pub. L. 95–551, § 3(b)(2), Oct. 30, 1978, 92 Stat. 2069; Pub. L. 115–232, div. A, title VIII, § 809(m)(4), Aug. 13, 2018, 132 Stat. 1843.)
 
 **Historical and Revision Notes**
 
@@ -2772,7 +2772,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 425. United States Navy Band; United States Marine Corps Band: allowances while on concert tour
+## § 425. United States Navy Band; United States Marine Corps Band: allowances while on concert tour
 
 While on concert tours approved by the President, the members of the United States Navy Band and the United States Marine Corps Band do not forfeit allowances.
 
@@ -2792,11 +2792,11 @@ The words “do not forfeit” are substituted for the words “lose no” for c
 
 Functions of President under this section delegated to Secretary of Defense, see section 1(14) of Ex. Ord. No. 11390, Jan. 22, 1968, 33 F.R. 841, set out as a note under section 301 of Title 3, The President.
 
-## [§ 426. Repealed. Pub. L. 90–377, § 10, July 5, 1968, 82 Stat. 288]
+## [§ 426. Repealed. Pub. L. 90–377, § 10, July 5, 1968, 82 Stat. 288]
 
 Section, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 480, provided for payment to persons confined in a naval confinement facility under sentence of a court-martial of not more than $3 a month for necessary expenses, such payments to be made from appropriations for pay of Navy or Marine Corps.
 
-## § 427. Family separation allowance
+## § 427. Family separation allowance
 
 **(a) Entitlement to Allowance.—**
 
@@ -2832,7 +2832,7 @@ Section, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 480, provided for payment to 
 
 **(3)** Section 421 of this title does not apply to bar the entitlement to an allowance under this section. Except as provided in paragraph (2), not more than one monthly allowance may be paid with respect to a married couple under this section.
 
-(Added Pub. L. 88–132, § 11(1), Oct. 2, 1963, 77 Stat. 217; amended Pub. L. 91–529, § 1, Dec. 7, 1970, 84 Stat. 1389; Pub. L. 91–533, § 1, Dec. 7, 1970, 84 Stat. 1392; Pub. L. 96–342, title VIII, § 809(a), Sept. 8, 1980, 94 Stat. 1097; Pub. L. 99–145, title VI, § 607(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–661, div. A, title VI, § 618(a), Nov. 14, 1986, 100 Stat. 3880; Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §§ 611(b), 625, Dec. 5, 1991, 105 Stat. 1376, 1379; Pub. L. 103–337, div. A, title VI, § 625(a), Oct. 5, 1994, 108 Stat. 2785; Pub. L. 104–106, div. A, title VI, § 606, Feb. 10, 1996, 110 Stat. 358; Pub. L. 104–201, div. A, title VI, § 607, Sept. 23, 1996, 110 Stat. 2542; Pub. L. 105–85, div. A, title VI, §§ 603(c)(3), 626, Nov. 18, 1997, 111 Stat. 1781, 1795; Pub. L. 107–107, div. A, title VI, § 607(a), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 108–11, title I, § 1316(b), (c)(2), Apr. 16, 2003, 117 Stat. 570; Pub. L. 108–136, div. A, title VI, §§ 606, 618(d)(2), Nov. 24, 2003, 117 Stat. 1500, 1504; Pub. L. 108–375, div. A, title VI, § 623(b), Oct. 28, 2004, 118 Stat. 1955; Pub. L. 110–417, [div. A], title VI, § 604(a), Oct. 14, 2008, 122 Stat. 4483; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 116–283, div. A, title VI, § 615, Jan. 1, 2021, 134 Stat. 3675; ; Pub. L. 117–263, div. A, title VI, § 626(h)(4), Dec. 23, 2022, 136 Stat. 2629; Pub. L. 118–31, div. A, title VI, § 626(a), Dec. 22, 2023, 137 Stat. 294; Pub. L. 119–60, div. A, title VI, § 622, Dec. 18, 2025, 139 Stat. 909.)
+(Added Pub. L. 88–132, § 11(1), Oct. 2, 1963, 77 Stat. 217; amended Pub. L. 91–529, § 1, Dec. 7, 1970, 84 Stat. 1389; Pub. L. 91–533, § 1, Dec. 7, 1970, 84 Stat. 1392; Pub. L. 96–342, title VIII, § 809(a), Sept. 8, 1980, 94 Stat. 1097; Pub. L. 99–145, title VI, § 607(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–661, div. A, title VI, § 618(a), Nov. 14, 1986, 100 Stat. 3880; Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §§ 611(b), 625, Dec. 5, 1991, 105 Stat. 1376, 1379; Pub. L. 103–337, div. A, title VI, § 625(a), Oct. 5, 1994, 108 Stat. 2785; Pub. L. 104–106, div. A, title VI, § 606, Feb. 10, 1996, 110 Stat. 358; Pub. L. 104–201, div. A, title VI, § 607, Sept. 23, 1996, 110 Stat. 2542; Pub. L. 105–85, div. A, title VI, §§ 603(c)(3), 626, Nov. 18, 1997, 111 Stat. 1781, 1795; Pub. L. 107–107, div. A, title VI, § 607(a), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 108–11, title I, § 1316(b), (c)(2), Apr. 16, 2003, 117 Stat. 570; Pub. L. 108–136, div. A, title VI, §§ 606, 618(d)(2), Nov. 24, 2003, 117 Stat. 1500, 1504; Pub. L. 108–375, div. A, title VI, § 623(b), Oct. 28, 2004, 118 Stat. 1955; Pub. L. 110–417, [div. A], title VI, § 604(a), Oct. 14, 2008, 122 Stat. 4483; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 116–283, div. A, title VI, § 615, Jan. 1, 2021, 134 Stat. 3675; ; Pub. L. 117–263, div. A, title VI, § 626(h)(4), Dec. 23, 2022, 136 Stat. 2629; Pub. L. 118–31, div. A, title VI, § 626(a), Dec. 22, 2023, 137 Stat. 294; Pub. L. 119–60, div. A, title VI, § 622, Dec. 18, 2025, 139 Stat. 909.)
 
 **Editorial Notes**
 
@@ -2842,73 +2842,73 @@ Section, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 480, provided for payment to 
 
 2023—Subsec. (a)(1). Pub. L. 118–31 substituted “of not less than $250, and not more than $400,” for “equal to $250” in introductory provisions.
 
-2022—Subsec. (a)(1)(A). Pub. L. 117–263, § 626(h)(4)(A), substituted “section 452” for “section 476”.
+2022—Subsec. (a)(1)(A). Pub. L. 117–263, § 626(h)(4)(A), substituted “section 452” for “section 476”.
 
-Subsec. (c)(1). Pub. L. 117–263, § 626(h)(4)(B), substituted “section 452” for “section 476”.
+Subsec. (c)(1). Pub. L. 117–263, § 626(h)(4)(B), substituted “section 452” for “section 476”.
 
 2021—Subsec. (a)(1)(B). Pub. L. 116–283 inserted “(or under orders to remain on board the ship while at the home port)” after “of the ship”.
 
-2013—Subsecs. (a)(1)(A), (c)(1). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
+2013—Subsecs. (a)(1)(A), (c)(1). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
-2011—Subsecs. (a)(1)(A), (c)(1). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “476” for “406”.
+2011—Subsecs. (a)(1)(A), (c)(1). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “476” for “406”.
 
 2008—Subsec. (d). Pub. L. 110–417 designated first sentence of existing provisions as par. (1), designated last two sentences of existing provisions as par. (3) and substituted “Except as provided in paragraph (2)” for “However”, and added par. (2).
 
-2004—Subsec. (a)(1). Pub. L. 108–375, § 623(b)(2)(A), substituted “$250” for “$100”.
+2004—Subsec. (a)(1). Pub. L. 108–375, § 623(b)(2)(A), substituted “$250” for “$100”.
 
-Subsec. (e). Pub. L. 108–375, § 623(b)(2)(B), struck out heading and text of subsec. (e). Text read as follows: “For the period beginning on October 1, 2003, and ending on December 31, 2005, the monthly allowance authorized by subsection (a)(1) shall be increased to $250.”
+Subsec. (e). Pub. L. 108–375, § 623(b)(2)(B), struck out heading and text of subsec. (e). Text read as follows: “For the period beginning on October 1, 2003, and ending on December 31, 2005, the monthly allowance authorized by subsection (a)(1) shall be increased to $250.”
 
-Pub. L. 108–375, § 623(b)(1), substituted “December 31, 2005” for “December 31, 2004”.
+Pub. L. 108–375, § 623(b)(1), substituted “December 31, 2005” for “December 31, 2004”.
 
-2003—Subsec. (a)(1). Pub. L. 108–11, § 1316(b), (c), as amended by Pub. L. 108–136, § 618(d)(2), temporarily substituted “$250” for “$100”. See Effective and Termination Dates of 2003 Amendments note below.
+2003—Subsec. (a)(1). Pub. L. 108–11, § 1316(b), (c), as amended by Pub. L. 108–136, § 618(d)(2), temporarily substituted “$250” for “$100”. See Effective and Termination Dates of 2003 Amendments note below.
 
-Subsec. (e). Pub. L. 108–136, § 606, added subsec. (e).
+Subsec. (e). Pub. L. 108–136, § 606, added subsec. (e).
 
 2001—Subsec. (c). Pub. L. 107–107 designated first sentence of existing provisions as par. (1) and substituted “Except as provided in paragraph (2) or (3), a member” for “A member”, added par. (2), and designated second sentence of existing provisions as par. (3) and substituted “The Secretary concerned may waive paragraph (1)” for “The Secretary concerned may waive the preceding sentence”.
 
-1997—Subsec. (a). Pub. L. 105–85, § 603(c)(3)(B)(i), redesignated subsec. (b)(1), (2) as subsec. (a)(1), (2), respectively, and inserted subsec. heading.
+1997—Subsec. (a). Pub. L. 105–85, § 603(c)(3)(B)(i), redesignated subsec. (b)(1), (2) as subsec. (a)(1), (2), respectively, and inserted subsec. heading.
 
-Pub. L. 105–85, § 603(c)(3)(A), struck out heading and text of subsec. (a). Text read as follows: “In addition to any allowance or per diem to which he otherwise may be entitled under this title, a member of a uniformed service with dependents who is on permanent duty outside of the United States, or in Alaska, is entitled to a monthly allowance equal to the basic allowance for quarters payable to a member without dependents in the same pay grade if—
+Pub. L. 105–85, § 603(c)(3)(A), struck out heading and text of subsec. (a). Text read as follows: “In addition to any allowance or per diem to which he otherwise may be entitled under this title, a member of a uniformed service with dependents who is on permanent duty outside of the United States, or in Alaska, is entitled to a monthly allowance equal to the basic allowance for quarters payable to a member without dependents in the same pay grade if—
 
 “(1) the movement of his dependents to his permanent station or a place near that station is not authorized at the expense of the United States under section 406 of this title and his dependents do not reside at or near that station; and
 
 “(2) quarters of the United States or a housing facility under the jurisdiction of a uniformed service are not available for assignment to him.”
 
-Subsec. (a)(1). Pub. L. 105–85, § 626, substituted “$100” for “$75” in introductory provisions.
+Subsec. (a)(1). Pub. L. 105–85, § 626, substituted “$100” for “$75” in introductory provisions.
 
-Pub. L. 105–85, § 603(c)(3)(B)(ii), struck out “, including subsection (a),” after “under this title” in introductory provisions, inserted “or” at end of subpar. (B), substituted “station.” for “station; or” at end of subpar. (C), and struck out subpar. (D) which read as follows: “the member is married to a member of a uniformed service, the member has no dependent other than the spouse, the two members are separated by reason of the execution of military orders, and the two members were residing together immediately before being separated by reason of execution of military orders.”
+Pub. L. 105–85, § 603(c)(3)(B)(ii), struck out “, including subsection (a),” after “under this title” in introductory provisions, inserted “or” at end of subpar. (B), substituted “station.” for “station; or” at end of subpar. (C), and struck out subpar. (D) which read as follows: “the member is married to a member of a uniformed service, the member has no dependent other than the spouse, the two members are separated by reason of the execution of military orders, and the two members were residing together immediately before being separated by reason of execution of military orders.”
 
-Subsec. (b). Pub. L. 105–85, § 603(c)(3)(B)(iii), redesignated subsec. (b)(3) as subsec. (b), inserted heading, and substituted “subsection (a)” for “this subsection”. Former subsec. (b)(1), (2), and (4) redesignated subsecs. (a)(1), (2), and (c), respectively.
+Subsec. (b). Pub. L. 105–85, § 603(c)(3)(B)(iii), redesignated subsec. (b)(3) as subsec. (b), inserted heading, and substituted “subsection (a)” for “this subsection”. Former subsec. (b)(1), (2), and (4) redesignated subsecs. (a)(1), (2), and (c), respectively.
 
-Subsec. (b)(5). Pub. L. 105–85, § 603(c)(3)(B)(v), struck out par. (5) which read as follows: “Section 421 of this title does not apply to bar an entitlement to an allowance under paragraph (1)(D). However, not more than one monthly allowance may be paid with respect to a married couple under paragraph (1)(D) for any month.”
+Subsec. (b)(5). Pub. L. 105–85, § 603(c)(3)(B)(v), struck out par. (5) which read as follows: “Section 421 of this title does not apply to bar an entitlement to an allowance under paragraph (1)(D). However, not more than one monthly allowance may be paid with respect to a married couple under paragraph (1)(D) for any month.”
 
-Subsec. (c). Pub. L. 105–85, § 603(c)(3)(B)(iv), redesignated subsec. (b)(4) as subsec. (c), inserted heading, and substituted “subsection (a)(1)(A)” for “paragraph (1)(A) of this subsection”.
+Subsec. (c). Pub. L. 105–85, § 603(c)(3)(B)(iv), redesignated subsec. (b)(4) as subsec. (c), inserted heading, and substituted “subsection (a)(1)(A)” for “paragraph (1)(A) of this subsection”.
 
-Subsec. (d). Pub. L. 105–85, § 603(c)(3)(B)(v), added subsec. (d).
+Subsec. (d). Pub. L. 105–85, § 603(c)(3)(B)(v), added subsec. (d).
 
-1996—Subsec. (b)(1)(D). Pub. L. 104–201, § 607(a), added subpar. (D).
+1996—Subsec. (b)(1)(D). Pub. L. 104–201, § 607(a), added subpar. (D).
 
 Subsec. (b)(4). Pub. L. 104–106 inserted “paragraph (1)(A) of” after “not entitled to an allowance under”.
 
-Subsec. (b)(5). Pub. L. 104–201, § 607(b), added par. (5).
+Subsec. (b)(5). Pub. L. 104–201, § 607(b), added par. (5).
 
-1994—Subsec. (b)(2). Pub. L. 103–337, § 625(a)(3), added par. (2). Former par. (2) redesignated (3).
+1994—Subsec. (b)(2). Pub. L. 103–337, § 625(a)(3), added par. (2). Former par. (2) redesignated (3).
 
-Pub. L. 103–337, § 625(a)(1), struck out at beginning “A member who becomes entitled to an allowance under this subsection by virtue of duty described in subparagraph (B) or (C) of paragraph (1) for a continuous period of more than 30 days is entitled to the allowance effective as of the first day of that period.”
+Pub. L. 103–337, § 625(a)(1), struck out at beginning “A member who becomes entitled to an allowance under this subsection by virtue of duty described in subparagraph (B) or (C) of paragraph (1) for a continuous period of more than 30 days is entitled to the allowance effective as of the first day of that period.”
 
-Subsec. (b)(3), (4). Pub. L. 103–337, § 625(a)(2), redesignated pars. (2) and (3) as (3) and (4), respectively.
+Subsec. (b)(3), (4). Pub. L. 103–337, § 625(a)(2), redesignated pars. (2) and (3) as (3) and (4), respectively.
 
-1991—Subsec. (a). Pub. L. 102–190, § 625(b)(1), inserted heading.
+1991—Subsec. (a). Pub. L. 102–190, § 625(b)(1), inserted heading.
 
-Subsec. (b). Pub. L. 102–190, § 625(b)(2), inserted heading.
+Subsec. (b). Pub. L. 102–190, § 625(b)(2), inserted heading.
 
-Subsec. (b)(1). Pub. L. 102–190, § 625(a), substituted “$75” for “$60”.
+Subsec. (b)(1). Pub. L. 102–190, § 625(a), substituted “$75” for “$60”.
 
-Pub. L. 102–190, § 611(b), substituted “In” for “Except in time of war or of national emergency hereafter declared by Congress, and in”.
+Pub. L. 102–190, § 611(b), substituted “In” for “Except in time of war or of national emergency hereafter declared by Congress, and in”.
 
 Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 
-1986—Subsec. (b). Pub. L. 99–661, § 618(a), designated existing provisions as pars. (1) and (2), in par. (1) redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and in par. (2) substituted “subparagraph (B) or (C) of paragraph (1)” for “clause (2) or (3)”, and added par. (3).
+1986—Subsec. (b). Pub. L. 99–661, § 618(a), designated existing provisions as pars. (1) and (2), in par. (1) redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and in par. (2) substituted “subparagraph (B) or (C) of paragraph (1)” for “clause (2) or (3)”, and added par. (3).
 
 1985—Subsec. (b). Pub. L. 99–145 substituted “$60” for “$30”.
 
@@ -2922,25 +2922,25 @@ Pub. L. 91–529 inserted provisions authorizing payment of an allowance under t
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–417, [div. A], title VI, § 604(b), Oct. 14, 2008, 122 Stat. 4483, as amended by Pub. L. 111–383, div. A, title X, § 1075(e)(9), Jan. 7, 2011, 124 Stat. 4375, provided that: “Paragraph (2) of subsection (d) of section 427 of title 37, United States Code, as added by subsection (a), shall apply with respect to members of the uniformed services described in such paragraph who perform service covered by subparagraph (A), (B), or (C) of subsection (a)(1) of such section on or after October 1, 2008.”
+Pub. L. 110–417, [div. A], title VI, § 604(b), Oct. 14, 2008, 122 Stat. 4483, as amended by Pub. L. 111–383, div. A, title X, § 1075(e)(9), Jan. 7, 2011, 124 Stat. 4375, provided that: “Paragraph (2) of subsection (d) of section 427 of title 37, United States Code, as added by subsection (a), shall apply with respect to members of the uniformed services described in such paragraph who perform service covered by subparagraph (A), (B), or (C) of subsection (a)(1) of such section on or after October 1, 2008.”
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–375, div. A, title VI, § 623(b)(2), Oct. 28, 2004, 118 Stat. 1955, provided that the amendments made by section 623(b)(2) are effective Jan. 1, 2006.
+Pub. L. 108–375, div. A, title VI, § 623(b)(2), Oct. 28, 2004, 118 Stat. 1955, provided that the amendments made by section 623(b)(2) are effective Jan. 1, 2006.
 
 **Effective and Termination Dates of 2003 Amendments**
 
-Pub. L. 108–136, div. A, title VI, § 618(d)(2), Nov. 24, 2003, 117 Stat. 1504, provided that the amendment made by section 618(d)(2) is effective Apr. 16, 2003.
+Pub. L. 108–136, div. A, title VI, § 618(d)(2), Nov. 24, 2003, 117 Stat. 1504, provided that the amendment made by section 618(d)(2) is effective Apr. 16, 2003.
 
 Amendment by Pub. L. 108–11 effective Oct. 1, 2002, and applicable with respect to months beginning on or after that date, and expires Sept. 30, 2003, and, effective Sept. 30, 2003, the dollar amount specified in subsec. (a)(1) of this section as in effect on the day before Apr. 16, 2003, is revived, see section 1316(c), (d) of Pub. L. 108–11, set out as notes under section 310 of this title.
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–107, div. A, title VI, § 607(b), Dec. 28, 2001, 115 Stat. 1135, provided that: “Paragraph (2) of section 427(c) of title 37, United States Code, as added by subsection (a)(3), shall apply with respect to pay periods beginning on or after January 1, 2002, for a member of the uniformed services covered by such paragraph regardless of the date on which the member first made the election to serve an unaccompanied tour of duty.”
+Pub. L. 107–107, div. A, title VI, § 607(b), Dec. 28, 2001, 115 Stat. 1135, provided that: “Paragraph (2) of section 427(c) of title 37, United States Code, as added by subsection (a)(3), shall apply with respect to pay periods beginning on or after January 1, 2002, for a member of the uniformed services covered by such paragraph regardless of the date on which the member first made the election to serve an unaccompanied tour of duty.”
 
 **Effective Date of 1997 Amendment**
 
@@ -2948,21 +2948,21 @@ Amendment by section 603(c)(3) of Pub. L. 105–85 effective Jan. 1, 1998, see s
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–337, div. A, title VI, § 625(b), Oct. 5, 1994, 108 Stat. 2785, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as of June 20, 1994.”
+Pub. L. 103–337, div. A, title VI, § 625(b), Oct. 5, 1994, 108 Stat. 2785, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as of June 20, 1994.”
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–145, title VI, § 607(b), Nov. 8, 1985, 99 Stat. 639, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1985, and shall apply only to family separation allowances payable for months beginning on or after that date.”
+Pub. L. 99–145, title VI, § 607(b), Nov. 8, 1985, 99 Stat. 639, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1985, and shall apply only to family separation allowances payable for months beginning on or after that date.”
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–342, title VIII, § 809(b), Sept. 8, 1980, 94 Stat. 1097, provided that: “The amendment made by subsection (a) [amending this section] shall take effect with respect to months after September 1980.”
+Pub. L. 96–342, title VIII, § 809(b), Sept. 8, 1980, 94 Stat. 1097, provided that: “The amendment made by subsection (a) [amending this section] shall take effect with respect to months after September 1980.”
 
 **Effective Date of 1970 Amendments**
 
-Pub. L. 91–533, § 2, Dec. 7, 1970, 84 Stat. 1392, provided that: “The amendment made by this Act [amending this section] shall take effect on the first day of the first calendar month which occurs after the date of the enactment of this Act [Dec. 7, 1970].”
+Pub. L. 91–533, § 2, Dec. 7, 1970, 84 Stat. 1392, provided that: “The amendment made by this Act [amending this section] shall take effect on the first day of the first calendar month which occurs after the date of the enactment of this Act [Dec. 7, 1970].”
 
-Pub. L. 91–529, § 2, Dec. 7, 1970, 84 Stat. 1389, provided that: “Section 1 of this Act [amending this section] is effective October 1, 1963.”
+Pub. L. 91–529, § 2, Dec. 7, 1970, 84 Stat. 1389, provided that: “Section 1 of this Act [amending this section] is effective October 1, 1963.”
 
 **Effective Date**
 
@@ -2970,7 +2970,7 @@ Section effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a
 
 **Savings Provision**
 
-Pub. L. 99–661, div. A, title VI, § 618(b), Nov. 14, 1986, 100 Stat. 3881, as amended by Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “Notwithstanding the amendments made by subsection (a) [amending this section], a member who on September 30, 1986, was assigned to a permanent station to which the movement of his dependents was authorized at the expense of the United States under section 476 of title 37, United States Code, and who elected to serve a tour of duty at that station unaccompanied by his dependents, shall, until he departs that station as a result of a change of permanent station, be entitled to receive the allowance authorized by section 427(b) of such title without regard to paragraph (3) [now (4)] of such section, as added by subsection (a).”
+Pub. L. 99–661, div. A, title VI, § 618(b), Nov. 14, 1986, 100 Stat. 3881, as amended by Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “Notwithstanding the amendments made by subsection (a) [amending this section], a member who on September 30, 1986, was assigned to a permanent station to which the movement of his dependents was authorized at the expense of the United States under section 476 of title 37, United States Code, and who elected to serve a tour of duty at that station unaccompanied by his dependents, shall, until he departs that station as a result of a change of permanent station, be entitled to receive the allowance authorized by section 427(b) of such title without regard to paragraph (3) [now (4)] of such section, as added by subsection (a).”
 
 **Rates of Pay for Fiscal Year 2004**
 
@@ -2978,7 +2978,7 @@ Rates of pay authorized under subsec. (a)(1) of this section from Oct. 1, 2003, 
 
 **Temporary Increase in Family Separation Allowance; Persian Gulf Conflict**
 
-Pub. L. 102–25, title III, § 302, Apr. 6, 1991, 105 Stat. 80, provided that:
+Pub. L. 102–25, title III, § 302, Apr. 6, 1991, 105 Stat. 80, provided that:
 
 > **“(a) Increased Rate.—** In lieu of the family separation allowance specified in section 427(b)(1) of title 37, United States Code, the family separation allowance payable under that section shall be $75 for each month during the period described in subsection (b).
 
@@ -2994,13 +2994,13 @@ Pub. L. 91–534, Dec. 7, 1970, 84 Stat. 1392, provided:
 
 > This Act takes effect on the first day of the first month which begins after the date of enactment of this Act [Dec. 7, 1970].”
 
-## [§ 428. Renumbered § 488]
+## [§ 428. Renumbered § 488]
 
-## [§ 429. Renumbered § 489]
+## [§ 429. Renumbered § 489]
 
-## [§ 430. Renumbered § 490]
+## [§ 430. Renumbered § 490]
 
-## § 431. Benefits for certain members assigned to the Defense Intelligence Agency
+## § 431. Benefits for certain members assigned to the Defense Intelligence Agency
 
 **(a)** The Secretary of Defense may provide to members of the armed forces described in subsection (e) allowances and benefits comparable to those provided by the Secretary of State to officers and employees of the Foreign Service under paragraphs (2), (3), (4), (6), (7), (8), and (13) of section 901 and sections 705 and 903 of the Foreign Service Act of 1980 (22 U.S.C. 4081(2), (3), (4), (6), (7), (8), and (13), 4025, 4083) and under section 5924(4) of title 5.
 
@@ -3024,7 +3024,7 @@ Pub. L. 91–534, Dec. 7, 1970, 84 Stat. 1392, provided:
 
 **(2)** are designated by the Secretary of Defense for the purposes of subsection (a).
 
-(Added Pub. L. 99–145, title XIII, § 1302(b)(1), Nov. 8, 1985, 99 Stat. 738, § 431; amended Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–93, title V, § 502(b), Jan. 6, 1996, 109 Stat. 973; Pub. L. 106–65, div. A, title X, § 1067(2), Oct. 5, 1999, 113 Stat. 774; Pub. L. 112–81, div. A, title VI, § 631(d)(2), Dec. 31, 2011, 125 Stat. 1460; renumbered § 491, Pub. L. 112–239, div. A, title X, § 1076(h)(2), Jan. 2, 2013, 126 Stat. 1955; Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767; renumbered § 431, Pub. L. 117–263, div. A, title VI, § 615(a), Dec. 23, 2022, 136 Stat. 2624.)
+(Added Pub. L. 99–145, title XIII, § 1302(b)(1), Nov. 8, 1985, 99 Stat. 738, § 431; amended Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–93, title V, § 502(b), Jan. 6, 1996, 109 Stat. 973; Pub. L. 106–65, div. A, title X, § 1067(2), Oct. 5, 1999, 113 Stat. 774; Pub. L. 112–81, div. A, title VI, § 631(d)(2), Dec. 31, 2011, 125 Stat. 1460; renumbered § 491, Pub. L. 112–239, div. A, title X, § 1076(h)(2), Jan. 2, 2013, 126 Stat. 1955; Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767; renumbered § 431, Pub. L. 117–263, div. A, title VI, § 615(a), Dec. 23, 2022, 136 Stat. 2624.)
 
 **Editorial Notes**
 
@@ -3040,9 +3040,9 @@ Pub. L. 91–534, Dec. 7, 1970, 84 Stat. 1392, provided:
 
 1999—Subsec. (d)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
-1996—Subsec. (a). Pub. L. 104–93, § 502(b)(1), substituted “described in subsection (e)” for “who are assigned to Defense Attache Offices and Defense Intelligence Agency Liaison Offices outside the United States and who are designated by the Secretary of Defense for the purposes of this subsection”.
+1996—Subsec. (a). Pub. L. 104–93, § 502(b)(1), substituted “described in subsection (e)” for “who are assigned to Defense Attache Offices and Defense Intelligence Agency Liaison Offices outside the United States and who are designated by the Secretary of Defense for the purposes of this subsection”.
 
-Subsecs. (d), (e). Pub. L. 104–93, § 502(b)(2), (3), added subsecs. (d) and (e) and struck out former subsec. (d) which read as follows: “Regulations prescribed pursuant to subsection (a) shall be submitted to the Committee on Armed Services and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Armed Services and the Select Committee on Intelligence of the Senate before such regulations take effect.”
+Subsecs. (d), (e). Pub. L. 104–93, § 502(b)(2), (3), added subsecs. (d) and (e) and struck out former subsec. (d) which read as follows: “Regulations prescribed pursuant to subsection (a) shall be submitted to the Committee on Armed Services and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Armed Services and the Select Committee on Intelligence of the Senate before such regulations take effect.”
 
 1991—Subsecs. (b) to (d). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 
@@ -3050,13 +3050,13 @@ Subsecs. (d), (e). Pub. L. 104–93, § 502(b)(2), (3), added subsecs. (d) and
 
 **Delegation of Authority of Secretary of Defense**
 
-Pub. L. 99–145, title XIII, § 1302(b)(3), Nov. 8, 1985, 99 Stat. 738, as amended by Pub. L. 100–180, div. A, title XIII, § 1314(d)(4), Dec. 4, 1987, 101 Stat. 1176, provided that: “The authority of the Secretary of Defense under section 431 of title 37, United States Code, as added by paragraph (1), may be delegated in accordance with section 113(d) of title 10, United States Code.”
+Pub. L. 99–145, title XIII, § 1302(b)(3), Nov. 8, 1985, 99 Stat. 738, as amended by Pub. L. 100–180, div. A, title XIII, § 1314(d)(4), Dec. 4, 1987, 101 Stat. 1176, provided that: “The authority of the Secretary of Defense under section 431 of title 37, United States Code, as added by paragraph (1), may be delegated in accordance with section 113(d) of title 10, United States Code.”
 
 [Amendment to section 1302(b)(3) of Pub. L. 99–145 by Pub. L. 100–180 effective Oct. 1, 1986, see section 1314(e)(2) of Pub. L. 100–180, set out as a note under section 413 of this title.]
 
-## [§ 432. Renumbered § 492]
+## [§ 432. Renumbered § 492]
 
-## § 433. Allowance for muster duty
+## § 433. Allowance for muster duty
 
 **(a)** Under uniform regulations prescribed by the Secretaries concerned, a member of the Ready Reserve who is not a member of the National Guard or of the Selected Reserve is entitled to an allowance for muster duty performed pursuant to section 12319 of title 10 if the member is engaged in that duty for at least two hours.
 
@@ -3066,7 +3066,7 @@ Pub. L. 99–145, title XIII, § 1302(b)(3), Nov. 8, 1985, 99 Stat. 738, as am
 
 **(d)** A member who performs muster duty is not entitled to compensation for inactive-duty training under section 206(a) of this title for the same period.
 
-(Added Pub. L. 101–189, div. A, title V, § 502(b)(1), Nov. 29, 1989, 103 Stat. 1436; amended Pub. L. 101–510, div. A, title XIV, § 1484(h)(5), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A, title XV, § 1501(d)(4)(B), Feb. 10, 1996, 110 Stat. 501; Pub. L. 105–85, div. A, title VI, § 627, Nov. 18, 1997, 111 Stat. 1795; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–263, div. A, title VI, § 626(h)(5), Dec. 23, 2022, 136 Stat. 2629.)
+(Added Pub. L. 101–189, div. A, title V, § 502(b)(1), Nov. 29, 1989, 103 Stat. 1436; amended Pub. L. 101–510, div. A, title XIV, § 1484(h)(5), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A, title XV, § 1501(d)(4)(B), Feb. 10, 1996, 110 Stat. 501; Pub. L. 105–85, div. A, title VI, § 627, Nov. 18, 1997, 111 Stat. 1795; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–263, div. A, title VI, § 626(h)(5), Dec. 23, 2022, 136 Stat. 2629.)
 
 **Editorial Notes**
 
@@ -3074,9 +3074,9 @@ Pub. L. 99–145, title XIII, § 1302(b)(3), Nov. 8, 1985, 99 Stat. 738, as am
 
 2022—Subsec. (b). Pub. L. 117–263 substituted “section 452” for “section 474(d)(2)(A)”.
 
-2013—Subsec. (b). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
+2013—Subsec. (b). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
-2011—Subsec. (b). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “474” for “404”.
+2011—Subsec. (b). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “474” for “404”.
 
 1997—Subsec. (c). Pub. L. 105–85 struck out “and shall be paid to the member on or before the date on which the muster duty is performed” after “disbursed in kind” in first sentence and inserted “The allowance may be paid to the member before, on, or after the date on which the muster duty is performed, but not later than 30 days after that date.” after first sentence.
 
@@ -3088,7 +3088,7 @@ Pub. L. 99–145, title XIII, § 1302(b)(3), Nov. 8, 1985, 99 Stat. 738, as am
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 **Effective Date of 1996 Amendment**
 
@@ -3096,9 +3096,9 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–510, div. A, title XIV, § 1484(h)(5), Nov. 5, 1990, 104 Stat. 1718, provided that the amendment made by that section is effective as of Nov. 29, 1989.
+Pub. L. 101–510, div. A, title XIV, § 1484(h)(5), Nov. 5, 1990, 104 Stat. 1718, provided that the amendment made by that section is effective as of Nov. 29, 1989.
 
-## § 433a. Allowance for participation in Ready Reserve screening
+## § 433a. Allowance for participation in Ready Reserve screening
 
 **(a) Allowance Authorized.—**
 
@@ -3114,11 +3114,11 @@ Pub. L. 101–510, div. A, title XIV, § 1484(h)(5), Nov. 5, 1990, 104 Stat. 1
 
 **(2)** Payment of a stipend to a member of the Individual Ready Reserve under this section for participation in screening shall be made on or after the date of participation in such screening, but not later than 30 days after such date.
 
-(Added Pub. L. 110–181, div. A, title VI, § 633(a)(1), Jan. 28, 2008, 122 Stat. 154.)
+(Added Pub. L. 110–181, div. A, title VI, § 633(a)(1), Jan. 28, 2008, 122 Stat. 154.)
 
-## [§ 434. Renumbered § 494]
+## [§ 434. Renumbered § 494]
 
-## § 435. Funeral honors duty: allowance
+## § 435. Funeral honors duty: allowance
 
 **(a) Allowance Authorized.—**
 
@@ -3128,7 +3128,7 @@ Pub. L. 101–510, div. A, title XIV, § 1484(h)(5), Nov. 5, 1990, 104 Stat. 1
 
 **(b) Amount.—** The daily rate of an allowance under this section is $50.
 
-(Added Pub. L. 106–65, div. A, title V, § 578(j), Oct. 5, 1999, 113 Stat. 630, § 435; amended Pub. L. 106–398, § 1 [[div. A], title V, § 575(b), title X, § 1087(c)(1)(A)(i)], Oct. 30, 2000, 114 Stat. 1654, 1654A–138, 1654A–292; Pub. L. 107–107, div. A, title V, § 561(b), Dec. 28, 2001, 115 Stat. 1119; renumbered § 495 and amended Pub. L. 112–81, div. A, title VI, § 631(d)(2), (e)(32), Dec. 31, 2011, 125 Stat. 1460, 1464; renumbered § 435 and amended Pub. L. 116–283, div. A, title VI, § 604(b), Jan. 1, 2021, 134 Stat. 3672.)
+(Added Pub. L. 106–65, div. A, title V, § 578(j), Oct. 5, 1999, 113 Stat. 630, § 435; amended Pub. L. 106–398, § 1 [[div. A], title V, § 575(b), title X, § 1087(c)(1)(A)(i)], Oct. 30, 2000, 114 Stat. 1654, 1654A–138, 1654A–292; Pub. L. 107–107, div. A, title V, § 561(b), Dec. 28, 2001, 115 Stat. 1119; renumbered § 495 and amended Pub. L. 112–81, div. A, title VI, § 631(d)(2), (e)(32), Dec. 31, 2011, 125 Stat. 1460, 1464; renumbered § 435 and amended Pub. L. 116–283, div. A, title VI, § 604(b), Jan. 1, 2021, 134 Stat. 3672.)
 
 **Editorial Notes**
 
@@ -3138,29 +3138,29 @@ A prior section 435 was renumbered section 495 of this title prior to being renu
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 604(b)(1), renumbered section 495 of this title as this section.
+2021—Pub. L. 116–283, § 604(b)(1), renumbered section 495 of this title as this section.
 
-Subsec. (c). Pub. L. 116–283, § 604(b)(2), struck out subsec. (c). Text read as follows: “No allowance may be paid under this section for any day after the travel authorities transition expiration date.”
+Subsec. (c). Pub. L. 116–283, § 604(b)(2), struck out subsec. (c). Text read as follows: “No allowance may be paid under this section for any day after the travel authorities transition expiration date.”
 
-2011—Pub. L. 112–81, § 631(d)(2), renumbered section 435 of this title as section 495.
+2011—Pub. L. 112–81, § 631(d)(2), renumbered section 435 of this title as section 495.
 
-Subsec. (c). Pub. L. 112–81, § 631(e)(32), added subsec. (c).
+Subsec. (c). Pub. L. 112–81, § 631(e)(32), added subsec. (c).
 
 2001—Subsec. (a). Pub. L. 107–107 designated existing provisions as par. (1) and added par. (2).
 
-2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1087(c)(1)(A)(i)], made technical amendment to directory language of Pub. L. 106–65, § 578(j), which enacted this section.
+2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1087(c)(1)(A)(i)], made technical amendment to directory language of Pub. L. 106–65, § 578(j), which enacted this section.
 
-Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title V, § 575(b)], struck out heading and text of subsec. (c). Text read as follows: “Except for expenses reimbursed under subsection (c) of section 12503 of title 10 or subsection (c) of section 115 of title 32, the allowance paid under this section is the only monetary compensation authorized to be paid a member for the performance of funeral honors duty pursuant to such section, regardless of the grade in which the member is serving, and shall constitute payment in full to the member.”
+Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title V, § 575(b)], struck out heading and text of subsec. (c). Text read as follows: “Except for expenses reimbursed under subsection (c) of section 12503 of title 10 or subsection (c) of section 115 of title 32, the allowance paid under this section is the only monetary compensation authorized to be paid a member for the performance of funeral honors duty pursuant to such section, regardless of the grade in which the member is serving, and shall constitute payment in full to the member.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2000 Amendment**
 
-Amendment by section 1 [[div. A], title V, § 575(b)] of Pub. L. 106–398, applicable with respect to funeral honors duty performed on or after Oct. 1, 2000, see section 1 [[div. A], title V, § 575(c)] of Pub. L. 106–398, set out as a note under section 12503 of Title 10, Armed Forces.
+Amendment by section 1 [[div. A], title V, § 575(b)] of Pub. L. 106–398, applicable with respect to funeral honors duty performed on or after Oct. 1, 2000, see section 1 [[div. A], title V, § 575(c)] of Pub. L. 106–398, set out as a note under section 12503 of Title 10, Armed Forces.
 
-Pub. L. 106–398, § 1 [[div. A], title X, § 1087(c)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, provided that the amendment made by that section is effective as of Oct. 5, 1999, and as if included in the National Defense Authorization Act for Fiscal Year 2000, Pub. L. 106–65, as enacted.
+Pub. L. 106–398, § 1 [[div. A], title X, § 1087(c)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, provided that the amendment made by that section is effective as of Oct. 5, 1999, and as if included in the National Defense Authorization Act for Fiscal Year 2000, Pub. L. 106–65, as enacted.
 
-## § 436. High-deployment allowance: lengthy or numerous deployments; frequent mobilizations
+## § 436. High-deployment allowance: lengthy or numerous deployments; frequent mobilizations
 
 **(a) Monthly Allowance.—** The Secretary of the military department concerned may pay a high-deployment allowance to a member of the armed forces under the Secretary’s jurisdiction for each month during which the member—
 
@@ -3192,7 +3192,7 @@ Pub. L. 106–398, § 1 [[div. A], title X, § 1087(c)(1)], Oct. 30, 2000, 1
 
 **(h) Payment From Operation and Maintenance Funds.—** The monthly allowance payable to a member under this section shall be paid from appropriations available for operation and maintenance for the armed force in which the member serves.
 
-(Added Pub. L. 106–65, div. A, title V, § 586(b), Oct. 5, 1999, 113 Stat. 638, § 435; renumbered § 436 and amended Pub. L. 106–398, § 1 [[div. A], title V, § 574(c), title X, § 1087(b)(4)], Oct. 30, 2000, 114 Stat. 1654, 1654A–137, 1654A–292; Pub. L. 107–107, div. A, title V, § 592(a), Dec. 28, 2001, 115 Stat. 1125; Pub. L. 108–136, div. A, title V, § 541(b)(1)–(5)(A), Nov. 24, 2003, 117 Stat. 1476, 1477; Pub. L. 112–81, div. A, title V, § 530(a), Dec. 31, 2011, 125 Stat. 1403; Pub. L. 115–232, div. A, title VI, § 602, Aug. 13, 2018, 132 Stat. 1794.)
+(Added Pub. L. 106–65, div. A, title V, § 586(b), Oct. 5, 1999, 113 Stat. 638, § 435; renumbered § 436 and amended Pub. L. 106–398, § 1 [[div. A], title V, § 574(c), title X, § 1087(b)(4)], Oct. 30, 2000, 114 Stat. 1654, 1654A–137, 1654A–292; Pub. L. 107–107, div. A, title V, § 592(a), Dec. 28, 2001, 115 Stat. 1125; Pub. L. 108–136, div. A, title V, § 541(b)(1)–(5)(A), Nov. 24, 2003, 117 Stat. 1476, 1477; Pub. L. 112–81, div. A, title V, § 530(a), Dec. 31, 2011, 125 Stat. 1403; Pub. L. 115–232, div. A, title VI, § 602, Aug. 13, 2018, 132 Stat. 1794.)
 
 **Editorial Notes**
 
@@ -3202,39 +3202,39 @@ Pub. L. 106–398, § 1 [[div. A], title X, § 1087(c)(1)], Oct. 30, 2000, 1
 
 2011—Subsec. (a). Pub. L. 112–81 substituted “may pay” for “shall pay” in introductory provisions.
 
-2003—Pub. L. 108–136, § 541(b)(5)(A), substituted “High-deployment allowance: lengthy or numerous deployments; frequent mobilizations” for “Per diem allowance for lengthy or numerous deployments” in section catchline.
+2003—Pub. L. 108–136, § 541(b)(5)(A), substituted “High-deployment allowance: lengthy or numerous deployments; frequent mobilizations” for “Per diem allowance for lengthy or numerous deployments” in section catchline.
 
-Subsec. (a). Pub. L. 108–136, § 541(b)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of the military department concerned shall pay a high-deployment per diem allowance to a member of the armed forces under the Secretary’s jurisdiction for each day on which the member (1) is deployed, and (2) has, as of that day, been deployed 401 or more days out of the preceding 730 days. The Secretary shall pay the allowance from appropriations available for operation and maintenance for the armed force in which the member serves.”
+Subsec. (a). Pub. L. 108–136, § 541(b)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of the military department concerned shall pay a high-deployment per diem allowance to a member of the armed forces under the Secretary’s jurisdiction for each day on which the member (1) is deployed, and (2) has, as of that day, been deployed 401 or more days out of the preceding 730 days. The Secretary shall pay the allowance from appropriations available for operation and maintenance for the armed force in which the member serves.”
 
-Subsec. (c). Pub. L. 108–136, § 541(b)(2), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “The amount of the high-deployment per diem payable to a member under this section is $100.”
+Subsec. (c). Pub. L. 108–136, § 541(b)(2), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “The amount of the high-deployment per diem payable to a member under this section is $100.”
 
-Subsec. (d). Pub. L. 108–136, § 541(b)(4)(A), struck out “per diem” before “allowance”.
+Subsec. (d). Pub. L. 108–136, § 541(b)(4)(A), struck out “per diem” before “allowance”.
 
-Subsec. (e). Pub. L. 108–136, § 541(b)(4)(B), substituted “allowance” for “per diem” after “high-deployment”.
+Subsec. (e). Pub. L. 108–136, § 541(b)(4)(B), substituted “allowance” for “per diem” after “high-deployment”.
 
-Subsec. (f). Pub. L. 108–136, § 541(b)(4)(C), substituted “allowance” for “per diem” and “month during which” for “day on which”.
+Subsec. (f). Pub. L. 108–136, § 541(b)(4)(C), substituted “allowance” for “per diem” and “month during which” for “day on which”.
 
-Subsecs. (g), (h). Pub. L. 108–136, § 541(b)(3), added subsecs. (g) and (h).
+Subsecs. (g), (h). Pub. L. 108–136, § 541(b)(3), added subsecs. (g) and (h).
 
 2001—Subsec. (a). Pub. L. 107–107 inserted at end “The Secretary shall pay the allowance from appropriations available for operation and maintenance for the armed force in which the member serves.”
 
-2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1087(b)(4)], renumbered section 435 of this title as this section.
+2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1087(b)(4)], renumbered section 435 of this title as this section.
 
-Subsec. (a). Pub. L. 106–398, § 1 [[div. A], title V, § 574(c)(1)], substituted “401 or more days out of the preceding 730 days” for “251 days or more out of the preceding 365 days”.
+Subsec. (a). Pub. L. 106–398, § 1 [[div. A], title V, § 574(c)(1)], substituted “401 or more days out of the preceding 730 days” for “251 days or more out of the preceding 365 days”.
 
-Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title V, § 574(c)(2)], substituted “prescribed under paragraph (4)” for “prescribed under paragraph (3)”.
+Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title V, § 574(c)(2)], substituted “prescribed under paragraph (4)” for “prescribed under paragraph (3)”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–81, div. A, title V, § 530(b), Dec. 31, 2011, 125 Stat. 1403, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act [Dec. 31, 2011].”
+Pub. L. 112–81, div. A, title V, § 530(b), Dec. 31, 2011, 125 Stat. 1403, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act [Dec. 31, 2011].”
 
 **Effective Date**
 
-Pub. L. 106–65, div. A, title V, § 586(d)(2), Oct. 5, 1999, 113 Stat. 639, provided that: “Section 435 [now 436] of title 37, United States Code (as added by subsection (b)) [this section], shall take effect on October 1, 2001.”
+Pub. L. 106–65, div. A, title V, § 586(d)(2), Oct. 5, 1999, 113 Stat. 639, provided that: “Section 435 [now 436] of title 37, United States Code (as added by subsection (b)) [this section], shall take effect on October 1, 2001.”
 
-## § 437. Allowance to cover monthly premiums for Servicemembers’ Group Life Insurance: members serving in a designated duty assignment
+## § 437. Allowance to cover monthly premiums for Servicemembers’ Group Life Insurance: members serving in a designated duty assignment
 
 **(a) Required Reimbursement for Premium Deduction.—**
 
@@ -3252,49 +3252,49 @@ Pub. L. 106–65, div. A, title V, § 586(d)(2), Oct. 5, 1999, 113 Stat. 639, 
 
 **(2)** The ability of members who elected not to be insured under Servicemembers’ Group Life Insurance, or elected less than the maximum coverage amount available for such insurance, to obtain insurance, or to obtain additional coverage, as the case may be, under the authority provided in section 1967(c) of title 38.
 
-(Added Pub. L. 109–163, div. A, title VI, § 613(a), Jan. 6, 2006, 119 Stat. 3291; amended Pub. L. 109–364, div. A, title VI, § 606(a)–(c), Oct. 17, 2006, 120 Stat. 2246; Pub. L. 110–181, div. A, title X, § 1063(c)(5), Jan. 28, 2008, 122 Stat. 322; Pub. L. 114–328, div. A, title VI, § 644(a)–(b)(2), Dec. 23, 2016, 130 Stat. 2166, 2167.)
+(Added Pub. L. 109–163, div. A, title VI, § 613(a), Jan. 6, 2006, 119 Stat. 3291; amended Pub. L. 109–364, div. A, title VI, § 606(a)–(c), Oct. 17, 2006, 120 Stat. 2246; Pub. L. 110–181, div. A, title X, § 1063(c)(5), Jan. 28, 2008, 122 Stat. 322; Pub. L. 114–328, div. A, title VI, § 644(a)–(b)(2), Dec. 23, 2016, 130 Stat. 2166, 2167.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Pub. L. 114–328, § 644(b)(2), substituted “Allowance to cover monthly premiums for Servicemembers’ Group Life Insurance: members serving in a designated duty assignment” for “Allowance to cover monthly premium for Servicemembers’ Group Life Insurance: members serving in Operation Enduring Freedom or Operation Iraqi Freedom” in section catchline.
+2016—Pub. L. 114–328, § 644(b)(2), substituted “Allowance to cover monthly premiums for Servicemembers’ Group Life Insurance: members serving in a designated duty assignment” for “Allowance to cover monthly premium for Servicemembers’ Group Life Insurance: members serving in Operation Enduring Freedom or Operation Iraqi Freedom” in section catchline.
 
-Subsec. (a). Pub. L. 114–328, § 644(a), designated existing provisions as par. (1), substituted “who serves in a designated duty assignment” for “who serves in the theater of operations for Operation Enduring Freedom or Operation Iraqi Freedom”, and added par. (2).
+Subsec. (a). Pub. L. 114–328, § 644(a), designated existing provisions as par. (1), substituted “who serves in a designated duty assignment” for “who serves in the theater of operations for Operation Enduring Freedom or Operation Iraqi Freedom”, and added par. (2).
 
-Subsec. (b). Pub. L. 114–328, § 644(b)(1), substituted “designated duty assignment” for “theater of operations” in introductory provisions.
+Subsec. (b). Pub. L. 114–328, § 644(b)(1), substituted “designated duty assignment” for “theater of operations” in introductory provisions.
 
-2008—Subsec. (a). Pub. L. 110–181 made technical correction to directory language of Pub. L. 109–364, § 606(b)(1)(A). See 2006 Amendment note below.
+2008—Subsec. (a). Pub. L. 110–181 made technical correction to directory language of Pub. L. 109–364, § 606(b)(1)(A). See 2006 Amendment note below.
 
-2006—Pub. L. 109–364, § 606(c), struck out “portion of” before “monthly premium” in section catchline.
+2006—Pub. L. 109–364, § 606(c), struck out “portion of” before “monthly premium” in section catchline.
 
-Subsec. (a). Pub. L. 109–364, § 606(b)(1)(B), struck out par. (2) which read as follows: “If a member described in paragraph (1) elected to be insured in an amount less than the coverage amount specified in paragraph (1) or in effect pursuant to subsection (b), the amount of the allowance under this section for a month shall be equal to the amount of the deduction made for that month under subsection (a)(1) of section 1969 of title 38 from the basic pay of the member for the amount of Servicemembers’ Group Life Insurance coverage actually held by the member under section 1967 of such title.”
+Subsec. (a). Pub. L. 109–364, § 606(b)(1)(B), struck out par. (2) which read as follows: “If a member described in paragraph (1) elected to be insured in an amount less than the coverage amount specified in paragraph (1) or in effect pursuant to subsection (b), the amount of the allowance under this section for a month shall be equal to the amount of the deduction made for that month under subsection (a)(1) of section 1969 of title 38 from the basic pay of the member for the amount of Servicemembers’ Group Life Insurance coverage actually held by the member under section 1967 of such title.”
 
-Pub. L. 109–364, § 606(b)(1)(A), as amended by Pub. L. 110–181, struck out “(1)” before “In the case of”.
+Pub. L. 109–364, § 606(b)(1)(A), as amended by Pub. L. 110–181, struck out “(1)” before “In the case of”.
 
-Subsec. (a)(1). Pub. L. 109–364, § 606(a), substituted “for the amount of Servicemembers’ Group Life Insurance coverage held by the member under section 1967 of such title” for “for the first $150,000 of Servicemembers’ Group Life Insurance coverage held by the member under section 1967 of such title”.
+Subsec. (a)(1). Pub. L. 109–364, § 606(a), substituted “for the amount of Servicemembers’ Group Life Insurance coverage held by the member under section 1967 of such title” for “for the first $150,000 of Servicemembers’ Group Life Insurance coverage held by the member under section 1967 of such title”.
 
-Subsecs. (b), (c). Pub. L. 109–364, § 606(b)(2), (3), redesignated subsec. (c) as (b), in par. (2) substituted “maximum coverage amount available for such insurance,” for “coverage amount specified in subsection (a)(1) or in effect pursuant to subsection (b),”, and struck out former subsec. (b). Text read as follows: “For purposes of subsection (a), the Secretary of Defense is authorized to increase the coverage amount specified in paragraph (1) of such subsection to permit the reimbursement of all or an additional amount of the deduction made under section 1969(a)(1) of title 38 for levels of coverage in excess of $150,000 for members under the Servicemembers’ Group Life Insurance program.”
+Subsecs. (b), (c). Pub. L. 109–364, § 606(b)(2), (3), redesignated subsec. (c) as (b), in par. (2) substituted “maximum coverage amount available for such insurance,” for “coverage amount specified in subsection (a)(1) or in effect pursuant to subsection (b),”, and struck out former subsec. (b). Text read as follows: “For purposes of subsection (a), the Secretary of Defense is authorized to increase the coverage amount specified in paragraph (1) of such subsection to permit the reimbursement of all or an additional amount of the deduction made under section 1969(a)(1) of title 38 for levels of coverage in excess of $150,000 for members under the Servicemembers’ Group Life Insurance program.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–328, div. A, title VI, § 644(c), Dec. 23, 2016, 130 Stat. 2167, provided that: “The amendments made by this section [amending this section] shall apply to service by members of the Armed Forces in a designated duty assignment (as defined in subsection (a)(2) of section 437 of title 37, United States Code) for any month beginning on or after the date of the enactment of this Act [Dec. 23, 2016].”
+Pub. L. 114–328, div. A, title VI, § 644(c), Dec. 23, 2016, 130 Stat. 2167, provided that: “The amendments made by this section [amending this section] shall apply to service by members of the Armed Forces in a designated duty assignment (as defined in subsection (a)(2) of section 437 of title 37, United States Code) for any month beginning on or after the date of the enactment of this Act [Dec. 23, 2016].”
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–181, div. A, title X, § 1063(c), Jan. 28, 2008, 122 Stat. 322, provided that the amendment made by section 1063(c)(5) is effective as of Oct. 17, 2006, and as if included in Pub. L. 109–364 as enacted.
+Pub. L. 110–181, div. A, title X, § 1063(c), Jan. 28, 2008, 122 Stat. 322, provided that the amendment made by section 1063(c)(5) is effective as of Oct. 17, 2006, and as if included in Pub. L. 109–364 as enacted.
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–364, div. A, title VI, § 606(d), Oct. 17, 2006, 120 Stat. 2246, provided that: “The amendments made by this section [amending this section] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act [Oct. 17, 2006] and shall apply with respect to service by members of the Armed Forces in the theater of operations for Operation Enduring Freedom or Operation Iraqi Freedom for months beginning on or after that date.”
+Pub. L. 109–364, div. A, title VI, § 606(d), Oct. 17, 2006, 120 Stat. 2246, provided that: “The amendments made by this section [amending this section] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act [Oct. 17, 2006] and shall apply with respect to service by members of the Armed Forces in the theater of operations for Operation Enduring Freedom or Operation Iraqi Freedom for months beginning on or after that date.”
 
 **Effective Date**
 
-Pub. L. 109–163, div. A, title VI, § 613(c), Jan. 6, 2006, 119 Stat. 3292, provided that: “Section 437 of title 37, United States Code, as added by subsection (a), shall apply with respect to service by members of the Armed Forces in the theater of operations for Operation Enduring Freedom or Operation Iraqi Freedom for months beginning on or after the date of the enactment of this Act [Jan. 6, 2006]. In the case of members who are serving in the theater of operations for Operation Enduring Freedom or Operation Iraqi Freedom as of such date, the Secretary of Defense shall provide such members, as soon as practicable, the information specified in subsection (c) of that section.”
+Pub. L. 109–163, div. A, title VI, § 613(c), Jan. 6, 2006, 119 Stat. 3292, provided that: “Section 437 of title 37, United States Code, as added by subsection (a), shall apply with respect to service by members of the Armed Forces in the theater of operations for Operation Enduring Freedom or Operation Iraqi Freedom for months beginning on or after the date of the enactment of this Act [Jan. 6, 2006]. In the case of members who are serving in the theater of operations for Operation Enduring Freedom or Operation Iraqi Freedom as of such date, the Secretary of Defense shall provide such members, as soon as practicable, the information specified in subsection (c) of that section.”
 
-## § 438. Preventive health services allowance
+## § 438. Preventive health services allowance
 
 **(a) Demonstration Project.—** During the period beginning on January 1, 2009, and ending on December 31, 2011, the Secretary of Defense shall conduct a demonstration project designed to evaluate the efficacy of providing an annual allowance (to be known as a “preventive health services allowance”) to members of the armed forces described in subsection (b) to increase the use of preventive health services by such members and their dependents.
 
@@ -3340,9 +3340,9 @@ Pub. L. 109–163, div. A, title VI, § 613(c), Jan. 6, 2006, 119 Stat. 3292, 
 
 **(g) Regulations.—** The Secretary of Defense shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 110–417, [div. A], title VII, § 714(a), Oct. 14, 2008, 122 Stat. 4504.)
+(Added Pub. L. 110–417, [div. A], title VII, § 714(a), Oct. 14, 2008, 122 Stat. 4504.)
 
-## § 439. Special compensation: members of the uniformed services with catastrophic injuries or illnesses requiring assistance in everyday living
+## § 439. Special compensation: members of the uniformed services with catastrophic injuries or illnesses requiring assistance in everyday living
 
 **(a) Monthly Compensation Authorized.—** The Secretary concerned may pay to any member of the uniformed services described in subsection (b) monthly special compensation in an amount determined under subsection (c).
 
@@ -3388,7 +3388,7 @@ Pub. L. 109–163, div. A, title VI, § 613(c), Jan. 6, 2006, 119 Stat. 3292, 
 
 **(h) Regulations.—** The Secretary of Defense (or the Secretary of Homeland Security, with respect to the Coast Guard) shall prescribe regulations to carry out this section.
 
-(Added Pub. L. 111–84, div. A, title VI, § 603(a), Oct. 28, 2009, 123 Stat. 2348; amended Pub. L. 111–383, div. A, title VI, § 634, Jan. 7, 2011, 124 Stat. 4241.)
+(Added Pub. L. 111–84, div. A, title VI, § 603(a), Oct. 28, 2009, 123 Stat. 2348; amended Pub. L. 111–383, div. A, title VI, § 634, Jan. 7, 2011, 124 Stat. 4241.)
 
 **Editorial Notes**
 

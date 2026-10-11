@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(2)(B), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 375 of this title as this chapter and item 4061 as 7381.
+2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(2)(B), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 375 of this title as this chapter and item 4061 as 7381.
 
-## § 7381. Fatality reviews
+## § 7381. Fatality reviews
 
 **(a) Review of Fatalities.—** The Secretary of the Army shall conduct a multidisciplinary, impartial review (referred to as a “fatality review”) in the case of each fatality known or suspected to have resulted from domestic violence or child abuse against any of the following:
 
@@ -47,21 +47,21 @@ retrieved: 2026-10-11
 
 **(c) OSD Guidance.—** The Secretary of Defense shall prescribe guidance, which shall be uniform for the military departments, for the conduct of reviews by the Secretary under subsection (a).
 
-(Added Pub. L. 108–136, div. A, title V, § 576(a)(1), Nov. 24, 2003, 117 Stat. 1486, § 4061; renumbered § 7381, Pub. L. 115–232, div. A, title VIII, § 808(b)(16), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 108–136, div. A, title V, § 576(a)(1), Nov. 24, 2003, 117 Stat. 1486, § 4061; renumbered § 7381, Pub. L. 115–232, div. A, title VIII, § 808(b)(16), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior sections 7391 to 7394 were repealed by Pub. L. 97–295, § 1(50)(A), Oct. 12, 1982, 96 Stat. 1299.
+Prior sections 7391 to 7394 were repealed by Pub. L. 97–295, § 1(50)(A), Oct. 12, 1982, 96 Stat. 1299.
 
-Section 7391, acts Aug. 10, 1956, ch. 1041, 70A Stat. 456; July 10, 1962, Pub. L. 87–533, § 1(a)(2), 76 Stat. 154, provided for a United States Naval Oceanographic Office attached to the Office of the Chief of Naval Operations which would provide navigational aids, charts, books, and manuals, and was reenacted as former section 2791 of this title.
+Section 7391, acts Aug. 10, 1956, ch. 1041, 70A Stat. 456; July 10, 1962, Pub. L. 87–533, § 1(a)(2), 76 Stat. 154, provided for a United States Naval Oceanographic Office attached to the Office of the Chief of Naval Operations which would provide navigational aids, charts, books, and manuals, and was reenacted as former section 2791 of this title.
 
-Section 7392, acts Aug. 10, 1956, ch. 1041, 70A Stat. 456; July 10, 1962, Pub. L. 87–533, § 1(a)(3), 76 Stat. 154, provided that the Secretary of the Navy may have the United States Naval Oceanographic Office prepare navigational aids, charts, and books, and that he may publish and distribute such materials and buy copyrights of existing navigational aids, charts, and books, and was reenacted as section 451 of this title.
+Section 7392, acts Aug. 10, 1956, ch. 1041, 70A Stat. 456; July 10, 1962, Pub. L. 87–533, § 1(a)(3), 76 Stat. 154, provided that the Secretary of the Navy may have the United States Naval Oceanographic Office prepare navigational aids, charts, and books, and that he may publish and distribute such materials and buy copyrights of existing navigational aids, charts, and books, and was reenacted as section 451 of this title.
 
-Section 7393, acts Aug. 10, 1956, ch. 1041, 70A Stat. 456; July 10, 1962, Pub. L. 87–533, § 1(a)(4), 76 Stat. 154, directed that certain identifying information be printed on United States Naval Oceanographic pilot charts, and that the Department of Commerce’s Weather Bureau provide the Naval Oceanographic Office with data necessary for their preparation, and was reenacted as section 452 of this title.
+Section 7393, acts Aug. 10, 1956, ch. 1041, 70A Stat. 456; July 10, 1962, Pub. L. 87–533, § 1(a)(4), 76 Stat. 154, directed that certain identifying information be printed on United States Naval Oceanographic pilot charts, and that the Department of Commerce’s Weather Bureau provide the Naval Oceanographic Office with data necessary for their preparation, and was reenacted as section 452 of this title.
 
-Section 7394, acts Aug. 10, 1956, ch. 1041, 70A Stat. 457; July 10, 1962, Pub. L. 87–533, § 1(a)(5), 76 Stat. 154; Aug. 14, 1964, Pub. L. 88–436, § 1(a), 78 Stat. 443, directed that publications by the Naval Oceanographic Office be sold under regulations of the Secretary of the Navy, and that proceeds be covered into the Treasury, and was reenacted as section 453 of this title.
+Section 7394, acts Aug. 10, 1956, ch. 1041, 70A Stat. 457; July 10, 1962, Pub. L. 87–533, § 1(a)(5), 76 Stat. 154; Aug. 14, 1964, Pub. L. 88–436, § 1(a), 78 Stat. 443, directed that publications by the Naval Oceanographic Office be sold under regulations of the Secretary of the Navy, and that proceeds be covered into the Treasury, and was reenacted as section 453 of this title.
 
 Prior sections 7395 and 7396 were renumbered sections 8715 and 8716 of this title, respectively.
 
@@ -77,4 +77,4 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date**
 
-Pub. L. 108–136, div. A, title V, § 576(d), Nov. 24, 2003, 117 Stat. 1488, provided that: “Sections 4061, 6036, and 9061 [now 7381, 8226, and 9381] of title 10, United States Code, as added by this section, apply with respect to fatalities that occur on or after the date of the enactment of this Act [Nov. 24, 2003].”
+Pub. L. 108–136, div. A, title V, § 576(d), Nov. 24, 2003, 117 Stat. 1488, provided that: “Sections 4061, 6036, and 9061 [now 7381, 8226, and 9381] of title 10, United States Code, as added by this section, apply with respect to fatalities that occur on or after the date of the enactment of this Act [Nov. 24, 2003].”

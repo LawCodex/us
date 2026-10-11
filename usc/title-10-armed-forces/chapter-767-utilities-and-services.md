@@ -19,25 +19,25 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2021—Pub. L. 116–283, div. A, title XII, § 1299A(b), Jan. 1, 2021, 134 Stat. 3998, added item 7596.
+2021—Pub. L. 116–283, div. A, title XII, § 1299A(b), Jan. 1, 2021, 134 Stat. 3998, added item 7596.
 
-2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 437 of this title as this chapter and items 4591 to 4595 as 7591 to 7595, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 437 of this title as this chapter and items 4591 to 4595 as 7591 to 7595, respectively.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1085(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–288, added item 4595.
+2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1085(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–288, added item 4595.
 
-1957—Pub. L. 85–263, § 1(2), Sept. 2, 1957, 71 Stat. 589, added item 4594.
+1957—Pub. L. 85–263, § 1(2), Sept. 2, 1957, 71 Stat. 589, added item 4594.
 
-## § 7591. Utilities: proceeds from overseas operations
+## § 7591. Utilities: proceeds from overseas operations
 
 During actual or threatened hostilities, proceeds from operating a public utility in connection with operations of the Corps of Engineers in the field overseas are available for that utility until the close of the fiscal year following that in which they are received.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 257, § 4591; renumbered § 7591, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 257, § 4591; renumbered § 7591, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4591 | 10:1287. | July 9, 1918, ch. 143, subch. XX (1st par.), 40 Stat. 893; May 29, 1928, ch. 901 (par. 37), 45 Stat. 989; Aug. 1, 1953, ch. 305, Title VI, § 645 (7th clause), 67 Stat. 357. |
+| 4591 | 10:1287. | July 9, 1918, ch. 143, subch. XX (1st par.), 40 Stat. 893; May 29, 1928, ch. 901 (par. 37), 45 Stat. 989; Aug. 1, 1953, ch. 305, Title VI, § 645 (7th clause), 67 Stat. 357. |
 
 **Editorial Notes**
 
@@ -51,11 +51,11 @@ During actual or threatened hostilities, proceeds from operating a public utilit
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7592. Radiograms and telegrams: forwarding charges due connecting commercial facilities
+## § 7592. Radiograms and telegrams: forwarding charges due connecting commercial facilities
 
 In the operation of telegraph lines, cables, or radio stations, members of the Signal Corps may, in the discretion of the Secretary of the Army, collect forwarding charges due connecting commercial telegraph or radio companies for sending radiograms or telegrams over their lines. Under such regulations as the Secretary may prescribe, they may present a voucher to a disbursing official for payment of the forwarding charge.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 257, § 4592; Pub. L. 97–258, § 2(b)(1)(A), Sept. 13, 1982, 96 Stat. 1052; Pub. L. 104–316, title I, § 105(e), Oct. 19, 1996, 110 Stat. 3830; renumbered § 7592, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 257, § 4592; Pub. L. 97–258, § 2(b)(1)(A), Sept. 13, 1982, 96 Stat. 1052; Pub. L. 104–316, title I, § 105(e), Oct. 19, 1996, 110 Stat. 3830; renumbered § 7592, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
@@ -71,7 +71,7 @@ The words “members of” are inserted for clarity. The words “Government”,
 
 2018—Pub. L. 115–232 renumbered section 4592 of this title as this section.
 
-1996—Pub. L. 104–316 substituted “of the forwarding” for “, or may file a claim with the General Accounting Office for the forwarding” in second sentence.
+1996—Pub. L. 104–316 substituted “of the forwarding” for “, or may file a claim with the General Accounting Office for the forwarding” in second sentence.
 
 1982—Pub. L. 97–258 substituted “official” for “officer”.
 
@@ -81,11 +81,11 @@ The words “members of” are inserted for clarity. The words “Government”,
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7593. Quarters: heat and light
+## § 7593. Quarters: heat and light
 
 The heat and light necessary for the authorized quarters of members of the Army shall be furnished at the expense of the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 257, § 4593; renumbered § 7593, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 257, § 4593; renumbered § 7593, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
@@ -107,7 +107,7 @@ The word “members” is substituted for the words “officers and enlisted men
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7594. Furnishing of heraldic services
+## § 7594. Furnishing of heraldic services
 
 **(a)** Under regulations to be prescribed by the Secretary of the Army, an authority designated by him may, upon the request of, and subject to approval by, the Secretary of another military department, design flags, insignia, badges, medals, seals, decorations, guidons, streamers, finial pieces for flagstaffs, buttons, buckles, awards, trophies, marks, emblems, rosettes, scrolls, braids, ribbons, knots, tabs, cords, and similar items for the requesting department.
 
@@ -115,7 +115,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(c)** The Secretary of the Army may prescribe regulations providing for reimbursement for services furnished under this section.
 
-(Added Pub. L. 85–263, § 1(1), Sept. 2, 1957, 71 Stat. 589, § 4594; renumbered § 7594, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 85–263, § 1(1), Sept. 2, 1957, 71 Stat. 589, § 4594; renumbered § 7594, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -131,9 +131,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date**
 
-Pub. L. 85–263, § 2, Sept. 2, 1957, 71 Stat. 589, provided that: “This Act [enacting this section] takes effect on the first day of the first month after the month in which it is enacted [September 1957].”
+Pub. L. 85–263, § 2, Sept. 2, 1957, 71 Stat. 589, provided that: “This Act [enacting this section] takes effect on the first day of the first month after the month in which it is enacted [September 1957].”
 
-## § 7595. Army Military History Institute: fee for providing historical information to the public
+## § 7595. Army Military History Institute: fee for providing historical information to the public
 
 **(a) Authority.—** Except as provided in subsection (b), the Secretary of the Army may charge a person a fee for providing the person with information from the United States Army Military History Institute that is requested by that person.
 
@@ -153,7 +153,7 @@ Pub. L. 85–263, § 2, Sept. 2, 1957, 71 Stat. 589, provided that: “This Ac
 
 **(2)** The terms “officer of the United States” and “employee of the United States” have the meanings given the terms “officer” and “employee”, respectively, in sections 2104 and 2105, respectively, of title 5.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1085(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–287, § 4595; renumbered § 7595, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1085(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–287, § 4595; renumbered § 7595, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -163,7 +163,7 @@ Prior sections 7601 to 7603 were renumbered sections 8801 to 8803 of this title,
 
 A prior section 7604 was renumbered section 8804 of this title.
 
-Another prior section 7604, acts Aug. 10, 1956, ch. 1041, 70A Stat. 471; Nov. 2, 1966, Pub. L. 89–718, § 44, 80 Stat. 1120, related to profit on sales from ships’ stores, prior to repeal by Pub. L. 101–510, § 329(a)(1).
+Another prior section 7604, acts Aug. 10, 1956, ch. 1041, 70A Stat. 471; Nov. 2, 1966, Pub. L. 89–718, § 44, 80 Stat. 1120, related to profit on sales from ships’ stores, prior to repeal by Pub. L. 101–510, § 329(a)(1).
 
 Prior sections 7605 and 7606 were renumbered sections 8805 and 8806 of this title, respectively.
 
@@ -177,7 +177,7 @@ Prior sections 7605 and 7606 were renumbered sections 8805 and 8806 of this titl
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7596. Provision of goods and services at Kwajalein Atoll
+## § 7596. Provision of goods and services at Kwajalein Atoll
 
 **(a) Authority.—**
 
@@ -195,7 +195,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(d) Regulations.—** The Secretary of the Army shall issue regulations to carry out this section.
 
-(Added Pub. L. 116–283, div. A, title XII, § 1299A(a), Jan. 1, 2021, 134 Stat. 3997.)
+(Added Pub. L. 116–283, div. A, title XII, § 1299A(a), Jan. 1, 2021, 134 Stat. 3997.)
 
 **Editorial Notes**
 
@@ -207,7 +207,7 @@ The Compact of Free Association between the Government of the United States and 
 
 **Designation of United States Army Garrison Kwajalein Atoll As Remote and Isolated Military Installation**
 
-Pub. L. 119–60, div. A, title VI, § 665, Dec. 18, 2025, 139 Stat. 917, provided that:
+Pub. L. 119–60, div. A, title VI, § 665, Dec. 18, 2025, 139 Stat. 917, provided that:
 
 > **“(a) Designation.—** Not later than 30 days after the date of the enactment of this Act [Dec. 18, 2025], the Under Secretary of Defense for Personnel and Readiness and the Secretary of the Army, in coordination with the Commander of the United States Army Pacific, shall designate United States Army Garrison Kwajalein Atoll as a remote and isolated military installation.
 

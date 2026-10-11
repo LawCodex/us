@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 12H—PACIFIC NORTHWEST ELECTRIC POWER PLANNING AND CONSERVATION
 
-## § 839. Congressional declaration of purpose
+## § 839. Congressional declaration of purpose
 
 The purposes of this chapter, together with the provisions of other laws applicable to the Federal Columbia River Power System, are all intended to be construed in a consistent manner. Such purposes are also intended to be construed in a manner consistent with applicable environmental laws. Such purposes are:
 
@@ -45,7 +45,7 @@ The purposes of this chapter, together with the provisions of other laws applica
 
 **(6)** to protect, mitigate and enhance the fish and wildlife, including related spawning grounds and habitat, of the Columbia River and its tributaries, particularly anadromous fish which are of significant importance to the social and economic well-being of the Pacific Northwest and the Nation and which are dependent on suitable environmental conditions substantially obtainable from the management and operation of the Federal Columbia River Power System and other power generating facilities on the Columbia River and its tributaries.
 
-(Pub. L. 96–501, § 2, Dec. 5, 1980, 94 Stat. 2697.)
+(Pub. L. 96–501, § 2, Dec. 5, 1980, 94 Stat. 2697.)
 
 **Editorial Notes**
 
@@ -57,13 +57,13 @@ This chapter, referred to in provision preceding par. (1) and in par. (5), was i
 
 **Effective Date**
 
-Pub. L. 96–501, § 11, Dec. 5, 1980, 94 Stat. 2735, provided that: “This Act [enacting this chapter, amending sections 837, 838i, and 838k of this title, and enacting provisions set out as notes under this section] shall be effective on the date of enactment [Dec. 5, 1980], or October 1, 1980, whichever is later. For purposes of this Act, the term ‘date of the enactment of this Act’ means such date of enactment [Dec. 5, 1980] or October 1, 1980, whichever is later.”
+Pub. L. 96–501, § 11, Dec. 5, 1980, 94 Stat. 2735, provided that: “This Act [enacting this chapter, amending sections 837, 838i, and 838k of this title, and enacting provisions set out as notes under this section] shall be effective on the date of enactment [Dec. 5, 1980], or October 1, 1980, whichever is later. For purposes of this Act, the term ‘date of the enactment of this Act’ means such date of enactment [Dec. 5, 1980] or October 1, 1980, whichever is later.”
 
 **Short Title**
 
-Pub. L. 96–501, § 1, Dec. 5, 1980, 94 Stat. 2697, provided in part that: “This Act [enacting this chapter, amending sections 837, 838i, and 838k of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Pacific Northwest Electric Power Planning and Conservation Act’.”
+Pub. L. 96–501, § 1, Dec. 5, 1980, 94 Stat. 2697, provided in part that: “This Act [enacting this chapter, amending sections 837, 838i, and 838k of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Pacific Northwest Electric Power Planning and Conservation Act’.”
 
-## § 839a. Definitions
+## § 839a. Definitions
 
 As used in this chapter, the term—
 
@@ -143,9 +143,9 @@ Such term does not include any resource acquired pursuant to section 838i(b)(6) 
 
 **(20)** “Secretary” means the Secretary of Energy.
 
-(Pub. L. 96–501, § 3, Dec. 5, 1980, 94 Stat. 2698.)
+(Pub. L. 96–501, § 3, Dec. 5, 1980, 94 Stat. 2698.)
 
-## § 839b. Regional planning and participation
+## § 839b. Regional planning and participation
 
 **(a) Pacific Northwest Electric Power and Conservation Planning Council; establishment and operation as regional agency**
 
@@ -175,9 +175,9 @@ the Secretary shall establish the Council pursuant to this subsection as a Feder
 
 **(2)** As soon as practicable, but not more than thirty days after the publication of the notice referred to in paragraph (1) of this subsection, and thereafter within forty-five days after a vacancy occurs, the Governors of the States of Washington, Oregon, Idaho, and Montana may each (under applicable State laws, if any) provide to the Secretary a list of nominations from such State for each of the State’s positions to be selected for such Council. The Secretary may extend this time an additional thirty days. The list shall include at least two persons for each such position. The list shall include such information about such nominees as the Secretary may request. The Secretary shall appoint the Council members from each Governor’s list of nominations for each State’s positions, except that the Secretary may decline to appoint for any reason any of a Governor’s nominees for a position and shall so notify the Governor. The Governor may thereafter make successive nominations within forty-five days of receipt of such notice until nominees acceptable to the Secretary are appointed for each position. In the event the Governor of any such State fails to make the required nominations for any State position on such Council within the time specified for such nominations, the Secretary shall select from such State and appoint the Council member or members for such position. The members of the Council shall select from among themselves one member of the Council as Chairman.
 
-**(3)** The members of the Council established by this subsection who are not employed by the United States or a State shall receive compensation at a rate equal to the rate prescribed for offices and positions at level GS–18 of the General Schedule for each day such members are engaged in the actual performance of duties as members of such Council, except that no such member may be paid more in any calendar year than an officer or employee at step 1 of level GS–18 is paid during such year. Members of such Council shall be considered officers or employees of the United States for purposes of title II of the Ethics in Government Act of 1978 (5 U.S.C. app.) 1
+**(3)** The members of the Council established by this subsection who are not employed by the United States or a State shall receive compensation at a rate equal to the rate prescribed for offices and positions at level GS–18 of the General Schedule for each day such members are engaged in the actual performance of duties as members of such Council, except that no such member may be paid more in any calendar year than an officer or employee at step 1 of level GS–18 is paid during such year. Members of such Council shall be considered officers or employees of the United States for purposes of title II of the Ethics in Government Act of 1978 (5 U.S.C. app.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and shall also be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in Government service are allowed expenses under section 5703 of title 5. Such Council may appoint, and assign duties to, an executive director who shall serve at the pleasure of such Council and who shall be compensated at the rate established for GS–18 of the General Schedule. The executive director shall exercise the powers and duties delegated to such director by such Council, including the power to appoint and fix compensation of additional personnel in accordance with applicable Federal law to carry out the functions and responsibilities of such Council.
 
@@ -411,15 +411,15 @@ The Council may from time to time review the actions of the Administrator pursua
 
 **(2)** The Administrator may determine that section 839a(4)(D) of this title shall not apply to any proposed conservation measure or resource if the Administrator finds after receipt of such analysis from the Council that such measure or resource would have any result or effect described in subparagraph (A), (B) or (C) of paragraph (1).
 
-(Pub. L. 96–501, § 4, Dec. 5, 1980, 94 Stat. 2700; Pub. L. 103–437, § 6(u), Nov. 2, 1994, 108 Stat. 4587; Pub. L. 104–206, title V, § 512, Sept. 30, 1996, 110 Stat. 3005; Pub. L. 106–60, title VI, § 610, Sept. 29, 1999, 113 Stat. 502; Pub. L. 112–74, div. B, title III, § 307, Dec. 23, 2011, 125 Stat. 877; Pub. L. 117–286, § 4(a)(104), Dec. 27, 2022, 136 Stat. 4317; Pub. L. 119–74, div. B, title III, § 312, Jan. 23, 2026, 140 Stat. 89.)
+(Pub. L. 96–501, § 4, Dec. 5, 1980, 94 Stat. 2700; Pub. L. 103–437, § 6(u), Nov. 2, 1994, 108 Stat. 4587; Pub. L. 104–206, title V, § 512, Sept. 30, 1996, 110 Stat. 3005; Pub. L. 106–60, title VI, § 610, Sept. 29, 1999, 113 Stat. 502; Pub. L. 112–74, div. B, title III, § 307, Dec. 23, 2011, 125 Stat. 877; Pub. L. 117–286, § 4(a)(104), Dec. 27, 2022, 136 Stat. 4317; Pub. L. 119–74, div. B, title III, § 312, Jan. 23, 2026, 140 Stat. 89.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Ethics in Government Act of 1978, referred to in subsec. (b)(3), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title II of the Act was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 101–194, title II, § 201, Nov. 30, 1989, 103 Stat. 1724. For complete classification of this Act to the Code, see Tables.
+The Ethics in Government Act of 1978, referred to in subsec. (b)(3), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title II of the Act was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 101–194, title II, § 201, Nov. 30, 1989, 103 Stat. 1724. For complete classification of this Act to the Code, see Tables.
 
-The Federal Columbia River Transmission System Act, referred to in subsecs. (c)(10)(A) and (h)(10)(B), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, which is classified generally to chapter 12G (§ 838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
+The Federal Columbia River Transmission System Act, referred to in subsecs. (c)(10)(A) and (h)(10)(B), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, which is classified generally to chapter 12G (§ 838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
 
 **Codification**
 
@@ -427,7 +427,7 @@ September 30, 1996, referred to in subsec. (h)(10)(D)(i), (ii), was in the origi
 
 **Amendments**
 
-2026—Subsec. (c)(10)(B). Pub. L. 119–74 substituted “, adjusted for inflation.” for period at end.
+2026—Subsec. (c)(10)(B). Pub. L. 119–74 substituted “, adjusted for inflation.” for period at end.
 
 2022—Subsec. (h)(10)(D)(iii). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act.”
 
@@ -455,19 +455,19 @@ For termination, effective May 15, 2000, of provisions in subsec. (h)(12)(A) of 
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 **Operation and Maintenance of Fish Passage Facilities Within the Yakima River Basin; Funding**
 
-Pub. L. 98–381, title I, § 109, Aug. 17, 1984, 98 Stat. 1340, provided that: “The Secretary of the Interior, acting pursuant to Federal reclamation law (Act of June 17, 1902, 32 Stat. 388 [see Short Title note under section 371 of Title 43, Public Lands], and Acts amendatory thereof and supplementary thereto) and in accordance with the Pacific Northwest Electric Power Planning and Conservation Act (94 Stat. 2697) [16 U.S.C. 839 et seq.] is authorized to design, construct, operate, and maintain fish passage facilities within the Yakima River Basin, and to accept funds from any entity, public or private, to design, construct, operate, and maintain such facilities.”
+Pub. L. 98–381, title I, § 109, Aug. 17, 1984, 98 Stat. 1340, provided that: “The Secretary of the Interior, acting pursuant to Federal reclamation law (Act of June 17, 1902, 32 Stat. 388 [see Short Title note under section 371 of Title 43, Public Lands], and Acts amendatory thereof and supplementary thereto) and in accordance with the Pacific Northwest Electric Power Planning and Conservation Act (94 Stat. 2697) [16 U.S.C. 839 et seq.] is authorized to design, construct, operate, and maintain fish passage facilities within the Yakima River Basin, and to accept funds from any entity, public or private, to design, construct, operate, and maintain such facilities.”
 
 **Executive Documents**
 
 **Change of Name**
 
-The Water and Power Resources Service, referred to in subsec. (h)(10)(C), changed to the Bureau of Reclamation on May 18, 1981. See 155 Dep’t of the Interior, Departmental Manual 1.1 (2008 repl.); Sec’y James G. Watt, Dep’t of the Interior, Secretarial Order 3064, §§ 3, 5 (May 18, 1981).
+The Water and Power Resources Service, referred to in subsec. (h)(10)(C), changed to the Bureau of Reclamation on May 18, 1981. See 155 Dep’t of the Interior, Departmental Manual 1.1 (2008 repl.); Sec’y James G. Watt, Dep’t of the Interior, Secretarial Order 3064, §§ 3, 5 (May 18, 1981).
 
-## § 839c. Sale of power
+## § 839c. Sale of power
 
 **(a) Preferences and priorities**
 
@@ -611,23 +611,23 @@ The Administrator is authorized to sell, or otherwise dispose of, electric power
 
 **(7)** The Administrator shall be deemed to have sufficient resources for the purpose of entering into the initial contracts specified in paragraph (1)(A) through (D).
 
-(Pub. L. 96–501, § 5, Dec. 5, 1980, 94 Stat. 2712; Pub. L. 106–273, § 1, Sept. 22, 2000, 114 Stat. 802.)
+(Pub. L. 96–501, § 5, Dec. 5, 1980, 94 Stat. 2712; Pub. L. 106–273, § 1, Sept. 22, 2000, 114 Stat. 802.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Bonneville Project Act of 1937, referred to in subsecs. (a), (b)(1), and (f), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, which is classified generally to chapter 12B (§ 832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 832 of this title and Tables.
+The Bonneville Project Act of 1937, referred to in subsecs. (a), (b)(1), and (f), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, which is classified generally to chapter 12B (§ 832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 832 of this title and Tables.
 
-The Federal Columbia River Transmission System Act, referred to in subsec. (f), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, which is classified generally to chapter 12G (§ 838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
+The Federal Columbia River Transmission System Act, referred to in subsec. (f), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, which is classified generally to chapter 12G (§ 838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
 
-Act of August 31, 1964, referred to in subsec. (f), is Pub. L. 88–552, Aug. 31, 1964, 78 Stat. 756, which is classified generally to chapter 12F (§ 837 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+Act of August 31, 1964, referred to in subsec. (f), is Pub. L. 88–552, Aug. 31, 1964, 78 Stat. 756, which is classified generally to chapter 12F (§ 837 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
 2000—Subsec. (b)(7). Pub. L. 106–273 added par. (7).
 
-## § 839d. Conservation and resource acquisition
+## § 839d. Conservation and resource acquisition
 
 **(a) Conservation measures; resources**
 
@@ -801,33 +801,33 @@ In the exercise of his authorities pursuant to this section, the Administrator s
 
 Except as to resources under construction on December 5, 1980, the Administrator shall determine in each case of a major resource acquisition that a reasonable share of the particular resource, or a reasonable equivalent, has been offered to each Pacific Northwest electric utility for ownership, participation, or other sponsorship, but not in excess of the amounts needed to meet such utility’s Regional load.
 
-(Pub. L. 96–501, § 6, Dec. 5, 1980, 94 Stat. 2717.)
+(Pub. L. 96–501, § 6, Dec. 5, 1980, 94 Stat. 2717.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c)(4)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c)(4)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Federal Columbia River Transmission System Act, referred to in subsecs. (c)(4)(C), (d), and (h)(6)(B), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, which is classified generally to chapter 12G (§ 838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
+The Federal Columbia River Transmission System Act, referred to in subsecs. (c)(4)(C), (d), and (h)(6)(B), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, which is classified generally to chapter 12G (§ 838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
 
-## § 839d–1. Federal projects in Pacific Northwest
+## § 839d–1. Federal projects in Pacific Northwest
 
 Without further appropriation and without fiscal year limitation, the Secretaries of the Interior and Army are authorized to plan, design, construct, operate and maintain generation additions, improvements and replacements, at their respective Federal projects in the Pacific Northwest Region as defined in the Pacific Northwest Electric Power Planning and Conservation Act (Northwest Power Act), Public Law 96–501 (16 U.S.C. 839a(14)), and to operate and maintain the respective Secretary’s power facilities in the Region, that the respective Secretary determines necessary or appropriate and that the Bonneville Power Administrator subsequently determines necessary or appropriate, with any funds that the Administrator determines to make available to the respective Secretary for such purposes. Each Secretary is authorized, without further appropriation, to accept and use such funds for such purposes: *Provided*, That, such funds shall continue to be exempt from sequestration pursuant to section 905(g)(1) of title 2: *Provided further*, That this section shall not modify or affect the applicability of any provision of the Northwest Power Act [16 U.S.C. 839 et seq.]. This provision shall be effective on October 1, 1993.
 
-(Pub. L. 102–486, title XXIV, § 2406, Oct. 24, 1992, 106 Stat. 3099.)
+(Pub. L. 102–486, title XXIV, § 2406, Oct. 24, 1992, 106 Stat. 3099.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Pacific Northwest Electric Power Planning and Conservation Act, referred to in text, is Pub. L. 96–501, Dec. 5, 1980, 94 Stat. 2697, which is classified principally to this chapter (§ 839 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 839 of this title and Tables.
+The Pacific Northwest Electric Power Planning and Conservation Act, referred to in text, is Pub. L. 96–501, Dec. 5, 1980, 94 Stat. 2697, which is classified principally to this chapter (§ 839 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 839 of this title and Tables.
 
 **Codification**
 
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the Pacific Northwest Electric Power Planning and Conservation Act which comprises this chapter.
 
-## § 839e. Rates
+## § 839e. Rates
 
 **(a) Establishment; periodic review and revision; confirmation and approval by Federal Energy Regulatory Commission**
 
@@ -869,9 +869,9 @@ and were the least expensive resources owned or purchased by public bodies or co
 
 **(i)** reduced public body and cooperative financing costs as applied to the total amount of resources, other than Federal base system resources, identified under subparagraph (D) of this paragraph, and
 
-**(ii)** reserve benefits as a result of the Administrator’s actions under this chapter 1
+**(ii)** reserve benefits as a result of the Administrator’s actions under this chapter 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 were not achieved.
 
@@ -979,25 +979,25 @@ In order to further the purposes of this chapter and to protect the consumers of
 
 Notwithstanding any other provision of this section, rates established by the Administrator, under this section shall recover costs for protection, mitigation and enhancement of fish and wildlife, whether under this chapter or any other Act, not to exceed such amounts the Administrator forecasts will be expended during the fiscal year 2002–2006 rate period, while preserving the Administrator’s ability to establish appropriate reserves and maintain a high Treasury payment probability for the subsequent rate period.
 
-(Pub. L. 96–501, § 7, Dec. 5, 1980, 94 Stat. 2723; Pub. L. 106–60, title III, § 316, Sept. 29, 1999, 113 Stat. 497.)
+(Pub. L. 96–501, § 7, Dec. 5, 1980, 94 Stat. 2723; Pub. L. 106–60, title III, § 316, Sept. 29, 1999, 113 Stat. 497.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Bonneville Project Act, referred to in subsec. (k), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, popularly known as the Bonneville Project Act of 1937, which is classified generally to chapter 12B (§ 832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 832 of this title and Tables.
+The Bonneville Project Act, referred to in subsec. (k), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, popularly known as the Bonneville Project Act of 1937, which is classified generally to chapter 12B (§ 832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 832 of this title and Tables.
 
 The Flood Control Act of 1944, referred to in subsec. (k), is act Dec. 22, 1944, ch. 665, 58 Stat. 887, which enacted sections 460d and 825s of this title, sections 701–1, 701a–1, 708, and 709 of Title 33, Navigation and Navigable Waters, and section 390 of Title 43, Public Lands, and enacted provisions set out as notes under sections 701c, 701f, and 701j of Title 33. For complete classification of this Act to the Code, see Tables. For provisions of the Act relating to sale of electric power, see section 825s of this title.
 
-The Federal Columbia River Transmission System Act, referred to in subsec. (k), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, which is classified generally to chapter 12G (§ 838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
+The Federal Columbia River Transmission System Act, referred to in subsec. (k), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, which is classified generally to chapter 12G (§ 838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
 
-The Federal Power Act, referred to in subsec. (k), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
+The Federal Power Act, referred to in subsec. (k), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
 **Amendments**
 
 1999—Subsec. (n). Pub. L. 106–60 added subsec. (n).
 
-## § 839f. Administrative provisions
+## § 839f. Administrative provisions
 
 **(a) Contract authority**
 
@@ -1057,15 +1057,15 @@ the Administrator shall provide transmission access, load factoring, storage and
 
 **(5)** Suits to challenge the constitutionality of this chapter, or any action thereunder, final actions and decisions taken pursuant to this chapter by the Administrator or the Council, or the implementation of such final actions, whether brought pursuant to this chapter, the Bonneville Project Act [16 U.S.C. 832 et seq.], the Act of August 31, 1964 (16 U.S.C. 837–837h), or the Federal Columbia River Transmission System Act (16 U.S.C. 838 and following), shall be filed in the United States court of appeals for the region. Such suits shall be filed within ninety days of the time such action or decision is deemed final, or, if notice of the action is required by this chapter to be published in the Federal Register, within ninety days from such notice, or be barred. In the case of a challenge of the plan or programs or amendments thereto, such suit shall be filed within sixty days after publication of a notice of such final action in the Federal Register. Such court shall have jurisdiction to hear and determine any suit brought as provided in this section. The plan and program, as finally adopted or portions thereof, or amendments thereto, shall not thereafter be reviewable as a part of any other action under this chapter or any other law. Suits challenging any other actions under this chapter shall be filed in the appropriate court.
 
-**(f) Tax treatment of interest on governmental obligations** For purposes of enabling the Administrator to acquire resources necessary to meet the firm load of public bodies, cooperatives, and Federal agencies from a governmental unit at a cost no greater than the cost which would be applicable in the absence of such acquisition, the exemption from gross income of interest on certain governmental obligations provided in section 103(a)(1) 1
+**(f) Tax treatment of interest on governmental obligations** For purposes of enabling the Administrator to acquire resources necessary to meet the firm load of public bodies, cooperatives, and Federal agencies from a governmental unit at a cost no greater than the cost which would be applicable in the absence of such acquisition, the exemption from gross income of interest on certain governmental obligations provided in section 103(a)(1) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 26 shall not be affected by the Administrator’s acquisition of such resources if—
 
-**(1)** the Administrator, prior to contracting for such acquisition, certifies to his reasonable belief, that the persons for whom the Administrator is acquiring such resources for sale pursuant to section 839c of this title are public bodies, cooperatives, and Federal agencies, unless the Administrator also certifies that he is unable to acquire such resources without selling a portion thereof to persons who are not exempt persons (as defined in section 103(b) <sup>1</sup> of title 26), and
+**(1)** the Administrator, prior to contracting for such acquisition, certifies to his reasonable belief, that the persons for whom the Administrator is acquiring such resources for sale pursuant to section 839c of this title are public bodies, cooperatives, and Federal agencies, unless the Administrator also certifies that he is unable to acquire such resources without selling a portion thereof to persons who are not exempt persons (as defined in section 103(b) <sup>1</sup> of title 26), and
 
-**(2)** based upon such certification, the Secretary of the Treasury determines in accordance with applicable regulations that less than a major portion of the resource is to be furnished to persons who are not exempt persons (as defined in section 103(b) <sup>1</sup> of title 26).
+**(2)** based upon such certification, the Secretary of the Treasury determines in accordance with applicable regulations that less than a major portion of the resource is to be furnished to persons who are not exempt persons (as defined in section 103(b) <sup>1</sup> of title 26).
 
 The certification under paragraph (1) shall be made in accordance with this subsection and a procedure and methodology approved by the Secretary of the Treasury. For purposes of this subsection, the term “major portion” shall have the meaning provided by regulations issued by the Secretary of the Treasury.
 
@@ -1077,17 +1077,17 @@ The certification under paragraph (1) shall be made in accordance with this subs
 
 **(h) Companies which own or operate facilities for the generation of electricity primarily for sale to Administrator**
 
-**(1)** No “company” (as defined in section 79b(a)(2) <sup>1</sup> of title 15), which owns or operates facilities for the generation of electricity (together with associated transmission and other facilities) primarily for sale to the Administrator under section 839d of this title shall be deemed an “electric utility company” (as defined in section 79b(a)(3) <sup>1</sup> of title 15), within the meaning of any provision or provisions of chapter 2C <sup>1</sup> of title 15, if at least 90 per centum of the electricity generated by such company is sold to the Administrator under section 839d of this title, and if—
+**(1)** No “company” (as defined in section 79b(a)(2) <sup>1</sup> of title 15), which owns or operates facilities for the generation of electricity (together with associated transmission and other facilities) primarily for sale to the Administrator under section 839d of this title shall be deemed an “electric utility company” (as defined in section 79b(a)(3) <sup>1</sup> of title 15), within the meaning of any provision or provisions of chapter 2C <sup>1</sup> of title 15, if at least 90 per centum of the electricity generated by such company is sold to the Administrator under section 839d of this title, and if—
 
-**(A)** the organization of such company is consistent with the policies of section 79a(b) and (c) <sup>1</sup> of title 15, as determined by the Securities and Exchange Commission, with the concurrence of the Administrator, at the time of such organization; and
+**(A)** the organization of such company is consistent with the policies of section 79a(b) and (c) <sup>1</sup> of title 15, as determined by the Securities and Exchange Commission, with the concurrence of the Administrator, at the time of such organization; and
 
 **(B)** participation in any facilities of such “company” has been offered to public bodies and cooperatives in the region pursuant to section 839d(m) of this title.
 
 **(2)** The Administrator shall include in any contract for the acquisition of a major resource from such “company” provisions limiting the amount of equity investment, if any, in such “company” to that which the Administrator determines will be consistent with achieving the lowest attainable power costs attributable to such major resource.
 
-**(3)** In the case of any “company” which meets the requirements of paragraph (1), the Administrator, with the concurrence of such Commission, shall approve all significant contracts entered into by, and between, such “company” and any sponsor company or any subsidiary of such sponsor company which are determined to be consistent with the policies of section 79a(b) and (c) <sup>1</sup> of title 15 at the time such contracts are entered into. The Administrator and the Securities and Exchange Commission shall exercise such approval authority within sixty days after receipt of such contracts. Such contracts shall not be effective without such approval.
+**(3)** In the case of any “company” which meets the requirements of paragraph (1), the Administrator, with the concurrence of such Commission, shall approve all significant contracts entered into by, and between, such “company” and any sponsor company or any subsidiary of such sponsor company which are determined to be consistent with the policies of section 79a(b) and (c) <sup>1</sup> of title 15 at the time such contracts are entered into. The Administrator and the Securities and Exchange Commission shall exercise such approval authority within sixty days after receipt of such contracts. Such contracts shall not be effective without such approval.
 
-**(4)** Paragraph (1) of this subsection shall continue to apply to any such “company” unless the Administrator or the Securities and Exchange Commission, or both, through periodic review, (A) determine at any time that the “company” no longer operates in a manner consistent with the policies of section 79a(b) and (c) <sup>1</sup> of title 15 and in accordance with this subsection, and (B) notify the “company” in writing of such preliminary determination. This subsection shall cease to apply to such “company” thirty days after receipt of notification of a final determination thereof. A final determination shall be made only after public notice of the preliminary determination and after a hearing completed not later than sixty days from the date of publication of such notice. Such final determination shall be made within thirty days after the date of completion of such hearing.
+**(4)** Paragraph (1) of this subsection shall continue to apply to any such “company” unless the Administrator or the Securities and Exchange Commission, or both, through periodic review, (A) determine at any time that the “company” no longer operates in a manner consistent with the policies of section 79a(b) and (c) <sup>1</sup> of title 15 and in accordance with this subsection, and (B) notify the “company” in writing of such preliminary determination. This subsection shall cease to apply to such “company” thirty days after receipt of notification of a final determination thereof. A final determination shall be made only after public notice of the preliminary determination and after a hearing completed not later than sixty days from the date of publication of such notice. Such final determination shall be made within thirty days after the date of completion of such hearing.
 
 **(i) Electric power acquisition or disposition**
 
@@ -1111,21 +1111,21 @@ The certification under paragraph (1) shall be made in accordance with this subs
 
 There is hereby established within the administration an executive position for conservation and renewable resources. Such executive shall be appointed by the Administrator and shall be assigned responsibility for conservation and direct-application renewable resource programs (including the administration of financial assistance for such programs). Such position is hereby established in the senior executive service in addition to the number of such positions heretofore established in accordance with other provisions of law applicable to such positions.
 
-(Pub. L. 96–501, § 9, Dec. 5, 1980, 94 Stat. 2729; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 96–501, § 9, Dec. 5, 1980, 94 Stat. 2729; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Bonneville Project Act of 1937, referred to in subsecs. (b) and (e)(5), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, which is classified generally to chapter 12B (§ 832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 832 of this title and Tables.
+The Bonneville Project Act of 1937, referred to in subsecs. (b) and (e)(5), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, which is classified generally to chapter 12B (§ 832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 832 of this title and Tables.
 
-Act of August 31, 1964, referred to in subsec. (e)(5), is Pub. L. 88–552, Aug. 31, 1964, 78 Stat. 756, which is classified generally to chapter 12F (§ 837 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+Act of August 31, 1964, referred to in subsec. (e)(5), is Pub. L. 88–552, Aug. 31, 1964, 78 Stat. 756, which is classified generally to chapter 12F (§ 837 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
-The Federal Columbia River Transmission System Act, referred to in subsec. (e)(5), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, which is classified generally to chapter 12G (§ 838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
+The Federal Columbia River Transmission System Act, referred to in subsec. (e)(5), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, which is classified generally to chapter 12G (§ 838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 838 of this title and Tables.
 
-Section 103 of title 26, referred to in subsec. (f), which related to interest on certain governmental obligations was amended generally by Pub. L. 99–514, title XIII, § 1301(a), Oct. 22, 1986, 100 Stat. 2602, and as so amended relates to interest on State and local bonds. Section 103(b)(3), which prior to the general amendment defined exempt persons, relates to the applicability of the interest exclusion to bonds not in registered form, etc.
+Section 103 of title 26, referred to in subsec. (f), which related to interest on certain governmental obligations was amended generally by Pub. L. 99–514, title XIII, § 1301(a), Oct. 22, 1986, 100 Stat. 2602, and as so amended relates to interest on State and local bonds. Section 103(b)(3), which prior to the general amendment defined exempt persons, relates to the applicability of the interest exclusion to bonds not in registered form, etc.
 
-Chapter 2C of title 15, referred to in subsec. (h), contained the Public Utility Holding Company Act of 1935, act Aug. 26, 1935, ch. 687, title I, 49 Stat. 803, and consisted of section 79 et seq. of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
+Chapter 2C of title 15, referred to in subsec. (h), contained the Public Utility Holding Company Act of 1935, act Aug. 26, 1935, ch. 687, title I, 49 Stat. 803, and consisted of section 79 et seq. of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
 
 The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (j)(1), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117. For complete classification of this Act to Code, see Short Title note set out under section 2601 of this title and Tables.
 
@@ -1133,7 +1133,7 @@ The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (j)(1
 
 1986—Subsec. (f). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-## § 839g. Savings provisions
+## § 839g. Savings provisions
 
 **(a) Rights of States and political subdivisions of States** Nothing in this chapter shall be construed to affect or modify any right of any State or political subdivision thereof or electric utility to—
 
@@ -1175,10 +1175,10 @@ Nothing in this chapter shall be construed as authorizing the appropriation of w
 
 Nothing in this chapter shall be construed to affect the validity of any existing license, permit, or certificate issued by any Federal agency pursuant to any other Federal law.
 
-(Pub. L. 96–501, § 10, Dec. 5, 1980, 94 Stat. 2734.)
+(Pub. L. 96–501, § 10, Dec. 5, 1980, 94 Stat. 2734.)
 
-## § 839h. Separability
+## § 839h. Separability
 
 If any provision of section 839b(a) through (c) of this title or any other provision of this chapter or the application thereof to any person, State, Indian tribe, entity, or circumstance is held invalid, neither the remainder of section 839b of this title or any other provisions of this chapter, nor the application of such provisions to other persons, States, Indian tribes, entities, or circumstances, shall be affected thereby.
 
-(Pub. L. 96–501, § 12, Dec. 5, 1980, 94 Stat. 2736.)
+(Pub. L. 96–501, § 12, Dec. 5, 1980, 94 Stat. 2736.)

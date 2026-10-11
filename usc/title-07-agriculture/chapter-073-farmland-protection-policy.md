@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 73—FARMLAND PROTECTION POLICY
 
-## § 4201. General provisions
+## § 4201. General provisions
 
 **(a) Congressional statement of findings** Congress finds that—
 
@@ -55,7 +55,7 @@ The purpose of this chapter is to minimize the extent to which Federal programs 
 
 **(5)** the term “Secretary” means the Secretary of Agriculture.
 
-(Pub. L. 97–98, title XV, § 1540, Dec. 22, 1981, 95 Stat. 1341.)
+(Pub. L. 97–98, title XV, § 1540, Dec. 22, 1981, 95 Stat. 1341.)
 
 **Editorial Notes**
 
@@ -67,15 +67,15 @@ The effective date of this chapter, referred to in subsec. (c)(4), is six months
 
 **Effective Date**
 
-Pub. L. 97–98, title XV, § 1549, Dec. 22, 1981, 95 Stat. 1344, provided that: “The provisions of this subtitle [subtitle I (§§ 1539–1549) of title XV of Pub. L. 97–98, enacting this chapter] shall become effective six months after the date of enactment of this Act [Dec. 22, 1981].”
+Pub. L. 97–98, title XV, § 1549, Dec. 22, 1981, 95 Stat. 1344, provided that: “The provisions of this subtitle [subtitle I (§§ 1539–1549) of title XV of Pub. L. 97–98, enacting this chapter] shall become effective six months after the date of enactment of this Act [Dec. 22, 1981].”
 
 **Short Title**
 
-Pub. L. 97–98, title XV, § 1539, Dec. 22, 1981, 95 Stat. 1341, provided that: “This subtitle [subtitle I (§§ 1539–1549) of title XV of Pub. L. 97–98, enacting this chapter] may be cited as the ‘Farmland Protection Policy Act’.”
+Pub. L. 97–98, title XV, § 1539, Dec. 22, 1981, 95 Stat. 1341, provided that: “This subtitle [subtitle I (§§ 1539–1549) of title XV of Pub. L. 97–98, enacting this chapter] may be cited as the ‘Farmland Protection Policy Act’.”
 
 **Farmland Protection**
 
-Pub. L. 101–624, title XIV, ch. 2, §§ 1465–1470B, Nov. 28, 1990, 104 Stat. 3616–3619, as amended by Pub. L. 102–237, title II, §§ 201(b), (c), 203, Dec. 13, 1991, 105 Stat. 1847, 1848, provided that:
+Pub. L. 101–624, title XIV, ch. 2, §§ 1465–1470B, Nov. 28, 1990, 104 Stat. 3616–3619, as amended by Pub. L. 102–237, title II, §§ 201(b), (c), 203, Dec. 13, 1991, 105 Stat. 1847, 1848, provided that:
 
 > **“SEC. 1465. SHORT TITLE, PURPOSE, AND DEFINITION.**
 
@@ -247,7 +247,7 @@ Pub. L. 101–624, title XIV, ch. 2, §§ 1465–1470B, Nov. 28, 1990, 104 Sta
 
 [Amendment by section 201(b), (c) of Pub. L. 102–237 to sections 1466 and 1470 of Pub. L. 101–624, set out above, effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(1) of Pub. L. 102–237, set out as an Effective Date of 1991 Amendment note under section 1421 of this title.]
 
-Pub. L. 102–341, title VII, § 730, Aug. 14, 1992, 106 Stat. 909, provided that: “For loan guarantees authorized under sections 1465–1469 of Public Law 101–624 [set out above] for the Agricultural Resource Conservation Demonstration Program, $10,000,000. For the cost, as defined in section 502 of the Congressional Budget Act of 1974 [2 U.S.C. 661a], $3,644,000: *Provided*, That, hereafter, no other funds are available in this or any other Act to carry out this program, other than those provided for in advance in Appropriations Acts, except for the cost of administering the program: *Provided further*, That such limitation shall not apply with respect to the duties and obligations of the Secretary regarding any loan or note guarantees, interest assistance agreements, or other understandings entered into during fiscal year 1992, and the personnel of the Department shall carry out the duties and obligations of the Secretary, and any other requirements imposed on the Secretary regarding such Agricultural Resource Conservation Demonstration Loan Program with respect to the loan made and guaranteed in 1992.”
+Pub. L. 102–341, title VII, § 730, Aug. 14, 1992, 106 Stat. 909, provided that: “For loan guarantees authorized under sections 1465–1469 of Public Law 101–624 [set out above] for the Agricultural Resource Conservation Demonstration Program, $10,000,000. For the cost, as defined in section 502 of the Congressional Budget Act of 1974 [2 U.S.C. 661a], $3,644,000: *Provided*, That, hereafter, no other funds are available in this or any other Act to carry out this program, other than those provided for in advance in Appropriations Acts, except for the cost of administering the program: *Provided further*, That such limitation shall not apply with respect to the duties and obligations of the Secretary regarding any loan or note guarantees, interest assistance agreements, or other understandings entered into during fiscal year 1992, and the personnel of the Department shall carry out the duties and obligations of the Secretary, and any other requirements imposed on the Secretary regarding such Agricultural Resource Conservation Demonstration Loan Program with respect to the loan made and guaranteed in 1992.”
 
 **Executive Documents**
 
@@ -255,7 +255,7 @@ Pub. L. 102–341, title VII, § 730, Aug. 14, 1992, 106 Stat. 909, provided t
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 4202. Identifying effects of Federal programs on conversion of farmland to nonagricultural uses
+## § 4202. Identifying effects of Federal programs on conversion of farmland to nonagricultural uses
 
 **(a) Development of criteria to identify**
 
@@ -269,7 +269,7 @@ Departments, agencies, independent commissions, and other units of the Federal G
 
 The Department of Agriculture may make available to States, units of local government, individuals, organizations, and other units of the Federal Government information useful in restoring, maintaining, and improving the quantity and quality of farmland.
 
-(Pub. L. 97–98, title XV, § 1541, Dec. 22, 1981, 95 Stat. 1342; Pub. L. 101–624, title XIV, § 1454, Nov. 28, 1990, 104 Stat. 3614.)
+(Pub. L. 97–98, title XV, § 1541, Dec. 22, 1981, 95 Stat. 1342; Pub. L. 101–624, title XIV, § 1454, Nov. 28, 1990, 104 Stat. 3614.)
 
 **Editorial Notes**
 
@@ -283,13 +283,13 @@ The Department of Agriculture may make available to States, units of local gover
 
 Section effective six months after Dec. 22, 1981, see section 1549 of Pub. L. 97–98, set out as a note under section 4201 of this title.
 
-## § 4203. Existing policies and procedures; review, etc.
+## § 4203. Existing policies and procedures; review, etc.
 
 **(a)** Each department, agency, independent commission, or other unit of the Federal Government, with the assistance of the Department of Agriculture, shall review current provisions of law, administrative rules and regulations, and policies and procedures applicable to it to determine whether any provision thereof will prevent such unit of the Federal Government from taking appropriate action to comply fully with the provisions of this chapter.
 
 **(b)** Each department, agency, independent commission, or other unit of the Federal Government, with the assistance of the Department of Agriculture, shall, as appropriate, develop proposals for action to bring its programs, authorities, and administrative activities into conformity with the purpose and policy of this chapter.
 
-(Pub. L. 97–98, title XIV, § 1542, Dec. 22, 1981, 95 Stat. 1343.)
+(Pub. L. 97–98, title XIV, § 1542, Dec. 22, 1981, 95 Stat. 1343.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -297,11 +297,11 @@ Section effective six months after Dec. 22, 1981, see section 1549 of Pub. L. 97
 
 Section effective six months after Dec. 22, 1981, see section 1549 of Pub. L. 97–98, set out as a note under section 4201 of this title.
 
-## § 4204. Technical assistance
+## § 4204. Technical assistance
 
 The Secretary is encouraged to provide technical assistance to any State or unit of local government, or any nonprofit organization, as determined by the Secretary, that desires to develop programs or policies to limit the conversion of productive farmland to nonagricultural uses.
 
-(Pub. L. 97–98, title XV, § 1543, Dec. 22, 1981, 95 Stat. 1343.)
+(Pub. L. 97–98, title XV, § 1543, Dec. 22, 1981, 95 Stat. 1343.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -309,13 +309,13 @@ The Secretary is encouraged to provide technical assistance to any State or unit
 
 Section effective six months after Dec. 22, 1981, see section 1549 of Pub. L. 97–98, set out as a note under section 4201 of this title.
 
-## § 4205. Farmland resource information
+## § 4205. Farmland resource information
 
 **(a)** The Secretary, through existing agencies or interagency groups, and in cooperation with the cooperative extension services of the States, shall design and implement educational programs and materials emphasizing the importance of productive farmland to the Nation’s well-being and distribute educational materials through communications media, schools, groups, and other Federal agencies.
 
 **(b)** The Secretary shall designate one or more farmland information centers to serve as central depositories and distribution points for information on farmland issues, policies, programs, technical principles, and innovative actions or proposals by local and State governments.
 
-(Pub. L. 97–98, title XV, § 1544, Dec. 22, 1981, 95 Stat. 1343.)
+(Pub. L. 97–98, title XV, § 1544, Dec. 22, 1981, 95 Stat. 1343.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -323,11 +323,11 @@ Section effective six months after Dec. 22, 1981, see section 1549 of Pub. L. 97
 
 Section effective six months after Dec. 22, 1981, see section 1549 of Pub. L. 97–98, set out as a note under section 4201 of this title.
 
-## § 4206. Grants, contracts, etc., authority
+## § 4206. Grants, contracts, etc., authority
 
 The Secretary may carry out the purposes of this chapter, with existing facilities and funds otherwise available, through the use of grants, contracts, or such other means as the Secretary deems appropriate.
 
-(Pub. L. 97–98, title XV, § 1545, Dec. 22, 1981, 95 Stat. 1343.)
+(Pub. L. 97–98, title XV, § 1545, Dec. 22, 1981, 95 Stat. 1343.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -335,11 +335,11 @@ The Secretary may carry out the purposes of this chapter, with existing faciliti
 
 Section effective six months after Dec. 22, 1981, see section 1549 of Pub. L. 97–98, set out as a note under section 4201 of this title.
 
-## § 4207. Reporting requirement
+## § 4207. Reporting requirement
 
 On January 1, 1987, and at the beginning of each subsequent calendar year.1
 
-<sup>1</sup>  So in original. The period probably should be a comma.
+<sup>1</sup> So in original. The period probably should be a comma.
 
 the Secretary of Agriculture shall report to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives on the progress made in implementing the provisions of this chapter. Such report shall include information on—
 
@@ -347,7 +347,7 @@ the Secretary of Agriculture shall report to the Committee on Agriculture, Nutri
 
 **(2)** the results of the reviews of existing policies and procedures required under section 4203(a) of this title.
 
-(Pub. L. 97–98, title XV, § 1546, Dec. 22, 1981, 95 Stat. 1343; Pub. L. 99–198, title XII, § 1255(a), Dec. 23, 1985, 99 Stat. 1518.)
+(Pub. L. 97–98, title XV, § 1546, Dec. 22, 1981, 95 Stat. 1343; Pub. L. 99–198, title XII, § 1255(a), Dec. 23, 1985, 99 Stat. 1518.)
 
 **Editorial Notes**
 
@@ -361,13 +361,13 @@ the Secretary of Agriculture shall report to the Committee on Agriculture, Nutri
 
 Section effective six months after Dec. 22, 1981, see section 1549 of Pub. L. 97–98, set out as a note under section 4201 of this title.
 
-## § 4208. Limitations
+## § 4208. Limitations
 
 **(a)** This chapter does not authorize the Federal Government in any way to regulate the use of private or non-Federal land, or in any way affect the property rights of owners of such land.
 
 **(b)** None of the provisions or other requirements of this chapter shall apply to the acquisition or use of farmland for national defense purposes during a national emergency.
 
-(Pub. L. 97–98, title XV, § 1547, Dec. 22, 1981, 95 Stat. 1344; Pub. L. 101–624, title XXV, § 2502, Nov. 28, 1990, 104 Stat. 4066.)
+(Pub. L. 97–98, title XV, § 1547, Dec. 22, 1981, 95 Stat. 1344; Pub. L. 101–624, title XXV, § 2502, Nov. 28, 1990, 104 Stat. 4066.)
 
 **Editorial Notes**
 
@@ -381,11 +381,11 @@ Section effective six months after Dec. 22, 1981, see section 1549 of Pub. L. 97
 
 Section effective six months after Dec. 22, 1981, see section 1549 of Pub. L. 97–98, set out as a note under section 4201 of this title.
 
-## § 4209. Prohibition on maintenance of actions
+## § 4209. Prohibition on maintenance of actions
 
 This chapter shall not be deemed to provide a basis for any action, either legal or equitable, by any person or class of persons challenging a Federal project, program, or other activity that may affect farmland: *Provided*, That the Governor of an affected State where a State policy or program exists to protect farmland may bring an action in the Federal district court of the district where a Federal program is proposed to enforce the requirements of section 4202 of this title and regulations issued pursuant thereto.
 
-(Pub. L. 97–98, title XV, § 1548, Dec. 22, 1981, 95 Stat. 1344; Pub. L. 99–198, title XII, § 1255(b), Dec. 23, 1985, 99 Stat. 1518.)
+(Pub. L. 97–98, title XV, § 1548, Dec. 22, 1981, 95 Stat. 1344; Pub. L. 99–198, title XII, § 1255(b), Dec. 23, 1985, 99 Stat. 1518.)
 
 **Editorial Notes**
 

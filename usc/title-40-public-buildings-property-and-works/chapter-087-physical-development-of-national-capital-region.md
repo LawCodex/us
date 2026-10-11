@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL
 
-### § 8701. Findings and purposes
+### § 8701. Findings and purposes
 
 **(a) Findings.—** Congress finds that—
 
@@ -57,7 +57,7 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8701(a) | 40:71(a) (2d sentence). | June 6, 1924, ch. 270, § 1(a), 43 Stat. 463; Apr. 30, 1926, ch. 198, 44 Stat. 374; May 24, 1928, ch. 726, 45 Stat. 726; July 19, 1952, ch. 949, § 1, 66 Stat. 781. |
+| 8701(a) | 40:71(a) (2d sentence). | June 6, 1924, ch. 270, § 1(a), 43 Stat. 463; Apr. 30, 1926, ch. 198, 44 Stat. 374; May 24, 1928, ch. 726, 45 Stat. 726; July 19, 1952, ch. 949, § 1, 66 Stat. 781. |
 | 8701(b)(1) | 40:71(a) (1st sentence). |  |
 | 8701(b)(2) | 40:71(a) (last sentence). |  |
 
@@ -65,7 +65,7 @@ In subsection (a)(7), the words “from time to time” are omitted as unnecessa
 
 In subsection (b), the text of 40:72a, restated as section 8732 of the revised title, is included in the purposes and objectives of this chapter because by its terms, the authority of the National Capital Planning Commission is enlarged as provided in that section.
 
-### § 8702. Definitions
+### § 8702. Definitions
 
 In this chapter—
 
@@ -91,7 +91,7 @@ In this chapter—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8702 | 40:71(b). | June 6, 1924, ch. 270, § 1(b), 43 Stat. 463; Apr. 30, 1926, ch. 198, 44 Stat. 374; May 24, 1928, ch. 726, 45 Stat. 726; July 19, 1952, ch. 949, § 1, 66 Stat. 782. |
+| 8702 | 40:71(b). | June 6, 1924, ch. 270, § 1(b), 43 Stat. 463; Apr. 30, 1926, ch. 198, 44 Stat. 374; May 24, 1928, ch. 726, 45 Stat. 726; July 19, 1952, ch. 949, § 1, 66 Stat. 782. |
 
 In clause (3)(D), the words “now or hereafter existing” are omitted as unnecessary.
 
@@ -99,7 +99,7 @@ In clause (4), the words “whether or not its jurisdiction is exclusive or conc
 
 ## SUBCHAPTER II—PLANNING AGENCIES
 
-### § 8711. National Capital Planning Commission
+### § 8711. National Capital Planning Commission
 
 **(a) Establishment and Purpose.—** The National Capital Planning Commission is the central federal planning agency for the Federal Government in the National Capital, created to preserve the important historical and natural features of the National Capital, except for the United States Capitol Buildings and Grounds (as defined and described in sections 5101 and 5102 of this title), any extension of, or additions to, those Buildings and Grounds, and buildings and grounds under the care of the Architect of the Capitol.
 
@@ -133,18 +133,18 @@ In clause (4), the words “whether or not its jurisdiction is exclusive or conc
 
 **(h) Fees.—** The National Capital Planning Commission may charge fees to cover the full cost of Geographic Information System products and services the Commission supplies. The fees shall be credited to the applicable appropriation account as an offsetting collection and remain available until expended.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1217; Pub. L. 109–284, § 6(27), Sept. 27, 2006, 120 Stat. 1213; Pub. L. 111–350, § 5(*l*)(23), Jan. 4, 2011, 124 Stat. 3852.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1217; Pub. L. 109–284, § 6(27), Sept. 27, 2006, 120 Stat. 1213; Pub. L. 111–350, § 5(*l*)(23), Jan. 4, 2011, 124 Stat. 3852.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8711(a) | 40:71a(a)(1). | June 6, 1924, ch. 270, § 2(a)(1), (b), (c), (e), as added July 19, 1952, ch. 949, § 1, 66 Stat. 782; Sept. 25, 1962, Pub. L. 87–683, 76 Stat. 575; Dec. 24, 1973, Pub. L. 93–198, title II, § 203(a), (b), 87 Stat. 779, 782. |
+| 8711(a) | 40:71a(a)(1). | June 6, 1924, ch. 270, § 2(a)(1), (b), (c), (e), as added July 19, 1952, ch. 949, § 1, 66 Stat. 782; Sept. 25, 1962, Pub. L. 87–683, 76 Stat. 575; Dec. 24, 1973, Pub. L. 93–198, title II, § 203(a), (b), 87 Stat. 779, 782. |
 | 8711(b) | 40:71a(b). |  |
 | 8711(c), (d) | 40:71a(c). |  |
 | 8711(e) | 40:71a(e). |  |
-| 8711(f) | 40:71h. | June 6, 1924, ch. 270, § 9, as added July 19, 1952, ch. 949, § 1, 66 Stat. 790. |
-| 8711(g) | 40:74. | June 6, 1924, ch. 270, § 13, formerly § 4, 43 Stat. 464; renumbered § 13, July 19, 1952, ch. 949, § 2 (1st sentence), 66 Stat. 791; Pub. L. 94–273, § 21, Apr. 21, 1976, 90 Stat. 379. |
+| 8711(f) | 40:71h. | June 6, 1924, ch. 270, § 9, as added July 19, 1952, ch. 949, § 1, 66 Stat. 790. |
+| 8711(g) | 40:74. | June 6, 1924, ch. 270, § 13, formerly § 4, 43 Stat. 464; renumbered § 13, July 19, 1952, ch. 949, § 2 (1st sentence), 66 Stat. 791; Pub. L. 94–273, § 21, Apr. 21, 1976, 90 Stat. 379. |
 | 8711(h) | 40:71a note. | Pub. L. 105–83, (last proviso in par. under heading “National Capital Planning Commission”), Nov. 14, 1997, 111 Stat. 1589. |
 
 In this chapter, the word “Mayor” is substituted for “Commissioners” [meaning the Board of Commissioners of the District of Columbia] [subsequently changed to “Commissioner” [meaning the Commissioner of the District of Columbia] because of section 401 of Reorganization Plan No. 3 of 1967 (eff. Nov. 3, 1967, 81 Stat. 951)] because of section 421 of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 789). The words “Council of the District of Columbia” are substituted for “Board of Commissioners of the District of Columbia” [subsequently changed to “District of Columbia Council” because of section 402(21), (28), (32), and (199) of Reorganization Plan No. 3 of 1967 (eff. Nov. 3, 1967, 81 Stat. 952, 953, 963)] because of sections 401 and 404(a) of the Act (87 Stat. 785, 787).
@@ -173,7 +173,7 @@ In subsection (h), the words “beginning in fiscal year 1998 and thereafter” 
 
 Act of March 2, 1893, referred to in subsec. (f), is act Mar. 2, 1893, ch. 197, 27 Stat. 532, which is not classified to the Code.
 
-Act of June 6, 1924, referred to in subsec. (f), is act June 6, 1924, ch. 270, 43 Stat. 463, which enacted sections 71 to 71i, 72, 73, and 74 of former Title 40, Public Buildings, Property, and Works. Sections 71, 71a, 71c, 71d, 71f to 71i, 72, 73, and 74 of former Title 40 were repealed and reenacted as sections 8701, 8702, 8711, 8721 to 8724, 8731, and 8737 of this title by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. Section 71b of former Title 40 was repealed by Pub. L. 107–217. Section 71e of former Title 40 was repealed by Pub. L. 93–198, title II, § 203(e), Dec. 24, 1973, 87 Stat. 782. For complete classification of this Act to the Code, see Tables.
+Act of June 6, 1924, referred to in subsec. (f), is act June 6, 1924, ch. 270, 43 Stat. 463, which enacted sections 71 to 71i, 72, 73, and 74 of former Title 40, Public Buildings, Property, and Works. Sections 71, 71a, 71c, 71d, 71f to 71i, 72, 73, and 74 of former Title 40 were repealed and reenacted as sections 8701, 8702, 8711, 8721 to 8724, 8731, and 8737 of this title by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. Section 71b of former Title 40 was repealed by Pub. L. 107–217. Section 71e of former Title 40 was repealed by Pub. L. 93–198, title II, § 203(e), Dec. 24, 1973, 87 Stat. 782. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
@@ -201,15 +201,15 @@ Pub. L. 107–63, title II, Nov. 5, 2001, 115 Stat. 464.
 
 Pub. L. 106–291, title II, Oct. 11, 2000, 114 Stat. 986.
 
-Pub. L. 106–113, div. B, § 1000(a)(3), [title II], Nov. 29, 1999, 113 Stat. 1535, 1501A–189.
+Pub. L. 106–113, div. B, § 1000(a)(3), [title II], Nov. 29, 1999, 113 Stat. 1535, 1501A–189.
 
-Pub. L. 105–277, div. A, § 101(e) [title II], Oct. 21, 1998, 112 Stat. 2681–231, 2681–285.
+Pub. L. 105–277, div. A, § 101(e) [title II], Oct. 21, 1998, 112 Stat. 2681–231, 2681–285.
 
 Pub. L. 105–83, title II, Nov. 14, 1997, 111 Stat. 1589.
 
-Pub. L. 104–208, div. A, title I, § 101(d) [title II], Sept. 30, 1996, 110 Stat. 3009–181, 3009–219.
+Pub. L. 104–208, div. A, title I, § 101(d) [title II], Sept. 30, 1996, 110 Stat. 3009–181, 3009–219.
 
-Pub. L. 104–134, title I, § 101(c) [title II], Apr. 26, 1996, 110 Stat. 1321–195; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+Pub. L. 104–134, title I, § 101(c) [title II], Apr. 26, 1996, 110 Stat. 1321–195; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
 Pub. L. 103–332, title II, Sept. 30, 1994, 108 Stat. 2535.
 
@@ -217,7 +217,7 @@ Pub. L. 103–138, title II, Nov. 11, 1993, 107 Stat. 1414.
 
 Pub. L. 102–381, title II, Oct. 5, 1992, 106 Stat. 1414.
 
-### § 8712. Mayor of the District of Columbia
+### § 8712. Mayor of the District of Columbia
 
 **(a) Planning Responsibilities.—** The Mayor of the District of Columbia is the central planning agency for the government of the District of Columbia in the National Capital and is responsible for coordinating the planning activities of the District government and for preparing and implementing the District elements of the comprehensive plan for the National Capital, which may include land use elements, urban renewal and redevelopment elements, a multiyear program of public works for the District, and physical, social, economic, transportation, and population elements. The Mayor’s planning responsibility shall not extend to—
 
@@ -227,13 +227,13 @@ Pub. L. 102–381, title II, Oct. 5, 1992, 106 Stat. 1414.
 
 **(b) Participation and Consultation.—** In carrying out the responsibilities under this section and section 8721 of this title, the Mayor shall establish procedures for citizen participation in the planning process and for appropriate meaningful consultation with any state or local government or planning agency in the National Capital region affected by any aspect of a comprehensive plan, including amendments, affecting or relating to the District.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1218; Pub. L. 109–284, § 6(28), Sept. 27, 2006, 120 Stat. 1213.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1218; Pub. L. 109–284, § 6(28), Sept. 27, 2006, 120 Stat. 1213.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8712 | 40:71a(a)(2). | June 6, 1924, ch. 270, § 2(a)(2), as added July 19, 1952, ch. 949, § 1, 66 Stat. 782; Pub. L. 93–198, title II, § 203(a), Dec. 24, 1973, 87 Stat. 779. |
+| 8712 | 40:71a(a)(2). | June 6, 1924, ch. 270, § 2(a)(2), as added July 19, 1952, ch. 949, § 1, 66 Stat. 782; Pub. L. 93–198, title II, § 203(a), Dec. 24, 1973, 87 Stat. 779. |
 
 **Editorial Notes**
 
@@ -243,7 +243,7 @@ Pub. L. 102–381, title II, Oct. 5, 1992, 106 Stat. 1414.
 
 ## SUBCHAPTER III—PLANNING PROCESS
 
-### § 8721. Comprehensive plan for the National Capital
+### § 8721. Comprehensive plan for the National Capital
 
 **(a) Preparation and Adoption by Commission.—** The National Capital Planning Commission shall prepare and adopt a comprehensive, consistent, and coordinated plan for the National Capital. The plan shall include the Commission’s recommendations or proposals for federal developments or projects in the environs and District elements of the comprehensive plan, or amendments to the elements, adopted by the Council of the District of Columbia and with respect to which the Commission has not determined a negative impact exists. Those elements or amendments shall be incorporated into the comprehensive plan without change. The Commission may include in its plan any part of a plan adopted by any planning agency in the environs and may make recommendations of collateral interest to the agencies. The Commission may adopt any part of an element. The Commission shall review and may amend or extend the plan so that its recommendations may be kept up to date.
 
@@ -297,14 +297,14 @@ Pub. L. 102–381, title II, Oct. 5, 1992, 106 Stat. 1414.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8721(a) | 40:71c(a), (d). | June 6, 1924, ch. 270, § 4(a), (d), (e) (1st par.), as added July 19, 1952, ch. 949, § 1, 66 Stat. 785, 787; Pub. L. 93–198, title II § 203(c)(1), (2), Dec. 24, 1973, 87 Stat. 782. |
-| 8721(b) | 40:71a(a)(3). | June 6, 1924, ch. 270, § 2(a)(3), (4), as added July 19, 1952, ch. 949, § 1, 66 Stat. 782; Pub. L. 93–198, title II, § 203(a), Dec. 24, 1973, 87 Stat. 779. |
+| 8721(a) | 40:71c(a), (d). | June 6, 1924, ch. 270, § 4(a), (d), (e) (1st par.), as added July 19, 1952, ch. 949, § 1, 66 Stat. 785, 787; Pub. L. 93–198, title II § 203(c)(1), (2), Dec. 24, 1973, 87 Stat. 782. |
+| 8721(b) | 40:71a(a)(3). | June 6, 1924, ch. 270, § 2(a)(3), (4), as added July 19, 1952, ch. 949, § 1, 66 Stat. 782; Pub. L. 93–198, title II, § 203(a), Dec. 24, 1973, 87 Stat. 779. |
 | 8721(c), (d) | 40:71a(a)(4)(A)–(C). |  |
 | 8721(e) | 40:71c(e) (1st par.). |  |
 | 8721(f) | 40:71a(a)(4)(E). |  |
 | 8721(g) | 40:71a(a)(4)(D). |  |
 | 8721(h)(1) | 40:71a(a)(4)(F). |  |
-| 8721(h)(2) | 40:71a(d). | June 6, 1924, ch. 270, § 2(d), as added July 19, 1952, ch. 949, § 1, 66 Stat. 783. |
+| 8721(h)(2) | 40:71a(d). | June 6, 1924, ch. 270, § 2(d), as added July 19, 1952, ch. 949, § 1, 66 Stat. 783. |
 
 In subsection (a), the text of 40:71c(a) (2d, 3d sentences) and reference to the National Capital Regional Planning Council are omitted as obsolete because the Council was abolished by section 1 of Reorganization Plan No. 5 of 1966 (eff. Sept. 8, 1966, 40:71b note). The words “from time to time” are omitted as unnecessary.
 
@@ -318,7 +318,7 @@ In subsection (g), the words “from time to time” are omitted as unnecessary.
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
-### § 8722. Proposed federal and district developments and projects
+### § 8722. Proposed federal and district developments and projects
 
 **(a) Agencies To Use Commission as Central Planning Agency.—** Agencies of the Federal Government responsible for public developments and projects shall cooperate and correlate their efforts by using the National Capital Planning Commission as the central planning agency for federal activities in the National Capital region. To aid the Commission in carrying out this function, federal and District of Columbia governmental agencies on request of the Commission shall furnish plans, data, and records the Commission requires. The Commission on request shall furnish related plans, data, and records to federal and District of Columbia governmental agencies.
 
@@ -344,19 +344,19 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 **(e) Approval of District Government Buildings in Central Area.—** Subsection (d) is extended to include public buildings erected by any agency of the Government of the District of Columbia in the central area of the District (as defined by concurrent action of the Commission and the Council of the District of Columbia), except that the Commission shall transmit its approval or disapproval within 30 days after the day the proposal was submitted to the Commission.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1221; Pub. L. 109–284, § 6(29), Sept. 27, 2006, 120 Stat. 1213.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1221; Pub. L. 109–284, § 6(29), Sept. 27, 2006, 120 Stat. 1213.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8722(a) | 40:71d(e). | June 6, 1924, ch. 270, § 5, as added July 19, 1952, ch. 949, § 1, 66 Stat. 787; Pub. L. 93–198, title II, § 203(d), Dec. 24, 1973, 87 Stat. 782. |
+| 8722(a) | 40:71d(e). | June 6, 1924, ch. 270, § 5, as added July 19, 1952, ch. 949, § 1, 66 Stat. 787; Pub. L. 93–198, title II, § 203(d), Dec. 24, 1973, 87 Stat. 782. |
 | 8722(b)(1) | 40:71d(a) (1st sentence words before proviso, 2d–last sentences). |  |
 | 8722(b)(2)(A) | 40:71d(b). |  |
 | 8722(b)(2)(B) | 40:71d(a) (1st sentence proviso). |  |
 | 8722(c)(1), (2) | 40:71d(d). |  |
-| 8722(c)(3) | 40:71c(e) (last par.). | June 6, 1924, ch. 270, § 4(e) (last par.), as added July 19, 1952, ch. 949, § 1, 66 Stat. 787. |
-| 8722(d) | (uncodified). | June 20, 1938, ch. 534, § 16, 52 Stat. 802. |
+| 8722(c)(3) | 40:71c(e) (last par.). | June 6, 1924, ch. 270, § 4(e) (last par.), as added July 19, 1952, ch. 949, § 1, 66 Stat. 787. |
+| 8722(d) | (uncodified). | June 20, 1938, ch. 534, § 16, 52 Stat. 802. |
 | 8722(e) | 40:71d(c). |  |
 
 In subsection (a), the words “including the acquisition of land” are omitted as unnecessary.
@@ -375,13 +375,13 @@ In subsection (e), the words “the boundaries of” and “and from time to tim
 
 **References in Text**
 
-The Act of June 20, 1938, referred to in subsec. (d), is act June 20, 1938, ch. 534, 52 Stat. 797. While the Act was not classified to the Code, section 16 of the Act was repealed and reenacted as subsec. (d) of this section by Pub. L. 107–217, §§ 1, 6, Aug. 21, 2002, 116 Stat. 1062, 1304. See Historical and Revision Notes above.
+The Act of June 20, 1938, referred to in subsec. (d), is act June 20, 1938, ch. 534, 52 Stat. 797. While the Act was not classified to the Code, section 16 of the Act was repealed and reenacted as subsec. (d) of this section by Pub. L. 107–217, §§ 1, 6, Aug. 21, 2002, 116 Stat. 1062, 1304. See Historical and Revision Notes above.
 
 **Amendments**
 
 2006—Subsec. (d). Pub. L. 109–284 substituted “52 Stat. 797” for “52 Stat. 802” and “are subject” for “is subject”.
 
-### § 8723. Capital improvements
+### § 8723. Capital improvements
 
 **(a) Six-Year Program of Public Works Projects.—** The National Capital Planning Commission shall recommend a six-year program of public works projects for the Federal Government which the Commission shall review annually with the agencies concerned. Each federal agency shall submit to the Commission in the first quarter of each fiscal year a copy of its advance program of capital improvements within the National Capital and its environs.
 
@@ -393,7 +393,7 @@ The Act of June 20, 1938, referred to in subsec. (d), is act June 20, 1938, ch. 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8723 | 40:71f. | June 6, 1924, ch. 270, § 7, as added July 19, 1952, ch. 949, § 1, 66 Stat. 789; Pub. L. 93–198, title II, § 203(f), Dec. 24, 1973, 87 Stat. 782. |
+| 8723 | 40:71f. | June 6, 1924, ch. 270, § 7, as added July 19, 1952, ch. 949, § 1, 66 Stat. 789; Pub. L. 93–198, title II, § 203(f), Dec. 24, 1973, 87 Stat. 782. |
 
 In subsection (b), the words “District of Columbia Home Rule Act” are substituted for “District of Columbia of Columbia Self-Government and Governmental Reorganization Act” because of section 11717(b) of the Balanced Budget Act of 1997 (Public Law 105–33, 111 Stat. 786).
 
@@ -403,7 +403,7 @@ In subsection (b), the words “District of Columbia Home Rule Act” are substi
 
 Section 444 of the District of Columbia Home Rule Act, referred to in subsec. (b), is section 444 of Pub. L. 93–198, title IV, Dec. 24, 1973, 87 Stat. 800, which is not classified to the Code.
 
-### § 8724. Zoning regulations and maps
+### § 8724. Zoning regulations and maps
 
 **(a) Amendments of Zoning Regulations and Maps.—** The National Capital Planning Commission may make a report and recommendation to the Zoning Commission of the District of Columbia, as provided in section 5 of the Act of June 20, 1938 (ch. 534, 52 Stat. 798), on the relation, conformity, or consistency of proposed amendments of the zoning regulations and maps with the comprehensive plan for the National Capital. The Planning Commission may also submit to the Zoning Commission proposed amendments or general revisions to the zoning regulations or the zoning map for the District of Columbia.
 
@@ -425,7 +425,7 @@ Section 444 of the District of Columbia Home Rule Act, referred to in subsec. (b
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8724(a) | 40:71g(a). | June 6, 1924, ch. 270, § 8(a)–(c), as added July 19, 1952, ch. 949, § 1, 66 Stat. 790; Pub. L. 93–198, title II, § 203(g), Dec. 24, 1973, 87 Stat. 783. |
+| 8724(a) | 40:71g(a). | June 6, 1924, ch. 270, § 8(a)–(c), as added July 19, 1952, ch. 949, § 1, 66 Stat. 790; Pub. L. 93–198, title II, § 203(g), Dec. 24, 1973, 87 Stat. 783. |
 | 8724(b) | 40:71g(b). |  |
 | 8724(c) | 40:71g(c). |  |
 
@@ -441,7 +441,7 @@ In subsection (c)(1), the words “from time to time” are omitted as unnecessa
 
 Section 5 of the Act of June 20, 1938, referred to in subsec. (a), is section 5 of act June 20, 1938, ch. 534, 52 Stat. 798, which is not classified to the Code.
 
-### § 8725. Recommendations on platting and subdividing land
+### § 8725. Recommendations on platting and subdividing land
 
 **(a) By Council of the District of Columbia.—** The Council of the District of Columbia shall submit any proposed change in, or addition to, the regulations or general orders regulating the platting and subdividing of lands and grounds in the District of Columbia to the National Capital Planning Commission for report and recommendation before the Council adopts the change or addition. The Council shall advise the Commission when it does not agree with the recommendations of the Commission and shall give the reasons why it disagrees. The Commission then shall submit a final report within 30 days. After considering the final report, the Council may act in accordance with its legal responsibilities and authority.
 
@@ -453,11 +453,11 @@ Section 5 of the Act of June 20, 1938, referred to in subsec. (a), is section 5 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8725 | 40:71g(d). | June 6, 1924, ch. 270, § 8(d), as added July 19, 1952, ch. 949, § 1, 66 Stat. 790. |
+| 8725 | 40:71g(d). | June 6, 1924, ch. 270, § 8(d), as added July 19, 1952, ch. 949, § 1, 66 Stat. 790. |
 
 In subsection (b), the words “to the Council” are added for clarity.
 
-### § 8726. Authorization of appropriations
+### § 8726. Authorization of appropriations
 
 Amounts necessary to carry out this subchapter may be appropriated from money in the Treasury not otherwise appropriated and from any appropriate appropriation law, except the annual District of Columbia Appropriation Act.
 
@@ -467,13 +467,13 @@ Amounts necessary to carry out this subchapter may be appropriated from money in
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8726 | 40:71i. | June 6, 1924, ch. 270, § 10, as added July 19, 1952, ch. 949, § 1, 66 Stat. 791. |
+| 8726 | 40:71i. | June 6, 1924, ch. 270, § 10, as added July 19, 1952, ch. 949, § 1, 66 Stat. 791. |
 
 The words “any existing provisions of law to the contrary notwithstanding” are omitted as unnecessary.
 
 ## SUBCHAPTER IV—ACQUIRING AND DISPOSING OF LAND
 
-### § 8731. Acquiring land for park, parkway, or playground purposes
+### § 8731. Acquiring land for park, parkway, or playground purposes
 
 **(a) Authority To Acquire Land.—** The National Capitol Planning Commission shall acquire land the Planning Commission believes is necessary and desirable in the District of Columbia and adjacent areas in Maryland and Virginia for suitable development of the National Capital park, parkway, and playground system. The acquisition must be within the limits of the appropriations made for those purposes. The Planning Commission shall request the advice of the Commission of Fine Arts in selecting land to be acquired.
 
@@ -499,9 +499,9 @@ The words “any existing provisions of law to the contrary notwithstanding” a
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8731(a) | 40:72 (1st, 4th sentences). | June 6, 1924, ch. 270, § 11, formerly § 2, 43 Stat. 463; renumbered § 11, July 19, 1952, ch. 949, § 2 (1st sentence), 66 Stat. 791. |
+| 8731(a) | 40:72 (1st, 4th sentences). | June 6, 1924, ch. 270, § 11, formerly § 2, 43 Stat. 463; renumbered § 11, July 19, 1952, ch. 949, § 2 (1st sentence), 66 Stat. 791. |
 | 8731(b) | 40:72 (2d, 3d sentence). |  |
-| 8731(c) | 40:73 (3d–last sentences). | June 6, 1924, ch. 270, § 12 (3d–last sentences), formerly § 3 (3d–last sentences), 43 Stat. 463; renumbered § 12, July 19, 1952, ch. 949, § 2 (1st sentence), 66 Stat. 791. |
+| 8731(c) | 40:73 (3d–last sentences). | June 6, 1924, ch. 270, § 12 (3d–last sentences), formerly § 3 (3d–last sentences), 43 Stat. 463; renumbered § 12, July 19, 1952, ch. 949, § 2 (1st sentence), 66 Stat. 791. |
 | 8731(d) | 40:72 (last sentence). |  |
 
 In subsection (a), the words “or a majority thereof” are omitted as unnecessary.
@@ -520,7 +520,7 @@ In subsection (c)(2), the words “in Maryland or Virginia” are substituted fo
 
 Section 1 of the Act of December 23, 1963, referred to in subsec. (b)(2), is section 1 of Pub. L. 88–241, Dec. 23, 1963, 77 Stat. 478, which enacted general and permanent laws relating to judiciary and judicial procedure in the District of Columbia, and which is not classified to the Code.
 
-### § 8732. Acquiring land subject to limited rights reserved to grantor and limited permanent rights in land adjoining park property
+### § 8732. Acquiring land subject to limited rights reserved to grantor and limited permanent rights in land adjoining park property
 
 **(a) In General.—** The National Capital Planning Commission in accordance with this chapter may acquire, for and on behalf of the Federal Government, by gift, devise, purchase, or condemnation—
 
@@ -542,13 +542,13 @@ Section 1 of the Act of December 23, 1963, referred to in subsec. (b)(2), is sec
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8732(a) | 40:72a (1st par., last par. less provisos). | Dec. 22, 1928, ch. 48, § 1, 45 Stat. 1070. |
+| 8732(a) | 40:72a (1st par., last par. less provisos). | Dec. 22, 1928, ch. 48, § 1, 45 Stat. 1070. |
 | 8732(b) | 40:72a (last par. 1st–3d provisos). |  |
 | 8732(c) | 40:72a (last par. last proviso). |  |
 
 In subsection (a), the text of 40:72a (1st par.) is omitted as unnecessary.
 
-### § 8733. Lease of land acquired for park, parkway, or playground purposes
+### § 8733. Lease of land acquired for park, parkway, or playground purposes
 
 The Secretary of the Interior may lease, for not more than five years, land or an existing building or structure on land acquired for park, parkway, or playground purposes, and may renew the lease for an additional five years. A lease or renewal under this section is—
 
@@ -564,11 +564,11 @@ The Secretary of the Interior may lease, for not more than five years, land or a
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8733 | 40:72b. | Dec. 22, 1928, ch. 48, § 2, 45 Stat. 1070. |
+| 8733 | 40:72b. | Dec. 22, 1928, ch. 48, § 2, 45 Stat. 1070. |
 
 The words “Administrator of General Services” are substituted for “Director of Public Buildings and Public Parks of the National Capital” [subsequently changed to “Director of the National Park Service” because of section 2 of Executive Order No. 6166 (eff. June 10, 1933) and the Act of March 2, 1934 (ch. 38, 48 Stat. 389), and “Public Buildings Administrator” because of sections 301 and 303 of Reorganization Plan No. I of 1939 (eff. July 1, 1939, 53 Stat. 1426, 1427)] because of section 103(a) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(c) [303(b)] of the revised title. The words “National Capital Planning Commission” are substituted for “National Capital Park and Planning Commission” because of section 9 of the Act of June 6, 1924 (ch. 270), as added by section 1 of the Act of July 19, 1952 (ch. 949, 66 Stat. 790). See section 8711(f) of the revised title.
 
-### § 8734. Sale of land by Mayor
+### § 8734. Sale of land by Mayor
 
 **(a) Authority To Sell.—** With the approval of the National Capital Planning Commission, the Mayor of the District of Columbia, for the best interests of the District of Columbia, may sell to the highest bidder at public or private sale real estate in the District of Columbia owned in fee simple by the District of Columbia for municipal use that the Council of the District of Columbia and the Commission find to be no longer required for public purposes.
 
@@ -584,12 +584,12 @@ The words “Administrator of General Services” are substituted for “Directo
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8734(a) | 40:72c. | Aug. 5, 1939, ch. 449, §§ 1, 2, 53 Stat. 1211. |
+| 8734(a) | 40:72c. | Aug. 5, 1939, ch. 449, §§ 1, 2, 53 Stat. 1211. |
 | 8734(b) | 40:72d. |  |
 
 In subsection (a), the words “in his discretion”, “and convey, in whole or in part”, and “now or hereafter” are omitted as unnecessary.
 
-### § 8735. Sale of land by Secretary of the Interior
+### § 8735. Sale of land by Secretary of the Interior
 
 **(a) Authority To Sell.—** With the approval of the National Capital Planning Commission, the Secretary of the Interior, for the best interests of the Federal Government, may sell, by deed or instrument, real estate held by the Government in the District of Columbia and under the jurisdiction of the National Park Service which may be no longer needed for public purposes. The land may be sold for cash or on a deferred-payment plan the Secretary approves, at a price not less than the Government paid for it and not less than its present appraised value as determined by the Secretary.
 
@@ -611,7 +611,7 @@ In subsection (a), the words “in his discretion”, “and convey, in whole or
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8735(a) | 40:74a. | Aug. 5, 1939, ch. 449, §§ 4–6, 53 Stat. 1211. |
+| 8735(a) | 40:74a. | Aug. 5, 1939, ch. 449, §§ 4–6, 53 Stat. 1211. |
 | 8735(b) | 40:74b. |  |
 | 8735(c) | 40:74c. |  |
 
@@ -619,7 +619,7 @@ In subsection (a), the words “in his discretion”, “and convey, in whole or
 
 In subsection (b), reference to sections 72c to 72e is omitted as unnecessary because the Secretary of the Interior does not have authority to sell land under those sections.
 
-### § 8736. Execution of deeds
+### § 8736. Execution of deeds
 
 The Mayor of the District of Columbia may execute deeds of conveyance for real estate sold under this subchapter. The deeds shall contain a full description of the land sold as required by law.
 
@@ -629,11 +629,11 @@ The Mayor of the District of Columbia may execute deeds of conveyance for real e
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8736 | 40:72e. | Aug. 5, 1939, ch. 449, § 3, 53 Stat. 1211. |
+| 8736 | 40:72e. | Aug. 5, 1939, ch. 449, § 3, 53 Stat. 1211. |
 
 The word “proper” is omitted as unnecessary. The words “as required by” are substituted for “either by metes and bounds, or otherwise according to” to eliminate unnecessary words.
 
-### § 8737. Authorization of appropriations
+### § 8737. Authorization of appropriations
 
 An amount equal to not more than one cent for each inhabitant of the continental United States as determined by the last preceding decennial census may be appropriated each year in the District of Columbia Appropriation Act for the National Capital Planning Commission to use for the payment of its expenses and for the acquisition of land the Commission may acquire under section 8731 of this title for the purposes named, including compensation for the land, surveys, ascertainment of title, condemnation proceedings, and necessary conveyancing. The appropriated amounts shall be paid from the revenues of the District of Columbia and the general amounts of the Treasury in the same proportion as other expenses of the District of Columbia.
 
@@ -643,4 +643,4 @@ An amount equal to not more than one cent for each inhabitant of the continental
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8737 | 40:73 (1st, 2d sentences). | June 6, 1924, ch. 270, § 12 (1st, 2d sentences), formerly § 3 (1st, 2d sentences), 43 Stat. 463; renumbered § 12, July 19, 1952, ch. 949, § 2 (1st sentence), 66 Stat. 791. |
+| 8737 | 40:73 (1st, 2d sentences). | June 6, 1924, ch. 270, § 12 (1st, 2d sentences), formerly § 3 (1st, 2d sentences), 43 Stat. 463; renumbered § 12, July 19, 1952, ch. 949, § 2 (1st sentence), 66 Stat. 791. |

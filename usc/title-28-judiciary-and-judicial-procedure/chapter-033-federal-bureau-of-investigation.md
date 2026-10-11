@@ -19,37 +19,37 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2023—Pub. L. 117–354, § 2(b), Jan. 5, 2023, 136 Stat. 6274, added item 540D.
+2023—Pub. L. 117–354, § 2(b), Jan. 5, 2023, 136 Stat. 6274, added item 540D.
 
-2003—Pub. L. 108–177, title III, § 361(m)(2), Dec. 13, 2003, 117 Stat. 2626, which directed amendment of table of sections by striking the item relating to section 540C, was executed by striking out item 540C relating to annual report on activities of Federal Bureau of Investigation personnel outside the United States to reflect the probable intent of Congress, because corresponding section was repealed.
+2003—Pub. L. 108–177, title III, § 361(m)(2), Dec. 13, 2003, 117 Stat. 2626, which directed amendment of table of sections by striking the item relating to section 540C, was executed by striking out item 540C relating to annual report on activities of Federal Bureau of Investigation personnel outside the United States to reflect the probable intent of Congress, because corresponding section was repealed.
 
-2002—Pub. L. 107–306, title VIII, § 824(b), Nov. 27, 2002, 116 Stat. 2429, added item 540C relating to annual report on activities of Federal Bureau of Investigation personnel outside the United States.
+2002—Pub. L. 107–306, title VIII, § 824(b), Nov. 27, 2002, 116 Stat. 2429, added item 540C relating to annual report on activities of Federal Bureau of Investigation personnel outside the United States.
 
-Pub. L. 107–273, div. B, title IV, § 4003(b)(7), (8), div. C, title I, § 11024(b), Nov. 2, 2002, 116 Stat. 1812, 1831, inserted “the” after “of” in item 532, substituted “character” for “nature” in item 537, and added item 540C relating to FBI police.
+Pub. L. 107–273, div. B, title IV, § 4003(b)(7), (8), div. C, title I, § 11024(b), Nov. 2, 2002, 116 Stat. 1812, 1831, inserted “the” after “of” in item 532, substituted “character” for “nature” in item 537, and added item 540C relating to FBI police.
 
-1998—Pub. L. 105–314, title VII, § 701(b), Oct. 30, 1998, 112 Stat. 2987, added item 540B.
+1998—Pub. L. 105–314, title VII, § 701(b), Oct. 30, 1998, 112 Stat. 2987, added item 540B.
 
-1994—Pub. L. 103–322, title XXXII, § 320916(b), Sept. 13, 1994, 108 Stat. 2129, added item 540A.
+1994—Pub. L. 103–322, title XXXII, § 320916(b), Sept. 13, 1994, 108 Stat. 2129, added item 540A.
 
-Pub. L. 103–272, § 4(e)(2), July 5, 1994, 108 Stat. 1361, added item 538.
+Pub. L. 103–272, § 4(e)(2), July 5, 1994, 108 Stat. 1361, added item 538.
 
-1988—Pub. L. 100–690, title VII, § 7331(b), Nov. 18, 1988, 102 Stat. 4468, added item 540.
+1988—Pub. L. 100–690, title VII, § 7331(b), Nov. 18, 1988, 102 Stat. 4468, added item 540.
 
-1986—Pub. L. 99–569, title IV, § 401(b), Oct. 27, 1986, 100 Stat. 3195, added item 539.
+1986—Pub. L. 99–569, title IV, § 401(b), Oct. 27, 1986, 100 Stat. 3195, added item 539.
 
-1982—Pub. L. 97–292, § 3(b), Oct. 12, 1982, 96 Stat. 1260, inserted “and information” after “identification records” in item 534.
+1982—Pub. L. 97–292, § 3(b), Oct. 12, 1982, 96 Stat. 1260, inserted “and information” after “identification records” in item 534.
 
-1966—Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 616, substituted “FEDERAL BUREAU OF INVESTIGATION” for “UNITED STATES MARSHALS” in chapter heading, added items 531 to 537, and struck out items 541 to 556.
+1966—Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 616, substituted “FEDERAL BUREAU OF INVESTIGATION” for “UNITED STATES MARSHALS” in chapter heading, added items 531 to 537, and struck out items 541 to 556.
 
-## § 531. Federal Bureau of Investigation
+## § 531. Federal Bureau of Investigation
 
 The Federal Bureau of Investigation is in the Department of Justice.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 616.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 616.)
 
 **Historical and Revision Notes**
 
-The section is supplied for convenience and clarification. The Bureau of Investigation in the Department of Justice, the earliest predecessor agency of the Federal Bureau of Investigation, was created administratively in 1908. It appears that funds used for the Bureau of Investigation were first obtained through the Department of Justice Appropriation Act of May 22, 1908, ch. 186, § 1 (par. beginning “From the appropriations for the prosecution of crimes”), 35 Stat. 236, although that statutory provision makes no express mention of the Bureau or of the investigative function.
+The section is supplied for convenience and clarification. The Bureau of Investigation in the Department of Justice, the earliest predecessor agency of the Federal Bureau of Investigation, was created administratively in 1908. It appears that funds used for the Bureau of Investigation were first obtained through the Department of Justice Appropriation Act of May 22, 1908, ch. 186, § 1 (par. beginning “From the appropriations for the prosecution of crimes”), 35 Stat. 236, although that statutory provision makes no express mention of the Bureau or of the investigative function.
 
 Section 3 of Executive Order No. 6166 of June 10, 1933, specifically recognized the Bureau of Investigation in the Department of Justice and provided that all that Bureau’s functions together with the investigative functions of the Bureau of Prohibition were “transferred to and consolidated in a Division of Investigation in the Department of Justice, at the head of which shall be a Director of Investigation.”
 
@@ -63,7 +63,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Bur
 
 **Forced Labor Requirements: Department of Justice**
 
-Pub. L. 117–347, title IV, § 406(a), Jan. 5, 2023, 136 Stat. 6209, provided that:
+Pub. L. 117–347, title IV, § 406(a), Jan. 5, 2023, 136 Stat. 6209, provided that:
 
 > **“(1) In general.—** Not later than 2 years after the date of enactment of this Act [Jan. 5, 2023], the Attorney General shall establish a team of not less than 10 agents within the Federal Bureau of Investigation to be assigned to exclusively investigate labor trafficking.
 
@@ -71,7 +71,7 @@ Pub. L. 117–347, title IV, § 406(a), Jan. 5, 2023, 136 Stat. 6209, provided
 
 **Enterprise Architecture**
 
-Pub. L. 108–458, title VIII, § 8402, Dec. 17, 2004, 118 Stat. 3869, provided that:
+Pub. L. 108–458, title VIII, § 8402, Dec. 17, 2004, 118 Stat. 3869, provided that:
 
 > **“(a) Enterprise Architecture Defined.—** In this section, the term ‘enterprise architecture’ means a detailed outline or blueprint of the information technology of the Federal Bureau of Investigation that will satisfy the ongoing mission and goals of the Federal Bureau of Investigation and that sets forth specific and identifiable benchmarks.
 
@@ -95,15 +95,15 @@ Pub. L. 108–458, title VIII, § 8402, Dec. 17, 2004, 118 Stat. 3869, provide
 
 **Report to Congress**
 
-Pub. L. 108–405, title II, § 203(f), Oct. 30, 2004, 118 Stat. 2271, which required the Department of Justice to notify Congress of plans to modify the CODIS system, was editorially reclassified as section 40721 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 108–405, title II, § 203(f), Oct. 30, 2004, 118 Stat. 2271, which required the Department of Justice to notify Congress of plans to modify the CODIS system, was editorially reclassified as section 40721 of Title 34, Crime Control and Law Enforcement.
 
 **Morgan P. Hardiman Child Abduction and Serial Murder Investigative Resources Center**
 
-Pub. L. 105–314, title VII, § 703(a)–(f), Oct. 30, 1998, 112 Stat. 2987–2989, establishing the Morgan P. Hardiman Child Abduction and Serial Murder Investigative Resources Center, was editorially reclassified as section 41502 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 105–314, title VII, § 703(a)–(f), Oct. 30, 1998, 112 Stat. 2987–2989, establishing the Morgan P. Hardiman Child Abduction and Serial Murder Investigative Resources Center, was editorially reclassified as section 41502 of Title 34, Crime Control and Law Enforcement.
 
 **Federal Bureau of Investigation Funding Authorizations**
 
-Pub. L. 104–132, title VIII, § 811, Apr. 24, 1996, 110 Stat. 1312, as amended by Pub. L. 106–546, § 6(a), Dec. 19, 2000, 114 Stat. 2733, provided that:
+Pub. L. 104–132, title VIII, § 811, Apr. 24, 1996, 110 Stat. 1312, as amended by Pub. L. 106–546, § 6(a), Dec. 19, 2000, 114 Stat. 2733, provided that:
 
 > **“(a) In General.—** With funds made available pursuant to subsection (c)—
 
@@ -167,11 +167,11 @@ Pub. L. 104–132, title VIII, § 811, Apr. 24, 1996, 110 Stat. 1312, as amend
 
 > **“(B) Definition.—** For purposes of this paragraph, the term ‘State’ means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands, except that for purposes of the allocation under this subparagraph, American Samoa and the Commonwealth of the Northern Mariana Islands shall be considered as one State and that for these purposes, 67 percent of the amounts allocated shall be allocated to American Samoa, and 33 percent to the Commonwealth of the Northern Mariana Islands.”
 
-## § 532. Director of the Federal Bureau of Investigation
+## § 532. Director of the Federal Bureau of Investigation
 
 The Attorney General may appoint a Director of the Federal Bureau of Investigation. The Director of the Federal Bureau of Investigation is the head of the Federal Bureau of Investigation.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 616.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 616.)
 
 **Historical and Revision Notes**
 
@@ -181,7 +181,7 @@ The section is supplied for convenience and clarification and is based on sectio
 
 **Notification of Material Changes to Policies or Procedures Governing Terrorist Watchlist and Transnational Organized Crime Watchlist**
 
-Pub. L. 119–60, div. F, title LXV, § 6522, Dec. 18, 2025, 139 Stat. 1631, provided that:
+Pub. L. 119–60, div. F, title LXV, § 6522, Dec. 18, 2025, 139 Stat. 1631, provided that:
 
 > **“(a) Notification of Material Changes.—**
 
@@ -211,11 +211,11 @@ Pub. L. 119–60, div. F, title LXV, § 6522, Dec. 18, 2025, 139 Stat. 1631, p
 
 **Review of Information Relating to Actions by Foreign Governments To Assist Persons Evading Justice**
 
-Pub. L. 119–60, div. F, title LXVII, § 6715, Dec. 18, 2025, 139 Stat. 1650, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Director of the Federal Bureau of Investigation shall, in coordination with the Director of National Intelligence, complete a review for declassification of any information in the possession of the Federal Bureau of Investigation collected on or after January 1, 2020, relating to whether any foreign government official has assisted or facilitated any citizen or national of their country in departing the United States while the citizen or national was under investigation or awaiting trial or sentencing for a criminal offense committed in the United States to determine what information, if any, can be appropriately declassified and made available to the public. Upon completion of the review, the Director of the Federal Bureau of Investigation shall make such information, if any, available to the public in a manner consistent with provisions of Federal law related to privacy.”
+Pub. L. 119–60, div. F, title LXVII, § 6715, Dec. 18, 2025, 139 Stat. 1650, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Director of the Federal Bureau of Investigation shall, in coordination with the Director of National Intelligence, complete a review for declassification of any information in the possession of the Federal Bureau of Investigation collected on or after January 1, 2020, relating to whether any foreign government official has assisted or facilitated any citizen or national of their country in departing the United States while the citizen or national was under investigation or awaiting trial or sentencing for a criminal offense committed in the United States to determine what information, if any, can be appropriately declassified and made available to the public. Upon completion of the review, the Director of the Federal Bureau of Investigation shall make such information, if any, available to the public in a manner consistent with provisions of Federal law related to privacy.”
 
 **Limitation on Procurement by Federal Bureau of Investigation of People’s Republic of China Products and Services**
 
-Pub. L. 117–103, div. X, title IV, § 414, Mar. 15, 2022, 136 Stat. 977, provided that:
+Pub. L. 117–103, div. X, title IV, § 414, Mar. 15, 2022, 136 Stat. 977, provided that:
 
 > **“(a) Security Assessment.—** The Director of the Federal Bureau of Investigation may not procure a People’s Republic of China product or service unless, before such procurement—
 
@@ -241,11 +241,11 @@ Pub. L. 117–103, div. X, title IV, § 414, Mar. 15, 2022, 136 Stat. 977, pro
 
 **Counterintelligence Units at Non-Intelligence Community Federal Departments and Agencies**
 
-Pub. L. 117–103, div. X, title IV, § 415, Mar. 15, 2022, 136 Stat. 978, which related to the establishment of counterintelligence units at non-intelligence community Federal departments and agencies, was repealed by Pub. L. 118–31, div. G, title III, § 7318(b), Dec. 22, 2023, 137 Stat. 1033.
+Pub. L. 117–103, div. X, title IV, § 415, Mar. 15, 2022, 136 Stat. 978, which related to the establishment of counterintelligence units at non-intelligence community Federal departments and agencies, was repealed by Pub. L. 118–31, div. G, title III, § 7318(b), Dec. 22, 2023, 137 Stat. 1033.
 
 **Findings**
 
-Pub. L. 112–24, § 1, July 26, 2011, 125 Stat. 238, provided that:
+Pub. L. 112–24, § 1, July 26, 2011, 125 Stat. 238, provided that:
 
 > “Congress finds that—
 
@@ -257,7 +257,7 @@ Pub. L. 112–24, § 1, July 26, 2011, 125 Stat. 238, provided that:
 
 **Improvement of Intelligence Capabilities; Directorate of Intelligence; Intelligence Career Service**
 
-Pub. L. 108–458, title II, §§ 2001–2003, Dec. 17, 2004, 118 Stat. 3700, 3702, as amended by Pub. L. 111–259, title VIII, § 806(b)(1), Oct. 7, 2010, 124 Stat. 2748; Pub. L. 114–113, div. M, title VII, § 701(b), Dec. 18, 2015, 129 Stat. 2929, provided that:
+Pub. L. 108–458, title II, §§ 2001–2003, Dec. 17, 2004, 118 Stat. 3700, 3702, as amended by Pub. L. 111–259, title VIII, § 806(b)(1), Oct. 7, 2010, 124 Stat. 2748; Pub. L. 114–113, div. M, title VII, § 701(b), Dec. 18, 2015, 129 Stat. 2929, provided that:
 
 > **“SEC. 2001. IMPROVEMENT OF INTELLIGENCE CAPABILITIES OF THE FEDERAL BUREAU OF INVESTIGATION.**
 
@@ -377,7 +377,7 @@ Pub. L. 108–458, title II, §§ 2001–2003, Dec. 17, 2004, 118 Stat. 3700, 
 
 **Webster Commission Implementation Report**
 
-Pub. L. 107–273, div. C, title I, § 11023, Nov. 2, 2002, 116 Stat. 1830, provided that:
+Pub. L. 107–273, div. C, title I, § 11023, Nov. 2, 2002, 116 Stat. 1830, provided that:
 
 > **“(a) Implementation Plan.—** Not later than 6 months after the date of enactment of this Act [Nov. 2, 2002], the Director of the Federal Bureau of Investigation shall submit to the appropriate Committees of Congress a plan for implementation of the recommendations of the Commission for Review of FBI Security Programs, dated March 31, 2002, including the costs of such implementation.
 
@@ -395,7 +395,7 @@ Pub. L. 107–273, div. C, title I, § 11023, Nov. 2, 2002, 116 Stat. 1830, pr
 
 **Employment of Translators by the Federal Bureau of Investigation**
 
-Pub. L. 107–56, title II, § 205, Oct. 26, 2001, 115 Stat. 281, provided that:
+Pub. L. 107–56, title II, § 205, Oct. 26, 2001, 115 Stat. 281, provided that:
 
 > **“(a) Authority.—** The Director of the Federal Bureau of Investigation is authorized to expedite the employment of personnel as translators to support counterterrorism investigations and operations without regard to applicable Federal personnel requirements and limitations.
 
@@ -411,7 +411,7 @@ Pub. L. 107–56, title II, § 205, Oct. 26, 2001, 115 Stat. 281, provided tha
 
 **FBI Critical Skills Scholarship Program**
 
-Pub. L. 102–183, title V, § 501, Dec. 4, 1991, 105 Stat. 1268, provided that:
+Pub. L. 102–183, title V, § 501, Dec. 4, 1991, 105 Stat. 1268, provided that:
 
 > **“(a) Study.—** The Director of the Federal Bureau of Investigation shall conduct a study relative to the establishment of an undergraduate training program with respect to employees of the Federal Bureau of Investigation that is similar in purpose, conditions, content, and administration to undergraduate training programs administered by the Central Intelligence Agency (under section 8 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403j) [now 50 U.S.C. 3510]), the National Security Agency (under section 16 of the National Security Agency Act of 1959 (50 U.S.C. 402 (note)) [now 50 U.S.C. 3614][)], and the Defense Intelligence Agency (under section 1608 [now 1623] of title 10, United States Code).
 
@@ -421,7 +421,7 @@ Pub. L. 102–183, title V, § 501, Dec. 4, 1991, 105 Stat. 1268, provided tha
 
 **Confirmation and Compensation of Director; Term of Service**
 
-Pub. L. 90–351, title VI, § 1101, June 19, 1968, 82 Stat. 236, as amended by Pub. L. 94–503, title II, § 203, Oct. 15, 1976, 90 Stat. 2427; Pub. L. 112–24, § 2, July 26, 2011, 125 Stat. 238, provided that:
+Pub. L. 90–351, title VI, § 1101, June 19, 1968, 82 Stat. 236, as amended by Pub. L. 94–503, title II, § 203, Oct. 15, 1976, 90 Stat. 2427; Pub. L. 112–24, § 2, July 26, 2011, 125 Stat. 238, provided that:
 
 > **“(a)** Effective as of the day following the date on which the present incumbent in the office of Director ceases to serve as such, the Director of the Federal Bureau of Investigation shall be appointed by the President, by and with the advice and consent of the Senate, and shall receive compensation at the rate prescribed for level II of the Federal Executive Salary Schedule [section 5313 of Title 5, Government Organization and Employees].
 
@@ -435,31 +435,31 @@ Pub. L. 90–351, title VI, § 1101, June 19, 1968, 82 Stat. 236, as amended b
 
 > **“(3)** With regard to the individual who is the incumbent in the office of the Director of the Federal Bureau of Investigation on the date of enactment of this subsection, the second sentence of subsection (b) shall not apply.”
 
-## § 533. Investigative and other officials; appointment
+## § 533. Investigative and other officials; appointment
 
 The Attorney General may appoint officials—
 
 **(1)** to detect and prosecute crimes against the United States;
 
-**(2)** to assist in the protection of the person of the President; and 1
+**(2)** to assist in the protection of the person of the President; and 1
 
-<sup>1</sup>  So in original. The word “and” probably should not appear.
+<sup>1</sup> So in original. The word “and” probably should not appear.
 
 **(3)** to assist in the protection of the person of the Attorney General.2
 
-<sup>2</sup>  So in original. The period probably should be “; and”.
+<sup>2</sup> So in original. The period probably should be “; and”.
 
 **(4)** to conduct such other investigations regarding official matters under the control of the Department of Justice and the Department of State as may be directed by the Attorney General.
 
 This section does not limit the authority of departments and agencies to investigate crimes against the United States when investigative jurisdiction has been assigned by law to such departments and agencies.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 616; amended Pub. L. 107–273, div. A, title II, § 204(e), Nov. 2, 2002, 116 Stat. 1776.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 616; amended Pub. L. 107–273, div. A, title II, § 204(e), Nov. 2, 2002, 116 Stat. 1776.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 299, 300 (less applicability to acquisition etc. of identification and other records). | Aug. 31, 1964, Pub. L. 88–527, § 201 (1st 105 words of 1st par. under “Federal Bureau of Investigation”, less applicability to acquisition etc. of identification and other records), 78 Stat. 717. |
+|  | 5 U.S.C. 299, 300 (less applicability to acquisition etc. of identification and other records). | Aug. 31, 1964, Pub. L. 88–527, § 201 (1st 105 words of 1st par. under “Federal Bureau of Investigation”, less applicability to acquisition etc. of identification and other records), 78 Stat. 717. |
 
 The section is from the Department of Justice Appropriation Act, 1965. Similar provisions were contained in each appropriation Act for the Department running back to 1921, which Acts are identified in a note under sections 299 and 300 of title 5, U.S.C. 1964 ed.
 
@@ -479,31 +479,31 @@ The last sentence is added because in various areas the authority to investigate
 
 **FBI Investigations of Espionage by Persons Employed by or Assigned to United States Diplomatic Missions Abroad**
 
-Pub. L. 101–193, title VI, § 603, Nov. 30, 1989, 103 Stat. 1710, provided that: “Subject to the authority of the Attorney General, the FBI shall supervise the conduct of all investigations of violations of the espionage laws of the United States by persons employed by or assigned to United States diplomatic missions abroad. All departments and agencies shall report immediately to the FBI any information concerning such a violation. All departments and agencies shall provide appropriate assistance to the FBI in the conduct of such investigations. Nothing in this provision shall be construed as establishing a defense to any criminal, civil, or administrative action.”
+Pub. L. 101–193, title VI, § 603, Nov. 30, 1989, 103 Stat. 1710, provided that: “Subject to the authority of the Attorney General, the FBI shall supervise the conduct of all investigations of violations of the espionage laws of the United States by persons employed by or assigned to United States diplomatic missions abroad. All departments and agencies shall report immediately to the FBI any information concerning such a violation. All departments and agencies shall provide appropriate assistance to the FBI in the conduct of such investigations. Nothing in this provision shall be construed as establishing a defense to any criminal, civil, or administrative action.”
 
 **Undercover Investigative Operations Conducted by Federal Bureau of Investigation or Drug Enforcement Administration; Annual Report to Congress; Financial Audit**
 
-Pub. L. 113–6, div. B, title II, § 207, Mar. 26, 2013, 127 Stat. 258, provided that: “Notwithstanding any other provision of law, during the current fiscal year and any fiscal year thereafter, section 102(b) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1993 (Public Law 102–395) [set out below] shall extend to the Bureau of Alcohol, Tobacco, Firearms and Explosives in the conduct of undercover investigative operations and shall apply with respect to any undercover investigative operation by the Bureau of Alcohol, Tobacco, Firearms and Explosives that is necessary for the detection and prosecution of crimes against the United States.”
+Pub. L. 113–6, div. B, title II, § 207, Mar. 26, 2013, 127 Stat. 258, provided that: “Notwithstanding any other provision of law, during the current fiscal year and any fiscal year thereafter, section 102(b) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1993 (Public Law 102–395) [set out below] shall extend to the Bureau of Alcohol, Tobacco, Firearms and Explosives in the conduct of undercover investigative operations and shall apply with respect to any undercover investigative operation by the Bureau of Alcohol, Tobacco, Firearms and Explosives that is necessary for the detection and prosecution of crimes against the United States.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 112–55, div. B, title II, § 207, Nov. 18, 2011, 125 Stat. 619.
+Pub. L. 112–55, div. B, title II, § 207, Nov. 18, 2011, 125 Stat. 619.
 
-Pub. L. 111–117, div. B, title II, § 207, Dec. 16, 2009, 123 Stat. 3139.
+Pub. L. 111–117, div. B, title II, § 207, Dec. 16, 2009, 123 Stat. 3139.
 
-Pub. L. 111–8, div. B, title II, § 207, Mar. 11, 2009, 123 Stat. 585.
+Pub. L. 111–8, div. B, title II, § 207, Mar. 11, 2009, 123 Stat. 585.
 
-Pub. L. 110–161, div. B, title II, § 207, Dec. 26, 2007, 121 Stat. 1913.
+Pub. L. 110–161, div. B, title II, § 207, Dec. 26, 2007, 121 Stat. 1913.
 
-Pub. L. 109–108, title I, § 107, Nov. 22, 2005, 119 Stat. 2304.
+Pub. L. 109–108, title I, § 107, Nov. 22, 2005, 119 Stat. 2304.
 
-Pub. L. 108–447, div. B, title I, § 116, Dec. 8, 2004, 118 Stat. 2870.
+Pub. L. 108–447, div. B, title I, § 116, Dec. 8, 2004, 118 Stat. 2870.
 
-Pub. L. 109–162, title XI, § 1151(c), Jan. 5, 2006, 119 Stat. 3112, provided that: “Section 102(b) of the Department of Justice and Related Agencies Appropriations Act, 1993 [Pub. L. 102–395, set out below], as in effect pursuant to section 815(d) of the Antiterrorism and Effective Death Penalty Act of 1996 [Pub. L. 104–132, set out below] shall apply with respect to the Bureau of Alcohol, Tobacco, Firearms, and Explosives and the undercover investigative operations of the Bureau on the same basis as such section applies with respect to any other agency and the undercover investigative operations of such agency.”
+Pub. L. 109–162, title XI, § 1151(c), Jan. 5, 2006, 119 Stat. 3112, provided that: “Section 102(b) of the Department of Justice and Related Agencies Appropriations Act, 1993 [Pub. L. 102–395, set out below], as in effect pursuant to section 815(d) of the Antiterrorism and Effective Death Penalty Act of 1996 [Pub. L. 104–132, set out below] shall apply with respect to the Bureau of Alcohol, Tobacco, Firearms, and Explosives and the undercover investigative operations of the Bureau on the same basis as such section applies with respect to any other agency and the undercover investigative operations of such agency.”
 
-Pub. L. 104–132, title VIII, § 815(d), Apr. 24, 1996, 110 Stat. 1315, provided that: “Notwithstanding any other provision of law, section 102(b) of the Department of Justice and Related Agencies Appropriations Act, 1993 (Public Law 102–395) [set out below], shall remain in effect until specifically repealed, subject to any limitation on appropriations contained in any Department of Justice Appropriation Authorization Act.”
+Pub. L. 104–132, title VIII, § 815(d), Apr. 24, 1996, 110 Stat. 1315, provided that: “Notwithstanding any other provision of law, section 102(b) of the Department of Justice and Related Agencies Appropriations Act, 1993 (Public Law 102–395) [set out below], shall remain in effect until specifically repealed, subject to any limitation on appropriations contained in any Department of Justice Appropriation Authorization Act.”
 
-Pub. L. 102–395, title I, § 102(b), Oct. 6, 1992, 106 Stat. 1838, as amended by section 112 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, and as enacted into law by Pub. L. 104–91, title I, § 101(a), Jan. 6, 1996, 110 Stat. 11, as amended by Pub. L. 104–99, title II, § 211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 109–177, title V, § 506(a)(10), Mar. 9, 2006, 120 Stat. 248; Pub. L. 111–259, title III, § 366, Oct. 7, 2010, 124 Stat. 2703, provided that:
+Pub. L. 102–395, title I, § 102(b), Oct. 6, 1992, 106 Stat. 1838, as amended by section 112 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, and as enacted into law by Pub. L. 104–91, title I, § 101(a), Jan. 6, 1996, 110 Stat. 11, as amended by Pub. L. 104–99, title II, § 211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 109–177, title V, § 506(a)(10), Mar. 9, 2006, 120 Stat. 248; Pub. L. 111–259, title III, § 366, Oct. 7, 2010, 124 Stat. 2703, provided that:
 
 > **“(b)**
 
@@ -577,25 +577,25 @@ Pub. L. 102–395, title I, § 102(b), Oct. 6, 1992, 106 Stat. 1838, as amende
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 102–140, title I, § 102(b)(4), (5), Oct. 28, 1991, 105 Stat. 793.
+Pub. L. 102–140, title I, § 102(b)(4), (5), Oct. 28, 1991, 105 Stat. 793.
 
-Pub. L. 101–515, title II, § 202(b)(4), (5), Nov. 5, 1990, 104 Stat. 2118.
+Pub. L. 101–515, title II, § 202(b)(4), (5), Nov. 5, 1990, 104 Stat. 2118.
 
-Pub. L. 101–162, title II, § 204(b)(4), (5), Nov. 21, 1989, 103 Stat. 1004.
+Pub. L. 101–162, title II, § 204(b)(4), (5), Nov. 21, 1989, 103 Stat. 1004.
 
-Pub. L. 100–459, title II, § 204(b)(4), (5), Oct. 1, 1988, 102 Stat. 2200, 2201, as amended by Pub. L. 101–650, title III, § 325(c)(2), Dec. 1, 1990, 104 Stat. 5121.
+Pub. L. 100–459, title II, § 204(b)(4), (5), Oct. 1, 1988, 102 Stat. 2200, 2201, as amended by Pub. L. 101–650, title III, § 325(c)(2), Dec. 1, 1990, 104 Stat. 5121.
 
-Pub. L. 100–202, § 101(a) [title II, § 204(b)(4), (5)], Dec. 22, 1987, 101 Stat. 1329, 1329–16.
+Pub. L. 100–202, § 101(a) [title II, § 204(b)(4), (5)], Dec. 22, 1987, 101 Stat. 1329, 1329–16.
 
-Pub. L. 99–500, § 101(b) [title II, § 204(b)(4), (5)], Oct. 18, 1986, 100 Stat. 1783–39, 1783–52, 1783–53, and Pub. L. 99–591, § 101(b) [title II, § 204(b)(4), (5)], Oct. 30, 1986, 100 Stat. 3341–39, 3341–52, 3341–53.
+Pub. L. 99–500, § 101(b) [title II, § 204(b)(4), (5)], Oct. 18, 1986, 100 Stat. 1783–39, 1783–52, 1783–53, and Pub. L. 99–591, § 101(b) [title II, § 204(b)(4), (5)], Oct. 30, 1986, 100 Stat. 3341–39, 3341–52, 3341–53.
 
-Pub. L. 99–180, title II, § 204(b)(4), (5), Dec. 13, 1985, 99 Stat. 1148.
+Pub. L. 99–180, title II, § 204(b)(4), (5), Dec. 13, 1985, 99 Stat. 1148.
 
-Pub. L. 98–411, title II, § 203(b)(4), (5), Aug. 30, 1984, 98 Stat. 1560.
+Pub. L. 98–411, title II, § 203(b)(4), (5), Aug. 30, 1984, 98 Stat. 1560.
 
-Pub. L. 98–166, title II, § 205(b)(4), (5), Nov. 28, 1983, 97 Stat. 1087.
+Pub. L. 98–166, title II, § 205(b)(4), (5), Nov. 28, 1983, 97 Stat. 1087.
 
-Pub. L. 96–132, § 7(d), Nov. 30, 1979, 93 Stat. 1046, provided that:
+Pub. L. 96–132, § 7(d), Nov. 30, 1979, 93 Stat. 1046, provided that:
 
 > **“(1)** The Federal Bureau of Investigation shall conduct detailed financial audits of undercover operations closed on or after October 1, 1979, and—
 
@@ -609,7 +609,7 @@ Pub. L. 96–132, § 7(d), Nov. 30, 1979, 93 Stat. 1046, provided that:
 
 > **“(B)** which is exempted from section 3617 of the Revised Statutes (31 U.S.C. 484) [31 U.S.C. 3302(b)] or section 304(a) of the Government Corporation Control Act (31 U.S.C. 869(a)) [31 U.S.C. 9102].”
 
-## § 534. Acquisition, preservation, and exchange of identification records and information; appointment of officials
+## § 534. Acquisition, preservation, and exchange of identification records and information; appointment of officials
 
 **(a)** The Attorney General shall—
 
@@ -669,18 +669,18 @@ Pub. L. 96–132, § 7(d), Nov. 30, 1979, 93 Stat. 1046, provided that:
 
 **(ii)** any support, child custody or visitation provisions, orders, remedies, or relief issued as part of a protection order, restraining order, or stay away injunction pursuant to State, tribal, territorial, or local law authorizing the issuance of protection orders, restraining orders, or injunctions for the protection of victims of domestic violence, dating violence, sexual assault, or stalking.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 616; amended Pub. L. 97–292, §§ 2, 3(a), Oct. 12, 1982, 96 Stat. 1259; Pub. L. 100–690, title VII, § 7333, Nov. 18, 1988, 102 Stat. 4469; Pub. L. 103–322, title IV, § 40601(a), Sept. 13, 1994, 108 Stat. 1950; Pub. L. 107–273, div. A, title II, § 204(c), div. B, title IV, § 4003(b)(4), div. C, title I, § 11004, Nov. 2, 2002, 116 Stat. 1776, 1811, 1816; Pub. L. 109–162, title I, § 118, title IX, § 905(a), Jan. 5, 2006, 119 Stat. 2989, 3079; Pub. L. 109–248, title I, § 153(i), July 27, 2006, 120 Stat. 611; Pub. L. 111–211, title II, § 233(a), July 29, 2010, 124 Stat. 2279; Pub. L. 111–369, § 2, Jan. 4, 2011, 124 Stat. 4068; Pub. L. 117–103, div. W, title VIII, § 802(b), Mar. 15, 2022, 136 Stat. 898; Pub. L. 117–159, div. A, title II, § 12004(h)(2), June 25, 2022, 136 Stat. 1331.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 616; amended Pub. L. 97–292, §§ 2, 3(a), Oct. 12, 1982, 96 Stat. 1259; Pub. L. 100–690, title VII, § 7333, Nov. 18, 1988, 102 Stat. 4469; Pub. L. 103–322, title IV, § 40601(a), Sept. 13, 1994, 108 Stat. 1950; Pub. L. 107–273, div. A, title II, § 204(c), div. B, title IV, § 4003(b)(4), div. C, title I, § 11004, Nov. 2, 2002, 116 Stat. 1776, 1811, 1816; Pub. L. 109–162, title I, § 118, title IX, § 905(a), Jan. 5, 2006, 119 Stat. 2989, 3079; Pub. L. 109–248, title I, § 153(i), July 27, 2006, 120 Stat. 611; Pub. L. 111–211, title II, § 233(a), July 29, 2010, 124 Stat. 2279; Pub. L. 111–369, § 2, Jan. 4, 2011, 124 Stat. 4068; Pub. L. 117–103, div. W, title VIII, § 802(b), Mar. 15, 2022, 136 Stat. 898; Pub. L. 117–159, div. A, title II, § 12004(h)(2), June 25, 2022, 136 Stat. 1331.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 300 (as applicable to acquisition etc. of identification and other records). | Aug. 31, 1964, Pub. L. 88–527, § 201 (1st 105 words of 1st par. under “Federal Bureau of Investigation”, as applicable to acquisition etc. of identification and other records), 78 Stat. 717. |
+|  | 5 U.S.C. 300 (as applicable to acquisition etc. of identification and other records). | Aug. 31, 1964, Pub. L. 88–527, § 201 (1st 105 words of 1st par. under “Federal Bureau of Investigation”, as applicable to acquisition etc. of identification and other records), 78 Stat. 717. |
 |  | 5 U.S.C. 340. | June 11, 1930, ch. 455, 46 Stat. 554. |
 
 The sections are combined and reorganized for clarity. Former section 300 of title 5 was from the Department of Justice Appropriation Act, 1965. Similar provisions were contained in each appropriation Act for the Department of Justice running back to 1921, which Acts are identified in a note under former section 300 of title 5, U.S.C. 1964 ed.
 
-In subsection (a), the word “shall” is substituted for “has the duty” as a more direct expression. The function of acquiring, collecting, classifying, etc., referred to in former section 340 of title 5 was transferred to the Attorney General by 1950 Reorg., Plan No. 2, § 1, eff. May 24, 1950, 64 Stat. 1261, which is codified in section 509 of this title. Accordingly, the first 29 words and last 30 words of former section 340 are omitted as unnecessary.
+In subsection (a), the word “shall” is substituted for “has the duty” as a more direct expression. The function of acquiring, collecting, classifying, etc., referred to in former section 340 of title 5 was transferred to the Attorney General by 1950 Reorg., Plan No. 2, § 1, eff. May 24, 1950, 64 Stat. 1261, which is codified in section 509 of this title. Accordingly, the first 29 words and last 30 words of former section 340 are omitted as unnecessary.
 
 In subsection (c), the authority to appoint officials for the cited purposes is implied.
 
@@ -688,45 +688,45 @@ In subsection (c), the authority to appoint officials for the cited purposes is 
 
 **Amendments**
 
-2022—Subsec. (a)(5). Pub. L. 117–159, § 12004(h)(2)(A), added par. (5).
+2022—Subsec. (a)(5). Pub. L. 117–159, § 12004(h)(2)(A), added par. (5).
 
-Subsec. (b). Pub. L. 117–159, § 12004(h)(2)(B), inserted “, except for dissemination authorized under subsection (a)(5) of this section” before period at end.
+Subsec. (b). Pub. L. 117–159, § 12004(h)(2)(B), inserted “, except for dissemination authorized under subsection (a)(5) of this section” before period at end.
 
 Subsec. (d). Pub. L. 117–103 designated existing provisions as par. (1), inserted par. (1) heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and added pars. (2) and (3).
 
-2011—Subsec. (a)(4). Pub. L. 111–369 inserted “, including State sentencing commissions” after “, the States”.
+2011—Subsec. (a)(4). Pub. L. 111–369 inserted “, including State sentencing commissions” after “, the States”.
 
-2010—Subsec. (a)(4). Pub. L. 111–211, § 233(a)(1), inserted “Indian tribes,” after “the States,”.
+2010—Subsec. (a)(4). Pub. L. 111–211, § 233(a)(1), inserted “Indian tribes,” after “the States,”.
 
-Subsec. (d). Pub. L. 111–211, § 233(a)(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Attorney General shall permit Indian law enforcement agencies, in cases of domestic violence, dating violence, sexual assault, and stalking, to enter information into Federal criminal information databases and to obtain information from the databases.”
+Subsec. (d). Pub. L. 111–211, § 233(a)(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Attorney General shall permit Indian law enforcement agencies, in cases of domestic violence, dating violence, sexual assault, and stalking, to enter information into Federal criminal information databases and to obtain information from the databases.”
 
-Subsec. (e). Pub. L. 111–211, § 233(a)(3), which directed redesignation of “the second subsection (e)” as (f), could not be executed because only one subsec. (e) appeared subsequent to amendment by Pub. L. 109–248. See 2006 Amendment note below.
+Subsec. (e). Pub. L. 111–211, § 233(a)(3), which directed redesignation of “the second subsection (e)” as (f), could not be executed because only one subsec. (e) appeared subsequent to amendment by Pub. L. 109–248. See 2006 Amendment note below.
 
-Subsec. (f)(2). Pub. L. 111–211, § 233(a)(4), which directed amendment of par. (2) of subsec. (f) as redesignated by Pub. L. 111–211 by inserting “, tribal,” after “Federal” in introductory provisions, was executed by making the insertion in par. (2) of subsec. (f) as redesignated by Pub. L. 109–248, to reflect the probable intent of Congress.
+Subsec. (f)(2). Pub. L. 111–211, § 233(a)(4), which directed amendment of par. (2) of subsec. (f) as redesignated by Pub. L. 111–211 by inserting “, tribal,” after “Federal” in introductory provisions, was executed by making the insertion in par. (2) of subsec. (f) as redesignated by Pub. L. 109–248, to reflect the probable intent of Congress.
 
-2006—Subsec. (d). Pub. L. 109–162, § 905(a)(2), added subsec. (d). Former subsec. (d) redesignated (e).
+2006—Subsec. (d). Pub. L. 109–162, § 905(a)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 109–248 redesignated subsec. (e), relating to information from national crime information databases, as (f).
 
-Pub. L. 109–162, § 905(a)(1), redesignated subsec. (d), relating to the term “other institutions”, as (e).
+Pub. L. 109–162, § 905(a)(1), redesignated subsec. (d), relating to the term “other institutions”, as (e).
 
-Subsec. (e)(3)(B). Pub. L. 109–162, § 118, added subpar. (B) and struck out former subpar. (B) which read as follows: “the term ‘protection order’ includes an injunction or any other order issued for the purpose of preventing violent or threatening acts or harassment against, or contact or communication with or physical proximity to, another person, including temporary and final orders issued by civil or criminal courts (other than support or child custody orders) whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection.”
+Subsec. (e)(3)(B). Pub. L. 109–162, § 118, added subpar. (B) and struck out former subpar. (B) which read as follows: “the term ‘protection order’ includes an injunction or any other order issued for the purpose of preventing violent or threatening acts or harassment against, or contact or communication with or physical proximity to, another person, including temporary and final orders issued by civil or criminal courts (other than support or child custody orders) whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection.”
 
 Subsec. (f). Pub. L. 109–248 redesignated subsec. (e), relating to information from national crime information databases, as (f).
 
-2002—Subsec. (a)(3). Pub. L. 107–273, §§ 204(c) and 4003(b)(4), amended par. (3) identically, inserting “and” at end.
+2002—Subsec. (a)(3). Pub. L. 107–273, §§ 204(c) and 4003(b)(4), amended par. (3) identically, inserting “and” at end.
 
-Subsec. (a)(4). Pub. L. 107–273, § 11004, added par. (4) and struck out former par. (4) which read as follows: “exchange such records and information with, and for the official use of, authorized officials of the Federal Government, the States, cities, and penal and other institutions.”
+Subsec. (a)(4). Pub. L. 107–273, § 11004, added par. (4) and struck out former par. (4) which read as follows: “exchange such records and information with, and for the official use of, authorized officials of the Federal Government, the States, cities, and penal and other institutions.”
 
 1994—Subsec. (e). Pub. L. 103–322 added subsec. (e).
 
 1988—Subsec. (d). Pub. L. 100–690 added subsec. (d).
 
-1982—Pub. L. 97–292, § 3(a), inserted “and information” after “identification records” in section catchline.
+1982—Pub. L. 97–292, § 3(a), inserted “and information” after “identification records” in section catchline.
 
-Subsec. (a). Pub. L. 97–292, § 2(a), added pars. (2) and (3), redesignated former par. (2) as (4), and substituted “exchange such records and information” for “exchange these records” in par. (4).
+Subsec. (a). Pub. L. 97–292, § 2(a), added pars. (2) and (3), redesignated former par. (2) as (4), and substituted “exchange such records and information” for “exchange these records” in par. (4).
 
-Subsec. (b). Pub. L. 97–292, § 2(b), substituted “exchange of records and information authorized by subsection (a)(4)” for “exchange of records authorized by subsection (a)(2)”.
+Subsec. (b). Pub. L. 97–292, § 2(b), substituted “exchange of records and information authorized by subsection (a)(4)” for “exchange of records authorized by subsection (a)(2)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -736,11 +736,11 @@ Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal ye
 
 **Regulations**
 
-Pub. L. 103–322, title IV, § 40601(b), Sept. 13, 1994, 108 Stat. 1951, provided that: “The Attorney General may make rules to carry out the subsection added to section 534 of title 28, United States Code, by subsection (a), after consultation with the officials charged with managing the National Crime Information Center and the Criminal Justice Information Services Advisory Policy Board.”
+Pub. L. 103–322, title IV, § 40601(b), Sept. 13, 1994, 108 Stat. 1951, provided that: “The Attorney General may make rules to carry out the subsection added to section 534 of title 28, United States Code, by subsection (a), after consultation with the officials charged with managing the National Crime Information Center and the Criminal Justice Information Services Advisory Policy Board.”
 
 **Statutory Construction; Evidence**
 
-Pub. L. 117–159, div. A, title II, § 12004(h)(4), June 25, 2022, 136 Stat. 1331, provided that:
+Pub. L. 117–159, div. A, title II, § 12004(h)(4), June 25, 2022, 136 Stat. 1331, provided that:
 
 > **“(A) Statutory construction.—** Nothing in this subsection [amending this section and section 40901 of Title 34, Crime Control and Law Enforcement, and enacting provisions set out as a note preceding section 41101 of Title 34] or the amendments made by this subsection shall be construed—
 
@@ -754,35 +754,35 @@ Nothing in amendment made by Pub. L. 117–159 to be construed to allow the esta
 
 **Improving Department of Justice Data Collection on Mental Illness Involved in Crime**
 
-Pub. L. 114–255, div. B, title XIV, § 14015, Dec. 13, 2016, 130 Stat. 1306, which requires inclusion of data with respect to the involvement of mental illness in incidences of certain crimes in data prepared by or submitted to the Attorney General or the FBI Director, was editorially reclassified as section 41311 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 114–255, div. B, title XIV, § 14015, Dec. 13, 2016, 130 Stat. 1306, which requires inclusion of data with respect to the involvement of mental illness in incidences of certain crimes in data prepared by or submitted to the Attorney General or the FBI Director, was editorially reclassified as section 41311 of Title 34, Crime Control and Law Enforcement.
 
 **Access to National Crime Information Databases**
 
-Pub. L. 111–211, title II, § 233(b), July 29, 2010, 124 Stat. 2279, which requires the Attorney General to ensure that tribal law enforcement officials that meet applicable Federal or State requirements be permitted access to national crime information databases, was editorially reclassified as section 41107 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 111–211, title II, § 233(b), July 29, 2010, 124 Stat. 2279, which requires the Attorney General to ensure that tribal law enforcement officials that meet applicable Federal or State requirements be permitted access to national crime information databases, was editorially reclassified as section 41107 of Title 34, Crime Control and Law Enforcement.
 
 **Additional Reporting on Crime**
 
-Pub. L. 110–457, title II, § 237(a), (b), Dec. 23, 2008, 122 Stat. 5083, which relates to reporting on human trafficking, was editorially reclassified as section 41309 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 110–457, title II, § 237(a), (b), Dec. 23, 2008, 122 Stat. 5083, which relates to reporting on human trafficking, was editorially reclassified as section 41309 of Title 34, Crime Control and Law Enforcement.
 
 **Tribal Registry**
 
-Pub. L. 109–162, title IX, § 905(b), Jan. 5, 2006, 119 Stat. 3080, as amended by Pub. L. 113–4, title IX, § 907(b), Mar. 7, 2013, 127 Stat. 125, which directed the Attorney General to establish and maintain a national tribal sex offender registry along with interested tribal organizations, was editorially reclassified as section 20903 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 109–162, title IX, § 905(b), Jan. 5, 2006, 119 Stat. 3080, as amended by Pub. L. 113–4, title IX, § 907(b), Mar. 7, 2013, 127 Stat. 125, which directed the Attorney General to establish and maintain a national tribal sex offender registry along with interested tribal organizations, was editorially reclassified as section 20903 of Title 34, Crime Control and Law Enforcement.
 
 **National Gang Intelligence Center**
 
-Pub. L. 109–162, title XI, § 1107, Jan. 5, 2006, 119 Stat. 3093, as amended by Pub. L. 111–211, title II, § 251(a), July 29, 2010, 124 Stat. 2297, providing for the establishment of the National Gang Intelligence Center, was editorially reclassified as section 41507 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 109–162, title XI, § 1107, Jan. 5, 2006, 119 Stat. 3093, as amended by Pub. L. 111–211, title II, § 251(a), July 29, 2010, 124 Stat. 2297, providing for the establishment of the National Gang Intelligence Center, was editorially reclassified as section 41507 of Title 34, Crime Control and Law Enforcement.
 
 **Reviews of Criminal Records of Applicants for Private Security Officer Employment**
 
-Pub. L. 108–458, title VI, § 6402, Dec. 17, 2004, 118 Stat. 3755, known as the Private Security Officer Employment Authorization Act of 2004, was editorially reclassified as section 41106 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 108–458, title VI, § 6402, Dec. 17, 2004, 118 Stat. 3755, known as the Private Security Officer Employment Authorization Act of 2004, was editorially reclassified as section 41106 of Title 34, Crime Control and Law Enforcement.
 
 **Criminal Background Checks for Applicants for Employment in Nursing Facilities and Home Health Care Agencies**
 
-Pub. L. 105–277, div. A, § 101(b) [title I, § 124], Oct. 21, 1998, 112 Stat. 2681–50, 2681–73, which authorizes a nursing facility or home health care agency to submit a request to the Attorney General to conduct a search and exchange of criminal history records regarding an applicant for employment if the employment position is involved in direct patient care, was editorially reclassified as section 41105 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 105–277, div. A, § 101(b) [title I, § 124], Oct. 21, 1998, 112 Stat. 2681–50, 2681–73, which authorizes a nursing facility or home health care agency to submit a request to the Attorney General to conduct a search and exchange of criminal history records regarding an applicant for employment if the employment position is involved in direct patient care, was editorially reclassified as section 41105 of Title 34, Crime Control and Law Enforcement.
 
 **Compilation of Statistics Relating to Intimidation of Government Employees**
 
-Pub. L. 104–132, title VIII, § 808, Apr. 24, 1996, 110 Stat. 1310, which required Attorney General to collect data for the calendar year 1990 and each succeeding calendar year, relating to crimes and incidents of threats of violence and acts of violence against Federal, State, and local government employees and their families in the performance of their lawful duties, and to annually publish a summary of the data collected to be used only for research and statistical purposes, was repealed by Pub. L. 107–273, div. A, title III, § 311(a), Nov. 2, 2002, 116 Stat. 1786.
+Pub. L. 104–132, title VIII, § 808, Apr. 24, 1996, 110 Stat. 1310, which required Attorney General to collect data for the calendar year 1990 and each succeeding calendar year, relating to crimes and incidents of threats of violence and acts of violence against Federal, State, and local government employees and their families in the performance of their lawful duties, and to annually publish a summary of the data collected to be used only for research and statistical purposes, was repealed by Pub. L. 107–273, div. A, title III, § 311(a), Nov. 2, 2002, 116 Stat. 1786.
 
 **National Crime Information Center Project 2000**
 
@@ -824,19 +824,19 @@ Pub. L. 101–647, title VI, subtitle B, Nov. 29, 1990, 104 Stat. 4823, provided
 
 **FBI Fees To Process Fingerprint Identification Records and Name Checks**
 
-Pub. L. 101–515, title II, Nov. 5, 1990, 104 Stat. 2112, as amended by section 113 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, and as enacted into law by Pub. L. 104–91, title I, § 101(a), Jan. 6, 1996, 110 Stat. 11, as amended by Pub. L. 104–99, title II, § 211, Jan. 26, 1996, 110 Stat. 37, which authorized the FBI Director to establish and collect fees to process fingerprint identification records and name checks for non-criminal justice, non-law enforcement employment and licensing purposes and for certain employees of private sector contractors with classified Government contracts, was editorially reclassified as section 41104 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 101–515, title II, Nov. 5, 1990, 104 Stat. 2112, as amended by section 113 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, and as enacted into law by Pub. L. 104–91, title I, § 101(a), Jan. 6, 1996, 110 Stat. 11, as amended by Pub. L. 104–99, title II, § 211, Jan. 26, 1996, 110 Stat. 37, which authorized the FBI Director to establish and collect fees to process fingerprint identification records and name checks for non-criminal justice, non-law enforcement employment and licensing purposes and for certain employees of private sector contractors with classified Government contracts, was editorially reclassified as section 41104 of Title 34, Crime Control and Law Enforcement.
 
 **Hate Crime Statistics**
 
-Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, as amended by Pub. L. 103–322, title XXXII, § 320926, Sept. 13, 1994, 108 Stat. 2131; Pub. L. 104–155, § 7, July 3, 1996, 110 Stat. 1394; Pub. L. 111–84, div. E, § 4708, Oct. 28, 2009, 123 Stat. 2841, known as the Hate Crimes Statistics Act, consisting of sections 1 and 2, was editorially reclassified to Title 34, Crime Control and Law Enforcement. Section 1 was editorially reclassified as section 41305 of Title 34. Section 2 was editorially reclassified as a note under section 41305 of Title 34.
+Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, as amended by Pub. L. 103–322, title XXXII, § 320926, Sept. 13, 1994, 108 Stat. 2131; Pub. L. 104–155, § 7, July 3, 1996, 110 Stat. 1394; Pub. L. 111–84, div. E, § 4708, Oct. 28, 2009, 123 Stat. 2841, known as the Hate Crimes Statistics Act, consisting of sections 1 and 2, was editorially reclassified to Title 34, Crime Control and Law Enforcement. Section 1 was editorially reclassified as section 41305 of Title 34. Section 2 was editorially reclassified as a note under section 41305 of Title 34.
 
 **Uniform Federal Crime Reporting Act of 1988**
 
-Pub. L. 100–690, title VII, § 7332, Nov. 18, 1988, 102 Stat. 4468, known as the Uniform Federal Crime Reporting Act of 1988, was editorially reclassified as section 41303 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 100–690, title VII, § 7332, Nov. 18, 1988, 102 Stat. 4468, known as the Uniform Federal Crime Reporting Act of 1988, was editorially reclassified as section 41303 of Title 34, Crime Control and Law Enforcement.
 
 **Family and Domestic Violence; Data Collection and Reporting**
 
-Pub. L. 100–690, title VII, § 7609, Nov. 18, 1988, 102 Stat. 4517, which required inclusion of certain data relating to the victim in uniform crime reports by the Attorney General and publication of domestic violence data by the Director of the Bureau of Justice Statistics, was editorially reclassified as section 41304 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 100–690, title VII, § 7609, Nov. 18, 1988, 102 Stat. 4517, which required inclusion of certain data relating to the victim in uniform crime reports by the Attorney General and publication of domestic violence data by the Director of the Bureau of Justice Statistics, was editorially reclassified as section 41304 of Title 34, Crime Control and Law Enforcement.
 
 **Parimutuel Licensing Simplification**
 
@@ -846,7 +846,7 @@ Pub. L. 100–413, Aug. 22, 1988, 102 Stat. 1101, known as the Parimutuel Licens
 
 Pub. L. 92–544, title II, Oct. 25, 1972, 86 Stat. 1115, which provided funds for the exchange of identification records, was editorially reclassified as section 41101 of Title 34, Crime Control and Law Enforcement.
 
-## § 535. Investigation of crimes involving Government officers and employees; limitations
+## § 535. Investigation of crimes involving Government officers and employees; limitations
 
 **(a)** The Attorney General and the Federal Bureau of Investigation may investigate any violation of Federal criminal law involving Government officers and employees—
 
@@ -866,13 +866,13 @@ Pub. L. 92–544, title II, Oct. 25, 1972, 86 Stat. 1115, which provided funds f
 
 **(2)** the primary authority of the Postmaster General to investigate postal offenses.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 616; amended Pub. L. 107–273, div. A, title II, § 206, Nov. 2, 2002, 116 Stat. 1779.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 616; amended Pub. L. 107–273, div. A, title II, § 206, Nov. 2, 2002, 116 Stat. 1779.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 311a. | Aug. 31, 1954, ch. 1143, § 1, 68 Stat. 998. |
+|  | 5 U.S.C. 311a. | Aug. 31, 1954, ch. 1143, § 1, 68 Stat. 998. |
 
 The section is reorganized for clarity and continuity.
 
@@ -892,58 +892,58 @@ Subsec. (b). Pub. L. 107–273, in introductory provisions, substituted “matte
 
 **Transfer of Functions**
 
-Office of Postmaster General of Post Office Department abolished and all functions, powers, and duties of Postmaster General transferred to United States Postal Service by Pub. L. 91–375, § 4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service.
+Office of Postmaster General of Post Office Department abolished and all functions, powers, and duties of Postmaster General transferred to United States Postal Service by Pub. L. 91–375, § 4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service.
 
-## § 536. Positions in excepted service
+## § 536. Positions in excepted service
 
 All positions in the Federal Bureau of Investigation are excepted from the competitive service, and the incumbents of such positions occupy positions in the excepted service.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 617.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 617.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 300d. | Aug. 31, 1964, Pub. L. 88–527, § 201 (2nd par. under “Federal Bureau of Investigation”), 78 Stat. 718. |
-|  | 5 U.S.C. 341c (last sentence). | July 28, 1950, ch. 503, § 5 (last sentence), 4 Stat. 380. |
+|  | 5 U.S.C. 300d. | Aug. 31, 1964, Pub. L. 88–527, § 201 (2nd par. under “Federal Bureau of Investigation”), 78 Stat. 718. |
+|  | 5 U.S.C. 341c (last sentence). | July 28, 1950, ch. 503, § 5 (last sentence), 4 Stat. 380. |
 
 The section is revised and restated to eliminate ambiguity and give true effect to the prohibition against the use of appropriations to the Federal Bureau of Investigation. The language used to define the excepted status of the positions, officers, and employees is based on revised sections 2102 and 2103 of title 5, United States Code.
 
 The provisions of this section were made permanent by the Act of July 28, 1950, 64 Stat. 380. Identical provisions appearing in former section 300d of title 5 are derived from the Department of Justice Appropriation Act, 1965, and earlier appropriation Acts for the Department of Justice running back to 1942, which Acts are identified in a note under former section 300d of title 5, U.S.C. 1964 ed.
 
-## § 537. Expenses of unforeseen emergencies of a confidential character
+## § 537. Expenses of unforeseen emergencies of a confidential character
 
 Appropriations for the Federal Bureau of Investigation are available for expenses of unforeseen emergencies of a confidential character, when so specified in the appropriation concerned, to be spent under the direction of the Attorney General. The Attorney General shall certify the amount spent that he considers advisable not to specify, and his certification is a sufficient voucher for the amount therein expressed to have been spent.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 617.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 617.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 341c (less last sentence). | July 28, 1950, ch. 503, § 5 (less last sentence), 64 Stat. 380. |
+|  | 5 U.S.C. 341c (less last sentence). | July 28, 1950, ch. 503, § 5 (less last sentence), 64 Stat. 380. |
 
 The section is revised and reorganized for clarity. The words “now or hereafter provided” are omitted as unnecessary. The words “for expenses of membership in the International Commission of Criminal Police and” are omitted as obsolete. The Act of Aug. 27, 1958, Pub. L. 85–768, 72 Stat. 921 (22 U.S.C. 263a) authorizes the Attorney General to accept and maintain, on behalf of the United States, membership in the International Criminal Police Organization, and to designate any departments and agencies which may participate in the United States representation with that organization; and authorizes each participating department and agency to pay its pro rata share, as determined by the Attorney General, of the expenses of such membership. The word “spent” is substituted for “expended”. The words “certify the amount spent that he considers” are substituted for “make a certificate of the amount of any such expenditure as he may think it”. The words “his certification is a sufficient voucher” are substituted for “and every such certificate shall be deemed a sufficient voucher”.
 
-## § 538. Investigation of aircraft piracy and related violations
+## § 538. Investigation of aircraft piracy and related violations
 
 The Federal Bureau of Investigation shall investigate any violation of section 46314 or chapter 465 of title 49.
 
-(Added Pub. L. 103–272, § 4(e)(1), July 5, 1994, 108 Stat. 1361.)
+(Added Pub. L. 103–272, § 4(e)(1), July 5, 1994, 108 Stat. 1361.)
 
-## § 539. Counterintelligence official reception and representation expenses
+## § 539. Counterintelligence official reception and representation expenses
 
 The Director of the Federal Bureau of Investigation may use funds available to the Federal Bureau of Investigation for counterintelligence programs to pay the expenses of hosting foreign officials in the United States under the auspices of the Federal Bureau of Investigation for consultation on counterintelligence matters.
 
-(Added Pub. L. 99–569, title IV, § 401(a), Oct. 27, 1986, 100 Stat. 3195.)
+(Added Pub. L. 99–569, title IV, § 401(a), Oct. 27, 1986, 100 Stat. 3195.)
 
-## § 540. Investigation of felonious killings of State or local law enforcement officers
+## § 540. Investigation of felonious killings of State or local law enforcement officers
 
 The Attorney General and the Federal Bureau of Investigation may investigate felonious killings of officials and employees of a State or political subdivision thereof while engaged in or on account of the performance of official duties relating to the prevention, detection, investigation, or prosecution of an offense against the criminal laws of a State or political subdivision, when such investigation is requested by the head of the agency employing the official or employee killed, and under such guidelines as the Attorney General or his designee may establish.
 
-(Added Pub. L. 100–690, title VII, § 7331(a), Nov. 18, 1988, 102 Stat. 4468.)
+(Added Pub. L. 100–690, title VII, § 7331(a), Nov. 18, 1988, 102 Stat. 4468.)
 
-## § 540A. Investigation of violent crimes against travelers
+## § 540A. Investigation of violent crimes against travelers
 
 **(a) In General.—** At the request of an appropriate law enforcement official of a State or political subdivision, the Attorney General and Director of the Federal Bureau of Investigation may assist in the investigation of a felony crime of violence in violation of the law of any State in which the victim appears to have been selected because he or she is a traveler.
 
@@ -957,7 +957,7 @@ The Attorney General and the Federal Bureau of Investigation may investigate fel
 
 **(3)** “traveler” means a victim of a crime of violence who is not a resident of the State in which the crime of violence occurred.
 
-(Added Pub. L. 103–322, title XXXII, § 320916(a), Sept. 13, 1994, 108 Stat. 2129; amended Pub. L. 104–294, title VI, § 604(b)(21), Oct. 11, 1996, 110 Stat. 3507.)
+(Added Pub. L. 103–322, title XXXII, § 320916(a), Sept. 13, 1994, 108 Stat. 2129; amended Pub. L. 104–294, title VI, § 604(b)(21), Oct. 11, 1996, 110 Stat. 3507.)
 
 **Editorial Notes**
 
@@ -971,7 +971,7 @@ The Attorney General and the Federal Bureau of Investigation may investigate fel
 
 Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of Title 18, Crimes and Criminal Procedure.
 
-## § 540B. Investigation of serial killings
+## § 540B. Investigation of serial killings
 
 **(a) In General.—** The Attorney General and the Director of the Federal Bureau of Investigation may investigate serial killings in violation of the laws of a State or political subdivision, if such investigation is requested by the head of a law enforcement agency with investigative or prosecutorial jurisdiction over the offense.
 
@@ -983,9 +983,9 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 **(3) State.—** The term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Added Pub. L. 105–314, title VII, § 701(a), Oct. 30, 1998, 112 Stat. 2986.)
+(Added Pub. L. 105–314, title VII, § 701(a), Oct. 30, 1998, 112 Stat. 2986.)
 
-## § 540C. FBI police
+## § 540C. FBI police
 
 **(a) Definitions.—** In this section:
 
@@ -1043,13 +1043,13 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 **(c) Authority of Metropolitan Police Force.—** This section does not affect the authority of the Metropolitan Police Force of the District of Columbia with respect to FBI buildings and grounds.
 
-(Added Pub. L. 107–273, div. C, title I, § 11024(a), Nov. 2, 2002, 116 Stat. 1830.)
+(Added Pub. L. 107–273, div. C, title I, § 11024(a), Nov. 2, 2002, 116 Stat. 1830.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Another section 540C, added Pub. L. 107–306, title VIII, § 824(a), Nov. 27, 2002, 116 Stat. 2428, related to annual report on activities of Federal Bureau of Investigation personnel outside the United States. Pub. L. 108–177, title III, § 361(i), (n), Dec. 13, 2003, 117 Stat. 2625, 2626, which, under the heading “Annual Report on Activities of FBI Personnel Outside the United States”, directed the repeal of section 540C of title 28, effective Dec. 31, 2003, was executed by repealing the section 540C added by Pub. L. 107–306, to reflect the probable intent of Congress.
+Another section 540C, added Pub. L. 107–306, title VIII, § 824(a), Nov. 27, 2002, 116 Stat. 2428, related to annual report on activities of Federal Bureau of Investigation personnel outside the United States. Pub. L. 108–177, title III, § 361(i), (n), Dec. 13, 2003, 117 Stat. 2625, 2626, which, under the heading “Annual Report on Activities of FBI Personnel Outside the United States”, directed the repeal of section 540C of title 28, effective Dec. 31, 2003, was executed by repealing the section 540C added by Pub. L. 107–306, to reflect the probable intent of Congress.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1057,7 +1057,7 @@ Another section 540C, added Pub. L. 107–306, title VIII, § 824(a), Nov. 27,
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 540D. Multidisciplinary teams
+## § 540D. Multidisciplinary teams
 
 **(a) Definitions.—** In this section—
 
@@ -1089,9 +1089,9 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 
 **(3) Children’s advocacy centers.—** The Director—
 
-**(A)** may work with children’s advocacy centers to implement a multidisciplinary team approaches 1
+**(A)** may work with children’s advocacy centers to implement a multidisciplinary team approaches 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 for purposes of covered investigations; and
 
@@ -1173,7 +1173,7 @@ for purposes of covered investigations; and
 
 **(vii)** case outcomes; and
 
-**(viii)** any other information required for a children’s advocacy centers <sup>1</sup> as a part of the standards of practice of the children’s advocacy center; and
+**(viii)** any other information required for a children’s advocacy centers <sup>1</sup> as a part of the standards of practice of the children’s advocacy center; and
 
 **(C) Exempt information.—** The case information described in subparagraph (A) does not include—
 
@@ -1209,4 +1209,4 @@ for purposes of covered investigations; and
 
 **(2) Protecting investigations.—** Nothing in this section shall be construed to limit the legal obligations of the Director under any other provision of law, including section 552a of title 5 (commonly known as the “Privacy Act of 1974”), or require the sharing of classified information with unauthorized persons.
 
-(Added Pub. L. 117–354, § 2(a), Jan. 5, 2023, 136 Stat. 6270.)
+(Added Pub. L. 117–354, § 2(a), Jan. 5, 2023, 136 Stat. 6270.)

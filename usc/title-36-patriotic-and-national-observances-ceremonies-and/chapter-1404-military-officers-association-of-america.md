@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1404—MILITARY OFFICERS ASSOCIATION OF AMERICA"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1404—MILITARY OFFICERS ASSOCIATION OF AMERICA"
 identifier: "/us/usc/t36/stII/ptB/ch1404"
 type: code
 jurisdiction: us
@@ -11,17 +11,17 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1404—MILITARY OFFICERS ASSOCIATION OF AMERICA
 
-## § 140401. Organization
+## § 140401. Organization
 
 **(a) Federal Charter.—** Military Officers Association of America (in this chapter, the “corporation”), a nonprofit organization that meets the requirements for a veterans service organization under section 501(c)(19) of the Internal Revenue Code of 1986 and is organized under the laws of the Commonwealth of Virginia, is a federally chartered corporation.
 
 **(b) Expiration of Charter.—** If the corporation does not comply with the provisions of this chapter, the charter granted by subsection (a) shall expire.
 
-(Added Pub. L. 111–95, § 1(a), Nov. 6, 2009, 123 Stat. 3001.)
+(Added Pub. L. 111–95, § 1(a), Nov. 6, 2009, 123 Stat. 3001.)
 
 **Editorial Notes**
 
@@ -29,7 +29,7 @@ retrieved: 2026-10-11
 
 Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (a), is classified to section 501 of Title 26, Internal Revenue Code.
 
-## § 140402. Purposes
+## § 140402. Purposes
 
 The purposes of the corporation are as provided in its bylaws and articles of incorporation and include—
 
@@ -51,7 +51,7 @@ The purposes of the corporation are as provided in its bylaws and articles of in
 
 **(9)** to encourage recruitment and appointment in the Armed Forces.
 
-(Added Pub. L. 111–95, § 1(a), Nov. 6, 2009, 123 Stat. 3001; amended Pub. L. 113–237, § 3(c)(4), Dec. 18, 2014, 128 Stat. 2840.)
+(Added Pub. L. 111–95, § 1(a), Nov. 6, 2009, 123 Stat. 3001; amended Pub. L. 113–237, § 3(c)(4), Dec. 18, 2014, 128 Stat. 2840.)
 
 **Editorial Notes**
 
@@ -59,27 +59,27 @@ The purposes of the corporation are as provided in its bylaws and articles of in
 
 2014—Pub. L. 113–237 struck out subsec. (a) designation and heading “General” before “The purposes” in introductory provisions.
 
-## § 140403. Membership
+## § 140403. Membership
 
 Eligibility for membership in the corporation, and the rights and privileges of members of the corporation, are as provided in the bylaws of the corporation.
 
-(Added Pub. L. 111–95, § 1(a), Nov. 6, 2009, 123 Stat. 3002.)
+(Added Pub. L. 111–95, § 1(a), Nov. 6, 2009, 123 Stat. 3002.)
 
-## § 140404. Governing body
+## § 140404. Governing body
 
 **(a) Board of Directors.—** The composition of the board of directors of the corporation, and the responsibilities of the board, are as provided in the articles of incorporation and bylaws of the corporation.
 
 **(b) Officers.—** The positions of officers of the corporation, and the election of the officers, are as provided in the articles of incorporation and bylaws.
 
-(Added Pub. L. 111–95, § 1(a), Nov. 6, 2009, 123 Stat. 3002.)
+(Added Pub. L. 111–95, § 1(a), Nov. 6, 2009, 123 Stat. 3002.)
 
-## § 140405. Powers
+## § 140405. Powers
 
 The corporation has only those powers provided in its bylaws and articles of incorporation filed in each State in which it is incorporated.
 
-(Added Pub. L. 111–95, § 1(a), Nov. 6, 2009, 123 Stat. 3002.)
+(Added Pub. L. 111–95, § 1(a), Nov. 6, 2009, 123 Stat. 3002.)
 
-## § 140406. Restrictions
+## § 140406. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -91,13 +91,13 @@ The corporation has only those powers provided in its bylaws and articles of inc
 
 **(e) Corporate Status.—** The corporation shall maintain its status as a corporation incorporated under the laws of the Commonwealth of Virginia.
 
-(Added Pub. L. 111–95, § 1(a), Nov. 6, 2009, 123 Stat. 3002.)
+(Added Pub. L. 111–95, § 1(a), Nov. 6, 2009, 123 Stat. 3002.)
 
-## § 140407. Tax-exempt status required as condition of charter
+## § 140407. Tax-exempt status required as condition of charter
 
 If the corporation fails to maintain its status as an organization exempt from taxation under the Internal Revenue Code of 1986, the charter granted under this chapter shall terminate.
 
-(Added Pub. L. 111–95, § 1(a), Nov. 6, 2009, 123 Stat. 3003.)
+(Added Pub. L. 111–95, § 1(a), Nov. 6, 2009, 123 Stat. 3003.)
 
 **Editorial Notes**
 
@@ -105,7 +105,7 @@ If the corporation fails to maintain its status as an organization exempt from t
 
 The Internal Revenue Code of 1986, referred to in text, is classified generally to Title 26, Internal Revenue Code.
 
-## § 140408. Records and inspection
+## § 140408. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -117,28 +117,28 @@ The Internal Revenue Code of 1986, referred to in text, is classified generally 
 
 **(b) Inspection.—** A member entitled to vote on any matter relating to the corporation, or an agent or attorney of the member, may inspect the records of the corporation for any proper purpose at any reasonable time.
 
-(Added Pub. L. 111–95, § 1(a), Nov. 6, 2009, 123 Stat. 3003.)
+(Added Pub. L. 111–95, § 1(a), Nov. 6, 2009, 123 Stat. 3003.)
 
-## § 140409. Service of process
+## § 140409. Service of process
 
 The corporation shall comply with the law on service of process of each State in which it is incorporated and each State in which it carries on activities.
 
-(Added Pub. L. 111–95, § 1(a), Nov. 6, 2009, 123 Stat. 3003.)
+(Added Pub. L. 111–95, § 1(a), Nov. 6, 2009, 123 Stat. 3003.)
 
-## § 140410. Liability for acts of officers and agents
+## § 140410. Liability for acts of officers and agents
 
 The corporation is liable for any act of any officer or agent of the corporation acting within the scope of the authority of the corporation.
 
-(Added Pub. L. 111–95, § 1(a), Nov. 6, 2009, 123 Stat. 3003.)
+(Added Pub. L. 111–95, § 1(a), Nov. 6, 2009, 123 Stat. 3003.)
 
-## § 140411. Annual report
+## § 140411. Annual report
 
 The corporation shall submit to Congress an annual report on the activities of the corporation during the preceding fiscal year. The report shall be submitted at the same time as the report of the audit required by section 10101(b) of this title. The report may not be printed as a public document.
 
-(Added Pub. L. 111–95, § 1(a), Nov. 6, 2009, 123 Stat. 3003.)
+(Added Pub. L. 111–95, § 1(a), Nov. 6, 2009, 123 Stat. 3003.)
 
-## § 140412. Definition
+## § 140412. Definition
 
 In this chapter, the term “State” includes the District of Columbia and the territories and possessions of the United States.
 
-(Added Pub. L. 111–95, § 1(a), Nov. 6, 2009, 123 Stat. 3003.)
+(Added Pub. L. 111–95, § 1(a), Nov. 6, 2009, 123 Stat. 3003.)

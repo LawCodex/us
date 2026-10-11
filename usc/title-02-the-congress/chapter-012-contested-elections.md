@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 12—CONTESTED ELECTIONS
 
-## § 381. Definitions
+## § 381. Definitions
 
 For purposes of this chapter:
 
@@ -37,31 +37,31 @@ For purposes of this chapter:
 
 **(9)** The term “write-in vote” means a vote cast for a person whose name does not appear on the official ballot by writing in the name of such person on such ballot or by any other method prescribed by the law of the State in which the election is held.
 
-(Pub. L. 91–138, § 2, Dec. 5, 1969, 83 Stat. 284; Pub. L. 104–186, title II, § 211(1), (2), Aug. 20, 1996, 110 Stat. 1743, 1744.)
+(Pub. L. 91–138, § 2, Dec. 5, 1969, 83 Stat. 284; Pub. L. 104–186, title II, § 211(1), (2), Aug. 20, 1996, 110 Stat. 1743, 1744.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Pub. L. 104–186, § 211(1)(A)–(C), substituted “chapter:” for “chapter—” in introductory provisions, redesignated subdivs. (a) to (i) as pars. (1) to (9), respectively, and realigned margins of pars. (1) to (9).
+1996—Pub. L. 104–186, § 211(1)(A)–(C), substituted “chapter:” for “chapter—” in introductory provisions, redesignated subdivs. (a) to (i) as pars. (1) to (9), respectively, and realigned margins of pars. (1) to (9).
 
-Par. (1). Pub. L. 104–186, § 211(2)(A), substituted “, or Delegate or Resident Commissioner to, the Congress, but that term” for “or Resident Commissioner to the Congress of the United States, but”.
+Par. (1). Pub. L. 104–186, § 211(2)(A), substituted “, or Delegate or Resident Commissioner to, the Congress, but that term” for “or Resident Commissioner to the Congress of the United States, but”.
 
-Par. (2). Pub. L. 104–186, § 211(2)(B), substituted “office of Representative in, or Delegate or Resident Commissioner to, the Congress” for “House of Representatives of the United States” in subpar. (A) and “House of Representatives” in subpar. (B).
+Par. (2). Pub. L. 104–186, § 211(2)(B), substituted “office of Representative in, or Delegate or Resident Commissioner to, the Congress” for “House of Representatives of the United States” in subpar. (A) and “House of Representatives” in subpar. (B).
 
-Pub. L. 104–186, § 211(1)(D), redesignated pars. (1) and (2) as subpars. (A) and (B), respectively.
+Pub. L. 104–186, § 211(1)(D), redesignated pars. (1) and (2) as subpars. (A) and (B), respectively.
 
-Pars. (3), (4). Pub. L. 104–186, § 211(2)(C), (D), struck out “of the United States” after “House of Representatives”.
+Pars. (3), (4). Pub. L. 104–186, § 211(2)(C), (D), struck out “of the United States” after “House of Representatives”.
 
-Par. (5). Pub. L. 104–186, § 211(2)(E), substituted “term ‘Member of the House of Representatives’ means an incumbent Representative in, or Delegate or Resident Commissioner to, the Congress, or an individual who has been elected to such office” for “term ‘Member’ means an incumbent Representative in or Resident Commissioner to the Congress of the United States, or an individual who has been elected to either of such offices”.
+Par. (5). Pub. L. 104–186, § 211(2)(E), substituted “term ‘Member of the House of Representatives’ means an incumbent Representative in, or Delegate or Resident Commissioner to, the Congress, or an individual who has been elected to such office” for “term ‘Member’ means an incumbent Representative in or Resident Commissioner to the Congress of the United States, or an individual who has been elected to either of such offices”.
 
-Par. (6). Pub. L. 104–186, § 211(2)(F), struck out “of the United States” after “House of Representatives”.
+Par. (6). Pub. L. 104–186, § 211(2)(F), struck out “of the United States” after “House of Representatives”.
 
-Par. (7). Pub. L. 104–186, § 211(2)(G), substituted “House Oversight of the House of Representatives” for “House Administration of the House of Representatives of the United States”.
+Par. (7). Pub. L. 104–186, § 211(2)(G), substituted “House Oversight of the House of Representatives” for “House Administration of the House of Representatives of the United States”.
 
-Par. (8). Pub. L. 104–186, § 211(2)(H), substituted “means a State of the United States and any territory or” for “includes territory and”.
+Par. (8). Pub. L. 104–186, § 211(2)(H), substituted “means a State of the United States and any territory or” for “includes territory and”.
 
-Par. (9). Pub. L. 104–186, § 211(1)(A), (C), redesignated former subsec. (i) as par. (9).
+Par. (9). Pub. L. 104–186, § 211(1)(A), (C), redesignated former subsec. (i) as par. (9).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -71,13 +71,13 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 **Effective Date**
 
-Pub. L. 91–138, § 19, Dec. 5, 1969, 83 Stat. 291, provided that: “The provisions of, and the repeals made by, this Act [enacting this chapter and repealing sections 201 to 226 of this title] shall apply with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after the date of enactment of this Act [Dec. 5, 1969].”
+Pub. L. 91–138, § 19, Dec. 5, 1969, 83 Stat. 291, provided that: “The provisions of, and the repeals made by, this Act [enacting this chapter and repealing sections 201 to 226 of this title] shall apply with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after the date of enactment of this Act [Dec. 5, 1969].”
 
 **Short Title**
 
-Pub. L. 91–138, § 1, Dec. 5, 1969, 83 Stat. 284, provided that: “This Act [enacting this chapter and repealing sections 201 to 226 of this title] may be cited as the ‘Federal Contested Election Act’.”
+Pub. L. 91–138, § 1, Dec. 5, 1969, 83 Stat. 284, provided that: “This Act [enacting this chapter and repealing sections 201 to 226 of this title] may be cited as the ‘Federal Contested Election Act’.”
 
-## § 382. Notice of contest
+## § 382. Notice of contest
 
 **(a) Filing of notice**
 
@@ -101,15 +101,15 @@ Such notice shall state with particularity the grounds upon which contestant con
 
 **(6)** the verified return by the person so serving such notice, setting forth the time and manner of such service shall be proof of same, and the return post office receipt shall be proof of the service of said notice mailed by registered or certified mail as aforesaid. Proof of service shall be made to the Clerk promptly and in any event within the time during which the contestee must answer the notice of contest. Failure to make proof of service does not affect the validity of the service.
 
-(Pub. L. 91–138, § 3, Dec. 5, 1969, 83 Stat. 284; Pub. L. 104–186, title II, § 211(3), Aug. 20, 1996, 110 Stat. 1744.)
+(Pub. L. 91–138, § 3, Dec. 5, 1969, 83 Stat. 284; Pub. L. 104–186, title II, § 211(3), Aug. 20, 1996, 110 Stat. 1744.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–186, § 211(3)(A), struck out “to the House of Representatives” after “for election”.
+1996—Subsec. (a). Pub. L. 104–186, § 211(3)(A), struck out “to the House of Representatives” after “for election”.
 
-Subsec. (c)(4), (5). Pub. L. 104–186, § 211(3)(B), struck out “or” at end of par. (4) and inserted “or” at end of par. (5).
+Subsec. (c)(4), (5). Pub. L. 104–186, § 211(3)(B), struck out “or” at end of par. (4) and inserted “or” at end of par. (5).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -117,7 +117,7 @@ Subsec. (c)(4), (5). Pub. L. 104–186, § 211(3)(B), struck out “or” at e
 
 Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under section 381 of this title.
 
-## § 383. Response of contestee
+## § 383. Response of contestee
 
 **(a) Answer**
 
@@ -141,7 +141,7 @@ If a notice of contest to which an answer is required is so vague or ambiguous t
 
 Service of a motion permitted under this section alters the time for serving the answer as follows, unless a different time is fixed by order of the committee: If the committee denies the motion or postpones its disposition until the hearing on the merits, the answer shall be served within ten days after notice of such action. If the committee grants a motion for a more definite statement the answer shall be served within ten days after service of the more definite statement.
 
-(Pub. L. 91–138, § 4, Dec. 5, 1969, 83 Stat. 285.)
+(Pub. L. 91–138, § 4, Dec. 5, 1969, 83 Stat. 285.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -149,7 +149,7 @@ Service of a motion permitted under this section alters the time for serving the
 
 Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under section 381 of this title.
 
-## § 384. Service and filing of papers other than notice of contest
+## § 384. Service and filing of papers other than notice of contest
 
 **(a) Modes of service** Except for the notice of contest, every paper required to be served shall be served upon the attorney representing the party, or, if he is not represented by an attorney, upon the party himself. Service upon the attorney or upon a party shall be made:
 
@@ -167,7 +167,7 @@ All papers subsequent to the notice of contest required to be served upon the op
 
 Papers filed subsequent to the notice of contest shall be accompanied by proof of service showing the time and manner of service, made by affidavit of the person making service or by certificate of an attorney representing the party in whose behalf service is made. Failure to make proof of service does not affect the validity of such service.
 
-(Pub. L. 91–138, § 5, Dec. 5, 1969, 83 Stat. 286.)
+(Pub. L. 91–138, § 5, Dec. 5, 1969, 83 Stat. 286.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -175,11 +175,11 @@ Papers filed subsequent to the notice of contest shall be accompanied by proof o
 
 Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under section 381 of this title.
 
-## § 385. Default of contestee
+## § 385. Default of contestee
 
 The failure of contestee to answer the notice of contest or to otherwise defend as provided by this chapter shall not be deemed an admission of the truth of the averments in the notice of contest. Notwithstanding such failure, the burden is upon contestant to prove that the election results entitle him to contestee’s seat.
 
-(Pub. L. 91–138, § 6, Dec. 5, 1969, 83 Stat. 286.)
+(Pub. L. 91–138, § 6, Dec. 5, 1969, 83 Stat. 286.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -187,7 +187,7 @@ The failure of contestee to answer the notice of contest or to otherwise defend 
 
 Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under section 381 of this title.
 
-## § 386. Deposition
+## § 386. Deposition
 
 **(a) Oral examination**
 
@@ -225,7 +225,7 @@ The officer before whom testimony is to be taken shall put the witness under oat
 
 When the testimony is fully transcribed, the deposition shall be submitted to the witness for examination and shall be read to or by him, unless such examination and reading are waived by the witness and the parties. Any changes in the form or substance which the witness desires to make shall be entered upon the deposition by the officer with a statement of the reasons given by the witness for making them. The deposition shall be signed by the witness, unless the parties by stipulation waive the signing or the witness is ill or cannot be found or refuses to sign. If the deposition is not signed by the witness, the officer shall sign it and note on the deposition the fact of the waiver or of the illness or the absence of the witness or the fact of refusal to sign together with the reason, if any, given therefor; and the deposition may then be used as fully as though signed, unless on a motion to suppress, the committee rules that the reasons given for the refusal to sign require rejection of the deposition in whole or in part.
 
-(Pub. L. 91–138, § 7, Dec. 5, 1969, 83 Stat. 286.)
+(Pub. L. 91–138, § 7, Dec. 5, 1969, 83 Stat. 286.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -233,7 +233,7 @@ When the testimony is fully transcribed, the deposition shall be submitted to th
 
 Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under section 381 of this title.
 
-## § 387. Notice of depositions
+## § 387. Notice of depositions
 
 **(a) Time for service; form**
 
@@ -247,7 +247,7 @@ By written stipulation of the parties, the deposition of a witness may be taken 
 
 By written stipulation of the parties, the testimony of any witness of either party may be filed in the form of an affidavit by such witness or the parties may agree what a particular witness would testify to if his deposition were taken. Such testimonial affidavits or stipulations shall be filed within the time limits prescribed for the taking of testimony in section 386 of this title.
 
-(Pub. L. 91–138, § 8, Dec. 5, 1969, 83 Stat. 287.)
+(Pub. L. 91–138, § 8, Dec. 5, 1969, 83 Stat. 287.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -255,7 +255,7 @@ By written stipulation of the parties, the testimony of any witness of either pa
 
 Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under section 381 of this title.
 
-## § 388. Subpena for attendance at deposition
+## § 388. Subpena for attendance at deposition
 
 **(a) Issuance** Upon application of any party, a subpena for attendance at a deposition shall be issued by:
 
@@ -281,7 +281,7 @@ Every subpena shall state the name and title of the officer issuing same and the
 
 A subpena may also command the person to whom it is directed to produce the books, papers, documents, or other tangible things designated therein, but the committee, upon motion promptly made and in any event at or before the time specified in the subpena for compliance therewith, may (1) quash or modify the subpena if it is unreasonable or oppressive, or (2) condition denial of the motion upon the advancement by the party in whose behalf the subpena is issued of the reasonable cost of producing the books, papers, documents, or tangible things. In the case of public records or documents, copies thereof, certified by the person having official custody thereof, may be produced in lieu of the originals.
 
-(Pub. L. 91–138, § 9, Dec. 5, 1969, 83 Stat. 288.)
+(Pub. L. 91–138, § 9, Dec. 5, 1969, 83 Stat. 288.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -289,13 +289,13 @@ A subpena may also command the person to whom it is directed to produce the book
 
 Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under section 381 of this title.
 
-## § 389. Officer and witness fees
+## § 389. Officer and witness fees
 
 **(a)** Each judge, clerk of court, or other officer who issues any subpena or takes a deposition and each person who serves any subpena or other paper herein authorized shall be entitled to receive from the party at whose instance the service shall have been performed such fees as are allowed for similar services in the district courts of the United States.
 
 **(b)** Witnesses whose depositions are taken shall be entitled to receive from the party at whose instance the witness appeared the same fees and travel allowance paid to witnesses subpenaed to appear before the House of Representatives or its committees.
 
-(Pub. L. 91–138, § 10, Dec. 5, 1969, 83 Stat. 288.)
+(Pub. L. 91–138, § 10, Dec. 5, 1969, 83 Stat. 288.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -303,11 +303,11 @@ Section applicable with respect to any general or special election for Represent
 
 Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under section 381 of this title.
 
-## § 390. Penalty for failure to appear, testify, or produce documents
+## § 390. Penalty for failure to appear, testify, or produce documents
 
 Every person who, having been subpenaed as a witness under this chapter to give testimony or to produce documents, willfully makes default, or who, having appeared, refuses to answer any question pertinent to the contested election case, shall be deemed guilty of a misdemeanor punishable by fine of not more than $1,000 nor less than $100 or imprisonment for not less than one month nor more than twelve months, or both.
 
-(Pub. L. 91–138, § 11, Dec. 5, 1969, 83 Stat. 288.)
+(Pub. L. 91–138, § 11, Dec. 5, 1969, 83 Stat. 288.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -315,7 +315,7 @@ Every person who, having been subpenaed as a witness under this chapter to give 
 
 Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under section 381 of this title.
 
-## § 391. Certification and filing of depositions
+## § 391. Certification and filing of depositions
 
 **(a) Sealing of papers; deposit with clerk**
 
@@ -329,7 +329,7 @@ After filing the deposition, the officer shall promptly notify the parties of it
 
 Upon payment of reasonable charges therefor, not to exceed the charges allowed in the district court of the United States for the district wherein the place of examination is located, the officer shall furnish a copy of deposition to any party or the deponent.
 
-(Pub. L. 91–138, § 12, Dec. 5, 1969, 83 Stat. 289.)
+(Pub. L. 91–138, § 12, Dec. 5, 1969, 83 Stat. 289.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -337,7 +337,7 @@ Upon payment of reasonable charges therefor, not to exceed the charges allowed i
 
 Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under section 381 of this title.
 
-## § 392. Record
+## § 392. Record
 
 **(a) Hearing on papers, depositions, and exhibits**
 
@@ -367,7 +367,7 @@ Within ten days after service of contestee’s brief and appendix, contestant ma
 
 The form and length of the briefs, the form of the appendixes, and the number of copies to be served and filed shall be in accordance with such rules as the committee may prescribe.
 
-(Pub. L. 91–138, § 13, Dec. 5, 1969, 83 Stat. 289.)
+(Pub. L. 91–138, § 13, Dec. 5, 1969, 83 Stat. 289.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -375,7 +375,7 @@ The form and length of the briefs, the form of the appendixes, and the number of
 
 Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under section 381 of this title.
 
-## § 393. Filing of pleadings, motions, depositions, appendixes, briefs, and other papers
+## § 393. Filing of pleadings, motions, depositions, appendixes, briefs, and other papers
 
 **(a)** Filings of pleadings, motions, depositions, appendixes, briefs, and other papers shall be accomplished by:
 
@@ -387,7 +387,7 @@ Section applicable with respect to any general or special election for Represent
 
 **(b)** All papers filed with the Clerk pursuant to this chapter shall be promptly transmitted by him to the committee.
 
-(Pub. L. 91–138, § 14, Dec. 5, 1969, 83 Stat. 289.)
+(Pub. L. 91–138, § 14, Dec. 5, 1969, 83 Stat. 289.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -395,7 +395,7 @@ Section applicable with respect to any general or special election for Represent
 
 Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under section 381 of this title.
 
-## § 394. Computation of time
+## § 394. Computation of time
 
 **(a) Method of computing time**
 
@@ -409,7 +409,7 @@ Whenever a party has the right or is required to do some act or take some procee
 
 When by this chapter or by the rules or any order of the committee an act is required or allowed to be done at or within a specified time, the committee, for good cause shown, may at any time in its discretion (1) with or without motion or notice, order the period enlarged if request therefor is made before the expiration of the period originally prescribed or as extended by a previous order, or (2) upon motion made after the expiration of the specified period, permit the act to be done where the failure to act was the result of excusable neglect, but it shall not extend the time for serving and filing the notice of contest under section 382 of this title.
 
-(Pub. L. 91–138, § 15, Dec. 5, 1969, 83 Stat. 290.)
+(Pub. L. 91–138, § 15, Dec. 5, 1969, 83 Stat. 290.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -417,11 +417,11 @@ When by this chapter or by the rules or any order of the committee an act is req
 
 Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under section 381 of this title.
 
-## § 395. Death of contestant
+## § 395. Death of contestant
 
 In the event of the death of the contestant, the contested election case shall abate.
 
-(Pub. L. 91–138, § 16, Dec. 5, 1969, 83 Stat. 290.)
+(Pub. L. 91–138, § 16, Dec. 5, 1969, 83 Stat. 290.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -429,11 +429,11 @@ In the event of the death of the contestant, the contested election case shall a
 
 Section applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after Dec. 5, 1969, see section 19 of Pub. L. 91–138, set out as a note under section 381 of this title.
 
-## § 396. Allowance of party’s expenses
+## § 396. Allowance of party’s expenses
 
 The committee may allow any party reimbursement from the applicable accounts of the House of Representatives of his reasonable expenses of the contested election case, including reasonable attorneys fees, upon the verified application of such party accompanied by a complete and detailed account of his expenses and supporting vouchers and receipts.
 
-(Pub. L. 91–138, § 17, Dec. 5, 1969, 83 Stat. 290; Pub. L. 104–186, title II, § 211(4), Aug. 20, 1996, 110 Stat. 1744.)
+(Pub. L. 91–138, § 17, Dec. 5, 1969, 83 Stat. 290; Pub. L. 104–186, title II, § 211(4), Aug. 20, 1996, 110 Stat. 1744.)
 
 **Editorial Notes**
 

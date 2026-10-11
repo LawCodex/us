@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1996—Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(f)(2)(B)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–383, in item 204 substituted “General Counsel; Judicial Officer; Chief Postal Inspector” for “Assistant Postmasters General; General Counsel; Judicial Officer”.
+1996—Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(f)(2)(B)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–383, in item 204 substituted “General Counsel; Judicial Officer; Chief Postal Inspector” for “Assistant Postmasters General; General Counsel; Judicial Officer”.
 
-## § 201. United States Postal Service
+## § 201. United States Postal Service
 
 There is established, as an independent establishment of the executive branch of the Government of the United States, the United States Postal Service.
 
@@ -35,13 +35,13 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **Transfer of Functions; Abolition of Office**
 
-Pub. L. 91–375, § 4(a), Aug. 12, 1970, 84 Stat. 773, provided that: “There are hereby transferred to the United States Postal Service all the functions, powers, and duties of the Post Office Department and the Postmaster General of the Post Office Department, and the Post Office Department and the office of Postmaster General of the Post Office Department are abolished.”
+Pub. L. 91–375, § 4(a), Aug. 12, 1970, 84 Stat. 773, provided that: “There are hereby transferred to the United States Postal Service all the functions, powers, and duties of the Post Office Department and the Postmaster General of the Post Office Department, and the Post Office Department and the office of Postmaster General of the Post Office Department are abolished.”
 
 Provisions of section 4(a) of Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.
 
 **Inspector General of the United States Postal Service**
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(e)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–382, provided that:
+Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(e)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–382, provided that:
 
 > **“(1) First appointment.—** The first Inspector General of the United States Postal Service appointed pursuant to the amendments made by this section [amending sections 102, 202, 204, 410, and 1003 of this title, section 5315 of Title 5, Government Organization and Employees, and section 8G of the Inspector General Act of 1978, Pub. L. 95–452, formerly set out in the Appendix to Title 5, and renumbering another section 8G of the Inspector General Act of 1978 as 8H] shall be appointed before the end of the 90-day period beginning on the date of the enactment of this Act [Sept. 30, 1996].
 
@@ -61,7 +61,7 @@ Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(e)], Sept. 3
 
 > **“(3) Transition provision.—** The Chief Postal Inspector may continue to serve as Inspector General of the United States Postal Service until the date on which an Inspector General is appointed under paragraph (1) or, if earlier, the end of the period referred to in such paragraph. Compensation for any service under this paragraph shall be determined as if this section had not been enacted.”
 
-## § 202. Board of Governors
+## § 202. Board of Governors
 
 **(a)**
 
@@ -93,29 +93,29 @@ Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(e)], Sept. 3
 
 **(3)** The Inspector General may at any time be removed upon the written concurrence of at least 7 Governors and 3 members of the Postal Regulatory Commission, but only for cause. Nothing in this subsection shall be considered to exempt the Governors from the requirements of section 415(e) of title 5.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 720; Pub. L. 98–81, § 2, Aug. 23, 1983, 97 Stat. 487; Pub. L. 99–190, § 144, Dec. 19, 1985, 99 Stat. 1324; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, §§ 644(a), 662(a)(1)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–366, 3009–378; Pub. L. 109–435, title V, § 501(a)(1), (b), (c)(1), (d)(1), Dec. 20, 2006, 120 Stat. 3232, 3233; Pub. L. 117–108, title II, § 209(b), Apr. 6, 2022, 136 Stat. 1152; Pub. L. 117–286, § 4(b)(62), Dec. 27, 2022, 136 Stat. 4350.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 720; Pub. L. 98–81, § 2, Aug. 23, 1983, 97 Stat. 487; Pub. L. 99–190, § 144, Dec. 19, 1985, 99 Stat. 1324; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, §§ 644(a), 662(a)(1)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–366, 3009–378; Pub. L. 109–435, title V, § 501(a)(1), (b), (c)(1), (d)(1), Dec. 20, 2006, 120 Stat. 3232, 3233; Pub. L. 117–108, title II, § 209(b), Apr. 6, 2022, 136 Stat. 1152; Pub. L. 117–286, § 4(b)(62), Dec. 27, 2022, 136 Stat. 4350.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (e)(1). Pub. L. 117–108, § 209(b)(1), substituted “The Governors and the members of the Postal Regulatory Commission shall appoint, by a favorable vote of a majority of the Governors in office and of a majority of the members of the Commission in office,” for “The Governors shall appoint”.
+2022—Subsec. (e)(1). Pub. L. 117–108, § 209(b)(1), substituted “The Governors and the members of the Postal Regulatory Commission shall appoint, by a favorable vote of a majority of the Governors in office and of a majority of the members of the Commission in office,” for “The Governors shall appoint”.
 
 Subsec. (e)(3). Pub. L. 117–286 substituted “section 415(e) of title 5.” for “section 8G(e) of the Inspector General Act of 1978.”
 
-Pub. L. 117–108, § 209(b)(2), inserted “and 3 members of the Postal Regulatory Commission” after “at least 7 Governors”.
+Pub. L. 117–108, § 209(b)(2), inserted “and 3 members of the Postal Regulatory Commission” after “at least 7 Governors”.
 
-2006—Subsec. (a). Pub. L. 109–435, § 501(a)(1), designated existing provisions as par. (1) and substituted “The Governors shall represent the public interest generally, and shall be chosen solely on the basis of their experience in the field of public service, law or accounting or on their demonstrated ability in managing organizations or corporations (in either the public or private sector) of substantial size; except that at least 4 of the Governors shall be chosen solely on the basis of their demonstrated ability in managing organizations or corporations (in either the public or private sector) that employ at least 50,000 employees. The Governors shall not be representatives of specific interests using the Postal Service, and may be removed only for cause.” for “The Governors shall be chosen to represent the public interest generally, and shall not be representatives of specific interests using the Postal Service, and may be removed only for cause.”
+2006—Subsec. (a). Pub. L. 109–435, § 501(a)(1), designated existing provisions as par. (1) and substituted “The Governors shall represent the public interest generally, and shall be chosen solely on the basis of their experience in the field of public service, law or accounting or on their demonstrated ability in managing organizations or corporations (in either the public or private sector) of substantial size; except that at least 4 of the Governors shall be chosen solely on the basis of their demonstrated ability in managing organizations or corporations (in either the public or private sector) that employ at least 50,000 employees. The Governors shall not be representatives of specific interests using the Postal Service, and may be removed only for cause.” for “The Governors shall be chosen to represent the public interest generally, and shall not be representatives of specific interests using the Postal Service, and may be removed only for cause.”
 
-Subsec. (a)(2). Pub. L. 109–435, § 501(b), added par. (2).
+Subsec. (a)(2). Pub. L. 109–435, § 501(b), added par. (2).
 
-Subsec. (b). Pub. L. 109–435, § 501(d)(1), designated existing provisions as par. (1) and added par. (2).
+Subsec. (b). Pub. L. 109–435, § 501(d)(1), designated existing provisions as par. (1) and added par. (2).
 
-Pub. L. 109–435, § 501(c)(1), which directed amendment of first sentence by substituting “7 years” for “9 years”, was executed by making substitution for “9 years” the first place appearing in first sentence, to reflect the probable intent of Congress.
+Pub. L. 109–435, § 501(c)(1), which directed amendment of first sentence by substituting “7 years” for “9 years”, was executed by making substitution for “9 years” the first place appearing in first sentence, to reflect the probable intent of Congress.
 
-1996—Subsec. (a). Pub. L. 104–208, § 101(f) [title VI, § 644(a)], substituted “$30,000 a year” for “$10,000 a year”.
+1996—Subsec. (a). Pub. L. 104–208, § 101(f) [title VI, § 644(a)], substituted “$30,000 a year” for “$10,000 a year”.
 
-Subsec. (e). Pub. L. 104–208, § 101(f) [title VI, § 662(a)(1)], added subsec. (e).
+Subsec. (e). Pub. L. 104–208, § 101(f) [title VI, § 662(a)(1)], added subsec. (e).
 
 1985—Subsec. (a). Pub. L. 99–190 substituted “42” for “30” in two places.
 
@@ -125,13 +125,13 @@ Subsec. (e). Pub. L. 104–208, § 101(f) [title VI, § 662(a)(1)], added su
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–108, title II, § 209(e), Apr. 6, 2022, 136 Stat. 1152, provided that: “This section [amending this section, section 504 of this title, and former section 8G of Pub. L. 95–452 (see section 415 of Title 5, Government Organization and Employees), and enacting provisions set out as a note under section 415 of Title 5] and the amendments made by this section shall take effect on the date that is 180 days after the date of enactment of this Act [Apr. 6, 2022].”
+Pub. L. 117–108, title II, § 209(e), Apr. 6, 2022, 136 Stat. 1152, provided that: “This section [amending this section, section 504 of this title, and former section 8G of Pub. L. 95–452 (see section 415 of Title 5, Government Organization and Employees), and enacting provisions set out as a note under section 415 of Title 5] and the amendments made by this section shall take effect on the date that is 180 days after the date of enactment of this Act [Apr. 6, 2022].”
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–435, title V, § 501(a)(2), Dec. 20, 2006, 120 Stat. 3232, provided that: “The amendment made by paragraph (1) [amending this section] shall not affect the appointment or tenure of any person serving as a Governor of the United States Postal Service under an appointment made before the date of enactment of this Act [Dec. 20, 2006][;] however, when any such office becomes vacant, the appointment of any person to fill that office shall be made in accordance with such amendment. The requirement set forth in the fourth sentence of section 202(a)(1) of title 39, United States Code (as amended by subsection (a)) shall be met beginning not later than 9 years after the date of enactment of this Act [Dec. 20, 2006].”
+Pub. L. 109–435, title V, § 501(a)(2), Dec. 20, 2006, 120 Stat. 3232, provided that: “The amendment made by paragraph (1) [amending this section] shall not affect the appointment or tenure of any person serving as a Governor of the United States Postal Service under an appointment made before the date of enactment of this Act [Dec. 20, 2006][;] however, when any such office becomes vacant, the appointment of any person to fill that office shall be made in accordance with such amendment. The requirement set forth in the fourth sentence of section 202(a)(1) of title 39, United States Code (as amended by subsection (a)) shall be met beginning not later than 9 years after the date of enactment of this Act [Dec. 20, 2006].”
 
-Pub. L. 109–435, title V, § 501(c)(2), Dec. 20, 2006, 120 Stat. 3233, provided that:
+Pub. L. 109–435, title V, § 501(c)(2), Dec. 20, 2006, 120 Stat. 3233, provided that:
 
 > **“(A) Continuation by incumbents.—** The amendment made by paragraph (1) [amending this section] shall not affect the tenure of any person serving as a Governor of the United States Postal Service on the date of enactment of this Act [Dec. 20, 2006] and such person may continue to serve the remainder of the applicable term.
 
@@ -139,11 +139,11 @@ Pub. L. 109–435, title V, § 501(c)(2), Dec. 20, 2006, 120 Stat. 3233, provi
 
 > **“(C) Vacancy by incumbent after 7 years of service.—** If a person who is serving as a Governor of the United States Postal Service on the date of enactment of this Act [Dec. 20, 2006] resigns, is removed, or dies before the expiration of the 9-year term of that Governor, and that Governor has served 7 years or more of that term, that term shall be deemed to have been a 7-year term beginning on its commencement date for purposes of determining vacancies in office. Any appointment to the vacant office shall be for a 7-year term beginning at the end of the original 9-year term determined without regard to the deeming under the preceding sentence. Nothing in this subparagraph shall be construed to affect any action or authority of any Governor or the Board of Governors during any portion of a 9-year term deemed to be a 7-year term under this subparagraph.”
 
-Pub. L. 109–435, title V, § 501(d)(2), Dec. 20, 2006, 120 Stat. 3233, provided that: “The amendments made by paragraph (1) [amending this section] shall not affect the tenure of any person serving as a Governor of the United States Postal Service on the date of enactment of this Act [Dec. 20, 2006] with respect to the term which that person is serving on that date. Such person may continue to serve the remainder of the applicable term, after which the amendments made by paragraph (1) shall apply.”
+Pub. L. 109–435, title V, § 501(d)(2), Dec. 20, 2006, 120 Stat. 3233, provided that: “The amendments made by paragraph (1) [amending this section] shall not affect the tenure of any person serving as a Governor of the United States Postal Service on the date of enactment of this Act [Dec. 20, 2006] with respect to the term which that person is serving on that date. Such person may continue to serve the remainder of the applicable term, after which the amendments made by paragraph (1) shall apply.”
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 644(b)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–366, provided that: “Subsection (a) [amending this section] shall take effect at the beginning of the next applicable pay period beginning after the date of the enactment of this Act [Sept. 30, 1996].”
+Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 644(b)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–366, provided that: “Subsection (a) [amending this section] shall take effect at the beginning of the next applicable pay period beginning after the date of the enactment of this Act [Sept. 30, 1996].”
 
 **Effective Date**
 
@@ -153,7 +153,7 @@ Section effective Aug. 12, 1970, see section 15(a) of Pub. L. 91–375, set out 
 
 Payment to Governors of Board of Governors of Postal Service of $300 a day for not more than 60 days of meetings in each of first 2 years following effective date of this section [see Effective Date note set out above], notwithstanding this section, see section 5(g) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 203. Postmaster General; Deputy Postmaster General
+## § 203. Postmaster General; Deputy Postmaster General
 
 The chief executive officer of the Postal Service is the Postmaster General appointed under section 202(c) of this title. The alternate chief executive officer of the Postal Service is the Deputy Postmaster General appointed under section 202(d) of this title.
 
@@ -165,19 +165,19 @@ The chief executive officer of the Postal Service is the Postmaster General appo
 
 Section effective Aug. 12, 1970, see section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 204. General Counsel; Judicial Officer; Chief Postal Inspector
+## § 204. General Counsel; Judicial Officer; Chief Postal Inspector
 
 There shall be within the Postal Service a General Counsel, such number of Assistant Postmasters General as the Board shall consider appropriate, a Judicial Officer, and a Chief Postal Inspector. The General Counsel, the Assistant Postmasters General, the Judicial Officer, and the Chief Postal Inspector shall be appointed by, and serve at the pleasure of, the Postmaster General. The Judicial Officer shall perform such quasi-judicial duties, not inconsistent with chapter 36 of this title, as the Postmaster General may designate. The Judicial Officer shall be the agency for the purposes of the requirements of chapter 5 of title 5, to the extent that functions are delegated to him by the Postmaster General. The Chief Postal Inspector shall report to, and be under the general supervision of, the Postmaster General. The Postmaster General shall promptly notify the Governors and both Houses of Congress in writing if he or she removes the Chief Postal Inspector or transfers the Chief Postal Inspector to another position or location within the Postal Service, and shall include in any such notification the reasons for the removal or transfer.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 721; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(f)(2)(A)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–382.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 721; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(f)(2)(A)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–382.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Pub. L. 104–208, § 101(f) [title VI, § 662(f)(2)(A)(i)], in section catchline substituted “General Counsel; Judicial Officer; Chief Postal Inspector” for “Assistant Postmasters General; General Counsel; Judicial Officer”.
+1996—Pub. L. 104–208, § 101(f) [title VI, § 662(f)(2)(A)(i)], in section catchline substituted “General Counsel; Judicial Officer; Chief Postal Inspector” for “Assistant Postmasters General; General Counsel; Judicial Officer”.
 
-Pub. L. 104–208, § 101(f) [title VI, § 662(f)(2)(A)(ii)–(iv)], substituted “a Judicial Officer, and a Chief Postal Inspector.” for “and a Judicial Officer.” and “the Judicial Officer, and the Chief Postal Inspector” for “and the Judicial Officer”, and inserted at end “The Chief Postal Inspector shall report to, and be under the general supervision of, the Postmaster General. The Postmaster General shall promptly notify the Governors and both Houses of Congress in writing if he or she removes the Chief Postal Inspector or transfers the Chief Postal Inspector to another position or location within the Postal Service, and shall include in any such notification the reasons for the removal or transfer.”
+Pub. L. 104–208, § 101(f) [title VI, § 662(f)(2)(A)(ii)–(iv)], substituted “a Judicial Officer, and a Chief Postal Inspector.” for “and a Judicial Officer.” and “the Judicial Officer, and the Chief Postal Inspector” for “and the Judicial Officer”, and inserted at end “The Chief Postal Inspector shall report to, and be under the general supervision of, the Postmaster General. The Postmaster General shall promptly notify the Governors and both Houses of Congress in writing if he or she removes the Chief Postal Inspector or transfers the Chief Postal Inspector to another position or location within the Postal Service, and shall include in any such notification the reasons for the removal or transfer.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -185,7 +185,7 @@ Pub. L. 104–208, § 101(f) [title VI, § 662(f)(2)(A)(ii)–(iv)], substit
 
 Section effective Jan. 20, 1971, pursuant to Resolution No. 71–7 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 205. Procedures of the Board of Governors
+## § 205. Procedures of the Board of Governors
 
 **(a)** The Board shall direct and control the expenditures and review the practices and policies of the Postal Service, and perform other functions and duties prescribed by this title.
 
@@ -209,7 +209,7 @@ Section effective Jan. 20, 1971, pursuant to Resolution No. 71–7 of the Board 
 
 Subsecs. (a) and (d) effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors, and subsecs. (b) and (c) effective Aug. 12, 1970. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 206. Advisory Council
+## § 206. Advisory Council
 
 **(a)** There shall be a Postal Service Advisory Council of which the Postmaster General shall be the Chairman and the Deputy Postmaster General shall be the Vice Chairman. The Advisory Council shall have 11 additional members appointed by the President. He shall appoint as such members (1) 4 persons from among persons nominated by those labor organizations recognized as collective-bargaining representatives for employees of the Postal Service in one or more collective-bargaining units, (2) 4 persons as representatives of major mail users, and (3) 3 persons as representatives of the public at large. All members shall be appointed for terms of 2 years except that, of those first appointed, 2 of the members representative of labor organizations, 2 of the members representative of major postal users, and 1 member representing the public at large shall be appointed for 1 year. Any member appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall serve for the remainder of such term.
 
@@ -229,7 +229,7 @@ Section effective Aug. 12, 1970, see section 15(a) of Pub. L. 91–375, set out 
 
 Advisory councils in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-## § 207. Seal
+## § 207. Seal
 
 The seal of the Postal Service shall be filed by the Board in the Office of the Secretary of State, judicially noticed, affixed to all commissions of officers of the Postal Service, and used to authenticate records of the Postal Service.
 
@@ -241,7 +241,7 @@ The seal of the Postal Service shall be filed by the Board in the Office of the 
 
 Section effective Jan. 16, 1971, pursuant to Resolution No. 71–5 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 208. Reservation of powers
+## § 208. Reservation of powers
 
 Congress reserves the power to alter, amend, or repeal any or all of the sections of this title, but no such alteration, amendment, or repeal shall impair the obligation of any contract made by the Postal Service under any power conferred by this title.
 

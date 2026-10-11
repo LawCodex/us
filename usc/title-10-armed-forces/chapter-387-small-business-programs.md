@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2021—Pub. L. 117–81, div. A, title XVII, § 1701(i)(10)(A), Dec. 27, 2021, 135 Stat. 2143, amended Pub. L. 116–283, div. A, title XVIII, § 1871(a)(2), Jan. 1, 2021, 134 Stat. 4287, which added this analysis, by adding item for subchapter II.
+2021—Pub. L. 117–81, div. A, title XVII, § 1701(i)(10)(A), Dec. 27, 2021, 135 Stat. 2143, amended Pub. L. 116–283, div. A, title XVIII, § 1871(a)(2), Jan. 1, 2021, 134 Stat. 4287, which added this analysis, by adding item for subchapter II.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Pilot Program for Streamlined Technology Transition From the SBIR and STTR Programs of the Department of Defense**
 
-Pub. L. 115–91, div. A, title XVII, § 1710, Dec. 12, 2017, 131 Stat. 1810, authorized the Secretary of Defense to establish a pilot program under which the Department was to award multiple award contracts to certain small business concerns for the purchase of technologies, supplies, or services that the small business concern had developed through the SBIR or STTR program, and provided that such pilot program would terminate on Sept. 30, 2023.
+Pub. L. 115–91, div. A, title XVII, § 1710, Dec. 12, 2017, 131 Stat. 1810, authorized the Secretary of Defense to establish a pilot program under which the Department was to award multiple award contracts to certain small business concerns for the purchase of technologies, supplies, or services that the small business concern had developed through the SBIR or STTR program, and provided that such pilot program would terminate on Sept. 30, 2023.
 
 **Mentor-Protege Pilot Program**
 
-Pub. L. 101–510, div. A, title VIII, § 831, Nov. 5, 1990, 104 Stat. 1607, as amended by Pub. L. 102–25, title VII, § 704(c), Apr. 6, 1991, 105 Stat. 119; Pub. L. 102–172, title VIII, § 8064A, Nov. 26, 1991, 105 Stat. 1186; Pub. L. 102–190, div. A, title VIII, § 814(b), Dec. 5, 1991, 105 Stat. 1425; Pub. L. 102–484, div. A, title VIII, §§ 801(h)(4), 807(b)(1), title X, § 1054(d), Oct. 23, 1992, 106 Stat. 2445, 2448, 2503; Pub. L. 103–160, div. A, title VIII, § 813(b)(1), (c), Nov. 30, 1993, 107 Stat. 1703; Pub. L. 104–106, div. A, title VIII, § 824, Feb. 10, 1996, 110 Stat. 399; Pub. L. 104–201, div. A, title VIII, § 802, Sept. 23, 1996, 110 Stat. 2604; Pub. L. 105–85, div. A, title VIII, § 821(a), title X, § 1073(c)(6), Nov. 18, 1997, 111 Stat. 1840, 1904; Pub. L. 106–65, div. A, title VIII, § 811(a)–(d)(1), (e), Oct. 5, 1999, 113 Stat. 706, 707, 709; Pub. L. 106–398, § 1 [[div. A], title VIII, § 807], Oct. 30, 2000, 114 Stat. 1654, 1654A–208; Pub. L. 107–107, div. A, title VIII, § 812, Dec. 28, 2001, 115 Stat. 1181; Pub. L. 108–375, div. A, title VIII, §§ 841(a), (b), 842, Oct. 28, 2004, 118 Stat. 2018, 2019; Pub. L. 112–10, div. A, title VIII, § 8016, Apr. 15, 2011, 125 Stat. 60; Pub. L. 112–81, div. A, title VIII, § 867, title X, § 1062(n), Dec. 31, 2011, 125 Stat. 1526, 1586; Pub. L. 112–239, div. A, title X, § 1076(a)(17), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 113–291, div. A, title X, § 1071(b)(16), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–92, div. A, title VIII, § 861(a), Nov. 25, 2015, 129 Stat. 921; Pub. L. 114–328, div. A, title XVIII, §§ 1813(b), 1823, Dec. 23, 2016, 130 Stat. 2652, 2656; Pub. L. 115–91, div. A, title XVII, § 1701(a)(4)(A), Dec. 12, 2017, 131 Stat. 1796, as amended by Pub. L. 116–283, div. A, title X, § 1081(e)(1), Jan. 1, 2021, 134 Stat. 3874; Pub. L. 115–232, div. A, title VIII, § 812(a)(2)(C)(ii), Aug. 13, 2018, 132 Stat. 1846; Pub. L. 116–92, div. A, title VIII, § 872(a)(1), (2), (b), (c), Dec. 20, 2019, 133 Stat. 1526; Pub. L. 116–283, div. A, title XVIII, § 1806(e)(3)(F), Jan. 1, 2021, 134 Stat. 4156, which established the Mentor-Protege Program, was transferred to subchapter I of this chapter and redesignated as section 4902 of this title by Pub. L. 117–263, div. A, title VIII, § 856(a), Dec. 23, 2022, 136 Stat. 2723.
+Pub. L. 101–510, div. A, title VIII, § 831, Nov. 5, 1990, 104 Stat. 1607, as amended by Pub. L. 102–25, title VII, § 704(c), Apr. 6, 1991, 105 Stat. 119; Pub. L. 102–172, title VIII, § 8064A, Nov. 26, 1991, 105 Stat. 1186; Pub. L. 102–190, div. A, title VIII, § 814(b), Dec. 5, 1991, 105 Stat. 1425; Pub. L. 102–484, div. A, title VIII, §§ 801(h)(4), 807(b)(1), title X, § 1054(d), Oct. 23, 1992, 106 Stat. 2445, 2448, 2503; Pub. L. 103–160, div. A, title VIII, § 813(b)(1), (c), Nov. 30, 1993, 107 Stat. 1703; Pub. L. 104–106, div. A, title VIII, § 824, Feb. 10, 1996, 110 Stat. 399; Pub. L. 104–201, div. A, title VIII, § 802, Sept. 23, 1996, 110 Stat. 2604; Pub. L. 105–85, div. A, title VIII, § 821(a), title X, § 1073(c)(6), Nov. 18, 1997, 111 Stat. 1840, 1904; Pub. L. 106–65, div. A, title VIII, § 811(a)–(d)(1), (e), Oct. 5, 1999, 113 Stat. 706, 707, 709; Pub. L. 106–398, § 1 [[div. A], title VIII, § 807], Oct. 30, 2000, 114 Stat. 1654, 1654A–208; Pub. L. 107–107, div. A, title VIII, § 812, Dec. 28, 2001, 115 Stat. 1181; Pub. L. 108–375, div. A, title VIII, §§ 841(a), (b), 842, Oct. 28, 2004, 118 Stat. 2018, 2019; Pub. L. 112–10, div. A, title VIII, § 8016, Apr. 15, 2011, 125 Stat. 60; Pub. L. 112–81, div. A, title VIII, § 867, title X, § 1062(n), Dec. 31, 2011, 125 Stat. 1526, 1586; Pub. L. 112–239, div. A, title X, § 1076(a)(17), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 113–291, div. A, title X, § 1071(b)(16), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–92, div. A, title VIII, § 861(a), Nov. 25, 2015, 129 Stat. 921; Pub. L. 114–328, div. A, title XVIII, §§ 1813(b), 1823, Dec. 23, 2016, 130 Stat. 2652, 2656; Pub. L. 115–91, div. A, title XVII, § 1701(a)(4)(A), Dec. 12, 2017, 131 Stat. 1796, as amended by Pub. L. 116–283, div. A, title X, § 1081(e)(1), Jan. 1, 2021, 134 Stat. 3874; Pub. L. 115–232, div. A, title VIII, § 812(a)(2)(C)(ii), Aug. 13, 2018, 132 Stat. 1846; Pub. L. 116–92, div. A, title VIII, § 872(a)(1), (2), (b), (c), Dec. 20, 2019, 133 Stat. 1526; Pub. L. 116–283, div. A, title XVIII, § 1806(e)(3)(F), Jan. 1, 2021, 134 Stat. 4156, which established the Mentor-Protege Program, was transferred to subchapter I of this chapter and redesignated as section 4902 of this title by Pub. L. 117–263, div. A, title VIII, § 856(a), Dec. 23, 2022, 136 Stat. 2723.
 
 ## SUBCHAPTER I—GENERAL
 
@@ -37,9 +37,9 @@ Pub. L. 101–510, div. A, title VIII, § 831, Nov. 5, 1990, 104 Stat. 1607, a
 
 **Amendments**
 
-2022—Pub. L. 117–263, div. A, title VIII, § 856(c), Dec. 23, 2022, 136 Stat. 2726, added item 4902.
+2022—Pub. L. 117–263, div. A, title VIII, § 856(c), Dec. 23, 2022, 136 Stat. 2726, added item 4902.
 
-### § 4901. Department of Defense small business strategy
+### § 4901. Department of Defense small business strategy
 
 **(a) In General.—** The Secretary of Defense shall implement a small business strategy for the Department of Defense that meets the requirements of this section.
 
@@ -61,7 +61,7 @@ Pub. L. 101–510, div. A, title VIII, § 831, Nov. 5, 1990, 104 Stat. 1607, a
 
 **(e) Enhanced Outreach Under Procurement Technical Assistance Program Market.—** The Secretary shall enable and promote activities to provide coordinated outreach to small business concerns through any procurement technical assistance program established under chapter 388 of this title to facilitate small business contracting with the Department of Defense.
 
-(Added Pub. L. 115–232, div. A, title VIII, § 851(a), Aug. 13, 2018, 132 Stat. 1883, § 2283; renumbered § 4901 and amended Pub. L. 116–283, div. A, title XVIII, § 1871(b), Jan. 1, 2021, 134 Stat. 4287.)
+(Added Pub. L. 115–232, div. A, title VIII, § 851(a), Aug. 13, 2018, 132 Stat. 1883, § 2283; renumbered § 4901 and amended Pub. L. 116–283, div. A, title XVIII, § 1871(b), Jan. 1, 2021, 134 Stat. 4287.)
 
 **Editorial Notes**
 
@@ -83,7 +83,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Accessibility and Clarity in Covered Notices for Small Business Concerns**
 
-Pub. L. 118–159, div. A, title VIII, § 875, Dec. 23, 2024, 138 Stat. 2014, provided that:
+Pub. L. 118–159, div. A, title VIII, § 875, Dec. 23, 2024, 138 Stat. 2014, provided that:
 
 > **“(a) In General.—** Each covered notice shall be written in a manner—
 
@@ -111,7 +111,7 @@ Pub. L. 118–159, div. A, title VIII, § 875, Dec. 23, 2024, 138 Stat. 2014, 
 
 **Small Business Bill of Rights**
 
-Pub. L. 118–159, div. A, title VIII, § 876, Dec. 23, 2024, 138 Stat. 2015, provided that:
+Pub. L. 118–159, div. A, title VIII, § 876, Dec. 23, 2024, 138 Stat. 2015, provided that:
 
 > **“(a) In General.—** Not later than one year after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense, acting through the Small Business Integration Group in the Department of Defense led by the Under Secretary of Defense for Acquisition and Sustainment, shall develop a Small Business Bill of Rights for the Department of Defense and its components.
 
@@ -183,7 +183,7 @@ Pub. L. 118–159, div. A, title VIII, § 876, Dec. 23, 2024, 138 Stat. 2015, 
 
 **Small Business Integration Working Group**
 
-Pub. L. 117–263, div. A, title VIII, § 874, Dec. 23, 2022, 136 Stat. 2741, provided that:
+Pub. L. 117–263, div. A, title VIII, § 874, Dec. 23, 2022, 136 Stat. 2741, provided that:
 
 > **“(a) In General.—** Not later than 60 days after the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall issue a charter to establish a small business integration working group that—
 
@@ -213,7 +213,7 @@ Pub. L. 117–263, div. A, title VIII, § 874, Dec. 23, 2022, 136 Stat. 2741, 
 
 **Demonstration of Commercial Due Diligence for Small Business Programs**
 
-Pub. L. 117–263, div. A, title VIII, § 875, Dec. 23, 2022, 136 Stat. 2742, provided that:
+Pub. L. 117–263, div. A, title VIII, § 875, Dec. 23, 2022, 136 Stat. 2742, provided that:
 
 > **“(a) Demonstration Required.—** Not later than December 31, 2027, the Secretary of Defense shall establish a program to carry out a demonstration of commercial due diligence tools, techniques, and processes in order to support small businesses in identifying attempts by malicious foreign actors to gain undue access to, or foreign ownership, control, or influence over—
 
@@ -267,7 +267,7 @@ Pub. L. 117–263, div. A, title VIII, § 875, Dec. 23, 2022, 136 Stat. 2742, 
 
 **Report on Unfunded Priorities of the Small Business Innovation Research and Small Business Technology Transfer Program**
 
-Pub. L. 117–81, div. A, title VIII, § 865, Dec. 27, 2021, 135 Stat. 1853, provided that:
+Pub. L. 117–81, div. A, title VIII, § 865, Dec. 27, 2021, 135 Stat. 1853, provided that:
 
 > **“(a) In General.—** Not later than 10 days after the date on which the budget of the President for fiscal years 2022 through 2032 is submitted to Congress pursuant to section 1105 of title 31, United States Code, each Secretary of a military department and the Under Secretary of Defense for Research and Engineering shall submit to the Secretary of Defense, the Chairman of the Joint Chiefs of Staff, and the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on unfunded priorities of the Department of Defense related to high-priority Small Business Innovation Research and Small Business Technology Transfer projects.
 
@@ -313,7 +313,7 @@ Pub. L. 117–81, div. A, title VIII, § 865, Dec. 27, 2021, 135 Stat. 1853, p
 
 **Initiatives To Support Small Businesses in the National Technology and Industrial Base**
 
-Pub. L. 116–283, div. A, title VIII, § 861, Jan. 1, 2021, 134 Stat. 3775, provided that:
+Pub. L. 116–283, div. A, title VIII, § 861, Jan. 1, 2021, 134 Stat. 3775, provided that:
 
 > **“(a) In General.—** The Secretary of Defense, acting through the Assistant Secretary of Defense for Industrial Base Policy (established under section 903 of this Act [amending section 138 of this title]) and other appropriate officials, in carrying out the activities described under [former] subchapter II of chapter 148 of title 10, United States Code [see chapter 382 of this title], shall establish initiatives to increase the effectiveness of the Department of Defense in specifically leveraging small businesses to eliminate gaps and vulnerabilities in the national technology and industrial base (as defined in section 2500 of title 10, United States Code [now 10 U.S.C. 4801]) and expand the number of small businesses in the national technology and industrial base.
 
@@ -365,7 +365,7 @@ Pub. L. 116–283, div. A, title VIII, § 861, Jan. 1, 2021, 134 Stat. 3775, p
 
 **Pilot Program for Development of Technology-Enhanced Capabilities With Partnership Intermediaries**
 
-Pub. L. 116–92, div. A, title VIII, § 851, Dec. 20, 2019, 133 Stat. 1510, as amended by Pub. L. 117–81, div. A, title VIII, § 852, Dec. 27, 2021, 135 Stat. 1846; Pub. L. 119–83, § 10(k), Apr. 13, 2026, 140 Stat. 768, provided that:
+Pub. L. 116–92, div. A, title VIII, § 851, Dec. 20, 2019, 133 Stat. 1510, as amended by Pub. L. 117–81, div. A, title VIII, § 852, Dec. 27, 2021, 135 Stat. 1846; Pub. L. 119–83, § 10(k), Apr. 13, 2026, 140 Stat. 768, provided that:
 
 > **“(a) Establishment.—** The Secretary of Defense may authorize the Commander of the United States Special Operations Command to use funds described in subsection (b) for a pilot program under which the Commander shall make, through the use of a partnership intermediary, covered awards to small business concerns to develop technology-enhanced capabilities for special operations forces.
 
@@ -451,7 +451,7 @@ Pub. L. 116–92, div. A, title VIII, § 851, Dec. 20, 2019, 133 Stat. 1510, a
 
 **Implementation**
 
-Pub. L. 115–232, div. A, title VIII, § 851(b), Aug. 13, 2018, 132 Stat. 1884, provided that:
+Pub. L. 115–232, div. A, title VIII, § 851(b), Aug. 13, 2018, 132 Stat. 1884, provided that:
 
 > **“(1) Deadline.—** The Secretary of Defense shall develop the small business strategy required by section 2283 of title 10, United States Code [now 10 U.S.C. 4901], as added by subsection (a), not later than 180 days after the date of the enactment of this Act [Aug. 13, 2018].
 
@@ -461,7 +461,7 @@ Pub. L. 115–232, div. A, title VIII, § 851(b), Aug. 13, 2018, 132 Stat. 188
 
 > **“(B)** publish the strategy on a public website of the Department of Defense.”
 
-### § 4902. Department of Defense Mentor-Protege Program
+### § 4902. Department of Defense Mentor-Protege Program
 
 **(a) Establishment of Program.—** The Secretary of Defense shall establish a program to be known as the “Mentor-Protege Program”.
 
@@ -659,7 +659,7 @@ Pub. L. 115–232, div. A, title VIII, § 851(b), Aug. 13, 2018, 132 Stat. 188
 
 **(4)** The term “minority institution of higher education” means an institution of higher education with a student body that reflects the composition specified in section 312(b)(3), (4), and (5) of the Higher Education Act of 1965 (20 U.S.C. 1058(b)(3), (4), and (5)).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(5)** The term “qualified organization employing the severely disabled” means a business entity operated on a for-profit or nonprofit basis that—
 
@@ -679,93 +679,93 @@ Pub. L. 115–232, div. A, title VIII, § 851(b), Aug. 13, 2018, 132 Stat. 188
 
 **(9)** The term “subcontracting participation goal”, with respect to a Department of Defense contract, means a goal for the extent of the participation by disadvantaged small business concerns in the subcontracts awarded under such contract, as established pursuant to section 8(d) of the Small Business Act (15 U.S.C. 637(d)).
 
-(Added and amended Pub. L. 117–263, div. A, title VIII, § 856(a), (b), Dec. 23, 2022, 136 Stat. 2723, 2724; Pub. L. 118–31, div. A, title VIII, § 852, title XVIII, § 1801(a)(37), Dec. 22, 2023, 137 Stat. 344, 685; Pub. L. 118–159, div. A, title XVII, § 1701(a)(42), Dec. 23, 2024, 138 Stat. 2206.)
+(Added and amended Pub. L. 117–263, div. A, title VIII, § 856(a), (b), Dec. 23, 2022, 136 Stat. 2723, 2724; Pub. L. 118–31, div. A, title VIII, § 852, title XVIII, § 1801(a)(37), Dec. 22, 2023, 137 Stat. 344, 685; Pub. L. 118–159, div. A, title XVII, § 1701(a)(42), Dec. 23, 2024, 138 Stat. 2206.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 312 of the Higher Education Act of 1965, referred to in subsec. (n)(4), is section 312 of Pub. L. 89–329, title III, as added Pub. L. 99–498, title III, § 301(a), Oct. 17, 1986, 100 Stat. 1292, which is classified to section 1058 of Title 20, Education. Pars. (3) to (5) of subsec. (b) of such section were repealed by Pub. L. 102–325, title III, § 302(a)(3), July 23, 1992, 106 Stat. 472. See 1992 Amendment notes under section 1058 of Title 20.
+Section 312 of the Higher Education Act of 1965, referred to in subsec. (n)(4), is section 312 of Pub. L. 89–329, title III, as added Pub. L. 99–498, title III, § 301(a), Oct. 17, 1986, 100 Stat. 1292, which is classified to section 1058 of Title 20, Education. Pars. (3) to (5) of subsec. (b) of such section were repealed by Pub. L. 102–325, title III, § 302(a)(3), July 23, 1992, 106 Stat. 472. See 1992 Amendment notes under section 1058 of Title 20.
 
 **Codification**
 
-Section 831 of Pub. L. 101–510, formerly set out as a note preceding section 4901 of this title, which was transferred to this section, redesignated as text of section, and amended by Pub. L. 117–263, § 856(b), was based on Pub. L. 101–510, div. A, title VIII, § 831, Nov. 5, 1990, 104 Stat. 1607, as amended by Pub. L. 102–25, title VII, § 704(c), Apr. 6, 1991, 105 Stat. 119; Pub. L. 102–172, title VIII, § 8064A, Nov. 26, 1991, 105 Stat. 1186; Pub. L. 102–190, div. A, title VIII, § 814(b), Dec. 5, 1991, 105 Stat. 1425; Pub. L. 102–484, div. A, title VIII, §§ 801(h)(4), 807(b)(1), title X, § 1054(d), Oct. 23, 1992, 106 Stat. 2445, 2448, 2503; Pub. L. 103–160, div. A, title VIII, § 813(b)(1), (c), Nov. 30, 1993, 107 Stat. 1703; Pub. L. 104–106, div. A, title VIII, § 824, Feb. 10, 1996, 110 Stat. 399; Pub. L. 104–201, div. A, title VIII, § 802, Sept. 23, 1996, 110 Stat. 2604; Pub. L. 105–85, div. A, title VIII, § 821(a), title X, § 1073(c)(6), Nov. 18, 1997, 111 Stat. 1840, 1904; Pub. L. 106–65, div. A, title VIII, § 811(a)–(d)(1), (e), Oct. 5, 1999, 113 Stat. 706, 707, 709; Pub. L. 106–398, § 1 [[div. A], title VIII, § 807], Oct. 30, 2000, 114 Stat. 1654, 1654A–208; Pub. L. 107–107, div. A, title VIII, § 812, Dec. 28, 2001, 115 Stat. 1181; Pub. L. 108–375, div. A, title VIII, §§ 841(a), (b), 842, Oct. 28, 2004, 118 Stat. 2018, 2019; Pub. L. 112–10, div. A, title VIII, § 8016, Apr. 15, 2011, 125 Stat. 60; Pub. L. 112–81, div. A, title VIII, § 867, title X, § 1062(n), Dec. 31, 2011, 125 Stat. 1526, 1586; Pub. L. 112–239, div. A, title X, § 1076(a)(17), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 113–291, div. A, title X, § 1071(b)(16), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–92, div. A, title VIII, § 861(a), Nov. 25, 2015, 129 Stat. 921; Pub. L. 114–328, div. A, title XVIII, §§ 1813(b), 1823, Dec. 23, 2016, 130 Stat. 2652, 2656; Pub. L. 115–91, div. A, title XVII, § 1701(a)(4)(A), Dec. 12, 2017, 131 Stat. 1796, as amended by Pub. L. 116–283, div. A, title X, § 1081(e)(1), Jan. 1, 2021, 134 Stat. 3874; Pub. L. 115–232, div. A, title VIII, § 812(a)(2)(C)(ii), Aug. 13, 2018, 132 Stat. 1846; Pub. L. 116–92, div. A, title VIII, § 872(a)(1), (2), (b), (c), Dec. 20, 2019, 133 Stat. 1526; Pub. L. 116–283, div. A, title XVIII, § 1806(e)(3)(F), Jan. 1, 2021, 134 Stat. 4156.
+Section 831 of Pub. L. 101–510, formerly set out as a note preceding section 4901 of this title, which was transferred to this section, redesignated as text of section, and amended by Pub. L. 117–263, § 856(b), was based on Pub. L. 101–510, div. A, title VIII, § 831, Nov. 5, 1990, 104 Stat. 1607, as amended by Pub. L. 102–25, title VII, § 704(c), Apr. 6, 1991, 105 Stat. 119; Pub. L. 102–172, title VIII, § 8064A, Nov. 26, 1991, 105 Stat. 1186; Pub. L. 102–190, div. A, title VIII, § 814(b), Dec. 5, 1991, 105 Stat. 1425; Pub. L. 102–484, div. A, title VIII, §§ 801(h)(4), 807(b)(1), title X, § 1054(d), Oct. 23, 1992, 106 Stat. 2445, 2448, 2503; Pub. L. 103–160, div. A, title VIII, § 813(b)(1), (c), Nov. 30, 1993, 107 Stat. 1703; Pub. L. 104–106, div. A, title VIII, § 824, Feb. 10, 1996, 110 Stat. 399; Pub. L. 104–201, div. A, title VIII, § 802, Sept. 23, 1996, 110 Stat. 2604; Pub. L. 105–85, div. A, title VIII, § 821(a), title X, § 1073(c)(6), Nov. 18, 1997, 111 Stat. 1840, 1904; Pub. L. 106–65, div. A, title VIII, § 811(a)–(d)(1), (e), Oct. 5, 1999, 113 Stat. 706, 707, 709; Pub. L. 106–398, § 1 [[div. A], title VIII, § 807], Oct. 30, 2000, 114 Stat. 1654, 1654A–208; Pub. L. 107–107, div. A, title VIII, § 812, Dec. 28, 2001, 115 Stat. 1181; Pub. L. 108–375, div. A, title VIII, §§ 841(a), (b), 842, Oct. 28, 2004, 118 Stat. 2018, 2019; Pub. L. 112–10, div. A, title VIII, § 8016, Apr. 15, 2011, 125 Stat. 60; Pub. L. 112–81, div. A, title VIII, § 867, title X, § 1062(n), Dec. 31, 2011, 125 Stat. 1526, 1586; Pub. L. 112–239, div. A, title X, § 1076(a)(17), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 113–291, div. A, title X, § 1071(b)(16), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–92, div. A, title VIII, § 861(a), Nov. 25, 2015, 129 Stat. 921; Pub. L. 114–328, div. A, title XVIII, §§ 1813(b), 1823, Dec. 23, 2016, 130 Stat. 2652, 2656; Pub. L. 115–91, div. A, title XVII, § 1701(a)(4)(A), Dec. 12, 2017, 131 Stat. 1796, as amended by Pub. L. 116–283, div. A, title X, § 1081(e)(1), Jan. 1, 2021, 134 Stat. 3874; Pub. L. 115–232, div. A, title VIII, § 812(a)(2)(C)(ii), Aug. 13, 2018, 132 Stat. 1846; Pub. L. 116–92, div. A, title VIII, § 872(a)(1), (2), (b), (c), Dec. 20, 2019, 133 Stat. 1526; Pub. L. 116–283, div. A, title XVIII, § 1806(e)(3)(F), Jan. 1, 2021, 134 Stat. 4156.
 
 **Amendments**
 
-2024—Subsec. (e)(1)(A)(iii). Pub. L. 118–159, § 1701(a)(42)(A)(i), inserted “the” before “protege firm”.
+2024—Subsec. (e)(1)(A)(iii). Pub. L. 118–159, § 1701(a)(42)(A)(i), inserted “the” before “protege firm”.
 
-Subsec. (e)(1)(C), (3). Pub. L. 118–159, § 1701(a)(42)(A)(ii), redesignated par. (3) as subpar. (C) of par. (1) and realigned margins.
+Subsec. (e)(1)(C), (3). Pub. L. 118–159, § 1701(a)(42)(A)(ii), redesignated par. (3) as subpar. (C) of par. (1) and realigned margins.
 
-Subsec. (n)(5)(D). Pub. L. 118–159, § 1701(a)(42)(B), inserted “of 1938” after “Fair Labor Standards Act”.
+Subsec. (n)(5)(D). Pub. L. 118–159, § 1701(a)(42)(B), inserted “of 1938” after “Fair Labor Standards Act”.
 
-2023—Subsec. (e). Pub. L. 118–31, § 852, inserted par. (1) designation before “Before providing assistance”, redesignated former par. (1) and its subpars. (A) to (D) as subpar. (A) and cls. (i) to (iv), redesignated former par. (2) as subpar. (B) of par. (1), and added par. (2). Par. (2) was added after par. (1) to reflect the probable intent of Congress, notwithstanding directory language adding it at the end of subsec. (e).
+2023—Subsec. (e). Pub. L. 118–31, § 852, inserted par. (1) designation before “Before providing assistance”, redesignated former par. (1) and its subpars. (A) to (D) as subpar. (A) and cls. (i) to (iv), redesignated former par. (2) as subpar. (B) of par. (1), and added par. (2). Par. (2) was added after par. (1) to reflect the probable intent of Congress, notwithstanding directory language adding it at the end of subsec. (e).
 
-Subsec. (k)(5). Pub. L. 118–31, § 1801(a)(37), inserted “the” before “mentor firm”.
+Subsec. (k)(5). Pub. L. 118–31, § 1801(a)(37), inserted “the” before “mentor firm”.
 
-2022—Pub. L. 117–263, § 856(b)(1), substituted “Department of Defense Mentor-Protege” for “Mentor-Protege Pilot” in section catchline.
+2022—Pub. L. 117–263, § 856(b)(1), substituted “Department of Defense Mentor-Protege” for “Mentor-Protege Pilot” in section catchline.
 
-Pub. L. 117–263, § 856(a), transferred section 831 of Pub. L. 101–510 to this subchapter and renumbered it as this section. See Codification note above.
+Pub. L. 117–263, § 856(a), transferred section 831 of Pub. L. 101–510 to this subchapter and renumbered it as this section. See Codification note above.
 
-Subsec. (a). Pub. L. 117–263, § 856(b)(3), struck out “pilot” before “program to”.
+Subsec. (a). Pub. L. 117–263, § 856(b)(3), struck out “pilot” before “program to”.
 
-Pub. L. 117–263, § 856(b)(2), struck out “Pilot” before “Program” in heading.
+Pub. L. 117–263, § 856(b)(2), struck out “Pilot” before “Program” in heading.
 
-Subsec. (c)(1). Pub. L. 117–263, § 856(b)(3), struck out “pilot” after “in the” in two places.
+Subsec. (c)(1). Pub. L. 117–263, § 856(b)(3), struck out “pilot” after “in the” in two places.
 
-Subsec. (d)(1)(B)(iii)(I). Pub. L. 117–263, § 856(b)(4)(A), substituted “$25,000,000” for “$100,000,000”.
+Subsec. (d)(1)(B)(iii)(I). Pub. L. 117–263, § 856(b)(4)(A), substituted “$25,000,000” for “$100,000,000”.
 
-Subsec. (d)(1)(B)(iii)(II). Pub. L. 117–263, § 856(b)(4)(B), substituted “subsection (j)” for “subsection (k)”.
+Subsec. (d)(1)(B)(iii)(II). Pub. L. 117–263, § 856(b)(4)(B), substituted “subsection (j)” for “subsection (k)”.
 
-Subsec. (e)(2). Pub. L. 117–263, § 856(b)(5), substituted “three years” for “two years” in two places.
+Subsec. (e)(2). Pub. L. 117–263, § 856(b)(5), substituted “three years” for “two years” in two places.
 
-Subsec. (f)(1)(B). Pub. L. 117–263, § 856(b)(6)(A), inserted “manufacturing, test and evaluation,” after “inventory control,”.
+Subsec. (f)(1)(B). Pub. L. 117–263, § 856(b)(6)(A), inserted “manufacturing, test and evaluation,” after “inventory control,”.
 
-Subsec. (f)(6)(B). Pub. L. 117–263, § 856(b)(6)(B), substituted “pursuant to chapter 388 of this title;” for “pursuant to chapter 142 of title 10, United States Code;”.
+Subsec. (f)(6)(B). Pub. L. 117–263, § 856(b)(6)(B), substituted “pursuant to chapter 388 of this title;” for “pursuant to chapter 142 of title 10, United States Code;”.
 
-Subsec. (g)(3)(C). Pub. L. 117–263, § 856(b)(7), substituted “subsection (j)” for “subsection (k)”.
+Subsec. (g)(3)(C). Pub. L. 117–263, § 856(b)(7), substituted “subsection (j)” for “subsection (k)”.
 
-Subsec. (j). Pub. L. 117–263, § 856(b)(11), struck out “pilot” before “Mentor-Protege” in two places and “The Secretary shall publish the proposed regulations not later than the date 180 days after the date of the enactment of this Act. The Secretary shall promulgate the final regulations not later than the date 270 days after the date of the enactment of this Act.” after “participation in the program.”, and substituted “by which the parties” for “by which mentor firms”.
+Subsec. (j). Pub. L. 117–263, § 856(b)(11), struck out “pilot” before “Mentor-Protege” in two places and “The Secretary shall publish the proposed regulations not later than the date 180 days after the date of the enactment of this Act. The Secretary shall promulgate the final regulations not later than the date 270 days after the date of the enactment of this Act.” after “participation in the program.”, and substituted “by which the parties” for “by which mentor firms”.
 
-Pub. L. 117–263, § 856(b)(8), (9), redesignated subsec. (k) as (j) and struck out former subsec. (j). Prior to amendment, text of subsec. (j) read as follows:
+Pub. L. 117–263, § 856(b)(8), (9), redesignated subsec. (k) as (j) and struck out former subsec. (j). Prior to amendment, text of subsec. (j) read as follows:
 
 “(1) No mentor-protege agreement may be entered into under subsection (e) after September 30, 2024.
 
 “(2) No reimbursement may be paid, and no credit toward the attainment of a subcontracting goal may be granted, under subsection (g) for any cost incurred after September 30, 2026.”
 
-Subsec. (k). Pub. L. 117–263, § 856(b)(9), redesignated subsec. (*l*) as (k). Former subsec. (k) redesignated (j).
+Subsec. (k). Pub. L. 117–263, § 856(b)(9), redesignated subsec. (*l*) as (k). Former subsec. (k) redesignated (j).
 
-Subsec. (k)(7)(B). Pub. L. 117–263, § 856(b)(12), substituted “pursuant to chapter 388 of this title; or” for “pursuant to chapter 142 of title 10, United States Code; or”.
+Subsec. (k)(7)(B). Pub. L. 117–263, § 856(b)(12), substituted “pursuant to chapter 388 of this title; or” for “pursuant to chapter 142 of title 10, United States Code; or”.
 
-Subsec. (*l*). Pub. L. 117–263, § 856(b)(13), substituted “subsection (k)” for “subsection (*l*)”.
+Subsec. (*l*). Pub. L. 117–263, § 856(b)(13), substituted “subsection (k)” for “subsection (*l*)”.
 
-Pub. L. 117–263, § 856(b)(9), redesignated subsec. (m) as (*l*). Former subsec. (*l*) redesignated (k).
+Pub. L. 117–263, § 856(b)(9), redesignated subsec. (m) as (*l*). Former subsec. (*l*) redesignated (k).
 
-Subsec. (m). Pub. L. 117–263, § 856(b)(14), added subsec. (m). Former subsec. (m) redesignated (*l*).
+Subsec. (m). Pub. L. 117–263, § 856(b)(14), added subsec. (m). Former subsec. (m) redesignated (*l*).
 
-Subsec. (n). Pub. L. 117–263, § 856(b)(15), amended subsec. (n) generally. Prior to amendment, subsec. (n) defined terms for this section.
+Subsec. (n). Pub. L. 117–263, § 856(b)(15), amended subsec. (n) generally. Prior to amendment, subsec. (n) defined terms for this section.
 
-Pub. L. 117–263, § 856(b)(8), (10), redesignated subsec. (*o*) as (n) and struck out former subsec. (n). Prior to amendment, text of subsec. (*o*) read as follows: “The Office of Small Business Programs of the Department of Defense shall—
+Pub. L. 117–263, § 856(b)(8), (10), redesignated subsec. (*o*) as (n) and struck out former subsec. (n). Prior to amendment, text of subsec. (*o*) read as follows: “The Office of Small Business Programs of the Department of Defense shall—
 
 “(1) establish performance goals consistent with the stated purpose of the Mentor-Protege Program and outcome-based metrics to measure progress in meeting those goals; and
 
 “(2) submit to the congressional defense committees, not later than February 1, 2020, a report on progress made toward implementing these performance goals and metrics, based on periodic reviews of the procedures used to approve mentor-protege agreements.”
 
-Subsec. (*o*). Pub. L. 117–263, § 856(b)(10), redesignated subsec. (*o*) as (n).
+Subsec. (*o*). Pub. L. 117–263, § 856(b)(10), redesignated subsec. (*o*) as (n).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–263, div. A, title VIII, § 856(g), Dec. 23, 2022, 136 Stat. 2727, provided that: “The amendments made by this section [enacting and amending this section] shall not apply with respect to any agreement entered into under the program as established under section 831 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1607) before the date of the enactment of this Act [Dec. 23, 2022].”
+Pub. L. 117–263, div. A, title VIII, § 856(g), Dec. 23, 2022, 136 Stat. 2727, provided that: “The amendments made by this section [enacting and amending this section] shall not apply with respect to any agreement entered into under the program as established under section 831 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1607) before the date of the enactment of this Act [Dec. 23, 2022].”
 
 **Regulations**
 
-Pub. L. 117–263, div. A, title VIII, § 856(f), Dec. 23, 2022, 136 Stat. 2727, provided that: “Not later than December 31, 2023, the Secretary of Defense shall issue regulations for carrying out section 4902 of title 10, United States Code, as amended by this section.”
+Pub. L. 117–263, div. A, title VIII, § 856(f), Dec. 23, 2022, 136 Stat. 2727, provided that: “Not later than December 31, 2023, the Secretary of Defense shall issue regulations for carrying out section 4902 of title 10, United States Code, as amended by this section.”
 
 **Protege Technical Reimbursement Pilot Program**
 
-Pub. L. 117–263, div. A, title VIII, § 856(d), Dec. 23, 2022, 136 Stat. 2726, provided that:
+Pub. L. 117–263, div. A, title VIII, § 856(d), Dec. 23, 2022, 136 Stat. 2726, provided that:
 
 > **“(1) In general.—** Not later than July 1, 2023, the Director of the Office of Small Business Programs of the Department of Defense (as appointed pursuant to section 144 of title 10, United States Code) shall establish a pilot program under which a protege firm may receive up to 25 percent of the reimbursement for which the mentor firm of such protege firm is eligible under the Mentor-Protege Program for a covered activity described in paragraph (2).
 
@@ -781,4 +781,4 @@ Pub. L. 117–263, div. A, title VIII, § 856(d), Dec. 23, 2022, 136 Stat. 272
 
 ## SUBCHAPTER II—[RESERVED]
 
-2021—Pub. L. 117–81, div. A, title XVII, § 1701(i)(10)(B), Dec. 27, 2021, 135 Stat. 2143, amended Pub. L. 116–283, div. A, title XVIII, § 1871(a)(2), Jan. 1, 2021, 134 Stat. 4287, by adding this subchapter.
+2021—Pub. L. 117–81, div. A, title XVII, § 1701(i)(10)(B), Dec. 27, 2021, 135 Stat. 2143, amended Pub. L. 116–283, div. A, title XVIII, § 1871(a)(2), Jan. 1, 2021, 134 Stat. 4287, by adding this subchapter.

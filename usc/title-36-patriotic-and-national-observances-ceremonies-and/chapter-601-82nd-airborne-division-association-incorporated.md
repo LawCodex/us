@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 601—82ND AIRBORNE DIVISION ASSOCIATION, INCORPORATED"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 601—82ND AIRBORNE DIVISION ASSOCIATION, INCORPORATED"
 identifier: "/us/usc/t36/stII/ptB/ch601"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 601—82ND AIRBORNE DIVISION ASSOCIATION, INCORPORATED
 
-## § 60101. Definition
+## § 60101. Definition
 
 For purposes of this chapter, “State” includes the District of Columbia and the territories and possessions of the United States.
 
@@ -25,11 +25,11 @@ For purposes of this chapter, “State” includes the District of Columbia and 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 60101 | 36:4813. | Nov. 5, 1990, Pub. L. 101–510, title XVI, § 1614, 104 Stat. 1738. |
+| 60101 | 36:4813. | Nov. 5, 1990, Pub. L. 101–510, title XVI, § 1614, 104 Stat. 1738. |
 
 The words “the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands” are omitted as included in “the territories and possessions of the United States”.
 
-## § 60102. Organization
+## § 60102. Organization
 
 **(a) Federal Charter.—** 82nd Airborne Division Association, Incorporated (in this chapter, the “corporation”), a nonprofit corporation incorporated in Illinois, is a federally chartered corporation.
 
@@ -41,14 +41,14 @@ The words “the Commonwealth of Puerto Rico, the Commonwealth of the Northern M
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 60102(a) | 36:4801. | Nov. 5, 1990, Pub. L. 101–510, title XVI, §§ 1601, 1616, 104 Stat. 1736, 1738. |
+| 60102(a) | 36:4801. | Nov. 5, 1990, Pub. L. 101–510, title XVI, §§ 1601, 1616, 104 Stat. 1736, 1738. |
 | 60102(b) | 36:4815. |  |
 
 Subsection (a) is substituted for the source provision for consistency in the revised title.
 
 In subsection (b), the words “restrictions or” are omitted as unnecessary.
 
-## § 60103. Purposes
+## § 60103. Purposes
 
 The purposes of the corporation are as provided in the articles of incorporation and include—
 
@@ -68,11 +68,11 @@ The purposes of the corporation are as provided in the articles of incorporation
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 60103 | 36:4803. | Nov. 5, 1990, Pub. L. 101–510, title XVI, § 1603, 104 Stat. 1736. |
+| 60103 | 36:4803. | Nov. 5, 1990, Pub. L. 101–510, title XVI, § 1603, 104 Stat. 1736. |
 
 Before clause (1), the word “objects” is omitted as included in “purposes”.
 
-## § 60104. Membership
+## § 60104. Membership
 
 **(a) Eligibility.—** Except as provided in this chapter, eligibility for membership in the corporation and the rights and privileges of members are as provided in the constitution and bylaws of the corporation.
 
@@ -84,12 +84,12 @@ Before clause (1), the word “objects” is omitted as included in “purposes�
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 60104(a) | 36:4805(a). | Nov. 5, 1990, Pub. L. 101–510, title XVI, § 1605(a), (b) (related to discrimination in membership), 104 Stat. 1737. |
+| 60104(a) | 36:4805(a). | Nov. 5, 1990, Pub. L. 101–510, title XVI, § 1605(a), (b) (related to discrimination in membership), 104 Stat. 1737. |
 | 60104(b) | 36:4805(b) (related to discrimination in membership). |  |
 
 In subsection (a), the words “Except as provided in this chapter” are substituted for “Subject to subsection (b) of this section” for consistency in the revised title.
 
-## § 60105. Governing body
+## § 60105. Governing body
 
 **(a) Board of Directors.—** The board of directors and the responsibilities of the board are as provided in the articles of incorporation.
 
@@ -103,13 +103,13 @@ In subsection (a), the words “Except as provided in this chapter” are substi
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 60105(a) | 36:4806. | Nov. 5, 1990, Pub. L. 101–510, title XVI, §§ 1605(b) (related to discrimination in holding office), 1606, 1607, 104 Stat. 1737. |
+| 60105(a) | 36:4806. | Nov. 5, 1990, Pub. L. 101–510, title XVI, §§ 1605(b) (related to discrimination in holding office), 1606, 1607, 104 Stat. 1737. |
 | 60105(b) | 36:4807. |  |
 | 60105(c) | 36:4805(b) (related to discrimination in holding office). |  |
 
 In subsections (a) and (b), the words “and shall be in conformity with the laws of the State or States in which it is incorporated” are omitted as unnecessary.
 
-## § 60106. Powers
+## § 60106. Powers
 
 The corporation has only the powers provided in its bylaws and articles of incorporation filed in each State in which it is incorporated.
 
@@ -119,11 +119,11 @@ The corporation has only the powers provided in its bylaws and articles of incor
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 60106 | 36:4802. | Nov. 5, 1990, Pub. L. 101–510, title XVI, § 1602, 104 Stat. 1736. |
+| 60106 | 36:4802. | Nov. 5, 1990, Pub. L. 101–510, title XVI, § 1602, 104 Stat. 1736. |
 
 The words “and subject to the laws of such State or States” are omitted as unnecessary.
 
-## § 60107. Restrictions
+## § 60107. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -141,7 +141,7 @@ The words “and subject to the laws of such State or States” are omitted as u
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 60107(a) | 36:4808(d). | Nov. 5, 1990, Pub. L. 101–510, title XVI, § 1608, 104 Stat. 1737. |
+| 60107(a) | 36:4808(d). | Nov. 5, 1990, Pub. L. 101–510, title XVI, § 1608, 104 Stat. 1737. |
 | 60107(b) | 36:4808(c). |  |
 | 60107(c) | 36:4808(a). |  |
 | 60107(d) | 36:4808(b). |  |
@@ -151,7 +151,7 @@ In subsection (a), the words “any shares of” are omitted as unnecessary.
 
 In subsection (b), the words “as such” are substituted for “acting as such officer or director” for consistency in the revised title. The word “otherwise” is omitted as unnecessary.
 
-## § 60108. Duty to maintain tax-exempt status
+## § 60108. Duty to maintain tax-exempt status
 
 The corporation shall maintain its status as an organization exempt from taxation under the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.).
 
@@ -161,9 +161,9 @@ The corporation shall maintain its status as an organization exempt from taxatio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 60108 | 36:4814. | Nov. 5, 1990, Pub. L. 101–510, title XVI, § 1615, 104 Stat. 1738. |
+| 60108 | 36:4814. | Nov. 5, 1990, Pub. L. 101–510, title XVI, § 1615, 104 Stat. 1738. |
 
-## § 60109. Records and inspection
+## § 60109. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -181,11 +181,11 @@ The corporation shall maintain its status as an organization exempt from taxatio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 60109 | 36:4810. | Nov. 5, 1990, Pub. L. 101–510, title XVI, § 1610, 104 Stat. 1737. |
+| 60109 | 36:4810. | Nov. 5, 1990, Pub. L. 101–510, title XVI, § 1610, 104 Stat. 1737. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
 
-## § 60110. Service of process
+## § 60110. Service of process
 
 The corporation shall comply with the law on service of process of each State in which it is incorporated and each State in which it carries on activities.
 
@@ -195,11 +195,11 @@ The corporation shall comply with the law on service of process of each State in
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 60110 | 36:4804. | Nov. 5, 1990, Pub. L. 101–510, title XVI, § 1604, 104 Stat. 1737. |
+| 60110 | 36:4804. | Nov. 5, 1990, Pub. L. 101–510, title XVI, § 1604, 104 Stat. 1737. |
 
 The words “in furtherance of its corporate purposes” are omitted as unnecessary.
 
-## § 60111. Liability for acts of officers and agents
+## § 60111. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -209,9 +209,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 60111 | 36:4809. | Nov. 5, 1990, Pub. L. 101–510, title XVI, § 1609, 104 Stat. 1737. |
+| 60111 | 36:4809. | Nov. 5, 1990, Pub. L. 101–510, title XVI, § 1609, 104 Stat. 1737. |
 
-## § 60112. Annual report
+## § 60112. Annual report
 
 The corporation shall submit an annual report to Congress on the activities of the corporation during the prior fiscal year. The report shall be submitted at the same time as the report of the audit required by section 10101 of this title. The report may not be printed as a public document.
 
@@ -221,7 +221,7 @@ The corporation shall submit an annual report to Congress on the activities of t
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 60112 | 36:4811. | Nov. 5, 1990, Pub. L. 101–510, title XVI, § 1612, 104 Stat. 1738. |
+| 60112 | 36:4811. | Nov. 5, 1990, Pub. L. 101–510, title XVI, § 1612, 104 Stat. 1738. |
 
 **Statutory Notes and Related Subsidiaries**
 

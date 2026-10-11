@@ -23,35 +23,35 @@ The criminal provisions of the Migratory Bird Treaty Act, sections 703–711 of 
 
 **Amendments**
 
-2020—Pub. L. 116–260, div. O, title X, § 1003(b), Dec. 27, 2020, 134 Stat. 2156, struck out item 46 “Transportation of water hyacinths”.
+2020—Pub. L. 116–260, div. O, title X, § 1003(b), Dec. 27, 2020, 134 Stat. 2156, struck out item 46 “Transportation of water hyacinths”.
 
-2019—Pub. L. 116–72, § 2(b), Nov. 25, 2019, 133 Stat. 1152, substituted “Animal crushing” for “Animal crush videos” in item 48.
+2019—Pub. L. 116–72, § 2(b), Nov. 25, 2019, 133 Stat. 1152, substituted “Animal crushing” for “Animal crush videos” in item 48.
 
-2010—Pub. L. 111–294, § 3(b), Dec. 9, 2010, 124 Stat. 3179, substituted “Animal crush videos” for “Depiction of animal cruelty” in item 48.
+2010—Pub. L. 111–294, § 3(b), Dec. 9, 2010, 124 Stat. 3179, substituted “Animal crush videos” for “Depiction of animal cruelty” in item 48.
 
-2007—Pub. L. 110–22, § 2(b), May 3, 2007, 121 Stat. 88, added item 49.
+2007—Pub. L. 110–22, § 2(b), May 3, 2007, 121 Stat. 88, added item 49.
 
-2006—Pub. L. 109–374, § 2(b), Nov. 27, 2006, 120 Stat. 2655, substituted “Force, violence, and threats involving animal enterprises” for “Animal enterprise terrorism” in item 43.
+2006—Pub. L. 109–374, § 2(b), Nov. 27, 2006, 120 Stat. 2655, substituted “Force, violence, and threats involving animal enterprises” for “Animal enterprise terrorism” in item 43.
 
-1999—Pub. L. 106–152, § 1(b), Dec. 9, 1999, 113 Stat. 1732, added item 48.
+1999—Pub. L. 106–152, § 1(b), Dec. 9, 1999, 113 Stat. 1732, added item 48.
 
-1992—Pub. L. 102–346, § 2(b), Aug. 26, 1992, 106 Stat. 929, which directed the general amendment of item 43, was executed by adding item 43 to reflect the probable intent of Congress, because item 43 had been previously struck out by Pub. L. 101–647. See 1990 Amendment note below.
+1992—Pub. L. 102–346, § 2(b), Aug. 26, 1992, 106 Stat. 929, which directed the general amendment of item 43, was executed by adding item 43 to reflect the probable intent of Congress, because item 43 had been previously struck out by Pub. L. 101–647. See 1990 Amendment note below.
 
-1990—Pub. L. 101–647, title XII, § 1206(b), title XXXV, § 3506, Nov. 29, 1990, 104 Stat. 4832, 4922, substituted “Importation or shipment of injurious mammals, birds, fish (including mollusks and crustacea), amphibia, and reptiles; permits, specimens for museums; regulations” for “Importation of injurious animals and birds; permits; specimens for museums” in item 42, struck out item 43 “Transportation or importation in violation of state, national, or foreign laws”, item 44 “Marking packages or containers”, and item 45 “Capturing or killing carrier pigeons”, and inserted “; pollution of watering holes” after “burros” in item 47.
+1990—Pub. L. 101–647, title XII, § 1206(b), title XXXV, § 3506, Nov. 29, 1990, 104 Stat. 4832, 4922, substituted “Importation or shipment of injurious mammals, birds, fish (including mollusks and crustacea), amphibia, and reptiles; permits, specimens for museums; regulations” for “Importation of injurious animals and birds; permits; specimens for museums” in item 42, struck out item 43 “Transportation or importation in violation of state, national, or foreign laws”, item 44 “Marking packages or containers”, and item 45 “Capturing or killing carrier pigeons”, and inserted “; pollution of watering holes” after “burros” in item 47.
 
-1959—Pub. L. 86–234, § 1(b), Sept. 8, 1959, 73 Stat. 470, added item 47.
+1959—Pub. L. 86–234, § 1(b), Sept. 8, 1959, 73 Stat. 470, added item 47.
 
-1956—Act Aug. 1, 1956, ch. 825, § 2(b), 70 Stat. 798, amended chapter heading to include reference to “Plants” and added item 46.
+1956—Act Aug. 1, 1956, ch. 825, § 2(b), 70 Stat. 798, amended chapter heading to include reference to “Plants” and added item 46.
 
-## § 41. Hunting, fishing, trapping; disturbance or injury on wildlife refuges
+## § 41. Hunting, fishing, trapping; disturbance or injury on wildlife refuges
 
 Whoever, except in compliance with rules and regulations promulgated by authority of law, hunts, traps, captures, willfully disturbs or kills any bird, fish, or wild animal of any kind whatever, or takes or destroys the eggs or nest of any such bird or fish, on any lands or waters which are set apart or reserved as sanctuaries, refuges or breeding grounds for such birds, fish, or animals under any law of the United States or willfully injures, molests, or destroys any property of the United States on any such lands or waters, shall be fined under this title or imprisoned not more than six months, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 686; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 686; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 145 and §§ 676, 682, 683, 685, 688, 689b, 692a, and 694a of title 16, U.S.C., 1940 ed., Conservation (Jan. 24, 1905, ch. 137, § 2, 33 Stat. 614; June 29, 1906, ch. 3593, § 2, 34 Stat. 607; Mar. 4, 1909, ch. 321, § 84, 35 Stat. 1104; Aug. 11, 1916, ch. 313, 39 Stat. 476; June 5, 1920, ch. 247, § 2, 41 Stat. 986; Apr. 15, 1924, ch. 108, 43 Stat. 98; Feb. 28, 1925, ch. 376, 43 Stat. 1091; July 3, 1926, ch. 744, § 6, 44 Stat. 821; July 3, 1926, ch. 776, § 3, 44 Stat. 889; June 28, 1930, ch. 709, § 2, 46 Stat. 828; Mar. 10, 1934, ch. 54, § 2, 48 Stat. 400; Reorg. Plan No. II, § 4(f), 4 F.R. 2731, 53 Stat. 1433).
+Based on title 18, U.S.C., 1940 ed., § 145 and §§ 676, 682, 683, 685, 688, 689b, 692a, and 694a of title 16, U.S.C., 1940 ed., Conservation (Jan. 24, 1905, ch. 137, § 2, 33 Stat. 614; June 29, 1906, ch. 3593, § 2, 34 Stat. 607; Mar. 4, 1909, ch. 321, § 84, 35 Stat. 1104; Aug. 11, 1916, ch. 313, 39 Stat. 476; June 5, 1920, ch. 247, § 2, 41 Stat. 986; Apr. 15, 1924, ch. 108, 43 Stat. 98; Feb. 28, 1925, ch. 376, 43 Stat. 1091; July 3, 1926, ch. 744, § 6, 44 Stat. 821; July 3, 1926, ch. 776, § 3, 44 Stat. 889; June 28, 1930, ch. 709, § 2, 46 Stat. 828; Mar. 10, 1934, ch. 54, § 2, 48 Stat. 400; Reorg. Plan No. II, § 4(f), 4 F.R. 2731, 53 Stat. 1433).
 
 This revised section condenses, consolidates, and simplifies similar provisions of sections 676, 682, 683, 685, 688, 689b, 692a, and 694a of title 16, U.S.C., 1940 ed., with section 145 of title 18, U.S.C., 1940 ed., with such changes of phraseology as make clear the intent of Congress to protect all wildlife within Federal sanctuaries, refuges, fish hatcheries, and breeding grounds. Irrelevant provisions of such sections in title 16 are to be retained in that title.
 
@@ -71,13 +71,13 @@ Words “in any United States court of competent jurisdiction”, in sections 67
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
 
-## § 42. Importation or shipment of injurious mammals, birds, fish (including mollusks and crustacea), amphibia, and reptiles; permits, specimens for museums; regulations
+## § 42. Importation or shipment of injurious mammals, birds, fish (including mollusks and crustacea), amphibia, and reptiles; permits, specimens for museums; regulations
 
 **(a)**
 
 **(1)** The importation into the United States, any territory of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any possession of the United States, or any shipment between the continental United States, the District of Columbia, Hawaii, the Commonwealth of Puerto Rico, or any possession of the United States, of the mongoose of the species Herpestes auropunctatus; of the species of so-called “flying foxes” or fruit bats of the genus Pteropus; of the zebra mussel of the species Dreissena polymorpha; of the quagga mussel of the species Dreissena rostriformis or Dreissena bugensis; of the bighead carp of the species Hypophthalmichthys nobilis; and such other species of wild mammals, wild birds, fish (including mollusks and crustacea), amphibians, reptiles, brown tree snakes, or the offspring or eggs of any of the foregoing which the Secretary of the Interior may prescribe by regulation to be injurious to human beings, to the interests of agriculture, horticulture, forestry, or to wildlife or the wildlife resources of the United States, is hereby prohibited. All such prohibited mammals, birds, fish (including mollusks and crustacea), amphibians, and reptiles, and the eggs or offspring therefrom, shall be promptly exported or destroyed at the expense of the importer or consignee. Nothing in this section shall be construed to repeal or modify any provision of the Public Health Service Act or Federal Food, Drug, and Cosmetic Act. Also, this section shall not authorize any action with respect to the importation of any plant pest as defined in the Federal Plant Pest Act,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 insofar as such importation is subject to regulation under that Act.
 
@@ -97,13 +97,13 @@ insofar as such importation is subject to regulation under that Act.
 
 **(2)** the presence in such vessel or conveyance at such time of a substantial ratio of dead, crippled, diseased, or starving wild animals or birds shall be deemed prima facie evidence of the violation of the provisions of this subsection.
 
-(June 25, 1948, ch. 645, 62 Stat. 687; May 24, 1949, ch. 139, § 2, 63 Stat. 89; Pub. L. 86–702, § 1, Sept. 2, 1960, 74 Stat. 753; Pub. L. 97–79, § 9(d), Nov. 16, 1981, 95 Stat. 1079; Pub. L. 101–646, title I, § 1208, Nov. 29, 1990, 104 Stat. 4772; Pub. L. 102–237, title X, § 1013(e), Dec. 13, 1991, 105 Stat. 1901; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 111–307, § 2, Dec. 14, 2010, 124 Stat. 3282; Pub. L. 115–282, title IX, § 903(e), Dec. 4, 2018, 132 Stat. 4357.)
+(June 25, 1948, ch. 645, 62 Stat. 687; May 24, 1949, ch. 139, § 2, 63 Stat. 89; Pub. L. 86–702, § 1, Sept. 2, 1960, 74 Stat. 753; Pub. L. 97–79, § 9(d), Nov. 16, 1981, 95 Stat. 1079; Pub. L. 101–646, title I, § 1208, Nov. 29, 1990, 104 Stat. 4772; Pub. L. 102–237, title X, § 1013(e), Dec. 13, 1991, 105 Stat. 1901; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 111–307, § 2, Dec. 14, 2010, 124 Stat. 3282; Pub. L. 115–282, title IX, § 903(e), Dec. 4, 2018, 132 Stat. 4357.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 18, U.S.C., 1940 ed., §§ 391, 394 (Mar. 4, 1909, ch. 321, §§ 241, 244, 35 Stat. 1137, 1138; June 15, 1935, ch. 261, title II, § 201, 49 Stat. 381; Reorg. Plan No. II, § 4(f), 4 F.R. 2731, 53 Stat. 1433).
+Based on title 18, U.S.C., 1940 ed., §§ 391, 394 (Mar. 4, 1909, ch. 321, §§ 241, 244, 35 Stat. 1137, 1138; June 15, 1935, ch. 261, title II, § 201, 49 Stat. 381; Reorg. Plan No. II, § 4(f), 4 F.R. 2731, 53 Stat. 1433).
 
 This section consolidates the provisions of sections 391 and 394 of title 18, U.S.C., 1940 ed., as subsections (a) and (b), respectively.
 
@@ -123,11 +123,11 @@ This section [section 2] incorporates in section 42 of title 18, U.S.C., with sl
 
 **References in Text**
 
-The Public Health Service Act, referred to in subsec. (a)(1), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (a)(1), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Foods and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Foods and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-The Federal Plant Pest Act, referred to in subsec. (a)(1), is Pub. L. 85–36, title I, May 23, 1957, 71 Stat. 31, which was classified generally to chapter 7B (§ 150aa et seq.) of Title 7, Agriculture, prior to repeal by Pub. L. 106–224, title IV, § 438(a)(2), June 20, 2000, 114 Stat. 454. For complete classification of this Act to the Code, see Tables.
+The Federal Plant Pest Act, referred to in subsec. (a)(1), is Pub. L. 85–36, title I, May 23, 1957, 71 Stat. 31, which was classified generally to chapter 7B (§ 150aa et seq.) of Title 7, Agriculture, prior to repeal by Pub. L. 106–224, title IV, § 438(a)(2), June 20, 2000, 114 Stat. 454. For complete classification of this Act to the Code, see Tables.
 
 This Act, referred to in subsec. (a)(3), probably refers to Pub. L. 86–702, which amended this section and section 43 of this title.
 
@@ -139,7 +139,7 @@ The enactment of the Lacey Act Amendments of 1981, referred to in subsec. (c), m
 
 2010—Subsec. (a)(1). Pub. L. 111–307 inserted “of the bighead carp of the species Hypophthalmichthys nobilis;” after “Dreissena polymorpha;”.
 
-1996—Subsec. (a)(1). Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 1208. See 1990 Amendment note below.
+1996—Subsec. (a)(1). Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 1208. See 1990 Amendment note below.
 
 1994—Subsec. (b). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
 
@@ -173,7 +173,7 @@ Subsec. (c). Act May 24, 1949, added subsec. (c).
 
 For provisions relating to restrictions on the introduction of invasive species into natural ecosystems of the United States, see Ex. Ord. No. 13112, Feb. 3, 1999, 64 F.R. 6183, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
 
-## § 43. Force, violence, and threats involving animal enterprises
+## § 43. Force, violence, and threats involving animal enterprises
 
 **(a) Offense.—** Whoever travels in interstate or foreign commerce, or uses or causes to be used the mail or any facility of interstate or foreign commerce—
 
@@ -189,15 +189,15 @@ For provisions relating to restrictions on the introduction of invasive species 
 
 shall be punished as provided for in subsection (b).
 
-**(b) Penalties.—** The punishment for a violation of section 1
+**(b) Penalties.—** The punishment for a violation of section 1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
 (a) or an attempt or conspiracy to violate subsection (a) shall be—
 
-**(1)** a fine under this title or imprisonment not 2
+**(1)** a fine under this title or imprisonment not 2
 
-<sup>2</sup>  So in original. Probably should be preceded by “for”.
+<sup>2</sup> So in original. Probably should be preceded by “for”.
 
 more than 1 year, or both, if the offense does not instill in another the reasonable fear of serious bodily injury or death and—
 
@@ -285,23 +285,23 @@ more than 1 year, or both, if the offense does not instill in another the reason
 
 **(3)** to provide exclusive criminal penalties or civil remedies with respect to the conduct prohibited by this action, or to preempt State or local laws that may provide such penalties or remedies.
 
-(Added Pub. L. 102–346, § 2(a), Aug. 26, 1992, 106 Stat. 928; amended Pub. L. 104–294, title VI, § 601(r)(3), Oct. 11, 1996, 110 Stat. 3502; Pub. L. 107–188, title III, § 336, June 12, 2002, 116 Stat. 681; Pub. L. 109–374, § 2(a), Nov. 27, 2006, 120 Stat. 2652.)
+(Added Pub. L. 102–346, § 2(a), Aug. 26, 1992, 106 Stat. 928; amended Pub. L. 104–294, title VI, § 601(r)(3), Oct. 11, 1996, 110 Stat. 3502; Pub. L. 107–188, title III, § 336, June 12, 2002, 116 Stat. 681; Pub. L. 109–374, § 2(a), Nov. 27, 2006, 120 Stat. 2652.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 43, acts June 25, 1948, ch. 645, 62 Stat. 687; Sept. 2, 1960, Pub. L. 86–702, § 2, 74 Stat. 754; Dec. 5, 1969, Pub. L. 91–135, § 7(a), 83 Stat. 279, related to transportation of wildlife taken in violation of State, national, or foreign law, the receipt of such wildlife, and the making of false records in relation thereto, prior to repeal by Pub. L. 97–79, § 9(b)(2), Nov. 16, 1981, 95 Stat. 1079. See section 3372(a) of Title 16, Conservation.
+A prior section 43, acts June 25, 1948, ch. 645, 62 Stat. 687; Sept. 2, 1960, Pub. L. 86–702, § 2, 74 Stat. 754; Dec. 5, 1969, Pub. L. 91–135, § 7(a), 83 Stat. 279, related to transportation of wildlife taken in violation of State, national, or foreign law, the receipt of such wildlife, and the making of false records in relation thereto, prior to repeal by Pub. L. 97–79, § 9(b)(2), Nov. 16, 1981, 95 Stat. 1079. See section 3372(a) of Title 16, Conservation.
 
 **Amendments**
 
 2006—Pub. L. 109–374 amended section catchline and text generally, substituting provisions relating to force, violence, and threats involving animal enterprises for provisions relating to animal enterprise terrorism.
 
-2002—Subsec. (a). Pub. L. 107–188, § 336(a), amended heading and text of subsec. (a) generally, deleting par. (2) reference to intentionally stealing and to requirement that economic damage exceed $10,000, and in concluding provisions substituting reference to punishment under subsec. (b) for reference to fine or imprisonment of not more than one year.
+2002—Subsec. (a). Pub. L. 107–188, § 336(a), amended heading and text of subsec. (a) generally, deleting par. (2) reference to intentionally stealing and to requirement that economic damage exceed $10,000, and in concluding provisions substituting reference to punishment under subsec. (b) for reference to fine or imprisonment of not more than one year.
 
-Subsec. (b). Pub. L. 107–188, § 336(b), amended subsec. (b) generally, substituting “Penalties” for “Aggravated Offense” in heading and list of penalties for property damage, personal injury and death for reference to serious bodily injury and death in text.
+Subsec. (b). Pub. L. 107–188, § 336(b), amended subsec. (b) generally, substituting “Penalties” for “Aggravated Offense” in heading and list of penalties for property damage, personal injury and death for reference to serious bodily injury and death in text.
 
-Subsec. (c)(3). Pub. L. 107–188, § 336(c), added par. (3).
+Subsec. (c)(3). Pub. L. 107–188, § 336(c), added par. (3).
 
 1996—Subsec. (c). Pub. L. 104–294 inserted “or 3663A” after “section 3663” in introductory provisions.
 
@@ -309,25 +309,25 @@ Subsec. (c)(3). Pub. L. 107–188, § 336(c), added par. (3).
 
 **Short Title**
 
-Pub. L. 102–346, § 1, Aug. 26, 1992, 106 Stat. 928, provided that: “This Act [enacting this section and provisions set out below] may be cited as the ‘Animal Enterprise Protection Act of 1992’.”
+Pub. L. 102–346, § 1, Aug. 26, 1992, 106 Stat. 928, provided that: “This Act [enacting this section and provisions set out below] may be cited as the ‘Animal Enterprise Protection Act of 1992’.”
 
 **Study of Effect of Terrorism on Certain Animal Enterprises**
 
-Pub. L. 102–346, § 3, Aug. 26, 1992, 106 Stat. 929, directed Attorney General and Secretary of Agriculture to jointly conduct a study on extent and effects of domestic and international terrorism on enterprises using animals for food or fiber production, agriculture, research, or testing, and, not later than 1 year after Aug. 26, 1992, submit a report that describes the results of the study together with any appropriate recommendations and legislation to Congress.
+Pub. L. 102–346, § 3, Aug. 26, 1992, 106 Stat. 929, directed Attorney General and Secretary of Agriculture to jointly conduct a study on extent and effects of domestic and international terrorism on enterprises using animals for food or fiber production, agriculture, research, or testing, and, not later than 1 year after Aug. 26, 1992, submit a report that describes the results of the study together with any appropriate recommendations and legislation to Congress.
 
-## [§ 44. Repealed. Pub. L. 97–79, § 9(b)(2), Nov. 16, 1981, 95 Stat. 1079]
+## [§ 44. Repealed. Pub. L. 97–79, § 9(b)(2), Nov. 16, 1981, 95 Stat. 1079]
 
-Section, acts June 25, 1948, ch. 645, 62 Stat. 687; Dec. 5, 1969, Pub. L. 91–135, § 8, 83 Stat. 281, related to marking of packages or containers used in the shipment of fish and wildlife. See section 3372(b) of Title 16, Conservation.
+Section, acts June 25, 1948, ch. 645, 62 Stat. 687; Dec. 5, 1969, Pub. L. 91–135, § 8, 83 Stat. 281, related to marking of packages or containers used in the shipment of fish and wildlife. See section 3372(b) of Title 16, Conservation.
 
-## [§ 45. Repealed. Pub. L. 101–647, title XII, § 1206(a), Nov. 29, 1990, 104 Stat. 4832]
+## [§ 45. Repealed. Pub. L. 101–647, title XII, § 1206(a), Nov. 29, 1990, 104 Stat. 4832]
 
 Section, act June 25, 1948, ch. 645, 62 Stat. 688, related to penalties for capturing or killing carrier pigeons.
 
-## [§ 46. Repealed. Pub. L. 116–260, div. O, title X, § 1002(1), Dec. 27, 2020, 134 Stat. 2155]
+## [§ 46. Repealed. Pub. L. 116–260, div. O, title X, § 1002(1), Dec. 27, 2020, 134 Stat. 2155]
 
-Section, added Aug. 1, 1956, ch. 825, § 1, 70 Stat. 797; amended Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147, penalized the transportation of alligator grass, water chestnut plants, and water hyacinth plants.
+Section, added Aug. 1, 1956, ch. 825, § 1, 70 Stat. 797; amended Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147, penalized the transportation of alligator grass, water chestnut plants, and water hyacinth plants.
 
-## § 47. Use of aircraft or motor vehicles to hunt certain wild horses or burros; pollution of watering holes
+## § 47. Use of aircraft or motor vehicles to hunt certain wild horses or burros; pollution of watering holes
 
 **(a)** Whoever uses an aircraft or a motor vehicle to hunt, for the purpose of capturing or killing, any wild unbranded horse, mare, colt, or burro running at large on any of the public land or ranges shall be fined under this title, or imprisoned not more than six months, or both.
 
@@ -339,7 +339,7 @@ Section, added Aug. 1, 1956, ch. 825, § 1, 70 Stat. 797; amended Pub. L. 103�
 
 **(2)** The term “motor vehicle” includes an automobile, automobile truck, automobile wagon, motorcycle, or any other self-propelled vehicle designed for running on land.
 
-(Added Pub. L. 86–234, § 1(a), Sept. 8, 1959, 73 Stat. 470; amended Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 86–234, § 1(a), Sept. 8, 1959, 73 Stat. 470; amended Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Editorial Notes**
 
@@ -347,7 +347,7 @@ Section, added Aug. 1, 1956, ch. 825, § 1, 70 Stat. 797; amended Pub. L. 103�
 
 1994—Subsecs. (a), (b). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
 
-## § 48. Animal crushing
+## § 48. Animal crushing
 
 **(a) Offenses.—**
 
@@ -413,7 +413,7 @@ Section, added Aug. 1, 1956, ch. 825, § 1, 70 Stat. 797; amended Pub. L. 103�
 
 **(B)** uses anesthesia produced by an agent that causes painless loss of consciousness and subsequent death.
 
-(Added Pub. L. 106–152, § 1(a), Dec. 9, 1999, 113 Stat. 1732; amended Pub. L. 111–294, § 3(a), Dec. 9, 2010, 124 Stat. 3178; Pub. L. 116–72, § 2(a), Nov. 25, 2019, 133 Stat. 1151.)
+(Added Pub. L. 106–152, § 1(a), Dec. 9, 1999, 113 Stat. 1732; amended Pub. L. 111–294, § 3(a), Dec. 9, 2010, 124 Stat. 3178; Pub. L. 116–72, § 2(a), Nov. 25, 2019, 133 Stat. 1151.)
 
 **Editorial Notes**
 
@@ -427,11 +427,11 @@ Section, added Aug. 1, 1956, ch. 825, § 1, 70 Stat. 797; amended Pub. L. 103�
 
 **Severability**
 
-Pub. L. 111–294, § 3(c), Dec. 9, 2010, 124 Stat. 3179, provided that: “If any provision of section 48 of title 18, United States Code (as amended by this section), or the application of the provision to any person or circumstance, is held to be unconstitutional, the provision and the application of the provision to other persons or circumstances shall not be affected thereby.”
+Pub. L. 111–294, § 3(c), Dec. 9, 2010, 124 Stat. 3179, provided that: “If any provision of section 48 of title 18, United States Code (as amended by this section), or the application of the provision to any person or circumstance, is held to be unconstitutional, the provision and the application of the provision to other persons or circumstances shall not be affected thereby.”
 
 **Findings**
 
-Pub. L. 111–294, § 2, Dec. 9, 2010, 124 Stat. 3177, provided that:
+Pub. L. 111–294, § 2, Dec. 9, 2010, 124 Stat. 3177, provided that:
 
 > “The Congress finds the following:
 
@@ -467,7 +467,7 @@ Pub. L. 111–294, § 2, Dec. 9, 2010, 124 Stat. 3177, provided that:
 
 > **“(10)** Each of the difficulties described in paragraph (9) seriously frustrates and impedes the ability of State authorities to enforce the criminal statutes prohibiting such behavior.”
 
-## § 49. Enforcement of animal fighting prohibitions
+## § 49. Enforcement of animal fighting prohibitions
 
 **(a) In General.—** Whoever violates subsection (a)(1), (b), (c), or (d) of section 26 of the Animal Welfare Act shall be fined under this title, imprisoned for not more than 5 years, or both, for each violation.
 
@@ -475,7 +475,7 @@ Pub. L. 111–294, § 2, Dec. 9, 2010, 124 Stat. 3177, provided that:
 
 **(c) Causing an Individual Who Has Not Attained the Age of 16 To Attend an Animal Fighting Venture.—** Whoever violates subsection (a)(2)(B) of section 26 (7 U.S.C. 2156) of the Animal Welfare Act shall be fined under this title, imprisoned for not more than 3 years, or both, for each violation.
 
-(Added Pub. L. 110–22, § 2(a), May 3, 2007, 121 Stat. 88; amended Pub. L. 110–234, title XIV, § 14207(b), May 22, 2008, 122 Stat. 1462; Pub. L. 110–246, § 4(a), title XIV, § 14207(b), June 18, 2008, 122 Stat. 1664, 2224; Pub. L. 113–79, title XII, § 12308(b)(2), Feb. 7, 2014, 128 Stat. 991; Pub. L. 115–334, title XII, § 12616(d), Dec. 20, 2018, 132 Stat. 5016.)
+(Added Pub. L. 110–22, § 2(a), May 3, 2007, 121 Stat. 88; amended Pub. L. 110–234, title XIV, § 14207(b), May 22, 2008, 122 Stat. 1462; Pub. L. 110–246, § 4(a), title XIV, § 14207(b), June 18, 2008, 122 Stat. 1664, 2224; Pub. L. 113–79, title XII, § 12308(b)(2), Feb. 7, 2014, 128 Stat. 991; Pub. L. 115–334, title XII, § 12616(d), Dec. 20, 2018, 132 Stat. 5016.)
 
 **Editorial Notes**
 
@@ -493,7 +493,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Pub. L. 113–79 designated existing provisions as subsec. (a), inserted heading, substituted “subsection (a)(1),” for “subsection (a),”, and added subsecs. (b) and (c).
 
-2008—Pub. L. 110–246, § 14207(b), substituted “5 years” for “3 years”.
+2008—Pub. L. 110–246, § 14207(b), substituted “5 years” for “3 years”.
 
 **Statutory Notes and Related Subsidiaries**
 

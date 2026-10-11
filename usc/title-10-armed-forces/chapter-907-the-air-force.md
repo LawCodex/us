@@ -23,47 +23,47 @@ A prior chapter 907, consisting of sections 9411 to 9417, related to schools and
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title XVI, § 1642(a), Dec. 18, 2025, 139 Stat. 1191, added item 9068. Amendment was made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title XVI, § 1642(a), Dec. 18, 2025, 139 Stat. 1191, added item 9068. Amendment was made pursuant to operation of section 102 of this title.
 
-2024—Pub. L. 118–159, div. A, title I, § 142, Dec. 23, 2024, 138 Stat. 1809, added item 9062a. Amendment was made pursuant to operation of section 102 of this title.
+2024—Pub. L. 118–159, div. A, title I, § 142, Dec. 23, 2024, 138 Stat. 1809, added item 9062a. Amendment was made pursuant to operation of section 102 of this title.
 
-2019—Pub. L. 116–92, div. A, title IX, § 952(g), Dec. 20, 2019, 133 Stat. 1563, added items 9063 to 9067 and struck out former item 9067 “Designation: officers to perform certain professional functions” and items 9069 “Air Force nurses: Chief; appointment”, 9074 “Commands: territorial organization”, 9075 “Regular Air Force: composition”, 9081 “Assistant Surgeon General for Dental Services”, and 9084 “Officer career field for space”.
+2019—Pub. L. 116–92, div. A, title IX, § 952(g), Dec. 20, 2019, 133 Stat. 1563, added items 9063 to 9067 and struck out former item 9067 “Designation: officers to perform certain professional functions” and items 9069 “Air Force nurses: Chief; appointment”, 9074 “Commands: territorial organization”, 9075 “Regular Air Force: composition”, 9081 “Assistant Surgeon General for Dental Services”, and 9084 “Officer career field for space”.
 
-2018—Pub. L. 115–232, div. A, title VIII, § 806(d)(4), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 807 of this title as this chapter and items 8061, 8062, 8067, 8069, 8074, 8075, 8081, and 8084 as 9061, 9062, 9067, 9069, 9074, 9075, 9081, and 9084, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 806(d)(4), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 807 of this title as this chapter and items 8061, 8062, 8067, 8069, 8074, 8075, 8081, and 8084 as 9061, 9062, 9067, 9069, 9074, 9075, 9081, and 9084, respectively.
 
-2016—Pub. L. 114–328, div. A, title V, § 502(nn)(3), Dec. 23, 2016, 130 Stat. 2106, substituted “Air Force nurses: Chief; appointment” for “Air Force nurses: Chief and assistant chief; appointment; grade” in item 8069.
+2016—Pub. L. 114–328, div. A, title V, § 502(nn)(3), Dec. 23, 2016, 130 Stat. 2106, substituted “Air Force nurses: Chief; appointment” for “Air Force nurses: Chief and assistant chief; appointment; grade” in item 8069.
 
-2001—Pub. L. 107–107, div. A, title IX, § 912(b), Dec. 28, 2001, 115 Stat. 1196, added item 8084.
+2001—Pub. L. 107–107, div. A, title IX, § 912(b), Dec. 28, 2001, 115 Stat. 1196, added item 8084.
 
-1997—Pub. L. 105–85, div. A, title X, § 1073(a)(66), Nov. 18, 1997, 111 Stat. 1904, substituted “nurses” for “Nurse Corps” in item 8069.
+1997—Pub. L. 105–85, div. A, title X, § 1073(a)(66), Nov. 18, 1997, 111 Stat. 1904, substituted “nurses” for “Nurse Corps” in item 8069.
 
-1996—Pub. L. 104–201, div. A, title V, § 502(c)(2), Sept. 23, 1996, 110 Stat. 2511, added item 8069.
+1996—Pub. L. 104–201, div. A, title V, § 502(c)(2), Sept. 23, 1996, 110 Stat. 2511, added item 8069.
 
-1994—Pub. L. 103–337, div. A, title XVI, § 1674(b)(1), Oct. 5, 1994, 108 Stat. 3016, struck out items 8076 “Air Force Reserve: composition”, 8077 “Air National Guard of United States: composition”, 8078 “Air National Guard: when a component of Air Force”, 8079 “Air National Guard of United States: status when not in Federal service”, and 8080 “Air National Guard of the United States: authority of officers with respect to Federal status”.
+1994—Pub. L. 103–337, div. A, title XVI, § 1674(b)(1), Oct. 5, 1994, 108 Stat. 3016, struck out items 8076 “Air Force Reserve: composition”, 8077 “Air National Guard of United States: composition”, 8078 “Air National Guard: when a component of Air Force”, 8079 “Air National Guard of United States: status when not in Federal service”, and 8080 “Air National Guard of the United States: authority of officers with respect to Federal status”.
 
-1986—Pub. L. 99–433, title V, § 522(g)(4), Oct. 1, 1986, 100 Stat. 1063, struck out item 8072 “Judge Advocate General, Deputy Judge Advocate General: appointment; duties”. See section 8037 of this title.
+1986—Pub. L. 99–433, title V, § 522(g)(4), Oct. 1, 1986, 100 Stat. 1063, struck out item 8072 “Judge Advocate General, Deputy Judge Advocate General: appointment; duties”. See section 8037 of this title.
 
-1980—Pub. L. 96–513, title V, § 504(3), Dec. 12, 1980, 94 Stat. 2915, struck out item 8066 “Generals and lieutenant generals”.
+1980—Pub. L. 96–513, title V, § 504(3), Dec. 12, 1980, 94 Stat. 2915, struck out item 8066 “Generals and lieutenant generals”.
 
-Pub. L. 96–343, § 12(b)(2), Sept. 8, 1980, 94 Stat. 1131, substituted “General, Deputy Judge Advocate General:” for “General:” in item 8072.
+Pub. L. 96–343, § 12(b)(2), Sept. 8, 1980, 94 Stat. 1131, substituted “General, Deputy Judge Advocate General:” for “General:” in item 8072.
 
-1978—Pub. L. 95–485, title VIII, § 805(c)(2), Oct. 20, 1978, 92 Stat. 1622, added item 8081.
+1978—Pub. L. 95–485, title VIII, § 805(c)(2), Oct. 20, 1978, 92 Stat. 1622, added item 8081.
 
-1967—Pub. L. 90–130, § 1(25), Nov. 8, 1967, 81 Stat. 382, struck out item 8071 “Temporary grade of colonel in the Air Force: appointment of women.”
+1967—Pub. L. 90–130, § 1(25), Nov. 8, 1967, 81 Stat. 382, struck out item 8071 “Temporary grade of colonel in the Air Force: appointment of women.”
 
-1960—Pub. L. 86–603, § 1(3)(B), July 7, 1960, 74 Stat. 358, added item 8080.
+1960—Pub. L. 86–603, § 1(3)(B), July 7, 1960, 74 Stat. 358, added item 8080.
 
-## § 9061. Regulations
+## § 9061. Regulations
 
 The President may prescribe regulations for the government of the Air Force.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 493, § 8061; renumbered § 9061, Pub. L. 115–232, div. A, title VIII, § 806(c), Aug. 13, 2018, 132 Stat. 1833.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 493, § 8061; renumbered § 9061, Pub. L. 115–232, div. A, title VIII, § 806(c), Aug. 13, 2018, 132 Stat. 1833.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8061 | 10:16. | July 15, 1870, ch. 294, § 20, 16 Stat. 319; Mar. 1, 1875, ch. 115, 18 Stat. 337. |
+| 8061 | 10:16. | July 15, 1870, ch. 294, § 20, 16 Stat. 319; Mar. 1, 1875, ch. 115, 18 Stat. 337. |
 
 The word “prescribe” is substituted for the words “make and publish”. 10:16 (last 35 words) is omitted as surplusage.
 
@@ -83,7 +83,7 @@ A prior section 9061 was renumbered section 9381 of this title.
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 9062. Policy; composition; aircraft authorization
+## § 9062. Policy; composition; aircraft authorization
 
 **(a)** It is the intent of Congress to provide an Air Force that is capable, in conjunction with the other armed forces, of—
 
@@ -125,7 +125,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(B)** The term “outsized cargo” means any single item of equipment that exceeds 1,090 inches in length, 117 inches in width, or 105 inches in height.
 
-**[(h)** Repealed. Pub. L. 116–283, div. A, title I, § 132(b), Jan. 1, 2021, 134 Stat. 3430.]
+**[(h)** Repealed. Pub. L. 116–283, div. A, title I, § 132(b), Jan. 1, 2021, 134 Stat. 3430.]
 
 **(i)**
 
@@ -229,16 +229,16 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(3)** In this subsection, the term “intercontinental ballistic missile” means any combination of the LGM–30G Minuteman III intercontinental ballistic missile or the LGM–35A Sentinel intercontinental ballistic missile.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 493, § 8062; Pub. L. 96–513, title V, § 504(4), Dec. 12, 1980, 94 Stat. 2916; Pub. L. 99–433, title I, § 110(g)(10), Oct. 1, 1986, 100 Stat. 1004; Pub. L. 100–26, § 7(g)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–180, div. A, title XIII, § 1314(b)(9), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 109–163, div. A, title X, § 1057(a)(6), Jan. 6, 2006, 119 Stat. 3441; Pub. L. 109–364, div. A, title I, § 132, Oct. 17, 2006, 120 Stat. 2112; Pub. L. 111–84, div. A, title I, § 139, Oct. 28, 2009, 123 Stat. 2223; Pub. L. 112–81, div. A, title I, § 131, Dec. 31, 2011, 125 Stat. 1320; Pub. L. 112–239, div. A, title I, §§ 141(a), 142(a), Jan. 2, 2013, 126 Stat. 1659, 1662; Pub. L. 115–91, div. A, title I, § 131(a), Dec. 12, 2017, 131 Stat. 1314; renumbered § 9062 and amended Pub. L. 115–232, div. A, title I, § 141(a), title VIII, §§ 806(c), 809(a), Aug. 13, 2018, 132 Stat. 1666, 1833, 1840; Pub. L. 116–283, div. A, title I, § 132(b), Jan. 1, 2021, 134 Stat. 3430; Pub. L. 117–81, div. A, title I, § 131(a), Dec. 27, 2021, 135 Stat. 1573; Pub. L. 117–263, div. A, title I, §§ 141(a), 142(a), 143(a), Dec. 23, 2022, 136 Stat. 2452, 2453; Pub. L. 118–31, div. A, title I, §§ 131(a), 132, Dec. 22, 2023, 137 Stat. 171, 172; Pub. L. 118–159, div. A, title I, § 141, Dec. 23, 2024, 138 Stat. 1808; Pub. L. 119–60, div. A, title I, §§ 141(a), (b), 142(a), 143, title XVI, § 1632(a), Dec. 18, 2025, 139 Stat. 759, 760, 1185.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 493, § 8062; Pub. L. 96–513, title V, § 504(4), Dec. 12, 1980, 94 Stat. 2916; Pub. L. 99–433, title I, § 110(g)(10), Oct. 1, 1986, 100 Stat. 1004; Pub. L. 100–26, § 7(g)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 100–180, div. A, title XIII, § 1314(b)(9), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 109–163, div. A, title X, § 1057(a)(6), Jan. 6, 2006, 119 Stat. 3441; Pub. L. 109–364, div. A, title I, § 132, Oct. 17, 2006, 120 Stat. 2112; Pub. L. 111–84, div. A, title I, § 139, Oct. 28, 2009, 123 Stat. 2223; Pub. L. 112–81, div. A, title I, § 131, Dec. 31, 2011, 125 Stat. 1320; Pub. L. 112–239, div. A, title I, §§ 141(a), 142(a), Jan. 2, 2013, 126 Stat. 1659, 1662; Pub. L. 115–91, div. A, title I, § 131(a), Dec. 12, 2017, 131 Stat. 1314; renumbered § 9062 and amended Pub. L. 115–232, div. A, title I, § 141(a), title VIII, §§ 806(c), 809(a), Aug. 13, 2018, 132 Stat. 1666, 1833, 1840; Pub. L. 116–283, div. A, title I, § 132(b), Jan. 1, 2021, 134 Stat. 3430; Pub. L. 117–81, div. A, title I, § 131(a), Dec. 27, 2021, 135 Stat. 1573; Pub. L. 117–263, div. A, title I, §§ 141(a), 142(a), 143(a), Dec. 23, 2022, 136 Stat. 2452, 2453; Pub. L. 118–31, div. A, title I, §§ 131(a), 132, Dec. 22, 2023, 137 Stat. 171, 172; Pub. L. 118–159, div. A, title I, § 141, Dec. 23, 2024, 138 Stat. 1808; Pub. L. 119–60, div. A, title I, §§ 141(a), (b), 142(a), 143, title XVI, § 1632(a), Dec. 18, 2025, 139 Stat. 759, 760, 1185.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8062(a) 8062(b) 8062(c) 8062(d) | 10:20. 5:626c(a). 5:626c(f). 10:20r(a). 10:1831. | July 26, 1947, ch. 343, § 208(a), (f), 61 Stat. 503; Aug. 10, 1949, ch. 412, § 12(d), 63 Stat. 591. |
-| 8062(e) 8062(f) | 50:1091. 10:20r(b). 10:20t. | July 10, 1950, ch. 454, §§ 2, 201, 203, 64 Stat. 321, 323, 324. |
-|  |  | Sept. 19, 1951, ch. 407, § 301, 65 Stat. 329. |
-|  |  | July 9, 1952, ch. 608, § 601, 66 Stat. 501. |
+| 8062(a) 8062(b) 8062(c) 8062(d) | 10:20. 5:626c(a). 5:626c(f). 10:20r(a). 10:1831. | July 26, 1947, ch. 343, § 208(a), (f), 61 Stat. 503; Aug. 10, 1949, ch. 412, § 12(d), 63 Stat. 591. |
+| 8062(e) 8062(f) | 50:1091. 10:20r(b). 10:20t. | July 10, 1950, ch. 454, §§ 2, 201, 203, 64 Stat. 321, 323, 324. |
+|  |  | Sept. 19, 1951, ch. 407, § 301, 65 Stat. 329. |
+|  |  | July 9, 1952, ch. 608, § 601, 66 Stat. 501. |
 
 In subsection (a), 10:20 (1st 19 words) is omitted as surplusage. The words “any areas occupied by the United States” are substituted for the words “occupied areas wherever located”.
 
@@ -246,7 +246,7 @@ Subsection (b) is substituted for 5:626c(a) (1st sentence). 5:626c(a) (last sent
 
 In subsection (d), the words “consists of” are substituted for the word “includes”.
 
-In subsection (d)(1), 10:20r(a) is omitted as superseded by 10:1831. The words “all persons serving in the Air Force under call or \* \* \* under any provision of law, including members of the Air National Guard of the several States, Territories, and the District of Columbia when in the service of the United States pursuant to call as provided by law” are omitted as covered by the words “the Air National Guard while in the service of the United States”. 50:1091 (last sentence) is omitted, since the components listed include their members.
+In subsection (d)(1), 10:20r(a) is omitted as superseded by 10:1831. The words “all persons serving in the Air Force under call or \* \* \* under any provision of law, including members of the Air National Guard of the several States, Territories, and the District of Columbia when in the service of the United States pursuant to call as provided by law” are omitted as covered by the words “the Air National Guard while in the service of the United States”. 50:1091 (last sentence) is omitted, since the components listed include their members.
 
 In subsection (d)(2), the words “or inducted” are omitted as covered by the word “conscripted”.
 
@@ -270,33 +270,33 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 **Amendments**
 
-2025—Subsec. (j)(1). Pub. L. 119–60, § 141(b)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)” in introductory provisions.
+2025—Subsec. (j)(1). Pub. L. 119–60, § 141(b)(1), substituted “paragraphs (2) and (3)” for “paragraph (2)” in introductory provisions.
 
-Pub. L. 119–60, § 141(a)(1), substituted “a total aircraft inventory of air refueling tanker aircraft—” and subpars. (A) to (D) for “a total aircraft inventory of air refueling tanker aircraft of not less than 466 aircraft.”
+Pub. L. 119–60, § 141(a)(1), substituted “a total aircraft inventory of air refueling tanker aircraft—” and subpars. (A) to (D) for “a total aircraft inventory of air refueling tanker aircraft of not less than 466 aircraft.”
 
-Subsec. (j)(2). Pub. L. 119–60, § 141(a)(2), substituted “below the applicable level specified in paragraph (1)” for “below 466” in introductory provisions.
+Subsec. (j)(2). Pub. L. 119–60, § 141(a)(2), substituted “below the applicable level specified in paragraph (1)” for “below 466” in introductory provisions.
 
-Subsec. (j)(3), (4). Pub. L. 119–60, § 141(b)(2), (3), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (j)(3), (4). Pub. L. 119–60, § 141(b)(2), (3), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (*l*). Pub. L. 119–60, § 142(a), amended subsec. (*l*) generally. Prior to amendment, subsec. (*l*) placed limitations on retirement of F–15E aircraft and funding for unit personnel or weapon system sustainment activities for retained F–15E aircraft.
+Subsec. (*l*). Pub. L. 119–60, § 142(a), amended subsec. (*l*) generally. Prior to amendment, subsec. (*l*) placed limitations on retirement of F–15E aircraft and funding for unit personnel or weapon system sustainment activities for retained F–15E aircraft.
 
-Subsec. (m)(1). Pub. L. 119–60, § 143, substituted “September 30, 2030” for “September 30, 2029” in introductory provisions.
+Subsec. (m)(1). Pub. L. 119–60, § 143, substituted “September 30, 2030” for “September 30, 2029” in introductory provisions.
 
-Subsec. (n). Pub. L. 119–60, § 1632(a), added subsec. (n).
+Subsec. (n). Pub. L. 119–60, § 1632(a), added subsec. (n).
 
 2024—Subsec. (m)(1). Pub. L. 118–159 substituted “September 30, 2029” for “September 30, 2028” in introductory provisions.
 
-2023—Subsec. (*l*). Pub. L. 118–31, § 131(a), added subsec. (*l*).
+2023—Subsec. (*l*). Pub. L. 118–31, § 131(a), added subsec. (*l*).
 
-Subsec. (m). Pub. L. 118–31, § 132, added subsec. (m).
+Subsec. (m). Pub. L. 118–31, § 132, added subsec. (m).
 
-2022—Subsec. (i)(1). Pub. L. 117–263, § 141(a), substituted “1,800” for “1,970”.
+2022—Subsec. (i)(1). Pub. L. 117–263, § 141(a), substituted “1,800” for “1,970”.
 
-Subsec. (j)(1). Pub. L. 117–263, § 142(a), struck out “effective October 1, 2019,” after “paragraph (2),” and substituted “466” for “479”.
+Subsec. (j)(1). Pub. L. 117–263, § 142(a), struck out “effective October 1, 2019,” after “paragraph (2),” and substituted “466” for “479”.
 
-Subsec. (j)(2). Pub. L. 117–263, § 142(a)(2), substituted “466” for “479” in introductory provisions.
+Subsec. (j)(2). Pub. L. 117–263, § 142(a)(2), substituted “466” for “479” in introductory provisions.
 
-Subsec. (k). Pub. L. 117–263, § 143(a), added subsec. (k).
+Subsec. (k). Pub. L. 117–263, § 143(a), added subsec. (k).
 
 2021—Subsec. (h). Pub. L. 116–283 struck out subsec. (h) which read as follows:
 
@@ -308,17 +308,17 @@ Subsec. (k). Pub. L. 117–263, § 143(a), added subsec. (k).
 
 Subsec. (i)(1). Pub. L. 117–81 substituted “October 1, 2026” for “October 1, 2022”.
 
-2018—Pub. L. 115–232, § 806(c), renumbered section 8062 of this title as this section.
+2018—Pub. L. 115–232, § 806(c), renumbered section 8062 of this title as this section.
 
-Subsec. (e). Pub. L. 115–232, § 809(a), substituted “chapter 911” for “chapter 831”.
+Subsec. (e). Pub. L. 115–232, § 809(a), substituted “chapter 911” for “chapter 831”.
 
-Subsec. (j). Pub. L. 115–232, § 141(a), added subsec. (j).
+Subsec. (j). Pub. L. 115–232, § 141(a), added subsec. (j).
 
 2017—Subsec. (i). Pub. L. 115–91 added subsec. (i).
 
-2013—Subsec. (g)(1). Pub. L. 112–239, § 141(a), inserted at end “Effective on the date that is 45 days after the date on which the report under section 141(c)(3) of the National Defense Authorization Act for Fiscal Year 2013 is submitted to the congressional defense committees, the Secretary shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 275 aircraft.”
+2013—Subsec. (g)(1). Pub. L. 112–239, § 141(a), inserted at end “Effective on the date that is 45 days after the date on which the report under section 141(c)(3) of the National Defense Authorization Act for Fiscal Year 2013 is submitted to the congressional defense committees, the Secretary shall maintain a total aircraft inventory of strategic airlift aircraft of not less than 275 aircraft.”
 
-Subsec. (h). Pub. L. 112–239, § 142(a), added subsec. (h).
+Subsec. (h). Pub. L. 112–239, § 142(a), added subsec. (h).
 
 2011—Subsec. (g)(1). Pub. L. 112–81 substituted “October 1, 2011” for “October 1, 2009” and “301 aircraft” for “316 aircraft”.
 
@@ -332,7 +332,7 @@ Subsec. (g). Pub. L. 109–364 added subsec. (g).
 
 1986—Subsec. (e). Pub. L. 99–433 substituted “section 114” for “section 138”.
 
-1980—Subsec. (e). Pub. L. 96–513 substituted “, chapter 831 of this title, and the strength authorized by law pursuant to section 138” for “and chapter 831”.
+1980—Subsec. (e). Pub. L. 96–513 substituted “, chapter 831 of this title, and the strength authorized by law pursuant to section 138” for “and chapter 831”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -346,7 +346,7 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
 **Proposed Actions With Respect To Causes and Effects of Declining Aircraft Readiness Rates**
 
-Pub. L. 119–60, div. A, title III, § 344, Dec. 18, 2025, 139 Stat. 824, provided that:
+Pub. L. 119–60, div. A, title III, § 344, Dec. 18, 2025, 139 Stat. 824, provided that:
 
 > **“(a) Report on Proposed Actions.—** Not later than May 31, 2026, the Secretary of the Air Force shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report on the declining rates of aircraft readiness within the fleet of the Air Force (with an emphasis on fighter aircraft within such fleet) and factors contributing to that decline. Such report shall include, with respect to such aircraft—
 
@@ -368,11 +368,11 @@ Pub. L. 119–60, div. A, title III, § 344, Dec. 18, 2025, 139 Stat. 824, pro
 
 **Clarification of Relationship Between Limitations**
 
-Pub. L. 118–31, div. A, title I, § 131(c), Dec. 22, 2023, 137 Stat. 172, provided that: “The authority of the Secretary of the Air Force to retire F–15E aircraft to the extent allowed under subsection (*l*)(1)(A) of section 9062 of title 10, United States Code (as added by subsection (a) of this section) shall not apply until the Secretary complies with the requirements of section 150 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 136 Stat. 2456) (as amended by subsection (b) of this section).”
+Pub. L. 118–31, div. A, title I, § 131(c), Dec. 22, 2023, 137 Stat. 172, provided that: “The authority of the Secretary of the Air Force to retire F–15E aircraft to the extent allowed under subsection (*l*)(1)(A) of section 9062 of title 10, United States Code (as added by subsection (a) of this section) shall not apply until the Secretary complies with the requirements of section 150 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 136 Stat. 2456) (as amended by subsection (b) of this section).”
 
 **Modification of Force Structure Objectives for Bomber Aircraft**
 
-Pub. L. 116–283, div. A, title I, § 132, Jan. 1, 2021, 134 Stat. 3430, provided that:
+Pub. L. 116–283, div. A, title I, § 132, Jan. 1, 2021, 134 Stat. 3430, provided that:
 
 > **“(a) Minimum Level for All Bomber Aircraft.—**
 
@@ -392,7 +392,7 @@ Pub. L. 116–283, div. A, title I, § 132, Jan. 1, 2021, 134 Stat. 3430, prov
 
 **Retirement of Air Force Fighter Aircraft**
 
-Pub. L. 115–91, div. A, title I, § 131(b), (c), formerly § 131(b)–(d), Dec. 12, 2017, 131 Stat. 1314, 1315, as amended by Pub. L. 115–232, div. A, title VIII, § 809(b)(11), Aug. 13, 2018, 132 Stat. 1841; Pub. L. 117–81, div. A, title I, § 131(b), Dec. 27, 2021, 135 Stat. 1573, provided that:
+Pub. L. 115–91, div. A, title I, § 131(b), (c), formerly § 131(b)–(d), Dec. 12, 2017, 131 Stat. 1314, 1315, as amended by Pub. L. 115–232, div. A, title VIII, § 809(b)(11), Aug. 13, 2018, 132 Stat. 1841; Pub. L. 117–81, div. A, title I, § 131(b), Dec. 27, 2021, 135 Stat. 1573, provided that:
 
 > **“(b) Report on Retirement of Aircraft.—**
 
@@ -416,7 +416,7 @@ Pub. L. 115–91, div. A, title I, § 131(b), (c), formerly § 131(b)–(d),
 
 **Transition of Air Force to Operation of Remotely Piloted Aircraft by Enlisted Personnel**
 
-Pub. L. 114–328, div. A, title X, § 1052, Dec. 23, 2016, 130 Stat. 2397, provided that:
+Pub. L. 114–328, div. A, title X, § 1052, Dec. 23, 2016, 130 Stat. 2397, provided that:
 
 > **“(a) Transition Required.—** The Secretary of the Air Force shall transition the Air Force to an organizational model for all Air Force remotely piloted aircraft that uses a significant number of enlisted personnel as operators of such aircraft rather than officers only.
 
@@ -452,7 +452,7 @@ Pub. L. 114–328, div. A, title X, § 1052, Dec. 23, 2016, 130 Stat. 2397, pr
 
 **Requirements for Transferring Aircraft Within the Air Force Inventory**
 
-Pub. L. 111–383, div. A, title III, § 345, Jan. 7, 2011, 124 Stat. 4191, as amended by Pub. L. 114–92, div. A, title X, § 1088, Nov. 25, 2015, 129 Stat. 1014, provided that:
+Pub. L. 111–383, div. A, title III, § 345, Jan. 7, 2011, 124 Stat. 4191, as amended by Pub. L. 114–92, div. A, title X, § 1088, Nov. 25, 2015, 129 Stat. 1014, provided that:
 
 > **“(a) Requirements.—** Before making an aircraft transfer described in subsection (c), the Secretary of the Air Force shall ensure that a written agreement regarding such transfer has been entered into between the Chief of Staff of the Air Force and the Director of the Air National Guard or the Chief of Air Force Reserve. Any such agreement shall specify each of the following:
 
@@ -502,7 +502,7 @@ Pub. L. 111–383, div. A, title III, § 345, Jan. 7, 2011, 124 Stat. 4191, as
 
 **Consolidation of Air Force and Air National Guard Aircraft Maintenance**
 
-Pub. L. 110–417, [div. A], title III, § 324, Oct. 14, 2008, 122 Stat. 4416, as amended by Pub. L. 111–383, div. A, title X, § 1075(e)(4), Jan. 7, 2011, 124 Stat. 4374, provided that:
+Pub. L. 110–417, [div. A], title III, § 324, Oct. 14, 2008, 122 Stat. 4416, as amended by Pub. L. 111–383, div. A, title X, § 1075(e)(4), Jan. 7, 2011, 124 Stat. 4374, provided that:
 
 > **“(a) Restriction on Implementation of Consolidation.—** The Secretary of the Air Force shall not implement the consolidation of aircraft repair facilities and personnel of the active Air Force with aircraft repair facilities and personnel of the Air National Guard or the consolidation of aircraft repair facilities and personnel of the Air National Guard with aircraft repair facilities and personnel of the active Air Force unless and until the Secretary of the Air Force submits the reports required by (b) and (c), the Chief of the National Guard Bureau submits the assessment required by subsection (d), and the Secretary of Defense submits the certification required by subsection (e).
 
@@ -518,7 +518,7 @@ Pub. L. 110–417, [div. A], title III, § 324, Oct. 14, 2008, 122 Stat. 4416,
 
 > **“(e) Certification by the Secretary of Defense.—** After the Secretary of the Air Force submits the reports required by subsections (b) and (c), and before any consolidation of aircraft repair facilities and personnel of the active Air Force with aircraft repair facilities and personnel of the Air National Guard by the Secretary of the Air Force, the Secretary of Defense shall certify that such consolidation is in the national interest and will not adversely affect recruitment, retention, or execution of the Air National Guard mission in the individual States.”
 
-## § 9062a. Annual report on Air Force tactical fighter aircraft force structure
+## § 9062a. Annual report on Air Force tactical fighter aircraft force structure
 
 **(a) In General.—** Not later than April 1, 2025, and annually thereafter through 2030, the Secretary of the Air Force, in coordination with the Director of the Air National Guard and the Commander of the Air Force Reserve Command, shall—
 
@@ -542,17 +542,17 @@ Pub. L. 110–417, [div. A], title III, § 324, Oct. 14, 2008, 122 Stat. 4416,
 
 **(d) Fighter Aircraft Defined.—** In this section, the term “fighter aircraft” has the meaning given that term in section 9062(i)(2) of this title.
 
-(Added Pub. L. 118–159, div. A, title I, § 142, Dec. 23, 2024, 138 Stat. 1809; amended Pub. L. 119–60, div. A, title I, § 144, title XVII, § 1701(a)(37), Dec. 18, 2025, 139 Stat. 760, 1210.)
+(Added Pub. L. 118–159, div. A, title I, § 142, Dec. 23, 2024, 138 Stat. 1809; amended Pub. L. 119–60, div. A, title I, § 144, title XVII, § 1701(a)(37), Dec. 18, 2025, 139 Stat. 760, 1210.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 1701(a)(37), struck out period after “structure” in section catchline.
+2025—Pub. L. 119–60, § 1701(a)(37), struck out period after “structure” in section catchline.
 
-Subsec. (a). Pub. L. 119–60, § 144, substituted “2030” for “2029” and “coordination” for “consultation” in introductory provisions.
+Subsec. (a). Pub. L. 119–60, § 144, substituted “2030” for “2029” and “coordination” for “consultation” in introductory provisions.
 
-## § 9063. Designation: officers to perform certain professional functions
+## § 9063. Designation: officers to perform certain professional functions
 
 **(a)** Medical functions in the Air Force and the Space Force shall be performed by commissioned officers of the Air Force who are qualified under regulations prescribed by the Secretary of the Air Force and who are designated as medical officers.
 
@@ -572,7 +572,7 @@ Subsec. (a). Pub. L. 119–60, § 144, substituted “2030” for “2029” a
 
 **(i)** Other functions in the Air Force and the Space Force requiring special training or experience shall be performed by members of the Air Force or the Space Force who are qualified under regulations prescribed by the Secretary, and who are designated as being in named categories.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 494, § 8067; Pub. L. 85–861, § 1(156), Sept. 2, 1958, 72 Stat. 1513; Pub. L. 96–513, title V, § 504(5), Dec. 12, 1980, 94 Stat. 2916; Pub. L. 97–86, title IV, § 403, Dec. 1, 1981, 95 Stat. 1105; Pub. L. 102–484, div. A, title V, § 505(c), Oct. 23, 1992, 106 Stat. 2404; renumbered § 9067, Pub. L. 115–232, div. A, title VIII, § 806(c), Aug. 13, 2018, 132 Stat. 1833; renumbered § 9063, Pub. L. 116–92, div. A, title IX, § 952(b)(1), Dec. 20, 2019, 133 Stat. 1561; Pub. L. 116–283, div. A, title IX, § 923(b)(9), Jan. 1, 2021, 134 Stat. 3809.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 494, § 8067; Pub. L. 85–861, § 1(156), Sept. 2, 1958, 72 Stat. 1513; Pub. L. 96–513, title V, § 504(5), Dec. 12, 1980, 94 Stat. 2916; Pub. L. 97–86, title IV, § 403, Dec. 1, 1981, 95 Stat. 1105; Pub. L. 102–484, div. A, title V, § 505(c), Oct. 23, 1992, 106 Stat. 2404; renumbered § 9067, Pub. L. 115–232, div. A, title VIII, § 806(c), Aug. 13, 2018, 132 Stat. 1833; renumbered § 9063, Pub. L. 116–92, div. A, title IX, § 952(b)(1), Dec. 20, 2019, 133 Stat. 1561; Pub. L. 116–283, div. A, title IX, § 923(b)(9), Jan. 1, 2021, 134 Stat. 3809.)
 
 **Historical and Revision Notes**
 
@@ -580,7 +580,7 @@ Subsec. (a). Pub. L. 119–60, § 144, substituted “2030” for “2029” a
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8067(a)   8067(b)   8067(c) | 10:1837(a) (as applicable to medical officers). 10:1837(a) (as applicable to dental officers). 10:1837(a) (as applicable to veterinary officers). | Sept. 19, 1951, ch. 407, § 307 (less (d)), 65 Stat. 330. June 24, 1952, ch. 457 (less 1st and last provisos), 66 Stat. 156. |
+| 8067(a) 8067(b) 8067(c) | 10:1837(a) (as applicable to medical officers). 10:1837(a) (as applicable to dental officers). 10:1837(a) (as applicable to veterinary officers). | Sept. 19, 1951, ch. 407, § 307 (less (d)), 65 Stat. 330. June 24, 1952, ch. 457 (less 1st and last provisos), 66 Stat. 156. |
 | 8067(d) | 10:1837(a) (as applicable to medical service officers). |  |
 | 8067(e) | 10:1837(a) (as applicable to nurses). |  |
 | 8067(f) | 10:1837(a) (as applicable to women medical specialists). |  |
@@ -600,7 +600,7 @@ In subsections (e) and (f), the words “female commissioned officers” are sub
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8067(e), (f) | 10 App.:166b–3. 10 App.:1837. | Aug. 9, 1955, ch. 654, §§ 1, 3(b), 69 Stat. 579. |
+| 8067(e), (f) | 10 App.:166b–3. 10 App.:1837. | Aug. 9, 1955, ch. 654, §§ 1, 3(b), 69 Stat. 579. |
 
 The section is amended to reflect the authority contained in the source statute to appoint male reserve officers with a view to designation as Air Force nurses or medical specialists.
 
@@ -608,7 +608,7 @@ The section is amended to reflect the authority contained in the source statute 
 
 **Amendments**
 
-2021—Subsecs. (a) to (h). Pub. L. 116–283, § 923(b)(9)(A), substituted “in the Air Force and the Space Force” for “in the Air Force”.
+2021—Subsecs. (a) to (h). Pub. L. 116–283, § 923(b)(9)(A), substituted “in the Air Force and the Space Force” for “in the Air Force”.
 
 Subsec. (i). Pub. L. 116–283 substituted “in the Air Force and the Space Force” for “in the Air Force” and inserted “or the Space Force” after “members of the Air Force”.
 
@@ -620,15 +620,15 @@ Subsec. (i). Pub. L. 116–283 substituted “in the Air Force and the Space For
 
 1981—Subsec. (f). Pub. L. 97–86 inserted reference to physician assistant functions.
 
-1980—Subsec. (a). Pub. L. 96–513, § 504(5)(A), struck out “in conformity with section 8289 or 8294 of this title,” after “Secretary of the Air Force”.
+1980—Subsec. (a). Pub. L. 96–513, § 504(5)(A), struck out “in conformity with section 8289 or 8294 of this title,” after “Secretary of the Air Force”.
 
-Subsec. (b). Pub. L. 96–513, § 504(5)(B), struck out “in conformity with section 8294 of this title,” after “prescribed by the Secretary”.
+Subsec. (b). Pub. L. 96–513, § 504(5)(B), struck out “in conformity with section 8294 of this title,” after “prescribed by the Secretary”.
 
-Subsec. (e). Pub. L. 96–513, § 504(5)(C), struck out “in conformity with section 8291 of this title,” after “prescribed by the Secretary”.
+Subsec. (e). Pub. L. 96–513, § 504(5)(C), struck out “in conformity with section 8291 of this title,” after “prescribed by the Secretary”.
 
-Subsec. (f). Pub. L. 96–513, § 504(5)(D), substituted “Biomedical science functions” for “Medical specialist functions” and “biomedical science officers” for “medical specialists”.
+Subsec. (f). Pub. L. 96–513, § 504(5)(D), substituted “Biomedical science functions” for “Medical specialist functions” and “biomedical science officers” for “medical specialists”.
 
-Subsec. (h). Pub. L. 96–513, § 504(5)(E), struck out “in conformity with section 8293 of this title,” after “prescribed by the Secretary”.
+Subsec. (h). Pub. L. 96–513, § 504(5)(E), struck out “in conformity with section 8293 of this title,” after “prescribed by the Secretary”.
 
 1958—Subsec. (e). Pub. L. 85–861 struck out “female” before “commissioned officers”.
 
@@ -644,35 +644,35 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 9064. Air Force nurses: Chief; appointment
+## § 9064. Air Force nurses: Chief; appointment
 
 **(a) Position of Chief.—** There is a Chief of the Air Force Nurse Corps.
 
 **(b) Chief.—** The Secretary of the Air Force shall appoint the Chief from the officers of the Regular Air Force designated as Air Force nurses whose regular grade is above lieutenant colonel and who are recommended by the Surgeon General. The Chief serves during the pleasure of the Secretary.
 
-(Added Pub. L. 104–201, div. A, title V, § 502(b), Sept. 23, 1996, 110 Stat. 2511, § 8069; amended Pub. L. 105–261, div. A, title V, § 505, Oct. 17, 1998, 112 Stat. 2004; Pub. L. 107–314, div. A, title V, § 504(a)(3), Dec. 2, 2002, 116 Stat. 2531; Pub. L. 114–328, div. A, title V, § 502(nn)(1), (2), Dec. 23, 2016, 130 Stat. 2106; renumbered § 9069, Pub. L. 115–232, div. A, title VIII, § 806(c), Aug. 13, 2018, 132 Stat. 1833; renumbered § 9064 and amended Pub. L. 116–92, div. A, title IX, § 952(b)(1), title XVII, § 1731(a)(61), Dec. 20, 2019, 133 Stat. 1561, 1815.)
+(Added Pub. L. 104–201, div. A, title V, § 502(b), Sept. 23, 1996, 110 Stat. 2511, § 8069; amended Pub. L. 105–261, div. A, title V, § 505, Oct. 17, 1998, 112 Stat. 2004; Pub. L. 107–314, div. A, title V, § 504(a)(3), Dec. 2, 2002, 116 Stat. 2531; Pub. L. 114–328, div. A, title V, § 502(nn)(1), (2), Dec. 23, 2016, 130 Stat. 2106; renumbered § 9069, Pub. L. 115–232, div. A, title VIII, § 806(c), Aug. 13, 2018, 132 Stat. 1833; renumbered § 9064 and amended Pub. L. 116–92, div. A, title IX, § 952(b)(1), title XVII, § 1731(a)(61), Dec. 20, 2019, 133 Stat. 1561, 1815.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Pub. L. 116–92, § 952(b)(1), renumbered section 9069 of this title as this section.
+2019—Pub. L. 116–92, § 952(b)(1), renumbered section 9069 of this title as this section.
 
-Subsec. (a). Pub. L. 116–92, § 1731(a)(61), substituted “is” for “are”. Amendment was directed to section 9069 of this title and was executed before amendment by section 952(b)(1) of Pub. L. 116–92, see above, pursuant to section 1731(f) of Pub. L. 116–92, set out as a Coordination of Certain Sections of an Act With Other Provisions of That Act note under section 101 of this title.
+Subsec. (a). Pub. L. 116–92, § 1731(a)(61), substituted “is” for “are”. Amendment was directed to section 9069 of this title and was executed before amendment by section 952(b)(1) of Pub. L. 116–92, see above, pursuant to section 1731(f) of Pub. L. 116–92, set out as a Coordination of Certain Sections of an Act With Other Provisions of That Act note under section 101 of this title.
 
 2018—Pub. L. 115–232 renumbered section 8069 of this title as section 9069 of this title.
 
-2016—Pub. L. 114–328, § 502(nn)(2), amended section catchline generally, substituting “Air Force nurses: Chief; appointment” for “Air Force nurses: Chief and assistant chief; appointment; grade”.
+2016—Pub. L. 114–328, § 502(nn)(2), amended section catchline generally, substituting “Air Force nurses: Chief; appointment” for “Air Force nurses: Chief and assistant chief; appointment; grade”.
 
-Subsec. (a). Pub. L. 114–328, § 502(nn)(1)(A), substituted “Position of Chief” for “Positions of Chief and Assistant Chief” in heading and struck out “and assistant chief” after “There are a Chief” in text.
+Subsec. (a). Pub. L. 114–328, § 502(nn)(1)(A), substituted “Position of Chief” for “Positions of Chief and Assistant Chief” in heading and struck out “and assistant chief” after “There are a Chief” in text.
 
-Subsec. (b). Pub. L. 114–328, § 502(nn)(1)(B), struck out second sentence which read as follows: “An appointee who holds a lower regular grade shall be appointed in the regular grade of major general.”
+Subsec. (b). Pub. L. 114–328, § 502(nn)(1)(B), struck out second sentence which read as follows: “An appointee who holds a lower regular grade shall be appointed in the regular grade of major general.”
 
-Subsec. (c). Pub. L. 114–328, § 502(nn)(1)(C), struck out subsec. (c). Text read as follows: “The Surgeon General shall appoint the assistant chief from the officers of the Regular Air Force designated as Air Force nurses whose regular grade is above lieutenant colonel.”
+Subsec. (c). Pub. L. 114–328, § 502(nn)(1)(C), struck out subsec. (c). Text read as follows: “The Surgeon General shall appoint the assistant chief from the officers of the Regular Air Force designated as Air Force nurses whose regular grade is above lieutenant colonel.”
 
 2002—Subsec. (b). Pub. L. 107–314 substituted “major general” for “brigadier general” in second sentence.
 
-1998—Subsec. (b). Pub. L. 105–261 struck out “, but not for more than three years, and may not be reappointed to the same position” after “pleasure of the Secretary”.
+1998—Subsec. (b). Pub. L. 105–261 struck out “, but not for more than three years, and may not be reappointed to the same position” after “pleasure of the Secretary”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -680,19 +680,19 @@ Subsec. (c). Pub. L. 114–328, § 502(nn)(1)(C), struck out subsec. (c). Text
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 9065. Commands: territorial organization
+## § 9065. Commands: territorial organization
 
 **(a)** Except as otherwise prescribed by law or by the Secretary of Defense, the Air Force shall be divided into such organizations as the Secretary of the Air Force may prescribe.
 
 **(b)** For Air Force purposes, the United States, its possessions, and other places in which the Air Force is stationed or is operating, may be divided into such areas as directed by the Secretary. Officers of the Air Force may be assigned to command Air Force activities, installations, and personnel in those areas. In the discharge of the Air Force’s functions or other functions authorized by law, officers so assigned have the duties and powers prescribed by the Secretary.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 495, § 8074; Pub. L. 85–599, § 4(f), Aug. 6, 1958, 72 Stat. 517; Pub. L. 89–37, title III, § 306(a), June 11, 1965, 79 Stat. 129; Pub. L. 99–433, title V, § 523, Oct. 1, 1986, 100 Stat. 1063; Pub. L. 107–107, div. A, title IX, § 931(b), Dec. 28, 2001, 115 Stat. 1200; Pub. L. 109–163, div. A, title X, § 1057(a)(2), Jan. 6, 2006, 119 Stat. 3440; renumbered § 9074, Pub. L. 115–232, div. A, title VIII, § 806(c), Aug. 13, 2018, 132 Stat. 1833; renumbered § 9065, Pub. L. 116–92, div. A, title IX, § 952(b)(1), Dec. 20, 2019, 133 Stat. 1561.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 495, § 8074; Pub. L. 85–599, § 4(f), Aug. 6, 1958, 72 Stat. 517; Pub. L. 89–37, title III, § 306(a), June 11, 1965, 79 Stat. 129; Pub. L. 99–433, title V, § 523, Oct. 1, 1986, 100 Stat. 1063; Pub. L. 107–107, div. A, title IX, § 931(b), Dec. 28, 2001, 115 Stat. 1200; Pub. L. 109–163, div. A, title X, § 1057(a)(2), Jan. 6, 2006, 119 Stat. 3440; renumbered § 9074, Pub. L. 115–232, div. A, title VIII, § 806(c), Aug. 13, 2018, 132 Stat. 1833; renumbered § 9065, Pub. L. 116–92, div. A, title IX, § 952(b)(1), Dec. 20, 2019, 133 Stat. 1561.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8074(a) 8074(b) 8074(c) | 10:1838(a)(1). 10:1838(a)(2). 10:1838(b). | Sept. 19, 1951, ch. 407, §§ 308, 309, 65 Stat. 332. |
+| 8074(a) 8074(b) 8074(c) | 10:1838(a)(1). 10:1838(a)(2). 10:1838(b). | Sept. 19, 1951, ch. 407, §§ 308, 309, 65 Stat. 332. |
 | 8074(d) | 10:1839. |  |
 
 In subsection (b), the words “from time to time” are omitted as surplusage.
@@ -715,9 +715,9 @@ In subsection (d), the words “have the duties and powers” are substituted fo
 
 1965—Subsec. (c). Pub. L. 89–37 added subsec. (c).
 
-1958—Subsec. (a). Pub. L. 85–599, § 4(f)(1), substituted provisions permitting the Air Force to be divided into such organizations as the Secretary of the Air Force may prescribe for provisions which established an air-defense, a strategic, and a tactical command in the Air Force.
+1958—Subsec. (a). Pub. L. 85–599, § 4(f)(1), substituted provisions permitting the Air Force to be divided into such organizations as the Secretary of the Air Force may prescribe for provisions which established an air-defense, a strategic, and a tactical command in the Air Force.
 
-Subsecs. (b) to (d). Pub. L. 85–599, § 4(f)(2), redesignated subsec. (d) as (b), and repealed former subsecs. (b) and (c) which permitted the Secretary of the Air Force to establish additional commands and organizations in the interest of efficiency and economy of operation, and, for the duration of any war or national emergency, to establish new major commands or to discontinue or consolidate major commands.
+Subsecs. (b) to (d). Pub. L. 85–599, § 4(f)(2), redesignated subsec. (d) as (b), and repealed former subsecs. (b) and (c) which permitted the Secretary of the Air Force to establish additional commands and organizations in the interest of efficiency and economy of operation, and, for the duration of any war or national emergency, to establish new major commands or to discontinue or consolidate major commands.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -727,9 +727,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 1965 Amendment**
 
-Pub. L. 89–37, title III, § 306(b), June 11, 1965, 79 Stat. 129, provided that: “The amendment made by subsection (a) of this section [amending this section] shall become effective January 1, 1966.”
+Pub. L. 89–37, title III, § 306(b), June 11, 1965, 79 Stat. 129, provided that: “The amendment made by subsection (a) of this section [amending this section] shall become effective January 1, 1966.”
 
-## § 9066. Regular Air Force: composition
+## § 9066. Regular Air Force: composition
 
 **(a)** The Regular Air Force is the component of the Air Force that consists of persons whose continuous service on active duty in both peace and war is contemplated by law, and of retired members of the Regular Air Force.
 
@@ -741,15 +741,15 @@ Pub. L. 89–37, title III, § 306(b), June 11, 1965, 79 Stat. 129, provided t
 
 **(3)** the retired officers and enlisted members of the Regular Air Force.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 496, § 8075; Pub. L. 85–600, § 1(13), Aug. 6, 1958, 72 Stat. 523; renumbered § 9075, Pub. L. 115–232, div. A, title VIII, § 806(c), Aug. 13, 2018, 132 Stat. 1833; renumbered § 9066, Pub. L. 116–92, div. A, title IX, § 952(b)(1), Dec. 20, 2019, 133 Stat. 1561.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 496, § 8075; Pub. L. 85–600, § 1(13), Aug. 6, 1958, 72 Stat. 523; renumbered § 9075, Pub. L. 115–232, div. A, title VIII, § 806(c), Aug. 13, 2018, 132 Stat. 1833; renumbered § 9066, Pub. L. 116–92, div. A, title IX, § 952(b)(1), Dec. 20, 2019, 133 Stat. 1561.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8075(a) 8075(b) | 10:1832(a). 10:1832 (less (a)). | Sept. 19, 1951, ch. 407, § 302, 65 Stat. 329; Apr. 1, 1954, ch. 127, § 7, 68 Stat. 48. |
+| 8075(a) 8075(b) | 10:1832(a). 10:1832 (less (a)). | Sept. 19, 1951, ch. 407, § 302, 65 Stat. 329; Apr. 1, 1954, ch. 127, § 7, 68 Stat. 48. |
 
-In subsection (b), the words “holding appointments or enlisted in the Regular Air Force as now or hereafter provided by law”, “and such other persons as are now or may hereafter be specified by law”, and “commissioned \* \* \* warrant officers” are omitted as surplusage, since the revised section lists all persons in the Regular Air Force. 10:1832(b) (last sentence) is omitted as executed.
+In subsection (b), the words “holding appointments or enlisted in the Regular Air Force as now or hereafter provided by law”, “and such other persons as are now or may hereafter be specified by law”, and “commissioned \* \* \* warrant officers” are omitted as surplusage, since the revised section lists all persons in the Regular Air Force. 10:1832(b) (last sentence) is omitted as executed.
 
 **Editorial Notes**
 
@@ -767,11 +767,11 @@ In subsection (b), the words “holding appointments or enlisted in the Regular 
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 9067. Assistant Surgeon General for Dental Services
+## § 9067. Assistant Surgeon General for Dental Services
 
 There is an Assistant Surgeon General for Dental Services in the Air Force who is appointed by the Secretary of the Air Force upon the recommendation of the Surgeon General from officers of the Air Force above the grade of lieutenant colonel who are designated as dental officers under section 9067(b) of this title. The Assistant Surgeon General for Dental Services serves at the pleasure of the Secretary.
 
-(Added Pub. L. 95–485, title VIII, § 805(c)(1), Oct. 20, 1978, 92 Stat. 1622, § 8081; amended Pub. L. 105–261, div. A, title V, § 506, Oct. 17, 1998, 112 Stat. 2004; Pub. L. 109–364, div. A, title V, § 504(a), Oct. 17, 2006, 120 Stat. 2179; Pub. L. 114–328, div. A, title V, § 502(*oo*), Dec. 23, 2016, 130 Stat. 2106; renumbered § 9081 and amended Pub. L. 115–232, div. A, title VIII, §§ 806(c), 809(a), Aug. 13, 2018, 132 Stat. 1833, 1840; renumbered § 9067, Pub. L. 116–92, div. A, title IX, § 952(b)(1), Dec. 20, 2019, 133 Stat. 1561.)
+(Added Pub. L. 95–485, title VIII, § 805(c)(1), Oct. 20, 1978, 92 Stat. 1622, § 8081; amended Pub. L. 105–261, div. A, title V, § 506, Oct. 17, 1998, 112 Stat. 2004; Pub. L. 109–364, div. A, title V, § 504(a), Oct. 17, 2006, 120 Stat. 2179; Pub. L. 114–328, div. A, title V, § 502(*oo*), Dec. 23, 2016, 130 Stat. 2106; renumbered § 9081 and amended Pub. L. 115–232, div. A, title VIII, §§ 806(c), 809(a), Aug. 13, 2018, 132 Stat. 1833, 1840; renumbered § 9067, Pub. L. 116–92, div. A, title IX, § 952(b)(1), Dec. 20, 2019, 133 Stat. 1561.)
 
 **Editorial Notes**
 
@@ -799,9 +799,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–364, div. A, title V, § 504(b), Oct. 17, 2006, 120 Stat. 2179, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the occurrence of the next vacancy in the position of Assistant Surgeon General for Dental Services in the Air Force that occurs after the date of the enactment of this Act [Oct. 17, 2006] or, if earlier, on the date of the appointment to the grade of major general of the officer who is the incumbent in that position on the date of the enactment of the Act.”
+Pub. L. 109–364, div. A, title V, § 504(b), Oct. 17, 2006, 120 Stat. 2179, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the occurrence of the next vacancy in the position of Assistant Surgeon General for Dental Services in the Air Force that occurs after the date of the enactment of this Act [Oct. 17, 2006] or, if earlier, on the date of the appointment to the grade of major general of the officer who is the incumbent in that position on the date of the enactment of the Act.”
 
-## § 9068. Air Force Global Strike Command
+## § 9068. Air Force Global Strike Command
 
 **(a) Establishment.—** There is in the Air Force a major command, which shall be known as Air Force Global Strike Command.
 
@@ -833,13 +833,13 @@ Pub. L. 109–364, div. A, title V, § 504(b), Oct. 17, 2006, 120 Stat. 2179, 
 
 **(6)** Such other functions as the Secretary determines necessary or appropriate for execution of nuclear deterrence and long-range strike missions.
 
-(Added Pub. L. 119–60, div. A, title XVI, § 1642(a), Dec. 18, 2025, 139 Stat. 1191.)
+(Added Pub. L. 119–60, div. A, title XVI, § 1642(a), Dec. 18, 2025, 139 Stat. 1191.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 9068 of this title resulted from the redesignation of section 9084 of this title as section 9068 of this title by section 952(b)(1) of Pub. L. 116–92. Such section 9068 was renumbered section 9083 of this title by section 952(e) of Pub. L. 116–92 and subsequently repealed by Pub. L. 116–283, div. A, title IX, § 921(a), Jan. 1, 2021, 134 Stat. 3804.
+A prior section 9068 of this title resulted from the redesignation of section 9084 of this title as section 9068 of this title by section 952(b)(1) of Pub. L. 116–92. Such section 9068 was renumbered section 9083 of this title by section 952(e) of Pub. L. 116–92 and subsequently repealed by Pub. L. 116–283, div. A, title IX, § 921(a), Jan. 1, 2021, 134 Stat. 3804.
 
 A prior section 9069 was renumbered section 9064 of this title.
 

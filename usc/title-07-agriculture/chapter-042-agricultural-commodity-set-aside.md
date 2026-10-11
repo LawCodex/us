@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 42—AGRICULTURAL COMMODITY SET-ASIDE
 
-## § 1741. Maximum and minimum quantities for set-aside; “commodity set-aside” defined
+## § 1741. Maximum and minimum quantities for set-aside; “commodity set-aside” defined
 
 The Commodity Credit Corporation shall, as rapidly as the Secretary of Agriculture shall determine to be practicable, set aside within its inventories not more than the following maximum quantities and not less than the following minimum quantities of agricultural commodities or products thereof heretofore or hereafter acquired by it from 1954 and prior years’ crops and production in connection with its price support operations:
 
@@ -30,7 +30,7 @@ The Commodity Credit Corporation shall, as rapidly as the Secretary of Agricultu
 
 Such quantities shall be known as the “commodity set-aside”.
 
-(Aug. 28, 1954, ch. 1041, title I, § 101, 68 Stat. 897.)
+(Aug. 28, 1954, ch. 1041, title I, § 101, 68 Stat. 897.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -38,13 +38,13 @@ Such quantities shall be known as the “commodity set-aside”.
 
 Act Aug. 28, 1954, enacting sections 397, 1446b and 1446c of this title, this chapter, chapters 43 and 44 of this title, and section 590h–3 of Title 16, Conservation, and amending sections 602, 608c, 608e–1, 1301, 1326–1330, 1332, 1334–1335, 1340, 1344, 1371, 1374, 1421, 1428, 1441, 1446, 1446d of this title and sections 590h and 590o of Title 16, Conservation, is popularly known as the “Agricultural Act of 1954”.
 
-## § 1742. Determination of commodity value for set-aside
+## § 1742. Determination of commodity value for set-aside
 
 Quantities of commodities shall not be included in the commodity set-aside which have an aggregate value in excess of $2,500,000,000. The value of the commodities placed in the commodity set-aside, for the purpose of this section, shall be the Corporation’s investment in such commodities as of the date they are included in the commodity set-aside, as determined by the Secretary.
 
-(Aug. 28, 1954, ch. 1041, title I, § 102, 68 Stat. 897.)
+(Aug. 28, 1954, ch. 1041, title I, § 102, 68 Stat. 897.)
 
-## § 1743. Reduction of set-aside
+## § 1743. Reduction of set-aside
 
 **(a)** Such commodity set-aside shall be reduced by disposals made in accordance with the directions of the President as follows:
 
@@ -66,13 +66,13 @@ The President shall prescribe such terms and conditions for the disposal of comm
 
 **(b)** The quantity of any commodity in the commodity set-aside shall be reduced to the extent that the Commodity Credit Corporation inventory of such commodity is reduced, by natural or other cause beyond the control of the Corporation, below the quantity then charged to the commodity set-aside.
 
-(Aug. 28, 1954, ch. 1041, title I, § 103, 68 Stat. 897; Pub. L. 96–41, § 3(a)(1), July 30, 1979, 93 Stat. 324; Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821.)
+(Aug. 28, 1954, ch. 1041, title I, § 103, 68 Stat. 897; Pub. L. 96–41, § 3(a)(1), July 30, 1979, 93 Stat. 324; Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, § 2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
+The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, § 2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
 
 **Amendments**
 
@@ -90,47 +90,47 @@ Technical change in meaning of reference in original act which appears in subsec
 
 Ex. Ord. No. 10601, Mar. 21, 1955, 20 F.R. 1761, as amended by Ex. Ord. No. 10773, July 1, 1958, 23 F.R. 5061; Ex. Ord. No. 10782, Sept. 6, 1958, 23 F.R. 6971; Ex. Ord. No. 11051, Sept. 27, 1962, 27 F.R. 9683; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, which provided for administration of the commodity set-aside program, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
-## § 1744. Sale of commodities in set-aside; exemption from pricing limitations
+## § 1744. Sale of commodities in set-aside; exemption from pricing limitations
 
 **(a)** The Corporation shall have authority to sell, without regard to section 1743(a)(7) of this title, any commodity covered by the commodity set-aside for the purpose of rotating stocks or consolidating inventories, any such sale to be offset by purchase of the same commodity in a substantially equivalent quantity or of a substantially equivalent value.
 
 **(b)** Dispositions pursuant to this chapter shall not be subject to the pricing limitations of section 1427 of this title.
 
-(Aug. 28, 1954, ch. 1041, title I, § 104, 68 Stat. 898.)
+(Aug. 28, 1954, ch. 1041, title I, § 104, 68 Stat. 898.)
 
-## § 1745. Computation of carryover
+## § 1745. Computation of carryover
 
 The quantity of any commodity in the commodity set-aside or transferred from the set-aside to the National Defense Stockpile established by the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98 et seq.) shall be excluded from the computation of “carryover” for the purpose of determining the price support level for such commodity under the Agricultural Act of 1949, as amended [7 U.S.C. 1421 et seq.], and related legislation, but shall be included in the computation of total supplies for purposes of acreage allotments and marketing quotas under the Agricultural Adjustment Act of 1938, as amended [7 U.S.C. 1281 et seq.], and related legislation. Until such time as the commodity set-aside has been completed, such quantity of the commodity as the Secretary shall determine between the maximum and minimum quantities specified in section 1741 of this title shall be excluded from the computations of “carryover” for the purpose of determining the price support level, but shall be included in the computation of total supplies for purposes of acreage allotments and marketing quotas, for the 1955 crop of the commodity, notwithstanding that the quantity so excluded may not have been acquired by the Corporation and included in the commodity set-aside.
 
-(Aug. 28, 1954, ch. 1041, title I, § 105, 68 Stat. 898; Pub. L. 96–41, § 3(a)(2), July 30, 1979, 93 Stat. 324.)
+(Aug. 28, 1954, ch. 1041, title I, § 105, 68 Stat. 898; Pub. L. 96–41, § 3(a)(2), July 30, 1979, 93 Stat. 324.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Strategic and Critical Materials Stock Piling Act, referred to in text, is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, § 2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
+The Strategic and Critical Materials Stock Piling Act, referred to in text, is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, § 2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
 
-The Agricultural Act of 1949, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note under section 1421 of this title and Tables.
 
-The Agricultural Adjustment Act of 1938, referred to in text, is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+The Agricultural Adjustment Act of 1938, referred to in text, is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
 **Amendments**
 
 1979—Pub. L. 96–41 substituted “the National Defense Stockpile established by the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98 et seq.)” for “the national stockpile established pursuant to the act of June 7, 1939, as amended”.
 
-## § 1746. Records and accounts
+## § 1746. Records and accounts
 
 The Commodity Credit Corporation shall keep such records and accounts as may be necessary to show, for each commodity set-aside, the initial and current composition, value (in accordance with section 1742 of this title), current investment, quantity disposed of, method of disposition, and amounts received on disposition.
 
-(Aug. 28, 1954, ch. 1041, title I, § 106, 68 Stat. 898.)
+(Aug. 28, 1954, ch. 1041, title I, § 106, 68 Stat. 898.)
 
-## § 1747. Authorization of appropriations; determination of value of transferred commodity
+## § 1747. Authorization of appropriations; determination of value of transferred commodity
 
 In order to make payment to the Commodity Credit Corporation for any commodities transferred to the national stockpile pursuant to section 1743(a)(4) of this title, there are authorized to be appropriated amounts equal to the value of any commodities so transferred. The value of any commodity so transferred, for the purpose of this section, shall be the lower of the domestic market price or the Commodity Credit Corporation’s investment therein as of the date of transfer to the stockpile, as determined by the Secretary of Agriculture
 
-(Aug. 28, 1954, ch. 1041, title I, § 107, 68 Stat. 898.)
+(Aug. 28, 1954, ch. 1041, title I, § 107, 68 Stat. 898.)
 
-## § 1748. Annual reports by agricultural attachés
+## § 1748. Annual reports by agricultural attachés
 
 **(a) In general** The Secretary shall require appropriate officers and employees of the Department of Agriculture, including those stationed in foreign countries, to prepare and submit annually to the Secretary detailed reports that—
 
@@ -164,7 +164,7 @@ In order to make payment to the Commodity Credit Corporation for any commodities
 
 **(2)** expand United States agricultural export opportunities identified in such annual reports.
 
-(Aug. 28, 1954, ch. 1041, title I, § 108, as added Pub. L. 101–624, title XV, § 1532, Nov. 28, 1990, 104 Stat. 3689; amended Pub. L. 102–237, title III, §§ 316–318, Dec. 13, 1991, 105 Stat. 1856, 1857; Pub. L. 104–127, title II, § 272, Apr. 4, 1996, 110 Stat. 976.)
+(Aug. 28, 1954, ch. 1041, title I, § 108, as added Pub. L. 101–624, title XV, § 1532, Nov. 28, 1990, 104 Stat. 3689; amended Pub. L. 102–237, title III, §§ 316–318, Dec. 13, 1991, 105 Stat. 1856, 1857; Pub. L. 104–127, title II, § 272, Apr. 4, 1996, 110 Stat. 976.)
 
 **Editorial Notes**
 
@@ -172,20 +172,20 @@ In order to make payment to the Commodity Credit Corporation for any commodities
 
 1996—Subsec. (b)(1)(B). Pub. L. 104–127 struck out “including fruits, vegetables, legumes, popcorn and ducks” after “agricultural commodities”.
 
-1991—Pub. L. 102–237, § 316, made technical amendment to directory language of Pub. L. 101–624, § 1532, which enacted this section, resulting in no change in text.
+1991—Pub. L. 102–237, § 316, made technical amendment to directory language of Pub. L. 101–624, § 1532, which enacted this section, resulting in no change in text.
 
-Subsec. (b)(1)(B). Pub. L. 102–237, § 317, substituted a semicolon for period at end.
+Subsec. (b)(1)(B). Pub. L. 102–237, § 317, substituted a semicolon for period at end.
 
-Subsec. (b)(4). Pub. L. 102–237, § 318, struck out “the trade assistance office authorized under section 504 of the Agricultural Trade Act of 1978 (as amended by section 201),” after “available to Congress,”.
+Subsec. (b)(4). Pub. L. 102–237, § 318, struck out “the trade assistance office authorized under section 504 of the Agricultural Trade Act of 1978 (as amended by section 201),” after “available to Congress,”.
 
-## § 1749. Attaché educational program
+## § 1749. Attaché educational program
 
 The Administrator of the Foreign Agricultural Service shall establish a program within the Service that directs attachés of the Service who are reassigned from abroad to the United States, and other personnel of the Service, to visit and consult with producers and exporters of agricultural commodities and products and State officials throughout the United States concerning various methods to increase exports of United States agricultural commodities and products.
 
-(Aug. 28, 1954, ch. 1041, title I, § 109, as added Pub. L. 101–624, title XV, § 1532, Nov. 28, 1990, 104 Stat. 3690; amended Pub. L. 102–237, title III, § 316, Dec. 13, 1991, 105 Stat. 1856.)
+(Aug. 28, 1954, ch. 1041, title I, § 109, as added Pub. L. 101–624, title XV, § 1532, Nov. 28, 1990, 104 Stat. 3690; amended Pub. L. 102–237, title III, § 316, Dec. 13, 1991, 105 Stat. 1856.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–237, § 316, made technical amendment to directory language of Pub. L. 101–624, § 1532, which enacted this section, resulting in no change in text.
+1991—Pub. L. 102–237, § 316, made technical amendment to directory language of Pub. L. 101–624, § 1532, which enacted this section, resulting in no change in text.

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 56—AMERICAN INDIAN, ALASKA NATIVE, AND NATIVE HAWAIIAN CULTURE AND ART DEVELOPMENT
 
-## § 4401. Findings
+## § 4401. Findings
 
 The Congress finds that—
 
@@ -37,19 +37,19 @@ The Congress finds that—
 
 **(B)** a program for Native Hawaiian culture and arts development.
 
-(Pub. L. 99–498, title XV, § 1502, Oct. 17, 1986, 100 Stat. 1600.)
+(Pub. L. 99–498, title XV, § 1502, Oct. 17, 1986, 100 Stat. 1600.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–239, title VII, § 721, May 4, 1994, 108 Stat. 606, provided that: “This title [probably should be “subtitle” meaning subtitle C [§§ 721, 722] of title VII of Pub. L. 103–239, amending section 4441 of this title] may be cited as the ‘Alaska Native Culture and Arts Development Act’.”
+Pub. L. 103–239, title VII, § 721, May 4, 1994, 108 Stat. 606, provided that: “This title [probably should be “subtitle” meaning subtitle C [§§ 721, 722] of title VII of Pub. L. 103–239, amending section 4441 of this title] may be cited as the ‘Alaska Native Culture and Arts Development Act’.”
 
 **Short Title**
 
-Pub. L. 99–498, title XV, § 1501, Oct. 17, 1986, 100 Stat. 1600, provided that: “This title [enacting this chapter] may be cited as the ‘American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act’.”
+Pub. L. 99–498, title XV, § 1501, Oct. 17, 1986, 100 Stat. 1600, provided that: “This title [enacting this chapter] may be cited as the ‘American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act’.”
 
-## § 4402. Definitions
+## § 4402. Definitions
 
 For the purpose of this chapter—
 
@@ -69,17 +69,17 @@ For the purpose of this chapter—
 
 **(8)** The term “Board” means the Board of Trustees of the Institute established under this chapter.
 
-(Pub. L. 99–498, title XV, § 1503, Oct. 17, 1986, 100 Stat. 1600.)
+(Pub. L. 99–498, title XV, § 1503, Oct. 17, 1986, 100 Stat. 1600.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Alaska Native Claims Settlement Act, referred to in par. (5), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (5), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 ## SUBCHAPTER I—AMERICAN INDIANS AND ALASKA NATIVES
 
-### § 4411. Establishment of Institute
+### § 4411. Establishment of Institute
 
 **(a) In general**
 
@@ -89,17 +89,17 @@ There is hereby established a corporation to be known as the “Institute of Ame
 
 The corporation established under subsection (a) shall have succession until dissolved by Act of Congress. Only the Congress shall have the authority to revise or amend the charter of such corporation.
 
-(Pub. L. 99–498, title XV, § 1504, Oct. 17, 1986, 100 Stat. 1601.)
+(Pub. L. 99–498, title XV, § 1504, Oct. 17, 1986, 100 Stat. 1601.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Availability of Fiscal Year 1988 Appropriations**
 
-Pub. L. 100–202, § 101(g) [title I, § 100], Dec. 22, 1987, 101 Stat. 1329–213, 1329–228, provided: “That notwithstanding any provision of the American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act [this chapter], the amounts appropriated for fiscal year 1988 for the Bureau of Indian Affairs for the Institute of American Indian Arts shall be available to operate the Institute until the Board of Regents and President of the Institute have been named and had an opportunity to organize, and for use under part A of that Act [this subchapter].”
+Pub. L. 100–202, § 101(g) [title I, § 100], Dec. 22, 1987, 101 Stat. 1329–213, 1329–228, provided: “That notwithstanding any provision of the American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act [this chapter], the amounts appropriated for fiscal year 1988 for the Bureau of Indian Affairs for the Institute of American Indian Arts shall be available to operate the Institute until the Board of Regents and President of the Institute have been named and had an opportunity to organize, and for use under part A of that Act [this subchapter].”
 
 **Availability of Appropriations; Implementation of Chapter; Interim Authority of Secretary**
 
-Pub. L. 99–500, § 101(h) [title I, § 100], Oct. 18, 1986, 100 Stat. 1783–242, 1783–255, and Pub. L. 99–591, § 101(h) [title I, § 100], Oct. 30, 1986, 100 Stat. 3341–242, 3341–255, provided:
+Pub. L. 99–500, § 101(h) [title I, § 100], Oct. 18, 1986, 100 Stat. 1783–242, 1783–255, and Pub. L. 99–591, § 101(h) [title I, § 100], Oct. 30, 1986, 100 Stat. 3341–242, 3341–255, provided:
 
 > “That notwithstanding any provision of the American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act [this chapter], the amounts appropriated for fiscal year 1987 for the Bureau of Indian Affairs for the Institute of American Indian Arts shall be available for use under part A of that Act [this subchapter] and—
 
@@ -129,7 +129,7 @@ Pub. L. 99–500, § 101(h) [title I, § 100], Oct. 18, 1986, 100 Stat. 1783
 
 > the Secretary of the Interior shall have the authority conferred upon the President of such Institute under this [that] Act”.
 
-### § 4412. Board of Trustees
+### § 4412. Board of Trustees
 
 **(a) Composition**
 
@@ -217,7 +217,7 @@ Members of the Board appointed pursuant to subsection (a)(1)(A) shall, for each 
 
 **(3)** This subsection shall not be construed to permit less than 7 members of the Board to be Indians. If an extension of a term under paragraph (2) would result in less than 7 members being Indians, the term of the member covered by paragraph (2) shall be deemed to expire 60 days after the date upon which it would have been deemed to expire without the operation of this subsection, except that the provisions of subsection (b)(4), relating to continuation of service pending replacement, shall continue to apply.
 
-(Pub. L. 99–498, title XV, § 1505, Oct. 17, 1986, 100 Stat. 1601; Pub. L. 102–325, title XIII, § 1331(a), July 23, 1992, 106 Stat. 805; Pub. L. 112–166, § 2(ee), Aug. 10, 2012, 126 Stat. 1290.)
+(Pub. L. 99–498, title XV, § 1505, Oct. 17, 1986, 100 Stat. 1601; Pub. L. 102–325, title XIII, § 1331(a), July 23, 1992, 106 Stat. 805; Pub. L. 112–166, § 2(ee), Aug. 10, 2012, 126 Stat. 1290.)
 
 **Editorial Notes**
 
@@ -225,11 +225,11 @@ Members of the Board appointed pursuant to subsection (a)(1)(A) shall, for each 
 
 2012—Subsec. (a)(1)(A). Pub. L. 112–166 struck out “by and with the advice and consent of the Senate” after “United States”.
 
-1992—Subsec. (a)(1)(A). Pub. L. 102–325, § 1331(a)(1), substituted “Subject to the provisions of subsection (i), the voting” for “The voting” and inserted before period at end “, and diverse fields of expertise, including finance, law, fine arts, and higher education administration”.
+1992—Subsec. (a)(1)(A). Pub. L. 102–325, § 1331(a)(1), substituted “Subject to the provisions of subsection (i), the voting” for “The voting” and inserted before period at end “, and diverse fields of expertise, including finance, law, fine arts, and higher education administration”.
 
-Subsec. (a)(3), (4). Pub. L. 102–325, § 1331(a)(2), (3), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (a)(3), (4). Pub. L. 102–325, § 1331(a)(2), (3), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (i). Pub. L. 102–325, § 1331(a)(4), added subsec. (i) and struck out former subsec. (i) which read as follows: “(i) Review by Secretary of the Interior.—For so long as any employee of the Institute is covered under title 5, the Board (acting by majority vote) shall submit final decisions relating to personnel to the Secretary of the Interior. Each such decision shall become final 30 days after the date of its receipt by the Secretary unless the Secretary disapproves of such decision. The Secretary may only disapprove a decision of the Board for just cause.”
+Subsec. (i). Pub. L. 102–325, § 1331(a)(4), added subsec. (i) and struck out former subsec. (i) which read as follows: “(i) Review by Secretary of the Interior.—For so long as any employee of the Institute is covered under title 5, the Board (acting by majority vote) shall submit final decisions relating to personnel to the Secretary of the Interior. Each such decision shall become final 30 days after the date of its receipt by the Secretary unless the Secretary disapproves of such decision. The Secretary may only disapprove a decision of the Board for just cause.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -257,7 +257,7 @@ This memorandum shall be published in the Federal Register.
 
 George Bush.
 
-### § 4413. Executive Board
+### § 4413. Executive Board
 
 **(a) Composition** The Board shall have an Executive Board composed of—
 
@@ -287,17 +287,17 @@ A majority of the Executive Board shall constitute a quorum.
 
 The Executive Board may hold and use all the powers of the Board, subject to the approval of the Board.
 
-(Pub. L. 99–498, title XV, § 1506, Oct. 17, 1986, 100 Stat. 1603.)
+(Pub. L. 99–498, title XV, § 1506, Oct. 17, 1986, 100 Stat. 1603.)
 
-### § 4414. General powers of Board
+### § 4414. General powers of Board
 
 **(a) In general** In carrying out the provisions of this chapter, the Board shall have the power, consistent with the provisions of this chapter—
 
 **(1)** to adopt, use, and alter a corporate seal;
 
-**(2)** to make agreements and contracts with persons, Indian tribes, and private or governmental entities and to make payments or advance payments under such agreements or contract 1
+**(2)** to make agreements and contracts with persons, Indian tribes, and private or governmental entities and to make payments or advance payments under such agreements or contract 1
 
-<sup>1</sup>  So in original. Probably should be “contracts”.
+<sup>1</sup> So in original. Probably should be “contracts”.
 
 without regard to section 3324 of title 31;
 
@@ -331,39 +331,39 @@ Any funds received by, or under the control of, the Institute that are not Feder
 
 **(c) Interest and investments**
 
-Interest and earnings on amounts received by the Institute pursuant to section 4451 of this title invested under subsection (a)(12) 2
+Interest and earnings on amounts received by the Institute pursuant to section 4451 of this title invested under subsection (a)(12) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 shall be the property of the Institute and shall be expended to carry out this chapter. The Board shall be held to a reasonable and prudent standard of care, given such information and circumstances as existed when the decision is made, in decisions involving investment of funds under subsection (a)(12).2
 
-(Pub. L. 99–498, title XV, § 1507, Oct. 17, 1986, 100 Stat. 1603; Pub. L. 100–297, title V, § 5406(e), Apr. 28, 1988, 102 Stat. 418; Pub. L. 101–644, title V, § 501, Nov. 29, 1990, 104 Stat. 4668; Pub. L. 102–325, title XIII, § 1331(b), July 23, 1992, 106 Stat. 806; Pub. L. 103–208, § 2(*l*), Dec. 20, 1993, 107 Stat. 2486.)
+(Pub. L. 99–498, title XV, § 1507, Oct. 17, 1986, 100 Stat. 1603; Pub. L. 100–297, title V, § 5406(e), Apr. 28, 1988, 102 Stat. 418; Pub. L. 101–644, title V, § 501, Nov. 29, 1990, 104 Stat. 4668; Pub. L. 102–325, title XIII, § 1331(b), July 23, 1992, 106 Stat. 806; Pub. L. 103–208, § 2(*l*), Dec. 20, 1993, 107 Stat. 2486.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subsection (a)(12), referred to in subsec. (c), was redesignated subsec. (a)(13) of this section, repealed, and a new subsec. (a)(13) added by Pub. L. 102–325, title XIII, § 1331(b)(1)(A), (C), July 23, 1992, 106 Stat. 806, and former subsec. (a)(11) of this section was redesignated subsec. (a)(12).
+Subsection (a)(12), referred to in subsec. (c), was redesignated subsec. (a)(13) of this section, repealed, and a new subsec. (a)(13) added by Pub. L. 102–325, title XIII, § 1331(b)(1)(A), (C), July 23, 1992, 106 Stat. 806, and former subsec. (a)(11) of this section was redesignated subsec. (a)(12).
 
 **Amendments**
 
 1993—Subsec. (a)(12). Pub. L. 103–208 substituted semicolon for period at end.
 
-1992—Subsec. (a)(2). Pub. L. 102–325, § 1331(b)(1)(B), added par. (2) and struck out former par. (2) which read as follows: “to make agreements and contracts with persons, Indian tribes, and private or governmental entities and to make payments or advance payments under such agreements or contracts without regard to section 3324 of title 31;”.
+1992—Subsec. (a)(2). Pub. L. 102–325, § 1331(b)(1)(B), added par. (2) and struck out former par. (2) which read as follows: “to make agreements and contracts with persons, Indian tribes, and private or governmental entities and to make payments or advance payments under such agreements or contracts without regard to section 3324 of title 31;”.
 
-Subsec. (a)(3) to (12). Pub. L. 102–325, § 1331(b)(1)(A), (B), added par. (3) and redesignated former pars. (3) to (11) as (4) to (12), respectively. Former par. (12) redesignated (13).
+Subsec. (a)(3) to (12). Pub. L. 102–325, § 1331(b)(1)(A), (B), added par. (3) and redesignated former pars. (3) to (11) as (4) to (12), respectively. Former par. (12) redesignated (13).
 
-Subsec. (a)(13). Pub. L. 102–325, § 1331(b)(1)(C), added par. (13) and struck out former par. (13) which read as follows: “to use any funds or property received by the Institute to carry out the purpose of this chapter; and”.
+Subsec. (a)(13). Pub. L. 102–325, § 1331(b)(1)(C), added par. (13) and struck out former par. (13) which read as follows: “to use any funds or property received by the Institute to carry out the purpose of this chapter; and”.
 
-Pub. L. 102–325, § 1331(b)(1)(A), redesignated par. (12) as (13). Former par. (13) redesignated (14).
+Pub. L. 102–325, § 1331(b)(1)(A), redesignated par. (12) as (13). Former par. (13) redesignated (14).
 
-Subsec. (14). Pub. L. 102–325, § 1331(b)(1)(A), redesignated par. (13) as (14).
+Subsec. (14). Pub. L. 102–325, § 1331(b)(1)(A), redesignated par. (13) as (14).
 
-Subsec. (c). Pub. L. 102–325, § 1331(b)(2), substituted “shall be expended” for “may be expended”.
+Subsec. (c). Pub. L. 102–325, § 1331(b)(2), substituted “shall be expended” for “may be expended”.
 
-1990—Subsec. (a)(11). Pub. L. 101–644, § 501(b), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “to obtain insurance or make other provisions against losses;”.
+1990—Subsec. (a)(11). Pub. L. 101–644, § 501(b), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “to obtain insurance or make other provisions against losses;”.
 
-Subsec. (c). Pub. L. 101–644, § 501(a), added subsec. (c).
+Subsec. (c). Pub. L. 101–644, § 501(a), added subsec. (c).
 
 1988—Pub. L. 100–297 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
@@ -381,7 +381,7 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as a note under section 1071 of this title.
 
-### § 4415. President of Institute
+### § 4415. President of Institute
 
 **(a) Appointment**
 
@@ -391,15 +391,15 @@ The Institute shall have a President who shall be appointed by the Board. The Pr
 
 The President of the Institute shall be paid at a rate not to exceed the maximum rate of basic pay payable for grade GS–18 of the General Schedule.
 
-(Pub. L. 99–498, title XV, § 1508, Oct. 17, 1986, 100 Stat. 1604.)
+(Pub. L. 99–498, title XV, § 1508, Oct. 17, 1986, 100 Stat. 1604.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### § 4416. Staff of Institute
+### § 4416. Staff of Institute
 
 **(a) Exemption from civil service**
 
@@ -483,7 +483,7 @@ The Institute shall be considered an agency for the purpose of chapter 71 of tit
 
 Employees of the Institute shall receive compensation for work injuries and illnesses in accordance with chapter 81 of title 5.
 
-(Pub. L. 99–498, title XV, § 1509, Oct. 17, 1986, 100 Stat. 1604; Pub. L. 100–297, title V, § 5406(a), Apr. 28, 1988, 102 Stat. 417; Pub. L. 102–325, title XIII, § 1331(c), July 23, 1992, 106 Stat. 806; Pub. L. 103–382, title III, § 386(a), Oct. 20, 1994, 108 Stat. 4020.)
+(Pub. L. 99–498, title XV, § 1509, Oct. 17, 1986, 100 Stat. 1604; Pub. L. 100–297, title V, § 5406(a), Apr. 28, 1988, 102 Stat. 417; Pub. L. 102–325, title XIII, § 1331(c), July 23, 1992, 106 Stat. 806; Pub. L. 103–382, title III, § 386(a), Oct. 20, 1994, 108 Stat. 4020.)
 
 **Editorial Notes**
 
@@ -513,7 +513,7 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as a note under section 1071 of this title.
 
-### § 4417. Functions of Institute
+### § 4417. Functions of Institute
 
 **(a) Primary functions** The primary functions of the Institute shall be—
 
@@ -543,7 +543,7 @@ For effective date and applicability of amendment by Pub. L. 100–297, see sect
 
 **(3)** coordinate efforts to preserve, support, revitalize, and develop evolving forms of Indian art and culture.
 
-(Pub. L. 99–498, title XV, § 1510, Oct. 17, 1986, 100 Stat. 1606; Pub. L. 101–644, title V, § 502, Nov. 29, 1990, 104 Stat. 4668; Pub. L. 102–325, title XIII, § 1331(d), July 23, 1992, 106 Stat. 807.)
+(Pub. L. 99–498, title XV, § 1510, Oct. 17, 1986, 100 Stat. 1606; Pub. L. 101–644, title V, § 502, Nov. 29, 1990, 104 Stat. 4668; Pub. L. 102–325, title XIII, § 1331(d), July 23, 1992, 106 Stat. 807.)
 
 **Editorial Notes**
 
@@ -573,9 +573,9 @@ For effective date and applicability of amendment by Pub. L. 100–297, see sect
 
 “(3) a Museum of American Indian and Alaska Native Arts, which shall be under the direction of the President of the Institute.”
 
-1990—Subsec. (b)(2). Pub. L. 101–644, § 502(1), redesignated subpars. (B) to (I) as (A) to (H), respectively, and struck out former subpar. (A) which related to a museum of Indian arts.
+1990—Subsec. (b)(2). Pub. L. 101–644, § 502(1), redesignated subpars. (B) to (I) as (A) to (H), respectively, and struck out former subpar. (A) which related to a museum of Indian arts.
 
-Subsec. (b)(3). Pub. L. 101–644, § 502(2)–(4), added par. (3).
+Subsec. (b)(3). Pub. L. 101–644, § 502(2)–(4), added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -583,7 +583,7 @@ Subsec. (b)(3). Pub. L. 101–644, § 502(2)–(4), added par. (3).
 
 Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 
-### § 4418. Indian preference
+### § 4418. Indian preference
 
 **(a) In general** Notwithstanding any other provision of Federal or State law, the Institute is authorized to develop a policy or policies for the Institute to extend preference to Indians in—
 
@@ -597,7 +597,7 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 In carrying out section 4416(b)(1) of this title, the President of the Institute shall, to the maximum extent practicable, give preference in hiring to Indians.
 
-(Pub. L. 99–498, title XV, § 1511, Oct. 17, 1986, 100 Stat. 1607; Pub. L. 102–325, title XIII, § 1331(e), July 23, 1992, 106 Stat. 807.)
+(Pub. L. 99–498, title XV, § 1511, Oct. 17, 1986, 100 Stat. 1607; Pub. L. 102–325, title XIII, § 1331(e), July 23, 1992, 106 Stat. 807.)
 
 **Editorial Notes**
 
@@ -611,7 +611,7 @@ In carrying out section 4416(b)(1) of this title, the President of the Institute
 
 Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 
-### § 4419. Nonprofit and nonpolitical nature of Institute
+### § 4419. Nonprofit and nonpolitical nature of Institute
 
 **(a) Stock**
 
@@ -625,9 +625,9 @@ No part of the income or assets of the Institute shall inure to the benefit of a
 
 The Institute may not contribute to, or otherwise support, any political party or candidate for elective public office.
 
-(Pub. L. 99–498, title XV, § 1512, Oct. 17, 1986, 100 Stat. 1607.)
+(Pub. L. 99–498, title XV, § 1512, Oct. 17, 1986, 100 Stat. 1607.)
 
-### § 4420. Tax status; tort liability
+### § 4420. Tax status; tort liability
 
 **(a) Tax status**
 
@@ -641,15 +641,15 @@ The Institute and the franchise, capital, reserves, income, and property of the 
 
 **(3)** For purposes of chapter 171 of title 28, the President of the Institute shall be deemed the head of the Agency.
 
-(Pub. L. 99–498, title XV, § 1513, Oct. 17, 1986, 100 Stat. 1608; Pub. L. 100–446, title II, Sept. 27, 1988, 102 Stat. 1818.)
+(Pub. L. 99–498, title XV, § 1513, Oct. 17, 1986, 100 Stat. 1608; Pub. L. 100–446, title II, Sept. 27, 1988, 102 Stat. 1818.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Pub. L. 100–446 inserted “; tort liability” in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
+1988—Pub. L. 100–446 inserted “; tort liability” in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
 
-### § 4421. Transfer of functions
+### § 4421. Transfer of functions
 
 **(a) Institute of American Indian Arts**
 
@@ -675,27 +675,27 @@ All laws and regulations relating to the Institute of American Indian Arts estab
 
 **(2)** With respect to all programs of the Federal Government, in whatever form or from whatever source derived, the Institute shall only be held responsible for actions and requirements, either administrative, regulatory, or statutory in nature, for events which occurred after July 1, 1988, including the submission of reports, audits, and other required information. The United States may not seek any monetary damages or repayment for the commission of events, or omission to comply with either administrative or regulatory requirements, for any action which occurred prior to June 2, 1988.
 
-(Pub. L. 99–498, title XV, § 1514, Oct. 17, 1986, 100 Stat. 1608; Pub. L. 100–153, § 8, Nov. 5, 1987, 101 Stat. 887; Pub. L. 100–297, title V, § 5406(d), Apr. 28, 1988, 102 Stat. 418; Pub. L. 101–644, title V, § 503, Nov. 29, 1990, 104 Stat. 4669; Pub. L. 102–325, title XIII, § 1331(f), July 23, 1992, 106 Stat. 807.)
+(Pub. L. 99–498, title XV, § 1514, Oct. 17, 1986, 100 Stat. 1608; Pub. L. 100–153, § 8, Nov. 5, 1987, 101 Stat. 887; Pub. L. 100–297, title V, § 5406(d), Apr. 28, 1988, 102 Stat. 418; Pub. L. 101–644, title V, § 503, Nov. 29, 1990, 104 Stat. 4669; Pub. L. 102–325, title XIII, § 1331(f), July 23, 1992, 106 Stat. 807.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Subsec. (b)(1). Pub. L. 102–325, § 1331(f)(1), substituted “Subject to subsection (d), all personnel” for “All personnel”.
+1992—Subsec. (b)(1). Pub. L. 102–325, § 1331(f)(1), substituted “Subject to subsection (d), all personnel” for “All personnel”.
 
-Subsec. (d)(2). Pub. L. 102–325, § 1331(f)(2), substituted “monetary damages” for “monetary damage”.
+Subsec. (d)(2). Pub. L. 102–325, § 1331(f)(2), substituted “monetary damages” for “monetary damage”.
 
-1990—Subsec. (d). Pub. L. 101–644, § 503, added subsec. (d) and struck out former subsec. (d) which read as follows: “Unless the Board provides otherwise, the Secretary of the Interior shall, until October 1, 1989, provide such technical and support assistance to the Institute as the Secretary determines reasonable or necessary to assist the Institute. Such assistance shall include audit, accounting, computer services, and building and maintenance services.”
+1990—Subsec. (d). Pub. L. 101–644, § 503, added subsec. (d) and struck out former subsec. (d) which read as follows: “Unless the Board provides otherwise, the Secretary of the Interior shall, until October 1, 1989, provide such technical and support assistance to the Institute as the Secretary determines reasonable or necessary to assist the Institute. Such assistance shall include audit, accounting, computer services, and building and maintenance services.”
 
-Subsecs. (e), (f). Pub. L. 101–644, § 503(1), struck out subsec. (e) which related to completion of transfers, final date of control of Institute by Secretary, payment of unexpended or unobligated funds, and responsibility for subsequently incurred obligations, and subsec. (f) which related to contract with University of New Mexico, terms of contract, and composition of advisory council.
+Subsecs. (e), (f). Pub. L. 101–644, § 503(1), struck out subsec. (e) which related to completion of transfers, final date of control of Institute by Secretary, payment of unexpended or unobligated funds, and responsibility for subsequently incurred obligations, and subsec. (f) which related to contract with University of New Mexico, terms of contract, and composition of advisory council.
 
 1988—Subsec. (e)(3), (4). Pub. L. 100–297 added pars. (3) and (4).
 
-1987—Subsec. (d). Pub. L. 100–153, § 8(1), (2), substituted “Unless the Board provides otherwise” for “During the 2-year period beginning on the date referred to in subsection (f) of this section” and inserted “, until October 1, 1989,” after “Secretary of the Interior shall”.
+1987—Subsec. (d). Pub. L. 100–153, § 8(1), (2), substituted “Unless the Board provides otherwise” for “During the 2-year period beginning on the date referred to in subsection (f) of this section” and inserted “, until October 1, 1989,” after “Secretary of the Interior shall”.
 
-Subsec. (e). Pub. L. 100–153, § 8(3), added subsec. (e) and struck out former subsec. (e) which read as follows: “During the period beginning on October 17, 1986, and ending on the date referred to in subsection (f) of this section, the Advisory Board for Institute of American Indian Arts shall continue to act in an advisory role for the Board and the Institute of American Indian and Alaska Native Culture and Arts Development.”
+Subsec. (e). Pub. L. 100–153, § 8(3), added subsec. (e) and struck out former subsec. (e) which read as follows: “During the period beginning on October 17, 1986, and ending on the date referred to in subsection (f) of this section, the Advisory Board for Institute of American Indian Arts shall continue to act in an advisory role for the Board and the Institute of American Indian and Alaska Native Culture and Arts Development.”
 
-Subsec. (f). Pub. L. 100–153, § 8(3), added subsec. (f) and struck out former subsec. (f) which read as follows: “The provisions of this section (other than subsection (e) of this section) shall take effect on October 1, 1986.”
+Subsec. (f). Pub. L. 100–153, § 8(3), added subsec. (f) and struck out former subsec. (f) which read as follows: “The provisions of this section (other than subsection (e) of this section) shall take effect on October 1, 1986.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -707,7 +707,7 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as a note under section 1071 of this title.
 
-### § 4422. Reports
+### § 4422. Reports
 
 **(a) Annual report**
 
@@ -721,7 +721,7 @@ The President of the Institute shall submit an annual report to the Congress and
 
 **(3)** In determining the amount of funds to be appropriated to the Institute on the basis of such proposals, the Congress shall not consider the amount of private fundraising or bequests made on behalf of the Institute during any preceding fiscal year.
 
-(Pub. L. 99–498, title XV, § 1515, Oct. 17, 1986, 100 Stat. 1609; Pub. L. 100–297, title V, § 5406(f), Apr. 28, 1988, 102 Stat. 418; Pub. L. 102–325, title XIII, § 1331(g), July 23, 1992, 106 Stat. 807.)
+(Pub. L. 99–498, title XV, § 1515, Oct. 17, 1986, 100 Stat. 1609; Pub. L. 100–297, title V, § 5406(f), Apr. 28, 1988, 102 Stat. 418; Pub. L. 102–325, title XIII, § 1331(g), July 23, 1992, 106 Stat. 807.)
 
 **Editorial Notes**
 
@@ -729,9 +729,9 @@ The President of the Institute shall submit an annual report to the Congress and
 
 1992—Subsec. (b). Pub. L. 102–325 redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: “Prior to October 1, 1988, the Board shall submit a budget proposal to the Secretary of the Interior. The Secretary shall submit that proposal to the Congress.”
 
-1988—Subsec. (b)(1). Pub. L. 100–297, § 5406(f)(1), substituted “Prior to October 1, 1988” for “During the 2-year period beginning on the date referred to in section 4421(f) of this title”.
+1988—Subsec. (b)(1). Pub. L. 100–297, § 5406(f)(1), substituted “Prior to October 1, 1988” for “During the 2-year period beginning on the date referred to in section 4421(f) of this title”.
 
-Subsec. (b)(2). Pub. L. 100–297, § 5406(f)(2), substituted “September 30, 1988” for “the period described in paragraph (1)”.
+Subsec. (b)(2). Pub. L. 100–297, § 5406(f)(2), substituted “September 30, 1988” for “the period described in paragraph (1)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -747,11 +747,11 @@ For effective date and applicability of amendment by Pub. L. 100–297, see sect
 
 For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to submitting an annual report to Congress, and provisions in subsec. (b) of this section relating to submitting annual budget proposal to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 201 of House Document No. 103–7.
 
-### § 4423. Headquarters
+### § 4423. Headquarters
 
 Santa Fe, New Mexico, shall be maintained as the location for the Institute of Indian and Alaska Native Culture and Arts Development. To facilitate this action and the continuity of programs being provided at the Institute of American Indian Arts, the Board may enter into negotiations with State and local governments for such exchanges or transfers of lands and such other assistance as may be required.
 
-(Pub. L. 99–498, title XV, § 1516, Oct. 17, 1986, 100 Stat. 1609; Pub. L. 102–325, title XIII, § 1331(h), July 23, 1992, 106 Stat. 807.)
+(Pub. L. 99–498, title XV, § 1516, Oct. 17, 1986, 100 Stat. 1609; Pub. L. 102–325, title XIII, § 1331(h), July 23, 1992, 106 Stat. 807.)
 
 **Editorial Notes**
 
@@ -765,11 +765,11 @@ Santa Fe, New Mexico, shall be maintained as the location for the Institute of I
 
 Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 
-### § 4424. Compliance with other Acts
+### § 4424. Compliance with other Acts
 
 **(a) In general** The Institute shall comply with the provisions of—
 
-**(1)** Public Law 95–341 (42 U.S.C. 1996 [, 1996a]), popularly known as the American Indian Religious Freedom Act,
+**(1)** Public Law 95–341 (42 U.S.C. 1996 [, 1996a]), popularly known as the American Indian Religious Freedom Act,
 
 **(2)** the Archeological Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.), and
 
@@ -781,23 +781,23 @@ All Federal criminal laws relating to larceny, embezzlement, or conversion of th
 
 **(c) Other Federal assistance**
 
-**(1)** Funds received by the institute 1
+**(1)** Funds received by the institute 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
-pursuant to this chapter 2
+pursuant to this chapter 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 shall not be regarded as Federal money for purposes of meeting any matching requirements for any Federal grant, contract or cooperative agreement.
 
-**(2)** The Institute shall not be subject to any provision of law requiring that non-Federal funds or other moneys be used in part to fund any grant, contract, cooperative agreement, or project as a condition to the application for, or receipt of, Federal assistance. This subsection shall not be construed to effect 3
+**(2)** The Institute shall not be subject to any provision of law requiring that non-Federal funds or other moneys be used in part to fund any grant, contract, cooperative agreement, or project as a condition to the application for, or receipt of, Federal assistance. This subsection shall not be construed to effect 3
 
-<sup>3</sup>  So in original. Probably should be “affect”.
+<sup>3</sup> So in original. Probably should be “affect”.
 
 in a negative fashion the review, prioritization, or acceptance of any application or proposal for such a program, solicited or unsolicited.
 
-(Pub. L. 99–498, title XV, § 1517, Oct. 17, 1986, 100 Stat. 1609; Pub. L. 101–644, title V, § 504, Nov. 29, 1990, 104 Stat. 4669; Pub. L. 102–325, title XIII, § 1331(i), July 23, 1992, 106 Stat. 808; Pub. L. 113–287, § 5(e)(2), Dec. 19, 2014, 128 Stat. 3268.)
+(Pub. L. 99–498, title XV, § 1517, Oct. 17, 1986, 100 Stat. 1609; Pub. L. 101–644, title V, § 504, Nov. 29, 1990, 104 Stat. 4669; Pub. L. 102–325, title XIII, § 1331(i), July 23, 1992, 106 Stat. 808; Pub. L. 113–287, § 5(e)(2), Dec. 19, 2014, 128 Stat. 3268.)
 
 **Editorial Notes**
 
@@ -805,7 +805,7 @@ in a negative fashion the review, prioritization, or acceptance of any applicati
 
 Public Law 95–341, popularly known as the American Indian Religious Freedom Act, referred to in subsec. (a)(1), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
 
-The Archaeological Resources Protection Act of 1979, referred to in subsec. (a)(2), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§ 470aa et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of Title 16 and Tables.
+The Archaeological Resources Protection Act of 1979, referred to in subsec. (a)(2), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§ 470aa et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of Title 16 and Tables.
 
 This chapter, referred to in subsec. (c)(1), was in the original “this Act” and was translated as reading “this title”, meaning title XV of Pub. L. 99–498 to reflect the probable intent of Congress.
 
@@ -823,7 +823,7 @@ This chapter, referred to in subsec. (c)(1), was in the original “this Act” 
 
 Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 
-### § 4425. Endowment programs
+### § 4425. Endowment programs
 
 **(a) Program enhancement endowment**
 
@@ -873,29 +873,29 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 **(4)** The President of the Institute shall provide for such other provisions governing the trust funds established under this section as may be necessary to protect the financial interest of the United States and to promote the purpose of this chapter as agreed to by the Secretary of the Treasury and the Board or its designee, including recordkeeping procedures for the investment of funds received under the trust fund established under subsection (b) and such other recordkeeping procedures for the expenditure of accumulated interest for the trust fund under subsection (a) as will allow the Secretary of the Treasury to audit and monitor activities under this section.
 
-(Pub. L. 99–498, title XV, § 1518, Oct. 17, 1986, 100 Stat. 1609; Pub. L. 100–297, title V, § 5406(b), Apr. 28, 1988, 102 Stat. 417; Pub. L. 101–644, title V, § 505, Nov. 29, 1990, 104 Stat. 4669; Pub. L. 102–325, title XIII, § 1331(j), July 23, 1992, 106 Stat. 808; Pub. L. 103–382, title III, § 386(b), Oct. 20, 1994, 108 Stat. 4020.)
+(Pub. L. 99–498, title XV, § 1518, Oct. 17, 1986, 100 Stat. 1609; Pub. L. 100–297, title V, § 5406(b), Apr. 28, 1988, 102 Stat. 417; Pub. L. 101–644, title V, § 505, Nov. 29, 1990, 104 Stat. 4669; Pub. L. 102–325, title XIII, § 1331(j), July 23, 1992, 106 Stat. 808; Pub. L. 103–382, title III, § 386(b), Oct. 20, 1994, 108 Stat. 4020.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsec. (b)(6). Pub. L. 103–382, § 386(b)(1), added par. (6).
+1994—Subsec. (b)(6). Pub. L. 103–382, § 386(b)(1), added par. (6).
 
-Subsec. (c)(1). Pub. L. 103–382, § 386(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Funds in the trust funds described in subsections (a) and (b) of this section shall be invested at a rate not less than that generally available for similar funds deposited at the same banking institution for the same period or periods of time.”
+Subsec. (c)(1). Pub. L. 103–382, § 386(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Funds in the trust funds described in subsections (a) and (b) of this section shall be invested at a rate not less than that generally available for similar funds deposited at the same banking institution for the same period or periods of time.”
 
-1992—Subsec. (a)(3). Pub. L. 102–325, § 1331(j)(1)(A), substituted “November 29, 1990” for “the date of enactment of this Act”.
+1992—Subsec. (a)(3). Pub. L. 102–325, § 1331(j)(1)(A), substituted “November 29, 1990” for “the date of enactment of this Act”.
 
-Pub. L. 102–325, § 1331(j)(1)(B), inserted at end “All funds transferred to the Institute by the Secretary of the Treasury after June 2, 1988, shall be deemed to have been properly transferred as of July 23, 1992.”
+Pub. L. 102–325, § 1331(j)(1)(B), inserted at end “All funds transferred to the Institute by the Secretary of the Treasury after June 2, 1988, shall be deemed to have been properly transferred as of July 23, 1992.”
 
-Subsec. (b)(4). Pub. L. 102–325, § 1331(j)(2), inserted “, non-Federal governmental,” after “any private”.
+Subsec. (b)(4). Pub. L. 102–325, § 1331(j)(2), inserted “, non-Federal governmental,” after “any private”.
 
-Subsec. (c)(3), (4). Pub. L. 102–325, § 1331(j)(3), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (c)(3), (4). Pub. L. 102–325, § 1331(j)(3), added par. (3) and redesignated former par. (3) as (4).
 
 1990—Pub. L. 101–644 amended section generally, substituting present provisions consisting of subsecs. (a) to (c) for former text which provided: in subsec. (a), establishment of program; in subsec. (b), use of funds; in subsec. (c), compliance with matching requirement; and in subsec. (d), payment of Federal contribution.
 
-1988—Subsec. (a)(1). Pub. L. 100–297, § 5406(b)(1), substituted “From amounts appropriated under section 4451(a) of this title, not more than $500,000” for “From the amount appropriated pursuant to section 4441(a) of this title, the Secretary shall make available to the Institute not more than $500,000 which”.
+1988—Subsec. (a)(1). Pub. L. 100–297, § 5406(b)(1), substituted “From amounts appropriated under section 4451(a) of this title, not more than $500,000” for “From the amount appropriated pursuant to section 4441(a) of this title, the Secretary shall make available to the Institute not more than $500,000 which”.
 
-Subsec. (d). Pub. L. 100–297, § 5406(b)(2), in subsec. heading substituted “Payment of Federal contribution” for “Allocation of funds”, and in text substituted “Amounts appropriated under section 4451(a) of this title for use under this section shall be paid by the Secretary of the Treasury to the Institute as” for “From the amount appropriated pursuant to section 4441(a) of this title, the Secretary shall allocate to the Institute an amount for”.
+Subsec. (d). Pub. L. 100–297, § 5406(b)(2), in subsec. heading substituted “Payment of Federal contribution” for “Allocation of funds”, and in text substituted “Amounts appropriated under section 4451(a) of this title for use under this section shall be paid by the Secretary of the Treasury to the Institute as” for “From the amount appropriated pursuant to section 4441(a) of this title, the Secretary shall allocate to the Institute an amount for”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -907,7 +907,7 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 For effective date and applicability of amendment by Pub. L. 100–297, see section 6303 of Pub. L. 100–297, set out as a note under section 1071 of this title.
 
-### § 4426. Provision of facilities
+### § 4426. Provision of facilities
 
 **(a) Plan**
 
@@ -917,7 +917,7 @@ The Board shall prepare a master plan on the short- and long-term facilities nee
 
 The plan required by this subsection shall be transmitted to Congress no later than 18 months after July 23, 1992. Such plan shall include a prioritization of needs, as determined by the Board.
 
-(Pub. L. 99–498, title XV, § 1519, as added Pub. L. 102–325, title XIII, § 1331(k), July 23, 1992, 106 Stat. 808.)
+(Pub. L. 99–498, title XV, § 1519, as added Pub. L. 102–325, title XIII, § 1331(k), July 23, 1992, 106 Stat. 808.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -927,7 +927,7 @@ Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a
 
 ## SUBCHAPTER II—NATIVE HAWAIIANS AND ALASKA NATIVES
 
-### § 4441. Program for Native Hawaiian and Alaska Native culture and arts development
+### § 4441. Program for Native Hawaiian and Alaska Native culture and arts development
 
 **(a) In general** The Secretary of the Interior is authorized to make grants for the purpose of supporting programs for Native Hawaiian or Alaska Native culture and arts development to any nonprofit organization or institution which—
 
@@ -961,25 +961,25 @@ Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a
 
 **(C)** serve for a fixed term.
 
-(Pub. L. 99–498, title XV, § 1521, Oct. 17, 1986, 100 Stat. 1610; Pub. L. 103–239, title VII, § 722(2), May 4, 1994, 108 Stat. 606; Pub. L. 119–74, div. C, title I, § 128, Jan. 23, 2026, 140 Stat. 125.)
+(Pub. L. 99–498, title XV, § 1521, Oct. 17, 1986, 100 Stat. 1610; Pub. L. 103–239, title VII, § 722(2), May 4, 1994, 108 Stat. 606; Pub. L. 119–74, div. C, title I, § 128, Jan. 23, 2026, 140 Stat. 125.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2026—Subsec. (a). Pub. L. 119–74, § 128(1), struck out “private,” before “nonprofit organization” in introductory provisions.
+2026—Subsec. (a). Pub. L. 119–74, § 128(1), struck out “private,” before “nonprofit organization” in introductory provisions.
 
-Subsec. (c)(2)(A). Pub. L. 119–74, § 128(2)(A)(i), substituted “include Native Hawaiians and” for “be Native Hawaiians or”.
+Subsec. (c)(2)(A). Pub. L. 119–74, § 128(2)(A)(i), substituted “include Native Hawaiians and” for “be Native Hawaiians or”.
 
-Subsec. (c)(2)(B). Pub. L. 119–74, § 128(2)(A)(ii), (B), (D), redesignated subpar. (E) as (B) and struck out former subpar. (B) which read as follows: “include a representative of the Office of Hawaiian Affairs of the State of Hawaii,”.
+Subsec. (c)(2)(B). Pub. L. 119–74, § 128(2)(A)(ii), (B), (D), redesignated subpar. (E) as (B) and struck out former subpar. (B) which read as follows: “include a representative of the Office of Hawaiian Affairs of the State of Hawaii,”.
 
-Subsec. (c)(2)(C), (D). Pub. L. 119–74, § 128(2)(B), struck out subpars. (C) and (D) which read as follows:
+Subsec. (c)(2)(C), (D). Pub. L. 119–74, § 128(2)(B), struck out subpars. (C) and (D) which read as follows:
 
 “(C) include the president of the University of Hawaii,
 
 “(D) include the president of the Bishop Museum, and”.
 
-Subsec. (c)(2)(E). Pub. L. 119–74, § 128(2)(A)(ii), (C), (D), struck out “of office” after “fixed term” and redesignated subpar. (E) as (B).
+Subsec. (c)(2)(E). Pub. L. 119–74, § 128(2)(A)(ii), (C), (D), struck out “of office” after “fixed term” and redesignated subpar. (E) as (B).
 
 1994—Pub. L. 103–239 amended section generally, substituting provisions relating to development program for Native Hawaiian and Alaska Native culture and arts for provisions relating to development program for Native Hawaiian culture and arts.
 
@@ -987,9 +987,9 @@ Subsec. (c)(2)(E). Pub. L. 119–74, § 128(2)(A)(ii), (C), (D), struck out �
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–239, § 801, May 4, 1994, 108 Stat. 607, provided that: “This Act [see Short Title note set out under section 6101 of this title] shall take effect on the date of enactment of this Act [May 4, 1994].”
+Pub. L. 103–239, § 801, May 4, 1994, 108 Stat. 607, provided that: “This Act [see Short Title note set out under section 6101 of this title] shall take effect on the date of enactment of this Act [May 4, 1994].”
 
-### § 4442. Administrative provisions
+### § 4442. Administrative provisions
 
 **(a) Payments**
 
@@ -1023,11 +1023,11 @@ such person shall be liable to repay the amount of such funds to the United Stat
 
 shall be fined not more than $1,000 or imprisoned for not more than one year, or both.
 
-(Pub. L. 99–498, title XV, § 1522, Oct. 17, 1986, 100 Stat. 1611.)
+(Pub. L. 99–498, title XV, § 1522, Oct. 17, 1986, 100 Stat. 1611.)
 
 ## SUBCHAPTER III—AUTHORIZATION OF APPROPRIATIONS
 
-### § 4451. Authorization of appropriations
+### § 4451. Authorization of appropriations
 
 **(a) Subchapter I**
 
@@ -1035,9 +1035,9 @@ shall be fined not more than $1,000 or imprisoned for not more than one year, or
 
 **(2)** Funds appropriated under the authority of paragraph (1) shall remain available without fiscal year limitation.
 
-**(3)** Except as provided for amounts subject to section 4425(d) 1
+**(3)** Except as provided for amounts subject to section 4425(d) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, amounts appropriated under the authority of this subsection for fiscal year 1989, and for each succeeding fiscal year, shall be paid to the Institute at the later of—
 
@@ -1047,7 +1047,7 @@ of this title, amounts appropriated under the authority of this subsection for f
 
 **(4)** Funds appropriated under this subsection for the fiscal year 1992 and for each succeeding fiscal year shall be transferred by the Secretary of the Treasury through the most expeditious method available with the Institute being designated as its own certifying agency.
 
-**(5)** Funds are authorized to be appropriated for programs for more than one fiscal year. For the purpose of affording adequate notice of funding available under this chapter,<sup>1</sup> amounts appropriated in an appropriations Act for any fiscal year to carry out this chapter <sup>1</sup> may, subject to the appropriation, become available for obligations on July 1 of that fiscal year.
+**(5)** Funds are authorized to be appropriated for programs for more than one fiscal year. For the purpose of affording adequate notice of funding available under this chapter,<sup>1</sup> amounts appropriated in an appropriations Act for any fiscal year to carry out this chapter <sup>1</sup> may, subject to the appropriation, become available for obligations on July 1 of that fiscal year.
 
 **(b) Subchapter II** There are authorized to be appropriated for the purpose of carrying out the provisions of subchapter II of this chapter—
 
@@ -1055,13 +1055,13 @@ of this title, amounts appropriated under the authority of this subsection for f
 
 **(2)** for each succeeding fiscal year, such sums as may be necessary to carry out such provisions.
 
-(Pub. L. 99–498, title XV, § 1531, Oct. 17, 1986, 100 Stat. 1612; Pub. L. 100–297, title V, § 5406(c), Apr. 28, 1988, 102 Stat. 418; Pub. L. 101–644, title V, § 506, Nov. 29, 1990, 104 Stat. 4672.)
+(Pub. L. 99–498, title XV, § 1531, Oct. 17, 1986, 100 Stat. 1612; Pub. L. 100–297, title V, § 5406(c), Apr. 28, 1988, 102 Stat. 418; Pub. L. 101–644, title V, § 506, Nov. 29, 1990, 104 Stat. 4672.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4425 of this title, referred to in subsec. (a)(3), was amended generally by Pub. L. 101–644, title V, § 505, Nov. 29, 1990, 104 Stat. 4669, and, as so amended, provisions similar to subsec. (d) are contained in subsec. (a)(4).
+Section 4425 of this title, referred to in subsec. (a)(3), was amended generally by Pub. L. 101–644, title V, § 505, Nov. 29, 1990, 104 Stat. 4669, and, as so amended, provisions similar to subsec. (d) are contained in subsec. (a)(4).
 
 This chapter, referred to in subsec. (a)(5), was in the original “this Act” and was translated as reading “this title”, meaning title XV of Pub. L. 99–498 to reflect the probable intent of Congress.
 

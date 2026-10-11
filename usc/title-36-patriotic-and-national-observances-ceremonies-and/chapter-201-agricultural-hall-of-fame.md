@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 201—AGRICULTURAL HALL OF FAME"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 201—AGRICULTURAL HALL OF FAME"
 identifier: "/us/usc/t36/stII/ptB/ch201"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 201—AGRICULTURAL HALL OF FAME
 
-## § 20101. Organization
+## § 20101. Organization
 
 **(a) Federal Charter.—** Agricultural Hall of Fame (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -27,14 +27,14 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 20101(a) | 36:971. | Aug. 31, 1960, Pub. L. 86–680, §§ 1, 2, 4(1), 16, 74 Stat. 572, 574, 577. |
+| 20101(a) | 36:971. | Aug. 31, 1960, Pub. L. 86–680, §§ 1, 2, 4(1), 16, 74 Stat. 572, 574, 577. |
 |  | 36:972. |  |
 | 20101(b) | 36:974(1). |  |
 |  | 36:986. |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words.
 
-## § 20102. Purposes
+## § 20102. Purposes
 
 The purposes of the corporation are—
 
@@ -58,7 +58,7 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 20102 | 36:973(A) (1st sentence words before proviso, last sentence), (B)–(G). | Aug. 31, 1960, Pub. L. 86–680, § 3(A) (1st sentence words before proviso, last sentence), (B)–(G), 74 Stat. 573. |
+| 20102 | 36:973(A) (1st sentence words before proviso, last sentence), (B)–(G). | Aug. 31, 1960, Pub. L. 86–680, § 3(A) (1st sentence words before proviso, last sentence), (B)–(G), 74 Stat. 573. |
 
 In clause (1), the words “and apply the whole or”, “therefrom”, “thereof”, and “duly” and 36:973(A) (1st sentence) are omitted as unnecessary. The text of 36:973(A) (last sentence) is omitted as unnecessary.
 
@@ -70,7 +70,7 @@ In clause (4), the word “promote” is substituted for “foster, promote, and
 
 In clause (7), the words “other activities appropriate to carry out its purposes” are substituted for “any and all activities incidental thereto or necessary, suitable, or proper for the accomplishment of any of the aforementioned purposes” for consistency in the revised title and to eliminate unnecessary words.
 
-## § 20103. Membership
+## § 20103. Membership
 
 **(a) Eligibility.—** Except as provided in this chapter, eligibility for membership in the corporation and the rights, privileges, and designation of classes of members are as provided in the bylaws.
 
@@ -82,13 +82,13 @@ In clause (7), the words “other activities appropriate to carry out its purpos
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 20103 | 36:976. | Aug. 31, 1960, Pub. L. 86–680, § 6, 74 Stat. 575. |
+| 20103 | 36:976. | Aug. 31, 1960, Pub. L. 86–680, § 6, 74 Stat. 575. |
 
-In subsection (a), the words “are as provided in the bylaws” are substituted for “shall . . . be determined as the bylaws of the corporation may provide” to eliminate unnecessary words.
+In subsection (a), the words “are as provided in the bylaws” are substituted for “shall . . . be determined as the bylaws of the corporation may provide” to eliminate unnecessary words.
 
 In subsection (b), the words “the right to” are omitted as unnecessary.
 
-## § 20104. Governing body
+## § 20104. Governing body
 
 **(a) Board of Governors.—**
 
@@ -110,12 +110,12 @@ In subsection (b), the words “the right to” are omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 20104(a) | 36:977. | Aug. 31, 1960, Pub. L. 86–680, §§ 7, 8, 74 Stat. 575. |
+| 20104(a) | 36:977. | Aug. 31, 1960, Pub. L. 86–680, §§ 7, 8, 74 Stat. 575. |
 | 20104(b) | 36:978. |  |
 
 In subsection (a), the text of 36:977(a) is omitted as executed and obsolete. In paragraph (3), the words “and exercise” are omitted as unnecessary.
 
-## § 20105. Powers
+## § 20105. Powers
 
 The corporation may—
 
@@ -139,7 +139,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 20105 | 36:974(2)–(9). | Aug. 31, 1960, Pub. L. 86–680, §§ 4(2)–(9), 17, 74 Stat. 574, 577. |
+| 20105 | 36:974(2)–(9). | Aug. 31, 1960, Pub. L. 86–680, §§ 4(2)–(9), 17, 74 Stat. 574, 577. |
 |  | 36:987. |  |
 
 In this section, the text of 36:987 is omitted as executed and obsolete.
@@ -156,7 +156,7 @@ In clause (6), the words “issue instruments of indebtedness, and secure its ob
 
 In clause (7), the words “complain and defend in any court of competent jurisdiction” are omitted as unnecessary.
 
-## § 20106. Restrictions
+## § 20106. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -178,7 +178,7 @@ In clause (7), the words “complain and defend in any court of competent jurisd
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 20106(a) | 36:982. | Aug. 31, 1960, Pub. L. 86–680, §§ 3(A) (1st sentence proviso), 9, 10, 12, 74 Stat. 573, 575, 576. |
+| 20106(a) | 36:982. | Aug. 31, 1960, Pub. L. 86–680, §§ 3(A) (1st sentence proviso), 9, 10, 12, 74 Stat. 573, 575, 576. |
 | 20106(b) | 36:980. |  |
 | 20106(c) | 36:979(a). |  |
 | 20106(d) | 36:979(b). |  |
@@ -188,7 +188,7 @@ In subsection (a), the words “any shares of” are omitted as unnecessary.
 
 In subsection (d), the words “or advance” are added in 2 places for consistency in the subsection.
 
-## § 20107. Principal office
+## § 20107. Principal office
 
 The principal office of the corporation shall be in Kansas City, Kansas, or another place decided by the board of governors. However, the activities of the corporation are not confined to the place where the principal office is located but may be conducted throughout the States, territories, and possessions of the United States.
 
@@ -198,11 +198,11 @@ The principal office of the corporation shall be in Kansas City, Kansas, or anot
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 20107 | 36:975(a). | Aug. 31, 1960, Pub. L. 86–680, § 5(a), 74 Stat. 574. |
+| 20107 | 36:975(a). | Aug. 31, 1960, Pub. L. 86–680, § 5(a), 74 Stat. 574. |
 
 The word “various” is omitted as unnecessary.
 
-## § 20108. Records and inspection
+## § 20108. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -220,12 +220,12 @@ The word “various” is omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 20108(a) | 36:983 (1st sentence). | Aug. 31, 1960, Pub. L. 86–680, § 13, 74 Stat. 576. |
+| 20108(a) | 36:983 (1st sentence). | Aug. 31, 1960, Pub. L. 86–680, § 13, 74 Stat. 576. |
 | 20108(b) | 36:983 (last sentence). |  |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
 
-## § 20109. Service of process
+## § 20109. Service of process
 
 The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Notice to or service on the agent is notice to or service on the corporation.
 
@@ -235,9 +235,9 @@ The corporation shall have a designated agent in the District of Columbia to rec
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 20109 | 36:975(b). | Aug. 31, 1960, Pub. L. 86–680, § 5(b), 74 Stat. 575. |
+| 20109 | 36:975(b). | Aug. 31, 1960, Pub. L. 86–680, § 5(b), 74 Stat. 575. |
 
-## § 20110. Liability for acts of officers and agents
+## § 20110. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -247,9 +247,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 20110 | 36:981. | Aug. 31, 1960, Pub. L. 86–680, § 11, 74 Stat. 576. |
+| 20110 | 36:981. | Aug. 31, 1960, Pub. L. 86–680, § 11, 74 Stat. 576. |
 
-## § 20111. Use of assets on dissolution or final liquidation
+## § 20111. Use of assets on dissolution or final liquidation
 
 On dissolution or final liquidation of the corporation, any assets of the corporation remaining after the discharge of all liabilities shall be distributed as provided by the board of governors, but in compliance with the charter and bylaws.
 
@@ -259,6 +259,6 @@ On dissolution or final liquidation of the corporation, any assets of the corpor
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 20111 | 36:985. | Aug. 31, 1960, Pub. L. 86–680, § 15, 74 Stat. 577. |
+| 20111 | 36:985. | Aug. 31, 1960, Pub. L. 86–680, § 15, 74 Stat. 577. |
 
 The word “satisfaction” is omitted as included in “discharge”, and the word “obligations” is omitted as included in “liabilities”. The words “outstanding” and “all Federal and State laws applicable thereto” are omitted as unnecessary.

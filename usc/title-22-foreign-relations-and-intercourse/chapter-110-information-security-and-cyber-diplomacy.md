@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 110—INFORMATION SECURITY AND CYBER DIPLOMACY
 
-## § 10301. United States international cyberspace policy
+## § 10301. United States international cyberspace policy
 
 **(a) In general** It is the policy of the United States—
 
@@ -67,13 +67,13 @@ retrieved: 2026-10-11
 
 **(6)** to advance, encourage, and support the development and adoption of internationally recognized technical standards and best practices.
 
-(Pub. L. 117–263, div. I, title XCV, § 9501, Dec. 23, 2022, 136 Stat. 3897.)
+(Pub. L. 117–263, div. I, title XCV, § 9501, Dec. 23, 2022, 136 Stat. 3897.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Authorization To Use Commercial Cloud Enclaves Overseas**
 
-Pub. L. 119–60, div. E, title III, § 5302, Dec. 18, 2025, 139 Stat. 1593, provided that:
+Pub. L. 119–60, div. E, title III, § 5302, Dec. 18, 2025, 139 Stat. 1593, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Department [of State] shall issue internal guidelines that authorize and track the use of enclaves deployed in overseas commercial cloud regions for OCONUS systems categorized at the Federal Information Security Modernization Act [of 2014, Pub. L. 113–283, see Tables for classification] (FISMA) high baseline.
 
@@ -93,7 +93,7 @@ Pub. L. 119–60, div. E, title III, § 5302, Dec. 18, 2025, 139 Stat. 1593, p
 
 **Reports on Technology Transformation Projects at the Department**
 
-Pub. L. 119–60, div. E, title III, § 5303, Dec. 18, 2025, 139 Stat. 1593, provided that:
+Pub. L. 119–60, div. E, title III, § 5303, Dec. 18, 2025, 139 Stat. 1593, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -191,7 +191,7 @@ Pub. L. 119–60, div. E, title III, § 5303, Dec. 18, 2025, 139 Stat. 1593, p
 
 **Statement of Policy**
 
-Pub. L. 119–60, div. E, title III, § 5304(b), Dec. 18, 2025, 139 Stat. 1596, provided that:
+Pub. L. 119–60, div. E, title III, § 5304(b), Dec. 18, 2025, 139 Stat. 1596, provided that:
 
 > “It is the policy of the United States—
 
@@ -207,9 +207,9 @@ Pub. L. 119–60, div. E, title III, § 5304(b), Dec. 18, 2025, 139 Stat. 1596
 
 **Support of Policy in United Nations**
 
-Pub. L. 117–263, div. I, title XCV, § 9502(c), Dec. 23, 2022, 136 Stat. 3902, provided that: “The Permanent Representative of the United States to the United Nations should use the voice, vote, and influence of the United States to oppose any measure that is inconsistent with the policy described in section 9501(a) [22 U.S.C. 10301(a)].”
+Pub. L. 117–263, div. I, title XCV, § 9502(c), Dec. 23, 2022, 136 Stat. 3902, provided that: “The Permanent Representative of the United States to the United Nations should use the voice, vote, and influence of the United States to oppose any measure that is inconsistent with the policy described in section 9501(a) [22 U.S.C. 10301(a)].”
 
-## § 10302. International cyberspace and digital policy strategy
+## § 10302. International cyberspace and digital policy strategy
 
 **(a) Strategy required**
 
@@ -283,7 +283,7 @@ Not later than 30 days after the completion of the strategy required under subse
 
 **(2)** not later than 1 year after the inauguration of each new President.
 
-(Pub. L. 117–263, div. I, title XCV, § 9503, Dec. 23, 2022, 136 Stat. 3902.)
+(Pub. L. 117–263, div. I, title XCV, § 9503, Dec. 23, 2022, 136 Stat. 3902.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -291,7 +291,7 @@ Not later than 30 days after the completion of the strategy required under subse
 
 “Secretary” and “Department” as used in this section mean the Secretary and Department of State, unless otherwise specified, see section 9002 of Pub. L. 117–263, set out as a note under section 2651 of this title.
 
-## § 10303. Cybersecurity recruitment and retention
+## § 10303. Cybersecurity recruitment and retention
 
 **(a) Sense of Congress** It is the sense of Congress that improving computer programming language proficiency will improve—
 
@@ -359,7 +359,7 @@ There is authorized to be appropriated $750,000 for each of the fiscal years 202
 
 **(2)** the number of individuals benefitting from the inclusion of such computer programming languages in the Recruitment Language Program and language incentive pay.
 
-(Pub. L. 117–263, div. I, title XCV, § 9506, Dec. 23, 2022, 136 Stat. 3904.)
+(Pub. L. 117–263, div. I, title XCV, § 9506, Dec. 23, 2022, 136 Stat. 3904.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -367,7 +367,7 @@ There is authorized to be appropriated $750,000 for each of the fiscal years 202
 
 For definitions of “Department”, “Secretary”, and “appropriate congressional committees” as used in this section, see section 9002 of Pub. L. 117–263, set out as a note under section 2651 of this title.
 
-## § 10304. Short course on emerging technologies for senior officials
+## § 10304. Short course on emerging technologies for senior officials
 
 **(a) In general**
 
@@ -379,7 +379,7 @@ Not later than 1 year after December 23, 2022, the Secretary shall develop and b
 
 **(2)** in each subsequent year, until the date on which 80 percent of senior officials are certified as having passed such course, an additional 10 percent of senior officials are certified as having passed such course.
 
-(Pub. L. 117–263, div. I, title XCV, § 9507, Dec. 23, 2022, 136 Stat. 3906.)
+(Pub. L. 117–263, div. I, title XCV, § 9507, Dec. 23, 2022, 136 Stat. 3906.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -387,7 +387,7 @@ Not later than 1 year after December 23, 2022, the Secretary shall develop and b
 
 “Secretary” and “Department” as used in this section mean the Secretary and Department of State, see section 9002 of Pub. L. 117–263, set out as a note under section 2651 of this title.
 
-## § 10305. Establishment and expansion of Regional Technology Officer Program
+## § 10305. Establishment and expansion of Regional Technology Officer Program
 
 **(a) Regional Technology Officer Program**
 
@@ -431,13 +431,13 @@ Not later than 180 days after December 23, 2022, and annually thereafter for the
 
 There is authorized to be appropriated up to $25,000,000 for each of the fiscal years 2023 through 2027 to carry out this section.
 
-(Pub. L. 117–263, div. I, title XCV, § 9508, Dec. 23, 2022, 136 Stat. 3906; Pub. L. 118–159, div. G, title LXXIII, § 7301, Dec. 23, 2024, 138 Stat. 2541.)
+(Pub. L. 117–263, div. I, title XCV, § 9508, Dec. 23, 2022, 136 Stat. 3906; Pub. L. 118–159, div. G, title LXXIII, § 7301, Dec. 23, 2024, 138 Stat. 2541.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (a)(1). Pub. L. 118–159 inserted “, and shall be administered by the Bureau for Cyberspace and Digital Policy” before period at end.
+2024—Subsec. (a)(1). Pub. L. 118–159 inserted “, and shall be administered by the Bureau for Cyberspace and Digital Policy” before period at end.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -445,7 +445,7 @@ There is authorized to be appropriated up to $25,000,000 for each of the fiscal 
 
 For definitions of “Secretary”, “appropriate congressional committees”, and “Department” as used in this section, see section 9002 of Pub. L. 117–263, set out as a note under section 2651 of this title.
 
-## § 10306. Vulnerability disclosure policy and bug bounty program report
+## § 10306. Vulnerability disclosure policy and bug bounty program report
 
 **(a) Definitions** In this section:
 
@@ -519,7 +519,7 @@ Not later than 180 days after December 23, 2022, the Secretary shall submit a re
 
 **(J)** any challenges in implementing the bug bounty program and plans for expansion or contraction in the scope of the bug bounty program across Department information systems.
 
-(Pub. L. 117–263, div. I, title XCV, § 9509, Dec. 23, 2022, 136 Stat. 3907.)
+(Pub. L. 117–263, div. I, title XCV, § 9509, Dec. 23, 2022, 136 Stat. 3907.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -527,7 +527,7 @@ Not later than 180 days after December 23, 2022, the Secretary shall submit a re
 
 “Department” and “Secretary” as used in this section mean the Department and Secretary of State, unless otherwise specified, see section 9002 of Pub. L. 117–263, set out as a note under section 2651 of this title.
 
-## § 10307. Digital Connectivity and Cybersecurity Partnership
+## § 10307. Digital Connectivity and Cybersecurity Partnership
 
 **(a) Digital Connectivity and Cybersecurity Partnership** The Secretary is authorized to establish a program, which may be known as the “Digital Connectivity and Cybersecurity Partnership”, to help foreign countries—
 
@@ -569,13 +569,13 @@ Not later than 180 days after December 22, 2023, the Secretary shall submit to t
 
 For the purposes of carrying out this section, funds authorized to be appropriated to carry out chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2346 et seq.) may be made available, notwithstanding any other provision of law to strengthen civilian cybersecurity and information and communications technology capacity, including for participation of foreign law enforcement and military personnel in non-military activities, and for contributions to international organizations and international financial institutions of which the United States is a member. Such funds shall remain available until expended.
 
-(Pub. L. 118–31, div. F, title LXIII, § 6306, Dec. 22, 2023, 137 Stat. 989.)
+(Pub. L. 118–31, div. F, title LXIII, § 6306, Dec. 22, 2023, 137 Stat. 989.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (e), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Act is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (e), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Act is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -583,7 +583,7 @@ The Foreign Assistance Act of 1961, referred to in subsec. (e), is Pub. L. 87–
 
 For definitions of “Secretary” and “appropriate congressional committees” as used in this section, see section 6002 of Pub. L. 118–31, set out as a note under section 2651 of this title.
 
-## § 10308. Cyber protection support for personnel of the Department of State in positions highly vulnerable to cyber attack
+## § 10308. Cyber protection support for personnel of the Department of State in positions highly vulnerable to cyber attack
 
 **(a) Definitions** In this section:
 
@@ -639,13 +639,13 @@ Subject to the availability of resources, the cyber protection support provided 
 
 **(C)** the Permanent Select Committee on Intelligence and the Committee on Oversight and Accountability of the House of Representatives.
 
-(Pub. L. 118–31, div. F, title LXIII, § 6308, Dec. 22, 2023, 137 Stat. 993.)
+(Pub. L. 118–31, div. F, title LXIII, § 6308, Dec. 22, 2023, 137 Stat. 993.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Measures To Protect Department Devices From the Proliferation and Use of Foreign Commercial Spyware**
 
-Pub. L. 118–159, div. G, title LXXIII, § 7302, Dec. 23, 2024, 138 Stat. 2541, provided that:
+Pub. L. 118–159, div. G, title LXXIII, § 7302, Dec. 23, 2024, 138 Stat. 2541, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -685,7 +685,7 @@ Pub. L. 118–159, div. G, title LXXIII, § 7302, Dec. 23, 2024, 138 Stat. 254
 
 For definitions of “Department”, “Secretary”, and “appropriate congressional committees” as used in this section, see section 6002 of Pub. L. 118–31, set out as a note under section 2651 of this title.
 
-## § 10309. Post Data Pilot Program
+## § 10309. Post Data Pilot Program
 
 **(a) Post Data and AI Pilot Program**
 
@@ -721,7 +721,7 @@ Not later than 180 days after December 18, 2025, and annually thereafter for the
 
 **(2)** the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
-(Pub. L. 119–60, div. E, title III, § 5301, Dec. 18, 2025, 139 Stat. 1592.)
+(Pub. L. 119–60, div. E, title III, § 5301, Dec. 18, 2025, 139 Stat. 1592.)
 
 **Statutory Notes and Related Subsidiaries**
 

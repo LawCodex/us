@@ -19,37 +19,37 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2022—Pub. L. 117–168, § 1(b)(2), title VIII, § 807(a)(1), Aug. 10, 2022, 136 Stat. 1759, 1805, added item 5100 and struck out former item 5100 “Definition of ‘claimant’ ”.
+2022—Pub. L. 117–168, § 1(b)(2), title VIII, § 807(a)(1), Aug. 10, 2022, 136 Stat. 1759, 1805, added item 5100 and struck out former item 5100 “Definition of ‘claimant’ ”.
 
-2017—Pub. L. 115–55, § 2(f)(2), (g)(2), (h)(2), (i)(3), (k)(2), Aug. 23, 2017, 131 Stat. 1107–1109, added items 5104A to 5104C and substituted “Supplemental claims” for “Reopening disallowed claims” in item 5108 and “Expedited treatment of returned and remanded claims” for “Expedited treatment of remanded claims” in item 5109B.
+2017—Pub. L. 115–55, § 2(f)(2), (g)(2), (h)(2), (i)(3), (k)(2), Aug. 23, 2017, 131 Stat. 1107–1109, added items 5104A to 5104C and substituted “Supplemental claims” for “Reopening disallowed claims” in item 5108 and “Expedited treatment of returned and remanded claims” for “Expedited treatment of remanded claims” in item 5109B.
 
-2008—Pub. L. 110–389, title II, § 212(b), Oct. 10, 2008, 122 Stat. 4151, added item 5121A.
+2008—Pub. L. 110–389, title II, § 212(b), Oct. 10, 2008, 122 Stat. 4151, added item 5121A.
 
-Pub. L. 110–387, title IX, § 901(a)(5), Oct. 10, 2008, 122 Stat. 4142, substituted “death of a beneficiary” for “death of beneficiary” in item 5121.
+Pub. L. 110–387, title IX, § 901(a)(5), Oct. 10, 2008, 122 Stat. 4142, substituted “death of a beneficiary” for “death of beneficiary” in item 5121.
 
-2003—Pub. L. 108–183, title VII, § 707(a)(2), Dec. 16, 2003, 117 Stat. 2673, added item 5109B.
+2003—Pub. L. 108–183, title VII, § 707(a)(2), Dec. 16, 2003, 117 Stat. 2673, added item 5109B.
 
-2000—Pub. L. 106–475, § 6, Nov. 9, 2000, 114 Stat. 2099, added items 5100, 5102 to 5103A, 5107, and 5126, and struck out former items 5102 “Application forms furnished upon request”, 5103 “Incomplete applications”, and 5107 “Burden of proof; benefit of the doubt”.
+2000—Pub. L. 106–475, § 6, Nov. 9, 2000, 114 Stat. 2099, added items 5100, 5102 to 5103A, 5107, and 5126, and struck out former items 5102 “Application forms furnished upon request”, 5103 “Incomplete applications”, and 5107 “Burden of proof; benefit of the doubt”.
 
-Pub. L. 106–398, § 1 [[div. A], title XVI, § 1611(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–360, directed amendment of table of sections by striking the item relating to section 5017 and inserting item 5107 “Assistance to claimants; benefit of the doubt; burden of proof”. Pub. L. 106–419, title I, § 104(c)(2), Nov. 1, 2000, 114 Stat. 1828, provided that, as of the enactment of Pub. L. 106–419, the amendments made by Pub. L. 106–398, § 1 [[div. A], title XVI, § 1611(b)], were deemed for all purposes not to have taken effect and that Pub. L. 106–398, § 1 [[div. A], title XVI, § 1611(b)], ceased to be in effect.
+Pub. L. 106–398, § 1 [[div. A], title XVI, § 1611(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–360, directed amendment of table of sections by striking the item relating to section 5017 and inserting item 5107 “Assistance to claimants; benefit of the doubt; burden of proof”. Pub. L. 106–419, title I, § 104(c)(2), Nov. 1, 2000, 114 Stat. 1828, provided that, as of the enactment of Pub. L. 106–419, the amendments made by Pub. L. 106–398, § 1 [[div. A], title XVI, § 1611(b)], were deemed for all purposes not to have taken effect and that Pub. L. 106–398, § 1 [[div. A], title XVI, § 1611(b)], ceased to be in effect.
 
-1997—Pub. L. 105–111, § 1(a)(2), Nov. 21, 1997, 111 Stat. 2271, added item 5109A.
+1997—Pub. L. 105–111, § 1(a)(2), Nov. 21, 1997, 111 Stat. 2271, added item 5109A.
 
-1994—Pub. L. 103–446, title III, § 301(c), Nov. 2, 1994, 108 Stat. 4658, added items 5124 and 5125.
+1994—Pub. L. 103–446, title III, § 301(c), Nov. 2, 1994, 108 Stat. 4658, added items 5124 and 5125.
 
-1991—Pub. L. 102–40, title IV, § 402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 3001 to 3023 as 5101 to 5123, respectively.
+1991—Pub. L. 102–40, title IV, § 402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 3001 to 3023 as 5101 to 5123, respectively.
 
-1989—Pub. L. 101–237, title I, § 115(a)(2), Dec. 18, 1989, 103 Stat. 2066, added item 3004.
+1989—Pub. L. 101–237, title I, § 115(a)(2), Dec. 18, 1989, 103 Stat. 2066, added item 3004.
 
-1988—Pub. L. 100–687, div. A, title I, § 103(a)(2), (c)(2), (3), Nov. 18, 1988, 102 Stat. 4107, 4108, substituted “CLAIMS” for “APPLICATIONS” in heading for chapter and in item for subchapter I and added items 3007, 3008, and 3009.
+1988—Pub. L. 100–687, div. A, title I, § 103(a)(2), (c)(2), (3), Nov. 18, 1988, 102 Stat. 4107, 4108, substituted “CLAIMS” for “APPLICATIONS” in heading for chapter and in item for subchapter I and added items 3007, 3008, and 3009.
 
-1982—Pub. L. 97–253, title IV, §§ 401(a)(2), 403(a)(2), Sept. 8, 1982, 96 Stat. 802, added items 3011 and 3023, respectively.
+1982—Pub. L. 97–253, title IV, §§ 401(a)(2), 403(a)(2), Sept. 8, 1982, 96 Stat. 802, added items 3011 and 3023, respectively.
 
-1977—Pub. L. 95–117, title IV, § 402(b)(2), Oct. 3, 1977, 91 Stat. 1066, struck out “by check” after “benefit” in item 3020.
+1977—Pub. L. 95–117, title IV, § 402(b)(2), Oct. 3, 1977, 91 Stat. 1066, struck out “by check” after “benefit” in item 3020.
 
-1976—Pub. L. 94–432, title IV, § 403(1), Sept. 30, 1976, 90 Stat. 1372, added item 3006.
+1976—Pub. L. 94–432, title IV, § 403(1), Sept. 30, 1976, 90 Stat. 1372, added item 3006.
 
-1962—Pub. L. 87–825, § 5(b), Oct. 15, 1962, 76 Stat. 950, struck out items 3004 and 3011.
+1962—Pub. L. 87–825, § 5(b), Oct. 15, 1962, 76 Stat. 950, struck out items 3004 and 3011.
 
 ## SUBCHAPTER I—CLAIMS
 
@@ -57,9 +57,9 @@ Pub. L. 106–398, § 1 [[div. A], title XVI, § 1611(b)], Oct. 30, 2000, 11
 
 **Amendments**
 
-1988—Pub. L. 100–687, div. A, title I, § 103(c)(4), Nov. 18, 1988, 102 Stat. 4108, substituted “CLAIMS” for “APPLICATIONS” in heading for subchapter I.
+1988—Pub. L. 100–687, div. A, title I, § 103(c)(4), Nov. 18, 1988, 102 Stat. 4108, substituted “CLAIMS” for “APPLICATIONS” in heading for subchapter I.
 
-### § 5100. Definitions
+### § 5100. Definitions
 
 In this chapter:
 
@@ -67,21 +67,21 @@ In this chapter:
 
 **(2)** The term “notice” means a communication issued through means (including electronic means) prescribed by the Secretary.
 
-(Added Pub. L. 117–168, title VIII, § 807(a)(1), Aug. 10, 2022, 136 Stat. 1805.)
+(Added Pub. L. 117–168, title VIII, § 807(a)(1), Aug. 10, 2022, 136 Stat. 1805.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5100, added Pub. L. 106–475, § 2, Nov. 9, 2000, 114 Stat. 2096, defined “claimant”, prior to repeal by Pub. L. 117–168, title VIII, § 807(a)(1), Aug. 10, 2022, 136 Stat. 1805.
+A prior section 5100, added Pub. L. 106–475, § 2, Nov. 9, 2000, 114 Stat. 2096, defined “claimant”, prior to repeal by Pub. L. 117–168, title VIII, § 807(a)(1), Aug. 10, 2022, 136 Stat. 1805.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Rule of Construction**
 
-Pub. L. 117–168, title VIII, § 807(b), Aug. 10, 2022, 136 Stat. 1806, provided that: “None of the amendments made by this section [enacting this section, amending sections 5104, 5104B, 5112, 7104, 7105, 7105A, and 7266 of this title, and repealing former section 5100 of this title] shall be construed to apply section 5104(a) of such title [meaning title 38, United States Code] to decisions of the Board of Veterans’ Appeals under chapter 71 of such title.”
+Pub. L. 117–168, title VIII, § 807(b), Aug. 10, 2022, 136 Stat. 1806, provided that: “None of the amendments made by this section [enacting this section, amending sections 5104, 5104B, 5112, 7104, 7105, 7105A, and 7266 of this title, and repealing former section 5100 of this title] shall be construed to apply section 5104(a) of such title [meaning title 38, United States Code] to decisions of the Board of Veterans’ Appeals under chapter 71 of such title.”
 
-### § 5101. Claims and forms
+### § 5101. Claims and forms
 
 **(a)**
 
@@ -141,9 +141,9 @@ Pub. L. 117–168, title VIII, § 807(b), Aug. 10, 2022, 136 Stat. 1806, provi
 
 **(4)**
 
-**(A)** The Secretary may exclude from publication under clauses (i) and (ii) of paragraph (1)(A) 1
+**(A)** The Secretary may exclude from publication under clauses (i) and (ii) of paragraph (1)(A) 1
 
-<sup>1</sup>  So in original. Subpar. (A) of par. (1) does not contain clauses.
+<sup>1</sup> So in original. Subpar. (A) of par. (1) does not contain clauses.
 
 any form described in subparagraph (B) of this paragraph that the Secretary determines could not reasonably be completed to a clinically acceptable standard by someone not an employee or a contractor of the Department.
 
@@ -167,7 +167,7 @@ any form described in subparagraph (B) of this paragraph that the Secretary dete
 
 **(3)** The term “covered non-Department provider” means a medical provider who is not an employee of the Department and who provides examinations with respect to medical disability of applicants for benefits under laws administered by the Secretary pursuant to a contract with the Department.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1225, § 3001; Pub. L. 97–295, § 4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 99–576, title VII, § 701(61), Oct. 28, 1986, 100 Stat. 3296; Pub. L. 101–508, title VIII, § 8053(a), Nov. 5, 1990, 104 Stat. 1388–352; renumbered § 5101 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 108–183, title VII, § 708(c)(2), Dec. 16, 2003, 117 Stat. 2674; Pub. L. 112–154, title V, § 502(a), Aug. 6, 2012, 126 Stat. 1190; Pub. L. 114–315, title I, § 101(a), Dec. 16, 2016, 130 Stat. 1538; Pub. L. 116–315, title II, §§ 2006(a), 2202(b)(1)(E), Jan. 5, 2021, 134 Stat. 4975, 4985; Pub. L. 118–196, § 2, Dec. 23, 2024, 138 Stat. 2671.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1225, § 3001; Pub. L. 97–295, § 4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 99–576, title VII, § 701(61), Oct. 28, 1986, 100 Stat. 3296; Pub. L. 101–508, title VIII, § 8053(a), Nov. 5, 1990, 104 Stat. 1388–352; renumbered § 5101 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 108–183, title VII, § 708(c)(2), Dec. 16, 2003, 117 Stat. 2674; Pub. L. 112–154, title V, § 502(a), Aug. 6, 2012, 126 Stat. 1190; Pub. L. 114–315, title I, § 101(a), Dec. 16, 2016, 130 Stat. 1538; Pub. L. 116–315, title II, §§ 2006(a), 2202(b)(1)(E), Jan. 5, 2021, 134 Stat. 4975, 4985; Pub. L. 118–196, § 2, Dec. 23, 2024, 138 Stat. 2671.)
 
 **Editorial Notes**
 
@@ -183,35 +183,35 @@ Prior section 5101 was renumbered section 8301 of this title.
 
 **Amendments**
 
-2024—Subsec. (d)(1)(A). Pub. L. 118–196, § 2(1)(A), inserted “, including (except as provided in paragraph (4)(A)) all disability benefit questionnaire forms available to personnel of the Veterans Health Administration and covered non-Department providers for the completion of examinations with respect to medical disability of applicants for benefits under laws administered by the Secretary” after “any such disability benefit questionnaire form”.
+2024—Subsec. (d)(1)(A). Pub. L. 118–196, § 2(1)(A), inserted “, including (except as provided in paragraph (4)(A)) all disability benefit questionnaire forms available to personnel of the Veterans Health Administration and covered non-Department providers for the completion of examinations with respect to medical disability of applicants for benefits under laws administered by the Secretary” after “any such disability benefit questionnaire form”.
 
-Subsec. (d)(4). Pub. L. 118–196, § 2(1)(B), added par. (4).
+Subsec. (d)(4). Pub. L. 118–196, § 2(1)(B), added par. (4).
 
-Subsec. (e)(3). Pub. L. 118–196, § 2(2), added par. (3).
+Subsec. (e)(3). Pub. L. 118–196, § 2(2), added par. (3).
 
-2021—Subsec. (a)(1)(B)(i). Pub. L. 116–315, § 2202(b)(1)(E), substituted “2303” for “2302”.
+2021—Subsec. (a)(1)(B)(i). Pub. L. 116–315, § 2202(b)(1)(E), substituted “2303” for “2302”.
 
-Subsecs. (d), (e). Pub. L. 116–315, § 2006(a), added subsec. (d) and redesignated former subsec. (d) as (e).
+Subsecs. (d), (e). Pub. L. 116–315, § 2006(a), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 2016—Subsec. (a)(1). Pub. L. 114–315 designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), a specific” for “A specific”, and added subpar. (B).
 
-2012—Subsec. (a). Pub. L. 112–154, § 502(a)(1), designated existing provisions as par. (1) and added par. (2).
+2012—Subsec. (a). Pub. L. 112–154, § 502(a)(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (c)(1). Pub. L. 112–154, § 502(a)(2)(A), inserted “, signs a form on behalf of an individual to apply for,” after “who applies for” and “, or TIN in the case that the person is not an individual,” after “of such person” and substituted “claimant, dependent,” for “dependent”.
+Subsec. (c)(1). Pub. L. 112–154, § 502(a)(2)(A), inserted “, signs a form on behalf of an individual to apply for,” after “who applies for” and “, or TIN in the case that the person is not an individual,” after “of such person” and substituted “claimant, dependent,” for “dependent”.
 
-Subsec. (c)(2). Pub. L. 112–154, § 502(a)(2)(B), inserted “or TIN” after “social security number” in two places.
+Subsec. (c)(2). Pub. L. 112–154, § 502(a)(2)(B), inserted “or TIN” after “social security number” in two places.
 
-Subsec. (d). Pub. L. 112–154, § 502(a)(3), added subsec. (d).
+Subsec. (d). Pub. L. 112–154, § 502(a)(3), added subsec. (d).
 
 2003—Subsec. (a). Pub. L. 108–183 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 3001 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 3001 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” after “prescribed by the”.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” after “prescribed by the”.
 
-Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-Pub. L. 102–40, § 402(d)(1), substituted “5105” for “3005”.
+Pub. L. 102–40, § 402(d)(1), substituted “5105” for “3005”.
 
 1990—Subsec. (c). Pub. L. 101–508 added subsec. (c).
 
@@ -227,19 +227,19 @@ Amendment by section 2202(b)(1)(E) of Pub. L. 116–315 applicable to deaths tha
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–315, title I, § 101(c), Dec. 16, 2016, 130 Stat. 1540, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to claims for benefits based on a death occurring on or after the date of the enactment of this Act [Dec. 16, 2016].”
+Pub. L. 114–315, title I, § 101(c), Dec. 16, 2016, 130 Stat. 1540, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to claims for benefits based on a death occurring on or after the date of the enactment of this Act [Dec. 16, 2016].”
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–154, title V, § 502(b), Aug. 6, 2012, 126 Stat. 1191, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to claims filed on or after the date of the enactment of this Act [Aug. 6, 2012].”
+Pub. L. 112–154, title V, § 502(b), Aug. 6, 2012, 126 Stat. 1191, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to claims filed on or after the date of the enactment of this Act [Aug. 6, 2012].”
 
 **Rule of Construction**
 
-Pub. L. 116–315, title II, § 2006(e), Jan. 5, 2021, 134 Stat. 4977, provided that: “Nothing in this section [amending this section and enacting provisions set out as notes below] or section 5101(d) of such title [title 38], as added by subsection (a), may be construed to require the Secretary [of Veterans Affairs] to develop any new information technology system or otherwise require the Secretary to make any significant changes to the internet website of the Department.”
+Pub. L. 116–315, title II, § 2006(e), Jan. 5, 2021, 134 Stat. 4977, provided that: “Nothing in this section [amending this section and enacting provisions set out as notes below] or section 5101(d) of such title [title 38], as added by subsection (a), may be construed to require the Secretary [of Veterans Affairs] to develop any new information technology system or otherwise require the Secretary to make any significant changes to the internet website of the Department.”
 
 **Modernization of Department of Veterans Affairs Disability Benefit Questionnaires**
 
-Pub. L. 118–210, title III, § 306, Jan. 2, 2025, 138 Stat. 2793, provided that:
+Pub. L. 118–210, title III, § 306, Jan. 2, 2025, 138 Stat. 2793, provided that:
 
 > **“(a) Requirement for Transmission of Certain Information in Machine-readable Format.—**
 
@@ -273,7 +273,7 @@ Pub. L. 118–210, title III, § 306, Jan. 2, 2025, 138 Stat. 2793, provided t
 
 **Improvement of Provision of Medical Disability Examinations by Contractors**
 
-Pub. L. 118–196, § 3, Dec. 23, 2024, 138 Stat. 2672, provided that:
+Pub. L. 118–196, § 3, Dec. 23, 2024, 138 Stat. 2672, provided that:
 
 > **“(a) Report on Improving Reimbursement for Travel Relating to Medical Disability Examinations.—** Not later than one year after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Veterans Affairs, after consulting with the Secretary of State and the Commissioner of the Social Security Administration, shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report on the efforts of the Secretary to reimburse veterans for expenses incurred traveling to a facility of the Department or of a covered non-Department provider incident to an examination with respect to the medical disability of the veteran for purposes of benefits under the laws administered by the Secretary, regardless of whether the facility is located inside or outside the United States.
 
@@ -293,15 +293,15 @@ Pub. L. 118–196, § 3, Dec. 23, 2024, 138 Stat. 2672, provided that:
 
 **Temporary Halt on Elimination of Medical Examiner Positions in Department of Veterans Affairs**
 
-Pub. L. 116–315, title II, § 2002(b), Jan. 5, 2021, 134 Stat. 4968, provided that: “The Secretary of Veterans Affairs shall temporarily suspend the efforts of the Secretary in effect on the day before the date of the enactment of this Act [Jan. 5, 2021] to eliminate medical examiner positions in the Department of Veterans Affairs until the number of individuals awaiting a medical examination with respect to medical disability of the individuals for benefits under laws administered by the Secretary that are carried out through the Under Secretary for Benefits is equal to or less than the number of such individuals who were awaiting such a medical examination with respect to such purposes on March 1, 2020.”
+Pub. L. 116–315, title II, § 2002(b), Jan. 5, 2021, 134 Stat. 4968, provided that: “The Secretary of Veterans Affairs shall temporarily suspend the efforts of the Secretary in effect on the day before the date of the enactment of this Act [Jan. 5, 2021] to eliminate medical examiner positions in the Department of Veterans Affairs until the number of individuals awaiting a medical examination with respect to medical disability of the individuals for benefits under laws administered by the Secretary that are carried out through the Under Secretary for Benefits is equal to or less than the number of such individuals who were awaiting such a medical examination with respect to such purposes on March 1, 2020.”
 
 **Initial Form**
 
-Pub. L. 116–315, title II, § 2006(c), Jan. 5, 2021, 134 Stat. 4976, provided that: “The Secretary of Veterans Affairs shall begin carrying out section 5101(d)(1) of such title [title 38], as added by subsection (a), by publishing, as described in such section, the form described in such section that was in effect on January 1, 2020.”
+Pub. L. 116–315, title II, § 2006(c), Jan. 5, 2021, 134 Stat. 4976, provided that: “The Secretary of Veterans Affairs shall begin carrying out section 5101(d)(1) of such title [title 38], as added by subsection (a), by publishing, as described in such section, the form described in such section that was in effect on January 1, 2020.”
 
 **Alternate Process**
 
-Pub. L. 116–315, title II, § 2006(d), Jan. 5, 2021, 134 Stat. 4976, provided that:
+Pub. L. 116–315, title II, § 2006(d), Jan. 5, 2021, 134 Stat. 4976, provided that:
 
 > **“(1) Assessment and report.—**
 
@@ -341,7 +341,7 @@ Pub. L. 116–315, title II, § 2006(d), Jan. 5, 2021, 134 Stat. 4976, provide
 
 **Overpayments of Pension to Veterans Receiving Pension From the Department of Veterans Affairs**
 
-Pub. L. 116–315, title VI, § 6003, Jan. 5, 2021, 134 Stat. 5051, provided that:
+Pub. L. 116–315, title VI, § 6003, Jan. 5, 2021, 134 Stat. 5051, provided that:
 
 > **“(a) Guidance and Training for Claims Processors.—** As the Secretary of Veterans Affairs considers necessary, but not less frequently than once every three years until the date that is 10 years after the date of the enactment of this Act [Jan. 5, 2021], the Under Secretary for Benefits of the Department of Veterans Affairs shall update guidance and training curriculum for the processors of claims for pension under chapter 15 of title 38, United States Code, regarding the evaluation of questionable medical expenses on applications for pension, including by updating such guidance with respect to what constitutes a questionable medical expense and by including examples of such expenses.
 
@@ -365,7 +365,7 @@ Pub. L. 116–315, title VI, § 6003, Jan. 5, 2021, 134 Stat. 5051, provided t
 
 **Plan for Processing Legacy Appeals and Implementing New Appeals System**
 
-Pub. L. 115–55, §§ 3–6, Aug. 23, 2017, 131 Stat. 1116–1127, provided that:
+Pub. L. 115–55, §§ 3–6, Aug. 23, 2017, 131 Stat. 1116–1127, provided that:
 
 > **“SEC. 3. COMPREHENSIVE PLAN FOR PROCESSING OF LEGACY APPEALS AND IMPLEMENTING NEW APPEALS SYSTEM.**
 
@@ -757,7 +757,7 @@ Pub. L. 115–55, §§ 3–6, Aug. 23, 2017, 131 Stat. 1116–1127, provided t
 
 **Pilot Programs on Expedited Treatment of Fully Developed Claims and Provision of Checklists to Individuals Submitting Claims**
 
-Pub. L. 110–389, title II, § 221, Oct. 10, 2008, 122 Stat. 4154, provided that:
+Pub. L. 110–389, title II, § 221, Oct. 10, 2008, 122 Stat. 4154, provided that:
 
 > **“(a) Pilot Program on Expedited Treatment of Fully Developed Claims.—**
 
@@ -819,7 +819,7 @@ Pub. L. 110–389, title II, § 221, Oct. 10, 2008, 122 Stat. 4154, provided t
 
 **Study of Performance Measures for Claims Adjudications of the Veterans Benefits Administration**
 
-Pub. L. 110–389, title II, § 226, Oct. 10, 2008, 122 Stat. 4159, provided that:
+Pub. L. 110–389, title II, § 226, Oct. 10, 2008, 122 Stat. 4159, provided that:
 
 > **“(a) Study of Work Credit System and Work Management System Required.—** The Secretary of Veterans Affairs shall conduct a study on the effectiveness of the current employee work credit system and work management system of the Veterans Benefits Administration of the Department of Veterans Affairs, which is used—
 
@@ -867,7 +867,7 @@ Pub. L. 110–389, title II, § 226, Oct. 10, 2008, 122 Stat. 4159, provided t
 
 **Review and Enhancement of Use of Information Technology in Veterans Benefits Administration**
 
-Pub. L. 110–389, title II, § 227, Oct. 10, 2008, 122 Stat. 4160, provided that:
+Pub. L. 110–389, title II, § 227, Oct. 10, 2008, 122 Stat. 4160, provided that:
 
 > **“(a) Review and Comprehensive Plan.—** Not later than one year after the date of the enactment of this Act [Oct. 10, 2008], the Secretary of Veterans Affairs shall—
 
@@ -925,7 +925,7 @@ Pub. L. 110–389, title II, § 227, Oct. 10, 2008, 122 Stat. 4160, provided t
 
 **Temporary Authority for Performance of Medical Disabilities Examinations by Contract Physicians**
 
-Pub. L. 108–183, title VII, § 704, Dec. 16, 2003, 117 Stat. 2672, as amended by Pub. L. 110–389, § 105, Oct. 10, 2008, 122 Stat. 4149; Pub. L. 111–275, title VIII, § 809, Oct. 13, 2010, 124 Stat. 2894; Pub. L. 112–191, title II, § 207, Oct. 5, 2012, 126 Stat. 1440; Pub. L. 113–59, § 14, Dec. 20, 2013, 127 Stat. 663; Pub. L. 113–175, title I, § 106, Sept. 26, 2014, 128 Stat. 1903; Pub. L. 114–58, title IV, § 409, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, § 412, Sept. 29, 2016, 130 Stat. 941; Pub. L. 114–315, title I, § 109(a)(1), Dec. 16, 2016, 130 Stat. 1544; Pub. L. 115–91, div. A, title V, § 529, Dec. 12, 2017, 131 Stat. 1383, provided that:
+Pub. L. 108–183, title VII, § 704, Dec. 16, 2003, 117 Stat. 2672, as amended by Pub. L. 110–389, § 105, Oct. 10, 2008, 122 Stat. 4149; Pub. L. 111–275, title VIII, § 809, Oct. 13, 2010, 124 Stat. 2894; Pub. L. 112–191, title II, § 207, Oct. 5, 2012, 126 Stat. 1440; Pub. L. 113–59, § 14, Dec. 20, 2013, 127 Stat. 663; Pub. L. 113–175, title I, § 106, Sept. 26, 2014, 128 Stat. 1903; Pub. L. 114–58, title IV, § 409, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, § 412, Sept. 29, 2016, 130 Stat. 941; Pub. L. 114–315, title I, § 109(a)(1), Dec. 16, 2016, 130 Stat. 1544; Pub. L. 115–91, div. A, title V, § 529, Dec. 12, 2017, 131 Stat. 1383, provided that:
 
 > **“(a) Authority.—** Using appropriated funds, other than funds available for compensation and pension, the Secretary of Veterans Affairs may provide for the conduct of examinations with respect to the medical disabilities of applicants for benefits under laws administered by the Secretary by persons other than Department of Veterans Affairs employees. The authority under this section is in addition to the authority provided in section 504(b) of the Veterans’ Benefits Improvement Act of 1996 (Public Law 104–275; 38 U.S.C. 5101 note).
 
@@ -949,7 +949,7 @@ Pub. L. 108–183, title VII, § 704, Dec. 16, 2003, 117 Stat. 2672, as amende
 
 **Pilot Program for Use of Contract Health Care Professionals for Disability Examinations**
 
-Pub. L. 118–210, title III, § 304(b), (c), Jan. 2, 2025, 138 Stat. 2792, provided that:
+Pub. L. 118–210, title III, § 304(b), (c), Jan. 2, 2025, 138 Stat. 2792, provided that:
 
 > **“(b) Remedies.—** The Secretary of Veterans Affairs shall take such actions as the Secretary considers appropriate to ensure compliance with section 504(c) of the Veterans’ Benefits Improvements Act of 1996 (Public Law 104–275; 38 U.S.C. 5101 note), as amended by subsection (a).
 
@@ -959,9 +959,9 @@ Pub. L. 118–210, title III, § 304(b), (c), Jan. 2, 2025, 138 Stat. 2792, pr
 
 > **“(2)** the actions of the Secretary under subsection (b).”
 
-Pub. L. 116–315, title II, § 2002(f), Jan. 5, 2021, 134 Stat. 4969, provided that: “The Secretary shall take such actions as may be necessary to hold accountable the providers of medical examinations pursuant to contracts under section 504 of the Veterans’ Benefits Improvements Act of 1996 (Public Law 104–275; 38 U.S.C. 5101 note) who are underperforming in the meeting of the needs of veterans through the performance of medical examinations pursuant to such contracts.”
+Pub. L. 116–315, title II, § 2002(f), Jan. 5, 2021, 134 Stat. 4969, provided that: “The Secretary shall take such actions as may be necessary to hold accountable the providers of medical examinations pursuant to contracts under section 504 of the Veterans’ Benefits Improvements Act of 1996 (Public Law 104–275; 38 U.S.C. 5101 note) who are underperforming in the meeting of the needs of veterans through the performance of medical examinations pursuant to such contracts.”
 
-Pub. L. 104–275, title V, § 504, Oct. 9, 1996, 110 Stat. 3341, as amended by Pub. L. 113–235, div. I, title II, § 241, Dec. 16, 2014, 128 Stat. 2568; Pub. L. 114–315, title I, § 109(a)(2), Dec. 16, 2016, 130 Stat. 1544; Pub. L. 115–141, div. J, title II, § 256, Mar. 23, 2018, 132 Stat. 826; Pub. L. 115–407, title VII, § 702(b), Dec. 31, 2018, 132 Stat. 5381; Pub. L. 116–315, title II, § 2002(a)(1), (4), Jan. 5, 2021, 134 Stat. 4967, 4968; Pub. L. 118–19, § 1, Oct. 6, 2023, 137 Stat. 106; Pub. L. 118–210, title III, §§ 304(a), (d), 305(a), Jan. 2, 2025, 138 Stat. 2792, provided that:
+Pub. L. 104–275, title V, § 504, Oct. 9, 1996, 110 Stat. 3341, as amended by Pub. L. 113–235, div. I, title II, § 241, Dec. 16, 2014, 128 Stat. 2568; Pub. L. 114–315, title I, § 109(a)(2), Dec. 16, 2016, 130 Stat. 1544; Pub. L. 115–141, div. J, title II, § 256, Mar. 23, 2018, 132 Stat. 826; Pub. L. 115–407, title VII, § 702(b), Dec. 31, 2018, 132 Stat. 5381; Pub. L. 116–315, title II, § 2002(a)(1), (4), Jan. 5, 2021, 134 Stat. 4967, 4968; Pub. L. 118–19, § 1, Oct. 6, 2023, 137 Stat. 106; Pub. L. 118–210, title III, §§ 304(a), (d), 305(a), Jan. 2, 2025, 138 Stat. 2792, provided that:
 
 > **“(a) Authority.—** The Secretary of Veterans Affairs, acting through the Under Secretary for Benefits, may conduct a pilot program under this section under which examinations with respect to medical disability of applicants for benefits under laws administered by the Secretary that are carried out through the Under Secretary for Benefits may be made by persons other than employees of the Department of Veterans Affairs. Any such examination shall be performed pursuant to contracts entered into by the Under Secretary for Benefits with those persons.
 
@@ -993,23 +993,23 @@ Pub. L. 104–275, title V, § 504, Oct. 9, 1996, 110 Stat. 3341, as amended b
 
 > **“(f) Certain Information Provided to Health Care Professional.—** The Secretary shall provide to a health care professional who performs an examination under subsection (a), or a contractor performing a contract under such subsection, the contact information of any agent or attorney recognized by the Secretary under chapter 59 of title 38, United States Code, with regards to a claim for benefits that gives rise to such examination.”
 
-[Pub. L. 118–210, title III, § 305(b), Jan. 2, 2025, 138 Stat. 2792, provided that: “The amendment made by this section [amending section 504 of Pub. L. 104–275, set out above] shall apply to an examination described in subsection (a) of such section that is performed on or after the date of the enactment of this Act [Jan. 2, 2025].” ]
+[Pub. L. 118–210, title III, § 305(b), Jan. 2, 2025, 138 Stat. 2792, provided that: “The amendment made by this section [amending section 504 of Pub. L. 104–275, set out above] shall apply to an examination described in subsection (a) of such section that is performed on or after the date of the enactment of this Act [Jan. 2, 2025].” ]
 
-[Pub. L. 116–315, title II, § 2002(a)(2), Jan. 5, 2021, 134 Stat. 4967, provided that: “The purpose of the amendment made by paragraph (1) [amending section 504 of Pub. L. 104–275, set out above] is to expand the license portability for physicians assistants, nurse practitioners, audiologists, and psychologists to supplement the capacity of employees of the Department to provide medical examinations described in subsection (b) [set out as a note above].” ]
+[Pub. L. 116–315, title II, § 2002(a)(2), Jan. 5, 2021, 134 Stat. 4967, provided that: “The purpose of the amendment made by paragraph (1) [amending section 504 of Pub. L. 104–275, set out above] is to expand the license portability for physicians assistants, nurse practitioners, audiologists, and psychologists to supplement the capacity of employees of the Department to provide medical examinations described in subsection (b) [set out as a note above].” ]
 
-[Pub. L. 116–315, title II, § 2002(a)(3), Jan. 5, 2021, 134 Stat. 4968, provided that: “The amendment made by paragraph (1) [amending section 504 of Pub. L. 104–275, set out above] shall not be construed to affect the license portability for physicians in effect under section 504(c) of such Act [Pub. L. 104–275] as in effect on the day before the date of the enactment of this Act [Jan. 5, 2021].” ]
+[Pub. L. 116–315, title II, § 2002(a)(3), Jan. 5, 2021, 134 Stat. 4968, provided that: “The amendment made by paragraph (1) [amending section 504 of Pub. L. 104–275, set out above] shall not be construed to affect the license portability for physicians in effect under section 504(c) of such Act [Pub. L. 104–275] as in effect on the day before the date of the enactment of this Act [Jan. 5, 2021].” ]
 
-[Pub. L. 116–315, title II, § 2002(a)(4), Jan. 5, 2021, 134 Stat. 4968, as amended by Pub. L. 118–19, § 1, Oct. 6, 2023, 137 Stat. 106; Pub. L. 119–37, div. G, title II, § 7203, Nov. 12, 2025, 139 Stat. 650, provided that: “On the date that is six years after the date of the enactment of this Act [Jan. 5, 2021], subsection (c) of such section [section 504(c) of Pub. L. 104–275, set out above] shall read as it read on the day before the date of the enactment of this Act.” ]
+[Pub. L. 116–315, title II, § 2002(a)(4), Jan. 5, 2021, 134 Stat. 4968, as amended by Pub. L. 118–19, § 1, Oct. 6, 2023, 137 Stat. 106; Pub. L. 119–37, div. G, title II, § 7203, Nov. 12, 2025, 139 Stat. 650, provided that: “On the date that is six years after the date of the enactment of this Act [Jan. 5, 2021], subsection (c) of such section [section 504(c) of Pub. L. 104–275, set out above] shall read as it read on the day before the date of the enactment of this Act.” ]
 
 **Expedited Treatment of Remanded Claims**
 
-Pub. L. 103–446, title III, § 302, Nov. 2, 1994, 108 Stat. 4658, as amended by Pub. L. 105–368, title V, § 512(c), Nov. 11, 1998, 112 Stat. 3342, provided that Secretary of Veterans Affairs was to take necessary actions to provide for expeditious treatment, by the Board of Veterans’ Appeals and by regional offices of the Veterans Benefits Administration, of any claim that had been remanded by the Board of Veterans’ Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action, prior to repeal by Pub. L. 108–183, title VII, § 707(c), Dec. 16, 2003, 117 Stat. 2673.
+Pub. L. 103–446, title III, § 302, Nov. 2, 1994, 108 Stat. 4658, as amended by Pub. L. 105–368, title V, § 512(c), Nov. 11, 1998, 112 Stat. 3342, provided that Secretary of Veterans Affairs was to take necessary actions to provide for expeditious treatment, by the Board of Veterans’ Appeals and by regional offices of the Veterans Benefits Administration, of any claim that had been remanded by the Board of Veterans’ Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action, prior to repeal by Pub. L. 108–183, title VII, § 707(c), Dec. 16, 2003, 117 Stat. 2673.
 
 **Veterans’ Claims Adjudication Commission**
 
-Pub. L. 103–446, title IV, Nov. 2, 1994, 108 Stat. 4659, as amended by Pub. L. 104–275, title V, § 503(a), Oct. 9, 1996, 110 Stat. 3341, established Veterans’ Claims Adjudication Commission which was directed to conduct comprehensive evaluation and assessment of Department of Veterans Affairs system for disposition of claims for veterans benefits and of system for delivery of such benefits, together with any related issues determined to be relevant to study, for purpose of determining means of increasing efficiency of system, means of reducing number of claims under system for which final disposition is pending, and means of enhancing ability of Department of Veterans Affairs to achieve final determination regarding claims under system in prompt and appropriate manner, and further provided for membership and powers of Commission, personnel matters, definitions and funding, and for submission of preliminary report to Secretary of Veterans Affairs and Congress not later than one year after Nov. 2, 1994, submission of final report not later than Dec. 31, 1996, and for termination of Commission 90 days after submission of final report.
+Pub. L. 103–446, title IV, Nov. 2, 1994, 108 Stat. 4659, as amended by Pub. L. 104–275, title V, § 503(a), Oct. 9, 1996, 110 Stat. 3341, established Veterans’ Claims Adjudication Commission which was directed to conduct comprehensive evaluation and assessment of Department of Veterans Affairs system for disposition of claims for veterans benefits and of system for delivery of such benefits, together with any related issues determined to be relevant to study, for purpose of determining means of increasing efficiency of system, means of reducing number of claims under system for which final disposition is pending, and means of enhancing ability of Department of Veterans Affairs to achieve final determination regarding claims under system in prompt and appropriate manner, and further provided for membership and powers of Commission, personnel matters, definitions and funding, and for submission of preliminary report to Secretary of Veterans Affairs and Congress not later than one year after Nov. 2, 1994, submission of final report not later than Dec. 31, 1996, and for termination of Commission 90 days after submission of final report.
 
-### § 5102. Application forms furnished upon request; notice to claimants of incomplete applications
+### § 5102. Application forms furnished upon request; notice to claimants of incomplete applications
 
 **(a) Furnishing Forms.—** Upon request made by any person claiming or applying for, or expressing an intent to claim or apply for, a benefit under the laws administered by the Secretary, the Secretary shall furnish such person, free of all expense, all instructions and forms necessary to apply for that benefit.
 
@@ -1021,13 +1021,13 @@ Pub. L. 103–446, title IV, Nov. 2, 1994, 108 Stat. 4659, as amended by Pub. L.
 
 **(2)** This subsection shall not apply to any application or claim for Government life insurance benefits.
 
-(Added Pub. L. 106–475, § 3(a), Nov. 9, 2000, 114 Stat. 2096; amended Pub. L. 108–183, title VII, § 701(a), Dec. 16, 2003, 117 Stat. 2670.)
+(Added Pub. L. 106–475, § 3(a), Nov. 9, 2000, 114 Stat. 2096; amended Pub. L. 108–183, title VII, § 701(a), Dec. 16, 2003, 117 Stat. 2670.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5102, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1225, § 3002; renumbered § 5102, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405, related to application forms, prior to repeal by Pub. L. 106–475, § 3(a), Nov. 9, 2000, 114 Stat. 2096.
+A prior section 5102, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1225, § 3002; renumbered § 5102, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405, related to application forms, prior to repeal by Pub. L. 106–475, § 3(a), Nov. 9, 2000, 114 Stat. 2096.
 
 Another prior section 5102 was renumbered section 8302 of this title.
 
@@ -1039,9 +1039,9 @@ Another prior section 5102 was renumbered section 8302 of this title.
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–183, title VII, § 701(c), Dec. 16, 2003, 117 Stat. 2670, provided that: “The amendments made by this section [amending this section and section 5103 of this title] shall take effect as if enacted on November 9, 2000, immediately after the enactment of the Veterans Claims Assistance Act of 2000 (Public Law 106–475; 114 Stat. 2096).”
+Pub. L. 108–183, title VII, § 701(c), Dec. 16, 2003, 117 Stat. 2670, provided that: “The amendments made by this section [amending this section and section 5103 of this title] shall take effect as if enacted on November 9, 2000, immediately after the enactment of the Veterans Claims Assistance Act of 2000 (Public Law 106–475; 114 Stat. 2096).”
 
-### § 5103. Notice to claimants of required information and evidence
+### § 5103. Notice to claimants of required information and evidence
 
 **(a) Required Information and Evidence.—**
 
@@ -1083,33 +1083,33 @@ Pub. L. 108–183, title VII, § 701(c), Dec. 16, 2003, 117 Stat. 2670, provid
 
 **(B)** For purposes of this paragraph, the term “maximum benefit” means the highest evaluation assignable in accordance with the evidence of record, as long as such evidence is adequate for rating purposes and sufficient to grant the earliest possible effective date in accordance with section 5110 of this title.
 
-(Added Pub. L. 106–475, § 3(a), Nov. 9, 2000, 114 Stat. 2096; amended Pub. L. 107–14, § 8(a)(12), June 5, 2001, 115 Stat. 35; Pub. L. 108–183, title VII, § 701(b), Dec. 16, 2003, 117 Stat. 2670; Pub. L. 110–389, title I, § 101(a), Oct. 10, 2008, 122 Stat. 4147; Pub. L. 112–154, title V, § 504(a), Aug. 6, 2012, 126 Stat. 1191; Pub. L. 115–55, § 2(b), Aug. 23, 2017, 131 Stat. 1105.)
+(Added Pub. L. 106–475, § 3(a), Nov. 9, 2000, 114 Stat. 2096; amended Pub. L. 107–14, § 8(a)(12), June 5, 2001, 115 Stat. 35; Pub. L. 108–183, title VII, § 701(b), Dec. 16, 2003, 117 Stat. 2670; Pub. L. 110–389, title I, § 101(a), Oct. 10, 2008, 122 Stat. 4147; Pub. L. 112–154, title V, § 504(a), Aug. 6, 2012, 126 Stat. 1191; Pub. L. 115–55, § 2(b), Aug. 23, 2017, 131 Stat. 1105.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 5103, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1225, § 3003; Pub. L. 99–570, title XI, § 11007(a)(1), Oct. 27, 1986, 100 Stat. 3207–170; renumbered § 5103, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405, related to incomplete applications, prior to repeal by Pub. L. 106–475, § 3(a), Nov. 9, 2000, 114 Stat. 2096.
+A prior section 5103, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1225, § 3003; Pub. L. 99–570, title XI, § 11007(a)(1), Oct. 27, 1986, 100 Stat. 3207–170; renumbered § 5103, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405, related to incomplete applications, prior to repeal by Pub. L. 106–475, § 3(a), Nov. 9, 2000, 114 Stat. 2096.
 
 Another prior section 5103 was renumbered section 8303 of this title.
 
 **Amendments**
 
-2017—Subsec. (a)(1). Pub. L. 115–55, § 2(b)(1), substituted “Except as provided in paragraph (3), the” for “The”.
+2017—Subsec. (a)(1). Pub. L. 115–55, § 2(b)(1), substituted “Except as provided in paragraph (3), the” for “The”.
 
-Subsec. (a)(2)(B)(i). Pub. L. 115–55, § 2(b)(2), substituted “or a supplemental claim;” for “, a claim for reopening a prior decision on a claim, or a claim for an increase in benefits;”.
+Subsec. (a)(2)(B)(i). Pub. L. 115–55, § 2(b)(2), substituted “or a supplemental claim;” for “, a claim for reopening a prior decision on a claim, or a claim for an increase in benefits;”.
 
-Subsec. (a)(3). Pub. L. 115–55, § 2(b)(3), added par. (3).
+Subsec. (a)(3). Pub. L. 115–55, § 2(b)(3), added par. (3).
 
-2012—Subsec. (a)(1). Pub. L. 112–154, § 504(a)(1), substituted “The” for “Upon receipt of a complete or substantially complete application, the” and “provide to” for “notify” and inserted “by the most effective means available, including electronic communication or notification in writing, notice” before “of any information”.
+2012—Subsec. (a)(1). Pub. L. 112–154, § 504(a)(1), substituted “The” for “Upon receipt of a complete or substantially complete application, the” and “provide to” for “notify” and inserted “by the most effective means available, including electronic communication or notification in writing, notice” before “of any information”.
 
-Subsec. (b)(4), (5). Pub. L. 112–154, § 504(a)(2), added pars. (4) and (5).
+Subsec. (b)(4), (5). Pub. L. 112–154, § 504(a)(2), added pars. (4) and (5).
 
 2008—Subsec. (a). Pub. L. 110–389 designated existing provisions as par. (1) and added par. (2).
 
-2003—Subsec. (b)(1). Pub. L. 108–183, § 701(b)(1), substituted “such information or evidence must be received by the Secretary within one year from the date such notice is sent” for “if such information or evidence is not received by the Secretary within one year from the date of such notification, no benefit may be paid or furnished by reason of the claimant’s application”.
+2003—Subsec. (b)(1). Pub. L. 108–183, § 701(b)(1), substituted “such information or evidence must be received by the Secretary within one year from the date such notice is sent” for “if such information or evidence is not received by the Secretary within one year from the date of such notification, no benefit may be paid or furnished by reason of the claimant’s application”.
 
-Subsec. (b)(3). Pub. L. 108–183, § 701(b)(2), added par. (3).
+Subsec. (b)(3). Pub. L. 108–183, § 701(b)(2), added par. (3).
 
 2001—Subsec. (b)(1). Pub. L. 107–14 substituted “one year” for “1 year”.
 
@@ -1121,7 +1121,7 @@ Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary o
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–154, title V, § 504(c), Aug. 6, 2012, 126 Stat. 1192, provided that:
+Pub. L. 112–154, title V, § 504(c), Aug. 6, 2012, 126 Stat. 1192, provided that:
 
 > **“(1) In general.—** The amendments made by subsection (a) [amending this section] shall take effect on the date that is 180 days after the date of the enactment of this Act [Aug. 6, 2012] and shall apply with respect to notification obligations of the Secretary of Veterans Affairs on or after such date.
 
@@ -1133,15 +1133,15 @@ Amendment effective as if enacted Nov. 9, 2000, immediately after the enactment 
 
 **Construction**
 
-Pub. L. 112–154, title V, § 504(b), Aug. 6, 2012, 126 Stat. 1192, provided that: “Nothing in the amendments made by subsection (a) [amending this section] shall be construed as eliminating any requirement with respect to the contents of a notice under section 5103 of title 38, United States Code, that is required under regulations prescribed pursuant to subsection (a)(2) of such section as of the date of the enactment of this Act [Aug. 6, 2012].”
+Pub. L. 112–154, title V, § 504(b), Aug. 6, 2012, 126 Stat. 1192, provided that: “Nothing in the amendments made by subsection (a) [amending this section] shall be construed as eliminating any requirement with respect to the contents of a notice under section 5103 of title 38, United States Code, that is required under regulations prescribed pursuant to subsection (a)(2) of such section as of the date of the enactment of this Act [Aug. 6, 2012].”
 
 **Applicability of Regulations**
 
-Pub. L. 110–389, title I, § 101(b), Oct. 10, 2008, 122 Stat. 4148, provided that: “The regulations required by paragraph (2) of section 5103(a) of title 38, United States Code (as amended by subsection (a) of this section), shall apply with respect to notices provided to claimants on or after the effective date of such regulations.”
+Pub. L. 110–389, title I, § 101(b), Oct. 10, 2008, 122 Stat. 4148, provided that: “The regulations required by paragraph (2) of section 5103(a) of title 38, United States Code (as amended by subsection (a) of this section), shall apply with respect to notices provided to claimants on or after the effective date of such regulations.”
 
 **Readjudication of Certain Claims; Notice**
 
-Pub. L. 108–183, title VII, § 701(d), (e), Dec. 16, 2003, 117 Stat. 2670, 2671, provided that:
+Pub. L. 108–183, title VII, § 701(d), (e), Dec. 16, 2003, 117 Stat. 2670, 2671, provided that:
 
 > **“(d) Procedures for Readjudication of Certain Claims.—**
 
@@ -1171,7 +1171,7 @@ Pub. L. 108–183, title VII, § 701(d), (e), Dec. 16, 2003, 117 Stat. 2670, 2
 
 > **“(2)** to provide for a special notice with respect to this section and the amendments made by this section.”
 
-### § 5103A. Duty to assist claimants
+### § 5103A. Duty to assist claimants
 
 **(a) Duty To Assist.—**
 
@@ -1257,7 +1257,7 @@ Pub. L. 108–183, title VII, § 701(d), (e), Dec. 16, 2003, 117 Stat. 2670, 2
 
 **(i) Other Assistance Not Precluded.—** Nothing in this section shall be construed as precluding the Secretary from providing such other assistance under subsection (a) to a claimant in substantiating a claim as the Secretary considers appropriate.
 
-(Added Pub. L. 106–475, § 3(a), Nov. 9, 2000, 114 Stat. 2097; amended Pub. L. 112–154, title V, § 505(a), (b), Aug. 6, 2012, 126 Stat. 1192; Pub. L. 115–55, § 2(c), (d), Aug. 23, 2017, 131 Stat. 1105; Pub. L. 116–283, div. A, title IX, § 926(a)(51), Jan. 1, 2021, 134 Stat. 3830.)
+(Added Pub. L. 106–475, § 3(a), Nov. 9, 2000, 114 Stat. 2097; amended Pub. L. 112–154, title V, § 505(a), (b), Aug. 6, 2012, 126 Stat. 1192; Pub. L. 115–55, § 2(c), (d), Aug. 23, 2017, 131 Stat. 1105; Pub. L. 116–283, div. A, title IX, § 926(a)(51), Jan. 1, 2021, 134 Stat. 3830.)
 
 **Editorial Notes**
 
@@ -1265,15 +1265,15 @@ Pub. L. 108–183, title VII, § 701(d), (e), Dec. 16, 2003, 117 Stat. 2670, 2
 
 2021—Subsecs. (c)(1)(A), (d)(2)(B). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
-2017—Subsec. (e). Pub. L. 115–55, § 2(d)(2), added subsec. (e). Former subsec. (e) redesignated (g).
+2017—Subsec. (e). Pub. L. 115–55, § 2(d)(2), added subsec. (e). Former subsec. (e) redesignated (g).
 
-Subsec. (f). Pub. L. 115–55, § 2(d)(2), added subsec. (f). Former subsec. (f) redesignated (h).
+Subsec. (f). Pub. L. 115–55, § 2(d)(2), added subsec. (f). Former subsec. (f) redesignated (h).
 
-Pub. L. 115–55, § 2(c), substituted “readjudicate” for “reopen” and “relevant” for “material”.
+Pub. L. 115–55, § 2(c), substituted “readjudicate” for “reopen” and “relevant” for “material”.
 
-Subsecs. (g) to (i). Pub. L. 115–55, § 2(d)(1), redesignated subsecs. (e) to (g) as (g) to (i), respectively.
+Subsecs. (g) to (i). Pub. L. 115–55, § 2(d)(1), redesignated subsecs. (e) to (g) as (g) to (i), respectively.
 
-2012—Subsec. (b). Pub. L. 112–154, § 505(a), amended subsec. (b) generally. Prior to amendment, text read as follows:
+2012—Subsec. (b). Pub. L. 112–154, § 505(a), amended subsec. (b) generally. Prior to amendment, text read as follows:
 
 “(1) As part of the assistance provided under subsection (a), the Secretary shall make reasonable efforts to obtain relevant records (including private records) that the claimant adequately identifies to the Secretary and authorizes the Secretary to obtain.
 
@@ -1287,7 +1287,7 @@ Subsecs. (g) to (i). Pub. L. 115–55, § 2(d)(1), redesignated subsecs. (e) t
 
 “(3) Whenever the Secretary attempts to obtain records from a Federal department or agency under this subsection or subsection (c), the efforts to obtain those records shall continue until the records are obtained unless it is reasonably certain that such records do not exist or that further efforts to obtain those records would be futile.”
 
-Subsec. (c). Pub. L. 112–154, § 505(b), amended subsec. (c) generally. Prior to amendment, text read as follows: “In the case of a claim for disability compensation, the assistance provided by the Secretary under subsection (b) shall include obtaining the following records if relevant to the claim:
+Subsec. (c). Pub. L. 112–154, § 505(b), amended subsec. (c) generally. Prior to amendment, text read as follows: “In the case of a claim for disability compensation, the assistance provided by the Secretary under subsection (b) shall include obtaining the following records if relevant to the claim:
 
 “(1) The claimant’s service medical records and, if the claimant has furnished the Secretary information sufficient to locate such records, other relevant records pertaining to the claimant’s active military, naval, or air service that are held or maintained by a governmental entity.
 
@@ -1303,13 +1303,13 @@ Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary o
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–154, title V, § 505(c), Aug. 6, 2012, 126 Stat. 1193, provided that:
+Pub. L. 112–154, title V, § 505(c), Aug. 6, 2012, 126 Stat. 1193, provided that:
 
 > **“(1) In general.—** The amendments made by subsections (a) and (b) [amending this section] shall take effect on the date that is 180 days after the date of the enactment of this Act [Aug. 6, 2012] and shall apply with respect to assistance obligations of the Secretary of Veterans Affairs on or after such date.
 
 > **“(2) Construction.—** Nothing in this section [amending this section] or the amendments made by this section shall be construed to require the Secretary to carry out assistance in accordance with requirements of section 5103A of title 38, United States Code, as in effect on the day before the effective date established in paragraph (1) on or after such effective date.”
 
-### § 5104. Decisions and notices of decisions
+### § 5104. Decisions and notices of decisions
 
 **(a)** In the case of a decision by the Secretary under section 511 of this title affecting the provision of benefits to a claimant, the Secretary shall, on a timely basis, provide to the claimant (and to the claimant’s representative) notice of such decision. The notice shall include an explanation of the procedure for obtaining review of the decision.
 
@@ -1337,7 +1337,7 @@ Pub. L. 112–154, title V, § 505(c), Aug. 6, 2012, 126 Stat. 1193, provided 
 
 **(2)** publish such recommendations on a publicly available website of the Department.
 
-(Added Pub. L. 101–237, title I, § 115(a)(1), Dec. 18, 1989, 103 Stat. 2065, § 3004; renumbered § 5104, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–54, § 14(d)(1), June 13, 1991, 105 Stat. 285; Pub. L. 103–446, title XII, § 1201(d)(15), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 115–55, § 2(e), Aug. 23, 2017, 131 Stat. 1106; Pub. L. 117–168, title VIII, § 807(a)(2), Aug. 10, 2022, 136 Stat. 1806.)
+(Added Pub. L. 101–237, title I, § 115(a)(1), Dec. 18, 1989, 103 Stat. 2065, § 3004; renumbered § 5104, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–54, § 14(d)(1), June 13, 1991, 105 Stat. 285; Pub. L. 103–446, title XII, § 1201(d)(15), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 115–55, § 2(e), Aug. 23, 2017, 131 Stat. 1106; Pub. L. 117–168, title VIII, § 807(a)(2), Aug. 10, 2022, 136 Stat. 1806.)
 
 **Editorial Notes**
 
@@ -1365,17 +1365,17 @@ Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary o
 
 **Effective Date**
 
-Pub. L. 101–237, title I, § 115(b), Dec. 18, 1989, 103 Stat. 2066, provided that: “Section 3004 [now 5104] of title 38, United States Code, as added by subsection (a), shall apply with respect to decisions by the Secretary of Veterans Affairs made after January 31, 1990.”
+Pub. L. 101–237, title I, § 115(b), Dec. 18, 1989, 103 Stat. 2066, provided that: “Section 3004 [now 5104] of title 38, United States Code, as added by subsection (a), shall apply with respect to decisions by the Secretary of Veterans Affairs made after January 31, 1990.”
 
 **Rule of Construction**
 
 Amendment by Pub. L. 117–168 not to be construed to apply subsec. (a) of this section to decisions of the Board of Veterans’ Appeals under chapter 71 of this title, see section 807(b) of Pub. L. 117–168, set out as a note under section 5100 of this title.
 
-### § 5104A. Binding nature of favorable findings
+### § 5104A. Binding nature of favorable findings
 
 Any finding favorable to the claimant as described in section 5104(b)(4) of this title shall be binding on all subsequent adjudicators within the Department, unless clear and convincing evidence is shown to the contrary to rebut such favorable finding.
 
-(Added Pub. L. 115–55, § 2(f)(1), Aug. 23, 2017, 131 Stat. 1107.)
+(Added Pub. L. 115–55, § 2(f)(1), Aug. 23, 2017, 131 Stat. 1107.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1383,7 +1383,7 @@ Any finding favorable to the claimant as described in section 5104(b)(4) of this
 
 Section applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as an Effective Date of 2017 Amendment note under section 101 of this title, and bracketed note thereunder.
 
-### § 5104B. Higher-level review by the agency of original jurisdiction
+### § 5104B. Higher-level review by the agency of original jurisdiction
 
 **(a) In General.—**
 
@@ -1411,7 +1411,7 @@ Section applicable to all claims for which the Secretary of Veterans Affairs pro
 
 **(e) De Novo Review.—** A review of the decision of the agency of original jurisdiction by a higher-level adjudicator within the agency of original jurisdiction shall be de novo.
 
-(Added Pub. L. 115–55, § 2(g)(1), Aug. 23, 2017, 131 Stat. 1107; amended Pub. L. 117–168, title VIII, § 807(a)(3), Aug. 10, 2022, 136 Stat. 1806.)
+(Added Pub. L. 115–55, § 2(g)(1), Aug. 23, 2017, 131 Stat. 1107; amended Pub. L. 117–168, title VIII, § 807(a)(3), Aug. 10, 2022, 136 Stat. 1806.)
 
 **Editorial Notes**
 
@@ -1429,7 +1429,7 @@ Section applicable to all claims for which the Secretary of Veterans Affairs pro
 
 Amendment by Pub. L. 117–168 not to be construed to apply section 5104(a) of this title to decisions of the Board of Veterans’ Appeals under chapter 71 of this title, see section 807(b) of Pub. L. 117–168, set out as a note under section 5100 of this title.
 
-### § 5104C. Options following decision by agency of original jurisdiction
+### § 5104C. Options following decision by agency of original jurisdiction
 
 **(a) Within One Year of Decision.—**
 
@@ -1463,7 +1463,7 @@ Amendment by Pub. L. 117–168 not to be construed to apply section 5104(a) of t
 
 **(b) More Than One Year After Decision.—** In any case in which the Secretary renders a decision on a claim and more than one year has passed since the date on which the agency of original jurisdiction issues a decision with respect to that claim, the claimant may file a supplemental claim under section 5108 of this title.
 
-(Added Pub. L. 115–55, § 2(h)(1), Aug. 23, 2017, 131 Stat. 1108.)
+(Added Pub. L. 115–55, § 2(h)(1), Aug. 23, 2017, 131 Stat. 1108.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1471,19 +1471,19 @@ Amendment by Pub. L. 117–168 not to be construed to apply section 5104(a) of t
 
 Section applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as an Effective Date of 2017 Amendment note under section 101 of this title, and bracketed note thereunder.
 
-### § 5105. Joint applications for social security and dependency and indemnity compensation
+### § 5105. Joint applications for social security and dependency and indemnity compensation
 
 **(a)** The Secretary and the Commissioner of Social Security may jointly prescribe forms for use by survivors of members and former members of the uniformed services in filing application for benefits under chapter 13 of this title and title II of the Social Security Act (42 U.S.C. 401 et seq.). Such forms shall request information sufficient to constitute an application for benefits under both chapter 13 of this title and title II of the Social Security Act (42 U.S.C. 401 et seq.).
 
 **(b)** When an application on any document indicating an intent to apply for survivor benefits is filed with either the Secretary or the Commissioner of Social Security, it shall be deemed to be an application for benefits under both chapter 13 of this title and title II of the Social Security Act (42 U.S.C. 401 et seq.). A copy of each such application filed with either the Secretary or the Commissioner, together with any additional information and supporting documents (or certifications thereof) which may have been received by the Secretary or the Commissioner with such application, and which may be needed by the other official in connection therewith, shall be transmitted by the Secretary or the Commissioner receiving the application to the other official. The preceding sentence shall not prevent the Secretary and the Commissioner of Social Security from requesting the applicant, or any other individual, to furnish such additional information as may be necessary for purposes of chapter 13 of this title and title II of the Social Security Act (42 U.S.C. 401 et seq.), respectively.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1226, § 3005; Pub. L. 97–295, § 4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–160, title VII, § 702(16), Nov. 21, 1983, 97 Stat. 1010; renumbered § 5105, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(9), Aug. 6, 1991, 105 Stat. 405; Pub. L. 103–296, title I, § 108(k), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 112–154, title V, § 503, Aug. 6, 2012, 126 Stat. 1191.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1226, § 3005; Pub. L. 97–295, § 4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–160, title VII, § 702(16), Nov. 21, 1983, 97 Stat. 1010; renumbered § 5105, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(9), Aug. 6, 1991, 105 Stat. 405; Pub. L. 103–296, title I, § 108(k), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 112–154, title V, § 503, Aug. 6, 2012, 126 Stat. 1191.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Prior Provisions**
 
@@ -1491,19 +1491,19 @@ Prior section 5105 was renumbered section 8305 of this title.
 
 **Amendments**
 
-2012—Subsec. (a). Pub. L. 112–154, § 503(1), substituted “may jointly” for “shall jointly” and “Such forms” for “Each such form”.
+2012—Subsec. (a). Pub. L. 112–154, § 503(1), substituted “may jointly” for “shall jointly” and “Such forms” for “Each such form”.
 
-Subsec. (b). Pub. L. 112–154, § 503(2), substituted “on any document indicating an intent to apply for survivor benefits” for “on such a form”.
+Subsec. (b). Pub. L. 112–154, § 503(2), substituted “on any document indicating an intent to apply for survivor benefits” for “on such a form”.
 
-1994—Subsec. (a). Pub. L. 103–296, § 108(k)(1), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
+1994—Subsec. (a). Pub. L. 103–296, § 108(k)(1), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
 
-Subsec. (b). Pub. L. 103–296, § 108(k), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” in two places and amended second sentence generally. Prior to amendment, second sentence read as follows: “A copy of each such application filed with either Secretary, together with any additional information and supporting documents (or certifications thereof) which may have been received by that Secretary with such application, and which may be needed by the other Secretary in connection therewith, shall be transmitted by the Secretary receiving the application to the other Secretary.”
+Subsec. (b). Pub. L. 103–296, § 108(k), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” in two places and amended second sentence generally. Prior to amendment, second sentence read as follows: “A copy of each such application filed with either Secretary, together with any additional information and supporting documents (or certifications thereof) which may have been received by that Secretary with such application, and which may be needed by the other Secretary in connection therewith, shall be transmitted by the Secretary receiving the application to the other Secretary.”
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 3005 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 3005 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(9)(A)–(C), substituted “(a) The Secretary” for “The Administrator” at the beginning of text and substituted “401 et seq.).” for “401 et seq.); and” in second sentence.
+Subsec. (a). Pub. L. 102–83, § 4(b)(9)(A)–(C), substituted “(a) The Secretary” for “The Administrator” at the beginning of text and substituted “401 et seq.).” for “401 et seq.); and” in second sentence.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(9)(D)–(J), substituted “(b) When an application on such a form is filed with either the Secretary” for “when an application on such form has been filed with either the Administrator”, “filed with either Secretary” for “filed with the Administrator”, “received by that Secretary” for “received by the Administrator”, “needed by the other Secretary” for “needed by the Secretary”, and “by the Secretary receiving the application to the other Secretary.” for “by the Administrator to the Secretary;”, struck out “and a copy of each such application filed with the Secretary, together with any additional information and supporting documents (or certifications thereof) which may have been received by the Secretary with such form, and which may be needed by the Administrator in connection therewith, shall be transmitted by the Secretary to the Administrator.” before “The preceding sentence”, and substituted “the Secretary and the Secretary of Health and Human Services” for “the Secretary and the Administrator”.
+Subsec. (b). Pub. L. 102–83, § 4(b)(9)(D)–(J), substituted “(b) When an application on such a form is filed with either the Secretary” for “when an application on such form has been filed with either the Administrator”, “filed with either Secretary” for “filed with the Administrator”, “received by that Secretary” for “received by the Administrator”, “needed by the other Secretary” for “needed by the Secretary”, and “by the Secretary receiving the application to the other Secretary.” for “by the Administrator to the Secretary;”, struck out “and a copy of each such application filed with the Secretary, together with any additional information and supporting documents (or certifications thereof) which may have been received by the Secretary with such form, and which may be needed by the Administrator in connection therewith, shall be transmitted by the Secretary to the Administrator.” before “The preceding sentence”, and substituted “the Secretary and the Secretary of Health and Human Services” for “the Secretary and the Administrator”.
 
 1983—Pub. L. 98–160 substituted “title II of the Social Security Act (42 U.S.C. 401 et seq.)” for “subchapter II of chapter 7 of title 42” wherever appearing.
 
@@ -1515,11 +1515,11 @@ Subsec. (b). Pub. L. 102–83, § 4(b)(9)(D)–(J), substituted “(b) When an
 
 Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
 
-### § 5106. Furnishing of information by other agencies
+### § 5106. Furnishing of information by other agencies
 
 The head of any Federal department or agency shall provide such information to the Secretary as the Secretary may request for purposes of determining eligibility for or amount of benefits, or verifying other information with respect thereto. The cost of providing information to the Secretary under this section shall be borne by the department or agency providing the information.
 
-(Added Pub. L. 94–432, title IV, § 403(2), Sept. 30, 1976, 90 Stat. 1372, § 3006; amended Pub. L. 99–576, title VII, § 701(62), Oct. 28, 1986, 100 Stat. 3296; renumbered § 5106, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 106–475, § 5, Nov. 9, 2000, 114 Stat. 2099.)
+(Added Pub. L. 94–432, title IV, § 403(2), Sept. 30, 1976, 90 Stat. 1372, § 3006; amended Pub. L. 99–576, title VII, § 701(62), Oct. 28, 1986, 100 Stat. 3296; renumbered § 5106, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 106–475, § 5, Nov. 9, 2000, 114 Stat. 2099.)
 
 **Editorial Notes**
 
@@ -1539,13 +1539,13 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator” in two plac
 
 Section effective Sept. 30, 1976, see section 405(a) of Pub. L. 94–432, set out as an Effective Date of 1976 Amendment note under section 1521 of this title.
 
-### § 5107. Claimant responsibility; benefit of the doubt
+### § 5107. Claimant responsibility; benefit of the doubt
 
 **(a) Claimant Responsibility.—** Except as otherwise provided by law, a claimant has the responsibility to present and support a claim for benefits under laws administered by the Secretary.
 
 **(b) Benefit of the Doubt.—** The Secretary shall consider all information and lay and medical evidence of record in a case before the Secretary with respect to benefits under laws administered by the Secretary. When there is an approximate balance of positive and negative evidence regarding any issue material to the determination of a matter, the Secretary shall give the benefit of the doubt to the claimant.
 
-(Added Pub. L. 100–687, div. A, title I, § 103(a)(1), Nov. 18, 1988, 102 Stat. 4106, § 3007; renumbered § 5107 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 106–398, § 1 [[div. A], title XVI, § 1611(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–359; Pub. L. 106–419, title I, § 104(c)(2), Nov. 1, 2000, 114 Stat. 1828; Pub. L. 106–475, § 4, Nov. 9, 2000, 114 Stat. 2098.)
+(Added Pub. L. 100–687, div. A, title I, § 103(a)(1), Nov. 18, 1988, 102 Stat. 4106, § 3007; renumbered § 5107 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 106–398, § 1 [[div. A], title XVI, § 1611(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–359; Pub. L. 106–419, title I, § 104(c)(2), Nov. 1, 2000, 114 Stat. 1828; Pub. L. 106–475, § 4, Nov. 9, 2000, 114 Stat. 2098.)
 
 **Editorial Notes**
 
@@ -1557,27 +1557,27 @@ Section effective Sept. 30, 1976, see section 405(a) of Pub. L. 94–432, set ou
 
 “(b) When, after consideration of all evidence and material of record in a case before the Department with respect to benefits under laws administered by the Secretary, there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination of the matter, the benefit of the doubt in resolving each such issue shall be given to the claimant. Nothing in this subsection shall be construed as shifting from the claimant to the Secretary the burden specified in subsection (a) of this section.”
 
-Pub. L. 106–398, § 1 [[div. A], title XVI, § 1611(a)], directed the general amendment of the section catchline and text. Pub. L. 106–419, § 104(c)(2), provided that, as of the enactment of Pub. L. 106–419, the amendment made by Pub. L. 106–398, § 1 [[div. A], title XVI, § 1611(a)], was deemed for all purposes not to have taken effect and that Pub. L. 106–398, § 1 [[div. A], title XVI, § 1611(a)], ceased to be in effect.
+Pub. L. 106–398, § 1 [[div. A], title XVI, § 1611(a)], directed the general amendment of the section catchline and text. Pub. L. 106–419, § 104(c)(2), provided that, as of the enactment of Pub. L. 106–419, the amendment made by Pub. L. 106–398, § 1 [[div. A], title XVI, § 1611(a)], was deemed for all purposes not to have taken effect and that Pub. L. 106–398, § 1 [[div. A], title XVI, § 1611(a)], ceased to be in effect.
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 3007 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 3007 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-Pub. L. 102–40, § 402(d)(1), substituted “5106” for “3006”.
+Pub. L. 102–40, § 402(d)(1), substituted “5106” for “3006”.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” before “the burden”.
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” before “the burden”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–475, § 7, Nov. 9, 2000, 114 Stat. 2099, provided that:
+Pub. L. 106–475, § 7, Nov. 9, 2000, 114 Stat. 2099, provided that:
 
 > **“(a) In General.—** Except as specifically provided otherwise, the provisions of section 5107 of title 38, United States Code, as amended by section 4 of this Act, apply to any claim—
 
@@ -1603,7 +1603,7 @@ Pub. L. 106–475, § 7, Nov. 9, 2000, 114 Stat. 2099, provided that:
 
 Section effective Sept. 1, 1989, see section 401(a) of Pub. L. 100–687, set out as a note under section 7251 of this title.
 
-### § 5108. Supplemental claims
+### § 5108. Supplemental claims
 
 **(a) In General.—** If new and relevant evidence is presented or secured with respect to a supplemental claim, the Secretary shall readjudicate the claim taking into consideration all of the evidence of record.
 
@@ -1613,7 +1613,7 @@ Section effective Sept. 1, 1989, see section 401(a) of Pub. L. 100–687, set ou
 
 **(2)** Assistance under paragraph (1) shall not be predicated upon a finding that new and relevant evidence has been presented or secured.
 
-(Added Pub. L. 100–687, div. A, title I, § 103(a)(1), Nov. 18, 1988, 102 Stat. 4107, § 3008; renumbered § 5108, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 115–55, § 2(i)(1), Aug. 23, 2017, 131 Stat. 1109.)
+(Added Pub. L. 100–687, div. A, title I, § 103(a)(1), Nov. 18, 1988, 102 Stat. 4107, § 3008; renumbered § 5108, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 115–55, § 2(i)(1), Aug. 23, 2017, 131 Stat. 1109.)
 
 **Editorial Notes**
 
@@ -1637,9 +1637,9 @@ Section effective Sept. 1, 1989, see section 401(a) of Pub. L. 100–687, set ou
 
 **Construction of 2017 Amendment**
 
-Pub. L. 115–55, § 2(i)(2), Aug. 23, 2017, 131 Stat. 1109, provided that: “Section 5108 of such title [38 U.S.C. 5108], as amended by paragraph (1), shall not be construed to impose a higher evidentiary threshold than the new and material evidence standard that was in effect pursuant to such section on the day before the date of the enactment of this Act [Aug. 23, 2017].”
+Pub. L. 115–55, § 2(i)(2), Aug. 23, 2017, 131 Stat. 1109, provided that: “Section 5108 of such title [38 U.S.C. 5108], as amended by paragraph (1), shall not be construed to impose a higher evidentiary threshold than the new and material evidence standard that was in effect pursuant to such section on the day before the date of the enactment of this Act [Aug. 23, 2017].”
 
-### § 5109. Independent medical opinions
+### § 5109. Independent medical opinions
 
 **(a)** When, in the judgment of the Secretary, expert medical opinion, in addition to that available within the Department, is warranted by the medical complexity or controversy involved in a case being considered by the Department, the Secretary may secure an advisory medical opinion from one or more independent medical experts who are not employees of the Department.
 
@@ -1653,7 +1653,7 @@ Pub. L. 115–55, § 2(i)(2), Aug. 23, 2017, 131 Stat. 1109, provided that: �
 
 **(2)** The Board’s remand instructions shall include the questions to be posed to the independent medical expert providing the advisory medical opinion.
 
-(Added Pub. L. 100–687, div. A, title I, § 103(a)(1), Nov. 18, 1988, 102 Stat. 4107, § 3009; renumbered § 5109, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 115–55, § 2(j), Aug. 23, 2017, 131 Stat. 1109.)
+(Added Pub. L. 100–687, div. A, title I, § 103(a)(1), Nov. 18, 1988, 102 Stat. 4107, § 3009; renumbered § 5109, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 115–55, § 2(j), Aug. 23, 2017, 131 Stat. 1109.)
 
 **Editorial Notes**
 
@@ -1663,11 +1663,11 @@ Pub. L. 115–55, § 2(i)(2), Aug. 23, 2017, 131 Stat. 1109, provided that: �
 
 1991—Pub. L. 102–40 renumbered section 3009 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-Subsecs. (b), (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsecs. (b), (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1679,7 +1679,7 @@ Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary o
 
 Section effective Sept. 1, 1989, see section 401(a) of Pub. L. 100–687, set out as a note under section 7251 of this title.
 
-### § 5109A. Revision of decisions on grounds of clear and unmistakable error
+### § 5109A. Revision of decisions on grounds of clear and unmistakable error
 
 **(a)** A decision by the Secretary under this chapter is subject to revision on the grounds of clear and unmistakable error. If evidence establishes the error, the prior decision shall be reversed or revised.
 
@@ -1691,25 +1691,25 @@ Section effective Sept. 1, 1989, see section 401(a) of Pub. L. 100–687, set ou
 
 **(e)** Such a request shall be submitted to the Secretary and shall be decided in the same manner as any other claim.
 
-(Added Pub. L. 105–111, § 1(a)(1), Nov. 21, 1997, 111 Stat. 2271.)
+(Added Pub. L. 105–111, § 1(a)(1), Nov. 21, 1997, 111 Stat. 2271.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 105–111, § 1(c)(1), Nov. 21, 1997, 111 Stat. 2272, provided that: “Sections 5109A and 7111 of title 38, United States Code, as added by this section, apply to any determination made before, on, or after the date of the enactment of this Act [Nov. 21, 1997].”
+Pub. L. 105–111, § 1(c)(1), Nov. 21, 1997, 111 Stat. 2272, provided that: “Sections 5109A and 7111 of title 38, United States Code, as added by this section, apply to any determination made before, on, or after the date of the enactment of this Act [Nov. 21, 1997].”
 
-### § 5109B. Expedited treatment of returned and remanded claims
+### § 5109B. Expedited treatment of returned and remanded claims
 
 The Secretary shall take such actions as may be necessary to provide for the expeditious treatment by the Veterans Benefits Administration of any claim that is returned by a higher-level adjudicator under section 5104B of this title or remanded by the Board of Veterans’ Appeals.
 
-(Added Pub. L. 108–183, title VII, § 707(a)(1), Dec. 16, 2003, 117 Stat. 2672; amended Pub. L. 115–55, § 2(k)(1), Aug. 23, 2017, 131 Stat. 1109.)
+(Added Pub. L. 108–183, title VII, § 707(a)(1), Dec. 16, 2003, 117 Stat. 2672; amended Pub. L. 115–55, § 2(k)(1), Aug. 23, 2017, 131 Stat. 1109.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Pub. L. 115–55, § 2(k)(1), amended section generally. Prior to amendment, text read as follows: “The Secretary shall take such actions as may be necessary to provide for the expeditious treatment by the appropriate regional office of the Veterans Benefits Administration of any claim that is remanded to a regional office of the Veterans Benefits Administration by the Board of Veterans’ Appeals.”
+2017—Pub. L. 115–55, § 2(k)(1), amended section generally. Prior to amendment, text read as follows: “The Secretary shall take such actions as may be necessary to provide for the expeditious treatment by the appropriate regional office of the Veterans Benefits Administration of any claim that is remanded to a regional office of the Veterans Benefits Administration by the Board of Veterans’ Appeals.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1719,7 +1719,7 @@ Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary o
 
 ## SUBCHAPTER II—EFFECTIVE DATES
 
-### § 5110. Effective dates of awards
+### § 5110. Effective dates of awards
 
 **(a)**
 
@@ -1783,11 +1783,11 @@ Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary o
 
 **(l)** The effective date of an award of benefits to a surviving spouse based upon a termination of a remarriage by death or divorce, or of an award or increase of benefits based on recognition of a child upon termination of the child’s marriage by death or divorce, shall be the date of death or the date the judicial decree or divorce becomes final, if an application therefor is received within one year from such termination.
 
-**[(m)** Repealed. Pub. L. 103–446, title XII, § 1201(i)(8), Nov. 2, 1994, 108 Stat. 4688.]
+**[(m)** Repealed. Pub. L. 103–446, title XII, § 1201(i)(8), Nov. 2, 1994, 108 Stat. 4688.]
 
 **(n)** The effective date of the award of any benefit or any increase therein by reason of marriage or the birth or adoption of a child shall be the date of such event if proof of such event is received by the Secretary within one year from the date of the marriage, birth, or adoption.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1226, § 3010; Pub. L. 87–674, § 3, Sept. 19, 1962, 76 Stat. 558; Pub. L. 87–825, § 1, Oct. 15, 1962, 76 Stat. 948; Pub. L. 91–376, § 7, Aug. 12, 1970, 84 Stat. 790; Pub. L. 91–584, § 13, Dec. 24, 1970, 84 Stat. 1578; Pub. L. 93–177, § 6(a), Dec. 6, 1973, 87 Stat. 696; Pub. L. 93–527, § 9(b), Dec. 21, 1974, 88 Stat. 1705; Pub. L. 94–71, title I, § 104, Aug. 5, 1975, 89 Stat. 396; Pub. L. 97–66, title II, § 204(b), Oct. 17, 1981, 95 Stat. 1029; Pub. L. 98–160, title VII, § 703(1), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 98–223, title II, § 213(3), Mar. 2, 1984, 98 Stat. 46; Pub. L. 98–369, div. B, title V, § 2501(a), July 18, 1984, 98 Stat. 1116; Pub. L. 99–576, title VII, § 701(63), Oct. 28, 1986, 100 Stat. 3296; renumbered § 5110 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§ 4(a)(2)(A)(vi), (b)(4)(B), 5(c)(1), Aug. 6, 1991, 105 Stat. 403, 405, 406; Pub. L. 103–446, title XII, § 1201(i)(8), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 108–454, title III, § 305, Dec. 10, 2004, 118 Stat. 3611; Pub. L. 112–154, title V, § 506, Aug. 6, 2012, 126 Stat. 1193; Pub. L. 115–55, § 2(*l*), Aug. 23, 2017, 131 Stat. 1110; Pub. L. 116–283, div. A, title IX, § 926(a)(52), Jan. 1, 2021, 134 Stat. 3830.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1226, § 3010; Pub. L. 87–674, § 3, Sept. 19, 1962, 76 Stat. 558; Pub. L. 87–825, § 1, Oct. 15, 1962, 76 Stat. 948; Pub. L. 91–376, § 7, Aug. 12, 1970, 84 Stat. 790; Pub. L. 91–584, § 13, Dec. 24, 1970, 84 Stat. 1578; Pub. L. 93–177, § 6(a), Dec. 6, 1973, 87 Stat. 696; Pub. L. 93–527, § 9(b), Dec. 21, 1974, 88 Stat. 1705; Pub. L. 94–71, title I, § 104, Aug. 5, 1975, 89 Stat. 396; Pub. L. 97–66, title II, § 204(b), Oct. 17, 1981, 95 Stat. 1029; Pub. L. 98–160, title VII, § 703(1), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 98–223, title II, § 213(3), Mar. 2, 1984, 98 Stat. 46; Pub. L. 98–369, div. B, title V, § 2501(a), July 18, 1984, 98 Stat. 1116; Pub. L. 99–576, title VII, § 701(63), Oct. 28, 1986, 100 Stat. 3296; renumbered § 5110 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§ 4(a)(2)(A)(vi), (b)(4)(B), 5(c)(1), Aug. 6, 1991, 105 Stat. 403, 405, 406; Pub. L. 103–446, title XII, § 1201(i)(8), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 108–454, title III, § 305, Dec. 10, 2004, 118 Stat. 3611; Pub. L. 112–154, title V, § 506, Aug. 6, 2012, 126 Stat. 1193; Pub. L. 115–55, § 2(*l*), Aug. 23, 2017, 131 Stat. 1110; Pub. L. 116–283, div. A, title IX, § 926(a)(52), Jan. 1, 2021, 134 Stat. 3830.)
 
 **Editorial Notes**
 
@@ -1799,9 +1799,9 @@ The date of the enactment of the Honoring America’s Veterans and Caring for Ca
 
 2021—Subsec. (j). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
-2017—Subsec. (a). Pub. L. 115–55, § 2(*l*)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Unless specifically provided otherwise in this chapter, the effective date of an award based on an original claim, a claim reopened after final adjudication, or a claim for increase, of compensation, dependency and indemnity compensation, or pension, shall be fixed in accordance with the facts found, but shall not be earlier than the date of receipt of application therefor.”
+2017—Subsec. (a). Pub. L. 115–55, § 2(*l*)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Unless specifically provided otherwise in this chapter, the effective date of an award based on an original claim, a claim reopened after final adjudication, or a claim for increase, of compensation, dependency and indemnity compensation, or pension, shall be fixed in accordance with the facts found, but shall not be earlier than the date of receipt of application therefor.”
 
-Subsec. (i). Pub. L. 115–55, § 2(*l*)(2), substituted “readjudicated” for “reopened”, “relevant” for “material”, and “readjudication” for “reopening”.
+Subsec. (i). Pub. L. 115–55, § 2(*l*)(2), substituted “readjudicated” for “reopened”, “relevant” for “material”, and “readjudication” for “reopening”.
 
 2012—Subsec. (b)(2) to (4). Pub. L. 112–154 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
@@ -1809,23 +1809,23 @@ Subsec. (i). Pub. L. 115–55, § 2(*l*)(2), substituted “readjudicated” f
 
 1994—Subsec. (m). Pub. L. 103–446 struck out subsec. (m) which read as follows: “The effective date of an award of benefits to a surviving spouse based upon termination of actions described in section 103(d)(3) of this title shall not be earlier than the date of receipt of application therefor filed after termination of such actions and after December 31, 1970.”
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 3010 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 3010 of this title as this section.
 
-Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “1151” for “351”.
+Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “1151” for “351”.
 
-Subsec. (e)(2). Pub. L. 102–83, § 5(c)(1), substituted “1311(b)” for “411(b)”.
+Subsec. (e)(2). Pub. L. 102–83, § 5(c)(1), substituted “1311(b)” for “411(b)”.
 
-Subsec. (g). Pub. L. 102–40, § 402(d)(1), substituted “5101” for “3001”.
+Subsec. (g). Pub. L. 102–40, § 402(d)(1), substituted “5101” for “3001”.
 
-Subsec. (j). Pub. L. 102–83, § 4(b)(4)(B), substituted “that Secretary” for “the Secretary” after “month fixed by”.
+Subsec. (j). Pub. L. 102–83, § 4(b)(4)(B), substituted “that Secretary” for “the Secretary” after “month fixed by”.
 
-Subsec. (n). Pub. L. 102–83, § 4(a)(2)(A)(vi), substituted “Secretary” for “Veterans’ Administration”.
+Subsec. (n). Pub. L. 102–83, § 4(a)(2)(A)(vi), substituted “Secretary” for “Veterans’ Administration”.
 
 1986—Subsec. (b)(1). Pub. L. 99–576 substituted “the veteran’s” for “his”.
 
-1984—Subsec. (b)(3)(A). Pub. L. 98–369, § 2501(a)(1), designated existing provisions as subpar. (A), inserted “described in subparagraph (B) of this paragraph” after “to a veteran”, substituted “the veteran applies for a retroactive award” for “an application therefor is received”, and added subpar. (B).
+1984—Subsec. (b)(3)(A). Pub. L. 98–369, § 2501(a)(1), designated existing provisions as subpar. (A), inserted “described in subparagraph (B) of this paragraph” after “to a veteran”, substituted “the veteran applies for a retroactive award” for “an application therefor is received”, and added subpar. (B).
 
-Subsec. (d). Pub. L. 98–369, § 2501(a)(2), designated existing provisions as par. (1), substituted “dependency and indemnity compensation for which application is received” for “, dependency and indemnity compensation, or death pension, where application is received”, and added par. (2).
+Subsec. (d). Pub. L. 98–369, § 2501(a)(2), designated existing provisions as par. (1), substituted “dependency and indemnity compensation for which application is received” for “, dependency and indemnity compensation, or death pension, where application is received”, and added par. (2).
 
 Subsec. (m). Pub. L. 98–223 substituted “section” for “subsection”.
 
@@ -1867,7 +1867,7 @@ Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary o
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. B, title V, § 2501(b), July 18, 1984, 98 Stat. 1117, provided that: “The amendments made by subsection (a)(1) [amending this section] and the provisions of paragraph (2) of section 3010(d) [now 5110(d)] of title 38, United States Code, as added by subsection (a)(2), shall take effect with respect to applications that are first received after September 30, 1984, for benefits under chapter 15 of title 38, United States Code.”
+Pub. L. 98–369, div. B, title V, § 2501(b), July 18, 1984, 98 Stat. 1117, provided that: “The amendments made by subsection (a)(1) [amending this section] and the provisions of paragraph (2) of section 3010(d) [now 5110(d)] of title 38, United States Code, as added by subsection (a)(2), shall take effect with respect to applications that are first received after September 30, 1984, for benefits under chapter 15 of title 38, United States Code.”
 
 **Effective Date of 1981 Amendment**
 
@@ -1883,7 +1883,7 @@ Amendment by Pub. L. 93–527 effective Jan. 1, 1975, see section 10 of Pub. L. 
 
 **Effective Date of 1973 Amendment**
 
-Pub. L. 93–177, § 6(b), Dec. 6, 1973, 87 Stat. 696, provided that: “Subsection (a) of this section [amending this section] shall apply to applications filed after its effective date [Jan. 1, 1974], but in no event shall an award made thereunder be effective prior to such effective date.”
+Pub. L. 93–177, § 6(b), Dec. 6, 1973, 87 Stat. 696, provided that: “Subsection (a) of this section [amending this section] shall apply to applications filed after its effective date [Jan. 1, 1974], but in no event shall an award made thereunder be effective prior to such effective date.”
 
 **Effective Date of 1970 Amendment**
 
@@ -1893,7 +1893,7 @@ Amendment by Pub. L. 91–376 effective Jan. 1, 1971, see section 9 of Pub. L. 9
 
 Amendment by Pub. L. 87–825 effective first day of second calendar month which begins after Oct. 15, 1962, see section 7 of Pub. L. 87–825, set out as a note under section 110 of this title.
 
-### § 5111. Commencement of period of payment
+### § 5111. Commencement of period of payment
 
 **(a)**
 
@@ -1923,7 +1923,7 @@ Amendment by Pub. L. 87–825 effective first day of second calendar month which
 
 **(2)** an award that is increased because of an added dependent, increase in disability or disability rating, or reduction in income.
 
-(Added Pub. L. 97–253, title IV, § 401(a)(1), Sept. 8, 1982, 96 Stat. 801, § 3011; amended Pub. L. 98–223, title I, § 113, Mar. 2, 1984, 98 Stat. 40; renumbered § 5111 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(1), Aug. 6, 1991, 105 Stat. 403; Pub. L. 111–275, title VI, § 605(a), Oct. 13, 2010, 124 Stat. 2885; Pub. L. 112–154, title V, § 507(b), Aug. 6, 2012, 126 Stat. 1194; Pub. L. 115–55, § 2(m), Aug. 23, 2017, 131 Stat. 1110; Pub. L. 116–283, div. A, title IX, § 926(a)(53), Jan. 1, 2021, 134 Stat. 3830.)
+(Added Pub. L. 97–253, title IV, § 401(a)(1), Sept. 8, 1982, 96 Stat. 801, § 3011; amended Pub. L. 98–223, title I, § 113, Mar. 2, 1984, 98 Stat. 40; renumbered § 5111 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(1), Aug. 6, 1991, 105 Stat. 403; Pub. L. 111–275, title VI, § 605(a), Oct. 13, 2010, 124 Stat. 2885; Pub. L. 112–154, title V, § 507(b), Aug. 6, 2012, 126 Stat. 1194; Pub. L. 115–55, § 2(m), Aug. 23, 2017, 131 Stat. 1110; Pub. L. 116–283, div. A, title IX, § 926(a)(53), Jan. 1, 2021, 134 Stat. 3830.)
 
 **Editorial Notes**
 
@@ -1937,17 +1937,17 @@ Amendment by Pub. L. 87–825 effective first day of second calendar month which
 
 2010—Subsec. (a). Pub. L. 111–275 designated existing provisions as par. (1), substituted “in paragraph (2) and subsection (c)” for “in subsection (c) of this section”, and added par. (2).
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 3011 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 3011 of this title as this section.
 
-Subsec. (a). Pub. L. 102–40, § 402(d)(1), substituted “5110” for “3010” in two places.
+Subsec. (a). Pub. L. 102–40, § 402(d)(1), substituted “5110” for “3010” in two places.
 
 Subsec. (b)(1). Pub. L. 102–83 substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-Pub. L. 102–40, § 402(d)(1), substituted “5110” for “3010”.
+Pub. L. 102–40, § 402(d)(1), substituted “5110” for “3010”.
 
-Subsec. (b)(2). Pub. L. 102–40, § 402(d)(1), substituted “5305” for “3105”.
+Subsec. (b)(2). Pub. L. 102–40, § 402(d)(1), substituted “5305” for “3105”.
 
-Subsec. (c)(1). Pub. L. 102–40, § 402(d)(1), substituted “5310” for “3110”.
+Subsec. (c)(1). Pub. L. 102–40, § 402(d)(1), substituted “5310” for “3110”.
 
 1984—Subsec. (c). Pub. L. 98–223 designated existing provisions as par. (1) and added par. (2).
 
@@ -1959,11 +1959,11 @@ Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary o
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–154, title V, § 507(c), Aug. 6, 2012, 126 Stat. 1194, provided that: “The amendments made by this section [amending this section and section 5310 of this title] shall take effect on the date of the enactment of this Act [Aug. 6, 2012], and shall apply with respect to deaths that occur on or after that date.”
+Pub. L. 112–154, title V, § 507(c), Aug. 6, 2012, 126 Stat. 1194, provided that: “The amendments made by this section [amending this section and section 5310 of this title] shall take effect on the date of the enactment of this Act [Aug. 6, 2012], and shall apply with respect to deaths that occur on or after that date.”
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–275, title VI, § 605(b), Oct. 13, 2010, 124 Stat. 2886, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 2011, and shall apply with respect to awards of compensation based on original claims that become effective on or after that date.”
+Pub. L. 111–275, title VI, § 605(b), Oct. 13, 2010, 124 Stat. 2886, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 2011, and shall apply with respect to awards of compensation based on original claims that become effective on or after that date.”
 
 **Effective Date of 1984 Amendment**
 
@@ -1971,9 +1971,9 @@ Amendment by Pub. L. 98–223 effective Oct. 1, 1983, see section 114 of Pub. L.
 
 **Effective Date**
 
-Pub. L. 97–253, title IV, § 401(b), Sept. 8, 1982, 96 Stat. 802, provided that: “Section 3011 [now 5111] of title 38, United States Code, as added by subsection (a), shall apply to awards and increased awards the effective dates of which are after September 30, 1982.”
+Pub. L. 97–253, title IV, § 401(b), Sept. 8, 1982, 96 Stat. 802, provided that: “Section 3011 [now 5111] of title 38, United States Code, as added by subsection (a), shall apply to awards and increased awards the effective dates of which are after September 30, 1982.”
 
-### § 5112. Effective dates of reductions and discontinuances
+### § 5112. Effective dates of reductions and discontinuances
 
 **(a)** Except as otherwise specified in this section, the effective date of reduction or discontinuance of compensation, dependency and indemnity compensation, or pension shall be fixed in accordance with the facts found.
 
@@ -2003,7 +2003,7 @@ Pub. L. 97–253, title IV, § 401(b), Sept. 8, 1982, 96 Stat. 802, provided t
 
 **(10)** by reason of an erroneous award based solely on administrative error or error in judgment shall be the date of last payment.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1227, § 3012; Pub. L. 87–825, § 2, Oct. 15, 1962, 76 Stat. 949; Pub. L. 89–730, § 3, Nov. 2, 1966, 80 Stat. 1159; Pub. L. 90–275, § 5, Mar. 28, 1968, 82 Stat. 68; Pub. L. 92–198, § 3, Dec. 15, 1971, 85 Stat. 664; Pub. L. 94–433, title IV, § 402, Sept. 30, 1976, 90 Stat. 1378; Pub. L. 95–588, title III, § 303, Nov. 4, 1978, 92 Stat. 2506; Pub. L. 97–253, title IV, § 402(a), Sept. 8, 1982, 96 Stat. 802; Pub. L. 99–576, title V, § 503, title VII, § 701(64), Oct. 28, 1986, 100 Stat. 3286, 3296; renumbered § 5112 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 107–103, title II, § 204(b)(2), Dec. 27, 2001, 115 Stat. 990; Pub. L. 117–168, title VIII, § 807(a)(4), Aug. 10, 2022, 136 Stat. 1806.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1227, § 3012; Pub. L. 87–825, § 2, Oct. 15, 1962, 76 Stat. 949; Pub. L. 89–730, § 3, Nov. 2, 1966, 80 Stat. 1159; Pub. L. 90–275, § 5, Mar. 28, 1968, 82 Stat. 68; Pub. L. 92–198, § 3, Dec. 15, 1971, 85 Stat. 664; Pub. L. 94–433, title IV, § 402, Sept. 30, 1976, 90 Stat. 1378; Pub. L. 95–588, title III, § 303, Nov. 4, 1978, 92 Stat. 2506; Pub. L. 97–253, title IV, § 402(a), Sept. 8, 1982, 96 Stat. 802; Pub. L. 99–576, title V, § 503, title VII, § 701(64), Oct. 28, 1986, 100 Stat. 3286, 3296; renumbered § 5112 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 107–103, title II, § 204(b)(2), Dec. 27, 2001, 115 Stat. 990; Pub. L. 117–168, title VIII, § 807(a)(4), Aug. 10, 2022, 136 Stat. 1806.)
 
 **Editorial Notes**
 
@@ -2013,23 +2013,23 @@ Pub. L. 97–253, title IV, § 401(b), Sept. 8, 1982, 96 Stat. 802, provided t
 
 2001—Subsec. (c). Pub. L. 107–103 struck out subsec. (c) which read as follows: “The effective date of a discontinuance under section 5503(b)(1)(A) of this title of pension, compensation, or emergency officers’ retirement pay by reason of hospital treatment or institutional or domiciliary care shall be the last day of the first month of such treatment or care during which the value of the veteran’s estate, as determined under such section, equals or exceeds $1,500.”
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 3012 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 3012 of this title as this section.
 
-Subsec. (b)(4)(A). Pub. L. 102–40, § 402(d)(1), substituted “5312” for “3112”.
+Subsec. (b)(4)(A). Pub. L. 102–40, § 402(d)(1), substituted “5312” for “3112”.
 
-Subsec. (c). Pub. L. 102–40, § 402(d)(1), substituted “5503(b)(1)(A)” for “3203(b)(1)(A)”.
+Subsec. (c). Pub. L. 102–40, § 402(d)(1), substituted “5503(b)(1)(A)” for “3203(b)(1)(A)”.
 
-1986—Subsec. (b)(6). Pub. L. 99–576, § 701(64), substituted “the payee’s” for “his”.
+1986—Subsec. (b)(6). Pub. L. 99–576, § 701(64), substituted “the payee’s” for “his”.
 
-Subsec. (c). Pub. L. 99–576, § 503, added subsec. (c).
+Subsec. (c). Pub. L. 99–576, § 503, added subsec. (c).
 
 1982—Subsec. (b)(2). Pub. L. 97–253 substituted “month” for “calendar year”.
 
 1978—Subsec. (b)(4). Pub. L. 95–588 restructured subsection and, as so restructured, provided that the effective date of a change in compensation by reason of a change in income would be the last day of the month in which the change occurred rather than the last day in the calendar year in which such change in income occurred.
 
-1976—Subsec. (b)(2). Pub. L. 94–433, § 402(1), inserted “annulment,” before “divorce” in two places.
+1976—Subsec. (b)(2). Pub. L. 94–433, § 402(1), inserted “annulment,” before “divorce” in two places.
 
-Subsec. (b)(9). Pub. L. 94–433, § 402(2), substituted “the beneficiary’s” for “his” before “knowledge”.
+Subsec. (b)(9). Pub. L. 94–433, § 402(2), substituted “the beneficiary’s” for “his” before “knowledge”.
 
 1971—Subsec. (b)(2). Pub. L. 92–198 substituted “last day of the calendar year” for “last day of the month”.
 
@@ -2043,7 +2043,7 @@ Subsec. (b)(9). Pub. L. 94–433, § 402(2), substituted “the beneficiary’
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–253, title IV, § 402(b), Sept. 8, 1982, 96 Stat. 802, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to any marriage, annulment, divorce, or death that occurs after September 30, 1982.”
+Pub. L. 97–253, title IV, § 402(b), Sept. 8, 1982, 96 Stat. 802, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to any marriage, annulment, divorce, or death that occurs after September 30, 1982.”
 
 **Effective Date of 1978 Amendment**
 
@@ -2073,7 +2073,7 @@ Amendment by Pub. L. 87–825 effective first day of second calendar month which
 
 Amendment by Pub. L. 117–168 not to be construed to apply section 5104(a) of this title to decisions of the Board of Veterans’ Appeals under chapter 71 of this title, see section 807(b) of Pub. L. 117–168, set out as a note under section 5100 of this title.
 
-### § 5113. Effective dates of educational benefits
+### § 5113. Effective dates of educational benefits
 
 **(a)** Except as provided in subsections (b) and (c), effective dates relating to awards under chapters 30, 31, 32, 34, and 35 of this title or chapter 106 of title 10 shall, to the extent feasible, correspond to effective dates relating to awards of disability compensation.
 
@@ -2099,7 +2099,7 @@ Amendment by Pub. L. 117–168 not to be construed to apply section 5104(a) of t
 
 **(c)** The effective date of an adjustment of benefits under any chapter referred to in subsection (a) of this section, if made on the basis of a certification made by the veteran or person and accepted by the Secretary under section 3680(g) of this title, shall be the date of the change.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1227, § 3013; Pub. L. 89–358, § 4(p), Mar. 3, 1966, 80 Stat. 25; Pub. L. 99–576, title III, § 321(10), Oct. 28, 1986, 100 Stat. 3278; Pub. L. 100–322, title III, § 323, May 20, 1988, 102 Stat. 536; Pub. L. 101–237, title IV, § 419, Dec. 18, 1989, 103 Stat. 2087; Pub. L. 102–16, § 10(a)(9), Mar. 22, 1991, 105 Stat. 56; renumbered § 5113, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 5(c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 106–419, title I, § 113(a), Nov. 1, 2000, 114 Stat. 1832; Pub. L. 109–444, § 3(c)(2), Dec. 21, 2006, 120 Stat. 3307; Pub. L. 109–461, title III, § 301(c)(2), title X, § 1006(b), Dec. 22, 2006, 120 Stat. 3427, 3468; Pub. L. 116–283, div. A, title IX, § 926(a)(54), Jan. 1, 2021, 134 Stat. 3830.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1227, § 3013; Pub. L. 89–358, § 4(p), Mar. 3, 1966, 80 Stat. 25; Pub. L. 99–576, title III, § 321(10), Oct. 28, 1986, 100 Stat. 3278; Pub. L. 100–322, title III, § 323, May 20, 1988, 102 Stat. 536; Pub. L. 101–237, title IV, § 419, Dec. 18, 1989, 103 Stat. 2087; Pub. L. 102–16, § 10(a)(9), Mar. 22, 1991, 105 Stat. 56; renumbered § 5113, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 5(c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 106–419, title I, § 113(a), Nov. 1, 2000, 114 Stat. 1832; Pub. L. 109–444, § 3(c)(2), Dec. 21, 2006, 120 Stat. 3307; Pub. L. 109–461, title III, § 301(c)(2), title X, § 1006(b), Dec. 22, 2006, 120 Stat. 3427, 3468; Pub. L. 116–283, div. A, title IX, § 926(a)(54), Jan. 1, 2021, 134 Stat. 3830.)
 
 **Editorial Notes**
 
@@ -2107,19 +2107,19 @@ Amendment by Pub. L. 117–168 not to be construed to apply section 5104(a) of t
 
 2021—Subsec. (b)(3)(C). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
-2006—Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+2006—Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
-Subsec. (b)(3)(B). Pub. L. 109–461, § 301(c)(2)(A), substituted “subparagraphs (A), (B), (D), and (E) of section 3501(a)(1) of this title.” for “section 3501(a)(1) of this title under subparagraph (A)(i), (A)(ii), (B), or (D) of such section by reason of either (i) the service-connected death or (ii) service-connected total disability permanent in nature of the veteran from whom such eligibility is derived.”
+Subsec. (b)(3)(B). Pub. L. 109–461, § 301(c)(2)(A), substituted “subparagraphs (A), (B), (D), and (E) of section 3501(a)(1) of this title.” for “section 3501(a)(1) of this title under subparagraph (A)(i), (A)(ii), (B), or (D) of such section by reason of either (i) the service-connected death or (ii) service-connected total disability permanent in nature of the veteran from whom such eligibility is derived.”
 
-Pub. L. 109–444, § 3(c)(2)(A), which substituted “subparagraphs (A), (B), (D), and (E) of section 3501(a)(1) of this title.” for “section 3501(a)(1) of this title under subparagraph (A)(i), (A)(ii), (B), or (D) of such section by reason of either (i) the service-connected death or (ii) service-connected total disability permanent in nature of the veteran from whom such eligibility is derived.”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 3(c)(2)(A), which substituted “subparagraphs (A), (B), (D), and (E) of section 3501(a)(1) of this title.” for “section 3501(a)(1) of this title under subparagraph (A)(i), (A)(ii), (B), or (D) of such section by reason of either (i) the service-connected death or (ii) service-connected total disability permanent in nature of the veteran from whom such eligibility is derived.”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-Subsec. (b)(3)(C). Pub. L. 109–461, § 301(c)(2)(B), substituted “the death of the person from whom such eligibility is derived” for “such veteran’s death” and “the service-connected total disability permanent in nature (or, in the case of a person made eligible under section 3501(a)(1)(E), the total disability permanent in nature incurred or aggravated in the line of duty in the active military, naval, or air service) of the person from whom such eligibility is derived” for “such veteran’s service-connected total disability permanent in nature”.
+Subsec. (b)(3)(C). Pub. L. 109–461, § 301(c)(2)(B), substituted “the death of the person from whom such eligibility is derived” for “such veteran’s death” and “the service-connected total disability permanent in nature (or, in the case of a person made eligible under section 3501(a)(1)(E), the total disability permanent in nature incurred or aggravated in the line of duty in the active military, naval, or air service) of the person from whom such eligibility is derived” for “such veteran’s service-connected total disability permanent in nature”.
 
-Pub. L. 109–444, § 3(c)(2)(B), which substituted “the death of the person from whom such eligibility is derived” for “such veteran’s death” and “the service-connected total disability permanent in nature (or, in the case of a person made eligible under section 3501(a)(1)(E), the total disability permanent in nature incurred or aggravated in the line of duty in the active military, naval, or air service) of the person from whom such eligibility is derived” for “such veteran’s service-connected total disability permanent in nature”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 3(c)(2)(B), which substituted “the death of the person from whom such eligibility is derived” for “such veteran’s death” and “the service-connected total disability permanent in nature (or, in the case of a person made eligible under section 3501(a)(1)(E), the total disability permanent in nature incurred or aggravated in the line of duty in the active military, naval, or air service) of the person from whom such eligibility is derived” for “such veteran’s service-connected total disability permanent in nature”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-2000—Subsec. (a). Pub. L. 106–419, § 113(a)(2), substituted “subsections (b) and (c)” for “subsection (b) of this section”.
+2000—Subsec. (a). Pub. L. 106–419, § 113(a)(2), substituted “subsections (b) and (c)” for “subsection (b) of this section”.
 
-Subsecs. (b), (c). Pub. L. 106–419, § 113(a)(1), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
+Subsecs. (b), (c). Pub. L. 106–419, § 113(a)(1), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 1991—Pub. L. 102–40 renumbered section 3013 of this title as this section.
 
@@ -2143,7 +2143,7 @@ Amendment by section 301(c)(2) of Pub. L. 109–461 applicable with respect to a
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–419, title I, § 113(b), Nov. 1, 2000, 114 Stat. 1832, provided that:
+Pub. L. 106–419, title I, § 113(b), Nov. 1, 2000, 114 Stat. 1832, provided that:
 
 > “The amendments made by subsection (a) [amending this section] shall apply to applications first made under section 3513 of title 38, United States Code, that—
 
@@ -2153,7 +2153,7 @@ Pub. L. 106–419, title I, § 113(b), Nov. 1, 2000, 114 Stat. 1832, provided 
 
 ## SUBCHAPTER III—PAYMENT OF BENEFITS
 
-### § 5120. Payment of benefits; delivery
+### § 5120. Payment of benefits; delivery
 
 **(a)** Monetary benefits under laws administered by the Secretary shall be paid by checks drawn, pursuant to certification by the Secretary, in such form as to protect the United States against loss, and payable by the Treasurer of the United States. Such checks shall be payable without separate vouchers or receipts except in any case in which the Secretary may consider a voucher necessary for the protection of the Government. Such checks shall be transmitted by mail to the payee thereof at the payee’s last known address and, if the payee has moved and filed a regular change of address notice with the United States Postal Service, shall be forwarded to the payee. The envelope or cover of each such checks shall bear on the face thereof the following notice: “POSTMASTER: PLEASE FORWARD if addressee has moved and filed a regular change-of-address notice. If addressee is deceased, return the letter with date of death, if known.”
 
@@ -2171,7 +2171,7 @@ Pub. L. 106–419, title I, § 113(b), Nov. 1, 2000, 114 Stat. 1832, provided 
 
 **(2)** The Secretary shall prescribe an appropriate method or methods for the delivery of payments of monetary benefits under laws administered by the Secretary in cases described in paragraph (1) of this subsection. To the maximum extent practicable, such method or methods shall be designed to ensure the delivery of payments in such cases.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1227, § 3020; Pub. L. 95–117, title IV, § 402(a), (b)(1), Oct. 3, 1977, 91 Stat. 1065, 1066; Pub. L. 97–295, § 4(73), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 99–570, title XI, § 11007(a)(2), Oct. 27, 1986, 100 Stat. 3207–170; Pub. L. 99–576, title VII, § 701(65), Oct. 28, 1986, 100 Stat. 3296; renumbered § 5120, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1227, § 3020; Pub. L. 95–117, title IV, § 402(a), (b)(1), Oct. 3, 1977, 91 Stat. 1065, 1066; Pub. L. 97–295, § 4(73), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 99–570, title XI, § 11007(a)(2), Oct. 27, 1986, 100 Stat. 3207–170; Pub. L. 99–576, title VII, § 701(65), Oct. 28, 1986, 100 Stat. 3296; renumbered § 5120, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405.)
 
 **Editorial Notes**
 
@@ -2179,49 +2179,49 @@ Pub. L. 106–419, title I, § 113(b), Nov. 1, 2000, 114 Stat. 1832, provided 
 
 1991—Pub. L. 102–40 renumbered section 3020 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” before period at end.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” before period at end.
 
-Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-Subsec. (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (f)(1). Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+Subsec. (f)(1). Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-Subsec. (f)(2). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (f)(2). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-1986—Subsec. (a). Pub. L. 99–576, § 701(65)(A), substituted “the payee’s” for “his”, and “the payee” for “he” and “him” in third sentence.
+1986—Subsec. (a). Pub. L. 99–576, § 701(65)(A), substituted “the payee’s” for “his”, and “the payee” for “he” and “him” in third sentence.
 
-Subsec. (b). Pub. L. 99–576, § 701(65)(B), substituted “such person” for “he”, “surviving spouse” for “widow”, “the surviving spouse” for “she” in two places, “to the surviving spouse” for “to her”, and “by the” for “by her” in first sentence.
+Subsec. (b). Pub. L. 99–576, § 701(65)(B), substituted “such person” for “he”, “surviving spouse” for “widow”, “the surviving spouse” for “she” in two places, “to the surviving spouse” for “to her”, and “by the” for “by her” in first sentence.
 
 Subsec. (f). Pub. L. 99–570 added subsec. (f).
 
 1982—Subsec. (a). Pub. L. 97–295 substituted “United States Postal Service” for “Post Office Department”.
 
-1977—Pub. L. 95–117, § 402(b)(1), struck out “by check” after “benefits” in section catchline.
+1977—Pub. L. 95–117, § 402(b)(1), struck out “by check” after “benefits” in section catchline.
 
-Subsecs. (d), (e). Pub. L. 95–117, § 402(a), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 95–117, § 402(a), added subsecs. (d) and (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–570, title XI, § 11007(b)(2), Oct. 27, 1986, 100 Stat. 3207–170, provided that: “The amendment made by subsection (a)(2) [amending this section] shall take effect with respect to payments made on or after October 1, 1986.”
+Pub. L. 99–570, title XI, § 11007(b)(2), Oct. 27, 1986, 100 Stat. 3207–170, provided that: “The amendment made by subsection (a)(2) [amending this section] shall take effect with respect to payments made on or after October 1, 1986.”
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–117, title IV, § 402(c), Oct. 3, 1977, 91 Stat. 1066, provided that: “The amendments made by this section [amending this section] shall be effective on the date of enactment of this Act [Oct. 3, 1977].”
+Pub. L. 95–117, title IV, § 402(c), Oct. 3, 1977, 91 Stat. 1066, provided that: “The amendments made by this section [amending this section] shall be effective on the date of enactment of this Act [Oct. 3, 1977].”
 
-### § 5121. Payment of certain accrued benefits upon death of a beneficiary
+### § 5121. Payment of certain accrued benefits upon death of a beneficiary
 
 **(a)** Except as provided in sections 3329 and 3330 of title 31, periodic monetary benefits (other than insurance and servicemen’s indemnity) under laws administered by the Secretary to which an individual was entitled at death under existing ratings or decisions or those based on evidence in the file at date of death (hereinafter in this section and section 5122 of this title referred to as “accrued benefits”) and due and unpaid, shall, upon the death of such individual be paid as follows:
 
@@ -2247,37 +2247,37 @@ Pub. L. 95–117, title IV, § 402(c), Oct. 3, 1977, 91 Stat. 1066, provided t
 
 **(c)** Applications for accrued benefits must be filed within one year after the date of death. If a claimant’s application is incomplete at the time it is originally submitted, the Secretary shall notify the claimant of the evidence necessary to complete the application. If such evidence is not received within one year from the date of such notification, no accrued benefits may be paid.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1228, § 3021; Pub. L. 92–328, title I, § 105(b), June 30, 1972, 86 Stat. 395; Pub. L. 97–258, § 3(k)(4), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 98–160, title VII, § 703(1), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 99–576, title VII, § 701(66), Oct. 28, 1986, 100 Stat. 3296; renumbered § 5121 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 104–275, title V, § 507, Oct. 9, 1996, 110 Stat. 3343; Pub. L. 107–14, § 8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 108–183, title I, § 104(a)–(c), Dec. 16, 2003, 117 Stat. 2656.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1228, § 3021; Pub. L. 92–328, title I, § 105(b), June 30, 1972, 86 Stat. 395; Pub. L. 97–258, § 3(k)(4), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 98–160, title VII, § 703(1), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 99–576, title VII, § 701(66), Oct. 28, 1986, 100 Stat. 3296; renumbered § 5121 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 104–275, title V, § 507, Oct. 9, 1996, 110 Stat. 3343; Pub. L. 107–14, § 8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 108–183, title I, § 104(a)–(c), Dec. 16, 2003, 117 Stat. 2656.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2003—Subsec. (a). Pub. L. 108–183, § 104(c)(1), struck out comma after “or decisions” in introductory provisions.
+2003—Subsec. (a). Pub. L. 108–183, § 104(c)(1), struck out comma after “or decisions” in introductory provisions.
 
-Pub. L. 108–183, § 104(a), struck out “for a period not to exceed two years” after “unpaid” in introductory provisions.
+Pub. L. 108–183, § 104(a), struck out “for a period not to exceed two years” after “unpaid” in introductory provisions.
 
-Subsec. (a)(1) to (4). Pub. L. 108–183, § 104(c)(2), substituted period for semicolon at end of pars. (1) to (4) and subpars. (A) and (B) of par. (2).
+Subsec. (a)(1) to (4). Pub. L. 108–183, § 104(c)(2), substituted period for semicolon at end of pars. (1) to (4) and subpars. (A) and (B) of par. (2).
 
-Subsec. (a)(5), (6). Pub. L. 108–183, § 104(b), added par. (5) and redesignated former par. (5) as (6).
+Subsec. (a)(5), (6). Pub. L. 108–183, § 104(b), added par. (5) and redesignated former par. (5) as (6).
 
 2001—Subsec. (a). Pub. L. 107–14 substituted “hereinafter” for “hereafter” in introductory provisions.
 
 1996—Subsec. (a). Pub. L. 104–275 substituted “two years” for “one year” in introductory provisions.
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 3021 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 3021 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in par. (1).
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in par. (1).
 
-Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in introductory provisions.
+Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in introductory provisions.
 
-Pub. L. 102–40, § 402(d)(1), substituted “5122” for “3022” in introductory provisions.
+Pub. L. 102–40, § 402(d)(1), substituted “5122” for “3022” in introductory provisions.
 
-Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1986—Subsec. (a). Pub. L. 99–576, § 701(66)(A), struck out “his” after “entitled at”.
+1986—Subsec. (a). Pub. L. 99–576, § 701(66)(A), struck out “his” after “entitled at”.
 
-Subsec. (a)(2)(A) to (C). Pub. L. 99–576, § 701(66)(B), substituted “The veteran’s” for “His”.
+Subsec. (a)(2)(A) to (C). Pub. L. 99–576, § 701(66)(B), substituted “The veteran’s” for “His”.
 
 1983—Subsec. (a)(3). Pub. L. 98–160 substituted “surviving spouse” for “widow” in two places.
 
@@ -2289,13 +2289,13 @@ Subsec. (a)(2)(A) to (C). Pub. L. 99–576, § 701(66)(B), substituted “The 
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–183, title I, § 104(d), Dec. 16, 2003, 117 Stat. 2656, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply with respect to deaths occurring on or after the date of the enactment of this Act [Dec. 16, 2003].”
+Pub. L. 108–183, title I, § 104(d), Dec. 16, 2003, 117 Stat. 2656, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply with respect to deaths occurring on or after the date of the enactment of this Act [Dec. 16, 2003].”
 
 **Effective Date of 1972 Amendment**
 
 Amendment by Pub. L. 92–328 effective first day of second calendar month which begins after June 30, 1972, see section 301(a) of Pub. L. 92–328, set out as a note under section 1114 of this title.
 
-### § 5121A. Substitution in case of death of claimant
+### § 5121A. Substitution in case of death of claimant
 
 **(a) Substitution.—**
 
@@ -2307,19 +2307,19 @@ Amendment by Pub. L. 92–328 effective first day of second calendar month which
 
 **(b) Limitation.—** Those who are eligible to make a claim under this section shall be determined in accordance with section 5121 of this title.
 
-(Added Pub. L. 110–389, title II, § 212(a), Oct. 10, 2008, 122 Stat. 4151.)
+(Added Pub. L. 110–389, title II, § 212(a), Oct. 10, 2008, 122 Stat. 4151.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 110–389, title II, § 212(c), Oct. 10, 2008, 122 Stat. 4151, provided that: “Section 5121A of title 38, United States Code, as added by subsection (a), shall apply with respect to the claim of any claimant who dies on or after the date of the enactment of this Act [Oct. 10, 2008].”
+Pub. L. 110–389, title II, § 212(c), Oct. 10, 2008, 122 Stat. 4151, provided that: “Section 5121A of title 38, United States Code, as added by subsection (a), shall apply with respect to the claim of any claimant who dies on or after the date of the enactment of this Act [Oct. 10, 2008].”
 
-### § 5122. Cancellation of checks mailed to deceased payees
+### § 5122. Cancellation of checks mailed to deceased payees
 
 A check received by a payee in payment of accrued benefits shall, if the payee died on or after the last day of the period covered by the check, be returned to the issuing office and canceled, unless negotiated by the payee or the duly appointed representative of the payee’s estate. The amount represented by such check, or any amount recovered by reason of improper negotiation of any such check, shall be payable in the manner provided in section 5121 of this title, without regard to section 5121(c) of this title. Any amount not paid in the manner provided in section 5121 of this title shall be paid to the estate of the deceased payee unless the estate will escheat.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1229, § 3022; Pub. L. 99–576, title VII, § 701(67), Oct. 28, 1986, 100 Stat. 3296; renumbered § 5122 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 104–316, title II, § 202(t), Oct. 19, 1996, 110 Stat. 3845.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1229, § 3022; Pub. L. 99–576, title VII, § 701(67), Oct. 28, 1986, 100 Stat. 3296; renumbered § 5122 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 104–316, title II, § 202(t), Oct. 19, 1996, 110 Stat. 3845.)
 
 **Editorial Notes**
 
@@ -2331,11 +2331,11 @@ A check received by a payee in payment of accrued benefits shall, if the payee d
 
 1986—Pub. L. 99–576 substituted “the payee’s” for “his” in first sentence.
 
-### § 5123. Rounding down of pension rates
+### § 5123. Rounding down of pension rates
 
 The monthly or other periodic rate of pension payable to an individual under section 1521, 1541, or 1542 of this title or under section 306(a) of the Veterans’ and Survivors’ Pension Improvement Act of 1978 (Public Law 95–588), if not a multiple of $1, shall be rounded down to the nearest dollar.
 
-(Added Pub. L. 97–253, title IV, § 403(a)(1), Sept. 8, 1982, 96 Stat. 802, § 3023; renumbered § 5123, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 5(c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 97–253, title IV, § 403(a)(1), Sept. 8, 1982, 96 Stat. 802, § 3023; renumbered § 5123, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 5(c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -2357,13 +2357,13 @@ Pub. L. 102–83 substituted “1521, 1541, or 1542” for “521, 541, or 542�
 
 **Effective Date**
 
-Section 403(b) of Pub. L. 97–253, as amended by Pub. L. 98–21, title I, § 111(e), Apr. 20, 1983, 97 Stat. 73; Pub. L. 98–369, div. B, title VI, § 2662(j), July 18, 1984, 98 Stat. 1160, provided that:
+Section 403(b) of Pub. L. 97–253, as amended by Pub. L. 98–21, title I, § 111(e), Apr. 20, 1983, 97 Stat. 73; Pub. L. 98–369, div. B, title VI, § 2662(j), July 18, 1984, 98 Stat. 1160, provided that:
 
 > **“(1)** Except as provided in paragraph (2), the amendment made by subsection (a)(1) [enacting this section] shall apply with respect to amounts payable for periods beginning after May 31, 1983.
 
 > **“(2)** In the cases of individuals to whom pension is payable under sections 521, 541, and 542 [now 1521, 1541, and 1542] of title 38, United States Code, the amendment made by subsection (a)(1) shall take effect on the first day after May 31, 1983, that an increase is made in maximum annual rates of pension pursuant to section 3112 [now 5312] of title 38, United States Code.”
 
-### § 5124. Acceptance of claimant’s statement as proof of relationship
+### § 5124. Acceptance of claimant’s statement as proof of relationship
 
 **(a)** For purposes of benefits under laws administered by the Secretary, the Secretary may accept the written statement of a claimant as proof of the existence of any relationship specified in subsection (b) for the purpose of acting on such individual’s claim for benefits.
 
@@ -2387,16 +2387,16 @@ Section 403(b) of Pub. L. 97–253, as amended by Pub. L. 98–21, title I, §�
 
 **(4)** there is reasonable indication, in the statement or otherwise, of fraud or misrepresentation.
 
-(Added Pub. L. 103–446, title III, § 301(a), Nov. 2, 1994, 108 Stat. 4657.)
+(Added Pub. L. 103–446, title III, § 301(a), Nov. 2, 1994, 108 Stat. 4657.)
 
-### § 5125. Acceptance of reports of private physician examinations
+### § 5125. Acceptance of reports of private physician examinations
 
 For purposes of establishing any claim for benefits under chapter 11 or 15 of this title, a report of a medical examination administered by a private physician that is provided by a claimant in support of a claim for benefits under that chapter may be accepted without a requirement for confirmation by an examination by a physician employed by the Veterans Health Administration if the report is sufficiently complete to be adequate for the purpose of adjudicating such claim.
 
-(Added Pub. L. 103–446, title III, § 301(b), Nov. 2, 1994, 108 Stat. 4658.)
+(Added Pub. L. 103–446, title III, § 301(b), Nov. 2, 1994, 108 Stat. 4658.)
 
-### § 5126. Benefits not to be denied based on lack of mailing address
+### § 5126. Benefits not to be denied based on lack of mailing address
 
 Benefits under laws administered by the Secretary may not be denied a claimant on the basis that the claimant does not have a mailing address.
 
-(Added Pub. L. 106–475, § 3(b), Nov. 9, 2000, 114 Stat. 2098.)
+(Added Pub. L. 106–475, § 3(b), Nov. 9, 2000, 114 Stat. 2098.)

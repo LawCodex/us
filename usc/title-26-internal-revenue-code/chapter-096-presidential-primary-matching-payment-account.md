@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 96, relating to the Presidential Election Campaign Fund Advisory Board, consisted of section 9021, added by Pub. L. 92–178, title VIII, § 801, Dec. 10, 1971, 85 Stat. 572, providing for the establishment and composition of the Advisory Board and the compensation and status of members, and was repealed by Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1297. Section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under section 30101 of Title 52, Voting and Elections, provided that the amendments made by section 408(c) shall apply with respect to taxable years beginning after Dec. 31, 1974.
+A prior chapter 96, relating to the Presidential Election Campaign Fund Advisory Board, consisted of section 9021, added by Pub. L. 92–178, title VIII, § 801, Dec. 10, 1971, 85 Stat. 572, providing for the establishment and composition of the Advisory Board and the compensation and status of members, and was repealed by Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1297. Section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under section 30101 of Title 52, Voting and Elections, provided that the amendments made by section 408(c) shall apply with respect to taxable years beginning after Dec. 31, 1974.
 
 **Amendments**
 
-1976—Pub. L. 94–283, title III, § 305(b), May 11, 1976, 90 Stat. 499, substituted “limitations” for “limitation” in item 9035.
+1976—Pub. L. 94–283, title III, § 305(b), May 11, 1976, 90 Stat. 499, substituted “limitations” for “limitation” in item 9035.
 
-## § 9031. Short title
+## § 9031. Short title
 
 This chapter may be cited as the “Presidential Primary Matching Payment Account Act”.
 
-(Added Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1297.)
+(Added Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1297.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -37,7 +37,7 @@ This chapter may be cited as the “Presidential Primary Matching Payment Accoun
 
 Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under section 30101 of Title 52, Voting and Elections.
 
-## § 9032. Definitions
+## § 9032. Definitions
 
 For purposes of this chapter—
 
@@ -81,7 +81,7 @@ For purposes of this paragraph, an expense is incurred by a candidate or by an a
 
 **(10)** The term “State” means each State of the United States and the District of Columbia.
 
-(Added Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1297; amended Pub. L. 94–283, title I, § 115(c)(2), title III, § 306(b)(1), May 11, 1976, 90 Stat. 495, 500; Pub. L. 110–172, § 11(a)(42)(C), Dec. 29, 2007, 121 Stat. 2488.)
+(Added Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1297; amended Pub. L. 94–283, title I, § 115(c)(2), title III, § 306(b)(1), May 11, 1976, 90 Stat. 495, 500; Pub. L. 110–172, § 11(a)(42)(C), Dec. 29, 2007, 121 Stat. 2488.)
 
 **Editorial Notes**
 
@@ -93,9 +93,9 @@ Section 306(a)(1) of the Federal Election Campaign Act of 1971, referred to in p
 
 2007—Par. (3). Pub. L. 110–172 substituted “section 306(a)(1)” for “section 309(a)(1)”.
 
-1976—Par. (2). Pub. L. 94–283, § 306(b)(1), inserted provision that “candidate” shall not include any individual who is not actively conducting campaigns in more than one State in connection with seeking nomination for election to be President of the United States.
+1976—Par. (2). Pub. L. 94–283, § 306(b)(1), inserted provision that “candidate” shall not include any individual who is not actively conducting campaigns in more than one State in connection with seeking nomination for election to be President of the United States.
 
-Par. (3). Pub. L. 94–283, § 115(c)(2), substituted “309(a)(1)” for “310(a)(1)”.
+Par. (3). Pub. L. 94–283, § 115(c)(2), substituted “309(a)(1)” for “310(a)(1)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -107,7 +107,7 @@ Amendment by section 306(b)(1) of Pub. L. 94–283 effective May 11, 1976, see s
 
 Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under section 30101 of Title 52, Voting and Elections.
 
-## § 9033. Eligibility for payments
+## § 9033. Eligibility for payments
 
 **(a) Conditions** To be eligible to receive payments under section 9037, a candidate shall, in writing—
 
@@ -149,15 +149,15 @@ For purposes of paragraph (1)(B), if the primary elections involved are held in 
 
 **(B)** Notwithstanding the provisions of paragraph (1)(B), a candidate whose payments have been terminated under paragraph (1)(B) may again receive payments (including amounts he would have received but for paragraph (1)(B)) if he receives 20 percent or more of the total number of votes cast for candidates of the same party in a primary election held after the date on which the election was held which was the basis for terminating payments to him.
 
-(Added Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1299; amended Pub. L. 94–283, title III, §§ 305(c), 306(b)(2), May 11, 1976, 90 Stat. 499, 500.)
+(Added Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1299; amended Pub. L. 94–283, title III, §§ 305(c), 306(b)(2), May 11, 1976, 90 Stat. 499, 500.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1976—Subsec. (b)(1). Pub. L. 94–283, § 305(c), substituted “limitations” for “limitation”.
+1976—Subsec. (b)(1). Pub. L. 94–283, § 305(c), substituted “limitations” for “limitation”.
 
-Subsec. (c). Pub. L. 94–283, § 306(b)(2), added subsec. (c).
+Subsec. (c). Pub. L. 94–283, § 306(b)(2), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -169,7 +169,7 @@ Amendment by section 306(b)(2) of Pub. L. 94–283 effective May 11, 1976, see s
 
 Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under section 30101 of Title 52, Voting and Elections.
 
-## § 9034. Entitlement of eligible candidates to payments
+## § 9034. Entitlement of eligible candidates to payments
 
 **(a) In general**
 
@@ -179,7 +179,7 @@ Every candidate who is eligible to receive payments under section 9033 is entitl
 
 The total amount of payments to which a candidate is entitled under subsection (a) shall not exceed 50 percent of the expenditure limitation applicable under section 315(b)(1)(A) of the Federal Election Campaign Act of 1971.
 
-(Added Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1299; amended Pub. L. 94–283, title III, § 307(b), May 11, 1976, 90 Stat. 501; Pub. L. 110–172, § 11(a)(42)(D), Dec. 29, 2007, 121 Stat. 2488.)
+(Added Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1299; amended Pub. L. 94–283, title III, § 307(b), May 11, 1976, 90 Stat. 501; Pub. L. 110–172, § 11(a)(42)(D), Dec. 29, 2007, 121 Stat. 2488.)
 
 **Editorial Notes**
 
@@ -199,7 +199,7 @@ Section 315(b)(1)(A) of the Federal Election Campaign Act of 1971, referred to i
 
 Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under section 30101 of Title 52, Voting and Elections.
 
-## § 9035. Qualified campaign expense limitations
+## § 9035. Qualified campaign expense limitations
 
 **(a) Expenditure limitations**
 
@@ -209,7 +209,7 @@ No candidate shall knowingly incur qualified campaign expenses in excess of the 
 
 For purposes of this section, the term “immediate family” means a candidate’s spouse, and any child, parent, grandparent, brother, half-brother, sister, or half-sister of the candidate, and the spouses of such persons.
 
-(Added Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1300; amended Pub. L. 94–283, title III, §§ 305(a), 307(c), May 11, 1976, 90 Stat. 499, 501; Pub. L. 113–295, div. A, title II, § 220(z), Dec. 19, 2014, 128 Stat. 4037.)
+(Added Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1300; amended Pub. L. 94–283, title III, §§ 305(a), 307(c), May 11, 1976, 90 Stat. 499, 501; Pub. L. 113–295, div. A, title II, § 220(z), Dec. 19, 2014, 128 Stat. 4037.)
 
 **Editorial Notes**
 
@@ -227,13 +227,13 @@ Section 315 of The Federal Election Campaign Act of 1971, referred to in subsec.
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–283, title III, § 305(d), May 11, 1976, 90 Stat. 499, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of applying section 9035(a) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], as amended by subsection (a), expenditures made by an individual after January 29, 1976, and before the date of the enactment of this Act [May 11, 1976] shall not be taken into account.”
+Pub. L. 94–283, title III, § 305(d), May 11, 1976, 90 Stat. 499, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of applying section 9035(a) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], as amended by subsection (a), expenditures made by an individual after January 29, 1976, and before the date of the enactment of this Act [May 11, 1976] shall not be taken into account.”
 
 **Effective Date**
 
 Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under section 30101 of Title 52, Voting and Elections.
 
-## § 9036. Certification by Commission
+## § 9036. Certification by Commission
 
 **(a) Initial certifications**
 
@@ -243,7 +243,7 @@ Not later than 10 days after a candidate establishes his eligibility under secti
 
 Initial certifications by the Commission under subsection (a), and all determinations made by it under this chapter, are final and conclusive, except to the extent that they are subject to examination and audit by the Commission under section 9038 and judicial review under section 9041.
 
-(Added Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1300.)
+(Added Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1300.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -251,7 +251,7 @@ Initial certifications by the Commission under subsection (a), and all determina
 
 Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under section 30101 of Title 52, Voting and Elections.
 
-## § 9037. Payments to eligible candidates
+## § 9037. Payments to eligible candidates
 
 **(a) Establishment of account**
 
@@ -261,7 +261,7 @@ The Secretary shall maintain in the Presidential Election Campaign Fund establis
 
 Upon receipt of a certification from the Commission under section 9036, but not before the beginning of the matching payment period, the Secretary shall promptly transfer the amount certified by the Commission from the matching payment account to the candidate. In making such transfers to candidates of the same political party, the Secretary shall seek to achieve an equitable distribution of funds available under subsection (a), and the Secretary shall take into account, in seeking to achieve an equitable distribution, the sequence in which such certifications are received.
 
-(Added Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1300; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 113–94, § 2(b)(2), Apr. 3, 2014, 128 Stat. 1085.)
+(Added Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1300; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 113–94, § 2(b)(2), Apr. 3, 2014, 128 Stat. 1085.)
 
 **Editorial Notes**
 
@@ -277,7 +277,7 @@ Upon receipt of a certification from the Commission under section 9036, but not 
 
 Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under section 30101 of Title 52, Voting and Elections.
 
-## § 9038. Examinations and audits; repayments
+## § 9038. Examinations and audits; repayments
 
 **(a) Examinations and audits**
 
@@ -305,7 +305,7 @@ No notification shall be made by the Commission under subsection (b) with respec
 
 All payments received by the Secretary under subsection (b) shall be deposited by him in the matching payment account.
 
-(Added Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1300; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1300; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -319,7 +319,7 @@ All payments received by the Secretary under subsection (b) shall be deposited b
 
 Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under section 30101 of Title 52, Voting and Elections.
 
-## § 9039. Reports to Congress; regulations
+## § 9039. Reports to Congress; regulations
 
 **(a) Reports** The Commission shall, as soon as practicable after each matching payment period, submit a full report to the Senate and House of Representatives setting forth—
 
@@ -345,15 +345,15 @@ The Commission is authorized to prescribe rules and regulations in accordance wi
 
 **(4)** For purposes of this subsection, the term “rule or regulation” means a provision or series of interrelated provisions stating a single separable rule of law.
 
-(Added Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1301; amended Pub. L. 94–283, title III, § 304(b), May 11, 1976, 90 Stat. 499.)
+(Added Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1301; amended Pub. L. 94–283, title III, § 304(b), May 11, 1976, 90 Stat. 499.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1976—Subsec. (c)(2). Pub. L. 94–283, § 304(b)(1), inserted provision for accelerated consideration by the House of Representatives of resolutions relating to rules or regulations reported out by committees of the House.
+1976—Subsec. (c)(2). Pub. L. 94–283, § 304(b)(1), inserted provision for accelerated consideration by the House of Representatives of resolutions relating to rules or regulations reported out by committees of the House.
 
-Subsec. (c)(4). Pub. L. 94–283, § 304(b)(2), added par. (4).
+Subsec. (c)(4). Pub. L. 94–283, § 304(b)(2), added par. (4).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -365,7 +365,7 @@ Section applicable with respect to taxable years beginning after Dec. 31, 1974, 
 
 For termination, effective May 15, 2000, of reporting provisions in subsec. (a) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 168 of House Document No. 103–7.
 
-## § 9040. Participation by Commission in judicial proceedings
+## § 9040. Participation by Commission in judicial proceedings
 
 **(a) Appearance by counsel**
 
@@ -383,7 +383,7 @@ The Commission is authorized, through attorneys and counsel described in subsect
 
 The Commission is authorized on behalf of the United States to appeal from, and to petition the Supreme Court for certiorari to review, judgments or decrees entered with respect to actions in which it appears pursuant to the authority provided in this section.
 
-(Added Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1302; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1302; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -397,7 +397,7 @@ The Commission is authorized on behalf of the United States to appeal from, and 
 
 Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under section 30101 of Title 52, Voting and Elections.
 
-## § 9041. Judicial review
+## § 9041. Judicial review
 
 **(a) Review of agency action by the Commission**
 
@@ -407,7 +407,7 @@ Any agency action by the Commission made under the provisions of this chapter sh
 
 The provisions of chapter 7 of title 5, United States Code, apply to judicial review of any agency action, as defined in section 551(13) of title 5, United States Code, by the Commission.
 
-(Added Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1302.)
+(Added Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1302.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -415,7 +415,7 @@ The provisions of chapter 7 of title 5, United States Code, apply to judicial re
 
 Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under section 30101 of Title 52, Voting and Elections.
 
-## § 9042. Criminal penalties
+## § 9042. Criminal penalties
 
 **(a) Excess campaign expenses**
 
@@ -449,7 +449,7 @@ Any person who violates the provisions of section 9035 shall be fined not more t
 
 **(3)** In addition to the penalty provided by paragraph (2), any person who accepts any kickback or illegal payment in connection with any qualified campaign expense of a candidate or his authorized committees shall pay to the Secretary for deposit in the matching payment account, an amount equal to 125 percent of the kickback or payment received.
 
-(Added Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1302.)
+(Added Pub. L. 93–443, title IV, § 408(c), Oct. 15, 1974, 88 Stat. 1302.)
 
 **Statutory Notes and Related Subsidiaries**
 

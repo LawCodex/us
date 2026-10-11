@@ -19,37 +19,37 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2021—Pub. L. 117–58, div. B, title IV, § 24101(d)(2), Nov. 15, 2021, 135 Stat. 785, which directed amendment of this analysis by striking out items 406 to 412 and adding new items 406 to 408, was executed by adding new items 406 to 408 and striking out items 409 “Discovery and admission as evidence of certain reports and surveys” and 412 “Agency accountability” to reflect the probable intent of Congress, as items 406 to 408, 410, and 411 had already been struck out by Pub. L. 112–141. See 2012 Amendment note below.
+2021—Pub. L. 117–58, div. B, title IV, § 24101(d)(2), Nov. 15, 2021, 135 Stat. 785, which directed amendment of this analysis by striking out items 406 to 412 and adding new items 406 to 408, was executed by adding new items 406 to 408 and striking out items 409 “Discovery and admission as evidence of certain reports and surveys” and 412 “Agency accountability” to reflect the probable intent of Congress, as items 406 to 408, 410, and 411 had already been struck out by Pub. L. 112–141. See 2012 Amendment note below.
 
-2015—Pub. L. 114–94, div. A, title IV, § 4004(b), Dec. 4, 2015, 129 Stat. 1501, substituted “High-visibility enforcement program” for “National Highway Safety Advisory Committee” in item 404.
+2015—Pub. L. 114–94, div. A, title IV, § 4004(b), Dec. 4, 2015, 129 Stat. 1501, substituted “High-visibility enforcement program” for “National Highway Safety Advisory Committee” in item 404.
 
-2012—Pub. L. 112–141, div. C, title I, §§ 31105(b), 31109(b)–(f), July 6, 2012, 126 Stat. 755–757, substituted “National priority safety programs” for “Occupant protection incentive grants” in item 405 and struck out items 406 “Safety belt performance grants”, 407 “Innovative project grants”, 408 “State traffic safety information system improvements”, 410 “Alcohol-impaired driving countermeasures”, and 411 “State highway safety data improvements”.
+2012—Pub. L. 112–141, div. C, title I, §§ 31105(b), 31109(b)–(f), July 6, 2012, 126 Stat. 755–757, substituted “National priority safety programs” for “Occupant protection incentive grants” in item 405 and struck out items 406 “Safety belt performance grants”, 407 “Innovative project grants”, 408 “State traffic safety information system improvements”, 410 “Alcohol-impaired driving countermeasures”, and 411 “State highway safety data improvements”.
 
-2005—Pub. L. 109–59, title II, §§ 2005(b), 2006(b), 2008(b), Aug. 10, 2005, 119 Stat. 1527, 1529, 1535, substituted “Safety belt performance grants” for “School bus driver training” in item 406 and “State traffic safety information system improvements” for “Alcohol traffic safety programs” in item 408 and added item 412.
+2005—Pub. L. 109–59, title II, §§ 2005(b), 2006(b), 2008(b), Aug. 10, 2005, 119 Stat. 1527, 1529, 1535, substituted “Safety belt performance grants” for “School bus driver training” in item 406 and “State traffic safety information system improvements” for “Alcohol traffic safety programs” in item 408 and added item 412.
 
-1998—Pub. L. 105–178, title II, §§ 2003(a)(2), 2005(b), June 9, 1998, 112 Stat. 327, 334, substituted “Occupant protection incentive grants” for “Repealed” in item 405 and added item 411.
+1998—Pub. L. 105–178, title II, §§ 2003(a)(2), 2005(b), June 9, 1998, 112 Stat. 327, 334, substituted “Occupant protection incentive grants” for “Repealed” in item 405 and added item 411.
 
-1991—Pub. L. 102–240, title I, § 1035(b), title II, § 2004(c), Dec. 18, 1991, 105 Stat. 1978, 2079, substituted “Discovery and admission” for “Admission” in item 409 and “Alcohol-impaired driving countermeasures” for “Drunk driving prevention programs” in item 410.
+1991—Pub. L. 102–240, title I, § 1035(b), title II, § 2004(c), Dec. 18, 1991, 105 Stat. 1978, 2079, substituted “Discovery and admission” for “Admission” in item 409 and “Alcohol-impaired driving countermeasures” for “Drunk driving prevention programs” in item 410.
 
-1988—Pub. L. 100–690, title IX, § 9002(b), Nov. 18, 1988, 102 Stat. 4525, added item 410.
+1988—Pub. L. 100–690, title IX, § 9002(b), Nov. 18, 1988, 102 Stat. 4525, added item 410.
 
-1987—Pub. L. 100–17, title I, § 132(b), Apr. 2, 1987, 101 Stat. 170, added item 409.
+1987—Pub. L. 100–17, title I, § 132(b), Apr. 2, 1987, 101 Stat. 170, added item 409.
 
-1982—Pub. L. 97–364, title I, § 101(b), Oct. 25, 1982, 96 Stat. 1740, added item 408.
+1982—Pub. L. 97–364, title I, § 101(b), Oct. 25, 1982, 96 Stat. 1740, added item 408.
 
-1978—Pub. L. 95–599, title II, § 208(b), Nov. 6, 1978, 92 Stat. 2732, added item 407.
+1978—Pub. L. 95–599, title II, § 208(b), Nov. 6, 1978, 92 Stat. 2732, added item 407.
 
-1976—Pub. L. 94–280, title I, § 135(d), May 5, 1976, 90 Stat. 442, substituted item 405 “Repealed” for “Federal-aid safer roads demonstration program”.
+1976—Pub. L. 94–280, title I, § 135(d), May 5, 1976, 90 Stat. 442, substituted item 405 “Repealed” for “Federal-aid safer roads demonstration program”.
 
-1975—Pub. L. 93–643, § 126(b), Jan. 4, 1975, 88 Stat. 2291, added item 406.
+1975—Pub. L. 93–643, § 126(b), Jan. 4, 1975, 88 Stat. 2291, added item 406.
 
-1973—Pub. L. 93–87, title II, § 230(b), Aug. 13, 1973, 87 Stat. 294, added item 405.
+1973—Pub. L. 93–87, title II, § 230(b), Aug. 13, 1973, 87 Stat. 294, added item 405.
 
-## § 401. Authority of the Secretary
+## § 401. Authority of the Secretary
 
 The Secretary is authorized and directed to assist and cooperate with other Federal departments and agencies, State and local governments, private industry, and other interested parties, to increase highway safety. For the purposes of this chapter, the term “State” means any one of the fifty States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-(Added Pub. L. 89–564, title I, § 101, Sept. 9, 1966, 80 Stat. 731; amended Pub. L. 93–87, title II, § 218, Aug. 13, 1973, 87 Stat. 290; Pub. L. 98–363, § 3(b), July 17, 1984, 98 Stat. 436; Pub. L. 100–17, title I, § 133(b)(19), Apr. 2, 1987, 101 Stat. 172.)
+(Added Pub. L. 89–564, title I, § 101, Sept. 9, 1966, 80 Stat. 731; amended Pub. L. 93–87, title II, § 218, Aug. 13, 1973, 87 Stat. 290; Pub. L. 98–363, § 3(b), July 17, 1984, 98 Stat. 436; Pub. L. 100–17, title I, § 133(b)(19), Apr. 2, 1987, 101 Stat. 172.)
 
 **Editorial Notes**
 
@@ -57,7 +57,7 @@ The Secretary is authorized and directed to assist and cooperate with other Fede
 
 1987—Pub. L. 100–17 inserted reference in second sentence to Commonwealth of the Northern Mariana Islands.
 
-1984—Pub. L. 98–363 struck out “, except that all expenditures for carrying out this chapter in the Virgin Islands, Guam, and American Samoa shall be paid out of money in the Treasury not otherwise appropriated” after “and American Samoa”.
+1984—Pub. L. 98–363 struck out “, except that all expenditures for carrying out this chapter in the Virgin Islands, Guam, and American Samoa shall be paid out of money in the Treasury not otherwise appropriated” after “and American Samoa”.
 
 1973—Pub. L. 93–87 inserted definition of “State” and provided that all expenditures for carrying out this chapter in the Virgin Islands, Guam, and American Samoa shall be paid out of money in the Treasury not otherwise appropriated.
 
@@ -65,47 +65,47 @@ The Secretary is authorized and directed to assist and cooperate with other Fede
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–363, § 3(c), July 17, 1984, 98 Stat. 436, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 402 of this title] shall apply to fiscal years beginning after the date of enactment of this Act [July 17, 1984].”
+Pub. L. 98–363, § 3(c), July 17, 1984, 98 Stat. 436, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 402 of this title] shall apply to fiscal years beginning after the date of enactment of this Act [July 17, 1984].”
 
 **Short Title of 1991 Amendment**
 
-Pub. L. 102–240, title II, § 2001, Dec. 18, 1991, 105 Stat. 2070, provided that: “This part [part A (§§ 2001–2009) of title II of Pub. L. 102–240, amending sections 402, 403, and 410 of this title, enacting provisions set out as notes under sections 402, 403, and 410 of this title, and amending provisions set out below] may be cited as the ‘Highway Safety Act of 1991’.”
+Pub. L. 102–240, title II, § 2001, Dec. 18, 1991, 105 Stat. 2070, provided that: “This part [part A (§§ 2001–2009) of title II of Pub. L. 102–240, amending sections 402, 403, and 410 of this title, enacting provisions set out as notes under sections 402, 403, and 410 of this title, and amending provisions set out below] may be cited as the ‘Highway Safety Act of 1991’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–690, title IX, § 9001, Nov. 18, 1988, 102 Stat. 4521, provided that: “This subtitle [subtitle A (§§ 9001 to 9005) of title IX of Pub. L. 100–690, enacting section 410 of this title and provisions set out as notes under sections 403 and 410 of this title] may be cited as the ‘Drunk Driving Prevention Act of 1988’.”
+Pub. L. 100–690, title IX, § 9001, Nov. 18, 1988, 102 Stat. 4521, provided that: “This subtitle [subtitle A (§§ 9001 to 9005) of title IX of Pub. L. 100–690, enacting section 410 of this title and provisions set out as notes under sections 403 and 410 of this title] may be cited as the ‘Drunk Driving Prevention Act of 1988’.”
 
 **Short Title of 1987 Amendment**
 
-Pub. L. 100–17, title II, § 201, Apr. 2, 1987, 101 Stat. 218, provided that: “This title [amending sections 402 and 408 of this title and section 2314 of former Title 49, Transportation, enacting provisions set out as notes under this section, section 402 of this title, and section 2204 of former Title 49, and amending provisions set out as a note under this section] be cited as the ‘Highway Safety Act of 1987’.”
+Pub. L. 100–17, title II, § 201, Apr. 2, 1987, 101 Stat. 218, provided that: “This title [amending sections 402 and 408 of this title and section 2314 of former Title 49, Transportation, enacting provisions set out as notes under this section, section 402 of this title, and section 2204 of former Title 49, and amending provisions set out as a note under this section] be cited as the ‘Highway Safety Act of 1987’.”
 
 **Short Title of 1983 Amendment**
 
-Pub. L. 97–424, title II, § 201, Jan. 6, 1983, 96 Stat. 2137, provided that: “This title [amending section 402 of this title and enacting provisions set out as notes under this section and sections 130, 154, and 408 of this title] may be cited as the ‘Highway Safety Act of 1982’.”
+Pub. L. 97–424, title II, § 201, Jan. 6, 1983, 96 Stat. 2137, provided that: “This title [amending section 402 of this title and enacting provisions set out as notes under this section and sections 130, 154, and 408 of this title] may be cited as the ‘Highway Safety Act of 1982’.”
 
 **Short Title of 1978 Amendment**
 
-Pub. L. 95–599, title II, § 201, Nov. 6, 1978, 92 Stat. 2727, provided that: “This title [enacting section 407 of this title, amending sections 154 and 402 of this title, and enacting provisions set out as notes under this section and sections 130, 307, 402, and 403 of this title] may be cited as the ‘Highway Safety Act of 1978’.”
+Pub. L. 95–599, title II, § 201, Nov. 6, 1978, 92 Stat. 2727, provided that: “This title [enacting section 407 of this title, amending sections 154 and 402 of this title, and enacting provisions set out as notes under this section and sections 130, 307, 402, and 403 of this title] may be cited as the ‘Highway Safety Act of 1978’.”
 
 **Short Title of 1976 Amendment**
 
-Pub. L. 94–280, title II, § 201, May 5, 1976, 90 Stat. 451, provided that: “That title [amending sections 104, 151, 402, 404, and 406 of this title and provisions set out as a note under section 130 of this title and enacting provisions set out as notes under sections 127 and 402 of this title] may be cited as the ‘Highway Safety Act of 1976’.”
+Pub. L. 94–280, title II, § 201, May 5, 1976, 90 Stat. 451, provided that: “That title [amending sections 104, 151, 402, 404, and 406 of this title and provisions set out as a note under section 130 of this title and enacting provisions set out as notes under sections 127 and 402 of this title] may be cited as the ‘Highway Safety Act of 1976’.”
 
 **Short Title of 1973 Amendment**
 
-Pub. L. 93–87, title II, § 201, Aug. 13, 1973, 87 Stat. 282, provided that: “This title [enacting sections 151 to 153 and 405 of this title, amending this section and sections 104 and 402 to 404 of this title, and enacting provisions set out as notes under this section and sections 130, 144, 151, 217, and 403 of this title] may be cited as the ‘Highway Safety Act of 1973’.”
+Pub. L. 93–87, title II, § 201, Aug. 13, 1973, 87 Stat. 282, provided that: “This title [enacting sections 151 to 153 and 405 of this title, amending this section and sections 104 and 402 to 404 of this title, and enacting provisions set out as notes under this section and sections 130, 144, 151, 217, and 403 of this title] may be cited as the ‘Highway Safety Act of 1973’.”
 
 **Short Title of 1970 Amendment**
 
-Pub. L. 91–605, title II, § 201, Dec. 31, 1970, 84 Stat. 1739, provided that: “This title [enacting sections 144 and 322 of this title, amending provisions set out as notes under this section and section 402 of this title, and enacting provisions set out as notes under this section and section 402 of this title] may be cited as the ‘Highway Safety Act of 1970’.”
+Pub. L. 91–605, title II, § 201, Dec. 31, 1970, 84 Stat. 1739, provided that: “This title [enacting sections 144 and 322 of this title, amending provisions set out as notes under this section and section 402 of this title, and enacting provisions set out as notes under this section and section 402 of this title] may be cited as the ‘Highway Safety Act of 1970’.”
 
 **Short Title**
 
-Pub. L. 89–564, title II, § 208, Sept. 9, 1966, 80 Stat. 737, provided that: “This Act [enacting this chapter, amending sections 105 and 307 of this title, repealing sections 135 and 313 of this title, and enacting provisions set out as notes under this section and sections 303, 307, 402, and 403 of this title] may be cited as the ‘Highway Safety Act of 1966’.”
+Pub. L. 89–564, title II, § 208, Sept. 9, 1966, 80 Stat. 737, provided that: “This Act [enacting this chapter, amending sections 105 and 307 of this title, repealing sections 135 and 313 of this title, and enacting provisions set out as notes under this section and sections 303, 307, 402, and 403 of this title] may be cited as the ‘Highway Safety Act of 1966’.”
 
 **Transportation Management Plans**
 
-Pub. L. 117–58, div. A, title I, § 11303, Nov. 15, 2021, 135 Stat. 530, provided that:
+Pub. L. 117–58, div. A, title I, § 11303, Nov. 15, 2021, 135 Stat. 530, provided that:
 
 > **“(a) In General.—** The Secretary [of Transportation] shall amend section 630.1010(c) of title 23, Code of Federal Regulations, to ensure that only a project described in that subsection with a lane closure for 3 or more consecutive days shall be considered to be a significant project for purposes of that section.
 
@@ -113,9 +113,9 @@ Pub. L. 117–58, div. A, title I, § 11303, Nov. 15, 2021, 135 Stat. 530, pro
 
 **Highway Safety Grants Emergency Authority**
 
-Pub. L. 116–260, div. N, title IV, § 442, Dec. 27, 2020, 134 Stat. 2069, provided that: “Notwithstanding any other provision of law, in fiscal year 2021, the Secretary of Transportation may exercise the authority provided by section 22005 of division B of the CARES Act (23 U.S.C. 401 note [set out below]; Public Law 116–136).”
+Pub. L. 116–260, div. N, title IV, § 442, Dec. 27, 2020, 134 Stat. 2069, provided that: “Notwithstanding any other provision of law, in fiscal year 2021, the Secretary of Transportation may exercise the authority provided by section 22005 of division B of the CARES Act (23 U.S.C. 401 note [set out below]; Public Law 116–136).”
 
-Pub. L. 116–136, div. B, title XII, § 22005, Mar. 27, 2020, 134 Stat. 613, provided that:
+Pub. L. 116–136, div. B, title XII, § 22005, Mar. 27, 2020, 134 Stat. 613, provided that:
 
 > **“(a) In General.—** The Secretary of Transportation (referred to in this section as the ‘Secretary’) may waive or postpone any requirement under section 402, 404, 405, or 412 of title 23, United States Code, section 4001 of the FAST Act (Public Law 114–94; 129 Stat. 1497) [23 U.S.C. 401 note, 402 note], or part 1300 of title 23, Code of Federal Regulations (or successor regulations), if the Secretary determines that—
 
@@ -137,7 +137,7 @@ Pub. L. 116–136, div. B, title XII, § 22005, Mar. 27, 2020, 134 Stat. 613, 
 
 **Wildlife Vehicle Collision Reduction Study**
 
-Pub. L. 109–59, title I, § 1119(n), Aug. 10, 2005, 119 Stat. 1190, provided that:
+Pub. L. 109–59, title I, § 1119(n), Aug. 10, 2005, 119 Stat. 1190, provided that:
 
 > **“(1) In general.—** The Secretary [of Transportation] shall conduct a study of methods to reduce collisions between motor vehicles and wildlife (in this subsection referred to as ‘wildlife vehicle collisions’).
 
@@ -185,11 +185,11 @@ Pub. L. 109–59, title I, § 1119(n), Aug. 10, 2005, 119 Stat. 1190, provided
 
 **Worker Injury Prevention and Free Flow of Vehicular Traffic**
 
-Pub. L. 109–59, title I, § 1402, Aug. 10, 2005, 119 Stat. 1227, provided that: “Not later than 1 year after the date of enactment of this Act [Aug. 10, 2005], the Secretary [of Transportation] shall issue regulations to decrease the likelihood of worker injury and maintain the free flow of vehicular traffic by requiring workers whose duties place them on or in close proximity to a Federal-aid highway (as defined in section 101 of title 23, United States Code) to wear high visibility garments. The regulations may also require such other worker-safety measures for workers with those duties as the Secretary determines to be appropriate.”
+Pub. L. 109–59, title I, § 1402, Aug. 10, 2005, 119 Stat. 1227, provided that: “Not later than 1 year after the date of enactment of this Act [Aug. 10, 2005], the Secretary [of Transportation] shall issue regulations to decrease the likelihood of worker injury and maintain the free flow of vehicular traffic by requiring workers whose duties place them on or in close proximity to a Federal-aid highway (as defined in section 101 of title 23, United States Code) to wear high visibility garments. The regulations may also require such other worker-safety measures for workers with those duties as the Secretary determines to be appropriate.”
 
 **Roadway Safety Improvements for Older Drivers and Pedestrians**
 
-Pub. L. 109–59, title I, § 1405, Aug. 10, 2005, 119 Stat. 1230, provided that:
+Pub. L. 109–59, title I, § 1405, Aug. 10, 2005, 119 Stat. 1230, provided that:
 
 > **“(a) In General.—** The Secretary [of Transportation] shall carry out a program to improve traffic signs and pavement markings in all States (as such term is defined in section 101 of title 23, United States Code) in a manner consistent with the recommendations included in the publication of the Federal Highway Administration entitled ‘Guidelines and Recommendations to Accommodate Older Drivers and Pedestrians (FHWA–RD–01–103)’ and dated October 2001.
 
@@ -199,7 +199,7 @@ Pub. L. 109–59, title I, § 1405, Aug. 10, 2005, 119 Stat. 1230, provided th
 
 **Work Zone and Guard Rail Safety Training**
 
-Pub. L. 109–59, title I, § 1409(a)–(c), Aug. 10, 2005, 119 Stat. 1232, as amended by Pub. L. 114–94, div. A, title I, § 1417(a)(2), Dec. 4, 2015, 129 Stat. 1423, provided that:
+Pub. L. 109–59, title I, § 1409(a)–(c), Aug. 10, 2005, 119 Stat. 1232, as amended by Pub. L. 114–94, div. A, title I, § 1417(a)(2), Dec. 4, 2015, 129 Stat. 1423, provided that:
 
 > **“(a) In General.—** The Secretary [of Transportation] shall establish and implement a work zone safety grant program under which the Secretary may make grants to nonprofit organizations and not-for-profit organizations to provide training to prevent or reduce highway work zone injuries and fatalities.
 
@@ -221,7 +221,7 @@ Pub. L. 109–59, title I, § 1409(a)–(c), Aug. 10, 2005, 119 Stat. 1232, as
 
 **Prohibition on Other Uses**
 
-Pub. L. 117–58, div. B, title IV, § 24101(b), Nov. 15, 2021, 135 Stat. 784, provided that:
+Pub. L. 117–58, div. B, title IV, § 24101(b), Nov. 15, 2021, 135 Stat. 784, provided that:
 
 > “Except as otherwise provided in chapter 4 of title 23, and chapter 303 of title 49, United States Code, the amounts made available under subsection (a) [of section 24101 of Pub. L. 117–58, 135 Stat. 784] or any other provision of law from the Highway Trust Fund (other than the Mass Transit Account) for a program under those chapters—
 
@@ -231,19 +231,19 @@ Pub. L. 117–58, div. B, title IV, § 24101(b), Nov. 15, 2021, 135 Stat. 784,
 
 Similar provisions were contained in the following prior acts:
 
-Pub. L. 114–94, div. A, title IV, § 4001(b), Dec. 4, 2015, 129 Stat. 1498.
+Pub. L. 114–94, div. A, title IV, § 4001(b), Dec. 4, 2015, 129 Stat. 1498.
 
-Pub. L. 112–141, div. C, title I, § 31101(b), July 6, 2012, 126 Stat. 733.
+Pub. L. 112–141, div. C, title I, § 31101(b), July 6, 2012, 126 Stat. 733.
 
-Pub. L. 109–59, title II, § 2001(b), Aug. 10, 2005, 119 Stat. 1520.
+Pub. L. 109–59, title II, § 2001(b), Aug. 10, 2005, 119 Stat. 1520.
 
 **Use of Uniformed Police Officers on Federal-Aid Highway Construction Projects**
 
-Pub. L. 105–178, title I, § 1213(c), June 9, 1998, 112 Stat. 200, provided that the Secretary, in consultation with the States, State transportation departments, and law enforcement organizations, would conduct a study on the extent and effectiveness of use by States of uniformed police officers on Federal-aid highway construction projects, and would submit to Congress, not later than 2 years after June 9, 1998, a report on the results of the study, including any legislative and administrative recommendations.
+Pub. L. 105–178, title I, § 1213(c), June 9, 1998, 112 Stat. 200, provided that the Secretary, in consultation with the States, State transportation departments, and law enforcement organizations, would conduct a study on the extent and effectiveness of use by States of uniformed police officers on Federal-aid highway construction projects, and would submit to Congress, not later than 2 years after June 9, 1998, a report on the results of the study, including any legislative and administrative recommendations.
 
 **Radio and Microwave Technology for Motor Vehicle Safety Warning System**
 
-Pub. L. 104–59, title III, § 358(c), Nov. 28, 1995, 109 Stat. 625, provided that:
+Pub. L. 104–59, title III, § 358(c), Nov. 28, 1995, 109 Stat. 625, provided that:
 
 > **“(1) Study.—** The Secretary, in consultation with the Federal Communications Commission and the National Telecommunications and Information Administration, shall conduct a study to develop and evaluate radio and microwave technology for a motor vehicle safety warning system in furtherance of safety in all types of motor vehicles.
 
@@ -259,9 +259,9 @@ Pub. L. 104–59, title III, § 358(c), Nov. 28, 1995, 109 Stat. 625, provided
 
 **Work Zone Safety Program**
 
-Pub. L. 117–58, div. A, title I, § 11302, Nov. 15, 2021, 135 Stat. 530, provided that: “The Secretary [of Transportation] shall amend section 630.1008(e) of title 23, Code of Federal Regulations, to ensure that the work zone process review under that subsection is required not more frequently than once every 5 years.”
+Pub. L. 117–58, div. A, title I, § 11302, Nov. 15, 2021, 135 Stat. 530, provided that: “The Secretary [of Transportation] shall amend section 630.1008(e) of title 23, Code of Federal Regulations, to ensure that the work zone process review under that subsection is required not more frequently than once every 5 years.”
 
-Pub. L. 109–59, title I, § 1410, Aug. 10, 2005, 119 Stat. 1233, provided that:
+Pub. L. 109–59, title I, § 1410, Aug. 10, 2005, 119 Stat. 1233, provided that:
 
 > **“(a) Grants.—** The Secretary [of Transportation] shall make grants for fiscal years 2006 through 2009 to a national nonprofit foundation for the operation of the National Work Zone Safety Information Clearinghouse, authorized by section 358(b)(2) of Public Law 104–59 [set out below], created for the purpose of assembling and disseminating, by electronic and other means, information relating to improvement of roadway work zone safety.
 
@@ -269,7 +269,7 @@ Pub. L. 109–59, title I, § 1410, Aug. 10, 2005, 119 Stat. 1233, provided th
 
 > **“(c) Contract Authority.—** Funds authorized by this subsection shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code, except the Federal share of the cost of activities carried out using such funds shall be 100 percent, and such funds shall remain available until expended and shall not be transferable.”
 
-Pub. L. 104–59, title III, § 358(b), Nov. 28, 1995, 109 Stat. 625, provided that:
+Pub. L. 104–59, title III, § 358(b), Nov. 28, 1995, 109 Stat. 625, provided that:
 
 > “In carrying out the work zone safety program under section 1051 of the Intermodal Surface Transportation Efficiency Act of 1991 [Pub. L. 102–240] (23 U.S.C. 401 note; 105 Stat. 2001), the Secretary shall utilize a variety of methods to increase safety at highway construction sites, including each of the following:
 
@@ -285,11 +285,11 @@ Pub. L. 104–59, title III, § 358(b), Nov. 28, 1995, 109 Stat. 625, provided
 
 > **“(6)** Encouraging the use of unit price bid items in contracts for traffic control devices and implementation of traffic control plans.”
 
-Pub. L. 102–240, title I, § 1051, Dec. 18, 1991, 105 Stat. 2001, provided that: “The Secretary shall develop and implement a work zone safety program which will improve work zone safety at highway construction sites by enhancing the quality and effectiveness of traffic control devices, safety appurtenances, traffic control plans, and bidding practices for traffic control devices and services.”
+Pub. L. 102–240, title I, § 1051, Dec. 18, 1991, 105 Stat. 2001, provided that: “The Secretary shall develop and implement a work zone safety program which will improve work zone safety at highway construction sites by enhancing the quality and effectiveness of traffic control devices, safety appurtenances, traffic control plans, and bidding practices for traffic control devices and services.”
 
 **Older Drivers and Other Special Driver Groups**
 
-Pub. L. 104–59, title III, § 358(a), Nov. 28, 1995, 109 Stat. 625, provided that:
+Pub. L. 104–59, title III, § 358(a), Nov. 28, 1995, 109 Stat. 625, provided that:
 
 > **“(1) Study.—** The Secretary shall conduct a study of technologies and practices to improve the driving performance of older drivers and other special driver groups.
 
@@ -297,21 +297,21 @@ Pub. L. 104–59, title III, § 358(a), Nov. 28, 1995, 109 Stat. 625, provided
 
 > **“(3) Cooperative agreement.—** The Secretary shall conduct the study under paragraph (1) by entering into a cooperative agreement with an institution that has demonstrated competencies in gerontological research, population demographics, human factors related to transportation, and advanced technology applied to transportation.”
 
-Pub. L. 100–17, title II, § 208, Apr. 2, 1987, 101 Stat. 222, as amended by Pub. L. 100–202, § 101(*l*) [title III, § 348(h)], Dec. 22, 1987, 101 Stat. 1329–358, 1329–389, directed Secretary to enter into appropriate arrangements with National Academy of Sciences to conduct a comprehensive study and investigation of (1) problems which could inhibit the safety and mobility of older drivers using the Nation’s roads, and (2) means of addressing these problems, to request the Academy to report to Secretary and Congress not later than 24 months after Apr. 2, 1987, on the results of such study and investigation, to furnish to the Academy any information which it deems necessary for conducting the investigation and study, and to develop, in conjunction with the study, a pilot program of highway safety improvements to enhance the safety and mobility of older drivers and, not later than 3 years after Apr. 2, 1987, to evaluate the pilot program and report to Congress on the effectiveness of the program in improving the safety and mobility of older drivers.
+Pub. L. 100–17, title II, § 208, Apr. 2, 1987, 101 Stat. 222, as amended by Pub. L. 100–202, § 101(*l*) [title III, § 348(h)], Dec. 22, 1987, 101 Stat. 1329–358, 1329–389, directed Secretary to enter into appropriate arrangements with National Academy of Sciences to conduct a comprehensive study and investigation of (1) problems which could inhibit the safety and mobility of older drivers using the Nation’s roads, and (2) means of addressing these problems, to request the Academy to report to Secretary and Congress not later than 24 months after Apr. 2, 1987, on the results of such study and investigation, to furnish to the Academy any information which it deems necessary for conducting the investigation and study, and to develop, in conjunction with the study, a pilot program of highway safety improvements to enhance the safety and mobility of older drivers and, not later than 3 years after Apr. 2, 1987, to evaluate the pilot program and report to Congress on the effectiveness of the program in improving the safety and mobility of older drivers.
 
 **Annual Report by Secretary of Transportation on Highway Safety Performance of Each State**
 
-Pub. L. 97–424, title II, § 207, Jan. 6, 1983, 96 Stat. 2139, provided that: “The Secretary of Transportation shall prepare, publish, and submit to Congress not later than December 31 of each calendar year beginning after December 31, 1982, a report on the highway safety performance of each State in the preceding calendar year. Such report shall provide data on highway fatalities and injuries and motor vehicle accidents involving fatalities and injuries and travel in urban areas of each State for each system of highways and in rural areas of such State for each system of highways. Such report shall be in such form and contain such other information on highway accidents as will permit an evaluation and comparison of highway safety performance of the States. For purposes of this section (1) the systems of highways in a State are the Federal-aid primary system, the Federal-aid secondary system, the Federal-aid urban system, and the Interstate System (as such terms are defined in section 101 of title 23, United States Code) and the other highways in such State which are not on the Federal-aid system, and (2) the terms ‘State’, ‘rural areas’, and ‘urban area’ have the meaning such terms have under section 101.”
+Pub. L. 97–424, title II, § 207, Jan. 6, 1983, 96 Stat. 2139, provided that: “The Secretary of Transportation shall prepare, publish, and submit to Congress not later than December 31 of each calendar year beginning after December 31, 1982, a report on the highway safety performance of each State in the preceding calendar year. Such report shall provide data on highway fatalities and injuries and motor vehicle accidents involving fatalities and injuries and travel in urban areas of each State for each system of highways and in rural areas of such State for each system of highways. Such report shall be in such form and contain such other information on highway accidents as will permit an evaluation and comparison of highway safety performance of the States. For purposes of this section (1) the systems of highways in a State are the Federal-aid primary system, the Federal-aid secondary system, the Federal-aid urban system, and the Interstate System (as such terms are defined in section 101 of title 23, United States Code) and the other highways in such State which are not on the Federal-aid system, and (2) the terms ‘State’, ‘rural areas’, and ‘urban area’ have the meaning such terms have under section 101.”
 
 [For termination, effective May 15, 2000, of provisions relating to submittal of report to Congress in section 207 of Pub. L. 97–424, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 136 of House Document No. 103–7.]
 
 **National Driver Registration**
 
-Pub. L. 97–364, title II, §§ 201–211, Oct. 25, 1982, 96 Stat. 1740–1748, as amended by Pub. L. 100–223, title III, § 305, Dec. 30, 1987, 101 Stat. 1525; Pub. L. 100–342, § 4(b), June 22, 1988, 102 Stat. 626; Pub. L. 101–380, title IV, § 4105(a), Aug. 18, 1990, 104 Stat. 512; Pub. L. 102–240, title II, § 2007, Dec. 18, 1991, 105 Stat. 2080, directed Secretary of Transportation to establish and maintain a National Driver Register to assist States in exchange of information on motor vehicle driving records of individuals and provided for reports by State officials, accessibility of Register information, a pilot test program, criminal penalties, an advisory committee, and a report to Congress by the Secretary, prior to repeal by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379, and Pub. L. 103–429, § 8(10), Oct. 31, 1994, 108 Stat. 4390, and was restated in part in chapter 303 of Title 49, Transportation.
+Pub. L. 97–364, title II, §§ 201–211, Oct. 25, 1982, 96 Stat. 1740–1748, as amended by Pub. L. 100–223, title III, § 305, Dec. 30, 1987, 101 Stat. 1525; Pub. L. 100–342, § 4(b), June 22, 1988, 102 Stat. 626; Pub. L. 101–380, title IV, § 4105(a), Aug. 18, 1990, 104 Stat. 512; Pub. L. 102–240, title II, § 2007, Dec. 18, 1991, 105 Stat. 2080, directed Secretary of Transportation to establish and maintain a National Driver Register to assist States in exchange of information on motor vehicle driving records of individuals and provided for reports by State officials, accessibility of Register information, a pilot test program, criminal penalties, an advisory committee, and a report to Congress by the Secretary, prior to repeal by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379, and Pub. L. 103–429, § 8(10), Oct. 31, 1994, 108 Stat. 4390, and was restated in part in chapter 303 of Title 49, Transportation.
 
 **Pilot Projects for Highway Safety Education and Information**
 
-Pub. L. 95–599, title II, § 209, Nov. 6, 1978, 92 Stat. 2732, as amended by Pub. L. 97–424, title II, § 206, Jan. 6, 1983, 96 Stat. 2139; Pub. L. 100–17, title II, § 207, Apr. 2, 1987, 101 Stat. 221, provided that:
+Pub. L. 95–599, title II, § 209, Nov. 6, 1978, 92 Stat. 2732, as amended by Pub. L. 97–424, title II, § 206, Jan. 6, 1983, 96 Stat. 2139; Pub. L. 100–17, title II, § 207, Apr. 2, 1987, 101 Stat. 221, provided that:
 
 > **“(a)** The Secretary of Transportation shall carry out six pilot projects designed, through the use of television and radio, to develop and evaluate techniques, methods, and practices to achieve maximum measurable effectiveness in reducing traffic accidents, injuries, and deaths.
 
@@ -335,35 +335,35 @@ Pub. L. 95–599, title II, § 209, Nov. 6, 1978, 92 Stat. 2732, as amended by
 
 **Highway Safety Educational Programing and Study; Report to Congress; Series of Highway Safety Television Programs; Appropriations Authorizations**
 
-Pub. L. 93–87, title II, § 211, Aug. 13, 1973, 87 Stat. 288, directed Secretary of Transportation, in cooperation with government and nongovernment authorities and individuals, to conduct a full and complete investigation and study of use of mass media for informing and educating the public of ways and means for reducing number and severity of highway accidents, to report to Congress his findings and recommendations by June 30, 1974, and to develop, in consultation with State and local highway safety officials, a series of highway safety television programs of varying lengths for use in accordance with provisions of the Communication Act of 1934 (47 U.S.C. 151 et seq.).
+Pub. L. 93–87, title II, § 211, Aug. 13, 1973, 87 Stat. 288, directed Secretary of Transportation, in cooperation with government and nongovernment authorities and individuals, to conduct a full and complete investigation and study of use of mass media for informing and educating the public of ways and means for reducing number and severity of highway accidents, to report to Congress his findings and recommendations by June 30, 1974, and to develop, in consultation with State and local highway safety officials, a series of highway safety television programs of varying lengths for use in accordance with provisions of the Communication Act of 1934 (47 U.S.C. 151 et seq.).
 
 **Highway Safety Citizen Participation Study**
 
-Pub. L. 93–87, title II, § 212, Aug. 13, 1973, 87 Stat. 289, authorized the appropriation of $1,000,000 for a study by the Secretary of Transportation, with cooperation of State and local highway safety authorities, of ways and means of encouraging greater citizen participation in highway safety programs, the results of such study and recommendations to be reported to Congress by June 30, 1974.
+Pub. L. 93–87, title II, § 212, Aug. 13, 1973, 87 Stat. 289, authorized the appropriation of $1,000,000 for a study by the Secretary of Transportation, with cooperation of State and local highway safety authorities, of ways and means of encouraging greater citizen participation in highway safety programs, the results of such study and recommendations to be reported to Congress by June 30, 1974.
 
 **National Center for Statistical Analysis of Highway Operations**
 
-Pub. L. 93–87, title II, § 213, Aug. 13, 1973, 87 Stat. 289, authorized the appropriation of $5,000,000 to make a study of the feasibility of establishing a National Center for Statistical Analysis of Highway Operations designed to acquire, store and retrieve accident data, the results of such study and recommendations to be reported to Congress not later than Jan. 1, 1975.
+Pub. L. 93–87, title II, § 213, Aug. 13, 1973, 87 Stat. 289, authorized the appropriation of $5,000,000 to make a study of the feasibility of establishing a National Center for Statistical Analysis of Highway Operations designed to acquire, store and retrieve accident data, the results of such study and recommendations to be reported to Congress not later than Jan. 1, 1975.
 
 **Pedestrian and Bicycle Safety Study**
 
-Pub. L. 93–87, title II, § 214, Aug. 13, 1973, 87 Stat. 289, authorized the appropriation of $5,000,000 for a study of pedestrian and bicycle safety, including a review of local ordinances, the relationship between alcohol and pedestrian and bicycle safety, etc., the results of such study and recommendations to be reported to Congress not later than Jan. 31, 1975.
+Pub. L. 93–87, title II, § 214, Aug. 13, 1973, 87 Stat. 289, authorized the appropriation of $5,000,000 for a study of pedestrian and bicycle safety, including a review of local ordinances, the relationship between alcohol and pedestrian and bicycle safety, etc., the results of such study and recommendations to be reported to Congress not later than Jan. 31, 1975.
 
 **Highway Safety Needs Study**
 
-Pub. L. 93–87, title II, § 225, Aug. 13, 1973, 87 Stat. 292, mandated a study by the Secretary of Transportation of highway safety needs of the States, including those of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands and other territories, in order to evaluate continuing safety programs and furnish Congress with information necessary for authorization of appropriations for continuing safety programs, the results of such study, estimates and recommendations to be submitted to Congress not later than Jan. 10, 1976.
+Pub. L. 93–87, title II, § 225, Aug. 13, 1973, 87 Stat. 292, mandated a study by the Secretary of Transportation of highway safety needs of the States, including those of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands and other territories, in order to evaluate continuing safety programs and furnish Congress with information necessary for authorization of appropriations for continuing safety programs, the results of such study, estimates and recommendations to be submitted to Congress not later than Jan. 10, 1976.
 
 **National Highway Traffic Safety Administration; Creation; Appointment of Administrator and Deputy Administrator; Duties; Retroactive Effect**
 
-Pub. L. 89–564, title II, § 201, Sept. 9, 1966, 80 Stat. 735, as amended by Pub. L. 89–670, § 8(h), Oct. 15, 1966, 80 Stat. 943; Pub. L. 90–83, § 10(b), Sept. 11, 1967, 81 Stat. 224; Pub. L. 91–605, title II, § 202(a), Dec. 31, 1970, 84 Stat. 1739, which provided for the creation of National Highway Traffic Safety Administration in the Department of Transportation, was repealed by Pub. L. 97–449, § 7(b), Jan. 12, 1983, 96 Stat. 2444, and reenacted by section 1(b) of Pub. L. 97–449 as section 105 of Title 49, Transportation.
+Pub. L. 89–564, title II, § 201, Sept. 9, 1966, 80 Stat. 735, as amended by Pub. L. 89–670, § 8(h), Oct. 15, 1966, 80 Stat. 943; Pub. L. 90–83, § 10(b), Sept. 11, 1967, 81 Stat. 224; Pub. L. 91–605, title II, § 202(a), Dec. 31, 1970, 84 Stat. 1739, which provided for the creation of National Highway Traffic Safety Administration in the Department of Transportation, was repealed by Pub. L. 97–449, § 7(b), Jan. 12, 1983, 96 Stat. 2444, and reenacted by section 1(b) of Pub. L. 97–449 as section 105 of Title 49, Transportation.
 
 **Acting Administrator of National Highway Traffic Safety Administration**
 
-Pub. L. 91–605, title II, § 202(b), Dec. 31, 1970, 84 Stat. 1740, permitted President to authorize any person who immediately before Dec. 31, 1970, held the office of Director of the National Highway Safety Bureau, to act as Administrator of the National Highway Traffic Safety Administration until the appointment of the first Administrator.
+Pub. L. 91–605, title II, § 202(b), Dec. 31, 1970, 84 Stat. 1740, permitted President to authorize any person who immediately before Dec. 31, 1970, held the office of Director of the National Highway Safety Bureau, to act as Administrator of the National Highway Traffic Safety Administration until the appointment of the first Administrator.
 
 **Annual Report to Congress on Administration of Highway Safety Act of 1966**
 
-Pub. L. 89–564, title II, § 202, Sept. 9, 1966, 80 Stat. 736, as amended by Pub. L. 93–87, title II, § 224, Aug. 13, 1973, 87 Stat. 292, provided that:
+Pub. L. 89–564, title II, § 202, Sept. 9, 1966, 80 Stat. 736, as amended by Pub. L. 93–87, title II, § 224, Aug. 13, 1973, 87 Stat. 292, provided that:
 
 > **“(a)** The Secretary shall prepare and submit to the President for transmittal to the Congress on July 1 of each year a comprehensive report on the administration of the Highway Safety Act of 1966 (including chapter 4 of title 23 of the United States Code) for the preceding calendar year. Such report should include but not be restricted to (1) a thorough statistical compilation of the accidents and injuries occurring in such year; (2) a list of all safety standards issued or in effect in such year; (3) the scope of observance of applicable Federal standards; (4) a statement of enforcement actions including judicial decisions, settlements, or pending litigation during the year; (5) a summary of all current research grants and contracts together with a description of the problems to be considered by such grants and contracts; (6) an analysis and evaluation of completed research activities and technological progress achieved during such year together with the relevant policy recommendations flowing therefrom: (7) the effectiveness of State highway safety program (including local highway safety programs) and (8) the extent to which technical information was being disseminated to the scientific community and consumer-oriented material was made available to the motoring public.
 
@@ -373,7 +373,7 @@ Pub. L. 89–564, title II, § 202, Sept. 9, 1966, 80 Stat. 736, as amended by
 
 **Detailed Cost Estimate of Highway Safety Act of 1966**
 
-Pub. L. 89–564, title II, § 207, Sept. 9, 1966, 80 Stat. 737, directed Secretary, in cooperation with the Governors of appropriate State highway safety agencies, make a detailed estimate of the cost of carrying out the Highway Safety Act of 1966 in order to provide a basis for evaluating continuing programs under the Act and to furnish Congress information necessary for authorization of appropriations for fiscal years beginning after June 30, 1969, such estimates to be submitted to Congress not later than Jan. 10, 1968.
+Pub. L. 89–564, title II, § 207, Sept. 9, 1966, 80 Stat. 737, directed Secretary, in cooperation with the Governors of appropriate State highway safety agencies, make a detailed estimate of the cost of carrying out the Highway Safety Act of 1966 in order to provide a basis for evaluating continuing programs under the Act and to furnish Congress information necessary for authorization of appropriations for fiscal years beginning after June 30, 1969, such estimates to be submitted to Congress not later than Jan. 10, 1968.
 
 **Interstate Compacts for Highway Safety**
 
@@ -385,7 +385,7 @@ Pub. L. 85–684, Aug. 20, 1958, 72 Stat. 635, as amended by Pub. L. 88–466, A
 
 > **“(2)** for the establishment of such agencies, joint or otherwise, as they deem desirable for the establishment and carrying out of such traffic safety programs.”
 
-## § 402. Highway safety programs
+## § 402. Highway safety programs
 
 **(a) Program Required.—**
 
@@ -789,7 +789,7 @@ Pub. L. 85–684, Aug. 20, 1958, 72 Stat. 635, as amended by Pub. L. 88–466, A
 
 **(2) Program placement.—** Nothing in this subsection requires a State to carry out a program described in paragraph (1) through the State transportation or highway safety office.
 
-(Added Pub. L. 89–564, title I, § 101, Sept. 9, 1966, 80 Stat. 731; amended Pub. L. 90–495, § 13, Aug. 23, 1968, 82 Stat. 822; Pub. L. 91–605, title II, §§ 202(c), (d), (e), 203(a), Dec. 31, 1970, 84 Stat. 1740, 1741; Pub. L. 93–87, title II, §§ 207, 215–217, 219, 228, 229, 231, Aug. 13, 1973, 87 Stat. 285, 290, 293, 294; Pub. L. 94–280, title II, §§ 204, 208(a), 211, 212, May 5, 1976, 90 Stat. 453, 454, 455; Pub. L. 95–599, title II, § 207(a), (b)(1), (c), (d), Nov. 6, 1978, 92 Stat. 2731, 2732; Pub. L. 97–35, title XI, § 1107(c)–(e), Aug. 13, 1981, 95 Stat. 626; Pub. L. 97–424, title II, § 208, Jan. 6, 1983, 96 Stat. 2140; Pub. L. 98–363, §§ 3(a), 5, July 17, 1984, 98 Stat. 436; Pub. L. 100–17, title I, § 133(b)(20), title II, § 206, Apr. 2, 1987, 101 Stat. 172, 221; Pub. L. 102–240, title II, § 2002, Dec. 18, 1991, 105 Stat. 2070; Pub. L. 104–66, title I, § 1121(d), Dec. 21, 1995, 109 Stat. 724; Pub. L. 105–178, title I, § 1212(a)(2)(A)(i), title II, § 2001(a)–(e), June 9, 1998, 112 Stat. 193, 323, 324; Pub. L. 109–59, title II, § 2002(a)–(d), Aug. 10, 2005, 119 Stat. 1521; Pub. L. 110–244, title III, § 303(a)–(c)(1), June 6, 2008, 122 Stat. 1619; Pub. L. 112–141, div. C, title I, § 31102, July 6, 2012, 126 Stat. 734; Pub. L. 114–94, div. A, title IV, §§ 4002, 4014(1), Dec. 4, 2015, 129 Stat. 1499, 1513; Pub. L. 115–420, § 5(a), Jan. 3, 2019, 132 Stat. 5445; Pub. L. 117–58, div. B, title IV, §§ 24102(a), 24222(b), Nov. 15, 2021, 135 Stat. 785, 835.)
+(Added Pub. L. 89–564, title I, § 101, Sept. 9, 1966, 80 Stat. 731; amended Pub. L. 90–495, § 13, Aug. 23, 1968, 82 Stat. 822; Pub. L. 91–605, title II, §§ 202(c), (d), (e), 203(a), Dec. 31, 1970, 84 Stat. 1740, 1741; Pub. L. 93–87, title II, §§ 207, 215–217, 219, 228, 229, 231, Aug. 13, 1973, 87 Stat. 285, 290, 293, 294; Pub. L. 94–280, title II, §§ 204, 208(a), 211, 212, May 5, 1976, 90 Stat. 453, 454, 455; Pub. L. 95–599, title II, § 207(a), (b)(1), (c), (d), Nov. 6, 1978, 92 Stat. 2731, 2732; Pub. L. 97–35, title XI, § 1107(c)–(e), Aug. 13, 1981, 95 Stat. 626; Pub. L. 97–424, title II, § 208, Jan. 6, 1983, 96 Stat. 2140; Pub. L. 98–363, §§ 3(a), 5, July 17, 1984, 98 Stat. 436; Pub. L. 100–17, title I, § 133(b)(20), title II, § 206, Apr. 2, 1987, 101 Stat. 172, 221; Pub. L. 102–240, title II, § 2002, Dec. 18, 1991, 105 Stat. 2070; Pub. L. 104–66, title I, § 1121(d), Dec. 21, 1995, 109 Stat. 724; Pub. L. 105–178, title I, § 1212(a)(2)(A)(i), title II, § 2001(a)–(e), June 9, 1998, 112 Stat. 193, 323, 324; Pub. L. 109–59, title II, § 2002(a)–(d), Aug. 10, 2005, 119 Stat. 1521; Pub. L. 110–244, title III, § 303(a)–(c)(1), June 6, 2008, 122 Stat. 1619; Pub. L. 112–141, div. C, title I, § 31102, July 6, 2012, 126 Stat. 734; Pub. L. 114–94, div. A, title IV, §§ 4002, 4014(1), Dec. 4, 2015, 129 Stat. 1499, 1513; Pub. L. 115–420, § 5(a), Jan. 3, 2019, 132 Stat. 5445; Pub. L. 117–58, div. B, title IV, §§ 24102(a), 24222(b), Nov. 15, 2021, 135 Stat. 785, 835.)
 
 **Editorial Notes**
 
@@ -801,75 +801,75 @@ The date of enactment of this subsection, referred to in subsec. (j), is the dat
 
 **Amendments**
 
-2021—Pub. L. 117–58, § 24102(a)(1), (2), substituted “crashes” for “accidents” and “crash” for “accident” wherever appearing. Amendment was executed in subsec. (a)(2)(A)(viii) by substituting “post-crash” for “post-accident” to reflect the probable intent of Congress.
+2021—Pub. L. 117–58, § 24102(a)(1), (2), substituted “crashes” for “accidents” and “crash” for “accident” wherever appearing. Amendment was executed in subsec. (a)(2)(A)(viii) by substituting “post-crash” for “post-accident” to reflect the probable intent of Congress.
 
-Subsec. (a)(1). Pub. L. 117–58, § 24102(a)(3)(A), substituted “shall have in effect a highway safety program that—” and cls. (i) to (iv) for “shall have a highway safety program, approved by the Secretary, that is designed to reduce traffic accidents and the resulting deaths, injuries, and property damage.”
+Subsec. (a)(1). Pub. L. 117–58, § 24102(a)(3)(A), substituted “shall have in effect a highway safety program that—” and cls. (i) to (iv) for “shall have a highway safety program, approved by the Secretary, that is designed to reduce traffic accidents and the resulting deaths, injuries, and property damage.”
 
-Subsec. (a)(2)(A)(ii). Pub. L. 117–58, § 24102(a)(3)(B)(i), substituted “safety belts” for “occupant protection devices (including the use of safety belts and child restraint systems)”.
+Subsec. (a)(2)(A)(ii). Pub. L. 117–58, § 24102(a)(3)(B)(i), substituted “safety belts” for “occupant protection devices (including the use of safety belts and child restraint systems)”.
 
-Subsec. (a)(2)(A)(iii) to (xiv). Pub. L. 117–58, § 24102(a)(3)(B)(ii)–(v), added cls. (iii) and (x) to (xiv) and redesignated former cls. (iii) to (viii) as (iv) to (ix), respectively.
+Subsec. (a)(2)(A)(iii) to (xiv). Pub. L. 117–58, § 24102(a)(3)(B)(ii)–(v), added cls. (iii) and (x) to (xiv) and redesignated former cls. (iii) to (viii) as (iv) to (ix), respectively.
 
-Subsec. (a)(3). Pub. L. 117–58, § 24102(a)(3)(C), added par. (3).
+Subsec. (a)(3). Pub. L. 117–58, § 24102(a)(3)(C), added par. (3).
 
-Subsec. (b)(1). Pub. L. 117–58, § 24102(a)(4)(A), substituted “shall” for “may” in introductory provisions.
+Subsec. (b)(1). Pub. L. 117–58, § 24102(a)(4)(A), substituted “shall” for “may” in introductory provisions.
 
-Subsec. (b)(1)(B). Pub. L. 117–58, § 24102(a)(4)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “authorize political subdivisions of the State to carry out local highway safety programs within their jurisdictions as a part of the State highway safety program if such local highway safety programs are approved by the Governor and are in accordance with the minimum standards established by the Secretary under this section;”.
+Subsec. (b)(1)(B). Pub. L. 117–58, § 24102(a)(4)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “authorize political subdivisions of the State to carry out local highway safety programs within their jurisdictions as a part of the State highway safety program if such local highway safety programs are approved by the Governor and are in accordance with the minimum standards established by the Secretary under this section;”.
 
-Subsec. (b)(1)(C). Pub. L. 117–58, § 24102(a)(4)(C), struck out “authorized in accordance with subparagraph (B)” after “local highway safety programs”.
+Subsec. (b)(1)(C). Pub. L. 117–58, § 24102(a)(4)(C), struck out “authorized in accordance with subparagraph (B)” after “local highway safety programs”.
 
-Subsec. (b)(1)(D). Pub. L. 117–58, § 24102(a)(4)(D), substituted “, including those with disabilities and those in wheelchairs” for “with disabilities, including those in wheelchairs”.
+Subsec. (b)(1)(D). Pub. L. 117–58, § 24102(a)(4)(D), substituted “, including those with disabilities and those in wheelchairs” for “with disabilities, including those in wheelchairs”.
 
-Subsec. (b)(1)(E). Pub. L. 117–58, § 24102(a)(4)(E), added subpar. (E) and struck out former subpar. (E) which read as follows: “beginning on the first day of the first fiscal year after the date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012 for which a State submits its highway safety plan under subsection (k), provide for a data-driven traffic safety enforcement program to prevent traffic violations, crashes, and crash fatalities and injuries in areas most at risk for such incidents, to the satisfaction of the Secretary;”.
+Subsec. (b)(1)(E). Pub. L. 117–58, § 24102(a)(4)(E), added subpar. (E) and struck out former subpar. (E) which read as follows: “beginning on the first day of the first fiscal year after the date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012 for which a State submits its highway safety plan under subsection (k), provide for a data-driven traffic safety enforcement program to prevent traffic violations, crashes, and crash fatalities and injuries in areas most at risk for such incidents, to the satisfaction of the Secretary;”.
 
-Subsec. (b)(1)(F)(i). Pub. L. 117–58, § 24102(a)(4)(F)(i), substituted “national, high-visibility” for “national law enforcement mobilizations and high-visibility”.
+Subsec. (b)(1)(F)(i). Pub. L. 117–58, § 24102(a)(4)(F)(i), substituted “national, high-visibility” for “national law enforcement mobilizations and high-visibility”.
 
-Subsec. (b)(1)(F)(vi). Pub. L. 117–58, § 24102(a)(4)(F)(ii)–(iv), added cl. (vi).
+Subsec. (b)(1)(F)(vi). Pub. L. 117–58, § 24102(a)(4)(F)(ii)–(iv), added cl. (vi).
 
-Subsec. (c)(1). Pub. L. 117–58, § 24102(a)(5)(A), substituted “Use for state activities” for “In general” in par. heading; designated existing provisions as subpar. (A), inserted subpar. heading, and substituted “The funds authorized” for “Funds authorized”; and added subpar. (B).
+Subsec. (c)(1). Pub. L. 117–58, § 24102(a)(5)(A), substituted “Use for state activities” for “In general” in par. heading; designated existing provisions as subpar. (A), inserted subpar. heading, and substituted “The funds authorized” for “Funds authorized”; and added subpar. (B).
 
-Subsec. (c)(2), (3). Pub. L. 117–58, § 24102(a)(5)(B), added pars. (2) and (3) and struck out former pars. (2) and (3) which related to apportionment and reapportionment of funds for highway safety programs, respectively.
+Subsec. (c)(2), (3). Pub. L. 117–58, § 24102(a)(5)(B), added pars. (2) and (3) and struck out former pars. (2) and (3) which related to apportionment and reapportionment of funds for highway safety programs, respectively.
 
-Subsec. (c)(4). Pub. L. 117–58, § 24102(a)(5)(C), redesignated subpars. (A) and (B) as (B) and (A), respectively, added subpars. (C) and (D), and struck out former subpar. (C) which required a State with an automated traffic enforcement system to conduct a biennial survey that the Secretary would make publicly available through the Internet Web site of the Department of Transportation.
+Subsec. (c)(4). Pub. L. 117–58, § 24102(a)(5)(C), redesignated subpars. (A) and (B) as (B) and (A), respectively, added subpars. (C) and (D), and struck out former subpar. (C) which required a State with an automated traffic enforcement system to conduct a biennial survey that the Secretary would make publicly available through the Internet Web site of the Department of Transportation.
 
-Subsec. (k). Pub. L. 117–58, § 24102(a)(6)(A), substituted “Triennial Highway Safety Plan” for “Highway Safety Plan and Reporting Requirements” in heading.
+Subsec. (k). Pub. L. 117–58, § 24102(a)(6)(A), substituted “Triennial Highway Safety Plan” for “Highway Safety Plan and Reporting Requirements” in heading.
 
-Subsec. (k)(1). Pub. L. 117–58, § 24102(a)(6)(A), (B), reenacted heading without change and substituted “For fiscal year 2024, and not less frequently than once every 3 fiscal years thereafter” for “With respect to fiscal year 2014, and each fiscal year thereafter” and “for the 3 fiscal years covered by the plan, to develop and submit to the Secretary for approval a triennial highway safety plan” for “for that fiscal year, to develop and submit to the Secretary for approval a highway safety plan”.
+Subsec. (k)(1). Pub. L. 117–58, § 24102(a)(6)(A), (B), reenacted heading without change and substituted “For fiscal year 2024, and not less frequently than once every 3 fiscal years thereafter” for “With respect to fiscal year 2014, and each fiscal year thereafter” and “for the 3 fiscal years covered by the plan, to develop and submit to the Secretary for approval a triennial highway safety plan” for “for that fiscal year, to develop and submit to the Secretary for approval a highway safety plan”.
 
-Subsec. (k)(2). Pub. L. 117–58, § 24102(a)(6)(C), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Each State shall submit to the Secretary the highway safety plan not later than July 1st of the fiscal year preceding the fiscal year to which the plan applies.”
+Subsec. (k)(2). Pub. L. 117–58, § 24102(a)(6)(C), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Each State shall submit to the Secretary the highway safety plan not later than July 1st of the fiscal year preceding the fiscal year to which the plan applies.”
 
-Subsec. (k)(3). Pub. L. 117–58, § 24102(a)(6)(D), inserted “triennial” before “highway”.
+Subsec. (k)(3). Pub. L. 117–58, § 24102(a)(6)(D), inserted “triennial” before “highway”.
 
-Subsec. (k)(4)(A). Pub. L. 117–58, § 24102(a)(6)(E)(i), in introductory provisions, substituted “Each State triennial highway safety plan” for “State highway safety plans” and inserted “, with respect to the 3 fiscal years covered by the plan, based on the information available on the date of submission under paragraph (2)” after “include”.
+Subsec. (k)(4)(A). Pub. L. 117–58, § 24102(a)(6)(E)(i), in introductory provisions, substituted “Each State triennial highway safety plan” for “State highway safety plans” and inserted “, with respect to the 3 fiscal years covered by the plan, based on the information available on the date of submission under paragraph (2)” after “include”.
 
-Subsec. (k)(4)(A)(ii). Pub. L. 117–58, § 24102(a)(6)(E)(ii), substituted “performance targets that demonstrate constant or improved performance” for “annual performance targets”.
+Subsec. (k)(4)(A)(ii). Pub. L. 117–58, § 24102(a)(6)(E)(ii), substituted “performance targets that demonstrate constant or improved performance” for “annual performance targets”.
 
-Subsec. (k)(4)(B). Pub. L. 117–58, § 24102(a)(6)(E)(iii), added subpar. (B) and struck out former subpar. (B) which read as follows: “a strategy for programming funds apportioned to the State under this section on projects and activities that will allow the State to meet the performance targets described in subparagraph (A);”.
+Subsec. (k)(4)(B). Pub. L. 117–58, § 24102(a)(6)(E)(iii), added subpar. (B) and struck out former subpar. (B) which read as follows: “a strategy for programming funds apportioned to the State under this section on projects and activities that will allow the State to meet the performance targets described in subparagraph (A);”.
 
-Subsec. (k)(4)(D). Pub. L. 117–58, § 24102(a)(6)(E)(iv), struck out “, State, local, or private” after “any Federal” and inserted “and” after semicolon at end.
+Subsec. (k)(4)(D). Pub. L. 117–58, § 24102(a)(6)(E)(iv), struck out “, State, local, or private” after “any Federal” and inserted “and” after semicolon at end.
 
-Subsec. (k)(4)(E). Pub. L. 117–58, § 24102(a)(6)(E)(v), struck out “for the fiscal year preceding the fiscal year to which the plan applies,” before “a report” and substituted “performance targets set forth in the most recently submitted highway safety plan.” for “performance targets set forth in the previous year’s highway safety plan; and”.
+Subsec. (k)(4)(E). Pub. L. 117–58, § 24102(a)(6)(E)(v), struck out “for the fiscal year preceding the fiscal year to which the plan applies,” before “a report” and substituted “performance targets set forth in the most recently submitted highway safety plan.” for “performance targets set forth in the previous year’s highway safety plan; and”.
 
-Subsec. (k)(4)(F). Pub. L. 117–58, § 24102(a)(6)(E)(vi), struck out subpar. (F) which read as follows: “an application for any additional grants available to the State under this chapter.”
+Subsec. (k)(4)(F). Pub. L. 117–58, § 24102(a)(6)(E)(vi), struck out subpar. (F) which read as follows: “an application for any additional grants available to the State under this chapter.”
 
-Subsec. (k)(5). Pub. L. 117–58, § 24102(a)(6)(F), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “For the first highway safety plan submitted under this subsection, the performance measures required by the Secretary under paragraph (3)(A) shall be limited to those developed by the National Highway Traffic Safety Administration and the Governor’s Highway Safety Association and described in the report, ‘Traffic Safety Performance Measures for States and Federal Agencies’ (DOT HS 811 025). For subsequent highway safety plans, the Secretary shall coordinate with the Governor’s Highway Safety Association in making revisions to the set of required performance measures.”
+Subsec. (k)(5). Pub. L. 117–58, § 24102(a)(6)(F), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “For the first highway safety plan submitted under this subsection, the performance measures required by the Secretary under paragraph (3)(A) shall be limited to those developed by the National Highway Traffic Safety Administration and the Governor’s Highway Safety Association and described in the report, ‘Traffic Safety Performance Measures for States and Federal Agencies’ (DOT HS 811 025). For subsequent highway safety plans, the Secretary shall coordinate with the Governor’s Highway Safety Association in making revisions to the set of required performance measures.”
 
-Subsec. (k)(6). Pub. L. 117–58, § 24102(a)(6)(G)(i), inserted “triennial” before “highway” in heading.
+Subsec. (k)(6). Pub. L. 117–58, § 24102(a)(6)(G)(i), inserted “triennial” before “highway” in heading.
 
-Subsec. (k)(6)(A). Pub. L. 117–58, § 24102(a)(6)(G)(iv), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “Not later than 45 days after the date on which a State’s highway safety plan is received by the Secretary, the Secretary shall review and approve or disapprove the plan.”
+Subsec. (k)(6)(A). Pub. L. 117–58, § 24102(a)(6)(G)(iv), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “Not later than 45 days after the date on which a State’s highway safety plan is received by the Secretary, the Secretary shall review and approve or disapprove the plan.”
 
-Subsec. (k)(6)(B). Pub. L. 117–58, § 24102(a)(6)(G)(iv), added subpar. (B). Former subpar. (B) redesignated (C).
+Subsec. (k)(6)(B). Pub. L. 117–58, § 24102(a)(6)(G)(iv), added subpar. (B). Former subpar. (B) redesignated (C).
 
-Subsec. (k)(6)(C). Pub. L. 117–58, § 24102(a)(6)(G)(ii), (iii), redesignated subpar. (B) as (C) and inserted “triennial” before “highway” in two places. Former subpar. (C) redesignated (D).
+Subsec. (k)(6)(C). Pub. L. 117–58, § 24102(a)(6)(G)(ii), (iii), redesignated subpar. (B) as (C) and inserted “triennial” before “highway” in two places. Former subpar. (C) redesignated (D).
 
-Subsec. (k)(6)(D) to (F). Pub. L. 117–58, § 24102(a)(6)(G)(ii), (iii), redesignated subpars. (C) to (E) as (D) to (F), respectively, and inserted “triennial” before “highway”.
+Subsec. (k)(6)(D) to (F). Pub. L. 117–58, § 24102(a)(6)(G)(ii), (iii), redesignated subpars. (C) to (E) as (D) to (F), respectively, and inserted “triennial” before “highway”.
 
-Subsec. (*l*). Pub. L. 117–58, § 24102(a)(7), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 117–58, § 24102(a)(7), added subsec. (*l*).
 
-Subsec. (m)(1). Pub. L. 117–58, § 24102(a)(8), substituted “the applicable triennial highway safety plan of the State” for “a State’s highway safety plan”.
+Subsec. (m)(1). Pub. L. 117–58, § 24102(a)(8), substituted “the applicable triennial highway safety plan of the State” for “a State’s highway safety plan”.
 
-Subsec. (n). Pub. L. 117–58, § 24102(a)(9), added subsec. (n) and struck out former subsec. (n). Prior to amendment, text read as follows: “The Secretary shall publicly release on its website information that contains each State’s performance with respect to the State’s highway safety plan under subsection (k) and performance targets set by the States in such plans. Such information shall be posted on the website within 45 calendar days of approval of a State’s highway safety plan.”
+Subsec. (n). Pub. L. 117–58, § 24102(a)(9), added subsec. (n) and struck out former subsec. (n). Prior to amendment, text read as follows: “The Secretary shall publicly release on its website information that contains each State’s performance with respect to the State’s highway safety plan under subsection (k) and performance targets set by the States in such plans. Such information shall be posted on the website within 45 calendar days of approval of a State’s highway safety plan.”
 
-Subsec. (*o*). Pub. L. 117–58, § 24222(b), added subsec. (*o*).
+Subsec. (*o*). Pub. L. 117–58, § 24222(b), added subsec. (*o*).
 
 2019—Subsec. (n). Pub. L. 115–420 added subsec. (n) and struck out former subsec. (n). Prior to amendment, text read as follows: “Not later than October 1, 2015, and biennially thereafter, the Secretary shall submit a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate that contains—
 
@@ -877,15 +877,15 @@ Subsec. (*o*). Pub. L. 117–58, § 24222(b), added subsec. (*o*).
 
 “(2) such recommendations as the Secretary may have for improvements to activities carried out under subsection (k).”
 
-2015—Subsec. (a)(2)(A)(viii). Pub. L. 114–94, § 4002(1), added cl. (viii).
+2015—Subsec. (a)(2)(A)(viii). Pub. L. 114–94, § 4002(1), added cl. (viii).
 
-Subsec. (b)(1)(C). Pub. L. 114–94, § 4014(1)(A)(i), substituted “paragraph (2)” for “paragraph (3)”.
+Subsec. (b)(1)(C). Pub. L. 114–94, § 4014(1)(A)(i), substituted “paragraph (2)” for “paragraph (3)”.
 
-Subsec. (b)(1)(E). Pub. L. 114–94, § 4014(1)(A)(ii), substituted “for which” for “in which” and “under subsection (k)” for “under subsection (f)”.
+Subsec. (b)(1)(E). Pub. L. 114–94, § 4014(1)(A)(ii), substituted “for which” for “in which” and “under subsection (k)” for “under subsection (f)”.
 
-Subsec. (c)(4)(C). Pub. L. 114–94, § 4002(2), added subpar. (C).
+Subsec. (c)(4)(C). Pub. L. 114–94, § 4002(2), added subpar. (C).
 
-Subsec. (g). Pub. L. 114–94, § 4002(3), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows:
+Subsec. (g). Pub. L. 114–94, § 4002(3), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows:
 
 “(1) In general.—Except as provided under paragraph (2), nothing in this section may be construed to authorize the appropriation or expenditure of funds for—
 
@@ -895,71 +895,71 @@ Subsec. (g). Pub. L. 114–94, § 4002(3), added subsec. (g) and struck out fo
 
 “(2) Demonstration projects.—A State may use funds made available to carry out this section to assist in demonstration projects carried out by the Secretary under section 403.”
 
-Subsec. (k)(3). Pub. L. 114–94, § 4002(4)(B), added par. (3). Former par. (3) redesignated (4).
+Subsec. (k)(3). Pub. L. 114–94, § 4002(4)(B), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (k)(4). Pub. L. 114–94, § 4014(1)(B), which directed substitution of “under paragraph (3)(A)” for “under paragraph (2)(A)” in par. (5) as redesignated by Pub. L. 114–94, § 4002(4)(A), was executed by making substitution to par. (4) to reflect the probable intent of Congress. See Effective Date of 2015 Amendment note below.
+Subsec. (k)(4). Pub. L. 114–94, § 4014(1)(B), which directed substitution of “under paragraph (3)(A)” for “under paragraph (2)(A)” in par. (5) as redesignated by Pub. L. 114–94, § 4002(4)(A), was executed by making substitution to par. (4) to reflect the probable intent of Congress. See Effective Date of 2015 Amendment note below.
 
-Pub. L. 114–94, § 4002(4)(A) redesignated par. (3) as (4). Former par. (4) redesignated (5).
+Pub. L. 114–94, § 4002(4)(A) redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-Subsec. (k)(5). Pub. L. 114–94, § 4002(4)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+Subsec. (k)(5). Pub. L. 114–94, § 4002(4)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Subsec. (k)(6). Pub. L. 114–94, § 4002(4)(A), redesignated par. (5) as (6).
+Subsec. (k)(6). Pub. L. 114–94, § 4002(4)(A), redesignated par. (5) as (6).
 
-Subsec. (k)(6)(A). Pub. L. 114–94, § 4002(4)(C), substituted “45 days” for “60 days”.
+Subsec. (k)(6)(A). Pub. L. 114–94, § 4002(4)(C), substituted “45 days” for “60 days”.
 
-Subsec. (m)(2)(B)(ix), (x). Pub. L. 114–94, § 4002(5), added cls. (ix) and (x).
+Subsec. (m)(2)(B)(ix), (x). Pub. L. 114–94, § 4002(5), added cls. (ix) and (x).
 
-2012—Subsec. (a). Pub. L. 112–141, § 31102(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to State highway programs designed to reduce traffic accidents and deaths in accordance with uniform guidelines promulgated by the Secretary.
+2012—Subsec. (a). Pub. L. 112–141, § 31102(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to State highway programs designed to reduce traffic accidents and deaths in accordance with uniform guidelines promulgated by the Secretary.
 
-Subsec. (b)(1)(E), (F). Pub. L. 112–141, § 31102(b)(1)(A)–(C), added subpar. (E) and redesignated former subpar. (E) as (F).
+Subsec. (b)(1)(E), (F). Pub. L. 112–141, § 31102(b)(1)(A)–(C), added subpar. (E) and redesignated former subpar. (E) as (F).
 
-Subsec. (b)(1)(F)(i). Pub. L. 112–141, § 31102(b)(1)(D)(i), inserted “and high-visibility law enforcement mobilizations coordinated by the Secretary” after “mobilizations”.
+Subsec. (b)(1)(F)(i). Pub. L. 112–141, § 31102(b)(1)(D)(i), inserted “and high-visibility law enforcement mobilizations coordinated by the Secretary” after “mobilizations”.
 
-Subsec. (b)(1)(F)(v). Pub. L. 112–141, § 31102(b)(1)(D)(ii)–(iv), added cl. (v).
+Subsec. (b)(1)(F)(v). Pub. L. 112–141, § 31102(b)(1)(D)(ii)–(iv), added cl. (v).
 
-Subsec. (b)(3). Pub. L. 112–141, § 31102(b)(2), struck out par. (3). Text read as follows: “The Secretary may encourage States to use technologically advanced traffic enforcement devices (including the use of automatic speed detection devices such as photo-radar) by law enforcement officers.”
+Subsec. (b)(3). Pub. L. 112–141, § 31102(b)(2), struck out par. (3). Text read as follows: “The Secretary may encourage States to use technologically advanced traffic enforcement devices (including the use of automatic speed detection devices such as photo-radar) by law enforcement officers.”
 
-Subsec. (c). Pub. L. 112–141, § 31102(c), inserted subsec. and par. headings and substantially revised text of subsec. (c). Prior to amendment, subsec. (c) related to use of funds appropriated to carry out this section.
+Subsec. (c). Pub. L. 112–141, § 31102(c), inserted subsec. and par. headings and substantially revised text of subsec. (c). Prior to amendment, subsec. (c) related to use of funds appropriated to carry out this section.
 
-Subsec. (g). Pub. L. 112–141, § 31102(d), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “Nothing in this section authorizes the appropriation or expenditure of funds for (1) highway construction, maintenance, or design (other than design of safety features of highways to be incorporated into guidelines) or (2) any purpose for which funds are authorized by section 403 of this title.”
+Subsec. (g). Pub. L. 112–141, § 31102(d), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “Nothing in this section authorizes the appropriation or expenditure of funds for (1) highway construction, maintenance, or design (other than design of safety features of highways to be incorporated into guidelines) or (2) any purpose for which funds are authorized by section 403 of this title.”
 
-Subsecs. (h) to (j). Pub. L. 112–141, § 31102(e)(2), (3), redesignated subsecs. (i), (j), and (*l*) as (h), (i), and (j), respectively.
+Subsecs. (h) to (j). Pub. L. 112–141, § 31102(e)(2), (3), redesignated subsecs. (i), (j), and (*l*) as (h), (i), and (j), respectively.
 
-Subsec. (k). Pub. L. 112–141, § 31102(e)(1), (f), added subsec. (k) and struck out former subsec. (k) which related to grants to States for the development and use of a comprehensive computerized safety recordkeeping system designed to correlate data regarding traffic accidents, drivers, motor vehicles, and roadways.
+Subsec. (k). Pub. L. 112–141, § 31102(e)(1), (f), added subsec. (k) and struck out former subsec. (k) which related to grants to States for the development and use of a comprehensive computerized safety recordkeeping system designed to correlate data regarding traffic accidents, drivers, motor vehicles, and roadways.
 
-Subsec. (*l*). Pub. L. 112–141, § 31102(e)(3), redesignated subsec. (*l*) as (j).
+Subsec. (*l*). Pub. L. 112–141, § 31102(e)(3), redesignated subsec. (*l*) as (j).
 
-Subsec. (m). Pub. L. 112–141, § 31102(e)(1), (g), added subsec. (m) and struck out former subsec. (m). Prior to amendment, text read as follows: “The Secretary shall establish an approval process by which a State may apply for all grants under this chapter for which a single application process with one annual deadline is appropriate. The Bureau of Indian Affairs shall establish a similar simplified process for applications for grants from Indian tribes under this chapter.”
+Subsec. (m). Pub. L. 112–141, § 31102(e)(1), (g), added subsec. (m) and struck out former subsec. (m). Prior to amendment, text read as follows: “The Secretary shall establish an approval process by which a State may apply for all grants under this chapter for which a single application process with one annual deadline is appropriate. The Bureau of Indian Affairs shall establish a similar simplified process for applications for grants from Indian tribes under this chapter.”
 
-Subsec. (n). Pub. L. 112–141, § 31102(h), added subsec. (n).
+Subsec. (n). Pub. L. 112–141, § 31102(h), added subsec. (n).
 
-2008—Subsec. (b). Pub. L. 110–244, § 303(c)(1)(A), repealed amendment by Pub. L. 109–59, § 2002(b)(2). See 2005 Amendment note below.
+2008—Subsec. (b). Pub. L. 110–244, § 303(c)(1)(A), repealed amendment by Pub. L. 109–59, § 2002(b)(2). See 2005 Amendment note below.
 
-Subsec. (b)(1)(E). Pub. L. 110–244, § 303(c)(1)(B), renumbered Pub. L. 109–59, § 2002(b)(1), (3), (4). See 2005 Amendment note below.
+Subsec. (b)(1)(E). Pub. L. 110–244, § 303(c)(1)(B), renumbered Pub. L. 109–59, § 2002(b)(1), (3), (4). See 2005 Amendment note below.
 
-Subsec. (c). Pub. L. 110–244, § 303(a), in fifth sentence, substituted “The annual apportionment to each State shall not be less than three-quarters of 1 percent” for “The annual apportionment to each State shall not be less than one-half of 1 per centum”.
+Subsec. (c). Pub. L. 110–244, § 303(a), in fifth sentence, substituted “The annual apportionment to each State shall not be less than three-quarters of 1 percent” for “The annual apportionment to each State shall not be less than one-half of 1 per centum”.
 
-Subsec. (m). Pub. L. 110–244, § 303(b), in first sentence, substituted “for which” for “through” and inserted “is appropriate” before period at end.
+Subsec. (m). Pub. L. 110–244, § 303(b), in first sentence, substituted “for which” for “through” and inserted “is appropriate” before period at end.
 
-2005—Subsec. (a). Pub. L. 109–59, § 2002(a)(4), inserted “aggressive driving, fatigued driving, distracted driving,” after “school bus accidents,” in tenth sentence.
+2005—Subsec. (a). Pub. L. 109–59, § 2002(a)(4), inserted “aggressive driving, fatigued driving, distracted driving,” after “school bus accidents,” in tenth sentence.
 
-Subsec. (a)(2). Pub. L. 109–59, § 2002(a)(1), struck out “and to increase public awareness of the benefit of motor vehicles equipped with airbags” before comma at end.
+Subsec. (a)(2). Pub. L. 109–59, § 2002(a)(1), struck out “and to increase public awareness of the benefit of motor vehicles equipped with airbags” before comma at end.
 
-Subsec. (a)(6), (7). Pub. L. 109–59, § 2002(a)(2), (3), added cl. (6) and redesignated former cl. (6) as (7).
+Subsec. (a)(6), (7). Pub. L. 109–59, § 2002(a)(2), (3), added cl. (6) and redesignated former cl. (6) as (7).
 
-Subsec. (b). Pub. L. 109–59, § 2002(b)(2), which directed amendment of subsec. (b)(1) by redesignating cl. (6) as (7) and could not be executed, was repealed by Pub. L. 110–244, § 303(c)(1)(A).
+Subsec. (b). Pub. L. 109–59, § 2002(b)(2), which directed amendment of subsec. (b)(1) by redesignating cl. (6) as (7) and could not be executed, was repealed by Pub. L. 110–244, § 303(c)(1)(A).
 
-Subsec. (b)(1)(E). Pub. L. 109–59, § 2002(b)(1)–(3), formerly § 2002(b)(1), (3), (4), as renumbered by Pub. L. 110–244, § 303(c)(1)(B), added subpar. (E).
+Subsec. (b)(1)(E). Pub. L. 109–59, § 2002(b)(1)–(3), formerly § 2002(b)(1), (3), (4), as renumbered by Pub. L. 110–244, § 303(c)(1)(B), added subpar. (E).
 
-Subsec. (c). Pub. L. 109–59, § 2002(c)(2), which directed amendment of subsec. (c) by substituting “2 percent” for “three-fourths of 1 percent” in sixth sentence, was executed by making the substitution in fifth sentence to reflect the probable intent of Congress and the amendment by Pub. L. 109–59, § 2002(c)(1). See below.
+Subsec. (c). Pub. L. 109–59, § 2002(c)(2), which directed amendment of subsec. (c) by substituting “2 percent” for “three-fourths of 1 percent” in sixth sentence, was executed by making the substitution in fifth sentence to reflect the probable intent of Congress and the amendment by Pub. L. 109–59, § 2002(c)(1). See below.
 
-Pub. L. 109–59, § 2002(c)(1), struck out second sentence which read as follows: “Such funds shall be subject to a deduction not to exceed 5 per centum for the necessary costs of administering the provisions of this section, and the remainder shall be apportioned among the several States.”
+Pub. L. 109–59, § 2002(c)(1), struck out second sentence which read as follows: “Such funds shall be subject to a deduction not to exceed 5 per centum for the necessary costs of administering the provisions of this section, and the remainder shall be apportioned among the several States.”
 
-Subsecs. (*l*), (m). Pub. L. 109–59, § 2002(d), added subsecs. (*l*) and (m).
+Subsecs. (*l*), (m). Pub. L. 109–59, § 2002(d), added subsecs. (*l*) and (m).
 
-1998—Subsec. (a). Pub. L. 105–178, § 2001(a), in fourth sentence, substituted “(4) to prevent accidents and” for “(4) to”, in eighth sentence, struck out “include information obtained by the Secretary under section 4007 of the Intermodal Surface Transportation Efficiency Act of 1991 and” before “provide for annual reports to the Secretary”, and in twelfth sentence, inserted “enforcement of light transmission standards of window glazing for passenger motor vehicles and light trucks as necessary to improve highway safety,” before “and emergency services”.
+1998—Subsec. (a). Pub. L. 105–178, § 2001(a), in fourth sentence, substituted “(4) to prevent accidents and” for “(4) to”, in eighth sentence, struck out “include information obtained by the Secretary under section 4007 of the Intermodal Surface Transportation Efficiency Act of 1991 and” before “provide for annual reports to the Secretary”, and in twelfth sentence, inserted “enforcement of light transmission standards of window glazing for passenger motor vehicles and light trucks as necessary to improve highway safety,” before “and emergency services”.
 
-Subsec. (b). Pub. L. 105–178, § 2001(b), inserted heading, redesignated pars. (3) to (5) as (1) to (3), respectively, substituted “paragraph (3)” for “paragraph (5)” in par. (1)(C) and “paragraph (1)(C)” for “paragraph (3)(C)” in par. (2), and struck out former pars. (1) and (2) which read as follows:
+Subsec. (b). Pub. L. 105–178, § 2001(b), inserted heading, redesignated pars. (3) to (5) as (1) to (3), respectively, substituted “paragraph (3)” for “paragraph (5)” in par. (1)(C) and “paragraph (1)(C)” for “paragraph (3)(C)” in par. (2), and struck out former pars. (1) and (2) which read as follows:
 
 “(b)(1) The Secretary shall not approve any State highway safety program under this section which does not—
 
@@ -975,85 +975,85 @@ Subsec. (b). Pub. L. 105–178, § 2001(b), inserted heading, redesignated par
 
 “(2) The Secretary is authorized to waive the requirement of subparagraph (C) of paragraph (1) of this subsection, in whole or in part, for a fiscal year for any State whenever he determines that there is an insufficient number of local highway safety programs to justify the expenditure in such State of such percentage of Federal funds during such fiscal year.”
 
-Subsec. (c). Pub. L. 105–178, § 2001(c), in sixth sentence, inserted “the apportionment to the Secretary of the Interior shall not be less than three-fourths of 1 percent of the total apportionment and” before “the apportionments to the Virgin Islands”.
+Subsec. (c). Pub. L. 105–178, § 2001(c), in sixth sentence, inserted “the apportionment to the Secretary of the Interior shall not be less than three-fourths of 1 percent of the total apportionment and” before “the apportionments to the Virgin Islands”.
 
-Subsec. (d). Pub. L. 105–178, § 1212(a)(2)(A)(i), substituted “State transportation department” for “State highway department”.
+Subsec. (d). Pub. L. 105–178, § 1212(a)(2)(A)(i), substituted “State transportation department” for “State highway department”.
 
-Subsec. (i). Pub. L. 105–178, § 2001(d), inserted heading and amended text of subsec. (i) generally. Prior to amendment, text read as follows: “For the purpose of the application of this section on Indian reservations, ‘State’ and ‘Governor of a State’ includes the Secretary of the Interior and ‘political subdivision of a State’ includes an Indian tribe: *Provided*, That, notwithstanding the provisions of subparagraph (C) of subsection (b)(1) hereof, 95 per centum of the funds apportioned to the Secretary of the Interior after date of enactment, shall be expended by Indian tribes to carry out highway safety programs within their jurisdictions: *And provided further*, That the provisions of subparagraph (E) of subsection (b)(1) hereof shall be applicable except in those tribal jurisdictions in which the Secretary determines such programs would not be practicable.”
+Subsec. (i). Pub. L. 105–178, § 2001(d), inserted heading and amended text of subsec. (i) generally. Prior to amendment, text read as follows: “For the purpose of the application of this section on Indian reservations, ‘State’ and ‘Governor of a State’ includes the Secretary of the Interior and ‘political subdivision of a State’ includes an Indian tribe: *Provided*, That, notwithstanding the provisions of subparagraph (C) of subsection (b)(1) hereof, 95 per centum of the funds apportioned to the Secretary of the Interior after date of enactment, shall be expended by Indian tribes to carry out highway safety programs within their jurisdictions: *And provided further*, That the provisions of subparagraph (E) of subsection (b)(1) hereof shall be applicable except in those tribal jurisdictions in which the Secretary determines such programs would not be practicable.”
 
-Subsec. (j). Pub. L. 105–178, § 2001(e), amended heading and text of subsec. (j) generally. Prior to amendment, text read as follows: “The Secretary shall, not later than September 1, 1987, begin a rulemaking process to determine those programs most effective in reducing accidents, injuries, and deaths. Not later than April 1, 1988, the Secretary shall promulgate a final rule establishing those programs determined to be most effective in reducing accidents, injuries, and deaths. If such rule is promulgated by April 1, 1988, then it shall take effect October 1, 1988. If such rule is not promulgated by April 1, 1988, it shall take effect October 1, 1989. After a rule is promulgated in accordance with this subsection, the Secretary may from time to time thereafter revise such rule under a rulemaking process described in the first sentence of this subsection. Any rule under this subsection shall be promulgated taking into account consideration of the States having a major role in establishing programs described in the first sentence of this subsection. When a rule promulgated in accordance with this subsection takes effect, only those programs established by such rule as most effective in reducing accidents, injuries, and deaths shall be eligible to receive Federal financial assistance under this section.”
+Subsec. (j). Pub. L. 105–178, § 2001(e), amended heading and text of subsec. (j) generally. Prior to amendment, text read as follows: “The Secretary shall, not later than September 1, 1987, begin a rulemaking process to determine those programs most effective in reducing accidents, injuries, and deaths. Not later than April 1, 1988, the Secretary shall promulgate a final rule establishing those programs determined to be most effective in reducing accidents, injuries, and deaths. If such rule is promulgated by April 1, 1988, then it shall take effect October 1, 1988. If such rule is not promulgated by April 1, 1988, it shall take effect October 1, 1989. After a rule is promulgated in accordance with this subsection, the Secretary may from time to time thereafter revise such rule under a rulemaking process described in the first sentence of this subsection. Any rule under this subsection shall be promulgated taking into account consideration of the States having a major role in establishing programs described in the first sentence of this subsection. When a rule promulgated in accordance with this subsection takes effect, only those programs established by such rule as most effective in reducing accidents, injuries, and deaths shall be eligible to receive Federal financial assistance under this section.”
 
 1995—Subsec. (a). Pub. L. 104–66 struck out after fourth sentence “If the Secretary does not designate as priority programs those programs described in the preceding sentence, the Secretary shall submit to Congress a report describing the reasons for not prioritizing such programs.”
 
-1991—Subsec. (a). Pub. L. 102–240, § 2002(a), inserted after third sentence “In addition, such uniform guidelines shall include programs (1) to reduce injuries and deaths resulting from motor vehicles being driven in excess of posted speed limits, (2) to encourage the proper use of occupant protection devices (including the use of safety belts and child restraint systems) by occupants of motor vehicles and to increase public awareness of the benefit of motor vehicles equipped with airbags, (3) to reduce deaths and injuries resulting from persons driving motor vehicles while impaired by alcohol or a controlled substance, (4) to reduce deaths and injuries resulting from accidents involving motor vehicles and motorcycles, (5) to reduce injuries and deaths resulting from accidents involving school buses, and (6) to improve law enforcement services in motor vehicle accident prevention, traffic supervision, and post-accident procedures. If the Secretary does not designate as priority programs those programs described in the preceding sentence, the Secretary shall submit to Congress a report describing the reasons for not prioritizing such programs. The Secretary shall establish a highway safety program for the collection and reporting of data on traffic-related deaths and injuries by the States. Under such program, the States shall collect and report such data as the Secretary may require. The purposes of the program are to ensure national uniform data on such deaths and injuries and to allow the Secretary to make determinations for use in developing programs to reduce such deaths and injuries and making recommendations to Congress concerning legislation necessary to implement such programs. The program shall include information obtained by the Secretary under section 4007 of the Intermodal Surface Transportation Efficiency Act of 1991 and provide for annual reports to the Secretary on the efforts being made by the States in reducing deaths and injuries occurring at highway construction sites and the effectiveness and results of such efforts. The Secretary shall establish minimum reporting criteria for the program. Such criteria shall include, but not be limited to, criteria on deaths and injuries resulting from police pursuits, school bus accidents, and speeding, on traffic-related deaths and injuries at highway construction sites and on the configuration of commercial motor vehicles involved in motor vehicle accidents.”
+1991—Subsec. (a). Pub. L. 102–240, § 2002(a), inserted after third sentence “In addition, such uniform guidelines shall include programs (1) to reduce injuries and deaths resulting from motor vehicles being driven in excess of posted speed limits, (2) to encourage the proper use of occupant protection devices (including the use of safety belts and child restraint systems) by occupants of motor vehicles and to increase public awareness of the benefit of motor vehicles equipped with airbags, (3) to reduce deaths and injuries resulting from persons driving motor vehicles while impaired by alcohol or a controlled substance, (4) to reduce deaths and injuries resulting from accidents involving motor vehicles and motorcycles, (5) to reduce injuries and deaths resulting from accidents involving school buses, and (6) to improve law enforcement services in motor vehicle accident prevention, traffic supervision, and post-accident procedures. If the Secretary does not designate as priority programs those programs described in the preceding sentence, the Secretary shall submit to Congress a report describing the reasons for not prioritizing such programs. The Secretary shall establish a highway safety program for the collection and reporting of data on traffic-related deaths and injuries by the States. Under such program, the States shall collect and report such data as the Secretary may require. The purposes of the program are to ensure national uniform data on such deaths and injuries and to allow the Secretary to make determinations for use in developing programs to reduce such deaths and injuries and making recommendations to Congress concerning legislation necessary to implement such programs. The program shall include information obtained by the Secretary under section 4007 of the Intermodal Surface Transportation Efficiency Act of 1991 and provide for annual reports to the Secretary on the efforts being made by the States in reducing deaths and injuries occurring at highway construction sites and the effectiveness and results of such efforts. The Secretary shall establish minimum reporting criteria for the program. Such criteria shall include, but not be limited to, criteria on deaths and injuries resulting from police pursuits, school bus accidents, and speeding, on traffic-related deaths and injuries at highway construction sites and on the configuration of commercial motor vehicles involved in motor vehicle accidents.”
 
-Subsec. (b)(3) to (5). Pub. L. 102–240, § 2002(b), added pars. (3) to (5).
+Subsec. (b)(3) to (5). Pub. L. 102–240, § 2002(b), added pars. (3) to (5).
 
-Subsec. (d). Pub. L. 102–240, § 2002(c), substituted “National Highway System” for “Federal-aid primary”.
+Subsec. (d). Pub. L. 102–240, § 2002(c), substituted “National Highway System” for “Federal-aid primary”.
 
-1987—Subsec. (a). Pub. L. 100–17, § 206(a), (b), substituted “guidelines” for “standards” wherever appearing and struck out provisions authorizing the Secretary to temporarily amend or waive standards in public interest for purpose of evaluating new or different highway safety programs instituted on an experimental, pilot or demonstration basis.
+1987—Subsec. (a). Pub. L. 100–17, § 206(a), (b), substituted “guidelines” for “standards” wherever appearing and struck out provisions authorizing the Secretary to temporarily amend or waive standards in public interest for purpose of evaluating new or different highway safety programs instituted on an experimental, pilot or demonstration basis.
 
-Subsec. (b)(1)(B). Pub. L. 100–17, § 206(a), substituted “guidelines” for “standards”.
+Subsec. (b)(1)(B). Pub. L. 100–17, § 206(a), substituted “guidelines” for “standards”.
 
-Subsec. (b)(1)(D) to (F). Pub. L. 100–17, § 206(c), redesignated subpars. (E) and (F) as (D) and (E), respectively, and struck out former subpar. (D) which read as follows: “provide for comprehensive driver training programs, including (1) the initiation of a State program for driver education in the school systems or for a significant expansion and improvement of such a program already in existence, to be administered by appropriate school officials under the supervision of the Governor as set forth in subparagraph (A) of this paragraph; (2) the training of qualified school instructors and their certification; (3) appropriate regulation of other driver training schools, including licensing of the schools and certification of their instructors; (4) adult driver training programs, and programs for the retraining of selected drivers; (5) adequate research, development and procurement of practice driving facilities, simulators, and other similar teaching aids for both school and other driver training use, and (6) driver education programs, including research, that will assure greater safety for bicyclists using public roads in such State.”
+Subsec. (b)(1)(D) to (F). Pub. L. 100–17, § 206(c), redesignated subpars. (E) and (F) as (D) and (E), respectively, and struck out former subpar. (D) which read as follows: “provide for comprehensive driver training programs, including (1) the initiation of a State program for driver education in the school systems or for a significant expansion and improvement of such a program already in existence, to be administered by appropriate school officials under the supervision of the Governor as set forth in subparagraph (A) of this paragraph; (2) the training of qualified school instructors and their certification; (3) appropriate regulation of other driver training schools, including licensing of the schools and certification of their instructors; (4) adult driver training programs, and programs for the retraining of selected drivers; (5) adequate research, development and procurement of practice driving facilities, simulators, and other similar teaching aids for both school and other driver training use, and (6) driver education programs, including research, that will assure greater safety for bicyclists using public roads in such State.”
 
-Subsec. (c). Pub. L. 100–17, §§ 133(b)(20), 206(a), substituted “Such” for “For the fiscal years ending June 30, 1967, June 30, 1968, and June 30, 1969, such funds shall be apportioned 75 per centum on the basis of population and 25 per centum as the Secretary in his administrative discretion may deem appropriate and thereafter such”, “American Samoa, and the Commonwealth of the Northern Mariana Islands” for “and American Samoa”, “The Secretary shall” for “After December 31, 1969, the Secretary shall”, and “guideline” for “standard” wherever appearing.
+Subsec. (c). Pub. L. 100–17, §§ 133(b)(20), 206(a), substituted “Such” for “For the fiscal years ending June 30, 1967, June 30, 1968, and June 30, 1969, such funds shall be apportioned 75 per centum on the basis of population and 25 per centum as the Secretary in his administrative discretion may deem appropriate and thereafter such”, “American Samoa, and the Commonwealth of the Northern Mariana Islands” for “and American Samoa”, “The Secretary shall” for “After December 31, 1969, the Secretary shall”, and “guideline” for “standard” wherever appearing.
 
-Subsecs. (e) to (g). Pub. L. 100–17, § 206(a), substituted “guidelines” for “standards”.
+Subsecs. (e) to (g). Pub. L. 100–17, § 206(a), substituted “guidelines” for “standards”.
 
-Subsec. (j). Pub. L. 100–17, § 206(d), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “The Secretary of Transportation shall, not later than September 1, 1981, begin a rulemaking process to determine those programs most effective in reducing accidents, injuries, and deaths. Such rule shall be promulgated taking into account consideration of the States having a major role in establishing these programs. Not later than April 1, 1982, the Secretary shall promulgate a final rule establishing those programs determined most effective in reducing accidents, injuries, and deaths. Before such rule shall take effect, it shall be transmitted to Congress. If such rule is not transmitted by April 1, 1982, it shall not take effect before October 1, 1983. If such rule is transmitted by April 1, 1982, it shall take effect October 1, 1982, unless before June 1, 1982, either House of Congress by resolution disapproves such rule. If such rule is disapproved by either House of Congress, the Secretary shall not apportion or obligate any amount authorized to carry out this section for the fiscal year ending September 30, 1983, or any subsequent fiscal year, unless specifically authorized to do so by a statute enacted after the date of enactment of the Omnibus Budget Reconciliation Act of 1981. When a rule promulgated in accordance with this subsection takes effect, only those programs established by such rule as most effective in reducing accidents, injuries, and deaths shall be eligible to receive Federal financial assistance under this chapter.”
+Subsec. (j). Pub. L. 100–17, § 206(d), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “The Secretary of Transportation shall, not later than September 1, 1981, begin a rulemaking process to determine those programs most effective in reducing accidents, injuries, and deaths. Such rule shall be promulgated taking into account consideration of the States having a major role in establishing these programs. Not later than April 1, 1982, the Secretary shall promulgate a final rule establishing those programs determined most effective in reducing accidents, injuries, and deaths. Before such rule shall take effect, it shall be transmitted to Congress. If such rule is not transmitted by April 1, 1982, it shall not take effect before October 1, 1983. If such rule is transmitted by April 1, 1982, it shall take effect October 1, 1982, unless before June 1, 1982, either House of Congress by resolution disapproves such rule. If such rule is disapproved by either House of Congress, the Secretary shall not apportion or obligate any amount authorized to carry out this section for the fiscal year ending September 30, 1983, or any subsequent fiscal year, unless specifically authorized to do so by a statute enacted after the date of enactment of the Omnibus Budget Reconciliation Act of 1981. When a rule promulgated in accordance with this subsection takes effect, only those programs established by such rule as most effective in reducing accidents, injuries, and deaths shall be eligible to receive Federal financial assistance under this chapter.”
 
-1984—Subsec. (c). Pub. L. 98–363, § 3(a), inserted “, except that the apportionments to the Virgin Islands, Guam, and American Samoa shall be not less than one-quarter of 1 per centum of the total apportionment” in sixth sentence.
+1984—Subsec. (c). Pub. L. 98–363, § 3(a), inserted “, except that the apportionments to the Virgin Islands, Guam, and American Samoa shall be not less than one-quarter of 1 per centum of the total apportionment” in sixth sentence.
 
-Subsec. (k). Pub. L. 98–363, § 5, added subsec. (k).
+Subsec. (k). Pub. L. 98–363, § 5, added subsec. (k).
 
 1983—Subsec. (c). Pub. L. 97–424 struck out provision that apportionments to Virgin Islands, Guam, and American Samoa were not to be less than one third of 1 per centum of total apportionment from provision relating to the minimum apportionment for each State.
 
-1981—Subsec. (b)(1). Pub. L. 97–35, § 1107(e), struck out subpar. (D) which related to aggregate expenditure of funds, and redesignated subpars. (E) to (G) as (D) to (F), respectively.
+1981—Subsec. (b)(1). Pub. L. 97–35, § 1107(e), struck out subpar. (D) which related to aggregate expenditure of funds, and redesignated subpars. (E) to (G) as (D) to (F), respectively.
 
-Subsec. (h). Pub. L. 97–35, § 1107(c), struck out subsec. (h) which related to continuation in effect of uniform safety standards promulgated on or before July 1, 1973.
+Subsec. (h). Pub. L. 97–35, § 1107(c), struck out subsec. (h) which related to continuation in effect of uniform safety standards promulgated on or before July 1, 1973.
 
-Subsec. (j). Pub. L. 97–35, § 1107(d), substituted provisions requiring the Secretary to begin by Sept. 1, 1981, a rulemaking process to determine the most effective programs to reduce accidents, injuries, and deaths, and procedures applicable to the process, for provisions authorizing the Secretary to make incentive grants to States most progressive in reducing traffic fatalities, criteria, duration, etc., of such grants, and authorization of appropriations.
+Subsec. (j). Pub. L. 97–35, § 1107(d), substituted provisions requiring the Secretary to begin by Sept. 1, 1981, a rulemaking process to determine the most effective programs to reduce accidents, injuries, and deaths, and procedures applicable to the process, for provisions authorizing the Secretary to make incentive grants to States most progressive in reducing traffic fatalities, criteria, duration, etc., of such grants, and authorization of appropriations.
 
-1978—Subsec. (a). Pub. L. 95–599, § 207(a), inserted “including, but not limited to, such programs for identifying accident causes, adopting measures to reduce accidents, and evaluating effectiveness of such measures” after “one or more States”.
+1978—Subsec. (a). Pub. L. 95–599, § 207(a), inserted “including, but not limited to, such programs for identifying accident causes, adopting measures to reduce accidents, and evaluating effectiveness of such measures” after “one or more States”.
 
-Subsec. (b)(1)(A). Pub. L. 95–599, § 207(b)(1), substituted “State highway safety agency” for “State agency”.
+Subsec. (b)(1)(A). Pub. L. 95–599, § 207(b)(1), substituted “State highway safety agency” for “State agency”.
 
-Subsec. (b)(1)(G). Pub. L. 95–599, § 207(c), added subpar. (G).
+Subsec. (b)(1)(G). Pub. L. 95–599, § 207(c), added subpar. (G).
 
-Subsec. (d). Pub. L. 95–599, § 207(d), inserted “(other than planning and administration)” after “State highway safety program” and “(other than one for planning or administration)” after “cost of any project under this section”.
+Subsec. (d). Pub. L. 95–599, § 207(d), inserted “(other than planning and administration)” after “State highway safety program” and “(other than one for planning or administration)” after “cost of any project under this section”.
 
-1976—Subsec. (c), sixth sentence. Pub. L. 94–280, § 211, inserted exception provision requirement that the apportionments to the Virgin Islands, Guam, and American Samoa be not less than one-third of 1 per centum of the total apportionment.
+1976—Subsec. (c), sixth sentence. Pub. L. 94–280, § 211, inserted exception provision requirement that the apportionments to the Virgin Islands, Guam, and American Samoa be not less than one-third of 1 per centum of the total apportionment.
 
-Subsec. (c), eighth and ninth sentences. Pub. L. 94–280, § 208(a), inserted eighth and ninth sentences: excluding from any highway safety program approved by the Secretary any requirement that a State implement a Federal safety helmet wearing standard for operators or passengers of motorcycles by adopting or enforcing any law, rule, or regulation based on the Federal standard, and authorizing State implementation of a highway safety program without compliance with every uniform standard in every State; and deleted prior eighth, ninth, and tenth sentences providing for: a 10 per centum reduction of funds apportioned to a State on or after January 1, 1970, for nonimplementation of a highway safety program approved by the Secretary during such a period; suspension of application of such provision during necessary periods when in the public interest; and reapportionment of withheld amounts to other States in accordance with applicable provisions of law, now covered in the tenth through thirteenth sentences.
+Subsec. (c), eighth and ninth sentences. Pub. L. 94–280, § 208(a), inserted eighth and ninth sentences: excluding from any highway safety program approved by the Secretary any requirement that a State implement a Federal safety helmet wearing standard for operators or passengers of motorcycles by adopting or enforcing any law, rule, or regulation based on the Federal standard, and authorizing State implementation of a highway safety program without compliance with every uniform standard in every State; and deleted prior eighth, ninth, and tenth sentences providing for: a 10 per centum reduction of funds apportioned to a State on or after January 1, 1970, for nonimplementation of a highway safety program approved by the Secretary during such a period; suspension of application of such provision during necessary periods when in the public interest; and reapportionment of withheld amounts to other States in accordance with applicable provisions of law, now covered in the tenth through thirteenth sentences.
 
-Subsec. (c), tenth through thirteenth sentences. Pub. L. 94–280, § 212, inserted provisions for: a 50 per centum reduction of funds apportioned to a State during time of absence or nonimplementation of a highway safety program; gravity rule in determining amount of reduction of funds; apportionment to a State of withheld funds prior to the end of the fiscal year for which the funds were withheld in event of approval of or State implementation of a highway safety program; and for reapportionment of funds to other States in accordance with the prescribed formula not later than 30 days after determination of absence of correction by a State, similar provisions being formerly covered in prior eighth, ninth, and tenth sentences providing for: a 10 per centum reduction of funds apportioned to a State on or after January 1, 1970, for nonimplementation of a highway safety program approved by the Secretary during such a period; suspension of application of such provision during necessary periods when in the public interest; and reapportionment of withheld amounts to other States in accordance with applicable provisions of law.
+Subsec. (c), tenth through thirteenth sentences. Pub. L. 94–280, § 212, inserted provisions for: a 50 per centum reduction of funds apportioned to a State during time of absence or nonimplementation of a highway safety program; gravity rule in determining amount of reduction of funds; apportionment to a State of withheld funds prior to the end of the fiscal year for which the funds were withheld in event of approval of or State implementation of a highway safety program; and for reapportionment of funds to other States in accordance with the prescribed formula not later than 30 days after determination of absence of correction by a State, similar provisions being formerly covered in prior eighth, ninth, and tenth sentences providing for: a 10 per centum reduction of funds apportioned to a State on or after January 1, 1970, for nonimplementation of a highway safety program approved by the Secretary during such a period; suspension of application of such provision during necessary periods when in the public interest; and reapportionment of withheld amounts to other States in accordance with applicable provisions of law.
 
-Subsec. (j)(3) to (5). Pub. L. 94–280, § 204, added par. (3) provisions respecting incentive safety grants, struck out prior par. (3) provisions limiting incentive awards authorized by this section to 25 per centum of each State’s apportionment as authorized by this chapter, and added pars. (4) and (5).
+Subsec. (j)(3) to (5). Pub. L. 94–280, § 204, added par. (3) provisions respecting incentive safety grants, struck out prior par. (3) provisions limiting incentive awards authorized by this section to 25 per centum of each State’s apportionment as authorized by this chapter, and added pars. (4) and (5).
 
-1973—Subsec. (a). Pub. L. 93–87, § 231(a), provided for promulgation of uniform standards so as to improve bicycle safety.
+1973—Subsec. (a). Pub. L. 93–87, § 231(a), provided for promulgation of uniform standards so as to improve bicycle safety.
 
-Subsec. (b)(1)(E)(6). Pub. L. 93–87, § 231(b), added item (6) of subpar. (E).
+Subsec. (b)(1)(E)(6). Pub. L. 93–87, § 231(b), added item (6) of subpar. (E).
 
-Subsec. (b)(1)(F). Pub. L. 93–87, § 228, added subpar. (F).
+Subsec. (b)(1)(F). Pub. L. 93–87, § 228, added subpar. (F).
 
-Subsec. (c). Pub. L. 93–87, §§ 215–217, provided for use of funds for development and implementation of manpower training programs, and of demonstration programs that the Secretary determines will contribute directly to the reduction of accidents, and deaths and injuries resulting therefrom and inserted “Such funds” before “shall be subject to a deduction”; provided for the determination of public road mileage as of the end of the calendar year preceding the year in which the funds are apportioned and shall be certified to by the Governor of the State and subject to approval by the Secretary; and increased the annual apportionment to each State from “one-third of 1 per centum” to “one-half of 1 per centum” of the total apportionment, respectively.
+Subsec. (c). Pub. L. 93–87, §§ 215–217, provided for use of funds for development and implementation of manpower training programs, and of demonstration programs that the Secretary determines will contribute directly to the reduction of accidents, and deaths and injuries resulting therefrom and inserted “Such funds” before “shall be subject to a deduction”; provided for the determination of public road mileage as of the end of the calendar year preceding the year in which the funds are apportioned and shall be certified to by the Governor of the State and subject to approval by the Secretary; and increased the annual apportionment to each State from “one-third of 1 per centum” to “one-half of 1 per centum” of the total apportionment, respectively.
 
-Subsec. (d). Pub. L. 93–87, § 207(b), inserted at end of first sentence provision that in the case of a local highway safety program carried out by an Indian tribe, if the Secretary is satisfied that an Indian tribe does not have sufficient funds available to meet the non-Federal share of the cost of such program, he may increase the Federal share of the cost thereof payable under this Act to the extent necessary.
+Subsec. (d). Pub. L. 93–87, § 207(b), inserted at end of first sentence provision that in the case of a local highway safety program carried out by an Indian tribe, if the Secretary is satisfied that an Indian tribe does not have sufficient funds available to meet the non-Federal share of the cost of such program, he may increase the Federal share of the cost thereof payable under this Act to the extent necessary.
 
-Subsec. (h). Pub. L. 93–87, § 229, substituted provisions for continuation of uniform safety standards promulgated under this section on or before July 1, 1973, unless otherwise specifically provided by law enacted after Aug. 13, 1973, and prohibiting the Secretary from promulgating any other uniform safety standard under this section (including by revision of a standard continued in effect by the preceding sentence) unless otherwise specifically provided by law enacted after Aug. 13, 1973, for former prohibition against promulgation of any other uniform safety standard unless at least 90 days prior to the effective date of such standard the Secretary shall have submitted such standard to Congress, except in the case of State safety program elements with respect to which uniform standards have been promulgated by the Secretary before Dec. 31, 1970.
+Subsec. (h). Pub. L. 93–87, § 229, substituted provisions for continuation of uniform safety standards promulgated under this section on or before July 1, 1973, unless otherwise specifically provided by law enacted after Aug. 13, 1973, and prohibiting the Secretary from promulgating any other uniform safety standard under this section (including by revision of a standard continued in effect by the preceding sentence) unless otherwise specifically provided by law enacted after Aug. 13, 1973, for former prohibition against promulgation of any other uniform safety standard unless at least 90 days prior to the effective date of such standard the Secretary shall have submitted such standard to Congress, except in the case of State safety program elements with respect to which uniform standards have been promulgated by the Secretary before Dec. 31, 1970.
 
-Subsec. (i). Pub. L. 93–87, § 207(a), added subsec. (i).
+Subsec. (i). Pub. L. 93–87, § 207(a), added subsec. (i).
 
-Subsec. (j). Pub. L. 93–87, § 219, added subsec. (j).
+Subsec. (j). Pub. L. 93–87, § 219, added subsec. (j).
 
-1970—Subsec. (b)(1)(A). Pub. L. 91–605, § 203(A), required the Governor of a State be responsible for the administration of the State highway safety program through a State agency suitably organized and possessed of adequate powers to carry out such programs to the satisfaction of the Secretary.
+1970—Subsec. (b)(1)(A). Pub. L. 91–605, § 203(A), required the Governor of a State be responsible for the administration of the State highway safety program through a State agency suitably organized and possessed of adequate powers to carry out such programs to the satisfaction of the Secretary.
 
-Subsec. (c). Pub. L. 91–605, § 202(c), provided a formula for apportionments to States, after June 30, 1969, to carry out this section, whereby 75% of the appropriation is based on the ratio which the population of each State bears to the total population of all the States and 25% of the appropriation is based on the ratio which the public road mileage in each State bears to the total public road mileage in all States, defined “public road”, provided the annual apportionment to each State not to be less than one-third of 1% of the total apportionment, struck out provisions authorizing appropriations after June 30, 1969 to be apportioned as Congress shall provide and struck out provisions mandating the Secretary to report to Congress his recommendations for a nondiscretionary formula of apportionment for the fiscal year ending June 30, 1970, and the fiscal years thereafter.
+Subsec. (c). Pub. L. 91–605, § 202(c), provided a formula for apportionments to States, after June 30, 1969, to carry out this section, whereby 75% of the appropriation is based on the ratio which the population of each State bears to the total population of all the States and 25% of the appropriation is based on the ratio which the public road mileage in each State bears to the total public road mileage in all States, defined “public road”, provided the annual apportionment to each State not to be less than one-third of 1% of the total apportionment, struck out provisions authorizing appropriations after June 30, 1969 to be apportioned as Congress shall provide and struck out provisions mandating the Secretary to report to Congress his recommendations for a nondiscretionary formula of apportionment for the fiscal year ending June 30, 1970, and the fiscal years thereafter.
 
-Subsec. (d). Pub. L. 91–605, § 202(d), provided that the aggregate of all expenditures made during any fiscal year by a State and its political subdivisions for carrying out the State highway safety program be available for crediting such State for the non-Federal share of the cost of any project under this section without regard to whether such expenditures were actually made in connection with such project.
+Subsec. (d). Pub. L. 91–605, § 202(d), provided that the aggregate of all expenditures made during any fiscal year by a State and its political subdivisions for carrying out the State highway safety program be available for crediting such State for the non-Federal share of the cost of any project under this section without regard to whether such expenditures were actually made in connection with such project.
 
-Subsec. (h). Pub. L. 91–605, § 202(e), added subsec. (h).
+Subsec. (h). Pub. L. 91–605, § 202(e), added subsec. (h).
 
 1968—Subsec. (c). Pub. L. 90–495 substituted “December 31, 1969” for “December 31, 1968” as the last day on which the Secretary may apportion funds to States which are not implementing highway safety programs approved by the Secretary and substituted “January 1, 1970” for “January 1, 1969” as the date after which funds apportioned to States not having approved safety programs shall be reduced until a safety program is implemented.
 
@@ -1061,7 +1061,7 @@ Subsec. (h). Pub. L. 91–605, § 202(e), added subsec. (h).
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 117–58, div. B, title IV, § 24102(b), Nov. 15, 2021, 135 Stat. 792, provided that: “The amendments made by subsection (a) [amending this section] shall take effect with respect to any grant application or State highway safety plan submitted under chapter 4 of title 23, United States Code, for fiscal year 2024 or thereafter.”
+Pub. L. 117–58, div. B, title IV, § 24102(b), Nov. 15, 2021, 135 Stat. 792, provided that: “The amendments made by subsection (a) [amending this section] shall take effect with respect to any grant application or State highway safety plan submitted under chapter 4 of title 23, United States Code, for fiscal year 2024 or thereafter.”
 
 **Effective Date of 2015 Amendment**
 
@@ -1077,15 +1077,15 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 Amendment by sections 101(s)(2) and 303(c)(1) of Pub. L. 110–244 effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to be treated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub. L. 110–244, set out as a note under section 101 of this title.
 
-Pub. L. 110–244, title III, § 303(a), June 6, 2008, 122 Stat. 1619, provided that the amendment made by section 303(a) is effective Oct. 1, 2007.
+Pub. L. 110–244, title III, § 303(a), June 6, 2008, 122 Stat. 1619, provided that the amendment made by section 303(a) is effective Oct. 1, 2007.
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–59, title II, § 2022, Aug. 10, 2005, 119 Stat. 1544, provided that: “Sections 2002 through 2007 of this title [amending this section and sections 403, 405, 406, 408, and 410 of this title and enacting provisions set out as notes under sections 403 and 410 of this title] (and the amendments and repeals made by such sections) shall take effect October 1, 2005.”
+Pub. L. 109–59, title II, § 2022, Aug. 10, 2005, 119 Stat. 1544, provided that: “Sections 2002 through 2007 of this title [amending this section and sections 403, 405, 406, 408, and 410 of this title and enacting provisions set out as notes under sections 403 and 410 of this title] (and the amendments and repeals made by such sections) shall take effect October 1, 2005.”
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–240, title II, § 2008, Dec. 18, 1991, 105 Stat. 2080, provided that: “Except as otherwise provided, this title [amending this section and sections 403 and 410 of this title and sections 1392, 1413, and 1414 of Title 15, Commerce and Trade, enacting provisions set out as notes under this section and sections 401, 403, and 410 of this title and section 1392 of Title 15, and amending provisions set out as a note under section 401 of this title], including the amendments made by this title, shall take effect on the date of the enactment of this Act [Dec. 18, 1991], shall apply to funds authorized to be appropriated or made available after September 30, 1991, and shall not apply to funds appropriated or made available on or before such date of enactment.”
+Pub. L. 102–240, title II, § 2008, Dec. 18, 1991, 105 Stat. 2080, provided that: “Except as otherwise provided, this title [amending this section and sections 403 and 410 of this title and sections 1392, 1413, and 1414 of Title 15, Commerce and Trade, enacting provisions set out as notes under this section and sections 401, 403, and 410 of this title and section 1392 of Title 15, and amending provisions set out as a note under section 401 of this title], including the amendments made by this title, shall take effect on the date of the enactment of this Act [Dec. 18, 1991], shall apply to funds authorized to be appropriated or made available after September 30, 1991, and shall not apply to funds appropriated or made available on or before such date of enactment.”
 
 **Effective Date of 1984 Amendment**
 
@@ -1093,15 +1093,15 @@ Amendment by section 3(a) of Pub. L. 98–363 applicable to fiscal years beginni
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–35, title XI, § 1107(c), Aug. 13, 1981, 95 Stat. 626, provided that the amendment made by that section is effective Oct. 1, 1982.
+Pub. L. 97–35, title XI, § 1107(c), Aug. 13, 1981, 95 Stat. 626, provided that the amendment made by that section is effective Oct. 1, 1982.
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–599, title II, § 207(b)(2), Nov. 6, 1978, 92 Stat. 2731, provided that: “The amendment made by paragraph (1) of this subsection [amending this section] shall take effect January 1, 1979.”
+Pub. L. 95–599, title II, § 207(b)(2), Nov. 6, 1978, 92 Stat. 2731, provided that: “The amendment made by paragraph (1) of this subsection [amending this section] shall take effect January 1, 1979.”
 
 **Effective Date of 1970 Amendment**
 
-Pub. L. 91–605, title II, § 203(b), Dec. 31, 1970, 84 Stat. 1741, provided that: “The amendment made by subsection (a) of this section [amending this section] shall take effect December 31, 1971.”
+Pub. L. 91–605, title II, § 203(b), Dec. 31, 1970, 84 Stat. 1741, provided that: “The amendment made by subsection (a) of this section [amending this section] shall take effect December 31, 1971.”
 
 **Effective Date of 1968 Amendment**
 
@@ -1109,7 +1109,7 @@ Amendment by Pub. L. 90–495 effective Aug. 23, 1968, see section 37 of Pub. L.
 
 **Public Safety Messaging Campaign**
 
-Pub. L. 117–58, div. B, title IV, § 24110(b), Nov. 15, 2021, 135 Stat. 810, provided that:
+Pub. L. 117–58, div. B, title IV, § 24110(b), Nov. 15, 2021, 135 Stat. 810, provided that:
 
 > **“(1) In general.—** Not later than 1 year after the date of enactment of this Act [Nov. 15, 2021], the Secretary [of Transportation] shall establish and implement a public safety messaging campaign that uses public safety media messages, posters, digital media messages, and other media messages distributed to States, State departments of motor vehicles, schools, and other public outlets—
 
@@ -1127,7 +1127,7 @@ Pub. L. 117–58, div. B, title IV, § 24110(b), Nov. 15, 2021, 135 Stat. 810,
 
 **Safe Streets and Roads for All Grant Program**
 
-Pub. L. 117–58, div. B, title IV, § 24112, Nov. 15, 2021, 135 Stat. 815, provided that:
+Pub. L. 117–58, div. B, title IV, § 24112, Nov. 15, 2021, 135 Stat. 815, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -1251,7 +1251,7 @@ Pub. L. 117–58, div. B, title IV, § 24112, Nov. 15, 2021, 135 Stat. 815, pr
 
 **Pedestrian and Cyclists Information and Enhanced Performance Management**
 
-Pub. L. 117–58, div. B, title IV, § 24113(b), Nov. 15, 2021, 135 Stat. 818, provided that:
+Pub. L. 117–58, div. B, title IV, § 24113(b), Nov. 15, 2021, 135 Stat. 818, provided that:
 
 > **“(1) In general.—** Not later than 2 years after the date of enactment of this Act [Nov. 15, 2021], the Secretary [of Transportation] shall implement the recommendations of the Comptroller General of the United States contained in the report entitled ‘Pedestrians and Cyclists: Better Information to States and Enhanced Performance Management Could Help DOT Improve Safety’, numbered GAO–21–405, and dated May 20, 2021, by—
 
@@ -1269,7 +1269,7 @@ Pub. L. 117–58, div. B, title IV, § 24113(b), Nov. 15, 2021, 135 Stat. 818,
 
 **Increasing Public Awareness of the Dangers of Drug-Impaired Driving**
 
-Pub. L. 114–94, div. A, title IV, § 4009, Dec. 4, 2015, 129 Stat. 1511, provided that:
+Pub. L. 114–94, div. A, title IV, § 4009, Dec. 4, 2015, 129 Stat. 1511, provided that:
 
 > **“(a) Additional Actions.—** The Administrator of the National Highway Traffic Safety Administration, in consultation with the White House Office of National Drug Control Policy, the Secretary of Health and Human Services, State highway safety offices, and other interested parties, as determined by the Administrator, shall identify and carry out additional actions that should be undertaken by the Administration to assist States in their efforts to increase public awareness of the dangers of drug-impaired driving, including the dangers of driving while under the influence of heroin or prescription opioids.
 
@@ -1277,7 +1277,7 @@ Pub. L. 114–94, div. A, title IV, § 4009, Dec. 4, 2015, 129 Stat. 1511, pro
 
 **Regulatory Authority; State Matching Requirements; Grant Application and Deadline**
 
-Pub. L. 114–94, div. A, title IV, § 4001(d)–(f), Dec. 4, 2015, 129 Stat. 1498, provided that:
+Pub. L. 114–94, div. A, title IV, § 4001(d)–(f), Dec. 4, 2015, 129 Stat. 1498, provided that:
 
 > **“(d) Regulatory Authority.—** Grants awarded under this title [title IV of div. A of Pub. L. 114–94, see Tables for classification] shall be carried out in accordance with regulations issued by the Secretary [of Transportation].
 
@@ -1287,15 +1287,15 @@ Pub. L. 114–94, div. A, title IV, § 4001(d)–(f), Dec. 4, 2015, 129 Stat. 
 
 Similar provisions were contained in the following prior acts:
 
-Pub. L. 112–141, div. C, title I, § 31101(d)–(f), July 6, 2012, 126 Stat. 733.
+Pub. L. 112–141, div. C, title I, § 31101(d)–(f), July 6, 2012, 126 Stat. 733.
 
 **Safe Routes to School Program**
 
-Pub. L. 109–59, title I, § 1404, Aug. 10, 2005, 119 Stat. 1228, as amended by Pub. L. 110–244, § 101(s)(2), June 6, 2008, 122 Stat. 1577, which required the Secretary of Transportation to establish and carry out a safe routes to school program for the benefit of children in primary and middle schools and apportioned funds to carry out such program to States, was repealed by Pub. L. 117–58, div. A, title I, § 11119(b)(2), Nov. 15, 2021, 135 Stat. 497, effective Oct. 1, 2021. See section 208 of this title.
+Pub. L. 109–59, title I, § 1404, Aug. 10, 2005, 119 Stat. 1228, as amended by Pub. L. 110–244, § 101(s)(2), June 6, 2008, 122 Stat. 1577, which required the Secretary of Transportation to establish and carry out a safe routes to school program for the benefit of children in primary and middle schools and apportioned funds to carry out such program to States, was repealed by Pub. L. 117–58, div. A, title I, § 11119(b)(2), Nov. 15, 2021, 135 Stat. 497, effective Oct. 1, 2021. See section 208 of this title.
 
 **Roadway Safety**
 
-Pub. L. 109–59, title I, § 1411, Aug. 10, 2005, 119 Stat. 1234, provided that:
+Pub. L. 109–59, title I, § 1411, Aug. 10, 2005, 119 Stat. 1234, provided that:
 
 > **“(a) Road Safety.—**
 
@@ -1327,7 +1327,7 @@ Pub. L. 109–59, title I, § 1411, Aug. 10, 2005, 119 Stat. 1234, provided th
 
 **Grant Program To Prohibit Racial Profiling**
 
-Pub. L. 109–59, title I, § 1906, Aug. 10, 2005, 119 Stat. 1468, as amended by Pub. L. 114–94, div. A, title IV, § 4011, Dec. 4, 2015, 129 Stat. 1512; Pub. L. 117–58, div. B, title V, § 25024, Nov. 15, 2021, 135 Stat. 879, provided that:
+Pub. L. 109–59, title I, § 1906, Aug. 10, 2005, 119 Stat. 1468, as amended by Pub. L. 114–94, div. A, title IV, § 4011, Dec. 4, 2015, 129 Stat. 1512; Pub. L. 117–58, div. B, title V, § 25024, Nov. 15, 2021, 135 Stat. 879, provided that:
 
 > **“(a) Grants.—** Subject to the requirements of this section, the Secretary [of Transportation] shall make grants to a State that—
 
@@ -1361,7 +1361,7 @@ Pub. L. 109–59, title I, § 1906, Aug. 10, 2005, 119 Stat. 1468, as amended 
 
 **High Visibility Enforcement Program**
 
-Pub. L. 109–59, title II, § 2009, Aug. 10, 2005, 119 Stat. 1535, as amended by Pub. L. 111–147, title IV, § 421(h)(1), Mar. 18, 2010, 124 Stat. 85; Pub. L. 112–30, title I, § 121(h)(1), Sept. 16, 2011, 125 Stat. 347; Pub. L. 112–141, div. C, title I, § 31106, July 6, 2012, 126 Stat. 755; Pub. L. 113–159, title I, § 1101(a)(5)(B), Aug. 8, 2014, 128 Stat. 1843; Pub. L. 114–21, title I, § 1101(a)(5)(B), May 29, 2015, 129 Stat. 221; Pub. L. 114–41, title I, § 1101(a)(5)(B), July 31, 2015, 129 Stat. 447; Pub. L. 114–73, title I, § 1101(a)(5)(B), Oct. 29, 2015, 129 Stat. 571; Pub. L. 114–87, title I, § 1101(a)(5)(B), Nov. 20, 2015, 129 Stat. 680, provided that:
+Pub. L. 109–59, title II, § 2009, Aug. 10, 2005, 119 Stat. 1535, as amended by Pub. L. 111–147, title IV, § 421(h)(1), Mar. 18, 2010, 124 Stat. 85; Pub. L. 112–30, title I, § 121(h)(1), Sept. 16, 2011, 125 Stat. 347; Pub. L. 112–141, div. C, title I, § 31106, July 6, 2012, 126 Stat. 755; Pub. L. 113–159, title I, § 1101(a)(5)(B), Aug. 8, 2014, 128 Stat. 1843; Pub. L. 114–21, title I, § 1101(a)(5)(B), May 29, 2015, 129 Stat. 221; Pub. L. 114–41, title I, § 1101(a)(5)(B), July 31, 2015, 129 Stat. 447; Pub. L. 114–73, title I, § 1101(a)(5)(B), Oct. 29, 2015, 129 Stat. 571; Pub. L. 114–87, title I, § 1101(a)(5)(B), Nov. 20, 2015, 129 Stat. 680, provided that:
 
 > **“(a) In General.—** The Administrator of the National Highway Traffic Safety Administration shall establish and administer a program under which at least 3 high-visibility traffic safety law enforcement campaigns will be carried out for the purposes specified in subsection (b) in each of fiscal years 2013 through 2015 and in the period beginning on October 1, 2015, and ending on December 4, 2015. The Administrator may also initiate and support additional campaigns in each of fiscal years 2013 through 2015 and in the period beginning on October 1, 2015, and ending on December 4, 2015, for the purposes specified in subsection (b).
 
@@ -1385,19 +1385,19 @@ Pub. L. 109–59, title II, § 2009, Aug. 10, 2005, 119 Stat. 1535, as amended
 
 **Motorcyclist Safety**
 
-Pub. L. 109–59, title II, § 2010, Aug. 10, 2005, 119 Stat. 1535, as amended by Pub. L. 111–147, title IV, § 421(i)(1), Mar. 18, 2010, 124 Stat. 85; Pub. L. 112–30, title I, § 121(i)(1), Sept. 16, 2011, 125 Stat. 347, related to grants to States adopting programs for motorcyclist safety, prior to repeal by Pub. L. 112–141, div. C, title I, § 31109(g), July 6, 2012, 126 Stat. 757.
+Pub. L. 109–59, title II, § 2010, Aug. 10, 2005, 119 Stat. 1535, as amended by Pub. L. 111–147, title IV, § 421(i)(1), Mar. 18, 2010, 124 Stat. 85; Pub. L. 112–30, title I, § 121(i)(1), Sept. 16, 2011, 125 Stat. 347, related to grants to States adopting programs for motorcyclist safety, prior to repeal by Pub. L. 112–141, div. C, title I, § 31109(g), July 6, 2012, 126 Stat. 757.
 
 **First Responder Vehicle Safety Program**
 
-Pub. L. 109–59, title II, § 2014, Aug. 10, 2005, 119 Stat. 1540, provided for a Federal program to promote compliance with State and local laws regarding first responder vehicle safety, prior to repeal by Pub. L. 112–141, div. C, title I, § 31109(j), July 6, 2012, 126 Stat. 757.
+Pub. L. 109–59, title II, § 2014, Aug. 10, 2005, 119 Stat. 1540, provided for a Federal program to promote compliance with State and local laws regarding first responder vehicle safety, prior to repeal by Pub. L. 112–141, div. C, title I, § 31109(j), July 6, 2012, 126 Stat. 757.
 
 **Law Enforcement Training**
 
-Pub. L. 109–59, title II, § 2017(b), Aug. 10, 2005, 119 Stat. 1542, as amended by Pub. L. 111–147, title IV, § 421(n)(2), Mar. 18, 2010, 124 Stat. 86; Pub. L. 112–30, title I, § 121(n)(2), Sept. 16, 2011, 125 Stat. 348, related to law enforcement training and police chase techniques, prior to repeal by Pub. L. 112–141, div. C, title I, § 31109(*l*), July 6, 2012, 126 Stat. 757, effective Oct. 1, 2012.
+Pub. L. 109–59, title II, § 2017(b), Aug. 10, 2005, 119 Stat. 1542, as amended by Pub. L. 111–147, title IV, § 421(n)(2), Mar. 18, 2010, 124 Stat. 86; Pub. L. 112–30, title I, § 121(n)(2), Sept. 16, 2011, 125 Stat. 348, related to law enforcement training and police chase techniques, prior to repeal by Pub. L. 112–141, div. C, title I, § 31109(*l*), July 6, 2012, 126 Stat. 757, effective Oct. 1, 2012.
 
 **National Bicycle Safety Education Curriculum**
 
-Pub. L. 105–178, title I, § 1202(e), June 9, 1998, 112 Stat. 170, provided that:
+Pub. L. 105–178, title I, § 1202(e), June 9, 1998, 112 Stat. 170, provided that:
 
 > **“(1) Development.—** The Secretary is authorized to develop a national bicycle safety education curriculum that may include courses relating to on-road training.
 
@@ -1407,7 +1407,7 @@ Pub. L. 105–178, title I, § 1202(e), June 9, 1998, 112 Stat. 170, provided 
 
 **Bicycle and Pedestrian Safety Grants**
 
-Pub. L. 105–178, title I, § 1212(i), formerly § 1212(*o*), June 9, 1998, 112 Stat. 196; renumbered § 1212(i), Pub. L. 105–206, title IX, § 9003(e)(5), July 22, 1998, 112 Stat. 840, and amended by Pub. L. 108–88, § 5(a)(8), Sept. 30, 2003, 117 Stat. 1114; Pub. L. 108–202, § 5(a)(8), Feb. 29, 2004, 118 Stat. 481; Pub. L. 108–224, § 4(a)(8), Apr. 30, 2004, 118 Stat. 629; Pub. L. 108–263, § 4(a)(8), June 30, 2004, 118 Stat. 700; Pub. L. 108–280, § 4(a)(8), July 30, 2004, 118 Stat. 879; Pub. L. 108–310, § 5(a)(8), Sept. 30, 2004, 118 Stat. 1149; Pub. L. 109–14, § 4(a)(8), May 31, 2005, 119 Stat. 326; Pub. L. 109–20, § 4(a)(8), July 1, 2005, 119 Stat. 348; Pub. L. 109–35, § 4(a)(8), July 20, 2005, 119 Stat. 381; Pub. L. 109–37, § 4(a)(8), July 22, 2005, 119 Stat. 396; Pub. L. 109–40, § 4(a)(8), July 28, 2005, 119 Stat. 412; Pub. L. 109–59, title I, § 1111(b)(4), Aug. 10, 2005, 119 Stat. 1171, provided that:
+Pub. L. 105–178, title I, § 1212(i), formerly § 1212(*o*), June 9, 1998, 112 Stat. 196; renumbered § 1212(i), Pub. L. 105–206, title IX, § 9003(e)(5), July 22, 1998, 112 Stat. 840, and amended by Pub. L. 108–88, § 5(a)(8), Sept. 30, 2003, 117 Stat. 1114; Pub. L. 108–202, § 5(a)(8), Feb. 29, 2004, 118 Stat. 481; Pub. L. 108–224, § 4(a)(8), Apr. 30, 2004, 118 Stat. 629; Pub. L. 108–263, § 4(a)(8), June 30, 2004, 118 Stat. 700; Pub. L. 108–280, § 4(a)(8), July 30, 2004, 118 Stat. 879; Pub. L. 108–310, § 5(a)(8), Sept. 30, 2004, 118 Stat. 1149; Pub. L. 109–14, § 4(a)(8), May 31, 2005, 119 Stat. 326; Pub. L. 109–20, § 4(a)(8), July 1, 2005, 119 Stat. 348; Pub. L. 109–35, § 4(a)(8), July 20, 2005, 119 Stat. 381; Pub. L. 109–37, § 4(a)(8), July 22, 2005, 119 Stat. 396; Pub. L. 109–40, § 4(a)(8), July 28, 2005, 119 Stat. 412; Pub. L. 109–59, title I, § 1111(b)(4), Aug. 10, 2005, 119 Stat. 1171, provided that:
 
 > **“(1) In general.—** The Secretary shall make grants to a national, not-for-profit organization engaged in promoting bicycle and pedestrian safety—
 
@@ -1423,7 +1423,7 @@ Pub. L. 105–178, title I, § 1212(i), formerly § 1212(*o*), June 9, 1998,
 
 **Highway Safety Education and Information**
 
-Pub. L. 105–178, title II, § 2001(f), June 9, 1998, 112 Stat. 325, provided that:
+Pub. L. 105–178, title II, § 2001(f), June 9, 1998, 112 Stat. 325, provided that:
 
 > **“(1) In general.—** For fiscal years 1999 and 2000, the Secretary shall allow any State to use funds apportioned to the State under section 402 of title 23, United States Code, to purchase television and radio time for highway safety public service messages.
 
@@ -1433,15 +1433,15 @@ Pub. L. 105–178, title II, § 2001(f), June 9, 1998, 112 Stat. 325, provided
 
 **Evaluation of Handicapped Parking System**
 
-Pub. L. 102–240, title I, § 1088, Dec. 18, 1991, 105 Stat. 2022, directed Secretary to conduct a study on progress being made by States in adopting and implementing uniform system for handicapped parking established in regulations issued pursuant to Pub. L. 100–641 (102 Stat. 3335), set out below, and, not later than 2 years after Dec. 18, 1991, submit to Congress the results of the study.
+Pub. L. 102–240, title I, § 1088, Dec. 18, 1991, 105 Stat. 2022, directed Secretary to conduct a study on progress being made by States in adopting and implementing uniform system for handicapped parking established in regulations issued pursuant to Pub. L. 100–641 (102 Stat. 3335), set out below, and, not later than 2 years after Dec. 18, 1991, submit to Congress the results of the study.
 
 **Obligation Limitation**
 
-Pub. L. 102–240, title II, § 2009(b), Dec. 18, 1991, 105 Stat. 2080, provided that: “If an obligation limitation is placed on sums authorized to be appropriated to carry out section 402 of title 23, United States Code, for fiscal year 1993 or subsequent fiscal years, any amounts made available out of such funds to carry out sections 2004 and 2006 of this Act [amending section 410 of this title and enacting provisions set out as notes under sections 403 and 410 of this title] and section 211(b) of the National Driver Register Act of 1982 [Pub. L. 97–364, set out as a note under section 401 of this title] shall be reduced proportionally.”
+Pub. L. 102–240, title II, § 2009(b), Dec. 18, 1991, 105 Stat. 2080, provided that: “If an obligation limitation is placed on sums authorized to be appropriated to carry out section 402 of title 23, United States Code, for fiscal year 1993 or subsequent fiscal years, any amounts made available out of such funds to carry out sections 2004 and 2006 of this Act [amending section 410 of this title and enacting provisions set out as notes under sections 403 and 410 of this title] and section 211(b) of the National Driver Register Act of 1982 [Pub. L. 97–364, set out as a note under section 401 of this title] shall be reduced proportionally.”
 
 **Handicapped Parking System**
 
-Pub. L. 100–641, § 3, Nov. 9, 1988, 102 Stat. 3335, provided that:
+Pub. L. 100–641, § 3, Nov. 9, 1988, 102 Stat. 3335, provided that:
 
 > **“(a) Regulations.—** Not later than the 180th day following the date of the enactment of this Act [Nov. 9, 1988], the Secretary of Transportation shall issue regulations—
 
@@ -1469,7 +1469,7 @@ Pub. L. 100–641, § 3, Nov. 9, 1988, 102 Stat. 3335, provided that:
 
 **Parking for Handicapped Persons; Study and Report; Proposed Uniform State Law**
 
-Pub. L. 100–17, title I, § 161, Apr. 2, 1987, 101 Stat. 212, provided that:
+Pub. L. 100–17, title I, § 161, Apr. 2, 1987, 101 Stat. 212, provided that:
 
 > **“(a) Study.—** The Secretary shall conduct a study for the purpose of determining—
 
@@ -1499,7 +1499,7 @@ Pub. L. 100–17, title I, § 161, Apr. 2, 1987, 101 Stat. 212, provided that:
 
 **Schoolbus Safety Measures; Study by National Academy of Sciences and Report; Publication of List of Most Effective Safety Measures in Federal Register; Schoolbus Safety Grant Program**
 
-Pub. L. 100–17, title II, § 204, Apr. 2, 1987, 101 Stat. 219, provided that:
+Pub. L. 100–17, title II, § 204, Apr. 2, 1987, 101 Stat. 219, provided that:
 
 > **“(a) Study.—**
 
@@ -1521,7 +1521,7 @@ Pub. L. 100–17, title II, § 204, Apr. 2, 1987, 101 Stat. 219, provided that
 
 **Special Parking Privileges for Handicapped Persons**
 
-Pub. L. 98–78, title III, § 321, Aug. 15, 1983, 97 Stat. 473, provided that:
+Pub. L. 98–78, title III, § 321, Aug. 15, 1983, 97 Stat. 473, provided that:
 
 > **“(a)** The Congress finds that—
 
@@ -1561,33 +1561,33 @@ Pub. L. 98–78, title III, § 321, Aug. 15, 1983, 97 Stat. 473, provided that
 
 **Motorcycle Helmet Study**
 
-Pub. L. 95–599, title II, § 210, Nov. 6, 1978, 92 Stat. 2733, provided that the Secretary of Transportation make a full and complete study of the effects of the provision contained in the eighth sentence of subsec. (c) of this section and that the Secretary report the results of such study to Congress not later than one year after Nov. 6, 1978.
+Pub. L. 95–599, title II, § 210, Nov. 6, 1978, 92 Stat. 2733, provided that the Secretary of Transportation make a full and complete study of the effects of the provision contained in the eighth sentence of subsec. (c) of this section and that the Secretary report the results of such study to Congress not later than one year after Nov. 6, 1978.
 
 **Study of Methods of Encouraging Use of Safety Belts in Automobiles**
 
-Pub. L. 95–599, title II, § 214, Nov. 6, 1978, 92 Stat. 2734, provided that the Secretary of Transportation undertake to enter into arrangements with the National Academy of Sciences to conduct a study and investigation of methods of encouraging the use of safety belts by drivers of, and passengers in, motor vehicles and that the National Academy of Sciences report to the Secretary and the Congress not later than one year after Nov. 6, 1978, on the results of such study.
+Pub. L. 95–599, title II, § 214, Nov. 6, 1978, 92 Stat. 2734, provided that the Secretary of Transportation undertake to enter into arrangements with the National Academy of Sciences to conduct a study and investigation of methods of encouraging the use of safety belts by drivers of, and passengers in, motor vehicles and that the National Academy of Sciences report to the Secretary and the Congress not later than one year after Nov. 6, 1978, on the results of such study.
 
 **Evaluation of Safety Standards; Report to Congress**
 
-Pub. L. 94–280, title II, § 208(b), May 5, 1976, 90 Stat. 454, provided that the Secretary of Transportation would, in cooperation with the States, conduct an evaluation of the adequacy and appropriateness of all uniform safety standards established under this section in effect on May 5, 1976, and report the findings, together with recommendations, to Congress on or before July 1, 1977.
+Pub. L. 94–280, title II, § 208(b), May 5, 1976, 90 Stat. 454, provided that the Secretary of Transportation would, in cooperation with the States, conduct an evaluation of the adequacy and appropriateness of all uniform safety standards established under this section in effect on May 5, 1976, and report the findings, together with recommendations, to Congress on or before July 1, 1977.
 
 **Report to Congress by July 1, 1967, on Initial Standards**
 
-Pub. L. 89–564, title II, § 203, Sept. 9, 1966, 80 Stat. 736, required the Secretary of Commerce to report to Congress by July 1, 1967, all standards to be initially applied in carrying out section 402 of this title.
+Pub. L. 89–564, title II, § 203, Sept. 9, 1966, 80 Stat. 736, required the Secretary of Commerce to report to Congress by July 1, 1967, all standards to be initially applied in carrying out section 402 of this title.
 
 **Authorization of Appropriations**
 
-Pub. L. 89–564, title I, § 104, Sept. 9, 1966, 80 Stat. 735, authorized the appropriation of $67,000,000, $100,000,000, and $100,000,000 for the fiscal years ending June 30, 1967, 1968, and 1969, respectively, to carry out this section.
+Pub. L. 89–564, title I, § 104, Sept. 9, 1966, 80 Stat. 735, authorized the appropriation of $67,000,000, $100,000,000, and $100,000,000 for the fiscal years ending June 30, 1967, 1968, and 1969, respectively, to carry out this section.
 
 **Study of Relationship Between Consumption of Alcohol and Highway Safety**
 
-Pub. L. 89–564, title II, § 204, Sept. 9, 1966, 80 Stat. 736, as amended by Pub. L. 97–449, § 2(a), Jan. 12, 1983, 96 Stat. 2439, directed the Secretary to make a thorough and complete study of the relationship between the consumption of alcohol and its effect upon highway safety and drivers of motor vehicles, in consultation with such other government and private agencies as may be necessary. Such study shall cover review and evaluation of State and local laws and enforcement methods and procedures relating to driving under the influence of alcohol, State and local programs for the treatment of alcoholism, and such other aspects of this overall problem as may be useful. The results of this study were required to be reported to the Congress by the Secretary on or before July 1, 1967, with recommendations for legislation if warranted.
+Pub. L. 89–564, title II, § 204, Sept. 9, 1966, 80 Stat. 736, as amended by Pub. L. 97–449, § 2(a), Jan. 12, 1983, 96 Stat. 2439, directed the Secretary to make a thorough and complete study of the relationship between the consumption of alcohol and its effect upon highway safety and drivers of motor vehicles, in consultation with such other government and private agencies as may be necessary. Such study shall cover review and evaluation of State and local laws and enforcement methods and procedures relating to driving under the influence of alcohol, State and local programs for the treatment of alcoholism, and such other aspects of this overall problem as may be useful. The results of this study were required to be reported to the Congress by the Secretary on or before July 1, 1967, with recommendations for legislation if warranted.
 
 **Executive Documents**
 
 **Ex. Ord. No. 13043. Increasing Seat Belt Use in the United States**
 
-Ex. Ord. No. 13043, Apr. 16, 1997, 62 F.R. 19217, as amended by Ex. Ord. No. 13652, § 5, Sept. 30, 2013, 78 F.R. 61818, provided:
+Ex. Ord. No. 13043, Apr. 16, 1997, 62 F.R. 19217, as amended by Ex. Ord. No. 13652, § 5, Sept. 30, 2013, 78 F.R. 61818, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Highway Safety Act of 1966, 23 U.S.C. 402 and 403, as amended, section 7902(c) of title 5, United States Code, and section 19 of the Occupational Safety and Health Act of 1970, 29 U.S.C. 668, as amended, and in order to require that Federal employees use seat belts while on official business; to require that motor vehicle occupants use seat belts in national park areas and on Department of Defense (“Defense”) installations; to encourage Tribal Governments to adopt and enforce seat belt policies and programs for occupants of motor vehicles traveling on highways in Indian Country; and to encourage Federal contractors, subcontractors, and grantees to adopt and enforce on-the-job seat belt use policies and programs, it is hereby ordered as follows:
 
@@ -1659,7 +1659,7 @@ Sec. 7. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Barack Obama.
 
-## § 403. Highway safety research and development
+## § 403. Highway safety research and development
 
 **(a) Defined Term.—** In this section, the term “Federal laboratory” includes—
 
@@ -1841,43 +1841,43 @@ Barack Obama.
 
 **(2) Treatment.—** The research described in paragraph (1) shall be in addition to any other research carried out under this section.
 
-(Added Pub. L. 89–564, title I, § 101, Sept. 9, 1966, 80 Stat. 733; amended Pub. L. 93–87, title II, §§ 208(a), 220–222, 226(a), Aug. 13, 1973, 87 Stat. 286, 291, 292; Pub. L. 102–240, title II, § 2003, Dec. 18, 1991, 105 Stat. 2071; Pub. L. 105–178, title II, § 2002(a), (b)(1), June 9, 1998, 112 Stat. 325; Pub. L. 109–59, title II, §§ 2003(a), (b), 2013(e), Aug. 10, 2005, 119 Stat. 1522, 1540; Pub. L. 112–141, div. C, title I, § 31103, July 6, 2012, 126 Stat. 739; Pub. L. 113–159, title I, § 1101(b), Aug. 8, 2014, 128 Stat. 1843; Pub. L. 114–21, title I, § 1101(b), May 29, 2015, 129 Stat. 221; Pub. L. 114–41, title I, § 1101(b), July 31, 2015, 129 Stat. 448; Pub. L. 114–73, title I, § 1101(b), Oct. 29, 2015, 129 Stat. 571; Pub. L. 114–87, title I, § 1101(b), Nov. 20, 2015, 129 Stat. 680; Pub. L. 114–94, div. A, title IV, §§ 4003, 4014(2), div. B, title XXIV, § 24202(b), Dec. 4, 2015, 129 Stat. 1500, 1513, 1712; Pub. L. 116–159, div. B, title I, § 1103, Oct. 1, 2020, 134 Stat. 726; Pub. L. 117–58, div. B, title IV, § 24103, Nov. 15, 2021, 135 Stat. 792.)
+(Added Pub. L. 89–564, title I, § 101, Sept. 9, 1966, 80 Stat. 733; amended Pub. L. 93–87, title II, §§ 208(a), 220–222, 226(a), Aug. 13, 1973, 87 Stat. 286, 291, 292; Pub. L. 102–240, title II, § 2003, Dec. 18, 1991, 105 Stat. 2071; Pub. L. 105–178, title II, § 2002(a), (b)(1), June 9, 1998, 112 Stat. 325; Pub. L. 109–59, title II, §§ 2003(a), (b), 2013(e), Aug. 10, 2005, 119 Stat. 1522, 1540; Pub. L. 112–141, div. C, title I, § 31103, July 6, 2012, 126 Stat. 739; Pub. L. 113–159, title I, § 1101(b), Aug. 8, 2014, 128 Stat. 1843; Pub. L. 114–21, title I, § 1101(b), May 29, 2015, 129 Stat. 221; Pub. L. 114–41, title I, § 1101(b), July 31, 2015, 129 Stat. 448; Pub. L. 114–73, title I, § 1101(b), Oct. 29, 2015, 129 Stat. 571; Pub. L. 114–87, title I, § 1101(b), Nov. 20, 2015, 129 Stat. 680; Pub. L. 114–94, div. A, title IV, §§ 4003, 4014(2), div. B, title XXIV, § 24202(b), Dec. 4, 2015, 129 Stat. 1500, 1513, 1712; Pub. L. 116–159, div. B, title I, § 1103, Oct. 1, 2020, 134 Stat. 726; Pub. L. 117–58, div. B, title IV, § 24103, Nov. 15, 2021, 135 Stat. 792.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(3), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(3), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
 The date of enactment of this subsection, referred to in subsec. (*l*)(2)(A), is the date of enactment of Pub. L. 117–58, which was approved Nov. 15, 2021.
 
 **Amendments**
 
-2021—Pub. L. 117–58, § 24103(1), substituted “crash” for “accident” wherever appearing.
+2021—Pub. L. 117–58, § 24103(1), substituted “crash” for “accident” wherever appearing.
 
-Subsec. (b)(1). Pub. L. 117–58, § 24103(2), inserted “, training, education,” after “demonstration projects” in introductory provisions.
+Subsec. (b)(1). Pub. L. 117–58, § 24103(2), inserted “, training, education,” after “demonstration projects” in introductory provisions.
 
-Subsec. (f)(1). Pub. L. 117–58, § 24103(3), substituted “$3,500,000” for “$2,500,000” and “section 402(c) in each fiscal year” for “subsection 402(c) in each fiscal year ending before October 1, 2015, and $443,989 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2015, and ending on December 4, 2015,”.
+Subsec. (f)(1). Pub. L. 117–58, § 24103(3), substituted “$3,500,000” for “$2,500,000” and “section 402(c) in each fiscal year” for “subsection 402(c) in each fiscal year ending before October 1, 2015, and $443,989 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2015, and ending on December 4, 2015,”.
 
-Subsec. (h)(1). Pub. L. 117–58, § 24103(4)(C), redesignated par. (5) as (1). Former par. (1) redesignated (2).
+Subsec. (h)(1). Pub. L. 117–58, § 24103(4)(C), redesignated par. (5) as (1). Former par. (1) redesignated (2).
 
-Subsec. (h)(2). Pub. L. 117–58, § 24103(4)(C), redesignated par. (1) as (2). Former par. (2) redesignated (3).
+Subsec. (h)(2). Pub. L. 117–58, § 24103(4)(C), redesignated par. (1) as (2). Former par. (2) redesignated (3).
 
-Pub. L. 117–58, § 24103(4)(A), substituted “2022 through 2025, not more than $45,000,000 to conduct the research described in paragraph (2)” for “2017 through 2021 not more than $26,560,000 to conduct the research described in paragraph (1)”.
+Pub. L. 117–58, § 24103(4)(A), substituted “2022 through 2025, not more than $45,000,000 to conduct the research described in paragraph (2)” for “2017 through 2021 not more than $26,560,000 to conduct the research described in paragraph (1)”.
 
-Subsec. (h)(3) to (5). Pub. L. 117–58, § 24103(4)(C), redesignated pars. (2) to (4) as (3) to (5), respectively.
+Subsec. (h)(3) to (5). Pub. L. 117–58, § 24103(4)(C), redesignated pars. (2) to (4) as (3) to (5), respectively.
 
-Subsec. (h)(5)(A). Pub. L. 117–58, § 24103(4)(B), substituted “section 30102(a)” for “section 30102(a)(6)”.
+Subsec. (h)(5)(A). Pub. L. 117–58, § 24103(4)(B), substituted “section 30102(a)” for “section 30102(a)(6)”.
 
-Subsecs. (k) to (m). Pub. L. 117–58, § 24103(5), added subsecs. (k) to (m).
+Subsecs. (k) to (m). Pub. L. 117–58, § 24103(5), added subsecs. (k) to (m).
 
 2020—Subsec. (h)(2). Pub. L. 116–159 substituted “2021” for “2020” and “$26,560,000” for “$21,248,000”.
 
-2015—Subsec. (b)(2)(C). Pub. L. 114–94, § 24202(b)(1), inserted “foreign government (in coordination with the Department of State)” after “institution,”.
+2015—Subsec. (b)(2)(C). Pub. L. 114–94, § 24202(b)(1), inserted “foreign government (in coordination with the Department of State)” after “institution,”.
 
-Subsec. (c)(1)(A). Pub. L. 114–94, § 24202(b)(2), inserted “foreign governments,” after “local governments,”.
+Subsec. (c)(1)(A). Pub. L. 114–94, § 24202(b)(2), inserted “foreign governments,” after “local governments,”.
 
-Subsec. (e). Pub. L. 114–94, § 4014(2), substituted “chapter 301 of title 49” for “chapter 301”.
+Subsec. (e). Pub. L. 114–94, § 4014(2), substituted “chapter 301 of title 49” for “chapter 301”.
 
 Subsec. (f)(1). Pub. L. 114–87 substituted “and $443,989 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2015, and ending on December 4, 2015,” for “and $348,361 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2015, and ending on November 20, 2015,”.
 
@@ -1887,49 +1887,49 @@ Pub. L. 114–41 substituted “each fiscal year ending before October 1, 2015, 
 
 Pub. L. 114–21 substituted “and $2,082,192 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2014, and ending on July 31, 2015,” for “and $1,664,384 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2014, and ending on May 31, 2015,”.
 
-Subsec. (h)(1). Pub. L. 114–94, § 4003(1)(A), substituted “shall carry” for “may carry”.
+Subsec. (h)(1). Pub. L. 114–94, § 4003(1)(A), substituted “shall carry” for “may carry”.
 
-Subsec. (h)(2). Pub. L. 114–94, § 4003(1)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Funds provided under section 405 may be made to be used by the Secretary to conduct the research described in paragraph (1).”
+Subsec. (h)(2). Pub. L. 114–94, § 4003(1)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Funds provided under section 405 may be made to be used by the Secretary to conduct the research described in paragraph (1).”
 
-Subsec. (h)(3). Pub. L. 114–94, § 4003(1)(C), substituted “The” for “If the Administrator utilizes the authority under paragraph (1), the”.
+Subsec. (h)(3). Pub. L. 114–94, § 4003(1)(C), substituted “The” for “If the Administrator utilizes the authority under paragraph (1), the”.
 
-Subsec. (h)(4). Pub. L. 114–94, § 4003(1)(D), substituted “The” for “If the Administrator conducts the research authorized under paragraph (1), the”.
+Subsec. (h)(4). Pub. L. 114–94, § 4003(1)(D), substituted “The” for “If the Administrator conducts the research authorized under paragraph (1), the”.
 
-Subsecs. (i), (j). Pub. L. 114–94, § 4003(2), added subsecs. (i) and (j).
+Subsecs. (i), (j). Pub. L. 114–94, § 4003(2), added subsecs. (i) and (j).
 
 2014—Subsec. (f)(1). Pub. L. 113–159 inserted “ending before October 1, 2014, and $1,664,384 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in the period beginning on October 1, 2014, and ending on May 31, 2015,” after “each fiscal year”.
 
-2012—Subsecs. (a) to (f). Pub. L. 112–141, § 31103(1), added subsecs. (a) to (f) and struck out former subsecs. (a) to (f) which related to authority of the Secretary generally, drugs and driver behavior, authority of Secretary to conduct research through grants and contracts with public and private agencies, institutions, and individuals, authority of Secretary to vest title to equipment purchased for demonstration projects in State and local agencies, authority of Secretary relating to projects to demonstrate the administrative adjudication of traffic infractions, and collaborative research and development, respectively.
+2012—Subsecs. (a) to (f). Pub. L. 112–141, § 31103(1), added subsecs. (a) to (f) and struck out former subsecs. (a) to (f) which related to authority of the Secretary generally, drugs and driver behavior, authority of Secretary to conduct research through grants and contracts with public and private agencies, institutions, and individuals, authority of Secretary to vest title to equipment purchased for demonstration projects in State and local agencies, authority of Secretary relating to projects to demonstrate the administrative adjudication of traffic infractions, and collaborative research and development, respectively.
 
-Subsec. (h). Pub. L. 112–141, § 31103(2), added subsec. (h).
+Subsec. (h). Pub. L. 112–141, § 31103(2), added subsec. (h).
 
-2005—Subsec. (a). Pub. L. 109–59, § 2003(a), reenacted heading without change and amended text of subsec. (a) generally, substituting provisions relating to authority of Secretary to use funds for highway safety research programs for former provisions which related to, in par. (1), general authority of Secretary, in par. (2), additional authority of Secretary, and, in par. (3), definition of “safety”.
+2005—Subsec. (a). Pub. L. 109–59, § 2003(a), reenacted heading without change and amended text of subsec. (a) generally, substituting provisions relating to authority of Secretary to use funds for highway safety research programs for former provisions which related to, in par. (1), general authority of Secretary, in par. (2), additional authority of Secretary, and, in par. (3), definition of “safety”.
 
-Subsec. (b)(5), (6). Pub. L. 109–59, § 2013(e), added pars. (5) and (6).
+Subsec. (b)(5), (6). Pub. L. 109–59, § 2013(e), added pars. (5) and (6).
 
-Subsec. (g). Pub. L. 109–59, § 2003(b), added subsec. (g).
+Subsec. (g). Pub. L. 109–59, § 2003(b), added subsec. (g).
 
-1998—Subsec. (a)(2)(A). Pub. L. 105–178, § 2002(a), inserted “, including training in work zone safety management” after “personnel”.
+1998—Subsec. (a)(2)(A). Pub. L. 105–178, § 2002(a), inserted “, including training in work zone safety management” after “personnel”.
 
-Subsec. (b)(3), (4). Pub. L. 105–178, § 2002(b)(1), added pars. (3) and (4).
+Subsec. (b)(3), (4). Pub. L. 105–178, § 2002(b)(1), added pars. (3) and (4).
 
-1991—Subsec. (a). Pub. L. 102–240, § 2003(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary is authorized to use funds appropriated to carry out this subsection to carry out safety research which he is authorized to conduct by subsection (a) of section 307 of this title. In addition, the Secretary may use the funds appropriated to carry out this section, either independently or in cooperation with other Federal departments or agencies, for making grants to or contracting with State or local agencies, institutions, and individuals for (1) training or education of highway safety personnel, (2) research fellowships in highway safety, (3) development of improved accident investigation procedures, (4) emergency service plans, (5) demonstration projects, and (6) related activities which the Secretary deems will promote the purposes of this section. The Secretary shall assure that no fees are charged for any meetings or services attendant thereto or other activities relating to training and education of highway safety personnel.”
+1991—Subsec. (a). Pub. L. 102–240, § 2003(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary is authorized to use funds appropriated to carry out this subsection to carry out safety research which he is authorized to conduct by subsection (a) of section 307 of this title. In addition, the Secretary may use the funds appropriated to carry out this section, either independently or in cooperation with other Federal departments or agencies, for making grants to or contracting with State or local agencies, institutions, and individuals for (1) training or education of highway safety personnel, (2) research fellowships in highway safety, (3) development of improved accident investigation procedures, (4) emergency service plans, (5) demonstration projects, and (6) related activities which the Secretary deems will promote the purposes of this section. The Secretary shall assure that no fees are charged for any meetings or services attendant thereto or other activities relating to training and education of highway safety personnel.”
 
-Subsec. (b). Pub. L. 102–240, § 2003(a), added subsec. (b) and struck out former subsec. (b) which read as follows: “In addition to the research authorized by subsection (a) of this section, the Secretary, in consultation with such other Government and private agencies as may be necessary, is authorized to carry out safety research on the following:
+Subsec. (b). Pub. L. 102–240, § 2003(a), added subsec. (b) and struck out former subsec. (b) which read as follows: “In addition to the research authorized by subsection (a) of this section, the Secretary, in consultation with such other Government and private agencies as may be necessary, is authorized to carry out safety research on the following:
 
 “(1) The relationship between the consumption and use of drugs and their effect upon highway safety and drivers of motor vehicles; and
 
 “(2) Driver behavior research, including the characteristics of driver performance, the relationships of mental and physical abilities or disabilities to the driving task, and the relationship of frequency of driver accident involvement to highway safety.”
 
-Subsec. (c). Pub. L. 102–240, § 2003(c), substituted “subsections (a) and (b)” for “subsection (b)”.
+Subsec. (c). Pub. L. 102–240, § 2003(c), substituted “subsections (a) and (b)” for “subsection (b)”.
 
-Subsec. (f). Pub. L. 102–240, § 2003(b), added subsec. (f) and struck out former subsec. (f) which read as follows: “In addition to the research authorized by subsection (a) of this section, the Secretary shall carry out research, development, and demonstration projects to improve and evaluate the effectiveness of various types of driver education programs in reducing traffic accidents and deaths, injuries, and property damage resulting therefrom. The research, development, and demonstration projects authorized by this subsection may be carried out by the Secretary through grants and contracts with public and private agencies, institutions, and individuals. The Secretary shall report to the Congress by July 1, 1975, and each year thereafter during the continuance of the program, on the research, development, and demonstration proj­ects authorized by this subsection, and shall include in such report an evaluation of the effectiveness of driver education programs in reducing traffic accidents and deaths, injuries, and property damage resulting therefrom.”
+Subsec. (f). Pub. L. 102–240, § 2003(b), added subsec. (f) and struck out former subsec. (f) which read as follows: “In addition to the research authorized by subsection (a) of this section, the Secretary shall carry out research, development, and demonstration projects to improve and evaluate the effectiveness of various types of driver education programs in reducing traffic accidents and deaths, injuries, and property damage resulting therefrom. The research, development, and demonstration projects authorized by this subsection may be carried out by the Secretary through grants and contracts with public and private agencies, institutions, and individuals. The Secretary shall report to the Congress by July 1, 1975, and each year thereafter during the continuance of the program, on the research, development, and demonstration proj­ects authorized by this subsection, and shall include in such report an evaluation of the effectiveness of driver education programs in reducing traffic accidents and deaths, injuries, and property damage resulting therefrom.”
 
-1973—Subsec. (a). Pub. L. 93–87, §§ 208(a), 220, designated existing provisions as subsec. (a); substituted in first sentence “this subsection” for “this section”; substituted in second sentence “for making grants to or contracting with State or local agencies, institutions, and individuals for (1) training or education of highway safety personnel” for “for (1) grants to State or local agencies, institutions, and individuals for training or education of highway safety personnel” and “(6) related activities which the Secretary deems will promote the purposes of this section” for (6) related activities which are deemed by the Secretary to be necessary to carry out the purposes of this section”; and inserted requirement that the Secretary assure that no fees be charged for any meeting or services attend­ant thereto or other activities relating to training and education of highway safety personnel.
+1973—Subsec. (a). Pub. L. 93–87, §§ 208(a), 220, designated existing provisions as subsec. (a); substituted in first sentence “this subsection” for “this section”; substituted in second sentence “for making grants to or contracting with State or local agencies, institutions, and individuals for (1) training or education of highway safety personnel” for “for (1) grants to State or local agencies, institutions, and individuals for training or education of highway safety personnel” and “(6) related activities which the Secretary deems will promote the purposes of this section” for (6) related activities which are deemed by the Secretary to be necessary to carry out the purposes of this section”; and inserted requirement that the Secretary assure that no fees be charged for any meeting or services attend­ant thereto or other activities relating to training and education of highway safety personnel.
 
-Subsecs. (b), (c). Pub. L. 93–87, § 208(a), added subsecs. (b) and (c).
+Subsecs. (b), (c). Pub. L. 93–87, § 208(a), added subsecs. (b) and (c).
 
-Subsecs. (d) to (f). Pub. L. 93–87, §§ 221, 222, 226(a), added subsecs. (d) to (f).
+Subsecs. (d) to (f). Pub. L. 93–87, §§ 221, 222, 226(a), added subsecs. (d) to (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1955,19 +1955,19 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 **Research on Distracted, Inattentive, and Fatigued Drivers**
 
-Pub. L. 109–59, title II, § 2003(d), Aug. 10, 2005, 119 Stat. 1523, provided that: “In conducting research under section 403(a)(3) of title 23, United States Code, the Secretary [of Transportation] shall carry out not less than 2 demonstration projects to evaluate new and innovative means of combating traffic system problems caused by distracted, inattentive, or fatigued drivers. The demonstration projects shall be in addition to any other research carried out under such section.”
+Pub. L. 109–59, title II, § 2003(d), Aug. 10, 2005, 119 Stat. 1523, provided that: “In conducting research under section 403(a)(3) of title 23, United States Code, the Secretary [of Transportation] shall carry out not less than 2 demonstration projects to evaluate new and innovative means of combating traffic system problems caused by distracted, inattentive, or fatigued drivers. The demonstration projects shall be in addition to any other research carried out under such section.”
 
 **Drug-Impaired Driving Enforcement**
 
-Pub. L. 109–59, title II, § 2013, Aug. 10, 2005, 119 Stat. 1539, as amended by Pub. L. 111–147, title IV, § 421(m), Mar. 18, 2010, 124 Stat. 86; Pub. L. 112–30, title I, § 121(m), Sept. 16, 2011, 125 Stat. 348, related to agency coordination and research on drug-impaired driving enforcement, prior to repeal by Pub. L. 112–141, div. C, title I, § 31109(i), July 6, 2012, 126 Stat. 757.
+Pub. L. 109–59, title II, § 2013, Aug. 10, 2005, 119 Stat. 1539, as amended by Pub. L. 111–147, title IV, § 421(m), Mar. 18, 2010, 124 Stat. 86; Pub. L. 112–30, title I, § 121(m), Sept. 16, 2011, 125 Stat. 348, related to agency coordination and research on drug-impaired driving enforcement, prior to repeal by Pub. L. 112–141, div. C, title I, § 31109(i), July 6, 2012, 126 Stat. 757.
 
 **Safety Studies**
 
-Pub. L. 105–178, title II, § 2007, June 9, 1998, 112 Stat. 336, directed the Secretary to study the benefit to public safety of the use of blowout resistant tires on commercial motor vehicles and to study occupant safety in school buses, and to transmit to Congress a report on the results of each study not later than 2 years after June 9, 1998.
+Pub. L. 105–178, title II, § 2007, June 9, 1998, 112 Stat. 336, directed the Secretary to study the benefit to public safety of the use of blowout resistant tires on commercial motor vehicles and to study occupant safety in school buses, and to transmit to Congress a report on the results of each study not later than 2 years after June 9, 1998.
 
 **School Transportation Safety**
 
-Pub. L. 105–178, title IV, § 4030, June 9, 1998, 112 Stat. 418, provided that:
+Pub. L. 105–178, title IV, § 4030, June 9, 1998, 112 Stat. 418, provided that:
 
 > **“(a) Study.—** Not later than 3 months after the date of enactment of this Act [June 9, 1998], the Secretary shall offer to enter into an agreement with the Transportation Research Board of the National Academy of Sciences to conduct, subject to the availability of appropriations, a study of the safety issues attendant to the transportation of school children to and from school and school-related activities by various transportation modes.
 
@@ -2007,7 +2007,7 @@ Pub. L. 105–178, title IV, § 4030, June 9, 1998, 112 Stat. 418, provided th
 
 **Drug Recognition Expert Training Program**
 
-Pub. L. 102–240, title II, § 2006, Dec. 18, 1991, 105 Stat. 2079, provided that:
+Pub. L. 102–240, title II, § 2006, Dec. 18, 1991, 105 Stat. 2079, provided that:
 
 > **“(a) Establishment.—** The Secretary, acting through the National Highway Traffic Safety Administration, shall establish a regional program for implementation of drug recognition programs and for training law enforcement officers (including enforcement officials under the motor carrier safety assistance program) to recognize and identify individuals who are operating a motor vehicle while under the influence of alcohol or one or more controlled substances or other drugs.
 
@@ -2019,11 +2019,11 @@ Pub. L. 102–240, title II, § 2006, Dec. 18, 1991, 105 Stat. 2079, provided 
 
 **Pilot Program for Drug Recognition Expert Training**
 
-Pub. L. 100–690, title IX, § 9004, Nov. 18, 1988, 102 Stat. 4525, provided that the Secretary of Transportation, acting through the National Highway Traffic Safety Administration, would establish a 3-year pilot, regional program for training law enforcement officers to recognize and identify individuals operating motor vehicles while under the influence of alcohol or 1 or more controlled substances or other drugs, and not later than 1 year after the completion of the pilot program, transmit to Congress a report on the effectiveness of such program together with any recommendations.
+Pub. L. 100–690, title IX, § 9004, Nov. 18, 1988, 102 Stat. 4525, provided that the Secretary of Transportation, acting through the National Highway Traffic Safety Administration, would establish a 3-year pilot, regional program for training law enforcement officers to recognize and identify individuals operating motor vehicles while under the influence of alcohol or 1 or more controlled substances or other drugs, and not later than 1 year after the completion of the pilot program, transmit to Congress a report on the effectiveness of such program together with any recommendations.
 
 **Pilot Grant Program for Random Testing for Illegal Drug Use**
 
-Pub. L. 100–690, title IX, § 9005, Nov. 18, 1988, 102 Stat. 4526, provided that:
+Pub. L. 100–690, title IX, § 9005, Nov. 18, 1988, 102 Stat. 4526, provided that:
 
 > **“(a) Establishment of Pilot Program.—** The Secretary shall design, within 9 months after the date of the enactment of this Act [Nov. 18, 1988], and implement, within 15 months after the date of the enactment of this Act, a pilot State grant program for the purpose of testing individuals described in subsection (e)(1) to determine whether such individuals have used, without lawful authorization, a controlled substance.
 
@@ -2075,31 +2075,31 @@ Pub. L. 100–690, title IX, § 9005, Nov. 18, 1988, 102 Stat. 4526, provided 
 
 **Drug and Highway Safety Study and Report**
 
-Pub. L. 99–570, title III, § 3402, Oct. 27, 1986, 100 Stat. 3207–102, directed Secretary of Transportation to conduct a study to determine relationship between usage of controlled substances and highway safety and, not later than one year after Oct. 27, 1986, submit to Congress a report on results of study.
+Pub. L. 99–570, title III, § 3402, Oct. 27, 1986, 100 Stat. 3207–102, directed Secretary of Transportation to conduct a study to determine relationship between usage of controlled substances and highway safety and, not later than one year after Oct. 27, 1986, submit to Congress a report on results of study.
 
 **National Driver Register Study**
 
-Pub. L. 95–599, title II, § 204, Nov. 6, 1978, 92 Stat. 2729, directed Secretary of Transportation to make a full and complete investigation and study of the need for, and, if necessary, ways and means to establish, a national driver register to assist States in electronically exchanging information regarding motor vehicle driving records of certain individuals, with Secretary to issue a final report to Congress not later than one year after Nov. 6, 1978.
+Pub. L. 95–599, title II, § 204, Nov. 6, 1978, 92 Stat. 2729, directed Secretary of Transportation to make a full and complete investigation and study of the need for, and, if necessary, ways and means to establish, a national driver register to assist States in electronically exchanging information regarding motor vehicle driving records of certain individuals, with Secretary to issue a final report to Congress not later than one year after Nov. 6, 1978.
 
 **Detection and Prevention of Marijuana and Other Drug Use by Operators of Motor Vehicles**
 
-Pub. L. 95–599, title II, § 212, Nov. 6, 1978, 92 Stat. 2734, directed Secretary to report to Congress not later than Dec. 31, 1979, concerning the progress of efforts to detect and prevent marijuana and drug use by motor vehicle operators, capabilities of law enforcement officials to detect the use of marijuana and drugs by motor vehicle operators, and a description of Federal and State projects undertaken into methods of detection and prevention.
+Pub. L. 95–599, title II, § 212, Nov. 6, 1978, 92 Stat. 2734, directed Secretary to report to Congress not later than Dec. 31, 1979, concerning the progress of efforts to detect and prevent marijuana and drug use by motor vehicle operators, capabilities of law enforcement officials to detect the use of marijuana and drugs by motor vehicle operators, and a description of Federal and State projects undertaken into methods of detection and prevention.
 
 **Form and Use of Reports of Highway Traffic Accidents or Research Projects in Court; Availability to Public**
 
-Pub. L. 89–564, title I, § 106, Sept. 9, 1966, 80 Stat. 735, as amended by Pub. L. 105–178, title V, § 5119(f), June 9, 1998, 112 Stat. 452, provided that: “All facts contained in any report of any Federal department or agency or any officer, employee, or agent thereof, relating to any highway traffic accident or the investigation thereof conducted pursuant to chapter 4 of title 23 of the United States Code shall be available for use in any civil, criminal, or other judicial proceeding arising out of such accident, and any such officer, employee, or agent may be required to testify in such proceedings as to the facts developed in such investigation. Any such report shall be made available to the public in a manner which does not identify individuals. All completed reports on research projects, demonstration projects, and other related activities conducted under section 403 and chapter 5 of title 23, United States Code, shall be made available to the public in a manner which does not identify individuals.”
+Pub. L. 89–564, title I, § 106, Sept. 9, 1966, 80 Stat. 735, as amended by Pub. L. 105–178, title V, § 5119(f), June 9, 1998, 112 Stat. 452, provided that: “All facts contained in any report of any Federal department or agency or any officer, employee, or agent thereof, relating to any highway traffic accident or the investigation thereof conducted pursuant to chapter 4 of title 23 of the United States Code shall be available for use in any civil, criminal, or other judicial proceeding arising out of such accident, and any such officer, employee, or agent may be required to testify in such proceedings as to the facts developed in such investigation. Any such report shall be made available to the public in a manner which does not identify individuals. All completed reports on research projects, demonstration projects, and other related activities conducted under section 403 and chapter 5 of title 23, United States Code, shall be made available to the public in a manner which does not identify individuals.”
 
 **Appropriations Authorizations**
 
-Pub. L. 93–87, title II, § 208(b), Aug. 13, 1973, 87 Stat. 286, provided that: “There is authorized to be appropriated to carry out the amendments made by this section [amending this section] by the National Highway Traffic Safety Administration, out of the Highway Trust Fund, the sum of $10,000,000 per fiscal year for each of the fiscal years ending June 30, 1974, June 30, 1975, and June 30, 1976.”
+Pub. L. 93–87, title II, § 208(b), Aug. 13, 1973, 87 Stat. 286, provided that: “There is authorized to be appropriated to carry out the amendments made by this section [amending this section] by the National Highway Traffic Safety Administration, out of the Highway Trust Fund, the sum of $10,000,000 per fiscal year for each of the fiscal years ending June 30, 1974, June 30, 1975, and June 30, 1976.”
 
-Pub. L. 93–87, title II, § 226(b), Aug. 13, 1973, 87 Stat. 292, provided that: “For the purpose of carrying out the amendment made by subsection (a) of this section [amending this section], there is authorized to be appropriated $10,000,000 out of the Highway Trust Fund.”
+Pub. L. 93–87, title II, § 226(b), Aug. 13, 1973, 87 Stat. 292, provided that: “For the purpose of carrying out the amendment made by subsection (a) of this section [amending this section], there is authorized to be appropriated $10,000,000 out of the Highway Trust Fund.”
 
 **Authorization of Additional Appropriations**
 
 Authorization of appropriation of additional sum of $10,000,000 for the fiscal year ending June 30, 1967, $20,000,000 for the fiscal year ending June 30, 1968, and $25,000,000 for the fiscal year ending June 30, 1969, for the purpose of carrying out this section and section 307(a) of this title, see section 105 of Pub. L. 89–564, set out as a note under section 307 of this title.
 
-## § 404. High-visibility enforcement program
+## § 404. High-visibility enforcement program
 
 **(a) In General.—** The Secretary shall establish and administer a program under which not less than 3 campaigns will be carried out in each of fiscal years 2022 through 2026.
 
@@ -2125,7 +2125,7 @@ Authorization of appropriation of additional sum of $10,000,000 for the fiscal y
 
 **(2) State.—** The term “State” has the meaning given that term in section 401.
 
-(Added Pub. L. 89–564, title I, § 101, Sept. 9, 1966, 80 Stat. 733; amended Pub. L. 90–150, Nov. 24, 1967, 81 Stat. 507; Pub. L. 93–87, title II, § 223, Aug. 13, 1973, 87 Stat. 292; Pub. L. 94–280, title II, § 209, May 5, 1976, 90 Stat. 455; Pub. L. 109–59, title II, § 2019, Aug. 10, 2005, 119 Stat. 1543; Pub. L. 114–94, div. A, title IV, § 4004(a), Dec. 4, 2015, 129 Stat. 1500; Pub. L. 117–58, div. B, title IV, § 24104, Nov. 15, 2021, 135 Stat. 795.)
+(Added Pub. L. 89–564, title I, § 101, Sept. 9, 1966, 80 Stat. 733; amended Pub. L. 90–150, Nov. 24, 1967, 81 Stat. 507; Pub. L. 93–87, title II, § 223, Aug. 13, 1973, 87 Stat. 292; Pub. L. 94–280, title II, § 209, May 5, 1976, 90 Stat. 455; Pub. L. 109–59, title II, § 2019, Aug. 10, 2005, 119 Stat. 1543; Pub. L. 114–94, div. A, title IV, § 4004(a), Dec. 4, 2015, 129 Stat. 1500; Pub. L. 117–58, div. B, title IV, § 24104, Nov. 15, 2021, 135 Stat. 795.)
 
 **Editorial Notes**
 
@@ -2141,9 +2141,9 @@ Authorization of appropriation of additional sum of $10,000,000 for the fiscal y
 
 1973—Subsec. (a)(1). Pub. L. 93–87 added the National Highway Traffic Safety Administrator to the membership of the National Highway Safety Advisory Committee.
 
-1967—Subsec. (a)(1). Pub. L. 90–150, § 1(1), substituted “Department of Transportation” for “Department of Commerce”, increased number of Committee appointees from twenty-nine to thirty-five, and provided for selection of members from representatives of national organizations of passenger car, bus, and truck owners.
+1967—Subsec. (a)(1). Pub. L. 90–150, § 1(1), substituted “Department of Transportation” for “Department of Commerce”, increased number of Committee appointees from twenty-nine to thirty-five, and provided for selection of members from representatives of national organizations of passenger car, bus, and truck owners.
 
-Subsec. (a)(2)(A). Pub. L. 90–150, § 1(2), substituted provisions for expirations of term of office of initial appointees one, two, and three years after date of appointment for twelve, twelve, and eleven members, respectively, for former provisions for such expiration one, two, and three years following enactment date of Sept. 9, 1966, for ten, ten, and nine members, respectively, and prohibited reappointment within one year after end of preceding term of member serving a three-year term of office.
+Subsec. (a)(2)(A). Pub. L. 90–150, § 1(2), substituted provisions for expirations of term of office of initial appointees one, two, and three years after date of appointment for twelve, twelve, and eleven members, respectively, for former provisions for such expiration one, two, and three years following enactment date of Sept. 9, 1966, for ten, ten, and nine members, respectively, and prohibited reappointment within one year after end of preceding term of member serving a three-year term of office.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2151,7 +2151,7 @@ Subsec. (a)(2)(A). Pub. L. 90–150, § 1(2), substituted provisions for expir
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
-## § 405. National priority safety programs
+## § 405. National priority safety programs
 
 **(a) Program Authority.—**
 
@@ -2873,7 +2873,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 **(ii)** direct any amounts withheld under clause (i) for distribution among the States that are enforcing and carrying out a law or program described in paragraph (4).
 
-(Added Pub. L. 105–178, title II, § 2003(a)(1), June 9, 1998, 112 Stat. 325; amended Pub. L. 109–59, title II, §§ 2002(e), 2004, Aug. 10, 2005, 119 Stat. 1522, 1524; Pub. L. 111–147, title IV, § 421(c)(1), Mar. 18, 2010, 124 Stat. 84; Pub. L. 112–30, title I, § 121(c)(1), Sept. 16, 2011, 125 Stat. 347; Pub. L. 112–141, div. C, title I, § 31105(a), July 6, 2012, 126 Stat. 741; Pub. L. 114–94, div. A, title IV, §§ 4005, 4014(3), Dec. 4, 2015, 129 Stat. 1501, 1513; Pub. L. 117–58, div. B, title IV, § 24105(a), Nov. 15, 2021, 135 Stat. 795.)
+(Added Pub. L. 105–178, title II, § 2003(a)(1), June 9, 1998, 112 Stat. 325; amended Pub. L. 109–59, title II, §§ 2002(e), 2004, Aug. 10, 2005, 119 Stat. 1522, 1524; Pub. L. 111–147, title IV, § 421(c)(1), Mar. 18, 2010, 124 Stat. 84; Pub. L. 112–30, title I, § 121(c)(1), Sept. 16, 2011, 125 Stat. 347; Pub. L. 112–141, div. C, title I, § 31105(a), July 6, 2012, 126 Stat. 741; Pub. L. 114–94, div. A, title IV, §§ 4005, 4014(3), Dec. 4, 2015, 129 Stat. 1501, 1513; Pub. L. 117–58, div. B, title IV, § 24105(a), Nov. 15, 2021, 135 Stat. 795.)
 
 **Editorial Notes**
 
@@ -2883,225 +2883,225 @@ The date of enactment of this paragraph, referred to in subsec. (f)(6), is the d
 
 **Prior Provisions**
 
-A prior section 405, added Pub. L. 93–87, title II, § 230(a), Aug. 13, 1973, 87 Stat. 293; amended Pub. L. 93–643, § 121, Jan. 4, 1975, 88 Stat. 2289, related to the Federal-aid safer roads demonstration program, prior to repeal by Pub. L. 94–280, title I, § 135(c), May 5, 1976, 90 Stat. 442.
+A prior section 405, added Pub. L. 93–87, title II, § 230(a), Aug. 13, 1973, 87 Stat. 293; amended Pub. L. 93–643, § 121, Jan. 4, 1975, 88 Stat. 2289, related to the Federal-aid safer roads demonstration program, prior to repeal by Pub. L. 94–280, title I, § 135(c), May 5, 1976, 90 Stat. 442.
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 117–58, § 24105(a)(1)(C), substituted “Program Authority” for “General Authority” in heading and struck out introductory provisions which read as follows: “Subject to the requirements of this section, the Secretary shall manage programs to address national priorities for reducing highway deaths and injuries. Funds shall be allocated according to the following:”.
+2021—Subsec. (a). Pub. L. 117–58, § 24105(a)(1)(C), substituted “Program Authority” for “General Authority” in heading and struck out introductory provisions which read as follows: “Subject to the requirements of this section, the Secretary shall manage programs to address national priorities for reducing highway deaths and injuries. Funds shall be allocated according to the following:”.
 
-Subsec. (a)(1) to (3). Pub. L. 117–58, § 24105(a)(1)(B), (C), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively. Former par. (3) redesignated (4).
+Subsec. (a)(1) to (3). Pub. L. 117–58, § 24105(a)(1)(B), (C), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively. Former par. (3) redesignated (4).
 
-Subsec. (a)(4). Pub. L. 117–58, § 24105(a)(1)(B), (D), redesignated par. (3) as (4) and substituted “53 percent” for “52.5 percent”. Former par. (4) redesignated (5).
+Subsec. (a)(4). Pub. L. 117–58, § 24105(a)(1)(B), (D), redesignated par. (3) as (4) and substituted “53 percent” for “52.5 percent”. Former par. (4) redesignated (5).
 
-Subsec. (a)(5). Pub. L. 117–58, § 24105(a)(1)(B), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+Subsec. (a)(5). Pub. L. 117–58, § 24105(a)(1)(B), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Subsec. (a)(6). Pub. L. 117–58, § 24105(a)(1)(A), (B), redesignated par. (5) as (6) and struck out former par. (6). Prior to amendment, text of par. (6) read as follows: “In each fiscal year, 5 percent of the funds provided under this section shall be allocated among States that adopt and implement graduated driver licensing laws (as described in subsection (g)).”
+Subsec. (a)(6). Pub. L. 117–58, § 24105(a)(1)(A), (B), redesignated par. (5) as (6) and struck out former par. (6). Prior to amendment, text of par. (6) read as follows: “In each fiscal year, 5 percent of the funds provided under this section shall be allocated among States that adopt and implement graduated driver licensing laws (as described in subsection (g)).”
 
-Subsec. (a)(7). Pub. L. 117–58, § 24105(a)(1)(E), substituted “7 percent” for “5 percent” and “subsection (g)” for “subsection (h)”.
+Subsec. (a)(7). Pub. L. 117–58, § 24105(a)(1)(E), substituted “7 percent” for “5 percent” and “subsection (g)” for “subsection (h)”.
 
-Subsec. (a)(8). Pub. L. 117–58, § 24105(a)(1)(G), added par. (8). Former par. (8) redesignated (10).
+Subsec. (a)(8). Pub. L. 117–58, § 24105(a)(1)(G), added par. (8). Former par. (8) redesignated (10).
 
-Subsec. (a)(9). Pub. L. 117–58, § 24105(a)(1)(A), (G), added par. (9) and struck out former par. (9). Prior to amendment, text read as follows:
+Subsec. (a)(9). Pub. L. 117–58, § 24105(a)(1)(A), (G), added par. (9) and struck out former par. (9). Prior to amendment, text read as follows:
 
 “(A) Certification.—As part of the grant application required in section 402(k)(3)(F), a State receiving a grant in any fiscal year under subsection (b), (c), or (d) of this section shall provide certification that the lead State agency responsible for programs described in any of those subsections is maintaining aggregate expenditures at or above the average level of such expenditures in the 2 fiscal years prior to the date of enactment of the FAST Act.
 
 “(B) Waiver.—Upon the request of a State, the Secretary may waive or modify the requirements under subparagraph (A) for not more than 1 fiscal year if the Secretary determines that such a waiver would be equitable due to exceptional or uncontrollable circumstances.”
 
-Subsec. (a)(10). Pub. L. 117–58, § 24105(a)(1)(F), (H), redesignated par. (8) as (10) and substituted “paragraphs (2) through (9)” for “paragraphs (1) through (7)” and “subsections (b) through (i)” for “subsections (b) through (h)”. Former par. (10) redesignated (11).
+Subsec. (a)(10). Pub. L. 117–58, § 24105(a)(1)(F), (H), redesignated par. (8) as (10) and substituted “paragraphs (2) through (9)” for “paragraphs (1) through (7)” and “subsections (b) through (i)” for “subsections (b) through (h)”. Former par. (10) redesignated (11).
 
-Subsec. (a)(11). Pub. L. 117–58, § 24105(a)(1)(F), redesignated par. (10) as (11).
+Subsec. (a)(11). Pub. L. 117–58, § 24105(a)(1)(F), redesignated par. (10) as (11).
 
-Subsec. (b)(1). Pub. L. 117–58, § 24105(a)(2)(A), struck out “of Transportation” before “shall award grants”.
+Subsec. (b)(1). Pub. L. 117–58, § 24105(a)(2)(A), struck out “of Transportation” before “shall award grants”.
 
-Subsec. (b)(3)(B)(ii)(VI)(aa). Pub. L. 117–58, § 24105(a)(2)(B), substituted “5-year” for “3-year”.
+Subsec. (b)(3)(B)(ii)(VI)(aa). Pub. L. 117–58, § 24105(a)(2)(B), substituted “5-year” for “3-year”.
 
-Subsec. (b)(4)(A)(v). Pub. L. 117–58, § 24105(a)(2)(C)(i), added cl. (v) and struck out former cl. (v) which read as follows: “purchase and distribute child restraints to low-income families, provided that not more than 5 percent of the funds received in a fiscal year are used for such purpose; and”.
+Subsec. (b)(4)(A)(v). Pub. L. 117–58, § 24105(a)(2)(C)(i), added cl. (v) and struck out former cl. (v) which read as follows: “purchase and distribute child restraints to low-income families, provided that not more than 5 percent of the funds received in a fiscal year are used for such purpose; and”.
 
-Subsec. (b)(4)(B). Pub. L. 117–58, § 24105(a)(2)(C)(ii), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “A State that is eligible for funds under paragraph (3)(A) may use up to 100 percent of such funds for any project or activity eligible for funding under section 402.”
+Subsec. (b)(4)(B). Pub. L. 117–58, § 24105(a)(2)(C)(ii), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “A State that is eligible for funds under paragraph (3)(A) may use up to 100 percent of such funds for any project or activity eligible for funding under section 402.”
 
-Subsec. (c)(1). Pub. L. 117–58, § 24105(a)(3)(A)(i), struck out “of Transportation” before “shall award grants” in introductory provisions.
+Subsec. (c)(1). Pub. L. 117–58, § 24105(a)(3)(A)(i), struck out “of Transportation” before “shall award grants” in introductory provisions.
 
-Subsec. (c)(1)(D). Pub. L. 117–58, § 24105(a)(3)(A)(ii), substituted “States, including the National EMS Information System;” for “States; and”.
+Subsec. (c)(1)(D). Pub. L. 117–58, § 24105(a)(3)(A)(ii), substituted “States, including the National EMS Information System;” for “States; and”.
 
-Subsec. (c)(3). Pub. L. 117–58, § 24105(a)(3)(B)(i), substituted “A State shall not be eligible to receive a grant under this subsection for a fiscal year unless the State—” for “A State is not eligible for a grant under this subsection in a fiscal year unless the State demonstrates, to the satisfaction of the Secretary, that the State—” in introductory provisions.
+Subsec. (c)(3). Pub. L. 117–58, § 24105(a)(3)(B)(i), substituted “A State shall not be eligible to receive a grant under this subsection for a fiscal year unless the State—” for “A State is not eligible for a grant under this subsection in a fiscal year unless the State demonstrates, to the satisfaction of the Secretary, that the State—” in introductory provisions.
 
-Subsec. (c)(3)(A). Pub. L. 117–58, § 24105(a)(3)(B)(i), (ii)(II), (iii)(II), substituted “has certified to the Secretary that the State—” for “has a functioning”, designated remainder of existing provisions as cl. (i), and redesignated subpars. (B) and (C) of par. (3) as cls. (ii) and (iii), respectively, of subpar. (A) and realigned margins.
+Subsec. (c)(3)(A). Pub. L. 117–58, § 24105(a)(3)(B)(i), (ii)(II), (iii)(II), substituted “has certified to the Secretary that the State—” for “has a functioning”, designated remainder of existing provisions as cl. (i), and redesignated subpars. (B) and (C) of par. (3) as cls. (ii) and (iii), respectively, of subpar. (A) and realigned margins.
 
-Subsec. (c)(3)(B). Pub. L. 117–58, § 24105(a)(3)(B)(iv), redesignated subpar. (D) as (B). Former subpar. (B) redesignated cl. (ii) of subpar. (A).
+Subsec. (c)(3)(B). Pub. L. 117–58, § 24105(a)(3)(B)(iv), redesignated subpar. (D) as (B). Former subpar. (B) redesignated cl. (ii) of subpar. (A).
 
-Pub. L. 117–58, § 24105(a)(3)(B)(ii)(I), inserted “and” after semicolon at end.
+Pub. L. 117–58, § 24105(a)(3)(B)(ii)(I), inserted “and” after semicolon at end.
 
-Subsec. (c)(3)(B)(vi). Pub. L. 117–58, § 24105(a)(3)(B)(v), substituted period for “; and” at end.
+Subsec. (c)(3)(B)(vi). Pub. L. 117–58, § 24105(a)(3)(B)(v), substituted period for “; and” at end.
 
-Subsec. (c)(3)(C). Pub. L. 117–58, § 24105(a)(3)(B)(iii)(I), inserted “and” after semicolon at end.
+Subsec. (c)(3)(C). Pub. L. 117–58, § 24105(a)(3)(B)(iii)(I), inserted “and” after semicolon at end.
 
-Subsec. (c)(3)(E). Pub. L. 117–58, § 24105(a)(3)(B)(vi), struck out subpar. (E) which read as follows: “has certified to the Secretary that an assessment of the State’s highway safety data and traffic records system was conducted or updated during the preceding 5 years.”
+Subsec. (c)(3)(E). Pub. L. 117–58, § 24105(a)(3)(B)(vi), struck out subpar. (E) which read as follows: “has certified to the Secretary that an assessment of the State’s highway safety data and traffic records system was conducted or updated during the preceding 5 years.”
 
-Subsec. (c)(4). Pub. L. 117–58, § 24105(a)(3)(C), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “Grant funds received by a State under this subsection shall be used for making data program improvements to core highway safety databases related to quantifiable, measurable progress in any of the 6 significant data program attributes set forth in paragraph (3)(D).”
+Subsec. (c)(4). Pub. L. 117–58, § 24105(a)(3)(C), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “Grant funds received by a State under this subsection shall be used for making data program improvements to core highway safety databases related to quantifiable, measurable progress in any of the 6 significant data program attributes set forth in paragraph (3)(D).”
 
-Subsec. (c)(6). Pub. L. 117–58, § 24105(a)(3)(D), added par. (6).
+Subsec. (c)(6). Pub. L. 117–58, § 24105(a)(3)(D), added par. (6).
 
-Subsec. (d)(4)(B)(iii). Pub. L. 117–58, § 24105(a)(4)(A)(i)(I), added cl. (iii) and struck out former cl. (iii) which read as follows: “court support of high-visibility enforcement efforts, training and education of criminal justice professionals (including law enforcement, prosecutors, judges, and probation officers) to assist such professionals in handling impaired driving cases, hiring traffic safety resource prosecutors, hiring judicial outreach liaisons, and establishing driving while intoxicated courts;”.
+Subsec. (d)(4)(B)(iii). Pub. L. 117–58, § 24105(a)(4)(A)(i)(I), added cl. (iii) and struck out former cl. (iii) which read as follows: “court support of high-visibility enforcement efforts, training and education of criminal justice professionals (including law enforcement, prosecutors, judges, and probation officers) to assist such professionals in handling impaired driving cases, hiring traffic safety resource prosecutors, hiring judicial outreach liaisons, and establishing driving while intoxicated courts;”.
 
-Subsec. (d)(4)(B)(v). Pub. L. 117–58, § 24105(a)(4)(A)(i)(II), added cl. (v) and struck out former cl. (v) which read as follows: “improving blood-alcohol concentration testing and reporting;”.
+Subsec. (d)(4)(B)(v). Pub. L. 117–58, § 24105(a)(4)(A)(i)(II), added cl. (v) and struck out former cl. (v) which read as follows: “improving blood-alcohol concentration testing and reporting;”.
 
-Subsec. (d)(4)(B)(vi). Pub. L. 117–58, § 24105(a)(4)(A)(i)(III), substituted “conducting initial and continuing standardized field sobriety training, advanced roadside impaired driving evaluation training, law enforcement phlebotomy training, and” for “conducting standardized field sobriety training, advanced roadside impaired driving evaluation training, and”.
+Subsec. (d)(4)(B)(vi). Pub. L. 117–58, § 24105(a)(4)(A)(i)(III), substituted “conducting initial and continuing standardized field sobriety training, advanced roadside impaired driving evaluation training, law enforcement phlebotomy training, and” for “conducting standardized field sobriety training, advanced roadside impaired driving evaluation training, and”.
 
-Subsec. (d)(4)(B)(xi). Pub. L. 117–58, § 24105(a)(4)(A)(i)(IV)–(VI), added cl. (xi).
+Subsec. (d)(4)(B)(xi). Pub. L. 117–58, § 24105(a)(4)(A)(i)(IV)–(VI), added cl. (xi).
 
-Subsec. (d)(4)(C). Pub. L. 117–58, § 24105(a)(4)(A)(ii), designated first sentence as cl. (i), inserted heading, and substituted “Subject to clause (iii), low-range” for “Low-range”; designated second sentence as cl. (ii), inserted heading, and substituted “Subject to clause (iii), medium-range” for “Medium-range”; and added cl. (iii).
+Subsec. (d)(4)(C). Pub. L. 117–58, § 24105(a)(4)(A)(ii), designated first sentence as cl. (i), inserted heading, and substituted “Subject to clause (iii), low-range” for “Low-range”; designated second sentence as cl. (ii), inserted heading, and substituted “Subject to clause (iii), medium-range” for “Medium-range”; and added cl. (iii).
 
-Subsec. (d)(6)(A). Pub. L. 117–58, § 24105(a)(4)(B)(i), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “The Secretary shall make a separate grant under this subsection to each State that adopts and is enforcing a mandatory alcohol-ignition interlock law for all individuals convicted of driving under the influence of alcohol or of driving while intoxicated.”
+Subsec. (d)(6)(A). Pub. L. 117–58, § 24105(a)(4)(B)(i), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “The Secretary shall make a separate grant under this subsection to each State that adopts and is enforcing a mandatory alcohol-ignition interlock law for all individuals convicted of driving under the influence of alcohol or of driving while intoxicated.”
 
-Subsec. (d)(6)(D). Pub. L. 117–58, § 24105(a)(4)(B)(ii), substituted “2022” for “2009”.
+Subsec. (d)(6)(D). Pub. L. 117–58, § 24105(a)(4)(B)(ii), substituted “2022” for “2009”.
 
-Subsec. (d)(7)(A). Pub. L. 117–58, § 24105(a)(4)(C), inserted “or local” after “authorizes a State” in introductory provisions.
+Subsec. (d)(7)(A). Pub. L. 117–58, § 24105(a)(4)(C), inserted “or local” after “authorizes a State” in introductory provisions.
 
-Subsec. (e)(1). Pub. L. 117–58, § 24105(a)(5)(B), (C)(i), redesignated par. (9) as (1) and struck out “, the following definitions apply” after “In this subsection” in introductory provisions. Former par. (1) redesignated (2).
+Subsec. (e)(1). Pub. L. 117–58, § 24105(a)(5)(B), (C)(i), redesignated par. (9) as (1) and struck out “, the following definitions apply” after “In this subsection” in introductory provisions. Former par. (1) redesignated (2).
 
-Subsec. (e)(1)(B). Pub. L. 117–58, § 24105(a)(5)(C)(ii), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “The term ‘personal wireless communications device’—
+Subsec. (e)(1)(B). Pub. L. 117–58, § 24105(a)(5)(C)(ii), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “The term ‘personal wireless communications device’—
 
 “(i) means a device through which personal wireless services (as defined in section 332(c)(7)(C)(i) of the Communications Act of 1934 (47 U.S.C. 332(c)(7)(C)(i))) are transmitted; and
 
 “(ii) does not include a global navigation satellite system receiver used for positioning, emergency notification, or navigation purposes.”
 
-Subsec. (e)(1)(E), (F). Pub. L. 117–58, § 24105(a)(5)(C)(iii), added subpars. (E) and (F) and struck out former subpar. (E). Prior to amendment, text of subpar. (E) read as follows: “The term ‘texting’ means reading from or manually entering data into a personal wireless communications device, including doing so for the purpose of SMS texting, emailing, instant messaging, or engaging in any other form of electronic data retrieval or electronic data communication.”
+Subsec. (e)(1)(E), (F). Pub. L. 117–58, § 24105(a)(5)(C)(iii), added subpars. (E) and (F) and struck out former subpar. (E). Prior to amendment, text of subpar. (E) read as follows: “The term ‘texting’ means reading from or manually entering data into a personal wireless communications device, including doing so for the purpose of SMS texting, emailing, instant messaging, or engaging in any other form of electronic data retrieval or electronic data communication.”
 
-Subsec. (e)(2). Pub. L. 117–58, § 24105(a)(5)(B), (D), redesignated par. (1) as (2), struck it out, and added a new par. (2). Prior to amendment, text read as follows: “The Secretary shall award a grant under this subsection to any State that includes distracted driving awareness as part of the State’s driver’s license examination, and enacts and enforces a law that meets the requirements set forth in paragraphs (2) and (3).” Former par. (2) redesignated (4).
+Subsec. (e)(2). Pub. L. 117–58, § 24105(a)(5)(B), (D), redesignated par. (1) as (2), struck it out, and added a new par. (2). Prior to amendment, text read as follows: “The Secretary shall award a grant under this subsection to any State that includes distracted driving awareness as part of the State’s driver’s license examination, and enacts and enforces a law that meets the requirements set forth in paragraphs (2) and (3).” Former par. (2) redesignated (4).
 
-Subsec. (e)(3). Pub. L. 117–58, § 24105(a)(5)(D), added par. (3).
+Subsec. (e)(3). Pub. L. 117–58, § 24105(a)(5)(D), added par. (3).
 
-Subsec. (e)(4). Pub. L. 117–58, § 24105(a)(5)(B), (E)(i), redesignated par. (2) as (4) and substituted “of this” for “set forth in this” in introductory provisions. Former par. (4) redesignated (7).
+Subsec. (e)(4). Pub. L. 117–58, § 24105(a)(5)(B), (E)(i), redesignated par. (2) as (4) and substituted “of this” for “set forth in this” in introductory provisions. Former par. (4) redesignated (7).
 
-Subsec. (e)(4)(B). Pub. L. 117–58, § 24105(a)(5)(E)(ii)–(iv), redesignated subpar. (C) as (B), struck out “minimum” before “fine”, and struck out former subpar. (B) which read as follows: “makes violation of the law a primary offense;”.
+Subsec. (e)(4)(B). Pub. L. 117–58, § 24105(a)(5)(E)(ii)–(iv), redesignated subpar. (C) as (B), struck out “minimum” before “fine”, and struck out former subpar. (B) which read as follows: “makes violation of the law a primary offense;”.
 
-Subsec. (e)(4)(C), (D). Pub. L. 117–58, § 24105(a)(5)(E)(iii), (v), redesignated subpar. (D) as (C) and substituted “use a personal wireless communications device for texting” for “text through a personal wireless communication device”. Former subpar. (C) redesignated (B).
+Subsec. (e)(4)(C), (D). Pub. L. 117–58, § 24105(a)(5)(E)(iii), (v), redesignated subpar. (D) as (C) and substituted “use a personal wireless communications device for texting” for “text through a personal wireless communication device”. Former subpar. (C) redesignated (B).
 
-Subsec. (e)(5). Pub. L. 117–58, § 24105(a)(5)(F), added par. (5).
+Subsec. (e)(5). Pub. L. 117–58, § 24105(a)(5)(F), added par. (5).
 
-Subsec. (e)(6). Pub. L. 117–58, § 24105(a)(5)(A), (B), (G)(i), redesignated par. (3) as (6), substituted “of this” for “set forth in this” in introductory provisions, and struck out former par. (6) which related to additional grants for activities related to enforcement of distracted driving laws.
+Subsec. (e)(6). Pub. L. 117–58, § 24105(a)(5)(A), (B), (G)(i), redesignated par. (3) as (6), substituted “of this” for “set forth in this” in introductory provisions, and struck out former par. (6) which related to additional grants for activities related to enforcement of distracted driving laws.
 
-Subsec. (e)(6)(A)(ii). Pub. L. 117–58, § 24105(a)(5)(G)(ii), struck out “set forth in subsection (g)(2)(B)” after “intermediate license stage”.
+Subsec. (e)(6)(A)(ii). Pub. L. 117–58, § 24105(a)(5)(G)(ii), struck out “set forth in subsection (g)(2)(B)” after “intermediate license stage”.
 
-Subsec. (e)(6)(B). Pub. L. 117–58, § 24105(a)(5)(G)(iii)–(v), redesignated subpar. (C) as (B), struck out “minimum” before “fine”, and struck out former subpar. (B) which read as follows: “makes violation of the law a primary offense;”.
+Subsec. (e)(6)(B). Pub. L. 117–58, § 24105(a)(5)(G)(iii)–(v), redesignated subpar. (C) as (B), struck out “minimum” before “fine”, and struck out former subpar. (B) which read as follows: “makes violation of the law a primary offense;”.
 
-Subsec. (e)(6)(C). Pub. L. 117–58, § 24105(a)(5)(G)(vi), added subpar. (C). Former subpar. (C) redesignated (B).
+Subsec. (e)(6)(C). Pub. L. 117–58, § 24105(a)(5)(G)(vi), added subpar. (C). Former subpar. (C) redesignated (B).
 
-Subsec. (e)(6)(D). Pub. L. 117–58, § 24105(a)(5)(G)(iii), struck out subpar. (D) which read as follows: “does not provide for an exemption that specifically allows a driver to text through a personal wireless communication device while stopped in traffic.”
+Subsec. (e)(6)(D). Pub. L. 117–58, § 24105(a)(5)(G)(iii), struck out subpar. (D) which read as follows: “does not provide for an exemption that specifically allows a driver to text through a personal wireless communication device while stopped in traffic.”
 
-Subsec. (e)(7). Pub. L. 117–58, § 24105(a)(5)(B), (H)(i), redesignated par. (4) as (7) and substituted “of paragraph (4), (5), or (6)” for “set forth in paragraph (2) or (3)” in introductory provisions. Former par. (7) redesignated (9).
+Subsec. (e)(7). Pub. L. 117–58, § 24105(a)(5)(B), (H)(i), redesignated par. (4) as (7) and substituted “of paragraph (4), (5), or (6)” for “set forth in paragraph (2) or (3)” in introductory provisions. Former par. (7) redesignated (9).
 
-Subsec. (e)(7)(A). Pub. L. 117–58, § 24105(a)(5)(H)(ii), added subpar. (A) and struck out former subpar. (A) which read as follows: “a driver who uses a personal wireless communications device to contact emergency services;”.
+Subsec. (e)(7)(A). Pub. L. 117–58, § 24105(a)(5)(H)(ii), added subpar. (A) and struck out former subpar. (A) which read as follows: “a driver who uses a personal wireless communications device to contact emergency services;”.
 
-Subsec. (e)(7)(D) to (F). Pub. L. 117–58, § 24105(a)(5)(H)(iii)–(v), added subpars. (D) and (E) and redesignated former subpar. (D) as (F).
+Subsec. (e)(7)(D) to (F). Pub. L. 117–58, § 24105(a)(5)(H)(iii)–(v), added subpars. (D) and (E) and redesignated former subpar. (D) as (F).
 
-Subsec. (e)(8). Pub. L. 117–58, § 24105(a)(5)(A), (B), redesignated par. (5) as (8) and struck out former par. (8). Prior to amendment, text of par. (8) read as follows: “The allocation of grant funds to a State under this subsection for a fiscal year shall be in proportion to the State’s apportionment under section 402 for fiscal year 2009.”
+Subsec. (e)(8). Pub. L. 117–58, § 24105(a)(5)(A), (B), redesignated par. (5) as (8) and struck out former par. (8). Prior to amendment, text of par. (8) read as follows: “The allocation of grant funds to a State under this subsection for a fiscal year shall be in proportion to the State’s apportionment under section 402 for fiscal year 2009.”
 
-Subsec. (e)(9). Pub. L. 117–58, § 24105(a)(5)(B), redesignated par. (7) as (9). Former par. (9) redesignated (1).
+Subsec. (e)(9). Pub. L. 117–58, § 24105(a)(5)(B), redesignated par. (7) as (9). Former par. (9) redesignated (1).
 
-Subsec. (f)(3)(A)(i). Pub. L. 117–58, § 24105(a)(6)(A), substituted “crash” for “accident”.
+Subsec. (f)(3)(A)(i). Pub. L. 117–58, § 24105(a)(6)(A), substituted “crash” for “accident”.
 
-Subsec. (f)(3)(C) to (E). Pub. L. 117–58, § 24105(a)(6)(B), (C), added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively. Former subpar. (E) redesignated (F).
+Subsec. (f)(3)(C) to (E). Pub. L. 117–58, § 24105(a)(6)(B), (C), added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively. Former subpar. (E) redesignated (F).
 
-Subsec. (f)(3)(F). Pub. L. 117–58, § 24105(a)(6)(B), (D), redesignated subpar. (E) as (F) and substituted “crashes” for “accidents” in heading. Former subpar. (F) redesignated (G).
+Subsec. (f)(3)(F). Pub. L. 117–58, § 24105(a)(6)(B), (D), redesignated subpar. (E) as (F) and substituted “crashes” for “accidents” in heading. Former subpar. (F) redesignated (G).
 
-Subsec. (f)(3)(G). Pub. L. 117–58, § 24105(a)(6)(B), redesignated subpar. (F) as (G).
+Subsec. (f)(3)(G). Pub. L. 117–58, § 24105(a)(6)(B), redesignated subpar. (F) as (G).
 
-Subsec. (g). Pub. L. 117–58, § 24105(a)(7), (8), redesignated subsec. (h) as (g) and struck out former subsec. (g) which authorized Secretary to award grants to States that adopt and implement graduated driver licensing laws and meet minimum requirements and to promulgate regulations necessary to implement minimum requirements.
+Subsec. (g). Pub. L. 117–58, § 24105(a)(7), (8), redesignated subsec. (h) as (g) and struck out former subsec. (g) which authorized Secretary to award grants to States that adopt and implement graduated driver licensing laws and meet minimum requirements and to promulgate regulations necessary to implement minimum requirements.
 
-Subsec. (g)(1). Pub. L. 117–58, § 24105(a)(9)(B), added par. (1). Former par. (1) redesignated (2).
+Subsec. (g)(1). Pub. L. 117–58, § 24105(a)(9)(B), added par. (1). Former par. (1) redesignated (2).
 
-Subsec. (g)(2). Pub. L. 117–58, § 24105(a)(9)(A), (C), redesignated par. (1) as (2) and substituted “nonmotorized road user fatalities involving a motor vehicle in transit on a trafficway” for “pedestrian and bicycle fatalities and injuries that result from crashes involving a motor vehicle”. Former par. (2) redesignated (3).
+Subsec. (g)(2). Pub. L. 117–58, § 24105(a)(9)(A), (C), redesignated par. (1) as (2) and substituted “nonmotorized road user fatalities involving a motor vehicle in transit on a trafficway” for “pedestrian and bicycle fatalities and injuries that result from crashes involving a motor vehicle”. Former par. (2) redesignated (3).
 
-Subsec. (g)(3). Pub. L. 117–58, § 24105(a)(9)(A), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+Subsec. (g)(3). Pub. L. 117–58, § 24105(a)(9)(A), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-Subsec. (g)(4). Pub. L. 117–58, § 24105(a)(9)(A), (D), redesignated par. (3) as (4) and substituted “nonmotorized road user” for “pedestrian and bicycle”. Former par. (4) redesignated (5).
+Subsec. (g)(4). Pub. L. 117–58, § 24105(a)(9)(A), (D), redesignated par. (3) as (4) and substituted “nonmotorized road user” for “pedestrian and bicycle”. Former par. (4) redesignated (5).
 
-Subsec. (g)(5). Pub. L. 117–58, § 24105(a)(9)(A), (E), redesignated par. (4) as (5), struck it out, and added a new par. (5). Prior to amendment, par. related to use of grant funds received by a State with traffic laws applicable to pedestrian and bicycle safety. Former par. (5) redesignated (6).
+Subsec. (g)(5). Pub. L. 117–58, § 24105(a)(9)(A), (E), redesignated par. (4) as (5), struck it out, and added a new par. (5). Prior to amendment, par. related to use of grant funds received by a State with traffic laws applicable to pedestrian and bicycle safety. Former par. (5) redesignated (6).
 
-Subsec. (g)(6). Pub. L. 117–58, § 24105(a)(9)(A), redesignated par. (5) as (6).
+Subsec. (g)(6). Pub. L. 117–58, § 24105(a)(9)(A), redesignated par. (5) as (6).
 
-Subsecs. (h), (i). Pub. L. 117–58, § 24105(a)(10), added subsecs. (h) and (i). Former subsec. (h) redesignated (g).
+Subsecs. (h), (i). Pub. L. 117–58, § 24105(a)(10), added subsecs. (h) and (i). Former subsec. (h) redesignated (g).
 
-2015—Subsec. (a). Pub. L. 114–94, § 4005(a), amended subsec. (a) generally. Prior to amendment, text related to the general authority of the Secretary of Transportation to manage programs to address national priorities for reducing highway deaths and injuries.
+2015—Subsec. (a). Pub. L. 114–94, § 4005(a), amended subsec. (a) generally. Prior to amendment, text related to the general authority of the Secretary of Transportation to manage programs to address national priorities for reducing highway deaths and injuries.
 
-Subsec. (b)(4)(B). Pub. L. 114–94, § 4005(b), substituted “100 percent” for “75 percent”.
+Subsec. (b)(4)(B). Pub. L. 114–94, § 4005(b), substituted “100 percent” for “75 percent”.
 
-Subsec. (d)(4). Pub. L. 114–94, § 4005(c)(1), added par. (4) and struck out former par. (4), which related to the use of grant funds.
+Subsec. (d)(4). Pub. L. 114–94, § 4005(c)(1), added par. (4) and struck out former par. (4), which related to the use of grant funds.
 
-Subsec. (d)(5). Pub. L. 114–94, § 4014(3)(A)(i), substituted “under section 402” for “under section 402(c)”.
+Subsec. (d)(5). Pub. L. 114–94, § 4014(3)(A)(i), substituted “under section 402” for “under section 402(c)”.
 
-Subsec. (d)(6). Pub. L. 114–94, § 4005(c)(2)(A), amended heading generally. Prior to amendment, heading read as follows: “Grants to states that adopt and enforce mandatory alcohol-ignition interlock laws.”.
+Subsec. (d)(6). Pub. L. 114–94, § 4005(c)(2)(A), amended heading generally. Prior to amendment, heading read as follows: “Grants to states that adopt and enforce mandatory alcohol-ignition interlock laws.”.
 
-Subsec. (d)(6)(A). Pub. L. 114–94, § 4005(c)(2)(B), amended heading generally. Prior to amendment, heading read as follows: “In general.—”.
+Subsec. (d)(6)(A). Pub. L. 114–94, § 4005(c)(2)(B), amended heading generally. Prior to amendment, heading read as follows: “In general.—”.
 
-Subsec. (d)(6)(B). Pub. L. 114–94, § 4005(c)(2)(D), added subpar. (B). Former subsec. (B) redesignated (C).
+Subsec. (d)(6)(B). Pub. L. 114–94, § 4005(c)(2)(D), added subpar. (B). Former subsec. (B) redesignated (C).
 
-Subsec. (d)(6)(C). Pub. L. 114–94, § 4014(3)(A)(ii), which directed substitution of “in proportion to the State’s apportionment under section 402 for fiscal year 2009” for “on the basis of the apportionment formula set forth in section 402(c)” in subpar. (D) as redesignated by Pub. L. 114–94, § 4005(c)(2)(C), was executed by making substitution to subpar. (C) to reflect the probable intent of Congress.
+Subsec. (d)(6)(C). Pub. L. 114–94, § 4014(3)(A)(ii), which directed substitution of “in proportion to the State’s apportionment under section 402 for fiscal year 2009” for “on the basis of the apportionment formula set forth in section 402(c)” in subpar. (D) as redesignated by Pub. L. 114–94, § 4005(c)(2)(C), was executed by making substitution to subpar. (C) to reflect the probable intent of Congress.
 
-Pub. L. 114–94, § 4005(c)(2)(C), (E), redesignated subpar. (B) as (C), and in subpar. (C) substituted “and subparagraph (B)” after “subparagraph (A)”. Former subpar. (C) redesignated (D).
+Pub. L. 114–94, § 4005(c)(2)(C), (E), redesignated subpar. (B) as (C), and in subpar. (C) substituted “and subparagraph (B)” after “subparagraph (A)”. Former subpar. (C) redesignated (D).
 
-Subsec. (d)(6)(D). Pub. L. 114–94, § 4005(c)(2)(F), inserted “and subparagraph (B)” after “subparagraph (A)”.
+Subsec. (d)(6)(D). Pub. L. 114–94, § 4005(c)(2)(F), inserted “and subparagraph (B)” after “subparagraph (A)”.
 
-Pub. L. 114–94, § 4005(c)(2)(C), redesignated subpar. (C) as (D). Former subpar. (D) redesignated (E).
+Pub. L. 114–94, § 4005(c)(2)(C), redesignated subpar. (C) as (D). Former subpar. (D) redesignated (E).
 
-Subsec. (d)(6)(E). Pub. L. 114–94, § 4005(c)(2)(G), amended subpar. (E) generally. Prior to amendment, subpar. (E) related to funding.
+Subsec. (d)(6)(E). Pub. L. 114–94, § 4005(c)(2)(G), amended subpar. (E) generally. Prior to amendment, subpar. (E) related to funding.
 
-Pub. L. 114–94, § 4005(c)(2)(C), redesignated subpar. (D) as (E).
+Pub. L. 114–94, § 4005(c)(2)(C), redesignated subpar. (D) as (E).
 
-Subsec. (d)(6)(F). Pub. L. 114–94, § 4005(c)(2)(H), added subpar. (F).
+Subsec. (d)(6)(F). Pub. L. 114–94, § 4005(c)(2)(H), added subpar. (F).
 
-Subsec. (d)(7)(A). Pub. L. 114–94, § 4005(c)(3)(A)(i), in introductory provisions, substituted “or an agency with jurisdiction” for “or a State agency” and inserted “bond,” before “sentence”.
+Subsec. (d)(7)(A). Pub. L. 114–94, § 4005(c)(3)(A)(i), in introductory provisions, substituted “or an agency with jurisdiction” for “or a State agency” and inserted “bond,” before “sentence”.
 
-Subsec. (d)(7)(A)(i). Pub. L. 114–94, § 4005(c)(3)(A)(ii), substituted “who was arrested for, plead guilty to, or” for “who plead guilty or”.
+Subsec. (d)(7)(A)(i). Pub. L. 114–94, § 4005(c)(3)(A)(ii), substituted “who was arrested for, plead guilty to, or” for “who plead guilty or”.
 
-Subsec. (d)(7)(A)(ii)(I). Pub. L. 114–94, § 4005(c)(3)(A)(iii), inserted “at a testing location” after “twice per day”.
+Subsec. (d)(7)(A)(ii)(I). Pub. L. 114–94, § 4005(c)(3)(A)(iii), inserted “at a testing location” after “twice per day”.
 
-Subsec. (d)(7)(D). Pub. L. 114–94, § 4005(c)(3)(B), struck out second period at end.
+Subsec. (d)(7)(D). Pub. L. 114–94, § 4005(c)(3)(B), struck out second period at end.
 
-Subsec. (e). Pub. L. 114–94, § 4005(d), amended subsec. (e) generally. Prior to amendment, section provided for award of distracted driving grants.
+Subsec. (e). Pub. L. 114–94, § 4005(d), amended subsec. (e) generally. Prior to amendment, section provided for award of distracted driving grants.
 
-Subsec. (f)(2). Pub. L. 114–94, § 4005(e)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The amount of a grant awarded to a State for a fiscal year under this subsection may not exceed 25 percent of the amount apportioned to the State for fiscal year 2003 under section 402.”
+Subsec. (f)(2). Pub. L. 114–94, § 4005(e)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The amount of a grant awarded to a State for a fiscal year under this subsection may not exceed 25 percent of the amount apportioned to the State for fiscal year 2003 under section 402.”
 
-Subsec. (f)(4)(A)(iv). Pub. L. 114–94, § 4014(3)(B), substituted “including” for “such as the” and struck out “developed under subsection (g)” after “safety messages”.
+Subsec. (f)(4)(A)(iv). Pub. L. 114–94, § 4014(3)(B), substituted “including” for “such as the” and struck out “developed under subsection (g)” after “safety messages”.
 
-Subsec. (f)(4)(C). Pub. L. 114–94, § 4005(e)(2), added subpar. (C).
+Subsec. (f)(4)(C). Pub. L. 114–94, § 4005(e)(2), added subpar. (C).
 
-Subsec. (f)(6). Pub. L. 114–94, § 4005(e)(3), added par. (6).
+Subsec. (f)(6). Pub. L. 114–94, § 4005(e)(3), added par. (6).
 
-Subsec. (g)(2)(A). Pub. L. 114–94, § 4005(f)(1)(A), substituted “18” for “21”.
+Subsec. (g)(2)(A). Pub. L. 114–94, § 4005(f)(1)(A), substituted “18” for “21”.
 
-Subsec. (g)(2)(B). Pub. L. 114–94, § 4005(f)(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) related to state compliance with the 2-stage licensing process.
+Subsec. (g)(2)(B). Pub. L. 114–94, § 4005(f)(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) related to state compliance with the 2-stage licensing process.
 
-Subsec. (g)(6). Pub. L. 114–94, § 4005(f)(2), added par. (6).
+Subsec. (g)(6). Pub. L. 114–94, § 4005(f)(2), added par. (6).
 
-Subsec. (h). Pub. L. 114–94, § 4005(g), added subsec. (h).
+Subsec. (h). Pub. L. 114–94, § 4005(g), added subsec. (h).
 
 2012—Pub. L. 112–141 amended section generally. Prior to amendment, section related to occupant protection incentive grants.
 
-2011—Subsec. (a)(3). Pub. L. 112–30, § 121(c)(1)(A), substituted “9” for “8”.
+2011—Subsec. (a)(3). Pub. L. 112–30, § 121(c)(1)(A), substituted “9” for “8”.
 
-Subsec. (a)(4)(C). Pub. L. 112–30, § 121(c)(1)(B), substituted “fifth through ninth” for “fifth through eighth”.
+Subsec. (a)(4)(C). Pub. L. 112–30, § 121(c)(1)(B), substituted “fifth through ninth” for “fifth through eighth”.
 
-2010—Subsec. (a)(3). Pub. L. 111–147, § 421(c)(1)(A), substituted “8” for “6”.
+2010—Subsec. (a)(3). Pub. L. 111–147, § 421(c)(1)(A), substituted “8” for “6”.
 
-Subsec. (a)(4)(C). Pub. L. 111–147, § 421(c)(1)(B), substituted “fifth through eighth” for “fifth and sixth”.
+Subsec. (a)(4)(C). Pub. L. 111–147, § 421(c)(1)(B), substituted “fifth through eighth” for “fifth and sixth”.
 
-2005—Subsec. (a)(2). Pub. L. 109–59, § 2004(a)(1), substituted “SAFETEA–LU” for “Transportation Equity Act for the 21st Century”.
+2005—Subsec. (a)(2). Pub. L. 109–59, § 2004(a)(1), substituted “SAFETEA–LU” for “Transportation Equity Act for the 21st Century”.
 
-Subsec. (a)(3). Pub. L. 109–59, § 2004(a)(2), substituted “2003” for “1997”.
+Subsec. (a)(3). Pub. L. 109–59, § 2004(a)(2), substituted “2003” for “1997”.
 
-Subsec. (a)(4). Pub. L. 109–59, § 2004(a)(3), inserted “beginning after September 30, 2003,” after “years” in subpars. (A) to (C).
+Subsec. (a)(4). Pub. L. 109–59, § 2004(a)(3), inserted “beginning after September 30, 2003,” after “years” in subpars. (A) to (C).
 
-Subsec. (c). Pub. L. 109–59, § 2004(c), substituted “100 percent” for “25 percent” and “2003” for “1997”.
+Subsec. (c). Pub. L. 109–59, § 2004(c), substituted “100 percent” for “25 percent” and “2003” for “1997”.
 
-Subsec. (d). Pub. L. 109–59, § 2002(e), struck out heading and text of subsec. (d). Text read as follows: “Funds authorized to be appropriated to carry out this section in a fiscal year shall be subject to a deduction not to exceed 5 percent for the necessary costs of administering the provisions of this section.”
+Subsec. (d). Pub. L. 109–59, § 2002(e), struck out heading and text of subsec. (d). Text read as follows: “Funds authorized to be appropriated to carry out this section in a fiscal year shall be subject to a deduction not to exceed 5 percent for the necessary costs of administering the provisions of this section.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 117–58, div. B, title IV, § 24105(c), Nov. 15, 2021, 135 Stat. 806, provided that: “The amendments made by subsection (a) [amending this section] shall take effect with respect to any grant application or State highway safety plan submitted under chapter 4 of title 23, United States Code, for fiscal year 2024 or thereafter.”
+Pub. L. 117–58, div. B, title IV, § 24105(c), Nov. 15, 2021, 135 Stat. 806, provided that: “The amendments made by subsection (a) [amending this section] shall take effect with respect to any grant application or State highway safety plan submitted under chapter 4 of title 23, United States Code, for fiscal year 2024 or thereafter.”
 
 **Effective Date of 2015 Amendment**
 
@@ -3119,7 +3119,7 @@ Amendment by Pub. L. 109–59 effective Oct. 1, 2005, see section 2022 of Pub. L
 
 **Crash Data**
 
-Pub. L. 117–58, div. B, title IV, § 24108, Nov. 15, 2021, 135 Stat. 807, provided that:
+Pub. L. 117–58, div. B, title IV, § 24108, Nov. 15, 2021, 135 Stat. 807, provided that:
 
 > **“(a) In General.—** Not later than 3 years after the date of enactment of this Act [Nov. 15, 2021], the Secretary [of Transportation] shall revise the crash data collection system to include the collection of crash report data elements that distinguish individual personal conveyance vehicles, such as electric scooters and bicycles, from other vehicles involved in a crash.
 
@@ -3195,7 +3195,7 @@ Pub. L. 117–58, div. B, title IV, § 24108, Nov. 15, 2021, 135 Stat. 807, pr
 
 **National Priority Safety Program Grant Eligibility**
 
-Pub. L. 114–94, div. A, title IV, § 4010, Dec. 4, 2015, 129 Stat. 1511, as amended by Pub. L. 117–58, div. B, title IV, § 24105(b), Nov. 15, 2021, 135 Stat. 806, provided that:
+Pub. L. 114–94, div. A, title IV, § 4010, Dec. 4, 2015, 129 Stat. 1511, as amended by Pub. L. 117–58, div. B, title IV, § 24105(b), Nov. 15, 2021, 135 Stat. 806, provided that:
 
 > “Not later than 60 days after the date on which the Secretary [of Transportation] awards grants under section 405 of title 23, United States Code, the Secretary shall make available on a publicly available Internet Web site of the Department of Transportation—
 
@@ -3211,13 +3211,13 @@ Pub. L. 114–94, div. A, title IV, § 4010, Dec. 4, 2015, 129 Stat. 1511, as 
 
 **Child Safety and Child Booster Seat Incentive Grants**
 
-Pub. L. 109–59, title II, § 2011, Aug. 10, 2005, 119 Stat. 1538, as amended by Pub. L. 111–147, title IV, § 421(j)(1), Mar. 18, 2010, 124 Stat. 85; Pub. L. 112–30, title I, § 121(j)(1), Sept. 16, 2011, 125 Stat. 348, related to child safety and child booster seat incentive grants, prior to repeal by Pub. L. 112–141, div. C, title I, § 31109(h), July 6, 2012, 126 Stat. 757.
+Pub. L. 109–59, title II, § 2011, Aug. 10, 2005, 119 Stat. 1538, as amended by Pub. L. 111–147, title IV, § 421(j)(1), Mar. 18, 2010, 124 Stat. 85; Pub. L. 112–30, title I, § 121(j)(1), Sept. 16, 2011, 125 Stat. 348, related to child safety and child booster seat incentive grants, prior to repeal by Pub. L. 112–141, div. C, title I, § 31109(h), July 6, 2012, 126 Stat. 757.
 
 **Child Passenger Protection Education Grants**
 
-Pub. L. 105–178, title II, § 2003(b), June 9, 1998, 112 Stat. 327, authorized the Secretary to make grants to States to implement child passenger protection programs, required reports from States and the Secretary regarding those programs, and authorized appropriations for fiscal years 2000 and 2001.
+Pub. L. 105–178, title II, § 2003(b), June 9, 1998, 112 Stat. 327, authorized the Secretary to make grants to States to implement child passenger protection programs, required reports from States and the Secretary regarding those programs, and authorized appropriations for fiscal years 2000 and 2001.
 
-## § 406. General requirements for Federal assistance
+## § 406. General requirements for Federal assistance
 
 **(a) Definition of Funded Project.—** In this section, the term “funded project” means a project funded, in whole or in part, by a grant provided under section 402 or 405.
 
@@ -3233,31 +3233,31 @@ Pub. L. 105–178, title II, § 2003(b), June 9, 1998, 112 Stat. 327, authoriz
 
 **(e) Distribution of Funds to States.—** Not later than 60 days after the later of the start of a fiscal year or the date of enactment of any appropriations Act making funds available to carry out this chapter for that fiscal year, the Secretary shall distribute to each State the portion of those funds to which the State is entitled for the applicable fiscal year.
 
-(Added Pub. L. 117–58, div. B, title IV, § 24101(d)(1)(B), Nov. 15, 2021, 135 Stat. 784.)
+(Added Pub. L. 117–58, div. B, title IV, § 24101(d)(1)(B), Nov. 15, 2021, 135 Stat. 784.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 406, added Pub. L. 93–643, § 126(a), Jan. 4, 1975, 88 Stat. 2291; amended Pub. L. 94–280, title II, § 205, May 5, 1976, 90 Stat. 453; Pub. L. 95–599, title I, § 129(g), Nov. 6, 1978, 92 Stat. 2708; Pub. L. 109–59, title II, § 2005(a), Aug. 10, 2005, 119 Stat. 1524, related to safety belt performance grants, prior to repeal by Pub. L. 112–141, § 3(a), div. C, title I, § 31109(b), July 6, 2012, 126 Stat. 413, 756, effective Oct. 1, 2012.
+A prior section 406, added Pub. L. 93–643, § 126(a), Jan. 4, 1975, 88 Stat. 2291; amended Pub. L. 94–280, title II, § 205, May 5, 1976, 90 Stat. 453; Pub. L. 95–599, title I, § 129(g), Nov. 6, 1978, 92 Stat. 2708; Pub. L. 109–59, title II, § 2005(a), Aug. 10, 2005, 119 Stat. 1524, related to safety belt performance grants, prior to repeal by Pub. L. 112–141, § 3(a), div. C, title I, § 31109(b), July 6, 2012, 126 Stat. 413, 756, effective Oct. 1, 2012.
 
-## § 407. Discovery and admission as evidence of certain reports and surveys
+## § 407. Discovery and admission as evidence of certain reports and surveys
 
 Notwithstanding any other provision of law, reports, surveys, schedules, lists, or data compiled or collected for the purpose of identifying, evaluating, or planning the safety enhancement of potential accident sites, hazardous roadway conditions, or railway-highway crossings, pursuant to sections 130, 144, and 148 of this title or for the purpose of developing any highway safety construction improvement project which may be implemented utilizing Federal-aid highway funds shall not be subject to discovery or admitted into evidence in a Federal or State court proceeding or considered for other purposes in any action for damages arising from any occurrence at a location mentioned or addressed in such reports, surveys, schedules, lists, or data.
 
-(Added Pub. L. 100–17, title I, § 132(a), Apr. 2, 1987, 101 Stat. 170, § 409; amended Pub. L. 102–240, title I, § 1035(a), Dec. 18, 1991, 105 Stat. 1978; Pub. L. 104–59, title III, § 323, Nov. 28, 1995, 109 Stat. 591; Pub. L. 109–59, title I, § 1401(a)(3)(C), Aug. 10, 2005, 119 Stat. 1225; renumbered § 407, Pub. L. 117–58, div. B, title IV, § 24101(d)(1)(A), Nov. 15, 2021, 135 Stat. 784.)
+(Added Pub. L. 100–17, title I, § 132(a), Apr. 2, 1987, 101 Stat. 170, § 409; amended Pub. L. 102–240, title I, § 1035(a), Dec. 18, 1991, 105 Stat. 1978; Pub. L. 104–59, title III, § 323, Nov. 28, 1995, 109 Stat. 591; Pub. L. 109–59, title I, § 1401(a)(3)(C), Aug. 10, 2005, 119 Stat. 1225; renumbered § 407, Pub. L. 117–58, div. B, title IV, § 24101(d)(1)(A), Nov. 15, 2021, 135 Stat. 784.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 407, added Pub. L. 95–599, title II, § 208(a), Nov. 6, 1978, 92 Stat. 2732, related to innovative project grants, prior to repeal by Pub. L. 112–141, § 3(a), div. C, title I, § 31109(c), July 6, 2012, 126 Stat. 413, 756, effective Oct. 1, 2012.
+A prior section 407, added Pub. L. 95–599, title II, § 208(a), Nov. 6, 1978, 92 Stat. 2732, related to innovative project grants, prior to repeal by Pub. L. 112–141, § 3(a), div. C, title I, § 31109(c), July 6, 2012, 126 Stat. 413, 756, effective Oct. 1, 2012.
 
 **Amendments**
 
 2021—Pub. L. 117–58, which directed the amendment of this chapter by renumbering section 409 “and” section 407, was executed by renumbering section 409 as this section as if “and” had read “as”, to reflect the probable intent of Congress.
 
-## § 408. Agency accountability
+## § 408. Agency accountability
 
 **(a) Triennial State Management Reviews.—**
 
@@ -3307,25 +3307,25 @@ A prior section 407, added Pub. L. 95–599, title II, § 208(a), Nov. 6, 1978
 
 **(f) Tracking Process.—** The Secretary shall develop a process to identify and mitigate possible systemic issues across States and regional offices by reviewing oversight findings and recommended actions identified in triennial State management reviews.
 
-(Added Pub. L. 109–59, title II, § 2008(a), Aug. 10, 2005, 119 Stat. 1533, § 412; amended Pub. L. 112–141, div. C, title I, § 31107, July 6, 2012, 126 Stat. 755; Pub. L. 114–94, div. A, title IV, § 4006, Dec. 4, 2015, 129 Stat. 1510; renumbered § 408, Pub. L. 117–58, div. B, title IV, § 24101(d)(1)(A), Nov. 15, 2021, 135 Stat. 784.)
+(Added Pub. L. 109–59, title II, § 2008(a), Aug. 10, 2005, 119 Stat. 1533, § 412; amended Pub. L. 112–141, div. C, title I, § 31107, July 6, 2012, 126 Stat. 755; Pub. L. 114–94, div. A, title IV, § 4006, Dec. 4, 2015, 129 Stat. 1510; renumbered § 408, Pub. L. 117–58, div. B, title IV, § 24101(d)(1)(A), Nov. 15, 2021, 135 Stat. 784.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 408, added Pub. L. 97–364, title I, § 101(a), Oct. 25, 1982, 96 Stat. 1738; amended Pub. L. 98–363, §§ 4, 7, July 17, 1984, 98 Stat. 436, 438; Pub. L. 100–17, title II, § 203(a), (b), Apr. 2, 1987, 101 Stat. 219; Pub. L. 109–59, title II, § 2006(a), Aug. 10, 2005, 119 Stat. 1527, related to State traffic safety information system improvements, prior to repeal by Pub. L. 112–141, § 3(a), div. C, title I, § 31109(d), July 6, 2012, 126 Stat. 413, 756, effective Oct. 1, 2012.
+A prior section 408, added Pub. L. 97–364, title I, § 101(a), Oct. 25, 1982, 96 Stat. 1738; amended Pub. L. 98–363, §§ 4, 7, July 17, 1984, 98 Stat. 436, 438; Pub. L. 100–17, title II, § 203(a), (b), Apr. 2, 1987, 101 Stat. 219; Pub. L. 109–59, title II, § 2006(a), Aug. 10, 2005, 119 Stat. 1527, related to State traffic safety information system improvements, prior to repeal by Pub. L. 112–141, § 3(a), div. C, title I, § 31109(d), July 6, 2012, 126 Stat. 413, 756, effective Oct. 1, 2012.
 
 **Amendments**
 
 2021—Pub. L. 117–58, which directed the amendment of this chapter by renumbering section 412 “and” section 408, was executed by renumbering section 412 as this section as if “and” had read “as”, to reflect the probable intent of Congress.
 
-## [§ 409. Renumbered § 407]
+## [§ 409. Renumbered § 407]
 
-## [§§ 410, 411. Repealed. Pub. L. 112–141, div. C, title I, § 31109(e), (f), July 6, 2012, 126 Stat. 757]
+## [§§ 410, 411. Repealed. Pub. L. 112–141, div. C, title I, § 31109(e), (f), July 6, 2012, 126 Stat. 757]
 
-Section 410, added Pub. L. 100–690, title IX, § 9002(a), Nov. 18, 1988, 102 Stat. 4521; amended Pub. L. 101–516, title III, § 336, Nov. 5, 1990, 104 Stat. 2186; Pub. L. 102–240, title II, § 2004(a), Dec. 18, 1991, 105 Stat. 2073; Pub. L. 102–388, title VI, §§ 601–606, Oct. 6, 1992, 106 Stat. 1569, 1570; Pub. L. 104–59, title III, § 324, Nov. 28, 1995, 109 Stat. 591; Pub. L. 105–18, title II, § 8003, June 12, 1997, 111 Stat. 195; Pub. L. 105–130, § 6(b), Dec. 1, 1997, 111 Stat. 2558; Pub. L. 105–178, title II, § 2004(a), June 9, 1998, 112 Stat. 328; Pub. L. 108–88, § 6(e)(1), Sept. 30, 2003, 117 Stat. 1120; Pub. L. 108–310, § 6(e)(1), Sept. 30, 2004, 118 Stat. 1152; Pub. L. 109–59, title II, § 2007(a), (b), Aug. 10, 2005, 119 Stat. 1529; Pub. L. 110–244, title III, § 303(c)(2), (3), June 6, 2008, 122 Stat. 1619; Pub. L. 111–147, title IV, § 421(f)(1), Mar. 18, 2010, 124 Stat. 85; Pub. L. 112–30, title I, § 121(f)(1), Sept. 16, 2011, 125 Stat. 347, related to alcohol-impaired driving countermeasures.
+Section 410, added Pub. L. 100–690, title IX, § 9002(a), Nov. 18, 1988, 102 Stat. 4521; amended Pub. L. 101–516, title III, § 336, Nov. 5, 1990, 104 Stat. 2186; Pub. L. 102–240, title II, § 2004(a), Dec. 18, 1991, 105 Stat. 2073; Pub. L. 102–388, title VI, §§ 601–606, Oct. 6, 1992, 106 Stat. 1569, 1570; Pub. L. 104–59, title III, § 324, Nov. 28, 1995, 109 Stat. 591; Pub. L. 105–18, title II, § 8003, June 12, 1997, 111 Stat. 195; Pub. L. 105–130, § 6(b), Dec. 1, 1997, 111 Stat. 2558; Pub. L. 105–178, title II, § 2004(a), June 9, 1998, 112 Stat. 328; Pub. L. 108–88, § 6(e)(1), Sept. 30, 2003, 117 Stat. 1120; Pub. L. 108–310, § 6(e)(1), Sept. 30, 2004, 118 Stat. 1152; Pub. L. 109–59, title II, § 2007(a), (b), Aug. 10, 2005, 119 Stat. 1529; Pub. L. 110–244, title III, § 303(c)(2), (3), June 6, 2008, 122 Stat. 1619; Pub. L. 111–147, title IV, § 421(f)(1), Mar. 18, 2010, 124 Stat. 85; Pub. L. 112–30, title I, § 121(f)(1), Sept. 16, 2011, 125 Stat. 347, related to alcohol-impaired driving countermeasures.
 
-Section 411, added Pub. L. 105–178, title II, § 2005(a), June 9, 1998, 112 Stat. 332; amended Pub. L. 110–244, title III, § 303(c)(4), June 6, 2008, 122 Stat. 1619, related to State highway safety data improvements.
+Section 411, added Pub. L. 105–178, title II, § 2005(a), June 9, 1998, 112 Stat. 332; amended Pub. L. 110–244, title III, § 303(c)(4), June 6, 2008, 122 Stat. 1619, related to State highway safety data improvements.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3335,6 +3335,6 @@ Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as
 
 **Repeal of Programs**
 
-Pub. L. 112–141, div. C, title I, § 31109(a), July 6, 2012, 126 Stat. 756, provided that: “A repeal made by this section [repealing sections 406 to 408, 410, and 411 of this title and repealing provisions set out as notes under sections 402, 403, and 405 of this title] shall not affect amounts apportioned or allocated before the effective date of such repeal [Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title], provided that such apportioned or allocated funds continue to be subject to the requirements to which such funds were subject under the repealed section as in effect on the day before the date of the repeal.”
+Pub. L. 112–141, div. C, title I, § 31109(a), July 6, 2012, 126 Stat. 756, provided that: “A repeal made by this section [repealing sections 406 to 408, 410, and 411 of this title and repealing provisions set out as notes under sections 402, 403, and 405 of this title] shall not affect amounts apportioned or allocated before the effective date of such repeal [Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title], provided that such apportioned or allocated funds continue to be subject to the requirements to which such funds were subject under the repealed section as in effect on the day before the date of the repeal.”
 
-## [§ 412. Renumbered § 408]
+## [§ 412. Renumbered § 408]

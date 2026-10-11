@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1994—Pub. L. 103–359, title VIII, § 803(c)(2), Oct. 14, 1994, 108 Stat. 3439, inserted “AND ESPIONAGE” after “TERRORIST ACTS” in chapter heading.
+1994—Pub. L. 103–359, title VIII, § 803(c)(2), Oct. 14, 1994, 108 Stat. 3439, inserted “AND ESPIONAGE” after “TERRORIST ACTS” in chapter heading.
 
-## § 3071. Information for which rewards authorized
+## § 3071. Information for which rewards authorized
 
 **(a)** With respect to acts of terrorism primarily within the territorial jurisdiction of the United States, the Attorney General may reward any individual who furnishes information—
 
@@ -39,7 +39,7 @@ retrieved: 2026-10-11
 
 **(3)** leading to the prevention or frustration of an act of espionage against the United States.
 
-(Added Pub. L. 98–533, title I, § 101(a), Oct. 19, 1984, 98 Stat. 2706; amended Pub. L. 103–359, title VIII, § 803(a), Oct. 14, 1994, 108 Stat. 3438.)
+(Added Pub. L. 98–533, title I, § 101(a), Oct. 19, 1984, 98 Stat. 2706; amended Pub. L. 103–359, title VIII, § 803(a), Oct. 14, 1994, 108 Stat. 3438.)
 
 **Editorial Notes**
 
@@ -51,17 +51,17 @@ retrieved: 2026-10-11
 
 **Short Title**
 
-Pub. L. 98–533, § 1, Oct. 19, 1984, 98 Stat. 2706, provided that: “This Act [enacting this chapter and section 2708 of Title 22, Foreign Relations and Intercourse, amending sections 2669, 2678 and 2704 of Title 22, enacting provisions set out as a note under section 5928 of Title 5, Government Organization and Employees and amending provisions set out as a note under section 2651 of Title 22] may be cited as the ‘1984 Act to Combat International Terrorism’.”
+Pub. L. 98–533, § 1, Oct. 19, 1984, 98 Stat. 2706, provided that: “This Act [enacting this chapter and section 2708 of Title 22, Foreign Relations and Intercourse, amending sections 2669, 2678 and 2704 of Title 22, enacting provisions set out as a note under section 5928 of Title 5, Government Organization and Employees and amending provisions set out as a note under section 2651 of Title 22] may be cited as the ‘1984 Act to Combat International Terrorism’.”
 
 **Attorney General’s Authority To Pay Rewards To Combat Terrorism**
 
-Pub. L. 107–56, title V, § 501, Oct. 26, 2001, 115 Stat. 363, which provided that funds available to Attorney General could be used for payment of rewards to combat terrorism and defend Nation against terrorist acts, in accordance with procedures and regulations established or issued by Attorney General, and set forth conditions in making such rewards, was repealed by Pub. L. 107–273, div. A, title III, § 301(c)(1), Nov. 2, 2002, 116 Stat. 1781.
+Pub. L. 107–56, title V, § 501, Oct. 26, 2001, 115 Stat. 363, which provided that funds available to Attorney General could be used for payment of rewards to combat terrorism and defend Nation against terrorist acts, in accordance with procedures and regulations established or issued by Attorney General, and set forth conditions in making such rewards, was repealed by Pub. L. 107–273, div. A, title III, § 301(c)(1), Nov. 2, 2002, 116 Stat. 1781.
 
-## § 3072. Determination of entitlement; maximum amount; Presidential approval; conclusiveness
+## § 3072. Determination of entitlement; maximum amount; Presidential approval; conclusiveness
 
 The Attorney General shall determine whether an individual furnishing information described in section 3071 is entitled to a reward and the amount to be paid.
 
-(Added Pub. L. 98–533, title I, § 101(a), Oct. 19, 1984, 98 Stat. 2707; amended Pub. L. 107–273, div. A, title III, § 301(c)(2), Nov. 2, 2002, 116 Stat. 1781.)
+(Added Pub. L. 98–533, title I, § 101(a), Oct. 19, 1984, 98 Stat. 2707; amended Pub. L. 107–273, div. A, title III, § 301(c)(2), Nov. 2, 2002, 116 Stat. 1781.)
 
 **Editorial Notes**
 
@@ -69,29 +69,29 @@ The Attorney General shall determine whether an individual furnishing informatio
 
 2002—Pub. L. 107–273, which directed amendment of section 3072 of chapter 203, was executed to this section, which is in chapter 204, by striking out at end “A reward under this section may be in an amount not to exceed $500,000. A reward of $100,000 or more may not be made without the approval of the President or the Attorney General personally. A determination made by the Attorney General or the President under this chapter shall be final and conclusive, and no court shall have power or jurisdiction to review it.”
 
-## § 3073. Protection of identity
+## § 3073. Protection of identity
 
 Any reward granted under this chapter shall be certified for payment by the Attorney General. If it is determined that the identity of the recipient of a reward or of the members of the recipient’s immediate family must be protected, the Attorney General may take such measures in connection with the payment of the reward as deemed necessary to effect such protection.
 
-(Added Pub. L. 98–533, title I, § 101(a), Oct. 19, 1984, 98 Stat. 2707.)
+(Added Pub. L. 98–533, title I, § 101(a), Oct. 19, 1984, 98 Stat. 2707.)
 
-## § 3074. Exception of governmental officials
+## § 3074. Exception of governmental officials
 
 No officer or employee of any governmental entity who, while in the performance of his or her official duties, furnishes the information described in section 3071 shall be eligible for any monetary reward under this chapter.
 
-(Added Pub. L. 98–533, title I, § 101(a), Oct. 19, 1984, 98 Stat. 2707.)
+(Added Pub. L. 98–533, title I, § 101(a), Oct. 19, 1984, 98 Stat. 2707.)
 
-## [§ 3075. Repealed. Pub. L. 107–273, div. A, title III, § 301(c)(2), Nov. 2, 2002, 116 Stat. 1781]
+## [§ 3075. Repealed. Pub. L. 107–273, div. A, title III, § 301(c)(2), Nov. 2, 2002, 116 Stat. 1781]
 
-Section, added Pub. L. 98–533, title I, § 101(a), Oct. 19, 1984, 98 Stat. 2707, authorized appropriations for the purpose of this chapter.
+Section, added Pub. L. 98–533, title I, § 101(a), Oct. 19, 1984, 98 Stat. 2707, authorized appropriations for the purpose of this chapter.
 
 Pub. L. 107–273, which directed the repeal of section 3075 of chapter 203, was executed to this section which is in chapter 204.
 
-## § 3076. Eligibility for witness security program
+## § 3076. Eligibility for witness security program
 
 Any individual (and the immediate family of such individual) who furnishes information which would justify a reward by the Attorney General under this chapter or by the Secretary of State under section 36 of the State Department Basic Authorities Act of 1956 may, in the discretion of the Attorney General, participate in the Attorney General’s witness security program authorized under chapter 224 of this title.
 
-(Added Pub. L. 98–533, title I, § 101(a), Oct. 19, 1984, 98 Stat. 2707; amended Pub. L. 99–646, § 45, Nov. 10, 1986, 100 Stat. 3601.)
+(Added Pub. L. 98–533, title I, § 101(a), Oct. 19, 1984, 98 Stat. 2707; amended Pub. L. 99–646, § 45, Nov. 10, 1986, 100 Stat. 3601.)
 
 **Editorial Notes**
 
@@ -103,7 +103,7 @@ Section 36 of the State Department Basic Authorities Act of 1956, referred to in
 
 1986—Pub. L. 99–646 substituted “chapter 224 of this title” for “title V of the Organized Crime Control Act of 1970”.
 
-## § 3077. Definitions
+## § 3077. Definitions
 
 As used in this chapter, the term—
 
@@ -139,7 +139,7 @@ As used in this chapter, the term—
 
 **(B)** section 4 of the Subversive Activities Control Act of 1950.
 
-(Added Pub. L. 98–533, title I, § 101(a), Oct. 19, 1984, 98 Stat. 2707; amended Pub. L. 100–690, title VII, § 7051, Nov. 18, 1988, 102 Stat. 4401; Pub. L. 101–647, title XXXV, § 3572, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 103–322, title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 2150; Pub. L. 103–359, title VIII, § 803(b), Oct. 14, 1994, 108 Stat. 3439; Pub. L. 104–294, title VI, § 605(g), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 107–56, title VIII, § 802(b), Oct. 26, 2001, 115 Stat. 376.)
+(Added Pub. L. 98–533, title I, § 101(a), Oct. 19, 1984, 98 Stat. 2707; amended Pub. L. 100–690, title VII, § 7051, Nov. 18, 1988, 102 Stat. 4401; Pub. L. 101–647, title XXXV, § 3572, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 103–322, title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 2150; Pub. L. 103–359, title VIII, § 803(b), Oct. 14, 1994, 108 Stat. 3439; Pub. L. 104–294, title VI, § 605(g), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 107–56, title VIII, § 802(b), Oct. 26, 2001, 115 Stat. 376.)
 
 **Editorial Notes**
 
@@ -149,7 +149,7 @@ Section 4 of the Subversive Activities Control Act of 1950, referred to in par. 
 
 **Amendments**
 
-2001—Par. (1). Pub. L. 107–56 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “ ‘act of terrorism’ means an activity that—
+2001—Par. (1). Pub. L. 107–56 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “ ‘act of terrorism’ means an activity that—
 
 “(A) involves a violent act or an act dangerous to human life that is a violation of the criminal laws of the United States or of any State, or that would be a criminal violation if committed within the jurisdiction of the United States or of any State; and
 
@@ -167,9 +167,9 @@ Section 4 of the Subversive Activities Control Act of 1950, referred to in par. 
 
 Par. (8). Pub. L. 103–359 added par. (8).
 
-1990—Pub. L. 101–647 substituted a semicolon for a period at end of pars. (1) to (3), moved the comma from before the close quotation mark to after that mark in par. (4), substituted a semicolon for a period at end of par. (5), and substituted “; and” for period at end of par. (6).
+1990—Pub. L. 101–647 substituted a semicolon for a period at end of pars. (1) to (3), moved the comma from before the close quotation mark to after that mark in par. (4), substituted a semicolon for a period at end of par. (5), and substituted “; and” for period at end of par. (6).
 
-1988—Par. (4). Pub. L. 100–690 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “ ‘United States’—
+1988—Par. (4). Pub. L. 100–690 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “ ‘United States’—
 
 “(A) when used in a geographical sense, includes Puerto Rico and all territories and possessions of the United States; and
 

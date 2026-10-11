@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—IN GENERAL
 
-### § 2201. Designation of facility as Capitol Visitor Center; purposes of facility; treatment of the Capitol Visitor Center
+### § 2201. Designation of facility as Capitol Visitor Center; purposes of facility; treatment of the Capitol Visitor Center
 
 **(a) Designation**
 
@@ -103,7 +103,7 @@ This paragraph shall take effect on December 3, 2008.
 
 A loan agreement described under paragraph (3)(A)(ii) may provide for the removal of an historical object from exhibition for preservation purposes and the substitution of that object with another historical object having a comparable educational purpose.
 
-(Pub. L. 110–437, title I, § 101, Oct. 20, 2008, 122 Stat. 4984.)
+(Pub. L. 110–437, title I, § 101, Oct. 20, 2008, 122 Stat. 4984.)
 
 **Editorial Notes**
 
@@ -121,9 +121,9 @@ Section is comprised of section 101 of Pub. L. 110–437. Subsec. (e) of section
 
 **Short Title**
 
-Pub. L. 110–437, § 1(a), Oct. 20, 2008, 122 Stat. 4983, provided that: “This Act [enacting this chapter, amending sections 130e, 1301, 1331, 1341, and 2134 of this title and sections 2107 and 5379 of Title 5, Government Organization and Employees, repealing sections 1806, 1807, 1825, 2165, and 2166 of this title, enacting provisions set out as notes under sections 1301 and 1831 of this title, and amending provisions set out as a note under section 1831 of this title] may be cited as the ‘Capitol Visitor Center Act of 2008’.”
+Pub. L. 110–437, § 1(a), Oct. 20, 2008, 122 Stat. 4983, provided that: “This Act [enacting this chapter, amending sections 130e, 1301, 1331, 1341, and 2134 of this title and sections 2107 and 5379 of Title 5, Government Organization and Employees, repealing sections 1806, 1807, 1825, 2165, and 2166 of this title, enacting provisions set out as notes under sections 1301 and 1831 of this title, and amending provisions set out as a note under section 1831 of this title] may be cited as the ‘Capitol Visitor Center Act of 2008’.”
 
-### § 2202. Designation and naming within the Capitol Visitor Center
+### § 2202. Designation and naming within the Capitol Visitor Center
 
 **(a) In general** Except as provided under subsection (b), no part of the Capitol Visitor Center may be designated or named without the approval of—
 
@@ -135,21 +135,21 @@ Pub. L. 110–437, § 1(a), Oct. 20, 2008, 122 Stat. 4983, provided that: “T
 
 Subsection (a) shall not apply to any room or space under the jurisdiction of the Senate or the House of Representatives.
 
-(Pub. L. 110–437, title I, § 102, Oct. 20, 2008, 122 Stat. 4986.)
+(Pub. L. 110–437, title I, § 102, Oct. 20, 2008, 122 Stat. 4986.)
 
-### § 2203. Use of the Emancipation Hall of the Capitol Visitor Center
+### § 2203. Use of the Emancipation Hall of the Capitol Visitor Center
 
 The Emancipation Hall of the Capitol Visitor Center may not be used for any event, except upon the passage of a resolution agreed to by both houses of Congress authorizing the use of the Emancipation Hall for that event.
 
-(Pub. L. 110–437, title I, § 103, Oct. 20, 2008, 122 Stat. 4986.)
+(Pub. L. 110–437, title I, § 103, Oct. 20, 2008, 122 Stat. 4986.)
 
 ## SUBCHAPTER II—OFFICE OF THE CAPITOL VISITOR CENTER
 
-### § 2211. Establishment
+### § 2211. Establishment
 
 There is established within the Office of the Architect of the Capitol the Office of the Capitol Visitor Center (in this chapter referred to as the “Office”), to be headed by the Chief Executive Officer for Visitor Services (in this chapter referred to as the “Chief Executive Officer”).
 
-(Pub. L. 110–437, title II, § 201, Oct. 20, 2008, 122 Stat. 4986.)
+(Pub. L. 110–437, title II, § 201, Oct. 20, 2008, 122 Stat. 4986.)
 
 **Editorial Notes**
 
@@ -157,7 +157,7 @@ There is established within the Office of the Architect of the Capitol the Offic
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 110–437, Oct. 20, 2008, 122 Stat. 4983, known as the Capitol Visitor Center Act of 2008, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
 
-### § 2212. Appointment and supervision of Chief Executive Officer for Visitor Services
+### § 2212. Appointment and supervision of Chief Executive Officer for Visitor Services
 
 **(a) Appointment**
 
@@ -183,19 +183,19 @@ The individual who serves as the Chief Executive Officer for Visitor Services un
 
 **(2) Omitted**
 
-(Pub. L. 110–437, title II, § 202, Oct. 20, 2008, 122 Stat. 4986.)
+(Pub. L. 110–437, title II, § 202, Oct. 20, 2008, 122 Stat. 4986.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1806 of this title, referred to in subsec. (e)(1), was repealed by Pub. L. 110–437, title II, § 202(e)(2), Oct. 20, 2008, 122 Stat. 4987.
+Section 1806 of this title, referred to in subsec. (e)(1), was repealed by Pub. L. 110–437, title II, § 202(e)(2), Oct. 20, 2008, 122 Stat. 4987.
 
 **Codification**
 
 Section is comprised of section 202 of Pub. L. 110–437. Subsec. (e)(2) of section 202 of Pub. L. 110–437 repealed section 1806 of this title.
 
-### § 2213. General duties of Chief Executive Officer
+### § 2213. General duties of Chief Executive Officer
 
 **(a) Administration of facilities, services, and activities**
 
@@ -231,7 +231,7 @@ The Architect of the Capitol may not enter into a contract for the operations of
 
 The Chief Executive Officer shall submit a report to the Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives not later than 45 days following the close of each semiannual period ending on March 31 or September 30 of each year on the financial and operational status during the period of each function under the jurisdiction of the Chief Executive Officer. Each such report shall include financial statements and a description or explanation of current operations, the implementation of new policies and procedures, and future plans for each function.
 
-(Pub. L. 110–437, title II, § 203, Oct. 20, 2008, 122 Stat. 4987.)
+(Pub. L. 110–437, title II, § 203, Oct. 20, 2008, 122 Stat. 4987.)
 
 **Editorial Notes**
 
@@ -241,15 +241,15 @@ This chapter, referred to in subsecs. (a)(1) and (b), was in the original “thi
 
 The General Schedule, referred to in subsec. (b)(1), is set out under section 5332 of Title 5, Government Organization and Employees.
 
-### § 2214. Assistant to the Chief Executive Officer
+### § 2214. Assistant to the Chief Executive Officer
 
 **(a) In general** The Architect of the Capitol shall—
 
 **(1)** upon recommendation of the Chief Executive Officer, appoint an assistant who shall perform the responsibilities of the Chief Executive Officer during the absence or disability of the Chief Executive Officer, or during a vacancy in the position of the Chief Executive Officer; and
 
-**(2)** notwithstanding section 2213(b)(1) of this title, fix the rate of basic pay for the position of the assistant appointed under subparagraph (A) 1
+**(2)** notwithstanding section 2213(b)(1) of this title, fix the rate of basic pay for the position of the assistant appointed under subparagraph (A) 1
 
-<sup>1</sup>  So in original. Probably should be a reference to paragraph (1).
+<sup>1</sup> So in original. Probably should be a reference to paragraph (1).
 
 at a rate not to exceed the highest total rate of pay for the Senior Executive Service under subchapter VIII of chapter 53 of title 5 for the locality involved.
 
@@ -261,19 +261,19 @@ The individual who serves as the assistant under section 1807 of this title as o
 
 **(2) Omitted**
 
-(Pub. L. 110–437, title II, § 204, Oct. 20, 2008, 122 Stat. 4988.)
+(Pub. L. 110–437, title II, § 204, Oct. 20, 2008, 122 Stat. 4988.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1807 of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 110–437, title II, § 204(b)(2), Oct. 20, 2008, 122 Stat. 4988.
+Section 1807 of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 110–437, title II, § 204(b)(2), Oct. 20, 2008, 122 Stat. 4988.
 
 **Codification**
 
 Section is comprised of section 204 of Pub. L. 110–437. Subsec. (b)(2) of section 204 of Pub. L. 110–437 repealed section 1807 of this title.
 
-### § 2215. Gift Shop
+### § 2215. Gift Shop
 
 **(a) Establishment**
 
@@ -283,9 +283,9 @@ The Architect of the Capitol, acting through the Chief Executive Officer, shall 
 
 Section 5104(c) of title 40 shall not apply to any activity carried out under this section.
 
-(Pub. L. 110–437, title II, § 205, Oct. 20, 2008, 122 Stat. 4988.)
+(Pub. L. 110–437, title II, § 205, Oct. 20, 2008, 122 Stat. 4988.)
 
-### § 2216. Food service operations
+### § 2216. Food service operations
 
 **(a) Restaurant, catering, and vending**
 
@@ -309,11 +309,11 @@ All net profits from the food service operations within the Capitol Visitor Cent
 
 Section 5104(c) of title 40 shall not apply to any activity carried out under this section.
 
-(Pub. L. 110–437, title II, § 206, Oct. 20, 2008, 122 Stat. 4988.)
+(Pub. L. 110–437, title II, § 206, Oct. 20, 2008, 122 Stat. 4988.)
 
 ## SUBCHAPTER III—CAPITOL VISITOR CENTER REVOLVING FUND
 
-### § 2231. Establishment and accounts
+### § 2231. Establishment and accounts
 
 There is established in the Treasury of the United States a revolving fund to be known as the Capitol Visitor Center Revolving Fund (in this section referred to as the “Fund”), consisting of the following individual accounts:
 
@@ -321,9 +321,9 @@ There is established in the Treasury of the United States a revolving fund to be
 
 **(2)** The Miscellaneous Receipts Account.
 
-(Pub. L. 110–437, title III, § 301, Oct. 20, 2008, 122 Stat. 4989.)
+(Pub. L. 110–437, title III, § 301, Oct. 20, 2008, 122 Stat. 4989.)
 
-### § 2232. Deposits in the Fund
+### § 2232. Deposits in the Fund
 
 **(a) Gift Shop Account**
 
@@ -337,9 +337,9 @@ There shall be deposited in the Gift Shop Account all monies received from sales
 
 **(3)** Any amounts described under section 2273(d) of this title.
 
-(Pub. L. 110–437, title III, § 302, Oct. 20, 2008, 122 Stat. 4989.)
+(Pub. L. 110–437, title III, § 302, Oct. 20, 2008, 122 Stat. 4989.)
 
-### § 2233. Use of monies
+### § 2233. Use of monies
 
 **(a) Gift Shop Account**
 
@@ -359,9 +359,9 @@ All monies in the Gift Shop Account shall be available without fiscal year limit
 
 **(2)** the Committees on Appropriations of the House of Representatives and Senate.
 
-(Pub. L. 110–437, title III, § 303, Oct. 20, 2008, 122 Stat. 4989.)
+(Pub. L. 110–437, title III, § 303, Oct. 20, 2008, 122 Stat. 4989.)
 
-### § 2234. Administration of Fund
+### § 2234. Administration of Fund
 
 **(a) Disbursements**
 
@@ -375,13 +375,13 @@ The Secretary of the Treasury shall invest any portion of the Fund that, as dete
 
 The Fund shall be subject to audit by the Comptroller General at the discretion of the Comptroller General.
 
-(Pub. L. 110–437, title III, § 304, Oct. 20, 2008, 122 Stat. 4990.)
+(Pub. L. 110–437, title III, § 304, Oct. 20, 2008, 122 Stat. 4990.)
 
 ## SUBCHAPTER IV—CAPITOL GUIDE SERVICE AND OFFICE OF CONGRESSIONAL ACCESSIBILITY SERVICES
 
 ### Part A—Capitol Guide Service
 
-#### § 2241. Transfer of Capitol Guide Service
+#### § 2241. Transfer of Capitol Guide Service
 
 **(a) Transfer of authorities and personnel to Office of the Capitol Visitor Center** In accordance with the provisions of this subchapter, effective on the transfer date—
 
@@ -407,7 +407,7 @@ Any individual who is an employee of the Capitol Guide Service on a non-temporar
 
 This section does not apply with respect to any employees, contracts, liabilities, records, property, appropriations, and other assets and interests of the Congressional Special Services Office of the Capitol Guide Service that are transferred to the Office of Congressional Accessibility Services under part B.
 
-(Pub. L. 110–437, title IV, § 401, Oct. 20, 2008, 122 Stat. 4990.)
+(Pub. L. 110–437, title IV, § 401, Oct. 20, 2008, 122 Stat. 4990.)
 
 **Editorial Notes**
 
@@ -415,9 +415,9 @@ This section does not apply with respect to any employees, contracts, liabilitie
 
 This subchapter, referred to in subsec. (a), was in the original “this title”, meaning title IV of Pub. L. 110–437, Oct. 20, 2008, 122 Stat. 4990, which is classified principally to this subchapter. For complete classification of title IV to the Code, see Tables.
 
-Section 2166 of this title, referred to in subsec. (a)(2), was repealed by Pub. L. 110–437, title IV, § 422(a), Oct. 20, 2008, 122 Stat. 4996.
+Section 2166 of this title, referred to in subsec. (a)(2), was repealed by Pub. L. 110–437, title IV, § 422(a), Oct. 20, 2008, 122 Stat. 4996.
 
-#### § 2242. Duties of employees of Capitol Guide Service
+#### § 2242. Duties of employees of Capitol Guide Service
 
 **(a) Provision of guided tours**
 
@@ -475,11 +475,11 @@ The Chief Executive Officer shall coordinate the provision of accessible tours f
 
 This section shall take effect on the transfer date.
 
-(Pub. L. 110–437, title IV, § 402, Oct. 20, 2008, 122 Stat. 4991.)
+(Pub. L. 110–437, title IV, § 402, Oct. 20, 2008, 122 Stat. 4991.)
 
 ### Part B—Office of Congressional Accessibility Services
 
-#### § 2251. Office of Congressional Accessibility Services
+#### § 2251. Office of Congressional Accessibility Services
 
 **(a) Omitted**
 
@@ -491,7 +491,7 @@ The Director of Accessibility Services shall submit to the Committee on Rules an
 
 The individual who serves as the head of the Congressional Special Services Office as of October 20, 2008, shall be the first Director of Accessibility Services appointed by the Congressional Accessibility Services Board under section 2172 of this title.
 
-(Pub. L. 110–437, title IV, § 411, Oct. 20, 2008, 122 Stat. 4993.)
+(Pub. L. 110–437, title IV, § 411, Oct. 20, 2008, 122 Stat. 4993.)
 
 **Editorial Notes**
 
@@ -499,7 +499,7 @@ The individual who serves as the head of the Congressional Special Services Offi
 
 Section is comprised of section 411 of Pub. L. 110–437. Subsec. (a) of section 411 of Pub. L. 110–437 amended section 2172 of this title.
 
-#### § 2252. Transfer from Capitol Guide Service
+#### § 2252. Transfer from Capitol Guide Service
 
 **(a) Transfer of authorities and personnel of Congressional Special Services Office of Capitol Guide Service** In accordance with the provisions of this subchapter, effective on the transfer date—
 
@@ -523,7 +523,7 @@ Any individual who is an employee of the Congressional Special Services Office o
 
 The Director of Accessibility Services may not impose a period of probation with respect to the transfer of any individual who is transferred to the Office of Congressional Accessibility Services under subsection (a).
 
-(Pub. L. 110–437, title IV, § 412, Oct. 20, 2008, 122 Stat. 4995.)
+(Pub. L. 110–437, title IV, § 412, Oct. 20, 2008, 122 Stat. 4995.)
 
 **Editorial Notes**
 
@@ -533,11 +533,11 @@ This subchapter, referred to in subsec. (a), was in the original “this title�
 
 ### Part C—Transfer Date
 
-#### § 2261. Transfer date
+#### § 2261. Transfer date
 
 In this subchapter, the term “transfer date” means the date occurring on the first day of the first pay period (applicable to employees transferred under section 2241 of this title) occurring on or after 30 days after October 20, 2008.
 
-(Pub. L. 110–437, title IV, § 421, Oct. 20, 2008, 122 Stat. 4996.)
+(Pub. L. 110–437, title IV, § 421, Oct. 20, 2008, 122 Stat. 4996.)
 
 **Editorial Notes**
 
@@ -547,7 +547,7 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 ## SUBCHAPTER V—MISCELLANEOUS PROVISIONS
 
-### § 2271. Jurisdictions unaffected
+### § 2271. Jurisdictions unaffected
 
 **(a) Security jurisdiction unaffected**
 
@@ -561,7 +561,7 @@ Nothing in this chapter granting any authority to the Chief Executive Officer sh
 
 **(2) Omitted**
 
-(Pub. L. 110–437, title V, § 501, Oct. 20, 2008, 122 Stat. 4997.)
+(Pub. L. 110–437, title V, § 501, Oct. 20, 2008, 122 Stat. 4997.)
 
 **Editorial Notes**
 
@@ -573,17 +573,17 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Section is comprised of section 501 of Pub. L. 110–437. Subsec. (b)(2) of section 501 of Pub. L. 110–437 repealed section 1825 of this title.
 
-### § 2272. Acceptance of volunteer services
+### § 2272. Acceptance of volunteer services
 
-Notwithstanding section 1342 of title 31, the Architect of the Capitol, upon the recommendation of the Chief Executive Officer, may accept and use voluntary and uncompensated services for the Capitol Visitor Center as the Architect of the Capitol determines necessary. No person shall be permitted to donate personal services under this section unless such person has first agreed, in writing, to waive any and all claims against the United States arising out of or connection with such services, other than a claim under the provisions of chapter 81 of title 5. No person donating personal services under this section shall be considered an employee of the United States for any purpose other than for purposes of chapter 81 of such title. In no case shall the acceptance of personal services under this subsection 1
+Notwithstanding section 1342 of title 31, the Architect of the Capitol, upon the recommendation of the Chief Executive Officer, may accept and use voluntary and uncompensated services for the Capitol Visitor Center as the Architect of the Capitol determines necessary. No person shall be permitted to donate personal services under this section unless such person has first agreed, in writing, to waive any and all claims against the United States arising out of or connection with such services, other than a claim under the provisions of chapter 81 of title 5. No person donating personal services under this section shall be considered an employee of the United States for any purpose other than for purposes of chapter 81 of such title. In no case shall the acceptance of personal services under this subsection 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 result in the reduction of pay or displacement of any employee of the Office of the Architect of the Capitol.
 
-(Pub. L. 110–437, title V, § 503, Oct. 20, 2008, 122 Stat. 4997.)
+(Pub. L. 110–437, title V, § 503, Oct. 20, 2008, 122 Stat. 4997.)
 
-### § 2273. Coins treated as gifts
+### § 2273. Coins treated as gifts
 
 **(a) Definition** In this section, the term “covered grounds” means—
 
@@ -615,21 +615,21 @@ The Architect of the Capitol shall deposit coins collected under this section in
 
 Amounts deposited in the Miscellaneous Receipts Account of the Capitol Visitor Center Revolving Fund under this section shall be available as provided under section 2233(b) of this title.
 
-(Pub. L. 110–437, title V, § 504, Oct. 20, 2008, 122 Stat. 4998; Pub. L. 117–103, div. I, title I, § 131, Mar. 15, 2022, 136 Stat. 516.)
+(Pub. L. 110–437, title V, § 504, Oct. 20, 2008, 122 Stat. 4998; Pub. L. 117–103, div. I, title I, § 131, Mar. 15, 2022, 136 Stat. 516.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (c). Pub. L. 117–103 inserted “, and maintaining fountains under the jurisdiction of the Architect of the Capitol” before period at end of first sentence.
+2022—Subsec. (c). Pub. L. 117–103 inserted “, and maintaining fountains under the jurisdiction of the Architect of the Capitol” before period at end of first sentence.
 
 ## SUBCHAPTER VI—AUTHORIZATION OF APPROPRIATIONS
 
-### § 2281. Authorization of appropriations
+### § 2281. Authorization of appropriations
 
 There are authorized to be appropriated such sums as are necessary to carry out this chapter.
 
-(Pub. L. 110–437, title VI, § 601, Oct. 20, 2008, 122 Stat. 4999.)
+(Pub. L. 110–437, title VI, § 601, Oct. 20, 2008, 122 Stat. 4999.)
 
 **Editorial Notes**
 

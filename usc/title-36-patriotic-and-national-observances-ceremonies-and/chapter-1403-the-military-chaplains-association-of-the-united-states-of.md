@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1403—THE MILITARY CHAPLAINS ASSOCIATION OF THE UNITED STATES OF AMERICA"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1403—THE MILITARY CHAPLAINS ASSOCIATION OF THE UNITED STATES OF AMERICA"
 identifier: "/us/usc/t36/stII/ptB/ch1403"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1403—THE MILITARY CHAPLAINS ASSOCIATION OF THE UNITED STATES OF AMERICA
 
-## § 140301. Organization
+## § 140301. Organization
 
 **(a) Federal Charter.—** The Military Chaplains Association of the United States of America (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -27,7 +27,7 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140301(a) | 36:311. | Sept. 20, 1950, ch. 956, §§ 1, 2, 4(a), 64 Stat. 868. |
+| 140301(a) | 36:311. | Sept. 20, 1950, ch. 956, §§ 1, 2, 4(a), 64 Stat. 868. |
 |  | 36:312. |  |
 | 140301(b) | 36:314(a). |  |
 
@@ -35,7 +35,7 @@ Subsection (a) is substituted for the source provisions for consistency in the r
 
 Subsection (b) is substituted for “shall have perpetual succession” for consistency in the revised title.
 
-## § 140302. Purposes
+## § 140302. Purposes
 
 The purposes of the corporation are—
 
@@ -55,9 +55,9 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140302 | 36:313. | Sept. 20, 1950, ch. 956, § 3, 64 Stat. 868. |
+| 140302 | 36:313. | Sept. 20, 1950, ch. 956, § 3, 64 Stat. 868. |
 
-## § 140303. Powers
+## § 140303. Powers
 
 The corporation may—
 
@@ -87,7 +87,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140303 | 36:314(b)–(k). | Sept. 20, 1950, ch. 956, §§ 4(b)–(k), 5, 64 Stat. 868. |
+| 140303 | 36:314(b)–(k). | Sept. 20, 1950, ch. 956, §§ 4(b)–(k), 5, 64 Stat. 868. |
 |  | 36:315. |  |
 
 In clause (1), the word “rules” is omitted as being the same as “regulations”.
@@ -100,7 +100,7 @@ Clause (6) is substituted for “acquire, by purchase, devise, bequest, gift, or
 
 In clause (8), the words “and receive contributions of money or property to be devoted to the carrying out of the purposes of the organization” are omitted as unnecessary because of clause (6) of the revised section.
 
-## § 140304. Exclusive right to name
+## § 140304. Exclusive right to name
 
 The corporation and its area, State, and local chapters have the exclusive right to use the name “The Military Chaplains Association of the United States of America”.
 
@@ -110,11 +110,11 @@ The corporation and its area, State, and local chapters have the exclusive right
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140304 | 36:316. | Sept. 20, 1950, ch. 956, § 6, 64 Stat. 869. |
+| 140304 | 36:316. | Sept. 20, 1950, ch. 956, § 6, 64 Stat. 869. |
 
 The words “sole and”, “to have and”, and “in carrying out its purpose” are omitted as unnecessary.
 
-## § 140305. Annual report
+## § 140305. Annual report
 
 Not later than September 1 of each year, the corporation shall submit a report to Congress on the activities of the corporation during the prior calendar year. The report may not be printed as a public document.
 
@@ -124,7 +124,7 @@ Not later than September 1 of each year, the corporation shall submit a report t
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140305 | 36:317. | Sept. 20, 1950, ch. 956, § 7, 64 Stat. 869; Aug. 30, 1964, Pub. L. 88–504, § 4(14), 78 Stat. 637. |
+| 140305 | 36:317. | Sept. 20, 1950, ch. 956, § 7, 64 Stat. 869; Aug. 30, 1964, Pub. L. 88–504, § 4(14), 78 Stat. 637. |
 
 The word “activities” is substituted for “proceedings” for consistency in the revised title.
 

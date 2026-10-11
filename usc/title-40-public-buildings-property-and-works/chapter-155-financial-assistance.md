@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 118–272, div. B, title II, § 2244(b), Jan. 4, 2025, 138 Stat. 3204, added item 15507.
+2025—Pub. L. 118–272, div. B, title II, § 2244(b), Jan. 4, 2025, 138 Stat. 3204, added item 15507.
 
-2018—Pub. L. 115–334, title VI, § 6304(g), Dec. 20, 2018, 132 Stat. 4752, renumbered chapter 3 of subtitle V of this title as chapter 155 of this title.
+2018—Pub. L. 115–334, title VI, § 6304(g), Dec. 20, 2018, 132 Stat. 4752, renumbered chapter 3 of subtitle V of this title as chapter 155 of this title.
 
-## § 15501. Economic and infrastructure development grants
+## § 15501. Economic and infrastructure development grants
 
 **(a) In General.—** A Commission may make grants to States and local governments, Indian tribes, and public and nonprofit organizations for projects, approved in accordance with section 15503—
 
@@ -65,7 +65,7 @@ retrieved: 2026-10-11
 
 **(f) No Relocation Assistance.—** Financial assistance authorized by this section may not be used to assist a person or entity in relocating from one area to another, except that financial assistance may be used as otherwise authorized by this subtitle to attract businesses to the region from outside the United States.
 
-(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1474, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2236; amended Pub. L. 115–334, title VI, § 6304(b), Dec. 20, 2018, 132 Stat. 4749.)
+(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1474, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2236; amended Pub. L. 115–334, title VI, § 6304(b), Dec. 20, 2018, 132 Stat. 4749.)
 
 **Editorial Notes**
 
@@ -75,11 +75,11 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Amendments**
 
-2018—Subsec. (a)(8), (9). Pub. L. 115–334, § 6304(b)(1), added par. (8) and redesignated former par. (8) as (9).
+2018—Subsec. (a)(8), (9). Pub. L. 115–334, § 6304(b)(1), added par. (8) and redesignated former par. (8) as (9).
 
-Subsec. (b). Pub. L. 115–334, § 6304(b)(2), substituted “paragraph (1), (2), (3), or (7)” for “paragraphs (1) through (3)”.
+Subsec. (b). Pub. L. 115–334, § 6304(b)(2), substituted “paragraph (1), (2), (3), or (7)” for “paragraphs (1) through (3)”.
 
-Subsec. (f). Pub. L. 115–334, § 6304(b)(3), substituted “, except that financial assistance may be used as otherwise authorized by this subtitle to attract businesses to the region from outside the United States.” for period at end.
+Subsec. (f). Pub. L. 115–334, § 6304(b)(3), substituted “, except that financial assistance may be used as otherwise authorized by this subtitle to attract businesses to the region from outside the United States.” for period at end.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -89,13 +89,13 @@ Section effective on the first day of the first fiscal year beginning after June
 
 **Waiver of Requirements Relating to Non-Federal Cost-Share Grants and Cooperative Agreements for the Northern Border Regional Commission**
 
-Pub. L. 116–260, div. D, title V, § 505(b), Dec. 27, 2020, 134 Stat. 1379, provided that: “Requirements relating to non-Federal cost-share grants and cooperative agreements for the Northern Border Regional Commission under section 15501(d) of title 40, United States Code, are waived for grants awarded in fiscal year 2020 and in subsequent years in response to economic distress directly related to the impacts of the Coronavirus Disease (COVID–19).”
+Pub. L. 116–260, div. D, title V, § 505(b), Dec. 27, 2020, 134 Stat. 1379, provided that: “Requirements relating to non-Federal cost-share grants and cooperative agreements for the Northern Border Regional Commission under section 15501(d) of title 40, United States Code, are waived for grants awarded in fiscal year 2020 and in subsequent years in response to economic distress directly related to the impacts of the Coronavirus Disease (COVID–19).”
 
 **State Capacity Building Grant Program**
 
-Pub. L. 115–334, title VI, § 6304(c), Dec. 20, 2018, 132 Stat. 4750, which authorized the Commission to establish a State capacity building grant program to provide grants to Commission States, was repealed by Pub. L. 118–272, div. B, title II, § 2248(b), Jan. 4, 2025, 138 Stat. 3209.
+Pub. L. 115–334, title VI, § 6304(c), Dec. 20, 2018, 132 Stat. 4750, which authorized the Commission to establish a State capacity building grant program to provide grants to Commission States, was repealed by Pub. L. 118–272, div. B, title II, § 2248(b), Jan. 4, 2025, 138 Stat. 3209.
 
-## § 15502. Comprehensive economic and infrastructure development plans
+## § 15502. Comprehensive economic and infrastructure development plans
 
 **(a) State Plans.—** In accordance with policies established by a Commission, each State member of the Commission shall submit a comprehensive economic and infrastructure development plan for the area of the region represented by the State member.
 
@@ -113,7 +113,7 @@ Pub. L. 115–334, title VI, § 6304(c), Dec. 20, 2018, 132 Stat. 4750, which 
 
 **(2) Guidelines.—** A Commission shall develop guidelines for providing public participation, including public hearings.
 
-(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1476, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2238.)
+(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1476, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2238.)
 
 **Editorial Notes**
 
@@ -127,7 +127,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under section 15101 of this title.
 
-## § 15503. Approval of applications for assistance
+## § 15503. Approval of applications for assistance
 
 **(a) Evaluation by State Member.—** An application to a Commission for a grant or any other assistance for a project under this subtitle shall be made through, and evaluated for approval by, the State member of the Commission representing the applicant.
 
@@ -143,7 +143,7 @@ Section effective on the first day of the first fiscal year beginning after June
 
 **(c) Votes for Decisions.—** On certification by a State member of a Commission of an application for a grant or other assistance for a specific project under this section, an affirmative vote of the Commission under section 15302 shall be required for approval of the application.
 
-(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1476, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2238.)
+(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1476, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2238.)
 
 **Editorial Notes**
 
@@ -157,7 +157,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under section 15101 of this title.
 
-## § 15504. Program development criteria
+## § 15504. Program development criteria
 
 In considering programs and projects to be provided assistance by a Commission under this subtitle, and in establishing a priority ranking of the requests for assistance provided to the Commission, the Commission shall follow procedures that ensure, to the maximum extent practicable, consideration of—
 
@@ -173,7 +173,7 @@ In considering programs and projects to be provided assistance by a Commission u
 
 **(6)** the extent to which the project design provides for detailed outcome measurements by which grant expenditures and the results of the expenditures may be evaluated.
 
-(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1476, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2238.)
+(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1476, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2238.)
 
 **Editorial Notes**
 
@@ -187,7 +187,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under section 15101 of this title.
 
-## § 15505. Local development districts and organizations
+## § 15505. Local development districts and organizations
 
 **(a) Grants to Local Development Districts.—** Subject to the requirements of this section, a Commission may make grants to a local development district to assist in the payment of development planning and administrative expenses.
 
@@ -209,7 +209,7 @@ Section effective on the first day of the first fiscal year beginning after June
 
 **(4)** assist the individuals and entities described in paragraph (3) in identifying, assessing, and facilitating projects and programs to promote the economic development of the region.
 
-(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1477, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2239.)
+(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1477, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2239.)
 
 **Editorial Notes**
 
@@ -223,7 +223,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under section 15101 of this title.
 
-## § 15506. Supplements to Federal grant programs
+## § 15506. Supplements to Federal grant programs
 
 **(a) Finding.—** Congress finds that certain States and local communities of the region, including local development districts, may be unable to take maximum advantage of Federal grant programs for which the States and communities are eligible because—
 
@@ -245,7 +245,7 @@ Section effective on the first day of the first fiscal year beginning after June
 
 **(f) Maximum Commission Contribution.—** Section 15501(d), relating to limitations on Commission contributions, shall apply to a program, project, or activity receiving assistance under this section.
 
-(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1477, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2239.)
+(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1477, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2239.)
 
 **Editorial Notes**
 
@@ -259,7 +259,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under section 15101 of this title.
 
-## § 15507. Payment of non-Federal share for certain Federal grant programs
+## § 15507. Payment of non-Federal share for certain Federal grant programs
 
 Amounts made available to carry out this subtitle shall be available for the payment of the non-Federal share for any project carried out under another Federal grant program—
 
@@ -267,4 +267,4 @@ Amounts made available to carry out this subtitle shall be available for the pay
 
 **(2)** that is consistent with the authorities of the applicable Commission.
 
-(Added Pub. L. 118–272, div. B, title II, § 2244(a), Jan. 4, 2025, 138 Stat. 3204.)
+(Added Pub. L. 118–272, div. B, title II, § 2244(a), Jan. 4, 2025, 138 Stat. 3204.)

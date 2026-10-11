@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 11—CITIZENS’ COMMISSION ON PUBLIC SERVICE AND COMPENSATION
 
-## § 351. Establishment
+## § 351. Establishment
 
 There is hereby established a commission to be known as the Citizens’ Commission on Public Service and Compensation (hereinafter referred to as the “Commission”).
 
-(Pub. L. 90–206, title II, § 225(a), Dec. 16, 1967, 81 Stat. 642; Pub. L. 101–194, title VII, § 701(a), Nov. 30, 1989, 103 Stat. 1763.)
+(Pub. L. 90–206, title II, § 225(a), Dec. 16, 1967, 81 Stat. 642; Pub. L. 101–194, title VII, § 701(a), Nov. 30, 1989, 103 Stat. 1763.)
 
 **Editorial Notes**
 
@@ -33,7 +33,7 @@ There is hereby established a commission to be known as the Citizens’ Commissi
 
 Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under section 3110 of Title 5, Government Organization and Employees.
 
-## § 352. Membership
+## § 352. Membership
 
 **(1)** The Commission shall be composed of 11 members, who shall be appointed from private life as follows:
 
@@ -51,9 +51,9 @@ Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set 
 
 **(A)** an officer or employee of the Federal Government;
 
-**(B)** registered (or required to register) under the Federal Regulation of Lobbying Act; 1
+**(B)** registered (or required to register) under the Federal Regulation of Lobbying Act; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or
 
@@ -87,13 +87,13 @@ or
 
 **(ii)** Notwithstanding any provision of section 353 of this title, authority under such section shall remain available, after the close of a fiscal year, so long as members of the Commission continue to serve.
 
-(Pub. L. 90–206, title II, § 225(b), Dec. 16, 1967, 81 Stat. 642; Pub. L. 99–190, § 135(a), Dec. 19, 1985, 99 Stat. 1322; Pub. L. 101–194, title VII, § 701(b), Nov. 30, 1989, 103 Stat. 1763.)
+(Pub. L. 90–206, title II, § 225(b), Dec. 16, 1967, 81 Stat. 642; Pub. L. 99–190, § 135(a), Dec. 19, 1985, 99 Stat. 1322; Pub. L. 101–194, title VII, § 701(b), Nov. 30, 1989, 103 Stat. 1763.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Regulation of Lobbying Act, referred to in par. (2)(B), is title III of act Aug. 2, 1946, ch. 753, 60 Stat. 839, which was classified generally to chapter 8A (§ 261 et seq.) of this title, prior to repeal by Pub. L. 104–65, § 11(a), Dec. 19, 1995, 109 Stat. 701. For complete classification of this Act to the Code, see Tables.
+The Federal Regulation of Lobbying Act, referred to in par. (2)(B), is title III of act Aug. 2, 1946, ch. 753, 60 Stat. 839, which was classified generally to chapter 8A (§ 261 et seq.) of this title, prior to repeal by Pub. L. 104–65, § 11(a), Dec. 19, 1995, 109 Stat. 701. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
@@ -107,7 +107,7 @@ The Federal Regulation of Lobbying Act, referred to in par. (2)(B), is title III
 
 Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under section 3110 of Title 5, Government Organization and Employees.
 
-## § 353. Executive Director; additional personnel; detail of personnel of other agencies
+## § 353. Executive Director; additional personnel; detail of personnel of other agencies
 
 **(1)** Without regard to the provisions of title 5 governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates, and on a temporary basis for periods covering all or part of any fiscal year referred to in subparagraphs (A) and (B) of section 352(8) of this title—
 
@@ -117,7 +117,7 @@ Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set 
 
 **(2)** Upon the request of the Commission, the head of any department, agency, or establishment of any branch of the Federal Government is authorized to detail, on a reimbursable basis, for periods covering all or part of any fiscal year referred to in subparagraphs (A) and (B) of section 352(8) of this title, any of the personnel of such department, agency, or establishment to assist the Commission in carrying out its function.
 
-(Pub. L. 90–206, title II, § 225(c), Dec. 16, 1967, 81 Stat. 643; Pub. L. 101–194, title VII, § 701(c), Nov. 30, 1989, 103 Stat. 1764.)
+(Pub. L. 90–206, title II, § 225(c), Dec. 16, 1967, 81 Stat. 643; Pub. L. 101–194, title VII, § 701(c), Nov. 30, 1989, 103 Stat. 1764.)
 
 **Editorial Notes**
 
@@ -133,13 +133,13 @@ Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set 
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 354. Use of United States mails
+## § 354. Use of United States mails
 
 The Commission may use the United States mails in the same manner and upon the same conditions as other departments and agencies of the United States.
 
-(Pub. L. 90–206, title II, § 225(d), Dec. 16, 1967, 81 Stat. 643.)
+(Pub. L. 90–206, title II, § 225(d), Dec. 16, 1967, 81 Stat. 643.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -147,11 +147,11 @@ The Commission may use the United States mails in the same manner and upon the s
 
 Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under section 3110 of Title 5, Government Organization and Employees.
 
-## § 355. Administrative support services
+## § 355. Administrative support services
 
 The Administrator of General Services shall provide administrative support services for the Commission on a reimbursable basis.
 
-(Pub. L. 90–206, title II, § 225(e), Dec. 16, 1967, 81 Stat. 643.)
+(Pub. L. 90–206, title II, § 225(e), Dec. 16, 1967, 81 Stat. 643.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -159,7 +159,7 @@ The Administrator of General Services shall provide administrative support servi
 
 Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under section 3110 of Title 5, Government Organization and Employees.
 
-## § 356. Functions
+## § 356. Functions
 
 The Commission shall conduct, in each of the respective fiscal years referred to in subparagraphs (A) and (B) of section 352(8) of this title, a review of the rates of pay of—
 
@@ -181,13 +181,13 @@ Such review by the Commission shall be made for the purpose of determining and p
 
 In reviewing the rates of pay of the offices or positions referred to in subparagraph (D) of this section, the Commission shall determine and consider the appropriateness of the executive levels of such offices and positions.
 
-(Pub. L. 90–206, title II, § 225(f), Dec. 16, 1967, 81 Stat. 643; Pub. L. 91–375, § 6(a), Aug. 12, 1970, 84 Stat. 775; Pub. L. 94–82, title II, § 206(a), Aug. 9, 1975, 89 Stat. 423; Pub. L. 95–598, title III, § 301, Nov. 6, 1978, 92 Stat. 2673; Pub. L. 97–164, title I, § 143, Apr. 2, 1982, 96 Stat. 45; Pub. L. 99–190, § 135(b), Dec. 19, 1985, 99 Stat. 1322; Pub. L. 100–202, § 101(a) [title IV, § 408(c)], Dec. 22, 1987, 101 Stat. 1329, 1329–27; Pub. L. 101–194, title VII, § 701(d), Nov. 30, 1989, 103 Stat. 1764; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Pub. L. 90–206, title II, § 225(f), Dec. 16, 1967, 81 Stat. 643; Pub. L. 91–375, § 6(a), Aug. 12, 1970, 84 Stat. 775; Pub. L. 94–82, title II, § 206(a), Aug. 9, 1975, 89 Stat. 423; Pub. L. 95–598, title III, § 301, Nov. 6, 1978, 92 Stat. 2673; Pub. L. 97–164, title I, § 143, Apr. 2, 1982, 96 Stat. 45; Pub. L. 99–190, § 135(b), Dec. 19, 1985, 99 Stat. 1322; Pub. L. 100–202, § 101(a) [title IV, § 408(c)], Dec. 22, 1987, 101 Stat. 1329, 1329–27; Pub. L. 101–194, title VII, § 701(d), Nov. 30, 1989, 103 Stat. 1764; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subsections (a), (b), (c), and (d) of section 203 of the Federal Legislative Salary Act of 1964 (78 Stat. 415; Public Law 88–426), referred to in par. (B), are subsecs. (a) to (d) of section 203 of Pub. L. 88–426, title II, Aug. 14, 1964, 78 Stat. 415. Subsecs. (a) and (b), which originally related to compensation of the Comptroller General and Assistant Comptroller General, respectively, of the United States, were classified to section 42a of former Title 31, Money and Finance. Subsec. (c), which originally related to compensation of the General Counsel of the United States General Accounting Office, the Librarian of Congress, the Public Printer, and the Architect of the Capitol, was classified to sections 136a and 1802 of this title, section 51a of former Title 31, and section 39a of former Title 44, Public Printing and Documents. Subsec. (d), which originally related to compensation of the Deputy Librarian of Congress, the Deputy Public Printer, and the Assistant Architect of the Capitol, was classified to section 136a–1 of this title, section 166b of former Title 40, Public Buildings, Property, and Works, and section 39a of former Title 44. Sections 136a (Librarian of Congress) and 136a–1 (Deputy Librarian of Congress) of this title were omitted from the Code as superseded by section 136a–2 of this title. Sections 42a (Comptroller General and Deputy Comptroller General) and 51a (General Counsel of General Accounting Office) of former Title 31 were repealed, and restated in sections 703(f) and 731(c) of Title 31, Money and Finance, by Pub. L. 97–258, §§ 1, 5(b), Sept. 13, 1982, 96 Stat. 889, 897, 1068. Section 166b (Assistant Architect of the Capitol) of former Title 40 was omitted from the Code as superseded by section 166b–3a of former Title 40 (now section 1848 of this title) and was repealed by Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304. Section 39a (Public Printer and Deputy Public Printer) of former Title 44 was repealed, and restated in section 303 of Title 44, Public Printing and Documents, by Pub. L. 90–620, §§ 1, 3, Oct. 22, 1968, 82 Stat. 1239, 1306.
+Subsections (a), (b), (c), and (d) of section 203 of the Federal Legislative Salary Act of 1964 (78 Stat. 415; Public Law 88–426), referred to in par. (B), are subsecs. (a) to (d) of section 203 of Pub. L. 88–426, title II, Aug. 14, 1964, 78 Stat. 415. Subsecs. (a) and (b), which originally related to compensation of the Comptroller General and Assistant Comptroller General, respectively, of the United States, were classified to section 42a of former Title 31, Money and Finance. Subsec. (c), which originally related to compensation of the General Counsel of the United States General Accounting Office, the Librarian of Congress, the Public Printer, and the Architect of the Capitol, was classified to sections 136a and 1802 of this title, section 51a of former Title 31, and section 39a of former Title 44, Public Printing and Documents. Subsec. (d), which originally related to compensation of the Deputy Librarian of Congress, the Deputy Public Printer, and the Assistant Architect of the Capitol, was classified to section 136a–1 of this title, section 166b of former Title 40, Public Buildings, Property, and Works, and section 39a of former Title 44. Sections 136a (Librarian of Congress) and 136a–1 (Deputy Librarian of Congress) of this title were omitted from the Code as superseded by section 136a–2 of this title. Sections 42a (Comptroller General and Deputy Comptroller General) and 51a (General Counsel of General Accounting Office) of former Title 31 were repealed, and restated in sections 703(f) and 731(c) of Title 31, Money and Finance, by Pub. L. 97–258, §§ 1, 5(b), Sept. 13, 1982, 96 Stat. 889, 897, 1068. Section 166b (Assistant Architect of the Capitol) of former Title 40 was omitted from the Code as superseded by section 166b–3a of former Title 40 (now section 1848 of this title) and was repealed by Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304. Section 39a (Public Printer and Deputy Public Printer) of former Title 44 was repealed, and restated in section 303 of Title 44, Public Printing and Documents, by Pub. L. 90–620, §§ 1, 3, Oct. 22, 1968, 82 Stat. 1239, 1306.
 
 The rates of pay of justices, judges, and other personnel in the judicial branch, referred to in par. (C), are set out in section 867 of Title 10, Armed Forces; section 7443 of Title 26, Internal Revenue Code; and sections 5, 44, 135, 173, 213, 252, 603, and 792 of Title 28, Judiciary and Judicial Procedure.
 
@@ -217,7 +217,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 **Effective Date of 1987 Amendment**
 
-Amendment by Pub. L. 100–202 effective Oct. 1, 1988, and any salary affected by the amendment to be adjusted at beginning of first applicable pay period commencing on or after such date, see section 101(a) [title IV, § 408(d)] of Pub. L. 100–202, set out as a note under section 153 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 100–202 effective Oct. 1, 1988, and any salary affected by the amendment to be adjusted at beginning of first applicable pay period commencing on or after such date, see section 101(a) [title IV, § 408(d)] of Pub. L. 100–202, set out as a note under section 153 of Title 28, Judiciary and Judicial Procedure.
 
 **Effective Date of 1982 Amendment**
 
@@ -237,21 +237,21 @@ Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set 
 
 **Effective Rates of Pay Pending Changes in Rates Pursuant to Federal Salary Act of 1967**
 
-Pub. L. 94–82, title II, § 206(b), Aug. 9, 1975, 89 Stat. 423, provided that: “Until such time as a change in the rate of pay of the offices referred to in the amendment made by subsection (a) of this section [amending par. (A) of this section] occurs under the provisions of the Federal Salary Act of 1967 (2 U.S.C. 351–361), as amended by subsection (a) of this section, such rates of pay shall be the rates of pay in effect immediately prior to the date of enactment of this Act [Aug. 9, 1975], as adjusted under sections 203 and 204 of this title [amending sections 60a note, 136a, 136a–1, and 4501 of this title, section 104 of Title 3, The President, sections 42a and 51a of former Title 31, Money and Finance, sections 162a and 166b of former Title 40, Public Buildings, Property, and Works, and section 303 of Title 44, Public Printing and Documents].”
+Pub. L. 94–82, title II, § 206(b), Aug. 9, 1975, 89 Stat. 423, provided that: “Until such time as a change in the rate of pay of the offices referred to in the amendment made by subsection (a) of this section [amending par. (A) of this section] occurs under the provisions of the Federal Salary Act of 1967 (2 U.S.C. 351–361), as amended by subsection (a) of this section, such rates of pay shall be the rates of pay in effect immediately prior to the date of enactment of this Act [Aug. 9, 1975], as adjusted under sections 203 and 204 of this title [amending sections 60a note, 136a, 136a–1, and 4501 of this title, section 104 of Title 3, The President, sections 42a and 51a of former Title 31, Money and Finance, sections 162a and 166b of former Title 40, Public Buildings, Property, and Works, and section 303 of Title 44, Public Printing and Documents].”
 
-## § 356a. Omitted
+## § 356a. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 94–440, title II, [§ 100,] Oct. 1, 1976, 90 Stat. 1446, the Legislative Branch Appropriation Act, 1977, which provided salary rate limitations for positions or offices referred to in section 356 of this title, applied to fiscal year 1977 and was not repeated in subsequent appropriation acts. See decision B–145492 of the Comptroller General of the United States, dated Sept. 21, 1976. Pub. L. 94–440, title II, [§ 100,] was formerly set out as a note under section 5318 of Title 5, Government Organization and Employees.
+Section, Pub. L. 94–440, title II, [§ 100,] Oct. 1, 1976, 90 Stat. 1446, the Legislative Branch Appropriation Act, 1977, which provided salary rate limitations for positions or offices referred to in section 356 of this title, applied to fiscal year 1977 and was not repeated in subsequent appropriation acts. See decision B–145492 of the Comptroller General of the United States, dated Sept. 21, 1976. Pub. L. 94–440, title II, [§ 100,] was formerly set out as a note under section 5318 of Title 5, Government Organization and Employees.
 
-## § 357. Report by Commission to President with respect to pay
+## § 357. Report by Commission to President with respect to pay
 
 The Commission shall submit to the President a report of the results of each review conducted by the Commission with respect to rates of pay for the offices and positions within the purview of subparagraphs (A), (B), (C), and (D) of section 356 of this title, together with its recommendations. Each such report shall be submitted on such date as the President may designate but not later than December 15 next following the close of the fiscal year in which the review is conducted by the Commission.
 
-(Pub. L. 90–206, title II, § 225(g), Dec. 16, 1967, 81 Stat. 644; Pub. L. 99–190, § 135(c), Dec. 19, 1985, 99 Stat. 1322; Pub. L. 101–194, title VII, § 701(e), Nov. 30, 1989, 103 Stat. 1764.)
+(Pub. L. 90–206, title II, § 225(g), Dec. 16, 1967, 81 Stat. 644; Pub. L. 99–190, § 135(c), Dec. 19, 1985, 99 Stat. 1322; Pub. L. 101–194, title VII, § 701(e), Nov. 30, 1989, 103 Stat. 1764.)
 
 **Editorial Notes**
 
@@ -269,15 +269,15 @@ Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set 
 
 **1985 Fiscal Year Recommendations on Pay Rates of Offices and Positions**
 
-Pub. L. 99–190, § 135(g), Dec. 19, 1985, 99 Stat. 1323, provided that notwithstanding section 357 of this title, the Commission on Executive, Legislative, and Judicial Salaries should not make recommendations on the pay rates of certain offices and positions under section 356 of this title in connection with rate reviews in fiscal year 1985.
+Pub. L. 99–190, § 135(g), Dec. 19, 1985, 99 Stat. 1323, provided that notwithstanding section 357 of this title, the Commission on Executive, Legislative, and Judicial Salaries should not make recommendations on the pay rates of certain offices and positions under section 356 of this title in connection with rate reviews in fiscal year 1985.
 
-## § 358. Recommendations of President with respect to pay
+## § 358. Recommendations of President with respect to pay
 
 **(1)** After considering the report and recommendations of the Commission submitted under section 357 of this title, the President shall transmit to Congress his recommendations with respect to the exact rates of pay, for offices and positions within the purview of subparagraphs (A), (B), (C), and (D) of section 356 of this title, which the President considers to be fair and reasonable in light of the Commission’s report and recommendations, the prevailing market value of the services rendered in the offices and positions involved, the overall economic condition of the country, and the fiscal condition of the Federal Government.
 
 **(2)** The President shall transmit his recommendations under this section to Congress on the first Monday after January 3 of the first calendar year beginning after the date on which the Commission submits its report and recommendations to the President under section 357 of this title.
 
-(Pub. L. 90–206, title II, § 225(h), Dec. 16, 1967, 81 Stat. 644; Pub. L. 99–190, § 135(d), Dec. 19, 1985, 99 Stat. 1322; Pub. L. 101–194, title VII, § 701(f), Nov. 30, 1989, 103 Stat. 1765.)
+(Pub. L. 90–206, title II, § 225(h), Dec. 16, 1967, 81 Stat. 644; Pub. L. 99–190, § 135(d), Dec. 19, 1985, 99 Stat. 1322; Pub. L. 101–194, title VII, § 701(f), Nov. 30, 1989, 103 Stat. 1765.)
 
 **Editorial Notes**
 
@@ -295,7 +295,7 @@ Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set 
 
 **Commission’s First Report After July 30, 1983, To Include Recommendation for Appropriate Salary for Members of Congress; Prohibition on Receipt of Honoraria**
 
-Pub. L. 98–63, title I, § 908(e), July 30, 1983, 97 Stat. 338, which directed Commission on Executive, Legislative, and Judicial Salaries to include in first report required to be submitted by it after July 30, 1983, a recommendation for an appropriate salary for Members, which recommendation was to assume a prohibition on receipt of honoraria by Members, was repealed by Pub. L. 102–90, title I, § 6(c), Aug. 14, 1991, 105 Stat. 451.
+Pub. L. 98–63, title I, § 908(e), July 30, 1983, 97 Stat. 338, which directed Commission on Executive, Legislative, and Judicial Salaries to include in first report required to be submitted by it after July 30, 1983, a recommendation for an appropriate salary for Members, which recommendation was to assume a prohibition on receipt of honoraria by Members, was repealed by Pub. L. 102–90, title I, § 6(c), Aug. 14, 1991, 105 Stat. 451.
 
 **Compensation and Emoluments of Attorney General**
 
@@ -308,7 +308,7 @@ Pub. L. 94–2, Feb. 18, 1975, 89 Stat. 4, provided in part that the compensatio
 **Transmitted to Congress Jan. 9, 1989
 H.Doc. No. 101–21, Cong. Rec., vol. 135, pt. 1, p. 251, Jan. 19, 1989**
 
-*Dear Mr. Speaker: (Dear Mr. President:)* <sup>1</sup>
+*Dear Mr. Speaker: (Dear Mr. President:)* <sup>1</sup>
 
 As required by section 225 of the Federal Salary Act of 1967, Public Law 90–206 (2 U.S.C. 351 *et seq*.), the latest Quadrennial Commission on Executive, Legislative, and Judicial Salaries (“Commission”) has submitted to me recommendations on salaries for Senators, Representatives, Federal judges, Cabinet officers, and other agency heads, and certain other officials in the executive, legislative, and judicial branches.
 
@@ -358,13 +358,13 @@ Sincerely,
 
 Ronald Reagan.
 
-<sup>1</sup> **Editorial note**. This is the text of identical letters addressed to the Speaker of the House of Representatives and the President of the Senate, which were transmitted on January 9, 1989.
+<sup>1</sup> **Editorial note**. This is the text of identical letters addressed to the Speaker of the House of Representatives and the President of the Senate, which were transmitted on January 9, 1989.
 
 [Pub. L. 101–1, Feb. 7, 1989, 103 Stat. 3, provided: “That the Congress disapproves in their entirety the recommendations transmitted to the Congress by the President on January 9, 1989, under section 225(h) of the Federal Salary Act of 1967.” ]
 
 **Prior Salary Recommendations**
 
-A prior recommendation of the President for increases in executive, legislative, and judicial salaries, which was transmitted to Congress on Jan. 5, 1987 (52 F.R. 4125; 101 Stat. 1967), was disapproved by Pub. L. 100–6, § 3, Feb. 12, 1987, 101 Stat. 94. However, such recommendation became effective pursuant to section 359 of this title.
+A prior recommendation of the President for increases in executive, legislative, and judicial salaries, which was transmitted to Congress on Jan. 5, 1987 (52 F.R. 4125; 101 Stat. 1967), was disapproved by Pub. L. 100–6, § 3, Feb. 12, 1987, 101 Stat. 94. However, such recommendation became effective pursuant to section 359 of this title.
 
 A prior recommendation of the President for increases in executive, legislative, and judicial salaries, which was transmitted to Congress on Jan. 7, 1981 (H.Doc. No. 97–6, Cong. Rec., vol. 127, pt. 1, p. 241, Jan. 9, 1981), was disapproved by House Resolution No. 109, Ninety-sixth Congress, Mar. 12, 1981, Senate Resolution No. 89, Ninety-sixth Congress, Mar. 12, 1981, Senate Resolution No. 90, Ninety-sixth Congress, Mar. 12, 1981, Senate Resolution No. 91, Ninety-sixth Congress, Mar. 12, 1981, and Senate Resolution No. 92, Ninety-sixth Congress, Mar. 12, 1981.
 
@@ -372,7 +372,7 @@ A prior recommendation of the President for increases in executive, legislative,
 
 A prior recommendation of the President for increases in executive, legislative, and judicial salaries was transmitted to Congress on Jan. 15, 1969 (34 F.R. 2241; 83 Stat. 863).
 
-## § 359. Effective date of recommendations of President
+## § 359. Effective date of recommendations of President
 
 **(1)** None of the President’s recommendations under section 358 of this title shall take effect unless approved under paragraph (2).
 
@@ -398,7 +398,7 @@ A prior recommendation of the President for increases in executive, legislative,
 
 **(B)** For purposes of this paragraph, the term “election of Representatives” means an election held on the Tuesday following the first Monday of November in any even-numbered calendar year.
 
-(Pub. L. 90–206, title II, § 225(i), Dec. 16, 1967, 81 Stat. 644; Pub. L. 95–19, title IV, § 401(a), Apr. 12, 1977, 91 Stat. 45; Pub. L. 99–190, § 135(e), Dec. 19, 1985, 99 Stat. 1322; Pub. L. 101–194, title VII, § 701(g), Nov. 30, 1989, 103 Stat. 1765.)
+(Pub. L. 90–206, title II, § 225(i), Dec. 16, 1967, 81 Stat. 644; Pub. L. 95–19, title IV, § 401(a), Apr. 12, 1977, 91 Stat. 45; Pub. L. 99–190, § 135(e), Dec. 19, 1985, 99 Stat. 1322; Pub. L. 101–194, title VII, § 701(g), Nov. 30, 1989, 103 Stat. 1765.)
 
 **Editorial Notes**
 
@@ -424,7 +424,7 @@ Par. (2). Pub. L. 95–19 reenacted par. (2) without change.
 
 Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under section 3110 of Title 5, Government Organization and Employees.
 
-## § 360. Effect of recommendations on existing law and prior recommendations
+## § 360. Effect of recommendations on existing law and prior recommendations
 
 The recommendations of the President taking effect as provided in section 359 of this title shall be held and considered to modify, supersede, or render inapplicable, as the case may be, to the extent inconsistent therewith—
 
@@ -432,7 +432,7 @@ The recommendations of the President taking effect as provided in section 359 of
 
 **(B)** any prior recommendations of the President which take effect under this chapter.
 
-(Pub. L. 90–206, title II, § 225(j), Dec. 16, 1967, 81 Stat. 644; Pub. L. 95–19, title IV, § 401(b), Apr. 12, 1977, 91 Stat. 46; Pub. L. 99–190, § 135(f), Dec. 19, 1985, 99 Stat. 1322; Pub. L. 101–194, title VII, § 701(h), Nov. 30, 1989, 103 Stat. 1766.)
+(Pub. L. 90–206, title II, § 225(j), Dec. 16, 1967, 81 Stat. 644; Pub. L. 95–19, title IV, § 401(b), Apr. 12, 1977, 91 Stat. 46; Pub. L. 99–190, § 135(f), Dec. 19, 1985, 99 Stat. 1322; Pub. L. 101–194, title VII, § 701(h), Nov. 30, 1989, 103 Stat. 1766.)
 
 **Editorial Notes**
 
@@ -450,11 +450,11 @@ The recommendations of the President taking effect as provided in section 359 of
 
 Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under section 3110 of Title 5, Government Organization and Employees.
 
-## § 361. Publication of recommendations
+## § 361. Publication of recommendations
 
 The recommendations of the President which take effect shall be printed in the Statutes at Large in the same volume as public laws and shall be printed in the Federal Register and included in the Code of Federal Regulations.
 
-(Pub. L. 90–206, title II, § 225(k), Dec. 16, 1967, 81 Stat. 644.)
+(Pub. L. 90–206, title II, § 225(k), Dec. 16, 1967, 81 Stat. 644.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -462,7 +462,7 @@ The recommendations of the President which take effect shall be printed in the S
 
 Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as a note under section 3110 of Title 5, Government Organization and Employees.
 
-## § 362. Requirements applicable to recommendations
+## § 362. Requirements applicable to recommendations
 
 Notwithstanding any other provision of this chapter, the recommendations submitted by the Commission to the President under section 357 of this title, and the recommendations transmitted by the President to the Congress under section 358 of this title, shall be in conformance with the following:
 
@@ -482,15 +482,15 @@ Notwithstanding any other provision of this chapter, the recommendations submitt
 
 **(B)** Nothing in this section shall be considered to require that the rate recommended for any office or position by the President under section 358 of this title be the same as the rate recommended for such office or position by the Commission under section 357 of this title.
 
-(Pub. L. 90–206, title II, § 225(*l*), as added Pub. L. 101–194, title VII, § 701(i), Nov. 30, 1989, 103 Stat. 1766.)
+(Pub. L. 90–206, title II, § 225(*l*), as added Pub. L. 101–194, title VII, § 701(i), Nov. 30, 1989, 103 Stat. 1766.)
 
-## § 363. Additional function
+## § 363. Additional function
 
 The Commission shall, whenever it conducts a review under section 356 of this title, also conduct a review under this section relating to any recruitment or retention problems, and any public policy issues involved in maintaining appropriate ethical standards, with respect to any offices or positions within the Federal public service. Any findings or recommendations under this section shall be included by the Commission as part of its report to the President under section 357 of this title.
 
-(Pub. L. 90–206, title II, § 225(m), as added Pub. L. 101–194, title VII, § 701(j), Nov. 30, 1989, 103 Stat. 1767.)
+(Pub. L. 90–206, title II, § 225(m), as added Pub. L. 101–194, title VII, § 701(j), Nov. 30, 1989, 103 Stat. 1767.)
 
-## § 364. Provision relating to certain other pay adjustments
+## § 364. Provision relating to certain other pay adjustments
 
 **(1)** A provision of law increasing the rate of pay payable for an office or position within the purview of subparagraph (A), (B), (C), or (D) of section 356 of this title shall not take effect before the beginning of the Congress following the Congress during which such provision is enacted.
 
@@ -504,7 +504,7 @@ The Commission shall, whenever it conducts a review under section 356 of this ti
 
 **(C)** which takes effect under section 702 or 703 of the Ethics Reform Act of 1989.
 
-(Pub. L. 90–206, title II, § 225(n), as added Pub. L. 101–194, title VII, § 701(k), Nov. 30, 1989, 103 Stat. 1767.)
+(Pub. L. 90–206, title II, § 225(n), as added Pub. L. 101–194, title VII, § 701(k), Nov. 30, 1989, 103 Stat. 1767.)
 
 **Editorial Notes**
 

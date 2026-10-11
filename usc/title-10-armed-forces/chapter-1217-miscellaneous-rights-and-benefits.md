@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2000—Pub. L. 106–398, § 1 [[div. A], title VI, § 663(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–168, added item 12604.
+2000—Pub. L. 106–398, § 1 [[div. A], title VI, § 663(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–168, added item 12604.
 
-1999—Pub. L. 106–65, div. A, title VI, § 652(a)(2), Oct. 5, 1999, 113 Stat. 665, added item 12605.
+1999—Pub. L. 106–65, div. A, title VI, § 652(a)(2), Oct. 5, 1999, 113 Stat. 665, added item 12605.
 
-1998—Pub. L. 105–261, div. A, title VI, § 635(b), Oct. 17, 1998, 112 Stat. 2045, added item 12603.
+1998—Pub. L. 105–261, div. A, title VI, § 635(b), Oct. 17, 1998, 112 Stat. 2045, added item 12603.
 
-## § 12601. Compensation: Reserve on active duty accepting from any person
+## § 12601. Compensation: Reserve on active duty accepting from any person
 
 Any Reserve who, before being ordered to active duty, was receiving compensation from any person may, while he is on that duty, receive compensation from that person.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1662(g)(1), Oct. 5, 1994, 108 Stat. 2995.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1662(g)(1), Oct. 5, 1994, 108 Stat. 2995.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 1033 of this title, prior to repeal by Pub. L. 103–337, § 1662(g)(2).
+Provisions similar to those in this section were contained in section 1033 of this title, prior to repeal by Pub. L. 103–337, § 1662(g)(2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -43,7 +43,7 @@ Provisions similar to those in this section were contained in section 1033 of th
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 12602. Members of Army National Guard of United States and Air National Guard of United States: credit for service as members of National Guard
+## § 12602. Members of Army National Guard of United States and Air National Guard of United States: credit for service as members of National Guard
 
 **(a)** For the purposes of laws providing benefits for members of the Army National Guard of the United States and their dependents and beneficiaries—
 
@@ -61,13 +61,13 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 **(3)** inactive-duty training performed by a member of the Air National Guard of the United States in his status as a member of the Air National Guard, in accordance with regulations prescribed under section 502 of title 32 or other express provision of law, shall be considered inactive-duty training in Federal service as a Reserve of the Air Force.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1662(g)(1), Oct. 5, 1994, 108 Stat. 2995.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1662(g)(1), Oct. 5, 1994, 108 Stat. 2995.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in sections 3686 and 8686 of this title, prior to repeal by Pub. L. 103–337, § 1662(g)(2).
+Provisions similar to those in this section were contained in sections 3686 and 8686 of this title, prior to repeal by Pub. L. 103–337, § 1662(g)(2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -75,7 +75,7 @@ Provisions similar to those in this section were contained in sections 3686 and 
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 12603. Attendance at inactive-duty training assemblies: commercial travel at Federal supply schedule rates
+## § 12603. Attendance at inactive-duty training assemblies: commercial travel at Federal supply schedule rates
 
 **(a) Federal Supply Schedule Travel.—** Commercial travel under Federal supply schedules is authorized for the travel of a Reserve to the location of inactive duty training to be performed by the Reserve and from that location upon completion of the training.
 
@@ -85,7 +85,7 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 **(d) Treatment of Transportation as Use by Military Departments.—** For the purposes of section 501 of title 40, travel authorized under subsection (a) shall be treated as transportation for the use of a military department.
 
-(Added Pub. L. 105–261, div. A, title VI, § 635(a), Oct. 17, 1998, 112 Stat. 2044; amended Pub. L. 107–217, § 3(b)(41), Aug. 21, 2002, 116 Stat. 1298.)
+(Added Pub. L. 105–261, div. A, title VI, § 635(a), Oct. 17, 1998, 112 Stat. 2044; amended Pub. L. 107–217, § 3(b)(41), Aug. 21, 2002, 116 Stat. 1298.)
 
 **Editorial Notes**
 
@@ -93,7 +93,7 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 2002—Subsec. (d). Pub. L. 107–217 substituted “section 501 of title 40” for “section 201(a) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481(a))”.
 
-## § 12604. Billeting in Department of Defense facilities: Reserves attending inactive-duty training
+## § 12604. Billeting in Department of Defense facilities: Reserves attending inactive-duty training
 
 **(a) Authority for Billeting on Same Basis as Active Duty Members Traveling Under Orders.—** The Secretary of Defense shall prescribe regulations authorizing a Reserve traveling to inactive-duty training at a location more than 50 miles from that Reserve’s residence to be eligible for billeting in Department of Defense facilities on the same basis and to the same extent as a member of the armed forces on active duty who is traveling under orders away from the member’s permanent duty station.
 
@@ -109,7 +109,7 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 **(4)** Decisions regarding the availability or adequacy of government housing at a military installation under paragraph (1) shall be made by the installation commander.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title VI, § 663(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–168; amended Pub. L. 117–81, div. A, title VI, § 603(a)(1), Dec. 27, 2021, 135 Stat. 1765.)
+(Added Pub. L. 106–398, § 1 [[div. A], title VI, § 663(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–168; amended Pub. L. 117–81, div. A, title VI, § 603(a)(1), Dec. 27, 2021, 135 Stat. 1765.)
 
 **Editorial Notes**
 
@@ -121,9 +121,9 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 **Effective Date**
 
-Pub. L. 106–398, § 1 [[div. A], title VI, § 663(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–168, provided that: “Section 12604 of title 10, United States Code, as added by subsection (a), shall apply with respect to periods of inactive-duty training beginning more than 180 days after the date of the enactment of this Act [Oct. 30, 2000].”
+Pub. L. 106–398, § 1 [[div. A], title VI, § 663(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–168, provided that: “Section 12604 of title 10, United States Code, as added by subsection (a), shall apply with respect to periods of inactive-duty training beginning more than 180 days after the date of the enactment of this Act [Oct. 30, 2000].”
 
-## § 12605. Presentation of United States flag: members transferred from an active status or discharged after completion of eligibility for retired pay
+## § 12605. Presentation of United States flag: members transferred from an active status or discharged after completion of eligibility for retired pay
 
 **(a) Presentation of Flag.—** Upon the transfer from an active status or discharge of a Reserve who has completed the years of service required for eligibility for retired pay under chapter 1223 of this title, the Secretary concerned shall present a United States flag to the member.
 
@@ -131,10 +131,10 @@ Pub. L. 106–398, § 1 [[div. A], title VI, § 663(b)], Oct. 30, 2000, 114 
 
 **(c) No Cost to Recipient.—** The presentation of a flag under this section shall be at no cost to the recipient.
 
-(Added Pub. L. 106–65, div. A, title VI, § 652(a)(1), Oct. 5, 1999, 113 Stat. 664.)
+(Added Pub. L. 106–65, div. A, title VI, § 652(a)(1), Oct. 5, 1999, 113 Stat. 664.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 106–65, div. A, title VI, § 652(d), Oct. 5, 1999, 113 Stat. 665, provided that: “Section 12605 of title 10, United States Code (as added by subsection (a)), section 213 of the Public Health Service Act [42 U.S.C. 214] (as added by subsection (b)), and section 25 of the Coast and Geodetic Survey Commissioned Officers’ Act of 1948 [33 U.S.C. 853v] (as added by subsection (c)) shall apply with respect to releases from service described in those sections on or after October 1, 1999.”
+Pub. L. 106–65, div. A, title VI, § 652(d), Oct. 5, 1999, 113 Stat. 665, provided that: “Section 12605 of title 10, United States Code (as added by subsection (a)), section 213 of the Public Health Service Act [42 U.S.C. 214] (as added by subsection (b)), and section 25 of the Coast and Geodetic Survey Commissioned Officers’ Act of 1948 [33 U.S.C. 853v] (as added by subsection (c)) shall apply with respect to releases from service described in those sections on or after October 1, 1999.”

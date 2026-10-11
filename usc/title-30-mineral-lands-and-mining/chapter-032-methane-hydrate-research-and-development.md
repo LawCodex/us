@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Codification**
 
-This chapter is comprised of Pub. L. 106–193, as amended generally by Pub. L. 109–58, title IX, § 968(a), Aug. 8, 2005, 119 Stat. 894, known as the Methane Hydrate Research and Development Act of 2000, which was formerly set out as a note under section 1902 of this title.
+This chapter is comprised of Pub. L. 106–193, as amended generally by Pub. L. 109–58, title IX, § 968(a), Aug. 8, 2005, 119 Stat. 894, known as the Methane Hydrate Research and Development Act of 2000, which was formerly set out as a note under section 1902 of this title.
 
-## § 2001. Findings
+## § 2001. Findings
 
 Congress finds that—
 
@@ -35,7 +35,7 @@ Congress finds that—
 
 **(5)** the National Academy of Sciences states that methane hydrate may have the potential to alleviate the projected shortfall in the natural gas supply.
 
-(Pub. L. 106–193, § 2, as added Pub. L. 109–58, title IX, § 968(a), Aug. 8, 2005, 119 Stat. 894.)
+(Pub. L. 106–193, § 2, as added Pub. L. 109–58, title IX, § 968(a), Aug. 8, 2005, 119 Stat. 894.)
 
 **Editorial Notes**
 
@@ -47,13 +47,13 @@ A prior section 2 of Pub. L. 106–193 was set out in a note under section 1902 
 
 **Short Title**
 
-Pub. L. 106–193, § 1, as added by Pub. L. 109–58, title IX, § 968(a), Aug. 8, 2005, 119 Stat. 894, provided that: “This Act [enacting this chapter] may be cited as the ‘Methane Hydrate Research and Development Act of 2000’.”
+Pub. L. 106–193, § 1, as added by Pub. L. 109–58, title IX, § 968(a), Aug. 8, 2005, 119 Stat. 894, provided that: “This Act [enacting this chapter] may be cited as the ‘Methane Hydrate Research and Development Act of 2000’.”
 
 **Reclassification**
 
-Pub. L. 109–58, title IX, § 968(b), Aug. 8, 2005, 119 Stat. 898, provided that: “The Law Revision Counsel shall reclassify the Methane Hydrate Research and Development Act of 2000 (30 U.S.C. 1902 note; Public Law 106–193) to a new chapter at the end of title 30, United States Code.”
+Pub. L. 109–58, title IX, § 968(b), Aug. 8, 2005, 119 Stat. 898, provided that: “The Law Revision Counsel shall reclassify the Methane Hydrate Research and Development Act of 2000 (30 U.S.C. 1902 note; Public Law 106–193) to a new chapter at the end of title 30, United States Code.”
 
-## § 2002. Definitions
+## § 2002. Definitions
 
 In this chapter:
 
@@ -97,7 +97,7 @@ The term “Secretary of Defense” means the Secretary of Defense, acting throu
 
 The term “Secretary of the Interior” means the Secretary of the Interior, acting through the Director of the United States Geological Survey, the Director of the Bureau of Land Management, and the Director of the Minerals Management Service.
 
-(Pub. L. 106–193, § 3, as added Pub. L. 109–58, title IX, § 968(a), Aug. 8, 2005, 119 Stat. 895.)
+(Pub. L. 106–193, § 3, as added Pub. L. 109–58, title IX, § 968(a), Aug. 8, 2005, 119 Stat. 895.)
 
 **Editorial Notes**
 
@@ -111,7 +111,7 @@ A prior section 3 of Pub. L. 106–193 was set out in a note under section 1902 
 
 The Minerals Management Service was abolished and functions divided among the Office of Natural Resources Revenue, the Bureau of Ocean Energy Management, and the Bureau of Safety and Environmental Enforcement. See Secretary of the Interior Orders No. 3299 of May 19, 2010, and No. 3302 of June 18, 2010, and chapters II, V, and XII of title 30, Code of Federal Regulations, as revised by final rules of the Department of the Interior at 75 F.R. 61051 and 76 F.R. 64432.
 
-## § 2003. Methane hydrate research and development program
+## § 2003. Methane hydrate research and development program
 
 **(a) In general**
 
@@ -203,7 +203,7 @@ None of the funds made available to carry out this section may be used for the c
 
 **(6)** ensure, to the maximum extent practicable, greater participation by the Department of Energy in international cooperative efforts.
 
-(Pub. L. 106–193, § 4, as added Pub. L. 109–58, title IX, § 968(a), Aug. 8, 2005, 119 Stat. 895.)
+(Pub. L. 106–193, § 4, as added Pub. L. 109–58, title IX, § 968(a), Aug. 8, 2005, 119 Stat. 895.)
 
 **Editorial Notes**
 
@@ -211,7 +211,7 @@ None of the funds made available to carry out this section may be used for the c
 
 A prior section 4 of Pub. L. 106–193 was set out in a note under section 1902 of this title prior to the general amendment of Pub. L. 106–193 by Pub. L. 109–58.
 
-## § 2004. National Research Council study
+## § 2004. National Research Council study
 
 **(a) Agreement for Study** The Secretary shall offer to enter into an agreement with the National Research Council under which the National Research Council shall—
 
@@ -223,7 +223,7 @@ A prior section 4 of Pub. L. 106–193 was set out in a note under section 1902 
 
 Not later than September 30, 2009, the Secretary shall submit to Congress a report containing the findings and recommendations of the National Research Council under this section.
 
-(Pub. L. 106–193, § 5, as added Pub. L. 109–58, title IX, § 968(a), Aug. 8, 2005, 119 Stat. 898.)
+(Pub. L. 106–193, § 5, as added Pub. L. 109–58, title IX, § 968(a), Aug. 8, 2005, 119 Stat. 898.)
 
 **Editorial Notes**
 
@@ -231,11 +231,11 @@ Not later than September 30, 2009, the Secretary shall submit to Congress a repo
 
 A prior section 5 of Pub. L. 106–193 was set out in a note under section 1902 of this title prior to the general amendment of Pub. L. 106–193 by Pub. L. 109–58.
 
-## § 2005. Reports and studies for Congress
+## § 2005. Reports and studies for Congress
 
 The Secretary shall provide to the Committee on Science of the House of Representatives and the Committee on Energy and Natural Resources of the Senate copies of any report or study that the Department of Energy prepares at the direction of any committee of Congress relating to the methane hydrate research and development program implemented under this chapter.
 
-(Pub. L. 106–193, § 6, as added Pub. L. 109–58, title IX, § 968(a), Aug. 8, 2005, 119 Stat. 898.)
+(Pub. L. 106–193, § 6, as added Pub. L. 109–58, title IX, § 968(a), Aug. 8, 2005, 119 Stat. 898.)
 
 **Editorial Notes**
 
@@ -249,7 +249,7 @@ A prior section 6 of Pub. L. 106–193 was set out in a note under section 1902 
 
 Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
-## § 2006. Authorization of appropriations
+## § 2006. Authorization of appropriations
 
 There are authorized to be appropriated to the Secretary to carry out this chapter, to remain available until expended—
 
@@ -263,7 +263,7 @@ There are authorized to be appropriated to the Secretary to carry out this chapt
 
 **(5)** $50,000,000 for fiscal year 2010.
 
-(Pub. L. 106–193, § 7, as added Pub. L. 109–58, title IX, § 968(a), Aug. 8, 2005, 119 Stat. 898.)
+(Pub. L. 106–193, § 7, as added Pub. L. 109–58, title IX, § 968(a), Aug. 8, 2005, 119 Stat. 898.)
 
 **Editorial Notes**
 

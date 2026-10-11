@@ -19,31 +19,31 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2008—Pub. L. 110–177, title II, § 201(b), Jan. 7, 2008, 121 Stat. 2536, added item 1521.
+2008—Pub. L. 110–177, title II, § 201(b), Jan. 7, 2008, 121 Stat. 2536, added item 1521.
 
-2002—Pub. L. 107–204, title VIII, §§ 802(b), 806(b), July 30, 2002, 116 Stat. 801, 804, added items 1514A, 1519, and 1520.
+2002—Pub. L. 107–204, title VIII, §§ 802(b), 806(b), July 30, 2002, 116 Stat. 801, 804, added items 1514A, 1519, and 1520.
 
-1996—Pub. L. 104–191, title II, § 245(b), Aug. 21, 1996, 110 Stat. 2018, added item 1518.
+1996—Pub. L. 104–191, title II, § 245(b), Aug. 21, 1996, 110 Stat. 2018, added item 1518.
 
-1990—Pub. L. 101–647, title XXV, § 2503(b), Nov. 29, 1990, 104 Stat. 4861, added item 1517.
+1990—Pub. L. 101–647, title XXV, § 2503(b), Nov. 29, 1990, 104 Stat. 4861, added item 1517.
 
-1988—Pub. L. 100–690, title VII, §§ 7030, 7078(b), Nov. 18, 1988, 102 Stat. 4398, 4406, inserted “; general provision” in item 1515 and added item 1516.
+1988—Pub. L. 100–690, title VII, §§ 7030, 7078(b), Nov. 18, 1988, 102 Stat. 4398, 4406, inserted “; general provision” in item 1515 and added item 1516.
 
-1982—Pub. L. 97–291, § 4(b), Oct. 12, 1982, 96 Stat. 1253, substituted “or juror” for “, juror or witness” after “officer” in item 1503, and added items 1512, 1513, 1514, and 1515.
+1982—Pub. L. 97–291, § 4(b), Oct. 12, 1982, 96 Stat. 1253, substituted “or juror” for “, juror or witness” after “officer” in item 1503, and added items 1512, 1513, 1514, and 1515.
 
-1970—Pub. L. 91–452, title VIII, § 802(b), Oct. 15, 1970, 84 Stat. 937, added item 1511.
+1970—Pub. L. 91–452, title VIII, § 802(b), Oct. 15, 1970, 84 Stat. 937, added item 1511.
 
-1967—Pub. L. 90–123, § 1(b), Nov. 3, 1967, 81 Stat. 362, added item 1510.
+1967—Pub. L. 90–123, § 1(b), Nov. 3, 1967, 81 Stat. 362, added item 1510.
 
-1962—Pub. L. 87–664, § 6(b), Sept. 19, 1962, 76 Stat. 552, substituted “Obstruction of proceedings before departments, agencies, and committees” for “Influencing or injuring witness before agencies and committees” in item 1505.
+1962—Pub. L. 87–664, § 6(b), Sept. 19, 1962, 76 Stat. 552, substituted “Obstruction of proceedings before departments, agencies, and committees” for “Influencing or injuring witness before agencies and committees” in item 1505.
 
-1960—Pub. L. 86–449, title I, § 102, May 6, 1960, 74 Stat. 86, added item 1509.
+1960—Pub. L. 86–449, title I, § 102, May 6, 1960, 74 Stat. 86, added item 1509.
 
-1956—Act Aug. 2, 1956, ch. 879, § 2, 70 Stat. 936, added item 1508.
+1956—Act Aug. 2, 1956, ch. 879, § 2, 70 Stat. 936, added item 1508.
 
-1950—Act Sept. 23, 1950, ch. 1024, title I, § 31(b), 64 Stat. 1019, added item 1507.
+1950—Act Sept. 23, 1950, ch. 1024, title I, § 31(b), 64 Stat. 1019, added item 1507.
 
-## § 1501. Assault on process server
+## § 1501. Assault on process server
 
 Whoever knowingly and willfully obstructs, resists, or opposes any officer of the United States, or other person duly authorized, in serving, or attempting to serve or execute, any legal or judicial writ or process of any court of the United States, or United States magistrate judge; or
 
@@ -51,11 +51,11 @@ Whoever assaults, beats, or wounds any officer or other person duly authorized, 
 
 Shall, except as otherwise provided by law, be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 769; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title XXXIII, § 330016(1)(F), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 769; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title XXXIII, § 330016(1)(F), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 245 (Mar. 4, 1909, ch. 321, § 140, 35 Stat. 1114).
+Based on title 18, U.S.C., 1940 ed., § 245 (Mar. 4, 1909, ch. 321, § 140, 35 Stat. 1114).
 
 The phrase “Except as otherwise expressly provided by law” was inserted because sections 2231, 2232, and 2233 of this title provide greater penalties for obstructing service of search warrants.
 
@@ -73,27 +73,27 @@ Minor changes were made in phraseology.
 
 **Change of Name**
 
-“United States magistrate judge” substituted for “United States magistrate” in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “United States magistrate” substituted for “United States commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
+“United States magistrate judge” substituted for “United States magistrate” in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “United States magistrate” substituted for “United States commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
 
 Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28.
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–204, title VIII, § 801, July 30, 2002, 116 Stat. 800, provided that: “This title [enacting sections 1348, 1514A, 1519, and 1520 of this title, amending section 523 of Title 11, Bankruptcy, and section 1658 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 994 and 1658 of Title 28] may be cited as the ‘Corporate and Criminal Fraud Accountability Act of 2002’.”
+Pub. L. 107–204, title VIII, § 801, July 30, 2002, 116 Stat. 800, provided that: “This title [enacting sections 1348, 1514A, 1519, and 1520 of this title, amending section 523 of Title 11, Bankruptcy, and section 1658 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 994 and 1658 of Title 28] may be cited as the ‘Corporate and Criminal Fraud Accountability Act of 2002’.”
 
 **Short Title of 1982 Amendment**
 
-Pub. L. 97–291, § 1, Oct. 12, 1982, 96 Stat. 1248, provided: “That this Act [enacting sections 1512 to 1515, 3579, and 3580 of this title, amending sections 1503, 1505, 1510, and 3146 of this title and Rule 32 of the Federal Rules of Civil Procedure, and enacting provisions set out as notes under sections 1512 and 3579 of this title] may be cited as the ‘Victim and Witness Protection Act of 1982’.”
+Pub. L. 97–291, § 1, Oct. 12, 1982, 96 Stat. 1248, provided: “That this Act [enacting sections 1512 to 1515, 3579, and 3580 of this title, amending sections 1503, 1505, 1510, and 3146 of this title and Rule 32 of the Federal Rules of Civil Procedure, and enacting provisions set out as notes under sections 1512 and 3579 of this title] may be cited as the ‘Victim and Witness Protection Act of 1982’.”
 
-## § 1502. Resistance to extradition agent
+## § 1502. Resistance to extradition agent
 
 Whoever knowingly and willfully obstructs, resists, or opposes an extradition agent of the United States in the execution of his duties, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 24, 1948, ch. 645, 62 Stat. 769; Pub. L. 103–322, title XXXIII, § 330016(1)(F), Sept. 13, 1994, 108 Stat. 2147.)
+(June 24, 1948, ch. 645, 62 Stat. 769; Pub. L. 103–322, title XXXIII, § 330016(1)(F), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 661 (R.S. 5277).
+Based on title 18, U.S.C., 1940 ed., § 661 (R.S. 5277).
 
 Said section 661 of title 18, U.S.C., 1940 ed., was incorporated in this section and section 752 of this title.
 
@@ -109,7 +109,7 @@ Punishment provision was rephrased in the alternative.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $300”.
 
-## § 1503. Influencing or injuring officer or juror generally
+## § 1503. Influencing or injuring officer or juror generally
 
 **(a)** Whoever corruptly, or by threats or force, or by any threatening letter or communication, endeavors to influence, intimidate, or impede any grand or petit juror, or officer in or of any court of the United States, or officer who may be serving at any examination or other proceeding before any United States magistrate judge or other committing magistrate, in the discharge of his duty, or injures any such grand or petit juror in his person or property on account of any verdict or indictment assented to by him, or on account of his being or having been such juror, or injures any such officer, magistrate judge, or other committing magistrate in his person or property on account of the performance of his official duties, or corruptly or by threats or force, or by any threatening letter or communication, influences, obstructs, or impedes, or endeavors to influence, obstruct, or impede, the due administration of justice, shall be punished as provided in subsection (b). If the offense under this section occurs in connection with a trial of a criminal case, and the act in violation of this section involves the threat of physical force or physical force, the maximum term of imprisonment which may be imposed for the offense shall be the higher of that otherwise provided by law or the maximum term that could have been imposed for any offense charged in such case.
 
@@ -121,11 +121,11 @@ Punishment provision was rephrased in the alternative.
 
 **(3)** in any other case, imprisonment for not more than 10 years, a fine under this title, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 769; Pub. L. 97–291, § 4(c), Oct. 12, 1982, 96 Stat. 1253; Pub. L. 103–322, title VI, § 60016, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 1974, 2147; Pub. L. 104–214, § 1(3), Oct. 1, 1996, 110 Stat. 3017.)
+(June 25, 1948, ch. 645, 62 Stat. 769; Pub. L. 97–291, § 4(c), Oct. 12, 1982, 96 Stat. 1253; Pub. L. 103–322, title VI, § 60016, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 1974, 2147; Pub. L. 104–214, § 1(3), Oct. 1, 1996, 110 Stat. 3017.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 241 (Mar. 4, 1909, ch. 321, § 135, 35 Stat. 1113; June 8, 1945, ch. 178, § 1, 59 Stat. 234).
+Based on title 18, U.S.C., 1940 ed., § 241 (Mar. 4, 1909, ch. 321, § 135, 35 Stat. 1113; June 8, 1945, ch. 178, § 1, 59 Stat. 234).
 
 The phrase “other committing magistrate” was substituted for “officer acting as such commissioner” in order to clarify meaning.
 
@@ -137,13 +137,13 @@ Minor changes were made in phraseology.
 
 1996—Subsec. (a). Pub. L. 104–214 inserted at end “If the offense under this section occurs in connection with a trial of a criminal case, and the act in violation of this section involves the threat of physical force or physical force, the maximum term of imprisonment which may be imposed for the offense shall be the higher of that otherwise provided by law or the maximum term that could have been imposed for any offense charged in such case.”
 
-1994—Pub. L. 103–322, § 330016(1)(K), which directed the substitution of “fined under this title” for “fined not more than $5,000”, could not be executed because the words “fined not more than $5,000” did not appear in text subsequent to amendment by Pub. L. 103–322, § 60016. See below.
+1994—Pub. L. 103–322, § 330016(1)(K), which directed the substitution of “fined under this title” for “fined not more than $5,000”, could not be executed because the words “fined not more than $5,000” did not appear in text subsequent to amendment by Pub. L. 103–322, § 60016. See below.
 
-Pub. L. 103–322, § 60016, designated existing provisions as subsec. (a), substituted “magistrate judge” for “commissioner” in two places and “punished as provided in subsection (b)” for “fined not more than $5,000 or imprisoned not more than five years, or both”, and added subsec. (b).
+Pub. L. 103–322, § 60016, designated existing provisions as subsec. (a), substituted “magistrate judge” for “commissioner” in two places and “punished as provided in subsection (b)” for “fined not more than $5,000 or imprisoned not more than five years, or both”, and added subsec. (b).
 
-1982—Pub. L. 97–291, § 4(c)(1), substituted “or juror” for “, juror or witness” after “officer” in section catchline.
+1982—Pub. L. 97–291, § 4(c)(1), substituted “or juror” for “, juror or witness” after “officer” in section catchline.
 
-Pub. L. 97–291, § 4(c)(2), (3), substituted in text “grand” for “witness, in any court of the United States or before any United States commissioner or other committing magistrate, or any grand” after “or impede any”, and struck out “injures any party or witness in his person or property on account of his attending or having attended such court or examination before such officer, commissioner, or other committing magistrate, or on account of his testifying or having testified to any matter pending therein, or” after “discharge of his duty, or”.
+Pub. L. 97–291, § 4(c)(2), (3), substituted in text “grand” for “witness, in any court of the United States or before any United States commissioner or other committing magistrate, or any grand” after “or impede any”, and struck out “injures any party or witness in his person or property on account of his attending or having attended such court or examination before such officer, commissioner, or other committing magistrate, or on account of his testifying or having testified to any matter pending therein, or” after “discharge of his duty, or”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -151,17 +151,17 @@ Pub. L. 97–291, § 4(c)(2), (3), substituted in text “grand” for “witn
 
 Amendment by Pub. L. 97–291 effective Oct. 12, 1982, see section 9(a) of Pub. L. 97–291, set out as an Effective Date note under section 1512 of this title.
 
-## § 1504. Influencing juror by writing
+## § 1504. Influencing juror by writing
 
 Whoever attempts to influence the action or decision of any grand or petit juror of any court of the United States upon any issue or matter pending before such juror, or before the jury of which he is a member, or pertaining to his duties, by writing or sending to him any written communication, in relation to such issue or matter, shall be fined under this title or imprisoned not more than six months, or both.
 
 Nothing in this section shall be construed to prohibit the communication of a request to appear before the grand jury.
 
-(June 25, 1948, ch. 645, 62 Stat. 770; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 770; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 243 (Mar. 4, 1909, ch. 321, § 137, 35 Stat. 1113).
+Based on title 18, U.S.C., 1940 ed., § 243 (Mar. 4, 1909, ch. 321, § 137, 35 Stat. 1113).
 
 Last paragraph was added to remove the possibility that a proper request to appear before a grand jury might be construed as a technical violation of this section.
 
@@ -173,7 +173,7 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in first par.
 
-## § 1505. Obstruction of proceedings before departments, agencies, and committees
+## § 1505. Obstruction of proceedings before departments, agencies, and committees
 
 Whoever, with intent to avoid, evade, prevent, or obstruct compliance, in whole or in part, with any civil investigative demand duly and properly made under the Antitrust Civil Process Act, willfully withholds, misrepresents, removes from any place, conceals, covers up, destroys, mutilates, alters, or by other means falsifies any documentary material, answers to written interrogatories, or oral testimony, which is the subject of such demand; or attempts to do so or solicits another to do so; or
 
@@ -181,11 +181,11 @@ Whoever corruptly, or by threats or force, or by any threatening letter or commu
 
 Shall be fined under this title, imprisoned not more than 5 years or, if the offense involves international or domestic terrorism (as defined in section 2331), imprisoned not more than 8 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 770; Pub. L. 87–664, § 6(a), Sept. 19, 1962, 76 Stat. 551; Pub. L. 91–452, title IX, § 903, Oct. 15, 1970, 84 Stat. 947; Pub. L. 94–435, title I, § 105, Sept. 30, 1976, 90 Stat. 1389; Pub. L. 97–291, § 4(d), Oct. 12, 1982, 96 Stat. 1253; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 108–458, title VI, § 6703(a), Dec. 17, 2004, 118 Stat. 3766.)
+(June 25, 1948, ch. 645, 62 Stat. 770; Pub. L. 87–664, § 6(a), Sept. 19, 1962, 76 Stat. 551; Pub. L. 91–452, title IX, § 903, Oct. 15, 1970, 84 Stat. 947; Pub. L. 94–435, title I, § 105, Sept. 30, 1976, 90 Stat. 1389; Pub. L. 97–291, § 4(d), Oct. 12, 1982, 96 Stat. 1253; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 108–458, title VI, § 6703(a), Dec. 17, 2004, 118 Stat. 3766.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 241a, (Mar. 4, 1909, ch. 321, § 135a, as added Jan. 13, 1940, ch. 1, 54 Stat. 13; June 8, 1945, ch. 178, § 2, 59 Stat. 234).
+Based on title 18, U.S.C., 1940 ed., § 241a, (Mar. 4, 1909, ch. 321, § 135a, as added Jan. 13, 1940, ch. 1, 54 Stat. 13; June 8, 1945, ch. 178, § 2, 59 Stat. 234).
 
 Word “agency” was substituted for the words “independent establishment, board, commission” in two instances to eliminate any possible ambiguity as to scope of section. (See definitive section 6 of this title.)
 
@@ -195,7 +195,7 @@ Minor changes were made in phraseology.
 
 **References in Text**
 
-The Antitrust Civil Process Act, referred to in text, is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, which is classified principally to chapter 34 (§ 1311 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of Title 15 and Tables.
+The Antitrust Civil Process Act, referred to in text, is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, which is classified principally to chapter 34 (§ 1311 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of Title 15 and Tables.
 
 **Amendments**
 
@@ -221,7 +221,7 @@ Amendment by Pub. L. 97–291 effective Oct. 12, 1982, see section 9(a) of Pub. 
 
 Amendment by Pub. L. 94–435 effective Sept. 30, 1976, see section 106 of Pub. L. 94–435, set out as a note under section 1311 of Title 15, Commerce and Trade.
 
-## § 1506. Theft or alteration of record or process; false bail
+## § 1506. Theft or alteration of record or process; false bail
 
 Whoever feloniously steals, takes away, alters, falsifies, or otherwise avoids any record, writ, process, or other proceeding, in any court of the United States, whereby any judgment is reversed, made void, or does not take effect; or
 
@@ -229,11 +229,11 @@ Whoever acknowledges, or procures to be acknowledged in any such court, any reco
 
 Shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 770; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 770; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 233 (Mar. 4, 1909, ch. 321, § 127, 35 Stat. 1111).
+Based on title 18, U.S.C., 1940 ed., § 233 (Mar. 4, 1909, ch. 321, § 127, 35 Stat. 1111).
 
 The term of imprisonment was reduced from 7 to 5 years, to conform the punishment with like ones for similar offenses. (See section 1503 of this title.)
 
@@ -245,13 +245,13 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in last par.
 
-## § 1507. Picketing or parading
+## § 1507. Picketing or parading
 
 Whoever, with the intent of interfering with, obstructing, or impeding the administration of justice, or with the intent of influencing any judge, juror, witness, or court officer, in the discharge of his duty, pickets or parades in or near a building housing a court of the United States, or in or near a building or residence occupied or used by such judge, juror, witness, or court officer, or with such intent uses any sound-truck or similar device or resorts to any other demonstration in or near any such building or residence, shall be fined under this title or imprisoned not more than one year, or both.
 
 Nothing in this section shall interfere with or prevent the exercise by any court of the United States of its power to punish for contempt.
 
-(Added Sept. 23, 1950, ch. 1024, title I, § 31(a), 64 Stat. 1018; amended Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Sept. 23, 1950, ch. 1024, title I, § 31(a), 64 Stat. 1018; amended Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Editorial Notes**
 
@@ -259,7 +259,7 @@ Nothing in this section shall interfere with or prevent the exercise by any cour
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in first par.
 
-## § 1508. Recording, listening to, or observing proceedings of grand or petit juries while deliberating or voting
+## § 1508. Recording, listening to, or observing proceedings of grand or petit juries while deliberating or voting
 
 Whoever knowingly and willfully, by any means or device whatsoever—
 
@@ -271,7 +271,7 @@ shall be fined under this title or imprisoned not more than one year, or both.
 
 Nothing in paragraph (a) of this section shall be construed to prohibit the taking of notes by a grand or petit juror in any court of the United States in connection with and solely for the purpose of assisting him in the performance of his duties as such juror.
 
-(Added Aug. 2, 1956, ch. 879, § 1, 70 Stat. 935; amended Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, § 601(f)(13), Oct. 11, 1996, 110 Stat. 3500.)
+(Added Aug. 2, 1956, ch. 879, § 1, 70 Stat. 935; amended Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, § 601(f)(13), Oct. 11, 1996, 110 Stat. 3500.)
 
 **Editorial Notes**
 
@@ -281,13 +281,13 @@ Nothing in paragraph (a) of this section shall be construed to prohibit the taki
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in par. following par. (b).
 
-## § 1509. Obstruction of court orders
+## § 1509. Obstruction of court orders
 
 Whoever, by threats or force, willfully prevents, obstructs, impedes, or interferes with, or willfully attempts to prevent, obstruct, impede, or interfere with, the due exercise of rights or the performance of duties under any order, judgment, or decree of a court of the United States, shall be fined under this title or imprisoned not more than one year, or both.
 
 No injunctive or other civil relief against the conduct made criminal by this section shall be denied on the ground that such conduct is a crime.
 
-(Added Pub. L. 86–449, title I, § 101, May 6, 1960, 74 Stat. 86; amended Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 86–449, title I, § 101, May 6, 1960, 74 Stat. 86; amended Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Editorial Notes**
 
@@ -295,7 +295,7 @@ No injunctive or other civil relief against the conduct made criminal by this se
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in first par.
 
-## § 1510. Obstruction of criminal investigations
+## § 1510. Obstruction of criminal investigations
 
 **(a)** Whoever willfully endeavors by means of bribery to obstruct, delay, or prevent the communication of information relating to a violation of any criminal statute of the United States by any person to a criminal investigator shall be fined under this title, or imprisoned not more than five years, or both.
 
@@ -335,49 +335,49 @@ with intent to obstruct a judicial proceeding, directly or indirectly notifies a
 
 **(2)** As used in paragraph (1), the term “subpoena for records” means a Federal grand jury subpoena for records that has been served relating to a violation of, or a conspiracy to violate, section 1033 of this title.
 
-**(e)** Whoever, having been notified of the applicable disclosure prohibitions or confidentiality requirements of section 2709(c)(1) of this title, section 626(d)(1) or 627(c)(1) of the Fair Credit Reporting Act (15 U.S.C. 1681u(d)(1) or 1681v(c)(1)), section 1114(a)(3)(A) or 1114(a)(5)(D)(i) of the Right to Financial Privacy Act 1
+**(e)** Whoever, having been notified of the applicable disclosure prohibitions or confidentiality requirements of section 2709(c)(1) of this title, section 626(d)(1) or 627(c)(1) of the Fair Credit Reporting Act (15 U.S.C. 1681u(d)(1) or 1681v(c)(1)), section 1114(a)(3)(A) or 1114(a)(5)(D)(i) of the Right to Financial Privacy Act 1
 
-<sup>1</sup>  So in original. Probably should be followed by “of 1978”.
+<sup>1</sup> So in original. Probably should be followed by “of 1978”.
 
 (12 U.S.C. 3414(a)(3)(A) or 3414(a)(5)(D)(i)), or section 802(b)(1) of the National Security Act of 1947 (50 U.S.C. 436(b)(1)),2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 knowingly and with the intent to obstruct an investigation or judicial proceeding violates such prohibitions or requirements applicable by law to such person shall be imprisoned for not more than five years, fined under this title, or both.
 
-(Added Pub. L. 90–123, § 1(a), Nov. 3, 1967, 81 Stat. 362; amended Pub. L. 97–291, § 4(e), Oct. 12, 1982, 96 Stat. 1253; Pub. L. 101–73, title IX, § 962(c), Aug. 9, 1989, 103 Stat. 502; Pub. L. 102–550, title XV, § 1528, Oct. 28, 1992, 106 Stat. 4065; Pub. L. 103–322, title XXXII, § 320604(c), title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2119, 2147; Pub. L. 104–191, title II, § 248(c), Aug. 21, 1996, 110 Stat. 2020; Pub. L. 109–177, title I, § 117, Mar. 9, 2006, 120 Stat. 217; Pub. L. 111–148, title X, § 10606(d)(1), Mar. 23, 2010, 124 Stat. 1008; Pub. L. 116–283, div. F, title LXIII, § 6308(c), Jan. 1, 2021, 134 Stat. 4594.)
+(Added Pub. L. 90–123, § 1(a), Nov. 3, 1967, 81 Stat. 362; amended Pub. L. 97–291, § 4(e), Oct. 12, 1982, 96 Stat. 1253; Pub. L. 101–73, title IX, § 962(c), Aug. 9, 1989, 103 Stat. 502; Pub. L. 102–550, title XV, § 1528, Oct. 28, 1992, 106 Stat. 4065; Pub. L. 103–322, title XXXII, § 320604(c), title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2119, 2147; Pub. L. 104–191, title II, § 248(c), Aug. 21, 1996, 110 Stat. 2020; Pub. L. 109–177, title I, § 117, Mar. 9, 2006, 120 Stat. 217; Pub. L. 111–148, title X, § 10606(d)(1), Mar. 23, 2010, 124 Stat. 1008; Pub. L. 116–283, div. F, title LXIII, § 6308(c), Jan. 1, 2021, 134 Stat. 4594.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Security Act of 1947, referred to in subsec. (e), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 802 of this Act is now classified to section 3162 of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (e), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Section 802 of this Act is now classified to section 3162 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
-2021—Subsec. (b)(3)(B). Pub. L. 116–283, § 6308(c)(1), substituted “, a subpoena issued under section 3486 of this title, or an order or subpoena issued in accordance with section 3512 of this title, section 5318 of title 31, or section 1782 of title 28” for “or a Department of Justice subpoena (issued under section 3486 of title 18)” in introductory provisions.
+2021—Subsec. (b)(3)(B). Pub. L. 116–283, § 6308(c)(1), substituted “, a subpoena issued under section 3486 of this title, or an order or subpoena issued in accordance with section 3512 of this title, section 5318 of title 31, or section 1782 of title 28” for “or a Department of Justice subpoena (issued under section 3486 of title 18)” in introductory provisions.
 
-Subsec. (b)(3)(B)(i). Pub. L. 116–283, § 6308(c)(2), inserted “, 1960, an offense against a foreign nation constituting specified unlawful activity under section 1956, a foreign offense for which enforcement of a foreign forfeiture judgment could be brought under section 2467 of title 28” after “1957”.
+Subsec. (b)(3)(B)(i). Pub. L. 116–283, § 6308(c)(2), inserted “, 1960, an offense against a foreign nation constituting specified unlawful activity under section 1956, a foreign offense for which enforcement of a foreign forfeiture judgment could be brought under section 2467 of title 28” after “1957”.
 
-2010—Subsec. (b)(1). Pub. L. 111–148, § 10606(d)(1)(A), struck out “to the grand jury” after “has been furnished”.
+2010—Subsec. (b)(1). Pub. L. 111–148, § 10606(d)(1)(A), struck out “to the grand jury” after “has been furnished”.
 
-Subsec. (b)(2). Pub. L. 111–148, § 10606(d)(1)(B)(ii), struck out “to the grand jury” after “has been furnished” in concluding provisions.
+Subsec. (b)(2). Pub. L. 111–148, § 10606(d)(1)(B)(ii), struck out “to the grand jury” after “has been furnished” in concluding provisions.
 
-Subsec. (b)(2)(A). Pub. L. 111–148, § 10606(d)(1)(B)(i), substituted “subpoena for records” for “grand jury subpoena”.
+Subsec. (b)(2)(A). Pub. L. 111–148, § 10606(d)(1)(B)(i), substituted “subpoena for records” for “grand jury subpoena”.
 
 2006—Subsec. (e). Pub. L. 109–177 added subsec. (e).
 
 1996—Subsec. (b)(3)(B). Pub. L. 104–191 which directed the insertion of “or a Department of Justice subpoena (issued under section 3486 of title 18),” after “subpoena”, was executed by making the insertion after “subpoena” the second place it appeared to reflect the probable intent of Congress.
 
-1994—Subsec. (a). Pub. L. 103–322, § 330016(1)(K), substituted “fined under this title” for “fined not more than $5,000”.
+1994—Subsec. (a). Pub. L. 103–322, § 330016(1)(K), substituted “fined under this title” for “fined not more than $5,000”.
 
-Subsec. (d). Pub. L. 103–322, § 320604(c), added subsec. (d).
+Subsec. (d). Pub. L. 103–322, § 320604(c), added subsec. (d).
 
 1992—Subsec. (b)(3)(B)(i). Pub. L. 102–550 substituted “1344, 1956, 1957, or chapter 53 of title 31” for “or 1344”.
 
 1989—Subsecs. (b), (c). Pub. L. 101–73 added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1982—Subsec. (a). Pub. L. 97–291 struck out “, misrepresentation, intimidation, or force or threats thereof” after “bribery”, and struck out provision applying the penalties provided by this subsection to whoever injured any person in his person or property on account of the giving by such person or any other person of any information relating to a violation of any criminal statute of the United States to any criminal investigator.
+1982—Subsec. (a). Pub. L. 97–291 struck out “, misrepresentation, intimidation, or force or threats thereof” after “bribery”, and struck out provision applying the penalties provided by this subsection to whoever injured any person in his person or property on account of the giving by such person or any other person of any information relating to a violation of any criminal statute of the United States to any criminal investigator.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -385,7 +385,7 @@ Subsec. (d). Pub. L. 103–322, § 320604(c), added subsec. (d).
 
 Amendment by Pub. L. 97–291 effective Oct. 12, 1982, see section 9(a) of Pub. L. 97–291, set out as an Effective Date note under section 1512 of this title.
 
-## § 1511. Obstruction of State or local law enforcement
+## § 1511. Obstruction of State or local law enforcement
 
 **(a)** It shall be unlawful for two or more persons to conspire to obstruct the enforcement of the criminal laws of a State or political subdivision thereof, with the intent to facilitate an illegal gambling business if—
 
@@ -413,7 +413,7 @@ Amendment by Pub. L. 97–291 effective Oct. 12, 1982, see section 9(a) of Pub. 
 
 **(d)** Whoever violates this section shall be punished by a fine under this title or imprisonment for not more than five years, or both.
 
-(Added Pub. L. 91–452, title VIII, § 802(a), Oct. 15, 1970, 84 Stat. 936; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–322, title XXXIII, § 330016(2)(C), Sept. 13, 1994, 108 Stat. 2148.)
+(Added Pub. L. 91–452, title VIII, § 802(a), Oct. 15, 1970, 84 Stat. 936; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–322, title XXXIII, § 330016(2)(C), Sept. 13, 1994, 108 Stat. 2148.)
 
 **Editorial Notes**
 
@@ -431,13 +431,13 @@ Paragraph (3) of subsection (c) of section 501 of the Internal Revenue Code of 1
 
 **Congressional Statement of Findings**
 
-Pub. L. 91–452, title VIII, § 801, Oct. 15, 1970, 84 Stat. 936, provided that: “The Congress finds that illegal gambling involves widespread use of, and has an effect upon, interstate commerce and the facilities thereof.”
+Pub. L. 91–452, title VIII, § 801, Oct. 15, 1970, 84 Stat. 936, provided that: “The Congress finds that illegal gambling involves widespread use of, and has an effect upon, interstate commerce and the facilities thereof.”
 
 **Priority of State Laws**
 
-Pub. L. 91–452, title VIII, § 811, Oct. 15, 1970, 84 Stat. 940, provided that: “No provision of this title [enacting this section and section 1955 of this title, amending section 2516 of this title, and enacting provisions set out as notes under this section and section 1955 of this title] indicates an intent on the part of the Congress to occupy the field in which such provision operates to the exclusion of the law of a state or possession, or a political subdivision of a State or possession, on the same subject matter, or to relieve any person of any obligation imposed by any law of any State or possession, or political subdivision of a State or possession.”
+Pub. L. 91–452, title VIII, § 811, Oct. 15, 1970, 84 Stat. 940, provided that: “No provision of this title [enacting this section and section 1955 of this title, amending section 2516 of this title, and enacting provisions set out as notes under this section and section 1955 of this title] indicates an intent on the part of the Congress to occupy the field in which such provision operates to the exclusion of the law of a state or possession, or a political subdivision of a State or possession, on the same subject matter, or to relieve any person of any obligation imposed by any law of any State or possession, or political subdivision of a State or possession.”
 
-## § 1512. Tampering with a witness, victim, or an informant
+## § 1512. Tampering with a witness, victim, or an informant
 
 **(a)**
 
@@ -497,9 +497,9 @@ imprisonment for not more than 30 years; and
 
 **(D)** be absent from an official proceeding to which such person has been summoned by legal process; or
 
-**(3)** hinder, delay, or prevent the communication to a law enforcement officer or judge of the United States of information relating to the commission or possible commission of a Federal offense or a violation of conditions of probation 1
+**(3)** hinder, delay, or prevent the communication to a law enforcement officer or judge of the United States of information relating to the commission or possible commission of a Federal offense or a violation of conditions of probation 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 supervised release,,1 parole, or release pending judicial proceedings;
 
@@ -517,7 +517,7 @@ shall be fined under this title or imprisoned not more than 20 years, or both.
 
 **(1)** attending or testifying in an official proceeding;
 
-**(2)** reporting to a law enforcement officer or judge of the United States the commission or possible commission of a Federal offense or a violation of conditions of probation <sup>1</sup> supervised release,,<sup>1</sup> parole, or release pending judicial proceedings;
+**(2)** reporting to a law enforcement officer or judge of the United States the commission or possible commission of a Federal offense or a violation of conditions of probation <sup>1</sup> supervised release,,<sup>1</sup> parole, or release pending judicial proceedings;
 
 **(3)** arresting or seeking the arrest of another person in connection with a Federal offense; or
 
@@ -547,59 +547,59 @@ or attempts to do so, shall be fined under this title or imprisoned not more tha
 
 **(k)** Whoever conspires to commit any offense under this section shall be subject to the same penalties as those prescribed for the offense the commission of which was the object of the conspiracy.
 
-(Added Pub. L. 97–291, § 4(a), Oct. 12, 1982, 96 Stat. 1249; amended Pub. L. 99–646, § 61, Nov. 10, 1986, 100 Stat. 3614; Pub. L. 100–690, title VII, § 7029(a), (c), Nov. 18, 1988, 102 Stat. 4397, 4398; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title VI, § 60018, title XXXIII, § 330016(1)(O), (U), Sept. 13, 1994, 108 Stat. 1975, 2148; Pub. L. 104–214, § 1(2), Oct. 1, 1996, 110 Stat. 3017; Pub. L. 104–294, title VI, § 604(b)(31), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 107–204, title XI, § 1102, July 30, 2002, 116 Stat. 807; Pub. L. 107–273, div. B, title III, § 3001(a), (c)(1), Nov. 2, 2002, 116 Stat. 1803, 1804; Pub. L. 110–177, title II, § 205, Jan. 7, 2008, 121 Stat. 2537.)
+(Added Pub. L. 97–291, § 4(a), Oct. 12, 1982, 96 Stat. 1249; amended Pub. L. 99–646, § 61, Nov. 10, 1986, 100 Stat. 3614; Pub. L. 100–690, title VII, § 7029(a), (c), Nov. 18, 1988, 102 Stat. 4397, 4398; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title VI, § 60018, title XXXIII, § 330016(1)(O), (U), Sept. 13, 1994, 108 Stat. 1975, 2148; Pub. L. 104–214, § 1(2), Oct. 1, 1996, 110 Stat. 3017; Pub. L. 104–294, title VI, § 604(b)(31), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 107–204, title XI, § 1102, July 30, 2002, 116 Stat. 807; Pub. L. 107–273, div. B, title III, § 3001(a), (c)(1), Nov. 2, 2002, 116 Stat. 1803, 1804; Pub. L. 110–177, title II, § 205, Jan. 7, 2008, 121 Stat. 2537.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a)(3)(A). Pub. L. 110–177, § 205(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “in the case of murder (as defined in section 1111), the death penalty or imprisonment for life, and in the case of any other killing, the punishment provided in section 1112;”.
+2008—Subsec. (a)(3)(A). Pub. L. 110–177, § 205(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “in the case of murder (as defined in section 1111), the death penalty or imprisonment for life, and in the case of any other killing, the punishment provided in section 1112;”.
 
-Subsec. (a)(3)(B). Pub. L. 110–177, § 205(1)(B), substituted “30 years” for “20 years” in concluding provisions.
+Subsec. (a)(3)(B). Pub. L. 110–177, § 205(1)(B), substituted “30 years” for “20 years” in concluding provisions.
 
-Subsec. (a)(3)(C). Pub. L. 110–177, § 205(1)(C), substituted “20 years” for “10 years”.
+Subsec. (a)(3)(C). Pub. L. 110–177, § 205(1)(C), substituted “20 years” for “10 years”.
 
-Subsec. (b). Pub. L. 110–177, § 205(2), substituted “20 years” for “ten years” in concluding provisions.
+Subsec. (b). Pub. L. 110–177, § 205(2), substituted “20 years” for “ten years” in concluding provisions.
 
-Subsec. (d). Pub. L. 110–177, § 205(3), substituted “3 years” for “one year” in concluding provisions.
+Subsec. (d). Pub. L. 110–177, § 205(3), substituted “3 years” for “one year” in concluding provisions.
 
-2002—Subsec. (a)(1). Pub. L. 107–273, § 3001(a)(1)(A), substituted “as provided in paragraph (3)” for “as provided in paragraph (2)” in concluding provisions.
+2002—Subsec. (a)(1). Pub. L. 107–273, § 3001(a)(1)(A), substituted “as provided in paragraph (3)” for “as provided in paragraph (2)” in concluding provisions.
 
-Subsec. (a)(2). Pub. L. 107–273, § 3001(a)(1)(C), added par. (2). Former par. (2) redesignated (3).
+Subsec. (a)(2). Pub. L. 107–273, § 3001(a)(1)(C), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (a)(3). Pub. L. 107–273, § 3001(a)(1)(B), (D), redesignated par. (2) as (3), added subpars. (B) and (C), and struck out former subpar. (B) which read as follows: “(B) in the case of an attempt, imprisonment for not more than twenty years.”
+Subsec. (a)(3). Pub. L. 107–273, § 3001(a)(1)(B), (D), redesignated par. (2) as (3), added subpars. (B) and (C), and struck out former subpar. (B) which read as follows: “(B) in the case of an attempt, imprisonment for not more than twenty years.”
 
-Subsec. (b). Pub. L. 107–273, § 3001(a)(2), struck out “or physical force” after “intimidation” in introductory provisions.
+Subsec. (b). Pub. L. 107–273, § 3001(a)(2), struck out “or physical force” after “intimidation” in introductory provisions.
 
-Subsec. (b)(3). Pub. L. 107–273, § 3001(c)(1), inserted “supervised release,” after “probation”.
+Subsec. (b)(3). Pub. L. 107–273, § 3001(c)(1), inserted “supervised release,” after “probation”.
 
 Subsec. (c). Pub. L. 107–204 added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 107–204 redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (d)(2). Pub. L. 107–273, § 3001(c)(1), inserted “supervised release,” after “probation”.
+Subsec. (d)(2). Pub. L. 107–273, § 3001(c)(1), inserted “supervised release,” after “probation”.
 
 Subsecs. (e) to (j). Pub. L. 107–204 redesignated former subsecs. (d) to (i) as (e) to (j), respectively.
 
-Subsec. (k). Pub. L. 107–273, § 3001(a)(3), added subsec. (k).
+Subsec. (k). Pub. L. 107–273, § 3001(a)(3), added subsec. (k).
 
 1996—Subsec. (a)(2)(A). Pub. L. 104–294 inserted “and” after semicolon at end.
 
 Subsec. (i). Pub. L. 104–214 added subsec. (i).
 
-1994—Subsec. (a)(2)(A). Pub. L. 103–322, § 60018, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “(A) in the case of a killing, the punishment provided in sections 1111 and 1112 of this title; and”.
+1994—Subsec. (a)(2)(A). Pub. L. 103–322, § 60018, amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “(A) in the case of a killing, the punishment provided in sections 1111 and 1112 of this title; and”.
 
-Subsec. (b). Pub. L. 103–322, § 330016(1)(U), substituted “fined under this title” for “fined not more than $250,000” in concluding provisions.
+Subsec. (b). Pub. L. 103–322, § 330016(1)(U), substituted “fined under this title” for “fined not more than $250,000” in concluding provisions.
 
-Subsec. (c). Pub. L. 103–322, § 330016(1)(O), substituted “fined under this title” for “fined not more than $25,000” in concluding provisions.
+Subsec. (c). Pub. L. 103–322, § 330016(1)(O), substituted “fined under this title” for “fined not more than $25,000” in concluding provisions.
 
-1988—Subsec. (b). Pub. L. 100–690, § 7029(c), substituted “threatens, or corruptly persuades” for “or threatens”.
+1988—Subsec. (b). Pub. L. 100–690, § 7029(c), substituted “threatens, or corruptly persuades” for “or threatens”.
 
-Subsec. (h). Pub. L. 100–690, § 7029(a), added subsec. (h).
+Subsec. (h). Pub. L. 100–690, § 7029(a), added subsec. (h).
 
-1986—Subsec. (a). Pub. L. 99–646, § 61(2), (3), added subsec. (a) and redesignated former subsec. (a) as (b).
+1986—Subsec. (a). Pub. L. 99–646, § 61(2), (3), added subsec. (a) and redesignated former subsec. (a) as (b).
 
-Subsecs. (b) to (g). Pub. L. 99–646, § 61(1), (3), redesignated former subsec. (a) as (b), inserted “, delay, or prevent”, and redesignated former subsecs. (b) to (f) as (c) to (g), respectively.
+Subsecs. (b) to (g). Pub. L. 99–646, § 61(1), (3), redesignated former subsec. (a) as (b), inserted “, delay, or prevent”, and redesignated former subsecs. (b) to (f) as (c) to (g), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -613,7 +613,7 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 **Effective Date**
 
-Pub. L. 97–291, § 9, Oct. 12, 1982, 96 Stat. 1258, provided that:
+Pub. L. 97–291, § 9, Oct. 12, 1982, 96 Stat. 1258, provided that:
 
 > **“(a)** Except as provided in subsection (b), this Act and the amendments made by this Act [enacting this section and sections 1513 to 1515, 3579, and 3580 of this title, amending sections 1503, 1505, 1510, and 3146 of this title and Rule 32 of the Federal Rules of Criminal Procedure, and enacting provisions set out as notes under this section and sections 1501 and 3579 of this title] shall take effect on the date of the enactment of this Act [Oct. 12, 1982].
 
@@ -625,7 +625,7 @@ Pub. L. 97–291, § 9, Oct. 12, 1982, 96 Stat. 1258, provided that:
 
 **Congressional Findings and Declaration of Purposes**
 
-Pub. L. 97–291, § 2, Oct. 12, 1982, 96 Stat. 1248, provided that:
+Pub. L. 97–291, § 2, Oct. 12, 1982, 96 Stat. 1248, provided that:
 
 > **“(a)** The Congress finds and declares that:
 
@@ -653,7 +653,7 @@ Pub. L. 97–291, § 2, Oct. 12, 1982, 96 Stat. 1248, provided that:
 
 **Federal Guidelines for Treatment of Crime Victims and Witnesses in the Criminal Justice System**
 
-Pub. L. 97–291, § 6, Oct. 12, 1982, 96 Stat. 1256, as amended by Pub. L. 98–473, title II, § 1408(b), Oct. 12, 1984, 98 Stat. 2177, provided that:
+Pub. L. 97–291, § 6, Oct. 12, 1982, 96 Stat. 1256, as amended by Pub. L. 98–473, title II, § 1408(b), Oct. 12, 1984, 98 Stat. 2177, provided that:
 
 > **“(a)** Within two hundred and seventy days after the date of enactment of this Act [Oct. 12, 1982], the Attorney General shall develop and implement guidelines for the Department of Justice consistent with the purposes of this Act [see Short Title of 1982 Amendment note set out under section 1501 of this title]. In preparing the guidelines the Attorney General shall consider the following objectives:
 
@@ -707,7 +707,7 @@ Pub. L. 97–291, § 6, Oct. 12, 1982, 96 Stat. 1256, as amended by Pub. L. 98
 
 [Amendment of section 6 of Pub. L. 97–291 by Pub. L. 98–473, set out above, effective 30 days after Oct. 12, 1984, see section 1409(a) of Pub. L. 98–473, set out as an Effective Date note under section 20101 of Title 34, Crime Control and Law Enforcement.]
 
-## § 1513. Retaliating against a witness, victim, or an informant
+## § 1513. Retaliating against a witness, victim, or an informant
 
 **(a)**
 
@@ -743,45 +743,45 @@ or attempts to do so, shall be fined under this title or imprisoned not more tha
 
 **(g)** A prosecution under this section may be brought in the district in which the official proceeding (whether pending, about to be instituted, or completed) was intended to be affected, or in which the conduct constituting the alleged offense occurred.
 
-(Added Pub. L. 97–291, § 4(a), Oct. 12, 1982, 96 Stat. 1250; amended Pub. L. 103–322, title VI, § 60017, title XXXIII, § 330016(1)(U), Sept. 13, 1994, 108 Stat. 1975, 2148; Pub. L. 104–214, § 1(1), Oct. 1, 1996, 110 Stat. 3017; Pub. L. 107–204, title XI, § 1107(a), July 30, 2002, 116 Stat. 810; Pub. L. 107–273, div. B, title III, § 3001(b), (c)(2), title IV, § 4002(b)(4), Nov. 2, 2002, 116 Stat. 1804, 1807; Pub. L. 110–177, title II, §§ 204, 206, Jan. 7, 2008, 121 Stat. 2537.)
+(Added Pub. L. 97–291, § 4(a), Oct. 12, 1982, 96 Stat. 1250; amended Pub. L. 103–322, title VI, § 60017, title XXXIII, § 330016(1)(U), Sept. 13, 1994, 108 Stat. 1975, 2148; Pub. L. 104–214, § 1(1), Oct. 1, 1996, 110 Stat. 3017; Pub. L. 107–204, title XI, § 1107(a), July 30, 2002, 116 Stat. 810; Pub. L. 107–273, div. B, title III, § 3001(b), (c)(2), title IV, § 4002(b)(4), Nov. 2, 2002, 116 Stat. 1804, 1807; Pub. L. 110–177, title II, §§ 204, 206, Jan. 7, 2008, 121 Stat. 2537.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a)(1)(B). Pub. L. 110–177, § 206(1), inserted comma after “probation” and struck out comma after “release,”.
+2008—Subsec. (a)(1)(B). Pub. L. 110–177, § 206(1), inserted comma after “probation” and struck out comma after “release,”.
 
-Subsec. (a)(2)(B). Pub. L. 110–177, § 206(2), substituted “30 years” for “20 years”.
+Subsec. (a)(2)(B). Pub. L. 110–177, § 206(2), substituted “30 years” for “20 years”.
 
-Subsec. (b). Pub. L. 110–177, § 206(3)(B), substituted “20 years” for “ten years” in concluding provisions.
+Subsec. (b). Pub. L. 110–177, § 206(3)(B), substituted “20 years” for “ten years” in concluding provisions.
 
-Subsec. (b)(2). Pub. L. 110–177, § 206(3)(A), inserted comma after “probation” and struck out comma after “release,”.
+Subsec. (b)(2). Pub. L. 110–177, § 206(3)(A), inserted comma after “probation” and struck out comma after “release,”.
 
-Subsecs. (e), (f). Pub. L. 110–177, § 206(4), redesignated subsec. (e) relating to conspiracy to commit any offense under this section as (f).
+Subsecs. (e), (f). Pub. L. 110–177, § 206(4), redesignated subsec. (e) relating to conspiracy to commit any offense under this section as (f).
 
-Subsec. (g). Pub. L. 110–177, § 204, added subsec. (g).
+Subsec. (g). Pub. L. 110–177, § 204, added subsec. (g).
 
-2002—Subsecs. (a)(1)(B), (b)(2). Pub. L. 107–273, § 3001(c)(2), inserted “supervised release,” after “probation”.
+2002—Subsecs. (a)(1)(B), (b)(2). Pub. L. 107–273, § 3001(c)(2), inserted “supervised release,” after “probation”.
 
-Subsec. (d). Pub. L. 107–273, § 4002(b)(4), transferred subsec. (d) to appear after subsec. (c).
+Subsec. (d). Pub. L. 107–273, § 4002(b)(4), transferred subsec. (d) to appear after subsec. (c).
 
-Subsec. (e). Pub. L. 107–273, § 3001(b), added subsec. (e) relating to conspiracy to commit any offense under this section.
+Subsec. (e). Pub. L. 107–273, § 3001(b), added subsec. (e) relating to conspiracy to commit any offense under this section.
 
 Pub. L. 107–204 added subsec. (e) relating to taking of action harmful to any person for providing law enforcement officer truthful information relating to commission of offense.
 
-1996—Subsec. (c). Pub. L. 104–214, § 1(1)(B), added subsec. (c) at end.
+1996—Subsec. (c). Pub. L. 104–214, § 1(1)(B), added subsec. (c) at end.
 
-Pub. L. 104–214, § 1(1)(A), redesignated subsec. (c) as (d).
+Pub. L. 104–214, § 1(1)(A), redesignated subsec. (c) as (d).
 
-Subsec. (d). Pub. L. 104–214, § 1(1)(A), redesignated subsec. (c) as (d).
+Subsec. (d). Pub. L. 104–214, § 1(1)(A), redesignated subsec. (c) as (d).
 
-1994—Subsec. (a). Pub. L. 103–322, § 60017(2), added subsec. (a). Former subsec. (a) redesignated (b).
+1994—Subsec. (a). Pub. L. 103–322, § 60017(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
-Subsec. (b). Pub. L. 103–322, § 330016(1)(U), substituted “fined under this title” for “fined not more than $250,000” in concluding provisions.
+Subsec. (b). Pub. L. 103–322, § 330016(1)(U), substituted “fined under this title” for “fined not more than $250,000” in concluding provisions.
 
-Pub. L. 103–322, § 60017(1), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
+Pub. L. 103–322, § 60017(1), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 103–322, § 60017(1), redesignated subsec. (b) as (c).
+Subsec. (c). Pub. L. 103–322, § 60017(1), redesignated subsec. (b) as (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -789,7 +789,7 @@ Subsec. (c). Pub. L. 103–322, § 60017(1), redesignated subsec. (b) as (c).
 
 Section effective Oct. 12, 1982, see section 9(a) of Pub. L. 97–291, set out as a note under section 1512 of this title.
 
-## § 1514. Civil action to restrain harassment of a victim or witness
+## § 1514. Civil action to restrain harassment of a victim or witness
 
 **(a)**
 
@@ -843,9 +843,9 @@ Section effective Oct. 12, 1982, see section 9(a) of Pub. L. 97–291, set out a
 
 **(ii)** serves no legitimate purpose;
 
-**(E)** the term “restricted personal information” has the meaning give 1
+**(E)** the term “restricted personal information” has the meaning give 1
 
-<sup>1</sup>  So in original. Probably should be “given”.
+<sup>1</sup> So in original. Probably should be “given”.
 
 that term in section 119;
 
@@ -855,25 +855,25 @@ that term in section 119;
 
 **(2)** For purposes of subparagraphs (B)(ii) and (D)(ii) of paragraph (1), a court shall presume, subject to rebuttal by the person, that the distribution or publication using the Internet of a photograph of, or restricted personal information regarding, a specific person serves no legitimate purpose, unless that use is authorized by that specific person, is for news reporting purposes, is designed to locate that specific person (who has been reported to law enforcement as a missing person), or is part of a government-authorized effort to locate a fugitive or person of interest in a criminal, antiterrorism, or national security investigation.
 
-(Added Pub. L. 97–291, § 4(a), Oct. 12, 1982, 96 Stat. 1250; amended Pub. L. 111–16, § 3(2), (3), May 7, 2009, 123 Stat. 1607; Pub. L. 112–206, § 3(a), Dec. 7, 2012, 126 Stat. 1490.)
+(Added Pub. L. 97–291, § 4(a), Oct. 12, 1982, 96 Stat. 1250; amended Pub. L. 111–16, § 3(2), (3), May 7, 2009, 123 Stat. 1607; Pub. L. 112–206, § 3(a), Dec. 7, 2012, 126 Stat. 1490.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2012—Subsec. (b)(1). Pub. L. 112–206, § 3(a)(1)(A), inserted “or its own motion,” after “attorney for the Government,” and inserted “or investigation” after “Federal criminal case” in two places.
+2012—Subsec. (b)(1). Pub. L. 112–206, § 3(a)(1)(A), inserted “or its own motion,” after “attorney for the Government,” and inserted “or investigation” after “Federal criminal case” in two places.
 
-Subsec. (b)(2), (3). Pub. L. 112–206, § 3(a)(1)(B), (C), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
+Subsec. (b)(2), (3). Pub. L. 112–206, § 3(a)(1)(B), (C), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
 
-Subsec. (b)(4). Pub. L. 112–206, § 3(a)(1)(B), (D), redesignated par. (3) as (4) and struck out “(and not by reference to the complaint or other document)” after “describe in reasonable detail”. Former par. (4) redesignated (5).
+Subsec. (b)(4). Pub. L. 112–206, § 3(a)(1)(B), (D), redesignated par. (3) as (4) and struck out “(and not by reference to the complaint or other document)” after “describe in reasonable detail”. Former par. (4) redesignated (5).
 
-Subsec. (b)(5). Pub. L. 112–206, § 3(a)(1)(B), (E), redesignated par. (4) as (5) and inserted “, except that in the case of a minor victim or witness, the court may order that such protective order expires on the later of 3 years after the date of issuance or the date of the eighteenth birthday of that minor victim or witness” before period at end of second sentence.
+Subsec. (b)(5). Pub. L. 112–206, § 3(a)(1)(B), (E), redesignated par. (4) as (5) and inserted “, except that in the case of a minor victim or witness, the court may order that such protective order expires on the later of 3 years after the date of issuance or the date of the eighteenth birthday of that minor victim or witness” before period at end of second sentence.
 
-Subsecs. (c), (d). Pub. L. 112–206, § 3(a)(2), added subsecs. (c) and (d) and struck out former subsec. (c) which defined “harassment” and “course of conduct”.
+Subsecs. (c), (d). Pub. L. 112–206, § 3(a)(2), added subsecs. (c) and (d) and struck out former subsec. (c) which defined “harassment” and “course of conduct”.
 
-2009—Subsec. (a)(2)(C). Pub. L. 111–16, § 3(2), substituted “14 days” for “10 days” in two places.
+2009—Subsec. (a)(2)(C). Pub. L. 111–16, § 3(2), substituted “14 days” for “10 days” in two places.
 
-Subsec. (a)(2)(E). Pub. L. 111–16, § 3(3), inserted “, excluding intermediate weekends and holidays,” after “the Government”.
+Subsec. (a)(2)(E). Pub. L. 111–16, § 3(3), inserted “, excluding intermediate weekends and holidays,” after “the Government”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -885,11 +885,11 @@ Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 1
 
 Section effective Oct. 12, 1982, see section 9(a) of Pub. L. 97–291, set out as a note under section 1512 of this title.
 
-## § 1514A. Civil action to protect against retaliation in fraud cases
+## § 1514A. Civil action to protect against retaliation in fraud cases
 
 **(a) Whistleblower Protection for Employees of Publicly Traded Companies.—** No company with a class of securities registered under section 12 of the Securities Exchange Act of 1934 (15 U.S.C. 78*l*), or that is required to file reports under section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78*o*(d)) including any subsidiary or affiliate whose financial information is included in the consolidated financial statements of such company, or nationally recognized statistical rating organization (as defined in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c),1
 
-<sup>1</sup>  So in original. Another closing parenthesis probably should precede the comma.
+<sup>1</sup> So in original. Another closing parenthesis probably should precede the comma.
 
 or any officer, employee, contractor, subcontractor, or agent of such company or nationally recognized statistical rating organization, may discharge, demote, suspend, threaten, harass, or in any other manner discriminate against an employee in the terms and conditions of employment because of any lawful act done by the employee—
 
@@ -943,21 +943,21 @@ or any officer, employee, contractor, subcontractor, or agent of such company or
 
 **(2) Predispute arbitration agreements.—** No predispute arbitration agreement shall be valid or enforceable, if the agreement requires arbitration of a dispute arising under this section.
 
-(Added Pub. L. 107–204, title VIII, § 806(a), July 30, 2002, 116 Stat. 802; amended Pub. L. 111–203, title IX, §§ 922(b), (c), 929A, July 21, 2010, 124 Stat. 1848, 1852.)
+(Added Pub. L. 107–204, title VIII, § 806(a), July 30, 2002, 116 Stat. 802; amended Pub. L. 111–203, title IX, §§ 922(b), (c), 929A, July 21, 2010, 124 Stat. 1848, 1852.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–203, § 929A, in introductory provisions, inserted “including any subsidiary or affiliate whose financial information is included in the consolidated financial statements of such company” after “the Securities Exchange Act of 1934 (15 U.S.C. 78*o*(d))”.
+2010—Subsec. (a). Pub. L. 111–203, § 929A, in introductory provisions, inserted “including any subsidiary or affiliate whose financial information is included in the consolidated financial statements of such company” after “the Securities Exchange Act of 1934 (15 U.S.C. 78*o*(d))”.
 
-Pub. L. 111–203, § 922(b), in introductory provisions, inserted “or nationally recognized statistical rating organization (as defined in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c),” before “or any officer,” and “or nationally recognized statistical rating organization” before “, may discharge,”.
+Pub. L. 111–203, § 922(b), in introductory provisions, inserted “or nationally recognized statistical rating organization (as defined in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c),” before “or any officer,” and “or nationally recognized statistical rating organization” before “, may discharge,”.
 
-Subsec. (b)(2)(D). Pub. L. 111–203, § 922(c)(1)(A), substituted “180” for “90” and inserted “, or after the date on which the employee became aware of the violation” before period at end.
+Subsec. (b)(2)(D). Pub. L. 111–203, § 922(c)(1)(A), substituted “180” for “90” and inserted “, or after the date on which the employee became aware of the violation” before period at end.
 
-Subsec. (b)(2)(E). Pub. L. 111–203, § 922(c)(1)(B), added subpar. (E).
+Subsec. (b)(2)(E). Pub. L. 111–203, § 922(c)(1)(B), added subpar. (E).
 
-Subsec. (e). Pub. L. 111–203, § 922(c)(2), added subsec. (e).
+Subsec. (e). Pub. L. 111–203, § 922(c)(2), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -965,7 +965,7 @@ Subsec. (e). Pub. L. 111–203, § 922(c)(2), added subsec. (e).
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
-## § 1515. Definitions for certain provisions; general provision
+## § 1515. Definitions for certain provisions; general provision
 
 **(a)** As used in sections 1512 and 1513 of this title and in this section—
 
@@ -1017,7 +1017,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 **(c)** This chapter does not prohibit or punish the providing of lawful, bona fide, legal representation services in connection with or anticipation of an official proceeding.
 
-(Added Pub. L. 97–291, § 4(a), Oct. 12, 1982, 96 Stat. 1252; amended Pub. L. 99–646, § 50(b), Nov. 10, 1986, 100 Stat. 3605; Pub. L. 100–690, title VII, § 7029(b), (d), Nov. 18, 1988, 102 Stat. 4398; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–322, title XXXII, § 320604(a), Sept. 13, 1994, 108 Stat. 2118; Pub. L. 104–292, § 3, Oct. 11, 1996, 110 Stat. 3460; Pub. L. 104–294, title VI, § 604(b)(39), Oct. 11, 1996, 110 Stat. 3509.)
+(Added Pub. L. 97–291, § 4(a), Oct. 12, 1982, 96 Stat. 1252; amended Pub. L. 99–646, § 50(b), Nov. 10, 1986, 100 Stat. 3605; Pub. L. 100–690, title VII, § 7029(b), (d), Nov. 18, 1988, 102 Stat. 4398; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–322, title XXXII, § 320604(a), Sept. 13, 1994, 108 Stat. 2118; Pub. L. 104–292, § 3, Oct. 11, 1996, 110 Stat. 3460; Pub. L. 104–294, title VI, § 604(b)(39), Oct. 11, 1996, 110 Stat. 3509.)
 
 **Editorial Notes**
 
@@ -1031,11 +1031,11 @@ Subsecs. (b), (c). Pub. L. 104–292 added subsec. (b) and redesignated former s
 
 1992—Subsec. (a)(1)(A). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1988—Subsec. (a)(1)(A). Pub. L. 100–690, § 7029(b), inserted “a judge of the United States Tax Court, a special trial judge of the Tax Court, a judge of the United States Claims Court,” after “bankruptcy judge,”.
+1988—Subsec. (a)(1)(A). Pub. L. 100–690, § 7029(b), inserted “a judge of the United States Tax Court, a special trial judge of the Tax Court, a judge of the United States Claims Court,” after “bankruptcy judge,”.
 
-Subsec. (a)(6). Pub. L. 100–690, § 7029(d), added par. (6).
+Subsec. (a)(6). Pub. L. 100–690, § 7029(d), added par. (6).
 
-1986—Pub. L. 99–646 inserted “; general provision” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
+1986—Pub. L. 99–646 inserted “; general provision” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1055,7 +1055,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Section effective Oct. 12, 1982, see section 9(a) of Pub. L. 97–291, set out as a note under section 1512 of this title.
 
-## § 1516. Obstruction of Federal audit
+## § 1516. Obstruction of Federal audit
 
 **(a)** Whoever, with intent to deceive or defraud the United States, endeavors to influence, obstruct, or impede a Federal auditor in the performance of official duties relating to a person, entity, or program receiving in excess of $100,000, directly or indirectly, from the United States in any 1 year period under a contract or subcontract, grant, or cooperative agreement, or relating to any property that is security for a mortgage note that is insured, guaranteed, acquired, or held by the Secretary of Housing and Urban Development pursuant to any Act administered by the Secretary, or relating to any property that is security for a loan that is made or guaranteed under title V of the Housing Act of 1949, shall be fined under this title, or imprisoned not more than 5 years, or both.
 
@@ -1065,17 +1065,17 @@ Section effective Oct. 12, 1982, see section 9(a) of Pub. L. 97–291, set out a
 
 **(2)** the term “in any 1 year period” has the meaning given to the term “in any one-year period” in section 666.
 
-(Added Pub. L. 100–690, title VII, § 7078(a), Nov. 18, 1988, 102 Stat. 4406; amended Pub. L. 103–322, title XXXII, § 320609, Sept. 13, 1994, 108 Stat. 2120; Pub. L. 104–294, title VI, § 604(b)(43), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 105–65, title V, § 564, Oct. 27, 1997, 111 Stat. 1420; Pub. L. 106–569, title VII, § 709(b), Dec. 27, 2000, 114 Stat. 3018; Pub. L. 107–273, div. A, title II, § 205(c), Nov. 2, 2002, 116 Stat. 1778.)
+(Added Pub. L. 100–690, title VII, § 7078(a), Nov. 18, 1988, 102 Stat. 4406; amended Pub. L. 103–322, title XXXII, § 320609, Sept. 13, 1994, 108 Stat. 2120; Pub. L. 104–294, title VI, § 604(b)(43), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 105–65, title V, § 564, Oct. 27, 1997, 111 Stat. 1420; Pub. L. 106–569, title VII, § 709(b), Dec. 27, 2000, 114 Stat. 3018; Pub. L. 107–273, div. A, title II, § 205(c), Nov. 2, 2002, 116 Stat. 1778.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Housing Act of 1949, referred to in subsec. (a), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Act is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+The Housing Act of 1949, referred to in subsec. (a), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Act is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
 **Amendments**
 
-2002—Subsec. (a). Pub. L. 107–273 inserted “, entity, or program” after “person” and “grant, or cooperative agreement,” after “subcontract,”.
+2002—Subsec. (a). Pub. L. 107–273 inserted “, entity, or program” after “person” and “grant, or cooperative agreement,” after “subcontract,”.
 
 2000—Subsec. (a). Pub. L. 106–569 inserted “or relating to any property that is security for a loan that is made or guaranteed under title V of the Housing Act of 1949,” before “shall be fined under this title”.
 
@@ -1091,27 +1091,27 @@ The Housing Act of 1949, referred to in subsec. (a), is act July 15, 1949, ch. 3
 
 Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
-## § 1517. Obstructing examination of financial institution
+## § 1517. Obstructing examination of financial institution
 
 Whoever corruptly obstructs or attempts to obstruct any examination of a financial institution by an agency of the United States with jurisdiction to conduct an examination of such financial institution shall be fined under this title, imprisoned not more than 5 years, or both.
 
-(Added Pub. L. 101–647, title XXV, § 2503(a), Nov. 29, 1990, 104 Stat. 4861.)
+(Added Pub. L. 101–647, title XXV, § 2503(a), Nov. 29, 1990, 104 Stat. 4861.)
 
-## § 1518. Obstruction of criminal investigations of health care offenses
+## § 1518. Obstruction of criminal investigations of health care offenses
 
 **(a)** Whoever willfully prevents, obstructs, misleads, delays or attempts to prevent, obstruct, mislead, or delay the communication of information or records relating to a violation of a Federal health care offense to a criminal investigator shall be fined under this title or imprisoned not more than 5 years, or both.
 
 **(b)** As used in this section the term “criminal investigator” means any individual duly authorized by a department, agency, or armed force of the United States to conduct or engage in investigations for prosecutions for violations of health care offenses.
 
-(Added Pub. L. 104–191, title II, § 245(a), Aug. 21, 1996, 110 Stat. 2017.)
+(Added Pub. L. 104–191, title II, § 245(a), Aug. 21, 1996, 110 Stat. 2017.)
 
-## § 1519. Destruction, alteration, or falsification of records in Federal investigations and bankruptcy
+## § 1519. Destruction, alteration, or falsification of records in Federal investigations and bankruptcy
 
 Whoever knowingly alters, destroys, mutilates, conceals, covers up, falsifies, or makes a false entry in any record, document, or tangible object with the intent to impede, obstruct, or influence the investigation or proper administration of any matter within the jurisdiction of any department or agency of the United States or any case filed under title 11, or in relation to or contemplation of any such matter or case, shall be fined under this title, imprisoned not more than 20 years, or both.
 
-(Added Pub. L. 107–204, title VIII, § 802(a), July 30, 2002, 116 Stat. 800.)
+(Added Pub. L. 107–204, title VIII, § 802(a), July 30, 2002, 116 Stat. 800.)
 
-## § 1520. Destruction of corporate audit records
+## § 1520. Destruction of corporate audit records
 
 **(a)**
 
@@ -1123,10 +1123,10 @@ Whoever knowingly alters, destroys, mutilates, conceals, covers up, falsifies, o
 
 **(c)** Nothing in this section shall be deemed to diminish or relieve any person of any other duty or obligation imposed by Federal or State law or regulation to maintain, or refrain from destroying, any document.
 
-(Added Pub. L. 107–204, title VIII, § 802(a), July 30, 2002, 116 Stat. 800.)
+(Added Pub. L. 107–204, title VIII, § 802(a), July 30, 2002, 116 Stat. 800.)
 
-## § 1521. Retaliating against a Federal judge or Federal law enforcement officer by false claim or slander of title
+## § 1521. Retaliating against a Federal judge or Federal law enforcement officer by false claim or slander of title
 
 Whoever files, attempts to file, or conspires to file, in any public record or in any private record which is generally available to the public, any false lien or encumbrance against the real or personal property of an individual described in section 1114, on account of the performance of official duties by that individual, knowing or having reason to know that such lien or encumbrance is false or contains any materially false, fictitious, or fraudulent statement or representation, shall be fined under this title or imprisoned for not more than 10 years, or both.
 
-(Added Pub. L. 110–177, title II, § 201(a), Jan. 7, 2008, 121 Stat. 2535.)
+(Added Pub. L. 110–177, title II, § 201(a), Jan. 7, 2008, 121 Stat. 2535.)

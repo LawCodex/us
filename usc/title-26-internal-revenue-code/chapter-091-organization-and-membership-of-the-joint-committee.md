@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 91—ORGANIZATION AND MEMBERSHIP OF THE JOINT COMMITTEE
 
-## § 8001. Authorization
+## § 8001. Authorization
 
 There shall be a joint congressional committee known as the Joint Committee on Taxation (hereinafter in this subtitle referred to as the “Joint Committee”).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 925; Pub. L. 94–455, title XIX, § 1907(a)(1), Oct. 4, 1976, 90 Stat. 1835.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 925; Pub. L. 94–455, title XIX, § 1907(a)(1), Oct. 4, 1976, 90 Stat. 1835.)
 
 **Editorial Notes**
 
@@ -31,13 +31,13 @@ There shall be a joint congressional committee known as the Joint Committee on T
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–455, title XIX, § 1907(c), Oct. 4, 1976, 90 Stat. 1836, provided that: “The amendments made by this section [amending this section and sections 8004, 8021, and 8023 of this title and enacting provisions set out below] shall take effect on the first day of the first month which begins more than 90 days after the date of the enactment of this Act [Oct. 4, 1976].”
+Pub. L. 94–455, title XIX, § 1907(c), Oct. 4, 1976, 90 Stat. 1836, provided that: “The amendments made by this section [amending this section and sections 8004, 8021, and 8023 of this title and enacting provisions set out below] shall take effect on the first day of the first month which begins more than 90 days after the date of the enactment of this Act [Oct. 4, 1976].”
 
 **References to Joint Committee on Internal Revenue Taxation**
 
-Pub. L. 94–455, title XIX, § 1907(a)(5), Oct. 4, 1976, 90 Stat. 1836, provided that: “All references in any other statute, or in any rule, regulation, or order, to the Joint Committee on Internal Revenue Taxation shall be considered to be made to the Joint Committee on Taxation.”
+Pub. L. 94–455, title XIX, § 1907(a)(5), Oct. 4, 1976, 90 Stat. 1836, provided that: “All references in any other statute, or in any rule, regulation, or order, to the Joint Committee on Internal Revenue Taxation shall be considered to be made to the Joint Committee on Taxation.”
 
-## § 8002. Membership
+## § 8002. Membership
 
 **(a) Number and selection** The Joint Committee shall be composed of 10 members as follows:
 
@@ -81,17 +81,17 @@ The members shall serve without compensation in addition to that received for th
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 925.)
 
-## § 8003. Election of chairman and vice chairman
+## § 8003. Election of chairman and vice chairman
 
 The Joint Committee shall elect a chairman and vice chairman from among its members.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 926.)
 
-## § 8004. Appointment and compensation of staff
+## § 8004. Appointment and compensation of staff
 
 Except as otherwise provided by law, the Joint Committee shall have power to appoint and fix the compensation of the Chief of Staff of the Joint Committee and such experts and clerical, stenographic, and other assistants as it deems advisable.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 926; Pub. L. 94–455, title XIX, § 1907(a)(2), Oct. 4, 1976, 90 Stat. 1835.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 926; Pub. L. 94–455, title XIX, § 1907(a)(2), Oct. 4, 1976, 90 Stat. 1835.)
 
 **Editorial Notes**
 
@@ -105,7 +105,7 @@ Except as otherwise provided by law, the Joint Committee shall have power to app
 
 Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1907(c) of Pub. L. 94–455, set out as a note under section 8001 of this title.
 
-## § 8005. Payment of expenses
+## § 8005. Payment of expenses
 
 The expenses of the Joint Committee shall be paid one-half from the contingent fund of the Senate and one-half from the contingent fund of the House of Representatives, upon vouchers signed by the chairman or the vice chairman.
 

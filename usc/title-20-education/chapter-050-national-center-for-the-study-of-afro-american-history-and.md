@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 50—NATIONAL CENTER FOR THE STUDY OF AFRO-AMERICAN HISTORY AND CULTURE
 
-## § 3701. National Afro-American History and Culture Commission
+## § 3701. National Afro-American History and Culture Commission
 
 **(a) Establishment and membership**
 
@@ -55,15 +55,15 @@ There is established a commission to be known as the National Afro-American Hist
 
 **(3)** sell, exchange, or otherwise dispose of any property acquired under this subsection and designate any proceeds from such disposal for the benefit of the center.
 
-(Pub. L. 96–430, title II, § 202, Oct. 10, 1980, 94 Stat. 1846.)
+(Pub. L. 96–430, title II, § 202, Oct. 10, 1980, 94 Stat. 1846.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 96–430, title II, § 201, Oct. 10, 1980, 94 Stat. 1846, provided that: “This title [enacting this chapter] may be cited as the ‘National Center for the Study of Afro-American History and Culture Act’.”
+Pub. L. 96–430, title II, § 201, Oct. 10, 1980, 94 Stat. 1846, provided that: “This title [enacting this chapter] may be cited as the ‘National Center for the Study of Afro-American History and Culture Act’.”
 
-## § 3702. Organization of Commission
+## § 3702. Organization of Commission
 
 **(a) Membership** The Commission shall be composed of fifteen members as follows:
 
@@ -91,9 +91,9 @@ as designated by the President at the time of appointment.
 
 **(c) Membership continuation**
 
-If any member of the Commission who was appointed to the Commission under paragraphs (1) through (5) 1
+If any member of the Commission who was appointed to the Commission under paragraphs (1) through (5) 1
 
-<sup>1</sup>  So in original. Probably should be followed by “of subsection (a)”.
+<sup>1</sup> So in original. Probably should be followed by “of subsection (a)”.
 
 as an officer designated under such paragraphs leaves such office, such member may continue as a member of the Commission for not longer than the thirty-day period beginning on the date he leaves that office.
 
@@ -139,12 +139,12 @@ Upon request of the Commission, and subject to the availability of funds, the he
 
 The Administrator of the General Services Administration shall provide to the Commission on a reimbursable basis such administrative support services as the Commission may request to carry out its duties under this chapter.
 
-(Pub. L. 96–430, title II, § 203, Oct. 10, 1980, 94 Stat. 1847.)
+(Pub. L. 96–430, title II, § 203, Oct. 10, 1980, 94 Stat. 1847.)
 
-## § 3703. Omitted
+## § 3703. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 96–430, title II, § 204, Oct. 10, 1980, 94 Stat. 1848, which required the National Afro-American History and Culture Commission to submit to appropriate committees of Congress a report containing a detailed statement of the financial transactions of the Commission and the activities undertaken by the Commission during the previous year, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 179 of House Document No. 103–7.
+Section, Pub. L. 96–430, title II, § 204, Oct. 10, 1980, 94 Stat. 1848, which required the National Afro-American History and Culture Commission to submit to appropriate committees of Congress a report containing a detailed statement of the financial transactions of the Commission and the activities undertaken by the Commission during the previous year, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 179 of House Document No. 103–7.

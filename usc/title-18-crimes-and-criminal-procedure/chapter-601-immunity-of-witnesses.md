@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1994—Pub. L. 103–322, title XXXIII, § 330013(1), Sept. 13, 1994, 108 Stat. 2146, added heading for chapter 601.
+1994—Pub. L. 103–322, title XXXIII, § 330013(1), Sept. 13, 1994, 108 Stat. 2146, added heading for chapter 601.
 
-1970—Pub. L. 91–452, title II, § 201(a), Oct. 15, 1970, 84 Stat. 926, added part V and items 6001 to 6005.
+1970—Pub. L. 91–452, title II, § 201(a), Oct. 15, 1970, 84 Stat. 926, added part V and items 6001 to 6005.
 
-## § 6001. Definitions
+## § 6001. Definitions
 
 As used in this chapter—
 
@@ -35,7 +35,7 @@ As used in this chapter—
 
 **(4)** “court of the United States” means any of the following courts: the Supreme Court of the United States, a United States court of appeals, a United States district court established under chapter 5, title 28, United States Code, a United States bankruptcy court established under chapter 6, title 28, United States Code, the District of Columbia Court of Appeals, the Superior Court of the District of Columbia, the District Court of Guam, the District Court of the Virgin Islands, the United States Court of Federal Claims, the Tax Court of the United States, the Court of International Trade, and the Court of Appeals for the Armed Forces.
 
-(Added Pub. L. 91–452, title II, § 201(a), Oct. 15, 1970, 84 Stat. 926; amended Pub. L. 95–405, § 25, Sept. 30, 1978, 92 Stat. 877; Pub. L. 95–598, title III, § 314(*l*), Nov. 6, 1978, 92 Stat. 2678; Pub. L. 96–417, title VI, § 601(1), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 97–164, title I, § 164(1), Apr. 2, 1982, 96 Stat. 50; Pub. L. 102–550, title XV, § 1543, Oct. 28, 1992, 106 Stat. 4069; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–272, § 4(d), July 5, 1994, 108 Stat. 1361; Pub. L. 103–322, title XXXIII, § 330013(2), (3), Sept. 13, 1994, 108 Stat. 2146; Pub. L. 103–337, div. A, title IX, § 924(d)(1)(B), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 104–88, title III, § 303(2), Dec. 29, 1995, 109 Stat. 943.)
+(Added Pub. L. 91–452, title II, § 201(a), Oct. 15, 1970, 84 Stat. 926; amended Pub. L. 95–405, § 25, Sept. 30, 1978, 92 Stat. 877; Pub. L. 95–598, title III, § 314(*l*), Nov. 6, 1978, 92 Stat. 2678; Pub. L. 96–417, title VI, § 601(1), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 97–164, title I, § 164(1), Apr. 2, 1982, 96 Stat. 50; Pub. L. 102–550, title XV, § 1543, Oct. 28, 1992, 106 Stat. 4069; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–272, § 4(d), July 5, 1994, 108 Stat. 1361; Pub. L. 103–322, title XXXIII, § 330013(2), (3), Sept. 13, 1994, 108 Stat. 2146; Pub. L. 103–337, div. A, title IX, § 924(d)(1)(B), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 104–88, title III, § 303(2), Dec. 29, 1995, 109 Stat. 943.)
 
 **Editorial Notes**
 
@@ -43,9 +43,9 @@ As used in this chapter—
 
 1995—Par. (1). Pub. L. 104–88 substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
 
-1994—Pub. L. 103–322, § 330013(3), substituted “chapter” for “part” in introductory provisions.
+1994—Pub. L. 103–322, § 330013(3), substituted “chapter” for “part” in introductory provisions.
 
-Par. (1). Pub. L. 103–322, § 330013(2), substituted “Nuclear Regulatory Commission” for “Atomic Energy Commission” and struck out “the Subversive Activities Control Board,” after “Securities and Exchange Commission,”.
+Par. (1). Pub. L. 103–322, § 330013(2), substituted “Nuclear Regulatory Commission” for “Atomic Energy Commission” and struck out “the Subversive Activities Control Board,” after “Securities and Exchange Commission,”.
 
 Pub. L. 103–272 struck out “the Civil Aeronautics Board,” before “the Commodity Futures”.
 
@@ -89,21 +89,21 @@ Amendment by Pub. L. 95–405 effective Oct. 1, 1978, see section 28 of Pub. L. 
 
 **Effective Date; Savings Provision**
 
-Pub. L. 91–452, title II, § 260, Oct. 15, 1970, 84 Stat. 931, provided that: “The provisions of part V of title 18, United States Code, added by title II of this Act [this part], and the amendments and repeals made by title II of this Act [sections 835, 895, 1406, 1954, 2424, 2514 and 3486 of this title, sections 15, 87f(f), 135c, 499m(f), and 2115 of Title 7, Agriculture, section 25 of former Title 11, Bankruptcy, section 1820 of Title 12, Banks and Banking, sections 32, 33, 49, 77v, 78u(d), 79r(e), 80a–41, 80b–9, 155, 717m, 1271, and 1714 of Title 15, Commerce and Trade, section 825f of Title 16, Conservation, section 1333 of Title 19, Customs Duties, section 373 of Title 21, Food and Drugs, sections 4874 and 7493 of Title 26, Internal Revenue Code, section 161(3) of Title 29, Labor, section 506 of Title 33, Navigation and Navigable waters, sections 405(f) and 2201 of Title 42, The Public Health and Welfare, sections 157 and 362 of Title 45, Railroads, sections 827 and 1124 of former Title 46, Shipping, section 409(*l*) of Title 47, Telecommunications, sections 9, 43, 46, 47, 48, 916, 1017, and 1484 of former Title 49, Transportation, sections 792 and 4555 of Title 50, War and National Defense, and former sections 643a, 1152, and 2026 of the former Appendix to Title 50], shall take effect on the sixtieth day following the date of the enactment of this Act [Oct. 15, 1970]. No amendment to or repeal of any provision of law under title II of this Act shall affect any immunity to which any individual is entitled under such provision by reason of any testimony or other information given before such day.”
+Pub. L. 91–452, title II, § 260, Oct. 15, 1970, 84 Stat. 931, provided that: “The provisions of part V of title 18, United States Code, added by title II of this Act [this part], and the amendments and repeals made by title II of this Act [sections 835, 895, 1406, 1954, 2424, 2514 and 3486 of this title, sections 15, 87f(f), 135c, 499m(f), and 2115 of Title 7, Agriculture, section 25 of former Title 11, Bankruptcy, section 1820 of Title 12, Banks and Banking, sections 32, 33, 49, 77v, 78u(d), 79r(e), 80a–41, 80b–9, 155, 717m, 1271, and 1714 of Title 15, Commerce and Trade, section 825f of Title 16, Conservation, section 1333 of Title 19, Customs Duties, section 373 of Title 21, Food and Drugs, sections 4874 and 7493 of Title 26, Internal Revenue Code, section 161(3) of Title 29, Labor, section 506 of Title 33, Navigation and Navigable waters, sections 405(f) and 2201 of Title 42, The Public Health and Welfare, sections 157 and 362 of Title 45, Railroads, sections 827 and 1124 of former Title 46, Shipping, section 409(*l*) of Title 47, Telecommunications, sections 9, 43, 46, 47, 48, 916, 1017, and 1484 of former Title 49, Transportation, sections 792 and 4555 of Title 50, War and National Defense, and former sections 643a, 1152, and 2026 of the former Appendix to Title 50], shall take effect on the sixtieth day following the date of the enactment of this Act [Oct. 15, 1970]. No amendment to or repeal of any provision of law under title II of this Act shall affect any immunity to which any individual is entitled under such provision by reason of any testimony or other information given before such day.”
 
 **Savings Provision**
 
-Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§ 151 et seq.), chapter 96 (§ 1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
+Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§ 151 et seq.), chapter 96 (§ 1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
 
 **Amendment or Repeal of Inconsistent Provisions**
 
-Pub. L. 91–452, title II, § 259, Oct. 15, 1970, 84 Stat. 931, provided that: “In addition to the provisions of law specifically amended or specifically repealed by this title [see Effective Date note above], any other provision of law inconsistent with the provisions of part V of title 18, United States Code (adding by title II of this Act) [this part], is to that extent amended or repealed.”
+Pub. L. 91–452, title II, § 259, Oct. 15, 1970, 84 Stat. 931, provided that: “In addition to the provisions of law specifically amended or specifically repealed by this title [see Effective Date note above], any other provision of law inconsistent with the provisions of part V of title 18, United States Code (adding by title II of this Act) [this part], is to that extent amended or repealed.”
 
 **Termination of Federal Power Commission**
 
 The Federal Power Commission, referred to in par. (1) was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
-## § 6002. Immunity generally
+## § 6002. Immunity generally
 
 Whenever a witness refuses, on the basis of his privilege against self-incrimination, to testify or provide other information in a proceeding before or ancillary to—
 
@@ -115,7 +115,7 @@ Whenever a witness refuses, on the basis of his privilege against self-incrimina
 
 and the person presiding over the proceeding communicates to the witness an order issued under this title, the witness may not refuse to comply with the order on the basis of his privilege against self-incrimination; but no testimony or other information compelled under the order (or any information directly or indirectly derived from such testimony or other information) may be used against the witness in any criminal case, except a prosecution for perjury, giving a false statement, or otherwise failing to comply with the order.
 
-(Added Pub. L. 91–452, title II, § 201(a), Oct. 15, 1970, 84 Stat. 927; amended Pub. L. 103–322, title XXXIII, § 330013(4), Sept. 13, 1994, 108 Stat. 2146.)
+(Added Pub. L. 91–452, title II, § 201(a), Oct. 15, 1970, 84 Stat. 927; amended Pub. L. 103–322, title XXXIII, § 330013(4), Sept. 13, 1994, 108 Stat. 2146.)
 
 **Editorial Notes**
 
@@ -123,7 +123,7 @@ and the person presiding over the proceeding communicates to the witness an orde
 
 1994—Pub. L. 103–322 substituted “under this title” for “under this part” in concluding provisions.
 
-## § 6003. Court and grand jury proceedings
+## § 6003. Court and grand jury proceedings
 
 **(a)** In the case of any individual who has been or may be called to testify or provide other information at any proceeding before or ancillary to a court of the United States or a grand jury of the United States, the United States district court for the judicial district in which the proceeding is or may be held shall issue, in accordance with subsection (b) of this section, upon the request of the United States attorney for such district, an order requiring such individual to give testimony or provide other information which he refuses to give or provide on the basis of his privilege against self-incrimination, such order to become effective as provided in section 6002 of this title.
 
@@ -133,7 +133,7 @@ and the person presiding over the proceeding communicates to the witness an orde
 
 **(2)** such individual has refused or is likely to refuse to testify or provide other information on the basis of his privilege against self-incrimination.
 
-(Added Pub. L. 91–452, title II, § 201(a), Oct. 15, 1970, 84 Stat. 927; amended Pub. L. 100–690, title VII, § 7020(e), Nov. 18, 1988, 102 Stat. 4396; Pub. L. 103–322, title XXXIII, § 330013(4), Sept. 13, 1994, 108 Stat. 2146.)
+(Added Pub. L. 91–452, title II, § 201(a), Oct. 15, 1970, 84 Stat. 927; amended Pub. L. 100–690, title VII, § 7020(e), Nov. 18, 1988, 102 Stat. 4396; Pub. L. 103–322, title XXXIII, § 330013(4), Sept. 13, 1994, 108 Stat. 2146.)
 
 **Editorial Notes**
 
@@ -141,9 +141,9 @@ and the person presiding over the proceeding communicates to the witness an orde
 
 1994—Subsec. (a). Pub. L. 103–322 substituted “title” for “part” before period at end.
 
-1988—Subsec. (b). Pub. L. 100–690 inserted “, the Associate Attorney General” after “Deputy Attorney General”, and “or Deputy Assistant Attorney General” after “Assistant Attorney General”.
+1988—Subsec. (b). Pub. L. 100–690 inserted “, the Associate Attorney General” after “Deputy Attorney General”, and “or Deputy Assistant Attorney General” after “Assistant Attorney General”.
 
-## § 6004. Certain administrative proceedings
+## § 6004. Certain administrative proceedings
 
 **(a)** In the case of any individual who has been or who may be called to testify or provide other information at any proceeding before an agency of the United States, the agency may, with the approval of the Attorney General, issue, in accordance with subsection (b) of this section, an order requiring the individual to give testimony or provide other information which he refuses to give or provide on the basis of his privilege against self-incrimination, such order to become effective as provided in section 6002 of this title.
 
@@ -153,7 +153,7 @@ and the person presiding over the proceeding communicates to the witness an orde
 
 **(2)** such individual has refused or is likely to refuse to testify or provide other information on the basis of his privilege against self-incrimination.
 
-(Added Pub. L. 91–452, title II, § 201(a), Oct. 15, 1970, 84 Stat. 927; amended Pub. L. 103–322, title XXXIII, § 330013(4), Sept. 13, 1994, 108 Stat. 2146.)
+(Added Pub. L. 91–452, title II, § 201(a), Oct. 15, 1970, 84 Stat. 927; amended Pub. L. 103–322, title XXXIII, § 330013(4), Sept. 13, 1994, 108 Stat. 2146.)
 
 **Editorial Notes**
 
@@ -161,7 +161,7 @@ and the person presiding over the proceeding communicates to the witness an orde
 
 1994—Subsec. (a). Pub. L. 103–322 substituted “title” for “part” before period at end.
 
-## § 6005. Congressional proceedings
+## § 6005. Congressional proceedings
 
 **(a)** In the case of any individual who has been or may be called to testify or provide other information at any proceeding before or ancillary to either House of Congress, or any committee, or any subcommittee of either House, or any joint committee of the two Houses, a United States district court shall issue, in accordance with subsection (b) of this section, upon the request of a duly authorized representative of the House of Congress or the committee concerned, an order requiring such individual to give testimony or provide other information which he refuses to give or provide on the basis of his privilege against self-incrimination, such order to become effective as provided in section 6002 of this title.
 
@@ -175,16 +175,16 @@ and the person presiding over the proceeding communicates to the witness an orde
 
 **(c)** Upon application of the Attorney General, the United States district court shall defer the issuance of any order under subsection (a) of this section for such period, not longer than twenty days from the date of the request for such order, as the Attorney General may specify.
 
-(Added Pub. L. 91–452, title II, § 201(a), Oct. 15, 1970, 84 Stat. 928; amended Pub. L. 103–322, title XXXIII, § 330013(4), Sept. 13, 1994, 108 Stat. 2146; Pub. L. 104–292, § 5, Oct. 11, 1996, 110 Stat. 3460; Pub. L. 104–294, title VI, § 605(*o*), Oct. 11, 1996, 110 Stat. 3510.)
+(Added Pub. L. 91–452, title II, § 201(a), Oct. 15, 1970, 84 Stat. 928; amended Pub. L. 103–322, title XXXIII, § 330013(4), Sept. 13, 1994, 108 Stat. 2146; Pub. L. 104–292, § 5, Oct. 11, 1996, 110 Stat. 3460; Pub. L. 104–294, title VI, § 605(*o*), Oct. 11, 1996, 110 Stat. 3510.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–292, § 5(1), inserted “or ancillary to” after “any proceeding before”.
+1996—Subsec. (a). Pub. L. 104–292, § 5(1), inserted “or ancillary to” after “any proceeding before”.
 
-Subsec. (b)(1), (2). Pub. L. 104–292, § 5(2)(A), inserted “or ancillary to” after “a proceeding before”.
+Subsec. (b)(1), (2). Pub. L. 104–292, § 5(2)(A), inserted “or ancillary to” after “a proceeding before”.
 
-Subsec. (b)(3). Pub. L. 104–292, § 5(2)(B), and Pub. L. 104–294, amended par. (3) identically, inserting period at end.
+Subsec. (b)(3). Pub. L. 104–292, § 5(2)(B), and Pub. L. 104–294, amended par. (3) identically, inserting period at end.
 
 1994—Subsec. (a). Pub. L. 103–322 substituted “title” for “part” before period at end.

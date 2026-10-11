@@ -13,26 +13,26 @@ retrieved: 2026-10-11
 
 # Title 28—JUDICIARY AND JUDICIAL PROCEDURE
 
-This title was enacted by act June 25, 1948, ch. 646, § 1, 62 Stat. 869
+This title was enacted by act June 25, 1948, ch. 646, § 1, 62 Stat. 869
 
-Current through 119-102not101
+Current through 119-102not101
 
 **Editorial Notes**
 
 **Amendments**
 
-1966—Pub. L. 89–554, § 4(a), Sept. 6, 1966, 80 Stat. 611, substituted “Department of Justice” for “United States Attorneys and Marshals” in item for part II.
+1966—Pub. L. 89–554, § 4(a), Sept. 6, 1966, 80 Stat. 611, substituted “Department of Justice” for “United States Attorneys and Marshals” in item for part II.
 
 **Table Showing Disposition of All Sections of Former Title 28**
 
 <table>
-<tr><th>Title 28 Former Sections</th><th>Title 28 New Sections</th></tr>
-<tr><td colspan="2">1 Court of Claims Rules were replaced by U.S. Claims Court Rules effective Oct. 1, 1982, and subsequently by United States Court of Federal Claims Rules effective Dec. 4, 1992.</td></tr>
-<tr><td colspan="2">2 Admiralty Rules were superseded July 1, 1966, by Supplemental Rules for Certain Admiralty and Maritime Claims.</td></tr>
+<tr><th>Title 28 Former Sections</th><th>Title 28 New Sections</th></tr>
+<tr><td colspan="2">1 Court of Claims Rules were replaced by U.S. Claims Court Rules effective Oct. 1, 1982, and subsequently by United States Court of Federal Claims Rules effective Dec. 4, 1992.</td></tr>
+<tr><td colspan="2">2 Admiralty Rules were superseded July 1, 1966, by Supplemental Rules for Certain Admiralty and Maritime Claims.</td></tr>
 <tr><td>1–4bb</td><td>132–134</td></tr>
 <tr><td>1 nt</td><td>133</td></tr>
 <tr><td>5</td><td>135</td></tr>
-<tr><td>5a</td><td>T. 48 § 1392a</td></tr>
+<tr><td>5a</td><td>T. 48 § 1392a</td></tr>
 <tr><td>5b</td><td>Elim.</td></tr>
 <tr><td>6, 7</td><td>751</td></tr>
 <tr><td>8</td><td>751, 954</td></tr>
@@ -97,7 +97,7 @@ Current through 119-102not101
 <tr><td>48</td><td>2322</td></tr>
 <tr><td>49–51</td><td>Rep.</td></tr>
 <tr><td>52</td><td>Elim.</td></tr>
-<tr><td>53</td><td>T. 15 § 146a</td></tr>
+<tr><td>53</td><td>T. 15 § 146a</td></tr>
 <tr><td>71</td><td>1441, 1445, 1447</td></tr>
 <tr><td>72</td><td>1446, 1447</td></tr>
 <tr><td>73</td><td>Rep.</td></tr>
@@ -111,9 +111,9 @@ Current through 119-102not101
 <tr><td>81</td><td>1447</td></tr>
 <tr><td>82</td><td>Rep.</td></tr>
 <tr><td>83</td><td>1447, 1448</td></tr>
-<tr><td>101</td><td>T. 18 § 3235</td></tr>
-<tr><td>102</td><td>T. 18 § 3238</td></tr>
-<tr><td>103</td><td>T. 18 § 3237</td></tr>
+<tr><td>101</td><td>T. 18 § 3235</td></tr>
+<tr><td>102</td><td>T. 18 § 3238</td></tr>
+<tr><td>103</td><td>T. 18 § 3237</td></tr>
 <tr><td>104</td><td>1395</td></tr>
 <tr><td>105</td><td>1396</td></tr>
 <tr><td>106–108</td><td>1395</td></tr>
@@ -129,10 +129,10 @@ Current through 119-102not101
 <tr><td>118</td><td>1655</td></tr>
 <tr><td>119</td><td>1404</td></tr>
 <tr><td>120</td><td>Rep.</td></tr>
-<tr><td>121</td><td>1405; T. 18 § 3240</td></tr>
+<tr><td>121</td><td>1405; T. 18 § 3240</td></tr>
 <tr><td>122</td><td>1656</td></tr>
 <tr><td>123</td><td>Rep.</td></tr>
-<tr><td>124</td><td>959; T. 18 § 1911</td></tr>
+<tr><td>124</td><td>959; T. 18 § 1911</td></tr>
 <tr><td>124a</td><td>960</td></tr>
 <tr><td>125</td><td>959</td></tr>
 <tr><td>126</td><td>458</td></tr>
@@ -238,7 +238,7 @@ Current through 119-102not101
 <tr><td>246</td><td>952</td></tr>
 <tr><td>247</td><td>Rep.</td></tr>
 <tr><td>248</td><td>415, 791</td></tr>
-<tr><td>249</td><td>T. 18 § 282</td></tr>
+<tr><td>249</td><td>T. 18 § 282</td></tr>
 <tr><td>250(1)</td><td>1491, 1501</td></tr>
 <tr><td>250(2)</td><td>1503, 2501</td></tr>
 <tr><td>250(3)</td><td>1496</td></tr>
@@ -253,7 +253,7 @@ Current through 119-102not101
 <tr><td>257</td><td>1492, 2509</td></tr>
 <tr><td>258</td><td>2412</td></tr>
 <tr><td>259</td><td>1502</td></tr>
-<tr><td>259a</td><td>T. 25 § 70w (Rep. See T. 28 § 1505).</td></tr>
+<tr><td>259a</td><td>T. 25 § 70w (Rep. See T. 28 § 1505).</td></tr>
 <tr><td>260</td><td>1500</td></tr>
 <tr><td>261</td><td>2502</td></tr>
 <tr><td>262</td><td>2501</td></tr>
@@ -357,7 +357,7 @@ Current through 119-102not101
 <tr><td>375f</td><td>294</td></tr>
 <tr><td>375g, 375h</td><td>373</td></tr>
 <tr><td>376, 377</td><td>1651</td></tr>
-<tr><td>377a–377c</td><td>D.C. Code, §§ 16–3501 to 16–3503</td></tr>
+<tr><td>377a–377c</td><td>D.C. Code, §§ 16–3501 to 16–3503</td></tr>
 <tr><td>378</td><td>Rep.</td></tr>
 <tr><td>379</td><td>2283</td></tr>
 <tr><td>380</td><td>1253, 2101, 2281, 2284</td></tr>
@@ -366,16 +366,16 @@ Current through 119-102not101
 <tr><td>382</td><td>Rep. See Civ. Proc. R. 65(c).</td></tr>
 <tr><td>383</td><td>Rep. See Civ. Proc. R. 65(d).</td></tr>
 <tr><td>384</td><td>Rep.</td></tr>
-<tr><td>385</td><td>459; T. 18 § 401</td></tr>
-<tr><td>386</td><td>T. 18 §§ 402, 3691</td></tr>
-<tr><td>387</td><td>T. 18 § 402</td></tr>
+<tr><td>385</td><td>459; T. 18 § 401</td></tr>
+<tr><td>386</td><td>T. 18 §§ 402, 3691</td></tr>
+<tr><td>387</td><td>T. 18 § 402</td></tr>
 <tr><td>388</td><td>Rep.</td></tr>
-<tr><td>389</td><td>T. 18 §§ 402, 3691</td></tr>
-<tr><td>390</td><td>T. 18 § 3285</td></tr>
-<tr><td>390a</td><td>T. 18 § 402</td></tr>
+<tr><td>389</td><td>T. 18 §§ 402, 3691</td></tr>
+<tr><td>390</td><td>T. 18 § 3285</td></tr>
+<tr><td>390a</td><td>T. 18 § 402</td></tr>
 <tr><td>391</td><td>Rep. See Civ. Proc. R. 59, 61; Cr. Proc. R. 33, 52.</td></tr>
-<tr><td>392</td><td>T. 18 § 3043</td></tr>
-<tr><td>393</td><td>T. 22 § 258a</td></tr>
+<tr><td>392</td><td>T. 18 § 3043</td></tr>
+<tr><td>393</td><td>T. 22 § 258a</td></tr>
 <tr><td>394</td><td>1654</td></tr>
 <tr><td>395</td><td>556, 955</td></tr>
 <tr><td>396</td><td>556, 955</td></tr>
@@ -393,7 +393,7 @@ Current through 119-102not101
 <tr><td>417</td><td>1866, 1868</td></tr>
 <tr><td>417a</td><td>Rep. See Cr. Proc. R. 24(c).</td></tr>
 <tr><td>418</td><td>1866</td></tr>
-<tr><td>419</td><td>T. 18 § 3321</td></tr>
+<tr><td>419</td><td>T. 18 § 3321</td></tr>
 <tr><td>420</td><td>Rep. See Cr. Proc. R. 6(c).</td></tr>
 <tr><td>421</td><td>Rep. See Cr. Proc. R. 6(a), (g).</td></tr>
 <tr><td>422</td><td>Rep. See Cr. Proc. R. 6(g).</td></tr>
@@ -438,7 +438,7 @@ Current through 119-102not101
 <tr><td>500–502</td><td>564</td></tr>
 <tr><td>503</td><td>547</td></tr>
 <tr><td>504</td><td>549</td></tr>
-<tr><td>504a</td><td>T. 18 § 3053</td></tr>
+<tr><td>504a</td><td>T. 18 § 3053</td></tr>
 <tr><td>505</td><td>550</td></tr>
 <tr><td>506</td><td>546</td></tr>
 <tr><td>507</td><td>554</td></tr>
@@ -451,7 +451,7 @@ Current through 119-102not101
 <tr><td>518, 519</td><td>Rep.</td></tr>
 <tr><td>520</td><td>Rep. See Civ. Proc. R. 81(b).</td></tr>
 <tr><td>521</td><td>Rep.</td></tr>
-<tr><td>522</td><td>T. 18 § 2076</td></tr>
+<tr><td>522</td><td>T. 18 § 2076</td></tr>
 <tr><td>523</td><td>953</td></tr>
 <tr><td>523a, 523b</td><td>457</td></tr>
 <tr><td>524</td><td>505, 541, 751</td></tr>
@@ -463,7 +463,7 @@ Current through 119-102not101
 <tr><td>529</td><td>Rep. See Cr. Proc. R. 55.</td></tr>
 <tr><td>530</td><td>413, 414</td></tr>
 <tr><td>530a</td><td>Elim.</td></tr>
-<tr><td>531</td><td>T. 18 § 1910</td></tr>
+<tr><td>531</td><td>T. 18 § 1910</td></tr>
 <tr><td>541, 542</td><td>671</td></tr>
 <tr><td>543</td><td>1913</td></tr>
 <tr><td>544</td><td>604, 711, 961, 962</td></tr>
@@ -490,7 +490,7 @@ Current through 119-102not101
 <tr><td>567–569</td><td>751</td></tr>
 <tr><td>570</td><td>Rep.</td></tr>
 <tr><td>571, 572</td><td>1923</td></tr>
-<tr><td>572a</td><td>T. 18 § 155</td></tr>
+<tr><td>572a</td><td>T. 18 § 155</td></tr>
 <tr><td>573</td><td>Rep.</td></tr>
 <tr><td>574</td><td>553, 1921</td></tr>
 <tr><td>575</td><td>Rep.</td></tr>
@@ -508,7 +508,7 @@ Current through 119-102not101
 <tr><td>586a</td><td>Rep.</td></tr>
 <tr><td>587</td><td>509, 553</td></tr>
 <tr><td>588, 589</td><td>Rep.</td></tr>
-<tr><td>590</td><td>T. 18 § 203</td></tr>
+<tr><td>590</td><td>T. 18 § 203</td></tr>
 <tr><td>591</td><td>Rep.</td></tr>
 <tr><td>592</td><td>509</td></tr>
 <tr><td>593</td><td>510</td></tr>
@@ -523,13 +523,13 @@ Current through 119-102not101
 <tr><td>602</td><td>1824</td></tr>
 <tr><td>603–604a</td><td>1823</td></tr>
 <tr><td>605</td><td>Rep.</td></tr>
-<tr><td>606, 607</td><td>T. 44 §§ 325, 326 (See Rev. T. 44 Table)</td></tr>
+<tr><td>606, 607</td><td>T. 44 §§ 325, 326 (See Rev. T. 44 Table)</td></tr>
 <tr><td>608</td><td>1825, 1871</td></tr>
 <tr><td>609</td><td>Rep.</td></tr>
 <tr><td>631</td><td>Rep. See Civ. Proc. R. 43.</td></tr>
-<tr><td>632</td><td>T. 18 § 3481</td></tr>
+<tr><td>632</td><td>T. 18 § 3481</td></tr>
 <tr><td>633</td><td>Rep.</td></tr>
-<tr><td>634</td><td>T. 18 § 3486</td></tr>
+<tr><td>634</td><td>T. 18 § 3486</td></tr>
 <tr><td>635</td><td>Rep. See Civ. Proc. R. 43(a).</td></tr>
 <tr><td>636</td><td>Rep. See Civ. Proc. R. 34, 55.</td></tr>
 <tr><td>637</td><td>2072, 2073</td></tr>
@@ -551,7 +551,7 @@ Current through 119-102not101
 <tr><td>659</td><td>Rep. See Cr. Proc. R. 46(b).</td></tr>
 <tr><td>660</td><td>Rep.</td></tr>
 <tr><td>661–667</td><td>1733</td></tr>
-<tr><td>668</td><td>T. 18 § 3497</td></tr>
+<tr><td>668</td><td>T. 18 § 3497</td></tr>
 <tr><td>669</td><td>Rep.</td></tr>
 <tr><td>670</td><td>1743</td></tr>
 <tr><td>671</td><td>1733</td></tr>
@@ -567,16 +567,16 @@ Current through 119-102not101
 <tr><td>687</td><td>1738</td></tr>
 <tr><td>688</td><td>1739</td></tr>
 <tr><td>689</td><td>1742</td></tr>
-<tr><td>690</td><td>T. 30 § 53</td></tr>
+<tr><td>690</td><td>T. 30 § 53</td></tr>
 <tr><td>695</td><td>1732</td></tr>
-<tr><td>695a</td><td>T. 18 § 3491</td></tr>
-<tr><td>695b</td><td>T. 18 § 3492</td></tr>
-<tr><td>695c</td><td>T. 18 § 3493</td></tr>
-<tr><td>695d</td><td>T. 18 § 3494</td></tr>
+<tr><td>695a</td><td>T. 18 § 3491</td></tr>
+<tr><td>695b</td><td>T. 18 § 3492</td></tr>
+<tr><td>695c</td><td>T. 18 § 3493</td></tr>
+<tr><td>695d</td><td>T. 18 § 3494</td></tr>
 <tr><td>695e</td><td>1741</td></tr>
-<tr><td>695e–1</td><td>T. 22 § 4222</td></tr>
-<tr><td>695f</td><td>T. 18 § 3495</td></tr>
-<tr><td>695g</td><td>T. 18 § 3496</td></tr>
+<tr><td>695e–1</td><td>T. 22 § 4222</td></tr>
+<tr><td>695f</td><td>T. 18 § 3495</td></tr>
+<tr><td>695g</td><td>T. 18 § 3496</td></tr>
 <tr><td>695h</td><td>Rep.</td></tr>
 <tr><td>701</td><td>1782</td></tr>
 <tr><td>702</td><td>1785</td></tr>
@@ -586,15 +586,15 @@ Current through 119-102not101
 <tr><td>721</td><td>1691</td></tr>
 <tr><td>722</td><td>Rep. See Civ. Proc. R. 4.</td></tr>
 <tr><td>723</td><td>2071, 2073</td></tr>
-<tr><td>723a</td><td>T. 18 § 3772</td></tr>
-<tr><td>723a–1</td><td>T. 18 § 3771</td></tr>
+<tr><td>723a</td><td>T. 18 § 3772</td></tr>
+<tr><td>723a–1</td><td>T. 18 § 3771</td></tr>
 <tr><td>723b, 723c</td><td>2072</td></tr>
 <tr><td>724</td><td>Rep.</td></tr>
 <tr><td>725</td><td>1652</td></tr>
 <tr><td>726</td><td>Rep. See Civ. Proc. R. 64.</td></tr>
 <tr><td>727</td><td>Rep. See Civ. Proc. R. 69.</td></tr>
 <tr><td>728</td><td>Rep.</td></tr>
-<tr><td>729</td><td>T. 42 § 1988</td></tr>
+<tr><td>729</td><td>T. 42 § 1988</td></tr>
 <tr><td>730</td><td>2072, 2073</td></tr>
 <tr><td>731</td><td>2071</td></tr>
 <tr><td>732–734</td><td>Rep.</td></tr>
@@ -613,7 +613,7 @@ Current through 119-102not101
 <tr><td>747</td><td>2463</td></tr>
 <tr><td>748–750</td><td>2405</td></tr>
 <tr><td>751, 752</td><td>Rep.</td></tr>
-<tr><td>753</td><td>Adm. R. 6–8, 10, 12 2</td></tr>
+<tr><td>753</td><td>Adm. R. 6–8, 10, 12 2</td></tr>
 <tr><td>754</td><td>2464</td></tr>
 <tr><td>755–757</td><td>Rep.</td></tr>
 <tr><td>758</td><td>636</td></tr>
@@ -628,7 +628,7 @@ Current through 119-102not101
 <tr><td>768</td><td>Rep. See Sup. Ct. R. 20.</td></tr>
 <tr><td>769</td><td>Rep. See Civ. Proc. R. 40.</td></tr>
 <tr><td>770</td><td>1873</td></tr>
-<tr><td>771</td><td>Adm. R. 46½ 2</td></tr>
+<tr><td>771</td><td>Adm. R. 46½ 2</td></tr>
 <tr><td>772</td><td>Rep. See Civ. Proc. R. 39(c), 48.</td></tr>
 <tr><td>773</td><td>Rep. See Civ. Proc. R. 38 et seq.</td></tr>
 <tr><td>774</td><td>2406</td></tr>
@@ -640,10 +640,10 @@ Current through 119-102not101
 <tr><td>781</td><td>2407</td></tr>
 <tr><td>782</td><td>Rep. See Civ. Proc. R. 12(a).</td></tr>
 <tr><td>783</td><td>Rep.</td></tr>
-<tr><td>784</td><td>T. 19 § 579</td></tr>
+<tr><td>784</td><td>T. 19 § 579</td></tr>
 <tr><td>785</td><td>1874</td></tr>
 <tr><td>786</td><td>Rep.</td></tr>
-<tr><td>787</td><td>T. 19 § 580</td></tr>
+<tr><td>787</td><td>T. 19 § 580</td></tr>
 <tr><td>788</td><td>See 2718</td></tr>
 <tr><td>789</td><td>Rep.</td></tr>
 <tr><td>790</td><td>Rep. See Civ. Proc. R. 75; Adm. R. 49.2</td></tr>
@@ -729,7 +729,7 @@ Current through 119-102not101
 
 **Enactment Into Law; Citation**
 
-Section 1 of act June 25, 1948, ch. 646, 62 Stat. 869, provided in part: “That title 28 of the United States Code, entitled ‘Judicial Code and Judiciary’ is hereby revised, codified, and enacted into law, and may be cited as ‘Title 28, United States Code, section \_\_\_.’ ”
+Section 1 of act June 25, 1948, ch. 646, 62 Stat. 869, provided in part: “That title 28 of the United States Code, entitled ‘Judicial Code and Judiciary’ is hereby revised, codified, and enacted into law, and may be cited as ‘Title 28, United States Code, section \_\_\_.’ ”
 
 **Legislative Construction**
 
@@ -745,17 +745,17 @@ Section 38 of act June 25, 1948, ch. 646, 62 Stat. 992, provided that: “The pr
 
 **Repeals; Rights and Liabilities Saved**
 
-Act June 25, 1948, ch. 646, § 39, 62 Stat. 992, repealed the sections or parts thereof of the Revised Statutes of the United States, Statutes at Large, or the Revised Statutes of the District of Columbia covering provisions codified in this title, but saved any rights or liabilities then existing under said sections or parts thereof.
+Act June 25, 1948, ch. 646, § 39, 62 Stat. 992, repealed the sections or parts thereof of the Revised Statutes of the United States, Statutes at Large, or the Revised Statutes of the District of Columbia covering provisions codified in this title, but saved any rights or liabilities then existing under said sections or parts thereof.
 
-R.S. § 1012 as affected by act Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167 [section 880 of former Title 28, Judicial Code and Judiciary], provided that appeals from district courts shall be subject to the same rules, regulations, and restrictions as are or may be prescribed in law in cases of writs of error. This provision was repealed by act June 25, 1948, ch. 646, § 39, 62 Stat. 992. Section 2 of act Jan. 31, 1928, ch. 14, 45 Stat. 54, as amended Apr. 26, 1928, ch. 440, 45 Stat. 466; June 25, 1948, ch. 646, § 23, 62 Stat. 990 [section 861b of former Title 28, Judicial Code and Judiciary], provided that: “All Acts of Congress referring to writs of error shall be construed as amended to the extent necessary to substitute appeal for writ of error.”
+R.S. § 1012 as affected by act Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167 [section 880 of former Title 28, Judicial Code and Judiciary], provided that appeals from district courts shall be subject to the same rules, regulations, and restrictions as are or may be prescribed in law in cases of writs of error. This provision was repealed by act June 25, 1948, ch. 646, § 39, 62 Stat. 992. Section 2 of act Jan. 31, 1928, ch. 14, 45 Stat. 54, as amended Apr. 26, 1928, ch. 440, 45 Stat. 466; June 25, 1948, ch. 646, § 23, 62 Stat. 990 [section 861b of former Title 28, Judicial Code and Judiciary], provided that: “All Acts of Congress referring to writs of error shall be construed as amended to the extent necessary to substitute appeal for writ of error.”
 
 **Writs of Error**
 
-Act Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54 [section 861a of former Title 28, Judicial Code and Judiciary], provided that: “The writ of error in cases, civil and criminal, is abolished. All relief which heretofore [Jan. 31, 1928] could be obtained by writ of error shall hereafter be obtainable by appeal.” This provision was omitted from the 1948 Revised Judicial Code as obsolete, and repealed by act June 25, 1948, ch. 646, § 39, 62 Stat. 992. Section 2 of act Jan. 31, 1928, which originally related to procedure in appeal cases, was also omitted from the 1948 Revised Judicial Code and was amended generally by act June 25, 1948, ch. 646, § 23, 62 Stat. 990. Text as amended by section 23 of act June 25, 1948, is set out as a note preceding section 1 of Title 1, General Provisions.
+Act Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54 [section 861a of former Title 28, Judicial Code and Judiciary], provided that: “The writ of error in cases, civil and criminal, is abolished. All relief which heretofore [Jan. 31, 1928] could be obtained by writ of error shall hereafter be obtainable by appeal.” This provision was omitted from the 1948 Revised Judicial Code as obsolete, and repealed by act June 25, 1948, ch. 646, § 39, 62 Stat. 992. Section 2 of act Jan. 31, 1928, which originally related to procedure in appeal cases, was also omitted from the 1948 Revised Judicial Code and was amended generally by act June 25, 1948, ch. 646, § 23, 62 Stat. 990. Text as amended by section 23 of act June 25, 1948, is set out as a note preceding section 1 of Title 1, General Provisions.
 
 **Title 28 as Continuation of Existing Law; Change of Name of Circuit Courts of Appeals**
 
-Act June 25, 1948, ch. 646, § 2(b), 62 Stat. 985, provided that: “The provisions of Title 28, Judiciary and Judicial Procedure, of the United States Code, set out in section 1 of this Act, with respect to the organization of each of the several courts therein provided for and of the Administrative Office of the United States Courts, shall be construed as continuations of existing law, and the tenure of the judges, officers, and employees thereof and of the United States attorneys and marshals and their deputies and assistants, in office on the effective date of this Act [Sept. 1, 1948], shall not be affected by its enactment, but each of them shall continue to serve in the same capacity under the appropriate provisions of title 28, as set out in section 1 of this Act, pursuant to his prior appointment: *Provided, however*, That each circuit court of appeals shall, as in said title 28 set out, hereafter be known as a United States court of appeals. No loss of rights, interruption of jurisdiction, or prejudice to matters pending in any of such courts on the effective date of this Act shall result from its enactment.”
+Act June 25, 1948, ch. 646, § 2(b), 62 Stat. 985, provided that: “The provisions of Title 28, Judiciary and Judicial Procedure, of the United States Code, set out in section 1 of this Act, with respect to the organization of each of the several courts therein provided for and of the Administrative Office of the United States Courts, shall be construed as continuations of existing law, and the tenure of the judges, officers, and employees thereof and of the United States attorneys and marshals and their deputies and assistants, in office on the effective date of this Act [Sept. 1, 1948], shall not be affected by its enactment, but each of them shall continue to serve in the same capacity under the appropriate provisions of title 28, as set out in section 1 of this Act, pursuant to his prior appointment: *Provided, however*, That each circuit court of appeals shall, as in said title 28 set out, hereafter be known as a United States court of appeals. No loss of rights, interruption of jurisdiction, or prejudice to matters pending in any of such courts on the effective date of this Act shall result from its enactment.”
 
 ## PART I—ORGANIZATION OF COURTS
 
@@ -763,19 +763,19 @@ Act June 25, 1948, ch. 646, § 2(b), 62 Stat. 985, provided that: “The provi
 
 **Amendments**
 
-2002—Pub. L. 107–273, div. C, title I, § 11042(b), Nov. 2, 2002, 116 Stat. 1855, added item for chapter 16.
+2002—Pub. L. 107–273, div. C, title I, § 11042(b), Nov. 2, 2002, 116 Stat. 1855, added item for chapter 16.
 
-1992—Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516, substituted “United States Court of Federal Claims” for “United States Claims Court” in item for chapter 7.
+1992—Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516, substituted “United States Court of Federal Claims” for “United States Claims Court” in item for chapter 7.
 
-1990—Pub. L. 101–650, title I, § 103(d), Dec. 1, 1990, 104 Stat. 5096, added item for chapter 23.
+1990—Pub. L. 101–650, title I, § 103(d), Dec. 1, 1990, 104 Stat. 5096, added item for chapter 23.
 
-1984—Pub. L. 98–353, title I, § 104(b), July 10, 1984, 98 Stat. 342, added item for chapter 6.
+1984—Pub. L. 98–353, title I, § 104(b), July 10, 1984, 98 Stat. 342, added item for chapter 6.
 
-1982—Pub. L. 97–164, title I, §§ 105(b), 106, Apr. 2, 1982, 96 Stat. 28, substituted “United States Claims Court” for “Court of Claims” in item for chapter 7 and struck out item for chapter 9 “Court of Customs and Patent Appeals”.
+1982—Pub. L. 97–164, title I, §§ 105(b), 106, Apr. 2, 1982, 96 Stat. 28, substituted “United States Claims Court” for “Court of Claims” in item for chapter 7 and struck out item for chapter 9 “Court of Customs and Patent Appeals”.
 
-1980—Pub. L. 96–417, title V, § 501(1), Oct. 10, 1980, 94 Stat. 1742, substituted “Court of International Trade” for “Customs Court” in item for chapter 11.
+1980—Pub. L. 96–417, title V, § 501(1), Oct. 10, 1980, 94 Stat. 1742, substituted “Court of International Trade” for “Customs Court” in item for chapter 11.
 
-1978—Pub. L. 98–598, title II, § 201(b), Nov. 6, 1978, 92 Stat. 2660, directed amendment of analysis of chapters comprising part I by adding item for chapter 6 “Bankruptcy courts”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+1978—Pub. L. 98–598, title II, § 201(b), Nov. 6, 1978, 92 Stat. 2660, directed amendment of analysis of chapters comprising part I by adding item for chapter 6 “Bankruptcy courts”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 **Executive Documents**
 
@@ -817,19 +817,19 @@ Ex. Ord. No. 11992, May 24, 1977, 42 F.R. 27195, which established Committee on 
 
 **Amendments**
 
-2006—Pub. L. 109–162, title XI, § 1187(d), Jan. 5, 2006, 119 Stat. 3128, added item for chapter 40A.
+2006—Pub. L. 109–162, title XI, § 1187(d), Jan. 5, 2006, 119 Stat. 3128, added item for chapter 40A.
 
-2002—Pub. L. 107–273, div. B, title IV, § 4003(b)(6), Nov. 2, 2002, 116 Stat. 1812, inserted “Service” after “Marshals” in item for chapter 37.
+2002—Pub. L. 107–273, div. B, title IV, § 4003(b)(6), Nov. 2, 2002, 116 Stat. 1812, inserted “Service” after “Marshals” in item for chapter 37.
 
-1986—Pub. L. 99–554, title I, § 144(g)(2), Oct. 27, 1986, 100 Stat. 3097, substituted “40” for “39” in item relating to Independent Counsel.
+1986—Pub. L. 99–554, title I, § 144(g)(2), Oct. 27, 1986, 100 Stat. 3097, substituted “40” for “39” in item relating to Independent Counsel.
 
-1983—Pub. L. 97–409, § 2(a)(2), Jan. 3, 1983, 96 Stat. 2039, substituted “Independent Counsel” for “Special Prosecutor” in item for second chapter 39.
+1983—Pub. L. 97–409, § 2(a)(2), Jan. 3, 1983, 96 Stat. 2039, substituted “Independent Counsel” for “Special Prosecutor” in item for second chapter 39.
 
-1978—Pub. L. 95–598, title II, § 224(b), Nov. 6, 1978, 92 Stat. 2664, added item for chapter 39, “United States Trustees”, effective Oct. 1, 1979.
+1978—Pub. L. 95–598, title II, § 224(b), Nov. 6, 1978, 92 Stat. 2664, added item for chapter 39, “United States Trustees”, effective Oct. 1, 1979.
 
-Pub. L. 95–521, title VI, § 601(b), Oct. 26, 1978, 92 Stat. 1873, added item for chapter 39 “Special Prosecutor”.
+Pub. L. 95–521, title VI, § 601(b), Oct. 26, 1978, 92 Stat. 1873, added item for chapter 39 “Special Prosecutor”.
 
-1966—Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 611, added items for chapters 31 and 33 and redesignated items for former chapters 31 and 33 as 35 and 37, respectively.
+1966—Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 611, added items for chapters 31 and 33 and redesignated items for former chapters 31 and 33 as 35 and 37, respectively.
 
 - [CHAPTER 31—THE ATTORNEY GENERAL](chapter-031-the-attorney-general.md)
 
@@ -855,25 +855,25 @@ Chapter 59 was renumbered as Chapter 57 but without change in its section number
 
 **Amendments**
 
-1998—Pub. L. 105–315, § 12(b)(3), Oct. 30, 1998, 112 Stat. 2998, substituted “Alternative Dispute Resolution” for “Arbitration” as item for chapter 44.
+1998—Pub. L. 105–315, § 12(b)(3), Oct. 30, 1998, 112 Stat. 2998, substituted “Alternative Dispute Resolution” for “Arbitration” as item for chapter 44.
 
-1992—Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516, substituted “United States Court of Federal Claims” for “United States Claims Court” as item for chapter 51.
+1992—Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516, substituted “United States Court of Federal Claims” for “United States Claims Court” as item for chapter 51.
 
-1988—Pub. L. 100–702, title IX, § 901(b), Nov. 19, 1988, 102 Stat. 4663, added item for chapter 44.
+1988—Pub. L. 100–702, title IX, § 901(b), Nov. 19, 1988, 102 Stat. 4663, added item for chapter 44.
 
-1984—Pub. L. 98–473, title II, § 217(b), Oct. 12, 1984, 98 Stat. 2026, added item for chapter 58, effective on the first day of the first calendar month beginning twenty-four months after Oct. 12, 1984 (Nov. 1, 1986).
+1984—Pub. L. 98–473, title II, § 217(b), Oct. 12, 1984, 98 Stat. 2026, added item for chapter 58, effective on the first day of the first calendar month beginning twenty-four months after Oct. 12, 1984 (Nov. 1, 1986).
 
-1982—Pub. L. 97–164, title I, § 121(g)(1), Apr. 2, 1982, 96 Stat. 35, substituted “United States Claims Court” for “Court of Claims” as item for chapter 51.
+1982—Pub. L. 97–164, title I, § 121(g)(1), Apr. 2, 1982, 96 Stat. 35, substituted “United States Claims Court” for “Court of Claims” as item for chapter 51.
 
-Pub. L. 97–164, title I, § 122(a), Apr. 2, 1982, 96 Stat. 36, struck out item for chapter 53.
+Pub. L. 97–164, title I, § 122(a), Apr. 2, 1982, 96 Stat. 36, struck out item for chapter 53.
 
-1980—Pub. L. 96–417, title V, § 501(13), Oct. 10, 1980, 94 Stat. 1742, substituted “Court of International Trade” for “Customs Court” as item for chapter 55.
+1980—Pub. L. 96–417, title V, § 501(13), Oct. 10, 1980, 94 Stat. 1742, substituted “Court of International Trade” for “Customs Court” as item for chapter 55.
 
-1978—Pub. L. 95–598, title II, § 233(b), Nov. 6, 1978, 92 Stat. 2667, directed the addition of item for chapter 50, “Bankruptcy Courts”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+1978—Pub. L. 95–598, title II, § 233(b), Nov. 6, 1978, 92 Stat. 2667, directed the addition of item for chapter 50, “Bankruptcy Courts”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-1968—Pub. L. 90–578, title I, § 102(a), Oct. 17, 1968, 82 Stat. 1114, substituted “United States Magistrates” for “United States Commissioners” as item for chapter 43.
+1968—Pub. L. 90–578, title I, § 102(a), Oct. 17, 1968, 82 Stat. 1114, substituted “United States Magistrates” for “United States Commissioners” as item for chapter 43.
 
-1967—Pub. L. 90–219, title II, § 204, Dec. 20, 1967, 81 Stat. 669, added item for chapter 42.
+1967—Pub. L. 90–219, title II, § 204, Dec. 20, 1967, 81 Stat. 669, added item for chapter 42.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1271,15 +1271,15 @@ Pub. L. 117–263, div. E, title LIX, subtitle D, Dec. 23, 2022, 136 Stat. 3458,
 
 **Amendments**
 
-1992—Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516, substituted “United States Court of Federal Claims” for “United States Claims Court” as item for chapter 91.
+1992—Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516, substituted “United States Court of Federal Claims” for “United States Claims Court” as item for chapter 91.
 
-1982—Pub. L. 97–164, title I, §§ 133(j)(1), 134, title III, § 301(b), Apr. 2, 1982, 96 Stat. 41, 55, substituted “United States Claims Court” for “Court of Claims” in item for chapter 91, struck out item for chapter 93 “Court of Customs and Patent Appeals”, and added item for chapter 99.
+1982—Pub. L. 97–164, title I, §§ 133(j)(1), 134, title III, § 301(b), Apr. 2, 1982, 96 Stat. 41, 55, substituted “United States Claims Court” for “Court of Claims” in item for chapter 91, struck out item for chapter 93 “Court of Customs and Patent Appeals”, and added item for chapter 99.
 
-1980—Pub. L. 96–417, title V, § 501(20), Oct. 10, 1980, 94 Stat. 1742, substituted “Court of International Trade” for “Customs Court” in item for chapter 95.
+1980—Pub. L. 96–417, title V, § 501(20), Oct. 10, 1980, 94 Stat. 1742, substituted “Court of International Trade” for “Customs Court” in item for chapter 95.
 
-1978—Pub. L. 95–598, title II, § 241(b), Nov. 6, 1978, 92 Stat. 2671, directed the addition of item for chapter 90, “District Courts and Bankruptcy Courts”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+1978—Pub. L. 95–598, title II, § 241(b), Nov. 6, 1978, 92 Stat. 2671, directed the addition of item for chapter 90, “District Courts and Bankruptcy Courts”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-1976—Pub. L. 94–583, § 4(b), Oct. 21, 1976, 90 Stat. 2897, added item for chapter 97.
+1976—Pub. L. 94–583, § 4(b), Oct. 21, 1976, 90 Stat. 2897, added item for chapter 97.
 
 - [CHAPTER 81—SUPREME COURT](chapter-081-supreme-court.md)
 
@@ -1305,7 +1305,7 @@ Pub. L. 117–263, div. E, title LIX, subtitle D, Dec. 23, 2022, 136 Stat. 3458,
 
 ## PART V—PROCEDURE
 
-2005—Pub. L. 109–2, § 3(b), Feb. 18, 2005, 119 Stat. 9, added item for chapter 114.
+2005—Pub. L. 109–2, § 3(b), Feb. 18, 2005, 119 Stat. 9, added item for chapter 114.
 
 - [CHAPTER 111—GENERAL PROVISIONS](chapter-111-general-provisions.md)
 
@@ -1343,35 +1343,35 @@ Chapters 169, 171 and 173 were renumbered “167”, “169” and “171”, re
 
 **Amendments**
 
-2014—Pub. L. 113–287, § 4(b)(2), Dec. 19, 2014, 128 Stat. 3261, added item for chapter 190.
+2014—Pub. L. 113–287, § 4(b)(2), Dec. 19, 2014, 128 Stat. 3261, added item for chapter 190.
 
-2010—Pub. L. 111–223, § 3(c), Aug. 10, 2010, 124 Stat. 2384, added item for chapter 181.
+2010—Pub. L. 111–223, § 3(c), Aug. 10, 2010, 124 Stat. 2384, added item for chapter 181.
 
-2000—Pub. L. 106–310, div. B, title XXXIV, § 3405(c)(2), Oct. 17, 2000, 114 Stat. 1221, struck out item for chapter 175 “Civil Commitment and Rehabilitation of Narcotic Addicts”.
+2000—Pub. L. 106–310, div. B, title XXXIV, § 3405(c)(2), Oct. 17, 2000, 114 Stat. 1221, struck out item for chapter 175 “Civil Commitment and Rehabilitation of Narcotic Addicts”.
 
-1998—Pub. L. 105–304, title IV, § 406(b), Oct. 28, 1998, 112 Stat. 2905, added item for chapter 180.
+1998—Pub. L. 105–304, title IV, § 406(b), Oct. 28, 1998, 112 Stat. 2905, added item for chapter 180.
 
-1996—Pub. L. 104–331, § 3(e), Oct. 26, 1996, 110 Stat. 4071, added item for chapter 179.
+1996—Pub. L. 104–331, § 3(e), Oct. 26, 1996, 110 Stat. 4071, added item for chapter 179.
 
-Pub. L. 104–132, title I, § 107(b), Apr. 24, 1996, 110 Stat. 1226, as amended Pub. L. 104–294, title VI, § 605(k), Oct. 11, 1996, 110 Stat. 3510, added item for chapter 154.
+Pub. L. 104–132, title I, § 107(b), Apr. 24, 1996, 110 Stat. 1226, as amended Pub. L. 104–294, title VI, § 605(k), Oct. 11, 1996, 110 Stat. 3510, added item for chapter 154.
 
-1995—Pub. L. 104–88, title III, § 305(c)(2), Dec. 29, 1995, 109 Stat. 945, which directed amendment of the item for chapter 157 in the table of chapters of this title by substituting “Surface Transportation Board” for “Interstate Commerce Commission”, was executed by making the substitution in the table of chapters for this part to reflect the probable intent of Congress.
+1995—Pub. L. 104–88, title III, § 305(c)(2), Dec. 29, 1995, 109 Stat. 945, which directed amendment of the item for chapter 157 in the table of chapters of this title by substituting “Surface Transportation Board” for “Interstate Commerce Commission”, was executed by making the substitution in the table of chapters for this part to reflect the probable intent of Congress.
 
-1992—Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516, substituted “United States Court of Federal Claims” for “United States Claims Court” in item for chapter 165.
+1992—Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516, substituted “United States Court of Federal Claims” for “United States Claims Court” in item for chapter 165.
 
-Pub. L. 102–559, § 2(b), Oct. 28, 1992, 106 Stat. 4228, substituted “Procedure” for “Procedures” in item for chapter 176 and added item for chapter 178.
+Pub. L. 102–559, § 2(b), Oct. 28, 1992, 106 Stat. 4228, substituted “Procedure” for “Procedures” in item for chapter 176 and added item for chapter 178.
 
-1990—Pub. L. 101–647, title XXXVI, § 3302 [3612], Nov. 29, 1990, 104 Stat. 4964, added item for chapter 176.
+1990—Pub. L. 101–647, title XXXVI, § 3302 [3612], Nov. 29, 1990, 104 Stat. 4964, added item for chapter 176.
 
-1982—Pub. L. 97–164, title I, §§ 139(*o*)(1), 140, Apr. 2, 1982, 96 Stat. 44, substituted “United States Claims Court Procedure” for “Court of Claims Procedure” in item for chapter 165 and struck out item for chapter 167 “Court of Customs and Patent Appeals Procedure”.
+1982—Pub. L. 97–164, title I, §§ 139(*o*)(1), 140, Apr. 2, 1982, 96 Stat. 44, substituted “United States Claims Court Procedure” for “Court of Claims Procedure” in item for chapter 165 and struck out item for chapter 167 “Court of Customs and Patent Appeals Procedure”.
 
-1980—Pub. L. 96–417, title V, § 501(25), Oct. 10, 1980, 94 Stat. 1742, substituted “Court of International Trade Procedure” for “Customs Court Procedure” in item for chapter 169.
+1980—Pub. L. 96–417, title V, § 501(25), Oct. 10, 1980, 94 Stat. 1742, substituted “Court of International Trade Procedure” for “Customs Court Procedure” in item for chapter 169.
 
-1966—Pub. L. 89–793, title VI, § 603, Nov. 8, 1966, 80 Stat. 1450, added item for chapter 175.
+1966—Pub. L. 89–793, title VI, § 603, Nov. 8, 1966, 80 Stat. 1450, added item for chapter 175.
 
-Pub. L. 89–554, § 4(d), Sept. 6, 1966, 80 Stat. 621, added item for chapter 158.
+Pub. L. 89–554, § 4(d), Sept. 6, 1966, 80 Stat. 621, added item for chapter 158.
 
-1960—Pub. L. 86–682, § 10, Sept. 2, 1960, 74 Stat. 708, added item for chapter 173.
+1960—Pub. L. 86–682, § 10, Sept. 2, 1960, 74 Stat. 708, added item for chapter 173.
 
 - [CHAPTER 151—DECLARATORY JUDGMENTS](chapter-151-declaratory-judgments.md)
 

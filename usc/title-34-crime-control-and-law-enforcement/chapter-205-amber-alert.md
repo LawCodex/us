@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 205—AMBER ALERT
 
-## § 20501. National coordination of AMBER Alert communications network
+## § 20501. National coordination of AMBER Alert communications network
 
 **(a) Coordination within Department of Justice**
 
@@ -47,7 +47,7 @@ The Coordinator shall cooperate with the Secretary of Transportation, the Secret
 
 Not later than March 1, 2005, the Coordinator shall submit to Congress a report on the activities of the Coordinator and the effectiveness and status of the AMBER plans of each State that has implemented such a plan. The Coordinator shall prepare the report in consultation with the Secretary of Transportation.
 
-(Pub. L. 108–21, title III, § 301, Apr. 30, 2003, 117 Stat. 660; Pub. L. 116–283, div. H, title C, § 10001(a)(1), Jan. 1, 2021, 134 Stat. 4860.)
+(Pub. L. 108–21, title III, § 301, Apr. 30, 2003, 117 Stat. 660; Pub. L. 116–283, div. H, title C, § 10001(a)(1), Jan. 1, 2021, 134 Stat. 4860.)
 
 **Editorial Notes**
 
@@ -57,13 +57,13 @@ Section was formerly classified to section 5791 of Title 42, The Public Health a
 
 **Amendments**
 
-2021—Subsec. (b)(1). Pub. L. 116–283, § 10001(a)(1)(A)(i), inserted “(including airports, maritime ports, border crossing areas and checkpoints, and ports of exit from the United States)” after “gaps in areas of interstate travel”.
+2021—Subsec. (b)(1). Pub. L. 116–283, § 10001(a)(1)(A)(i), inserted “(including airports, maritime ports, border crossing areas and checkpoints, and ports of exit from the United States)” after “gaps in areas of interstate travel”.
 
-Subsec. (b)(2), (3). Pub. L. 116–283, § 10001(a)(1)(A)(ii), inserted “, territories of the United States, and tribal governments” after “States”.
+Subsec. (b)(2), (3). Pub. L. 116–283, § 10001(a)(1)(A)(ii), inserted “, territories of the United States, and tribal governments” after “States”.
 
-Subsec. (d). Pub. L. 116–283, § 10001(a)(1)(B), inserted “, the Secretary of Homeland Security,” after “Secretary of Transportation”.
+Subsec. (d). Pub. L. 116–283, § 10001(a)(1)(B), inserted “, the Secretary of Homeland Security,” after “Secretary of Transportation”.
 
-## § 20502. Minimum standards for issuance and dissemination of alerts through AMBER Alert communications network
+## § 20502. Minimum standards for issuance and dissemination of alerts through AMBER Alert communications network
 
 **(a) Establishment of minimum standards** Subject to subsection (b), the AMBER Alert Coordinator of the Department of Justice shall establish minimum standards for—
 
@@ -87,7 +87,7 @@ Subsec. (d). Pub. L. 116–283, § 10001(a)(1)(B), inserted “, the Secreta
 
 **(2)** The Coordinator shall also cooperate with local broadcasters and State, territorial, tribal, and local law enforcement agencies in establishing minimum standards under this section.
 
-(Pub. L. 108–21, title III, § 302, Apr. 30, 2003, 117 Stat. 661; Pub. L. 116–283, div. H, title C, § 10001(a)(2), Jan. 1, 2021, 134 Stat. 4861.)
+(Pub. L. 108–21, title III, § 302, Apr. 30, 2003, 117 Stat. 661; Pub. L. 116–283, div. H, title C, § 10001(a)(2), Jan. 1, 2021, 134 Stat. 4861.)
 
 **Editorial Notes**
 
@@ -97,13 +97,13 @@ Section was formerly classified to section 5791a of Title 42, The Public Health 
 
 **Amendments**
 
-2021—Subsec. (b)(2) to (4). Pub. L. 116–283, § 10001(a)(2)(A), inserted “, territorial, tribal,” after “State”.
+2021—Subsec. (b)(2) to (4). Pub. L. 116–283, § 10001(a)(2)(A), inserted “, territorial, tribal,” after “State”.
 
-Subsec. (c)(1). Pub. L. 116–283, § 10001(a)(2)(B)(i), inserted “, the Secretary of Homeland Security,” after “Secretary of Transportation”.
+Subsec. (c)(1). Pub. L. 116–283, § 10001(a)(2)(B)(i), inserted “, the Secretary of Homeland Security,” after “Secretary of Transportation”.
 
-Subsec. (c)(2). Pub. L. 116–283, § 10001(a)(2)(B)(ii), inserted “, territorial, tribal,” after “State”.
+Subsec. (c)(2). Pub. L. 116–283, § 10001(a)(2)(B)(ii), inserted “, territorial, tribal,” after “State”.
 
-## § 20503. Grant program for notification and communications systems along highways and major transportation routes for recovery of abducted children
+## § 20503. Grant program for notification and communications systems along highways and major transportation routes for recovery of abducted children
 
 **(a) Program required**
 
@@ -177,7 +177,7 @@ The Secretary shall conduct a study to examine State barriers to the adoption an
 
 Not later than 1 year after April 30, 2003, the Secretary shall transmit to Congress a report on the results of the study, together with any recommendations the Secretary determines appropriate.
 
-(Pub. L. 108–21, title III, § 303, Apr. 30, 2003, 117 Stat. 662; Pub. L. 116–283, div. H, title C, § 10001(b)(1), Jan. 1, 2021, 134 Stat. 4861.)
+(Pub. L. 108–21, title III, § 303, Apr. 30, 2003, 117 Stat. 662; Pub. L. 116–283, div. H, title C, § 10001(b)(1), Jan. 1, 2021, 134 Stat. 4861.)
 
 **Editorial Notes**
 
@@ -187,29 +187,29 @@ Section was formerly classified to section 5791b of Title 42, The Public Health 
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 10001(b)(1)(A), inserted “and major transportation routes” after “along highways” in section catchline.
+2021—Pub. L. 116–283, § 10001(b)(1)(A), inserted “and major transportation routes” after “along highways” in section catchline.
 
-Subsec. (a). Pub. L. 116–283, § 10001(b)(1)(B), inserted “(referred to in this section as the ‘Secretary’)” after “Secretary of Transportation” and “and at airports, maritime ports, border crossing areas and checkpoints, and ports of exit from the United States” after “along highways”.
+Subsec. (a). Pub. L. 116–283, § 10001(b)(1)(B), inserted “(referred to in this section as the ‘Secretary’)” after “Secretary of Transportation” and “and at airports, maritime ports, border crossing areas and checkpoints, and ports of exit from the United States” after “along highways”.
 
-Subsec. (b)(1). Pub. L. 116–283, § 10001(b)(1)(C)(i), substituted “other information systems to notify motorists, aircraft passengers, ship passengers, and travelers” for “other motorist information systems to notify motorists” and inserted “, aircraft passengers, ship passengers, and travelers” after “necessary to notify motorists”.
+Subsec. (b)(1). Pub. L. 116–283, § 10001(b)(1)(C)(i), substituted “other information systems to notify motorists, aircraft passengers, ship passengers, and travelers” for “other motorist information systems to notify motorists” and inserted “, aircraft passengers, ship passengers, and travelers” after “necessary to notify motorists”.
 
-Subsec. (b)(2)(A). Pub. L. 116–283, § 10001(b)(1)(C)(ii)(I), substituted “other information systems to notify motorists, aircraft passengers, ship passengers, and travelers” for “other motorist information systems to notify motorists”.
+Subsec. (b)(2)(A). Pub. L. 116–283, § 10001(b)(1)(C)(ii)(I), substituted “other information systems to notify motorists, aircraft passengers, ship passengers, and travelers” for “other motorist information systems to notify motorists”.
 
-Subsec. (b)(2)(D). Pub. L. 116–283, § 10001(b)(1)(C)(ii)(II), inserted “, aircraft passengers, ship passengers, and travelers” after “support the notification of motorists”.
+Subsec. (b)(2)(D). Pub. L. 116–283, § 10001(b)(1)(C)(ii)(II), inserted “, aircraft passengers, ship passengers, and travelers” after “support the notification of motorists”.
 
-Subsec. (b)(2)(E). Pub. L. 116–283, § 10001(b)(1)(C)(ii)(III), inserted “, aircraft passengers, ship passengers, and travelers” after “motorists” in two places.
+Subsec. (b)(2)(E). Pub. L. 116–283, § 10001(b)(1)(C)(ii)(III), inserted “, aircraft passengers, ship passengers, and travelers” after “motorists” in two places.
 
-Subsec. (b)(2)(F), (G). Pub. L. 116–283, § 10001(b)(1)(C)(ii)(IV), (V), inserted “, aircraft passengers, ship passengers, and travelers” after “motorists”.
+Subsec. (b)(2)(F), (G). Pub. L. 116–283, § 10001(b)(1)(C)(ii)(IV), (V), inserted “, aircraft passengers, ship passengers, and travelers” after “motorists”.
 
-Subsec. (c). Pub. L. 116–283, § 10001(b)(1)(D), substituted “other information systems to notify motorists, aircraft passengers, ship passengers, and travelers” for “other motorist information systems” in two places.
+Subsec. (c). Pub. L. 116–283, § 10001(b)(1)(D), substituted “other information systems to notify motorists, aircraft passengers, ship passengers, and travelers” for “other motorist information systems” in two places.
 
-Subsec. (d). Pub. L. 116–283, § 10001(b)(1)(E), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Federal share of the cost of any activities funded by a grant under this section may not exceed 80 percent.”
+Subsec. (d). Pub. L. 116–283, § 10001(b)(1)(E), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Federal share of the cost of any activities funded by a grant under this section may not exceed 80 percent.”
 
-Subsec. (g). Pub. L. 116–283, § 10001(b)(1)(F), substituted “In this chapter” for “In this section” and “American Samoa, Guam, Puerto Rico, the Northern Mariana Islands, the Virgin Islands of the United States, and any other territory of the United States” for “or Puerto Rico”.
+Subsec. (g). Pub. L. 116–283, § 10001(b)(1)(F), substituted “In this chapter” for “In this section” and “American Samoa, Guam, Puerto Rico, the Northern Mariana Islands, the Virgin Islands of the United States, and any other territory of the United States” for “or Puerto Rico”.
 
-Subsec. (h). Pub. L. 116–283, § 10001(b)(1)(G), substituted “each of fiscal years 2019 through 2023” for “fiscal year 2004”.
+Subsec. (h). Pub. L. 116–283, § 10001(b)(1)(G), substituted “each of fiscal years 2019 through 2023” for “fiscal year 2004”.
 
-## § 20504. Grant program for support of AMBER Alert communications plans
+## § 20504. Grant program for support of AMBER Alert communications plans
 
 **(a) Program required** The Attorney General shall carry out a program to provide grants to States and Indian tribes for—
 
@@ -257,7 +257,7 @@ In this section, the term “Indian tribe” means a federally recognized Indian
 
 **(2)** Amounts appropriated pursuant to the authorization of appropriations in paragraph (1) shall remain available until expended.
 
-(Pub. L. 108–21, title III, § 304, Apr. 30, 2003, 117 Stat. 663; Pub. L. 115–166, § 2, Apr. 13, 2018, 132 Stat. 1274; Pub. L. 116–283, div. H, title C, § 10001(c), Jan. 1, 2021, 134 Stat. 4862.)
+(Pub. L. 108–21, title III, § 304, Apr. 30, 2003, 117 Stat. 663; Pub. L. 115–166, § 2, Apr. 13, 2018, 132 Stat. 1274; Pub. L. 116–283, div. H, title C, § 10001(c), Jan. 1, 2021, 134 Stat. 4862.)
 
 **Editorial Notes**
 
@@ -267,35 +267,35 @@ Section was formerly classified to section 5791c of Title 42, The Public Health 
 
 **Amendments**
 
-2021—Subsec. (b)(4). Pub. L. 116–283, § 10001(c)(1), inserted “a territorial government or” after “with”.
+2021—Subsec. (b)(4). Pub. L. 116–283, § 10001(c)(1), inserted “a territorial government or” after “with”.
 
-Subsec. (c). Pub. L. 116–283, § 10001(c)(2), amended subsec. (c) generally. Prior to amendment, text read as follows:
+Subsec. (c). Pub. L. 116–283, § 10001(c)(2), amended subsec. (c) generally. Prior to amendment, text read as follows:
 
 “(1) In general.—Except as provided in paragraph (2), the Federal share of the cost of any activities funded by a grant under the program under subsection (a) may not exceed 50 percent.
 
 “(2) Waiver of Federal share.—If the Attorney General determines that an Indian tribe does not have sufficient funds available to comply with the Federal share requirement under paragraph (1) for the cost of activities funded by a grant for the purpose described in subsection (b)(4), the Attorney General may increase the Federal share of the costs for such activities to the extent the Attorney General determines necessary.”
 
-Subsec. (d). Pub. L. 116–283, § 10001(c)(3), inserted “, including territories of the United States” before period at end.
+Subsec. (d). Pub. L. 116–283, § 10001(c)(3), inserted “, including territories of the United States” before period at end.
 
-2018—Subsec. (a). Pub. L. 115–166, § 2(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Attorney General shall carry out a program to provide grants to States for the development or enhancement of programs and activities for the support of AMBER Alert communications plans.”
+2018—Subsec. (a). Pub. L. 115–166, § 2(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Attorney General shall carry out a program to provide grants to States for the development or enhancement of programs and activities for the support of AMBER Alert communications plans.”
 
-Subsec. (b)(4), (5). Pub. L. 115–166, § 2(2), added par. (4) and redesignated former par. (4) as (5).
+Subsec. (b)(4), (5). Pub. L. 115–166, § 2(2), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (c). Pub. L. 115–166, § 2(3), designated existing provisions as par. (1) and inserted heading, substituted “Except as provided in paragraph (2), the Federal” for “The Federal”, and added par. (2).
+Subsec. (c). Pub. L. 115–166, § 2(3), designated existing provisions as par. (1) and inserted heading, substituted “Except as provided in paragraph (2), the Federal” for “The Federal”, and added par. (2).
 
-Subsec. (e). Pub. L. 115–166, § 2(4), substituted “and standards to improve accountability and transparency for grants awarded under” for “for grants under”.
+Subsec. (e). Pub. L. 115–166, § 2(4), substituted “and standards to improve accountability and transparency for grants awarded under” for “for grants under”.
 
-Subsec. (f). Pub. L. 115–166, § 2(6), added subsec. (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 115–166, § 2(6), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 115–166, § 2(5), (7), redesignated subsec. (f) as (g) and, in par. (1), substituted “2019” for “2004” in two places and “paragraphs (3) and (4) of subsection (b)” for “subsection (b)(3)”.
+Subsec. (g). Pub. L. 115–166, § 2(5), (7), redesignated subsec. (f) as (g) and, in par. (1), substituted “2019” for “2004” in two places and “paragraphs (3) and (4) of subsection (b)” for “subsection (b)(3)”.
 
-## § 20505. Limitation on liability
+## § 20505. Limitation on liability
 
 **(a)** Except as provided in subsection (b), the National Center for Missing and Exploited Children, including any of its officers, employees, or agents, shall not be liable for damages in any civil action for defamation, libel, slander, or harm to reputation arising out of any action or communication by the National Center for Missing and Exploited Children, its officers, employees, or agents, in connection with any clearinghouse, hotline or complaint intake or forwarding program or in connection with activity that is wholly or partially funded by the United States and undertaken in cooperation with, or at the direction of a Federal law enforcement agency.
 
 **(b)** The limitation in subsection (a) does not apply in any action in which the plaintiff proves that the National Center for Missing and Exploited Children, its officers, employees, or agents acted with actual malice, or provided information or took action for a purpose unrelated to an activity mandated by Federal law. For purposes of this subsection, the prevention, or detection of crime, and the safety, recovery, or protection of missing or exploited children shall be deemed, per se, to be an activity mandated by Federal law.
 
-(Pub. L. 108–21, title III, § 305, Apr. 30, 2003, 117 Stat. 664.)
+(Pub. L. 108–21, title III, § 305, Apr. 30, 2003, 117 Stat. 664.)
 
 **Editorial Notes**
 

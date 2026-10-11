@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 10—FEDERAL ADVISORY COMMITTEES
 
-## § 1001. Definitions
+## § 1001. Definitions
 
 In this chapter:
 
@@ -41,27 +41,27 @@ In this chapter:
 
 **(4) Presidential advisory committee.—** The term “Presidential advisory committee” means an advisory committee that advises the President.
 
-(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4197.)
+(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4197.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1001 | 5 U.S.C. App. (FACA § 3) | Pub. L. 92–463, § 3, Oct. 6, 1972, 86 Stat. 770; Pub. L. 105–153, § 2(a), Dec. 17, 1997, 111 Stat. 2689. |
+| 1001 | 5 U.S.C. App. (FACA § 3) | Pub. L. 92–463, § 3, Oct. 6, 1972, 86 Stat. 770; Pub. L. 105–153, § 2(a), Dec. 17, 1997, 111 Stat. 2689. |
 
-[Although not mentioned in the explanation contained in H. Rept. 117–193, in par. (1), “ ‘Administrator’ means the Administrator of General Services” substituted for “ ‘Director’ means the Director of the Office of Management and Budget” because of section 5F of Reorganization Plan No. 1 of 1977 (5 U.S.C. App.).]
+[Although not mentioned in the explanation contained in H. Rept. 117–193, in par. (1), “ ‘Administrator’ means the Administrator of General Services” substituted for “ ‘Director’ means the Director of the Office of Management and Budget” because of section 5F of Reorganization Plan No. 1 of 1977 (5 U.S.C. App.).]
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1997 Act**
 
-Pub. L. 105–153, § 1, Dec. 17, 1997, 111 Stat. 2689, provided that: “This Act [see Tables for classification] may be cited as the ‘Federal Advisory Committee Act Amendments of 1997’.”
+Pub. L. 105–153, § 1, Dec. 17, 1997, 111 Stat. 2689, provided that: “This Act [see Tables for classification] may be cited as the ‘Federal Advisory Committee Act Amendments of 1997’.”
 
 **Short Title of 1972 Act**
 
-Pub. L. 92–463, § 1, Oct. 6, 1972, 86 Stat. 770, provided that: “This Act [see Tables for classification] may be cited as the ‘Federal Advisory Committee Act’.”
+Pub. L. 92–463, § 1, Oct. 6, 1972, 86 Stat. 770, provided that: “This Act [see Tables for classification] may be cited as the ‘Federal Advisory Committee Act’.”
 
-## § 1002. Findings and declarations
+## § 1002. Findings and declarations
 
 **(a) Findings.—** Congress finds that there are numerous committees, boards, commissions, councils, and similar groups which have been established to advise officers and agencies in the executive branch of the Federal Government and that they are frequently a useful and beneficial means of furnishing expert advice, ideas, and diverse opinions to the Federal Government.
 
@@ -79,13 +79,13 @@ Pub. L. 92–463, § 1, Oct. 6, 1972, 86 Stat. 770, provided that: “This Act
 
 **(6)** the function of advisory committees should be advisory only, and all matters under their consideration should be determined, in accordance with law, by the official, agency, or officer involved.
 
-(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4198.)
+(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4198.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1002 | 5 U.S.C. App. (FACA § 2) | Pub. L. 92–463, § 2, Oct. 6, 1972, 86 Stat. 770. |
+| 1002 | 5 U.S.C. App. (FACA § 2) | Pub. L. 92–463, § 2, Oct. 6, 1972, 86 Stat. 770. |
 
 **Executive Documents**
 
@@ -143,7 +143,7 @@ The Director of the Office of Management and Budget is hereby authorized and dir
 
 Barack Obama.
 
-## § 1003. Applicability
+## § 1003. Applicability
 
 **(a) In General.—** This chapter, and any rule, order, or regulation promulgated under this chapter, shall apply to each advisory committee except to the extent that the Act establishing the advisory committee specifically provides otherwise.
 
@@ -157,15 +157,15 @@ Barack Obama.
 
 **(c) Exemptions Relating to Certain Local and State Entities.—** Nothing in this chapter shall be construed to apply to any local civic group whose primary function is that of rendering a public service with respect to a Federal program, or any State or local committee, council, board, commission, or similar group established to advise or make recommendations to State or local officials or agencies.
 
-(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4198.)
+(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4198.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1003 | 5 U.S.C. App. (FACA § 4) | Pub. L. 92–463, § 4, Oct. 6, 1972, 86 Stat. 771; Pub. L. 111–259, title IV, § 410(a), Oct. 7, 2010, 124 Stat. 2724. |
+| 1003 | 5 U.S.C. App. (FACA § 4) | Pub. L. 92–463, § 4, Oct. 6, 1972, 86 Stat. 771; Pub. L. 111–259, title IV, § 410(a), Oct. 7, 2010, 124 Stat. 2724. |
 
-## § 1004. Responsibilities of congressional committees
+## § 1004. Responsibilities of congressional committees
 
 **(a) Review of Activities.—** In the exercise of its legislative review function, each standing committee of the Senate and the House of Representatives shall make a continuing review of the activities of each advisory committee under its jurisdiction to determine whether such advisory committee should be abolished or merged with any other advisory committee, whether the responsibilities of such advisory committee should be revised, and whether such advisory committee performs a necessary function not already being performed. Each such standing committee shall take appropriate action to obtain the enactment of legislation necessary to carry out the purpose of this subsection.
 
@@ -183,29 +183,29 @@ Barack Obama.
 
 **(c) Adherence to Guidelines.—** To the extent they are applicable, the guidelines set out in subsection (b) shall be followed by the President, agency heads, or other Federal officials in creating an advisory committee.
 
-(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4198.)
+(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4198.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1004 | 5 U.S.C. App. (FACA § 5) | Pub. L. 92–463, § 5, Oct. 6, 1972, 86 Stat. 771. |
+| 1004 | 5 U.S.C. App. (FACA § 5) | Pub. L. 92–463, § 5, Oct. 6, 1972, 86 Stat. 771. |
 
-## § 1005. Responsibilities of the President
+## § 1005. Responsibilities of the President
 
 **(a) Delegation.—** The President may delegate responsibility for evaluating and taking action, where appropriate, with respect to all public recommendations made to the President by Presidential advisory committees.
 
 **(b) Report on Response to Recommendations.—** Within 1 year after a Presidential advisory committee submits a public report to the President, the President or the President’s delegate shall submit to Congress a report stating either proposals for action or reasons for inaction, with respect to the recommendations contained in the public report.
 
-(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4199.)
+(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4199.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1005 | 5 U.S.C. App. (FACA § 6(a), (b)) | Pub. L. 92–463, § 6(a), (b), Oct. 6, 1972, 86 Stat. 772. |
+| 1005 | 5 U.S.C. App. (FACA § 6(a), (b)) | Pub. L. 92–463, § 6(a), (b), Oct. 6, 1972, 86 Stat. 772. |
 
-## § 1006. Responsibilities of the Administrator
+## § 1006. Responsibilities of the Administrator
 
 **(a) Committee Management Secretariat.—** The Administrator shall establish and maintain within the General Services Administration a Committee Management Secretariat, which shall be responsible for all matters relating to advisory committees.
 
@@ -249,13 +249,13 @@ Barack Obama.
 
 **(e) Budget Recommendations.—** The Administrator shall include in budget recommendations a summary of the amounts the Administrator considers necessary for the expenses of advisory committees, including the expenses for publication of reports where appropriate.
 
-(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4199.)
+(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4199.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1006 | 5 U.S.C. App. (FACA § 7) | Pub. L. 92–463, § 7, Oct. 6, 1972, 86 Stat. 772; Pub. L. 96–523, § 2, Dec. 12, 1980, 94 Stat. 3040. |
+| 1006 | 5 U.S.C. App. (FACA § 7) | Pub. L. 92–463, § 7, Oct. 6, 1972, 86 Stat. 772; Pub. L. 96–523, § 2, Dec. 12, 1980, 94 Stat. 3040. |
 
 In this section, the words “Administrator” and “General Services Administration” are substituted for “Director” and “Office of Management and Budget”, respectively, because of section 5F of Reorganization Plan No. 1 of 1977 (5 U.S.C. App.).
 
@@ -271,7 +271,7 @@ In subsection (d)(1)(C)(i), the words “individuals with disabilities” are su
 
 In subsection (d)(1)(C)(i), the citation to “(29 U.S.C. 791)” is substituted for “(29 U.S.C. 794)” to correct an error in the law.
 
-## § 1007. Responsibilities of agency heads
+## § 1007. Responsibilities of agency heads
 
 **(a) Administrative Guidelines and Management Controls.—** Each agency head shall establish uniform administrative guidelines and management controls for advisory committees established by that agency, which shall be consistent with directives of the Administrator under sections 1006 and 1009 of this title. Each agency shall maintain systematic information on the nature, functions, and operations of each advisory committee within its jurisdiction.
 
@@ -283,17 +283,17 @@ In subsection (d)(1)(C)(i), the citation to “(29 U.S.C. 791)” is substituted
 
 **(3)** carry out, on behalf of the agency, the provisions of section 552 of this title with respect to such reports, records, and other papers.
 
-(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4201.)
+(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4201.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1007 | 5 U.S.C. App. (FACA § 8) | Pub. L. 92–463, § 8, Oct. 6, 1972, 86 Stat. 773. |
+| 1007 | 5 U.S.C. App. (FACA § 8) | Pub. L. 92–463, § 8, Oct. 6, 1972, 86 Stat. 773. |
 
 In subsection (a), the word “Administrator” is substituted for “Director” (meaning the Director of the Office of Management and Budget) because of section 5F of Reorganization Plan No. 1 of 1977 (5 U.S.C. App.).
 
-## § 1008. Establishment and purpose of advisory committees
+## § 1008. Establishment and purpose of advisory committees
 
 **(a) Establishment.—** An advisory committee shall not be established unless establishment is—
 
@@ -339,17 +339,17 @@ In subsection (a), the word “Administrator” is substituted for “Director�
 
 **(3) Copy of charter to library of congress.—** A copy of the advisory committee charter shall be furnished to the Library of Congress.
 
-(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4201.)
+(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4201.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1008 | 5 U.S.C. App. (FACA § 9) | Pub. L. 92–463, § 9, Oct. 6, 1972, 86 Stat. 773. |
+| 1008 | 5 U.S.C. App. (FACA § 9) | Pub. L. 92–463, § 9, Oct. 6, 1972, 86 Stat. 773. |
 
 In subsection (a)(2) and subsection (c)(1)(A), the word “Administrator” is substituted for “Director” (meaning the Director of the Office of Management and Budget) because of section 5F of Reorganization Plan No. 1 of 1977 (5 U.S.C. App.).
 
-## § 1009. Advisory committee procedures
+## § 1009. Advisory committee procedures
 
 **(a) Committee Meetings.—**
 
@@ -369,61 +369,61 @@ In subsection (a)(2) and subsection (c)(1)(A), the word “Administrator” is s
 
 **(f) Call for Meeting or Advance Approval.—** Advisory committees shall not hold any meetings except at the call of, or with the advance approval of, a designated officer or employee of the Federal Government, and in the case of advisory committees (other than Presidential advisory committees), with an agenda approved by such officer or employee.
 
-(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4202.)
+(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4202.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1009 | 5 U.S.C. App. (FACA § 10) | Pub. L. 92–463, § 10, Oct. 6, 1972, 86 Stat. 774; Pub. L. 94–409, § 5(c), Sept. 13, 1976, 90 Stat. 1247. |
+| 1009 | 5 U.S.C. App. (FACA § 10) | Pub. L. 92–463, § 10, Oct. 6, 1972, 86 Stat. 774; Pub. L. 94–409, § 5(c), Sept. 13, 1976, 90 Stat. 1247. |
 
 In subsection (a), in paragraphs (2) and (3), the word “Administrator” is substituted for “Director” (meaning the Director of the Office of Management and Budget) because of section 5F of Reorganization Plan No. 1 of 1977 (5 U.S.C. App.).
 
-## § 1010. Availability of transcripts
+## § 1010. Availability of transcripts
 
 **(a) Definition of Agency Proceeding.—** In this section, the term “agency proceeding” has the meaning given the term in section 551 of this title.
 
 **(b) Availability.—** Agencies and advisory committees shall make available to any person, at actual cost of duplication, copies of transcripts of any agency proceeding or advisory committee meeting.
 
-(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4203.)
+(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4203.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1010 | 5 U.S.C. App. (FACA § 11) | Pub. L. 92–463, § 11, Oct. 6, 1972, 86 Stat. 775. |
+| 1010 | 5 U.S.C. App. (FACA § 11) | Pub. L. 92–463, § 11, Oct. 6, 1972, 86 Stat. 775. |
 
 In subsection (b), the words “Except where prohibited by contractual agreements entered into prior to the effective date of this Act [i.e., 90 days after October 6, 1972]” are omitted as obsolete.
 
-## § 1011. Fiscal and administrative provisions
+## § 1011. Fiscal and administrative provisions
 
 **(a) Records.—** Each agency shall keep records that fully disclose the disposition of any funds which may be at the disposal of its advisory committees and the nature and extent of their activities. The General Services Administration, or such other agency as the President may designate, shall maintain financial records with respect to Presidential advisory committees. The Comptroller General of the United States, or any authorized representative of the Comptroller General, shall have access to the records for the purpose of audit and examination.
 
 **(b) Support Services.—** Each agency shall be responsible for providing support services for each advisory committee established by or reporting to it unless the establishing authority provides otherwise. If an advisory committee reports to more than one agency, only one agency at a time shall be responsible for support services. In the case of Presidential advisory committees, support services may be provided by the General Services Administration.
 
-(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4203.)
+(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4203.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1011 | 5 U.S.C. App. (FACA § 12) | Pub. L. 92–463, § 12, Oct. 6, 1972, 86 Stat. 775. |
+| 1011 | 5 U.S.C. App. (FACA § 12) | Pub. L. 92–463, § 12, Oct. 6, 1972, 86 Stat. 775. |
 
-## § 1012. Responsibilities of Library of Congress
+## § 1012. Responsibilities of Library of Congress
 
 Subject to section 552 of this title, the Administrator shall provide for the filing with the Library of Congress of at least 8 copies of each report made by each advisory committee and, where appropriate, background papers prepared by consultants. The Librarian of Congress shall establish a depository for the reports and papers and make them available for public inspection and use.
 
-(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4204.)
+(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4204.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1012 | 5 U.S.C. App. (FACA § 13) | Pub. L. 92–463, § 13, Oct. 6, 1972, 86 Stat. 775. |
+| 1012 | 5 U.S.C. App. (FACA § 13) | Pub. L. 92–463, § 13, Oct. 6, 1972, 86 Stat. 775. |
 
 In this section, the word “Administrator” is substituted for “Director” (meaning the Director of the Office of Management and Budget) because of section 5F of Reorganization Plan No. 1 of 1977 (5 U.S.C. App.).
 
-## § 1013. Termination of advisory committees
+## § 1013. Termination of advisory committees
 
 **(a) In General.—**
 
@@ -435,9 +435,9 @@ In this section, the word “Administrator” is substituted for “Director” 
 
 **(2) Advisory committees established after january 5, 1973.—** Each advisory committee established after January 5, 1973, shall terminate not later than the expiration of the 2-year period beginning on the date of its establishment unless—
 
-**(A)** in the case of an advisory committee established by the President or an officer of the Federal Government 1
+**(A)** in the case of an advisory committee established by the President or an officer of the Federal Government 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 such advisory committee is renewed by the President or such officer by appropriate action prior to the end of such period; or
 
@@ -453,13 +453,13 @@ such advisory committee is renewed by the President or such officer by appropria
 
 **(c) Successive Two-Year Periods.—** An advisory committee that is renewed by the President or an officer of the Federal Government may be continued only for successive 2-year periods by appropriate action taken by the President or the officer prior to the date on which the advisory committee would otherwise terminate.
 
-(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4204.)
+(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4204.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1013 | 5 U.S.C. App. (FACA § 14) | Pub. L. 92–463, § 14, Oct. 6, 1972, 86 Stat. 776. |
+| 1013 | 5 U.S.C. App. (FACA § 14) | Pub. L. 92–463, § 14, Oct. 6, 1972, 86 Stat. 776. |
 
 In subsection (a)(1) (matter before subparagraph (A)), the date “January 5, 1973” is substituted for “the effective date of this Act”, and in subsection (a)(2) (matter before subparagraph (A)), the date “January 5, 1973” is substituted for “such effective date”, for clarity. In accordance with section 16 (formerly section 15) of the Federal Advisory Committee Act (Public Law 92–463, 86 Stat. 776), which provides “this Act shall become effective upon the expiration of ninety days following the date of enactment”, the effective date of the Act is January 5, 1973.
 
@@ -537,43 +537,43 @@ Donald J. Trump.
 
 Provisions providing for the continuance of certain Federal advisory committees were contained in the following:
 
-Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, partially superseded by Ex. Ord. No. 14354, § 3, Sept. 29, 2025, 90 F.R. 48146.
+Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, partially superseded by Ex. Ord. No. 14354, § 3, Sept. 29, 2025, 90 F.R. 48146.
 
-Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, partially superseded by Ex. Ord. No. 14109, § 3, Sept. 29, 2023, 88 F.R. 68449.
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, partially superseded by Ex. Ord. No. 14109, § 3, Sept. 29, 2023, 88 F.R. 68449.
 
-Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, as amended by Ex. Ord. No. 13935, § 4(a), July 9, 2020, 85 F.R. 42685, partially superseded by Ex. Ord. No. 14048, § 3, Sept. 30, 2021, 86 F.R. 55466.
+Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, as amended by Ex. Ord. No. 13935, § 4(a), July 9, 2020, 85 F.R. 42685, partially superseded by Ex. Ord. No. 14048, § 3, Sept. 30, 2021, 86 F.R. 55466.
 
-Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, partially superseded by Ex. Ord. No. 13889, § 3, Sept. 27, 2019, 84 F.R. 52745.
+Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, partially superseded by Ex. Ord. No. 13889, § 3, Sept. 27, 2019, 84 F.R. 52745.
 
-Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, partially superseded by Ex. Ord. No. 13811, § 3, Sept. 29, 2017, 82 F.R. 46365.
+Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, partially superseded by Ex. Ord. No. 13811, § 3, Sept. 29, 2017, 82 F.R. 46365.
 
-Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, partially superseded by Ex. Ord. No. 13708, § 3, Sept. 30, 2015, 80 F.R. 60273.
+Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, partially superseded by Ex. Ord. No. 13708, § 3, Sept. 30, 2015, 80 F.R. 60273.
 
-Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, partially superseded by Ex. Ord. No. 13652, § 3, Sept. 30, 2013, 78 F.R. 61818.
+Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, partially superseded by Ex. Ord. No. 13652, § 3, Sept. 30, 2013, 78 F.R. 61818.
 
-Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, as amended by Ex. Ord. No. 13592, § 5(c), Dec. 2, 2011, 76 F.R. 76607, partially superseded by Ex. Ord. No. 13652, § 3, Sept. 30, 2013, 78 F.R. 61818.
+Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, as amended by Ex. Ord. No. 13592, § 5(c), Dec. 2, 2011, 76 F.R. 76607, partially superseded by Ex. Ord. No. 13652, § 3, Sept. 30, 2013, 78 F.R. 61818.
 
-Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, partially superseded by Ex. Ord. No. 13585, § 3, Sept. 30, 2011, 76 F.R. 62281.
+Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, partially superseded by Ex. Ord. No. 13585, § 3, Sept. 30, 2011, 76 F.R. 62281.
 
-Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, partially superseded by Ex. Ord. No. 13511, § 3, Sept. 29, 2009, 74 F.R. 50910.
+Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, partially superseded by Ex. Ord. No. 13511, § 3, Sept. 29, 2009, 74 F.R. 50910.
 
-Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, partially superseded by Ex. Ord. No. 13446, § 4, Sept. 28, 2007, 72 F.R. 56176.
+Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, partially superseded by Ex. Ord. No. 13446, § 4, Sept. 28, 2007, 72 F.R. 56176.
 
-Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, partially superseded by Ex. Ord. No. 13385, § 4, Sept. 29, 2005, 70 F.R. 57990.
+Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, partially superseded by Ex. Ord. No. 13385, § 4, Sept. 29, 2005, 70 F.R. 57990.
 
-Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, superseded by Ex. Ord. No. 13316, § 4, Sept. 17, 2003, 68 F.R. 55256.
+Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, superseded by Ex. Ord. No. 13316, § 4, Sept. 17, 2003, 68 F.R. 55256.
 
-Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, as amended by Ex. Ord. No. 13226, § 4(c), Sept. 30, 2001, 66 F.R. 50524, partially superseded by Ex. Ord. No. 13225, § 4, Sept. 28, 2001, 66 F.R. 50292.
+Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, as amended by Ex. Ord. No. 13226, § 4(c), Sept. 30, 2001, 66 F.R. 50524, partially superseded by Ex. Ord. No. 13225, § 4, Sept. 28, 2001, 66 F.R. 50292.
 
-Ex. Ord. No. 13062, Sept. 29, 1997, 62 F.R. 51755, partially superseded by Ex. Ord. No. 13138, § 4, Sept. 30, 1999, 64 F.R. 53880.
+Ex. Ord. No. 13062, Sept. 29, 1997, 62 F.R. 51755, partially superseded by Ex. Ord. No. 13138, § 4, Sept. 30, 1999, 64 F.R. 53880.
 
 Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, superseded by Ex. Ord. No. 13062, Sept. 29, 1997, 62 F.R. 51755.
 
-Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, as amended by Ex. Ord. No. 12882, § 4(c), Nov. 23, 1993, 58 F.R. 62493, superseded by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875.
+Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, as amended by Ex. Ord. No. 12882, § 4(c), Nov. 23, 1993, 58 F.R. 62493, superseded by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875.
 
-Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, superseded by Ex. Ord. No. 12869, § 5, Sept. 30, 1993, 58 F.R. 51751.
+Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, superseded by Ex. Ord. No. 12869, § 5, Sept. 30, 1993, 58 F.R. 51751.
 
-Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, as amended by Ex. Ord. No. 12704, Feb. 26, 1990, 55 F.R. 6969, superseded by Ex. Ord. No. 12774, § 4, Sept. 27, 1991, 56 F.R. 49835.
+Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, as amended by Ex. Ord. No. 12704, Feb. 26, 1990, 55 F.R. 6969, superseded by Ex. Ord. No. 12774, § 4, Sept. 27, 1991, 56 F.R. 49835.
 
 Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, superseded by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627.
 
@@ -621,7 +621,7 @@ Ex. Ord. No. 12029, Dec. 14, 1977, 42 F.R. 63631.
 
 Ex. Ord. No. 12007, Aug. 22, 1977, 42 F.R. 42839.
 
-## § 1014. Requirements relating to National Academy of Sciences and National Academy of Public Administration
+## § 1014. Requirements relating to National Academy of Sciences and National Academy of Public Administration
 
 **(a) In General.—** An agency may not use any advice or recommendation provided by the National Academy of Sciences or National Academy of Public Administration that was developed by use of a committee created by that academy under an agreement with an agency, unless—
 
@@ -657,12 +657,12 @@ Ex. Ord. No. 12007, Aug. 22, 1977, 42 F.R. 42839.
 
 **(c) Regulations.—** The Administrator of General Services may issue regulations implementing this section.
 
-(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4205.)
+(Pub. L. 117–286, § 3(a), Dec. 27, 2022, 136 Stat. 4205.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1014 | 5 U.S.C. App. (FACA § 15) | Pub. L. 92–463, § 15, as added Pub. L. 105–153, § 2(b), Dec. 17, 1997, 111 Stat. 2689. |
+| 1014 | 5 U.S.C. App. (FACA § 15) | Pub. L. 92–463, § 15, as added Pub. L. 105–153, § 2(b), Dec. 17, 1997, 111 Stat. 2689. |
 
 In subsection (a)(2), the date “December 17, 1997” is substituted for “the date of the enactment of the Federal Advisory Committee Act Amendments of 1997” for clarity.

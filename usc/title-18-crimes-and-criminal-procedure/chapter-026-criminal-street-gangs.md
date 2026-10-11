@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1996—Pub. L. 104–294, title VI, § 604(a)(2), Oct. 11, 1996, 110 Stat. 3506, added chapter analysis.
+1996—Pub. L. 104–294, title VI, § 604(a)(2), Oct. 11, 1996, 110 Stat. 3506, added chapter analysis.
 
-## § 521. Criminal street gangs
+## § 521. Criminal street gangs
 
 **(a) Definitions.—** “conviction” includes a finding, under State or Federal law, that a person has committed an act of juvenile delinquency involving a violent or controlled substances felony. “criminal street gang” means an ongoing group, club, organization, or association of 5 or more persons—
 
@@ -65,7 +65,7 @@ retrieved: 2026-10-11
 
 **(D)** a conspiracy to commit an offense described in subparagraph (A), (B), or (C).
 
-(Added Pub. L. 103–322, title XV, § 150001(a), Sept. 13, 1994, 108 Stat. 2034; amended Pub. L. 104–294, title VI, § 607(q), Oct. 11, 1996, 110 Stat. 3513; Pub. L. 107–273, div. B, title IV, § 4002(b)(3), Nov. 2, 2002, 116 Stat. 1807; Pub. L. 115–392, § 12, Dec. 21, 2018, 132 Stat. 5255.)
+(Added Pub. L. 103–322, title XV, § 150001(a), Sept. 13, 1994, 108 Stat. 2034; amended Pub. L. 104–294, title VI, § 607(q), Oct. 11, 1996, 110 Stat. 3513; Pub. L. 107–273, div. B, title IV, § 4002(b)(3), Nov. 2, 2002, 116 Stat. 1807; Pub. L. 115–392, § 12, Dec. 21, 2018, 132 Stat. 5255.)
 
 **Editorial Notes**
 

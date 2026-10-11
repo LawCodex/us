@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 82—STATE AGRICULTURAL LOAN MEDIATION PROGRAMS
 
-## § 5101. Qualifying States
+## § 5101. Qualifying States
 
 **(a) In general**
 
@@ -111,39 +111,39 @@ Clause (i) shall not affect a State law requiring mediation before foreclosure o
 
 **(4)** the mediation session.
 
-(Pub. L. 100–233, title V, § 501, Jan. 6, 1988, 101 Stat. 1662; Pub. L. 100–399, title V, § 501, Aug. 17, 1988, 102 Stat. 1005; Pub. L. 103–354, title II, § 282(a), Oct. 13, 1994, 108 Stat. 3233; Pub. L. 106–472, title III, § 306(a), Nov. 9, 2000, 114 Stat. 2072; Pub. L. 115–334, title V, § 5402(a), Dec. 20, 2018, 132 Stat. 4674.)
+(Pub. L. 100–233, title V, § 501, Jan. 6, 1988, 101 Stat. 1662; Pub. L. 100–399, title V, § 501, Aug. 17, 1988, 102 Stat. 1005; Pub. L. 103–354, title II, § 282(a), Oct. 13, 1994, 108 Stat. 3233; Pub. L. 106–472, title III, § 306(a), Nov. 9, 2000, 114 Stat. 2072; Pub. L. 115–334, title V, § 5402(a), Dec. 20, 2018, 132 Stat. 4674.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Organic Foods Production Act of 1990, referred to in subsec. (c)(1)(B)(ii), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§ 6501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
+The Organic Foods Production Act of 1990, referred to in subsec. (c)(1)(B)(ii), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§ 6501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
 
 This Act, referred to in subsec. (c)(2)(B)(i), is Pub. L. 100–233, Jan. 6, 1988, 101 Stat. 1568, known as the Agricultural Credit Act of 1987. Provisions relating to mediation services are contained in title V of the Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
-2018—Subsec. (c)(1)(B). Pub. L. 115–334, § 5402(a)(1)(A)(i), struck out “under the jurisdiction of the Department of Agriculture” after “the following issues” in introductory provisions.
+2018—Subsec. (c)(1)(B). Pub. L. 115–334, § 5402(a)(1)(A)(i), struck out “under the jurisdiction of the Department of Agriculture” after “the following issues” in introductory provisions.
 
-Subsec. (c)(1)(B)(ii). Pub. L. 115–334, § 5402(a)(1)(A)(ii), inserted “and the national organic program established under the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et seq.)” before period at end.
+Subsec. (c)(1)(B)(ii). Pub. L. 115–334, § 5402(a)(1)(A)(ii), inserted “and the national organic program established under the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et seq.)” before period at end.
 
-Subsec. (c)(1)(B)(vii) to (x). Pub. L. 115–334, § 5402(a)(1)(A)(iii), added cls. (vii) to (x) and struck out former cl. (vii) which read as follows: “Such other issues as the Secretary considers appropriate.”
+Subsec. (c)(1)(B)(vii) to (x). Pub. L. 115–334, § 5402(a)(1)(A)(iii), added cls. (vii) to (x) and struck out former cl. (vii) which read as follows: “Such other issues as the Secretary considers appropriate.”
 
-Subsec. (c)(1)(C). Pub. L. 115–334, § 5402(a)(1)(B), added subpar. (C).
+Subsec. (c)(1)(C). Pub. L. 115–334, § 5402(a)(1)(B), added subpar. (C).
 
-Subsec. (c)(2)(A)(iv). Pub. L. 115–334, § 5402(a)(2), added cl. (iv).
+Subsec. (c)(2)(A)(iv). Pub. L. 115–334, § 5402(a)(2), added cl. (iv).
 
-Subsec. (c)(3)(F). Pub. L. 115–334, § 5402(a)(3), inserted dash after “program, that” and cl. (ii) designation before “persons” and added cl. (i).
+Subsec. (c)(3)(F). Pub. L. 115–334, § 5402(a)(3), inserted dash after “program, that” and cl. (ii) designation before “persons” and added cl. (i).
 
-2000—Subsec. (c)(1), (2). Pub. L. 106–472, § 306(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2), which required State mediation program to provide services for producers, their creditors, and other persons involved in agricultural loans, or involved in agricultural loans and such issues as wetlands determinations, compliance with farm programs, agricultural credit, rural water loan programs, grazing on National Forest System lands, pesticides, or such other issues considered appropriate.
+2000—Subsec. (c)(1), (2). Pub. L. 106–472, § 306(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2), which required State mediation program to provide services for producers, their creditors, and other persons involved in agricultural loans, or involved in agricultural loans and such issues as wetlands determinations, compliance with farm programs, agricultural credit, rural water loan programs, grazing on National Forest System lands, pesticides, or such other issues considered appropriate.
 
-Subsec. (d). Pub. L. 106–472, § 306(a)(2), added subsec. (d).
+Subsec. (d). Pub. L. 106–472, § 306(a)(2), added subsec. (d).
 
-1994—Subsec. (a). Pub. L. 103–354, § 282(a)(1), substituted “a mediation program” for “an agricultural loan mediation program”.
+1994—Subsec. (a). Pub. L. 103–354, § 282(a)(1), substituted “a mediation program” for “an agricultural loan mediation program”.
 
-Subsec. (b). Pub. L. 103–354, § 282(a)(2), struck out “agricultural loan” before “mediation program”.
+Subsec. (b). Pub. L. 103–354, § 282(a)(2), struck out “agricultural loan” before “mediation program”.
 
-Subsec. (c). Pub. L. 103–354, § 282(a)(3), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Within 15 days after the Secretary receives a description of a State agricultural loan mediation program, the Secretary shall certify the State as a qualifying State if the State program—
+Subsec. (c). Pub. L. 103–354, § 282(a)(3), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Within 15 days after the Secretary receives a description of a State agricultural loan mediation program, the Secretary shall certify the State as a qualifying State if the State program—
 
 “(1) provides for mediation services to be provided to producers, and their creditors, that, if decisions are reached, result in mediated, mutually agreeable decisions between parties under an agricultural loan mediation program;
 
@@ -165,9 +165,9 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–233, § 1, Aug. 16, 2010, 124 Stat. 2493, provided that: “This Act [amending section 5106 of this title] may be cited as the ‘Agricultural Credit Act of 2010’.”
+Pub. L. 111–233, § 1, Aug. 16, 2010, 124 Stat. 2493, provided that: “This Act [amending section 5106 of this title] may be cited as the ‘Agricultural Credit Act of 2010’.”
 
-## § 5102. Matching grants to States
+## § 5102. Matching grants to States
 
 **(a) Matching grants**
 
@@ -215,7 +215,7 @@ Each State that receives an amount paid under subsection (a) shall use that amou
 
 If the Secretary determines that a State has not complied with subsection (c), such State shall not be eligible for additional financial assistance under this chapter.
 
-(Pub. L. 100–233, title V, § 502, Jan. 6, 1988, 101 Stat. 1663; Pub. L. 102–554, § 22, Oct. 28, 1992, 106 Stat. 4161; Pub. L. 103–354, title II, § 282(f)(1)(A), Oct. 13, 1994, 108 Stat. 3235; Pub. L. 106–472, title III, § 306(b), Nov. 9, 2000, 114 Stat. 2072.)
+(Pub. L. 100–233, title V, § 502, Jan. 6, 1988, 101 Stat. 1663; Pub. L. 102–554, § 22, Oct. 28, 1992, 106 Stat. 4161; Pub. L. 103–354, title II, § 282(f)(1)(A), Oct. 13, 1994, 108 Stat. 3235; Pub. L. 106–472, title III, § 306(b), Nov. 9, 2000, 114 Stat. 2072.)
 
 **Editorial Notes**
 
@@ -225,11 +225,11 @@ If the Secretary determines that a State has not complied with subsection (c), s
 
 1994—Subsecs. (a), (b)(1), (c). Pub. L. 103–354 struck out “agricultural loan” before “mediation program”.
 
-1992—Subsec. (b)(1). Pub. L. 102–554, § 22(1), substituted “70” for “50”.
+1992—Subsec. (b)(1). Pub. L. 102–554, § 22(1), substituted “70” for “50”.
 
-Subsec. (c). Pub. L. 102–554, § 22(2), inserted before period at end “with respect to which the amount was paid”.
+Subsec. (c). Pub. L. 102–554, § 22(2), inserted before period at end “with respect to which the amount was paid”.
 
-## § 5103. Participation of Federal agencies
+## § 5103. Participation of Federal agencies
 
 **(a) Duties of Secretary of Agriculture**
 
@@ -255,27 +255,27 @@ The Secretary shall not be bound by any determination made in a program describe
 
 **(2)** to present and explore debt restructuring proposals advanced in the course of such mediation.
 
-(Pub. L. 100–233, title V, § 503, Jan. 6, 1988, 101 Stat. 1663; Pub. L. 100–399, title V, § 502, Aug. 17, 1988, 102 Stat. 1005; Pub. L. 103–354, title II, § 282(b), Oct. 13, 1994, 108 Stat. 3234.)
+(Pub. L. 100–233, title V, § 503, Jan. 6, 1988, 101 Stat. 1663; Pub. L. 100–399, title V, § 502, Aug. 17, 1988, 102 Stat. 1005; Pub. L. 103–354, title II, § 282(b), Oct. 13, 1994, 108 Stat. 3234.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsec. (a)(1). Pub. L. 103–354, § 282(b)(2), in introductory provisions inserted “or agency” after “each program” and struck out “that makes, guarantees, or insures agricultural loans” after “of the Secretary”.
+1994—Subsec. (a)(1). Pub. L. 103–354, § 282(b)(2), in introductory provisions inserted “or agency” after “each program” and struck out “that makes, guarantees, or insures agricultural loans” after “of the Secretary”.
 
-Subsec. (a)(1)(A). Pub. L. 103–354, § 282(b)(1), (3), inserted “or agency” after “such program”, struck out “agricultural loan” after “any State”, and inserted “certified under section 5101 of this title” after “mediation program”.
+Subsec. (a)(1)(A). Pub. L. 103–354, § 282(b)(1), (3), inserted “or agency” after “such program”, struck out “agricultural loan” after “any State”, and inserted “certified under section 5101 of this title” after “mediation program”.
 
-Subsec. (a)(1)(B). Pub. L. 103–354, § 282(b)(1), (4), struck out “, effective beginning on January 6, 1988,” after “shall”, and “agricultural loan” after “participate in”, and inserted “certified under section 5101 of this title” after “mediation programs”.
+Subsec. (a)(1)(B). Pub. L. 103–354, § 282(b)(1), (4), struck out “, effective beginning on January 6, 1988,” after “shall”, and “agricultural loan” after “participate in”, and inserted “certified under section 5101 of this title” after “mediation programs”.
 
-Subsec. (a)(1)(C)(i). Pub. L. 103–354, § 282(b)(1), (5)(A), struck out “agricultural loan” before “mediation program” and substituted “certified under” for “described in”.
+Subsec. (a)(1)(C)(i). Pub. L. 103–354, § 282(b)(1), (5)(A), struck out “agricultural loan” before “mediation program” and substituted “certified under” for “described in”.
 
-Subsec. (a)(1)(C)(ii). Pub. L. 103–354, § 282(b)(5)(B), inserted “if applicable,” before “present”.
+Subsec. (a)(1)(C)(ii). Pub. L. 103–354, § 282(b)(5)(B), inserted “if applicable,” before “present”.
 
-Subsec. (b)(1). Pub. L. 103–354, § 282(b)(1), struck out “agricultural loan” before “mediation program”.
+Subsec. (b)(1). Pub. L. 103–354, § 282(b)(1), struck out “agricultural loan” before “mediation program”.
 
-1988—Subsec. (a)(1)(B). Pub. L. 100–399, § 502(a), inserted “effective beginning” before “on”.
+1988—Subsec. (a)(1)(B). Pub. L. 100–399, § 502(a), inserted “effective beginning” before “on”.
 
-Subsec. (a)(2). Pub. L. 100–399, § 502(b), substituted “section 5101 of this title” for “paragraph (1)”.
+Subsec. (a)(2). Pub. L. 100–399, § 502(b), substituted “section 5101 of this title” for “paragraph (1)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -283,11 +283,11 @@ Subsec. (a)(2). Pub. L. 100–399, § 502(b), substituted “section 5101 of t
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of Title 12, Banks and Banking.
 
-## § 5104. Regulations
+## § 5104. Regulations
 
 The Secretary and the Farm Credit Administration shall prescribe such regulations as may be necessary to carry out this chapter. The regulations prescribed by the Secretary shall require qualifying States to adequately train mediators to address all of the issues covered by the mediation program of the State.
 
-(Pub. L. 100–233, title V, § 504, Jan. 6, 1988, 101 Stat. 1664; Pub. L. 103–354, title II, § 282(c), Oct. 13, 1994, 108 Stat. 3235.)
+(Pub. L. 100–233, title V, § 504, Jan. 6, 1988, 101 Stat. 1664; Pub. L. 103–354, title II, § 282(c), Oct. 13, 1994, 108 Stat. 3235.)
 
 **Editorial Notes**
 
@@ -295,7 +295,7 @@ The Secretary and the Farm Credit Administration shall prescribe such regulation
 
 1994—Pub. L. 103–354 in first sentence substituted “The” for “Within 150 days after January 6, 1988, the” and inserted at end “The regulations prescribed by the Secretary shall require qualifying States to adequately train mediators to address all of the issues covered by the mediation program of the State.”
 
-## § 5105. Report
+## § 5105. Report
 
 Not later than 2 years after December 20, 2018, the Secretary shall submit to Congress a report describing—
 
@@ -307,7 +307,7 @@ Not later than 2 years after December 20, 2018, the Secretary shall submit to Co
 
 **(4)** the savings to the States as a result of having a mediation program.
 
-(Pub. L. 100–233, title V, § 505, Jan. 6, 1988, 101 Stat. 1664; Pub. L. 103–354, title II, § 282(d), (f)(1), Oct. 13, 1994, 108 Stat. 3235; Pub. L. 115–334, title V, § 5402(b), Dec. 20, 2018, 132 Stat. 4675.)
+(Pub. L. 100–233, title V, § 505, Jan. 6, 1988, 101 Stat. 1664; Pub. L. 103–354, title II, § 282(d), (f)(1), Oct. 13, 1994, 108 Stat. 3235; Pub. L. 115–334, title V, § 5402(b), Dec. 20, 2018, 132 Stat. 4675.)
 
 **Editorial Notes**
 
@@ -317,11 +317,11 @@ Not later than 2 years after December 20, 2018, the Secretary shall submit to Co
 
 1994—Pub. L. 103–354 in introductory provisions substituted “1998” for “1990”, in par. (1) struck out “agricultural loan” before “mediation programs”, and in par. (3) substituted “a mediation” for “an agricultural loan mediation”.
 
-## § 5106. Authorization of appropriations
+## § 5106. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this chapter $7,500,000 for each of the fiscal years 1988 through 2023.
 
-(Pub. L. 100–233, title V, § 506, Jan. 6, 1988, 101 Stat. 1664; Pub. L. 101–624, title XVIII, § 1853, Nov. 28, 1990, 104 Stat. 3837; Pub. L. 103–354, title II, § 282(e), Oct. 13, 1994, 108 Stat. 3235; Pub. L. 106–472, title III, § 306(c), Nov. 9, 2000, 114 Stat. 2073; Pub. L. 109–17, § 1, June 29, 2005, 119 Stat. 339; Pub. L. 111–233, § 2, Aug. 16, 2010, 124 Stat. 2493; Pub. L. 113–79, title V, § 5401, Feb. 7, 2014, 128 Stat. 840; Pub. L. 115–334, title V, § 5402(c), Dec. 20, 2018, 132 Stat. 4675.)
+(Pub. L. 100–233, title V, § 506, Jan. 6, 1988, 101 Stat. 1664; Pub. L. 101–624, title XVIII, § 1853, Nov. 28, 1990, 104 Stat. 3837; Pub. L. 103–354, title II, § 282(e), Oct. 13, 1994, 108 Stat. 3235; Pub. L. 106–472, title III, § 306(c), Nov. 9, 2000, 114 Stat. 2073; Pub. L. 109–17, § 1, June 29, 2005, 119 Stat. 339; Pub. L. 111–233, § 2, Aug. 16, 2010, 124 Stat. 2493; Pub. L. 113–79, title V, § 5401, Feb. 7, 2014, 128 Stat. 840; Pub. L. 115–334, title V, § 5402(c), Dec. 20, 2018, 132 Stat. 4675.)
 
 **Editorial Notes**
 

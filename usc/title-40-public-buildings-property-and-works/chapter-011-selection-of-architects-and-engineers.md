@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 11—SELECTION OF ARCHITECTS AND ENGINEERS
 
-## § 1101. Policy
+## § 1101. Policy
 
 The policy of the Federal Government is to publicly announce all requirements for architectural and engineering services and to negotiate contracts for architectural and engineering services on the basis of demonstrated competence and qualification for the type of professional services required and at fair and reasonable prices.
 
@@ -25,11 +25,11 @@ The policy of the Federal Government is to publicly announce all requirements fo
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1101 | 40:542. | June 30, 1949, ch. 288, title IX, § 902, as added Pub. L. 92–582, Oct. 27, 1972, 86 Stat. 1279. |
+| 1101 | 40:542. | June 30, 1949, ch. 288, title IX, § 902, as added Pub. L. 92–582, Oct. 27, 1972, 86 Stat. 1279. |
 
 The words “The Congress hereby declares” are omitted as unnecessary.
 
-## § 1102. Definitions
+## § 1102. Definitions
 
 In this chapter, the following definitions apply:
 
@@ -51,11 +51,11 @@ In this chapter, the following definitions apply:
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1102 | 40:541. | June 30, 1949, ch. 288, title IX, § 901, as added Pub. L. 92–582, Oct. 27, 1972, 86 Stat. 1278; Pub. L. 100–656, title VII, § 742, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 100–679, § 8, Nov. 17, 1988, 102 Stat. 4068. |
+| 1102 | 40:541. | June 30, 1949, ch. 288, title IX, § 901, as added Pub. L. 92–582, Oct. 27, 1972, 86 Stat. 1278; Pub. L. 100–656, title VII, § 742, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 100–679, § 8, Nov. 17, 1988, 102 Stat. 4068. |
 
 In clause (1), the words “Secretary, Administrator, or” are omitted as unnecessary.
 
-## § 1103. Selection procedure
+## § 1103. Selection procedure
 
 **(a) In General.—** These procedures apply to the procurement of architectural and engineering services by an agency head.
 
@@ -71,7 +71,7 @@ In clause (1), the words “Secretary, Administrator, or” are omitted as unnec
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1103 | 40:543. | June 30, 1949, ch. 288, title IX, § 903, as added Pub. L. 92–582, Oct. 27, 1972, 86 Stat. 1279. |
+| 1103 | 40:543. | June 30, 1949, ch. 288, title IX, § 903, as added Pub. L. 92–582, Oct. 27, 1972, 86 Stat. 1279. |
 
 In subsection (b), the words “engaged in the lawful practice of their profession” are omitted as unnecessary because of the definition of “firm” in section 1102 of the revised title.
 
@@ -81,7 +81,7 @@ In subsection (c), the words “compare alternative methods for furnishing servi
 
 **Architectural and Engineering Services**
 
-Pub. L. 108–136, div. A, title XIV, § 1427(b), Nov. 24, 2003, 117 Stat. 1670, as amended by Pub. L. 117–81, div. A, title XVII, § 1702(*l*)(8), Dec. 27, 2021, 135 Stat. 2161, provided that:
+Pub. L. 108–136, div. A, title XIV, § 1427(b), Nov. 24, 2003, 117 Stat. 1670, as amended by Pub. L. 117–81, div. A, title XVII, § 1702(*l*)(8), Dec. 27, 2021, 135 Stat. 2161, provided that:
 
 > “Architectural and engineering services (as defined in section 1102 of title 40, United States Code) shall not be offered under multiple-award schedule contracts entered into by the Administrator of General Services or under Governmentwide task and delivery order contracts entered into under sections 3403 and 3405 of title 10, United States Code, or sections 303H and 303I of the Federal Property and Administrative Services Act of 1949 ([former] 41 U.S.C. 253h and 253i) [now 41 U.S.C. 4103, 4105(a) to (c)(1), (d) to (i)] unless such services—
 
@@ -89,7 +89,7 @@ Pub. L. 108–136, div. A, title XIV, § 1427(b), Nov. 24, 2003, 117 Stat. 167
 
 > **“(2)** are awarded in accordance with the selection procedures set forth in chapter 11 of title 40, United States Code.”
 
-## § 1104. Negotiation of contract
+## § 1104. Negotiation of contract
 
 **(a) In General.—** The agency head shall negotiate a contract for architectural and engineering services at compensation which the agency head determines is fair and reasonable to the Federal Government. In determining fair and reasonable compensation, the agency head shall consider the scope, complexity, professional nature, and estimated value of the services to be rendered.
 
@@ -101,4 +101,4 @@ Pub. L. 108–136, div. A, title XIV, § 1427(b), Nov. 24, 2003, 117 Stat. 167
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1104 | 40:544. | June 30, 1949, ch. 288, title IX, § 904, as added Pub. L. 92–582, Oct. 27, 1972, 86 Stat. 1279. |
+| 1104 | 40:544. | June 30, 1949, ch. 288, title IX, § 904, as added Pub. L. 92–582, Oct. 27, 1972, 86 Stat. 1279. |

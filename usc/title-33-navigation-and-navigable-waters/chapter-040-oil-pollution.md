@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—OIL POLLUTION LIABILITY AND COMPENSATION
 
-### § 2701. Definitions
+### § 2701. Definitions
 
 For the purposes of this Act, the term—
 
@@ -203,21 +203,21 @@ if the person seeks to sell, re-lease (in the case of a lease finance transactio
 
 if such actions do not rise to the level of participating in management under subparagraph (A) of this paragraph and paragraph (26)(A)(vi);
 
-**(39)** “extension of credit” has the meaning provided in section 101(20)(H)(i) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 (42 U.S.C. 9601(20)(G)(i)); 1
+**(39)** “extension of credit” has the meaning provided in section 101(20)(H)(i) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 (42 U.S.C. 9601(20)(G)(i)); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-**(40)** “financial or administrative function” has the meaning provided in section 101(20)(H)(ii) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 (42 U.S.C. 9601(20)(G)(ii)); <sup>1</sup>
+**(40)** “financial or administrative function” has the meaning provided in section 101(20)(H)(ii) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 (42 U.S.C. 9601(20)(G)(ii)); <sup>1</sup>
 
-**(41)** “foreclosure” and “foreclose” each has the meaning provided in section 101(20)(H)(iii) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 (42 U.S.C. 9601(20)(G)(iii)); <sup>1</sup>
+**(41)** “foreclosure” and “foreclose” each has the meaning provided in section 101(20)(H)(iii) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 (42 U.S.C. 9601(20)(G)(iii)); <sup>1</sup>
 
-**(42)** “lender” has the meaning provided in section 101(20)(H)(iv) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 (42 U.S.C. 9601(20)(G)(iv)); <sup>1</sup>
+**(42)** “lender” has the meaning provided in section 101(20)(H)(iv) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 (42 U.S.C. 9601(20)(G)(iv)); <sup>1</sup>
 
-**(43)** “operational function” has the meaning provided in section 101(20)(H)(v) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 (42 U.S.C. 9601(20)(G)(v)); <sup>1</sup> and
+**(43)** “operational function” has the meaning provided in section 101(20)(H)(v) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 (42 U.S.C. 9601(20)(G)(v)); <sup>1</sup> and
 
 **(44)** “security interest” has the meaning provided in ection 101(20)(H)(vi) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 (42 U.S.C. 9601(20)(G)(vi)).<sup>1</sup>
 
-(Pub. L. 101–380, title I, § 1001, Aug. 18, 1990, 104 Stat. 486; Pub. L. 105–383, title III, § 307(a), Nov. 13, 1998, 112 Stat. 3421; Pub. L. 108–293, title VII, § 703(a), (b), Aug. 9, 2004, 118 Stat. 1069, 1071; Pub. L. 111–281, title VII, § 713, Oct. 15, 2010, 124 Stat. 2988; Pub. L. 115–91, div. C, title XXXV, § 3508(b)(1)(A), Dec. 12, 2017, 131 Stat. 1915; Pub. L. 115–232, div. C, title XXXV, § 3544(d), Aug. 13, 2018, 132 Stat. 2325; Pub. L. 119–60, div. G, title LXXVII, § 7701(g)(1), Dec. 18, 2025, 139 Stat. 1836.)
+(Pub. L. 101–380, title I, § 1001, Aug. 18, 1990, 104 Stat. 486; Pub. L. 105–383, title III, § 307(a), Nov. 13, 1998, 112 Stat. 3421; Pub. L. 108–293, title VII, § 703(a), (b), Aug. 9, 2004, 118 Stat. 1069, 1071; Pub. L. 111–281, title VII, § 713, Oct. 15, 2010, 124 Stat. 2988; Pub. L. 115–91, div. C, title XXXV, § 3508(b)(1)(A), Dec. 12, 2017, 131 Stat. 1915; Pub. L. 115–232, div. C, title XXXV, § 3544(d), Aug. 13, 2018, 132 Stat. 2325; Pub. L. 119–60, div. G, title LXXVII, § 7701(g)(1), Dec. 18, 2025, 139 Stat. 1836.)
 
 **Editorial Notes**
 
@@ -225,75 +225,75 @@ if such actions do not rise to the level of participating in management under su
 
 This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Deepwater Port Act of 1974, referred to in pars. (6) and (32)(C), (D), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, which is classified generally to chapter 29 (§ 1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
+The Deepwater Port Act of 1974, referred to in pars. (6) and (32)(C), (D), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, which is classified generally to chapter 29 (§ 1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
 
 Presidential Proclamation Numbered 5030, referred to in par. (8), is Proc. No. 5030, Mar. 10, 1983, 48 F.R. 10605, which is set out as a note under section 1453 of Title 16, Conservation.
 
-The Outer Continental Shelf Lands Act, referred to in pars. (16) and (32)(C), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in pars. (16) and (32)(C), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
-The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in par. (23), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in par. (23), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
-The parenthetical references to 42 U.S.C. 9601(20)(G)(i) to 42 U.S.C. 9601(20)(G)(vi), referred to in pars. (39) to (44), respectively, should be to 42 U.S.C. 9601(20)(H)(i) to 42 U.S.C. 9601(20)(H)(vi), respectively, in correspondence with the amendments made in pars. (39) to (44) by Pub. L. 119–60, § 7701(g)(1)(B)–(G), to the references to section 101(20) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980. See Amendment notes below.
+The parenthetical references to 42 U.S.C. 9601(20)(G)(i) to 42 U.S.C. 9601(20)(G)(vi), referred to in pars. (39) to (44), respectively, should be to 42 U.S.C. 9601(20)(H)(i) to 42 U.S.C. 9601(20)(H)(vi), respectively, in correspondence with the amendments made in pars. (39) to (44) by Pub. L. 119–60, § 7701(g)(1)(B)–(G), to the references to section 101(20) of the Comprehensive Environmental Response, Compensation and Liability Act of 1980. See Amendment notes below.
 
 **Amendments**
 
-2025—Par. (32)(G). Pub. L. 119–60, § 7701(g)(1)(A), substituted “pipeline, offshore facility” for “pipeline,, offshore facility”.
+2025—Par. (32)(G). Pub. L. 119–60, § 7701(g)(1)(A), substituted “pipeline, offshore facility” for “pipeline,, offshore facility”.
 
-Par. (39). Pub. L. 119–60, § 7701(g)(1)(B), substituted “section 101(20)(H)(i)” for “section 101(20)(G)(i)”.
+Par. (39). Pub. L. 119–60, § 7701(g)(1)(B), substituted “section 101(20)(H)(i)” for “section 101(20)(G)(i)”.
 
-Par. (40). Pub. L. 119–60, § 7701(g)(1)(C), substituted “section 101(20)(H)(ii)” for “section 101(20)(G)(ii)”.
+Par. (40). Pub. L. 119–60, § 7701(g)(1)(C), substituted “section 101(20)(H)(ii)” for “section 101(20)(G)(ii)”.
 
-Par. (41). Pub. L. 119–60, § 7701(g)(1)(D), substituted “section 101(20)(H)(iii)” for “section 101(20)(G)(iii)”.
+Par. (41). Pub. L. 119–60, § 7701(g)(1)(D), substituted “section 101(20)(H)(iii)” for “section 101(20)(G)(iii)”.
 
-Par. (42). Pub. L. 119–60, § 7701(g)(1)(E), substituted “section 101(20)(H)(iv)” for “section 101(20)(G)(iv)”.
+Par. (42). Pub. L. 119–60, § 7701(g)(1)(E), substituted “section 101(20)(H)(iv)” for “section 101(20)(G)(iv)”.
 
-Par. (43). Pub. L. 119–60, § 7701(g)(1)(F), substituted “section 101(20)(H)(v)” for “section 101(20)(G)(v)”.
+Par. (43). Pub. L. 119–60, § 7701(g)(1)(F), substituted “section 101(20)(H)(v)” for “section 101(20)(G)(v)”.
 
-Par. (44). Pub. L. 119–60, § 7701(g)(1)(G), substituted “section 101(20)(H)(vi)” for “section 101(20)(G)(vi)”.
+Par. (44). Pub. L. 119–60, § 7701(g)(1)(G), substituted “section 101(20)(H)(vi)” for “section 101(20)(G)(vi)”.
 
 2018—Par. (32)(A). Pub. L. 115–232 struck out “(other than a vessel described in section 3703a(b)(3) of title 46)” before period at end.
 
-2017—Par. (26)(A)(ii). Pub. L. 115–91, § 3508(b)(1)(A)(i)(I), substituted “onshore facility, offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, any person or entity” for “onshore or offshore facility, any person”.
+2017—Par. (26)(A)(ii). Pub. L. 115–91, § 3508(b)(1)(A)(i)(I), substituted “onshore facility, offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, any person or entity” for “onshore or offshore facility, any person”.
 
-Par. (26)(A)(iii). Pub. L. 115–91, § 3508(b)(1)(A)(i)(II), substituted “offshore facility or foreign offshore unit or other facility located seaward of the exclusive economic zone, the person or entity that” for “offshore facility, the person who”.
+Par. (26)(A)(iii). Pub. L. 115–91, § 3508(b)(1)(A)(i)(II), substituted “offshore facility or foreign offshore unit or other facility located seaward of the exclusive economic zone, the person or entity that” for “offshore facility, the person who”.
 
-Par. (32)(D) to (G). Pub. L. 115–91, § 3508(b)(1)(A)(ii), added subpar. (D), redesignated former subpars. (D) to (F) as (E) to (G), respectively, and in subpar. (G) substituted “, offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, the persons or entities that” for “or offshore facility, the persons who”.
+Par. (32)(D) to (G). Pub. L. 115–91, § 3508(b)(1)(A)(ii), added subpar. (D), redesignated former subpars. (D) to (F) as (E) to (G), respectively, and in subpar. (G) substituted “, offshore facility, or foreign offshore unit or other facility located seaward of the exclusive economic zone, the persons or entities that” for “or offshore facility, the persons who”.
 
 2010—Par. (32)(A). Pub. L. 111–281 inserted “In the case of a vessel, the term ‘responsible party’ also includes the owner of oil being transported in a tank vessel with a single hull after December 31, 2010 (other than a vessel described in section 3703a(b)(3) of title 46).” after “chartering the vessel.”
 
-2004—Par. (26). Pub. L. 108–293, § 703(a), amended par. (26) generally. Prior to amendment, par. (26) read as follows: “ ‘owner or operator’ means (A) in the case of a vessel, any person owning, operating, or chartering by demise, the vessel, and (B) in the case of an onshore facility, and an offshore facility, any person owning or operating such onshore facility or offshore facility, and (C) in the case of any abandoned offshore facility, the person who owned or operated such facility immediately prior to such abandonment;”.
+2004—Par. (26). Pub. L. 108–293, § 703(a), amended par. (26) generally. Prior to amendment, par. (26) read as follows: “ ‘owner or operator’ means (A) in the case of a vessel, any person owning, operating, or chartering by demise, the vessel, and (B) in the case of an onshore facility, and an offshore facility, any person owning or operating such onshore facility or offshore facility, and (C) in the case of any abandoned offshore facility, the person who owned or operated such facility immediately prior to such abandonment;”.
 
-Pars. (38) to (44). Pub. L. 108–293, § 703(b), added pars. (38) to (44).
+Pars. (38) to (44). Pub. L. 108–293, § 703(b), added pars. (38) to (44).
 
-1998—Par. (23). Pub. L. 105–383 amended par. (23) generally. Prior to amendment, par. (23) read as follows: “ ‘oil’ means oil of any kind or in any form, including, but not limited to, petroleum, fuel oil, sludge, oil refuse, and oil mixed with wastes other than dredged spoil, but does not include petroleum, including crude oil or any fraction thereof, which is specifically listed or designated as a hazardous substance under subparagraphs (A) through (F) of section 101(14) of the Comprehensive Environmental Response, Compensation, and Liability Act (42 U.S.C. 9601) and which is subject to the provisions of that Act;”.
+1998—Par. (23). Pub. L. 105–383 amended par. (23) generally. Prior to amendment, par. (23) read as follows: “ ‘oil’ means oil of any kind or in any form, including, but not limited to, petroleum, fuel oil, sludge, oil refuse, and oil mixed with wastes other than dredged spoil, but does not include petroleum, including crude oil or any fraction thereof, which is specifically listed or designated as a hazardous substance under subparagraphs (A) through (F) of section 101(14) of the Comprehensive Environmental Response, Compensation, and Liability Act (42 U.S.C. 9601) and which is subject to the provisions of that Act;”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 101–380, title I, § 1020, Aug. 18, 1990, 104 Stat. 506, provided that: “This Act [see Short Title of 1990 Amendments note below for classification] shall apply to an incident occurring after the date of the enactment of this Act [Aug. 18, 1990].”
+Pub. L. 101–380, title I, § 1020, Aug. 18, 1990, 104 Stat. 506, provided that: “This Act [see Short Title of 1990 Amendments note below for classification] shall apply to an incident occurring after the date of the enactment of this Act [Aug. 18, 1990].”
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–241, title VI, § 601, July 11, 2006, 120 Stat. 553, provided that: “This title [enacting sections 1232b and 2762 of this title, amending sections 1321, 2704, and 2761 of this title, and enacting provisions set out as notes under section 2704 of this title] may be cited as the ‘Delaware River Protection Act of 2006’.”
+Pub. L. 109–241, title VI, § 601, July 11, 2006, 120 Stat. 553, provided that: “This title [enacting sections 1232b and 2762 of this title, amending sections 1321, 2704, and 2761 of this title, and enacting provisions set out as notes under section 2704 of this title] may be cited as the ‘Delaware River Protection Act of 2006’.”
 
 **Short Title of 1995 Amendment**
 
-Pub. L. 104–55, § 1, Nov. 20, 1995, 109 Stat. 546, provided that: “This Act [enacting section 2720 of this title and amending sections 2704 and 2716 of this title] may be cited as the ‘Edible Oil Regulatory Reform Act’.”
+Pub. L. 104–55, § 1, Nov. 20, 1995, 109 Stat. 546, provided that: “This Act [enacting section 2720 of this title and amending sections 2704 and 2716 of this title] may be cited as the ‘Edible Oil Regulatory Reform Act’.”
 
 **Short Title of 1990 Amendments**
 
-Pub. L. 101–537, title II, § 2001, Nov. 8, 1990, 104 Stat. 2375, and Pub. L. 101–646, title IV, § 4001, Nov. 29, 1990, 104 Stat. 4788, as amended by Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091, provided that: “This title [amending section 2761 of this title] may be cited as the ‘Great Lakes Oil Pollution Research and Development Act’.”
+Pub. L. 101–537, title II, § 2001, Nov. 8, 1990, 104 Stat. 2375, and Pub. L. 101–646, title IV, § 4001, Nov. 29, 1990, 104 Stat. 4788, as amended by Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091, provided that: “This title [amending section 2761 of this title] may be cited as the ‘Great Lakes Oil Pollution Research and Development Act’.”
 
 **Short Title**
 
-Pub. L. 101–380, § 1, Aug. 18, 1990, 104 Stat. 484, provided that: “This Act [enacting this chapter, sections 1642 and 1656 of Title 43, Public Lands, sections 3703a and 7505 of Title 46, Shipping, and section 1274a of the Appendix to Title 46, amending sections 1223, 1228, 1232, 1236, 1319, 1321, 1481, 1486, 1503, 1514, and 1908 of this title, section 3145 of Title 16, Conservation, sections 4612 and 9509 of Title 26, Internal Revenue Code, sections 1334, 1350, and 1653 of Title 43, sections 2101, 2302, 3318, 3715, 3718, 5116, 6101, 7101, 7106, 7107, 7109, 7302, 7502, 7503, 7701 to 7703, 8101, 8104, 8502, 8503, 8702, 9101, 9102, 9302, 9308, and 12106 of Title 46, and section 1274 of the Appendix to Title 46, repealing section 1517 of this title and sections 1811 and 1812 to 1824 of Title 43, enacting provisions set out as notes under this section, sections 1203, 1223, and 1321, of this title, section 92 of Title 14, Coast Guard, section 9509 of Title 26, sections 1334, 1651, and 1653 of Title 43, sections 3703, 3703a, and 7106 of Title 46, and section 1295 of the Appendix to Title 46, amending provisions set out as a note under section 401 of Title 23, Highways, and repealing provisions set out as a note under section 1811 of Title 43] may be cited as the ‘Oil Pollution Act of 1990’.”
+Pub. L. 101–380, § 1, Aug. 18, 1990, 104 Stat. 484, provided that: “This Act [enacting this chapter, sections 1642 and 1656 of Title 43, Public Lands, sections 3703a and 7505 of Title 46, Shipping, and section 1274a of the Appendix to Title 46, amending sections 1223, 1228, 1232, 1236, 1319, 1321, 1481, 1486, 1503, 1514, and 1908 of this title, section 3145 of Title 16, Conservation, sections 4612 and 9509 of Title 26, Internal Revenue Code, sections 1334, 1350, and 1653 of Title 43, sections 2101, 2302, 3318, 3715, 3718, 5116, 6101, 7101, 7106, 7107, 7109, 7302, 7502, 7503, 7701 to 7703, 8101, 8104, 8502, 8503, 8702, 9101, 9102, 9302, 9308, and 12106 of Title 46, and section 1274 of the Appendix to Title 46, repealing section 1517 of this title and sections 1811 and 1812 to 1824 of Title 43, enacting provisions set out as notes under this section, sections 1203, 1223, and 1321, of this title, section 92 of Title 14, Coast Guard, section 9509 of Title 26, sections 1334, 1651, and 1653 of Title 43, sections 3703, 3703a, and 7106 of Title 46, and section 1295 of the Appendix to Title 46, amending provisions set out as a note under section 401 of Title 23, Highways, and repealing provisions set out as a note under section 1811 of Title 43] may be cited as the ‘Oil Pollution Act of 1990’.”
 
 **Transfer of Functions**
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 2702. Elements of liability
+### § 2702. Elements of liability
 
 **(a) In general**
 
@@ -365,7 +365,7 @@ If the act or omission of a third party that causes an incident occurs in connec
 
 In any other case, the liability of a third party or parties shall not exceed the limitation which would have been applicable to the responsible party of the vessel or facility from which the discharge actually occurred if the responsible party were liable.
 
-(Pub. L. 101–380, title I, § 1002, Aug. 18, 1990, 104 Stat. 489.)
+(Pub. L. 101–380, title I, § 1002, Aug. 18, 1990, 104 Stat. 489.)
 
 **Editorial Notes**
 
@@ -373,11 +373,11 @@ In any other case, the liability of a third party or parties shall not exceed th
 
 This Act, referred to in subsec. (a), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-The Intervention on the High Seas Act, referred to in subsec. (b)(1)(A), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, which is classified generally to chapter 28 (§ 1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
+The Intervention on the High Seas Act, referred to in subsec. (b)(1)(A), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, which is classified generally to chapter 28 (§ 1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
 
-The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (c)(3), is title II of Pub. L. 93–153, Nov. 16, 1973, 87 Stat. 584, which is classified generally to chapter 34 (§ 1651 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1651 of Title 43 and Tables.
+The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (c)(3), is title II of Pub. L. 93–153, Nov. 16, 1973, 87 Stat. 584, which is classified generally to chapter 34 (§ 1651 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1651 of Title 43 and Tables.
 
-### § 2703. Defenses to liability
+### § 2703. Defenses to liability
 
 **(a) Complete defenses** A responsible party is not liable for removal costs or damages under section 2702 of this title if the responsible party establishes, by a preponderance of the evidence, that the discharge or substantial threat of a discharge of oil and the resulting damages or removal costs were caused solely by—
 
@@ -509,13 +509,13 @@ Nothing in this paragraph or in subsection (a)(3) shall diminish the liability o
 
 Nothing in this subsection shall affect the liability under this Act of a responsible party who, by any act or omission, caused or contributed to the discharge or substantial threat of discharge of oil which is the subject of the action relating to the facility.
 
-(Pub. L. 101–380, title I, § 1003, Aug. 18, 1990, 104 Stat. 491; Pub. L. 108–293, title VII, § 703(c), Aug. 9, 2004, 118 Stat. 1072; Pub. L. 115–232, div. C, title XXXV, § 3547(b), Aug. 13, 2018, 132 Stat. 2328; Pub. L. 119–60, div. G, title LXXVII, § 7701(g)(2), Dec. 18, 2025, 139 Stat. 1836.)
+(Pub. L. 101–380, title I, § 1003, Aug. 18, 1990, 104 Stat. 491; Pub. L. 108–293, title VII, § 703(c), Aug. 9, 2004, 118 Stat. 1072; Pub. L. 115–232, div. C, title XXXV, § 3547(b), Aug. 13, 2018, 132 Stat. 2328; Pub. L. 119–60, div. G, title LXXVII, § 7701(g)(2), Dec. 18, 2025, 139 Stat. 1836.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Intervention on the High Seas Act, referred to in subsec. (c)(3), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, which is classified generally to chapter 28 (§ 1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
+The Intervention on the High Seas Act, referred to in subsec. (c)(3), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, which is classified generally to chapter 28 (§ 1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
 
 This Act, referred to in subsec. (d)(5), (6), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
@@ -527,7 +527,7 @@ This Act, referred to in subsec. (d)(5), (6), is Pub. L. 101–380, Aug. 18, 199
 
 2004—Subsec. (d). Pub. L. 108–293 added subsec. (d).
 
-### § 2704. Limits on liability
+### § 2704. Limits on liability
 
 **(a) General rule** Except as otherwise provided in this section, the total of the liability of a responsible party under section 2702 of this title and any removal costs incurred by, or on behalf of, the responsible party, with respect to each incident shall not exceed—
 
@@ -623,7 +623,7 @@ The President shall, within 6 months after August 18, 1990, and from time to tim
 
 The President, by regulations issued not later than 3 years after July 11, 2006, and not less than every 3 years thereafter, shall adjust the limits on liability specified in subsection (a) to reflect significant increases in the Consumer Price Index.
 
-(Pub. L. 101–380, title I, § 1004, Aug. 18, 1990, 104 Stat. 491; Pub. L. 104–55, § 2(d)(1), Nov. 20, 1995, 109 Stat. 546; Pub. L. 105–383, title IV, § 406, Nov. 13, 1998, 112 Stat. 3429; Pub. L. 109–241, title VI, § 603(a)(1), (2), (b), July 11, 2006, 120 Stat. 553, 554; Pub. L. 111–281, title IX, § 903(a)(2), (e)(1), Oct. 15, 2010, 124 Stat. 3010, 3011; Pub. L. 115–232, div. C, title XXXV, § 3547(c), Aug. 13, 2018, 132 Stat. 2328.)
+(Pub. L. 101–380, title I, § 1004, Aug. 18, 1990, 104 Stat. 491; Pub. L. 104–55, § 2(d)(1), Nov. 20, 1995, 109 Stat. 546; Pub. L. 105–383, title IV, § 406, Nov. 13, 1998, 112 Stat. 3429; Pub. L. 109–241, title VI, § 603(a)(1), (2), (b), July 11, 2006, 120 Stat. 553, 554; Pub. L. 111–281, title IX, § 903(a)(2), (e)(1), Oct. 15, 2010, 124 Stat. 3010, 3011; Pub. L. 115–232, div. C, title XXXV, § 3547(c), Aug. 13, 2018, 132 Stat. 2328.)
 
 **Editorial Notes**
 
@@ -631,17 +631,17 @@ The President, by regulations issued not later than 3 years after July 11, 2006,
 
 This Act, referred to in subsec. (b)(1), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-The Intervention on the High Seas Act, referred to in subsec. (c)(2)(C), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, which is classified generally to chapter 28 (§ 1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
+The Intervention on the High Seas Act, referred to in subsec. (c)(2)(C), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, which is classified generally to chapter 28 (§ 1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
 
 **Amendments**
 
 2018—Subsec. (d)(2)(C). Pub. L. 115–232 substituted “under subparagraph (A)” for “under this subparagraph (A)”.
 
-2010—Subsec. (a)(2). Pub. L. 111–281, § 903(e)(1), struck out first comma after “$800,000”.
+2010—Subsec. (a)(2). Pub. L. 111–281, § 903(e)(1), struck out first comma after “$800,000”.
 
-Pub. L. 111–281, § 903(a)(2), made technical amendment to directory language of Pub. L. 109–241, § 603(a)(2). See 2006 Amendment note below.
+Pub. L. 111–281, § 903(a)(2), made technical amendment to directory language of Pub. L. 109–241, § 603(a)(2). See 2006 Amendment note below.
 
-2006—Subsec. (a)(1)(A) to (C). Pub. L. 109–241, § 603(a)(1), added subpars. (A) to (C) and struck out former subpars. (A) and (B), which read as follows:
+2006—Subsec. (a)(1)(A) to (C). Pub. L. 109–241, § 603(a)(1), added subpars. (A) to (C) and struck out former subpars. (A) and (B), which read as follows:
 
 “(A) $1,200 per gross ton; or
 
@@ -649,13 +649,13 @@ Pub. L. 111–281, § 903(a)(2), made technical amendment to directory languag
 
 “(ii) in the case of a vessel of 3,000 gross tons or less, $2,000,000;”.
 
-Subsec. (a)(2). Pub. L. 109–241, § 603(a)(2), as amended by Pub. L. 111–281, § 903(a)(2), substituted “$950 per gross ton” for “$600 per gross ton” and “$800,000,” for “$500,000”.
+Subsec. (a)(2). Pub. L. 109–241, § 603(a)(2), as amended by Pub. L. 111–281, § 903(a)(2), substituted “$950 per gross ton” for “$600 per gross ton” and “$800,000,” for “$500,000”.
 
-Subsec. (d)(4). Pub. L. 109–241, § 603(b), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “The President shall, by regulations issued not less often than every 3 years, adjust the limits of liability specified in subsection (a) to reflect significant increases in the Consumer Price Index.”
+Subsec. (d)(4). Pub. L. 109–241, § 603(b), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “The President shall, by regulations issued not less often than every 3 years, adjust the limits of liability specified in subsection (a) to reflect significant increases in the Consumer Price Index.”
 
-1998—Subsec. (a)(1). Pub. L. 105–383, § 406(1), substituted comma for “(except a tank vessel on which the only oil carried as cargo is an animal fat or vegetable oil, as those terms are used in section 2720 of this title)” after “tank vessel”.
+1998—Subsec. (a)(1). Pub. L. 105–383, § 406(1), substituted comma for “(except a tank vessel on which the only oil carried as cargo is an animal fat or vegetable oil, as those terms are used in section 2720 of this title)” after “tank vessel”.
 
-Subsec. (c)(4). Pub. L. 105–383, § 406(2), added par. (4).
+Subsec. (c)(4). Pub. L. 105–383, § 406(2), added par. (4).
 
 1995—Subsec. (a)(1). Pub. L. 104–55 substituted “for a tank vessel (except a tank vessel on which the only oil carried as cargo is an animal fat or vegetable oil, as those terms are used in section 2720 of this title)” for “for a tank vessel,”.
 
@@ -663,15 +663,15 @@ Subsec. (c)(4). Pub. L. 105–383, § 406(2), added par. (4).
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–281, title IX, § 903(a), Oct. 15, 2010, 124 Stat. 3010, provided that the amendment by section 903(a)(2) is effective with enactment of Pub. L. 109–241.
+Pub. L. 111–281, title IX, § 903(a), Oct. 15, 2010, 124 Stat. 3010, provided that the amendment by section 903(a)(2) is effective with enactment of Pub. L. 109–241.
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–241, title VI, § 603(a)(3), July 11, 2006, 120 Stat. 554, provided that: “In the case of an incident occurring before the 90th day following the date of enactment of this Act [July 11, 2006], section 1004(a)(1) of the Oil Pollution Act of 1990 (33 U.S.C. 2704(a)(1)) shall apply as in effect immediately before the effective date of this subsection [July 11, 2006].”
+Pub. L. 109–241, title VI, § 603(a)(3), July 11, 2006, 120 Stat. 554, provided that: “In the case of an incident occurring before the 90th day following the date of enactment of this Act [July 11, 2006], section 1004(a)(1) of the Oil Pollution Act of 1990 (33 U.S.C. 2704(a)(1)) shall apply as in effect immediately before the effective date of this subsection [July 11, 2006].”
 
 **Report**
 
-Pub. L. 109–241, title VI, § 603(c), July 11, 2006, 120 Stat. 554, as amended by Pub. L. 114–120, title VI, § 601(b), Feb. 8, 2016, 130 Stat. 79, provided that:
+Pub. L. 109–241, title VI, § 603(c), July 11, 2006, 120 Stat. 554, as amended by Pub. L. 114–120, title VI, § 601(b), Feb. 8, 2016, 130 Stat. 79, provided that:
 
 > **“(1) Initial report.—** Not later than 45 days after the date of enactment of this Act [July 11, 2006], the Secretary of the department in which the Coast Guard is operating shall submit a report on liability limits described in paragraph (2) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
@@ -691,7 +691,7 @@ Pub. L. 109–241, title VI, § 603(c), July 11, 2006, 120 Stat. 554, as amend
 
 For delegation of functions of President under subsec. (d) of this section, see section 4 of Ex. Ord. No. 12777, set out as a note under section 1321 of this title.
 
-### § 2705. Interest; partial payment of claims
+### § 2705. Interest; partial payment of claims
 
 **(a) General rule**
 
@@ -731,9 +731,9 @@ Interest (including prejudgment interest) under this paragraph is in addition to
 
 The payment of interest under this subsection by a guarantor is subject to section 2716(f).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Pub. L. 101–380, title I, § 1005, Aug. 18, 1990, 104 Stat. 493; Pub. L. 104–324, title XI, § 1142(a), Oct. 19, 1996, 110 Stat. 3991; Pub. L. 117–263, div. K, title CXIII, § 11311, Dec. 23, 2022, 136 Stat. 4086; Pub. L. 119–60, div. G, title LXXVII, § 7701(g)(5), Dec. 18, 2025, 139 Stat. 1836.)
+(Pub. L. 101–380, title I, § 1005, Aug. 18, 1990, 104 Stat. 493; Pub. L. 104–324, title XI, § 1142(a), Oct. 19, 1996, 110 Stat. 3991; Pub. L. 117–263, div. K, title CXIII, § 11311, Dec. 23, 2022, 136 Stat. 4086; Pub. L. 119–60, div. G, title LXXVII, § 7701(g)(5), Dec. 18, 2025, 139 Stat. 1836.)
 
 **Editorial Notes**
 
@@ -749,11 +749,11 @@ Section 2716(f), referred to in subsec. (b)(5)(B), probably should have been a r
 
 2022—Subsec. (b)(4). Pub. L. 117–263 designated existing provisions as subpar. (A) and inserted heading, substituted “The interest paid for claims, other than Federal Government cost recovery claims,” for “The interest paid”, and added subpar. (B).
 
-1996—Pub. L. 104–324, § 1142(a)(1), inserted “; partial payment of claims” after “Interest” in section catchline.
+1996—Pub. L. 104–324, § 1142(a)(1), inserted “; partial payment of claims” after “Interest” in section catchline.
 
-Subsec. (a). Pub. L. 104–324, § 1142(a)(2), inserted at end “The responsible party shall establish a procedure for the payment or settlement of claims for interim, short-term damages. Payment or settlement of a claim for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled shall not preclude recovery by the claimant for damages not reflected in the paid or settled partial claim.”
+Subsec. (a). Pub. L. 104–324, § 1142(a)(2), inserted at end “The responsible party shall establish a procedure for the payment or settlement of claims for interim, short-term damages. Payment or settlement of a claim for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled shall not preclude recovery by the claimant for damages not reflected in the paid or settled partial claim.”
 
-### § 2706. Natural resources
+### § 2706. Natural resources
 
 **(a) Liability** In the case of natural resource damages under section 2702(b)(2)(A) of this title, liability shall be—
 
@@ -855,7 +855,7 @@ Sums recovered under this Act by a Federal, State, Indian, or foreign trustee fo
 
 Review of actions by any Federal official where there is alleged to be a failure of that official to perform a duty under this section that is not discretionary with that official may be had by any person in the district court in which the person resides or in which the alleged damage to natural resources occurred. The court may award costs of litigation (including reasonable attorney and expert witness fees) to any prevailing or substantially prevailing party. Nothing in this subsection shall restrict any right which any person may have to seek relief under any other provision of law.
 
-(Pub. L. 101–380, title I, § 1006, Aug. 18, 1990, 104 Stat. 494.)
+(Pub. L. 101–380, title I, § 1006, Aug. 18, 1990, 104 Stat. 494.)
 
 **Editorial Notes**
 
@@ -867,7 +867,7 @@ This Act, referred to in subsecs. (b)(2)–(5), (c)(2)(A), (3)(A), (4)(A), (d)(3
 
 **NOAA Oil and Hazardous Substance Spill Cost Reimbursement**
 
-Pub. L. 102–567, title II, § 205, Oct. 29, 1992, 106 Stat. 4282, provided that:
+Pub. L. 102–567, title II, § 205, Oct. 29, 1992, 106 Stat. 4282, provided that:
 
 > **“(a) Treatment of Amounts Received as Reimbursement of Expenses.—** Notwithstanding any other provision of law, amounts received by the United States as reimbursement of expenses related to oil or hazardous substance spill response activities, or natural resource damage assessment, restoration, rehabilitation, replacement, or acquisition activities, conducted (or to be conducted) by the National Oceanic and Atmospheric Administration—
 
@@ -899,7 +899,7 @@ Pub. L. 101–515, title I, Nov. 5, 1990, 104 Stat. 2105, provided that: “For 
 
 Functions of President under subsec. (b)(3) and (4) of this section delegated to Administrator of Environmental Protection Agency by section 8(c) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54768, set out as a note under section 1321 of this title.
 
-### § 2707. Recovery by foreign claimants
+### § 2707. Recovery by foreign claimants
 
 **(a) Required showing by foreign claimants**
 
@@ -931,7 +931,7 @@ Paragraph (1)(B) shall not apply with respect to recovery by a resident of Canad
 
 **(3)** an agency or political subdivision of a foreign country.
 
-(Pub. L. 101–380, title I, § 1007, Aug. 18, 1990, 104 Stat. 496.)
+(Pub. L. 101–380, title I, § 1007, Aug. 18, 1990, 104 Stat. 496.)
 
 **Editorial Notes**
 
@@ -939,9 +939,9 @@ Paragraph (1)(B) shall not apply with respect to recovery by a resident of Canad
 
 This Act, referred to in subsec. (a)(1), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (b)(4), is title II of Pub. L. 93–153, Nov. 16, 1973, 87 Stat. 584, which is classified generally to chapter 34 (§ 1651 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1651 of Title 43 and Tables.
+The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (b)(4), is title II of Pub. L. 93–153, Nov. 16, 1973, 87 Stat. 584, which is classified generally to chapter 34 (§ 1651 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1651 of Title 43 and Tables.
 
-### § 2708. Recovery by responsible party
+### § 2708. Recovery by responsible party
 
 **(a) In general** The responsible party for a vessel or facility from which oil is discharged, or which poses the substantial threat of a discharge of oil, may assert a claim for removal costs and damages under section 2713 of this title only if the responsible party demonstrates that—
 
@@ -953,13 +953,13 @@ The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (b)(4), is t
 
 A responsible party who is entitled to a limitation of liability may assert a claim under section 2713 of this title only to the extent that the sum of the removal costs and damages incurred by the responsible party plus the amounts paid by the responsible party, or by the guarantor on behalf of the responsible party, for claims asserted under section 2713 of this title exceeds the amount to which the total of the liability under section 2702 of this title and removal costs and damages incurred by, or on behalf of, the responsible party is limited under section 2704 of this title.
 
-(Pub. L. 101–380, title I, § 1008, Aug. 18, 1990, 104 Stat. 497.)
+(Pub. L. 101–380, title I, § 1008, Aug. 18, 1990, 104 Stat. 497.)
 
-### § 2709. Contribution
+### § 2709. Contribution
 
 A person may bring a civil action for contribution against any other person who is liable or potentially liable under this Act or another law. The action shall be brought in accordance with section 2717 of this title.
 
-(Pub. L. 101–380, title I, § 1009, Aug. 18, 1990, 104 Stat. 497.)
+(Pub. L. 101–380, title I, § 1009, Aug. 18, 1990, 104 Stat. 497.)
 
 **Editorial Notes**
 
@@ -967,7 +967,7 @@ A person may bring a civil action for contribution against any other person who 
 
 This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-### § 2710. Indemnification agreements
+### § 2710. Indemnification agreements
 
 **(a) Agreements not prohibited**
 
@@ -981,7 +981,7 @@ No indemnification, hold harmless, or similar agreement or conveyance shall be e
 
 Nothing in this Act, including the provisions of subsection (b), bars a cause of action that a responsible party subject to liability under this Act, or a guarantor, has or would have, by reason of subrogation or otherwise, against any person.
 
-(Pub. L. 101–380, title I, § 1010, Aug. 18, 1990, 104 Stat. 498.)
+(Pub. L. 101–380, title I, § 1010, Aug. 18, 1990, 104 Stat. 498.)
 
 **Editorial Notes**
 
@@ -989,11 +989,11 @@ Nothing in this Act, including the provisions of subsection (b), bars a cause of
 
 This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-### § 2711. Consultation on removal actions
+### § 2711. Consultation on removal actions
 
 The President shall consult with the affected trustees designated under section 2706 of this title on the appropriate removal action to be taken in connection with any discharge of oil. For the purposes of the National Contingency Plan, removal with respect to any discharge shall be considered completed when so determined by the President in consultation with the Governor or Governors of the affected States. However, this determination shall not preclude additional removal actions under applicable State law.
 
-(Pub. L. 101–380, title I, § 1011, Aug. 18, 1990, 104 Stat. 498.)
+(Pub. L. 101–380, title I, § 1011, Aug. 18, 1990, 104 Stat. 498.)
 
 **Executive Documents**
 
@@ -1001,7 +1001,7 @@ The President shall consult with the affected trustees designated under section 
 
 Functions of President under this section delegated to Administrator of Environmental Protection Agency for inland zone and to Secretary of Department in which Coast Guard is operating for coastal zone by section 3 of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54757, set out as a note under section 1321 of this title.
 
-### § 2712. Uses of Fund
+### § 2712. Uses of Fund
 
 **(a) Uses generally** The Fund shall be available to the President for—
 
@@ -1127,7 +1127,7 @@ This subsection shall not be considered to restrict the use of Department of Def
 
 Each Federal agency that receives amounts from the Fund shall maintain records describing the purposes for which such funds were obligated or expended in such detail as the Secretary may require for purposes of the report required under paragraph (1).
 
-(Pub. L. 101–380, title I, § 1012, Aug. 18, 1990, 104 Stat. 498; Pub. L. 108–293, title VII, § 708(b), Aug. 9, 2004, 118 Stat. 1077; Pub. L. 111–281, title VII, § 708, Oct. 15, 2010, 124 Stat. 2984; Pub. L. 115–282, title VIII, § 816, Dec. 4, 2018, 132 Stat. 4305; Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], §§ 8302(a), 8303(b), title LVXXXV [LXXXV], § 8513(c), Jan. 1, 2021, 134 Stat. 4692, 4761; Pub. L. 117–263, div. K, title CXIII, §§ 11310, 11314, Dec. 23, 2022, 136 Stat. 4085, 4087; Pub. L. 119–60, div. G, title LXXVII, § 7701(g)(4), Dec. 18, 2025, 139 Stat. 1836.)
+(Pub. L. 101–380, title I, § 1012, Aug. 18, 1990, 104 Stat. 498; Pub. L. 108–293, title VII, § 708(b), Aug. 9, 2004, 118 Stat. 1077; Pub. L. 111–281, title VII, § 708, Oct. 15, 2010, 124 Stat. 2984; Pub. L. 115–282, title VIII, § 816, Dec. 4, 2018, 132 Stat. 4305; Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], §§ 8302(a), 8303(b), title LVXXXV [LXXXV], § 8513(c), Jan. 1, 2021, 134 Stat. 4692, 4761; Pub. L. 117–263, div. K, title CXIII, §§ 11310, 11314, Dec. 23, 2022, 136 Stat. 4085, 4087; Pub. L. 119–60, div. G, title LXXVII, § 7701(g)(4), Dec. 18, 2025, 139 Stat. 1836.)
 
 **Editorial Notes**
 
@@ -1139,41 +1139,41 @@ This Act, referred to in subsecs. (a)(5) and (e), is Pub. L. 101–380, Aug. 18,
 
 2025—Subsec. (b)(2). Pub. L. 119–60 substituted “section 2716(e)(1)” for “section 2716(f)(1)”.
 
-2022—Subsec. (a)(1)(B). Pub. L. 117–263, § 11314(1), substituted “by a State, a political subdivision of a State, or an Indian tribe, pursuant to a cost-reimbursable agreement” for “by a Governor or designated State official”.
+2022—Subsec. (a)(1)(B). Pub. L. 117–263, § 11314(1), substituted “by a State, a political subdivision of a State, or an Indian tribe, pursuant to a cost-reimbursable agreement” for “by a Governor or designated State official”.
 
-Subsec. (a)(4). Pub. L. 117–263, § 11310, inserted “, including, in the case of a spill of national significance that results in extraordinary Coast Guard claims processing activities, the administrative and personnel costs of the Coast Guard to process such claims (including the costs of commercial claims processing, expert services, training, and technical services), subject to the condition that the Coast Guard shall submit to Congress a report describing each spill of national significance not later than 30 days after the date on which the Coast Guard determines it necessary to process such claims” after “damages”.
+Subsec. (a)(4). Pub. L. 117–263, § 11310, inserted “, including, in the case of a spill of national significance that results in extraordinary Coast Guard claims processing activities, the administrative and personnel costs of the Coast Guard to process such claims (including the costs of commercial claims processing, expert services, training, and technical services), subject to the condition that the Coast Guard shall submit to Congress a report describing each spill of national significance not later than 30 days after the date on which the Coast Guard determines it necessary to process such claims” after “damages”.
 
-Subsec. (d). Pub. L. 117–263, § 11314(2), added subsec. (d) and struck out former subsec. (d) which related to access to Fund by State officials.
+Subsec. (d). Pub. L. 117–263, § 11314(2), added subsec. (d) and struck out former subsec. (d) which related to access to Fund by State officials.
 
-Subsec. (e). Pub. L. 117–263, § 11314(2), (3), redesignated subsec. (f) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: “The President shall—
+Subsec. (e). Pub. L. 117–263, § 11314(2), (3), redesignated subsec. (f) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: “The President shall—
 
 “(1) not later than 6 months after August 18, 1990, publish proposed regulations detailing the manner in which the authority to obligate the Fund and to enter into agreements under this subsection shall be exercised; and
 
 “(2) not later than 3 months after the close of the comment period for such proposed regulations, promulgate final regulations for that purpose.”
 
-Subsecs. (f) to (*l*). Pub. L. 117–263, § 11314(3), redesignated subsecs. (h), (i), (j), (k), and (*l*) as (f), (g), (h), (i), and (j), respectively. Former subsec. (f) redesignated (e).
+Subsecs. (f) to (*l*). Pub. L. 117–263, § 11314(3), redesignated subsecs. (h), (i), (j), (k), and (*l*) as (f), (g), (h), (i), and (j), respectively. Former subsec. (f) redesignated (e).
 
-2021—Subsec. (a)(5)(A). Pub. L. 116–283, § 8513(c), substituted “operations and support” for “operating expenses”.
+2021—Subsec. (a)(5)(A). Pub. L. 116–283, § 8513(c), substituted “operations and support” for “operating expenses”.
 
-Subsec. (a)(6). Pub. L. 116–283, § 8303(b), struck out par. (6) which read as follows: “the making of loans pursuant to the program established under section 2713(f) of this title.”
+Subsec. (a)(6). Pub. L. 116–283, § 8303(b), struck out par. (6) which read as follows: “the making of loans pursuant to the program established under section 2713(f) of this title.”
 
-Subsec. (b). Pub. L. 116–283, § 8302(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
+Subsec. (b). Pub. L. 116–283, § 8302(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-2018—Subsec. (g). Pub. L. 115–282, § 816(1), struck out subsec. (g) which related to audits.
+2018—Subsec. (g). Pub. L. 115–282, § 816(1), struck out subsec. (g) which related to audits.
 
-Subsec. (*l*)(1). Pub. L. 115–282, § 816(2), substituted “Each year, on the date on which the President submits to Congress a budget under section 1105 of title 31,” for “Within one year after October 15, 2010, and annually thereafter,” in introductory provisions.
+Subsec. (*l*)(1). Pub. L. 115–282, § 816(2), substituted “Each year, on the date on which the President submits to Congress a budget under section 1105 of title 31,” for “Within one year after October 15, 2010, and annually thereafter,” in introductory provisions.
 
-Subsec. (*l*)(2). Pub. L. 115–282, § 816(3), amended par. (2) generally. Prior to amendment, text read as follows: “The report shall include—
+Subsec. (*l*)(2). Pub. L. 115–282, § 816(3), amended par. (2) generally. Prior to amendment, text read as follows: “The report shall include—
 
 “(A) a list of each disbursement of $250,000 or more from the Fund during the preceding fiscal year; and
 
 “(B) a description of how each such use of the Fund meets the requirements of subsection (a).”
 
-2010—Subsec. (a)(5)(B) to (D). Pub. L. 111–281, § 708(a), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
+2010—Subsec. (a)(5)(B) to (D). Pub. L. 111–281, § 708(a), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
-Subsec. (g). Pub. L. 111–281, § 708(b)(1), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “The Comptroller General shall audit all payments, obligations, reimbursements, and other uses of the Fund, to assure that the Fund is being properly administered and that claims are being appropriately and expeditiously considered. The Comptroller General shall submit to the Congress an interim report one year after August 18, 1990. The Comptroller General shall thereafter audit the Fund as is appropriate. Each Federal agency shall cooperate with the Comptroller General in carrying out this subsection.”
+Subsec. (g). Pub. L. 111–281, § 708(b)(1), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “The Comptroller General shall audit all payments, obligations, reimbursements, and other uses of the Fund, to assure that the Fund is being properly administered and that claims are being appropriately and expeditiously considered. The Comptroller General shall submit to the Congress an interim report one year after August 18, 1990. The Comptroller General shall thereafter audit the Fund as is appropriate. Each Federal agency shall cooperate with the Comptroller General in carrying out this subsection.”
 
-Subsec. (*l*). Pub. L. 111–281, § 708(b)(2), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 111–281, § 708(b)(2), added subsec. (*l*).
 
 2004—Subsec. (a)(6). Pub. L. 108–293 added par. (6).
 
@@ -1181,7 +1181,7 @@ Subsec. (*l*). Pub. L. 111–281, § 708(b)(2), added subsec. (*l*).
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], § 8302(b), Jan. 1, 2021, 134 Stat. 4692, provided that: “This section [amending this section] and the amendments made by this section shall take effect 180 days after the date of enactment of this Act [Jan. 1, 2021].”
+Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], § 8302(b), Jan. 1, 2021, 134 Stat. 4692, provided that: “This section [amending this section] and the amendments made by this section shall take effect 180 days after the date of enactment of this Act [Jan. 1, 2021].”
 
 **Rule of Construction**
 
@@ -1189,7 +1189,7 @@ Nothing in amendment made by section 11314(1), (2) of Pub. L. 117–263 to be co
 
 **Use of Fund for Spills of National Significance**
 
-Pub. L. 112–74, div. D, title V, § 563, Dec. 23, 2011, 125 Stat. 981, provided that: “For fiscal year 2012 and thereafter, notwithstanding section 1012(a)(5) of the Oil Pollution Act of 1990 (33 U.S.C. 2712(a)(5)) and 31 U.S.C. 3302, in the event that a spill of national significance occurs, any payment of amounts from the Oil Spill Liability Trust Fund pursuant to section 1012(a)(1) of the Oil Pollution Act of 1990 (33 U.S.C. 2712(a)(1)) for the removal costs incurred by the Coast Guard for such spill, shall be credited directly to the accounts of the Coast Guard current at the time such removal costs were incurred or when reimbursement is received: *Provided*, That such amounts shall be merged with and, without further appropriations, made available for the same time period and the same purpose as the appropriation to which it is credited.”
+Pub. L. 112–74, div. D, title V, § 563, Dec. 23, 2011, 125 Stat. 981, provided that: “For fiscal year 2012 and thereafter, notwithstanding section 1012(a)(5) of the Oil Pollution Act of 1990 (33 U.S.C. 2712(a)(5)) and 31 U.S.C. 3302, in the event that a spill of national significance occurs, any payment of amounts from the Oil Spill Liability Trust Fund pursuant to section 1012(a)(1) of the Oil Pollution Act of 1990 (33 U.S.C. 2712(a)(1)) for the removal costs incurred by the Coast Guard for such spill, shall be credited directly to the accounts of the Coast Guard current at the time such removal costs were incurred or when reimbursement is received: *Provided*, That such amounts shall be merged with and, without further appropriations, made available for the same time period and the same purpose as the appropriation to which it is credited.”
 
 **Executive Documents**
 
@@ -1205,9 +1205,9 @@ Functions of President under subsec. (a)(2) of this section delegated to Federal
 
 Functions of President under subsecs. (a)(5) and (c) of this section delegated to each head of departments and agencies having responsibility for implementation, administration, and enforcement of the Oil Pollution Act of 1990 (Pub. L. 101–380, see Tables for classification) and section 1321(b), (c), (d), (j), (*l*) of this title by section 7(a)(3), (b) of Ex. Ord. No. 12777.
 
-Memorandum of the President of the United States, Aug. 24, 1990, 55 F.R. 35291, which delegated to the Secretary of the Department in which the Coast Guard is operating authority to make available from the Oil Spill Liability Trust Fund not to exceed $50,000,000 in any fiscal year to remove discharged oil or hazardous substances from navigable waters, was revoked by Ex. Ord. No. 12777, § 8(i), Oct. 18, 1991, 56 F.R. 54769, set out as a note under section 1321 of this title.
+Memorandum of the President of the United States, Aug. 24, 1990, 55 F.R. 35291, which delegated to the Secretary of the Department in which the Coast Guard is operating authority to make available from the Oil Spill Liability Trust Fund not to exceed $50,000,000 in any fiscal year to remove discharged oil or hazardous substances from navigable waters, was revoked by Ex. Ord. No. 12777, § 8(i), Oct. 18, 1991, 56 F.R. 54769, set out as a note under section 1321 of this title.
 
-### § 2713. Claims procedure
+### § 2713. Claims procedure
 
 **(a) Presentation**
 
@@ -1245,7 +1245,7 @@ If a claim is presented in accordance with this section, including a claim for i
 
 The President shall promulgate, and may from time to time amend, regulations for the presentation, filing, processing, settlement, and adjudication of claims under this Act against the Fund.
 
-(Pub. L. 101–380, title I, § 1013, Aug. 18, 1990, 104 Stat. 501; Pub. L. 104–324, title XI, § 1142(b), Oct. 19, 1996, 110 Stat. 3991; Pub. L. 108–293, title VII, § 708(a), Aug. 9, 2004, 118 Stat. 1077; Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], § 8303(a), Jan. 1, 2021, 134 Stat. 4692.)
+(Pub. L. 101–380, title I, § 1013, Aug. 18, 1990, 104 Stat. 501; Pub. L. 104–324, title XI, § 1142(b), Oct. 19, 1996, 110 Stat. 3991; Pub. L. 108–293, title VII, § 708(a), Aug. 9, 2004, 118 Stat. 1077; Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], § 8303(a), Jan. 1, 2021, 134 Stat. 4692.)
 
 **Editorial Notes**
 
@@ -1267,7 +1267,7 @@ This Act, referred to in subsec. (e), is Pub. L. 101–380, Aug. 18, 1990, 104 S
 
 Functions of President under subsec. (e) of this section delegated to Secretary of Department in which Coast Guard is operating by section 7(c)(2) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54767, set out as a note under section 1321 of this title.
 
-### § 2714. Designation of source and advertisement
+### § 2714. Designation of source and advertisement
 
 **(a) Designation of source and notification**
 
@@ -1289,7 +1289,7 @@ When the President receives information of an incident, the President shall, whe
 
 the President shall advertise or otherwise notify potential claimants of the procedures by which claims may be presented to the Fund.
 
-(Pub. L. 101–380, title I, § 1014, Aug. 18, 1990, 104 Stat. 501; Pub. L. 104–324, title XI, § 1142(c), Oct. 19, 1996, 110 Stat. 3991.)
+(Pub. L. 101–380, title I, § 1014, Aug. 18, 1990, 104 Stat. 501; Pub. L. 104–324, title XI, § 1142(c), Oct. 19, 1996, 110 Stat. 3991.)
 
 **Editorial Notes**
 
@@ -1303,7 +1303,7 @@ the President shall advertise or otherwise notify potential claimants of the pro
 
 Functions of President under this section delegated to Secretary of Department in which Coast Guard is operating by section 7(d)(2) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54768, set out as a note under section 1321 of this title.
 
-### § 2715. Subrogation
+### § 2715. Subrogation
 
 **(a) In general**
 
@@ -1327,7 +1327,7 @@ At the request of the Secretary, the Attorney General shall commence an action o
 
 The head of any department or agency responsible for recovering amounts for which a person is liable under this subchapter may consider, compromise, and settle a claim for such amounts, including such costs paid from the Fund, if the claim has not been referred to the Attorney General. In any case in which the total amount to be recovered may exceed $500,000 (excluding interest), a claim may be compromised and settled under the preceding sentence only with the prior written approval of the Attorney General.
 
-(Pub. L. 101–380, title I, § 1015, Aug. 18, 1990, 104 Stat. 502; Pub. L. 104–324, title XI, § 1142(d), Oct. 19, 1996, 110 Stat. 3991; Pub. L. 108–293, title VII, § 706, Aug. 9, 2004, 118 Stat. 1076; Pub. L. 115–91, div. C, title XXXV, § 3508(b)(1)(B), Dec. 12, 2017, 131 Stat. 1916.)
+(Pub. L. 101–380, title I, § 1015, Aug. 18, 1990, 104 Stat. 502; Pub. L. 104–324, title XI, § 1142(d), Oct. 19, 1996, 110 Stat. 3991; Pub. L. 108–293, title VII, § 706, Aug. 9, 2004, 118 Stat. 1076; Pub. L. 115–91, div. C, title XXXV, § 3508(b)(1)(B), Dec. 12, 2017, 131 Stat. 1916.)
 
 **Editorial Notes**
 
@@ -1343,7 +1343,7 @@ This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 48
 
 1996—Subsecs. (b), (c). Pub. L. 104–324 added subsec. (b) and redesignated former subsec. (b) as (c).
 
-### § 2716. Financial responsibility
+### § 2716. Financial responsibility
 
 **(a) Requirement** The responsible party for—
 
@@ -1453,7 +1453,7 @@ Any regulation relating to financial responsibility, which has been issued pursu
 
 The Secretary may issue a single unified certificate of financial responsibility for purposes of this Act and any other law.
 
-(Pub. L. 101–380, title I, § 1016, Aug. 18, 1990, 104 Stat. 502; Pub. L. 104–55, § 2(d)(2), Nov. 20, 1995, 109 Stat. 547; Pub. L. 104–324, title XI, § 1125(a), Oct. 19, 1996, 110 Stat. 3981; Pub. L. 111–281, title VII, § 712, Oct. 15, 2010, 124 Stat. 2988; Pub. L. 119–60, div. G, title LXXVII, § 7701(g)(3), Dec. 18, 2025, 139 Stat. 1836.)
+(Pub. L. 101–380, title I, § 1016, Aug. 18, 1990, 104 Stat. 502; Pub. L. 104–55, § 2(d)(2), Nov. 20, 1995, 109 Stat. 547; Pub. L. 104–324, title XI, § 1125(a), Oct. 19, 1996, 110 Stat. 3981; Pub. L. 111–281, title VII, § 712, Oct. 15, 2010, 124 Stat. 2988; Pub. L. 119–60, div. G, title LXXVII, § 7701(g)(3), Dec. 18, 2025, 139 Stat. 1836.)
 
 **Editorial Notes**
 
@@ -1465,7 +1465,7 @@ The effective date of this Act, referred to in subsec. (g), is the effective dat
 
 **Codification**
 
-In subsec. (b)(1), “section 60105 of title 46” substituted for “section 4197 of the Revised Statutes of the United States” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
+In subsec. (b)(1), “section 60105 of title 46” substituted for “section 4197 of the Revised Statutes of the United States” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
 
 **Amendments**
 
@@ -1473,19 +1473,19 @@ In subsec. (b)(1), “section 60105 of title 46” substituted for “section 41
 
 2010—Subsec. (a)(3). Pub. L. 111–281 added par. (3).
 
-1996—Subsec. (c)(1). Pub. L. 104–324, § 1125(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in paragraph (2), each responsible party with respect to an offshore facility shall establish and maintain evidence of financial responsibility of $150,000,000 to meet the amount of liability to which the responsible party could be subjected under section 2704(a) of this title in a case in which the responsible party would be entitled to limit liability under that section. In a case in which a person is the responsible party for more than one facility subject to this subsection, evidence of financial responsibility need be established only to meet the maximum liability applicable to the facility having the greatest maximum liability.”
+1996—Subsec. (c)(1). Pub. L. 104–324, § 1125(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in paragraph (2), each responsible party with respect to an offshore facility shall establish and maintain evidence of financial responsibility of $150,000,000 to meet the amount of liability to which the responsible party could be subjected under section 2704(a) of this title in a case in which the responsible party would be entitled to limit liability under that section. In a case in which a person is the responsible party for more than one facility subject to this subsection, evidence of financial responsibility need be established only to meet the maximum liability applicable to the facility having the greatest maximum liability.”
 
-Subsec. (f). Pub. L. 104–324, § 1125(a)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any claim for which liability may be established under section 2702 of this title may be asserted directly against any guarantor providing evidence of financial responsibility for a responsible party liable under that section for removal costs and damages to which the claim pertains. In defending against such a claim, the guarantor may invoke (1) all rights and defenses which would be available to the responsible party under this Act, (2) any defense authorized under subsection (e), and (3) the defense that the incident was caused by the willful misconduct of the responsible party. The guarantor may not invoke any other defense that might be available in proceedings brought by the responsible party against the guarantor.”
+Subsec. (f). Pub. L. 104–324, § 1125(a)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Any claim for which liability may be established under section 2702 of this title may be asserted directly against any guarantor providing evidence of financial responsibility for a responsible party liable under that section for removal costs and damages to which the claim pertains. In defending against such a claim, the guarantor may invoke (1) all rights and defenses which would be available to the responsible party under this Act, (2) any defense authorized under subsection (e), and (3) the defense that the incident was caused by the willful misconduct of the responsible party. The guarantor may not invoke any other defense that might be available in proceedings brought by the responsible party against the guarantor.”
 
-Subsec. (g). Pub. L. 104–324, § 1125(a)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Nothing in this Act shall impose liability with respect to an incident on any guarantor for damages or removal costs which exceed, in the aggregate, the amount of financial responsibility required under this Act which that guarantor has provided for a responsible party.”
+Subsec. (g). Pub. L. 104–324, § 1125(a)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Nothing in this Act shall impose liability with respect to an incident on any guarantor for damages or removal costs which exceed, in the aggregate, the amount of financial responsibility required under this Act which that guarantor has provided for a responsible party.”
 
-1995—Subsec. (a). Pub. L. 104–55 substituted “the responsible party could be subjected under section 2704(a) or (d) of this title” for “, in the case of a tank vessel, the responsible party could be subject under section 2704(a)(1) or (d) of this title, or to which, in the case of any other vessel, the responsible party could be subjected under section 2704(a)(2) or (d) of this title”.
+1995—Subsec. (a). Pub. L. 104–55 substituted “the responsible party could be subjected under section 2704(a) or (d) of this title” for “, in the case of a tank vessel, the responsible party could be subject under section 2704(a)(1) or (d) of this title, or to which, in the case of any other vessel, the responsible party could be subjected under section 2704(a)(2) or (d) of this title”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–324, title XI, § 1125(b), Oct. 19, 1996, 110 Stat. 3983, provided that: “The amendment made by subsection (a)(2) [amending this section] shall not apply to any final rule issued before the date of enactment of this section [Oct. 19, 1996].”
+Pub. L. 104–324, title XI, § 1125(b), Oct. 19, 1996, 110 Stat. 3983, provided that: “The amendment made by subsection (a)(2) [amending this section] shall not apply to any final rule issued before the date of enactment of this section [Oct. 19, 1996].”
 
 **Executive Documents**
 
@@ -1493,7 +1493,7 @@ Pub. L. 104–324, title XI, § 1125(b), Oct. 19, 1996, 110 Stat. 3983, provid
 
 Specific functions of President under subsec. (e) of this section delegated to Secretary of the Interior and Secretary of the Department in which the Coast Guard is operating by section 5(a) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54764, as amended, set out as a note under section 1321 of this title.
 
-### § 2716a. Financial responsibility civil penalties
+### § 2716a. Financial responsibility civil penalties
 
 **(a) Administrative**
 
@@ -1503,7 +1503,7 @@ Any person who, after notice and an opportunity for a hearing, is found to have 
 
 In addition to, or in lieu of, assessing a penalty under subsection (a), the President may request the Attorney General to secure such relief as necessary to compel compliance with section 2716 of this title, including a judicial order terminating operations. The district courts of the United States shall have jurisdiction to grant any relief as the public interest and the equities of the case may require.
 
-(Pub. L. 101–380, title IV, § 4303, Aug. 18, 1990, 104 Stat. 539; Pub. L. 115–232, div. C, title XXXV, § 3547(d), Aug. 13, 2018, 132 Stat. 2328.)
+(Pub. L. 101–380, title IV, § 4303, Aug. 18, 1990, 104 Stat. 539; Pub. L. 115–232, div. C, title XXXV, § 3547(d), Aug. 13, 2018, 132 Stat. 2328.)
 
 **Editorial Notes**
 
@@ -1513,9 +1513,9 @@ Section was not enacted as part of title I of Pub. L. 101–380 which comprises 
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–232, § 3547(d)(1), substituted “subsection (b)(2)” for “subsection (c)(2)”.
+2018—Subsec. (a). Pub. L. 115–232, § 3547(d)(1), substituted “subsection (b)(2)” for “subsection (c)(2)”.
 
-Subsec. (b). Pub. L. 115–232, § 3547(d)(2), substituted “section 2716” for “this section 2716”.
+Subsec. (b). Pub. L. 115–232, § 3547(d)(2), substituted “section 2716” for “this section 2716”.
 
 **Executive Documents**
 
@@ -1523,7 +1523,7 @@ Subsec. (b). Pub. L. 115–232, § 3547(d)(2), substituted “section 2716” 
 
 Specific functions of President under this section delegated to Secretary of Department in which Coast Guard is operating and Secretary of the Interior by section 5(b) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54765, as amended, set out as a note under section 1321 of this title.
 
-### § 2717. Litigation, jurisdiction, and venue
+### § 2717. Litigation, jurisdiction, and venue
 
 **(a) Review of regulations**
 
@@ -1577,7 +1577,7 @@ No action based on rights subrogated pursuant to this Act by reason of payment o
 
 Before the date of completion of a removal action, no person may bring an action under this Act, section 1321 of this title, or chapter 7 of title 5 challenging any decision relating to such removal action that is made by an on-scene coordinator appointed under the National Contingency Plan.
 
-(Pub. L. 101–380, title I, § 1017, Aug. 18, 1990, 104 Stat. 504; Pub. L. 119–60, div. G, title LXXIV, § 7403, Dec. 18, 2025, 139 Stat. 1784.)
+(Pub. L. 101–380, title I, § 1017, Aug. 18, 1990, 104 Stat. 504; Pub. L. 119–60, div. G, title LXXIV, § 7403, Dec. 18, 2025, 139 Stat. 1784.)
 
 **Editorial Notes**
 
@@ -1589,7 +1589,7 @@ This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 48
 
 2025—Subsec. (g). Pub. L. 119–60 added subsec. (g).
 
-### § 2718. Relationship to other law
+### § 2718. Relationship to other law
 
 **(a) Preservation of State authorities; Solid Waste Disposal Act** Nothing in this Act or the Act of March 3, 1851 shall—
 
@@ -1619,7 +1619,7 @@ relating to the discharge, or substantial threat of a discharge, of oil.
 
 For purposes of section 2679(b)(2)(B) of title 28, nothing in this Act shall be construed to authorize or create a cause of action against a Federal officer or employee in the officer’s or employee’s personal or individual capacity for any act or omission while acting within the scope of the officer’s or employee’s office or employment.
 
-(Pub. L. 101–380, title I, § 1018, Aug. 18, 1990, 104 Stat. 505; Pub. L. 119–60, div. G, title LXXVII, § 7701(g)(6), Dec. 18, 2025, 139 Stat. 1836.)
+(Pub. L. 101–380, title I, § 1018, Aug. 18, 1990, 104 Stat. 505; Pub. L. 119–60, div. G, title LXXVII, § 7701(g)(6), Dec. 18, 2025, 139 Stat. 1836.)
 
 **Editorial Notes**
 
@@ -1627,9 +1627,9 @@ For purposes of section 2679(b)(2)(B) of title 28, nothing in this Act shall be 
 
 This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-Act of March 3, 1851, referred to in subsec. (a), is act Mar. 3, 1851, ch. 43, 9 Stat. 635, which was incorporated into the Revised Statutes as R.S. §§ 4282, 4283, 4284 to 4287 and 4289, and was classified to sections 182, 183, and 184 to 188 of Title 46, Appendix, Shipping, prior to being repealed and restated in chapter 305 of Title 46, Shipping, by Pub. L. 109–304, §§ 6(c), 19, Oct. 6, 2006, 120 Stat. 1509, 1710. For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding section 101 of Title 46.
+Act of March 3, 1851, referred to in subsec. (a), is act Mar. 3, 1851, ch. 43, 9 Stat. 635, which was incorporated into the Revised Statutes as R.S. §§ 4282, 4283, 4284 to 4287 and 4289, and was classified to sections 182, 183, and 184 to 188 of Title 46, Appendix, Shipping, prior to being repealed and restated in chapter 305 of Title 46, Shipping, by Pub. L. 109–304, §§ 6(c), 19, Oct. 6, 2006, 120 Stat. 1509, 1710. For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding section 101 of Title 46.
 
-The Solid Waste Disposal Act, referred to in subsec. (a)(2), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (a)(2), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
 **Amendments**
 
@@ -1639,15 +1639,15 @@ The Solid Waste Disposal Act, referred to in subsec. (a)(2), is title II of Pub.
 
 **Report on Vessel Safety and Ability To Meet Legal Obligations**
 
-Pub. L. 102–241, § 32, Dec. 19, 1991, 105 Stat. 2222, provided that: “Not later than one year after the date of enactment of this Act [Dec. 19, 1991], the Secretary of Transportation shall report to Congress on the effect of section 1018 of the Oil Pollution Act of 1990 (Public Law 101–380; 104 Stat. 484) [33 U.S.C. 2718] on the safety of vessels being used to transport oil and the capability of owners and operators to meet their legal obligations in the event of an oil spill.”
+Pub. L. 102–241, § 32, Dec. 19, 1991, 105 Stat. 2222, provided that: “Not later than one year after the date of enactment of this Act [Dec. 19, 1991], the Secretary of Transportation shall report to Congress on the effect of section 1018 of the Oil Pollution Act of 1990 (Public Law 101–380; 104 Stat. 484) [33 U.S.C. 2718] on the safety of vessels being used to transport oil and the capability of owners and operators to meet their legal obligations in the event of an oil spill.”
 
-### § 2719. State financial responsibility
+### § 2719. State financial responsibility
 
 A State may enforce, on the navigable waters of the State, the requirements for evidence of financial responsibility under section 2716 of this title.
 
-(Pub. L. 101–380, title I, § 1019, Aug. 18, 1990, 104 Stat. 506.)
+(Pub. L. 101–380, title I, § 1019, Aug. 18, 1990, 104 Stat. 506.)
 
-### § 2720. Differentiation among fats, oils, and greases
+### § 2720. Differentiation among fats, oils, and greases
 
 **(a) In general** Except as provided in subsection (c), in issuing or enforcing any regulation or establishing any interpretation or guideline relating to the transportation, storage, discharge, release, emission, or disposal of a fat, oil, or grease under any Federal law, the head of that Federal agency shall—
 
@@ -1667,7 +1667,7 @@ In differentiating between the class of fats, oils, and greases described in sub
 
 The requirements of this Act shall not apply to the Food and Drug Administration and the Food Safety and Inspection Service.
 
-(Pub. L. 104–55, § 2, Nov. 20, 1995, 109 Stat. 546.)
+(Pub. L. 104–55, § 2, Nov. 20, 1995, 109 Stat. 546.)
 
 **Editorial Notes**
 
@@ -1685,7 +1685,7 @@ Section is comprised of section 2 of Pub. L. 104–55. Subsec. (d) of section 2 
 
 **Regulations**
 
-Pub. L. 105–277, div. A, § 101(g) [title III, § 343], Oct. 21, 1998, 112 Stat. 2681–439, 2681–473, provided that:
+Pub. L. 105–277, div. A, § 101(g) [title III, § 343], Oct. 21, 1998, 112 Stat. 2681–439, 2681–473, provided that:
 
 > **“(a)** None of the funds made available by this Act or subsequent Acts may be used by the Coast Guard to issue, implement, or enforce a regulation or to establish an interpretation or guideline under the Edible Oil Regulatory Reform Act (Public Law 104–55) [see Short Title of 1995 Amendment note set out under section 2701 of this title], or the amendments made by that Act, that does not recognize and provide for, with respect to fats, oils, and greases (as described in that Act, or the amendments made by that Act) differences in—
 
@@ -1701,11 +1701,11 @@ Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2499, provided that: “N
 
 **Sense of Congress on Implementation of Regulations Regarding Animal Fats and Vegetable Oils**
 
-Pub. L. 104–324, title XI, § 1130, Oct. 19, 1996, 110 Stat. 3985, as amended by Pub. L. 111–207, § 4(a)(1), July 27, 2010, 124 Stat. 2251, provided that regulations or guidelines issued pursuant to Pub. L. 104–55 should take into account the differences among classes of fats, oils, and greases described under that law.
+Pub. L. 104–324, title XI, § 1130, Oct. 19, 1996, 110 Stat. 3985, as amended by Pub. L. 111–207, § 4(a)(1), July 27, 2010, 124 Stat. 2251, provided that regulations or guidelines issued pursuant to Pub. L. 104–55 should take into account the differences among classes of fats, oils, and greases described under that law.
 
 ## SUBCHAPTER II—PRINCE WILLIAM SOUND PROVISIONS
 
-### § 2731. Oil Spill Recovery Institute
+### § 2731. Oil Spill Recovery Institute
 
 **(a) Establishment of Institute**
 
@@ -1791,7 +1791,7 @@ The Institute shall publish and make available to any person upon request the re
 
 In this section, the term “Prince William Sound and its adjacent waters” means such sound and waters as generally depicted on the map entitled “EXXON VALDEZ oil spill dated March 1990”.
 
-(Pub. L. 101–380, title V, § 5001, Aug. 18, 1990, 104 Stat. 542; Pub. L. 104–324, title XI, § 1102(a), Oct. 19, 1996, 110 Stat. 3964; Pub. L. 107–295, title IV, § 427, Nov. 25, 2002, 116 Stat. 2127; Pub. L. 109–58, title III, § 389(1), Aug. 8, 2005, 119 Stat. 747; Pub. L. 109–241, title IX, § 902(*l*)(1), July 11, 2006, 120 Stat. 568.)
+(Pub. L. 101–380, title V, § 5001, Aug. 18, 1990, 104 Stat. 542; Pub. L. 104–324, title XI, § 1102(a), Oct. 19, 1996, 110 Stat. 3964; Pub. L. 107–295, title IV, § 427, Nov. 25, 2002, 116 Stat. 2127; Pub. L. 109–58, title III, § 389(1), Aug. 8, 2005, 119 Stat. 747; Pub. L. 109–241, title IX, § 902(*l*)(1), July 11, 2006, 120 Stat. 568.)
 
 **Editorial Notes**
 
@@ -1803,15 +1803,15 @@ In this section, the term “Prince William Sound and its adjacent waters” mea
 
 2002—Subsec. (i). Pub. L. 107–295 substituted “September 30, 2012” for “10 years after October 19, 1996”.
 
-1996—Subsec. (a). Pub. L. 104–324, § 1102(a)(1), (2), struck out “to be administered by the Secretary of Commerce” after “as the ‘Institute’)” and substituted “located” for “and located”.
+1996—Subsec. (a). Pub. L. 104–324, § 1102(a)(1), (2), struck out “to be administered by the Secretary of Commerce” after “as the ‘Institute’)” and substituted “located” for “and located”.
 
-Subsec. (b)(2). Pub. L. 104–324, § 1102(a)(3), substituted “Arctic or Subarctic oil spills” for “the EXXON VALDEZ oil spill” in two places.
+Subsec. (b)(2). Pub. L. 104–324, § 1102(a)(3), substituted “Arctic or Subarctic oil spills” for “the EXXON VALDEZ oil spill” in two places.
 
-Subsec. (c)(1). Pub. L. 104–324, § 1102(a)(4), substituted “16” for “18” in introductory provisions.
+Subsec. (c)(1). Pub. L. 104–324, § 1102(a)(4), substituted “16” for “18” in introductory provisions.
 
-Subsec. (c)(1)(A). Pub. L. 104–324, § 1102(a)(5), substituted “, and Natural Resources” for “, Natural Resources, and Commerce and Economic Development”.
+Subsec. (c)(1)(A). Pub. L. 104–324, § 1102(a)(5), substituted “, and Natural Resources” for “, Natural Resources, and Commerce and Economic Development”.
 
-Subsec. (c)(1)(B). Pub. L. 104–324, § 1102(a)(6), (8), added subpar. (B) and struck out former subpar. (B) which read as follows: “One representative appointed by each of—
+Subsec. (c)(1)(B). Pub. L. 104–324, § 1102(a)(6), (8), added subpar. (B) and struck out former subpar. (B) which read as follows: “One representative appointed by each of—
 
 “(i) the Secretaries of Commerce, the Interior, Agriculture, Transportation, and the Navy; and
 
@@ -1819,21 +1819,21 @@ Subsec. (c)(1)(B). Pub. L. 104–324, § 1102(a)(6), (8), added subpar. (B) an
 
 all of whom shall be Federal employees.”
 
-Subsec. (c)(1)(C). Pub. L. 104–324, § 1102(a)(6), (8), added subpar. (C) and struck out former subpar. (C) which read as follows: “4 representatives appointed by the Secretary of Commerce from among residents of communities in Alaska that were affected by the EXXON VALDEZ oil spill who are knowledgeable about fisheries, other local industries, the marine environment, wildlife, public health, safety, or education. At least 2 of the representatives shall be appointed from among residents of communities located in Prince William Sound. The Secretary shall appoint residents to serve terms of 2 years each, from a list of 8 qualified individuals to be submitted by the Governor of the State of Alaska based on recommendations made by the governing body of each affected community. Each affected community may submit the names of 2 qualified individuals for the Governor’s consideration. No more than 5 of the 8 qualified persons recommended by the Governor shall be members of the same political party.”
+Subsec. (c)(1)(C). Pub. L. 104–324, § 1102(a)(6), (8), added subpar. (C) and struck out former subpar. (C) which read as follows: “4 representatives appointed by the Secretary of Commerce from among residents of communities in Alaska that were affected by the EXXON VALDEZ oil spill who are knowledgeable about fisheries, other local industries, the marine environment, wildlife, public health, safety, or education. At least 2 of the representatives shall be appointed from among residents of communities located in Prince William Sound. The Secretary shall appoint residents to serve terms of 2 years each, from a list of 8 qualified individuals to be submitted by the Governor of the State of Alaska based on recommendations made by the governing body of each affected community. Each affected community may submit the names of 2 qualified individuals for the Governor’s consideration. No more than 5 of the 8 qualified persons recommended by the Governor shall be members of the same political party.”
 
-Subsec. (c)(1)(D). Pub. L. 104–324, § 1102(a)(6), (8), added subpar. (D) and struck out former subpar. (D) which read as follows: “3 Alaska Natives who represent Native entities affected by the EXXON VALDEZ oil spill, at least one of whom represents an entity located in Prince William Sound, to serve terms of 2 years each from a list of 6 qualified individuals submitted by the Alaska Federation of Natives.”
+Subsec. (c)(1)(D). Pub. L. 104–324, § 1102(a)(6), (8), added subpar. (D) and struck out former subpar. (D) which read as follows: “3 Alaska Natives who represent Native entities affected by the EXXON VALDEZ oil spill, at least one of whom represents an entity located in Prince William Sound, to serve terms of 2 years each from a list of 6 qualified individuals submitted by the Alaska Federation of Natives.”
 
-Subsec. (c)(1)(E) to (H). Pub. L. 104–324, § 1102(a)(7), (8), added subpars. (E) and (F) and redesignated former subpars. (E) and (F) as (G) and (H), respectively.
+Subsec. (c)(1)(E) to (H). Pub. L. 104–324, § 1102(a)(7), (8), added subpars. (E) and (F) and redesignated former subpars. (E) and (F) as (G) and (H), respectively.
 
-Subsec. (c)(4). Pub. L. 104–324, § 1102(a)(9), added par. (4).
+Subsec. (c)(4). Pub. L. 104–324, § 1102(a)(9), added par. (4).
 
-Subsec. (d)(2). Pub. L. 104–324, § 1102(a)(10), substituted “Arctic or Subarctic oil spills” for “the EXXON VALDEZ oil spill”.
+Subsec. (d)(2). Pub. L. 104–324, § 1102(a)(10), substituted “Arctic or Subarctic oil spills” for “the EXXON VALDEZ oil spill”.
 
-Subsec. (e). Pub. L. 104–324, § 1102(a)(11)–(13), substituted “appointed by the Advisory Board” for “appointed by the Secretary of Commerce”, struck out “, the Advisory Board,” after “Technology Institute”, and substituted “Advisory Board’s” for “Secretary’s”.
+Subsec. (e). Pub. L. 104–324, § 1102(a)(11)–(13), substituted “appointed by the Advisory Board” for “appointed by the Secretary of Commerce”, struck out “, the Advisory Board,” after “Technology Institute”, and substituted “Advisory Board’s” for “Secretary’s”.
 
-Subsec. (i). Pub. L. 104–324, § 1102(a)(14), (15), inserted “authorization in section 2736(b) of this title providing funding for the” after “The” and substituted “October 19, 1996” for “August 18, 1990”.
+Subsec. (i). Pub. L. 104–324, § 1102(a)(14), (15), inserted “authorization in section 2736(b) of this title providing funding for the” after “The” and substituted “October 19, 1996” for “August 18, 1990”.
 
-Subsec. (j). Pub. L. 104–324, § 1102(a)(16), (17), struck out first sentence which read as follows: “All funds authorized for the Institute shall be provided through the National Oceanic and Atmospheric Administration.”, and inserted “The Advisory Board may compensate its Federal representatives for their reasonable travel costs.” after “Institute.”
+Subsec. (j). Pub. L. 104–324, § 1102(a)(16), (17), struck out first sentence which read as follows: “All funds authorized for the Institute shall be provided through the National Oceanic and Atmospheric Administration.”, and inserted “The Advisory Board may compensate its Federal representatives for their reasonable travel costs.” after “Institute.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1841,7 +1841,7 @@ Subsec. (j). Pub. L. 104–324, § 1102(a)(16), (17), struck out first sentenc
 
 Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-### § 2732. Terminal and tanker oversight and monitoring
+### § 2732. Terminal and tanker oversight and monitoring
 
 **(a) Short title and findings**
 
@@ -2157,7 +2157,7 @@ With respect to the Prince William Sound Program, the Alyeska Pipeline Service C
 
 With respect to the Cook Inlet Program, the terminal facilities, offshore facilities, or crude oil tanker owners and operators enter into a contract with a voluntary advisory organization to fund that organization on an annual basis and the President annually certifies that the organization fosters the general goals and purposes of this section and is broadly representative of the communities and interests in the vicinity of the terminal facilities and Cook Inlet.
 
-(Pub. L. 101–380, title V, § 5002, Aug. 18, 1990, 104 Stat. 544; Pub. L. 109–241, title IX, § 902(*l*)(2), July 11, 2006, 120 Stat. 568; Pub. L. 113–281, title III, § 318, Dec. 18, 2014, 128 Stat. 3051; Pub. L. 115–232, div. C, title XXXV, § 3547(e), Aug. 13, 2018, 132 Stat. 2328.)
+(Pub. L. 101–380, title V, § 5002, Aug. 18, 1990, 104 Stat. 544; Pub. L. 109–241, title IX, § 902(*l*)(2), July 11, 2006, 120 Stat. 568; Pub. L. 113–281, title III, § 318, Dec. 18, 2014, 128 Stat. 3051; Pub. L. 115–232, div. C, title XXXV, § 3547(e), Aug. 13, 2018, 132 Stat. 2328.)
 
 **Editorial Notes**
 
@@ -2203,13 +2203,13 @@ This certification shall be published in the Federal Register.
 
 George Bush.
 
-### § 2733. Bligh Reef light
+### § 2733. Bligh Reef light
 
 The Secretary of Transportation shall within one year after August 18, 1990, install and ensure operation of an automated navigation light on or adjacent to Bligh Reef in Prince William Sound, Alaska, of sufficient power and height to provide long-range warning of the location of Bligh Reef.
 
-(Pub. L. 101–380, title V, § 5003, Aug. 18, 1990, 104 Stat. 553.)
+(Pub. L. 101–380, title V, § 5003, Aug. 18, 1990, 104 Stat. 553.)
 
-### § 2734. Vessel traffic service system
+### § 2734. Vessel traffic service system
 
 The Secretary of Transportation shall within one year after August 18, 1990—
 
@@ -2217,7 +2217,7 @@ The Secretary of Transportation shall within one year after August 18, 1990—
 
 **(2)** submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the feasibility and desirability of instituting positive control of tank vessel movements in Prince William Sound by Coast Guard personnel using the Port of Valdez, Alaska, VTS system, as modified pursuant to paragraph (1).
 
-(Pub. L. 101–380, title V, § 5004, Aug. 18, 1990, 104 Stat. 553; Pub. L. 107–295, title IV, § 408(b)(2), Nov. 25, 2002, 116 Stat. 2117.)
+(Pub. L. 101–380, title V, § 5004, Aug. 18, 1990, 104 Stat. 553; Pub. L. 107–295, title IV, § 408(b)(2), Nov. 25, 2002, 116 Stat. 2117.)
 
 **Editorial Notes**
 
@@ -2231,7 +2231,7 @@ The Secretary of Transportation shall within one year after August 18, 1990—
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 2735. Equipment and personnel requirements under tank vessel and facility response plans
+### § 2735. Equipment and personnel requirements under tank vessel and facility response plans
 
 **(a) In general** In addition to the requirements for response plans for vessels established by section 1321(j) of this title, a response plan for a tanker loading cargo at a facility permitted under the Trans-Alaska Pipeline Authorization Act (43 U.S.C. 1651 et seq.), and a response plan for such a facility, shall provide for—
 
@@ -2255,19 +2255,19 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(B)** in the case of a facility, the largest foreseeable discharge in adverse weather conditions.
 
-(Pub. L. 101–380, title V, § 5005, Aug. 18, 1990, 104 Stat. 553; Pub. L. 102–388, title III, § 354, Oct. 6, 1992, 106 Stat. 1555.)
+(Pub. L. 101–380, title V, § 5005, Aug. 18, 1990, 104 Stat. 553; Pub. L. 102–388, title III, § 354, Oct. 6, 1992, 106 Stat. 1555.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (a), is title II of Pub. L. 93–153, Nov. 16, 1973, 87 Stat. 584, which is classified generally to chapter 34 (§ 1651 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1651 of Title 43 and Tables.
+The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (a), is title II of Pub. L. 93–153, Nov. 16, 1973, 87 Stat. 584, which is classified generally to chapter 34 (§ 1651 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1651 of Title 43 and Tables.
 
 **Amendments**
 
 1992—Subsec. (a). Pub. L. 102–388 substituted “tanker loading cargo at” for “tank vessel operating on Prince William Sound, or” and directed the insertion of “and a response plan for such a facility,” after “(43 U.S.C. 1651 et seq.).”, which was executed by making the insertion after “(43 U.S.C. 1651 et seq.),” to reflect the probable intent of Congress.
 
-### § 2736. Funding
+### § 2736. Funding
 
 **(a) Sections 2731, 2733, and 2734**
 
@@ -2285,7 +2285,7 @@ Beginning 1 year after the date on which the Secretary, in consultation with the
 
 Amounts in the Fund shall be available, without further appropriation and without fiscal year limitation, to carry out section 2738(b) of this title, in an annual amount not to exceed $5,000,000 of which up to $3,000,000 may be used for the lease payment to the Alaska SeaLife Center under section 2738(b)(2) of this title: *Provided*, That the entire amount is designated by the Congress as an emergency requirement pursuant to section 251(b)(2)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended [2 U.S.C. 901(b)(2)(A)]: *Provided further*, That the entire amount shall be available only to the extent an official budget request that includes designation of the entire amount of the request as an emergency requirement as defined in the Balanced Budget and Emergency Deficit Control Act of 1985, as amended, is transmitted by the President to the Congress.
 
-(Pub. L. 101–380, title V, § 5006, Aug. 18, 1990, 104 Stat. 554; Pub. L. 104–324, title XI, § 1102(b), Oct. 19, 1996, 110 Stat. 3965; Pub. L. 106–246, div. B, title II, § 2204(2), July 13, 2000, 114 Stat. 547; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(1)(C)], Dec. 21, 2000, 114 Stat. 2763, 2763A–239; Pub. L. 108–293, title VII, § 704, Aug. 9, 2004, 118 Stat. 1075; Pub. L. 109–58, title III, § 389(2), Aug. 8, 2005, 119 Stat. 747; Pub. L. 109–59, title IV, § 4413, Aug. 10, 2005, 119 Stat. 1779; Pub. L. 109–241, title IX, § 901(j), July 11, 2006, 120 Stat. 564.)
+(Pub. L. 101–380, title V, § 5006, Aug. 18, 1990, 104 Stat. 554; Pub. L. 104–324, title XI, § 1102(b), Oct. 19, 1996, 110 Stat. 3965; Pub. L. 106–246, div. B, title II, § 2204(2), July 13, 2000, 114 Stat. 547; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(1)(C)], Dec. 21, 2000, 114 Stat. 2763, 2763A–239; Pub. L. 108–293, title VII, § 704, Aug. 9, 2004, 118 Stat. 1075; Pub. L. 109–58, title III, § 389(2), Aug. 8, 2005, 119 Stat. 747; Pub. L. 109–59, title IV, § 4413, Aug. 10, 2005, 119 Stat. 1779; Pub. L. 109–241, title IX, § 901(j), July 11, 2006, 120 Stat. 564.)
 
 **Editorial Notes**
 
@@ -2293,7 +2293,7 @@ Amounts in the Fund shall be available, without further appropriation and withou
 
 Section 8102(a)(2)(B)(ii), referred to in subsec. (b), is section 8102(a)(2)(B)(ii) of Pub. L. 101–380, title VIII, Aug. 18, 1990, 104 Stat. 565, which is set out as a note under section 1653 of Title 43, Public Lands.
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (d), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (d), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
 **Amendments**
 
@@ -2309,27 +2309,27 @@ Subsec. (d). Pub. L. 109–59, which directed insertion of “annual” before �
 
 Pub. L. 106–246 added subsec. (c) relating to section 2738.
 
-1996—Subsec. (a). Pub. L. 104–324, § 1102(b)(1)–(3), redesignated subsec. (b) as (a), substituted “2731, 2733,” for “2733” in heading, inserted “to carry out section 2731 of this title in the amount as determined in subsection (b), and” after “limitation,”, and struck out heading and text of former subsec. (a). Text read as follows: “Amounts in the Fund shall be available, subject to appropriations, and shall remain available until expended, to carry out section 2731 of this title as follows:
+1996—Subsec. (a). Pub. L. 104–324, § 1102(b)(1)–(3), redesignated subsec. (b) as (a), substituted “2731, 2733,” for “2733” in heading, inserted “to carry out section 2731 of this title in the amount as determined in subsection (b), and” after “limitation,”, and struck out heading and text of former subsec. (a). Text read as follows: “Amounts in the Fund shall be available, subject to appropriations, and shall remain available until expended, to carry out section 2731 of this title as follows:
 
 “(1) $5,000,000 shall be available for the first fiscal year beginning after August 18, 1990.
 
 “(2) $2,000,000 shall be available for each of the 9 fiscal years following the fiscal year described in paragraph (1).”
 
-Subsecs. (b), (c). Pub. L. 104–324, § 1102(b)(4), added subsecs. (b) and (c). Former subsec. (b) redesignated (a).
+Subsecs. (b), (c). Pub. L. 104–324, § 1102(b)(4), added subsecs. (b) and (c). Former subsec. (b) redesignated (a).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Investment Amount**
 
-Pub. L. 112–213, title VII, § 710, Dec. 20, 2012, 126 Stat. 1581, provided that: “Not later than 30 days after the date of enactment of this Act [Dec. 20, 2012], the Secretary of the Treasury shall increase the $22,500,000 invested in income-producing securities for purposes of section 5006(b) of the Oil Pollution Act of 1990 (33 U.S.C. 2736(b)) by $12,851,340.”
+Pub. L. 112–213, title VII, § 710, Dec. 20, 2012, 126 Stat. 1581, provided that: “Not later than 30 days after the date of enactment of this Act [Dec. 20, 2012], the Secretary of the Treasury shall increase the $22,500,000 invested in income-producing securities for purposes of section 5006(b) of the Oil Pollution Act of 1990 (33 U.S.C. 2736(b)) by $12,851,340.”
 
-### § 2737. Limitation
+### § 2737. Limitation
 
 Notwithstanding any other law, tank vessels that have spilled more than 1,000,000 gallons of oil into the marine environment after March 22, 1989, are prohibited from operating on the navigable waters of Prince William Sound, Alaska.
 
-(Pub. L. 101–380, title V, § 5007, Aug. 18, 1990, 104 Stat. 554.)
+(Pub. L. 101–380, title V, § 5007, Aug. 18, 1990, 104 Stat. 554.)
 
-### § 2738. North Pacific Marine Research Institute
+### § 2738. North Pacific Marine Research Institute
 
 **(a) Institute established**
 
@@ -2357,7 +2357,7 @@ No funds made available to carry out this section may be used to initiate litiga
 
 The Institute shall publish and make available to any person on request the results of all research, educational, and demonstration projects conducted by the Institute. The Institute shall provide a copy of all research, educational, and demonstration projects conducted by the Institute to the National Park Service, the United States Fish and Wildlife Service, and the National Oceanic and Atmospheric Administration.
 
-(Pub. L. 101–380, title V, § 5008, as added Pub. L. 106–246, div. B, title II, § 2204(1), July 13, 2000, 114 Stat. 546; amended Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(1)(A), (B)], Dec. 21, 2000, 114 Stat. 2763, 2763A–238, 2763A–239; Pub. L. 117–286, § 4(a)(205), Dec. 27, 2022, 136 Stat. 4328.)
+(Pub. L. 101–380, title V, § 5008, as added Pub. L. 106–246, div. B, title II, § 2204(1), July 13, 2000, 114 Stat. 546; amended Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(1)(A), (B)], Dec. 21, 2000, 114 Stat. 2763, 2763A–238, 2763A–239; Pub. L. 117–286, § 4(a)(205), Dec. 27, 2022, 136 Stat. 4328.)
 
 **Editorial Notes**
 
@@ -2369,13 +2369,13 @@ Public Law 105–83, referred to in subsec. (e), is Pub. L. 105–83, Nov. 14, 1
 
 2022—Subsec. (c). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act”.
 
-2000—Subsec. (c). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(1)(A)], inserted second sentence and struck out former second sentence which read as follows: “The Comptroller General of the United States, and any of his or her duly authorized representatives, shall have access, for purposes of audit and examination, to any books, documents, papers, and records of the Institute that are pertinent to the funds received and expended by the Institute.”
+2000—Subsec. (c). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(1)(A)], inserted second sentence and struck out former second sentence which read as follows: “The Comptroller General of the United States, and any of his or her duly authorized representatives, shall have access, for purposes of audit and examination, to any books, documents, papers, and records of the Institute that are pertinent to the funds received and expended by the Institute.”
 
-Subsec. (e). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(1)(B)], inserted at end “The administrative funds of the Institute and the administrative funds of the North Pacific Research Board created under Public Law 105–83 may be used to jointly administer such programs at the discretion of the North Pacific Research Board.”
+Subsec. (e). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(1)(B)], inserted at end “The administrative funds of the Institute and the administrative funds of the North Pacific Research Board created under Public Law 105–83 may be used to jointly administer such programs at the discretion of the North Pacific Research Board.”
 
 ## SUBCHAPTER III—MISCELLANEOUS
 
-### § 2751. Savings provision
+### § 2751. Savings provision
 
 **(a) Cross-references**
 
@@ -2399,7 +2399,7 @@ Nothing in this Act shall apply to any rights and duties that matured, penalties
 
 **(2)** the jurisdiction of the district courts of the United States with respect to civil actions under admiralty and maritime jurisdiction, saving to suitors in all cases all other remedies to which they are otherwise entitled.
 
-(Pub. L. 101–380, title VI, § 6001, Aug. 18, 1990, 104 Stat. 554.)
+(Pub. L. 101–380, title VI, § 6001, Aug. 18, 1990, 104 Stat. 554.)
 
 **Editorial Notes**
 
@@ -2407,7 +2407,7 @@ Nothing in this Act shall apply to any rights and duties that matured, penalties
 
 This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-### § 2752. Annual appropriations
+### § 2752. Annual appropriations
 
 **(a) Required**
 
@@ -2445,7 +2445,7 @@ Amounts advanced under this paragraph shall be repaid to the Fund when, and to t
 
 Amounts to which this subsection applies shall remain available until expended.
 
-(Pub. L. 101–380, title VI, § 6002, Aug. 18, 1990, 104 Stat. 555; Pub. L. 104–324, title XI, § 1102(c)(1), Oct. 19, 1996, 110 Stat. 3966; Pub. L. 107–295, title III, § 323, Nov. 25, 2002, 116 Stat. 2104; Pub. L. 111–191, § 1, June 15, 2010, 124 Stat. 1278; Pub. L. 111–212, title II, § 2001, July 29, 2010, 124 Stat. 2337; Pub. L. 117–263, div. K, title CXIII, § 11313, Dec. 23, 2022, 136 Stat. 4086.)
+(Pub. L. 101–380, title VI, § 6002, Aug. 18, 1990, 104 Stat. 555; Pub. L. 104–324, title XI, § 1102(c)(1), Oct. 19, 1996, 110 Stat. 3966; Pub. L. 107–295, title III, § 323, Nov. 25, 2002, 116 Stat. 2104; Pub. L. 111–191, § 1, June 15, 2010, 124 Stat. 1278; Pub. L. 111–212, title II, § 2001, July 29, 2010, 124 Stat. 2337; Pub. L. 117–263, div. K, title CXIII, § 11313, Dec. 23, 2022, 136 Stat. 4086.)
 
 **Editorial Notes**
 
@@ -2453,7 +2453,7 @@ Amounts to which this subsection applies shall remain available until expended.
 
 2022—Subsec. (b). Pub. L. 117–263 added subsec. (b) and struck out former subsec. (b) which related to exceptions.
 
-2010—Subsec. (b). Pub. L. 111–212, which directed amendment of second sentence by inserting “: (1)” before “may obtain an advance from the Fund” and substituting “advance; (2) in the case of discharge of oil that began in 2010 in connection with the explosion on, and sinking of, the mobile offshore drilling unit Deepwater Horizon, may, without further appropriation, obtain one or more advances from the Oil Spill Liability Trust Fund as needed, up to a maximum of $100,000,000 for each advance, the total amount of all advances not to exceed the amounts available under section 9509(c)(2) of the Internal Revenue Code of 1986 (26 U.S.C. 9509(c)(2)), and within 7 days of each advance, shall notify Congress of the amount advanced and the facts and circumstances necessitating the advance; and (3) amounts” for “advance. Amounts”, could not be executed because of prior amendment by Pub. L. 111–191. See below.
+2010—Subsec. (b). Pub. L. 111–212, which directed amendment of second sentence by inserting “: (1)” before “may obtain an advance from the Fund” and substituting “advance; (2) in the case of discharge of oil that began in 2010 in connection with the explosion on, and sinking of, the mobile offshore drilling unit Deepwater Horizon, may, without further appropriation, obtain one or more advances from the Oil Spill Liability Trust Fund as needed, up to a maximum of $100,000,000 for each advance, the total amount of all advances not to exceed the amounts available under section 9509(c)(2) of the Internal Revenue Code of 1986 (26 U.S.C. 9509(c)(2)), and within 7 days of each advance, shall notify Congress of the amount advanced and the facts and circumstances necessitating the advance; and (3) amounts” for “advance. Amounts”, could not be executed because of prior amendment by Pub. L. 111–191. See below.
 
 Pub. L. 111–191, in second sentence, inserted “(1)” after “Coast Guard” and “and (2) in the case of the discharge of oil that began in 2010 in connection with the explosion on, and sinking of, the mobile offshore drilling unit Deepwater Horizon, may, without further appropriation, obtain 1 or more advances from the Fund as needed, up to a maximum of $100,000,000 for each advance, with the total amount of all advances not to exceed the amounts available under section 9509(c)(2) of title 26, and within 7 days of each advance, shall notify Congress of the amount advanced and the facts and circumstances necessitating the advance” before period at end.
 
@@ -2473,13 +2473,13 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Functions of President under subsec. (b) of this section delegated to Secretary of Department in which Coast Guard is operating by section 7(a)(1)(B) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54766, set out as a note under section 1321 of this title.
 
-### § 2753. Repealed. Pub. L. 104–134, title I, § 101(c) [title I, § 109], Apr. 26, 1996, 110 Stat. 1321–156, 1321–177; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327
+### § 2753. Repealed. Pub. L. 104–134, title I, § 101(c) [title I, § 109], Apr. 26, 1996, 110 Stat. 1321–156, 1321–177; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327
 
-Section, Pub. L. 101–380, title VI, § 6003, Aug. 18, 1990, 104 Stat. 555, related to protection of the Outer Banks of North Carolina.
+Section, Pub. L. 101–380, title VI, § 6003, Aug. 18, 1990, 104 Stat. 555, related to protection of the Outer Banks of North Carolina.
 
 ## SUBCHAPTER IV—OIL POLLUTION RESEARCH AND DEVELOPMENT PROGRAM
 
-### § 2761. Oil pollution research and development program
+### § 2761. Oil pollution research and development program
 
 **(a) Definitions** In this section—
 
@@ -2749,15 +2749,15 @@ The Chair shall submit to Congress every 2 years on October 30 a report on the a
 
 **(1)** funds authorized to be appropriated to carry out the activities under subsection (e)(4) shall not exceed $5,000,000 for fiscal year 1991 or $3,500,000 for any subsequent fiscal year; and
 
-**(2)** not less than $3,000,000 shall be available for carrying out the activities in subsection (c)(6) 1
+**(2)** not less than $3,000,000 shall be available for carrying out the activities in subsection (c)(6) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 for fiscal years 1992, 1993, 1994, and 1995.
 
 All activities authorized in this section, including subsection (e)(8), are subject to appropriations.
 
-(Pub. L. 101–380, title VII, § 7001, Aug. 18, 1990, 104 Stat. 559; Pub. L. 101–537, title II, § 2002, Nov. 8, 1990, 104 Stat. 2375; Pub. L. 101–646, title IV, § 4002, Nov. 29, 1990, 104 Stat. 4788; Pub. L. 104–324, title XI, §§ 1102(c)(2), 1108, Oct. 19, 1996, 110 Stat. 3966, 3968; Pub. L. 104–332, § 2(h)(1), (2), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 108–426, § 2(c)(5), Nov. 30, 2004, 118 Stat. 2424; Pub. L. 109–241, title VI, § 605(a)(1), title IX, § 902(*l*)(3), (4), July 11, 2006, 120 Stat. 555, 568; Pub. L. 114–120, title III, § 319, Feb. 8, 2016, 130 Stat. 66; Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], § 8304, Jan. 1, 2021, 134 Stat. 4693; Pub. L. 119–60, div. G, title LXXVII, § 7701(g)(7), Dec. 18, 2025, 139 Stat. 1836.)
+(Pub. L. 101–380, title VII, § 7001, Aug. 18, 1990, 104 Stat. 559; Pub. L. 101–537, title II, § 2002, Nov. 8, 1990, 104 Stat. 2375; Pub. L. 101–646, title IV, § 4002, Nov. 29, 1990, 104 Stat. 4788; Pub. L. 104–324, title XI, §§ 1102(c)(2), 1108, Oct. 19, 1996, 110 Stat. 3966, 3968; Pub. L. 104–332, § 2(h)(1), (2), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 108–426, § 2(c)(5), Nov. 30, 2004, 118 Stat. 2424; Pub. L. 109–241, title VI, § 605(a)(1), title IX, § 902(*l*)(3), (4), July 11, 2006, 120 Stat. 555, 568; Pub. L. 114–120, title III, § 319, Feb. 8, 2016, 130 Stat. 66; Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], § 8304, Jan. 1, 2021, 134 Stat. 4693; Pub. L. 119–60, div. G, title LXXVII, § 7701(g)(7), Dec. 18, 2025, 139 Stat. 1836.)
 
 **Editorial Notes**
 
@@ -2765,81 +2765,81 @@ All activities authorized in this section, including subsection (e)(8), are subj
 
 This Act, referred to in subsec. (e)(7)(C)(ii), (8)(G), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-Subsection (c)(6), referred to in subsec. (h)(2), was redesignated subsec. (e)(6) of this section by Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], § 8304(5), Jan. 1, 2021, 134 Stat. 4694.
+Subsection (c)(6), referred to in subsec. (h)(2), was redesignated subsec. (e)(6) of this section by Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], § 8304(5), Jan. 1, 2021, 134 Stat. 4694.
 
 **Amendments**
 
 2025—Subsec. (h)(1). Pub. L. 119–60 substituted “subsection (e)(4)” for “subsection (c)(4)”.
 
-2021—Subsecs. (a), (b). Pub. L. 116–283, § 8304(6), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to Interagency Coordinating Committee on Oil Pollution Research and oil pollution research and technology plan.
+2021—Subsecs. (a), (b). Pub. L. 116–283, § 8304(6), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to Interagency Coordinating Committee on Oil Pollution Research and oil pollution research and technology plan.
 
-Subsec. (c). Pub. L. 116–283, § 8304(6), added subsec. (c). Former subsec. (c) (as amended by section 8304(1) of Pub. L. 116–283, see notes below) redesignated (e).
+Subsec. (c). Pub. L. 116–283, § 8304(6), added subsec. (c). Former subsec. (c) (as amended by section 8304(1) of Pub. L. 116–283, see notes below) redesignated (e).
 
-Subsec. (c)(1). Pub. L. 116–283, § 8304(1)(A), inserted “, technology,” after “research”.
+Subsec. (c)(1). Pub. L. 116–283, § 8304(1)(A), inserted “, technology,” after “research”.
 
-Subsec. (c)(2). Pub. L. 116–283, § 8304(1)(B), in introductory provisions, substituted “paragraph (1)” for “this subsection” and “and methods that are effective in preventing, mitigating, or restoring damage from oil discharges and that” for “which are effective in preventing or mitigating oil discharges and which”.
+Subsec. (c)(2). Pub. L. 116–283, § 8304(1)(B), in introductory provisions, substituted “paragraph (1)” for “this subsection” and “and methods that are effective in preventing, mitigating, or restoring damage from oil discharges and that” for “which are effective in preventing or mitigating oil discharges and which”.
 
-Subsec. (c)(3). Pub. L. 116–283, § 8304(1)(C), substituted “paragraph (1)” for “this subsection” in two places.
+Subsec. (c)(3). Pub. L. 116–283, § 8304(1)(C), substituted “paragraph (1)” for “this subsection” in two places.
 
-Subsec. (c)(4)(A). Pub. L. 116–283, § 8304(1)(D)(i), substituted “acute and chronic oil discharges on coastal and marine resources (including impacts on protected areas such as sanctuaries) and protected species, and such program shall” for “oil discharges. Such program shall” in introductory provisions.
+Subsec. (c)(4)(A). Pub. L. 116–283, § 8304(1)(D)(i), substituted “acute and chronic oil discharges on coastal and marine resources (including impacts on protected areas such as sanctuaries) and protected species, and such program shall” for “oil discharges. Such program shall” in introductory provisions.
 
-Subsec. (c)(4)(A)(iii) to (viii). Pub. L. 116–283, § 8304(1)(D)(ii)–(iv), added cls. (iii) and (vi) to (viii) and redesignated former cls. (iii) and (iv) as (iv) and (v), respectively.
+Subsec. (c)(4)(A)(iii) to (viii). Pub. L. 116–283, § 8304(1)(D)(ii)–(iv), added cls. (iii) and (vi) to (viii) and redesignated former cls. (iii) and (iv) as (iv) and (v), respectively.
 
-Subsec. (c)(5). Pub. L. 116–283, § 8304(1)(E), substituted “paragraph (1)” for “this subsection” in introductory provisions.
+Subsec. (c)(5). Pub. L. 116–283, § 8304(1)(E), substituted “paragraph (1)” for “this subsection” in introductory provisions.
 
-Subsec. (c)(7). Pub. L. 116–283, § 8304(1)(F), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: “Agencies represented on the Interagency Committee shall ensure the long-term use and operation of the Oil and Hazardous Materials Simulated Environmental Test Tank (OHMSETT) Research Center in New Jersey for oil pollution technology testing and evaluations.”
+Subsec. (c)(7). Pub. L. 116–283, § 8304(1)(F), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: “Agencies represented on the Interagency Committee shall ensure the long-term use and operation of the Oil and Hazardous Materials Simulated Environmental Test Tank (OHMSETT) Research Center in New Jersey for oil pollution technology testing and evaluations.”
 
-Subsec. (c)(8)(A). Pub. L. 116–283, § 8304(1)(G)(i), substituted “subsection (d)” for “subsection (b)”.
+Subsec. (c)(8)(A). Pub. L. 116–283, § 8304(1)(G)(i), substituted “subsection (d)” for “subsection (b)”.
 
-Subsec. (c)(8)(D)(iii). Pub. L. 116–283, § 8304(1)(G)(ii), substituted “subsection (d)” for “subsection (b)(1)(F)”.
+Subsec. (c)(8)(D)(iii). Pub. L. 116–283, § 8304(1)(G)(ii), substituted “subsection (d)” for “subsection (b)(1)(F)”.
 
-Subsec. (c)(10). Pub. L. 116–283, § 8304(1)(H), substituted “paragraph (1)” for “this subsection”, “Under Secretary” for “agencies represented on the Interagency Committee”, and “subsection (d)” for “subsection (b)” and inserted “, and States and Indian tribes” after “other persons”.
+Subsec. (c)(10). Pub. L. 116–283, § 8304(1)(H), substituted “paragraph (1)” for “this subsection”, “Under Secretary” for “agencies represented on the Interagency Committee”, and “subsection (d)” for “subsection (b)” and inserted “, and States and Indian tribes” after “other persons”.
 
-Subsec. (d). Pub. L. 116–283, § 8304(6), added subsec. (d). Former subsec. (d) redesignated (f).
+Subsec. (d). Pub. L. 116–283, § 8304(6), added subsec. (d). Former subsec. (d) redesignated (f).
 
-Pub. L. 116–283, § 8304(2), substituted “subsection (d)” for “subsection (b)”.
+Pub. L. 116–283, § 8304(2), substituted “subsection (d)” for “subsection (b)”.
 
-Subsec. (e). Pub. L. 116–283, § 8304(5), redesignated subsec. (c) as (e). Former subsec. (e) redesignated (g).
+Subsec. (e). Pub. L. 116–283, § 8304(5), redesignated subsec. (c) as (e). Former subsec. (e) redesignated (g).
 
-Pub. L. 116–283, § 8304(3), substituted “Chair” for “Chairman of the Interagency Committee”.
+Pub. L. 116–283, § 8304(3), substituted “Chair” for “Chairman of the Interagency Committee”.
 
-Subsec. (f). Pub. L. 116–283, § 8304(5), redesignated subsec. (d) as (f). Former subsec. (f) redesignated (h).
+Subsec. (f). Pub. L. 116–283, § 8304(5), redesignated subsec. (d) as (f). Former subsec. (f) redesignated (h).
 
-Pub. L. 116–283, § 8304(4), substituted “subsection (e)(8)” for “subsection (c)(8)” in introductory and concluding provisions.
+Pub. L. 116–283, § 8304(4), substituted “subsection (e)(8)” for “subsection (c)(8)” in introductory and concluding provisions.
 
-Subsecs. (g), (h). Pub. L. 116–283, § 8304(5), redesignated subsecs. (e) and (f) as (g) and (h), respectively.
+Subsecs. (g), (h). Pub. L. 116–283, § 8304(5), redesignated subsecs. (e) and (f) as (g) and (h), respectively.
 
-2016—Subsec. (a)(3). Pub. L. 114–120, § 319(a), substituted “Bureau of Safety and Environmental Enforcement, the Bureau of Ocean Energy Management,” for “Minerals Management Service” and inserted “the United States Arctic Research Commission,” after “National Aeronautics and Space Administration,”.
+2016—Subsec. (a)(3). Pub. L. 114–120, § 319(a), substituted “Bureau of Safety and Environmental Enforcement, the Bureau of Ocean Energy Management,” for “Minerals Management Service” and inserted “the United States Arctic Research Commission,” after “National Aeronautics and Space Administration,”.
 
-Subsec. (b)(2). Pub. L. 114–120, § 319(b)(1), substituted “department in which the Coast Guard is operating” for “Department of Transportation” in introductory provisions.
+Subsec. (b)(2). Pub. L. 114–120, § 319(b)(1), substituted “department in which the Coast Guard is operating” for “Department of Transportation” in introductory provisions.
 
-Subsec. (c)(8)(A). Pub. L. 114–120, § 319(b)(2), substituted “(2010)” for “(1989)”.
+Subsec. (c)(8)(A). Pub. L. 114–120, § 319(b)(2), substituted “(2010)” for “(1989)”.
 
-2006—Subsec. (a). Pub. L. 109–241, § 902(*l*)(3), added pars. (3) and (4) and struck out former par. (3) and concluding provisions which read as follows:
+2006—Subsec. (a). Pub. L. 109–241, § 902(*l*)(3), added pars. (3) and (4) and struck out former par. (3) and concluding provisions which read as follows:
 
 “Membership.—The Interagency Committee shall include representatives from the Department of Commerce (including the National Oceanic and Atmospheric Administration and the National Institute of Standards and Technology), the Department of Energy, the Department of the Interior (including the Minerals Management Service and the United States Fish and Wildlife Service), the Department of Transportation (including the United States Coast Guard, the Maritime Administration, and the Pipeline and Hazardous Materials Safety Administration), the Department of Defense (including the Army Corps of Engineers and the Navy), the Environmental Protection Agency, the National Aeronautics and Space Administration, and the United States Fire Administration in the Federal Emergency Management Agency, as well as such other Federal agencies as the President may designate.
 
 A representative of the Department of Transportation shall serve as Chairman.”
 
-Subsec. (c)(4)(B). Pub. L. 109–241, § 605(a)(1), substituted “RIVERA and the T/V ATHOS I,” for “RIVERA,”.
+Subsec. (c)(4)(B). Pub. L. 109–241, § 605(a)(1), substituted “RIVERA and the T/V ATHOS I,” for “RIVERA,”.
 
-Subsec. (c)(6). Pub. L. 109–241, § 902(*l*)(4), substituted “such agencies as the President may designate,” for “other such agencies in the Department of Transportation as the Secretary of Transportation may designate,”.
+Subsec. (c)(6). Pub. L. 109–241, § 902(*l*)(4), substituted “such agencies as the President may designate,” for “other such agencies in the Department of Transportation as the Secretary of Transportation may designate,”.
 
-2004—Subsec. (a)(3). Pub. L. 108–426, § 2(c)(5)(A), substituted “Pipeline and Hazardous Materials Safety Administration” for “Research and Special Projects Administration”.
+2004—Subsec. (a)(3). Pub. L. 108–426, § 2(c)(5)(A), substituted “Pipeline and Hazardous Materials Safety Administration” for “Research and Special Projects Administration”.
 
-Subsec. (c)(11). Pub. L. 108–426, § 2(c)(5)(B), substituted “Pipeline and Hazardous Materials Safety Administration” for “Research and Special Programs Administration”.
+Subsec. (c)(11). Pub. L. 108–426, § 2(c)(5)(B), substituted “Pipeline and Hazardous Materials Safety Administration” for “Research and Special Programs Administration”.
 
-1996—Subsec. (c)(2)(D). Pub. L. 104–324, § 1108, inserted “, and the Center for Marine Training and Safety in Galveston, Texas” before semicolon at end.
+1996—Subsec. (c)(2)(D). Pub. L. 104–324, § 1108, inserted “, and the Center for Marine Training and Safety in Galveston, Texas” before semicolon at end.
 
-Subsec. (c)(6). Pub. L. 104–332, § 2(h)(1), made technical amendment to Pub. L. 101–646, § 4002(1). See 1990 Amendment note below.
+Subsec. (c)(6). Pub. L. 104–332, § 2(h)(1), made technical amendment to Pub. L. 101–646, § 4002(1). See 1990 Amendment note below.
 
-Subsec. (c)(9). Pub. L. 104–324, § 1102(c)(2), inserted “until the authorization for funding under section 2736(b) of this title expires” before period at end.
+Subsec. (c)(9). Pub. L. 104–324, § 1102(c)(2), inserted “until the authorization for funding under section 2736(b) of this title expires” before period at end.
 
-Subsec. (f). Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 4002(2). See 1990 Amendment note below.
+Subsec. (f). Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 4002(2). See 1990 Amendment note below.
 
-1990—Subsec. (c)(6). Pub. L. 101–537, § 2002(1), and Pub. L. 101–646, § 4002(1), as amended by Pub. L. 104–332, § 2(h)(1), made substantially identical amendments, substituting “4” for “3” and inserting cl. (D).
+1990—Subsec. (c)(6). Pub. L. 101–537, § 2002(1), and Pub. L. 101–646, § 4002(1), as amended by Pub. L. 104–332, § 2(h)(1), made substantially identical amendments, substituting “4” for “3” and inserting cl. (D).
 
-Subsec. (f). Pub. L. 101–537, § 2002(2), and Pub. L. 101–646, § 4002(2), as amended by Pub. L. 104–332, amended subsec. (f) identically, substituting “$22,000,000” for “$21,250,000” in introductory provisions and “$3,000,000” for “$2,250,000” in par. (2).
+Subsec. (f). Pub. L. 101–537, § 2002(2), and Pub. L. 101–646, § 4002(2), as amended by Pub. L. 104–332, amended subsec. (f) identically, substituting “$22,000,000” for “$21,250,000” in introductory provisions and “$3,000,000” for “$2,250,000” in par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2849,7 +2849,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 **Improving Oil Spill Preparedness**
 
-Pub. L. 117–263, div. K, title CXIII, § 11308, Dec. 23, 2022, 136 Stat. 4079, provided that: “The Under Secretary of Commerce for Oceans and Atmosphere shall include in the Automated Data Inquiry for Oil Spills database (or a successor database) used by National Oceanic and Atmospheric Administration oil weathering models new data, including peer-reviewed data, on properties of crude and refined oils, including data on diluted bitumen, as such data becomes publicly available.”
+Pub. L. 117–263, div. K, title CXIII, § 11308, Dec. 23, 2022, 136 Stat. 4079, provided that: “The Under Secretary of Commerce for Oceans and Atmosphere shall include in the Automated Data Inquiry for Oil Spills database (or a successor database) used by National Oceanic and Atmospheric Administration oil weathering models new data, including peer-reviewed data, on properties of crude and refined oils, including data on diluted bitumen, as such data becomes publicly available.”
 
 **Executive Documents**
 
@@ -2861,7 +2861,7 @@ The Minerals Management Service was abolished and functions divided among the Of
 
 Functions of President under subsec. (a)(3) of this section delegated to Secretary of the Department in which the Coast Guard is operating by section 8(h) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54769, as amended, set out as a note under section 1321 of this title.
 
-### § 2762. Submerged oil program
+### § 2762. Submerged oil program
 
 **(a) Program**
 
@@ -2887,4 +2887,4 @@ The Commandant of the Coast Guard, in conjunction with the Under Secretary of Co
 
 There is authorized to be appropriated to the Commandant of the Coast Guard $2,000,000 for each of fiscal years 2006 through 2010 to carry out this subsection.
 
-(Pub. L. 101–380, title VII, § 7002, as added Pub. L. 109–241, title VI, § 605(a)(2), July 11, 2006, 120 Stat. 555.)
+(Pub. L. 101–380, title VII, § 7002, as added Pub. L. 109–241, title VI, § 605(a)(2), July 11, 2006, 120 Stat. 555.)

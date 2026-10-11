@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2021—Pub. L. 116–283, div. A, title X, § 1081(a)(26), Jan. 1, 2021, 134 Stat. 3872, added item 1142 and struck out former item 1142 “Preseparation counseling; transmittal of medical records to Department of Veterans Affairs”.
+2021—Pub. L. 116–283, div. A, title X, § 1081(a)(26), Jan. 1, 2021, 134 Stat. 3872, added item 1142 and struck out former item 1142 “Preseparation counseling; transmittal of medical records to Department of Veterans Affairs”.
 
-2018—Pub. L. 115–232, div. A, title V, §§ 522(b), 553(a)(2), Aug. 13, 2018, 132 Stat. 1756, 1772, added item 1155 and struck out item 1143a “Employment assistance”.
+2018—Pub. L. 115–232, div. A, title V, §§ 522(b), 553(a)(2), Aug. 13, 2018, 132 Stat. 1756, 1772, added item 1155 and struck out item 1143a “Employment assistance”.
 
-2013—Pub. L. 112–239, div. A, title V, § 541(b)(2), Jan. 2, 2013, 126 Stat. 1735, added item 1154.
+2013—Pub. L. 112–239, div. A, title V, § 541(b)(2), Jan. 2, 2013, 126 Stat. 1735, added item 1154.
 
-2006—Pub. L. 109–364, div. A, title V, § 561(b), Oct. 17, 2006, 120 Stat. 2220, added item 1151.
+2006—Pub. L. 109–364, div. A, title V, § 561(b), Oct. 17, 2006, 120 Stat. 2220, added item 1151.
 
-1999—Pub. L. 106–65, div. A, title XVII, § 1707(a)(2), Oct. 5, 1999, 113 Stat. 823, struck out item 1151 “Assistance to separated members to obtain certification and employment as teachers or employment as teachers’ aides”.
+1999—Pub. L. 106–65, div. A, title XVII, § 1707(a)(2), Oct. 5, 1999, 113 Stat. 823, struck out item 1151 “Assistance to separated members to obtain certification and employment as teachers or employment as teachers’ aides”.
 
-1994—Pub. L. 103–337, div. A, title V, § 542(a)(10), title XI, § 1132(a)(2), Oct. 5, 1994, 108 Stat. 2768, 2873, struck out “: Department of Defense” after “assistance” in item 1143 and after “service” in item 1143a and substituted “eligible members and former members” for “separated members” in item 1152.
+1994—Pub. L. 103–337, div. A, title V, § 542(a)(10), title XI, § 1132(a)(2), Oct. 5, 1994, 108 Stat. 2768, 2873, struck out “: Department of Defense” after “assistance” in item 1143 and after “service” in item 1143a and substituted “eligible members and former members” for “separated members” in item 1152.
 
-1993—Pub. L. 103–160, div. A, title XIII, § 1332(e), Nov. 30, 1993, 107 Stat. 1797, added items 1152 and 1153.
+1993—Pub. L. 103–160, div. A, title XIII, § 1332(e), Nov. 30, 1993, 107 Stat. 1797, added items 1152 and 1153.
 
-1992—Pub. L. 102–484, div. D, title XLIV, §§ 4441(a)(2), 4462(a)(2), Oct. 23, 1992, 106 Stat. 2730, 2740, added items 1143a and 1151.
+1992—Pub. L. 102–484, div. D, title XLIV, §§ 4441(a)(2), 4462(a)(2), Oct. 23, 1992, 106 Stat. 2730, 2740, added items 1143a and 1151.
 
-## § 1141. Involuntary separation defined
+## § 1141. Involuntary separation defined
 
 A member of the armed forces shall be considered to be involuntarily separated for purposes of this chapter if the member was on active duty or full-time National Guard duty on September 30, 1990, or after November 29, 1993, or, with respect to a member of the Coast Guard, if the member was on active duty in the Coast Guard after September 30, 1994, and—
 
@@ -55,7 +55,7 @@ A member of the armed forces shall be considered to be involuntarily separated f
 
 **(B)** involuntarily discharged or released from active duty under other than adverse conditions, as characterized by the Secretary of the Air Force.
 
-(Added Pub. L. 101–510, div. A, title V, § 502(a)(1), Nov. 5, 1990, 104 Stat. 1551; amended Pub. L. 103–160, div. A, title V, § 503, Nov. 30, 1993, 107 Stat. 1644; Pub. L. 103–337, div. A, title V, § 542(a)(1), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 118–31, div. A, title XVII, § 1722(i)(1), Dec. 22, 2023, 137 Stat. 672.)
+(Added Pub. L. 101–510, div. A, title V, § 502(a)(1), Nov. 5, 1990, 104 Stat. 1551; amended Pub. L. 103–160, div. A, title V, § 503, Nov. 30, 1993, 107 Stat. 1644; Pub. L. 103–337, div. A, title V, § 542(a)(1), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 118–31, div. A, title XVII, § 1722(i)(1), Dec. 22, 2023, 137 Stat. 672.)
 
 **Editorial Notes**
 
@@ -71,13 +71,13 @@ A member of the armed forces shall be considered to be involuntarily separated f
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–337, div. A, title V, § 542(e), Oct. 5, 1994, 108 Stat. 2769, provided that: “This section [amending this section and sections 1143, 1143a, 1145 to 1150, 1174a, and 1175 of this title and enacting provisions set out as a note under section 1293 of this title] and the amendments made by this section shall apply only to members of the Coast Guard who are separated after September 30, 1994.”
+Pub. L. 103–337, div. A, title V, § 542(e), Oct. 5, 1994, 108 Stat. 2769, provided that: “This section [amending this section and sections 1143, 1143a, 1145 to 1150, 1174a, and 1175 of this title and enacting provisions set out as a note under section 1293 of this title] and the amendments made by this section shall apply only to members of the Coast Guard who are separated after September 30, 1994.”
 
 **Transfer of Functions**
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 1142. Preseparation counseling; transmittal of certain records to Department of Veterans Affairs
+## § 1142. Preseparation counseling; transmittal of certain records to Department of Veterans Affairs
 
 **(a) Requirement.—**
 
@@ -145,7 +145,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(A)** Financial planning assistance, including information on budgeting, saving, credit, loans and debt management,,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 and taxes.
 
@@ -221,9 +221,9 @@ and taxes.
 
 **(P)** The effects of operating tempo and personnel tempo on the member and the household of the member.
 
-**(R)**  2
+**(R)** 2
 
-<sup>2</sup>  So in original. There is no subpar. (Q).
+<sup>2</sup> So in original. There is no subpar. (Q).
 
 Other factors the Secretary of Defense and the Secretary of Homeland Security, in consultation with the Secretaries of Labor and Veterans Affairs, determine appropriate.
 
@@ -253,83 +253,83 @@ Other factors the Secretary of Defense and the Secretary of Homeland Security, i
 
 **(2)** the Secretary of Veterans Affairs on the day the member separates, retires, or is discharged.
 
-(Added Pub. L. 101–510, div. A, title V, § 502(a)(1), Nov. 5, 1990, 104 Stat. 1552; amended Pub. L. 102–190, div. A, title X, § 1061(a)(5), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§ 4401, 4441(b), 4462(b), Oct. 23, 1992, 106 Stat. 2701, 2730, 2740; Pub. L. 103–35, title II, § 201(i)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, § 1332(c), Nov. 30, 1993, 107 Stat. 1797; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(9)], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–103, title III, § 302(a), Dec. 27, 2001, 115 Stat. 991; Pub. L. 109–163, div. A, title V, § 594, Jan. 6, 2006, 119 Stat. 3281; Pub. L. 111–84, div. A, title X, § 1073(a)(13), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–56, title II, § 221(b), Nov. 21, 2011, 125 Stat. 716; Pub. L. 112–81, div. A, title V, §§ 513, 529, 533(c), Dec. 31, 2011, 125 Stat. 1393, 1402, 1404; Pub. L. 112–239, div. A, title V, § 541(c), title X, § 1076(f)(12), title XVI, § 1699(c)(1), Jan. 2, 2013, 126 Stat. 1735, 1952, 2092; Pub. L. 114–92, div. A, title V, § 552, Nov. 25, 2015, 129 Stat. 823; Pub. L. 114–328, div. A, title V, § 562, Dec. 23, 2016, 130 Stat. 2138; Pub. L. 115–91, div. A, title V, §§ 541(a), 542(d), Dec. 12, 2017, 131 Stat. 1393, 1395; Pub. L. 115–232, div. A, title V, §§ 552(a)(1), 553(b)(2), Aug. 13, 2018, 132 Stat. 1769, 1772; Pub. L. 116–92, div. A, title V, § 561, title XVII, § 1731(a)(26), Dec. 20, 2019, 133 Stat. 1394, 1813; Pub. L. 118–31, div. A, title V, § 571, Dec. 22, 2023, 137 Stat. 275; Pub. L. 118–159, div. A, title V, § 571, Dec. 23, 2024, 138 Stat. 1909; Pub. L. 119–60, div. A, title V, §§ 571(a)–(d), 572, Dec. 18, 2025, 139 Stat. 884–886.)
+(Added Pub. L. 101–510, div. A, title V, § 502(a)(1), Nov. 5, 1990, 104 Stat. 1552; amended Pub. L. 102–190, div. A, title X, § 1061(a)(5), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§ 4401, 4441(b), 4462(b), Oct. 23, 1992, 106 Stat. 2701, 2730, 2740; Pub. L. 103–35, title II, § 201(i)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, § 1332(c), Nov. 30, 1993, 107 Stat. 1797; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(9)], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–103, title III, § 302(a), Dec. 27, 2001, 115 Stat. 991; Pub. L. 109–163, div. A, title V, § 594, Jan. 6, 2006, 119 Stat. 3281; Pub. L. 111–84, div. A, title X, § 1073(a)(13), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–56, title II, § 221(b), Nov. 21, 2011, 125 Stat. 716; Pub. L. 112–81, div. A, title V, §§ 513, 529, 533(c), Dec. 31, 2011, 125 Stat. 1393, 1402, 1404; Pub. L. 112–239, div. A, title V, § 541(c), title X, § 1076(f)(12), title XVI, § 1699(c)(1), Jan. 2, 2013, 126 Stat. 1735, 1952, 2092; Pub. L. 114–92, div. A, title V, § 552, Nov. 25, 2015, 129 Stat. 823; Pub. L. 114–328, div. A, title V, § 562, Dec. 23, 2016, 130 Stat. 2138; Pub. L. 115–91, div. A, title V, §§ 541(a), 542(d), Dec. 12, 2017, 131 Stat. 1393, 1395; Pub. L. 115–232, div. A, title V, §§ 552(a)(1), 553(b)(2), Aug. 13, 2018, 132 Stat. 1769, 1772; Pub. L. 116–92, div. A, title V, § 561, title XVII, § 1731(a)(26), Dec. 20, 2019, 133 Stat. 1394, 1813; Pub. L. 118–31, div. A, title V, § 571, Dec. 22, 2023, 137 Stat. 275; Pub. L. 118–159, div. A, title V, § 571, Dec. 23, 2024, 138 Stat. 1909; Pub. L. 119–60, div. A, title V, §§ 571(a)–(d), 572, Dec. 18, 2025, 139 Stat. 884–886.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a)(2). Pub. L. 119–60, § 571(a), designated existing provisions as subpar. (A) and added subpar. (B).
+2025—Subsec. (a)(2). Pub. L. 119–60, § 571(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (a)(3)(C). Pub. L. 119–60, § 571(b), added subpar. (C).
+Subsec. (a)(3)(C). Pub. L. 119–60, § 571(b), added subpar. (C).
 
-Subsec. (a)(4)(D). Pub. L. 119–60, § 571(c), added subpar. (D).
+Subsec. (a)(4)(D). Pub. L. 119–60, § 571(c), added subpar. (D).
 
-Subsec. (b)(9). Pub. L. 119–60, § 571(d), which directed amendment of par. (9) of subsec. (a), by designating existing provisions as subpar. (A), inserting “and debt management,” after “loans”, and adding subpar. (B), was executed to par. (9) of subsec. (b), to reflect the probable intent of Congress.
+Subsec. (b)(9). Pub. L. 119–60, § 571(d), which directed amendment of par. (9) of subsec. (a), by designating existing provisions as subpar. (A), inserting “and debt management,” after “loans”, and adding subpar. (B), was executed to par. (9) of subsec. (b), to reflect the probable intent of Congress.
 
-Subsec. (c)(1)(M) to (P), (R). Pub. L. 119–60, § 572, added subpars. (M) to (P) and redesignated former subpar. (M) as (R).
+Subsec. (c)(1)(M) to (P), (R). Pub. L. 119–60, § 572, added subpars. (M) to (P) and redesignated former subpar. (M) as (R).
 
 2024—Subsec. (c)(1). Pub. L. 118–159 inserted “(including one pathway for members of the reserve components)” after “military department concerned” in introductory provisions.
 
-2023—Subsec. (c)(1)(E). Pub. L. 118–31, § 571(1), substituted “Potential or confirmed disability” for “Disability”.
+2023—Subsec. (c)(1)(E). Pub. L. 118–31, § 571(1), substituted “Potential or confirmed disability” for “Disability”.
 
-Subsec. (c)(1)(F). Pub. L. 118–31, § 571(2), substituted “Potential or confirmed character” for “Character”.
+Subsec. (c)(1)(F). Pub. L. 118–31, § 571(2), substituted “Potential or confirmed character” for “Character”.
 
-2019—Subsec. (b)(19). Pub. L. 116–92, § 561, added par. (19).
+2019—Subsec. (b)(19). Pub. L. 116–92, § 561, added par. (19).
 
-Subsec. (c)(3). Pub. L. 116–92, § 1731(a)(26), substituted “paragraph (2)(C)” for “paragraph (2)(B)”.
+Subsec. (c)(3). Pub. L. 116–92, § 1731(a)(26), substituted “paragraph (2)(C)” for “paragraph (2)(B)”.
 
-2018—Pub. L. 115–232, § 552(a)(1)(A), substituted “certain” for “medical” in section catchline.
+2018—Pub. L. 115–232, § 552(a)(1)(A), substituted “certain” for “medical” in section catchline.
 
-Subsec. (a)(1). Pub. L. 115–232, § 552(a)(1)(B)(i), inserted “(regardless of character of discharge)” after “discharge”.
+Subsec. (a)(1). Pub. L. 115–232, § 552(a)(1)(B)(i), inserted “(regardless of character of discharge)” after “discharge”.
 
-Subsec. (a)(3)(A). Pub. L. 115–232, § 552(a)(1)(B)(ii), substituted “not later than 365 days before” for “as soon as possible during the 12-month period preceding”, “365 days” for “90 days”, and “retirement or other separation” for “discharge or release”.
+Subsec. (a)(3)(A). Pub. L. 115–232, § 552(a)(1)(B)(ii), substituted “not later than 365 days before” for “as soon as possible during the 12-month period preceding”, “365 days” for “90 days”, and “retirement or other separation” for “discharge or release”.
 
-Subsec. (a)(3)(B). Pub. L. 115–232, § 552(a)(1)(B)(iii), substituted “365” for “90” and “365-day” for “90-day”.
+Subsec. (a)(3)(B). Pub. L. 115–232, § 552(a)(1)(B)(iii), substituted “365” for “90” and “365-day” for “90-day”.
 
-Subsec. (b)(4)(C). Pub. L. 115–232, § 553(b)(2), struck out “the public and community service jobs program carried out under section 1143a of this title, and” after “including”.
+Subsec. (b)(4)(C). Pub. L. 115–232, § 553(b)(2), struck out “the public and community service jobs program carried out under section 1143a of this title, and” after “including”.
 
-Subsecs. (c), (d). Pub. L. 115–232, § 552(a)(1)(C), (D), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 115–232, § 552(a)(1)(C), (D), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-Subsec. (e). Pub. L. 115–232, § 552(a)(1)(E), added subsec. (e).
+Subsec. (e). Pub. L. 115–232, § 552(a)(1)(E), added subsec. (e).
 
-2017—Subsec. (b)(4)(A). Pub. L. 115–91, § 542(d), inserted “, including State-submitted and approved lists of military training and skills that satisfy occupational certifications and licenses” before semicolon at end.
+2017—Subsec. (b)(4)(A). Pub. L. 115–91, § 542(d), inserted “, including State-submitted and approved lists of military training and skills that satisfy occupational certifications and licenses” before semicolon at end.
 
-Subsec. (b)(18). Pub. L. 115–91, § 541(a), added par. (18).
+Subsec. (b)(18). Pub. L. 115–91, § 541(a), added par. (18).
 
 2016—Subsec. (b)(11). Pub. L. 114–328 inserted before period at end “and information concerning the availability of treatment options and resources to address substance abuse, including alcohol, prescription drug, and opioid abuse”.
 
-2015—Subsec. (a)(4)(A). Pub. L. 114–92, § 552(1), substituted “the first 180 continuous days of active duty of the member” for “that member’s first 180 days of active duty”.
+2015—Subsec. (a)(4)(A). Pub. L. 114–92, § 552(1), substituted “the first 180 continuous days of active duty of the member” for “that member’s first 180 days of active duty”.
 
-Subsec. (a)(4)(C). Pub. L. 114–92, § 552(2), added subpar. (C).
+Subsec. (a)(4)(C). Pub. L. 114–92, § 552(2), added subpar. (C).
 
-2013—Subsec. (b)(4)(C). Pub. L. 112–239, § 541(c), struck out “under section 2302 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6672)” before period at end.
+2013—Subsec. (b)(4)(C). Pub. L. 112–239, § 541(c), struck out “under section 2302 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6672)” before period at end.
 
-Subsec. (b)(10). Pub. L. 112–239, § 1076(f)(12), substituted “training,” for “training,,”.
+Subsec. (b)(10). Pub. L. 112–239, § 1076(f)(12), substituted “training,” for “training,,”.
 
-Subsec. (b)(13). Pub. L. 112–239, § 1699(c)(1), struck out “and the National Veterans Business Development Corporation” before period at end.
+Subsec. (b)(13). Pub. L. 112–239, § 1699(c)(1), struck out “and the National Veterans Business Development Corporation” before period at end.
 
 2011—Subsec. (a)(2). Pub. L. 112–56 substituted “shall” for “may”.
 
-Subsec. (a)(3)(B). Pub. L. 112–81, § 513, inserted “or in the event a member of a reserve component is being demobilized under circumstances in which (as determined by the Secretary concerned) operational requirements make the 90-day requirement under subparagraph (A) unfeasible,” after “or separation date,”.
+Subsec. (a)(3)(B). Pub. L. 112–81, § 513, inserted “or in the event a member of a reserve component is being demobilized under circumstances in which (as determined by the Secretary concerned) operational requirements make the 90-day requirement under subparagraph (A) unfeasible,” after “or separation date,”.
 
-Subsec. (b)(5). Pub. L. 112–81, § 529(1), substituted “inclusion of the spouse, at the discretion of the member and the spouse, when counseling regarding the matters covered by paragraphs (9), (10), and (16) is provided, job placement counseling for the spouse, and the provision of information on survivor benefits available under the laws administered by the Secretary of Defense or the Secretary of Veterans Affairs” for “job placement counseling for the spouse”.
+Subsec. (b)(5). Pub. L. 112–81, § 529(1), substituted “inclusion of the spouse, at the discretion of the member and the spouse, when counseling regarding the matters covered by paragraphs (9), (10), and (16) is provided, job placement counseling for the spouse, and the provision of information on survivor benefits available under the laws administered by the Secretary of Defense or the Secretary of Veterans Affairs” for “job placement counseling for the spouse”.
 
-Subsec. (b)(8). Pub. L. 112–81, § 533(c), inserted before period at end “and the availability to the member and dependents of suicide prevention resources following separation from the armed forces”.
+Subsec. (b)(8). Pub. L. 112–81, § 533(c), inserted before period at end “and the availability to the member and dependents of suicide prevention resources following separation from the armed forces”.
 
-Subsec. (b)(9). Pub. L. 112–81, § 529(2), inserted before period at end “, including information on budgeting, saving, credit, loans, and taxes”.
+Subsec. (b)(9). Pub. L. 112–81, § 529(2), inserted before period at end “, including information on budgeting, saving, credit, loans, and taxes”.
 
-Subsec. (b)(10). Pub. L. 112–81, § 529(3), substituted “, employment, and financial” for “and employment”.
+Subsec. (b)(10). Pub. L. 112–81, § 529(3), substituted “, employment, and financial” for “and employment”.
 
-Subsec. (b)(16). Pub. L. 112–81, § 529(4), added par. (16) and struck out former par. (16) which read as follows: “Contact information for housing counseling assistance.”
+Subsec. (b)(16). Pub. L. 112–81, § 529(4), added par. (16) and struck out former par. (16) which read as follows: “Contact information for housing counseling assistance.”
 
-Subsec. (b)(17). Pub. L. 112–81, § 529(5), inserted before period at end “, and information regarding the means by which the member can receive additional counseling regarding the member’s actual entitlement to such benefits and apply for such benefits”.
+Subsec. (b)(17). Pub. L. 112–81, § 529(5), inserted before period at end “, and information regarding the means by which the member can receive additional counseling regarding the member’s actual entitlement to such benefits and apply for such benefits”.
 
-2009—Subsec. (b)(4)(C). Pub. L. 111–84, § 1073(a)(13)(A), substituted “the Troops-to-Teachers Program under section 2302 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6672)” for “the Troops-to-Teachers Program Act of 1999 (20 U.S.C. 9301 et seq.)”.
+2009—Subsec. (b)(4)(C). Pub. L. 111–84, § 1073(a)(13)(A), substituted “the Troops-to-Teachers Program under section 2302 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6672)” for “the Troops-to-Teachers Program Act of 1999 (20 U.S.C. 9301 et seq.)”.
 
-Subsec. (b)(15). Pub. L. 111–84, § 1073(a)(13)(B), substituted “Federal” for “federal” in two places.
+Subsec. (b)(15). Pub. L. 111–84, § 1073(a)(13)(B), substituted “Federal” for “federal” in two places.
 
-2006—Subsec. (b)(4). Pub. L. 109–163, § 594(1), substituted “Provision of information on civilian occupations and related assistance programs, including information concerning—
+2006—Subsec. (b)(4). Pub. L. 109–163, § 594(1), substituted “Provision of information on civilian occupations and related assistance programs, including information concerning—
 
 “(A) certification and licensure requirements that are applicable to civilian occupations;
 
@@ -339,11 +339,11 @@ Subsec. (b)(15). Pub. L. 111–84, § 1073(a)(13)(B), substituted “Federal�
 
 for “Information concerning”.
 
-Subsec. (b)(11) to (17). Pub. L. 109–163, § 594(2), added pars. (11) to (17).
+Subsec. (b)(11) to (17). Pub. L. 109–163, § 594(2), added pars. (11) to (17).
 
-2001—Subsec. (a)(1). Pub. L. 107–103, § 302(a)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “As soon as possible before, but in no event later than 90 days before, the date of the discharge or release from active duty of a member of the armed forces, the Secretary concerned shall provide for individual preseparation counseling of the member.”
+2001—Subsec. (a)(1). Pub. L. 107–103, § 302(a)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “As soon as possible before, but in no event later than 90 days before, the date of the discharge or release from active duty of a member of the armed forces, the Secretary concerned shall provide for individual preseparation counseling of the member.”
 
-Subsec. (a)(3), (4). Pub. L. 107–103, § 302(a)(2), added pars. (3) and (4).
+Subsec. (a)(3), (4). Pub. L. 107–103, § 302(a)(2), added pars. (3) and (4).
 
 2000—Subsec. (b)(4). Pub. L. 106–398 substituted “sections 1152 and 1153 of this title and the Troops-to-Teachers Program Act of 1999 (20 U.S.C. 9301 et seq.)” for “sections 1151, 1152, and 1153 of this title”.
 
@@ -351,13 +351,13 @@ Subsec. (a)(3), (4). Pub. L. 107–103, § 302(a)(2), added pars. (3) and (4).
 
 Pub. L. 103–35 substituted “job placement assistance, including the public and community service jobs program carried out under section 1143a of this title, and information regarding the placement program established under section 1151 of this title to assist members to obtain employment as elementary or secondary school teachers or teachers’ aides” for “job placement assistance and information regarding the placement program established under section 1151 of this title to assist members obtain employment as elementary or secondary school teachers or teachers’ aides., including the public and community service jobs program carried out under section 1143a of this title”.
 
-1992—Subsec. (a)(1). Pub. L. 102–484, § 4401(a), substituted “As soon as possible before, but in no event later than 90 days before, the date of the discharge” for “Upon the discharge”.
+1992—Subsec. (a)(1). Pub. L. 102–484, § 4401(a), substituted “As soon as possible before, but in no event later than 90 days before, the date of the discharge” for “Upon the discharge”.
 
-Subsec. (b)(4). Pub. L. 102–484, § 4462(b), inserted before period at end “, including the public and community service jobs program carried out under section 1143a of this title”.
+Subsec. (b)(4). Pub. L. 102–484, § 4462(b), inserted before period at end “, including the public and community service jobs program carried out under section 1143a of this title”.
 
-Pub. L. 102–484, § 4441(b), inserted before period at end “and information regarding the placement program established under section 1151 of this title to assist members obtain employment as elementary or secondary school teachers or teachers’ aides.”
+Pub. L. 102–484, § 4441(b), inserted before period at end “and information regarding the placement program established under section 1151 of this title to assist members obtain employment as elementary or secondary school teachers or teachers’ aides.”
 
-Subsec. (b)(10). Pub. L. 102–484, § 4401(b), added par. (10).
+Subsec. (b)(10). Pub. L. 102–484, § 4401(b), added par. (10).
 
 1991—Subsec. (b)(5). Pub. L. 102–190 substituted period for semicolon at end.
 
@@ -365,19 +365,19 @@ Subsec. (b)(10). Pub. L. 102–484, § 4401(b), added par. (10).
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–56, title II, § 221(c), Nov. 21, 2011, 125 Stat. 716, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1144 of this title] shall take effect on the date that is 1 year after the date of the enactment of this Act [Nov. 21, 2011].”
+Pub. L. 112–56, title II, § 221(c), Nov. 21, 2011, 125 Stat. 716, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1144 of this title] shall take effect on the date that is 1 year after the date of the enactment of this Act [Nov. 21, 2011].”
 
 **Notice of Options for Naturalization Upon Separation**
 
-Pub. L. 117–81, div. A, title V, § 523(b), Dec. 27, 2021, 135 Stat. 1687, provided that: “The Secretary of Homeland Security, acting through the Director of U.S. Citizenship and Immigration Services, and in coordination with the Secretary of Defense, shall provide to a member of the Armed Forces who is not a citizen of the United States, upon separation of such member, notice of options for naturalization under title III of the Immigration and Nationality Act (8 U.S.C. 1401 et seq.)[.] Such notice shall inform the member of existing programs or services that may aid in the naturalization process of such member.”
+Pub. L. 117–81, div. A, title V, § 523(b), Dec. 27, 2021, 135 Stat. 1687, provided that: “The Secretary of Homeland Security, acting through the Director of U.S. Citizenship and Immigration Services, and in coordination with the Secretary of Defense, shall provide to a member of the Armed Forces who is not a citizen of the United States, upon separation of such member, notice of options for naturalization under title III of the Immigration and Nationality Act (8 U.S.C. 1401 et seq.)[.] Such notice shall inform the member of existing programs or services that may aid in the naturalization process of such member.”
 
 **Inclusion of Question Regarding Immigration Status on Preseparation Counseling Checklist (DD Form 2648)**
 
-Pub. L. 116–92, div. A, title V, § 570C, Dec. 20, 2019, 133 Stat. 1399, provided that: “Not later than September 30, 2020, the Secretary of Defense shall modify the preseparation counseling checklist for active component, active guard reserve, active reserve, full time support, and reserve program administrator service members (DD Form 2648) to include a specific block wherein a member of the Armed Forces may indicate that the member would like to receive information regarding the immigration status of that member and expedited naturalization.”
+Pub. L. 116–92, div. A, title V, § 570C, Dec. 20, 2019, 133 Stat. 1399, provided that: “Not later than September 30, 2020, the Secretary of Defense shall modify the preseparation counseling checklist for active component, active guard reserve, active reserve, full time support, and reserve program administrator service members (DD Form 2648) to include a specific block wherein a member of the Armed Forces may indicate that the member would like to receive information regarding the immigration status of that member and expedited naturalization.”
 
 **Connections of Members Retiring or Separating From the Armed Forces With Community-Based Organizations and Related Entities**
 
-Pub. L. 116–92, div. A, title V, § 570F, Dec. 20, 2019, 133 Stat. 1401, as amended by Pub. L. 119–60, div. A, title V, § 573, Dec. 18, 2025, 139 Stat. 887, provided that:
+Pub. L. 116–92, div. A, title V, § 570F, Dec. 20, 2019, 133 Stat. 1401, as amended by Pub. L. 119–60, div. A, title V, § 573, Dec. 18, 2025, 139 Stat. 887, provided that:
 
 > **“(a) In General.—** The Secretary of Defense and the Secretary of Veterans Affairs shall jointly seek to enter into memoranda of understanding or other agreements with State veterans agencies under which information from Department of Defense Form DD–2648 on individuals undergoing retirement, discharge, or release from the Armed Forces is transmitted to one or more State veterans agencies, as elected by such individuals, to provide or connect veterans to benefits or services as follows:
 
@@ -421,11 +421,11 @@ Pub. L. 116–92, div. A, title V, § 570F, Dec. 20, 2019, 133 Stat. 1401, as 
 
 **Deadline for Counseling Pathways**
 
-Pub. L. 115–232, div. A, title V, § 552(a)(2), Aug. 13, 2018, 132 Stat. 1770, provided that: “Each Secretary concerned shall carry out subsection (c) of such section [10 U.S.C. 1142(c)], as amended by paragraph (1), not later than 1 year after the date of the enactment of this Act [Aug. 13, 2018].”
+Pub. L. 115–232, div. A, title V, § 552(a)(2), Aug. 13, 2018, 132 Stat. 1770, provided that: “Each Secretary concerned shall carry out subsection (c) of such section [10 U.S.C. 1142(c)], as amended by paragraph (1), not later than 1 year after the date of the enactment of this Act [Aug. 13, 2018].”
 
 **Notification of Members of the Armed Forces Undergoing Certain Administrative Separations of Potential Eligibility for Veterans Benefits**
 
-Pub. L. 115–91, div. A, title V, § 528, Dec. 12, 2017, 131 Stat. 1383, provided that:
+Pub. L. 115–91, div. A, title V, § 528, Dec. 12, 2017, 131 Stat. 1383, provided that:
 
 > **“(a) Notification Required.—** A member of the Armed Forces who receives an administrative separation or mandatory discharge under conditions other than honorable shall be provided written notification that the member may petition the Veterans Benefits Administration of the Department of Veterans Affairs to receive, despite the characterization of the member’s service, certain benefits under the laws administered by the Secretary of Veterans Affairs.
 
@@ -433,7 +433,7 @@ Pub. L. 115–91, div. A, title V, § 528, Dec. 12, 2017, 131 Stat. 1383, prov
 
 **Participation of Potential Caregivers in Appropriate Preseparation Counseling**
 
-Pub. L. 115–91, div. A, title V, § 541(b), Dec. 12, 2017, 131 Stat. 1393, provided that:
+Pub. L. 115–91, div. A, title V, § 541(b), Dec. 12, 2017, 131 Stat. 1393, provided that:
 
 > **“(1) In general.—** In accordance with procedures established by the Secretary of Defense, each Secretary of a military department shall take appropriate actions to achieve the following:
 
@@ -451,13 +451,13 @@ Pub. L. 115–91, div. A, title V, § 541(b), Dec. 12, 2017, 131 Stat. 1393, p
 
 **Application of Preseparation Counseling Requirements to Coast Guard**
 
-Pub. L. 103–337, div. A, title V, § 543(a), Oct. 5, 1994, 108 Stat. 2769, provided that: “As soon as possible after the date of the enactment of this Act [Oct. 5, 1994], the Secretary of Transportation shall implement the requirements of section 1142 of title 10, United States Code, for the Coast Guard.”
+Pub. L. 103–337, div. A, title V, § 543(a), Oct. 5, 1994, 108 Stat. 2769, provided that: “As soon as possible after the date of the enactment of this Act [Oct. 5, 1994], the Secretary of Transportation shall implement the requirements of section 1142 of title 10, United States Code, for the Coast Guard.”
 
 **Limitation on Funding To Carry Out Section 543 of Pub. L. 103–337**
 
-Pub. L. 103–337, div. A, title V, § 543(h), Oct. 5, 1994, 108 Stat. 2772, provided that: “Funds appropriated or otherwise made available to the Department of Defense, the Department of Education, the Department of Labor, or the Department of Veterans Affairs may not be used to carry out subsection (a) [set out above] or the amendments made by this section [amending sections 1144 and 1151 to 1153 of this title and provisions set out as notes under section 1143 of this title].”
+Pub. L. 103–337, div. A, title V, § 543(h), Oct. 5, 1994, 108 Stat. 2772, provided that: “Funds appropriated or otherwise made available to the Department of Defense, the Department of Education, the Department of Labor, or the Department of Veterans Affairs may not be used to carry out subsection (a) [set out above] or the amendments made by this section [amending sections 1144 and 1151 to 1153 of this title and provisions set out as notes under section 1143 of this title].”
 
-## § 1143. Employment assistance
+## § 1143. Employment assistance
 
 **(a) Employment Skills Verification.—**
 
@@ -519,7 +519,7 @@ Pub. L. 103–337, div. A, title V, § 543(h), Oct. 5, 1994, 108 Stat. 2772, p
 
 **(6)** Any program under this subsection shall be carried out in accordance with regulations prescribed by the Secretary concerned.
 
-(Added Pub. L. 101–510, div. A, title V, § 502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 103–337, div. A, title V, § 542(a)(2), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 105–85, div. A, title X, § 1073(a)(21), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–81, div. A, title V, § 551, Dec. 31, 2011, 125 Stat. 1412; Pub. L. 112–239, div. A, title X, § 1076(f)(13), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title V, § 542(a)–(c), Dec. 12, 2017, 131 Stat. 1394, 1395; Pub. L. 116–92, div. A, title V, § 562, Dec. 20, 2019, 133 Stat. 1395; Pub. L. 116–283, div. A, title V, § 572, title IX, § 924(b)(1)(J), (3)(R), Jan. 1, 2021, 134 Stat. 3643, 3820, 3821; Pub. L. 117–263, div. A, title V, § 561(a), Dec. 23, 2022, 136 Stat. 2598; Pub. L. 118–31, div. A, title V, § 572(a), Dec. 22, 2023, 137 Stat. 275; Pub. L. 119–60, div. A, title XVII, § 1701(a)(13), Dec. 18, 2025, 139 Stat. 1208.)
+(Added Pub. L. 101–510, div. A, title V, § 502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 103–337, div. A, title V, § 542(a)(2), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 105–85, div. A, title X, § 1073(a)(21), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–81, div. A, title V, § 551, Dec. 31, 2011, 125 Stat. 1412; Pub. L. 112–239, div. A, title X, § 1076(f)(13), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title V, § 542(a)–(c), Dec. 12, 2017, 131 Stat. 1394, 1395; Pub. L. 116–92, div. A, title V, § 562, Dec. 20, 2019, 133 Stat. 1395; Pub. L. 116–283, div. A, title V, § 572, title IX, § 924(b)(1)(J), (3)(R), Jan. 1, 2021, 134 Stat. 3643, 3820, 3821; Pub. L. 117–263, div. A, title V, § 561(a), Dec. 23, 2022, 136 Stat. 2598; Pub. L. 118–31, div. A, title V, § 572(a), Dec. 22, 2023, 137 Stat. 275; Pub. L. 119–60, div. A, title XVII, § 1701(a)(13), Dec. 18, 2025, 139 Stat. 1208.)
 
 **Editorial Notes**
 
@@ -527,29 +527,29 @@ Pub. L. 103–337, div. A, title V, § 543(h), Oct. 5, 1994, 108 Stat. 2772, p
 
 2025—Subsec. (e)(1). Pub. L. 119–60 substituted “(A)” for “(a)”.
 
-2023—Subsec. (e)(1). Pub. L. 118–31, § 572(a)(1), designated existing provisions as subpar. “(a)” and added subpar. (B).
+2023—Subsec. (e)(1). Pub. L. 118–31, § 572(a)(1), designated existing provisions as subpar. “(a)” and added subpar. (B).
 
-Subsec. (e)(3) to (6). Pub. L. 118–31, § 572(a)(2), (3), added pars. (3) and (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively.
+Subsec. (e)(3) to (6). Pub. L. 118–31, § 572(a)(2), (3), added pars. (3) and (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively.
 
-2022—Subsec. (e). Pub. L. 117–263, § 561(a)(1), inserted “; Skillbridge” after “Training” in heading.
+2022—Subsec. (e). Pub. L. 117–263, § 561(a)(1), inserted “; Skillbridge” after “Training” in heading.
 
-Subsec. (e)(1). Pub. L. 117–263, § 561(a)(2), inserted at end “Such a program shall be known as ‘Skillbridge’.”
+Subsec. (e)(1). Pub. L. 117–263, § 561(a)(2), inserted at end “Such a program shall be known as ‘Skillbridge’.”
 
-2021—Subsecs. (a)(2)(A), (c)(2)(A)(ii). Pub. L. 116–283, § 924(b)(1)(J), substituted “Marine Corps, and Space Force” for “and Marine Corps”.
+2021—Subsecs. (a)(2)(A), (c)(2)(A)(ii). Pub. L. 116–283, § 924(b)(1)(J), substituted “Marine Corps, and Space Force” for “and Marine Corps”.
 
-Subsec. (d). Pub. L. 116–283, § 924(b)(3)(R), substituted “Marine Corps, or Space Force” for “or Marine Corps”.
+Subsec. (d). Pub. L. 116–283, § 924(b)(3)(R), substituted “Marine Corps, or Space Force” for “or Marine Corps”.
 
-Subsec. (e)(1). Pub. L. 116–283, § 572(1), substituted “concerned” for “of a military department”.
+Subsec. (e)(1). Pub. L. 116–283, § 572(1), substituted “concerned” for “of a military department”.
 
-Subsec. (e)(3). Pub. L. 116–283, § 572(2), struck out “of the military department” after “Secretary”.
+Subsec. (e)(3). Pub. L. 116–283, § 572(2), struck out “of the military department” after “Secretary”.
 
-Subsec. (e)(4). Pub. L. 116–283, § 572(3), substituted “Secretary concerned” for “Secretary of Defense”.
+Subsec. (e)(4). Pub. L. 116–283, § 572(3), substituted “Secretary concerned” for “Secretary of Defense”.
 
 2019—Subsec. (e)(3), (4). Pub. L. 116–92 added par. (3) and redesignated former par. (3) as (4).
 
-2017—Subsec. (a). Pub. L. 115–91, § 542(a), (b), designated existing provisions as par. (1) and added pars. (2) and (3).
+2017—Subsec. (a). Pub. L. 115–91, § 542(a), (b), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Subsec. (c). Pub. L. 115–91, § 542(c), designated existing provisions as par. (1) and added par. (2).
+Subsec. (c). Pub. L. 115–91, § 542(c), designated existing provisions as par. (1) and added par. (2).
 
 2013—Subsec. (a). Pub. L. 112–239 inserted “when it is not operating as a service in the Navy” after “Coast Guard”.
 
@@ -559,15 +559,15 @@ Subsec. (c). Pub. L. 115–91, § 542(c), designated existing provisions as pa
 
 1997—Subsec. (d). Pub. L. 105–85 substituted “section 1784(a)(2) of this title” for “section 806(a)(2) of the Military Family Act of 1985”.
 
-1994—Pub. L. 103–337, § 542(a)(2)(A), struck out “: Department of Defense” after “assistance” in section catchline.
+1994—Pub. L. 103–337, § 542(a)(2)(A), struck out “: Department of Defense” after “assistance” in section catchline.
 
-Subsec. (a). Pub. L. 103–337, § 542(a)(2)(B), inserted “and the Secretary of Transportation with respect to the Coast Guard” after “Secretary of Defense” and struck out “under the jurisdiction of the Secretary” after “armed forces”.
+Subsec. (a). Pub. L. 103–337, § 542(a)(2)(B), inserted “and the Secretary of Transportation with respect to the Coast Guard” after “Secretary of Defense” and struck out “under the jurisdiction of the Secretary” after “armed forces”.
 
-Subsec. (b). Pub. L. 103–337, § 542(a)(2)(C), inserted at end “The Secretary of Transportation shall establish permanent employment assistance centers at appropriate Coast Guard installations.”
+Subsec. (b). Pub. L. 103–337, § 542(a)(2)(C), inserted at end “The Secretary of Transportation shall establish permanent employment assistance centers at appropriate Coast Guard installations.”
 
-Subsec. (c). Pub. L. 103–337, § 542(a)(2)(D), inserted “and the Secretary of Transportation” after “Secretary of Defense”.
+Subsec. (c). Pub. L. 103–337, § 542(a)(2)(D), inserted “and the Secretary of Transportation” after “Secretary of Defense”.
 
-Subsec. (d). Pub. L. 103–337, § 542(a)(2)(E), inserted at end “The Secretary of Transportation shall provide the same preference in hiring to involuntarily separated members of the Coast Guard, and the dependents of such members, in Coast Guard nonappropriated fund instrumentalities.”
+Subsec. (d). Pub. L. 103–337, § 542(a)(2)(E), inserted at end “The Secretary of Transportation shall provide the same preference in hiring to involuntarily separated members of the Coast Guard, and the dependents of such members, in Coast Guard nonappropriated fund instrumentalities.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -581,7 +581,7 @@ Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who
 
 **Regulations**
 
-Pub. L. 117–263, div. A, title V, § 561(b), Dec. 23, 2022, 136 Stat. 2598, provided that:
+Pub. L. 117–263, div. A, title V, § 561(b), Dec. 23, 2022, 136 Stat. 2598, provided that:
 
 > “To carry out Skillbridge, the Secretary of Defense shall, not later than September 30, 2023—
 
@@ -591,7 +591,7 @@ Pub. L. 117–263, div. A, title V, § 561(b), Dec. 23, 2022, 136 Stat. 2598, 
 
 **Military Training and Competency Records**
 
-Pub. L. 118–159, div. A, title V, § 574, Dec. 23, 2024, 138 Stat. 1909, provided that:
+Pub. L. 118–159, div. A, title V, § 574, Dec. 23, 2024, 138 Stat. 1909, provided that:
 
 > **“(a) Competency Records.—**
 
@@ -617,7 +617,7 @@ Pub. L. 118–159, div. A, title V, § 574, Dec. 23, 2024, 138 Stat. 1909, pro
 
 **Authority To Expand Eligibility for the United States Military Apprenticeship Program**
 
-Pub. L. 115–91, div. A, title V, § 546, Dec. 12, 2017, 131 Stat. 1397, provided that:
+Pub. L. 115–91, div. A, title V, § 546, Dec. 12, 2017, 131 Stat. 1397, provided that:
 
 > **“(a) Expansion Authorized.—** The Secretary of Defense may expand eligibility for the United Services Military Apprenticeship Program to include any member of the uniformed services.
 
@@ -625,7 +625,7 @@ Pub. L. 115–91, div. A, title V, § 546, Dec. 12, 2017, 131 Stat. 1397, prov
 
 **Pilot Program To Assist Members of the Armed Forces in Obtaining Post-Service Employment**
 
-Pub. L. 113–291, div. A, title V, § 555, Dec. 19, 2014, 128 Stat. 3379, provided that:
+Pub. L. 113–291, div. A, title V, § 555, Dec. 19, 2014, 128 Stat. 3379, provided that:
 
 > **“(a) Program Authorized.—** The Secretary of Defense may conduct the program described in subsection (c) to enhance the efforts of the Department of Defense to provide job placement assistance and related employment services to eligible members of the Armed Forces described in subsection (b) for the purposes of—
 
@@ -671,7 +671,7 @@ Pub. L. 113–291, div. A, title V, § 555, Dec. 19, 2014, 128 Stat. 3379, pro
 
 **Department of Defense Pilot Program on Work Experience for Members of the Armed Forces on Terminal Leave**
 
-Pub. L. 112–56, title II, § 236, Nov. 21, 2011, 125 Stat. 724, provided that:
+Pub. L. 112–56, title II, § 236, Nov. 21, 2011, 125 Stat. 724, provided that:
 
 > **“(a) In General.—** The Secretary of Defense may establish a pilot program to assess the feasibility and advisability of providing to members of the Armed Forces on terminal leave work experience with civilian employees and contractors of the Department of Defense to facilitate the transition of the individuals from service in the Armed Forces to employment in the civilian labor market.
 
@@ -681,11 +681,11 @@ Pub. L. 112–56, title II, § 236, Nov. 21, 2011, 125 Stat. 724, provided tha
 
 **Demonstration Program for Training Recently Discharged Veterans for Employment in Construction and Hazardous Waste Remediation**
 
-Pub. L. 103–160, div. A, title XIII, § 1337, Nov. 30, 1993, 107 Stat. 1805, authorized the Secretary of Defense to establish a demonstration program to promote training and employment of veterans in construction and hazardous waste remediation industries and to make grants under the program to organizations that had met certain eligibility criteria, and directed the Secretary to obligate the funds to carry out the program not later than Oct. 1, 1994, and to submit to Congress interim and final reports not later than Dec. 31, 1995.
+Pub. L. 103–160, div. A, title XIII, § 1337, Nov. 30, 1993, 107 Stat. 1805, authorized the Secretary of Defense to establish a demonstration program to promote training and employment of veterans in construction and hazardous waste remediation industries and to make grants under the program to organizations that had met certain eligibility criteria, and directed the Secretary to obligate the funds to carry out the program not later than Oct. 1, 1994, and to submit to Congress interim and final reports not later than Dec. 31, 1995.
 
 **Improved Coordination of Job Training and Placement Programs for Members of Armed Forces**
 
-Pub. L. 102–484, div. D, title XLIV, § 4461, Oct. 23, 1992, 106 Stat. 2738, as amended by Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(7)(B), (f)(6)(B)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 105–332, § 3(b), Oct. 31, 1998, 112 Stat. 3125; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(g)(7)], Oct. 30, 2000, 114 Stat. 1654, 1654A–294; Pub. L. 107–107, div. A, title X, § 1048(h)(3), Dec. 28, 2001, 115 Stat. 1229, provided that:
+Pub. L. 102–484, div. D, title XLIV, § 4461, Oct. 23, 1992, 106 Stat. 2738, as amended by Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(7)(B), (f)(6)(B)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 105–332, § 3(b), Oct. 31, 1998, 112 Stat. 3125; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(g)(7)], Oct. 30, 2000, 114 Stat. 1654, 1654A–294; Pub. L. 107–107, div. A, title X, § 1048(h)(3), Dec. 28, 2001, 115 Stat. 1229, provided that:
 
 > “The Secretary of Defense shall consult with the Secretary of Labor, the Secretary of Education, the Secretary of Veterans Affairs, and the Economic Adjustment Committee to improve the coordination of, and eliminate duplication between, the following job training and placement programs available to members of the Armed Forces who are discharged or released from active duty:
 
@@ -701,7 +701,7 @@ Pub. L. 102–484, div. D, title XLIV, § 4461, Oct. 23, 1992, 106 Stat. 2738,
 
 **Participation of Discharged Military Personnel in Upward Bound Projects To Prepare for College**
 
-Pub. L. 102–484, div. D, title XLIV, § 4466, Oct. 23, 1992, 106 Stat. 2748, as amended by Pub. L. 103–337, div. A, title V, § 543(f), Oct. 5, 1994, 108 Stat. 2771; Pub. L. 107–296, title XVII, § 1704(e)(4), Nov. 25, 2002, 116 Stat. 2315, provided that:
+Pub. L. 102–484, div. D, title XLIV, § 4466, Oct. 23, 1992, 106 Stat. 2748, as amended by Pub. L. 103–337, div. A, title V, § 543(f), Oct. 5, 1994, 108 Stat. 2771; Pub. L. 107–296, title XVII, § 1704(e)(4), Nov. 25, 2002, 116 Stat. 2315, provided that:
 
 > **“(a) Program.—** The Secretary of Defense may carry out a program to assist a member of the Armed Forces described in subsection (b) who is accepted to participate in an upward bound project assisted under section 402C of the Higher Education Act of 1965 (20 U.S.C. 1070a–13) to cover the cost of providing services through the project to the member to assist the member to prepare for and pursue a program of higher education upon separation from active duty. Assistance provided under the program may include a stipend provided under subsection (d) of such section.
 
@@ -731,13 +731,13 @@ Pub. L. 102–484, div. D, title XLIV, § 4466, Oct. 23, 1992, 106 Stat. 2748,
 
 **Service Members Occupational Conversion and Training**
 
-Pub. L. 103–337, div. A, title V, § 543(g)(2), Oct. 5, 1994, 108 Stat. 2772, provided that: “As soon as possible after the date of the enactment of this Act [Oct. 5, 1994], the Secretary of Transportation shall implement the requirements of the Service Members Occupational Conversion and Training Act of 1992 (subtitle G of title XLIV of Public Law 102–484; 10 U.S.C. 1143 note) for the Coast Guard.”
+Pub. L. 103–337, div. A, title V, § 543(g)(2), Oct. 5, 1994, 108 Stat. 2772, provided that: “As soon as possible after the date of the enactment of this Act [Oct. 5, 1994], the Secretary of Transportation shall implement the requirements of the Service Members Occupational Conversion and Training Act of 1992 (subtitle G of title XLIV of Public Law 102–484; 10 U.S.C. 1143 note) for the Coast Guard.”
 
-Pub. L. 102–484, div. D, title XLIV, subtitle G, Oct. 23, 1992, 106 Stat. 2757, as amended by Pub. L. 103–160, div. A, title XIII, § 1338, Nov. 30, 1993, 107 Stat. 1807; Pub. L. 103–337, div. A, title V, § 543(g)(1), Oct. 5, 1994, 108 Stat. 2772; Pub. L. 103–446, title VI, § 610(a)(1), (2)(A), (b), (c), Nov. 2, 1994, 108 Stat. 4673; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(7)(D), (f)(6)(D)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–420, 2681–430, provided that:
+Pub. L. 102–484, div. D, title XLIV, subtitle G, Oct. 23, 1992, 106 Stat. 2757, as amended by Pub. L. 103–160, div. A, title XIII, § 1338, Nov. 30, 1993, 107 Stat. 1807; Pub. L. 103–337, div. A, title V, § 543(g)(1), Oct. 5, 1994, 108 Stat. 2772; Pub. L. 103–446, title VI, § 610(a)(1), (2)(A), (b), (c), Nov. 2, 1994, 108 Stat. 4673; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(7)(D), (f)(6)(D)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–420, 2681–430, provided that:
 
 > **“SEC. 4481. SHORT TITLE.**
 
-> “This subtitle [subtitle G (§§ 4481–4497) of title XLIV of Pub. L. 102–484] may be cited as the ‘Service Members Occupational Conversion and Training Act of 1992’.
+> “This subtitle [subtitle G (§§ 4481–4497) of title XLIV of Pub. L. 102–484] may be cited as the ‘Service Members Occupational Conversion and Training Act of 1992’.
 
 > **“SEC. 4482. FINDINGS AND PURPOSES.**
 
@@ -1105,21 +1105,21 @@ Pub. L. 102–484, div. D, title XLIV, subtitle G, Oct. 23, 1992, 106 Stat. 2757
 
 > **“(b) Publication in the Federal Register.—** If the transfer described in subsection (a) is made, then the Secretary of Defense shall promptly publish in the Federal Register a notice of such transfer. Such notice shall specify the date on which such transfer occurred.”
 
-[Pub. L. 103–446, title VI, § 610(a)(2)(B), Nov. 2, 1994, 108 Stat. 4673, provided that: “The amendment made by subparagraph (A) [amending section 4486(d)(2) of Pub. L. 102–484, set out above] shall apply with respect to programs of training under the Service Members Occupational Conversion and Training Act of 1992 [subtitle G of title XLIV of Pub. L. 102–484, set out above] beginning after the date of the enactment of this Act [Nov. 2, 1994].” ]
+[Pub. L. 103–446, title VI, § 610(a)(2)(B), Nov. 2, 1994, 108 Stat. 4673, provided that: “The amendment made by subparagraph (A) [amending section 4486(d)(2) of Pub. L. 102–484, set out above] shall apply with respect to programs of training under the Service Members Occupational Conversion and Training Act of 1992 [subtitle G of title XLIV of Pub. L. 102–484, set out above] beginning after the date of the enactment of this Act [Nov. 2, 1994].” ]
 
 [For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.]
 
-## [§ 1143a. Repealed. Pub. L. 115–232, div. A, title V, § 553(a)(1), Aug. 13, 2018, 132 Stat. 1772]
+## [§ 1143a. Repealed. Pub. L. 115–232, div. A, title V, § 553(a)(1), Aug. 13, 2018, 132 Stat. 1772]
 
-Section, added Pub. L. 102–484, div. D, title XLIV, § 4462(a)(1), Oct. 23, 1992, 106 Stat. 2738; amended Pub. L. 103–337, div. A, title V, § 542(a)(3), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–239, div. A, title X, § 1076(f)(14), Jan. 2, 2013, 126 Stat. 1952, related to encouraging members and former members of the armed forces to enter into public and community service jobs after discharge or release from active duty.
+Section, added Pub. L. 102–484, div. D, title XLIV, § 4462(a)(1), Oct. 23, 1992, 106 Stat. 2738; amended Pub. L. 103–337, div. A, title V, § 542(a)(3), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–239, div. A, title X, § 1076(f)(14), Jan. 2, 2013, 126 Stat. 1952, related to encouraging members and former members of the armed forces to enter into public and community service jobs after discharge or release from active duty.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Increased Early Retirement Retired Pay for Public or Community Service**
 
-Pub. L. 102–484, div. D, title XLIV, § 4464, Oct. 23, 1992, 106 Stat. 2741, which related to increased early retirement retired pay for public or community service, was repealed by Pub. L. 115–232, div. A, title V, § 553(c), Aug. 13, 2018, 132 Stat. 1772, applicable with respect to an individual who retires from the Armed Forces on or after Aug. 13, 2018.
+Pub. L. 102–484, div. D, title XLIV, § 4464, Oct. 23, 1992, 106 Stat. 2741, which related to increased early retirement retired pay for public or community service, was repealed by Pub. L. 115–232, div. A, title V, § 553(c), Aug. 13, 2018, 132 Stat. 1772, applicable with respect to an individual who retires from the Armed Forces on or after Aug. 13, 2018.
 
-## § 1144. Employment assistance, job training assistance, and other transitional services: Department of Labor
+## § 1144. Employment assistance, job training assistance, and other transitional services: Department of Labor
 
 **(a) In General.—**
 
@@ -1217,7 +1217,7 @@ Pub. L. 102–484, div. D, title XLIV, § 4464, Oct. 23, 1992, 106 Stat. 2741,
 
 **(B)** in addition to such training and instruction required during such time periods.
 
-(Added Pub. L. 101–510, div. A, title V, § 502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 102–190, div. A, title X, § 1061(a)(6), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§ 4462(c), 4469, Oct. 23, 1992, 106 Stat. 2740, 2752; Pub. L. 103–337, div. A, title V, § 543(b), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 107–103, title III, § 302(b), Dec. 27, 2001, 115 Stat. 992; Pub. L. 107–107, div. A, title X, § 1048(e)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–56, title II, §§ 221(a), 224, 225, Nov. 21, 2011, 125 Stat. 715, 718; Pub. L. 113–66, div. A, title V, § 521(a), Dec. 26, 2013, 127 Stat. 755; Pub. L. 114–92, div. A, title V, § 553, Nov. 25, 2015, 129 Stat. 823; Pub. L. 114–328, div. A, title V, §§ 563, 564(a), Dec. 23, 2016, 130 Stat. 2138; Pub. L. 115–232, div. A, title V, §§ 552(b)(1), 553(b)(1), Aug. 13, 2018, 132 Stat. 1770, 1772; Pub. L. 117–328, div. U, title II, § 212, Dec. 29, 2022, 136 Stat. 5453.)
+(Added Pub. L. 101–510, div. A, title V, § 502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 102–190, div. A, title X, § 1061(a)(6), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§ 4462(c), 4469, Oct. 23, 1992, 106 Stat. 2740, 2752; Pub. L. 103–337, div. A, title V, § 543(b), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 107–103, title III, § 302(b), Dec. 27, 2001, 115 Stat. 992; Pub. L. 107–107, div. A, title X, § 1048(e)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–56, title II, §§ 221(a), 224, 225, Nov. 21, 2011, 125 Stat. 715, 718; Pub. L. 113–66, div. A, title V, § 521(a), Dec. 26, 2013, 127 Stat. 755; Pub. L. 114–92, div. A, title V, § 553, Nov. 25, 2015, 129 Stat. 823; Pub. L. 114–328, div. A, title V, §§ 563, 564(a), Dec. 23, 2016, 130 Stat. 2138; Pub. L. 115–232, div. A, title V, §§ 552(b)(1), 553(b)(1), Aug. 13, 2018, 132 Stat. 1770, 1772; Pub. L. 117–328, div. U, title II, § 212, Dec. 29, 2022, 136 Stat. 5453.)
 
 **Editorial Notes**
 
@@ -1225,67 +1225,67 @@ Pub. L. 102–484, div. D, title XLIV, § 4464, Oct. 23, 1992, 106 Stat. 2741,
 
 Section 408 of Public Law 101–237, referred to in subsec. (b)(2), is set out as a note under section 4100 of Title 38, Veterans’ Benefits.
 
-The National Apprenticeship Act, referred to in subsec. (e), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§ 50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
+The National Apprenticeship Act, referred to in subsec. (e), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§ 50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
 
 **Amendments**
 
 2022—Subsec. (b)(1)(B). Pub. L. 117–328 inserted “(including apprenticeship programs approved under chapters 30 through 36 of title 38)” after “employment opportunities”.
 
-2018—Subsec. (a)(1). Pub. L. 115–232, § 552(b)(1)(A), substituted “Subject to subsection (f)(2), such services” for “Such services”.
+2018—Subsec. (a)(1). Pub. L. 115–232, § 552(b)(1)(A), substituted “Subject to subsection (f)(2), such services” for “Such services”.
 
-Subsec. (b)(8) to (11). Pub. L. 115–232, § 553(b)(1), redesignated pars. (9) to (11) as (8) to (10), respectively, and struck out former par. (8) which read as follows: “Provide information regarding the public and community service jobs program carried out under section 1143a of this title.”
+Subsec. (b)(8) to (11). Pub. L. 115–232, § 553(b)(1), redesignated pars. (9) to (11) as (8) to (10), respectively, and struck out former par. (8) which read as follows: “Provide information regarding the public and community service jobs program carried out under section 1143a of this title.”
 
-Subsec. (f). Pub. L. 115–232, § 552(b)(1)(B), amended subsec. (f) generally. Prior to amendment, subsec. (f) related to additional training opportunities.
+Subsec. (f). Pub. L. 115–232, § 552(b)(1)(B), amended subsec. (f) generally. Prior to amendment, subsec. (f) related to additional training opportunities.
 
-2016—Subsec. (b)(10). Pub. L. 114–328, § 563, added par. (10).
+2016—Subsec. (b)(10). Pub. L. 114–328, § 563, added par. (10).
 
-Subsec. (b)(11). Pub. L. 114–328, § 564(a), added par. (11).
+Subsec. (b)(11). Pub. L. 114–328, § 564(a), added par. (11).
 
 2015—Subsec. (f). Pub. L. 114–92 added subsec. (f).
 
 2013—Subsec. (b)(9). Pub. L. 113–66 added par. (9).
 
-2011—Subsec. (c). Pub. L. 112–56, § 221(a), amended subsec. (c) generally. Prior to amendment, text read as follows: “The Secretary of Defense and the Secretary of Homeland Security shall encourage and otherwise promote maximum participation by members of the armed forces eligible for assistance under the program carried out under this section.”
+2011—Subsec. (c). Pub. L. 112–56, § 221(a), amended subsec. (c) generally. Prior to amendment, text read as follows: “The Secretary of Defense and the Secretary of Homeland Security shall encourage and otherwise promote maximum participation by members of the armed forces eligible for assistance under the program carried out under this section.”
 
-Subsec. (d)(5). Pub. L. 112–56, § 224(1), substituted “public entities;” for “public or private entities; and”.
+Subsec. (d)(5). Pub. L. 112–56, § 224(1), substituted “public entities;” for “public or private entities; and”.
 
-Subsec. (d)(6), (7). Pub. L. 112–56, § 224(2), (3), added par. (6) and redesignated former par. (6) as (7).
+Subsec. (d)(6), (7). Pub. L. 112–56, § 224(2), (3), added par. (6) and redesignated former par. (6) as (7).
 
-Subsec. (e). Pub. L. 112–56, § 225, added subsec. (e).
+Subsec. (e). Pub. L. 112–56, § 225, added subsec. (e).
 
 2002—Subsecs. (a)(1), (2), (b)(4), (c), (d)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 2001—Subsec. (a)(1). Pub. L. 107–103, in second sentence, substituted “within the time periods provided under paragraph (3) of section 1142(a) of this title, except that the Secretary concerned shall not provide preseparation counseling to a member described in paragraph (4)(A) of such section” for “during the 180-day period before the member is separated from active duty”.
 
-Subsec. (a)(3). Pub. L. 107–107, § 1048(e)(1)(A), struck out at end “The agreement shall be entered into no later than 60 days after the date of the enactment of this section.”
+Subsec. (a)(3). Pub. L. 107–107, § 1048(e)(1)(A), struck out at end “The agreement shall be entered into no later than 60 days after the date of the enactment of this section.”
 
-Subsec. (e). Pub. L. 107–107, § 1048(e)(1)(B), struck out heading and text of subsec. (e). Text read as follows:
+Subsec. (e). Pub. L. 107–107, § 1048(e)(1)(B), struck out heading and text of subsec. (e). Text read as follows:
 
 “(1) There is authorized to be appropriated to the Department of Labor to carry out this section $11,000,000 for fiscal year 1993 and $8,000,000 for each of fiscal years 1994 and 1995.
 
 “(2) There is authorized to be appropriated to the Department of Veterans Affairs to carry out this section $6,500,000 for each of fiscal years 1993, 1994, and 1995.”
 
-1994—Subsec. (a)(1). Pub. L. 103–337, § 543(b)(1), inserted “, the Secretary of Transportation,” after “Secretary of Defense” and substituted “concerned” for “of a military department”.
+1994—Subsec. (a)(1). Pub. L. 103–337, § 543(b)(1), inserted “, the Secretary of Transportation,” after “Secretary of Defense” and substituted “concerned” for “of a military department”.
 
-Subsec. (a)(2). Pub. L. 103–337, § 543(b)(2), inserted “, the Secretary of Transportation,” after “Secretary of Defense”.
+Subsec. (a)(2). Pub. L. 103–337, § 543(b)(2), inserted “, the Secretary of Transportation,” after “Secretary of Defense”.
 
-Subsec. (b)(4). Pub. L. 103–337, § 543(b)(3), substituted “Department of Defense and the Department of Transportation are” for “Department of Defense is”.
+Subsec. (b)(4). Pub. L. 103–337, § 543(b)(3), substituted “Department of Defense and the Department of Transportation are” for “Department of Defense is”.
 
-Subsec. (c). Pub. L. 103–337, § 543(b)(4), inserted “and the Secretary of Transportation” after “Secretary of Defense”.
+Subsec. (c). Pub. L. 103–337, § 543(b)(4), inserted “and the Secretary of Transportation” after “Secretary of Defense”.
 
-Subsec. (d)(2). Pub. L. 103–337, § 543(b)(5), inserted “and the Department of Transportation” after “Department of Defense”.
+Subsec. (d)(2). Pub. L. 103–337, § 543(b)(5), inserted “and the Department of Transportation” after “Department of Defense”.
 
-1992—Subsec. (b)(8). Pub. L. 102–484, § 4462(c), added par. (8).
+1992—Subsec. (b)(8). Pub. L. 102–484, § 4462(c), added par. (8).
 
-Subsec. (e)(1). Pub. L. 102–484, § 4469(1), substituted “$11,000,000 for fiscal year 1993 and $8,000,000 for each of fiscal years 1994 and 1995” for “$4,000,000 for fiscal year 1991 and $9,000,000 for each of fiscal years 1992 and 1993”.
+Subsec. (e)(1). Pub. L. 102–484, § 4469(1), substituted “$11,000,000 for fiscal year 1993 and $8,000,000 for each of fiscal years 1994 and 1995” for “$4,000,000 for fiscal year 1991 and $9,000,000 for each of fiscal years 1992 and 1993”.
 
-Subsec. (e)(2). Pub. L. 102–484, § 4469(2), substituted “$6,500,000 for each of fiscal years 1993, 1994, and 1995” for “$1,000,000 for fiscal year 1991 and $4,000,000 for each of fiscal years 1992 and 1993”.
+Subsec. (e)(2). Pub. L. 102–484, § 4469(2), substituted “$6,500,000 for each of fiscal years 1993, 1994, and 1995” for “$1,000,000 for fiscal year 1991 and $4,000,000 for each of fiscal years 1992 and 1993”.
 
-1991—Subsec. (b)(1). Pub. L. 102–190, § 1061(a)(6)(A), substituted “resumé” for “resume” in cl. (C).
+1991—Subsec. (b)(1). Pub. L. 102–190, § 1061(a)(6)(A), substituted “resumé” for “resume” in cl. (C).
 
-Subsec. (b)(3). Pub. L. 102–190, § 1061(a)(6)(B), substituted “veterans’ service organizations” for “veterans service organization” and “armed forces” for “Armed Forces”.
+Subsec. (b)(3). Pub. L. 102–190, § 1061(a)(6)(B), substituted “veterans’ service organizations” for “veterans service organization” and “armed forces” for “Armed Forces”.
 
-Subsec. (b)(6). Pub. L. 102–190, § 1061(a)(6)(C), substituted “those areas” for “such area”.
+Subsec. (b)(6). Pub. L. 102–190, § 1061(a)(6)(C), substituted “those areas” for “such area”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1299,7 +1299,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Pilot Program for Military Spouses**
 
-Pub. L. 119–60, div. A, title V, § 571(f), Dec. 18, 2025, 139 Stat. 885, provided that:
+Pub. L. 119–60, div. A, title V, § 571(f), Dec. 18, 2025, 139 Stat. 885, provided that:
 
 > **“(1) Authority.—** Not later than one year after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense may establish a pilot program for spouses of members of the covered Armed Forces who are eligible to receive preseparation counseling under TAP.
 
@@ -1331,11 +1331,11 @@ Pub. L. 119–60, div. A, title V, § 571(f), Dec. 18, 2025, 139 Stat. 885, pr
 
 **Command Matters in Connection With Transition Assistance Programs**
 
-Pub. L. 116–92, div. A, title V, § 568, Dec. 20, 2019, 133 Stat. 1397, provided that: “The training provided a commander of a military installation in connection with the commencement of assignment to the installation shall include a module on the covered transition assistance programs available for members of the Armed Forces assigned to the installation.”
+Pub. L. 116–92, div. A, title V, § 568, Dec. 20, 2019, 133 Stat. 1397, provided that: “The training provided a commander of a military installation in connection with the commencement of assignment to the installation shall include a module on the covered transition assistance programs available for members of the Armed Forces assigned to the installation.”
 
 **Pilot Program Regarding Online Application for the Transition Assistance Program**
 
-Pub. L. 116–92, div. A, title V, § 570G, Dec. 20, 2019, 133 Stat. 1402, provided that:
+Pub. L. 116–92, div. A, title V, § 570G, Dec. 20, 2019, 133 Stat. 1402, provided that:
 
 > **“(a) Establishment.—** The Secretary of Defense, the Secretary of Veterans Affairs, and the Secretary of Labor may jointly carry out a pilot program that creates a one-stop source for online applications for the purposes of assisting members of the Armed Forces and Veterans participating in the Transition Assistance Program (in this section referred to as ‘TAP’).
 
@@ -1365,15 +1365,15 @@ Pub. L. 116–92, div. A, title V, § 570G, Dec. 20, 2019, 133 Stat. 1402, pro
 
 **Deadline for Transition Assistance Program**
 
-Pub. L. 115–232, div. A, title V, § 552(b)(2), Aug. 13, 2018, 132 Stat. 1771, provided that: “The Transition Assistance Program shall comply with the requirements of section 1144(f) of title 10, United States Code, as amended by paragraph (1), not later than 1 year after the date of the enactment of this Act [Aug. 13, 2018].”
+Pub. L. 115–232, div. A, title V, § 552(b)(2), Aug. 13, 2018, 132 Stat. 1771, provided that: “The Transition Assistance Program shall comply with the requirements of section 1144(f) of title 10, United States Code, as amended by paragraph (1), not later than 1 year after the date of the enactment of this Act [Aug. 13, 2018].”
 
 **Deadline for Implementation**
 
-Pub. L. 114–328, div. A, title V, § 564(b), Dec. 23, 2016, 130 Stat. 2138, provided that: “The program carried out under section 1144 of title 10, United States Code, shall satisfy the requirements of subsection (b)(11) of such section (as added by subsection (a) of this section) by not later than 180 days after the date of the enactment of this Act [Dec. 23, 2016].”
+Pub. L. 114–328, div. A, title V, § 564(b), Dec. 23, 2016, 130 Stat. 2138, provided that: “The program carried out under section 1144 of title 10, United States Code, shall satisfy the requirements of subsection (b)(11) of such section (as added by subsection (a) of this section) by not later than 180 days after the date of the enactment of this Act [Dec. 23, 2016].”
 
 **Enhancement of Information Provided to Members of the Armed Forces and Veterans Regarding Use of Post-9/11 Educational Assistance and Federal Financial Aid Through Transition Assistance Program**
 
-Pub. L. 113–291, div. A, title V, § 557, Dec. 19, 2014, 128 Stat. 3381, provided that:
+Pub. L. 113–291, div. A, title V, § 557, Dec. 19, 2014, 128 Stat. 3381, provided that:
 
 > **“(a) Additional Information Required.—**
 
@@ -1413,7 +1413,7 @@ Pub. L. 113–291, div. A, title V, § 557, Dec. 19, 2014, 128 Stat. 3381, pro
 
 **Procedures for Provision of Certain Information to State Veterans Agencies To Facilitate the Transition of Members of the Armed Forces From Military Service to Civilian Life**
 
-Pub. L. 113–291, div. A, title V, § 558, Dec. 19, 2014, 128 Stat. 3382, provided that:
+Pub. L. 113–291, div. A, title V, § 558, Dec. 19, 2014, 128 Stat. 3382, provided that:
 
 > **“(a) Procedures Required.—** The Secretary of Defense shall develop procedures to share the information described in subsection (b) regarding members of the Armed Forces who are being separated from the Armed Forces with State veterans agencies in electronic data format as a means of facilitating the transition of such members from military service to civilian life.
 
@@ -1451,11 +1451,11 @@ Pub. L. 113–291, div. A, title V, § 558, Dec. 19, 2014, 128 Stat. 3382, pro
 
 **Deadline for Implementation**
 
-Pub. L. 113–66, div. A, title V, § 521(b), Dec. 26, 2013, 127 Stat. 755, provided that: “The program carried out under section 1144 of title 10, United States Code, shall comply with the requirements of subsection (b)(9) of such section, as added by subsection (a), by not later than April 1, 2015.”
+Pub. L. 113–66, div. A, title V, § 521(b), Dec. 26, 2013, 127 Stat. 755, provided that: “The program carried out under section 1144 of title 10, United States Code, shall comply with the requirements of subsection (b)(9) of such section, as added by subsection (a), by not later than April 1, 2015.”
 
 **Off-Base Transition Training for Veterans and Their Spouses**
 
-Pub. L. 112–260, title III, § 301, Jan. 10, 2013, 126 Stat. 2424, as amended by Pub. L. 116–315, title IV, § 4303, Jan. 5, 2021, 134 Stat. 5017, provided that:
+Pub. L. 112–260, title III, § 301, Jan. 10, 2013, 126 Stat. 2424, as amended by Pub. L. 116–315, title IV, § 4303, Jan. 5, 2021, 134 Stat. 5017, provided that:
 
 > **“(a) Provision of Off-base Transition Training.—** During the five-year period beginning on the date of the enactment of the Navy SEAL Bill Mulder Act of 2020 [Jan. 5, 2021], the Secretary of Labor shall provide the Transition Assistance Program under section 1144 of title 10, United States Code, to eligible individuals at locations other than military installations.
 
@@ -1489,7 +1489,7 @@ Pub. L. 112–260, title III, § 301, Jan. 10, 2013, 126 Stat. 2424, as amende
 
 **Individualized Assessment for Members of the Armed Forces Under Transition Assistance on Equivalence Between Skills Developed in Military Occupational Specialties and Qualifications Required for Civilian Employment With the Private Sector**
 
-Pub. L. 112–56, title II, § 222, Nov. 21, 2011, 125 Stat. 716, provided that:
+Pub. L. 112–56, title II, § 222, Nov. 21, 2011, 125 Stat. 716, provided that:
 
 > **“(a) Study on Equivalence Required.—**
 
@@ -1525,9 +1525,9 @@ Pub. L. 112–56, title II, § 222, Nov. 21, 2011, 125 Stat. 716, provided tha
 
 **Implementation Reports**
 
-Pub. L. 101–510, div. A, title V, § 502(c), Nov. 5, 1990, 104 Stat. 1557, directed the Secretary of Labor to submit to Congress a report, not later than 90 days after Nov. 5, 1990, setting forth the agreement entered into to carry out this section, and a report, not later than one year after Nov. 5, 1990, containing an evaluation of the program carried out under this section.
+Pub. L. 101–510, div. A, title V, § 502(c), Nov. 5, 1990, 104 Stat. 1557, directed the Secretary of Labor to submit to Congress a report, not later than 90 days after Nov. 5, 1990, setting forth the agreement entered into to carry out this section, and a report, not later than one year after Nov. 5, 1990, containing an evaluation of the program carried out under this section.
 
-## § 1145. Health benefits
+## § 1145. Health benefits
 
 **(a) Transitional Health Care.—**
 
@@ -1645,113 +1645,113 @@ Pub. L. 101–510, div. A, title V, § 502(c), Nov. 5, 1990, 104 Stat. 1557, d
 
 **(f) Coast Guard.—** The Secretary of Homeland Security shall implement this section for the members of the Coast Guard and their dependents when the Coast Guard is not operating as a service in the Navy.
 
-(Added Pub. L. 101–510, div. A, title V, § 502(a)(1), Nov. 5, 1990, 104 Stat. 1555; amended Pub. L. 102–484, div. D, title XLIV, § 4407(a), Oct. 23, 1992, 106 Stat. 2707; Pub. L. 103–160, div. A, title V, § 561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, § 542(a)(4), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, § 561(h), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, § 1 [[div. A], title V, § 571(h)], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title VII, § 736(a), (b), Dec. 28, 2001, 115 Stat. 1172; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VII, § 706(a), (b), Dec. 2, 2002, 116 Stat. 2585; Pub. L. 108–375, div. A, title VII, § 706(a)(1), (3), (b), Oct. 28, 2004, 118 Stat. 1983; Pub. L. 109–163, div. A, title VII, § 749, Jan. 6, 2006, 119 Stat. 3364; Pub. L. 110–181, div. A, title XVI, § 1637, Jan. 28, 2008, 122 Stat. 464; Pub. L. 110–317, § 4, Aug. 29, 2008, 122 Stat. 3528; Pub. L. 110–417, [div. A], title VII, § 734(a), Oct. 14, 2008, 122 Stat. 4513; Pub. L. 111–84, div. A, title VII, § 703, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 112–81, div. A, title VII, § 706, Dec. 31, 2011, 125 Stat. 1474; Pub. L. 112–239, div. A, title X, § 1076(f)(15), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title V, § 511(b), title VII, §§ 705, 706(a), Dec. 12, 2017, 131 Stat. 1376, 1435, 1436; Pub. L. 116–92, div. A, title VII, § 704(b), Dec. 20, 2019, 133 Stat. 1438; Pub. L. 117–81, div. A, title VII, § 717, Dec. 27, 2021, 135 Stat. 1789; Pub. L. 117–263, div. A, title VII, § 702, Dec. 23, 2022, 136 Stat. 2647.)
+(Added Pub. L. 101–510, div. A, title V, § 502(a)(1), Nov. 5, 1990, 104 Stat. 1555; amended Pub. L. 102–484, div. D, title XLIV, § 4407(a), Oct. 23, 1992, 106 Stat. 2707; Pub. L. 103–160, div. A, title V, § 561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, § 542(a)(4), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, § 561(h), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, § 1 [[div. A], title V, § 571(h)], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 107–107, div. A, title VII, § 736(a), (b), Dec. 28, 2001, 115 Stat. 1172; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VII, § 706(a), (b), Dec. 2, 2002, 116 Stat. 2585; Pub. L. 108–375, div. A, title VII, § 706(a)(1), (3), (b), Oct. 28, 2004, 118 Stat. 1983; Pub. L. 109–163, div. A, title VII, § 749, Jan. 6, 2006, 119 Stat. 3364; Pub. L. 110–181, div. A, title XVI, § 1637, Jan. 28, 2008, 122 Stat. 464; Pub. L. 110–317, § 4, Aug. 29, 2008, 122 Stat. 3528; Pub. L. 110–417, [div. A], title VII, § 734(a), Oct. 14, 2008, 122 Stat. 4513; Pub. L. 111–84, div. A, title VII, § 703, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 112–81, div. A, title VII, § 706, Dec. 31, 2011, 125 Stat. 1474; Pub. L. 112–239, div. A, title X, § 1076(f)(15), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title V, § 511(b), title VII, §§ 705, 706(a), Dec. 12, 2017, 131 Stat. 1376, 1435, 1436; Pub. L. 116–92, div. A, title VII, § 704(b), Dec. 20, 2019, 133 Stat. 1438; Pub. L. 117–81, div. A, title VII, § 717, Dec. 27, 2021, 135 Stat. 1789; Pub. L. 117–263, div. A, title VII, § 702, Dec. 23, 2022, 136 Stat. 2647.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (a)(1). Pub. L. 117–263, § 702(b)(1)(A), substituted “active service” for “active duty” in introductory provisions.
+2022—Subsec. (a)(1). Pub. L. 117–263, § 702(b)(1)(A), substituted “active service” for “active duty” in introductory provisions.
 
-Subsec. (a)(2)(G). Pub. L. 117–263, § 702(a), added subpar. (G).
+Subsec. (a)(2)(G). Pub. L. 117–263, § 702(a), added subpar. (G).
 
-Subsec. (a)(3). Pub. L. 117–263, § 702(b)(1)(B), substituted “subparagraph (B) or (G) of paragraph (2)” for “paragraph (2)(B)”.
+Subsec. (a)(3). Pub. L. 117–263, § 702(b)(1)(B), substituted “subparagraph (B) or (G) of paragraph (2)” for “paragraph (2)(B)”.
 
-Subsec. (a)(4). Pub. L. 117–263, § 702(b)(1)(C), substituted “active service” for “active duty” wherever appearing and “(D), or (G)” for “or (D)”.
+Subsec. (a)(4). Pub. L. 117–263, § 702(b)(1)(C), substituted “active service” for “active duty” wherever appearing and “(D), or (G)” for “or (D)”.
 
-Subsec. (a)(5)(A), (B). Pub. L. 117–263, § 702(b)(1)(D), substituted “active service” for “active duty” wherever appearing.
+Subsec. (a)(5)(A), (B). Pub. L. 117–263, § 702(b)(1)(D), substituted “active service” for “active duty” wherever appearing.
 
-Subsec. (a)(7)(A). Pub. L. 117–263, § 702(b)(1)(E), substituted “active service” for “service on active duty” and “active service for” for “active duty for”.
+Subsec. (a)(7)(A). Pub. L. 117–263, § 702(b)(1)(E), substituted “active service” for “service on active duty” and “active service for” for “active duty for”.
 
-Subsec. (b)(1). Pub. L. 117–263, § 702(b)(2), substituted “active service” for “active duty”.
+Subsec. (b)(1). Pub. L. 117–263, § 702(b)(2), substituted “active service” for “active duty”.
 
-Subsec. (d)(1)(A). Pub. L. 117–263, § 702(b)(3), substituted “active service” for “active duty”.
+Subsec. (d)(1)(A). Pub. L. 117–263, § 702(b)(3), substituted “active service” for “active duty”.
 
-2021—Subsec. (a)(5)(A). Pub. L. 117–81, § 717(1), substituted “Except as provided in subparagraph (D), the Secretary” for “The Secretary”.
+2021—Subsec. (a)(5)(A). Pub. L. 117–81, § 717(1), substituted “Except as provided in subparagraph (D), the Secretary” for “The Secretary”.
 
-Subsec. (a)(5)(D). Pub. L. 117–81, § 717(2), added subpar. (D).
+Subsec. (a)(5)(D). Pub. L. 117–81, § 717(2), added subpar. (D).
 
 2019—Subsec. (a)(5)(C). Pub. L. 116–92 added subpar. (C).
 
-2017—Subsec. (a)(2)(B). Pub. L. 115–91, § 511(b), substituted “under section 12304b of this title or a provision of law referred to in section 101(a)(13)(B) of this title” for “in support of a contingency operation”.
+2017—Subsec. (a)(2)(B). Pub. L. 115–91, § 511(b), substituted “under section 12304b of this title or a provision of law referred to in section 101(a)(13)(B) of this title” for “in support of a contingency operation”.
 
-Subsec. (a)(5)(A). Pub. L. 115–91, § 706(a), inserted “and a mental health assessment conducted pursuant to section 1074n of this title” after “a physical examination”.
+Subsec. (a)(5)(A). Pub. L. 115–91, § 706(a), inserted “and a mental health assessment conducted pursuant to section 1074n of this title” after “a physical examination”.
 
-Subsecs. (d) to (f). Pub. L. 115–91, § 705, added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+Subsecs. (d) to (f). Pub. L. 115–91, § 705, added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
 2013—Subsec. (e). Pub. L. 112–239 inserted “when the Coast Guard is not operating as a service in the Navy” before period at end.
 
 2011—Subsec. (a)(4). Pub. L. 112–81 inserted at end “For purposes of the preceding sentence, in the case of a member on active duty as described in subparagraph (B), (C), or (D) of paragraph (2) who, without a break in service, is extended on active duty for any reason, the 180-day period shall begin on the date on which the member is separated from such extended active duty.”
 
-2009—Subsec. (a)(1). Pub. L. 111–84, § 703(1)(A), substituted “paragraph (4)” for “paragraph (3)” in introductory provisions.
+2009—Subsec. (a)(1). Pub. L. 111–84, § 703(1)(A), substituted “paragraph (4)” for “paragraph (3)” in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 111–84, § 703(1)(B), inserted “except as provided in paragraph (3),” before “medical and dental care”.
+Subsec. (a)(1)(A). Pub. L. 111–84, § 703(1)(B), inserted “except as provided in paragraph (3),” before “medical and dental care”.
 
-Subsec. (a)(3) to (7). Pub. L. 111–84, § 703(2)–(5), added par. (3), redesignated former pars. (3) to (6) as (4) to (7), respectively, in par. (4) substituted “paragraph (7)” for “paragraph (6)”, and in par. (6)(A) substituted “paragraph (5)” for “paragraph (4)”.
+Subsec. (a)(3) to (7). Pub. L. 111–84, § 703(2)–(5), added par. (3), redesignated former pars. (3) to (6) as (4) to (7), respectively, in par. (4) substituted “paragraph (7)” for “paragraph (6)”, and in par. (6)(A) substituted “paragraph (5)” for “paragraph (4)”.
 
 2008—Subsec. (a)(2)(E). Pub. L. 110–317 added subpar. (E).
 
 Subsec. (a)(2)(F). Pub. L. 110–417 added subpar. (F).
 
-Subsec. (a)(3). Pub. L. 110–181, § 1637(1), substituted “Except as provided in paragraph (6), transitional health care” for “Transitional health care”.
+Subsec. (a)(3). Pub. L. 110–181, § 1637(1), substituted “Except as provided in paragraph (6), transitional health care” for “Transitional health care”.
 
-Subsec. (a)(6). Pub. L. 110–181, § 1637(2), added par. (6).
+Subsec. (a)(6). Pub. L. 110–181, § 1637(2), added par. (6).
 
 2006—Subsec. (a)(5). Pub. L. 109–163 added par. (5).
 
-2004—Subsec. (a)(1). Pub. L. 108–375, § 706(a)(3), struck out “applicable” before “time period” in introductory provisions.
+2004—Subsec. (a)(1). Pub. L. 108–375, § 706(a)(3), struck out “applicable” before “time period” in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 108–375, § 706(a)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Transitional health care shall be available under subsection (a) for a specified time period beginning on the date on which the member is separated as follows:
+Subsec. (a)(3). Pub. L. 108–375, § 706(a)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Transitional health care shall be available under subsection (a) for a specified time period beginning on the date on which the member is separated as follows:
 
 “(A) For members separated with less than six years of active service, 60 days.
 
 “(B) For members separated with six or more years of active service, 120 days.”
 
-Subsec. (a)(4). Pub. L. 108–375, § 706(b), added par. (4).
+Subsec. (a)(4). Pub. L. 108–375, § 706(b), added par. (4).
 
-2002—Subsec. (a)(1). Pub. L. 107–314, § 706(a), amended Pub. L. 107–107, § 736(a)(1). See 2001 Amendment note below.
+2002—Subsec. (a)(1). Pub. L. 107–314, § 706(a), amended Pub. L. 107–107, § 736(a)(1). See 2001 Amendment note below.
 
-Subsec. (e). Pub. L. 107–314, § 706(b), amended Pub. L. 107–107, § 736(b)(2). See 2001 Amendment note below.
+Subsec. (e). Pub. L. 107–314, § 706(b), amended Pub. L. 107–107, § 736(b)(2). See 2001 Amendment note below.
 
 Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-2001—Subsec. (a)(1). Pub. L. 107–107, § 736(a)(1), as amended by Pub. L. 107–314, § 706(a), in introductory provisions, substituted “paragraph (3), a member of the armed forces who is separated from active duty as described in paragraph (2) (and the dependents of the member)” for “paragraph (2), a member of the armed forces who is involuntarily separated from active duty during the period beginning on October 1, 1990, and ending on December 31, 2001 (and the dependents of the member),”.
+2001—Subsec. (a)(1). Pub. L. 107–107, § 736(a)(1), as amended by Pub. L. 107–314, § 706(a), in introductory provisions, substituted “paragraph (3), a member of the armed forces who is separated from active duty as described in paragraph (2) (and the dependents of the member)” for “paragraph (2), a member of the armed forces who is involuntarily separated from active duty during the period beginning on October 1, 1990, and ending on December 31, 2001 (and the dependents of the member),”.
 
-Subsec. (a)(2). Pub. L. 107–107, § 736(a)(3), added par. (2). Former par. (2) redesignated (3).
+Subsec. (a)(2). Pub. L. 107–107, § 736(a)(3), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (a)(3). Pub. L. 107–107, § 736(a)(2), (4), redesignated par. (2) as (3) and struck out “involuntarily” before “separated” wherever appearing.
+Subsec. (a)(3). Pub. L. 107–107, § 736(a)(2), (4), redesignated par. (2) as (3) and struck out “involuntarily” before “separated” wherever appearing.
 
-Subsec. (c)(1). Pub. L. 107–107, § 736(b)(1), struck out “during the period beginning on October 1, 1990, and ending on December 31, 2001” after “armed forces”.
+Subsec. (c)(1). Pub. L. 107–107, § 736(b)(1), struck out “during the period beginning on October 1, 1990, and ending on December 31, 2001” after “armed forces”.
 
-Subsec. (e). Pub. L. 107–107, § 736(b)(2), as amended by Pub. L. 107–314, § 706(b), substituted “the members of the Coast Guard and their dependents” for “the Coast Guard” in second sentence and struck out first sentence which read as follows: “The provisions of this section shall apply to members of the Coast Guard (and their dependents) involuntarily separated from active duty during the period beginning on October 1, 1994, and ending on December 31, 2001.”
+Subsec. (e). Pub. L. 107–107, § 736(b)(2), as amended by Pub. L. 107–314, § 706(b), substituted “the members of the Coast Guard and their dependents” for “the Coast Guard” in second sentence and struck out first sentence which read as follows: “The provisions of this section shall apply to members of the Coast Guard (and their dependents) involuntarily separated from active duty during the period beginning on October 1, 1994, and ending on December 31, 2001.”
 
 2000—Subsecs. (a)(1), (c)(1), (e). Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001”.
 
-1998—Subsecs. (a)(1), (c)(1). Pub. L. 105–261, § 561(h)(1), substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
+1998—Subsecs. (a)(1), (c)(1). Pub. L. 105–261, § 561(h)(1), substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
 
-Subsec. (e). Pub. L. 105–261, § 561(h)(2), substituted “during the period beginning on October 1, 1994, and ending on September 30, 2001” for “during the five-year period beginning on October 1, 1994”.
+Subsec. (e). Pub. L. 105–261, § 561(h)(2), substituted “during the period beginning on October 1, 1994, and ending on September 30, 2001” for “during the five-year period beginning on October 1, 1994”.
 
 1994—Subsec. (e). Pub. L. 103–337 added subsec. (e).
 
 1993—Subsecs. (a)(1), (c)(1). Pub. L. 103–160 substituted “nine-year period” for “five-year period”.
 
-1992—Subsec. (b)(1). Pub. L. 102–484, § 4407(a)(1), inserted at end “A conversion health policy offered under this paragraph shall provide coverage for not less than an 18-month period.”
+1992—Subsec. (b)(1). Pub. L. 102–484, § 4407(a)(1), inserted at end “A conversion health policy offered under this paragraph shall provide coverage for not less than an 18-month period.”
 
-Subsec. (b)(2)(A). Pub. L. 102–484, § 4407(a)(2), substituted “18-month period” for “one-year period”.
+Subsec. (b)(2)(A). Pub. L. 102–484, § 4407(a)(2), substituted “18-month period” for “one-year period”.
 
-Subsec. (b)(4) to (6). Pub. L. 102–484, § 4407(a)(3), added pars. (4) to (6).
+Subsec. (b)(4) to (6). Pub. L. 102–484, § 4407(a)(3), added pars. (4) to (6).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–417, [div. A], title VII, § 734(b), Oct. 14, 2008, 122 Stat. 4513, provided that: “Subparagraph (F) of section 1145(a)(2) of title 10, United States Code, as added by subsection (a), shall apply with respect to members of the Armed Forces separated from active duty after the date of the enactment of this Act [Oct. 14, 2008].”
+Pub. L. 110–417, [div. A], title VII, § 734(b), Oct. 14, 2008, 122 Stat. 4513, provided that: “Subparagraph (F) of section 1145(a)(2) of title 10, United States Code, as added by subsection (a), shall apply with respect to members of the Armed Forces separated from active duty after the date of the enactment of this Act [Oct. 14, 2008].”
 
 Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship discharge granted after Aug. 29, 2008, see section 10 of Pub. L. 110–317, set out as a note under section 2108 of Title 5, Government Organization and Employees.
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–314, div. A, title VII, § 706(c), Dec. 2, 2002, 116 Stat. 2585, provided that: “The amendments made by this section [amending this section] shall take effect as of December 28, 2001, and as if included in the National Defense Authorization Act for Fiscal Year 2002 [Pub. L. 107–107] as enacted.”
+Pub. L. 107–314, div. A, title VII, § 706(c), Dec. 2, 2002, 116 Stat. 2585, provided that: “The amendments made by this section [amending this section] shall take effect as of December 28, 2001, and as if included in the National Defense Authorization Act for Fiscal Year 2002 [Pub. L. 107–107] as enacted.”
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
@@ -1761,7 +1761,7 @@ Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who
 
 **Transitional Health Benefits for Certain Members of the National Guard Serving Under Orders in Response to the Coronavirus (COVID–19)**
 
-Pub. L. 116–283, div. A, title VII, § 733, Jan. 1, 2021, 134 Stat. 3702, provided that:
+Pub. L. 116–283, div. A, title VII, § 733, Jan. 1, 2021, 134 Stat. 3702, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall provide to a member of the National Guard separating from active service after serving on full-time National Guard duty pursuant to section 502(f) of title 32, United States Code, the health benefits authorized under section 1145 of title 10, United States Code, for a member of a reserve component separating from active duty, as referred to in subsection (a)(2)(B) of such section 1145, if the active service from which the member of the National Guard is separating was in support of the whole of government response to the coronavirus (COVID–19).
 
@@ -1769,7 +1769,7 @@ Pub. L. 116–283, div. A, title VII, § 733, Jan. 1, 2021, 134 Stat. 3702, pr
 
 **Mental Health Care Treatment Through Telemedicine**
 
-Pub. L. 113–66, div. A, title VII, § 702, Dec. 26, 2013, 127 Stat. 790, provided that:
+Pub. L. 113–66, div. A, title VII, § 702, Dec. 26, 2013, 127 Stat. 790, provided that:
 
 > **“(a) Provision of Mental Health Care Via Telemedicine.—**
 
@@ -1817,9 +1817,9 @@ Pub. L. 113–66, div. A, title VII, § 702, Dec. 26, 2013, 127 Stat. 790, pro
 
 **Temporary Extension of Transitional Health Care Benefits**
 
-Pub. L. 108–136, div. A, title VII, § 704, Nov. 24, 2003, 117 Stat. 1527, which provided during the period beginning on Nov. 24, 2003, and ending on Dec. 31, 2004, for the extension of transitional health care benefits to 180 days for members separated from active duty, was repealed by Pub. L. 108–375, div. A, title VII, § 706(a)(2)(A), Oct. 28, 2004, 118 Stat. 1983.
+Pub. L. 108–136, div. A, title VII, § 704, Nov. 24, 2003, 117 Stat. 1527, which provided during the period beginning on Nov. 24, 2003, and ending on Dec. 31, 2004, for the extension of transitional health care benefits to 180 days for members separated from active duty, was repealed by Pub. L. 108–375, div. A, title VII, § 706(a)(2)(A), Oct. 28, 2004, 118 Stat. 1983.
 
-Pub. L. 108–106, title I, § 1117, Nov. 6, 2003, 117 Stat. 1218, which provided during the period beginning on Nov. 6, 2003, and ending on Sept. 30, 2004, for the extension of transitional health care benefits to 180 days for members separated from active duty, was repealed by Pub. L. 108–375, div. A, title VII, § 706(a)(2)(B), Oct. 28, 2004, 118 Stat. 1983.
+Pub. L. 108–106, title I, § 1117, Nov. 6, 2003, 117 Stat. 1218, which provided during the period beginning on Nov. 6, 2003, and ending on Sept. 30, 2004, for the extension of transitional health care benefits to 180 days for members separated from active duty, was repealed by Pub. L. 108–375, div. A, title VII, § 706(a)(2)(B), Oct. 28, 2004, 118 Stat. 1983.
 
 **Application of Amendments by Pub. L. 102–484 to Existing Contracts**
 
@@ -1827,13 +1827,13 @@ For provisions relating to the application of the amendments by section 4407 of 
 
 **Transitional Provision**
 
-Pub. L. 102–484, div. D, title XLIV, § 4408(b), Oct. 23, 1992, 106 Stat. 2712, provided that: “The Secretary of Defense shall provide a period for the enrollment for health benefits coverage under this section [enacting section 1078a of this title and provisions set out as notes under this section and section 1086a of this title] by members and former members of the Armed Services for whom the availability of transitional health care under section 1145(a) of title 10, United States Code, expires before the October 1, 1994, implementation date of section 1078a of such title, as added by subsection (a).”
+Pub. L. 102–484, div. D, title XLIV, § 4408(b), Oct. 23, 1992, 106 Stat. 2712, provided that: “The Secretary of Defense shall provide a period for the enrollment for health benefits coverage under this section [enacting section 1078a of this title and provisions set out as notes under this section and section 1086a of this title] by members and former members of the Armed Services for whom the availability of transitional health care under section 1145(a) of title 10, United States Code, expires before the October 1, 1994, implementation date of section 1078a of such title, as added by subsection (a).”
 
 **Termination of Applicability of Other Conversion Health Policies**
 
 For provisions prohibiting purchase of, and allowing cancellation of, conversion health policies under subsec. (b) of this section on or after Oct. 1, 1994, see section 4408(c) of Pub. L. 102–484, set out as a note under section 1086a of this title.
 
-## § 1146. Commissary and exchange benefits
+## § 1146. Commissary and exchange benefits
 
 **(a) Members Involuntarily Separated From Active Duty.—** The Secretary of Defense shall prescribe regulations to allow a member of the armed forces who is involuntarily separated from active duty during the period beginning on October 1, 2007, and ending on December 31, 2018, to continue to use commissary and exchange stores during the two-year period beginning on the date of the involuntary separation of the member in the same manner as a member on active duty. The Secretary concerned shall implement this provision for Coast Guard members involuntarily separated during the same period.
 
@@ -1847,7 +1847,7 @@ For provisions prohibiting purchase of, and allowing cancellation of, conversion
 
 **(d) Emergency Response Providers During a Declared Major Disaster or Emergency.—** The Secretary of Defense may prescribe regulations to allow an emergency response provider (as that term is defined in section 2 of the Homeland Security Act of 2002 (Public Law 107–296; 6 U.S.C. 101)) to use a mobile commissary or exchange store deployed to an area covered by a declaration of a major disaster or emergency under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170).
 
-(Added Pub. L. 101–510, div. A, title V, § 502(a)(1), Nov. 5, 1990, 104 Stat. 1556; amended Pub. L. 103–160, div. A, title V, § 561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, § 542(a)(5), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, § 561(i), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, § 1 [[div. A], title V, § 571(i)], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 110–181, div. A, title VI, § 651, Jan. 28, 2008, 122 Stat. 162; Pub. L. 110–317, § 5, Aug. 29, 2008, 122 Stat. 3528; Pub. L. 111–383, div. A, title X, § 1075(b)(16), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 112–239, div. A, title VI, § 631, title X, § 1076(f)(16), Jan. 2, 2013, 126 Stat. 1781, 1952; Pub. L. 116–283, div. A, title VI, § 632, Jan. 1, 2021, 134 Stat. 3682.)
+(Added Pub. L. 101–510, div. A, title V, § 502(a)(1), Nov. 5, 1990, 104 Stat. 1556; amended Pub. L. 103–160, div. A, title V, § 561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, § 542(a)(5), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, § 561(i), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, § 1 [[div. A], title V, § 571(i)], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 110–181, div. A, title VI, § 651, Jan. 28, 2008, 122 Stat. 162; Pub. L. 110–317, § 5, Aug. 29, 2008, 122 Stat. 3528; Pub. L. 111–383, div. A, title X, § 1075(b)(16), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 112–239, div. A, title VI, § 631, title X, § 1076(f)(16), Jan. 2, 2013, 126 Stat. 1781, 1952; Pub. L. 116–283, div. A, title VI, § 632, Jan. 1, 2021, 134 Stat. 3682.)
 
 **Editorial Notes**
 
@@ -1855,17 +1855,17 @@ For provisions prohibiting purchase of, and allowing cancellation of, conversion
 
 2021—Subsec. (d). Pub. L. 116–283 added subsec. (d).
 
-2013—Subsec. (a). Pub. L. 112–239, § 631(a)(1), (b)(1), substituted “2018” for “2012” and “The Secretary concerned” for “The Secretary of Transportation”.
+2013—Subsec. (a). Pub. L. 112–239, § 631(a)(1), (b)(1), substituted “2018” for “2012” and “The Secretary concerned” for “The Secretary of Transportation”.
 
-Subsec. (b). Pub. L. 112–239, § 1076(f)(16), inserted “when the Coast Guard is not operating as a service in the Navy” before period at end.
+Subsec. (b). Pub. L. 112–239, § 1076(f)(16), inserted “when the Coast Guard is not operating as a service in the Navy” before period at end.
 
-Pub. L. 112–239, § 631(a)(2), (b)(2), substituted “2018” for “2012” and “The Secretary concerned” for “The Secretary of Homeland Security”.
+Pub. L. 112–239, § 631(a)(2), (b)(2), substituted “2018” for “2012” and “The Secretary concerned” for “The Secretary of Homeland Security”.
 
-2011—Subsec. (a). Pub. L. 111–383, § 1075(b)(16)(A), struck out “(a) Benefits for Members Involuntarily Separated.—” before “The Secretary”.
+2011—Subsec. (a). Pub. L. 111–383, § 1075(b)(16)(A), struck out “(a) Benefits for Members Involuntarily Separated.—” before “The Secretary”.
 
-Subsec. (b). Pub. L. 111–383, § 1075(b)(16)(B), redesignated subsec. (b) relating to benefits for members receiving sole survivorship discharge as (c).
+Subsec. (b). Pub. L. 111–383, § 1075(b)(16)(B), redesignated subsec. (b) relating to benefits for members receiving sole survivorship discharge as (c).
 
-Subsec. (c). Pub. L. 111–383, § 1075(b)(16)(B), (C), redesignated subsec. (b) relating to benefits for members receiving sole survivorship discharge as (c), struck out “Benefits for” before “Members” in heading, and substituted “armed forces” for “Armed Forces” in introductory provisions and “the member’s entitlement” for “the members entitlement” in par. (2).
+Subsec. (c). Pub. L. 111–383, § 1075(b)(16)(B), (C), redesignated subsec. (b) relating to benefits for members receiving sole survivorship discharge as (c), struck out “Benefits for” before “Members” in heading, and substituted “armed forces” for “Armed Forces” in introductory provisions and “the member’s entitlement” for “the members entitlement” in par. (2).
 
 2008—Pub. L. 110–317 substituted “(a) Benefits for Members Involuntarily Separated.—The Secretary of Defense” for “The Secretary of Defense” and added subsec. (b) relating to benefits for members receiving sole survivorship discharge.
 
@@ -1893,7 +1893,7 @@ Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 1147. Use of military family housing
+## § 1147. Use of military family housing
 
 **(a) Transition for Involuntarily Separated Members.—**
 
@@ -1905,23 +1905,23 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(c) No Transitional Basic Allowance for Housing.—** Nothing in this section shall be construed to authorize the Secretary concerned to continue to provide for any period of time to an individual who is involuntarily separated all or any portion of a basic allowance for housing to which the individual was entitled under section 403 of title 37 immediately before being involuntarily separated, even in cases in which the individual or members of the individual’s household continue to reside after the separation in a housing unit acquired or constructed under the alternative authority of subchapter IV of chapter 169 of this title that is not owned or leased by the United States.
 
-(Added Pub. L. 101–510, div. A, title V, § 502(a)(1), Nov. 5, 1990, 104 Stat. 1556; amended Pub. L. 103–160, div. A, title V, § 561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, § 542(a)(6), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, § 561(j), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, § 1 [[div. A], title V, § 571(j)], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 112–239, div. A, title VI, § 632, Jan. 2, 2013, 126 Stat. 1782.)
+(Added Pub. L. 101–510, div. A, title V, § 502(a)(1), Nov. 5, 1990, 104 Stat. 1556; amended Pub. L. 103–160, div. A, title V, § 561(i), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, § 542(a)(6), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, § 561(j), Oct. 17, 1998, 112 Stat. 2026; Pub. L. 106–398, § 1 [[div. A], title V, § 571(j)], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 112–239, div. A, title VI, § 632, Jan. 2, 2013, 126 Stat. 1782.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2013—Subsec. (a)(1). Pub. L. 112–239, § 632(a)(1), substituted “October 1, 2012, and ending on December 31, 2018” for “October 1, 1990, and ending on December 31, 2001”.
+2013—Subsec. (a)(1). Pub. L. 112–239, § 632(a)(1), substituted “October 1, 2012, and ending on December 31, 2018” for “October 1, 1990, and ending on December 31, 2001”.
 
-Subsec. (a)(2). Pub. L. 112–239, § 632(a)(2), (c), substituted “The Secretary concerned” for “The Secretary of Transportation” and “October 1, 2012, and ending on December 31, 2018” for “October 1, 1994, and ending on December 31, 2001”.
+Subsec. (a)(2). Pub. L. 112–239, § 632(a)(2), (c), substituted “The Secretary concerned” for “The Secretary of Transportation” and “October 1, 2012, and ending on December 31, 2018” for “October 1, 1994, and ending on December 31, 2001”.
 
-Subsec. (c). Pub. L. 112–239, § 632(b), added subsec. (c).
+Subsec. (c). Pub. L. 112–239, § 632(b), added subsec. (c).
 
 2000—Subsec. (a). Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001” in pars. (1) and (2).
 
-1998—Subsec. (a)(1). Pub. L. 105–261, § 561(j)(1), substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
+1998—Subsec. (a)(1). Pub. L. 105–261, § 561(j)(1), substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
 
-Subsec. (a)(2). Pub. L. 105–261, § 561(j)(2), substituted “during the period beginning on October 1, 1994, and ending on September 30, 2001” for “during the five-year period beginning on October 1, 1994”.
+Subsec. (a)(2). Pub. L. 105–261, § 561(j)(2), substituted “during the period beginning on October 1, 1994, and ending on September 30, 2001” for “during the five-year period beginning on October 1, 1994”.
 
 1994—Subsec. (a). Pub. L. 103–337 designated existing provisions as par. (1) and added par. (2).
 
@@ -1937,11 +1937,11 @@ Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 1148. Relocation assistance for personnel overseas
+## § 1148. Relocation assistance for personnel overseas
 
 The Secretary of Defense and the Secretary of Homeland Security shall develop a program specifically to assist members of the armed forces stationed overseas who are preparing for discharge or release from active duty, and the dependents of such members, in readjusting to civilian life. The program shall focus on the special needs and requirements of such members and dependents due to their overseas locations and shall include, to the maximum extent possible, computerized job relocation assistance and job search information.
 
-(Added Pub. L. 101–510, div. A, title V, § 502(a)(1), Nov. 5, 1990, 104 Stat. 1556; amended Pub. L. 103–337, div. A, title V, § 542(a)(7), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 101–510, div. A, title V, § 502(a)(1), Nov. 5, 1990, 104 Stat. 1556; amended Pub. L. 103–337, div. A, title V, § 542(a)(7), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 **Editorial Notes**
 
@@ -1963,13 +1963,13 @@ Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who
 
 **Pilot Program**
 
-Pub. L. 101–510, div. A, title V, § 502(d), Nov. 5, 1990, 104 Stat. 1558, required the Secretary of Defense to carry out the program required by this section during fiscal year 1991 at not less than 10 military installations located outside the United States.
+Pub. L. 101–510, div. A, title V, § 502(d), Nov. 5, 1990, 104 Stat. 1558, required the Secretary of Defense to carry out the program required by this section during fiscal year 1991 at not less than 10 military installations located outside the United States.
 
-## § 1149. Excess leave and permissive temporary duty
+## § 1149. Excess leave and permissive temporary duty
 
 Under regulations prescribed by the Secretary of Defense or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary concerned shall grant a member of the armed forces who is to be involuntarily separated such excess leave (for a period not in excess of 30 days), or such permissive temporary duty (for a period not in excess of 10 days), as the member requires in order to facilitate the member’s carrying out necessary relocation activities (such as job search and residence search activities), unless to do so would interfere with military missions.
 
-(Added Pub. L. 101–510, div. A, title V, § 502(a)(1), Nov. 5, 1990, 104 Stat. 1557; amended Pub. L. 103–337, div. A, title V, § 542(a)(8), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–239, div. A, title X, § 1076(f)(17), Jan. 2, 2013, 126 Stat. 1952.)
+(Added Pub. L. 101–510, div. A, title V, § 502(a)(1), Nov. 5, 1990, 104 Stat. 1557; amended Pub. L. 103–337, div. A, title V, § 542(a)(8), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–239, div. A, title X, § 1076(f)(17), Jan. 2, 2013, 126 Stat. 1952.)
 
 **Editorial Notes**
 
@@ -1991,7 +1991,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated after Sept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under section 1141 of this title.
 
-## § 1150. Affiliation with Guard and Reserve units: waiver of certain limitations
+## § 1150. Affiliation with Guard and Reserve units: waiver of certain limitations
 
 **(a) Preference for Certain Persons.—** A person who is separated from the armed forces during the period beginning on October 1, 1990, and ending on December 31, 2001, and who applies to become a member of a National Guard or Reserve unit within one year after the date of such separation shall be given preference over other equally qualified applicants for existing or projected vacancies within the unit to which the member applies.
 
@@ -1999,7 +1999,7 @@ Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who
 
 **(c) Coast Guard.—** This section shall apply to the Coast Guard in the same manner and to the same extent as it applies to the Department of Defense. The Secretary of Homeland Security shall prescribe regulations to implement this section for the Coast Guard when it is not operating as a service in the Navy.
 
-(Added Pub. L. 101–510, div. A, title V, § 502(a)(1), Nov. 5, 1990, 104 Stat. 1557; amended Pub. L. 102–484, div. A, title V, § 514, Oct. 23, 1992, 106 Stat. 2406; Pub. L. 103–160, div. A, title V, § 561(j), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, § 542(a)(9), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, § 561(p), Oct. 17, 1998, 112 Stat. 2027; Pub. L. 106–398, § 1 [[div. A], title V, § 571(*o*)], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–239, div. A, title X, § 1076(f)(18), Jan. 2, 2013, 126 Stat. 1952.)
+(Added Pub. L. 101–510, div. A, title V, § 502(a)(1), Nov. 5, 1990, 104 Stat. 1557; amended Pub. L. 102–484, div. A, title V, § 514, Oct. 23, 1992, 106 Stat. 2406; Pub. L. 103–160, div. A, title V, § 561(j), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, § 542(a)(9), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, § 561(p), Oct. 17, 1998, 112 Stat. 2027; Pub. L. 106–398, § 1 [[div. A], title V, § 571(*o*)], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–239, div. A, title X, § 1076(f)(18), Jan. 2, 2013, 126 Stat. 1952.)
 
 **Editorial Notes**
 
@@ -2029,21 +2029,21 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated after Sept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under section 1141 of this title.
 
-## § 1151. Retention of assistive technology and services provided before separation
+## § 1151. Retention of assistive technology and services provided before separation
 
 **(a) Authority.—** A member of the armed forces who is provided an assistive technology or assistive technology device for a severe or debilitating illness or injury incurred or aggravated by such member while on active duty may, under regulations prescribed by the Secretary of Defense, be authorized to retain such assistive technology or assistive technology device upon the separation of the member from active service.
 
 **(b) Definitions.—** In this section, the terms “assistive technology” and “assistive technology device” have the meaning given those terms in section 3 of the Assistive Technology Act of 1998 (29 U.S.C. 3002).
 
-(Added Pub. L. 109–364, div. A, title V, § 561(a), Oct. 17, 2006, 120 Stat. 2219.)
+(Added Pub. L. 109–364, div. A, title V, § 561(a), Oct. 17, 2006, 120 Stat. 2219.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1151, added Pub. L. 102–484, div. D, title XLIV, § 4441(a)(1), Oct. 23, 1992, 106 Stat. 2725; amended Pub. L. 103–35, title II, § 201(f)(1), May 31, 1993, 107 Stat. 99; Pub. L. 103–160, div. A, title V, § 561(k), title XIII, § 1331(a)–(c)(1), (d)–(g), Nov. 30, 1993, 107 Stat. 1668, 1791–1793; Pub. L. 103–337, div. A, title V, § 543(c), title X, § 1070(a)(7), title XI, § 1131(a), (b), Oct. 5, 1994, 108 Stat. 2769, 2855, 2871; Pub. L. 103–382, title III, § 391(b)(1), (2), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–106, div. A, title XV, § 1503(a)(10), Feb. 10, 1996, 110 Stat. 511; Pub. L. 104–201, div. A, title V, § 576(a), Sept. 23, 1996, 110 Stat. 2535; Pub. L. 105–85, div. A, title X, § 1073(a)(19), Nov. 18, 1997, 111 Stat. 1901, related to assistance to separated members to obtain certification and employment as teachers or employment as teachers’ aides, prior to repeal by Pub. L. 106–65, div. A, title XVII, § 1707(a)(1), Oct. 5, 1999, 113 Stat. 823.
+A prior section 1151, added Pub. L. 102–484, div. D, title XLIV, § 4441(a)(1), Oct. 23, 1992, 106 Stat. 2725; amended Pub. L. 103–35, title II, § 201(f)(1), May 31, 1993, 107 Stat. 99; Pub. L. 103–160, div. A, title V, § 561(k), title XIII, § 1331(a)–(c)(1), (d)–(g), Nov. 30, 1993, 107 Stat. 1668, 1791–1793; Pub. L. 103–337, div. A, title V, § 543(c), title X, § 1070(a)(7), title XI, § 1131(a), (b), Oct. 5, 1994, 108 Stat. 2769, 2855, 2871; Pub. L. 103–382, title III, § 391(b)(1), (2), Oct. 20, 1994, 108 Stat. 4021; Pub. L. 104–106, div. A, title XV, § 1503(a)(10), Feb. 10, 1996, 110 Stat. 511; Pub. L. 104–201, div. A, title V, § 576(a), Sept. 23, 1996, 110 Stat. 2535; Pub. L. 105–85, div. A, title X, § 1073(a)(19), Nov. 18, 1997, 111 Stat. 1901, related to assistance to separated members to obtain certification and employment as teachers or employment as teachers’ aides, prior to repeal by Pub. L. 106–65, div. A, title XVII, § 1707(a)(1), Oct. 5, 1999, 113 Stat. 823.
 
-## § 1152. Assistance to eligible members and former members to obtain employment with law enforcement agencies
+## § 1152. Assistance to eligible members and former members to obtain employment with law enforcement agencies
 
 **(a) Placement Program.—** The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, may enter into an agreement with the Attorney General to establish or participate in a program to assist eligible members and former members of the armed forces to obtain employment as law enforcement officers with eligible law enforcement agencies following the discharge or release of such members or former members from active duty. Eligible law enforcement agencies shall consist of State law enforcement agencies, local law enforcement agencies, and Indian tribes that perform law enforcement functions (as determined by the Secretary of the Interior).
 
@@ -2077,7 +2077,7 @@ A prior section 1151, added Pub. L. 102–484, div. D, title XLIV, § 4441(a)(
 
 **(3)** A civilian employee of the Department of Defense shall be eligible to participate in the expanded placement activities authorized under this subsection if the employee, during the six-year period beginning October 1, 1993, is terminated from such employment as a result of reductions in defense spending or the closure or realignment of a military installation, as determined by the Secretary of Defense.
 
-(Added Pub. L. 103–160, div. A, title XIII, § 1332(a), Nov. 30, 1993, 107 Stat. 1793; amended Pub. L. 103–337, div. A, title V, § 543(d), title XI, § 1132(a)(1), Oct. 5, 1994, 108 Stat. 2771, 2872; Pub. L. 104–106, div. A, title XV, § 1503(a)(11), Feb. 10, 1996, 110 Stat. 511; Pub. L. 104–201, div. A, title V, § 575, Sept. 23, 1996, 110 Stat. 2535; Pub. L. 105–85, div. A, title X, § 1073(a)(20), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 103–160, div. A, title XIII, § 1332(a), Nov. 30, 1993, 107 Stat. 1793; amended Pub. L. 103–337, div. A, title V, § 543(d), title XI, § 1132(a)(1), Oct. 5, 1994, 108 Stat. 2771, 2872; Pub. L. 104–106, div. A, title XV, § 1503(a)(11), Feb. 10, 1996, 110 Stat. 511; Pub. L. 104–201, div. A, title V, § 575, Sept. 23, 1996, 110 Stat. 2535; Pub. L. 105–85, div. A, title X, § 1073(a)(20), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 **Editorial Notes**
 
@@ -2091,9 +2091,9 @@ A prior section 1151, added Pub. L. 102–484, div. D, title XLIV, § 4441(a)(
 
 Subsec. (g)(2). Pub. L. 104–106 substituted “not later than April 3, 1994,” for “not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1995”.
 
-1994—Pub. L. 103–337, § 543(d), inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “Secretary of Defense” in subsecs. (a) and (d).
+1994—Pub. L. 103–337, § 543(d), inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “Secretary of Defense” in subsecs. (a) and (d).
 
-Pub. L. 103–337, § 1132(a)(1), substituted “eligible members and former members” for “separated members” in section catchline and amended text generally, substituting subsecs. (a) to (g) for former subsecs. (a) to (f).
+Pub. L. 103–337, § 1132(a)(1), substituted “eligible members and former members” for “separated members” in section catchline and amended text generally, substituting subsecs. (a) to (g) for former subsecs. (a) to (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2101,7 +2101,7 @@ Pub. L. 103–337, § 1132(a)(1), substituted “eligible members and former m
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
-## § 1153. Assistance to separated members to obtain employment with health care providers
+## § 1153. Assistance to separated members to obtain employment with health care providers
 
 **(a) Placement Program.—** The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, may establish a program to assist eligible members of the armed forces to obtain employment with health care providers upon their discharge or release from active duty.
 
@@ -2161,7 +2161,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **(f) Definitions.—** In this section, the term “State” includes the District of Columbia, American Samoa, the Federated States of Micronesia, Guam, the Republic of the Marshall Islands, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, Palau, and the Virgin Islands.
 
-(Added Pub. L. 103–160, div. A, title XIII, § 1332(b), Nov. 30, 1993, 107 Stat. 1795; amended Pub. L. 103–337, div. A, title V, § 543(e), Oct. 5, 1994, 108 Stat. 2771; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 103–160, div. A, title XIII, § 1332(b), Nov. 30, 1993, 107 Stat. 1795; amended Pub. L. 103–337, div. A, title V, § 543(e), Oct. 5, 1994, 108 Stat. 2771; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 **Editorial Notes**
 
@@ -2169,23 +2169,23 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 2002—Subsecs. (a), (c)(1), (2), (d)(1), (e)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1994—Subsec. (a). Pub. L. 103–337, § 543(e)(1), inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “Secretary of Defense”.
+1994—Subsec. (a). Pub. L. 103–337, § 543(e)(1), inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “Secretary of Defense”.
 
-Subsec. (b)(1). Pub. L. 103–337, § 543(e)(2), struck out “by the Secretary of Defense” after “selection” in introductory provisions and inserted “concerned” after “Secretary” in two places in subpar. (C).
+Subsec. (b)(1). Pub. L. 103–337, § 543(e)(2), struck out “by the Secretary of Defense” after “selection” in introductory provisions and inserted “concerned” after “Secretary” in two places in subpar. (C).
 
-Subsec. (c)(1). Pub. L. 103–337, § 543(e)(3), inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “Secretary of Defense” and “concerned” after “to the Secretary” and substituted “Secretaries may” for “Secretary may”.
+Subsec. (c)(1). Pub. L. 103–337, § 543(e)(3), inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “Secretary of Defense” and “concerned” after “to the Secretary” and substituted “Secretaries may” for “Secretary may”.
 
-Subsec. (c)(2). Pub. L. 103–337, § 543(e)(4), inserted “of Defense, and the Secretary of Transportation with respect to the Coast Guard,” after “The Secretary” and “concerned” after “unless the Secretary”.
+Subsec. (c)(2). Pub. L. 103–337, § 543(e)(4), inserted “of Defense, and the Secretary of Transportation with respect to the Coast Guard,” after “The Secretary” and “concerned” after “unless the Secretary”.
 
-Subsec. (c)(3). Pub. L. 103–337, § 543(e)(5), substituted “Secretaries” for “Secretary” in subpars. (A) and (B).
+Subsec. (c)(3). Pub. L. 103–337, § 543(e)(5), substituted “Secretaries” for “Secretary” in subpars. (A) and (B).
 
-Subsec. (d)(1). Pub. L. 103–337, § 543(e)(6)(A), inserted “and the Secretary of Transportation” after “Secretary of Defense”.
+Subsec. (d)(1). Pub. L. 103–337, § 543(e)(6)(A), inserted “and the Secretary of Transportation” after “Secretary of Defense”.
 
-Subsec. (d)(2) to (5). Pub. L. 103–337, § 543(e)(6)(B), inserted “concerned” after “Secretary” wherever appearing.
+Subsec. (d)(2) to (5). Pub. L. 103–337, § 543(e)(6)(B), inserted “concerned” after “Secretary” wherever appearing.
 
-Subsec. (e)(1). Pub. L. 103–337, § 543(e)(7)(A), inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “the Secretary of Defense”.
+Subsec. (e)(1). Pub. L. 103–337, § 543(e)(7)(A), inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “the Secretary of Defense”.
 
-Subsec. (e)(2). Pub. L. 103–337, § 543(e)(7)(B), inserted “concerned” after “The Secretary”.
+Subsec. (e)(2). Pub. L. 103–337, § 543(e)(7)(B), inserted “concerned” after “The Secretary”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2193,7 +2193,7 @@ Subsec. (e)(2). Pub. L. 103–337, § 543(e)(7)(B), inserted “concerned” a
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
-## § 1154. Assistance to eligible members and former members to obtain employment as teachers: Troops-to-Teachers Program
+## § 1154. Assistance to eligible members and former members to obtain employment as teachers: Troops-to-Teachers Program
 
 **(a) Definitions.—** In this section:
 
@@ -2405,57 +2405,57 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **(k) Sunset.—** The Program shall terminate on July 1, 2029, with respect to the selection of new participants for the program. Participants in the Program as of that date may complete their program, and remain eligible for benefits under this section.
 
-(Added Pub. L. 112–239, div. A, title V, § 541(b)(1), Jan. 2, 2013, 126 Stat. 1729; amended Pub. L. 113–291, div. A, title X, § 1071(f)(14), Dec. 19, 2014, 128 Stat. 3510; Pub. L. 114–95, title IX, § 9215(uuu)(2), Dec. 10, 2015, 129 Stat. 2190; Pub. L. 115–232, div. A, title V, § 554, Aug. 13, 2018, 132 Stat. 1773; Pub. L. 117–81, div. A, title V, § 551, Dec. 27, 2021, 135 Stat. 1734; Pub. L. 118–31, div. A, title V, §§ 573, 574, Dec. 22, 2023, 137 Stat. 276, 277; Pub. L. 118–159, div. A, title V, § 572, Dec. 23, 2024, 138 Stat. 1909.)
+(Added Pub. L. 112–239, div. A, title V, § 541(b)(1), Jan. 2, 2013, 126 Stat. 1729; amended Pub. L. 113–291, div. A, title X, § 1071(f)(14), Dec. 19, 2014, 128 Stat. 3510; Pub. L. 114–95, title IX, § 9215(uuu)(2), Dec. 10, 2015, 129 Stat. 2190; Pub. L. 115–232, div. A, title V, § 554, Aug. 13, 2018, 132 Stat. 1773; Pub. L. 117–81, div. A, title V, § 551, Dec. 27, 2021, 135 Stat. 1734; Pub. L. 118–31, div. A, title V, §§ 573, 574, Dec. 22, 2023, 137 Stat. 276, 277; Pub. L. 118–159, div. A, title V, § 572, Dec. 23, 2024, 138 Stat. 1909.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a)(1), (3)(C), (8) and (b)(2)(A)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Sections 4310, 5211(b), and 8101 of the Act are classified to sections 7221i, 7345(b), and 7801, respectively, of Title 20, Education. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a)(1), (3)(C), (8) and (b)(2)(A)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Sections 4310, 5211(b), and 8101 of the Act are classified to sections 7221i, 7345(b), and 7801, respectively, of Title 20, Education. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (a)(2)(A)(ii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part B of the Act is classified generally to subchapter II (§ 1411 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (a)(2)(A)(ii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part B of the Act is classified generally to subchapter II (§ 1411 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
-The Richard B. Russell National School Lunch Act, referred to in subsec. (a)(3)(A), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (a)(3)(A), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
-The Social Security Act, referred to in subsec. (a)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (e)(4), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (e)(4), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 **Amendments**
 
-2024—Subsec. (e)(3)(C)(i). Pub. L. 118–159, § 572(1)(A), substituted “3,000” for “5,000”.
+2024—Subsec. (e)(3)(C)(i). Pub. L. 118–159, § 572(1)(A), substituted “3,000” for “5,000”.
 
-Subsec. (e)(3)(C)(iii), (iv). Pub. L. 118–159, § 572(1)(B), redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: “A participant may not receive a stipend under subparagraph (A) if the participant is eligible for benefits under chapter 33 of title 38.”
+Subsec. (e)(3)(C)(iii), (iv). Pub. L. 118–159, § 572(1)(B), redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: “A participant may not receive a stipend under subparagraph (A) if the participant is eligible for benefits under chapter 33 of title 38.”
 
-Subsec. (k). Pub. L. 118–159, § 572(2), substituted “2029” for “2027”.
+Subsec. (k). Pub. L. 118–159, § 572(2), substituted “2029” for “2027”.
 
-2023—Subsec. (a)(2)(C). Pub. L. 118–31, § 573(1)(A), added subpar. (C).
+2023—Subsec. (a)(2)(C). Pub. L. 118–31, § 573(1)(A), added subpar. (C).
 
-Subsec. (a)(3)(D). Pub. L. 118–31, § 573(1)(B), added subpar. (D).
+Subsec. (a)(3)(D). Pub. L. 118–31, § 573(1)(B), added subpar. (D).
 
-Subsec. (b)(2)(C). Pub. L. 118–31, § 574(1), added subpar (C).
+Subsec. (b)(2)(C). Pub. L. 118–31, § 574(1), added subpar (C).
 
-Subsec. (d)(4)(A)(ii). Pub. L. 118–31, § 573(2), inserted “or Job Corps centers” after “secondary schools”.
+Subsec. (d)(4)(A)(ii). Pub. L. 118–31, § 573(2), inserted “or Job Corps centers” after “secondary schools”.
 
-Subsec. (e)(2)(E). Pub. L. 118–31, § 573(3), inserted “or Job Corps center” after “secondary school”.
+Subsec. (e)(2)(E). Pub. L. 118–31, § 573(3), inserted “or Job Corps center” after “secondary school”.
 
-Subsec. (k). Pub. L. 118–31, § 574(2), substituted “2027” for “2025”.
+Subsec. (k). Pub. L. 118–31, § 574(2), substituted “2027” for “2025”.
 
-2021—Subsec. (b). Pub. L. 117–81, § 551(a), substituted “shall” for “may” in introductory provisions.
+2021—Subsec. (b). Pub. L. 117–81, § 551(a), substituted “shall” for “may” in introductory provisions.
 
-Subsecs. (i), (j). Pub. L. 117–81, § 551(b), added subsec. (i) and redesignated former subsec. (i) as (j).
+Subsecs. (i), (j). Pub. L. 117–81, § 551(b), added subsec. (i) and redesignated former subsec. (i) as (j).
 
-Subsec. (k). Pub. L. 117–81, § 551(c), added subsec. (k).
+Subsec. (k). Pub. L. 117–81, § 551(c), added subsec. (k).
 
-2018—Subsec. (d)(2)(B). Pub. L. 115–232, § 554(a), inserted “(A)(iii),” after “(A)(i),” and “transferred to the Retired Reserve, or” after “member is retired,” and substituted “separated or released” for “separated, or released”.
+2018—Subsec. (d)(2)(B). Pub. L. 115–232, § 554(a), inserted “(A)(iii),” after “(A)(i),” and “transferred to the Retired Reserve, or” after “member is retired,” and substituted “separated or released” for “separated, or released”.
 
-Subsec. (d)(3)(D). Pub. L. 115–232, § 554(b), inserted “, the transfer of the member to the Retired Reserve,” after “retirement of the member” and “transfer,” after “after the retirement,”.
+Subsec. (d)(3)(D). Pub. L. 115–232, § 554(b), inserted “, the transfer of the member to the Retired Reserve,” after “retirement of the member” and “transfer,” after “after the retirement,”.
 
-2015—Subsec. (a)(1). Pub. L. 114–95, § 9215(uuu)(2)(A), substituted “section 4310 of the Elementary and Secondary Education Act of 1965” for “section 5210(1) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7221i(1))”.
+2015—Subsec. (a)(1). Pub. L. 114–95, § 9215(uuu)(2)(A), substituted “section 4310 of the Elementary and Secondary Education Act of 1965” for “section 5210(1) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7221i(1))”.
 
-Subsec. (a)(3)(C). Pub. L. 114–95, § 9215(uuu)(2)(B), substituted “section 5211(b) of the Elementary and Secondary Education Act of 1965” for “section 6211(b) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7345(b))”.
+Subsec. (a)(3)(C). Pub. L. 114–95, § 9215(uuu)(2)(B), substituted “section 5211(b) of the Elementary and Secondary Education Act of 1965” for “section 6211(b) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7345(b))”.
 
-Subsec. (a)(8). Pub. L. 114–95, § 9215(uuu)(2)(C), substituted “section 8101 of the Elementary and Secondary Education Act of 1965” for “section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)”.
+Subsec. (a)(8). Pub. L. 114–95, § 9215(uuu)(2)(C), substituted “section 8101 of the Elementary and Secondary Education Act of 1965” for “section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801)”.
 
 2014—Subsec. (a)(2)(A)(ii). Pub. L. 113–291 substituted “20 U.S.C. 1411” for “20 U.S.C.1411”.
 
@@ -2471,7 +2471,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 **Transfer of Functions for Troops-to-Teachers Program; Existing Agreements**
 
-Pub. L. 112–239, div. A, title V, § 541(a), Jan. 2, 2013, 126 Stat. 1728, provided that:
+Pub. L. 112–239, div. A, title V, § 541(a), Jan. 2, 2013, 126 Stat. 1728, provided that:
 
 > **“(1) Transfer.—** The responsibility and authority for operation and administration of the Troops-to-Teachers Program in chapter A of subpart 1 of part C of title II of the Elementary and Secondary Education Act of 1965 ([former] 20 U.S.C. 6671 et seq.) is transferred from the Secretary of Education to the Secretary of Defense.
 
@@ -2493,7 +2493,7 @@ Pub. L. 112–239, div. A, title V, § 541(a), Jan. 2, 2013, 126 Stat. 1728, p
 
 > **“(B)** on such earlier date as the Secretary of Education and the Secretary of Defense may jointly provide.”
 
-Pub. L. 112–239, div. A, title V, § 541(d)(3), Jan. 2, 2013, 126 Stat. 1735, provided that:
+Pub. L. 112–239, div. A, title V, § 541(d)(3), Jan. 2, 2013, 126 Stat. 1735, provided that:
 
 > “The repeal of chapter A of subpart 1 of part C of title II of the Elementary and Secondary Education Act of 1965 ([former] 20 U.S.C. 6671 et seq.) by paragraph (1) shall not affect—
 
@@ -2501,7 +2501,7 @@ Pub. L. 112–239, div. A, title V, § 541(d)(3), Jan. 2, 2013, 126 Stat. 1735
 
 > **“(B)** the authority to pay assistance, make grants, or obtain reimbursement in connection with such an agreement as in effect before the effective date of the transfer of the Troops-to-Teachers Program under subsection (a).”
 
-## § 1155. Statement of benefits
+## § 1155. Statement of benefits
 
 **(a) Before Separation.—** Not later than 30 days before a member retires, is released, is discharged, or otherwise separates from the armed forces (or as soon as is practicable in the case of an unanticipated separation), the Secretary concerned shall provide that member with a current assessment of all benefits to which that member may be entitled under laws administered by—
 
@@ -2511,4 +2511,4 @@ Pub. L. 112–239, div. A, title V, § 541(d)(3), Jan. 2, 2013, 126 Stat. 1735
 
 **(b) Statement for Reserves.—** The Secretary concerned shall provide a member of a reserve component with a current assessment of benefits described in subsection (a) upon release of that member from active duty.
 
-(Added Pub. L. 115–232, div. A, title V, § 522(a), Aug. 13, 2018, 132 Stat. 1756.)
+(Added Pub. L. 115–232, div. A, title V, § 522(a), Aug. 13, 2018, 132 Stat. 1756.)

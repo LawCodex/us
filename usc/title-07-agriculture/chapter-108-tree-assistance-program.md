@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 108—TREE ASSISTANCE PROGRAM
 
-## § 8201. Definitions
+## § 8201. Definitions
 
 In this chapter:
 
@@ -35,9 +35,9 @@ The term “Secretary” means the Secretary of Agriculture.
 
 The term “tree” includes a tree, bush, and vine.
 
-(Pub. L. 107–171, title X, § 10201, May 13, 2002, 116 Stat. 490.)
+(Pub. L. 107–171, title X, § 10201, May 13, 2002, 116 Stat. 490.)
 
-## § 8202. Eligibility
+## § 8202. Eligibility
 
 **(a) Loss**
 
@@ -47,9 +47,9 @@ Subject to subsection (b), the Secretary shall provide assistance under section 
 
 An eligible orchardist shall qualify for assistance under subsection (a) only if the tree mortality of the eligible orchardist, as a result of damaging weather or related condition, exceeds 15 percent (adjusted for normal mortality).
 
-(Pub. L. 107–171, title X, § 10202, May 13, 2002, 116 Stat. 490.)
+(Pub. L. 107–171, title X, § 10202, May 13, 2002, 116 Stat. 490.)
 
-## § 8203. Assistance
+## § 8203. Assistance
 
 Subject to section 8204 of this title, the assistance provided by the Secretary to eligible orchardists for losses described in section 8202 of this title shall consist of—
 
@@ -57,9 +57,9 @@ Subject to section 8204 of this title, the assistance provided by the Secretary 
 
 **(2)** at the option of the Secretary, sufficient seedlings to reestablish a stand.
 
-(Pub. L. 107–171, title X, § 10203, May 13, 2002, 116 Stat. 491.)
+(Pub. L. 107–171, title X, § 10203, May 13, 2002, 116 Stat. 491.)
 
-## § 8204. Limitations on assistance
+## § 8204. Limitations on assistance
 
 **(a) Amount**
 
@@ -71,15 +71,15 @@ The total quantity of acres planted to trees or tree seedlings for which a perso
 
 **(c) Regulations** The Secretary shall promulgate regulations—
 
-**(1)** defining the term “person” for the purposes of this chapter, which shall conform, to the maximum extent practicable, to the regulations defining the term “person” promulgated under section 1308 of this title (before the amendment made by section 1603(a) 1
+**(1)** defining the term “person” for the purposes of this chapter, which shall conform, to the maximum extent practicable, to the regulations defining the term “person” promulgated under section 1308 of this title (before the amendment made by section 1603(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Food, Conservation, and Energy Act of 2008); and
 
 **(2)** promulgating such regulations as the Secretary determines necessary to ensure a fair and reasonable application of the limitation established under this section.
 
-(Pub. L. 107–171, title X, § 10204, May 13, 2002, 116 Stat. 491; Pub. L. 110–234, title I, § 1603(g)(4), May 22, 2008, 122 Stat. 1011; Pub. L. 110–246, § 4(a), title I, § 1603(g)(4), June 18, 2008, 122 Stat. 1664, 1740; Pub. L. 113–79, title I, § 1609(b)(1), Feb. 7, 2014, 128 Stat. 709.)
+(Pub. L. 107–171, title X, § 10204, May 13, 2002, 116 Stat. 491; Pub. L. 110–234, title I, § 1603(g)(4), May 22, 2008, 122 Stat. 1011; Pub. L. 110–246, § 4(a), title I, § 1603(g)(4), June 18, 2008, 122 Stat. 1664, 1740; Pub. L. 113–79, title I, § 1609(b)(1), Feb. 7, 2014, 128 Stat. 709.)
 
 **Editorial Notes**
 
@@ -93,9 +93,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2014—Subsec. (c)(1). Pub. L. 113–79 amended language inserted by Pub. L. 110–246, § 1603(g)(4). See 2008 Amendment note below.
+2014—Subsec. (c)(1). Pub. L. 113–79 amended language inserted by Pub. L. 110–246, § 1603(g)(4). See 2008 Amendment note below.
 
-2008—Subsec. (c)(1). Pub. L. 110–246, § 1603(g)(4), as amended by Pub. L. 113–79, § 1609(b)(1), inserted “(before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008)” after “section 1308 of this title”.
+2008—Subsec. (c)(1). Pub. L. 110–246, § 1603(g)(4), as amended by Pub. L. 113–79, § 1609(b)(1), inserted “(before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008)” after “section 1308 of this title”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -107,8 +107,8 @@ Amendment by Pub. L. 113–79 effective as if included in Pub. L. 110–246, see
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-## § 8205. Authorization of appropriations
+## § 8205. Authorization of appropriations
 
 There are authorized to be appropriated such sums as are necessary to carry out this chapter.
 
-(Pub. L. 107–171, title X, § 10205, May 13, 2002, 116 Stat. 491.)
+(Pub. L. 107–171, title X, § 10205, May 13, 2002, 116 Stat. 491.)

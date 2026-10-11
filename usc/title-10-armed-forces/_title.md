@@ -13,29 +13,29 @@ retrieved: 2026-10-11
 
 # Title 10—ARMED FORCES
 
-This title was enacted by act Aug. 10, 1956, ch. 1041, § 1, 70 Stat. 1126, set out beginning at 70A Stat. 1
+This title was enacted by act Aug. 10, 1956, ch. 1041, § 1, 70 Stat. 1126, set out beginning at 70A Stat. 1
 
-Current through 119-102not101
+Current through 119-102not101
 
 **Editorial Notes**
 
 **Amendments**
 
-2023—Pub. L. 118–31, div. A, title XVII, § 1711, Dec. 22, 2023, 137 Stat. 625, added item for subtitle F. Amendment was made pursuant to operation of section 102 of this title.
+2023—Pub. L. 118–31, div. A, title XVII, § 1711, Dec. 22, 2023, 137 Stat. 625, added item for subtitle F. Amendment was made pursuant to operation of section 102 of this title.
 
-2021—Pub. L. 116–283, div. A, title IX, § 923(a)(2), Jan. 1, 2021, 134 Stat. 3807, substituted “Air Force and Space Force” for “Air Force” in item for subtitle D.
+2021—Pub. L. 116–283, div. A, title IX, § 923(a)(2), Jan. 1, 2021, 134 Stat. 3807, substituted “Air Force and Space Force” for “Air Force” in item for subtitle D.
 
-2018—Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840, substituted “7001” for “3001” in item for subtitle B and “8001” for “5001” in item for subtitle C.
+2018—Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840, substituted “7001” for “3001” in item for subtitle B and “8001” for “5001” in item for subtitle C.
 
-Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840, substituted “9011” for “8001” in item for subtitle D to reflect the probable intent of Congress to include the number, as redesignated by section 806(c) of Pub. L. 115–232, of the first section of subtitle D.
+Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840, substituted “9011” for “8001” in item for subtitle D to reflect the probable intent of Congress to include the number, as redesignated by section 806(c) of Pub. L. 115–232, of the first section of subtitle D.
 
-1994—Pub. L. 103–337, div. A, title XVI, § 1671(a), Oct. 5, 1994, 108 Stat. 3013, added item for subtitle E.
+1994—Pub. L. 103–337, div. A, title XVI, § 1671(a), Oct. 5, 1994, 108 Stat. 3013, added item for subtitle E.
 
 **Table I**
 
-**(Showing disposition of all sections of former Title 10)**
+**(Showing disposition of all sections of former Title 10)**
 
-| *Title 10* *Former Sections* | *Title 10* *New Sections* |
+| *Title 10* *Former Sections* | *Title 10* *New Sections* |
 |---|---|
 | 1 | Rep. |
 | 1a(a) | 3001 |
@@ -51,12 +51,12 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 2–10 | Rep. |
 | 11 | 3536 |
 | 12–14 | Rep. |
-| 15 | T. 18 § 1385 |
+| 15 | T. 18 § 1385 |
 | 15a | 4711, 9711 |
 | 16 | 3061, 8061 |
 | 16a | 3492, 8492 |
 | 17, 17a | Rep. |
-| 18 | T. 37 § 31a (See Rev. T. 37 Table) |
+| 18 | T. 37 § 31a (See Rev. T. 37 Table) |
 | 19 | 1031 |
 | 19a | 4833 |
 | 20 | 3062, 8062 |
@@ -180,7 +180,7 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 166*l* | Rep. |
 | 171–177 | Rep. |
 | 181 | 3036, 3040, 3074, 3209, 3216 |
-| 181a | 3040, 3209, 3493; T. 33 § 583a |
+| 181a | 3040, 3209, 3493; T. 33 § 583a |
 | 181b | 3038 |
 | 181c | 3535 |
 | 181d | 3535 nt. |
@@ -190,11 +190,11 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 189 (1st sent.) | Elim. |
 | 189 (less 1st sent.) | 3534 |
 | 190 | 3534 |
-| 190a | T. 33 §§ 575, 701b–9 |
-| 190b | T. 33 §§ 576, 701b–10 |
+| 190a | T. 33 §§ 575, 701b–9 |
+| 190b | T. 33 §§ 576, 701b–10 |
 | 191–196 | Rep. |
 | 197, 197a | Elim. |
-| 198 | T. 50 § 64a |
+| 198 | T. 50 § 64a |
 | 199 | (See former 190a) |
 | 211, 212 | Rep. |
 | 213 | Elim. |
@@ -244,9 +244,9 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 300a–300c | Elim. |
 | 301, 302 | Rep. |
 | 303 | Rep. |
-| 304 | Rep. See T. 37 § 402(a)–(c) |
+| 304 | Rep. See T. 37 § 402(a)–(c) |
 | 304a | Rep. |
-| 304b | Rep. See T. 37 § 402(a)–(c) |
+| 304b | Rep. See T. 37 § 402(a)–(c) |
 | 305, 306 | Rep. |
 | 307 | Elim. |
 | 308, 308a | Rep. |
@@ -301,9 +301,9 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 369, 369a | Rep. |
 | 369b | 684 |
 | 370 | Rep. |
-| 371 | Rep. See T. 5 §§ 3551, 6323(a), (b) |
-| 371a | Rep. See T. 5 § 6323(a), (b) |
-| 371b | Rep. See T. 5 §§ 502, 5534 |
+| 371 | Rep. See T. 5 §§ 3551, 6323(a), (b) |
+| 371a | Rep. See T. 5 § 6323(a), (b) |
+| 371b | Rep. See T. 5 §§ 502, 5534 |
 | 371c | Elim. |
 | 372–375 | Rep. |
 | 376 | 3357 |
@@ -331,7 +331,7 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 451–455 | Rep. |
 | 455a–455c | 3722, 8722 |
 | 455d | Rep. |
-| 455e | 3723, 8723; T. 32 § 320 |
+| 455e | 3723, 8723; T. 32 § 320 |
 | 455f | Rep. |
 | 456 | 3687, 3688, 3721, 8687, 8688, 8721 |
 | 456–1 | 3687 nt. |
@@ -372,7 +372,7 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 506a(b), (c) | 3573, 8573 |
 | 506b(a) | Rep. |
 | 506b(b) | 3066, 3531, 8066, 8531 |
-| 506b(c) | 711. Rep. in part. See T. 37 § 414 |
+| 506b(c) | 711. Rep. in part. See T. 37 § 414 |
 | 506b(d) | 3962, 3991, 8962, 8991. Rep. in part. See 3962 nt. |
 | 506c(a) | 3284, 8284 |
 | 506c(b) | 3285, 8285 |
@@ -558,12 +558,12 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 672, 673 | Elim. |
 | 681, 682 | Elim. |
 | 683, 683a | Rep. |
-| 684 | T. 37 § 4c (See Rev. T. 37 Table) |
+| 684 | T. 37 § 4c (See Rev. T. 37 Table) |
 | 685 | Elim. |
 | 686 | Rep. |
 | 691, 692 | Rep. |
 | 693 | Elim. |
-| 694 | T. 37 § 235a (See Rev. T. 37 Table) |
+| 694 | T. 37 § 235a (See Rev. T. 37 Table) |
 | 695–699 | Rep. |
 | 711–716 | Elim. |
 | 716a | Rep. |
@@ -585,7 +585,7 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 787 | Elim. |
 | 801–811 | Rep. |
 | 821–823 | Rep. |
-| 824 | T. 5 § 73c (See Rev. T. 5 Table) |
+| 824 | T. 5 § 73c (See Rev. T. 5 Table) |
 | 825 | 4748, 9748 |
 | 831 | 4562, 9562 |
 | 832 | Elim. |
@@ -604,13 +604,13 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 849 | 3633, 8633 |
 | 850–852 | Rep. |
 | 861, 861a | Rep. |
-| 862 | T. 37 § 310b (See Rev. T. 37 Table) |
-| 862a | T. 31 § 493b |
+| 862 | T. 37 § 310b (See Rev. T. 37 Table) |
+| 862a | T. 31 § 493b |
 | 862b | Rep. |
 | 863–866j | Rep. |
 | 867 | Rep. |
 | 868 | 2771 |
-| 869 | T. 31 § 492d |
+| 869 | T. 31 § 492d |
 | 870 | Rep. |
 | 871, 872 | 4837, 9837 |
 | 873, 874 | Rep. |
@@ -681,7 +681,7 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 986 | Rep. |
 | 990–996 | Rep. |
 | 997 | 3504 |
-| 998 | T. 32 § 314 |
+| 998 | T. 32 § 314 |
 | 999 | 3503, 8503 |
 | 1001 | 3966, 8966 |
 | 1002, 1003 | 3963, 3991, 8963, 8991 |
@@ -698,7 +698,7 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 1025 | 3961, 8961 |
 | 1026 | 3961, 3962, 3991 |
 | 1026a | Rep. |
-| 1026b | T. 33 § 642a |
+| 1026b | T. 33 § 642a |
 | 1026b–1, 1026c | Rep. |
 | 1027–1028a | Rep. |
 | 1028b | 772 |
@@ -760,7 +760,7 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 1093 | 4345, 9345 |
 | 1093a, 1093b | Rep. |
 | 1093c | 4344, 9344 |
-| 1093d | T. 20 § 221a |
+| 1093d | T. 20 § 221a |
 | 1094 | Rep. |
 | 1095, 1096 | 4346, 9346 |
 | 1097 | Rep. |
@@ -785,11 +785,11 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 1145 | Elim. |
 | 1146–1149 | Rep. |
 | 1149a | 4350, 9350 |
-| 1150 | T. 37 § 308a (See Rev. T. 37 Table) |
+| 1150 | T. 37 § 308a (See Rev. T. 37 Table) |
 | 1151 | Rep. |
 | 1161 | Rep. |
 | 1161a | 4333 nt. |
-| 1162 | T. 44 § 87 (See Rev. T. 44 Table) |
+| 1162 | T. 44 § 87 (See Rev. T. 44 Table) |
 | 1163 | 4352, 9352 |
 | 1171 | Rep. |
 | 1172 | 4302, 9302 |
@@ -840,7 +840,7 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 1254 | 4624, 9624 |
 | 1255, 1256 | 2542 |
 | 1257 | Rep. |
-| 1257a | T. 5 § 150p (See Rev. T. 5 Table) |
+| 1257a | T. 5 § 150p (See Rev. T. 5 Table) |
 | 1257b | 2573 |
 | 1258 | Rep. |
 | 1259 | 4682, 9682 |
@@ -864,7 +864,7 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 1289 | Rep. |
 | 1301 | 4832, 9832 |
 | 1302 | 4838, 9838 |
-| 1303 | 4839, 9839. See T. 18 § 702 |
+| 1303 | 4839, 9839. See T. 18 § 702 |
 | 1304 | 4835 |
 | 1305 | 9835 |
 | 1311 | Rep. |
@@ -899,14 +899,14 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 1344 | 4771, 9771 |
 | 1345 | 4779, 9779 |
 | 1346 | 4778, 9778 |
-| 1347 | T. 36 § 12 |
+| 1347 | T. 36 § 12 |
 | 1348 | 4777, 9777 |
 | 1349 | Rep. |
 | 1350 | Elim. |
 | 1351 | 2669 |
 | 1352–1354 | Rep. |
 | 1361 | 4742, 9742 |
-| 1362 | T. 49 § 6 |
+| 1362 | T. 49 § 6 |
 | 1363 | 4741, 9741 |
 | 1364 | Rep. |
 | 1365 | 2631 |
@@ -946,7 +946,7 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 1423a, 1423b | Rep. |
 | 1423c | Elim. |
 | 1424 | 3748, 8748 |
-| 1425 | Rep. See T. 18 § 704 |
+| 1425 | Rep. See T. 18 § 704 |
 | 1426 | Elim. |
 | 1427 | 1123 |
 | 1428 | 3750, 8750 |
@@ -969,7 +969,7 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 1579 | (See former 629) |
 | 1580 | (See former 652a) |
 | 1581–1583 | Rep. |
-| 1584–1584c | T. 5 § 150j to 150j–3 (See Rev. T. 5 Table) |
+| 1584–1584c | T. 5 § 150j to 150j–3 (See Rev. T. 5 Table) |
 | 1585 | (See former 15a) |
 | 1586–1590 | Rep. |
 | 1591 | (See former 507) |
@@ -995,7 +995,7 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 1832 | 8075 |
 | 1833 | 8076 |
 | 1834 | Rep. |
-| 1835 | 101, 8078; T. 32 § 101 |
+| 1835 | 101, 8078; T. 32 § 101 |
 | 1836 | Rep. |
 | 1837 | 8067, 8211, 8296, 8574 |
 | 1838, 1839 | 8074 |
@@ -1034,9 +1034,9 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 
 **Table II**
 
-**(Showing disposition of all sections of former Title 34)**
+**(Showing disposition of all sections of former Title 34)**
 
-| *Title 34* *Former Sections* | *Title 10* *New Sections* |
+| *Title 34* *Former Sections* | *Title 10* *New Sections* |
 |---|---|
 | 1 | 5501 |
 | 2 | 5403, 5405 |
@@ -1054,7 +1054,7 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 3c(c) | 5596 |
 | 3c(d) | 5784, 5788 |
 | 3c(e) | 5596, 5784, 6326 |
-| 3c(f) | See T. 37 § 415 |
+| 3c(f) | See T. 37 § 415 |
 | 3c(g) | 5596 |
 | 3c(h) | 5596, 5784, 5786, 5788 |
 | 3c(i) | Rep. |
@@ -1148,8 +1148,8 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 51b (less (c)–(f)) | 5572, 5578 |
 | 51c | 5578, 5787a |
 | 52 | 5578 |
-| 53, 54 | T. 5 §§ 456b, 456c (See Rev. T. 5 Table) |
-| 55 | T. 5 § 456d (See Rev. T. 5 Table) |
+| 53, 54 | T. 5 §§ 456b, 456c (See Rev. T. 5 Table) |
+| 55 | T. 5 § 456d (See Rev. T. 5 Table) |
 | 61 | 5575 |
 | 61a–63 | Rep. |
 | 64–66 | 6026 |
@@ -1194,12 +1194,12 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 135(a), (b) | 101 |
 | 135(c) | 564 |
 | 135(d) | 564, 1166, 1167, 1255, 1263, 1293, 1305. Rep. in part. See 1164 nt. |
-| 135a | 555, 597, 5503, 5596–5593, 5787; T. 14 §§ 435–438 |
+| 135a | 555, 597, 5503, 5596–5593, 5787; T. 14 §§ 435–438 |
 | 135b | Rep. |
-| 135c | 555, 556, 597, 5596–5598, 5787; T. 14 §§ 435–438 |
+| 135c | 555, 556, 597, 5596–5598, 5787; T. 14 §§ 435–438 |
 | 135d | 515, 1165 |
 | 135e, 135f | Rep. |
-| 135g | T. 14 §§ 435–438 |
+| 135g | T. 14 §§ 435–438 |
 | 141–146 | Rep. |
 | 151 | 5401 |
 | 152 | Rep. |
@@ -1219,9 +1219,9 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 184 | 5539 |
 | 185 | 5537 |
 | 186 | 5538 |
-| 187 | 5531. Rep in part. See T. 14 § 350 |
-| 188 | 5534. Rep. in part. See T. 14 § 351 |
-| 189 | Rep. See T. 14 §§ 350, 351 |
+| 187 | 5531. Rep in part. See T. 14 § 350 |
+| 188 | 5534. Rep. in part. See T. 14 § 351 |
+| 189 | Rep. See T. 14 §§ 350, 351 |
 | 191 | 5401, 5410, 5412, 6296 |
 | 192, 193 | 6291 |
 | 194 | Rep. |
@@ -1282,7 +1282,7 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 228 | 6406 |
 | 228a | Elim. |
 | 228b, 229 | Rep. |
-| 230 | T. 37 § 4c–1 (See Rev. T. 37 Table) |
+| 230 | T. 37 § 4c–1 (See Rev. T. 37 Table) |
 | 231, 232 | Rep. |
 | 233 | 5862 |
 | 234, 235 | Rep. |
@@ -1411,7 +1411,7 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 311–313a | Rep. |
 | 314 | 5788 |
 | 321–324 | Rep. |
-| 330 | 557, 598, 5596–5598, 5787; T. 14 §§ 435–438 |
+| 330 | 557, 598, 5596–5598, 5787; T. 14 §§ 435–438 |
 | 330a | 558 |
 | 330b | 559, 561 |
 | 330c | 560, 562 |
@@ -1441,25 +1441,25 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 345–347 | 5789 |
 | 348–348u | Rep. |
 | 349–349k | Rep. |
-| 350, 350a | 5597, 5787; T. 14 §§ 435–438 |
-| 350b | 5787; T. 14 §§ 435–438 |
-| 350c(a) | 5597, 5787; T. 14 §§ 435–438 |
+| 350, 350a | 5597, 5787; T. 14 §§ 435–438 |
+| 350b | 5787; T. 14 §§ 435–438 |
+| 350c(a) | 5597, 5787; T. 14 §§ 435–438 |
 | 350c(b) | Rep. |
-| 350d | 5597, 5787, 6395; T. 14 §§ 435–438 |
-| 350e | 5501, 5597, 5787; T. 14 §§ 435–438 |
+| 350d | 5597, 5787, 6395; T. 14 §§ 435–438 |
+| 350e | 5501, 5597, 5787; T. 14 §§ 435–438 |
 | 350f(a) (1st, 3d, 4th provisos) | Rep. |
-| 350f(a) (less 1st, 3d, 4th provisos) | 5597, 5787, 6326; T. 14 §§ 435–438 |
-| 350f(b) | Rep. See T. 37 § 414 |
+| 350f(a) (less 1st, 3d, 4th provisos) | 5597, 5787, 6326; T. 14 §§ 435–438 |
+| 350f(b) | Rep. See T. 37 § 414 |
 | 350g | Rep. |
-| 350h | 5442–5444, 5447–5449; T. 14 §§ 758a, 759a |
-| 350i(a) | 5597, 5787, 6488; T. 14 §§ 435–438, 758a, 759a |
+| 350h | 5442–5444, 5447–5449; T. 14 §§ 758a, 759a |
+| 350i(a) | 5597, 5787, 6488; T. 14 §§ 435–438, 758a, 759a |
 | 350i(b)(1) | Rep. |
-| 350i(b)(2) | 6151. Rep. in part. See T. 42 § 212(g) |
+| 350i(b)(2) | 6151. Rep. in part. See T. 42 § 212(g) |
 | 350i(c) | Rep. |
 | 350i(d) | 6488 |
 | 350i(e) | 6161, 6326 |
-| 350j | 5597, 5787. Rep. in part. See T. 14 § 351; T. 42 § 212(g) |
-| 350k | 5597, 5787. Rep. in part. See T. 42 § 212(g) |
+| 350j | 5597, 5787. Rep. in part. See T. 14 § 351; T. 42 § 212(g) |
+| 350k | 5597, 5787. Rep. in part. See T. 42 § 212(g) |
 | 351–353 | Rep. |
 | 354 | 6241 |
 | 355 | 6243 |
@@ -1475,9 +1475,9 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 362 | 6249 |
 | 363 | 6250 |
 | 364 | 6245, 6247, 6249–6252 |
-| 364a | T. 14 § 492a. Rep. in part. See T. 14 §§ 494, 497 |
+| 364a | T. 14 § 492a. Rep. in part. See T. 14 §§ 494, 497 |
 | 364b | Rep. |
-| 365 | T. 38 §§ 391–394 (See Rev. T. 38 Table) |
+| 365 | T. 38 §§ 391–394 (See Rev. T. 38 Table) |
 | 366 | Elim. |
 | 367 | 7218 |
 | 371 | 1123 |
@@ -1554,7 +1554,7 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 423a | Rep. |
 | 424–426 | 5982 |
 | 427 | Rep. |
-| 428 | 5507, 6487. Rep. in part. See T. 42 § 212(g) |
+| 428 | 5507, 6487. Rep. in part. See T. 42 § 212(g) |
 | 429 (proviso) | Rep. |
 | 429 (less proviso) | 5507 |
 | 430(a) | 1293 |
@@ -1651,7 +1651,7 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 506–508 | Rep. |
 | 509 | 7475 |
 | 510–514 | Rep. |
-| 520 | T. 33 § 733; T. 40 § 255 (See Rev. T. 40 Table); T. 50 § 175 |
+| 520 | T. 33 § 733; T. 40 § 255 (See Rev. T. 40 Table); T. 50 § 175 |
 | 520a | Rep. |
 | 521 | 7219 |
 | 522 | Rep. |
@@ -1680,7 +1680,7 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 532–532a | Rep. |
 | 533, 533a | 7601 |
 | 534 | Rep. |
-| 535 | Rep. See T. 14 §§ 144, 145 |
+| 535 | Rep. See T. 14 §§ 144, 145 |
 | 536 | 7603 |
 | 537 | 6155 |
 | 538 | 7602 |
@@ -1690,9 +1690,9 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 541 | 4564, 9564 |
 | 542 | 7604 |
 | 543, 544 | Rep. |
-| 544a | T. 31 § 495a |
+| 544a | T. 31 § 495a |
 | 545 | 2574 |
-| 546 | T. 5 § 150p (See Rev. T. 5 Table) |
+| 546 | T. 5 § 150p (See Rev. T. 5 Table) |
 | 546a | Rep. |
 | 546b | 7541 |
 | 546c | Rep. |
@@ -1743,7 +1743,7 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 600b | 7624 |
 | 600c, 600d | 7623 |
 | 601–603 | Rep. |
-| 604 | T. 37 § 31a (See Rev. T. 37 Table) |
+| 604 | T. 37 § 31a (See Rev. T. 37 Table) |
 | 605 | 7215 |
 | 606 | 7214 |
 | 607 | Rep. |
@@ -1885,16 +1885,16 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 822 | 6901 |
 | 831 | Rep. |
 | 841 | Rep. |
-| 841a–841e | 6915; T. 14 §§ 758a, 759a |
+| 841a–841e | 6915; T. 14 §§ 758a, 759a |
 | 841f | Rep. |
-| 841g | T. 14 §§ 758a, 759a |
-| 841h | 6915; T. 14 §§ 758a, 759a |
+| 841g | T. 14 §§ 758a, 759a |
+| 841h | 6915; T. 14 §§ 758a, 759a |
 | 842–843a | Rep. |
 | 844 to 849d–1 | Rep. |
 | 849e–849i | Rep. |
 | 850 | Rep. |
 | 850a, 850b | 6911 |
-| 850c | 6912. Rep. in part. See T. 37 § 402(a)–(c) |
+| 850c | 6912. Rep. in part. See T. 37 § 402(a)–(c) |
 | 850d | Rep. |
 | 850e | 6912 |
 | 850f, 850g | 6913 |
@@ -1944,14 +1944,14 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 864a | 5701 nt. |
 | 864b | 5507 |
 | 865 | Rep. |
-| 865a | T. 37 § 257 (See Rev. T. 37 Table) |
+| 865a | T. 37 § 257 (See Rev. T. 37 Table) |
 | 865b | 5062 |
 | 866–869 | Rep. |
 | 870 | 5788 |
 | 870a | Elim. |
 | 871–875 | Rep. |
-| 875a | T. 37 § 310c (See Rev. T. 37 Table) |
-| 875b | T. 37 § 310d (See Rev. T. 37 Table) |
+| 875a | T. 37 § 310c (See Rev. T. 37 Table) |
+| 875b | T. 37 § 310d (See Rev. T. 37 Table) |
 | 876–877a | Rep. |
 | 878 | Rep. |
 | 879 | 6321, 6322, 6326 |
@@ -1973,7 +1973,7 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 895–895a | Rep. |
 | 896–896b | Rep. |
 | 897 | Rep. |
-| 898 | 6157; T. 14 § 471a |
+| 898 | 6157; T. 14 § 471a |
 | 899 | Rep. |
 | 899a | 7523 |
 | 900 | Rep. |
@@ -2010,8 +2010,8 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 942 | 6522 |
 | 943, 944 | 6521 |
 | 945 | Elim. |
-| 951 | T. 37 § 243 (See Rev. T. 37 Table) |
-| 952 | T. 37 § 244 (See Rev. T. 37 Table) |
+| 951 | T. 37 § 243 (See Rev. T. 37 Table) |
+| 952 | T. 37 § 244 (See Rev. T. 37 Table) |
 | 953 | 6145 |
 | 954 | 6144 |
 | 961 | 6147 |
@@ -2068,7 +2068,7 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 1057 (3d sent. less proviso) | 5504 |
 | 1057 (less 3d sent.) | 5573 |
 | 1057–1 | 541 |
-| 1057a (last sent.) | Rep. See 4353 nt., 6967 nt.; T. 46 § 1126a–1 nt. |
+| 1057a (last sent.) | Rep. See 4353 nt., 6967 nt.; T. 46 § 1126a–1 nt. |
 | 1057a (less last sent.) | 6976 |
 | 1057a–1 | (See former 1076f) |
 | 1057b | Rep. |
@@ -2117,14 +2117,14 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 | 1116 | Rep. |
 | 1117 | Elim. |
 | 1118–1120 | 6974 |
-| 1121 | T. 46 § 1335 |
-| 1122 | T. 46 § 1336 |
-| 1123 | 5985. Rep. in part. See T. 46 § 1337 |
-| 1123a | T. 46 § 1337 |
-| 1123b | T. 46 § 1338 |
-| 1123c | T. 46 § 1339 |
-| 1123d | T. 46 § 1340 |
-| 1123e | T. 46 § 1341 |
+| 1121 | T. 46 § 1335 |
+| 1122 | T. 46 § 1336 |
+| 1123 | 5985. Rep. in part. See T. 46 § 1337 |
+| 1123a | T. 46 § 1337 |
+| 1123b | T. 46 § 1338 |
+| 1123c | T. 46 § 1339 |
+| 1123d | T. 46 § 1340 |
+| 1123e | T. 46 § 1341 |
 | 1123f–1125 | Rep. |
 | 1126 | 5986 |
 | 1127 | Rep. |
@@ -2173,15 +2173,15 @@ Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 184
 
 **Positive Law; Citation**
 
-This title has been enacted into positive law by section 1 of act Aug. 10, 1956, ch. 1041, 70A Stat. 1, which provided in part that: “Title 10 of the United States Code, entitled ‘Armed Forces’, is revised, codified, and enacted into law, and may be cited as ‘Title 10, United States Code, § —.’ ”
+This title has been enacted into positive law by section 1 of act Aug. 10, 1956, ch. 1041, 70A Stat. 1, which provided in part that: “Title 10 of the United States Code, entitled ‘Armed Forces’, is revised, codified, and enacted into law, and may be cited as ‘Title 10, United States Code, § —.’ ”
 
 **Repeals**
 
-Act Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641, repealed the sections or parts of sections of the Revised Statutes or Statutes at Large covering provisions codified in this act, “except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before the effective date of this act [Aug. 10, 1956] and except as provided in section 49.”
+Act Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641, repealed the sections or parts of sections of the Revised Statutes or Statutes at Large covering provisions codified in this act, “except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before the effective date of this act [Aug. 10, 1956] and except as provided in section 49.”
 
 **Savings Provision and Separability**
 
-Act Aug. 10, 1956, ch. 1041, § 49, 70A Stat. 640, provided that:
+Act Aug. 10, 1956, ch. 1041, § 49, 70A Stat. 640, provided that:
 
 > **“(a)** In sections 1–48 of this Act [see Tables for classification], it is the legislative purpose to restate, without substantive change, the law replaced by those sections on the effective date of this Act [Aug. 10, 1956]. However, laws effective after March 31, 1955, that are inconsistent with this Act shall be considered as superseding it to the extent of the inconsistency.
 
@@ -2199,15 +2199,15 @@ Act Aug. 10, 1956, ch. 1041, § 49, 70A Stat. 640, provided that:
 
 **Effective Date of Uniform Code of Military Justice**
 
-Act Aug. 10, 1956, ch. 1041, § 51, 70A Stat. 640, provided that chapter 47 of this title takes effect January 1, 1957.
+Act Aug. 10, 1956, ch. 1041, § 51, 70A Stat. 640, provided that chapter 47 of this title takes effect January 1, 1957.
 
 **Restatement of Suspended or Temporarily Superseded Provisions**
 
-Act Aug. 10, 1956, ch. 1041, § 50, 70A Stat. 640, provided that: “If on the effective date of this Act [Aug. 10, 1956] a provision of law that is restated in this Act and repealed by section 53 would have been in a suspended or temporarily superseded status but for its repeal, the provisions of this Act that restate that provision have the same suspended or temporarily superseded status.”
+Act Aug. 10, 1956, ch. 1041, § 50, 70A Stat. 640, provided that: “If on the effective date of this Act [Aug. 10, 1956] a provision of law that is restated in this Act and repealed by section 53 would have been in a suspended or temporarily superseded status but for its repeal, the provisions of this Act that restate that provision have the same suspended or temporarily superseded status.”
 
 **Improvement of United States Code by Pub. L. 85–861; Legislative Purpose; Repeal of Inconsistent Provisions; Corresponding Provisions; Savings Provision and Separability; Status; Repeals**
 
-Pub. L. 85–861, § 34, Sept. 2, 1958, 72 Stat. 1568, provided that:
+Pub. L. 85–861, § 34, Sept. 2, 1958, 72 Stat. 1568, provided that:
 
 > **“(a)** In sections 1–32 of this Act [see Tables for classification], it is the legislative purpose to restate, without substantive change, the law replaced by those sections on the effective date of this Act [Sept. 2, 1958]. However, laws effective after December 31, 1957, that are inconsistent with this Act shall be considered as superseding it to the extent of the inconsistency.
 
@@ -2219,13 +2219,13 @@ Pub. L. 85–861, § 34, Sept. 2, 1958, 72 Stat. 1568, provided that:
 
 > **“(e)** The enactment of this Act does not increase or decrease the pay or allowances, including retired and retainer pay, of any person.”
 
-Pub. L. 85–861, § 35, Sept. 2, 1958, 72 Stat. 1568, provided that: “If on the effective date of this Act [Sept. 2, 1958] a provision of law that is restated in this Act and repealed by section 36 would have been in a suspended or temporarily superseded status but for its repeal, the provisions of this Act that restate that provision have the same suspended or temporarily superseded status.”
+Pub. L. 85–861, § 35, Sept. 2, 1958, 72 Stat. 1568, provided that: “If on the effective date of this Act [Sept. 2, 1958] a provision of law that is restated in this Act and repealed by section 36 would have been in a suspended or temporarily superseded status but for its repeal, the provisions of this Act that restate that provision have the same suspended or temporarily superseded status.”
 
-Pub. L. 85–861, § 36, Sept. 2, 1958, 72 Stat. 1568, repealed certain laws except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before Sept. 2, 1958.
+Pub. L. 85–861, § 36, Sept. 2, 1958, 72 Stat. 1568, repealed certain laws except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before Sept. 2, 1958.
 
 **Improvement of United States Code by Pub. L. 87–651; Inconsistent Provisions Superseded; Corresponding Provisions**
 
-Pub. L. 87–651, title III, § 306, Sept. 7, 1962, 76 Stat. 526, provided that:
+Pub. L. 87–651, title III, § 306, Sept. 7, 1962, 76 Stat. 526, provided that:
 
 > **“(a)** Laws becoming effective after January 9, 1962, that are inconsistent with this Act [see Tables for classification] shall be considered as superseding it to the extent of the inconsistency.
 
@@ -2237,7 +2237,7 @@ Pub. L. 87–651, title III, § 306, Sept. 7, 1962, 76 Stat. 526, provided tha
 
 **Improvement of United States Code by Pub. L. 89–718; Inconsistent Provisions Superseded; Corresponding Provisions**
 
-Pub. L. 89–718, § 74, Nov. 2, 1966, 80 Stat. 1124, provided that:
+Pub. L. 89–718, § 74, Nov. 2, 1966, 80 Stat. 1124, provided that:
 
 > **“(a)** Laws becoming effective after June 1, 1965, that are inconsistent with this Act shall be considered as superseding it to the extent of the inconsistency.
 
@@ -2247,7 +2247,7 @@ Pub. L. 89–718, § 74, Nov. 2, 1966, 80 Stat. 1124, provided that:
 
 **Improvement of United States Code by Pub. L. 97–295; Legislative Purpose; Repeal of Inconsistent Provisions; Corresponding Provisions; Savings Provision and Separability**
 
-Pub. L. 97–295, § 5, Oct. 12, 1982, 96 Stat. 1313, provided that:
+Pub. L. 97–295, § 5, Oct. 12, 1982, 96 Stat. 1313, provided that:
 
 > **“(a)** Sections 1–4 of this Act [see Tables for classification] restate, without substantive change, laws enacted before December 2, 1981, that were replaced by those sections. Those sections may not be construed as making a substantive change in the laws replaced. Laws enacted after December 1, 1981, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.
 
@@ -2261,13 +2261,13 @@ Pub. L. 97–295, § 5, Oct. 12, 1982, 96 Stat. 1313, provided that:
 
 > **“(f)** If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision of this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
-Pub. L. 97–295, § 6(a), Oct. 12, 1982, 96 Stat. 1314, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+Pub. L. 97–295, § 6(a), Oct. 12, 1982, 96 Stat. 1314, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
 
-Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314, repealed certain sections or parts of sections of the Statutes at Large, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Oct. 12, 1982.
+Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314, repealed certain sections or parts of sections of the Statutes at Large, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Oct. 12, 1982.
 
 **Improvement of United States Code by Pub. L. 100–370; Corresponding Provisions; Savings Provision**
 
-Pub. L. 100–370, § 4, July 19, 1988, 102 Stat. 856, provided that:
+Pub. L. 100–370, § 4, July 19, 1988, 102 Stat. 856, provided that:
 
 > **“(a) References to Replaced Laws.—** A reference to a law replaced by the provisions of title 10, United States Code, enacted by this Act [see Tables for classification] (including a reference in a regulation, order, or other law) shall be treated as referring to the corresponding provision enacted by this Act.
 
@@ -2277,7 +2277,7 @@ Pub. L. 100–370, § 4, July 19, 1988, 102 Stat. 856, provided that:
 
 **Improvement of United States Code by Pub. L. 101–510; Corresponding Provisions; Savings Provision**
 
-Pub. L. 101–510, div. A, title XIV, § 1481(k), Nov. 5, 1990, 104 Stat. 1709, provided that:
+Pub. L. 101–510, div. A, title XIV, § 1481(k), Nov. 5, 1990, 104 Stat. 1709, provided that:
 
 > **“(1)** A reference to a law replaced by the provisions of title 10, United States Code, enacted by this section [enacting sections 129b, 1056, 2245, 2549, 2550, 2678, and 2732 of this title, amending sections 114, 1584, 1593, 2701, 2734, 2734a, and 2734b of this title, enacting provisions set out as a note under section 1056 of this title, and repealing provisions set out as notes under sections 113, 114, 1584, 1593, 2241, and 2701 of this title] (including a reference in a regulation, order, or other law) shall be treated as referring to the corresponding provision enacted by this section.
 
@@ -2287,9 +2287,9 @@ Pub. L. 101–510, div. A, title XIV, § 1481(k), Nov. 5, 1990, 104 Stat. 1709
 
 **Improvement of United States Code by Pub. L. 103–337; Corresponding Provisions; Savings Provision**
 
-Pub. L. 103–337, div. A, title XVI, § 1665, Oct. 5, 1994, 108 Stat. 3012, provided that:
+Pub. L. 103–337, div. A, title XVI, § 1665, Oct. 5, 1994, 108 Stat. 3012, provided that:
 
-> **“(a) References to Transferred or Replaced Provisions.—** A reference to a provision of title 10, United States Code, transferred or replaced by the provisions of sections 1661 through 1664 [see Tables for classification] (including a reference in a regulation, order, or other law) shall be treated as referring to that provision as transferred or to the corresponding provision as so enacted by this subtitle [subtitle C (§§ 1661–1665) of title XVI of div. A of Pub. L. 103–337].
+> **“(a) References to Transferred or Replaced Provisions.—** A reference to a provision of title 10, United States Code, transferred or replaced by the provisions of sections 1661 through 1664 [see Tables for classification] (including a reference in a regulation, order, or other law) shall be treated as referring to that provision as transferred or to the corresponding provision as so enacted by this subtitle [subtitle C (§§ 1661–1665) of title XVI of div. A of Pub. L. 103–337].
 
 > **“(b) Savings Provision for Regulations.—** A regulation, rule, or order in effect under a provision of title 10, United States Code, replaced by a provision of that title enacted by sections 1661 through 1664 shall continue in effect under the corresponding provision so enacted until repealed, amended, or superseded.
 
@@ -2301,155 +2301,155 @@ Pub. L. 103–337, div. A, title XVI, § 1665, Oct. 5, 1994, 108 Stat. 3012, p
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title VIII, § 811(a)(1), title XVII, § 1701(a)(1), div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 948, 1207, 1336, substituted “Other Matters Relating to Awarding of Contracts” for “Other Matters Relating to Awarding and Types of Contracts” in item for chapter 243, struck out item for chapter 345 “Acquisition of Information Technology”, and added items for subpart B of part VI and chapters 601 to 608 of subpart B. Amendments were made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title VIII, § 811(a)(1), title XVII, § 1701(a)(1), div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 948, 1207, 1336, substituted “Other Matters Relating to Awarding of Contracts” for “Other Matters Relating to Awarding and Types of Contracts” in item for chapter 243, struck out item for chapter 345 “Acquisition of Information Technology”, and added items for subpart B of part VI and chapters 601 to 608 of subpart B. Amendments were made pursuant to operation of section 102 of this title.
 
-2024—Pub. L. 118–159, div. A, title XVI, § 1649(a), title XVII, § 1701(a)(1), Dec. 23, 2024, 138 Stat. 2187, 2202, added items for chapters 19, 25, 327, 363, and 367 and part VI containing items for subpart A and chapter 551, struck out former items for chapters 19 “Cyber Matters”, 25 “Electronic Warfare”, 326 “Weapon Systems Development And Related Matters”, 363 “Prohibitions and Penalties”, and 367 “Other Administrative and Miscellaneous Provisions”, and struck out second item for subpart F “major systems, major defense acquisition programs, and weapon systems development” including chapters 321 “General Matters”, 322 “Major Systems and Major Defense Acquisition Programs Generally”, 323 “Life-Cycle And Sustainment”, 324 “Program Status—Selected Acquisition Reports”, 325 “Cost Growth—Unit Cost Reports (Nunn-McCurdy)”, and 327 “Weapon Systems Development and Related Matters”. Amendment adding items for part VI, subpart A, and chapter 551 was made pursuant to operation of section 102 of this title.
+2024—Pub. L. 118–159, div. A, title XVI, § 1649(a), title XVII, § 1701(a)(1), Dec. 23, 2024, 138 Stat. 2187, 2202, added items for chapters 19, 25, 327, 363, and 367 and part VI containing items for subpart A and chapter 551, struck out former items for chapters 19 “Cyber Matters”, 25 “Electronic Warfare”, 326 “Weapon Systems Development And Related Matters”, 363 “Prohibitions and Penalties”, and 367 “Other Administrative and Miscellaneous Provisions”, and struck out second item for subpart F “major systems, major defense acquisition programs, and weapon systems development” including chapters 321 “General Matters”, 322 “Major Systems and Major Defense Acquisition Programs Generally”, 323 “Life-Cycle And Sustainment”, 324 “Program Status—Selected Acquisition Reports”, 325 “Cost Growth—Unit Cost Reports (Nunn-McCurdy)”, and 327 “Weapon Systems Development and Related Matters”. Amendment adding items for part VI, subpart A, and chapter 551 was made pursuant to operation of section 102 of this title.
 
-2023—Pub. L. 118–31, div. A, title XVIII, § 1801(a)(1)(G), Dec. 22, 2023, 137 Stat. 683, which directed the insertion of new items for subpart F and chapters 321 to 326 after the item relating to chapter 307, was so executed, notwithstanding that items for subpart F and chapters 321 to 327 (which chapter items did not include designators indicating the first section of each chapter) had been added previously by Pub. L. 116–283, div. A, title XVIII, § 1846(a), Jan. 1, 2021, 134 Stat. 4247. See 2021 Amendment note below.
+2023—Pub. L. 118–31, div. A, title XVIII, § 1801(a)(1)(G), Dec. 22, 2023, 137 Stat. 683, which directed the insertion of new items for subpart F and chapters 321 to 326 after the item relating to chapter 307, was so executed, notwithstanding that items for subpart F and chapters 321 to 327 (which chapter items did not include designators indicating the first section of each chapter) had been added previously by Pub. L. 116–283, div. A, title XVIII, § 1846(a), Jan. 1, 2021, 134 Stat. 4247. See 2021 Amendment note below.
 
-Pub. L. 118–31, div. A, title XVI, § 1682(b), title XVIII, § 1801(a)(1)(A)–(F), (H), Dec. 22, 2023, 137 Stat. 617, 682, 683, added items for chapters 25, 113, 207, 287, 305, and 383 and items for Reserved chapters 225 and 272 and struck out former items for chapters 113 “Defense Civilian Training Corps”, 207 “Budgeting and Appropriations Matters”, 225 “Planning and Solicitation Relating to Particular Items or Services”, 272 “Other Provisions Relating to Cost or Pricing Data”, 287 “Other Contracting Programs”, 305 “Universities”, and 383 “Development, Application, & Support of Dual-Use Technologies”.
+Pub. L. 118–31, div. A, title XVI, § 1682(b), title XVIII, § 1801(a)(1)(A)–(F), (H), Dec. 22, 2023, 137 Stat. 617, 682, 683, added items for chapters 25, 113, 207, 287, 305, and 383 and items for Reserved chapters 225 and 272 and struck out former items for chapters 113 “Defense Civilian Training Corps”, 207 “Budgeting and Appropriations Matters”, 225 “Planning and Solicitation Relating to Particular Items or Services”, 272 “Other Provisions Relating to Cost or Pricing Data”, 287 “Other Contracting Programs”, 305 “Universities”, and 383 “Development, Application, & Support of Dual-Use Technologies”.
 
-2022—Pub. L. 117–263, div. A, title VIII, § 804(b), title X, § 1081(a)(1), (e)(2), Dec. 23, 2022, 136 Stat. 2701, 2797, 2798, substituted “Definitions, Rules of Construction, Cross References, and Related Matters” for “Definitions” in item for chapter 1, struck out second item for chapter 19 “Cyber Matters”, and added item for chapter 253 and struck out former item for chapter 253 “[Reserved]”. Amendment to item for chapter 1 was made pursuant to operation of section 102 of this title.
+2022—Pub. L. 117–263, div. A, title VIII, § 804(b), title X, § 1081(a)(1), (e)(2), Dec. 23, 2022, 136 Stat. 2701, 2797, 2798, substituted “Definitions, Rules of Construction, Cross References, and Related Matters” for “Definitions” in item for chapter 1, struck out second item for chapter 19 “Cyber Matters”, and added item for chapter 253 and struck out former item for chapter 253 “[Reserved]”. Amendment to item for chapter 1 was made pursuant to operation of section 102 of this title.
 
-2021—Pub. L. 117–81, div. A, title XVII, § 1701(i)(8)(A), (*l*)(2), Dec. 27, 2021, 135 Stat. 2142, 2144, which directed amendment of this analysis by substituting “[Reserved]” for “Foreign Acquisitions” and starting section number 3881 in item for chapter 283 and by adding item for chapter 287 and striking out former item for chapter 287 “Socioeconomic Programs”, was executed by amending this analysis as directed, notwithstanding that other amendments by section 1701(i) and (*l*) of Pub. L. 117–81 were directed to Pub. L. 116–283, and not to the Code directly, and that such amendments are effective as if included in title XVIII of Pub. L. 116–283.
+2021—Pub. L. 117–81, div. A, title XVII, § 1701(i)(8)(A), (*l*)(2), Dec. 27, 2021, 135 Stat. 2142, 2144, which directed amendment of this analysis by substituting “[Reserved]” for “Foreign Acquisitions” and starting section number 3881 in item for chapter 283 and by adding item for chapter 287 and striking out former item for chapter 287 “Socioeconomic Programs”, was executed by amending this analysis as directed, notwithstanding that other amendments by section 1701(i) and (*l*) of Pub. L. 117–81 were directed to Pub. L. 116–283, and not to the Code directly, and that such amendments are effective as if included in title XVIII of Pub. L. 116–283.
 
-Pub. L. 117–81, div. A, title XVII, § 1701(i)(5)(A), (B)(ii), Dec. 27, 2021, 135 Stat. 2141, made similar amendments, resulting in the substitution of “[Reserved]” for “Rapid Acquisition Procedures” and starting section number 3601 in item for chapter 253. Section 1701(i)(5)(B)(ii) amended Pub. L. 116–283, div. A, title XVIII, § 1824(b), Jan. 1, 2021, 134 Stat. 4205, which had added the item for chapter 253, while section 1701(i)(5)(A) amended this analysis directly.
+Pub. L. 117–81, div. A, title XVII, § 1701(i)(5)(A), (B)(ii), Dec. 27, 2021, 135 Stat. 2141, made similar amendments, resulting in the substitution of “[Reserved]” for “Rapid Acquisition Procedures” and starting section number 3601 in item for chapter 253. Section 1701(i)(5)(B)(ii) amended Pub. L. 116–283, div. A, title XVIII, § 1824(b), Jan. 1, 2021, 134 Stat. 4205, which had added the item for chapter 253, while section 1701(i)(5)(A) amended this analysis directly.
 
-Pub. L. 117–81, div. A, title XVII, § 1701(g), Dec. 27, 2021, 135 Stat. 2140, substituted “3061”, “3101”, and “3131”, for “3021”, “3051”, and “3101”, respectively, in items for chapters 203, 205, and 207, added item for chapter 247 and struck out former item for chapter 247 “Acquisition of Commercial Items”, substituted “3571” for “3551” in item for chapter 251, added items for chapters 257 and 258 and struck out former item for chapter 257 “Contracts for Long-Term Lease or Charter of Vessels, Aircraft, and Combat”, and substituted “Provisions” for “Requirements” in item for subpart D of part V.
+Pub. L. 117–81, div. A, title XVII, § 1701(g), Dec. 27, 2021, 135 Stat. 2140, substituted “3061”, “3101”, and “3131”, for “3021”, “3051”, and “3101”, respectively, in items for chapters 203, 205, and 207, added item for chapter 247 and struck out former item for chapter 247 “Acquisition of Commercial Items”, substituted “3571” for “3551” in item for chapter 251, added items for chapters 257 and 258 and struck out former item for chapter 257 “Contracts for Long-Term Lease or Charter of Vessels, Aircraft, and Combat”, and substituted “Provisions” for “Requirements” in item for subpart D of part V.
 
-Pub. L. 116–283, div. A, title XVIII, §§ 1841(a)(2), 1856(a), Jan. 1, 2021, 134 Stat. 4243, 4273, as amended by Pub. L. 117–81, div. A, title XVII, § 1701(i)(9)(A), (u)(1), Dec. 27, 2021, 135 Stat. 2142, 2150, added items for subpart E and chapters 301 to 307 and item for Reserved chapter 343 and struck out former item for subpart E “special categories of contracting: major defense acquisition programs and major systems” including chapters 301 “Major Defense Acquisition Programs”, 303 “Weapon Systems Development and Related Matters”, and 305 “Other Matters Relating to Major Systems” and former item for chapter 343 “Acquisition of Services”.
+Pub. L. 116–283, div. A, title XVIII, §§ 1841(a)(2), 1856(a), Jan. 1, 2021, 134 Stat. 4243, 4273, as amended by Pub. L. 117–81, div. A, title XVII, § 1701(i)(9)(A), (u)(1), Dec. 27, 2021, 135 Stat. 2142, 2150, added items for subpart E and chapters 301 to 307 and item for Reserved chapter 343 and struck out former item for subpart E “special categories of contracting: major defense acquisition programs and major systems” including chapters 301 “Major Defense Acquisition Programs”, 303 “Weapon Systems Development and Related Matters”, and 305 “Other Matters Relating to Major Systems” and former item for chapter 343 “Acquisition of Services”.
 
-Pub. L. 116–283, div. A, title XVIII, §§ 1808(a)(4), 1811(a), 1816(a), 1821(a)(4), 1824(b), 1825(*l*), 1831(*l*), 1833(a)(2), 1846(a), 1851(d)(2), 1866(a), 1872(b)(2), 1873(f), 1880(b), 1881(b), 1882(a)(2), Jan. 1, 2021, 134 Stat. 4159, 4164, 4181, 4195, 4205, 4208, 4217, 4226, 4247, 4279, 4289, 4290, 4293, substituted “SERVICE, SUPPLY, AND PROPERTY” for “SERVICE, SUPPLY, AND PROCUREMENT” in heading of part IV and “Miscellaneous Provisions Relating to Property” for “Miscellaneous Procurement Provisions” in item for chapter 141, struck out items for chapters 137 “Procurement Generally”, 139 “Research and Development”, 140 “Procurement of Commercial Products and Commercial Services”, 142 “Procurement Technical Assistance Cooperative Agreement Program”, 144 “Major Defense Acquisition Programs”, 144B “Weapon Systems Development and Related Matters”, 148 “National Defense Technology and Industrial Base, Defense Reinvestment, and Defense Conversion”, and 149 “Defense Acquisition System”, added items for chapters 221 to 225, 241 to 244, 253, 257, 271, 272, and 275, item for subpart F and chapters 321 to 327, and items for chapters 341, 381 to 385, and 387 to 389 and struck out former items for chapters 221 “Planning and Solicitation Generally”, 223 “Planning and Solicitation Relating to Particular Items or Services”, 241 “Awarding of Contracts”, 243 “Specific Types of Contracts”, 253 “Emergency and Rapid Acquisitions”, 271 “Truthful Cost or Pricing Data”, 275 “Proprietary Contractor Data and Technical Data”, and 285 “Small Business Programs”, former item for subpart F “special categories of contracting: research, development, test, and evaluation” including chapters 321 “Research and Development Generally”, 323 “Innovation”, 325 “Department of Defense Laboratories”, 327 “Research and Development Centers and Facilities”, and 329 “Operational Test and Evaluation; Developmental Test and Evaluation”, and former items for chapters 341 “Contracting for Performance of Civilian Commercial or Industrial Type Functions”, 381 “Defense Industrial Base Generally”, 383 “Loan Guarantee Programs”, and 385 “Procurement Technical Assistance Cooperative Agreement Program”.
+Pub. L. 116–283, div. A, title XVIII, §§ 1808(a)(4), 1811(a), 1816(a), 1821(a)(4), 1824(b), 1825(*l*), 1831(*l*), 1833(a)(2), 1846(a), 1851(d)(2), 1866(a), 1872(b)(2), 1873(f), 1880(b), 1881(b), 1882(a)(2), Jan. 1, 2021, 134 Stat. 4159, 4164, 4181, 4195, 4205, 4208, 4217, 4226, 4247, 4279, 4289, 4290, 4293, substituted “SERVICE, SUPPLY, AND PROPERTY” for “SERVICE, SUPPLY, AND PROCUREMENT” in heading of part IV and “Miscellaneous Provisions Relating to Property” for “Miscellaneous Procurement Provisions” in item for chapter 141, struck out items for chapters 137 “Procurement Generally”, 139 “Research and Development”, 140 “Procurement of Commercial Products and Commercial Services”, 142 “Procurement Technical Assistance Cooperative Agreement Program”, 144 “Major Defense Acquisition Programs”, 144B “Weapon Systems Development and Related Matters”, 148 “National Defense Technology and Industrial Base, Defense Reinvestment, and Defense Conversion”, and 149 “Defense Acquisition System”, added items for chapters 221 to 225, 241 to 244, 253, 257, 271, 272, and 275, item for subpart F and chapters 321 to 327, and items for chapters 341, 381 to 385, and 387 to 389 and struck out former items for chapters 221 “Planning and Solicitation Generally”, 223 “Planning and Solicitation Relating to Particular Items or Services”, 241 “Awarding of Contracts”, 243 “Specific Types of Contracts”, 253 “Emergency and Rapid Acquisitions”, 271 “Truthful Cost or Pricing Data”, 275 “Proprietary Contractor Data and Technical Data”, and 285 “Small Business Programs”, former item for subpart F “special categories of contracting: research, development, test, and evaluation” including chapters 321 “Research and Development Generally”, 323 “Innovation”, 325 “Department of Defense Laboratories”, 327 “Research and Development Centers and Facilities”, and 329 “Operational Test and Evaluation; Developmental Test and Evaluation”, and former items for chapters 341 “Contracting for Performance of Civilian Commercial or Industrial Type Functions”, 381 “Defense Industrial Base Generally”, 383 “Loan Guarantee Programs”, and 385 “Procurement Technical Assistance Cooperative Agreement Program”.
 
-Pub. L. 116–283, title X, § 1081(a)(1)–(3), Jan. 1, 2021, 134 Stat. 3870, added second item for chapter 19 and item for chapter 113 and substituted “2375” for “2377” in item for chapter 140.
+Pub. L. 116–283, title X, § 1081(a)(1)–(3), Jan. 1, 2021, 134 Stat. 3870, added second item for chapter 19 and item for chapter 113 and substituted “2375” for “2377” in item for chapter 140.
 
-2019—Pub. L. 116–92, div. A, title XVII, § 1731(a)(1), (2), Dec. 20, 2019, 133 Stat. 1812, as amended by Pub. L. 116–283, div. A, title X, § 1081(c)(8), Jan. 1, 2021, 134 Stat. 3873, substituted “240a” for “251” in item for chapter 9A and “Cyber Scholarship Program” for “Information Security Scholarship Program” in item for chapter 112.
+2019—Pub. L. 116–92, div. A, title XVII, § 1731(a)(1), (2), Dec. 20, 2019, 133 Stat. 1812, as amended by Pub. L. 116–283, div. A, title X, § 1081(c)(8), Jan. 1, 2021, 134 Stat. 3873, substituted “240a” for “251” in item for chapter 9A and “Cyber Scholarship Program” for “Information Security Scholarship Program” in item for chapter 112.
 
-2018—Pub. L. 115–232, div. A, title VIII, §§ 801(b), 836(e)(12), Aug. 13, 2018, 132 Stat. 1831, 1870, substituted “Procurement of Commercial Products and Commercial Services” for “Procurement of Commercial Items” and “2377” for “2375” in item for chapter 140 and added item for part V containing items for subparts A to I and chapters 201 to 385.
+2018—Pub. L. 115–232, div. A, title VIII, §§ 801(b), 836(e)(12), Aug. 13, 2018, 132 Stat. 1831, 1870, substituted “Procurement of Commercial Products and Commercial Services” for “Procurement of Commercial Items” and “2377” for “2375” in item for chapter 140 and added item for part V containing items for subparts A to I and chapters 201 to 385.
 
-2017—Pub. L. 115–91, div. A, title X, § 1081(d)(4), Dec. 12, 2017, 131 Stat. 1600, amended directory language of Pub. L. 114–328, § 805(a)(2). See 2016 Amendment note below.
+2017—Pub. L. 115–91, div. A, title X, § 1081(d)(4), Dec. 12, 2017, 131 Stat. 1600, amended directory language of Pub. L. 114–328, § 805(a)(2). See 2016 Amendment note below.
 
-Pub. L. 115–91, div. A, title X, § 1002(a)(2), Dec. 12, 2017, 131 Stat. 1537, added item for chapter 9A.
+Pub. L. 115–91, div. A, title X, § 1002(a)(2), Dec. 12, 2017, 131 Stat. 1537, added item for chapter 9A.
 
-2016—Pub. L. 114–328, div. A, title VIII, § 846(2), title XII, § 1241(*o*)(1), Dec. 23, 2016, 130 Stat. 2292, 2512, redesignated item for chapter 13 “The Militia” as 12 and substituted “246” for “311”, redesignated item for chapter 15 “Insurrection” as 13 and substituted “251” for “331”, redesignated item for chapter 17 “Arming of American Vessels” as 14 and substituted “261” for “351”, redesignated item for chapter 18 “Military Support for Civilian Law Enforcement Agencies” as 15 and substituted “271” for “371”, added item for chapter 16, and struck out item for chapter 144A “Major Automated Information System Programs”.
+2016—Pub. L. 114–328, div. A, title VIII, § 846(2), title XII, § 1241(*o*)(1), Dec. 23, 2016, 130 Stat. 2292, 2512, redesignated item for chapter 13 “The Militia” as 12 and substituted “246” for “311”, redesignated item for chapter 15 “Insurrection” as 13 and substituted “251” for “331”, redesignated item for chapter 17 “Arming of American Vessels” as 14 and substituted “261” for “351”, redesignated item for chapter 18 “Military Support for Civilian Law Enforcement Agencies” as 15 and substituted “271” for “371”, added item for chapter 16, and struck out item for chapter 144A “Major Automated Information System Programs”.
 
-Pub. L. 114–328, div. A, title VIII, § 805(a)(2), Dec. 23, 2016, 130 Stat. 2255, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(4), Dec. 12, 2017, 131 Stat. 1600, added item for chapter 144B.
+Pub. L. 114–328, div. A, title VIII, § 805(a)(2), Dec. 23, 2016, 130 Stat. 2255, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(4), Dec. 12, 2017, 131 Stat. 1600, added item for chapter 144B.
 
-2015—Pub. L. 114–92, div. A, title X, § 1081(a)(1), Nov. 25, 2015, 129 Stat. 1000, substituted “Cyber Matters” for “Cyber matters” in first item for chapter 19.
+2015—Pub. L. 114–92, div. A, title X, § 1081(a)(1), Nov. 25, 2015, 129 Stat. 1000, substituted “Cyber Matters” for “Cyber matters” in first item for chapter 19.
 
-2014—Pub. L. 113–291, div. A, title XVI, § 1632(d), Dec. 19, 2014, 128 Stat. 3640, added first item for chapter 19.
+2014—Pub. L. 113–291, div. A, title XVI, § 1632(d), Dec. 19, 2014, 128 Stat. 3640, added first item for chapter 19.
 
-2013—Pub. L. 113–66, div. A, title X, § 1091(a)(1), Dec. 26, 2013, 127 Stat. 875, substituted “Nuclear Posture” for “Nuclear posture” in item for chapter 24.
+2013—Pub. L. 113–66, div. A, title X, § 1091(a)(1), Dec. 26, 2013, 127 Stat. 875, substituted “Nuclear Posture” for “Nuclear posture” in item for chapter 24.
 
-Pub. L. 112–239, div. A, title X, § 1031(b)(2), Jan. 2, 2013, 126 Stat. 1918, added item for chapter 24.
+Pub. L. 112–239, div. A, title X, § 1031(b)(2), Jan. 2, 2013, 126 Stat. 1918, added item for chapter 24.
 
-2011—Pub. L. 111–383, div. A, title VIII, § 861(b), title X, § 1075(b)(1), Jan. 7, 2011, 124 Stat. 4292, 4368, substituted “1030” for “1031” in item for chapter 53 and added item for chapter 149.
+2011—Pub. L. 111–383, div. A, title VIII, § 861(b), title X, § 1075(b)(1), Jan. 7, 2011, 124 Stat. 4292, 4368, substituted “1030” for “1031” in item for chapter 53 and added item for chapter 149.
 
-2009—Pub. L. 111–84, div. A, title X, § 1073(a)(1), Oct. 28, 2009, 123 Stat. 2472, substituted “1580” for “1581” in item for chapter 81 and “2551” for “2541” in item for chapter 152.
+2009—Pub. L. 111–84, div. A, title X, § 1073(a)(1), Oct. 28, 2009, 123 Stat. 2472, substituted “1580” for “1581” in item for chapter 81 and “2551” for “2541” in item for chapter 152.
 
-2008—Pub. L. 110–181, div. A, title X, § 1068(a)(4)(B), Jan. 28, 2008, 122 Stat. 326, substituted “Insurrection” for “Enforcement of the Laws to Restore Public Order” in item for chapter 15.
+2008—Pub. L. 110–181, div. A, title X, § 1068(a)(4)(B), Jan. 28, 2008, 122 Stat. 326, substituted “Insurrection” for “Enforcement of the Laws to Restore Public Order” in item for chapter 15.
 
-2006—Pub. L. 109–366, § 3(a)(2), Oct. 17, 2006, 120 Stat. 2630, added item for chapter 47A.
+2006—Pub. L. 109–366, § 3(a)(2), Oct. 17, 2006, 120 Stat. 2630, added item for chapter 47A.
 
-Pub. L. 109–364, div. A, title VIII, § 816(a)(2), title X, § 1076(a)(4)(A), div. B, title XXVIII, § 2851(c)(1), Oct. 17, 2006, 120 Stat. 2326, 2405, 2495, substituted “Enforcement of the Laws to Restore Public Order” for “Insurrection” in item for chapter 15 and added items for chapters 144A and 173.
+Pub. L. 109–364, div. A, title VIII, § 816(a)(2), title X, § 1076(a)(4)(A), div. B, title XXVIII, § 2851(c)(1), Oct. 17, 2006, 120 Stat. 2326, 2405, 2495, substituted “Enforcement of the Laws to Restore Public Order” for “Insurrection” in item for chapter 15 and added items for chapters 144A and 173.
 
-2004—Pub. L. 108–375, div. A, title V, § 532(e), title X, § 1084(d)(1), Oct. 28, 2004, 118 Stat. 1900, 2061, substituted “480” for “481” in item for chapter 23, added item for chapter 107, and redesignated former item for chapter 107 as item for chapter 106A.
+2004—Pub. L. 108–375, div. A, title V, § 532(e), title X, § 1084(d)(1), Oct. 28, 2004, 118 Stat. 1900, 2061, substituted “480” for “481” in item for chapter 23, added item for chapter 107, and redesignated former item for chapter 107 as item for chapter 106A.
 
-2003—Pub. L. 108–136, div. A, title IX, § 921(d)(8), title X, § 1045(a)(1), Nov. 24, 2003, 117 Stat. 1569, 1612, substituted “Geospatial-Intelligence” for “Imagery and Mapping” in item for chapter 22 and “2700” for “2701” in item for chapter 160.
+2003—Pub. L. 108–136, div. A, title IX, § 921(d)(8), title X, § 1045(a)(1), Nov. 24, 2003, 117 Stat. 1569, 1612, substituted “Geospatial-Intelligence” for “Imagery and Mapping” in item for chapter 22 and “2700” for “2701” in item for chapter 160.
 
-2001—Pub. L. 107–107, div. A, title IX, § 911(b), title X, § 1048(a)(1), Dec. 28, 2001, 115 Stat. 1196, 1222, struck out period after “1111” in item for chapter 56 and added item for chapter 135.
+2001—Pub. L. 107–107, div. A, title IX, § 911(b), title X, § 1048(a)(1), Dec. 28, 2001, 115 Stat. 1196, 1222, struck out period after “1111” in item for chapter 56 and added item for chapter 135.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title VII, § 713(a)(2), title IX, § 922(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–184, 1654A–236, added items for chapters 56 and 112.
+2000—Pub. L. 106–398, § 1 [[div. A], title VII, § 713(a)(2), title IX, § 922(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–184, 1654A–236, added items for chapters 56 and 112.
 
-1999—Pub. L. 106–65, div. A, title V, § 586(c)(1), title VII, § 721(c)(2), Oct. 5, 1999, 113 Stat. 638, 694, added item for chapter 50 and substituted “Deceased Personnel” for “Death Benefits” and “1471” for “1475” in item for chapter 75.
+1999—Pub. L. 106–65, div. A, title V, § 586(c)(1), title VII, § 721(c)(2), Oct. 5, 1999, 113 Stat. 638, 694, added item for chapter 50 and substituted “Deceased Personnel” for “Death Benefits” and “1471” for “1475” in item for chapter 75.
 
-1997—Pub. L. 105–85, div. A, title III, §§ 355(c)(2), 371(a)(2), (c)(5), title V, § 591(a)(2), title X, §§ 1073(a)(1), (2), 1074(d)(2), Nov. 18, 1997, 111 Stat. 1694, 1705, 1762, 1900, 1910, substituted “481” for “471” in item for chapter 23, added items for chapters 80 and 136, and substituted “2460” for “2461” in item for chapter 146, “Commissaries and Exchanges and Other Morale, Welfare, and Recreation Activities” for “Utilities and Services” in item for chapter 147, “2500” for “2491” in item for chapter 148, and “2541” for “2540” in item for chapter 152.
+1997—Pub. L. 105–85, div. A, title III, §§ 355(c)(2), 371(a)(2), (c)(5), title V, § 591(a)(2), title X, §§ 1073(a)(1), (2), 1074(d)(2), Nov. 18, 1997, 111 Stat. 1694, 1705, 1762, 1900, 1910, substituted “481” for “471” in item for chapter 23, added items for chapters 80 and 136, and substituted “2460” for “2461” in item for chapter 146, “Commissaries and Exchanges and Other Morale, Welfare, and Recreation Activities” for “Utilities and Services” in item for chapter 147, “2500” for “2491” in item for chapter 148, and “2541” for “2540” in item for chapter 152.
 
-1996—Pub. L. 104–201, div. A, title XI, § 1123(a)(1), (2), title XVI, § 1633(c)(3), Sept. 23, 1996, 110 Stat. 2687, 2688, 2751, substituted “National Imagery and Mapping Agency” for “Miscellaneous Studies and Reports” and “441” for “451” in item for chapter 22, added item for chapter 23, substituted “Civilian Defense Intelligence Employees” for “Defense Intelligence Agency and Central Imagery Office Civilian Personnel” in item for chapter 83, and struck out item for chapter 167 “Defense Mapping Agency”.
+1996—Pub. L. 104–201, div. A, title XI, § 1123(a)(1), (2), title XVI, § 1633(c)(3), Sept. 23, 1996, 110 Stat. 2687, 2688, 2751, substituted “National Imagery and Mapping Agency” for “Miscellaneous Studies and Reports” and “441” for “451” in item for chapter 22, added item for chapter 23, substituted “Civilian Defense Intelligence Employees” for “Defense Intelligence Agency and Central Imagery Office Civilian Personnel” in item for chapter 83, and struck out item for chapter 167 “Defense Mapping Agency”.
 
-Pub. L. 104–106, div. A, title V, §§ 568(a)(2), 569(b)(2), title X, § 1061(a)(2), (b)(2), Feb. 10, 1996, 110 Stat. 335, 351, 442, added items for chapters 76 and 88 and struck out items for chapters 89 “Volunteers Investing in Peace and Security” and 171 “Security and Control of Supplies”.
+Pub. L. 104–106, div. A, title V, §§ 568(a)(2), 569(b)(2), title X, § 1061(a)(2), (b)(2), Feb. 10, 1996, 110 Stat. 335, 351, 442, added items for chapters 76 and 88 and struck out items for chapters 89 “Volunteers Investing in Peace and Security” and 171 “Security and Control of Supplies”.
 
-1994—Pub. L. 103–359, title V, § 501(b)(2), Oct. 14, 1994, 108 Stat. 3429, substituted “Defense Intelligence Agency and Central Imagery Office Civilian Personnel” for “Defense Intelligence Agency Civilian Personnel” in item for chapter 83.
+1994—Pub. L. 103–359, title V, § 501(b)(2), Oct. 14, 1994, 108 Stat. 3429, substituted “Defense Intelligence Agency and Central Imagery Office Civilian Personnel” for “Defense Intelligence Agency Civilian Personnel” in item for chapter 83.
 
-Pub. L. 103–355, title VIII, § 8101(b), Oct. 13, 1994, 108 Stat. 3389, added item for chapter 140.
+Pub. L. 103–355, title VIII, § 8101(b), Oct. 13, 1994, 108 Stat. 3389, added item for chapter 140.
 
-Pub. L. 103–337, div. A, title V, § 554(a)(2), Oct. 5, 1994, 108 Stat. 2773, added item for chapter 22.
+Pub. L. 103–337, div. A, title V, § 554(a)(2), Oct. 5, 1994, 108 Stat. 2773, added item for chapter 22.
 
-1993—Pub. L. 103–160, div. A, title VIII, § 828(b)(1), Nov. 30, 1993, 107 Stat. 1713, struck out item for chapter 135 “Encouragement of Aviation”.
+1993—Pub. L. 103–160, div. A, title VIII, § 828(b)(1), Nov. 30, 1993, 107 Stat. 1713, struck out item for chapter 135 “Encouragement of Aviation”.
 
-1992—Pub. L. 102–484, div. A, title XIII, § 1322(a)(2), div. D, title XLII, § 4271(b)(1), Oct. 23, 1992, 106 Stat. 2553, 2695, added items for chapters 89 and 148 and struck out former items for chapters 148 “Defense Industrial Base”, 149 “Manufacturing Technology”, and 150 “Development of Dual-Use Critical Technologies”.
+1992—Pub. L. 102–484, div. A, title XIII, § 1322(a)(2), div. D, title XLII, § 4271(b)(1), Oct. 23, 1992, 106 Stat. 2553, 2695, added items for chapters 89 and 148 and struck out former items for chapters 148 “Defense Industrial Base”, 149 “Manufacturing Technology”, and 150 “Development of Dual-Use Critical Technologies”.
 
-1991—Pub. L. 102–190, div. A, title X, § 1061(a)(26)(C)(ii), Dec. 5, 1991, 105 Stat. 1474, effective Oct. 1, 1993, struck out item for chapter 85 “Procurement Management Personnel”.
+1991—Pub. L. 102–190, div. A, title X, § 1061(a)(26)(C)(ii), Dec. 5, 1991, 105 Stat. 1474, effective Oct. 1, 1993, struck out item for chapter 85 “Procurement Management Personnel”.
 
-Pub. L. 102–190, div. A, title VIII, § 821(f), title X, §§ 1002(a)(2), 1061(a)(27)(A), title XI, § 1112(b)(2), Dec. 5, 1991, 105 Stat. 1432, 1455, 1474, 1501, substituted “Defense Budget Matters” for “Regular Components” and inserted “221” in item for chapter 9, substituted “Original Appointments of Regular Officers in Grades Above Warrant Officer Grades” for “Appointments in Regular Components” in item for chapter 33, added item for chapter 33A, substituted “Manufacturing” for “Maufacturing” in item for chapter 149, added items for chapters 150 and 152, struck out item for former chapter 150 “Issue to Armed Forces” and struck out item for former chapter 151 “Issue of Serviceable Material Other Than to Armed Forces”.
+Pub. L. 102–190, div. A, title VIII, § 821(f), title X, §§ 1002(a)(2), 1061(a)(27)(A), title XI, § 1112(b)(2), Dec. 5, 1991, 105 Stat. 1432, 1455, 1474, 1501, substituted “Defense Budget Matters” for “Regular Components” and inserted “221” in item for chapter 9, substituted “Original Appointments of Regular Officers in Grades Above Warrant Officer Grades” for “Appointments in Regular Components” in item for chapter 33, added item for chapter 33A, substituted “Manufacturing” for “Maufacturing” in item for chapter 149, added items for chapters 150 and 152, struck out item for former chapter 150 “Issue to Armed Forces” and struck out item for former chapter 151 “Issue of Serviceable Material Other Than to Armed Forces”.
 
-Pub. L. 102–25, title VII, § 701(e)(1), (2), Apr. 6, 1991, 105 Stat. 114, added item for chapter 85 and in item for chapter 108 inserted “2161”.
+Pub. L. 102–25, title VII, § 701(e)(1), (2), Apr. 6, 1991, 105 Stat. 114, added item for chapter 85 and in item for chapter 108 inserted “2161”.
 
-1990—Pub. L. 101–510, div. A, title II, § 247(a)(2)(B), title V, § 502(a)(2), title VIII, § 823(b)(1), title IX, § 911(b)(3), title XII, § 1202(b), title XVIII, § 1801(a)(2), Nov. 5, 1990, 104 Stat. 1523, 1557, 1602, 1626, 1656, 1757, added item for chapter 58, struck out item for chapter 85 “Procurement Management Personnel”, added item for chapter 87, substituted “Department of Defense Schools” for “Granting of Advanced Degrees at Department of Defense Schools” in item for chapter 108, substituted “Support of Science, Mathematics, and Engineering Education” for “National Defense Science and Engineering Graduate Fellowships” in item for chapter 111, added item for chapter 149 and redesignated former item for chapter 149 as item for chapter 150, and added item for chapter 172.
+1990—Pub. L. 101–510, div. A, title II, § 247(a)(2)(B), title V, § 502(a)(2), title VIII, § 823(b)(1), title IX, § 911(b)(3), title XII, § 1202(b), title XVIII, § 1801(a)(2), Nov. 5, 1990, 104 Stat. 1523, 1557, 1602, 1626, 1656, 1757, added item for chapter 58, struck out item for chapter 85 “Procurement Management Personnel”, added item for chapter 87, substituted “Department of Defense Schools” for “Granting of Advanced Degrees at Department of Defense Schools” in item for chapter 108, substituted “Support of Science, Mathematics, and Engineering Education” for “National Defense Science and Engineering Graduate Fellowships” in item for chapter 111, added item for chapter 149 and redesignated former item for chapter 149 as item for chapter 150, and added item for chapter 172.
 
-1989—Pub. L. 101–189, div. A, title VIII, § 843(d)(2), title IX, § 931(e)(2), title XVI, § 1622(d)(2), Nov. 29, 1989, 103 Stat. 1517, 1535, 1605, substituted “Training and Education” for “Training” in item for part III, added item for chapter 111, and substituted “Cooperative Agreements” for “Acquisition and Cross-Servicing Agreements” in item for chapter 138.
+1989—Pub. L. 101–189, div. A, title VIII, § 843(d)(2), title IX, § 931(e)(2), title XVI, § 1622(d)(2), Nov. 29, 1989, 103 Stat. 1517, 1535, 1605, substituted “Training and Education” for “Training” in item for part III, added item for chapter 111, and substituted “Cooperative Agreements” for “Acquisition and Cross-Servicing Agreements” in item for chapter 138.
 
-1988—Pub. L. 100–456, div. A, title III, §§ 342(a)(2), 344(b)(2), title VIII, § 821(b)(2), title XI, § 1104(b), Sept. 29, 1988, 102 Stat. 1961, 1962, 2016, 2046, substituted “Support for” for “Cooperation With” and “Agencies” for “Officials” in item for chapter 18, substituted “Defense Industrial Base” for “Buy American Requirements” in item for chapter 148, substituted “Property Records and Report of Theft or Loss of Certain Property” for “Property Records” in item for chapter 161, and added item for chapter 171.
+1988—Pub. L. 100–456, div. A, title III, §§ 342(a)(2), 344(b)(2), title VIII, § 821(b)(2), title XI, § 1104(b), Sept. 29, 1988, 102 Stat. 1961, 1962, 2016, 2046, substituted “Support for” for “Cooperation With” and “Agencies” for “Officials” in item for chapter 18, substituted “Defense Industrial Base” for “Buy American Requirements” in item for chapter 148, substituted “Property Records and Report of Theft or Loss of Certain Property” for “Property Records” in item for chapter 161, and added item for chapter 171.
 
-Pub. L. 100–370, §§ 1(c)(3), (e)(2), 2(a)(2), 3(a)(2), July 19, 1988, 102 Stat. 841, 845, 854, 855, added items for chapters 54, 134, 146, and 148.
+Pub. L. 100–370, §§ 1(c)(3), (e)(2), 2(a)(2), 3(a)(2), July 19, 1988, 102 Stat. 841, 845, 854, 855, added items for chapters 54, 134, 146, and 148.
 
-1987—Pub. L. 100–180, div. A, title III, § 332(c), title VII, § 711(b), Dec. 4, 1987, 101 Stat. 1080, 1111, substituted “Humanitarian and Other Assistance” for “Humanitarian and Civic Assistance Provided in Conjunction With Military Operations” in item for chapter 20 and “Financial Assistance Programs” for “Scholarship Program” in item for chapter 105.
+1987—Pub. L. 100–180, div. A, title III, § 332(c), title VII, § 711(b), Dec. 4, 1987, 101 Stat. 1080, 1111, substituted “Humanitarian and Other Assistance” for “Humanitarian and Civic Assistance Provided in Conjunction With Military Operations” in item for chapter 20 and “Financial Assistance Programs” for “Scholarship Program” in item for chapter 105.
 
-Pub. L. 100–26, §§ 7(c)(1), 9(b)(4), Apr. 21, 1987, 101 Stat. 280, 287, added item for chapter 21, substituted “Acquisition and Cross-Servicing Agreements with NATO Allies and Other Countries” for “North Atlantic Treaty Organization Acquisition and Cross-Servicing Agreements” in item for chapter 138, substituted “Major Defense Acquisition Programs” for “Oversight of Cost Growth in Major Programs” and “2430” for “2431” in item for chapter 144, and substituted “2721” for “2701” in item for chapter 161.
+Pub. L. 100–26, §§ 7(c)(1), 9(b)(4), Apr. 21, 1987, 101 Stat. 280, 287, added item for chapter 21, substituted “Acquisition and Cross-Servicing Agreements with NATO Allies and Other Countries” for “North Atlantic Treaty Organization Acquisition and Cross-Servicing Agreements” in item for chapter 138, substituted “Major Defense Acquisition Programs” for “Oversight of Cost Growth in Major Programs” and “2430” for “2431” in item for chapter 144, and substituted “2721” for “2701” in item for chapter 161.
 
-1986—Pub. L. 99–661, div. A, title III, § 333(a)(2), title XIII, § 1343(a)(22), Nov. 14, 1986, 100 Stat. 3859, 3994, added item for chapter 20 and substituted “2341” for “2321” in item for chapter 138.
+1986—Pub. L. 99–661, div. A, title III, § 333(a)(2), title XIII, § 1343(a)(22), Nov. 14, 1986, 100 Stat. 3859, 3994, added item for chapter 20 and substituted “2341” for “2321” in item for chapter 138.
 
-Pub. L. 99–499, title II, § 211(a)(2), Oct. 17, 1986, 100 Stat. 1725, added item for chapter 160.
+Pub. L. 99–499, title II, § 211(a)(2), Oct. 17, 1986, 100 Stat. 1725, added item for chapter 160.
 
-Pub. L. 99–433, title IV, § 401(b), title VI, § 605, Oct. 1, 1986, 100 Stat. 1030, 1075a, added items for chapters 2, 6, 38, and 144, inserted “and Functions” in item for chapter 3, substituted “Office of the Secretary of Defense” for “Department of Defense” in item for chapter 4, substituted “151” for “141” as the section number in the item for chapter 5, reenacted item for chapter 7 without change, and inserted “and Department of Defense Field Activities” in item for chapter 8.
+Pub. L. 99–433, title IV, § 401(b), title VI, § 605, Oct. 1, 1986, 100 Stat. 1030, 1075a, added items for chapters 2, 6, 38, and 144, inserted “and Functions” in item for chapter 3, substituted “Office of the Secretary of Defense” for “Department of Defense” in item for chapter 4, substituted “151” for “141” as the section number in the item for chapter 5, reenacted item for chapter 7 without change, and inserted “and Department of Defense Field Activities” in item for chapter 8.
 
-Pub. L. 99–399, title VIII, § 806(d)(2), Aug. 27, 1986, 100 Stat. 888, added item for chapter 110.
+Pub. L. 99–399, title VIII, § 806(d)(2), Aug. 27, 1986, 100 Stat. 888, added item for chapter 110.
 
-1985—Pub. L. 99–145, title VI, § 671(a)(2), title IX, § 924(a)(2), Nov. 8, 1985, 99 Stat. 663, 698, added items for chapters 85 and 109.
+1985—Pub. L. 99–145, title VI, § 671(a)(2), title IX, § 924(a)(2), Nov. 8, 1985, 99 Stat. 663, 698, added items for chapters 85 and 109.
 
-1984—Pub. L. 98–525, title VII, § 705(a)(2), title XII, § 1241(a)(2), Oct. 19, 1984, 98 Stat. 2567, 2606, substituted “Members of the Selected Reserve” for “Enlisted Members of the Selected Reserve of the Ready Reserve” in item for chapter 106 and added item for chapter 142.
+1984—Pub. L. 98–525, title VII, § 705(a)(2), title XII, § 1241(a)(2), Oct. 19, 1984, 98 Stat. 2567, 2606, substituted “Members of the Selected Reserve” for “Enlisted Members of the Selected Reserve of the Ready Reserve” in item for chapter 106 and added item for chapter 142.
 
-1983—Pub. L. 98–94, title IX, § 925(a)(2), title XII, § 1268(15), Sept. 24, 1983, 97 Stat. 648, 707, added item for chapter 74, and substituted “or” for “and” in item for chapter 60.
+1983—Pub. L. 98–94, title IX, § 925(a)(2), title XII, § 1268(15), Sept. 24, 1983, 97 Stat. 648, 707, added item for chapter 74, and substituted “or” for “and” in item for chapter 60.
 
-1982—Pub. L. 97–295, § 1(50)(D), Oct. 12, 1982, 96 Stat. 1300, added item for chapter 167.
+1982—Pub. L. 97–295, § 1(50)(D), Oct. 12, 1982, 96 Stat. 1300, added item for chapter 167.
 
-Pub. L. 97–269, title V, § 501(b), Sept. 27, 1982, 96 Stat. 1145, added item for chapter 8.
+Pub. L. 97–269, title V, § 501(b), Sept. 27, 1982, 96 Stat. 1145, added item for chapter 8.
 
-Pub. L. 97–214, § 2(b), July 12, 1982, 96 Stat. 169, added item for chapter 169.
+Pub. L. 97–214, § 2(b), July 12, 1982, 96 Stat. 169, added item for chapter 169.
 
-1981—Pub. L. 97–89, title VII, § 701(a)(2), Dec. 4, 1981, 95 Stat. 1160, added item for chapter 83.
+1981—Pub. L. 97–89, title VII, § 701(a)(2), Dec. 4, 1981, 95 Stat. 1160, added item for chapter 83.
 
-Pub. L. 97–86, title IX, § 905(a)(2), Dec. 1, 1981, 95 Stat. 1116, added item for chapter 18.
+Pub. L. 97–86, title IX, § 905(a)(2), Dec. 1, 1981, 95 Stat. 1116, added item for chapter 18.
 
-1980—Pub. L. 96–513, title V, §§ 501(1), 511(29), (54)(B), (99), Dec. 12, 1980, 94 Stat. 2907, 2922, 2925, 2929, added item for chapter 32, substituted “531” for “541” as section number in item for chapter 33, substituted “34” for “35” as chapter number of chapter relating to appointments as reserve officers, added items for chapters 35 and 36, substituted “Reserve Components: Standards and Procedures for Retention and Promotion” for “Retention of Reserves” in item for chapter 51, added item for chapter 60, substituted “1251” for “1255” as section number in item for chapter 63, substituted “Retirement of Warrant Officers” for “Retirement” in item for chapter 65, substituted “1370” for “1371” as section number in item for chapter 69, amended item for chapter 73 to read: “Annuities Based on Retired or Retainer Pay”, and capitalized “Assistance”, “Persons”, “Enlisting”, “Active”, and “Duty” in item for chapter 107.
+1980—Pub. L. 96–513, title V, §§ 501(1), 511(29), (54)(B), (99), Dec. 12, 1980, 94 Stat. 2907, 2922, 2925, 2929, added item for chapter 32, substituted “531” for “541” as section number in item for chapter 33, substituted “34” for “35” as chapter number of chapter relating to appointments as reserve officers, added items for chapters 35 and 36, substituted “Reserve Components: Standards and Procedures for Retention and Promotion” for “Retention of Reserves” in item for chapter 51, added item for chapter 60, substituted “1251” for “1255” as section number in item for chapter 63, substituted “Retirement of Warrant Officers” for “Retirement” in item for chapter 65, substituted “1370” for “1371” as section number in item for chapter 69, amended item for chapter 73 to read: “Annuities Based on Retired or Retainer Pay”, and capitalized “Assistance”, “Persons”, “Enlisting”, “Active”, and “Duty” in item for chapter 107.
 
-Pub. L. 96–450, title IV, § 406(b), Oct. 14, 1980, 94 Stat. 1981, added item for chapter 108.
+Pub. L. 96–450, title IV, § 406(b), Oct. 14, 1980, 94 Stat. 1981, added item for chapter 108.
 
-Pub. L. 96–342, title IX, § 901(b), Sept. 8, 1980, 94 Stat. 1114, added item for chapter 107.
+Pub. L. 96–342, title IX, § 901(b), Sept. 8, 1980, 94 Stat. 1114, added item for chapter 107.
 
-Pub. L. 96–323, § 2(b), Aug. 4, 1980, 94 Stat. 1019, added item for chapter 138.
+Pub. L. 96–323, § 2(b), Aug. 4, 1980, 94 Stat. 1019, added item for chapter 138.
 
-1977—Pub. L. 95–79, title IV, § 402(b), July 30, 1977, 91 Stat. 330, added item for chapter 106.
+1977—Pub. L. 95–79, title IV, § 402(b), July 30, 1977, 91 Stat. 330, added item for chapter 106.
 
-1972—Pub. L. 92–426, § 2(b), Sept. 21, 1972, 86 Stat. 719, added items for chapters 104 and 105.
+1972—Pub. L. 92–426, § 2(b), Sept. 21, 1972, 86 Stat. 719, added items for chapters 104 and 105.
 
-Pub. L. 92–425, § 2, Sept. 21, 1972, 86 Stat. 711, amended item for chapter 73 by inserting “; Survivor Benefit Plan” after “Pay” which could not be executed as directed in view of amendment by Pub. L. 87–381. See 1961 Amendment note below.
+Pub. L. 92–425, § 2, Sept. 21, 1972, 86 Stat. 711, amended item for chapter 73 by inserting “; Survivor Benefit Plan” after “Pay” which could not be executed as directed in view of amendment by Pub. L. 87–381. See 1961 Amendment note below.
 
-1968—Pub. L. 90–377, § 2, July 5, 1968, 82 Stat. 288, added item for chapter 48.
+1968—Pub. L. 90–377, § 2, July 5, 1968, 82 Stat. 288, added item for chapter 48.
 
-1967—Pub. L. 90–83, § 3(2), Sept. 11, 1967, 81 Stat. 220, struck out item for chapter 80 “Exemplary Rehabilitation Certificates”.
+1967—Pub. L. 90–83, § 3(2), Sept. 11, 1967, 81 Stat. 220, struck out item for chapter 80 “Exemplary Rehabilitation Certificates”.
 
-1966—Pub. L. 89–690, § 2, Oct. 15, 1966, 80 Stat. 1017, added item for chapter 80.
+1966—Pub. L. 89–690, § 2, Oct. 15, 1966, 80 Stat. 1017, added item for chapter 80.
 
-1964—Pub. L. 88–647, title I, § 101(2), title II, § 201(2), Oct. 13, 1964, 78 Stat. 1064, 1069, added items for chapters 102 and 103.
+1964—Pub. L. 88–647, title I, § 101(2), title II, § 201(2), Oct. 13, 1964, 78 Stat. 1064, 1069, added items for chapters 102 and 103.
 
-1962—Pub. L. 87–651, title II, § 203, Sept. 7, 1962, 76 Stat. 519, added item for chapter 4.
+1962—Pub. L. 87–651, title II, § 203, Sept. 7, 1962, 76 Stat. 519, added item for chapter 4.
 
-Pub. L. 87–649, § 3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40.
+Pub. L. 87–649, § 3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40.
 
-1961—Pub. L. 87–381, § 1(2), Oct. 4, 1961, 75 Stat. 810, substituted “Retired Serviceman’s Family Protection Plan” for “Annuities Based on Retired or Retainer Pay” in item for chapter 73.
+1961—Pub. L. 87–381, § 1(2), Oct. 4, 1961, 75 Stat. 810, substituted “Retired Serviceman’s Family Protection Plan” for “Annuities Based on Retired or Retainer Pay” in item for chapter 73.
 
-1958—Pub. L. 85–861, §§ 1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted “General Service Requirements” for “Service Requirements for Reserves” in item for chapter 37, “971” for “[No present sections]” in item for chapter 49, “Medical and Dental Care” for “Voting by Members of Armed Forces” in item for chapter 55, and struck out “Care of the Dead” and substituted “1475” for “1481” in item for chapter 75.
+1958—Pub. L. 85–861, §§ 1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted “General Service Requirements” for “Service Requirements for Reserves” in item for chapter 37, “971” for “[No present sections]” in item for chapter 49, “Medical and Dental Care” for “Voting by Members of Armed Forces” in item for chapter 55, and struck out “Care of the Dead” and substituted “1475” for “1481” in item for chapter 75.
 
 ### PART I—ORGANIZATION AND GENERAL MILITARY POWERS
 
@@ -2457,61 +2457,61 @@ Pub. L. 87–649, § 3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title XVII, § 1701(a)(2), Dec. 18, 2025, 139 Stat. 1207, substituted “Electromagnetic Warfare” for “Electronic Warfare” in item for chapter 25.
+2025—Pub. L. 119–60, div. A, title XVII, § 1701(a)(2), Dec. 18, 2025, 139 Stat. 1207, substituted “Electromagnetic Warfare” for “Electronic Warfare” in item for chapter 25.
 
-2023—Pub. L. 118–31, div. A, title XVI, § 1682(b), Dec. 22, 2023, 137 Stat. 617, added item for chapter 25.
+2023—Pub. L. 118–31, div. A, title XVI, § 1682(b), Dec. 22, 2023, 137 Stat. 617, added item for chapter 25.
 
-2022—Pub. L. 117–263, div. A, title X, § 1081(e)(2), Dec. 23, 2022, 136 Stat. 2798, substituted “Definitions, Rules of Construction, Cross References, and Related Matters” for “Definitions” in item for chapter 1. Amendment was made pursuant to operation of section 102 of this title.
+2022—Pub. L. 117–263, div. A, title X, § 1081(e)(2), Dec. 23, 2022, 136 Stat. 2798, substituted “Definitions, Rules of Construction, Cross References, and Related Matters” for “Definitions” in item for chapter 1. Amendment was made pursuant to operation of section 102 of this title.
 
-2021—Pub. L. 117–81, div. A, title X, § 1081(a)(1), Dec. 27, 2021, 135 Stat. 1919, struck out second item for chapter 19 “Cyber Matters”.
+2021—Pub. L. 117–81, div. A, title X, § 1081(a)(1), Dec. 27, 2021, 135 Stat. 1919, struck out second item for chapter 19 “Cyber Matters”.
 
-Pub. L. 116–283, div. A, title X, § 1081(a)(1), Jan. 1, 2021, 134 Stat. 3870, added second item for chapter 19.
+Pub. L. 116–283, div. A, title X, § 1081(a)(1), Jan. 1, 2021, 134 Stat. 3870, added second item for chapter 19.
 
-2019—Pub. L. 116–92, div. A, title XVI, § 1631(a)(2)(B), title XVII, § 1731(a)(1), Dec. 20, 2019, 133 Stat. 1742, 1812, substituted “240a” for “251” in item for chapter 9A and “Cyber and Information Operations Matters” for “Cyber Matters” in first item for chapter 19.
+2019—Pub. L. 116–92, div. A, title XVI, § 1631(a)(2)(B), title XVII, § 1731(a)(1), Dec. 20, 2019, 133 Stat. 1742, 1812, substituted “240a” for “251” in item for chapter 9A and “Cyber and Information Operations Matters” for “Cyber Matters” in first item for chapter 19.
 
-2017—Pub. L. 115–91, div. A, title X, § 1002(a)(2), Dec. 12, 2017, 131 Stat. 1537, added item for chapter 9A.
+2017—Pub. L. 115–91, div. A, title X, § 1002(a)(2), Dec. 12, 2017, 131 Stat. 1537, added item for chapter 9A.
 
-2016—Pub. L. 114–328, div. A, title XII, § 1241(*o*)(1), Dec. 23, 2016, 130 Stat. 2512, redesignated item for chapter 13 “The Militia” as 12 and substituted “246” for “311”, redesignated item for chapter 15 “Insurrection” as 13 and substituted “251” for “331”, redesignated item for chapter 17 “Arming of American Vessels” as 14 and substituted “261” for “351”, redesignated item for chapter 18 “Military Support for Civilian Law Enforcement Agencies” as 15 and substituted “271” for “371”, and added item for chapter 16.
+2016—Pub. L. 114–328, div. A, title XII, § 1241(*o*)(1), Dec. 23, 2016, 130 Stat. 2512, redesignated item for chapter 13 “The Militia” as 12 and substituted “246” for “311”, redesignated item for chapter 15 “Insurrection” as 13 and substituted “251” for “331”, redesignated item for chapter 17 “Arming of American Vessels” as 14 and substituted “261” for “351”, redesignated item for chapter 18 “Military Support for Civilian Law Enforcement Agencies” as 15 and substituted “271” for “371”, and added item for chapter 16.
 
-2015—Pub. L. 114–92, div. A, title X, § 1081(a)(1), Nov. 25, 2015, 129 Stat. 1000, substituted “Cyber Matters” for “Cyber matters” in first item for chapter 19.
+2015—Pub. L. 114–92, div. A, title X, § 1081(a)(1), Nov. 25, 2015, 129 Stat. 1000, substituted “Cyber Matters” for “Cyber matters” in first item for chapter 19.
 
-2014—Pub. L. 113–291, div. A, title XVI, § 1632(d), Dec. 19, 2014, 128 Stat. 3640, added first item for chapter 19.
+2014—Pub. L. 113–291, div. A, title XVI, § 1632(d), Dec. 19, 2014, 128 Stat. 3640, added first item for chapter 19.
 
-2013—Pub. L. 113–66, div. A, title X, § 1091(a)(1), Dec. 26, 2013, 127 Stat. 875, substituted “Nuclear Posture” for “Nuclear posture” in item for chapter 24.
+2013—Pub. L. 113–66, div. A, title X, § 1091(a)(1), Dec. 26, 2013, 127 Stat. 875, substituted “Nuclear Posture” for “Nuclear posture” in item for chapter 24.
 
-Pub. L. 112–239, div. A, title X, § 1031(b)(2), Jan. 2, 2013, 126 Stat. 1918, added item for chapter 24.
+Pub. L. 112–239, div. A, title X, § 1031(b)(2), Jan. 2, 2013, 126 Stat. 1918, added item for chapter 24.
 
-2008—Pub. L. 110–181, div. A, title X, § 1068(a)(4)(B), Jan. 28, 2008, 122 Stat. 326, substituted “Insurrection” for “Enforcement of the Laws to Restore Public Order” in item for chapter 15.
+2008—Pub. L. 110–181, div. A, title X, § 1068(a)(4)(B), Jan. 28, 2008, 122 Stat. 326, substituted “Insurrection” for “Enforcement of the Laws to Restore Public Order” in item for chapter 15.
 
-2006—Pub. L. 109–364, div. A, title X, § 1076(a)(4)(A), Oct. 17, 2006, 120 Stat. 2405, substituted “Enforcement of the Laws to Restore Public Order” for “Insurrection” in item for chapter 15.
+2006—Pub. L. 109–364, div. A, title X, § 1076(a)(4)(A), Oct. 17, 2006, 120 Stat. 2405, substituted “Enforcement of the Laws to Restore Public Order” for “Insurrection” in item for chapter 15.
 
-2004—Pub. L. 108–375, div. A, title X, § 1084(d)(1), Oct. 28, 2004, 118 Stat. 2061, substituted “480” for “481” in item for chapter 23.
+2004—Pub. L. 108–375, div. A, title X, § 1084(d)(1), Oct. 28, 2004, 118 Stat. 2061, substituted “480” for “481” in item for chapter 23.
 
-2003—Pub. L. 108–136, div. A, title IX, § 921(d)(8), Nov. 24, 2003, 117 Stat. 1569, substituted “Geospatial-Intelligence” for “Imagery and Mapping” in item for chapter 22.
+2003—Pub. L. 108–136, div. A, title IX, § 921(d)(8), Nov. 24, 2003, 117 Stat. 1569, substituted “Geospatial-Intelligence” for “Imagery and Mapping” in item for chapter 22.
 
-1997—Pub. L. 105–85, div. A, title X, § 1073(a)(1), Nov. 18, 1997, 111 Stat. 1900, substituted “481” for “471” in item for chapter 23.
+1997—Pub. L. 105–85, div. A, title X, § 1073(a)(1), Nov. 18, 1997, 111 Stat. 1900, substituted “481” for “471” in item for chapter 23.
 
-1996—Pub. L. 104–201, div. A, title XI, § 1123(a)(2), Sept. 23, 1996, 110 Stat. 2688, substituted “National Imagery and Mapping Agency” for “Miscellaneous Studies and Reports” and “441” for “451” in item for chapter 22 and added item for chapter 23.
+1996—Pub. L. 104–201, div. A, title XI, § 1123(a)(2), Sept. 23, 1996, 110 Stat. 2688, substituted “National Imagery and Mapping Agency” for “Miscellaneous Studies and Reports” and “441” for “451” in item for chapter 22 and added item for chapter 23.
 
-1994—Pub. L. 103–337, div. A, title V, § 554(a)(2), Oct. 5, 1994, 108 Stat. 2773, added item for chapter 22.
+1994—Pub. L. 103–337, div. A, title V, § 554(a)(2), Oct. 5, 1994, 108 Stat. 2773, added item for chapter 22.
 
-1991—Pub. L. 102–190, div. A, title X, § 1002(a)(2), Dec. 5, 1991, 105 Stat. 1455, substituted “Defense Budget Matters” for “Regular Components” and inserted “221” in item for chapter 9.
+1991—Pub. L. 102–190, div. A, title X, § 1002(a)(2), Dec. 5, 1991, 105 Stat. 1455, substituted “Defense Budget Matters” for “Regular Components” and inserted “221” in item for chapter 9.
 
-1988—Pub. L. 100–456, div. A, title XI, § 1104(b), Sept. 29, 1988, 102 Stat. 2046, substituted “Support for” for “Cooperation With” and “Agencies” for “Officials” in item for chapter 18.
+1988—Pub. L. 100–456, div. A, title XI, § 1104(b), Sept. 29, 1988, 102 Stat. 2046, substituted “Support for” for “Cooperation With” and “Agencies” for “Officials” in item for chapter 18.
 
-1987—Pub. L. 100–180, div. A, title III, § 332(c), Dec. 4, 1987, 101 Stat. 1080, substituted “Humanitarian and Other Assistance” for “Humanitarian and Civic Assistance Provided in Conjunction With Military Operations” in item for chapter 20.
+1987—Pub. L. 100–180, div. A, title III, § 332(c), Dec. 4, 1987, 101 Stat. 1080, substituted “Humanitarian and Other Assistance” for “Humanitarian and Civic Assistance Provided in Conjunction With Military Operations” in item for chapter 20.
 
-Pub. L. 100–26, § 9(b)(4), Apr. 21, 1987, 101 Stat. 287, added item for chapter 21.
+Pub. L. 100–26, § 9(b)(4), Apr. 21, 1987, 101 Stat. 287, added item for chapter 21.
 
-1986—Pub. L. 99–661, div. A, title III, § 333(a)(2), Nov. 14, 1986, 100 Stat. 3859, added item for chapter 20.
+1986—Pub. L. 99–661, div. A, title III, § 333(a)(2), Nov. 14, 1986, 100 Stat. 3859, added item for chapter 20.
 
-Pub. L. 99–433, title VI, § 605(a), Oct. 1, 1986, 100 Stat. 1075a, added items for chapters 2 and 6, inserted “and Functions” in item for chapter 3, substituted “Office of the Secretary of Defense” for “Department of Defense” in item for chapter 4, substituted “151” for “141” as section number in item for chapter 5, reenacted item for chapter 7 without change, and inserted “and Department of Defense Field activities” in item for chapter 8.
+Pub. L. 99–433, title VI, § 605(a), Oct. 1, 1986, 100 Stat. 1075a, added items for chapters 2 and 6, inserted “and Functions” in item for chapter 3, substituted “Office of the Secretary of Defense” for “Department of Defense” in item for chapter 4, substituted “151” for “141” as section number in item for chapter 5, reenacted item for chapter 7 without change, and inserted “and Department of Defense Field activities” in item for chapter 8.
 
-1982—Pub. L. 97–269, title V, § 501(b), Sept. 27, 1982, 96 Stat. 1145, added item for chapter 8.
+1982—Pub. L. 97–269, title V, § 501(b), Sept. 27, 1982, 96 Stat. 1145, added item for chapter 8.
 
-1981—Pub. L. 97–86, title IX, § 905(a)(2), Dec. 1, 1981, 95 Stat. 1116, added item for chapter 18.
+1981—Pub. L. 97–86, title IX, § 905(a)(2), Dec. 1, 1981, 95 Stat. 1116, added item for chapter 18.
 
-1962—Pub. L. 87–651, title II, § 203, Sept. 7, 1962, 76 Stat. 519, added item for chapter 4.
+1962—Pub. L. 87–651, title II, § 203, Sept. 7, 1962, 76 Stat. 519, added item for chapter 4.
 
 - [CHAPTER 1—DEFINITIONS, RULES OF CONSTRUCTION, CROSS REFERENCES, AND RELATED MATTERS](chapter-001-definitions-rules-of-construction-cross-references-and.md)
 
@@ -2565,67 +2565,67 @@ Pub. L. 99–433, title VI, § 605(a), Oct. 1, 1986, 100 Stat. 1075a, added it
 
 **Amendments**
 
-2011—Pub. L. 111–383, div. A, title X, § 1075(b)(1), Jan. 7, 2011, 124 Stat. 4368, substituted “1030” for “1031” in item for chapter 53.
+2011—Pub. L. 111–383, div. A, title X, § 1075(b)(1), Jan. 7, 2011, 124 Stat. 4368, substituted “1030” for “1031” in item for chapter 53.
 
-2009—Pub. L. 111–84, div. A, title X, § 1073(a)(7), Oct. 28, 2009, 123 Stat. 2472, substituted “1580” for “1581” in item for chapter 81.
+2009—Pub. L. 111–84, div. A, title X, § 1073(a)(7), Oct. 28, 2009, 123 Stat. 2472, substituted “1580” for “1581” in item for chapter 81.
 
-2006—Pub. L. 109–366, § 3(a)(2), Oct. 17, 2006, 120 Stat. 2630, added item for chapter 47A.
+2006—Pub. L. 109–366, § 3(a)(2), Oct. 17, 2006, 120 Stat. 2630, added item for chapter 47A.
 
-2001—Pub. L. 107–107, div. A, title X, § 1048(a)(1), Dec. 28, 2001, 115 Stat. 1222, struck out period after “1111” in item for chapter 56.
+2001—Pub. L. 107–107, div. A, title X, § 1048(a)(1), Dec. 28, 2001, 115 Stat. 1222, struck out period after “1111” in item for chapter 56.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title VII, § 713(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–184, added item for chapter 56.
+2000—Pub. L. 106–398, § 1 [[div. A], title VII, § 713(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–184, added item for chapter 56.
 
-1999—Pub. L. 106–65, div. A, title V, § 586(c)(1), title VII, § 721(c)(2), Oct. 5, 1999, 113 Stat. 638, 694, added item for chapter 50 and substituted “Deceased Personnel” for “Death Benefits” and “1471” for “1475” in item for chapter 75.
+1999—Pub. L. 106–65, div. A, title V, § 586(c)(1), title VII, § 721(c)(2), Oct. 5, 1999, 113 Stat. 638, 694, added item for chapter 50 and substituted “Deceased Personnel” for “Death Benefits” and “1471” for “1475” in item for chapter 75.
 
-1997—Pub. L. 105–85, div. A, title V, § 591(a)(2), Nov. 18, 1997, 111 Stat. 1762, added item for chapter 80.
+1997—Pub. L. 105–85, div. A, title V, § 591(a)(2), Nov. 18, 1997, 111 Stat. 1762, added item for chapter 80.
 
-1996—Pub. L. 104–201, div. A, title XVI, § 1633(c)(3), Sept. 23, 1996, 110 Stat. 2751, substituted “Civilian Defense Intelligence Employees” for “Defense Intelligence Agency and Central Imagery Office Civilian Personnel” in item for chapter 83.
+1996—Pub. L. 104–201, div. A, title XVI, § 1633(c)(3), Sept. 23, 1996, 110 Stat. 2751, substituted “Civilian Defense Intelligence Employees” for “Defense Intelligence Agency and Central Imagery Office Civilian Personnel” in item for chapter 83.
 
-Pub. L. 104–106, div. A, title V, §§ 568(a)(2), 569(b)(2), title X, § 1061(a)(2), Feb. 10, 1996, 110 Stat. 335, 351, 442, added items for chapters 76 and 88 and struck out item for chapter 89 “Volunteers Investing in Peace and Security”.
+Pub. L. 104–106, div. A, title V, §§ 568(a)(2), 569(b)(2), title X, § 1061(a)(2), Feb. 10, 1996, 110 Stat. 335, 351, 442, added items for chapters 76 and 88 and struck out item for chapter 89 “Volunteers Investing in Peace and Security”.
 
-1994—Pub. L. 103–359, title V, § 501(b)(2), Oct. 14, 1994, 108 Stat. 3429, substituted “Defense Intelligence Agency and Central Imagery Office Civilian Personnel” for “Defense Intelligence Agency Civilian Personnel” in item for chapter 83.
+1994—Pub. L. 103–359, title V, § 501(b)(2), Oct. 14, 1994, 108 Stat. 3429, substituted “Defense Intelligence Agency and Central Imagery Office Civilian Personnel” for “Defense Intelligence Agency Civilian Personnel” in item for chapter 83.
 
-1992—Pub. L. 102–484, div. A, title XIII, § 1322(a)(2), Oct. 23, 1992, 106 Stat. 2553, added item for chapter 89.
+1992—Pub. L. 102–484, div. A, title XIII, § 1322(a)(2), Oct. 23, 1992, 106 Stat. 2553, added item for chapter 89.
 
-1991—Pub. L. 102–190, div. A, title X, § 1061(a)(26)(C)(ii), Dec. 5, 1991, 105 Stat. 1474, effective Oct. 1, 1993, struck out item for chapter 85 “Procurement Management Personnel”.
+1991—Pub. L. 102–190, div. A, title X, § 1061(a)(26)(C)(ii), Dec. 5, 1991, 105 Stat. 1474, effective Oct. 1, 1993, struck out item for chapter 85 “Procurement Management Personnel”.
 
-Pub. L. 102–190, div. A, title XI, § 1112(b)(2), Dec. 5, 1991, 105 Stat. 1501, substituted “Original Appointments of Regular Officers in Grades Above Warrant Officer Grades” for “Appointments in Regular Components” in item for chapter 33 and added item for chapter 33A.
+Pub. L. 102–190, div. A, title XI, § 1112(b)(2), Dec. 5, 1991, 105 Stat. 1501, substituted “Original Appointments of Regular Officers in Grades Above Warrant Officer Grades” for “Appointments in Regular Components” in item for chapter 33 and added item for chapter 33A.
 
-Pub. L. 102–25, title VII, § 701(e)(1), Apr. 6, 1991, 105 Stat. 114, added item for chapter 85.
+Pub. L. 102–25, title VII, § 701(e)(1), Apr. 6, 1991, 105 Stat. 114, added item for chapter 85.
 
-1990—Pub. L. 101–510, div. A, title V, § 502(a)(2), title XII, § 1202(b), Nov. 5, 1990, 104 Stat. 1557, 1656, added items for chapters 58 and 87 and struck out item for chapter 85 “Procurement Management Personnel”.
+1990—Pub. L. 101–510, div. A, title V, § 502(a)(2), title XII, § 1202(b), Nov. 5, 1990, 104 Stat. 1557, 1656, added items for chapters 58 and 87 and struck out item for chapter 85 “Procurement Management Personnel”.
 
-1988—Pub. L. 100–370, § 1(c)(3), July 19, 1988, 102 Stat. 841, added item for chapter 54.
+1988—Pub. L. 100–370, § 1(c)(3), July 19, 1988, 102 Stat. 841, added item for chapter 54.
 
-1986—Pub. L. 99–433, title IV, § 401(b), Oct. 1, 1986, 100 Stat. 1030, added item for chapter 38.
+1986—Pub. L. 99–433, title IV, § 401(b), Oct. 1, 1986, 100 Stat. 1030, added item for chapter 38.
 
-1985—Pub. L. 99–145, title IX, § 924(a)(2), Nov. 8, 1985, 99 Stat. 698, added item for chapter 85.
+1985—Pub. L. 99–145, title IX, § 924(a)(2), Nov. 8, 1985, 99 Stat. 698, added item for chapter 85.
 
-1983—Pub. L. 98–94, title IX, § 925(a)(2), title XII, § 1268(15), Sept. 24, 1983, 97 Stat. 648, 707, added item for chapter 74, and substituted “or” for “and” in item for chapter 60.
+1983—Pub. L. 98–94, title IX, § 925(a)(2), title XII, § 1268(15), Sept. 24, 1983, 97 Stat. 648, 707, added item for chapter 74, and substituted “or” for “and” in item for chapter 60.
 
-1981—Pub. L. 97–89, title VII, § 701(a)(2), Dec. 4, 1981, 95 Stat. 1160, added item for chapter 83.
+1981—Pub. L. 97–89, title VII, § 701(a)(2), Dec. 4, 1981, 95 Stat. 1160, added item for chapter 83.
 
-1980—Pub. L. 96–513, title V, §§ 501(1), 511(29), (54)(B), Dec. 12, 1980, 94 Stat. 2907, 2922, 2925, added item for chapter 32, substituted “531” for “541” as section number in item for chapter 33, substituted “34” for “35” as chapter number of chapter relating to appointments as reserve officers, added items for chapters 35 and 36, substituted “Reserve Components: Standards and Procedures for Retention and Promotion” for “Retention of Reserves” in item for chapter 51, added item for chapter 60, substituted “1251” for “1255” as section number in item for chapter 63, substituted “Retirement of Warrant Officers” for “Retirement” in item for chapter 65, substituted “1370” for “1371” as section number in item for chapter 69, and amended item for chapter 73 to read: “Annuities Based on Retired or Retainer Pay”.
+1980—Pub. L. 96–513, title V, §§ 501(1), 511(29), (54)(B), Dec. 12, 1980, 94 Stat. 2907, 2922, 2925, added item for chapter 32, substituted “531” for “541” as section number in item for chapter 33, substituted “34” for “35” as chapter number of chapter relating to appointments as reserve officers, added items for chapters 35 and 36, substituted “Reserve Components: Standards and Procedures for Retention and Promotion” for “Retention of Reserves” in item for chapter 51, added item for chapter 60, substituted “1251” for “1255” as section number in item for chapter 63, substituted “Retirement of Warrant Officers” for “Retirement” in item for chapter 65, substituted “1370” for “1371” as section number in item for chapter 69, and amended item for chapter 73 to read: “Annuities Based on Retired or Retainer Pay”.
 
-1972—Pub. L. 92–425, § 2, Sept. 21, 1972, 86 Stat. 711, amended item for chapter 73 by inserting “; Survivor Benefit Plan” after “Pay” which could not be executed as directed in view of amendment by Pub. L. 87–381. See 1961 Amendment note below.
+1972—Pub. L. 92–425, § 2, Sept. 21, 1972, 86 Stat. 711, amended item for chapter 73 by inserting “; Survivor Benefit Plan” after “Pay” which could not be executed as directed in view of amendment by Pub. L. 87–381. See 1961 Amendment note below.
 
-1968—Pub. L. 90–377, § 2, July 5, 1968, 82 Stat. 288, added item for chapter 48.
+1968—Pub. L. 90–377, § 2, July 5, 1968, 82 Stat. 288, added item for chapter 48.
 
-1967—Pub. L. 90–83, § 3(2), Sept. 11, 1967, 81 Stat. 220, struck out item for chapter 80 “Exemplary Rehabilitation Certificates”.
+1967—Pub. L. 90–83, § 3(2), Sept. 11, 1967, 81 Stat. 220, struck out item for chapter 80 “Exemplary Rehabilitation Certificates”.
 
-1966—Pub. L. 89–690, § 2, Oct. 15, 1966, 80 Stat. 1017, added item for chapter 80.
+1966—Pub. L. 89–690, § 2, Oct. 15, 1966, 80 Stat. 1017, added item for chapter 80.
 
-1962—Pub. L. 87–649, § 3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40.
+1962—Pub. L. 87–649, § 3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40.
 
-1961—Pub. L. 87–381, § 1(2), Oct. 4, 1961, 75 Stat. 810, substituted “Retired Servicemen’s Family Protection Plan” for “Annuities Based on Retired or Retainer Pay” in item for chapter 73.
+1961—Pub. L. 87–381, § 1(2), Oct. 4, 1961, 75 Stat. 810, substituted “Retired Servicemen’s Family Protection Plan” for “Annuities Based on Retired or Retainer Pay” in item for chapter 73.
 
-1958—Pub. L. 85–861, §§ 1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted “General Service Requirements” for “Service Requirements for Reserves” in item for chapter 37, “971” for “[No present sections]” in item for chapter 49, “Medical and Dental Care” for “Voting by Members of Armed Forces” in item for chapter 55, and struck out “Care of the Dead” and substituted “1475” for “1481” in item for chapter 75.
+1958—Pub. L. 85–861, §§ 1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted “General Service Requirements” for “Service Requirements for Reserves” in item for chapter 37, “971” for “[No present sections]” in item for chapter 49, “Medical and Dental Care” for “Voting by Members of Armed Forces” in item for chapter 55, and struck out “Care of the Dead” and substituted “1475” for “1481” in item for chapter 75.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Establishment of Blast Safety Officer Positions**
 
-Pub. L. 119–60, div. A, title V, § 508, Dec. 18, 2025, 139 Stat. 859, provided that:
+Pub. L. 119–60, div. A, title V, § 508, Dec. 18, 2025, 139 Stat. 859, provided that:
 
 > **“(a) Establishment.—** Not later than September 30, 2026, the Secretary of Defense shall establish blast safety officer positions in the Army, Navy, Marine Corps, Air Force, and Space Force.
 
@@ -2649,11 +2649,11 @@ Pub. L. 119–60, div. A, title V, § 508, Dec. 18, 2025, 139 Stat. 859, provi
 
 **Military Entrance Processing Command: Acceleration of Review of Medical Records**
 
-Pub. L. 118–159, div. A, title V, § 534(a), Dec. 23, 2024, 138 Stat. 1887, provided that: “Not later than 120 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall implement a program to use health care providers, from any component of the Armed Forces under the jurisdiction of such Secretary, to support United States Military Entrance Processing Command (in this section, referred to as ‘MEPCOM’) and accelerate the review of medical records, as determined necessary by the Secretary.”
+Pub. L. 118–159, div. A, title V, § 534(a), Dec. 23, 2024, 138 Stat. 1887, provided that: “Not later than 120 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall implement a program to use health care providers, from any component of the Armed Forces under the jurisdiction of such Secretary, to support United States Military Entrance Processing Command (in this section, referred to as ‘MEPCOM’) and accelerate the review of medical records, as determined necessary by the Secretary.”
 
 **Reimbursement of Applicants to Certain Armed Forces for Certain Medical Costs Incurred During Military Entrance Processing**
 
-Pub. L. 118–159, div. A, title V, § 537, Dec. 23, 2024, 138 Stat. 1888, provided that:
+Pub. L. 118–159, div. A, title V, § 537, Dec. 23, 2024, 138 Stat. 1888, provided that:
 
 > **“(a) Authority.—** The Secretary of Defense may reimburse an individual who applies to join a covered Armed Force for costs incurred by such individual for a medical appointment required for military entrance processing.
 
@@ -2681,7 +2681,7 @@ Pub. L. 118–159, div. A, title V, § 537, Dec. 23, 2024, 138 Stat. 1888, pro
 
 **Pilot Program on Delegation of Authority To Approve Reserve Component Recruits With Certain Medical Conditions**
 
-Pub. L. 118–159, div. A, title VII, § 740, Dec. 23, 2024, 138 Stat. 1962, provided that:
+Pub. L. 118–159, div. A, title VII, § 740, Dec. 23, 2024, 138 Stat. 1962, provided that:
 
 > **“(a) Pilot Program.—** Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall implement a pilot program to authorize each Secretary concerned (as defined in section 101(a) of title 10, United States Code) to delegate authority to the Commander of the United States Military Entrance Processing Command to approve a service medical waiver for an individual to be enlisted or appointed in a reserve component for a medical condition the Secretary concerned identifies under subsection (c).
 
@@ -2707,7 +2707,7 @@ Pub. L. 118–159, div. A, title VII, § 740, Dec. 23, 2024, 138 Stat. 1962, p
 
 **Requirement To Base Military Accessions and Promotions on Merit and Performance**
 
-Pub. L. 118–31, div. A, title V, § 529C, Dec. 22, 2023, 137 Stat. 257, as amended by Pub. L. 119–60, div. A, title V, § 525, Dec. 18, 2025, 139 Stat. 866, provided that:
+Pub. L. 118–31, div. A, title V, § 529C, Dec. 22, 2023, 137 Stat. 257, as amended by Pub. L. 119–60, div. A, title V, § 525, Dec. 18, 2025, 139 Stat. 866, provided that:
 
 > **“(a) Merit Requirement.—** A military accession, promotion, or command selection in the Department of Defense shall be based on individual merit and demonstrated performance.
 
@@ -2715,7 +2715,7 @@ Pub. L. 118–31, div. A, title V, § 529C, Dec. 22, 2023, 137 Stat. 257, as a
 
 **Pilot Program on Cardiac Screenings for Military Accessions**
 
-Pub. L. 118–31, div. A, title V, § 547, Dec. 22, 2023, 137 Stat. 266, provided that:
+Pub. L. 118–31, div. A, title V, § 547, Dec. 22, 2023, 137 Stat. 266, provided that:
 
 > **“(a) Establishment.—** Not later than September 30, 2024, the Secretary of Defense shall carry out a pilot program to provide an electrocardiogram to individuals who undergo military accession screenings. Each such electrocardiogram shall be provided—
 
@@ -2751,7 +2751,7 @@ Pub. L. 118–31, div. A, title V, § 547, Dec. 22, 2023, 137 Stat. 266, provi
 
 **Standardization of Policies Relating to Service in Armed Forces by Individuals Diagnosed With HBV**
 
-Pub. L. 117–263, div. A, title VII, § 739, Dec. 23, 2022, 136 Stat. 2676, provided that:
+Pub. L. 117–263, div. A, title VII, § 739, Dec. 23, 2022, 136 Stat. 2676, provided that:
 
 > **“(a) In General.—** Not later than one year after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense, in coordination with the Secretaries concerned, shall—
 
@@ -2767,7 +2767,7 @@ Pub. L. 117–263, div. A, title VII, § 739, Dec. 23, 2022, 136 Stat. 2676, p
 
 **Strategy and Annual Report on Critical Language Proficiency of Special Operations Forces**
 
-Pub. L. 117–81, div. A, title III, § 364, Dec. 27, 2021, 135 Stat. 1662, provided that:
+Pub. L. 117–81, div. A, title III, § 364, Dec. 27, 2021, 135 Stat. 1662, provided that:
 
 > **“(a) Strategy.—**
 
@@ -2805,7 +2805,7 @@ Pub. L. 117–81, div. A, title III, § 364, Dec. 27, 2021, 135 Stat. 1662, pr
 
 **Improvements to Military Accessions in the Armed Forces**
 
-Pub. L. 118–31, div. A, title V, § 545, Dec. 22, 2023, 137 Stat. 265, provided that:
+Pub. L. 118–31, div. A, title V, § 545, Dec. 22, 2023, 137 Stat. 265, provided that:
 
 > **“(a) Improvements.—** Not later than one year after the date of the enactment of this Act [Dec. 22, 2023], and once four years thereafter, the Secretary of Defense shall—
 
@@ -2825,7 +2825,7 @@ Pub. L. 118–31, div. A, title V, § 545, Dec. 22, 2023, 137 Stat. 265, provi
 
 > **“(b) Covered Armed Force Defined.—** In this section, the term ‘covered Armed Force’ means the Army, Navy, Air Force, Marine Corps, or Space Force.”
 
-Pub. L. 117–81, div. A, title V, § 522, Dec. 27, 2021, 135 Stat. 1686, provided that:
+Pub. L. 117–81, div. A, title V, § 522, Dec. 27, 2021, 135 Stat. 1686, provided that:
 
 > **“(a) In General.—** Not later than one year after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall take the following steps regarding military accessions in each Armed Force under the jurisdiction of the Secretary of a military department:
 
@@ -2855,7 +2855,7 @@ Pub. L. 117–81, div. A, title V, § 522, Dec. 27, 2021, 135 Stat. 1686, prov
 
 **Primary Prevention Workforce**
 
-Pub. L. 117–81, div. A, title V, § 549B, Dec. 27, 2021, 135 Stat. 1722, as amended by Pub. L. 117–263, div. A, title V, § 547(b), Dec. 23, 2022, 136 Stat. 2585, provided that:
+Pub. L. 117–81, div. A, title V, § 549B, Dec. 27, 2021, 135 Stat. 1722, as amended by Pub. L. 117–263, div. A, title V, § 547(b), Dec. 23, 2022, 136 Stat. 2585, provided that:
 
 > **“(a) Establishment.—** The Secretary of Defense shall establish a Primary Prevention Workforce to provide a comprehensive and integrated program across the Department of Defense enterprise for the primary prevention of interpersonal and self-directed violence, including sexual assault, sexual harassment, domestic violence, child abuse and maltreatment, problematic juvenile sexual behavior, suicide, workplace violence, and substance misuse.
 
@@ -2915,7 +2915,7 @@ Pub. L. 117–81, div. A, title V, § 549B, Dec. 27, 2021, 135 Stat. 1722, as 
 
 **Cadre of Software Development and Acquisition Experts**
 
-Pub. L. 117–81, div. A, title VIII, § 836, Dec. 27, 2021, 135 Stat. 1837, provided that:
+Pub. L. 117–81, div. A, title VIII, § 836, Dec. 27, 2021, 135 Stat. 1837, provided that:
 
 > **“(a) In General.—** Not later than January 1, 2023, the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall establish a cadre of personnel who are experts in software development, acquisition, and sustainment to improve the effectiveness of software development, acquisition, and sustainment programs or activities of the Department of Defense.
 
@@ -2957,7 +2957,7 @@ Pub. L. 117–81, div. A, title VIII, § 836, Dec. 27, 2021, 135 Stat. 1837, p
 
 **Digital Talent Recruiting Officer**
 
-Pub. L. 117–81, div. A, title IX, § 909, Dec. 27, 2021, 135 Stat. 1876, provided that:
+Pub. L. 117–81, div. A, title IX, § 909, Dec. 27, 2021, 135 Stat. 1876, provided that:
 
 > **“(a) Digital Talent Recruiting for the Department of Defense.—**
 
@@ -2995,7 +2995,7 @@ Pub. L. 117–81, div. A, title IX, § 909, Dec. 27, 2021, 135 Stat. 1876, pro
 
 **Measuring and Incentivizing Programming Proficiency**
 
-Pub. L. 116–283, div. A, title II, § 241(a), (b), Jan. 1, 2021, 134 Stat. 3486, 3487, provided that:
+Pub. L. 116–283, div. A, title II, § 241(a), (b), Jan. 1, 2021, 134 Stat. 3486, 3487, provided that:
 
 > **“(a) In General.—** Not later than two years after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall carry out the following activities:
 
@@ -3019,7 +3019,7 @@ Pub. L. 116–283, div. A, title II, § 241(a), (b), Jan. 1, 2021, 134 Stat. 3
 
 **Evaluation of Barriers to Minority Participation in Certain Units of the Armed Forces**
 
-Pub. L. 116–283, div. A, title V, § 557, Jan. 1, 2021, 134 Stat. 3637, provided that:
+Pub. L. 116–283, div. A, title V, § 557, Jan. 1, 2021, 134 Stat. 3637, provided that:
 
 > **“(a) Study Required.—**
 
@@ -3105,7 +3105,7 @@ Pub. L. 116–283, div. A, title V, § 557, Jan. 1, 2021, 134 Stat. 3637, prov
 
 **Personal Protective Equipment Matters**
 
-Pub. L. 116–283, div. A, title X, § 1091, Jan. 1, 2021, 134 Stat. 3882, provided that:
+Pub. L. 116–283, div. A, title X, § 1091, Jan. 1, 2021, 134 Stat. 3882, provided that:
 
 > **“(a) Briefings on Fielding of Newest Generations of PPE to the Armed Forces.—**
 
@@ -3151,7 +3151,7 @@ Pub. L. 116–283, div. A, title X, § 1091, Jan. 1, 2021, 134 Stat. 3882, pro
 
 **Policy on the Talent Management of Digital Expertise and Software Professionals**
 
-Pub. L. 116–92, div. A, title II, § 230, Dec. 20, 2019, 133 Stat. 1273, as amended by Pub. L. 118–159, div. A, title II, § 221(a), Dec. 23, 2024, 138 Stat. 1828, provided that:
+Pub. L. 116–92, div. A, title II, § 230, Dec. 20, 2019, 133 Stat. 1273, as amended by Pub. L. 118–159, div. A, title II, § 221(a), Dec. 23, 2024, 138 Stat. 1828, provided that:
 
 > **“(a) Policy.—**
 
@@ -3191,7 +3191,7 @@ Pub. L. 116–92, div. A, title II, § 230, Dec. 20, 2019, 133 Stat. 1273, as 
 
 **Activities on Identification and Development of Enhanced Personal Protective Equipment Against Blast Injury**
 
-Pub. L. 115–232, div. A, title II, § 226, Aug. 13, 2018, 132 Stat. 1685, as amended by Pub. L. 116–283, div. A, title X, § 1081(d)(2), Jan. 1, 2021, 134 Stat. 3873, provided that:
+Pub. L. 115–232, div. A, title II, § 226, Aug. 13, 2018, 132 Stat. 1685, as amended by Pub. L. 116–283, div. A, title X, § 1081(d)(2), Jan. 1, 2021, 134 Stat. 3873, provided that:
 
 > **“(a) Activities Required.—** During calendar year 2019, the Secretary of the Army shall, in consultation with the Director of Operational Test and Evaluation, carry out a set of activities to identify and develop personal equipment to provide enhanced protection against injuries caused by blasts in combat and training.
 
@@ -3251,11 +3251,11 @@ Pub. L. 115–232, div. A, title II, § 226, Aug. 13, 2018, 132 Stat. 1685, as
 
 > **“(g) Funding.—** Of the amount authorized to be appropriated for fiscal year 2019 by this Act for research, development, test, and evaluation, as specified in the funding tables in division D [div. D of Pub. L. 115–232, 132 Stat. 2328], $10,000,000 may be used to carry out this section.”
 
-[Pub. L. 116–283, div. A, title X, § 1081(d), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(d)(2) of Pub. L. 116–283 to section 226 of Pub. L. 115–232, set out above, is effective as of Aug. 13, 2018, and as if included in Pub. L. 115–232.]
+[Pub. L. 116–283, div. A, title X, § 1081(d), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(d)(2) of Pub. L. 116–283 to section 226 of Pub. L. 115–232, set out above, is effective as of Aug. 13, 2018, and as if included in Pub. L. 115–232.]
 
 **Enhanced Protections for Prospective Members and New Members of the Armed Forces During Entry-Level Processing and Training**
 
-Pub. L. 113–66, div. A, title XVII, § 1741, Dec. 26, 2013, 127 Stat. 977, as amended by Pub. L. 113–291, div. A, title V, § 531(e), Dec. 19, 2014, 128 Stat. 3364, provided that:
+Pub. L. 113–66, div. A, title XVII, § 1741, Dec. 26, 2013, 127 Stat. 977, as amended by Pub. L. 113–291, div. A, title V, § 531(e), Dec. 19, 2014, 128 Stat. 3364, provided that:
 
 > **“(a) Defining Inappropriate and Prohibited Relationships, Communication, Conduct, and Contact Between Certain Members.—**
 
@@ -3409,43 +3409,43 @@ Pub. L. 113–66, div. A, title XVII, § 1741, Dec. 26, 2013, 127 Stat. 977, a
 
 **Amendments**
 
-2021—Pub. L. 117–81, div. A, title X, § 1081(a)(25), Dec. 27, 2021, 135 Stat. 1921, struck out period after “2200g” in item for chapter 113.
+2021—Pub. L. 117–81, div. A, title X, § 1081(a)(25), Dec. 27, 2021, 135 Stat. 1921, struck out period after “2200g” in item for chapter 113.
 
-Pub. L. 116–283, div. A, title X, § 1081(c)(8), Jan. 1, 2021, 134 Stat. 3873, amended Pub. L. 116–92, § 1731(a)(2). See 2019 Amendment note below.
+Pub. L. 116–283, div. A, title X, § 1081(c)(8), Jan. 1, 2021, 134 Stat. 3873, amended Pub. L. 116–92, § 1731(a)(2). See 2019 Amendment note below.
 
-Pub. L. 116–283, div. A, title X, § 1081(a)(2), Jan. 1, 2021, 134 Stat. 3870, which directed the amendment of the table of chapters “at the beginning of part IV” of this subtitle by adding item for chapter 113, was executed in the analysis for this part to reflect the probable intent of Congress.
+Pub. L. 116–283, div. A, title X, § 1081(a)(2), Jan. 1, 2021, 134 Stat. 3870, which directed the amendment of the table of chapters “at the beginning of part IV” of this subtitle by adding item for chapter 113, was executed in the analysis for this part to reflect the probable intent of Congress.
 
-2019—Pub. L. 116–92, div. A, title XVII, § 1731(a)(2), Dec. 20, 2019, 133 Stat. 1812, as amended by Pub. L. 116–283, div. A, title X, § 1081(c)(8), Jan. 1, 2021, 134 Stat. 3873, added item for chapter 112 and struck out former item for chapter 112 “Information Security Scholarship Program”.
+2019—Pub. L. 116–92, div. A, title XVII, § 1731(a)(2), Dec. 20, 2019, 133 Stat. 1812, as amended by Pub. L. 116–283, div. A, title X, § 1081(c)(8), Jan. 1, 2021, 134 Stat. 3873, added item for chapter 112 and struck out former item for chapter 112 “Information Security Scholarship Program”.
 
-2004—Pub. L. 108–375, div. A, title V, § 532(e), Oct. 28, 2004, 118 Stat. 1900, added item for chapter 107 and redesignated former item for chapter 107 as 106A.
+2004—Pub. L. 108–375, div. A, title V, § 532(e), Oct. 28, 2004, 118 Stat. 1900, added item for chapter 107 and redesignated former item for chapter 107 as 106A.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title IX, § 922(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–236, added item for chapter 112.
+2000—Pub. L. 106–398, § 1 [[div. A], title IX, § 922(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–236, added item for chapter 112.
 
-1991—Pub. L. 102–25, title VII, § 701(e)(2), Apr. 6, 1991, 105 Stat. 114, inserted “2161” in item for chapter 108.
+1991—Pub. L. 102–25, title VII, § 701(e)(2), Apr. 6, 1991, 105 Stat. 114, inserted “2161” in item for chapter 108.
 
-1990—Pub. L. 101–510, div. A, title II, § 247(a)(2)(B), title IX, § 911(b)(3), Nov. 5, 1990, 104 Stat. 1523, 1626, substituted “Department of Defense Schools” for “Granting of Advanced Degrees at Department of Defense Schools” in item for chapter 108 and “Support of Science, Mathematics, and Engineering Education” for “National Defense Science and Engineering Graduate Fellowships” in item for chapter 111.
+1990—Pub. L. 101–510, div. A, title II, § 247(a)(2)(B), title IX, § 911(b)(3), Nov. 5, 1990, 104 Stat. 1523, 1626, substituted “Department of Defense Schools” for “Granting of Advanced Degrees at Department of Defense Schools” in item for chapter 108 and “Support of Science, Mathematics, and Engineering Education” for “National Defense Science and Engineering Graduate Fellowships” in item for chapter 111.
 
-1989—Pub. L. 101–189, div. A, title VIII, § 843(d)(2), title XVI, § 1622(d)(1), Nov. 29, 1989, 103 Stat. 1517, 1604, substituted “TRAINING AND EDUCATION” for “TRAINING” in heading for part III and added item for chapter 111.
+1989—Pub. L. 101–189, div. A, title VIII, § 843(d)(2), title XVI, § 1622(d)(1), Nov. 29, 1989, 103 Stat. 1517, 1604, substituted “TRAINING AND EDUCATION” for “TRAINING” in heading for part III and added item for chapter 111.
 
-1987—Pub. L. 100–180, div. A, title VII, § 711(b), Dec. 4, 1987, 101 Stat. 1111, substituted “Financial Assistance Programs” for “Scholarship Program” in item for chapter 105.
+1987—Pub. L. 100–180, div. A, title VII, § 711(b), Dec. 4, 1987, 101 Stat. 1111, substituted “Financial Assistance Programs” for “Scholarship Program” in item for chapter 105.
 
-1986—Pub. L. 99–399, title VIII, § 806(d)(2), Aug. 27, 1986, 100 Stat. 888, added item for chapter 110.
+1986—Pub. L. 99–399, title VIII, § 806(d)(2), Aug. 27, 1986, 100 Stat. 888, added item for chapter 110.
 
-1985—Pub. L. 99–145, title VI, § 671(a)(2), Nov. 8, 1985, 99 Stat. 663, added item for chapter 109.
+1985—Pub. L. 99–145, title VI, § 671(a)(2), Nov. 8, 1985, 99 Stat. 663, added item for chapter 109.
 
-1984—Pub. L. 98–525, title VII, § 705(a)(2), Oct. 19, 1984, 98 Stat. 2567, substituted “Members of the Selected Reserve” for “Enlisted Members of the Selected Reserve of the Ready Reserve” in item for chapter 106.
+1984—Pub. L. 98–525, title VII, § 705(a)(2), Oct. 19, 1984, 98 Stat. 2567, substituted “Members of the Selected Reserve” for “Enlisted Members of the Selected Reserve of the Ready Reserve” in item for chapter 106.
 
-1980—Pub. L. 96–513, title V, § 511(99), Dec. 12, 1980, 94 Stat. 2929, capitalized “Assistance”, “Persons”, “Enlisting”, “Active”, and “Duty” in item for chapter 107.
+1980—Pub. L. 96–513, title V, § 511(99), Dec. 12, 1980, 94 Stat. 2929, capitalized “Assistance”, “Persons”, “Enlisting”, “Active”, and “Duty” in item for chapter 107.
 
-Pub. L. 96–450, title IV, § 406(b), Oct. 14, 1980, 94 Stat. 1981, added item for chapter 108.
+Pub. L. 96–450, title IV, § 406(b), Oct. 14, 1980, 94 Stat. 1981, added item for chapter 108.
 
-Pub. L. 96–342, title IX, § 901(b), Sept. 8, 1980, 94 Stat. 1114, added item for chapter 107.
+Pub. L. 96–342, title IX, § 901(b), Sept. 8, 1980, 94 Stat. 1114, added item for chapter 107.
 
-1977—Pub. L. 95–79, title IV, § 402(b), July 30, 1977, 91 Stat. 330, added item for chapter 106.
+1977—Pub. L. 95–79, title IV, § 402(b), July 30, 1977, 91 Stat. 330, added item for chapter 106.
 
-1972—Pub. L. 92–426, § 2(b), Sept. 21, 1972, 86 Stat. 719, added items for chapters 104 and 105.
+1972—Pub. L. 92–426, § 2(b), Sept. 21, 1972, 86 Stat. 719, added items for chapters 104 and 105.
 
-1964—Pub. L. 88–647, title I, § 101(2), title II, § 201(2), Oct. 13, 1964, 78 Stat. 1064, 1069, added items for chapters 102 and 103.
+1964—Pub. L. 88–647, title I, § 101(2), title II, § 201(2), Oct. 13, 1964, 78 Stat. 1064, 1069, added items for chapters 102 and 103.
 
 - [CHAPTER 101—TRAINING GENERALLY](chapter-101-training-generally.md)
 
@@ -3481,65 +3481,65 @@ Pub. L. 96–342, title IX, § 901(b), Sept. 8, 1980, 94 Stat. 1114, added ite
 
 **Amendments**
 
-2021—Pub. L. 116–283, div. A, title XVIII, §§ 1808(a)(4), 1821(a)(4), 1851(d)(2), 1872(b)(2), 1880(a), 1881(b), 1882(a)(2), Jan. 1, 2021, 134 Stat. 4159, 4195, 4273, 4289, 4293, substituted “SERVICE, SUPPLY, AND PROPERTY” for “SERVICE, SUPPLY, AND PROCUREMENT” in heading for part IV and “Miscellaneous Provisions Relating to Property” for “Miscellaneous Procurement Provisions” in item for chapter 141 and struck out items for chapters 137 “Procurement Generally”, 139 “Research and Development”, 140 “Procurement of Commercial Products and Commercial Services”, 142 “Procurement Technical Assistance Cooperative Agreement Program”, 144 “Major Defense Acquisition Programs”, 144B “Weapon Systems Development and Related Matters”, 148 “National Defense Technology and Industrial Base, Defense Reinvestment, and Defense Conversion”, and 149 “Defense Acquisition System”.
+2021—Pub. L. 116–283, div. A, title XVIII, §§ 1808(a)(4), 1821(a)(4), 1851(d)(2), 1872(b)(2), 1880(a), 1881(b), 1882(a)(2), Jan. 1, 2021, 134 Stat. 4159, 4195, 4273, 4289, 4293, substituted “SERVICE, SUPPLY, AND PROPERTY” for “SERVICE, SUPPLY, AND PROCUREMENT” in heading for part IV and “Miscellaneous Provisions Relating to Property” for “Miscellaneous Procurement Provisions” in item for chapter 141 and struck out items for chapters 137 “Procurement Generally”, 139 “Research and Development”, 140 “Procurement of Commercial Products and Commercial Services”, 142 “Procurement Technical Assistance Cooperative Agreement Program”, 144 “Major Defense Acquisition Programs”, 144B “Weapon Systems Development and Related Matters”, 148 “National Defense Technology and Industrial Base, Defense Reinvestment, and Defense Conversion”, and 149 “Defense Acquisition System”.
 
-Pub. L. 116–283, div. A, title X, § 1081(a)(3), Jan. 1, 2021, 134 Stat. 3870, substituted “2375.” for “2377” in item for chapter 140.
+Pub. L. 116–283, div. A, title X, § 1081(a)(3), Jan. 1, 2021, 134 Stat. 3870, substituted “2375.” for “2377” in item for chapter 140.
 
-2018—Pub. L. 115–232, div. A, title VIII, § 836(e)(12), Aug. 13, 2018, 132 Stat. 1870, substituted “Procurement of Commercial Products and Commercial Services” for “Procurement of Commercial Items” and “2377” for “2375” in item for chapter 140.
+2018—Pub. L. 115–232, div. A, title VIII, § 836(e)(12), Aug. 13, 2018, 132 Stat. 1870, substituted “Procurement of Commercial Products and Commercial Services” for “Procurement of Commercial Items” and “2377” for “2375” in item for chapter 140.
 
-2017—Pub. L. 115–91, div. A, title X, § 1081(d)(4), Dec. 12, 2017, 131 Stat. 1600, amended directory language of Pub. L. 114–328, § 805(a)(2). See 2016 Amendment note below.
+2017—Pub. L. 115–91, div. A, title X, § 1081(d)(4), Dec. 12, 2017, 131 Stat. 1600, amended directory language of Pub. L. 114–328, § 805(a)(2). See 2016 Amendment note below.
 
-2016—Pub. L. 114–328, div. A, title VIII, § 846(2), Dec. 23, 2016, 130 Stat. 2292, struck out item for chapter 144A “Major Automated Information System Programs”.
+2016—Pub. L. 114–328, div. A, title VIII, § 846(2), Dec. 23, 2016, 130 Stat. 2292, struck out item for chapter 144A “Major Automated Information System Programs”.
 
-Pub. L. 114–328, div. A, title VIII, § 805(a)(2), Dec. 23, 2016, 130 Stat. 2255, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(4), Dec. 12, 2017, 131 Stat. 1600, added item for chapter 144B.
+Pub. L. 114–328, div. A, title VIII, § 805(a)(2), Dec. 23, 2016, 130 Stat. 2255, as amended by Pub. L. 115–91, div. A, title X, § 1081(d)(4), Dec. 12, 2017, 131 Stat. 1600, added item for chapter 144B.
 
-2011—Pub. L. 111–383, div. A, title VIII, § 861(b), Jan. 7, 2011, 124 Stat. 4292, added item for chapter 149.
+2011—Pub. L. 111–383, div. A, title VIII, § 861(b), Jan. 7, 2011, 124 Stat. 4292, added item for chapter 149.
 
-2009—Pub. L. 111–84, div. A, title X, § 1073(a)(21), Oct. 28, 2009, 123 Stat. 2473, substituted “2551” for “2541” in item for chapter 152.
+2009—Pub. L. 111–84, div. A, title X, § 1073(a)(21), Oct. 28, 2009, 123 Stat. 2473, substituted “2551” for “2541” in item for chapter 152.
 
-2006—Pub. L. 109–364, div. A, title VIII, § 816(a)(2), div. B, title XXVIII, § 2851(c)(1), Oct. 17, 2006, 120 Stat. 2326, 2495, added items for chapters 144A and 173.
+2006—Pub. L. 109–364, div. A, title VIII, § 816(a)(2), div. B, title XXVIII, § 2851(c)(1), Oct. 17, 2006, 120 Stat. 2326, 2495, added items for chapters 144A and 173.
 
-2003—Pub. L. 108–136, div. A, title X, § 1045(a)(1), Nov. 24, 2003, 117 Stat. 1612, substituted “2700” for “2701” in item for chapter 160.
+2003—Pub. L. 108–136, div. A, title X, § 1045(a)(1), Nov. 24, 2003, 117 Stat. 1612, substituted “2700” for “2701” in item for chapter 160.
 
-2001—Pub. L. 107–107, div. A, title IX, § 911(b), Dec. 28, 2001, 115 Stat. 1196, added item for chapter 135.
+2001—Pub. L. 107–107, div. A, title IX, § 911(b), Dec. 28, 2001, 115 Stat. 1196, added item for chapter 135.
 
-1997—Pub. L. 105–85, div. A, title III, §§ 355(c)(2), 371(a)(2), (c)(5), title X, §§ 1073(a)(2), 1074(d)(2), Nov. 18, 1997, 111 Stat. 1694, 1705, 1900, 1910, added item for chapter 136 and substituted “2460” for “2461” in item for chapter 146, “Commissaries and Exchanges and Other Morale, Welfare, and Recreation Activities” for “Utilities and Services” in item for chapter 147, “2500” for “2491” in item for chapter 148, and “2541” for “2540” in item for chapter 152.
+1997—Pub. L. 105–85, div. A, title III, §§ 355(c)(2), 371(a)(2), (c)(5), title X, §§ 1073(a)(2), 1074(d)(2), Nov. 18, 1997, 111 Stat. 1694, 1705, 1900, 1910, added item for chapter 136 and substituted “2460” for “2461” in item for chapter 146, “Commissaries and Exchanges and Other Morale, Welfare, and Recreation Activities” for “Utilities and Services” in item for chapter 147, “2500” for “2491” in item for chapter 148, and “2541” for “2540” in item for chapter 152.
 
-1996—Pub. L. 104–201, div. A, title XI, § 1123(a)(3), Sept. 23, 1996, 110 Stat. 2688, struck out item for chapter 167 “Defense Mapping Agency”.
+1996—Pub. L. 104–201, div. A, title XI, § 1123(a)(3), Sept. 23, 1996, 110 Stat. 2688, struck out item for chapter 167 “Defense Mapping Agency”.
 
-Pub. L. 104–106, div. A, title X, § 1061(b)(2), Feb. 10, 1996, 110 Stat. 442, struck out item for chapter 171 “Security and Control of Supplies”.
+Pub. L. 104–106, div. A, title X, § 1061(b)(2), Feb. 10, 1996, 110 Stat. 442, struck out item for chapter 171 “Security and Control of Supplies”.
 
-1994—Pub. L. 103–355, title VIII, § 8101(b), Oct. 13, 1994, 108 Stat. 3389, added item for chapter 140.
+1994—Pub. L. 103–355, title VIII, § 8101(b), Oct. 13, 1994, 108 Stat. 3389, added item for chapter 140.
 
-1993—Pub. L. 103–160, div. A, title VIII, § 828(b)(1), Nov. 30, 1993, 107 Stat. 1713, struck out item for chapter 135 “Encouragement of Aviation”.
+1993—Pub. L. 103–160, div. A, title VIII, § 828(b)(1), Nov. 30, 1993, 107 Stat. 1713, struck out item for chapter 135 “Encouragement of Aviation”.
 
-1992—Pub. L. 102–484, div. D, title XLII, § 4271(b)(1), Oct. 23, 1992, 106 Stat. 2695, added item for chapter 148 and struck out former items for chapters 148 “Defense Industrial Base”, 149 “Manufacturing Technology”, and 150 “Development of Dual-Use Critical Technologies”.
+1992—Pub. L. 102–484, div. D, title XLII, § 4271(b)(1), Oct. 23, 1992, 106 Stat. 2695, added item for chapter 148 and struck out former items for chapters 148 “Defense Industrial Base”, 149 “Manufacturing Technology”, and 150 “Development of Dual-Use Critical Technologies”.
 
-1991—Pub. L. 102–190, div. A, title VIII, § 821(f), title X, § 1061(a)(27)(A), Dec. 5, 1991, 105 Stat. 1432, 1474, substituted “Manufacturing” for “Maufacturing” in item for chapter 149, substituted “Development of Dual-Use Critical Technologies” for “Issue to Armed Forces” in item for chapter 150, struck out item for chapter 151 “Issue of Serviceable Material Other Than to Armed Forces”, and added item for chapter 152.
+1991—Pub. L. 102–190, div. A, title VIII, § 821(f), title X, § 1061(a)(27)(A), Dec. 5, 1991, 105 Stat. 1432, 1474, substituted “Manufacturing” for “Maufacturing” in item for chapter 149, substituted “Development of Dual-Use Critical Technologies” for “Issue to Armed Forces” in item for chapter 150, struck out item for chapter 151 “Issue of Serviceable Material Other Than to Armed Forces”, and added item for chapter 152.
 
-1990—Pub. L. 101–510, div. A, title VIII, § 823(b)(1), title XVIII, § 1801(a)(2), Nov. 5, 1990, 104 Stat. 1602, 1757, added item for chapter 149, redesignated former item for chapter 149 as item for chapter 150, and added item for chapter 172.
+1990—Pub. L. 101–510, div. A, title VIII, § 823(b)(1), title XVIII, § 1801(a)(2), Nov. 5, 1990, 104 Stat. 1602, 1757, added item for chapter 149, redesignated former item for chapter 149 as item for chapter 150, and added item for chapter 172.
 
-1989—Pub. L. 101–189, div. A, title IX, § 931(e)(2), Nov. 29, 1989, 103 Stat. 1535, substituted “Cooperative Agreements” for “Acquisition and Cross-Servicing Agreements” in item for chapter 138.
+1989—Pub. L. 101–189, div. A, title IX, § 931(e)(2), Nov. 29, 1989, 103 Stat. 1535, substituted “Cooperative Agreements” for “Acquisition and Cross-Servicing Agreements” in item for chapter 138.
 
-1988—Pub. L. 100–456, div. A, title III, §§ 342(a)(2), 344(b)(2), title VIII, § 821(b)(2), Sept. 29, 1988, 102 Stat. 1961, 1962, 2016, substituted “Defense Industrial Base” for “Buy American Requirements” in item for chapter 148, substituted “Property Records and Report of Theft or Loss of Certain Property” for “Property Records” in item for chapter 161, and added item for chapter 171.
+1988—Pub. L. 100–456, div. A, title III, §§ 342(a)(2), 344(b)(2), title VIII, § 821(b)(2), Sept. 29, 1988, 102 Stat. 1961, 1962, 2016, substituted “Defense Industrial Base” for “Buy American Requirements” in item for chapter 148, substituted “Property Records and Report of Theft or Loss of Certain Property” for “Property Records” in item for chapter 161, and added item for chapter 171.
 
-Pub. L. 100–370, §§ 1(e)(2), 2(a)(2), 3(a)(2), July 19, 1988, 102 Stat. 845, 854, 855, added items for chapters 134, 146, and 148.
+Pub. L. 100–370, §§ 1(e)(2), 2(a)(2), 3(a)(2), July 19, 1988, 102 Stat. 845, 854, 855, added items for chapters 134, 146, and 148.
 
-1987—Pub. L. 100–26, § 7(c)(1), Apr. 21, 1987, 101 Stat. 280, substituted “Acquisition and Cross-Servicing Agreements with NATO Allies and Other Countries” for “North Atlantic Treaty Organization Acquisition and Cross-Servicing Agreements” in item for chapter 138, substituted “Major Defense Acquisition Programs” for “Oversight of Cost Growth in Major Programs” and “2430” for “2431” in item for chapter 144, and substituted “2721” for “2701” in item for chapter 161.
+1987—Pub. L. 100–26, § 7(c)(1), Apr. 21, 1987, 101 Stat. 280, substituted “Acquisition and Cross-Servicing Agreements with NATO Allies and Other Countries” for “North Atlantic Treaty Organization Acquisition and Cross-Servicing Agreements” in item for chapter 138, substituted “Major Defense Acquisition Programs” for “Oversight of Cost Growth in Major Programs” and “2430” for “2431” in item for chapter 144, and substituted “2721” for “2701” in item for chapter 161.
 
-1986—Pub. L. 99–661, div. A, title XIII, § 1343(a)(22), Nov. 14, 1986, 100 Stat. 3994, substituted “2341” for “2321” in item for chapter 138.
+1986—Pub. L. 99–661, div. A, title XIII, § 1343(a)(22), Nov. 14, 1986, 100 Stat. 3994, substituted “2341” for “2321” in item for chapter 138.
 
-Pub. L. 99–499, title II, § 211(a)(2), Oct. 17, 1986, 100 Stat. 1725, added item for chapter 160.
+Pub. L. 99–499, title II, § 211(a)(2), Oct. 17, 1986, 100 Stat. 1725, added item for chapter 160.
 
-Pub. L. 99–433, title VI, § 605(b), Oct. 1, 1986, 100 Stat. 1075a, added item for chapter 144.
+Pub. L. 99–433, title VI, § 605(b), Oct. 1, 1986, 100 Stat. 1075a, added item for chapter 144.
 
-1984—Pub. L. 98–525, title XII, § 1241(a)(2), Oct. 19, 1984, 98 Stat. 2606, added item for chapter 142.
+1984—Pub. L. 98–525, title XII, § 1241(a)(2), Oct. 19, 1984, 98 Stat. 2606, added item for chapter 142.
 
-1982—Pub. L. 97–295, § 1(50)(E), Oct. 12, 1982, 96 Stat. 1300, added item for chapter 167.
+1982—Pub. L. 97–295, § 1(50)(E), Oct. 12, 1982, 96 Stat. 1300, added item for chapter 167.
 
-Pub. L. 97–214, § 2(b), July 12, 1982, 96 Stat. 169, added item for chapter 169.
+Pub. L. 97–214, § 2(b), July 12, 1982, 96 Stat. 169, added item for chapter 169.
 
-1980—Pub. L. 96–323, § 2(b), Aug. 4, 1980, 94 Stat. 1019, added item for chapter 138.
+1980—Pub. L. 96–323, § 2(b), Aug. 4, 1980, 94 Stat. 1019, added item for chapter 138.
 
 - [CHAPTER 131—PLANNING AND COORDINATION](chapter-131-planning-and-coordination.md)
 
@@ -3619,35 +3619,35 @@ Capitalization in subpart items in this analysis was editorially reformatted fro
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title VIII, § 811(a)(1), title XVII, § 1701(a)(20), (21), Dec. 18, 2025, 139 Stat. 948, 1209, substituted “327. Weapon Systems Development and Related Matters” for “326. Weapon Systems Development And Related Matters”, struck out item for chapter 345 “Acquisition of Information Technology”, and substituted “Development, Application, and Support of Dual-Use Technologies” for “Development, Application, and Support of Dual-use Technologies” in item for chapter 383. Amendments were made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title VIII, § 811(a)(1), title XVII, § 1701(a)(20), (21), Dec. 18, 2025, 139 Stat. 948, 1209, substituted “327. Weapon Systems Development and Related Matters” for “326. Weapon Systems Development And Related Matters”, struck out item for chapter 345 “Acquisition of Information Technology”, and substituted “Development, Application, and Support of Dual-Use Technologies” for “Development, Application, and Support of Dual-use Technologies” in item for chapter 383. Amendments were made pursuant to operation of section 102 of this title.
 
-2024—Pub. L. 118–159, div. A, title XVII, § 1701(a)(34)(F), Dec. 23, 2024, 138 Stat. 2205, which directed the insertion of new items for subpart F and chapters 321 to 326 after the item relating to chapter 307, was so executed, notwithstanding that items for subpart F and chapters 321 to 327 (which chapter items did not include designators indicating the first section of each chapter) had been added previously by Pub. L. 116–283, div. A, title XVIII, § 1846(a), Jan. 1, 2021, 134 Stat. 4247. See 2021 Amendment note below.
+2024—Pub. L. 118–159, div. A, title XVII, § 1701(a)(34)(F), Dec. 23, 2024, 138 Stat. 2205, which directed the insertion of new items for subpart F and chapters 321 to 326 after the item relating to chapter 307, was so executed, notwithstanding that items for subpart F and chapters 321 to 327 (which chapter items did not include designators indicating the first section of each chapter) had been added previously by Pub. L. 116–283, div. A, title XVIII, § 1846(a), Jan. 1, 2021, 134 Stat. 4247. See 2021 Amendment note below.
 
-Pub. L. 118–159, div. A, title XVII, § 1701(a)(34)(A)–(E), (G)–(I), Dec. 23, 2024, 138 Stat. 2205, added items for chapters 207, 225, 243, 272, 363, 367, and 383; struck out former items for chapters 207 “Budgeting and Appropriations Matters”, 225 “Planning and Solicitation Relating to Particular Items or Services”, 243 “Other Matters Relating to Awarding and Types of Contracts”, 272 “Other Provisions Relating to Cost or Pricing Data”, 363 “Prohibitions and Penalties”, 367 “Other Administrative and Miscellaneous Provisions”, and 383 “Development, Application, & Support of Dual-Use Technologies”; and substituted “3901” for “3961” in item for chapter 287.
+Pub. L. 118–159, div. A, title XVII, § 1701(a)(34)(A)–(E), (G)–(I), Dec. 23, 2024, 138 Stat. 2205, added items for chapters 207, 225, 243, 272, 363, 367, and 383; struck out former items for chapters 207 “Budgeting and Appropriations Matters”, 225 “Planning and Solicitation Relating to Particular Items or Services”, 243 “Other Matters Relating to Awarding and Types of Contracts”, 272 “Other Provisions Relating to Cost or Pricing Data”, 363 “Prohibitions and Penalties”, 367 “Other Administrative and Miscellaneous Provisions”, and 383 “Development, Application, & Support of Dual-Use Technologies”; and substituted “3901” for “3961” in item for chapter 287.
 
-2022—Pub. L. 117–263, div. A, title VIII, § 804(b), Dec. 23, 2022, 136 Stat. 2701, added item for chapter 253 and struck out former item for chapter 253 “[Reserved]”.
+2022—Pub. L. 117–263, div. A, title VIII, § 804(b), Dec. 23, 2022, 136 Stat. 2701, added item for chapter 253 and struck out former item for chapter 253 “[Reserved]”.
 
-2021—Pub. L. 117–81, div. A, title XVII, § 1701(i)(8)(A), (*l*)(2), Dec. 27, 2021, 135 Stat. 2142, 2144, which directed amendment of this analysis by substituting “[Reserved]” for “Foreign Acquisitions” and starting section number 3881 in item for chapter 283 and by adding item for chapter 287 and striking out former item for chapter 287 “Socioeconomic Programs”, was executed by amending this analysis as directed, notwithstanding that other amendments by section 1701(i) and (*l*) of Pub. L. 117–81 were directed to Pub. L. 116–283, and not to the Code directly, and that such amendments are effective as if included in title XVIII of Pub. L. 116–283.
+2021—Pub. L. 117–81, div. A, title XVII, § 1701(i)(8)(A), (*l*)(2), Dec. 27, 2021, 135 Stat. 2142, 2144, which directed amendment of this analysis by substituting “[Reserved]” for “Foreign Acquisitions” and starting section number 3881 in item for chapter 283 and by adding item for chapter 287 and striking out former item for chapter 287 “Socioeconomic Programs”, was executed by amending this analysis as directed, notwithstanding that other amendments by section 1701(i) and (*l*) of Pub. L. 117–81 were directed to Pub. L. 116–283, and not to the Code directly, and that such amendments are effective as if included in title XVIII of Pub. L. 116–283.
 
-Pub. L. 117–81, div. A, title XVII, § 1701(i)(5)(A), (B)(ii), Dec. 27, 2021, 135 Stat. 2141, made similar amendments, resulting in the substitution of “[Reserved]” for “Rapid Acquisition Procedures” and starting section number 3601 in item for chapter 253. Section 1701(i)(5)(B)(ii) amended Pub. L. 116–283, div. A, title XVIII, § 1824(b), Jan. 1, 2021, 134 Stat. 4205, which had added the item for chapter 253, while section 1701(i)(5)(A) amended this analysis directly.
+Pub. L. 117–81, div. A, title XVII, § 1701(i)(5)(A), (B)(ii), Dec. 27, 2021, 135 Stat. 2141, made similar amendments, resulting in the substitution of “[Reserved]” for “Rapid Acquisition Procedures” and starting section number 3601 in item for chapter 253. Section 1701(i)(5)(B)(ii) amended Pub. L. 116–283, div. A, title XVIII, § 1824(b), Jan. 1, 2021, 134 Stat. 4205, which had added the item for chapter 253, while section 1701(i)(5)(A) amended this analysis directly.
 
-Pub. L. 117–81, div. A, title XVII, § 1701(g), Dec. 27, 2021, 135 Stat. 2140, substituted “3061”, “3101”, and “3131”, respectively, for “3021”, “3051”, and “3101”, respectively, in items for chapters 203, 205, and 207, added item for chapter 247 and struck out former item for chapter 247 “Acquisition of Commercial Items”, substituted “3571” for “3551” in item for chapter 251, added items for chapters 257 and 258 and struck out former item for chapter 257 “Contracts for Long-Term Lease or Charter of Vessels, Aircraft, and Combat”, and substituted “Provisions” for “requirements” in item for subpart D.
+Pub. L. 117–81, div. A, title XVII, § 1701(g), Dec. 27, 2021, 135 Stat. 2140, substituted “3061”, “3101”, and “3131”, respectively, for “3021”, “3051”, and “3101”, respectively, in items for chapters 203, 205, and 207, added item for chapter 247 and struck out former item for chapter 247 “Acquisition of Commercial Items”, substituted “3571” for “3551” in item for chapter 251, added items for chapters 257 and 258 and struck out former item for chapter 257 “Contracts for Long-Term Lease or Charter of Vessels, Aircraft, and Combat”, and substituted “Provisions” for “requirements” in item for subpart D.
 
-Pub. L. 116–283, div. A, title XVIII, §§ 1841(a)(2), 1856(a), Jan. 1, 2021, 134 Stat. 4243, 4273, as amended by Pub. L. 117–81, div. A, title XVII, § 1701(i)(9)(A), (u)(1), Dec. 27, 2021, 135 Stat. 2142, 2150, added items for subpart E and chapters 301 to 307 and item for chapter 343.
+Pub. L. 116–283, div. A, title XVIII, §§ 1841(a)(2), 1856(a), Jan. 1, 2021, 134 Stat. 4243, 4273, as amended by Pub. L. 117–81, div. A, title XVII, § 1701(i)(9)(A), (u)(1), Dec. 27, 2021, 135 Stat. 2142, 2150, added items for subpart E and chapters 301 to 307 and item for chapter 343.
 
-Pub. L. 116–283, div. A, title XVIII, §§ 1811(a), 1816(a), 1824(b), 1825(*l*), 1831(*l*), 1833(a)(2), 1846(a), 1866(a), 1873(f), Jan. 1, 2021, 134 Stat. 4164, 4181, 4205, 4208, 4217, 4226, 4247, 4279, 4290, added items for chapters 221 to 225, 241 to 244, 253, 257, 271, 272, and 275, items for subpart F and chapters 321 to 327, and items for chapters 341, 381 to 385, and 387 to 389 and struck out former items for chapters 221 “Planning and Solicitation Generally”, 223 “Planning and Solicitation Relating to Particular Items or Services”, 241 “Awarding of Contracts”, 243 “Specific Types of Contracts”, 253 “Emergency and Rapid Acquisitions”, 271 “Truthful Cost or Pricing Data”, 275 “Proprietary Contractor Data and Technical Data”, and 285 “Small Business Programs”, items for subpart E “special categories of contracting: major defense acquisition programs and major systems” and chapters 301 “Major Defense Acquisition Programs”, 303 “Weapon Systems Development and Related Matters”, and 305 “Other Matters Relating to Major Systems” and for subpart F “special categories of contracting: research, development, test, and evaluation” and for chapters 321 “Research and Development Generally”, 323 “Innovation”, 325 “Department of Defense Laboratories”, 327 “Research and Development Centers and Facilities”, and 329 “Operational Test and Evaluation; Developmental Test and Evaluation”, and former items for chapters 341 “Contracting for Performance of Civilian Commercial or Industrial Type Functions”, 343 “Acquisition of Services”, 381 “Defense Industrial Base Generally”, 383 “Loan Guarantee Programs”, and 385 “Procurement Technical Assistance Cooperative Agreement Program”.
+Pub. L. 116–283, div. A, title XVIII, §§ 1811(a), 1816(a), 1824(b), 1825(*l*), 1831(*l*), 1833(a)(2), 1846(a), 1866(a), 1873(f), Jan. 1, 2021, 134 Stat. 4164, 4181, 4205, 4208, 4217, 4226, 4247, 4279, 4290, added items for chapters 221 to 225, 241 to 244, 253, 257, 271, 272, and 275, items for subpart F and chapters 321 to 327, and items for chapters 341, 381 to 385, and 387 to 389 and struck out former items for chapters 221 “Planning and Solicitation Generally”, 223 “Planning and Solicitation Relating to Particular Items or Services”, 241 “Awarding of Contracts”, 243 “Specific Types of Contracts”, 253 “Emergency and Rapid Acquisitions”, 271 “Truthful Cost or Pricing Data”, 275 “Proprietary Contractor Data and Technical Data”, and 285 “Small Business Programs”, items for subpart E “special categories of contracting: major defense acquisition programs and major systems” and chapters 301 “Major Defense Acquisition Programs”, 303 “Weapon Systems Development and Related Matters”, and 305 “Other Matters Relating to Major Systems” and for subpart F “special categories of contracting: research, development, test, and evaluation” and for chapters 321 “Research and Development Generally”, 323 “Innovation”, 325 “Department of Defense Laboratories”, 327 “Research and Development Centers and Facilities”, and 329 “Operational Test and Evaluation; Developmental Test and Evaluation”, and former items for chapters 341 “Contracting for Performance of Civilian Commercial or Industrial Type Functions”, 343 “Acquisition of Services”, 381 “Defense Industrial Base Generally”, 383 “Loan Guarantee Programs”, and 385 “Procurement Technical Assistance Cooperative Agreement Program”.
 
-2018—Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1825, added analysis for part V consisting of items for subparts A to I and chapters 201 to 385. Capitalization in subpart headings is as it appears in the original.
+2018—Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1825, added analysis for part V consisting of items for subparts A to I and chapters 201 to 385. Capitalization in subpart headings is as it appears in the original.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Redesignations by Pub. L. 115–232 of Chapters and Sections in Former Subtitles B to D**
 
-Chapters 301 to 953 and sections 3001 to 9448 of this title, which formerly comprised subtitles B to D, were significantly redesignated by Pub. L. 115–232, div. A, title VIII, §§ 806–808, Aug. 13, 2018, 132 Stat. 1832–1839. The chapter and section redesignations made by Pub. L. 115–232 throughout subtitles B to D of this title are shown in the following table:
+Chapters 301 to 953 and sections 3001 to 9448 of this title, which formerly comprised subtitles B to D, were significantly redesignated by Pub. L. 115–232, div. A, title VIII, §§ 806–808, Aug. 13, 2018, 132 Stat. 1832–1839. The chapter and section redesignations made by Pub. L. 115–232 throughout subtitles B to D of this title are shown in the following table:
 
 > **Table Showing Redesignations Made by Pub. L. 115–232**
 >
-> | *Title 10* *Chapter or Section* *Before Redesignation* | *Title 10* *Chapter or Section* *After Redesignation* |
+> | *Title 10* *Chapter or Section* *Before Redesignation* | *Title 10* *Chapter or Section* *After Redesignation* |
 > |---|---|
 > | Ch. 301 | 10 U.S.C. Ch. 701 |
 > | 3001 | 10 U.S.C. 7001 |
@@ -4536,7 +4536,7 @@ Chapters 301 to 953 and sections 3001 to 9448 of this title, which formerly comp
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 117–81, div. A, title XVII, § 1701(a), Dec. 27, 2021, 135 Stat. 2131, provided that:
+Pub. L. 117–81, div. A, title XVII, § 1701(a), Dec. 27, 2021, 135 Stat. 2131, provided that:
 
 > **“(1) Definitions.—** In this section [see Tables for classification], the terms ‘FY2021 NDAA’ and ‘such Act’ mean the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) [see Tables for classification].
 
@@ -4550,7 +4550,7 @@ Pub. L. 117–81, div. A, title XVII, § 1701(a), Dec. 27, 2021, 135 Stat. 213
 
 > **“(5) Savings provision relating to transfer and reorganization of defense acquisition statutes.—** If this Act is enacted after December 31, 2021 [Pub. L. 117–81 approved Dec. 27, 2021], notwithstanding section 1801(d)(1) of the FY2021 NDAA, the amendments made by title XVIII of the FY2021 NDAA shall take effect immediately after the enactment of this Act.”
 
-Pub. L. 116–283, div. A, title XVIII, § 1801(d), Jan. 1, 2021, 134 Stat. 4151, as amended by Pub. L. 117–81, div. A, title XVII, § 1701(a)(4), Dec. 27, 2021, 135 Stat. 2131, provided that:
+Pub. L. 116–283, div. A, title XVIII, § 1801(d), Jan. 1, 2021, 134 Stat. 4151, as amended by Pub. L. 117–81, div. A, title XVII, § 1701(a)(4), Dec. 27, 2021, 135 Stat. 2131, provided that:
 
 > **“(1) Delayed enactment.—** Except as specifically provided, this title [see Tables for classification] and the amendments made by this title shall take effect on January 1, 2022.
 
@@ -4568,13 +4568,13 @@ Pub. L. 116–283, div. A, title XVIII, § 1801(d), Jan. 1, 2021, 134 Stat. 41
 
 **Effective Date of 2018 Amendment; Coordination of Amendments**
 
-Pub. L. 115–232, div. A, title VIII, § 800, Aug. 13, 2018, 132 Stat. 1825, provided that:
+Pub. L. 115–232, div. A, title VIII, § 800, Aug. 13, 2018, 132 Stat. 1825, provided that:
 
 > **“(a) Effective Dates.—**
 
-> **“(1) Parts i and ii.—** Parts I and II of this subtitle [probably means parts I (§ 801) and II (§§ 806–809) of subtitle A of title VIII of div. A of Pub. L. 115–232, see Tables for classification], and the redesignations and amendments made by such parts, shall take effect on February 1, 2019.
+> **“(1) Parts i and ii.—** Parts I and II of this subtitle [probably means parts I (§ 801) and II (§§ 806–809) of subtitle A of title VIII of div. A of Pub. L. 115–232, see Tables for classification], and the redesignations and amendments made by such parts, shall take effect on February 1, 2019.
 
-> **“(2) Part iii.—** Part III of this subtitle [probably means part III (§§ 811–813) of subtitle A of title VIII of div. A of Pub. L. 115–232, see Tables for classification] shall take effect on the date of the enactment of this Act [Aug. 13, 2018].
+> **“(2) Part iii.—** Part III of this subtitle [probably means part III (§§ 811–813) of subtitle A of title VIII of div. A of Pub. L. 115–232, see Tables for classification] shall take effect on the date of the enactment of this Act [Aug. 13, 2018].
 
 > **“(b) Coordination of Amendments.—** The redesignations and amendments made by part II of this subtitle shall be executed before the amendments made by part I of this subtitle.
 
@@ -4582,7 +4582,7 @@ Pub. L. 115–232, div. A, title VIII, § 800, Aug. 13, 2018, 132 Stat. 1825, 
 
 **Rule of Construction**
 
-Pub. L. 116–283, div. A, title XVIII, § 1885, Jan. 1, 2021, 134 Stat. 4294, provided that:
+Pub. L. 116–283, div. A, title XVIII, § 1885, Jan. 1, 2021, 134 Stat. 4294, provided that:
 
 > “This title [see Tables for classification], including the amendments made by this title, is intended only to reorganize title 10, United States Code, and may not be construed to alter—
 
@@ -4594,7 +4594,7 @@ Pub. L. 116–283, div. A, title XVIII, § 1885, Jan. 1, 2021, 134 Stat. 4294,
 
 **Savings Provisions**
 
-Pub. L. 116–283, div. A, title XVIII, § 1884, Jan. 1, 2021, 134 Stat. 4294, provided that:
+Pub. L. 116–283, div. A, title XVIII, § 1884, Jan. 1, 2021, 134 Stat. 4294, provided that:
 
 > **“(a) Regulations, Orders, and Other Administrative Actions.—** A regulation, order, or other administrative action in effect under a provision of title 10, United States Code, redesignated by this title [see Tables for classification] continues in effect under the provision as so redesignated.
 
@@ -4602,7 +4602,7 @@ Pub. L. 116–283, div. A, title XVIII, § 1884, Jan. 1, 2021, 134 Stat. 4294,
 
 **Transfer and Reorganization of Defense Acquisition Statutes**
 
-Pub. L. 116–283, div. A, title XVIII, § 1801(a), (b), Jan. 1, 2021, 134 Stat. 4150, provided that:
+Pub. L. 116–283, div. A, title XVIII, § 1801(a), (b), Jan. 1, 2021, 134 Stat. 4150, provided that:
 
 > **“(a) Activities.—** Not later than February 1, 2021, the Secretary of Defense shall establish a process to engage interested parties and experts from the public and private sectors, as determined appropriate by the Secretary, in a comprehensive review of this title [see Tables for classification] and the amendments made by this title.
 
@@ -4628,7 +4628,7 @@ Pub. L. 116–283, div. A, title XVIII, § 1801(a), (b), Jan. 1, 2021, 134 Sta
 
 **References to Sections Redesignated by Title XVIII of Pub. L. 116–283**
 
-Pub. L. 116–283, div. A, title XVIII, § 1883, Jan. 1, 2021, 134 Stat. 4294, provided that:
+Pub. L. 116–283, div. A, title XVIII, § 1883, Jan. 1, 2021, 134 Stat. 4294, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -4726,7 +4726,7 @@ Donald J. Trump.
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1826, added subpart heading.
+2018—Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1826, added subpart heading.
 
 - [CHAPTER 201—DEFINITIONS](chapter-201-definitions.md)
 
@@ -4744,7 +4744,7 @@ Donald J. Trump.
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1827, added subpart heading.
+2018—Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1827, added subpart heading.
 
 - [CHAPTER 221—PLANNING AND SOLICITATION GENERALLY](chapter-221-planning-and-solicitation-generally.md)
 
@@ -4760,7 +4760,7 @@ Donald J. Trump.
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1827, added subpart heading.
+2018—Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1827, added subpart heading.
 
 - [CHAPTER 241—AWARDING OF CONTRACTS](chapter-241-awarding-of-contracts.md)
 
@@ -4792,19 +4792,19 @@ Donald J. Trump.
 
 **Amendments**
 
-2021—Pub. L. 117–81, div. A, title XVII, § 1701(h)(1), Dec. 27, 2021, 135 Stat. 2140, amended subpart heading generally. Prior to amendment, heading read as follows: “General Contracting Requirements”.
+2021—Pub. L. 117–81, div. A, title XVII, § 1701(h)(1), Dec. 27, 2021, 135 Stat. 2140, amended subpart heading generally. Prior to amendment, heading read as follows: “General Contracting Requirements”.
 
-2018—Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1828, added subpart heading.
+2018—Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1828, added subpart heading.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Pilot Program To Accelerate Contracting and Pricing Processes**
 
-Pub. L. 115–232, div. A, title VIII, § 890, Aug. 13, 2018, 132 Stat. 1919, as amended by Pub. L. 116–92, div. A, title VIII, § 825, Dec. 20, 2019, 133 Stat. 1491; Pub. L. 116–283, div. A, title XVIII, § 1831(j)(7), Jan. 1, 2021, 134 Stat. 4217; Pub. L. 117–263, div. A, title VIII, § 818, Dec. 23, 2022, 136 Stat. 2708; Pub. L. 118–31, div. A, title VIII, § 841, Dec. 22, 2023, 137 Stat. 339, which related to a pilot program to accelerate contracting and pricing processes, was transferred to section 3709 of this title and amended by Pub. L. 119–60, div. A, title VIII, § 812(c), Dec. 18, 2025, 139 Stat. 952.
+Pub. L. 115–232, div. A, title VIII, § 890, Aug. 13, 2018, 132 Stat. 1919, as amended by Pub. L. 116–92, div. A, title VIII, § 825, Dec. 20, 2019, 133 Stat. 1491; Pub. L. 116–283, div. A, title XVIII, § 1831(j)(7), Jan. 1, 2021, 134 Stat. 4217; Pub. L. 117–263, div. A, title VIII, § 818, Dec. 23, 2022, 136 Stat. 2708; Pub. L. 118–31, div. A, title VIII, § 841, Dec. 22, 2023, 137 Stat. 339, which related to a pilot program to accelerate contracting and pricing processes, was transferred to section 3709 of this title and amended by Pub. L. 119–60, div. A, title VIII, § 812(c), Dec. 18, 2025, 139 Stat. 952.
 
 **Guidance and Training Related to Evaluating Reasonableness of Price**
 
-Pub. L. 112–239, div. A, title VIII, § 831, Jan. 2, 2013, 126 Stat. 1842, as amended by Pub. L. 119–60, div. A, title VIII, § 811(d)(2), Dec. 18, 2025, 139 Stat. 951, provided that:
+Pub. L. 112–239, div. A, title VIII, § 831, Jan. 2, 2013, 126 Stat. 1842, as amended by Pub. L. 119–60, div. A, title VIII, § 811(d)(2), Dec. 18, 2025, 139 Stat. 951, provided that:
 
 > **“(a) Guidance.—** Not later than 180 days after the date of the enactment of this Act [Jan. 2, 2013], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall issue guidance on the use of the authority provided by section 3705 of title 10, United States Code. The guidance shall—
 
@@ -4846,7 +4846,7 @@ Pub. L. 112–239, div. A, title VIII, § 831, Jan. 2, 2013, 126 Stat. 1842, a
 
 **Grants of Exceptions to Cost or Pricing Data Certification Requirements and Waivers of Cost Accounting Standards**
 
-Pub. L. 107–314, div. A, title VIII, § 817, Dec. 2, 2002, 116 Stat. 2610, as amended by Pub. L. 112–81, div. A, title VIII, § 809(a), Dec. 31, 2011, 125 Stat. 1490; Pub. L. 113–291, div. A, title X, § 1071(b)(7), Dec. 19, 2014, 128 Stat. 3507; Pub. L. 115–91, div. A, title X, § 1051(j), Dec. 12, 2017, 131 Stat. 1563; Pub. L. 115–232, div. A, title VIII, §§ 825, 836(f)(4), Aug. 13, 2018, 132 Stat. 1856, 1871, provided that:
+Pub. L. 107–314, div. A, title VIII, § 817, Dec. 2, 2002, 116 Stat. 2610, as amended by Pub. L. 112–81, div. A, title VIII, § 809(a), Dec. 31, 2011, 125 Stat. 1490; Pub. L. 113–291, div. A, title X, § 1071(b)(7), Dec. 19, 2014, 128 Stat. 3507; Pub. L. 115–91, div. A, title X, § 1051(j), Dec. 12, 2017, 131 Stat. 1563; Pub. L. 115–232, div. A, title VIII, §§ 825, 836(f)(4), Aug. 13, 2018, 132 Stat. 1856, 1871, provided that:
 
 > **“(a) Guidance for Exceptions in Exceptional Circumstances.—** Not later than 60 days after the date of the enactment of this Act [Dec. 2, 2002], the Secretary of Defense shall issue guidance on the circumstances under which it is appropriate to grant an exceptional case exception or waiver with respect to certified cost and pricing data and cost accounting standards.
 
@@ -4896,7 +4896,7 @@ Pub. L. 107–314, div. A, title VIII, § 817, Dec. 2, 2002, 116 Stat. 2610, a
 
 **Prior Provisions**
 
-A prior subpart E “Special Categories of Contracting: Major Defense Acquisition Programs and Major Systems”, consisting of chapters 301 to 305, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1841(a)(1)(A), Jan. 1, 2021, 134 Stat. 4242.
+A prior subpart E “Special Categories of Contracting: Major Defense Acquisition Programs and Major Systems”, consisting of chapters 301 to 305, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1841(a)(1)(A), Jan. 1, 2021, 134 Stat. 4242.
 
 - [CHAPTER 301—RESEARCH AND ENGINEERING GENERALLY](chapter-301-research-and-engineering-generally.md)
 
@@ -4912,7 +4912,7 @@ A prior subpart E “Special Categories of Contracting: Major Defense Acquisitio
 
 **Prior Provisions**
 
-A prior subpart F “Special Categories of Contracting: Research, Development, Test, and Evaluation”, consisting of chapters 321 to 329, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1841(a)(1)(A), Jan. 1, 2021, 134 Stat. 4242.
+A prior subpart F “Special Categories of Contracting: Research, Development, Test, and Evaluation”, consisting of chapters 321 to 329, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1841(a)(1)(A), Jan. 1, 2021, 134 Stat. 4242.
 
 - [CHAPTER 321—GENERAL MATTERS](chapter-321-general-matters.md)
 
@@ -4932,13 +4932,13 @@ A prior subpart F “Special Categories of Contracting: Research, Development, T
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1830, added subpart heading.
+2018—Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1830, added subpart heading.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Requiring Defense Microelectronics Products and Services Meet Trusted Supply Chain and Operational Security Standards**
 
-Pub. L. 116–92, div. A, title II, § 224, Dec. 20, 2019, 133 Stat. 1266, provided that:
+Pub. L. 116–92, div. A, title II, § 224, Dec. 20, 2019, 133 Stat. 1266, provided that:
 
 > **“(a) Purchases.—** To protect the United States from intellectual property theft and to ensure national security and public safety in the application of new generations of wireless network technology and microelectronics, beginning no later than January 1, 2023, the Secretary of Defense shall ensure that each microelectronics product or service that the Department of Defense purchases on or after such date meets the applicable trusted supply chain and operational security standards established pursuant to subsection (b), except in a case in which the Department seeks to purchase a microelectronics product or service but—
 
@@ -5008,7 +5008,7 @@ Pub. L. 116–92, div. A, title II, § 224, Dec. 20, 2019, 133 Stat. 1266, pro
 
 **Standards and Certification for Private Security Contractors**
 
-Pub. L. 111–383, div. A, title VIII, § 833, Jan. 7, 2011, 124 Stat. 4276, provided that:
+Pub. L. 111–383, div. A, title VIII, § 833, Jan. 7, 2011, 124 Stat. 4276, provided that:
 
 > **“(a) Review of Third-Party Standards and Certification Processes.—** Not later than 90 days after the date of the enactment of this Act [Jan. 7, 2011], the Secretary of Defense shall—
 
@@ -5054,9 +5054,9 @@ Pub. L. 111–383, div. A, title VIII, § 833, Jan. 7, 2011, 124 Stat. 4276, p
 
 **Contracts in Iraq and Afghanistan and Private Security Contracts in Areas of Other Significant Military Operations**
 
-Pub. L. 111–383, div. A, title VIII, § 831(b), Jan. 7, 2011, 124 Stat. 4274, which directed the Secretary of Defense to revise regulations prescribed pursuant to section 862 of Pub. L. 110–181, set out in a note below, on contractors performing private security functions in areas of combat operations or other significant military operations, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(12)(D), Dec. 18, 2025, 139 Stat. 949.
+Pub. L. 111–383, div. A, title VIII, § 831(b), Jan. 7, 2011, 124 Stat. 4274, which directed the Secretary of Defense to revise regulations prescribed pursuant to section 862 of Pub. L. 110–181, set out in a note below, on contractors performing private security functions in areas of combat operations or other significant military operations, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(12)(D), Dec. 18, 2025, 139 Stat. 949.
 
-Pub. L. 111–383, div. A, title VIII, § 832(b), Jan. 7, 2011, 124 Stat. 4275, provided that:
+Pub. L. 111–383, div. A, title VIII, § 832(b), Jan. 7, 2011, 124 Stat. 4275, provided that:
 
 > **“(1) Determination required for certain areas.—** Not later than 150 days after the date of the enactment of this Act [Jan. 7, 2011], the Secretary of Defense shall make a written determination for each of the following areas regarding whether or not the area constitutes an area of combat operations or an area of other significant military operations for purposes of designation as such an area under section 862 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. 2302 note [now 10 U.S.C. 4501 note prec., set out below]), as amended by this section:
 
@@ -5068,15 +5068,15 @@ Pub. L. 111–383, div. A, title VIII, § 832(b), Jan. 7, 2011, 124 Stat. 4275
 
 > **“(2) Submission to congress.—** Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a copy of each written determination under paragraph (1), together with an explanation of the basis for such determination.”
 
-Pub. L. 110–417, [div. A], title VIII, § 854(b), Oct. 14, 2008, 122 Stat. 4545, provided that:
+Pub. L. 110–417, [div. A], title VIII, § 854(b), Oct. 14, 2008, 122 Stat. 4545, provided that:
 
-> **“(1) Through memorandum of understanding.—** The memorandum of understanding required by section 861(a) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 253; 10 U.S.C. 2302 note [now 10 U.S.C. 4501 note prec., set out below]) shall be modified to address the requirements under the amendment made by subsection (a) [amending Pub. L. 110–181, § 861(b), set out below] not later than 120 days after the date of the enactment of this Act [Oct. 14, 2008].
+> **“(1) Through memorandum of understanding.—** The memorandum of understanding required by section 861(a) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 253; 10 U.S.C. 2302 note [now 10 U.S.C. 4501 note prec., set out below]) shall be modified to address the requirements under the amendment made by subsection (a) [amending Pub. L. 110–181, § 861(b), set out below] not later than 120 days after the date of the enactment of this Act [Oct. 14, 2008].
 
 > **“(2) As condition of current and future contracts.—** The requirements under the amendment made by subsection (a) shall be included in each contract in Iraq or Afghanistan (as defined in section 864(a)(2) of Public Law 110–181; [10 U.S.C.] 2302 note [now 10 U.S.C. 4501 note prec., set out below]) awarded on or after the date that is 180 days after the date of the enactment of this Act [Oct. 14, 2008]. Federal agencies shall make best efforts to provide for the inclusion of such requirements in covered contracts awarded before such date.”
 
-Pub. L. 110–417, [div. A], title VIII, § 854(c), Oct. 14, 2008, 122 Stat. 4545, provided that: “Beginning not later than 270 days after the date of the enactment of this Act [Oct. 14, 2008], the Secretary of Defense shall make publicly available a numerical accounting of alleged offenses described in section 861(b)(6) of Public Law 110–181 [set out below] that have been reported under that section that occurred after the date of the enactment of this Act. The information shall be updated no less frequently than semi-annually.”
+Pub. L. 110–417, [div. A], title VIII, § 854(c), Oct. 14, 2008, 122 Stat. 4545, provided that: “Beginning not later than 270 days after the date of the enactment of this Act [Oct. 14, 2008], the Secretary of Defense shall make publicly available a numerical accounting of alleged offenses described in section 861(b)(6) of Public Law 110–181 [set out below] that have been reported under that section that occurred after the date of the enactment of this Act. The information shall be updated no less frequently than semi-annually.”
 
-Pub. L. 110–181, div. A, title VIII, subtitle F, Jan. 28, 2008, 122 Stat. 253, as amended by Pub. L. 110–417, [div. A], title VIII, §§ 853, 854(a), (d), Oct. 14, 2008, 122 Stat. 4544, 4545; Pub. L. 111–84, div. A, title VIII, § 813(a)–(c), Oct. 28, 2009, 123 Stat. 2406, 2407; Pub. L. 111–383, div. A, title VIII, §§ 831(a), 832(a), (c), 835, title X, § 1075(d)(9), Jan. 7, 2011, 124 Stat. 4273, 4275, 4276, 4279, 4373; Pub. L. 112–81, div. A, title VIII, § 844, formerly § 844(c), Dec. 31, 2011, 125 Stat. 1515, renumbered Pub. L. 118–159, div. A, title VIII, § 811(a)(2)(B), Dec. 23, 2024, 138 Stat. 1979; Pub. L. 112–239, div. A, title VIII, § 847, Jan. 2, 2013, 126 Stat. 1850; Pub. L. 113–291, div. A, title X, § 1071(b)(2)(D), Dec. 19, 2014, 128 Stat. 3506, provided that:
+Pub. L. 110–181, div. A, title VIII, subtitle F, Jan. 28, 2008, 122 Stat. 253, as amended by Pub. L. 110–417, [div. A], title VIII, §§ 853, 854(a), (d), Oct. 14, 2008, 122 Stat. 4544, 4545; Pub. L. 111–84, div. A, title VIII, § 813(a)–(c), Oct. 28, 2009, 123 Stat. 2406, 2407; Pub. L. 111–383, div. A, title VIII, §§ 831(a), 832(a), (c), 835, title X, § 1075(d)(9), Jan. 7, 2011, 124 Stat. 4273, 4275, 4276, 4279, 4373; Pub. L. 112–81, div. A, title VIII, § 844, formerly § 844(c), Dec. 31, 2011, 125 Stat. 1515, renumbered Pub. L. 118–159, div. A, title VIII, § 811(a)(2)(B), Dec. 23, 2024, 138 Stat. 1979; Pub. L. 112–239, div. A, title VIII, § 847, Jan. 2, 2013, 126 Stat. 1850; Pub. L. 113–291, div. A, title X, § 1071(b)(2)(D), Dec. 19, 2014, 128 Stat. 3506, provided that:
 
 > **“SEC. 861. MEMORANDUM OF UNDERSTANDING ON MATTERS RELATING TO CONTRACTING.**
 
@@ -5376,7 +5376,7 @@ Pub. L. 110–181, div. A, title VIII, subtitle F, Jan. 28, 2008, 122 Stat. 253,
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1830, added subpart heading.
+2018—Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1830, added subpart heading.
 
 - [CHAPTER 361—CONTRACT ADMINISTRATION](chapter-361-contract-administration.md)
 
@@ -5392,7 +5392,7 @@ Pub. L. 110–181, div. A, title VIII, subtitle F, Jan. 28, 2008, 122 Stat. 253,
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1831, added subpart heading.
+2018—Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1831, added subpart heading.
 
 - [CHAPTER 381—DEFENSE INDUSTRIAL BASE GENERALLY](chapter-381-defense-industrial-base-generally.md)
 
@@ -5416,17 +5416,17 @@ Pub. L. 110–181, div. A, title VIII, subtitle F, Jan. 28, 2008, 122 Stat. 253,
 
 **Codification**
 
-Pub. L. 118–159, div. A, title XVII, § 1649(a), Dec. 23, 2024, 138 Stat. 2187, which enacted this part, set out, in order, the headings for this part and subpart A and the heading and analysis for chapter 551. The items for subpart A and chapter 551 were executed to the analysis for this part pursuant to operation of section 102 of this title.
+Pub. L. 118–159, div. A, title XVII, § 1649(a), Dec. 23, 2024, 138 Stat. 2187, which enacted this part, set out, in order, the headings for this part and subpart A and the heading and analysis for chapter 551. The items for subpart A and chapter 551 were executed to the analysis for this part pursuant to operation of section 102 of this title.
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1336, which enacted subpart B of this part, set out the heading for subpart B and analyses for chapters 601 to 608. Items for subpart B and chapters 601 to 608 were added to the analysis for this part pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1336, which enacted subpart B of this part, set out the heading for subpart B and analyses for chapters 601 to 608. Items for subpart B and chapters 601 to 608 were added to the analysis for this part pursuant to operation of section 102 of this title.
 
 #### Subpart A—Elements
 
 **Codification**
 
-Analysis for subpart A is set out above as enacted by Pub. L. 118–159, § 1649(a). Analyses for chapter 551 and subchapters I to IV have been added to conform to the style of this title pursuant to operation of section 102 of this title.
+Analysis for subpart A is set out above as enacted by Pub. L. 118–159, § 1649(a). Analyses for chapter 551 and subchapters I to IV have been added to conform to the style of this title pursuant to operation of section 102 of this title.
 
 - [CHAPTER 551—MISSILE DEFENSE](chapter-551-missile-defense.md)
 
@@ -5436,17 +5436,17 @@ Analysis for subpart A is set out above as enacted by Pub. L. 118–159, § 16
 
 **Codification**
 
-Analysis for subpart B is set out above as enacted by Pub. L. 119–60, § 3111(a). Analyses for chapters 601 to 608 and their subchapters have been added to conform to the style of this title pursuant to operation of section 102 of this title.
+Analysis for subpart B is set out above as enacted by Pub. L. 119–60, § 3111(a). Analyses for chapters 601 to 608 and their subchapters have been added to conform to the style of this title pursuant to operation of section 102 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 107–314, div. D, as added Pub. L. 108–136, div. C, title XXXI, § 3141(b), Nov. 24, 2003, 117 Stat. 1753, which was known as the “Atomic Energy Defense Act” and formerly classified generally to chapter 42 (§ 2501 et seq.) of Title 50, War and National Defense, was repealed and substantially restated as this subpart by Pub. L. 119–60, div. C, title XXXI, § 3111(a), (b)(1), Dec. 18, 2025, 139 Stat. 1336, 1458.
+Pub. L. 107–314, div. D, as added Pub. L. 108–136, div. C, title XXXI, § 3141(b), Nov. 24, 2003, 117 Stat. 1753, which was known as the “Atomic Energy Defense Act” and formerly classified generally to chapter 42 (§ 2501 et seq.) of Title 50, War and National Defense, was repealed and substantially restated as this subpart by Pub. L. 119–60, div. C, title XXXI, § 3111(a), (b)(1), Dec. 18, 2025, 139 Stat. 1336, 1458.
 
 **Savings Provision**
 
-Pub. L. 119–60, div. C, title XXXI, § 3111(e), Dec. 18, 2025, 139 Stat. 1462, provided that: “All orders, determinations, rules, regulations, permits, contracts, or other exercise of the authority of the Secretary of Energy or the Administrator for Nuclear Security under the Atomic Energy Defense Act ([former] 50 U.S.C. 2501 et seq.) made before the date of the enactment of this Act [Dec. 18, 2025] and effective as of such date shall continue in effect as if such authority was exercised under subpart B of part VI of subtitle A of title 10, United States Code [10 U.S.C. 6101 et seq.], as added by subsection (a), until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Secretary, the Administrator, any other authorized official, a court of competent jurisdiction, or operation of law.”
+Pub. L. 119–60, div. C, title XXXI, § 3111(e), Dec. 18, 2025, 139 Stat. 1462, provided that: “All orders, determinations, rules, regulations, permits, contracts, or other exercise of the authority of the Secretary of Energy or the Administrator for Nuclear Security under the Atomic Energy Defense Act ([former] 50 U.S.C. 2501 et seq.) made before the date of the enactment of this Act [Dec. 18, 2025] and effective as of such date shall continue in effect as if such authority was exercised under subpart B of part VI of subtitle A of title 10, United States Code [10 U.S.C. 6101 et seq.], as added by subsection (a), until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Secretary, the Administrator, any other authorized official, a court of competent jurisdiction, or operation of law.”
 
 - [CHAPTER 601—ORGANIZATIONAL MATTERS](chapter-601-organizational-matters.md)
 
@@ -5470,33 +5470,33 @@ Pub. L. 119–60, div. C, title XXXI, § 3111(e), Dec. 18, 2025, 139 Stat. 146
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 808(f)(2), Aug. 13, 2018, 132 Stat. 1839, redesignated items for chapters 301 to 453 as 701 to 783 and redesignated section numbers 3001 to 4831 as 7001 to 7831. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
+2018—Pub. L. 115–232, div. A, title VIII, § 808(f)(2), Aug. 13, 2018, 132 Stat. 1839, redesignated items for chapters 301 to 453 as 701 to 783 and redesignated section numbers 3001 to 4831 as 7001 to 7831. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
 
-2011—Pub. L. 112–81, div. A, title V, § 591(a)(2), Dec. 31, 2011, 125 Stat. 1441, added item for chapter 446.
+2011—Pub. L. 112–81, div. A, title V, § 591(a)(2), Dec. 31, 2011, 125 Stat. 1441, added item for chapter 446.
 
-2003—Pub. L. 108–136, div. A, title V, § 576(a)(2), Nov. 24, 2003, 117 Stat. 1487, added item for chapter 375.
+2003—Pub. L. 108–136, div. A, title V, § 576(a)(2), Nov. 24, 2003, 117 Stat. 1487, added item for chapter 375.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title III, § 344(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, added item for chapter 434.
+2000—Pub. L. 106–398, § 1 [[div. A], title III, § 344(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, added item for chapter 434.
 
-1999—Pub. L. 106–65, div. A, title VII, § 721(c)(7), Oct. 5, 1999, 113 Stat. 695, substituted “Disposition” for “Inquests; Disposition” and “4712” for “4711” in item for chapter 445.
+1999—Pub. L. 106–65, div. A, title VII, § 721(c)(7), Oct. 5, 1999, 113 Stat. 695, substituted “Disposition” for “Inquests; Disposition” and “4712” for “4711” in item for chapter 445.
 
-1994—Pub. L. 103–337, div. A, title XVI, § 1672(a), Oct. 5, 1994, 108 Stat. 3015, struck out items for chapters 337 “Appointments as Reserve Officers”, 361 “Separation for Various Reasons”, and 363 “Separation or Transfer to Retired Reserve”.
+1994—Pub. L. 103–337, div. A, title XVI, § 1672(a), Oct. 5, 1994, 108 Stat. 3015, struck out items for chapters 337 “Appointments as Reserve Officers”, 361 “Separation for Various Reasons”, and 363 “Separation or Transfer to Retired Reserve”.
 
-1993—Pub. L. 103–160, div. A, title VIII, § 828(b)(2), Nov. 30, 1993, 107 Stat. 1714, struck out item for chapter 431 “Industrial Mobilization, Research, and Development”.
+1993—Pub. L. 103–160, div. A, title VIII, § 828(b)(2), Nov. 30, 1993, 107 Stat. 1714, struck out item for chapter 431 “Industrial Mobilization, Research, and Development”.
 
-1987—Pub. L. 100–26, § 7(j)(10)(A), Apr. 21, 1987, 101 Stat. 283, substituted “3011” for “3010” as section number in item for chapter 303.
+1987—Pub. L. 100–26, § 7(j)(10)(A), Apr. 21, 1987, 101 Stat. 283, substituted “3011” for “3010” as section number in item for chapter 303.
 
-1980—Pub. L. 96–513, title V, §§ 502(1), 512(1), Dec. 12, 1980, 94 Stat. 2909, 2929, substituted “3010” for “3011” as section number in item for chapter 303, and struck out item for chapter 359 “Separation from Regular Army for Substandard Performance of Duty”, item for chapter 360 “Separation from Regular Army for Moral or Professional Dereliction or in Interests of National Security”, and item for chapter 365 “Retirement for Age”.
+1980—Pub. L. 96–513, title V, §§ 502(1), 512(1), Dec. 12, 1980, 94 Stat. 2909, 2929, substituted “3010” for “3011” as section number in item for chapter 303, and struck out item for chapter 359 “Separation from Regular Army for Substandard Performance of Duty”, item for chapter 360 “Separation from Regular Army for Moral or Professional Dereliction or in Interests of National Security”, and item for chapter 365 “Retirement for Age”.
 
-1968—Pub. L. 90–377, § 3, July 5, 1968, 82 Stat. 288, struck out item for chapter 351 “United States Disciplinary Barracks”.
+1968—Pub. L. 90–377, § 3, July 5, 1968, 82 Stat. 288, struck out item for chapter 351 “United States Disciplinary Barracks”.
 
-Pub. L. 90–235, § 8(5), Jan. 2, 1968, 81 Stat. 764, struck out item for chapter 347 “The Uniform”.
+Pub. L. 90–235, § 8(5), Jan. 2, 1968, 81 Stat. 764, struck out item for chapter 347 “The Uniform”.
 
-1964—Pub. L. 88–647, title III, § 301(11), Oct. 13, 1964, 78 Stat. 1072, struck out item for chapter 405 “Reserve Officers’ Training Corps”.
+1964—Pub. L. 88–647, title III, § 301(11), Oct. 13, 1964, 78 Stat. 1072, struck out item for chapter 405 “Reserve Officers’ Training Corps”.
 
-1960—Pub. L. 86–616, §§ 2(b), 3(b), July 12, 1960, 74 Stat. 388, 390, substituted “Substandard Performance of Duty” for “Failure to Meet Standards” in item for of chapter 359 and added item for chapter 360.
+1960—Pub. L. 86–616, §§ 2(b), 3(b), July 12, 1960, 74 Stat. 388, 390, substituted “Substandard Performance of Duty” for “Failure to Meet Standards” in item for of chapter 359 and added item for chapter 360.
 
-1958—Pub. L. 85–861, § 1(95), Sept. 2, 1958, 72 Stat. 1487, substituted “3841” for “[No present sections]” in item for chapter 363.
+1958—Pub. L. 85–861, § 1(95), Sept. 2, 1958, 72 Stat. 1487, substituted “3841” for “[No present sections]” in item for chapter 363.
 
 ### PART I—ORGANIZATION
 
@@ -5504,11 +5504,11 @@ Pub. L. 90–235, § 8(5), Jan. 2, 1968, 81 Stat. 764, struck out item for cha
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 808(f)(2), Aug. 13, 2018, 132 Stat. 1839, redesignated items for chapters 301 to 307 as 701 to 707 and redesignated section numbers 3001 to 3061 as 7001 to 7061.
+2018—Pub. L. 115–232, div. A, title VIII, § 808(f)(2), Aug. 13, 2018, 132 Stat. 1839, redesignated items for chapters 301 to 307 as 701 to 707 and redesignated section numbers 3001 to 3061 as 7001 to 7061.
 
-1987—Pub. L. 100–26, § 7(j)(10)(A), Apr. 21, 1987, 101 Stat. 283, substituted “3011” for “3010” as section number in item for chapter 303.
+1987—Pub. L. 100–26, § 7(j)(10)(A), Apr. 21, 1987, 101 Stat. 283, substituted “3011” for “3010” as section number in item for chapter 303.
 
-1980—Pub. L. 96–513, title V, § 512(1), Dec. 12, 1980, 94 Stat. 2929, substituted “3010” for “3011” as section number in item for chapter 303.
+1980—Pub. L. 96–513, title V, § 512(1), Dec. 12, 1980, 94 Stat. 2929, substituted “3010” for “3011” as section number in item for chapter 303.
 
 - [CHAPTER 701—DEFINITIONS](chapter-701-definitions.md)
 
@@ -5524,27 +5524,27 @@ Pub. L. 90–235, § 8(5), Jan. 2, 1968, 81 Stat. 764, struck out item for cha
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 808(f)(2), Aug. 13, 2018, 132 Stat. 1839, redesignated items for chapters 331 to 375 as 711 to 749 and redesignated section numbers 3201 to 4061 as 7101 to 7381. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
+2018—Pub. L. 115–232, div. A, title VIII, § 808(f)(2), Aug. 13, 2018, 132 Stat. 1839, redesignated items for chapters 331 to 375 as 711 to 749 and redesignated section numbers 3201 to 4061 as 7101 to 7381. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
 
-2003—Pub. L. 108–136, div. A, title V, § 576(a)(2), Nov. 24, 2003, 117 Stat. 1487, added item for chapter 375.
+2003—Pub. L. 108–136, div. A, title V, § 576(a)(2), Nov. 24, 2003, 117 Stat. 1487, added item for chapter 375.
 
-1994—Pub. L. 103–337, div. A, title XVI, § 1672(a), Oct. 5, 1994, 108 Stat. 3015, struck out items for chapters 337 “Appointments as Reserve Officers”, 361 “Separation for Various Reasons”, and 363 “Separation or Transfer to Retired Reserve”.
+1994—Pub. L. 103–337, div. A, title XVI, § 1672(a), Oct. 5, 1994, 108 Stat. 3015, struck out items for chapters 337 “Appointments as Reserve Officers”, 361 “Separation for Various Reasons”, and 363 “Separation or Transfer to Retired Reserve”.
 
-1980—Pub. L. 96–513, title V, § 502(1), Dec. 12, 1980, 94 Stat. 2909, struck out item for chapter 359 “Separation from Regular Army for Substandard Performance of Duty”, item for chapter 360 “Separation from Regular Army for Moral or Professional Dereliction or in Interests of National Security”, and item for chapter 365 “Retirement for Age”.
+1980—Pub. L. 96–513, title V, § 502(1), Dec. 12, 1980, 94 Stat. 2909, struck out item for chapter 359 “Separation from Regular Army for Substandard Performance of Duty”, item for chapter 360 “Separation from Regular Army for Moral or Professional Dereliction or in Interests of National Security”, and item for chapter 365 “Retirement for Age”.
 
-1968—Pub. L. 90–377, § 3, July 5, 1968, 82 Stat. 288, struck out item for chapter 351 “United States Disciplinary Barracks”.
+1968—Pub. L. 90–377, § 3, July 5, 1968, 82 Stat. 288, struck out item for chapter 351 “United States Disciplinary Barracks”.
 
-Pub. L. 90–235, § 8(5), Jan. 2, 1968, 81 Stat. 764, struck out item for chapter 347 “The Uniform”.
+Pub. L. 90–235, § 8(5), Jan. 2, 1968, 81 Stat. 764, struck out item for chapter 347 “The Uniform”.
 
-1960—Pub. L. 86–616, §§ 2(b), 3(b), July 12, 1960, 74 Stat. 388, 390, substituted “Substandard Performance of Duty” for “Failure to Meet Standards” in item for chapter 359 and added item for chapter 360.
+1960—Pub. L. 86–616, §§ 2(b), 3(b), July 12, 1960, 74 Stat. 388, 390, substituted “Substandard Performance of Duty” for “Failure to Meet Standards” in item for chapter 359 and added item for chapter 360.
 
-1958—Pub. L. 85–861, § 1(95), Sept. 2, 1958, 72 Stat. 1487, substituted “3841” for “[No present sections]” in item for chapter 363.
+1958—Pub. L. 85–861, § 1(95), Sept. 2, 1958, 72 Stat. 1487, substituted “3841” for “[No present sections]” in item for chapter 363.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Pilot Program on Remote Personnel Processing in the Army**
 
-Pub. L. 117–263, div. A, title V, § 562, Dec. 23, 2022, 136 Stat. 2598, provided that:
+Pub. L. 117–263, div. A, title V, § 562, Dec. 23, 2022, 136 Stat. 2598, provided that:
 
 > **“(a) Establishment.—** Not later than January 1, 2024, the Secretary of the Army shall implement a pilot program to expedite in-processing and out-processing at one or more military installations—
 
@@ -5610,9 +5610,9 @@ Pub. L. 117–263, div. A, title V, § 562, Dec. 23, 2022, 136 Stat. 2598, pro
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 808(f)(2), Aug. 13, 2018, 132 Stat. 1839, redesignated items for chapters 401, 403, and 407 as 751, 753, and 757, respectively, and redesignated section numbers 4301, 4331, and 4411 as 7401, 7431, and 7481, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 808(f)(2), Aug. 13, 2018, 132 Stat. 1839, redesignated items for chapters 401, 403, and 407 as 751, 753, and 757, respectively, and redesignated section numbers 4301, 4331, and 4411 as 7401, 7431, and 7481, respectively.
 
-1964—Pub. L. 88–647, title III, § 301(11), Oct. 13, 1964, 78 Stat. 1072, struck out item for chapter 405 “Reserve Officers’ Training Corps”.
+1964—Pub. L. 88–647, title III, § 301(11), Oct. 13, 1964, 78 Stat. 1072, struck out item for chapter 405 “Reserve Officers’ Training Corps”.
 
 - [CHAPTER 751—TRAINING GENERALLY](chapter-751-training-generally.md)
 
@@ -5626,15 +5626,15 @@ Pub. L. 117–263, div. A, title V, § 562, Dec. 23, 2022, 136 Stat. 2598, pro
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 808(f)(2), Aug. 13, 2018, 132 Stat. 1839, redesignated items for chapters 433 to 453 as 763 to 783 and redesignated section numbers 4531 to 4831 as 7532 to 7831. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
+2018—Pub. L. 115–232, div. A, title VIII, § 808(f)(2), Aug. 13, 2018, 132 Stat. 1839, redesignated items for chapters 433 to 453 as 763 to 783 and redesignated section numbers 4531 to 4831 as 7532 to 7831. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
 
-2011—Pub. L. 112–81, div. A, title V, § 591(a)(2), Dec. 31, 2011, 125 Stat. 1441, added item for chapter 446.
+2011—Pub. L. 112–81, div. A, title V, § 591(a)(2), Dec. 31, 2011, 125 Stat. 1441, added item for chapter 446.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title III, § 344(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, added item for chapter 434.
+2000—Pub. L. 106–398, § 1 [[div. A], title III, § 344(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, added item for chapter 434.
 
-1999—Pub. L. 106–65, div. A, title VII, § 721(c)(7), Oct. 5, 1999, 113 Stat. 695, substituted “Disposition” for “Inquests; Disposition” and “4712” for “4711” in item for chapter 445.
+1999—Pub. L. 106–65, div. A, title VII, § 721(c)(7), Oct. 5, 1999, 113 Stat. 695, substituted “Disposition” for “Inquests; Disposition” and “4712” for “4711” in item for chapter 445.
 
-1993—Pub. L. 103–160, div. A, title VIII, § 828(b)(2), Nov. 30, 1993, 107 Stat. 1714, struck out item for chapter 431 “Industrial Mobilization, Research, and Development”.
+1993—Pub. L. 103–160, div. A, title VIII, § 828(b)(2), Nov. 30, 1993, 107 Stat. 1714, struck out item for chapter 431 “Industrial Mobilization, Research, and Development”.
 
 - [CHAPTER 763—PROCUREMENT](chapter-763-procurement.md)
 
@@ -5668,51 +5668,51 @@ Pub. L. 117–263, div. A, title V, § 562, Dec. 23, 2022, 136 Stat. 2598, pro
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 807(f)(2), Aug. 13, 2018, 132 Stat. 1838, redesignated items for chapters 501 to 669 as 801 to 897 and redesignated section numbers 5001 to 7921 as 8001 to 8951. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
+2018—Pub. L. 115–232, div. A, title VIII, § 807(f)(2), Aug. 13, 2018, 132 Stat. 1838, redesignated items for chapters 501 to 669 as 801 to 897 and redesignated section numbers 5001 to 7921 as 8001 to 8951. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
 
-Pub. L. 115–232, div. A, title V, § 503(b)(2), Aug. 13, 2018, 132 Stat. 1742, struck out item for chapter 544 “Temporary Appointments”.
+Pub. L. 115–232, div. A, title V, § 503(b)(2), Aug. 13, 2018, 132 Stat. 1742, struck out item for chapter 544 “Temporary Appointments”.
 
-2011—Pub. L. 112–81, div. A, title III, § 363(b), Dec. 31, 2011, 125 Stat. 1379, added item for chapter 669.
+2011—Pub. L. 112–81, div. A, title III, § 363(b), Dec. 31, 2011, 125 Stat. 1379, added item for chapter 669.
 
-2008—Pub. L. 110–417, [div. A], title X, § 1061(a)(6), Oct. 14, 2008, 122 Stat. 4612, added item for chapter 667 and struck out former item for chapter 667 “Issue of serviceable material other than to Armed Forces”.
+2008—Pub. L. 110–417, [div. A], title X, § 1061(a)(6), Oct. 14, 2008, 122 Stat. 4612, added item for chapter 667 and struck out former item for chapter 667 “Issue of serviceable material other than to Armed Forces”.
 
-Pub. L. 110–181, div. A, title III, § 377(b), Jan. 28, 2008, 122 Stat. 85, added item for chapter 667.
+Pub. L. 110–181, div. A, title III, § 377(b), Jan. 28, 2008, 122 Stat. 85, added item for chapter 667.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1085(b)(3)(B)], Oct. 30, 2000, 114 Stat. 1654, 1654A–289, struck out “Related” after “Quarters, Utilities, and” in item for chapter 649.
+2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1085(b)(3)(B)], Oct. 30, 2000, 114 Stat. 1654, 1654A–289, struck out “Related” after “Quarters, Utilities, and” in item for chapter 649.
 
-1998—Pub. L. 105–261, div. A, title V, § 521(b)(2), Oct. 17, 1998, 112 Stat. 2011, added item for chapter 602.
+1998—Pub. L. 105–261, div. A, title V, § 521(b)(2), Oct. 17, 1998, 112 Stat. 2011, added item for chapter 602.
 
-1996—Pub. L. 104–201, div. A, title II, § 282(a)(2), Sept. 23, 1996, 110 Stat. 2473, added item for chapter 665.
+1996—Pub. L. 104–201, div. A, title II, § 282(a)(2), Sept. 23, 1996, 110 Stat. 2473, added item for chapter 665.
 
-1994—Pub. L. 103–337, div. A, title XVI, § 1673(a)(1), Oct. 5, 1994, 108 Stat. 3015, struck out items for chapters 519 “Naval Reserve and Marine Corps Reserve”, 531 “Strength of Naval Reserve and Marine Corps Reserve”, 541 “Running Mates for Reserve Officers”, and 549 “Reserve Promotions”.
+1994—Pub. L. 103–337, div. A, title XVI, § 1673(a)(1), Oct. 5, 1994, 108 Stat. 3015, struck out items for chapters 519 “Naval Reserve and Marine Corps Reserve”, 531 “Strength of Naval Reserve and Marine Corps Reserve”, 541 “Running Mates for Reserve Officers”, and 549 “Reserve Promotions”.
 
-1993—Pub. L. 103–160, div. A, title VIII, § 828(b)(3), Nov. 30, 1993, 107 Stat. 1714, struck out item for chapter 635 “Naval Aircraft”.
+1993—Pub. L. 103–160, div. A, title VIII, § 828(b)(3), Nov. 30, 1993, 107 Stat. 1714, struck out item for chapter 635 “Naval Aircraft”.
 
-1991—Pub. L. 102–190, div. A, title X, § 1061(a)(27)(B), Dec. 5, 1991, 105 Stat. 1474, substituted “Education” for “Educational” in item for chapter 609.
+1991—Pub. L. 102–190, div. A, title X, § 1061(a)(27)(B), Dec. 5, 1991, 105 Stat. 1474, substituted “Education” for “Educational” in item for chapter 609.
 
-1990—Pub. L. 101–510, div. A, title IX, § 912(b), Nov. 5, 1990, 104 Stat. 1627, added item for chapter 609.
+1990—Pub. L. 101–510, div. A, title IX, § 912(b), Nov. 5, 1990, 104 Stat. 1627, added item for chapter 609.
 
-1986—Pub. L. 99–433, title V, § 514(d)(1), Oct. 1, 1986, 100 Stat. 1055, substituted “Office of the Chief of Naval Operations” for “Secretary, Under Secretary, and Assistant Secretaries of the Navy” in item for chapter 505, added item for chapter 506, substituted “Composition of the Department of the Navy” for “Office of the Comptroller of the Navy” in item for chapter 507, struck out item for chapter 509 “Office of the Chief of Naval Operations”, struck out “; Office of Naval Research” after “General” in item for chapter 513, and struck out item for chapter 515 “Commandant of the Marine Corps; Headquarters, Marine Corps”.
+1986—Pub. L. 99–433, title V, § 514(d)(1), Oct. 1, 1986, 100 Stat. 1055, substituted “Office of the Chief of Naval Operations” for “Secretary, Under Secretary, and Assistant Secretaries of the Navy” in item for chapter 505, added item for chapter 506, substituted “Composition of the Department of the Navy” for “Office of the Comptroller of the Navy” in item for chapter 507, struck out item for chapter 509 “Office of the Chief of Naval Operations”, struck out “; Office of Naval Research” after “General” in item for chapter 513, and struck out item for chapter 515 “Commandant of the Marine Corps; Headquarters, Marine Corps”.
 
-1984—Pub. L. 98–525, title XIV, § 1405(48), title XV, § 1532(a)(2), Oct. 19, 1984, 98 Stat. 2625, 2631, substituted “Responsibility” for “responsibility” in item for chapter 661 and added item for chapter 663.
+1984—Pub. L. 98–525, title XIV, § 1405(48), title XV, § 1532(a)(2), Oct. 19, 1984, 98 Stat. 2625, 2631, substituted “Responsibility” for “responsibility” in item for chapter 661 and added item for chapter 663.
 
-1982—Pub. L. 97–295, § 1(50)(G), Oct. 12, 1982, 96 Stat. 1300, substituted “United States Naval Observatory” for “United States Naval Oceanographic Office and Naval Observatory” in item for chapter 639.
+1982—Pub. L. 97–295, § 1(50)(G), Oct. 12, 1982, 96 Stat. 1300, substituted “United States Naval Observatory” for “United States Naval Oceanographic Office and Naval Observatory” in item for chapter 639.
 
-Pub. L. 97–295, § 1(51)(A), Oct. 12, 1982, 96 Stat. 1300, which directed substitution of “Responsibility” for “responsibility” in item for chapter 659, was executed to item for chapter 661 as the probable intent of Congress.
+Pub. L. 97–295, § 1(51)(A), Oct. 12, 1982, 96 Stat. 1300, which directed substitution of “Responsibility” for “responsibility” in item for chapter 659, was executed to item for chapter 661 as the probable intent of Congress.
 
-Pub. L. 97–258, § 2(b)(12)(A), Sept. 13, 1982, 96 Stat. 1057, added item for chapter 661.
+Pub. L. 97–258, § 2(b)(12)(A), Sept. 13, 1982, 96 Stat. 1057, added item for chapter 661.
 
-1980—Pub. L. 96–513, title V, §§ 503(1), 513(1), Dec. 12, 1980, 94 Stat. 2911, 2931, struck out item for chapter 517 “Fleet Commands and other High Positions”, inserted “of Naval Reserve and Marine Corps Reserve” after “Strength” in item for chapter 531, inserted “for Reserve Officers” after “Running Mates” in item for chapter 541, struck out item for chapter 543 “Selection Boards”, added item for chapter 544, and struck out items for chapter 545 “Promotions” and for chapter 547 “Examinations for Promotion”, and in item for chapter 641 substituted “7420” for “7421”
+1980—Pub. L. 96–513, title V, §§ 503(1), 513(1), Dec. 12, 1980, 94 Stat. 2911, 2931, struck out item for chapter 517 “Fleet Commands and other High Positions”, inserted “of Naval Reserve and Marine Corps Reserve” after “Strength” in item for chapter 531, inserted “for Reserve Officers” after “Running Mates” in item for chapter 541, struck out item for chapter 543 “Selection Boards”, added item for chapter 544, and struck out items for chapter 545 “Promotions” and for chapter 547 “Examinations for Promotion”, and in item for chapter 641 substituted “7420” for “7421”
 
-1977—Pub. L. 95–82, title VI, § 611(b), Aug. 1, 1977, 91 Stat. 378, struck out item for chapter 516 “Naval Districts”.
+1977—Pub. L. 95–82, title VI, § 611(b), Aug. 1, 1977, 91 Stat. 378, struck out item for chapter 516 “Naval Districts”.
 
-1967—Pub. L. 90–110, title X, § 1001(2), Oct. 21, 1967, 81 Stat. 310, added item for chapter 516.
+1967—Pub. L. 90–110, title X, § 1001(2), Oct. 21, 1967, 81 Stat. 310, added item for chapter 516.
 
-1966—Pub. L. 89–718, § 34(b), Nov. 2, 1966, 80 Stat. 1119, struck out item for chapter 511 “Office of the Chief of Naval Material”.
+1966—Pub. L. 89–718, § 34(b), Nov. 2, 1966, 80 Stat. 1119, struck out item for chapter 511 “Office of the Chief of Naval Material”.
 
-1962—Pub. L. 87–533, § 2, July 10, 1962, 76 Stat. 155, substituted “United States Naval Oceanographic” for “Hydrographic” in item for chapter 639.
+1962—Pub. L. 87–533, § 2, July 10, 1962, 76 Stat. 155, substituted “United States Naval Oceanographic” for “Hydrographic” in item for chapter 639.
 
-1958—Pub. L. 85–861, § 1(134), Sept. 2, 1958, 72 Stat. 1507, added item for chapter 549.
+1958—Pub. L. 85–861, § 1(134), Sept. 2, 1958, 72 Stat. 1507, added item for chapter 549.
 
 ### PART I—ORGANIZATION
 
@@ -5720,19 +5720,19 @@ Pub. L. 97–258, § 2(b)(12)(A), Sept. 13, 1982, 96 Stat. 1057, added item fo
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 807(f)(2), Aug. 13, 2018, 132 Stat. 1838, redesignated items for chapters 501 to 513 as 801 to 809 and redesignated section numbers 5001 to 5131 as 8001 to 8071.
+2018—Pub. L. 115–232, div. A, title VIII, § 807(f)(2), Aug. 13, 2018, 132 Stat. 1838, redesignated items for chapters 501 to 513 as 801 to 809 and redesignated section numbers 5001 to 5131 as 8001 to 8071.
 
-1994—Pub. L. 103–337, div. A, title XVI, § 1673(a)(2), Oct. 5, 1994, 108 Stat. 3015, struck out item for chapter 519 “Naval Reserve and Marine Corps Reserve”.
+1994—Pub. L. 103–337, div. A, title XVI, § 1673(a)(2), Oct. 5, 1994, 108 Stat. 3015, struck out item for chapter 519 “Naval Reserve and Marine Corps Reserve”.
 
-1986—Pub. L. 99–433, title V, § 514(d)(1), Oct. 1, 1986, 100 Stat. 1055, substituted “Office of the Chief of Naval Operations” for “Secretary, Under Secretary, and Assistant Secretaries of the Navy” in item for chapter 505, added item for chapter 506, substituted “Composition of the Department of the Navy” for “Office of the Comptroller of the Navy” in item for chapter 507, struck out item for chapter 509 “Office of the Chief of Naval Operations”, struck out “; Office of Naval Research” after “General” in item for chapter 513, and struck out item for chapter 515 “Commandant of the Marine Corps; Headquarters, Marine Corps”.
+1986—Pub. L. 99–433, title V, § 514(d)(1), Oct. 1, 1986, 100 Stat. 1055, substituted “Office of the Chief of Naval Operations” for “Secretary, Under Secretary, and Assistant Secretaries of the Navy” in item for chapter 505, added item for chapter 506, substituted “Composition of the Department of the Navy” for “Office of the Comptroller of the Navy” in item for chapter 507, struck out item for chapter 509 “Office of the Chief of Naval Operations”, struck out “; Office of Naval Research” after “General” in item for chapter 513, and struck out item for chapter 515 “Commandant of the Marine Corps; Headquarters, Marine Corps”.
 
-1980—Pub. L. 96–513, title V, § 503(2), Dec. 12, 1980, 94 Stat. 2911, struck out item for chapter 517 “Fleet Commands and other High Positions”.
+1980—Pub. L. 96–513, title V, § 503(2), Dec. 12, 1980, 94 Stat. 2911, struck out item for chapter 517 “Fleet Commands and other High Positions”.
 
-1977—Pub. L. 95–82, title VI, § 611(b), Aug. 1, 1977, 91 Stat. 378, struck out item for chapter 516 “Naval Districts”.
+1977—Pub. L. 95–82, title VI, § 611(b), Aug. 1, 1977, 91 Stat. 378, struck out item for chapter 516 “Naval Districts”.
 
-1967—Pub. L. 90–110, title X, § 1001(2), Oct. 21, 1967, 81 Stat. 310, added item for chapter 516.
+1967—Pub. L. 90–110, title X, § 1001(2), Oct. 21, 1967, 81 Stat. 310, added item for chapter 516.
 
-1966—Pub. L. 89–718, § 34(b), Nov. 2, 1966, 80 Stat. 1119, struck out item for chapter 511 “Office of the Chief of Naval Material”.
+1966—Pub. L. 89–718, § 34(b), Nov. 2, 1966, 80 Stat. 1119, struck out item for chapter 511 “Office of the Chief of Naval Material”.
 
 - [CHAPTER 801—DEFINITIONS](chapter-801-definitions.md)
 
@@ -5752,19 +5752,19 @@ Pub. L. 97–258, § 2(b)(12)(A), Sept. 13, 1982, 96 Stat. 1057, added item fo
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 807(f)(2), Aug. 13, 2018, 132 Stat. 1838, redesignated items for chapters 533 to 577 as 811 to 847 and redesignated section numbers 5441 to 6521 as 8101 to 8392. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
+2018—Pub. L. 115–232, div. A, title VIII, § 807(f)(2), Aug. 13, 2018, 132 Stat. 1838, redesignated items for chapters 533 to 577 as 811 to 847 and redesignated section numbers 5441 to 6521 as 8101 to 8392. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
 
-1994—Pub. L. 103–337, div. A, title XVI, § 1673(a)(3), Oct. 5, 1994, 108 Stat. 3015, struck out items for chapters 531 “Strength of Naval Reserve and Marine Corps Reserve”, 541 “Running Mates for Reserve Officers”, and 549 “Reserve Promotions”.
+1994—Pub. L. 103–337, div. A, title XVI, § 1673(a)(3), Oct. 5, 1994, 108 Stat. 3015, struck out items for chapters 531 “Strength of Naval Reserve and Marine Corps Reserve”, 541 “Running Mates for Reserve Officers”, and 549 “Reserve Promotions”.
 
-1980—Pub. L. 96–513, title V, § 503(16), Dec. 12, 1980, 94 Stat. 2912, inserted “of Naval Reserve and Marine Corps Reserve” after “Strength” in item for chapter 531, inserted “for Reserve Officers” after “Running Mates” in item for chapter 541, struck out item for chapter 543 “Selection Boards”, added item for chapter 544, and struck out items for chapter 545 “Promotions” and for chapter 547 “Examinations for Promotion”.
+1980—Pub. L. 96–513, title V, § 503(16), Dec. 12, 1980, 94 Stat. 2912, inserted “of Naval Reserve and Marine Corps Reserve” after “Strength” in item for chapter 531, inserted “for Reserve Officers” after “Running Mates” in item for chapter 541, struck out item for chapter 543 “Selection Boards”, added item for chapter 544, and struck out items for chapter 545 “Promotions” and for chapter 547 “Examinations for Promotion”.
 
-1958—Pub. L. 85–861, § 1(134), Sept. 2, 1958, 72 Stat. 1507, added item for chapter 549.
+1958—Pub. L. 85–861, § 1(134), Sept. 2, 1958, 72 Stat. 1507, added item for chapter 549.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Maritime Workforce Promotion and Recruitment**
 
-Pub. L. 118–159, div. A, title V, § 539A, Dec. 23, 2024, 138 Stat. 1890, provided that:
+Pub. L. 118–159, div. A, title V, § 539A, Dec. 23, 2024, 138 Stat. 1890, provided that:
 
 > **“(a) Contract for Targeted Campaign.—** Not later than one year after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of the Navy, in coordination with the heads of such other Federal agencies as the Secretary determines appropriate, shall seek to enter into a contract with an entity described in subsection (b), through a competitive bidding process, for the establishment a targeted campaign to educate and recruit potential workers regarding careers in the maritime sector, including by—
 
@@ -5834,11 +5834,11 @@ Pub. L. 118–159, div. A, title V, § 539A, Dec. 23, 2024, 138 Stat. 1890, pr
 
 **Authorization To Pay a Living Quarters Allowance for Department of the Navy Civilian Employees Assigned to Permanent Duty in Guam for Performing Work, or Supporting Work Being Performed, Aboard or Dockside, of U.S. Naval Vessels**
 
-Pub. L. 118–31, div. A, title XI, § 1102, Dec. 22, 2023, 137 Stat. 426, as amended by Pub. L. 118–159, div. A, title XI, § 1103, Dec. 23, 2024, 138 Stat. 2087, which authorized provision of living quarters allowance for certain civilian employees in Guam, was editorially transferred and is set out as a note preceding section 1580 of this title.
+Pub. L. 118–31, div. A, title XI, § 1102, Dec. 22, 2023, 137 Stat. 426, as amended by Pub. L. 118–159, div. A, title XI, § 1103, Dec. 23, 2024, 138 Stat. 2087, which authorized provision of living quarters allowance for certain civilian employees in Guam, was editorially transferred and is set out as a note preceding section 1580 of this title.
 
 **Suspension of Certain Sections of Title 10 and Amendments to Officer Personnel Act of 1947**
 
-Act Aug. 10, 1956, ch. 1041, § 48, 70A Stat. 639, as amended by Pub. L. 109–163, div. A, title V, § 515(h), Jan. 6, 2006, 119 Stat. 3237, provided that:
+Act Aug. 10, 1956, ch. 1041, § 48, 70A Stat. 639, as amended by Pub. L. 109–163, div. A, title V, § 515(h), Jan. 6, 2006, 119 Stat. 3237, provided that:
 
 > **“Sec. 48.**
 
@@ -5858,7 +5858,7 @@ Act Aug. 10, 1956, ch. 1041, § 48, 70A Stat. 639, as amended by Pub. L. 109�
 
 > **“[Sec. 437.**
 
-> Repealed. Pub. L. 104–106, div. A, title XV, § 1505(a), Feb. 10, 1996, 110 Stat. 514.]”
+> Repealed. Pub. L. 104–106, div. A, title XV, § 1505(a), Feb. 10, 1996, 110 Stat. 514.]”
 
 - [CHAPTER 811—DISTRIBUTION IN GRADE](chapter-811-distribution-in-grade.md)
 
@@ -5902,13 +5902,13 @@ Act Aug. 10, 1956, ch. 1041, § 48, 70A Stat. 639, as amended by Pub. L. 109�
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 807(f)(2), Aug. 13, 2018, 132 Stat. 1838, redesignated items for chapters 601 to 609 as 851 to 859 and redesignated section numbers 6901 to 7101 as 8411 to 8591. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
+2018—Pub. L. 115–232, div. A, title VIII, § 807(f)(2), Aug. 13, 2018, 132 Stat. 1838, redesignated items for chapters 601 to 609 as 851 to 859 and redesignated section numbers 6901 to 7101 as 8411 to 8591. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
 
-1998—Pub. L. 105–261, div. A, title V, § 521(b)(2), Oct. 17, 1998, 112 Stat. 2011, added item for chapter 602.
+1998—Pub. L. 105–261, div. A, title V, § 521(b)(2), Oct. 17, 1998, 112 Stat. 2011, added item for chapter 602.
 
-1991—Pub. L. 102–190, div. A, title X, § 1061(a)(27)(B), Dec. 5, 1991, 105 Stat. 1474, substituted “Education” for “Educational” in item for chapter 609.
+1991—Pub. L. 102–190, div. A, title X, § 1061(a)(27)(B), Dec. 5, 1991, 105 Stat. 1474, substituted “Education” for “Educational” in item for chapter 609.
 
-1990—Pub. L. 101–510, div. A, title IX, § 912(b), Nov. 5, 1990, 104 Stat. 1627, added item for chapter 609.
+1990—Pub. L. 101–510, div. A, title IX, § 912(b), Nov. 5, 1990, 104 Stat. 1627, added item for chapter 609.
 
 - [CHAPTER 851—OFFICER PROCUREMENT PROGRAMS](chapter-851-officer-procurement-programs.md)
 
@@ -5928,29 +5928,29 @@ Act Aug. 10, 1956, ch. 1041, § 48, 70A Stat. 639, as amended by Pub. L. 109�
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 807(f)(2), Aug. 13, 2018, 132 Stat. 1838, redesignated items for chapters 631 to 669 as 861 to 897 and redesignated section numbers 7201 to 7921 as 8604 to 8951. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
+2018—Pub. L. 115–232, div. A, title VIII, § 807(f)(2), Aug. 13, 2018, 132 Stat. 1838, redesignated items for chapters 631 to 669 as 861 to 897 and redesignated section numbers 7201 to 7921 as 8604 to 8951. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
 
-2011—Pub. L. 112–81, div. A, title III, § 363(b), Dec. 31, 2011, 125 Stat. 1379, added item for chapter 669.
+2011—Pub. L. 112–81, div. A, title III, § 363(b), Dec. 31, 2011, 125 Stat. 1379, added item for chapter 669.
 
-2008—Pub. L. 110–417, [div. A], title X, § 1061(a)(6), Oct. 14, 2008, 122 Stat. 4612, added item for chapter 667 and struck out former item for chapter 667 “Issue of serviceable material other than to Armed Forces”.
+2008—Pub. L. 110–417, [div. A], title X, § 1061(a)(6), Oct. 14, 2008, 122 Stat. 4612, added item for chapter 667 and struck out former item for chapter 667 “Issue of serviceable material other than to Armed Forces”.
 
-Pub. L. 110–181, div. A, title III, § 377(b), Jan. 28, 2008, 122 Stat. 85, added item for chapter 667.
+Pub. L. 110–181, div. A, title III, § 377(b), Jan. 28, 2008, 122 Stat. 85, added item for chapter 667.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1085(b)(3)(B)], Oct. 30, 2000, 114 Stat. 1654, 1654A–289, struck out “Related” after “Quarters, Utilities, and” in item for chapter 649.
+2000—Pub. L. 106–398, § 1 [[div. A], title X, § 1085(b)(3)(B)], Oct. 30, 2000, 114 Stat. 1654, 1654A–289, struck out “Related” after “Quarters, Utilities, and” in item for chapter 649.
 
-1996—Pub. L. 104–201, div. A, title II, § 282(a)(2), Sept. 23, 1996, 110 Stat. 2473, added item for chapter 665.
+1996—Pub. L. 104–201, div. A, title II, § 282(a)(2), Sept. 23, 1996, 110 Stat. 2473, added item for chapter 665.
 
-1993—Pub. L. 103–160, div. A, title VIII, § 828(b)(3), Nov. 30, 1993, 107 Stat. 1714, struck out item for chapter 635 “Naval Aircraft”.
+1993—Pub. L. 103–160, div. A, title VIII, § 828(b)(3), Nov. 30, 1993, 107 Stat. 1714, struck out item for chapter 635 “Naval Aircraft”.
 
-1984—Pub. L. 98–525, title XV, § 1532(a)(2), Oct. 19, 1984, 98 Stat. 2631, added item for chapter 663.
+1984—Pub. L. 98–525, title XV, § 1532(a)(2), Oct. 19, 1984, 98 Stat. 2631, added item for chapter 663.
 
-1982—Pub. L. 97–295, § 1(50)(H), Oct. 12, 1982, 96 Stat. 1300, struck out “Naval Oceanographic Office and” after “United States” in item for chapter 639.
+1982—Pub. L. 97–295, § 1(50)(H), Oct. 12, 1982, 96 Stat. 1300, struck out “Naval Oceanographic Office and” after “United States” in item for chapter 639.
 
-Pub. L. 97–295, § 1(51)(B), Oct. 12, 1982, 96 Stat. 1300, added item for chapter 661.
+Pub. L. 97–295, § 1(51)(B), Oct. 12, 1982, 96 Stat. 1300, added item for chapter 661.
 
-1980—Pub. L. 96–513, title V, § 513(1), Dec. 12, 1980, 94 Stat. 2931, substituted “7420” for “7421” in item for chapter 641.
+1980—Pub. L. 96–513, title V, § 513(1), Dec. 12, 1980, 94 Stat. 2931, substituted “7420” for “7421” in item for chapter 641.
 
-1962—Pub. L. 87–533, § 2, July 10, 1962, 76 Stat. 155, substituted “United States Naval Oceanographic” for “Hydrographic” in item for chapter 639.
+1962—Pub. L. 87–533, § 2, July 10, 1962, 76 Stat. 155, substituted “United States Naval Oceanographic” for “Hydrographic” in item for chapter 639.
 
 - [CHAPTER 861—SECRETARY OF THE NAVY: MISCELLANEOUS POWERS AND DUTIES](chapter-861-secretary-of-the-navy-miscellaneous-powers-and-duties.md)
 
@@ -5996,39 +5996,39 @@ Pub. L. 97–295, § 1(51)(B), Oct. 12, 1982, 96 Stat. 1300, added item for ch
 
 **Amendments**
 
-2023—Pub. L. 118–31, div. A, title XVII, § 1721(a)(5)(B), Dec. 22, 2023, 137 Stat. 666, added item for chapter 915 and struck out former item for chapter 915 “Appointments in the Regular Air Force and the Regular Space Force”. Amendment was executed to reflect the probable intent of Congress, notwithstanding directory language amending this analysis as if it were within part II of this subtitle.
+2023—Pub. L. 118–31, div. A, title XVII, § 1721(a)(5)(B), Dec. 22, 2023, 137 Stat. 666, added item for chapter 915 and struck out former item for chapter 915 “Appointments in the Regular Air Force and the Regular Space Force”. Amendment was executed to reflect the probable intent of Congress, notwithstanding directory language amending this analysis as if it were within part II of this subtitle.
 
-2021—Pub. L. 116–283, div. A, title IX, § 923(a)(1), (c)(3)(C), title X, § 1081(a)(47), Jan. 1, 2021, 134 Stat. 3807, 3810, 3873, substituted “Air Force and Space Force” for “Air Force” in subtitle heading, struck out period at end of item for chapter 908, and added item for chapter 915 and struck out former item for chapter 915 “Appointments in the Regular Air Force”.
+2021—Pub. L. 116–283, div. A, title IX, § 923(a)(1), (c)(3)(C), title X, § 1081(a)(47), Jan. 1, 2021, 134 Stat. 3807, 3810, 3873, substituted “Air Force and Space Force” for “Air Force” in subtitle heading, struck out period at end of item for chapter 908, and added item for chapter 915 and struck out former item for chapter 915 “Appointments in the Regular Air Force”.
 
-2019—Pub. L. 116–92, div. A, title IX, § 952(f), Dec. 20, 2019, 133 Stat. 1562, added item for chapter 908.
+2019—Pub. L. 116–92, div. A, title IX, § 952(f), Dec. 20, 2019, 133 Stat. 1562, added item for chapter 908.
 
-2018—Pub. L. 115–232, div. A, title VIII, § 806(e)(2), Aug. 13, 2018, 132 Stat. 1834, redesignated items for chapters 801 to 953 as 901 to 983 and redesignated section numbers 8011 to 9831 as 9011 to 9831. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
+2018—Pub. L. 115–232, div. A, title VIII, § 806(e)(2), Aug. 13, 2018, 132 Stat. 1834, redesignated items for chapters 801 to 953 as 901 to 983 and redesignated section numbers 8011 to 9831 as 9011 to 9831. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
 
-2016—Pub. L. 114–328, div. A, title XII, § 1241(*o*)(8), Dec. 23, 2016, 130 Stat. 2512, struck out item for chapter 905 “Aviation Leadership Program”.
+2016—Pub. L. 114–328, div. A, title XII, § 1241(*o*)(8), Dec. 23, 2016, 130 Stat. 2512, struck out item for chapter 905 “Aviation Leadership Program”.
 
-2003—Pub. L. 108–136, div. A, title V, § 576(c)(2), Nov. 24, 2003, 117 Stat. 1488, added item for chapter 875.
+2003—Pub. L. 108–136, div. A, title V, § 576(c)(2), Nov. 24, 2003, 117 Stat. 1488, added item for chapter 875.
 
-1999—Pub. L. 106–65, div. A, title VII, § 721(c)(8), Oct. 5, 1999, 113 Stat. 695, substituted “Disposition” for “Inquests; Disposition” and “9712” for “9711” in item for chapter 945.
+1999—Pub. L. 106–65, div. A, title VII, § 721(c)(8), Oct. 5, 1999, 113 Stat. 695, substituted “Disposition” for “Inquests; Disposition” and “9712” for “9711” in item for chapter 945.
 
-1996—Pub. L. 104–106, div. A, title XV, § 1503(b)(6), Feb. 10, 1996, 110 Stat. 513, inserted comma after “SUPPLY” in heading for part IV.
+1996—Pub. L. 104–106, div. A, title XV, § 1503(b)(6), Feb. 10, 1996, 110 Stat. 513, inserted comma after “SUPPLY” in heading for part IV.
 
-1994—Pub. L. 103–337, div. A, title XVI, § 1674(a), Oct. 5, 1994, 108 Stat. 3016, struck out items for chapters 837 “Appointments as Reserve Officers” and 863 “Separation or Transfer to Retired Reserve”.
+1994—Pub. L. 103–337, div. A, title XVI, § 1674(a), Oct. 5, 1994, 108 Stat. 3016, struck out items for chapters 837 “Appointments as Reserve Officers” and 863 “Separation or Transfer to Retired Reserve”.
 
-1993—Pub. L. 103–160, div. A, title VIII, § 828(c)(8)(B), title XI, § 1178(c), Nov. 30, 1993, 107 Stat. 1715, 1769, added item for chapter 905 and substituted “Civil Reserve Air Fleet” for “Industrial Mobilization, Research, and Development” and “9511” for “9501” in item for chapter 931.
+1993—Pub. L. 103–160, div. A, title VIII, § 828(c)(8)(B), title XI, § 1178(c), Nov. 30, 1993, 107 Stat. 1715, 1769, added item for chapter 905 and substituted “Civil Reserve Air Fleet” for “Industrial Mobilization, Research, and Development” and “9511” for “9501” in item for chapter 931.
 
-1987—Pub. L. 100–26, § 7(j)(10)(B), Apr. 21, 1987, 101 Stat. 283, substituted “8011” for “8010” in item for chapter 803.
+1987—Pub. L. 100–26, § 7(j)(10)(B), Apr. 21, 1987, 101 Stat. 283, substituted “8011” for “8010” in item for chapter 803.
 
-1980—Pub. L. 96–513, title V, §§ 504(1), 514(1), Dec. 12, 1980, 94 Stat. 2915, 2935, substituted “8010” for “8011” in item for chapter 803 and struck out items for chapters 859 “Separation from Regular Air Force for Substandard Performance of Duty”, 860 “Separation from Regular Air Force for Moral or Professional Dereliction or in Interests of National Security”, and 865 “Retirement for Age”.
+1980—Pub. L. 96–513, title V, §§ 504(1), 514(1), Dec. 12, 1980, 94 Stat. 2915, 2935, substituted “8010” for “8011” in item for chapter 803 and struck out items for chapters 859 “Separation from Regular Air Force for Substandard Performance of Duty”, 860 “Separation from Regular Air Force for Moral or Professional Dereliction or in Interests of National Security”, and 865 “Retirement for Age”.
 
-1968—Pub. L. 90–377, § 5, July 5, 1968, 82 Stat. 288, struck out item for chapter 851 “United States Disciplinary Barracks”.
+1968—Pub. L. 90–377, § 5, July 5, 1968, 82 Stat. 288, struck out item for chapter 851 “United States Disciplinary Barracks”.
 
-Pub. L. 90–235, § 8(6), Jan. 2, 1968, 81 Stat. 764, struck out item for chapter 847 “The Uniform”.
+Pub. L. 90–235, § 8(6), Jan. 2, 1968, 81 Stat. 764, struck out item for chapter 847 “The Uniform”.
 
-1964—Pub. L. 88–647, title III, § 301(27), Oct. 13, 1964, 78 Stat. 1073, struck out item for chapter 905 “Air Force Reserve Officers’ Training Corps”.
+1964—Pub. L. 88–647, title III, § 301(27), Oct. 13, 1964, 78 Stat. 1073, struck out item for chapter 905 “Air Force Reserve Officers’ Training Corps”.
 
-1960—Pub. L. 86–616, §§ 7(b), 8(b), July 12, 1960, 74 Stat. 393, 395, substituted “Substandard Performance of Duty” for “Failure to Meet Standards” in item for chapter 859 and added item for chapter 860.
+1960—Pub. L. 86–616, §§ 7(b), 8(b), July 12, 1960, 74 Stat. 393, 395, substituted “Substandard Performance of Duty” for “Failure to Meet Standards” in item for chapter 859 and added item for chapter 860.
 
-1958—Pub. L. 85–861, § 1(193), Sept. 2, 1958, 72 Stat. 1538, substituted “8841” for “[No present sections]” in item for chapter 863.
+1958—Pub. L. 85–861, § 1(193), Sept. 2, 1958, 72 Stat. 1538, substituted “8841” for “[No present sections]” in item for chapter 863.
 
 ### PART I—ORGANIZATION
 
@@ -6036,15 +6036,15 @@ Pub. L. 90–235, § 8(6), Jan. 2, 1968, 81 Stat. 764, struck out item for cha
 
 **Amendments**
 
-2021—Pub. L. 116–283, div. A, title X, § 1081(a)(47), Jan. 1, 2021, 134 Stat. 3873, struck out period at end of item for chapter 908.
+2021—Pub. L. 116–283, div. A, title X, § 1081(a)(47), Jan. 1, 2021, 134 Stat. 3873, struck out period at end of item for chapter 908.
 
-2019—Pub. L. 116–92, div. A, title IX, § 952(f), Dec. 20, 2019, 133 Stat. 1562, added item for chapter 908.
+2019—Pub. L. 116–92, div. A, title IX, § 952(f), Dec. 20, 2019, 133 Stat. 1562, added item for chapter 908.
 
-2018—Pub. L. 115–232, div. A, title VIII, § 806(e)(2), Aug. 13, 2018, 132 Stat. 1834, redesignated items for chapters 801 to 807 as 901 to 907 and redesignated section numbers 8011 to 8061 as 9011 to 9061.
+2018—Pub. L. 115–232, div. A, title VIII, § 806(e)(2), Aug. 13, 2018, 132 Stat. 1834, redesignated items for chapters 801 to 807 as 901 to 907 and redesignated section numbers 8011 to 8061 as 9011 to 9061.
 
-1987—Pub. L. 100–26, § 7(j)(10)(B), Apr. 21, 1987, 101 Stat. 283, substituted “8011” for “8010” in item for chapter 803.
+1987—Pub. L. 100–26, § 7(j)(10)(B), Apr. 21, 1987, 101 Stat. 283, substituted “8011” for “8010” in item for chapter 803.
 
-1980—Pub. L. 96–513, title V, § 514(1), Dec. 12, 1980, 94 Stat. 2935, substituted “8010” for “8011” in item for chapter 803.
+1980—Pub. L. 96–513, title V, § 514(1), Dec. 12, 1980, 94 Stat. 2935, substituted “8010” for “8011” in item for chapter 803.
 
 - [CHAPTER 901—DEFINITIONS](chapter-901-definitions.md)
 
@@ -6062,25 +6062,25 @@ Pub. L. 90–235, § 8(6), Jan. 2, 1968, 81 Stat. 764, struck out item for cha
 
 **Amendments**
 
-2023—Pub. L. 118–31, div. A, title XVII, § 1721(a)(5)(B), Dec. 22, 2023, 137 Stat. 666, added item for chapter 915 and struck out former item for chapter 915 “Appointments in the Regular Air Force and the Regular Space Force”.
+2023—Pub. L. 118–31, div. A, title XVII, § 1721(a)(5)(B), Dec. 22, 2023, 137 Stat. 666, added item for chapter 915 and struck out former item for chapter 915 “Appointments in the Regular Air Force and the Regular Space Force”.
 
-2021—Pub. L. 116–283, div. A, title IX, § 923(c)(3)(C), Jan. 1, 2021, 134 Stat. 3810, added item for chapter 915 and struck out former item for chapter 915 “Appointments in the Regular Air Force”.
+2021—Pub. L. 116–283, div. A, title IX, § 923(c)(3)(C), Jan. 1, 2021, 134 Stat. 3810, added item for chapter 915 and struck out former item for chapter 915 “Appointments in the Regular Air Force”.
 
-2018—Pub. L. 115–232, div. A, title VIII, § 806(e)(2), Aug. 13, 2018, 132 Stat. 1834, redesignated items for chapters 831 to 875 as 911 to 949 and redesignated section numbers 8201 to 9061 as 9110 to 9381. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
+2018—Pub. L. 115–232, div. A, title VIII, § 806(e)(2), Aug. 13, 2018, 132 Stat. 1834, redesignated items for chapters 831 to 875 as 911 to 949 and redesignated section numbers 8201 to 9061 as 9110 to 9381. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
 
-2003—Pub. L. 108–136, div. A, title V, § 576(c)(2), Nov. 24, 2003, 117 Stat. 1488, added item for chapter 875.
+2003—Pub. L. 108–136, div. A, title V, § 576(c)(2), Nov. 24, 2003, 117 Stat. 1488, added item for chapter 875.
 
-1994—Pub. L. 103–337, div. A, title XVI, § 1674(a), Oct. 5, 1994, 108 Stat. 3016, struck out items for chapters 837 “Appointments as Reserve Officers” and 863 “Separation or Transfer to Retired Reserve”.
+1994—Pub. L. 103–337, div. A, title XVI, § 1674(a), Oct. 5, 1994, 108 Stat. 3016, struck out items for chapters 837 “Appointments as Reserve Officers” and 863 “Separation or Transfer to Retired Reserve”.
 
-1980—Pub. L. 96–513, title V, § 504(1), Dec. 12, 1980, 94 Stat. 2915, struck out items for chapters 859 “Separation from Regular Air Force for Substandard Performance of Duty”, 860 “Separation from Regular Air Force for Moral or Professional Dereliction or in Interests of National Security”, and 865 “Retirement for Age”.
+1980—Pub. L. 96–513, title V, § 504(1), Dec. 12, 1980, 94 Stat. 2915, struck out items for chapters 859 “Separation from Regular Air Force for Substandard Performance of Duty”, 860 “Separation from Regular Air Force for Moral or Professional Dereliction or in Interests of National Security”, and 865 “Retirement for Age”.
 
-1968—Pub. L. 90–377, § 5, July 5, 1968, 82 Stat. 288, struck out item for chapter 851 “United States Disciplinary Barracks”.
+1968—Pub. L. 90–377, § 5, July 5, 1968, 82 Stat. 288, struck out item for chapter 851 “United States Disciplinary Barracks”.
 
-Pub. L. 90–235, § 8(6), Jan. 2, 1968, 81 Stat. 764, struck out item for chapter 847 “The Uniform”.
+Pub. L. 90–235, § 8(6), Jan. 2, 1968, 81 Stat. 764, struck out item for chapter 847 “The Uniform”.
 
-1960—Pub. L. 86–616, §§ 7(b), 8(b), July 12, 1960, 74 Stat. 393, 395, substituted “Substandard Performance of Duty” for “Failure to Meet Standards” in item for chapter 859 and added item for chapter 860.
+1960—Pub. L. 86–616, §§ 7(b), 8(b), July 12, 1960, 74 Stat. 393, 395, substituted “Substandard Performance of Duty” for “Failure to Meet Standards” in item for chapter 859 and added item for chapter 860.
 
-1958—Pub. L. 85–861, § 1(193), Sept. 2, 1958, 72 Stat. 1538, substituted “8841” for “[No present sections]” in item for chapter 863.
+1958—Pub. L. 85–861, § 1(193), Sept. 2, 1958, 72 Stat. 1538, substituted “8841” for “[No present sections]” in item for chapter 863.
 
 - [CHAPTER 911—STRENGTH](chapter-911-strength.md)
 
@@ -6122,13 +6122,13 @@ Pub. L. 90–235, § 8(6), Jan. 2, 1968, 81 Stat. 764, struck out item for cha
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 806(e)(2), Aug. 13, 2018, 132 Stat. 1834, redesignated items for chapters 901 to 909 as 951 to 959 and redesignated section numbers 9301 to 9441 as 9401 to 9491.
+2018—Pub. L. 115–232, div. A, title VIII, § 806(e)(2), Aug. 13, 2018, 132 Stat. 1834, redesignated items for chapters 901 to 909 as 951 to 959 and redesignated section numbers 9301 to 9441 as 9401 to 9491.
 
-2016—Pub. L. 114–328, div. A, title XII, § 1241(*o*)(8), Dec. 23, 2016, 130 Stat. 2512, struck out item for chapter 905 “Aviation Leadership Program”.
+2016—Pub. L. 114–328, div. A, title XII, § 1241(*o*)(8), Dec. 23, 2016, 130 Stat. 2512, struck out item for chapter 905 “Aviation Leadership Program”.
 
-1993—Pub. L. 103–160, div. A, title XI, § 1178(c), Nov. 30, 1993, 107 Stat. 1769, added item for chapter 905.
+1993—Pub. L. 103–160, div. A, title XI, § 1178(c), Nov. 30, 1993, 107 Stat. 1769, added item for chapter 905.
 
-1964—Pub. L. 88–647, title III, § 301(27), Oct. 13, 1964, 78 Stat. 1073, struck out item for chapter 905.
+1964—Pub. L. 88–647, title III, § 301(27), Oct. 13, 1964, 78 Stat. 1073, struck out item for chapter 905.
 
 - [CHAPTER 951—TRAINING GENERALLY](chapter-951-training-generally.md)
 
@@ -6144,11 +6144,11 @@ Pub. L. 90–235, § 8(6), Jan. 2, 1968, 81 Stat. 764, struck out item for cha
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 806(e)(2), Aug. 13, 2018, 132 Stat. 1834, redesignated items for chapters 931 to 953 as 961 to 983, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 806(e)(2), Aug. 13, 2018, 132 Stat. 1834, redesignated items for chapters 931 to 953 as 961 to 983, respectively.
 
-1999—Pub. L. 106–65, div. A, title VII, § 721(c)(8), Oct. 5, 1999, 113 Stat. 695, substituted “Disposition” for “Inquests; Disposition” and “9712” for “9711” in item for chapter 945.
+1999—Pub. L. 106–65, div. A, title VII, § 721(c)(8), Oct. 5, 1999, 113 Stat. 695, substituted “Disposition” for “Inquests; Disposition” and “9712” for “9711” in item for chapter 945.
 
-1993—Pub. L. 103–160, div. A, title VIII, § 828(c)(8)(B), Nov. 30, 1993, 107 Stat. 1715, substituted “Civil Reserve Air Fleet” for “Industrial Mobilization, Research, and Development” and “9511” for “9501” in item for chapter 931.
+1993—Pub. L. 103–160, div. A, title VIII, § 828(c)(8)(B), Nov. 30, 1993, 107 Stat. 1715, substituted “Civil Reserve Air Fleet” for “Industrial Mobilization, Research, and Development” and “9511” for “9501” in item for chapter 931.
 
 - [CHAPTER 961—CIVIL RESERVE AIR FLEET](chapter-961-civil-reserve-air-fleet.md)
 
@@ -6180,23 +6180,23 @@ Pub. L. 90–235, § 8(6), Jan. 2, 1968, 81 Stat. 764, struck out item for cha
 
 **Amendments**
 
-2023—Pub. L. 118–31, div. A, title V, § 514(a), Dec. 22, 2023, 137 Stat. 245, added item for chapter 1413. Amendment was made pursuant to operation of section 102 of this title.
+2023—Pub. L. 118–31, div. A, title V, § 514(a), Dec. 22, 2023, 137 Stat. 245, added item for chapter 1413. Amendment was made pursuant to operation of section 102 of this title.
 
-2009—Pub. L. 111–84, div. A, title X, § 1073(a)(33), Oct. 28, 2009, 123 Stat. 2474, substituted “Reserve Active-Status List” for “Reserve-Active Status List” in item for chapter 1409.
+2009—Pub. L. 111–84, div. A, title X, § 1073(a)(33), Oct. 28, 2009, 123 Stat. 2474, substituted “Reserve Active-Status List” for “Reserve-Active Status List” in item for chapter 1409.
 
-2004—Pub. L. 108–375, div. A, title V, § 527(c), Oct. 28, 2004, 118 Stat. 1894, added item for chapter 1607.
+2004—Pub. L. 108–375, div. A, title V, § 527(c), Oct. 28, 2004, 118 Stat. 1894, added item for chapter 1607.
 
-1999—Pub. L. 106–65, div. A, title V, § 551(a)(2), Oct. 5, 1999, 113 Stat. 614, added item for chapter 1611.
+1999—Pub. L. 106–65, div. A, title V, § 551(a)(2), Oct. 5, 1999, 113 Stat. 614, added item for chapter 1611.
 
-1997—Pub. L. 105–85, div. A, title V, § 515(b), Nov. 18, 1997, 111 Stat. 1733, substituted “12551” for “[No present sections]” in item for chapter 1215.
+1997—Pub. L. 105–85, div. A, title V, § 515(b), Nov. 18, 1997, 111 Stat. 1733, substituted “12551” for “[No present sections]” in item for chapter 1215.
 
-1996—Pub. L. 104–201, div. A, title XII, § 1211(a)(2), Sept. 23, 1996, 110 Stat. 2691, added item for chapter 1006.
+1996—Pub. L. 104–201, div. A, title XII, § 1211(a)(2), Sept. 23, 1996, 110 Stat. 2691, added item for chapter 1006.
 
-Pub. L. 104–106, div. A, title V, § 512(a)(2), title XV, § 1501(b)(1), Feb. 10, 1996, 110 Stat. 305, 495, added item for chapter 1214 and substituted “Repayment Programs” for “Repayments” in item for chapter 1609.
+Pub. L. 104–106, div. A, title V, § 512(a)(2), title XV, § 1501(b)(1), Feb. 10, 1996, 110 Stat. 305, 495, added item for chapter 1214 and substituted “Repayment Programs” for “Repayments” in item for chapter 1609.
 
 ### PART I—ORGANIZATION AND ADMINISTRATION
 
-1996—Pub. L. 104–201, div. A, title XII, § 1211(a)(2), Sept. 23, 1996, 110 Stat. 2691, added item for chapter 1006.
+1996—Pub. L. 104–201, div. A, title XII, § 1211(a)(2), Sept. 23, 1996, 110 Stat. 2691, added item for chapter 1006.
 
 - [CHAPTER 1001—DEFINITIONS](chapter-1001-definitions.md)
 
@@ -6220,9 +6220,9 @@ Pub. L. 104–106, div. A, title V, § 512(a)(2), title XV, § 1501(b)(1), F
 
 **Amendments**
 
-1997—Pub. L. 105–85, div. A, title V, § 515(b), Nov. 18, 1997, 111 Stat. 1733, substituted “12551” for “[No present sections]” in item for chapter 1215.
+1997—Pub. L. 105–85, div. A, title V, § 515(b), Nov. 18, 1997, 111 Stat. 1733, substituted “12551” for “[No present sections]” in item for chapter 1215.
 
-1996—Pub. L. 104–106, div. A, title V, § 512(a)(2), Feb. 10, 1996, 110 Stat. 305, added item for chapter 1214.
+1996—Pub. L. 104–106, div. A, title V, § 512(a)(2), Feb. 10, 1996, 110 Stat. 305, added item for chapter 1214.
 
 - [CHAPTER 1201—AUTHORIZED STRENGTHS AND DISTRIBUTION IN GRADE](chapter-1201-authorized-strengths-and-distribution-in-grade.md)
 
@@ -6258,9 +6258,9 @@ Pub. L. 104–106, div. A, title V, § 512(a)(2), title XV, § 1501(b)(1), F
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title XVII, § 1701(a)(41), Dec. 18, 2025, 139 Stat. 1210, added item for chapter 1413 and struck out former item for chapter 1413 “Alternative promotion authority for officers in designated competitive categories”.
+2025—Pub. L. 119–60, div. A, title XVII, § 1701(a)(41), Dec. 18, 2025, 139 Stat. 1210, added item for chapter 1413 and struck out former item for chapter 1413 “Alternative promotion authority for officers in designated competitive categories”.
 
-2023—Pub. L. 118–31, div. A, title V, § 514(b), Dec. 22, 2023, 137 Stat. 248, added item for chapter 1413.
+2023—Pub. L. 118–31, div. A, title V, § 514(b), Dec. 22, 2023, 137 Stat. 248, added item for chapter 1413.
 
 - [CHAPTER 1401—APPLICABILITY AND RESERVE ACTIVE-STATUS LISTS](chapter-1401-applicability-and-reserve-active-status-lists.md)
 
@@ -6282,11 +6282,11 @@ Pub. L. 104–106, div. A, title V, § 512(a)(2), title XV, § 1501(b)(1), F
 
 **Amendments**
 
-2004—Pub. L. 108–375, div. A, title V, § 527(c), Oct. 28, 2004, 118 Stat. 1894, added item for chapter 1607.
+2004—Pub. L. 108–375, div. A, title V, § 527(c), Oct. 28, 2004, 118 Stat. 1894, added item for chapter 1607.
 
-1999—Pub. L. 106–65, div. A, title V, § 551(a)(2), Oct. 5, 1999, 113 Stat. 614, added item for chapter 1611.
+1999—Pub. L. 106–65, div. A, title V, § 551(a)(2), Oct. 5, 1999, 113 Stat. 614, added item for chapter 1611.
 
-1996—Pub. L. 104–106, div. A, title XV, § 1501(b)(1), Feb. 10, 1996, 110 Stat. 495, substituted “Repayment Programs” for “Repayments” in item for chapter 1609.
+1996—Pub. L. 104–106, div. A, title XV, § 1501(b)(1), Feb. 10, 1996, 110 Stat. 495, substituted “Repayment Programs” for “Repayments” in item for chapter 1609.
 
 - [CHAPTER 1601—TRAINING GENERALLY](chapter-1601-training-generally.md)
 
@@ -6310,9 +6310,9 @@ Pub. L. 104–106, div. A, title V, § 512(a)(2), title XV, § 1501(b)(1), F
 
 ## Subtitle F—Alternative Military Personnel Systems
 
-2025—Pub. L. 119–60, div. A, title XVI, § 1601(e), Dec. 18, 2025, 139 Stat. 1174, added item for chapter 2015. Amendment was made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title XVI, § 1601(e), Dec. 18, 2025, 139 Stat. 1174, added item for chapter 2015. Amendment was made pursuant to operation of section 102 of this title.
 
-Pub. L. 118–31, div. A, title XVII, §§ 1711, 1715, 1716(a), 1717(a), 1718(a), 1719, 1719A(a), Dec. 22, 2023, 137 Stat. 625, 626, 631, 654, 655, 658, 662, added item for part I and items for chapters 2001 to 2013. Amendments were made pursuant to operation of section 102 of this title.
+Pub. L. 118–31, div. A, title XVII, §§ 1711, 1715, 1716(a), 1717(a), 1718(a), 1719, 1719A(a), Dec. 22, 2023, 137 Stat. 625, 626, 631, 654, 655, 658, 662, added item for part I and items for chapters 2001 to 2013. Amendments were made pursuant to operation of section 102 of this title.
 
 ### PART I—SPACE FORCE
 
@@ -6324,9 +6324,9 @@ As enacted, section 1711 of Pub. L. 118–31, which enacted this subtitle, set o
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title XVI, § 1601(e), Dec. 18, 2025, 139 Stat. 1174, added item for chapter 2015. Amendment was made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title XVI, § 1601(e), Dec. 18, 2025, 139 Stat. 1174, added item for chapter 2015. Amendment was made pursuant to operation of section 102 of this title.
 
-2024—Pub. L. 118–159, div. A, title XVII, § 1701(a)(48), Dec. 23, 2024, 138 Stat. 2206, substituted “Voluntary Retirement for Length of Service” for “Retirement” in item for chapter 2013.
+2024—Pub. L. 118–159, div. A, title XVII, § 1701(a)(48), Dec. 23, 2024, 138 Stat. 2206, substituted “Voluntary Retirement for Length of Service” for “Retirement” in item for chapter 2013.
 
 - [CHAPTER 2001—SPACE FORCE PERSONNEL SYSTEM](chapter-2001-space-force-personnel-system.md)
 

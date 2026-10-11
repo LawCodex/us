@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 21—FEDERAL INSURANCE CONTRIBUTIONS ACT
 
-Pub. L. 117–2, title IX, § 9641(c), Mar. 11, 2021, 135 Stat. 171, added item for subchapter D.
+Pub. L. 117–2, title IX, § 9641(c), Mar. 11, 2021, 135 Stat. 171, added item for subchapter D.
 
 ## Subchapter A—Tax on Employees
 
-### § 3101. Rate of tax
+### § 3101. Rate of tax
 
 **(a) Old-age, survivors, and disability insurance**
 
@@ -43,7 +43,7 @@ In addition to the tax imposed by the preceding subsection, there is hereby impo
 
 During any period in which there is in effect an agreement entered into pursuant to section 233 of the Social Security Act with any foreign country, wages received by or paid to an individual shall be exempt from the taxes imposed by this section to the extent that such wages are subject under such agreement exclusively to the laws applicable to the social security system of such foreign country.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 415; Sept. 1, 1954, ch. 1206, title II, § 208(b), 68 Stat. 1094; Aug. 1, 1956, ch. 836, title II, § 202(b), 70 Stat. 845; Pub. L. 85–840, title IV, § 401(b), Aug. 28, 1958, 72 Stat. 1041; Pub. L. 87–64, title II, § 201(b), June 30, 1961, 75 Stat. 141; Pub. L. 89–97, title I, § 111(c)(5), title III, § 321(b), July 30, 1965, 79 Stat. 342, 395; Pub. L. 90–248, title I, § 109(a)(2), (b)(2), Jan. 2, 1968, 81 Stat. 836; Pub. L. 92–5, title II, § 204(a)(1), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, § 204(a)(2), (b)(2), July 1, 1972, 86 Stat. 421, 422; Pub. L. 92–603, § 135(a)(2), (b)(2), Oct. 30, 1972, 86 Stat. 1362, 1363; Pub. L. 93–233, § 6(a)(1), (b)(2), Dec. 31, 1973, 87 Stat. 954, 955; Pub. L. 94–455, title XIX, § 1903(a)(1), Oct. 4, 1976, 90 Stat. 1806; Pub. L. 95–216, title I, § 101(a)(1), (b)(1), title III, § 317(b)(2), Dec. 20, 1977, 91 Stat. 1510, 1511, 1540; Pub. L. 98–21, title I, § 123(a)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 108–203, title IV, § 415, Mar. 2, 2004, 118 Stat. 530; Pub. L. 111–148, title IX, § 9015(a)(1), title X, § 10906(a), Mar. 23, 2010, 124 Stat. 870, 1020; Pub. L. 111–152, title I, § 1402(b)(1)(A), Mar. 30, 2010, 124 Stat. 1063; Pub. L. 113–295, div. A, title II, § 221(a)(99)(A), Dec. 19, 2014, 128 Stat. 4051; Pub. L. 115–141, div. U, title IV, § 401(a)(207), Mar. 23, 2018, 132 Stat. 1194.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 415; Sept. 1, 1954, ch. 1206, title II, § 208(b), 68 Stat. 1094; Aug. 1, 1956, ch. 836, title II, § 202(b), 70 Stat. 845; Pub. L. 85–840, title IV, § 401(b), Aug. 28, 1958, 72 Stat. 1041; Pub. L. 87–64, title II, § 201(b), June 30, 1961, 75 Stat. 141; Pub. L. 89–97, title I, § 111(c)(5), title III, § 321(b), July 30, 1965, 79 Stat. 342, 395; Pub. L. 90–248, title I, § 109(a)(2), (b)(2), Jan. 2, 1968, 81 Stat. 836; Pub. L. 92–5, title II, § 204(a)(1), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, § 204(a)(2), (b)(2), July 1, 1972, 86 Stat. 421, 422; Pub. L. 92–603, § 135(a)(2), (b)(2), Oct. 30, 1972, 86 Stat. 1362, 1363; Pub. L. 93–233, § 6(a)(1), (b)(2), Dec. 31, 1973, 87 Stat. 954, 955; Pub. L. 94–455, title XIX, § 1903(a)(1), Oct. 4, 1976, 90 Stat. 1806; Pub. L. 95–216, title I, § 101(a)(1), (b)(1), title III, § 317(b)(2), Dec. 20, 1977, 91 Stat. 1510, 1511, 1540; Pub. L. 98–21, title I, § 123(a)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 108–203, title IV, § 415, Mar. 2, 2004, 118 Stat. 530; Pub. L. 111–148, title IX, § 9015(a)(1), title X, § 10906(a), Mar. 23, 2010, 124 Stat. 870, 1020; Pub. L. 111–152, title I, § 1402(b)(1)(A), Mar. 30, 2010, 124 Stat. 1063; Pub. L. 113–295, div. A, title II, § 221(a)(99)(A), Dec. 19, 2014, 128 Stat. 4051; Pub. L. 115–141, div. U, title IV, § 401(a)(207), Mar. 23, 2018, 132 Stat. 1194.)
 
 **Editorial Notes**
 
@@ -57,73 +57,73 @@ Section 233 of the Social Security Act, referred to in subsec. (c), is classifie
 
 2014—Subsec. (a). Pub. L. 113–295 substituted “6.2 percent of the wages (as defined in section 3121(a)) received by the individual with respect to employment (as defined in section 3121(b))” for “the following percentages of the wages (as defined in section 3121(a)) received by him with respect to employment (as defined in section 3121(b))—” and table of rates.
 
-2010—Subsec. (b). Pub. L. 111–148, § 9015(a)(1), designated existing text as par. (1), inserted heading, substituted “1.45 percent of the” for “the following percentages of the” and “(as defined in section 3121(b)).” for “(as defined in section 3121(b))—”, struck out former pars. (1) to (6), which related to rates in calendar years 1974 to 1985 and after Dec. 31, 1985, and added par. (2).
+2010—Subsec. (b). Pub. L. 111–148, § 9015(a)(1), designated existing text as par. (1), inserted heading, substituted “1.45 percent of the” for “the following percentages of the” and “(as defined in section 3121(b)).” for “(as defined in section 3121(b))—”, struck out former pars. (1) to (6), which related to rates in calendar years 1974 to 1985 and after Dec. 31, 1985, and added par. (2).
 
-Subsec. (b)(2). Pub. L. 111–152, § 1402(b)(1)(A), added subpar. (B) and redesignated former subpar. (B) as (C).
+Subsec. (b)(2). Pub. L. 111–152, § 1402(b)(1)(A), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Pub. L. 111–148, § 10906(a), substituted “0.9 percent” for “0.5 percent” in introductory provisions.
+Pub. L. 111–148, § 10906(a), substituted “0.9 percent” for “0.5 percent” in introductory provisions.
 
 2004—Subsec. (c). Pub. L. 108–203 substituted “exclusively to the laws applicable to” for “to taxes or contributions for similar purposes under”.
 
 1983—Subsec. (a). Pub. L. 98–21 substituted table of rates for former pars. (1) to (7) which had imposed a tax on the income of every individual (1) with respect to wages received during the calendar years 1974 through 1977 at the rate of 4.95 percent; (2) with respect to wages received during the calendar year 1978 at the rate of 5.05 percent; (3) with respect to wages received during the calendar years 1979 and 1980 at the rate of 5.08 percent; (4) with respect to wages received during the calendar year 1981 at the rate of 5.35 percent; (5) with respect to wages received during the calendar years 1982 through 1984 at the rate of 5.40 percent; (6) with respect to wages received during the calendar years 1985 through 1989 at the rate of 5.70 percent; and (7) with respect to wages received after Dec. 31, 1989, at the rate of 6.20 percent.
 
-1977—Subsec. (a). Pub. L. 95–216, § 101(a)(1), substituted “1974 through 1977” for “1974 through 2010” in par. (1), substituted “wages received during the calendar year 1978, the rate shall be 5.05 percent” for “wages received after December 31, 2010, the rate shall be 5.95 percent” in par. (2), and added pars. (3) to (7).
+1977—Subsec. (a). Pub. L. 95–216, § 101(a)(1), substituted “1974 through 1977” for “1974 through 2010” in par. (1), substituted “wages received during the calendar year 1978, the rate shall be 5.05 percent” for “wages received after December 31, 2010, the rate shall be 5.95 percent” in par. (2), and added pars. (3) to (7).
 
-Subsec. (b). Pub. L. 95–216, § 101(b)(1), substituted “wages received during the calendar year 1978, the rate shall be 1.00 percent” for “wages received during the calendar years 1978 through 1980, the rate shall be 1.10 percent” in par. (2), substituted “wages received during the calendar years 1979 and 1980, the rate shall be 1.05 percent” for “wages received during the calendar years 1981 through 1985, the rate shall be 1.35 percent”, in par. (3), substituted “wages received during the calendar years 1981 through 1984, the rate shall be 1.30 percent” for “wages received after December 31, 1985, the rate shall be 1.50 percent” in par. (4), and added pars. (5) and (6).
+Subsec. (b). Pub. L. 95–216, § 101(b)(1), substituted “wages received during the calendar year 1978, the rate shall be 1.00 percent” for “wages received during the calendar years 1978 through 1980, the rate shall be 1.10 percent” in par. (2), substituted “wages received during the calendar years 1979 and 1980, the rate shall be 1.05 percent” for “wages received during the calendar years 1981 through 1985, the rate shall be 1.35 percent”, in par. (3), substituted “wages received during the calendar years 1981 through 1984, the rate shall be 1.30 percent” for “wages received after December 31, 1985, the rate shall be 1.50 percent” in par. (4), and added pars. (5) and (6).
 
-Subsec. (c). Pub. L. 95–216, § 317(b)(2), added subsec. (c).
+Subsec. (c). Pub. L. 95–216, § 317(b)(2), added subsec. (c).
 
-1976—Subsec. (a). Pub. L. 94–455, § 1903(a)(1)(A), redesignated pars. (5) and (6) as (1) and (2), respectively. Former pars. (1) to (4), which related to a tax rate of 3.8 percent with respect to wages received during the calendar year 1968, a tax rate of 4.2 percent with respect to wages received during the calendar years 1969 and 1970, a tax rate of 4.6 percent with respect to wages received during the calendar years 1971 and 1972, and a tax rate of 4.85 percent with respect to wages received during the calendar year 1973, respectively, were struck out.
+1976—Subsec. (a). Pub. L. 94–455, § 1903(a)(1)(A), redesignated pars. (5) and (6) as (1) and (2), respectively. Former pars. (1) to (4), which related to a tax rate of 3.8 percent with respect to wages received during the calendar year 1968, a tax rate of 4.2 percent with respect to wages received during the calendar years 1969 and 1970, a tax rate of 4.6 percent with respect to wages received during the calendar years 1971 and 1972, and a tax rate of 4.85 percent with respect to wages received during the calendar year 1973, respectively, were struck out.
 
-Subsec. (b). Pub. L. 94–455, § 1903(a)(1)(B), redesignated pars. (3) to (6) as (1) to (4), respectively. Former pars. (1) and (2), which related to a tax rate of .60 percent with respect to wages received during the calendar years 1968, 1969, 1970, 1971, and 1972 and a tax rate of 1.0 percent with respect to wages received during the calendar year 1973, respectively, were struck out.
+Subsec. (b). Pub. L. 94–455, § 1903(a)(1)(B), redesignated pars. (3) to (6) as (1) to (4), respectively. Former pars. (1) and (2), which related to a tax rate of .60 percent with respect to wages received during the calendar years 1968, 1969, 1970, 1971, and 1972 and a tax rate of 1.0 percent with respect to wages received during the calendar year 1973, respectively, were struck out.
 
-1973—Subsec. (a)(4). Pub. L. 93–233, § 6(a)(1), struck out provision for application of 4.85 percent rate of tax during calendar years 1974, 1975, 1976, and 1977.
+1973—Subsec. (a)(4). Pub. L. 93–233, § 6(a)(1), struck out provision for application of 4.85 percent rate of tax during calendar years 1974, 1975, 1976, and 1977.
 
-Subsec. (a)(5). Pub. L. 93–233, § 6(a)(1), increased rate of tax from 4.80 percent to 4.95 percent and substituted calendar year “1974” for “1978” as the initial year for application of such rate.
+Subsec. (a)(5). Pub. L. 93–233, § 6(a)(1), increased rate of tax from 4.80 percent to 4.95 percent and substituted calendar year “1974” for “1978” as the initial year for application of such rate.
 
-Subsec. (a)(6). Pub. L. 93–233, § 6(a)(1), increased rate of tax from 5.85 percent to 5.95 percent.
+Subsec. (a)(6). Pub. L. 93–233, § 6(a)(1), increased rate of tax from 5.85 percent to 5.95 percent.
 
-Subsec. (b)(2). Pub. L. 93–233, § 6(b)(2), struck out provision for application of 1.0 percent rate of tax during calendar years 1974, 1975, 1976, and 1977.
+Subsec. (b)(2). Pub. L. 93–233, § 6(b)(2), struck out provision for application of 1.0 percent rate of tax during calendar years 1974, 1975, 1976, and 1977.
 
-Subsec. (b)(3). Pub. L. 93–233, § 6(b)(2), incorporated former provision of par. (2) for taxation of wages received during calendar years 1974, 1975, 1976, and 1977, decreased the applicable rate of tax from 1.0 percent to 0.90 percent, and struck out provision for 1.25 percent rate of tax for calendar years 1978, 1979, 1980.
+Subsec. (b)(3). Pub. L. 93–233, § 6(b)(2), incorporated former provision of par. (2) for taxation of wages received during calendar years 1974, 1975, 1976, and 1977, decreased the applicable rate of tax from 1.0 percent to 0.90 percent, and struck out provision for 1.25 percent rate of tax for calendar years 1978, 1979, 1980.
 
-Subsec. (b)(4). Pub. L. 93–233, § 6(b)(2), incorporated former provision of par. (3) for taxation of wages received during calendar years 1978, 1979, and 1980, decreased the applicable rate of tax from 1.25 percent to 1.10 percent, and struck out provision for 1.35 percent rate of tax for calendar years 1981, 1982, 1983, 1984, and 1985.
+Subsec. (b)(4). Pub. L. 93–233, § 6(b)(2), incorporated former provision of par. (3) for taxation of wages received during calendar years 1978, 1979, and 1980, decreased the applicable rate of tax from 1.25 percent to 1.10 percent, and struck out provision for 1.35 percent rate of tax for calendar years 1981, 1982, 1983, 1984, and 1985.
 
-Subsec. (b)(5). Pub. L. 93–233, § 6(b)(2), incorporated former provision of par. (4) for taxation of wages received during calendar years 1981 through 1985 at applicable 1.35 percent rate of tax and struck out provision for 1.45 percent rate of tax for wages received after Dec. 31, 1985.
+Subsec. (b)(5). Pub. L. 93–233, § 6(b)(2), incorporated former provision of par. (4) for taxation of wages received during calendar years 1981 through 1985 at applicable 1.35 percent rate of tax and struck out provision for 1.45 percent rate of tax for wages received after Dec. 31, 1985.
 
-Subsec. (b)(6). Pub. L. 93–233, § 6(b)(2), incorporated former provision of par. (5) for taxation of wages received after Dec. 31, 1985 and increased the applicable rate of tax from 1.45 to 1.50 percent.
+Subsec. (b)(6). Pub. L. 93–233, § 6(b)(2), incorporated former provision of par. (5) for taxation of wages received after Dec. 31, 1985 and increased the applicable rate of tax from 1.45 to 1.50 percent.
 
-1972—Subsec. (a)(3). Pub. L. 92–603, § 135(a)(2)(A), substituted “the calendar years 1971 and 1972” for “any of the calendar years 1971 through 1977”.
+1972—Subsec. (a)(3). Pub. L. 92–603, § 135(a)(2)(A), substituted “the calendar years 1971 and 1972” for “any of the calendar years 1971 through 1977”.
 
-Subsec. (a)(3) to (5). Pub. L. 92–336, § 204(a)(2), substituted “any of the calendar years 1971 through 1977” for “the calendar years 1971 and 1972” in par. (3), “any of the calendar years 1978 through 2010” for “the calendar years 1973, 1974, and 1975” and “4.5” for “5.0” in par. (4), and “December 31, 2010” for “December 31, 1975” and “5.35” for “5.15” in par. (5).
+Subsec. (a)(3) to (5). Pub. L. 92–336, § 204(a)(2), substituted “any of the calendar years 1971 through 1977” for “the calendar years 1971 and 1972” in par. (3), “any of the calendar years 1978 through 2010” for “the calendar years 1973, 1974, and 1975” and “4.5” for “5.0” in par. (4), and “December 31, 2010” for “December 31, 1975” and “5.35” for “5.15” in par. (5).
 
-Subsec. (a)(4). Pub. L. 92–603, § 135(a)(2)(B), substituted “wages received during the calendar years 1973, 1974, 1975, 1976, and 1977, the rate shall be 4.85 percent;” for “wages paid during any of the calendar years 1978 through 2010, the rate shall be 4.5 per cent; and”.
+Subsec. (a)(4). Pub. L. 92–603, § 135(a)(2)(B), substituted “wages received during the calendar years 1973, 1974, 1975, 1976, and 1977, the rate shall be 4.85 percent;” for “wages paid during any of the calendar years 1978 through 2010, the rate shall be 4.5 per cent; and”.
 
-Subsec. (a)(5). Pub. L. 92–603, § 135(a)(2)(B), substituted “wages received during the calendar years 1978 through 2010, the rate shall be 4.80 percent; and” for “wages paid after December 31, 2010, the rate shall be 5.35 percent”.
+Subsec. (a)(5). Pub. L. 92–603, § 135(a)(2)(B), substituted “wages received during the calendar years 1978 through 2010, the rate shall be 4.80 percent; and” for “wages paid after December 31, 2010, the rate shall be 5.35 percent”.
 
-Subsec. (a)(6). Pub. L. 92–603, § 135(a)(2)(B), added par. (6).
+Subsec. (a)(6). Pub. L. 92–603, § 135(a)(2)(B), added par. (6).
 
-Subsec. (b)(2). Pub. L. 92–603, § 135(b)(2), increased rate of tax from 0.9 percent to 1.0 percent.
+Subsec. (b)(2). Pub. L. 92–603, § 135(b)(2), increased rate of tax from 0.9 percent to 1.0 percent.
 
-Subsec. (b)(2) to (5). Pub. L. 92–336, § 204(b)(2), inserted references to 1976 and 1977 and substituted “0.9” for “0.65” in par. (2), substituted references for the calendar years 1978 through 1985 for references to the calendar years 1976 through 1979 and substituted “1.0” for “0.70” in par. (3), substituted references for the calendar years 1986 through 1992 for references to the calendar years 1980 through 1986 and substituted “1.1” for “0.80” in par. (4), and substituted “1992” for “1986” and “1.2” for “0.90” in par. (5).
+Subsec. (b)(2) to (5). Pub. L. 92–336, § 204(b)(2), inserted references to 1976 and 1977 and substituted “0.9” for “0.65” in par. (2), substituted references for the calendar years 1978 through 1985 for references to the calendar years 1976 through 1979 and substituted “1.0” for “0.70” in par. (3), substituted references for the calendar years 1986 through 1992 for references to the calendar years 1980 through 1986 and substituted “1.1” for “0.80” in par. (4), and substituted “1992” for “1986” and “1.2” for “0.90” in par. (5).
 
-Subsec. (b)(3). Pub. L. 92–603, § 135(b)(2), substituted “and 1980, the rate shall be 1.25 percent” for “1980, 1981, 1982, 1983, 1984, and 1985, the rate shall be 1.0 percent”.
+Subsec. (b)(3). Pub. L. 92–603, § 135(b)(2), substituted “and 1980, the rate shall be 1.25 percent” for “1980, 1981, 1982, 1983, 1984, and 1985, the rate shall be 1.0 percent”.
 
-Subsec. (b)(4). Pub. L. 92–603, § 135(b)(2), substituted “1981, 1982, 1983, 1984, and 1985, the rate shall be 1.35 percent; and” for “1986, 1987, 1988, 1990, 1991, and 1992, the rate shall be 1.1 percent; and”.
+Subsec. (b)(4). Pub. L. 92–603, § 135(b)(2), substituted “1981, 1982, 1983, 1984, and 1985, the rate shall be 1.35 percent; and” for “1986, 1987, 1988, 1990, 1991, and 1992, the rate shall be 1.1 percent; and”.
 
-Subsec. (b)(5). Pub. L. 92–603, § 135(b)(2), substituted “December 31, 1985, the rate shall be 1.45 percent” for “December 31, 1992, the rate shall be 1.2 percent”.
+Subsec. (b)(5). Pub. L. 92–603, § 135(b)(2), substituted “December 31, 1985, the rate shall be 1.45 percent” for “December 31, 1992, the rate shall be 1.2 percent”.
 
 1971—Subsec. (a)(4). Pub. L. 92–5 substituted “with respect to wages received during the calendar years 1973, 1974, and 1975, the rate shall be 5.0 percent; and” for “with respect to wages received after December 31, 1972, the rate shall be 5.0 percent”.
 
 Subsec. (a)(5). Pub. L. 92–5 added par. (5).
 
-1968—Subsec. (a)(1) to (4). Pub. L. 90–248, § 109(a)(2), substituted “1968” and “3.8” for “1966” and “3.85” in par. (1) and “1969 and 1970” and “4.2” for “1967 and 1968” and “3.9” in par. (2), struck out reference to calendar years 1969 and 1970 from par. (3) and substituted “4.6” and “4.4”, and substituted “5.0” for “4.85” in par. (4).
+1968—Subsec. (a)(1) to (4). Pub. L. 90–248, § 109(a)(2), substituted “1968” and “3.8” for “1966” and “3.85” in par. (1) and “1969 and 1970” and “4.2” for “1967 and 1968” and “3.9” in par. (2), struck out reference to calendar years 1969 and 1970 from par. (3) and substituted “4.6” and “4.4”, and substituted “5.0” for “4.85” in par. (4).
 
-Subsec. (b)(1) to (5). Pub. L. 90–248, § 109(b)(2), struck out par. (1) provision for employee rate of 0.35 percent of wages received with respect to employment during calendar year 1966, redesignated pars. (2) to (6) as (1) to (5), struck out reference to “1967” in such par. (1) and increased the rate by 0.10 percent to 0.60, 0.65, 0.70, 0.80, and 0.90 in pars. (1) to (5), respectively.
+Subsec. (b)(1) to (5). Pub. L. 90–248, § 109(b)(2), struck out par. (1) provision for employee rate of 0.35 percent of wages received with respect to employment during calendar year 1966, redesignated pars. (2) to (6) as (1) to (5), struck out reference to “1967” in such par. (1) and increased the rate by 0.10 percent to 0.60, 0.65, 0.70, 0.80, and 0.90 in pars. (1) to (5), respectively.
 
-1965—Pub. L. 89–97, § 321(b), divided the total tax imposed under the entire section upon income through a tax equal to percentages of wages into two separate taxes by dividing the section into subsecs. (a) and (b), with subsec. (a) reflecting the tax for old-age, survivors, and disability insurance and subsec. (b) reflecting the tax for hospital insurance, but, in the case of subsec. (b), without regard to the provisions of section 3121(b)(9) insofar as it relates to employees; increased from 4⅛ percent to 4.20 percent the rate of total tax imposed by the entire section upon wages received during calendar year 1966 (resulting from a tax of 3.85 percent under subsec. (a) and 0.35 percent under subsec. (b)), increased from 4⅛ percent to 4.40 percent the rate of total tax imposed by the entire section upon wages received during calendar year 1967 (resulting from a tax of 3.9 percent under subsec. (a) and 0.50 percent under subsec. (b)), reduced from 4⅝ percent to 4.40 percent the rate of total tax imposed by the entire section upon wages received during calendar year 1968, (resulting from a tax of 3.9 percent under subsec. (a) and 0.50 percent under subsec. (b)), increased from 4⅝ percent to 4.90 percent the rate for calendar years 1969, 1970, 1971, and 1972 (resulting from a tax of 4.4 percent under subsec. (a) and 0.50 percent under subsec. (b)), increased from 4⅝ percent to 5.40 percent the rate for calendar years 1973, 1974, and 1975, (resulting from a tax of 4.85 percent under subsec. (a) and 0.55 percent under subsec. (b)), increased from 4⅝ percent to 5.45 percent the rate for calendar years 1976, 1977, 1978, and 1979 (resulting from a tax of 4.85 percent under subsec. (a) and 0.60 percent under subsec. (b)), increased from 4⅝ percent to 5.55 percent the rate for calendar years 1980 through 1986 (resulting from a tax of 4.85 percent under subsec. (a) and 0.70 percent under subsec. (b)), and increased the rate for calendar years after Dec. 31, 1986, to 5.65 percent (resulting from a tax of 4.85 percent under subsec. (a) and 0.80 percent under subsec. (b)).
+1965—Pub. L. 89–97, § 321(b), divided the total tax imposed under the entire section upon income through a tax equal to percentages of wages into two separate taxes by dividing the section into subsecs. (a) and (b), with subsec. (a) reflecting the tax for old-age, survivors, and disability insurance and subsec. (b) reflecting the tax for hospital insurance, but, in the case of subsec. (b), without regard to the provisions of section 3121(b)(9) insofar as it relates to employees; increased from 4⅛ percent to 4.20 percent the rate of total tax imposed by the entire section upon wages received during calendar year 1966 (resulting from a tax of 3.85 percent under subsec. (a) and 0.35 percent under subsec. (b)), increased from 4⅛ percent to 4.40 percent the rate of total tax imposed by the entire section upon wages received during calendar year 1967 (resulting from a tax of 3.9 percent under subsec. (a) and 0.50 percent under subsec. (b)), reduced from 4⅝ percent to 4.40 percent the rate of total tax imposed by the entire section upon wages received during calendar year 1968, (resulting from a tax of 3.9 percent under subsec. (a) and 0.50 percent under subsec. (b)), increased from 4⅝ percent to 4.90 percent the rate for calendar years 1969, 1970, 1971, and 1972 (resulting from a tax of 4.4 percent under subsec. (a) and 0.50 percent under subsec. (b)), increased from 4⅝ percent to 5.40 percent the rate for calendar years 1973, 1974, and 1975, (resulting from a tax of 4.85 percent under subsec. (a) and 0.55 percent under subsec. (b)), increased from 4⅝ percent to 5.45 percent the rate for calendar years 1976, 1977, 1978, and 1979 (resulting from a tax of 4.85 percent under subsec. (a) and 0.60 percent under subsec. (b)), increased from 4⅝ percent to 5.55 percent the rate for calendar years 1980 through 1986 (resulting from a tax of 4.85 percent under subsec. (a) and 0.70 percent under subsec. (b)), and increased the rate for calendar years after Dec. 31, 1986, to 5.65 percent (resulting from a tax of 4.85 percent under subsec. (a) and 0.80 percent under subsec. (b)).
 
-Subsec. (b). Pub. L. 89–97, § 111(c)(5), struck out “, but without regard to the provisions of paragraph (9) thereof insofar as it relates to employees” after “as defined in section 3121(b)”.
+Subsec. (b). Pub. L. 89–97, § 111(c)(5), struck out “, but without regard to the provisions of paragraph (9) thereof insofar as it relates to employees” after “as defined in section 3121(b)”.
 
 1961—Pub. L. 87–64 increased rate of tax for calendar year 1962 from 3 to 3⅛ percent, calendar years 1963 to 1965, inclusive, from 3½ to 3⅝ percent, calendar years 1966 and 1967 from 4 to 4⅛ percent, calendar year 1968 from 4 to 4⅝ percent, and for calendar years after December 31, 1968, from 4½ to 4⅝ percent.
 
@@ -149,7 +149,7 @@ Amendment by section 10906(a) of Pub. L. 111–148 applicable with respect to re
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–21, title I, § 123(a)(3), Apr. 20, 1983, 97 Stat. 88, provided that: “The amendments made by this subsection [amending this section and section 3111 of this title] shall apply to remuneration paid after December 31, 1983.”
+Pub. L. 98–21, title I, § 123(a)(3), Apr. 20, 1983, 97 Stat. 88, provided that: “The amendments made by this subsection [amending this section and section 3111 of this title] shall apply to remuneration paid after December 31, 1983.”
 
 **Effective Date of 1977 Amendment**
 
@@ -157,7 +157,7 @@ Amendment by Pub. L. 95–216 applicable with respect to remuneration paid or re
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–455, title XIX, § 1903(d), Oct. 4, 1976, 90 Stat. 1810, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section [see Tables for classification of section 1903 of Pub. L. 94–455] shall apply with respect to wages paid after December 31, 1976, except that the amendments made to chapter 22 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] [section 3201 et seq. of this title] shall apply with respect to compensation paid for services rendered after December 31, 1976.”
+Pub. L. 94–455, title XIX, § 1903(d), Oct. 4, 1976, 90 Stat. 1810, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section [see Tables for classification of section 1903 of Pub. L. 94–455] shall apply with respect to wages paid after December 31, 1976, except that the amendments made to chapter 22 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] [section 3201 et seq. of this title] shall apply with respect to compensation paid for services rendered after December 31, 1976.”
 
 **Effective Date of 1973 Amendment**
 
@@ -171,7 +171,7 @@ Amendment by Pub. L. 92–336 applicable only with respect to remuneration paid 
 
 **Effective Date of 1971 Amendment**
 
-Pub. L. 92–5, title II, § 204(b), Mar. 17, 1971, 85 Stat. 12, provided that: “The amendments made by subsection (a)(1) [amending this section] shall apply only with respect to taxable years beginning after December 31, 1971. The remaining amendments made by this section [amending section 3111 of this title] shall apply only with respect to remuneration paid after December 31, 1971.”
+Pub. L. 92–5, title II, § 204(b), Mar. 17, 1971, 85 Stat. 12, provided that: “The amendments made by subsection (a)(1) [amending this section] shall apply only with respect to taxable years beginning after December 31, 1971. The remaining amendments made by this section [amending section 3111 of this title] shall apply only with respect to remuneration paid after December 31, 1971.”
 
 **Effective Date of 1968 Amendment**
 
@@ -201,13 +201,13 @@ Notwithstanding any other provision of law, with respect to remuneration receive
 
 **Penalties and Interest Not Assessed for Failure To Make Timely Payment During Period January 1, 1982, to June 30, 1982, of Taxes Attributable to Amendments by Pub. L. 97–123**
 
-Pub. L. 97–123, § 3(f), Dec. 29, 1981, 95 Stat. 1663; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Notwithstanding any other provision of law, no penalties or interest shall be assessed on account of any failure to make timely payment of taxes, imposed by sections 3101, 3111, 3201(b), 3211, or 3221(b) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] with respect to payments made for the period beginning January 1, 1982, and ending June 30, 1982, to the extent that such taxes are attributable to this section (or the amendments made by this section) [amending sections 3121 and 3231 of this title and section 409 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under section 3121 of this title] and that such failure is due to reasonable cause and not to willful neglect.”
+Pub. L. 97–123, § 3(f), Dec. 29, 1981, 95 Stat. 1663; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Notwithstanding any other provision of law, no penalties or interest shall be assessed on account of any failure to make timely payment of taxes, imposed by sections 3101, 3111, 3201(b), 3211, or 3221(b) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] with respect to payments made for the period beginning January 1, 1982, and ending June 30, 1982, to the extent that such taxes are attributable to this section (or the amendments made by this section) [amending sections 3121 and 3231 of this title and section 409 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under section 3121 of this title] and that such failure is due to reasonable cause and not to willful neglect.”
 
 **References to Social Security Act**
 
-Act Sept. 1, 1954, ch. 1206, title IV, § 402, 68 Stat. 1098, as amended by act Oct. 22, 1986, Pub. L. 99–514, § 2, 100 Stat. 2095, provided that: “References in the Internal Revenue Code of 1939 [former Title 26, Internal Revenue Code], the Internal Revenue Code of 1986 [formerly I.R.C. 1954], the Railroad Retirement Act of 1937, as amended [section 231 et seq. of Title 45, Railroads], or any other law of the United States to any section or subdivision of a section of the Social Security Act [section 301 et seq. of Title 42, The Public Health and Welfare] redesignated by this Act shall be deemed to refer to such section or subdivision of a section as so redesignated.”
+Act Sept. 1, 1954, ch. 1206, title IV, § 402, 68 Stat. 1098, as amended by act Oct. 22, 1986, Pub. L. 99–514, § 2, 100 Stat. 2095, provided that: “References in the Internal Revenue Code of 1939 [former Title 26, Internal Revenue Code], the Internal Revenue Code of 1986 [formerly I.R.C. 1954], the Railroad Retirement Act of 1937, as amended [section 231 et seq. of Title 45, Railroads], or any other law of the United States to any section or subdivision of a section of the Social Security Act [section 301 et seq. of Title 42, The Public Health and Welfare] redesignated by this Act shall be deemed to refer to such section or subdivision of a section as so redesignated.”
 
-### § 3102. Deduction of tax from wages
+### § 3102. Deduction of tax from wages
 
 **(a) Requirement**
 
@@ -279,7 +279,7 @@ To the extent that the amount of any tax imposed by section 3101(b)(2) is not co
 
 If an employer, in violation of this chapter, fails to deduct and withhold the tax imposed by section 3101(b)(2) and thereafter the tax is paid by the employee, the tax so required to be deducted and withheld shall not be collected from the employer, but this paragraph shall in no case relieve the employer from liability for any penalties or additions to tax otherwise applicable in respect of such failure to deduct and withhold.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 415; Sept. 1, 1954, ch. 1206, title II, § 205A, 68 Stat. 1093; Aug. 1, 1956, ch. 836, title II, § 201(h)(3), 70 Stat. 841; Pub. L. 89–97, title III, § 313(c)(1), (2), July 30, 1965, 79 Stat. 382, 383; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–216, title III, § 355(a), (b), Dec. 20, 1977, 91 Stat. 1555; Pub. L. 101–508, title V, § 5124(a), Nov. 5, 1990, 104 Stat. 1388–284; Pub. L. 103–296, title III, § 319(a)(3), Aug. 15, 1994, 108 Stat. 1534; Pub. L. 103–387, § 2(a)(1)(D), Oct. 22, 1994, 108 Stat. 4072; Pub. L. 108–203, title IV, § 424(b), Mar. 2, 2004, 118 Stat. 536; Pub. L. 111–148, title IX, § 9015(a)(2), Mar. 23, 2010, 124 Stat. 871.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 415; Sept. 1, 1954, ch. 1206, title II, § 205A, 68 Stat. 1093; Aug. 1, 1956, ch. 836, title II, § 201(h)(3), 70 Stat. 841; Pub. L. 89–97, title III, § 313(c)(1), (2), July 30, 1965, 79 Stat. 382, 383; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–216, title III, § 355(a), (b), Dec. 20, 1977, 91 Stat. 1555; Pub. L. 101–508, title V, § 5124(a), Nov. 5, 1990, 104 Stat. 1388–284; Pub. L. 103–296, title III, § 319(a)(3), Aug. 15, 1994, 108 Stat. 1534; Pub. L. 103–387, § 2(a)(1)(D), Oct. 22, 1994, 108 Stat. 4072; Pub. L. 108–203, title IV, § 424(b), Mar. 2, 2004, 118 Stat. 536; Pub. L. 111–148, title IX, § 9015(a)(2), Mar. 23, 2010, 124 Stat. 871.)
 
 **Editorial Notes**
 
@@ -295,19 +295,19 @@ Subsec. (e). Pub. L. 103–296 added subsec. (e).
 
 1990—Subsec. (d). Pub. L. 101–508 added subsec. (d).
 
-1977—Subsec. (a). Pub. L. 95–216, § 355(a), substituted “cash remuneration to which paragraph (7)(B) of section 3121(a) is applicable” for “cash remuneration to which paragraph (7)(B) or (C) or (10) of section 3121(a) is applicable” and inserted “and an employer who in any calendar year pays to an employee cash remuneration to which paragraph (7)(C) or (10) of section 3121(a) is applicable may deduct an amount equivalent to such tax from any such payment of remuneration, even though at the time of payment the total amount of such remuneration paid to the employee by the employer in the calendar year is less than $100;”.
+1977—Subsec. (a). Pub. L. 95–216, § 355(a), substituted “cash remuneration to which paragraph (7)(B) of section 3121(a) is applicable” for “cash remuneration to which paragraph (7)(B) or (C) or (10) of section 3121(a) is applicable” and inserted “and an employer who in any calendar year pays to an employee cash remuneration to which paragraph (7)(C) or (10) of section 3121(a) is applicable may deduct an amount equivalent to such tax from any such payment of remuneration, even though at the time of payment the total amount of such remuneration paid to the employee by the employer in the calendar year is less than $100;”.
 
-Subsec. (c)(1), (2). Pub. L. 95–216, § 355(b)(1), substituted “year” for “quarter” wherever appearing.
+Subsec. (c)(1), (2). Pub. L. 95–216, § 355(b)(1), substituted “year” for “quarter” wherever appearing.
 
-Subsec. (c)(3)(A). Pub. L. 95–216, § 355(b)(2)(A), substituted “in any calendar year” for “in any quarter of the calendar year”.
+Subsec. (c)(3)(A). Pub. L. 95–216, § 355(b)(2)(A), substituted “in any calendar year” for “in any quarter of the calendar year”.
 
-Subsec. (c)(3)(B), (C). Pub. L. 95–216, § 355(b)(2)(B), substituted “year” for “quarter” wherever appearing.
+Subsec. (c)(3)(B), (C). Pub. L. 95–216, § 355(b)(2)(B), substituted “year” for “quarter” wherever appearing.
 
 1976—Subsec. (c)(3). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1965—Subsec. (a). Pub. L. 89–97, § 313(c)(2), inserted provisions at end of second sentence allowing a deduction from any wages of an employee of an amount equivalent to the tax on tips when an employer is furnished with a written statement of tips received by an employee.
+1965—Subsec. (a). Pub. L. 89–97, § 313(c)(2), inserted provisions at end of second sentence allowing a deduction from any wages of an employee of an amount equivalent to the tax on tips when an employer is furnished with a written statement of tips received by an employee.
 
-Subsec. (c). Pub. L. 89–97, § 313(c)(1), added subsec. (c).
+Subsec. (c). Pub. L. 89–97, § 313(c)(1), added subsec. (c).
 
 1956—Subsec. (a). Act Aug. 1, 1956, substituted “$150 and the employee has not performed agricultural labor for the employer on 20 days or more in the calendar year for cash remuneration computed on a time basis” for “$100”.
 
@@ -321,7 +321,7 @@ Amendment by Pub. L. 111–148 applicable with respect to remuneration received,
 
 **Effective Date of 1994 Amendments**
 
-Pub. L. 103–387, § 2(a)(3), Oct. 22, 1994, 108 Stat. 4072, provided that:
+Pub. L. 103–387, § 2(a)(3), Oct. 22, 1994, 108 Stat. 4072, provided that:
 
 > **“(A) In general.—** Except as provided in subparagraph (B), the amendments made by this subsection [amending this section, section 3121 of this title, and sections 409 and 410 of Title 42, The Public Health and Welfare] shall apply to remuneration paid after December 31, 1993.
 
@@ -331,11 +331,11 @@ Amendment by Pub. L. 103–296 applicable with respect to service performed afte
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title V, § 5124(c), Nov. 5, 1990, 104 Stat. 1388–285, provided that: “The amendments made by this section [amending this section and section 3202 of this title] shall apply to coverage provided after December 31, 1990.”
+Pub. L. 101–508, title V, § 5124(c), Nov. 5, 1990, 104 Stat. 1388–285, provided that: “The amendments made by this section [amending this section and section 3202 of this title] shall apply to coverage provided after December 31, 1990.”
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–216, title III, § 355(c), Dec. 20, 1977, 91 Stat. 1555, provided that: “The amendments made by this section [amending this section] shall apply with respect to remuneration paid and to tips received after December 31, 1977.”
+Pub. L. 95–216, title III, § 355(c), Dec. 20, 1977, 91 Stat. 1555, provided that: “The amendments made by this section [amending this section] shall apply with respect to remuneration paid and to tips received after December 31, 1977.”
 
 **Effective Date of 1965 Amendment**
 
@@ -343,7 +343,7 @@ Amendment by Pub. L. 89–97 applicable only with respect to tips received by em
 
 **No Loss of Social Security Coverage for 1994; Continuation of W–2 Filing Requirement**
 
-Pub. L. 103–387, § 2(a)(4), Oct. 22, 1994, 108 Stat. 4072, provided that:
+Pub. L. 103–387, § 2(a)(4), Oct. 22, 1994, 108 Stat. 4072, provided that:
 
 > “Notwithstanding the amendments made by this subsection [amending this section, section 3121 of this title, and sections 409 and 410 of Title 42, The Public Health and Welfare], if the wages (as defined in section 3121(a) of the Internal Revenue Code of 1986) paid during 1994 to an employee for domestic service in a private home of the employer are less than $1,000—
 
@@ -357,11 +357,11 @@ Pub. L. 103–387, § 2(a)(4), Oct. 22, 1994, 108 Stat. 4072, provided that:
 
 **Amendments**
 
-1976—Pub. L. 94–455, title XIX, § 1903(b), Oct. 4, 1976, 90 Stat. 1810, struck out item 3113 “District of Columbia credit unions”.
+1976—Pub. L. 94–455, title XIX, § 1903(b), Oct. 4, 1976, 90 Stat. 1810, struck out item 3113 “District of Columbia credit unions”.
 
-1956—Act Aug. 1, 1956, ch. 836, title II, § 201(a)(2), 70 Stat. 839, added item 3113.
+1956—Act Aug. 1, 1956, ch. 836, title II, § 201(a)(2), 70 Stat. 839, added item 3113.
 
-### § 3111. Rate of tax
+### § 3111. Rate of tax
 
 **(a) Old-age, survivors, and disability insurance**
 
@@ -375,7 +375,7 @@ In addition to the tax imposed by the preceding subsection, there is hereby impo
 
 During any period in which there is in effect an agreement entered into pursuant to section 233 of the Social Security Act with any foreign country, wages received by or paid to an individual shall be exempt from the taxes imposed by this section to the extent that such wages are subject under such agreement exclusively to the laws applicable to the social security system of such foreign country.
 
-**[(d) Repealed. Pub. L. 115–141, div. U, title IV, § 401(b)(34), Mar. 23, 2018, 132 Stat. 1204]**
+**[(d) Repealed. Pub. L. 115–141, div. U, title IV, § 401(b)(34), Mar. 23, 2018, 132 Stat. 1204]**
 
 **(e) Credit for employment of qualified veterans**
 
@@ -425,7 +425,7 @@ If the amount of any credit under paragraph (1) exceeds the limitation of paragr
 
 The credits allowed under paragraph (1) shall not be taken into account for purposes of determining the amount of any deduction allowed under chapter 1 for taxes imposed under subsection (a) or (b).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 416; Sept. 1, 1954, ch. 1206, title II, § 208(c), 68 Stat. 1094; Aug. 1, 1956. ch. 836, title II, § 202(c), 70 Stat. 845; Pub. L. 85–840, title IV, § 401(c), Aug. 28, 1958, 72 Stat. 1042; Pub. L. 87–64, title II, § 201(c), June 30, 1961, 75 Stat. 141; Pub. L. 89–97, title I, § 111(c)(6), title III, § 321(c), July 30, 1965, 79 Stat. 343, 396; Pub. L. 90–248, title I, § 109(a)(3), (b)(3), Jan. 2, 1968, 81 Stat. 836, 837; Pub. L. 92–5, title II, § 204(a)(2), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, § 204(a)(3), (b)(3), July 1, 1972, 86 Stat. 421, 422; Pub. L. 92–603, title I, § 135(a)(3), (b)(3), Oct. 30, 1972, 86 Stat. 1363, 1364; Pub. L. 93–233, § 6(a)(2), (b)(3), Dec. 31, 1973, 87 Stat. 954, 955; Pub. L. 94–455, title XIX, § 1903(a)(1), Oct. 4, 1976, 90 Stat. 1806; Pub. L. 95–216, title I, § 101(a)(2), (b)(2), title III, §§ 315(b), 317(b)(2), Dec. 20, 1977, 91 Stat. 1511, 1512, 1537, 1540; Pub. L. 98–21, title I, § 123(a)(2), Apr. 20, 1983, 97 Stat. 88; Pub. L. 100–203, title IX, § 9006(b)(1), Dec. 22, 1987, 101 Stat. 1330–289; Pub. L. 100–647, title VIII, § 8016(a)(5), Nov. 10, 1988, 102 Stat. 3793; Pub. L. 108–203, title IV, § 415, Mar. 2, 2004, 118 Stat. 530; Pub. L. 111–147, title I, § 101(a), Mar. 18, 2010, 124 Stat. 72; Pub. L. 112–56, title II, § 261(e)(2), Nov. 21, 2011, 125 Stat. 730; Pub. L. 113–295, div. A, title II, § 221(a)(99)(B), Dec. 19, 2014, 128 Stat. 4051; Pub. L. 114–113, div. Q, title I, § 121(c)(2), Dec. 18, 2015, 129 Stat. 3051; Pub. L. 115–141, div. U, title IV, § 401(a)(208), (b)(34), Mar. 23, 2018, 132 Stat. 1194, 1204; Pub. L. 117–169, title I, § 13902(b), Aug. 16, 2022, 136 Stat. 2013.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 416; Sept. 1, 1954, ch. 1206, title II, § 208(c), 68 Stat. 1094; Aug. 1, 1956. ch. 836, title II, § 202(c), 70 Stat. 845; Pub. L. 85–840, title IV, § 401(c), Aug. 28, 1958, 72 Stat. 1042; Pub. L. 87–64, title II, § 201(c), June 30, 1961, 75 Stat. 141; Pub. L. 89–97, title I, § 111(c)(6), title III, § 321(c), July 30, 1965, 79 Stat. 343, 396; Pub. L. 90–248, title I, § 109(a)(3), (b)(3), Jan. 2, 1968, 81 Stat. 836, 837; Pub. L. 92–5, title II, § 204(a)(2), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, § 204(a)(3), (b)(3), July 1, 1972, 86 Stat. 421, 422; Pub. L. 92–603, title I, § 135(a)(3), (b)(3), Oct. 30, 1972, 86 Stat. 1363, 1364; Pub. L. 93–233, § 6(a)(2), (b)(3), Dec. 31, 1973, 87 Stat. 954, 955; Pub. L. 94–455, title XIX, § 1903(a)(1), Oct. 4, 1976, 90 Stat. 1806; Pub. L. 95–216, title I, § 101(a)(2), (b)(2), title III, §§ 315(b), 317(b)(2), Dec. 20, 1977, 91 Stat. 1511, 1512, 1537, 1540; Pub. L. 98–21, title I, § 123(a)(2), Apr. 20, 1983, 97 Stat. 88; Pub. L. 100–203, title IX, § 9006(b)(1), Dec. 22, 1987, 101 Stat. 1330–289; Pub. L. 100–647, title VIII, § 8016(a)(5), Nov. 10, 1988, 102 Stat. 3793; Pub. L. 108–203, title IV, § 415, Mar. 2, 2004, 118 Stat. 530; Pub. L. 111–147, title I, § 101(a), Mar. 18, 2010, 124 Stat. 72; Pub. L. 112–56, title II, § 261(e)(2), Nov. 21, 2011, 125 Stat. 730; Pub. L. 113–295, div. A, title II, § 221(a)(99)(B), Dec. 19, 2014, 128 Stat. 4051; Pub. L. 114–113, div. Q, title I, § 121(c)(2), Dec. 18, 2015, 129 Stat. 3051; Pub. L. 115–141, div. U, title IV, § 401(a)(208), (b)(34), Mar. 23, 2018, 132 Stat. 1194, 1204; Pub. L. 117–169, title I, § 13902(b), Aug. 16, 2022, 136 Stat. 2013.)
 
 **Editorial Notes**
 
@@ -435,23 +435,23 @@ Section 233 of the Social Security Act, referred to in subsec. (c), is classifie
 
 **Amendments**
 
-2022—Subsec. (f)(1). Pub. L. 117–169, § 13902(b)(1), substituted “for a taxable year—” for “for a taxable year,” and designated remainder of existing provisions as subpar. (A), substituted “equal to so much of the” for “equal to the” and “as does not exceed the limitation of subclause (I) of section 41(h)(4)(B)(i) (applied without regard to subclause (II) thereof), and” for period at end, and added subpar. (B).
+2022—Subsec. (f)(1). Pub. L. 117–169, § 13902(b)(1), substituted “for a taxable year—” for “for a taxable year,” and designated remainder of existing provisions as subpar. (A), substituted “equal to so much of the” for “equal to the” and “as does not exceed the limitation of subclause (I) of section 41(h)(4)(B)(i) (applied without regard to subclause (II) thereof), and” for period at end, and added subpar. (B).
 
-Subsec. (f)(2). Pub. L. 117–169, § 13902(b)(2), substituted “paragraph (1)(A)” for “paragraph (1)” and inserted “, and the credit allowed by paragraph (1)(B) shall not exceed the tax imposed by subsection (b) for any calendar quarter,” after “calendar quarter”.
+Subsec. (f)(2). Pub. L. 117–169, § 13902(b)(2), substituted “paragraph (1)(A)” for “paragraph (1)” and inserted “, and the credit allowed by paragraph (1)(B) shall not exceed the tax imposed by subsection (b) for any calendar quarter,” after “calendar quarter”.
 
-Subsec. (f)(3). Pub. L. 117–169, § 13902(b)(3), substituted “any credit” for “the credit”.
+Subsec. (f)(3). Pub. L. 117–169, § 13902(b)(3), substituted “any credit” for “the credit”.
 
-Subsec. (f)(4). Pub. L. 117–169, § 13902(b)(4), substituted “credits” for “credit” and “subsection (a) or (b)” for “subsection (a)”.
+Subsec. (f)(4). Pub. L. 117–169, § 13902(b)(4), substituted “credits” for “credit” and “subsection (a) or (b)” for “subsection (a)”.
 
-2018—Subsec. (d). Pub. L. 115–141, § 401(b)(34), struck out subsec. (d) which provided for a special exemption for certain individuals hired in 2010.
+2018—Subsec. (d). Pub. L. 115–141, § 401(b)(34), struck out subsec. (d) which provided for a special exemption for certain individuals hired in 2010.
 
-Subsec. (e)(5)(B). Pub. L. 115–141, § 401(a)(208), substituted “has the meaning” for “has meaning”.
+Subsec. (e)(5)(B). Pub. L. 115–141, § 401(a)(208), substituted “has the meaning” for “has meaning”.
 
 2015—Subsec. (f). Pub. L. 114–113 added subsec. (f).
 
-2014—Subsec. (a). Pub. L. 113–295, § 221(a)(99)(B)(i), substituted “6.2 percent of the wages (as defined in section 3121(a)) paid by the employer with respect to employment (as defined in section 3121(b)).” for “the following percentages of the wages (as defined in section 3121(a)) paid by him with respect to employment (as defined in section 3121(b))—” and table of rates.
+2014—Subsec. (a). Pub. L. 113–295, § 221(a)(99)(B)(i), substituted “6.2 percent of the wages (as defined in section 3121(a)) paid by the employer with respect to employment (as defined in section 3121(b)).” for “the following percentages of the wages (as defined in section 3121(a)) paid by him with respect to employment (as defined in section 3121(b))—” and table of rates.
 
-Subsec. (b). Pub. L. 113–295, § 221(a)(99)(B)(ii), substituted “1.45 percent of the wages (as defined in section 3121(a)) paid by the employer with respect to employment (as defined in section 3121(b)).” for “the following percentages of the wages (as defined in section 3121(a)) paid by him with respect to employment (as defined in section 3121(b))—
+Subsec. (b). Pub. L. 113–295, § 221(a)(99)(B)(ii), substituted “1.45 percent of the wages (as defined in section 3121(a)) paid by the employer with respect to employment (as defined in section 3121(b)).” for “the following percentages of the wages (as defined in section 3121(a)) paid by him with respect to employment (as defined in section 3121(b))—
 
 “(1) with respect to wages paid during the calendar years 1974 through 1977, the rate shall be 0.90 percent;
 
@@ -471,69 +471,69 @@ Subsec. (b). Pub. L. 113–295, § 221(a)(99)(B)(ii), substituted “1.45 perc
 
 2004—Subsec. (c). Pub. L. 108–203 substituted “exclusively to the laws applicable to” for “to taxes or contributions for similar purposes under”.
 
-1988—Subsecs. (a), (b). Pub. L. 100–647 made technical correction to directory language of Pub. L. 100–203, § 9006(b)(1), see 1987 Amendment note below.
+1988—Subsecs. (a), (b). Pub. L. 100–647 made technical correction to directory language of Pub. L. 100–203, § 9006(b)(1), see 1987 Amendment note below.
 
 1987—Subsecs. (a), (b). Pub. L. 100–203, as amended by Pub. L. 100–647, struck out “and (t)” after “3121(a)” in introductory provisions.
 
 1983—Subsec. (a). Pub. L. 98–21 substituted table of rates for pars. (1) to (7) which had imposed a tax on every employer (1) with respect to wages paid during the calendar years 1974 through 1977 at the rate of 4.95 percent, (2) with respect to wages paid during the calendar year 1978 at the rate of 5.05 percent, (3) with respect to wages paid during the calendar years 1979 and 1980 at the rate of 5.08 percent, (4) with respect to wages paid during the calendar year 1981 at the rate of 5.35 percent, (5) with respect to wages paid during the calendar years 1982 through 1984 at the rate of 5.40 percent, (6) with respect to wages paid during the calendar years 1985 through 1989 at the rate of 5.70 percent, and (7) with respect to wages paid after Dec. 31, 1989, at the rate of 6.20 percent.
 
-1977—Subsec. (a). Pub. L. 95–216, §§ 101(a)(2), 315(b), substituted “(as defined in section 3121(a) and (t))” for “(as defined in section 3121(a))” in provisions preceding par. (1), substituted “1974 through 1977” for “1974 through 2010” in par. (1), substituted “wages paid during the calendar year 1978, the rate shall be 5.05 percent” for “wages paid after December 31, 2010, the rate shall be 5.95 percent” in par. (2), and added pars. (3) to (7).
+1977—Subsec. (a). Pub. L. 95–216, §§ 101(a)(2), 315(b), substituted “(as defined in section 3121(a) and (t))” for “(as defined in section 3121(a))” in provisions preceding par. (1), substituted “1974 through 1977” for “1974 through 2010” in par. (1), substituted “wages paid during the calendar year 1978, the rate shall be 5.05 percent” for “wages paid after December 31, 2010, the rate shall be 5.95 percent” in par. (2), and added pars. (3) to (7).
 
-Subsec. (b). Pub. L. 95–216, §§ 101(b)(2), 315(b), substituted “(as defined in section 3121(a) and (t))” for “(as defined in section 3121(a))” in provisions preceding par. (1), substituted “wages paid during the calendar year 1978, the rate shall be 1.00 percent” for “wages paid during the calendar years 1978 through 1980, the rate shall be 1.10 percent”, in par. (2), substituted “wages paid during the calendar years 1979 and 1980, the rate shall be 1.05 percent” for wages paid during the calendar years 1981 through 1985, the rate shall be 1.35 percent” in par. (3), substituted “wages paid during the calendar years 1981 through 1984, the rate shall be 1.30 percent” for “wages paid after December 31, 1985, the rate shall be 1.50 percent” in par. (4), and added pars. (5) and (6).
+Subsec. (b). Pub. L. 95–216, §§ 101(b)(2), 315(b), substituted “(as defined in section 3121(a) and (t))” for “(as defined in section 3121(a))” in provisions preceding par. (1), substituted “wages paid during the calendar year 1978, the rate shall be 1.00 percent” for “wages paid during the calendar years 1978 through 1980, the rate shall be 1.10 percent”, in par. (2), substituted “wages paid during the calendar years 1979 and 1980, the rate shall be 1.05 percent” for wages paid during the calendar years 1981 through 1985, the rate shall be 1.35 percent” in par. (3), substituted “wages paid during the calendar years 1981 through 1984, the rate shall be 1.30 percent” for “wages paid after December 31, 1985, the rate shall be 1.50 percent” in par. (4), and added pars. (5) and (6).
 
-Subsec. (c). Pub. L. 95–216, § 317(b)(2), added subsec. (c).
+Subsec. (c). Pub. L. 95–216, § 317(b)(2), added subsec. (c).
 
-1976—Subsec. (a). Pub. L. 94–455, § 1903(a)(1)(A), redesignated pars. (5) and (6) as (1) and (2). Former pars. (1) to (4), which related to a tax rate of 3.8 percent with respect to wages received during the taxable year 1968, a tax rate of 4.2 percent with respect to wages received during the calendar year 1969 and 1970, a tax rate of 4.6 percent with respect to wages received during the calendar years 1971 and 1972, and a tax rate of 4.85 percent with respect to wages received during the calendar year 1973, respectively, were struck out.
+1976—Subsec. (a). Pub. L. 94–455, § 1903(a)(1)(A), redesignated pars. (5) and (6) as (1) and (2). Former pars. (1) to (4), which related to a tax rate of 3.8 percent with respect to wages received during the taxable year 1968, a tax rate of 4.2 percent with respect to wages received during the calendar year 1969 and 1970, a tax rate of 4.6 percent with respect to wages received during the calendar years 1971 and 1972, and a tax rate of 4.85 percent with respect to wages received during the calendar year 1973, respectively, were struck out.
 
-Subsec. (b). Pub. L. 94–455, § 1903(a)(1)(B), redesignated pars. (3) to (6) as (1) to (4), respectively. Former pars. (1) and (2), which related to a tax rate of .60 percent with respect to wages received during the calendar years 1968, 1969, 1970, 1971, and 1972 and a tax rate of 1.0 percent with respect to wages received during the calendar year 1973, respectively, were struck out.
+Subsec. (b). Pub. L. 94–455, § 1903(a)(1)(B), redesignated pars. (3) to (6) as (1) to (4), respectively. Former pars. (1) and (2), which related to a tax rate of .60 percent with respect to wages received during the calendar years 1968, 1969, 1970, 1971, and 1972 and a tax rate of 1.0 percent with respect to wages received during the calendar year 1973, respectively, were struck out.
 
-1973—Subsec. (a)(4). Pub. L. 93–233, § 6(a)(2), struck out provision for application of 4.85 percent rate of tax during calendar years 1974, 1975, 1976, and 1977.
+1973—Subsec. (a)(4). Pub. L. 93–233, § 6(a)(2), struck out provision for application of 4.85 percent rate of tax during calendar years 1974, 1975, 1976, and 1977.
 
-Subsec. (a)(5). Pub. L. 93–233, § 6(a)(2), increased rate of tax from 4.80 percent to 4.95 percent and substituted calendar year “1974” to “1978” as initial year for application of such rate.
+Subsec. (a)(5). Pub. L. 93–233, § 6(a)(2), increased rate of tax from 4.80 percent to 4.95 percent and substituted calendar year “1974” to “1978” as initial year for application of such rate.
 
-Subsec. (a)(6). Pub. L. 93–233, § 6(a)(2), increased rate of tax from 5.85 percent to 5.95 percent.
+Subsec. (a)(6). Pub. L. 93–233, § 6(a)(2), increased rate of tax from 5.85 percent to 5.95 percent.
 
-Subsec. (b)(2). Pub. L. 93–233, § 6(b)(3), struck out provision for application of 1.0 percent rate of tax during calendar years 1974, 1975, 1976, and 1977.
+Subsec. (b)(2). Pub. L. 93–233, § 6(b)(3), struck out provision for application of 1.0 percent rate of tax during calendar years 1974, 1975, 1976, and 1977.
 
-Subsec. (b)(3). Pub. L. 93–233, § 6(b)(3), incorporated former provision of par. (2) for taxation of wages received during calendar years 1974, 1975, 1976, and 1977, decreased the applicable rate of tax from 1.0 percent to 0.90 percent, and struck out provision for 1.25 percent rate of tax for calendar years 1978, 1979, and 1980.
+Subsec. (b)(3). Pub. L. 93–233, § 6(b)(3), incorporated former provision of par. (2) for taxation of wages received during calendar years 1974, 1975, 1976, and 1977, decreased the applicable rate of tax from 1.0 percent to 0.90 percent, and struck out provision for 1.25 percent rate of tax for calendar years 1978, 1979, and 1980.
 
-Subsec. (b)(4). Pub. L. 93–233, § 6(b)(3), incorporated former provision of par. (3) for taxation of wages received during calendar years 1978, 1979, and 1980, decreased the applicable rate of tax from 1.25 percent to 1.10 percent, and struck out provision for 1.35 percent rate of tax for calendar years 1981, 1982, 1983, 1984, and 1985.
+Subsec. (b)(4). Pub. L. 93–233, § 6(b)(3), incorporated former provision of par. (3) for taxation of wages received during calendar years 1978, 1979, and 1980, decreased the applicable rate of tax from 1.25 percent to 1.10 percent, and struck out provision for 1.35 percent rate of tax for calendar years 1981, 1982, 1983, 1984, and 1985.
 
-Subsec. (b)(5). Pub. L. 93–233, § 6(b)(3), incorporated former provision of par. (4) for taxation of wages received during calendar years 1981 through 1985 at applicable 1.35 percent rate of tax and struck out provision for 1.45 percent rate of tax for wages received after Dec. 31, 1985.
+Subsec. (b)(5). Pub. L. 93–233, § 6(b)(3), incorporated former provision of par. (4) for taxation of wages received during calendar years 1981 through 1985 at applicable 1.35 percent rate of tax and struck out provision for 1.45 percent rate of tax for wages received after Dec. 31, 1985.
 
-Subsec. (b)(6). Pub. L. 93–233, § 6(b)(3), incorporated former provision of par. (5) for taxation of wages received after Dec. 31, 1985 and increased the applicable rate of tax from 1.45 percent to 1.50 percent.
+Subsec. (b)(6). Pub. L. 93–233, § 6(b)(3), incorporated former provision of par. (5) for taxation of wages received after Dec. 31, 1985 and increased the applicable rate of tax from 1.45 percent to 1.50 percent.
 
-1972—Subsec. (a)(3). Pub. L. 92–603, § 135(a)(3)(A), substituted “the calendar years 1971 and 1972” for “any of the calendar years 1971 through 1977”.
+1972—Subsec. (a)(3). Pub. L. 92–603, § 135(a)(3)(A), substituted “the calendar years 1971 and 1972” for “any of the calendar years 1971 through 1977”.
 
-Subsec. (a)(3) to (5). Pub. L. 92–336, § 204(a)(3), substituted “any of the calendar years 1971 through 1977” for “the calendar years 1971 and 1972” in par. (3), “any of the calendar years 1978 through 2010” for “the calendar years 1973, 1974, and 1975” and “4.5” for “5.0” in par. (4), and “December 31, 2010” for “December 31, 1975” and “5.35” for “5.15” in par. (5).
+Subsec. (a)(3) to (5). Pub. L. 92–336, § 204(a)(3), substituted “any of the calendar years 1971 through 1977” for “the calendar years 1971 and 1972” in par. (3), “any of the calendar years 1978 through 2010” for “the calendar years 1973, 1974, and 1975” and “4.5” for “5.0” in par. (4), and “December 31, 2010” for “December 31, 1975” and “5.35” for “5.15” in par. (5).
 
-Subsec. (a)(4). Pub. L. 92–603, § 135(a)(3)(B), substituted “received during the calendar years 1973, 1974, 1975, 1976, and 1977, the rate shall be 4.85 percent;” for “received during any of the calendar years 1978 through 2010, the rate shall be 4.5 percent; and”.
+Subsec. (a)(4). Pub. L. 92–603, § 135(a)(3)(B), substituted “received during the calendar years 1973, 1974, 1975, 1976, and 1977, the rate shall be 4.85 percent;” for “received during any of the calendar years 1978 through 2010, the rate shall be 4.5 percent; and”.
 
-Subsec. (a)(5). Pub. L. 92–603, § 135(a)(3)(B), substituted “received during the calendar years 1978 through 2010, the rate shall be 4.80 percent; and” for “received after December 31, 2010, the rate shall be 5.35 percent”.
+Subsec. (a)(5). Pub. L. 92–603, § 135(a)(3)(B), substituted “received during the calendar years 1978 through 2010, the rate shall be 4.80 percent; and” for “received after December 31, 2010, the rate shall be 5.35 percent”.
 
-Subsec. (a)(6). Pub. L. 92–603, § 135(a)(3)(B), added par. (6).
+Subsec. (a)(6). Pub. L. 92–603, § 135(a)(3)(B), added par. (6).
 
-Subsec. (b)(2). Pub. L. 92–603, § 135(b)(3), increased rate to 1.0 percent from 0.9 percent.
+Subsec. (b)(2). Pub. L. 92–603, § 135(b)(3), increased rate to 1.0 percent from 0.9 percent.
 
-Subsec. (b)(2) to (5). Pub. L. 92–336, § 204(b)(3), inserted references to 1976 and 1977 and substituted “0.9” for “0.65” in par. (2), substituted references for the calendar years 1978 through 1985 for references to the calendar years 1976 through 1979 and substituted “1.0” for “0.70” in par. (3), substituted references for the calendar years 1986 through 1992 for references to the calendars 1980 through 1986 and substituted “1.1” for “0.80” in par. (4), and substituted “1992” and “1986” and “1.2” for “0.9” in par. (5).
+Subsec. (b)(2) to (5). Pub. L. 92–336, § 204(b)(3), inserted references to 1976 and 1977 and substituted “0.9” for “0.65” in par. (2), substituted references for the calendar years 1978 through 1985 for references to the calendar years 1976 through 1979 and substituted “1.0” for “0.70” in par. (3), substituted references for the calendar years 1986 through 1992 for references to the calendars 1980 through 1986 and substituted “1.1” for “0.80” in par. (4), and substituted “1992” and “1986” and “1.2” for “0.9” in par. (5).
 
-Subsec. (b)(3). Pub. L. 92–603, § 135(b)(3), substituted “and 1980, the rate shall be 1.25 percent” for “1980, 1981, 1982, 1983, 1984, and 1985, the rate shall be 1.0 percent”.
+Subsec. (b)(3). Pub. L. 92–603, § 135(b)(3), substituted “and 1980, the rate shall be 1.25 percent” for “1980, 1981, 1982, 1983, 1984, and 1985, the rate shall be 1.0 percent”.
 
-Subsec. (b)(4). Pub. L. 92–603, § 135(b)(3), substituted “1981, 1982, 1983, 1984, and 1985, the rate shall be 1.35 percent” for “1986, 1987, 1988, 1989, 1990, 1991, and 1992, the rate shall be 1.1 percent”.
+Subsec. (b)(4). Pub. L. 92–603, § 135(b)(3), substituted “1981, 1982, 1983, 1984, and 1985, the rate shall be 1.35 percent” for “1986, 1987, 1988, 1989, 1990, 1991, and 1992, the rate shall be 1.1 percent”.
 
-Subsec. (b)(5). Pub. L. 92–603, § 135(b)(3), substituted “1985, the rate shall be 1.45 percent” for “1992, the rate shall be 1.2 percent”.
+Subsec. (b)(5). Pub. L. 92–603, § 135(b)(3), substituted “1985, the rate shall be 1.45 percent” for “1992, the rate shall be 1.2 percent”.
 
 1971—Subsec. (a)(4). Pub. L. 92–5 substituted “with respect to wages paid during the calendar years 1973, 1974, and 1975, the rate shall be 5.0 percent; and” for “with respect to wages paid after December 31, 1972, the rate shall be 5.0 percent”.
 
 Subsec. (a)(5). Pub. L. 92–5 added par. (5).
 
-1968—Subsec. (a)(1) to (4). Pub. L. 90–248, § 109(a)(3), substituted “1968” and “3.8” for “1966” and “3.85” in par. (1) and “1969 and 1970” and “4.2” for “1967 and 1968” and “3.9” in par. (2), struck out reference to calendar years 1969 and 1970 from par. (3) and substituted therein “4.6” for “4.4”, and substituted “5.0” for “4.85” in par. (4).
+1968—Subsec. (a)(1) to (4). Pub. L. 90–248, § 109(a)(3), substituted “1968” and “3.8” for “1966” and “3.85” in par. (1) and “1969 and 1970” and “4.2” for “1967 and 1968” and “3.9” in par. (2), struck out reference to calendar years 1969 and 1970 from par. (3) and substituted therein “4.6” for “4.4”, and substituted “5.0” for “4.85” in par. (4).
 
-Subsecs. (b)(1) to (5). Pub. L. 90–248, § 109(b)(3), struck out par. (1) provision for employer rate of 0.35 percent of wages paid with respect to employment during calendar year 1966, redesignated pars. (2) to (6) as (1) to (5), struck out reference to “1967” in such par. (1) and increased the rate by 0.10 percent to 0.60, 0.65, 0.70, 0.80, and 0.90 in pars. (1) to (5), respectively.
+Subsecs. (b)(1) to (5). Pub. L. 90–248, § 109(b)(3), struck out par. (1) provision for employer rate of 0.35 percent of wages paid with respect to employment during calendar year 1966, redesignated pars. (2) to (6) as (1) to (5), struck out reference to “1967” in such par. (1) and increased the rate by 0.10 percent to 0.60, 0.65, 0.70, 0.80, and 0.90 in pars. (1) to (5), respectively.
 
-1965—Pub. L. 89–97, § 321(c), divided the total excise tax imposed under the entire section upon employers through a tax equal to percentages of wages paid by him into two separate taxes by dividing the section into subsecs. (a) and (b), with subsec. (a) reflecting the tax for old-age, survivors, and disability insurance, and subsec. (b) reflecting the tax for hospital insurance, but, in the case of subsec. (b), without regard to the provisions of section 3121(b)(9) insofar as it relates to employees; increased from 4⅛ percent to 4.20 percent the rate of total tax imposed by the entire section upon wages paid during calendar year 1966 (resulting from a tax of 3.85 percent under subsec. (a) and 0.35 percent under subsec. (b)), increased from 4⅛ percent to 4.40 percent the rate of total tax imposed by the entire section upon wages paid during calendar year 1967 (resulting from a tax of 3.9 percent under subsec. (a) and 0.50 percent under subsec. (b)), reduced from 4⅝ percent to 4.40 percent the rate of total tax imposed by the entire section upon wages paid during calendar year 1968 (resulting from a tax of 3.9 percent under subsec. (a) and 0.50 percent under subsec. (b)), increased from 4⅝ percent to 4.90 percent the rate of total tax imposed by the entire section upon wages paid during the calendar years 1969, 1970, 1971, and 1972 (resulting from a tax of 4.4 percent under subsec. (a) and 0.50 percent under subsec. (b)), increased from 4⅝ percent to 5.40 percent the rate for calendar years 1973, 1974, and 1975 (resulting from a tax of 4.85 percent under subsec. (a) and 0.55 percent under subsec. (b)), increased from 4⅝ percent to 5.45 percent the rate for calendar years 1976, 1977, 1978, and 1979 (resulting from a tax of 4.85 percent under subsec. (a) and 0.60 percent under subsec. (b)), increased from 4⅝ percent to 5.55 percent the rate for calendar years 1980 through 1986 (resulting from a tax of 4.85 percent under subsec. (a) and 0.70 percent under subsec. (b)), and increased the rate from 4⅝ percent to 5.65 percent for calendar years after December 31, 1986 (resulting from a tax of 4.85 percent under subsec. (a) and 0.80 percent under subsec. (b)).
+1965—Pub. L. 89–97, § 321(c), divided the total excise tax imposed under the entire section upon employers through a tax equal to percentages of wages paid by him into two separate taxes by dividing the section into subsecs. (a) and (b), with subsec. (a) reflecting the tax for old-age, survivors, and disability insurance, and subsec. (b) reflecting the tax for hospital insurance, but, in the case of subsec. (b), without regard to the provisions of section 3121(b)(9) insofar as it relates to employees; increased from 4⅛ percent to 4.20 percent the rate of total tax imposed by the entire section upon wages paid during calendar year 1966 (resulting from a tax of 3.85 percent under subsec. (a) and 0.35 percent under subsec. (b)), increased from 4⅛ percent to 4.40 percent the rate of total tax imposed by the entire section upon wages paid during calendar year 1967 (resulting from a tax of 3.9 percent under subsec. (a) and 0.50 percent under subsec. (b)), reduced from 4⅝ percent to 4.40 percent the rate of total tax imposed by the entire section upon wages paid during calendar year 1968 (resulting from a tax of 3.9 percent under subsec. (a) and 0.50 percent under subsec. (b)), increased from 4⅝ percent to 4.90 percent the rate of total tax imposed by the entire section upon wages paid during the calendar years 1969, 1970, 1971, and 1972 (resulting from a tax of 4.4 percent under subsec. (a) and 0.50 percent under subsec. (b)), increased from 4⅝ percent to 5.40 percent the rate for calendar years 1973, 1974, and 1975 (resulting from a tax of 4.85 percent under subsec. (a) and 0.55 percent under subsec. (b)), increased from 4⅝ percent to 5.45 percent the rate for calendar years 1976, 1977, 1978, and 1979 (resulting from a tax of 4.85 percent under subsec. (a) and 0.60 percent under subsec. (b)), increased from 4⅝ percent to 5.55 percent the rate for calendar years 1980 through 1986 (resulting from a tax of 4.85 percent under subsec. (a) and 0.70 percent under subsec. (b)), and increased the rate from 4⅝ percent to 5.65 percent for calendar years after December 31, 1986 (resulting from a tax of 4.85 percent under subsec. (a) and 0.80 percent under subsec. (b)).
 
-Subsec. (b). Pub. L. 89–97, § 111(c)(6), struck out “, but without regard to the provisions of paragraph (9) thereof insofar as it relates to employees” after “as defined in section 3121(b)”.
+Subsec. (b). Pub. L. 89–97, § 111(c)(6), struck out “, but without regard to the provisions of paragraph (9) thereof insofar as it relates to employees” after “as defined in section 3121(b)”.
 
 1961—Pub. L. 87–64 increased rate of tax for calendar year 1962 from 3 to 3⅛ percent, calendar years 1963 to 1965, inclusive, from 3½ to 3⅝ percent, calendar years 1966 and 1967 from 4 to 4⅛ percent, calendar year 1968 from 4 to 4⅝ percent, and for calendar years after December 31, 1968, from 4½ to 4⅝ percent.
 
@@ -567,7 +567,7 @@ Amendment by Pub. L. 111–147 applicable to wages paid after Mar. 18, 2010, see
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title VIII, § 8016(b), Nov. 10, 1988, 102 Stat. 3793, provided that:
+Pub. L. 100–647, title VIII, § 8016(b), Nov. 10, 1988, 102 Stat. 3793, provided that:
 
 > **“(1)** Except as provided in paragraph (2), the amendments made by this section [amending this section, sections 3121 and 3306 of this title, and sections 405, 410, and 411 of Title 42, The Public Health and Welfare] shall be effective on the date of the enactment of this Act [Nov. 10, 1988].
 
@@ -575,7 +575,7 @@ Pub. L. 100–647, title VIII, § 8016(b), Nov. 10, 1988, 102 Stat. 3793, prov
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–203, title IX, § 9006(c), Dec. 22, 1987, 101 Stat. 1330–289, provided that: “The amendments made by this section [amending this section and section 3121 of this title] shall apply with respect to tips received (and wages paid) on and after January 1, 1988.”
+Pub. L. 100–203, title IX, § 9006(c), Dec. 22, 1987, 101 Stat. 1330–289, provided that: “The amendments made by this section [amending this section and section 3121 of this title] shall apply with respect to tips received (and wages paid) on and after January 1, 1988.”
 
 **Effective Date of 1983 Amendment**
 
@@ -585,7 +585,7 @@ Amendment by Pub. L. 98–21 applicable to remuneration paid after Dec. 31, 1983
 
 Amendment by section 101(a)(2), (b)(2) of Pub. L. 95–216 applicable with respect to remuneration paid or received, and taxable years beginning, after 1977, see section 104 of Pub. L. 95–216, set out as a note under section 1401 of this title.
 
-Pub. L. 95–216, title III, § 315(c), Dec. 20, 1977, 91 Stat. 1537, provided that: “The amendments made by this section [amending this section and section 3121 of this title] shall apply with respect to wages paid with respect to employment performed in months after December 1977.”
+Pub. L. 95–216, title III, § 315(c), Dec. 20, 1977, 91 Stat. 1537, provided that: “The amendments made by this section [amending this section and section 3121 of this title] shall apply with respect to wages paid with respect to employment performed in months after December 1977.”
 
 **Effective Date of 1976 Amendment**
 
@@ -637,7 +637,7 @@ For provision that no penalties or interest shall be assessed on account of any 
 
 **Employee Retention Credit for Employers Subject to Closure Due to COVID–19**
 
-Pub. L. 116–136, div. A, title II, § 2301, Mar. 27, 2020, 134 Stat. 347, as amended by Pub. L. 116–260, div. EE, title II, §§ 206(a), (b), (c)(2), (d), 207(a)–(j), title III, § 303(d)(3)(C)(iii), Dec. 27, 2020, 134 Stat. 3059–3065, 3077, provided that:
+Pub. L. 116–136, div. A, title II, § 2301, Mar. 27, 2020, 134 Stat. 347, as amended by Pub. L. 116–260, div. EE, title II, §§ 206(a), (b), (c)(2), (d), 207(a)–(j), title III, § 303(d)(3)(C)(iii), Dec. 27, 2020, 134 Stat. 3059–3065, 3077, provided that:
 
 > **“(a) In General.—** In the case of an eligible employer, there shall be allowed as a credit against applicable employment taxes for each calendar quarter an amount equal to 70 percent of the qualified wages with respect to each employee of such employer for such calendar quarter.
 
@@ -797,7 +797,7 @@ Pub. L. 116–136, div. A, title II, § 2301, Mar. 27, 2020, 134 Stat. 347, as
 
 > **“(B)** not later than 30 days after the date of the enactment of this subsection, provide to all employers educational materials relating to the credit allowed under this section, including specific materials for businesses with not more than 500 employees.”
 
-[Pub. L. 116–260, div. EE, title II, § 206(e), Dec. 27, 2020, 134 Stat. 3061, provided that:
+[Pub. L. 116–260, div. EE, title II, § 206(e), Dec. 27, 2020, 134 Stat. 3061, provided that:
 
 [“(1) In general.—The amendments made by this section [amending section 2301 of Pub. L. 116–136, set out above] shall take effect as if included in the provisions of the CARES Act [Pub. L. 116–136] to which they relate.
 
@@ -819,11 +819,11 @@ Pub. L. 116–136, div. A, title II, § 2301, Mar. 27, 2020, 134 Stat. 347, as
 
 [“(II) not taken into account by the taxpayer in calculating the credit allowed under section 2301(a) of division A of such Act for such calendar quarter.”]
 
-[Pub. L. 116–260, div. EE, title II, § 207(k), Dec. 27, 2020, 134 Stat. 3065, provided that: “The amendments made by this section [amending section 2301 of Pub. L. 116–136, set out above] shall apply to calendar quarters beginning after December 31, 2020.” ]
+[Pub. L. 116–260, div. EE, title II, § 207(k), Dec. 27, 2020, 134 Stat. 3065, provided that: “The amendments made by this section [amending section 2301 of Pub. L. 116–136, set out above] shall apply to calendar quarters beginning after December 31, 2020.” ]
 
 **Delay of Payment of Employer Payroll Taxes**
 
-Pub. L. 116–136, div. A, title II, § 2302, Mar. 27, 2020, 134 Stat. 351, as amended by Pub. L. 116–142, § 4(a), June 5, 2020, 134 Stat. 643, provided that:
+Pub. L. 116–136, div. A, title II, § 2302, Mar. 27, 2020, 134 Stat. 351, as amended by Pub. L. 116–142, § 4(a), June 5, 2020, 134 Stat. 643, provided that:
 
 > **“(a) In General.—**
 
@@ -867,11 +867,11 @@ Pub. L. 116–136, div. A, title II, § 2302, Mar. 27, 2020, 134 Stat. 351, as
 
 > **“(f) Regulatory Authority.—** The Secretary shall issue such regulations or other guidance as necessary to carry out the purposes of this section, including rules for the administration and enforcement of subsection (c).”
 
-[Pub. L. 116–142, § 4(b), June 5, 2020, 134 Stat. 643, provided that: “The amendments made by this section [amending section 2302 of Pub. L. 116–136, set out above] shall be effective as if included in the CARES Act (Public Law 116–136) and shall apply to any loan made pursuant to section 7(a)(36) of the Small Business Act (15 U.S.C. 636(a)(36)) or section 1109 of the CARES Act [15 U.S.C. 9008].” ]
+[Pub. L. 116–142, § 4(b), June 5, 2020, 134 Stat. 643, provided that: “The amendments made by this section [amending section 2302 of Pub. L. 116–136, set out above] shall be effective as if included in the CARES Act (Public Law 116–136) and shall apply to any loan made pursuant to section 7(a)(36) of the Small Business Act (15 U.S.C. 636(a)(36)) or section 1109 of the CARES Act [15 U.S.C. 9008].” ]
 
 **Payroll Credit for Required Paid Sick Leave**
 
-Pub. L. 116–127, div. G, § 7001, Mar. 18, 2020, 134 Stat. 210, as amended by Pub. L. 116–136, div. A, title III, § 3606(a), Mar. 27, 2020, 134 Stat. 411; Pub. L. 116–260, div. N, title II, §§ 286(a), (b)(1), 288(a)–(c), div. EE, title III, § 303(d)(3)(C)(i), Dec. 27, 2020, 134 Stat. 1989, 1990, 1992, 3076, provided that:
+Pub. L. 116–127, div. G, § 7001, Mar. 18, 2020, 134 Stat. 210, as amended by Pub. L. 116–136, div. A, title III, § 3606(a), Mar. 27, 2020, 134 Stat. 411; Pub. L. 116–260, div. N, title II, §§ 286(a), (b)(1), 288(a)–(c), div. EE, title III, § 303(d)(3)(C)(i), Dec. 27, 2020, 134 Stat. 1989, 1990, 1992, 3076, provided that:
 
 > **“(a) In General.—** In the case of an employer, there shall be allowed as a credit against the tax imposed by section 3111(a) or 3221(a) of the Internal Revenue Code of 1986 for each calendar quarter an amount equal to 100 percent of the qualified sick leave wages paid by such employer with respect to such calendar quarter.
 
@@ -899,7 +899,7 @@ Pub. L. 116–127, div. G, § 7001, Mar. 18, 2020, 134 Stat. 210, as amended b
 
 > **“(c) Qualified Sick Leave Wages.—** For purposes of this section, the term ‘qualified sick leave wages’ means wages (as defined in section 3121(a) of the Internal Revenue Code of 1986, determined without regard to paragraphs (1) through (22) of section 3121(b) of such Code and section 7005(a) of this Act [set out below],) [sic] and compensation (as defined in section 3231(e) of the Internal Revenue Code [of 1986], determined without regard to the sentence in paragraph (1) thereof which begins ‘Such term does not include remuneration’ and without regard to section 7005(a) of this Act) paid by an employer—
 
-> **“(1)** which are required to be paid by reason of the Emergency Paid Sick Leave Act [div. E (§ 5101 et seq.) of Pub. L. 116–127, 29 U.S.C. 2601 note], or
+> **“(1)** which are required to be paid by reason of the Emergency Paid Sick Leave Act [div. E (§ 5101 et seq.) of Pub. L. 116–127, 29 U.S.C. 2601 note], or
 
 > **“(2)** both—
 
@@ -951,11 +951,11 @@ Pub. L. 116–127, div. G, § 7001, Mar. 18, 2020, 134 Stat. 210, as amended b
 
 > **“(i) Treatment of Deposits.—** The Secretary of the Treasury (or the Secretary’s delegate) shall waive any penalty under section 6656 of the Internal Revenue Code of 1986 for any failure to make a deposit of the tax imposed by section 3111(a) or 3221(a) of such Code if the Secretary determines that such failure was due to the anticipation of the credit allowed under this section.”
 
-[Pub. L. 116–260, div. N, title II, § 288(f), Dec. 27, 2020, 134 Stat. 1993, provided that: “The amendments made by this section [amending section 7001 of Pub. L. 116–127, set out above, and sections 7003 and 7005 of Pub. L. 116–127, set out below] shall take effect as if included in the provisions of the Families First Coronavirus Response Act [Pub. L. 116–127] to which they relate.” ]
+[Pub. L. 116–260, div. N, title II, § 288(f), Dec. 27, 2020, 134 Stat. 1993, provided that: “The amendments made by this section [amending section 7001 of Pub. L. 116–127, set out above, and sections 7003 and 7005 of Pub. L. 116–127, set out below] shall take effect as if included in the provisions of the Families First Coronavirus Response Act [Pub. L. 116–127] to which they relate.” ]
 
 **Payroll Credit for Required Paid Family Leave**
 
-Pub. L. 116–127, div. G, § 7003, Mar. 18, 2020, 134 Stat. 214, as amended by Pub. L. 116–136, div. A, title III, § 3606(b), (c), Mar. 27, 2020, 134 Stat. 412; Pub. L. 116–260, div. N, title II, §§ 286(a), (b)(3), 288(a)–(c), div. EE, title III, § 303(d)(3)(C)(ii), Dec. 27, 2020, 134 Stat. 1989, 1990, 1992, 3077, provided that:
+Pub. L. 116–127, div. G, § 7003, Mar. 18, 2020, 134 Stat. 214, as amended by Pub. L. 116–136, div. A, title III, § 3606(b), (c), Mar. 27, 2020, 134 Stat. 412; Pub. L. 116–260, div. N, title II, §§ 286(a), (b)(3), 288(a)–(c), div. EE, title III, § 303(d)(3)(C)(ii), Dec. 27, 2020, 134 Stat. 1989, 1990, 1992, 3077, provided that:
 
 > **“(a) In General.—** In the case of an employer, there shall be allowed as a credit against the tax imposed by section 3111(a) or 3221(a) of the Internal Revenue Code of 1986 for each calendar quarter an amount equal to 100 percent of the qualified family leave wages paid by such employer with respect to such calendar quarter.
 
@@ -1025,11 +1025,11 @@ Pub. L. 116–127, div. G, § 7003, Mar. 18, 2020, 134 Stat. 214, as amended b
 
 > **“(i) Treatment of Deposits.—** The Secretary of the Treasury (or the Secretary’s delegate) shall waive any penalty under section 6656 of the Internal Revenue Code of 1986 for any failure to make a deposit of the tax imposed by section 3111(a) or 3221(a) of such Code if the Secretary determines that such failure was due to the anticipation of the credit allowed under this section.”
 
-[Pub. L. 116–260, div. N, § 288(a)(1)(A), which directed amendment of section 7003(c) of Pub. L. 116–127, set out above, by inserting “, determined without regard to paragraphs (1) through (22) of section 3121(b) of such Code” after “as defined in section 3121(a) of the Internal Revenue Code of 1986”, was executed by making the insertion after “as defined in section 3121(a) of such Code” to reflect the probable intent of Congress.]
+[Pub. L. 116–260, div. N, § 288(a)(1)(A), which directed amendment of section 7003(c) of Pub. L. 116–127, set out above, by inserting “, determined without regard to paragraphs (1) through (22) of section 3121(b) of such Code” after “as defined in section 3121(a) of the Internal Revenue Code of 1986”, was executed by making the insertion after “as defined in section 3121(a) of such Code” to reflect the probable intent of Congress.]
 
 **Special Rule Related to Tax on Employers**
 
-Pub. L. 116–127, div. G, § 7005, Mar. 18, 2020, 134 Stat. 219, as amended by Pub. L. 116–260, div. N, title II, §§ 286(b)(5), 288(d), (e), Dec. 27, 2020, 134 Stat. 1991, 1992, provided that:
+Pub. L. 116–127, div. G, § 7005, Mar. 18, 2020, 134 Stat. 219, as amended by Pub. L. 116–260, div. N, title II, §§ 286(b)(5), 288(d), (e), Dec. 27, 2020, 134 Stat. 1991, 1992, provided that:
 
 > **“(a) In General.—** Any wages required to be paid by reason of the Emergency Paid Sick Leave Act [div. E of Pub. L. 116–127, 29 U.S.C. 2601 note] and the Emergency Family and Medical Leave Expansion Act [div. C of Pub. L. 116–127, see Short Title of 2020 Amendment note set out under section 2601 of Title 29, Labor] (or, in the case of wages paid after December 31, 2020, and before April 1, 2021, with respect to which a credit is allowed under section 7001 [set out above] or 7003 [set out above]) shall not be considered wages for purposes of section 3111(a) of the Internal Revenue Code of 1986 or compensation for purposes of section 3221(a) of such Code. Any reference in this subsection to the tax imposed by section 3221(a) of such Code shall be treated as a reference to so much of the tax as is attributable to the rate in effect under section 3111(a) of such Code.
 
@@ -1041,15 +1041,15 @@ Pub. L. 116–127, div. G, § 7005, Mar. 18, 2020, 134 Stat. 219, as amended b
 
 > **“(c) Transfers to Federal Old-Age and Survivors Insurance Trust Fund.—** There are hereby appropriated to the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund established under section 201 of the Social Security Act (42 U.S.C. 401) and the Social Security Equivalent Benefit Account established under section 15A(a) of the Railroad Retirement Act of 1974 (45 U.S.C. 231n–1(a)) amounts equal to the reduction in revenues to the Treasury by reason of this section (without regard to this subsection). Amounts appropriated by the preceding sentence shall be transferred from the general fund at such times and in such manner as to replicate to the extent possible the transfers which would have occurred to such Trust Fund or Account had this section not been enacted.”
 
-### § 3112. Instrumentalities of the United States
+### § 3112. Instrumentalities of the United States
 
 Notwithstanding any other provision of law (whether enacted before or after the enactment of this section) which grants to any instrumentality of the United States an exemption from taxation, such instrumentality shall not be exempt from the tax imposed by section 3111 unless such other provision of law grants a specific exemption, by reference to section 3111 (or the corresponding section of prior law), from the tax imposed by such section.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 416.)
 
-### [§ 3113. Repealed. Pub. L. 94–455, title XIX, § 1903(a)(2), Oct. 4, 1976, 90 Stat. 1806]
+### [§ 3113. Repealed. Pub. L. 94–455, title XIX, § 1903(a)(2), Oct. 4, 1976, 90 Stat. 1806]
 
-Section, added Aug. 1, 1956, ch. 836, title II, § 201(a)(1), 70 Stat. 839, related to a restriction on exemptions from taxation for District of Columbia credit unions with respect to the tax imposed by section 3111 of this title.
+Section, added Aug. 1, 1956, ch. 836, title II, § 201(a)(1), 70 Stat. 839, related to a restriction on exemptions from taxation for District of Columbia credit unions with respect to the tax imposed by section 3111 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1063,17 +1063,17 @@ Repeal applicable with respect to wages paid after Dec. 31, 1976, see section 19
 
 **Amendments**
 
-1988—Pub. L. 100–647, title VIII, § 8007(a)(2), Nov. 10, 1988, 102 Stat. 3782, added item 3127 and redesignated former item 3127 as 3128.
+1988—Pub. L. 100–647, title VIII, § 8007(a)(2), Nov. 10, 1988, 102 Stat. 3782, added item 3127 and redesignated former item 3127 as 3128.
 
-1986—Pub. L. 99–509, title IX, § 9002(a)(2), Oct. 21, 1986, 100 Stat. 1971, added item 3126 and redesignated former item 3126 as 3127.
+1986—Pub. L. 99–509, title IX, § 9002(a)(2), Oct. 21, 1986, 100 Stat. 1971, added item 3126 and redesignated former item 3126 as 3127.
 
-Pub. L. 99–272, title XIII, § 13205(a)(2)(A)(iii), Apr. 7, 1986, 100 Stat. 315, inserted “States,” in item 3125.
+Pub. L. 99–272, title XIII, § 13205(a)(2)(A)(iii), Apr. 7, 1986, 100 Stat. 315, inserted “States,” in item 3125.
 
-1965—Pub. L. 89–97, title III, § 317(c)(3), July 30, 1965, 79 Stat. 389, inserted reference to the District of Columbia in item 3125.
+1965—Pub. L. 89–97, title III, § 317(c)(3), July 30, 1965, 79 Stat. 389, inserted reference to the District of Columbia in item 3125.
 
-1960—Pub. L. 86–778, title I, § 103(q)(2), Sept. 13, 1960, 74 Stat. 940, added item 3125 and redesignated former item 3125 as 3126.
+1960—Pub. L. 86–778, title I, § 103(q)(2), Sept. 13, 1960, 74 Stat. 940, added item 3125 and redesignated former item 3125 as 3126.
 
-### § 3121. Definitions
+### § 3121. Definitions
 
 **(a) Wages** For purposes of this chapter, the term “wages” means all remuneration for employment, including the cash value of all remuneration (including benefits) paid in any medium other than cash; except that such term shall not include—
 
@@ -1087,7 +1087,7 @@ Pub. L. 99–272, title XIII, § 13205(a)(2)(A)(iii), Apr. 7, 1986, 100 Stat. 
 
 **(C)** death, except that this paragraph does not apply to a payment for group-term life insurance to the extent that such payment is includible in the gross income of the employee;
 
-**[(3)** Repealed. Pub. L. 98–21, title III, § 324(a)(3)(B), Apr. 20, 1983, 97 Stat. 123]
+**[(3)** Repealed. Pub. L. 98–21, title III, § 324(a)(3)(B), Apr. 20, 1983, 97 Stat. 123]
 
 **(4)** any payment on account of sickness or accident disability, or medical or hospitalization expenses in connection with sickness or accident disability, made by an employer to, or on behalf of, an employee after the expiration of 6 calendar months following the last calendar month in which the employee worked for such employer;
 
@@ -1139,7 +1139,7 @@ with respect to remuneration paid to an employee for domestic service in a priva
 
 except that clause (ii) shall not apply in determining whether remuneration paid to an employee constitutes “wages” under this section if such employee (I) is employed as a hand harvest laborer and is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (II) commutes daily from his permanent residence to the farm on which he is so employed, and (III) has been employed in agriculture less than 13 weeks during the preceding calendar year;
 
-**[(9)** Repealed. Pub. L. 98–21, title III, § 324(a)(3)(B), Apr. 20, 1983, 97 Stat. 123]
+**[(9)** Repealed. Pub. L. 98–21, title III, § 324(a)(3)(B), Apr. 20, 1983, 97 Stat. 123]
 
 **(10)** remuneration paid by an employer in any calendar year to an employee for service described in subsection (d)(3)(C) (relating to home workers), if the cash remuneration paid in such year by the employer to the employee for such service is less than $100;
 
@@ -1165,7 +1165,7 @@ other than any such payment or series of payments which would have been paid if 
 
 **(16)** remuneration paid by an organization exempt from income tax under section 501(a) (other than an organization described in section 401(a)) or under section 521 in any calendar year to an employee for service rendered in the employ of such organization, if the remuneration paid in such year by the organization to the employee for such service is less than $100;
 
-**[(17)** Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(iv), Dec. 19, 2014, 128 Stat. 4040]
+**[(17)** Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(iv), Dec. 19, 2014, 128 Stat. 4040]
 
 **(18)** any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127, 129, 134(b)(4), or 134(b)(5);
 
@@ -1181,9 +1181,9 @@ other than any such payment or series of payments which would have been paid if 
 
 **(B)** any disposition by the individual of such stock; or
 
-**(23)** any benefit or payment which is excludable from the gross income of the employee under section section 1
+**(23)** any benefit or payment which is excludable from the gross income of the employee under section section 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 139B(a).
 
@@ -1349,7 +1349,7 @@ if such service is performed by a student who is enrolled and regularly attendin
 
 **(C)** the amount of such individual’s share depends on the amount of the agricultural or horticultural commodities produced;
 
-**[(17)** Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(99)(C)(i), Dec. 19, 2014, 128 Stat. 4052]
+**[(17)** Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(99)(C)(i), Dec. 19, 2014, 128 Stat. 4052]
 
 **(18)** service performed in Guam by a resident of the Republic of the Philippines while in Guam on a temporary basis as a nonimmigrant alien admitted to Guam pursuant to section 101(a)(15)(H)(ii) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(H)(ii));
 
@@ -1513,7 +1513,7 @@ All service performed in the employ of a State or political subdivision thereof 
 
 **(iii)** a State and one or more of its political subdivisions.
 
-**[(k) Repealed. Pub. L. 98–21, title I, § 102(b)(2), Apr. 20, 1983, 97 Stat. 71]**
+**[(k) Repealed. Pub. L. 98–21, title I, § 102(b)(2), Apr. 20, 1983, 97 Stat. 71]**
 
 **(l) Agreements entered into by American employers with respect to foreign affiliates**
 
@@ -1581,9 +1581,9 @@ The term “active duty” means “active duty” as described in paragraph (21
 
 The term “inactive duty training” means “inactive duty training” as described in paragraph (23) of such section 101.
 
-**(n) Member of a uniformed service** For purposes of this chapter, the term “member of a uniformed service” means any person appointed, enlisted, or inducted in a component of the Army, Navy, Air Force, Marine Corps, or Coast Guard (including a reserve component as defined in section 101(27) of title 38, United States Code), or in one of those services without specification of component, or as a commissioned officer of the Coast and Geodetic Survey, the National Oceanic and Atmospheric Administration Corps, or the Regular or Reserve Corps 2
+**(n) Member of a uniformed service** For purposes of this chapter, the term “member of a uniformed service” means any person appointed, enlisted, or inducted in a component of the Army, Navy, Air Force, Marine Corps, or Coast Guard (including a reserve component as defined in section 101(27) of title 38, United States Code), or in one of those services without specification of component, or as a commissioned officer of the Coast and Geodetic Survey, the National Oceanic and Atmospheric Administration Corps, or the Regular or Reserve Corps 2
 
-<sup>2</sup>  See Change of Name note below.
+<sup>2</sup> See Change of Name note below.
 
 of the Public Health Service, and any person serving in the Army or Air Force under call or conscription. The term includes—
 
@@ -1651,13 +1651,13 @@ Whenever a date is designated under clause (iii), the election shall apply to se
 
 **(ii)** the statutory period for the assessment of such tax shall not expire before the expiration of 3 years from such due date.
 
-**[(4) Repealed. Pub. L. 98–21, title I, § 102(b)(3)(B), Apr. 20, 1983, 97 Stat. 71]**
+**[(4) Repealed. Pub. L. 98–21, title I, § 102(b)(3)(B), Apr. 20, 1983, 97 Stat. 71]**
 
 **(s) Concurrent employment by two or more employers**
 
 For purposes of sections 3102, 3111, and 3121(a)(1), if two or more related corporations concurrently employ the same individual and compensate such individual through a common paymaster which is one of such corporations, each such corporation shall be considered to have paid as remuneration to such individual only the amounts actually disbursed by it to such individual and shall not be considered to have paid as remuneration to such individual amounts actually disbursed to such individual by another of such corporations.
 
-**[(t) Repealed. Pub. L. 100–203, title IX, § 9006(b)(2), Dec. 22, 1987, 101 Stat. 1330–289]**
+**[(t) Repealed. Pub. L. 100–203, title IX, § 9006(b)(2), Dec. 22, 1987, 101 Stat. 1330–289]**
 
 **(u) Application of hospital insurance tax to Federal, State, and local employment**
 
@@ -1831,13 +1831,13 @@ Paragraph (1) shall not apply to any services if the employer establishes to the
 
 For relief from taxes in cases covered by certain international agreements, see sections 3101(c) and 3111(c).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 417; Sept. 1, 1954, ch. 1206, title II, §§ 204(a), (b), 205(a)–(e), 206(a), 207, 209, 68 Stat. 1091–1094; Aug. 1, 1956, ch. 836, title I, §§ 103(j), 121(d), title II, §§ 201(b)–(d), (e)(1), (h)(1), (2), (j)–(*l*), 70 Stat. 824, 839–841, 843; Aug. 1, 1956, ch. 837, title IV, §§ 410, 411(a), 70 Stat. 878; Pub. L. 85–840, title IV, §§ 402(b), 404(a), 405(a), (b), Aug. 28, 1958, 72 Stat. 1042, 1044–1046; Pub. L. 85–866, title I, § 69, Sept. 2, 1958, 72 Stat. 1659; Pub. L. 86–70, § 22(a), June 25, 1959, 73 Stat. 146; Pub. L. 86–168, title I, § 104(h), title II, § 202(a), Aug. 18, 1959, 73 Stat. 387, 389; Pub. L. 86–624, § 18(c), July 12, 1960, 74 Stat. 416; Pub. L. 86–778, title I, §§ 103(n)–(p), 104(b), 105(a), Sept. 13, 1960, 74 Stat. 938, 939, 942; Pub. L. 87–256, § 110(e)(1), Sept. 21, 1961, 75 Stat. 536; Pub. L. 87–293, title II, § 202(a)(1), (2), Sept. 22, 1961, 75 Stat. 626; Pub. L. 88–272, title II, § 220(c)(2), Feb. 26, 1964, 78 Stat. 62; Pub. L. 88–650, § 4(b), Oct. 13, 1964, 78 Stat. 1077; Pub. L. 89–97, title III, §§ 311(b)(4), (5), 313(c)(3), (4), 316(a)(1), (b), 317(b), 320(b)(2), July 30, 1965, 79 Stat. 381, 383, 386, 388, 393; Pub. L. 90–248, title I, §§ 108(b)(2), 123(b), title IV, § 403(i), title V, § 504(a), Jan. 2, 1968, 81 Stat. 835, 845, 932, 934; Pub. L. 91–172, title IX, § 943(c)(1)–(3), Dec. 30, 1969, 83 Stat. 728; Pub. L. 92–5, title II, § 203(b)(2), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, § 203(b)(2), July 1, 1972, 86 Stat. 419; Pub. L. 92–603, title I, §§ 104(i), 122(b), 123(a)(2), (b), (c)(2), 128(b), 129(a)(2), 138(b), Oct. 30, 1972, 86 Stat. 1341, 1354, 1356, 1358, 1359, 1365; Pub. L. 93–66, title II, § 203(b)(2), (d), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, § 5(b)(2), (d), Dec. 31, 1973, 87 Stat. 954; Pub. L. 94–455, title XII, § 1207(e)(1)(A), title XIX, §§ 1903(a)(3), 1906(b)(13)(A), (C), Oct. 4, 1976, 90 Stat. 1706, 1807, 1834; Pub. L. 94–563, § 1(b), (c), Oct. 19, 1976, 90 Stat. 2655; Pub. L. 95–216, title III, §§ 312(a), (b), (d), (f), (g), 314(a), 315(a), 356(a)–(d), Dec. 20, 1977, 91 Stat. 1532–1536, 1555; Pub. L. 95–472, § 3(b), Oct. 17, 1978, 92 Stat. 1333; Pub. L. 95–600, title I, § 164(b)(3), Nov. 6, 1978, 92 Stat. 2814; Pub. L. 96–222, title I, § 101(a)(10)(B)(i), Apr. 1, 1980, 94 Stat. 201; Pub. L. 96–499, title XI, § 1141(a)(1), Dec. 5, 1980, 94 Stat. 2693; Pub. L. 97–34, title I, § 124(e)(2)(A), Aug. 13, 1981, 95 Stat. 200; Pub. L. 97–123, § 3(b), Dec. 29, 1981, 95 Stat. 1662; Pub. L. 97–248, title II, § 278(a)(1), Sept. 3, 1982, 96 Stat. 559; Pub. L. 98–21, title I, §§ 101(b), (c)(2), 102(b), title III, §§ 321(a), (e)(1), 322(a)(2), 323(a)(1), 324(a), 327(a)(1), (b)(1), 328(a), Apr. 20, 1983, 97 Stat. 69, 70, 118, 119, 121, 122, 126–128; Pub. L. 98–369, div. A, title I, § 67(c), title IV, § 491(d)(36), title V, § 531(d)(1)(A), div. B, title VI, §§ 2601(b), 2603(a)(2), (b), 2661(*o*)(3), 2663(i), (j)(5)(C), July 18, 1984, 98 Stat. 587, 851, 884, 1124, 1128, 1159, 1169, 1171; Pub. L. 99–221, § 3(b), Dec. 26, 1985, 99 Stat. 1735; Pub. L. 99–272, title XII, § 12112(b), title XIII, §§ 13205(a)(1), 13303(c)(2), Apr. 7, 1986, 100 Stat. 288, 313, 327; Pub. L. 99–335, title III, § 304(b), June 6, 1986, 100 Stat. 606; Pub. L. 99–509, title IX, § 9002(b)(1)(A), (2)(A), Oct. 21, 1986, 100 Stat. 1971; Pub. L. 99–514, title I, § 122(e)(1), title XI, §§ 1108(g)(7), 1147(b), 1151(d)(2)(A), title XVIII, §§ 1882(c), 1883(a)(11)(B), 1895(b)(18)(A), 1899A(38)–(40), Oct. 22, 1986, 100 Stat. 2112, 2435, 2494, 2505, 2915, 2916, 2935, 2960; Pub. L. 100–203, title IX, §§ 9001(b), 9002(b), 9003(a)(2), 9004(b), 9005(b), 9006(a), (b)(2), 9023(d), Dec. 22, 1987, 101 Stat. 1330–286 to 1330–289, 1330–296; Pub. L. 100–647, title I, §§ 1001(d)(2)(C)(i), (g)(4)(B)(i), 1011(e)(8), 1011B(a)(22)(A), (23)(A), 1018(r)(2)(A), (u)(35), title III, § 3043(c)(2), title VIII, §§ 8015(b)(2), (c)(2), 8016(a)(3)(A), (4)(A), (C), 8017(b), Nov. 10, 1988, 102 Stat. 3351, 3352, 3461, 3485, 3486, 3586, 3592, 3642, 3791–3793; Pub. L. 101–140, title II, § 203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title X, § 10201(a), (b)(3), Dec. 19, 1989, 103 Stat. 2472; Pub. L. 101–508, title XI, §§ 11331(a), 11332(b), Nov. 5, 1990, 104 Stat. 1388–467, 1388–469; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–318, title V, § 521(b)(34), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, § 13207(a), Aug. 10, 1993, 107 Stat. 467; Pub. L. 103–178, title II, § 204(c), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 103–296, title I, § 108(h)(2), title III, §§ 303(a)(2), (b)(2), 319(a)(1), (5), 320(a)(1)(C), Aug. 15, 1994, 108 Stat. 1487, 1519, 1533–1535; Pub. L. 103–387, § 2(a)(1)(A)–(C), Oct. 22, 1994, 108 Stat. 4071; Pub. L. 104–188, title I, §§ 1116(a)(1)(A), (B), 1421(b)(8)(A), 1458(b)(1), Aug. 20, 1996, 110 Stat. 1762, 1798, 1819; Pub. L. 105–33, title XI, § 11246(b)(2)(A), as added Pub. L. 105–277, div. A, § 101(h) [title VIII, § 802(a)(2)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–532; Pub. L. 105–61, title VI, § 642(d)(2), Oct. 10, 1997, 111 Stat. 1319; Pub. L. 105–206, title VI, § 6023(13), July 22, 1998, 112 Stat. 825; Pub. L. 106–554, § 1(a)(7) [title III, § 319(15)], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 108–121, title I, § 106(b)(2), Nov. 11, 2003, 117 Stat. 1339; Pub. L. 108–203, title IV, § 423(a), (c), Mar. 2, 2004, 118 Stat. 536; Pub. L. 108–357, title II, § 251(a)(1)(A), title III, § 320(b)(1), title VIII, § 802(c)(1), Oct. 22, 2004, 118 Stat. 1458, 1473, 1568; Pub. L. 108–375, div. A, title V, § 585(b)(2)(B), Oct. 28, 2004, 118 Stat. 1932; Pub. L. 109–280, title VIII, § 854(c)(8), Aug. 17, 2006, 120 Stat. 1018; Pub. L. 110–172, § 8(a)(2), Dec. 29, 2007, 121 Stat. 2483; Pub. L. 110–245, title I, § 115(a)(1), title III, § 302(a), June 17, 2008, 122 Stat. 1636, 1647; Pub. L. 110–458, title I, § 108(k)(1), Dec. 23, 2008, 122 Stat. 5110; Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(iv), (99)(C)(i), Dec. 19, 2014, 128 Stat. 4040, 4052; Pub. L. 115–141, div. U, title IV, § 401(a)(209), (210), (325)(A), Mar. 23, 2018, 132 Stat. 1194, 1199; Pub. L. 115–243, § 2(b)(2), Sept. 20, 2018, 132 Stat. 2895; Pub. L. 116–94, div. O, title III, § 301(c), Dec. 20, 2019, 133 Stat. 3175; Pub. L. 117–328, div. T, title VII, § 702(b)(1), Dec. 29, 2022, 136 Stat. 5404.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 417; Sept. 1, 1954, ch. 1206, title II, §§ 204(a), (b), 205(a)–(e), 206(a), 207, 209, 68 Stat. 1091–1094; Aug. 1, 1956, ch. 836, title I, §§ 103(j), 121(d), title II, §§ 201(b)–(d), (e)(1), (h)(1), (2), (j)–(*l*), 70 Stat. 824, 839–841, 843; Aug. 1, 1956, ch. 837, title IV, §§ 410, 411(a), 70 Stat. 878; Pub. L. 85–840, title IV, §§ 402(b), 404(a), 405(a), (b), Aug. 28, 1958, 72 Stat. 1042, 1044–1046; Pub. L. 85–866, title I, § 69, Sept. 2, 1958, 72 Stat. 1659; Pub. L. 86–70, § 22(a), June 25, 1959, 73 Stat. 146; Pub. L. 86–168, title I, § 104(h), title II, § 202(a), Aug. 18, 1959, 73 Stat. 387, 389; Pub. L. 86–624, § 18(c), July 12, 1960, 74 Stat. 416; Pub. L. 86–778, title I, §§ 103(n)–(p), 104(b), 105(a), Sept. 13, 1960, 74 Stat. 938, 939, 942; Pub. L. 87–256, § 110(e)(1), Sept. 21, 1961, 75 Stat. 536; Pub. L. 87–293, title II, § 202(a)(1), (2), Sept. 22, 1961, 75 Stat. 626; Pub. L. 88–272, title II, § 220(c)(2), Feb. 26, 1964, 78 Stat. 62; Pub. L. 88–650, § 4(b), Oct. 13, 1964, 78 Stat. 1077; Pub. L. 89–97, title III, §§ 311(b)(4), (5), 313(c)(3), (4), 316(a)(1), (b), 317(b), 320(b)(2), July 30, 1965, 79 Stat. 381, 383, 386, 388, 393; Pub. L. 90–248, title I, §§ 108(b)(2), 123(b), title IV, § 403(i), title V, § 504(a), Jan. 2, 1968, 81 Stat. 835, 845, 932, 934; Pub. L. 91–172, title IX, § 943(c)(1)–(3), Dec. 30, 1969, 83 Stat. 728; Pub. L. 92–5, title II, § 203(b)(2), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, § 203(b)(2), July 1, 1972, 86 Stat. 419; Pub. L. 92–603, title I, §§ 104(i), 122(b), 123(a)(2), (b), (c)(2), 128(b), 129(a)(2), 138(b), Oct. 30, 1972, 86 Stat. 1341, 1354, 1356, 1358, 1359, 1365; Pub. L. 93–66, title II, § 203(b)(2), (d), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, § 5(b)(2), (d), Dec. 31, 1973, 87 Stat. 954; Pub. L. 94–455, title XII, § 1207(e)(1)(A), title XIX, §§ 1903(a)(3), 1906(b)(13)(A), (C), Oct. 4, 1976, 90 Stat. 1706, 1807, 1834; Pub. L. 94–563, § 1(b), (c), Oct. 19, 1976, 90 Stat. 2655; Pub. L. 95–216, title III, §§ 312(a), (b), (d), (f), (g), 314(a), 315(a), 356(a)–(d), Dec. 20, 1977, 91 Stat. 1532–1536, 1555; Pub. L. 95–472, § 3(b), Oct. 17, 1978, 92 Stat. 1333; Pub. L. 95–600, title I, § 164(b)(3), Nov. 6, 1978, 92 Stat. 2814; Pub. L. 96–222, title I, § 101(a)(10)(B)(i), Apr. 1, 1980, 94 Stat. 201; Pub. L. 96–499, title XI, § 1141(a)(1), Dec. 5, 1980, 94 Stat. 2693; Pub. L. 97–34, title I, § 124(e)(2)(A), Aug. 13, 1981, 95 Stat. 200; Pub. L. 97–123, § 3(b), Dec. 29, 1981, 95 Stat. 1662; Pub. L. 97–248, title II, § 278(a)(1), Sept. 3, 1982, 96 Stat. 559; Pub. L. 98–21, title I, §§ 101(b), (c)(2), 102(b), title III, §§ 321(a), (e)(1), 322(a)(2), 323(a)(1), 324(a), 327(a)(1), (b)(1), 328(a), Apr. 20, 1983, 97 Stat. 69, 70, 118, 119, 121, 122, 126–128; Pub. L. 98–369, div. A, title I, § 67(c), title IV, § 491(d)(36), title V, § 531(d)(1)(A), div. B, title VI, §§ 2601(b), 2603(a)(2), (b), 2661(*o*)(3), 2663(i), (j)(5)(C), July 18, 1984, 98 Stat. 587, 851, 884, 1124, 1128, 1159, 1169, 1171; Pub. L. 99–221, § 3(b), Dec. 26, 1985, 99 Stat. 1735; Pub. L. 99–272, title XII, § 12112(b), title XIII, §§ 13205(a)(1), 13303(c)(2), Apr. 7, 1986, 100 Stat. 288, 313, 327; Pub. L. 99–335, title III, § 304(b), June 6, 1986, 100 Stat. 606; Pub. L. 99–509, title IX, § 9002(b)(1)(A), (2)(A), Oct. 21, 1986, 100 Stat. 1971; Pub. L. 99–514, title I, § 122(e)(1), title XI, §§ 1108(g)(7), 1147(b), 1151(d)(2)(A), title XVIII, §§ 1882(c), 1883(a)(11)(B), 1895(b)(18)(A), 1899A(38)–(40), Oct. 22, 1986, 100 Stat. 2112, 2435, 2494, 2505, 2915, 2916, 2935, 2960; Pub. L. 100–203, title IX, §§ 9001(b), 9002(b), 9003(a)(2), 9004(b), 9005(b), 9006(a), (b)(2), 9023(d), Dec. 22, 1987, 101 Stat. 1330–286 to 1330–289, 1330–296; Pub. L. 100–647, title I, §§ 1001(d)(2)(C)(i), (g)(4)(B)(i), 1011(e)(8), 1011B(a)(22)(A), (23)(A), 1018(r)(2)(A), (u)(35), title III, § 3043(c)(2), title VIII, §§ 8015(b)(2), (c)(2), 8016(a)(3)(A), (4)(A), (C), 8017(b), Nov. 10, 1988, 102 Stat. 3351, 3352, 3461, 3485, 3486, 3586, 3592, 3642, 3791–3793; Pub. L. 101–140, title II, § 203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title X, § 10201(a), (b)(3), Dec. 19, 1989, 103 Stat. 2472; Pub. L. 101–508, title XI, §§ 11331(a), 11332(b), Nov. 5, 1990, 104 Stat. 1388–467, 1388–469; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–318, title V, § 521(b)(34), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, § 13207(a), Aug. 10, 1993, 107 Stat. 467; Pub. L. 103–178, title II, § 204(c), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 103–296, title I, § 108(h)(2), title III, §§ 303(a)(2), (b)(2), 319(a)(1), (5), 320(a)(1)(C), Aug. 15, 1994, 108 Stat. 1487, 1519, 1533–1535; Pub. L. 103–387, § 2(a)(1)(A)–(C), Oct. 22, 1994, 108 Stat. 4071; Pub. L. 104–188, title I, §§ 1116(a)(1)(A), (B), 1421(b)(8)(A), 1458(b)(1), Aug. 20, 1996, 110 Stat. 1762, 1798, 1819; Pub. L. 105–33, title XI, § 11246(b)(2)(A), as added Pub. L. 105–277, div. A, § 101(h) [title VIII, § 802(a)(2)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–532; Pub. L. 105–61, title VI, § 642(d)(2), Oct. 10, 1997, 111 Stat. 1319; Pub. L. 105–206, title VI, § 6023(13), July 22, 1998, 112 Stat. 825; Pub. L. 106–554, § 1(a)(7) [title III, § 319(15)], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 108–121, title I, § 106(b)(2), Nov. 11, 2003, 117 Stat. 1339; Pub. L. 108–203, title IV, § 423(a), (c), Mar. 2, 2004, 118 Stat. 536; Pub. L. 108–357, title II, § 251(a)(1)(A), title III, § 320(b)(1), title VIII, § 802(c)(1), Oct. 22, 2004, 118 Stat. 1458, 1473, 1568; Pub. L. 108–375, div. A, title V, § 585(b)(2)(B), Oct. 28, 2004, 118 Stat. 1932; Pub. L. 109–280, title VIII, § 854(c)(8), Aug. 17, 2006, 120 Stat. 1018; Pub. L. 110–172, § 8(a)(2), Dec. 29, 2007, 121 Stat. 2483; Pub. L. 110–245, title I, § 115(a)(1), title III, § 302(a), June 17, 2008, 122 Stat. 1636, 1647; Pub. L. 110–458, title I, § 108(k)(1), Dec. 23, 2008, 122 Stat. 5110; Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(iv), (99)(C)(i), Dec. 19, 2014, 128 Stat. 4040, 4052; Pub. L. 115–141, div. U, title IV, § 401(a)(209), (210), (325)(A), Mar. 23, 2018, 132 Stat. 1194, 1199; Pub. L. 115–243, § 2(b)(2), Sept. 20, 2018, 132 Stat. 2895; Pub. L. 116–94, div. O, title III, § 301(c), Dec. 20, 2019, 133 Stat. 3175; Pub. L. 117–328, div. T, title VII, § 702(b)(1), Dec. 29, 2022, 136 Stat. 5404.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsecs. (a)(1), (15), (b), (d)(4), (j)(2)(D), (4)(B), (*l*)(1), (4), (6), (r)(3)(A), (u), (w)(1), and (x), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 201, 210, 215, 218, 218A, 223, 230, and 233 of the Act are classified to sections 401, 410, 415, 418, 418a, 423, 430, and 433, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a)(1), (15), (b), (d)(4), (j)(2)(D), (4)(B), (*l*)(1), (4), (6), (r)(3)(A), (u), (w)(1), and (x), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 201, 210, 215, 218, 218A, 223, 230, and 233 of the Act are classified to sections 401, 410, 415, 418, 418a, 423, 430, and 433, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 3(2)(B)(ii) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(5)(F), is classified to section 1002(2)(B)(ii) of Title 29, Labor.
 
@@ -1849,17 +1849,17 @@ Section 301 of the Federal Employees’ Retirement System Act of 1986, referred 
 
 The Federal Employees’ Retirement System Open Enrollment Act of 1997, referred to in subsec. (b)(5)(H)(i), is section 642 of Pub. L. 105–61, title VI, Oct. 10, 1997, 111 Stat. 1318, which is classified principally to a note under section 8331 of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Tables.
 
-The Foreign Service Act of 1980, referred to in subsec. (b)(5)(H)(ii), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Subchapter II of chapter 8 of title I of the Act is classified generally to part II (§ 4071 et seq.) of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. Section 860 of the Act is classified to section 4071i of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (b)(5)(H)(ii), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Subchapter II of chapter 8 of title I of the Act is classified generally to part II (§ 4071 et seq.) of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. Section 860 of the Act is classified to section 4071i of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 Section 101(a)(15) of the Immigration and Nationality Act, referred to in subsec. (b)(18), (19), is classified to section 1101(a)(15) of Title 8, Aliens and Nationality.
 
 Section 15(g) of the Agricultural Marketing Act, referred to in subsec. (g)(3), is classified to section 1141j of Title 12, Banks and Banking.
 
-The Peace Corps Act, referred to in subsecs. (i)(3) and (p), is Pub. L. 87–293, title I, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5 and 6 of the Peace Corps Act are classified to sections 2504 and 2505 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
+The Peace Corps Act, referred to in subsecs. (i)(3) and (p), is Pub. L. 87–293, title I, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5 and 6 of the Peace Corps Act are classified to sections 2504 and 2505 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
 Chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (j)(4)(B), was comprised of sections 1400 to 1636 of former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title. See also section 7851(a)(3) of this title for applicability of chapter 9 of former Title 26. See also section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
-The Military Selective Service Act, referred to in subsec. (n)(5)(B), is act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§ 3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Military Selective Service Act, referred to in subsec. (n)(5)(B), is act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§ 3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 **Constitutionality**
 
@@ -1871,263 +1871,263 @@ For information regarding constitutionality of certain provisions of this sectio
 
 2019—Subsec. (a)(23). Pub. L. 116–94 substituted “section 139B(a)” for “139B(b)”.
 
-2018—Subsec. (b)(5)(B)(i)(V). Pub. L. 115–141, § 401(a)(209), substituted “section 104(e)(2)” for “section 105(e)(2)”.
+2018—Subsec. (b)(5)(B)(i)(V). Pub. L. 115–141, § 401(a)(209), substituted “section 104(e)(2)” for “section 105(e)(2)”.
 
-Subsec. (b)(5)(E). Pub. L. 115–141, § 401(a)(325)(A), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+Subsec. (b)(5)(E). Pub. L. 115–141, § 401(a)(325)(A), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-Subsec. (b)(5)(H)(i). Pub. L. 115–141, § 401(a)(210), inserted comma after “1997”.
+Subsec. (b)(5)(H)(i). Pub. L. 115–141, § 401(a)(210), inserted comma after “1997”.
 
-Subsec. (b)(22). Pub. L. 115–243, § 2(b)(2)(A), added par. (22).
+Subsec. (b)(22). Pub. L. 115–243, § 2(b)(2)(A), added par. (22).
 
-Subsec. (d)(4). Pub. L. 115–243, § 2(b)(2)(B), inserted “or 218A” after “section 218”.
+Subsec. (d)(4). Pub. L. 115–243, § 2(b)(2)(B), inserted “or 218A” after “section 218”.
 
-2014—Subsec. (a)(17). Pub. L. 113–295, § 221(a)(19)(B)(iv), struck out par. (17) which read as follows: “any contribution, payment, or service provided by an employer which may be excluded from the gross income of an employee, his spouse, or his dependents, under the provisions of section 120 (relating to amounts received under qualified group legal services plans);”.
+2014—Subsec. (a)(17). Pub. L. 113–295, § 221(a)(19)(B)(iv), struck out par. (17) which read as follows: “any contribution, payment, or service provided by an employer which may be excluded from the gross income of an employee, his spouse, or his dependents, under the provisions of section 120 (relating to amounts received under qualified group legal services plans);”.
 
-Subsec. (b)(17). Pub. L. 113–295, § 221(a)(99)(C)(i), struck out par. (17) which read as follows: “service in the employ of any organization which is performed (A) in any year during any part of which such organization is registered, or there is in effect a final order of the Subversive Activities Control Board requiring such organization to register, under the Internal Security Act of 1950, as amended, as a Communist-action organization, a Communist-front organization, or a Communist-infiltrated organization, and (B) after June 30, 1956;”.
+Subsec. (b)(17). Pub. L. 113–295, § 221(a)(99)(C)(i), struck out par. (17) which read as follows: “service in the employ of any organization which is performed (A) in any year during any part of which such organization is registered, or there is in effect a final order of the Subversive Activities Control Board requiring such organization to register, under the Internal Security Act of 1950, as amended, as a Communist-action organization, a Communist-front organization, or a Communist-infiltrated organization, and (B) after June 30, 1956;”.
 
-2008—Subsec. (a)(23). Pub. L. 110–245, § 115(a)(1), added par. (23).
+2008—Subsec. (a)(23). Pub. L. 110–245, § 115(a)(1), added par. (23).
 
 Subsec. (b)(5)(E). Pub. L. 110–458 struck out “or special trial judge” before “of the United States Tax Court”.
 
-Subsec. (z). Pub. L. 110–245, § 302(a), added subsec. (z).
+Subsec. (z). Pub. L. 110–245, § 302(a), added subsec. (z).
 
-2007—Subsec. (v)(1)(A). Pub. L. 110–172, which directed amendment of subpar. (A) by inserting “or consisting of designated Roth contributions (as defined in section 402A(c))” before comma at end, was executed by making the insertion before “, or”, to reflect the probable intent of Congress.
+2007—Subsec. (v)(1)(A). Pub. L. 110–172, which directed amendment of subpar. (A) by inserting “or consisting of designated Roth contributions (as defined in section 402A(c))” before comma at end, was executed by making the insertion before “, or”, to reflect the probable intent of Congress.
 
 2006—Subsec. (b)(5)(E). Pub. L. 109–280 inserted “or special trial judge” before “of the United States Tax Court”.
 
-2004—Subsec. (a)(7)(B). Pub. L. 108–203, § 423(a), substituted “on a farm operated for profit” for “described in subsection (g)(5)”.
+2004—Subsec. (a)(7)(B). Pub. L. 108–203, § 423(a), substituted “on a farm operated for profit” for “described in subsection (g)(5)”.
 
 Subsec. (a)(18). Pub. L. 108–375 substituted “134(b)(4), or 134(b)(5)” for “or 134(b)(4)”.
 
-Subsec. (a)(20). Pub. L. 108–357, § 320(b)(1), inserted “108(f)(4),” after “74(c),”.
+Subsec. (a)(20). Pub. L. 108–357, § 320(b)(1), inserted “108(f)(4),” after “74(c),”.
 
-Subsec. (a)(22). Pub. L. 108–357, § 251(a)(1)(A), added par. (22).
+Subsec. (a)(22). Pub. L. 108–357, § 251(a)(1)(A), added par. (22).
 
-Subsec. (g)(5). Pub. L. 108–203, § 423(c), struck out “or is domestic service in a private home of the employer” after “employer’s trade or business”.
+Subsec. (g)(5). Pub. L. 108–203, § 423(c), struck out “or is domestic service in a private home of the employer” after “employer’s trade or business”.
 
-Subsec. (v)(2)(A). Pub. L. 108–357, § 802(c)(1), inserted “or to any specified stock compensation (as defined in section 4985) on which tax is imposed by section 4985” before period at end.
+Subsec. (v)(2)(A). Pub. L. 108–357, § 802(c)(1), inserted “or to any specified stock compensation (as defined in section 4985) on which tax is imposed by section 4985” before period at end.
 
-2003—Subsec. (a)(18). Pub. L. 108–121 substituted “, 129, or 134(b)(4)” for “or 129”.
+2003—Subsec. (a)(18). Pub. L. 108–121 substituted “, 129, or 134(b)(4)” for “or 129”.
 
 2000—Subsec. (a)(5)(G). Pub. L. 106–554 substituted a comma for the semicolon at end.
 
-1998—Subsec. (a)(5)(F). Pub. L. 105–206, § 6023(13)(A), which directed the substitution of a comma for the semicolon at end of subpar. (F), could not be executed because a semicolon did not appear at end of subpar. (F).
+1998—Subsec. (a)(5)(F). Pub. L. 105–206, § 6023(13)(A), which directed the substitution of a comma for the semicolon at end of subpar. (F), could not be executed because a semicolon did not appear at end of subpar. (F).
 
-Subsec. (a)(5)(G). Pub. L. 105–206, § 6023(13)(B), struck out “or” at end.
+Subsec. (a)(5)(G). Pub. L. 105–206, § 6023(13)(B), struck out “or” at end.
 
-Subsec. (a)(5)(I). Pub. L. 105–206, § 6023(13)(C), substituted a semicolon for the period at end.
+Subsec. (a)(5)(I). Pub. L. 105–206, § 6023(13)(C), substituted a semicolon for the period at end.
 
-Subsec. (b)(7)(C). Pub. L. 105–277 added Pub. L. 105–33, § 11246(b)(2)(A). See 1997 Amendment note below.
+Subsec. (b)(7)(C). Pub. L. 105–277 added Pub. L. 105–33, § 11246(b)(2)(A). See 1997 Amendment note below.
 
 1997—Subsec. (b)(5)(H)(i). Pub. L. 105–61 substituted “1986,” for “1986 or” and inserted “or the Federal Employees’ Retirement System Open Enrollment Act of 1997” after “(50 U.S.C. 2157),”.
 
-Subsec. (b)(7)(C). Pub. L. 105–33, § 11246(b)(2)(A), as added by Pub. L. 105–277, inserted “(other than the Federal Employees Retirement System provided in chapter 84 of title 5, United States Code)” after “law of the United States” in introductory provisions.
+Subsec. (b)(7)(C). Pub. L. 105–33, § 11246(b)(2)(A), as added by Pub. L. 105–277, inserted “(other than the Federal Employees Retirement System provided in chapter 84 of title 5, United States Code)” after “law of the United States” in introductory provisions.
 
-1996—Subsec. (a)(5)(F). Pub. L. 104–188, § 1421(b)(8)(A), struck out “or” at end.
+1996—Subsec. (a)(5)(F). Pub. L. 104–188, § 1421(b)(8)(A), struck out “or” at end.
 
-Subsec. (a)(5)(G). Pub. L. 104–188, § 1458(b)(1), which directed that subpar. (G) be amended by striking “(or)” at the end, could not be executed because “(or)” did not appear.
+Subsec. (a)(5)(G). Pub. L. 104–188, § 1458(b)(1), which directed that subpar. (G) be amended by striking “(or)” at the end, could not be executed because “(or)” did not appear.
 
-Pub. L. 104–188, § 1421(b)(8)(A), inserted “or” at end.
+Pub. L. 104–188, § 1421(b)(8)(A), inserted “or” at end.
 
-Subsec. (a)(5)(H). Pub. L. 104–188, § 1458(b)(1), inserted “or” at end.
+Subsec. (a)(5)(H). Pub. L. 104–188, § 1458(b)(1), inserted “or” at end.
 
-Pub. L. 104–188, § 1421(b)(8)(A), added subpar. (H).
+Pub. L. 104–188, § 1421(b)(8)(A), added subpar. (H).
 
-Subsec. (a)(5)(I). Pub. L. 104–188, § 1458(b)(1), added subpar. (I).
+Subsec. (a)(5)(I). Pub. L. 104–188, § 1458(b)(1), added subpar. (I).
 
-Subsec. (b). Pub. L. 104–188, § 1116(a)(1)(A), inserted closing provisions “For purposes of paragraph (20), the operating crew of a boat shall be treated as normally made up of fewer than 10 individuals if the average size of the operating crew on trips made during the preceding 4 calendar quarters consisted of fewer than 10 individuals.”
+Subsec. (b). Pub. L. 104–188, § 1116(a)(1)(A), inserted closing provisions “For purposes of paragraph (20), the operating crew of a boat shall be treated as normally made up of fewer than 10 individuals if the average size of the operating crew on trips made during the preceding 4 calendar quarters consisted of fewer than 10 individuals.”
 
-Subsec. (b)(20)(A). Pub. L. 104–188, § 1116(a)(1)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “such individual does not receive any cash remuneration (other than as provided in subparagraph (B)),”.
+Subsec. (b)(20)(A). Pub. L. 104–188, § 1116(a)(1)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “such individual does not receive any cash remuneration (other than as provided in subparagraph (B)),”.
 
-1994—Subsec. (a)(7)(B). Pub. L. 103–387, § 2(a)(1)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “cash remuneration paid by an employer in any calendar quarter to an employee for domestic service in a private home of the employer, if the cash remuneration paid in such quarter by the employer to the employee for such service is less than $50. As used in this subparagraph, the term ‘domestic service in a private home of the employer’ does not include service described in subsection (g)(5);”.
+1994—Subsec. (a)(7)(B). Pub. L. 103–387, § 2(a)(1)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “cash remuneration paid by an employer in any calendar quarter to an employee for domestic service in a private home of the employer, if the cash remuneration paid in such quarter by the employer to the employee for such service is less than $50. As used in this subparagraph, the term ‘domestic service in a private home of the employer’ does not include service described in subsection (g)(5);”.
 
-Subsec. (b)(7)(F)(iv). Pub. L. 103–296, § 303(a)(2), substituted “$1,000 with respect to service performed during any calendar year commencing on or after January 1, 1995, ending on or before December 31, 1999, and the adjusted amount determined under section 218(c)(8)(B) of the Social Security Act for any calendar year commencing on or after January 1, 2000, with respect to service performed during such calendar year” for “$100”.
+Subsec. (b)(7)(F)(iv). Pub. L. 103–296, § 303(a)(2), substituted “$1,000 with respect to service performed during any calendar year commencing on or after January 1, 1995, ending on or before December 31, 1999, and the adjusted amount determined under section 218(c)(8)(B) of the Social Security Act for any calendar year commencing on or after January 1, 2000, with respect to service performed during such calendar year” for “$100”.
 
-Subsec. (b)(10)(B). Pub. L. 103–296, § 108(h)(2), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
+Subsec. (b)(10)(B). Pub. L. 103–296, § 108(h)(2), substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
 
-Subsec. (b)(15). Pub. L. 103–296, § 319(a)(5), inserted “, except service which constitutes ‘employment’ under subsection (y)” after “international organization”.
+Subsec. (b)(15). Pub. L. 103–296, § 319(a)(5), inserted “, except service which constitutes ‘employment’ under subsection (y)” after “international organization”.
 
-Subsec. (b)(19). Pub. L. 103–296, § 320(a)(1)(C), substituted “(J), (M), or (Q)” for “(J), or (M)” in two places.
+Subsec. (b)(19). Pub. L. 103–296, § 320(a)(1)(C), substituted “(J), (M), or (Q)” for “(J), or (M)” in two places.
 
-Subsec. (b)(21). Pub. L. 103–387, § 2(a)(1)(C), added par. (21).
+Subsec. (b)(21). Pub. L. 103–387, § 2(a)(1)(C), added par. (21).
 
-Subsec. (u)(2)(B)(ii)(V). Pub. L. 103–296, § 303(b)(2), substituted “$1,000 with respect to service performed during any calendar year commencing on or after January 1, 1995, ending on or before December 31, 1999, and the adjusted amount determined under section 218(c)(8)(B) of the Social Security Act for any calendar year commencing on or after January 1, 2000, with respect to service performed during such calendar year” for “$100”.
+Subsec. (u)(2)(B)(ii)(V). Pub. L. 103–296, § 303(b)(2), substituted “$1,000 with respect to service performed during any calendar year commencing on or after January 1, 1995, ending on or before December 31, 1999, and the adjusted amount determined under section 218(c)(8)(B) of the Social Security Act for any calendar year commencing on or after January 1, 2000, with respect to service performed during such calendar year” for “$100”.
 
-Subsec. (x). Pub. L. 103–387, § 2(a)(1)(B), added subsec. (x).
+Subsec. (x). Pub. L. 103–387, § 2(a)(1)(B), added subsec. (x).
 
-Subsec. (y). Pub. L. 103–296, § 319(a)(1), added subsec. (y).
+Subsec. (y). Pub. L. 103–296, § 319(a)(1), added subsec. (y).
 
-1993—Subsec. (a)(1). Pub. L. 103–66, § 13207(a)(1), inserted “in the case of the taxes imposed by sections 3101(a) and 3111(a)” after “(1)”, substituted “contribution and benefit base (as determined under section 230 of the Social Security Act)” for “applicable contribution base (as determined under subsection (x))” in two places, and substituted “such contribution and benefit base” for “such applicable contribution base”.
+1993—Subsec. (a)(1). Pub. L. 103–66, § 13207(a)(1), inserted “in the case of the taxes imposed by sections 3101(a) and 3111(a)” after “(1)”, substituted “contribution and benefit base (as determined under section 230 of the Social Security Act)” for “applicable contribution base (as determined under subsection (x))” in two places, and substituted “such contribution and benefit base” for “such applicable contribution base”.
 
 Subsec. (b)(5)(H)(i). Pub. L. 103–178 substituted “section 307 of the Central Intelligence Agency Retirement Act (50 U.S.C. 2157)” for “section 307 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees”.
 
-Subsec. (x). Pub. L. 103–66, § 13207(a)(2), struck out subsec. (x) which defined parameters of the applicable contribution base for purposes of this chapter.
+Subsec. (x). Pub. L. 103–66, § 13207(a)(2), struck out subsec. (x) which defined parameters of the applicable contribution base for purposes of this chapter.
 
 1992—Subsec. (v)(1)(A). Pub. L. 102–318 substituted “402(e)(3)” for “402(a)(8)”.
 
-1990—Subsec. (a)(1). Pub. L. 101–508, § 11331(a)(1), substituted “applicable contribution base (as determined under subsection (x))” for “contribution and benefit base (as determined under section 230 of the Social Security Act)” wherever appearing and “such applicable contribution base” for “such contribution and benefit base”.
+1990—Subsec. (a)(1). Pub. L. 101–508, § 11331(a)(1), substituted “applicable contribution base (as determined under subsection (x))” for “contribution and benefit base (as determined under section 230 of the Social Security Act)” wherever appearing and “such applicable contribution base” for “such contribution and benefit base”.
 
-Subsec. (b)(7)(F). Pub. L. 101–508, § 11332(b), added subpar. (F).
+Subsec. (b)(7)(F). Pub. L. 101–508, § 11332(b), added subpar. (F).
 
-Subsec. (x). Pub. L. 101–508, § 11331(a)(2), added subsec. (x).
+Subsec. (x). Pub. L. 101–508, § 11331(a)(2), added subsec. (x).
 
-1989—Subsec. (*l*)(1). Pub. L. 101–239, § 10201(b)(3), substituted “paragraph (6)” for “paragraph (8)” in introductory provisions.
+1989—Subsec. (*l*)(1). Pub. L. 101–239, § 10201(b)(3), substituted “paragraph (6)” for “paragraph (8)” in introductory provisions.
 
-Subsec. (*l*)(2). Pub. L. 101–239, § 10201(a)(1), inserted at end “Notwithstanding any other provision of this subsection, the period for which any such agreement is effective with respect to any foreign entity shall terminate at the end of any calendar quarter in which the foreign entity, at any time in such quarter, ceases to be a foreign affiliate as defined in paragraph (6).”
+Subsec. (*l*)(2). Pub. L. 101–239, § 10201(a)(1), inserted at end “Notwithstanding any other provision of this subsection, the period for which any such agreement is effective with respect to any foreign entity shall terminate at the end of any calendar quarter in which the foreign entity, at any time in such quarter, ceases to be a foreign affiliate as defined in paragraph (6).”
 
-Subsec. (*l*)(3). Pub. L. 101–239, § 10201(a)(2), (3), added par. (3) and struck out former par. (3) relating to termination of period by American employer.
+Subsec. (*l*)(3). Pub. L. 101–239, § 10201(a)(2), (3), added par. (3) and struck out former par. (3) relating to termination of period by American employer.
 
-Subsec. (*l*)(4). Pub. L. 101–239, § 10201(a)(2), (4), redesignated par. (6) as (4) and struck out former par. (4) relating to termination of period by Secretary.
+Subsec. (*l*)(4). Pub. L. 101–239, § 10201(a)(2), (4), redesignated par. (6) as (4) and struck out former par. (4) relating to termination of period by Secretary.
 
-Subsec. (*l*)(5). Pub. L. 101–239, § 10201(a)(2), (4), redesignated par. (7) as (5) and struck out former par. (5) relating to no renewal of agreement.
+Subsec. (*l*)(5). Pub. L. 101–239, § 10201(a)(2), (4), redesignated par. (7) as (5) and struck out former par. (5) relating to no renewal of agreement.
 
-Subsec. (*l*)(6) to (10). Pub. L. 101–239, § 10201(a)(4), redesignated pars. (6) to (10) as (4) to (8), respectively.
+Subsec. (*l*)(6) to (10). Pub. L. 101–239, § 10201(a)(4), redesignated pars. (6) to (10) as (4) to (8), respectively.
 
-Subsec. (x). Pub. L. 101–140 amended this section to read as if amendments by Pub. L. 100–647, § 1011B(a)(22)(A), had not been enacted, see 1988 Amendment note below.
+Subsec. (x). Pub. L. 101–140 amended this section to read as if amendments by Pub. L. 100–647, § 1011B(a)(22)(A), had not been enacted, see 1988 Amendment note below.
 
-1988—Subsec. (a)(5)(G). Pub. L. 100–647, § 1011B(a)(23)(A), inserted “if such payment would not be treated as wages without regard to such plan and it is reasonable to believe that (if section 125 applied for purposes of this section) section 125 would not treat any wages as constructively received” after “section 125)”.
+1988—Subsec. (a)(5)(G). Pub. L. 100–647, § 1011B(a)(23)(A), inserted “if such payment would not be treated as wages without regard to such plan and it is reasonable to believe that (if section 125 applied for purposes of this section) section 125 would not treat any wages as constructively received” after “section 125)”.
 
-Subsec. (a)(8)(B). Pub. L. 100–647, § 8017(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “cash remuneration paid by an employer in any calendar year to an employee for agricultural labor unless (i) the cash remuneration paid in such year by the employer to the employee for such labor is $150 or more, or (ii) the employer’s expenditures for agricultural labor in such year equal or exceed $2,500;”.
+Subsec. (a)(8)(B). Pub. L. 100–647, § 8017(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “cash remuneration paid by an employer in any calendar year to an employee for agricultural labor unless (i) the cash remuneration paid in such year by the employer to the employee for such labor is $150 or more, or (ii) the employer’s expenditures for agricultural labor in such year equal or exceed $2,500;”.
 
-Subsec. (a)(11). Pub. L. 100–647, § 1001(g)(4)(B)(i), inserted “(determined without regard to section 274(n))” after “section 217”.
+Subsec. (a)(11). Pub. L. 100–647, § 1001(g)(4)(B)(i), inserted “(determined without regard to section 274(n))” after “section 217”.
 
-Subsec. (a)(21). Pub. L. 100–647, § 3043(c)(2), added par. (21).
+Subsec. (a)(21). Pub. L. 100–647, § 3043(c)(2), added par. (21).
 
-Subsec. (b)(5). Pub. L. 100–647, § 8015(c)(2), inserted “any such service performed on or after any date on which such individual performs” after “with respect to” in provision preceding subpar. (C).
+Subsec. (b)(5). Pub. L. 100–647, § 8015(c)(2), inserted “any such service performed on or after any date on which such individual performs” after “with respect to” in provision preceding subpar. (C).
 
-Subsec. (b)(5)(H). Pub. L. 100–647, § 8015(b)(2), amended subpar. (H) generally. Prior to amendment, subparagraph (H) read as follows: “service performed by an individual on or after the effective date of an election by such individual under section 301(a) of the Federal Employees’ Retirement System Act of 1986, or under regulations issued under section 860 of the Foreign Service Act of 1980 or section 307 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees, to become subject to chapter 84 of title 5, United States Code;”.
+Subsec. (b)(5)(H). Pub. L. 100–647, § 8015(b)(2), amended subpar. (H) generally. Prior to amendment, subparagraph (H) read as follows: “service performed by an individual on or after the effective date of an election by such individual under section 301(a) of the Federal Employees’ Retirement System Act of 1986, or under regulations issued under section 860 of the Foreign Service Act of 1980 or section 307 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees, to become subject to chapter 84 of title 5, United States Code;”.
 
-Subsec. (b)(19). Pub. L. 100–647, § 1001(d)(2)(C)(i), substituted “(F), (J), or (M)” for “(F) or (J)” in two places.
+Subsec. (b)(19). Pub. L. 100–647, § 1001(d)(2)(C)(i), substituted “(F), (J), or (M)” for “(F) or (J)” in two places.
 
-Subsec. (b)(20). Pub. L. 100–647, § 8016(a)(4)(A), (C), made technical correction to directory language of Pub. L. 99–272, § 13303(c)(2), see 1986 Amendment note below.
+Subsec. (b)(20). Pub. L. 100–647, § 8016(a)(4)(A), (C), made technical correction to directory language of Pub. L. 99–272, § 13303(c)(2), see 1986 Amendment note below.
 
-Subsec. (d)(3), (4). Pub. L. 100–647, § 8016(a)(3)(A), redesignated par. (4) as (3) and substituted “; or” for a period at the end, and redesignated par. (3) as (4), substituted a period for “; or” at the end, and moved redesignated par. (4) to the end of the subsection.
+Subsec. (d)(3), (4). Pub. L. 100–647, § 8016(a)(3)(A), redesignated par. (4) as (3) and substituted “; or” for a period at the end, and redesignated par. (3) as (4), substituted a period for “; or” at the end, and moved redesignated par. (4) to the end of the subsection.
 
-Subsec. (u)(2)(B)(ii)(VI). Pub. L. 100–647, § 1018(r)(2)(A), added subcl. (VI).
+Subsec. (u)(2)(B)(ii)(VI). Pub. L. 100–647, § 1018(r)(2)(A), added subcl. (VI).
 
-Subsec. (v)(3)(A). Pub. L. 100–647, § 1011(e)(8), substituted “457(f)(1)” for “457(e)(1)”.
+Subsec. (v)(3)(A). Pub. L. 100–647, § 1011(e)(8), substituted “457(f)(1)” for “457(e)(1)”.
 
-Subsec. (v)(3)(C). Pub. L. 100–647, § 1018(u)(35), substituted “Savings” for “Saving”.
+Subsec. (v)(3)(C). Pub. L. 100–647, § 1018(u)(35), substituted “Savings” for “Saving”.
 
-Subsec. (x). Pub. L. 100–647, § 1011B(a)(22)(A), added subsec. (x) relating to benefits provided under certain employee benefit plans.
+Subsec. (x). Pub. L. 100–647, § 1011B(a)(22)(A), added subsec. (x) relating to benefits provided under certain employee benefit plans.
 
-1987—Subsec. (a)(2)(C). Pub. L. 100–203, § 9003(a)(2), substituted “death, except that this paragraph does not apply to a payment for group-term life insurance to the extent that such payment is includible in the gross income of the employee” for “death”.
+1987—Subsec. (a)(2)(C). Pub. L. 100–203, § 9003(a)(2), substituted “death, except that this paragraph does not apply to a payment for group-term life insurance to the extent that such payment is includible in the gross income of the employee” for “death”.
 
-Subsec. (a)(5)(F). Pub. L. 100–203, § 9023(d)(1), substituted a comma for semicolon before “or” at end.
+Subsec. (a)(5)(F). Pub. L. 100–203, § 9023(d)(1), substituted a comma for semicolon before “or” at end.
 
-Subsec. (a)(5)(G). Pub. L. 100–203, § 9023(d)(2), substituted a semicolon for comma at end.
+Subsec. (a)(5)(G). Pub. L. 100–203, § 9023(d)(2), substituted a semicolon for comma at end.
 
-Subsec. (a)(8)(B)(ii). Pub. L. 100–203, § 9002(b), added cl. (ii) and struck out former cl. (ii) which read as follows: “the employee performs agricultural labor for the employer on 20 days or more during such year for cash remuneration computed on a time basis;”.
+Subsec. (a)(8)(B)(ii). Pub. L. 100–203, § 9002(b), added cl. (ii) and struck out former cl. (ii) which read as follows: “the employee performs agricultural labor for the employer on 20 days or more during such year for cash remuneration computed on a time basis;”.
 
-Subsec. (b)(3)(A). Pub. L. 100–203, § 9005(b)(1), substituted “18” for “21”.
+Subsec. (b)(3)(A). Pub. L. 100–203, § 9005(b)(1), substituted “18” for “21”.
 
-Pub. L. 100–203, § 9004(b)(1), struck out “performed by an individual in the employ of his spouse, and service” after “service”.
+Pub. L. 100–203, § 9004(b)(1), struck out “performed by an individual in the employ of his spouse, and service” after “service”.
 
-Subsec. (b)(3)(B). Pub. L. 100–203, § 9005(b)(2), inserted “under the age of 21 in the employ of his father or mother, or performed by an individual” after first reference to “individual”.
+Subsec. (b)(3)(B). Pub. L. 100–203, § 9005(b)(2), inserted “under the age of 21 in the employ of his father or mother, or performed by an individual” after first reference to “individual”.
 
-Pub. L. 100–203, § 9004(b)(2), inserted introductory provisions and struck out former introductory provisions which read as follows: “service not in the course of the employer’s trade or business, or domestic service in a private home of the employer, performed by an individual in the employ of his son or daughter; except that the provisions of this subparagraph shall not be applicable to such domestic service if—”.
+Pub. L. 100–203, § 9004(b)(2), inserted introductory provisions and struck out former introductory provisions which read as follows: “service not in the course of the employer’s trade or business, or domestic service in a private home of the employer, performed by an individual in the employ of his son or daughter; except that the provisions of this subparagraph shall not be applicable to such domestic service if—”.
 
-Subsec. (i)(2). Pub. L. 100–203, § 9001(b)(2), substituted “only (A) his basic pay as described in chapter 3 and section 1009 of title 37, United States Code, in the case of an individual performing service to which subparagraph (A) of such subsection (m)(1) applies, or (B) his compensation for such service as determined under section 206(a) of title 37, United States Code, in the case of an individual performing service to which subparagraph (B) of such subsection (m)(1) applies.” for “only his basic pay as described in chapter 3 and section 1009 of title 37, United States Code.”
+Subsec. (i)(2). Pub. L. 100–203, § 9001(b)(2), substituted “only (A) his basic pay as described in chapter 3 and section 1009 of title 37, United States Code, in the case of an individual performing service to which subparagraph (A) of such subsection (m)(1) applies, or (B) his compensation for such service as determined under section 206(a) of title 37, United States Code, in the case of an individual performing service to which subparagraph (B) of such subsection (m)(1) applies.” for “only his basic pay as described in chapter 3 and section 1009 of title 37, United States Code.”
 
-Subsec. (m)(1). Pub. L. 100–203, § 9001(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘employment’ shall, notwithstanding the provisions of subsection (b) of this section, include service performed by an individual as a member of a uniformed service on active duty; but such term shall not include any such service which is performed while on leave without pay.”
+Subsec. (m)(1). Pub. L. 100–203, § 9001(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘employment’ shall, notwithstanding the provisions of subsection (b) of this section, include service performed by an individual as a member of a uniformed service on active duty; but such term shall not include any such service which is performed while on leave without pay.”
 
-Subsec. (q). Pub. L. 100–203, § 9006(a), in heading substituted “both employee and employer taxes” for “employee taxes”, and in text struck out “other than for purposes of the taxes imposed by section 3111” after “of this chapter”, substituted “remuneration for such employment (and deemed to have been paid by the employer for purposes of subsections (a) and (b) of section 3111)” for “remuneration for employment”, and inserted before period at end “; except that, in determining the employer’s liability in connection with the taxes imposed by section 3111 with respect to such tips in any case where no statement including such tips was so furnished (or to the extent that the statement so furnished was inaccurate or incomplete), such remuneration shall be deemed for purposes of subtitle F to be paid on the date on which notice and demand for such taxes is made to the employer by the Secretary”.
+Subsec. (q). Pub. L. 100–203, § 9006(a), in heading substituted “both employee and employer taxes” for “employee taxes”, and in text struck out “other than for purposes of the taxes imposed by section 3111” after “of this chapter”, substituted “remuneration for such employment (and deemed to have been paid by the employer for purposes of subsections (a) and (b) of section 3111)” for “remuneration for employment”, and inserted before period at end “; except that, in determining the employer’s liability in connection with the taxes imposed by section 3111 with respect to such tips in any case where no statement including such tips was so furnished (or to the extent that the statement so furnished was inaccurate or incomplete), such remuneration shall be deemed for purposes of subtitle F to be paid on the date on which notice and demand for such taxes is made to the employer by the Secretary”.
 
-Subsec. (t). Pub. L. 100–203, § 9006(b)(2), struck out subsec. (t) which related to special rule for determining wages subject to employer tax in case of certain employers whose employees receive income from tips.
+Subsec. (t). Pub. L. 100–203, § 9006(b)(2), struck out subsec. (t) which related to special rule for determining wages subject to employer tax in case of certain employers whose employees receive income from tips.
 
-1986—Subsec. (a)(5)(C). Pub. L. 99–514, § 1108(g)(7), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “under a simplified employee pension if, at the time of the payment, it is reasonable to believe that the employee will be entitled to a deduction under section 219(b)(2) for such payment,”.
+1986—Subsec. (a)(5)(C). Pub. L. 99–514, § 1108(g)(7), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “under a simplified employee pension if, at the time of the payment, it is reasonable to believe that the employee will be entitled to a deduction under section 219(b)(2) for such payment,”.
 
-Subsec. (a)(5)(G). Pub. L. 99–514, § 1151(d)(2)(A), added subpar. (G).
+Subsec. (a)(5)(G). Pub. L. 99–514, § 1151(d)(2)(A), added subpar. (G).
 
-Subsec. (a)(8). Pub. L. 99–514, § 1883(a)(11)(B), realigned margin of subpar. (B).
+Subsec. (a)(8). Pub. L. 99–514, § 1883(a)(11)(B), realigned margin of subpar. (B).
 
-Subsec. (a)(20). Pub. L. 99–514, § 122(e)(1), inserted reference to section 74(c).
+Subsec. (a)(20). Pub. L. 99–514, § 122(e)(1), inserted reference to section 74(c).
 
 Subsec. (b)(5)(H). Pub. L. 99–335 added subpar. (H).
 
-Subsec. (b)(7)(E). Pub. L. 99–509, § 9002(b)(1)(A), added subpar. (E).
+Subsec. (b)(7)(E). Pub. L. 99–509, § 9002(b)(1)(A), added subpar. (E).
 
-Subsec. (b)(20). Pub. L. 99–272, § 13303(c)(2), as amended by Pub. L. 100–647, § 8016(a)(4)(A), (C), inserted “(other than service described in paragraph (3)(A))” after “service”.
+Subsec. (b)(20). Pub. L. 99–272, § 13303(c)(2), as amended by Pub. L. 100–647, § 8016(a)(4)(A), (C), inserted “(other than service described in paragraph (3)(A))” after “service”.
 
-Subsec. (d)(3), (4). Pub. L. 99–509, § 9002(b)(2)(A), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (d)(3), (4). Pub. L. 99–509, § 9002(b)(2)(A), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (i)(5). Pub. L. 99–272, § 12112(b), substituted “shall not include” for “shall, subject to the provisions of subsection (a)(1) of this section, include”.
+Subsec. (i)(5). Pub. L. 99–272, § 12112(b), substituted “shall not include” for “shall, subject to the provisions of subsection (a)(1) of this section, include”.
 
-Subsec. (u). Pub. L. 99–272, § 13205(a)(1), amended subsec. (u) generally, substantially expanding and revising its provisions by extending the application of hospital insurance tax to State and local employment.
+Subsec. (u). Pub. L. 99–272, § 13205(a)(1), amended subsec. (u) generally, substantially expanding and revising its provisions by extending the application of hospital insurance tax to State and local employment.
 
-Subsec. (u)(2)(B)(ii)(V). Pub. L. 99–514, § 1895(b)(18)(A), added subcl. (V).
+Subsec. (u)(2)(B)(ii)(V). Pub. L. 99–514, § 1895(b)(18)(A), added subcl. (V).
 
-Subsec. (v)(2)(A)(ii). Pub. L. 99–514, § 1899A(38), substituted “forfeiture” for “forefeiture”.
+Subsec. (v)(2)(A)(ii). Pub. L. 99–514, § 1899A(38), substituted “forfeiture” for “forefeiture”.
 
-Subsec. (v)(3)(C). Pub. L. 99–514, § 1147(b), added subpar. (C).
+Subsec. (v)(3)(C). Pub. L. 99–514, § 1147(b), added subpar. (C).
 
-Subsec. (w)(1). Pub. L. 99–514, § 1899A(39), substituted “this chapter” for “chapter 21 of this Code” in first sentence.
+Subsec. (w)(1). Pub. L. 99–514, § 1899A(39), substituted “this chapter” for “chapter 21 of this Code” in first sentence.
 
-Subsec. (w)(2). Pub. L. 99–514, § 1882(c), substituted last three sentences for former last two sentences which read as follows: “The election may not be revoked by the church or organization, but shall be permanently revoked by the Secretary if such church or organization fails to furnish the information required under section 6051 to the Secretary for a period of 2 years or more with respect to remuneration paid for such services by such church or organization, and, upon request by the Secretary, fails to furnish all such previously unfurnished information for the period covered by the election. Such revocation shall apply retroactively to the beginning of the 2-year period for which the information was not furnished.”
+Subsec. (w)(2). Pub. L. 99–514, § 1882(c), substituted last three sentences for former last two sentences which read as follows: “The election may not be revoked by the church or organization, but shall be permanently revoked by the Secretary if such church or organization fails to furnish the information required under section 6051 to the Secretary for a period of 2 years or more with respect to remuneration paid for such services by such church or organization, and, upon request by the Secretary, fails to furnish all such previously unfurnished information for the period covered by the election. Such revocation shall apply retroactively to the beginning of the 2-year period for which the information was not furnished.”
 
-Pub. L. 99–514, § 1899A(40), substituted “July 18, 1984” for “the date of the enactment of this subsection” in first sentence.
+Pub. L. 99–514, § 1899A(40), substituted “July 18, 1984” for “the date of the enactment of this subsection” in first sentence.
 
 1985—Subsec. (b)(5)(B)(i)(V). Pub. L. 99–221 added subcl. (V).
 
-1984—Subsec. (a). Pub. L. 98–369, § 531(d)(1)(A)(i), inserted “(including benefits)” before “paid in any medium” in introductory provisions.
+1984—Subsec. (a). Pub. L. 98–369, § 531(d)(1)(A)(i), inserted “(including benefits)” before “paid in any medium” in introductory provisions.
 
-Subsec. (a)(5)(C) to (G). Pub. L. 98–369, § 491(d)(36), struck out subpar. (C) which provided: “under or to a bond purchase plan which, at the time of such payment, is a qualified bond purchase plan described in section 405(a),” and redesignated subpars, (D) to (G) as (C) to (F), respectively.
+Subsec. (a)(5)(C) to (G). Pub. L. 98–369, § 491(d)(36), struck out subpar. (C) which provided: “under or to a bond purchase plan which, at the time of such payment, is a qualified bond purchase plan described in section 405(a),” and redesignated subpars, (D) to (G) as (C) to (F), respectively.
 
-Subsec. (a)(20). Pub. L. 98–369, § 531(d)(1)(A)(ii), added par. (20).
+Subsec. (a)(20). Pub. L. 98–369, § 531(d)(1)(A)(ii), added par. (20).
 
-Subsec. (b)(1). Pub. L. 98–369, § 2663(i)(1), struck out “(A) under contracts entered into in accordance with title V of the Agricultural Act of 1949, as amended (7 U.S.C. 1461–1468), or (B)”.
+Subsec. (b)(1). Pub. L. 98–369, § 2663(i)(1), struck out “(A) under contracts entered into in accordance with title V of the Agricultural Act of 1949, as amended (7 U.S.C. 1461–1468), or (B)”.
 
-Subsec. (b)(5)(B). Pub. L. 98–369, § 2601(b)(1), in amending subpar. (B) generally, substituted provision broadening social security coverage for newly hired Federal civilian employees effective with remuneration paid after Dec. 31, 1983, by providing that persons transferring from other government service to civilian service be covered under social security, unless the other service was in an international organization, or the person is returning to civilian service after temporary military or reserve duty and is exercising his reemployment rights under chapter 43 of title 38.
+Subsec. (b)(5)(B). Pub. L. 98–369, § 2601(b)(1), in amending subpar. (B) generally, substituted provision broadening social security coverage for newly hired Federal civilian employees effective with remuneration paid after Dec. 31, 1983, by providing that persons transferring from other government service to civilian service be covered under social security, unless the other service was in an international organization, or the person is returning to civilian service after temporary military or reserve duty and is exercising his reemployment rights under chapter 43 of title 38.
 
-Subsec. (b)(5)(C) to (G). Pub. L. 98–369, § 2601(b)(2), substituted subpar. designations (C) to (G) for former designations (i) to (v), respectively, in subpar. (D), as so redesignated, redesignated cls. (I) to (III) as (i) to (iii), respectively, and amended generally, subpar. (G), as so redesignated, designating provision relating to service performed by an individual who is not subject to subchapter III of chapter 83 of title 5 as cl. (i), and in cl. (i) as so designated, inserting reference to another retirement system established by a law of the United States for Federal employees, other than for members of the uniformed services and adding cls. (ii) and (iii), and provision for determining for purposes of this subparagraph whether an individual is subject to subchapter III of chapter 83 of title 5 or any other retirement system.
+Subsec. (b)(5)(C) to (G). Pub. L. 98–369, § 2601(b)(2), substituted subpar. designations (C) to (G) for former designations (i) to (v), respectively, in subpar. (D), as so redesignated, redesignated cls. (I) to (III) as (i) to (iii), respectively, and amended generally, subpar. (G), as so redesignated, designating provision relating to service performed by an individual who is not subject to subchapter III of chapter 83 of title 5 as cl. (i), and in cl. (i) as so designated, inserting reference to another retirement system established by a law of the United States for Federal employees, other than for members of the uniformed services and adding cls. (ii) and (iii), and provision for determining for purposes of this subparagraph whether an individual is subject to subchapter III of chapter 83 of title 5 or any other retirement system.
 
-Subsec. (b)(8). Pub. L. 98–369, § 2603(a)(2), designated existing provisions as subpar. (A), substituted “this subparagraph” for “this paragraph”, and added subpar. (B).
+Subsec. (b)(8). Pub. L. 98–369, § 2603(a)(2), designated existing provisions as subpar. (A), substituted “this subparagraph” for “this paragraph”, and added subpar. (B).
 
-Subsec. (b)(10)(B). Pub. L. 98–369, § 2663(j)(5)(C), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+Subsec. (b)(10)(B). Pub. L. 98–369, § 2663(j)(5)(C), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
-Subsec. (i)(2). Pub. L. 98–369, § 2663(i)(2), substituted “chapter 3 and section 1009 of title 37, United States Code” for “section 102(10) of the Servicemen’s and Veterans’ Survivor Benefits Act”.
+Subsec. (i)(2). Pub. L. 98–369, § 2663(i)(2), substituted “chapter 3 and section 1009 of title 37, United States Code” for “section 102(10) of the Servicemen’s and Veterans’ Survivor Benefits Act”.
 
-Subsec. (m)(2). Pub. L. 98–369, § 2663(i)(3), substituted “paragraph (21) of section 101 of title 38, United States Code” for “section 102 of the Servicemen’s and Veterans’ Survivor Benefits Act” and “paragraph (22) of such section” for “such section”.
+Subsec. (m)(2). Pub. L. 98–369, § 2663(i)(3), substituted “paragraph (21) of section 101 of title 38, United States Code” for “section 102 of the Servicemen’s and Veterans’ Survivor Benefits Act” and “paragraph (22) of such section” for “such section”.
 
-Subsec. (m)(3). Pub. L. 98–369, § 2663(i)(4), substituted “paragraph (23) of such section 101” for “such section 102”.
+Subsec. (m)(3). Pub. L. 98–369, § 2663(i)(4), substituted “paragraph (23) of such section 101” for “such section 102”.
 
-Subsec. (n). Pub. L. 98–369, § 2663(i)(5), in provision preceding par. (1) substituted “a reserve component as defined in section 101(27) of title 38, United States Code” for “a reserve component of a uniformed service as defined in section 102(3) of the Servicemen’s and Veterans’ Survivor Benefits Act”, and inserted “, the National Oceanic and Atmospheric Administration Corps,”.
+Subsec. (n). Pub. L. 98–369, § 2663(i)(5), in provision preceding par. (1) substituted “a reserve component as defined in section 101(27) of title 38, United States Code” for “a reserve component of a uniformed service as defined in section 102(3) of the Servicemen’s and Veterans’ Survivor Benefits Act”, and inserted “, the National Oceanic and Atmospheric Administration Corps,”.
 
-Subsec. (n)(5). Pub. L. 98–369, § 2663(i)(5)(C), substituted “military, naval, or air” for “military or naval” in two places.
+Subsec. (n)(5). Pub. L. 98–369, § 2663(i)(5)(C), substituted “military, naval, or air” for “military or naval” in two places.
 
-Subsec. (n)(5)(B). Pub. L. 98–369, § 2663(i)(5)(D), substituted “Military Selective Service Act” for “Universal Military Training and Service Act”.
+Subsec. (n)(5)(B). Pub. L. 98–369, § 2663(i)(5)(D), substituted “Military Selective Service Act” for “Universal Military Training and Service Act”.
 
-Subsec. (v)(1)(B). Pub. L. 98–369, § 2661(*o*)(3), substituted “section 414(h)(2) where the pick up referred to in such section is pursuant to a salary reduction agreement (whether evidenced by a written instrument or otherwise)” for “section 414(h)(2)”.
+Subsec. (v)(1)(B). Pub. L. 98–369, § 2661(*o*)(3), substituted “section 414(h)(2) where the pick up referred to in such section is pursuant to a salary reduction agreement (whether evidenced by a written instrument or otherwise)” for “section 414(h)(2)”.
 
-Subsec. (v)(2)(A). Pub. L. 98–369, § 67(c), inserted provision that the preceding sentence shall not apply to any excess parachute payment (as defined in section 2801G(b)).
+Subsec. (v)(2)(A). Pub. L. 98–369, § 67(c), inserted provision that the preceding sentence shall not apply to any excess parachute payment (as defined in section 2801G(b)).
 
-Subsec. (w). Pub. L. 98–369, § 2603(b), added subsec. (w).
+Subsec. (w). Pub. L. 98–369, § 2603(b), added subsec. (w).
 
-1983—Subsec. (a). Pub. L. 98–21, § 327(b)(1), inserted in text following last numbered paragraph a provision that nothing in the regulations prescribed for purposes of chapter 24 (relating to income tax withholding) which provides an exclusion from “wages” as used in such chapter shall be construed to require a similar exclusion from “wages” in regulations prescribed for purposes of this chapter.
+1983—Subsec. (a). Pub. L. 98–21, § 327(b)(1), inserted in text following last numbered paragraph a provision that nothing in the regulations prescribed for purposes of chapter 24 (relating to income tax withholding) which provides an exclusion from “wages” as used in such chapter shall be construed to require a similar exclusion from “wages” in regulations prescribed for purposes of this chapter.
 
-Pub. L. 98–21, § 324(a)(3)(D), substituted reference to subpar. (A) of par. (2) for reference to subpar. (B) thereof in text following last numbered paragraph.
+Pub. L. 98–21, § 324(a)(3)(D), substituted reference to subpar. (A) of par. (2) for reference to subpar. (B) thereof in text following last numbered paragraph.
 
-Subsec. (a)(2). Pub. L. 98–21, § 324(a)(3)(A), struck out “(A) retirement, or”, and redesignated subpars. (B) to (D) as (A) to (C), respectively.
+Subsec. (a)(2). Pub. L. 98–21, § 324(a)(3)(A), struck out “(A) retirement, or”, and redesignated subpars. (B) to (D) as (A) to (C), respectively.
 
-Subsec. (a)(3). Pub. L. 98–21, § 324(a)(3)(B), struck out par. (3) which related to any payment made to an employee (including any amount paid by an employer for insurance or annuities, or into a fund, to provide for any such payment) on account of retirement.
+Subsec. (a)(3). Pub. L. 98–21, § 324(a)(3)(B), struck out par. (3) which related to any payment made to an employee (including any amount paid by an employer for insurance or annuities, or into a fund, to provide for any such payment) on account of retirement.
 
-Subsec. (a)(5)(D). Pub. L. 98–21, § 328(a), substituted “section 219(b)(2)” for “section 219”.
+Subsec. (a)(5)(D). Pub. L. 98–21, § 328(a), substituted “section 219(b)(2)” for “section 219”.
 
-Subsec. (a)(5)(E) to (G). Pub. L. 98–21, § 324(a)(2), added subpars. (E) to (G).
+Subsec. (a)(5)(E) to (G). Pub. L. 98–21, § 324(a)(2), added subpars. (E) to (G).
 
-Subsec. (a)(9). Pub. L. 98–21, § 324(a)(3)(B), struck out par. (9) which related to any payment (other than vacation or sick pay) made to an employee after the month in which he attained age 62, if such employee did not work for the employer in the period for which such payment was made.
+Subsec. (a)(9). Pub. L. 98–21, § 324(a)(3)(B), struck out par. (9) which related to any payment (other than vacation or sick pay) made to an employee after the month in which he attained age 62, if such employee did not work for the employer in the period for which such payment was made.
 
-Subsec. (a)(13)(A)(iii). Pub. L. 98–21, § 324(a)(3)(C), struck out cl. (iii) which related to the case of retirement after attaining an age specified in the plan referred to in subparagraph (B) or in a pension plan of the employer.
+Subsec. (a)(13)(A)(iii). Pub. L. 98–21, § 324(a)(3)(C), struck out cl. (iii) which related to the case of retirement after attaining an age specified in the plan referred to in subparagraph (B) or in a pension plan of the employer.
 
-Subsec. (a)(19). Pub. L. 98–21, § 327(a)(1), added par. (19).
+Subsec. (a)(19). Pub. L. 98–21, § 327(a)(1), added par. (19).
 
-Subsec. (b). Pub. L. 98–21, § 323(a)(1), substituted “a citizen or resident of the United States” for “a citizen of the United States” in text preceding par. (1).
+Subsec. (b). Pub. L. 98–21, § 323(a)(1), substituted “a citizen or resident of the United States” for “a citizen of the United States” in text preceding par. (1).
 
-Pub. L. 98–21, § 322(a)(2), added cl. (C) in text preceding par. (1).
+Pub. L. 98–21, § 322(a)(2), added cl. (C) in text preceding par. (1).
 
-Subsec. (b)(5). Pub. L. 98–21, § 101(b)(1), amended par. (5) generally. Prior to amendment par. (5) read as follows: “Service performed in the employ of any instrumentality of the United States, if such instrumentality is exempt from the tax imposed by section 3111 by virtue of any provision of law which specifically refers to such section (or the corresponding section of prior law) in granting such exemption;”.
+Subsec. (b)(5). Pub. L. 98–21, § 101(b)(1), amended par. (5) generally. Prior to amendment par. (5) read as follows: “Service performed in the employ of any instrumentality of the United States, if such instrumentality is exempt from the tax imposed by section 3111 by virtue of any provision of law which specifically refers to such section (or the corresponding section of prior law) in granting such exemption;”.
 
-Subsec. (b)(6). Pub. L. 98–21, § 101(b)(1), amended par. (6) generally. Prior to amendment par. (6) read as follows:
+Subsec. (b)(6). Pub. L. 98–21, § 101(b)(1), amended par. (6) generally. Prior to amendment par. (6) read as follows:
 
 “(A) service performed in the employ of the United States or in the employ of any instrumentality of the United States, if such service is covered by a retirement system established by a law of the United States;
 
@@ -2157,35 +2157,35 @@ Subsec. (b)(6). Pub. L. 98–21, § 101(b)(1), amended par. (6) generally. Pri
 
 “(vi) by any individual to whom subchapter III of chapter 83 of title 5, United States Code, does not apply because such individual is subject to another retirement system (other than the retirement system of the Tennessee Valley Authority);”.
 
-Subsec. (b)(8). Pub. L. 98–21, § 102(b)(1), struck out the subpar. (A) designation preceding “service performed”, struck out subpar. (B) which related to service performed by employees of nonprofit organizations, and in par. (8), as so designated substituted “except that this paragraph shall not apply” for “except that this subparagraph shall not apply”.
+Subsec. (b)(8). Pub. L. 98–21, § 102(b)(1), struck out the subpar. (A) designation preceding “service performed”, struck out subpar. (B) which related to service performed by employees of nonprofit organizations, and in par. (8), as so designated substituted “except that this paragraph shall not apply” for “except that this subparagraph shall not apply”.
 
-Subsec. (i)(5). Pub. L. 98–21, § 101(c)(2), added par. (5).
+Subsec. (i)(5). Pub. L. 98–21, § 101(c)(2), added par. (5).
 
-Subsec. (k). Pub. L. 98–21, § 102(b)(2), struck out subsec. (k) which related to exemption of religious, charitable and certain other organizations.
+Subsec. (k). Pub. L. 98–21, § 102(b)(2), struck out subsec. (k) which related to exemption of religious, charitable and certain other organizations.
 
-Subsec. (*l*). Pub. L. 98–21, § 321(a)(1), substituted “Agreements entered into by American employers with respect to foreign affiliates” for “Agreements entered into by domestic corporations with respect to foreign subsidiaries” in heading.
+Subsec. (*l*). Pub. L. 98–21, § 321(a)(1), substituted “Agreements entered into by American employers with respect to foreign affiliates” for “Agreements entered into by domestic corporations with respect to foreign subsidiaries” in heading.
 
-Subsec. (*l*)(1). Pub. L. 98–21, § 321(a)(1), substituted “affiliates” for “subsidiaries” in par. (1) heading, and in first sentence of provisions preceding subpar. (A), substituted “at the American employer’s request” for “at the request of any domestic corporation”, “any American employer (as defined in subsection (h)) who” for “any such corporation which”, “such manner and form” for “such form and manner”, and “affiliates” for “subsidiaries” after “such employer’s foreign”, and inserted “or residents” after “citizens”.
+Subsec. (*l*)(1). Pub. L. 98–21, § 321(a)(1), substituted “affiliates” for “subsidiaries” in par. (1) heading, and in first sentence of provisions preceding subpar. (A), substituted “at the American employer’s request” for “at the request of any domestic corporation”, “any American employer (as defined in subsection (h)) who” for “any such corporation which”, “such manner and form” for “such form and manner”, and “affiliates” for “subsidiaries” after “such employer’s foreign”, and inserted “or residents” after “citizens”.
 
-Pub. L. 98–21, § 321(e)(1), substituted “American employer” for “domestic corporation”, “affiliate” for “subsidiary” and “citizens or residents” for “citizens” wherever appearing in second and third sentences of provisions preceding subpar. (A) and substituted “American employer” for “domestic corporation” in subpars. (A) and (B).
+Pub. L. 98–21, § 321(e)(1), substituted “American employer” for “domestic corporation”, “affiliate” for “subsidiary” and “citizens or residents” for “citizens” wherever appearing in second and third sentences of provisions preceding subpar. (A) and substituted “American employer” for “domestic corporation” in subpars. (A) and (B).
 
-Subsec. (*l*)(2) to (5). Pub. L. 98–21, § 321(e)(1), substituted, wherever appearing, “American employer” for “domestic corporation”, “American employers” for “domestic corporations”, “affiliate” for “subsidiary”, “affiliates” for “subsidiaries”, “foreign entity” for “foreign corporation”, “foreign entities” for “foreign corporations”, and “citizens or residents” for “citizens”.
+Subsec. (*l*)(2) to (5). Pub. L. 98–21, § 321(e)(1), substituted, wherever appearing, “American employer” for “domestic corporation”, “American employers” for “domestic corporations”, “affiliate” for “subsidiary”, “affiliates” for “subsidiaries”, “foreign entity” for “foreign corporation”, “foreign entities” for “foreign corporations”, and “citizens or residents” for “citizens”.
 
-Subsec. (*l*)(8). Pub. L. 98–21, § 321(a)(2), amended par. (8) generally, substituting provision defining a foreign affiliate for provision defining a foreign subsidiary of a domestic corporation which, for the purposes of this subsection and section 210(a) of the Social Security Act, had been defined as a foreign corporation not less than 20 percent of the voting stock of which was owned by such domestic corporation, or a foreign corporation more than 50 percent of the voting stock of which was owned by the foreign corporation described above.
+Subsec. (*l*)(8). Pub. L. 98–21, § 321(a)(2), amended par. (8) generally, substituting provision defining a foreign affiliate for provision defining a foreign subsidiary of a domestic corporation which, for the purposes of this subsection and section 210(a) of the Social Security Act, had been defined as a foreign corporation not less than 20 percent of the voting stock of which was owned by such domestic corporation, or a foreign corporation more than 50 percent of the voting stock of which was owned by the foreign corporation described above.
 
-Subsec. (*l*)(9), (10). Pub. L. 98–21, § 321(e)(1), substituted, wherever appearing, “American employer” for “domestic corporation”, “American employers” for “domestic corporations”, and “foreign entities” for “foreign corporations”.
+Subsec. (*l*)(9), (10). Pub. L. 98–21, § 321(e)(1), substituted, wherever appearing, “American employer” for “domestic corporation”, “American employers” for “domestic corporations”, and “foreign entities” for “foreign corporations”.
 
-Subsec. (r)(3)(A). Pub. L. 98–21, § 102(b)(3)(A), substituted “subsection (b)(8)” and “section 210(a)(8)” for “subsection (b)(8)(A)” and “section 210(a)(8)(A)”, respectively, in provisions preceding cl. (i).
+Subsec. (r)(3)(A). Pub. L. 98–21, § 102(b)(3)(A), substituted “subsection (b)(8)” and “section 210(a)(8)” for “subsection (b)(8)(A)” and “section 210(a)(8)(A)”, respectively, in provisions preceding cl. (i).
 
-Subsec. (r)(4). Pub. L. 98–21, § 102(b)(3)(B), struck out par. (4) which related to coordination with coverage of lay employees.
+Subsec. (r)(4). Pub. L. 98–21, § 102(b)(3)(B), struck out par. (4) which related to coordination with coverage of lay employees.
 
-Subsec. (u)(1). Pub. L. 98–21, § 101(b)(2), substituted “sections 3101(b) and 3111(b), subsection (b) shall be applied without regard to paragraph (5) thereof” for “sections 3101(b) and 3111(b)—
+Subsec. (u)(1). Pub. L. 98–21, § 101(b)(2), substituted “sections 3101(b) and 3111(b), subsection (b) shall be applied without regard to paragraph (5) thereof” for “sections 3101(b) and 3111(b)—
 
 “(A) paragraph (6) of subsection (b) shall be applied without regard to subparagraphs (A), (B), and (C)(i), (ii), and (vi) thereof, and
 
 “(B) paragraph (5) of subsection (b) (and the provisions of law referred to therein) shall not apply”.
 
-Subsec. (v). Pub. L. 98–21, § 324(a)(1), added subsec. (v).
+Subsec. (v). Pub. L. 98–21, § 324(a)(1), added subsec. (v).
 
 1982—Subsec. (u). Pub. L. 97–248 added subsec. (u).
 
@@ -2201,125 +2201,125 @@ Subsec. (a)(6). Pub. L. 96–499 struck out “(or the corresponding section of 
 
 Subsec. (a)(18). Pub. L. 95–600 added par. (18).
 
-1977—Subsec. (a)(7)(C), (10). Pub. L. 95–216, § 356(a), substituted “year” for “quarter” and “$100” for “$50”, wherever appearing.
+1977—Subsec. (a)(7)(C), (10). Pub. L. 95–216, § 356(a), substituted “year” for “quarter” and “$100” for “$50”, wherever appearing.
 
-Subsec. (a)(16). Pub. L. 95–216, § 356(b), added par. (16).
+Subsec. (a)(16). Pub. L. 95–216, § 356(b), added par. (16).
 
-Subsec. (b)(10). Pub. L. 95–216, § 356(c), struck out subpar. (A) which related to service performed in any calendar quarter in the employ of any organization exempt from income tax under section 501(a) (other than an organization described in section 401(a) or under section 521, if the remuneration for such service was less than $50, struck out the designation “(B)” preceding the remainder of par. (10), and redesignated former cls. (i) and (ii) of former subpar. (B) as subpars. (A) and (B).
+Subsec. (b)(10). Pub. L. 95–216, § 356(c), struck out subpar. (A) which related to service performed in any calendar quarter in the employ of any organization exempt from income tax under section 501(a) (other than an organization described in section 401(a) or under section 521, if the remuneration for such service was less than $50, struck out the designation “(B)” preceding the remainder of par. (10), and redesignated former cls. (i) and (ii) of former subpar. (B) as subpars. (A) and (B).
 
-Subsecs. (b)(17)(A), (g)(4)(B). Pub. L. 95–216, § 356(d), substituted “year” for “quarter”.
+Subsecs. (b)(17)(A), (g)(4)(B). Pub. L. 95–216, § 356(d), substituted “year” for “quarter”.
 
-Subsec. (k)(4)(A). Pub. L. 95–216, § 312(b)(2), (f), substituted “(or, if later, as of the earliest date on which it satisfies clause (ii) of this subparagraph)” for “or any subsequent date” in cl. (i) and, in provisions following cl. (ii), inserted “(subject to subparagraph (C))” after “effective”.
+Subsec. (k)(4)(A). Pub. L. 95–216, § 312(b)(2), (f), substituted “(or, if later, as of the earliest date on which it satisfies clause (ii) of this subparagraph)” for “or any subsequent date” in cl. (i) and, in provisions following cl. (ii), inserted “(subject to subparagraph (C))” after “effective”.
 
-Subsec. (k)(4)(B)(ii). Pub. L. 95–216, § 312(b)(4), substituted “first day of the calendar quarter” for “date”.
+Subsec. (k)(4)(B)(ii). Pub. L. 95–216, § 312(b)(4), substituted “first day of the calendar quarter” for “date”.
 
-Subsec. (k)(4)(B)(iii). Pub. L. 95–216, § 312(g), added cl. (iii).
+Subsec. (k)(4)(B)(iii). Pub. L. 95–216, § 312(g), added cl. (iii).
 
-Subsec. (k)(4)(C). Pub. L. 95–216, § 312(b)(1), added subpar. (C).
+Subsec. (k)(4)(C). Pub. L. 95–216, § 312(b)(1), added subpar. (C).
 
-Subsec. (k)(5). Pub. L. 95–216, § 312(a)(1), substituted “prior to April 1, 1978,” for “prior to the expiration of 180 days after the date of the enactment of this paragraph,” in subpar. (B), and, in provisions following subpar. (B), substituted “April 1, 1978” for “the 181st day after the date of enactment of this paragraph” and substituted “April 1, 1978,” for “such 181st day”.
+Subsec. (k)(5). Pub. L. 95–216, § 312(a)(1), substituted “prior to April 1, 1978,” for “prior to the expiration of 180 days after the date of the enactment of this paragraph,” in subpar. (B), and, in provisions following subpar. (B), substituted “April 1, 1978” for “the 181st day after the date of enactment of this paragraph” and substituted “April 1, 1978,” for “such 181st day”.
 
-Subsec. (k)(6). Pub. L. 95–216, § 312(b)(3), inserted “(except as provided in paragraph (4)(C))” after “services involved” in introductory provisions.
+Subsec. (k)(6). Pub. L. 95–216, § 312(b)(3), inserted “(except as provided in paragraph (4)(C))” after “services involved” in introductory provisions.
 
-Subsec. (k)(7). Pub. L. 95–216, § 312(a)(2), substituted “prior to April 1, 1978,” for “prior to the expiration of 180 days after the date of the enactment of this paragraph”, “April 1, 1978,” for “the 181st day after such date,” and “prior to that date” for “prior to the first day of the calendar quarter in which such 181st day occurs”.
+Subsec. (k)(7). Pub. L. 95–216, § 312(a)(2), substituted “prior to April 1, 1978,” for “prior to the expiration of 180 days after the date of the enactment of this paragraph”, “April 1, 1978,” for “the 181st day after such date,” and “prior to that date” for “prior to the first day of the calendar quarter in which such 181st day occurs”.
 
-Subsec. (k)(8). Pub. L. 95–216, § 312(a)(3), (d), amended par. (8) first by substituting “prior to April 1, 1978,” for “by the end of the 180-day period following the date of the enactment of this paragraph”, “prior to April 1, 1978” for “within that period”, and “on that date” for “on the 181st day following that date”, and then further amending par. (8) as so amended by dividing the existing provisions into introductory provisions, subpar. (B), and closing provisions, inserting subpars. (A) and (C), substituting “by March 31, 1978” for “prior to April 1, 1978”, “by that date” for “prior to April 1, 1978”, and “on April 1, 1978” for “on that date” in subpar. (B) as so redesignated, and, in closing provisions, inserting “, or with respect to service constituting employment by reason of such request,” after “in which the date of such filing or constructive filing occurs”.
+Subsec. (k)(8). Pub. L. 95–216, § 312(a)(3), (d), amended par. (8) first by substituting “prior to April 1, 1978,” for “by the end of the 180-day period following the date of the enactment of this paragraph”, “prior to April 1, 1978” for “within that period”, and “on that date” for “on the 181st day following that date”, and then further amending par. (8) as so amended by dividing the existing provisions into introductory provisions, subpar. (B), and closing provisions, inserting subpars. (A) and (C), substituting “by March 31, 1978” for “prior to April 1, 1978”, “by that date” for “prior to April 1, 1978”, and “on April 1, 1978” for “on that date” in subpar. (B) as so redesignated, and, in closing provisions, inserting “, or with respect to service constituting employment by reason of such request,” after “in which the date of such filing or constructive filing occurs”.
 
-Subsec. (s). Pub. L. 95–216, § 314(a), added subsec. (s).
+Subsec. (s). Pub. L. 95–216, § 314(a), added subsec. (s).
 
-Subsec. (t). Pub. L. 95–216, § 315(a), added subsec. (t).
+Subsec. (t). Pub. L. 95–216, § 315(a), added subsec. (t).
 
-1976—Subsec. (b). Pub. L. 94–455, § 1903(a)(3)(A), substituted “, of whatever nature, performed” for “performed after 1936 and prior to 1955 which was employment for purposes of subchapter A of chapter 9 of the Internal Revenue Code of 1939 under the law applicable to the period in which such service was performed, and any service, of whatever nature, performed after 1954” in introductory text.
+1976—Subsec. (b). Pub. L. 94–455, § 1903(a)(3)(A), substituted “, of whatever nature, performed” for “performed after 1936 and prior to 1955 which was employment for purposes of subchapter A of chapter 9 of the Internal Revenue Code of 1939 under the law applicable to the period in which such service was performed, and any service, of whatever nature, performed after 1954” in introductory text.
 
-Subsec. (b)(1). Pub. L. 94–455, § 1903(a)(3)(B), struck out “65 Stat. 119;” before “7 U.S.C. 1461–1468”.
+Subsec. (b)(1). Pub. L. 94–455, § 1903(a)(3)(B), struck out “65 Stat. 119;” before “7 U.S.C. 1461–1468”.
 
-Subsec. (b)(6)(B)(v). Pub. L. 94–455, § 1903(a)(3)(C), substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+Subsec. (b)(6)(B)(v). Pub. L. 94–455, § 1903(a)(3)(C), substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 
-Subsec. (b)(8)(B). Pub. L. 94–563, § 1(b), inserted “or deemed to have been so filed under paragraph (4) or (5) of such subsection” after “filed pursuant to subsection (k) (or the corresponding subsection of prior law)” in provisions preceding cl. (i), inserted “(or deemed to have been filed)” after “filed” in cls. (i), (ii), and (iii), and substituted “is (or is deemed to be) in effect” for “is in effect” in provisions following cl. (iii).
+Subsec. (b)(8)(B). Pub. L. 94–563, § 1(b), inserted “or deemed to have been so filed under paragraph (4) or (5) of such subsection” after “filed pursuant to subsection (k) (or the corresponding subsection of prior law)” in provisions preceding cl. (i), inserted “(or deemed to have been filed)” after “filed” in cls. (i), (ii), and (iii), and substituted “is (or is deemed to be) in effect” for “is in effect” in provisions following cl. (iii).
 
-Subsec. (b)(12)(B). Pub. L. 94–455, § 1906(b)(13)(C), substituted “to the Secretary of the Treasury” for “to the Secretary”.
+Subsec. (b)(12)(B). Pub. L. 94–455, § 1906(b)(13)(C), substituted “to the Secretary of the Treasury” for “to the Secretary”.
 
-Subsec. (b)(20). Pub. L. 94–455, § 1207(e)(1)(A), added par. (20).
+Subsec. (b)(20). Pub. L. 94–455, § 1207(e)(1)(A), added par. (20).
 
-Subsec. (g)(3). Pub. L. 94–455, § 1903(a)(3)(D), struck out “46 Stat. 1550, § 3;” before “12 U.S.C. 1141j”.
+Subsec. (g)(3). Pub. L. 94–455, § 1903(a)(3)(D), struck out “46 Stat. 1550, § 3;” before “12 U.S.C. 1141j”.
 
-Subsec. (k)(1). Pub. L. 94–455, § 1903(a)(3)(E), redesignated subpar. (G) as (F). Former subpars. (F) and (H), which related to the right of an organization to request before 1960 to have a certificate effective where such certificate was filed after 1955 but prior to the enactment of this subparagraph and the right of an organization to amend a certificate filed before 1966 to make such certificate effective for an earlier date than had been originally established, respectively, were struck out.
+Subsec. (k)(1). Pub. L. 94–455, § 1903(a)(3)(E), redesignated subpar. (G) as (F). Former subpars. (F) and (H), which related to the right of an organization to request before 1960 to have a certificate effective where such certificate was filed after 1955 but prior to the enactment of this subparagraph and the right of an organization to amend a certificate filed before 1966 to make such certificate effective for an earlier date than had been originally established, respectively, were struck out.
 
-Subsec. (k)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+Subsec. (k)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-Subsec. (k)(4) to (8). Pub. L. 94–563, § 1(c), added pars. (4) to (8).
+Subsec. (k)(4) to (8). Pub. L. 94–563, § 1(c), added pars. (4) to (8).
 
-Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-Subsec. (*l*)(1). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (*l*)(1). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (*l*)(2). Pub. L. 94–455, § 1903(a)(3)(F), struck out “, but in no case prior to January 1, 1955” after “specified in the agreement”.
+Subsec. (*l*)(2). Pub. L. 94–455, § 1903(a)(3)(F), struck out “, but in no case prior to January 1, 1955” after “specified in the agreement”.
 
-Subsec. (*l*)(4) to (7), (10). Pub. L. 94–455, § 1906(b)(13)(a), struck out “or his delegate” after “Secretary” wherever appearing.
+Subsec. (*l*)(4) to (7), (10). Pub. L. 94–455, § 1906(b)(13)(a), struck out “or his delegate” after “Secretary” wherever appearing.
 
-Subsec. (m)(1). Pub. L. 94–455, § 1903(a)(3)(G), struck out “after December 1956” after “include service performed”.
+Subsec. (m)(1). Pub. L. 94–455, § 1903(a)(3)(G), struck out “after December 1956” after “include service performed”.
 
-1973—Subsec. (a)(1). Pub. L. 93–233, § 5(b)(2), effective with respect to remuneration paid after 1973, substituted “$13,200” for “$12,600” in two places.
+1973—Subsec. (a)(1). Pub. L. 93–233, § 5(b)(2), effective with respect to remuneration paid after 1973, substituted “$13,200” for “$12,600” in two places.
 
-Pub. L. 93–233, § 5(d), applicable only with respect to remuneration paid after 1973 (as provided in section 5(e) of Pub. L. 93–233, set out as a note under section 409 of Title 42), amended section 203(b)(2)(C) of the Pub. L. 92–336 (set out as 1973 Amendment note hereunder) substituting “$13,200” for “$12,600”.
+Pub. L. 93–233, § 5(d), applicable only with respect to remuneration paid after 1973 (as provided in section 5(e) of Pub. L. 93–233, set out as a note under section 409 of Title 42), amended section 203(b)(2)(C) of the Pub. L. 92–336 (set out as 1973 Amendment note hereunder) substituting “$13,200” for “$12,600”.
 
-Pub. L. 93–66, § 203(b)(2), effective with respect to remuneration paid after 1973, substituted “$12,600” for “$12,000” in two places.
+Pub. L. 93–66, § 203(b)(2), effective with respect to remuneration paid after 1973, substituted “$12,600” for “$12,000” in two places.
 
-Pub. L. 93–66, § 203(d), applicable only with respect to remuneration paid after, and taxable years beginning after, 1973 (as provided in section 203(e) of Pub. L. 93–66, set out as a note under section 409 of Title 42), amended section 203(b)(2)(C) of Pub. L. 92–336 (set out as 1972 Amendment note hereunder) substituting “$12,600” for “$12,000”.
+Pub. L. 93–66, § 203(d), applicable only with respect to remuneration paid after, and taxable years beginning after, 1973 (as provided in section 203(e) of Pub. L. 93–66, set out as a note under section 409 of Title 42), amended section 203(b)(2)(C) of Pub. L. 92–336 (set out as 1972 Amendment note hereunder) substituting “$12,600” for “$12,000”.
 
-1972—Subsec. (a)(1). Pub. L. 92–336, § 203(b)(2)(A), substituted “$10,800” for “$9,000” in two places.
+1972—Subsec. (a)(1). Pub. L. 92–336, § 203(b)(2)(A), substituted “$10,800” for “$9,000” in two places.
 
-Pub. L. 92–336, § 203(b)(2)(B), effective with respect to remuneration paid after 1973, substituted “$12,000” for “$10,800” in two places.
+Pub. L. 92–336, § 203(b)(2)(B), effective with respect to remuneration paid after 1973, substituted “$12,000” for “$10,800” in two places.
 
-Pub. L. 92–336, § 203(b)(2)(C), effective with respect to remuneration paid after 1974, substituted “the contribution and benefit base (as determined under section 230 of the Social Security Act)” for “$12,000” in two places, and “the calendar year with respect to which such contribution and benefit base is effective” for “any calendar year”.
+Pub. L. 92–336, § 203(b)(2)(C), effective with respect to remuneration paid after 1974, substituted “the contribution and benefit base (as determined under section 230 of the Social Security Act)” for “$12,000” in two places, and “the calendar year with respect to which such contribution and benefit base is effective” for “any calendar year”.
 
-Subsec. (a)(9). Pub. L. 92–603, § 104(i), substituted uniform provision of 62 years of age, for separate provisions for men and women of 65 and 62 years, respectively.
+Subsec. (a)(9). Pub. L. 92–603, § 104(i), substituted uniform provision of 62 years of age, for separate provisions for men and women of 65 and 62 years, respectively.
 
-Subsec. (a)(14). Pub. L. 92–603, § 122(b), added par. (14).
+Subsec. (a)(14). Pub. L. 92–603, § 122(b), added par. (14).
 
-Subsec. (a)(15). Pub. L. 92–603, § 138(b), added par. (15).
+Subsec. (a)(15). Pub. L. 92–603, § 138(b), added par. (15).
 
-Subsec. (b)(7)(D). Pub. L. 92–603, § 128(b), added subpar. (D).
+Subsec. (b)(7)(D). Pub. L. 92–603, § 128(b), added subpar. (D).
 
-Subsec. (b)(8)(A). Pub. L. 92–603, § 123(a)(2), inserted provision that this subparagraph shall not apply to service performed by a member of such religious order in the exercise of such duties if an election of coverage under subsec. (r) is in effect with respect to such order, or with respect to the autonomous subdivision thereof to which such member belongs.
+Subsec. (b)(8)(A). Pub. L. 92–603, § 123(a)(2), inserted provision that this subparagraph shall not apply to service performed by a member of such religious order in the exercise of such duties if an election of coverage under subsec. (r) is in effect with respect to such order, or with respect to the autonomous subdivision thereof to which such member belongs.
 
-Subsec. (b)(10)(B). Pub. L. 92–603, § 129(a)(2), inserted provisions relating to service performed in the employ of organizations described in section 509(a)(3) of this title.
+Subsec. (b)(10)(B). Pub. L. 92–603, § 129(a)(2), inserted provisions relating to service performed in the employ of organizations described in section 509(a)(3) of this title.
 
-Subsec. (i)(4). Pub. L. 92–603, § 123(c)(2), added par. (4).
+Subsec. (i)(4). Pub. L. 92–603, § 123(c)(2), added par. (4).
 
-Subsec. (r). Pub. L. 92–603, § 123(b), added subsec. (r).
+Subsec. (r). Pub. L. 92–603, § 123(b), added subsec. (r).
 
 1971—Subsec. (a)(1). Pub. L. 92–5 substituted “$9,000” for “$7,800” in two places.
 
-1969—Subsec. (k)(1)(F)(i), (G)(i), (H)(i). Pub. L. 91–172, § 943(c)(1)–(3), inserted “or pay tax” after “tax return”.
+1969—Subsec. (k)(1)(F)(i), (G)(i), (H)(i). Pub. L. 91–172, § 943(c)(1)–(3), inserted “or pay tax” after “tax return”.
 
-1968—Subsec. (a)(1). Pub. L. 90–248, § 108(b)(2), substituted “$7,800” for “$6,600” wherever appearing.
+1968—Subsec. (a)(1). Pub. L. 90–248, § 108(b)(2), substituted “$7,800” for “$6,600” wherever appearing.
 
-Subsec. (a)(13). Pub. L. 90–248, § 504(a), added par. (13).
+Subsec. (a)(13). Pub. L. 90–248, § 504(a), added par. (13).
 
-Subsec. (b)(3)(B). Pub. L. 90–248, § 123(b), provided for inclusion of family employment in a private home in definition of “employment,” upon compliance with conditions described in cls. (i) to (iii).
+Subsec. (b)(3)(B). Pub. L. 90–248, § 123(b), provided for inclusion of family employment in a private home in definition of “employment,” upon compliance with conditions described in cls. (i) to (iii).
 
-Subsec. (b)(6)(C)(iv). Pub. L. 90–248, § 403(i)(1), substituted “section 5351(2) of title 5, United States Code” for “section 2 of the Act of August 4, 1967” and struck out “; 5 U.S.C., sec. 1052” at end of parenthetical text.
+Subsec. (b)(6)(C)(iv). Pub. L. 90–248, § 403(i)(1), substituted “section 5351(2) of title 5, United States Code” for “section 2 of the Act of August 4, 1967” and struck out “; 5 U.S.C., sec. 1052” at end of parenthetical text.
 
-Subsec. (b)(6)(C)(vi). Pub. L. 90–248, § 403(i)(2), substituted “subchapter III of chapter 83 of title 5, United States Code,” for “the Civil Service Retirement Act”.
+Subsec. (b)(6)(C)(vi). Pub. L. 90–248, § 403(i)(2), substituted “subchapter III of chapter 83 of title 5, United States Code,” for “the Civil Service Retirement Act”.
 
-Subsec. (b)(7)(C)(ii). Pub. L. 90–248, § 403(i)(3), substituted “section 5351(2) of title 5, United States Code” for “section 2 of the Act of August 4, 1947” and struck out “; 5 U.S.C. 1052” at end of parenthetical text.
+Subsec. (b)(7)(C)(ii). Pub. L. 90–248, § 403(i)(3), substituted “section 5351(2) of title 5, United States Code” for “section 2 of the Act of August 4, 1947” and struck out “; 5 U.S.C. 1052” at end of parenthetical text.
 
-1965—Subsec. (a)(1). Pub. L. 89–97, § 320(b)(2), substituted “$6,600” for “$4,800” wherever appearing.
+1965—Subsec. (a)(1). Pub. L. 89–97, § 320(b)(2), substituted “$6,600” for “$4,800” wherever appearing.
 
-Subsec. (a)(12). Pub. L. 89–97, § 313(c)(3), added par. (12).
+Subsec. (a)(12). Pub. L. 89–97, § 313(c)(3), added par. (12).
 
-Subsec. (b)(6)(C)(iv). Pub. L. 89–97, § 311(b)(4), inserted “, other than as a medical or dental intern or a medical or dental resident in training”.
+Subsec. (b)(6)(C)(iv). Pub. L. 89–97, § 311(b)(4), inserted “, other than as a medical or dental intern or a medical or dental resident in training”.
 
-Subsec. (b)(7)(C). Pub. L. 89–97, § 317(b)(3), added subpar. (C).
+Subsec. (b)(7)(C). Pub. L. 89–97, § 317(b)(3), added subpar. (C).
 
-Subsec. (b)(13). Pub. L. 89–97, § 311(b)(5), struck out from the definition of employment the exclusion of service performed as an intern in the employ of a hospital by an individual who has completed a 4 years’ course in a medical school chartered or approved pursuant to State law.
+Subsec. (b)(13). Pub. L. 89–97, § 311(b)(5), struck out from the definition of employment the exclusion of service performed as an intern in the employ of a hospital by an individual who has completed a 4 years’ course in a medical school chartered or approved pursuant to State law.
 
-Subsec. (k)(1)(B)(iii). Pub. L. 89–97, § 316(a)(1), substituted “such date may not be earlier than the first day of the twentieth” for “, in the case of a certificate filed prior to January 1, 1960, such date may not be earlier than January 1, 1956, and in the case of a certificate filed after 1959, such date may not be earlier than the first day of the fourth”.
+Subsec. (k)(1)(B)(iii). Pub. L. 89–97, § 316(a)(1), substituted “such date may not be earlier than the first day of the twentieth” for “, in the case of a certificate filed prior to January 1, 1960, such date may not be earlier than January 1, 1956, and in the case of a certificate filed after 1959, such date may not be earlier than the first day of the fourth”.
 
-Subsec. (k)(1)(H). Pub. L. 89–97, § 316(b), added subpar. (H).
+Subsec. (k)(1)(H). Pub. L. 89–97, § 316(b), added subpar. (H).
 
-Subsec. (q). Pub. L. 89–97, § 313(c)(4), added subsec. (q).
+Subsec. (q). Pub. L. 89–97, § 313(c)(4), added subsec. (q).
 
 1964—Subsec. (a)(11). Pub. L. 88–650 added par. (11).
 
@@ -2327,91 +2327,91 @@ Pub. L. 88–272 substituted “is a plan described in section 403(a), or” for
 
 1961—Subsec. (b)(19). Pub. L. 87–256 added par. (19).
 
-Subsec. (i)(3). Pub. L. 87–293, § 202(a)(1), added par. (3).
+Subsec. (i)(3). Pub. L. 87–293, § 202(a)(1), added par. (3).
 
-Subsec. (p). Pub. L. 87–293, § 202(a)(2), added subsec. (p).
+Subsec. (p). Pub. L. 87–293, § 202(a)(2), added subsec. (p).
 
-1960—Subsec. (b)(3). Pub. L. 86–778, § 104(b), designated existing provisions as cl. (A) and struck out provisions which related to service performed by an individual in the employ of his son or daughter, and added cl. (B).
+1960—Subsec. (b)(3). Pub. L. 86–778, § 104(b), designated existing provisions as cl. (A) and struck out provisions which related to service performed by an individual in the employ of his son or daughter, and added cl. (B).
 
-Subsec. (b)(7). Pub. L. 86–778, § 103(n), excluded service in the employ of the Government of Guam or the Government of American Samoa or any political subdivision thereof, or of any instrumentality of any one or more of the foregoing which is wholly owned thereby.
+Subsec. (b)(7). Pub. L. 86–778, § 103(n), excluded service in the employ of the Government of Guam or the Government of American Samoa or any political subdivision thereof, or of any instrumentality of any one or more of the foregoing which is wholly owned thereby.
 
-Subsec. (b)(18). Pub. L. 86–778, § 103(*o*), added par. (18).
+Subsec. (b)(18). Pub. L. 86–778, § 103(*o*), added par. (18).
 
-Subsec. (e). Pub. L. 86–778, § 103(p), struck out a reference to Hawaii in cl. (1), and included Guam and American Samoa and cls. (1) and (2).
+Subsec. (e). Pub. L. 86–778, § 103(p), struck out a reference to Hawaii in cl. (1), and included Guam and American Samoa and cls. (1) and (2).
 
 Pub. L. 86–624 struck out “Hawaii,” before “the District of Columbia”, in cl. (1).
 
-Subsec. (k)(1)(A). Pub. L. 86–778, § 105(a)(1), (2), struck out “and that at least two-thirds of its employees concur in the filing of the certificate” after “extended to service performed by its employees”, and substituted “of each employee (if any) who concurs” for “of each employee who concurs”.
+Subsec. (k)(1)(A). Pub. L. 86–778, § 105(a)(1), (2), struck out “and that at least two-thirds of its employees concur in the filing of the certificate” after “extended to service performed by its employees”, and substituted “of each employee (if any) who concurs” for “of each employee who concurs”.
 
-Subsec. (k)(1)(E). Pub. L. 86–778, § 105(a)(3), substituted “in either group, or may file a separate certificate pursuant to such subparagraph with respect to the employees in each group” for “in one of the groups if at least two-thirds of the employees in such group concur in the filing of the certificate. The organization may also file such a certificate with respect to the employees in the other group if at least two-thirds of the employees in such other group concur in the filing of such certificate.”
+Subsec. (k)(1)(E). Pub. L. 86–778, § 105(a)(3), substituted “in either group, or may file a separate certificate pursuant to such subparagraph with respect to the employees in each group” for “in one of the groups if at least two-thirds of the employees in such group concur in the filing of the certificate. The organization may also file such a certificate with respect to the employees in the other group if at least two-thirds of the employees in such other group concur in the filing of such certificate.”
 
 1959—Subsec. (b)(6)(B)(ii). Pub. L. 86–168 substituted “Federal land bank association” for “national farm loan association”, and included service in the employ of Federal land banks, Federal intermediate credit banks and banks for cooperatives.
 
 Subsec. (e). Pub. L. 86–70 struck out “Alaska,” before “Hawaii”.
 
-1958—Subsec. (a)(1). Pub. L. 85–840, § 402(b), substituted “$4,800” for “$4,200” wherever appearing.
+1958—Subsec. (a)(1). Pub. L. 85–840, § 402(b), substituted “$4,800” for “$4,200” wherever appearing.
 
-Subsec. (b)(1). Pub. L. 85–840, § 404(a), struck out provisions which excluded from definition of “employment” service performed in connection with the production or harvesting of any commodity defined as an agricultural commodity in section 1141j of title 12.
+Subsec. (b)(1). Pub. L. 85–840, § 404(a), struck out provisions which excluded from definition of “employment” service performed in connection with the production or harvesting of any commodity defined as an agricultural commodity in section 1141j of title 12.
 
-Subsec. (b)(8)(B). Pub. L. 85–840, § 405(b), made subparagraph inapplicable to service performed during the period for which a certificate is in effect if such service is performed by an employee who, after the calendar quarter in which the certificate was filed with respect to a group described in section 321(k)(1)(E) of this title, became a member of such group, and made subparagraph applicable with respect to service performed by an employee as a member of a group described in section 3121(k)(1)(E) of this title with respect to which no certificate is in effect.
+Subsec. (b)(8)(B). Pub. L. 85–840, § 405(b), made subparagraph inapplicable to service performed during the period for which a certificate is in effect if such service is performed by an employee who, after the calendar quarter in which the certificate was filed with respect to a group described in section 321(k)(1)(E) of this title, became a member of such group, and made subparagraph applicable with respect to service performed by an employee as a member of a group described in section 3121(k)(1)(E) of this title with respect to which no certificate is in effect.
 
-Subsec. (k)(1). Pub. L. 85–840, § 405(a), permitted amendment of the list at any time prior to the expiration of the twenty-fourth month following the calendar quarter in which the certificate is filed, allowed an organization to provide that the certificate shall be in effect for the period beginning with the first day of any calendar quarter preceding the calendar quarter in which the certificate is filed, except that, in the case of a certificate filed prior to Jan. 1, 1960, such date may not be earlier than Jan. 1, 1956, and in the case of a certificate filed after 1959, such date may not be earlier than the first day of the fourth calendar quarter preceding the quarter in which such certificate is first made the certificate effective in the case of services performed by an employee whose name appears on a supplemental list only with respect to service performed by the employee for the period beginning with the first day of the calendar quarter in which the supplemental list is filed, required organizations described in subpar. (A) which employ both individuals who are in positions covered by a pension, annuity, retirement, or similar fund or system established by a State or political subdivision thereof and individuals who are not in such positions, to divide their employees into two separate groups, authorized the filing of requests by organizations which filed certificates after 1955 but prior to Aug. 28, 1958, to have such certificates effective, with respect to services of certain individuals, for the period beginning with the first day of any calendar quarter preceding the first calendar quarter for which they are effective and following the last calendar quarter of 1955, and provided for the due date and payment of tax for certain calendar quarters and for the expiration of the statutory period of assessment.
+Subsec. (k)(1). Pub. L. 85–840, § 405(a), permitted amendment of the list at any time prior to the expiration of the twenty-fourth month following the calendar quarter in which the certificate is filed, allowed an organization to provide that the certificate shall be in effect for the period beginning with the first day of any calendar quarter preceding the calendar quarter in which the certificate is filed, except that, in the case of a certificate filed prior to Jan. 1, 1960, such date may not be earlier than Jan. 1, 1956, and in the case of a certificate filed after 1959, such date may not be earlier than the first day of the fourth calendar quarter preceding the quarter in which such certificate is first made the certificate effective in the case of services performed by an employee whose name appears on a supplemental list only with respect to service performed by the employee for the period beginning with the first day of the calendar quarter in which the supplemental list is filed, required organizations described in subpar. (A) which employ both individuals who are in positions covered by a pension, annuity, retirement, or similar fund or system established by a State or political subdivision thereof and individuals who are not in such positions, to divide their employees into two separate groups, authorized the filing of requests by organizations which filed certificates after 1955 but prior to Aug. 28, 1958, to have such certificates effective, with respect to services of certain individuals, for the period beginning with the first day of any calendar quarter preceding the first calendar quarter for which they are effective and following the last calendar quarter of 1955, and provided for the due date and payment of tax for certain calendar quarters and for the expiration of the statutory period of assessment.
 
 Subsec. (*l*)(3). Pub. L. 85–866 substituted “by” for “be” in heading.
 
-1956—Subsec. (a)(8)(B). Act Aug. 1, 1956, ch. 836, § 201(h)(1), included within definition of wages cash remuneration of $150 or more, and cash remuneration computed on a time basis where the employee performs agricultural labor for the employer on 20 days or more during the calendar year.
+1956—Subsec. (a)(8)(B). Act Aug. 1, 1956, ch. 836, § 201(h)(1), included within definition of wages cash remuneration of $150 or more, and cash remuneration computed on a time basis where the employee performs agricultural labor for the employer on 20 days or more during the calendar year.
 
-Subsec. (a)(9). Act Aug. 1, 1956, ch. 836, § 201(b), excluded payments made to a woman after she attains the age of 62.
+Subsec. (a)(9). Act Aug. 1, 1956, ch. 836, § 201(b), excluded payments made to a woman after she attains the age of 62.
 
-Subsec. (b)(1)(B). Act Aug. 1, 1956, ch. 836, § 201(c), excepted from term “employment” services performed by foreign agricultural workers lawfully admitted from any foreign country or possession thereof, on a temporary basis to perform agricultural labor.
+Subsec. (b)(1)(B). Act Aug. 1, 1956, ch. 836, § 201(c), excepted from term “employment” services performed by foreign agricultural workers lawfully admitted from any foreign country or possession thereof, on a temporary basis to perform agricultural labor.
 
-Subsec. (b)(6)(B)(ii). Act Aug. 1, 1956, ch. 836, § 201(d)(1), included service performed in the employ of a Federal Home Loan Bank.
+Subsec. (b)(6)(B)(ii). Act Aug. 1, 1956, ch. 836, § 201(d)(1), included service performed in the employ of a Federal Home Loan Bank.
 
-Subsec. (b)(6)(C)(vi). Act Aug. 1, 1956, ch. 836, § 201(d)(2), substituted “Civil Service Retirement Act” for “Civil Service Retirement Act of 1930”, and inserted “(other than the retirement system of the Tennessee Valley Authority)” after “retirement system”.
+Subsec. (b)(6)(C)(vi). Act Aug. 1, 1956, ch. 836, § 201(d)(2), substituted “Civil Service Retirement Act” for “Civil Service Retirement Act of 1930”, and inserted “(other than the retirement system of the Tennessee Valley Authority)” after “retirement system”.
 
-Subsec. (b)(16), (17). Act Aug. 1, 1956, ch. 836, §§ 201(e)(1), 121d, added pars. (16) and (17).
+Subsec. (b)(16), (17). Act Aug. 1, 1956, ch. 836, §§ 201(e)(1), 121d, added pars. (16) and (17).
 
-Subsec. (i). Act Aug. 1, 1956, ch. 837, § 410, designated existing provisions as par. (1) and added par. (2).
+Subsec. (i). Act Aug. 1, 1956, ch. 837, § 410, designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (k)(1). Act Aug. 1, 1956, ch. 836, § 201(k), (*l*), inserted “or at any time prior to January 1, 1959, whichever is the later” after “the certificate is in effect”, and substituted “the first day of the calendar quarter in which such certificate is filed or the first day of the succeeding calendar quarter, as may be specified in the certificate,” for “the first day following the close of the calendar quarter in which such certificate is filed,”.
+Subsec. (k)(1). Act Aug. 1, 1956, ch. 836, § 201(k), (*l*), inserted “or at any time prior to January 1, 1959, whichever is the later” after “the certificate is in effect”, and substituted “the first day of the calendar quarter in which such certificate is filed or the first day of the succeeding calendar quarter, as may be specified in the certificate,” for “the first day following the close of the calendar quarter in which such certificate is filed,”.
 
-Subsec. (*l*)(6). Act Aug. 1, 1956, ch. 836, § 103(j), inserted reference to the Federal Disability Insurance Trust Fund.
+Subsec. (*l*)(6). Act Aug. 1, 1956, ch. 836, § 103(j), inserted reference to the Federal Disability Insurance Trust Fund.
 
-Subsec. (*l*)(8)(A). Act Aug. 1, 1956, ch. 836, § 201(j), substituted “not less than 20 percent” for “more than 50 percent”.
+Subsec. (*l*)(8)(A). Act Aug. 1, 1956, ch. 836, § 201(j), substituted “not less than 20 percent” for “more than 50 percent”.
 
-Subsecs. (m), (n). Act Aug. 1, 1956, ch. 837, § 411(a), added subsecs. (m) and (n).
+Subsecs. (m), (n). Act Aug. 1, 1956, ch. 837, § 411(a), added subsecs. (m) and (n).
 
-Subsec. (*o*). Act Aug. 1, 1956, ch. 836, § 201(h)(2), added subsec. (*o*).
+Subsec. (*o*). Act Aug. 1, 1956, ch. 836, § 201(h)(2), added subsec. (*o*).
 
-1954—Subsec. (a)(1). Act Sept. 1, 1954, § 204(a), substituted “$4,200” for “$3,600” wherever appearing.
+1954—Subsec. (a)(1). Act Sept. 1, 1954, § 204(a), substituted “$4,200” for “$3,600” wherever appearing.
 
-Subsec. (a)(7)(B). Act Sept. 1, 1954, § 204(b)(1), made coverage of domestic service dependent solely on receipt of $50 in cash wages in a calendar quarter by an employee from an employer for such service.
+Subsec. (a)(7)(B). Act Sept. 1, 1954, § 204(b)(1), made coverage of domestic service dependent solely on receipt of $50 in cash wages in a calendar quarter by an employee from an employer for such service.
 
-Subsec. (a)(7)(C). Act Sept. 1, 1954, § 204(b)(2), added subpar. (C).
+Subsec. (a)(7)(C). Act Sept. 1, 1954, § 204(b)(2), added subpar. (C).
 
-Subsec. (a)(8). Act Sept. 1, 1954, § 204(b)(3), designated existing provisions as subpar. (A) and added subpar. (B).
+Subsec. (a)(8). Act Sept. 1, 1954, § 204(b)(3), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (b)(1). Act Sept. 1, 1954, § 205(a), made coverage of agricultural labor depend solely on the payment of cash remuneration of $100 or more per year, thereby eliminating the need for an agricultural laborer to have served a qualifying calendar quarter and to have worked on a full time basis for 60 days during a succeeding calendar quarter and to have received $50 or more for his labor during such succeeding calendar quarter, removed the specific exception from employment of services performed in connection with the ginning of cotton, and added an exception for services performed by West Indian agricultural workers lawfully admitted to the United States on a temporary basis.
+Subsec. (b)(1). Act Sept. 1, 1954, § 205(a), made coverage of agricultural labor depend solely on the payment of cash remuneration of $100 or more per year, thereby eliminating the need for an agricultural laborer to have served a qualifying calendar quarter and to have worked on a full time basis for 60 days during a succeeding calendar quarter and to have received $50 or more for his labor during such succeeding calendar quarter, removed the specific exception from employment of services performed in connection with the ginning of cotton, and added an exception for services performed by West Indian agricultural workers lawfully admitted to the United States on a temporary basis.
 
-Subsec. (b)(3). Act Sept. 1, 1954, § 205(b), struck out par. (3) and redesignated pars. (4) to (14) as (3) to (13), respectively.
+Subsec. (b)(3). Act Sept. 1, 1954, § 205(b), struck out par. (3) and redesignated pars. (4) to (14) as (3) to (13), respectively.
 
-Subsec. (b)(4). Act Sept. 1, 1954, § 205(c), amended par. (4), as redesignated, to make the exception with respect to services on non-American vessels or aircraft applicable only if the individual is not a United States citizen or the employer is not an American employer.
+Subsec. (b)(4). Act Sept. 1, 1954, § 205(c), amended par. (4), as redesignated, to make the exception with respect to services on non-American vessels or aircraft applicable only if the individual is not a United States citizen or the employer is not an American employer.
 
-Subsec. (b)(6)(B). Act Sept. 1, 1954, § 205(d)(1)(A), amended par. (6), as redesignated, by inserting in subpar. (B) “by an individual” after “service is performed” and “and if such service is covered by a retirement system established by such instrumentality” after “December 31, 1950”.
+Subsec. (b)(6)(B). Act Sept. 1, 1954, § 205(d)(1)(A), amended par. (6), as redesignated, by inserting in subpar. (B) “by an individual” after “service is performed” and “and if such service is covered by a retirement system established by such instrumentality” after “December 31, 1950”.
 
-Subsec. (b)(6)(B)(v). Act Sept. 1, 1954, § 205(d)(1)(B), amended par. (6), as redesignated, by adding cl. (v) to subpar. (B).
+Subsec. (b)(6)(B)(v). Act Sept. 1, 1954, § 205(d)(1)(B), amended par. (6), as redesignated, by adding cl. (v) to subpar. (B).
 
-Subsec. (b)(6)(C). Act Sept. 1, 1954, § 205(d)(2), struck out exception from coverage for services in the following categories: temporary employees in the Post Office Department field service; temporary census taking employees of the Bureau of the Census; Federal employees paid on a contract or fee basis; Federal employees receiving compensation of $12 a year or less; certain consular agents; individuals employed under Federal unemployment relief programs; and members of State, county, or community committees under the Commodity Stabilization Service and similar bodies, unless such bodies are composed exclusively of full-time Federal employees, and limited the exclusion of inmates or patients of United States institutions to inmates of penal institutions.
+Subsec. (b)(6)(C). Act Sept. 1, 1954, § 205(d)(2), struck out exception from coverage for services in the following categories: temporary employees in the Post Office Department field service; temporary census taking employees of the Bureau of the Census; Federal employees paid on a contract or fee basis; Federal employees receiving compensation of $12 a year or less; certain consular agents; individuals employed under Federal unemployment relief programs; and members of State, county, or community committees under the Commodity Stabilization Service and similar bodies, unless such bodies are composed exclusively of full-time Federal employees, and limited the exclusion of inmates or patients of United States institutions to inmates of penal institutions.
 
-Subsec. (b)(14) to (17). Act Sept. 1, 1954, § 205(e), struck out par. (15) and redesignated pars. (16) and (17) as (14) and (15), respectively.
+Subsec. (b)(14) to (17). Act Sept. 1, 1954, § 205(e), struck out par. (15) and redesignated pars. (16) and (17) as (14) and (15), respectively.
 
-Subsec. (c). Act Sept. 1, 1954, § 205(b), substituted “subsection (b)(9)” for “subsection (b)(10)”.
+Subsec. (c). Act Sept. 1, 1954, § 205(b), substituted “subsection (b)(9)” for “subsection (b)(10)”.
 
-Subsec. (d)(3)(C). Act Sept. 1, 1954, § 206(a), struck out requirement that performance of services of homeworkers be subject to State licensing requirements.
+Subsec. (d)(3)(C). Act Sept. 1, 1954, § 206(a), struck out requirement that performance of services of homeworkers be subject to State licensing requirements.
 
-Subsec. (k)(1). Act Sept. 1, 1954, §§ 205(b), 207, substituted “(b)(8)(B)” for “(b)(9)(B)” and provided that the list accompanying any certificate filed by a nonprofit organization with respect to its lay employees may be amended only within a period of two years after the certificate takes effect and provided that a supplemental list filed after the first month following the first calendar quarter for which the certificate is in effect shall be in effect only as to those services performed by an individual on the list which are performed by him after the calendar quarter in which the supplemental list is filed.
+Subsec. (k)(1). Act Sept. 1, 1954, §§ 205(b), 207, substituted “(b)(8)(B)” for “(b)(9)(B)” and provided that the list accompanying any certificate filed by a nonprofit organization with respect to its lay employees may be amended only within a period of two years after the certificate takes effect and provided that a supplemental list filed after the first month following the first calendar quarter for which the certificate is in effect shall be in effect only as to those services performed by an individual on the list which are performed by him after the calendar quarter in which the supplemental list is filed.
 
-Subsec. (*l*). Act Sept. 1, 1954, § 209, added subsec. (*l*).
+Subsec. (*l*). Act Sept. 1, 1954, § 209, added subsec. (*l*).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2433,9 +2433,9 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of this title.
 
-Pub. L. 110–245, title I, § 115(d), June 17, 2008, 122 Stat. 1637, provided that: “The amendments made by this section [amending this section, sections 3306 and 3401 of this title, and section 409 of Title 42, The Public Health and Welfare] shall take effect as if included in section 5 of the Mortgage Forgiveness Debt Relief Act of 2007 [Pub. L. 110–142].”
+Pub. L. 110–245, title I, § 115(d), June 17, 2008, 122 Stat. 1637, provided that: “The amendments made by this section [amending this section, sections 3306 and 3401 of this title, and section 409 of Title 42, The Public Health and Welfare] shall take effect as if included in section 5 of the Mortgage Forgiveness Debt Relief Act of 2007 [Pub. L. 110–142].”
 
-Pub. L. 110–245, title III, § 302(c), June 17, 2008, 122 Stat. 1648, provided that: “The amendment made by this section [amending this section and section 410 of Title 42, The Public Health and Welfare] shall apply to services performed in calendar months beginning more than 30 days after the date of the enactment of this Act [June 17, 2008].”
+Pub. L. 110–245, title III, § 302(c), June 17, 2008, 122 Stat. 1648, provided that: “The amendment made by this section [amending this section and section 410 of Title 42, The Public Health and Welfare] shall apply to services performed in calendar months beginning more than 30 days after the date of the enactment of this Act [June 17, 2008].”
 
 **Effective Date of 2007 Amendment**
 
@@ -2457,15 +2457,15 @@ Amendment by Pub. L. 108–121 applicable to taxable years beginning after Dec. 
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–277, div. A, § 101(h) [title VIII, § 805], Oct. 21, 1998, 112 Stat. 2681–480, 2681–538, provided that: “Except as otherwise specifically provided, this title [amending this section and section 410 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under this section] and the amendments made by this title shall take effect as if included in the enactment of title XI of the Balanced Budget Act of 1997 [title XI of Pub. L. 105–33, see Effective Date of 1997 Amendment note below].”
+Pub. L. 105–277, div. A, § 101(h) [title VIII, § 805], Oct. 21, 1998, 112 Stat. 2681–480, 2681–538, provided that: “Except as otherwise specifically provided, this title [amending this section and section 410 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under this section] and the amendments made by this title shall take effect as if included in the enactment of title XI of the Balanced Budget Act of 1997 [title XI of Pub. L. 105–33, see Effective Date of 1997 Amendment note below].”
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–33, title XI, § 11246(b)(4), formerly § 11246(b)(3), Aug. 5, 1997, 111 Stat. 756, renumbered § 11246(b)(4), by Pub. L. 105–277, div. A, § 101(h) [title VIII, § 802(a)(1)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–532, provided that: “The amendments made by this subsection [amending this section and section 410 of Title 42, The Public Health and Welfare] shall apply with respect to all months beginning after the date on which the Director of the Office of Personnel Management issues regulations to carry out section 11–1726, District of Columbia Code (as amended by paragraph (1)).”
+Pub. L. 105–33, title XI, § 11246(b)(4), formerly § 11246(b)(3), Aug. 5, 1997, 111 Stat. 756, renumbered § 11246(b)(4), by Pub. L. 105–277, div. A, § 101(h) [title VIII, § 802(a)(1)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–532, provided that: “The amendments made by this subsection [amending this section and section 410 of Title 42, The Public Health and Welfare] shall apply with respect to all months beginning after the date on which the Director of the Office of Personnel Management issues regulations to carry out section 11–1726, District of Columbia Code (as amended by paragraph (1)).”
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–188, title I, § 1116(a)(3), Aug. 20, 1996, 110 Stat. 1762, provided that:
+Pub. L. 104–188, title I, § 1116(a)(3), Aug. 20, 1996, 110 Stat. 1762, provided that:
 
 > **“(A) In general.—** The amendments made by this subsection [amending this section, section 6050A of this title, and section 410 of Title 42, The Public Health and Welfare] shall apply to remuneration paid—
 
@@ -2477,7 +2477,7 @@ Pub. L. 104–188, title I, § 1116(a)(3), Aug. 20, 1996, 110 Stat. 1762, prov
 
 Amendment by section 1421(b)(8)(A) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of this title.
 
-Pub. L. 104–188, title I, § 1458(c)(2), Aug. 20, 1996, 110 Stat. 1820, provided that: “The amendments made by subsection (b) [amending this section and section 409 of Title 42, The Public Health and Welfare] shall apply to remuneration paid after December 31, 1996.”
+Pub. L. 104–188, title I, § 1458(c)(2), Aug. 20, 1996, 110 Stat. 1820, provided that: “The amendments made by subsection (b) [amending this section and section 409 of Title 42, The Public Health and Welfare] shall apply to remuneration paid after December 31, 1996.”
 
 **Effective Date of 1994 Amendments**
 
@@ -2503,7 +2503,7 @@ Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, 
 
 Amendment by section 11331(a) of Pub. L. 101–508 applicable to 1991 and later calendar years, see section 11331(e) of Pub. L. 101–508, set out as a note under section 1402 of this title.
 
-Pub. L. 101–508, title XI, § 11332(d), Nov. 5, 1990, 104 Stat. 1388–470, provided that: “The amendments made by this section [amending this section and sections 410 and 418 of Title 42, The Public Health and Welfare] shall apply with respect to service performed after July 1, 1991.”
+Pub. L. 101–508, title XI, § 11332(d), Nov. 5, 1990, 104 Stat. 1388–470, provided that: “The amendments made by this section [amending this section and sections 410 and 418 of Title 42, The Public Health and Welfare] shall apply with respect to service performed after July 1, 1991.”
 
 **Effective Date of 1989 Amendments**
 
@@ -2513,35 +2513,35 @@ Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. 
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title I, § 1011B(a)(22)(F), Nov. 10, 1988, 102 Stat. 3486, provided that: “The amendments made by this paragraph [amending this section, sections 3231, 3306, and 3401 of this title, and section 409 of Title 42, The Public Health and Welfare] shall not apply to any individual who separated from service with the employer before January 1, 1989.”
+Pub. L. 100–647, title I, § 1011B(a)(22)(F), Nov. 10, 1988, 102 Stat. 3486, provided that: “The amendments made by this paragraph [amending this section, sections 3231, 3306, and 3401 of this title, and section 409 of Title 42, The Public Health and Welfare] shall not apply to any individual who separated from service with the employer before January 1, 1989.”
 
-Pub. L. 100–647, title I, § 1018(r)(2)(B), Nov. 10, 1988, 102 Stat. 3586, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply to services performed after March 31, 1986.”
+Pub. L. 100–647, title I, § 1018(r)(2)(B), Nov. 10, 1988, 102 Stat. 3586, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply to services performed after March 31, 1986.”
 
 Amendment by sections 1001(d)(2)(C)(i), (g)(4)(B)(i), 1011(e)(8), 1011B(a)(23)(A), and 1018(u)(35) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Amendment by section 3043(c)(2) of Pub. L. 100–647 applicable to all periods beginning before, on, or after Nov. 10, 1988, with no inference created as to existence or nonexistence or scope of any exemption from tax for income derived from fishing rights secured as of Mar. 17, 1988, by any treaty, law, or Executive Order, see section 3044 of Pub. L. 100–647, set out as an Effective Date note under section 7873 of this title.
 
-Pub. L. 100–647, title VIII, § 8015(b)(3), Nov. 10, 1988, 102 Stat. 3792, provided that: “The amendments made by this subsection [amending this section and section 410 of Title 42, The Public Health and Welfare] shall apply as if such amendments had been included or reflected in section 304 of the Federal Employees’ Retirement System Act of 1986 (100 Stat. 606) [Pub. L. 99–335] at the time of its enactment [June 6, 1986].”
+Pub. L. 100–647, title VIII, § 8015(b)(3), Nov. 10, 1988, 102 Stat. 3792, provided that: “The amendments made by this subsection [amending this section and section 410 of Title 42, The Public Health and Welfare] shall apply as if such amendments had been included or reflected in section 304 of the Federal Employees’ Retirement System Act of 1986 (100 Stat. 606) [Pub. L. 99–335] at the time of its enactment [June 6, 1986].”
 
-Pub. L. 100–647, title VIII, § 8015(c)(3), Nov. 10, 1988, 102 Stat. 3792, provided that: “The amendments made by this subsection [amending this section and section 410 of Title 42] shall apply to any individual only upon the performance by such individual of service described in subparagraph (C), (D), (E), (F), (G), or (H) of section 210(a)(5) of the Social Security Act (42 U.S.C. 410(a)(5)) on or after the date of the enactment of this Act [Nov. 10, 1988].”
+Pub. L. 100–647, title VIII, § 8015(c)(3), Nov. 10, 1988, 102 Stat. 3792, provided that: “The amendments made by this subsection [amending this section and section 410 of Title 42] shall apply to any individual only upon the performance by such individual of service described in subparagraph (C), (D), (E), (F), (G), or (H) of section 210(a)(5) of the Social Security Act (42 U.S.C. 410(a)(5)) on or after the date of the enactment of this Act [Nov. 10, 1988].”
 
 Amendment by section 8016(a)(3)(A), (4)(A), (C) of Pub. L. 100–647 effective Nov. 10, 1988, except that any amendment to a provision of a particular Public Law which is referred to by its number, or to a provision of the Social Security Act [42 U.S.C. 301 et seq.], or to this title as added or amended by a provision of a particular Public Law which is so referred to, effective as though included or reflected in the relevant provisions of that Public Law at the time of its enactment, see section 8016(b) of Pub. L. 100–647, set out as a note under section 3111 of this title.
 
-Pub. L. 100–647, title VIII, § 8017(c), Nov. 10, 1988, 102 Stat. 3794, provided that: “The amendments made by this section [amending this section and section 409 of Title 42, The Public Health and Welfare] shall take effect as if included in the amendments made by section 9002 of the Omnibus Budget Reconciliation Act of 1987 [Pub. L. 100–203].”
+Pub. L. 100–647, title VIII, § 8017(c), Nov. 10, 1988, 102 Stat. 3794, provided that: “The amendments made by this section [amending this section and section 409 of Title 42, The Public Health and Welfare] shall take effect as if included in the amendments made by section 9002 of the Omnibus Budget Reconciliation Act of 1987 [Pub. L. 100–203].”
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–203, title IX, § 9001(d), Dec. 22, 1987, 101 Stat. 1330–286, provided that: “The amendments made by this section [amending this section and sections 409, 410, and 429 of Title 42, The Public Health and Welfare] shall apply with respect to remuneration paid after December 31, 1987.”
+Pub. L. 100–203, title IX, § 9001(d), Dec. 22, 1987, 101 Stat. 1330–286, provided that: “The amendments made by this section [amending this section and sections 409, 410, and 429 of Title 42, The Public Health and Welfare] shall apply with respect to remuneration paid after December 31, 1987.”
 
-Pub. L. 100–203, title IX, § 9002(c), Dec. 22, 1987, 101 Stat. 1330–287, provided that: “The amendments made by this section [amending this section and section 409 of Title 42] shall apply with respect to remuneration for agricultural labor paid after December 31, 1987.”
+Pub. L. 100–203, title IX, § 9002(c), Dec. 22, 1987, 101 Stat. 1330–287, provided that: “The amendments made by this section [amending this section and section 409 of Title 42] shall apply with respect to remuneration for agricultural labor paid after December 31, 1987.”
 
-Pub. L. 100–203, title IX, § 9003(b), Dec. 22, 1987, 101 Stat. 1330–287, as amended by Pub. L. 100–647, title VIII, § 8013(a), Nov. 10, 1988, 102 Stat. 3789, provided that: “The amendments made by subsection (a) [amending this section and section 409 of Title 42] shall apply with respect to group-term life insurance coverage in effect after December 31, 1987, except that such amendments shall not apply with respect to payments by the employer (or a successor of such employer) for group-term life insurance for such employer’s former employees who separated from employment with the employer on or before December 31, 1988, to the extent that such payments are not for coverage for any such employee for any period for which such employee is employed by such employer (or a successor of such employer) after the date of such separation.”
+Pub. L. 100–203, title IX, § 9003(b), Dec. 22, 1987, 101 Stat. 1330–287, as amended by Pub. L. 100–647, title VIII, § 8013(a), Nov. 10, 1988, 102 Stat. 3789, provided that: “The amendments made by subsection (a) [amending this section and section 409 of Title 42] shall apply with respect to group-term life insurance coverage in effect after December 31, 1987, except that such amendments shall not apply with respect to payments by the employer (or a successor of such employer) for group-term life insurance for such employer’s former employees who separated from employment with the employer on or before December 31, 1988, to the extent that such payments are not for coverage for any such employee for any period for which such employee is employed by such employer (or a successor of such employer) after the date of such separation.”
 
-[Pub. L. 100–647, title VIII, § 8013(b), Nov. 10, 1988, 102 Stat. 3790, provided that: “The amendment made by subsection (a) [amending section 9003(b) of Pub. L. 100–203, set out above] shall apply as if such amendment had been included or reflected in section 9003(b) of the Omnibus Budget Reconciliation Act of 1987 [Pub. L. 100–203] at the time of its enactment.” ]
+[Pub. L. 100–647, title VIII, § 8013(b), Nov. 10, 1988, 102 Stat. 3790, provided that: “The amendment made by subsection (a) [amending section 9003(b) of Pub. L. 100–203, set out above] shall apply as if such amendment had been included or reflected in section 9003(b) of the Omnibus Budget Reconciliation Act of 1987 [Pub. L. 100–203] at the time of its enactment.” ]
 
-Pub. L. 100–203, title IX, § 9004(c), Dec. 22, 1987, 101 Stat. 1330–288, provided that: “The amendments made by this section [amending this section and section 410 of Title 42] shall apply with respect to to remuneration paid after December 31, 1987.”
+Pub. L. 100–203, title IX, § 9004(c), Dec. 22, 1987, 101 Stat. 1330–288, provided that: “The amendments made by this section [amending this section and section 410 of Title 42] shall apply with respect to to remuneration paid after December 31, 1987.”
 
-Pub. L. 100–203, title IX, § 9005(c), Dec. 22, 1987, 101 Stat. 1330–288, provided that: “The amendments made by this section [amending this section and section 410 of Title 42] shall apply with respect to to remuneration paid after December 31, 1987.”
+Pub. L. 100–203, title IX, § 9005(c), Dec. 22, 1987, 101 Stat. 1330–288, provided that: “The amendments made by this section [amending this section and section 410 of Title 42] shall apply with respect to to remuneration paid after December 31, 1987.”
 
 Amendment by section 9006(a), (b)(2) of Pub. L. 100–203 applicable with respect to tips received and wages paid on or after Jan. 1, 1988, see section 9006(c) of Pub. L. 100–203, set out as a note under section 3111 of this title.
 
@@ -2555,13 +2555,13 @@ Amendment by section 1151(d)(2)(A) of Pub. L. 99–514 applicable to taxable yea
 
 Amendment by section 1882(c) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
-Pub. L. 99–514, title XVIII, § 1895(b)(18)(C), Oct. 22, 1986, 100 Stat. 2935, provided that: “The amendments made by this paragraph [amending this section and section 410 of Title 42, The Public Health and Welfare] shall apply to services performed after March 31, 1986.”
+Pub. L. 99–514, title XVIII, § 1895(b)(18)(C), Oct. 22, 1986, 100 Stat. 2935, provided that: “The amendments made by this paragraph [amending this section and section 410 of Title 42, The Public Health and Welfare] shall apply to services performed after March 31, 1986.”
 
 Amendment by Pub. L. 99–509, except as otherwise provided, effective with respect to payments due with respect to wages paid after Dec. 31, 1986, including wages paid after such date by a State (or political subdivision thereof) that modified its agreement pursuant to section 418(e)(2) of Title 42, see section 9002(d) of Pub. L. 99–509, set out as a note under section 418 of Title 42.
 
 Amendment by section 12112(b) of Pub. L. 99–272 effective with respect to service performed after Dec. 31, 1983, see section 12112(c) of Pub. L. 99–272, set out as a note under section 409 of Title 42.
 
-Pub. L. 99–272, title XIII, § 13205(d)(1), Apr. 7, 1986, 100 Stat. 318, provided that: “The amendments made by subsection (a) [amending this section and sections 1402, 3122, 3125, 6205, and 6413 of this title] shall apply to services performed after March 31, 1986.”
+Pub. L. 99–272, title XIII, § 13205(d)(1), Apr. 7, 1986, 100 Stat. 318, provided that: “The amendments made by subsection (a) [amending this section and sections 1402, 3122, 3125, 6205, and 6413 of this title] shall apply to services performed after March 31, 1986.”
 
 **Effective Date of 1985 Amendment**
 
@@ -2579,23 +2579,23 @@ Amendment by section 2601(b) of Pub. L. 98–369 effective with respect to servi
 
 Amendment by section 2603(a)(2), (b) of Pub. L. 98–369 applicable to service performed after Dec. 31, 1983, see section 2603(e) of Pub. L. 98–369, set out as a note under section 410 of Title 42.
 
-Pub. L. 98–369, div. B, title VI, § 2661(*o*)(3), July 18, 1984, 98 Stat. 1159, provided that the amendment made by that section is effective Jan. 1, 1984.
+Pub. L. 98–369, div. B, title VI, § 2661(*o*)(3), July 18, 1984, 98 Stat. 1159, provided that the amendment made by that section is effective Jan. 1, 1984.
 
 Amendment by section 2663 of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of Title 42.
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–21, title I, § 101(d), Apr. 20, 1983, 97 Stat. 70, as amended by Pub. L. 98–369, div. B, title VI, § 2662(a), July 18, 1984, 98 Stat. 1159, provided that: “The amendments made by this section [amending this section and sections 409 and 410 of Title 42, The Public Health and Welfare] shall be effective with respect to service performed after December 31, 1983.”
+Pub. L. 98–21, title I, § 101(d), Apr. 20, 1983, 97 Stat. 70, as amended by Pub. L. 98–369, div. B, title VI, § 2662(a), July 18, 1984, 98 Stat. 1159, provided that: “The amendments made by this section [amending this section and sections 409 and 410 of Title 42, The Public Health and Welfare] shall be effective with respect to service performed after December 31, 1983.”
 
-Pub. L. 98–21, title I, § 102(c), Apr. 20, 1983, 97 Stat. 71, provided that: “The amendments made by the preceding provisions of this section [amending this section and section 410 of Title 42] shall be effective with respect to service performed after December 31, 1983 (but the provisions of sections 2 and 3 of Public Law 94–563 [set out below] and section 312(c) of Public Law 95–216 [set out below] shall continue in effect, to the extent applicable, as though such amendments had not been made).”
+Pub. L. 98–21, title I, § 102(c), Apr. 20, 1983, 97 Stat. 71, provided that: “The amendments made by the preceding provisions of this section [amending this section and section 410 of Title 42] shall be effective with respect to service performed after December 31, 1983 (but the provisions of sections 2 and 3 of Public Law 94–563 [set out below] and section 312(c) of Public Law 95–216 [set out below] shall continue in effect, to the extent applicable, as though such amendments had not been made).”
 
 Amendment by section 321 of Pub. L. 98–21, applicable to agreements entered into after Apr. 20, 1983, except that at the election of any American employer such amendment shall also apply to any agreement entered into on or before Apr. 20, 1983, see section 321(f) of Pub. L. 98–21 set out as a note under section 406 of this title.
 
-Pub. L. 98–21, title III, § 322(c), Apr. 20, 1983, 97 Stat. 121, provided that: “The amendments made by this section [amending this section, section 1402 of this title, and sections 410 and 411 of Title 42, The Public Health and Welfare] shall be effective for taxable years beginning on or after the date of the enactment of this Act [Apr. 20, 1983].”
+Pub. L. 98–21, title III, § 322(c), Apr. 20, 1983, 97 Stat. 121, provided that: “The amendments made by this section [amending this section, section 1402 of this title, and sections 410 and 411 of Title 42, The Public Health and Welfare] shall be effective for taxable years beginning on or after the date of the enactment of this Act [Apr. 20, 1983].”
 
-Pub. L. 98–21, title III, § 323(c)(1), Apr. 20, 1983, 97 Stat. 121, provided that: “The amendments made by subsection (a) [amending this section and section 410 of Title 42] shall apply to remuneration paid after December 31, 1983.”
+Pub. L. 98–21, title III, § 323(c)(1), Apr. 20, 1983, 97 Stat. 121, provided that: “The amendments made by subsection (a) [amending this section and section 410 of Title 42] shall apply to remuneration paid after December 31, 1983.”
 
-Pub. L. 98–21, title III, § 324(d), Apr. 20, 1983, 97 Stat. 125, as amended by Pub. L. 98–369, div. B, title VI, § 2662(f)(2), July 18, 1984, 98 Stat. 1159; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–21, title III, § 324(d), Apr. 20, 1983, 97 Stat. 125, as amended by Pub. L. 98–369, div. B, title VI, § 2662(f)(2), July 18, 1984, 98 Stat. 1159; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1)** Except as otherwise provided in this subsection, the amendments made by this section [amending this section, section 3306 of this title, and sections 403 and 409 of Title 42 and enacting provisions set out as a note under section 3306 of this title] shall apply to remuneration paid after December 31, 1983. For purposes of applying such amendments to remuneration paid after December 31, 1983, which would have been taken into account before January 1, 1984, if such amendments had applied to periods before January 1, 1984, such remuneration shall be taken into account when paid (or, at the election of the payor, at the time which would be appropriate if such amendments had applied).
 
@@ -2617,7 +2617,7 @@ Pub. L. 98–21, title III, § 324(d), Apr. 20, 1983, 97 Stat. 125, as amended
 
 > The preceding sentence shall not apply in the case of a plan to which section 457(a) of such Code applies. For purposes of this paragraph, any plan or agreement to make payments described in paragraph (2), (3), or (13)(A)(iii) of section 3121(a) of such Code (as in effect on the day before the date of the enactment of this Act [Apr. 20, 1983]) shall be treated as a nonqualified deferred compensation plan.”
 
-Pub. L. 98–21, title III, § 327(d), Apr. 20, 1983, 97 Stat. 127, as amended by Pub. L. 98–369, div. B, title VI, § 2662(g), July 18, 1984, 98 Stat. 1160; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–21, title III, § 327(d), Apr. 20, 1983, 97 Stat. 127, as amended by Pub. L. 98–369, div. B, title VI, § 2662(g), July 18, 1984, 98 Stat. 1160; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1)** The amendment made by subsection (a) [amending this section and section 409 of Title 42] shall apply to remuneration paid after December 31, 1983.
 
@@ -2625,7 +2625,7 @@ Pub. L. 98–21, title III, § 327(d), Apr. 20, 1983, 97 Stat. 127, as amended
 
 > **“(3)** The amendments made by paragraphs (1), (2), and (3) of subsection (c) [amending section 3306 of this title] shall apply to remuneration paid after December 31, 1984.”
 
-Pub. L. 98–21, title III, § 328(d), Apr. 20, 1983, 97 Stat. 128, provided that:
+Pub. L. 98–21, title III, § 328(d), Apr. 20, 1983, 97 Stat. 128, provided that:
 
 > **“(1)** Except as provided in paragraph (2), the amendments made by this section [amending this section, section 3306 of this title, and section 409 of Title 42] shall apply to remuneration paid after December 31, 1983.
 
@@ -2633,11 +2633,11 @@ Pub. L. 98–21, title III, § 328(d), Apr. 20, 1983, 97 Stat. 128, provided t
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–248, title II, § 278(c)(1), Sept. 3, 1982, 96 Stat. 562, provided that: “The amendments made by subsection (a) [amending this section and sections 1402 and 3122 of this title] shall apply to remuneration paid after December 31, 1982.”
+Pub. L. 97–248, title II, § 278(c)(1), Sept. 3, 1982, 96 Stat. 562, provided that: “The amendments made by subsection (a) [amending this section and sections 1402 and 3122 of this title] shall apply to remuneration paid after December 31, 1982.”
 
 **Effective Date of 1981 Amendments**
 
-Pub. L. 97–123, § 3(g), Dec. 29, 1981, 95 Stat. 1663, provided that:
+Pub. L. 97–123, § 3(g), Dec. 29, 1981, 95 Stat. 1663, provided that:
 
 > **“(1)** Except as provided in paragraph (2), this section (and the amendments made by this section) [amending this section, section 3231 of this title, and section 409 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 3101 of this title] shall apply to remuneration paid after December 31, 1981.
 
@@ -2651,7 +2651,7 @@ Amendment by Pub. L. 97–34 applicable to remuneration paid after Dec. 31, 1981
 
 **Effective Date of 1980 Amendments**
 
-Pub. L. 96–499, title XI, § 1141(c), Dec. 5, 1980, 94 Stat. 2694, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 96–499, title XI, § 1141(c), Dec. 5, 1980, 94 Stat. 2694, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [amending this section, section 3306 of this title, and section 409 of Title 42, The Public Health and Welfare] shall apply with respect to remuneration paid after December 31, 1980.
 
@@ -2663,35 +2663,35 @@ Pub. L. 96–499, title XI, § 1141(c), Dec. 5, 1980, 94 Stat. 2694, as amende
 
 > **“(C)** For purposes of subparagraph (A), the term ‘Governmental unit’ means a State or political subdivision thereof within the meaning of section 218 of the Social Security Act [42 U.S.C. 418].”
 
-Pub. L. 96–222, title I, § 101(b)(1)(E), Apr. 1, 1980, 94 Stat. 205, provided that: “The amendments made by subparagraph (B) of subsection (a)(10) [amending this section and section 3306 of this title] shall apply to payments made on or after January 1, 1979.”
+Pub. L. 96–222, title I, § 101(b)(1)(E), Apr. 1, 1980, 94 Stat. 205, provided that: “The amendments made by subparagraph (B) of subsection (a)(10) [amending this section and section 3306 of this title] shall apply to payments made on or after January 1, 1979.”
 
 **Effective Date of 1978 Amendments**
 
 Amendment by Pub. L. 95–600 applicable with respect to taxable years beginning after Dec. 31, 1978, see section 164(d) of Pub. L. 95–600, set out as an Effective Date note under section 127 of this title.
 
-Pub. L. 95–472, § 3(d), Oct. 17, 1978, 92 Stat. 1333, provided that: “The amendments made by this section [amending this section, section 3306 of this title, and section 409 of Title 42, The Public Health and Welfare] shall apply with respect to taxable years beginning after December 31, 1976.”
+Pub. L. 95–472, § 3(d), Oct. 17, 1978, 92 Stat. 1333, provided that: “The amendments made by this section [amending this section, section 3306 of this title, and section 409 of Title 42, The Public Health and Welfare] shall apply with respect to taxable years beginning after December 31, 1976.”
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–216, title III, § 312(h), Dec. 20, 1977, 91 Stat. 1535, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a), (b), (d), (e), (f), and (g) of this section [amending this section and provisions set out below] shall be effective as though they had been included as a part of the amendments made to section 3121(k) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] by the first section of Public Law 94–563 (or, in the case of the amendments made by subsection (e), as a part of section 3 of such Public Law).”
+Pub. L. 95–216, title III, § 312(h), Dec. 20, 1977, 91 Stat. 1535, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a), (b), (d), (e), (f), and (g) of this section [amending this section and provisions set out below] shall be effective as though they had been included as a part of the amendments made to section 3121(k) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] by the first section of Public Law 94–563 (or, in the case of the amendments made by subsection (e), as a part of section 3 of such Public Law).”
 
-Pub. L. 95–216, title III, § 314(c), Dec. 20, 1977, 91 Stat. 1536, provided that: “The amendments made by this section [amending this section and section 3306 of this title] shall apply with respect to wages paid after December 31, 1978.”
+Pub. L. 95–216, title III, § 314(c), Dec. 20, 1977, 91 Stat. 1536, provided that: “The amendments made by this section [amending this section and section 3306 of this title] shall apply with respect to wages paid after December 31, 1978.”
 
 Amendment by section 315(a) of Pub. L. 95–216 applicable with respect to wages paid with respect to employment performed in months after Dec. 1977, see section 315(c) of Pub. L. 95–216, set out as a note under section 3111 of this title.
 
-Pub. L. 95–216, title III, § 356(e), Dec. 20, 1977, 91 Stat. 1556, provided that: “The amendments made by this section [amending this section] shall apply with respect to remuneration paid and services rendered after December 31, 1977.”
+Pub. L. 95–216, title III, § 356(e), Dec. 20, 1977, 91 Stat. 1556, provided that: “The amendments made by this section [amending this section] shall apply with respect to remuneration paid and services rendered after December 31, 1977.”
 
 **Effective Date of 1976 Amendments**
 
-Pub. L. 94–563, § 1(d), Oct. 19, 1976, 90 Stat. 2658, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section [amending this section and section 410 of Title 42, The Public Health and Welfare], shall apply with respect to services performed after 1950, to the extent covered by waiver certificates filed or deemed to have been filed under section 3121(k)(4) or (5) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as added by such amendments).”
+Pub. L. 94–563, § 1(d), Oct. 19, 1976, 90 Stat. 2658, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section [amending this section and section 410 of Title 42, The Public Health and Welfare], shall apply with respect to services performed after 1950, to the extent covered by waiver certificates filed or deemed to have been filed under section 3121(k)(4) or (5) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as added by such amendments).”
 
-Pub. L. 94–455, title XII, § 1207(f)(4), Oct. 4, 1976, 90 Stat. 1708, as amended by Pub. L. 95–600, title VII, § 701(z)(1), Nov. 6, 1978, 92 Stat. 2921; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–455, title XII, § 1207(f)(4), Oct. 4, 1976, 90 Stat. 1708, as amended by Pub. L. 95–600, title VII, § 701(z)(1), Nov. 6, 1978, 92 Stat. 2921; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(A)** The amendments made by paragraphs (1)(A) and (2)(A) of subsection (e) [amending this section and section 410 of Title 42, The Public Health and Welfare] shall apply to services performed after December 31, 1954. The amendments made by paragraphs (1)(B), (1)(C), and (2)(B) of such subsection [amending sections 1401 and 3401 of this title and section 411 of Title 42] shall apply to taxable years ending after December 31, 1954. The amendments made by paragraph (3) of such subsection [enacting section 6050A and amending section 6652 of this title] shall apply to calendar years beginning after the date of the enactment of this Act [Oct. 4, 1976].
 
 > **“(B)** Notwithstanding subparagraph (A), if the owner or operator of any boat treated a share of the boat’s catch of fish or other aquatic animal life (or a share of the proceeds therefrom) received by an individual after December 31, 1954, and before the date of the enactment of this act [Oct. 4, 1976] for services performed by such individual after December 31, 1954, on such boat as being subject to the tax under chapter 21 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], then the amendments made by paragraphs (1)(A) and (B) and (2) of subsection (c) shall not apply with respect to such services performed by such individual (and the share of the catch, or the proceeds therefrom, received by him for such services).”
 
-[Pub. L. 95–600, title VII, § 701(z)(2), Nov. 6, 1978, 92 Stat. 2921, provided that: “The amendments made by paragraph (1) [amending section 1207(f)(4) of Pub. L. 94–455, set out above] shall take effect on October 4, 1976.” ]
+[Pub. L. 95–600, title VII, § 701(z)(2), Nov. 6, 1978, 92 Stat. 2921, provided that: “The amendments made by paragraph (1) [amending section 1207(f)(4) of Pub. L. 94–455, set out above] shall take effect on October 4, 1976.” ]
 
 Amendment by section 1903 of Pub. L. 94–455 applicable with respect to wages paid after Dec. 31, 1976, see section 1903(d) of Pub. L. 94–455, set out as a note under section 3101 of this title.
 
@@ -2727,7 +2727,7 @@ Amendment by section 108(b) of Pub. L. 90–248 applicable only with respect to 
 
 Amendment by section 123(b) of Pub. L. 90–248 applicable with respect to services performed after Dec. 31, 1967, see section 123(c) of Pub. L. 90–248, set out as a note under section 410 of Title 42.
 
-Pub. L. 90–248, title V, § 504(d), Jan. 2, 1968, 81 Stat. 935, provided that: “The amendments made by this section [amending this section, section 3306 of this title, and section 409 of Title 42] shall apply with respect to remuneration paid after the date of the enactment of this Act [Jan. 2, 1968].”
+Pub. L. 90–248, title V, § 504(d), Jan. 2, 1968, 81 Stat. 935, provided that: “The amendments made by this section [amending this section, section 3306 of this title, and section 409 of Title 42] shall apply with respect to remuneration paid after the date of the enactment of this Act [Jan. 2, 1968].”
 
 **Effective Date of 1965 Amendment**
 
@@ -2735,23 +2735,23 @@ Amendment by section 311(b)(4), (5) of Pub. L. 89–97 applicable only with resp
 
 Amendment by section 313 of Pub. L. 89–97 applicable only with respect to tips received by employees after 1965, see section 313(f) of Pub. L. 89–97, set out as an Effective Date note under section 6053 of this title.
 
-Pub. L. 89–97, title III, § 316(a)(2), July 30, 1965, 79 Stat. 386, provided that: “The amendment made by paragraph (1) [amending this section] shall apply in the case of any certificate filed under section 3121(k)(1)(A) of such Code after the date of the enactment of this Act [July 30, 1965].”
+Pub. L. 89–97, title III, § 316(a)(2), July 30, 1965, 79 Stat. 386, provided that: “The amendment made by paragraph (1) [amending this section] shall apply in the case of any certificate filed under section 3121(k)(1)(A) of such Code after the date of the enactment of this Act [July 30, 1965].”
 
 Amendment by section 317 of Pub. L. 89–97 applicable with respect to services performed after quarter ending September 30, 1965, and after quarter in which Secretary of the Treasury receives a certification from Commissioners of District of Columbia expressing their desire to have insurance system established by sections 401 et seq. and 1395c et seq. of Title 42 extended to the officers and employees coming under provisions of such amendments, see section 317(g) of Pub. L. 89–97, set out as a note under section 410 of Title 42.
 
-Pub. L. 89–97, title III, § 320(c), July 30, 1965, 79 Stat. 394, provided that: “The amendments made by subsections (a)(1) and (a)(3)(A) [amending sections 409 and 413 of Title 42], and the amendments made by subsection (b) (except paragraph (1) thereof) [amending this section and sections 3122, 3125, and 6413 of this title], shall apply only with respect to remuneration paid after December 1965. The amendments made by subsections (a)(2), (a)(3)(B), and (b)(1) [amending section 1402 of this title and sections 411 and 413 of Title 42] shall apply only with respect to taxable years ending after 1965. The amendment made by subsection (a)(4) [amending section 415 of Title 42] shall apply only with respect to calendar years after 1965.”
+Pub. L. 89–97, title III, § 320(c), July 30, 1965, 79 Stat. 394, provided that: “The amendments made by subsections (a)(1) and (a)(3)(A) [amending sections 409 and 413 of Title 42], and the amendments made by subsection (b) (except paragraph (1) thereof) [amending this section and sections 3122, 3125, and 6413 of this title], shall apply only with respect to remuneration paid after December 1965. The amendments made by subsections (a)(2), (a)(3)(B), and (b)(1) [amending section 1402 of this title and sections 411 and 413 of Title 42] shall apply only with respect to taxable years ending after 1965. The amendment made by subsection (a)(4) [amending section 415 of Title 42] shall apply only with respect to calendar years after 1965.”
 
 **Effective Date of 1964 Amendments**
 
-Pub. L. 88–650, § 4(d), Oct. 13, 1964, 78 Stat. 1078, provided that: “The amendments made by this section [amending this section, section 3306 of this title, and section 409 of Title 42, The Public Health and Welfare] shall apply with respect to remuneration paid on or after the first day of the first calendar month which begins more than ten days after the date of the enactment of this Act [Oct. 13, 1964].”
+Pub. L. 88–650, § 4(d), Oct. 13, 1964, 78 Stat. 1078, provided that: “The amendments made by this section [amending this section, section 3306 of this title, and section 409 of Title 42, The Public Health and Welfare] shall apply with respect to remuneration paid on or after the first day of the first calendar month which begins more than ten days after the date of the enactment of this Act [Oct. 13, 1964].”
 
 Amendment by Pub. L. 88–272 applicable to remuneration paid after Dec. 31, 1962, see section 220(d) of Pub. L. 88–272, set out as an Effective Date note under section 406 of this title.
 
 **Effective Date of 1961 Amendments**
 
-Pub. L. 87–293, title II, § 202(c), Sept. 22, 1961, 75 Stat. 627, provided that: “The amendments made by subsections (a) and (b) of this section [amending this section, sections 3122 and 6051 of this title, and sections 405, 409, and 410 of Title 42, The Public Health and Welfare] shall apply with respect to service performed after the date of the enactment of this Act [Sept. 22, 1961]. In the case of any individual who is enrolled as a volunteer or volunteer leader under section 16(a) of this Act [section 2515(a) of Title 22, Foreign Relations and Intercourse] such amendments shall apply with respect to services performed on or after the effective date of such enrollment.” [Section 202(c) of Pub. L. 87–293 repealed by Pub. L. 89–572, § 5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments contained in such provisions, see section 5(b) of Pub. L. 89–572, set out as a note under former section 2515 of Title 22.]
+Pub. L. 87–293, title II, § 202(c), Sept. 22, 1961, 75 Stat. 627, provided that: “The amendments made by subsections (a) and (b) of this section [amending this section, sections 3122 and 6051 of this title, and sections 405, 409, and 410 of Title 42, The Public Health and Welfare] shall apply with respect to service performed after the date of the enactment of this Act [Sept. 22, 1961]. In the case of any individual who is enrolled as a volunteer or volunteer leader under section 16(a) of this Act [section 2515(a) of Title 22, Foreign Relations and Intercourse] such amendments shall apply with respect to services performed on or after the effective date of such enrollment.” [Section 202(c) of Pub. L. 87–293 repealed by Pub. L. 89–572, § 5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments contained in such provisions, see section 5(b) of Pub. L. 89–572, set out as a note under former section 2515 of Title 22.]
 
-Pub. L. 87–256, title I, § 110(h)(3), Sept. 21, 1961, 75 Stat. 537, provided that: “The amendments made by subsections (e) and (f) of this section [amending this section, section 3306 of this title, and section 410 of Title 42, The Public Health and Welfare] shall apply with respect to service performed after December 31, 1961.”
+Pub. L. 87–256, title I, § 110(h)(3), Sept. 21, 1961, 75 Stat. 537, provided that: “The amendments made by subsections (e) and (f) of this section [amending this section, section 3306 of this title, and section 410 of Title 42, The Public Health and Welfare] shall apply with respect to service performed after December 31, 1961.”
 
 **Effective Date of 1960 Amendments**
 
@@ -2761,9 +2761,9 @@ Amendment by section 103(*o*), (p) of Pub. L. 86–778 applicable only with resp
 
 Amendment by section 104(b) of Pub. L. 86–778 applicable only with respect to services performed after 1960, see section 104(c) of Pub. L. 86–778, set out as a note under section 410 of Title 42.
 
-Pub. L. 86–624, § 18(k), July 12, 1960, 74 Stat. 416, provided that: “The amendments contained in subsections (a) through (j) of this section [amending this section and sections 2202, 3306, 4221, 4233, 4262, 4502, 4774, 7653, and 7701 of this title] shall be effective as of August 21, 1959.”
+Pub. L. 86–624, § 18(k), July 12, 1960, 74 Stat. 416, provided that: “The amendments contained in subsections (a) through (j) of this section [amending this section and sections 2202, 3306, 4221, 4233, 4262, 4502, 4774, 7653, and 7701 of this title] shall be effective as of August 21, 1959.”
 
-Pub. L. 86–778, title I, § 105(d), Sept. 13, 1960, 74 Stat. 945, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 86–778, title I, § 105(d), Sept. 13, 1960, 74 Stat. 945, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1)** The amendments made by subsection (a) [amending this section] shall apply only with respect to certificates filed under section 3121(k)(1) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] after the date of the enactment of this Act [Sept. 13, 1960].
 
@@ -2771,21 +2771,21 @@ Pub. L. 86–778, title I, § 105(d), Sept. 13, 1960, 74 Stat. 945, as amended
 
 **Effective Date of 1959 Amendments**
 
-Amendment by Pub. L. 86–168 effective Jan. 1, 1960, see Pub. L. 86–168, title II, § 203(c), Aug. 18, 1959, 73 Stat. 390.
+Amendment by Pub. L. 86–168 effective Jan. 1, 1960, see Pub. L. 86–168, title II, § 203(c), Aug. 18, 1959, 73 Stat. 390.
 
-Pub. L. 86–70, § 22(i), June 25, 1959, 73 Stat. 147, provided that: “The amendments contained in subsections (a) through (h) of this section [amending this section and sections 2202, 3306, 4221, 4233, 4262, 4502, 4774, 7621, 7653, and 7701 of this title] shall be effective as of January 3, 1959.”
+Pub. L. 86–70, § 22(i), June 25, 1959, 73 Stat. 147, provided that: “The amendments contained in subsections (a) through (h) of this section [amending this section and sections 2202, 3306, 4221, 4233, 4262, 4502, 4774, 7621, 7653, and 7701 of this title] shall be effective as of January 3, 1959.”
 
 **Effective Date of 1958 Amendment**
 
-Pub. L. 85–840, title IV, § 402(e), Aug. 28, 1958, 72 Stat. 1043, provided that: “The amendments made by subsections (b) and (c) [amending this section and section 3122 of this title] shall be applicable only with respect to remuneration paid after 1958.”
+Pub. L. 85–840, title IV, § 402(e), Aug. 28, 1958, 72 Stat. 1043, provided that: “The amendments made by subsections (b) and (c) [amending this section and section 3122 of this title] shall be applicable only with respect to remuneration paid after 1958.”
 
-Pub. L. 85–840, title IV, § 404(b), Aug. 28, 1958, 72 Stat. 1044, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to service performed after 1958.”
+Pub. L. 85–840, title IV, § 404(b), Aug. 28, 1958, 72 Stat. 1044, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to service performed after 1958.”
 
-Pub. L. 85–840, title IV, § 405(c), Aug. 28, 1958, 72 Stat. 1047, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply with respect to certificates filed under section 3121(k)(1) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] after the date of enactment of this Act [Aug. 28, 1958] and requests filed under subparagraph (F) of such section after such date.”
+Pub. L. 85–840, title IV, § 405(c), Aug. 28, 1958, 72 Stat. 1047, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply with respect to certificates filed under section 3121(k)(1) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] after the date of enactment of this Act [Aug. 28, 1958] and requests filed under subparagraph (F) of such section after such date.”
 
 **Effective Date of 1956 Amendment**
 
-Act Aug. 1, 1956, ch. 836, title II, § 201(m), 70 Stat. 843, as amended by act Oct. 22, 1986, Pub. L. 99–514, § 2, 100 Stat. 2095, provided that:
+Act Aug. 1, 1956, ch. 836, title II, § 201(m), 70 Stat. 843, as amended by act Oct. 22, 1986, Pub. L. 99–514, § 2, 100 Stat. 2095, provided that:
 
 > **“(1)** The amendments made by subsection (a) [enacting section 3113 of this title] and paragraph (1) of subsection (h) [amending this section] shall apply with respect to remuneration paid after 1956. The amendment made by subsection (b) [amending this section] shall apply with respect to remuneration paid after October 1956. The amendments made by subsection (c) and paragraph (2) of subsection (h) [amending this section] shall apply with respect to service performed after 1956. The amendments made by paragraphs (1) and (2) of subsection (d) [amending this section] shall apply with respect to service with respect to which the amendments made by paragraphs (1) and (2) of subsection (b) of section 104 of this Act [amending section 410 of Title 42, The Public Health and Welfare] apply. The amendments made by paragraph (1) of subsection (e) [amending this section] shall apply with respect to service performed after 1954. The amendment made by paragraph (3) of such subsection shall [amending section 1402 of this title] apply with respect to taxable years ending after 1954. The amendments made by paragraph (2) of subsection (e) and by subsection (f) [amending section 1402 of this title] shall apply with respect to taxable years ending after 1955. The amendment made by subsection (i) [amending section 1402 of this title] shall apply with respect to taxable years ending on or after December 31, 1956. The amendment made by subsection (*l*) [amending this section] shall apply with respect to certificates filed after 1956 under section 3121(k) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954].
 
@@ -2807,19 +2807,19 @@ Act Aug. 1, 1956, ch. 836, title II, § 201(m), 70 Stat. 843, as amended by ac
 
 > **“(4)** Any tax due under chapter 21 of the Internal Revenue Code of 1986 [this chapter] which is due, solely by reason of the enactment of subsection (d) [amending this section] and an effective date prescribed pursuant to paragraph (2)(B) or (2)(C) of section 104(i) [set out as a note under section 410 of Title 42, The Public Health and Welfare], for any calendar quarter beginning prior to the day on which the Secretary of Health, Education, and Welfare approves the plan which prescribes such effective date shall be considered timely paid if payment is made in full on or before the last day of the sixth calendar month following the month in which such plan is approved. In no event shall interest be imposed on the amount of any such tax due under such chapter for any period before the day on which the Secretary of Health, Education, and Welfare approves such plan.”
 
-Amendment by act Aug. 1, 1956, ch. 837, effective Jan. 1, 1957, see act Aug. 1, 1956, ch. 837, title VI, § 603(a), 70 Stat. 887.
+Amendment by act Aug. 1, 1956, ch. 837, effective Jan. 1, 1957, see act Aug. 1, 1956, ch. 837, title VI, § 603(a), 70 Stat. 887.
 
 **Effective Date of 1954 Amendment**
 
-Act Sept. 1, 1954, ch. 1206, title II, § 204(c), 68 Stat. 1091, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall be applicable only with respect to remuneration paid after 1954.”
+Act Sept. 1, 1954, ch. 1206, title II, § 204(c), 68 Stat. 1091, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall be applicable only with respect to remuneration paid after 1954.”
 
-Act Sept. 1, 1954, ch. 1206, title II, § 205(f), 68 Stat. 1092, provided that: “The amendments made by subsections (c), (d), and (e) [amending this section] shall be applicable only with respect to services performed after 1954. The amendments made by subsections (a) and (b) [amending this section] shall be applicable only with respect to services (whether performed after 1954 or prior to 1955) for which the remuneration is paid after 1954.”
+Act Sept. 1, 1954, ch. 1206, title II, § 205(f), 68 Stat. 1092, provided that: “The amendments made by subsections (c), (d), and (e) [amending this section] shall be applicable only with respect to services performed after 1954. The amendments made by subsections (a) and (b) [amending this section] shall be applicable only with respect to services (whether performed after 1954 or prior to 1955) for which the remuneration is paid after 1954.”
 
-Act Sept. 1, 1954, ch. 1206, title II, § 206(b), 68 Stat. 1093, provided that: “The amendment made by subsection (a) [amending this section] shall be applicable only with respect to services performed after 1954.”
+Act Sept. 1, 1954, ch. 1206, title II, § 206(b), 68 Stat. 1093, provided that: “The amendment made by subsection (a) [amending this section] shall be applicable only with respect to services performed after 1954.”
 
 **Regulations**
 
-Pub. L. 97–123, § 3(d), Dec. 29, 1981, 95 Stat. 1662, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–123, § 3(d), Dec. 29, 1981, 95 Stat. 1662, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1)** The regulations prescribed under the last sentence of section 3121(a) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], and the regulations prescribed under subparagraph (D) of section 3231(e)(4) of such Code, shall provide procedures under which, if (with respect to any employee) the third party promptly—
 
@@ -2841,11 +2841,11 @@ Pub. L. 97–123, § 3(d), Dec. 29, 1981, 95 Stat. 1662, as amended by Pub. L.
 
 **Repeals; Amendments and Application of Amendments Unaffected**
 
-Section 202(a)(1), (2) of Pub. L. 87–293, cited as a credit to this section, was repealed by Pub. L. 89–572, § 5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts, agreements, and other actions issued, undertaken, or entered into under authority of the repealed provisions, see section 5(b) of Pub. L. 89–572, set out as a note under section 2515 of Title 22, Foreign Relations and Intercourse.
+Section 202(a)(1), (2) of Pub. L. 87–293, cited as a credit to this section, was repealed by Pub. L. 89–572, § 5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts, agreements, and other actions issued, undertaken, or entered into under authority of the repealed provisions, see section 5(b) of Pub. L. 89–572, set out as a note under section 2515 of Title 22, Foreign Relations and Intercourse.
 
 **Construction of 2018 Amendment**
 
-Pub. L. 115–243, § 2(c), Sept. 20, 2018, 132 Stat. 2895, provided that: “Nothing in this Act [see Short Title of 2018 Amendment note set out under section 1305 of Title 42, The Public Health and Welfare] or the amendments made by this Act shall be construed to affect application of any Federal income tax withholding requirements under the Internal Revenue Code of 1986.”
+Pub. L. 115–243, § 2(c), Sept. 20, 2018, 132 Stat. 2895, provided that: “Nothing in this Act [see Short Title of 2018 Amendment note set out under section 1305 of Title 42, The Public Health and Welfare] or the amendments made by this Act shall be construed to affect application of any Federal income tax withholding requirements under the Internal Revenue Code of 1986.”
 
 **Transfer of Functions**
 
@@ -2855,7 +2855,7 @@ Secretary of Health, Education, and Welfare redesignated Secretary of Health and
 
 **Subversive Activities Control Board**
 
-The Subversive Activities Control Board was established by act Sept. 23, 1950, ch. 1024, § 12, 64 Stat. 977 and ceased to operate June 30, 1973.
+The Subversive Activities Control Board was established by act Sept. 23, 1950, ch. 1024, § 12, 64 Stat. 977 and ceased to operate June 30, 1973.
 
 **No Inference To Be Drawn From Amendment by Pub. L. 108–121**
 
@@ -2863,7 +2863,7 @@ No inference to be drawn from amendment to subsec. (a)(18) of this section by se
 
 **Clarification of Standard To Be Used in Determining Employment Tax Status of Securities Brokers**
 
-Pub. L. 105–34, title IX, § 921, Aug. 5, 1997, 111 Stat. 879, provided that:
+Pub. L. 105–34, title IX, § 921, Aug. 5, 1997, 111 Stat. 879, provided that:
 
 > **“(a) In General.—** In determining for purposes of the Internal Revenue Code of 1986 whether a registered representative of a securities broker-dealer is an employee (as defined in section 3121(d) of the Internal Revenue Code of 1986), no weight shall be given to instructions from the service recipient which are imposed only in compliance with investor protection standards imposed by the Federal Government, any State government, or a governing body pursuant to a delegation by a Federal or State agency.
 
@@ -2871,7 +2871,7 @@ Pub. L. 105–34, title IX, § 921, Aug. 5, 1997, 111 Stat. 879, provided that
 
 **Treatment of Certain University Accounts**
 
-Pub. L. 104–188, title I, § 1802, Aug. 20, 1996, 110 Stat. 1892, provided that:
+Pub. L. 104–188, title I, § 1802, Aug. 20, 1996, 110 Stat. 1892, provided that:
 
 > **“(a) In General.—** For purposes of subsection (s) of section 3121 of the Internal Revenue Code of 1986 (relating to concurrent employment by 2 or more employers)—
 
@@ -2901,7 +2901,7 @@ No monies appropriated by Pub. L. 101–136 to be used to implement or enforce s
 
 **Treatment of Certain Family Services Care Providers**
 
-Pub. L. 100–647, title VI, § 6305, Nov. 10, 1988, 102 Stat. 3756, provided that:
+Pub. L. 100–647, title VI, § 6305, Nov. 10, 1988, 102 Stat. 3756, provided that:
 
 > **“(a) In General.—** A State may treat a person who renders dependent care or similar services as other than an employee [for] employment tax purposes for the applicable period if all of the following conditions are satisfied with respect to such person for such applicable period:
 
@@ -2923,23 +2923,23 @@ Pub. L. 100–647, title VI, § 6305, Nov. 10, 1988, 102 Stat. 3756, provided 
 
 > **“(e) Report.—** The Secretary of the Treasury shall report to the Senate Committee on Finance and the House Committee on Ways and Means on the text [tax] status of day care providers compensated pursuant to the program described in the section no later than December 31, 1989.”
 
-[The due date for the report referred to in section 6305(e) of Pub. L. 100–647, set out above, extended to Jan. 1, 1992, by Pub. L. 101–508, title XI, § 11831(b), Nov. 5, 1990, 104 Stat. 1388–559.]
+[The due date for the report referred to in section 6305(e) of Pub. L. 100–647, set out above, extended to Jan. 1, 1992, by Pub. L. 101–508, title XI, § 11831(b), Nov. 5, 1990, 104 Stat. 1388–559.]
 
 **Certain Employer Pension Contributions Not Included in FICA Wage Base**
 
-Pub. L. 100–647, title VIII, § 8018, Nov. 10, 1988, 102 Stat. 3794, provided that: “In the case of any State (within the meaning of section 3121(e)(1) of the Internal Revenue Code of 1986) or political subdivision thereof which received a letter ruling of the Internal Revenue Service issued after December 31, 1983, and before the date of the enactment of this Act [Nov. 10, 1988] maintaining that any amount treated as an employer contribution under section 414(h)(2) of the Internal Revenue Code of 1986 is excluded from the definition of ‘wages’ for purposes of tax liability under section 3121(v)(1)(B) of such Code, such State or political subdivision shall be relieved of any liability for taxes under such section 3121(v)(1)(B) which, in good faith reliance on such letter ruling, were not paid and which would otherwise have been required to be paid (but for this section) on or before the earlier of the date of the enactment of this Act or the date of the receipt of a notice of revocation from the Internal Revenue Service of such letter ruling.”
+Pub. L. 100–647, title VIII, § 8018, Nov. 10, 1988, 102 Stat. 3794, provided that: “In the case of any State (within the meaning of section 3121(e)(1) of the Internal Revenue Code of 1986) or political subdivision thereof which received a letter ruling of the Internal Revenue Service issued after December 31, 1983, and before the date of the enactment of this Act [Nov. 10, 1988] maintaining that any amount treated as an employer contribution under section 414(h)(2) of the Internal Revenue Code of 1986 is excluded from the definition of ‘wages’ for purposes of tax liability under section 3121(v)(1)(B) of such Code, such State or political subdivision shall be relieved of any liability for taxes under such section 3121(v)(1)(B) which, in good faith reliance on such letter ruling, were not paid and which would otherwise have been required to be paid (but for this section) on or before the earlier of the date of the enactment of this Act or the date of the receipt of a notice of revocation from the Internal Revenue Service of such letter ruling.”
 
-**Plan Amendments Not Required Until January 1, 1998**
+**Plan Amendments Not Required Until January 1, 1998**
 
-For provisions directing that if any amendments made by subtitle D [§§ 1401–1465] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle D [§§ 1401–1465] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
-**Plan Amendments Not Required Until January 1, 1994**
+**Plan Amendments Not Required Until January 1, 1994**
 
-For provisions directing that if any amendments made by subtitle B [§§ 521–523] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle B [§§ 521–523] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 **Federal Legislative Branch Employees; Exclusion of Certain Retirement Contributions for Purposes of Subsection (b)(5)(G)**
 
@@ -2951,15 +2951,15 @@ For purposes of subsec. (b)(5) of this section as in effect in January 1983 and 
 
 **Refunds to Churches or Qualified Church-Controlled Organizations**
 
-Pub. L. 98–369, div. B, title VI, § 2603(f), July 18, 1984, 98 Stat. 1130, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In any case where a church or qualified church-controlled organization makes an election under section 3121(w) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], the Secretary of the Treasury shall refund (without interest) to such church or organization any taxes paid under sections 3101 and 3111 of such Code with respect to service performed after December 31, 1983, which is covered under such election. The refund shall be conditional upon the church or organization agreeing to pay to each employee (or former employee) the portion of the refund attributable to the tax imposed on such employee (or former employee) under section 3101, and such employee (or former employee) may not receive any other refund payment of such taxes.”
+Pub. L. 98–369, div. B, title VI, § 2603(f), July 18, 1984, 98 Stat. 1130, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In any case where a church or qualified church-controlled organization makes an election under section 3121(w) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], the Secretary of the Treasury shall refund (without interest) to such church or organization any taxes paid under sections 3101 and 3111 of such Code with respect to service performed after December 31, 1983, which is covered under such election. The refund shall be conditional upon the church or organization agreeing to pay to each employee (or former employee) the portion of the refund attributable to the tax imposed on such employee (or former employee) under section 3101, and such employee (or former employee) may not receive any other refund payment of such taxes.”
 
 **Social Security Coverage of Retired Federal Judges on Active Duty**
 
-Pub. L. 98–118, § 4, Oct. 11, 1983, 97 Stat. 803, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Notwithstanding section 101(d) of the Social Security Amendments of 1983 [section 101(d) of Pub. L. 98–21, set out as an Effective Date of 1983 Amendment note above], the amendments made by section 101(c) of such Act [amending this section and section 409 of Title 42, The Public Health and Welfare] shall apply only with respect to remuneration paid after December 31, 1985. Remuneration paid prior to January 1, 1986, under section 371(b) of title 28, United States Code, to an individual performing service under section 294 of such title, shall not be included in the term “wages” for purposes of section 209 of the Social Security Act [42 U.S.C. 409] or section 3121(a) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954].”
+Pub. L. 98–118, § 4, Oct. 11, 1983, 97 Stat. 803, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Notwithstanding section 101(d) of the Social Security Amendments of 1983 [section 101(d) of Pub. L. 98–21, set out as an Effective Date of 1983 Amendment note above], the amendments made by section 101(c) of such Act [amending this section and section 409 of Title 42, The Public Health and Welfare] shall apply only with respect to remuneration paid after December 31, 1985. Remuneration paid prior to January 1, 1986, under section 371(b) of title 28, United States Code, to an individual performing service under section 294 of such title, shall not be included in the term “wages” for purposes of section 209 of the Social Security Act [42 U.S.C. 409] or section 3121(a) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954].”
 
 **Treatment of Certain Medical Faculty Practice Plans**
 
-Pub. L. 98–21, title I, § 125, Apr. 20, 1983, 97 Stat. 91, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–21, title I, § 125, Apr. 20, 1983, 97 Stat. 91, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(a) General Rule.—** For purposes of subsection (s) of section 3121 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to concurrent employment by 2 or more employers)—
 
@@ -2979,15 +2979,15 @@ Pub. L. 98–21, title I, § 125, Apr. 20, 1983, 97 Stat. 91, as amended by Pu
 
 **Waiver of Exemption by Nonprofit Organization; Termination of Certificate Period On or After March 31, 1983, Prohibited**
 
-Pub. L. 98–21, title I, § 102(d), Apr. 20, 1983, 97 Stat. 71, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The period for which a certificate is in effect under section 3121(k) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] may not be terminated under paragraph (1)(D) or (2) thereof on or after March 31, 1983; but no such certificate shall be effective with respect to any service to which the amendments made by this section [amending this section and section 410 of Title 42, The Public Health and Welfare] apply.”
+Pub. L. 98–21, title I, § 102(d), Apr. 20, 1983, 97 Stat. 71, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The period for which a certificate is in effect under section 3121(k) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] may not be terminated under paragraph (1)(D) or (2) thereof on or after March 31, 1983; but no such certificate shall be effective with respect to any service to which the amendments made by this section [amending this section and section 410 of Title 42, The Public Health and Welfare] apply.”
 
 **Payments Under State Temporary Disability Law To Be Treated as Remuneration for Service**
 
-Pub. L. 97–123, § 3(e), Dec. 29, 1981, 95 Stat. 1663, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of applying section 209 of the Social Security Act [section 409 of Title 42, The Public Health and Welfare], section 3121(a) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], and section 3231(e) of such Code with respect to the parenthetical matter contained in section 209(b)(2) of the Social Security Act or section 3121(a)(2)(B) of the Internal Revenue Code of 1986, or with respect to section 3231(e)(4) of such Code (as the case may be), payments under a State temporary disability law shall be treated as remuneration for service.”
+Pub. L. 97–123, § 3(e), Dec. 29, 1981, 95 Stat. 1663, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of applying section 209 of the Social Security Act [section 409 of Title 42, The Public Health and Welfare], section 3121(a) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], and section 3231(e) of such Code with respect to the parenthetical matter contained in section 209(b)(2) of the Social Security Act or section 3121(a)(2)(B) of the Internal Revenue Code of 1986, or with respect to section 3231(e)(4) of such Code (as the case may be), payments under a State temporary disability law shall be treated as remuneration for service.”
 
 **Waiver of Exemption From Social Security Taxes by Certain Organizations**
 
-Pub. L. 96–605, title IV, § 401, Dec. 28, 1980, 94 Stat. 3531, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 96–605, title IV, § 401, Dec. 28, 1980, 94 Stat. 3531, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(a) Waiver Certificate.—**
 
@@ -3029,11 +3029,11 @@ Pub. L. 96–605, title IV, § 401, Dec. 28, 1980, 94 Stat. 3531, as amended b
 
 **Refund or Credit of Taxes to Nonprofit Organizations After Sept. 9, 1976, on Taxes Paid Under Sections 3101 or 3111; Prohibition; Constructive Filing of Certificate**
 
-Pub. L. 94–563, § 2, Oct. 19, 1976, 90 Stat. 2658, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Notwithstanding any other provision of law, no refund or credit of any tax paid under section 3101 or 3111 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] by an organization described in section 501(c)(3) of such Code which is exempt from income tax under section 501(a) of such Code shall be made on or after September 9, 1976, by reason of such organization’s failure to file a waiver certificate under section 3121(k)(1) of such Code (or the corresponding provision of prior law), if such organization is deemed to have filed such a certificate under section 3121(k)(4) of such Code (as added by the first section of this Act).”
+Pub. L. 94–563, § 2, Oct. 19, 1976, 90 Stat. 2658, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Notwithstanding any other provision of law, no refund or credit of any tax paid under section 3101 or 3111 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] by an organization described in section 501(c)(3) of such Code which is exempt from income tax under section 501(a) of such Code shall be made on or after September 9, 1976, by reason of such organization’s failure to file a waiver certificate under section 3121(k)(1) of such Code (or the corresponding provision of prior law), if such organization is deemed to have filed such a certificate under section 3121(k)(4) of such Code (as added by the first section of this Act).”
 
 **Remuneration for Services Deemed To Constitute Employment; Services for Organizations Deemed To Have Filed Certificates Under Subsection (k)(4) of This Section**
 
-Pub. L. 95–216, title III, § 312(c), Dec. 20, 1977, 91 Stat. 1533, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 95–216, title III, § 312(c), Dec. 20, 1977, 91 Stat. 1533, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > “In any case where—
 
@@ -3045,7 +3045,7 @@ Pub. L. 95–216, title III, § 312(c), Dec. 20, 1977, 91 Stat. 1533, as amend
 
 **Remuneration for Services Deemed To Constitute Employment; Services for Organizations Deemed To Have Filed Certificates Under Subsection (k)(5) of This Section**
 
-Pub. L. 94–563, § 3, Oct. 19, 1976, 90 Stat. 2658, as amended by Pub. L. 95–216, title III, § 312(e), Dec. 20, 1977, 91 Stat. 1535; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–563, § 3, Oct. 19, 1976, 90 Stat. 2658, as amended by Pub. L. 95–216, title III, § 312(e), Dec. 20, 1977, 91 Stat. 1535; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > “In any case where—
 
@@ -3059,7 +3059,7 @@ Pub. L. 94–563, § 3, Oct. 19, 1976, 90 Stat. 2658, as amended by Pub. L. 95
 
 **Service for Certain Tax-Exempt Organizations Prior to Filing of Waiver Certificate**
 
-Pub. L. 86–778, title I, § 105(b)(1)–(5), Sept. 13, 1960, 74 Stat. 943, 944, as amended by Pub. L. 89–97, title III, § 316(c)(1), July 30, 1965, 79 Stat. 386; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 86–778, title I, § 105(b)(1)–(5), Sept. 13, 1960, 74 Stat. 943, 944, as amended by Pub. L. 89–97, title III, § 316(c)(1), July 30, 1965, 79 Stat. 386; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1)** If—
 
@@ -3083,19 +3083,19 @@ Pub. L. 86–778, title I, § 105(b)(1)–(5), Sept. 13, 1960, 74 Stat. 943, 9
 
 > **“(5)** Paragraph (1) shall not apply to any service performed for the organization in a period for which a certificate filed pursuant to section 3121(k)(1) of such Code is not in effect.”
 
-[Pub. L. 89–97, title III, § 316(c)(2), July 30, 1965, 79 Stat. 387, provided that: “The amendment made by paragraph (1) [amending section 105(b) of Pub. L. 86–778, set out above] shall take effect on the date of the enactment of this Act [July 30, 1965]. The provisions of section 105(b) of the Social Security Amendments of 1960 [section 105(b) of Pub. L. 86–778] which were in effect before the date of the enactment of this Act [July 30, 1965] shall be applicable with respect to any request filed under section 105(b)(1) of such Amendments before such date. Nothing in the preceding sentence shall prevent the filing of a request under section 105(b)(1) of such Amendments as amended by this Act.” ]
+[Pub. L. 89–97, title III, § 316(c)(2), July 30, 1965, 79 Stat. 387, provided that: “The amendment made by paragraph (1) [amending section 105(b) of Pub. L. 86–778, set out above] shall take effect on the date of the enactment of this Act [July 30, 1965]. The provisions of section 105(b) of the Social Security Amendments of 1960 [section 105(b) of Pub. L. 86–778] which were in effect before the date of the enactment of this Act [July 30, 1965] shall be applicable with respect to any request filed under section 105(b)(1) of such Amendments before such date. Nothing in the preceding sentence shall prevent the filing of a request under section 105(b)(1) of such Amendments as amended by this Act.” ]
 
 **Service for Certain Tax-Exempt Organizations for Which Remuneration was Paid Before July 30, 1965, but After Filing of Waiver Certificate**
 
-Pub. L. 89–97, title III, § 316(d), July 30, 1965, 79 Stat. 387, provided that where an individual performed service for which remuneration was paid before July 30, 1965, by an organization which, before such date, filed a waiver certificate pursuant to subsec. (k)(1) of this section, then under certain conditions, the remuneration paid with respect to such service was to be deemed remuneration for employment for purposes of title II of the Social Security Act, sections 401 et seq, of Title 42, The Public Health and Welfare, even though normally excluded from employment under title II of the Social Security Act.
+Pub. L. 89–97, title III, § 316(d), July 30, 1965, 79 Stat. 387, provided that where an individual performed service for which remuneration was paid before July 30, 1965, by an organization which, before such date, filed a waiver certificate pursuant to subsec. (k)(1) of this section, then under certain conditions, the remuneration paid with respect to such service was to be deemed remuneration for employment for purposes of title II of the Social Security Act, sections 401 et seq, of Title 42, The Public Health and Welfare, even though normally excluded from employment under title II of the Social Security Act.
 
 **Service for Certain Tax-Exempt Organizations Performed After 1950 and Prior to July 1, 1960**
 
-Pub. L. 86–778, title I, § 105(b)(1)–(5), Sept. 13, 1960, 74 Stat. 943, 944, provided that where an individual performed service in the employ of an organization after 1950 with respect to which remuneration was paid before 1960 and such service is normally excepted from employment under title II of the Social Security Act (42 U.S.C. 401 et seq.), then under certain conditions, the remuneration paid with respect to such service was to be deemed remuneration for employment for purposes of title II of the Social Security Act.
+Pub. L. 86–778, title I, § 105(b)(1)–(5), Sept. 13, 1960, 74 Stat. 943, 944, provided that where an individual performed service in the employ of an organization after 1950 with respect to which remuneration was paid before 1960 and such service is normally excepted from employment under title II of the Social Security Act (42 U.S.C. 401 et seq.), then under certain conditions, the remuneration paid with respect to such service was to be deemed remuneration for employment for purposes of title II of the Social Security Act.
 
 **Service for Certain Tax-Exempt Organizations Performed After 1950 and Prior to 1957**
 
-Act Sept. 1, 1954, ch. 1206, title IV, § 403, 68 Stat. 1098, as amended by acts Aug. 1, 1956, ch. 836, title IV, § 401, 70 Stat. 855; Aug. 27, 1958, Pub. L. 85–785, §§ 1–3, 72 Stat. 938, provided that where an individual has been employed after 1950 and before Aug. 1, 1956, by an organization exempt from income tax under section 501(c)(3) of this title but which did not have in effect during the individual’s period of employment a valid waiver certificate, or, which failed to have the individual’s signature appear on the list of signatures of employees who concurred in the filing of such certificate, where one was in effect, and the service performed by the individual would have constituted employment for purposes of title II of the Social Security Act (42 U.S.C. 401 et seq.) had such requirements been met, then under certain conditions, the remuneration paid was to be deemed remuneration for employment for purposes of title II of the Social Security Act.
+Act Sept. 1, 1954, ch. 1206, title IV, § 403, 68 Stat. 1098, as amended by acts Aug. 1, 1956, ch. 836, title IV, § 401, 70 Stat. 855; Aug. 27, 1958, Pub. L. 85–785, §§ 1–3, 72 Stat. 938, provided that where an individual has been employed after 1950 and before Aug. 1, 1956, by an organization exempt from income tax under section 501(c)(3) of this title but which did not have in effect during the individual’s period of employment a valid waiver certificate, or, which failed to have the individual’s signature appear on the list of signatures of employees who concurred in the filing of such certificate, where one was in effect, and the service performed by the individual would have constituted employment for purposes of title II of the Social Security Act (42 U.S.C. 401 et seq.) had such requirements been met, then under certain conditions, the remuneration paid was to be deemed remuneration for employment for purposes of title II of the Social Security Act.
 
 **Executive Documents**
 
@@ -3103,23 +3103,23 @@ Act Sept. 1, 1954, ch. 1206, title IV, § 403, 68 Stat. 1098, as amended by ac
 
 Functions of Public Health Service, of Surgeon General of Public Health Service, and of all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by 1966 Reorg. Plan No. 3, 31 F.R. 8855, 80 Stat. 1610, effective June 25, 1966, set out in the Appendix to Title 5, Government Organization and Employees.
 
-Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out in the Appendix to Title 5, Government Organization and Employees. Commissioned Officer Corps of Environmental Science Services Administration changed to Commissioned Officer Corps of National Oceanic and Atmospheric Administration, see 1970 Reorg. Plan No. 4, § 4(d), eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5.
+Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out in the Appendix to Title 5, Government Organization and Employees. Commissioned Officer Corps of Environmental Science Services Administration changed to Commissioned Officer Corps of National Oceanic and Atmospheric Administration, see 1970 Reorg. Plan No. 4, § 4(d), eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5.
 
 **Line Item Veto**
 
-Pub. L. 105–34, title IX, § 968, Aug. 5, 1997, 111 Stat. 895, amending this section and enacting provisions set out as a note above, was subject to line item veto by the President, Cancellation No. 97–2, signed Aug. 11, 1997, 62 F.R. 43267, Aug. 12, 1997. For decision holding line item veto unconstitutional, see *Clinton v. City of New York*, 524 U.S. 417, 118 S.Ct. 2091, 141 L.Ed.2d 393 (1998).
+Pub. L. 105–34, title IX, § 968, Aug. 5, 1997, 111 Stat. 895, amending this section and enacting provisions set out as a note above, was subject to line item veto by the President, Cancellation No. 97–2, signed Aug. 11, 1997, 62 F.R. 43267, Aug. 12, 1997. For decision holding line item veto unconstitutional, see *Clinton v. City of New York*, 524 U.S. 417, 118 S.Ct. 2091, 141 L.Ed.2d 393 (1998).
 
-### § 3122. Federal service
+### § 3122. Federal service
 
 In the case of the taxes imposed by this chapter with respect to service performed in the employ of the United States or in the employ of any instrumentality which is wholly owned by the United States, including such service which is medicare qualified government employment (as defined in section 3121(u)(3)), including service, performed as a member of a uniformed service, to which the provisions of section 3121(m)(1) are applicable, and including service, performed as a volunteer or volunteer leader within the meaning of the Peace Corps Act, to which the provisions of section 3121(p) are applicable, the determination of the amount of remuneration for such service, and the return and payment of the taxes imposed by this chapter, shall be made by the head of the Federal agency or instrumentality having the control of such service, or by such agents as such head may designate. In the case of the taxes imposed by this chapter with respect to service performed in the employ of an international organization pursuant to a transfer to which the provisions of section 3121(y) are applicable, the determination of the amount of remuneration for such service, and the return and payment of the taxes imposed by this chapter, shall be made by the head of the Federal agency from which the transfer was made. Nothing in this paragraph shall be construed to affect the Secretary’s authority to determine under subsections (a) and (b) of section 3121 whether any such service constitutes employment, the periods of such employment, and whether remuneration paid for any such service constitutes wages. The person making such return may, for convenience of administration, make payments of the tax imposed under section 3111 with respect to such service without regard to the contribution and benefit base limitation in section 3121(a)(1), and he shall not be required to obtain a refund of the tax paid under section 3111 on that part of the remuneration not included in wages by reason of section 3121(a)(1). Payments of the tax imposed under section 3111 with respect to service, performed by an individual as a member of a uniformed service, to which the provisions of section 3121(m)(1) are applicable, shall be made from appropriations available for the pay of members of such uniformed service. The provisions of this section shall be applicable in the case of service performed by a civilian employee, not compensated from funds appropriated by the Congress, in the Army and Air Force Exchange Service, Army and Air Force Motion Picture Service, Navy Exchanges, Marine Corps Exchanges, or other activities, conducted by an instrumentality of the United States subject to the jurisdiction of the Secretary of Defense, at installations of the Department of Defense for the comfort, pleasure, contentment, and mental and physical improvement of personnel of such Department; and for purposes of this section the Secretary of Defense shall be deemed to be the head of such instrumentality. The provisions of this section shall be applicable also in the case of service performed by a civilian employee, not compensated from funds appropriated by the Congress, in the Coast Guard Exchanges or other activities, conducted by an instrumentality of the United States subject to the jurisdiction of the Secretary of the Department in which the Coast Guard is operating, at installations of the Coast Guard for the comfort, pleasure, contentment, and mental and physical improvement of personnel of the Coast Guard; and for purposes of this section the Secretary of the Department in which the Coast Guard is operating shall be deemed to be the head of such instrumentality.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 428; Sept. 1, 1954, ch. 1206, title II, §§ 202(c), 203(a), 68 Stat. 1090; Aug. 1, 1956, ch. 837, title IV, § 411(b), (c), 70 Stat. 879; Pub. L. 85–840, title IV, § 402(c), Aug. 28, 1958, 72 Stat. 1042; Pub. L. 85–866, title I, § 70, Sept. 2, 1958, 72 Stat. 1660; Pub. L. 87–293, title II, § 202(a)(3), Sept. 22, 1961, 75 Stat. 626; Pub. L. 89–97, title III, § 320(b)(3), July 30, 1965, 79 Stat. 393; Pub. L. 90–248, title I, § 108(b)(3), Jan. 2, 1968, 81 Stat. 835; Pub. L. 92–5, title II, § 203(b)(3), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–236, § 203(b)(3), July 1, 1972, 86 Stat. 419; Pub. L. 93–66, § 203(b)(3), (d), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, § 5(b)(3), (d), Dec. 31, 1973, 87 Stat. 954; Pub. L. 94–455, title XIX, § 1903(a)(4), Oct. 4, 1976, 90 Stat. 1807; Pub. L. 97–248, title II, § 278(a)(3), Sept. 3, 1982, 96 Stat. 560; Pub. L. 99–272, title XIII, § 13205(a)(2)(C), Apr. 7, 1986, 100 Stat. 315; Pub. L. 100–647, title VIII, § 8015(a)(2), Nov. 10, 1988, 102 Stat. 3791; Pub. L. 101–508, title XI, § 11331(d)(2), Nov. 5, 1990, 104 Stat. 1388–468; Pub. L. 103–66, title XIII, § 13207(d)(4), Aug. 10, 1993, 107 Stat. 468; Pub. L. 103–296, title III, § 319(a)(2), Aug. 15, 1994, 108 Stat. 1534; Pub. L. 109–241, title IX, § 902(i), July 11, 2006, 120 Stat. 567.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 428; Sept. 1, 1954, ch. 1206, title II, §§ 202(c), 203(a), 68 Stat. 1090; Aug. 1, 1956, ch. 837, title IV, § 411(b), (c), 70 Stat. 879; Pub. L. 85–840, title IV, § 402(c), Aug. 28, 1958, 72 Stat. 1042; Pub. L. 85–866, title I, § 70, Sept. 2, 1958, 72 Stat. 1660; Pub. L. 87–293, title II, § 202(a)(3), Sept. 22, 1961, 75 Stat. 626; Pub. L. 89–97, title III, § 320(b)(3), July 30, 1965, 79 Stat. 393; Pub. L. 90–248, title I, § 108(b)(3), Jan. 2, 1968, 81 Stat. 835; Pub. L. 92–5, title II, § 203(b)(3), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–236, § 203(b)(3), July 1, 1972, 86 Stat. 419; Pub. L. 93–66, § 203(b)(3), (d), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, § 5(b)(3), (d), Dec. 31, 1973, 87 Stat. 954; Pub. L. 94–455, title XIX, § 1903(a)(4), Oct. 4, 1976, 90 Stat. 1807; Pub. L. 97–248, title II, § 278(a)(3), Sept. 3, 1982, 96 Stat. 560; Pub. L. 99–272, title XIII, § 13205(a)(2)(C), Apr. 7, 1986, 100 Stat. 315; Pub. L. 100–647, title VIII, § 8015(a)(2), Nov. 10, 1988, 102 Stat. 3791; Pub. L. 101–508, title XI, § 11331(d)(2), Nov. 5, 1990, 104 Stat. 1388–468; Pub. L. 103–66, title XIII, § 13207(d)(4), Aug. 10, 1993, 107 Stat. 468; Pub. L. 103–296, title III, § 319(a)(2), Aug. 15, 1994, 108 Stat. 1534; Pub. L. 109–241, title IX, § 902(i), July 11, 2006, 120 Stat. 567.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Peace Corps Act, referred to in text, is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
+The Peace Corps Act, referred to in text, is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
 **Amendments**
 
@@ -3139,19 +3139,19 @@ The Peace Corps Act, referred to in text, is Pub. L. 87–293, Sept. 22, 1961, 7
 
 1976—Pub. L. 94–455 substituted “Secretary of Transportation” for “Secretary” in two places.
 
-1973—Pub. L. 93–233, § 5(b)(3), effective with respect to remuneration paid after 1973, substituted “$13,200” for “$12,600”.
+1973—Pub. L. 93–233, § 5(b)(3), effective with respect to remuneration paid after 1973, substituted “$13,200” for “$12,600”.
 
-Pub. L. 93–233, § 5(d), applicable only with respect to remuneration paid after, and taxable year beginning after, 1973 (as provided in section 5(e) of Pub. L. 93–233, set out as a note under section 409 of Title 42), amended section 203(b)(3)(C) of Pub. L. 92–336 (set out as 1973 Amendment note hereunder) substituting “$13,200” for “$12,600”.
+Pub. L. 93–233, § 5(d), applicable only with respect to remuneration paid after, and taxable year beginning after, 1973 (as provided in section 5(e) of Pub. L. 93–233, set out as a note under section 409 of Title 42), amended section 203(b)(3)(C) of Pub. L. 92–336 (set out as 1973 Amendment note hereunder) substituting “$13,200” for “$12,600”.
 
-Pub. L. 93–66, § 203(b)(3), effective with respect to remuneration paid after 1973, substituted “$12,600” for “$12,000”.
+Pub. L. 93–66, § 203(b)(3), effective with respect to remuneration paid after 1973, substituted “$12,600” for “$12,000”.
 
-Pub. L. 93–66, § 203(d), applicable only with respect to remuneration paid after, and taxable years beginning after, 1973 (as provided in section 203(e) of Pub. L. 93–66, set out as a note under section 409 of Title 42), amended section 203(b)(3)(C) of Pub. L. 92–336 (set out as 1972 Amendment note hereunder) substituting “$12,600” for “$12,000”.
+Pub. L. 93–66, § 203(d), applicable only with respect to remuneration paid after, and taxable years beginning after, 1973 (as provided in section 203(e) of Pub. L. 93–66, set out as a note under section 409 of Title 42), amended section 203(b)(3)(C) of Pub. L. 92–336 (set out as 1972 Amendment note hereunder) substituting “$12,600” for “$12,000”.
 
-1972—Pub. L. 92–336, § 203(b)(3)(A), substituted “$10,800” for “$9,000”.
+1972—Pub. L. 92–336, § 203(b)(3)(A), substituted “$10,800” for “$9,000”.
 
-Pub. L. 92–336, § 203(b)(3)(B), effective with respect to remuneration paid after 1973, substituted “$12,000” for “$10,800”.
+Pub. L. 92–336, § 203(b)(3)(B), effective with respect to remuneration paid after 1973, substituted “$12,000” for “$10,800”.
 
-Pub. L. 92–336, § 203(b)(3)(C), effective with respect to remuneration paid after 1974, substituted “contribution and benefit base” for “$12,000”.
+Pub. L. 92–336, § 203(b)(3)(C), effective with respect to remuneration paid after 1974, substituted “contribution and benefit base” for “$12,000”.
 
 1971—Pub. L. 92–5 substituted “$9,000” for “$7,800”.
 
@@ -3167,9 +3167,9 @@ Pub. L. 85–840 substituted “$4,800” for $4,200”.
 
 1956—Act Aug. 1, 1956, included taxes with respect to service, performed as a member of a uniformed service, to which provisions of section 3121(m)(1) of this title are applicable, and authorized payment of tax imposed under section 3111 of this title from appropriations available for pay of members of the uniformed service.
 
-1954—Act Sept. 1, 1954, § 202(c), substituted “$4,200” for “$3,600”.
+1954—Act Sept. 1, 1954, § 202(c), substituted “$4,200” for “$3,600”.
 
-Act Sept. 1, 1954, § 203(a), inserted provisions making section applicable to services performed by a civilian employee in the Coast Guard Exchanges or certain other activities at Coast Guard installations.
+Act Sept. 1, 1954, § 203(a), inserted provisions making section applicable to services performed by a civilian employee in the Coast Guard Exchanges or certain other activities at Coast Guard installations.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3187,7 +3187,7 @@ Amendment by Pub. L. 101–508 applicable to 1991 and later calendar years, see 
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title VIII, § 8015(a)(3), Nov. 10, 1988, 102 Stat. 3791, provided that: “The amendments made by paragraphs (1) and (2) [amending this section and section 405 of Title 42, The Public Health and Welfare] shall apply to determinations relating to service commenced in any position on or after the date of the enactment of this Act [Nov. 10, 1988].”
+Pub. L. 100–647, title VIII, § 8015(a)(3), Nov. 10, 1988, 102 Stat. 3791, provided that: “The amendments made by paragraphs (1) and (2) [amending this section and section 405 of Title 42, The Public Health and Welfare] shall apply to determinations relating to service commenced in any position on or after the date of the enactment of this Act [Nov. 10, 1988].”
 
 **Effective Date of 1986 Amendment**
 
@@ -3233,29 +3233,29 @@ Amendment by Pub. L. 85–840 applicable only with respect to remuneration paid 
 
 **Effective Date of 1956 Amendment**
 
-Amendment by act Aug. 1, 1956, effective Jan. 1, 1956, see act Aug. 1, 1956, ch. 837, title VI, § 603(a), 70 Stat. 887.
+Amendment by act Aug. 1, 1956, effective Jan. 1, 1956, see act Aug. 1, 1956, ch. 837, title VI, § 603(a), 70 Stat. 887.
 
 **Effective Date of 1954 Amendment**
 
 Amendment by section 202(c) of act Sept. 1, 1954, applicable only with respect to remuneration paid after 1954, see section 202(d) of act Sept. 1, 1954, set out as a note under section 1401 of this title.
 
-Act Sept. 1, 1954, ch. 1206, title II, § 203(b), 68 Stat. 1091, provided that: “The amendment made by subsection (a) [amending this section] shall become effective January 1, 1955.”
+Act Sept. 1, 1954, ch. 1206, title II, § 203(b), 68 Stat. 1091, provided that: “The amendment made by subsection (a) [amending this section] shall become effective January 1, 1955.”
 
 **Repeals; Amendments and Application of Amendment Unaffected**
 
-Section 202(a)(3) of Pub. L. 87–293, cited as a credit to this section, was repealed by Pub. L. 89–572, § 5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts, agreements, and other actions issued, undertaken, or entered into under authority of the repealed provisions, see section 5(b) of Pub. L. 89–572, set out as a note under section 2515 of Title 22, Foreign Relations and Intercourse.
+Section 202(a)(3) of Pub. L. 87–293, cited as a credit to this section, was repealed by Pub. L. 89–572, § 5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts, agreements, and other actions issued, undertaken, or entered into under authority of the repealed provisions, see section 5(b) of Pub. L. 89–572, set out as a note under section 2515 of Title 22, Foreign Relations and Intercourse.
 
-### § 3123. Deductions as constructive payments
+### § 3123. Deductions as constructive payments
 
 Whenever under this chapter or any act of Congress, or under the law of any State, an employer is required or permitted to deduct any amount from the remuneration of an employee and to pay the amount deducted to the United States, a State, or any political subdivision thereof, then for purposes of this chapter the amount so deducted shall be considered to have been paid to the employee at the time of such deduction.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 429.)
 
-### § 3124. Estimate of revenue reduction
+### § 3124. Estimate of revenue reduction
 
 The Secretary at intervals of not longer than 3 years shall estimate the reduction in the amount of taxes collected under this chapter by reason of the operation of section 3121(b)(9) and shall include such estimate in his annual report.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 429; Sept. 1, 1954, ch. 1206, title II, § 205(b), 68 Stat. 1091; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 429; Sept. 1, 1954, ch. 1206, title II, § 205(b), 68 Stat. 1091; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -3265,7 +3265,7 @@ The Secretary at intervals of not longer than 3 years shall estimate the reducti
 
 1954—Act Sept. 1, 1954, substituted “section 3121(b)(9)” for “section 3121(b)(10)”.
 
-### § 3125. Returns in the case of governmental employees in States, Guam, American Samoa, and the District of Columbia
+### § 3125. Returns in the case of governmental employees in States, Guam, American Samoa, and the District of Columbia
 
 **(a) States**
 
@@ -3283,7 +3283,7 @@ The return and payment of the taxes imposed by this chapter on the income of ind
 
 In the case of the taxes imposed by this chapter with respect to service performed in the employ of the District of Columbia or in the employ of any instrumentality which is wholly owned thereby, the return and payment of the taxes may be made by the Mayor of the District of Columbia or such agents as he may designate. The person making such return may, for convenience of administration, make payments of the tax imposed by section 3111 with respect to such service without regard to the contribution and benefit base limitation in section 3121(a)(1).
 
-(Added Pub. L. 86–778, title I, § 103(q)(1), Sept. 13, 1960, 74 Stat. 939; amended Pub. L. 89–97, title III, §§ 317(c)(1), (2), 320(b)(4), July 30, 1965, 79 Stat. 389, 393; Pub. L. 90–248, title I, § 108(b)(4), Jan. 2, 1968, 81 Stat. 835; Pub. L. 92–5, title II, § 203(b)(4), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, § 203(b)(4), July 1, 1972, 86 Stat. 419; Pub. L. 93–66, title II, § 203(b)(4), (d), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, § 5(b)(4), (d), Dec. 31, 1973, 87 Stat. 954; Pub. L. 94–455, title XIX, § 1903(a)(5), Oct. 4, 1976, 90 Stat. 1807; Pub. L. 99–272, title XIII, § 13205(a)(2)(A)(i), (ii), Apr. 7, 1986, 100 Stat. 315; Pub. L. 101–508, title XI, § 11331(d)(2), Nov. 5, 1990, 104 Stat. 1388–468; Pub. L. 103–66, title XIII, § 13207(d)(4), Aug. 10, 1993, 107 Stat. 468.)
+(Added Pub. L. 86–778, title I, § 103(q)(1), Sept. 13, 1960, 74 Stat. 939; amended Pub. L. 89–97, title III, §§ 317(c)(1), (2), 320(b)(4), July 30, 1965, 79 Stat. 389, 393; Pub. L. 90–248, title I, § 108(b)(4), Jan. 2, 1968, 81 Stat. 835; Pub. L. 92–5, title II, § 203(b)(4), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, § 203(b)(4), July 1, 1972, 86 Stat. 419; Pub. L. 93–66, title II, § 203(b)(4), (d), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, § 5(b)(4), (d), Dec. 31, 1973, 87 Stat. 954; Pub. L. 94–455, title XIX, § 1903(a)(5), Oct. 4, 1976, 90 Stat. 1807; Pub. L. 99–272, title XIII, § 13205(a)(2)(A)(i), (ii), Apr. 7, 1986, 100 Stat. 315; Pub. L. 101–508, title XI, § 11331(d)(2), Nov. 5, 1990, 104 Stat. 1388–468; Pub. L. 103–66, title XIII, § 13207(d)(4), Aug. 10, 1993, 107 Stat. 468.)
 
 **Editorial Notes**
 
@@ -3301,27 +3301,27 @@ A prior section 3125 was renumbered section 3128 of this title.
 
 1976—Subsec. (c). Pub. L. 94–455 substituted “Mayor of the District of Columbia or such agents as he may designate” for “Commissioners of the District of Columbia or such agents as they may designate”.
 
-1973—Pub. L. 93–233, § 5(b)(4), effective with respect to remuneration paid after 1973, substituted “$13,200” for “$12,600” wherever appearing.
+1973—Pub. L. 93–233, § 5(b)(4), effective with respect to remuneration paid after 1973, substituted “$13,200” for “$12,600” wherever appearing.
 
-Pub. L. 93–233, § 5(d), applicable only with respect to remuneration paid after, and taxable years beginning after, 1973 (as provided in section 5(e) of Pub. L. 93–233, set out as a note under section 409 of Title 42), amended section 203(b)(4)(C) of Pub. L. 92–336 (set out as 1973 Amendment note hereunder) substituting “$13,200” for “$12,600”.
+Pub. L. 93–233, § 5(d), applicable only with respect to remuneration paid after, and taxable years beginning after, 1973 (as provided in section 5(e) of Pub. L. 93–233, set out as a note under section 409 of Title 42), amended section 203(b)(4)(C) of Pub. L. 92–336 (set out as 1973 Amendment note hereunder) substituting “$13,200” for “$12,600”.
 
-Pub. L. 93–66, § 203(b)(4), effective with respect to remuneration paid after 1973, substituted “$12,600” for “$12,000” wherever appearing.
+Pub. L. 93–66, § 203(b)(4), effective with respect to remuneration paid after 1973, substituted “$12,600” for “$12,000” wherever appearing.
 
-Pub. L. 93–66, § 203(d), applicable only with respect to remuneration paid after, and taxable years beginning after, 1973 (as provided in section 203(e) of Pub. L. 93–66, set out as a note under section 409 of Title 42), amended section 203(b)(4)(C) of Pub. L. 92–336 (set out as 1972 Amendment note hereunder) substituting “$12,600” for “$12,000”.
+Pub. L. 93–66, § 203(d), applicable only with respect to remuneration paid after, and taxable years beginning after, 1973 (as provided in section 203(e) of Pub. L. 93–66, set out as a note under section 409 of Title 42), amended section 203(b)(4)(C) of Pub. L. 92–336 (set out as 1972 Amendment note hereunder) substituting “$12,600” for “$12,000”.
 
-1972—Pub. L. 92–336, § 203(b)(4)(A), substituted “$10,800” for “$9,000” wherever appearing.
+1972—Pub. L. 92–336, § 203(b)(4)(A), substituted “$10,800” for “$9,000” wherever appearing.
 
-Pub. L. 92–336, § 203(b)(4)(B), effective with respect to remuneration paid after 1973, substituted “$12,000” for “$10,800” wherever appearing.
+Pub. L. 92–336, § 203(b)(4)(B), effective with respect to remuneration paid after 1973, substituted “$12,000” for “$10,800” wherever appearing.
 
-Pub. L. 92–336, § 203(b)(4)(C), effective with respect to remuneration paid after 1974, substituted “contribution and benefit base” for “$12,000”.
+Pub. L. 92–336, § 203(b)(4)(C), effective with respect to remuneration paid after 1974, substituted “contribution and benefit base” for “$12,000”.
 
 1971—Pub. L. 92–5 substituted “$9,000” for “$7,800” wherever appearing.
 
 1968—Pub. L. 90–248 substituted “$7,800” for “$6,600” wherever appearing.
 
-1965—Subsecs. (a), (b). Pub. L. 89–97, § 320(b)(4), substituted “$6,600” for “$4,800”.
+1965—Subsecs. (a), (b). Pub. L. 89–97, § 320(b)(4), substituted “$6,600” for “$4,800”.
 
-Subsec. (c). Pub. L. 89–97, § 317(c)(1), added subsec. (c) and inserted reference to District of Columbia in section catchline.
+Subsec. (c). Pub. L. 89–97, § 317(c)(1), added subsec. (c) and inserted reference to District of Columbia in section catchline.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3365,11 +3365,11 @@ Amendment by section 320(b)(4) of Pub. L. 89–97 applicable with respect to rem
 
 Section applicable only with respect to (1) service in the employ of the Government of Guam or any political subdivision thereof, or any instrumentality of any one or more of the foregoing wholly owned thereby, which is performed after 1960 and after the calendar quarter in which the Secretary of the Treasury receives a certification by the Governor of Guam that legislation has been enacted by the Government of Guam expressing its desire to have the insurance system established by title II of the Social Security Act (42 U.S.C. 401 et seq.) extended to the officers and employees of such Government and such political subdivisions and instrumentalities, and (2) service in the employ of the Government of American Samoa or any political subdivision thereof or any instrumentality of any one or more of the foregoing wholly owned thereby, which is performed after 1960 and after the calendar quarter in which the Secretary of the Treasury receives a certification by the Governor of American Samoa that the Government of American Samoa desires to have the insurance system established by title II of the Social Security Act extended to the officers and employees of such Government and such political subdivisions and instrumentalities, see section 103(v)(1) of Pub. L. 86–778, set out as an Effective Date of 1960 Amendment note under section 402 of Title 42, The Public Health and Welfare.
 
-### § 3126. Return and payment by governmental em­ployer
+### § 3126. Return and payment by governmental em­ployer
 
 If the employer is a State or political subdivision thereof, or an agency or instrumentality of any one or more of the foregoing, the return of the amount deducted and withheld upon any wages under section 3101 and the amount of the tax imposed by section 3111 may be made by any officer or employee of such State or political subdivision or such agency or instrumentality, as the case may be, having control of the payment of such wages, or appropriately designated for that purpose.
 
-(Added Pub. L. 99–509, title IX, § 9002(a)(1), Oct. 21, 1986, 100 Stat. 1970.)
+(Added Pub. L. 99–509, title IX, § 9002(a)(1), Oct. 21, 1986, 100 Stat. 1970.)
 
 **Editorial Notes**
 
@@ -3383,7 +3383,7 @@ A prior section 3126 was renumbered section 3128 of this title.
 
 Section, except as otherwise provided, effective with respect to payments due with respect to wages paid after Dec. 31, 1986, including wages paid after such date by a State (or political subdivision thereof) that modified its agreement pursuant to section 418(e)(2) of Title 42, The Public Health and Welfare, see section 9002(d) of Pub. L. 99–509, set out as an Effective Date of 1986 Amendment note under section 418 of Title 42.
 
-### § 3127. Exemption for employers and their employees where both are members of religious faiths opposed to participation in Social Security Act programs
+### § 3127. Exemption for employers and their employees where both are members of religious faiths opposed to participation in Social Security Act programs
 
 **(a) In general** Notwithstanding any other provision of this chapter (and under regulations prescribed to carry out this section), in any case where—
 
@@ -3407,7 +3407,7 @@ such employer shall be exempt from the taxes imposed by section 3111 with respec
 
 **(2)** ending with the last day of the calendar quarter preceding the first calendar quarter thereafter in which (A) such employer (or, if the employer is a partnership, any partner therein) or the employee involved does not meet the applicable requirements of subsection (a), or (B) the sect or division thereof of which such employer (or, if the employer is a partnership, any partner therein) or employee is a member is found by the Commissioner of Social Security to have ceased to meet the requirements of subsection (b)(2).
 
-(Added Pub. L. 100–647, title VIII, § 8007(a)(1), Nov. 10, 1988, 102 Stat. 3781; amended Pub. L. 101–239, title X, § 10204(b)(1), Dec. 19, 1989, 103 Stat. 2474; Pub. L. 103–296, title I, § 108(h)(3), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 115–141, div. U, title IV, § 401(b)(35), Mar. 23, 2018, 132 Stat. 1204.)
+(Added Pub. L. 100–647, title VIII, § 8007(a)(1), Nov. 10, 1988, 102 Stat. 3781; amended Pub. L. 101–239, title X, § 10204(b)(1), Dec. 19, 1989, 103 Stat. 2474; Pub. L. 103–296, title I, § 108(h)(3), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 115–141, div. U, title IV, § 401(b)(35), Mar. 23, 2018, 132 Stat. 1204.)
 
 **Editorial Notes**
 
@@ -3425,17 +3425,17 @@ A prior section 3127 was renumbered section 3128 of this title.
 
 1994—Subsecs. (b)(2), (c)(2). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
 
-1989—Subsec. (a). Pub. L. 101–239, § 10204(b)(1)(B), substituted “the employees thereof” for “his employees” in concluding provisions.
+1989—Subsec. (a). Pub. L. 101–239, § 10204(b)(1)(B), substituted “the employees thereof” for “his employees” in concluding provisions.
 
-Subsec. (a)(1). Pub. L. 101–239, § 10204(b)(1)(A), inserted “(or, if the employer is a partnership, each partner therein)” after “an employer”.
+Subsec. (a)(1). Pub. L. 101–239, § 10204(b)(1)(A), inserted “(or, if the employer is a partnership, each partner therein)” after “an employer”.
 
-Subsec. (b). Pub. L. 101–239, § 10204(b)(1)(C), inserted “(or a partner)” after “an employer” in introductory provisions.
+Subsec. (b). Pub. L. 101–239, § 10204(b)(1)(C), inserted “(or a partner)” after “an employer” in introductory provisions.
 
-Subsec. (c). Pub. L. 101–239, § 10204(b)(1)(D), substituted “the employees thereof” for “his employees” in introductory provisions.
+Subsec. (c). Pub. L. 101–239, § 10204(b)(1)(D), substituted “the employees thereof” for “his employees” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 101–239, § 10204(b)(1)(E), inserted “(or, if the employer is a partnership, each partner therein)”.
+Subsec. (c)(1). Pub. L. 101–239, § 10204(b)(1)(E), inserted “(or, if the employer is a partnership, each partner therein)”.
 
-Subsec. (c)(2). Pub. L. 101–239, § 10204(b)(1)(F), substituted “such employer (or, if the employer is a partnership, any partner therein) or the employee involved does not meet” for “such employer or the employee involved ceases to meet” in cl. (A) and inserted “(or, if the employer is a partnership, any partner therein)” after “such employer” in cl. (B).
+Subsec. (c)(2). Pub. L. 101–239, § 10204(b)(1)(F), substituted “such employer (or, if the employer is a partnership, any partner therein) or the employee involved does not meet” for “such employer or the employee involved ceases to meet” in cl. (A) and inserted “(or, if the employer is a partnership, any partner therein)” after “such employer” in cl. (B).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3445,7 +3445,7 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–239, title X, § 10204(b)(2), Dec. 19, 1989, 103 Stat. 2474, provided that: “The amendments made by this subsection [amending this section] shall be effective as if they were included in the amendments made by section 8007(a)(1) of the Technical and Miscellaneous Revenue Act of 1988 (102 Stat. 3781) [Pub. L. 100–647].”
+Pub. L. 101–239, title X, § 10204(b)(2), Dec. 19, 1989, 103 Stat. 2474, provided that: “The amendments made by this subsection [amending this section] shall be effective as if they were included in the amendments made by section 8007(a)(1) of the Technical and Miscellaneous Revenue Act of 1988 (102 Stat. 3781) [Pub. L. 100–647].”
 
 **Effective Date**
 
@@ -3455,11 +3455,11 @@ Section applicable to wages paid after Dec. 31, 1988, see section 8007(d) of Pub
 
 For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
-### § 3128. Short title
+### § 3128. Short title
 
 This chapter may be cited as the “Federal Insurance Contributions Act.”
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 429, § 3125; renumbered § 3126, Pub. L. 86–778, title I, § 103(q)(1), Sept. 13, 1960, 74 Stat. 939; renumbered § 3127, Pub. L. 99–509, title IX, § 9002(a)(1), Oct. 21, 1986, 100 Stat. 1970; renumbered § 3128, Pub. L. 100–647, title VIII, § 8007(a)(1), Nov. 10, 1988, 102 Stat. 3781.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 429, § 3125; renumbered § 3126, Pub. L. 86–778, title I, § 103(q)(1), Sept. 13, 1960, 74 Stat. 939; renumbered § 3127, Pub. L. 99–509, title IX, § 9002(a)(1), Oct. 21, 1986, 100 Stat. 1970; renumbered § 3128, Pub. L. 100–647, title VIII, § 8007(a)(1), Nov. 10, 1988, 102 Stat. 3781.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3473,9 +3473,9 @@ Amendment by Pub. L. 99–509, except as otherwise provided, effective with resp
 
 **Amendments**
 
-2021—Pub. L. 117–2, title IX, § 9651(c), Mar. 11, 2021, 135 Stat. 182, added item 3134.
+2021—Pub. L. 117–2, title IX, § 9651(c), Mar. 11, 2021, 135 Stat. 182, added item 3134.
 
-### § 3131. Credit for paid sick leave
+### § 3131. Credit for paid sick leave
 
 **(a) In general**
 
@@ -3561,7 +3561,7 @@ For purposes of this section, qualified health plan expenses shall be allocated 
 
 The term “pension contribution rate” means the contribution rate that the employer is obligated to pay on behalf of its employees under the terms of a collective bargaining agreement for benefits under a defined benefit plan under such agreement, as such rate is applied to contribution base units (as defined by section 4001(a)(11) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1301(a)(11)).1
 
-<sup>1</sup>  So in original. Another closing parenthesis probably should precede the period.
+<sup>1</sup> So in original. Another closing parenthesis probably should precede the period.
 
 **(C) Allocation rules** The amount of collectively bargained defined benefit pension plan contributions allocated to qualified sick leave wages for any calendar quarter shall be the product of—
 
@@ -3669,15 +3669,15 @@ The Secretary shall waive any penalty under section 6656 for any failure to make
 
 No credit shall be allowed under this section to any employer for any calendar quarter if such employer, with respect to the availability of the provision of qualified sick leave wages to which this section otherwise applies for such calendar quarter, discriminates in favor of highly compensated employees (within the meaning of section 414(q)), full-time employees, or employees on the basis of employment tenure with such employer.
 
-(Added Pub. L. 117–2, title IX, § 9641(a), Mar. 11, 2021, 135 Stat. 161.)
+(Added Pub. L. 117–2, title IX, § 9641(a), Mar. 11, 2021, 135 Stat. 161.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Emergency Paid Sick Leave Act and such Act, referred to in subsecs. (b)(1), (c)(1), (2), and (g)(5), is division E (§ 5101 et seq.) of Pub. L. 116–127, Mar. 18, 2020, 134 Stat. 195, which is set out as a note under section 2601 of Title 29, Labor.
+The Emergency Paid Sick Leave Act and such Act, referred to in subsecs. (b)(1), (c)(1), (2), and (g)(5), is division E (§ 5101 et seq.) of Pub. L. 116–127, Mar. 18, 2020, 134 Stat. 195, which is set out as a note under section 2601 of Title 29, Labor.
 
-The National Apprenticeship Act, referred to in subsec. (e)(3)(B), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§ 50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
+The National Apprenticeship Act, referred to in subsec. (e)(3)(B), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§ 50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
 
 Section 2301 of the CARES Act, referred to in subsec. (f)(3), is section 2301 of title II of div. A of Pub. L. 116–136, which is set out as a note under section 3111 of this title.
 
@@ -3693,9 +3693,9 @@ Section 5003 of the American Rescue Plan Act of 2021, referred to in subsec. (f)
 
 **Effective Date**
 
-Pub. L. 117–2, title IX, § 9641(d), Mar. 11, 2021, 135 Stat. 171, provided that: “The amendments made by this section [enacting sections 3131 to 3133 of this title and amending section 1324 of Title 31, Money and Finance] shall apply to amounts paid with respect to calendar quarters beginning after March 31, 2021.”
+Pub. L. 117–2, title IX, § 9641(d), Mar. 11, 2021, 135 Stat. 171, provided that: “The amendments made by this section [enacting sections 3131 to 3133 of this title and amending section 1324 of Title 31, Money and Finance] shall apply to amounts paid with respect to calendar quarters beginning after March 31, 2021.”
 
-### § 3132. Payroll credit for paid family leave
+### § 3132. Payroll credit for paid family leave
 
 **(a) In general**
 
@@ -3745,9 +3745,9 @@ For purposes of this section, the term “qualified family leave wages” means 
 
 **(B) Leave must meet requirements**
 
-For purposes of determining whether wages would be required to be paid under paragraph (1), if an employer fails to comply with any requirement of the Family and Medical Leave Act of 1993 or the Emergency Family and Medical Leave Expansion Act (determined without regard to any time limitation under section 102(a)(1)(F) of the Family and Medical Leave Act of 1994) 1
+For purposes of determining whether wages would be required to be paid under paragraph (1), if an employer fails to comply with any requirement of the Family and Medical Leave Act of 1993 or the Emergency Family and Medical Leave Expansion Act (determined without regard to any time limitation under section 102(a)(1)(F) of the Family and Medical Leave Act of 1994) 1
 
-<sup>1</sup>  So in original. Probably should be “1993)”.
+<sup>1</sup> So in original. Probably should be “1993)”.
 
 with respect to any leave provided for a qualifying need related to a public health emergency (as defined in section 110 of such Act, applied as described in subparagraph (A)(i)), amounts paid by such employer with respect to such leave shall not be taken into account as qualified family leave wages. For purposes of the preceding sentence, an employer which takes an action described in section 105 of the Family and Medical Leave Act of 1993 shall be treated as failing to meet a requirement of such Act.
 
@@ -3873,7 +3873,7 @@ The Secretary shall waive any penalty under section 6656 for any failure to make
 
 No credit shall be allowed under this section to any employer for any calendar quarter if such employer, with respect to the availability of the provision of qualified family leave wages to which this section otherwise applies for such calendar quarter, discriminates in favor of highly compensated employees (within the meaning of section 414(q)), full-time employees, or employees on the basis of employment tenure with such employer.
 
-(Added Pub. L. 117–2, title IX, § 9641(a), Mar. 11, 2021, 135 Stat. 166.)
+(Added Pub. L. 117–2, title IX, § 9641(a), Mar. 11, 2021, 135 Stat. 166.)
 
 **Editorial Notes**
 
@@ -3881,7 +3881,7 @@ No credit shall be allowed under this section to any employer for any calendar q
 
 The Emergency Family and Medical Leave Expansion Act and such Act, referred to in subsecs. (c)(1), (2)(B) and (g)(5), is div. C of Pub. L. 116–127, Mar. 18, 2020, 134 Stat. 189. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under section 2601 of Title 29, Labor, and Tables.
 
-The Family and Medical Leave Act of 1993 and such Act, referred to in subsec. (c)(2), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, which enacted chapter 28 (§ 2601 et seq.) of Title 29, Labor, sections 60m and 60n of Title 2, The Congress, and sections 6381 to 6387 of Title 5, Government Organization and Employees, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. Sections 102, 105, and 110 of the Act are classified to sections 2612, 2615, and 2620, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
+The Family and Medical Leave Act of 1993 and such Act, referred to in subsec. (c)(2), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, which enacted chapter 28 (§ 2601 et seq.) of Title 29, Labor, sections 60m and 60n of Title 2, The Congress, and sections 6381 to 6387 of Title 5, Government Organization and Employees, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. Sections 102, 105, and 110 of the Act are classified to sections 2612, 2615, and 2620, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
 
 Section 5102(a) of the Families First Coronavirus Response Act, referred to in subsec. (c)(2)(A)(i), is section 5102(a) of Pub. L. 116–127, which is set out in a note under section 2601 of Title 29, Labor.
 
@@ -3901,7 +3901,7 @@ Section 5003 of the American Rescue Plan Act of 2021, referred to in subsec. (f)
 
 Section applicable to amounts paid with respect to calendar quarters beginning after Mar. 31, 2021, see section 9641(d) of Pub. L. 117–2, set out as a note under secton 3131 of this title.
 
-### § 3133. Special rule related to tax on employers
+### § 3133. Special rule related to tax on employers
 
 **(a) In general**
 
@@ -3911,7 +3911,7 @@ The credit allowed by section 3131 and the credit allowed by section 3132 shall 
 
 For denial of double benefit with respect to the credit increase under subsection (a), see sections 3131(f)(3) and 3132(f)(3).
 
-(Added Pub. L. 117–2, title IX, § 9641(a), Mar. 11, 2021, 135 Stat. 171.)
+(Added Pub. L. 117–2, title IX, § 9641(a), Mar. 11, 2021, 135 Stat. 171.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3919,7 +3919,7 @@ For denial of double benefit with respect to the credit increase under subsectio
 
 Section applicable to amounts paid with respect to calendar quarters beginning after Mar. 31, 2021, see section 9641(d) of Pub. L. 117–2, set out as a note under secton 3131 of this title.
 
-### § 3134. Employee retention credit for employers subject to closure due to COVID–19
+### § 3134. Employee retention credit for employers subject to closure due to COVID–19
 
 **(a) In general**
 
@@ -4163,7 +4163,7 @@ Any forms, instructions, regulations, or other guidance described in paragraph (
 
 This section shall only apply to wages paid after June 30, 2021, and before October 1, 2021 (or, in the case of wages paid by an eligible employer which is a recovery startup business, January 1, 2022).
 
-(Added Pub. L. 117–2, title IX, § 9651(a), Mar. 11, 2021, 135 Stat. 177; amended Pub. L. 117–58, div. H, title VI, § 80604(a), Nov. 15, 2021, 135 Stat. 1341; Pub. L. 119–21, title VII, § 70605(e), July 4, 2025, 139 Stat. 288.)
+(Added Pub. L. 117–2, title IX, § 9651(a), Mar. 11, 2021, 135 Stat. 177; amended Pub. L. 117–58, div. H, title VI, § 80604(a), Nov. 15, 2021, 135 Stat. 1341; Pub. L. 119–21, title VII, § 70605(e), July 4, 2025, 139 Stat. 288.)
 
 **Editorial Notes**
 
@@ -4185,9 +4185,9 @@ Section 5003 of the American Rescue Plan Act of 2021, referred to in subsec. (h)
 
 “(2) the date on which such return is treated as filed under section 6501(b)(2).”
 
-2021—Subsec. (c)(5)(C). Pub. L. 117–58, § 80604(a)(1), struck out subpar. (C) which read as follows: “which, with respect to such calendar quarter, is not described in subclause (I) or (II) of paragraph (2)(A)(ii).”.
+2021—Subsec. (c)(5)(C). Pub. L. 117–58, § 80604(a)(1), struck out subpar. (C) which read as follows: “which, with respect to such calendar quarter, is not described in subclause (I) or (II) of paragraph (2)(A)(ii).”.
 
-Subsec. (n). Pub. L. 117–58, § 80604(a)(2), substituted “October 1, 2021 (or, in the case of wages paid by an eligible employer which is a recovery startup business, January 1, 2022)” for “January 1, 2022”.
+Subsec. (n). Pub. L. 117–58, § 80604(a)(2), substituted “October 1, 2021 (or, in the case of wages paid by an eligible employer which is a recovery startup business, January 1, 2022)” for “January 1, 2022”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4197,15 +4197,15 @@ Amendment by Pub. L. 119–21 applicable to assessments made after July 4, 2025,
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 117–58, div. H, title VI, § 80604(b), Nov. 15, 2021, 135 Stat. 1341, provided that: “The amendments made by this section [amending this section] shall apply to calendar quarters beginning after September 30, 2021.”
+Pub. L. 117–58, div. H, title VI, § 80604(b), Nov. 15, 2021, 135 Stat. 1341, provided that: “The amendments made by this section [amending this section] shall apply to calendar quarters beginning after September 30, 2021.”
 
 **Effective Date**
 
-Pub. L. 117–2, title IX, § 9651(d), Mar. 11, 2021, 135 Stat. 182, provided that: “The amendments made by this section [enacting this section and amending section 1324 of Title 31, Money and Finance] shall apply to calendar quarters beginning after June 30, 2021.”
+Pub. L. 117–2, title IX, § 9651(d), Mar. 11, 2021, 135 Stat. 182, provided that: “The amendments made by this section [enacting this section and amending section 1324 of Title 31, Money and Finance] shall apply to calendar quarters beginning after June 30, 2021.”
 
 **Enforcement Provisions With Respect to COVID-Related Employee Retention Credits**
 
-Pub. L. 119–21, title VII, § 70605, July 4, 2025, 139 Stat. 286, provided that:
+Pub. L. 119–21, title VII, § 70605, July 4, 2025, 139 Stat. 286, provided that:
 
 > **“(a) Assessable Penalty for Failure to Comply With Due Diligence Requirements.—**
 

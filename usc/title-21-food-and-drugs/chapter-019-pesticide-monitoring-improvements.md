@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 19—PESTICIDE MONITORING IMPROVEMENTS
 
-## § 1401. Pesticide monitoring and enforcement information
+## § 1401. Pesticide monitoring and enforcement information
 
 **(a) Data management systems**
 
@@ -77,27 +77,27 @@ The Food and Drug Administration shall use the computerized data management syst
 
 Not later than 90 days after the expiration of 1 year after the data management systems are placed into effect under subsection (a) and annually thereafter, the Secretary of Health and Human Services shall compile a summary of the information described in subsection (b) with respect to the previous year. When the Food and Drug Administration is able to make summaries under subsection (c), the Secretary shall include in the compilation under the preceding sentence a compilation of the information described in subsection (c). Compilations under this subsection shall be made available to Federal and State agencies and other interested persons.
 
-(Pub. L. 100–418, title IV, § 4702, Aug. 23, 1988, 102 Stat. 1412.)
+(Pub. L. 100–418, title IV, § 4702, Aug. 23, 1988, 102 Stat. 1412.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (a)(1)(F), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (a)(1)(F), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a) to (c), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a) to (c), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 100–418, title IV, § 4701, Aug. 23, 1988, 102 Stat. 1411, provided that: “This subtitle [subtitle G (§§ 4701–4704) of title IV of Pub. L. 100–418, enacting this chapter] may be cited as the ‘Pesticide Monitoring Improvements Act of 1988’.”
+Pub. L. 100–418, title IV, § 4701, Aug. 23, 1988, 102 Stat. 1411, provided that: “This subtitle [subtitle G (§§ 4701–4704) of title IV of Pub. L. 100–418, enacting this chapter] may be cited as the ‘Pesticide Monitoring Improvements Act of 1988’.”
 
 **Imported Meat, Poultry Products, Eggs, and Egg Products**
 
-Pub. L. 100–418, title IV, § 4506, Aug. 23, 1988, 102 Stat. 1404, required the Secretary of Agriculture, not later than 90 days after Aug. 23, 1988, to submit a report to Congress concerning the planned distribution, in fiscal years 1988 and 1989, of the resources of the Department of Agriculture available for sampling imported covered products to ensure compliance with the requirements of the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), and the Egg Products Inspection Act (21 U.S.C. 1031 et seq.) that govern the level of residues of pesticides, drugs, and other products permitted in or on such products.
+Pub. L. 100–418, title IV, § 4506, Aug. 23, 1988, 102 Stat. 1404, required the Secretary of Agriculture, not later than 90 days after Aug. 23, 1988, to submit a report to Congress concerning the planned distribution, in fiscal years 1988 and 1989, of the resources of the Department of Agriculture available for sampling imported covered products to ensure compliance with the requirements of the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), and the Egg Products Inspection Act (21 U.S.C. 1031 et seq.) that govern the level of residues of pesticides, drugs, and other products permitted in or on such products.
 
-## § 1402. Foreign pesticide information
+## § 1402. Foreign pesticide information
 
 **(a) Cooperative agreements**
 
@@ -123,13 +123,13 @@ The Secretary of Health and Human Services shall enter into cooperative agreemen
 
 Not later than one year after August 23, 1988, the Secretary of Health and Human Services shall report to the Committee on Agriculture, Nutrition, and Forestry and the Committee on Labor and Human Resources of the Senate and the House of Representatives on the activities undertaken by the Secretary to implement this section. The report shall be made available to appropriate Federal and State agencies and to interested persons.
 
-(Pub. L. 100–418, title IV, § 4703, Aug. 23, 1988, 102 Stat. 1413.)
+(Pub. L. 100–418, title IV, § 4703, Aug. 23, 1988, 102 Stat. 1413.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -137,7 +137,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act Jun
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-## § 1403. Pesticide analytical methods
+## § 1403. Pesticide analytical methods
 
 The Secretary of Health and Human Services shall, in consultation with the Administrator of the Environmental Protection Agency—
 
@@ -151,13 +151,13 @@ The Secretary of Health and Human Services shall, in consultation with the Admin
 
 The Secretary shall report the plan developed under paragraph (1), the resources necessary to carry out the research described in such paragraph, recommendations for the implementation of such research, and the result of the review conducted under paragraph (2) not later than the expiration of 240 days after August 23, 1988, to the Committee on Agriculture, Nutrition, and Forestry and the Committee on Labor and Human Resources of the Senate and the House of Representatives.
 
-(Pub. L. 100–418, title IV, § 4704, Aug. 23, 1988, 102 Stat. 1414.)
+(Pub. L. 100–418, title IV, § 4704, Aug. 23, 1988, 102 Stat. 1414.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Food, Drug, and Cosmetic Act, referred to in text, is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in text, is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 

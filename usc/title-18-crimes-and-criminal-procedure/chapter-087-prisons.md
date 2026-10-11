@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1986—Pub. L. 99–646, § 64(b), Nov. 10, 1986, 100 Stat. 3614, added item 1793.
+1986—Pub. L. 99–646, § 64(b), Nov. 10, 1986, 100 Stat. 3614, added item 1793.
 
-1984—Pub. L. 98–473, title II, § 1109(c), Oct. 12, 1984, 98 Stat. 2148, amended analysis generally by revising items 1791 and 1792, and by inserting a second chapter heading which was not executed to text as redundant.
+1984—Pub. L. 98–473, title II, § 1109(c), Oct. 12, 1984, 98 Stat. 2148, amended analysis generally by revising items 1791 and 1792, and by inserting a second chapter heading which was not executed to text as redundant.
 
-## § 1791. Providing or possessing contraband in prison
+## § 1791. Providing or possessing contraband in prison
 
 **(a) Offense.—** Whoever—
 
@@ -71,11 +71,11 @@ shall be punished as provided in subsection (b) of this section.
 
 **(4)** the term “prison” means a Federal correctional, detention, or penal facility or any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General.
 
-(June 25, 1948, ch. 645, 62 Stat. 786; Pub. L. 98–473, title II, § 1109(a), Oct. 12, 1984, 98 Stat. 2147; Pub. L. 99–646, § 52(a), Nov. 10, 1986, 100 Stat. 3606; Pub. L. 100–690, title VI, § 6468(a), (b), Nov. 18, 1988, 102 Stat. 4376; Pub. L. 103–322, title IX, § 90101, title XXXIII, § 330003(a), Sept. 13, 1994,108 Stat. 1986, 2140; Pub. L. 104–294, title VI, § 601(m), Oct. 11, 1996, 110 Stat. 3502; Pub. L. 109–162, title XI, § 1178, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 111–225, § 2, Aug. 10, 2010, 124 Stat. 2387.)
+(June 25, 1948, ch. 645, 62 Stat. 786; Pub. L. 98–473, title II, § 1109(a), Oct. 12, 1984, 98 Stat. 2147; Pub. L. 99–646, § 52(a), Nov. 10, 1986, 100 Stat. 3606; Pub. L. 100–690, title VI, § 6468(a), (b), Nov. 18, 1988, 102 Stat. 4376; Pub. L. 103–322, title IX, § 90101, title XXXIII, § 330003(a), Sept. 13, 1994,108 Stat. 1986, 2140; Pub. L. 104–294, title VI, § 601(m), Oct. 11, 1996, 110 Stat. 3502; Pub. L. 109–162, title XI, § 1178, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 111–225, § 2, Aug. 10, 2010, 124 Stat. 2387.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 753j, 908 (May 14, 1930, ch. 274, § 11, 46 Stat. 327; May 27, 1930, ch. 339, § 8, 46 Stat. 390).
+Based on title 18, U.S.C., 1940 ed., §§ 753j, 908 (May 14, 1930, ch. 274, § 11, 46 Stat. 327; May 27, 1930, ch. 339, § 8, 46 Stat. 390).
 
 Section consolidates sections 753j and 908 of title 18, U.S.C., 1940 ed. The section was broadened to include the taking or sending out of contraband from the institution. This was suggested by representatives of the Federal Bureau of Prisons and the Criminal Division of the Department of Justice. In other respects the section was rewritten without change of substance.
 
@@ -93,31 +93,31 @@ Schedules I, II, and III, referred to in subsec. (d)(1)(A), (B), probably mean s
 
 **Amendments**
 
-2010—Subsec. (b)(4). Pub. L. 111–225, § 2(1)(A), substituted “, (d)(1)(E), or (d)(1)(F)” for “or (d)(1)(E)”.
+2010—Subsec. (b)(4). Pub. L. 111–225, § 2(1)(A), substituted “, (d)(1)(E), or (d)(1)(F)” for “or (d)(1)(E)”.
 
-Subsec. (b)(5). Pub. L. 111–225, § 2(1)(B), substituted “(d)(1)(G)” for “(d)(1)(F)”.
+Subsec. (b)(5). Pub. L. 111–225, § 2(1)(B), substituted “(d)(1)(G)” for “(d)(1)(F)”.
 
-Subsec. (d)(1)(F), (G). Pub. L. 111–225, § 2(2), added subpar. (F) and redesignated former subpar. (F) as (G).
+Subsec. (d)(1)(F), (G). Pub. L. 111–225, § 2(2), added subpar. (F) and redesignated former subpar. (F) as (G).
 
 2006—Subsec. (d)(4). Pub. L. 109–162 inserted “or any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “penal facility”.
 
 1996—Subsec. (c). Pub. L. 104–294 inserted heading.
 
-1994—Subsec. (b)(2) to (5). Pub. L. 103–322, §§ 90101(6), 330003(a), amended subsec. (b) identically, substituting “(d)” for “(c)” wherever appearing in pars. (2) to (5).
+1994—Subsec. (b)(2) to (5). Pub. L. 103–322, §§ 90101(6), 330003(a), amended subsec. (b) identically, substituting “(d)” for “(c)” wherever appearing in pars. (2) to (5).
 
-Subsec. (c). Pub. L. 103–322, § 90101(1), inserted at beginning “Any punishment imposed under subsection (b) for a violation of this section involving a controlled substance shall be consecutive to any other sentence imposed by any court for an offense involving such a controlled substance.”
+Subsec. (c). Pub. L. 103–322, § 90101(1), inserted at beginning “Any punishment imposed under subsection (b) for a violation of this section involving a controlled substance shall be consecutive to any other sentence imposed by any court for an offense involving such a controlled substance.”
 
-Subsec. (d)(1)(A). Pub. L. 103–322, § 90101(2), inserted before semicolon at end “or a controlled substance in schedule I or II, other than marijuana or a controlled substance referred to in subparagraph (C) of this subsection”.
+Subsec. (d)(1)(A). Pub. L. 103–322, § 90101(2), inserted before semicolon at end “or a controlled substance in schedule I or II, other than marijuana or a controlled substance referred to in subparagraph (C) of this subsection”.
 
-Subsec. (d)(1)(B). Pub. L. 103–322, § 90101(3), inserted “marijuana or a controlled substance in schedule III, other than a controlled substance referred to in subparagraph (C) of this subsection,” before “ammunition,”.
+Subsec. (d)(1)(B). Pub. L. 103–322, § 90101(3), inserted “marijuana or a controlled substance in schedule III, other than a controlled substance referred to in subparagraph (C) of this subsection,” before “ammunition,”.
 
-Subsec. (d)(1)(C). Pub. L. 103–322, § 90101(4), inserted “methamphetamine, its salts, isomers, and salts of its isomers,” after “narcotic drug,”.
+Subsec. (d)(1)(C). Pub. L. 103–322, § 90101(4), inserted “methamphetamine, its salts, isomers, and salts of its isomers,” after “narcotic drug,”.
 
-Subsec. (d)(1)(D). Pub. L. 103–322, § 90101(5), inserted “(A), (B), or” before “(C)”.
+Subsec. (d)(1)(D). Pub. L. 103–322, § 90101(5), inserted “(A), (B), or” before “(C)”.
 
-1988—Subsec. (b). Pub. L. 100–690, § 6468(a), added par. (1), redesignated former pars. (1) to (4) as (2) to (5), respectively, and struck out “or (c)(1)(C)” after “subsection (c)(1)(B)” in par. (3) as redesignated.
+1988—Subsec. (b). Pub. L. 100–690, § 6468(a), added par. (1), redesignated former pars. (1) to (4) as (2) to (5), respectively, and struck out “or (c)(1)(C)” after “subsection (c)(1)(B)” in par. (3) as redesignated.
 
-Subsecs. (c), (d). Pub. L. 100–690, § 6468(b), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 100–690, § 6468(b), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 1986—Pub. L. 99–646 amended section generally. Prior to amendment, section read as follows:
 
@@ -157,17 +157,17 @@ Subsecs. (c), (d). Pub. L. 100–690, § 6468(b), added subsec. (c) and redesi
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–646, § 52(b), Nov. 10, 1986, 100 Stat. 3607, provided that: “The amendment made by this section [amending this section] shall take effect 30 days after the date of the enactment of this Act [Nov. 10, 1986].”
+Pub. L. 99–646, § 52(b), Nov. 10, 1986, 100 Stat. 3607, provided that: “The amendment made by this section [amending this section] shall take effect 30 days after the date of the enactment of this Act [Nov. 10, 1986].”
 
-## § 1792. Mutiny and riot prohibited
+## § 1792. Mutiny and riot prohibited
 
 Whoever instigates, connives, willfully attempts to cause, assists, or conspires to cause any mutiny or riot, at any Federal penal, detention, or correctional facility, shall be imprisoned not more than ten years or fined under this title, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 786; Pub. L. 98–473, title II, § 1109(b), Oct. 12, 1984, 98 Stat. 2148; Pub. L. 99–646, § 53(a), Nov. 10, 1986, 100 Stat. 3607; Pub. L. 103–322, title XXXIII, § 330016(1)(O), Sept. 13, 1994, 108 Stat. 2148.)
+(June 25, 1948, ch. 645, 62 Stat. 786; Pub. L. 98–473, title II, § 1109(b), Oct. 12, 1984, 98 Stat. 2148; Pub. L. 99–646, § 53(a), Nov. 10, 1986, 100 Stat. 3607; Pub. L. 103–322, title XXXIII, § 330016(1)(O), Sept. 13, 1994, 108 Stat. 2148.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 252 (May 18, 1934, ch. 303, § 1, 48 Stat. 782).
+Based on title 18, U.S.C., 1940 ed., § 252 (May 18, 1934, ch. 303, § 1, 48 Stat. 782).
 
 Escape provisions of this section were incorporated in section 752 of this title.
 
@@ -181,7 +181,7 @@ Minor changes were made in translation and phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $25,000”.
 
-1986—Pub. L. 99–646 inserted “, detention,” after “penal”.
+1986—Pub. L. 99–646 inserted “, detention,” after “penal”.
 
 1984—Pub. L. 98–473 substituted provisions deleting prohibition on bringing dangerous instrumentalities into prison and inserted provision setting forth a maximum $25,000 fine.
 
@@ -189,13 +189,13 @@ Minor changes were made in translation and phraseology.
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–646, § 53(b), Nov. 10, 1986, 100 Stat. 3607, provided that: “The amendment made by this section [amending this section] shall take effect 30 days after the enactment of this Act [Nov. 10, 1986].”
+Pub. L. 99–646, § 53(b), Nov. 10, 1986, 100 Stat. 3607, provided that: “The amendment made by this section [amending this section] shall take effect 30 days after the enactment of this Act [Nov. 10, 1986].”
 
-## § 1793. Trespass on Bureau of Prisons reservations and land
+## § 1793. Trespass on Bureau of Prisons reservations and land
 
 Whoever, without lawful authority or permission, goes upon a reservation, land, or a facility of the Bureau of Prisons shall be fined under this title or imprisoned not more than six months, or both.
 
-(Added Pub. L. 99–646, § 64(a), Nov. 10, 1986, 100 Stat. 3614; amended Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 99–646, § 64(a), Nov. 10, 1986, 100 Stat. 3614; amended Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Editorial Notes**
 

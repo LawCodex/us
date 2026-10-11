@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 577 of this title as this chapter and item 6522 as 8392.
+2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 577 of this title as this chapter and item 6522 as 8392.
 
-1958—Pub. L. 85–861, § 1(145), Sept. 2, 1958, 72 Stat. 1512, struck out item 6521 “Allowance to dependents: designation of beneficiary”.
+1958—Pub. L. 85–861, § 1(145), Sept. 2, 1958, 72 Stat. 1512, struck out item 6521 “Allowance to dependents: designation of beneficiary”.
 
-## § 8392. Disposition of effects
+## § 8392. Disposition of effects
 
 **(a)** If money or other personal property of a deceased member of the naval service is in the custody of the Department of the Navy, the Secretary of the Navy shall keep it in safe custody and make a diligent effort to determine and locate the heirs or next of kin of the deceased member. Property remaining unclaimed two years after the death of the member shall be sold, and the proceeds, together with any of his money held in custody, shall be covered into the Treasury.
 
@@ -31,7 +31,7 @@ retrieved: 2026-10-11
 
 **(c)** The Secretary shall prescribe regulations for the administration of this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 419, § 6522; renumbered § 8392, Pub. L. 115–232, div. A, title VIII, § 807(b)(18), Aug. 13, 2018, 132 Stat. 1836.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 419, § 6522; renumbered § 8392, Pub. L. 115–232, div. A, title VIII, § 807(b)(18), Aug. 13, 2018, 132 Stat. 1836.)
 
 **Historical and Revision Notes**
 
@@ -39,7 +39,7 @@ retrieved: 2026-10-11
 |---|---|---|
 | 6522 | 34 U.S.C. 942. | Mar. 29, 1918, ch. 31, 40 Stat. 499. |
 
-In subsection (a) the word “shall” is substituted for the words “authorized and directed”; the word “effort” is substituted for the word “inquiry”; the words “determine and locate” are substituted for the words “ascertain the whereabouts”; the words “personal property” are substituted for the words “all articles of value, papers, keepsakes, and other similar effects”. The phrase “to the credit of the Navy pension fund” is omitted since this fund was abolished by § 9 of the Act of June 26, 1934, ch. 756, 48 Stat. 1229. The application of this section is confined to the money and other personal property of the deceased member in the custody of the Department of the Navy to make it clear that disposition is made only of property held by the Department of the Navy and not of property which may be under other custody, over which the Department of the Navy would have no control.
+In subsection (a) the word “shall” is substituted for the words “authorized and directed”; the word “effort” is substituted for the word “inquiry”; the words “determine and locate” are substituted for the words “ascertain the whereabouts”; the words “personal property” are substituted for the words “all articles of value, papers, keepsakes, and other similar effects”. The phrase “to the credit of the Navy pension fund” is omitted since this fund was abolished by § 9 of the Act of June 26, 1934, ch. 756, 48 Stat. 1229. The application of this section is confined to the money and other personal property of the deceased member in the custody of the Department of the Navy to make it clear that disposition is made only of property held by the Department of the Navy and not of property which may be under other custody, over which the Department of the Navy would have no control.
 
 In subsection (b) the word “covered” is substituted for the word “deposited”.
 
@@ -47,17 +47,17 @@ In subsection (b) the word “covered” is substituted for the word “deposite
 
 **Prior Provisions**
 
-Prior sections 8392 to 8396 were repealed by Pub. L. 103–337, div. A, title XVI, § 1629(c)(1), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996.
+Prior sections 8392 to 8396 were repealed by Pub. L. 103–337, div. A, title XVI, § 1629(c)(1), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996.
 
-Section 8392, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1531; amended Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, related to appointment of adjutant general or assistant adjutant general in reserve commissioned grade in which Federal recognition in Air National Guard was extended. See section 12215(b) of this title.
+Section 8392, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1531; amended Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, related to appointment of adjutant general or assistant adjutant general in reserve commissioned grade in which Federal recognition in Air National Guard was extended. See section 12215(b) of this title.
 
-Section 8393, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1531, provided that sea or foreign service not to be required for promotion of reserve commissioned officers in reserve grades.
+Section 8393, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1531, provided that sea or foreign service not to be required for promotion of reserve commissioned officers in reserve grades.
 
 Section 8394, act Aug. 10, 1956, ch. 1041, 70A Stat. 521, related to acceptance of promotion by officers of Air National Guard of United States or Air Force Reserve. See section 14309 of this title.
 
 Section 8395, act Aug. 10, 1956, ch. 1041, 70A Stat. 521, related to appointment of reserve officers in time of war. See section 14317(e) of this title.
 
-Section 8396, added Pub. L. 96–513, title II, § 206(b), Dec. 12, 1980, 94 Stat. 2884, provided that this chapter, except section 8353, did not apply to reserve officers on active-duty list.
+Section 8396, added Pub. L. 96–513, title II, § 206(b), Dec. 12, 1980, 94 Stat. 2884, provided that this chapter, except section 8353, did not apply to reserve officers on active-duty list.
 
 **Amendments**
 

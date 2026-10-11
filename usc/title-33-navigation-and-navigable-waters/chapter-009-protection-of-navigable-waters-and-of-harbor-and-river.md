@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—IN GENERAL
 
-### § 400. Continuing authority programs
+### § 400. Continuing authority programs
 
 **(1) Definition of continuing authority program project** In this section, the term “continuing authority program” means 1 of the following authorities:
 
@@ -59,7 +59,7 @@ Not later than 1 year after June 10, 2014, the Secretary shall publish in the Fe
 
 On publication in the Federal Register under paragraphs (2) and (3), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a copy of all information published under those paragraphs.
 
-(Pub. L. 113–121, title I, § 1030(a), June 10, 2014, 128 Stat. 1231.)
+(Pub. L. 113–121, title I, § 1030(a), June 10, 2014, 128 Stat. 1231.)
 
 **Editorial Notes**
 
@@ -73,17 +73,17 @@ Section 103 of the River and Harbor Act of 1962, referred to in par. (1)(H), is 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 401. Construction of bridges, causeways, dams or dikes generally; exemptions
+### § 401. Construction of bridges, causeways, dams or dikes generally; exemptions
 
 It shall not be lawful to construct or commence the construction of any bridge, causeway, dam, or dike over or in any port, roadstead, haven, harbor, canal, navigable river, or other navigable water of the United States until the consent of Congress to the building of such structures shall have been obtained and until the plans for (1) the bridge or causeway shall have been submitted to and approved by the Secretary of the department in which the Coast Guard is operating, or (2) the dam or dike shall have been submitted to and approved by the Chief of Engineers and Secretary of the Army. However, such structures may be built under authority of the legislature of a State across rivers and other waterways the navigable portions of which lie wholly within the limits of a single State, provided the location and plans thereof are submitted to and approved by the Secretary of the department in which the Coast Guard is operating or by the Chief of Engineers and Secretary of the Army before construction is commenced. When plans for any bridge or other structure have been approved by the Secretary of the department in which the Coast Guard is operating or by the Chief of Engineers and Secretary of the Army, it shall not be lawful to deviate from such plans either before or after completion of the structure unless modification of said plans has previously been submitted to and received the approval of the Secretary of the department in which the Coast Guard is operating or the Chief of Engineers and the Secretary of the Army. The approval required by this section of the location and plans or any modification of plans of any bridge or causeway does not apply to any bridge or causeway over waters that are not subject to the ebb and flow of the tide and that are not used and are not susceptible to use in their natural condition or by reasonable improvement as a means to transport interstate or foreign commerce.
 
-(Mar. 3, 1899, ch. 425, § 9, 30 Stat. 1151; Pub. L. 97–322, title I, § 107(b), Oct. 15, 1982, 96 Stat. 1582; Pub. L. 97–449, § 2(f), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 114–120, title III, § 306(b)(1)(A), Feb. 8, 2016, 130 Stat. 55.)
+(Mar. 3, 1899, ch. 425, § 9, 30 Stat. 1151; Pub. L. 97–322, title I, § 107(b), Oct. 15, 1982, 96 Stat. 1582; Pub. L. 97–449, § 2(f), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 114–120, title III, § 306(b)(1)(A), Feb. 8, 2016, 130 Stat. 55.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section is from act Mar. 3, 1899, popularly known as the “Rivers and Harbors Appropriation Act of 1899”, and together with section 403 of this title effectively superseded act Sept. 19, 1890, ch. 907, § 7, 26 Stat. 454, as amended generally by act July 13, 1892, ch. 158, § 3, 27 Stat. 88, which prohibited the erection of obstructions to navigation, and prohibited the erection of bridges over navigable waters under State legislation before the approval of the plans by the Secretary of War, and prohibited the alteration of channels unless authorized by that Secretary.
+Section is from act Mar. 3, 1899, popularly known as the “Rivers and Harbors Appropriation Act of 1899”, and together with section 403 of this title effectively superseded act Sept. 19, 1890, ch. 907, § 7, 26 Stat. 454, as amended generally by act July 13, 1892, ch. 158, § 3, 27 Stat. 88, which prohibited the erection of obstructions to navigation, and prohibited the erection of bridges over navigable waters under State legislation before the approval of the plans by the Secretary of War, and prohibited the alteration of channels unless authorized by that Secretary.
 
 **Amendments**
 
@@ -97,19 +97,19 @@ Section is from act Mar. 3, 1899, popularly known as the “Rivers and Harbors A
 
 **Transfer of Functions**
 
-Functions, powers, and duties of Secretary of the Army [formerly War] and other offices and officers of Department of the Army [formerly War] under this section to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Functions, powers, and duties of Secretary of the Army [formerly War] and other offices and officers of Department of the Army [formerly War] under this section to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Enforcement functions of Secretary or other official in Department of Transportation related to compliance with permits for bridges across navigable waters issued under this section with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(c), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Secretary or other official in Department of Transportation related to compliance with permits for bridges across navigable waters issued under this section with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(c), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
-### § 402. Construction of bridges, etc., over Illinois and Mississippi Canal
+### § 402. Construction of bridges, etc., over Illinois and Mississippi Canal
 
 The provisions of section 401 of this title are made applicable alike to the completed and uncompleted portions of the Illinois and Mississippi Canal. Whenever the Secretary of the Army shall approve plans for a bridge to be built across said canal he may, in his discretion, and subject to such terms and conditions as in his judgment are equitable, expedient, and just to the public, grant to the person or corporation building and owning such bridge a right of way across the lands of the United States on either side of and adjacent to the said canal; also the privilege of occupying so much of said lands as may be necessary for the piers, abutments, and other portions of the bridge structure and approaches.
 
-(June 13, 1902, ch. 1079, § 10, 32 Stat. 374; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(June 13, 1902, ch. 1079, § 10, 32 Stat. 374; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -125,19 +125,19 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Transfer of Functions**
 
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
-### § 403. Obstruction of navigable waters generally; wharves; piers, etc.; excavations and filling in
+### § 403. Obstruction of navigable waters generally; wharves; piers, etc.; excavations and filling in
 
 The creation of any obstruction not affirmatively authorized by Congress, to the navigable capacity of any of the waters of the United States is prohibited; and it shall not be lawful to build or commence the building of any wharf, pier, dolphin, boom, weir, breakwater, bulkhead, jetty, or other structures in any port, roadstead, haven, harbor, canal, navigable river, or other water of the United States, outside established harbor lines, or where no harbor lines have been established, except on plans recommended by the Chief of Engineers and authorized by the Secretary of the Army; and it shall not be lawful to excavate or fill, or in any manner to alter or modify the course, location, condition, or capacity of, any port, roadstead, haven, harbor, canal, lake, harbor of refuge, or inclosure within the limits of any breakwater, or of the channel of any navigable water of the United States, unless the work has been recommended by the Chief of Engineers and authorized by the Secretary of the Army prior to beginning the same.
 
-(Mar. 3, 1899, ch. 425, § 10, 30 Stat. 1151; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Mar. 3, 1899, ch. 425, § 10, 30 Stat. 1151; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section is from act Mar. 3, 1899, popularly known as the “Rivers and Harbors Appropriation Act of 1899”, and together with section 401 of this title effectively superseded act Sept. 19, 1890, ch. 907, § 7, 26 Stat. 454, as amended generally by act July 13, 1892, ch. 158, § 3, 27 Stat. 88, which prohibited the erection of obstructions to navigation, and prohibited the erection of bridges over navigable waters under State legislation before the approval of the plans by the Secretary of War, and prohibited the alteration of channels unless authorized by that Secretary.
+Section is from act Mar. 3, 1899, popularly known as the “Rivers and Harbors Appropriation Act of 1899”, and together with section 401 of this title effectively superseded act Sept. 19, 1890, ch. 907, § 7, 26 Stat. 454, as amended generally by act July 13, 1892, ch. 158, § 3, 27 Stat. 88, which prohibited the erection of obstructions to navigation, and prohibited the erection of bridges over navigable waters under State legislation before the approval of the plans by the Secretary of War, and prohibited the alteration of channels unless authorized by that Secretary.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -147,11 +147,11 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Transfer of Functions**
 
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670 § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670 § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
 **Expediting Repairs and Recovery From Flooding**
 
-Pub. L. 116–260, div. AA, title I, § 122, Dec. 27, 2020, 134 Stat. 2635, provided that:
+Pub. L. 116–260, div. AA, title I, § 122, Dec. 27, 2020, 134 Stat. 2635, provided that:
 
 > **“(a) In General.—** To the maximum extent practicable, during the 5-year period beginning on the date of enactment of this Act [Dec. 27, 2020], the Secretary [of the Army] shall prioritize and expedite the processing of applications for permits under section 10 of the Act of March 3, 1899 (33 U.S.C. 403), and section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1344), and permissions under section 14 of the Act of March 3, 1899 (33 U.S.C. 408), to complete repairs, reconstruction (including improvements), and upgrades to flood control infrastructure damaged by flooding events during calendar years 2017 through 2020, including flooding events caused by ice jams.
 
@@ -167,13 +167,13 @@ Pub. L. 116–260, div. AA, title I, § 122, Dec. 27, 2020, 134 Stat. 2635, pr
 
 **Transfer of Functions**
 
-Enforcement functions of Secretary of the Army, Chief of Engineers, or other official in Corps of Engineers of the United States Army related to compliance with permits for structures in navigable waters issued under this section with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(b), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Secretary of the Army, Chief of Engineers, or other official in Corps of Engineers of the United States Army related to compliance with permits for structures in navigable waters issued under this section with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(b), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
-### § 403a. Creation or continuance of obstruction of navigable waters
+### § 403a. Creation or continuance of obstruction of navigable waters
 
 The creation of any obstruction, not affirmatively authorized by law, to the navigable capacity of any waters, in respect of which the United States has jurisdiction, is hereby prohibited. The continuance of any such obstruction, except bridges, piers, docks, and wharves, and similar structures erected for business purposes, whether heretofore or hereafter created, shall constitute an offense and each week’s continuance of any such obstruction shall be deemed a separate offense. Every person and every corporation which shall be guilty of creating or continuing any such unlawful obstruction in this act mentioned, or who shall violate the provisions of the last four preceding sections of this act, shall be deemed guilty of a misdemeanor, and on conviction thereof shall be punished by a fine not exceeding five thousand dollars, or by imprisonment (in the case of a natural person) not exceeding one year, or by both such punishments, in the discretion of the court, the creating or continuing of any unlawful obstruction in this act mentioned may be prevented and such obstruction may be caused to be removed by the injunction of any district court exercising jurisdiction in any district in which such obstruction may be threatened or may exist; and proper proceedings in equity to this end may be instituted under the direction of the Attorney-General of the United States.
 
-(Sept. 19, 1890, ch. 907, § 10, 26 Stat. 454; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167.)
+(Sept. 19, 1890, ch. 907, § 10, 26 Stat. 454; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167.)
 
 **Editorial Notes**
 
@@ -185,11 +185,11 @@ This act, referred to in text, is act Sept. 19, 1890, ch. 907, 26 Stat. 426. Sec
 
 Text of section, which was previously omitted from the Code, was restored in view of conflicting court decisions as to whether or not section had been repealed or superseded. See eg. United States v. Wishkah Boom Co., 136 F. 42 (9th Cir. 1905), (appeal dismissed [1906] 202 U.S. 613); United States v. Wilson, 235 F.2d 251 (2d Cir. 1956).
 
-### § 403b. Lighting at docks and boat launching facilities
+### § 403b. Lighting at docks and boat launching facilities
 
 Whenever the Secretary considers a permit application for a dock or a boat launching facility under section 403 of this title, the Secretary shall consider the needs of such facility for lighting from sunset to sunrise to make such facility’s presence known within a reasonable distance.
 
-(Pub. L. 99–662, title IX, § 946, Nov. 17, 1986, 100 Stat. 4200.)
+(Pub. L. 99–662, title IX, § 946, Nov. 17, 1986, 100 Stat. 4200.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -197,11 +197,11 @@ Whenever the Secretary considers a permit application for a dock or a boat launc
 
 Secretary means the Secretary of the Army, see section 2201 of this title.
 
-### § 404. Establishment of harbor lines; conditions to grants for extension of piers, etc.
+### § 404. Establishment of harbor lines; conditions to grants for extension of piers, etc.
 
 Where it is made manifest to the Secretary of the Army that the establishment of harbor lines is essential to the preservation and protection of harbors he may, and is, authorized to cause such lines to be established, beyond which no piers, wharves, bulkheads, or other works shall be extended or deposits made, except under such regulations as may be prescribed from time to time by him: *Provided*, That, whenever the Secretary of the Army grants to any person or persons permission to extend piers, wharves, bulkheads, or other works, or to make deposits in any tidal harbor or river of the United States beyond any harbor lines established under authority of the United States, he shall cause to be ascertained the amount of tidewater displaced by any such structure or by any such deposits, and he shall, if he deem it necessary, require the parties to whom the permission is given to make compensation for such displacement either by excavating in some part of the harbor, including tidewater channels between high and low water mark, to such an extent as to create a basin for as much tidewater as may be displaced by such structure or by such deposits, or in any other mode that may be satisfactory to him.
 
-(Mar. 3, 1899, ch. 425, § 11, 30 Stat. 1151; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Mar. 3, 1899, ch. 425, § 11, 30 Stat. 1151; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -211,11 +211,11 @@ Section is from act Mar. 3, 1899, popularly known as the “Rivers and Harbors A
 
 **Prior Provisions**
 
-This section and section 406 of this title, superseded act Aug. 11, 1888, ch. 860, § 12, 25 Stat. 425, as amended by act Sept. 19, 1890, ch. 907, § 12, 26 Stat. 455, which authorized the establishment of harbor lines, and prescribed a penalty for a violation of the section or any rule made in pursuance of it.
+This section and section 406 of this title, superseded act Aug. 11, 1888, ch. 860, § 12, 25 Stat. 425, as amended by act Sept. 19, 1890, ch. 907, § 12, 26 Stat. 455, which authorized the establishment of harbor lines, and prescribed a penalty for a violation of the section or any rule made in pursuance of it.
 
-Section also superseded act Aug. 18, 1894, ch. 299, § 9, 28 Stat. 364, which contained provisions for compensation for tide water displaced similar to the proviso in this section.
+Section also superseded act Aug. 18, 1894, ch. 299, § 9, 28 Stat. 364, which contained provisions for compensation for tide water displaced similar to the proviso in this section.
 
-Act Aug. 5, 1886, ch. 929, § 2, 24 Stat. 329, which was probably omitted from the Code as superseded by this section, provided that: “In places where harbor-lines have not been established, and where deposits of débris of mines or stamp works can be made without injury to navigation, within lines to be established by the Secretary of War, said officer may, and is hereby authorized to, cause such lines to be established; and within such lines such deposits may be made, under regulations to be from time to time prescribed by him.”
+Act Aug. 5, 1886, ch. 929, § 2, 24 Stat. 329, which was probably omitted from the Code as superseded by this section, provided that: “In places where harbor-lines have not been established, and where deposits of débris of mines or stamp works can be made without injury to navigation, within lines to be established by the Secretary of War, said officer may, and is hereby authorized to, cause such lines to be established; and within such lines such deposits may be made, under regulations to be from time to time prescribed by him.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -225,13 +225,13 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Transfer of Functions**
 
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
-### § 405. Establishment and modification of harbor lines on Potomac and Anacostia Rivers
+### § 405. Establishment and modification of harbor lines on Potomac and Anacostia Rivers
 
 The provisions of section 404 of this title are made applicable to the Potomac and Anacostia Rivers, and after July 25, 1912, harbor lines in the District of Columbia, or elsewhere on said rivers, shall be established or modified as therein provided.
 
-(July 25, 1912, ch. 253, § 1, 37 Stat. 206.)
+(July 25, 1912, ch. 253, § 1, 37 Stat. 206.)
 
 **Editorial Notes**
 
@@ -239,11 +239,11 @@ The provisions of section 404 of this title are made applicable to the Potomac a
 
 Section is from part of section 1 of act July 25, 1912, popularly known as the “Rivers and Harbors Appropriation Act of 1912”.
 
-### § 406. Penalty for wrongful construction of bridges, piers, etc.; removal of structures
+### § 406. Penalty for wrongful construction of bridges, piers, etc.; removal of structures
 
 Every person and every corporation that shall violate any of the provisions of sections 401, 403, and 404 of this title or any rule or regulation made by the Secretary of the Army in pursuance of the provisions of section 404 of this title shall be deemed guilty of a misdemeanor, and on conviction thereof shall be punished by a fine not exceeding $2,500 nor less than $500, or by imprisonment (in the case of a natural person) not exceeding one year, or by both such punishments, in the discretion of the court. And further, the removal of any structures or parts of structures erected in violation of the provisions of the said sections may be enforced by the injunction of any district court exercising jurisdiction in any district in which such structures may exist, and proper proceedings to this end may be instituted under the direction of the Attorney General of the United States.
 
-(Mar. 3, 1899, ch. 425, § 12, 30 Stat. 1151; Feb. 20, 1900, ch. 23, § 2, 31 Stat. 32; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Mar. 3, 1899, ch. 425, § 12, 30 Stat. 1151; Feb. 20, 1900, ch. 23, § 2, 31 Stat. 32; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -265,13 +265,13 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Transfer of Functions**
 
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
-### § 407. Deposit of refuse in navigable waters generally
+### § 407. Deposit of refuse in navigable waters generally
 
 It shall not be lawful to throw, discharge, or deposit, or cause, suffer, or procure to be thrown, discharged, or deposited either from or out of any ship, barge, or other floating craft of any kind, or from the shore, wharf, manufacturing establishment, or mill of any kind, any refuse matter of any kind or description whatever other than that flowing from streets and sewers and passing therefrom in a liquid state, into any navigable water of the United States, or into any tributary of any navigable water from which the same shall float or be washed into such navigable water; and it shall not be lawful to deposit, or cause, suffer, or procure to be deposited material of any kind in any place on the bank of any navigable water, or on the bank of any tributary of any navigable water, where the same shall be liable to be washed into such navigable water, either by ordinary or high tides, or by storms or floods, or otherwise, whereby navigation shall or may be impeded or obstructed: *Provided*, That nothing herein contained shall extend to, apply to, or prohibit the operations in connection with the improvement of navigable waters or construction of public works, considered necessary and proper by the United States officers supervising such improvement or public work: *And provided further*, That the Secretary of the Army, whenever in the judgment of the Chief of Engineers anchorage and navigation will not be injured thereby, may permit the deposit of any material above mentioned in navigable waters, within limits to be defined and under conditions to be prescribed by him, provided application is made to him prior to depositing such material; and whenever any permit is so granted the conditions thereof shall be strictly complied with, and any violation thereof shall be unlawful.
 
-(Mar. 3, 1899, ch. 425, § 13, 30 Stat. 1152; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Mar. 3, 1899, ch. 425, § 13, 30 Stat. 1152; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -281,9 +281,9 @@ Section is from act Mar. 3, 1899, popularly known as the “Rivers and Harbors A
 
 **Prior Provisions**
 
-This section and sections 408, 411, and 412 of this title, superseded act Aug. 18, 1894, ch. 299, §§ 6, 7, 8, 28 Stat. 363, which prohibited the depositing of refuse in navigable waters for the improvement of which money had been appropriated, and the injury to sea walls and other works built by the Government, and prescribed penalties for violations, including penalties against masters, etc., and vessels.
+This section and sections 408, 411, and 412 of this title, superseded act Aug. 18, 1894, ch. 299, §§ 6, 7, 8, 28 Stat. 363, which prohibited the depositing of refuse in navigable waters for the improvement of which money had been appropriated, and the injury to sea walls and other works built by the Government, and prescribed penalties for violations, including penalties against masters, etc., and vessels.
 
-Section also superseded act Sept. 19, 1890, ch. 907, § 6, 26 Stat. 453, which prohibited obstructing navigation by deposits of refuse, etc., in navigable waters.
+Section also superseded act Sept. 19, 1890, ch. 907, § 6, 26 Stat. 453, which prohibited obstructing navigation by deposits of refuse, etc., in navigable waters.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -297,7 +297,7 @@ This section is popularly known as the “Refuse Act of 1899”.
 
 **Transfer of Functions**
 
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
 **Termination of Discharge Permit Program**
 
@@ -309,11 +309,11 @@ No permits for discharges into navigable waters to be issued under this section 
 
 Ex. Ord. No. 11574, Dec. 23, 1970, 35 F.R. 19627, which provided for administration of a permit program to regulate discharge of pollutants and other refuse matter into navigable waters or their tributaries and placement of such matter on their banks, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
-### § 407a. Deposit of debris of mines and stamp works
+### § 407a. Deposit of debris of mines and stamp works
 
 In places where harbor-lines have not been established, and where deposits of debris of mines or stamp works can be made without injury to navigation, within lines to be established by the Secretary of the Army, said officer may, and is authorized to, cause such lines to be established; and within such lines such deposits may be made, under regulations to be from time to time prescribed by him.
 
-(Aug. 5, 1886, ch. 929, § 2, 24 Stat. 329; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Aug. 5, 1886, ch. 929, § 2, 24 Stat. 329; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -323,9 +323,9 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Transfer of Functions**
 
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
-### § 408. Taking possession of, use of, or injury to harbor or river improvements
+### § 408. Taking possession of, use of, or injury to harbor or river improvements
 
 **(a) Prohibitions and permissions**
 
@@ -397,13 +397,13 @@ In any case in which a schedule provided under paragraph (2)(B) extends beyond 1
 
 For the purposes of this section, the term “work” shall not include unimproved real estate owned or operated by the Secretary as part of a water resources development project if the Secretary determines that modification of such real estate would not affect the function and usefulness of the project.
 
-(Mar. 3, 1899, ch. 425, § 14, 30 Stat. 1152; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 99–88, title I, § 100, Aug. 15, 1985, 99 Stat. 315; Pub. L. 114–322, title I, § 1156(a), Dec. 16, 2016, 130 Stat. 1664; Pub. L. 115–270, title I, § 1165, Oct. 23, 2018, 132 Stat. 3797; Pub. L. 118–272, div. A, title I, § 1105, Jan. 4, 2025, 138 Stat. 3001.)
+(Mar. 3, 1899, ch. 425, § 14, 30 Stat. 1152; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 99–88, title I, § 100, Aug. 15, 1985, 99 Stat. 315; Pub. L. 114–322, title I, § 1156(a), Dec. 16, 2016, 130 Stat. 1664; Pub. L. 115–270, title I, § 1165, Oct. 23, 2018, 132 Stat. 3797; Pub. L. 118–272, div. A, title I, § 1105, Jan. 4, 2025, 138 Stat. 3001.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Codification**
 
@@ -411,9 +411,9 @@ Section is from act Mar. 3, 1899, popularly known as the “Rivers and Harbors A
 
 **Prior Provisions**
 
-Section superseded act Sept. 19, 1890, ch. 907, § 9, 26 Stat. 426, which prohibited persons taking possession of or using or injuring government works in navigable waters.
+Section superseded act Sept. 19, 1890, ch. 907, § 9, 26 Stat. 426, which prohibited persons taking possession of or using or injuring government works in navigable waters.
 
-Act Aug. 14, 1876, ch. 267, § 3, 19 Stat. 139, penalizing persons injuring any pier breakwater, or other work of the United States for the improvement of rivers or harbors or navigation, was probably omitted from the Code as superseded by this section.
+Act Aug. 14, 1876, ch. 267, § 3, 19 Stat. 139, penalizing persons injuring any pier breakwater, or other work of the United States for the improvement of rivers or harbors or navigation, was probably omitted from the Code as superseded by this section.
 
 **Amendments**
 
@@ -433,9 +433,9 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Transfer of Functions**
 
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
-### § 408a. Expediting approval of modifications and alterations of projects by non-Federal interests
+### § 408a. Expediting approval of modifications and alterations of projects by non-Federal interests
 
 **(a) Section 14 application defined**
 
@@ -475,9 +475,9 @@ Not later than 1 year after June 10, 2014, the Secretary, after providing notice
 
 **(B)** include in the written notice a best estimate of the Secretary as to the amount of time required for completion of the review.
 
-**(d) Failure to achieve benchmark goals** In any case in which the Secretary fails make 1
+**(d) Failure to achieve benchmark goals** In any case in which the Secretary fails make 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “to”.
+<sup>1</sup> So in original. Probably should be preceded by “to”.
 
 a decision on a section 14 application in accordance with the process established under this section, the Secretary shall provide written notice to the applicant, including a detailed description of—
 
@@ -513,7 +513,7 @@ In issuing guidance under paragraph (1), or any other regulation, guidance, or e
 
 The Secretary shall prioritize and complete the activities required of the Secretary under this section.
 
-(Pub. L. 113–121, title I, § 1007, June 10, 2014, 128 Stat. 1214; Pub. L. 114–322, title I, § 1156(b), Dec. 16, 2016, 130 Stat. 1665.)
+(Pub. L. 113–121, title I, § 1007, June 10, 2014, 128 Stat. 1214; Pub. L. 114–322, title I, § 1156(b), Dec. 16, 2016, 130 Stat. 1665.)
 
 **Editorial Notes**
 
@@ -527,11 +527,11 @@ The Secretary shall prioritize and complete the activities required of the Secre
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 409. Obstruction of navigable waters by vessels; floating timber; marking and removal of sunken vessels
+### § 409. Obstruction of navigable waters by vessels; floating timber; marking and removal of sunken vessels
 
 It shall not be lawful to tie up or anchor vessels or other craft in navigable channels in such a manner as to prevent or obstruct the passage of other vessels or craft; or to sink, or permit or cause to be sunk, vessels or other craft in navigable channels; or to float loose timber and logs, or to float what is known as “sack rafts of timber and logs” in streams or channels actually navigated by steamboats in such manner as to obstruct, impede, or endanger navigation. And whenever a vessel, raft or other craft is wrecked and sunk in a navigable channel, it shall be the duty of the owner, lessee, or operator of such sunken craft to immediately mark it with a buoy or beacon during the day and, unless otherwise granted a waiver by the Commandant of the Coast Guard, a light at night, and to maintain such marks until the sunken craft is removed or abandoned, and the neglect or failure of the said owner, lessee, or operator so to do shall be unlawful; and it shall be the duty of the owner, lessee, or operator of such sunken craft to commence the immediate removal of the same, and prosecute such removal diligently, and failure to do so shall be considered as an abandonment of such craft, and subject the same to removal by the United States as provided for in sections 411 to 416, 418, and 502 of this title. The Commandant of the Coast Guard may waive the requirement to mark a wrecked vessel, raft, or other craft with a light at night if the Commandant determines that placing a light would be impractical and granting such a waiver would not create an undue hazard to navigation.
 
-(Mar. 3, 1899, ch. 425, § 15, 30 Stat. 1152; Pub. L. 99–662, title IX, § 939(a), Nov. 17, 1986, 100 Stat. 4199; Pub. L. 108–293, title III, § 301, Aug. 9, 2004, 118 Stat. 1041.)
+(Mar. 3, 1899, ch. 425, § 15, 30 Stat. 1152; Pub. L. 99–662, title IX, § 939(a), Nov. 17, 1986, 100 Stat. 4199; Pub. L. 108–293, title III, § 301, Aug. 9, 2004, 118 Stat. 1041.)
 
 **Editorial Notes**
 
@@ -543,9 +543,9 @@ Section is from act Mar. 3, 1899, popularly known as the “Rivers and Harbors A
 
 2004—Pub. L. 108–293 substituted “day and, unless otherwise granted a waiver by the Commandant of the Coast Guard, a light” for “day and a lighted lantern” in second sentence and inserted at end “The Commandant of the Coast Guard may waive the requirement to mark a wrecked vessel, raft, or other craft with a light at night if the Commandant determines that placing a light would be impractical and granting such a waiver would not create an undue hazard to navigation.”
 
-1986—Pub. L. 99–662 substituted “or to sink” for “or to voluntarily or carelessly sink”, struck out “accidentally or otherwise,” after “navigable channel,”, and inserted “, lessee, or operator” after “owner” in three places.
+1986—Pub. L. 99–662 substituted “or to sink” for “or to voluntarily or carelessly sink”, struck out “accidentally or otherwise,” after “navigable channel,”, and inserted “, lessee, or operator” after “owner” in three places.
 
-### § 410. Exception as to floating loose timber, sack rafts, etc.; violation of regulations; penalty
+### § 410. Exception as to floating loose timber, sack rafts, etc.; violation of regulations; penalty
 
 The prohibition contained in section 409 of this title against floating loose timber and logs, or sack rafts, so called, of timber and logs in streams or channels actually navigated by steamboats, shall not apply to any navigable river or waterway of the United States or any part thereof whereon the floating of loose timber and logs and sack rafts of timber and logs is the principal method of navigation. But such method of navigation on such river or waterway or part thereof shall be subject to the rules and regulations prescribed by the Secretary of the Army as provided in this section.
 
@@ -553,7 +553,7 @@ The Secretary of the Army shall have power, and he is authorized and directed to
 
 The right to alter, amend, or repeal this section at any time is reserved.
 
-(May 9, 1900, ch. 387, §§ 1–3, 31 Stat. 172; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(May 9, 1900, ch. 387, §§ 1–3, 31 Stat. 172; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -561,17 +561,17 @@ The right to alter, amend, or repeal this section at any time is reserved.
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-“Magistrate judge” substituted in text for “magistrate” pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “magistrate” was substituted for “commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
+“Magistrate judge” substituted in text for “magistrate” pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “magistrate” was substituted for “commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
 
 **Transfer of Functions**
 
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
-### § 411. Penalty for wrongful deposit of refuse; use of or injury to harbor improvements, and obstruction of navigable waters generally
+### § 411. Penalty for wrongful deposit of refuse; use of or injury to harbor improvements, and obstruction of navigable waters generally
 
 Every person and every corporation that shall violate, or that shall knowingly aid, abet, authorize, or instigate a violation of the provisions of sections 407, 408, 409, 414, and 415 of this title shall be guilty of a misdemeanor, and on conviction thereof shall be punished by a fine of up to $25,000 per day, or by imprisonment (in the case of a natural person) for not less than thirty days nor more than one year, or by both such fine and imprisonment, in the discretion of the court, one-half of said fine to be paid to the person or persons giving information which shall lead to conviction.
 
-(Mar. 3, 1899, ch. 425, § 16, 30 Stat. 1153; Pub. L. 104–303, title II, § 218(a), Oct. 12, 1996, 110 Stat. 3696.)
+(Mar. 3, 1899, ch. 425, § 16, 30 Stat. 1153; Pub. L. 104–303, title II, § 218(a), Oct. 12, 1996, 110 Stat. 3696.)
 
 **Editorial Notes**
 
@@ -583,11 +583,11 @@ Section is from part of section 16 of act Mar. 3, 1899, popularly known as the �
 
 1996—Pub. L. 104–303 substituted “407, 408, 409, 414, and 415” for “407, 408, and 409” and “of up to $25,000 per day” for “not exceeding twenty-five hundred dollars nor less than five hundred dollars”.
 
-### § 412. Liability of masters, pilots, etc., and of vessels engaged in violations
+### § 412. Liability of masters, pilots, etc., and of vessels engaged in violations
 
 Any and every master, pilot, and engineer, or person or persons acting in such capacity, respectively, on board of any boat or vessel who shall knowingly engage in towing any scow, boat, or vessel loaded with any material specified in section 407 of this title to any point or place of deposit or discharge in any harbor or navigable water, elsewhere than within the limits defined and permitted by the Secretary of the Army, or who shall willfully injure or destroy any work of the United States contemplated in section 408 of this title, or who shall willfully obstruct the channel of any waterway in the manner contemplated in section 409 of this title, shall be deemed guilty of a violation of this Act, and shall upon conviction be punished as provided in section 411 of this title, and shall also have his license revoked or suspended for a term to be fixed by the judge before whom tried and convicted. And any boat, vessel, scow, raft, or other craft used or employed in violating any of the provisions of sections 407, 408, 409, 414, and 415 of this title shall be liable for the pecuniary penalties specified in section 411 of this title, and in addition thereto for the amount of the damages done by said boat, vessel, scow, raft, or other craft, which latter sum shall be placed to the credit of the appropriation for the improvement of the harbor or waterway in which the damage occurred, and said boat, vessel, scow, raft, or other craft may be proceeded against summarily by way of libel in any district court of the United States having jurisdiction thereof.
 
-(Mar. 3, 1899, ch. 425, § 16, 30 Stat. 1153; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 104–303, title II, § 218(a)(1), Oct. 12, 1996, 110 Stat. 3696.)
+(Mar. 3, 1899, ch. 425, § 16, 30 Stat. 1153; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 104–303, title II, § 218(a)(1), Oct. 12, 1996, 110 Stat. 3696.)
 
 **Editorial Notes**
 
@@ -611,13 +611,13 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Transfer of Functions**
 
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
-### § 413. Duty of United States attorneys and other Federal officers in enforcement of provisions; arrest of offenders
+### § 413. Duty of United States attorneys and other Federal officers in enforcement of provisions; arrest of offenders
 
 The Department of Justice shall conduct the legal proceedings necessary to enforce the provisions of sections 401, 403, 404, 406, 407, 408, 409, 411, and 412 of this title; and it shall be the duty of United States attorneys to vigorously prosecute all offenders against the same whenever requested to do so by the Secretary of the Army or by any of the officials hereinafter designated, and it shall furthermore be the duty of said United States attorneys to report to the Attorney General of the United States the action taken by him against offenders so reported, and a transcript of such reports shall be transmitted to the Secretary of the Army by the Attorney General; and for the better enforcement of the said provisions and to facilitate the detection and bringing to punishment of such offenders, the officers and agents of the United States in charge of river and harbor improvements, and the assistant engineers and inspectors employed under them by authority of the Secretary of the Army, and the United States collectors of customs and other revenue officers shall have power and authority to swear out process, and to arrest and take into custody, with or without process, any person or persons who may commit any of the acts or offenses prohibited by the said sections, or who may violate any of the provisions of the same: *Provided*, That no person shall be arrested without process for any offense not committed in the presence of some one of the aforesaid officials: *And provided further*, That whenever any arrest is made under such sections, the person so arrested shall be brought forthwith before a magistrate judge, judge, or court of the United States for examination of the offenses alleged against him; and such magistrate judge, judge, or court shall proceed in respect thereto as authorized by law in case of crimes against the United States.
 
-(Mar. 3, 1899, ch. 425, § 17, 30 Stat. 1153; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; June 25, 1948, ch. 646, § 1, 62 Stat. 909; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(Mar. 3, 1899, ch. 425, § 17, 30 Stat. 1153; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; June 25, 1948, ch. 646, § 1, 62 Stat. 909; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Editorial Notes**
 
@@ -627,7 +627,7 @@ Section is from act Mar. 3, 1899, popularly known as the “Rivers and Harbors A
 
 **Prior Provisions**
 
-Act Sept. 19, 1890, ch. 907, § 11, 26 Stat. 455, was probably omitted from the Code as superseded by this section, or as rendered obsolete by act March 3, 1899, different sections of which superseded provisions of the act of 1890, the enforcement of which was provided for by section 11. It read as follows: “It shall be the duty of officers and agents having the supervision, on the part of the United States, of the works in progress for the preservation and improvement of said navigable waters, and, in their absence, of the United States collectors of customs and other revenue officers to enforce the provisions of this act by giving information to the district attorney of the United States for the district in which any violation of any provision of this act shall have been committed: *Provided*, That the provisions of this act shall not apply to Torch Lake, Houghton County, Michigan.”
+Act Sept. 19, 1890, ch. 907, § 11, 26 Stat. 455, was probably omitted from the Code as superseded by this section, or as rendered obsolete by act March 3, 1899, different sections of which superseded provisions of the act of 1890, the enforcement of which was provided for by section 11. It read as follows: “It shall be the duty of officers and agents having the supervision, on the part of the United States, of the works in progress for the preservation and improvement of said navigable waters, and, in their absence, of the United States collectors of customs and other revenue officers to enforce the provisions of this act by giving information to the district attorney of the United States for the district in which any violation of any provision of this act shall have been committed: *Provided*, That the provisions of this act shall not apply to Torch Lake, Houghton County, Michigan.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -637,11 +637,11 @@ Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorneys”
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-“Magistrate judge” substituted in text for “magistrate” pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “magistrate” was substituted for “commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
+“Magistrate judge” substituted in text for “magistrate” pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “magistrate” was substituted for “commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
 
 **Transfer of Functions**
 
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
 **Executive Documents**
 
@@ -649,7 +649,7 @@ Functions, powers, and duties of Secretary of the Army and other offices and off
 
 All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments required to be made by President with advice and consent of Senate were ordered abolished with such offices to be terminated not later than Dec. 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. All functions of the offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
 
-### § 414. Vessel removal by Corps of Engineers
+### § 414. Vessel removal by Corps of Engineers
 
 **(a) Removal of obstructive vessels**
 
@@ -703,7 +703,7 @@ The owner of a covered vessel shall be liable to the United States for the costs
 
 There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2025 through 2029.
 
-(Mar. 3, 1899, ch. 425, § 19, 30 Stat. 1154; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 99–662, title IX, § 939(b), Nov. 17, 1986, 100 Stat. 4199; Pub. L. 118–272, div. A, title I, § 1124(a), Jan. 4, 2025, 138 Stat. 3016.)
+(Mar. 3, 1899, ch. 425, § 19, 30 Stat. 1154; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 99–662, title IX, § 939(b), Nov. 17, 1986, 100 Stat. 4199; Pub. L. 118–272, div. A, title I, § 1124(a), Jan. 4, 2025, 138 Stat. 3016.)
 
 **Editorial Notes**
 
@@ -713,9 +713,9 @@ Section is from act Mar. 3, 1899, popularly known as the “Rivers and Harbors A
 
 **Prior Provisions**
 
-Section superseded act June 14, 1880, ch. 211, § 4, 21 Stat. 197, and act Aug. 2, 1882, ch. 375, 22 Stat. 208, which required the Secretary of War to give notice to the persons interested in wrecks obstructing navigation of the purpose of the Secretary to remove the same unless such parties should do so, and authorized the Secretary to remove the same on the failure of the parties interested to do so, and to sell the same to the highest bidder, and also authorized the Secretary to dispose of any sunken vessel or cargo before removal.
+Section superseded act June 14, 1880, ch. 211, § 4, 21 Stat. 197, and act Aug. 2, 1882, ch. 375, 22 Stat. 208, which required the Secretary of War to give notice to the persons interested in wrecks obstructing navigation of the purpose of the Secretary to remove the same unless such parties should do so, and authorized the Secretary to remove the same on the failure of the parties interested to do so, and to sell the same to the highest bidder, and also authorized the Secretary to dispose of any sunken vessel or cargo before removal.
 
-Section also superseded act Sept. 19, 1890, ch. 907, § 8, 26 Stat. 454, which authorized the Secretary of War to remove wrecks remaining for more than two months.
+Section also superseded act Sept. 19, 1890, ch. 907, § 8, 26 Stat. 454, which authorized the Secretary of War to remove wrecks remaining for more than two months.
 
 **Amendments**
 
@@ -731,7 +731,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Transfer of Functions**
 
-Functions, powers and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Functions, powers and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
 **Executive Documents**
 
@@ -739,7 +739,7 @@ Functions, powers and duties of Secretary of the Army and other offices and offi
 
 For transfer of certain functions insofar as they pertain to Air Force, and to extent that they were not previously transferred to Secretary of the Air Force and Department of the Air Force from Secretary of the Army and Department of the Army, see Secretary of Defense Transfer Order No. 40 [App. A(57)], July 22, 1949.
 
-### § 415. Summary removal of water craft obstructing navigation; liability of owner, lessee, or operator
+### § 415. Summary removal of water craft obstructing navigation; liability of owner, lessee, or operator
 
 **(a) Removal authority**
 
@@ -753,7 +753,7 @@ Not later than 24 hours after the Secretary of the Department in which the Coast
 
 The owner, lessee, or operator of such vessel, boat, watercraft, raft, or other obstruction as described in this section shall be liable to the United States for the actual cost, including administrative costs, of removal or destruction and disposal as described which exceeds the costs recovered under subsection (a). Any amount recovered from the owner, lessee, or operator of such vessel pursuant to this subsection to recover costs in excess of the proceeds from the sale or disposition of such vessel shall be deposited in the general fund of the Treasury of the United States.
 
-(Mar. 3, 1899, ch. 425, § 20, 30 Stat. 1154; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 99–662, title IX, § 939(b), Nov. 17, 1986, 100 Stat. 4199; Pub. L. 104–303, title II, § 218(b), Oct. 12, 1996, 110 Stat. 3696.)
+(Mar. 3, 1899, ch. 425, § 20, 30 Stat. 1154; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 99–662, title IX, § 939(b), Nov. 17, 1986, 100 Stat. 4199; Pub. L. 104–303, title II, § 218(b), Oct. 12, 1996, 110 Stat. 3696.)
 
 **Editorial Notes**
 
@@ -761,15 +761,15 @@ The owner, lessee, or operator of such vessel, boat, watercraft, raft, or other 
 
 Section is from part of section 20 of act Mar. 3, 1899, popularly known as the “Rivers and Harbors Appropriation Act of 1899”. Another part of that section, appropriating money necessary to execute its provisions, is classified to section 416 of this title.
 
-Section 20 of act Mar. 3, 1899, also contained a repealing clause with a proviso saving pending actions and rights of actions. It was amended by act Feb. 20, 1900, ch. 23, § 3, 31 Stat. 32, and again amended by act June 13, 1902, ch. 1079, § 12, 32 Stat. 375, by adding another proviso which is classified to section 418 of this title.
+Section 20 of act Mar. 3, 1899, also contained a repealing clause with a proviso saving pending actions and rights of actions. It was amended by act Feb. 20, 1900, ch. 23, § 3, 31 Stat. 32, and again amended by act June 13, 1902, ch. 1079, § 12, 32 Stat. 375, by adding another proviso which is classified to section 418 of this title.
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–303, § 218(b)(1), substituted “actual expense, including administrative expenses, of removing” for “expense of removing”.
+1996—Subsec. (a). Pub. L. 104–303, § 218(b)(1), substituted “actual expense, including administrative expenses, of removing” for “expense of removing”.
 
-Subsec. (b). Pub. L. 104–303, § 218(b)(4), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 104–303, § 218(b)(4), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 104–303, § 218(b)(2), (3), redesignated subsec. (b) as (c) and substituted “actual cost, including administrative costs, of removal” for “cost of removal”.
+Subsec. (c). Pub. L. 104–303, § 218(b)(2), (3), redesignated subsec. (b) as (c) and substituted “actual cost, including administrative costs, of removal” for “cost of removal”.
 
 1986—Pub. L. 99–662 designated existing provision as subsec. (a) and added subsec. (b).
 
@@ -783,7 +783,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
 **Executive Documents**
 
@@ -791,11 +791,11 @@ Functions, powers, and duties of Secretary of the Army and other offices and off
 
 For transfer of certain functions insofar as they pertain to Air Force, and to extent that they were not previously transferred to Secretary of the Air Force and Department of the Air Force from Secretary of the Army and Department of the Army, see Secretary of Defense Transfer Order No. 40 [App. A(57)], July 22, 1949.
 
-### § 416. Appropriations for removal of sunken water craft
+### § 416. Appropriations for removal of sunken water craft
 
 Such sum of money as may be necessary to execute sections 414(a) and 415 of this title is hereby appropriated out of any money in the Treasury not otherwise appropriated, to be paid out on the requisition of the Secretary of the Army.
 
-(Mar. 3, 1899, ch. 425, § 20(a), formerly § 20, 30 Stat. 1155; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; renumbered § 20(a), Pub. L. 99–662, title IX, § 939(b), Nov. 17, 1986, 100 Stat. 4199; Pub. L. 118–272, div. A, title I, § 1124(b), Jan. 4, 2025, 138 Stat. 3017.)
+(Mar. 3, 1899, ch. 425, § 20(a), formerly § 20, 30 Stat. 1155; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; renumbered § 20(a), Pub. L. 99–662, title IX, § 939(b), Nov. 17, 1986, 100 Stat. 4199; Pub. L. 118–272, div. A, title I, § 1124(b), Jan. 4, 2025, 138 Stat. 3017.)
 
 **Editorial Notes**
 
@@ -815,13 +815,13 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Appropriations**
 
-Act June 26, 1934, ch. 756, § 2, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Removing sunken vessels or craft obstructing or endangering navigation (8x888)” effective July 1, 1935, and provided that such portions of any acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
+Act June 26, 1934, ch. 756, § 2, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Removing sunken vessels or craft obstructing or endangering navigation (8x888)” effective July 1, 1935, and provided that such portions of any acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
 
-### § 417. Expenses of investigations by Department of the Army
+### § 417. Expenses of investigations by Department of the Army
 
 Expenses incurred by the Engineer Department of the Department of the Army in all investigations, inspections, hearings, reports, service of notice, or other action incidental to examination of plans or sites of bridges or other structures built or proposed to be built in or over navigable waters, or to examinations into alleged violations of laws for the protection and preservation of navigable waters, or to the establishment or marking of harbor lines, shall be payable from any funds which may be available for the improvement, maintenance, operation, or care of the waterways or harbors affected, or if such funds are not available in sums judged by the Chief of Engineers to be adequate, then from any funds available for examinations, surveys, and contingencies of rivers and harbors.
 
-(Mar. 3, 1905, ch. 1482, § 6, 33 Stat. 1148; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Mar. 3, 1905, ch. 1482, § 6, 33 Stat. 1148; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -831,29 +831,29 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Transfer of Functions**
 
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
-### § 418. Provisions for protection of New York Harbor unaffected
+### § 418. Provisions for protection of New York Harbor unaffected
 
 Nothing contained in sections 401, 403, 404, 406, 407, 408, 409, 411 to 416, and 502 of this title shall be construed as repealing, modifying, or in any manner affecting the provisions of subchapter III of this chapter.
 
-(Mar. 3, 1899, ch. 425, § 20(a), formerly § 20, 30 Stat. 1154; Feb. 20, 1900, ch. 23, § 3, 31 Stat. 32; June 13, 1902, ch. 1079, § 12, 32 Stat. 375; renumbered § 20(a), Pub. L. 99–662, title IX, § 939(b), Nov. 17, 1986, 100 Stat. 4199.)
+(Mar. 3, 1899, ch. 425, § 20(a), formerly § 20, 30 Stat. 1154; Feb. 20, 1900, ch. 23, § 3, 31 Stat. 32; June 13, 1902, ch. 1079, § 12, 32 Stat. 375; renumbered § 20(a), Pub. L. 99–662, title IX, § 939(b), Nov. 17, 1986, 100 Stat. 4199.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subchapter III (§ 441 et seq.) of this chapter, referred to in text, was in the original a reference to the Act of June 29, 1888, as amended by section 3 of the river and harbor Act of August 18, 1894.
+Subchapter III (§ 441 et seq.) of this chapter, referred to in text, was in the original a reference to the Act of June 29, 1888, as amended by section 3 of the river and harbor Act of August 18, 1894.
 
 **Codification**
 
 Section is from part of section 20(a) of act Mar. 3, 1899, popularly known as the “Rivers and Harbors Appropriation Act of 1899”. See Codification and Amendment notes set out under section 415 of this title.
 
-### § 419. Regulation by Secretary governing transportation and dumping of dredgings, refuse, etc., into navigable waters; oyster lands; appropriations
+### § 419. Regulation by Secretary governing transportation and dumping of dredgings, refuse, etc., into navigable waters; oyster lands; appropriations
 
 The Secretary of the Army is authorized and empowered to prescribe regulations to govern the transportation and dumping into any navigable water, or waters adjacent thereto, of dredgings, earth, garbage, and other refuse materials of every kind or description, whenever in his judgment such regulations are required in the interest of navigation. Such regulations shall be posted in conspicuous and appropriate places for the information of the public; and every person or corporation which shall violate the said regulations, or any of them, shall be deemed guilty of a misdemeanor and shall be subject to the penalties prescribed in sections 411 and 412 of this title, for violation of the provisions of section 407 of this title: *Provided*, That any regulations made in pursuance hereof may be enforced as provided in section 413 of this title, the provisions whereof are made applicable to the said regulations: *Provided further*, That this section shall not apply to any waters within the jurisdictional boundaries of any State which are now or may hereafter be used for the cultivation of oysters under the laws of such State, except navigable channels which have been or may hereafter be improved by the United States, or to be designated as navigable channels by competent authority, and in making such improvements of channels, the material dredged shall not be deposited upon any ground in use in accordance with the laws of such State for the cultivation of oysters, except in compliance with said laws: *And provided further*, That any expense necessary in executing this section may be paid from funds available for the improvement of the harbor or waterway, for which regulations may be prescribed, and in case no such funds are available the said expense may be paid from appropriations made by Congress for examinations, surveys, and contingencies of rivers and harbors.
 
-(Mar. 3, 1905, ch. 1482, § 4, 33 Stat. 1147; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Mar. 3, 1905, ch. 1482, § 4, 33 Stat. 1147; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -863,25 +863,25 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Transfer of Functions**
 
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
-### § 419a. Management practices to extend capacity and useful life of dredged material disposal areas
+### § 419a. Management practices to extend capacity and useful life of dredged material disposal areas
 
 The Secretary of the Army, acting through the Chief of Engineers, shall utilize and encourage the utilization of such management practices as he determines appropriate to extend the capacity and useful life of dredged material disposal areas such that the need for new dredged material disposal areas is kept to a minimum. Management practices authorized by this section shall include, but not be limited to, the construction of dikes, consolidation and dewatering of dredged material, and construction of drainage and outflow facilities.
 
-(Pub. L. 94–587, § 148, Oct. 22, 1976, 90 Stat. 2931.)
+(Pub. L. 94–587, § 148, Oct. 22, 1976, 90 Stat. 2931.)
 
-### § 420. Piers and cribs on Mississippi and St. Croix Rivers
+### § 420. Piers and cribs on Mississippi and St. Croix Rivers
 
 The owners of sawmills on the Mississippi River and the Saint Croix River in the States of Wisconsin and Minnesota are authorized and empowered under the direction of the Secretary of the Army, to construct piers or cribs in front of their mill property on the banks of the river, for the protection of their mills and rafts against damage by floods and ice: *Provided, however*, That the piers or cribs so constructed shall not interfere with or obstruct the navigation of the river. And in case any pier or crib constructed under authority of this section shall at any time, and for any cause, be found to obstruct the navigation of the river, the Government expressly reserves the right to remove or direct the removal of it, at the cost and expense of the owners thereof.
 
-(R.S. § 5254; May 1, 1882, ch. 112, 22 Stat. 52; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(R.S. § 5254; May 1, 1882, ch. 112, 22 Stat. 52; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5254 derived from act Mar. 3, 1873, ch. 278, 17 Stat. 606.
+R.S. § 5254 derived from act Mar. 3, 1873, ch. 278, 17 Stat. 606.
 
 **Amendments**
 
@@ -895,9 +895,9 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Transfer of Functions**
 
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
-### § 421. Deposit of refuse, etc., in Lake Michigan near Chicago
+### § 421. Deposit of refuse, etc., in Lake Michigan near Chicago
 
 It shall not be lawful to throw, discharge, dump, or deposit, or cause, suffer, or procure, to be thrown, discharged, dumped, or deposited, any refuse matter of any kind or description whatever other than that flowing from streets and sewers and passing therefrom in a liquid state into Lake Michigan, at any point opposite or in front of the county of Cook, in the State of Illinois, or the county of Lake in the State of Indiana, within eight miles from the shore of said lake, unless said material shall be placed inside of a breakwater so arranged as not to permit the escape of such refuse material into the body of the lake and cause contamination thereof; and no officer of the Government shall dump or cause or authorize to be dumped any material contrary to the provisions of this section: *Provided, however*, That the provisions of this section shall not apply to work in connection with the construction, repair, and protection of breakwaters and other structures built in aid of navigation, or for the purpose of obtaining water supply. Any person violating any provision of this section shall be guilty of a misdemeanor, and on conviction thereof shall be fined for each offense not exceeding $1,000.
 
@@ -909,11 +909,11 @@ It shall not be lawful to throw, discharge, dump, or deposit, or cause, suffer, 
 
 Section is from act June 23, 1910, popularly known as the “Rivers and Harbors Act of 1910”.
 
-### § 422. Modification and extension of harbor lines at Chicago
+### § 422. Modification and extension of harbor lines at Chicago
 
 The Secretary of the Army is authorized, in his discretion, to modify and extend harbor lines in front of the city of Chicago in such manner as to permit park extension work which may be desired by the municipal authorities, including the changing and widening of the southern entrance to the Chicago Harbor.
 
-(Aug. 26, 1912, ch. 408, § 5, 37 Stat. 626; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Aug. 26, 1912, ch. 408, § 5, 37 Stat. 626; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -929,13 +929,13 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Transfer of Functions**
 
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
-### § 423. Establishment of pierhead and bulkhead lines in Wilmington Harbor, California
+### § 423. Establishment of pierhead and bulkhead lines in Wilmington Harbor, California
 
 The Secretary of the Army is authorized to fix and establish pierhead and bulkhead lines, either or both, in the inner harbor of San Pedro, otherwise known as Wilmington Harbor, California, beyond which no piers, wharves, bulkheads, or other works shall be extended or deposits made except under such regulations as shall be prescribed from time to time by the Secretary of the Army.
 
-(Mar. 26, 1908, No. 14, 35 Stat. 569; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Mar. 26, 1908, No. 14, 35 Stat. 569; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -945,13 +945,13 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Transfer of Functions**
 
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
-### § 424. Establishment of pierhead or bulkhead lines in Newport Harbor, California
+### § 424. Establishment of pierhead or bulkhead lines in Newport Harbor, California
 
 The Secretary of the Army is authorized and directed to fix and establish pierhead and bulkhead lines, either or both, at Newport Harbor, California, in accordance with plan dated United States Engineer Office, Los Angeles, California, March 25, 1913, and entitled “Newport Bay, California”, showing harbor lines, beyond which no piers, wharfs, bulkheads, or other works shall be extended or deposit made, except under such regulations as shall be prescribed from time to time by the Secretary of the Army.
 
-(July 27, 1916, ch. 260, § 3, 39 Stat. 411; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(July 27, 1916, ch. 260, § 3, 39 Stat. 411; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -967,13 +967,13 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Transfer of Functions**
 
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
-### § 424a. Modification of harbor lines in Newport Harbor, California
+### § 424a. Modification of harbor lines in Newport Harbor, California
 
 The Secretary of the Army is authorized to modify from time to time, the harbor lines at Newport Harbor, California, established in pursuance of section 424 of this title: *Provided*, That in his opinion such modification will not injuriously affect the interests of navigation.
 
-(Mar. 3, 1925, ch. 467, § 10, 43 Stat. 1197; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Mar. 3, 1925, ch. 467, § 10, 43 Stat. 1197; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -983,31 +983,31 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Transfer of Functions**
 
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
-### § 425. Omitted
+### § 425. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act June 7, 1924, ch. 316, § 9, 43 Stat. 606, directed Secretary of War to investigate depositing of polluting substances into navigable streams and report the results to Congress not later than two years from June 7, 1924. Subsequent to editorial omission of this section as obsolete, Pub. L. 89–753, title II, § 211(a), Nov. 3, 1966, 80 Stat. 1252–1254, amended act June 7, 1924, generally, after which such Act consisted only of sections 1 to 7, resulting in the statutory omission of section 9.
+Section, act June 7, 1924, ch. 316, § 9, 43 Stat. 606, directed Secretary of War to investigate depositing of polluting substances into navigable streams and report the results to Congress not later than two years from June 7, 1924. Subsequent to editorial omission of this section as obsolete, Pub. L. 89–753, title II, § 211(a), Nov. 3, 1966, 80 Stat. 1252–1254, amended act June 7, 1924, generally, after which such Act consisted only of sections 1 to 7, resulting in the statutory omission of section 9.
 
-### § 426. Investigations concerning erosion of shores of coastal and lake waters
+### § 426. Investigations concerning erosion of shores of coastal and lake waters
 
 The Chief of Engineers of the United States Army, under the direction of the Secretary of the Army, is authorized and directed to cause investigations and studies to be made in cooperation with the appropriate agencies of the various States on the Atlantic, Pacific, and gulf coasts and on the Great Lakes, and of the States of Alaska and Hawaii, the Commonwealth of Puerto Rico, and the possessions of the United States, with a view to devising effective means of preventing erosion of the shores of coastal and lake waters by waves and currents; and any expenses incident and necessary thereto may be paid from funds appropriated for General Investigations, Civil Functions, Department of the Army: *Provided*, That the Department of the Army may release to the appropriate cooperating agencies information obtained by these investigations and studies prior to the formal transmission of reports to Congress: *Provided further*, That no money shall be expended under authority of this section in any State which does not provide for cooperation with the agents of the United States and contribute to the project such funds or services as the Secretary of the Army may deem appropriate and require; that there shall be organized under the Chief of Engineers, United States Army, a Board of seven members, of whom four shall be officers of the Corps of Engineers and three shall be civilian engineers selected by the Chief of Engineers with regard to their special fitness in the field of beach erosion and shore protection. The Board will furnish such technical assistance as may be directed by the Chief of Engineers in the conduct of such studies as may be undertaken and will review the reports of the investigations made. In the consideration of such studies as may be referred to the Board by the Chief of Engineers, the Board shall, when it considers it necessary and with the sanction of the Chief of Engineers, make, as a board or through its members, personal examination of localities under investigation: *Provided further*, That the civilian members of the Board may be paid at rates not to exceed $100 a day for each day of attendance at Board meetings, not to exceed thirty days per annum, in addition to the traveling and other necessary expenses connected with their duties on the Board in accordance with the provisions of section 5703 of title 5.
 
-(July 3, 1930, ch. 847, § 2, 46 Stat. 945; Pub. L. 86–645, title I, § 103, July 14, 1960, 74 Stat. 484.)
+(July 3, 1930, ch. 847, § 2, 46 Stat. 945; Pub. L. 86–645, title I, § 103, July 14, 1960, 74 Stat. 484.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Board, referred to in text, means the Beach Erosion Board, which was abolished by Pub. L. 88–172, § 1, Nov. 7, 1963, 77 Stat. 304. See note set out below.
+The Board, referred to in text, means the Beach Erosion Board, which was abolished by Pub. L. 88–172, § 1, Nov. 7, 1963, 77 Stat. 304. See note set out below.
 
 **Codification**
 
-“Section 5703 of title 5” substituted in text for “section 5 of the Administrative Expenses Act of 1946, as amended (5 U.S.C. 73b–2)”, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+“Section 5703 of title 5” substituted in text for “section 5 of the Administrative Expenses Act of 1946, as amended (5 U.S.C. 73b–2)”, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 **Amendments**
 
@@ -1017,25 +1017,25 @@ The Board, referred to in text, means the Beach Erosion Board, which was abolish
 
 **Abolition of Beach Erosion Board**
 
-Pub. L. 88–172, § 1, Nov. 7, 1963, 77 Stat. 304, provided in part: “That the Board established by section 2 of the River and Harbor Act approved July 3, 1930, as amended (33 U.S.C. 426), referred to as the Beach Erosion Board, is hereby abolished.” For the transfer of functions of the Beach Erosion Board to the Coastal Engineering Research Center and the Board of Engineers for Rivers and Harbors, see sections 426–1 and 426–3 of this title. For termination of Board of Engineers for Rivers and Harbors 180 days after Oct. 31, 1992, and reassignment of duties and responsibilities by Secretary of Army, see section 223 of Pub. L. 102–580, set out as a note under section 541 of this title.
+Pub. L. 88–172, § 1, Nov. 7, 1963, 77 Stat. 304, provided in part: “That the Board established by section 2 of the River and Harbor Act approved July 3, 1930, as amended (33 U.S.C. 426), referred to as the Beach Erosion Board, is hereby abolished.” For the transfer of functions of the Beach Erosion Board to the Coastal Engineering Research Center and the Board of Engineers for Rivers and Harbors, see sections 426–1 and 426–3 of this title. For termination of Board of Engineers for Rivers and Harbors 180 days after Oct. 31, 1992, and reassignment of duties and responsibilities by Secretary of Army, see section 223 of Pub. L. 102–580, set out as a note under section 541 of this title.
 
 **Great Lakes Levels Study**
 
-Pub. L. 99–662, title VII, § 706, Nov. 17, 1986, 100 Stat. 4158, authorized Secretary of the Army, in cooperation with National Oceanic and Atmospheric Administration, Federal Emergency Management Agency, International Joint Commission, and other appropriate Federal, State, and local agencies and the private sector, to conduct a study of shoreline protection and beach erosion control policy and related projects of the Secretary, in view of the current situation and long-term expected increases in levels of the Great Lakes and directed Secretary, within three years after Nov. 17, 1986, to transmit the study, together with supporting documentation and recommendations to Congress.
+Pub. L. 99–662, title VII, § 706, Nov. 17, 1986, 100 Stat. 4158, authorized Secretary of the Army, in cooperation with National Oceanic and Atmospheric Administration, Federal Emergency Management Agency, International Joint Commission, and other appropriate Federal, State, and local agencies and the private sector, to conduct a study of shoreline protection and beach erosion control policy and related projects of the Secretary, in view of the current situation and long-term expected increases in levels of the Great Lakes and directed Secretary, within three years after Nov. 17, 1986, to transmit the study, together with supporting documentation and recommendations to Congress.
 
 **Study of Rising Oceans**
 
-Pub. L. 99–662, title VII, § 731, Nov. 17, 1986, 100 Stat. 4165, authorized Secretary of the Army, in cooperation with National Oceanic and Atmospheric Administration, Federal Emergency Management Agency, and other appropriate Federal, State, and local agencies and the private sector, to conduct a study of shoreline protection and beach erosion control policy and related projects of the Secretary, in view of the prospect for long-term increases in levels of the ocean and directed Secretary, within three years after Nov. 17, 1986, to transmit the study, together with supporting documentation and recommendations to Congress.
+Pub. L. 99–662, title VII, § 731, Nov. 17, 1986, 100 Stat. 4165, authorized Secretary of the Army, in cooperation with National Oceanic and Atmospheric Administration, Federal Emergency Management Agency, and other appropriate Federal, State, and local agencies and the private sector, to conduct a study of shoreline protection and beach erosion control policy and related projects of the Secretary, in view of the prospect for long-term increases in levels of the ocean and directed Secretary, within three years after Nov. 17, 1986, to transmit the study, together with supporting documentation and recommendations to Congress.
 
 **Application of Existing Law to Surveys Relating to Shore Protection**
 
-Pub. L. 87–874, § 103(b), Oct. 23, 1962, 76 Stat. 1179, provided that: “All provisions of existing law relating to surveys of rivers and harbors shall apply to surveys relating to shore protection and section 2 of the River and Harbor Act approved July 3, 1930, as amended (33 U.S.C. 426), is modified to the extent inconsistent herewith.”
+Pub. L. 87–874, § 103(b), Oct. 23, 1962, 76 Stat. 1179, provided that: “All provisions of existing law relating to surveys of rivers and harbors shall apply to surveys relating to shore protection and section 2 of the River and Harbor Act approved July 3, 1930, as amended (33 U.S.C. 426), is modified to the extent inconsistent herewith.”
 
-### § 426–1. Coastal Engineering Research Center; establishment; powers and functions
+### § 426–1. Coastal Engineering Research Center; establishment; powers and functions
 
 There shall be established under the Chief of Engineers, United States Army, a Coastal Engineering Research Center which, except as hereinafter provided in section 426–3 of this title, shall be vested with all the functions of the Beach Erosion Board, including the authority to make general investigations as provided in section 426a of this title, and such additional functions as the Chief of Engineers may assign.
 
-(Pub. L. 88–172, § 1, Nov. 7, 1963, 77 Stat. 304.)
+(Pub. L. 88–172, § 1, Nov. 7, 1963, 77 Stat. 304.)
 
 **Editorial Notes**
 
@@ -1049,29 +1049,29 @@ Section was enacted as part of section 1 of Pub. L. 88–172. The remainder of s
 
 Section 1 of Pub. L. 88–172 abolished Beach Erosion Board, and is set out as a note under section 426 of this title. For the transfer of certain functions of said Board to Board of Engineers for Rivers and Harbors, see section 426–3 of this title. For termination of Board of Engineers for Rivers and Harbors 180 days after Oct. 31, 1992, and reassignment of duties and responsibilities by Secretary of Army, see section 223 of Pub. L. 102–580, set out as a note under section 541 of this title.
 
-### § 426–2. Board on Coastal Engineering Research
+### § 426–2. Board on Coastal Engineering Research
 
 The functions of the Coastal Engineering Research Center established by section 426–1 of this title, shall be conducted with the guidance and advice of a Board on Coastal Engineering Research, constituted by the Chief of Engineers in the same manner as the present Beach Erosion Board.
 
-(Pub. L. 88–172, § 2, Nov. 7, 1963, 77 Stat. 305.)
+(Pub. L. 88–172, § 2, Nov. 7, 1963, 77 Stat. 305.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Compensation of Board**
 
-Pub. L. 91–611, title I, § 105, Dec. 31, 1970, 84 Stat. 1819, provided that: “The civilian members of the Board on Coastal Engineering Research authorized by the Act of November 7, 1963 (33 U.S.C. 426–2) may be paid at rates not to exceed the daily equivalent of the rate for GS–18 for each day of attendance at Board meetings, not to exceed thirty days per year, in addition to the traveling and other necessary expenses connected with their duties on the Board in accordance with the provisions of 5 U.S.C. 5703(b), (d), and 5707.”
+Pub. L. 91–611, title I, § 105, Dec. 31, 1970, 84 Stat. 1819, provided that: “The civilian members of the Board on Coastal Engineering Research authorized by the Act of November 7, 1963 (33 U.S.C. 426–2) may be paid at rates not to exceed the daily equivalent of the rate for GS–18 for each day of attendance at Board meetings, not to exceed thirty days per year, in addition to the traveling and other necessary expenses connected with their duties on the Board in accordance with the provisions of 5 U.S.C. 5703(b), (d), and 5707.”
 
-[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.]
+[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.]
 
 **Abolition of Beach Erosion Board**
 
 Section 1 of Pub. L. 88–172 abolished Beach Erosion Board, and is set out as a note under section 426 of this title. For transfer of functions of Board to Coastal Engineering Research Center and Board of Engineers for Rivers and Harbors, see sections 426–1 and 426–3 of this title. For termination of Board of Engineers for Rivers and Harbors 180 days after Oct. 31, 1992, and reassignment of duties and responsibilities by Secretary of Army, see section 223 of Pub. L. 102–580, set out as a note under section 541 of this title.
 
-### § 426–3. Transfer of functions of Beach Erosion Board
+### § 426–3. Transfer of functions of Beach Erosion Board
 
 All functions of the Beach Erosion Board pertaining to review of reports of investigations made concerning erosion of the shores of coastal and lake waters, and the protection of such shores, are hereby transferred to the Board established by section 541 of this title, referred to as the Board of Engineers for Rivers and Harbors.
 
-(Pub. L. 88–172, § 3, Nov. 7, 1963, 77 Stat. 305.)
+(Pub. L. 88–172, § 3, Nov. 7, 1963, 77 Stat. 305.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1083,29 +1083,29 @@ For termination of Board of Engineers for Rivers and Harbors 180 days after Oct.
 
 Section 1 of Pub. L. 88–172 abolished Beach Erosion Board, and is set out as a note under section 426 of this title. For transfer of certain functions of Board to Coastal Engineering Research Center, see section 426–1 of this title.
 
-### § 426a. Additional investigations concerning erosion of shores of coastal and lake waters; payment of costs; “shores” defined
+### § 426a. Additional investigations concerning erosion of shores of coastal and lake waters; payment of costs; “shores” defined
 
 In addition to participating in cooperative investigations and studies with agencies of the various States as authorized in section 426 of this title, it shall be the duty of the Chief of Engineers, through the Coastal Engineering Research Center, to make general investigations with a view to preventing erosion of the shores of the United States by waves and currents and determining the most suitable methods for the protection, restoration, and development of beaches; and to publish from time to time such useful data and information concerning the erosion and protection of beaches and shore lines as the Center may deem to be of value to the people of the United States. The cost of the general investigations authorized by sections 426a to 426d of this title shall be borne wholly by the United States. As used in said sections, the word “shores” includes the shore lines of the Atlantic and Pacific Oceans, the Gulf of Mexico, the Great Lakes, Lake Champlain, and estuaries and bays directly connected therewith.
 
-(July 31, 1945, ch. 334, § 1, 59 Stat. 508; Pub. L. 88–172, § 1, Nov. 7, 1963, 77 Stat. 304.)
+(July 31, 1945, ch. 334, § 1, 59 Stat. 508; Pub. L. 88–172, § 1, Nov. 7, 1963, 77 Stat. 304.)
 
 **Editorial Notes**
 
 **Codification**
 
-Coastal Engineering Research Center has been substituted for Beach Erosion Board pursuant to Pub. L. 88–172, § 1, providing in part for the abolition of the Beach Erosion Board, which is set out as a note under section 426 of this title. For transfer of investigatory functions of the Beach Erosion Board to the Coastal Engineering Research Center, see section 426–1 of this title.
+Coastal Engineering Research Center has been substituted for Beach Erosion Board pursuant to Pub. L. 88–172, § 1, providing in part for the abolition of the Beach Erosion Board, which is set out as a note under section 426 of this title. For transfer of investigatory functions of the Beach Erosion Board to the Coastal Engineering Research Center, see section 426–1 of this title.
 
-### § 426b. Applicability of existing laws; projects referred to Board of Engineers for Rivers and Harbors
+### § 426b. Applicability of existing laws; projects referred to Board of Engineers for Rivers and Harbors
 
 All provisions of existing law relating to examinations and surveys and to works of improvement of rivers and harbors shall apply, insofar as practicable, to examinations and surveys and to works of improvement relating to shore protection; except that all projects having to do with shore protection shall be referred for consideration and recommendation to the Board of Engineers for Rivers and Harbors.
 
-(July 31, 1945, ch. 334, § 2, 59 Stat. 508; Pub. L. 88–172, § 1, Nov. 7, 1963, 77 Stat. 304.)
+(July 31, 1945, ch. 334, § 2, 59 Stat. 508; Pub. L. 88–172, § 1, Nov. 7, 1963, 77 Stat. 304.)
 
 **Editorial Notes**
 
 **Codification**
 
-Provision for the referral of projects having to do with shore protection for consideration and recommendation to the Beach Erosion Board have been omitted as obsolete in view of the abolition of the Beach Erosion Board and the transfer of its review function to the Board of Engineers for Rivers and Harbors by Pub. L. 88–172, § 1. See section 426–3 of this title.
+Provision for the referral of projects having to do with shore protection for consideration and recommendation to the Beach Erosion Board have been omitted as obsolete in view of the abolition of the Beach Erosion Board and the transfer of its review function to the Board of Engineers for Rivers and Harbors by Pub. L. 88–172, § 1. See section 426–3 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1113,25 +1113,25 @@ Provision for the referral of projects having to do with shore protection for co
 
 For termination of Board of Engineers for Rivers and Harbors 180 days after Oct. 31, 1992, and reassignment of duties and responsibilities by Secretary of Army, see section 223 of Pub. L. 102–580, set out as a note under section 541 of this title.
 
-### § 426c. Report by Coastal Engineering Research Center
+### § 426c. Report by Coastal Engineering Research Center
 
 The Coastal Engineering Research Center, in making its report on any cooperative investigation and studies under the provisions of section 426 of this title, relating to shore protection work shall, in addition to any other matters upon which it may be required to report, state its opinion as to (a) the advisability of adopting the project; (b) what public interest, if any, is involved in the proposed improvement; and (c) what share of the expense, if any, should be borne by the United States.
 
-(July 31, 1945, ch. 334, § 3, 59 Stat. 508; Pub. L. 88–172, § 1, Nov. 7, 1963, 77 Stat. 304.)
+(July 31, 1945, ch. 334, § 3, 59 Stat. 508; Pub. L. 88–172, § 1, Nov. 7, 1963, 77 Stat. 304.)
 
 **Editorial Notes**
 
 **Codification**
 
-Coastal Engineering Research Center has been substituted for Beach Erosion Board pursuant to Pub. L. 88–172, § 1, providing in part for the abolition of the Beach Erosion Board, which is set out as a note under section 426 of this title. For transfer of investigatory functions of the Beach Erosion Board to the Coastal Engineering Research Center see section 426–1 of this title.
+Coastal Engineering Research Center has been substituted for Beach Erosion Board pursuant to Pub. L. 88–172, § 1, providing in part for the abolition of the Beach Erosion Board, which is set out as a note under section 426 of this title. For transfer of investigatory functions of the Beach Erosion Board to the Coastal Engineering Research Center see section 426–1 of this title.
 
-### § 426d. Payment of expenses
+### § 426d. Payment of expenses
 
 Any expenses incident and necessary in the undertaking of the general investigations authorized by sections 426a to 426d of this title may be paid from funds appropriated prior to or after July 31, 1945, for examinations, surveys, and contingencies for rivers and harbors.
 
-(July 31, 1945, ch. 334, § 4, 59 Stat. 508.)
+(July 31, 1945, ch. 334, § 4, 59 Stat. 508.)
 
-### § 426e. Federal aid in protection of shores
+### § 426e. Federal aid in protection of shores
 
 **(a) Declaration of policy**
 
@@ -1139,9 +1139,9 @@ With the purpose of preventing damage to the shores and beaches of the United St
 
 **(b) Federal contribution; maximum amount; exceptions**
 
-The Federal contribution in the case of any project referred to in subsection (a) shall not exceed one-half of the cost of the project, and the remainder shall be paid by the State, municipality, or other political subdivision in which the project is located, except that (1) the costs allocated to the restoration and protection of Federal property shall be borne fully by the Federal Government, (2) Federal participation in the cost of a project for restoration and protection of State, county, and other publicly owned shore parks and conservation areas may be, in the discretion of the Chief of Engineers, not more than 70 per centum of the total cost exclusive of land costs, when such areas: Include a zone which excludes permanent human habitation; include but are not limited to recreational beaches; satisfy adequate criteria for conservation and development of the natural resources of the environment; extend landward a sufficient distance to include, where appropriate, protective dunes, bluffs, or other natural features which serve to protect the uplands from damage; and provide essentially full park facilities for appropriate public use, all of which shall meet with the approval of the Chief of Engineers, and (3) Federal participation in the cost of a project providing hurricane protection may be, in the discretion of the Secretary 1
+The Federal contribution in the case of any project referred to in subsection (a) shall not exceed one-half of the cost of the project, and the remainder shall be paid by the State, municipality, or other political subdivision in which the project is located, except that (1) the costs allocated to the restoration and protection of Federal property shall be borne fully by the Federal Government, (2) Federal participation in the cost of a project for restoration and protection of State, county, and other publicly owned shore parks and conservation areas may be, in the discretion of the Chief of Engineers, not more than 70 per centum of the total cost exclusive of land costs, when such areas: Include a zone which excludes permanent human habitation; include but are not limited to recreational beaches; satisfy adequate criteria for conservation and development of the natural resources of the environment; extend landward a sufficient distance to include, where appropriate, protective dunes, bluffs, or other natural features which serve to protect the uplands from damage; and provide essentially full park facilities for appropriate public use, all of which shall meet with the approval of the Chief of Engineers, and (3) Federal participation in the cost of a project providing hurricane protection may be, in the discretion of the Secretary 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 not more than 70 per centum of the total cost exclusive of land costs.
 
@@ -1157,9 +1157,9 @@ Shores other than public will be eligible for Federal assistance if there is ben
 
 **(1) In general**
 
-No Federal contributions shall be made with respect to a project under sections 426e to 426h–1 of this title unless the plan therefor shall have been specifically adopted and authorized by Congress after investigation and study by the Coastal Engineering Research Center under the provisions of section 426 of this title as amended and supplemented, or, in the case of a small project under section 426g or 426h 2
+No Federal contributions shall be made with respect to a project under sections 426e to 426h–1 of this title unless the plan therefor shall have been specifically adopted and authorized by Congress after investigation and study by the Coastal Engineering Research Center under the provisions of section 426 of this title as amended and supplemented, or, in the case of a small project under section 426g or 426h 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title, unless the plan therefor has been approved by the Chief of Engineers.
 
@@ -1211,31 +1211,31 @@ After authorization by Congress, and before commencement of construction, of a s
 
 In constructing a shore protection project or separable element under this paragraph, the Secretary shall, to the extent practicable, coordinate the project or element with any complementary project identified under paragraph (2)(C).
 
-(Aug. 13, 1946, ch. 960, § 1, 60 Stat. 1056; July 28, 1956, ch. 768, 70 Stat. 702; Pub. L. 87–874, title I, § 103(a)(1)–(3), Oct. 23, 1962, 76 Stat. 1178; Pub. L. 88–172, § 1, Nov. 7, 1963, 77 Stat. 304; Pub. L. 91–611, title II, § 208, Dec. 31, 1970, 84 Stat. 1829; Pub. L. 104–303, title II, § 227(a), (b), (e)(2)(A), (B), Oct. 12, 1996, 110 Stat. 3698, 3703.)
+(Aug. 13, 1946, ch. 960, § 1, 60 Stat. 1056; July 28, 1956, ch. 768, 70 Stat. 702; Pub. L. 87–874, title I, § 103(a)(1)–(3), Oct. 23, 1962, 76 Stat. 1178; Pub. L. 88–172, § 1, Nov. 7, 1963, 77 Stat. 304; Pub. L. 91–611, title II, § 208, Dec. 31, 1970, 84 Stat. 1829; Pub. L. 104–303, title II, § 227(a), (b), (e)(2)(A), (B), Oct. 12, 1996, 110 Stat. 3698, 3703.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 426h of this title, referred to in subsec. (e)(1), was repealed by Pub. L. 110–114, title II, § 2038(b), Nov. 8, 2007, 121 Stat. 1100.
+Section 426h of this title, referred to in subsec. (e)(1), was repealed by Pub. L. 110–114, title II, § 2038(b), Nov. 8, 2007, 121 Stat. 1100.
 
 **Codification**
 
-Coastal Engineering Research Center, referred to in subsec. (e), has been substituted for Beach Erosion Board pursuant to Pub. L. 88–172, § 1, providing in part for the abolition of the Beach Erosion Board and for transfer of functions of the Beach Erosion Board to the Coastal Engineering Research Center. See section 426–1 of this title.
+Coastal Engineering Research Center, referred to in subsec. (e), has been substituted for Beach Erosion Board pursuant to Pub. L. 88–172, § 1, providing in part for the abolition of the Beach Erosion Board and for transfer of functions of the Beach Erosion Board to the Coastal Engineering Research Center. See section 426–1 of this title.
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–303, § 227(a), inserted “and beaches” after “damage to the shores” and substituted “sections 426e to 426h–1 of this title, to promote shore protection projects and related research that encourage the protection, restoration, and enhancement of sandy beaches, including beach restoration and periodic beach nourishment, on a comprehensive and coordinated basis by the Federal Government, States, localities, and private enterprises. In carrying out this policy, preference shall be given to areas in which there has been a Federal investment of funds and areas with respect to which the need for prevention or mitigation of damage to shores and beaches is attributable to Federal navigation projects or other Federal activities.” for “the following provisions of sections 426e to 426h of this title to assist in the construction, but not the maintenance, of works for the restoration and protection against erosion, by waves and currents, of the shores of the United States, its Territories and possessions.”
+1996—Subsec. (a). Pub. L. 104–303, § 227(a), inserted “and beaches” after “damage to the shores” and substituted “sections 426e to 426h–1 of this title, to promote shore protection projects and related research that encourage the protection, restoration, and enhancement of sandy beaches, including beach restoration and periodic beach nourishment, on a comprehensive and coordinated basis by the Federal Government, States, localities, and private enterprises. In carrying out this policy, preference shall be given to areas in which there has been a Federal investment of funds and areas with respect to which the need for prevention or mitigation of damage to shores and beaches is attributable to Federal navigation projects or other Federal activities.” for “the following provisions of sections 426e to 426h of this title to assist in the construction, but not the maintenance, of works for the restoration and protection against erosion, by waves and currents, of the shores of the United States, its Territories and possessions.”
 
-Subsec. (b)(3). Pub. L. 104–303, § 227(e)(2), substituted “Secretary” for “Secretary of the Army, acting through the Chief of Engineers,” and struck out second period at end.
+Subsec. (b)(3). Pub. L. 104–303, § 227(e)(2), substituted “Secretary” for “Secretary of the Army, acting through the Chief of Engineers,” and struck out second period at end.
 
-Subsec. (e). Pub. L. 104–303, § 227(b), (e)(2)(B), inserted subsec. heading, designated existing provisions as par. (1) and inserted heading, realigned margin, inserted “or 426h” after “under section 426g”, and added pars. (2) and (3).
+Subsec. (e). Pub. L. 104–303, § 227(b), (e)(2)(B), inserted subsec. heading, designated existing provisions as par. (1) and inserted heading, realigned margin, inserted “or 426h” after “under section 426g”, and added pars. (2) and (3).
 
 1970—Subsec. (b). Pub. L. 91–611 provided for designation of existing provisions as cls. (1) and (2) by insertion of “(1)” after “except that” and substitution of “(2)” for “and, further, that” and added cl. (3).
 
-1962—Subsec. (b). Pub. L. 87–874, § 103(a)(1), (2), increased maximum limit on amount of Federal contributions from one-third to one-half of project cost, provided that costs for restoration and protection of Federal property shall be borne fully by the Federal Government, and that costs for restoration and protection of State, county and other publicly owned shore parks and conservation areas may be borne by Federal Government up to not more than 70 per centum, exclusive of land costs, when such areas include a zone which excludes permanent human habitation, include recreational beaches, satisfy criteria for conservation and development of natural resources, extend landward enough to include natural features to protect uplands, and provide essentially full park facilities for public use, all of which meet with approval of Chief of Engineers.
+1962—Subsec. (b). Pub. L. 87–874, § 103(a)(1), (2), increased maximum limit on amount of Federal contributions from one-third to one-half of project cost, provided that costs for restoration and protection of Federal property shall be borne fully by the Federal Government, and that costs for restoration and protection of State, county and other publicly owned shore parks and conservation areas may be borne by Federal Government up to not more than 70 per centum, exclusive of land costs, when such areas include a zone which excludes permanent human habitation, include recreational beaches, satisfy criteria for conservation and development of natural resources, extend landward enough to include natural features to protect uplands, and provide essentially full park facilities for public use, all of which meet with approval of Chief of Engineers.
 
-Subsec. (e). Pub. L. 87–874, § 103(a)(3), required approval of plans by Chief of Engineers in case of a small project under section 426g of this title.
+Subsec. (e). Pub. L. 87–874, § 103(a)(3), required approval of plans by Chief of Engineers in case of a small project under section 426g of this title.
 
 1956—Act July 28, 1956, extended assistance to privately owned shores, to include shores of Territories and possessions, substituted “restoration” for “improvement”, defined “construction”, and struck out provisions which authorized Federal aid toward the repair and protection of seawalls constructed by political subdivisions to protect important public highways.
 
@@ -1243,21 +1243,21 @@ Subsec. (e). Pub. L. 87–874, § 103(a)(3), required approval of plans by Chi
 
 **Beach Recreation**
 
-Pub. L. 106–541, title II, § 220, Dec. 11, 2000, 114 Stat. 2596, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 11, 2000], the Secretary shall develop and implement procedures to ensure that all of the benefits of a beach restoration project, including those benefits attributable to recreation, hurricane and storm damage reduction, and environmental protection and restoration, are displayed in reports for such projects.”
+Pub. L. 106–541, title II, § 220, Dec. 11, 2000, 114 Stat. 2596, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 11, 2000], the Secretary shall develop and implement procedures to ensure that all of the benefits of a beach restoration project, including those benefits attributable to recreation, hurricane and storm damage reduction, and environmental protection and restoration, are displayed in reports for such projects.”
 
 **Shore Management Program**
 
-Pub. L. 106–53, title II, § 213, Aug. 17, 1999, 113 Stat. 291, required the Secretary to review the implementation of the Corps of Engineers shore management program, with particular attention to inconsistencies in implementation among the divisions and districts of the Corps of Engineers and complaints by or potential inequities regarding property owners in the Savannah District during the 5-year period preceding Aug. 17, 1999, and directed the Secretary to submit to Congress a report of the review by Aug. 17, 1999.
+Pub. L. 106–53, title II, § 213, Aug. 17, 1999, 113 Stat. 291, required the Secretary to review the implementation of the Corps of Engineers shore management program, with particular attention to inconsistencies in implementation among the divisions and districts of the Corps of Engineers and complaints by or potential inequities regarding property owners in the Savannah District during the 5-year period preceding Aug. 17, 1999, and directed the Secretary to submit to Congress a report of the review by Aug. 17, 1999.
 
 **Report on Shores of the United States**
 
-Pub. L. 106–53, title II, § 215(c), Aug. 17, 1999, 113 Stat. 293, required the Secretary to report to Congress, not later than 3 years after Aug. 17, 1999, on the state of the shores of the United States and specified the contents of such report and the use of specific location data.
+Pub. L. 106–53, title II, § 215(c), Aug. 17, 1999, 113 Stat. 293, required the Secretary to report to Congress, not later than 3 years after Aug. 17, 1999, on the state of the shores of the United States and specified the contents of such report and the use of specific location data.
 
 **Report to Congress on Shoreline Protection Programs**
 
-Pub. L. 101–640, title III, § 309, Nov. 28, 1990, 104 Stat. 4638, provided that not later than 1 year after Nov. 28, 1990, the Secretary was to transmit to Congress a report on the advisability of not participating in the planning, implementation, or maintenance of any beach stabilization or renourishment project involving Federal funds unless the State in which the proposed project would be located had established or committed to establish a beach front management program, which included specified restrictions and other regulatory provisions.
+Pub. L. 101–640, title III, § 309, Nov. 28, 1990, 104 Stat. 4638, provided that not later than 1 year after Nov. 28, 1990, the Secretary was to transmit to Congress a report on the advisability of not participating in the planning, implementation, or maintenance of any beach stabilization or renourishment project involving Federal funds unless the State in which the proposed project would be located had established or committed to establish a beach front management program, which included specified restrictions and other regulatory provisions.
 
-### § 426e–1. Shore protection projects
+### § 426e–1. Shore protection projects
 
 **(a) In general**
 
@@ -1273,7 +1273,7 @@ In accordance with the Act of July 3, 1930 (33 U.S.C. 426) of this title, and no
 
 The Secretary shall apply the policy under subsection (a) to each shore protection and beach renourishment project (including shore protection and beach renourishment projects constructed before November 8, 2007).
 
-(Pub. L. 110–114, title II, § 2018, Nov. 8, 2007, 121 Stat. 1077.)
+(Pub. L. 110–114, title II, § 2018, Nov. 8, 2007, 121 Stat. 1077.)
 
 **Editorial Notes**
 
@@ -1287,7 +1287,7 @@ The Act of July 3, 1930, referred to in subsec. (a), is act July 3, 1930, ch. 84
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 
-### § 426e–2. Clarification of munition disposal authorities
+### § 426e–2. Clarification of munition disposal authorities
 
 **(a) In general** The Secretary may, at full Federal expense, implement any response action the Secretary determines to be necessary at a site where—
 
@@ -1299,15 +1299,15 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 
 A response action described in subsection (a) shall be reimbursed from amounts made available to the agency within the Department of Defense responsible for the original release of the munitions.
 
-(Pub. L. 113–121, title I, § 1027, June 10, 2014, 128 Stat. 1230; Pub. L. 114–322, title I, § 1154, Dec. 16, 2016, 130 Stat. 1663.)
+(Pub. L. 113–121, title I, § 1027, June 10, 2014, 128 Stat. 1230; Pub. L. 114–322, title I, § 1154, Dec. 16, 2016, 130 Stat. 1663.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Subsec. (a). Pub. L. 114–322, § 1154(1), inserted “, at full Federal expense,” after “The Secretary may” in introductory provisions.
+2016—Subsec. (a). Pub. L. 114–322, § 1154(1), inserted “, at full Federal expense,” after “The Secretary may” in introductory provisions.
 
-Subsec. (b). Pub. L. 114–322, § 1154(2), substituted “reimbursed” for “funded”.
+Subsec. (b). Pub. L. 114–322, § 1154(2), substituted “reimbursed” for “funded”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1315,11 +1315,11 @@ Subsec. (b). Pub. L. 114–322, § 1154(2), substituted “reimbursed” for �
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 426e–3. Coastal storm damage reduction contracts
+### § 426e–3. Coastal storm damage reduction contracts
 
 For any project for coastal storm damage reduction, the Secretary may seek input from a non-Federal interest for a project that may be affected by the timing of the coastal storm damage reduction activities under the project, in order to minimize, to the maximum extent practicable, any negative effects resulting from the timing of those activities.
 
-(Pub. L. 116–260, div. AA, title I, § 140, Dec. 27, 2020, 134 Stat. 2652.)
+(Pub. L. 116–260, div. AA, title I, § 140, Dec. 27, 2020, 134 Stat. 2652.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1327,7 +1327,7 @@ For any project for coastal storm damage reduction, the Secretary may seek input
 
 Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under section 2201 of this title.
 
-### § 426f. Reimbursements
+### § 426f. Reimbursements
 
 **(a) In general**
 
@@ -1345,7 +1345,7 @@ After authorization of reimbursement by the Secretary under this section, and be
 
 **(B)** ensure that the Federal Government and the non-Federal interest will cooperate in carrying out the project or separable element.
 
-(Aug. 13, 1946, ch. 960, § 2, 60 Stat. 1056; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; July 28, 1956, ch. 768, 70 Stat. 703; Pub. L. 87–874, title I, § 103(a)(4), Oct. 23, 1962, 76 Stat. 1178; Pub. L. 104–303, title II, § 227(c)(1), Oct. 12, 1996, 110 Stat. 3699.)
+(Aug. 13, 1946, ch. 960, § 2, 60 Stat. 1056; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; July 28, 1956, ch. 768, 70 Stat. 703; Pub. L. 87–874, title I, § 103(a)(4), Oct. 23, 1962, 76 Stat. 1178; Pub. L. 104–303, title II, § 227(c)(1), Oct. 12, 1996, 110 Stat. 3699.)
 
 **Editorial Notes**
 
@@ -1365,9 +1365,9 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Transfer of Functions**
 
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
-### § 426g. Storm and hurricane restoration and impact minimization program
+### § 426g. Storm and hurricane restoration and impact minimization program
 
 **(a) Construction of small shore and beach restoration and protection projects**
 
@@ -1403,9 +1403,9 @@ The Secretary shall conduct under the program authorized by subsection (a) a nat
 
 **(ii)** monitoring of the applicable prototypes;
 
-**(iii)** detailed engineering and environmental reports on the results of each project carried out under the demonstraton 1
+**(iii)** detailed engineering and environmental reports on the results of each project carried out under the demonstraton 1
 
-<sup>1</sup>  So in original. Probably should be “demonstration”.
+<sup>1</sup> So in original. Probably should be “demonstration”.
 
 program; and
 
@@ -1433,7 +1433,7 @@ A project under the demonstration program shall not be carried out until the Sec
 
 **(viii)** recommendations developed from evaluations of the program established under the Shoreline Erosion Control Demonstration Act of 1974 (42 U.S.C. 1962–5 note),2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 including—
 
@@ -1511,19 +1511,19 @@ Subject to paragraph (2), the Secretary may expend, from any appropriations made
 
 **(B)** be not more than $15,000,000.
 
-(Aug. 13, 1946, ch. 960, § 3, 60 Stat. 1056; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; July 28, 1956, ch. 768, 70 Stat. 703; Pub. L. 87–874, title I, § 103(a)(4), Oct. 23, 1962, 76 Stat. 1178; Pub. L. 89–298, title III, § 310(b), Oct. 27, 1965, 79 Stat. 1095; Pub. L. 91–611, title I, § 112(b), Dec. 31, 1970, 84 Stat. 1821; Pub. L. 99–662, title IX, § 915(e), Nov. 17, 1986, 100 Stat. 4191; Pub. L. 104–303, title II, § 227(e)(2)(C), Oct. 12, 1996, 110 Stat. 3703; Pub. L. 106–53, title II, § 226, Aug. 17, 1999, 113 Stat. 298; Pub. L. 110–114, title II, § 2038(a), Nov. 8, 2007, 121 Stat. 1097; Pub. L. 114–322, title I, § 1167, Dec. 16, 2016, 130 Stat. 1670; Pub. L. 115–270, title I, § 1157(a), Oct. 23, 2018, 132 Stat. 3793; Pub. L. 118–272, div. A, title I, § 1107(c), Jan. 4, 2025, 138 Stat. 3004.)
+(Aug. 13, 1946, ch. 960, § 3, 60 Stat. 1056; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; July 28, 1956, ch. 768, 70 Stat. 703; Pub. L. 87–874, title I, § 103(a)(4), Oct. 23, 1962, 76 Stat. 1178; Pub. L. 89–298, title III, § 310(b), Oct. 27, 1965, 79 Stat. 1095; Pub. L. 91–611, title I, § 112(b), Dec. 31, 1970, 84 Stat. 1821; Pub. L. 99–662, title IX, § 915(e), Nov. 17, 1986, 100 Stat. 4191; Pub. L. 104–303, title II, § 227(e)(2)(C), Oct. 12, 1996, 110 Stat. 3703; Pub. L. 106–53, title II, § 226, Aug. 17, 1999, 113 Stat. 298; Pub. L. 110–114, title II, § 2038(a), Nov. 8, 2007, 121 Stat. 1097; Pub. L. 114–322, title I, § 1167, Dec. 16, 2016, 130 Stat. 1670; Pub. L. 115–270, title I, § 1157(a), Oct. 23, 2018, 132 Stat. 3793; Pub. L. 118–272, div. A, title I, § 1107(c), Jan. 4, 2025, 138 Stat. 3004.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Shoreline Erosion Control Demonstration Act of 1974, referred to in subsec. (b)(2)(C)(viii), is Pub. L. 93–251, title I, § 54, Mar. 7, 1974, 88 Stat. 26, formerly set out as a note under section 1962d–5 of Title 42, The Public Health and Welfare.
+The Shoreline Erosion Control Demonstration Act of 1974, referred to in subsec. (b)(2)(C)(viii), is Pub. L. 93–251, title I, § 54, Mar. 7, 1974, 88 Stat. 26, formerly set out as a note under section 1962d–5 of Title 42, The Public Health and Welfare.
 
 **Amendments**
 
-2025—Subsec. (c)(1). Pub. L. 118–272, § 1107(c)(1), substituted “$62,500,000” for “$37,500,000”.
+2025—Subsec. (c)(1). Pub. L. 118–272, § 1107(c)(1), substituted “$62,500,000” for “$37,500,000”.
 
-Subsec. (c)(2)(B). Pub. L. 118–272, § 1107(c)(2), substituted “$15,000,000” for “$10,000,000”.
+Subsec. (c)(2)(B). Pub. L. 118–272, § 1107(c)(2), substituted “$15,000,000” for “$10,000,000”.
 
 2018—Subsec. (c)(1). Pub. L. 115–270 substituted “$37,500,000” for “$30,000,000”.
 
@@ -1553,19 +1553,19 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–662, title IX, § 915(i), Nov. 17, 1986, 100 Stat. 4191, provided that: “The amendments made by this section [amending this section and sections 426i, 577, 603a, 701g, 701r, and 701s of this title] shall not apply to any project under contract for construction on the date of enactment of this Act [Nov. 17, 1986].”
+Pub. L. 99–662, title IX, § 915(i), Nov. 17, 1986, 100 Stat. 4191, provided that: “The amendments made by this section [amending this section and sections 426i, 577, 603a, 701g, 701r, and 701s of this title] shall not apply to any project under contract for construction on the date of enactment of this Act [Nov. 17, 1986].”
 
 **Effective Date of 1970 Amendment**
 
-Pub. L. 91–611, title I, § 112(c), Dec. 31, 1970, 84 Stat. 1821, provided that: “The amendments made by this section [amending this section and section 577 of this title] shall not apply to any project under contract for construction on the date of enactment of this Act [Dec. 31, 1970].”
+Pub. L. 91–611, title I, § 112(c), Dec. 31, 1970, 84 Stat. 1821, provided that: “The amendments made by this section [amending this section and section 577 of this title] shall not apply to any project under contract for construction on the date of enactment of this Act [Dec. 31, 1970].”
 
 **Transfer of Functions**
 
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
 **Hurricane and Storm Damage Protection Program**
 
-Pub. L. 115–270, title I, § 1112, Oct. 23, 2018, 132 Stat. 3775, provided that:
+Pub. L. 115–270, title I, § 1112, Oct. 23, 2018, 132 Stat. 3775, provided that:
 
 > **“(a) In General.—** The Secretary [of the Army] is authorized to carry out a pilot program to award single contracts for more than one authorized hurricane and storm damage reduction project in a geographical region, including projects across more than one Corps of Engineers district, if the Secretary determines that the contract provides cost savings compared to the awarding of such work on a project-by-project basis.
 
@@ -1585,7 +1585,7 @@ Pub. L. 115–270, title I, § 1112, Oct. 23, 2018, 132 Stat. 3775, provided t
 
 > **“(f) Termination.—** The authority of the Secretary to enter into contracts pursuant to the pilot program carried out under subsection (a) shall expire on the date that is 10 years after the date of enactment of this Act.”
 
-### § 426g–1. State and regional plans
+### § 426g–1. State and regional plans
 
 The Secretary may—
 
@@ -1595,7 +1595,7 @@ The Secretary may—
 
 **(3)** submit to Congress reports and recommendations with respect to appropriate Federal participation in carrying out the plan.
 
-(Aug. 13, 1946, ch. 960, § 4, as added Pub. L. 104–303, title II, § 227(d)(2), Oct. 12, 1996, 110 Stat. 3700.)
+(Aug. 13, 1946, ch. 960, § 4, as added Pub. L. 104–303, title II, § 227(d)(2), Oct. 12, 1996, 110 Stat. 3700.)
 
 **Editorial Notes**
 
@@ -1603,13 +1603,13 @@ The Secretary may—
 
 A prior section 4 of act Aug. 13, 1946, was renumbered section 5 of that act, and was classified to section 426h of this title prior to repeal by Pub. L. 104–303.
 
-### § 426h. Repealed. Pub. L. 110–114, title II, § 2038(b), Nov. 8, 2007, 121 Stat. 1100
+### § 426h. Repealed. Pub. L. 110–114, title II, § 2038(b), Nov. 8, 2007, 121 Stat. 1100
 
-Section, act Aug. 13, 1946, ch. 960, § 5, as added Pub. L. 104–303, title II, § 227(e)(1), Oct. 12, 1996, 110 Stat. 3700; amended Pub. L. 106–53, title V, § 581, Aug. 17, 1999, 113 Stat. 375; Pub. L. 109–234, title II, § 2305, June 15, 2006, 120 Stat. 456; Pub. L. 110–161, div. C, title I, § 113, Dec. 26, 2007, 121 Stat. 1944, related to national shoreline erosion control development and demonstration program.
+Section, act Aug. 13, 1946, ch. 960, § 5, as added Pub. L. 104–303, title II, § 227(e)(1), Oct. 12, 1996, 110 Stat. 3700; amended Pub. L. 106–53, title V, § 581, Aug. 17, 1999, 113 Stat. 375; Pub. L. 109–234, title II, § 2305, June 15, 2006, 120 Stat. 456; Pub. L. 110–161, div. C, title I, § 113, Dec. 26, 2007, 121 Stat. 1944, related to national shoreline erosion control development and demonstration program.
 
-A prior section 426h, acts Aug. 13, 1946, ch. 960, § 5, formerly § 4, 60 Stat. 1057; July 28, 1956, ch. 768, 70 Stat. 703; renumbered § 5, Oct. 12, 1996, Pub. L. 104–303, title II, § 227(d)(1), 110 Stat. 3700, defined the word “shores” as used in sections 426e to 426h of this title, prior to repeal by Pub. L. 104–303, title II, § 227(e)(1), Oct. 12, 1996, 110 Stat. 3700.
+A prior section 426h, acts Aug. 13, 1946, ch. 960, § 5, formerly § 4, 60 Stat. 1057; July 28, 1956, ch. 768, 70 Stat. 703; renumbered § 5, Oct. 12, 1996, Pub. L. 104–303, title II, § 227(d)(1), 110 Stat. 3700, defined the word “shores” as used in sections 426e to 426h of this title, prior to repeal by Pub. L. 104–303, title II, § 227(e)(1), Oct. 12, 1996, 110 Stat. 3700.
 
-### § 426h–1. Definitions
+### § 426h–1. Definitions
 
 In sections 426e and 426f to 426h–1 of this title, the following definitions apply:
 
@@ -1633,9 +1633,9 @@ The term “shore” includes each shoreline of the Atlantic and Pacific Oceans,
 
 The term “shore protection project” includes a project for beach nourishment, including the replacement of sand.
 
-(Aug. 13, 1946, ch. 960, § 6, as added Pub. L. 104–303, title II, § 227(e)(1), Oct. 12, 1996, 110 Stat. 3702.)
+(Aug. 13, 1946, ch. 960, § 6, as added Pub. L. 104–303, title II, § 227(e)(1), Oct. 12, 1996, 110 Stat. 3702.)
 
-### § 426i. Shore damage prevention or mitigation
+### § 426i. Shore damage prevention or mitigation
 
 **(a) In general**
 
@@ -1659,7 +1659,7 @@ No such project shall be initiated without specific authorization by Congress if
 
 Beginning on December 16, 2016, in any case in which the Secretary implements a project under this section, the Secretary shall reimburse or credit the non-Federal interest for any amounts contributed for the study evaluating the damage in excess of the non-Federal share of the costs, as determined under subsection (b).
 
-(Pub. L. 90–483, title I, § 111, Aug. 13, 1968, 82 Stat. 735; Pub. L. 99–662, title IX, §§ 915(f), 940, Nov. 17, 1986, 100 Stat. 4191, 4199; Pub. L. 106–53, title II, § 214, Aug. 17, 1999, 113 Stat. 291; Pub. L. 113–121, title I, § 1030(c), June 10, 2014, 128 Stat. 1232; Pub. L. 114–322, title I, § 1169, Dec. 16, 2016, 130 Stat. 1671; Pub. L. 115–270, title I, § 1157(c), Oct. 23, 2018, 132 Stat. 3794; Pub. L. 118–272, div. A, title I, § 1107(h), Jan. 4, 2025, 138 Stat. 3005.)
+(Pub. L. 90–483, title I, § 111, Aug. 13, 1968, 82 Stat. 735; Pub. L. 99–662, title IX, §§ 915(f), 940, Nov. 17, 1986, 100 Stat. 4191, 4199; Pub. L. 106–53, title II, § 214, Aug. 17, 1999, 113 Stat. 291; Pub. L. 113–121, title I, § 1030(c), June 10, 2014, 128 Stat. 1232; Pub. L. 114–322, title I, § 1169, Dec. 16, 2016, 130 Stat. 1671; Pub. L. 115–270, title I, § 1157(c), Oct. 23, 2018, 132 Stat. 3794; Pub. L. 118–272, div. A, title I, § 1107(h), Jan. 4, 2025, 138 Stat. 3005.)
 
 **Editorial Notes**
 
@@ -1669,17 +1669,17 @@ Beginning on December 16, 2016, in any case in which the Secretary implements a 
 
 2018—Subsec. (c). Pub. L. 115–270 substituted “$12,500,000” for “$10,000,000”.
 
-2016—Subsec. (b). Pub. L. 114–322, § 1169(1), substituted “measures, including a study, shall be cost-shared in the same proportion as the cost-sharing provisions applicable to construction of the project” for “measures under this section shall be cost-shared in the same proportion as the cost-sharing provisions applicable to the project”.
+2016—Subsec. (b). Pub. L. 114–322, § 1169(1), substituted “measures, including a study, shall be cost-shared in the same proportion as the cost-sharing provisions applicable to construction of the project” for “measures under this section shall be cost-shared in the same proportion as the cost-sharing provisions applicable to the project”.
 
-Subsec. (e). Pub. L. 114–322, § 1169(2), added subsec. (e).
+Subsec. (e). Pub. L. 114–322, § 1169(2), added subsec. (e).
 
 2014—Subsec. (c). Pub. L. 113–121 substituted “$10,000,000” for “$5,000,000”.
 
 1999—Pub. L. 106–53 designated first sentence as subsec. (a), inserted heading, and inserted “and shore damage attributable to the Atlantic Intracoastal Waterway and the Gulf Intracoastal Waterway” after “navigation works”, designated second sentence as subsec. (b) and inserted heading, and designated third sentence as subsec. (c), inserted heading, and substituted “$5,000,000” for “$2,000,000”, and added subsec. (d).
 
-1986—Pub. L. 99–662, § 940, amended section generally. Prior to amendment, section read as follows: “The Secretary of the Army, acting through the Chief of Engineers, is authorized to investigate, study, and construct projects for the prevention or mitigation of shore damages attributable to Federal navigation works. The cost of installing, operating, and maintaining such projects shall be borne entirely by the United States. No such project shall be constructed without specific authorization by Congress if the estimated first cost exceeds $2,000,000.”
+1986—Pub. L. 99–662, § 940, amended section generally. Prior to amendment, section read as follows: “The Secretary of the Army, acting through the Chief of Engineers, is authorized to investigate, study, and construct projects for the prevention or mitigation of shore damages attributable to Federal navigation works. The cost of installing, operating, and maintaining such projects shall be borne entirely by the United States. No such project shall be constructed without specific authorization by Congress if the estimated first cost exceeds $2,000,000.”
 
-Pub. L. 99–662, § 915(f), substituted “$2,000,000” for “$1,000,000”.
+Pub. L. 99–662, § 915(f), substituted “$2,000,000” for “$1,000,000”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1689,7 +1689,7 @@ Amendment by section 915(f) of Pub. L. 99–662 not applicable to any project un
 
 **Coastal Erosion**
 
-Pub. L. 115–270, title I, § 1172, Oct. 23, 2018, 132 Stat. 3799, provided that:
+Pub. L. 115–270, title I, § 1172, Oct. 23, 2018, 132 Stat. 3799, provided that:
 
 > **“(a) In General.—** Pursuant to section 111 of the River and Harbor Act of 1968 (33 U.S.C. 426i), the Secretary [of the Army] shall, to the maximum extent practicable, complete operation and maintenance renourishment to mitigate coastal erosion attributed to Federal project structures in the upper northeast United States.
 
@@ -1703,11 +1703,11 @@ Pub. L. 115–270, title I, § 1172, Oct. 23, 2018, 132 Stat. 3799, provided t
 
 > **“(2)** consult with relevant State agencies in selecting projects.”
 
-### § 426i–1. Repealed. Pub. L. 113–121, title I, § 1014(c)(2), June 10, 2014, 128 Stat. 1222
+### § 426i–1. Repealed. Pub. L. 113–121, title I, § 1014(c)(2), June 10, 2014, 128 Stat. 1222
 
-Section, Pub. L. 102–580, title II, § 206, Oct. 31, 1992, 106 Stat. 4828; Pub. L. 104–303, title II, § 227(c)(2), Oct. 12, 1996, 110 Stat. 3700, related to construction of shoreline protection projects by non-Federal interests.
+Section, Pub. L. 102–580, title II, § 206, Oct. 31, 1992, 106 Stat. 4828; Pub. L. 104–303, title II, § 227(c)(2), Oct. 12, 1996, 110 Stat. 3700, related to construction of shoreline protection projects by non-Federal interests.
 
-### § 426i–2. National coastal data bank
+### § 426i–2. National coastal data bank
 
 **(1) Establishment of data bank**
 
@@ -1721,7 +1721,7 @@ To the extent practicable, the national coastal data bank shall include data reg
 
 The national coastal data bank shall be made readily accessible to the public.
 
-(Pub. L. 106–53, title II, § 215(d), Aug. 17, 1999, 113 Stat. 293.)
+(Pub. L. 106–53, title II, § 215(d), Aug. 17, 1999, 113 Stat. 293.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1729,17 +1729,17 @@ The national coastal data bank shall be made readily accessible to the public.
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–53, set out as a note under section 2201 of this title.
 
-### § 426j. Repealed. Pub. L. 110–114, title II, § 2037(b)(1), Nov. 8, 2007, 121 Stat. 1096
+### § 426j. Repealed. Pub. L. 110–114, title II, § 2037(b)(1), Nov. 8, 2007, 121 Stat. 1096
 
-Section, Pub. L. 94–587, § 145, Oct. 22, 1976, 90 Stat. 2931; Pub. L. 99–662, title IX, § 933, Nov. 17, 1986, 100 Stat. 4197; Pub. L. 100–676, § 35, Nov. 17, 1988, 102 Stat. 4031; Pub. L. 102–580, title II, § 207, Oct. 31, 1992, 106 Stat. 4829; Pub. L. 106–53, title II, § 217(a), Aug. 17, 1999, 113 Stat. 294, related to placement on State beaches of sand dredged in constructing and maintaining navigation inlets and channels adjacent to such beaches.
+Section, Pub. L. 94–587, § 145, Oct. 22, 1976, 90 Stat. 2931; Pub. L. 99–662, title IX, § 933, Nov. 17, 1986, 100 Stat. 4197; Pub. L. 100–676, § 35, Nov. 17, 1988, 102 Stat. 4031; Pub. L. 102–580, title II, § 207, Oct. 31, 1992, 106 Stat. 4829; Pub. L. 106–53, title II, § 217(a), Aug. 17, 1999, 113 Stat. 294, related to placement on State beaches of sand dredged in constructing and maintaining navigation inlets and channels adjacent to such beaches.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Existing Projects**
 
-Pub. L. 110–114, title II, § 2037(b)(2), Nov. 8, 2007, 121 Stat. 1096, provided that: “The Secretary [of the Army] may complete any project being carried out under section 145 of the Water Resources Development Act of 1976 [this section] on the day before the date of enactment of this Act [Nov. 8, 2007].”
+Pub. L. 110–114, title II, § 2037(b)(2), Nov. 8, 2007, 121 Stat. 1096, provided that: “The Secretary [of the Army] may complete any project being carried out under section 145 of the Water Resources Development Act of 1976 [this section] on the day before the date of enactment of this Act [Nov. 8, 2007].”
 
-### § 426k. Five year demonstration program to temporarily increase diversion of water from Lake Michigan at Chicago, Illinois
+### § 426k. Five year demonstration program to temporarily increase diversion of water from Lake Michigan at Chicago, Illinois
 
 **(a) Authorization of Secretary of the Army; purpose; amounts of increase; incremental accomplishment; effects on Illinois Waterway; responsibilities for development, implementation, and supervision**
 
@@ -1761,9 +1761,9 @@ The Chief of Engineers shall conduct a study and a demonstration program to dete
 
 For purposes of this section, controllable diversion is defined as that diversion at Wilmette, O’Brien, and Chicago River control structures which is not attributable to leakage or which is not necessary for navigational requirements.
 
-(Pub. L. 94–587, § 166, Oct. 22, 1976, 90 Stat. 2934.)
+(Pub. L. 94–587, § 166, Oct. 22, 1976, 90 Stat. 2934.)
 
-### § 426l. Protection of Lake Ontario
+### § 426l. Protection of Lake Ontario
 
 **(a) Plan for shoreline protection and beach erosion control; report to Congress**
 
@@ -1781,9 +1781,9 @@ There is authorized to be appropriated to carry out this section $2,000,000.
 
 This section may be cited as the “Lake Ontario Protection Act of 1976.”
 
-(Pub. L. 94–587, § 180, Oct. 22, 1976, 90 Stat. 2939.)
+(Pub. L. 94–587, § 180, Oct. 22, 1976, 90 Stat. 2939.)
 
-### § 426m. Collection and removal of drift and debris from publicly maintained commercial boat harbors and adjacent land and water areas
+### § 426m. Collection and removal of drift and debris from publicly maintained commercial boat harbors and adjacent land and water areas
 
 **(a) Congressional findings**
 
@@ -1801,9 +1801,9 @@ The Federal share of the cost of any project developed pursuant to subsection (b
 
 **(d) Responsibility for providing lands, easements, and right-of-way necessary for projects; agreement to maintain projects and hold United States free from damages; regulation of project area following project completion; technical advice**
 
-Any State, municipality, or other political subdivision where any project developed pursuant to subsection (b) of this section is located shall provide all lands, easements, and right-of-way necessary for the project, including suitable access and disposal areas, and shall agree to maintain such projects and hold and save the United States free from any damages which may result from the non-Federal sponsor’s performance of, or failure to perform, any of its required responsibilities of cooperation for the project. Non-Fededal 1
+Any State, municipality, or other political subdivision where any project developed pursuant to subsection (b) of this section is located shall provide all lands, easements, and right-of-way necessary for the project, including suitable access and disposal areas, and shall agree to maintain such projects and hold and save the United States free from any damages which may result from the non-Federal sponsor’s performance of, or failure to perform, any of its required responsibilities of cooperation for the project. Non-Fededal 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 interest shall agree to regulate any project area following project completion so that such area will not become a future source of drift and debris. The Chief of Engineers shall provide technical advice to non-Federal interests on the implementation of this subsection.
 
@@ -1817,7 +1817,7 @@ interest shall agree to regulate any project area following project completion s
 
 There is authorized to be appropriated to carry out this section such sums as may be necessary for fiscal years beginning after September 30, 1986.
 
-(Pub. L. 94–587, § 202, Oct. 22, 1976, 90 Stat. 2945; Pub. L. 99–662, title XI, § 1129(a), Nov. 17, 1986, 100 Stat. 4246.)
+(Pub. L. 94–587, § 202, Oct. 22, 1976, 90 Stat. 2945; Pub. L. 99–662, title XI, § 1129(a), Nov. 17, 1986, 100 Stat. 4246.)
 
 **Editorial Notes**
 
@@ -1825,7 +1825,7 @@ There is authorized to be appropriated to carry out this section such sums as ma
 
 1986—Subsec. (f). Pub. L. 99–662 amended subsec. (f) generally, substituting “such sums as may be necessary for fiscal years beginning after Sept. 30, 1986” for “not to exceed $4,000,000 per fiscal year for fiscal years 1978 and 1979”.
 
-### § 426n. Technical assistance to States and local governments; cost sharing
+### § 426n. Technical assistance to States and local governments; cost sharing
 
 **(a)** Upon request of the Governor of a State, or the appropriate official of local government, the Secretary is authorized to provide designs, plans, and specifications, and such other technical assistance as he deems advisable to such State or local government for its use in carrying out—
 
@@ -1835,7 +1835,7 @@ There is authorized to be appropriated to carry out this section such sums as ma
 
 **(b)** The non-Federal share of the cost of any designs, plans, specifications or technical assistance provided under subsection (a) shall be 50 percent.
 
-(Pub. L. 99–662, title IX, § 942, Nov. 17, 1986, 100 Stat. 4199.)
+(Pub. L. 99–662, title IX, § 942, Nov. 17, 1986, 100 Stat. 4199.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1843,11 +1843,11 @@ There is authorized to be appropriated to carry out this section such sums as ma
 
 Secretary means the Secretary of the Army, see section 2201 of this title.
 
-### § 426o. Great Lakes material disposal
+### § 426o. Great Lakes material disposal
 
 In planning and implementing any navigation project (including maintenance thereof) on the Great Lakes and adjacent waters, the Secretary shall consult and cooperate with concerned States in selecting disposal areas for dredged material which is suitable for beach nourishment.
 
-(Pub. L. 99–662, title XI, § 1154, Nov. 17, 1986, 100 Stat. 4256.)
+(Pub. L. 99–662, title XI, § 1154, Nov. 17, 1986, 100 Stat. 4256.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1855,7 +1855,7 @@ In planning and implementing any navigation project (including maintenance there
 
 Secretary means the Secretary of the Army, see section 2201 of this title.
 
-### § 426o–1. Great Lakes dredging levels adjustment
+### § 426o–1. Great Lakes dredging levels adjustment
 
 **(a) Definition of Great Lake**
 
@@ -1865,7 +1865,7 @@ In this section, the term “Great Lake” means Lake Superior, Lake Michigan, L
 
 In operating and maintaining Federal channels and harbors of, and the connecting channels between, the Great Lakes, the Secretary shall conduct such dredging as is necessary to ensure minimal operation depths consistent with the original authorized depths of the channels and harbors when water levels in the Great Lakes are, or are forecast to be, below the International Great Lakes Datum of 1985.
 
-(Pub. L. 106–541, title III, § 343, Dec. 11, 2000, 114 Stat. 2613.)
+(Pub. L. 106–541, title III, § 343, Dec. 11, 2000, 114 Stat. 2613.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1873,7 +1873,7 @@ In operating and maintaining Federal channels and harbors of, and the connecting
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–541, set out as a note under section 2201 of this title.
 
-### § 426o–2. Great Lakes navigation and protection
+### § 426o–2. Great Lakes navigation and protection
 
 **(a) Great Lakes navigation**
 
@@ -1887,7 +1887,7 @@ Using available funds, the Director of the Animal and Plant Health Inspection Se
 
 In this section, the term “Great Lakes and Connecting Channels” includes Lakes Superior, Huron, Michigan, Erie, and Ontario, all connecting waters between and among such lakes used for commercial navigation, any navigation features in such lakes or waters that are a Federal operation or maintenance responsibility, and areas of the Saint Lawrence River that are operated or maintained by the Federal Government for commercial navigation.
 
-(Pub. L. 110–114, title V, § 5014, Nov. 8, 2007, 121 Stat. 1195.)
+(Pub. L. 110–114, title V, § 5014, Nov. 8, 2007, 121 Stat. 1195.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1895,7 +1895,7 @@ In this section, the term “Great Lakes and Connecting Channels” includes Lak
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 
-### § 426p. Corps of Engineers
+### § 426p. Corps of Engineers
 
 **(a) Technical and other assistance** The Secretary of the Army may—
 
@@ -1931,7 +1931,7 @@ In issuing permits under sections 403 and 1344 of this title for a project invol
 
 In carrying out subparagraph (A), the Secretary of the Army shall consult affected State and local governments.
 
-(Pub. L. 100–707, title II, § 203, Nov. 23, 1988, 102 Stat. 4712.)
+(Pub. L. 100–707, title II, § 203, Nov. 23, 1988, 102 Stat. 4712.)
 
 **Editorial Notes**
 
@@ -1943,11 +1943,11 @@ This title, referred to in subsec. (b)(1), is title II of Pub. L. 100–707, Nov
 
 **Short Title**
 
-Pub. L. 100–707, title II, § 201, Nov. 23, 1988, 102 Stat. 4711, provided that: “This title [enacting this section, amending sections 3501 to 3503 of Title 16, Conservation, and enacting provisions set out as notes under this section and sections 3501 and 3505 of Title 16] may be cited as the ‘Great Lakes Planning Assistance Act of 1988’.”
+Pub. L. 100–707, title II, § 201, Nov. 23, 1988, 102 Stat. 4711, provided that: “This title [enacting this section, amending sections 3501 to 3503 of Title 16, Conservation, and enacting provisions set out as notes under this section and sections 3501 and 3505 of Title 16] may be cited as the ‘Great Lakes Planning Assistance Act of 1988’.”
 
 **Great Lakes Damage Assistance and Prevention; Damage Assistance Program**
 
-Pub. L. 100–707, title II, § 202, Nov. 23, 1988, 102 Stat. 4711, provided that:
+Pub. L. 100–707, title II, § 202, Nov. 23, 1988, 102 Stat. 4711, provided that:
 
 > **“(a) In General.—** The Director is authorized to provide assistance to Great Lakes States in the establishment of State programs to reduce and prevent damage attributable to high water levels in the Great Lakes.
 
@@ -1969,7 +1969,7 @@ Pub. L. 100–707, title II, § 202, Nov. 23, 1988, 102 Stat. 4711, provided t
 
 **Great Lakes Damage Assistance and Prevention; Definitions**
 
-Pub. L. 100–707, title II, § 205, Nov. 23, 1988, 102 Stat. 4715, as amended by Pub. L. 109–295, title VI, § 612(c), Oct. 4, 2006, 120 Stat. 1410, provided that:
+Pub. L. 100–707, title II, § 205, Nov. 23, 1988, 102 Stat. 4715, as amended by Pub. L. 109–295, title VI, § 612(c), Oct. 4, 2006, 120 Stat. 1410, provided that:
 
 > “For purposes of this title [see Short Title note above]—
 
@@ -1981,49 +1981,49 @@ Pub. L. 100–707, title II, § 205, Nov. 23, 1988, 102 Stat. 4715, as amended
 
 > **“(4) Great lakes state.—** The term ‘Great Lakes State’ means Minnesota, Wisconsin, Illinois, Ohio, Michigan, Indiana, Pennsylvania, and New York.”
 
-### §§ 427 to 430. Repealed. July 31, 1945, ch. 334, § 5, 59 Stat. 508
+### §§ 427 to 430. Repealed. July 31, 1945, ch. 334, § 5, 59 Stat. 508
 
-Section 427, act June 26, 1936, ch. 849, § 1, 49 Stat. 1982, related to improvement and protection of beaches and defined “beach”.
+Section 427, act June 26, 1936, ch. 849, § 1, 49 Stat. 1982, related to improvement and protection of beaches and defined “beach”.
 
-Section 428, act June 26, 1936, ch. 849, § 2, 49 Stat. 1982, related to investigations by Beach Erosion Board and duties of Board. See section 426–1 of this title.
+Section 428, act June 26, 1936, ch. 849, § 2, 49 Stat. 1982, related to investigations by Beach Erosion Board and duties of Board. See section 426–1 of this title.
 
-Section 429, act June 26, 1936, ch. 849, § 3, 49 Stat. 1983, related to investigative reports by Beach Erosion Board. See section 426–1 of this title.
+Section 429, act June 26, 1936, ch. 849, § 3, 49 Stat. 1983, related to investigative reports by Beach Erosion Board. See section 426–1 of this title.
 
-Section 430, act June 26, 1936, ch. 849, § 4, 49 Stat. 1983, related to payment of expenses incident to investigations by Board. See section 426–1 of this title.
+Section 430, act June 26, 1936, ch. 849, § 4, 49 Stat. 1983, related to payment of expenses incident to investigations by Board. See section 426–1 of this title.
 
 ## SUBCHAPTER II—OIL POLLUTION OF COASTAL WATERS
 
-### §§ 431 to 437. Repealed. Pub. L. 91–224, title I, § 108, Apr. 3, 1970, 84 Stat. 113
+### §§ 431 to 437. Repealed. Pub. L. 91–224, title I, § 108, Apr. 3, 1970, 84 Stat. 113
 
-Section 431, act June 7, 1924, ch. 316, § 1, 43 Stat. 604; Pub. L. 89–753, title II, § 211(a), Nov. 3, 1966, 80 Stat. 1252, related to the short title for this subchapter.
+Section 431, act June 7, 1924, ch. 316, § 1, 43 Stat. 604; Pub. L. 89–753, title II, § 211(a), Nov. 3, 1966, 80 Stat. 1252, related to the short title for this subchapter.
 
-Section 432, act June 7, 1924, ch. 316, § 2, 43 Stat. 604; Pub. L. 89–753, title II, § 211(a), Nov. 3, 1966, 80 Stat. 1252, defined “oil,” “person”, “coastal navigable waters of the United States”, and “Secretary”.
+Section 432, act June 7, 1924, ch. 316, § 2, 43 Stat. 604; Pub. L. 89–753, title II, § 211(a), Nov. 3, 1966, 80 Stat. 1252, defined “oil,” “person”, “coastal navigable waters of the United States”, and “Secretary”.
 
-Section 433, act June 7, 1924, ch. 316, § 3, 43 Stat. 605; Pub. L. 89–753, title II, § 211(a), Nov. 3, 1966, 80 Stat. 1253, related to prohibition against discharge of oil generally.
+Section 433, act June 7, 1924, ch. 316, § 3, 43 Stat. 605; Pub. L. 89–753, title II, § 211(a), Nov. 3, 1966, 80 Stat. 1253, related to prohibition against discharge of oil generally.
 
-Section 434, act June 7, 1924, ch. 316, § 4, 43 Stat. 605; Pub. L. 89–753, title II, § 211(a), Nov. 3, 1966, 80 Stat. 1253, related to penalties for violation of oil discharge prohibition and liability of vessel.
+Section 434, act June 7, 1924, ch. 316, § 4, 43 Stat. 605; Pub. L. 89–753, title II, § 211(a), Nov. 3, 1966, 80 Stat. 1253, related to penalties for violation of oil discharge prohibition and liability of vessel.
 
-Section 435, act June 7, 1924, ch. 316, § 5, 43 Stat. 605; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 89–753, title II, § 211(a), Nov. 3, 1966, 80 Stat. 1254, related to revocation or suspension of licenses of officers of offending vessels.
+Section 435, act June 7, 1924, ch. 316, § 5, 43 Stat. 605; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 89–753, title II, § 211(a), Nov. 3, 1966, 80 Stat. 1254, related to revocation or suspension of licenses of officers of offending vessels.
 
-Section 436, act June 7, 1924, ch. 316, § 6, as added Pub. L. 89–753, title II, § 211(a), Nov. 3, 1966, 80 Stat. 1254, related to authorization of use of certain personnel in enforcement of this subchapter and arrest of offenders.
+Section 436, act June 7, 1924, ch. 316, § 6, as added Pub. L. 89–753, title II, § 211(a), Nov. 3, 1966, 80 Stat. 1254, related to authorization of use of certain personnel in enforcement of this subchapter and arrest of offenders.
 
-Section 437, act June 7, 1924, ch. 316, § 7, 43 Stat. 606; Pub. L. 89–753, title II, § 211(a), Nov. 3, 1966, 80 Stat. 1254, related to affect of this subchapter on preexisting laws for preservation and protection of navigable waters.
+Section 437, act June 7, 1924, ch. 316, § 7, 43 Stat. 606; Pub. L. 89–753, title II, § 211(a), Nov. 3, 1966, 80 Stat. 1254, related to affect of this subchapter on preexisting laws for preservation and protection of navigable waters.
 
 See section 1251 et seq. of this title.
 
 ## SUBCHAPTER III—NEW YORK HARBOR, HARBOR OF HAMPTON ROADS, AND HARBOR OF BALTIMORE
 
-### § 441. Deposit of refuse prohibited; penalty
+### § 441. Deposit of refuse prohibited; penalty
 
 The placing, discharging, or depositing, by any process or in any manner, of refuse, dirt, ashes, cinders, mud, sand, dredgings, sludge, acid, or any other matter of any kind, other than that flowing from streets, sewers, and passing therefrom in a liquid state, in the waters of any harbor subject to this subchapter, within the limits which shall be prescribed by the supervisor of the harbor, is strictly forbidden, and every such act is made a misdemeanor, and every person engaged in or who shall aid, abet, authorize, or instigate a violation of this section, shall, upon conviction, be punishable by fine or imprisonment, or both, such fine to be not less than $250 nor more than $2,500, and the imprisonment to be not less than thirty days nor more than one year, either or both united, as the judge before whom conviction is obtained shall decide, one-half of said fine to be paid to the person or persons giving information which shall lead to conviction of this misdemeanor.
 
-(June 29, 1888, ch. 496, § 1, 25 Stat. 209; Pub. L. 85–802, § 1(1), Aug. 28, 1958, 72 Stat. 970.)
+(June 29, 1888, ch. 496, § 1, 25 Stat. 209; Pub. L. 85–802, § 1(1), Aug. 28, 1958, 72 Stat. 970.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Section 1 of act June 29, 1888, superseded act Aug. 5, 1886, ch. 929, § 3, 24 Stat. 329, which provided that: “It shall not be lawful to cast, throw, empty, or unlade, or cause, suffer, or procure to be cast, thrown, emptied, or unladen, either from or out of any ship, vessel, lighter, barge, boat, or other craft, or from the shore, pier, wharf, or mills of any kind whatever, any ballast, stone, slate, gravel, earth, slack, rubbish, wreck, filth, slabs, edgings, sawdust, slag or cinders or other refuse or mill-waste of any kind, into New York Harbor: *Provided*, That nothing herein contained shall extend, or be construed to extend, to the casting out, unlading, or throwing out of any ship or vessel, lighter, barge, boat, or other craft, any stones, rocks, bricks, lime, or other materials used, or to be used, in or toward the building, repairing, or keeping in repair any quay, pier, wharf, weir, bridge, building, or other work lawfully erected or to be erected on the banks or sides of said harbor, or to the casting out, unloading or depositing of any material excavated for the improvement of navigable waters, into such places and in such manner as may be deemed by the United States officer supervising the improvement of said harbor most judicious and practicable and for the best interests of such improvement.”
+Section 1 of act June 29, 1888, superseded act Aug. 5, 1886, ch. 929, § 3, 24 Stat. 329, which provided that: “It shall not be lawful to cast, throw, empty, or unlade, or cause, suffer, or procure to be cast, thrown, emptied, or unladen, either from or out of any ship, vessel, lighter, barge, boat, or other craft, or from the shore, pier, wharf, or mills of any kind whatever, any ballast, stone, slate, gravel, earth, slack, rubbish, wreck, filth, slabs, edgings, sawdust, slag or cinders or other refuse or mill-waste of any kind, into New York Harbor: *Provided*, That nothing herein contained shall extend, or be construed to extend, to the casting out, unlading, or throwing out of any ship or vessel, lighter, barge, boat, or other craft, any stones, rocks, bricks, lime, or other materials used, or to be used, in or toward the building, repairing, or keeping in repair any quay, pier, wharf, weir, bridge, building, or other work lawfully erected or to be erected on the banks or sides of said harbor, or to the casting out, unloading or depositing of any material excavated for the improvement of navigable waters, into such places and in such manner as may be deemed by the United States officer supervising the improvement of said harbor most judicious and practicable and for the best interests of such improvement.”
 
 **Amendments**
 
@@ -2033,13 +2033,13 @@ Section 1 of act June 29, 1888, superseded act Aug. 5, 1886, ch. 929, § 3, 24
 
 **Effective Date of 1958 Amendment**
 
-Pub. L. 85–802, § 2, Aug. 28, 1958, 72 Stat. 971, provided that: “This Act [amending this section and sections 442, 446, 447, 449, 451, and 451a of this title and enacting section 451b of this title] shall take effect on the sixtieth day after the date of its enactment [Aug. 28, 1958].”
+Pub. L. 85–802, § 2, Aug. 28, 1958, 72 Stat. 971, provided that: “This Act [amending this section and sections 442, 446, 447, 449, 451, and 451a of this title and enacting section 451b of this title] shall take effect on the sixtieth day after the date of its enactment [Aug. 28, 1958].”
 
-### § 442. Liability of officers of towing vessel
+### § 442. Liability of officers of towing vessel
 
 Any and every master and engineer, or person or persons acting in such capacity, respectively, on board of any boat or vessel, who shall knowingly engage in towing any scow, boat, or vessel loaded with any such prohibited matter to any point or place of deposit, or discharge in the waters of any harbor subject to this subchapter, or to any point or place elsewhere than within the limits defined and permitted by the supervisor of the harbor, shall be deemed guilty of a violation of section 441 of this title, and shall, upon conviction, be punishable as provided for offenses in violation of section 441 of this title, and shall also have his license revoked or suspended for a term to be fixed by the judge before whom tried and convicted.
 
-(June 29, 1888, ch. 496, § 2, 25 Stat. 209; Pub. L. 85–802, § 1(2), Aug. 28, 1958, 72 Stat. 970.)
+(June 29, 1888, ch. 496, § 2, 25 Stat. 209; Pub. L. 85–802, § 1(2), Aug. 28, 1958, 72 Stat. 970.)
 
 **Editorial Notes**
 
@@ -2053,11 +2053,11 @@ Any and every master and engineer, or person or persons acting in such capacity,
 
 Amendment by Pub. L. 85–802 effective on sixtieth day after Aug. 28, 1958, see section 2 of Pub. L. 85–802, set out as a note under section 441 of this title.
 
-### § 443. Permit for dumping; penalty for taking or towing boat or scow without permit
+### § 443. Permit for dumping; penalty for taking or towing boat or scow without permit
 
 In all cases of receiving on board of any scows or boats such forbidden matter or substance as described in section 441 of this title, the owner or master, or person acting in such capacity on board of such scows or boats, before proceeding to take or tow the same to the place of deposit, shall apply for and obtain from the supervisor of the harbor appointed, as provided in section 451 of this title, a permit defining the precise limits within which the discharge of such scows or boats may be made; and it shall not be lawful for the owner or master, or person acting in such capacity, of any tug or towboat to tow or move any scow or boat so loaded with such forbidden matter until such permit shall have been obtained; and every person violating the foregoing provisions of this section shall be deemed guilty of a misdemeanor, and on conviction thereof shall be punished by a fine of not more than $1,000 nor less than $500, and in addition thereto the master of any tug or towboat so offending shall have his license revoked or suspended for a term to be fixed by the judge before whom tried and convicted.
 
-(June 29, 1888, ch. 496, § 3, 25 Stat. 209; Aug. 18, 1894, ch. 299, § 3, 28 Stat. 360; May 28, 1908, ch. 212, § 8, 35 Stat. 426.)
+(June 29, 1888, ch. 496, § 3, 25 Stat. 209; Aug. 18, 1894, ch. 299, § 3, 28 Stat. 360; May 28, 1908, ch. 212, § 8, 35 Stat. 426.)
 
 **Editorial Notes**
 
@@ -2073,13 +2073,13 @@ Section 3 was amended by act Aug. 18, 1894, to read as follows:
 
 > “In all cases of receiving on board of any scows or boats such forbidden matter or substance as herein described, the owner or master, or person acting in such capacity on board of such scows or boats, before proceeding to take or tow the same to the place of deposit, shall apply for and obtain from the supervisor of the harbor appointed hereunder a permit defining the precise limits within which the discharge of such scows or boats may be made; and it shall not be lawful for the owner or master, or person acting in such capacity, of any tug or towboat to tow or move any scow or boat so loaded with such forbidden matter until such permit shall have been obtained; and every person violating the foregoing provisions of this section shall be deemed guilty of a misdemeanor, and on conviction thereof shall be punished by a fine of not more than one thousand nor less than five hundred dollars, and in addition thereto the master of any tug or towboat so offending shall have his license revoked, or suspended for a term to be fixed by the judge before whom tried and convicted. And any deviation from such dumping or discharging place specified in such permit shall be a misdemeanor, and the owner and master, or person acting in the capacity of master, of any scows or boats dumping or discharging such forbidden matter in any place other than that specified in such permit shall be liable to punishment therefor as provided in section one of the said Act of June twenty-ninth, eighteen hundred and eighty-eight [section 441 of this title]; and the owner and master, or person acting in the capacity of master, of any tug or towboat towing such scows or boats shall be liable to equal punishment with the owner and master, or person acting in the capacity of master, of the scows or boats; and further, every scowman or other employee on board of both scows and towboats shall be deemed to have knowledge of the place of dumping specified in such permit, and the owners and masters, or persons acting in the capacity of masters, shall be liable to punishment, as aforesaid, for any unlawful dumping, within the meaning of this Act or of the said Act of June twenty-ninth, eighteen hundred and eighty-eight, which may be caused by the negligence or ignorance of such scowman or other employee; and, further, neither defect in machinery nor avoidable accidents to scows or towboats, nor unfavorable weather, nor improper handling or moving of scows or boats of any kind whatsoever, shall operate to release the owners and masters and employees of scows and towboats from the penalties hereinbefore mentioned. Every scow or boat engaged in the transportation of dredgings, earth, sand, mud, cellar dirt, garbage, or other offensive material of any description shall have its name or number and owner’s name painted in letters and numbers at least fourteen inches long on both sides of the scow or boat; these names and numbers shall be kept distinctly legible at all times, and no scow or boat not so marked shall be used to transport or dump any such material. The supervisor of the harbor of New York, designated as provided in section five of the said Act of June twenty-ninth, eighteen hundred and eighty-eight [section 451 of this title], is authorized and directed to appoint inspectors and deputy inspectors, and, for the purpose of enforcing the provisions of this Act and of the Act aforesaid, and of detecting and bringing to punishment offenders against the same, the said supervisor of the harbor, and the inspectors and deputy inspectors so appointed by him, shall have power and authority: First. To arrest and take into custody, with or without process, any person or persons who may commit any of the acts or offenses prohibited by this section and by the Act of June twenty-ninth, eighteen hundred and eighty-eight, aforesaid, or who may violate any of the provisions of the same: Provided, That no person shall be arrested without process for any offense not committed in the presence of the supervisor or his inspectors or deputy inspectors, or either of them: And provided further, That whenever any such arrest is made the person or persons so arrested shall be brought forthwith before a commissioner, judge, or court of the United States for examination of the offenses alleged against him; and such commissioner, judge, or court shall proceed in respect thereto as authorized by law in case of crimes against the United States. Second. To go on board of any scow or towboat engaged in unlawful dumping of prohibited material, or in moving the same without a permit as required in this section of this Act, and to seize and hold said boats until they are discharged by action of the commissioner, judge, or court of the United States before whom the offending persons are brought. Third. To arrest and take into custody any witness or witnesses to such unlawful dumping of prohibited material, the said witnesses to be released under proper bonds. Fourth. To go on board of any towboat having in tow scows or boats loaded with such prohibited material, and accompany the same to the place of dumping whenever such action appears to be necessary to secure compliance with the requirements of this Act and of the Act aforesaid. Fifth. To enter gas and oil works and all other manufacturing works for the purpose of discovering the disposition made of sludge, acid, or other injurious material, whenever there is good reason to believe that such sludge, acid, or other injurious material is allowed to run into the tidal waters of the harbor in violation of section one of the aforesaid Act of June twenty-ninth, eighteen hundred and eighty-eight [section 441 of this title]. Every person who, directly or indirectly, gives any sum of money or other bribe, present, or reward or makes any offer of the same to any inspector, deputy inspector, or other employee of the office of the supervisor of the harbor with intent to influence such inspector, deputy inspector, or other employee to permit or overlook any violation of the provisions of this section or of the said Act of June twenty-ninth, eighteen hundred and eighty-eight, shall, on conviction thereof, be fined not less than five hundred dollars nor more than one thousand dollars, and be imprisoned not less than six months nor more than one year. Every permit issued in accordance with the provisions of this section of this Act which may not be taken up by an inspector or deputy inspector shall be returned within forty-eight hours after issuance to the office of the supervisor of the harbor; such permit shall bear an indorsement by the master of the towboat, or the person acting in such capacity, stating whether the permit has been used, and if so the time and place of dumping. Any person violating the provisions of this section shall be liable to a fine of not more than five hundred dollars nor less than one hundred dollars.”
 
-Section 3 was further amended by act May 28, 1908, ch. 212, § 8, to read as set forth in this section and sections 444 to 448 of this title.
+Section 3 was further amended by act May 28, 1908, ch. 212, § 8, to read as set forth in this section and sections 444 to 448 of this title.
 
-### § 444. Dumping at other place than designated dumping grounds; penalty; person liable; excuses for deviation
+### § 444. Dumping at other place than designated dumping grounds; penalty; person liable; excuses for deviation
 
 Any deviation from such dumping or discharging place specified in such permit shall be a misdemeanor, and the owner and master, or person acting in the capacity of master, of any scows or boats dumping or discharging such forbidden matter in any place other than that specified in such permit shall be liable to punishment therefor as provided in section 441 of this title; and the owner and master, or person acting in the capacity of master, of any tug or towboat towing such scows or boats shall be liable to equal punishment with the owner and master, or person acting in the capacity of master, of the scows or boats; and, further, every scowman or other employee on board of both scows and towboats shall be deemed to have knowledge of the place of dumping specified in such permit, and the owners and masters, or persons acting in the capacity of masters, shall be liable to punishment, as aforesaid, for any unlawful dumping, within the meaning of this Act and this subchapter, which may be caused by the negligence or ignorance of such scowman or other employee; and, further, neither defect in machinery nor avoidable accidents to scows or towboats, nor unfavorable weather, nor improper handling or moving of scows or boats of any kind whatsoever shall operate to release the owners and master and employees of scows and towboats from the penalties mentioned in section 441 of this title.
 
-(June 29, 1888, ch. 496, § 3, 25 Stat. 209; Aug. 18, 1894, ch. 299, § 3, 28 Stat. 360; May 28, 1908, ch. 212, § 8, 35 Stat. 426.)
+(June 29, 1888, ch. 496, § 3, 25 Stat. 209; Aug. 18, 1894, ch. 299, § 3, 28 Stat. 360; May 28, 1908, ch. 212, § 8, 35 Stat. 426.)
 
 **Editorial Notes**
 
@@ -2091,11 +2091,11 @@ This Act, referred to in text, is act Aug. 18, 1894, ch. 299, 28 Stat. 356, whic
 
 Section was enacted as part of section 3 of act June 29, 1888. Said section 3 of act June 29, 1888, enacted sections 443 to 448 of this title. See Codification note set out under section 443 of this title.
 
-### § 445. Equipment and marking of boats or scows
+### § 445. Equipment and marking of boats or scows
 
 Every scow or boat engaged in the transportation of dredgings, earth, sand, mud, cellar dirt, garbage, or other offensive material of any description shall have its name or number and owner’s name painted in letters and numbers at least fourteen inches long on both sides of the scow or boat; these names and numbers shall be kept distinctly legible at all times, and no scow or boat not so marked shall be used to transport or dump any such material. Each such scow or boat shall be equipped at all times with a life line or rope extending at least the length of and three feet above the deck thereof, such rope to be attached to the coaming thereof, also with a life preserver and a life buoy for each person on board thereof, also with anchor to weigh not less than two hundred and seventy-five pounds, and at least one hundred feet of cable attached thereto; a list of the names of all men employed on any such scow or boat shall be kept by the owner or master thereof and the said list shall be open to the inspection of all parties. Failure to comply with any of the foregoing provisions shall render the owner of such scow or boat liable upon conviction thereof to a penalty of not more than $500: *Provided*, That the requirements in regard to life line or rope contained in this section shall not apply to any scow or boat the deck outside the coaming or rail of which shall not exceed one foot in width: *And provided further*, That on any such scow or boat its name or number and owner’s name painted in letters and numbers, at least fourteen inches long on both ends of such scow or boat, shall be a compliance with the provisions of this section in regard to name, number, and owner’s name.
 
-(June 29, 1888, ch. 496, § 3, 25 Stat. 209; Aug. 18, 1894, ch. 299, § 3, 28 Stat. 360; May 28, 1908, ch. 212, § 8, 35 Stat. 427; Feb. 16, 1909, ch. 132, 35 Stat. 623.)
+(June 29, 1888, ch. 496, § 3, 25 Stat. 209; Aug. 18, 1894, ch. 299, § 3, 28 Stat. 360; May 28, 1908, ch. 212, § 8, 35 Stat. 427; Feb. 16, 1909, ch. 132, 35 Stat. 623.)
 
 **Editorial Notes**
 
@@ -2105,7 +2105,7 @@ Section was enacted as part of section 3 of act June 29, 1888. Said section 3 of
 
 Provisos are from act Feb. 16, 1909.
 
-### § 446. Inspectors; appointment, powers, and duties
+### § 446. Inspectors; appointment, powers, and duties
 
 Each supervisor of a harbor is authorized and directed to appoint inspectors and deputy inspectors, and for the purposes of enforcing this subchapter and the Act of August 18, 1894, entitled “An Act making appropriations for the construction, repair, and preservation of certain public works on rivers and harbors, and for other purposes” (28 Stat. 338), and of detecting and bringing to punishment offenders against the same, the said supervisor of the harbor, and the inspectors and deputy inspectors so appointed by him, shall have power and authority.
 
@@ -2119,7 +2119,7 @@ Fourth. To go on board of any towboat having in tow scows or boats loaded with s
 
 Fifth. To enter gas and oil works and all other manufacturing works for the purpose of discovering the disposition made of sludge, acid, or other injurious material, whenever there is good reason to believe that such sludge, acid, or other injurious material is allowed to run into tidal waters of the harbor in violation of section 441 of this title.
 
-(June 29, 1888, ch. 496, § 3, 25 Stat. 209; Aug. 18, 1894, ch. 299, § 3, 28 Stat. 360; May 28, 1908, ch. 212, § 8, 35 Stat. 427; Pub. L. 85–802, § 1(3), Aug. 28, 1958, 72 Stat. 970; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(June 29, 1888, ch. 496, § 3, 25 Stat. 209; Aug. 18, 1894, ch. 299, § 3, 28 Stat. 360; May 28, 1908, ch. 212, § 8, 35 Stat. 427; Pub. L. 85–802, § 1(3), Aug. 28, 1958, 72 Stat. 970; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Editorial Notes**
 
@@ -2141,17 +2141,17 @@ Section was enacted as part of section 3 of act June 29, 1888. Said section 3 of
 
 **Change of Name**
 
-“Magistrate judge” substituted in text for “magistrate” pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “magistrate” substituted for “commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
+“Magistrate judge” substituted in text for “magistrate” pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “magistrate” substituted for “commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
 
 **Effective Date of 1958 Amendment**
 
 Amendment by Pub. L. 85–802 effective on sixtieth day after Aug. 28, 1958, see section 2 of Pub. L. 85–802, set out as a note under section 441 of this title.
 
-### § 447. Bribery of inspector; penalty
+### § 447. Bribery of inspector; penalty
 
 Every person who, directly or indirectly, gives any sum of money or other bribe, present, or reward, or makes any offer of the same to any inspector, deputy inspector, or other employee of the office of any supervisor of a harbor with intent to influence such inspector, deputy inspector, or other employee to permit or overlook any violation of the provisions of this subchapter, shall, on conviction thereof, be fined not less than $500 nor more than $1,000, and be imprisoned not less than six months nor more than one year.
 
-(June 29, 1888, ch. 496, § 3, 25 Stat. 209; Aug. 18, 1894, ch. 299, § 3, 28 Stat. 360; May 28, 1908, ch. 212, § 8, 35 Stat. 428; Pub. L. 85–802, § 1(4), Aug. 28, 1958, 72 Stat. 970.)
+(June 29, 1888, ch. 496, § 3, 25 Stat. 209; Aug. 18, 1894, ch. 299, § 3, 28 Stat. 360; May 28, 1908, ch. 212, § 8, 35 Stat. 428; Pub. L. 85–802, § 1(4), Aug. 28, 1958, 72 Stat. 970.)
 
 **Editorial Notes**
 
@@ -2169,11 +2169,11 @@ Section was enacted as part of section 3 of act June 29, 1888. Said section 3 of
 
 Amendment by Pub. L. 85–802 effective on sixtieth day after Aug. 28, 1958, see section 2 of Pub. L. 85–802, set out as a note under section 441 of this title.
 
-### § 448. Return of permit; penalty for failure to return
+### § 448. Return of permit; penalty for failure to return
 
 Every permit issued in accordance with the provisions of sections 443 to 448 of this title, which may not be taken up by an inspector or deputy inspector, shall be returned within four days after issuance to the office of the supervisor of the harbor; such permit shall bear an indorsement by the master of the towboat, or the person acting in such capacity, stating whether the permit has been used, and, if so, the time and place of dumping. Any person violating the provisions of this section shall be liable to a fine of not more than $500 nor less than $100.
 
-(June 29, 1888, ch. 496, § 3, 25 Stat. 209; Aug. 18, 1894, ch. 299, § 3, 28 Stat. 360; May 28, 1908, ch. 212, § 8, 35 Stat. 428.)
+(June 29, 1888, ch. 496, § 3, 25 Stat. 209; Aug. 18, 1894, ch. 299, § 3, 28 Stat. 360; May 28, 1908, ch. 212, § 8, 35 Stat. 428.)
 
 **Editorial Notes**
 
@@ -2185,11 +2185,11 @@ Sections 443 to 448 of this title, referred to in text, were in the original “
 
 Section was enacted as part of section 3 of act June 29, 1888. Said section 3 of act June 29, 1888 enacted sections 443 to 448 of this title. See Codification note set out under section 443 of this title.
 
-### § 449. Disposition of dredged matter; persons liable; penalty
+### § 449. Disposition of dredged matter; persons liable; penalty
 
 All mud, dirt, sand, dredgings, and material of every kind and description whatever taken, dredged, or excavated from any slip, basin, or shoal in any harbor subject to this subchapter, and placed on any boat, scow, or vessel for the purpose of being taken or towed upon the waters of that harbor to a place of deposit, shall be deposited and discharged at such place or within such limits as shall be defined and specified by the supervisor of the harbor, as in sections 443 to 448 of this title prescribed, and not otherwise. Every person, firm, or corporation being the owner of any slip, basin, or shoal, from which such mud, dirt, sand, dredgings, and material shall be taken, dredged, or excavated, and every person, firm, or corporation in any manner engaged in the work of dredging or excavating any such slip, basin, or shoal, or of removing such mud, dirt, sand, or dredgings therefrom, shall severally be responsible for the deposit and discharge of all such mud, dirt, sand, or dredgings at such place or within such limits so defined and prescribed by said supervisor of the harbor; and for every violation of the provisions of this section the person offending shall be guilty of an offense, and shall be punished by a fine equal to the sum of $5 for every cubic yard of mud, dirt, sand, dredgings, or material not deposited or discharged as required by this section.
 
-(June 29, 1888, ch. 496, § 4, 25 Stat. 210; Pub. L. 85–802, § 1(5), Aug. 28, 1958, 72 Stat. 970.)
+(June 29, 1888, ch. 496, § 4, 25 Stat. 210; Pub. L. 85–802, § 1(5), Aug. 28, 1958, 72 Stat. 970.)
 
 **Editorial Notes**
 
@@ -2211,11 +2211,11 @@ Section was enacted as part of section 4 of act June 29, 1888, which enacted sec
 
 Amendment by Pub. L. 85–802 effective on sixtieth day after Aug. 28, 1958, see section 2 of Pub. L. 85–802, set out as a note under section 441 of this title.
 
-### § 450. Liability of vessel
+### § 450. Liability of vessel
 
 Any boat or vessel used or employed in violating any provision of this subchapter, shall be liable to the pecuniary penalties imposed thereby, and may be proceeded against, summarily by way of libel in any district court of the United States having jurisdiction thereof.
 
-(June 29, 1888, ch. 496, § 4, 25 Stat. 210.)
+(June 29, 1888, ch. 496, § 4, 25 Stat. 210.)
 
 **Editorial Notes**
 
@@ -2223,11 +2223,11 @@ Any boat or vessel used or employed in violating any provision of this subchapte
 
 Section was enacted as part of section 4 of act June 29, 1888, which enacted sections 449 and 450 of this title.
 
-### § 451. Supervisor of harbor; appointment and duties
+### § 451. Supervisor of harbor; appointment and duties
 
 An officer of the Corps of Engineers shall, for each harbor subject to this subchapter, be designated by the Secretary of the Army as supervisor of the harbor, to act under the direction of the Chief of Engineers in enforcing the provisions of this subchapter, and in detecting offenders against the same. Each such officer shall have personal charge and supervision under the Chief of Engineers, and shall direct the patrol boats and other means to detect and bring to punishment offenders against the provisions of this subchapter.
 
-(June 29, 1888, ch. 496, § 5, 25 Stat. 210; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; June 29, 1949, ch. 278, 63 Stat. 300; July 12, 1952, ch. 707, 66 Stat. 596; Pub. L. 85–802, § 1(6), Aug. 28, 1958, 72 Stat. 970.)
+(June 29, 1888, ch. 496, § 5, 25 Stat. 210; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; June 29, 1949, ch. 278, 63 Stat. 300; July 12, 1952, ch. 707, 66 Stat. 596; Pub. L. 85–802, § 1(6), Aug. 28, 1958, 72 Stat. 970.)
 
 **Editorial Notes**
 
@@ -2249,7 +2249,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 Amendment by Pub. L. 85–802 effective on sixtieth day after Aug. 28, 1958, see section 2 of Pub. L. 85–802, set out as a note under section 441 of this title.
 
-### § 451a. Harbors subject to this subchapter
+### § 451a. Harbors subject to this subchapter
 
 The following harbors shall be subject to this subchapter:
 
@@ -2259,7 +2259,7 @@ The following harbors shall be subject to this subchapter:
 
 **(3)** The harbor of Baltimore.
 
-(June 29, 1888, ch. 496, § 6, 25 Stat. 210; Pub. L. 85–802, § 1(7), Aug. 28, 1958, 72 Stat. 970.)
+(June 29, 1888, ch. 496, § 6, 25 Stat. 210; Pub. L. 85–802, § 1(7), Aug. 28, 1958, 72 Stat. 970.)
 
 **Editorial Notes**
 
@@ -2273,7 +2273,7 @@ The following harbors shall be subject to this subchapter:
 
 Amendment by Pub. L. 85–802 effective on sixtieth day after Aug. 28, 1958, see section 2 of Pub. L. 85–802, set out as a note under section 441 of this title.
 
-### § 451b. Waters included within subchapter
+### § 451b. Waters included within subchapter
 
 For the purposes of this subchapter—
 
@@ -2283,7 +2283,7 @@ For the purposes of this subchapter—
 
 **(3)** The term “harbor of Baltimore” means the tidal waters of the harbor of Baltimore and its adjacent and tributary waters, and so much of Chesapeake Bay and its tributaries as lies within the State of Maryland.
 
-(June 29, 1888, ch. 496, § 7, as added Pub. L. 85–802, § 1(8), Aug. 28, 1958, 72 Stat. 970.)
+(June 29, 1888, ch. 496, § 7, as added Pub. L. 85–802, § 1(8), Aug. 28, 1958, 72 Stat. 970.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2291,7 +2291,7 @@ For the purposes of this subchapter—
 
 Section effective on sixtieth day after Aug. 28, 1958, see section 2 of Pub. L. 85–802, set out as an Effective Date of 1958 Amendment note under section 441 of this title.
 
-### § 452. Taking shellfish or otherwise interfering with navigation in New York Harbor channels; penalty; arrest and procedure
+### § 452. Taking shellfish or otherwise interfering with navigation in New York Harbor channels; penalty; arrest and procedure
 
 It shall be unlawful for any person or persons to engage in fishing or dredging for shellfish in any of the channels leading to and from the harbor of New York, or to interfere in any way with the safe navigation of those channels by ocean steamships and ships of deep draft.
 
@@ -2299,7 +2299,7 @@ Any person or persons violating the foregoing provisions of this section shall b
 
 It shall be the duty of the United States supervisor of the harbor to enforce this section, and the deputy inspectors of the said supervisor shall have authority to arrest and take into custody, with or without process, any person or persons, who may commit any of the acts or offenses prohibited by this section: *Provided*, That no person shall be arrested without process for any offense not committed in the presence of the supervisor or his inspector or deputy inspectors, or either of them: *And provided further*, That whenever any such arrest is made the person or persons so arrested shall be brought forthwith before a magistrate judge, judge, or court of the United States for examination of the offenses alleged against him; and such magistrate judge, judge or court shall proceed in respect thereto as authorized by law in case of crimes against the United States.
 
-(Aug. 18, 1894, ch. 299, § 2, 28 Stat. 360; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(Aug. 18, 1894, ch. 299, § 2, 28 Stat. 360; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Editorial Notes**
 
@@ -2311,13 +2311,13 @@ Section was not enacted as part of act June 29, 1888, ch. 496, 25 Stat. 209, whi
 
 **Change of Name**
 
-“Magistrate judge” substituted in text for “magistrate” pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “magistrate” was substituted for “commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
+“Magistrate judge” substituted in text for “magistrate” pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “magistrate” was substituted for “commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
 
-### § 453. Regulations for navigation of Ambrose Channel; exclusion of tows and sailing vessels
+### § 453. Regulations for navigation of Ambrose Channel; exclusion of tows and sailing vessels
 
 The Secretary of the Army is authorized to make such rules and regulations for the navigation of Ambrose Channel as he may deem necessary or expedient to insure its safe use in all kinds of weather, night and day, for all vessels under control and running under their own power, and to this end he may, in his discretion, forbid its use to tows of every description and to sailing vessels.
 
-(Mar. 4, 1913, ch. 144, § 1, 37 Stat. 803; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Mar. 4, 1913, ch. 144, § 1, 37 Stat. 803; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -2331,13 +2331,13 @@ Section was not enacted as part of act June 29, 1888, ch. 496, 25 Stat. 209, whi
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 454. Consent of Congress to obstruction of waters by New York City
+### § 454. Consent of Congress to obstruction of waters by New York City
 
 The consent of Congress is given to the city of New York, in the State of New York, to obstruct navigation of any river or other waterway which does not form a connecting link between other navigable waters of the United States, and lying wholly within the limits of said city, by closing all or any portion of the same or by building structures in or over the same when the said city shall be lawfully authorized to do so by the State of New York: *Provided, however*, That any such obstruction shall be unlawful unless the location and plans for the proposed work or works before the commencement thereof shall have been filed with and approved by the Secretary of the Army and Chief of Engineers; and when the plans for any such obstruction have been approved by the Chief of Engineers and by the Secretary of the Army it shall not be lawful to deviate from such plans either before or after the completion of such obstruction, unless the modification of such plans has previously been submitted to and received the approval of the Chief of Engineers and the Secretary of the Army: *And provided further*, That the city of New York shall be liable for any damage that may be inflicted upon private property by reason of any of the provisions of this section.
 
 The right to alter, amend, or repeal this section is expressly reserved, and the United States shall incur no liability for the alteration, amendment, or repeal thereof to the city of New York, or to the owner or owners, or any other persons interested in any obstruction which shall have been constructed under its provisions.
 
-(June 25, 1910, ch. 436, §§ 1, 2, 36 Stat. 866, 867; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(June 25, 1910, ch. 436, §§ 1, 2, 36 Stat. 866, 867; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -2353,59 +2353,59 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Transfer of Functions**
 
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
 ## SUBCHAPTER IV—POTOMAC RIVER AND TRIBUTARIES IN DISTRICT OF COLUMBIA
 
-### §§ 461 to 464. Repealed. Mar. 3, 1901, ch. 854, § 1636, 31 Stat. 1434
+### §§ 461 to 464. Repealed. Mar. 3, 1901, ch. 854, § 1636, 31 Stat. 1434
 
-Section 461, act May 19, 1896, ch. 208, § 1, 29 Stat. 126, prohibited deposit of ballast, dirt, ashes or oyster shells into Potomac River except for purpose of making a wharf and then only after approval.
+Section 461, act May 19, 1896, ch. 208, § 1, 29 Stat. 126, prohibited deposit of ballast, dirt, ashes or oyster shells into Potomac River except for purpose of making a wharf and then only after approval.
 
-Section 462, act May 19, 1896, ch. 208, § 2, 29 Stat. 127, prohibited deposit of dead fish, dead animals, fruits, vegetables, ice, snow, filth or trash of any kind into Potomac River.
+Section 462, act May 19, 1896, ch. 208, § 2, 29 Stat. 127, prohibited deposit of dead fish, dead animals, fruits, vegetables, ice, snow, filth or trash of any kind into Potomac River.
 
-Section 463, act May 19, 1896, ch. 208, § 3, 29 Stat. 127, related to penalties.
+Section 463, act May 19, 1896, ch. 208, § 3, 29 Stat. 127, related to penalties.
 
-Section 464, act May 19, 1896, ch. 208, § 4, 29 Stat. 127, provided that none of these provisions be construed to interfere with any work or improvements in harbor or river area.
+Section 464, act May 19, 1896, ch. 208, § 4, 29 Stat. 127, provided that none of these provisions be construed to interfere with any work or improvements in harbor or river area.
 
 ## SUBCHAPTER V—NAVIGABLE WATERS OF MARYLAND
 
-### § 465. Authority to dredge; riparian rights of United States
+### § 465. Authority to dredge; riparian rights of United States
 
 Subject to the provisions of section 403 of this title authority is granted to dredge, without cost to the United States, in the navigable waters of the United States included within the State of Maryland and outside the limits of projects for improvement of navigation facilities approved by Congress, regardless of rights accruing to the United States as riparian owner under the laws of the State of Maryland: *Provided*, That in the opinion of the Chief of Engineers such dredging will improve facilities for navigation.
 
-(July 3, 1930, ch. 847, § 12, 46 Stat. 949.)
+(July 3, 1930, ch. 847, § 12, 46 Stat. 949.)
 
 ## SUBCHAPTER VI—WATER POLLUTION CONTROL
 
-### §§ 466 to 466g. Transferred
+### §§ 466 to 466g. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Sections 466 to 466g of this title were transferred to sections 1151 to 1160 of this title and were subsequently omitted in the general amendment of the Federal Water Pollution Control Act by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816. See section 1251 et seq. of this title.
+Sections 466 to 466g of this title were transferred to sections 1151 to 1160 of this title and were subsequently omitted in the general amendment of the Federal Water Pollution Control Act by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816. See section 1251 et seq. of this title.
 
-Section 466, acts June 30, 1948, ch. 758, § 1, 62 Stat. 1155; July 9, 1956, ch. 518, § 1, 70 Stat. 498; July 20, 1961, Pub. L. 87–88, § 1(a), 75 Stat. 204; Oct. 2, 1965, Pub. L. 89–234, § 1(a), 79 Stat. 903; 1966 Reorg. Plan No. 2, eff. May 10, 1966, §§ 1(a), (e)(1), 5, 31 F.R. 6857, 80 Stat. 1608, which related to Congressional declaration of policy, was transferred to section 1151 of this title.
+Section 466, acts June 30, 1948, ch. 758, § 1, 62 Stat. 1155; July 9, 1956, ch. 518, § 1, 70 Stat. 498; July 20, 1961, Pub. L. 87–88, § 1(a), 75 Stat. 204; Oct. 2, 1965, Pub. L. 89–234, § 1(a), 79 Stat. 903; 1966 Reorg. Plan No. 2, eff. May 10, 1966, §§ 1(a), (e)(1), 5, 31 F.R. 6857, 80 Stat. 1608, which related to Congressional declaration of policy, was transferred to section 1151 of this title.
 
-Section 466–1, act June 30, 1948, ch. 758, § 2, as added Oct. 2, 1965, Pub. L. 89–234, § 2(a), 79 Stat. 903; amended 1966 Reorg. Plan. No. 2, eff. May 10, 1966, § 1(a), (b), 31 F.R. 6857, 80 Stat. 1608; Apr. 3, 1970, Pub. L. 91–224, title I, § 110(a), 84 Stat. 113, which provided for a Federal Water Quality Administration, was transferred to section 1152 of this title.
+Section 466–1, act June 30, 1948, ch. 758, § 2, as added Oct. 2, 1965, Pub. L. 89–234, § 2(a), 79 Stat. 903; amended 1966 Reorg. Plan. No. 2, eff. May 10, 1966, § 1(a), (b), 31 F.R. 6857, 80 Stat. 1608; Apr. 3, 1970, Pub. L. 91–224, title I, § 110(a), 84 Stat. 113, which provided for a Federal Water Quality Administration, was transferred to section 1152 of this title.
 
-Section 466a, acts June 30, 1948, ch. 758, § 3, formerly § 2, 62 Stat. 1155; July 9, 1956, ch. 518, § 1, 70 Stat. 498; July 20, 1961, Pub. L. 87–88, §§ 1(b), 2, 75 Stat. 204; renumbered § 3, Oct. 2, 1965, Pub. L. 89–234, § 2(a), 79 Stat. 903; Nov. 3, 1966, Pub. L. 89–753, title I, § 101, 80 Stat. 1246, which provided for comprehensive water pollution programs, was transferred to section 1153 of this title.
+Section 466a, acts June 30, 1948, ch. 758, § 3, formerly § 2, 62 Stat. 1155; July 9, 1956, ch. 518, § 1, 70 Stat. 498; July 20, 1961, Pub. L. 87–88, §§ 1(b), 2, 75 Stat. 204; renumbered § 3, Oct. 2, 1965, Pub. L. 89–234, § 2(a), 79 Stat. 903; Nov. 3, 1966, Pub. L. 89–753, title I, § 101, 80 Stat. 1246, which provided for comprehensive water pollution programs, was transferred to section 1153 of this title.
 
-Section 466b, acts June 30, 1948, ch. 758, § 4, formerly § 3, 62 Stat. 1157; July 9, 1956, ch. 518, § 1, 70 Stat. 498; July 20, 1961, Pub. L. 87–88, § 1(b), 75 Stat. 204; renumbered § 4, Oct. 2, 1965, Pub. L. 89–234, § 2(a), 79 Stat. 903, which provided for interstate cooperation, was transferred to section 1154 of this title.
+Section 466b, acts June 30, 1948, ch. 758, § 4, formerly § 3, 62 Stat. 1157; July 9, 1956, ch. 518, § 1, 70 Stat. 498; July 20, 1961, Pub. L. 87–88, § 1(b), 75 Stat. 204; renumbered § 4, Oct. 2, 1965, Pub. L. 89–234, § 2(a), 79 Stat. 903, which provided for interstate cooperation, was transferred to section 1154 of this title.
 
-Section 466c, acts June 30, 1948, ch. 758, § 5, formerly § 4, 62 Stat. 1158; July 9, 1956, ch. 518, § 1, 70 Stat. 499; July 20, 1961, Pub. L. 87–88, §§ 1(b), (c), 3, 75 Stat. 204, 205; renumbered § 5, Oct. 2, 1965, Pub. L. 89–234, § 2(a), 79 Stat. 903; 1966 Reorg. Plan No. 2, eff. May 10, 1966, § 1(a), 31 F.R. 6857, 80 Stat. 1608; Nov. 3, 1966, Pub. L. 89–753, title II, § 201(b), (c)(1), 80 Stat. 1247, 1248; Apr. 3, 1970, Pub. L. 91–224, title I, § 105, 84 Stat. 111, which provided for research, experiments, and studies, was transferred to section 1155 of this title.
+Section 466c, acts June 30, 1948, ch. 758, § 5, formerly § 4, 62 Stat. 1158; July 9, 1956, ch. 518, § 1, 70 Stat. 499; July 20, 1961, Pub. L. 87–88, §§ 1(b), (c), 3, 75 Stat. 204, 205; renumbered § 5, Oct. 2, 1965, Pub. L. 89–234, § 2(a), 79 Stat. 903; 1966 Reorg. Plan No. 2, eff. May 10, 1966, § 1(a), 31 F.R. 6857, 80 Stat. 1608; Nov. 3, 1966, Pub. L. 89–753, title II, § 201(b), (c)(1), 80 Stat. 1247, 1248; Apr. 3, 1970, Pub. L. 91–224, title I, § 105, 84 Stat. 111, which provided for research, experiments, and studies, was transferred to section 1155 of this title.
 
-Section 466c–1, act June 30, 1948, ch. 758, § 6, as added Oct. 2, 1965, Pub. L. 89–234, § 3, 79 Stat. 905; amended Nov. 3, 1966, Pub. L. 89–753, title II, § 201(a), 80 Stat. 1246; Apr. 3, 1970, Pub. L. 91–224, title I, § 106, 84 Stat. 113, which provided grants for research and development, was transferred to section 1156 of this title.
+Section 466c–1, act June 30, 1948, ch. 758, § 6, as added Oct. 2, 1965, Pub. L. 89–234, § 3, 79 Stat. 905; amended Nov. 3, 1966, Pub. L. 89–753, title II, § 201(a), 80 Stat. 1246; Apr. 3, 1970, Pub. L. 91–224, title I, § 106, 84 Stat. 113, which provided grants for research and development, was transferred to section 1156 of this title.
 
-Section 466d, acts June 30, 1948, ch. 758, § 7, formerly § 5, 62 Stat. 1158; July 9, 1956, ch. 518, § 1, 70 Stat. 499; June 25, 1959, Pub. L. 86–70, § 28(a), 73 Stat. 148; July 12, 1960, Pub. L. 86–624, § 23(a), 74 Stat. 417; July 20, 1961, Pub. L. 87–88, §§ 1(b), 4(a), (b), 75 Stat. 204, 205; renumbered § 7 and amended Oct. 2, 1965, Pub. L. 89–234, §§ 2(a), 7(a), 79 Stat. 903, 910; Nov. 3, 1966, Pub. L. 89–753, title II, § 202, 80 Stat. 1248, which provided grants for water pollution control programs, was transferred to section 1157 of this title.
+Section 466d, acts June 30, 1948, ch. 758, § 7, formerly § 5, 62 Stat. 1158; July 9, 1956, ch. 518, § 1, 70 Stat. 499; June 25, 1959, Pub. L. 86–70, § 28(a), 73 Stat. 148; July 12, 1960, Pub. L. 86–624, § 23(a), 74 Stat. 417; July 20, 1961, Pub. L. 87–88, §§ 1(b), 4(a), (b), 75 Stat. 204, 205; renumbered § 7 and amended Oct. 2, 1965, Pub. L. 89–234, §§ 2(a), 7(a), 79 Stat. 903, 910; Nov. 3, 1966, Pub. L. 89–753, title II, § 202, 80 Stat. 1248, which provided grants for water pollution control programs, was transferred to section 1157 of this title.
 
-Section 466e, acts June 30, 1948, ch. 758, § 8, formerly § 6, 62 Stat. 1158; July 9, 1956, ch. 518, § 1, 70 Stat. 502; July 20, 1961, Pub. L. 87–88, §§ 1(b), 5, 75 Stat. 204, 206; renumbered § 8 and amended Oct. 2, 1965, Pub. L. 89–234, §§ 2(a), 4, 7(b), 79 Stat. 903, 906, 910; Nov. 3, 1966, Pub. L. 89–753, title II, §§ 203(a), 204, 205, 80 Stat. 1248–1250; Apr. 3, 1970, Pub. L. 91–224, title I, § 111, 84 Stat. 113, which provided grants for construction of sewerage treatment works, was transferred to section 1158 of this title.
+Section 466e, acts June 30, 1948, ch. 758, § 8, formerly § 6, 62 Stat. 1158; July 9, 1956, ch. 518, § 1, 70 Stat. 502; July 20, 1961, Pub. L. 87–88, §§ 1(b), 5, 75 Stat. 204, 206; renumbered § 8 and amended Oct. 2, 1965, Pub. L. 89–234, §§ 2(a), 4, 7(b), 79 Stat. 903, 906, 910; Nov. 3, 1966, Pub. L. 89–753, title II, §§ 203(a), 204, 205, 80 Stat. 1248–1250; Apr. 3, 1970, Pub. L. 91–224, title I, § 111, 84 Stat. 113, which provided grants for construction of sewerage treatment works, was transferred to section 1158 of this title.
 
-Section 466f, acts June 30, 1948, ch. 758, § 9, formerly § 7, 62 Stat. 1159; July 17, 1952, ch. 927, 66 Stat. 755; July 9, 1956, ch. 518, § 1, 70 Stat. 503; July 20, 1961, Pub. L. 87–88, §§ 1(b)–(d), 6(a), (b), 75 Stat. 204, 207; renumbered § 9, Oct. 2, 1965, Pub. L. 89–234, § 2(a), 79 Stat. 903; 1966 Reorg. Plan No. 2, eff. May 10, 1966, § 1(a), (c)(1), (2), 31 F.R. 6857, 80 Stat. 1608, which provided for a Water Pollution Control Advisory Board, was transferred to section 1159 of this title.
+Section 466f, acts June 30, 1948, ch. 758, § 9, formerly § 7, 62 Stat. 1159; July 17, 1952, ch. 927, 66 Stat. 755; July 9, 1956, ch. 518, § 1, 70 Stat. 503; July 20, 1961, Pub. L. 87–88, §§ 1(b)–(d), 6(a), (b), 75 Stat. 204, 207; renumbered § 9, Oct. 2, 1965, Pub. L. 89–234, § 2(a), 79 Stat. 903; 1966 Reorg. Plan No. 2, eff. May 10, 1966, § 1(a), (c)(1), (2), 31 F.R. 6857, 80 Stat. 1608, which provided for a Water Pollution Control Advisory Board, was transferred to section 1159 of this title.
 
-Section 466g, acts June 30, 1948, ch. 758, § 10, formerly § 8, 62 Stat. 1159; July 17, 1952, ch. 927, 66 Stat. 755; July 9, 1956, ch. 518, § 1, 70 Stat. 504; July 20, 1961, Pub. L. 87–88, §§ 1(b), 7, 75 Stat. 204, 207; renumbered § 10 and amended Oct. 2, 1965, Pub. L. 89–234, §§ 2(a), 5, 7(c), (d), 79 Stat. 903, 907, 910; 1966 Reorg. Plan No. 2, eff. May 10, 1966, § 1(a), (d)(1), (2), 31 F.R. 6857, 80 Stat. 1608; Nov. 3, 1966, Pub. L. 89–753, title II, §§ 206–208, 80 Stat. 1250; Apr. 3, 1970, Pub. L. 91–224, title I, § 112, 84 Stat. 114, which provided for enforcement measures against pollution of interstate or navigable waters, was transferred to section 1160 of this title.
+Section 466g, acts June 30, 1948, ch. 758, § 10, formerly § 8, 62 Stat. 1159; July 17, 1952, ch. 927, 66 Stat. 755; July 9, 1956, ch. 518, § 1, 70 Stat. 504; July 20, 1961, Pub. L. 87–88, §§ 1(b), 7, 75 Stat. 204, 207; renumbered § 10 and amended Oct. 2, 1965, Pub. L. 89–234, §§ 2(a), 5, 7(c), (d), 79 Stat. 903, 907, 910; 1966 Reorg. Plan No. 2, eff. May 10, 1966, § 1(a), (d)(1), (2), 31 F.R. 6857, 80 Stat. 1608; Nov. 3, 1966, Pub. L. 89–753, title II, §§ 206–208, 80 Stat. 1250; Apr. 3, 1970, Pub. L. 91–224, title I, § 112, 84 Stat. 114, which provided for enforcement measures against pollution of interstate or navigable waters, was transferred to section 1160 of this title.
 
-### § 466g–1. Controversies involving construction or application of interstate compacts and pollution of waters
+### § 466g–1. Controversies involving construction or application of interstate compacts and pollution of waters
 
 **(a) Jurisdiction of actions by States** The United States district courts shall have original jurisdiction (concurrent with that of the Supreme Court of the United States, and concurrent with that of any other court of the United States or of any State of the United States in matters in which the Supreme Court, or any other court, has original jurisdiction) of any case or controversy—
 
@@ -2429,41 +2429,41 @@ The original jurisdiction conferred upon the district courts by this section sha
 
 The venue of such case or controversy shall be as prescribed by law: *Provided*, That in addition thereto, such case or controversy may be brought in in any judicial district in which the acts of pollution complained of, or any portion thereof, occur, regardless of the place or places of residence, or situs, of any of the parties plaintiff or defendant.
 
-(Pub. L. 87–830, § 1, Oct. 15, 1962, 76 Stat. 957.)
+(Pub. L. 87–830, § 1, Oct. 15, 1962, 76 Stat. 957.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Separability**
 
-Pub. L. 87–830, § 2, Oct. 15, 1962, 76 Stat. 957, provided that: “If any part or application of this Act [this section] should be declared invalid by a court of competent jurisdiction, said invalidity shall not affect the other parts, or the other applications, of said Act.”
+Pub. L. 87–830, § 2, Oct. 15, 1962, 76 Stat. 957, provided that: “If any part or application of this Act [this section] should be declared invalid by a court of competent jurisdiction, said invalidity shall not affect the other parts, or the other applications, of said Act.”
 
-### §§ 466h to 466l. Transferred
+### §§ 466h to 466l. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Sections 466h to 466*l* of this title were transferred to sections 1171 to 1175 of this title and were subsequently omitted in the general amendment of the Federal Water Pollution Control Act by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816. See section 1251 et seq. of this title.
+Sections 466h to 466*l* of this title were transferred to sections 1171 to 1175 of this title and were subsequently omitted in the general amendment of the Federal Water Pollution Control Act by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816. See section 1251 et seq. of this title.
 
-Section 466h, acts June 30, 1948, ch. 758, § 21, formerly § 9, 62 Stat. 1160; July 9, 1956, ch. 518, § 1, 70 Stat. 506; July 20, 1961, Pub. L. 87–88, § 8, 75 Stat. 210; renumbered § 11 and amended Oct. 2, 1965, Pub. L. 89–234, §§ 2(a), 7(e), 79 Stat. 903, 910; 1966 Reorg. Plan No. 2, eff. May 10, 1966, § 1(a), 31 F.R. 6857, 80 Stat. 1608; renumbered § 21 and amended Apr. 3, 1970, Pub. L. 91–224, title I, §§ 102, 103, 84 Stat. 91, 107, which provided for cooperation by all Federal agencies in pollution control, was transferred to section 1171 of this title.
+Section 466h, acts June 30, 1948, ch. 758, § 21, formerly § 9, 62 Stat. 1160; July 9, 1956, ch. 518, § 1, 70 Stat. 506; July 20, 1961, Pub. L. 87–88, § 8, 75 Stat. 210; renumbered § 11 and amended Oct. 2, 1965, Pub. L. 89–234, §§ 2(a), 7(e), 79 Stat. 903, 910; 1966 Reorg. Plan No. 2, eff. May 10, 1966, § 1(a), 31 F.R. 6857, 80 Stat. 1608; renumbered § 21 and amended Apr. 3, 1970, Pub. L. 91–224, title I, §§ 102, 103, 84 Stat. 91, 107, which provided for cooperation by all Federal agencies in pollution control, was transferred to section 1171 of this title.
 
-Section 466i, acts June 30, 1948, ch. 758, § 22, formerly § 10, 62 Stat. 1160; July 9, 1956, ch. 518, § 1, 70 Stat. 506; July 20, 1961, Pub. L. 87–88, § 1(b), (d), (e), 75 Stat. 204; renumbered § 12 and amended Oct. 2, 1965, Pub. L. 89–234, §§ 2(a), 6, 79 Stat. 903, 909; 1966 Reorg. Plan No. 2, eff. May 10, 1966, § 1(a), 31 F.R. 6857, 80 Stat. 1608; renumbered § 22 and amended Apr. 3, 1970, Pub. L. 91–224, title I, §§ 102, 104, 84 Stat. 91, 110, which provided for rules and regulations, was transferred to section 1172 of this title.
+Section 466i, acts June 30, 1948, ch. 758, § 22, formerly § 10, 62 Stat. 1160; July 9, 1956, ch. 518, § 1, 70 Stat. 506; July 20, 1961, Pub. L. 87–88, § 1(b), (d), (e), 75 Stat. 204; renumbered § 12 and amended Oct. 2, 1965, Pub. L. 89–234, §§ 2(a), 6, 79 Stat. 903, 909; 1966 Reorg. Plan No. 2, eff. May 10, 1966, § 1(a), 31 F.R. 6857, 80 Stat. 1608; renumbered § 22 and amended Apr. 3, 1970, Pub. L. 91–224, title I, §§ 102, 104, 84 Stat. 91, 110, which provided for rules and regulations, was transferred to section 1172 of this title.
 
-Section 466j, acts June 30, 1948, ch. 758, § 23, formerly § 11, 62 Stat. 1161; July 9, 1956, ch. 518, § 1, 70 Stat. 506; June 25, 1959, Pub. L. 86–70, § 28(b), 73 Stat. 148; July 12, 1960, Pub. L. 86–624, § 23(b), 74 Stat. 418; July 20, 1961, Pub. L. 87–88, § 9, 75 Stat. 210; renumbered § 13, Oct. 2, 1965, Pub. L. 89–234, § 2(a), 79 Stat. 903; Nov. 3, 1966, Pub. L. 89–753, title II, § 209, 80 Stat. 1251; renumbered § 23, Apr. 3, 1970, Pub. L. 91–224, title I, § 102, 84 Stat. 91, which related to definitions, was transferred to section 1173 of this title.
+Section 466j, acts June 30, 1948, ch. 758, § 23, formerly § 11, 62 Stat. 1161; July 9, 1956, ch. 518, § 1, 70 Stat. 506; June 25, 1959, Pub. L. 86–70, § 28(b), 73 Stat. 148; July 12, 1960, Pub. L. 86–624, § 23(b), 74 Stat. 418; July 20, 1961, Pub. L. 87–88, § 9, 75 Stat. 210; renumbered § 13, Oct. 2, 1965, Pub. L. 89–234, § 2(a), 79 Stat. 903; Nov. 3, 1966, Pub. L. 89–753, title II, § 209, 80 Stat. 1251; renumbered § 23, Apr. 3, 1970, Pub. L. 91–224, title I, § 102, 84 Stat. 91, which related to definitions, was transferred to section 1173 of this title.
 
-Section 466k, act June 30, 1948, ch. 758, § 24, formerly § 12, as added July 9, 1956, ch. 518, § 1, 70 Stat. 506; renumbered § 14, Oct. 2, 1965, Pub. L. 89–234, § 2(a), 79 Stat. 903; renumbered § 24 and amended Apr. 3, 1970, Pub. L. 91–224, title I, §§ 102, 107, 84 Stat. 91, 113, which related to application of other laws, was transferred to section 1174 of this title.
+Section 466k, act June 30, 1948, ch. 758, § 24, formerly § 12, as added July 9, 1956, ch. 518, § 1, 70 Stat. 506; renumbered § 14, Oct. 2, 1965, Pub. L. 89–234, § 2(a), 79 Stat. 903; renumbered § 24 and amended Apr. 3, 1970, Pub. L. 91–224, title I, §§ 102, 107, 84 Stat. 91, 113, which related to application of other laws, was transferred to section 1174 of this title.
 
-Section 466*l*, act June 30, 1948, ch. 758, § 26, formerly § 16, as added Nov. 3, 1966, Pub. L. 89–753, title II, § 210, 80 Stat. 1252; renumbered § 26, Apr. 3, 1970, Pub. L. 91–224, title I, § 102, 84 Stat. 91, which provided for studies and analysis of costs estimates and reports to Congress, was transferred to section 1175 of this title.
+Section 466*l*, act June 30, 1948, ch. 758, § 26, formerly § 16, as added Nov. 3, 1966, Pub. L. 89–753, title II, § 210, 80 Stat. 1252; renumbered § 26, Apr. 3, 1970, Pub. L. 91–224, title I, § 102, 84 Stat. 91, which provided for studies and analysis of costs estimates and reports to Congress, was transferred to section 1175 of this title.
 
-### §§ 466m, 466n. Repealed. Pub. L. 91–224, title I, § 102, Apr. 3, 1970, 84 Stat. 91
+### §§ 466m, 466n. Repealed. Pub. L. 91–224, title I, § 102, Apr. 3, 1970, 84 Stat. 91
 
-Section 466m, act June 30, 1948, ch. 758, § 17, as added Nov. 3, 1966, Pub. L. 89–753, title II, § 210, 80 Stat. 1252, authorized a study by Secretary of the Interior, and a report to Congress not later than July 1, 1967, of the extent of pollution of the navigable waters of the United States from litter and sewage deposited into such waters from watercraft.
+Section 466m, act June 30, 1948, ch. 758, § 17, as added Nov. 3, 1966, Pub. L. 89–753, title II, § 210, 80 Stat. 1252, authorized a study by Secretary of the Interior, and a report to Congress not later than July 1, 1967, of the extent of pollution of the navigable waters of the United States from litter and sewage deposited into such waters from watercraft.
 
-Section 466n, act June 30, 1948, ch. 758, § 18, as added Nov. 3, 1966, Pub. L. 89–753, title II, § 210, 80 Stat. 1252, authorized a study by Secretary of the Interior, and a report to Congress not later than Jan. 30, 1968, relating to incentives, including, but not limited to, tax and other financial incentives, to assist in the construction of industrial anti-pollution facilities.
+Section 466n, act June 30, 1948, ch. 758, § 18, as added Nov. 3, 1966, Pub. L. 89–753, title II, § 210, 80 Stat. 1252, authorized a study by Secretary of the Interior, and a report to Congress not later than Jan. 30, 1968, relating to incentives, including, but not limited to, tax and other financial incentives, to assist in the construction of industrial anti-pollution facilities.
 
 ## SUBCHAPTER VII—DAM INSPECTION PROGRAM
 
-### § 467. Definitions
+### § 467. Definitions
 
 In this subchapter, the following definitions apply:
 
@@ -2579,13 +2579,13 @@ The term “underserved community” means a community with a population of less
 
 The term “United States”, when used in a geographical sense, means all of the States.
 
-(Pub. L. 92–367, § 2, as added Pub. L. 104–303, title II, § 215(c)(4), Oct. 12, 1996, 110 Stat. 3685; amended Pub. L. 107–310, § 3(e)(2), Dec. 2, 2002, 116 Stat. 2451; Pub. L. 113–121, title III, § 3001(a), June 10, 2014, 128 Stat. 1282; Pub. L. 114–322, title IV, § 5006(a), Dec. 16, 2016, 130 Stat. 1892; Pub. L. 116–260, div. AA, title I, § 132(a), Dec. 27, 2020, 134 Stat. 2645; Pub. L. 118–272, div. A, title I, § 1132(a), Jan. 4, 2025, 138 Stat. 3021.)
+(Pub. L. 92–367, § 2, as added Pub. L. 104–303, title II, § 215(c)(4), Oct. 12, 1996, 110 Stat. 3685; amended Pub. L. 107–310, § 3(e)(2), Dec. 2, 2002, 116 Stat. 2451; Pub. L. 113–121, title III, § 3001(a), June 10, 2014, 128 Stat. 1282; Pub. L. 114–322, title IV, § 5006(a), Dec. 16, 2016, 130 Stat. 1892; Pub. L. 116–260, div. AA, title I, § 132(a), Dec. 27, 2020, 134 Stat. 2645; Pub. L. 118–272, div. A, title I, § 1132(a), Jan. 4, 2025, 138 Stat. 3021.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 467, Pub. L. 92–367, § 1, Aug. 8, 1972, 86 Stat. 506; Pub. L. 99–662, title XII, § 1201(a), Nov. 17, 1986, 100 Stat. 4260, defined term “dam” as used in this subchapter, prior to repeal by Pub. L. 104–303, § 215(c)(1).
+A prior section 467, Pub. L. 92–367, § 1, Aug. 8, 1972, 86 Stat. 506; Pub. L. 99–662, title XII, § 1201(a), Nov. 17, 1986, 100 Stat. 4260, defined term “dam” as used in this subchapter, prior to repeal by Pub. L. 104–303, § 215(c)(1).
 
 A prior section 2 of Pub. L. 92–367 was renumbered section 3 by section 215(c)(3) of Pub. L. 104–303 and is classified to section 467a of this title.
 
@@ -2593,59 +2593,59 @@ A prior section 2 of Pub. L. 92–367 was renumbered section 3 by section 215(c)
 
 2025—Pars. (16), (17). Pub. L. 118–272 added par. (16) and redesignated former par. (16) as (17).
 
-2020—Par. (4)(A)(iii). Pub. L. 116–260, § 132(a)(1)(A)(i), added cl. (iii) and struck out former cl. (iii) which read as follows: “has an emergency action plan approved by the relevant State dam safety agency; and”.
+2020—Par. (4)(A)(iii). Pub. L. 116–260, § 132(a)(1)(A)(i), added cl. (iii) and struck out former cl. (iii) which read as follows: “has an emergency action plan approved by the relevant State dam safety agency; and”.
 
-Par. (4)(A)(iv), (v). Pub. L. 116–260, § 132(a)(1)(A)(ii), added cls. (iv) and (v) and struck out former cl. (iv) which read as follows: “the State in which the dam is located determines—
+Par. (4)(A)(iv), (v). Pub. L. 116–260, § 132(a)(1)(A)(ii), added cls. (iv) and (v) and struck out former cl. (iv) which read as follows: “the State in which the dam is located determines—
 
 “(I) fails to meet minimum dam safety standards of the State; and
 
 “(II) poses an unacceptable risk to the public.”
 
-Par. (4)(B)(i). Pub. L. 116–260, § 132(a)(1)(B), inserted “under a hydropower project with an authorized installed capacity of greater than 1.5 megawatts” after “dam”.
+Par. (4)(B)(i). Pub. L. 116–260, § 132(a)(1)(B), inserted “under a hydropower project with an authorized installed capacity of greater than 1.5 megawatts” after “dam”.
 
-Par. (10). Pub. L. 116–260, § 132(a)(2), substituted “Eligible subrecipient” for “Non-Federal sponsor” in heading and “The term ‘eligible subrecipient’ ” for “The term ‘non-Federal sponsor’ ” in introductory provisions.
+Par. (10). Pub. L. 116–260, § 132(a)(2), substituted “Eligible subrecipient” for “Non-Federal sponsor” in heading and “The term ‘eligible subrecipient’ ” for “The term ‘non-Federal sponsor’ ” in introductory provisions.
 
-2016—Par. (4). Pub. L. 114–322, § 5006(a)(2), added par. (4). Former par. (4) redesignated (5).
+2016—Par. (4). Pub. L. 114–322, § 5006(a)(2), added par. (4). Former par. (4) redesignated (5).
 
-Pars. (5) to (9). Pub. L. 114–322, § 5006(a)(1), redesignated pars. (4) to (8) as (5) to (9), respectively. Former par. (9) redesignated (11).
+Pars. (5) to (9). Pub. L. 114–322, § 5006(a)(1), redesignated pars. (4) to (8) as (5) to (9), respectively. Former par. (9) redesignated (11).
 
-Par. (10). Pub. L. 114–322, § 5006(a)(3), added par. (10). Former par. (10) redesignated (13).
+Par. (10). Pub. L. 114–322, § 5006(a)(3), added par. (10). Former par. (10) redesignated (13).
 
-Par. (11). Pub. L. 114–322, § 5006(a)(1), redesignated par. (9) as (11). Former par. (11) redesignated (14).
+Par. (11). Pub. L. 114–322, § 5006(a)(1), redesignated par. (9) as (11). Former par. (11) redesignated (14).
 
-Par. (12). Pub. L. 114–322, § 5006(a)(4), added par. (12). Former par. (12) redesignated (15).
+Par. (12). Pub. L. 114–322, § 5006(a)(4), added par. (12). Former par. (12) redesignated (15).
 
-Pars. (13) to (16). Pub. L. 114–322, § 5006(a)(1), redesignated pars. (10) to (13) as (13) to (16), respectively.
+Pars. (13) to (16). Pub. L. 114–322, § 5006(a)(1), redesignated pars. (10) to (13) as (13) to (16), respectively.
 
-2014—Pub. L. 113–121, § 3001(a)(1), substituted “Administrator” for “Director” wherever appearing.
+2014—Pub. L. 113–121, § 3001(a)(1), substituted “Administrator” for “Director” wherever appearing.
 
-Par. (1). Pub. L. 113–121, § 3001(a)(2)(C), added par. (1). Former par. (1) redesignated (2).
+Par. (1). Pub. L. 113–121, § 3001(a)(2)(C), added par. (1). Former par. (1) redesignated (2).
 
-Par. (2). Pub. L. 113–121, § 3001(a)(2)(B), redesignated par. (1) as (2). Former par. (2) redesignated (3).
+Par. (2). Pub. L. 113–121, § 3001(a)(2)(B), redesignated par. (1) as (2). Former par. (2) redesignated (3).
 
-Par. (3). Pub. L. 113–121, § 3001(a)(2)(A), (B), redesignated par. (2) as (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term ‘Administrator’ means the Administrator of FEMA.”
+Par. (3). Pub. L. 113–121, § 3001(a)(2)(A), (B), redesignated par. (2) as (3) and struck out former par. (3). Prior to amendment, text read as follows: “The term ‘Administrator’ means the Administrator of FEMA.”
 
-2002—Par. (1). Pub. L. 107–310, § 3(e)(2)(A), substituted “section 467f(f)” for “section 467f(h)”.
+2002—Par. (1). Pub. L. 107–310, § 3(e)(2)(A), substituted “section 467f(f)” for “section 467f(h)”.
 
-Par. (12). Pub. L. 107–310, § 3(e)(2)(B), substituted “section 467f(e)” for “section 467f(f)”.
+Par. (12). Pub. L. 107–310, § 3(e)(2)(B), substituted “section 467f(e)” for “section 467f(f)”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–460, § 1(a), Dec. 22, 2006, 120 Stat. 3401, provided that: “This section [amending sections 467d, 467f, and 467j of this title] may be cited as the ‘Dam Safety Act of 2006’.”
+Pub. L. 109–460, § 1(a), Dec. 22, 2006, 120 Stat. 3401, provided that: “This section [amending sections 467d, 467f, and 467j of this title] may be cited as the ‘Dam Safety Act of 2006’.”
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–310, § 1(a), Dec. 2, 2002, 116 Stat. 2450, provided that: “This Act [enacting section 467g–1 of this title and amending this section and sections 467e to 467g and 467h to 467j of this title] may be cited as the ‘Dam Safety and Security Act of 2002’.”
+Pub. L. 107–310, § 1(a), Dec. 2, 2002, 116 Stat. 2450, provided that: “This Act [enacting section 467g–1 of this title and amending this section and sections 467e to 467g and 467h to 467j of this title] may be cited as the ‘Dam Safety and Security Act of 2002’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–662, title XII, § 1206, Nov. 17, 1986, 100 Stat. 4264, provided that: “This title [enacting sections 467f to 467n and 2311 of this title and amending this section and sections 467a and 467b of this title] may be cited as the ‘Dam Safety Act of 1986’.”
+Pub. L. 99–662, title XII, § 1206, Nov. 17, 1986, 100 Stat. 4264, provided that: “This title [enacting sections 467f to 467n and 2311 of this title and amending this section and sections 467a and 467b of this title] may be cited as the ‘Dam Safety Act of 1986’.”
 
 **Short Title**
 
-Pub. L. 92–367, § 1, as added by Pub. L. 104–303, title II, § 215(c)(1), Oct. 12, 1996, 110 Stat. 3685, provided that: “This Act [enacting this subchapter] may be cited as the ‘National Dam Safety Program Act’.”
+Pub. L. 92–367, § 1, as added by Pub. L. 104–303, title II, § 215(c)(1), Oct. 12, 1996, 110 Stat. 3685, provided that: “This Act [enacting this subchapter] may be cited as the ‘National Dam Safety Program Act’.”
 
 **Transfer of Functions**
 
@@ -2655,13 +2655,13 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 **Congressional Statement of Purpose; National Dam Safety Program**
 
-Pub. L. 104–303, title II, § 215(a), Oct. 12, 1996, 110 Stat. 3685, provided that: “The purpose of this section [enacting this section and sections 467d to 467j of this title, amending sections 467a to 467c of this title and section 3802 of Title 25, Indians, repealing former sections 467 and 467d to 467m of this title, and enacting provisions set out as notes under this section] is to reduce the risks to life and property from dam failure in the United States through the establishment and maintenance of an effective national dam safety program to bring together the expertise and resources of the Federal and non-Federal communities in achieving national dam safety hazard reduction. It is not the intent of this section to preempt any other Federal or State authorities nor is it the intent of this section to mandate State participation in the grant assistance program to be established under this section.”
+Pub. L. 104–303, title II, § 215(a), Oct. 12, 1996, 110 Stat. 3685, provided that: “The purpose of this section [enacting this section and sections 467d to 467j of this title, amending sections 467a to 467c of this title and section 3802 of Title 25, Indians, repealing former sections 467 and 467d to 467m of this title, and enacting provisions set out as notes under this section] is to reduce the risks to life and property from dam failure in the United States through the establishment and maintenance of an effective national dam safety program to bring together the expertise and resources of the Federal and non-Federal communities in achieving national dam safety hazard reduction. It is not the intent of this section to preempt any other Federal or State authorities nor is it the intent of this section to mandate State participation in the grant assistance program to be established under this section.”
 
 **Effect on Other Dam Safety Programs**
 
-Pub. L. 104–303, title II, § 215(b), Oct. 12, 1996, 110 Stat. 3685, provided that: “Nothing in this section (including the amendments made by this section) [enacting this section and sections 467d to 467j of this title, amending sections 467a to 467c of this title and section 3802 of Title 25, Indians, repealing former sections 467 and 467d to 467m of this title, and enacting provisions set out as notes under this section] shall preempt or otherwise affect any dam safety program of a Federal agency other than the Federal Emergency Management Agency, including any program that regulates, permits, or licenses any activity affecting a dam.”
+Pub. L. 104–303, title II, § 215(b), Oct. 12, 1996, 110 Stat. 3685, provided that: “Nothing in this section (including the amendments made by this section) [enacting this section and sections 467d to 467j of this title, amending sections 467a to 467c of this title and section 3802 of Title 25, Indians, repealing former sections 467 and 467d to 467m of this title, and enacting provisions set out as notes under this section] shall preempt or otherwise affect any dam safety program of a Federal agency other than the Federal Emergency Management Agency, including any program that regulates, permits, or licenses any activity affecting a dam.”
 
-### § 467a. Inspection of dams
+### § 467a. Inspection of dams
 
 **(a) In general**
 
@@ -2673,13 +2673,13 @@ As soon as practicable, the Secretary of the Army, acting through the Chief of E
 
 **(2)** allow any official of the State dam safety agency to participate in the Federal inspection of the dam.
 
-(Pub. L. 92–367, § 3, formerly § 2, Aug. 8, 1972, 86 Stat. 506; Pub. L. 95–91, title IV, § 402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583; renumbered § 3 and amended Pub. L. 104–303, title II, § 215(c)(3), (5), Oct. 12, 1996, 110 Stat. 3685, 3687; Pub. L. 113–121, title III, § 3001(b), June 10, 2014, 128 Stat. 1282.)
+(Pub. L. 92–367, § 3, formerly § 2, Aug. 8, 1972, 86 Stat. 506; Pub. L. 95–91, title IV, § 402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583; renumbered § 3 and amended Pub. L. 104–303, title II, § 215(c)(3), (5), Oct. 12, 1996, 110 Stat. 3685, 3687; Pub. L. 113–121, title III, § 3001(b), June 10, 2014, 128 Stat. 1282.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Power Act, referred to in subsec. (a), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
+The Federal Power Act, referred to in subsec. (a), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
 
 **Prior Provisions**
 
@@ -2695,13 +2695,13 @@ A prior section 3 of Pub. L. 92–367 was renumbered section 4 and is classified
 
 **Transfer of Functions**
 
-“Federal Energy Regulatory Commission” substituted in text for “Federal Power Commission” on authority of Pub. L. 95–91, title IV, § 402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583, which is classified to section 7172(a)(1)(A) of Title 42, The Public Health and Welfare.
+“Federal Energy Regulatory Commission” substituted in text for “Federal Power Commission” on authority of Pub. L. 95–91, title IV, § 402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583, which is classified to section 7172(a)(1)(A) of Title 42, The Public Health and Welfare.
 
-### § 467b. Investigation reports to Governors
+### § 467b. Investigation reports to Governors
 
 As soon as practicable after inspection of a dam, the Secretary shall notify the Governor of the State in which such dam is located the results of such investigation. In any case in which any hazardous conditions are found during an inspection, upon request by the owner, the Secretary, acting through the Chief of Engineers, may perform detailed engineering studies to determine the structural integrity of the dam, subject to reimbursement of such expense by the owner of such dam. The Secretary shall immediately notify the Governor of any hazardous conditions found during an inspection. The Secretary shall provide advice to the Governor, upon request, relating to timely remedial measures necessary to mitigate or obviate any hazardous conditions found during an inspection.
 
-(Pub. L. 92–367, § 4, formerly § 3, Aug. 8, 1972, 86 Stat. 507; Pub. L. 99–662, title XII, § 1204, Nov. 17, 1986, 100 Stat. 4263; renumbered § 4 and amended Pub. L. 104–303, title II, § 215(c)(3), (6), Oct. 12, 1996, 110 Stat. 3685, 3687.)
+(Pub. L. 92–367, § 4, formerly § 3, Aug. 8, 1972, 86 Stat. 507; Pub. L. 99–662, title XII, § 1204, Nov. 17, 1986, 100 Stat. 4263; renumbered § 4 and amended Pub. L. 104–303, title II, § 215(c)(3), (6), Oct. 12, 1996, 110 Stat. 3685, 3687.)
 
 **Editorial Notes**
 
@@ -2715,11 +2715,11 @@ A prior section 4 of Pub. L. 92–367 was renumbered section 5 and is classified
 
 1986—Pub. L. 99–662 inserted “In any case in which any hazardous conditions are found during an inspection, upon request by the owner, the Secretary, acting through the Chief of Engineers, may perform detailed engineering studies to determine the structural integrity of the dam, subject to reimbursement of such expense by the owner of such dam.”
 
-### § 467c. Determination of danger to human life and property
+### § 467c. Determination of danger to human life and property
 
 For the purpose of determining whether a dam (including the waters impounded by such dam) constitutes a danger to human life or property, the Secretary shall take into consideration the possibility that the dam might be endangered by overtopping, seepage, settlement, erosion, sediment, cracking, earth movement, earthquakes, failure of bulkheads, flashboard, gates on conduits, or other conditions which exist or which might occur in any area in the vicinity of the dam.
 
-(Pub. L. 92–367, § 5, formerly § 4, Aug. 8, 1972, 86 Stat. 507; renumbered § 5 and amended Pub. L. 104–303, title II, § 215(c)(3), (7), Oct. 12, 1996, 110 Stat. 3685, 3687.)
+(Pub. L. 92–367, § 5, formerly § 4, Aug. 8, 1972, 86 Stat. 507; renumbered § 5 and amended Pub. L. 104–303, title II, § 215(c)(3), (7), Oct. 12, 1996, 110 Stat. 3685, 3687.)
 
 **Editorial Notes**
 
@@ -2731,7 +2731,7 @@ A prior section 5 of Pub. L. 92–367 was classified to section 467d of this tit
 
 1996—Pub. L. 104–303 inserted section catchline.
 
-### § 467d. National inventory of dams and low-head dams
+### § 467d. National inventory of dams and low-head dams
 
 **(a) In general**
 
@@ -2769,13 +2769,13 @@ Nothing in this section provides authority to the Secretary to carry out an acti
 
 In this section, the term “low-head dam” means a river-wide artificial barrier that generally spans a stream channel, blocking the waterway and creating a backup of water behind the barrier, with a drop off over the wall of not less than 6 inches and not more than 25 feet.
 
-(Pub. L. 92–367, § 6, as added Pub. L. 104–303, title II, § 215(c)(8), Oct. 12, 1996, 110 Stat. 3687; amended Pub. L. 109–460, § 1(b), Dec. 22, 2006, 120 Stat. 3401; Pub. L. 118–272, div. A, title I, § 1132(b), Jan. 4, 2025, 138 Stat. 3021.)
+(Pub. L. 92–367, § 6, as added Pub. L. 104–303, title II, § 215(c)(8), Oct. 12, 1996, 110 Stat. 3687; amended Pub. L. 109–460, § 1(b), Dec. 22, 2006, 120 Stat. 3401; Pub. L. 118–272, div. A, title I, § 1132(b), Jan. 4, 2025, 138 Stat. 3021.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 467d, Pub. L. 92–367, § 5, Aug. 8, 1972, 86 Stat. 507, directed Secretary report to Congress on or before July 1, 1974, on activities under this subchapter, including in report an inventory of dams in the United States, a review of each inspection made, recommendations to State Governors and implementation of those recommendations, recommendations for comprehensive national program for inspection and safety regulation, and recommendations on responsibilities which should be assumed by Federal, State, and local governments and by public and private interests, prior to repeal by Pub. L. 104–303, title II, § 215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
+A prior section 467d, Pub. L. 92–367, § 5, Aug. 8, 1972, 86 Stat. 507, directed Secretary report to Congress on or before July 1, 1974, on activities under this subchapter, including in report an inventory of dams in the United States, a review of each inspection made, recommendations to State Governors and implementation of those recommendations, recommendations for comprehensive national program for inspection and safety regulation, and recommendations on responsibilities which should be assumed by Federal, State, and local governments and by public and private interests, prior to repeal by Pub. L. 104–303, title II, § 215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
 
 A prior section 6 of Pub. L. 92–367 was classified to section 467e of this title prior to repeal by Pub. L. 104–303.
 
@@ -2785,7 +2785,7 @@ A prior section 6 of Pub. L. 92–367 was classified to section 467e of this tit
 
 2006—Pub. L. 109–460 amended section generally. Prior to amendment, section read as follows: “The Secretary of the Army, acting through the Chief of Engineers, may maintain and periodically publish updated information on the inventory of dams in the United States.”
 
-### § 467e. Interagency Committee on Dam Safety
+### § 467e. Interagency Committee on Dam Safety
 
 **(a) Establishment** There is established an Interagency Committee on Dam Safety—
 
@@ -2797,13 +2797,13 @@ A prior section 6 of Pub. L. 92–367 was classified to section 467e of this tit
 
 ICODS shall encourage the establishment and maintenance of effective Federal programs, policies, and guidelines intended to enhance dam safety for the protection of human life and property through coordination and information exchange among Federal agencies concerning implementation of the Federal Guidelines for Dam Safety.
 
-(Pub. L. 92–367, § 7, as added Pub. L. 104–303, title II, § 215(c)(8), Oct. 12, 1996, 110 Stat. 3687; amended Pub. L. 107–310, § 2, Dec. 2, 2002, 116 Stat. 2450; Pub. L. 113–121, title III, § 3001(a)(1), June 10, 2014, 128 Stat. 1282.)
+(Pub. L. 92–367, § 7, as added Pub. L. 104–303, title II, § 215(c)(8), Oct. 12, 1996, 110 Stat. 3687; amended Pub. L. 107–310, § 2, Dec. 2, 2002, 116 Stat. 2450; Pub. L. 113–121, title III, § 3001(a)(1), June 10, 2014, 128 Stat. 1282.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 467e, Pub. L. 92–367, § 6, Aug. 8, 1972, 86 Stat. 507, directed that existing liabilities and obligations be unaffected, prior to repeal by Pub. L. 104–303, title II, § 215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
+A prior section 467e, Pub. L. 92–367, § 6, Aug. 8, 1972, 86 Stat. 507, directed that existing liabilities and obligations be unaffected, prior to repeal by Pub. L. 104–303, title II, § 215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
 
 A prior section 7 of Pub. L. 92–367 was classified to section 467f of this title prior to repeal by Pub. L. 104–303.
 
@@ -2825,7 +2825,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Administrator of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 467f. National dam safety program
+### § 467f. National dam safety program
 
 **(a) In general** The Administrator, in consultation with ICODS and State dam safety agencies, and the Board shall establish and maintain, in accordance with this section, a coordinated national dam safety program. The Program shall—
 
@@ -2901,9 +2901,9 @@ The public awareness activity shall provide for the education of the public, inc
 
 **(1) In general**
 
-To encourage the establishment and maintenance of effective State programs intended to ensure dam safety, to protect human life and property, and to improve State dam safety programs, the Administrator shall provide assistance with amounts made available under section 467j 1
+To encourage the establishment and maintenance of effective State programs intended to ensure dam safety, to protect human life and property, and to improve State dam safety programs, the Administrator shall provide assistance with amounts made available under section 467j 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title to assist States in establishing, maintaining, and improving dam safety programs in accordance with the criteria specified in paragraph (2).
 
@@ -2953,9 +2953,9 @@ For a State to be eligible for assistance under this subsection, State appropria
 
 **(3) Work plans**
 
-The Administrator shall enter into a 2
+The Administrator shall enter into a 2
 
-<sup>2</sup>  So in original. Probably should be “an”.
+<sup>2</sup> So in original. Probably should be “an”.
 
 agreement with each State receiving assistance under paragraph (2) to develop a work plan necessary for the State dam safety program to reach a level of program performance specified in the agreement.
 
@@ -3049,17 +3049,17 @@ To the extent amounts are made available in advance in appropriations Acts, each
 
 Chapter 10 of title 5 shall not apply to the Board.
 
-(Pub. L. 92–367, § 8, as added Pub. L. 104–303, title II, § 215(c)(8), Oct. 12, 1996, 110 Stat. 3688; amended Pub. L. 107–310, § 3(a)–(e)(1), (f), (g), Dec. 2, 2002, 116 Stat. 2450, 2451; Pub. L. 109–460, § 1(c), Dec. 22, 2006, 120 Stat. 3401; Pub. L. 113–121, title III, § 3001(a)(1), (c), June 10, 2014, 128 Stat. 1282; Pub. L. 117–286, § 4(a)(198), Dec. 27, 2022, 136 Stat. 4327.)
+(Pub. L. 92–367, § 8, as added Pub. L. 104–303, title II, § 215(c)(8), Oct. 12, 1996, 110 Stat. 3688; amended Pub. L. 107–310, § 3(a)–(e)(1), (f), (g), Dec. 2, 2002, 116 Stat. 2450, 2451; Pub. L. 109–460, § 1(c), Dec. 22, 2006, 120 Stat. 3401; Pub. L. 113–121, title III, § 3001(a)(1), (c), June 10, 2014, 128 Stat. 1282; Pub. L. 117–286, § 4(a)(198), Dec. 27, 2022, 136 Stat. 4327.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 467j of this title, referred to in subsec. (e)(1), was in the original “section 13” and was translated as meaning section 13 of Pub. L. 92–367 prior to its redesignation as section 14 by Pub. L. 113–121, § 3001(d)(1).
+Section 467j of this title, referred to in subsec. (e)(1), was in the original “section 13” and was translated as meaning section 13 of Pub. L. 92–367 prior to its redesignation as section 14 by Pub. L. 113–121, § 3001(d)(1).
 
 **Prior Provisions**
 
-A prior section 467f, Pub. L. 92–367, § 7, as added Pub. L. 99–662, title XII, § 1201(b), Nov. 17, 1986, 100 Stat. 4260; amended Pub. L. 102–580, title II, § 209(a), Oct. 31, 1992, 106 Stat. 4830, related to funding for State dam safety programs, prior to repeal by Pub. L. 104–303, title II, § 215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
+A prior section 467f, Pub. L. 92–367, § 7, as added Pub. L. 99–662, title XII, § 1201(b), Nov. 17, 1986, 100 Stat. 4260; amended Pub. L. 102–580, title II, § 209(a), Oct. 31, 1992, 106 Stat. 4830, related to funding for State dam safety programs, prior to repeal by Pub. L. 104–303, title II, § 215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
 
 A prior section 8 of Pub. L. 92–367 was classified to section 467g of this title prior to repeal by Pub. L. 104–303.
 
@@ -3067,27 +3067,27 @@ A prior section 8 of Pub. L. 92–367 was classified to section 467g of this tit
 
 2022—Subsec. (f)(9). Pub. L. 117–286 substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
-2014—Pub. L. 113–121, § 3001(a)(1), substituted “Administrator” for “Director” wherever appearing.
+2014—Pub. L. 113–121, § 3001(a)(1), substituted “Administrator” for “Director” wherever appearing.
 
-Subsec. (c)(4). Pub. L. 113–121, § 3001(c)(1), added par. (4) and struck out former par. (4) which read as follows: “develop and encourage public awareness projects to increase public acceptance and support of State dam safety programs;”.
+Subsec. (c)(4). Pub. L. 113–121, § 3001(c)(1), added par. (4) and struck out former par. (4) which read as follows: “develop and encourage public awareness projects to increase public acceptance and support of State dam safety programs;”.
 
-Subsec. (f)(4). Pub. L. 113–121, § 3001(c)(2), inserted “, representatives from nongovernmental organizations,” after “State agencies”.
+Subsec. (f)(4). Pub. L. 113–121, § 3001(c)(2), inserted “, representatives from nongovernmental organizations,” after “State agencies”.
 
-2006—Subsec. (b)(1). Pub. L. 109–460, § 1(c)(1), substituted “performance measures, and target dates toward effectively administering this subchapter in order to” for “and target dates to”.
+2006—Subsec. (b)(1). Pub. L. 109–460, § 1(c)(1), substituted “performance measures, and target dates toward effectively administering this subchapter in order to” for “and target dates to”.
 
-Subsec. (e)(2)(A). Pub. L. 109–460, § 1(c)(2)(A), struck out “substantially” after “to include” in introductory provisions.
+Subsec. (e)(2)(A). Pub. L. 109–460, § 1(c)(2)(A), struck out “substantially” after “to include” in introductory provisions.
 
-Subsec. (e)(2)(A)(iv) to (vi). Pub. L. 109–460, § 1(c)(2)(B), (C), added cl. (iv) and redesignated former cls. (iv) and (v) as (v) and (vi), respectively. Former cl. (vi) redesignated (vii).
+Subsec. (e)(2)(A)(iv) to (vi). Pub. L. 109–460, § 1(c)(2)(B), (C), added cl. (iv) and redesignated former cls. (iv) and (v) as (v) and (vi), respectively. Former cl. (vi) redesignated (vii).
 
-Subsec. (e)(2)(A)(vii). Pub. L. 109–460, § 1(c)(2)(B), (D), redesignated cl. (vi) as (vii) and inserted “install and monitor instrumentation,” after “remedial work,”. Former cl. (vii) redesignated (viii).
+Subsec. (e)(2)(A)(vii). Pub. L. 109–460, § 1(c)(2)(B), (D), redesignated cl. (vi) as (vii) and inserted “install and monitor instrumentation,” after “remedial work,”. Former cl. (vii) redesignated (viii).
 
-Subsec. (e)(2)(A)(viii) to (xi). Pub. L. 109–460, § 1(c)(2)(B), redesignated cls. (vii) to (x) as (viii) to (xi), respectively.
+Subsec. (e)(2)(A)(viii) to (xi). Pub. L. 109–460, § 1(c)(2)(B), redesignated cls. (vii) to (x) as (viii) to (xi), respectively.
 
-2002—Subsec. (a)(3)(B). Pub. L. 107–310, § 3(a)(1), substituted “strategic plan described in subsection (b)” for “implementation plan described in subsection (e)”.
+2002—Subsec. (a)(3)(B). Pub. L. 107–310, § 3(a)(1), substituted “strategic plan described in subsection (b)” for “implementation plan described in subsection (e)”.
 
-Subsec. (a)(3)(C). Pub. L. 107–310, § 3(a)(2), substituted “subsection (e)” for “subsection (f)”.
+Subsec. (a)(3)(C). Pub. L. 107–310, § 3(a)(2), substituted “subsection (e)” for “subsection (f)”.
 
-Subsec. (b). Pub. L. 107–310, § 3(b), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The Director shall—
+Subsec. (b). Pub. L. 107–310, § 3(b), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The Director shall—
 
 “(1) not later than 270 days after October 12, 1996, develop the implementation plan described in subsection (e) of this section;
 
@@ -3101,55 +3101,55 @@ Subsec. (b). Pub. L. 107–310, § 3(b), amended heading and text of subsec. (
 
 “(C) to the extent feasible, provide a method for cooperation and coordination with, and assistance to, interested governmental entities in all States.”
 
-Subsec. (c)(7). Pub. L. 107–310, § 3(c), added par. (7).
+Subsec. (c)(7). Pub. L. 107–310, § 3(c), added par. (7).
 
-Subsec. (d)(3)(A). Pub. L. 107–310, § 3(d), substituted “and shall be exercised by chairing the Board to coordinate national efforts to improve the safety of the dams in the United States” for “and shall be exercised by chairing ICODS to coordinate Federal efforts in cooperation with State dam safety officials”.
+Subsec. (d)(3)(A). Pub. L. 107–310, § 3(d), substituted “and shall be exercised by chairing the Board to coordinate national efforts to improve the safety of the dams in the United States” for “and shall be exercised by chairing ICODS to coordinate Federal efforts in cooperation with State dam safety officials”.
 
-Subsec. (e). Pub. L. 107–310, § 3(e)(1), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “The Director shall—
+Subsec. (e). Pub. L. 107–310, § 3(e)(1), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “The Director shall—
 
 “(1) develop an implementation plan for the Program that shall set, through fiscal year 2002, year-by-year targets that demonstrate improvements in dam safety; and
 
 “(2) recommend appropriate roles for Federal agencies and for State and local units of government, individuals, and private organizations in carrying out the implementation plan.”
 
-Subsec. (e)(1). Pub. L. 107–310, § 3(f)(1), substituted “the Director shall provide assistance with amounts made available under section 467j of this title to assist States in establishing, maintaining, and improving dam safety programs in accordance with the criteria specified in paragraph (2).” for “the Director shall provide assistance with amounts made available under section 467j of this title to assist States in establishing and maintaining dam safety programs—
+Subsec. (e)(1). Pub. L. 107–310, § 3(f)(1), substituted “the Director shall provide assistance with amounts made available under section 467j of this title to assist States in establishing, maintaining, and improving dam safety programs in accordance with the criteria specified in paragraph (2).” for “the Director shall provide assistance with amounts made available under section 467j of this title to assist States in establishing and maintaining dam safety programs—
 
 “(A) in accordance with the criteria specified in paragraph (2); and
 
 “(B) in accordance with more advanced requirements and standards established by the Board and the Director with the assistance of established criteria such as the Model State Dam Safety Program published by FEMA, numbered 123 and dated April 1987, and amendments to the Model State Dam Safety Program.”
 
-Subsec. (e)(2). Pub. L. 107–310, § 3(f)(2)(A), in introductory provisions, struck out “primary” after “For a State to be eligible for” and “, and for a State to be eligible for advanced assistance under this subsection, a State dam safety program must meet the following criteria and budgeting requirement and be working toward meeting the advanced requirements and standards established under paragraph (1)(B)” before colon.
+Subsec. (e)(2). Pub. L. 107–310, § 3(f)(2)(A), in introductory provisions, struck out “primary” after “For a State to be eligible for” and “, and for a State to be eligible for advanced assistance under this subsection, a State dam safety program must meet the following criteria and budgeting requirement and be working toward meeting the advanced requirements and standards established under paragraph (1)(B)” before colon.
 
-Subsec. (e)(2)(A). Pub. L. 107–310, § 3(f)(2)(B)(i), substituted “A State” for “For a State to be eligible for assistance under this subsection, a State” in introductory provisions.
+Subsec. (e)(2)(A). Pub. L. 107–310, § 3(f)(2)(B)(i), substituted “A State” for “For a State to be eligible for assistance under this subsection, a State” in introductory provisions.
 
-Subsec. (e)(2)(A)(vi). Pub. L. 107–310, § 3(f)(2)(B)(ii), inserted “improve security,” before “revise operating procedures,”.
+Subsec. (e)(2)(A)(vi). Pub. L. 107–310, § 3(f)(2)(B)(ii), inserted “improve security,” before “revise operating procedures,”.
 
-Subsec. (e)(3). Pub. L. 107–310, § 3(f)(3), substituted “agreement” for “contract” in two places.
+Subsec. (e)(3). Pub. L. 107–310, § 3(f)(3), substituted “agreement” for “contract” in two places.
 
-Subsec. (f). Pub. L. 107–310, § 3(e)(1), redesignated subsec. (h) as (f). Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 107–310, § 3(e)(1), redesignated subsec. (h) as (f). Former subsec. (f) redesignated (e).
 
-Subsec. (f)(1). Pub. L. 107–310, § 3(g)(1), substituted “The Director shall establish” for “The Director may establish” and “to monitor the safety of dams in the United States, to monitor State implementation of this section, and to advise the Director on national dam safety policy” for “to monitor State implementation of this section”.
+Subsec. (f)(1). Pub. L. 107–310, § 3(g)(1), substituted “The Director shall establish” for “The Director may establish” and “to monitor the safety of dams in the United States, to monitor State implementation of this section, and to advise the Director on national dam safety policy” for “to monitor State implementation of this section”.
 
-Subsec. (f)(3). Pub. L. 107–310, § 3(g)(2)(A), (B), substituted “Voting membership” for “Membership” in heading and “11 voting members” for “11 members” in introductory provisions.
+Subsec. (f)(3). Pub. L. 107–310, § 3(g)(2)(A), (B), substituted “Voting membership” for “Membership” in heading and “11 voting members” for “11 members” in introductory provisions.
 
-Subsec. (f)(3)(F), (G). Pub. L. 107–310, § 3(g)(2)(C), added subpars. (F) and (G) and struck out former subpars. (F) and (G) which read as follows:
+Subsec. (f)(3)(F), (G). Pub. L. 107–310, § 3(g)(2)(C), added subpars. (F) and (G) and struck out former subpars. (F) and (G) which read as follows:
 
 “(F) 5 members shall be selected by the Director from among dam safety officials of States; and
 
 “(G) 1 member shall be selected by the Director to represent the United States Committee on Large Dams.”
 
-Subsec. (f)(4) to (6). Pub. L. 107–310, § 3(g)(3)(B), added pars. (4) to (6). Former pars. (4) to (6) redesignated (7) to (9), respectively.
+Subsec. (f)(4) to (6). Pub. L. 107–310, § 3(g)(3)(B), added pars. (4) to (6). Former pars. (4) to (6) redesignated (7) to (9), respectively.
 
-Subsec. (f)(7). Pub. L. 107–310, § 3(g)(3)(A), redesignated par. (4) as (7).
+Subsec. (f)(7). Pub. L. 107–310, § 3(g)(3)(A), redesignated par. (4) as (7).
 
-Subsec. (f)(8). Pub. L. 107–310, § 3(g)(4), added par. (8) and struck out heading and text of former par. (8). Text read as follows: “Each member of the Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, while away from the home or regular place of business of the member in the performance of services for the Board.”
+Subsec. (f)(8). Pub. L. 107–310, § 3(g)(4), added par. (8) and struck out heading and text of former par. (8). Text read as follows: “Each member of the Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, while away from the home or regular place of business of the member in the performance of services for the Board.”
 
-Pub. L. 107–310, § 3(g)(3)(A), redesignated par. (5) as (8).
+Pub. L. 107–310, § 3(g)(3)(A), redesignated par. (5) as (8).
 
-Subsec. (f)(9). Pub. L. 107–310, § 3(g)(3)(A), redesignated par. (6) as (9).
+Subsec. (f)(9). Pub. L. 107–310, § 3(g)(3)(A), redesignated par. (6) as (9).
 
-Subsec. (g). Pub. L. 107–310, § 3(e)(1), struck out heading and text of subsec. (g). Text read as follows: “At the request of any State that has or intends to develop a State dam safety program, the Director shall provide training for State dam safety staff and inspectors.”
+Subsec. (g). Pub. L. 107–310, § 3(e)(1), struck out heading and text of subsec. (g). Text read as follows: “At the request of any State that has or intends to develop a State dam safety program, the Director shall provide training for State dam safety staff and inspectors.”
 
-Subsec. (h). Pub. L. 107–310, § 3(e)(1), redesignated subsec. (h) as (f).
+Subsec. (h). Pub. L. 107–310, § 3(e)(1), redesignated subsec. (h) as (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3159,7 +3159,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Administrator of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 467f–1. Lock and dam security
+### § 467f–1. Lock and dam security
 
 **(a) Standards**
 
@@ -3177,7 +3177,7 @@ The Secretary may enter into a cooperative agreement with a nonprofit alliance o
 
 There is authorized to be appropriated $3,000,000 to carry out this section.
 
-(Pub. L. 110–114, title V, § 5024, Nov. 8, 2007, 121 Stat. 1203.)
+(Pub. L. 110–114, title V, § 5024, Nov. 8, 2007, 121 Stat. 1203.)
 
 **Editorial Notes**
 
@@ -3191,7 +3191,7 @@ Section was enacted as part of the Water Resources Development Act of 2007, and 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 
-### § 467f–2. Rehabilitation of high hazard potential dams
+### § 467f–2. Rehabilitation of high hazard potential dams
 
 **(a) Establishment of program**
 
@@ -3369,7 +3369,7 @@ A contract awarded in accordance with paragraph (1) shall not be considered to c
 
 **(4)** $60,000,000 for each of fiscal years 2021 through 2026.
 
-(Pub. L. 92–367, § 8A, as added Pub. L. 114–322, title IV, § 5006(b), Dec. 16, 2016, 130 Stat. 1893; amended Pub. L. 116–260, div. AA, title I, § 132(b), Dec. 27, 2020, 134 Stat. 2645; Pub. L. 118–272, div. A, title I, § 1132(c), Jan. 4, 2025, 138 Stat. 3022.)
+(Pub. L. 92–367, § 8A, as added Pub. L. 114–322, title IV, § 5006(b), Dec. 16, 2016, 130 Stat. 1893; amended Pub. L. 116–260, div. AA, title I, § 132(b), Dec. 27, 2020, 134 Stat. 2645; Pub. L. 118–272, div. A, title I, § 1132(c), Jan. 4, 2025, 138 Stat. 3022.)
 
 **Editorial Notes**
 
@@ -3379,55 +3379,55 @@ The Disaster Mitigation Act of 2000, referred to in subsec. (d)(2)(B)(ii), is Pu
 
 **Amendments**
 
-2025—Subsec. (c)(2)(C). Pub. L. 118–272, § 1132(c)(1), added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows: “As part of a grant agreement under subparagraph (B), the Administrator shall require that each eligible subrecipient to which the State awards a grant under this section provides an assurance, with respect to the dam to be rehabilitated by the eligible subrecipient, that the dam owner will carry out a plan for maintenance of the dam during the expected life of the dam.”
+2025—Subsec. (c)(2)(C). Pub. L. 118–272, § 1132(c)(1), added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows: “As part of a grant agreement under subparagraph (B), the Administrator shall require that each eligible subrecipient to which the State awards a grant under this section provides an assurance, with respect to the dam to be rehabilitated by the eligible subrecipient, that the dam owner will carry out a plan for maintenance of the dam during the expected life of the dam.”
 
-Subsec. (d)(2)(C). Pub. L. 118–272, § 1132(c)(2), substituted “for a project not including removal, obtain a commitment from the dam owner” for “commit”.
+Subsec. (d)(2)(C). Pub. L. 118–272, § 1132(c)(2), substituted “for a project not including removal, obtain a commitment from the dam owner” for “commit”.
 
-Subsec. (e). Pub. L. 118–272, § 1132(c)(3), added subsec. (e) and struck out former subsec. (e) which related to floodplain management plans to reduce impacts of future flood events in areas protected by projects.
+Subsec. (e). Pub. L. 118–272, § 1132(c)(3), added subsec. (e) and struck out former subsec. (e) which related to floodplain management plans to reduce impacts of future flood events in areas protected by projects.
 
-Subsec. (g)(1)(A). Pub. L. 118–272, § 1132(c)(4)(A), substituted “Except as provided in subparagraph (C), any” for “Any”.
+Subsec. (g)(1)(A). Pub. L. 118–272, § 1132(c)(4)(A), substituted “Except as provided in subparagraph (C), any” for “Any”.
 
-Subsec. (g)(1)(C). Pub. L. 118–272, § 1132(c)(4)(B), added subpar. (C).
+Subsec. (g)(1)(C). Pub. L. 118–272, § 1132(c)(4)(B), added subpar. (C).
 
-2020—Subsec. (a). Pub. L. 116–260, § 132(b)(1), substituted “to States with dam safety programs” for “to non-Federal sponsors”.
+2020—Subsec. (a). Pub. L. 116–260, § 132(b)(1), substituted “to States with dam safety programs” for “to non-Federal sponsors”.
 
-Subsec. (b). Pub. L. 116–260, § 132(b)(2), substituted “to a State may be used by the State to award grants to eligible subrecipients for” for “a project may be used for” in introductory provisions.
+Subsec. (b). Pub. L. 116–260, § 132(b)(2), substituted “to a State may be used by the State to award grants to eligible subrecipients for” for “a project may be used for” in introductory provisions.
 
-Subsec. (c)(1)(A). Pub. L. 116–260, § 132(b)(3)(A), substituted “State” for “non-Federal sponsor”.
+Subsec. (c)(1)(A). Pub. L. 116–260, § 132(b)(3)(A), substituted “State” for “non-Federal sponsor”.
 
-Subsec. (c)(2)(A). Pub. L. 116–260, § 132(b)(3)(B)(i), substituted “eligible high hazard potential dams to a State” for “an eligible high hazard potential dam to a non-Federal sponsor”.
+Subsec. (c)(2)(A). Pub. L. 116–260, § 132(b)(3)(B)(i), substituted “eligible high hazard potential dams to a State” for “an eligible high hazard potential dam to a non-Federal sponsor”.
 
-Subsec. (c)(2)(B). Pub. L. 116–260, § 132(b)(3)(B)(ii), in heading, substituted “Grant” for “Project grant” and, in text, substituted “grant agreement with the State” for “project grant agreement with the non-Federal sponsor” and “projects for which the grant is awarded,” for “project,”.
+Subsec. (c)(2)(B). Pub. L. 116–260, § 132(b)(3)(B)(ii), in heading, substituted “Grant” for “Project grant” and, in text, substituted “grant agreement with the State” for “project grant agreement with the non-Federal sponsor” and “projects for which the grant is awarded,” for “project,”.
 
-Subsec. (c)(2)(C). Pub. L. 116–260, § 132(b)(3)(B)(iii), amended subpar. (C) generally. Prior to amendment, text read as follows: “As part of a project grant agreement under subparagraph (B), the Administrator shall require the non-Federal sponsor to provide an assurance, with respect to the dam to be rehabilitated under the project, that the owner of the dam has developed and will carry out a plan for maintenance of the dam during the expected life of the dam.”
+Subsec. (c)(2)(C). Pub. L. 116–260, § 132(b)(3)(B)(iii), amended subpar. (C) generally. Prior to amendment, text read as follows: “As part of a project grant agreement under subparagraph (B), the Administrator shall require the non-Federal sponsor to provide an assurance, with respect to the dam to be rehabilitated under the project, that the owner of the dam has developed and will carry out a plan for maintenance of the dam during the expected life of the dam.”
 
-Subsec. (c)(2)(D). Pub. L. 116–260, § 132(b)(3)(B)(iv), substituted “A State may not award a grant to an eligible subrecipient under this section that exceeds, for any 1 dam,” for “A grant provided under this section shall not exceed” in introductory provisions.
+Subsec. (c)(2)(D). Pub. L. 116–260, § 132(b)(3)(B)(iv), substituted “A State may not award a grant to an eligible subrecipient under this section that exceeds, for any 1 dam,” for “A grant provided under this section shall not exceed” in introductory provisions.
 
-Subsec. (d)(1). Pub. L. 116–260, § 132(b)(4)(A), inserted “to an eligible subrecipient” after “this section”.
+Subsec. (d)(1). Pub. L. 116–260, § 132(b)(4)(A), inserted “to an eligible subrecipient” after “this section”.
 
-Subsec. (d)(2). Pub. L. 116–260, § 132(b)(4)(B)(i), (ii), substituted “Eligible subrecipient” for “Non-Federal sponsor” in heading and “an eligible subrecipient shall, with respect to the dam to be rehabilitated by the eligible subrecipient” for “the non-Federal sponsor shall” in introductory provisions.
+Subsec. (d)(2). Pub. L. 116–260, § 132(b)(4)(B)(i), (ii), substituted “Eligible subrecipient” for “Non-Federal sponsor” in heading and “an eligible subrecipient shall, with respect to the dam to be rehabilitated by the eligible subrecipient” for “the non-Federal sponsor shall” in introductory provisions.
 
-Subsec. (d)(2)(A). Pub. L. 116–260, § 132(b)(4)(B)(iii), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “participate in, and comply with, all applicable Federal flood insurance programs;”.
+Subsec. (d)(2)(A). Pub. L. 116–260, § 132(b)(4)(B)(iii), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “participate in, and comply with, all applicable Federal flood insurance programs;”.
 
-Subsec. (d)(2)(B). Pub. L. 116–260, § 132(b)(4)(B)(iv), substituted “beginning not later than 2 years after the date on which the Administrator publishes criteria for hazard mitigation plans under paragraph (3), demonstrate that the Tribal or local government with jurisdiction over the area in which the dam is located has” for “have” in introductory provisions.
+Subsec. (d)(2)(B). Pub. L. 116–260, § 132(b)(4)(B)(iv), substituted “beginning not later than 2 years after the date on which the Administrator publishes criteria for hazard mitigation plans under paragraph (3), demonstrate that the Tribal or local government with jurisdiction over the area in which the dam is located has” for “have” in introductory provisions.
 
-Subsec. (d)(2)(C). Pub. L. 116–260, § 132(b)(4)(B)(v), substituted “expected life of the dam” for “50-year period”.
+Subsec. (d)(2)(C). Pub. L. 116–260, § 132(b)(4)(B)(v), substituted “expected life of the dam” for “50-year period”.
 
-Subsec. (d)(3). Pub. L. 116–260, § 132(b)(4)(C), added par. (3).
+Subsec. (d)(3). Pub. L. 116–260, § 132(b)(4)(C), added par. (3).
 
-Subsec. (e)(1). Pub. L. 116–260, § 132(b)(5)(A)(i), substituted “an eligible subrecipient” for “non-Federal sponsor” in introductory provisions.
+Subsec. (e)(1). Pub. L. 116–260, § 132(b)(5)(A)(i), substituted “an eligible subrecipient” for “non-Federal sponsor” in introductory provisions.
 
-Subsec. (e)(1)(B). Pub. L. 116–260, § 132(b)(5)(A)(ii), substituted “2 years” for “1 year” in cls. (i) and (ii).
+Subsec. (e)(1)(B). Pub. L. 116–260, § 132(b)(5)(A)(ii), substituted “2 years” for “1 year” in cls. (i) and (ii).
 
-Subsec. (e)(3). Pub. L. 116–260, § 132(b)(5)(B), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The Administrator may provide technical support for the development and implementation of floodplain management plans prepared under this subsection.”
+Subsec. (e)(3). Pub. L. 116–260, § 132(b)(5)(B), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The Administrator may provide technical support for the development and implementation of floodplain management plans prepared under this subsection.”
 
-Subsec. (i)(1). Pub. L. 116–260, § 132(b)(6), substituted “an eligible subrecipient” for “a non-Federal sponsor” in introductory provisions.
+Subsec. (i)(1). Pub. L. 116–260, § 132(b)(6), substituted “an eligible subrecipient” for “a non-Federal sponsor” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Rulemaking**
 
-Pub. L. 114–322, title IV, § 5006(c), Dec. 16, 2016, 130 Stat. 1896, provided that:
+Pub. L. 114–322, title IV, § 5006(c), Dec. 16, 2016, 130 Stat. 1896, provided that:
 
 > **“(1) Proposed rulemaking.—** Not later than 90 days after the date of enactment of this Act [Dec. 16, 2016], the Administrator of the Federal Emergency Management Agency shall issue a notice of proposed rulemaking regarding applications for grants of assistance under the amendments made by subsection (b) to the National Dam Safety Program Act (33 U.S.C. 467 et seq.) [enacting this section].
 
@@ -3435,7 +3435,7 @@ Pub. L. 114–322, title IV, § 5006(c), Dec. 16, 2016, 130 Stat. 1896, provid
 
 **Rehabilitation of Corps of Engineers Constructed Dams**
 
-Pub. L. 114–322, title I, § 1177, Dec. 16, 2016, 130 Stat. 1674, as amended by Pub. L. 115–270, title I, § 1132, Oct. 23, 2018, 132 Stat. 3781; Pub. L. 116–260, div. AA, title III, § 305, Dec. 27, 2020, 134 Stat. 2703; Pub. L. 117–263, div. H, title LXXXI, § 8370, Dec. 23, 2022, 136 Stat. 3806; Pub. L. 118–272, div. A, title III, § 1367, Jan. 4, 2025, 138 Stat. 3164, provided that:
+Pub. L. 114–322, title I, § 1177, Dec. 16, 2016, 130 Stat. 1674, as amended by Pub. L. 115–270, title I, § 1132, Oct. 23, 2018, 132 Stat. 3781; Pub. L. 116–260, div. AA, title III, § 305, Dec. 27, 2020, 134 Stat. 2703; Pub. L. 117–263, div. H, title LXXXI, § 8370, Dec. 23, 2022, 136 Stat. 3806; Pub. L. 118–272, div. A, title III, § 1367, Jan. 4, 2025, 138 Stat. 3164, provided that:
 
 > **“(a) In General.—** If the Secretary [of the Army] determines that the project is feasible, the Secretary may carry out a project for the rehabilitation of a dam described in subsection (b).
 
@@ -3469,7 +3469,7 @@ Pub. L. 114–322, title I, § 1177, Dec. 16, 2016, 130 Stat. 1674, as amended
 
 > **“(f) Funding.—** There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2026 through 2030.”
 
-### § 467g. Research
+### § 467g. Research
 
 **(a) In general** The Administrator, in cooperation with the Board, shall carry out a program of technical and archival research to develop and support—
 
@@ -3485,13 +3485,13 @@ Pub. L. 114–322, title I, § 1177, Dec. 16, 2016, 130 Stat. 1674, as amended
 
 The Administrator shall provide for State participation in research under subsection (a) and periodically advise all States and Congress of the results of the research.
 
-(Pub. L. 92–367, § 9, as added Pub. L. 104–303, title II, § 215(c)(8), Oct. 12, 1996, 110 Stat. 3692; amended Pub. L. 107–310, § 4, Dec. 2, 2002, 116 Stat. 2453; Pub. L. 113–121, title III, § 3001(a)(1), June 10, 2014, 128 Stat. 1282.)
+(Pub. L. 92–367, § 9, as added Pub. L. 104–303, title II, § 215(c)(8), Oct. 12, 1996, 110 Stat. 3692; amended Pub. L. 107–310, § 4, Dec. 2, 2002, 116 Stat. 2453; Pub. L. 113–121, title III, § 3001(a)(1), June 10, 2014, 128 Stat. 1282.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 467g, Pub. L. 92–367, § 8, as added Pub. L. 99–662, title XII, § 1201(b), Nov. 17, 1986, 100 Stat. 4261, set out the requisite features of State dam safety programs and provided for program approval and periodic review, prior to repeal by Pub. L. 104–303, title II, § 215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
+A prior section 467g, Pub. L. 92–367, § 8, as added Pub. L. 99–662, title XII, § 1201(b), Nov. 17, 1986, 100 Stat. 4261, set out the requisite features of State dam safety programs and provided for program approval and periodic review, prior to repeal by Pub. L. 104–303, title II, § 215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
 
 A prior section 9 of Pub. L. 92–367 was classified to section 467h of this title prior to repeal by Pub. L. 104–303.
 
@@ -3499,15 +3499,15 @@ A prior section 9 of Pub. L. 92–367 was classified to section 467h of this tit
 
 2014—Pub. L. 113–121 substituted “Administrator” for “Director” in introductory provisions of subsec. (a) and in subsec. (b).
 
-2002—Subsec. (a). Pub. L. 107–310, § 4(1), in introductory provisions, substituted “in cooperation with the Board” for “in cooperation with ICODS” and inserted “and support” after “develop”.
+2002—Subsec. (a). Pub. L. 107–310, § 4(1), in introductory provisions, substituted “in cooperation with the Board” for “in cooperation with ICODS” and inserted “and support” after “develop”.
 
-Subsec. (a)(3), (4). Pub. L. 107–310, § 4(2)–(4), added pars. (3) and (4).
+Subsec. (a)(3), (4). Pub. L. 107–310, § 4(2)–(4), added pars. (3) and (4).
 
-### § 467g–1. Dam safety training
+### § 467g–1. Dam safety training
 
 At the request of any State that has or intends to develop a State dam safety program, the Administrator shall provide training for State dam safety staff and inspectors.
 
-(Pub. L. 92–367, § 10, as added Pub. L. 107–310, § 5(2), Dec. 2, 2002, 116 Stat. 2453; amended Pub. L. 113–121, title III, § 3001(a)(1), June 10, 2014, 128 Stat. 1282.)
+(Pub. L. 92–367, § 10, as added Pub. L. 107–310, § 5(2), Dec. 2, 2002, 116 Stat. 2453; amended Pub. L. 113–121, title III, § 3001(a)(1), June 10, 2014, 128 Stat. 1282.)
 
 **Editorial Notes**
 
@@ -3521,11 +3521,11 @@ Another prior section 10 of Pub. L. 92–367 was classified to section 467i of t
 
 2014—Pub. L. 113–121 substituted “Administrator” for “Director”.
 
-### § 467g–2. Public awareness and outreach for dam safety
+### § 467g–2. Public awareness and outreach for dam safety
 
 The Administrator, in consultation with other Federal agencies, State and local governments, dam owners, the emergency management community, the private sector, nongovernmental organizations and associations, institutions of higher education, and any other appropriate entities shall, subject to the availability of appropriations, carry out a nationwide public awareness and outreach initiative to assist the public in preparing for, mitigating, responding to, and recovering from dam incidents.
 
-(Pub. L. 92–367, § 11, as added Pub. L. 113–121, title III, § 3001(d)(2), June 10, 2014, 128 Stat. 1283.)
+(Pub. L. 92–367, § 11, as added Pub. L. 113–121, title III, § 3001(d)(2), June 10, 2014, 128 Stat. 1283.)
 
 **Editorial Notes**
 
@@ -3535,7 +3535,7 @@ A prior section 11 of Pub. L. 92–367 was renumbered section 12, and is classif
 
 Another prior section 11 of Pub. L. 92–367 was classified to section 467j of this title prior to repeal by Pub. L. 104–303.
 
-### § 467h. Reports
+### § 467h. Reports
 
 Not later than 90 days after the end of each odd-numbered fiscal year, the Administrator shall submit a report to Congress that—
 
@@ -3547,13 +3547,13 @@ Not later than 90 days after the end of each odd-numbered fiscal year, the Admin
 
 **(4)** includes any recommendations for legislative and other action that the Administrator considers necessary.
 
-(Pub. L. 92–367, § 12, formerly § 10, as added Pub. L. 104–303, title II, § 215(c)(8), Oct. 12, 1996, 110 Stat. 3692; renumbered § 11 and amended Pub. L. 107–310, §§ 5(1), 6, Dec. 2, 2002, 116 Stat. 2453; renumbered § 12 and amended Pub. L. 113–121, title III, § 3001(a)(1), (d)(1), June 10, 2014, 128 Stat. 1282, 1283.)
+(Pub. L. 92–367, § 12, formerly § 10, as added Pub. L. 104–303, title II, § 215(c)(8), Oct. 12, 1996, 110 Stat. 3692; renumbered § 11 and amended Pub. L. 107–310, §§ 5(1), 6, Dec. 2, 2002, 116 Stat. 2453; renumbered § 12 and amended Pub. L. 113–121, title III, § 3001(a)(1), (d)(1), June 10, 2014, 128 Stat. 1282, 1283.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 467h, Pub. L. 92–367, § 9, as added Pub. L. 99–662, title XII, § 1201(b), Nov. 17, 1986, 100 Stat. 4262, provided for creation of National Dam Safety Review Board, prior to repeal by Pub. L. 104–303, title II, § 215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
+A prior section 467h, Pub. L. 92–367, § 9, as added Pub. L. 99–662, title XII, § 1201(b), Nov. 17, 1986, 100 Stat. 4262, provided for creation of National Dam Safety Review Board, prior to repeal by Pub. L. 104–303, title II, § 215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
 
 A prior section 12 of Pub. L. 92–367 was renumbered section 13, and is classified to section 467i of this title.
 
@@ -3561,11 +3561,11 @@ Another prior section 12 of Pub. L. 92–367 was classified to section 467k of t
 
 **Amendments**
 
-2014—Pub. L. 113–121, § 3001(a)(1), substituted “Administrator” for “Director” in two places.
+2014—Pub. L. 113–121, § 3001(a)(1), substituted “Administrator” for “Director” in two places.
 
-2002—Pub. L. 107–310, § 6, struck out subsec. designations and headings for subsecs. (a) and (b) and text of subsec. (a) which read as follows: “Not later than 180 days after October 12, 1996, the Director shall report to Congress on the availability of dam insurance and make recommendations concerning encouraging greater availability.”
+2002—Pub. L. 107–310, § 6, struck out subsec. designations and headings for subsecs. (a) and (b) and text of subsec. (a) which read as follows: “Not later than 180 days after October 12, 1996, the Director shall report to Congress on the availability of dam insurance and make recommendations concerning encouraging greater availability.”
 
-### § 467i. Statutory construction
+### § 467i. Statutory construction
 
 Nothing in this subchapter and no action or failure to act under this subchapter shall—
 
@@ -3575,19 +3575,19 @@ Nothing in this subchapter and no action or failure to act under this subchapter
 
 **(3)** preempt any other Federal or State law.
 
-(Pub. L. 92–367, § 13, formerly § 11, as added Pub. L. 104–303, title II, § 215(c)(8), Oct. 12, 1996, 110 Stat. 3693; renumbered § 12, Pub. L. 107–310, § 5(1), Dec. 2, 2002, 116 Stat. 2453; renumbered § 13, Pub. L. 113–121, title III, § 3001(d)(1), June 10, 2014, 128 Stat. 1283.)
+(Pub. L. 92–367, § 13, formerly § 11, as added Pub. L. 104–303, title II, § 215(c)(8), Oct. 12, 1996, 110 Stat. 3693; renumbered § 12, Pub. L. 107–310, § 5(1), Dec. 2, 2002, 116 Stat. 2453; renumbered § 13, Pub. L. 113–121, title III, § 3001(d)(1), June 10, 2014, 128 Stat. 1283.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 467i, Pub. L. 92–367, § 10, as added Pub. L. 99–662, title XII, § 1201(b), Nov. 17, 1986, 100 Stat. 4262, related to consultation of Federal officers with State officials when dam operated or proposed by Federal agency is operated or proposed in a State, prior to repeal by Pub. L. 104–303, title II, § 215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
+A prior section 467i, Pub. L. 92–367, § 10, as added Pub. L. 99–662, title XII, § 1201(b), Nov. 17, 1986, 100 Stat. 4262, related to consultation of Federal officers with State officials when dam operated or proposed by Federal agency is operated or proposed in a State, prior to repeal by Pub. L. 104–303, title II, § 215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
 
 A prior section 13 of Pub. L. 92–367 was renumbered section 14, and is classified to section 467j of this title.
 
 Another prior section 13 of Pub. L. 92–367 was classified to section 467*l* of this title prior to repeal by Pub. L. 104–303.
 
-### § 467j. Authorization of appropriations
+### § 467j. Authorization of appropriations
 
 **(a) National dam safety program**
 
@@ -3639,85 +3639,85 @@ There is authorized to be appropriated to FEMA for the employment of such additi
 
 Amounts made available under this subchapter may not be used to construct or repair any Federal or non-Federal dam.
 
-(Pub. L. 92–367, § 14, formerly § 12, as added Pub. L. 104–303, title II, § 215(c)(8), Oct. 12, 1996, 110 Stat. 3693; renumbered § 13 and amended Pub. L. 107–310, §§ 5(1), 7, Dec. 2, 2002, 116 Stat. 2453; Pub. L. 109–460, § 1(d), Dec. 22, 2006, 120 Stat. 3401; renumbered § 14 and amended Pub. L. 113–121, title III, § 3001(a)(1), (d)(1), (e), (f), June 10, 2014, 128 Stat. 1282–1284; Pub. L. 115–270, title I, § 1163, Oct. 23, 2018, 132 Stat. 3796; Pub. L. 118–272, div. A, title I, § 1132(d), Jan. 4, 2025, 138 Stat. 3023.)
+(Pub. L. 92–367, § 14, formerly § 12, as added Pub. L. 104–303, title II, § 215(c)(8), Oct. 12, 1996, 110 Stat. 3693; renumbered § 13 and amended Pub. L. 107–310, §§ 5(1), 7, Dec. 2, 2002, 116 Stat. 2453; Pub. L. 109–460, § 1(d), Dec. 22, 2006, 120 Stat. 3401; renumbered § 14 and amended Pub. L. 113–121, title III, § 3001(a)(1), (d)(1), (e), (f), June 10, 2014, 128 Stat. 1282–1284; Pub. L. 115–270, title I, § 1163, Oct. 23, 2018, 132 Stat. 3796; Pub. L. 118–272, div. A, title I, § 1132(d), Jan. 4, 2025, 138 Stat. 3023.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 467j, Pub. L. 92–367, § 11, as added Pub. L. 99–662, title XII, § 1201(b), Nov. 17, 1986, 100 Stat. 4262; amended Pub. L. 102–580, title II, § 209(b), Oct. 31, 1992, 106 Stat. 4830, related to training for State dam safety inspectors, prior to repeal by Pub. L. 104–303, title II, § 215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
+A prior section 467j, Pub. L. 92–367, § 11, as added Pub. L. 99–662, title XII, § 1201(b), Nov. 17, 1986, 100 Stat. 4262; amended Pub. L. 102–580, title II, § 209(b), Oct. 31, 1992, 106 Stat. 4830, related to training for State dam safety inspectors, prior to repeal by Pub. L. 104–303, title II, § 215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
 
 A prior section 14 of Pub. L. 92–367 was classified to section 467m of this title prior to repeal by Pub. L. 104–303.
 
 **Amendments**
 
-2025—Subsec. (a)(1). Pub. L. 118–272, § 1132(d)(1)(A), substituted “2028” for “2023”.
+2025—Subsec. (a)(1). Pub. L. 118–272, § 1132(d)(1)(A), substituted “2028” for “2023”.
 
-Subsec. (a)(2)(A)(ii)(I), (II). Pub. L. 118–272, § 1132(d)(1)(B)(i), inserted “and low-head dams” after “inventory of dams”.
+Subsec. (a)(2)(A)(ii)(I), (II). Pub. L. 118–272, § 1132(d)(1)(B)(i), inserted “and low-head dams” after “inventory of dams”.
 
-Subsec. (a)(2)(B). Pub. L. 118–272, § 1132(d)(1)(B)(ii), amended subpar. (B) generally. Prior to amendment, text read as follows:
+Subsec. (a)(2)(B). Pub. L. 118–272, § 1132(d)(1)(B)(ii), amended subpar. (B) generally. Prior to amendment, text read as follows:
 
 “(i) In general.—The amount of funds allocated to a State under this paragraph may not exceed 50 percent of the reasonable cost of implementing the State dam safety program.
 
 “(ii) Fiscal year 2015 and subsequent fiscal years.—For fiscal year 2015 and each subsequent fiscal year, the amount of funds allocated to a State under this paragraph may not exceed the amount of funds committed by the State to implement dam safety activities.”
 
-Subsec. (b). Pub. L. 118–272, § 1132(d)(2), substituted “National inventory of dams and low-head dams” for “National dam inventory” in heading and “2028” for “2023” in text.
+Subsec. (b). Pub. L. 118–272, § 1132(d)(2), substituted “National inventory of dams and low-head dams” for “National dam inventory” in heading and “2028” for “2023” in text.
 
-Subsec. (c). Pub. L. 118–272, § 1132(d)(3), substituted “2028” for “2023”.
+Subsec. (c). Pub. L. 118–272, § 1132(d)(3), substituted “2028” for “2023”.
 
-Subsec. (d). Pub. L. 118–272, § 1132(d)(4), substituted “2028” for “2023”.
+Subsec. (d). Pub. L. 118–272, § 1132(d)(4), substituted “2028” for “2023”.
 
-Subsec. (e). Pub. L. 118–272, § 1132(d)(5), substituted “2028” for “2023”.
+Subsec. (e). Pub. L. 118–272, § 1132(d)(5), substituted “2028” for “2023”.
 
-Subsec. (f). Pub. L. 118–272, § 1132(d)(6), substituted “2028” for “2023”.
+Subsec. (f). Pub. L. 118–272, § 1132(d)(6), substituted “2028” for “2023”.
 
 2018—Pub. L. 115–270 substituted “2019 through 2023” for “2015 through 2019” wherever appearing.
 
-2014—Subsec. (a)(1). Pub. L. 113–121, § 3001(f), made technical amendment to reference in original act which appears in text as reference to section 467h of this title.
+2014—Subsec. (a)(1). Pub. L. 113–121, § 3001(f), made technical amendment to reference in original act which appears in text as reference to section 467h of this title.
 
-Pub. L. 113–121, § 3001(e)(1)(A), substituted “$9,200,000 for each of fiscal years 2015 through 2019” for “$6,500,000 for fiscal year 2007, $7,100,000 for fiscal year 2008, $7,600,000 for fiscal year 2009, $8,300,000 for fiscal year 2010, and $9,200,000 for fiscal year 2011”.
+Pub. L. 113–121, § 3001(e)(1)(A), substituted “$9,200,000 for each of fiscal years 2015 through 2019” for “$6,500,000 for fiscal year 2007, $7,100,000 for fiscal year 2008, $7,600,000 for fiscal year 2009, $8,300,000 for fiscal year 2010, and $9,200,000 for fiscal year 2011”.
 
-Subsec. (a)(2)(B). Pub. L. 113–121, § 3001(e)(1)(B), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+Subsec. (a)(2)(B). Pub. L. 113–121, § 3001(e)(1)(B), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
 
-Subsec. (a)(2)(C). Pub. L. 113–121, § 3001(a)(1), substituted “Administrator” for “Director”.
+Subsec. (a)(2)(C). Pub. L. 113–121, § 3001(a)(1), substituted “Administrator” for “Director”.
 
-Subsec. (b). Pub. L. 113–121, § 3001(e)(2), substituted “$500,000 for each of fiscal years 2015 through 2019” for “$650,000 for fiscal year 2007, $700,000 for fiscal year 2008, $750,000 for fiscal year 2009, $800,000 for fiscal year 2010, and $850,000 for fiscal year 2011”.
+Subsec. (b). Pub. L. 113–121, § 3001(e)(2), substituted “$500,000 for each of fiscal years 2015 through 2019” for “$650,000 for fiscal year 2007, $700,000 for fiscal year 2008, $750,000 for fiscal year 2009, $800,000 for fiscal year 2010, and $850,000 for fiscal year 2011”.
 
-Subsec. (c). Pub. L. 113–121, § 3001(e)(3)(B), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 113–121, § 3001(e)(3)(B), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 113–121, § 3001(e)(4), substituted “$1,450,000 for each of fiscal years 2015 through 2019” for “$1,600,000 for fiscal year 2007, $1,700,000 for fiscal year 2008, $1,800,000 for fiscal year 2009, $1,900,000 for fiscal year 2010, and $2,000,000 for fiscal year 2011”.
+Subsec. (d). Pub. L. 113–121, § 3001(e)(4), substituted “$1,450,000 for each of fiscal years 2015 through 2019” for “$1,600,000 for fiscal year 2007, $1,700,000 for fiscal year 2008, $1,800,000 for fiscal year 2009, $1,900,000 for fiscal year 2010, and $2,000,000 for fiscal year 2011”.
 
-Pub. L. 113–121, § 3001(e)(3)(A), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Pub. L. 113–121, § 3001(e)(3)(A), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 113–121, § 3001(e)(5), substituted “$750,000 for each of fiscal years 2015 through 2019” for “$550,000 for fiscal year 2007, $600,000 for fiscal year 2008, $650,000 for fiscal year 2009, $700,000 for fiscal year 2010, and $750,000 for fiscal year 2011”.
+Subsec. (e). Pub. L. 113–121, § 3001(e)(5), substituted “$750,000 for each of fiscal years 2015 through 2019” for “$550,000 for fiscal year 2007, $600,000 for fiscal year 2008, $650,000 for fiscal year 2009, $700,000 for fiscal year 2010, and $750,000 for fiscal year 2011”.
 
-Pub. L. 113–121, § 3001(e)(3)(A), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Pub. L. 113–121, § 3001(e)(3)(A), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 113–121, § 3001(e)(6), substituted “$1,000,000 for each of fiscal years 2015 through 2019” for “$700,000 for fiscal year 2007, $800,000 for fiscal year 2008, $900,000 for fiscal year 2009, $1,000,000 for fiscal year 2010, and $1,100,000 for fiscal year 2011”.
+Subsec. (f). Pub. L. 113–121, § 3001(e)(6), substituted “$1,000,000 for each of fiscal years 2015 through 2019” for “$700,000 for fiscal year 2007, $800,000 for fiscal year 2008, $900,000 for fiscal year 2009, $1,000,000 for fiscal year 2010, and $1,100,000 for fiscal year 2011”.
 
-Pub. L. 113–121, § 3001(e)(3)(A), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+Pub. L. 113–121, § 3001(e)(3)(A), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 113–121, § 3001(e)(3)(A), redesignated subsec. (f) as (g).
+Subsec. (g). Pub. L. 113–121, § 3001(e)(3)(A), redesignated subsec. (f) as (g).
 
-2006—Subsec. (a)(1). Pub. L. 109–460, § 1(d)(1), substituted “$6,500,000 for fiscal year 2007, $7,100,000 for fiscal year 2008, $7,600,000 for fiscal year 2009, $8,300,000 for fiscal year 2010, and $9,200,000 for fiscal year 2011” for “$6,000,000 for each of fiscal years 2003 through 2006”.
+2006—Subsec. (a)(1). Pub. L. 109–460, § 1(d)(1), substituted “$6,500,000 for fiscal year 2007, $7,100,000 for fiscal year 2008, $7,600,000 for fiscal year 2009, $8,300,000 for fiscal year 2010, and $9,200,000 for fiscal year 2011” for “$6,000,000 for each of fiscal years 2003 through 2006”.
 
-Subsec. (b). Pub. L. 109–460, § 1(d)(2), substituted “$650,000 for fiscal year 2007, $700,000 for fiscal year 2008, $750,000 for fiscal year 2009, $800,000 for fiscal year 2010, and $850,000 for fiscal year 2011” for “$500,000 for each fiscal year”.
+Subsec. (b). Pub. L. 109–460, § 1(d)(2), substituted “$650,000 for fiscal year 2007, $700,000 for fiscal year 2008, $750,000 for fiscal year 2009, $800,000 for fiscal year 2010, and $850,000 for fiscal year 2011” for “$500,000 for each fiscal year”.
 
-Subsec. (c). Pub. L. 109–460, § 1(d)(3), substituted “$1,600,000 for fiscal year 2007, $1,700,000 for fiscal year 2008, $1,800,000 for fiscal year 2009, $1,900,000 for fiscal year 2010, and $2,000,000 for fiscal year 2011” for “$1,500,000 for each of fiscal years 2003 through 2006”.
+Subsec. (c). Pub. L. 109–460, § 1(d)(3), substituted “$1,600,000 for fiscal year 2007, $1,700,000 for fiscal year 2008, $1,800,000 for fiscal year 2009, $1,900,000 for fiscal year 2010, and $2,000,000 for fiscal year 2011” for “$1,500,000 for each of fiscal years 2003 through 2006”.
 
-Subsec. (d). Pub. L. 109–460, § 1(d)(4), substituted “$550,000 for fiscal year 2007, $600,000 for fiscal year 2008, $650,000 for fiscal year 2009, $700,000 for fiscal year 2010, and $750,000 for fiscal year 2011” for “$500,000 for each of fiscal years 2003 through 2006”.
+Subsec. (d). Pub. L. 109–460, § 1(d)(4), substituted “$550,000 for fiscal year 2007, $600,000 for fiscal year 2008, $650,000 for fiscal year 2009, $700,000 for fiscal year 2010, and $750,000 for fiscal year 2011” for “$500,000 for each of fiscal years 2003 through 2006”.
 
-Subsec. (e). Pub. L. 109–460, § 1(d)(5), substituted “$700,000 for fiscal year 2007, $800,000 for fiscal year 2008, $900,000 for fiscal year 2009, $1,000,000 for fiscal year 2010, and $1,100,000 for fiscal year 2011” for “$600,000 for each of fiscal years 2003 through 2006”.
+Subsec. (e). Pub. L. 109–460, § 1(d)(5), substituted “$700,000 for fiscal year 2007, $800,000 for fiscal year 2008, $900,000 for fiscal year 2009, $1,000,000 for fiscal year 2010, and $1,100,000 for fiscal year 2011” for “$600,000 for each of fiscal years 2003 through 2006”.
 
-2002—Subsec. (a)(1). Pub. L. 107–310, § 7(a)(2), substituted “$6,000,000 for each of fiscal years 2003 through 2006, to remain available until expended” for “$1,000,000 for fiscal year 1998, $2,000,000 for fiscal year 1999, $4,000,000 for fiscal year 2000, $4,000,000 for fiscal year 2001, and $4,000,000 for fiscal year 2002”.
+2002—Subsec. (a)(1). Pub. L. 107–310, § 7(a)(2), substituted “$6,000,000 for each of fiscal years 2003 through 2006, to remain available until expended” for “$1,000,000 for fiscal year 1998, $2,000,000 for fiscal year 1999, $4,000,000 for fiscal year 2000, $4,000,000 for fiscal year 2001, and $4,000,000 for fiscal year 2002”.
 
-Pub. L. 107–310, § 7(a)(1), made technical amendment to reference in original act which appears in text as reference to section 467h of this title.
+Pub. L. 107–310, § 7(a)(1), made technical amendment to reference in original act which appears in text as reference to section 467h of this title.
 
-Subsec. (a)(2)(A)(i), (ii). Pub. L. 107–310, § 7(b)(1), substituted “section 467f(e)” for “section 467f(f)”.
+Subsec. (a)(2)(A)(i), (ii). Pub. L. 107–310, § 7(b)(1), substituted “section 467f(e)” for “section 467f(f)”.
 
-Subsec. (a)(2)(C). Pub. L. 107–310, § 7(b)(2), struck out “needing primary assistance and States needing advanced assistance under section 467f(f) of this title” before period at end.
+Subsec. (a)(2)(C). Pub. L. 107–310, § 7(b)(2), struck out “needing primary assistance and States needing advanced assistance under section 467f(f) of this title” before period at end.
 
-Subsecs. (c) to (e). Pub. L. 107–310, § 7(c), added subsecs. (c) to (e) and struck out former subsecs. (c) to (e) which authorized appropriations for fiscal years 1998 through 2002 for dam safety training, research, and staff.
+Subsecs. (c) to (e). Pub. L. 107–310, § 7(c), added subsecs. (c) to (e) and struck out former subsecs. (c) to (e) which authorized appropriations for fiscal years 1998 through 2002 for dam safety training, research, and staff.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3727,15 +3727,15 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Administrator of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### §§ 467k to 467m. Repealed. Pub. L. 104–303, title II, § 215(c)(2), Oct. 12, 1996, 110 Stat. 3685
+### §§ 467k to 467m. Repealed. Pub. L. 104–303, title II, § 215(c)(2), Oct. 12, 1996, 110 Stat. 3685
 
-Section 467k, Pub. L. 92–367, § 12, as added Pub. L. 99–662, title XII, § 1201(b), Nov. 17, 1986, 100 Stat. 4262; amended Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–580, title II, § 209(c), Oct. 31, 1992, 106 Stat. 4830, related to development of improved dam inspection techniques.
+Section 467k, Pub. L. 92–367, § 12, as added Pub. L. 99–662, title XII, § 1201(b), Nov. 17, 1986, 100 Stat. 4262; amended Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–580, title II, § 209(c), Oct. 31, 1992, 106 Stat. 4830, related to development of improved dam inspection techniques.
 
-Section 467*l*, Pub. L. 92–367, § 13, as added Pub. L. 99–662, title XII, § 1201(b), Nov. 17, 1986, 100 Stat. 4262; amended Pub. L. 102–580, title II, § 209(d), Oct. 31, 1992, 106 Stat. 4830, related to dam inventory updates.
+Section 467*l*, Pub. L. 92–367, § 13, as added Pub. L. 99–662, title XII, § 1201(b), Nov. 17, 1986, 100 Stat. 4262; amended Pub. L. 102–580, title II, § 209(d), Oct. 31, 1992, 106 Stat. 4830, related to dam inventory updates.
 
-Section 467m, Pub. L. 92–367, § 14, as added Pub. L. 99–662, title XII, § 1201(b), Nov. 17, 1986, 100 Stat. 4263, provided that inspection funds were not to be used for repair or construction of any dam.
+Section 467m, Pub. L. 92–367, § 14, as added Pub. L. 99–662, title XII, § 1201(b), Nov. 17, 1986, 100 Stat. 4263, provided that inspection funds were not to be used for repair or construction of any dam.
 
-### § 467n. Recovery of dam modification costs required for safety purposes
+### § 467n. Recovery of dam modification costs required for safety purposes
 
 **(a)** After November 17, 1986, costs incurred in the modification by the Secretary of dams and related facilities constructed or operated by the Secretary, the cause of which results from new hydrologic or seismic data or changes in state-of-the-art design or construction criteria deemed necessary for safety purposes, shall be recovered in accordance with the provisions in this subsection:
 
@@ -3745,7 +3745,7 @@ Section 467m, Pub. L. 92–367, § 14, as added Pub. L. 99–662, title XII, �
 
 **(b)** Nothing in this section affects the authority of the Secretary to perform work pursuant to Public Law 84–99, as amended (33 U.S.C. 701n) or cost sharing for such work.
 
-(Pub. L. 99–662, title XII, § 1203, Nov. 17, 1986, 100 Stat. 4263.)
+(Pub. L. 99–662, title XII, § 1203, Nov. 17, 1986, 100 Stat. 4263.)
 
 **Editorial Notes**
 
@@ -3763,7 +3763,7 @@ Section was enacted as part of the Dam Safety Act of 1986, and also as part of t
 
 **Dam Safety Repair Projects**
 
-Pub. L. 114–322, title I, § 1139, Dec. 16, 2016, 130 Stat. 1658, provided that:
+Pub. L. 114–322, title I, § 1139, Dec. 16, 2016, 130 Stat. 1658, provided that:
 
 > “The Secretary [of the Army] shall issue guidance—
 
@@ -3777,6 +3777,6 @@ Pub. L. 114–322, title I, § 1139, Dec. 16, 2016, 130 Stat. 1658, provided t
 
 Secretary means the Secretary of the Army, see section 2201 of this title.
 
-### § 467o. Repealed. Pub. L. 118–272, div. A, title I, § 1132(e), Jan. 4, 2025, 138 Stat. 3024
+### § 467o. Repealed. Pub. L. 118–272, div. A, title I, § 1132(e), Jan. 4, 2025, 138 Stat. 3024
 
-Section, Pub. L. 92–367, § 15, as added Pub. L. 117–263, div. H, title LXXXI, § 8122, Dec. 23, 2022, 136 Stat. 3713, related to national low-head dam inventory. See section 467d of this title.
+Section, Pub. L. 92–367, § 15, as added Pub. L. 117–263, div. H, title LXXXI, § 8122, Dec. 23, 2022, 136 Stat. 3713, related to national low-head dam inventory. See section 467d of this title.

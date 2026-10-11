@@ -29,7 +29,7 @@ This chapter, act July 5, 1946, ch. 540, 60 Stat. 427, became effective one year
 
 ## SUBCHAPTER I—THE PRINCIPAL REGISTER
 
-### § 1051. Application for registration; verification
+### § 1051. Application for registration; verification
 
 **(a) Application for use of trademark**
 
@@ -49,9 +49,9 @@ This chapter, act July 5, 1946, ch. 540, 60 Stat. 427, became effective one year
 
 **(i)** state exceptions to the claim of exclusive use; and
 
-**(ii)** shall 1
+**(ii)** shall 1
 
-<sup>1</sup>  So in original. The word “shall” probably should not appear.
+<sup>1</sup> So in original. The word “shall” probably should not appear.
 
 specify, to the extent of the verifier’s knowledge—
 
@@ -107,41 +107,41 @@ If the applicant is not domiciled in the United States the applicant may designa
 
 A third party may submit for consideration for inclusion in the record of an application evidence relevant to a ground for refusal of registration. The third-party submission shall identify the ground for refusal and include a concise description of each piece of evidence submitted in support of each identified ground for refusal. Not later than 2 months after the date on which the submission is filed, the Director shall determine whether the evidence should be included in the record of the application. The Director shall establish by regulation appropriate procedures for the consideration of evidence submitted by a third party under this subsection and may prescribe a fee to accompany the submission. If the Director determines that the third-party evidence should be included in the record of the application, only the evidence and the ground for refusal to which the evidence relates may be so included. Any determination by the Director whether or not to include evidence in the record of an application shall be final and non-reviewable, and a determination to include or to not include evidence in the record shall not prejudice any party’s right to raise any issue and rely on any evidence in any other proceeding.
 
-(July 5, 1946, ch. 540, title I, § 1, 60 Stat. 427; Pub. L. 87–772, § 1, Oct. 9, 1962, 76 Stat. 769; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, § 103, Nov. 16, 1988, 102 Stat. 3935; Pub. L. 105–330, title I, § 103, title II, § 201(a)(1), Oct. 30, 1998, 112 Stat. 3064, 3069; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, § 13207(b)(1), (2), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 116–260, div. Q, title II, § 223(a), Dec. 27, 2020, 134 Stat. 2201.)
+(July 5, 1946, ch. 540, title I, § 1, 60 Stat. 427; Pub. L. 87–772, § 1, Oct. 9, 1962, 76 Stat. 769; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, § 103, Nov. 16, 1988, 102 Stat. 3935; Pub. L. 105–330, title I, § 103, title II, § 201(a)(1), Oct. 30, 1998, 112 Stat. 3064, 3069; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, § 13207(b)(1), (2), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 116–260, div. Q, title II, § 223(a), Dec. 27, 2020, 134 Stat. 2201.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Subsecs. (a) to (c) are from acts Feb. 20, 1905, ch. 592, §§ 1, 2, 33 Stat. 724; May 4, 1906, ch. 2081, § 1, 34 Stat. 168; Feb. 18, 1909, ch. 144, 35 Stat. 628; Apr. 11, 1930, ch. 132, § 4, 46 Stat. 155; June 10, 1938, ch. 332, § 1, 52 Stat. 638.
+Subsecs. (a) to (c) are from acts Feb. 20, 1905, ch. 592, §§ 1, 2, 33 Stat. 724; May 4, 1906, ch. 2081, § 1, 34 Stat. 168; Feb. 18, 1909, ch. 144, 35 Stat. 628; Apr. 11, 1930, ch. 132, § 4, 46 Stat. 155; June 10, 1938, ch. 332, § 1, 52 Stat. 638.
 
-Subsec. (d) is from act Feb. 20, 1905, ch. 592, § 3, 33 Stat. 725.
+Subsec. (d) is from act Feb. 20, 1905, ch. 592, § 3, 33 Stat. 725.
 
 **Amendments**
 
 2020—Subsec. (f). Pub. L. 116–260 added subsec. (f).
 
-2002—Subsec. (d)(1). Pub. L. 107–273, § 13207(b)(1), in first sentence, substituted “specifying the date of the applicant’s first use of the mark in commerce and those goods or services specified in the notice of allowance on or in connection with which the mark is used in commerce.” for “specifying the date of the applicant’s first use of the mark in commerce and,, those goods or services specified in the notice of allowance on or in connection with which the mark is used in commerce.”
+2002—Subsec. (d)(1). Pub. L. 107–273, § 13207(b)(1), in first sentence, substituted “specifying the date of the applicant’s first use of the mark in commerce and those goods or services specified in the notice of allowance on or in connection with which the mark is used in commerce.” for “specifying the date of the applicant’s first use of the mark in commerce and,, those goods or services specified in the notice of allowance on or in connection with which the mark is used in commerce.”
 
-Subsec. (e). Pub. L. 107–273, § 13207(b)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) required applicant not domiciled in United States to designate name and address of some person resident in the United States on whom may be served notices or process in proceedings affecting the mark and provided that notices or process be served by leaving with such person or mailing to him a copy, or upon Director if designated person cannot be found.
+Subsec. (e). Pub. L. 107–273, § 13207(b)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) required applicant not domiciled in United States to designate name and address of some person resident in the United States on whom may be served notices or process in proceedings affecting the mark and provided that notices or process be served by leaving with such person or mailing to him a copy, or upon Director if designated person cannot be found.
 
 1999—Subsecs. (a), (b), (d), (e). Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
 
-1998—Subsec. (a). Pub. L. 105–330, § 103(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to application by owner of a trademark used in commerce to register the trademark by filing in the Patent and Trademark Office a written application in prescribed form and verified by applicant, by paying prescribed fee, and by complying with prescribed rules or regulations.
+1998—Subsec. (a). Pub. L. 105–330, § 103(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to application by owner of a trademark used in commerce to register the trademark by filing in the Patent and Trademark Office a written application in prescribed form and verified by applicant, by paying prescribed fee, and by complying with prescribed rules or regulations.
 
-Subsec. (b). Pub. L. 105–330, § 103(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to application, by person with bona fide intention, under circumstances showing good faith, to use a trademark in commerce, to register trademark by filing in the Patent and Trademark Office a written application in prescribed form and verified by applicant, by paying prescribed fee, and by complying with prescribed rules or regulations.
+Subsec. (b). Pub. L. 105–330, § 103(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to application, by person with bona fide intention, under circumstances showing good faith, to use a trademark in commerce, to register trademark by filing in the Patent and Trademark Office a written application in prescribed form and verified by applicant, by paying prescribed fee, and by complying with prescribed rules or regulations.
 
-Subsec. (d)(1). Pub. L. 105–330, § 201(a)(1)(A), inserted “and,” after “specifying the date of the applicant’s first use of the mark in commerce”.
+Subsec. (d)(1). Pub. L. 105–330, § 201(a)(1)(A), inserted “and,” after “specifying the date of the applicant’s first use of the mark in commerce”.
 
-Pub. L. 105–330, § 201(a)(1)(B), which directed the striking out of “and, the mode or manner in which the mark is used on or in connection with such goods or services”, was executed by striking out “, and the mode or manner in which the mark is used on or in connection with such goods or services” after “notice of allowance on or in connection with which the mark is used in commerce”, to reflect the probable intent of Congress.
+Pub. L. 105–330, § 201(a)(1)(B), which directed the striking out of “and, the mode or manner in which the mark is used on or in connection with such goods or services”, was executed by striking out “, and the mode or manner in which the mark is used on or in connection with such goods or services” after “notice of allowance on or in connection with which the mark is used in commerce”, to reflect the probable intent of Congress.
 
-Subsec. (d)(4). Pub. L. 105–330, § 103(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The failure to timely file a verified statement of use under this subsection shall result in abandonment of the application.”
+Subsec. (d)(4). Pub. L. 105–330, § 103(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The failure to timely file a verified statement of use under this subsection shall result in abandonment of the application.”
 
-1988—Subsec. (a). Pub. L. 100–667, § 103(1) to (7), inserted “(a)” preceding introductory provisions and substituted “may apply to register his or her” for “may register his”, redesignated former subsecs. (a) to (c) as pars. (1) to (3), respectively, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, in par. (1)(A), substituted “used on or in connection with” for “applied to” and “goods on or in connection” for “goods in connection”, in par. (1)(C), struck out “actually” after “the mark as”, and in par. (2), substituted “prescribed” for “filing”.
+1988—Subsec. (a). Pub. L. 100–667, § 103(1) to (7), inserted “(a)” preceding introductory provisions and substituted “may apply to register his or her” for “may register his”, redesignated former subsecs. (a) to (c) as pars. (1) to (3), respectively, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, in par. (1)(A), substituted “used on or in connection with” for “applied to” and “goods on or in connection” for “goods in connection”, in par. (1)(C), struck out “actually” after “the mark as”, and in par. (2), substituted “prescribed” for “filing”.
 
-Subsecs. (b), (c). Pub. L. 100–667, § 103(3), (9), added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as pars. (2) and (3), respectively, of subsec. (a).
+Subsecs. (b), (c). Pub. L. 100–667, § 103(3), (9), added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as pars. (2) and (3), respectively, of subsec. (a).
 
-Subsecs. (d), (e). Pub. L. 100–667, § 103(8), (9), added subsec. (d) and redesignated former subsec. (d) as (e).
+Subsecs. (d), (e). Pub. L. 100–667, § 103(8), (9), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1975—Subsecs. (a), (b), (d). Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
@@ -151,17 +151,17 @@ Subsecs. (d), (e). Pub. L. 100–667, § 103(8), (9), added subsec. (d) and re
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. Q, title II, § 223(c), Dec. 27, 2020, 134 Stat. 2201, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 1 year after the date of enactment of this Act [Dec. 27, 2020].”
+Pub. L. 116–260, div. Q, title II, § 223(c), Dec. 27, 2020, 134 Stat. 2201, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 1 year after the date of enactment of this Act [Dec. 27, 2020].”
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–330, title I, § 109(b), Oct. 30, 1998, 112 Stat. 3069, provided that: “This title [see Short Title of 1998 Amendment note below] and the amendments made by this title shall apply to any application for registration of a trademark pending on, or filed on or after, the effective date of this Act [probably should be “this title”, see section 110 of Pub. L. 105–330, set out as an Effective Date of 1998 Amendment note below].”
+Pub. L. 105–330, title I, § 109(b), Oct. 30, 1998, 112 Stat. 3069, provided that: “This title [see Short Title of 1998 Amendment note below] and the amendments made by this title shall apply to any application for registration of a trademark pending on, or filed on or after, the effective date of this Act [probably should be “this title”, see section 110 of Pub. L. 105–330, set out as an Effective Date of 1998 Amendment note below].”
 
-Pub. L. 105–330, title I, § 110, Oct. 30, 1998, 112 Stat. 3069, provided that:
+Pub. L. 105–330, title I, § 110, Oct. 30, 1998, 112 Stat. 3069, provided that:
 
 > “This title [see Short Title of 1998 Amendment note below] and the amendments made by this title shall take effect—
 
@@ -171,11 +171,11 @@ Pub. L. 105–330, title I, § 110, Oct. 30, 1998, 112 Stat. 3069, provided th
 
 > whichever occurs first.”
 
-Pub. L. 105–330, title II, § 201(b), Oct. 30, 1998, 112 Stat. 3070, provided that: “The amendments made by this section [amending this section and sections 1052, 1057, 1064, 1091, 1094, 1113 to 1115, 1121, and 1124 of this title] shall take effect on the date of enactment of this Act [Oct. 30, 1998], and shall apply only to any civil action filed or proceeding before the United States Patent and Trademark Office commenced on or after such date relating to the registration of a mark.”
+Pub. L. 105–330, title II, § 201(b), Oct. 30, 1998, 112 Stat. 3070, provided that: “The amendments made by this section [amending this section and sections 1052, 1057, 1064, 1091, 1094, 1113 to 1115, 1121, and 1124 of this title] shall take effect on the date of enactment of this Act [Oct. 30, 1998], and shall apply only to any civil action filed or proceeding before the United States Patent and Trademark Office commenced on or after such date relating to the registration of a mark.”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–667, title I, § 136, Nov. 16, 1988, 102 Stat. 3948, provided that: “This title and the amendments made by this title [see Short Title of 1988 Amendment note below] shall become effective on the date which is one year after the date of enactment of this Act [Nov. 16, 1988].”
+Pub. L. 100–667, title I, § 136, Nov. 16, 1988, 102 Stat. 3948, provided that: “This title and the amendments made by this title [see Short Title of 1988 Amendment note below] shall become effective on the date which is one year after the date of enactment of this Act [Nov. 16, 1988].”
 
 **Effective Date of 1975 Amendment**
 
@@ -187,51 +187,51 @@ Section 46(a) of act July 5, 1946, provided that this chapter shall be in force 
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–260, div. Q, title II, § 221(a), Dec. 27, 2020, 134 Stat. 2200, provided that: “This subtitle [subtitle B (§§ 221–228) of title II of div. Q of Pub. L. 116–260, enacting sections 1066a and 1066b of this title, amending this section and sections 1062, 1064, 1065, 1068, 1070, 1071, 1092, 1094, and 1116 of this title, and enacting provisions set out as notes under this section and sections 1064, 1066a, 1068, and 1116 of this title] may be cited as the ‘Trademark Modernization Act of 2020’ or the ‘TM Act of 2020’.”
+Pub. L. 116–260, div. Q, title II, § 221(a), Dec. 27, 2020, 134 Stat. 2200, provided that: “This subtitle [subtitle B (§§ 221–228) of title II of div. Q of Pub. L. 116–260, enacting sections 1066a and 1066b of this title, amending this section and sections 1062, 1064, 1065, 1068, 1070, 1071, 1092, 1094, and 1116 of this title, and enacting provisions set out as notes under this section and sections 1064, 1066a, 1068, and 1116 of this title] may be cited as the ‘Trademark Modernization Act of 2020’ or the ‘TM Act of 2020’.”
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–146, § 1, Mar. 17, 2010, 124 Stat. 66, provided that: “This Act [amending sections 1057, 1058, 1065, 1071, and 1141k of this title] may be cited as the ‘Trademark Technical and Conforming Amendment Act of 2010’.”
+Pub. L. 111–146, § 1, Mar. 17, 2010, 124 Stat. 66, provided that: “This Act [amending sections 1057, 1058, 1065, 1071, and 1141k of this title] may be cited as the ‘Trademark Technical and Conforming Amendment Act of 2010’.”
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–312, § 1(a), Oct. 6, 2006, 120 Stat. 1730, provided that: “This Act [amending sections 1052, 1063, 1064, 1092, 1125, and 1127 of this title] may be cited as the ‘Trademark Dilution Revision Act of 2006’.”
+Pub. L. 109–312, § 1(a), Oct. 6, 2006, 120 Stat. 1730, provided that: “This Act [amending sections 1052, 1063, 1064, 1092, 1125, and 1127 of this title] may be cited as the ‘Trademark Dilution Revision Act of 2006’.”
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–482, § 1, Dec. 23, 2004, 118 Stat. 3912, provided that: “This Act [amending section 1117 of this title, section 504 of Title 17, Copyrights, sections 2318 and 3559 of Title 18, Crimes and Criminal Procedure, and sections 85 and 112 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section, section 1117 of this title, sections 2311 and 2318 of Title 18, and listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28] may be cited as the ‘Intellectual Property Protection and Courts Amendments Act of 2004’.”
+Pub. L. 108–482, § 1, Dec. 23, 2004, 118 Stat. 3912, provided that: “This Act [amending section 1117 of this title, section 504 of Title 17, Copyrights, sections 2318 and 3559 of Title 18, Crimes and Criminal Procedure, and sections 85 and 112 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section, section 1117 of this title, sections 2311 and 2318 of Title 18, and listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28] may be cited as the ‘Intellectual Property Protection and Courts Amendments Act of 2004’.”
 
-Pub. L. 108–482, title II, § 201, Dec. 23, 2004, 118 Stat. 3916, provided that: “This title [amending section 1117 of this title, section 504 of Title 17, Copyrights, and section 3559 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under section 1117 of this title and listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Fraudulent Online Identity Sanctions Act’.”
+Pub. L. 108–482, title II, § 201, Dec. 23, 2004, 118 Stat. 3916, provided that: “This title [amending section 1117 of this title, section 504 of Title 17, Copyrights, and section 3559 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under section 1117 of this title and listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Fraudulent Online Identity Sanctions Act’.”
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–273, div. C, title III, § 13401, Nov. 2, 2002, 116 Stat. 1913, provided that: “This subtitle [subtitle D (§§ 13401–13403) of title III of div. C of Pub. L. 107–273, enacting subchapter IV of this chapter and provisions set out as a note under section 1141 of this title] may be cited as the ‘Madrid Protocol Implementation Act’.”
+Pub. L. 107–273, div. C, title III, § 13401, Nov. 2, 2002, 116 Stat. 1913, provided that: “This subtitle [subtitle D (§§ 13401–13403) of title III of div. C of Pub. L. 107–273, enacting subchapter IV of this chapter and provisions set out as a note under section 1141 of this title] may be cited as the ‘Madrid Protocol Implementation Act’.”
 
 **Short Title of 1999 Amendments**
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3001(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–545, provided that: “This title [enacting section 1129 of this title, amending sections 1114, 1116, 1117, 1125, and 1127 of this title, section 470a of Title 16, Conservation, and section 1338 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and sections 1117 and 1125 of this title] may be cited as the ‘Anticybersquatting Consumer Protection Act’.”
+Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3001(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–545, provided that: “This title [enacting section 1129 of this title, amending sections 1114, 1116, 1117, 1125, and 1127 of this title, section 470a of Title 16, Conservation, and section 1338 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and sections 1117 and 1125 of this title] may be cited as the ‘Anticybersquatting Consumer Protection Act’.”
 
-Pub. L. 106–43, § 1, Aug. 5, 1999, 113 Stat. 218, provided that: “This Act [amending sections 1052 to 1054, 1060, 1063, 1064, 1091, 1092, 1114, 1116 to 1118, 1122, and 1124 to 1127 of this title, enacting provisions set out as a note under section 1052 of this title, and amending provisions set out as a note under this section] may be cited as the ‘Trademarks Amendments Act of 1999’.”
+Pub. L. 106–43, § 1, Aug. 5, 1999, 113 Stat. 218, provided that: “This Act [amending sections 1052 to 1054, 1060, 1063, 1064, 1091, 1092, 1114, 1116 to 1118, 1122, and 1124 to 1127 of this title, enacting provisions set out as a note under section 1052 of this title, and amending provisions set out as a note under this section] may be cited as the ‘Trademarks Amendments Act of 1999’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–330, title I, § 101, Oct. 30, 1998, 112 Stat. 3064, provided that: “This title [amending this section and sections 1058 to 1060, 1062, and 1126 of this title and enacting provisions set out as notes under this section and sections 1058 and 1059 of this title] may be cited as the ‘Trademark Law Treaty Implementation Act’.”
+Pub. L. 105–330, title I, § 101, Oct. 30, 1998, 112 Stat. 3064, provided that: “This title [amending this section and sections 1058 to 1060, 1062, and 1126 of this title and enacting provisions set out as notes under this section and sections 1058 and 1059 of this title] may be cited as the ‘Trademark Law Treaty Implementation Act’.”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–98, § 1, Jan. 16, 1996, 109 Stat. 985, provided that: “This Act [amending sections 1125 and 1127 of this title and enacting provisions set out as a note under section 1125 of this title] may be cited as the ‘Federal Trademark Dilution Act of 1995’.”
+Pub. L. 104–98, § 1, Jan. 16, 1996, 109 Stat. 985, provided that: “This Act [amending sections 1125 and 1127 of this title and enacting provisions set out as a note under section 1125 of this title] may be cited as the ‘Federal Trademark Dilution Act of 1995’.”
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–542, § 1, Oct. 27, 1992, 106 Stat. 3567, provided that: “This Act [enacting section 1122 of this title, amending sections 1114, 1125, and 1127 of this title, and enacting provisions set out as a note under section 1114 of this title] may be cited as the ‘Trademark Remedy Clarification Act’.”
+Pub. L. 102–542, § 1, Oct. 27, 1992, 106 Stat. 3567, provided that: “This Act [enacting section 1122 of this title, amending sections 1114, 1125, and 1127 of this title, and enacting provisions set out as a note under section 1114 of this title] may be cited as the ‘Trademark Remedy Clarification Act’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–667, title I, § 101, Nov. 16, 1988, 102 Stat. 3935, provided that: “This title [amending this section and sections 1052 to 1060, 1062 to 1066, 1068, 1069, 1071, 1091, 1092, 1094, 1095, 1111, 1112, 1114 to 1118, 1121, and 1125 to 1127 of this title, redesignating section 1121a of this title as section 1121(b) of this title, and enacting provisions set out as notes under sections 1051 and 1058 of this title] may be cited as the ‘Trademark Law Revision Act of 1988’.”
+Pub. L. 100–667, title I, § 101, Nov. 16, 1988, 102 Stat. 3935, provided that: “This title [amending this section and sections 1052 to 1060, 1062 to 1066, 1068, 1069, 1071, 1091, 1092, 1094, 1095, 1111, 1112, 1114 to 1118, 1121, and 1125 to 1127 of this title, redesignating section 1121a of this title as section 1121(b) of this title, and enacting provisions set out as notes under sections 1051 and 1058 of this title] may be cited as the ‘Trademark Law Revision Act of 1988’.”
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–620, title I, § 101, Nov. 8, 1984, 98 Stat. 3335, provided that: “This title [amending sections 1064 and 1127 of this title and enacting provisions set out as a note under section 1064 of this title] may be cited as the ‘Trademark Clarification Act of 1984’.”
+Pub. L. 98–620, title I, § 101, Nov. 8, 1984, 98 Stat. 3335, provided that: “This title [amending sections 1064 and 1127 of this title and enacting provisions set out as a note under section 1064 of this title] may be cited as the ‘Trademark Clarification Act of 1984’.”
 
 **Short Title**
 
@@ -239,29 +239,29 @@ Act July 5, 1946, ch. 540, 60 Stat. 427, which is classified to this chapter, is
 
 **Repeal of Inconsistent Provisions; Certain Provisions Not Affected**
 
-Act July 5, 1946, ch. 540, title XI, § 46(a), 60 Stat. 444, as amended by Pub. L. 106–43, § 6(b), Aug. 5, 1999, 113 Stat. 220, provided in part that all acts and parts of acts inconsistent with this chapter are repealed effective one year from July 5, 1946, but that “nothing contained in this Act [this chapter] shall be construed as limiting, restricting, modifying, or repealing any statute in force on the effective date of this Act [July 5, 1947] which does not relate to trademarks, or as restricting or increasing the authority of any Federal department or regulatory agency except as may be specifically provided in this Act [this chapter].”
+Act July 5, 1946, ch. 540, title XI, § 46(a), 60 Stat. 444, as amended by Pub. L. 106–43, § 6(b), Aug. 5, 1999, 113 Stat. 220, provided in part that all acts and parts of acts inconsistent with this chapter are repealed effective one year from July 5, 1946, but that “nothing contained in this Act [this chapter] shall be construed as limiting, restricting, modifying, or repealing any statute in force on the effective date of this Act [July 5, 1947] which does not relate to trademarks, or as restricting or increasing the authority of any Federal department or regulatory agency except as may be specifically provided in this Act [this chapter].”
 
-Act July 5, 1946, ch. 540, title XI, § 48, 60 Stat. 446, provided that: “Section 4 of the Act of January 5, 1905 (U.S.C., title 36, sec. 4), as amended, entitled ‘An Act to incorporate the National Red Cross’ [see 18 U.S.C. 706], and section 7 of the Act of June 15, 1916 (U.S.C., title 36, sec. 27), entitled ‘An Act to incorporate the Boy Scouts of America, and for other purposes’ [see 36 U.S.C. 30905], and the Act of June 20, 1936 (U.S.C., title 22, sec. 248), entitled ‘An Act to prohibit the commercial use of the coat of arms of the Swiss Confederation’ [see former 18 U.S.C. 708], are not repealed or affected by this Act.”
+Act July 5, 1946, ch. 540, title XI, § 48, 60 Stat. 446, provided that: “Section 4 of the Act of January 5, 1905 (U.S.C., title 36, sec. 4), as amended, entitled ‘An Act to incorporate the National Red Cross’ [see 18 U.S.C. 706], and section 7 of the Act of June 15, 1916 (U.S.C., title 36, sec. 27), entitled ‘An Act to incorporate the Boy Scouts of America, and for other purposes’ [see 36 U.S.C. 30905], and the Act of June 20, 1936 (U.S.C., title 22, sec. 248), entitled ‘An Act to prohibit the commercial use of the coat of arms of the Swiss Confederation’ [see former 18 U.S.C. 708], are not repealed or affected by this Act.”
 
 **Savings Provision**
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3008], Nov. 29, 1999, 113 Stat. 1536, 1501A–551, provided that: “Nothing in this title [see Short Title of 1999 Amendments note above] shall affect any defense available to a defendant under the Trademark Act of 1946 [15 U.S.C. 1051 et seq.] (including any defense under section 43(c)(4) of such Act [15 U.S.C. 1125(c)(4)] or relating to fair use) or a person’s right of free speech or expression under the first amendment of the United States Constitution.”
+Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3008], Nov. 29, 1999, 113 Stat. 1536, 1501A–551, provided that: “Nothing in this title [see Short Title of 1999 Amendments note above] shall affect any defense available to a defendant under the Trademark Act of 1946 [15 U.S.C. 1051 et seq.] (including any defense under section 43(c)(4) of such Act [15 U.S.C. 1125(c)(4)] or relating to fair use) or a person’s right of free speech or expression under the first amendment of the United States Constitution.”
 
 **Separability**
 
-Act July 5, 1946, ch. 540, title XI, § 50, 60 Stat. 446, provided that: “If any provision of this Act [this chapter] or the application of such provision to any person or circumstance is held invalid, the remainder of the Act shall not be affected thereby.”
+Act July 5, 1946, ch. 540, title XI, § 50, 60 Stat. 446, provided that: “If any provision of this Act [this chapter] or the application of such provision to any person or circumstance is held invalid, the remainder of the Act shall not be affected thereby.”
 
 **Deadline for Procedures**
 
-Pub. L. 116–260, div. Q, title II, § 223(b), Dec. 27, 2020, 134 Stat. 2201, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 27, 2020], the Director shall establish the appropriate procedures described in section 1(f) of the Trademark Act of 1946 [15 U.S.C. 1051(f)], as added by subsection (a).”
+Pub. L. 116–260, div. Q, title II, § 223(b), Dec. 27, 2020, 134 Stat. 2201, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 27, 2020], the Director shall establish the appropriate procedures described in section 1(f) of the Trademark Act of 1946 [15 U.S.C. 1051(f)], as added by subsection (a).”
 
 [For definitions of terms used in section 223(b) of Pub. L. 116–260, set out above, see section 222 of Pub. L. 116–260, set out as a note below.]
 
 **Pending Proceedings and Existing Registration and Rights Under Prior Acts**
 
-Act July 5, 1946, ch. 540, title XI, § 46(a), 60 Stat. 444, provided in part that this chapter, except as otherwise specifically provided therein, shall not affect any suit, proceeding or appeal pending on the effective date of this chapter and that the repeal of all inconsistent acts “shall not affect the validity of registrations granted or applied for under any of said Acts prior to the effective date of this Act [July 5, 1947], or rights or remedies thereunder except as provided in sections 8, 12, 14, 15, and 47 of this Act [sections 1058, 1062, 1064, and 1065 of this title and note under this section].”
+Act July 5, 1946, ch. 540, title XI, § 46(a), 60 Stat. 444, provided in part that this chapter, except as otherwise specifically provided therein, shall not affect any suit, proceeding or appeal pending on the effective date of this chapter and that the repeal of all inconsistent acts “shall not affect the validity of registrations granted or applied for under any of said Acts prior to the effective date of this Act [July 5, 1947], or rights or remedies thereunder except as provided in sections 8, 12, 14, 15, and 47 of this Act [sections 1058, 1062, 1064, and 1065 of this title and note under this section].”
 
-Act July 5, 1946, ch. 540, title XI, §§ 46(b), 47, 60 Stat. 445, provided:
+Act July 5, 1946, ch. 540, title XI, §§ 46(b), 47, 60 Stat. 445, provided:
 
 > **“(b)** Registrations now existing under the Act of March 3, 1881, or the Act of February 20, 1905 [sections 81 to 109 of this title], shall continue in full force and effect for the unexpired terms thereof and may be renewed under the provisions of section 9 of this Act [section 1059 of this title]. Such registrations and the renewals thereof shall be subject to and shall be entitled to the benefits of the provisions of this Act [this chapter] to the same extent and with the same force and effect as though registered on the principal register established by this Act [this chapter] except as limited in sections 8, 12, 14, and 15 of this Act [sections 1058, 1062, 1064, 1065, of this title]. Marks registered under the ‘ten-year proviso’ of section 5 of the Act of February 20, 1905, as amended [former section 85 of this title], shall be deemed to have become distinctive of the registrant’s goods in commerce under paragraph (f) of section 2 of this Act [section 1052 of this title] and may be renewed under section 9 hereof [section 1059 of this title] as marks coming within said paragraph.
 
@@ -275,13 +275,13 @@ Act July 5, 1946, ch. 540, title XI, §§ 46(b), 47, 60 Stat. 445, provided:
 
 > **“(b)** In any case in which an appeal is pending before the United States Court of Customs and Patent Appeals or any United States Circuit Court of Appeals or the United States Court of Appeals for the District of Columbia or the United States Supreme Court at the effective date of this Act [July 5, 1947], the court, if it be of the opinion that the provisions of this Act [this chapter] are applicable to the subject matter of the appeal, may apply such provision or may remand the case to the Commissioner [now Director] or to the district court for the taking of additional evidence or a new trial or for reconsideration of the decision on the record as made, as the appellate court may deem proper.”
 
-Act July 5, 1946, ch. 540, title XI, § 49, 60 Stat. 446, provided: “Nothing herein [in this chapter] shall adversely affect the rights or the enforcement of rights in marks acquired in good faith prior to the effective date of this Act [July 5, 1947].”
+Act July 5, 1946, ch. 540, title XI, § 49, 60 Stat. 446, provided: “Nothing herein [in this chapter] shall adversely affect the rights or the enforcement of rights in marks acquired in good faith prior to the effective date of this Act [July 5, 1947].”
 
 **Definitions Applicable to Sections of Pub. L. 116–260**
 
-Pub. L. 116–260, div. Q, title II, § 222, Dec. 27, 2020, 134 Stat. 2200, provided that:
+Pub. L. 116–260, div. Q, title II, § 222, Dec. 27, 2020, 134 Stat. 2200, provided that:
 
-> “In this subtitle [subtitle B (§§ 221–228) of title II of div. Q of Pub. L. 116–260, see Short Title of 2020 Amendment note above]:
+> “In this subtitle [subtitle B (§§ 221–228) of title II of div. Q of Pub. L. 116–260, see Short Title of 2020 Amendment note above]:
 
 > **“(1) Director.—** The term ‘Director’ means the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office.
 
@@ -295,9 +295,9 @@ Relief as to filing date of trademark application or registration and excusal of
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce to Secretary of Commerce, with certain exceptions, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce to Secretary of Commerce, with certain exceptions, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1052. Trademarks registrable on principal register; concurrent registration
+### § 1052. Trademarks registrable on principal register; concurrent registration
 
 No trademark by which the goods of the applicant may be distinguished from the goods of others shall be refused registration on the principal register on account of its nature unless it—
 
@@ -315,13 +315,13 @@ No trademark by which the goods of the applicant may be distinguished from the g
 
 A mark which would be likely to cause dilution by blurring or dilution by tarnishment under section 1125(c) of this title, may be refused registration only pursuant to a proceeding brought under section 1063 of this title. A registration for a mark which would be likely to cause dilution by blurring or dilution by tarnishment under section 1125(c) of this title, may be canceled pursuant to a proceeding brought under either section 1064 of this title or section 1092 of this title.
 
-(July 5, 1946, ch. 540, title I, § 2, 60 Stat. 428; Pub. L. 87–772, § 2, Oct. 9, 1962, 76 Stat. 769; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, § 104, Nov. 16, 1988, 102 Stat. 3937; Pub. L. 103–182, title III, § 333(a), Dec. 8, 1993, 107 Stat. 2114; Pub. L. 103–465, title V, § 522, Dec. 8, 1994, 108 Stat. 4982; Pub. L. 105–330, title II, § 201(a)(2), (12), Oct. 30, 1998, 112 Stat. 3069, 3070; Pub. L. 106–43, § 2(a), Aug. 5, 1999, 113 Stat. 218; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 109–312, § 3(a), Oct. 6, 2006, 120 Stat. 1732.)
+(July 5, 1946, ch. 540, title I, § 2, 60 Stat. 428; Pub. L. 87–772, § 2, Oct. 9, 1962, 76 Stat. 769; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, § 104, Nov. 16, 1988, 102 Stat. 3937; Pub. L. 103–182, title III, § 333(a), Dec. 8, 1993, 107 Stat. 2114; Pub. L. 103–465, title V, § 522, Dec. 8, 1994, 108 Stat. 4982; Pub. L. 105–330, title II, § 201(a)(2), (12), Oct. 30, 1998, 112 Stat. 3069, 3070; Pub. L. 106–43, § 2(a), Aug. 5, 1999, 113 Stat. 218; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 109–312, § 3(a), Oct. 6, 2006, 120 Stat. 1732.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Acts March 3, 1881, and February 20, 1905, referred to in subsec. (d), are acts Mar. 3, 1881, ch. 138, 21 Stat. 502, and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
+Acts March 3, 1881, and February 20, 1905, referred to in subsec. (d), are acts Mar. 3, 1881, ch. 138, 21 Stat. 502, and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
 
 **Constitutionality**
 
@@ -329,7 +329,7 @@ For information regarding the constitutionality of certain provisions of this se
 
 **Prior Provisions**
 
-Acts Feb. 20, 1905, ch. 592, § 5, 33 Stat. 725; Mar. 2, 1907, ch. 2573, § 1, 34 Stat. 1251; Feb. 18, 1911, ch. 113, 36 Stat. 918; Jan. 8, 1913, ch. 7, 37 Stat. 649; Mar. 19, 1920, ch. 104, § 9, 41 Stat. 535; June 7, 1924, ch. 341, 43 Stat. 647.
+Acts Feb. 20, 1905, ch. 592, § 5, 33 Stat. 725; Mar. 2, 1907, ch. 2573, § 1, 34 Stat. 1251; Feb. 18, 1911, ch. 113, 36 Stat. 918; Jan. 8, 1913, ch. 7, 37 Stat. 649; Mar. 19, 1920, ch. 104, § 9, 41 Stat. 535; June 7, 1924, ch. 341, 43 Stat. 647.
 
 **Amendments**
 
@@ -339,23 +339,23 @@ Acts Feb. 20, 1905, ch. 592, § 5, 33 Stat. 725; Mar. 2, 1907, ch. 2573, § 
 
 Subsecs. (d), (f). Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
 
-1998—Pub. L. 105–330, § 201(a)(12), substituted “trademark” for “trade-mark” in introductory provisions.
+1998—Pub. L. 105–330, § 201(a)(12), substituted “trademark” for “trade-mark” in introductory provisions.
 
-Subsec. (e). Pub. L. 105–330, § 201(a)(2)(A), struck out “or” before “(4)” and inserted “, or (5) comprises any matter that, as a whole, is functional” before period at end.
+Subsec. (e). Pub. L. 105–330, § 201(a)(2)(A), struck out “or” before “(4)” and inserted “, or (5) comprises any matter that, as a whole, is functional” before period at end.
 
-Subsec. (f). Pub. L. 105–330, § 201(a)(2)(B), substituted “subsections (a), (b), (c), (d), (e)(3), and (e)(5)” for “paragraphs (a), (b), (c), (d), and (e)(3)”.
+Subsec. (f). Pub. L. 105–330, § 201(a)(2)(B), substituted “subsections (a), (b), (c), (d), (e)(3), and (e)(5)” for “paragraphs (a), (b), (c), (d), and (e)(3)”.
 
 1994—Subsec. (a). Pub. L. 103–465 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Consists of or comprises immoral, deceptive, or scandalous matter; or matter which may disparage or falsely suggest a connection with persons, living or dead, institutions, beliefs, or national symbols, or bring them into contempt, or disrepute.”
 
-1993—Subsec. (e). Pub. L. 103–182, § 333(a)(1), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Consists of a mark which, (1) when used on or in connection with the goods of the applicant is merely descriptive or deceptively misdescriptive of them, or (2) when used on or in connection with the goods of the applicant is primarily geographically descriptive or deceptively misdescriptive of them, except as indications of regional origin may be registrable under section 1054 of this title, or (3) is primarily merely a surname.”
+1993—Subsec. (e). Pub. L. 103–182, § 333(a)(1), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Consists of a mark which, (1) when used on or in connection with the goods of the applicant is merely descriptive or deceptively misdescriptive of them, or (2) when used on or in connection with the goods of the applicant is primarily geographically descriptive or deceptively misdescriptive of them, except as indications of regional origin may be registrable under section 1054 of this title, or (3) is primarily merely a surname.”
 
-Subsec. (f). Pub. L. 103–182, § 333(a)(2), substituted “(d), and (e)(3)” for “and (d)” and inserted at end “Nothing in this section shall prevent the registration of a mark which, when used on or in connection with the goods of the applicant, is primarily geographically deceptively misdescriptive of them, and which became distinctive of the applicant’s goods in commerce before December 8, 1993.”
+Subsec. (f). Pub. L. 103–182, § 333(a)(2), substituted “(d), and (e)(3)” for “and (d)” and inserted at end “Nothing in this section shall prevent the registration of a mark which, when used on or in connection with the goods of the applicant, is primarily geographically deceptively misdescriptive of them, and which became distinctive of the applicant’s goods in commerce before December 8, 1993.”
 
-1988—Subsec. (d). Pub. L. 100–667, § 104(1), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Consists of or comprises a mark which so resembles a mark registered in the Patent and Trademark Office or a mark or trade name previously used in the United States by another and not abandoned, as to be likely, when applied to the goods of the applicant, to cause confusion, or to cause mistake, or to deceive: *Provided*, That when the Commissioner determines that confusion, mistake, or deception is not likely to result from the continued use by more than one person of the same or similar marks under conditions and limitations as to the mode or place of use of the marks or the goods in connection with which such marks are used, concurrent registrations may be issued to such persons when they have become entitled to use such marks as a result of their concurrent lawful use in commerce prior to (i) the earliest of the filing dates of the applications pending or of any registration issued under this chapter; or (ii) July 5, 1947, in the case of registrations previously issued under the Act of March 3, 1881, or February 20, 1905, and continuing in full force and effect on that date; or (iii) July 5, 1947, in the case of applications filed under the Act of February 20, 1905, and registered after July 5, 1947. Concurrent registrations may also be issued by the Commissioner when a court of competent jurisdiction has finally determined that more than one person is entitled to use the same or similar marks in commerce. In issuing concurrent registrations, the Commissioner shall prescribe conditions and limitations as to the mode or place of use of the mark or the goods in connection with which such mark is registered to the respective persons.”
+1988—Subsec. (d). Pub. L. 100–667, § 104(1), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Consists of or comprises a mark which so resembles a mark registered in the Patent and Trademark Office or a mark or trade name previously used in the United States by another and not abandoned, as to be likely, when applied to the goods of the applicant, to cause confusion, or to cause mistake, or to deceive: *Provided*, That when the Commissioner determines that confusion, mistake, or deception is not likely to result from the continued use by more than one person of the same or similar marks under conditions and limitations as to the mode or place of use of the marks or the goods in connection with which such marks are used, concurrent registrations may be issued to such persons when they have become entitled to use such marks as a result of their concurrent lawful use in commerce prior to (i) the earliest of the filing dates of the applications pending or of any registration issued under this chapter; or (ii) July 5, 1947, in the case of registrations previously issued under the Act of March 3, 1881, or February 20, 1905, and continuing in full force and effect on that date; or (iii) July 5, 1947, in the case of applications filed under the Act of February 20, 1905, and registered after July 5, 1947. Concurrent registrations may also be issued by the Commissioner when a court of competent jurisdiction has finally determined that more than one person is entitled to use the same or similar marks in commerce. In issuing concurrent registrations, the Commissioner shall prescribe conditions and limitations as to the mode or place of use of the mark or the goods in connection with which such mark is registered to the respective persons.”
 
-Subsec. (e). Pub. L. 100–667, § 104(2), substituted “used on or in connection with” for “applied to” in two places.
+Subsec. (e). Pub. L. 100–667, § 104(2), substituted “used on or in connection with” for “applied to” in two places.
 
-Subsec. (f). Pub. L. 100–667, § 104(3), substituted “used on or in connection with” for “applied to” and “five years before the date on which the claim of distinctiveness is made” for “five years next preceding the date of the filing of the application for its registration”
+Subsec. (f). Pub. L. 100–667, § 104(3), substituted “used on or in connection with” for “applied to” and “five years before the date on which the claim of distinctiveness is made” for “five years next preceding the date of the filing of the application for its registration”
 
 1975—Subsec. (d). Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
@@ -365,9 +365,9 @@ Subsec. (f). Pub. L. 100–667, § 104(3), substituted “used on or in connec
 
 **Effective Date of 1999 Amendments**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
-Pub. L. 106–43, § 2(e), Aug. 5, 1999, 113 Stat. 218, provided that: “The amendments made by this section [amending this section and sections 1063, 1064, and 1092 of this title] shall take effect on the date of enactment of this Act [Aug. 5, 1999] and shall apply only to any application for registration filed on or after January 16, 1996.”
+Pub. L. 106–43, § 2(e), Aug. 5, 1999, 113 Stat. 218, provided that: “The amendments made by this section [amending this section and sections 1063, 1064, and 1092 of this title] shall take effect on the date of enactment of this Act [Aug. 5, 1999] and shall apply only to any application for registration filed on or after January 16, 1996.”
 
 **Effective Date of 1998 Amendment**
 
@@ -375,11 +375,11 @@ Amendment by Pub. L. 105–330 effective Oct. 30, 1998, and applicable only to a
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–465, title V, § 523, Dec. 8, 1994, 108 Stat. 4982, provided that: “The amendments made by this subtitle [subtitle B (§§ 521–523) of title V of Pub. L. 103–465, amending this section and section 1127 of this title] take effect one year after the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995].”
+Pub. L. 103–465, title V, § 523, Dec. 8, 1994, 108 Stat. 4982, provided that: “The amendments made by this subtitle [subtitle B (§§ 521–523) of title V of Pub. L. 103–465, amending this section and section 1127 of this title] take effect one year after the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995].”
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–182, title III, § 335, Dec. 8, 1993, 107 Stat. 2116, which provided that the amendments made: (1) by sections 332, 334, and 335 of Pub. L. 103–182 took effect on the date NAFTA entered into force with respect to the United States (Jan. 1, 1994); (2) by section 331 of Pub. L. 103–182 applied to patent applications filed on or after Dec. 8, 1993; and (3) by section 333 of Pub. L. 103–182 applied only to trademark applications filed on or after Dec. 8, 1993, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+Pub. L. 103–182, title III, § 335, Dec. 8, 1993, 107 Stat. 2116, which provided that the amendments made: (1) by sections 332, 334, and 335 of Pub. L. 103–182 took effect on the date NAFTA entered into force with respect to the United States (Jan. 1, 1994); (2) by section 331 of Pub. L. 103–182 applied to patent applications filed on or after Dec. 8, 1993; and (3) by section 333 of Pub. L. 103–182 applied only to trademark applications filed on or after Dec. 8, 1993, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 **Effective Date of 1988 Amendment**
 
@@ -401,17 +401,17 @@ Marks registered under the “ten-year proviso” of section 5 of the act of Feb
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce to Secretary of Commerce, with certain exceptions, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce to Secretary of Commerce, with certain exceptions, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 **Uruguay Round Agreements: Entry Into Force**
 
 The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of Title 19, Customs Duties, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of Title 19.
 
-### § 1053. Service marks registrable
+### § 1053. Service marks registrable
 
 Subject to the provisions relating to the registration of trademarks, so far as they are applicable, service marks shall be registrable, in the same manner and with the same effect as are trademarks, and when registered they shall be entitled to the protection provided in this chapter in the case of trademarks. Applications and procedure under this section shall conform as nearly as practicable to those prescribed for the registration of trademarks.
 
-(July 5, 1946, ch. 540, title I, § 3, 60 Stat. 429; Pub. L. 100–667, title I, § 105, Nov. 16, 1988, 102 Stat. 3938; Pub. L. 106–43, § 6(b), Aug. 5, 1999, 113 Stat. 220.)
+(July 5, 1946, ch. 540, title I, § 3, 60 Stat. 429; Pub. L. 100–667, title I, § 105, Nov. 16, 1988, 102 Stat. 3938; Pub. L. 106–43, § 6(b), Aug. 5, 1999, 113 Stat. 220.)
 
 **Editorial Notes**
 
@@ -419,7 +419,7 @@ Subject to the provisions relating to the registration of trademarks, so far as 
 
 1999—Pub. L. 106–43 substituted “trademarks” for “trade-marks” wherever appearing.
 
-1988—Pub. L. 100–667 struck out “used in commerce” after “applicable, service marks” and “, except when used so as to represent falsely that the owner thereof makes or sells the goods on which such mark is used. The Commissioner may establish a separate register for such service marks” after “case of trade-marks”.
+1988—Pub. L. 100–667 struck out “used in commerce” after “applicable, service marks” and “, except when used so as to represent falsely that the owner thereof makes or sells the goods on which such mark is used. The Commissioner may establish a separate register for such service marks” after “case of trade-marks”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -435,19 +435,19 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1054. Collective marks and certification marks registrable
+### § 1054. Collective marks and certification marks registrable
 
 Subject to the provisions relating to the registration of trademarks, so far as they are applicable, collective and certification marks, including indications of regional origin, shall be registrable under this chapter, in the same manner and with the same effect as are trademarks, by persons, and nations, States, municipalities, and the like, exercising legitimate control over the use of the marks sought to be registered, even though not possessing an industrial or commercial establishment, and when registered they shall be entitled to the protection provided in this chapter in the case of trademarks, except in the case of certification marks when used so as to represent falsely that the owner or a user thereof makes or sells the goods or performs the services on or in connection with which such mark is used. Applications and procedure under this section shall conform as nearly as practicable to those prescribed for the registration of trademarks.
 
-(July 5, 1946, ch. 540, title I, § 4, 60 Stat. 429; Pub. L. 100–667, title I, § 106, Nov. 16, 1988, 102 Stat. 3938; Pub. L. 106–43, § 6(b), Aug. 5, 1999, 113 Stat. 220.)
+(July 5, 1946, ch. 540, title I, § 4, 60 Stat. 429; Pub. L. 100–667, title I, § 106, Nov. 16, 1988, 102 Stat. 3938; Pub. L. 106–43, § 6(b), Aug. 5, 1999, 113 Stat. 220.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Acts Feb. 20, 1905, ch. 592, § 1, 33 Stat. 724; May 4, 1906, ch. 2081, § 1, 34 Stat. 168; Feb. 18, 1909, ch. 144, 35 Stat. 628; Apr. 11, 1930, ch. 132, § 4, 46 Stat. 155; June 10, 1938, ch. 332, § 1, 52 Stat. 638.
+Acts Feb. 20, 1905, ch. 592, § 1, 33 Stat. 724; May 4, 1906, ch. 2081, § 1, 34 Stat. 168; Feb. 18, 1909, ch. 144, 35 Stat. 628; Apr. 11, 1930, ch. 132, § 4, 46 Stat. 155; June 10, 1938, ch. 332, § 1, 52 Stat. 638.
 
 **Amendments**
 
@@ -469,13 +469,13 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1055. Use by related companies affecting validity and registration
+### § 1055. Use by related companies affecting validity and registration
 
 Where a registered mark or a mark sought to be registered is or may be used legitimately by related companies, such use shall inure to the benefit of the registrant or applicant for registration, and such use shall not affect the validity of such mark or of its registration, provided such mark is not used in such manner as to deceive the public. If first use of a mark by a person is controlled by the registrant or applicant for registration of the mark with respect to the nature and quality of the goods or services, such first use shall inure to the benefit of the registrant or applicant, as the case may be.
 
-(July 5, 1946, ch. 540, title I, § 5, 60 Stat. 429; Pub. L. 100–667, title I, § 107, Nov. 16, 1988, 102 Stat. 3938.)
+(July 5, 1946, ch. 540, title I, § 5, 60 Stat. 429; Pub. L. 100–667, title I, § 107, Nov. 16, 1988, 102 Stat. 3938.)
 
 **Editorial Notes**
 
@@ -493,7 +493,7 @@ Amendment by Pub. L. 100–667 effective one year after Nov. 16, 1988, see secti
 
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
 
-### § 1056. Disclaimer of unregistrable matter
+### § 1056. Disclaimer of unregistrable matter
 
 **(a) Compulsory and voluntary disclaimers**
 
@@ -503,7 +503,7 @@ The Director may require the applicant to disclaim an unregistrable component of
 
 No disclaimer, including those made under subsection (e) of section 1057 of this title, shall prejudice or affect the applicant’s or registrant’s rights then existing or thereafter arising in the disclaimed matter, or his right of registration on another application if the disclaimed matter be or shall have become distinctive of his goods or services.
 
-(July 5, 1946, ch. 540, title I, § 6, 60 Stat. 429; Pub. L. 87–772, § 3, Oct. 9, 1962, 76 Stat. 769; Pub. L. 100–667, title I, § 108, Nov. 16, 1988, 102 Stat. 3938; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
+(July 5, 1946, ch. 540, title I, § 6, 60 Stat. 429; Pub. L. 87–772, § 3, Oct. 9, 1962, 76 Stat. 769; Pub. L. 100–667, title I, § 108, Nov. 16, 1988, 102 Stat. 3938; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 
 **Editorial Notes**
 
@@ -519,7 +519,7 @@ No disclaimer, including those made under subsection (e) of section 1057 of this
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 **Effective Date of 1988 Amendment**
 
@@ -533,9 +533,9 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1057. Certificates of registration
+### § 1057. Certificates of registration
 
 **(a) Issuance and form**
 
@@ -573,49 +573,49 @@ Whenever a material mistake in a registration, incurred through the fault of the
 
 Whenever a mistake has been made in a registration and a showing has been made that such mistake occurred in good faith through the fault of the applicant, the Director is authorized to issue a certificate of correction or, in his discretion, a new certificate upon the payment of the prescribed fee: *Provided*, That the correction does not involve such changes in the registration as to require republication of the mark.
 
-(July 5, 1946, ch. 540, title I, § 7, 60 Stat. 430; Aug. 17, 1950, ch. 733, 64 Stat. 459; Pub. L. 87–772, § 4, Oct. 9, 1962, 76 Stat. 769; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, § 109, Nov. 16, 1988, 102 Stat. 3938; Pub. L. 105–330, title II, § 201(a)(3), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 111–146, § 3(a), Mar. 17, 2010, 124 Stat. 66.)
+(July 5, 1946, ch. 540, title I, § 7, 60 Stat. 430; Aug. 17, 1950, ch. 733, 64 Stat. 459; Pub. L. 87–772, § 4, Oct. 9, 1962, 76 Stat. 769; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, § 109, Nov. 16, 1988, 102 Stat. 3938; Pub. L. 105–330, title II, § 201(a)(3), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 111–146, § 3(a), Mar. 17, 2010, 124 Stat. 66.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Subsecs. (a) and (c) are from acts Feb. 20, 1905, ch. 592, § 11, 33 Stat. 727; Mar. 4, 1925, ch. 535, § 3, 43 Stat. 1269.
+Subsecs. (a) and (c) are from acts Feb. 20, 1905, ch. 592, § 11, 33 Stat. 727; Mar. 4, 1925, ch. 535, § 3, 43 Stat. 1269.
 
-Subsec. (e) is from act Mar. 19, 1920, ch. 104, § 7, 41 Stat. 535.
+Subsec. (e) is from act Mar. 19, 1920, ch. 104, § 7, 41 Stat. 535.
 
-Subsec. (f) is from act Mar. 4, 1925, ch. 535, § 1, 43 Stat. 1268.
+Subsec. (f) is from act Mar. 4, 1925, ch. 535, § 1, 43 Stat. 1268.
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–146, § 3(a)(1), inserted “United States” before “Patent and Trademark Office” wherever appearing.
+2010—Subsec. (a). Pub. L. 111–146, § 3(a)(1), inserted “United States” before “Patent and Trademark Office” wherever appearing.
 
-Subsec. (b). Pub. L. 111–146, § 3(a)(2), substituted “owner’s” for “registrant’s” in two places.
+Subsec. (b). Pub. L. 111–146, § 3(a)(2), substituted “owner’s” for “registrant’s” in two places.
 
-Subsec. (d). Pub. L. 111–146, § 3(a)(1), inserted “United States” before “Patent and Trademark Office”.
+Subsec. (d). Pub. L. 111–146, § 3(a)(1), inserted “United States” before “Patent and Trademark Office”.
 
-Subsec. (e). Pub. L. 111–146, § 3(a)(1), (3), inserted “United States” before “Patent and Trademark Office” in two places, substituted “owner” for “registrant” in two places, and struck out “or, if said certificate is lost or destroyed, upon a certified copy thereof” after “certificate of registration”.
+Subsec. (e). Pub. L. 111–146, § 3(a)(1), (3), inserted “United States” before “Patent and Trademark Office” in two places, substituted “owner” for “registrant” in two places, and struck out “or, if said certificate is lost or destroyed, upon a certified copy thereof” after “certificate of registration”.
 
-Subsec. (f). Pub. L. 111–146, § 3(a)(1), inserted “United States” before “Patent and Trademark Office” in two places.
+Subsec. (f). Pub. L. 111–146, § 3(a)(1), inserted “United States” before “Patent and Trademark Office” in two places.
 
-Subsec. (g). Pub. L. 111–146, § 3(a)(4), amended subsec. (g) generally. Prior to amendment, text read as follows: “Whenever a material mistake in a registration, incurred through the fault of the Patent and Trademark Office, is clearly disclosed by the records of the Office a certificate stating the fact and nature of such mistake, shall be issued without charge and recorded and a printed copy thereof shall be attached to each printed copy of the registration certificate and such corrected registration shall thereafter have the same effect as if the same had been originally issued in such corrected form, or in the discretion of the Director a new certificate of registration may be issued without charge. All certificates of correction heretofore issued in accordance with the rules of the Patent and Trademark Office and the registrations to which they are attached shall have the same force and effect as if such certificates and their issue had been specifically authorized by statute.”
+Subsec. (g). Pub. L. 111–146, § 3(a)(4), amended subsec. (g) generally. Prior to amendment, text read as follows: “Whenever a material mistake in a registration, incurred through the fault of the Patent and Trademark Office, is clearly disclosed by the records of the Office a certificate stating the fact and nature of such mistake, shall be issued without charge and recorded and a printed copy thereof shall be attached to each printed copy of the registration certificate and such corrected registration shall thereafter have the same effect as if the same had been originally issued in such corrected form, or in the discretion of the Director a new certificate of registration may be issued without charge. All certificates of correction heretofore issued in accordance with the rules of the Patent and Trademark Office and the registrations to which they are attached shall have the same force and effect as if such certificates and their issue had been specifically authorized by statute.”
 
 1999—Subsecs. (a), (d) to (h). Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
 
 1998—Subsec. (a). Pub. L. 105–330 struck out second period at end of first sentence.
 
-1988—Subsec. (b). Pub. L. 100–667, § 109(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “A certificate of registration of a mark upon the principal register provided by this chapter shall be prima facie evidence of the validity of the registration, registrant’s ownership of the mark, and of registrant’s exclusive right to use the mark in commerce in connection with the goods or services specified in the certificate, subject to any conditions and limitations stated therein.”
+1988—Subsec. (b). Pub. L. 100–667, § 109(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “A certificate of registration of a mark upon the principal register provided by this chapter shall be prima facie evidence of the validity of the registration, registrant’s ownership of the mark, and of registrant’s exclusive right to use the mark in commerce in connection with the goods or services specified in the certificate, subject to any conditions and limitations stated therein.”
 
-Subsec. (c). Pub. L. 100–667, § 109(3), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 100–667, § 109(3), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 100–667, § 109(2), (4), redesignated former subsec. (c) as (d) and substituted “prescribed fee” for “fee herein provided”. Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 100–667, § 109(2), (4), redesignated former subsec. (c) as (d) and substituted “prescribed fee” for “fee herein provided”. Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 100–667, § 109(2), redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 100–667, § 109(2), redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 100–667, § 109(2), (5), redesignated former subsec. (e) as (f) and substituted “prescribed fee” for “fee required by law”. Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 100–667, § 109(2), (5), redesignated former subsec. (e) as (f) and substituted “prescribed fee” for “fee required by law”. Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 100–667, § 109(2), redesignated former subsec. (f) as (g). Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 100–667, § 109(2), redesignated former subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 100–667, § 109(2), (6), redesignated former subsec. (g) as (h) and substituted “prescribed fee” for “required fee”.
+Subsec. (h). Pub. L. 100–667, § 109(2), (6), redesignated former subsec. (g) as (h) and substituted “prescribed fee” for “required fee”.
 
 1975—Subsecs. (a), (c) to (f). Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
@@ -625,7 +625,7 @@ Subsec. (d). Pub. L. 87–772, among other charges, removed the requirement of a
 
 Subsec. (e). Pub. L. 87–772 substituted “an employee of the Office” for “a chief of division”, among other changes.
 
-Subsec. (f). Pub. L. 87–772, among other changes, struck out “, signed by the Commissioner and sealed with the seal of the Patent Office” after “nature of such mistake”.
+Subsec. (f). Pub. L. 87–772, among other changes, struck out “, signed by the Commissioner and sealed with the seal of the Patent Office” after “nature of such mistake”.
 
 1950—Subsec. (a). Act Aug. 17, 1950, made it unnecessary to include in the certificate a statement of the applicant.
 
@@ -633,7 +633,7 @@ Subsec. (f). Pub. L. 87–772, among other changes, struck out “, signed by 
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 **Effective Date of 1998 Amendment**
 
@@ -655,9 +655,9 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1058. Duration, affidavits and fees
+### § 1058. Duration, affidavits and fees
 
 **(a) Time periods for required affidavits** Each registration shall remain in force for 10 years, except that the registration of any mark shall be canceled by the Director unless the owner of the registration files in the United States Patent and Trademark Office affidavits that meet the requirements of subsection (b), within the following time periods:
 
@@ -703,13 +703,13 @@ The Director shall notify any owner who files any affidavit required by this sec
 
 If the owner is not domiciled in the United States, the owner may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the last designated address, or if the owner does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served on the Director.
 
-(July 5, 1946, ch. 540, title I, § 8, 60 Stat. 431; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–247, § 8, Aug. 27, 1982, 96 Stat. 320; Pub. L. 100–667, title I, § 110, Nov. 16, 1988, 102 Stat. 3939; Pub. L. 105–330, title I, § 105, Oct. 30, 1998, 112 Stat. 3066; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B), (C)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, § 13207(b)(3), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 111–146, § 3(d)(1), Mar. 17, 2010, 124 Stat. 67.)
+(July 5, 1946, ch. 540, title I, § 8, 60 Stat. 431; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–247, § 8, Aug. 27, 1982, 96 Stat. 320; Pub. L. 100–667, title I, § 110, Nov. 16, 1988, 102 Stat. 3939; Pub. L. 105–330, title I, § 105, Oct. 30, 1998, 112 Stat. 3066; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B), (C)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, § 13207(b)(3), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 111–146, § 3(d)(1), Mar. 17, 2010, 124 Stat. 67.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Act Feb. 20, 1905, ch. 592, § 12, 33 Stat. 727.
+Act Feb. 20, 1905, ch. 592, § 12, 33 Stat. 727.
 
 **Amendments**
 
@@ -717,11 +717,11 @@ Act Feb. 20, 1905, ch. 592, § 12, 33 Stat. 727.
 
 2002—Subsec. (f). Pub. L. 107–273 amended subsec. (f) generally. Prior to amendment, text read as follows: “If the registrant is not domiciled in the United States, the registrant shall designate by a written document filed in the Patent and Trademark Office the name and address of some person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, such notice or process may be served upon the Director.”
 
-1999—Subsecs. (a) to (c). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], substituted “Director” for “Commissioner” wherever appearing.
+1999—Subsecs. (a) to (c). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], substituted “Director” for “Commissioner” wherever appearing.
 
-Subsec. (e). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(b)(1)(B), (C)], amended subsec. (e) identically, substituting “Director” for “Commissioner”.
+Subsec. (e). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(b)(1)(B), (C)], amended subsec. (e) identically, substituting “Director” for “Commissioner”.
 
-Subsec. (f). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], substituted “Director” for “Commissioner”.
+Subsec. (f). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], substituted “Director” for “Commissioner”.
 
 1998—Pub. L. 105–330 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (c) relating to affidavits of continuing use, registrations published under other provisions of law, and notification of acceptance or refusal of affidavits.
 
@@ -735,17 +735,17 @@ Subsec. (f). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], 
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 **Effective Date of 1998 Amendment**
 
 Amendment by Pub. L. 105–330 effective on the date that is 1 year after Oct. 30, 1998, see section 110 of Pub. L. 105–330, set out as a note under section 1051 of this title.
 
-Pub. L. 105–330, title I, § 109(a), Oct. 30, 1998, 112 Stat. 3069, provided that: “The provisions of section 8 of the Trademark Act of 1946 [15 U.S.C. 1058], as amended by section 105 of this Act, shall apply to a registration for trademark issued or renewed for a 20-year term, if the expiration date of the registration is on or after the effective date of this Act [probably should be “this title”, see section 110 of Pub. L. 105–330, set out as an Effective Date of 1998 Amendment note under section 1051 of this title].”
+Pub. L. 105–330, title I, § 109(a), Oct. 30, 1998, 112 Stat. 3069, provided that: “The provisions of section 8 of the Trademark Act of 1946 [15 U.S.C. 1058], as amended by section 105 of this Act, shall apply to a registration for trademark issued or renewed for a 20-year term, if the expiration date of the registration is on or after the effective date of this Act [probably should be “this title”, see section 110 of Pub. L. 105–330, set out as an Effective Date of 1998 Amendment note under section 1051 of this title].”
 
 For provisions relating to applicability of amendment by Pub. L. 105–330 to applications for registration of trademarks, see section 109(b) of Pub. L. 105–330, set out as a note under section 1051 of this title.
 
-Pub. L. 105–330, title I, § 109(c), Oct. 30, 1998, 112 Stat. 3069, provided that: “The provisions of section 8 of the Trademark Act of 1946 [15 U.S.C. 1058], as amended by section 105 of this Act, shall apply to the filing of an affidavit if the sixth or tenth anniversary of the registration, or the sixth anniversary of publication of the registration under section 12(c) of the Trademark Act of 1946 [15 U.S.C. 1062(c)], for which the affidavit is filed is on or after the effective date of this Act [probably should be “this title”, see section 110 of Pub. L. 105–330, set out as an Effective Date of 1998 Amendment note under section 1051 of this title].”
+Pub. L. 105–330, title I, § 109(c), Oct. 30, 1998, 112 Stat. 3069, provided that: “The provisions of section 8 of the Trademark Act of 1946 [15 U.S.C. 1058], as amended by section 105 of this Act, shall apply to the filing of an affidavit if the sixth or tenth anniversary of the registration, or the sixth anniversary of publication of the registration under section 12(c) of the Trademark Act of 1946 [15 U.S.C. 1062(c)], for which the affidavit is filed is on or after the effective date of this Act [probably should be “this title”, see section 110 of Pub. L. 105–330, set out as an Effective Date of 1998 Amendment note under section 1051 of this title].”
 
 **Effective Date of 1988 Amendment**
 
@@ -765,19 +765,19 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 **References to Trademark Act of 1946**
 
-Pub. L. 105–330, title I, § 102, Oct. 30, 1998, 112 Stat. 3064, provided that: “For purposes of this title [see Short Title of 1998 Amendment note set out under section 1051 of this title], the Act entitled ‘An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes’, approved July 5, 1946 (15 U.S.C. 1051 et seq.), shall be referred to as the ‘Trademark Act of 1946’.”
+Pub. L. 105–330, title I, § 102, Oct. 30, 1998, 112 Stat. 3064, provided that: “For purposes of this title [see Short Title of 1998 Amendment note set out under section 1051 of this title], the Act entitled ‘An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes’, approved July 5, 1946 (15 U.S.C. 1051 et seq.), shall be referred to as the ‘Trademark Act of 1946’.”
 
 **Pending Applications**
 
-Act July 5, 1946, ch. 540, title XI, § 51, as added Nov. 16, 1988, Pub. L. 100–667, title I, § 135, 102 Stat. 3948, provided that: “All certificates of registration based upon applications for registration pending in the Patent and Trademark Office on the effective date of the Trademark Law Revision Act of 1988 [see Effective Date of 1988 Amendment note set out under section 1051 of this title] shall remain in force for a period of 10 years.”
+Act July 5, 1946, ch. 540, title XI, § 51, as added Nov. 16, 1988, Pub. L. 100–667, title I, § 135, 102 Stat. 3948, provided that: “All certificates of registration based upon applications for registration pending in the Patent and Trademark Office on the effective date of the Trademark Law Revision Act of 1988 [see Effective Date of 1988 Amendment note set out under section 1051 of this title] shall remain in force for a period of 10 years.”
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1059. Renewal of registration
+### § 1059. Renewal of registration
 
 **(a) Period of renewal; time for renewal**
 
@@ -785,9 +785,9 @@ Subject to the provisions of section 1058 of this title, each registration may b
 
 **(b) Notification of refusal of renewal**
 
-If the Director refuses to renew the registration, the Director shall notify the registrant of the Commissioner’s 1
+If the Director refuses to renew the registration, the Director shall notify the registrant of the Commissioner’s 1
 
-<sup>1</sup>  So in original. Probably should be “Director’s”.
+<sup>1</sup> So in original. Probably should be “Director’s”.
 
 refusal and the reasons therefor.
 
@@ -795,29 +795,29 @@ refusal and the reasons therefor.
 
 If the registrant is not domiciled in the United States the registrant may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, or if the registrant does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served on the Director.
 
-(July 5, 1946, ch. 540, title I, § 9, 60 Stat. 431; Pub. L. 87–772, § 5, Oct. 9, 1962, 76 Stat. 770; Pub. L. 100–667, title I, § 111, Nov. 16, 1988, 102 Stat. 3939; Pub. L. 105–330, title I, § 106, Oct. 30, 1998, 112 Stat. 3067; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B), (C)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, § 13207(b)(4), Nov. 2, 2002, 116 Stat. 1907.)
+(July 5, 1946, ch. 540, title I, § 9, 60 Stat. 431; Pub. L. 87–772, § 5, Oct. 9, 1962, 76 Stat. 770; Pub. L. 100–667, title I, § 111, Nov. 16, 1988, 102 Stat. 3939; Pub. L. 105–330, title I, § 106, Oct. 30, 1998, 112 Stat. 3067; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B), (C)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, § 13207(b)(4), Nov. 2, 2002, 116 Stat. 1907.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Act Feb. 20, 1905, ch. 592, § 12, 33 Stat. 727.
+Act Feb. 20, 1905, ch. 592, § 12, 33 Stat. 727.
 
 **Amendments**
 
 2002—Subsec. (c). Pub. L. 107–273 amended subsec. (c) generally. Prior to amendment, text read as follows: “If the registrant is not domiciled in the United States, the registrant shall designate by a written document filed in the Patent and Trademark Office the name and address of some person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, such notice or process may be served upon the Director.”
 
-1999—Subsec. (a). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], substituted “Director” for “Commissioner”.
+1999—Subsec. (a). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], substituted “Director” for “Commissioner”.
 
-Subsec. (b). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(b)(1)(B), (C)], amended subsec. (b) identically, substituting “Director” for “Commissioner” in two places.
+Subsec. (b). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(b)(1)(B), (C)], amended subsec. (b) identically, substituting “Director” for “Commissioner” in two places.
 
-Subsec. (c). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], substituted “Director” for “Commissioner”.
+Subsec. (c). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], substituted “Director” for “Commissioner”.
 
 1998—Pub. L. 105–330 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (c) relating to period of renewal and time for renewal, notification of refusal of renewal, and applicants for renewal not domiciled in the United States.
 
-1988—Subsec. (a). Pub. L. 100–667, § 111(1), substituted “ten” for “twenty”.
+1988—Subsec. (a). Pub. L. 100–667, § 111(1), substituted “ten” for “twenty”.
 
-Subsec. (c). Pub. L. 100–667, § 111(2), substituted “1051(e)” for “1051(d)”.
+Subsec. (c). Pub. L. 100–667, § 111(2), substituted “1051(e)” for “1051(d)”.
 
 1962—Pub. L. 87–772 designated existing provisions as subsecs. (a) and (c), added subsec. (b), and among other changes, amended subsec. (a) by substituting provisions requiring a verified application specifying the goods or services recited in the registration on or in connection with which the mark is still in use in commerce and having attached a specimen showing current use of the mark, or showing that any nonuse is due to special circumstances which excuse the nonuse and that it’s not due to an intention to abandon the mark, for provisions requiring an affidavit by the registrant stating that the mark is still in use in commerce.
 
@@ -825,7 +825,7 @@ Subsec. (c). Pub. L. 100–667, § 111(2), substituted “1051(e)” for “10
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 **Effective Date of 1998 Amendment**
 
@@ -833,7 +833,7 @@ Amendment by Pub. L. 105–330 effective on the date that is 1 year after Oct. 3
 
 For provisions relating to applicability of amendment by Pub. L. 105–330 to applications for registration of trademarks, see section 109(b) of Pub. L. 105–330, set out as a note under section 1051 of this title.
 
-Pub. L. 105–330, title I, § 109(d), Oct. 30, 1998, 112 Stat. 3069, provided that: “The amendment made by section 106 [amending this section] shall apply to the filing of an application for renewal of a registration if the expiration date of the registration for which the renewal application is filed is on or after the effective date of this Act [probably should be “this title”, see section 110 of Pub. L. 105–330, set out as an Effective Date of 1998 Amendment note under section 1051 of this title].”
+Pub. L. 105–330, title I, § 109(d), Oct. 30, 1998, 112 Stat. 3069, provided that: “The amendment made by section 106 [amending this section] shall apply to the filing of an application for renewal of a registration if the expiration date of the registration for which the renewal application is filed is on or after the effective date of this Act [probably should be “this title”, see section 110 of Pub. L. 105–330, set out as an Effective Date of 1998 Amendment note under section 1051 of this title].”
 
 **Effective Date of 1988 Amendment**
 
@@ -851,7 +851,7 @@ Renewal of registrations under prior acts, see section 46(b) of act July 5, 1946
 
 Act July 17, 1946, ch. 587, 60 Stat. 568, provided for extension of time for renewal by a foreign registrant and expired by its own terms July 17, 1949.
 
-### § 1060. Assignment
+### § 1060. Assignment
 
 **(a)**
 
@@ -867,25 +867,25 @@ Act July 17, 1946, ch. 587, 60 Stat. 568, provided for extension of time for ren
 
 **(b)** An assignee not domiciled in the United States may designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, or if the assignee does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served upon the Director.
 
-(July 5, 1946, ch. 540, title I, § 10, 60 Stat. 431; Pub. L. 87–772, § 6, Oct. 9, 1962, 76 Stat. 770; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, § 112, Nov. 16, 1988, 102 Stat. 3939; Pub. L. 105–330, title I, § 107, Oct. 30, 1998, 112 Stat. 3068; Pub. L. 106–43, § 6(a), Aug. 5, 1999, 113 Stat. 220; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, § 13207(b)(5), Nov. 2, 2002, 116 Stat. 1907.)
+(July 5, 1946, ch. 540, title I, § 10, 60 Stat. 431; Pub. L. 87–772, § 6, Oct. 9, 1962, 76 Stat. 770; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, § 112, Nov. 16, 1988, 102 Stat. 3939; Pub. L. 105–330, title I, § 107, Oct. 30, 1998, 112 Stat. 3068; Pub. L. 106–43, § 6(a), Aug. 5, 1999, 113 Stat. 220; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, § 13207(b)(5), Nov. 2, 2002, 116 Stat. 1907.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Act Feb. 20, 1905, ch. 592, § 10, 33 Stat. 727.
+Act Feb. 20, 1905, ch. 592, § 10, 33 Stat. 727.
 
 **Amendments**
 
 2002—Subsecs. (a), (b). Pub. L. 107–273 amended subsecs. (a) and (b) generally, in subsec. (a) substituting pars. (1) to (5) for substantially identical undesignated provisions, and in subsec. (b) adding provisions relating to service on Director if assignee does not designate name and address of a person resident in the United States on whom may be served notices or process.
 
-1999—Pub. L. 106–43, § 6(a)(2), (3), which directed the amendment of this section by substituting “mark.” for “mark,” in the first sentence and striking out a second period at the end of the third sentence, could not be executed because “mark,” and the second period did not appear subsequent to amendment by Pub. L. 105–330. See 1998 Amendment note below.
+1999—Pub. L. 106–43, § 6(a)(2), (3), which directed the amendment of this section by substituting “mark.” for “mark,” in the first sentence and striking out a second period at the end of the third sentence, could not be executed because “mark,” and the second period did not appear subsequent to amendment by Pub. L. 105–330. See 1998 Amendment note below.
 
-Subsec. (a). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], substituted “Director” for “Commissioner” in last sentence.
+Subsec. (a). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], substituted “Director” for “Commissioner” in last sentence.
 
-Pub. L. 106–43, § 6(a)(1), which directed the amendment of the penultimate sentence of this section by substituting “assignment” for “subsequent purchase”, was executed by making the substitution for “subsequent purchase” in two places in the penultimate sentence of subsec. (a), after “date of the” and “prior to the”, to reflect the probable intent of Congress.
+Pub. L. 106–43, § 6(a)(1), which directed the amendment of the penultimate sentence of this section by substituting “assignment” for “subsequent purchase”, was executed by making the substitution for “subsequent purchase” in two places in the penultimate sentence of subsec. (a), after “date of the” and “prior to the”, to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], substituted “Director” for “Commissioner” in last sentence.
+Subsec. (b). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], substituted “Director” for “Commissioner” in last sentence.
 
 1998—Pub. L. 105–330 amended section catchline and text generally. Prior to amendment, text read as follows:
 
@@ -893,7 +893,7 @@ Subsec. (b). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], 
 
 “An assignee not domiciled in the United States shall be subject to and comply with the provisions of section 1051(e) of this title.”
 
-1988—Pub. L. 100–667 substituted “. However, no application to register a mark under section 1051(b) of this title shall be assignable prior to the filing of the verified statement of use under section 1051(d) of this title, except to a successor to the business of the applicant, or portion thereof, to which the mark pertains, if that business is ongoing and existing. In any assignment authorized by this section” for “and in any such assignment” in first par., and “1051(e)” for “1051(d)” in last par.
+1988—Pub. L. 100–667 substituted “. However, no application to register a mark under section 1051(b) of this title shall be assignable prior to the filing of the verified statement of use under section 1051(d) of this title, except to a successor to the business of the applicant, or portion thereof, to which the mark pertains, if that business is ongoing and existing. In any assignment authorized by this section” for “and in any such assignment” in first par., and “1051(e)” for “1051(d)” in last par.
 
 1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
 
@@ -903,7 +903,7 @@ Subsec. (b). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], 
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 **Effective Date of 1998 Amendment**
 
@@ -927,23 +927,23 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1061. Execution of acknowledgments and verifications
+### § 1061. Execution of acknowledgments and verifications
 
 Acknowledgments and verifications required under this chapter may be made before any person within the United States authorized by law to administer oaths, or, when made in a foreign country, before any diplomatic or consular officer of the United States or before any official authorized to administer oaths in the foreign country concerned whose authority is proved by a certificate of a diplomatic or consular officer of the United States, or apostille of an official designated by a foreign country which, by treaty or convention, accords like effect to apostilles of designated officials in the United States, and shall be valid if they comply with the laws of the state or country where made.
 
-(July 5, 1946, ch. 540, title I, § 11, 60 Stat. 432; Pub. L. 97–247, § 14(c), Aug. 27, 1982, 96 Stat. 321.)
+(July 5, 1946, ch. 540, title I, § 11, 60 Stat. 432; Pub. L. 97–247, § 14(c), Aug. 27, 1982, 96 Stat. 321.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Acts Feb. 20, 1905, ch. 592, § 2, 33 Stat. 724; Feb. 18, 1909, ch. 144, 35 Stat. 627.
+Acts Feb. 20, 1905, ch. 592, § 2, 33 Stat. 724; Feb. 18, 1909, ch. 144, 35 Stat. 627.
 
 **Amendments**
 
-1982—Pub. L. 97–247 substituted “is” for “shall be” after “whose authority”, and inserted “, or apostille of an official designated by a foreign country which, by treaty or convention, accords like effect to apostilles of designated officials in the United States”.
+1982—Pub. L. 97–247 substituted “is” for “shall be” after “whose authority”, and inserted “, or apostille of an official designated by a foreign country which, by treaty or convention, accords like effect to apostilles of designated officials in the United States”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -955,7 +955,7 @@ Amendment by Pub. L. 97–247 effective Aug. 27, 1982, see section 17(a) of Pub.
 
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
 
-### § 1062. Publication
+### § 1062. Publication
 
 **(a) Examination and publication**
 
@@ -973,17 +973,17 @@ Upon the filing of an application for registration and payment of the prescribed
 
 A registrant of a mark registered under the provisions of the Act of March 3, 1881, or the Act of February 20, 1905, may, at any time prior to the expiration of the registration thereof, upon the payment of the prescribed fee file with the Director an affidavit setting forth those goods stated in the registration on which said mark is in use in commerce and that the registrant claims the benefits of this chapter for said mark. The Director shall publish notice thereof with a reproduction of said mark in the Official Gazette, and notify the registrant of such publication and of the requirement for the affidavit of use or nonuse as provided for in subsection (b) of section 1058 of this title. Marks published under this subsection shall not be subject to the provisions of section 1063 of this title.
 
-(July 5, 1946, ch. 540, title I, § 12, 60 Stat. 432; Pub. L. 87–772, § 7, Oct. 9, 1962, 76 Stat. 770; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, § 113, Nov. 16, 1988, 102 Stat. 3940; Pub. L. 105–330, title I, § 104, Oct. 30, 1998, 112 Stat. 3066; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 116–260, div. Q, title II, § 224, Dec. 27, 2020, 134 Stat. 2201.)
+(July 5, 1946, ch. 540, title I, § 12, 60 Stat. 432; Pub. L. 87–772, § 7, Oct. 9, 1962, 76 Stat. 770; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, § 113, Nov. 16, 1988, 102 Stat. 3940; Pub. L. 105–330, title I, § 104, Oct. 30, 1998, 112 Stat. 3066; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 116–260, div. Q, title II, § 224, Dec. 27, 2020, 134 Stat. 2201.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Acts March 3, 1881 and February 20, 1905, referred to in subsec. (c), are acts Mar. 3, 1881, ch. 138, 21 Stat. 502 and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
+Acts March 3, 1881 and February 20, 1905, referred to in subsec. (c), are acts Mar. 3, 1881, ch. 138, 21 Stat. 502 and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
 
 **Prior Provisions**
 
-Acts Feb. 20, 1905, ch. 592, § 6, 33 Stat. 726; Mar. 2, 1907, ch. 2573, § 2, 34 Stat. 1252.
+Acts Feb. 20, 1905, ch. 592, § 6, 33 Stat. 726; Mar. 2, 1907, ch. 2573, § 2, 34 Stat. 1252.
 
 **Amendments**
 
@@ -1005,7 +1005,7 @@ Subsec. (c). Pub. L. 87–772 inserted “Marks published under” before “thi
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 **Effective Date of 1998 Amendment**
 
@@ -1029,9 +1029,9 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1063. Opposition to registration
+### § 1063. Opposition to registration
 
 **(a)** Any person who believes that he would be damaged by the registration of a mark upon the principal register, including the registration of any mark which would be likely to cause dilution by blurring or dilution by tarnishment under section 1125(c) of this title, may, upon payment of the prescribed fee, file an opposition in the Patent and Trademark Office, stating the grounds therefor, within thirty days after the publication under subsection (a) of section 1062 of this title of the mark sought to be registered. Upon written request prior to the expiration of the thirty-day period, the time for filing opposition shall be extended for an additional thirty days, and further extensions of time for filing opposition may be granted by the Director for good cause when requested prior to the expiration of an extension. The Director shall notify the applicant of each extension of the time for filing opposition. An opposition may be amended under such conditions as may be prescribed by the Director.
 
@@ -1041,13 +1041,13 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 **(2)** a notice of allowance shall be issued to the applicant if the applicant applied for registration under section 1051(b) of this title.
 
-(July 5, 1946, ch. 540, title I, § 13, 60 Stat. 433; Pub. L. 87–772, § 8, Oct. 9, 1962, 76 Stat. 771; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–600, § 1, Jan. 2, 1975, 88 Stat. 1955; Pub. L. 97–247, § 9(a), Aug. 27, 1982, 96 Stat. 320; Pub. L. 100–667, title I, § 114, Nov. 16, 1988, 102 Stat. 3940; Pub. L. 106–43, § 2(b), Aug. 5, 1999, 113 Stat. 218; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 109–312, § 3(b), Oct. 6, 2006, 120 Stat. 1732.)
+(July 5, 1946, ch. 540, title I, § 13, 60 Stat. 433; Pub. L. 87–772, § 8, Oct. 9, 1962, 76 Stat. 771; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–600, § 1, Jan. 2, 1975, 88 Stat. 1955; Pub. L. 97–247, § 9(a), Aug. 27, 1982, 96 Stat. 320; Pub. L. 100–667, title I, § 114, Nov. 16, 1988, 102 Stat. 3940; Pub. L. 106–43, § 2(b), Aug. 5, 1999, 113 Stat. 218; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 109–312, § 3(b), Oct. 6, 2006, 120 Stat. 1732.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Acts Feb. 20, 1905, ch. 592, §§ 6, 7, 33 Stat. 726; Mar. 2, 1907, ch. 2573, § 2, 34 Stat. 1252.
+Acts Feb. 20, 1905, ch. 592, §§ 6, 7, 33 Stat. 726; Mar. 2, 1907, ch. 2573, § 2, 34 Stat. 1252.
 
 **Amendments**
 
@@ -1055,7 +1055,7 @@ Acts Feb. 20, 1905, ch. 592, §§ 6, 7, 33 Stat. 726; Mar. 2, 1907, ch. 2573, 
 
 1999—Subsec. (a). Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
 
-Pub. L. 106–43 inserted “, including as a result of dilution under section 1125(c) of this title,” after “principal register” in first sentence.
+Pub. L. 106–43 inserted “, including as a result of dilution under section 1125(c) of this title,” after “principal register” in first sentence.
 
 1988—Pub. L. 100–667 designated existing provisions as subsec. (a), substituted “prescribed fee” for “required fee”, and added subsec. (b).
 
@@ -1071,7 +1071,7 @@ Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Off
 
 **Effective Date of 1999 Amendments**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 Amendment by Pub. L. 106–43 effective Aug. 5, 1999, and applicable only to any application for registration filed on or after Jan. 16, 1996, see section 2(e) of Pub. L. 106–43, set out as a note under section 1052 of this title.
 
@@ -1085,7 +1085,7 @@ Amendment by Pub. L. 97–247 effective six months after Aug. 27, 1982, see sect
 
 **Effective Date of 1975 Amendments**
 
-Pub. L. 93–600, § 4, Jan. 2, 1975, 88 Stat. 1955, provided that: “This Act [amending this section and sections 1071 and 1117 of this title] shall become effective upon enactment [Jan. 2, 1975], but shall not affect any suit, proceeding, or appeal then pending.”
+Pub. L. 93–600, § 4, Jan. 2, 1975, 88 Stat. 1955, provided that: “This Act [amending this section and sections 1071 and 1117 of this title] shall become effective upon enactment [Jan. 2, 1975], but shall not affect any suit, proceeding, or appeal then pending.”
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of this title.
 
@@ -1097,9 +1097,9 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1064. Cancellation of registration
+### § 1064. Cancellation of registration
 
 A petition to cancel a registration of a mark, stating the grounds relied upon, may, upon payment of the prescribed fee, be filed as follows by any person who believes that he is or will be damaged, including as a result of a likelihood of dilution by blurring or dilution by tarnishment under section 1125(c) of this title, by the registration of a mark on the principal register established by this chapter, or under the Act of March 3, 1881, or the Act of February 20, 1905:
 
@@ -1117,43 +1117,43 @@ A petition to cancel a registration of a mark, stating the grounds relied upon, 
 
 *Provided*, That the Federal Trade Commission may apply to cancel on the grounds specified in paragraphs (3) and (5) of this section any mark registered on the principal register established by this chapter, and the prescribed fee shall not be required. Nothing in paragraph (5) shall be deemed to prohibit the registrant from using its certification mark in advertising or promoting recognition of the certification program or of the goods or services meeting the certification standards of the registrant. Such uses of the certification mark shall not be grounds for cancellation under paragraph (5), so long as the registrant does not itself produce, manufacture, or sell any of the certified goods or services to which its identical certification mark is applied. Nothing in paragraph (6) shall be construed to limit the timing applicable to any other ground for cancellation. A registration under section 1126(e) or 1141f of this title shall not be cancelled pursuant to paragraph (6) if the registrant demonstrates that any nonuse is due to special circumstances that excuse such nonuse.
 
-(July 5, 1946, ch. 540, title I, § 14, 60 Stat. 433; Pub. L. 87–772, § 9, Oct. 9, 1962, 76 Stat. 771; Pub. L. 97–247, § 9(b), Aug. 27, 1982, 96 Stat. 320; Pub. L. 98–620, title I, § 102, Nov. 8, 1984, 98 Stat. 3335; Pub. L. 100–667, title I, § 115, Nov. 16, 1988, 102 Stat. 3940; Pub. L. 105–330, title II, § 201(a)(4), title III, § 301, Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–43, § 2(c), Aug. 5, 1999, 113 Stat. 218; Pub. L. 109–312, § 3(c), Oct. 6, 2006, 120 Stat. 1732; Pub. L. 116–260, div. Q, title II, § 225(b), Dec. 27, 2020, 134 Stat. 2204.)
+(July 5, 1946, ch. 540, title I, § 14, 60 Stat. 433; Pub. L. 87–772, § 9, Oct. 9, 1962, 76 Stat. 771; Pub. L. 97–247, § 9(b), Aug. 27, 1982, 96 Stat. 320; Pub. L. 98–620, title I, § 102, Nov. 8, 1984, 98 Stat. 3335; Pub. L. 100–667, title I, § 115, Nov. 16, 1988, 102 Stat. 3940; Pub. L. 105–330, title II, § 201(a)(4), title III, § 301, Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–43, § 2(c), Aug. 5, 1999, 113 Stat. 218; Pub. L. 109–312, § 3(c), Oct. 6, 2006, 120 Stat. 1732; Pub. L. 116–260, div. Q, title II, § 225(b), Dec. 27, 2020, 134 Stat. 2204.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Acts March 3, 1881 and February 20, 1905, referred to in opening par. and pars. (2) and (4), are acts Mar. 3, 1881, ch. 138, 21 Stat. 502 and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
+Acts March 3, 1881 and February 20, 1905, referred to in opening par. and pars. (2) and (4), are acts Mar. 3, 1881, ch. 138, 21 Stat. 502 and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
 
 **Prior Provisions**
 
-Act Feb. 20, 1905, ch. 592, § 13, 33 Stat. 728.
+Act Feb. 20, 1905, ch. 592, § 13, 33 Stat. 728.
 
 **Amendments**
 
-2020—Pub. L. 116–260, § 225(b)(3), in concluding proviso, inserted “Nothing in paragraph (6) shall be construed to limit the timing applicable to any other ground for cancellation. A registration under section 1126(e) or 1141f of this title shall not be cancelled pursuant to paragraph (6) if the registrant demonstrates that any nonuse is due to special circumstances that excuse such nonuse.” after “identical certification mark is applied.”
+2020—Pub. L. 116–260, § 225(b)(3), in concluding proviso, inserted “Nothing in paragraph (6) shall be construed to limit the timing applicable to any other ground for cancellation. A registration under section 1126(e) or 1141f of this title shall not be cancelled pursuant to paragraph (6) if the registrant demonstrates that any nonuse is due to special circumstances that excuse such nonuse.” after “identical certification mark is applied.”
 
-Par. (6). Pub. L. 116–260, § 225(b)(1), (2), added par. (6).
+Par. (6). Pub. L. 116–260, § 225(b)(1), (2), added par. (6).
 
-2006—Pub. L. 109–312 substituted “, including as a result of a likelihood of dilution by blurring or dilution by tarnishment under section 1125(c) of this title,” for “, including as a result of dilution under section 1125(c) of this title,” in introductory provisions.
+2006—Pub. L. 109–312 substituted “, including as a result of a likelihood of dilution by blurring or dilution by tarnishment under section 1125(c) of this title,” for “, including as a result of dilution under section 1125(c) of this title,” in introductory provisions.
 
-1999—Pub. L. 106–43 inserted “, including as a result of dilution under section 1125(c) of this title,” after “damaged” in introductory provisions.
+1999—Pub. L. 106–43 inserted “, including as a result of dilution under section 1125(c) of this title,” after “damaged” in introductory provisions.
 
-1998—Pub. L. 105–330, § 301, inserted at end “Nothing in paragraph (5) shall be deemed to prohibit the registrant from using its certification mark in advertising or promoting recognition of the certification program or of the goods or services meeting the certification standards of the registrant. Such uses of the certification mark shall not be grounds for cancellation under paragraph (5), so long as the registrant does not itself produce, manufacture, or sell any of the certified goods or services to which its identical certification mark is applied.”
+1998—Pub. L. 105–330, § 301, inserted at end “Nothing in paragraph (5) shall be deemed to prohibit the registrant from using its certification mark in advertising or promoting recognition of the certification program or of the goods or services meeting the certification standards of the registrant. Such uses of the certification mark shall not be grounds for cancellation under paragraph (5), so long as the registrant does not itself produce, manufacture, or sell any of the certified goods or services to which its identical certification mark is applied.”
 
-Par. (3). Pub. L. 105–330, § 201(a)(4), inserted “or is functional,” before “or has been abandoned”.
+Par. (3). Pub. L. 105–330, § 201(a)(4), inserted “or is functional,” before “or has been abandoned”.
 
-1988—Pub. L. 100–667, § 115(1), (7), in introductory provisions, inserted “as follows” and substituted “1905:” for “1905—”, and in concluding proviso substituted “paragraphs (3) and (5)” for “subsections (c) and (e)”.
+1988—Pub. L. 100–667, § 115(1), (7), in introductory provisions, inserted “as follows” and substituted “1905:” for “1905—”, and in concluding proviso substituted “paragraphs (3) and (5)” for “subsections (c) and (e)”.
 
-Par. (1). Pub. L. 100–667, § 115(2), substituted “(1) Within” for “(a) within” and “chapter.” for “chapter; or”.
+Par. (1). Pub. L. 100–667, § 115(2), substituted “(1) Within” for “(a) within” and “chapter.” for “chapter; or”.
 
-Par. (2). Pub. L. 100–667, § 115(3), substituted “(2) Within” for “(b) within”, and “1905.” for “1905; or”.
+Par. (2). Pub. L. 100–667, § 115(3), substituted “(2) Within” for “(b) within”, and “1905.” for “1905; or”.
 
-Par. (3). Pub. L. 100–667, § 115(4), substituted “(3)” for “(c)” and amended text generally. Prior to amendment, text read as follows: “at any time if the registered mark becomes the common descriptive name of an article or substance, or has been abandoned, or its registration was obtained fraudulently or contrary to the provisions of section 1054 of this title or of subsections (a), (b), or (c) of section 1052 of this title for a registration hereunder, or contrary to similar prohibitory provisions of said prior Acts for a registration thereunder, or if the registered mark is being used by, or with the permission of, the registrant so as to misrepresent the source of the goods or services in connection with which the mark is used. A registered mark shall not be deemed to be the common descriptive name of goods or services solely because such mark is also used as a name of or to identify a unique product or service. The primary significance of the registered mark to the relevant public rather than purchaser motivation shall be the test for determining whether the registered mark has become the common descriptive name of goods or services in connection with which it has been used; or”.
+Par. (3). Pub. L. 100–667, § 115(4), substituted “(3)” for “(c)” and amended text generally. Prior to amendment, text read as follows: “at any time if the registered mark becomes the common descriptive name of an article or substance, or has been abandoned, or its registration was obtained fraudulently or contrary to the provisions of section 1054 of this title or of subsections (a), (b), or (c) of section 1052 of this title for a registration hereunder, or contrary to similar prohibitory provisions of said prior Acts for a registration thereunder, or if the registered mark is being used by, or with the permission of, the registrant so as to misrepresent the source of the goods or services in connection with which the mark is used. A registered mark shall not be deemed to be the common descriptive name of goods or services solely because such mark is also used as a name of or to identify a unique product or service. The primary significance of the registered mark to the relevant public rather than purchaser motivation shall be the test for determining whether the registered mark has become the common descriptive name of goods or services in connection with which it has been used; or”.
 
-Par. (4). Pub. L. 100–667, § 115(5), substituted “(4) At” for “(d) at”, and “title.” for “title; or”.
+Par. (4). Pub. L. 100–667, § 115(5), substituted “(4) At” for “(d) at”, and “title.” for “title; or”.
 
-Par. (5). Pub. L. 100–667, § 115(6), substituted “(5) At” for “(e) at” and redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively.
+Par. (5). Pub. L. 100–667, § 115(6), substituted “(5) At” for “(e) at” and redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively.
 
 1984—Par. (c). Pub. L. 98–620 inserted provision that a registered mark shall not be deemed to be the common descriptive name of goods or services solely because such mark is also used as a name of or to identify a unique product or service, and that the primary significance of the registered mark to the relevant public rather than purchaser motivation shall be the test for determining whether the registered mark has become the common descriptive name of goods or services in connection with which it has been used.
 
@@ -1165,7 +1165,7 @@ Par. (5). Pub. L. 100–667, § 115(6), substituted “(5) At” for “(e) at
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. Q, title II, § 225(g), Dec. 27, 2020, 134 Stat. 2208, provided that: “The amendments made by this section [enacting sections 1066a and 1066b of this title and amending this section and sections 1065, 1070, 1071, and 1094 of this title] shall take effect upon the expiration of the 1-year period beginning on the date of enactment of this Act [Dec. 27, 2020], and shall apply to any mark registered before, on, or after that effective date.”
+Pub. L. 116–260, div. Q, title II, § 225(g), Dec. 27, 2020, 134 Stat. 2208, provided that: “The amendments made by this section [enacting sections 1066a and 1066b of this title and amending this section and sections 1065, 1070, 1071, and 1094 of this title] shall take effect upon the expiration of the 1-year period beginning on the date of enactment of this Act [Dec. 27, 2020], and shall apply to any mark registered before, on, or after that effective date.”
 
 **Effective Date of 1999 Amendment**
 
@@ -1185,7 +1185,7 @@ Amendment by Pub. L. 97–247 effective six months after Aug. 27, 1982, see sect
 
 **Finality of Judgments Prior to November 8, 1984**
 
-Pub. L. 98–620, title I, § 104, Nov. 8, 1984, 98 Stat. 3336, provided that: “Nothing in this title [amending this section and section 1127 of this title and enacting provisions set out as a note under section 1051 of this title] shall be construed to provide a basis for reopening of any final judgment entered prior to the date of enactment of this title [Nov. 8, 1984].”
+Pub. L. 98–620, title I, § 104, Nov. 8, 1984, 98 Stat. 3336, provided that: “Nothing in this title [amending this section and section 1127 of this title and enacting provisions set out as a note under section 1051 of this title] shall be construed to provide a basis for reopening of any final judgment entered prior to the date of enactment of this title [Nov. 8, 1984].”
 
 **Repeal and Effect on Existing Rights**
 
@@ -1199,9 +1199,9 @@ For provisions restricting the use of funds authorized to be appropriated to car
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-### § 1065. Incontestability of right to use mark under certain conditions
+### § 1065. Incontestability of right to use mark under certain conditions
 
 Except on a ground for which application to cancel may be filed at any time under paragraphs (3), (5), and (6) of section 1064 of this title, and except to the extent, if any, to which the use of a mark registered on the principal register infringes a valid right acquired under the law of any State or Territory by use of a mark or trade name continuing from a date prior to the date of registration under this chapter of such registered mark, the right of the owner to use such registered mark in commerce for the goods or services on or in connection with which such registered mark has been in continuous use for five consecutive years subsequent to the date of such registration and is still in use in commerce, shall be incontestable: *Provided*, That—
 
@@ -1217,23 +1217,23 @@ Subject to the conditions above specified in this section, the incontestable rig
 
 The Director shall notify any registrant who files the above-prescribed affidavit of the filing thereof.
 
-(July 5, 1946, ch. 540, title I, § 15, 60 Stat. 433; Pub. L. 87–772, § 10, Oct. 9, 1962, 76 Stat. 771; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–247, § 10, Aug. 27, 1982, 96 Stat. 320; Pub. L. 100–667, title I, § 116, Nov. 16, 1988, 102 Stat. 3941; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 111–146, § 3(b), Mar. 17, 2010, 124 Stat. 67; Pub. L. 116–260, div. Q, title II, § 225(e)(1), Dec. 27, 2020, 134 Stat. 2207.)
+(July 5, 1946, ch. 540, title I, § 15, 60 Stat. 433; Pub. L. 87–772, § 10, Oct. 9, 1962, 76 Stat. 771; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–247, § 10, Aug. 27, 1982, 96 Stat. 320; Pub. L. 100–667, title I, § 116, Nov. 16, 1988, 102 Stat. 3941; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 111–146, § 3(b), Mar. 17, 2010, 124 Stat. 67; Pub. L. 116–260, div. Q, title II, § 225(e)(1), Dec. 27, 2020, 134 Stat. 2207.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Acts March 3, 1881 and February 20, 1905, referred to in text, are acts Mar. 3, 1881, ch. 138, 21 Stat. 502 and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
+Acts March 3, 1881 and February 20, 1905, referred to in text, are acts Mar. 3, 1881, ch. 138, 21 Stat. 502 and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
 
 **Amendments**
 
 2020—Pub. L. 116–260 substituted “paragraphs (3), (5), and (6)” for “paragraphs (3) and (5)” in introductory provisions.
 
-2010—Pub. L. 111–146, § 3(b)(1), substituted “right of the owner” for “right of the registrant” in introductory provisions.
+2010—Pub. L. 111–146, § 3(b)(1), substituted “right of the owner” for “right of the registrant” in introductory provisions.
 
-Par. (1). Pub. L. 111–146, § 3(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “there has been no final decision adverse to registrant’s claim of ownership of such mark for such goods or services, or to registrant’s right to register the same or to keep the same on the register; and”.
+Par. (1). Pub. L. 111–146, § 3(b)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “there has been no final decision adverse to registrant’s claim of ownership of such mark for such goods or services, or to registrant’s right to register the same or to keep the same on the register; and”.
 
-Par. (2). Pub. L. 111–146, § 3(b)(3), inserted “United States” before “Patent and Trademark Office”.
+Par. (2). Pub. L. 111–146, § 3(b)(3), inserted “United States” before “Patent and Trademark Office”.
 
 1999—Pub. L. 106–113 substituted “Director” for “Commissioner” in par. (3) and in two places in concluding provisions.
 
@@ -1253,7 +1253,7 @@ Amendment by Pub. L. 116–260 effective upon the expiration of the 1-year perio
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 **Effective Date of 1988 Amendment**
 
@@ -1275,19 +1275,19 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1066. Interference; declaration by Director
+### § 1066. Interference; declaration by Director
 
 Upon petition showing extraordinary circumstances, the Director may declare that an interference exists when application is made for the registration of a mark which so resembles a mark previously registered by another, or for the registration of which another has previously made application, as to be likely when used on or in connection with the goods or services of the applicant to cause confusion or mistake or to deceive. No interference shall be declared between an application and the registration of a mark the right to the use of which has become incontestable.
 
-(July 5, 1946, ch. 540, title I, § 16, 60 Stat. 434; Pub. L. 87–772, § 11, Oct. 9, 1962, 76 Stat. 771; Pub. L. 97–247, § 11, Aug. 27, 1982, 96 Stat. 321; Pub. L. 100–667, title I, § 117, Nov. 16, 1988, 102 Stat. 3941; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
+(July 5, 1946, ch. 540, title I, § 16, 60 Stat. 434; Pub. L. 87–772, § 11, Oct. 9, 1962, 76 Stat. 771; Pub. L. 97–247, § 11, Aug. 27, 1982, 96 Stat. 321; Pub. L. 100–667, title I, § 117, Nov. 16, 1988, 102 Stat. 3941; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Act Feb. 20, 1905, ch. 592, § 7, 33 Stat. 726.
+Act Feb. 20, 1905, ch. 592, § 7, 33 Stat. 726.
 
 **Amendments**
 
@@ -1303,7 +1303,7 @@ Act Feb. 20, 1905, ch. 592, § 7, 33 Stat. 726.
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 **Effective Date of 1988 Amendment**
 
@@ -1321,9 +1321,9 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1066a. Ex parte expungement
+### § 1066a. Ex parte expungement
 
 **(a) Petition**
 
@@ -1413,7 +1413,7 @@ With respect to a particular registration, for goods or services previously subj
 
 Nothing in this section shall affect the requirement for use in commerce of a mark registered under section 1051(a) or 1091 of this title.
 
-(July 5, 1946, ch. 540, title I, § 16A, as added Pub. L. 116–260, div. Q, title II, § 225(a), Dec. 27, 2020, 134 Stat. 2202.)
+(July 5, 1946, ch. 540, title I, § 16A, as added Pub. L. 116–260, div. Q, title II, § 225(a), Dec. 27, 2020, 134 Stat. 2202.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1423,11 +1423,11 @@ Section effective upon the expiration of the 1-year period beginning on Dec. 27,
 
 **Regulations**
 
-Pub. L. 116–260, div. Q, title II, § 225(f), Dec. 27, 2020, 134 Stat. 2207, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 27, 2020], the Director shall issue regulations to carry out sections 16A and 16B of the Trademark Act of 1946 [15 U.S.C. 1066a, 1066b], as added by subsections (a) and (c).”
+Pub. L. 116–260, div. Q, title II, § 225(f), Dec. 27, 2020, 134 Stat. 2207, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 27, 2020], the Director shall issue regulations to carry out sections 16A and 16B of the Trademark Act of 1946 [15 U.S.C. 1066a, 1066b], as added by subsections (a) and (c).”
 
 [For definitions of terms used in section 225(f) of Pub. L. 116–260, set out above, see section 222 of Pub. L. 116–260, set out as a note under section 1051 of this title.]
 
-### § 1066b. Ex parte reexamination
+### § 1066b. Ex parte reexamination
 
 **(a) Petition for reexamination**
 
@@ -1517,7 +1517,7 @@ With respect to a particular registration, for any goods or services previously 
 
 The provisions of subsection (b) apply, as appropriate, to registrations under section 1091 of this title. Nothing in this section shall be construed to limit the timing of a cancellation action under section 1092 of this title.
 
-(July 5, 1946, ch. 540, title I, § 16B, as added Pub. L. 116–260, div. Q, title II, § 225(c), Dec. 27, 2020, 134 Stat. 2205.)
+(July 5, 1946, ch. 540, title I, § 16B, as added Pub. L. 116–260, div. Q, title II, § 225(c), Dec. 27, 2020, 134 Stat. 2205.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1529,17 +1529,17 @@ Section effective upon the expiration of the 1-year period beginning on Dec. 27,
 
 Director required to issue regulations to carry out this section no later than 1 year after Dec. 27, 2020, see section 225(f) of Pub. L. 116–260, set out as a note under section 1066a of this title.
 
-### § 1067. Interference, opposition, and proceedings for concurrent use registration or for cancellation; notice; Trademark Trial and Appeal Board
+### § 1067. Interference, opposition, and proceedings for concurrent use registration or for cancellation; notice; Trademark Trial and Appeal Board
 
 **(a)** In every case of interference, opposition to registration, application to register as a lawful concurrent user, or application to cancel the registration of a mark, the Director shall give notice to all parties and shall direct a Trademark Trial and Appeal Board to determine and decide the respective rights of registration.
 
-**(b)** The Trademark Trial and Appeal Board shall include the Director, Deputy 1
+**(b)** The Trademark Trial and Appeal Board shall include the Director, Deputy 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “the”.
+<sup>1</sup> So in original. Probably should be preceded by “the”.
 
-Director of the United States Patent and Trademark Office 2
+Director of the United States Patent and Trademark Office 2
 
-<sup>2</sup>  So in original. Probably should be followed by a comma.
+<sup>2</sup> So in original. Probably should be followed by a comma.
 
 the Commissioner for Patents, the Commissioner for Trademarks, and administrative trademark judges who are appointed by the Secretary of Commerce, in consultation with the Director.
 
@@ -1547,19 +1547,19 @@ the Commissioner for Patents, the Commissioner for Trademarks, and administrativ
 
 **(d) Defense to Challenge of Appointment.—** It shall be a defense to a challenge to the appointment of an administrative trademark judge on the basis of the judge’s having been originally appointed by the Director that the administrative trademark judge so appointed was acting as a de facto officer.
 
-(July 5, 1946, ch. 540, title I, § 17, 60 Stat. 434; Pub. L. 85–609, § 1(a), Aug. 8, 1958, 72 Stat. 540; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 96–455, § 1, Oct. 15, 1980, 94 Stat. 2024; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4716], Nov. 29, 1999, 113 Stat. 1536, 1501A–580; Pub. L. 107–273, div. C, title III, § 13203(a)(1), Nov. 2, 2002, 116 Stat. 1902; Pub. L. 110–313, § 1(b), Aug. 12, 2008, 122 Stat. 3014.)
+(July 5, 1946, ch. 540, title I, § 17, 60 Stat. 434; Pub. L. 85–609, § 1(a), Aug. 8, 1958, 72 Stat. 540; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 96–455, § 1, Oct. 15, 1980, 94 Stat. 2024; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4716], Nov. 29, 1999, 113 Stat. 1536, 1501A–580; Pub. L. 107–273, div. C, title III, § 13203(a)(1), Nov. 2, 2002, 116 Stat. 1902; Pub. L. 110–313, § 1(b), Aug. 12, 2008, 122 Stat. 3014.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Act Feb. 20, 1905, ch. 592, § 7, 33 Stat. 726.
+Act Feb. 20, 1905, ch. 592, § 7, 33 Stat. 726.
 
 **Amendments**
 
-2008—Subsec. (b). Pub. L. 110–313, § 1(b)(1), inserted “Deputy Director of the United States Patent and Trademark Office” after “Director,” and substituted “appointed by the Secretary of Commerce, in consultation with the Director” for “appointed by the Director”.
+2008—Subsec. (b). Pub. L. 110–313, § 1(b)(1), inserted “Deputy Director of the United States Patent and Trademark Office” after “Director,” and substituted “appointed by the Secretary of Commerce, in consultation with the Director” for “appointed by the Director”.
 
-Subsecs. (c), (d). Pub. L. 110–313, § 1(b)(2), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 110–313, § 1(b)(2), added subsecs. (c) and (d).
 
 2002—Subsec. (b). Pub. L. 107–273, which directed amendment of subsec. (b) by inserting “the Deputy Commissioner,” after “Commissioner,”, could not be executed because “Commissioner,” does not appear in text.
 
@@ -1579,11 +1579,11 @@ Subsecs. (c), (d). Pub. L. 110–313, § 1(b)(2), added subsecs. (c) and (d).
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 **Effective Date of 1980 Amendment; Board Membership as of October 15, 1980, Unaffected**
 
-Pub. L. 96–455, § 2, Oct. 15, 1980, 94 Stat. 2024, provided that: “This amendment [amending this section] shall become effective on the date of its enactment [Oct. 15, 1980]. Members of the Trademark Trial and Appeal Board on the date of enactment shall continue to be members under and in accordance with the provisions of section 17 of the Act of July 5, 1946, as amended [this section], in effect immediately preceding the date of enactment.”
+Pub. L. 96–455, § 2, Oct. 15, 1980, 94 Stat. 2024, provided that: “This amendment [amending this section] shall become effective on the date of its enactment [Oct. 15, 1980]. Members of the Trademark Trial and Appeal Board on the date of enactment shall continue to be members under and in accordance with the provisions of section 17 of the Act of July 5, 1946, as amended [this section], in effect immediately preceding the date of enactment.”
 
 **Effective Date of 1975 Amendment**
 
@@ -1591,7 +1591,7 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 **Effective Date of 1958 Amendment**
 
-Pub. L. 85–609, § 3, Aug. 8, 1958, 72 Stat. 541, provided that: “This Act [amending this section and sections 1070, 1071, 1092, and 1113 of this title] shall take effect on approval [Aug. 8, 1958]; it shall apply to ex parte appeals taken to the Commissioner prior to the date of approval which have not been heard but shall not apply to any such appeal which has been heard or decided in which event further proceedings may be had as though this Act had not been passed; it shall apply to inter partes cases instituted prior to the date of approval which have not been heard by an examiner of interferences, but shall not apply to any such case which has been heard or decided by an examiner of interferences in which event further proceedings may be had as though this Act had not passed.”
+Pub. L. 85–609, § 3, Aug. 8, 1958, 72 Stat. 541, provided that: “This Act [amending this section and sections 1070, 1071, 1092, and 1113 of this title] shall take effect on approval [Aug. 8, 1958]; it shall apply to ex parte appeals taken to the Commissioner prior to the date of approval which have not been heard but shall not apply to any such appeal which has been heard or decided in which event further proceedings may be had as though this Act had not been passed; it shall apply to inter partes cases instituted prior to the date of approval which have not been heard by an examiner of interferences, but shall not apply to any such case which has been heard or decided by an examiner of interferences in which event further proceedings may be had as though this Act had not passed.”
 
 **Repeal and Effect on Existing Rights**
 
@@ -1599,29 +1599,29 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 **Reorganization Plan No. 5 of 1950**
 
-Pub. L. 85–609, § 2, Aug. 8, 1958, 72 Stat. 540, provided that: “The provisions of this Act [amending this section and sections 1070, 1071, 1092, and 1113 of this title] shall be subject to Reorganization Plan No. 5 of 1950 (64 Stat. 1263).”
+Pub. L. 85–609, § 2, Aug. 8, 1958, 72 Stat. 540, provided that: “The provisions of this Act [amending this section and sections 1070, 1071, 1092, and 1113 of this title] shall be subject to Reorganization Plan No. 5 of 1950 (64 Stat. 1263).”
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1068. Action of Director in interference, opposition, and proceedings for concurrent use registration or for cancellation
+### § 1068. Action of Director in interference, opposition, and proceedings for concurrent use registration or for cancellation
 
 In such proceedings the Director may refuse to register the opposed mark, may cancel the registration, in whole or in part, may modify the application or registration by limiting the goods or services specified therein, may otherwise restrict or rectify with respect to the register the registration of a registered mark, may refuse to register any or all of several interfering marks, or may register the mark or marks for the person or persons entitled thereto, as the rights of the parties under this chapter may be established in the proceedings. The authority of the Director under this section includes the authority to reconsider, and modify or set aside, a decision of the Trademark Trial and Appeal Board: *Provided*, That in the case of the registration of any mark based on concurrent use, the Director shall determine and fix the conditions and limitations provided for in subsection (d) of section 1052 of this title. However, no final judgment shall be entered in favor of an applicant under section 1051(b) of this title before the mark is registered, if such applicant cannot prevail without establishing constructive use pursuant to section 1057(c) of this title.
 
-(July 5, 1946, ch. 540, title I, § 18, 60 Stat. 434; Pub. L. 100–667, title I, § 118, Nov. 16, 1988, 102 Stat. 3941; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 116–260, div. Q, title II, § 228(a)(1), Dec. 27, 2020, 134 Stat. 2209.)
+(July 5, 1946, ch. 540, title I, § 18, 60 Stat. 434; Pub. L. 100–667, title I, § 118, Nov. 16, 1988, 102 Stat. 3941; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 116–260, div. Q, title II, § 228(a)(1), Dec. 27, 2020, 134 Stat. 2209.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Act Feb. 20, 1905, ch. 592, §§ 7, 13, 33 Stat. 726, 728.
+Act Feb. 20, 1905, ch. 592, §§ 7, 13, 33 Stat. 726, 728.
 
 **Amendments**
 
-2020—Pub. L. 116–260 inserted “. The authority of the Director under this section includes the authority to reconsider, and modify or set aside, a decision of the Trademark Trial and Appeal Board” after “established in the proceedings”.
+2020—Pub. L. 116–260 inserted “. The authority of the Director under this section includes the authority to reconsider, and modify or set aside, a decision of the Trademark Trial and Appeal Board” after “established in the proceedings”.
 
 1999—Pub. L. 106–113 substituted “Director” for “Commissioner” in two places.
 
@@ -1631,7 +1631,7 @@ Act Feb. 20, 1905, ch. 592, §§ 7, 13, 33 Stat. 726, 728.
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 **Effective Date of 1988 Amendment**
 
@@ -1643,7 +1643,7 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 **Construction of 2020 Amendment**
 
-Pub. L. 116–260, div. Q, title II, § 228(b), Dec. 27, 2020, 134 Stat. 2210, provided that:
+Pub. L. 116–260, div. Q, title II, § 228(b), Dec. 27, 2020, 134 Stat. 2210, provided that:
 
 > **“(1) Authority before date of enactment.—** The amendments made by subsection (a) [amending this section and sections 1070 and 1092 of this title] shall not be construed to mean that the Director lacked the authority to reconsider, and modify or set aside, a decision of the Trademark Trial and Appeal Board before the date of enactment of this Act [Dec. 27, 2020].
 
@@ -1655,13 +1655,13 @@ Pub. L. 116–260, div. Q, title II, § 228(b), Dec. 27, 2020, 134 Stat. 2210,
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1069. Application of equitable principles in inter partes proceedings
+### § 1069. Application of equitable principles in inter partes proceedings
 
 In all inter partes proceedings equitable principles of laches, estoppel, and acquiescence, where applicable may be considered and applied.
 
-(July 5, 1946, ch. 540, title I, § 19, 60 Stat. 434; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, § 119, Nov. 16, 1988, 102 Stat. 3941.)
+(July 5, 1946, ch. 540, title I, § 19, 60 Stat. 434; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, § 119, Nov. 16, 1988, 102 Stat. 3941.)
 
 **Editorial Notes**
 
@@ -1689,25 +1689,25 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1070. Appeals to Trademark Trial and Appeal Board from decisions of examiners
+### § 1070. Appeals to Trademark Trial and Appeal Board from decisions of examiners
 
 An appeal may be taken to the Trademark Trial and Appeal Board from any final decision of the examiner in charge of the registration of marks or a final decision by an examiner in an ex parte expungement proceeding or ex parte reexamination proceeding upon the payment of the prescribed fee. The Director may reconsider, and modify or set aside, a decision of the Trademark Trial and Appeal Board under this section.
 
-(July 5, 1946, ch. 540, title I, § 20, 60 Stat. 435; Pub. L. 85–609, § 1(b), Aug. 8, 1958, 72 Stat. 540; Pub. L. 116–260, div. Q, title II, §§ 225(d)(1), 228(a)(2), Dec. 27, 2020, 134 Stat. 2207, 2210.)
+(July 5, 1946, ch. 540, title I, § 20, 60 Stat. 435; Pub. L. 85–609, § 1(b), Aug. 8, 1958, 72 Stat. 540; Pub. L. 116–260, div. Q, title II, §§ 225(d)(1), 228(a)(2), Dec. 27, 2020, 134 Stat. 2207, 2210.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Act Feb. 20, 1905, ch. 592, §§ 8, 13, 33 Stat. 726, 728.
+Act Feb. 20, 1905, ch. 592, §§ 8, 13, 33 Stat. 726, 728.
 
 **Amendments**
 
-2020—Pub. L. 116–260, § 228(a)(2), inserted “The Director may reconsider, and modify or set aside, a decision of the Trademark Trial and Appeal Board under this section.” at end.
+2020—Pub. L. 116–260, § 228(a)(2), inserted “The Director may reconsider, and modify or set aside, a decision of the Trademark Trial and Appeal Board under this section.” at end.
 
-Pub. L. 116–260, § 225(d)(1), inserted “or a final decision by an examiner in an ex parte expungement proceeding or ex parte reexamination proceeding” after “registration of marks”.
+Pub. L. 116–260, § 225(d)(1), inserted “or a final decision by an examiner in an ex parte expungement proceeding or ex parte reexamination proceeding” after “registration of marks”.
 
 1958—Pub. L. 85–609 substituted “Trademark Trial and Appeal Board” for “Commissioner in person” and “fee” for “fees”, and struck out “of interferences or” after “examiner in charge”.
 
@@ -1737,9 +1737,9 @@ Amendment by Pub. L. 85–609 as subject to Reorganization Plan No. 5 of 1950, s
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1071. Appeal to courts
+### § 1071. Appeal to courts
 
 **(a) Persons entitled to appeal; United States Court of Appeals for the Federal Circuit; waiver of civil action; election of civil action by adverse party; procedure**
 
@@ -1761,7 +1761,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 **(4)** Where there is an adverse party, such suit may be instituted against the party in interest as shown by the records of the United States Patent and Trademark Office at the time of the decision complained of, but any party in interest may become a party to the action. If there are adverse parties residing in a plurality of districts not embraced within the same State, or an adverse party residing in a foreign country, the United States District Court for the Eastern District of Virginia shall have jurisdiction and may issue summons against the adverse parties directed to the marshal of any district in which any adverse party resides. Summons against adverse parties residing in foreign countries may be served by publication or otherwise as the court directs.
 
-(July 5, 1946, ch. 540, title I, § 21, 60 Stat. 435; July 19, 1952, ch. 950, § 2, 66 Stat. 814; Pub. L. 85–609, § 1(c), Aug. 8, 1958, 72 Stat. 540; Pub. L. 87–772, § 12, Oct. 9, 1962, 76 Stat. 771; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–600, § 2, Jan. 2, 1975, 88 Stat. 1955; Pub. L. 97–164, title I, § 162(1), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–620, title IV, § 414(b), Nov. 8, 1984, 98 Stat. 3363; Pub. L. 100–667, title I, § 120, Nov. 16, 1988, 102 Stat. 3942; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 111–146, § 3(c), Mar. 17, 2010, 124 Stat. 67; Pub. L. 112–29, § 9(a), Sept. 16, 2011, 125 Stat. 316; Pub. L. 116–260, div. Q, title II, § 225(d)(2), Dec. 27, 2020, 134 Stat. 2207.)
+(July 5, 1946, ch. 540, title I, § 21, 60 Stat. 435; July 19, 1952, ch. 950, § 2, 66 Stat. 814; Pub. L. 85–609, § 1(c), Aug. 8, 1958, 72 Stat. 540; Pub. L. 87–772, § 12, Oct. 9, 1962, 76 Stat. 771; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–600, § 2, Jan. 2, 1975, 88 Stat. 1955; Pub. L. 97–164, title I, § 162(1), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–620, title IV, § 414(b), Nov. 8, 1984, 98 Stat. 3363; Pub. L. 100–667, title I, § 120, Nov. 16, 1988, 102 Stat. 3942; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 111–146, § 3(c), Mar. 17, 2010, 124 Stat. 67; Pub. L. 112–29, § 9(a), Sept. 16, 2011, 125 Stat. 316; Pub. L. 116–260, div. Q, title II, § 225(d)(2), Dec. 27, 2020, 134 Stat. 2207.)
 
 **Editorial Notes**
 
@@ -1771,33 +1771,33 @@ Pub. L. 93–596, which provided for the substitution of “Patent and Trademark
 
 **Prior Provisions**
 
-Acts Feb. 20, 1905, ch. 592, §§ 9, 22, 33 Stat. 727, 729; Mar. 2, 1929, ch. 488, § 2(b), 45 Stat. 1478.
+Acts Feb. 20, 1905, ch. 592, §§ 9, 22, 33 Stat. 727, 729; Mar. 2, 1929, ch. 488, § 2(b), 45 Stat. 1478.
 
 **Amendments**
 
-2020—Subsec. (a)(1). Pub. L. 116–260, § 225(d)(2)(A), substituted “an applicant for renewal, or a registrant subject to an ex parte expungement proceeding or an ex parte reexamination proceeding” for “or an applicant for renewal”.
+2020—Subsec. (a)(1). Pub. L. 116–260, § 225(d)(2)(A), substituted “an applicant for renewal, or a registrant subject to an ex parte expungement proceeding or an ex parte reexamination proceeding” for “or an applicant for renewal”.
 
-Subsec. (b)(1). Pub. L. 116–260, § 225(d)(2)(B), inserted “, except for a registrant subject to an ex parte expungement proceeding or an ex parte reexamination proceeding,” before “is dissatisfied”.
+Subsec. (b)(1). Pub. L. 116–260, § 225(d)(2)(B), inserted “, except for a registrant subject to an ex parte expungement proceeding or an ex parte reexamination proceeding,” before “is dissatisfied”.
 
 2011—Subsec. (b)(4). Pub. L. 112–29 substituted “United States District Court for the Eastern District of Virginia” for “United States District Court for the District of Columbia”.
 
-2010—Subsec. (a)(1). Pub. L. 111–146, § 3(c)(2), inserted “or section 1141k of this title” after “section 1058 of this title”.
+2010—Subsec. (a)(1). Pub. L. 111–146, § 3(c)(2), inserted “or section 1141k of this title” after “section 1058 of this title”.
 
-Subsec. (a)(2) to (4). Pub. L. 111–146, § 3(c)(1), inserted “United States” before “Patent and Trademark Office” wherever appearing.
+Subsec. (a)(2) to (4). Pub. L. 111–146, § 3(c)(1), inserted “United States” before “Patent and Trademark Office” wherever appearing.
 
-Subsec. (b)(3). Pub. L. 111–146, § 3(c)(1), inserted “United States” before “Patent and Trademark Office” in two places.
+Subsec. (b)(3). Pub. L. 111–146, § 3(c)(1), inserted “United States” before “Patent and Trademark Office” in two places.
 
-Subsec. (b)(4). Pub. L. 111–146, § 3(c)(1), (3), inserted “United States” before “Patent and Trademark Office” and substituted “If there are” for “If there be”.
+Subsec. (b)(4). Pub. L. 111–146, § 3(c)(1), (3), inserted “United States” before “Patent and Trademark Office” and substituted “If there are” for “If there be”.
 
 1999—Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
 
-1988—Subsec. (a)(1). Pub. L. 100–667, § 120(1), made technical amendments to references in the original act to subsection (b) of this section resulting in no change in text, and substituted “paragraph (2) of this subsection” for “subsection (a)(2) of this section” and “action under subsection” for “action under said subsection”.
+1988—Subsec. (a)(1). Pub. L. 100–667, § 120(1), made technical amendments to references in the original act to subsection (b) of this section resulting in no change in text, and substituted “paragraph (2) of this subsection” for “subsection (a)(2) of this section” and “action under subsection” for “action under said subsection”.
 
-Subsec. (a)(4). Pub. L. 100–667, § 120(2), inserted provision that no final judgment be entered before mark is registered if applicant cannot prevail without establishing constructive use.
+Subsec. (a)(4). Pub. L. 100–667, § 120(2), inserted provision that no final judgment be entered before mark is registered if applicant cannot prevail without establishing constructive use.
 
-Subsec. (b)(1). Pub. L. 100–667, § 120(3), made technical amendments to references in the original act to subsection (a) of this section resulting in no change in text and inserted provision that no final judgment be entered before mark is registered if applicant cannot prevail without establishing constructive use.
+Subsec. (b)(1). Pub. L. 100–667, § 120(3), made technical amendments to references in the original act to subsection (a) of this section resulting in no change in text and inserted provision that no final judgment be entered before mark is registered if applicant cannot prevail without establishing constructive use.
 
-Subsec. (b)(3). Pub. L. 100–667, § 120(4), amended first sentence generally. Prior to amendment, first sentence read as follows: “In all cases where there is no adverse party, a copy of the complaint shall be served on the Commissioner; and all the expenses of the proceedings shall be paid by the party bringing them, whether the final decision is in his favor or not.”
+Subsec. (b)(3). Pub. L. 100–667, § 120(4), amended first sentence generally. Prior to amendment, first sentence read as follows: “In all cases where there is no adverse party, a copy of the complaint shall be served on the Commissioner; and all the expenses of the proceedings shall be paid by the party bringing them, whether the final decision is in his favor or not.”
 
 1984—Subsec. (a)(2). Pub. L. 98–620 substituted provisions requiring the appellant to file a written notice of appeal in the Patent and Trademark Office directed to the Commissioner for provisions requiring the appellant to file the notice of appeal with the Commissioner, and struck out provision which required the notice of appeal to specify the party or parties taking the appeal, to designate the decision or part thereof appealed from, and to state that the appeal was being taken to the United States Court of Appeals for the Federal Circuit.
 
@@ -1833,11 +1833,11 @@ Amendment by Pub. L. 116–260 effective upon the expiration of the 1-year perio
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–29, § 9(b), Sept. 16, 2011, 125 Stat. 316, provided that: “The amendments made by this section [amending this section and sections 32, 145, 146, 154, and 293 of Title 35, Patents] shall take effect on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to any civil action commenced on or after that date.”
+Pub. L. 112–29, § 9(b), Sept. 16, 2011, 125 Stat. 316, provided that: “The amendments made by this section [amending this section and sections 32, 145, 146, 154, and 293 of Title 35, Patents] shall take effect on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to any civil action commenced on or after that date.”
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 **Effective Date of 1988 Amendment**
 
@@ -1873,19 +1873,19 @@ Amendment by Pub. L. 85–609 as subject to Reorganization Plan No. 5 of 1950, s
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1072. Registration as constructive notice of claim of ownership
+### § 1072. Registration as constructive notice of claim of ownership
 
 Registration of a mark on the principal register provided by this chapter or under the Act of March 3, 1881, or the Act of February 20, 1905, shall be constructive notice of the registrant’s claim of ownership thereof.
 
-(July 5, 1946, ch. 540, title I, § 22, 60 Stat. 435.)
+(July 5, 1946, ch. 540, title I, § 22, 60 Stat. 435.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Acts March 3, 1881, and February 20, 1905, referred to in text, are acts Mar. 3, 1881, ch. 138, 21 Stat. 502 and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
+Acts March 3, 1881, and February 20, 1905, referred to in text, are acts Mar. 3, 1881, ch. 138, 21 Stat. 502 and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1895,7 +1895,7 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 ## SUBCHAPTER II—THE SUPPLEMENTAL REGISTER
 
-### § 1091. Supplemental register
+### § 1091. Supplemental register
 
 **(a) Marks registerable**
 
@@ -1909,17 +1909,17 @@ Upon the filing of an application for registration on the supplemental register 
 
 For the purposes of registration on the supplemental register, a mark may consist of any trademark, symbol, label, package, configuration of goods, name, word, slogan, phrase, surname, geographical name, numeral, device, any matter that as a whole is not functional, or any combination of any of the foregoing, but such mark must be capable of distinguishing the applicant’s goods or services.
 
-(July 5, 1946, ch. 540, title II, § 23, 60 Stat. 435; Pub. L. 87–772, § 13, Oct. 9, 1962, 76 Stat. 773; Pub. L. 100–667, title I, § 121, Nov. 16, 1988, 102 Stat. 3942; Pub. L. 103–182, title III, § 333(b), Dec. 8, 1993, 107 Stat. 2114; Pub. L. 105–330, title II, § 201(a)(5), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–43, § 6(b), Aug. 5, 1999, 113 Stat. 220; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, § 13207(b)(6), Nov. 2, 2002, 116 Stat. 1908.)
+(July 5, 1946, ch. 540, title II, § 23, 60 Stat. 435; Pub. L. 87–772, § 13, Oct. 9, 1962, 76 Stat. 773; Pub. L. 100–667, title I, § 121, Nov. 16, 1988, 102 Stat. 3942; Pub. L. 103–182, title III, § 333(b), Dec. 8, 1993, 107 Stat. 2114; Pub. L. 105–330, title II, § 201(a)(5), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–43, § 6(b), Aug. 5, 1999, 113 Stat. 220; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, § 13207(b)(6), Nov. 2, 2002, 116 Stat. 1908.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Paragraph (b) of section 1 of the Act of March 19, 1920, referred to in subsec. (a), is paragraph (b) of section 1 of act Mar. 19, 1920, ch. 104, 41 Stat. 533, which was classified to section 121(b) of this title, and repealed by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444, insofar as inconsistent.
+Paragraph (b) of section 1 of the Act of March 19, 1920, referred to in subsec. (a), is paragraph (b) of section 1 of act Mar. 19, 1920, ch. 104, 41 Stat. 533, which was classified to section 121(b) of this title, and repealed by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444, insofar as inconsistent.
 
 **Prior Provisions**
 
-Acts Mar. 19, 1920, ch. 104, § 1, 41 Stat. 533; Apr. 11, 1930, ch. 132, § 4, 46 Stat. 155; June 10, 1938, ch. 332, § 2, 52 Stat. 638.
+Acts Mar. 19, 1920, ch. 104, § 1, 41 Stat. 533; Apr. 11, 1930, ch. 132, § 4, 46 Stat. 155; June 10, 1938, ch. 332, § 2, 52 Stat. 638.
 
 **Amendments**
 
@@ -1931,17 +1931,17 @@ Pub. L. 106–43 substituted “trademarks” for “trade-marks”.
 
 Subsec. (b). Pub. L. 106–113 substituted “Director” for “Commissioner”.
 
-1998—Subsec. (c). Pub. L. 105–330 substituted “, device, any matter that as a whole is not functional,” for “or device”.
+1998—Subsec. (c). Pub. L. 105–330 substituted “, device, any matter that as a whole is not functional,” for “or device”.
 
 1993—Subsec. (a). Pub. L. 103–182 substituted “(d), and (e)(3)” for “and (d)” and inserted at end “Nothing in this section shall prevent the registration on the supplemental register of a mark, capable of distinguishing the applicant’s goods or services and not registrable on the principal register under this chapter, that is declared to be unregistrable under section 1052(e)(3) of this title, if such mark has been in lawful use in commerce by the owner thereof, on or in connection with any goods or services, since before December 8, 1993.”
 
-1988—Pub. L. 100–667, § 121(6), struck out undesignated concluding par. which read as follows: “Upon a proper showing by the applicant that he requires domestic registration as a basis for foreign protection of his mark, the Commissioner may waive the requirement of a full year’s use and may grant registration forthwith.”
+1988—Pub. L. 100–667, § 121(6), struck out undesignated concluding par. which read as follows: “Upon a proper showing by the applicant that he requires domestic registration as a basis for foreign protection of his mark, the Commissioner may waive the requirement of a full year’s use and may grant registration forthwith.”
 
-Subsec. (a). Pub. L. 100–667, § 121(1), (4), designated first par. as subsec. (a), made technical amendment to reference in the original act to subsections (a), (b), (c), and (d) of section 1052 of this title resulting in no change in text, substituted “are in lawful use in commerce by the owner thereof, on” for “have been in lawful use in commerce by the proprietor thereof, upon”, struck out “for the year preceding the filing of the application” after “any goods and services”, and inserted “subsections (a) and (e) of” before “section 1051”.
+Subsec. (a). Pub. L. 100–667, § 121(1), (4), designated first par. as subsec. (a), made technical amendment to reference in the original act to subsections (a), (b), (c), and (d) of section 1052 of this title resulting in no change in text, substituted “are in lawful use in commerce by the owner thereof, on” for “have been in lawful use in commerce by the proprietor thereof, upon”, struck out “for the year preceding the filing of the application” after “any goods and services”, and inserted “subsections (a) and (e) of” before “section 1051”.
 
-Subsec. (b). Pub. L. 100–667, § 121(2), (5), designated second par. as subsec. (b) and substituted “prescribed fee” for “fee herein provided”.
+Subsec. (b). Pub. L. 100–667, § 121(2), (5), designated second par. as subsec. (b) and substituted “prescribed fee” for “fee herein provided”.
 
-Subsec. (c). Pub. L. 100–667, § 121(3), designated third par. as subsec. (c).
+Subsec. (c). Pub. L. 100–667, § 121(3), designated third par. as subsec. (c).
 
 1962—Pub. L. 87–772 struck out “has begun the lawful use of his mark in foreign commerce and that he” before “requires domestic registration” in last par.
 
@@ -1949,7 +1949,7 @@ Subsec. (c). Pub. L. 100–667, § 121(3), designated third par. as subsec. (c
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 **Effective Date of 1998 Amendment**
 
@@ -1971,9 +1971,9 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1092. Publication; not subject to opposition; cancellation
+### § 1092. Publication; not subject to opposition; cancellation
 
 Marks for the supplemental register shall not be published for or be subject to opposition, but shall be published on registration in the Official Gazette of the Patent and Trademark Office. Whenever any person believes that such person is or will be damaged by the registration of a mark on the supplemental register—
 
@@ -1983,23 +1983,23 @@ Marks for the supplemental register shall not be published for or be subject to 
 
 such person may at any time, upon payment of the prescribed fee and the filing of a petition stating the ground therefor, apply to the Director to cancel such registration. The Director shall refer such application to the Trademark Trial and Appeal Board which shall give notice thereof to the registrant. If it is found after a hearing before the Board that the registrant is not entitled to registration, or that the mark has been abandoned, the registration shall be canceled by the Director, unless the Director reconsiders the decision of the Board, and modifies or sets aside, such decision. However, no final judgment shall be entered in favor of an applicant under section 1051(b) of this title before the mark is registered, if such applicant cannot prevail without establishing constructive use pursuant to section 1057(c) of this title.
 
-(July 5, 1946, ch. 540, title II, § 24, 60 Stat. 436; Pub. L. 85–609, § 1(d), Aug. 8, 1958, 72 Stat. 540; Pub. L. 87–772, § 14, Oct. 9, 1962, 76 Stat. 773; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, § 122, Nov. 16, 1988, 102 Stat. 3943; Pub. L. 106–43, § 2(d), Aug. 5, 1999, 113 Stat. 218; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 109–312, § 3(d), Oct. 6, 2006, 120 Stat. 1732; Pub. L. 116–260, div. Q, title II, § 228(a)(3), Dec. 27, 2020, 134 Stat. 2210.)
+(July 5, 1946, ch. 540, title II, § 24, 60 Stat. 436; Pub. L. 85–609, § 1(d), Aug. 8, 1958, 72 Stat. 540; Pub. L. 87–772, § 14, Oct. 9, 1962, 76 Stat. 773; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, § 122, Nov. 16, 1988, 102 Stat. 3943; Pub. L. 106–43, § 2(d), Aug. 5, 1999, 113 Stat. 218; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 109–312, § 3(d), Oct. 6, 2006, 120 Stat. 1732; Pub. L. 116–260, div. Q, title II, § 228(a)(3), Dec. 27, 2020, 134 Stat. 2210.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Act Mar. 19, 1920, ch. 104, § 2, 41 Stat. 534.
+Act Mar. 19, 1920, ch. 104, § 2, 41 Stat. 534.
 
 **Amendments**
 
-2020—Pub. L. 116–260 inserted “, unless the Director reconsiders the decision of the Board, and modifies or sets aside, such decision” after “shall be canceled by the Director” in concluding provisions.
+2020—Pub. L. 116–260 inserted “, unless the Director reconsiders the decision of the Board, and modifies or sets aside, such decision” after “shall be canceled by the Director” in concluding provisions.
 
 2006—Pub. L. 109–312 amended second sentence generally. Prior to amendment, second sentence read as follows: “Whenever any person believes that he is or will be damaged by the registration of a mark on this register, including as a result of dilution under section 1125(c) of this title, he may at any time, upon payment of the prescribed fee and the filing of a petition stating the ground therefor, apply to the Director to cancel such registration.” The words following “tarnishment,” in second sentence are shown as a flush provision notwithstanding directory language showing them as part of cl. (2), to reflect the probable intent of Congress.
 
 1999—Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
 
-Pub. L. 106–43 inserted “, including as a result of dilution under section 1125(c) of this title,” after “register” in second sentence.
+Pub. L. 106–43 inserted “, including as a result of dilution under section 1125(c) of this title,” after “register” in second sentence.
 
 1988—Pub. L. 100–667 struck out “verified” after “filing of a”, substituted “is not entitled to registration,” for “was not entitled to register the mark at the time of his application for registration thereof,” struck out “is not used by the registrant or” after “that the mark”, and inserted provision that no final judgment be entered before mark is registered if applicant cannot prevail without establishing constructive use.
 
@@ -2013,7 +2013,7 @@ Pub. L. 106–43 inserted “, including as a result of dilution under section
 
 **Effective Date of 1999 Amendments**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 Amendment by Pub. L. 106–43 effective Aug. 5, 1999, and applicable only to any application for registration filed on or after Jan. 16, 1996, see section 2(e) of Pub. L. 106–43, set out as a note under section 1052 of this title.
 
@@ -2045,13 +2045,13 @@ Amendment by Pub. L. 85–609 as subject to Reorganization Plan No. 5 of 1950, s
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1093. Registration certificates for marks on principal and supplemental registers to be different
+### § 1093. Registration certificates for marks on principal and supplemental registers to be different
 
 The certificates of registration for marks registered on the supplemental register shall be conspicuously different from certificates issued for marks registered on the principal register.
 
-(July 5, 1946, ch. 540, title II, § 25, 60 Stat. 436.)
+(July 5, 1946, ch. 540, title II, § 25, 60 Stat. 436.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2059,23 +2059,23 @@ The certificates of registration for marks registered on the supplemental regist
 
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
 
-### § 1094. Provisions of chapter applicable to registrations on supplemental register
+### § 1094. Provisions of chapter applicable to registrations on supplemental register
 
 The provisions of this chapter shall govern so far as applicable applications for registration and registrations on the supplemental register as well as those on the principal register, but applications for and registrations on the supplemental register shall not be subject to or receive the advantages of sections 1051(b), 1052(e), 1052(f), 1057(b), 1057(c), 1062(a), 1063 to 1068, inclusive, 1072, 1115 and 1124 of this title. Registrations on the supplemental register shall be subject to ex parte expungement and ex parte reexamination under sections 1066a and 1066b of this title, respectively.
 
-(July 5, 1946, ch. 540, title II, § 26, 60 Stat. 436; Pub. L. 100–667, title I, § 123, Nov. 16, 1988, 102 Stat. 3943; Pub. L. 105–330, title II, § 201(a)(6), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 116–260, div. Q, title II, § 225(e)(2), Dec. 27, 2020, 134 Stat. 2207.)
+(July 5, 1946, ch. 540, title II, § 26, 60 Stat. 436; Pub. L. 100–667, title I, § 123, Nov. 16, 1988, 102 Stat. 3943; Pub. L. 105–330, title II, § 201(a)(6), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 116–260, div. Q, title II, § 225(e)(2), Dec. 27, 2020, 134 Stat. 2207.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Act Mar. 19, 1920, ch. 104, § 6, 41 Stat. 535.
+Act Mar. 19, 1920, ch. 104, § 6, 41 Stat. 535.
 
 **Amendments**
 
 2020—Pub. L. 116–260 inserted “Registrations on the supplemental register shall be subject to ex parte expungement and ex parte reexamination under sections 1066a and 1066b of this title, respectively.” at end.
 
-1998—Pub. L. 105–330 substituted “, 1057(c),” for “1057(c),,”.
+1998—Pub. L. 105–330 substituted “, 1057(c),” for “1057(c),,”.
 
 1988—Pub. L. 100–667 inserted reference to sections 1051(b) and 1057(c).
 
@@ -2097,17 +2097,17 @@ Amendment by Pub. L. 100–667 effective one year after Nov. 16, 1988, see secti
 
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
 
-### § 1095. Registration on principal register not precluded
+### § 1095. Registration on principal register not precluded
 
 Registration of a mark on the supplemental register, or under the Act of March 19, 1920, shall not preclude registration by the registrant on the principal register established by this chapter. Registration of a mark on the supplemental register shall not constitute an admission that the mark has not acquired distinctiveness.
 
-(July 5, 1946, ch. 540, title II, § 27, 60 Stat. 436; Pub. L. 100–667, title I, § 124, Nov. 16, 1988, 102 Stat. 3943.)
+(July 5, 1946, ch. 540, title II, § 27, 60 Stat. 436; Pub. L. 100–667, title I, § 124, Nov. 16, 1988, 102 Stat. 3943.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of March 19, 1920, referred to in text, is act Mar. 19, 1920, ch. 104, §§ 1–9, 41 Stat. 533, which was generally classified to sections 121 to 128 of this title, and which was repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444.
+Act of March 19, 1920, referred to in text, is act Mar. 19, 1920, ch. 104, §§ 1–9, 41 Stat. 533, which was generally classified to sections 121 to 128 of this title, and which was repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444.
 
 **Amendments**
 
@@ -2123,17 +2123,17 @@ Amendment by Pub. L. 100–667 effective one year after Nov. 16, 1988, see secti
 
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
 
-### § 1096. Registration on supplemental register not used to stop importations
+### § 1096. Registration on supplemental register not used to stop importations
 
 Registration on the supplemental register or under the Act of March 19, 1920, shall not be filed in the Department of the Treasury or be used to stop importations.
 
-(July 5, 1946, ch. 540, title II, § 28, 60 Stat. 436.)
+(July 5, 1946, ch. 540, title II, § 28, 60 Stat. 436.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of March 19, 1920, referred to in text, is act Mar. 19, 1920, ch. 104, §§ 1–9, 41 Stat. 533, which was generally classified to sections 121 to 128 of this title, and which was repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(b), 60 Stat. 444.
+Act of March 19, 1920, referred to in text, is act Mar. 19, 1920, ch. 104, §§ 1–9, 41 Stat. 533, which was generally classified to sections 121 to 128 of this title, and which was repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(b), 60 Stat. 444.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2143,23 +2143,23 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 ## SUBCHAPTER III—GENERAL PROVISIONS
 
-### § 1111. Notice of registration; display with mark; recovery of profits and damages in infringement suit
+### § 1111. Notice of registration; display with mark; recovery of profits and damages in infringement suit
 
 Notwithstanding the provisions of section 1072 of this title, a registrant of a mark registered in the Patent and Trademark Office, may give notice that his mark is registered by displaying with the mark the words “Registered in U.S. Patent and Trademark Office” or “Reg. U.S. Pat. & Tm. Off.” or the letter R enclosed within a circle, thus ®; and in any suit for infringement under this chapter by such a registrant failing to give such notice of registration, no profits and no damages shall be recovered under the provisions of this chapter unless the defendant had actual notice of the registration.
 
-(July 5, 1946, ch. 540, title III, § 29, 60 Stat. 436; Pub. L. 87–772, § 15, Oct. 9, 1962, 76 Stat. 773; Pub. L. 93–596, §§ 1, 2, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, § 125, Nov. 16, 1988, 102 Stat. 3943.)
+(July 5, 1946, ch. 540, title III, § 29, 60 Stat. 436; Pub. L. 87–772, § 15, Oct. 9, 1962, 76 Stat. 773; Pub. L. 93–596, §§ 1, 2, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, § 125, Nov. 16, 1988, 102 Stat. 3943.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Acts Feb. 20, 1905, ch. 592, § 28, 33 Stat. 730; Mar. 19, 1920, ch. 104, §§ 5, 6, 41 Stat. 534, 535.
+Acts Feb. 20, 1905, ch. 592, § 28, 33 Stat. 730; Mar. 19, 1920, ch. 104, §§ 5, 6, 41 Stat. 534, 535.
 
 **Amendments**
 
 1988—Pub. L. 100–667 struck out “as used” after “with the mark”.
 
-1975—Pub. L. 93–596 substituted “Patent and Trademark Office, may give notice that his mark is registered by displaying with the mark as used the words ‘Registered in U.S. Patent and Trademark Office’ or ‘Reg. U.S. Pat. & Tm. Off.’ ” for “Patent Office, may give notice that his mark is registered by displaying with the mark as used the words ‘Registered in U.S. Patent Office’ or ‘Reg. U.S. Pat. Off.’ ”.
+1975—Pub. L. 93–596 substituted “Patent and Trademark Office, may give notice that his mark is registered by displaying with the mark as used the words ‘Registered in U.S. Patent and Trademark Office’ or ‘Reg. U.S. Pat. & Tm. Off.’ ” for “Patent Office, may give notice that his mark is registered by displaying with the mark as used the words ‘Registered in U.S. Patent Office’ or ‘Reg. U.S. Pat. Off.’ ”.
 
 1962—Pub. L. 87–772 substituted “in the Patent Office, may” for “under the Act of March 3, 1881, or the Act of February 20, 1905, or on the principal register established by this chapter, shall”, and “to give such notice of registration,” for “so to mark goods bearing the registered mark, or by a registrant under the Act of March 19, 1920, or by the registrant of a mark on the supplemental register provided by this chapter”.
 
@@ -2171,23 +2171,23 @@ Amendment by Pub. L. 100–667 effective one year after Nov. 16, 1988, see secti
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 93–596, § 4, Jan. 2, 1975, 88 Stat. 1949, provided that: “This Act [amending this section, sections 1051, 1052, 1057, 1058, 1060, 1062, 1063, 1065, 1067, 1069, 1071, 1092, 1112, 1113, 1116 to 1120, 1123, and 1127 of this title, and sections 2 to 4, 6 to 8, 10, 11, 21 to 26, 31 to 33, 41, 104, 119, 121, 122, 135, 142 to 144, 146, 152, 153, 253 to 255, 261, 288, and 293 of Title 35, Patents, and enacting provisions set out as a note under section 1 of title 35] shall become effective upon enactment [Jan. 2, 1975]. However, any registrant may continue to give notice of his registration in accordance with section 29 of the Trademark Act of 1946 (60 Stat. 427), as amended Oct. 9, 1962 (76 Stat. 769) [this section], as an alternative to notice in accordance with section 29 of the Trademark Act as amended by section 2 of this Act, regardless of whether his mark was registered before or after the effective date of this Act.”
+Pub. L. 93–596, § 4, Jan. 2, 1975, 88 Stat. 1949, provided that: “This Act [amending this section, sections 1051, 1052, 1057, 1058, 1060, 1062, 1063, 1065, 1067, 1069, 1071, 1092, 1112, 1113, 1116 to 1120, 1123, and 1127 of this title, and sections 2 to 4, 6 to 8, 10, 11, 21 to 26, 31 to 33, 41, 104, 119, 121, 122, 135, 142 to 144, 146, 152, 153, 253 to 255, 261, 288, and 293 of Title 35, Patents, and enacting provisions set out as a note under section 1 of title 35] shall become effective upon enactment [Jan. 2, 1975]. However, any registrant may continue to give notice of his registration in accordance with section 29 of the Trademark Act of 1946 (60 Stat. 427), as amended Oct. 9, 1962 (76 Stat. 769) [this section], as an alternative to notice in accordance with section 29 of the Trademark Act as amended by section 2 of this Act, regardless of whether his mark was registered before or after the effective date of this Act.”
 
 **Repeal and Effect on Existing Rights**
 
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
 
-### § 1112. Classification of goods and services; registration in plurality of classes
+### § 1112. Classification of goods and services; registration in plurality of classes
 
 The Director may establish a classification of goods and services, for convenience of Patent and Trademark Office administration, but not to limit or extend the applicant’s or registrant’s rights. The applicant may apply to register a mark for any or all of the goods or services on or in connection with which he or she is using or has a bona fide intention to use the mark in commerce: *Provided*, That if the Director by regulation permits the filing of an application for the registration of a mark for goods or services which fall within a plurality of classes, a fee equaling the sum of the fees for filing an application in each class shall be paid, and the Director may issue a single certificate of registration for such mark.
 
-(July 5, 1946, ch. 540, title IV, § 30, 60 Stat. 436; Pub. L. 87–772, § 16, Oct. 9, 1962, 76 Stat. 773; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, § 126, Nov. 16, 1988, 102 Stat. 3943; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
+(July 5, 1946, ch. 540, title IV, § 30, 60 Stat. 436; Pub. L. 87–772, § 16, Oct. 9, 1962, 76 Stat. 773; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, § 126, Nov. 16, 1988, 102 Stat. 3943; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Act May 4, 1906, ch. 2081, § 2, 34 Stat. 169.
+Act May 4, 1906, ch. 2081, § 2, 34 Stat. 169.
 
 **Amendments**
 
@@ -2203,7 +2203,7 @@ Act May 4, 1906, ch. 2081, § 2, 34 Stat. 169.
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 **Effective Date of 1988 Amendment**
 
@@ -2221,9 +2221,9 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1113. Fees
+### § 1113. Fees
 
 **(a) Applications; services; materials**
 
@@ -2233,13 +2233,13 @@ The Director shall establish fees for the filing and processing of an applicatio
 
 The Director may waive the payment of any fee for any service or material related to trademarks or other marks in connection with an occasional request made by a department or agency of the Government, or any officer thereof. The Indian Arts and Crafts Board will not be charged any fee to register Government trademarks of genuineness and quality for Indian products or for products of particular Indian tribes and groups.
 
-(July 5, 1946, ch. 540, title V, § 31, 60 Stat. 437; Pub. L. 85–609, § 1(e), Aug. 8, 1958, 72 Stat. 540; Pub. L. 89–83, § 3, July 24, 1965, 79 Stat. 260; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 96–517, § 5, Dec. 12, 1980, 94 Stat. 3018; Pub. L. 97–247, § 3(f), Aug. 27, 1982, 96 Stat. 319; Pub. L. 97–256, title I, § 103, Sept. 8, 1982, 96 Stat. 816; Pub. L. 102–204, § 5(f)(1), Dec. 10, 1991, 105 Stat. 1640; Pub. L. 105–330, title II, § 201(a)(7), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
+(July 5, 1946, ch. 540, title V, § 31, 60 Stat. 437; Pub. L. 85–609, § 1(e), Aug. 8, 1958, 72 Stat. 540; Pub. L. 89–83, § 3, July 24, 1965, 79 Stat. 260; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 96–517, § 5, Dec. 12, 1980, 94 Stat. 3018; Pub. L. 97–247, § 3(f), Aug. 27, 1982, 96 Stat. 319; Pub. L. 97–256, title I, § 103, Sept. 8, 1982, 96 Stat. 816; Pub. L. 102–204, § 5(f)(1), Dec. 10, 1991, 105 Stat. 1640; Pub. L. 105–330, title II, § 201(a)(7), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Acts Feb. 20, 1905, ch. 592, §§ 14, 15, 33 Stat. 728; Mar. 19, 1920, ch. 104, § 8, 41 Stat. 535; Apr. 11, 1930, ch. 132, § 4, 46 Stat. 155.
+Acts Feb. 20, 1905, ch. 592, §§ 14, 15, 33 Stat. 728; Mar. 19, 1920, ch. 104, § 8, 41 Stat. 535; Apr. 11, 1930, ch. 132, § 4, 46 Stat. 155.
 
 **Amendments**
 
@@ -2271,7 +2271,7 @@ Subsec. (b). Pub. L. 93–596 substituted “Patent and Trademark Office” for 
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 **Effective Date of 1998 Amendment**
 
@@ -2307,17 +2307,17 @@ For provisions authorizing fees collected under this chapter, and certain approp
 
 **Trademark Fees**
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4203], Nov. 29, 1999, 113 Stat. 1536, 1501A–554, as amended by Pub. L. 107–273, div. C, title III, § 13208, Nov. 2, 2002, 116 Stat. 1908, provided that: “Notwithstanding the second sentence of section 31(a) of the Trademark Act of 1946 (15 U.S.C. 1113(a)), the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office is authorized in fiscal year 2000 to adjust trademark fees without regard to fluctuations in the Consumer Price Index during the preceding 12 months.”
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4203], Nov. 29, 1999, 113 Stat. 1536, 1501A–554, as amended by Pub. L. 107–273, div. C, title III, § 13208, Nov. 2, 2002, 116 Stat. 1908, provided that: “Notwithstanding the second sentence of section 31(a) of the Trademark Act of 1946 (15 U.S.C. 1113(a)), the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office is authorized in fiscal year 2000 to adjust trademark fees without regard to fluctuations in the Consumer Price Index during the preceding 12 months.”
 
-Pub. L. 103–179, § 4, Dec. 3, 1993, 107 Stat. 2040, provided that: “Effective on the date of the enactment of this Act [Dec. 3, 1993], the fee under section 31(a) of the Trademark Act of 1946 (15 U.S.C. 1113(a)) for filing an application for the registration of a trademark shall be $245. Any adjustment of such fee under the second sentence of such section may not be effective before October 1, 1994.”
+Pub. L. 103–179, § 4, Dec. 3, 1993, 107 Stat. 2040, provided that: “Effective on the date of the enactment of this Act [Dec. 3, 1993], the fee under section 31(a) of the Trademark Act of 1946 (15 U.S.C. 1113(a)) for filing an application for the registration of a trademark shall be $245. Any adjustment of such fee under the second sentence of such section may not be effective before October 1, 1994.”
 
-Pub. L. 102–204, § 5(f)(2), Dec. 10, 1991, 105 Stat. 1640, provided that fees established by Commissioner of Patents and Trademarks under 15 U.S.C. 1113(a) during fiscal year 1992 could reflect fluctuations during the preceding 3 years in the Consumer Price Index and could take effect on or after 1 day after such fees are published in the Federal Register and that the last sentence of 31 U.S.C. 31(a) and 5 U.S.C. 553 did not apply to the establishment of such fees.
+Pub. L. 102–204, § 5(f)(2), Dec. 10, 1991, 105 Stat. 1640, provided that fees established by Commissioner of Patents and Trademarks under 15 U.S.C. 1113(a) during fiscal year 1992 could reflect fluctuations during the preceding 3 years in the Consumer Price Index and could take effect on or after 1 day after such fees are published in the Federal Register and that the last sentence of 31 U.S.C. 31(a) and 5 U.S.C. 553 did not apply to the establishment of such fees.
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 100–703, title I, § 103(a), Nov. 19, 1988, 102 Stat. 4674.
+Pub. L. 100–703, title I, § 103(a), Nov. 19, 1988, 102 Stat. 4674.
 
-Pub. L. 99–607, § 3(a), Nov. 6, 1986, 100 Stat. 3470.
+Pub. L. 99–607, § 3(a), Nov. 6, 1986, 100 Stat. 3470.
 
 **Reorganization Plan No. 5 of 1950**
 
@@ -2327,9 +2327,9 @@ Amendment by Pub. L. 85–609 as subject to Reorganization Plan No. 5 of 1950, s
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1114. Remedies; infringement; innocent infringement by printers and publishers
+### § 1114. Remedies; infringement; innocent infringement by printers and publishers
 
 **(1)** Any person who shall, without the consent of the registrant—
 
@@ -2395,13 +2395,13 @@ As used in this paragraph, the term “any person” includes the United States,
 
 **(D)** Any failure by a manufacturer, licensee, or licensor of technology to qualify for the exemption under subparagraphs (A) and (B) shall not be construed to create an inference that any such party that engages in conduct described in paragraph (11) of section 110 of title 17 is liable for trademark infringement by reason of such conduct.
 
-(July 5, 1946, ch. 540, title VI, § 32, 60 Stat. 437; Pub. L. 87–772, § 17, Oct. 9, 1962, 76 Stat. 773; Pub. L. 100–667, title I, § 127, Nov. 16, 1988, 102 Stat. 3943; Pub. L. 102–542, § 3(a), Oct. 27, 1992, 106 Stat. 3567; Pub. L. 105–330, title II, § 201(a)(8), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–43, § 4(a), Aug. 5, 1999, 113 Stat. 219; Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3004], Nov. 29, 1999, 113 Stat. 1536, 1501A–549; Pub. L. 109–9, title II, § 202(b), Apr. 27, 2005, 119 Stat. 223.)
+(July 5, 1946, ch. 540, title VI, § 32, 60 Stat. 437; Pub. L. 87–772, § 17, Oct. 9, 1962, 76 Stat. 773; Pub. L. 100–667, title I, § 127, Nov. 16, 1988, 102 Stat. 3943; Pub. L. 102–542, § 3(a), Oct. 27, 1992, 106 Stat. 3567; Pub. L. 105–330, title II, § 201(a)(8), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–43, § 4(a), Aug. 5, 1999, 113 Stat. 219; Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3004], Nov. 29, 1999, 113 Stat. 1536, 1501A–549; Pub. L. 109–9, title II, § 202(b), Apr. 27, 2005, 119 Stat. 223.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Acts Feb. 20, 1905, ch. 592, § 16, 33 Stat. 728; Mar. 19, 1920, ch. 104, § 4, 41 Stat. 534.
+Acts Feb. 20, 1905, ch. 592, § 16, 33 Stat. 728; Mar. 19, 1920, ch. 104, § 4, 41 Stat. 534.
 
 **Amendments**
 
@@ -2409,9 +2409,9 @@ Acts Feb. 20, 1905, ch. 592, § 16, 33 Stat. 728; Mar. 19, 1920, ch. 104, §�
 
 1999—Par. (1). Pub. L. 106–43, in undesignated par., inserted after “includes” in first sentence “the United States, all agencies and instrumentalities thereof, and all individuals, firms, corporations, or other persons acting for the United States and with the authorization and consent of the United States, and” and, in second sentence, substituted “The United States, all agencies and instrumentalities thereof, and all individuals, firms, corporations, other persons acting for the United States and with the authorization and consent of the United States, and any” for “Any”.
 
-Par. (2). Pub. L. 106–113, § 1000(a)(9) [title III, § 3004(1)], in introductory provisions, substituted “under section 1125(a) or (d) of this title” for “under section 1125(a) of this title”.
+Par. (2). Pub. L. 106–113, § 1000(a)(9) [title III, § 3004(1)], in introductory provisions, substituted “under section 1125(a) or (d) of this title” for “under section 1125(a) of this title”.
 
-Par. (2)(D), (E). Pub. L. 106–113, § 1000(a)(9) [title III, § 3004(2)], added subpar. (D) and redesignated former subpar. (D) as (E).
+Par. (2)(D), (E). Pub. L. 106–113, § 1000(a)(9) [title III, § 3004(2)], added subpar. (D) and redesignated former subpar. (D) as (E).
 
 1998—Par. (1). Pub. L. 105–330 substituted “As used in this paragraph” for “As used in this subsection” in last paragraph.
 
@@ -2427,7 +2427,7 @@ Par. (2)(b). Pub. L. 87–772 substituted “publisher” for “published”.
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 applicable to all domain names registered before, on, or after Nov. 29, 1999, see section 1000(a)(9) [title III, § 3010] of Pub. L. 106–113, set out as a note under section 1117 of this title.
+Amendment by Pub. L. 106–113 applicable to all domain names registered before, on, or after Nov. 29, 1999, see section 1000(a)(9) [title III, § 3010] of Pub. L. 106–113, set out as a note under section 1117 of this title.
 
 **Effective Date of 1998 Amendment**
 
@@ -2435,7 +2435,7 @@ Amendment by Pub. L. 105–330 effective Oct. 30, 1998, and applicable only to a
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–542, § 4, Oct. 27, 1992, 106 Stat. 3568, provided that: “The amendments made by this Act [enacting section 1122 of this title and amending this section and sections 1125 and 1127 of this title] shall take effect with respect to violations that occur on or after the date of the enactment of this Act [Oct. 27, 1992].”
+Pub. L. 102–542, § 4, Oct. 27, 1992, 106 Stat. 3568, provided that: “The amendments made by this Act [enacting section 1122 of this title and amending this section and sections 1125 and 1127 of this title] shall take effect with respect to violations that occur on or after the date of the enactment of this Act [Oct. 27, 1992].”
 
 **Effective Date of 1988 Amendment**
 
@@ -2445,7 +2445,7 @@ Amendment by Pub. L. 100–667 effective one year after Nov. 16, 1988, see secti
 
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
 
-### § 1115. Registration on principal register as evidence of exclusive right to use mark; defenses
+### § 1115. Registration on principal register as evidence of exclusive right to use mark; defenses
 
 **(a) Evidentiary value; defenses**
 
@@ -2471,19 +2471,19 @@ Any registration issued under the Act of March 3, 1881, or the Act of February 2
 
 **(9)** That equitable principles, including laches, estoppel, and acquiescence, are applicable.
 
-(July 5, 1946, ch. 540, title VI, § 33, 60 Stat. 438; Pub. L. 87–772, § 18, Oct. 9, 1962, 76 Stat. 774; Pub. L. 100–667, title I, § 128(a), (b), Nov. 16, 1988, 102 Stat. 3944; Pub. L. 105–330, title II, § 201(a)(9), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 107–273, div. C, title III, § 13207(b)(7), Nov. 2, 2002, 116 Stat. 1908.)
+(July 5, 1946, ch. 540, title VI, § 33, 60 Stat. 438; Pub. L. 87–772, § 18, Oct. 9, 1962, 76 Stat. 774; Pub. L. 100–667, title I, § 128(a), (b), Nov. 16, 1988, 102 Stat. 3944; Pub. L. 105–330, title II, § 201(a)(9), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 107–273, div. C, title III, § 13207(b)(7), Nov. 2, 2002, 116 Stat. 1908.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Acts March 3, 1881, and February 20, 1905, referred to in subsec. (a), are acts Mar. 3, 1881, ch. 138, 21 Stat. 502 and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
+Acts March 3, 1881, and February 20, 1905, referred to in subsec. (a), are acts Mar. 3, 1881, ch. 138, 21 Stat. 502 and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
 
 The effective date of the Trademark Law Revision Act of 1988, referred to in subsec. (b)(5), is one year after Nov. 16, 1988. See section 136 of Pub. L. 100–667, set out as an Effective Date of 1988 Amendment note under section 1051 of this title.
 
 **Prior Provisions**
 
-Act Feb. 20, 1905, ch. 592, §§ 16, 21, 33 Stat. 728, 729.
+Act Feb. 20, 1905, ch. 592, §§ 16, 21, 33 Stat. 728, 729.
 
 **Amendments**
 
@@ -2491,17 +2491,17 @@ Act Feb. 20, 1905, ch. 592, §§ 16, 21, 33 Stat. 728, 729.
 
 1998—Subsec. (b)(8), (9). Pub. L. 105–330 added par. (8) and redesignated former par. (8) as (9).
 
-1988—Subsec. (a). Pub. L. 100–667, § 128(a), inserted “the validity of the registered mark and of the registration of the mark, of the registrant’s ownership of the mark, and of the” after “facie evidence of”, inserted “or in connection with” after “in commerce on”, substituted “another person” for “an opposing party”, and inserted “, including those set forth in subsection (b),” after “or defect”.
+1988—Subsec. (a). Pub. L. 100–667, § 128(a), inserted “the validity of the registered mark and of the registration of the mark, of the registrant’s ownership of the mark, and of the” after “facie evidence of”, inserted “or in connection with” after “in commerce on”, substituted “another person” for “an opposing party”, and inserted “, including those set forth in subsection (b),” after “or defect”.
 
-Subsec. (b). Pub. L. 100–667, § 128(b)(1), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “If the right to use the registered mark has become incontestable under section 1065 of this title, the registration shall be conclusive evidence of the registrant’s exclusive right to use the registered mark in commerce on or in connection with the goods or services specified in the affidavit filed under the provisions of said section 1065 subject to any conditions or limitations stated therein except when one of the following defenses or defects is established:”.
+Subsec. (b). Pub. L. 100–667, § 128(b)(1), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “If the right to use the registered mark has become incontestable under section 1065 of this title, the registration shall be conclusive evidence of the registrant’s exclusive right to use the registered mark in commerce on or in connection with the goods or services specified in the affidavit filed under the provisions of said section 1065 subject to any conditions or limitations stated therein except when one of the following defenses or defects is established:”.
 
-Subsec. (b)(3). Pub. L. 100–667, § 128(b)(2), inserted “on or” after “goods or services”.
+Subsec. (b)(3). Pub. L. 100–667, § 128(b)(2), inserted “on or” after “goods or services”.
 
-Subsec. (b)(4). Pub. L. 100–667, § 128(b)(3), struck out “trade or service” after “than as a” and “to users” after “only to describe”.
+Subsec. (b)(4). Pub. L. 100–667, § 128(b)(3), struck out “trade or service” after “than as a” and “to users” after “only to describe”.
 
-Subsec. (b)(5). Pub. L. 100–667, § 128(b)(4), substituted “(A) the date of constructive use of the mark established pursuant to section 1057(c) of this title, (B) the registration of the mark under this chapter if the application for registration is filed before the effective date of the Trademark Law Revision Act of 1988, or (C)” for “registration of the mark under this chapter or”.
+Subsec. (b)(5). Pub. L. 100–667, § 128(b)(4), substituted “(A) the date of constructive use of the mark established pursuant to section 1057(c) of this title, (B) the registration of the mark under this chapter if the application for registration is filed before the effective date of the Trademark Law Revision Act of 1988, or (C)” for “registration of the mark under this chapter or”.
 
-Subsec. (b)(8). Pub. L. 100–667, § 128(b)(5), (6), added par. (8).
+Subsec. (b)(8). Pub. L. 100–667, § 128(b)(5), (6), added par. (8).
 
 1962—Subsec. (a). Pub. L. 87–772 substituted “registration subject to” for “certificate subject to”, and struck out “certificate of” before “registration issued”.
 
@@ -2521,7 +2521,7 @@ Amendment by Pub. L. 100–667 effective one year after Nov. 16, 1988, see secti
 
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
 
-### § 1116. Injunctive relief
+### § 1116. Injunctive relief
 
 **(a) Jurisdiction; service**
 
@@ -2547,9 +2547,9 @@ It shall be the duty of the clerks of such courts within one month after the fil
 
 **(ii)** a spurious designation that is identical with, or substantially indistinguishable from, a designation as to which the remedies of this chapter are made available by reason of section 220506 of title 36;
 
-but such term does not include any mark or designation used on or in connection with goods or services of which the manufacture 1
+but such term does not include any mark or designation used on or in connection with goods or services of which the manufacture 1
 
-<sup>1</sup>  So in original. Probably should be “manufacturer”.
+<sup>1</sup> So in original. Probably should be “manufacturer”.
 
 or producer was, at the time of the manufacture or production in question authorized to use the mark or designation for the type of goods or services so manufactured or produced, by the holder of the right to use such mark or designation.
 
@@ -2609,7 +2609,7 @@ or producer was, at the time of the manufacture or production in question author
 
 **(11)** A person who suffers damage by reason of a wrongful seizure under this subsection has a cause of action against the applicant for the order under which such seizure was made, and shall be entitled to recover such relief as may be appropriate, including damages for lost profits, cost of materials, loss of good will, and punitive damages in instances where the seizure was sought in bad faith, and, unless the court finds extenuating circumstances, to recover a reasonable attorney’s fee. The court in its discretion may award prejudgment interest on relief recovered under this paragraph, at an annual interest rate established under section 6621(a)(2) of title 26, commencing on the date of service of the claimant’s pleading setting forth the claim under this paragraph and ending on the date such recovery is granted, or for such shorter time as the court deems appropriate.
 
-(July 5, 1946, ch. 540, title VI, § 34, 60 Stat. 439; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 98–473, title II, § 1503(1), Oct. 12, 1984, 98 Stat. 2179; Pub. L. 100–667, title I, § 128(c)–(e), Nov. 16, 1988, 102 Stat. 3945; Pub. L. 104–153, § 6, July 2, 1996, 110 Stat. 1388; Pub. L. 106–43, § 3(a)(1), Aug. 5, 1999, 113 Stat. 218; Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3003(a)(1), title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–548, 1501A–583; Pub. L. 107–273, div. C, title III, § 13207(b)(8)–(10), Nov. 2, 2002, 116 Stat. 1908; Pub. L. 110–403, title I, § 102(b), Oct. 13, 2008, 122 Stat. 4258; Pub. L. 116–260, div. Q, title II, § 226(a), Dec. 27, 2020, 134 Stat. 2208.)
+(July 5, 1946, ch. 540, title VI, § 34, 60 Stat. 439; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 98–473, title II, § 1503(1), Oct. 12, 1984, 98 Stat. 2179; Pub. L. 100–667, title I, § 128(c)–(e), Nov. 16, 1988, 102 Stat. 3945; Pub. L. 104–153, § 6, July 2, 1996, 110 Stat. 1388; Pub. L. 106–43, § 3(a)(1), Aug. 5, 1999, 113 Stat. 218; Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3003(a)(1), title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–548, 1501A–583; Pub. L. 107–273, div. C, title III, § 13207(b)(8)–(10), Nov. 2, 2002, 116 Stat. 1908; Pub. L. 110–403, title I, § 102(b), Oct. 13, 2008, 122 Stat. 4258; Pub. L. 116–260, div. Q, title II, § 226(a), Dec. 27, 2020, 134 Stat. 2208.)
 
 **Editorial Notes**
 
@@ -2619,7 +2619,7 @@ The Rules of Civil Procedure, referred to in subsec. (d)(10)(B), probably means 
 
 **Prior Provisions**
 
-Acts Feb. 20, 1905, ch. 592, §§ 19, 20, 33 Stat. 729; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; June 25, 1936, ch. 804, 49 Stat. 1921.
+Acts Feb. 20, 1905, ch. 592, §§ 19, 20, 33 Stat. 729; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; June 25, 1936, ch. 804, 49 Stat. 1921.
 
 **Amendments**
 
@@ -2627,23 +2627,23 @@ Acts Feb. 20, 1905, ch. 592, §§ 19, 20, 33 Stat. 729; Mar. 3, 1911, ch. 231,
 
 2008—Subsec. (d)(7). Pub. L. 110–403 amended par. (7) generally. Prior to amendment, par. (7) read as follows: “Any materials seized under this subsection shall be taken into the custody of the court. The court shall enter an appropriate protective order with respect to discovery by the applicant of any records that have been seized. The protective order shall provide for appropriate procedures to assure that confidential information contained in such records is not improperly disclosed to the applicant.”
 
-2002—Subsec. (d)(1)(A), (B)(ii). Pub. L. 107–273, § 13207(b)(8), (9), substituted “section 220506 of title 36” for “section 110 of the Act entitled ‘An Act to incorporate the United States Olympic Association’, approved September 21, 1950 (36 U.S.C. 380)”.
+2002—Subsec. (d)(1)(A), (B)(ii). Pub. L. 107–273, § 13207(b)(8), (9), substituted “section 220506 of title 36” for “section 110 of the Act entitled ‘An Act to incorporate the United States Olympic Association’, approved September 21, 1950 (36 U.S.C. 380)”.
 
-Subsec. (d)(11). Pub. L. 107–273, § 13207(b)(10), substituted “6621(a)(2) of title 26” for “6621 of title 26”.
+Subsec. (d)(11). Pub. L. 107–273, § 13207(b)(10), substituted “6621(a)(2) of title 26” for “6621 of title 26”.
 
-1999—Subsec. (a). Pub. L. 106–113, § 1000(a)(9) [title III, § 3003(a)(1)], substituted “(a), (c), or (d)” for “(a) or (c)” in first sentence.
+1999—Subsec. (a). Pub. L. 106–113, § 1000(a)(9) [title III, § 3003(a)(1)], substituted “(a), (c), or (d)” for “(a) or (c)” in first sentence.
 
 Pub. L. 106–43 substituted “subsection (a) or (c) of section 1125 of this title” for “section 1125(a) of this title” in first sentence.
 
-Subsec. (c). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], substituted “Director” for “Commissioner” wherever appearing.
+Subsec. (c). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], substituted “Director” for “Commissioner” wherever appearing.
 
 1996—Subsec. (d)(9). Pub. L. 104–153 inserted first sentence and struck out former first sentence which read as follows: “The court shall order that a United States marshal or other law enforcement officer is to serve a copy of the order under this subsection and then is to carry out the seizure under such order.”
 
-1988—Subsec. (a). Pub. L. 100–667, § 128(c), inserted “or to prevent a violation under section 1125(a) of this title” after “Office” in first sentence.
+1988—Subsec. (a). Pub. L. 100–667, § 128(c), inserted “or to prevent a violation under section 1125(a) of this title” after “Office” in first sentence.
 
-Subsec. (c). Pub. L. 100–667, § 128(d), substituted “proceeding involving a mark registered” for “proceeding arising” and “judgment is entered or an appeal is taken” for “decision is rendered, appeal taken or a decree issued”.
+Subsec. (c). Pub. L. 100–667, § 128(d), substituted “proceeding involving a mark registered” for “proceeding arising” and “judgment is entered or an appeal is taken” for “decision is rendered, appeal taken or a decree issued”.
 
-Subsec. (d)(1)(B). Pub. L. 100–667, § 128(e), inserted “on or” after “or designation used” in concluding provisions.
+Subsec. (d)(1)(B). Pub. L. 100–667, § 128(e), inserted “on or” after “or designation used” in concluding provisions.
 
 1984—Pub. L. 98–473 designated first, second, and third undesignated pars. as subsecs. (a), (b), and (c), respectively and added subsec. (d).
 
@@ -2653,9 +2653,9 @@ Subsec. (d)(1)(B). Pub. L. 100–667, § 128(e), inserted “on or” after �
 
 **Effective Date of 1999 Amendment**
 
-Amendment by section 1000(a)(9) [title III, § 3003(a)(1)] of Pub. L. 106–113 applicable to all domain names registered before, on, or after Nov. 29, 1999, see section 1000(a)(9) [title III, § 3010] of Pub. L. 106–113, set out as a note under section 1117 of this title.
+Amendment by section 1000(a)(9) [title III, § 3003(a)(1)] of Pub. L. 106–113 applicable to all domain names registered before, on, or after Nov. 29, 1999, see section 1000(a)(9) [title III, § 3010] of Pub. L. 106–113, set out as a note under section 1117 of this title.
 
-Amendment by section 1000(a)(9) [title IV, § 4732(b)(1)(B)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by section 1000(a)(9) [title IV, § 4732(b)(1)(B)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 **Effective Date of 1988 Amendment**
 
@@ -2671,7 +2671,7 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 **Construction of 2020 Amendment**
 
-Pub. L. 116–260, div. Q, title II, § 226(b), Dec. 27, 2020, 134 Stat. 2208, provided that: “The amendment made by subsection (a) [amending this section] shall not be construed to mean that a plaintiff seeking an injunction was not entitled to a presumption of irreparable harm before the date of enactment of this Act [Dec. 27, 2020].”
+Pub. L. 116–260, div. Q, title II, § 226(b), Dec. 27, 2020, 134 Stat. 2208, provided that: “The amendment made by subsection (a) [amending this section] shall not be construed to mean that a plaintiff seeking an injunction was not entitled to a presumption of irreparable harm before the date of enactment of this Act [Dec. 27, 2020].”
 
 **Transfer of Functions**
 
@@ -2683,9 +2683,9 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1117. Recovery for violation of rights
+### § 1117. Recovery for violation of rights
 
 **(a) Profits; damages and costs; attorney fees**
 
@@ -2713,37 +2713,37 @@ In a case involving a violation of section 1125(d)(1) of this title, the plainti
 
 In the case of a violation referred to in this section, it shall be a rebuttable presumption that the violation is willful for purposes of determining relief if the violator, or a person acting in concert with the violator, knowingly provided or knowingly caused to be provided materially false contact information to a domain name registrar, domain name registry, or other domain name registration authority in registering, maintaining, or renewing a domain name used in connection with the violation. Nothing in this subsection limits what may be considered a willful violation under this section.
 
-(July 5, 1946, ch. 540, title VI, § 35, 60 Stat. 439; Pub. L. 87–772, § 19, Oct. 9, 1962, 76 Stat. 774; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–600, § 3, Jan. 2, 1975, 88 Stat. 1955; Pub. L. 98–473, title II, § 1503(2), Oct. 12, 1984, 98 Stat. 2182; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–667, title I, § 129, Nov. 16, 1988, 102 Stat. 3945; Pub. L. 104–153, § 7, July 2, 1996, 110 Stat. 1388; Pub. L. 106–43, § 3(b), Aug. 5, 1999, 113 Stat. 219; Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3003(a)(2), (b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–549; Pub. L. 107–273, div. C, title III, § 13207(a), (b)(11), Nov. 2, 2002, 116 Stat. 1906, 1908; Pub. L. 108–482, title II, § 202, Dec. 23, 2004, 118 Stat. 3916; Pub. L. 110–403, title I, §§ 103, 104, Oct. 13, 2008, 122 Stat. 4259.)
+(July 5, 1946, ch. 540, title VI, § 35, 60 Stat. 439; Pub. L. 87–772, § 19, Oct. 9, 1962, 76 Stat. 774; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–600, § 3, Jan. 2, 1975, 88 Stat. 1955; Pub. L. 98–473, title II, § 1503(2), Oct. 12, 1984, 98 Stat. 2182; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–667, title I, § 129, Nov. 16, 1988, 102 Stat. 3945; Pub. L. 104–153, § 7, July 2, 1996, 110 Stat. 1388; Pub. L. 106–43, § 3(b), Aug. 5, 1999, 113 Stat. 219; Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3003(a)(2), (b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–549; Pub. L. 107–273, div. C, title III, § 13207(a), (b)(11), Nov. 2, 2002, 116 Stat. 1906, 1908; Pub. L. 108–482, title II, § 202, Dec. 23, 2004, 118 Stat. 3916; Pub. L. 110–403, title I, §§ 103, 104, Oct. 13, 2008, 122 Stat. 4259.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Acts Feb. 20, 1905, ch. 592, §§ 16, 19, 33 Stat. 728, 729; Mar. 19, 1920, ch. 104, § 4, 41 Stat. 534.
+Acts Feb. 20, 1905, ch. 592, §§ 16, 19, 33 Stat. 728, 729; Mar. 19, 1920, ch. 104, § 4, 41 Stat. 534.
 
 **Amendments**
 
-2008—Subsec. (b). Pub. L. 110–403, § 103, amended subsec. (b) generally. Prior to amendment, text read as follows: “In assessing damages under subsection (a) of this section, the court shall, unless the court finds extenuating circumstances, enter judgment for three times such profits or damages, whichever is greater, together with a reasonable attorney’s fee, in the case of any violation of section 1114(1)(a) of this title or section 220506 of title 36 that consists of intentionally using a mark or designation, knowing such mark or designation is a counterfeit mark (as defined in section 1116(d) of this title), in connection with the sale, offering for sale, or distribution of goods or services. In such cases, the court may in its discretion award prejudgment interest on such amount at an annual interest rate established under section 6621(a)(2) of title 26, commencing on the date of the service of the claimant’s pleadings setting forth the claim for such entry and ending on the date such entry is made, or for such shorter time as the court deems appropriate.”
+2008—Subsec. (b). Pub. L. 110–403, § 103, amended subsec. (b) generally. Prior to amendment, text read as follows: “In assessing damages under subsection (a) of this section, the court shall, unless the court finds extenuating circumstances, enter judgment for three times such profits or damages, whichever is greater, together with a reasonable attorney’s fee, in the case of any violation of section 1114(1)(a) of this title or section 220506 of title 36 that consists of intentionally using a mark or designation, knowing such mark or designation is a counterfeit mark (as defined in section 1116(d) of this title), in connection with the sale, offering for sale, or distribution of goods or services. In such cases, the court may in its discretion award prejudgment interest on such amount at an annual interest rate established under section 6621(a)(2) of title 26, commencing on the date of the service of the claimant’s pleadings setting forth the claim for such entry and ending on the date such entry is made, or for such shorter time as the court deems appropriate.”
 
-Subsec. (c)(1). Pub. L. 110–403, § 104(1), substituted “$1,000” for “$500” and “$200,000” for “$100,000”.
+Subsec. (c)(1). Pub. L. 110–403, § 104(1), substituted “$1,000” for “$500” and “$200,000” for “$100,000”.
 
-Subsec. (c)(2). Pub. L. 110–403, § 104(2), substituted “$2,000,000” for “$1,000,000”.
+Subsec. (c)(2). Pub. L. 110–403, § 104(2), substituted “$2,000,000” for “$1,000,000”.
 
 2004—Subsec. (e). Pub. L. 108–482 added subsec. (e).
 
-2002—Subsec. (a). Pub. L. 107–273, § 13207(a), substituted “a violation under section 1125(a) or (d) of this title,” for “a violation under section 1125(a), (c), or (d) of this title,”.
+2002—Subsec. (a). Pub. L. 107–273, § 13207(a), substituted “a violation under section 1125(a) or (d) of this title,” for “a violation under section 1125(a), (c), or (d) of this title,”.
 
-Subsec. (b). Pub. L. 107–273, § 13207(b)(11), substituted “section 220506 of title 36” for “section 110 of the Act entitled ‘An Act to incorporate the United States Olympic Association’, approved September 21, 1950 (36 U.S.C. 380)” and “6621(a)(2) of title 26” for “6621 of title 26”.
+Subsec. (b). Pub. L. 107–273, § 13207(b)(11), substituted “section 220506 of title 36” for “section 110 of the Act entitled ‘An Act to incorporate the United States Olympic Association’, approved September 21, 1950 (36 U.S.C. 380)” and “6621(a)(2) of title 26” for “6621 of title 26”.
 
-1999—Subsec. (a). Pub. L. 106–113, § 1000(a)(9) [title III, § 3003(a)(2)], inserted “, (c), or (d)” after “section 1125(a)” in first sentence.
+1999—Subsec. (a). Pub. L. 106–113, § 1000(a)(9) [title III, § 3003(a)(2)], inserted “, (c), or (d)” after “section 1125(a)” in first sentence.
 
 Pub. L. 106–43 substituted “a violation under section 1125(a) of this title, or a willful violation under section 1125(c) of this title,” for “or a violation under section 1125(a) of this title,” in first sentence.
 
-Subsec. (d). Pub. L. 106–113, § 1000(a)(9) [title III, § 3003(b)], added subsec. (d).
+Subsec. (d). Pub. L. 106–113, § 1000(a)(9) [title III, § 3003(b)], added subsec. (d).
 
 1996—Subsec. (c). Pub. L. 104–153 added subsec. (c).
 
-1988—Subsec. (a). Pub. L. 100–667 inserted “, or a violation under section 1125(a) of this title,” after “Office” in first sentence.
+1988—Subsec. (a). Pub. L. 100–667 inserted “, or a violation under section 1125(a) of this title,” after “Office” in first sentence.
 
 1986—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -2759,7 +2759,7 @@ Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Off
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3010], Nov. 29, 1999, 113 Stat. 1536, 1501A–552, provided that: “Sections 3002(a), 3003, 3004, 3005, and 3008 of this title [amending this section and sections 1114, 1116, 1125, and 1127 of this title, and enacting provisions set out as a note under section 1051 of this title] shall apply to all domain names registered before, on, or after the date of the enactment of this Act [Nov. 29, 1999], except that damages under subsection (a) or (d) of section 35 of the Trademark Act of 1946 (15 U.S.C. 1117), as amended by section 3003 of this title, shall not be available with respect to the registration, trafficking, or use of a domain name that occurs before the date of the enactment of this Act.”
+Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3010], Nov. 29, 1999, 113 Stat. 1536, 1501A–552, provided that: “Sections 3002(a), 3003, 3004, 3005, and 3008 of this title [amending this section and sections 1114, 1116, 1125, and 1127 of this title, and enacting provisions set out as a note under section 1051 of this title] shall apply to all domain names registered before, on, or after the date of the enactment of this Act [Nov. 29, 1999], except that damages under subsection (a) or (d) of section 35 of the Trademark Act of 1946 (15 U.S.C. 1117), as amended by section 3003 of this title, shall not be available with respect to the registration, trafficking, or use of a domain name that occurs before the date of the enactment of this Act.”
 
 **Effective Date of 1988 Amendment**
 
@@ -2777,7 +2777,7 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 **Construction of 2004 Amendment**
 
-Pub. L. 108–482, title II, § 205, Dec. 23, 2004, 118 Stat. 3917, provided that:
+Pub. L. 108–482, title II, § 205, Dec. 23, 2004, 118 Stat. 3917, provided that:
 
 > **“(a) Free Speech and Press.—** Nothing in this title [see Short Title of 2004 Amendment note set out under section 1051 of this title] shall enlarge or diminish any rights of free speech or of the press for activities related to the registration or use of domain names.
 
@@ -2789,25 +2789,25 @@ Pub. L. 108–482, title II, § 205, Dec. 23, 2004, 118 Stat. 3917, provided t
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1118. Destruction of infringing articles
+### § 1118. Destruction of infringing articles
 
 In any action arising under this chapter, in which a violation of any right of the registrant of a mark registered in the Patent and Trademark Office, a violation under section 1125(a) of this title, or a willful violation under section 1125(c) of this title, shall have been established, the court may order that all labels, signs, prints, packages, wrappers, receptacles, and advertisements in the possession of the defendant, bearing the registered mark or, in the case of a violation of section 1125(a) of this title or a willful violation under section 1125(c) of this title, the word, term, name, symbol, device, combination thereof, designation, description, or representation that is the subject of the violation, or any reproduction, counterfeit, copy, or colorable imitation thereof, and all plates, molds, matrices, and other means of making the same, shall be delivered up and destroyed. The party seeking an order under this section for destruction of articles seized under section 1116(d) of this title shall give ten days’ notice to the United States attorney for the judicial district in which such order is sought (unless good cause is shown for lesser notice) and such United States attorney may, if such destruction may affect evidence of an offense against the United States, seek a hearing on such destruction or participate in any hearing otherwise to be held with respect to such destruction.
 
-(July 5, 1946, ch. 540, title VI, § 36, 60 Stat. 440; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 98–473, title II, § 1503(3), Oct. 12, 1984, 98 Stat. 2182; Pub. L. 100–667, title I, § 130, Nov. 16, 1988, 102 Stat. 3945; Pub. L. 106–43, § 3(c), Aug. 5, 1999, 113 Stat. 219.)
+(July 5, 1946, ch. 540, title VI, § 36, 60 Stat. 440; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 98–473, title II, § 1503(3), Oct. 12, 1984, 98 Stat. 2182; Pub. L. 100–667, title I, § 130, Nov. 16, 1988, 102 Stat. 3945; Pub. L. 106–43, § 3(c), Aug. 5, 1999, 113 Stat. 219.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Acts Feb. 20, 1905, ch. 592, § 20, 33 Stat. 729; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; June 25, 1936, ch. 804, 49 Stat. 1921.
+Acts Feb. 20, 1905, ch. 592, § 20, 33 Stat. 729; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; June 25, 1936, ch. 804, 49 Stat. 1921.
 
 **Amendments**
 
-1999—Pub. L. 106–43, in first sentence, substituted “a violation under section 1125(a) of this title, or a willful violation under section 1125(c) of this title,” for “or a violation under section 1125(a) of this title,” and inserted “or a willful violation under section 1125(c) of this title” before “, the word,”.
+1999—Pub. L. 106–43, in first sentence, substituted “a violation under section 1125(a) of this title, or a willful violation under section 1125(c) of this title,” for “or a violation under section 1125(a) of this title,” and inserted “or a willful violation under section 1125(c) of this title” before “, the word,”.
 
-1988—Pub. L. 100–667 inserted in first sentence “, or a violation under section 1125(a) of this title,” after “Office” and “or, in the case of a violation of section 1125(a) of this title, the word, term, name, symbol, device, combination thereof, designation, description, or representation that is the subject of the violation,” after “registered mark”.
+1988—Pub. L. 100–667 inserted in first sentence “, or a violation under section 1125(a) of this title,” after “Office” and “or, in the case of a violation of section 1125(a) of this title, the word, term, name, symbol, device, combination thereof, designation, description, or representation that is the subject of the violation,” after “registered mark”.
 
 1984—Pub. L. 98–473 inserted “The party seeking an order under this section for destruction of articles seized under section 1116(d) of this title shall give ten days’ notice to the United States attorney for the judicial district in which such order is sought (unless good cause is shown for lesser notice) and such United States attorney may, if such destruction may affect evidence of an offense against the United States, seek a hearing on such destruction or participate in any hearing otherwise to be held with respect to such destruction.”
 
@@ -2831,19 +2831,19 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1119. Power of court over registration
+### § 1119. Power of court over registration
 
 In any action involving a registered mark the court may determine the right to registration, order the cancelation of registrations, in whole or in part, restore canceled registrations, and otherwise rectify the register with respect to the registrations of any party to the action. Decrees and orders shall be certified by the court to the Director, who shall make appropriate entry upon the records of the Patent and Trademark Office, and shall be controlled thereby.
 
-(July 5, 1946, ch. 540, title VI, § 37, 60 Stat. 440; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
+(July 5, 1946, ch. 540, title VI, § 37, 60 Stat. 440; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Act Feb. 20, 1905, ch. 592, § 22, 33 Stat. 729.
+Act Feb. 20, 1905, ch. 592, § 22, 33 Stat. 729.
 
 **Amendments**
 
@@ -2855,7 +2855,7 @@ Act Feb. 20, 1905, ch. 592, § 22, 33 Stat. 729.
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 **Effective Date of 1975 Amendment**
 
@@ -2869,19 +2869,19 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1120. Civil liability for false or fraudulent registration
+### § 1120. Civil liability for false or fraudulent registration
 
 Any person who shall procure registration in the Patent and Trademark Office of a mark by a false or fraudulent declaration or representation, oral or in writing, or by any false means, shall be liable in a civil action by any person injured thereby for any damages sustained in consequence thereof.
 
-(July 5, 1946, ch. 540, title VI, § 38, 60 Stat. 440; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949.)
+(July 5, 1946, ch. 540, title VI, § 38, 60 Stat. 440; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Act Feb. 20, 1905, ch. 592, § 25, 33 Stat. 730.
+Act Feb. 20, 1905, ch. 592, § 25, 33 Stat. 730.
 
 **Amendments**
 
@@ -2901,35 +2901,35 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1121. Jurisdiction of Federal courts; State and local requirements that registered trademarks be altered or displayed differently; prohibition
+### § 1121. Jurisdiction of Federal courts; State and local requirements that registered trademarks be altered or displayed differently; prohibition
 
 **(a)** The district and territorial courts of the United States shall have original jurisdiction and the courts of appeal of the United States (other than the United States Court of Appeals for the Federal Circuit) shall have appellate jurisdiction, of all actions arising under this chapter, without regard to the amount in controversy or to diversity or lack of diversity of the citizenship of the parties.
 
 **(b)** No State or other jurisdiction of the United States or any political subdivision or any agency thereof may require alteration of a registered mark, or require that additional trademarks, service marks, trade names, or corporate names that may be associated with or incorporated into the registered mark be displayed in the mark in a manner differing from the display of such additional trademarks, service marks, trade names, or corporate names contemplated by the registered mark as exhibited in the certificate of registration issued by the United States Patent and Trademark Office.
 
-(July 5, 1946, ch. 540, title VI, § 39, formerly §§ 39 and 39a, 60 Stat. 440; Pub. L. 97–164, title I, § 148, Apr. 2, 1982, 96 Stat. 46; Pub. L. 97–296, Oct. 12, 1982, 96 Stat. 1316; Pub. L. 100–667, title I, § 131, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 105–330, title II, § 201(a)(10), Oct. 30, 1998, 112 Stat. 3070.)
+(July 5, 1946, ch. 540, title VI, § 39, formerly §§ 39 and 39a, 60 Stat. 440; Pub. L. 97–164, title I, § 148, Apr. 2, 1982, 96 Stat. 46; Pub. L. 97–296, Oct. 12, 1982, 96 Stat. 1316; Pub. L. 100–667, title I, § 131, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 105–330, title II, § 201(a)(10), Oct. 30, 1998, 112 Stat. 3070.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 100–667, § 131(b)(1), transferred section 39a of act July 5, 1946, which was classified to section 1121a of this title, to subsec. (b) of this section.
+Pub. L. 100–667, § 131(b)(1), transferred section 39a of act July 5, 1946, which was classified to section 1121a of this title, to subsec. (b) of this section.
 
 In subsec. (a), the words “and the United States Court of Appeals for the District of Columbia” following “the Courts of Appeal of the United States” have been deleted as superfluous in view of section 41 of Title 28, Judiciary and Judicial Procedure, which includes the District of Columbia within the eleven judicial circuits of the United States. The word “and” has been inserted preceding “the courts of appeal of the United States” to preserve the conjunctive sense of the sentence.
 
 **Prior Provisions**
 
-Acts Feb. 20, 1905, ch. 592, § 17, 33 Stat. 728; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; June 7, 1934, ch. 426, 48 Stat. 926; June 25, 1936, ch. 804, 49 Stat. 1921.
+Acts Feb. 20, 1905, ch. 592, § 17, 33 Stat. 728; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; June 7, 1934, ch. 426, 48 Stat. 926; June 25, 1936, ch. 804, 49 Stat. 1921.
 
 **Amendments**
 
 1998—Subsec. (a). Pub. L. 105–330 substituted “courts” for “circuit courts” before “of appeal of the United States”.
 
-1988—Subsec. (a). Pub. L. 100–667, § 131(a), designated existing provisions as subsec. (a).
+1988—Subsec. (a). Pub. L. 100–667, § 131(a), designated existing provisions as subsec. (a).
 
-Subsec. (b). Pub. L. 100–667, § 131(b), redesignated section 1121a of this title as subsec. (b) of this section and substituted “service marks” for “servicemarks” in two places.
+Subsec. (b). Pub. L. 100–667, § 131(b), redesignated section 1121a of this title as subsec. (b) of this section and substituted “service marks” for “servicemarks” in two places.
 
 1982—Pub. L. 97–164 inserted “(other than the United States Court of Appeals for the Federal Circuit)”.
 
@@ -2951,15 +2951,15 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
 
-### § 1121a. Transferred
+### § 1121a. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act July 5, 1946, ch. 540, title VI, § 39a, as added Oct. 12, 1982, Pub. L. 97–296, 96 Stat. 1316, which prohibited State and local requirements that registered trademarks be altered or displayed differently, was transferred to subsec. (b) of section 39 of act July 5, 1946, by section 131(b)(1) of Pub. L. 100–667 and is classified to section 1121(b) of this title.
+Section, act July 5, 1946, ch. 540, title VI, § 39a, as added Oct. 12, 1982, Pub. L. 97–296, 96 Stat. 1316, which prohibited State and local requirements that registered trademarks be altered or displayed differently, was transferred to subsec. (b) of section 39 of act July 5, 1946, by section 131(b)(1) of Pub. L. 100–667 and is classified to section 1121(b) of this title.
 
-### § 1122. Liability of United States and States, and instrumentalities and officials thereof
+### § 1122. Liability of United States and States, and instrumentalities and officials thereof
 
 **(a) Waiver of sovereign immunity by the United States**
 
@@ -2973,21 +2973,21 @@ Any State, instrumentality of a State or any officer or employee of a State or i
 
 In a suit described in subsection (a) or (b) for a violation described therein, remedies (including remedies both at law and in equity) are available for the violation to the same extent as such remedies are available for such a violation in a suit against any person other than the United States or any agency or instrumentality thereof, or any individual, firm, corporation, or other person acting for the United States and with authorization and consent of the United States, or a State, instrumentality of a State, or officer or employee of a State or instrumentality of a State acting in his or her official capacity. Such remedies include injunctive relief under section 1116 of this title, actual damages, profits, costs and attorney’s fees under section 1117 of this title, destruction of infringing articles under section 1118 of this title, the remedies provided for under sections 1114, 1119, 1120, 1124 and 1125 of this title, and for any other remedies provided under this chapter.
 
-(July 5, 1946, ch. 540, title VI, § 40, as added Pub. L. 102–542, § 3(b), Oct. 27, 1992, 106 Stat. 3567; amended Pub. L. 106–43, § 4(b), Aug. 5, 1999, 113 Stat. 219.)
+(July 5, 1946, ch. 540, title VI, § 40, as added Pub. L. 102–542, § 3(b), Oct. 27, 1992, 106 Stat. 3567; amended Pub. L. 106–43, § 4(b), Aug. 5, 1999, 113 Stat. 219.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1122, act July 5, 1946, ch. 540, title VI, § 40, 60 Stat. 440, related to review of cases by the Supreme Court, prior to repeal by act May 24, 1949, ch. 139, § 142, 63 Stat. 109. See section 1254 of Title 28, Judiciary and Judicial Procedure.
+A prior section 1122, act July 5, 1946, ch. 540, title VI, § 40, 60 Stat. 440, related to review of cases by the Supreme Court, prior to repeal by act May 24, 1949, ch. 139, § 142, 63 Stat. 109. See section 1254 of Title 28, Judiciary and Judicial Procedure.
 
 **Amendments**
 
-1999—Subsec. (a). Pub. L. 106–43, § 4(b)(2), added subsec. (a). Former subsec. (a) redesignated (b).
+1999—Subsec. (a). Pub. L. 106–43, § 4(b)(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
-Subsec. (b). Pub. L. 106–43, § 4(b)(1), (2), redesignated subsec. (a) as (b) and inserted heading. Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 106–43, § 4(b)(1), (2), redesignated subsec. (a) as (b) and inserted heading. Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 106–43, § 4(b)(1), (3), redesignated subsec. (b) as (c) and in first sentence substituted “subsection (a) or (b) for a violation described therein” for “subsection (a) of this section for a violation described in that subsection” and inserted “the United States or any agency or instrumentality thereof, or any individual, firm, corporation, or other person acting for the United States and with authorization and consent of the United States, or” after “other than”.
+Subsec. (c). Pub. L. 106–43, § 4(b)(1), (3), redesignated subsec. (b) as (c) and in first sentence substituted “subsection (a) or (b) for a violation described therein” for “subsection (a) of this section for a violation described in that subsection” and inserted “the United States or any agency or instrumentality thereof, or any individual, firm, corporation, or other person acting for the United States and with authorization and consent of the United States, or” after “other than”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2995,17 +2995,17 @@ Subsec. (c). Pub. L. 106–43, § 4(b)(1), (3), redesignated subsec. (b) as (c
 
 Section effective with respect to violations that occur on or after Oct. 27, 1992, see section 4 of Pub. L. 102–542, set out as an Effective Date of 1992 Amendment note under section 1114 of this title.
 
-### § 1123. Rules and regulations for conduct of proceedings in Patent and Trademark Office
+### § 1123. Rules and regulations for conduct of proceedings in Patent and Trademark Office
 
 The Director shall make rules and regulations, not inconsistent with law, for the conduct of proceedings in the Patent and Trademark Office under this chapter.
 
-(July 5, 1946, ch. 540, title VI, § 41, 60 Stat. 440; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
+(July 5, 1946, ch. 540, title VI, § 41, 60 Stat. 440; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Act Feb. 20, 1905, ch. 592, § 26, 33 Stat. 730.
+Act Feb. 20, 1905, ch. 592, § 26, 33 Stat. 730.
 
 **Amendments**
 
@@ -3017,7 +3017,7 @@ Act Feb. 20, 1905, ch. 592, § 26, 33 Stat. 730.
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 **Effective Date of 1975 Amendment**
 
@@ -3031,27 +3031,27 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5, of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5, of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1124. Importation of goods bearing infringing marks or names forbidden
+### § 1124. Importation of goods bearing infringing marks or names forbidden
 
 Except as provided in subsection (d) of section 1526 of title 19, no article of imported merchandise which shall copy or simulate the name of any domestic manufacture, or manufacturer, or trader, or of any manufacturer or trader located in any foreign country which, by treaty, convention, or law affords similar privileges to citizens of the United States, or which shall copy or simulate a trademark registered in accordance with the provisions of this chapter or shall bear a name or mark calculated to induce the public to believe that the article is manufactured in the United States, or that it is manufactured in any foreign country or locality other than the country or locality in which it is in fact manufactured, shall be admitted to entry at any customhouse of the United States; and, in order to aid the officers of the customs in enforcing this prohibition, any domestic manufacturer or trader, and any foreign manufacturer or trader, who is entitled under the provisions of a treaty, convention, declaration, or agreement between the United States and any foreign country to the advantages afforded by law to citizens of the United States in respect to trademarks and commercial names, may require his name and residence, and the name of the locality in which his goods are manufactured, and a copy of the certificate of registration of his trademark, issued in accordance with the provisions of this chapter, to be recorded in books which shall be kept for this purpose in the Department of the Treasury, under such regulations as the Secretary of the Treasury shall prescribe, and may furnish to the Department facsimiles of his name, the name of the locality in which his goods are manufactured, or of his registered trademark, and thereupon the Secretary of the Treasury shall cause one or more copies of the same to be transmitted to each collector or other proper officer of customs.
 
-(July 5, 1946, ch. 540, title VII, § 42, 60 Stat. 440; Pub. L. 95–410, title II, § 211(b), Oct. 3, 1978, 92 Stat. 903; Pub. L. 105–330, title II, § 201(a)(11), (12), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–43, § 6(b), Aug. 5, 1999, 113 Stat. 220.)
+(July 5, 1946, ch. 540, title VII, § 42, 60 Stat. 440; Pub. L. 95–410, title II, § 211(b), Oct. 3, 1978, 92 Stat. 903; Pub. L. 105–330, title II, § 201(a)(11), (12), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–43, § 6(b), Aug. 5, 1999, 113 Stat. 220.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Act Feb. 20, 1905, ch. 592, § 27, 33 Stat. 730.
+Act Feb. 20, 1905, ch. 592, § 27, 33 Stat. 730.
 
 **Amendments**
 
 1999—Pub. L. 106–43 substituted “trademarks” for “trade-marks”.
 
-1998—Pub. L. 105–330, § 201(a)(11), substituted “name of any domestic” for “name of the any domestic”.
+1998—Pub. L. 105–330, § 201(a)(11), substituted “name of any domestic” for “name of the any domestic”.
 
-Pub. L. 105–330, § 201(a)(12), substituted “trademark” for “trade-mark” wherever appearing.
+Pub. L. 105–330, § 201(a)(12), substituted “trademark” for “trade-mark” wherever appearing.
 
 1978—Pub. L. 95–410 substituted “Except as provided in subsection (d) of section 1526 of title 19, no article” for “No article”.
 
@@ -3071,7 +3071,7 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 Offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise of Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished, with such offices to be terminated not later than Dec. 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. Functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
 
-### § 1125. False designations of origin, false descriptions, and dilution forbidden
+### § 1125. False designations of origin, false descriptions, and dilution forbidden
 
 **(a) Civil action**
 
@@ -3251,13 +3251,13 @@ Nothing in this subsection shall be construed to impair, modify, or supersede th
 
 **(4)** The in rem jurisdiction established under paragraph (2) shall be in addition to any other jurisdiction that otherwise exists, whether in rem or in personam.
 
-(July 5, 1946, ch. 540, title VIII, § 43, 60 Stat. 441; Pub. L. 100–667, title I, § 132, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 102–542, § 3(c), Oct. 27, 1992, 106 Stat. 3568; Pub. L. 104–98, § 3(a), Jan. 16, 1996, 109 Stat. 985; Pub. L. 106–43, §§ 3(a)(2), 5, Aug. 5, 1999, 113 Stat. 219, 220; Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3002(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–545; Pub. L. 109–312, § 2, Oct. 6, 2006, 120 Stat. 1730; Pub. L. 112–190, § 1(a), Oct. 5, 2012, 126 Stat. 1436.)
+(July 5, 1946, ch. 540, title VIII, § 43, 60 Stat. 441; Pub. L. 100–667, title I, § 132, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 102–542, § 3(c), Oct. 27, 1992, 106 Stat. 3568; Pub. L. 104–98, § 3(a), Jan. 16, 1996, 109 Stat. 985; Pub. L. 106–43, §§ 3(a)(2), 5, Aug. 5, 1999, 113 Stat. 219, 220; Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3002(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–545; Pub. L. 109–312, § 2, Oct. 6, 2006, 120 Stat. 1730; Pub. L. 112–190, § 1(a), Oct. 5, 2012, 126 Stat. 1436.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Acts March 3, 1881, and February 20, 1905, referred to in subsec. (c)(2)(A)(iv), (6), are acts Mar. 3, 1881, ch. 138, 21 Stat. 502, and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
+Acts March 3, 1881, and February 20, 1905, referred to in subsec. (c)(2)(A)(iv), (6), are acts Mar. 3, 1881, ch. 138, 21 Stat. 502, and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
 
 **Constitutionality**
 
@@ -3265,7 +3265,7 @@ For information regarding the constitutionality of this section, see the Table o
 
 **Prior Provisions**
 
-Act Mar. 19, 1920, ch. 104, § 3, 41 Stat. 534.
+Act Mar. 19, 1920, ch. 104, § 3, 41 Stat. 534.
 
 **Amendments**
 
@@ -3277,13 +3277,13 @@ Act Mar. 19, 1920, ch. 104, § 3, 41 Stat. 534.
 
 “(B) asserts any claim of actual or likely damage or harm to the distinctiveness or reputation of a mark, label, or form of advertisement.”
 
-2006—Subsec. (c). Pub. L. 109–312, § 2(1), added subsec. (c) and struck out former subsec. (c) which related to remedies for dilution of famous marks.
+2006—Subsec. (c). Pub. L. 109–312, § 2(1), added subsec. (c) and struck out former subsec. (c) which related to remedies for dilution of famous marks.
 
-Subsec. (d)(1)(B)(i)(IX). Pub. L. 109–312, § 2(2), substituted “subsection (c)” for “subsection (c)(1)”.
+Subsec. (d)(1)(B)(i)(IX). Pub. L. 109–312, § 2(2), substituted “subsection (c)” for “subsection (c)(1)”.
 
-1999—Subsec. (a)(3). Pub. L. 106–43, § 5, added par. (3).
+1999—Subsec. (a)(3). Pub. L. 106–43, § 5, added par. (3).
 
-Subsec. (c)(2). Pub. L. 106–43, § 3(a)(2), inserted “as set forth in section 1116 of this title” after “relief” in first sentence.
+Subsec. (c)(2). Pub. L. 106–43, § 3(a)(2), inserted “as set forth in section 1116 of this title” after “relief” in first sentence.
 
 Subsec. (d). Pub. L. 106–113 added subsec. (d).
 
@@ -3297,15 +3297,15 @@ Subsec. (d). Pub. L. 106–113 added subsec. (d).
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–190, § 1(b), Oct. 5, 2012, 126 Stat. 1436, provided that: “The amendment made by subsection (a) [amending this section] shall apply to any action commenced on or after the date of the enactment of this Act [Oct. 5, 2012].”
+Pub. L. 112–190, § 1(b), Oct. 5, 2012, 126 Stat. 1436, provided that: “The amendment made by subsection (a) [amending this section] shall apply to any action commenced on or after the date of the enactment of this Act [Oct. 5, 2012].”
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 applicable to all domain names registered before, on, or after Nov. 29, 1999, see section 1000(a)(9) [title III, § 3010] of Pub. L. 106–113, set out as a note under section 1117 of this title.
+Amendment by Pub. L. 106–113 applicable to all domain names registered before, on, or after Nov. 29, 1999, see section 1000(a)(9) [title III, § 3010] of Pub. L. 106–113, set out as a note under section 1117 of this title.
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–98, § 5, Jan. 16, 1996, 109 Stat. 987, provided that: “This Act [amending this section and section 1127 of this title and enacting provisions set out as a note under section 1051 of this title] and the amendments made by this Act shall take effect on the date of the enactment of this Act [Jan. 16, 1996].”
+Pub. L. 104–98, § 5, Jan. 16, 1996, 109 Stat. 987, provided that: “This Act [amending this section and section 1127 of this title and enacting provisions set out as a note under section 1051 of this title] and the amendments made by this Act shall take effect on the date of the enactment of this Act [Jan. 16, 1996].”
 
 **Effective Date of 1992 Amendment**
 
@@ -3321,7 +3321,7 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 **Study on Abusive Domain Name Registrations Involving Personal Names**
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3006], Nov. 29, 1999, 113 Stat. 1536, 1501A–550, provided that:
+Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3006], Nov. 29, 1999, 113 Stat. 1536, 1501A–550, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Nov. 29, 1999], the Secretary of Commerce, in consultation with the Patent and Trademark Office and the Federal Election Commission, shall conduct a study and report to Congress with recommendations on guidelines and procedures for resolving disputes involving the registration or use by a person of a domain name that includes the personal name of another person, in whole or in part, or a name confusingly similar thereto, including consideration of and recommendations for—
 
@@ -3339,7 +3339,7 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3006], Nov. 29, 1999
 
 > **“(b) Guidelines and Procedures.—** The Secretary of Commerce shall, under its Memorandum of Understanding with the Internet Corporation for Assigned Names and Numbers, collaborate to develop guidelines and procedures for resolving disputes involving the registration or use by a person of a domain name that includes the personal name of another person, in whole or in part, or a name confusingly similar thereto.”
 
-### § 1126. International conventions
+### § 1126. International conventions
 
 **(a) Register of marks communicated by international bureaus**
 
@@ -3387,17 +3387,17 @@ Any person designated in subsection (b) of this section as entitled to the benef
 
 Citizens or residents of the United States shall have the same benefits as are granted by this section to persons described in subsection (b) of this section.
 
-(July 5, 1946, ch. 540, title IX, § 44, 60 Stat. 441; Pub. L. 87–333, § 2, Oct. 3, 1961, 75 Stat. 748; Pub. L. 87–772, § 20, Oct. 9, 1962, 76 Stat. 774; Pub. L. 100–667, title I, § 133, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 105–330, title I, § 108, Oct. 30, 1998, 112 Stat. 3068; Pub. L. 106–43, § 6(b), Aug. 5, 1999, 113 Stat. 220; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, § 13207(b)(12), Nov. 2, 2002, 116 Stat. 1908.)
+(July 5, 1946, ch. 540, title IX, § 44, 60 Stat. 441; Pub. L. 87–333, § 2, Oct. 3, 1961, 75 Stat. 748; Pub. L. 87–772, § 20, Oct. 9, 1962, 76 Stat. 774; Pub. L. 100–667, title I, § 133, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 105–330, title I, § 108, Oct. 30, 1998, 112 Stat. 3068; Pub. L. 106–43, § 6(b), Aug. 5, 1999, 113 Stat. 220; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(1)(B)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, § 13207(b)(12), Nov. 2, 2002, 116 Stat. 1908.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1(a) of the Act of March 19, 1920, referred to in subsec. (a), is section 1(a) of act Mar. 19, 1920, ch. 104, 41 Stat. 533, which was classified to section 121(a) of this title, and repealed by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444, insofar as inconsistent with this chapter.
+Section 1(a) of the Act of March 19, 1920, referred to in subsec. (a), is section 1(a) of act Mar. 19, 1920, ch. 104, 41 Stat. 533, which was classified to section 121(a) of this title, and repealed by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444, insofar as inconsistent with this chapter.
 
 **Prior Provisions**
 
-Acts Feb. 20, 1905, ch. 592, §§ 1, 2, 4, 33 Stat. 724, 725; May 4, 1906, ch. 2081, §§ 1, 3, 34 Stat. 168, 169; Feb. 18, 1909, ch. 144, 35 Stat. 628; Mar. 19, 1920, ch. 104, §§ 1, 6, 41 Stat. 533, 535; Apr. 11, 1930, ch. 132, § 4, 46 Stat. 155; June 20, 1936, ch. 617, 49 Stat. 1539; June 10, 1938, ch. 332, §§ 1, 2, 3, 52 Stat. 638, 639.
+Acts Feb. 20, 1905, ch. 592, §§ 1, 2, 4, 33 Stat. 724, 725; May 4, 1906, ch. 2081, §§ 1, 3, 34 Stat. 168, 169; Feb. 18, 1909, ch. 144, 35 Stat. 628; Mar. 19, 1920, ch. 104, §§ 1, 6, 41 Stat. 533, 535; Apr. 11, 1930, ch. 132, § 4, 46 Stat. 155; June 20, 1936, ch. 617, 49 Stat. 1539; June 10, 1938, ch. 332, §§ 1, 2, 3, 52 Stat. 638, 639.
 
 **Amendments**
 
@@ -3409,23 +3409,23 @@ Pub. L. 106–43 substituted “trademarks” for “trade-marks”.
 
 Subsec. (e). Pub. L. 106–113 substituted “Director” for “Commissioner”.
 
-1998—Subsec. (d). Pub. L. 105–330, § 108(1)(A), in introductory provisions, substituted “or 1091 of this title or under subsection (e) of this section” for “1091 of this title, or subsection (e) of this section”.
+1998—Subsec. (d). Pub. L. 105–330, § 108(1)(A), in introductory provisions, substituted “or 1091 of this title or under subsection (e) of this section” for “1091 of this title, or subsection (e) of this section”.
 
-Subsec. (d)(3), (4). Pub. L. 105–330, § 108(1)(B), made technical amendment to reference in original act which appears in text as reference to this subsection.
+Subsec. (d)(3), (4). Pub. L. 105–330, § 108(1)(B), made technical amendment to reference in original act which appears in text as reference to this subsection.
 
-Subsec. (e). Pub. L. 105–330, § 108(2), substituted “Such applicant shall submit, within such time period as may be prescribed by the Commissioner, a certification or a certified copy of the registration in the country of origin of the applicant” for “The application therefor shall be accompanied by a certification or a certified copy of the registration in the country of origin of the applicant”.
+Subsec. (e). Pub. L. 105–330, § 108(2), substituted “Such applicant shall submit, within such time period as may be prescribed by the Commissioner, a certification or a certified copy of the registration in the country of origin of the applicant” for “The application therefor shall be accompanied by a certification or a certified copy of the registration in the country of origin of the applicant”.
 
-1988—Subsec. (a). Pub. L. 100–667, § 133(2), substituted “required in this chapter” for “herein prescribed”.
+1988—Subsec. (a). Pub. L. 100–667, § 133(2), substituted “required in this chapter” for “herein prescribed”.
 
-Subsec. (c). Pub. L. 100–667, § 133(1), made technical amendment in two places to references in the original act to subsection (b) of this section, resulting in no change in text.
+Subsec. (c). Pub. L. 100–667, § 133(1), made technical amendment in two places to references in the original act to subsection (b) of this section, resulting in no change in text.
 
-Subsec. (d). Pub. L. 100–667, § 133(1), (3), (4), (5), in introductory provisions, made technical amendment in two places to references in the original act to subsection (b) of this section, resulting in no change in text, and substituted “section 1051, 1053, 1054, or 1091 of this title, or subsection (e) of this section” for “sections 1051, 1052, 1053, 1054, or 1091 of this title”, in par. (2), substituted “including a statement that the applicant has a bona fide intention to use the mark in commerce” for “but use in commerce need not be alleged”, and in par. (3), substituted “foreign” for “foreing”.
+Subsec. (d). Pub. L. 100–667, § 133(1), (3), (4), (5), in introductory provisions, made technical amendment in two places to references in the original act to subsection (b) of this section, resulting in no change in text, and substituted “section 1051, 1053, 1054, or 1091 of this title, or subsection (e) of this section” for “sections 1051, 1052, 1053, 1054, or 1091 of this title”, in par. (2), substituted “including a statement that the applicant has a bona fide intention to use the mark in commerce” for “but use in commerce need not be alleged”, and in par. (3), substituted “foreign” for “foreing”.
 
-Subsec. (e). Pub. L. 100–667, § 133(6), inserted at end “The application must state the applicant’s bona fide intention to use the mark in commerce, but use in commerce shall not be required prior to registration.”
+Subsec. (e). Pub. L. 100–667, § 133(6), inserted at end “The application must state the applicant’s bona fide intention to use the mark in commerce, but use in commerce shall not be required prior to registration.”
 
-Subsec. (f). Pub. L. 100–667, § 133(1), (7), made technical amendment to references in the original act to subsections (c), (d), and (e) of this section and to subsection (b) of this section, resulting in no change in text.
+Subsec. (f). Pub. L. 100–667, § 133(1), (7), made technical amendment to references in the original act to subsections (c), (d), and (e) of this section and to subsection (b) of this section, resulting in no change in text.
 
-Subsecs. (g) to (i). Pub. L. 100–667, § 133(1), (8), made technical amendment to references in the original act to subsection (b) of this section, resulting in no change in text.
+Subsecs. (g) to (i). Pub. L. 100–667, § 133(1), (8), made technical amendment to references in the original act to subsection (b) of this section, resulting in no change in text.
 
 1962—Subsec. (b). Pub. L. 87–772 inserted “or extends reciprocal rights to nationals of the United States by law,” and substituted provisions requiring the person’s country of origin to be a party to any convention or treaty, for provisions which required such persons to be nationals of, domiciled in, or have a bona fide and effective business or commercial establishment in a foreign country which was a party to the International Convention for the Protection of Industrial Property, or the General Inter-American Convention for Trade Mark and Commercial Protection, or any other convention or treaty relating to trademarks, trade, or commercial names.
 
@@ -3437,7 +3437,7 @@ Subsec. (e). Pub. L. 87–772 inserted “certification or a” after “accompa
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 **Effective Date of 1998 Amendment**
 
@@ -3451,7 +3451,7 @@ Amendment by Pub. L. 100–667 effective one year after Nov. 16, 1988, see secti
 
 **Effective Date of 1961 Amendment**
 
-Pub. L. 87–333, § 3, Oct. 3, 1961, 75 Stat. 748, provided that: “This Act [amending this section and section 119 of Title 35, Patents] shall take effect on the date when the Convention of Paris for the Protection of Industrial Property of March 20, 1883, as revised at Lisbon, October 31, 1958, comes into force with respect to the United States and shall apply only to applications thereafter filed in the United States by persons entitled to the benefit of said convention, as revised at the time of such filing.”
+Pub. L. 87–333, § 3, Oct. 3, 1961, 75 Stat. 748, provided that: “This Act [amending this section and section 119 of Title 35, Patents] shall take effect on the date when the Convention of Paris for the Protection of Industrial Property of March 20, 1883, as revised at Lisbon, October 31, 1958, comes into force with respect to the United States and shall apply only to applications thereafter filed in the United States by persons entitled to the benefit of said convention, as revised at the time of such filing.”
 
 **Repeal and Effect on Existing Rights**
 
@@ -3461,9 +3461,9 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1127. Construction and definitions; intent of chapter
+### § 1127. Construction and definitions; intent of chapter
 
 In the construction of this chapter, unless the contrary is plainly apparent from the context—
 
@@ -3553,29 +3553,29 @@ Words used in the singular include the plural and vice versa.
 
 The intent of this chapter is to regulate commerce within the control of Congress by making actionable the deceptive and misleading use of marks in such commerce; to protect registered marks used in such commerce from interference by State, or territorial legislation; to protect persons engaged in such commerce against unfair competition; to prevent fraud and deception in such commerce by the use of reproductions, copies, counterfeits, or colorable imitations of registered marks; and to provide rights and remedies stipulated by treaties and conventions respecting trademarks, trade names, and unfair competition entered into between the United States and foreign nations.
 
-(July 5, 1946, ch. 540, title X, § 45, 60 Stat. 443; Pub. L. 87–772, § 21, Oct. 9, 1962, 76 Stat. 774; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 98–620, title I, § 103, Nov. 8, 1984, 98 Stat. 3335; Pub. L. 100–667, title I, § 134, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 102–542, § 3(d), Oct. 27, 1992, 106 Stat. 3568; Pub. L. 103–465, title V, § 521, Dec. 8, 1994, 108 Stat. 4981; Pub. L. 104–98, § 4, Jan. 16, 1996, 109 Stat. 986; Pub. L. 106–43, §§ 4(c), 6(b), Aug. 5, 1999, 113 Stat. 219, 220; Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3005, title IV, § 4732(b)(1)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–550, 1501A–583; Pub. L. 109–312, § 3(e), Oct. 6, 2006, 120 Stat. 1733.)
+(July 5, 1946, ch. 540, title X, § 45, 60 Stat. 443; Pub. L. 87–772, § 21, Oct. 9, 1962, 76 Stat. 774; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 98–620, title I, § 103, Nov. 8, 1984, 98 Stat. 3335; Pub. L. 100–667, title I, § 134, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 102–542, § 3(d), Oct. 27, 1992, 106 Stat. 3568; Pub. L. 103–465, title V, § 521, Dec. 8, 1994, 108 Stat. 4981; Pub. L. 104–98, § 4, Jan. 16, 1996, 109 Stat. 986; Pub. L. 106–43, §§ 4(c), 6(b), Aug. 5, 1999, 113 Stat. 219, 220; Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3005, title IV, § 4732(b)(1)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–550, 1501A–583; Pub. L. 109–312, § 3(e), Oct. 6, 2006, 120 Stat. 1733.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Acts March 3, 1881, February 20, 1905, and March 19, 1920, referred to in text, are acts Mar. 3, 1881, ch. 138, 21 Stat. 502; Feb. 20, 1905, ch. 592, 33 Stat. 724; and Mar. 19, 1920, ch. 104, 41 Stat. 533, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title. Act Mar. 19, 1920, had been generally classified to sections 121 to 128 of this title.
+Acts March 3, 1881, February 20, 1905, and March 19, 1920, referred to in text, are acts Mar. 3, 1881, ch. 138, 21 Stat. 502; Feb. 20, 1905, ch. 592, 33 Stat. 724; and Mar. 19, 1920, ch. 104, 41 Stat. 533, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title. Act Mar. 19, 1920, had been generally classified to sections 121 to 128 of this title.
 
 **Prior Provisions**
 
-Acts Feb. 20, 1905, ch. 592, § 29, 33 Stat. 731; June 10, 1938, ch. 332, § 5, 52 Stat. 639.
+Acts Feb. 20, 1905, ch. 592, § 29, 33 Stat. 731; June 10, 1938, ch. 332, § 5, 52 Stat. 639.
 
 **Amendments**
 
 2006—Pub. L. 109–312 struck out par. defining “dilution” after par. defining “abandoned”.
 
-1999—Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(b)(1)(A)], substituted par. defining “Director” for par. which read as follows: “The term ‘Commissioner’ means the Commissioner of Patents and Trademarks.”
+1999—Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(b)(1)(A)], substituted par. defining “Director” for par. which read as follows: “The term ‘Commissioner’ means the Commissioner of Patents and Trademarks.”
 
-Pub. L. 106–113, § 1000(a)(9) [title III, § 3005], inserted pars. defining “domain name” and “Internet” after par. defining “counterfeit”.
+Pub. L. 106–113, § 1000(a)(9) [title III, § 3005], inserted pars. defining “domain name” and “Internet” after par. defining “counterfeit”.
 
-Pub. L. 106–43, § 6(b), substituted “trademarks” for “trade-marks” in last undesignated par.
+Pub. L. 106–43, § 6(b), substituted “trademarks” for “trade-marks” in last undesignated par.
 
-Pub. L. 106–43, § 4(c), between pars. defining “person” inserted: “The term ‘person’ also includes the United States, any agency or instrumentality thereof, or any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States. The United States, any agency or instrumentality thereof, and any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.”
+Pub. L. 106–43, § 4(c), between pars. defining “person” inserted: “The term ‘person’ also includes the United States, any agency or instrumentality thereof, or any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States. The United States, any agency or instrumentality thereof, and any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.”
 
 1996—Pub. L. 104–98 inserted par. defining “dilution” after par. defining “abandoned”.
 
@@ -3587,31 +3587,31 @@ Pub. L. 106–43, § 4(c), between pars. defining “person” inserted: “Th
 
 1992—Pub. L. 102–542 inserted after fourth undesignated par. “The term ‘person’ also includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.”
 
-1988—Pub. L. 100–667, § 134(1), amended par. defining “related company” generally. Prior to amendment, par. read as follows: “The term ‘related company’ means any person who legitimately controls or is controlled by the registrant or applicant for registration in respect to the nature and quality of the goods or services in connection with which the mark is used.”
+1988—Pub. L. 100–667, § 134(1), amended par. defining “related company” generally. Prior to amendment, par. read as follows: “The term ‘related company’ means any person who legitimately controls or is controlled by the registrant or applicant for registration in respect to the nature and quality of the goods or services in connection with which the mark is used.”
 
-Pub. L. 100–667, § 134(2), amended par. defining “trade name” and “commercial name” generally. Prior to amendment, par. read as follows: “The terms ‘trade name’ and ‘commercial name’ include individual names and surnames, firm names and trade names used by manufacturers, industrialists, merchants, agriculturists, and others to identify their businesses, vocations, or occupations; the names or titles lawfully adopted and used by persons, firms, associations, corporations, companies, unions, and any manufacturing, industrial, commercial, agricultural, or other organizations engaged in trade or commerce and capable of suing and being sued in a court of law.”
+Pub. L. 100–667, § 134(2), amended par. defining “trade name” and “commercial name” generally. Prior to amendment, par. read as follows: “The terms ‘trade name’ and ‘commercial name’ include individual names and surnames, firm names and trade names used by manufacturers, industrialists, merchants, agriculturists, and others to identify their businesses, vocations, or occupations; the names or titles lawfully adopted and used by persons, firms, associations, corporations, companies, unions, and any manufacturing, industrial, commercial, agricultural, or other organizations engaged in trade or commerce and capable of suing and being sued in a court of law.”
 
-Pub. L. 100–667, § 134(3), amended par. defining “trademark” generally. Prior to amendment, par. read as follows: “The term ‘trademark’ includes any word, name, symbol, or device or any combination thereof adopted and used by a manufacturer or merchant to identify and distinguish his goods, including a unique product, from those manufactured or sold by others and to indicate the source of the goods, even if that source is unknown.”
+Pub. L. 100–667, § 134(3), amended par. defining “trademark” generally. Prior to amendment, par. read as follows: “The term ‘trademark’ includes any word, name, symbol, or device or any combination thereof adopted and used by a manufacturer or merchant to identify and distinguish his goods, including a unique product, from those manufactured or sold by others and to indicate the source of the goods, even if that source is unknown.”
 
-Pub. L. 100–667, § 134(4), amended par. defining “service mark” generally. Prior to amendment, par. read as follows: “The term ‘service mark’ means a mark used in the sale or advertising of services to identify and distinguish the services of one person, including a unique service, from the services of others and to indicate the source of the services, even if that source is unknown. Titles, character names and other distinctive features of radio or television programs may be registered as service marks notwithstanding that they, or the programs, may advertise the goods of the sponsor.”
+Pub. L. 100–667, § 134(4), amended par. defining “service mark” generally. Prior to amendment, par. read as follows: “The term ‘service mark’ means a mark used in the sale or advertising of services to identify and distinguish the services of one person, including a unique service, from the services of others and to indicate the source of the services, even if that source is unknown. Titles, character names and other distinctive features of radio or television programs may be registered as service marks notwithstanding that they, or the programs, may advertise the goods of the sponsor.”
 
-Pub. L. 100–667, § 134(5), amended par. defining “certification mark” generally. Prior to amendment, par. read as follows: “The term ‘certification mark’ means a mark used upon or in connection with the products or services of one or more persons other than the owner of the mark to certify regional or other origin, material, mode of manufacture, quality, accuracy or other characteristics of such goods or services or that the work or labor on the goods or services was performed by members of a union or other organization.”
+Pub. L. 100–667, § 134(5), amended par. defining “certification mark” generally. Prior to amendment, par. read as follows: “The term ‘certification mark’ means a mark used upon or in connection with the products or services of one or more persons other than the owner of the mark to certify regional or other origin, material, mode of manufacture, quality, accuracy or other characteristics of such goods or services or that the work or labor on the goods or services was performed by members of a union or other organization.”
 
-Pub. L. 100–667, § 134(6), amended par. defining “collective mark” generally. Prior to amendment, par. read as follows: “The term ‘collective mark’ means a trade-mark or service mark used by the members of a cooperative, an association or other collective group or organization and includes marks used to indicate membership in a union, an association or other organization.”
+Pub. L. 100–667, § 134(6), amended par. defining “collective mark” generally. Prior to amendment, par. read as follows: “The term ‘collective mark’ means a trade-mark or service mark used by the members of a cooperative, an association or other collective group or organization and includes marks used to indicate membership in a union, an association or other organization.”
 
-Pub. L. 100–667, § 134(7), amended par. defining “mark” generally. Prior to amendment, par. read as follows: “The term ‘mark’ includes any trade-mark, service mark, collective mark, or certification mark entitled to registration under this chapter whether registered or not.”
+Pub. L. 100–667, § 134(7), amended par. defining “mark” generally. Prior to amendment, par. read as follows: “The term ‘mark’ includes any trade-mark, service mark, collective mark, or certification mark entitled to registration under this chapter whether registered or not.”
 
-Pub. L. 100–667, § 134(8), substituted par. defining “use in commerce” for former par. which read as follows: “For the purposes of this chapter a mark shall be deemed to be used in commerce (a) on goods when it is placed in any manner on the goods or their containers or the displays associated therewith or on the tags or labels affixed thereto and the goods are sold or transported in commerce and (b) on services when it is used or displayed in the sale or advertising of services and the services are rendered in commerce, or the services are rendered in more than one State or in this and a foreign country and the person rendering the services is engaged in commerce in connection therewith.” and par. providing when a mark is deemed abandoned for former par. which read as follows: “A mark shall be deemed to be ‘abandoned’—
+Pub. L. 100–667, § 134(8), substituted par. defining “use in commerce” for former par. which read as follows: “For the purposes of this chapter a mark shall be deemed to be used in commerce (a) on goods when it is placed in any manner on the goods or their containers or the displays associated therewith or on the tags or labels affixed thereto and the goods are sold or transported in commerce and (b) on services when it is used or displayed in the sale or advertising of services and the services are rendered in commerce, or the services are rendered in more than one State or in this and a foreign country and the person rendering the services is engaged in commerce in connection therewith.” and par. providing when a mark is deemed abandoned for former par. which read as follows: “A mark shall be deemed to be ‘abandoned’—
 
 “(a) When its use has been discontinued with intent not to resume. Intent not to resume may be inferred from circumstances. Nonuse for two consecutive years shall be prima facie abandonment.
 
 “(b) When any course of conduct of the registrant, including acts of omission as well as commission, causes the mark to lose its significance as an indication of origin. Purchaser motivation shall not be a test for determining abandonment under this subparagraph.”
 
-1984—Pub. L. 98–620, § 103(1), in definition of “trademark” substituted “trademark” for “trade-mark”, and substituted “identify and distinguish his goods, including a unique product, from those manufactured or sold by others and to indicate the source of the goods, even if that source is unknown” for “identify his goods and distinguish them from those manufactured or sold by others”.
+1984—Pub. L. 98–620, § 103(1), in definition of “trademark” substituted “trademark” for “trade-mark”, and substituted “identify and distinguish his goods, including a unique product, from those manufactured or sold by others and to indicate the source of the goods, even if that source is unknown” for “identify his goods and distinguish them from those manufactured or sold by others”.
 
-Pub. L. 98–620, § 103(2), in definition of “service mark” substituted “The term ‘service mark’ means a mark used in the sale or advertising of services to identify and distinguish the services of one person, including a unique service, from the services of others and to indicate the source of the services, even if that source is unknown” for “The term ‘service mark’ means a mark used in the sale or advertising of services to identify the services of one person and distinguish them from the services of others”.
+Pub. L. 98–620, § 103(2), in definition of “service mark” substituted “The term ‘service mark’ means a mark used in the sale or advertising of services to identify and distinguish the services of one person, including a unique service, from the services of others and to indicate the source of the services, even if that source is unknown” for “The term ‘service mark’ means a mark used in the sale or advertising of services to identify the services of one person and distinguish them from the services of others”.
 
-Pub. L. 98–620, § 103(3), in subpar. (b) of par. relating to when a mark shall be deemed to be “abandoned”, inserted “Purchaser motivation shall not be a test for determining abandonment under this subparagraph.”
+Pub. L. 98–620, § 103(3), in subpar. (b) of par. relating to when a mark shall be deemed to be “abandoned”, inserted “Purchaser motivation shall not be a test for determining abandonment under this subparagraph.”
 
 1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office” in two places and “Commissioner of Patents and Trademarks” for “Commissioner of Patents” in definition of “Commissioner”.
 
@@ -3621,9 +3621,9 @@ Pub. L. 98–620, § 103(3), in subpar. (b) of par. relating to when a mark sh
 
 **Effective Date of 1999 Amendment**
 
-Amendment by section 1000(a)(9) [title III, § 3005] of Pub. L. 106–113 applicable to all domain names registered before, on, or after Nov. 29, 1999, see section 1000(a)(9) [title III, § 3010] of Pub. L. 106–113, set out as a note under section 1117 of this title.
+Amendment by section 1000(a)(9) [title III, § 3005] of Pub. L. 106–113 applicable to all domain names registered before, on, or after Nov. 29, 1999, see section 1000(a)(9) [title III, § 3010] of Pub. L. 106–113, set out as a note under section 1117 of this title.
 
-Amendment by section 1000(a)(9) [title IV, § 4732(b)(1)(A)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by section 1000(a)(9) [title IV, § 4732(b)(1)(A)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 **Effective Date of 1994 Amendment**
 
@@ -3649,29 +3649,29 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 1128. Repealed. Pub. L. 110–403, title III, § 305(a)(1), Oct. 13, 2008, 122 Stat. 4270
+### § 1128. Repealed. Pub. L. 110–403, title III, § 305(a)(1), Oct. 13, 2008, 122 Stat. 4270
 
-Section, Pub. L. 106–58, title VI, § 653, Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4741(b)(1)], Nov. 29, 1999, 113 Stat. 1536, 1501A–586; Pub. L. 108–447, div. B, title II, § 210, Dec. 8, 2004, 118 Stat. 2884, established the National Intellectual Property Law Enforcement Coordination Council.
+Section, Pub. L. 106–58, title VI, § 653, Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4741(b)(1)], Nov. 29, 1999, 113 Stat. 1536, 1501A–586; Pub. L. 108–447, div. B, title II, § 210, Dec. 8, 2004, 118 Stat. 2884, established the National Intellectual Property Law Enforcement Coordination Council.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Pub. L. 110–403, title III, § 305(a)(1), Oct. 13, 2008, 122 Stat. 4270, provided that the repeal of this section is effective upon confirmation of the Intellectual Property Enforcement Coordinator by the Senate and publication of such appointment in the Congressional Record. The Senate confirmed the first Intellectual Property Enforcement Coordinator on Dec. 3, 2009, as reflected in that day’s Congressional Record. See 155 Cong. Rec. 29389 (2009).
+Pub. L. 110–403, title III, § 305(a)(1), Oct. 13, 2008, 122 Stat. 4270, provided that the repeal of this section is effective upon confirmation of the Intellectual Property Enforcement Coordinator by the Senate and publication of such appointment in the Congressional Record. The Senate confirmed the first Intellectual Property Enforcement Coordinator on Dec. 3, 2009, as reflected in that day’s Congressional Record. See 155 Cong. Rec. 29389 (2009).
 
-### § 1129. Transferred
+### § 1129. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3002(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–548, which related to cyberpiracy protections for individuals, was transferred to section 8131 of this title.
+Section, Pub. L. 106–113, div. B, § 1000(a)(9) [title III, § 3002(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–548, which related to cyberpiracy protections for individuals, was transferred to section 8131 of this title.
 
 ## SUBCHAPTER IV—THE MADRID PROTOCOL
 
-### § 1141. Definitions
+### § 1141. Definitions
 
 In this subchapter:
 
@@ -3749,21 +3749,21 @@ The term “office of origin” means the Office of a Contracting Party with whi
 
 The term “opposition period” means the time allowed for filing an opposition in the United States Patent and Trademark Office, including any extension of time granted under section 1063 of this title.
 
-(July 5, 1946, ch. 540, title XII, § 60, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1913.)
+(July 5, 1946, ch. 540, title XII, § 60, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1913.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 107–273, div. C, title III, § 13403, Nov. 2, 2002, 116 Stat. 1920, provided that:
+Pub. L. 107–273, div. C, title III, § 13403, Nov. 2, 2002, 116 Stat. 1920, provided that:
 
-> “This subtitle [subtitle D (§§ 13401–13403) of title III of div. C of Pub. L. 107–273, enacting this subchapter and provisions set out as a note under section 1051 of this title] and the amendments made by this subtitle shall take effect on the later of—
+> “This subtitle [subtitle D (§§ 13401–13403) of title III of div. C of Pub. L. 107–273, enacting this subchapter and provisions set out as a note under section 1051 of this title] and the amendments made by this subtitle shall take effect on the later of—
 
 > **“(1)** the date on which the Madrid Protocol (as defined in section 60 of the Trademark Act of 1946 [this section]) enters into force with respect to the United States [Nov. 2, 2003]; or
 
 > **“(2)** the date occurring 1 year after the date of enactment of this Act [Nov. 2, 2002].”
 
-### § 1141a. International applications based on United States applications or registrations
+### § 1141a. International applications based on United States applications or registrations
 
 **(a) In general**
 
@@ -3777,9 +3777,9 @@ The owner of a basic application pending before the United States Patent and Tra
 
 **(3)** have a real and effective industrial or commercial establishment in the United States.
 
-(July 5, 1946, ch. 540, title XII, § 61, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1915.)
+(July 5, 1946, ch. 540, title XII, § 61, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1915.)
 
-### § 1141b. Certification of the international application
+### § 1141b. Certification of the international application
 
 **(a) Certification procedure**
 
@@ -3789,9 +3789,9 @@ Upon the filing of an application for international registration and payment of 
 
 Upon examination and certification of the international application, the Director shall transmit the international application to the International Bureau.
 
-(July 5, 1946, ch. 540, title XII, § 62, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1915.)
+(July 5, 1946, ch. 540, title XII, § 62, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1915.)
 
-### § 1141c. Restriction, abandonment, cancellation, or expiration of a basic application or basic registration
+### § 1141c. Restriction, abandonment, cancellation, or expiration of a basic application or basic registration
 
 With respect to an international application transmitted to the International Bureau under section 1141b of this title, the Director shall notify the International Bureau whenever the basic application or basic registration which is the basis for the international application has been restricted, abandoned, or canceled, or has expired, with respect to some or all of the goods and services listed in the international registration—
 
@@ -3799,9 +3799,9 @@ With respect to an international application transmitted to the International Bu
 
 **(2)** more than 5 years after the international registration date if the restriction, abandonment, or cancellation of the basic application or basic registration resulted from an action that began before the end of that 5-year period.
 
-(July 5, 1946, ch. 540, title XII, § 63, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1915.)
+(July 5, 1946, ch. 540, title XII, § 63, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1915.)
 
-### § 1141d. Request for extension of protection subsequent to international registration
+### § 1141d. Request for extension of protection subsequent to international registration
 
 The holder of an international registration that is based upon a basic application filed with the United States Patent and Trademark Office or a basic registration granted by the Patent and Trademark Office may request an extension of protection of its international registration by filing such a request—
 
@@ -3809,9 +3809,9 @@ The holder of an international registration that is based upon a basic applicati
 
 **(2)** with the United States Patent and Trademark Office for transmittal to the International Bureau, if the request is in such form, and contains such transmittal fee, as may be prescribed by the Director.
 
-(July 5, 1946, ch. 540, title XII, § 64, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1916.)
+(July 5, 1946, ch. 540, title XII, § 64, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1916.)
 
-### § 1141e. Extension of protection of an international registration to the United States under the Madrid Protocol
+### § 1141e. Extension of protection of an international registration to the United States under the Madrid Protocol
 
 **(a) In general**
 
@@ -3821,9 +3821,9 @@ Subject to the provisions of section 1141h of this title, the holder of an inter
 
 Where the United States Patent and Trademark Office is the office of origin for a trademark application or registration, any international registration based on such application or registration cannot be used to obtain the benefits of the Madrid Protocol in the United States.
 
-(July 5, 1946, ch. 540, title XII, § 65, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1916.)
+(July 5, 1946, ch. 540, title XII, § 65, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1916.)
 
-### § 1141f. Effect of filing a request for extension of protection of an international registration to the United States
+### § 1141f. Effect of filing a request for extension of protection of an international registration to the United States
 
 **(a) Requirement for request for extension of protection**
 
@@ -3837,9 +3837,9 @@ A request for extension of protection of an international registration to the Un
 
 **(3)** The date of priority claimed pursuant to section 1141g of this title.
 
-(July 5, 1946, ch. 540, title XII, § 66, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1916.)
+(July 5, 1946, ch. 540, title XII, § 66, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1916.)
 
-### § 1141g. Right of priority for request for extension of protection to the United States
+### § 1141g. Right of priority for request for extension of protection to the United States
 
 The holder of an international registration with a request for an extension of protection to the United States shall be entitled to claim a date of priority based on a right of priority within the meaning of Article 4 of the Paris Convention for the Protection of Industrial Property if—
 
@@ -3847,9 +3847,9 @@ The holder of an international registration with a request for an extension of p
 
 **(2)** the date of international registration or the date of the recordal of the request for extension of protection to the United States is not later than 6 months after the date of the first regular national filing (within the meaning of Article 4(A)(3) of the Paris Convention for the Protection of Industrial Property) or a subsequent application (within the meaning of Article 4(C)(4) of the Paris Convention for the Protection of Industrial Property).
 
-(July 5, 1946, ch. 540, title XII, § 67, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1917.)
+(July 5, 1946, ch. 540, title XII, § 67, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1917.)
 
-### § 1141h. Examination of and opposition to request for extension of protection; notification of refusal
+### § 1141h. Examination of and opposition to request for extension of protection; notification of refusal
 
 **(a) Examination and opposition**
 
@@ -3865,7 +3865,7 @@ The holder of an international registration with a request for an extension of p
 
 If,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 a request for extension of protection is refused under subsection (a), the Director shall declare in a notification of refusal (as provided in subsection (c)) that the extension of protection cannot be granted, together with a statement of all grounds on which the refusal was based.
 
@@ -3889,9 +3889,9 @@ a request for extension of protection is refused under subsection (a), the Direc
 
 In responding to a notification of refusal with respect to a mark, the holder of the international registration of the mark may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person residing in the United States on whom notices or process in proceedings affecting the mark may be served. Such notices or process may be served upon the person designated by leaving with that person, or mailing to that person, a copy thereof at the address specified in the last designation filed. If the person designated cannot be found at the address given in the last designation, or if the holder does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person residing in the United States for service of notices or process in proceedings affecting the mark, the notice or process may be served on the Director.
 
-(July 5, 1946, ch. 540, title XII, § 68, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1917.)
+(July 5, 1946, ch. 540, title XII, § 68, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1917.)
 
-### § 1141i. Effect of extension of protection
+### § 1141i. Effect of extension of protection
 
 **(a) Issuance of extension of protection**
 
@@ -3903,9 +3903,9 @@ Unless a request for extension of protection is refused under section 1141h of t
 
 **(2)** the holder of the international registration shall have the same rights and remedies as the owner of a registration on the Principal Register.
 
-(July 5, 1946, ch. 540, title XII, § 69, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1918.)
+(July 5, 1946, ch. 540, title XII, § 69, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1918.)
 
-### § 1141j. Dependence of extension of protection to the United States on the underlying international registration
+### § 1141j. Dependence of extension of protection to the United States on the underlying international registration
 
 **(a) Effect of cancellation of international registration**
 
@@ -3919,9 +3919,9 @@ If the International Bureau does not renew an international registration, the co
 
 The holder of an international registration canceled in whole or in part by the International Bureau at the request of the office of origin, under article 6(4) of the Madrid Protocol, may file an application, under section 1051 or 1126 of this title, for the registration of the same mark for any of the goods and services to which the cancellation applies that were covered by an extension of protection to the United States based on that international registration. Such an application shall be treated as if it had been filed on the international registration date or the date of recordal of the request for extension of protection with the International Bureau, whichever date applies, and, if the extension of protection enjoyed priority under section 1141g of this title, shall enjoy the same priority. Such an application shall be entitled to the benefits conferred by this subsection only if the application is filed not later than 3 months after the date on which the international registration was canceled, in whole or in part, and only if the application complies with all the requirements of this chapter which apply to any application filed pursuant to section 1051 or 1126 of this title.
 
-(July 5, 1946, ch. 540, title XII, § 70, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1918.)
+(July 5, 1946, ch. 540, title XII, § 70, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1918.)
 
-### § 1141k. Duration, affidavits and fees
+### § 1141k. Duration, affidavits and fees
 
 **(a) Time periods for required affidavits** Each extension of protection for which a certificate has been issued under section 1141i of this title shall remain in force for the term of the international registration upon which it is based, except that the extension of protection of any mark shall be canceled by the Director unless the holder of the international registration files in the United States Patent and Trademark Office affidavits that meet the requirements of subsection (b), within the following time periods:
 
@@ -3967,7 +3967,7 @@ The Director shall notify the holder of the international registration who files
 
 If the holder of the international registration of the mark is not domiciled in the United States, the holder may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the last designated address, or if the holder does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served on the Director.
 
-(July 5, 1946, ch. 540, title XII, § 71, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1919; amended Pub. L. 111–146, § 3(d)(2), Mar. 17, 2010, 124 Stat. 68.)
+(July 5, 1946, ch. 540, title XII, § 71, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1919; amended Pub. L. 111–146, § 3(d)(2), Mar. 17, 2010, 124 Stat. 68.)
 
 **Editorial Notes**
 
@@ -3975,20 +3975,20 @@ If the holder of the international registration of the mark is not domiciled in 
 
 2010—Pub. L. 111–146 amended section generally. Prior to amendment, section related to required affidavits and fees, contents of affidavit, notification of Director’s acceptance or refusal, and service of notice or process.
 
-### § 1141l. Assignment of an extension of protection
+### § 1141l. Assignment of an extension of protection
 
 An extension of protection may be assigned, together with the goodwill associated with the mark, only to a person who is a national of, is domiciled in, or has a bona fide and effective industrial or commercial establishment either in a country that is a Contracting Party or in a country that is a member of an intergovernmental organization that is a Contracting Party.
 
-(July 5, 1946, ch. 540, title XII, § 72, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1920.)
+(July 5, 1946, ch. 540, title XII, § 72, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1920.)
 
-### § 1141m. Incontestability
+### § 1141m. Incontestability
 
 The period of continuous use prescribed under section 1065 of this title for a mark covered by an extension of protection issued under this subchapter may begin no earlier than the date on which the Director issues the certificate of the extension of protection under section 1141i of this title, except as provided in section 1141n of this title.
 
-(July 5, 1946, ch. 540, title XII, § 73, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1920.)
+(July 5, 1946, ch. 540, title XII, § 73, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1920.)
 
-### § 1141n. Rights of extension of protection
+### § 1141n. Rights of extension of protection
 
 When a United States registration and a subsequently issued certificate of extension of protection to the United States are owned by the same person, identify the same mark, and list the same goods or services, the extension of protection shall have the same rights that accrued to the registration prior to issuance of the certificate of extension of protection.
 
-(July 5, 1946, ch. 540, title XII, § 74, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1920.)
+(July 5, 1946, ch. 540, title XII, § 74, as added Pub. L. 107–273, div. C, title III, § 13402, Nov. 2, 2002, 116 Stat. 1920.)

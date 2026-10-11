@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 181—FOREIGN JUDGMENTS
 
-## § 4101. Definitions
+## § 4101. Definitions
 
 In this chapter:
 
@@ -39,13 +39,13 @@ In this chapter:
 
 **(D)** a business entity incorporated in, or with its primary location or place of operation in, the United States.
 
-(Added Pub. L. 111–223, § 3(a), Aug. 10, 2010, 124 Stat. 2381.)
+(Added Pub. L. 111–223, § 3(a), Aug. 10, 2010, 124 Stat. 2381.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Findings**
 
-Pub. L. 111–223, § 2, Aug. 10, 2010, 124 Stat. 2380, provided that:
+Pub. L. 111–223, § 2, Aug. 10, 2010, 124 Stat. 2380, provided that:
 
 > “Congress finds the following:
 
@@ -59,7 +59,7 @@ Pub. L. 111–223, § 2, Aug. 10, 2010, 124 Stat. 2380, provided that:
 
 > **“(5)** Governments and courts of foreign countries scattered around the world have failed to curtail this practice of permitting libel lawsuits against United States persons within their courts, and foreign libel judgments inconsistent with United States first amendment protections are increasingly common.”
 
-## § 4102. Recognition of foreign defamation judgments
+## § 4102. Recognition of foreign defamation judgments
 
 **(a) First Amendment Considerations.—**
 
@@ -91,9 +91,9 @@ Pub. L. 111–223, § 2, Aug. 10, 2010, 124 Stat. 2380, provided that:
 
 **(2)** limit the applicability of section 230 of the Communications Act of 1934 (47 U.S.C. 230) to causes of action for defamation.
 
-(Added Pub. L. 111–223, § 3(a), Aug. 10, 2010, 124 Stat. 2381.)
+(Added Pub. L. 111–223, § 3(a), Aug. 10, 2010, 124 Stat. 2381.)
 
-## § 4103. Removal
+## § 4103. Removal
 
 In addition to removal allowed under section 1441, any action brought in a State domestic court to enforce a foreign judgment for defamation in which—
 
@@ -105,9 +105,9 @@ In addition to removal allowed under section 1441, any action brought in a State
 
 may be removed by any defendant to the district court of the United States for the district and division embracing the place where such action is pending without regard to the amount in controversy between the parties.
 
-(Added Pub. L. 111–223, § 3(a), Aug. 10, 2010, 124 Stat. 2383.)
+(Added Pub. L. 111–223, § 3(a), Aug. 10, 2010, 124 Stat. 2383.)
 
-## § 4104. Declaratory judgments
+## § 4104. Declaratory judgments
 
 **(a) Cause of Action.—**
 
@@ -117,10 +117,10 @@ may be removed by any defendant to the district court of the United States for t
 
 **(b) Nationwide Service of Process.—** Where an action under this section is brought in a district court of the United States, process may be served in the judicial district where the case is brought or any other judicial district of the United States where the defendant may be found, resides, has an agent, or transacts business.
 
-(Added Pub. L. 111–223, § 3(a), Aug. 10, 2010, 124 Stat. 2383.)
+(Added Pub. L. 111–223, § 3(a), Aug. 10, 2010, 124 Stat. 2383.)
 
-## § 4105. Attorneys’ fees
+## § 4105. Attorneys’ fees
 
 In any action brought in a domestic court to enforce a foreign judgment for defamation, including any such action removed from State court to Federal court, the domestic court shall, absent exceptional circumstances, allow the party opposing recognition or enforcement of the judgment a reasonable attorney’s fee if such party prevails in the action on a ground specified in section 4102(a), (b), or (c).
 
-(Added Pub. L. 111–223, § 3(a), Aug. 10, 2010, 124 Stat. 2383.)
+(Added Pub. L. 111–223, § 3(a), Aug. 10, 2010, 124 Stat. 2383.)

@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 23—CIVIL JUSTICE EXPENSE AND DELAY REDUCTION PLANS
 
-## § 471. Requirement for a district court civil justice expense and delay reduction plan
+## § 471. Requirement for a district court civil justice expense and delay reduction plan
 
 There shall be implemented by each United States district court, in accordance with this chapter, a civil justice expense and delay reduction plan. The plan may be a plan developed by such district court or a model plan developed by the Judicial Conference of the United States. The purposes of each plan are to facilitate deliberate adjudication of civil cases on the merits, monitor discovery, improve litigation management, and ensure just, speedy, and in­expensive resolutions of civil disputes.
 
-(Added Pub. L. 101–650, title I, § 103(a), Dec. 1, 1990, 104 Stat. 5090; amended Pub. L. 102–198, § 2(1), Dec. 9, 1991, 105 Stat. 1623.)
+(Added Pub. L. 101–650, title I, § 103(a), Dec. 1, 1990, 104 Stat. 5090; amended Pub. L. 102–198, § 2(1), Dec. 9, 1991, 105 Stat. 1623.)
 
 **Editorial Notes**
 
@@ -29,7 +29,7 @@ There shall be implemented by each United States district court, in accordance w
 
 **Congressional Statement of Findings**
 
-Pub. L. 101–650, title I, § 102, Dec. 1, 1990, 104 Stat. 5089, provided that:
+Pub. L. 101–650, title I, § 102, Dec. 1, 1990, 104 Stat. 5089, provided that:
 
 > “The Congress makes the following findings:
 
@@ -57,7 +57,7 @@ Pub. L. 101–650, title I, § 102, Dec. 1, 1990, 104 Stat. 5089, provided tha
 
 **Implementation of Plans**
 
-Pub. L. 101–650, title I, § 103(b), (c), Dec. 1, 1990, 104 Stat. 5096, as amended by Pub. L. 102–572, title V, § 505, Oct. 29, 1992, 106 Stat. 4513; Pub. L. 105–53, § 2, Oct. 6, 1997, 111 Stat. 1173; Pub. L. 106–518, title II, § 206, Nov. 13, 2000, 114 Stat. 2414, provided that:
+Pub. L. 101–650, title I, § 103(b), (c), Dec. 1, 1990, 104 Stat. 5096, as amended by Pub. L. 102–572, title V, § 505, Oct. 29, 1992, 106 Stat. 4513; Pub. L. 105–53, § 2, Oct. 6, 1997, 111 Stat. 1173; Pub. L. 106–518, title II, § 206, Nov. 13, 2000, 114 Stat. 2414, provided that:
 
 > **“(b) Implementation.—**
 
@@ -87,7 +87,7 @@ Pub. L. 101–650, title I, § 103(b), (c), Dec. 1, 1990, 104 Stat. 5096, as a
 
 **Demonstration Program**
 
-Pub. L. 101–650, title I, § 104, Dec. 1, 1990, 104 Stat. 5097, as amended by Pub. L. 104–33, § 1, Oct. 3, 1995, 109 Stat. 292; Pub. L. 104–317, title VI, § 608(a), Oct. 19, 1996, 110 Stat. 3860, provided that:
+Pub. L. 101–650, title I, § 104, Dec. 1, 1990, 104 Stat. 5097, as amended by Pub. L. 104–33, § 1, Oct. 3, 1995, 109 Stat. 292; Pub. L. 104–317, title VI, § 608(a), Oct. 19, 1996, 110 Stat. 3860, provided that:
 
 > **“(a) In General.—**
 
@@ -107,7 +107,7 @@ Pub. L. 101–650, title I, § 104, Dec. 1, 1990, 104 Stat. 5097, as amended b
 
 **Pilot Program**
 
-Pub. L. 101–650, title I, § 105, Dec. 1, 1990, 104 Stat. 5097, as amended by Pub. L. 103–420, § 4, Oct. 25, 1994, 108 Stat. 4345; Pub. L. 104–317, title VI, § 608(b), Oct. 19, 1996, 110 Stat. 3860, provided that:
+Pub. L. 101–650, title I, § 105, Dec. 1, 1990, 104 Stat. 5097, as amended by Pub. L. 103–420, § 4, Oct. 25, 1994, 108 Stat. 4345; Pub. L. 104–317, title VI, § 608(b), Oct. 19, 1996, 110 Stat. 3860, provided that:
 
 > **“(a) In General.—**
 
@@ -135,7 +135,7 @@ Pub. L. 101–650, title I, § 105, Dec. 1, 1990, 104 Stat. 5097, as amended b
 
 > **“(C)** If in its report the Judicial Conference does not recommend an expansion of the pilot program under subparagraph (A), the Judicial Conference shall identify alternative, more effective cost and delay reduction programs that should be implemented in light of the findings of the Judicial Conference in its report, and the Judicial Conference may initiate proceedings for the prescription of rules implementing its recommendation, pursuant to chapter 131 of title 28, United States Code.”
 
-## § 472. Development and implementation of a civil justice expense and delay reduction plan
+## § 472. Development and implementation of a civil justice expense and delay reduction plan
 
 **(a)** The civil justice expense and delay reduction plan implemented by a district court shall be developed or selected, as the case may be, after consideration of the recommendations of an advisory group appointed in accordance with section 478 of this title.
 
@@ -173,9 +173,9 @@ Pub. L. 101–650, title I, § 105, Dec. 1, 1990, 104 Stat. 5097, as amended b
 
 **(3)** the chief judge of each of the other United States district courts located in such circuit.
 
-(Added Pub. L. 101–650, title I, § 103(a), Dec. 1, 1990, 104 Stat. 5090.)
+(Added Pub. L. 101–650, title I, § 103(a), Dec. 1, 1990, 104 Stat. 5090.)
 
-## § 473. Content of civil justice expense and delay reduction plans
+## § 473. Content of civil justice expense and delay reduction plans
 
 **(a)** In formulating the provisions of its civil justice expense and delay reduction plan, each United States district court, in consultation with an advisory group appointed under section 478 of this title, shall consider and may include the following principles and guidelines of litigation management and cost and delay reduction:
 
@@ -235,7 +235,7 @@ Pub. L. 101–650, title I, § 105, Dec. 1, 1990, 104 Stat. 5097, as amended b
 
 **(c)** Nothing in a civil justice expense and delay reduction plan relating to the settlement authority provisions of this section shall alter or conflict with the authority of the Attorney General to conduct litigation on behalf of the United States, or any delegation of the Attorney General.
 
-(Added Pub. L. 101–650, title I, § 103(a), Dec. 1, 1990, 104 Stat. 5091.)
+(Added Pub. L. 101–650, title I, § 103(a), Dec. 1, 1990, 104 Stat. 5091.)
 
 **Editorial Notes**
 
@@ -243,7 +243,7 @@ Pub. L. 101–650, title I, § 105, Dec. 1, 1990, 104 Stat. 5097, as amended b
 
 The Federal Rules of Civil Procedure, referred to in subsec. (a)(3)(B), are set out in the Appendix to this title.
 
-## § 474. Review of district court action
+## § 474. Review of district court action
 
 **(a)**
 
@@ -261,23 +261,23 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a)(3)(B), are set 
 
 **(2)** may request the district court to take additional action if the Judicial Conference determines that such court has not adequately responded to the conditions relevant to the civil and criminal dockets of the court or to the recommendations of the district court’s advisory group.
 
-(Added Pub. L. 101–650, title I, § 103(a), Dec. 1, 1990, 104 Stat. 5093; amended Pub. L. 102–198, § 2(2), Dec. 9, 1991, 105 Stat. 1623.)
+(Added Pub. L. 101–650, title I, § 103(a), Dec. 1, 1990, 104 Stat. 5093; amended Pub. L. 102–198, § 2(2), Dec. 9, 1991, 105 Stat. 1623.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Subsec. (a)(1). Pub. L. 102–198, § 2(2)(A), substituted “chief judge” for “chief judges” and struck out “court of appeals for such” after “judge of the” in introductory provisions.
+1991—Subsec. (a)(1). Pub. L. 102–198, § 2(2)(A), substituted “chief judge” for “chief judges” and struck out “court of appeals for such” after “judge of the” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 102–198, § 2(2)(B), substituted “circuit may designate another judge of the court of appeals of that circuit,” for “court of appeals” and “court, to perform that” for “court to perform the”.
+Subsec. (a)(2). Pub. L. 102–198, § 2(2)(B), substituted “circuit may designate another judge of the court of appeals of that circuit,” for “court of appeals” and “court, to perform that” for “court to perform the”.
 
-## § 475. Periodic district court assessment
+## § 475. Periodic district court assessment
 
 After developing or selecting a civil justice expense and delay reduction plan, each United States district court shall assess annually the condition of the court’s civil and criminal dockets with a view to determining appropriate additional actions that may be taken by the court to reduce cost and delay in civil litigation and to improve the litigation management practices of the court. In performing such assessment, the court shall consult with an advisory group appointed in accordance with section 478 of this title.
 
-(Added Pub. L. 101–650, title I, § 103(a), Dec. 1, 1990, 104 Stat. 5093.)
+(Added Pub. L. 101–650, title I, § 103(a), Dec. 1, 1990, 104 Stat. 5093.)
 
-## § 476. Enhancement of judicial information dissemination
+## § 476. Enhancement of judicial information dissemination
 
 **(a)** The Director of the Administrative Office of the United States Courts shall prepare a semiannual report, available to the public, that discloses for each judicial officer—
 
@@ -289,9 +289,9 @@ After developing or selecting a civil justice expense and delay reduction plan, 
 
 **(b)** To ensure uniformity of reporting, the standards for categorization or characterization of judicial actions to be prescribed in accordance with section 481 of this title shall apply to the semiannual report prepared under subsection (a).
 
-(Added Pub. L. 101–650, title I, § 103(a), Dec. 1, 1990, 104 Stat. 5093.)
+(Added Pub. L. 101–650, title I, § 103(a), Dec. 1, 1990, 104 Stat. 5093.)
 
-## § 477. Model civil justice expense and delay reduction plan
+## § 477. Model civil justice expense and delay reduction plan
 
 **(a)**
 
@@ -301,7 +301,7 @@ After developing or selecting a civil justice expense and delay reduction plan, 
 
 **(b)** The Director of the Administrative Office of the United States Courts shall transmit to the United States district courts and to the Committees on the Judiciary of the Senate and the House of Representatives copies of any model plan and accompanying report.
 
-(Added Pub. L. 101–650, title I, § 103(a), Dec. 1, 1990, 104 Stat. 5094.)
+(Added Pub. L. 101–650, title I, § 103(a), Dec. 1, 1990, 104 Stat. 5094.)
 
 **Editorial Notes**
 
@@ -309,7 +309,7 @@ After developing or selecting a civil justice expense and delay reduction plan, 
 
 Section 103(c) of the Civil Justice Reform Act of 1990 [Pub. L. 101–650], referred to in subsec. (a)(1), is set out as a note under section 471 of this title.
 
-## § 478. Advisory groups
+## § 478. Advisory groups
 
 **(a)** Within ninety days after the date of the enactment of this chapter, the advisory group required in each United States district court in accordance with section 472 of this title shall be appointed by the chief judge of each district court, after consultation with the other judges of such court.
 
@@ -323,7 +323,7 @@ Section 103(c) of the Civil Justice Reform Act of 1990 [Pub. L. 101–650], refe
 
 **(f)** The members of an advisory group of a United States district court and any person designated as a reporter for such group shall be considered as independent contractors of such court when in the performance of official duties of the advisory group and may not, solely by reason of service on or for the advisory group, be prohibited from practicing law before such court.
 
-(Added Pub. L. 101–650, title I, § 103(a), Dec. 1, 1990, 104 Stat. 5094.)
+(Added Pub. L. 101–650, title I, § 103(a), Dec. 1, 1990, 104 Stat. 5094.)
 
 **Editorial Notes**
 
@@ -331,7 +331,7 @@ Section 103(c) of the Civil Justice Reform Act of 1990 [Pub. L. 101–650], refe
 
 The date of the enactment of this chapter, referred to in subsec. (a), is the date of enactment of Pub. L. 101–650, which was approved Dec. 1, 1990.
 
-## § 479. Information on litigation management and cost and delay reduction
+## § 479. Information on litigation management and cost and delay reduction
 
 **(a)** Within four years after the date of the enactment of this chapter, the Judicial Conference of the United States shall prepare a comprehensive report on all plans received pursuant to section 472(d) of this title. The Director of the Federal Judicial Center and the Director of the Administrative Office of the United States Courts may make recommendations regarding such report to the Judicial Conference during the preparation of the report. The Judicial Conference shall transmit copies of the report to the United States district courts and to the Committees on the Judiciary of the Senate and the House of Representatives.
 
@@ -349,7 +349,7 @@ The date of the enactment of this chapter, referred to in subsec. (a), is the da
 
 **(3)** The Manual shall contain a description and analysis of the litigation management, cost and delay reduction principles and techniques, and alternative dispute resolution programs considered most effective by the Judicial Conference, the Director of the Federal Judicial Center, and the Director of the Administrative Office of the United States Courts.
 
-(Added Pub. L. 101–650, title I, § 103(a), Dec. 1, 1990, 104 Stat. 5095.)
+(Added Pub. L. 101–650, title I, § 103(a), Dec. 1, 1990, 104 Stat. 5095.)
 
 **Editorial Notes**
 
@@ -359,13 +359,13 @@ The date of the enactment of this chapter, referred to in subsec. (a), is the da
 
 Sections 104 and 105 of the Civil Justice Reform Act of 1990 [Pub. L. 101–650], referred to in subsec. (c)(2), are set out as notes under section 471 of this title.
 
-## § 480. Training programs
+## § 480. Training programs
 
 The Director of the Federal Judicial Center and the Director of the Administrative Office of the United States Courts shall develop and conduct comprehensive education and training programs to ensure that all judicial officers, clerks of court, courtroom deputies, and other appropriate court personnel are thoroughly familiar with the most recent available information and analyses about litigation management and other techniques for reducing cost and expediting the resolution of civil litigation. The curriculum of such training programs shall be periodically revised to reflect such information and analyses.
 
-(Added Pub. L. 101–650, title I, § 103(a), Dec. 1, 1990, 104 Stat. 5095.)
+(Added Pub. L. 101–650, title I, § 103(a), Dec. 1, 1990, 104 Stat. 5095.)
 
-## § 481. Automated case information
+## § 481. Automated case information
 
 **(a)** The Director of the Administrative Office of the United States Courts shall ensure that each United States district court has the automated capability readily to retrieve information about the status of each case in such court.
 
@@ -381,13 +381,13 @@ The Director of the Federal Judicial Center and the Director of the Administrati
 
 **(c)** Each United States district court shall record information as prescribed pursuant to subsection (b) of this section.
 
-(Added Pub. L. 101–650, title I, § 103(a), Dec. 1, 1990, 104 Stat. 5095.)
+(Added Pub. L. 101–650, title I, § 103(a), Dec. 1, 1990, 104 Stat. 5095.)
 
-## § 482. Definitions
+## § 482. Definitions
 
 As used in this chapter, the term “judicial officer” means a United States district court judge or a United States magistrate judge.
 
-(Added Pub. L. 101–650, title I, § 103(a), title III, § 321, Dec. 1, 1990, 104 Stat. 5096, 5117.)
+(Added Pub. L. 101–650, title I, § 103(a), title III, § 321, Dec. 1, 1990, 104 Stat. 5096, 5117.)
 
 **Statutory Notes and Related Subsidiaries**
 

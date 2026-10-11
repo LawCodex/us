@@ -21,7 +21,7 @@ retrieved: 2026-10-11
 
 A prior chapter 75 which consisted of sections 4201 to 4210 was renumbered chapter 78 of this title and transferred to follow chapter 76 of this title, and sections 4201 to 4210 were renumbered sections 7801 to 7810 of this title, respectively.
 
-## § 7501. Establishment of scholarship program; purpose
+## § 7501. Establishment of scholarship program; purpose
 
 **(a) Establishment.—** Subject to the availability of appropriations, the Secretary shall establish and carry out a scholarship program to provide financial assistance in accordance with this chapter to individuals who—
 
@@ -33,15 +33,15 @@ A prior chapter 75 which consisted of sections 4201 to 4210 was renumbered chapt
 
 **(c) Outreach.—** The Secretary shall publicize the scholarship program to educational institutions throughout the United States, with an emphasis on disseminating information to such institutions with high numbers of Hispanic students and to Historically Black Colleges and Universities.
 
-(Added Pub. L. 111–163, title III, § 302(a), May 5, 2010, 124 Stat. 1146.)
+(Added Pub. L. 111–163, title III, § 302(a), May 5, 2010, 124 Stat. 1146.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Implementation**
 
-Pub. L. 111–163, title III, § 302(c), May 5, 2010, 124 Stat. 1149, provided that: “The Secretary of Veterans Affairs shall implement chapter 75 of title 38, United States Code, as added by subsection (a), not later than 6 months after the date of the enactment of this Act [May 5, 2010].”
+Pub. L. 111–163, title III, § 302(c), May 5, 2010, 124 Stat. 1149, provided that: “The Secretary of Veterans Affairs shall implement chapter 75 of title 38, United States Code, as added by subsection (a), not later than 6 months after the date of the enactment of this Act [May 5, 2010].”
 
-## § 7502. Application and acceptance
+## § 7502. Application and acceptance
 
 **(a) Application.—**
 
@@ -59,9 +59,9 @@ Pub. L. 111–163, title III, § 302(c), May 5, 2010, 124 Stat. 1149, provided
 
 **(2)** An individual becomes a participant in the scholarship program upon such approval by the Secretary.
 
-(Added Pub. L. 111–163, title III, § 302(a), May 5, 2010, 124 Stat. 1147.)
+(Added Pub. L. 111–163, title III, § 302(a), May 5, 2010, 124 Stat. 1147.)
 
-## § 7503. Amount of assistance; duration
+## § 7503. Amount of assistance; duration
 
 **(a) Amount of Assistance.—** The amount of the financial assistance provided an individual under the scholarship program under this chapter shall be the amount determined by the Secretary as being necessary to pay the tuition and fees of the individual. In the case of an individual enrolled in a program of study leading to a dual degree or certification in both the areas of study described in section 7501(a)(1) of this title, the tuition and fees shall not exceed the amounts necessary for the minimum number of credit hours to achieve such dual degree or certification.
 
@@ -77,9 +77,9 @@ Pub. L. 111–163, title III, § 302(c), May 5, 2010, 124 Stat. 1149, provided
 
 **(d) Maximum Duration of Assistance.—** Financial assistance may not be provided to an individual under the scholarship program for more than six academic years.
 
-(Added Pub. L. 111–163, title III, § 302(a), May 5, 2010, 124 Stat. 1147.)
+(Added Pub. L. 111–163, title III, § 302(a), May 5, 2010, 124 Stat. 1147.)
 
-## § 7504. Agreement
+## § 7504. Agreement
 
 An agreement between the Secretary and a participant in the scholarship program under this chapter shall be in writing, shall be signed by the participant, and shall include—
 
@@ -97,9 +97,9 @@ An agreement between the Secretary and a participant in the scholarship program 
 
 **(3)** any other terms and conditions that the Secretary considers appropriate for carrying out this chapter.
 
-(Added Pub. L. 111–163, title III, § 302(a), May 5, 2010, 124 Stat. 1148.)
+(Added Pub. L. 111–163, title III, § 302(a), May 5, 2010, 124 Stat. 1148.)
 
-## § 7505. Repayment for failure to satisfy requirements of agreement
+## § 7505. Repayment for failure to satisfy requirements of agreement
 
 **(a) In General.—** An individual who receives educational assistance under the scholarship program under this chapter shall repay to the Secretary an amount equal to the unearned portion of such assistance if the individual fails to satisfy the requirements of the agreement entered into under section 7504 of this title, except in circumstances authorized by the Secretary.
 
@@ -113,4 +113,4 @@ An agreement between the Secretary and a participant in the scholarship program 
 
 **(d) Obligation as Debt to United States.—** An obligation to repay the Secretary under this section is, for all purposes, a debt owed the United States. A discharge in bankruptcy under title 11 does not discharge a person from such debt if the discharge order is entered less than five years after the date of the termination of the agreement or contract on which the debt is based.
 
-(Added Pub. L. 111–163, title III, § 302(a), May 5, 2010, 124 Stat. 1148.)
+(Added Pub. L. 111–163, title III, § 302(a), May 5, 2010, 124 Stat. 1148.)

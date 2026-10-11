@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2016—Pub. L. 114–301, § 2(a)(2), Dec. 16, 2016, 130 Stat. 1514, added item 7506 and struck out former items 7506 “Monitoring responsibilities of the Comptroller General” and 7507 “Effective date”.
+2016—Pub. L. 114–301, § 2(a)(2), Dec. 16, 2016, 130 Stat. 1514, added item 7506 and struck out former items 7506 “Monitoring responsibilities of the Comptroller General” and 7507 “Effective date”.
 
-1996—Pub. L. 104–156, § 2, July 5, 1996, 110 Stat. 1396, amended chapter analysis generally, substituting in item 7504 “Federal agency responsibilities and relations with non-Federal entities” for “Cognizant agency responsibilities” and in item 7507 “Effective date” for “Effective date; report”.
+1996—Pub. L. 104–156, § 2, July 5, 1996, 110 Stat. 1396, amended chapter analysis generally, substituting in item 7504 “Federal agency responsibilities and relations with non-Federal entities” for “Cognizant agency responsibilities” and in item 7507 “Effective date” for “Effective date; report”.
 
-## § 7501. Definitions
+## § 7501. Definitions
 
 **(a)** As used in this chapter, the term—
 
@@ -53,7 +53,7 @@ retrieved: 2026-10-11
 
 **(A)** Effectiveness and efficiency of operations.1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 **(B)** Reliability of financial reporting.<sup>1</sup>
 
@@ -97,13 +97,13 @@ retrieved: 2026-10-11
 
 **(d)** Loan or loan guarantee programs, as specified by the Director, shall not be subject to the application of subsection (b).
 
-(Added Pub. L. 98–502, § 2(a), Oct. 19, 1984, 98 Stat. 2327; amended Pub. L. 104–156, § 2, July 5, 1996, 110 Stat. 1396.)
+(Added Pub. L. 98–502, § 2(a), Oct. 19, 1984, 98 Stat. 2327; amended Pub. L. 104–156, § 2, July 5, 1996, 110 Stat. 1396.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Alaskan Native Claims Settlement Act, referred to in subsec. (a)(9), probably means the Alaska Native Claims Settlement Act, Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaskan Native Claims Settlement Act, referred to in subsec. (a)(9), probably means the Alaska Native Claims Settlement Act, Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 **Amendments**
 
@@ -113,27 +113,27 @@ The Alaskan Native Claims Settlement Act, referred to in subsec. (a)(9), probabl
 
 **Short Title of 2024 Amendment**
 
-Pub. L. 118–207, § 1, Dec. 23, 2024, 138 Stat. 2701, provided that: “This Act [amending section 7504 of this title] may be cited as the ‘Financial Management Risk Reduction Act’.”
+Pub. L. 118–207, § 1, Dec. 23, 2024, 138 Stat. 2701, provided that: “This Act [amending section 7504 of this title] may be cited as the ‘Financial Management Risk Reduction Act’.”
 
 **Short Title of 2016 Amendment**
 
-Pub. L. 114–301, § 1, Dec. 16, 2016, 130 Stat. 1514, provided that: “This Act [amending section 5226 of Title 12, Banks and Banking, section 280g–15 of Title 42, The Public Health and Welfare, and section 114 of Title 49, Transportation, renumbering section 7507 of this title as section 7506, repealing section 7506 of this title, amending provisions set out as notes under section 78m of Title 15, Commerce and Trade, and section 5189a of Title 42, and repealing provisions set out as a note under section 1395*l* of Title 42] may be cited as the ‘GAO Mandates Revision Act of 2016’.”
+Pub. L. 114–301, § 1, Dec. 16, 2016, 130 Stat. 1514, provided that: “This Act [amending section 5226 of Title 12, Banks and Banking, section 280g–15 of Title 42, The Public Health and Welfare, and section 114 of Title 49, Transportation, renumbering section 7507 of this title as section 7506, repealing section 7506 of this title, amending provisions set out as notes under section 78m of Title 15, Commerce and Trade, and section 5189a of Title 42, and repealing provisions set out as a note under section 1395*l* of Title 42] may be cited as the ‘GAO Mandates Revision Act of 2016’.”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–156, § 1(a), July 5, 1996, 110 Stat. 1396, provided that: “This Act [amending this chapter and enacting provisions set out as notes below] may be cited as the ‘Single Audit Act Amendments of 1996’.”
+Pub. L. 104–156, § 1(a), July 5, 1996, 110 Stat. 1396, provided that: “This Act [amending this chapter and enacting provisions set out as notes below] may be cited as the ‘Single Audit Act Amendments of 1996’.”
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–502, § 1(a), Oct. 19, 1984, 98 Stat. 2327, provided that: “This Act [enacting this chapter and provisions set out as notes under this section] may be cited as the ‘Single Audit Act of 1984’.”
+Pub. L. 98–502, § 1(a), Oct. 19, 1984, 98 Stat. 2327, provided that: “This Act [enacting this chapter and provisions set out as notes under this section] may be cited as the ‘Single Audit Act of 1984’.”
 
 **Transitional Application**
 
-Pub. L. 104–156, § 3, July 5, 1996, 110 Stat. 1404, provided that: “Subject to [former] section 7507 of title 31, United States Code (as amended by section 2 of this Act) [now 31 U.S.C. 7506] the provisions of chapter 75 of such title (before amendment by section 2 of this Act) shall continue to apply to any State or local government with respect to any of its fiscal years beginning before July 1, 1996.”
+Pub. L. 104–156, § 3, July 5, 1996, 110 Stat. 1404, provided that: “Subject to [former] section 7507 of title 31, United States Code (as amended by section 2 of this Act) [now 31 U.S.C. 7506] the provisions of chapter 75 of such title (before amendment by section 2 of this Act) shall continue to apply to any State or local government with respect to any of its fiscal years beginning before July 1, 1996.”
 
 **Congressional Statement of Purpose**
 
-Pub. L. 104–156, § 1(b), July 5, 1996, 110 Stat. 1396, provided that:
+Pub. L. 104–156, § 1(b), July 5, 1996, 110 Stat. 1396, provided that:
 
 > “The purposes of this Act [see Short Title of 1996 Amendment note above] are to—
 
@@ -147,7 +147,7 @@ Pub. L. 104–156, § 1(b), July 5, 1996, 110 Stat. 1396, provided that:
 
 > **“(5)** ensure that Federal departments and agencies, to the maximum extent practicable, rely upon and use audit work done pursuant to chapter 75 of title 31, United States Code (as amended by this Act).”
 
-Pub. L. 98–502, § 1(b), Oct. 19, 1984, 98 Stat. 2327, provided that:
+Pub. L. 98–502, § 1(b), Oct. 19, 1984, 98 Stat. 2327, provided that:
 
 > “It is the purpose of this Act [enacting this chapter and provisions set out as notes under this section]—
 
@@ -161,7 +161,7 @@ Pub. L. 98–502, § 1(b), Oct. 19, 1984, 98 Stat. 2327, provided that:
 
 **Tennessee Valley Authority Audits Unaffected by Single Audit Requirements**
 
-Pub. L. 98–502, § 2(b), Oct. 19, 1984, 98 Stat. 2334, provided that: “The provisions of this Act [enacting this chapter and provisions set out as notes under this section] shall not diminish or otherwise affect the authority of the Tennessee Valley Authority to conduct its own audits of any matter involving funds disbursed by the Tennessee Valley Authority.”
+Pub. L. 98–502, § 2(b), Oct. 19, 1984, 98 Stat. 2334, provided that: “The provisions of this Act [enacting this chapter and provisions set out as notes under this section] shall not diminish or otherwise affect the authority of the Tennessee Valley Authority to conduct its own audits of any matter involving funds disbursed by the Tennessee Valley Authority.”
 
 **Executive Documents**
 
@@ -169,7 +169,7 @@ Pub. L. 98–502, § 2(b), Oct. 19, 1984, 98 Stat. 2334, provided that: “The
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 7502. Audit requirements; exemptions
+## § 7502. Audit requirements; exemptions
 
 **(a)**
 
@@ -263,7 +263,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 **(j)** The Director may authorize pilot projects to test alternative methods of achieving the purposes of this chapter. Such pilot projects may begin only after consultation with the Chair and Ranking Minority Member of the Committee on Governmental Affairs of the Senate and the Chair and Ranking Minority Member of the Committee on Government Reform and Oversight of the House of Representatives.
 
-(Added Pub. L. 98–502, § 2(a), Oct. 19, 1984, 98 Stat. 2329; amended Pub. L. 103–272, § 4(f)(1)(W), July 5, 1994, 108 Stat. 1363; Pub. L. 104–156, § 2, July 5, 1996, 110 Stat. 1399; Pub. L. 116–103, § 5(a)(1), Dec. 30, 2019, 133 Stat. 3270.)
+(Added Pub. L. 98–502, § 2(a), Oct. 19, 1984, 98 Stat. 2329; amended Pub. L. 103–272, § 4(f)(1)(W), July 5, 1994, 108 Stat. 1363; Pub. L. 104–156, § 2, July 5, 1996, 110 Stat. 1399; Pub. L. 116–103, § 5(a)(1), Dec. 30, 2019, 133 Stat. 3270.)
 
 **Editorial Notes**
 
@@ -277,11 +277,11 @@ The effective date of the Single Audit Act Amendments of 1996, referred to in su
 
 1996—Pub. L. 104–156 reenacted section catchline without change and amended text generally, substituting present provisions for similar provisions relating to audit requirements and exemptions from such requirements for State and local governments receiving Federal financial assistance of $100,000 or more in any fiscal year and requiring audits to be conducted annually in most instances, to cover entirety of government operations, for reports to be made on audits in specified time period, and for appropriate corrective action plans to be submitted to Federal officials for any material State or local noncompliance with Federal laws and regulations.
 
-1994—Subsec. (b)(2). Pub. L. 103–272, § 4(f)(1)(W), substituted “October 19, 1984” for “the date of enactment of this chapter” in subpar. (A) and for “such date” in subpar. (B).
+1994—Subsec. (b)(2). Pub. L. 103–272, § 4(f)(1)(W), substituted “October 19, 1984” for “the date of enactment of this chapter” in subpar. (A) and for “such date” in subpar. (B).
 
-Subsec. (d)(5), (6). Pub. L. 103–272, § 4(f)(1)(W)(iii), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “Each State or local government which, in any fiscal year of such government, receives directly from the Department of the Treasury a total of $25,000 or more under chapter 67 of this title (relating to general revenue sharing) and which is required to conduct an audit pursuant to this chapter for such fiscal year shall not have the option provided by paragraph (1)(A) for such fiscal year.”
+Subsec. (d)(5), (6). Pub. L. 103–272, § 4(f)(1)(W)(iii), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “Each State or local government which, in any fiscal year of such government, receives directly from the Department of the Treasury a total of $25,000 or more under chapter 67 of this title (relating to general revenue sharing) and which is required to conduct an audit pursuant to this chapter for such fiscal year shall not have the option provided by paragraph (1)(A) for such fiscal year.”
 
-Subsec. (g). Pub. L. 103–272, § 4(f)(1)(W)(iv), substituted “section 3512(c)” for “section 3512(b)”.
+Subsec. (g). Pub. L. 103–272, § 4(f)(1)(W)(iv), substituted “section 3512(c)” for “section 3512(b)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -291,7 +291,7 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-## § 7503. Relation to other audit requirements
+## § 7503. Relation to other audit requirements
 
 **(a)** An audit conducted in accordance with this chapter shall be in lieu of any financial audit of Federal awards which a non-Federal entity is required to undergo under any other Federal law or regulation. To the extent that such audit provides a Federal agency with the information it requires to carry out its responsibilities under Federal law or regulation, a Federal agency shall rely upon and use that information.
 
@@ -305,7 +305,7 @@ Committee on Government Reform and Oversight of House of Representatives changed
 
 **(f)** Upon request by a Federal agency or the Comptroller General, any independent auditor conducting an audit pursuant to this chapter shall make the auditor’s working papers available to the Federal agency or the Comptroller General as part of a quality review, to resolve audit findings, or to carry out oversight responsibilities consistent with the purposes of this chapter. Such access to auditor’s working papers shall include the right to obtain copies.
 
-(Added Pub. L. 98–502, § 2(a), Oct. 19, 1984, 98 Stat. 2332; amended Pub. L. 103–272, § 4(f)(1)(X), July 5, 1994, 108 Stat. 1363; Pub. L. 104–156, § 2, July 5, 1996, 110 Stat. 1401.)
+(Added Pub. L. 98–502, § 2(a), Oct. 19, 1984, 98 Stat. 2332; amended Pub. L. 103–272, § 4(f)(1)(X), July 5, 1994, 108 Stat. 1363; Pub. L. 104–156, § 2, July 5, 1996, 110 Stat. 1401.)
 
 **Editorial Notes**
 
@@ -315,7 +315,7 @@ Committee on Government Reform and Oversight of House of Representatives changed
 
 1994—Subsec. (a). Pub. L. 103–272 substituted “extent” for “extend” in second sentence.
 
-## § 7504. Federal agency responsibilities and relations with non-Federal entities
+## § 7504. Federal agency responsibilities and relations with non-Federal entities
 
 **(a)** Each Federal agency shall, in accordance with guidance issued by the Director under section 7505, with regard to Federal awards provided by the agency—
 
@@ -367,7 +367,7 @@ Committee on Government Reform and Oversight of House of Representatives changed
 
 **(3)** the responsiveness of Federal agencies to repeat single audit findings and corrective action plans.
 
-(Added Pub. L. 98–502, § 2(a), Oct. 19, 1984, 98 Stat. 2333; amended Pub. L. 104–156, § 2, July 5, 1996, 110 Stat. 1402; Pub. L. 118–207, § 2, Dec. 23, 2024, 138 Stat. 2701.)
+(Added Pub. L. 98–502, § 2(a), Oct. 19, 1984, 98 Stat. 2333; amended Pub. L. 104–156, § 2, July 5, 1996, 110 Stat. 1402; Pub. L. 118–207, § 2, Dec. 23, 2024, 138 Stat. 2701.)
 
 **Editorial Notes**
 
@@ -377,11 +377,11 @@ The date of enactment of this subsection, referred to in subsecs. (d), (e)(2), (
 
 **Amendments**
 
-2024—Subsec. (a)(3), (4). Pub. L. 118–207, § 2(1), added pars. (3) and (4).
+2024—Subsec. (a)(3), (4). Pub. L. 118–207, § 2(1), added pars. (3) and (4).
 
-Subsec. (c)(2), (3). Pub. L. 118–207, § 2(2), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “identify recipients that expend $300,000 or more in Federal awards or such other amount specified by the Director under section 7502(a)(3) during the recipient’s fiscal year but did not undergo an audit in accordance with this chapter; and”.
+Subsec. (c)(2), (3). Pub. L. 118–207, § 2(2), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “identify recipients that expend $300,000 or more in Federal awards or such other amount specified by the Director under section 7502(a)(3) during the recipient’s fiscal year but did not undergo an audit in accordance with this chapter; and”.
 
-Subsecs. (d) to (g). Pub. L. 118–207, § 2(3), added subsecs. (d) to (g).
+Subsecs. (d) to (g). Pub. L. 118–207, § 2(3), added subsecs. (d) to (g).
 
 1996—Pub. L. 104–156 substituted “Federal agency responsibilities and relations with non-Federal entities” for “Cognizant agency responsibilities” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
@@ -395,7 +395,7 @@ Subsecs. (d) to (g). Pub. L. 118–207, § 2(3), added subsecs. (d) to (g).
 
 “(3)(A) coordinate, to the extent practicable, audits done by or under contract with Federal agencies that are in addition to the audits conducted pursuant to this chapter; and (B) ensure that such additional audits build upon the audits conducted pursuant to this chapter.”
 
-## § 7505. Regulations
+## § 7505. Regulations
 
 **(a)** The Director, after consultation with the Comptroller General, and appropriate officials from Federal, State, and local governments and nonprofit organizations shall prescribe guidance to implement this chapter. Each Federal agency shall promulgate such amendments to its regulations as may be necessary to conform such regulations to the requirements of this chapter and of such guidance.
 
@@ -417,7 +417,7 @@ Subsecs. (d) to (g). Pub. L. 118–207, § 2(3), added subsecs. (d) to (g).
 
 **(d)** Such guidance shall require audit-related information reported under this chapter to be reported in an electronic form in accordance with the data standards established under chapter 64.
 
-(Added Pub. L. 98–502, § 2(a), Oct. 19, 1984, 98 Stat. 2333; amended Pub. L. 104–156, § 2, July 5, 1996, 110 Stat. 1403; Pub. L. 105–135, title VI, § 604(e)(3), Dec. 2, 1997, 111 Stat. 2634; Pub. L. 116–103, § 5(a)(2), Dec. 30, 2019, 133 Stat. 3270.)
+(Added Pub. L. 98–502, § 2(a), Oct. 19, 1984, 98 Stat. 2333; amended Pub. L. 104–156, § 2, July 5, 1996, 110 Stat. 1403; Pub. L. 105–135, title VI, § 604(e)(3), Dec. 2, 1997, 111 Stat. 2634; Pub. L. 116–103, § 5(a)(2), Dec. 30, 2019, 133 Stat. 3270.)
 
 **Editorial Notes**
 
@@ -437,29 +437,29 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 **Guidance**
 
-Pub. L. 116–103, § 5(b), Dec. 30, 2019, 133 Stat. 3270, provided that: “Not later than 3 years after the date of enactment of this Act [Dec. 30, 2019], the Director [of the Office of Management and Budget] shall issue guidance requiring audit-related information reported under chapter 75 of title 31, United States Code, to be reported in an electronic form consistent with the data standards established under chapter 64 of that title, as added by section 4(a) of this Act.”
+Pub. L. 116–103, § 5(b), Dec. 30, 2019, 133 Stat. 3270, provided that: “Not later than 3 years after the date of enactment of this Act [Dec. 30, 2019], the Director [of the Office of Management and Budget] shall issue guidance requiring audit-related information reported under chapter 75 of title 31, United States Code, to be reported in an electronic form consistent with the data standards established under chapter 64 of that title, as added by section 4(a) of this Act.”
 
 **Guidelines for Acceptance of Audits by State and Local Governments Receiving Federal Assistance**
 
-Pub. L. 104–201, div. A, title VIII, § 808(c), Sept. 23, 1996, 110 Stat. 2607, provided that: “The Director of the Office of Management and Budget shall issue guidelines to ensure that an audit of indirect costs performed by the Federal Government is accepted by State and local governments that receive Federal funds under contracts, grants, or other Federal assistance programs.”
+Pub. L. 104–201, div. A, title VIII, § 808(c), Sept. 23, 1996, 110 Stat. 2607, provided that: “The Director of the Office of Management and Budget shall issue guidelines to ensure that an audit of indirect costs performed by the Federal Government is accepted by State and local governments that receive Federal funds under contracts, grants, or other Federal assistance programs.”
 
-## § 7506. Effective date
+## § 7506. Effective date
 
 This chapter shall apply to any non-Federal entity with respect to any of its fiscal years which begin after June 30, 1996.
 
-(Added Pub. L. 98–502, § 2(a), Oct. 19, 1984, 98 Stat. 2334, § 7507; amended Pub. L. 104–156, § 2, July 5, 1996, 110 Stat. 1404; renumbered § 7506, Pub. L. 114–301, § 2(a)(1)(B), Dec. 16, 2016, 130 Stat. 1514.)
+(Added Pub. L. 98–502, § 2(a), Oct. 19, 1984, 98 Stat. 2334, § 7507; amended Pub. L. 104–156, § 2, July 5, 1996, 110 Stat. 1404; renumbered § 7506, Pub. L. 114–301, § 2(a)(1)(B), Dec. 16, 2016, 130 Stat. 1514.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 7506, added Pub. L. 98–502, § 2(a), Oct. 19, 1984, 98 Stat. 2333; amended Pub. L. 104–156, § 2, July 5, 1996, 110 Stat. 1403, related to the monitoring responsibilities of the Comptroller General, prior to repeal by Pub. L. 114–301, § 2(a)(1)(A), Dec. 16, 2016, 130 Stat. 1514.
+A prior section 7506, added Pub. L. 98–502, § 2(a), Oct. 19, 1984, 98 Stat. 2333; amended Pub. L. 104–156, § 2, July 5, 1996, 110 Stat. 1403, related to the monitoring responsibilities of the Comptroller General, prior to repeal by Pub. L. 114–301, § 2(a)(1)(A), Dec. 16, 2016, 130 Stat. 1514.
 
 **Amendments**
 
 2016—Pub. L. 114–301 renumbered section 7507 of this title as this section.
 
-1996—Pub. L. 104–156 struck out “; report” after “Effective date” in section catchline and amended text generally. Prior to amendment, text read as follows:
+1996—Pub. L. 104–156 struck out “; report” after “Effective date” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a) This chapter shall apply to any State or local government with respect to any of its fiscal years which begin after December 31, 1984.
 

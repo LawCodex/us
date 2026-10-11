@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 806(d)(3)(A), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 839 of this title as this chapter and item 8446 as 9176.
+2018—Pub. L. 115–232, div. A, title VIII, § 806(d)(3)(A), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 839 of this title as this chapter and item 8446 as 9176.
 
-1980—Pub. L. 96–513, title V, § 504(12), Dec. 12, 1980, 94 Stat. 2917, struck out items 8441 “General rule”, 8442 “Commissioned officers; regular and reserve components: appointment in higher grade”, 8444 “Commissioned officers: during war or emergency”, 8445 “Officers: additional appointments during war or emergency”, 8447 “Appointments in commissioned grade: how made; how terminated”, 8448 “Warrant officers: grades; appointment”, 8449 “Warrant officers: promotion”, 8451 “Officers: acceptance of appointment in higher grade”, and 8452 “Medical and dental officers: temporary promotion to captain”.
+1980—Pub. L. 96–513, title V, § 504(12), Dec. 12, 1980, 94 Stat. 2917, struck out items 8441 “General rule”, 8442 “Commissioned officers; regular and reserve components: appointment in higher grade”, 8444 “Commissioned officers: during war or emergency”, 8445 “Officers: additional appointments during war or emergency”, 8447 “Appointments in commissioned grade: how made; how terminated”, 8448 “Warrant officers: grades; appointment”, 8449 “Warrant officers: promotion”, 8451 “Officers: acceptance of appointment in higher grade”, and 8452 “Medical and dental officers: temporary promotion to captain”.
 
-1968—Pub. L. 90–235, § 3(b)(6), Jan. 2, 1968, 81 Stat. 758, struck out item 8450 “Warrant officers: suspension of laws for promotion or mandatory retirement or separation during war or emergency”.
+1968—Pub. L. 90–235, § 3(b)(6), Jan. 2, 1968, 81 Stat. 758, struck out item 8450 “Warrant officers: suspension of laws for promotion or mandatory retirement or separation during war or emergency”.
 
-1958—Pub. L. 85–861, § 1(180)(F), (G), Sept. 2, 1958, 72 Stat. 1532, struck out item 8443 “Commissioned officers; Reserves; appointment in higher or lower grade”, and added item 8452.
+1958—Pub. L. 85–861, § 1(180)(F), (G), Sept. 2, 1958, 72 Stat. 1532, struck out item 8443 “Commissioned officers; Reserves; appointment in higher or lower grade”, and added item 8452.
 
-## § 9176. Retention on active duty
+## § 9176. Retention on active duty
 
 The President may retain on active duty a disabled officer until—
 
@@ -35,7 +35,7 @@ The President may retain on active duty a disabled officer until—
 
 **(2)** the officer is processed for physical disability benefits provided by law.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 522, § 8446; Pub. L. 85–861, § 1(180)(C), Sept. 2, 1958, 72 Stat. 1532; Pub. L. 101–189, div. A, title XVI, § 1621(a)(10), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 102–25, title VII, § 701(j)(6), Apr. 6, 1991, 105 Stat. 116; renumbered § 9176, Pub. L. 115–232, div. A, title VIII, § 806(b)(4), Aug. 13, 2018, 132 Stat. 1832.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 522, § 8446; Pub. L. 85–861, § 1(180)(C), Sept. 2, 1958, 72 Stat. 1532; Pub. L. 101–189, div. A, title XVI, § 1621(a)(10), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 102–25, title VII, § 701(j)(6), Apr. 6, 1991, 105 Stat. 116; renumbered § 9176, Pub. L. 115–232, div. A, title VIII, § 806(b)(4), Aug. 13, 2018, 132 Stat. 1832.)
 
 **Historical and Revision Notes**
 
@@ -45,7 +45,7 @@ The President may retain on active duty a disabled officer until—
 |---|---|---|
 | 8446 | 10:499. | June 19, 1948, ch. 511, 62 Stat. 489. |
 
-The word “Shall” is substituted for the words “authorized and directed”. The words “on active duty” are substituted for the words “in service”. The words “warrant officers, and flight officers” are omitted, since the definition of “officer” in section 101(14) of this title covers commissioned, warrant, and flight officers. The words “who has only a temporary appointment” are substituted for the words “of the Air Force \* \* \* of the United States”. The words “his physical condition is such that he” are substituted for the words “their treatment for physical reconstruction has reached a point where they”. The words “in the Air Force” are substituted for the words “in the military service”.
+The word “Shall” is substituted for the words “authorized and directed”. The words “on active duty” are substituted for the words “in service”. The words “warrant officers, and flight officers” are omitted, since the definition of “officer” in section 101(14) of this title covers commissioned, warrant, and flight officers. The words “who has only a temporary appointment” are substituted for the words “of the Air Force \* \* \* of the United States”. The words “his physical condition is such that he” are substituted for the words “their treatment for physical reconstruction has reached a point where they”. The words “in the Air Force” are substituted for the words “in the military service”.
 
 **1958 Act**
 

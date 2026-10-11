@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1996—Pub. L. 104–294, title VI, § 601(f)(9), (10), Oct. 11, 1996, 110 Stat. 3500, inserted comma after “District” in item 3182 and after “Territory” in item 3183.
+1996—Pub. L. 104–294, title VI, § 601(f)(9), (10), Oct. 11, 1996, 110 Stat. 3500, inserted comma after “District” in item 3182 and after “Territory” in item 3183.
 
-1990—Pub. L. 101–623, § 11(b), Nov. 21, 1990, 104 Stat. 3356, added item 3196.
+1990—Pub. L. 101–623, § 11(b), Nov. 21, 1990, 104 Stat. 3356, added item 3196.
 
-## § 3181. Scope and limitation of chapter
+## § 3181. Scope and limitation of chapter
 
 **(a)** The provisions of this chapter relating to the surrender of persons who have committed crimes in foreign countries shall continue in force only during the existence of any treaty of extradition with such foreign government.
 
@@ -35,11 +35,11 @@ retrieved: 2026-10-11
 
 **(c)** As used in this section, the term “national of the United States” has the meaning given such term in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
 
-(June 25, 1948, ch. 645, 62 Stat. 822; Pub. L. 104–132, title IV, § 443(a), Apr. 24, 1996, 110 Stat. 1280.)
+(June 25, 1948, ch. 645, 62 Stat. 822; Pub. L. 104–132, title IV, § 443(a), Apr. 24, 1996, 110 Stat. 1280.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 658 (R.S. § 5274).
+Based on title 18, U.S.C., 1940 ed., § 658 (R.S. § 5274).
 
 Minor changes were made in phraseology.
 
@@ -83,7 +83,7 @@ Pub. L. 105–323, title II, Oct. 30, 1998, 112 Stat. 3033, provided that:
 
 **Judicial Assistance to International Tribunal for Yugoslavia and International Tribunal for Rwanda**
 
-Pub. L. 104–106, div. A, title XIII, § 1342, Feb. 10, 1996, 110 Stat. 486, as amended by Pub. L. 111–117, div. F, title VII, § 7034(t), Dec. 16, 2009, 123 Stat. 3364, provided that:
+Pub. L. 104–106, div. A, title XIII, § 1342, Feb. 10, 1996, 110 Stat. 486, as amended by Pub. L. 111–117, div. F, title VII, § 7034(t), Dec. 16, 2009, 123 Stat. 3364, provided that:
 
 > **“(a) Surrender of Persons.—**
 
@@ -119,9 +119,9 @@ Pub. L. 104–106, div. A, title XIII, § 1342, Feb. 10, 1996, 110 Stat. 486, 
 
 **Extradition and Mutual Legal Assistance Treaties and Model Comprehensive Antidrug Laws**
 
-Pub. L. 100–690, title IV, § 4605, Nov. 18, 1988, 102 Stat. 4290, which directed greater emphasis on updating of extradition treaties and on negotiating mutual legal assistance treaties with major drug producing and drug-transit countries, and called for development of model treaties and anti-narcotics legislation, was repealed by Pub. L. 102–583, § 6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
+Pub. L. 100–690, title IV, § 4605, Nov. 18, 1988, 102 Stat. 4290, which directed greater emphasis on updating of extradition treaties and on negotiating mutual legal assistance treaties with major drug producing and drug-transit countries, and called for development of model treaties and anti-narcotics legislation, was repealed by Pub. L. 102–583, § 6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
 
-Pub. L. 100–204, title VIII, § 803, Dec. 22, 1987, 101 Stat. 1397, provided that:
+Pub. L. 100–204, title VIII, § 803, Dec. 22, 1987, 101 Stat. 1397, provided that:
 
 > “The Secretary of State shall ensure that the Country Plan for the United States diplomatic mission in each major illicit drug producing country and in each major drug-transit country (as those terms are defined in section 481(i) of the Foreign Assistance Act of 1961 [22 U.S.C. 2291(i)]) includes, as an objective to be pursued by the mission—
 
@@ -129,9 +129,9 @@ Pub. L. 100–204, title VIII, § 803, Dec. 22, 1987, 101 Stat. 1397, provided
 
 > **“(2)** if an existing treaty provides for such extradition, taking such steps as may be necessary to ensure that the treaty is effectively implemented.”
 
-Pub. L. 99–93, title I, § 133, Aug. 16, 1985, 99 Stat. 420, provided that: “The Secretary of State, with the assistance of the National Drug Enforcement Policy Board, shall increase United States efforts to negotiate updated extradition treaties relating to narcotics offenses with each major drug-producing country, particularly those in Latin America.”
+Pub. L. 99–93, title I, § 133, Aug. 16, 1985, 99 Stat. 420, provided that: “The Secretary of State, with the assistance of the National Drug Enforcement Policy Board, shall increase United States efforts to negotiate updated extradition treaties relating to narcotics offenses with each major drug-producing country, particularly those in Latin America.”
 
-**— — —**
+**— — —**
 
 **EXTRADITION AGREEMENTS**
 
@@ -139,8 +139,8 @@ The United States currently has bilateral extradition agreements with the follow
 
 <table>
 <tr><th>Country</th><th>Date signed</th><th>Entered into force</th><th>Citation</th></tr>
-<tr><td colspan="4">1 Status of agreements with successor states of Czechoslovakia and Yugoslavia is under review; inquire of the Treaty Office of the United States Department of State.</td></tr>
-<tr><td colspan="4">2 Typographical error corrected by diplomatic notes exchanged Apr. 4 and 11, 1967. See 18 UST 382, 383.</td></tr>
+<tr><td colspan="4">1 Status of agreements with successor states of Czechoslovakia and Yugoslavia is under review; inquire of the Treaty Office of the United States Department of State.</td></tr>
+<tr><td colspan="4">2 Typographical error corrected by diplomatic notes exchanged Apr. 4 and 11, 1967. See 18 UST 382, 383.</td></tr>
 <tr><td>Albania</td><td>Mar. 1, 1933</td><td>Nov. 14, 1935</td><td>49 Stat. 3313.</td></tr>
 <tr><td>Antigua and Barbuda</td><td>June 3, 1996</td><td>July 1, 1999</td><td>TIAS 99-701.1.</td></tr>
 <tr><td>Argentina</td><td>June 10, 1997</td><td>June 15, 2000</td><td>TIAS 12866.</td></tr>
@@ -175,7 +175,7 @@ The United States currently has bilateral extradition agreements with the follow
 <tr><td></td><td>Jan. 14, 1926</td><td>June 18, 1926</td><td>44 Stat. 2392.</td></tr>
 <tr><td>Cyprus</td><td>June 17, 1996</td><td>Sept. 14, 1999</td><td>TIAS 99-914.</td></tr>
 <tr><td></td><td>Jan. 20, 2006</td><td>Feb. 1, 2010</td><td>TIAS 10-201.4.</td></tr>
-<tr><td>Czech Republic 1</td><td>July 2, 1925 Apr. 29, 1935</td><td>Mar. 29, 1926 Aug. 28, 1935</td><td>44 Stat. 2367. 49 Stat. 3253.</td></tr>
+<tr><td>Czech Republic 1</td><td>July 2, 1925 Apr. 29, 1935</td><td>Mar. 29, 1926 Aug. 28, 1935</td><td>44 Stat. 2367. 49 Stat. 3253.</td></tr>
 <tr><td></td><td>May 16, 2006</td><td>Feb. 1, 2010</td><td>TIAS 10-201.5.</td></tr>
 <tr><td>Denmark</td><td>June 22, 1972</td><td>July 31, 1974</td><td>25 UST 1293.</td></tr>
 <tr><td></td><td>June 23, 2005</td><td>Feb. 1, 2010</td><td>TIAS 10-201.6.</td></tr>
@@ -282,8 +282,8 @@ The United States currently has bilateral extradition agreements with the follow
 <tr><td>Sierra Leone</td><td>Dec. 22, 1931</td><td>June 24, 1935</td><td>47 Stat. 2122.</td></tr>
 <tr><td>Singapore</td><td>Dec. 22, 1931</td><td>June 24, 1935</td><td>47 Stat. 2122.</td></tr>
 <tr><td></td><td>Apr. 23, June 10, 1969</td><td>June 10, 1969</td><td>20 UST 2764.</td></tr>
-<tr><td>Slovakia 1</td><td>July 2, 1925 Apr. 29, 1935 Feb. 6, 2006</td><td>Mar. 29, 1926 Aug. 28, 1935 Feb. 1, 2010</td><td>44 Stat. 2367. 49 Stat. 3253. TIAS 10-201.19.</td></tr>
-<tr><td>Slovenia 1</td><td>Oct. 17, 2005</td><td>Feb. 1, 2010</td><td>TIAS 10-201.20.</td></tr>
+<tr><td>Slovakia 1</td><td>July 2, 1925 Apr. 29, 1935 Feb. 6, 2006</td><td>Mar. 29, 1926 Aug. 28, 1935 Feb. 1, 2010</td><td>44 Stat. 2367. 49 Stat. 3253. TIAS 10-201.19.</td></tr>
+<tr><td>Slovenia 1</td><td>Oct. 17, 2005</td><td>Feb. 1, 2010</td><td>TIAS 10-201.20.</td></tr>
 <tr><td>Solomon Islands</td><td>June 8, 1972</td><td>Jan. 21, 1977</td><td>28 UST 277.</td></tr>
 <tr><td>South Africa</td><td>Sept. 16, 1999</td><td>June 25, 2001</td><td>TIAS 13060.</td></tr>
 <tr><td>South Korea</td><td>June 9, 1998</td><td>Dec. 20, 1999</td><td>TIAS 12962.</td></tr>
@@ -313,7 +313,7 @@ The United States currently has bilateral extradition agreements with the follow
 <tr><td>United Kingdom</td><td>Mar. 31, 2003 Dec. 16, 2004</td><td>Apr. 26, 2007 Feb. 1, 2010</td><td>TIAS 07-426. TIAS 10-201.23.</td></tr>
 <tr><td>Uruguay</td><td>Apr. 6, 1973</td><td>Apr. 11, 1984</td><td>35 UST 3197.</td></tr>
 <tr><td>Venezuela</td><td>Jan. 19, 21, 1922</td><td>Apr. 14, 1923</td><td>43 Stat. 1698.</td></tr>
-<tr><td>Yugoslavia 1</td><td>Oct. 25, 1901</td><td>June 12, 1902</td><td>32 Stat. 1890.</td></tr>
+<tr><td>Yugoslavia 1</td><td>Oct. 25, 1901</td><td>June 12, 1902</td><td>32 Stat. 1890.</td></tr>
 <tr><td>Zambia</td><td>Dec. 22, 1931</td><td>June 24, 1935</td><td>47 Stat. 2122.</td></tr>
 <tr><td>Zimbabwe</td><td>July 25, 1997</td><td>Apr. 26, 2000</td><td>TIAS 00-426.</td></tr>
 </table>
@@ -324,15 +324,15 @@ The United States is a party to the Multilateral Convention on Extradition signe
 
 Other states which have become parties: Argentina, Chile, Colombia, Dominican Republic, Ecuador, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama.
 
-## § 3182. Fugitives from State or Territory to State, District, or Territory
+## § 3182. Fugitives from State or Territory to State, District, or Territory
 
 Whenever the executive authority of any State or Territory demands any person as a fugitive from justice, of the executive authority of any State, District, or Territory to which such person has fled, and produces a copy of an indictment found or an affidavit made before a magistrate of any State or Territory, charging the person demanded with having committed treason, felony, or other crime, certified as authentic by the governor or chief magistrate of the State or Territory from whence the person so charged has fled, the executive authority of the State, District, or Territory to which such person has fled shall cause him to be arrested and secured, and notify the executive authority making such demand, or the agent of such authority appointed to receive the fugitive, and shall cause the fugitive to be delivered to such agent when he shall appear. If no such agent appears within thirty days from the time of the arrest, the prisoner may be discharged.
 
-(June 25, 1948, ch. 645, 62 Stat. 822; Pub. L. 104–294, title VI, § 601(f)(9), Oct. 11, 1996, 110 Stat. 3500.)
+(June 25, 1948, ch. 645, 62 Stat. 822; Pub. L. 104–294, title VI, § 601(f)(9), Oct. 11, 1996, 110 Stat. 3500.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 662 (R.S. § 5278).
+Based on title 18, U.S.C., 1940 ed., § 662 (R.S. § 5278).
 
 Last sentence as to costs and expenses to be paid by the demanding authority was incorporated in section 3195 of this title.
 
@@ -348,7 +348,7 @@ Minor changes were made in phraseology.
 
 1996—Pub. L. 104–294 inserted comma after “District” in section catchline and in two places in text.
 
-## § 3183. Fugitives from State, Territory, or Possession into extraterritorial jurisdiction of United States
+## § 3183. Fugitives from State, Territory, or Possession into extraterritorial jurisdiction of United States
 
 Whenever the executive authority of any State, Territory, District, or possession of the United States demands any American citizen or national as a fugitive from justice who has fled to a country in which the United States exercises extraterritorial jurisdiction, and produces a copy of an indictment found or an affidavit made before a magistrate of the demanding jurisdiction, charging the fugitive so demanded with having committed treason, felony, or other offense, certified as authentic by the Governor or chief magistrate of such demanding jurisdiction, or other person authorized to act, the officer or representative of the United States vested with judicial authority to whom the demand has been made shall cause such fugitive to be arrested and secured, and notify the executive authorities making such demand, or the agent of such authority appointed to receive the fugitive, and shall cause the fugitive to be delivered to such agent when he shall appear.
 
@@ -356,11 +356,11 @@ If no such agent shall appear within three months from the time of the arrest, t
 
 The agent who receives the fugitive into his custody shall be empowered to transport him to the jurisdiction from which he has fled.
 
-(June 25, 1948, ch. 645, 62 Stat. 822; Pub. L. 107–273, div. B, title IV, § 4004(d), Nov. 2, 2002, 116 Stat. 1812.)
+(June 25, 1948, ch. 645, 62 Stat. 822; Pub. L. 107–273, div. B, title IV, § 4004(d), Nov. 2, 2002, 116 Stat. 1812.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 662c (Mar. 22, 1934, ch. 73, § 2, 48 Stat. 455).
+Based on title 18, U.S.C., 1940 ed., § 662c (Mar. 22, 1934, ch. 73, § 2, 48 Stat. 455).
 
 Said section 662c was incorporated in this section and sections 752 and 3195 of this title.
 
@@ -378,15 +378,15 @@ Minor changes were made in phraseology.
 
 2002—Pub. L. 107–273 struck out “or the Panama Canal Zone,” after “possession of the United States” in first par.
 
-## § 3184. Fugitives from foreign country to United States
+## § 3184. Fugitives from foreign country to United States
 
 Whenever there is a treaty or convention for extradition between the United States and any foreign government, or in cases arising under section 3181(b), any justice or judge of the United States, or any magistrate judge authorized so to do by a court of the United States, or any judge of a court of record of general jurisdiction of any State, may, upon complaint made under oath, charging any person found within his jurisdiction, with having committed within the jurisdiction of any such foreign government any of the crimes provided for by such treaty or convention, or provided for under section 3181(b), issue his warrant for the apprehension of the person so charged, that he may be brought before such justice, judge, or magistrate judge, to the end that the evidence of criminality may be heard and considered. Such complaint may be filed before and such warrant may be issued by a judge or magistrate judge of the United States District Court for the District of Columbia if the whereabouts within the United States of the person charged are not known or, if there is reason to believe the person will shortly enter the United States. If, on such hearing, he deems the evidence sufficient to sustain the charge under the provisions of the proper treaty or convention, or under section 3181(b), he shall certify the same, together with a copy of all the testimony taken before him, to the Secretary of State, that a warrant may issue upon the requisition of the proper authorities of such foreign government, for the surrender of such person, according to the stipulations of the treaty or convention; and he shall issue his warrant for the commitment of the person so charged to the proper jail, there to remain until such surrender shall be made.
 
-(June 25, 1948, ch. 645, 62 Stat. 822; Pub. L. 90–578, title III, § 301(a)(3), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 100–690, title VII, § 7087, Nov. 18, 1988, 102 Stat. 4409; Pub. L. 101–647, title XVI, § 1605, Nov. 29, 1990, 104 Stat. 4843; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–132, title IV, § 443(b), Apr. 24, 1996, 110 Stat. 1281.)
+(June 25, 1948, ch. 645, 62 Stat. 822; Pub. L. 90–578, title III, § 301(a)(3), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 100–690, title VII, § 7087, Nov. 18, 1988, 102 Stat. 4409; Pub. L. 101–647, title XVI, § 1605, Nov. 29, 1990, 104 Stat. 4843; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–132, title IV, § 443(b), Apr. 24, 1996, 110 Stat. 1281.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 651 (R.S. § 5270; June 6, 1900, ch. 793, 31 Stat. 656).
+Based on title 18, U.S.C., 1940 ed., § 651 (R.S. § 5270; June 6, 1900, ch. 793, 31 Stat. 656).
 
 Minor changes of phraseology were made.
 
@@ -412,7 +412,7 @@ Words “magistrate judge” substituted for “magistrate” wherever appearing
 
 Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates [now United States magistrate judges] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
-## § 3185. Fugitives from country under control of United States into the United States
+## § 3185. Fugitives from country under control of United States into the United States
 
 Whenever any foreign country or territory, or any part thereof, is occupied by or under the control of the United States, any person who, having violated the criminal laws in force therein by the commission of any of the offenses enumerated below, departs or flees from justice therein to the United States, shall, when found therein, be liable to arrest and detention by the authorities of the United States, and on the written request or requisition of the military governor or other chief executive officer in control of such foreign country or territory shall be returned and surrendered as hereinafter provided to such authorities for trial under the laws in force in the place where such offense was committed.
 
@@ -454,13 +454,13 @@ No return or surrender shall be made of any person charged with the commission o
 
 If so held, such person shall be returned and surrendered to the authorities in control of such foreign country or territory on the order of the Secretary of State of the United States, and such authorities shall secure to such a person a fair and impartial trial.
 
-(June 25, 1948, ch. 645, 62 Stat. 823; May 24, 1949, ch. 139, § 49, 63 Stat. 96; Pub. L. 99–646, § 87(c)(6), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, § 3(a)(6), Nov. 14, 1986, 100 Stat. 3663.)
+(June 25, 1948, ch. 645, 62 Stat. 823; May 24, 1949, ch. 139, § 49, 63 Stat. 96; Pub. L. 99–646, § 87(c)(6), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, § 3(a)(6), Nov. 14, 1986, 100 Stat. 3663.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 18, U.S.C., 1940 ed., § 652 (R.S. § 5270; June 6, 1900, ch. 793, 31 Stat. 656).
+Based on title 18, U.S.C., 1940 ed., § 652 (R.S. § 5270; June 6, 1900, ch. 793, 31 Stat. 656).
 
 Reference to territory of the United States and the District of Columbia was omitted as covered by definitive section 5 of this title.
 
@@ -484,7 +484,7 @@ This section [section 49] corrects typographical errors in section 3185 of title
 
 Amendments by Pub. L. 99–646 and Pub. L. 99–654 effective, respectively, 30 days after Nov. 10, 1986, and 30 days after Nov. 14, 1986, see section 87(e) of Pub. L. 99–646 and section 4 of Pub. L. 99–654, set out as an Effective Date note under section 2241 of this title.
 
-## § 3186. Secretary of State to surrender fugitive
+## § 3186. Secretary of State to surrender fugitive
 
 The Secretary of State may order the person committed under sections 3184 or 3185 of this title to be delivered to any authorized agent of such foreign government, to be tried for the offense of which charged.
 
@@ -496,11 +496,11 @@ A person so accused who escapes may be retaken in the same manner as any person 
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 653 (R.S. § 5272).
+Based on title 18, U.S.C., 1940 ed., § 653 (R.S. § 5272).
 
 Changes were made in phraseology and surplusage was deleted.
 
-## § 3187. Provisional arrest and detention within extra­territorial jurisdiction
+## § 3187. Provisional arrest and detention within extra­territorial jurisdiction
 
 The provisional arrest and detention of a fugitive, under sections 3042 and 3183 of this title, in advance of the presentation of formal proofs, may be obtained by telegraph upon the request of the authority competent to request the surrender of such fugitive addressed to the authority competent to grant such surrender. Such request shall be accompanied by an express statement that a warrant for the fugitive’s arrest has been issued within the jurisdiction of the authority making such request charging the fugitive with the commission of the crime for which his extradition is sought to be obtained.
 
@@ -510,13 +510,13 @@ No person shall be held in custody under telegraphic request by virtue of this s
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 662d (Mar. 22, 1934, ch. 73, § 3, 48 Stat. 455).
+Based on title 18, U.S.C., 1940 ed., § 662d (Mar. 22, 1934, ch. 73, § 3, 48 Stat. 455).
 
 Provision for expense to be borne by the demanding authority is incorporated in section 3195 of this title.
 
 Changes were made in phraseology and arrangement.
 
-## § 3188. Time of commitment pending extradition
+## § 3188. Time of commitment pending extradition
 
 Whenever any person who is committed for rendition to a foreign government to remain until delivered up in pursuance of a requisition, is not so delivered up and conveyed out of the United States within two calendar months after such commitment, over and above the time actually required to convey the prisoner from the jail to which he was committed, by the readiest way, out of the United States, any judge of the United States, or of any State, upon application made to him by or on behalf of the person so committed, and upon proof made to him that reasonable notice of the intention to make such application has been given to the Secretary of State, may order the person so committed to be discharged out of custody, unless sufficient cause is shown to such judge why such discharge ought not to be ordered.
 
@@ -524,11 +524,11 @@ Whenever any person who is committed for rendition to a foreign government to re
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 654 (R.S. § 5273).
+Based on title 18, U.S.C., 1940 ed., § 654 (R.S. § 5273).
 
 Changes in phraseology only were made.
 
-## § 3189. Place and character of hearing
+## § 3189. Place and character of hearing
 
 Hearings in cases of extradition under treaty stipulation or convention shall be held on land, publicly, and in a room or office easily accessible to the public.
 
@@ -536,11 +536,11 @@ Hearings in cases of extradition under treaty stipulation or convention shall be
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 657 (Aug. 3, 1882, ch. 378, § 1, 22 Stat. 215).
+Based on title 18, U.S.C., 1940 ed., § 657 (Aug. 3, 1882, ch. 378, § 1, 22 Stat. 215).
 
 First word “All” was omitted as unnecessary.
 
-## § 3190. Evidence on hearing
+## § 3190. Evidence on hearing
 
 Depositions, warrants, or other papers or copies thereof offered in evidence upon the hearing of any extradition case shall be received and admitted as evidence on such hearing for all the purposes of such hearing if they shall be properly and legally authenticated so as to entitle them to be received for similar purposes by the tribunals of the foreign country from which the accused party shall have escaped, and the certificate of the principal diplomatic or consular officer of the United States resident in such foreign country shall be proof that the same, so offered, are authenticated in the manner required.
 
@@ -548,19 +548,19 @@ Depositions, warrants, or other papers or copies thereof offered in evidence upo
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 655 (R.S. § 5271; Aug. 3, 1882, ch. 378, § 5, 22 Stat. 216).
+Based on title 18, U.S.C., 1940 ed., § 655 (R.S. § 5271; Aug. 3, 1882, ch. 378, § 5, 22 Stat. 216).
 
 Unnecessary words were deleted.
 
-## § 3191. Witnesses for indigent fugitives
+## § 3191. Witnesses for indigent fugitives
 
 On the hearing of any case under a claim of extradition by a foreign government, upon affidavit being filed by the person charged setting forth that there are witnesses whose evidence is material to his defense, that he cannot safely go to trial without them, what he expects to prove by each of them, and that he is not possessed of sufficient means, and is actually unable to pay the fees of such witnesses, the judge or magistrate judge hearing the matter may order that such witnesses be subpenaed; and the costs incurred by the process, and the fees of witnesses, shall be paid in the same manner as in the case of witnesses subpenaed in behalf of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 825; Pub. L. 90–578, title III, § 301(a)(3), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(June 25, 1948, ch. 645, 62 Stat. 825; Pub. L. 90–578, title III, § 301(a)(3), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 656 (Aug. 3, 1882, ch. 378, § 3, 22 Stat. 215).
+Based on title 18, U.S.C., 1940 ed., § 656 (Aug. 3, 1882, ch. 378, § 3, 22 Stat. 215).
 
 Words “that similar” after “manner” were omitted as unnecessary.
 
@@ -580,7 +580,7 @@ Words “magistrate judge” substituted for “magistrate” in text pursuant t
 
 Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates [now United States magistrate judges] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
-## § 3192. Protection of accused
+## § 3192. Protection of accused
 
 Whenever any person is delivered by any foreign government to an agent of the United States, for the purpose of being brought within the United States and tried for any offense of which he is duly accused, the President shall have power to take all necessary measures for the transportation and safekeeping of such accused person, and for his security against lawless violence, until the final conclusion of his trial for the offenses specified in the warrant of extradition, and until his final discharge from custody or imprisonment for or on account of such offenses, and for a reasonable time thereafter, and may employ such portion of the land or naval forces of the United States, or of the militia thereof, as may be necessary for the safe-keeping and protection of the accused.
 
@@ -588,11 +588,11 @@ Whenever any person is delivered by any foreign government to an agent of the Un
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 659 (R.S. § 5275).
+Based on title 18, U.S.C., 1940 ed., § 659 (R.S. § 5275).
 
 Words “crimes or” before “offenses” were omitted as unnecessary.
 
-## § 3193. Receiving agent’s authority over offenders
+## § 3193. Receiving agent’s authority over offenders
 
 A duly appointed agent to receive, in behalf of the United States, the delivery, by a foreign government, of any person accused of crime committed within the United States, and to convey him to the place of his trial, shall have all the powers of a marshal of the United States, in the several districts through which it may be necessary for him to pass with such prisoner, so far as such power is requisite for the prisoner’s safe-keeping.
 
@@ -600,7 +600,7 @@ A duly appointed agent to receive, in behalf of the United States, the delivery,
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 660 (R.S. § 5276).
+Based on title 18, U.S.C., 1940 ed., § 660 (R.S. § 5276).
 
 Words “jurisdiction of the” were omitted in view of the definition of United States in section 5 of this title.
 
@@ -632,7 +632,7 @@ Sec. 3. Executive Order No. 10347, April 18, 1952, as amended by Executive Order
 
 Richard Nixon.
 
-## § 3194. Transportation of fugitive by receiving agent
+## § 3194. Transportation of fugitive by receiving agent
 
 Any agent appointed as provided in section 3182 of this title who receives the fugitive into his custody is empowered to transport him to the State or Territory from which he has fled.
 
@@ -640,13 +640,13 @@ Any agent appointed as provided in section 3182 of this title who receives the f
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 663 (R.S. § 5279).
+Based on title 18, U.S.C., 1940 ed., § 663 (R.S. § 5279).
 
 Last sentence of said section 663, relating to rescue of such fugitive, was omitted as covered by section 752 of this title, the punishment provision of which is based on later statutes. (See reviser’s note under that section.)
 
 Minor changes were made in phraseology.
 
-## § 3195. Payment of fees and costs
+## § 3195. Payment of fees and costs
 
 All costs or expenses incurred in any extradition proceeding in apprehending, securing, and transmitting a fugitive shall be paid by the demanding authority.
 
@@ -654,11 +654,11 @@ All witness fees and costs of every nature in cases of international extradition
 
 The Attorney General shall certify to the Secretary of State the amounts to be paid to the United States on account of said fees and costs in extradition cases by the foreign government requesting the extradition, and the Secretary of State shall cause said amounts to be collected and transmitted to the Attorney General for deposit in the Treasury of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 825; Pub. L. 90–578, title III, § 301(a)(3), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(June 25, 1948, ch. 645, 62 Stat. 825; Pub. L. 90–578, title III, § 301(a)(3), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 662, 662c, 662d, 668 (R.S. § 5278; Aug. 3, 1882, ch. 378, § 4, 22 Stat. 216; June 28, 1902, ch. 1301, § 1, 32 Stat. 475; Mar. 22, 1934, ch. 73, §§ 2, 3, 48 Stat. 455).
+Based on title 18, U.S.C., 1940 ed., §§ 662, 662c, 662d, 668 (R.S. § 5278; Aug. 3, 1882, ch. 378, § 4, 22 Stat. 216; June 28, 1902, ch. 1301, § 1, 32 Stat. 475; Mar. 22, 1934, ch. 73, §§ 2, 3, 48 Stat. 455).
 
 First paragraph of this section consolidates provisions as to costs and expenses from said sections 662, 662c, and 662d.
 
@@ -684,8 +684,8 @@ Words “magistrate judge” substituted for “magistrate” wherever appearing
 
 Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of a date when implementation of amendment by appointment of magistrates [now United States magistrate judges] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
-## § 3196. Extradition of United States citizens
+## § 3196. Extradition of United States citizens
 
 If the applicable treaty or convention does not obligate the United States to extradite its citizens to a foreign country, the Secretary of State may, nevertheless, order the surrender to that country of a United States citizen whose extradition has been requested by that country if the other requirements of that treaty or convention are met.
 
-(Added Pub. L. 101–623, § 11(a), Nov. 21, 1990, 104 Stat. 3356.)
+(Added Pub. L. 101–623, § 11(a), Nov. 21, 1990, 104 Stat. 3356.)

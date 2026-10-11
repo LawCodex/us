@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 173—GOVERNMENT LOSSES IN SHIPMENT
 
-## § 17301. Definitions
+## § 17301. Definitions
 
 In this chapter, the following definitions apply:
 
@@ -49,7 +49,7 @@ In this chapter, the following definitions apply:
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17301(1) | 40:729(d). | July 8, 1937, ch. 444, § 7, 50 Stat. 480; Aug. 10, 1939, ch. 665, §3, 53 Stat. 1359. |
+| 17301(1) | 40:729(d). | July 8, 1937, ch. 444, § 7, 50 Stat. 480; Aug. 10, 1939, ch. 665, §3, 53 Stat. 1359. |
 | 17301(2) | 40:729(b). |  |
 | 17301(3) | 40:729(a). |  |
 | 17301(4) | 40:729(c). |  |
@@ -62,7 +62,7 @@ In clause (4)(A), the words “or laws” are omitted because of 1:1. The words 
 
 In clause (4)(B), the word “duly” is omitted as unnecessary.
 
-## § 17302. Compliance
+## § 17302. Compliance
 
 **(a) Prescribing Regulations.—** With the approval of the President, the Secretary of the Treasury and the United States Postal Service jointly shall prescribe regulations governing the shipment of valuables by an executive department, independent establishment, agency, wholly owned Government corporation, officer, or employee of the Federal Government, with a view to minimizing the risk of loss and destruction of, and damage to, valuables in shipment.
 
@@ -74,7 +74,7 @@ In clause (4)(B), the word “duly” is omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17302 | 40:721. | July 8, 1937, ch. 444, § 1, 50 Stat. 479. |
+| 17302 | 40:721. | July 8, 1937, ch. 444, § 1, 50 Stat. 479. |
 
 In subsection (a), the words “As soon as practicable after July 8, 1937” are omitted as obsolete. The words “United States Postal Service” are substituted for “Postmaster General” in section 1 of the Government Losses in Shipment Act (ch. 444, 50 Stat. 479) because of section 4(a) of the Postal Reorganization Act (Public Law 91–375, 84 Stat. 773).
 
@@ -84,9 +84,9 @@ In subsection (b), the words “After the effective date of such regulations, wh
 
 **Delegation of Functions**
 
-For power of Secretary of the Treasury and United States Postal Service to prescribe, without approval of President, regulations under section 721 of former Title 40, Public Buildings, Property, and Works (which was repealed and reenacted as this section by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304), see section 3(a) of Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, set out as a note under section 301 of Title 3, The President.
+For power of Secretary of the Treasury and United States Postal Service to prescribe, without approval of President, regulations under section 721 of former Title 40, Public Buildings, Property, and Works (which was repealed and reenacted as this section by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304), see section 3(a) of Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, set out as a note under section 301 of Title 3, The President.
 
-## § 17303. Fund for the payment of Government losses in shipment
+## § 17303. Fund for the payment of Government losses in shipment
 
 **(a) Establishment.—** There is a revolving fund in the Treasury known as “the fund for the payment of Government losses in shipment”.
 
@@ -108,9 +108,9 @@ For power of Secretary of the Treasury and United States Postal Service to presc
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17303(a) | 40:722 (3d sentence words before 2d comma). | July 8, 1937, ch. 444, § 2, 50 Stat. 479. |
+| 17303(a) | 40:722 (3d sentence words before 2d comma). | July 8, 1937, ch. 444, § 2, 50 Stat. 479. |
 | 17303(b) | 40:722 (1st sentence words after 5th comma). |  |
-|  | 40:723 (2d sentence 2d proviso). | July 8, 1937, ch. 444, § 3 (2d sentence 2d, last provisos, last sentence), 50 Stat. 480; Aug. 10, 1939, ch. 665, § 1, 53 Stat. 1358; Pub. L. 91–375, § 6(m)(4), Aug. 12, 1970, 84 Stat. 782. |
+|  | 40:723 (2d sentence 2d proviso). | July 8, 1937, ch. 444, § 3 (2d sentence 2d, last provisos, last sentence), 50 Stat. 480; Aug. 10, 1939, ch. 665, § 1, 53 Stat. 1358; Pub. L. 91–375, § 6(m)(4), Aug. 12, 1970, 84 Stat. 782. |
 | 17303(c) | 40:723 (2d sentence last proviso). |  |
 | 17303(d) | 40:723 (last sentence). |  |
 | 17303(e) | 40:722 (1st sentence words before 5th comma, 2d sentence, 3d sentence words after 2d comma, last sentence). |  |
@@ -122,7 +122,7 @@ In subsection (b), the text of 40:723 (2d sentence 2d proviso) is omitted as obs
 
 In subsection (e), the text of 40:722 (1st sentence words before 5th comma, 2d sentence, 3d sentence words after 2d comma, and last sentence) and the words “Beginning in fiscal year 1995 and thereafter” in 40:722a are omitted as obsolete. The words “for the fund” are substituted for “to make payments for the replacement of valuables, or the value thereof, lost, destroyed, or damaged in the course of shipments effected pursuant to section 721 of this title” for clarity and to eliminate unnecessary words.
 
-## § 17304. Claim for replacement
+## § 17304. Claim for replacement
 
 **(a) Presentation of Claim.—** When valuables that have been shipped in accordance with regulations prescribed under section 17302 of this title are lost, destroyed, or damaged, a claim in writing for replacement shall be made on the Secretary of the Treasury.
 
@@ -138,13 +138,13 @@ In subsection (e), the text of 40:722 (1st sentence words before 5th comma, 2d s
 
 **(c) Decision of Secretary Not Reviewable.—** The decision of the Secretary that a loss, destruction, or damage has occurred or that a shipment was made substantially in accordance with regulations is final and conclusive and is not subject to review by any other officer of the Government.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1281; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1281; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17304(a), (b)(1) | 40:723 (1st sentence). | July 8, 1937, ch. 444, § 3 (1st sentence, 2d sentence words before 2d proviso), 50 Stat. 479. |
+| 17304(a), (b)(1) | 40:723 (1st sentence). | July 8, 1937, ch. 444, § 3 (1st sentence, 2d sentence words before 2d proviso), 50 Stat. 479. |
 | 17304(b)(2) | 40:723 (2d sentence 1st proviso). |  |
 | 17304(c) | 40:723 (2d sentence words before 1st proviso). |  |
 
@@ -156,7 +156,7 @@ In subsection (c), the words “Notwithstanding any provision of law to the cont
 
 2004—Subsec. (b)(2)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-## § 17305. Replacing lost, destroyed, or damaged stamps, securities, obligations, or money
+## § 17305. Replacing lost, destroyed, or damaged stamps, securities, obligations, or money
 
 Stamps, securities, or other obligations of the Federal Government, or money lost, destroyed, or damaged while in the custody or possession of, or charged to, the United States Postal Service while it is acting as agent for, or on behalf of, the Secretary of the Treasury for the sale of the stamps, securities, or obligations and for the collection of the money, shall be replaced out of the fund described in section 17303 of this title under regulations the Secretary may prescribe, regardless of how the loss, destruction, or damage occurs.
 
@@ -166,11 +166,11 @@ Stamps, securities, or other obligations of the Federal Government, or money los
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17305 | 40:724. | July 8, 1937, ch. 444, § 3a, as added Aug. 10, 1939, ch. 665, § 2, 53 Stat. 1358; Pub. L. 91–375, § 6(m)(5), Aug. 12, 1970, 84 Stat. 783. |
+| 17305 | 40:724. | July 8, 1937, ch. 444, § 3a, as added Aug. 10, 1939, ch. 665, § 2, 53 Stat. 1358; Pub. L. 91–375, § 6(m)(5), Aug. 12, 1970, 84 Stat. 783. |
 
 The words “occurring heretofore or hereafter, but not prior to February 4, 1935” are omitted as obsolete. The words “United States Postal Service” are substituted for “Post Office Department or Postal Service” in section 3a of the Government Losses in Shipment Act (ch. 444), as added by section 2 of the Act of August 10, 1939 (ch. 665, 53 Stat. 1358), because of sections 4(a) and 6(*o*) of the Postal Reorganization Act (Public Law 91–375, 84 Stat. 773, 783). The words “Secretary of the Treasury” are substituted for “Treasury Department” because of 31:301(b).
 
-## § 17306. Agreements of indemnity
+## § 17306. Agreements of indemnity
 
 **(a) Definition.—** In this section, the term “Federal Government” includes wholly owned Government corporations, and officers and employees of the Government or its executive departments, independent establishments, and agencies while acting in their official capacity.
 
@@ -190,12 +190,12 @@ The words “occurring heretofore or hereafter, but not prior to February 4, 193
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17306(a) | 40:729(a) (last sentence). | July 8, 1937, ch. 444, § 7(a) (last sentence), 50 Stat. 480; Aug. 10, 1939, ch. 665, § 3, 53 Stat. 1359. |
-| 17306(b) | 40:725 (1st sentence words before proviso). | July 8, 1937, ch. 444, § 3b, as added Aug. 10, 1939, ch. 665, § 2, 53 Stat. 1359. |
+| 17306(a) | 40:729(a) (last sentence). | July 8, 1937, ch. 444, § 7(a) (last sentence), 50 Stat. 480; Aug. 10, 1939, ch. 665, § 3, 53 Stat. 1359. |
+| 17306(b) | 40:725 (1st sentence words before proviso). | July 8, 1937, ch. 444, § 3b, as added Aug. 10, 1939, ch. 665, § 2, 53 Stat. 1359. |
 | 17306(c) | 40:725 (1st sentence proviso). |  |
 | 17306(d) | 40:725 (last sentence). |  |
 
-## § 17307. Purchase of insurance
+## § 17307. Purchase of insurance
 
 An executive department, independent establishment, agency, wholly owned Government corporation, officer, or employee may expend money, or incur an obligation, for insurance, or for the payment of premiums on insurance, against loss, destruction, or damage in the shipment of valuables only as specifically authorized by the Secretary of the Treasury. The Secretary may give the authorization if the Secretary finds that the risk of loss, destruction, or damage in the shipment cannot be guarded against adequately by the facilities of the Federal Government or that adequate replacement cannot be provided under this chapter.
 
@@ -205,11 +205,11 @@ An executive department, independent establishment, agency, wholly owned Governm
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17307 | 40:726. | July 8, 1937, ch. 444, § 4, 50 Stat. 480. |
+| 17307 | 40:726. | July 8, 1937, ch. 444, § 4, 50 Stat. 480. |
 
 The words “On and after the effective date of the regulations prescribed under section 721 of this title” are omitted as obsolete. The words “the circumstances are such that” are omitted as unnecessary.
 
-## § 17308. Presumption of lawful conduct
+## § 17308. Presumption of lawful conduct
 
 For purposes of the propriety of an act or omission related to a shipment to which the regulations prescribed under section 17302 of this title apply, every officer and employee of the Federal Government and every individual acting on behalf of a wholly owned Government corporation who makes a shipment of valuables in good faith under, and substantially in accordance with, the regulations is deemed to be acting in the faithful execution of the officer’s, employee’s, or individual’s duties of office and in full performance of any conditions of the officer’s, employee’s, or individual’s bond and oath of office.
 
@@ -219,9 +219,9 @@ For purposes of the propriety of an act or omission related to a shipment to whi
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17308 | 40:727. | July 8, 1937, ch. 444, § 5, 50 Stat. 480. |
+| 17308 | 40:727. | July 8, 1937, ch. 444, § 5, 50 Stat. 480. |
 
-## § 17309. Rules and regulations
+## § 17309. Rules and regulations
 
 **(a) General Authority.—** With the approval of the President, the Secretary of the Treasury may prescribe regulations necessary to carry out the duties and powers vested in the Secretary under this chapter.
 
@@ -233,11 +233,11 @@ For purposes of the propriety of an act or omission related to a shipment to whi
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 17309(a) | 40:728 (words before 3d comma). | July 8, 1937, ch. 444, § 6, 50 Stat. 480. |
+| 17309(a) | 40:728 (words before 3d comma). | July 8, 1937, ch. 444, § 6, 50 Stat. 480. |
 | 17309(b) | 40:728 (words after 3d comma). |  |
 
 **Executive Documents**
 
 **Delegation of Functions**
 
-For delegation to Secretary of the Treasury of authority vested in President by section 728 of former Title 40, Public Buildings, Property, and Works (which was repealed and reenacted as this section by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304), see section 2(a) of Ex. Ord. No. 10289, eff. Sept. 17, 1951, 16 F.R. 9409, set out as a note under section 301 of Title 3, The President.
+For delegation to Secretary of the Treasury of authority vested in President by section 728 of former Title 40, Public Buildings, Property, and Works (which was repealed and reenacted as this section by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304), see section 2(a) of Ex. Ord. No. 10289, eff. Sept. 17, 1951, 16 F.R. 9409, set out as a note under section 301 of Title 3, The President.

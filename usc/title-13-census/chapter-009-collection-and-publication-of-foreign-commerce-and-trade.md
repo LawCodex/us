@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2002—Pub. L. 107–228, div. B, title XIV, § 1404(f)(2), Sept. 30, 2002, 116 Stat. 1456, added item 305 and struck out former item 305 “Violations, penalties”.
+2002—Pub. L. 107–228, div. B, title XIV, § 1404(f)(2), Sept. 30, 2002, 116 Stat. 1456, added item 305 and struck out former item 305 “Violations, penalties”.
 
-## § 301. Collection and publication
+## § 301. Collection and publication
 
 **(a)** The Secretary is authorized to collect information from all persons exporting from, or importing into, the United States and the noncontiguous areas over which the United States exercises sovereignty, jurisdiction, or control, and from all persons engaged in trade between the United States and such noncontiguous areas and between those areas, or from the owners, or operators of carriers engaged in such foreign commerce or trade, and shall compile and publish such information pertaining to exports, imports, trade, and transportation relating thereto, as he deems necessary or appropriate to enable him to foster, promote, develop, and further the commerce, domestic and foreign, of the United States and for other lawful purposes.
 
@@ -67,7 +67,7 @@ The data for paragraphs (1), (2), (3), (5), and (6) shall be reported separately
 
 **(h)** The Secretary is authorized to require by regulation the filing of Shippers’ Export Declarations under this chapter through an automated and electronic system for the filing of export information established by the Department of the Treasury.
 
-(Added Pub. L. 87–826, § 2, Oct. 15, 1962, 76 Stat. 951; amended Pub. L. 93–618, title VI, § 609(a), Jan. 3, 1975, 88 Stat. 2074; Pub. L. 96–39, title XI, § 1108(a), July 26, 1979, 93 Stat. 313; Pub. L. 96–275, § 1, June 17, 1980, 94 Stat. 539; Pub. L. 100–418, title I, §§ 1214(a)(2), 1931(a), 1932, Aug. 23, 1988, 102 Stat. 1155, 1320; Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, § 1252(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–506; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(M), June 18, 2008, 122 Stat. 1820.)
+(Added Pub. L. 87–826, § 2, Oct. 15, 1962, 76 Stat. 951; amended Pub. L. 93–618, title VI, § 609(a), Jan. 3, 1975, 88 Stat. 2074; Pub. L. 96–39, title XI, § 1108(a), July 26, 1979, 93 Stat. 313; Pub. L. 96–275, § 1, June 17, 1980, 94 Stat. 539; Pub. L. 100–418, title I, §§ 1214(a)(2), 1931(a), 1932, Aug. 23, 1988, 102 Stat. 1155, 1320; Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, § 1252(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–506; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(M), June 18, 2008, 122 Stat. 1820.)
 
 **Editorial Notes**
 
@@ -75,9 +75,9 @@ The data for paragraphs (1), (2), (3), (5), and (6) shall be reported separately
 
 The Harmonized Tariff Schedule of the United States, referred to in subsecs. (b), (e), and (f), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
-The Food for Peace Act, referred to in subsecs. (c)(1) and (d)(1), is act July 10, 1954, ch. 649, 68 Stat. 454, which is classified generally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, referred to in subsecs. (c)(1) and (d)(1), is act July 10, 1954, ch. 649, 68 Stat. 454, which is classified generally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (c)(2) and (d)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (c)(2) and (d)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 **Amendments**
 
@@ -85,15 +85,15 @@ The Foreign Assistance Act of 1961, referred to in subsecs. (c)(2) and (d)(2), i
 
 1999—Subsec. (h). Pub. L. 106–113 added subsec. (h).
 
-1988—Subsec. (b). Pub. L. 100–418, § 1214(a)(2)(A), substituted “Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes and general statistical note 1 thereof” for “Tariff Schedules of the United States Annotated and general statistical headnote 1 thereof”.
+1988—Subsec. (b). Pub. L. 100–418, § 1214(a)(2)(A), substituted “Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes and general statistical note 1 thereof” for “Tariff Schedules of the United States Annotated and general statistical headnote 1 thereof”.
 
-Subsec. (e). Pub. L. 100–418, § 1932, inserted at end “The information required to be reported under this subsection shall be reported in a form that is adjusted for economic inflation or deflation (on a constant dollar basis consistent with the reporting of the National Income and Product Accounts), and in a form that is not so adjusted.”
+Subsec. (e). Pub. L. 100–418, § 1932, inserted at end “The information required to be reported under this subsection shall be reported in a form that is adjusted for economic inflation or deflation (on a constant dollar basis consistent with the reporting of the National Income and Product Accounts), and in a form that is not so adjusted.”
 
-Pub. L. 100–418, § 1931(a), struck out at end “The values and balance of trade required to be reported by this subsection shall be released no later than 48 hours before the release of any other government statistics concerning values of United States imports or United States balance of trade, or statistics from which such values or balance may be derived.”
+Pub. L. 100–418, § 1931(a), struck out at end “The values and balance of trade required to be reported by this subsection shall be released no later than 48 hours before the release of any other government statistics concerning values of United States imports or United States balance of trade, or statistics from which such values or balance may be derived.”
 
-Pub. L. 100–418, § 1214(a)(2)(B), substituted “heading or subheading in the Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes” for “item in the Tariff Schedules of the United States Annotated” in first sentence.
+Pub. L. 100–418, § 1214(a)(2)(B), substituted “heading or subheading in the Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes” for “item in the Tariff Schedules of the United States Annotated” in first sentence.
 
-Subsec. (f). Pub. L. 100–418, § 1214(a)(2)(C), substituted “heading or subheading in the Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes” for “item of the Tariff Schedules of the United States Annotated” and “under that heading or subheading” for “under that item”, in two places.
+Subsec. (f). Pub. L. 100–418, § 1214(a)(2)(C), substituted “heading or subheading in the Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes” for “item of the Tariff Schedules of the United States Annotated” and “under that heading or subheading” for “under that item”, in two places.
 
 1980—Subsec. (g). Pub. L. 96–275 added subsec. (g).
 
@@ -109,7 +109,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, § 1252(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–506, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 270 days after the Secretary of Commerce, the Secretary of the Treasury, and the Director of the National Institute of Standards and Technology jointly provide a certification to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives that a secure Automated Export System available through the Internet that is capable of handling the expected volume of information required to be filed under subsection (b) [set out below], plus the anticipated volume from voluntary use of the Automated Export System, has been successfully implemented and tested and is fully functional with respect to reporting all items on the United States Munitions List, including their quantities and destinations.” [The Automated Export System Certification Report was submitted to the Committee on Foreign Relations of the Senate on June 11, 2001, and to the Committee on International Relations of the House of Representatives on May 31, 2001. See 66 F.R. 39006.]
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, § 1252(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–506, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 270 days after the Secretary of Commerce, the Secretary of the Treasury, and the Director of the National Institute of Standards and Technology jointly provide a certification to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives that a secure Automated Export System available through the Internet that is capable of handling the expected volume of information required to be filed under subsection (b) [set out below], plus the anticipated volume from voluntary use of the Automated Export System, has been successfully implemented and tested and is fully functional with respect to reporting all items on the United States Munitions List, including their quantities and destinations.” [The Automated Export System Certification Report was submitted to the Committee on Foreign Relations of the Senate on June 11, 2001, and to the Committee on International Relations of the House of Representatives on May 31, 2001. See 66 F.R. 39006.]
 
 **Effective Date of 1988 Amendment**
 
@@ -117,7 +117,7 @@ Amendment by section 1214(a)(2) of Pub. L. 100–418 effective Jan. 1, 1989, and
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–275, § 4, June 17, 1980, 94 Stat. 540, provided that:
+Pub. L. 96–275, § 4, June 17, 1980, 94 Stat. 540, provided that:
 
 > **“(a)** Except as provided in subsection (b), this Act, and the amendments made by this Act [amending this section and enacting provisions set out as a note under this section], shall become effective on the later of July 1, 1980, or the date of enactment of this Act [June 17, 1980].
 
@@ -125,19 +125,19 @@ Pub. L. 96–275, § 4, June 17, 1980, 94 Stat. 540, provided that:
 
 **Effective Date of 1979 Amendment**
 
-Pub. L. 96–39, title XI, § 1108(b), July 26, 1979, 93 Stat. 314, provided that: “The amendment made by subsection (a) [amending this section] shall apply to reports made after December 31, 1979.”
+Pub. L. 96–39, title XI, § 1108(b), July 26, 1979, 93 Stat. 314, provided that: “The amendment made by subsection (a) [amending this section] shall apply to reports made after December 31, 1979.”
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 93–618, title VI, § 609(b), Jan. 3, 1975, 88 Stat. 2075, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on January 1, 1975.”
+Pub. L. 93–618, title VI, § 609(b), Jan. 3, 1975, 88 Stat. 2075, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on January 1, 1975.”
 
 **Effective Date**
 
-Pub. L. 87–826, § 4, Oct. 15, 1962, 76 Stat. 953, provided that: “The provisions of this Act [enacting section 301 et seq. of this title and repealing sections 173, 174, 177, 179, 181, 184 to 187, and 193 of Title 15, Commerce and Trade, sections 92 and 95 of former Title 46, Shipping, and section 1486 of Title 48, Territories and Insular Possessions] shall take effect one hundred and eighty days after approval [Oct. 15, 1962], except that the last sentence of section 337, ‘Fifth’ of the Revised Statutes [section 174 of Title 15], and the requirement for oaths as found in section 4200 of the Revised Statutes [section 92 of former Title 46] shall be repealed effective on the date this Act is approved [Oct. 15, 1962].”
+Pub. L. 87–826, § 4, Oct. 15, 1962, 76 Stat. 953, provided that: “The provisions of this Act [enacting section 301 et seq. of this title and repealing sections 173, 174, 177, 179, 181, 184 to 187, and 193 of Title 15, Commerce and Trade, sections 92 and 95 of former Title 46, Shipping, and section 1486 of Title 48, Territories and Insular Possessions] shall take effect one hundred and eighty days after approval [Oct. 15, 1962], except that the last sentence of section 337, ‘Fifth’ of the Revised Statutes [section 174 of Title 15], and the requirement for oaths as found in section 4200 of the Revised Statutes [section 92 of former Title 46] shall be repealed effective on the date this Act is approved [Oct. 15, 1962].”
 
 **Regulations**
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, § 1252(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–506, provided that:
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, § 1252(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–506, provided that:
 
 > **“(1) In general.—** The Secretary of Commerce, with the concurrence of the Secretary of State, shall publish regulations in the Federal Register to require that, upon the effective date of those regulations, exporters (or their agents) who are required to file Shippers’ Export Declarations under chapter 9 of title 13, United States Code, file such Declarations through the Automated Export System with respect to exports of items on the United States Munitions List or the Commerce Control List.
 
@@ -151,7 +151,7 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, § 1252(b)], No
 
 **Improvements to the Automated Export System**
 
-Pub. L. 107–228, div. B, title XIV, § 1404(a)–(c), Sept. 30, 2002, 116 Stat. 1454, provided that:
+Pub. L. 107–228, div. B, title XIV, § 1404(a)–(c), Sept. 30, 2002, 116 Stat. 1454, provided that:
 
 > **“(a) Contribution to the Automated Export System.—** Of the amount provided under section 1402 of this Act [116 Stat. 1453], $250,000 is authorized to be available for the purpose of—
 
@@ -173,15 +173,15 @@ Pub. L. 107–228, div. B, title XIV, § 1404(a)–(c), Sept. 30, 2002, 116 St
 
 **Volumetric Index**
 
-Pub. L. 100–418, title I, § 1931(b), Aug. 23, 1988, 102 Stat. 1320, required the Director of the Census to conduct a study, to be reported to Congress by one year after Aug. 23, 1988, to determine the feasibility of developing and publishing an index that measures the real volume of merchandise trade on a monthly basis, which would be reported simultaneously with the balance of merchandise trade for the United States.
+Pub. L. 100–418, title I, § 1931(b), Aug. 23, 1988, 102 Stat. 1320, required the Director of the Census to conduct a study, to be reported to Congress by one year after Aug. 23, 1988, to determine the feasibility of developing and publishing an index that measures the real volume of merchandise trade on a monthly basis, which would be reported simultaneously with the balance of merchandise trade for the United States.
 
 **Congressional Access to Information**
 
-Pub. L. 96–275, § 3, June 17, 1980, 94 Stat. 540, provided that: “Nothing in this Act [enacting subsec. (g) of this section, amending section 93 of former Title 46, Shipping, and enacting provisions set out as notes under this section] shall be construed as authorizing the withholding of information from Congress.”
+Pub. L. 96–275, § 3, June 17, 1980, 94 Stat. 540, provided that: “Nothing in this Act [enacting subsec. (g) of this section, amending section 93 of former Title 46, Shipping, and enacting provisions set out as notes under this section] shall be construed as authorizing the withholding of information from Congress.”
 
 **Definitions**
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, subtitle E, § 1256], Nov. 29, 1999, 113 Stat. 1536, 1501A–507, provided that:
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, subtitle E, § 1256], Nov. 29, 1999, 113 Stat. 1536, 1501A–507, provided that:
 
 > “In this subtitle [amending this section and enacting provisions set out as notes above]:
 
@@ -193,25 +193,25 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XII, subtitle E, § 
 
 > **“(4) United states munitions list.—** The term ‘United States Munitions List’ means the list of items controlled under section 38 of the Arms Export Control Act (22 U.S.C. 2778).”
 
-## § 302. Rules, regulations, and orders
+## § 302. Rules, regulations, and orders
 
 The Secretary may make such rules, regulations, and orders as he deems necessary or appropriate to carry out the provisions of this chapter. Any rules, regulations, or orders issued pursuant to this authority may be established in such form or manner, may contain such classifications or differentiations, and may provide for such adjustments and reasonable exceptions as in the judgment of the Secretary are necessary or proper to effectuate the purpose of this chapter, or to prevent circumvention or evasion of any rule, regulation, or order issued hereunder. The Secretary may also provide by rule or regulation, for such confidentiality, publication, or disclosure, of information collected hereunder as he may deem necessary or appropriate in the public interest. Rules, regulations, and orders, or amendments thereto shall have the concurrence of the Secretary of the Treasury prior to promulgation.
 
-(Added Pub. L. 87–826, § 2, Oct. 15, 1962, 76 Stat. 951.)
+(Added Pub. L. 87–826, § 2, Oct. 15, 1962, 76 Stat. 951.)
 
-## § 303. Secretary of Treasury functions
+## § 303. Secretary of Treasury functions
 
 To assist the Secretary to carry out the provisions of this chapter, the Secretary of the Treasury shall collect information in the form and manner prescribed by the regulations issued pursuant to this chapter from persons engaged in foreign commerce or trade and from the owners or operators of carriers.
 
-(Added Pub. L. 87–826, § 2, Oct. 15, 1962, 76 Stat. 951; amended Pub. L. 107–228, div. B, title XIV, § 1404(d), Sept. 30, 2002, 116 Stat. 1454.)
+(Added Pub. L. 87–826, § 2, Oct. 15, 1962, 76 Stat. 951; amended Pub. L. 107–228, div. B, title XIV, § 1404(d), Sept. 30, 2002, 116 Stat. 1454.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Pub. L. 107–228 struck out “, other than by mail,” after “foreign commerce or trade”.
+2002—Pub. L. 107–228 struck out “, other than by mail,” after “foreign commerce or trade”.
 
-## § 304. Filing export information, delayed filings, penalties for failure to file
+## § 304. Filing export information, delayed filings, penalties for failure to file
 
 **(a)** The information or reports in connection with the exportation or transportation of cargo required to be filed by carriers with the Secretary of the Treasury under any rule, regulation, or order issued pursuant to this chapter may be filed after the departure of such carrier from the port or place of exportation or transportation, whether such departing carrier is destined directly to a foreign port or place or to a noncontiguous area, or proceeds by way of other ports or places of the United States, provided that a bond in an approved form in a penal sum of $10,000 is filed with the Secretary of the Treasury. The Secretary of Commerce may, by a rule, regulation, or order issued in conformity herewith, prescribe a maximum period after such departure during which the required information or reports may be filed. In the event any such information or report is not filed within such prescribed period, a penalty not to exceed $1,000 for each day’s delinquency beyond the prescribed period, but not more than $10,000 per violation shall be exacted. Civil suit may be instituted in the name of the United States against the principal and surety for the recovery of any penalties that may accrue and be exacted in accordance with the terms of the bond.
 
@@ -219,17 +219,17 @@ To assist the Secretary to carry out the provisions of this chapter, the Secreta
 
 **(c)** The Secretary may remit or mitigate any penalty incurred for violations of this section and regulations issued pursuant thereto if, in his opinion, they were incurred without willful negligence or fraud, or other circumstances justify a remission or mitigation.
 
-(Added Pub. L. 87–826, § 2, Oct. 15, 1962, 76 Stat. 952; amended Pub. L. 107–228, div. B, title XIV, § 1404(e), Sept. 30, 2002, 116 Stat. 1454.)
+(Added Pub. L. 87–826, § 2, Oct. 15, 1962, 76 Stat. 952; amended Pub. L. 107–228, div. B, title XIV, § 1404(e), Sept. 30, 2002, 116 Stat. 1454.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Subsec. (a). Pub. L. 107–228, § 1404(e)(1), substituted “a penal sum of $10,000” for “the penal sum of $1,000” in first sentence and “a penalty not to exceed $1,000 for each day’s delinquency beyond the prescribed period, but not more than $10,000 per violation” for “a penalty not to exceed $100 for each day’s delinquency beyond the prescribed period, but not more than $1,000,” in third sentence.
+2002—Subsec. (a). Pub. L. 107–228, § 1404(e)(1), substituted “a penal sum of $10,000” for “the penal sum of $1,000” in first sentence and “a penalty not to exceed $1,000 for each day’s delinquency beyond the prescribed period, but not more than $10,000 per violation” for “a penalty not to exceed $100 for each day’s delinquency beyond the prescribed period, but not more than $1,000,” in third sentence.
 
-Subsecs. (b), (c). Pub. L. 107–228, § 1404(e)(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
+Subsecs. (b), (c). Pub. L. 107–228, § 1404(e)(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-## § 305. Penalties for unlawful export information activities
+## § 305. Penalties for unlawful export information activities
 
 **(a) Criminal Penalties.—**
 
@@ -267,9 +267,9 @@ Subsecs. (b), (c). Pub. L. 107–228, § 1404(e)(2), (3), added subsec. (b) an
 
 **(1) By the secretary of commerce.—** The Secretary of Commerce may designate officers or employees of the Office of Export Enforcement to conduct investigations pursuant to this chapter. In conducting such investigations, those officers or employees may, to the extent necessary or appropriate to the enforcement of this chapter, exercise such authorities as are conferred upon them by other laws of the United States, subject to policies and procedures approved by the Attorney General.
 
-**(2) By the commissioner of customs.—** The Commissioner of Customs 1
+**(2) By the commissioner of customs.—** The Commissioner of Customs 1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 may designate officers or employees of the Customs Service to enforce the provisions of this chapter, or to conduct investigations pursuant to this chapter.
 
@@ -277,7 +277,7 @@ may designate officers or employees of the Customs Service to enforce the provis
 
 **(f) Exemption.—** The criminal fines provided for in this section are exempt from the provisions of section 3571 of title 18, United States Code.
 
-(Added Pub. L. 87–826, § 2, Oct. 15, 1962, 76 Stat. 952; amended Pub. L. 107–228, div. B, title XIV, § 1404(f)(1), Sept. 30, 2002, 116 Stat. 1455; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+(Added Pub. L. 87–826, § 2, Oct. 15, 1962, 76 Stat. 952; amended Pub. L. 107–228, div. B, title XIV, § 1404(f)(1), Sept. 30, 2002, 116 Stat. 1455; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 **Editorial Notes**
 
@@ -295,14 +295,14 @@ Reference to Commissioner of Customs deemed to be reference to Commissioner of U
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-## § 306. Delegation of functions
+## § 306. Delegation of functions
 
 Subject to the concurrence of the head of the department or agency concerned, the Secretary may make such provisions as he shall deem appropriate, authorizing the performance by any officer, agency, or employee of the United States Government departments or offices, or the governments of any areas over which the United States exercises sovereignty, jurisdiction, or control, of any function of the Secretary, contained in this chapter.
 
-(Added Pub. L. 87–826, § 2, Oct. 15, 1962, 76 Stat. 952.)
+(Added Pub. L. 87–826, § 2, Oct. 15, 1962, 76 Stat. 952.)
 
-## § 307. Relationship to general census law
+## § 307. Relationship to general census law
 
 The following sections only, 1, 2, 3, 4, 5, 6, 7, 11, 21, 22, 23, 24, 211, 212, 213, and 214, of chapters 1 through 7 of this title are applicable to this chapter.
 
-(Added Pub. L. 87–826, § 2, Oct. 15, 1962, 76 Stat. 952.)
+(Added Pub. L. 87–826, § 2, Oct. 15, 1962, 76 Stat. 952.)

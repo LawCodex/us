@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1978—Pub. L. 95–539, § 2(b), Oct. 28, 1978, 92 Stat. 2042, added items 1827 and 1828.
+1978—Pub. L. 95–539, § 2(b), Oct. 28, 1978, 92 Stat. 2042, added items 1827 and 1828.
 
-1970—Pub. L. 91–563, § 5(b), Dec. 19, 1970, 84 Stat. 1478, struck out item 1823 “United States officers and employees”.
+1970—Pub. L. 91–563, § 5(b), Dec. 19, 1970, 84 Stat. 1478, struck out item 1823 “United States officers and employees”.
 
-Pub. L. 91–452, title III, § 301(b), Oct. 15, 1970, 84 Stat. 932, added item 1826.
+Pub. L. 91–452, title III, § 301(b), Oct. 15, 1970, 84 Stat. 932, added item 1826.
 
-## § 1821. Per diem and mileage generally; subsistence
+## § 1821. Per diem and mileage generally; subsistence
 
 **(a)**
 
@@ -51,25 +51,25 @@ Pub. L. 91–452, title III, § 301(b), Oct. 15, 1970, 84 Stat. 932, added ite
 
 **(2)** A subsistence allowance for a witness shall be paid in an amount not to exceed the maximum per diem allowance prescribed by the Administrator of General Services, pursuant to section 5702(a) of title 5, for official travel in the area of attendance by employees of the Federal Government.
 
-**(3)** A subsistence allowance for a witness attending in an area designated by the Administrator of General Services as a high-cost area shall be paid in an amount not to exceed the maximum actual subsistence allowance prescribed by the Administrator, pursuant to section 5702(c)(B) 1
+**(3)** A subsistence allowance for a witness attending in an area designated by the Administrator of General Services as a high-cost area shall be paid in an amount not to exceed the maximum actual subsistence allowance prescribed by the Administrator, pursuant to section 5702(c)(B) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 5, for official travel in such area by employees of the Federal Government.
 
 **(4)** When a witness is detained pursuant to section 3144 of title 18 for want of security for his appearance, he shall be entitled for each day of detention when not in attendance at court, in addition to his subsistence, to the daily attendance fee provided by subsection (b) of this section.
 
-**(e)** An alien who has been paroled into the United States for prosecution, pursuant to section 212(d)(5) of the Immigration and Nationality Act (8 U.S.C. 1182(d)(5)), or an alien who either has admitted belonging to a class of aliens who are deportable or has been determined pursuant to section 240 of such Act (8 U.S.C. 1252(b)) <sup>1</sup> to be deportable, shall be ineligible to receive the fees or allowances provided by this section.
+**(e)** An alien who has been paroled into the United States for prosecution, pursuant to section 212(d)(5) of the Immigration and Nationality Act (8 U.S.C. 1182(d)(5)), or an alien who either has admitted belonging to a class of aliens who are deportable or has been determined pursuant to section 240 of such Act (8 U.S.C. 1252(b)) <sup>1</sup> to be deportable, shall be ineligible to receive the fees or allowances provided by this section.
 
 **(f)** Any witness who is incarcerated at the time that his or her testimony is given (except for a witness to whom the provisions of section 3144 of title 18 apply) may not receive fees or allowances under this section, regardless of whether such a witness is incarcerated at the time he or she makes a claim for fees or allowances under this section.
 
-(June 25, 1948, ch. 646, 62 Stat. 950; May 10, 1949, ch. 96, 63 Stat. 65; May 24, 1949, ch. 139, § 94, 63 Stat. 103; Oct. 31, 1951, ch. 655, § 51(a), 65 Stat. 727; Sept. 3, 1954, ch. 1263, § 45, 68 Stat. 1242; Aug. 1, 1956, ch. 826, 70 Stat. 798; Pub. L. 90–274, § 102(b), Mar. 27, 1968, 82 Stat. 62; Pub. L. 95–535, § 1, Oct. 27, 1978, 92 Stat. 2033; Pub. L. 101–650, title III, §§ 314(a), 321, Dec. 1, 1990, 104 Stat. 5115, 5117; Pub. L. 102–417, § 2(a)–(c), Oct. 14, 1992, 106 Stat. 2138; Pub. L. 104–208, div. C, title III, § 308(g)(5)(E), Sept. 30, 1996, 110 Stat. 3009–623.)
+(June 25, 1948, ch. 646, 62 Stat. 950; May 10, 1949, ch. 96, 63 Stat. 65; May 24, 1949, ch. 139, § 94, 63 Stat. 103; Oct. 31, 1951, ch. 655, § 51(a), 65 Stat. 727; Sept. 3, 1954, ch. 1263, § 45, 68 Stat. 1242; Aug. 1, 1956, ch. 826, 70 Stat. 798; Pub. L. 90–274, § 102(b), Mar. 27, 1968, 82 Stat. 62; Pub. L. 95–535, § 1, Oct. 27, 1978, 92 Stat. 2033; Pub. L. 101–650, title III, §§ 314(a), 321, Dec. 1, 1990, 104 Stat. 5115, 5117; Pub. L. 102–417, § 2(a)–(c), Oct. 14, 1992, 106 Stat. 2138; Pub. L. 104–208, div. C, title III, § 308(g)(5)(E), Sept. 30, 1996, 110 Stat. 3009–623.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 28, U.S.C., 1940 ed., § 600c, section 1115(a) of title 26, U.S.C., 1940, Internal Revenue Code, and section 11–1514 of the D.C. Code, 1940 ed. (R.S. §§ 823, 848; Apr. 26, 1926, ch. 183, § 3, 44 Stat. 324; May 17, 1932, ch. 190, 47 Stat. 158; June 25, 1936, ch. 804, 49 Stat. 1921; Feb. 10, 1939, ch. 2, § 1115(a), 53 Stat. 160; Dec. 24, 1942, ch. 825, § 1, 56 Stat. 1088.
+Based on title 28, U.S.C., 1940 ed., § 600c, section 1115(a) of title 26, U.S.C., 1940, Internal Revenue Code, and section 11–1514 of the D.C. Code, 1940 ed. (R.S. §§ 823, 848; Apr. 26, 1926, ch. 183, § 3, 44 Stat. 324; May 17, 1932, ch. 190, 47 Stat. 158; June 25, 1936, ch. 804, 49 Stat. 1921; Feb. 10, 1939, ch. 2, § 1115(a), 53 Stat. 160; Dec. 24, 1942, ch. 825, § 1, 56 Stat. 1088.
 
 Section consolidates part of section 600c of title 28, U.S.C., 1940 ed., with section 1115(a) of title 26, U.S.C., 1940 ed., and section 11–1514 of the D.C. Code, 1940 ed.
 
@@ -87,13 +87,13 @@ By Senate amendments, all provisions relating to the Tax Court were eliminated. 
 
 **1949 Act**
 
-This section restores certain provisions of the original statute, R.S. § 848, which were inadvertently omitted from revised title 28, U.S.C., § 1821.
+This section restores certain provisions of the original statute, R.S. § 848, which were inadvertently omitted from revised title 28, U.S.C., § 1821.
 
 **Editorial Notes**
 
 **References in Text**
 
-Subsection (c) of section 5702 of title 5, referred to in subsec. (d)(3), which related to conditions under which an employee could be reimbursed for actual and necessary expenses of official travel when the maximum per diem allowance was less than these expenses, was repealed, and subsec. (e) of section 5702 of title 5, was redesignated as subsec. (c), by Pub. L. 99–234, title I, § 102, Jan. 2, 1986, 99 Stat. 1756.
+Subsection (c) of section 5702 of title 5, referred to in subsec. (d)(3), which related to conditions under which an employee could be reimbursed for actual and necessary expenses of official travel when the maximum per diem allowance was less than these expenses, was repealed, and subsec. (e) of section 5702 of title 5, was redesignated as subsec. (c), by Pub. L. 99–234, title I, § 102, Jan. 2, 1986, 99 Stat. 1756.
 
 Section 240 of the Immigration and Nationality Act, referred to in subsec. (e), is classified to section 1229a of Title 8, Aliens and Nationality.
 
@@ -101,11 +101,11 @@ Section 240 of the Immigration and Nationality Act, referred to in subsec. (e), 
 
 1996—Subsec. (e). Pub. L. 104–208 substituted “section 240” for “section 242(b)”.
 
-1992—Subsec. (d)(1). Pub. L. 102–417, § 2(b), struck out “(other than a witness who is incarcerated)” after “paid to a witness”.
+1992—Subsec. (d)(1). Pub. L. 102–417, § 2(b), struck out “(other than a witness who is incarcerated)” after “paid to a witness”.
 
-Subsec. (d)(4). Pub. L. 102–417, § 2(c), substituted “3144” for “3149”.
+Subsec. (d)(4). Pub. L. 102–417, § 2(c), substituted “3144” for “3149”.
 
-Subsec. (f). Pub. L. 102–417, § 2(a), added subsec. (f).
+Subsec. (f). Pub. L. 102–417, § 2(a), added subsec. (f).
 
 1990—Subsec. (b). Pub. L. 101–650 substituted “$40” for “$30”.
 
@@ -113,7 +113,7 @@ Subsec. (f). Pub. L. 102–417, § 2(a), added subsec. (f).
 
 1968—Pub. L. 90–274 increased the per diem allowance from $4 to $20, increased the mileage allowance from 8 cents per mile to 10 cents per mile, increased the daily subsistence allowance from $8 to $16, and directed that witnesses in the district courts for the districts of the Canal Zone, Guam, and the Virgin Islands receive the same fees and allowances provided in this section for witnesses in other district courts of the United States.
 
-1956—Act Aug. 1, 1956, substituted “, or before any person authorized to take his deposition pursuant to any rule or order” for “or person taking his disposition pursuant to any order”, increased the payments for mileage from 7 to 8 cents per mile and subsistence allowance from $5 to $8 per day, and authorized the computation of mileage on the basis of a uniform table of distances adopted by the Attorney General.
+1956—Act Aug. 1, 1956, substituted “, or before any person authorized to take his deposition pursuant to any rule or order” for “or person taking his disposition pursuant to any order”, increased the payments for mileage from 7 to 8 cents per mile and subsistence allowance from $5 to $8 per day, and authorized the computation of mileage on the basis of a uniform table of distances adopted by the Attorney General.
 
 1954—Act Sept. 3, 1954, struck out language which had restricted section’s applicability to those depositions taken pursuant to order of the court.
 
@@ -135,11 +135,11 @@ Amendment by Pub. L. 104–208 effective, with certain transitional provisions, 
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–417, § 2(d), Oct. 14, 1992, 106 Stat. 2138, provided that: “The amendments made by this section [amending this section] shall be effective on and after the date of the enactment of this act [Oct. 14, 1992] and shall apply to any witness who testified before such date and has not received any fee or allowance under section 1821 of title 28, United States Code, relating to such testi­mony.”
+Pub. L. 102–417, § 2(d), Oct. 14, 1992, 106 Stat. 2138, provided that: “The amendments made by this section [amending this section] shall be effective on and after the date of the enactment of this act [Oct. 14, 1992] and shall apply to any witness who testified before such date and has not received any fee or allowance under section 1821 of title 28, United States Code, relating to such testi­mony.”
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–535, § 2, Oct. 27, 1978, 92 Stat. 2034, provided that: “The amendments made by this Act [amending this section] shall take effect on October 1, 1978, or on the date of enactment [Oct. 27, 1978], whichever occurs later.”
+Pub. L. 95–535, § 2, Oct. 27, 1978, 92 Stat. 2034, provided that: “The amendments made by this Act [amending this section] shall take effect on October 1, 1978, or on the date of enactment [Oct. 27, 1978], whichever occurs later.”
 
 **Effective Date of 1968 Amendment**
 
@@ -147,15 +147,15 @@ Amendment by Pub. L. 90–274 effective 270 days after Mar. 27, 1968, except as 
 
 **Payment of Fact Witness Fee to Incarcerated Person Prohibited**
 
-Pub. L. 102–395, title I, § 108, Oct. 6, 1992, 106 Stat. 1841, provided that notwithstanding this section, no funds appropriated to the Department of Justice in fiscal year 1993 or any prior fiscal year would be obligated or expended to pay a fact witness fee to an incarcerated person in a court of the United States.
+Pub. L. 102–395, title I, § 108, Oct. 6, 1992, 106 Stat. 1841, provided that notwithstanding this section, no funds appropriated to the Department of Justice in fiscal year 1993 or any prior fiscal year would be obligated or expended to pay a fact witness fee to an incarcerated person in a court of the United States.
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 102–140, title I, § 110, Oct. 28, 1991, 105 Stat. 795.
+Pub. L. 102–140, title I, § 110, Oct. 28, 1991, 105 Stat. 795.
 
-Pub. L. 102–27, title II, § 102, Apr. 10, 1991, 105 Stat. 136.
+Pub. L. 102–27, title II, § 102, Apr. 10, 1991, 105 Stat. 136.
 
-## § 1822. Competency of interested persons; share of penalties payable
+## § 1822. Competency of interested persons; share of penalties payable
 
 Any person interested in a share of any fine, penalty or forfeiture incurred under any Act of Congress, may be examined as a witness in any proceeding for the recovery of such fine, penalty or forfeiture by any party thereto. Such examination shall not deprive the witness of his share.
 
@@ -163,15 +163,15 @@ Any person interested in a share of any fine, penalty or forfeiture incurred und
 
 **Historical and Revision Notes**
 
-Based on section 644 of title 18, U.S.C., 1940 ed., Criminal Code and Criminal Procedure, R.S. § 5295.
+Based on section 644 of title 18, U.S.C., 1940 ed., Criminal Code and Criminal Procedure, R.S. § 5295.
 
 Changes were made in phraseology.
 
-## [§ 1823. Repealed. Pub. L. 91–563, § 5(a), Dec. 19, 1970, 84 Stat. 1478]
+## [§ 1823. Repealed. Pub. L. 91–563, § 5(a), Dec. 19, 1970, 84 Stat. 1478]
 
-Section, acts June 25, 1948, ch. 646, 62 Stat. 950; May 24, 1949, ch. 139, § 95, 63 Stat. 103; Oct. 5, 1949, ch. 601, 63 Stat. 704; July 7, 1952, ch. 581, 66 Stat. 439; July 28, 1955, ch. 424, § 3, 69 Stat. 394, related to payment of witnesses fees to officers and employees of the United States. See sections 5515, 5537, 5751, and 6322 of Title 5, Government Organization and Employees.
+Section, acts June 25, 1948, ch. 646, 62 Stat. 950; May 24, 1949, ch. 139, § 95, 63 Stat. 103; Oct. 5, 1949, ch. 601, 63 Stat. 704; July 7, 1952, ch. 581, 66 Stat. 439; July 28, 1955, ch. 424, § 3, 69 Stat. 394, related to payment of witnesses fees to officers and employees of the United States. See sections 5515, 5537, 5751, and 6322 of Title 5, Government Organization and Employees.
 
-## § 1824. Mileage fees under summons as both witness and juror
+## § 1824. Mileage fees under summons as both witness and juror
 
 No constructive or double mileage fees shall be allowed by reason of any person being summoned both as a witness and a juror.
 
@@ -179,13 +179,13 @@ No constructive or double mileage fees shall be allowed by reason of any person 
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 602 (May 27, 1908, ch. 200, § 1, 35 Stat. 377).
+Based on title 28, U.S.C., 1940 ed., § 602 (May 27, 1908, ch. 200, § 1, 35 Stat. 377).
 
 Words “or as a witness in two or more cases pending in the same court and triable at the same term thereof” were omitted as covered by section 1821 of this title.
 
 Changes were made in phraseology.
 
-## § 1825. Payment of fees
+## § 1825. Payment of fees
 
 **(a)** In any case in which the United States or an officer or agency of the United States is a party, the Attorney General shall pay all fees of witnesses on the certificate of the United States attorney or assistant United States attorney, and in the proceedings before a United States magistrate judge, on the certificate of such magistrate judge, except that any fees of defense witnesses, other than experts, appearing pursuant to subpoenas issued upon approval of the court, shall be paid by the Attorney General—
 
@@ -201,11 +201,11 @@ Changes were made in phraseology.
 
 **(c)** Fees and mileage need not be tendered to a witness upon service of a subpoena issued on behalf of the United States or an officer or agency of the United States, upon service of a subpoena issued on behalf of a defendant represented by a Federal public defender, assistant Federal public defender, or other attorney appointed pursuant to section 3006A of title 18, or upon service of a subpoena issued on behalf of a party authorized to proceed in forma pauperis, if the payment of such fees and mileage is to be made by the Attorney General under this section.
 
-(June 25, 1948, ch. 646, 62 Stat. 951; Pub. L. 89–162, Sept. 2, 1965, 79 Stat. 618; Pub. L. 99–651, title I, § 104, Nov. 14, 1986, 100 Stat. 3645; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 116–260, div. B, title II, § 220, Dec. 27, 2020, 134 Stat. 1266.)
+(June 25, 1948, ch. 646, 62 Stat. 951; Pub. L. 89–162, Sept. 2, 1965, 79 Stat. 618; Pub. L. 99–651, title I, § 104, Nov. 14, 1986, 100 Stat. 3645; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 116–260, div. B, title II, § 220, Dec. 27, 2020, 134 Stat. 1266.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 600c, 608 (R.S. §§ 236, 823, 848, 855; June 10, 1921, ch. 18, § 305, 42 Stat. 24; Apr. 26, 1926, ch. 183, § 3, 44 Stat. 324; May 17, 1932, ch. 190, 47 Stat. 158; June 25, 1936, ch. 804, 49 Stat. 1921; Oct. 13, 1941, ch. 431, § 2, 55 Stat. 736; Dec. 24, 1942, ch. 825, § 1, 56 Stat. 1088).
+Based on title 28, U.S.C., 1940 ed., §§ 600c, 608 (R.S. §§ 236, 823, 848, 855; June 10, 1921, ch. 18, § 305, 42 Stat. 24; Apr. 26, 1926, ch. 183, § 3, 44 Stat. 324; May 17, 1932, ch. 190, 47 Stat. 158; June 25, 1936, ch. 804, 49 Stat. 1921; Oct. 13, 1941, ch. 431, § 2, 55 Stat. 736; Dec. 24, 1942, ch. 825, § 1, 56 Stat. 1088).
 
 Section consolidates parts of sections 600c and 608 of title 28, U.S.C., 1940 ed., relating to payment of witnesses. Other provisions of such sections are incorporated in sections 1821 and 1871 of this title.
 
@@ -225,9 +225,9 @@ Changes were made in phraseology.
 
 **Amendments**
 
-2020—Subsecs. (a), (b). Pub. L. 116–260, § 220(a), substituted “Attorney General” for “United States marshal for the district” in two places in introductory provisions.
+2020—Subsecs. (a), (b). Pub. L. 116–260, § 220(a), substituted “Attorney General” for “United States marshal for the district” in two places in introductory provisions.
 
-Subsec. (c). Pub. L. 116–260, § 220(b), substituted “Attorney General” for “United States marshal”.
+Subsec. (c). Pub. L. 116–260, § 220(b), substituted “Attorney General” for “United States marshal”.
 
 1986—Pub. L. 99–651 amended section generally. Prior to amendment, section read as follows:
 
@@ -249,7 +249,7 @@ Subsec. (c). Pub. L. 116–260, § 220(b), substituted “Attorney General” 
 
 Amendment by Pub. L. 99–651 effective 120 days after Nov. 14, 1986, see section 105 of Pub. L. 99–651, set out as a note under section 3006A of Title 18, Crimes and Criminal Procedure.
 
-## § 1826. Recalcitrant witnesses
+## § 1826. Recalcitrant witnesses
 
 **(a)** Whenever a witness in any proceeding before or ancillary to any court or grand jury of the United States refuses without just cause shown to comply with an order of the court to testify or provide other information, including any book, paper, document, record, recording or other material, the court, upon such refusal, or when such refusal is duly brought to its attention, may summarily order his confinement at a suitable place until such time as the witness is willing to give such testimony or provide such information. No period of such confinement shall exceed the life of—
 
@@ -263,7 +263,7 @@ before which such refusal to comply with the court order occurred, but in no eve
 
 **(c)** Whoever escapes or attempts to escape from the custody of any facility or from any place in which or to which he is confined pursuant to this section or section 4243 of title 18, or whoever rescues or attempts to rescue or instigates, aids, or assists the escape or attempt to escape of such a person, shall be subject to imprisonment for not more than three years, or a fine of not more than $10,000, or both.
 
-(Added Pub. L. 91–452, title III, § 301(a), Oct. 15, 1970, 84 Stat. 932; amended Pub. L. 98–473, title II, § 1013, Oct. 12, 1984, 98 Stat. 2142.)
+(Added Pub. L. 91–452, title III, § 301(a), Oct. 15, 1970, 84 Stat. 932; amended Pub. L. 98–473, title II, § 1013, Oct. 12, 1984, 98 Stat. 2142.)
 
 **Editorial Notes**
 
@@ -271,7 +271,7 @@ before which such refusal to comply with the court order occurred, but in no eve
 
 1984—Subsec. (c). Pub. L. 98–473 added subsec. (c).
 
-## § 1827. Interpreters in courts of the United States
+## § 1827. Interpreters in courts of the United States
 
 **(a)** The Director of the Administrative Office of the United States Courts shall establish a program to facilitate the use of certified and otherwise qualified interpreters in judicial proceedings instituted by the United States.
 
@@ -337,7 +337,7 @@ so as to inhibit such party’s comprehension of the proceedings or communicatio
 
 **(l)** Notwithstanding any other provision of this section or section 1828, the presiding judicial officer may appoint a certified or otherwise qualified sign language interpreter to provide services to a party, witness, or other participant in a judicial proceeding, whether or not the proceeding is instituted by the United States, if the presiding judicial officer determines, on such officer’s own motion or on the motion of a party or other participant in the proceeding, that such individual suffers from a hearing impairment. The presiding judicial officer shall, subject to the availability of appropriated funds, approve the compensation and expenses payable to sign language interpreters appointed under this section in accordance with the schedule of fees prescribed by the Director under subsection (b)(3) of this section.
 
-(Added Pub. L. 95–539, § 2(a), Oct. 28, 1978, 92 Stat. 2040; amended Pub. L. 100–702, title VII, §§ 702–710, Nov. 19, 1988, 102 Stat. 4654–4657; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–317, title III, § 306, title IV, § 402(a), Oct. 19, 1996, 110 Stat. 3852, 3854.)
+(Added Pub. L. 95–539, § 2(a), Oct. 28, 1978, 92 Stat. 2040; amended Pub. L. 100–702, title VII, §§ 702–710, Nov. 19, 1988, 102 Stat. 4654–4657; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–317, title III, § 306, title IV, § 402(a), Oct. 19, 1996, 110 Stat. 3852, 3854.)
 
 **Editorial Notes**
 
@@ -351,21 +351,21 @@ The effective date of this paragraph, referred to in subsec. (g)(5), is the effe
 
 **Amendments**
 
-1996—Subsec. (g)(5), (6). Pub. L. 104–317, § 402(a), added par. (5) and redesignated former par. (5) as (6).
+1996—Subsec. (g)(5), (6). Pub. L. 104–317, § 402(a), added par. (5) and redesignated former par. (5) as (6).
 
-Subsec. (*l*). Pub. L. 104–317, § 306, added subsec. (*l*).
+Subsec. (*l*). Pub. L. 104–317, § 306, added subsec. (*l*).
 
-1988—Subsec. (a). Pub. L. 100–702, § 702, amended subsec. (a) generally, substituting “certified and otherwise qualified interpreters in judicial proceedings instituted by the United States” for “interpreters in courts of the United States”.
+1988—Subsec. (a). Pub. L. 100–702, § 702, amended subsec. (a) generally, substituting “certified and otherwise qualified interpreters in judicial proceedings instituted by the United States” for “interpreters in courts of the United States”.
 
-Subsec. (b). Pub. L. 100–702, § 703, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Director shall prescribe, determine, and certify the qualifications of persons who may serve as certified interpreters in courts of the United States in bilingual proceedings and proceedings involving the hearing impaired (whether or not also speech impaired), and in so doing, the Director shall consider the education, training, and experience of those persons. The Director shall maintain a current master list of all interpreters certified by the Director and shall report annually on the frequency of requests for, and the use and effectiveness of, interpreters. The Director shall prescribe a schedule of fees for services rendered by interpreters.”
+Subsec. (b). Pub. L. 100–702, § 703, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Director shall prescribe, determine, and certify the qualifications of persons who may serve as certified interpreters in courts of the United States in bilingual proceedings and proceedings involving the hearing impaired (whether or not also speech impaired), and in so doing, the Director shall consider the education, training, and experience of those persons. The Director shall maintain a current master list of all interpreters certified by the Director and shall report annually on the frequency of requests for, and the use and effectiveness of, interpreters. The Director shall prescribe a schedule of fees for services rendered by interpreters.”
 
-Subsec. (c). Pub. L. 100–702, § 704, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Each United States district court shall maintain on file in the office of the clerk of court a list of all persons who have been certified as interpreters, including bilingual interpreters and oral or manual interpreters for the hearing impaired (whether or not also speech impaired), by the Director of the Administrative Office of the United States Courts in accordance with the certification program established pursuant to subsection (b) of this section.”
+Subsec. (c). Pub. L. 100–702, § 704, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Each United States district court shall maintain on file in the office of the clerk of court a list of all persons who have been certified as interpreters, including bilingual interpreters and oral or manual interpreters for the hearing impaired (whether or not also speech impaired), by the Director of the Administrative Office of the United States Courts in accordance with the certification program established pursuant to subsection (b) of this section.”
 
-Subsec. (d). Pub. L. 100–702, §§ 705, 710(a), designated existing provisions as par. (1), in introductory provisions, substituted “qualified interpreter” for “competent interpreter”, “judicial proceedings instituted by the United States” for “any criminal or civil action initiated by the United States in a United States district court (including a petition for a writ of habeas corpus initiated in the name of the United States by a relator)”, and “such judicial proceedings” for “such action”, redesignated former pars. (1) and (2) as subpars. (A) and (B), and added par. (2).
+Subsec. (d). Pub. L. 100–702, §§ 705, 710(a), designated existing provisions as par. (1), in introductory provisions, substituted “qualified interpreter” for “competent interpreter”, “judicial proceedings instituted by the United States” for “any criminal or civil action initiated by the United States in a United States district court (including a petition for a writ of habeas corpus initiated in the name of the United States by a relator)”, and “such judicial proceedings” for “such action”, redesignated former pars. (1) and (2) as subpars. (A) and (B), and added par. (2).
 
-Subsec. (e)(2). Pub. L. 100–702, § 710(b), substituted “judicial proceedings instituted by the United States” for “criminal or civil action in a United States district court”.
+Subsec. (e)(2). Pub. L. 100–702, § 710(b), substituted “judicial proceedings instituted by the United States” for “criminal or civil action in a United States district court”.
 
-Subsec. (g)(1) to (3). Pub. L. 100–702, § 706(a), amended pars. (1) to (3) generally. Prior to amendment, pars. (1) to (3) read as follows:
+Subsec. (g)(1) to (3). Pub. L. 100–702, § 706(a), amended pars. (1) to (3) generally. Prior to amendment, pars. (1) to (3) read as follows:
 
 “(1) Except as otherwise provided in this subsection or section 1828 of this title, the salaries, fees, expenses, and costs incident to providing the services of interpreters under subsection (d) of this section shall be paid by the Director of the Administrative Office of the United States Courts from sums appropriated to the Federal judiciary.
 
@@ -373,15 +373,15 @@ Subsec. (g)(1) to (3). Pub. L. 100–702, § 706(a), amended pars. (1) to (3) 
 
 “(3) The presiding judicial officer may in such officer’s discretion direct that all or part of such salaries, fees, expenses, and costs shall be apportioned between or among the parties or shall be taxed as costs in a civil action.”
 
-Subsec. (g)(4), (5). Pub. L. 100–702, § 706(b), added par. (4) and redesignated former par. (4) as (5).
+Subsec. (g)(4), (5). Pub. L. 100–702, § 706(b), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (h). Pub. L. 100–702, § 707, amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “In any action in a court of the United States where the presiding judicial officer establishes, fixes, or approves the compensation and expenses payable to an interpreter from funds appropriated to the Federal judiciary, the presiding judicial officer shall not establish, fix, or approve compensation and expenses in excess of the maximum allowable under the schedule of fees for services prescribed pursuant to subsection (b) of this section.”
+Subsec. (h). Pub. L. 100–702, § 707, amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “In any action in a court of the United States where the presiding judicial officer establishes, fixes, or approves the compensation and expenses payable to an interpreter from funds appropriated to the Federal judiciary, the presiding judicial officer shall not establish, fix, or approve compensation and expenses in excess of the maximum allowable under the schedule of fees for services prescribed pursuant to subsection (b) of this section.”
 
-Subsec. (i). Pub. L. 100–702, § 708, amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “The term ‘presiding judicial officer’ as used in this section and section 1828 of this title includes a judge of a United States district court, a United States magistrate, and a referee in bankruptcy.”
+Subsec. (i). Pub. L. 100–702, § 708, amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “The term ‘presiding judicial officer’ as used in this section and section 1828 of this title includes a judge of a United States district court, a United States magistrate, and a referee in bankruptcy.”
 
-Subsec. (j). Pub. L. 100–702, § 708, amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “The term ‘United States district court’ as used in this section and section 1828 of this title includes any court created by Act of Congress in a territory which is invested with any jurisdiction of a district court of the United States established by section 132 of this title.”
+Subsec. (j). Pub. L. 100–702, § 708, amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “The term ‘United States district court’ as used in this section and section 1828 of this title includes any court created by Act of Congress in a territory which is invested with any jurisdiction of a district court of the United States established by section 132 of this title.”
 
-Subsec. (k). Pub. L. 100–702, § 709, amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “The interpretation provided by certified interpreters pursuant to this section shall be in the consecutive mode except that the presiding judicial officer, with the approval of all interested parties, may authorize a simultaneous or summary interpretation when such officer determines that such interpretation will aid in the efficient administration of justice. The presiding judicial officer on such officer’s motion or on the motion of a party may order that special interpretation services as authorized in section 1828 of this title be provided if such officer determines that the provision of such services will aid in the efficient administration of justice.”
+Subsec. (k). Pub. L. 100–702, § 709, amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “The interpretation provided by certified interpreters pursuant to this section shall be in the consecutive mode except that the presiding judicial officer, with the approval of all interested parties, may authorize a simultaneous or summary interpretation when such officer determines that such interpretation will aid in the efficient administration of justice. The presiding judicial officer on such officer’s motion or on the motion of a party may order that special interpretation services as authorized in section 1828 of this title be provided if such officer determines that the provision of such services will aid in the efficient administration of justice.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -391,7 +391,7 @@ Subsec. (k). Pub. L. 100–702, § 709, amended subsec. (k) generally. Prior t
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–702, title VII, § 712, Nov. 19, 1988, 102 Stat. 4657, provided that: “This title [amending this section and enacting provisions set out as notes under this section and section 1 of this title] shall become effective upon the date of enactment [Nov. 19, 1988].”
+Pub. L. 100–702, title VII, § 712, Nov. 19, 1988, 102 Stat. 4657, provided that: “This title [amending this section and enacting provisions set out as notes under this section and section 1 of this title] shall become effective upon the date of enactment [Nov. 19, 1988].”
 
 **Effective Date**
 
@@ -403,13 +403,13 @@ For short title of Pub. L. 95–539 as “Court Interpreters Act”, see Short T
 
 **Payment for Contractual Services**
 
-Pub. L. 104–317, title IV, § 402(b), Oct. 19, 1996, 110 Stat. 3854, provided that: “Notwithstanding sections 3302(b), 1341, and 1517 of title 31, United States Code, the Director of the Administrative Office of the United States Courts may include in any contract for the development or administration of examinations for interpreters (including such a contract entered into before the date of the enactment of this Act [Oct. 19, 1996]) a provision which permits the contractor to collect and retain fees in payment for contractual services in accordance with section 1827(g)(5) of title 28, United States Code.”
+Pub. L. 104–317, title IV, § 402(b), Oct. 19, 1996, 110 Stat. 3854, provided that: “Notwithstanding sections 3302(b), 1341, and 1517 of title 31, United States Code, the Director of the Administrative Office of the United States Courts may include in any contract for the development or administration of examinations for interpreters (including such a contract entered into before the date of the enactment of this Act [Oct. 19, 1996]) a provision which permits the contractor to collect and retain fees in payment for contractual services in accordance with section 1827(g)(5) of title 28, United States Code.”
 
 **Impact on Existing Programs**
 
-Pub. L. 100–702, title VII, § 711, Nov. 19, 1988, 102 Stat. 4657, provided that: “Nothing in this title [amending this section and enacting provisions set out as notes under this section and section 1 of this title] shall be construed to terminate or diminish existing programs for the certification of interpreters.”
+Pub. L. 100–702, title VII, § 711, Nov. 19, 1988, 102 Stat. 4657, provided that: “Nothing in this title [amending this section and enacting provisions set out as notes under this section and section 1 of this title] shall be construed to terminate or diminish existing programs for the certification of interpreters.”
 
-## § 1828. Special interpretation services
+## § 1828. Special interpretation services
 
 **(a)** The Director of the Administrative Office of the United States Courts shall establish a program for the provision of special interpretation services in criminal actions and in civil actions initiated by the United States (including petitions for writs of habeas corpus initiated in the name of the United States by relators) in a United States district court. The program shall provide a capacity for simultaneous interpretation services in multidefendant criminal actions and multidefendant civil actions.
 
@@ -419,7 +419,7 @@ Pub. L. 100–702, title VII, § 711, Nov. 19, 1988, 102 Stat. 4657, provided 
 
 **(d)** Appropriations available to the Director shall be available to provide services in accordance with subsection (b) of this section, and moneys collected by the Director under that subsection may be used to reimburse the appropriations charged for such services. A presiding judicial officer, in such officer’s discretion, may order that all or part of the expenses shall be apportioned between or among the parties or shall be taxed as costs in the action.
 
-(Added Pub. L. 95–539, § 2(a), Oct. 28, 1978, 92 Stat. 2042; amended Pub. L. 97–258, § 3(g), Sept. 13, 1982, 96 Stat. 1065.)
+(Added Pub. L. 95–539, § 2(a), Oct. 28, 1978, 92 Stat. 2042; amended Pub. L. 97–258, § 3(g), Sept. 13, 1982, 96 Stat. 1065.)
 
 **Editorial Notes**
 

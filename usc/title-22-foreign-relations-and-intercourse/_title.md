@@ -13,7 +13,7 @@ retrieved: 2026-10-11
 
 # Title 22—FOREIGN RELATIONS AND INTERCOURSE
 
-Current through 119-102not101
+Current through 119-102not101
 
 - [CHAPTER 1—DIPLOMATIC AND CONSULAR SERVICE GENERALLY](chapter-001-diplomatic-and-consular-service-generally.md)
 

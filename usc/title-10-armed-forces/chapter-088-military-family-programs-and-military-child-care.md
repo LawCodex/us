@@ -21,29 +21,29 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2021—Pub. L. 116–283, div. A, title V, § 583(b), Jan. 1, 2021, 134 Stat. 3654, which directed amendment of the table of sections at the beginning of chapter 88 by adding item 1788a and striking out former item 1788a “Family support programs: immediate family members of members of special operations forces”, was executed to the analysis of this subchapter, to reflect the probable intent of Congress.
+2021—Pub. L. 116–283, div. A, title V, § 583(b), Jan. 1, 2021, 134 Stat. 3654, which directed amendment of the table of sections at the beginning of chapter 88 by adding item 1788a and striking out former item 1788a “Family support programs: immediate family members of members of special operations forces”, was executed to the analysis of this subchapter, to reflect the probable intent of Congress.
 
-2017—Pub. L. 115–91, div. A, title V, § 555(e), Dec. 12, 2017, 131 Stat. 1403, added item 1788a.
+2017—Pub. L. 115–91, div. A, title V, § 555(e), Dec. 12, 2017, 131 Stat. 1403, added item 1788a.
 
-2016—Pub. L. 114–328, div. A, title IX, § 933(a)(4)(B), (b)(5)(B), Dec. 23, 2016, 130 Stat. 2364, 2365, substituted “Office of Military Family Readiness Policy” for “Office of Family Policy” in item 1781 and “Office of Special Needs” for “Office of Community Support for Military Families With Special Needs” in item 1781c.
+2016—Pub. L. 114–328, div. A, title IX, § 933(a)(4)(B), (b)(5)(B), Dec. 23, 2016, 130 Stat. 2364, 2365, substituted “Office of Military Family Readiness Policy” for “Office of Family Policy” in item 1781 and “Office of Special Needs” for “Office of Community Support for Military Families With Special Needs” in item 1781c.
 
-2011—Pub. L. 112–74, div. A, title VIII, § 8070(b), Dec. 23, 2011, 125 Stat. 823, added item 1790.
+2011—Pub. L. 112–74, div. A, title VIII, § 8070(b), Dec. 23, 2011, 125 Stat. 823, added item 1790.
 
-2009—Pub. L. 111–84, div. A, title V, § 563(a)(2), Oct. 28, 2009, 123 Stat. 2307, added item 1781c.
+2009—Pub. L. 111–84, div. A, title V, § 563(a)(2), Oct. 28, 2009, 123 Stat. 2307, added item 1781c.
 
-2008—Pub. L. 110–417, [div. A], title V, § 582(b), Oct. 14, 2008, 122 Stat. 4474, added item 1784a.
+2008—Pub. L. 110–417, [div. A], title V, § 582(b), Oct. 14, 2008, 122 Stat. 4474, added item 1784a.
 
-Pub. L. 110–181, div. A, title V, § 581(d), Jan. 28, 2008, 122 Stat. 122, added items 1781a and 1781b.
+Pub. L. 110–181, div. A, title V, § 581(d), Jan. 28, 2008, 122 Stat. 122, added items 1781a and 1781b.
 
-2003—Pub. L. 108–136, div. A, title V, § 582(a)(2), Nov. 24, 2003, 117 Stat. 1490, added item 1789.
+2003—Pub. L. 108–136, div. A, title V, § 582(a)(2), Nov. 24, 2003, 117 Stat. 1490, added item 1789.
 
-2002—Pub. L. 107–314, div. A, title VI, § 652(a)(2), Dec. 2, 2002, 116 Stat. 2581, added item 1788.
+2002—Pub. L. 107–314, div. A, title VI, § 652(a)(2), Dec. 2, 2002, 116 Stat. 2581, added item 1788.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Educational Travel Authority for Dependents of Certain Employees**
 
-Pub. L. 119–60, div. A, title XI, § 1111, Dec. 18, 2025, 139 Stat. 1076, provided that:
+Pub. L. 119–60, div. A, title XI, § 1111, Dec. 18, 2025, 139 Stat. 1076, provided that:
 
 > **“(a) In General.—** Notwithstanding section 1599b of title 10, United States Code, the Secretary of Defense shall direct the Director of the Defense Travel Management Office to update the Joint Travel Regulations, not later than February 1, 2026, to authorize educational travel for a dependent of a covered employee without regard to whether the Federal agency responsible for the employment of the covered employee anticipates that the covered employee will, during the 30-day period following the scheduled date of the dependent’s departure for the travel, be transferred to a location in the United States or travel to the United States for home leave.
 
@@ -55,7 +55,7 @@ Pub. L. 119–60, div. A, title XI, § 1111, Dec. 18, 2025, 139 Stat. 1076, pr
 
 > **“(c) Covered Employee Defined.—** In this section, the term ‘covered employee’ means an employee of the Department of Defense Education Activity assigned to United States Naval Station, Guantanamo Bay, Cuba.”
 
-### § 1781. Office of Military Family Readiness Policy
+### § 1781. Office of Military Family Readiness Policy
 
 **(a) Establishment.—** There is in the Office of the Secretary of Defense an Office of Military Family Readiness Policy (in this section referred to as the “Office”). The Office shall be headed by the Director of Military Family Readiness Policy, who shall serve within the Office of the Under Secretary of Defense for Personnel and Readiness.
 
@@ -89,7 +89,7 @@ Pub. L. 119–60, div. A, title XI, § 1111, Dec. 18, 2025, 139 Stat. 1076, pr
 
 **(5)** In this subsection, the term “non-medical counseling services” means mental health care services that are non-clinical, short-term and solution focused, and address topics related to personal growth, development, and positive functioning.
 
-(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 330; amended Pub. L. 111–383, div. A, title IX, § 901(h), Jan. 7, 2011, 124 Stat. 4323; Pub. L. 112–239, div. A, title X, § 1076(f)(21), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 114–328, div. A, title IX, § 933(a)(1), (4)(A), Dec. 23, 2016, 130 Stat. 2364; Pub. L. 118–31, div. A, title V, § 581, Dec. 22, 2023, 137 Stat. 279.)
+(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 330; amended Pub. L. 111–383, div. A, title IX, § 901(h), Jan. 7, 2011, 124 Stat. 4323; Pub. L. 112–239, div. A, title X, § 1076(f)(21), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 114–328, div. A, title IX, § 933(a)(1), (4)(A), Dec. 23, 2016, 130 Stat. 2364; Pub. L. 118–31, div. A, title V, § 581, Dec. 22, 2023, 137 Stat. 279.)
 
 **Editorial Notes**
 
@@ -99,15 +99,15 @@ The date of the enactment of this subsection, referred to in subsec. (d)(4), is 
 
 **Prior Provisions**
 
-Provisions similar to those in this subchapter were contained in Pub. L. 99–145, title VIII, Nov. 8, 1985, 99 Stat. 678, as amended, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 104–106, § 568(e)(1).
+Provisions similar to those in this subchapter were contained in Pub. L. 99–145, title VIII, Nov. 8, 1985, 99 Stat. 678, as amended, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 104–106, § 568(e)(1).
 
 **Amendments**
 
 2023—Subsec. (d). Pub. L. 118–31 added subsec. (d).
 
-2016—Pub. L. 114–328, § 933(a)(4)(A), substituted “Office of Military Family Readiness Policy” for “Office of Family Policy” in section catchline.
+2016—Pub. L. 114–328, § 933(a)(4)(A), substituted “Office of Military Family Readiness Policy” for “Office of Family Policy” in section catchline.
 
-Subsec. (a). Pub. L. 114–328, § 933(a)(1), substituted “Office of Military Family Readiness Policy” for “Office of Family Policy” and “Director of Military Family Readiness Policy” for “Director of Family Policy”.
+Subsec. (a). Pub. L. 114–328, § 933(a)(1), substituted “Office of Military Family Readiness Policy” for “Office of Family Policy” and “Director of Military Family Readiness Policy” for “Director of Family Policy”.
 
 2013—Subsec. (a). Pub. L. 112–239, in first sentence, substituted “in the Office” for “in the Director” and struck out “hereinafter” before “in this section”, and in second sentence, substituted “Office” for “office” in two places.
 
@@ -121,7 +121,7 @@ Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub
 
 **Activities To Improve Family Violence Prevention and Response**
 
-Pub. L. 117–81, div. A, title V, § 549(c), (d), (g), Dec. 27, 2021, 135 Stat. 1715, 1719, 1721, provided that:
+Pub. L. 117–81, div. A, title V, § 549(c), (d), (g), Dec. 27, 2021, 135 Stat. 1715, 1719, 1721, provided that:
 
 > **“(c) Implementation of Comptroller General Recommendations.—**
 
@@ -267,7 +267,7 @@ Pub. L. 117–81, div. A, title V, § 549(c), (d), (g), Dec. 27, 2021, 135 Sta
 
 **Family Readiness: Definitions; Communication Strategy; Review; Report**
 
-Pub. L. 116–283, div. A, title V, § 581, Jan. 1, 2021, 134 Stat. 3651, provided that:
+Pub. L. 116–283, div. A, title V, § 581, Jan. 1, 2021, 134 Stat. 3651, provided that:
 
 > **“(a) Definitions.—** Not later than six months after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense, in coordination with the Secretaries of the military departments, shall act on recommendation one of the report, dated July 2019, of the National Academies of Science, Engineering and Medicine, titled ‘Strengthening the Military Family Readiness System for a Changing American Society’, by establishing definitions of ‘family well-being’, ‘family readiness’, and ‘family resilience’ for use by the Department of Defense.
 
@@ -285,11 +285,11 @@ Pub. L. 116–283, div. A, title V, § 581, Jan. 1, 2021, 134 Stat. 3651, prov
 
 **Time Requirements for Certification of Honorable Service**
 
-Pub. L. 116–92, div. A, title V, § 526, Dec. 20, 2019, 133 Stat. 1356, provided that: “The Secretary of Defense shall publish regulations for submission and processing of a completed United States Citizenship and Immigration Services Form N–426, by a member of the Armed Forces. Such regulations shall designate the appropriate level for the certifying officer as well as establish time requirements for the form to be returned to the member of the Armed Forces.”
+Pub. L. 116–92, div. A, title V, § 526, Dec. 20, 2019, 133 Stat. 1356, provided that: “The Secretary of Defense shall publish regulations for submission and processing of a completed United States Citizenship and Immigration Services Form N–426, by a member of the Armed Forces. Such regulations shall designate the appropriate level for the certifying officer as well as establish time requirements for the form to be returned to the member of the Armed Forces.”
 
 **Counseling for Members of the Armed Forces Who Are Not Citizens of the United States on Naturalization in the United States**
 
-Pub. L. 116–92, div. A, title V, § 570D, Dec. 20, 2019, 133 Stat. 1399, provided that:
+Pub. L. 116–92, div. A, title V, § 570D, Dec. 20, 2019, 133 Stat. 1399, provided that:
 
 > **“(a) In General.—** The Secretary concerned shall furnish to covered individuals under the jurisdiction of that Secretary counseling regarding how to apply for naturalization in the United States.
 
@@ -301,7 +301,7 @@ Pub. L. 116–92, div. A, title V, § 570D, Dec. 20, 2019, 133 Stat. 1399, pro
 
 **Pilot Program on Information Sharing Between Department of Defense and Designated Relatives and Friends of Members of the Armed Forces Regarding the Experiences and Challenges of Military Service**
 
-Pub. L. 116–92, div. A, title V, § 570E, Dec. 20, 2019, 133 Stat. 1400, provided that:
+Pub. L. 116–92, div. A, title V, § 570E, Dec. 20, 2019, 133 Stat. 1400, provided that:
 
 > **“(a) Pilot Program Required.—**
 
@@ -365,7 +365,7 @@ Pub. L. 116–92, div. A, title V, § 570E, Dec. 20, 2019, 133 Stat. 1400, pro
 
 **Expansion of Period of Availability of Military OneSource Program for Retired and Discharged Members of the Armed Forces and Their Immediate Families**
 
-Pub. L. 115–232, div. A, title V, § 558, Aug. 13, 2018, 132 Stat. 1775, provided that:
+Pub. L. 115–232, div. A, title V, § 558, Aug. 13, 2018, 132 Stat. 1775, provided that:
 
 > **“(a) In General.—** Under regulations prescribed by the Secretary of Defense, the period of eligibility for the Military OneSource program of the Department of Defense of an eligible individual retired, discharged, or otherwise released from the Armed Forces, and for the eligible immediate family members of such an individual, shall be the one-year period beginning on the date of the retirement, discharge, or release, as applicable, of such individual.
 
@@ -373,7 +373,7 @@ Pub. L. 115–232, div. A, title V, § 558, Aug. 13, 2018, 132 Stat. 1775, pro
 
 **Policy on Response to Juvenile-on-Juvenile Problematic Sexual Behavior Committed on Military Installations**
 
-Pub. L. 115–232, div. A, title X, § 1089, Aug. 13, 2018, 132 Stat. 1996, provided that:
+Pub. L. 115–232, div. A, title X, § 1089, Aug. 13, 2018, 132 Stat. 1996, provided that:
 
 > **“(a) Policy Required.—** The Secretary of Defense shall establish a policy, applicable across the military installations of the Department of Defense (including installations outside the United States), on the response of the Department to allegations of juvenile-on-juvenile problematic sexual behavior on military installations. The policy shall be designed to ensure a consistent, standardized response to such allegations across the Department.
 
@@ -411,11 +411,11 @@ Pub. L. 115–232, div. A, title X, § 1089, Aug. 13, 2018, 132 Stat. 1996, pr
 
 **Provision of Information on Naturalization Through Military Service**
 
-Pub. L. 115–91, div. A, title V, § 530, Dec. 12, 2017, 131 Stat. 1383, provided that: “The Secretary of Defense shall ensure that members of the Army, Navy, Air Force, and Marine Corps who are aliens lawfully admitted to the United States for permanent residence are informed of the availability of naturalization through service in the Armed Forces under section 328 of the Immigration and Nationality Act (8 U.S.C. 1439) and the process by which to pursue naturalization. The Secretary shall ensure that resources are available to assist qualified members of the Armed Forces to navigate the application and naturalization process.”
+Pub. L. 115–91, div. A, title V, § 530, Dec. 12, 2017, 131 Stat. 1383, provided that: “The Secretary of Defense shall ensure that members of the Army, Navy, Air Force, and Marine Corps who are aliens lawfully admitted to the United States for permanent residence are informed of the availability of naturalization through service in the Armed Forces under section 328 of the Immigration and Nationality Act (8 U.S.C. 1439) and the process by which to pursue naturalization. The Secretary shall ensure that resources are available to assist qualified members of the Armed Forces to navigate the application and naturalization process.”
 
 **Support for Programs Providing Camp Experience for Children of Military Families**
 
-Pub. L. 114–328, div. A, title V, § 577, Dec. 23, 2016, 130 Stat. 2143, provided that:
+Pub. L. 114–328, div. A, title V, § 577, Dec. 23, 2016, 130 Stat. 2143, provided that:
 
 > **“(a) Authority to Provide Support.—** The Secretary of Defense may provide financial or non-monetary support to qualified nonprofit organizations in order to assist such organizations in carrying out programs to support the attendance at a camp, or camp-like setting, of children of military families who have experienced the death of a family member or other loved one or who have another family member living with a substance use disorder or post-traumatic stress disorder.
 
@@ -437,7 +437,7 @@ Pub. L. 114–328, div. A, title V, § 577, Dec. 23, 2016, 130 Stat. 2143, pro
 
 **Establishment of Online Resources To Provide Information About Benefits and Services Available to Members of the Armed Forces and Their Families**
 
-Pub. L. 111–84, div. A, title V, § 561, Oct. 28, 2009, 123 Stat. 2302, as amended by Pub. L. 118–159, div. A, title VI, § 634, Dec. 23, 2024, 138 Stat. 1937, Pub. L. 119–60, div. A, title V, § 587, Dec. 18, 2025, 139 Stat. 893, provided that:
+Pub. L. 111–84, div. A, title V, § 561, Oct. 28, 2009, 123 Stat. 2302, as amended by Pub. L. 118–159, div. A, title VI, § 634, Dec. 23, 2024, 138 Stat. 1937, Pub. L. 119–60, div. A, title V, § 587, Dec. 18, 2025, 139 Stat. 893, provided that:
 
 > **“(a) Internet Outreach Website.—**
 
@@ -495,11 +495,11 @@ Pub. L. 111–84, div. A, title V, § 561, Oct. 28, 2009, 123 Stat. 2302, as a
 
 **Education and Treatment Services for Military Dependent Children With Autism**
 
-Pub. L. 110–181, div. A, title V, § 587, Jan. 28, 2008, 122 Stat. 133, which related to comprehensive assessment of the availability of Federal, State, and local education and treatment services for military dependent children with autism, was repealed by Pub. L. 111–84, div. A, title V, § 563(a)(3), Oct. 28, 2009, 123 Stat. 2307.
+Pub. L. 110–181, div. A, title V, § 587, Jan. 28, 2008, 122 Stat. 133, which related to comprehensive assessment of the availability of Federal, State, and local education and treatment services for military dependent children with autism, was repealed by Pub. L. 111–84, div. A, title V, § 563(a)(3), Oct. 28, 2009, 123 Stat. 2307.
 
 **Joint Family Support Assistance Program**
 
-Pub. L. 109–364, div. A, title VI, § 675, Oct. 17, 2006, 120 Stat. 2273, as amended by Pub. L. 111–383, div. A, title V, § 584, Jan. 7, 2011, 124 Stat. 4228, provided that:
+Pub. L. 109–364, div. A, title VI, § 675, Oct. 17, 2006, 120 Stat. 2273, as amended by Pub. L. 111–383, div. A, title V, § 584, Jan. 7, 2011, 124 Stat. 4228, provided that:
 
 > **“(a) Program Required.—** The Secretary of Defense shall carry out a joint family support assistance program for the purpose of providing to families of members of the Armed Forces the following types of assistance:
 
@@ -551,7 +551,7 @@ Pub. L. 109–364, div. A, title VI, § 675, Oct. 17, 2006, 120 Stat. 2273, as
 
 **Recognition of Military Families**
 
-Pub. L. 108–136, div. A, title V, § 581, Nov. 24, 2003, 117 Stat. 1489, provided that:
+Pub. L. 108–136, div. A, title V, § 581, Nov. 24, 2003, 117 Stat. 1489, provided that:
 
 > **“(a) Findings.—** Congress makes the following findings:
 
@@ -633,7 +633,7 @@ Sec. 4. *General Provisions*. (a) The heads of agencies shall assist and provide
 
 Barack Obama.
 
-### § 1781a. Department of Defense Military Family Readiness Council
+### § 1781a. Department of Defense Military Family Readiness Council
 
 **(a) In General.—** There is in the Department of Defense the Department of Defense Military Family Readiness Council (in this section referred to as the “Council”).
 
@@ -721,69 +721,69 @@ Barack Obama.
 
 **(B)** The term “covered military housing” means housing acquired or constructed pursuant to subchapter IV of chapter 169 of this title that is owned by an entity other than the Federal Government.
 
-(Added Pub. L. 110–181, div. A, title V, § 581(a), Jan. 28, 2008, 122 Stat. 120; amended Pub. L. 111–84, div. A, title V, § 562, Oct. 28, 2009, 123 Stat. 2303; Pub. L. 111–383, div. A, title V, § 581, Jan. 7, 2011, 124 Stat. 4226; Pub. L. 112–81, div. A, title V, § 574, Dec. 31, 2011, 125 Stat. 1427; Pub. L. 114–328, div. A, title IX, § 933(a)(2), Dec. 23, 2016, 130 Stat. 2364; Pub. L. 115–232, div. A, title V, § 571(a)–(c), Aug. 13, 2018, 132 Stat. 1777, 1778; Pub. L. 116–283, div. A, title IX, § 924(b)(29), Jan. 1, 2021, 134 Stat. 3825; Pub. L. 118–31, div. A, title XVII, § 1722(k)(1), div. B, title XXVIII, § 2821(a), Dec. 22, 2023, 137 Stat. 673, 749.)
+(Added Pub. L. 110–181, div. A, title V, § 581(a), Jan. 28, 2008, 122 Stat. 120; amended Pub. L. 111–84, div. A, title V, § 562, Oct. 28, 2009, 123 Stat. 2303; Pub. L. 111–383, div. A, title V, § 581, Jan. 7, 2011, 124 Stat. 4226; Pub. L. 112–81, div. A, title V, § 574, Dec. 31, 2011, 125 Stat. 1427; Pub. L. 114–328, div. A, title IX, § 933(a)(2), Dec. 23, 2016, 130 Stat. 2364; Pub. L. 115–232, div. A, title V, § 571(a)–(c), Aug. 13, 2018, 132 Stat. 1777, 1778; Pub. L. 116–283, div. A, title IX, § 924(b)(29), Jan. 1, 2021, 134 Stat. 3825; Pub. L. 118–31, div. A, title XVII, § 1722(k)(1), div. B, title XXVIII, § 2821(a), Dec. 22, 2023, 137 Stat. 673, 749.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2023—Subsec. (b)(1)(B)(iii). Pub. L. 118–31, § 1722(k)(1), substituted “active component member,” for “active component member and” and inserted “, and one of whom shall be the spouse or parent of a member of the Space Force” after “parent of a reserve component member”.
+2023—Subsec. (b)(1)(B)(iii). Pub. L. 118–31, § 1722(k)(1), substituted “active component member,” for “active component member and” and inserted “, and one of whom shall be the spouse or parent of a member of the Space Force” after “parent of a reserve component member”.
 
-Subsec. (e). Pub. L. 118–31, § 2821(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to annual reports on military family readiness.
+Subsec. (e). Pub. L. 118–31, § 2821(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to annual reports on military family readiness.
 
 2021—Subsec. (b)(1). Pub. L. 116–283 substituted “Air Force, Marine Corps, and Space Force” for “Marine Corps, and Air Force” wherever appearing.
 
-2018—Subsec. (b)(1)(B)(i). Pub. L. 115–232, § 571(a)(1)(A), substituted “a member or civilian employee of the armed force to be represented” for “a member of the armed force to be represented”.
+2018—Subsec. (b)(1)(B)(i). Pub. L. 115–232, § 571(a)(1)(A), substituted “a member or civilian employee of the armed force to be represented” for “a member of the armed force to be represented”.
 
-Subsec. (b)(1)(B)(ii). Pub. L. 115–232, § 571(a)(1)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: “One representative of the Army National Guard or the Air National Guard, who may be a member of the National Guard.”
+Subsec. (b)(1)(B)(ii). Pub. L. 115–232, § 571(a)(1)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: “One representative of the Army National Guard or the Air National Guard, who may be a member of the National Guard.”
 
-Subsec. (b)(2)(A). Pub. L. 115–232, § 571(a)(2)(A), struck out “clauses (i) and (iii) of” before “subparagraph (B)” and “Representation on the Council under clause (ii) of that subparagraph shall rotate between the Army National Guard and Air National Guard every two years on a calendar year basis.” after “Secretary of Defense.”
+Subsec. (b)(2)(A). Pub. L. 115–232, § 571(a)(2)(A), struck out “clauses (i) and (iii) of” before “subparagraph (B)” and “Representation on the Council under clause (ii) of that subparagraph shall rotate between the Army National Guard and Air National Guard every two years on a calendar year basis.” after “Secretary of Defense.”
 
-Subsec. (b)(2)(B). Pub. L. 115–232, § 571(a)(2)(B), substituted “two years” for “three years”.
+Subsec. (b)(2)(B). Pub. L. 115–232, § 571(a)(2)(B), substituted “two years” for “three years”.
 
-Subsec. (d)(2). Pub. L. 115–232, § 571(b)(1), substituted “military family readiness programs and activities of the Department of Defense” for “military family readiness by the Department of Defense”.
+Subsec. (d)(2). Pub. L. 115–232, § 571(b)(1), substituted “military family readiness programs and activities of the Department of Defense” for “military family readiness by the Department of Defense”.
 
-Subsec. (d)(4). Pub. L. 115–232, § 571(b)(2), added par. (4).
+Subsec. (d)(4). Pub. L. 115–232, § 571(b)(2), added par. (4).
 
-Subsec. (e)(1). Pub. L. 115–232, § 571(c), substituted “July 1” for “February 1”.
+Subsec. (e)(1). Pub. L. 115–232, § 571(c), substituted “July 1” for “February 1”.
 
 2016—Subsec. (b)(1)(E). Pub. L. 114–328 substituted “Office of Military Family Readiness Policy” for “Office of Community Support for Military Families with Special Needs”.
 
 2011—Subsec. (b). Pub. L. 112–81 amended subsec. (b) generally. Prior to amendment, subsec. (b) related to members.
 
-Subsec. (b)(1)(B). Pub. L. 111–383, § 581(d)(1)(A), struck out “, who shall be appointed by the Secretary of Defense” after “Air Force”.
+Subsec. (b)(1)(B). Pub. L. 111–383, § 581(d)(1)(A), struck out “, who shall be appointed by the Secretary of Defense” after “Air Force”.
 
-Subsec. (b)(1)(C). Pub. L. 111–383, § 581(d)(1)(B), struck out “, who shall be appointed by the Secretary of Defense” after “Air National Guard” in cl. (i) and after “Air Force Reserve” in cl. (ii).
+Subsec. (b)(1)(C). Pub. L. 111–383, § 581(d)(1)(B), struck out “, who shall be appointed by the Secretary of Defense” after “Air National Guard” in cl. (i) and after “Air Force Reserve” in cl. (ii).
 
-Subsec. (b)(1)(D). Pub. L. 111–383, § 581(d)(1)(C), struck out “by the Secretary of Defense” after “appointed”.
+Subsec. (b)(1)(D). Pub. L. 111–383, § 581(d)(1)(C), struck out “by the Secretary of Defense” after “appointed”.
 
-Subsec. (b)(1)(E). Pub. L. 111–383, § 581(a)(1)(B), added subpar. (E). Former subpar. (E) redesignated (F).
+Subsec. (b)(1)(E). Pub. L. 111–383, § 581(a)(1)(B), added subpar. (E). Former subpar. (E) redesignated (F).
 
-Subsec. (b)(1)(F). Pub. L. 111–383, § 581(c), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “In addition to the representatives appointed under subparagraphs (B) and (C), the senior enlisted advisors of the Army, Navy, Marine Corps, and Air Force, or the spouse of a senior enlisted member from each of the Army, Navy, Marine Corps, and Air Force.”
+Subsec. (b)(1)(F). Pub. L. 111–383, § 581(c), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “In addition to the representatives appointed under subparagraphs (B) and (C), the senior enlisted advisors of the Army, Navy, Marine Corps, and Air Force, or the spouse of a senior enlisted member from each of the Army, Navy, Marine Corps, and Air Force.”
 
-Pub. L. 111–383, § 581(a)(1)(A), redesignated subpar. (E) as (F).
+Pub. L. 111–383, § 581(a)(1)(A), redesignated subpar. (E) as (F).
 
-Subsec. (b)(1)(G). Pub. L. 111–383, § 581(b), added subpar. (G).
+Subsec. (b)(1)(G). Pub. L. 111–383, § 581(b), added subpar. (G).
 
-Subsec. (b)(2). Pub. L. 111–383, § 581(a)(2), substituted “subparagraphs (C), (D), and (E)” for “subparagraphs (C) and (D)”.
+Subsec. (b)(2). Pub. L. 111–383, § 581(a)(2), substituted “subparagraphs (C), (D), and (E)” for “subparagraphs (C) and (D)”.
 
-Subsec. (b)(3). Pub. L. 111–383, § 581(d)(2), added par. (3).
+Subsec. (b)(3). Pub. L. 111–383, § 581(d)(2), added par. (3).
 
-2009—Subsec. (b)(1)(C) to (E). Pub. L. 111–84, § 562(a), added subpar. (C), redesignated former subpars. (C) and (D) as (D) and (E), respectively, and substituted “subparagraphs (B) and (C)” for “subparagraph (B)” in subpar. (E).
+2009—Subsec. (b)(1)(C) to (E). Pub. L. 111–84, § 562(a), added subpar. (C), redesignated former subpars. (C) and (D) as (D) and (E), respectively, and substituted “subparagraphs (B) and (C)” for “subparagraph (B)” in subpar. (E).
 
-Subsec. (b)(2). Pub. L. 111–84, § 562(b), substituted “subparagraphs (C) and (D) of paragraph (1)” for “paragraph (1)(C)” and inserted at end “Representation on the Council required by clause (i) of paragraph (1)(C) shall rotate between the Army National Guard and Air National Guard. Representation required by clause (ii) of such paragraph shall rotate among the reserve components specified in such clause.”
+Subsec. (b)(2). Pub. L. 111–84, § 562(b), substituted “subparagraphs (C) and (D) of paragraph (1)” for “paragraph (1)(C)” and inserted at end “Representation on the Council required by clause (i) of paragraph (1)(C) shall rotate between the Army National Guard and Air National Guard. Representation required by clause (ii) of such paragraph shall rotate among the reserve components specified in such clause.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–232, div. A, title V, § 571(d), Aug. 13, 2018, 132 Stat. 1778, provided that:
+Pub. L. 115–232, div. A, title V, § 571(d), Aug. 13, 2018, 132 Stat. 1778, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Aug. 13, 2018].
 
 > **“(2) Applicability of membership and term amendments.—** The amendments made by subsection (a) shall apply to members of the Department of Defense Military Family Readiness Council appointed after the date of the enactment of this Act.”
 
-### § 1781b. Department of Defense policy and plans for military family readiness
+### § 1781b. Department of Defense policy and plans for military family readiness
 
 **(a) Policy and Plans Required.—** The Secretary of Defense shall develop a policy and plans for the Department of Defense for the support of military family readiness.
 
@@ -811,15 +811,15 @@ Pub. L. 115–232, div. A, title V, § 571(d), Aug. 13, 2018, 132 Stat. 1778, 
 
 **(5)** A summary, by fiscal year, of the allocation of funds (including appropriated funds and nonappropriated funds) for major categories of military family readiness programs and activities of the Department of Defense, set forth for each of the military departments and for the Office of the Secretary of Defense.
 
-(Added Pub. L. 110–181, div. A, title V, § 581(a), Jan. 28, 2008, 122 Stat. 121; amended Pub. L. 111–383, div. A, title X, § 1075(b)(23), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 115–91, div. A, title X, § 1051(a)(9), Dec. 12, 2017, 131 Stat. 1560; Pub. L. 118–31, div. A, title XVII, § 1722(k)(2), Dec. 22, 2023, 137 Stat. 673.)
+(Added Pub. L. 110–181, div. A, title V, § 581(a), Jan. 28, 2008, 122 Stat. 121; amended Pub. L. 111–383, div. A, title X, § 1075(b)(23), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 115–91, div. A, title X, § 1051(a)(9), Dec. 12, 2017, 131 Stat. 1560; Pub. L. 118–31, div. A, title XVII, § 1722(k)(2), Dec. 22, 2023, 137 Stat. 673.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2023—Subsec. (b)(3). Pub. L. 118–31, § 1722(k)(2)(A), substituted “military families of members of the regular components, the reserve components, and the Space Force” for “military families of members of the regular components and military families of members of the reserve components”.
+2023—Subsec. (b)(3). Pub. L. 118–31, § 1722(k)(2)(A), substituted “military families of members of the regular components, the reserve components, and the Space Force” for “military families of members of the regular components and military families of members of the reserve components”.
 
-Subsec. (c)(2). Pub. L. 118–31, § 1722(k)(2)(B), struck out “both” after “joint programs,” and substituted “military families of members of the regular components, members of the reserve components, and members of the Space Force” for “military families of members of the regular components and military families of members of the reserve components”.
+Subsec. (c)(2). Pub. L. 118–31, § 1722(k)(2)(B), struck out “both” after “joint programs,” and substituted “military families of members of the regular components, members of the reserve components, and members of the Space Force” for “military families of members of the regular components and military families of members of the reserve components”.
 
 2017—Subsec. (d). Pub. L. 115–91 struck out subsec. (d). Text read as follows: “Not later than March 1 each year, the Secretary of Defense shall submit to the congressional defense committees a report on the plans required under subsection (a) for the five-fiscal year period beginning with the fiscal year in which the report is submitted. Each report shall include the plans covered by the report and an assessment of the discharge by the Department of Defense of the previous plans submitted under this section.”
 
@@ -829,7 +829,7 @@ Subsec. (c)(2). Pub. L. 118–31, § 1722(k)(2)(B), struck out “both” afte
 
 **Policy Regarding Remote Military Installations**
 
-Pub. L. 117–81, div. A, title V, § 565, Dec. 27, 2021, 135 Stat. 1749, provided that:
+Pub. L. 117–81, div. A, title V, § 565, Dec. 27, 2021, 135 Stat. 1749, provided that:
 
 > **“(a) Policy.—** Not later than December 1, 2022, the Secretary of Defense, in consultation with the Secretaries of the military departments, shall develop a uniform policy for how to—
 
@@ -857,7 +857,7 @@ Pub. L. 117–81, div. A, title V, § 565, Dec. 27, 2021, 135 Stat. 1749, prov
 
 **Consideration of Certain Military Family Readiness Issues in Making Basing Decisions Associated With Certain Military Units and Major Headquarters**
 
-Pub. L. 116–283, div. B, title XXVIII, § 2883, Jan. 1, 2021, 134 Stat. 4370, as amended by Pub. L. 117–263, div. B, title XXVIII, § 2866, Dec. 23, 2022, 136 Stat. 3011, provided that:
+Pub. L. 116–283, div. B, title XXVIII, § 2883, Jan. 1, 2021, 134 Stat. 4370, as amended by Pub. L. 117–263, div. B, title XXVIII, § 2866, Dec. 23, 2022, 136 Stat. 3011, provided that:
 
 > **“(a) Taking Into Consideration Military Family Readiness Issues.—** In determining whether to proceed with any basing decision associated with a covered military unit or major headquarters in the United States after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of the military department concerned shall take into account, among such other factors as that Secretary considers appropriate, the military family readiness considerations specified in this section, including those military family readiness considerations specified pursuant to subsection (e).
 
@@ -907,7 +907,7 @@ Pub. L. 116–283, div. B, title XXVIII, § 2883, Jan. 1, 2021, 134 Stat. 4370
 
 > **“(2)** The term ‘major headquarters’ means the headquarters of a unit of the Armed Forces or command that is the appropriate command of a general officer or flag officer.”
 
-### § 1781c. Office of Special Needs
+### § 1781c. Office of Special Needs
 
 **(a) Establishment.—** There is in the Office of Military Family Readiness Policy the Office of Special Needs (in this section referred to as the “Office”).
 
@@ -1017,57 +1017,57 @@ Pub. L. 116–283, div. B, title XXVIII, § 2883, Jan. 1, 2021, 134 Stat. 4370
 
 **(h) Military Family With Special Needs.—** For purposes of this section, a military family with special needs is any military family with one or more members who has a medical or educational special need (as defined by the Secretary in regulations for purposes of this section), including a condition covered by the Extended Health Care Option Program under section 1079f of this title.
 
-(Added Pub. L. 111–84, div. A, title V, § 563(a)(1), Oct. 28, 2009, 123 Stat. 2304; amended Pub. L. 111–383, div. A, title V, § 582(a), (b), title X, § 1075(b)(24), Jan. 7, 2011, 124 Stat. 4226, 4227, 4370; Pub. L. 114–328, div. A, title IX, § 933(b)(1)–(5)(A), Dec. 23, 2016, 130 Stat. 2364, 2365; Pub. L. 116–283, div. A, title V, § 582(a), title VII, § 704(c), Jan. 1, 2021, 134 Stat. 3651, 3688.)
+(Added Pub. L. 111–84, div. A, title V, § 563(a)(1), Oct. 28, 2009, 123 Stat. 2304; amended Pub. L. 111–383, div. A, title V, § 582(a), (b), title X, § 1075(b)(24), Jan. 7, 2011, 124 Stat. 4226, 4227, 4370; Pub. L. 114–328, div. A, title IX, § 933(b)(1)–(5)(A), Dec. 23, 2016, 130 Stat. 2364, 2365; Pub. L. 116–283, div. A, title V, § 582(a), title VII, § 704(c), Jan. 1, 2021, 134 Stat. 3651, 3688.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (b). Pub. L. 116–283, § 582(a)(1), substituted “standardize, enhance,” for “enhance”.
+2021—Subsec. (b). Pub. L. 116–283, § 582(a)(1), substituted “standardize, enhance,” for “enhance”.
 
-Subsec. (c)(1). Pub. L. 116–283, § 582(a)(2), inserted “and standard” after “comprehensive”.
+Subsec. (c)(1). Pub. L. 116–283, § 582(a)(2), inserted “and standard” after “comprehensive”.
 
-Subsec. (d)(1). Pub. L. 116–283, § 582(a)(3)(A), substituted “regularly update” for “update from time to time”.
+Subsec. (d)(1). Pub. L. 116–283, § 582(a)(3)(A), substituted “regularly update” for “update from time to time”.
 
-Subsec. (d)(3)(C) to (E). Pub. L. 116–283, § 582(a)(3)(B), added subpars. (C) to (E).
+Subsec. (d)(3)(C) to (E). Pub. L. 116–283, § 582(a)(3)(B), added subpars. (C) to (E).
 
-Subsec. (d)(4)(F). Pub. L. 116–283, § 582(a)(3)(C)(i), substituted “by an appropriate office of an individualized services plan (whether medical, educational, or both)” for “of an individualized services plan (medical and educational)”.
+Subsec. (d)(4)(F). Pub. L. 116–283, § 582(a)(3)(C)(i), substituted “by an appropriate office of an individualized services plan (whether medical, educational, or both)” for “of an individualized services plan (medical and educational)”.
 
-Subsec. (d)(4)(H), (I). Pub. L. 116–283, § 582(a)(3)(C)(ii), which directed adding subpars. (H) and (I) after subpar. (F), was executed by adding them after subpar. (G) to reflect the probable intent of Congress.
+Subsec. (d)(4)(H), (I). Pub. L. 116–283, § 582(a)(3)(C)(ii), which directed adding subpars. (H) and (I) after subpar. (F), was executed by adding them after subpar. (G) to reflect the probable intent of Congress.
 
-Subsec. (g)(2)(C), (D). Pub. L. 116–283, § 704(c), added subpar. (C) and redesignated former subpar. (C) as (D).
+Subsec. (g)(2)(C), (D). Pub. L. 116–283, § 704(c), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-2016—Pub. L. 114–328, § 933(b)(5)(A), substituted “Office of Special Needs” for “Office of Community Support for Military Families With Special Needs” in section catchline.
+2016—Pub. L. 114–328, § 933(b)(5)(A), substituted “Office of Special Needs” for “Office of Community Support for Military Families With Special Needs” in section catchline.
 
-Subsec. (a). Pub. L. 114–328, § 933(b)(2), substituted “Office of Military Family Readiness Policy” for “Office of the Under Secretary of Defense for Personnel and Readiness”.
+Subsec. (a). Pub. L. 114–328, § 933(b)(2), substituted “Office of Military Family Readiness Policy” for “Office of the Under Secretary of Defense for Personnel and Readiness”.
 
-Pub. L. 114–328, § 933(b)(1), which directed substitution of “Office of Special Needs” for “Office of Community Support for Military Families with Special Needs”, was executed by making the substitution for “Office of Community Support for Military Families With Special Needs” to reflect the probable intent of Congress.
+Pub. L. 114–328, § 933(b)(1), which directed substitution of “Office of Special Needs” for “Office of Community Support for Military Families with Special Needs”, was executed by making the substitution for “Office of Community Support for Military Families With Special Needs” to reflect the probable intent of Congress.
 
-Subsec. (c). Pub. L. 114–328, § 933(b)(3), (4)(A)–(C), redesignated subsec. (d) as (c), substituted “subsection (d)” for “subsection (e)” in par. (1) and “subsection (e)” for “subsection (f)” in par. (2), and struck out former subsec. (c). Prior to amendment, text read as follows:
+Subsec. (c). Pub. L. 114–328, § 933(b)(3), (4)(A)–(C), redesignated subsec. (d) as (c), substituted “subsection (d)” for “subsection (e)” in par. (1) and “subsection (e)” for “subsection (f)” in par. (2), and struck out former subsec. (c). Prior to amendment, text read as follows:
 
 “(1) The head of the Office shall be the Director of the Office of Community Support for Military Families With Special Needs, who shall be a member of the Senior Executive Service or a general officer or flag officer.
 
 “(2) In the discharge of the responsibilities of the Office, the Director shall be subject to the supervision, direction, and control of the Under Secretary of Defense for Personnel and Readiness.”
 
-Subsec. (d). Pub. L. 114–328, § 933(b)(4)(A), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 114–328, § 933(b)(4)(A), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-Subsec. (e). Pub. L. 114–328, § 933(b)(4)(A), (B), redesignated subsec. (f) as (e) and substituted “subsection (d)” for “subsection (e)” in par. (3)(A). Former subsec. (e) redesignated (d).
+Subsec. (e). Pub. L. 114–328, § 933(b)(4)(A), (B), redesignated subsec. (f) as (e) and substituted “subsection (d)” for “subsection (e)” in par. (3)(A). Former subsec. (e) redesignated (d).
 
-Subsec. (f). Pub. L. 114–328, § 933(b)(4)(A), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 114–328, § 933(b)(4)(A), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-Subsec. (g). Pub. L. 114–328, § 933(b)(4)(A), (D), redesignated subsec. (h) as (g) and substituted “subsection (c)(3)” for “subsection (d)(3)” in par. (2)(A) and “subsection (c)(4)” for “subsection (d)(4)” in par. (2)(B). Former subsec. (g) redesignated (f).
+Subsec. (g). Pub. L. 114–328, § 933(b)(4)(A), (D), redesignated subsec. (h) as (g) and substituted “subsection (c)(3)” for “subsection (d)(3)” in par. (2)(A) and “subsection (c)(4)” for “subsection (d)(4)” in par. (2)(B). Former subsec. (g) redesignated (f).
 
-Subsecs. (h), (i). Pub. L. 114–328, § 933(b)(4)(A), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
+Subsecs. (h), (i). Pub. L. 114–328, § 933(b)(4)(A), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
 
-2011—Subsec. (c). Pub. L. 111–383, § 582(a), amended subsec. (c) generally. Prior to amendment, text read as follows:
+2011—Subsec. (c). Pub. L. 111–383, § 582(a), amended subsec. (c) generally. Prior to amendment, text read as follows:
 
 “(1) The head of the Office shall be the Director of the Office of Community Support for Military Families With Special Needs, who shall be appointed by the Secretary of Defense from among civilian employees of the Department of Defense who are members of the Senior Executive Service or members of the armed forces in a general or flag grade.
 
 “(2) The Director shall be subject to the supervision, direction, and control of the Under Secretary of Defense for Personnel and Readiness in the discharge of the responsibilities of the Office, and shall report directly to the Under Secretary regarding the discharge of such responsibilities.”
 
-Subsec. (d)(7), (8). Pub. L. 111–383, § 582(b), added par. (7) and redesignated former par. (7) as (8).
+Subsec. (d)(7), (8). Pub. L. 111–383, § 582(b), added par. (7) and redesignated former par. (7) as (8).
 
-Subsec. (h)(1). Pub. L. 111–383, § 1075(b)(24), substituted “April 30 each year” for “180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010, and annually thereafter”.
+Subsec. (h)(1). Pub. L. 111–383, § 1075(b)(24), substituted “April 30 each year” for “180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010, and annually thereafter”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1077,7 +1077,7 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (g) of this s
 
 **Inclusive Playground Pilot Program**
 
-Pub. L. 118–159, div. A, title V, § 589B, Dec. 23, 2024, 138 Stat. 1916, provided that:
+Pub. L. 118–159, div. A, title V, § 589B, Dec. 23, 2024, 138 Stat. 1916, provided that:
 
 > **“(a) In General.—** Not later than March 1, 2026, the Secretary of Defense, in coordination with the Secretaries of the military departments, shall submit to the Committees on Armed Services of the Senate and the House of Representatives a plan for the implementation of a military families playground pilot program (in this section referred to as the ‘Inclusive Playground Pilot Program’) to design, develop, and construct playgrounds that directly support families enrolled in the Exceptional Family Member Program (hereinafter, ‘EFMP’) to increase the accessibility and inclusivity of access to playgrounds on military installations selected under subsection (c).
 
@@ -1123,7 +1123,7 @@ Pub. L. 118–159, div. A, title V, § 589B, Dec. 23, 2024, 138 Stat. 1916, pr
 
 **Improvements to Exceptional Family Member Program**
 
-Pub. L. 117–81, div. A, title V, § 562(b)–(d), Dec. 27, 2021, 135 Stat. 1747, provided that:
+Pub. L. 117–81, div. A, title V, § 562(b)–(d), Dec. 27, 2021, 135 Stat. 1747, provided that:
 
 > **“(b) Relocation.—** The Secretary of the military department concerned may, if such Secretary determines it feasible, permit a covered member who receives permanent change of station orders to elect, not later than 14 days after such receipt, from at least two locations that provide support for the dependent of such covered member with a special need.
 
@@ -1135,7 +1135,7 @@ Pub. L. 117–81, div. A, title V, § 562(b)–(d), Dec. 27, 2021, 135 Stat. 1
 
 > **“(2)** with a dependent with a special need.”
 
-Pub. L. 116–283, div. A, title V, § 582(b)–(e), Jan. 1, 2021, 134 Stat. 3652, 3653, provided that:
+Pub. L. 116–283, div. A, title V, § 582(b)–(e), Jan. 1, 2021, 134 Stat. 3652, 3653, provided that:
 
 > **“(b) Standardization.—** Not later than six months after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense, in coordination with the Secretaries of the military departments, shall, to the extent practicable, standardize the Exceptional Family Member Program (in this section referred to as the ‘EFMP’) across the military departments. The EFMP, standardized under this subsection, shall include the following:
 
@@ -1191,7 +1191,7 @@ Pub. L. 116–283, div. A, title V, § 582(b)–(e), Jan. 1, 2021, 134 Stat. 3
 
 **Matters Relating to Education for Military Dependent Students With Special Needs**
 
-Pub. L. 116–283, div. A, title V, § 589G, Jan. 1, 2021, 134 Stat. 3663, provided that:
+Pub. L. 116–283, div. A, title V, § 589G, Jan. 1, 2021, 134 Stat. 3663, provided that:
 
 > **“(a) Information on Special Education Disputes.—**
 
@@ -1247,7 +1247,7 @@ Pub. L. 116–283, div. A, title V, § 589G, Jan. 1, 2021, 134 Stat. 3663, pro
 
 **Foundation for Support of Military Families With Special Needs**
 
-Pub. L. 111–84, div. A, title V, § 563(b), Oct. 28, 2009, 123 Stat. 2307, provided that:
+Pub. L. 111–84, div. A, title V, § 563(b), Oct. 28, 2009, 123 Stat. 2307, provided that:
 
 > **“(1) Establishment authorized.—** The Secretary of Defense may establish a foundation for the provision of assistance to the Department of Defense in providing support to military families with special needs.
 
@@ -1281,11 +1281,11 @@ Pub. L. 111–84, div. A, title V, § 563(b), Oct. 28, 2009, 123 Stat. 2307, p
 
 **Military Department Support for Local Centers To Assist Military Children With Special Needs**
 
-Pub. L. 111–84, div. A, title V, § 563(c), as added Pub. L. 111–383, div. A, title V, § 582(c)(2), Jan. 7, 2011, 124 Stat. 4227, provided that: “The Secretary of a military department may establish or support centers on or in the vicinity of military installations under the jurisdiction of such Secretary to coordinate and provide medical and educational services for children with special needs of members of the Armed Forces who are assigned to such installations.”
+Pub. L. 111–84, div. A, title V, § 563(c), as added Pub. L. 111–383, div. A, title V, § 582(c)(2), Jan. 7, 2011, 124 Stat. 4227, provided that: “The Secretary of a military department may establish or support centers on or in the vicinity of military installations under the jurisdiction of such Secretary to coordinate and provide medical and educational services for children with special needs of members of the Armed Forces who are assigned to such installations.”
 
 **Advisory Panel on Community Support for Military Families With Special Needs**
 
-Pub. L. 111–84, div. A, title V, § 563(d), as added by Pub. L. 111–383, div. A, title V, § 582(c)(2), Jan. 7, 2011, 124 Stat. 4227; amended by Pub. L. 117–81, div. A, title V, § 562(a), Dec. 27, 2021, 135 Stat. 1746, provided that:
+Pub. L. 111–84, div. A, title V, § 563(d), as added by Pub. L. 111–383, div. A, title V, § 582(c)(2), Jan. 7, 2011, 124 Stat. 4227; amended by Pub. L. 117–81, div. A, title V, § 562(a), Dec. 27, 2021, 135 Stat. 1746, provided that:
 
 > **“(1) Establishment.—** Not later than 90 days after the date of the enactment of this subsection [Jan. 7, 2011], the Secretary of Defense shall establish an advisory panel on community support for military families with special needs.
 
@@ -1319,7 +1319,7 @@ Pub. L. 111–84, div. A, title V, § 563(d), as added by Pub. L. 111–383, d
 
 > **“(4) Meetings.—** The Director shall meet with the advisory panel at such times, and with such frequency, as the Director considers appropriate. The Director shall meet with the panel at least once each year. The Director may meet with the panel through teleconferencing or by other electronic means.”
 
-### § 1782. Surveys of military families
+### § 1782. Surveys of military families
 
 **(a) Authority.—** The Secretary of Defense, in order to determine the effectiveness of Federal programs relating to military families and the need for new programs, may conduct surveys of—
 
@@ -1335,7 +1335,7 @@ Pub. L. 111–84, div. A, title V, § 563(d), as added by Pub. L. 111–383, d
 
 **(d) Survey Required for Fiscal Year 2010.—** Notwithstanding subsection (a), during fiscal year 2010, the Secretary of Defense shall conduct a survey otherwise authorized under such subsection. Thereafter, additional surveys may be conducted not less often than once every three fiscal years.
 
-(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 330; amended Pub. L. 107–107, div. A, title V, § 572, Dec. 28, 2001, 115 Stat. 1122; Pub. L. 110–181, div. A, title V, § 581(c), Jan. 28, 2008, 122 Stat. 122.)
+(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 330; amended Pub. L. 107–107, div. A, title V, § 572, Dec. 28, 2001, 115 Stat. 1122; Pub. L. 110–181, div. A, title V, § 581(c), Jan. 28, 2008, 122 Stat. 122.)
 
 **Editorial Notes**
 
@@ -1343,15 +1343,15 @@ Pub. L. 111–84, div. A, title V, § 563(d), as added by Pub. L. 111–383, d
 
 2008—Subsec. (d). Pub. L. 110–181 added subsec. (d).
 
-2001—Subsec. (a). Pub. L. 107–107, § 572(a), reenacted heading without change and amended text generally. Text read as follows: “The Secretary of Defense may conduct surveys of members of the armed forces on active duty or in an active status, members of the families of such members, and retired members of the armed forces to determine the effectiveness of Federal programs relating to military families and the need for new programs.”
+2001—Subsec. (a). Pub. L. 107–107, § 572(a), reenacted heading without change and amended text generally. Text read as follows: “The Secretary of Defense may conduct surveys of members of the armed forces on active duty or in an active status, members of the families of such members, and retired members of the armed forces to determine the effectiveness of Federal programs relating to military families and the need for new programs.”
 
-Subsec. (c). Pub. L. 107–107, § 572(b), reenacted heading without change and amended text generally. Text read as follows: “With respect to such surveys, family members of members of the armed forces and reserve and retired members of the armed forces shall be considered to be employees of the United States for purposes of section 3502(3)(A)(i) of title 44.”
+Subsec. (c). Pub. L. 107–107, § 572(b), reenacted heading without change and amended text generally. Text read as follows: “With respect to such surveys, family members of members of the armed forces and reserve and retired members of the armed forces shall be considered to be employees of the United States for purposes of section 3502(3)(A)(i) of title 44.”
 
-### § 1783. Family members serving on advisory committees
+### § 1783. Family members serving on advisory committees
 
 A committee within the Department of Defense which advises or assists the Department in the performance of any function which affects members of military families and which includes members of military families in its membership shall not be considered an advisory committee under section 1001(2) of title 5 solely because of such membership.
 
-(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 330; amended Pub. L. 117–286, § 4(a)(50), Dec. 27, 2022, 136 Stat. 4311.)
+(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 330; amended Pub. L. 117–286, § 4(a)(50), Dec. 27, 2022, 136 Stat. 4311.)
 
 **Editorial Notes**
 
@@ -1359,7 +1359,7 @@ A committee within the Department of Defense which advises or assists the Depart
 
 2022—Pub. L. 117–286 substituted “section 1001(2) of title 5” for “section 3(2) of the Federal Advisory Committee Act (5 U.S.C. App.)”.
 
-### § 1784. Employment opportunities for military spouses
+### § 1784. Employment opportunities for military spouses
 
 **(a) Authority.—** The President shall order such measures as the President considers necessary to increase employment opportunities for spouses of members of the armed forces. Such measures may include—
 
@@ -1417,15 +1417,15 @@ A committee within the Department of Defense which advises or assists the Depart
 
 **(2)** The authority to carry out the program under this subsection shall terminate on January 1, 2031.
 
-(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 330; amended Pub. L. 107–107, div. A, title V, § 571(c), Dec. 28, 2001, 115 Stat. 1121; Pub. L. 116–92, div. A, title V, § 575, Dec. 20, 2019, 133 Stat. 1405; Pub. L. 116–283, div. A, title X, § 1081(a)(33), Jan. 1, 2021, 134 Stat. 3872; Pub. L. 118–159, div. A, title V, §§ 581(a), 582(a), Dec. 23, 2024, 138 Stat. 1910.)
+(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 330; amended Pub. L. 107–107, div. A, title V, § 571(c), Dec. 28, 2001, 115 Stat. 1121; Pub. L. 116–92, div. A, title V, § 575, Dec. 20, 2019, 133 Stat. 1405; Pub. L. 116–283, div. A, title X, § 1081(a)(33), Jan. 1, 2021, 134 Stat. 3872; Pub. L. 118–159, div. A, title V, §§ 581(a), 582(a), Dec. 23, 2024, 138 Stat. 1910.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (h)(5). Pub. L. 118–159, § 581(a), struck out par. (5). Text read as follows: “The authority to enter into a cooperative agreement under paragraph (1), and to provide assistance described in that paragraph pursuant to such cooperative agreement, expires on September 30, 2024.”
+2024—Subsec. (h)(5). Pub. L. 118–159, § 581(a), struck out par. (5). Text read as follows: “The authority to enter into a cooperative agreement under paragraph (1), and to provide assistance described in that paragraph pursuant to such cooperative agreement, expires on September 30, 2024.”
 
-Subsec. (i). Pub. L. 118–159, § 582(a), added subsec. (i).
+Subsec. (i). Pub. L. 118–159, § 582(a), added subsec. (i).
 
 2021—Subsec. (h)(5). Pub. L. 116–283 substituted “expires” for “expire”.
 
@@ -1437,13 +1437,13 @@ Subsec. (i). Pub. L. 118–159, § 582(a), added subsec. (i).
 
 **Effective Date of 2024 Amendment**
 
-Pub. L. 118–159, div. A, title V, § 581(b), Dec. 23, 2024, 138 Stat. 1910, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if enacted immediately following the enactment of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92), to which such amendment relates.”
+Pub. L. 118–159, div. A, title V, § 581(b), Dec. 23, 2024, 138 Stat. 1910, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if enacted immediately following the enactment of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92), to which such amendment relates.”
 
-Pub. L. 118–159, div. A, title V, § 582(b), Dec. 23, 2024, 138 Stat. 1911, provided that: “Subsection (i) of such section [10 U.S.C. 1784] shall take effect on January 1, 2026.”
+Pub. L. 118–159, div. A, title V, § 582(b), Dec. 23, 2024, 138 Stat. 1911, provided that: “Subsection (i) of such section [10 U.S.C. 1784] shall take effect on January 1, 2026.”
 
 **Pilot Program To Establish Employment Fellowship Opportunities for Military Spouses**
 
-Pub. L. 117–81, div. A, title V, § 564, Dec. 27, 2021, 135 Stat. 1748, provided that:
+Pub. L. 117–81, div. A, title V, § 564, Dec. 27, 2021, 135 Stat. 1748, provided that:
 
 > **“(a) Establishment.—** Not later than one year after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense may establish a three-year pilot program to provide employment support to the spouses of members of the Armed Forces through a paid fellowship with employers across a variety of industries. In carrying out the pilot program, the Secretary shall take the following steps:
 
@@ -1475,11 +1475,11 @@ Pub. L. 117–81, div. A, title V, § 564, Dec. 27, 2021, 135 Stat. 1748, prov
 
 > **“(e) Termination.—** The pilot program shall terminate three years after the date on which the Secretary establishes the pilot program.”
 
-[Pub. L. 118–159, div. A, title V, § 582(c), Dec. 23, 2024, 138 Stat. 1911, provided that: “The pilot program under section 564 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 1784 note) [set out above] shall terminate on January 1, 2026.]”
+[Pub. L. 118–159, div. A, title V, § 582(c), Dec. 23, 2024, 138 Stat. 1911, provided that: “The pilot program under section 564 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 1784 note) [set out above] shall terminate on January 1, 2026.]”
 
 **Implementation of GAO Recommendation on Improved Communication of Best Practices To Engage Military Spouses With Career Assistance Resources**
 
-Pub. L. 117–81, div. A, title V, § 566, Dec. 27, 2021, 135 Stat. 1749, provided that:
+Pub. L. 117–81, div. A, title V, § 566, Dec. 27, 2021, 135 Stat. 1749, provided that:
 
 > **“(a) Plan Required.—** The Secretary of Defense shall develop a plan to implement the recommendation of the Comptroller General of the United States, to address strategies for sharing information on outreach to military spouses regarding career assistance resources, in the report of the Government Accountability Office titled ‘Military Spouse Employment: DOD Should Continue Assessing State Licensing Practices and Increase Awareness of Resources’ (GAO–21–193). The plan shall include the following elements:
 
@@ -1501,7 +1501,7 @@ Pub. L. 117–81, div. A, title V, § 566, Dec. 27, 2021, 135 Stat. 1749, prov
 
 **Pilot Program on Direct Hire Authority for Spouses of Members of the Uniformed Services at Locations Outside the United States**
 
-Pub. L. 117–81, div. A, title VI, § 625, Dec. 27, 2021, 135 Stat. 1772, provided that:
+Pub. L. 117–81, div. A, title VI, § 625, Dec. 27, 2021, 135 Stat. 1772, provided that:
 
 > **“(a) In General.—** The Secretary of Defense may carry out a pilot program to assess the feasibility and advisability of using the authority under subsection (b) to hire spouses of members of the uniformed services at locations outside the United States.
 
@@ -1575,7 +1575,7 @@ Pub. L. 117–81, div. A, title VI, § 625, Dec. 27, 2021, 135 Stat. 1772, pro
 
 **Improvements to Partner Criteria of the Military Spouse Employment Partnership Program**
 
-Pub. L. 116–283, div. A, title V, § 587, Jan. 1, 2021, 134 Stat. 3655, provided that:
+Pub. L. 116–283, div. A, title V, § 587, Jan. 1, 2021, 134 Stat. 3655, provided that:
 
 > **“(a) Evaluation; Updates.—** Not later than 180 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall evaluate the partner criteria set forth in the Military Spouse Employment Partnership Program (in this section referred to as the ‘MSEP Program’) and implement updates that the Secretary determines will improve such criteria without diminishing the need for partners to exhibit sound business practices, broad diversity efforts, and relative financial stability. Such updates may expand the number of the following entities that meet such criteria:
 
@@ -1605,7 +1605,7 @@ Pub. L. 116–283, div. A, title V, § 587, Jan. 1, 2021, 134 Stat. 3655, prov
 
 **Pilot Program on Public-private Partnerships for Telework Facilities for Military Spouses on Military Installations Outside the United States**
 
-Pub. L. 115–91, div. A, title V, § 560, Dec. 12, 2017, 131 Stat. 1406, provided that:
+Pub. L. 115–91, div. A, title V, § 560, Dec. 12, 2017, 131 Stat. 1406, provided that:
 
 > **“(a) In General.—** Commencing not later than one year after the date of the enactment of this Act [Dec. 12, 2017], the Secretary of Defense shall carry out a pilot program to assess the feasability and advisability of providing telework facilities for military spouses on military installations outside the United States. The Secretary shall consult with the host nation or nations concerned in carrying out the pilot program.
 
@@ -1629,7 +1629,7 @@ Pub. L. 115–91, div. A, title V, § 560, Dec. 12, 2017, 131 Stat. 1406, prov
 
 **Improved Data Collection Related to Efforts To Reduce Underemployment of Spouses of Members of the Armed Forces and Close the Wage Gap Between Military Spouses and Their Civilian Counterparts**
 
-Pub. L. 113–291, div. A, title V, § 568, Dec. 19, 2014, 128 Stat. 3386, provided that:
+Pub. L. 113–291, div. A, title V, § 568, Dec. 19, 2014, 128 Stat. 3386, provided that:
 
 > **“(a) Data Collection Efforts.—** In addition to monitoring the number of spouses of members of the Armed Forces who obtain employment through military spouse employment programs, the Secretary of Defense shall collect data to evaluate the effectiveness of military spouse employment programs—
 
@@ -1649,7 +1649,7 @@ Pub. L. 113–291, div. A, title V, § 568, Dec. 19, 2014, 128 Stat. 3386, pro
 
 **Pilot Program To Secure Internships for Military Spouses With Federal Agencies**
 
-Pub. L. 111–84, div. A, title V, § 564, Oct. 28, 2009, 123 Stat. 2308, provided that:
+Pub. L. 111–84, div. A, title V, § 564, Oct. 28, 2009, 123 Stat. 2308, provided that:
 
 > **“(a) Cost-reimbursement Agreements With Federal Agencies.—** The Secretary of Defense may enter into an agreement with the head of an executive department or agency that has an established internship program to reimburse the department or agency for authorized costs associated with the first year of employment of an eligible military spouse who is selected to participate in the internship program of the department or agency.
 
@@ -1679,7 +1679,7 @@ Pub. L. 111–84, div. A, title V, § 564, Oct. 28, 2009, 123 Stat. 2308, prov
 
 **Continuation of Delegation of Authority With Respect to Hiring Preference for Qualified Military Spouses**
 
-Pub. L. 104–106, div. A, title V, § 568(d), Feb. 10, 1996, 110 Stat. 336, provided that: “The provisions of Executive Order No. 12568, issued October 2, 1986 (10 U.S.C. 113 note) [set out below], shall apply as if the reference in that Executive order to section 806(a)(2) of the Department of Defense Authorization Act of 1986 refers to section 1784 of title 10, United States Code, as added by subsection (a).”
+Pub. L. 104–106, div. A, title V, § 568(d), Feb. 10, 1996, 110 Stat. 336, provided that: “The provisions of Executive Order No. 12568, issued October 2, 1986 (10 U.S.C. 113 note) [set out below], shall apply as if the reference in that Executive order to section 806(a)(2) of the Department of Defense Authorization Act of 1986 refers to section 1784 of title 10, United States Code, as added by subsection (a).”
 
 **Executive Documents**
 
@@ -1691,7 +1691,7 @@ By the authority vested in me as President by the laws of the United States of A
 
 Ronald Reagan.
 
-### § 1784a. Education and training opportunities for military spouses to expand employment and portable career opportunities
+### § 1784a. Education and training opportunities for military spouses to expand employment and portable career opportunities
 
 **(a) Programs and Tuition Assistance.—**
 
@@ -1725,7 +1725,7 @@ Ronald Reagan.
 
 **(f) Regulations.—** The Secretary of Defense shall prescribe regulations to govern the availability and use of assistance under this section. The Secretary shall ensure that programs established under this section do not result in inequitable treatment for spouses of members of the armed forces who are also members, since they are excluded from participation in the programs under subsection (c)(2).
 
-(Added Pub. L. 110–417, [div. A], title V, § 582(a), Oct. 14, 2008, 122 Stat. 4473; amended Pub. L. 116–92, div. A, title V, § 576, Dec. 20, 2019, 133 Stat. 1406; Pub. L. 118–31, div. A, title VI, § 634, Dec. 22, 2023, 137 Stat. 297.)
+(Added Pub. L. 110–417, [div. A], title V, § 582(a), Oct. 14, 2008, 122 Stat. 4473; amended Pub. L. 116–92, div. A, title V, § 576, Dec. 20, 2019, 133 Stat. 1406; Pub. L. 118–31, div. A, title VI, § 634, Dec. 22, 2023, 137 Stat. 297.)
 
 **Editorial Notes**
 
@@ -1739,7 +1739,7 @@ Ronald Reagan.
 
 **First Expansion of the My Career Advancement Account Program for Military Spouses**
 
-Pub. L. 116–92, div. A, title V, § 580F, Dec. 20, 2019, 133 Stat. 1410, as amended by Pub. L. 116–283, div. A, title V, § 586, Jan. 1, 2021, 134 Stat. 3655, provided that:
+Pub. L. 116–92, div. A, title V, § 580F, Dec. 20, 2019, 133 Stat. 1410, as amended by Pub. L. 116–283, div. A, title V, § 586, Jan. 1, 2021, 134 Stat. 3655, provided that:
 
 > **“(a) Professional License or Certification; Associate’s Degree.—** The Secretary of Defense shall modify the My Career Advancement Account program of the Department of Defense to ensure that military spouses participating in the program may receive financial assistance for the pursuit or maintenance (including continuing education courses) of a license, certification, or Associate’s degree in any career field or occupation.
 
@@ -1747,7 +1747,7 @@ Pub. L. 116–92, div. A, title V, § 580F, Dec. 20, 2019, 133 Stat. 1410, as 
 
 **Improvement of My Career Advancement Account Program for Military Spouses**
 
-Pub. L. 115–232, div. A, title V, § 574, Aug. 13, 2018, 132 Stat. 1780, provided that:
+Pub. L. 115–232, div. A, title V, § 574, Aug. 13, 2018, 132 Stat. 1780, provided that:
 
 > **“(a) Outreach on Availability of Program.—** The Secretary of Defense shall take appropriate actions to ensure that military spouses who are eligible for participation in the My Career Advancement Account program of the Department of Defense are, to the extent practicable, made aware of the program.
 
@@ -1759,27 +1759,27 @@ Pub. L. 115–232, div. A, title V, § 574, Aug. 13, 2018, 132 Stat. 1780, pro
 
 > **“(c) Training for Installation Career Counselors on Program.—** The Secretaries of the military departments shall take appropriate actions to ensure that career counselors at military installations receive appropriate training and current information on eligibility for and use of benefits under the My Career Advancement Account program, including financial assistance to cover costs associated with professional recertification, portability of occupational licenses, professional credential exams, and other mechanisms in connection with the portability of professional licenses.”
 
-### § 1785. Youth sponsorship program
+### § 1785. Youth sponsorship program
 
 **(a) Requirement.—** The Secretary of Defense shall require that there be at each military installation a youth sponsorship program to facilitate the integration of dependent children of members of the armed forces into new surroundings when moving to that military installation as a result of a parent’s permanent change of station.
 
 **(b) Description of Programs.—** The program at each installation shall provide for involvement of dependent children of members presently stationed at the military installation and shall be directed primarily toward children in their preteen and teenage years.
 
-(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 331.)
+(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 331.)
 
-### § 1786. Dependent student travel within the United States
+### § 1786. Dependent student travel within the United States
 
 Funds available to the Department of Defense for the travel and transportation of dependent students of members of the armed forces stationed overseas may be obligated for transportation allowances for travel within or between the contiguous States.
 
-(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 331.)
+(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 331.)
 
-### § 1787. Reporting of child abuse
+### § 1787. Reporting of child abuse
 
 **(a) In General.—** The Secretary of Defense shall request each State to provide for the reporting to the Secretary of any report the State receives of known or suspected instances of child abuse and neglect in which the person having care of the child is a member of the armed forces (or the spouse of the member).
 
 **(b) Definition.—** In this section, the term “child abuse and neglect” has the meaning provided in section 3 of the Child Abuse Prevention and Treatment Act (Public Law 93–247; 42 U.S.C. 5101 note).
 
-(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 331; amended Pub. L. 112–239, div. A, title X, § 1076(d)(2), Jan. 2, 2013, 126 Stat. 1951.)
+(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 331; amended Pub. L. 112–239, div. A, title X, § 1076(d)(2), Jan. 2, 2013, 126 Stat. 1951.)
 
 **Editorial Notes**
 
@@ -1791,7 +1791,7 @@ Funds available to the Department of Defense for the travel and transportation o
 
 **Improvements to Department of Defense Tracking of and Response to Incidents of Child Abuse, Adult Crimes Against Children, and Serious Harmful Behavior Between Children and Youth Involving Military Dependents on Military Installations**
 
-Pub. L. 116–283, div. A, title V, § 549B, Jan. 1, 2021, 134 Stat. 3621, provided that:
+Pub. L. 116–283, div. A, title V, § 549B, Jan. 1, 2021, 134 Stat. 3621, provided that:
 
 > **“(a) Improvements Required.—**
 
@@ -1893,7 +1893,7 @@ Pub. L. 116–283, div. A, title V, § 549B, Jan. 1, 2021, 134 Stat. 3621, pro
 
 **Reporting on Allegations of Child Abuse in Military Families and Homes**
 
-Pub. L. 114–328, div. A, title V, § 575(a), Dec. 23, 2016, 130 Stat. 2142, provided that:
+Pub. L. 114–328, div. A, title V, § 575(a), Dec. 23, 2016, 130 Stat. 2142, provided that:
 
 > **“(a) Reports to Family Advocacy Program Offices.—**
 
@@ -1909,15 +1909,15 @@ Pub. L. 114–328, div. A, title V, § 575(a), Dec. 23, 2016, 130 Stat. 2142, 
 
 **Plan for Implementation of Accreditation Requirement**
 
-Pub. L. 104–106, div. A, title V, § 568(c), Feb. 10, 1996, 110 Stat. 335, directed Secretary of Defense to submit to Congress, not later than Apr. 1, 1997, a plan for carrying out the requirements of this section.
+Pub. L. 104–106, div. A, title V, § 568(c), Feb. 10, 1996, 110 Stat. 335, directed Secretary of Defense to submit to Congress, not later than Apr. 1, 1997, a plan for carrying out the requirements of this section.
 
-### § 1788. Additional family assistance
+### § 1788. Additional family assistance
 
 **(a) Authority.—** The Secretary of Defense may provide for the families of members of the armed forces serving on active duty, in addition to any other assistance available for such families, any assistance that the Secretary considers appropriate to ensure that the children of such members obtain needed child care, education, and other youth services.
 
 **(b) Primary Purpose of Assistance.—** The assistance authorized by this section should be directed primarily toward providing needed family support, including child care, education, and other youth services, for children of members of the armed forces who are deployed, assigned to duty, or ordered to active duty in connection with a contingency operation.
 
-(Added Pub. L. 107–314, div. A, title VI, § 652(a)(1), Dec. 2, 2002, 116 Stat. 2581; amended Pub. L. 111–383, div. A, title X, § 1075(b)(25), Jan. 7, 2011, 124 Stat. 4370.)
+(Added Pub. L. 107–314, div. A, title VI, § 652(a)(1), Dec. 2, 2002, 116 Stat. 2581; amended Pub. L. 111–383, div. A, title X, § 1075(b)(25), Jan. 7, 2011, 124 Stat. 4370.)
 
 **Editorial Notes**
 
@@ -1929,11 +1929,11 @@ Pub. L. 104–106, div. A, title V, § 568(c), Feb. 10, 1996, 110 Stat. 335, d
 
 **Effective Date**
 
-Pub. L. 107–314, div. A, title VI, § 652(b), Dec. 2, 2002, 116 Stat. 2581, provided that: “Section 1788 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 2002.”
+Pub. L. 107–314, div. A, title VI, § 652(b), Dec. 2, 2002, 116 Stat. 2581, provided that: “Section 1788 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 2002.”
 
 **Pilot Program for Military Families: Prevention of Child Abuse and Training on Safe Childcare Practices**
 
-Pub. L. 115–232, div. A, title V, § 578, Aug. 13, 2018, 132 Stat. 1783, provided that:
+Pub. L. 115–232, div. A, title V, § 578, Aug. 13, 2018, 132 Stat. 1783, provided that:
 
 > **“(a) Pilot Program.—**
 
@@ -2095,13 +2095,13 @@ Pub. L. 115–232, div. A, title V, § 578, Aug. 13, 2018, 132 Stat. 1783, pro
 
 **Family Support Programs for Immediate Family Members of Members of the Armed Forces Assigned to Special Operations Forces**
 
-Pub. L. 113–66, div. A, title V, § 554, Dec. 26, 2013, 127 Stat. 765, as amended by Pub. L. 114–92, div. A, title V, § 574, Nov. 25, 2015, 129 Stat. 831; Pub. L. 115–91, div. A, title X, § 1081(e), Dec. 12, 2017, 131 Stat. 1601, related to pilot programs for family members of members of the Armed Forces assigned to special operations forces, prior to repeal by Pub. L. 115–91, div. A, title V, § 555(f), Dec. 12, 2017, 131 Stat. 1403. See section 1788a of this title.
+Pub. L. 113–66, div. A, title V, § 554, Dec. 26, 2013, 127 Stat. 765, as amended by Pub. L. 114–92, div. A, title V, § 574, Nov. 25, 2015, 129 Stat. 831; Pub. L. 115–91, div. A, title X, § 1081(e), Dec. 12, 2017, 131 Stat. 1601, related to pilot programs for family members of members of the Armed Forces assigned to special operations forces, prior to repeal by Pub. L. 115–91, div. A, title V, § 555(f), Dec. 12, 2017, 131 Stat. 1403. See section 1788a of this title.
 
-[Pub. L. 115–91, div. A, title X, § 1081(e), Dec. 12, 2017, 131 Stat. 1601, provided that the amendment made by section 1081(e) (amending section 574 of Pub. L. 114–92, which amended section 554 of Pub. L. 113–66, formerly set out above) is effective Nov. 25, 2015, and as if included in Pub. L. 114–92 as enacted.]
+[Pub. L. 115–91, div. A, title X, § 1081(e), Dec. 12, 2017, 131 Stat. 1601, provided that the amendment made by section 1081(e) (amending section 574 of Pub. L. 114–92, which amended section 554 of Pub. L. 113–66, formerly set out above) is effective Nov. 25, 2015, and as if included in Pub. L. 114–92 as enacted.]
 
 **Pilot Program on Parent Education To Promote Early Childhood Education for Dependent Children Affected by Military Deployment or Relocation of Military Units**
 
-Pub. L. 109–364, div. A, title V, § 575, Oct. 17, 2006, 120 Stat. 2227, provided that:
+Pub. L. 109–364, div. A, title V, § 575, Oct. 17, 2006, 120 Stat. 2227, provided that:
 
 > **“(a) Pilot Program Authorized.—** Using such funds as may be appropriated for this purpose, the Secretary of Defense may carry out a pilot program on the provision of educational and support tools to the parents of preschool-age children—
 
@@ -2139,7 +2139,7 @@ Pub. L. 109–364, div. A, title V, § 575, Oct. 17, 2006, 120 Stat. 2227, pro
 
 > **“(g) Report.—** Upon completion of the pilot program, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on all of the evaluations prepared under subsection (e)(4) for the military installations participating in the pilot program. The report shall describe the results of the evaluations, and may include such recommendations for legislative or administrative action as the Secretary considers appropriate in light of the evaluations, including recommendations for the continuation of the pilot program.”
 
-### § 1788a. Support programs: special operations forces personnel; immediate family members
+### § 1788a. Support programs: special operations forces personnel; immediate family members
 
 **(a) Programs Authorized.—** Consistent with such regulations as the Secretary of Defense may prescribe to carry out this section, the Commander of the United States Special Operations Command may conduct programs to provide family support services. In selecting and conducting any program under this subsection, the Commander shall coordinate with the Under Secretary of Defense for Personnel and Readiness.
 
@@ -2151,7 +2151,7 @@ Pub. L. 109–364, div. A, title V, § 575, Oct. 17, 2006, 120 Stat. 2227, pro
 
 **(c) Additional Authority.—** The Commander may expend up to $10,000,000 during each fiscal year, from funds available for Major Force Program 11, to carry out family support programs under this section.
 
-**[(d)** Repealed. Pub. L. 116–92, div. A, title XVII, § 1702(c)(1), Dec. 20, 2019, 133 Stat. 1796.]
+**[(d)** Repealed. Pub. L. 116–92, div. A, title XVII, § 1702(c)(1), Dec. 20, 2019, 133 Stat. 1796.]
 
 **(e) Definitions.—** In this section:
 
@@ -2181,83 +2181,83 @@ Pub. L. 109–364, div. A, title V, § 575, Oct. 17, 2006, 120 Stat. 2227, pro
 
 **(iv)** through an instrumentality of war.
 
-(Added and amended Pub. L. 115–91, div. A, title V, § 555(a)–(d), Dec. 12, 2017, 131 Stat. 1402, 1403; Pub. L. 115–232, div. A, title V, § 572, Aug. 13, 2018, 132 Stat. 1778; Pub. L. 116–92, div. A, title XVII, §§ 1702(c)(1), 1731(a)(28), Dec. 20, 2019, 133 Stat. 1796, 1813; Pub. L. 116–283, div. A, title V, § 583(a), Jan. 1, 2021, 134 Stat. 3653; Pub. L. 117–81, div. A, title V, § 561, title X, § 1081(a)(24), Dec. 27, 2021, 135 Stat. 1746, 1920.)
+(Added and amended Pub. L. 115–91, div. A, title V, § 555(a)–(d), Dec. 12, 2017, 131 Stat. 1402, 1403; Pub. L. 115–232, div. A, title V, § 572, Aug. 13, 2018, 132 Stat. 1778; Pub. L. 116–92, div. A, title XVII, §§ 1702(c)(1), 1731(a)(28), Dec. 20, 2019, 133 Stat. 1796, 1813; Pub. L. 116–283, div. A, title V, § 583(a), Jan. 1, 2021, 134 Stat. 3653; Pub. L. 117–81, div. A, title V, § 561, title X, § 1081(a)(24), Dec. 27, 2021, 135 Stat. 1746, 1920.)
 
 **Editorial Notes**
 
 **Codification**
 
-Text of section, as added by Pub. L. 115–91, is based on text of subsecs. (a), (b), (d), and (e) of section 554 of Pub. L. 113–66, div. A, title V, Dec. 26, 2013, 127 Stat. 765, which was formerly set out as a note under section 1788 of this title, prior to repeal by Pub. L. 115–91, div. A, title X, § 1081(e), Dec. 12, 2017, 131 Stat. 1601.
+Text of section, as added by Pub. L. 115–91, is based on text of subsecs. (a), (b), (d), and (e) of section 554 of Pub. L. 113–66, div. A, title V, Dec. 26, 2013, 127 Stat. 765, which was formerly set out as a note under section 1788 of this title, prior to repeal by Pub. L. 115–91, div. A, title X, § 1081(e), Dec. 12, 2017, 131 Stat. 1601.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 583(a)(1), substituted “Support programs: special operations forces personnel; immediate family members” for “Family support programs: immediate family members of members of special operations forces” in section catchline.
+2021—Pub. L. 116–283, § 583(a)(1), substituted “Support programs: special operations forces personnel; immediate family members” for “Family support programs: immediate family members of members of special operations forces” in section catchline.
 
-Subsec. (a). Pub. L. 116–283, § 583(a)(2), struck out “for the immediate family members of members of the armed forces assigned to special operations forces” after “family support services”.
+Subsec. (a). Pub. L. 116–283, § 583(a)(2), struck out “for the immediate family members of members of the armed forces assigned to special operations forces” after “family support services”.
 
-Subsec. (b)(1). Pub. L. 116–283, § 583(a)(3), substituted “covered individuals” for “the immediate family members of members of the armed forces assigned to special operations forces”.
+Subsec. (b)(1). Pub. L. 116–283, § 583(a)(3), substituted “covered individuals” for “the immediate family members of members of the armed forces assigned to special operations forces”.
 
-Subsec. (d)(2)(A). Pub. L. 116–283, § 583(a)(4)(A), substituted “covered individuals” for “family members of members of the armed forces assigned to special operations forces”.
+Subsec. (d)(2)(A). Pub. L. 116–283, § 583(a)(4)(A), substituted “covered individuals” for “family members of members of the armed forces assigned to special operations forces”.
 
-Subsec. (d)(2)(B). Pub. L. 116–283, § 583(a)(4)(B), substituted “covered individuals” for “family members of members of the armed forces assigned to special operations forces”.
+Subsec. (d)(2)(B). Pub. L. 116–283, § 583(a)(4)(B), substituted “covered individuals” for “family members of members of the armed forces assigned to special operations forces”.
 
-Subsec. (e)(3). Pub. L. 117–81, § 1081(a)(24)(A), substituted “section 167(j)” for “section 167(i)”.
+Subsec. (e)(3). Pub. L. 117–81, § 1081(a)(24)(A), substituted “section 167(j)” for “section 167(i)”.
 
-Subsec. (e)(4). Pub. L. 117–81, § 1081(a)(24)(B), substituted “covered individuals” for “covered personnel”.
+Subsec. (e)(4). Pub. L. 117–81, § 1081(a)(24)(B), substituted “covered individuals” for “covered personnel”.
 
-Pub. L. 117–81, § 561(1), which directed substitution of “covered individuals” for “covered personnel”, could not be executed because of the prior amendment by Pub. L. 117–81, § 1081(a)(24)(B). See note above and Coordination of Amendments by Pub. L. 117–81 note below.
+Pub. L. 117–81, § 561(1), which directed substitution of “covered individuals” for “covered personnel”, could not be executed because of the prior amendment by Pub. L. 117–81, § 1081(a)(24)(B). See note above and Coordination of Amendments by Pub. L. 117–81 note below.
 
-Pub. L. 116–283, § 583(a)(5)(A), (B), inserted “psychological support, spiritual support, and” before “costs” and substituted “covered personnel” for “immediate family members of members of the armed forces assigned to special operations forces”.
+Pub. L. 116–283, § 583(a)(5)(A), (B), inserted “psychological support, spiritual support, and” before “costs” and substituted “covered personnel” for “immediate family members of members of the armed forces assigned to special operations forces”.
 
-Subsec. (e)(5). Pub. L. 117–81, § 1081(a)(24)(C), substituted “ ‘covered individuals’ ” for “ ‘covered personnel’ ”.
+Subsec. (e)(5). Pub. L. 117–81, § 1081(a)(24)(C), substituted “ ‘covered individuals’ ” for “ ‘covered personnel’ ”.
 
-Pub. L. 117–81, § 561(2)(A), which directed substitution of “covered individuals” for “covered personnel”, could not be executed because of the prior amendment by Pub. L. 117–81, § 1081(a)(24)(C). See note above and Coordination of Amendments by Pub. L. 117–81 note below.
+Pub. L. 117–81, § 561(2)(A), which directed substitution of “covered individuals” for “covered personnel”, could not be executed because of the prior amendment by Pub. L. 117–81, § 1081(a)(24)(C). See note above and Coordination of Amendments by Pub. L. 117–81 note below.
 
-Pub. L. 116–283, § 583(a)(5)(C), which directed amendment of subsec. (e)(4) “by adding at the end” par. (5), was executed by adding par. (5) after par. (4), to reflect the probable intent of Congress.
+Pub. L. 116–283, § 583(a)(5)(C), which directed amendment of subsec. (e)(4) “by adding at the end” par. (5), was executed by adding par. (5) after par. (4), to reflect the probable intent of Congress.
 
-Subsec. (e)(5)(D). Pub. L. 117–81, § 561(2)(B)–(D), added subpar. (D).
+Subsec. (e)(5)(D). Pub. L. 117–81, § 561(2)(B)–(D), added subpar. (D).
 
-2019—Subsec. (d). Pub. L. 116–92, § 1702(c)(1), struck out subsec. (d) which required an annual report regarding the family support programs.
+2019—Subsec. (d). Pub. L. 116–92, § 1702(c)(1), struck out subsec. (d) which required an annual report regarding the family support programs.
 
-Subsec. (d)(1). Pub. L. 116–92, § 1731(a)(28), substituted “Not later than March 1 each year” for “Not later than March 1, 2019, and each March 1 thereafter”.
+Subsec. (d)(1). Pub. L. 116–92, § 1731(a)(28), substituted “Not later than March 1 each year” for “Not later than March 1, 2019, and each March 1 thereafter”.
 
-2018—Subsecs. (a), (b)(1). Pub. L. 115–232, § 572(1), substituted “services” for “activities”.
+2018—Subsecs. (a), (b)(1). Pub. L. 115–232, § 572(1), substituted “services” for “activities”.
 
-Subsec. (b)(2). Pub. L. 115–232, § 572(2), substituted “service” for “activity”.
+Subsec. (b)(2). Pub. L. 115–232, § 572(2), substituted “service” for “activity”.
 
-Subsec. (c). Pub. L. 115–232, § 572(3), substituted “$10,000,000” for “$5,000,000”.
+Subsec. (c). Pub. L. 115–232, § 572(3), substituted “$10,000,000” for “$5,000,000”.
 
-Subsec. (e)(4). Pub. L. 115–232, § 572(4), added par. (4).
+Subsec. (e)(4). Pub. L. 115–232, § 572(4), added par. (4).
 
-2017—Subsec. (a). Pub. L. 115–91, § 555(d)(3), struck out “Pilot” before “Programs” in heading and substituted “programs to provide” for “up to three pilot programs to assess the feasibility and benefits of providing” in text.
+2017—Subsec. (a). Pub. L. 115–91, § 555(d)(3), struck out “Pilot” before “Programs” in heading and substituted “programs to provide” for “up to three pilot programs to assess the feasibility and benefits of providing” in text.
 
-Pub. L. 115–91, § 555(d)(1), (2), substituted “armed forces” for “Armed Forces” and struck out “pilot” before “program”.
+Pub. L. 115–91, § 555(d)(1), (2), substituted “armed forces” for “Armed Forces” and struck out “pilot” before “program”.
 
-Subsec. (b)(1). Pub. L. 115–91, § 555(d)(1), substituted “armed forces” for “Armed Forces”.
+Subsec. (b)(1). Pub. L. 115–91, § 555(d)(1), substituted “armed forces” for “Armed Forces”.
 
-Subsec. (b)(2). Pub. L. 115–91, § 555(d)(2), struck out “pilot” before “program”.
+Subsec. (b)(2). Pub. L. 115–91, § 555(d)(2), struck out “pilot” before “program”.
 
-Subsec. (c). Pub. L. 115–91, § 555(b)(1), (c), redesignated subsec. (d) as (c) and substituted “, from funds available for Major Force Program 11, to carry out family support programs under this section.” for “specified in subsection (f) to carry out the pilot programs under subsection (a).”
+Subsec. (c). Pub. L. 115–91, § 555(b)(1), (c), redesignated subsec. (d) as (c) and substituted “, from funds available for Major Force Program 11, to carry out family support programs under this section.” for “specified in subsection (f) to carry out the pilot programs under subsection (a).”
 
-Subsec. (d). Pub. L. 115–91, § 555(b)(2), added subsec. (d). Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 115–91, § 555(b)(2), added subsec. (d). Former subsec. (d) redesignated (c).
 
-Subsec. (e)(2). Pub. L. 115–91, § 555(d)(4)(A), substituted “this title” for “title 10, United States Code”.
+Subsec. (e)(2). Pub. L. 115–91, § 555(d)(4)(A), substituted “this title” for “title 10, United States Code”.
 
-Subsec. (e)(3). Pub. L. 115–91, § 555(d)(4)(B), substituted “this title” for “such title”.
+Subsec. (e)(3). Pub. L. 115–91, § 555(d)(4)(B), substituted “this title” for “such title”.
 
-Pub. L. 115–91, § 555(d)(1), substituted “armed forces” for “Armed Forces”.
+Pub. L. 115–91, § 555(d)(1), substituted “armed forces” for “Armed Forces”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–92, div. A, title XVII, § 1702(c)(2), Dec. 20, 2019, 133 Stat. 1796, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on December 30, 2021.”
+Pub. L. 116–92, div. A, title XVII, § 1702(c)(2), Dec. 20, 2019, 133 Stat. 1796, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on December 30, 2021.”
 
 **Coordination of Amendments by Pub. L. 117–81**
 
 Amendment by section 1081 of Pub. L. 117–81 to be treated as having been enacted immediately before amendments by other provisions of Pub. L. 117–81, see section 1081(d) of Pub. L. 117–81, set out as a Coordination of Certain Sections of an Act With Other Provisions of That Act note under section 101 of this title.
 
-### § 1789. Chaplain-led programs: authorized support
+### § 1789. Chaplain-led programs: authorized support
 
 **(a) Authority.—** The Secretary of a military department may provide support services described in subsection (b) to support a chaplain-led program to assist a covered individual in building and maintaining a strong family structure, or to support the resiliency, suicide prevention, or holistic wellness of such covered individual.
 
@@ -2271,7 +2271,7 @@ Amendment by section 1081 of Pub. L. 117–81 to be treated as having been enact
 
 **(3)** a dependent of an individual described in paragraph (1) or (2).
 
-(Added Pub. L. 108–136, div. A, title V, § 582(a)(1), Nov. 24, 2003, 117 Stat. 1489; amended Pub. L. 117–263, div. A, title V, § 571(a), Dec. 23, 2022, 136 Stat. 2600; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(17), Dec. 22, 2023, 137 Stat. 684.)
+(Added Pub. L. 108–136, div. A, title V, § 582(a)(1), Nov. 24, 2003, 117 Stat. 1489; amended Pub. L. 117–263, div. A, title V, § 571(a), Dec. 23, 2022, 136 Stat. 2600; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(17), Dec. 22, 2023, 137 Stat. 684.)
 
 **Editorial Notes**
 
@@ -2279,29 +2279,29 @@ Amendment by section 1081 of Pub. L. 117–81 to be treated as having been enact
 
 2023—Subsec. (c)(3). Pub. L. 118–31 substituted “paragraph (1) or (2)” for “subparagraph (A) or (B)”.
 
-2022—Subsec. (a). Pub. L. 117–263, § 571(a)(1), substituted “a chaplain-led program to assist a covered individual” for “chaplain-led programs to assist members of the armed forces on active duty and their immediate family members, and members of reserve components in an active status and their immediate family members,” and inserted “, or to support the resiliency, suicide prevention, or holistic wellness of such covered individual” after “structure”.
+2022—Subsec. (a). Pub. L. 117–263, § 571(a)(1), substituted “a chaplain-led program to assist a covered individual” for “chaplain-led programs to assist members of the armed forces on active duty and their immediate family members, and members of reserve components in an active status and their immediate family members,” and inserted “, or to support the resiliency, suicide prevention, or holistic wellness of such covered individual” after “structure”.
 
-Subsec. (b). Pub. L. 117–263, § 571(a)(2), substituted “a covered individual” for “members of the armed forces and their family members”, “a program” for “programs”, and “a retreat or conference” for “retreats and conferences”.
+Subsec. (b). Pub. L. 117–263, § 571(a)(2), substituted “a covered individual” for “members of the armed forces and their family members”, “a program” for “programs”, and “a retreat or conference” for “retreats and conferences”.
 
-Subsec. (c). Pub. L. 117–263, § 571(a)(3), added subsec. (c) and struck out former subsec. (c) which defined “immediate family members”.
+Subsec. (c). Pub. L. 117–263, § 571(a)(3), added subsec. (c) and struck out former subsec. (c) which defined “immediate family members”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 108–136, div. A, title V, § 582(b), Nov. 24, 2003, 117 Stat. 1490, provided that: “Section 1789 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 2003.”
+Pub. L. 108–136, div. A, title V, § 582(b), Nov. 24, 2003, 117 Stat. 1490, provided that: “Section 1789 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 2003.”
 
-### § 1790. Military personnel citizenship processing
+### § 1790. Military personnel citizenship processing
 
 Using funds provided for operation and maintenance and notwithstanding section 2215 of this title, the Secretary of Defense may reimburse the Secretary of Homeland Security for costs associated with the processing and adjudication by the United States Citizenship and Immigration Services (USCIS) of applications for naturalization described in sections 328(b)(4) and 329(b)(4) of the Immigration and Nationality Act (8 U.S.C. 1439(b)(4) and 1440(b)(4)). Such reimbursements shall be deposited and remain available as provided by subsections (m) and (n) of section 286 of such Act (8 U.S.C. 1356). Such reimbursements shall be based on actual costs incurred by USCIS for processing applications for naturalization, and shall not exceed $7,500,000 per fiscal year.
 
-(Added Pub. L. 112–74, div. A, title VIII, § 8070(a), Dec. 23, 2011, 125 Stat. 822; amended Pub. L. 112–239, div. A, title X, § 1076(f)(22), Jan. 2, 2013, 126 Stat. 1953.)
+(Added Pub. L. 112–74, div. A, title VIII, § 8070(a), Dec. 23, 2011, 125 Stat. 822; amended Pub. L. 112–239, div. A, title X, § 1076(f)(22), Jan. 2, 2013, 126 Stat. 1953.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2013—Pub. L. 112–239, in section catchline, substituted “Military personnel citizenship processing” for “MILITARY PERSONNEL CITIZENSHIP PROCESSING”, and in text, struck out “Authorization of Payments.—” before “Using funds” and substituted “this title” for “title 10, United States Code”, “8 U.S.C. 1439(b)(4)” for “8 U.S.C. §§ 1439(b)(4)”, and “subsections (m) and (n) of section 286 of such Act (8 U.S.C. 1356)” for “sections 286(m) and (n) of such Act (8 U.S.C. § 1356(m))”.
+2013—Pub. L. 112–239, in section catchline, substituted “Military personnel citizenship processing” for “MILITARY PERSONNEL CITIZENSHIP PROCESSING”, and in text, struck out “Authorization of Payments.—” before “Using funds” and substituted “this title” for “title 10, United States Code”, “8 U.S.C. 1439(b)(4)” for “8 U.S.C. §§ 1439(b)(4)”, and “subsections (m) and (n) of section 286 of such Act (8 U.S.C. 1356)” for “sections 286(m) and (n) of such Act (8 U.S.C. § 1356(m))”.
 
 ## SUBCHAPTER II—MILITARY CHILD CARE
 
@@ -2309,13 +2309,13 @@ Using funds provided for operation and maintenance and notwithstanding section 2
 
 **Amendments**
 
-1999—Pub. L. 106–65, div. A, title V, § 584(a)(2), Oct. 5, 1999, 113 Stat. 636, added items 1798, 1799, and 1800 and struck out former item 1798 “Definitions”.
+1999—Pub. L. 106–65, div. A, title V, § 584(a)(2), Oct. 5, 1999, 113 Stat. 636, added items 1798, 1799, and 1800 and struck out former item 1798 “Definitions”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Outreach Campaign Relating to Waiting Lists for Military Child Development Centers; Annual Briefing**
 
-Pub. L. 118–31, div. A, title V, § 585, Dec. 22, 2023, 137 Stat. 281, as amended by Pub. L. 118–159, div. A, title V, §§ 585, 586, Dec. 23, 2024, 138 Stat. 1912, provided that:
+Pub. L. 118–31, div. A, title V, § 585, Dec. 22, 2023, 137 Stat. 281, as amended by Pub. L. 118–159, div. A, title V, §§ 585, 586, Dec. 23, 2024, 138 Stat. 1912, provided that:
 
 > **“(a) In General.—** The Secretary of Defense, in coordination with the Secretaries of the military departments, shall develop a campaign to conduct outreach, not less than once every six months, to inform individuals eligible for child care services under chapter 88 of title 10, United States Code, including child care employees—
 
@@ -2351,19 +2351,19 @@ Pub. L. 118–31, div. A, title V, § 585, Dec. 22, 2023, 137 Stat. 281, as am
 
 > **“(c) Definitions.—** In this section, the terms ‘child care employee’ and ‘military child development center’ have the meanings given such terms in section 1800 of title 10, United States Code.”
 
-### § 1791. Funding for military child care
+### § 1791. Funding for military child care
 
 **(a) Policy.—** It is the policy of Congress that the amount of appropriated funds available during a fiscal year for operating expenses for military child development centers and programs shall be not less than 115 percent of the amount of child care fee receipts that are estimated to be received by the Department of Defense during that fiscal year.
 
 **(b) Responsibility for Allocations of Certain Funds.—** The Secretary of Defense shall be responsible for the allocation of Office of the Secretary of Defense level funds for military child development programs for children from birth through 12 years of age, and may not delegate such responsibility to the military departments.
 
-(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 332; amended Pub. L. 116–283, div. A, title V, § 584, Jan. 1, 2021, 134 Stat. 3654; Pub. L. 118–31, div. A, title V, § 582, Dec. 22, 2023, 137 Stat. 280.)
+(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 332; amended Pub. L. 116–283, div. A, title V, § 584, Jan. 1, 2021, 134 Stat. 3654; Pub. L. 118–31, div. A, title V, § 582, Dec. 22, 2023, 137 Stat. 280.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this subchapter were contained in Pub. L. 101–189, div. A, title XV, Nov. 29, 1989, 103 Stat. 1589, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 104–106, § 568(e)(2).
+Provisions similar to those in this subchapter were contained in Pub. L. 101–189, div. A, title XV, Nov. 29, 1989, 103 Stat. 1589, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 104–106, § 568(e)(2).
 
 **Amendments**
 
@@ -2375,7 +2375,7 @@ Provisions similar to those in this subchapter were contained in Pub. L. 101–1
 
 **Child Care Services and Youth Program Services for Dependents: Period of Services for a Member With a Spouse Seeking Employment**
 
-Pub. L. 118–159, div. A, title V, § 589, Dec. 23, 2024, 138 Stat. 1914, provided that:
+Pub. L. 118–159, div. A, title V, § 589, Dec. 23, 2024, 138 Stat. 1914, provided that:
 
 > **“(a) Period.—** The Secretary of a military department may provide a covered member with covered services for a period of at least 180 days.
 
@@ -2397,11 +2397,11 @@ Pub. L. 118–159, div. A, title V, § 589, Dec. 23, 2024, 138 Stat. 1914, pro
 
 **Public Reporting on Certain Military Child Care Programs**
 
-Pub. L. 117–263, div. A, title V, § 579C, Dec. 23, 2022, 136 Stat. 2608, provided that: “Not later than September 30, 2023, and each calendar quarter thereafter, the Secretary of Defense shall post, on a publicly accessible website of the Department of Defense, information regarding the Military Child Care in Your Neighborhood and Military Child Care in Your Neighborhood-Plus programs, disaggregated by State, ZIP code, and Armed Force. Such information shall include whether each such provider is nationally accredited or rated by the Quality Rating and Improvement System of the State.”
+Pub. L. 117–263, div. A, title V, § 579C, Dec. 23, 2022, 136 Stat. 2608, provided that: “Not later than September 30, 2023, and each calendar quarter thereafter, the Secretary of Defense shall post, on a publicly accessible website of the Department of Defense, information regarding the Military Child Care in Your Neighborhood and Military Child Care in Your Neighborhood-Plus programs, disaggregated by State, ZIP code, and Armed Force. Such information shall include whether each such provider is nationally accredited or rated by the Quality Rating and Improvement System of the State.”
 
 **Authority for Department of Defense Program To Promote Early Literacy Among Certain Young Children**
 
-Pub. L. 117–263, div. A, title VII, § 722, Dec. 23, 2022, 136 Stat. 2663, provided that:
+Pub. L. 117–263, div. A, title VII, § 722, Dec. 23, 2022, 136 Stat. 2663, provided that:
 
 > **“(a) Authority.—** The Secretary of Defense may carry out a program to promote early literacy among young children in child development centers and libraries located on installations of the Department of Defense.
 
@@ -2431,7 +2431,7 @@ Pub. L. 117–263, div. A, title VII, § 722, Dec. 23, 2022, 136 Stat. 2663, p
 
 **Improvement of Department of Defense Child Development Centers and Increased Availability of Child Care for Children of Military Personnel**
 
-Pub. L. 117–81, div. B, title XXVIII, § 2816, Dec. 27, 2021, 135 Stat. 2194, provided that:
+Pub. L. 117–81, div. B, title XXVIII, § 2816, Dec. 27, 2021, 135 Stat. 2194, provided that:
 
 > **“(a) Safety Inspection of Child Development Centers.—** Not later than one year after the date of the enactment of this Act [Dec. 27, 2021], each Secretary of a military department shall complete an inspection of all facilities under the jurisdiction of that Secretary used as a child development center to identify any unresolved safety issues, including lead, asbestos, and mold, that adversely impact the facilities.
 
@@ -2479,7 +2479,7 @@ Pub. L. 117–81, div. B, title XXVIII, § 2816, Dec. 27, 2021, 135 Stat. 2194
 
 **24-Hour Child Care**
 
-Pub. L. 116–283, div. A, title V, § 588, Jan. 1, 2021, 134 Stat. 3656, provided that:
+Pub. L. 116–283, div. A, title V, § 588, Jan. 1, 2021, 134 Stat. 3656, provided that:
 
 > **“(a) 24-Hour Child Care.—** If the Secretary of Defense determines it feasible, pursuant to the study conducted pursuant to subsection (b), the Secretary shall furnish child care to each child of a member of the Armed Forces or civilian employee of the Department of Defense while that member or employee works on rotating shifts at a military installation.
 
@@ -2503,7 +2503,7 @@ Pub. L. 116–283, div. A, title V, § 588, Jan. 1, 2021, 134 Stat. 3656, prov
 
 **Pilot Program To Provide Financial Assistance to Members of the Armed Forces for In-Home Child Care**
 
-Pub. L. 116–283, div. A, title V, § 589, Jan. 1, 2021, 134 Stat. 3657, as amended by Pub. L. 117–81, div. A, title VI, § 624, Dec. 27, 2021, 135 Stat. 1772, Pub. L. 119–60, div. A, title V, § 586, Dec. 18, 2025, 139 Stat. 893, provided that:
+Pub. L. 116–283, div. A, title V, § 589, Jan. 1, 2021, 134 Stat. 3657, as amended by Pub. L. 117–81, div. A, title VI, § 624, Dec. 27, 2021, 135 Stat. 1772, Pub. L. 119–60, div. A, title V, § 586, Dec. 18, 2025, 139 Stat. 893, provided that:
 
 > **“(a) Establishment.—** Not later than March 1, 2021, the Secretary of Defense shall establish a pilot program to provide financial assistance to members of the Armed Forces who pay for services provided by in-home child care providers. In carrying out the pilot program, the Secretary shall take the following steps:
 
@@ -2557,7 +2557,7 @@ Pub. L. 116–283, div. A, title V, § 589, Jan. 1, 2021, 134 Stat. 3657, as a
 
 **Reduction in Wait Lists for Child Care at Military Installations**
 
-Pub. L. 116–92, div. A, title V, § 580(c), Dec. 20, 2019, 133 Stat. 1407, provided that:
+Pub. L. 116–92, div. A, title V, § 580(c), Dec. 20, 2019, 133 Stat. 1407, provided that:
 
 > **“(1) Remedial action.—** The Secretary of Defense shall take steps the Secretary determines necessary to reduce the waiting lists for child care at military installations to ensure that members of the Armed Forces have meaningful access to child care during tours of duty.
 
@@ -2569,7 +2569,7 @@ Pub. L. 116–92, div. A, title V, § 580(c), Dec. 20, 2019, 133 Stat. 1407, p
 
 **Enhancing Military Childcare Programs and Activities of the Department of Defense**
 
-Pub. L. 115–91, div. A, title V, § 558, Dec. 12, 2017, 131 Stat. 1405, provided that:
+Pub. L. 115–91, div. A, title V, § 558, Dec. 12, 2017, 131 Stat. 1405, provided that:
 
 > **“(a) Hours of Operation of Military Childcare Development Centers.—** Each Secretary of a military department shall ensure, to the extent practicable, that the hours of operation of each childcare development center under the jurisdiction of the Secretary are established and maintained in manner that takes into account the demands and circumstances of members of the Armed Forces, including members of the reserve components, who use such center in facilitation of the performance of their military duties.
 
@@ -2589,7 +2589,7 @@ Pub. L. 115–91, div. A, title V, § 558, Dec. 12, 2017, 131 Stat. 1405, prov
 
 **Reports on Child Development Centers and Financial Assistance for Child Care for Members of the Armed Forces**
 
-Pub. L. 111–383, div. A, title V, § 587, Jan. 7, 2011, 124 Stat. 4230, provided that:
+Pub. L. 111–383, div. A, title V, § 587, Jan. 7, 2011, 124 Stat. 4230, provided that:
 
 > **“(a) Reports Required.—** Not later than six months after the date of the enactment of this Act [Jan. 7, 2011], and every two years thereafter, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on Department of Defense child development centers and financial assistance for child care provided by the Department of Defense off-installation to members of the Armed Forces.
 
@@ -2615,7 +2615,7 @@ Pub. L. 111–383, div. A, title V, § 587, Jan. 7, 2011, 124 Stat. 4230, prov
 
 > **“(10)** Any other matters the Secretary considers appropriate in connection with such report, including with respect to the enhancement of access to Department of Defense child care development centers and financial assistance for child care off-installation for members of the Armed Forces.”
 
-### § 1792. Child care employees
+### § 1792. Child care employees
 
 **(a) Required Training.—**
 
@@ -2665,7 +2665,7 @@ Pub. L. 111–383, div. A, title V, § 587, Jan. 7, 2011, 124 Stat. 4230, prov
 
 **(d) Competitive Service Position Defined.—** In this section, the term “competitive service position” means a position in the competitive service, as defined in section 2102(a)(1) of title 5.
 
-(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 332; amended Pub. L. 105–85, div. A, title X, § 1073(a)(34), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title XI, § 1106, Oct. 17, 1998, 112 Stat. 2142; Pub. L. 118–159, div. A, title V, § 583(a), Dec. 23, 2024, 138 Stat. 1911.)
+(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 332; amended Pub. L. 105–85, div. A, title X, § 1073(a)(34), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title XI, § 1106, Oct. 17, 1998, 112 Stat. 2142; Pub. L. 118–159, div. A, title V, § 583(a), Dec. 23, 2024, 138 Stat. 1911.)
 
 **Editorial Notes**
 
@@ -2679,19 +2679,19 @@ Pub. L. 111–383, div. A, title V, § 587, Jan. 7, 2011, 124 Stat. 4230, prov
 
 “(2) A spouse who is provided a preference under this subsection at a military child development center may not be precluded from obtaining another preference, in accordance with section 1784 of this title, in the same geographic area as the military child development center.”
 
-1997—Subsec. (a)(1). Pub. L. 105–85, § 1073(a)(34)(A), struck out comma after “implementing”.
+1997—Subsec. (a)(1). Pub. L. 105–85, § 1073(a)(34)(A), struck out comma after “implementing”.
 
-Subsec. (d)(2). Pub. L. 105–85, § 1073(a)(34)(B), substituted “section 1784” for “section 1794”.
+Subsec. (d)(2). Pub. L. 105–85, § 1073(a)(34)(B), substituted “section 1784” for “section 1794”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2024 Amendment**
 
-Pub. L. 118–159, div. A, title V, § 583(b)(1), Dec. 23, 2024, 138 Stat. 1911, provided that: “The amendment made by subsection (a) [amending this section] shall take effect not later than April 1, 2025.”
+Pub. L. 118–159, div. A, title V, § 583(b)(1), Dec. 23, 2024, 138 Stat. 1911, provided that: “The amendment made by subsection (a) [amending this section] shall take effect not later than April 1, 2025.”
 
 **Rates of Pay**
 
-Pub. L. 118–159, div. A, title V, § 583(b)(2), Dec. 23, 2024, 138 Stat. 1911, provided that:
+Pub. L. 118–159, div. A, title V, § 583(b)(2), Dec. 23, 2024, 138 Stat. 1911, provided that:
 
 > **“(A) Employee pay rate not reduced.—** The rate of pay for any individual who is an employee covered by subsection (c) of section 1792 of title 10, United States Code, as amended by subsection (a) of this section, on the date of the enactment of this Act [Dec. 23, 2024] shall not be reduced by operation of such amendment.
 
@@ -2699,7 +2699,7 @@ Pub. L. 118–159, div. A, title V, § 583(b)(2), Dec. 23, 2024, 138 Stat. 191
 
 **Child Development Program Staffing and Compensation Model**
 
-Pub. L. 118–159, div. A, title V, § 589A, Dec. 23, 2024, 138 Stat. 1914, provided that:
+Pub. L. 118–159, div. A, title V, § 589A, Dec. 23, 2024, 138 Stat. 1914, provided that:
 
 > **“(a) In General.—** The Secretary of Defense, in collaboration with the Secretaries of the military departments, shall carry out a redesign of the Department of Defense child development program compensation model and modernization of the child development program staffing model.
 
@@ -2751,7 +2751,7 @@ Pub. L. 118–159, div. A, title V, § 589A, Dec. 23, 2024, 138 Stat. 1914, pr
 
 **Pilot Program on Hiring of Special Needs Inclusion Coordinators for Department of Defense Child Development Centers**
 
-Pub. L. 117–263, div. A, title V, § 576, Dec. 23, 2022, 136 Stat. 2605, as amended by Pub. L. 118–31, div. A, title V, § 586, Dec. 22, 2023, 137 Stat. 282, provided that:
+Pub. L. 117–263, div. A, title V, § 576, Dec. 23, 2022, 136 Stat. 2605, as amended by Pub. L. 118–31, div. A, title V, § 586, Dec. 22, 2023, 137 Stat. 282, provided that:
 
 > **“(a) In General.—** The Secretary of Defense, in coordination with the Secretaries of the military departments, shall carry out a pilot program to hire special needs inclusion coordinators at child development centers selected by the Secretary under subsection (b).
 
@@ -2803,11 +2803,11 @@ Pub. L. 117–263, div. A, title V, § 576, Dec. 23, 2022, 136 Stat. 2605, as 
 
 **Portability of Background Investigations for Child Care Providers**
 
-Pub. L. 116–92, div. A, title V, § 580(f), Dec. 20, 2019, 133 Stat. 1408, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall ensure that the background investigation and training certification for a child care provider employed by the Department of Defense in a facility of the Department may be transferred to another facility of the Department, without regard to which Secretary of a military department has jurisdiction over either such facility.”
+Pub. L. 116–92, div. A, title V, § 580(f), Dec. 20, 2019, 133 Stat. 1408, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall ensure that the background investigation and training certification for a child care provider employed by the Department of Defense in a facility of the Department may be transferred to another facility of the Department, without regard to which Secretary of a military department has jurisdiction over either such facility.”
 
 **Provisional or Interim Clearances To Provide Childcare Services at Military Childcare Centers**
 
-Pub. L. 115–232, div. A, title V, § 576, Aug. 13, 2018, 132 Stat. 1781, provided that:
+Pub. L. 115–232, div. A, title V, § 576, Aug. 13, 2018, 132 Stat. 1781, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall implement a policy to permit the issuance on a provisional or interim basis of clearances for the provision of childcare services at military childcare centers.
 
@@ -2821,11 +2821,11 @@ Pub. L. 115–232, div. A, title V, § 576, Aug. 13, 2018, 132 Stat. 1781, pro
 
 **Direct Hire Authority for Department of Defense for Childcare Services Providers for Department Child Development Centers and Employees at Installation Military Housing Offices**
 
-Pub. L. 116–92, div. B, title XXX, § 3035(c), Dec. 20, 2019, 133 Stat. 1937, provided that the Secretary of Defense could use the authority in section 559 of Pub. L. 115–91, formerly set out below, in a manner consistent with the regulations prescribed for purposes of such section 559 pursuant to subsec. (b) of such section 559, without the need to prescribe separate regulations for the use of such authority.
+Pub. L. 116–92, div. B, title XXX, § 3035(c), Dec. 20, 2019, 133 Stat. 1937, provided that the Secretary of Defense could use the authority in section 559 of Pub. L. 115–91, formerly set out below, in a manner consistent with the regulations prescribed for purposes of such section 559 pursuant to subsec. (b) of such section 559, without the need to prescribe separate regulations for the use of such authority.
 
-Pub. L. 115–91, div. A, title V, § 559, Dec. 12, 2017, 131 Stat. 1406, as amended by Pub. L. 116–92, div. A, title V, § 580(a), div. B, title XXX, § 3035(a), (b), Dec. 20, 2019, 133 Stat. 1407, 1937, authorized the Secretary of Defense to appoint, without regard to any provision of subchapter I of chapter 33 of title 5, United States Code, qualified childcare services providers, and individuals to fill vacancies in installation military housing offices, in the competitive service under certain circumstances and to prescribe regulations, prior to the expiration of such appointment authority on Sept. 30, 2021.
+Pub. L. 115–91, div. A, title V, § 559, Dec. 12, 2017, 131 Stat. 1406, as amended by Pub. L. 116–92, div. A, title V, § 580(a), div. B, title XXX, § 3035(a), (b), Dec. 20, 2019, 133 Stat. 1407, 1937, authorized the Secretary of Defense to appoint, without regard to any provision of subchapter I of chapter 33 of title 5, United States Code, qualified childcare services providers, and individuals to fill vacancies in installation military housing offices, in the competitive service under certain circumstances and to prescribe regulations, prior to the expiration of such appointment authority on Sept. 30, 2021.
 
-### § 1793. Parent fees
+### § 1793. Parent fees
 
 **(a) In General.—** The Secretary of Defense shall prescribe regulations establishing fees to be charged parents for the attendance of children at military child development centers. Those regulations shall be uniform for the military departments and shall require that, in the case of children who attend the centers on a regular basis, the fees shall be based on family income.
 
@@ -2841,7 +2841,7 @@ Pub. L. 115–91, div. A, title V, § 559, Dec. 12, 2017, 131 Stat. 1406, as a
 
 **(e) Prohibition of Concurrent Discounts.—** A family may not receive discounts under subsections (c) and (d) concurrently.
 
-(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 333; amended Pub. L. 116–283, div. A, title V, § 585(a), Jan. 1, 2021, 134 Stat. 3654; Pub. L. 117–263, div. A, title VI, § 642, Dec. 23, 2022, 136 Stat. 2634; Pub. L. 118–159, div. A, title VI, § 633, Dec. 23, 2024, 138 Stat. 1937.)
+(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 333; amended Pub. L. 116–283, div. A, title V, § 585(a), Jan. 1, 2021, 134 Stat. 3654; Pub. L. 117–263, div. A, title VI, § 642, Dec. 23, 2022, 136 Stat. 2634; Pub. L. 118–159, div. A, title VI, § 633, Dec. 23, 2024, 138 Stat. 1937.)
 
 **Editorial Notes**
 
@@ -2853,7 +2853,7 @@ Pub. L. 115–91, div. A, title V, § 559, Dec. 12, 2017, 131 Stat. 1406, as a
 
 2021—Subsec. (c). Pub. L. 116–283 added subsec. (c).
 
-### § 1794. Child abuse prevention and safety at facilities
+### § 1794. Child abuse prevention and safety at facilities
 
 **(a) Child Abuse Task Force.—** The Secretary of Defense shall maintain a special task force to respond to allegations of widespread child abuse at a military installation. The task force shall be composed of personnel from appropriate disciplines, including, where appropriate, medicine, psychology, and childhood development. In the case of such allegations, the task force shall provide assistance to the commander of the installation, and to parents at the installation, in helping them to deal with such allegations.
 
@@ -2887,7 +2887,7 @@ Pub. L. 115–91, div. A, title V, § 559, Dec. 12, 2017, 131 Stat. 1406, as a
 
 **(3)** In this subsection, the term “covered incident” means alleged or suspected abuse or neglect of a child that occurs at a military child development center.
 
-(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 333; amended Pub. L. 118–159, div. A, title V, § 584, Dec. 23, 2024, 138 Stat. 1912; Pub. L. 119–60, div. A, title V, § 581, Dec. 18, 2025, 139 Stat. 888.)
+(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 333; amended Pub. L. 118–159, div. A, title V, § 584, Dec. 23, 2024, 138 Stat. 1912; Pub. L. 119–60, div. A, title V, § 581, Dec. 18, 2025, 139 Stat. 888.)
 
 **Editorial Notes**
 
@@ -2897,25 +2897,25 @@ Pub. L. 115–91, div. A, title V, § 559, Dec. 12, 2017, 131 Stat. 1406, as a
 
 2024—Subsec. (b)(2). Pub. L. 118–159 substituted “number by means including—” for “number.” and added subpars. (A) and (B).
 
-### § 1795. Parent partnerships with child development centers
+### § 1795. Parent partnerships with child development centers
 
 **(a) Parent Boards.—** The Secretary of Defense shall require that there be established at each military child development center a board of parents, to be composed of parents of children attending the center. The board shall meet periodically with staff of the center and the commander of the installation served by the center for the purpose of discussing problems and concerns. The board, together with the staff of the center, shall be responsible for coordinating the parent participation program described in subsection (b).
 
 **(b) Parent Participation Programs.—** The Secretary of Defense shall require the establishment of a parent participation program at each military child development center. As part of such program, the Secretary of Defense may establish fees for attendance of children at such a center, in the case of parents who participate in the parent participation program at that center, at rates lower than the rates that otherwise apply.
 
-(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 334.)
+(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 334.)
 
-### § 1796. Subsidies for family home day care
+### § 1796. Subsidies for family home day care
 
 The Secretary of Defense may use appropriated funds available for military child care purposes to provide assistance to family home day care providers so that family home day care services can be provided to members of the armed forces at a cost comparable to the cost of services provided by military child development centers. The Secretary shall prescribe regulations for the provision of such assistance.
 
-(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 334.)
+(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 334.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Priority for Certain Military Family Housing to a Member of the Armed Forces Whose Spouse Agrees To Provide Family Home Day Care Services**
 
-Pub. L. 116–283, div. A, title VI, § 627, Jan. 1, 2021, 134 Stat. 3678, provided that:
+Pub. L. 116–283, div. A, title VI, § 627, Jan. 1, 2021, 134 Stat. 3678, provided that:
 
 > **“(a) Priority.—** If the Secretary of a military department determines that not enough child care employees are employed at a military child development center on a military installation under the jurisdiction of that Secretary to adequately care for the children of members of the Armed Forces stationed at that military installation, the Secretary, to the extent practicable, may give priority for covered military family housing to a member whose spouse is an eligible military spouse.
 
@@ -2945,13 +2945,13 @@ Pub. L. 116–283, div. A, title VI, § 627, Jan. 1, 2021, 134 Stat. 3678, pro
 
 > **“(D)** agrees in writing to provide family home day care services in covered military family housing for a period not shorter than one year.”
 
-### § 1797. Early childhood education program
+### § 1797. Early childhood education program
 
 The Secretary of Defense shall require that all military child development centers meet standards of operation necessary for accreditation by an appropriate national early childhood programs accrediting body.
 
-(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 335.)
+(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 335.)
 
-### § 1798. Child care services and youth program services for dependents: financial assistance for providers
+### § 1798. Child care services and youth program services for dependents: financial assistance for providers
 
 **(a) Authority.—** The Secretary of Defense may provide financial assistance to an eligible civilian provider of child care services or youth program services that furnishes such services for members of the armed forces, survivors of members of the armed forces who die in combat-related incidents in the line of duty, and employees of the United States if the Secretary determines that providing such financial assistance—
 
@@ -2989,7 +2989,7 @@ The Secretary of Defense shall require that all military child development cente
 
 **(d) Annual Review of Amount of Assistance.—** The Secretary shall annually review the amount of financial assistance provided under this section, including the maximum amount of financial assistance per month per child that the Secretary authorizes to be provided to eligible providers under this section.
 
-(Added Pub. L. 106–65, div. A, title V, § 584(a)(1)(B), Oct. 5, 1999, 113 Stat. 634; amended Pub. L. 107–314, div. A, title X, § 1041(a)(6), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 116–92, div. A, title VI, § 624, Dec. 20, 2019, 133 Stat. 1428; Pub. L. 119–60, div. A, title VI, § 641, Dec. 18, 2025, 139 Stat. 912.)
+(Added Pub. L. 106–65, div. A, title V, § 584(a)(1)(B), Oct. 5, 1999, 113 Stat. 634; amended Pub. L. 107–314, div. A, title X, § 1041(a)(6), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 116–92, div. A, title VI, § 624, Dec. 20, 2019, 133 Stat. 1428; Pub. L. 119–60, div. A, title VI, § 641, Dec. 18, 2025, 139 Stat. 912.)
 
 **Editorial Notes**
 
@@ -3001,7 +3001,7 @@ A prior section 1798 was renumbered section 1800 of this title.
 
 2025—Subsec. (d). Pub. L. 119–60 added subsec. (d).
 
-2019—Subsec. (a). Pub. L. 116–92 inserted “, survivors of members of the armed forces who die in combat-related incidents in the line of duty,” after “armed forces” in introductory provisions.
+2019—Subsec. (a). Pub. L. 116–92 inserted “, survivors of members of the armed forces who die in combat-related incidents in the line of duty,” after “armed forces” in introductory provisions.
 
 2002—Subsec. (d). Pub. L. 107–314 struck out heading and text of subsec. (d). Text read as follows:
 
@@ -3013,7 +3013,7 @@ A prior section 1798 was renumbered section 1800 of this title.
 
 **Pilot Program To Increase Payments for Child Care Services in High-Cost Areas**
 
-Pub. L. 119–60, div. A, title V, § 589D, Dec. 18, 2025, 139 Stat. 898, provided that:
+Pub. L. 119–60, div. A, title V, § 589D, Dec. 18, 2025, 139 Stat. 898, provided that:
 
 > **“(a) Establishment.—** The Secretary may establish a pilot program to increase the maximum amount of financial assistance per month per child that the Secretary authorizes to be provided to eligible providers under section 1798 of title 10, United States Code, for services provided to children who are two years old or younger in accordance with this section.
 
@@ -3063,7 +3063,7 @@ Pub. L. 119–60, div. A, title V, § 589D, Dec. 18, 2025, 139 Stat. 898, prov
 
 **Child Care Services and Youth Program Services for Dependents**
 
-Pub. L. 118–159, div. A, title V, § 588, Dec. 23, 2024, 138 Stat. 1914, provided that:
+Pub. L. 118–159, div. A, title V, § 588, Dec. 23, 2024, 138 Stat. 1914, provided that:
 
 > **“(a) In General.—** Subject to the availability of appropriations, the Secretary of Defense shall fully fund requests under section 1798 of title 10, United States Code, for financial assistance to eligible civilian providers of child care services or youth program services, as such terms are used in such section.
 
@@ -3071,7 +3071,7 @@ Pub. L. 118–159, div. A, title V, § 588, Dec. 23, 2024, 138 Stat. 1914, pro
 
 **Promotion of Certain Child Care Assistance**
 
-Pub. L. 117–263, div. A, title V, § 577, Dec. 23, 2022, 136 Stat. 2606, provided that:
+Pub. L. 117–263, div. A, title V, § 577, Dec. 23, 2022, 136 Stat. 2606, provided that:
 
 > **“(a) In General.—** Each Secretary concerned shall promote, to members of the Armed Forces under the jurisdiction of such Secretary concerned, awareness of child care assistance available under—
 
@@ -3085,9 +3085,9 @@ Pub. L. 117–263, div. A, title V, § 577, Dec. 23, 2022, 136 Stat. 2606, pro
 
 **First Biennial Reports**
 
-Pub. L. 106–65, div. A, title V, § 584(b), Oct. 5, 1999, 113 Stat. 636, provided that the first biennial reports under former sections 1798(d) and 1799(d) of this title were to be submitted not later than Mar. 31, 2002, and were to cover fiscal years 2000 and 2001.
+Pub. L. 106–65, div. A, title V, § 584(b), Oct. 5, 1999, 113 Stat. 636, provided that the first biennial reports under former sections 1798(d) and 1799(d) of this title were to be submitted not later than Mar. 31, 2002, and were to cover fiscal years 2000 and 2001.
 
-### § 1799. Child care services and youth program services for dependents: participation by children and youth otherwise ineligible
+### § 1799. Child care services and youth program services for dependents: participation by children and youth otherwise ineligible
 
 **(a) Authority.—** The Secretary of Defense may authorize participation in child care or youth programs of the Department of Defense, to the extent of the availability of space and services, by children and youth under the age of 19 who are not dependents of members of the armed forces or of employees of the Department of Defense and are not otherwise eligible for participation in those programs.
 
@@ -3101,7 +3101,7 @@ Pub. L. 106–65, div. A, title V, § 584(b), Oct. 5, 1999, 113 Stat. 636, pro
 
 **(3)** To establish or support a partnership or consortium arrangement with schools and other youth services organizations serving children of members of the armed forces.
 
-(Added Pub. L. 106–65, div. A, title V, § 584(a)(1)(B), Oct. 5, 1999, 113 Stat. 634; amended Pub. L. 107–314, div. A, title X, § 1041(a)(7), Dec. 2, 2002, 116 Stat. 2645.)
+(Added Pub. L. 106–65, div. A, title V, § 584(a)(1)(B), Oct. 5, 1999, 113 Stat. 634; amended Pub. L. 107–314, div. A, title X, § 1041(a)(7), Dec. 2, 2002, 116 Stat. 2645.)
 
 **Editorial Notes**
 
@@ -3113,7 +3113,7 @@ Pub. L. 106–65, div. A, title V, § 584(b), Oct. 5, 1999, 113 Stat. 636, pro
 
 “(2) A biennial report under this subsection may be combined with the biennial report under section 1798(d) of this title into a single report for submission to Congress.”
 
-### § 1800. Definitions
+### § 1800. Definitions
 
 In this subchapter:
 
@@ -3125,7 +3125,7 @@ In this subchapter:
 
 **(4)** The term “child care fee receipts” means those nonappropriated funds that are derived from fees paid by members of the armed forces for child care services provided at military child development centers.
 
-(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 335, § 1798; renumbered § 1800, Pub. L. 106–65, div. A, title V, § 584(a)(1)(A), Oct. 5, 1999, 113 Stat. 634.)
+(Added Pub. L. 104–106, div. A, title V, § 568(a)(1), Feb. 10, 1996, 110 Stat. 335, § 1798; renumbered § 1800, Pub. L. 106–65, div. A, title V, § 584(a)(1)(A), Oct. 5, 1999, 113 Stat. 634.)
 
 **Editorial Notes**
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # Subchapter Z—Opportunity Zones
 
-## § 1400Z–1. Designation
+## § 1400Z–1. Designation
 
 **(a) Qualified opportunity zone defined**
 
@@ -37,7 +37,7 @@ For the purposes of this subchapter, the term “qualified opportunity zone” m
 
 A chief executive officer of a State may request that the Secretary extend either the determination or consideration period, or both (determined without regard to this subparagraph),1
 
-<sup>1</sup>  So in original. Probably should be “paragraph),”.
+<sup>1</sup> So in original. Probably should be “paragraph),”.
 
 for an additional 30 days.
 
@@ -105,11 +105,11 @@ A designation as a qualified opportunity zone shall remain in effect for the per
 
 For purposes of this section, the term “applicable start date” means, with respect to any qualified opportunity zone designated under this section, the January 1 following the date on which such qualified opportunity zone was certified and designated by the Secretary under subsection (b)(1)(B).
 
-(Added Pub. L. 115–97, title I, § 13823(a), Dec. 22, 2017, 131 Stat. 2183; amended Pub. L. 115–123, div. D, title II, § 41115, Feb. 9, 2018, 132 Stat. 161; Pub. L. 119–21, title VII, § 70421(a)(1)–(4), (b)(1)–(3), July 4, 2025, 139 Stat. 223, 224.)
+(Added Pub. L. 115–97, title I, § 13823(a), Dec. 22, 2017, 131 Stat. 2183; amended Pub. L. 115–123, div. D, title II, § 41115, Feb. 9, 2018, 132 Stat. 161; Pub. L. 119–21, title VII, § 70421(a)(1)–(4), (b)(1)–(3), July 4, 2025, 139 Stat. 223, 224.)
 
 **Repeal of Subsection (b)(3)**
 
-Pub. L. 119–21, title VII, § 70421(a)(3), (5)(B), July 4, 2025, 139 Stat. 223, 224, provided that, effective on Dec. 31, 2026, subsection (b)(3) of this section is repealed.
+Pub. L. 119–21, title VII, § 70421(a)(3), (5)(B), July 4, 2025, 139 Stat. 223, 224, provided that, effective on Dec. 31, 2026, subsection (b)(3) of this section is repealed.
 
 **Editorial Notes**
 
@@ -119,45 +119,45 @@ The date of the enactment of Public Law 115–97, referred to in subsec. (b)(3),
 
 **Amendments**
 
-2025—Subsec. (b)(3). Pub. L. 119–21, § 70421(a)(3), struck out par. (3). Text read as follows: “Each population census tract in Puerto Rico that is a low-income community shall be deemed to be certified and designated as a qualified opportunity zone, effective on the date of the enactment of Public Law 115–97.”
+2025—Subsec. (b)(3). Pub. L. 119–21, § 70421(a)(3), struck out par. (3). Text read as follows: “Each population census tract in Puerto Rico that is a low-income community shall be deemed to be certified and designated as a qualified opportunity zone, effective on the date of the enactment of Public Law 115–97.”
 
-Subsec. (c). Pub. L. 119–21, § 70421(b)(1), substituted “For purposes of this section—” for “For purposes of this subsection—” in introductory provisions, added par. (1), and struck out former par. (1). Prior to amendment, text read as follows: “The term ‘low-income community’ has the same meaning as when used in section 45D(e).”
+Subsec. (c). Pub. L. 119–21, § 70421(b)(1), substituted “For purposes of this section—” for “For purposes of this subsection—” in introductory provisions, added par. (1), and struck out former par. (1). Prior to amendment, text read as follows: “The term ‘low-income community’ has the same meaning as when used in section 45D(e).”
 
-Subsec. (c)(2)(B). Pub. L. 119–21, § 70421(a)(1), substituted “beginning on the decennial determination date” for “beginning on the date of the enactment of the Tax Cuts and Jobs Act”.
+Subsec. (c)(2)(B). Pub. L. 119–21, § 70421(a)(1), substituted “beginning on the decennial determination date” for “beginning on the date of the enactment of the Tax Cuts and Jobs Act”.
 
-Subsec. (c)(2)(C). Pub. L. 119–21, § 70421(a)(2), added subpar. (C).
+Subsec. (c)(2)(C). Pub. L. 119–21, § 70421(a)(2), added subpar. (C).
 
-Subsec. (d)(1). Pub. L. 119–21, § 70421(a)(4)(A), struck out “and subsection (b)(3)” after “by paragraph (2)” and inserted “during any period” after “the number of population census tracts in a State that may be designated as qualified opportunity zones under this section”.
+Subsec. (d)(1). Pub. L. 119–21, § 70421(a)(4)(A), struck out “and subsection (b)(3)” after “by paragraph (2)” and inserted “during any period” after “the number of population census tracts in a State that may be designated as qualified opportunity zones under this section”.
 
-Subsec. (d)(2). Pub. L. 119–21, § 70421(a)(4)(B), inserted “during any period” before period at end.
+Subsec. (d)(2). Pub. L. 119–21, § 70421(a)(4)(B), inserted “during any period” before period at end.
 
-Subsec. (e). Pub. L. 119–21, § 70421(b)(3), amended subsec. (e) generally. Prior to amendment, text read as follows: “A designation as a qualified opportunity zone shall remain in effect for the period beginning on the date of the designation and ending at the close of the 10th calendar year beginning on or after such date of designation.”
+Subsec. (e). Pub. L. 119–21, § 70421(b)(3), amended subsec. (e) generally. Prior to amendment, text read as follows: “A designation as a qualified opportunity zone shall remain in effect for the period beginning on the date of the designation and ending at the close of the 10th calendar year beginning on or after such date of designation.”
 
-Pub. L. 119–21, § 70421(b)(2), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to designation of tracts contiguous with low-income communities.
+Pub. L. 119–21, § 70421(b)(2), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to designation of tracts contiguous with low-income communities.
 
-Subsec. (f). Pub. L. 119–21, § 70421(b)(2), redesignated subsec. (f) as (e).
+Subsec. (f). Pub. L. 119–21, § 70421(b)(2), redesignated subsec. (f) as (e).
 
-2018—Subsec. (b)(3). Pub. L. 115–123, § 41115(a), added par. (3).
+2018—Subsec. (b)(3). Pub. L. 115–123, § 41115(a), added par. (3).
 
-Subsec. (d)(1). Pub. L. 115–123, § 41115(b), inserted “and subsection (b)(3)” after “paragraph (2)”.
+Subsec. (d)(1). Pub. L. 115–123, § 41115(b), inserted “and subsection (b)(3)” after “paragraph (2)”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 119–21, title VII, § 70421(a)(5), July 4, 2025, 139 Stat. 224, provided that:
+Pub. L. 119–21, title VII, § 70421(a)(5), July 4, 2025, 139 Stat. 224, provided that:
 
 > **“(A) In general.—** Except as provided in subparagraph (B), the amendments made by this subsection [amending this section] shall take effect on the date of the enactment of this Act [July 4, 2025].
 
 > **“(B) Puerto rico.—** The amendment made by paragraph (3) [amending this section] shall take effect on December 31, 2026.”
 
-Pub. L. 119–21, title VII, § 70421(b)(4), July 4, 2025, 139 Stat. 225, provided that: “The amendments made by this subsection [amending this section] shall apply to areas designated under section 1400Z-1 of the Internal Revenue Code of 1986 after the date of the enactment of this Act [July 4, 2025].”
+Pub. L. 119–21, title VII, § 70421(b)(4), July 4, 2025, 139 Stat. 225, provided that: “The amendments made by this subsection [amending this section] shall apply to areas designated under section 1400Z-1 of the Internal Revenue Code of 1986 after the date of the enactment of this Act [July 4, 2025].”
 
 **Effective Date**
 
 Section effective on Dec. 22, 2017, see section 13823(d) of Pub. L. 115–97, set out as an Effective Date of 2017 Amendment note under section 1016 of this title.
 
-## § 1400Z–2. Special rules for capital gains invested in opportunity zones
+## § 1400Z–2. Special rules for capital gains invested in opportunity zones
 
 **(a) In general**
 
@@ -265,17 +265,17 @@ A rule similar to the rule of section 1202(c)(3) shall apply for purposes of thi
 
 **(ii) Substantial improvement**
 
-For purposes of subparagraph (A)(ii), property shall be treated as substantially improved by the qualified opportunity fund only if, during any 30-month period beginning after the date of acquisition of such property, additions to basis with respect to such property in the hands of the qualified opportunity fund exceed an amount equal to the adjusted basis of such property (50 percent of such adjusted basis in the case of property in a qualified opportunity zone comprised entirely of a rural area (as defined in subsection (b)(2)(C)(ii)) 1
+For purposes of subparagraph (A)(ii), property shall be treated as substantially improved by the qualified opportunity fund only if, during any 30-month period beginning after the date of acquisition of such property, additions to basis with respect to such property in the hands of the qualified opportunity fund exceed an amount equal to the adjusted basis of such property (50 percent of such adjusted basis in the case of property in a qualified opportunity zone comprised entirely of a rural area (as defined in subsection (b)(2)(C)(ii)) 1
 
-<sup>1</sup>  So in original. A third closing parenthesis probably should appear.
+<sup>1</sup> So in original. A third closing parenthesis probably should appear.
 
 at the beginning of such 30-month period in the hands of the qualified opportunity fund.
 
 **(iii) Related party**
 
-For purposes of subparagraph (A)(i), the related person rule of section 179(d)(2) shall be applied pursuant to paragraph (8) of this subsection 2
+For purposes of subparagraph (A)(i), the related person rule of section 179(d)(2) shall be applied pursuant to paragraph (8) of this subsection 2
 
-<sup>2</sup>  So in original. This subsection does not contain a paragraph (8).
+<sup>2</sup> So in original. This subsection does not contain a paragraph (8).
 
 in lieu of the application of such rule in section 179(d)(2)(A).
 
@@ -327,7 +327,7 @@ In the case of a decedent, amounts recognized under this section shall, if not p
 
 **(1) In general** If a qualified opportunity fund fails to meet the 90-percent requirement of subsection (c)(1),3
 
-<sup>3</sup>  So in original. Probably should be “subsection (d)(1),”.
+<sup>3</sup> So in original. Probably should be “subsection (d)(1),”.
 
 the qualified opportunity fund shall pay a penalty for each month it fails to meet the requirement in an amount equal to the product of—
 
@@ -347,11 +347,11 @@ In the case that the qualified opportunity fund is a partnership, the penalty im
 
 No penalty shall be imposed under this subsection with respect to any failure if it is shown that such failure is due to reasonable cause.
 
-(Added Pub. L. 115–97, title I, § 13823(a), Dec. 22, 2017, 131 Stat. 2184; amended Pub. L. 119–21, title VII, § 70421(c)(1)–(4), July 4, 2025, 139 Stat. 225, 226.)
+(Added Pub. L. 115–97, title I, § 13823(a), Dec. 22, 2017, 131 Stat. 2184; amended Pub. L. 119–21, title VII, § 70421(c)(1)–(4), July 4, 2025, 139 Stat. 225, 226.)
 
 **Amendment of Section**
 
-Pub. L. 119–21, title VII, § 70421(c)(1)–(3), (5)(A), July 4, 2025, 139 Stat. 225–227, provided that, applicable to amounts invested in qualified opportunity funds after Dec. 31, 2026, this section is amended:
+Pub. L. 119–21, title VII, § 70421(c)(1)–(3), (5)(A), July 4, 2025, 139 Stat. 225–227, provided that, applicable to amounts invested in qualified opportunity funds after Dec. 31, 2026, this section is amended:
 
 (1) by amending subsection (a)(2) to read as follows:
 
@@ -431,7 +431,7 @@ Pub. L. 119–21, title VII, § 70421(c)(1)–(3), (5)(A), July 4, 2025, 139 S
 
 See 2025 Amendment notes below.
 
-Pub. L. 119–21, title VII, § 70421(c)(4)(A), (B), (5)(B), July 4, 2025, 139 Stat. 226, 227, provided that, applicable to property acquired after Dec. 31, 2026, subsection (d)(2) of this section is amended:
+Pub. L. 119–21, title VII, § 70421(c)(4)(A), (B), (5)(B), July 4, 2025, 139 Stat. 226, 227, provided that, applicable to property acquired after Dec. 31, 2026, subsection (d)(2) of this section is amended:
 
 (1) in subparagraphs (B)(i)(I) and (C)(i), by striking “December 31, 2017,” and inserting “the applicable date”;
 
@@ -449,29 +449,29 @@ See 2025 Amendment notes below.
 
 **Amendments**
 
-2025—Subsec. (a)(2). Pub. L. 119–21, § 70421(c)(1), amended par. (2) generally. Prior to amendment, text read as follows: “No election may be made under paragraph (1)—
+2025—Subsec. (a)(2). Pub. L. 119–21, § 70421(c)(1), amended par. (2) generally. Prior to amendment, text read as follows: “No election may be made under paragraph (1)—
 
 “(A) with respect to a sale or exchange if an election previously made with respect to such sale or exchange is in effect, or
 
 “(B) with respect to any sale or exchange after December 31, 2026.”
 
-Subsec. (b). Pub. L. 119–21, § 70421(c)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to deferral of gain invested in opportunity zone property.
+Subsec. (b). Pub. L. 119–21, § 70421(c)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to deferral of gain invested in opportunity zone property.
 
-Subsec. (c). Pub. L. 119–21, § 70421(c)(3), substituted “makes an election under this subsection, the basis of such investment shall be equal to—” and pars. (A) and (B) for “makes an election under this clause, the basis of such property shall be equal to the fair market value of such investment on the date that the investment is sold or exchanged.”
+Subsec. (c). Pub. L. 119–21, § 70421(c)(3), substituted “makes an election under this subsection, the basis of such investment shall be equal to—” and pars. (A) and (B) for “makes an election under this clause, the basis of such property shall be equal to the fair market value of such investment on the date that the investment is sold or exchanged.”
 
-Subsec. (d)(2)(B)(i)(I), (C)(i). Pub. L. 119–21, § 70421(c)(4)(B)(i), substituted “the applicable date” for “December 31, 2017,”.
+Subsec. (d)(2)(B)(i)(I), (C)(i). Pub. L. 119–21, § 70421(c)(4)(B)(i), substituted “the applicable date” for “December 31, 2017,”.
 
-Subsec. (d)(2)(D)(i)(I). Pub. L. 119–21, § 70421(c)(4)(A), substituted “the applicable start date (as defined in section 1400Z–1(e)(2)) with respect to the qualified opportunity zone described in subclause (III)” for “December 31, 2017”.
+Subsec. (d)(2)(D)(i)(I). Pub. L. 119–21, § 70421(c)(4)(A), substituted “the applicable start date (as defined in section 1400Z–1(e)(2)) with respect to the qualified opportunity zone described in subclause (III)” for “December 31, 2017”.
 
-Subsec. (d)(2)(D)(ii). Pub. L. 119–21, § 70421(c)(4)(C), inserted “(50 percent of such adjusted basis in the case of property in a qualified opportunity zone comprised entirely of a rural area (as defined in subsection (b)(2)(C)(ii))” after “the adjusted basis of such property”.
+Subsec. (d)(2)(D)(ii). Pub. L. 119–21, § 70421(c)(4)(C), inserted “(50 percent of such adjusted basis in the case of property in a qualified opportunity zone comprised entirely of a rural area (as defined in subsection (b)(2)(C)(ii))” after “the adjusted basis of such property”.
 
-Subsec. (d)(2)(E). Pub. L. 119–21, § 70421(c)(4)(B)(ii), added subpar. (E).
+Subsec. (d)(2)(E). Pub. L. 119–21, § 70421(c)(4)(B)(ii), added subpar. (E).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 119–21, title VII, § 70421(c)(5), July 4, 2025, 139 Stat. 227, provided that:
+Pub. L. 119–21, title VII, § 70421(c)(5), July 4, 2025, 139 Stat. 227, provided that:
 
 > **“(A) In general.—** Except as otherwise provided in this paragraph, the amendments made by this subsection [amending this section] shall apply to amounts invested in qualified opportunity funds after December 31, 2026.
 

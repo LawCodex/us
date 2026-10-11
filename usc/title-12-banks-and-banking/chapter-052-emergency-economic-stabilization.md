@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 52—EMERGENCY ECONOMIC STABILIZATION
 
-## § 5201. Purposes
+## § 5201. Purposes
 
 The purposes of this chapter are—
 
@@ -31,7 +31,7 @@ The purposes of this chapter are—
 
 **(D)** provides public accountability for the exercise of such authority.
 
-(Pub. L. 110–343, div. A, § 2, Oct. 3, 2008, 122 Stat. 3766.)
+(Pub. L. 110–343, div. A, § 2, Oct. 3, 2008, 122 Stat. 3766.)
 
 **Editorial Notes**
 
@@ -43,29 +43,29 @@ This chapter, referred to in text, was in the original “this Act” and was tr
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–203, title XIII, § 1301, July 21, 2010, 124 Stat. 2133, provided that: “This title [amending sections 1431, 1455, 1719, 5216, and 5225 of this title and enacting provisions set out as a note under section 1455 of this title] may be cited as the ‘Pay It Back Act’.”
+Pub. L. 111–203, title XIII, § 1301, July 21, 2010, 124 Stat. 2133, provided that: “This title [amending sections 1431, 1455, 1719, 5216, and 5225 of this title and enacting provisions set out as a note under section 1455 of this title] may be cited as the ‘Pay It Back Act’.”
 
 **Short Title of 2009 Amendment**
 
-Pub. L. 111–22, div. A, § 1(a), May 20, 2009, 123 Stat. 1632, provided that: “This division [enacting sections 1715z–25, 1735f–10, 1790e, 5220a, and 5231a of this title, amending sections 1708, 1710, 1715u, 1715z–20, 1715z–23, 1715z–24, 1735f–14, 1782, 1783, 1817, 1823, 1824, 5221, 5225, 5226, 5233, and 5241 of this title, sections 1639a, 1640, and 1641 of Title 15, Commerce and Trade, section 714 of Title 31, Money and Finance, section 3703 of Title 38, Veterans’ Benefits, and sections 1437f and 1472 of Title 42, The Public Health and Welfare, repealing section 1735f–10 of this title, enacting provisions set out as notes under this section, sections 1708, 1715u, and 5220 of this title, section 1639a of Title 15, section 3703 of Title 38, and sections 1437f, 1472, and 5301 of Title 42, amending provisions set out as a note under section 5301 of Title 42, and repealing provisions set out as notes under this section and section 5220 of this title] may be cited as the ‘Helping Families Save Their Homes Act of 2009’.”
+Pub. L. 111–22, div. A, § 1(a), May 20, 2009, 123 Stat. 1632, provided that: “This division [enacting sections 1715z–25, 1735f–10, 1790e, 5220a, and 5231a of this title, amending sections 1708, 1710, 1715u, 1715z–20, 1715z–23, 1715z–24, 1735f–14, 1782, 1783, 1817, 1823, 1824, 5221, 5225, 5226, 5233, and 5241 of this title, sections 1639a, 1640, and 1641 of Title 15, Commerce and Trade, section 714 of Title 31, Money and Finance, section 3703 of Title 38, Veterans’ Benefits, and sections 1437f and 1472 of Title 42, The Public Health and Welfare, repealing section 1735f–10 of this title, enacting provisions set out as notes under this section, sections 1708, 1715u, and 5220 of this title, section 1639a of Title 15, section 3703 of Title 38, and sections 1437f, 1472, and 5301 of Title 42, amending provisions set out as a note under section 5301 of Title 42, and repealing provisions set out as notes under this section and section 5220 of this title] may be cited as the ‘Helping Families Save Their Homes Act of 2009’.”
 
-Pub. L. 111–22, div. A, title VII, § 701, May 20, 2009, 123 Stat. 1660, provided that: “This title [amending section 1437f of Title 42, The Public Health and Welfare, enacting provisions set out as notes under section 5220 of this title and section 1437f of Title 42, and repealing provisions set out as notes under this section and section 5220 of this title] may be cited as the ‘Protecting Tenants at Foreclosure Act of 2009’.”
+Pub. L. 111–22, div. A, title VII, § 701, May 20, 2009, 123 Stat. 1660, provided that: “This title [amending section 1437f of Title 42, The Public Health and Welfare, enacting provisions set out as notes under section 5220 of this title and section 1437f of Title 42, and repealing provisions set out as notes under this section and section 5220 of this title] may be cited as the ‘Protecting Tenants at Foreclosure Act of 2009’.”
 
-[Section 704 of Pub. L. 111–22, as amended, formerly set out as a Termination Date of 2009 Amendment note under section 1437f of Title 42, The Public Health and Welfare, which provided that title VII of div. A of Pub. L. 111–22, and the amendments made such title, are repealed, and the requirements under such title terminated, effective Dec. 31, 2014, was repealed by Pub. L. 115–174, title III, § 304(a), (c), May 24, 2018, 132 Stat. 1339, effective 30 days after May 24, 2018.]
+[Section 704 of Pub. L. 111–22, as amended, formerly set out as a Termination Date of 2009 Amendment note under section 1437f of Title 42, The Public Health and Welfare, which provided that title VII of div. A of Pub. L. 111–22, and the amendments made such title, are repealed, and the requirements under such title terminated, effective Dec. 31, 2014, was repealed by Pub. L. 115–174, title III, § 304(a), (c), May 24, 2018, 132 Stat. 1339, effective 30 days after May 24, 2018.]
 
 [Section 701 of Pub. L. 111–22, provisions of law amended by such section, and any regulations promulgated pursuant to such section, as in effect on Dec. 30, 2014, restored and revived, see section 304(b) of Pub. L. 115–174, set out as a note under section 1437f of Title 42, The Public Health and Welfare.]
 
-Pub. L. 111–15, § 1, Apr. 24, 2009, 123 Stat. 1603, provided that: “This Act [amending section 5231 of this title and enacting provisions set out as a note under section 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees] may be cited as the ‘Special Inspector General for the Troubled Asset Relief Program Act of 2009’.”
+Pub. L. 111–15, § 1, Apr. 24, 2009, 123 Stat. 1603, provided that: “This Act [amending section 5231 of this title and enacting provisions set out as a note under section 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees] may be cited as the ‘Special Inspector General for the Troubled Asset Relief Program Act of 2009’.”
 
 **Short Title**
 
-Pub. L. 110–343, div. A, § 1(a), Oct. 3, 2008, 122 Stat. 3765, provided that: “This division [enacting this chapter, amending sections 1715z–23, 1818, 1823, and 1828 of this title, section 5315 of Title 5, Government Organization and Employees, section 1638 of Title 15, Commerce and Trade, sections 108, 162, and 280G of Title 26, Internal Revenue Code, and sections 301, 1105, and 3101 of Title 31, Money and Finance, enacting provisions set out as notes under section 1638 of Title 15, sections 108, 162, and 280G of Title 26, and section 1105 of Title 31, and amending provisions set out as a note under section 461 of this title] may be cited as the ‘Emergency Economic Stabilization Act of 2008’.”
+Pub. L. 110–343, div. A, § 1(a), Oct. 3, 2008, 122 Stat. 3765, provided that: “This division [enacting this chapter, amending sections 1715z–23, 1818, 1823, and 1828 of this title, section 5315 of Title 5, Government Organization and Employees, section 1638 of Title 15, Commerce and Trade, sections 108, 162, and 280G of Title 26, Internal Revenue Code, and sections 301, 1105, and 3101 of Title 31, Money and Finance, enacting provisions set out as notes under section 1638 of Title 15, sections 108, 162, and 280G of Title 26, and section 1105 of Title 31, and amending provisions set out as a note under section 461 of this title] may be cited as the ‘Emergency Economic Stabilization Act of 2008’.”
 
 **Executive Documents**
 
 **Executive Order No. 13501**
 
-Ex. Ord. No. 13501, Feb. 6, 2009, 74 F.R. 6983, which established the President’s Economic Recovery Advisory Board, was revoked by Ex. Ord. No. 13564, § 5, Jan. 31, 2011, 76 F.R. 6310, set out below.
+Ex. Ord. No. 13501, Feb. 6, 2009, 74 F.R. 6983, which established the President’s Economic Recovery Advisory Board, was revoked by Ex. Ord. No. 13564, § 5, Jan. 31, 2011, 76 F.R. 6310, set out below.
 
 **Ex. Ord. No. 13564. Establishment of the President’s Council on Jobs and Competitiveness**
 
@@ -107,7 +107,7 @@ Sec. 6. *General Provisions*. (a) Insofar as the Federal Advisory Committee Act,
 
 Barack Obama.
 
-## § 5202. Definitions
+## § 5202. Definitions
 
 For purposes of this chapter, the following definitions shall apply:
 
@@ -151,7 +151,7 @@ The term “TARP” means the Troubled Asset Relief Program established under se
 
 **(B)** any other financial instrument that the Secretary, after consultation with the Chairman of the Board of Governors of the Federal Reserve System, determines the purchase of which is necessary to promote financial market stability, but only upon transmittal of such determination, in writing, to the appropriate committees of Congress.
 
-(Pub. L. 110–343, div. A, § 3, Oct. 3, 2008, 122 Stat. 3766.)
+(Pub. L. 110–343, div. A, § 3, Oct. 3, 2008, 122 Stat. 3766.)
 
 **Editorial Notes**
 
@@ -161,7 +161,7 @@ This chapter, referred to in text, was in the original “this Act” and was tr
 
 ## SUBCHAPTER I—TROUBLED ASSETS RELIEF PROGRAM
 
-### § 5211. Purchases of troubled assets
+### § 5211. Purchases of troubled assets
 
 **(a) Offices; authority**
 
@@ -211,7 +211,7 @@ In exercising the authority under this section, the Secretary shall consult with
 
 In making purchases under the authority of this chapter, the Secretary shall take such steps as may be necessary to prevent unjust enrichment of financial institutions participating in a program established under this section, including by preventing the sale of a troubled asset to the Secretary at a higher price than what the seller paid to purchase the asset. This subsection does not apply to troubled assets acquired in a merger or acquisition, or a purchase of assets from a financial institution in conservatorship or receivership, or that has initiated bankruptcy proceedings under title 11.
 
-(Pub. L. 110–343, div. A, title I, § 101, Oct. 3, 2008, 122 Stat. 3767.)
+(Pub. L. 110–343, div. A, title I, § 101, Oct. 3, 2008, 122 Stat. 3767.)
 
 **Editorial Notes**
 
@@ -223,7 +223,7 @@ This chapter, referred to in subsecs. (a)(1), (2), (c), and (e), was in the orig
 
 Section is comprised of section 101 of div. A of Pub. L. 110–343. Subsec. (a)(3)(B) of section 101 of div. A of Pub. L. 110–343 amended section 5315 of Title 5, Government Organization and Employees, and section 301 of Title 31, Money and Finance.
 
-### § 5212. Insurance of troubled assets
+### § 5212. Insurance of troubled assets
 
 **(a) Authority**
 
@@ -275,7 +275,7 @@ There is established a Troubled Assets Insurance Financing Fund that shall consi
 
 The Secretary shall make payments from amounts deposited in the Fund to fulfill obligations of the guarantees provided to financial institutions under subsection (a).
 
-(Pub. L. 110–343, div. A, title I, § 102, Oct. 3, 2008, 122 Stat. 3768.)
+(Pub. L. 110–343, div. A, title I, § 102, Oct. 3, 2008, 122 Stat. 3768.)
 
 **Editorial Notes**
 
@@ -283,7 +283,7 @@ The Secretary shall make payments from amounts deposited in the Fund to fulfill 
 
 This chapter, referred to in subsecs. (a)(3) and (c)(1), was in the original “this Act” and was translated as reading “this division”, meaning div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
-### § 5213. Considerations
+### § 5213. Considerations
 
 In exercising the authorities granted in this chapter, the Secretary shall take into consideration—
 
@@ -305,7 +305,7 @@ In exercising the authorities granted in this chapter, the Secretary shall take 
 
 **(9)** the utility of purchasing other real estate owned and instruments backed by mortgages on multifamily properties.
 
-(Pub. L. 110–343, div. A, title I, § 103, Oct. 3, 2008, 122 Stat. 3770.)
+(Pub. L. 110–343, div. A, title I, § 103, Oct. 3, 2008, 122 Stat. 3770.)
 
 **Editorial Notes**
 
@@ -313,7 +313,7 @@ In exercising the authorities granted in this chapter, the Secretary shall take 
 
 This chapter, referred to in text, was in the original “this Act” and was translated as reading “this division”, meaning div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
-### § 5214. Financial Stability Oversight Board
+### § 5214. Financial Stability Oversight Board
 
 **(a) Establishment** There is established the Financial Stability Oversight Board, which shall be responsible for—
 
@@ -369,7 +369,7 @@ The Financial Stability Oversight Board shall report to the appropriate committe
 
 **(2)** the date of expiration of the last insurance contract issued under section 5212 of this title.
 
-(Pub. L. 110–343, div. A, title I, § 104, Oct. 3, 2008, 122 Stat. 3770.)
+(Pub. L. 110–343, div. A, title I, § 104, Oct. 3, 2008, 122 Stat. 3770.)
 
 **Editorial Notes**
 
@@ -377,7 +377,7 @@ The Financial Stability Oversight Board shall report to the appropriate committe
 
 This chapter, referred to in text, was in the original “this Act” and was translated as reading “this division”, meaning div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
-### § 5215. Reports
+### § 5215. Reports
 
 **(a) In general** Before the expiration of the 60-day period beginning on the date of the first exercise of the authority granted in section 5211(a) of this title, or of the first exercise of the authority granted in section 5212 of this title, whichever occurs first, and every 30-day period thereafter, the Secretary shall report to the appropriate committees of Congress, with respect to each such period—
 
@@ -443,7 +443,7 @@ Any report required under this section shall also be submitted to the Congressio
 
 **(2)** the date of expiration of the last insurance contract issued under section 5212 of this title.
 
-(Pub. L. 110–343, div. A, title I, § 105, Oct. 3, 2008, 122 Stat. 3771.)
+(Pub. L. 110–343, div. A, title I, § 105, Oct. 3, 2008, 122 Stat. 3771.)
 
 **Editorial Notes**
 
@@ -451,7 +451,7 @@ Any report required under this section shall also be submitted to the Congressio
 
 This chapter, referred to in subsecs. (a)(3) and (b)(1)(F), (2), was in the original “this Act” and was translated as reading “this division”, meaning div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
-### § 5216. Rights; management; sale of troubled assets; revenues and sale proceeds
+### § 5216. Rights; management; sale of troubled assets; revenues and sale proceeds
 
 **(a) Exercise of rights**
 
@@ -477,7 +477,7 @@ The authority of the Secretary to hold any troubled asset purchased under this c
 
 The Secretary of the Treasury shall report to Congress every 6 months on amounts received and transferred to the general fund under subsection (d).
 
-(Pub. L. 110–343, div. A, title I, § 106, Oct. 3, 2008, 122 Stat. 3773; Pub. L. 111–203, title XIII, § 1303, July 21, 2010, 124 Stat. 2133.)
+(Pub. L. 110–343, div. A, title I, § 106, Oct. 3, 2008, 122 Stat. 3773; Pub. L. 111–203, title XIII, § 1303, July 21, 2010, 124 Stat. 2133.)
 
 **Editorial Notes**
 
@@ -495,7 +495,7 @@ This chapter, referred to in text, was in the original “this Act” and was tr
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
 
-### § 5217. Contracting procedures
+### § 5217. Contracting procedures
 
 **(a) Streamlined process**
 
@@ -503,9 +503,9 @@ For purposes of this chapter, the Secretary may waive specific provisions of the
 
 **(b) Additional contracting requirements**
 
-In any solicitation or contract where the Secretary has, pursuant to subsection (a), waived any provision of the Federal Acquisition Regulation pertaining to minority contracting, the Secretary shall develop and implement standards and procedures to ensure, to the maximum extent practicable, the inclusion and utilization of minorities (as such term is defined in section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1811 note)) and women, and minority- and women-owned businesses (as such terms are defined in section 1441a(r)(4) 1
+In any solicitation or contract where the Secretary has, pursuant to subsection (a), waived any provision of the Federal Acquisition Regulation pertaining to minority contracting, the Secretary shall develop and implement standards and procedures to ensure, to the maximum extent practicable, the inclusion and utilization of minorities (as such term is defined in section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1811 note)) and women, and minority- and women-owned businesses (as such terms are defined in section 1441a(r)(4) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title), and individuals with disabilities and businesses owned by individuals with disabilities (for purposes of this subsection the term “individual with disability” has the same meaning as the term “handicapped individual” as that term is defined in section 632(f) of title 15), in that solicitation or contract, including contracts to asset managers, servicers, property managers, and other service providers or expert consultants.
 
@@ -515,7 +515,7 @@ of this title), and individuals with disabilities and businesses owned by indivi
 
 **(2)** shall be reimbursed by the Secretary for any services provided.
 
-(Pub. L. 110–343, div. A, title I, § 107, Oct. 3, 2008, 122 Stat. 3773; Pub. L. 111–5, div. A, title XVI, § 1608, Feb. 17, 2009, 123 Stat. 304.)
+(Pub. L. 110–343, div. A, title I, § 107, Oct. 3, 2008, 122 Stat. 3773; Pub. L. 111–5, div. A, title XVI, § 1608, Feb. 17, 2009, 123 Stat. 304.)
 
 **Editorial Notes**
 
@@ -525,7 +525,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act” and
 
 Section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (b), is section 1204(c) of Pub. L. 101–73, which is set out as a note under section 1811 of this title.
 
-Section 1441a(r)(4) of this title, referred to in subsec. (b), was repealed by Pub. L. 111–203, title III, § 364(b), July 21, 2010, 124 Stat. 1555.
+Section 1441a(r)(4) of this title, referred to in subsec. (b), was repealed by Pub. L. 111–203, title III, § 364(b), July 21, 2010, 124 Stat. 1555.
 
 **Amendments**
 
@@ -537,7 +537,7 @@ Section 1441a(r)(4) of this title, referred to in subsec. (b), was repealed by P
 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-### § 5218. Conflicts of interest
+### § 5218. Conflicts of interest
 
 **(a) Standards required** The Secretary shall issue regulations or guidelines necessary to address and manage or to prohibit conflicts of interest that may arise in connection with the administration and execution of the authorities provided under this chapter, including—
 
@@ -555,7 +555,7 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 Regulations or guidelines required by this section shall be issued as soon as practicable after October 3, 2008.
 
-(Pub. L. 110–343, div. A, title I, § 108, Oct. 3, 2008, 122 Stat. 3774.)
+(Pub. L. 110–343, div. A, title I, § 108, Oct. 3, 2008, 122 Stat. 3774.)
 
 **Editorial Notes**
 
@@ -563,15 +563,15 @@ Regulations or guidelines required by this section shall be issued as soon as pr
 
 This chapter, referred to in subsec. (a), was in the original “this Act” and was translated as reading “this division”, meaning div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
-### § 5219. Foreclosure mitigation efforts
+### § 5219. Foreclosure mitigation efforts
 
 **(a) Residential mortgage loan servicing standards**
 
 **(1) In general**
 
-To the extent that the Secretary acquires mortgages, mortgage backed 1
+To the extent that the Secretary acquires mortgages, mortgage backed 1
 
-<sup>1</sup>  So in original. Probably should be “mortgage-backed”.
+<sup>1</sup> So in original. Probably should be “mortgage-backed”.
 
 securities, and other assets secured by residential real estate, including multifamily housing, the Secretary shall implement a plan that seeks to maximize assistance for homeowners and use the authority of the Secretary to encourage the servicers of the underlying mortgages, considering net present value to the taxpayer, to take advantage of the HOPE for Homeowners Program under section 1715z–23 of this title or other available programs to minimize foreclosures. In addition, the Secretary may use loan guarantees and credit enhancements to facilitate loan modifications to prevent avoidable foreclosures and to remediate lead and asbestos hazards in residential properties.
 
@@ -587,7 +587,7 @@ The Secretary shall coordinate with the Corporation, the Board (with respect to 
 
 Upon any request arising under existing investment contracts, the Secretary shall consent, where appropriate, and considering net present value to the taxpayer, to reasonable requests for loss mitigation measures, including term extensions, rate reductions, principal write downs, increases in the proportion of loans within a trust or other structure allowed to be modified, or removal of other limitation on modifications.
 
-(Pub. L. 110–343, div. A, title I, § 109, Oct. 3, 2008, 122 Stat. 3774; Pub. L. 111–5, div. B, title VII, § 7002, Feb. 17, 2009, 123 Stat. 521; Pub. L. 115–174, title III, § 305, May 24, 2018, 132 Stat. 1339.)
+(Pub. L. 110–343, div. A, title I, § 109, Oct. 3, 2008, 122 Stat. 3774; Pub. L. 111–5, div. B, title VII, § 7002, Feb. 17, 2009, 123 Stat. 521; Pub. L. 115–174, title III, § 305, May 24, 2018, 132 Stat. 1339.)
 
 **Editorial Notes**
 
@@ -597,7 +597,7 @@ Upon any request arising under existing investment contracts, the Secretary shal
 
 2009—Subsec. (a). Pub. L. 111–5 designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
 
-### § 5219a. Home Affordable Modification Program guidelines
+### § 5219a. Home Affordable Modification Program guidelines
 
 **(a) Net present value input data**
 
@@ -623,7 +623,7 @@ The Secretary shall make a reasonable effort to include on such World Wide Web s
 
 **(2)** all non-proprietary variables used in such net present value analysis.
 
-(Pub. L. 111–203, title XIV, § 1482, July 21, 2010, 124 Stat. 2203.)
+(Pub. L. 111–203, title XIV, § 1482, July 21, 2010, 124 Stat. 2203.)
 
 **Editorial Notes**
 
@@ -641,7 +641,7 @@ Section was enacted as part of the Mortgage Reform and Anti-Predatory Lending Ac
 
 Section effective on the date on which final regulations implementing such section take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1601 of Title 15, Commerce and Trade.
 
-### § 5219b. Public availability of information of Making Home Affordable Program
+### § 5219b. Public availability of information of Making Home Affordable Program
 
 **(a) Revisions to Program guidelines**
 
@@ -665,7 +665,7 @@ The Secretary of the Treasury (in this section referred to as the “Secretary�
 
 **(B)** such deletions as the Secretary may determine to be appropriate to protect any privacy interest of any mortgage modification applicant, including the deletion or alteration of the applicant’s name and identification number.
 
-(Pub. L. 111–203, title XIV, § 1483, July 21, 2010, 124 Stat. 2203.)
+(Pub. L. 111–203, title XIV, § 1483, July 21, 2010, 124 Stat. 2203.)
 
 **Editorial Notes**
 
@@ -683,7 +683,7 @@ Section was enacted as part of the Mortgage Reform and Anti-Predatory Lending Ac
 
 Section effective on the date on which final regulations implementing such section take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1601 of Title 15, Commerce and Trade.
 
-### § 5220. Assistance to homeowners
+### § 5220. Assistance to homeowners
 
 **(a) Definitions** As used in this section—
 
@@ -695,7 +695,7 @@ Section effective on the date on which final regulations implementing such secti
 
 **(C)** the Board, with respect to any mortgage or mortgage-backed securities or pool of securities held, owned, or controlled by or on behalf of a Federal reserve bank, other than mortgages or securities held, owned, or controlled in connection with open market operations under sections 348a and 353 to 359 of this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or as collateral for an advance or discount that is not in default;
 
@@ -709,9 +709,9 @@ or as collateral for an advance or discount that is not in default;
 
 **(1) In general**
 
-To the extent that the Federal property manager holds, owns, or controls mortgages, mortgage backed 2
+To the extent that the Federal property manager holds, owns, or controls mortgages, mortgage backed 2
 
-<sup>2</sup>  So in original. Probably should be “mortgage-backed”.
+<sup>2</sup> So in original. Probably should be “mortgage-backed”.
 
 securities, and other assets secured by residential real estate, including multifamily housing, the Federal property manager shall implement a plan that seeks to maximize assistance for homeowners and use its authority to encourage the servicers of the underlying mortgages, and considering net present value to the taxpayer, to take advantage of the HOPE for Homeowners Program under section 1715z–23 of this title or other available programs to minimize foreclosures.
 
@@ -751,7 +751,7 @@ In developing the plan required by this subsection, the Federal property manager
 
 The requirements of this section shall not supersede any other duty or requirement imposed on the Federal property managers under otherwise applicable law.
 
-(Pub. L. 110–343, div. A, title I, § 110, Oct. 3, 2008, 122 Stat. 3775.)
+(Pub. L. 110–343, div. A, title I, § 110, Oct. 3, 2008, 122 Stat. 3775.)
 
 **Editorial Notes**
 
@@ -763,7 +763,7 @@ Sections 348a and 353 to 359 of this title, referred to in subsec. (a)(1)(C), wa
 
 **Effect of Foreclosure on Preexisting Tenancy**
 
-Pub. L. 111–22, div. A, title VII, § 702, May 20, 2009, 123 Stat. 1660, as amended by Pub. L. 111–203, title XIV, § 1484(1), July 21, 2010, 124 Stat. 2204, provided that:
+Pub. L. 111–22, div. A, title VII, § 702, May 20, 2009, 123 Stat. 1660, as amended by Pub. L. 111–203, title XIV, § 1484(1), July 21, 2010, 124 Stat. 2204, provided that:
 
 > **“(a) In General.—** In the case of any foreclosure on a federally-related mortgage loan or on any dwelling or residential real property after the date of enactment of this title [May 20, 2009], any immediate successor in interest in such property pursuant to the foreclosure shall assume such interest subject to—
 
@@ -787,15 +787,15 @@ Pub. L. 111–22, div. A, title VII, § 702, May 20, 2009, 123 Stat. 1660, as 
 
 > **“(c) Definition.—** For purposes of this section, the term ‘federally-related mortgage loan’ has the same meaning as in section 3 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2602). For purposes of this section, the date of a notice of foreclosure shall be deemed to be the date on which complete title to a property is transferred to a successor entity or person as a result of an order of a court or pursuant to provisions in a mortgage, deed of trust, or security deed.”
 
-[Section 704 of Pub. L. 111–22, as amended, formerly set out as a Termination Date of 2009 Amendment note under section 1437f of Title 42, The Public Health and Welfare, which provided that title VII of div. A of Pub. L. 111–22, and the amendments made such title, are repealed, and the requirements under such title terminated, effective Dec. 31, 2014, was repealed by Pub. L. 115–174, title III, § 304(a), (c), May 24, 2018, 132 Stat. 1339, effective 30 days after May 24, 2018.]
+[Section 704 of Pub. L. 111–22, as amended, formerly set out as a Termination Date of 2009 Amendment note under section 1437f of Title 42, The Public Health and Welfare, which provided that title VII of div. A of Pub. L. 111–22, and the amendments made such title, are repealed, and the requirements under such title terminated, effective Dec. 31, 2014, was repealed by Pub. L. 115–174, title III, § 304(a), (c), May 24, 2018, 132 Stat. 1339, effective 30 days after May 24, 2018.]
 
 [Section 702 of Pub. L. 111–22, provisions of law amended by such section, and any regulations promulgated pursuant to such section, as in effect on Dec. 30, 2014, restored and revived, see section 304(b) of Pub. L. 115–174, set out as a note under section 1437f of Title 42, The Public Health and Welfare.]
 
-### § 5220a. Application of GSE conforming loan limit to mortgages assisted with TARP funds
+### § 5220a. Application of GSE conforming loan limit to mortgages assisted with TARP funds
 
 In making any assistance available to prevent and mitigate foreclosures on residential properties, including any assistance for mortgage modifications, using any amounts made available to the Secretary of the Treasury under title I of the Emergency Economic Stabilization Act of 2008 [12 U.S.C. 5211 et seq.], the Secretary shall provide that the limitation on the maximum original principal obligation of a mortgage that may be modified, refinanced, made, guaranteed, insured, or otherwise assisted, using such amounts shall not be less than the dollar amount limitation on the maximum original principal obligation of a mortgage that may be purchased by the Federal Home Loan Mortgage Corporation that is in effect, at the time that the mortgage is modified, refinanced, made, guaranteed, insured, or otherwise assisted using such amounts, for the area in which the property involved in the transaction is located.
 
-(Pub. L. 111–22, div. A, title II, § 205, May 20, 2009, 123 Stat. 1654.)
+(Pub. L. 111–22, div. A, title II, § 205, May 20, 2009, 123 Stat. 1654.)
 
 **Editorial Notes**
 
@@ -807,7 +807,7 @@ The Emergency Economic Stabilization Act of 2008, referred to in text, is div. A
 
 Section was enacted as part of the Helping Families Save Their Homes Act of 2009, and not as part of the Emergency Economic Stabilization Act of 2008 which comprises this chapter.
 
-### § 5220b. Multifamily mortgage resolution program
+### § 5220b. Multifamily mortgage resolution program
 
 **(a) Establishment** The Secretary of Housing and Urban Development shall develop a program under this subsection to ensure the protection of current and future tenants and at-risk multifamily properties, where feasible, based on criteria that may include—
 
@@ -849,7 +849,7 @@ The Secretary shall establish procedures to ensure compliance with this subsecti
 
 The Secretary shall report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate regarding the implementation of this provision. The report shall also describe the steps taken to implement this subsection.
 
-(Pub. L. 111–203, title XIV, § 1481, July 21, 2010, 124 Stat. 2202.)
+(Pub. L. 111–203, title XIV, § 1481, July 21, 2010, 124 Stat. 2202.)
 
 **Editorial Notes**
 
@@ -871,7 +871,7 @@ Section effective on the date on which final regulations implementing such secti
 
 For definitions of terms contained in this section, see section 5301 of this title.
 
-### § 5221. Executive compensation and corporate governance
+### § 5221. Executive compensation and corporate governance
 
 **(a) Definitions** For purposes of this section, the following definitions shall apply:
 
@@ -923,9 +923,9 @@ The Secretary shall require each TARP recipient to meet appropriate standards fo
 
 **(II)** has a value in an amount that is not greater than ⅓ of the total amount of annual compensation of the employee receiving the stock; and
 
-**(III)** is subject to such other terms and conditions as the Secretary may determine is 1
+**(III)** is subject to such other terms and conditions as the Secretary may determine is 1
 
-<sup>1</sup>  So in original. Probably should be “are”.
+<sup>1</sup> So in original. Probably should be “are”.
 
 in the public interest.
 
@@ -1007,27 +1007,27 @@ Subject to consultation with the appropriate Federal banking agency (as that ter
 
 The Secretary shall promulgate regulations to implement this section.
 
-(Pub. L. 110–343, div. A, title I, § 111, Oct. 3, 2008, 122 Stat. 3776; Pub. L. 111–5, div. B, title VII, § 7001, Feb. 17, 2009, 123 Stat. 516; Pub. L. 111–22, div. A, title IV, § 403, May 20, 2009, 123 Stat. 1658.)
+(Pub. L. 110–343, div. A, title I, § 111, Oct. 3, 2008, 122 Stat. 3776; Pub. L. 111–5, div. B, title VII, § 7001, Feb. 17, 2009, 123 Stat. 516; Pub. L. 111–22, div. A, title IV, § 403, May 20, 2009, 123 Stat. 1658.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Exchange Act of 1934, referred to in subsecs. (a)(1) and (c)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in subsecs. (a)(1) and (c)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 **Amendments**
 
 2009—Pub. L. 111–5 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to applicability of requirements, direct purchases of troubled assets, auction purchases of troubled assets, and sunset of provisions, respectively.
 
-Subsec. (g). Pub. L. 111–22 substituted “, at the market price, may liquidate warrants associated with such assistance” for “shall liquidate warrants associated with such assistance at the current market price”.
+Subsec. (g). Pub. L. 111–22 substituted “, at the market price, may liquidate warrants associated with such assistance” for “shall liquidate warrants associated with such assistance at the current market price”.
 
-### § 5222. Coordination with foreign authorities and central banks
+### § 5222. Coordination with foreign authorities and central banks
 
 The Secretary shall coordinate, as appropriate, with foreign financial authorities and central banks to work toward the establishment of similar programs by such authorities and central banks. To the extent that such foreign financial authorities or banks hold troubled assets as a result of extending financing to financial institutions that have failed or defaulted on such financing, such troubled assets qualify for purchase under section 5211 of this title.
 
-(Pub. L. 110–343, div. A, title I, § 112, Oct. 3, 2008, 122 Stat. 3777.)
+(Pub. L. 110–343, div. A, title I, § 112, Oct. 3, 2008, 122 Stat. 3777.)
 
-### § 5223. Minimization of long-term costs and maximization of benefits for taxpayers
+### § 5223. Minimization of long-term costs and maximization of benefits for taxpayers
 
 **(a) Long-term costs and benefits**
 
@@ -1061,7 +1061,7 @@ If the Secretary determines that use of a market mechanism under subsection (b) 
 
 **(A)** in the case of a financial institution, the securities of which are traded on a national securities exchange, a warrant giving the right to the Secretary to receive nonvoting common stock or preferred stock in such financial institution, or voting stock with respect to which,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 the Secretary agrees not to exercise voting power, as the Secretary determines appropriate; or
 
@@ -1105,7 +1105,7 @@ The Secretary shall establish de minimis exceptions to the requirements of this 
 
 The Secretary shall establish an exception to the requirements of this subsection and appropriate alternative requirements for any participating financial institution that is legally prohibited from issuing securities and debt instruments, so as not to allow circumvention of the requirements of this section.
 
-(Pub. L. 110–343, div. A, title I, § 113, Oct. 3, 2008, 122 Stat. 3777.)
+(Pub. L. 110–343, div. A, title I, § 113, Oct. 3, 2008, 122 Stat. 3777.)
 
 **Editorial Notes**
 
@@ -1113,7 +1113,7 @@ The Secretary shall establish an exception to the requirements of this subsectio
 
 This chapter, referred to in text, was in the original “this Act” and was translated as reading “this division”, meaning div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
-### § 5224. Market transparency
+### § 5224. Market transparency
 
 **(a) Pricing**
 
@@ -1121,13 +1121,13 @@ To facilitate market transparency, the Secretary shall make available to the pub
 
 **(b) Disclosure**
 
-For each type of financial institutions 1
+For each type of financial institutions 1
 
-<sup>1</sup>  So in original. Probably should be “institution”.
+<sup>1</sup> So in original. Probably should be “institution”.
 
 that sells troubled assets to the Secretary under this chapter, the Secretary shall determine whether the public disclosure required for such financial institutions with respect to off-balance sheet transactions, derivatives instruments, contingent liabilities, and similar sources of potential exposure is adequate to provide to the public sufficient information as to the true financial position of the institutions. If such disclosure is not adequate for that purpose, the Secretary shall make recommendations for additional disclosure requirements to the relevant regulators.
 
-(Pub. L. 110–343, div. A, title I, § 114, Oct. 3, 2008, 122 Stat. 3780.)
+(Pub. L. 110–343, div. A, title I, § 114, Oct. 3, 2008, 122 Stat. 3780.)
 
 **Editorial Notes**
 
@@ -1135,7 +1135,7 @@ that sells troubled assets to the Secretary under this chapter, the Secretary sh
 
 This chapter, referred to in text, was in the original “this Act” and was translated as reading “this division”, meaning div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
-### § 5225. Graduated authorization to purchase
+### § 5225. Graduated authorization to purchase
 
 **(a) Authority** The authority of the Secretary to purchase troubled assets under this chapter shall be limited as follows:
 
@@ -1179,9 +1179,9 @@ Notwithstanding any other provision of this section, the Secretary may not exerc
 
 **(1) Reconvening**
 
-Upon receipt of a report under subsection (a)(3), the Speaker, if the House would otherwise be adjourned, shall notify the Members of the House that, pursuant to this section, the House shall convene not later than the second calendar day after receipt of such report; 1
+Upon receipt of a report under subsection (a)(3), the Speaker, if the House would otherwise be adjourned, shall notify the Members of the House that, pursuant to this section, the House shall convene not later than the second calendar day after receipt of such report; 1
 
-<sup>1</sup>  So in original. The semicolon probably should be a period.
+<sup>1</sup> So in original. The semicolon probably should be a period.
 
 **(2) Reporting and discharge**
 
@@ -1261,7 +1261,7 @@ If Congress passes a joint resolution, the period beginning on the date the Pres
 
 **(B)** with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
 
-(Pub. L. 110–343, div. A, title I, § 115, Oct. 3, 2008, 122 Stat. 3780; Pub. L. 111–22, div. A, title II, § 202(b), title IV, § 402(f), May 20, 2009, 123 Stat. 1643, 1658; Pub. L. 111–203, title XIII, § 1302, July 21, 2010, 124 Stat. 2133.)
+(Pub. L. 110–343, div. A, title I, § 115, Oct. 3, 2008, 122 Stat. 3780; Pub. L. 111–22, div. A, title II, § 202(b), title IV, § 402(f), May 20, 2009, 123 Stat. 1643, 1658; Pub. L. 111–203, title XIII, § 1302, July 21, 2010, 124 Stat. 2133.)
 
 **Editorial Notes**
 
@@ -1273,15 +1273,15 @@ The Emergency Economic Stabilization Act of 2008, referred to in subsec. (c)(2)(
 
 **Amendments**
 
-2010—Subsec. (a)(3). Pub. L. 111–203, § 1302(1)(B), struck out “outstanding at any one time” before the period at the end.
+2010—Subsec. (a)(3). Pub. L. 111–203, § 1302(1)(B), struck out “outstanding at any one time” before the period at the end.
 
-Pub. L. 111–203, § 1302(1)(A), which directed substitution of “$475,000,000,000” for “, $700,000,000,000, as such amount is reduced by $1,259,000,000, as such amount is reduced by $1,244,000,000”, was executed by making the substitution for “$700,000,000,000, as such amount is reduced by $1,259,000,000,, as such amount is reduced by $1,244,000,000,”, to reflect the probable intent of Congress.
+Pub. L. 111–203, § 1302(1)(A), which directed substitution of “$475,000,000,000” for “, $700,000,000,000, as such amount is reduced by $1,259,000,000, as such amount is reduced by $1,244,000,000”, was executed by making the substitution for “$700,000,000,000, as such amount is reduced by $1,259,000,000,, as such amount is reduced by $1,244,000,000,”, to reflect the probable intent of Congress.
 
-Subsec. (a)(4), (5). Pub. L. 111–203, § 1302(2), added pars. (4) and (5).
+Subsec. (a)(4), (5). Pub. L. 111–203, § 1302(2), added pars. (4) and (5).
 
-2009—Subsec. (a)(3). Pub. L. 111–22, § 402(f), inserted “, as such amount is reduced by $1,259,000,000,” after “$700,000,000,000”.
+2009—Subsec. (a)(3). Pub. L. 111–22, § 402(f), inserted “, as such amount is reduced by $1,259,000,000,” after “$700,000,000,000”.
 
-Pub. L. 111–22, § 202(b), inserted of “, as such amount is reduced by $1,244,000,000,” after “$700,000,000,000”.
+Pub. L. 111–22, § 202(b), inserted of “, as such amount is reduced by $1,244,000,000,” after “$700,000,000,000”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1289,13 +1289,13 @@ Pub. L. 111–22, § 202(b), inserted of “, as such amount is reduced by $
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
 
-### § 5226. Oversight and audits
+### § 5226. Oversight and audits
 
 **(a) Comptroller General oversight**
 
-**(1) Scope of oversight** The Comptroller General of the United States shall, upon establishment of the troubled assets relief program 1
+**(1) Scope of oversight** The Comptroller General of the United States shall, upon establishment of the troubled assets relief program 1
 
-<sup>1</sup>  So in original. Probably should be “Troubled Asset Relief Program”.
+<sup>1</sup> So in original. Probably should be “Troubled Asset Relief Program”.
 
 under this chapter (in this section referred to as the “TARP”), commence ongoing oversight of the activities and performance of the TARP and of any agents and representatives of the TARP (as related to the agent or representative’s activities on behalf of or under the authority of the TARP), including vehicles established by the Secretary under this chapter. The subjects of such oversight shall include the following:
 
@@ -1323,15 +1323,15 @@ under this chapter (in this section referred to as the “TARP”), commence ong
 
 **(G)** The efforts of the TARP to prevent, identify, and minimize conflicts of interest involving any agent or representative performing activities on behalf of or under the authority of the TARP.
 
-**(H)** The efficacy of contracting procedures pursuant to section 5217(b) of this title, including, as applicable, the efforts of the TARP in evaluating proposals for inclusion and contracting to the maximum extent possible of minorities (as such term is defined in 1204(c) 2
+**(H)** The efficacy of contracting procedures pursuant to section 5217(b) of this title, including, as applicable, the efforts of the TARP in evaluating proposals for inclusion and contracting to the maximum extent possible of minorities (as such term is defined in 1204(c) 2
 
-<sup>2</sup>  So in original. Probably should be preceded by “section”.
+<sup>2</sup> So in original. Probably should be preceded by “section”.
 
-of the Financial Institutions Reform, Recovery, and Enhancement Act of 1989 3
+of the Financial Institutions Reform, Recovery, and Enhancement Act of 1989 3
 
-<sup>3</sup>  See References in Text note below.
+<sup>3</sup> See References in Text note below.
 
-(12 U.S.C. 1811 note), women, and minority- and women-owned businesses, including ascertaining and reporting the total amount of fees paid and other value delivered by the TARP to all of its agents and representatives, and such amounts paid or delivered to such firms that are minority- and women-owned businesses (as such terms are defined in section 1441a 3 of this title).
+(12 U.S.C. 1811 note), women, and minority- and women-owned businesses, including ascertaining and reporting the total amount of fees paid and other value delivered by the TARP to all of its agents and representatives, and such amounts paid or delivered to such firms that are minority- and women-owned businesses (as such terms are defined in section 1441a 3 of this title).
 
 **(2) Conduct and administration of oversight**
 
@@ -1341,7 +1341,7 @@ In this paragraph, the term “governmental unit” has the meaning given under 
 
 **(B) GAO presence**
 
-The Secretary shall provide the Comptroller General with appropriate space and facilities in the Department of the Treasury as necessary to facilitate oversight of the TARP until the termination date established in section 5230 <sup>3</sup> of this title.
+The Secretary shall provide the Comptroller General with appropriate space and facilities in the Department of the Treasury as necessary to facilitate oversight of the TARP until the termination date established in section 5230 <sup>3</sup> of this title.
 
 **(C) Access to records**
 
@@ -1425,7 +1425,7 @@ Any report or audit required under this section shall also be submitted to the C
 
 **(2)** the date of expiration of the last insurance contract issued under section 5212 of this title.
 
-(Pub. L. 110–343, div. A, title I, § 116, Oct. 3, 2008, 122 Stat. 3783; Pub. L. 111–22, div. A, title VI, § 601, May 20, 2009, 123 Stat. 1659; Pub. L. 114–301, § 3(a), Dec. 16, 2016, 130 Stat. 1514.)
+(Pub. L. 110–343, div. A, title I, § 116, Oct. 3, 2008, 122 Stat. 3783; Pub. L. 111–22, div. A, title VI, § 601, May 20, 2009, 123 Stat. 1659; Pub. L. 114–301, § 3(a), Dec. 16, 2016, 130 Stat. 1514.)
 
 **Editorial Notes**
 
@@ -1435,19 +1435,19 @@ This chapter, referred to in subsecs. (a) and (b)(2), was in the original “thi
 
 Section 1204 of the Financial Institutions Reform, Recovery, and Enhancement Act of 1989, referred to in subsec. (a)(1)(H), probably means section 1204 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, Pub. L. 101–73, which is set out as a note under section 1811 of this title.
 
-Section 1441a of this title, referred to in subsec. (a)(1)(H), was repealed by Pub. L. 111–203, title III, § 364(b), July 21, 2010, 124 Stat. 1555.
+Section 1441a of this title, referred to in subsec. (a)(1)(H), was repealed by Pub. L. 111–203, title III, § 364(b), July 21, 2010, 124 Stat. 1555.
 
 Section 5230 of this title, referred to in subsec. (a)(2)(B), was so in the original, but probably should have been a reference to section 120 of title I of div. A of Pub. L. 110–343, which is classified to section 5230 of this title.
 
 **Amendments**
 
-2016—Subsec. (a)(3). Pub. L. 114–301 substituted “annually” for “, regularly and no less frequently than once every 60 days,”.
+2016—Subsec. (a)(3). Pub. L. 114–301 substituted “annually” for “, regularly and no less frequently than once every 60 days,”.
 
-2009—Subsec. (a)(1)(A)(v). Pub. L. 111–22, § 601(1), added cl. (v).
+2009—Subsec. (a)(1)(A)(v). Pub. L. 111–22, § 601(1), added cl. (v).
 
-Subsec. (a)(2). Pub. L. 111–22, § 601(2), added subpars. (A) to (E), redesignated former subpar. (C) as (F), and struck out former subpars. (A) and (B) which related to GAO presence and access to records, respectively.
+Subsec. (a)(2). Pub. L. 111–22, § 601(2), added subpars. (A) to (E), redesignated former subpar. (C) as (F), and struck out former subpars. (A) and (B) which related to GAO presence and access to records, respectively.
 
-### § 5227. Study and report on margin authority
+### § 5227. Study and report on margin authority
 
 **(a) Study**
 
@@ -1471,13 +1471,13 @@ Not later than June 1, 2009, the Comptroller General shall complete and submit a
 
 Any reports required under this section shall also be submitted to the Congressional Oversight Panel established under section 5233 of this title.
 
-(Pub. L. 110–343, div. A, title I, § 117, Oct. 3, 2008, 122 Stat. 3786.)
+(Pub. L. 110–343, div. A, title I, § 117, Oct. 3, 2008, 122 Stat. 3786.)
 
-### § 5228. Funding
+### § 5228. Funding
 
 For the purpose of the authorities granted in this chapter, and for the costs of administering those authorities, the Secretary may use the proceeds of the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under chapter 31 of title 31 are extended to include actions authorized by this chapter, including the payment of administrative expenses. Any funds expended or obligated by the Secretary for actions authorized by this chapter, including the payment of administrative expenses, shall be deemed appropriated at the time of such expenditure or obligation.
 
-(Pub. L. 110–343, div. A, title I, § 118, Oct. 3, 2008, 122 Stat. 3786.)
+(Pub. L. 110–343, div. A, title I, § 118, Oct. 3, 2008, 122 Stat. 3786.)
 
 **Editorial Notes**
 
@@ -1485,7 +1485,7 @@ For the purpose of the authorities granted in this chapter, and for the costs of
 
 This chapter, referred to in text, was in the original “this Act” and was translated as reading “this division”, meaning div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
-### § 5229. Judicial review and related matters
+### § 5229. Judicial review and related matters
 
 **(a) Judicial review**
 
@@ -1497,9 +1497,9 @@ Actions by the Secretary pursuant to the authority of this chapter shall be subj
 
 **(A) Injunction**
 
-No injunction or other form of equitable relief shall be issued against the Secretary for actions pursuant to section 1
+No injunction or other form of equitable relief shall be issued against the Secretary for actions pursuant to section 1
 
-<sup>1</sup>  So in original. Probably should be “sections”.
+<sup>1</sup> So in original. Probably should be “sections”.
 
 5211, 5212, 5216, and 5219 of this title, other than to remedy a violation of the Constitution.
 
@@ -1521,7 +1521,7 @@ No action or claims may be brought against the Secretary by any person that dive
 
 **(4) Stays**
 
-Any injunction or other form of equitable relief issued against the Secretary for actions pursuant to section <sup>1</sup> 5211, 5212, 5216, and 5219 of this title, shall be automatically stayed. The stay shall be lifted unless the Secretary seeks a stay from a higher court within 3 calendar days after the date on which the relief is issued.
+Any injunction or other form of equitable relief issued against the Secretary for actions pursuant to section <sup>1</sup> 5211, 5212, 5216, and 5219 of this title, shall be automatically stayed. The stay shall be lifted unless the Secretary seeks a stay from a higher court within 3 calendar days after the date on which the relief is issued.
 
 **(b) Related matters**
 
@@ -1531,13 +1531,13 @@ The terms of any residential mortgage loan that is part of any purchase by the S
 
 **(2) Savings clause**
 
-Any exercise of the authority of the Secretary pursuant to this chapter shall not impair the claims or defenses that would otherwise apply with respect to persons other than the Secretary. Except as established in any contract, a servicer of pooled residential mortgages owes any 2
+Any exercise of the authority of the Secretary pursuant to this chapter shall not impair the claims or defenses that would otherwise apply with respect to persons other than the Secretary. Except as established in any contract, a servicer of pooled residential mortgages owes any 2
 
-<sup>2</sup>  So in original. Probably should be “a”.
+<sup>2</sup> So in original. Probably should be “a”.
 
 duty to determine whether the net present value of the payments on the loan, as modified, is likely to be greater than the anticipated net recovery that would result from foreclosure to all investors and holders of beneficial interests in such investment, but not to any individual or groups of investors or beneficial interest holders, and shall be deemed to act in the best interests of all such investors or holders of beneficial interests if the servicer agrees to or implements a modification or workout plan when the servicer takes reasonable loss mitigation actions, including partial payments.
 
-(Pub. L. 110–343, div. A, title I, § 119, Oct. 3, 2008, 122 Stat. 3787.)
+(Pub. L. 110–343, div. A, title I, § 119, Oct. 3, 2008, 122 Stat. 3787.)
 
 **Editorial Notes**
 
@@ -1547,7 +1547,7 @@ This chapter, referred to in text, was in the original “this Act” and was tr
 
 The Federal Rules of Civil Procedure, referred to in subsec. (a)(2)(C), (D), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### § 5230. Termination of authority
+### § 5230. Termination of authority
 
 **(a) Termination**
 
@@ -1557,7 +1557,7 @@ The authorities provided under sections 5211(a), excluding section 5211(a)(3), a
 
 The Secretary, upon submission of a written certification to Congress, may extend the authority provided under this chapter to expire not later than 2 years from October 3, 2008. Such certification shall include a justification of why the extension is necessary to assist American families and stabilize financial markets, as well as the expected cost to the taxpayers for such an extension. Notwithstanding the foregoing, the Secretary may further extend the authority provided under this chapter to expire on December 31, 2017, provided that (1) any such extension shall apply only with respect to current program participants in the Housing Finance Agency Innovation Fund for the Hardest Hit Housing Markets, and (2) funds obligated following such extension shall not exceed $2,000,000,000.
 
-(Pub. L. 110–343, div. A, title I, § 120, Oct. 3, 2008, 122 Stat. 3788; Pub. L. 114–113, div. O, title VII, § 709(a), Dec. 18, 2015, 129 Stat. 3030.)
+(Pub. L. 110–343, div. A, title I, § 120, Oct. 3, 2008, 122 Stat. 3788; Pub. L. 114–113, div. O, title VII, § 709(a), Dec. 18, 2015, 129 Stat. 3030.)
 
 **Editorial Notes**
 
@@ -1573,13 +1573,13 @@ This chapter, referred to in subsec. (b), was in the original “this Act” and
 
 **Termination of the Making Home Affordable Initiative**
 
-Pub. L. 114–113, div. O, title VII, § 709(b), Dec. 18, 2015, 129 Stat. 3030, provided that:
+Pub. L. 114–113, div. O, title VII, § 709(b), Dec. 18, 2015, 129 Stat. 3030, provided that:
 
 > **“(1) In general.—** The Making Home Affordable initiative of the Secretary of the Treasury, as authorized under the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5201 et seq.), shall terminate on December 31, 2016.
 
 > **“(2) Applicability.—** Paragraph (1) shall not apply to any loan modification application made under the Home Affordable Modification Program under the Making Home Affordable initiative of the Secretary of the Treasury, as authorized under the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5201 et seq.), before December 31, 2016.”
 
-### § 5231. Special Inspector General for the Troubled Asset Relief Program
+### § 5231. Special Inspector General for the Troubled Asset Relief Program
 
 **(a) Office of Inspector General**
 
@@ -1667,7 +1667,7 @@ There is hereby established the Office of the Special Inspector General for the 
 
 **(A)** Except as provided under subparagraph (B), if an annuitant receiving an annuity from the Civil Service Retirement and Disability Fund becomes employed in a position within the Office of the Special Inspector General for the Troubled Asset Relief Program, his annuity shall continue. An annuitant so reemployed shall not be considered an employee for purposes of chapter 83 or 84.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(B)** Subparagraph (A) shall apply to—
 
@@ -1729,7 +1729,7 @@ The Special Inspector General shall be a member of the Council of the Inspectors
 
 **(2)** the date of expiration of the last insurance contract issued under section 5212 of this title.
 
-(Pub. L. 110–343, div. A, title I, § 121, Oct. 3, 2008, 122 Stat. 3788; Pub. L. 111–15, §§ 2–6, Apr. 24, 2009, 123 Stat. 1603–1605; Pub. L. 117–286, § 4(b)(35), Dec. 27, 2022, 136 Stat. 4347.)
+(Pub. L. 110–343, div. A, title I, § 121, Oct. 3, 2008, 122 Stat. 3788; Pub. L. 111–15, §§ 2–6, Apr. 24, 2009, 123 Stat. 1603–1605; Pub. L. 117–286, § 4(b)(35), Dec. 27, 2022, 136 Stat. 4347.)
 
 **Editorial Notes**
 
@@ -1739,47 +1739,47 @@ Chapter 83 or 84, referred to in subsec. (e)(5)(A), probably means chapter 83 or
 
 **Amendments**
 
-2022—Subsec. (b)(4). Pub. L. 117–286, § 4(b)(35)(A), substituted “section 403(b) of title 5.” for “section 3(b) of the Inspector General Act of 1978 (5 U.S.C. App.).”
+2022—Subsec. (b)(4). Pub. L. 117–286, § 4(b)(35)(A), substituted “section 403(b) of title 5.” for “section 3(b) of the Inspector General Act of 1978 (5 U.S.C. App.).”
 
-Subsec. (b)(6). Pub. L. 117–286, § 4(b)(35)(B), substituted “section 403(e) of title 5.” for “section 3(e) of the Inspector General Act of 1978 (5 U.S.C. App.).”
+Subsec. (b)(6). Pub. L. 117–286, § 4(b)(35)(B), substituted “section 403(e) of title 5.” for “section 3(e) of the Inspector General Act of 1978 (5 U.S.C. App.).”
 
-Subsec. (c)(3). Pub. L. 117–286, § 4(b)(35)(C), substituted “chapter 4 of title 5.” for “the Inspector General Act of 1978.”
+Subsec. (c)(3). Pub. L. 117–286, § 4(b)(35)(C), substituted “chapter 4 of title 5.” for “the Inspector General Act of 1978.”
 
-Subsec. (d)(1). Pub. L. 117–286, § 4(b)(35)(D), substituted “section 406 of title 5.” for “section 6 of the Inspector General Act of 1978.”
+Subsec. (d)(1). Pub. L. 117–286, § 4(b)(35)(D), substituted “section 406 of title 5.” for “section 6 of the Inspector General Act of 1978.”
 
-Subsec. (d)(2). Pub. L. 117–286, § 4(b)(35)(E), substituted “section 404(b)(1) of title 5.” for “section 4(b)(1) of the Inspector General Act of 1978.”
+Subsec. (d)(2). Pub. L. 117–286, § 4(b)(35)(E), substituted “section 404(b)(1) of title 5.” for “section 4(b)(1) of the Inspector General Act of 1978.”
 
-Subsec. (d)(3). Pub. L. 117–286, § 4(b)(35)(F), substituted “section 406(f)(3) of title 5” for “section 6(e)(3) of the Inspector General Act of 1978 (5 U.S.C. App.)”.
+Subsec. (d)(3). Pub. L. 117–286, § 4(b)(35)(F), substituted “section 406(f)(3) of title 5” for “section 6(e)(3) of the Inspector General Act of 1978 (5 U.S.C. App.)”.
 
-Subsec. (h). Pub. L. 117–286, § 4(b)(35)(G), substituted “section 424 of title 5” for “section 11 of the Inspector General Act of 1978 (5 U.S.C. App.)”.
+Subsec. (h). Pub. L. 117–286, § 4(b)(35)(G), substituted “section 424 of title 5” for “section 11 of the Inspector General Act of 1978 (5 U.S.C. App.)”.
 
-2009—Subsec. (c)(4). Pub. L. 111–15, § 2(1), added par. (4).
+2009—Subsec. (c)(4). Pub. L. 111–15, § 2(1), added par. (4).
 
-Subsec. (d)(2). Pub. L. 111–15, § 2(2)(A), substituted “subsection (c)(1) and (4)” for “subsection (c)(1)”.
+Subsec. (d)(2). Pub. L. 111–15, § 2(2)(A), substituted “subsection (c)(1) and (4)” for “subsection (c)(1)”.
 
-Subsec. (d)(3). Pub. L. 111–15, § 2(2)(B), added par. (3).
+Subsec. (d)(3). Pub. L. 111–15, § 2(2)(B), added par. (3).
 
-Subsec. (e)(1). Pub. L. 111–15, § 3(1), designated existing provisions as subpar. (A) and added subpar. (B).
+Subsec. (e)(1). Pub. L. 111–15, § 3(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (e)(5). Pub. L. 111–15, § 3(2), added par. (5).
+Subsec. (e)(5). Pub. L. 111–15, § 3(2), added par. (5).
 
-Subsecs. (f) to (h). Pub. L. 111–15, § 4(2), added subsecs. (f) to (h). Former subsecs. (f) to (h) redesignated (i) to (k), respectively.
+Subsecs. (f) to (h). Pub. L. 111–15, § 4(2), added subsecs. (f) to (h). Former subsecs. (f) to (h) redesignated (i) to (k), respectively.
 
-Subsec. (i). Pub. L. 111–15, § 4(1), redesignated subsec. (f) as (i).
+Subsec. (i). Pub. L. 111–15, § 4(1), redesignated subsec. (f) as (i).
 
-Subsec. (i)(1). Pub. L. 111–15, § 5(1), substituted “Not later than 60 days after the confirmation of the Special Inspector General, and not later than 30 days following the end of each fiscal quarter, the Special Inspector General shall submit to the appropriate committees of Congress a report summarizing the activities of the Special Inspector General during that fiscal quarter.” for “Not later than 60 days after the confirmation of the Special Inspector General, and every calendar quarter thereafter, the Special Inspector General shall submit to the appropriate committees of Congress a report summarizing the activities of the Special Inspector General during the 120-day period ending on the date of such report.”
+Subsec. (i)(1). Pub. L. 111–15, § 5(1), substituted “Not later than 60 days after the confirmation of the Special Inspector General, and not later than 30 days following the end of each fiscal quarter, the Special Inspector General shall submit to the appropriate committees of Congress a report summarizing the activities of the Special Inspector General during that fiscal quarter.” for “Not later than 60 days after the confirmation of the Special Inspector General, and every calendar quarter thereafter, the Special Inspector General shall submit to the appropriate committees of Congress a report summarizing the activities of the Special Inspector General during the 120-day period ending on the date of such report.”
 
-Subsec. (i)(2) to (4). Pub. L. 111–15, § 5(2), (3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+Subsec. (i)(2) to (4). Pub. L. 111–15, § 5(2), (3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-Subsec. (i)(5). Pub. L. 111–15, § 5(4), added par. (5).
+Subsec. (i)(5). Pub. L. 111–15, § 5(4), added par. (5).
 
-Subsec. (j). Pub. L. 111–15, § 4(1), redesignated subsec. (g) as (j).
+Subsec. (j). Pub. L. 111–15, § 4(1), redesignated subsec. (g) as (j).
 
-Subsec. (j)(1). Pub. L. 111–15, § 6, inserted “, not later than 7 days after April 24, 2009” before period at end.
+Subsec. (j)(1). Pub. L. 111–15, § 6, inserted “, not later than 7 days after April 24, 2009” before period at end.
 
-Subsec. (k). Pub. L. 111–15, § 4(1), redesignated subsec. (h) as (k).
+Subsec. (k). Pub. L. 111–15, § 4(1), redesignated subsec. (h) as (k).
 
-### § 5231a. Public-Private Investment Program; additional appropriations for the Special Inspector General for the Troubled Asset Relief Program
+### § 5231a. Public-Private Investment Program; additional appropriations for the Special Inspector General for the Troubled Asset Relief Program
 
 **(a) Short title**
 
@@ -1789,9 +1789,9 @@ This section may be cited as the “Public-Private Investment Program Improvemen
 
 **(1) In general** Any program established by the Federal Government to create a public-private investment fund shall—
 
-**(A)** in consultation with the Special Inspector General of the Trouble 1
+**(A)** in consultation with the Special Inspector General of the Trouble 1
 
-<sup>1</sup>  So in original. Probably should be “Troubled”.
+<sup>1</sup> So in original. Probably should be “Troubled”.
 
 Asset Relief Program (in this section referred to as the “Special Inspector General”), impose strict conflict of interest rules on managers of public-private investment funds to ensure that securities bought by the funds are purchased in arms-length transactions, that fiduciary duties to public and private investors in the fund are not violated, and that there is full disclosure of relevant facts and financial interests (which conflict of interest rules shall be implemented by the manager of a public-private investment fund prior to such fund receiving Federal Government financing);
 
@@ -1843,7 +1843,7 @@ Notwithstanding any other provision of law, nothing in this section shall be con
 
 The Secretary of the Treasury may prescribe such regulations or other guidance as may be necessary or appropriate to define terms or carry out the authorities or purposes of this section.
 
-(Pub. L. 111–22, div. A, title IV, § 402, May 20, 2009, 123 Stat. 1656.)
+(Pub. L. 111–22, div. A, title IV, § 402, May 20, 2009, 123 Stat. 1656.)
 
 **Editorial Notes**
 
@@ -1857,13 +1857,13 @@ Section was enacted as part of the Helping Families Save Their Homes Act of 2009
 
 Section is comprised of section 402 of Pub. L. 111–22. Subsec. (f) of section 402 of Pub. L. 111–22 amended section 5225 of this title.
 
-### § 5232. Credit reform
+### § 5232. Credit reform
 
 **(a) In general**
 
 Subject to subsection (b), the costs of purchases of troubled assets made under section 5211(a) of this title and guarantees of troubled assets under section 5212 of this title, and any cash flows associated with the activities authorized in section 5212 of this title and subsections (a), (b), and (c) of section 5216 of this title shall be determined as provided under the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et.1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 seq.).
 
@@ -1873,15 +1873,15 @@ seq.).
 
 **(2)** the cost of a modification of a troubled asset or guarantee of a troubled asset shall be the difference between the current estimate consistent with paragraph (1) under the terms of the troubled asset or guarantee of the troubled asset and the current estimate consistent with paragraph (1) under the terms of the troubled asset or guarantee of the troubled asset, as modified.
 
-(Pub. L. 110–343, div. A, title I, § 123, Oct. 3, 2008, 122 Stat. 3790.)
+(Pub. L. 110–343, div. A, title I, § 123, Oct. 3, 2008, 122 Stat. 3790.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Credit Reform Act of 1990, referred to in subsec. (a), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
+The Federal Credit Reform Act of 1990, referred to in subsec. (a), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
-### § 5233. Congressional Oversight Panel
+### § 5233. Congressional Oversight Panel
 
 **(a) Establishment**
 
@@ -1895,9 +1895,9 @@ There is hereby established the Congressional Oversight Panel (hereafter in this
 
 **(i)** The use by the Secretary of authority under this chapter, including with respect to the use of contracting authority and administration of the program.
 
-**(ii)** The impact of purchases made under the 1
+**(ii)** The impact of purchases made under the 1
 
-<sup>1</sup>  So in original. Probably should be “this”.
+<sup>1</sup> So in original. Probably should be “this”.
 
 chapter on the financial markets and financial institutions.
 
@@ -1935,9 +1935,9 @@ The Oversight Panel shall submit a special report on regulatory reform not later
 
 **(2) Pay**
 
-Each member of the Oversight Panel shall each 2
+Each member of the Oversight Panel shall each 2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 be paid at a rate equal to the daily equivalent of the annual rate of basic pay for level I of the Executive Schedule for each day (including travel time) during which such member is engaged in the actual performance of duties vested in the Commission.
 
@@ -2007,7 +2007,7 @@ There is authorized to be appropriated to the Oversight Panel such sums as may b
 
 An amount equal to the expenses of the Oversight Panel shall be promptly transferred by the Secretary, from time to time upon the presentment of a statement of such expenses by the Chairperson of the Oversight Panel, from funds made available to the Secretary under this chapter to the applicable fund of the House of Representatives and the contingent fund of the Senate, as appropriate, as reimbursement for amounts expended from such account and fund under paragraph (1).
 
-(Pub. L. 110–343, div. A, title I, § 125, Oct. 3, 2008, 122 Stat. 3791; Pub. L. 111–22, div. A, title V, § 501, May 20, 2009, 123 Stat. 1658.)
+(Pub. L. 110–343, div. A, title I, § 125, Oct. 3, 2008, 122 Stat. 3791; Pub. L. 111–22, div. A, title V, § 501, May 20, 2009, 123 Stat. 1658.)
 
 **Editorial Notes**
 
@@ -2021,13 +2021,13 @@ Level I of the Executive Schedule, referred to in subsec. (c)(2), is set out in 
 
 2009—Subsec. (b)(3). Pub. L. 111–22 added par. (3).
 
-### § 5234. Cooperation with the FBI
+### § 5234. Cooperation with the FBI
 
 Any Federal financial regulatory agency shall cooperate with the Federal Bureau of Investigation and other law enforcement agencies investigating fraud, misrepresentation, and malfeasance with respect to development, advertising, and sale of financial products.
 
-(Pub. L. 110–343, div. A, title I, § 127, Oct. 3, 2008, 122 Stat. 3796.)
+(Pub. L. 110–343, div. A, title I, § 127, Oct. 3, 2008, 122 Stat. 3796.)
 
-### § 5235. Disclosures on exercise of loan authority
+### § 5235. Disclosures on exercise of loan authority
 
 **(a) In general** Not later than 7 days after the date on which the Board exercises its authority under the third paragraph of section 13 of the Federal Reserve Act (12 U.S.C. 343; relating to discounts for individuals, partnerships, and corporations) the Board shall provide to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report which includes—
 
@@ -2049,9 +2049,9 @@ The information submitted to the Congress under this section shall be kept confi
 
 **(d) Applicability**
 
-The provisions of this section shall be in force for all uses of the authority provided under section 13 of the Federal Reserve Act occurring during the period beginning on March 1, 2008 and ending on the after 1
+The provisions of this section shall be in force for all uses of the authority provided under section 13 of the Federal Reserve Act occurring during the period beginning on March 1, 2008 and ending on the after 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 October 3, 2008, and reports described in subsection (a) shall be required beginning not later than 30 days after October 3, 2008, with respect to any such exercise of authority.
 
@@ -2059,7 +2059,7 @@ October 3, 2008, and reports described in subsection (a) shall be required begin
 
 Any reports required under this section shall also be submitted to the Congressional Oversight Panel established under section 5233 of this title.
 
-(Pub. L. 110–343, div. A, title I, § 129, Oct. 3, 2008, 122 Stat. 3796.)
+(Pub. L. 110–343, div. A, title I, § 129, Oct. 3, 2008, 122 Stat. 3796.)
 
 **Editorial Notes**
 
@@ -2067,7 +2067,7 @@ Any reports required under this section shall also be submitted to the Congressi
 
 Section 13 of the Federal Reserve Act, referred to in subsecs. (a) and (d), is classified to sections 92, 342 to 347, 347c, 347d, 361, 372, and 373 of this title. The third paragraph (now designated par. (3)) of section 13 of the Act is classified to section 343(3) of this title. For further details, see Codification notes under sections 342 and 343 of this title.
 
-### § 5236. Exchange Stabilization Fund reimbursement
+### § 5236. Exchange Stabilization Fund reimbursement
 
 **(a) Reimbursement**
 
@@ -2077,7 +2077,7 @@ The Secretary shall reimburse the Exchange Stabilization Fund established under 
 
 The Secretary is prohibited from using the Exchange Stabilization Fund for the establishment of any future guaranty programs for the United States money market mutual fund industry.
 
-(Pub. L. 110–343, div. A, title I, § 131, Oct. 3, 2008, 122 Stat. 3797.)
+(Pub. L. 110–343, div. A, title I, § 131, Oct. 3, 2008, 122 Stat. 3797.)
 
 **Editorial Notes**
 
@@ -2089,7 +2089,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act” and
 
 **Non-Applicability of Restrictions on ESF During National Emergency**
 
-Pub. L. 116–136, div. A, title IV, § 4015, Mar. 27, 2020, 134 Stat. 481, provided that:
+Pub. L. 116–136, div. A, title IV, § 4015, Mar. 27, 2020, 134 Stat. 481, provided that:
 
 > **“(a) In General.—** Section 131 of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5236) shall not apply during the period beginning on the date of enactment of this Act [Mar. 27, 2020] and ending on December 31, 2020. Any guarantee established as a result of the application of subsection (a) shall—
 
@@ -2099,7 +2099,7 @@ Pub. L. 116–136, div. A, title IV, § 4015, Mar. 27, 2020, 134 Stat. 481, pr
 
 > **“(b) Direct Appropriation.—** Upon the expiration of the period described in subsection (a), there is appropriated, out of amounts in the Treasury not otherwise appropriated, such sums as may be necessary to reimburse the fund established under section 5302(a)(1) of title 31, United States Code, for any funds that are used for the Treasury Money Market Funds Guaranty Program for the United States money market mutual fund industry to the extent a claim payment made exceeds the balance of fees collected by the fund.”
 
-### § 5237. Authority to suspend mark-to-market accounting
+### § 5237. Authority to suspend mark-to-market accounting
 
 **(a) Authority**
 
@@ -2109,9 +2109,9 @@ The Securities and Exchange Commission shall have the authority under the securi
 
 Nothing in subsection (a) shall be construed to restrict or limit any authority of the Securities and Exchange Commission under securities laws as in effect on October 3, 2008.
 
-(Pub. L. 110–343, div. A, title I, § 132, Oct. 3, 2008, 122 Stat. 3798.)
+(Pub. L. 110–343, div. A, title I, § 132, Oct. 3, 2008, 122 Stat. 3798.)
 
-### § 5238. Study on mark-to-market accounting
+### § 5238. Study on mark-to-market accounting
 
 **(a) Study** The Securities and Exchange Commission, in consultation with the Board and the Secretary, shall conduct a study on mark-to-market accounting standards as provided in Statement Number 157 of the Financial Accounting Standards Board, as such standards are applicable to financial institutions, including depository institutions. Such a study shall consider at a minimum—
 
@@ -2131,13 +2131,13 @@ Nothing in subsection (a) shall be construed to restrict or limit any authority 
 
 The Securities and Exchange Commission shall submit to Congress a report of such study before the end of the 90-day period beginning on October 3, 2008, containing the findings and determinations of the Commission, including such administrative and legislative recommendations as the Commission determines appropriate.
 
-(Pub. L. 110–343, div. A, title I, § 133, Oct. 3, 2008, 122 Stat. 3798.)
+(Pub. L. 110–343, div. A, title I, § 133, Oct. 3, 2008, 122 Stat. 3798.)
 
-### § 5239. Recoupment
+### § 5239. Recoupment
 
 Upon the expiration of the 5-year period beginning upon October 3, 2008, the Director of the Office of Management and Budget, in consultation with the Director of the Congressional Budget Office, shall submit a report to the Congress on the net amount within the Troubled Asset Relief Program under this chapter. In any case where there is a shortfall, the President shall submit a legislative proposal that recoups from the financial industry an amount equal to the shortfall in order to ensure that the Troubled Asset Relief Program does not add to the deficit or national debt.
 
-(Pub. L. 110–343, div. A, title I, § 134, Oct. 3, 2008, 122 Stat. 3798.)
+(Pub. L. 110–343, div. A, title I, § 134, Oct. 3, 2008, 122 Stat. 3798.)
 
 **Editorial Notes**
 
@@ -2145,11 +2145,11 @@ Upon the expiration of the 5-year period beginning upon October 3, 2008, the Dir
 
 This chapter, referred to in text, was in the original “this Act” and was translated as reading “this division”, meaning div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
-### § 5240. Preservation of authority
+### § 5240. Preservation of authority
 
 With the exception of section 5236 of this title, nothing in this chapter may be construed to limit the authority of the Secretary or the Board under any other provision of law.
 
-(Pub. L. 110–343, div. A, title I, § 135, Oct. 3, 2008, 122 Stat. 3799.)
+(Pub. L. 110–343, div. A, title I, § 135, Oct. 3, 2008, 122 Stat. 3799.)
 
 **Editorial Notes**
 
@@ -2157,7 +2157,7 @@ With the exception of section 5236 of this title, nothing in this chapter may be
 
 This chapter, referred to in text, was in the original “this Act” and was translated as reading “this division”, meaning div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
-### § 5241. Temporary increase in deposit and share insurance coverage
+### § 5241. Temporary increase in deposit and share insurance coverage
 
 **(a) Federal Deposit Insurance Act; temporary increase in deposit insurance**
 
@@ -2173,9 +2173,9 @@ During the period beginning on October 3, 2008, and ending on December 31, 2013,
 
 **(1) Increased amount**
 
-Effective only during the period beginning on October 3, 2008, and ending on December 31, 2013, section 207(k)(5) 1
+Effective only during the period beginning on October 3, 2008, and ending on December 31, 2013, section 207(k)(5) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Federal Credit Union Act (12 U.S.C. 1787(k)(5)) shall apply with “$250,000” substituted for “$100,000”.
 
@@ -2187,35 +2187,35 @@ During the period beginning on October 3, 2008, and ending on December 31, 2013,
 
 The temporary increase in the standard maximum deposit insurance amount made under this section shall not be used to make any inflation adjustment under section 11(a)(1)(F) of the Federal Deposit Insurance Act (12 U.S.C. 1821(a)(1)(F)) for purposes of that Act [12 U.S.C. 1811 et seq.] or the Federal Credit Union Act [12 U.S.C. 1751 et seq.].
 
-(Pub. L. 110–343, div. A, title I, § 136, Oct. 3, 2008, 122 Stat. 3799; Pub. L. 111–22, div. A, title II, § 204(a), May 20, 2009, 123 Stat. 1648.)
+(Pub. L. 110–343, div. A, title I, § 136, Oct. 3, 2008, 122 Stat. 3799; Pub. L. 111–22, div. A, title II, § 204(a), May 20, 2009, 123 Stat. 1648.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 207(k)(5) of the Federal Credit Union Act, referred to in subsec. (b)(1), was redesignated section 207(k)(6) of the Act by Pub. L. 113–252, § 2(3), Dec. 18, 2014, 128 Stat. 2893.
+Section 207(k)(5) of the Federal Credit Union Act, referred to in subsec. (b)(1), was redesignated section 207(k)(6) of the Act by Pub. L. 113–252, § 2(3), Dec. 18, 2014, 128 Stat. 2893.
 
-That Act, referred to in subsec. (c), means the Federal Deposit Insurance Act, act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+That Act, referred to in subsec. (c), means the Federal Deposit Insurance Act, act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
-The Federal Credit Union Act, referred to in subsec. (c), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified principally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
+The Federal Credit Union Act, referred to in subsec. (c), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified principally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
 
 **Amendments**
 
-2009—Subsec. (a)(1). Pub. L. 111–22, § 204(a)(1)(A), substituted “December 31, 2013” for “December 31, 2009”.
+2009—Subsec. (a)(1). Pub. L. 111–22, § 204(a)(1)(A), substituted “December 31, 2013” for “December 31, 2009”.
 
-Subsec. (a)(2), (3). Pub. L. 111–22, § 204(a)(1)(B)–(D), redesignated par. (3) as (2), substituted “December 31, 2013” for “December 31, 2009”, and struck out former par. (2). Prior to amendment, text read as follows: “The temporary increase in the standard maximum deposit insurance amount made under paragraph (1) shall not be taken into account by the Board of Directors of the Corporation for purposes of setting assessments under section 7(b)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1817(b)(2)).”
+Subsec. (a)(2), (3). Pub. L. 111–22, § 204(a)(1)(B)–(D), redesignated par. (3) as (2), substituted “December 31, 2013” for “December 31, 2009”, and struck out former par. (2). Prior to amendment, text read as follows: “The temporary increase in the standard maximum deposit insurance amount made under paragraph (1) shall not be taken into account by the Board of Directors of the Corporation for purposes of setting assessments under section 7(b)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1817(b)(2)).”
 
-Subsec. (b)(1). Pub. L. 111–22, § 204(a)(2)(A), substituted “December 31, 2013” for “December 31, 2009”.
+Subsec. (b)(1). Pub. L. 111–22, § 204(a)(2)(A), substituted “December 31, 2013” for “December 31, 2009”.
 
-Subsec. (b)(2), (3). Pub. L. 111–22, § 204(a)(2)(B)–(D), redesignated par. (3) as (2), substituted “December 31, 2013” for “December 31, 2009”, and struck out former par. (2). Prior to amendment, text read as follows: “The temporary increase in the standard maximum share insurance amount made under paragraph (1) shall not be taken into account by the National Credit Union Administration Board for purposes of setting insurance premium charges and share insurance deposit adjustments under section 202(c)(2) of the Federal Credit Union Act (12 U.S.C. 1782(c)(2)).”
+Subsec. (b)(2), (3). Pub. L. 111–22, § 204(a)(2)(B)–(D), redesignated par. (3) as (2), substituted “December 31, 2013” for “December 31, 2009”, and struck out former par. (2). Prior to amendment, text read as follows: “The temporary increase in the standard maximum share insurance amount made under paragraph (1) shall not be taken into account by the National Credit Union Administration Board for purposes of setting insurance premium charges and share insurance deposit adjustments under section 202(c)(2) of the Federal Credit Union Act (12 U.S.C. 1782(c)(2)).”
 
 ## SUBCHAPTER II—BUDGET-RELATED PROVISIONS
 
-### § 5251. Information for congressional support agencies
+### § 5251. Information for congressional support agencies
 
 Upon request, and to the extent otherwise consistent with law, all information used by the Secretary in connection with activities authorized under this chapter (including the records to which the Comptroller General is entitled under this chapter) shall be made available to congressional support agencies (in accordance with their obligations to support the Congress as set out in their authorizing statutes) for the purposes of assisting the committees of Congress with conducting oversight, monitoring, and analysis of the activities authorized under this chapter.
 
-(Pub. L. 110–343, div. A, title II, § 201, Oct. 3, 2008, 122 Stat. 3800.)
+(Pub. L. 110–343, div. A, title II, § 201, Oct. 3, 2008, 122 Stat. 3800.)
 
 **Editorial Notes**
 
@@ -2223,7 +2223,7 @@ Upon request, and to the extent otherwise consistent with law, all information u
 
 This chapter, referred to in text, was in the original “this Act” and was translated as reading “this division”, meaning div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, known as the Emergency Economic Stabilization Act of 2008, to reflect the probable intent of Congress. For complete classification of division A to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
-### § 5252. Reports by the Office of Management and Budget and the Congressional Budget Office
+### § 5252. Reports by the Office of Management and Budget and the Congressional Budget Office
 
 **(a) Reports by the Office of Management and Budget** Within 60 days of the first exercise of the authority granted in section 5211(a) of this title, but in no case later than December 31, 2008, and annually thereafter, the Office of Management and Budget shall report to the President and the Congress—
 
@@ -2245,9 +2245,9 @@ Beginning with the second report under subsection (a), the Office of Management 
 
 **(c) Financial expertise**
 
-In carrying out the duties in this subsection 1
+In carrying out the duties in this subsection 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 or performing analyses of activities under this chapter, the Director of the Congressional Budget Office may employ personnel and procure the services of experts and consultants.
 
@@ -2259,7 +2259,7 @@ There are authorized to be appropriated such sums as may be necessary to produce
 
 Notwithstanding the previous provisions of this section, the reporting and comment requirements under this section shall terminate with the annual period on the last day of which all troubled assets acquired by the Secretary under section 5211 of this title have been sold or transferred out of the ownership or control of the Federal Government.
 
-(Pub. L. 110–343, div. A, title II, § 202, Oct. 3, 2008, 122 Stat. 3800; Pub. L. 112–204, § 1(b)(1), Dec. 4, 2012, 126 Stat. 1485.)
+(Pub. L. 110–343, div. A, title II, § 202, Oct. 3, 2008, 122 Stat. 3800; Pub. L. 112–204, § 1(b)(1), Dec. 4, 2012, 126 Stat. 1485.)
 
 **Editorial Notes**
 
@@ -2269,25 +2269,25 @@ This chapter, referred to in subsec. (c), was in the original “this Act” and
 
 **Amendments**
 
-2012—Subsec. (a). Pub. L. 112–204, § 1(b)(1)(A), substituted “annually” for “semiannually”.
+2012—Subsec. (a). Pub. L. 112–204, § 1(b)(1)(A), substituted “annually” for “semiannually”.
 
-Subsec. (e). Pub. L. 112–204, § 1(b)(1)(B), added subsec. (e).
+Subsec. (e). Pub. L. 112–204, § 1(b)(1)(B), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–204, § 1(b)(2), Dec. 4, 2012, 126 Stat. 1486, provided that: “The amendments made by this subsection [amending this section] shall take effect the first day after the date of enactment of this Act [Dec. 4, 2012].”
+Pub. L. 112–204, § 1(b)(2), Dec. 4, 2012, 126 Stat. 1486, provided that: “The amendments made by this subsection [amending this section] shall take effect the first day after the date of enactment of this Act [Dec. 4, 2012].”
 
-### § 5253. Emergency treatment
+### § 5253. Emergency treatment
 
-All provisions of this chapter are designated as an emergency requirement and necessary to meet emergency needs pursuant to section 204(a) of S. Con. Res 1
+All provisions of this chapter are designated as an emergency requirement and necessary to meet emergency needs pursuant to section 204(a) of S. Con. Res 1
 
-<sup>1</sup>  So in original. Probably should be followed by a period.
+<sup>1</sup> So in original. Probably should be followed by a period.
 
 21 (110th Congress), the concurrent resolution on the budget for fiscal year 2008 and rescissions of any amounts provided in this chapter shall not be counted for purposes of budget enforcement.
 
-(Pub. L. 110–343, div. A, title II, § 204, Oct. 3, 2008, 122 Stat. 3801.)
+(Pub. L. 110–343, div. A, title II, § 204, Oct. 3, 2008, 122 Stat. 3801.)
 
 **Editorial Notes**
 
@@ -2299,7 +2299,7 @@ S. Con. Res. 21 (110th Congress), referred to in text, is S. Con. Res. 21, May 1
 
 ## SUBCHAPTER III—TAX PROVISIONS
 
-### § 5261. Gain or loss from sale or exchange of certain preferred stock
+### § 5261. Gain or loss from sale or exchange of certain preferred stock
 
 **(a) In general**
 
@@ -2351,12 +2351,12 @@ The Secretary of the Treasury or the Secretary’s delegate may prescribe such g
 
 This section shall apply to sales or exchanges occurring after December 31, 2007, in taxable years ending after such date.
 
-(Pub. L. 110–343, div. A, title III, § 301, Oct. 3, 2008, 122 Stat. 3802.)
+(Pub. L. 110–343, div. A, title III, § 301, Oct. 3, 2008, 122 Stat. 3802.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal National Mortgage Association Charter Act, referred to in subsec. (b)(1)(A), is title III of act June 27, 1934, ch. 847, 48 Stat. 1252, which is classified generally to subchapter III (§ 1716 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1716 of this title and Tables.
+The Federal National Mortgage Association Charter Act, referred to in subsec. (b)(1)(A), is title III of act June 27, 1934, ch. 847, 48 Stat. 1252, which is classified generally to subchapter III (§ 1716 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1716 of this title and Tables.
 
-The Federal Home Loan Mortgage Corporation Act, referred to in subsec. (b)(1)(B), is title III of Pub. L. 91–351, July 24, 1970, 84 Stat. 451, which is classified generally to chapter 11A (§ 1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title and Statement of Purpose note set out under section 1451 of this title and Tables.
+The Federal Home Loan Mortgage Corporation Act, referred to in subsec. (b)(1)(B), is title III of Pub. L. 91–351, July 24, 1970, 84 Stat. 451, which is classified generally to chapter 11A (§ 1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title and Statement of Purpose note set out under section 1451 of this title and Tables.

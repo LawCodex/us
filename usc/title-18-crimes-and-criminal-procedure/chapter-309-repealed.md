@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # [CHAPTER 309—REPEALED]
 
-## [§§ 4161 to 4166. Repealed. Pub. L. 98–473, title II, § 218(a)(4), Oct. 12, 1984, 98 Stat. 2027]
+## [§§ 4161 to 4166. Repealed. Pub. L. 98–473, title II, § 218(a)(4), Oct. 12, 1984, 98 Stat. 2027]
 
 Section 4161, acts June 25, 1948, ch. 645, 62 Stat. 853; Sept. 14, 1959, Pub. L. 86–259, 73 Stat. 546, related to computation of reduction of time of sentence generally.
 

@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1980—Pub. L. 96–589, § 3(a)(1), Dec. 24, 1980, 94 Stat. 3397, added subchapter V heading “Title 11 Cases” and items 1398 and 1399.
+1980—Pub. L. 96–589, § 3(a)(1), Dec. 24, 1980, 94 Stat. 3397, added subchapter V heading “Title 11 Cases” and items 1398 and 1399.
 
-## § 1398. Rules relating to individuals’ title 11 cases
+## § 1398. Rules relating to individuals’ title 11 cases
 
 **(a) Cases to which section applies**
 
@@ -205,7 +205,7 @@ The term “carryback” means a net operating loss carryback under section 172 
 
 The term “carryback year” means the taxable year to which a carryback is carried.
 
-(Added Pub. L. 96–589, § 3(a)(1), Dec. 24, 1980, 94 Stat. 3397; amended Pub. L. 99–514, title I, § 104(b)(14), title XIII, § 1301(j)(8), title XVIII, § 1812(a)(5), Oct. 22, 1986, 100 Stat. 2105, 2658, 2833.)
+(Added Pub. L. 96–589, § 3(a)(1), Dec. 24, 1980, 94 Stat. 3397; amended Pub. L. 99–514, title I, § 104(b)(14), title XIII, § 1301(j)(8), title XVIII, § 1812(a)(5), Oct. 22, 1986, 100 Stat. 2105, 2658, 2833.)
 
 **Editorial Notes**
 
@@ -215,13 +215,13 @@ Part IV of subchapter A, referred to in subsec. (j)(2)(C)(i), probably means par
 
 **Amendments**
 
-1986—Subsec. (c). Pub. L. 99–514, § 104(b)(14)(A), substituted “basic standard deduction” for “zero bracket amount” in heading.
+1986—Subsec. (c). Pub. L. 99–514, § 104(b)(14)(A), substituted “basic standard deduction” for “zero bracket amount” in heading.
 
-Subsec. (c)(3). Pub. L. 99–514, § 104(b)(14)(B), amended par. (3) generally, substituting “Basic standard deduction” for “Amount of zero bracket amount” in heading and substituting “In the case of an estate which does not itemize deductions, the basic standard deduction for the estate” for “The amount of the estate’s zero bracket amount” in text.
+Subsec. (c)(3). Pub. L. 99–514, § 104(b)(14)(B), amended par. (3) generally, substituting “Basic standard deduction” for “Amount of zero bracket amount” in heading and substituting “In the case of an estate which does not itemize deductions, the basic standard deduction for the estate” for “The amount of the estate’s zero bracket amount” in text.
 
-Subsec. (d)(2)(B). Pub. L. 99–514, § 1301(j)(8), substituted “section 7703” for “section 143”.
+Subsec. (d)(2)(B). Pub. L. 99–514, § 1301(j)(8), substituted “section 7703” for “section 143”.
 
-Subsec. (g)(3). Pub. L. 99–514, § 1812(a)(5), amended par. (3) generally. Prior to amendment, par. (3), recovery exclusion, read as follows: “Any recovery exclusion under section 111 (relating to recovery of bad debts, prior taxes, and delinquency amounts).”
+Subsec. (g)(3). Pub. L. 99–514, § 1812(a)(5), amended par. (3) generally. Prior to amendment, par. (3), recovery exclusion, read as follows: “Any recovery exclusion under section 111 (relating to recovery of bad debts, prior taxes, and delinquency amounts).”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -237,12 +237,12 @@ Amendment by section 1812(a)(5) of Pub. L. 99–514 effective, except as otherwi
 
 Subchapter applicable to bankruptcy cases commencing more than 90 days after Dec. 24, 1980, see section 7(b) of Pub. L. 96–589, set out as an Effective Date of 1980 Amendment note under section 108 of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-## § 1399. No separate taxable entities for partnerships, corporations, etc.
+## § 1399. No separate taxable entities for partnerships, corporations, etc.
 
 Except in any case to which section 1398 applies, no separate taxable entity shall result from the commencement of a case under title 11 of the United States Code.
 
-(Added Pub. L. 96–589, § 3(a)(1), Dec. 24, 1980, 94 Stat. 3400.)
+(Added Pub. L. 96–589, § 3(a)(1), Dec. 24, 1980, 94 Stat. 3400.)

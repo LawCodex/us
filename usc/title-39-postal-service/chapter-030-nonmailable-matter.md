@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2006—Pub. L. 109–435, title X, § 1008(c)(2), Dec. 20, 2006, 120 Stat. 3260, added item 3018.
+2006—Pub. L. 109–435, title X, § 1008(c)(2), Dec. 20, 2006, 120 Stat. 3260, added item 3018.
 
-1999—Pub. L. 106–168, title I, §§ 105(b)(1), 107(d), 108(b), Dec. 12, 1999, 113 Stat. 1811, 1814, 1816, repealed item 3006 “Unlawful matter” and added items 3016 and 3017.
+1999—Pub. L. 106–168, title I, §§ 105(b)(1), 107(d), 108(b), Dec. 12, 1999, 113 Stat. 1811, 1814, 1816, repealed item 3006 “Unlawful matter” and added items 3016 and 3017.
 
-1992—Pub. L. 102–393, title VI, § 631(d)(2), Oct. 6, 1992, 106 Stat. 1776, added item 3015.
+1992—Pub. L. 102–393, title VI, § 631(d)(2), Oct. 6, 1992, 106 Stat. 1776, added item 3015.
 
-1988—Pub. L. 100–690, title VII, § 7090(b), Nov. 18, 1988, 102 Stat. 4410, added item 3002a.
+1988—Pub. L. 100–690, title VII, § 7090(b), Nov. 18, 1988, 102 Stat. 4410, added item 3002a.
 
-Pub. L. 100–574, § 1(a)(2), Oct. 31, 1988, 102 Stat. 2893, added item 3014.
+Pub. L. 100–574, § 1(a)(2), Oct. 31, 1988, 102 Stat. 2893, added item 3014.
 
-1983—Pub. L. 98–186, § 3(c), Nov. 30, 1983, 97 Stat. 1317, added items 3012 and 3013.
+1983—Pub. L. 98–186, § 3(c), Nov. 30, 1983, 97 Stat. 1317, added items 3012 and 3013.
 
-## § 3001. Nonmailable matter
+## § 3001. Nonmailable matter
 
-**(a)** Matter the deposit of which in the mails is punishable under section 1302, 1341, 1342, 1461, 1463, 1715, 1716, 1717, or 1738 1
+**(a)** Matter the deposit of which in the mails is punishable under section 1302, 1341, 1342, 1461, 1463, 1715, 1716, 1717, or 1738 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 18, or section 26 of the Animal Welfare Act is nonmailable.
 
@@ -101,9 +101,9 @@ An advertisement shall not be deemed to be unsolicited for the purposes of this 
 
 **(C)** such matter is contained in a publication for which the addressee has paid or promised to pay a consideration or which he has otherwise indicated he desires to receive, except that this paragraph shall not apply if the solicitation is on behalf of the publisher of the publication.
 
-**(2)** In the case of matter bearing the term “census” on the envelope or outside cover or wrapper or matter on which the term “census” is visible through the envelope or outside cover or wrapper, in addition to satisfying one of the exceptions contained in paragraphs 2
+**(2)** In the case of matter bearing the term “census” on the envelope or outside cover or wrapper or matter on which the term “census” is visible through the envelope or outside cover or wrapper, in addition to satisfying one of the exceptions contained in paragraphs 2
 
-<sup>2</sup>  So in original. Probably should be “paragraph”.
+<sup>2</sup> So in original. Probably should be “paragraph”.
 
 (1)(A), (1)(B), or (1)(C), such envelope or outside cover or wrapper bears on its face an accurate return address including the name of the entity that sent such matter.
 
@@ -123,7 +123,7 @@ An advertisement shall not be deemed to be unsolicited for the purposes of this 
 
 **(C)** such matter is contained in a publication for which the addressee has paid or promised to pay a consideration or which he has otherwise indicated he desires to receive, except that this paragraph shall not apply if the solicitation is on behalf of the publisher of the publication.
 
-**(2)** In the case of matter bearing the term “census” on the envelope or outside cover or wrapper or matter on which the term “census” is visible through the envelope or outside cover or wrapper, in addition to satisfying one of the exceptions contained in paragraphs <sup>2</sup> (1)(A), (1)(B), or (1)(C), such envelope or outside cover or wrapper bears on its face an accurate return address including the name of the entity that sent such matter.
+**(2)** In the case of matter bearing the term “census” on the envelope or outside cover or wrapper or matter on which the term “census” is visible through the envelope or outside cover or wrapper, in addition to satisfying one of the exceptions contained in paragraphs <sup>2</sup> (1)(A), (1)(B), or (1)(C), such envelope or outside cover or wrapper bears on its face an accurate return address including the name of the entity that sent such matter.
 
 **(j)**
 
@@ -261,13 +261,13 @@ An advertisement shall not be deemed to be unsolicited for the purposes of this 
 
 **(o)** The district courts, together with the District Court of the Virgin Islands and the District Court of Guam, shall have jurisdiction, upon cause shown, to enjoin violations of section 1716 of title 18.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 745; Pub. L. 91–662, § 6(1), Jan. 8, 1971, 84 Stat. 1974; Pub. L. 92–191, § 2, Dec. 15, 1971, 85 Stat. 647; Pub. L. 89–544, § 26(h)(2), as added Pub. L. 94–279, § 17, Apr. 22, 1976, 90 Stat. 423, renumbered § 26(i)(2), Pub. L. 110–234, title XIV, § 14207(a)(8), May 22, 2008, 122 Stat. 1462, and Pub. L. 110–246, § 4(a), title XIV, § 14207(a)(8), June 18, 2008, 122 Stat. 1664, 2224, and renumbered § 26(h)(2), Pub. L. 115–334, title XII, § 12616(a)(3), Dec. 20, 2018, 132 Stat. 5016; Pub. L. 97–398, § 5, Dec. 31, 1982, 96 Stat. 2011; Pub. L. 101–493, § 2, Oct. 31, 1990, 104 Stat. 1184; Pub. L. 101–524, § 2(a), Nov. 6, 1990, 104 Stat. 2301; Pub. L. 102–71, § 2(1), July 10, 1991, 105 Stat. 330; Pub. L. 106–168, title I, §§ 102, 103, 110(a), Dec. 12, 1999, 113 Stat. 1806, 1808, 1817; Pub. L. 109–435, title X, § 1008(a), Dec. 20, 2006, 120 Stat. 3259; Pub. L. 111–155, § 2, Apr. 7, 2010, 124 Stat. 1112; Pub. L. 111–170, § 1, May 24, 2010, 124 Stat. 1193.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 745; Pub. L. 91–662, § 6(1), Jan. 8, 1971, 84 Stat. 1974; Pub. L. 92–191, § 2, Dec. 15, 1971, 85 Stat. 647; Pub. L. 89–544, § 26(h)(2), as added Pub. L. 94–279, § 17, Apr. 22, 1976, 90 Stat. 423, renumbered § 26(i)(2), Pub. L. 110–234, title XIV, § 14207(a)(8), May 22, 2008, 122 Stat. 1462, and Pub. L. 110–246, § 4(a), title XIV, § 14207(a)(8), June 18, 2008, 122 Stat. 1664, 2224, and renumbered § 26(h)(2), Pub. L. 115–334, title XII, § 12616(a)(3), Dec. 20, 2018, 132 Stat. 5016; Pub. L. 97–398, § 5, Dec. 31, 1982, 96 Stat. 2011; Pub. L. 101–493, § 2, Oct. 31, 1990, 104 Stat. 1184; Pub. L. 101–524, § 2(a), Nov. 6, 1990, 104 Stat. 2301; Pub. L. 102–71, § 2(1), July 10, 1991, 105 Stat. 330; Pub. L. 106–168, title I, §§ 102, 103, 110(a), Dec. 12, 1999, 113 Stat. 1806, 1808, 1817; Pub. L. 109–435, title X, § 1008(a), Dec. 20, 2006, 120 Stat. 3259; Pub. L. 111–155, § 2, Apr. 7, 2010, 124 Stat. 1112; Pub. L. 111–170, § 1, May 24, 2010, 124 Stat. 1193.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1738 of title 18, referred to in subsec. (a), was repealed by Pub. L. 106–578, § 4, Dec. 28, 2000, 114 Stat. 3076.
+Section 1738 of title 18, referred to in subsec. (a), was repealed by Pub. L. 106–578, § 4, Dec. 28, 2000, 114 Stat. 3076.
 
 Section 26 of the Animal Welfare Act, referred to in subsec. (a), is section 26 of Pub. L. 89–544, which is classified to section 2156 of Title 7, Agriculture.
 
@@ -279,43 +279,43 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to Pub. L. 89�
 
 **Amendments**
 
-2010—Subsec. (h). Pub. L. 111–155, § 2(a)(2)–(5), designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), redesignated subpars. (A) to (C) of former par. (2) as cls. (i) to (iii), respectively, of par. (1)(B), and added par. (2).
+2010—Subsec. (h). Pub. L. 111–155, § 2(a)(2)–(5), designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), redesignated subpars. (A) to (C) of former par. (2) as cls. (i) to (iii), respectively, of par. (1)(B), and added par. (2).
 
-Pub. L. 111–155, § 2(a)(1), inserted “; or which bears the term ‘census’ on the envelope or outside cover or wrapper” after “such matter by the Federal Government” in introductory provisions.
+Pub. L. 111–155, § 2(a)(1), inserted “; or which bears the term ‘census’ on the envelope or outside cover or wrapper” after “such matter by the Federal Government” in introductory provisions.
 
-Subsec. (h)(1). Pub. L. 111–170, § 1(a)(1), inserted “; or on which the term ‘census’ is visible through the envelope or outside cover or wrapper” after “or which bears the term ‘census’ on the envelope or outside cover or wrapper” in introductory provisions.
+Subsec. (h)(1). Pub. L. 111–170, § 1(a)(1), inserted “; or on which the term ‘census’ is visible through the envelope or outside cover or wrapper” after “or which bears the term ‘census’ on the envelope or outside cover or wrapper” in introductory provisions.
 
-Subsec. (h)(2). Pub. L. 111–170, § 1(a)(2), inserted “or matter on which the term ‘census’ is visible through the envelope or outside cover or wrapper” after “In the case of matter bearing the term ‘census’ on the envelope or outside cover or wrapper”.
+Subsec. (h)(2). Pub. L. 111–170, § 1(a)(2), inserted “or matter on which the term ‘census’ is visible through the envelope or outside cover or wrapper” after “In the case of matter bearing the term ‘census’ on the envelope or outside cover or wrapper”.
 
-Subsec. (i). Pub. L. 111–155, § 2(b)(2)–(5), designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), redesignated subpars. (A) to (C) of former par. (2) as cls. (i) to (iii), respectively, of par. (1)(B), and added par. (2).
+Subsec. (i). Pub. L. 111–155, § 2(b)(2)–(5), designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), redesignated subpars. (A) to (C) of former par. (2) as cls. (i) to (iii), respectively, of par. (1)(B), and added par. (2).
 
-Pub. L. 111–155, § 2(b)(1), inserted “; or which bears the term ‘census’ on the envelope or outside cover or wrapper” after “such matter by the Federal Government” in introductory provisions.
+Pub. L. 111–155, § 2(b)(1), inserted “; or which bears the term ‘census’ on the envelope or outside cover or wrapper” after “such matter by the Federal Government” in introductory provisions.
 
-Subsec. (i)(1). Pub. L. 111–170, § 1(b)(1), inserted “; or on which the term ‘census’ is visible through the envelope or outside cover or wrapper” after “or which bears the term ‘census’ on the envelope or outside cover or wrapper”.
+Subsec. (i)(1). Pub. L. 111–170, § 1(b)(1), inserted “; or on which the term ‘census’ is visible through the envelope or outside cover or wrapper” after “or which bears the term ‘census’ on the envelope or outside cover or wrapper”.
 
-Subsec. (i)(2). Pub. L. 111–170, § 1(b)(2), inserted “or matter on which the term ‘census’ is visible through the envelope or outside cover or wrapper” after “In the case of matter bearing the term ‘census’ on the envelope or outside cover or wrapper”.
+Subsec. (i)(2). Pub. L. 111–170, § 1(b)(2), inserted “or matter on which the term ‘census’ is visible through the envelope or outside cover or wrapper” after “In the case of matter bearing the term ‘census’ on the envelope or outside cover or wrapper”.
 
-2008—Pub. L. 110–246, § 14207(a)(8), renumbered Pub. L. 89–544, § 26(h)(2), as § 26(i)(2). See 1976 Amendment note below.
+2008—Pub. L. 110–246, § 14207(a)(8), renumbered Pub. L. 89–544, § 26(h)(2), as § 26(i)(2). See 1976 Amendment note below.
 
 2006—Subsecs. (n), (*o*). Pub. L. 109–435 added subsec. (n) and redesignated former subsec. (n) as (*o*).
 
-1999—Subsec. (a). Pub. L. 106–168, § 110(a), struck out “1714,” after “1463,” and “1718,” after “1717,”.
+1999—Subsec. (a). Pub. L. 106–168, § 110(a), struck out “1714,” after “1463,” and “1718,” after “1717,”.
 
-Subsec. (h). Pub. L. 106–168, § 102(1)(A), in introductory provisions, substituted “which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government” for “contains a seal, insignia, trade or brand name, or any other term or symbol that reasonably could be interpreted or construed as implying any Federal Government connection, approval or endorsement”.
+Subsec. (h). Pub. L. 106–168, § 102(1)(A), in introductory provisions, substituted “which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government” for “contains a seal, insignia, trade or brand name, or any other term or symbol that reasonably could be interpreted or construed as implying any Federal Government connection, approval or endorsement”.
 
-Subsec. (h)(2)(C). Pub. L. 106–168, § 102(1)(B), added subpar. (C).
+Subsec. (h)(2)(C). Pub. L. 106–168, § 102(1)(B), added subpar. (C).
 
-Subsec. (i). Pub. L. 106–168, § 102(2)(A), in introductory provisions, substituted “which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government” for “contains a seal, insignia, trade or brand name, or any other term or symbol that reasonably could be interpreted or construed as implying any Federal Government connection, approval or endorsement”.
+Subsec. (i). Pub. L. 106–168, § 102(2)(A), in introductory provisions, substituted “which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government” for “contains a seal, insignia, trade or brand name, or any other term or symbol that reasonably could be interpreted or construed as implying any Federal Government connection, approval or endorsement”.
 
-Subsec. (i)(2)(C). Pub. L. 106–168, § 102(2)(B), added subpar. (C).
+Subsec. (i)(2)(C). Pub. L. 106–168, § 102(2)(B), added subpar. (C).
 
-Subsec. (j). Pub. L. 106–168, § 102(3), (4), added subsec. (j). Former subsec. (j) redesignated (m).
+Subsec. (j). Pub. L. 106–168, § 102(3), (4), added subsec. (j). Former subsec. (j) redesignated (m).
 
-Subsec. (k). Pub. L. 106–168, §§ 102(3), 103, added subsec. (k). Former subsec. (k) redesignated (n).
+Subsec. (k). Pub. L. 106–168, §§ 102(3), 103, added subsec. (k). Former subsec. (k) redesignated (n).
 
-Subsec. (*l*). Pub. L. 106–168, § 103, added subsec. (*l*).
+Subsec. (*l*). Pub. L. 106–168, § 103, added subsec. (*l*).
 
-Subsecs. (m), (n). Pub. L. 106–168, § 102(3), redesignated subsecs. (j) and (k) as (m) and (n), respectively.
+Subsecs. (m), (n). Pub. L. 106–168, § 102(3), redesignated subsecs. (j) and (k) as (m) and (n), respectively.
 
 1991—Subsecs. (i) to (k). Pub. L. 102–71 redesignated subsec. (i), relating to conduct of proceedings concerning mailability of certain matter, as (j), and former subsec. (j), relating to jurisdiction of district courts, as (k).
 
@@ -335,11 +335,11 @@ Pub. L. 101–493 redesignated subsec. (g), as added by Pub. L. 101–524, as (i
 
 Subsec. (j). Pub. L. 101–524 redesignated subsec. (g) as (j).
 
-1982—Subsec. (a). Pub. L. 97–398 substituted “, 1718, or 1738” for “or 1718”.
+1982—Subsec. (a). Pub. L. 97–398 substituted “, 1718, or 1738” for “or 1718”.
 
-1976—Subsec. (a). Pub. L. 89–544, § 26(i)(2), formerly § 26(h)(2), as added Pub. L. 94–279, § 17, and renumbered § 26(i)(2) by Pub. L. 110–246, § 14207(a)(8), inserted “, or section 26 of the Animal Welfare Act” after “title 18”.
+1976—Subsec. (a). Pub. L. 89–544, § 26(i)(2), formerly § 26(h)(2), as added Pub. L. 94–279, § 17, and renumbered § 26(i)(2) by Pub. L. 110–246, § 14207(a)(8), inserted “, or section 26 of the Animal Welfare Act” after “title 18”.
 
-1971—Subsecs. (e), (f). Pub. L. 91–662, § 6(1)(A), (B), added subsec. (e) and redesignated former subsec. (e) as (f). Section 5(a) of Pub. L. 91–662 inserted a similar provision to section 4001 of former Title 39, The Postal Service, pending the effective date of this section. Said amendment to section 4001 has not been executed in view of the passage of Title 39, Postal Service, as enacted by the Postal Reorganization Act.
+1971—Subsecs. (e), (f). Pub. L. 91–662, § 6(1)(A), (B), added subsec. (e) and redesignated former subsec. (e) as (f). Section 5(a) of Pub. L. 91–662 inserted a similar provision to section 4001 of former Title 39, The Postal Service, pending the effective date of this section. Said amendment to section 4001 has not been executed in view of the passage of Title 39, Postal Service, as enacted by the Postal Reorganization Act.
 
 Subsec. (g). Pub. L. 92–191 added subsec. (g).
 
@@ -355,19 +355,19 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–168, title I, § 111, Dec. 12, 1999, 113 Stat. 1817, provided that: “Except as provided in section 108 or 110(b) [enacting section 3017 of this title, amending section 3013 of this title, and enacting provisions set out as notes under sections 3013 and 3017 of this title], this title [see Short Title of 1999 Amendment note below] shall take effect 120 days after the date of the enactment of this Act [Dec. 12, 1999].”
+Pub. L. 106–168, title I, § 111, Dec. 12, 1999, 113 Stat. 1817, provided that: “Except as provided in section 108 or 110(b) [enacting section 3017 of this title, amending section 3013 of this title, and enacting provisions set out as notes under sections 3013 and 3017 of this title], this title [see Short Title of 1999 Amendment note below] shall take effect 120 days after the date of the enactment of this Act [Dec. 12, 1999].”
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–524, § 6, Nov. 6, 1990, 104 Stat. 2304, provided that: “The provisions of this Act [enacting section 413 of this title, amending this section and section 3005 of this title, and enacting provisions set out as notes below] shall take effect on the date of the enactment of this Act [Nov. 6, 1990], except the amendments made by section 2 [amending this section and section 3005 of this title] shall apply to matter deposited for mailing and delivery on or after 180 days after the date of the enactment of this Act.”
+Pub. L. 101–524, § 6, Nov. 6, 1990, 104 Stat. 2304, provided that: “The provisions of this Act [enacting section 413 of this title, amending this section and section 3005 of this title, and enacting provisions set out as notes below] shall take effect on the date of the enactment of this Act [Nov. 6, 1990], except the amendments made by section 2 [amending this section and section 3005 of this title] shall apply to matter deposited for mailing and delivery on or after 180 days after the date of the enactment of this Act.”
 
-Pub. L. 101–493, § 3, Oct. 31, 1990, 104 Stat. 1184, provided that: “The amendments made by this Act [amending this section] shall take effect 180 days after the date of enactment of this Act [Oct. 31, 1990], and shall apply with respect to any matter mailed on or after that effective date.”
+Pub. L. 101–493, § 3, Oct. 31, 1990, 104 Stat. 1184, provided that: “The amendments made by this Act [amending this section] shall take effect 180 days after the date of enactment of this Act [Oct. 31, 1990], and shall apply with respect to any matter mailed on or after that effective date.”
 
 **Effective Date of 1971 Amendment**
 
 Amendment by Pub. L. 92–191 effective at beginning of third calendar month following Dec. 15, 1971, or on the date that this section becomes effective pursuant to section 15(a) of Pub. L. 91–375, which is set out as and Effective Date note preceding section 101 of this title, whichever is later, see section 3 of Pub. L. 92–191, set out as a note under section 1716 of Title 18, Crimes and Criminal Procedure.
 
-Pub. L. 91–662, § 6, Jan. 8, 1971, 84 Stat. 1974, provided that the amendment made by that section is effective on the date that the Board of Governors of the United States Postal Service establishes as the effective date for section 3001 of title 39 of the United States Code, as enacted by the Postal Reorganization Act.
+Pub. L. 91–662, § 6, Jan. 8, 1971, 84 Stat. 1974, provided that the amendment made by that section is effective on the date that the Board of Governors of the United States Postal Service establishes as the effective date for section 3001 of title 39 of the United States Code, as enacted by the Postal Reorganization Act.
 
 **Effective Date**
 
@@ -375,21 +375,21 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **Short Title of 1999 Amendment**
 
-Pub. L. 106–168, title I, § 101, Dec. 12, 1999, 113 Stat. 1806, provided that: “This title [enacting sections 3016 and 3017 of this title, amending this section and sections 3005, 3007, 3011, 3012, and 3013 of this title, repealing section 3006 of this title, and enacting provisions set out as notes under this section and sections 3013, 3016, and 3017 of this title] may be cited as the ‘Deceptive Mail Prevention and Enforcement Act’.”
+Pub. L. 106–168, title I, § 101, Dec. 12, 1999, 113 Stat. 1806, provided that: “This title [enacting sections 3016 and 3017 of this title, amending this section and sections 3005, 3007, 3011, 3012, and 3013 of this title, repealing section 3006 of this title, and enacting provisions set out as notes under this section and sections 3013, 3016, and 3017 of this title] may be cited as the ‘Deceptive Mail Prevention and Enforcement Act’.”
 
 **Short Title of 1990 Amendments**
 
-Pub. L. 101–524, § 1, Nov. 6, 1990, 104 Stat. 2301, provided that: “This Act [enacting section 413 of this title, amending this section and section 3005 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Deceptive Mailings Prevention Act of 1990’.”
+Pub. L. 101–524, § 1, Nov. 6, 1990, 104 Stat. 2301, provided that: “This Act [enacting section 413 of this title, amending this section and section 3005 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Deceptive Mailings Prevention Act of 1990’.”
 
-Pub. L. 101–493, § 1, Oct. 31, 1990, 104 Stat. 1184, provided that: “This Act [amending this section and enacting provisions set out above] may be cited as the ‘Drug and Household Substance Mailing Act of 1990’.”
+Pub. L. 101–493, § 1, Oct. 31, 1990, 104 Stat. 1184, provided that: “This Act [amending this section and enacting provisions set out above] may be cited as the ‘Drug and Household Substance Mailing Act of 1990’.”
 
 **Short Title of 1983 Amendment**
 
-Pub. L. 98–186, § 1, Nov. 30, 1983, 97 Stat. 1315, provided: “That this Act [enacting sections 3012 and 3013 of this title, amending section 3005 of this title, and enacting provisions set out as notes under sections 3005 and 3012 of this title] may be cited as the ‘Mail Order Consumer Protection Amendments of 1983’.”
+Pub. L. 98–186, § 1, Nov. 30, 1983, 97 Stat. 1315, provided: “That this Act [enacting sections 3012 and 3013 of this title, amending section 3005 of this title, and enacting provisions set out as notes under sections 3005 and 3012 of this title] may be cited as the ‘Mail Order Consumer Protection Amendments of 1983’.”
 
 **State Law Not Preempted**
 
-Pub. L. 106–168, title I, § 109, Dec. 12, 1999, 113 Stat. 1816, provided that:
+Pub. L. 106–168, title I, § 109, Dec. 12, 1999, 113 Stat. 1816, provided that:
 
 > **“(a) In General.—** Nothing in the provisions of this title [see Short Title of 1999 Amendment note above] (including the amendments made by this title) or in the regulations promulgated under such provisions shall be construed to preempt any provision of State or local law that imposes more restrictive requirements, regulations, damages, costs, or penalties. No determination by the Postal Service that any particular piece of mail or class of mail is in compliance with such provisions of this title shall be construed to preempt any provision of State or local law.
 
@@ -397,13 +397,13 @@ Pub. L. 106–168, title I, § 109, Dec. 12, 1999, 113 Stat. 1816, provided th
 
 **Coordination of Functions With Department of Health and Human Services**
 
-Pub. L. 101–524, § 4, Nov. 6, 1990, 104 Stat. 2303, provided that: “The United States Postal Service shall consult and coordinate the functions and administration of the provisions of this Act and the amendments made by this Act [see Short Title of 1990 Amendments note above] with the Secretary of the Department of Health and Human Services and the functions of the Secretary in the administration of section 428 of the Medicare Catastrophic Coverage Act of 1988 (42 U.S.C. 1320b–10) [Pub. L. 100–360, which enacted section 1320b–10 of Title 42, The Public Health and Welfare, amended section 1395ss of Title 42, and enacted provisions set out as a note under section 1320b–10 of Title 42].”
+Pub. L. 101–524, § 4, Nov. 6, 1990, 104 Stat. 2303, provided that: “The United States Postal Service shall consult and coordinate the functions and administration of the provisions of this Act and the amendments made by this Act [see Short Title of 1990 Amendments note above] with the Secretary of the Department of Health and Human Services and the functions of the Secretary in the administration of section 428 of the Medicare Catastrophic Coverage Act of 1988 (42 U.S.C. 1320b–10) [Pub. L. 100–360, which enacted section 1320b–10 of Title 42, The Public Health and Welfare, amended section 1395ss of Title 42, and enacted provisions set out as a note under section 1320b–10 of Title 42].”
 
 **Notice With Respect to Obscene Matter Distributed by Mail and Detention Thereof**
 
-Pub. L. 87–793, § 307, Oct. 11, 1962, 76 Stat. 841, provided that: “In order to alert the recipients of mail and the general public to the fact that large quantities of obscene, lewd, lascivious, and indecent matter are being introduced into this country from abroad and disseminated in the United States by means of the United States mails, the Postmaster General shall publicize such fact (1) by appropriate notices posted in post offices, and (2) by notifying recipients of mail, whenever he deems it appropriate in order to carry out the purposes of this section, that the United States mails may contain such obscene, lewd, lascivious, or indecent matter. Any person may file a written request with his local post office to detain obscene, lewd, lascivious, or indecent matter addressed to him, and the Postmaster General shall detain and dispose of such matter for such period as the request is in effect. The Postmaster General shall permit the return of mail containing obscene, lewd, lascivious, or indecent matter, to local post offices, without cost to the recipient thereof. Nothing in this section shall be deemed to authorize the Postmaster General to open, inspect, or censor any mail except on specific request by the addressee thereof. The Postmaster General is authorized to prescribe such regulations as he may deem appropriate to carry out the purposes of this section.”
+Pub. L. 87–793, § 307, Oct. 11, 1962, 76 Stat. 841, provided that: “In order to alert the recipients of mail and the general public to the fact that large quantities of obscene, lewd, lascivious, and indecent matter are being introduced into this country from abroad and disseminated in the United States by means of the United States mails, the Postmaster General shall publicize such fact (1) by appropriate notices posted in post offices, and (2) by notifying recipients of mail, whenever he deems it appropriate in order to carry out the purposes of this section, that the United States mails may contain such obscene, lewd, lascivious, or indecent matter. Any person may file a written request with his local post office to detain obscene, lewd, lascivious, or indecent matter addressed to him, and the Postmaster General shall detain and dispose of such matter for such period as the request is in effect. The Postmaster General shall permit the return of mail containing obscene, lewd, lascivious, or indecent matter, to local post offices, without cost to the recipient thereof. Nothing in this section shall be deemed to authorize the Postmaster General to open, inspect, or censor any mail except on specific request by the addressee thereof. The Postmaster General is authorized to prescribe such regulations as he may deem appropriate to carry out the purposes of this section.”
 
-## § 3002. Nonmailable motor vehicle master keys
+## § 3002. Nonmailable motor vehicle master keys
 
 **(a)** Except as provided in subsection (b) of this section, any motor vehicle master key, any pattern, impression, or mold from which a motor vehicle master key may be made, or any advertisement for the sale of any such key, pattern, impression, or mold, is nonmailable matter and shall not be carried or delivered by mail.
 
@@ -419,7 +419,7 @@ Pub. L. 87–793, § 307, Oct. 11, 1962, 76 Stat. 841, provided that: “In or
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 3002a. Nonmailability of locksmithing devices
+## § 3002a. Nonmailability of locksmithing devices
 
 **(a)** Any locksmithing device is nonmailable mail, shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless such device is mailed to—
 
@@ -439,9 +439,9 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **(3)** a device or tool designed for making an impression of a key or similar security device to duplicate such key or device.
 
-(Added Pub. L. 100–690, title VII, § 7090(a), Nov. 18, 1988, 102 Stat. 4409.)
+(Added Pub. L. 100–690, title VII, § 7090(a), Nov. 18, 1988, 102 Stat. 4409.)
 
-## § 3003. Mail bearing a fictitious name or address
+## § 3003. Mail bearing a fictitious name or address
 
 **(a)** Upon evidence satisfactory to the Postal Service that any person is using a fictitious, false, or assumed name, title, or address in conducting, promoting, or carrying on or assisting therein, by means of the postal services of the United States, an activity in violation of sections 1302, 1341, and 1342 of title 18, it may—
 
@@ -463,7 +463,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 3004. Delivery of mail to persons not residents of the place of address
+## § 3004. Delivery of mail to persons not residents of the place of address
 
 Whenever the Postal Service determines that letters or parcels sent in the mail are addressed to places not the residence or regular business address of the person for whom they are intended, to enable the person to escape identification, the Postal Service may deliver the mail only upon identification of the person so addressed.
 
@@ -475,7 +475,7 @@ Whenever the Postal Service determines that letters or parcels sent in the mail 
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 3005. False representations; lotteries
+## § 3005. False representations; lotteries
 
 **(a)** Upon evidence satisfactory to the Postal Service that any person is engaged in conducting a scheme or device for obtaining money or property through the mail by means of false representations, including the mailing of matter which is nonmailable under section 3001(d), (h), (i), (j), or (k) of this title, or is engaged in conducting a lottery, gift enterprise, or scheme for the distribution of money or of real or personal property, by lottery, chance, or drawing of any kind, the Postal Service may issue an order which—
 
@@ -507,7 +507,7 @@ For purposes of the preceding sentence, the mailing of matter which is nonmailab
 
 **(C)** inform such person that the failure to complete the transaction may be considered in a proceeding under section 3007 of this title to determine probable cause, in accordance with paragraph (2) of this subsection.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 747; Pub. L. 93–583, § 4, Jan. 2, 1975, 88 Stat. 1916; Pub. L. 94–525, § 2, Oct. 17, 1976, 90 Stat. 2478; Pub. L. 95–360, Sept. 9, 1978, 92 Stat. 594; Pub. L. 98–186, § 2, Nov. 30, 1983, 97 Stat. 1315; Pub. L. 100–625, § 2(c), Nov. 7, 1988, 102 Stat. 3205; Pub. L. 101–524, § 2(b), Nov. 6, 1990, 104 Stat. 2302; Pub. L. 102–71, § 2(2), July 10, 1991, 105 Stat. 330; Pub. L. 106–168, title I, §§ 104, 105(b)(2)(A), Dec. 12, 1999, 113 Stat. 1810, 1811; Pub. L. 109–435, title X, § 1010(g)(3), Dec. 20, 2006, 120 Stat. 3262.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 747; Pub. L. 93–583, § 4, Jan. 2, 1975, 88 Stat. 1916; Pub. L. 94–525, § 2, Oct. 17, 1976, 90 Stat. 2478; Pub. L. 95–360, Sept. 9, 1978, 92 Stat. 594; Pub. L. 98–186, § 2, Nov. 30, 1983, 97 Stat. 1315; Pub. L. 100–625, § 2(c), Nov. 7, 1988, 102 Stat. 3205; Pub. L. 101–524, § 2(b), Nov. 6, 1990, 104 Stat. 2302; Pub. L. 102–71, § 2(2), July 10, 1991, 105 Stat. 330; Pub. L. 106–168, title I, §§ 104, 105(b)(2)(A), Dec. 12, 1999, 113 Stat. 1810, 1811; Pub. L. 109–435, title X, § 1010(g)(3), Dec. 20, 2006, 120 Stat. 3262.)
 
 **Editorial Notes**
 
@@ -515,9 +515,9 @@ For purposes of the preceding sentence, the mailing of matter which is nonmailab
 
 2006—Subsec. (a). Pub. L. 109–435 substituted “under section 3001(d),” for “under 3001(d),” in introductory provisions and “under such section 3001(d),” for “under such 3001(d),” in concluding provisions.
 
-1999—Subsec. (a). Pub. L. 106–168, § 104, in two places, struck out “or” after “(h),” and inserted “, (j), or (k)” after “(i)”.
+1999—Subsec. (a). Pub. L. 106–168, § 104, in two places, struck out “or” after “(h),” and inserted “, (j), or (k)” after “(i)”.
 
-Subsec. (c). Pub. L. 106–168, § 105(b)(2)(A), substituted “section,” for “section and section 3006 of this title,”.
+Subsec. (c). Pub. L. 106–168, § 105(b)(2)(A), substituted “section,” for “section and section 3006 of this title,”.
 
 1991—Subsec. (a). Pub. L. 102–71 substituted “3001(d), (h), or (i)” for “section 3001(d), (f), or (g)” in two places.
 
@@ -525,11 +525,11 @@ Subsec. (c). Pub. L. 106–168, § 105(b)(2)(A), substituted “section,” fo
 
 1988—Subsec. (d)(1). Pub. L. 100–625 amended cl. (1) generally. Prior to amendment, cl. (1) read as follows: “a newspaper of general circulation containing advertisements, lists of prizes, or information concerning a lottery conducted by a State acting under authority of State law, published in that State, or in an adjacent State which conducts such a lottery,”.
 
-1983—Subsec. (a)(3). Pub. L. 98–186, § 2(a), added par. (3).
+1983—Subsec. (a)(3). Pub. L. 98–186, § 2(a), added par. (3).
 
-Subsec. (d). Pub. L. 98–186, § 2(b), struck out “or” before “(2)”, inserted “or” before “(3)”, and inserted cl. (3) and provision relating to applicability of cl. (3).
+Subsec. (d). Pub. L. 98–186, § 2(b), struck out “or” before “(2)”, inserted “or” before “(3)”, and inserted cl. (3) and provision relating to applicability of cl. (3).
 
-Subsec. (e). Pub. L. 98–186, § 2(c), added subsec. (e).
+Subsec. (e). Pub. L. 98–186, § 2(c), added subsec. (e).
 
 1978—Subsec. (a). Pub. L. 95–360 inserted provisions relating to nonmailable matter under section 3001(d) of this title.
 
@@ -557,13 +557,13 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **Consumer Education Program on Schemes Involving False Representations**
 
-Pub. L. 98–186, § 4, Nov. 30, 1983, 97 Stat. 1317, as amended by Pub. L. 104–66, title II, § 2211(a), Dec. 21, 1995, 109 Stat. 732; Pub. L. 117–286, § 4(b)(68), Dec. 27, 2022, 136 Stat. 4350, provided that:
+Pub. L. 98–186, § 4, Nov. 30, 1983, 97 Stat. 1317, as amended by Pub. L. 104–66, title II, § 2211(a), Dec. 21, 1995, 109 Stat. 732; Pub. L. 117–286, § 4(b)(68), Dec. 27, 2022, 136 Stat. 4350, provided that:
 
 > **“(a)** As soon as practicable after the date of enactment of this Act [Nov. 30, 1983], the Postmaster General or his designee, following consultation with representatives of the mail order industry, shall develop and carry out a program designed to provide consumer education to the public on schemes involving false representations through use of the mails, including the dissemination of information on recognizing practices commonly associated with such schemes, as well as appropriate measures which an individual may take upon receiving mail matter which the individual believes may be part of such a scheme.
 
 > **“(b)** A summary of the activities carried out under subsection (a) shall be included in the first semiannual report submitted each year as required under section 405 of title 5, United States Code.”
 
-## [§ 3006. Repealed. Pub. L. 106–168, title I, § 105(b)(1), Dec. 12, 1999, 113 Stat. 1811]
+## [§ 3006. Repealed. Pub. L. 106–168, title I, § 105(b)(1), Dec. 12, 1999, 113 Stat. 1811]
 
 Section, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 747, prohibited persons from obtaining or attempting to obtain remittances of money or property of any kind through the mail for an obscene, lewd, lascivious, indecent, filthy, or vile thing.
 
@@ -573,7 +573,7 @@ Section, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 747, prohibited persons from 
 
 Repeal effective 120 days after Dec. 12, 1999, see section 111 of Pub. L. 106–168, set out as an Effective Date of 1999 Amendment note under section 3001 of this title.
 
-## § 3007. Detention of mail for temporary periods
+## § 3007. Detention of mail for temporary periods
 
 **(a)**
 
@@ -601,7 +601,7 @@ Repeal effective 120 days after Dec. 12, 1999, see section 111 of Pub. L. 106–
 
 **(c)** This section does not apply to mail addressed to publishers of newspapers and other periodical publications entitled to a periodical publication rate or to mail addressed to the agents of those publishers.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 747; Pub. L. 106–168, title I, § 105(a), Dec. 12, 1999, 113 Stat. 1810.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 747; Pub. L. 106–168, title I, § 105(a), Dec. 12, 1999, 113 Stat. 1810.)
 
 **Editorial Notes**
 
@@ -623,7 +623,7 @@ Amendment by Pub. L. 106–168 effective 120 days after Dec. 12, 1999, see secti
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 3008. Prohibition of pandering advertisements
+## § 3008. Prohibition of pandering advertisements
 
 **(a)** Whoever for himself, or by his agents or assigns, mails or causes to be mailed any pandering advertisement which offers for sale matter which the addressee in his sole discretion believes to be erotically arousing or sexually provocative shall be subject to an order of the Postal Service to refrain from further mailings of such materials to designated addresses thereof.
 
@@ -655,7 +655,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 3009. Mailing of unordered merchandise
+## § 3009. Mailing of unordered merchandise
 
 **(a)** Except for (1) free samples clearly and conspicuously marked as such, and (2) merchandise mailed by a charitable organization soliciting contributions, the mailing of un­ordered merchandise or of communications prohibited by subsection (c) of this section constitutes an unfair method of competition and an unfair trade practice in violation of section 45(a)(1) of title 15.
 
@@ -673,7 +673,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 3010. Mailing of sexually oriented advertisements
+## § 3010. Mailing of sexually oriented advertisements
 
 **(a)** Any person who mails or causes to be mailed any sexually oriented advertisement shall place on the envelope or cover thereof his name and address as the sender thereof and such mark or notice as the Postal Service may prescribe.
 
@@ -693,7 +693,7 @@ Section effective first day of sixth month which begins after Aug. 12, 1970, see
 
 **Invasion of Privacy by Mailing of Sexually Oriented Advertisements**
 
-Pub. L. 91–375, § 14, Aug. 12, 1970, 84 Stat. 786, provided that:
+Pub. L. 91–375, § 14, Aug. 12, 1970, 84 Stat. 786, provided that:
 
 > **“(a)** [*Congressional findings*] The Congress finds—
 
@@ -711,7 +711,7 @@ Pub. L. 91–375, § 14, Aug. 12, 1970, 84 Stat. 786, provided that:
 
 [Provisions of section 14 of Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date not preceding section 101 of this title.]
 
-## § 3011. Judicial enforcement
+## § 3011. Judicial enforcement
 
 **(a)** Whenever the Postal Service believes that any person is mailing or causing to be mailed any sexually oriented advertisement in violation of section 3010 of this title, it may request the Attorney General to commence a civil action against such person in a district court of the United States. Upon a finding by the court of a violation of that section, the court may issue an order including one or more of the following provisions as the court deems just under the circumstances:
 
@@ -729,7 +729,7 @@ Pub. L. 91–375, § 14, Aug. 12, 1970, 84 Stat. 786, provided that:
 
 **(e)** Nothing in this section or in section 3010 shall be construed as amending, preempting, limiting, modifying, or otherwise in any way affecting section 1461 or 1463 of title 18 or section 3007 or 3008 of this title.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 750; Pub. L. 106–168, title I, § 105(b)(2)(B), Dec. 12, 1999, 113 Stat. 1811.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 750; Pub. L. 106–168, title I, § 105(b)(2)(B), Dec. 12, 1999, 113 Stat. 1811.)
 
 **Editorial Notes**
 
@@ -747,7 +747,7 @@ Amendment by Pub. L. 106–168 effective 120 days after Dec. 12, 1999, see secti
 
 Section effective first day of sixth month which begins after Aug. 12, 1970, see section 15(b) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 3012. Civil penalties
+## § 3012. Civil penalties
 
 **(a)** Any person—
 
@@ -777,17 +777,17 @@ shall be liable to the United States for a civil penalty in an amount not to exc
 
 **(f)** In any proceeding at any time under this section, the defendant shall be entitled as a defense or counterclaim to seek judicial review, if not already had, pursuant to chapter 7 of title 5, of the order issued under section 3005 of this title. However, nothing in this section shall be construed to preclude independent judicial review otherwise available pursuant to chapter 7 of title 5 of an order issued under section 3005 of this title.
 
-(Added Pub. L. 98–186, § 3(a), Nov. 30, 1983, 97 Stat. 1316; amended Pub. L. 106–168, title I, § 106, Dec. 12, 1999, 113 Stat. 1811.)
+(Added Pub. L. 98–186, § 3(a), Nov. 30, 1983, 97 Stat. 1316; amended Pub. L. 106–168, title I, § 106, Dec. 12, 1999, 113 Stat. 1811.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1999—Subsec. (a). Pub. L. 106–168, § 106(1), in concluding provisions, substituted “$50,000 for each mailing of less than 50,000 pieces; $100,000 for each mailing of 50,000 to 100,000 pieces; with an additional $10,000 for each additional 10,000 pieces above 100,000, not to exceed $2,000,000” for “$10,000 for each day that such person engages in conduct described by paragraph (1), (2), or (3) of this subsection”.
+1999—Subsec. (a). Pub. L. 106–168, § 106(1), in concluding provisions, substituted “$50,000 for each mailing of less than 50,000 pieces; $100,000 for each mailing of 50,000 to 100,000 pieces; with an additional $10,000 for each additional 10,000 pieces above 100,000, not to exceed $2,000,000” for “$10,000 for each day that such person engages in conduct described by paragraph (1), (2), or (3) of this subsection”.
 
-Subsec. (b)(1), (2). Pub. L. 106–168, § 106(2), inserted “, (c), or (d)” after “of subsection (a)”.
+Subsec. (b)(1), (2). Pub. L. 106–168, § 106(2), inserted “, (c), or (d)” after “of subsection (a)”.
 
-Subsecs. (c) to (f). Pub. L. 106–168, § 106(3), (4), added subsecs. (c) and (d) and redesignated former subsecs. (c) and (d) as (e) and (f), respectively.
+Subsecs. (c) to (f). Pub. L. 106–168, § 106(3), (4), added subsecs. (c) and (d) and redesignated former subsecs. (c) and (d) as (e) and (f), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -797,9 +797,9 @@ Amendment by Pub. L. 106–168 effective 120 days after Dec. 12, 1999, see secti
 
 **Effective Date**
 
-Pub. L. 98–186, § 3(b), Nov. 30, 1983, 97 Stat. 1317, provided that: “Section 3012 of title 39, United States Code (as added by subsection (a) of this section) shall apply with respect to conduct which occurs on or after the date of the enactment of this Act [Nov. 30, 1983].”
+Pub. L. 98–186, § 3(b), Nov. 30, 1983, 97 Stat. 1317, provided that: “Section 3012 of title 39, United States Code (as added by subsection (a) of this section) shall apply with respect to conduct which occurs on or after the date of the enactment of this Act [Nov. 30, 1983].”
 
-## § 3013. Semiannual reports on investigative activities of the Postal Service
+## § 3013. Semiannual reports on investigative activities of the Postal Service
 
 The Postmaster General shall submit semi­annual reports to the Inspector General summarizing the investigative activities of the Postal Service. One semiannual report shall be submitted for the reporting period beginning on October 1 and ending on March 31, and the other semiannual report shall be submitted for the reporting period beginning on April 1 and ending on September 30. Each such report shall be submitted within 1 month (or such shorter length of time as the Inspector General may specify) after the close of the reporting period involved and shall include with respect to such reporting period—
 
@@ -817,7 +817,7 @@ The Postmaster General shall submit semi­annual reports to the Inspector Genera
 
 The information in a report submitted under this section to the Inspector General with respect to a reporting period shall be included as part of the semiannual report prepared by the Inspector General under section 405 of title 5 for the same reporting period. Nothing in this section shall be considered to permit or require that any report by the Postmaster General under this section include any information relating to activities of the Inspector General.
 
-(Added Pub. L. 98–186, § 3(a), Nov. 30, 1983, 97 Stat. 1317; amended Pub. L. 104–66, title II, § 2211(b), Dec. 21, 1995, 109 Stat. 733; Pub. L. 106–168, title I, §§ 107(c), 110(b)(1), Dec. 12, 1999, 113 Stat. 1813, 1817; Pub. L. 117–286, § 4(b)(69), Dec. 27, 2022, 136 Stat. 4350.)
+(Added Pub. L. 98–186, § 3(a), Nov. 30, 1983, 97 Stat. 1317; amended Pub. L. 104–66, title II, § 2211(b), Dec. 21, 1995, 109 Stat. 733; Pub. L. 106–168, title I, §§ 107(c), 110(b)(1), Dec. 12, 1999, 113 Stat. 1813, 1817; Pub. L. 117–286, § 4(b)(69), Dec. 27, 2022, 136 Stat. 4350.)
 
 **Editorial Notes**
 
@@ -825,13 +825,13 @@ The information in a report submitted under this section to the Inspector Genera
 
 2022—Pub. L. 117–286 substituted “section 405 of title 5” for “section 5 of the Inspector General Act of 1978” in concluding provisions.
 
-1999—Pub. L. 106–168, § 110(b)(1), in introductory provisions, substituted “Inspector General” for “Board” and “1 month (or such shorter length of time as the Inspector General may specify)” for “sixty days” and substituted concluding provisions for former concluding provisions which read as follows: “Upon approval of a report submitted under the first sentence of this section, the information in such report shall be included in the next semiannual report required under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.).”
+1999—Pub. L. 106–168, § 110(b)(1), in introductory provisions, substituted “Inspector General” for “Board” and “1 month (or such shorter length of time as the Inspector General may specify)” for “sixty days” and substituted concluding provisions for former concluding provisions which read as follows: “Upon approval of a report submitted under the first sentence of this section, the information in such report shall be included in the next semiannual report required under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.).”
 
-Par. (5). Pub. L. 106–168, § 107(c), added par. (5). Former par. (5) redesignated (6).
+Par. (5). Pub. L. 106–168, § 107(c), added par. (5). Former par. (5) redesignated (6).
 
-Par. (6). Pub. L. 106–168, § 110(b)(1)(A), substituted “Inspector General” for “Board”.
+Par. (6). Pub. L. 106–168, § 110(b)(1)(A), substituted “Inspector General” for “Board”.
 
-Pub. L. 106–168, § 107(c), redesignated par. (5) as (6).
+Pub. L. 106–168, § 107(c), redesignated par. (5) as (6).
 
 1995—Pub. L. 104–66 substituted at end “the information in such report shall be included in the next semiannual report required under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.)” for “the Board shall transmit such report to the Congress”.
 
@@ -841,13 +841,13 @@ Pub. L. 106–168, § 107(c), redesignated par. (5) as (6).
 
 Amendment by section 107(c) of Pub. L. 106–168 effective 120 days after Dec. 12, 1999, see section 111 of Pub. L. 106–168, set out as a note under section 3001 of this title.
 
-Pub. L. 106–168, title I, § 110(b)(2), (3), Dec. 12, 1999, 113 Stat. 1817, provided that:
+Pub. L. 106–168, title I, § 110(b)(2), (3), Dec. 12, 1999, 113 Stat. 1817, provided that:
 
 > **“(2) Effective date.—** This subsection [amending this section] shall take effect on the date of the enactment of this Act [Dec. 12, 1999], and the amendments made by this subsection shall apply with respect to semiannual reporting periods beginning on or after such date of enactment.
 
 > **“(3) Savings provision.—** For purposes of any semiannual reporting period preceding the first semiannual reporting period referred to in paragraph (2), the provisions of title 39, United States Code, shall continue to apply as if the amendments made by this subsection had not been enacted.”
 
-## § 3014. Nonmailable plants
+## § 3014. Nonmailable plants
 
 **(a)**
 
@@ -861,27 +861,27 @@ Pub. L. 106–168, title I, § 110(b)(2), (3), Dec. 12, 1999, 113 Stat. 1817, 
 
 **(d)** For the purposes of this section—
 
-**(1)** “Plant Quarantine Act” means the Act entitled “An Act to regulate the importation of nursery stock and other plants and plant products; to enable the Secretary of Agriculture to establish and maintain quarantine districts for plant diseases and insect pests; to permit and regulate the movement of fruits, plants, and vegetables therefrom, and for other purposes”, enacted August 20, 1912 1
+**(1)** “Plant Quarantine Act” means the Act entitled “An Act to regulate the importation of nursery stock and other plants and plant products; to enable the Secretary of Agriculture to establish and maintain quarantine districts for plant diseases and insect pests; to permit and regulate the movement of fruits, plants, and vegetables therefrom, and for other purposes”, enacted August 20, 1912 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (37 Stat. 315 et seq.); and
 
 **(2)** “plant” means any class of plants, fruits, vegetables, roots, bulbs, seeds, or other plant products, any class of nursery stock (as defined by section 6 of the Plant Quarantine Act),<sup>1</sup> and any other article or matter which is capable of carrying any dangerous plant disease or pest.
 
-(Added Pub. L. 100–574, § 1(a)(1), Oct. 31, 1988, 102 Stat. 2892.)
+(Added Pub. L. 100–574, § 1(a)(1), Oct. 31, 1988, 102 Stat. 2892.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Act of Aug. 20, 1912, referred to in subsec. (d), is act Aug. 20, 1912, ch. 308, 37 Stat. 315, commonly known as the Plant Quarantine Act, which was classified generally to chapter 8 (§ 151 et seq.) of Title 7, Agriculture, prior to repeal by Pub. L. 106–224, title IV, § 438(a)(1), June 20, 2000, 114 Stat. 454. Sections 6 and 8 of the Plant Quarantine Act, referred to in subsecs. (a)(1), (c), and (d)(2), were classified to sections 152 and 161, respectively, of Title 7. For complete classification of this Act to the Code, see Tables.
+The Act of Aug. 20, 1912, referred to in subsec. (d), is act Aug. 20, 1912, ch. 308, 37 Stat. 315, commonly known as the Plant Quarantine Act, which was classified generally to chapter 8 (§ 151 et seq.) of Title 7, Agriculture, prior to repeal by Pub. L. 106–224, title IV, § 438(a)(1), June 20, 2000, 114 Stat. 454. Sections 6 and 8 of the Plant Quarantine Act, referred to in subsecs. (a)(1), (c), and (d)(2), were classified to sections 152 and 161, respectively, of Title 7. For complete classification of this Act to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 100–574, § 4, Oct. 31, 1988, 102 Stat. 2894, provided that:
+Pub. L. 100–574, § 4, Oct. 31, 1988, 102 Stat. 2894, provided that:
 
 > **“(a) In General.—** This Act and the amendments made by this Act [enacting this section and sections 1716B and 1716C of Title 18, Crimes and Criminal Procedure] shall become effective on the earlier of—
 
@@ -891,13 +891,13 @@ Pub. L. 100–574, § 4, Oct. 31, 1988, 102 Stat. 2894, provided that:
 
 > **“(b) Regulations.—** Nothing in this section shall prevent the United States Postal Service from taking any action which may be necessary to prepare and issue, as soon as possible after the date of the enactment of this Act, any rules and regulations which the Postal Service is required to prescribe under any of the amendments made by this Act.”
 
-## § 3015. Nonmailable plant pests and injurious animals
+## § 3015. Nonmailable plant pests and injurious animals
 
 **(a) Injurious Animals.—** Any injurious animal, the importation or interstate shipment of which is prohibited pursuant to section 42 of title 18, constitutes nonmailable matter.
 
 **(b) Plant Pests.—** Any plant pest, the movement of which is prohibited pursuant to section 103 or 104 of the Federal Plant Pest Act (7 U.S.C. 150bb or 150cc),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 constitutes nonmailable matter.
 
@@ -905,25 +905,25 @@ constitutes nonmailable matter.
 
 **(d) Illegally Taken Fish, Wildlife, or Plants.—** Any fish, wildlife, or plant, the conveyance of which is prohibited pursuant to section 3 of the Lacey Act Amendments of 1981 (16 U.S.C. 3372), constitutes nonmailable matter.
 
-(Added Pub. L. 102–393, title VI, § 631(d)(1), Oct. 6, 1992, 106 Stat. 1776.)
+(Added Pub. L. 102–393, title VI, § 631(d)(1), Oct. 6, 1992, 106 Stat. 1776.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 103 and 104 of the Federal Plant Pest Act (7 U.S.C. 150bb, 150cc), referred to in subsec. (b), were repealed by Pub. L. 106–224, title IV, § 438(a)(2), June 20, 2000, 114 Stat. 454.
+Sections 103 and 104 of the Federal Plant Pest Act (7 U.S.C. 150bb, 150cc), referred to in subsec. (b), were repealed by Pub. L. 106–224, title IV, § 438(a)(2), June 20, 2000, 114 Stat. 454.
 
-The Plant Quarantine Act, referred to in subsec. (c), is act Aug. 20, 1912, ch. 308, 37 Stat. 315, which was classified generally to chapter 8 (§ 151 et seq.) of Title 7, Agriculture, prior to repeal by Pub. L. 106–224, title IV, § 438(a)(1), June 20, 2000, 114 Stat. 454. For complete classification of this Act to the Code, see Tables.
+The Plant Quarantine Act, referred to in subsec. (c), is act Aug. 20, 1912, ch. 308, 37 Stat. 315, which was classified generally to chapter 8 (§ 151 et seq.) of Title 7, Agriculture, prior to repeal by Pub. L. 106–224, title IV, § 438(a)(1), June 20, 2000, 114 Stat. 454. For complete classification of this Act to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 102–393, title VI, § 631(e), Oct. 6, 1992, 106 Stat. 1776, provided that: “This section [enacting this section and provisions set out below] may be cited as the ‘Alien Species Prevention and Enforcement Act of 1992’.”
+Pub. L. 102–393, title VI, § 631(e), Oct. 6, 1992, 106 Stat. 1776, provided that: “This section [enacting this section and provisions set out below] may be cited as the ‘Alien Species Prevention and Enforcement Act of 1992’.”
 
 **Alien Species Prevention and Enforcement in Hawaii**
 
-Pub. L. 102–393, title VI, § 631(a)–(c), Oct. 6, 1992, 106 Stat. 1774, 1776, provided that:
+Pub. L. 102–393, title VI, § 631(a)–(c), Oct. 6, 1992, 106 Stat. 1774, 1776, provided that:
 
 > **“(a) Pests in the Mails.—**
 
@@ -1005,7 +1005,7 @@ Pub. L. 102–393, title VI, § 631(a)–(c), Oct. 6, 1992, 106 Stat. 1774, 17
 
 > **“(B)** report the results of the study to Congress.”
 
-## § 3016. Administrative subpoenas
+## § 3016. Administrative subpoenas
 
 **(a) Subpoena Authority.—**
 
@@ -1055,7 +1055,7 @@ Pub. L. 102–393, title VI, § 631(a)–(c), Oct. 6, 1992, 106 Stat. 1774, 17
 
 **(d) Disclosure.—** Any documentary material provided pursuant to any subpoena issued under this section shall be exempt from disclosure under section 552 of title 5, United States Code.
 
-(Added Pub. L. 106–168, title I, § 107(a), Dec. 12, 1999, 113 Stat. 1812.)
+(Added Pub. L. 106–168, title I, § 107(a), Dec. 12, 1999, 113 Stat. 1812.)
 
 **Editorial Notes**
 
@@ -1071,9 +1071,9 @@ Section effective 120 days after Dec. 12, 1999, see section 111 of Pub. L. 106�
 
 **Regulations**
 
-Pub. L. 106–168, title I, § 107(b), Dec. 12, 1999, 113 Stat. 1813, provided that: “Not later than 120 days after the date of the enactment of this section [Dec. 12, 1999], the Postal Service shall promulgate regulations setting out the procedures the Postal Service will use to implement the amendment made by subsection (a) [enacting this section].”
+Pub. L. 106–168, title I, § 107(b), Dec. 12, 1999, 113 Stat. 1813, provided that: “Not later than 120 days after the date of the enactment of this section [Dec. 12, 1999], the Postal Service shall promulgate regulations setting out the procedures the Postal Service will use to implement the amendment made by subsection (a) [enacting this section].”
 
-## § 3017. Nonmailable skill contests or sweepstakes matter; notification to prohibit mailings
+## § 3017. Nonmailable skill contests or sweepstakes matter; notification to prohibit mailings
 
 **(a) Definitions.—** In this section—
 
@@ -1177,15 +1177,15 @@ It shall be an affirmative defense in any action brought under this subsection t
 
 **(2) Enforcement.—** The Postal Service shall, in accordance with the same procedures as set forth in section 3012(b), provide for the assessment of civil penalties under this section.
 
-(Added Pub. L. 106–168, title I, § 108(a), Dec. 12, 1999, 113 Stat. 1814.)
+(Added Pub. L. 106–168, title I, § 108(a), Dec. 12, 1999, 113 Stat. 1814.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 106–168, title I, § 108(c), Dec. 12, 1999, 113 Stat. 1816, provided that: “This section [enacting this section] shall take effect 1 year after the date of the enactment of this Act [Dec. 12, 1999].”
+Pub. L. 106–168, title I, § 108(c), Dec. 12, 1999, 113 Stat. 1816, provided that: “This section [enacting this section] shall take effect 1 year after the date of the enactment of this Act [Dec. 12, 1999].”
 
-## § 3018. Hazardous material
+## § 3018. Hazardous material
 
 **(a) In General.—** The Postal Service shall prescribe regulations for the safe transportation of hazardous material in the mail.
 
@@ -1255,4 +1255,4 @@ Pub. L. 106–168, title I, § 108(c), Dec. 12, 1999, 113 Stat. 1816, provided
 
 **(2) Treasury.—** Amounts collected under subsection (c)(1)(A) and any punitive damages collected under subsection (c)(1)(C) shall be deposited into the Treasury of the United States.
 
-(Added Pub. L. 109–435, title X, § 1008(b), Dec. 20, 2006, 120 Stat. 3259.)
+(Added Pub. L. 109–435, title X, § 1008(b), Dec. 20, 2006, 120 Stat. 3259.)

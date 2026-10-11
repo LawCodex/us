@@ -19,45 +19,45 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2009—Pub. L. 111–122, § 2(c), Dec. 22, 2009, 123 Stat. 3480, added item 509B.
+2009—Pub. L. 111–122, § 2(c), Dec. 22, 2009, 123 Stat. 3480, added item 509B.
 
-2006—Pub. L. 109–177, title V, § 506(c), Mar. 9, 2006, 120 Stat. 249, added items 507A and 509A.
+2006—Pub. L. 109–177, title V, § 506(c), Mar. 9, 2006, 120 Stat. 249, added items 507A and 509A.
 
-2002—Pub. L. 107–273, div. A, title II, §§ 201(b), 202(b)(1), div. B, title IV, § 4003(b)(5), Nov. 2, 2002, 116 Stat. 1771, 1774, 1811, in item 526, struck out “and” before “trustees”, and added items 530C and 530D.
+2002—Pub. L. 107–273, div. A, title II, §§ 201(b), 202(b)(1), div. B, title IV, § 4003(b)(5), Nov. 2, 2002, 116 Stat. 1771, 1774, 1811, in item 526, struck out “and” before “trustees”, and added items 530C and 530D.
 
-1998—Pub. L. 105–277, div. A, § 101(b) [title VIII, § 801(b)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–119, added item 530B.
+1998—Pub. L. 105–277, div. A, § 101(b) [title VIII, § 801(b)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–119, added item 530B.
 
-1992—Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516, substituted “United States Court of Federal Claims” for “United States Claims Court” in item 520.
+1992—Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516, substituted “United States Court of Federal Claims” for “United States Claims Court” in item 520.
 
-1988—Pub. L. 100–690, title VI, § 6281(b), Nov. 18, 1988, 102 Stat. 4369, added item 530A.
+1988—Pub. L. 100–690, title VI, § 6281(b), Nov. 18, 1988, 102 Stat. 4369, added item 530A.
 
-1983—Pub. L. 98–86, § 2, Aug. 26, 1983, 97 Stat. 492, added item 530.
+1983—Pub. L. 98–86, § 2, Aug. 26, 1983, 97 Stat. 492, added item 530.
 
-1982—Pub. L. 97–258, § 2(g)(1)(A), Sept. 13, 1982, 96 Stat. 1060, substituted “Availability of appropriations” for “Appropriations for administrative expenses; notarial fees; meals and lodging of bailiffs” in item 524.
+1982—Pub. L. 97–258, § 2(g)(1)(A), Sept. 13, 1982, 96 Stat. 1060, substituted “Availability of appropriations” for “Appropriations for administrative expenses; notarial fees; meals and lodging of bailiffs” in item 524.
 
-Pub. L. 97–164, title I, § 118(b), Apr. 2, 1982, 96 Stat. 33, substituted “United States Claims Court or in United States Court of Appeals for the Federal Circuit” for “Court of Claims” in item 520.
+Pub. L. 97–164, title I, § 118(b), Apr. 2, 1982, 96 Stat. 33, substituted “United States Claims Court or in United States Court of Appeals for the Federal Circuit” for “Court of Claims” in item 520.
 
-1978—Pub. L. 95–598, title II, § 219(c), Nov. 6, 1978, 92 Stat. 2662, inserted reference to trustees in item 526.
+1978—Pub. L. 95–598, title II, § 219(c), Nov. 6, 1978, 92 Stat. 2662, inserted reference to trustees in item 526.
 
-Pub. L. 95–521, title VI, § 603(b), Oct. 26, 1978, 92 Stat. 1875, added items 528 and 529.
+Pub. L. 95–521, title VI, § 603(b), Oct. 26, 1978, 92 Stat. 1875, added items 528 and 529.
 
-1977—Pub. L. 95–139, § 1(b), Oct. 19, 1977, 91 Stat. 1171, added item 504a.
+1977—Pub. L. 95–139, § 1(b), Oct. 19, 1977, 91 Stat. 1171, added item 504a.
 
-1975—Pub. L. 93–613, § 1(2), Jan. 2, 1975, 88 Stat. 1975, added item 527.
+1975—Pub. L. 93–613, § 1(2), Jan. 2, 1975, 88 Stat. 1975, added item 527.
 
-1966—Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 611, substituted “THE ATTORNEY GENERAL” for “UNITED STATES ATTORNEYS” in chapter heading, “Executive Department” for “Appointment of United States attorneys” in item 501, “Seal” for “Appointment of assistant United States attorneys” in item 502, “Attorney General” for “Appointment of attorneys” in item 503, “Deputy Attorney General” for “Tenure and oath of office; removal” in item 504, “Solicitor General” for “Residence” in item 505, “Assistant Attorney General” for “Vacancies” in item 506, “Assistant Attorney General for Administration” for “Duties; supervision by Attorney General” in item 507, “Vacancies” for “Salaries” in item 508, “Functions of the Attorney General” for “Expenses” in item 509, “Delegation of authority” for “Clerical assistants and messengers” in item 510, and added items 511 to 526.
+1966—Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 611, substituted “THE ATTORNEY GENERAL” for “UNITED STATES ATTORNEYS” in chapter heading, “Executive Department” for “Appointment of United States attorneys” in item 501, “Seal” for “Appointment of assistant United States attorneys” in item 502, “Attorney General” for “Appointment of attorneys” in item 503, “Deputy Attorney General” for “Tenure and oath of office; removal” in item 504, “Solicitor General” for “Residence” in item 505, “Assistant Attorney General” for “Vacancies” in item 506, “Assistant Attorney General for Administration” for “Duties; supervision by Attorney General” in item 507, “Vacancies” for “Salaries” in item 508, “Functions of the Attorney General” for “Expenses” in item 509, “Delegation of authority” for “Clerical assistants and messengers” in item 510, and added items 511 to 526.
 
-## § 501. Executive department
+## § 501. Executive department
 
 The Department of Justice is an executive department of the United States at the seat of Government.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 611.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 611.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 291 (less last 10 words). | R.S. § 346 (less last 10 words). |
+|  | 5 U.S.C. 291 (less last 10 words). | R.S. § 346 (less last 10 words). |
 
 The words “There shall be”, referring to the establishment of the Department, are omitted as executed.
 
@@ -65,7 +65,7 @@ The words “There shall be”, referring to the establishment of the Department
 
 **Prior Provisions**
 
-A prior section 501, acts June 25, 1948, ch. 646, 62 Stat. 909; Mar. 18, 1959, Pub. L. 86–3, § 11(a), 73 Stat. 9, related to appointment of United States attorneys, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 541 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 501, acts June 25, 1948, ch. 646, 62 Stat. 909; Mar. 18, 1959, Pub. L. 86–3, § 11(a), 73 Stat. 9, related to appointment of United States attorneys, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 541 of this title by section 4(c) of Pub. L. 89–554.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -99,23 +99,23 @@ Pub. L. 116–288, Jan. 5, 2021, 134 Stat. 4884, provided that:
 
 **Office of Justice for Victims of Overseas Terrorism**
 
-Pub. L. 108–447, div. B, title I, § 126, Dec. 8, 2004, 118 Stat. 2872, provided that: “The Department of Justice shall establish an Office of Justice for Victims of Overseas Terrorism.”
+Pub. L. 108–447, div. B, title I, § 126, Dec. 8, 2004, 118 Stat. 2872, provided that: “The Department of Justice shall establish an Office of Justice for Victims of Overseas Terrorism.”
 
 **Specific Authorization of Appropriations Required for Department of Justice**
 
-Pub. L. 94–503, title II, § 204, Oct. 15, 1976, 90 Stat. 2427, provided that: “No sums shall be deemed to be authorized to be appropriated for any fiscal year beginning on or after October 1, 1978, for the Department of Justice (including any bureau, agency, or other similar subdivision thereof) except as specifically authorized by Act of Congress with respect to such fiscal year. Neither the creation of a subdivision in the Department of Justice, nor the authorization of an activity of the Department, any subdivision, or officer thereof, shall be deemed in itself to be an authorization of appropriations for the Department of Justice, such subdivision, or activity, with respect to any fiscal year beginning on or after October 1, 1978.”
+Pub. L. 94–503, title II, § 204, Oct. 15, 1976, 90 Stat. 2427, provided that: “No sums shall be deemed to be authorized to be appropriated for any fiscal year beginning on or after October 1, 1978, for the Department of Justice (including any bureau, agency, or other similar subdivision thereof) except as specifically authorized by Act of Congress with respect to such fiscal year. Neither the creation of a subdivision in the Department of Justice, nor the authorization of an activity of the Department, any subdivision, or officer thereof, shall be deemed in itself to be an authorization of appropriations for the Department of Justice, such subdivision, or activity, with respect to any fiscal year beginning on or after October 1, 1978.”
 
-## § 502. Seal
+## § 502. Seal
 
 The Attorney General shall have a seal for the Department of Justice. The design of the seal is subject to the approval of the President.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 611.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 611.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 292. | R.S. § 353. |
+|  | 5 U.S.C. 292. | R.S. § 353. |
 
 The section is rewritten to conform to other statutes authorizing departmental seals. The words “The seal heretofore provided for the office of the Attorney General shall be” are omitted as obsolete.
 
@@ -123,19 +123,19 @@ The section is rewritten to conform to other statutes authorizing departmental s
 
 **Prior Provisions**
 
-A prior section 502, act June 25, 1948, ch. 646, 62 Stat. 909, related to appointment of assistant United States attorneys, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 542 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 502, act June 25, 1948, ch. 646, 62 Stat. 909, related to appointment of assistant United States attorneys, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 542 of this title by section 4(c) of Pub. L. 89–554.
 
-## § 503. Attorney General
+## § 503. Attorney General
 
 The President shall appoint, by and with the advice and consent of the Senate, an Attorney General of the United States. The Attorney General is the head of the Department of Justice.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 612.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 612.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 291 (last 10 words). | R.S. § 346 (last 10 words). |
+|  | 5 U.S.C. 291 (last 10 words). | R.S. § 346 (last 10 words). |
 
 The words “The President shall appoint, by and with the advice and consent of the Senate” have been added to conform the section with the Constitution. See article II, section 2, clause 2.
 
@@ -143,13 +143,13 @@ The words “The President shall appoint, by and with the advice and consent of 
 
 **Prior Provisions**
 
-A prior section 503, act June 25, 1948, ch. 646, 62 Stat. 909, related to appointment of attorneys to assist United States attorneys, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 543 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 503, act June 25, 1948, ch. 646, 62 Stat. 909, related to appointment of attorneys to assist United States attorneys, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 543 of this title by section 4(c) of Pub. L. 89–554.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Actions Challenging Appointment of Attorney General on Grounds of Violation of Constitutional Provisions Governing Compensation and Other Emoluments**
 
-Pub. L. 93–178, § 2, Dec. 10, 1973, 87 Stat. 697, provided that:
+Pub. L. 93–178, § 2, Dec. 10, 1973, 87 Stat. 697, provided that:
 
 > **“(a)** Any person aggrieved by an action of the Attorney General may bring a civil action in the appropriate district court to contest the constitutionality of the appointment and continuance in office of the Attorney General on the ground that such appointment and continuance in office is in violation of article I, section 6, clause 2, of the Constitution. The United States district courts shall have exclusive jurisdiction, without regard to the sum or value of the matter in controversy, to determine the validity of such appointment and continuance in office.
 
@@ -157,89 +157,89 @@ Pub. L. 93–178, § 2, Dec. 10, 1973, 87 Stat. 697, provided that:
 
 > **“(c)** Any judge designated to hear any action brought under this section shall cause such action to be in every way expedited.”
 
-## § 504. Deputy Attorney General
+## § 504. Deputy Attorney General
 
 The President may appoint, by and with the advice and consent of the Senate, a Deputy Attorney General.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 612; amended Pub. L. 107–77, title VI, § 612(c), Nov. 28, 2001, 115 Stat. 800; Pub. L. 107–273, div. B, title IV, § 4004(f), Nov. 2, 2002, 116 Stat. 1812.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 612; amended Pub. L. 107–77, title VI, § 612(c), Nov. 28, 2001, 115 Stat. 800; Pub. L. 107–273, div. B, title IV, § 4004(f), Nov. 2, 2002, 116 Stat. 1812.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 294. | Mar. 3, 1903, ch. 1006, § 1 (so much of 2d par. under “Department of Justice” as provides for appointment, pay, and duties of an assistant to the Attorney General), 32 Stat. 1062. |
-|  | [Uncodified]. | 1950 Reorg. Plan No. 2, § 3, eff. May 24, 1950, 64 Stat. 1261. |
+|  | 5 U.S.C. 294. | Mar. 3, 1903, ch. 1006, § 1 (so much of 2d par. under “Department of Justice” as provides for appointment, pay, and duties of an assistant to the Attorney General), 32 Stat. 1062. |
+|  | [Uncodified]. | 1950 Reorg. Plan No. 2, § 3, eff. May 24, 1950, 64 Stat. 1261. |
 
-The words “may appoint” are substituted for “is authorized to appoint”. So much of the Act of Mar. 3, 1903, as relates to pay is omitted as superseded by § 303(c) of the Act of Aug. 14, 1964, Pub. L. 88–426, 78 Stat. 416, which is codified in section 5314 of title 5, United States Code.
+The words “may appoint” are substituted for “is authorized to appoint”. So much of the Act of Mar. 3, 1903, as relates to pay is omitted as superseded by § 303(c) of the Act of Aug. 14, 1964, Pub. L. 88–426, 78 Stat. 416, which is codified in section 5314 of title 5, United States Code.
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 504, acts June 25, 1948, ch. 646, 62 Stat. 909; Mar. 18, 1959, Pub. L. 86–3, § 11(b), 73 Stat. 9, related to tenure and oath of office of United States attorneys, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in sections 541 and 544 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 504, acts June 25, 1948, ch. 646, 62 Stat. 909; Mar. 18, 1959, Pub. L. 86–3, § 11(b), 73 Stat. 9, related to tenure and oath of office of United States attorneys, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in sections 541 and 544 of this title by section 4(c) of Pub. L. 89–554.
 
 **Amendments**
 
-2002—Pub. L. 107–273 repealed Pub. L. 107–77, § 612(c). See 2001 Amendment note below.
+2002—Pub. L. 107–273 repealed Pub. L. 107–77, § 612(c). See 2001 Amendment note below.
 
-2001—Pub. L. 107–77, § 612(c), which directed amendment of section catchline by substituting “Attorneys” for “Attorney” and amendment of text by inserting “and a Deputy Attorney General for Combating Domestic Terrorism” after “General”, was repealed by Pub. L. 107–273.
+2001—Pub. L. 107–77, § 612(c), which directed amendment of section catchline by substituting “Attorneys” for “Attorney” and amendment of text by inserting “and a Deputy Attorney General for Combating Domestic Terrorism” after “General”, was repealed by Pub. L. 107–273.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Position Relating to Combating Domestic Terrorism**
 
-Pub. L. 107–77, title VI, § 612, Nov. 28, 2001, 115 Stat. 800, which had authorized appointment of a Deputy Attorney General for Combating Domestic Terrorism, if by June 30, 2002, the President had not submitted a proposal to restructure the Department of Justice to include a coordinator of Department of Justice activities relating to combating domestic terrorism, or if Congress had failed to enact legislation establishing such a new position, was repealed by Pub. L. 107–273, div. B, title IV, § 4004(f), Nov. 2, 2002, 116 Stat. 1812.
+Pub. L. 107–77, title VI, § 612, Nov. 28, 2001, 115 Stat. 800, which had authorized appointment of a Deputy Attorney General for Combating Domestic Terrorism, if by June 30, 2002, the President had not submitted a proposal to restructure the Department of Justice to include a coordinator of Department of Justice activities relating to combating domestic terrorism, or if Congress had failed to enact legislation establishing such a new position, was repealed by Pub. L. 107–273, div. B, title IV, § 4004(f), Nov. 2, 2002, 116 Stat. 1812.
 
-## § 504a. Associate Attorney General
+## § 504a. Associate Attorney General
 
 The President may appoint, by and with the advice and consent of the Senate, an Associate Attorney General.
 
-(Added Pub. L. 95–139, § 1(a), Oct. 19, 1977, 91 Stat. 1171.)
+(Added Pub. L. 95–139, § 1(a), Oct. 19, 1977, 91 Stat. 1171.)
 
-## § 505. Solicitor General
+## § 505. Solicitor General
 
 The President shall appoint in the Department of Justice, by and with the advice and consent of the Senate, a Solicitor General, learned in the law, to assist the Attorney General in the performance of his duties.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 612.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 612.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 293. | R.S. § 347 (less last sentence). |
+|  | 5 U.S.C. 293. | R.S. § 347 (less last sentence). |
 
-So much of R.S. § 347 as relates to the pay of the Solicitor General is omitted as superseded by § 303(c) of the Act of Aug. 14, 1964, Pub. L. 88–426, 78 Stat. 416, which is codified in section 5314 of title 5, United States Code.
+So much of R.S. § 347 as relates to the pay of the Solicitor General is omitted as superseded by § 303(c) of the Act of Aug. 14, 1964, Pub. L. 88–426, 78 Stat. 416, which is codified in section 5314 of title 5, United States Code.
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 505, act June 25, 1948, ch. 646, 62 Stat. 909, related to residence of United States attorneys, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 545 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 505, act June 25, 1948, ch. 646, 62 Stat. 909, related to residence of United States attorneys, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 545 of this title by section 4(c) of Pub. L. 89–554.
 
-## § 506. Assistant Attorneys General
+## § 506. Assistant Attorneys General
 
 The President shall appoint, by and with the advice and consent of the Senate, 11 Assistant Attorneys General, who shall assist the Attorney General in the performance of his duties.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 612; amended Pub. L. 95–598, title II, § 218, Nov. 6, 1978, 92 Stat. 2662; Pub. L. 109–177, title V, § 506(a)(2), Mar. 9, 2006, 120 Stat. 247.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 612; amended Pub. L. 95–598, title II, § 218, Nov. 6, 1978, 92 Stat. 2662; Pub. L. 109–177, title V, § 506(a)(2), Mar. 9, 2006, 120 Stat. 247.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 295. | R.S. § 348. |
-|  |  | July 11, 1890, ch. 667, § 1 (words between 3d and 4th semicolons under “Department of Justice”), 26 Stat. 265. |
-|  |  | Mar. 3, 1903, ch. 1006, § 1 (so much of 2d par. under “Department of Justice” as provides for appointment, pay, and duties of an additional Assistant Attorney General), 32 Stat. 1062. |
-|  |  | July 16, 1914, ch. 141, § 1 (words between 3d and 4th semicolons under “Department of Justice”), 38 Stat. 497. |
-|  |  | Mar. 4, 1915, ch. 141, § 1 (words between 3d and 4th semicolons under “Department of Justice”), 38 Stat. 1038. |
-|  |  | June 16, 1933, ch. 101, § 16(b), 48 Stat. 308. |
+|  | 5 U.S.C. 295. | R.S. § 348. |
+|  |  | July 11, 1890, ch. 667, § 1 (words between 3d and 4th semicolons under “Department of Justice”), 26 Stat. 265. |
+|  |  | Mar. 3, 1903, ch. 1006, § 1 (so much of 2d par. under “Department of Justice” as provides for appointment, pay, and duties of an additional Assistant Attorney General), 32 Stat. 1062. |
+|  |  | July 16, 1914, ch. 141, § 1 (words between 3d and 4th semicolons under “Department of Justice”), 38 Stat. 497. |
+|  |  | Mar. 4, 1915, ch. 141, § 1 (words between 3d and 4th semicolons under “Department of Justice”), 38 Stat. 1038. |
+|  |  | June 16, 1933, ch. 101, § 16(b), 48 Stat. 308. |
 |  |  | Mar. 2, 1943, ch. 7, 57 Stat. 4. |
-|  | [Uncodified]. | 1950 Reorg. Plan No. 2, § 4, eff. May 24, 1950, 64 Stat. 1261. |
-|  | [Uncodified]. | 1953 Reorg. Plan No. 4, § 2, eff. June 20, 1953. 67 Stat. 636. |
-|  | 5 U.S.C. 295–1. | Sept. 9, 1957, Pub. L. 85–315, § 111, 71 Stat. 637. |
+|  | [Uncodified]. | 1950 Reorg. Plan No. 2, § 4, eff. May 24, 1950, 64 Stat. 1261. |
+|  | [Uncodified]. | 1953 Reorg. Plan No. 4, § 2, eff. June 20, 1953. 67 Stat. 636. |
+|  | 5 U.S.C. 295–1. | Sept. 9, 1957, Pub. L. 85–315, § 111, 71 Stat. 637. |
 
 The words “There shall be in the Department of Justice” are omitted as unnecessary as the title of the positions establishes their location in the Department of Justice.
 
-The position of sixth Assistant Attorney General, referred to in the Acts of July 16, 1914, and Mar. 4, 1915, was made a permanent position by the Act of Mar. 4, 1915, ch. 141, § 6, 38 Stat. 1049.
+The position of sixth Assistant Attorney General, referred to in the Acts of July 16, 1914, and Mar. 4, 1915, was made a permanent position by the Act of Mar. 4, 1915, ch. 141, § 6, 38 Stat. 1049.
 
 The number of Assistant Attorneys General referred to in the Act of Mar. 2, 1943, is changed from “six” to “nine” to reflect the three additional Assistant Attorneys General authorized by 1950 Reorg. Plan No. 2, 1953 Reorg. Plan No. 4, and the Act of Sept. 9, 1957.
 
@@ -247,15 +247,15 @@ The words “learned in the law” are omitted as unnecessary. Such a requiremen
 
 The reference in former section 295 of title 5 to the Assistant Attorneys General assisting the Solicitor General are omitted on authority of the transfer of functions made by 1950 Reorg. Plan No. 2 and 1953 Reorg. Plan No. 4.
 
-Provisions of 1950 Reorg. Plan No. 2, § 4, and 1953 Reorg. Plan No. 4, § 2, abolishing positions and transferring incumbents are omitted as executed.
+Provisions of 1950 Reorg. Plan No. 2, § 4, and 1953 Reorg. Plan No. 4, § 2, abolishing positions and transferring incumbents are omitted as executed.
 
-Provisions relating to pay of Assistant Attorneys General are omitted as superseded by § 303(d) of the Act of August 14, 1964, Pub. L. 88–426, 78 Stat. 418, which is codified in section 5315 of title 5, United States Code.
+Provisions relating to pay of Assistant Attorneys General are omitted as superseded by § 303(d) of the Act of August 14, 1964, Pub. L. 88–426, 78 Stat. 418, which is codified in section 5315 of title 5, United States Code.
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 506, act June 25, 1948, ch. 646, 62 Stat. 909, related to vacancies in the office of United States attorney, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 546 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 506, act June 25, 1948, ch. 646, 62 Stat. 909, related to vacancies in the office of United States attorney, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 546 of this title by section 4(c) of Pub. L. 89–554.
 
 **Amendments**
 
@@ -269,7 +269,7 @@ A prior section 506, act June 25, 1948, ch. 646, 62 Stat. 909, related to vacanc
 
 Amendment by Pub. L. 95–598 effective Nov. 6, 1978, see section 402(d) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-## § 507. Assistant Attorney General for Administration
+## § 507. Assistant Attorney General for Administration
 
 **(a)** The Attorney General shall appoint, with the approval of the President, an Assistant Attorney General for Administration, who shall perform such duties as the Attorney General may prescribe.
 
@@ -277,33 +277,33 @@ Amendment by Pub. L. 95–598 effective Nov. 6, 1978, see section 402(d) of Pub.
 
 **(c)** Notwithstanding the provisions of section 901 of title 31, United States Code, the Assistant Attorney General for Administration shall be the Chief Financial Officer of the Department of Justice.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 612; amended Pub. L. 106–113, div. B, § 1000(a)(1) [title I, § 111], Nov. 29, 1999, 113 Stat. 1535, 1501A–20.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 612; amended Pub. L. 106–113, div. B, § 1000(a)(1) [title I, § 111], Nov. 29, 1999, 113 Stat. 1535, 1501A–20.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | [Uncodified]. | 1950 Reorg. Plan No. 2, § 5 eff. May 24, 1950, 64 Stat. 1261. |
+|  | [Uncodified]. | 1950 Reorg. Plan No. 2, § 5 eff. May 24, 1950, 64 Stat. 1261. |
 
-The title of the position was changed to “Assistant Attorney General for Administration” by § 307 of the Act of Aug. 14, 1964, Pub. L. 88–426, 78 Stat. 432.
+The title of the position was changed to “Assistant Attorney General for Administration” by § 307 of the Act of Aug. 14, 1964, Pub. L. 88–426, 78 Stat. 432.
 
 The words “competitive service” are substituted for “classified civil service” because the term “classified civil service” formerly used to designate the merit system established by the Civil Service Act of 1883 has become ambiguous due to the creation of the “classified” pay system. The term “competitive service” is now customarily used, and appears throughout title 5, United States Code, in place of “classified civil service”.
 
 The words “There shall be in the Department of Justice” are omitted as unnecessary as the title of the position and the fact of appointment by the Attorney General establish the location of the position in the Department of Justice.
 
-The last 12 words of section 5 of the Reorganization Plan are omitted on authority of the Act of June 5, 1952, ch. 369, § 1101 (3d proviso), 66 Stat. 121. The salary of the position is now fixed by § 303(e) of the Act of Aug. 14, 1964, Pub. L. 88–426, 78 Stat. 420, which is codified in section 5316 of title 5, United States Code.
+The last 12 words of section 5 of the Reorganization Plan are omitted on authority of the Act of June 5, 1952, ch. 369, § 1101 (3d proviso), 66 Stat. 121. The salary of the position is now fixed by § 303(e) of the Act of Aug. 14, 1964, Pub. L. 88–426, 78 Stat. 420, which is codified in section 5316 of title 5, United States Code.
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 507, acts June 25, 1948, ch. 646, 62 Stat. 910; May 24, 1949, ch. 139, § 71, 63 Stat. 100, related to duties of United States attorneys, and to supervision by the Attorney General, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in sections 509 and 547 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 507, acts June 25, 1948, ch. 646, 62 Stat. 910; May 24, 1949, ch. 139, § 71, 63 Stat. 100, related to duties of United States attorneys, and to supervision by the Attorney General, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in sections 509 and 547 of this title by section 4(c) of Pub. L. 89–554.
 
 **Amendments**
 
 1999—Subsec. (c). Pub. L. 106–113 added subsec. (c).
 
-## § 507A. Assistant Attorney General for National Security
+## § 507A. Assistant Attorney General for National Security
 
 **(a)** Of the Assistant Attorneys General appointed under section 506, one shall serve, upon the designation of the President, as the Assistant Attorney General for National Security.
 
@@ -315,36 +315,36 @@ A prior section 507, acts June 25, 1948, ch. 646, 62 Stat. 910; May 24, 1949, ch
 
 **(3)** perform such other duties as the Attorney General may prescribe.
 
-(Added Pub. L. 109–177, title V, § 506(a)(1), Mar. 9, 2006, 120 Stat. 247.)
+(Added Pub. L. 109–177, title V, § 506(a)(1), Mar. 9, 2006, 120 Stat. 247.)
 
-## § 508. Vacancies
+## § 508. Vacancies
 
 **(a)** In case of a vacancy in the office of Attorney General, or of his absence or disability, the Deputy Attorney General may exercise all the duties of that office, and for the purpose of section 3345 of title 5 the Deputy Attorney General is the first assistant to the Attorney General.
 
 **(b)** When by reason of absence, disability, or vacancy in office, neither the Attorney General nor the Deputy Attorney General is available to exercise the duties of the office of Attorney General, the Associate Attorney General shall act as Attorney General. The Attorney General may designate the Solicitor General and the Assistant Attorneys General, in further order of succession, to act as Attorney General.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 612; amended Pub. L. 95–139, § 2, Oct. 19, 1977, 91 Stat. 1171.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 612; amended Pub. L. 95–139, § 2, Oct. 19, 1977, 91 Stat. 1171.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | [Uncodified]. | R.S. § 347 (last sentence). |
-|  |  | 1953 Reorg. Plan No. 4, § 1, eff. June 20, 1953, 67 Stat. 636. |
+|  | [Uncodified]. | R.S. § 347 (last sentence). |
+|  |  | 1953 Reorg. Plan No. 4, § 1, eff. June 20, 1953, 67 Stat. 636. |
 
-The last sentence of R.S. § 347 is cited as authority inasmuch as the function contained therein was the function transferred to the Deputy Attorney General by 1953 Reorg. Plan No. 4. The word “may” is substituted for “have the power”. The words “During any period of time” are omitted as unnecessary.
+The last sentence of R.S. § 347 is cited as authority inasmuch as the function contained therein was the function transferred to the Deputy Attorney General by 1953 Reorg. Plan No. 4. The word “may” is substituted for “have the power”. The words “During any period of time” are omitted as unnecessary.
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 508, acts June 25, 1948, ch. 646, 62 Stat. 910; Mar. 2, 1955, ch. 9, § 2(a), 69 Stat. 10; Oct. 11, 1962, Pub. L. 87–793, § 1003(a), 76 Stat. 865; Aug. 14, 1964, Pub. L. 88–426, title III, § 306(a)(1), 78 Stat. 428; Oct. 6, 1964, Pub. L. 88–631, § 3(b), 78 Stat. 1008, related to salaries of United States attorneys, assistant United States attorneys, and special attorneys, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 548 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 508, acts June 25, 1948, ch. 646, 62 Stat. 910; Mar. 2, 1955, ch. 9, § 2(a), 69 Stat. 10; Oct. 11, 1962, Pub. L. 87–793, § 1003(a), 76 Stat. 865; Aug. 14, 1964, Pub. L. 88–426, title III, § 306(a)(1), 78 Stat. 428; Oct. 6, 1964, Pub. L. 88–631, § 3(b), 78 Stat. 1008, related to salaries of United States attorneys, assistant United States attorneys, and special attorneys, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 548 of this title by section 4(c) of Pub. L. 89–554.
 
 **Amendments**
 
 1977—Subsec. (b). Pub. L. 95–139 substituted “the Associate Attorney General shall act as Attorney General. The Attorney General may designate the Solicitor General and the Assistant Attorneys General, in further order of succession, to act as Attorney General” for “the Assistant Attorneys General and the Solicitor General, in such order of succession as the Attorney General may from time to time prescribe, shall act as Attorney General”.
 
-## § 509. Functions of the Attorney General
+## § 509. Functions of the Attorney General
 
 All functions of other officers of the Department of Justice and all functions of agencies and employees of the Department of Justice are vested in the Attorney General except the functions—
 
@@ -354,13 +354,13 @@ All functions of other officers of the Department of Justice and all functions o
 
 **(3)** of the Board of Directors and officers of the Federal Prison Industries, Inc.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 612; amended Pub. L. 95–251, § 2(a)(6), Mar. 27, 1978, 92 Stat. 183; Pub. L. 98–473, title II, § 228(a), Oct. 12, 1984, 98 Stat. 2030; Pub. L. 107–273, div. A, title II, § 204(d), div. B, title IV, § 4003(b)(1), Nov. 2, 2002, 116 Stat. 1776, 1811.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 612; amended Pub. L. 95–251, § 2(a)(6), Mar. 27, 1978, 92 Stat. 183; Pub. L. 98–473, title II, § 228(a), Oct. 12, 1984, 98 Stat. 2030; Pub. L. 107–273, div. A, title II, § 204(d), div. B, title IV, § 4003(b)(1), Nov. 2, 2002, 116 Stat. 1776, 1811.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | [Uncodified]. | 1950 Reorg. Plan No. 2, § 1, eff. May 24, 1950, 64 Stat. 1261. |
+|  | [Uncodified]. | 1950 Reorg. Plan No. 2, § 1, eff. May 24, 1950, 64 Stat. 1261. |
 
 The section is restated to allow incorporation into this chapter.
 
@@ -370,13 +370,13 @@ The section is restated to allow incorporation into this chapter.
 
 **Prior Provisions**
 
-A prior section 509, act June 25, 1948, ch. 646, 62 Stat. 910, related to expenses of United States attorneys, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 549 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 509, act June 25, 1948, ch. 646, 62 Stat. 910, related to expenses of United States attorneys, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 549 of this title by section 4(c) of Pub. L. 89–554.
 
 **Amendments**
 
-2002—Par. (3). Pub. L. 107–273, §§ 204(d), 4003(b)(1), amended par. (3) identically, striking out second period at end.
+2002—Par. (3). Pub. L. 107–273, §§ 204(d), 4003(b)(1), amended par. (3) identically, striking out second period at end.
 
-1984—Pub. L. 98–473 inserted “and” at end of par. (2), substituted a period for “; and” at end of par. (3), and struck out par. (4) which related to functions of Board of Parole.
+1984—Pub. L. 98–473 inserted “and” at end of par. (2), substituted a period for “; and” at end of par. (3), and struck out par. (4) which related to functions of Board of Parole.
 
 1978—Par. (1). Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners”.
 
@@ -384,11 +384,11 @@ A prior section 509, act June 25, 1948, ch. 646, 62 Stat. 910, related to expens
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–473, title II, § 235(a)(1)(B)(ii)(IV), Oct. 12, 1984, 98 Stat. 2032, provided that the amendment made by Pub. L. 98–473 is effective Oct. 12, 1984.
+Pub. L. 98–473, title II, § 235(a)(1)(B)(ii)(IV), Oct. 12, 1984, 98 Stat. 2032, provided that the amendment made by Pub. L. 98–473 is effective Oct. 12, 1984.
 
 **Short Title of 2016 Amendment**
 
-Pub. L. 114–325, § 1, Dec. 16, 2016, 130 Stat. 1965, provided that: “This Act [amending provisions set out as a note under this section] may be cited as the ‘Emmett Till Unsolved Civil Rights Crimes Reauthorization Act of 2016’.”
+Pub. L. 114–325, § 1, Dec. 16, 2016, 130 Stat. 1965, provided that: “This Act [amending provisions set out as a note under this section] may be cited as the ‘Emmett Till Unsolved Civil Rights Crimes Reauthorization Act of 2016’.”
 
 **Transfer of Functions**
 
@@ -396,11 +396,11 @@ For transfer of functions, personnel, assets, and liabilities of the Domestic Em
 
 **Prohibition on Firearms or Ammunition Transfers to Agents of Drug Cartels**
 
-Pub. L. 117–159, div. A, title II, § 12004(g), June 25, 2022, 136 Stat. 1330, provided that: “The Department of Justice, and any of its law enforcement coordinate agencies, shall not conduct or otherwise facilitate the transfer of an operable firearm or ammunition to an individual if any law enforcement officer employed by the Department of Justice involved with the transfer knows or has reasonable cause to believe that the recipient of the firearm or ammunition is an agent of a drug cartel, unless law enforcement personnel of the United States continuously monitor or control the firearm or ammunition at all times.”
+Pub. L. 117–159, div. A, title II, § 12004(g), June 25, 2022, 136 Stat. 1330, provided that: “The Department of Justice, and any of its law enforcement coordinate agencies, shall not conduct or otherwise facilitate the transfer of an operable firearm or ammunition to an individual if any law enforcement officer employed by the Department of Justice involved with the transfer knows or has reasonable cause to believe that the recipient of the firearm or ammunition is an agent of a drug cartel, unless law enforcement personnel of the United States continuously monitor or control the firearm or ammunition at all times.”
 
 **Unsolved Civil Rights Crimes**
 
-Pub. L. 110–344, Oct. 7, 2008, 122 Stat. 3934, as amended by Pub. L. 114–325, § 2, Dec. 16, 2016, 130 Stat. 1965, provided that:
+Pub. L. 110–344, Oct. 7, 2008, 122 Stat. 3934, as amended by Pub. L. 114–325, § 2, Dec. 16, 2016, 130 Stat. 1965, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -514,7 +514,7 @@ Pub. L. 110–344, Oct. 7, 2008, 122 Stat. 3934, as amended by Pub. L. 114–325
 
 > **“[SEC. 8.**
 
-> Repealed. Pub. L. 114–325, § 2(7), Dec. 16, 2016, 130 Stat. 1967.]
+> Repealed. Pub. L. 114–325, § 2(7), Dec. 16, 2016, 130 Stat. 1967.]
 
 > **“SEC. 9. AUTHORITY OF INSPECTORS GENERAL.**
 
@@ -522,15 +522,15 @@ Pub. L. 110–344, Oct. 7, 2008, 122 Stat. 3934, as amended by Pub. L. 114–325
 
 **Organized Retail Theft**
 
-Pub. L. 109–162, title XI, § 1105, Jan. 5, 2006, 119 Stat. 3092, as amended by Pub. L. 109–271, § 8(a), Aug. 12, 2006, 120 Stat. 766, which authorized a task force established by the Attorney General and the FBI to establish an organized retail theft database in the private sector, was editorially reclassified as section 41505 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 109–162, title XI, § 1105, Jan. 5, 2006, 119 Stat. 3092, as amended by Pub. L. 109–271, § 8(a), Aug. 12, 2006, 120 Stat. 766, which authorized a task force established by the Attorney General and the FBI to establish an organized retail theft database in the private sector, was editorially reclassified as section 41505 of Title 34, Crime Control and Law Enforcement.
 
 **United States-Mexico Border Violence Task Force**
 
-Pub. L. 109–162, title XI, § 1106, Jan. 5, 2006, 119 Stat. 3093, providing for the establishment of the United States-Mexico Border Violence Task Force, was editorially reclassified as section 41506 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 109–162, title XI, § 1106, Jan. 5, 2006, 119 Stat. 3093, providing for the establishment of the United States-Mexico Border Violence Task Force, was editorially reclassified as section 41506 of Title 34, Crime Control and Law Enforcement.
 
 **Privacy Officer**
 
-Pub. L. 109–162, title XI, § 1174, Jan. 5, 2006, 119 Stat. 3124, provided that:
+Pub. L. 109–162, title XI, § 1174, Jan. 5, 2006, 119 Stat. 3124, provided that:
 
 > **“(a) In General.—** The Attorney General shall designate a senior official in the Department of Justice to assume primary responsibility for privacy policy.
 
@@ -554,7 +554,7 @@ Pub. L. 109–162, title XI, § 1174, Jan. 5, 2006, 119 Stat. 3124, provided t
 
 **Report to Congress on Status of United States Persons or Residents Detained on Suspicion of Terrorism**
 
-Pub. L. 109–162, title XI, § 1176, Jan. 5, 2006, 119 Stat. 3125, provided that:
+Pub. L. 109–162, title XI, § 1176, Jan. 5, 2006, 119 Stat. 3125, provided that:
 
 > “Not less often than once every 12 months, the Attorney General shall submit to Congress a report on the status of United States persons or residents detained, as of the date of the report, on suspicion of terrorism. The report shall—
 
@@ -564,7 +564,7 @@ Pub. L. 109–162, title XI, § 1176, Jan. 5, 2006, 119 Stat. 3125, provided t
 
 **Federal Bureau of Investigation Use of Translators**
 
-Pub. L. 108–458, title II, § 2006, Dec. 17, 2004, 118 Stat. 3704, as amended by Pub. L. 111–259, title VIII, § 806(b)(2), Oct. 7, 2010, 124 Stat. 2749, provided that:
+Pub. L. 108–458, title II, § 2006, Dec. 17, 2004, 118 Stat. 3704, as amended by Pub. L. 111–259, title VIII, § 806(b)(2), Oct. 7, 2010, 124 Stat. 2749, provided that:
 
 > “Not later than 30 days after the date of the enactment of this Act [Dec. 17, 2004], and annually thereafter, the Attorney General of the United States shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that contains, with respect to each preceding 12-month period—
 
@@ -584,15 +584,15 @@ Pub. L. 108–458, title II, § 2006, Dec. 17, 2004, 118 Stat. 3704, as amende
 
 **Authorization for Additional Assistant United States Attorneys for Project Safe Neighborhoods**
 
-Pub. L. 107–273, div. A, title I, § 104, Nov. 2, 2002, 116 Stat. 1766, which required the Attorney General to establish the Project Safe Neighborhoods program, was editorially reclassified as section 41504 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 107–273, div. A, title I, § 104, Nov. 2, 2002, 116 Stat. 1766, which required the Attorney General to establish the Project Safe Neighborhoods program, was editorially reclassified as section 41504 of Title 34, Crime Control and Law Enforcement.
 
 **Development and Support of Cybersecurity Forensic Capabilities**
 
-Pub. L. 107–56, title VIII, § 816, Oct. 26, 2001, 115 Stat. 385, which related to development and support of cybersecurity forensic capabilities, was editorially reclassified as section 30102 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 107–56, title VIII, § 816, Oct. 26, 2001, 115 Stat. 385, which related to development and support of cybersecurity forensic capabilities, was editorially reclassified as section 30102 of Title 34, Crime Control and Law Enforcement.
 
 **Training of Government Officials Regarding Identification and Use of Foreign Intelligence**
 
-Pub. L. 107–56, title IX, § 908, Oct. 26, 2001, 115 Stat. 391, provided that:
+Pub. L. 107–56, title IX, § 908, Oct. 26, 2001, 115 Stat. 391, provided that:
 
 > **“(a) Program Required.—** The Attorney General shall, in consultation with the Director of Central Intelligence, carry out a program to provide appropriate training to officials described in subsection (b) in order to assist such officials in—
 
@@ -612,7 +612,7 @@ Pub. L. 107–56, title IX, § 908, Oct. 26, 2001, 115 Stat. 391, provided tha
 
 **First Responders Assistance Act**
 
-Pub. L. 107–56, title X, § 1005, Oct. 26, 2001, 115 Stat. 393, provided that:
+Pub. L. 107–56, title X, § 1005, Oct. 26, 2001, 115 Stat. 393, provided that:
 
 > **“(a) Grant Authorization.—** The Attorney General shall make grants described in subsections (b) and (c) to States and units of local government to improve the ability of State and local law enforcement, fire department and first responders to respond to and prevent acts of terrorism.
 
@@ -658,15 +658,15 @@ Pub. L. 107–56, title X, § 1005, Oct. 26, 2001, 115 Stat. 393, provided tha
 
 **Reimbursement of Employees Traveling on Behalf of United States in Temporary Duty Status**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 115], Sept. 30, 1996, 110 Stat. 3009, 3009–22, provided that: “Effective with the enactment of this Act [Sept. 30, 1996] and in any fiscal year hereafter, under policies established by the Attorney General, the Department of Justice may reimburse employees who are paid by an appropriation account within the Department of Justice and are traveling on behalf of the United States in temporary duty status to investigate, prosecute, or litigate (including the provision of support therefor) a criminal or civil matter, or for other similar special circumstances, for Federal, State, and local taxes heretofore and hereafter resulting from any reimbursement of travel expenses from an appropriation account within the Department of Justice: *Provided*, That such reimbursement may include an amount equal to all income taxes for which the employee would be liable due to such reimbursement.”
+Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 115], Sept. 30, 1996, 110 Stat. 3009, 3009–22, provided that: “Effective with the enactment of this Act [Sept. 30, 1996] and in any fiscal year hereafter, under policies established by the Attorney General, the Department of Justice may reimburse employees who are paid by an appropriation account within the Department of Justice and are traveling on behalf of the United States in temporary duty status to investigate, prosecute, or litigate (including the provision of support therefor) a criminal or civil matter, or for other similar special circumstances, for Federal, State, and local taxes heretofore and hereafter resulting from any reimbursement of travel expenses from an appropriation account within the Department of Justice: *Provided*, That such reimbursement may include an amount equal to all income taxes for which the employee would be liable due to such reimbursement.”
 
 **Overseas Law Enforcement Training Activities**
 
-Pub. L. 104–132, title VIII, § 801, Apr. 24, 1996, 110 Stat. 1304, provided that: “The Attorney General and the Secretary of the Treasury are authorized to support law enforcement training activities in foreign countries, in consultation with the Secretary of State, for the purpose of improving the effectiveness of the United States in investigating and prosecuting transnational offenses.”
+Pub. L. 104–132, title VIII, § 801, Apr. 24, 1996, 110 Stat. 1304, provided that: “The Attorney General and the Secretary of the Treasury are authorized to support law enforcement training activities in foreign countries, in consultation with the Secretary of State, for the purpose of improving the effectiveness of the United States in investigating and prosecuting transnational offenses.”
 
 **Reimbursement by Other Government Agencies of Department of Justice Salaries and Expenses in High-Cost Litigation**
 
-Pub. L. 103–317, title I, § 109, Aug. 26, 1994, 108 Stat. 1735, provided that: “Notwithstanding 31 U.S.C. 3302 or any other law, in litigation involving unusually high costs, the Department of Justice may receive and retain reimbursement for salaries and expenses, for fiscal year 1995 and thereafter, from any other governmental component being represented in the litigation.”
+Pub. L. 103–317, title I, § 109, Aug. 26, 1994, 108 Stat. 1735, provided that: “Notwithstanding 31 U.S.C. 3302 or any other law, in litigation involving unusually high costs, the Department of Justice may receive and retain reimbursement for salaries and expenses, for fiscal year 1995 and thereafter, from any other governmental component being represented in the litigation.”
 
 **Neighborhood Revitalization**
 
@@ -674,15 +674,15 @@ Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1830, provided in part: “T
 
 **Procurement of Expert Witnesses Without Regard to Competitive Procurement Procedures**
 
-Pub. L. 102–140, title VI, § 611(a), Oct. 28, 1991, 105 Stat. 832, provided that, notwithstanding any other provision of law: “For fiscal year 1992 and thereafter, the Department of Justice may procure the services of expert witnesses for use in preparing or prosecuting a civil or criminal action, without regard to competitive procurement procedures, including the Commerce Business Daily publication requirements: *Provided*, That no witness shall be paid more than one attendance fee for any calendar day.”
+Pub. L. 102–140, title VI, § 611(a), Oct. 28, 1991, 105 Stat. 832, provided that, notwithstanding any other provision of law: “For fiscal year 1992 and thereafter, the Department of Justice may procure the services of expert witnesses for use in preparing or prosecuting a civil or criminal action, without regard to competitive procurement procedures, including the Commerce Business Daily publication requirements: *Provided*, That no witness shall be paid more than one attendance fee for any calendar day.”
 
 **Structural Reforms To Improve Federal Response to Crimes Affecting Financial Institutions**
 
-Pub. L. 101–647, title XXV, §§ 2536–2538, Nov. 29, 1990, 104 Stat. 4883, 4884, provided that:
+Pub. L. 101–647, title XXV, §§ 2536–2538, Nov. 29, 1990, 104 Stat. 4883, 4884, provided that:
 
 > **“SEC. 2536. ESTABLISHMENT OF FINANCIAL INSTITUTIONS CRIME UNIT AND OFFICE OF SPECIAL COUNSEL FOR FINANCIAL INSTITUTIONS CRIME UNIT.**
 
-> **“(a) Establishment.—** There is established within the Office of the Deputy Attorney General in the Department of Justice a Financial Institutions Fraud Unit to be headed by a special counsel (hereafter in this title [probably means this subtitle which is subtitle D (§§ 2536–2540) of title XXV of Pub. L. 101–647, which amended section 1441a of Title 12, Banks and Banking, and enacted this note] referred to as the ‘Special Counsel’).
+> **“(a) Establishment.—** There is established within the Office of the Deputy Attorney General in the Department of Justice a Financial Institutions Fraud Unit to be headed by a special counsel (hereafter in this title [probably means this subtitle which is subtitle D (§§ 2536–2540) of title XXV of Pub. L. 101–647, which amended section 1441a of Title 12, Banks and Banking, and enacted this note] referred to as the ‘Special Counsel’).
 
 > **“(b) Responsibility.—** The Financial Institutions Fraud Unit and the Special Counsel shall be responsible to and shall report directly to the Deputy Attorney General.
 
@@ -708,15 +708,15 @@ Pub. L. 101–647, title XXV, §§ 2536–2538, Nov. 29, 1990, 104 Stat. 4883,
 
 [Section 2539 of Pub. L. 101–647, formerly set out in the note above, relating to financial institutions fraud task forces, was editorially reclassified as section 41501 of Title 34, Crime Control and Law Enforcement.]
 
-[Pub. L. 111–203, title III, §§ 351, 359(1), July 21, 2010, 124 Stat. 1546, 1548, which provided that, effective on the transfer date (see section 5411 of Title 12, Banks and Banking), section 2539(c)(2) of Pub. L. 101–647, set out above, is amended by striking out subpars. (C) and (D) and redesignating subpars. (E) to (H) as “(C) through (G), respectively”, was executed by redesignating subpars. (E) to (H) as (C) to (F), respectively, and striking out former subpars. (C) and (D), to reflect the probable intent of Congress.]
+[Pub. L. 111–203, title III, §§ 351, 359(1), July 21, 2010, 124 Stat. 1546, 1548, which provided that, effective on the transfer date (see section 5411 of Title 12, Banks and Banking), section 2539(c)(2) of Pub. L. 101–647, set out above, is amended by striking out subpars. (C) and (D) and redesignating subpars. (E) to (H) as “(C) through (G), respectively”, was executed by redesignating subpars. (E) to (H) as (C) to (F), respectively, and striking out former subpars. (C) and (D), to reflect the probable intent of Congress.]
 
 **Authorization of Appropriations for Humanitarian Expenses Incurred by Federal Bureau of Investigation and Drug Enforcement Administration**
 
-Pub. L. 101–647, title XXXII, § 3201, Nov. 29, 1990, 104 Stat. 4916, as amended by Pub. L. 105–277, div. A, § 101(b) [title I, § 109(a)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–67; Pub. L. 117–328, div. B, title II, § 219, Dec. 29, 2022, 136 Stat. 4544, provided that: “Appropriations in this or any other Act hereafter for the Federal Bureau of Investigation, the Drug Enforcement Administration, the Federal Prison System, the Bureau of Alcohol, Tobacco, Firearms and Explosives, or the United States Marshals Service are available, in an amount of not to exceed $50,000 each per fiscal year, to pay humanitarian expenses incurred by or for any employee thereof (or any member of the employee’s immediate family) that results from or is incident to serious illness, serious injury, or death occurring to the employee while on official duty or business.”
+Pub. L. 101–647, title XXXII, § 3201, Nov. 29, 1990, 104 Stat. 4916, as amended by Pub. L. 105–277, div. A, § 101(b) [title I, § 109(a)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–67; Pub. L. 117–328, div. B, title II, § 219, Dec. 29, 2022, 136 Stat. 4544, provided that: “Appropriations in this or any other Act hereafter for the Federal Bureau of Investigation, the Drug Enforcement Administration, the Federal Prison System, the Bureau of Alcohol, Tobacco, Firearms and Explosives, or the United States Marshals Service are available, in an amount of not to exceed $50,000 each per fiscal year, to pay humanitarian expenses incurred by or for any employee thereof (or any member of the employee’s immediate family) that results from or is incident to serious illness, serious injury, or death occurring to the employee while on official duty or business.”
 
 **Investigation of Financial Institutions; Assistance of Government Personnel**
 
-Pub. L. 101–509, title V, § 528, Nov. 5, 1990, 104 Stat. 1427, as amended by Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title XXXII, § 320923, Sept. 13, 1994, 108 Stat. 2131, provided that:
+Pub. L. 101–509, title V, § 528, Nov. 5, 1990, 104 Stat. 1427, as amended by Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title XXXII, § 320923, Sept. 13, 1994, 108 Stat. 2131, provided that:
 
 > **“(a)** Notwithstanding any other law and in any fiscal year—
 
@@ -746,7 +746,7 @@ Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 997, provided: “That for
 
 **Uniforms and Allowances**
 
-Pub. L. 101–162, title II, § 203, Nov. 21, 1989, 103 Stat. 1002, provided that: “For fiscal year 1990 and hereafter, appropriations for ‘Salaries and expenses, General Administration’, ‘Salaries and expenses, United States Marshals Service’, ‘Salaries and expenses, Federal Bureau of Investigation’, ‘Salaries and expenses, Drug Enforcement Administration’, ‘Salaries and expenses, Immigration and Naturalization Service’, and ‘Salaries and expenses, Federal Prison System’, shall be available for uniforms and allowances therefor as authorized by law (5 U.S.C. 5901–5902).”
+Pub. L. 101–162, title II, § 203, Nov. 21, 1989, 103 Stat. 1002, provided that: “For fiscal year 1990 and hereafter, appropriations for ‘Salaries and expenses, General Administration’, ‘Salaries and expenses, United States Marshals Service’, ‘Salaries and expenses, Federal Bureau of Investigation’, ‘Salaries and expenses, Drug Enforcement Administration’, ‘Salaries and expenses, Immigration and Naturalization Service’, and ‘Salaries and expenses, Federal Prison System’, shall be available for uniforms and allowances therefor as authorized by law (5 U.S.C. 5901–5902).”
 
 [Pub. L. 118–42, div. C, title II, Mar. 9, 2024, 138 Stat. 133, provided in part: “That any reference to the Department of Justice’s ‘General Administration’ appropriations heading (including references that include its subheadings) which appears in any rule, regulation, provision, law, or other official document, shall hereafter be deemed a reference to the Department of Justice’s ‘Justice Operations, Management, and Accountability’ appropriations heading.” ]
 
@@ -828,7 +828,7 @@ Pub. L. 100–690, title I, subtitle B, Nov. 18, 1988, 102 Stat. 4189, provided 
 
 **Impact Analysis of Additional Resources to Certain Components of Federal Criminal Justice System; Study by Comptroller General and Report to Congress**
 
-Pub. L. 100–690, title IX, § 9201, Nov. 18, 1988, 102 Stat. 4535, provided that:
+Pub. L. 100–690, title IX, § 9201, Nov. 18, 1988, 102 Stat. 4535, provided that:
 
 > **“(a) Study.—** The Comptroller General of the United States shall conduct a study—
 
@@ -840,11 +840,11 @@ Pub. L. 100–690, title IX, § 9201, Nov. 18, 1988, 102 Stat. 4535, provided 
 
 **Federal Environmental or Natural Resource Laws; Investigations Respecting, Etc.**
 
-Pub. L. 96–132, § 12, Nov. 30, 1979, 93 Stat. 1048, provided that: “The Attorney General may, with the concurrence of any agency or Department with primary enforcement responsibility for an environmental or natural resource law, investigate any violation, of an environmental or natural resource law of the United States, and bring such actions as are necessary to enforce such laws. This section does not affect the criminal law enforcement authority of the Attorney General.”
+Pub. L. 96–132, § 12, Nov. 30, 1979, 93 Stat. 1048, provided that: “The Attorney General may, with the concurrence of any agency or Department with primary enforcement responsibility for an environmental or natural resource law, investigate any violation, of an environmental or natural resource law of the United States, and bring such actions as are necessary to enforce such laws. This section does not affect the criminal law enforcement authority of the Attorney General.”
 
 **Positions in Drug Enforcement Administration; Grades Excepted From Competitive Service; Vacancies; Removal, Suspension, or Reduction in Rank or Pay; Rate of Pay**
 
-Pub. L. 94–503, title II, § 201, Oct. 15, 1976, 90 Stat. 2425, provided that:
+Pub. L. 94–503, title II, § 201, Oct. 15, 1976, 90 Stat. 2425, provided that:
 
 > **“(a)** Effective beginning one year after date of the enactment of this Act [Oct. 15, 1976], the following positions in the Drug Enforcement Administration (and individuals holding such positions) are hereby excepted from the competitive service:
 
@@ -886,7 +886,7 @@ Pub. L. 94–503, title II, § 201, Oct. 15, 1976, 90 Stat. 2425, provided tha
 
 > **“(d)** Any individual whose pay is to be determined in accordance with this subsection shall be paid basic pay at the rate of basic pay he was receiving immediately before he was placed in a position under subsection (b)(1) or reduced in rank or pay under subsection (c)(2), as the case may be, until such time as the rate of basic pay he would receive in the absence of this subsection exceeds such rate of basic pay. The provisions of section 5337 of title 5, United States Code, shall not apply in any case in which this subsection applies.”
 
-[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.]
+[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.]
 
 **Executive Documents**
 
@@ -896,7 +896,7 @@ For assignment of certain emergency preparedness functions to the Attorney Gener
 
 **REORGANIZATION PLAN NO. 1 OF 1968**
 
-Eff. Apr. 8, 1968, 33 F.R. 5611, 82 Stat. 1367, as amended Reorg. Plan No. 2 of 1973, § 3, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091
+Eff. Apr. 8, 1968, 33 F.R. 5611, 82 Stat. 1367, as amended Reorg. Plan No. 2 of 1973, § 3, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091
 
 Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, February 7, 1968, pursuant to the provisions of chapter 9 of title 5 of the United States Code.
 
@@ -922,11 +922,11 @@ There are hereby transferred to the Attorney General:
 
 **Sec. 3. Bureau of Narcotics and Dangerous Drugs**
 
-(a) [Repealed. Reorg. Plan No. 2 of 1973, § 3, 38 F.R. 15932, 87 Stat. 1091, eff. July 1, 1973. Subsection established the Bureau of Narcotics and Dangerous Drugs in the Department of Justice and provided that it be headed by a Director appointed by the Attorney General.]
+(a) [Repealed. Reorg. Plan No. 2 of 1973, § 3, 38 F.R. 15932, 87 Stat. 1091, eff. July 1, 1973. Subsection established the Bureau of Narcotics and Dangerous Drugs in the Department of Justice and provided that it be headed by a Director appointed by the Attorney General.]
 
 (b) There are hereby established in the Department of Justice, in addition to the positions transferred to that Department by this Plan, four new positions, appointment to which shall be made by the Attorney General in the competitive service. Two of those positions shall have compensation at the rate now or hereafter provided for GS-18 positions of the General Schedule and the other two shall have compensation at the rate now or hereafter provided for GS-16 positions of the General Schedule (5 U.S.C. 5332). Each such position shall have such title and duties as the Attorney General shall prescribe.
 
-[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.]
+[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.]
 
 **Sec. 4. Abolition**
 
@@ -1006,7 +1006,7 @@ The White House, February 7, 1968
 
 **REORGANIZATION PLAN NO. 2 OF 1973**
 
-Effective July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, as amended Pub. L. 93–253, § 1, Mar. 16, 1974, 88 Stat. 50
+Effective July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, as amended Pub. L. 93–253, § 1, Mar. 16, 1974, 88 Stat. 50
 
 Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, March 28, 1973, pursuant to the provisions of Chapter 9 of Title 5 of the United States Code.
 
@@ -1018,7 +1018,7 @@ There are hereby transferred from the Secretary of the Treasury, the Department 
 
 **Sec. 2. Transfers to the Secretary of the Treasury**
 
-[Repealed. Pub. L. 93–253, § 1(a)(1), (b), Mar. 16, 1974, 88 Stat. 50, eff. July 1, 1973. Section provided for transfer to Secretary of the Treasury of functions vested in Attorney General, Department of Justice, or any other officer of such Department respecting inspection at ports of entry of persons, and documents of persons, entering or leaving the United States.]
+[Repealed. Pub. L. 93–253, § 1(a)(1), (b), Mar. 16, 1974, 88 Stat. 50, eff. July 1, 1973. Section provided for transfer to Secretary of the Treasury of functions vested in Attorney General, Department of Justice, or any other officer of such Department respecting inspection at ports of entry of persons, and documents of persons, entering or leaving the United States.]
 
 **Sec. 3. Abolition**
 
@@ -1040,7 +1040,7 @@ There is established in the Department of Justice an agency which shall be known
 
 The Attorney General may from time to time make such provisions as he shall deem appropriate authorizing the performance of any of the functions transferred to him by the provisions of this Reorganization Plan by any officer, employee, or agency of the Department of Justice.
 
-[Section, former subsec. (a) designation, and subsec. (b) providing for performance of functions transferred to Secretary of Treasury by any officer, employee, or agency of Treasury Department, repealed by Pub. L. 93–253, § 1(a)(2), (b), Mar. 16, 1974, 88 Stat. 50, eff. July 1, 1973.]
+[Section, former subsec. (a) designation, and subsec. (b) providing for performance of functions transferred to Secretary of Treasury by any officer, employee, or agency of Treasury Department, repealed by Pub. L. 93–253, § 1(a)(2), (b), Mar. 16, 1974, 88 Stat. 50, eff. July 1, 1973.]
 
 **Sec. 7. Coordination**
 
@@ -1178,7 +1178,7 @@ The White House, March 28, 1973
 
 **Ex. Ord. No. 12146. Management of Federal Legal Resources**
 
-Ex. Ord. No. 12146, July 18, 1979, 44 F.R. 42657, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 13286, § 53, Feb. 28, 2003, 68 F.R. 10628, provided:
+Ex. Ord. No. 12146, July 18, 1979, 44 F.R. 42657, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 13286, § 53, Feb. 28, 2003, 68 F.R. 10628, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, it is hereby ordered as follows:
 
@@ -1282,7 +1282,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 **Executive Order No. 13271**
 
-Ex. Ord. No. 13271, July 9, 2002, 67 F.R. 46091, as amended by Ex. Ord. No. 13286, § 3, Feb. 28, 2003, 68 F.R. 10619, which established within the Department of Justice a Corporate Fraud Task Force, was terminated by Ex. Ord. No. 13519, § 7(b), Nov. 17, 2009, 74 F.R. 60125, formerly set out below.
+Ex. Ord. No. 13271, July 9, 2002, 67 F.R. 46091, as amended by Ex. Ord. No. 13286, § 3, Feb. 28, 2003, 68 F.R. 10619, which established within the Department of Justice a Corporate Fraud Task Force, was terminated by Ex. Ord. No. 13519, § 7(b), Nov. 17, 2009, 74 F.R. 60125, formerly set out below.
 
 **Ex. Ord. No. 13402. Strengthening Federal Efforts To Protect Against Identity Theft**
 
@@ -1378,7 +1378,7 @@ George W. Bush.
 
 **Executive Order No. 13519**
 
-Ex. Ord. No. 13519, Nov. 17, 2009, 74 F.R. 60123, which established the Financial Fraud Enforcement Task Force, was revoked by Ex. Ord. No. 13844, § 5(b), July 11, 2018, 83 F.R. 33116, set out below.
+Ex. Ord. No. 13519, Nov. 17, 2009, 74 F.R. 60123, which established the Financial Fraud Enforcement Task Force, was revoked by Ex. Ord. No. 13844, § 5(b), July 11, 2018, 83 F.R. 33116, set out below.
 
 **Executive Order No. 13774**
 
@@ -1616,7 +1616,7 @@ Sec. 4. *General Provisions*. (a) Nothing in this memorandum shall be construed 
 
 J.R. Biden, Jr.
 
-## § 509A. National Security Division
+## § 509A. National Security Division
 
 **(a)** There is a National Security Division of the Department of Justice.
 
@@ -1632,9 +1632,9 @@ J.R. Biden, Jr.
 
 **(5)** Any other element, component, or office designated by the Attorney General.
 
-(Added Pub. L. 109–177, title V, § 506(b)(1), Mar. 9, 2006, 120 Stat. 248.)
+(Added Pub. L. 109–177, title V, § 506(b)(1), Mar. 9, 2006, 120 Stat. 248.)
 
-## § 509B. Section to enforce human rights laws
+## § 509B. Section to enforce human rights laws
 
 **(a)** Not later than 90 days after the date of the enactment of the Human Rights Enforcement Act of 2009, the Attorney General shall establish a section within the Criminal Division of the Department of Justice with responsibility for the enforcement of laws against suspected participants in serious human rights offenses.
 
@@ -1650,7 +1650,7 @@ J.R. Biden, Jr.
 
 **(e)** The term “serious human rights offenses” includes violations of Federal criminal laws relating to genocide, torture, war crimes, and the use or recruitment of child soldiers under sections 1091, 2340, 2340A, 2441, and 2442 of title 18, United States Code.
 
-(Added Pub. L. 111–122, § 2(b), Dec. 22, 2009, 123 Stat. 3480.)
+(Added Pub. L. 111–122, § 2(b), Dec. 22, 2009, 123 Stat. 3480.)
 
 **Editorial Notes**
 
@@ -1658,17 +1658,17 @@ J.R. Biden, Jr.
 
 The date of the enactment of the Human Rights Enforcement Act of 2009, referred to in subsec. (a), is the date of enactment of Pub. L. 111–122, which was approved Dec. 22, 2009.
 
-## § 510. Delegation of authority
+## § 510. Delegation of authority
 
 The Attorney General may from time to time make such provisions as he considers appropriate authorizing the performance by any other officer, employee, or agency of the Department of Justice of any function of the Attorney General.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 612.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 612.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | [Uncodified]. | 1950 Reorg. Plan No. 2, § 2, eff. May 24, 1950, 64 Stat. 1261. |
+|  | [Uncodified]. | 1950 Reorg. Plan No. 2, § 2, eff. May 24, 1950, 64 Stat. 1261. |
 
 The words “including any function transferred to the Attorney General by the provisions of this reorganization plan” are omitted as executed and unnecessary as the words “any function of the Attorney General” include the functions transferred to the Attorney General by 1950 Reorg. Plan. No. 2.
 
@@ -1676,88 +1676,88 @@ The words “including any function transferred to the Attorney General by the p
 
 **Prior Provisions**
 
-A prior section 510, act June 25, 1948, ch. 646, 62 Stat. 910, related to clerical assistants and messengers for United States attorneys, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 550 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 510, act June 25, 1948, ch. 646, 62 Stat. 910, related to clerical assistants and messengers for United States attorneys, prior to repeal by Pub. L. 89–554, § 8(a), and reenactment in section 550 of this title by section 4(c) of Pub. L. 89–554.
 
-## § 511. Attorney General to advise the President
+## § 511. Attorney General to advise the President
 
 The Attorney General shall give his advice and opinion on questions of law when required by the President.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 612.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 612.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 303. | R.S. § 354. |
-|  |  | Feb. 27, 1877, ch. 69, § 1 (8th full par. on p. 241), 19 Stat. 241. |
+|  | 5 U.S.C. 303. | R.S. § 354. |
+|  |  | Feb. 27, 1877, ch. 69, § 1 (8th full par. on p. 241), 19 Stat. 241. |
 
-## § 512. Attorney General to advise heads of executive departments
+## § 512. Attorney General to advise heads of executive departments
 
 The head of an executive department may require the opinion of the Attorney General on questions of law arising in the administration of his department.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 613.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 613.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 304. | R.S. § 356. |
+|  | 5 U.S.C. 304. | R.S. § 356. |
 
-## § 513. Attorney General to advise Secretaries of military departments
+## § 513. Attorney General to advise Secretaries of military departments
 
 When a question of law arises in the administration of the Department of the Army, the Department of the Navy, or the Department of the Air Force, the cognizance of which is not given by statute to some other officer from whom the Secretary of the military department concerned may require advice, the Secretary of the military department shall send it to the Attorney General for disposition.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 613.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 613.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 307. | R.S. § 357. |
+|  | 5 U.S.C. 307. | R.S. § 357. |
 
-The Department of War was designated the Department of the Army by the Act of July 26, 1947, ch. 343, § 205, 61 Stat. 501. “Department of the Air Force” is added on authority of the Act of July 26, 1947, ch. 343, § 207(a), (f), 61 Stat. 502. The word “Secretary” is substituted for “head.” The words “military department” are substituted for “department” to conform to section 102 of title 5, United States Code, and section 101 of title 10, United States Code. The words “for disposition” are substituted for “to be by him referred to the proper officer in his department, or otherwise disposed of as he may deem proper.”
+The Department of War was designated the Department of the Army by the Act of July 26, 1947, ch. 343, § 205, 61 Stat. 501. “Department of the Air Force” is added on authority of the Act of July 26, 1947, ch. 343, § 207(a), (f), 61 Stat. 502. The word “Secretary” is substituted for “head.” The words “military department” are substituted for “department” to conform to section 102 of title 5, United States Code, and section 101 of title 10, United States Code. The words “for disposition” are substituted for “to be by him referred to the proper officer in his department, or otherwise disposed of as he may deem proper.”
 
-## § 514. Legal services on pending claims in departments and agencies
+## § 514. Legal services on pending claims in departments and agencies
 
 When the head of an executive department or agency is of the opinion that the interests of the United States require the service of counsel on the examination of any witness concerning any claim, or on the legal investigation of any claim, pending in the department or agency, he shall notify the Attorney General, giving all facts necessary to enable him to furnish proper professional service in attending the examination or making the investigation, and the Attorney General shall provide for the service.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 613.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 613.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 48. | R.S. § 187. |
-|  | 5 U.S.C. 313. | R.S. § 364. |
+|  | 5 U.S.C. 48. | R.S. § 187. |
+|  | 5 U.S.C. 313. | R.S. § 364. |
 
-Sections 187 and 364 of the Revised Statutes are combined into one section since they both deal with the same subject matter and are derived from the Act of Feb. 14, 1871, ch. 51, § 3, 16 Stat. 412.
+Sections 187 and 364 of the Revised Statutes are combined into one section since they both deal with the same subject matter and are derived from the Act of Feb. 14, 1871, ch. 51, § 3, 16 Stat. 412.
 
-The words “executive department” are substituted for “Department” because “Department”, as used in R.S. §§ 187 and 364, meant “executive department”. (See R.S. § 159.) The word “agency” is substituted for “bureau” as it has a more common current acceptance. The word “concerning” is substituted for “touching”. Reference to application for a subpena is omitted as R.S. § 364 gives the department head the same authority to request aid from the Attorney General whether or not application has been made for a subpena.
+The words “executive department” are substituted for “Department” because “Department”, as used in R.S. §§ 187 and 364, meant “executive department”. (See R.S. § 159.) The word “agency” is substituted for “bureau” as it has a more common current acceptance. The word “concerning” is substituted for “touching”. Reference to application for a subpena is omitted as R.S. § 364 gives the department head the same authority to request aid from the Attorney General whether or not application has been made for a subpena.
 
-Section 187 of the Revised Statutes was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, § 201(d), as added Aug. 10, 1949, ch. 412, § 4, 63 Stat. 579 (former 5 U.S.C. 171–1), which provides “Except to the extent inconsistent with the provisions of this Act [National Security Act of 1947], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense” is omitted from this title but is not repealed.
+Section 187 of the Revised Statutes was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, § 201(d), as added Aug. 10, 1949, ch. 412, § 4, 63 Stat. 579 (former 5 U.S.C. 171–1), which provides “Except to the extent inconsistent with the provisions of this Act [National Security Act of 1947], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense” is omitted from this title but is not repealed.
 
 Minor changes are made in phraseology to allow for the combining of the two sections.
 
-## § 515. Authority for legal proceedings; commission, oath, and salary for special attorneys
+## § 515. Authority for legal proceedings; commission, oath, and salary for special attorneys
 
 **(a)** The Attorney General or any other officer of the Department of Justice, or any attorney specially appointed by the Attorney General under law, may, when specifically directed by the Attorney General, conduct any kind of legal proceeding, civil or criminal, including grand jury proceedings and proceedings before committing magistrate judges, which United States attorneys are authorized by law to conduct, whether or not he is a resident of the district in which the proceeding is brought.
 
 **(b)** Each attorney specially retained under authority of the Department of Justice shall be commissioned as special assistant to the Attorney General or special attorney, and shall take the oath required by law. Foreign counsel employed in special cases are not required to take the oath. The Attorney General shall fix the annual salary of a special assistant or special attorney.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 613; amended Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 107–273, div. A, title II, § 203(b), Nov. 2, 2002, 116 Stat. 1775.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 613; amended Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 107–273, div. A, title II, § 203(b), Nov. 2, 2002, 116 Stat. 1775.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
 | (a) | 5 U.S.C. 310. | June 30, 1906, ch. 3935, 34 Stat. 816. |
-| (b) | 5 U.S.C. 315. | R.S. § 366. |
+| (b) | 5 U.S.C. 315. | R.S. § 366. |
 |  |  | Apr. 17, 1930, ch. 174, 46 Stat. 170. |
-|  |  | June 25, 1948, ch. 646, § 3, 62 Stat. 985. |
-|  | [Uncodified]. | Aug. 5, 1953, ch. 328, § 202 (1st and 2d provisos, as applicable to special assistants and special attorneys), 67 Stat. 375. |
-|  | [Uncodified]. | July 2, 1954, ch. 456, § 202 (as applicable to special assistants and special attorneys), 68 Stat. 421. |
+|  |  | June 25, 1948, ch. 646, § 3, 62 Stat. 985. |
+|  | [Uncodified]. | Aug. 5, 1953, ch. 328, § 202 (1st and 2d provisos, as applicable to special assistants and special attorneys), 67 Stat. 375. |
+|  | [Uncodified]. | July 2, 1954, ch. 456, § 202 (as applicable to special assistants and special attorneys), 68 Stat. 421. |
 
-In subsection (a), the words “or counselor” are omitted as redundant. The words “United States attorneys” are substituted for “district attorneys” on authority of the Act of June 25, 1948, ch. 646, § 1, 62 Stat. 909. The words “any provision of” are omitted as unnecessary.
+In subsection (a), the words “or counselor” are omitted as redundant. The words “United States attorneys” are substituted for “district attorneys” on authority of the Act of June 25, 1948, ch. 646, § 1, 62 Stat. 909. The words “any provision of” are omitted as unnecessary.
 
 **Editorial Notes**
 
@@ -1771,52 +1771,52 @@ In subsection (a), the words “or counselor” are omitted as redundant. The wo
 
 Words “magistrate judges” substituted for “magistrates” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
 
-## § 516. Conduct of litigation reserved to Department of Justice
+## § 516. Conduct of litigation reserved to Department of Justice
 
 Except as otherwise authorized by law, the conduct of litigation in which the United States, an agency, or officer thereof is a party, or is interested, and securing evidence therefor, is reserved to officers of the Department of Justice, under the direction of the Attorney General.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 613.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 613.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 306. | R.S. § 361. |
-|  |  | Sept. 3, 1954, ch. 1263, § 11, 68 Stat. 1229. |
+|  | 5 U.S.C. 306. | R.S. § 361. |
+|  |  | Sept. 3, 1954, ch. 1263, § 11, 68 Stat. 1229. |
 
-The section is revised to express the effect of the law. As agency heads have long employed, with the approval of Congress, attorneys to advise them in the conduct of their official duties, the first 56 words of R.S. § 361 and of former section 306 of title 5 are omitted as obsolete.
+The section is revised to express the effect of the law. As agency heads have long employed, with the approval of Congress, attorneys to advise them in the conduct of their official duties, the first 56 words of R.S. § 361 and of former section 306 of title 5 are omitted as obsolete.
 
 The section concentrates the authority for the conduct of litigation in the Department of Justice. The words “Except as otherwise authorized by law,” are added to provide for existing and future exceptions (e.g., section 1037 of title 10). The words “an agency” are added for clarity and to align this section with section 519 which is of similar import. The words “as such officer” are omitted as unnecessary since it is implied that the officer is a party in his official capacity as an officer.
 
-So much as prohibits the employment of counsel, other than in the Department of Justice, to conduct litigation is omitted as covered by R.S. § 365, which is codified in section 3106 of title 5, United States Code.
+So much as prohibits the employment of counsel, other than in the Department of Justice, to conduct litigation is omitted as covered by R.S. § 365, which is codified in section 3106 of title 5, United States Code.
 
-## § 517. Interests of United States in pending suits
+## § 517. Interests of United States in pending suits
 
 The Solicitor General, or any officer of the Department of Justice, may be sent by the Attorney General to any State or district in the United States to attend to the interests of the United States in a suit pending in a court of the United States, or in a court of a State, or to attend to any other interest of the United States.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 613.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 613.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 316. | R.S. § 367. |
+|  | 5 U.S.C. 316. | R.S. § 367. |
 
-## § 518. Conduct and argument of cases
+## § 518. Conduct and argument of cases
 
 **(a)** Except when the Attorney General in a particular case directs otherwise, the Attorney General and the Solicitor General shall conduct and argue suits and appeals in the Supreme Court and suits in the United States Court of Federal Claims or in the United States Court of Appeals for the Federal Circuit and in the Court of International Trade in which the United States is interested.
 
 **(b)** When the Attorney General considers it in the interests of the United States, he may personally conduct and argue any case in a court of the United States in which the United States is interested, or he may direct the Solicitor General or any officer of the Department of Justice to do so.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 613; amended Pub. L. 96–417, title V, § 503, Oct. 10, 1980, 94 Stat. 1743; Pub. L. 97–164, title I, § 117, Apr. 2, 1982, 96 Stat. 32; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 613; amended Pub. L. 96–417, title V, § 503, Oct. 10, 1980, 94 Stat. 1743; Pub. L. 97–164, title I, § 117, Apr. 2, 1982, 96 Stat. 32; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 309. | R.S. § 359. |
+|  | 5 U.S.C. 309. | R.S. § 359. |
 
-The words “and writs of error” are omitted on authority of the Act of Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54. The word “considers” is substituted for “deems”.
+The words “and writs of error” are omitted on authority of the Act of Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54. The word “considers” is substituted for “deems”.
 
 **Editorial Notes**
 
@@ -1842,11 +1842,11 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of this title.
 
-## § 519. Supervision of litigation
+## § 519. Supervision of litigation
 
 Except as otherwise authorized by law, the Attorney General shall supervise all litigation to which the United States, an agency, or officer thereof is a party, and shall direct all United States attorneys, assistant United States attorneys, and special attorneys appointed under section 543 of this title in the discharge of their respective duties.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 614.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 614.)
 
 **Historical and Revision Notes**
 
@@ -1864,11 +1864,11 @@ The words “special attorneys appointed under section 543” are substituted fo
 
 **Intelligence and National Security Aspects of Espionage Prosecutions**
 
-Pub. L. 108–177, title III, § 341(b), Dec. 13, 2003, 117 Stat. 2616, as amended by Pub. L. 108–458, title I, § 1071(g)(3)(A)(v), Dec. 17, 2004, 118 Stat. 3692; Pub. L. 109–177, title V, § 506(a)(9), Mar. 9, 2006, 120 Stat. 248; Pub. L. 115–31, div. N, title IV, § 401(g), May 5, 2017, 131 Stat. 819, provided that: “The Attorney General, acting through the Assistant Attorney General for National Security, and in consultation with the Director of National Intelligence, acting through the National Counterintelligence and Security Center, shall establish policies and procedures to assist the Attorney General in the consideration of intelligence and national security-related equities in the development of charging documents and related pleadings in espionage prosecutions.”
+Pub. L. 108–177, title III, § 341(b), Dec. 13, 2003, 117 Stat. 2616, as amended by Pub. L. 108–458, title I, § 1071(g)(3)(A)(v), Dec. 17, 2004, 118 Stat. 3692; Pub. L. 109–177, title V, § 506(a)(9), Mar. 9, 2006, 120 Stat. 248; Pub. L. 115–31, div. N, title IV, § 401(g), May 5, 2017, 131 Stat. 819, provided that: “The Attorney General, acting through the Assistant Attorney General for National Security, and in consultation with the Director of National Intelligence, acting through the National Counterintelligence and Security Center, shall establish policies and procedures to assist the Attorney General in the consideration of intelligence and national security-related equities in the development of charging documents and related pleadings in espionage prosecutions.”
 
 **Use of Annuity Brokers in Structured Settlements**
 
-Pub. L. 107–273, div. C, title I, § 11015, Nov. 2, 2002, 116 Stat. 1824, provided that:
+Pub. L. 107–273, div. C, title I, § 11015, Nov. 2, 2002, 116 Stat. 1824, provided that:
 
 > **“(a) Establishment and Transmission of List of Approved Annuity Brokers.—** Not later than 6 months after the date of enactment of this Act [Nov. 2, 2002], the Attorney General shall establish a list of annuity brokers who meet minimum qualifications for providing annuity brokerage services in connection with structured settlements entered by the United States. This list shall be updated upon request by any annuity broker that meets the minimum qualifications for inclusion on the list. The Attorney General shall transmit such list, and any updates to such list, to all United States Attorneys.
 
@@ -1876,23 +1876,23 @@ Pub. L. 107–273, div. C, title I, § 11015, Nov. 2, 2002, 116 Stat. 1824, pr
 
 **Case Management Information and Tracking Systems for Federal Judicial Districts and Divisions of Department; Preparation, Submission, Etc., of Plan**
 
-Pub. L. 96–132, § 11, Nov. 30, 1979, 93 Stat. 1047, required the Attorney General, not later than Apr. 15, 1980, after consultation with the Director of the Executive Office of United States Attorneys and such Assistant Attorneys as appropriate, to prepare and submit to the Committees on the Judiciary of the Senate and the House of Representatives a plan for the activation and coordination, within the Department of Justice, of compatible, comprehensive case management information and tracking systems for each of the judicial districts of the United States and for each of the divisions of the Department.
+Pub. L. 96–132, § 11, Nov. 30, 1979, 93 Stat. 1047, required the Attorney General, not later than Apr. 15, 1980, after consultation with the Director of the Executive Office of United States Attorneys and such Assistant Attorneys as appropriate, to prepare and submit to the Committees on the Judiciary of the Senate and the House of Representatives a plan for the activation and coordination, within the Department of Justice, of compatible, comprehensive case management information and tracking systems for each of the judicial districts of the United States and for each of the divisions of the Department.
 
 **Report to Congress Regarding Provisions of Law Considered Unconstitutional by the Department of Justice; Declaration of Such Position**
 
-Pub. L. 96–132, § 21, Nov. 30, 1979, 93 Stat. 1049, required the Attorney General, during the fiscal year ending Sept. 30, 1980, to transmit a report to each House of Congress in any case in which the Attorney General considered the provisions of law enacted by the Congress and at issue to be unconstitutional and in such cases required a representative of the Department of Justice participating in such case to make a declaration that such opinion of the Attorney General regarding the constitutionality of those provisions of law involved constitutes the opinion of the executive branch of the government with respect to such matter.
+Pub. L. 96–132, § 21, Nov. 30, 1979, 93 Stat. 1049, required the Attorney General, during the fiscal year ending Sept. 30, 1980, to transmit a report to each House of Congress in any case in which the Attorney General considered the provisions of law enacted by the Congress and at issue to be unconstitutional and in such cases required a representative of the Department of Justice participating in such case to make a declaration that such opinion of the Attorney General regarding the constitutionality of those provisions of law involved constitutes the opinion of the executive branch of the government with respect to such matter.
 
-Similar provisions were contained in Pub. L. 95–624, § 13, Nov. 9, 1978, 92 Stat. 3464.
+Similar provisions were contained in Pub. L. 95–624, § 13, Nov. 9, 1978, 92 Stat. 3464.
 
 **Study and Report to Congress on Extent to Which Violations of Federal Criminal Laws Are Not Prosecuted**
 
-Pub. L. 95–624, § 17, Nov. 9, 1978, 92 Stat. 3465, provided that the Attorney General undertake a study and make recommendations concerning violations of Federal criminal laws which have not been prosecuted and present such study and recommendations to the Committee on the Judiciary of the Senate and the House of Representatives not later than Oct. 1, 1979.
+Pub. L. 95–624, § 17, Nov. 9, 1978, 92 Stat. 3465, provided that the Attorney General undertake a study and make recommendations concerning violations of Federal criminal laws which have not been prosecuted and present such study and recommendations to the Committee on the Judiciary of the Senate and the House of Representatives not later than Oct. 1, 1979.
 
 **Executive Documents**
 
 **Executive Order No. 12778**
 
-Ex. Ord. No. 12778, Oct. 23, 1991, 56 F.R. 55195, which prescribed guidelines for promotion of just and efficient Government civil litigation and set forth principles for enactment of legislation and promulgation of regulations which did not unduly burden the Federal court system and for promotion of just and efficient administrative adjudications, was revoked by Ex. Ord. No. 12988, § 12, Feb. 5, 1996, 61 F.R. 4734, set out below.
+Ex. Ord. No. 12778, Oct. 23, 1991, 56 F.R. 55195, which prescribed guidelines for promotion of just and efficient Government civil litigation and set forth principles for enactment of legislation and promulgation of regulations which did not unduly burden the Federal court system and for promotion of just and efficient administrative adjudications, was revoked by Ex. Ord. No. 12988, § 12, Feb. 5, 1996, 61 F.R. 4734, set out below.
 
 **Ex. Ord. No. 12988. Civil Justice Reform**
 
@@ -2048,19 +2048,19 @@ Sec. 12. *Revocation*. Executive Order No. 12778 is hereby revoked.
 
 William J. Clinton.
 
-## § 520. Transmission of petitions in United States Court of Federal Claims or in United States Court of Appeals for the Federal Circuit; statement furnished by departments
+## § 520. Transmission of petitions in United States Court of Federal Claims or in United States Court of Appeals for the Federal Circuit; statement furnished by departments
 
 **(a)** In suits against the United States in the United States Court of Federal Claims or in the United States Court of Appeals for the Federal Circuit founded on a contract, agreement, or transaction with an executive department or military department, or a bureau, officer, or agent thereof, or when the matter or thing on which the claim is based has been passed on and decided by an executive department, military department, bureau, or officer authorized to adjust it, the Attorney General shall send to the department, bureau, or officer a printed copy of the petition filed by the claimant, with a request that the department, bureau, or officer furnish to the Attorney General all facts, circumstances, and evidence concerning the claim in the possession or knowledge of the department, bureau, or officer.
 
 **(b)** Within a reasonable time after receipt of the request from the Attorney General, the executive department, military department, bureau, or officer shall furnish the Attorney General with a written statement of all facts, information, and proofs. The statement shall contain a reference to or description of all official documents and papers, if any, as may furnish proof of facts referred to in it, or may be necessary and proper for the defense of the United States against the claim, mentioning the department, office, or place where the same is kept or may be secured. If the claim has been passed on and decided by the department, bureau, or officer, the statement shall briefly state the reasons and principles on which the decision was based. When the decision was founded on an Act of Congress it shall be cited specifically, and if any previous interpretation or construction has been given to the Act, section, or clause by the department, bureau, or officer, it shall be set forth briefly in the statement and a copy of the opinion filed, if any, attached to it. When a decision in the case has been based on a regulation of a department or when a regulation has, in the opinion of the department, bureau, or officer sending the statement, any bearing on the claim, it shall be distinctly quoted at length in the statement. When more than one case or class of cases is pending, the defense of which rests on the same facts, circumstances, and proofs, the department, bureau, or officer may certify and send one statement and it shall be held to apply to all cases as if made out, certified, and sent in each case respectively.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 614; amended Pub. L. 97–164, title I, § 118(a), Apr. 2, 1982, 96 Stat. 32; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 614; amended Pub. L. 97–164, title I, § 118(a), Apr. 2, 1982, 96 Stat. 32; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 91. | R.S. § 188. |
+|  | 5 U.S.C. 91. | R.S. § 188. |
 
 The section is reorganized and restated for clarity.
 
@@ -2068,7 +2068,7 @@ In subsection (a), the word “concerning” is substituted for “touching”.
 
 In subsection (b), the words “without delay” are omitted as unnecessary in view of the requirement that the statement be furnished “Within a reasonable time”. The word “briefly” is substituted for “succinctly”. The words “in suit” are omitted as unnecessary.
 
-The words “executive department” are substituted for “department” because “department” as used in R.S. § 188 meant “executive department”. (See R.S. § 159.) The words “military department” are inserted to preserve the application of the source law. Before enactment of the National Security Act Amendments of 1949 (63 Stat. 578), the Department of the Army, the Department of the Navy, and the Department of the Air Force were Executive departments. The National Security Act Amendments of 1949 established the Department of Defense as an Executive Department including the Department of the Army, the Department of the Navy, and the Department of the Air Force as military departments, not as Executive departments. However, the source law for this section, which was in effect in 1949, remained applicable to the Secretaries of the military departments by virtue of section 12(g) of the National Security Act Amendments of 1949 (63 Stat. 591), which is set out in the reviser’s note for section 301 of title 5, United States Code.
+The words “executive department” are substituted for “department” because “department” as used in R.S. § 188 meant “executive department”. (See R.S. § 159.) The words “military department” are inserted to preserve the application of the source law. Before enactment of the National Security Act Amendments of 1949 (63 Stat. 578), the Department of the Army, the Department of the Navy, and the Department of the Air Force were Executive departments. The National Security Act Amendments of 1949 established the Department of Defense as an Executive Department including the Department of the Army, the Department of the Navy, and the Department of the Air Force as military departments, not as Executive departments. However, the source law for this section, which was in effect in 1949, remained applicable to the Secretaries of the military departments by virtue of section 12(g) of the National Security Act Amendments of 1949 (63 Stat. 591), which is set out in the reviser’s note for section 301 of title 5, United States Code.
 
 **Editorial Notes**
 
@@ -2076,9 +2076,9 @@ The words “executive department” are substituted for “department” becaus
 
 1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” in section catchline and subsec. (a).
 
-1982—Pub. L. 97–164, § 118(a)(2), substituted “United States Claims Court or in United States Court of Appeals for the Federal Circuit” for “Court of Claims” in section catchline.
+1982—Pub. L. 97–164, § 118(a)(2), substituted “United States Claims Court or in United States Court of Appeals for the Federal Circuit” for “Court of Claims” in section catchline.
 
-Subsec. (a). Pub. L. 97–164, § 118(a)(1), substituted “United States Claims Court or in the United States Court of Appeals for the Federal Circuit” for “Court of Claims”.
+Subsec. (a). Pub. L. 97–164, § 118(a)(1), substituted “United States Claims Court or in the United States Court of Appeals for the Federal Circuit” for “Court of Claims”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2090,7 +2090,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 521. Publication and distribution of opinions
+## § 521. Publication and distribution of opinions
 
 The Attorney General, from time to time—
 
@@ -2100,17 +2100,17 @@ The Attorney General, from time to time—
 
 Each volume shall contain headnotes, an index, and such footnotes as the Attorney General may approve.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 614; amended Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 614; amended Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 305 (1st sentence, as applicable to the Attorney General; 2d and 3d sentences). | R.S. § 383 (1st sentence, as applicable to the Attorney General; 2d and 3d sentences). |
+|  | 5 U.S.C. 305 (1st sentence, as applicable to the Attorney General; 2d and 3d sentences). | R.S. § 383 (1st sentence, as applicable to the Attorney General; 2d and 3d sentences). |
 
-Section 188 of the Revised Statutes was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, § 201(d), as added Aug. 10, 1949, ch. 412, § 4, 63 Stat. 579 (former 5 U.S.C. 171–1), which provides “Except to the extent inconsistent with the provisions of this Act [National Security Act of 1947], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense” is omitted from this title but is not repealed.
+Section 188 of the Revised Statutes was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, § 201(d), as added Aug. 10, 1949, ch. 412, § 4, 63 Stat. 579 (former 5 U.S.C. 171–1), which provides “Except to the extent inconsistent with the provisions of this Act [National Security Act of 1947], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense” is omitted from this title but is not repealed.
 
-The words “his opinions” are substituted for “the opinions of the law officers herein authorized to be given” as the opinions of the Attorney General are his and only his and the reference to other “law officers” is misleading. All functions of all other officers of the Department of Justice were transferred to the Attorney General by 1950 Reorg. Plan No. 2, § 1, eff. May 14, 1950, 64 Stat. 1261. The word “considers” is substituted for “may deem”.
+The words “his opinions” are substituted for “the opinions of the law officers herein authorized to be given” as the opinions of the Attorney General are his and only his and the reference to other “law officers” is misleading. All functions of all other officers of the Department of Justice were transferred to the Attorney General by 1950 Reorg. Plan No. 2, § 1, eff. May 14, 1950, 64 Stat. 1261. The word “considers” is substituted for “may deem”.
 
 In the last sentence, the words “proper” and “complete and full” are omitted as unnecessary.
 
@@ -2122,7 +2122,7 @@ In the last sentence, the words “proper” and “complete and full” are omi
 
 **Review for Official Publication of Opinions of the Office of Legal Counsel of the Department of Justice Concerning Intelligence Activities**
 
-Pub. L. 113–126, title III, § 322, July 7, 2014, 128 Stat. 1400, provided that:
+Pub. L. 113–126, title III, § 322, July 7, 2014, 128 Stat. 1400, provided that:
 
 > **“(a) Process for Review for Official Publication.—** Not later than 180 days after the date of the enactment of this Act [July 7, 2014], the Attorney General shall, in coordination with the Director of National Intelligence, establish a process for the regular review for official publication of significant opinions of the Office of Legal Counsel of the Department of Justice that have been provided to an element of the intelligence community.
 
@@ -2158,7 +2158,7 @@ Pub. L. 113–126, title III, § 322, July 7, 2014, 128 Stat. 1400, provided t
 
 [For definition of “intelligence community” as used in section 322 of Pub. L. 113–126, set out above, see section 2 of Pub. L. 113–126, set out as a note under section 3003 of Title 50, War and National Defense.]
 
-## § 522. Report of business and statistics
+## § 522. Report of business and statistics
 
 **(a)** The Attorney General, by April 1 of each year, shall report to Congress on the business of the Department of Justice for the last preceding fiscal year, and on any other matters pertaining to the Department that he considers proper, including—
 
@@ -2168,23 +2168,23 @@ Pub. L. 113–126, title III, § 322, July 7, 2014, 128 Stat. 1400, provided t
 
 **(3)** a statement of the number of causes involving the United States, civil and criminal, pending during the preceding year in each of the several courts of the United States.
 
-**(b)** With respect to any data, records, or other information acquired, collected, classified, preserved, or published by the Attorney General for any statistical, research, or other aggregate reporting purpose beginning not later than 1 year after the date of enactment of 1
+**(b)** With respect to any data, records, or other information acquired, collected, classified, preserved, or published by the Attorney General for any statistical, research, or other aggregate reporting purpose beginning not later than 1 year after the date of enactment of 1
 
-<sup>1</sup>  So in original. Probably should be followed by “the”.
+<sup>1</sup> So in original. Probably should be followed by “the”.
 
 21st Century Department of Justice Appropriations Authorization Act and continuing thereafter, and notwithstanding any other provision of law, the same criteria shall be used (and shall be required to be used, as applicable) to classify or categorize offenders and victims (in the criminal context), and to classify or categorize actors and acted upon (in the noncriminal context).
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 615; amended Pub. L. 94–273, § 19, Apr. 21, 1976, 90 Stat. 379; Pub. L. 107–273, div. A, title II, § 204(b), Nov. 2, 2002, 116 Stat. 1776.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 615; amended Pub. L. 94–273, § 19, Apr. 21, 1976, 90 Stat. 379; Pub. L. 107–273, div. A, title II, § 204(b), Nov. 2, 2002, 116 Stat. 1776.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 333. | R.S. § 384. |
+|  | 5 U.S.C. 333. | R.S. § 384. |
 
-The words “The Attorney General . . . shall report” are substituted for “It shall be the duty of the Attorney General to make . . . a report”. The word “beginning” is substituted for “commencement”. The words “pertaining to the Department that he considers proper” are substituted for “appertaining thereto that he may deem proper”.
+The words “The Attorney General . . . shall report” are substituted for “It shall be the duty of the Attorney General to make . . . a report”. The word “beginning” is substituted for “commencement”. The words “pertaining to the Department that he considers proper” are substituted for “appertaining thereto that he may deem proper”.
 
-The words “and a detailed statement of the amounts used for defraying the expenses of the United States courts in each judicial district” are omitted as obsolete in view of the creation of the Administrative Office of the United States Courts by the Act of Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1223 (Chapter 41 of this title).
+The words “and a detailed statement of the amounts used for defraying the expenses of the United States courts in each judicial district” are omitted as obsolete in view of the creation of the Administrative Office of the United States Courts by the Act of Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1223 (Chapter 41 of this title).
 
 In paragraph (3), the words “involving the United States” are inserted for clarity. The function of reporting on all cases pending in the United States courts is now vested in the Administrative Office of the United States Courts, see 28 U.S.C. 604.
 
@@ -2204,33 +2204,33 @@ The date of enactment of 21st Century Department of Justice Appropriations Autho
 
 **Report to Congress on Banking Law Offenses**
 
-Pub. L. 101–647, title XXV, § 2546, Nov. 29, 1990, 104 Stat. 4885, which requires the Attorney General to report to Congress quarterly, after Dec. 31, 1991, on the nature and number of proceedings in progress with respect to banking law offenses, was editorially reclassified as section 41306 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 101–647, title XXV, § 2546, Nov. 29, 1990, 104 Stat. 4885, which requires the Attorney General to report to Congress quarterly, after Dec. 31, 1991, on the nature and number of proceedings in progress with respect to banking law offenses, was editorially reclassified as section 41306 of Title 34, Crime Control and Law Enforcement.
 
 **Congressional Oversight**
 
-Pub. L. 100–700, § 6, Nov. 19, 1988, 102 Stat. 4634, which required the Attorney General to report annually to Congress on referrals of fraud cases and related matters, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 120 of House Document No. 103–7.
+Pub. L. 100–700, § 6, Nov. 19, 1988, 102 Stat. 4634, which required the Attorney General to report annually to Congress on referrals of fraud cases and related matters, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 120 of House Document No. 103–7.
 
 **Report to Congress on Robberies and Burglaries Involving Controlled Substances**
 
-Pub. L. 98–305, § 4, May 31, 1984, 98 Stat. 222, provided that for each of the first three years after May 31, 1984, the Attorney General would submit an annual report to Congress with respect to the enforcement activities of the Attorney General relating to the offenses created by section 2118 of Title 18.
+Pub. L. 98–305, § 4, May 31, 1984, 98 Stat. 222, provided that for each of the first three years after May 31, 1984, the Attorney General would submit an annual report to Congress with respect to the enforcement activities of the Attorney General relating to the offenses created by section 2118 of Title 18.
 
 **Report to Congress on Sexual Exploitation of Children**
 
-Pub. L. 98–292, § 9, May 21, 1984, 98 Stat. 206, which requires the Attorney General to report to Congress annually on prosecutions, convictions, and forfeitures under chapter 110 of Title 18, Crimes and Criminal Procedure, relating to sexual exploitation and other abuse of children, was editorially reclassified as section 41301 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 98–292, § 9, May 21, 1984, 98 Stat. 206, which requires the Attorney General to report to Congress annually on prosecutions, convictions, and forfeitures under chapter 110 of Title 18, Crimes and Criminal Procedure, relating to sexual exploitation and other abuse of children, was editorially reclassified as section 41301 of Title 34, Crime Control and Law Enforcement.
 
-## § 523. Requisitions
+## § 523. Requisitions
 
 The Attorney General shall sign all requisitions for the advance or payment of moneys appropriated for the Department of Justice, out of the Treasury, subject to the same control as is exercised on like estimates or accounts by the Government Accountability Office.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 615; amended Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 615; amended Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 319. | R.S. § 369. |
+|  | 5 U.S.C. 319. | R.S. § 369. |
 
-The words “General Accounting Office” are substituted for “First Auditor or First Comptroller of the Treasury” on authority of the Act of June 10, 1921, ch. 18, § 304, 42 Stat. 24.
+The words “General Accounting Office” are substituted for “First Auditor or First Comptroller of the Treasury” on authority of the Act of June 10, 1921, ch. 18, § 304, 42 Stat. 24.
 
 **Editorial Notes**
 
@@ -2238,7 +2238,7 @@ The words “General Accounting Office” are substituted for “First Auditor o
 
 2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-## § 524. Availability of appropriations
+## § 524. Availability of appropriations
 
 **(a)** Appropriations for the Department of Justice are available to the Attorney General for payment of—
 
@@ -2376,7 +2376,7 @@ Amounts for paying the expenses authorized by subparagraphs (B), (F), and (G) sh
 
 **(B)** Subject to subparagraphs (C) and (D), at the end of each of fiscal years 1994, 1995, and 1996, the Attorney General shall transfer from the Fund not more than $100,000,000 to the Special Forfeiture Fund established by section 6073 of the Anti-Drug Abuse Act of 1988.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(C)** Transfers under subparagraph (B) may be made only from the excess unobligated balance and may not exceed one-half of the excess unobligated balance for any year. In addition, transfers under subparagraph (B) may be made only to the extent that the sum of the transfers in a fiscal year and one-half of the unobligated balance at the beginning of that fiscal year for the Special Forfeiture Fund does not exceed $100,000,000.
 
@@ -2412,13 +2412,13 @@ Amounts for paying the expenses authorized by subparagraphs (B), (F), and (G) sh
 
 **(4)** Evidences of any intangible personal property (other than money) accepted hereunder shall be deposited with the Secretary of the Treasury, who may hold or liquidate them, except that they shall be liquidated upon the request of the Attorney General.
 
-**(5)** For purposes of federal 2
+**(5)** For purposes of federal 2
 
-<sup>2</sup>  So in original. Probably should be capitalized.
+<sup>2</sup> So in original. Probably should be capitalized.
 
 income, estate, and gift taxes, property accepted hereunder shall be considered a gift, devise, or bequest to, or for the use of, the United States.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 615; amended Pub. L. 97–258, § 2(g)(1)(B)–(D), Sept. 13, 1982, 96 Stat. 1060; Pub. L. 98–473, title II, §§ 310, 2303, Oct. 12, 1984, 98 Stat. 2052, 2193; Pub. L. 99–570, title I, § 1152(a), Oct. 27, 1986, 100 Stat. 3207–12; Pub. L. 99–646, § 27, Nov. 10, 1986, 100 Stat. 3597; Pub. L. 100–202, § 101(a) [title II, § 210(a)], Dec. 22, 1987, 101 Stat. 1329, 1329–18; Pub. L. 100–690, title VI, § 6072, Nov. 18, 1988, 102 Stat. 4320; Pub. L. 101–509, title III, § 1, Nov. 5, 1990, 104 Stat. 1403; Pub. L. 101–647, title XVI, § 1601, title XX, §§ 2001(a), 2002, 2005, 2006, Nov. 29, 1990, 104 Stat. 4842, 4854, 4855; Pub. L. 102–27, title II, § 101, Apr. 10, 1991, 105 Stat. 135; Pub. L. 102–140, title I, § 112, Oct. 28, 1991, 105 Stat. 795; Pub. L. 102–393, title VI, § 638(f), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–395, title I, § 114(b), (c), Oct. 6, 1992, 106 Stat. 1845; Pub. L. 102–550, title XV, § 1529, Oct. 28, 1992, 106 Stat. 4065; Pub. L. 103–121, title I, § 109, Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–317, title I, § 110, Aug. 26, 1994, 108 Stat. 1735; Pub. L. 103–322, title IX, § 90205(b), title XXXII, §§ 320301, 320302, 320913(a), Sept. 13, 1994, 108 Stat. 1994, 2114, 2128; Pub. L. 104–66, title I, § 1091(h), Dec. 21, 1995, 109 Stat. 722; Pub. L. 104–91, title I, § 101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, § 211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–134, title I, § 101[(a)] [title I, § 122], Apr. 26, 1996, 110 Stat. 1321, 1321–22; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–208, div. A, title I, § 101(a) [title I, §§ 108, 114, 116, 117], Sept. 30, 1996, 110 Stat. 3009, 3009–18, 3009–22, 3009–23; Pub. L. 105–119, title I, §§ 108, 124, title II, § 211(b), Nov. 26, 1997, 111 Stat. 2457, 2471, 2487; Pub. L. 105–272, title VI, § 605, Oct. 20, 1998, 112 Stat. 2413; Pub. L. 106–185, § 19, Apr. 25, 2000, 114 Stat. 223; Pub. L. 106–310, div. B, title XXXVI, §§ 3613(b), 3621(a), Oct. 17, 2000, 114 Stat. 1230; Pub. L. 107–273, div. A, title II, § 204(a), Nov. 2, 2002, 116 Stat. 1775; Pub. L. 111–350, § 5(g)(1), Jan. 4, 2011, 124 Stat. 3848; Pub. L. 114–22, title I, § 105(b), (c)(2)(A)(i), May 29, 2015, 129 Stat. 237; Pub. L. 115–392, § 4(a), Dec. 21, 2018, 132 Stat. 5251; Pub. L. 117–347, title IV, § 403, Jan. 5, 2023, 136 Stat. 6208; Pub. L. 119–60, div. G, title LXXII, § 7207(d)(1), Dec. 18, 2025, 139 Stat. 1693.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 615; amended Pub. L. 97–258, § 2(g)(1)(B)–(D), Sept. 13, 1982, 96 Stat. 1060; Pub. L. 98–473, title II, §§ 310, 2303, Oct. 12, 1984, 98 Stat. 2052, 2193; Pub. L. 99–570, title I, § 1152(a), Oct. 27, 1986, 100 Stat. 3207–12; Pub. L. 99–646, § 27, Nov. 10, 1986, 100 Stat. 3597; Pub. L. 100–202, § 101(a) [title II, § 210(a)], Dec. 22, 1987, 101 Stat. 1329, 1329–18; Pub. L. 100–690, title VI, § 6072, Nov. 18, 1988, 102 Stat. 4320; Pub. L. 101–509, title III, § 1, Nov. 5, 1990, 104 Stat. 1403; Pub. L. 101–647, title XVI, § 1601, title XX, §§ 2001(a), 2002, 2005, 2006, Nov. 29, 1990, 104 Stat. 4842, 4854, 4855; Pub. L. 102–27, title II, § 101, Apr. 10, 1991, 105 Stat. 135; Pub. L. 102–140, title I, § 112, Oct. 28, 1991, 105 Stat. 795; Pub. L. 102–393, title VI, § 638(f), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–395, title I, § 114(b), (c), Oct. 6, 1992, 106 Stat. 1845; Pub. L. 102–550, title XV, § 1529, Oct. 28, 1992, 106 Stat. 4065; Pub. L. 103–121, title I, § 109, Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–317, title I, § 110, Aug. 26, 1994, 108 Stat. 1735; Pub. L. 103–322, title IX, § 90205(b), title XXXII, §§ 320301, 320302, 320913(a), Sept. 13, 1994, 108 Stat. 1994, 2114, 2128; Pub. L. 104–66, title I, § 1091(h), Dec. 21, 1995, 109 Stat. 722; Pub. L. 104–91, title I, § 101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, § 211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–134, title I, § 101[(a)] [title I, § 122], Apr. 26, 1996, 110 Stat. 1321, 1321–22; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–208, div. A, title I, § 101(a) [title I, §§ 108, 114, 116, 117], Sept. 30, 1996, 110 Stat. 3009, 3009–18, 3009–22, 3009–23; Pub. L. 105–119, title I, §§ 108, 124, title II, § 211(b), Nov. 26, 1997, 111 Stat. 2457, 2471, 2487; Pub. L. 105–272, title VI, § 605, Oct. 20, 1998, 112 Stat. 2413; Pub. L. 106–185, § 19, Apr. 25, 2000, 114 Stat. 223; Pub. L. 106–310, div. B, title XXXVI, §§ 3613(b), 3621(a), Oct. 17, 2000, 114 Stat. 1230; Pub. L. 107–273, div. A, title II, § 204(a), Nov. 2, 2002, 116 Stat. 1775; Pub. L. 111–350, § 5(g)(1), Jan. 4, 2011, 124 Stat. 3848; Pub. L. 114–22, title I, § 105(b), (c)(2)(A)(i), May 29, 2015, 129 Stat. 237; Pub. L. 115–392, § 4(a), Dec. 21, 2018, 132 Stat. 5251; Pub. L. 117–347, title IV, § 403, Jan. 5, 2023, 136 Stat. 6208; Pub. L. 119–60, div. G, title LXXII, § 7207(d)(1), Dec. 18, 2025, 139 Stat. 1693.)
 
 **Historical and Revision Notes**
 
@@ -2426,15 +2426,15 @@ income, estate, and gift taxes, property accepted hereunder shall be considered 
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 341. | July 28, 1950, ch. 503, § 1, 64 Stat. 380. |
+|  | 5 U.S.C. 341. | July 28, 1950, ch. 503, § 1, 64 Stat. 380. |
 
-The words “now or hereafter” are omitted as unnecessary. The words “Assistant Attorney General for Administration” are substituted for “his administrative assistant” to make the statute more specific and to reflect the current title of the position, see § 307 of the Act of Aug. 14, 1964, Pub. L. 88–426, 78 Stat. 432.
+The words “now or hereafter” are omitted as unnecessary. The words “Assistant Attorney General for Administration” are substituted for “his administrative assistant” to make the statute more specific and to reflect the current title of the position, see § 307 of the Act of Aug. 14, 1964, Pub. L. 88–426, 78 Stat. 432.
 
 **1982 Act**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 28:524(b) | 31:693a. | Oct. 10, 1949, ch. 662, § 101 (par. under heading “General Provision—Department of Justice”), 63 Stat. 746. |
+| 28:524(b) | 31:693a. | Oct. 10, 1949, ch. 662, § 101 (par. under heading “General Provision—Department of Justice”), 63 Stat. 746. |
 
 The words “After October 10, 1949” are omitted as executed. The words “Except as provided in subsection (a) of this section” are added for clarity. The words “fees, storage, or other items of” are omitted as surplus. The words “to the Department” are added for clarity.
 
@@ -2444,13 +2444,13 @@ The words “After October 10, 1949” are omitted as executed. The words “Exc
 
 Section 6050I of the Internal Revenue Code of 1986, referred to in subsec. (c)(1)(B), is classified to section 6050I of Title 26, Internal Revenue Code.
 
-The Controlled Substances Act, referred to in subsec. (c)(1)(G), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (c)(1)(G), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
-The Controlled Substances Import and Export Act, referred to in subsec. (c)(1)(G), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
+The Controlled Substances Import and Export Act, referred to in subsec. (c)(1)(G), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
 
-The effective date of the Comprehensive Forfeiture Act of 1983, referred to in subsec. (c)(7), probably means the date of enactment of the Comprehensive Forfeiture Act of 1984, chapter III (§§ 301 to 323) of title II of Pub. L. 98–473, which was approved Oct. 12, 1984.
+The effective date of the Comprehensive Forfeiture Act of 1983, referred to in subsec. (c)(7), probably means the date of enactment of the Comprehensive Forfeiture Act of 1984, chapter III (§§ 301 to 323) of title II of Pub. L. 98–473, which was approved Oct. 12, 1984.
 
-Section 6073 of the Anti-Drug Abuse Act of 1988, referred to in subsec. (c)(8)(B), was classified to section 1509 of Title 21, Food and Drugs, prior to repeal by Pub. L. 109–469, title XI, § 1101(b), Dec. 29, 2006, 120 Stat. 3539.
+Section 6073 of the Anti-Drug Abuse Act of 1988, referred to in subsec. (c)(8)(B), was classified to section 1509 of Title 21, Food and Drugs, prior to repeal by Pub. L. 109–469, title XI, § 1101(b), Dec. 29, 2006, 120 Stat. 3539.
 
 Section 605 of Public Law 103–121, referred to in subsec. (c)(8)(E), is section 605 of Pub. L. 103–121, title VI, Oct. 27, 1993, 107 Stat. 1194, which is not classified to the Code.
 
@@ -2460,69 +2460,69 @@ Amendment by Pub. L. 104–91 is based on section 109 of H.R. 2076, One Hundred 
 
 **Amendments**
 
-2025—Subsec. (c)(4)(C). Pub. L. 119–60, § 7207(d)(1)(A), substituted “section 9705(f)(4)(A)” for “section 9705(g)(4)(A)”.
+2025—Subsec. (c)(4)(C). Pub. L. 119–60, § 7207(d)(1)(A), substituted “section 9705(f)(4)(A)” for “section 9705(g)(4)(A)”.
 
-Subsec. (c)(10). Pub. L. 119–60, § 7207(d)(1)(B), substituted “section 9705(n)” for “section 9705(*o*)”.
+Subsec. (c)(10). Pub. L. 119–60, § 7207(d)(1)(B), substituted “section 9705(n)” for “section 9705(*o*)”.
 
 2023—Subsec. (c)(1)(J). Pub. L. 117–347 added subpar. (J).
 
-2018—Subsec. (c)(1)(B). Pub. L. 115–392 inserted “, chapter 110 of title 18” after “chapter 77 of title 18”.
+2018—Subsec. (c)(1)(B). Pub. L. 115–392 inserted “, chapter 110 of title 18” after “chapter 77 of title 18”.
 
-2015—Subsec. (c)(1)(B). Pub. L. 114–22, § 105(b), inserted “chapter 77 of title 18,” after “criminal drug laws of the United States or of”.
+2015—Subsec. (c)(1)(B). Pub. L. 114–22, § 105(b), inserted “chapter 77 of title 18,” after “criminal drug laws of the United States or of”.
 
-Subsec. (c)(4)(C). Pub. L. 114–22, § 105(c)(2)(A)(i)(I), substituted “section 9705(g)(4)(A)” for “section 9703(g)(4)(A)(ii)”.
+Subsec. (c)(4)(C). Pub. L. 114–22, § 105(c)(2)(A)(i)(I), substituted “section 9705(g)(4)(A)” for “section 9703(g)(4)(A)(ii)”.
 
-Subsec. (c)(10). Pub. L. 114–22, § 105(c)(2)(A)(i)(II), substituted “section 9705(*o*)” for “section 9703(p)”.
+Subsec. (c)(10). Pub. L. 114–22, § 105(c)(2)(A)(i)(II), substituted “section 9705(*o*)” for “section 9703(p)”.
 
-Subsec. (c)(11). Pub. L. 114–22, § 105(c)(2)(A)(i)(III), substituted “section 9705” for “section 9703”.
+Subsec. (c)(11). Pub. L. 114–22, § 105(c)(2)(A)(i)(III), substituted “section 9705” for “section 9703”.
 
 2011—Subsec. (c)(1). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes of the United States (41 U.S.C. 5), title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 and following)” in concluding provisions.
 
-2002—Subsec. (a). Pub. L. 107–273, § 204(a)(1), inserted “to the Attorney General” after “available” in introductory provisions.
+2002—Subsec. (a). Pub. L. 107–273, § 204(a)(1), inserted “to the Attorney General” after “available” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 107–273, § 204(a)(2)(C), (D), in concluding provisions, substituted “(B), (F), and (G)” for “(A)(iv), (B), (F), (G), and (H)” and “under the Fund” for “under the fund”.
+Subsec. (c)(1). Pub. L. 107–273, § 204(a)(2)(C), (D), in concluding provisions, substituted “(B), (F), and (G)” for “(A)(iv), (B), (F), (G), and (H)” and “under the Fund” for “under the fund”.
 
-Subsec. (c)(1)(I). Pub. L. 107–273, § 204(a)(2)(B), struck out subpar. (I) which read as follows: “after all reimbursements and program-related expenses have been met at the end of fiscal year 1989, the Attorney General may transfer deposits from the Fund to the building and facilities account of the Federal prison system for the construction of correctional institutions.”
+Subsec. (c)(1)(I). Pub. L. 107–273, § 204(a)(2)(B), struck out subpar. (I) which read as follows: “after all reimbursements and program-related expenses have been met at the end of fiscal year 1989, the Attorney General may transfer deposits from the Fund to the building and facilities account of the Federal prison system for the construction of correctional institutions.”
 
-Pub. L. 107–273, § 204(a)(2)(A), substituted period for semicolon at end.
+Pub. L. 107–273, § 204(a)(2)(A), substituted period for semicolon at end.
 
-Subsec. (c)(2). Pub. L. 107–273, § 204(a)(3), substituted “shall not exceed $500,000” for “shall not exceed $250,000” and “the lesser of $500,000” for “the lesser of $250,000”, struck out “for information” after “Any award paid from the Fund” and after “Any award” in two places, and inserted before period at end “, without both the personal approval of the Attorney General and written notice within 30 days thereof to the Chairmen and ranking minority members of the Committees on Appropriations and the Judiciary of the Senate and of the House of Representatives”.
+Subsec. (c)(2). Pub. L. 107–273, § 204(a)(3), substituted “shall not exceed $500,000” for “shall not exceed $250,000” and “the lesser of $500,000” for “the lesser of $250,000”, struck out “for information” after “Any award paid from the Fund” and after “Any award” in two places, and inserted before period at end “, without both the personal approval of the Attorney General and written notice within 30 days thereof to the Chairmen and ranking minority members of the Committees on Appropriations and the Judiciary of the Senate and of the House of Representatives”.
 
-Subsec. (c)(3). Pub. L. 107–273, § 204(a)(4), substituted “(G)” for “(F)”.
+Subsec. (c)(3). Pub. L. 107–273, § 204(a)(4), substituted “(G)” for “(F)”.
 
-Subsec. (c)(5). Pub. L. 107–273, § 204(a)(5), substituted “Fund, that” for “Fund which”.
+Subsec. (c)(5). Pub. L. 107–273, § 204(a)(5), substituted “Fund, that” for “Fund which”.
 
-Subsec. (c)(8)(A). Pub. L. 107–273, § 204(a)(6), substituted “(B), (F), and (G)” for “(A)(iv), (B), (F), (G), and (H)”.
+Subsec. (c)(8)(A). Pub. L. 107–273, § 204(a)(6), substituted “(B), (F), and (G)” for “(A)(iv), (B), (F), (G), and (H)”.
 
-Subsec. (c)(9)(B). Pub. L. 107–273, § 204(a)(7), substituted “years 2002 and 2003” for “year 1997” and “Each such transfer shall be subject to satisfaction by the recipient involved of any outstanding lien against the property transferred, but no such transfer shall” for “Such transfer shall not”.
+Subsec. (c)(9)(B). Pub. L. 107–273, § 204(a)(7), substituted “years 2002 and 2003” for “year 1997” and “Each such transfer shall be subject to satisfaction by the recipient involved of any outstanding lien against the property transferred, but no such transfer shall” for “Such transfer shall not”.
 
-2000—Subsec. (c)(1)(E). Pub. L. 106–310, § 3621(a), designated existing provisions as cl. (i), inserted “and” after semicolon at end, and added cl. (ii).
+2000—Subsec. (c)(1)(E). Pub. L. 106–310, § 3621(a), designated existing provisions as cl. (i), inserted “and” after semicolon at end, and added cl. (ii).
 
-Subsec. (c)(4)(D). Pub. L. 106–310, § 3613(b), added subpar. (D).
+Subsec. (c)(4)(D). Pub. L. 106–310, § 3613(b), added subpar. (D).
 
 Subsec. (c)(6). Pub. L. 106–185 amended par. (6) generally. Prior to amendment, par. (6) required the Attorney General to transmit to Congress, not later than 4 months after the end of each fiscal year, detailed reports on the value of property forfeited under a law enforced or administered by the Department of Justice with respect to which funds were not deposited in the Fund and on the value of such property transferred to a State or local law enforcement agency, on the Fund’s balances, receipts, payments, assets, and on certain property not forfeited, on profits and losses with respect to forfeited property, on forfeited property transactions, on audits reports from State and local law enforcement agencies, and on administrative and contracting expenses paid from the Fund.
 
 1998—Subsec. (d)(1). Pub. L. 105–272 inserted “or services” after “property”.
 
-1997—Subsec. (c)(8)(B). Pub. L. 105–119, § 124, substituted “and 1996,” for “1996, and 1997,”.
+1997—Subsec. (c)(8)(B). Pub. L. 105–119, § 124, substituted “and 1996,” for “1996, and 1997,”.
 
-Subsec. (c)(8)(E). Pub. L. 105–119, § 108, substituted “1997 and thereafter” for “1996”.
+Subsec. (c)(8)(E). Pub. L. 105–119, § 108, substituted “1997 and thereafter” for “1996”.
 
-Subsec. (c)(11)(B). Pub. L. 105–119, § 211(b), which directed the amendment of subpar. (B) by inserting at end thereof “or pursuant to the authority of the Secretary of Commerce”, was executed by inserting the material before the period to reflect the probable intent of Congress.
+Subsec. (c)(11)(B). Pub. L. 105–119, § 211(b), which directed the amendment of subpar. (B) by inserting at end thereof “or pursuant to the authority of the Secretary of Commerce”, was executed by inserting the material before the period to reflect the probable intent of Congress.
 
-1996—Subsec. (c)(1). Pub. L. 104–208, § 101(a) [title I, § 114(a)], struck out “(C),” after “(B),” in concluding provisions.
+1996—Subsec. (c)(1). Pub. L. 104–208, § 101(a) [title I, § 114(a)], struck out “(C),” after “(B),” in concluding provisions.
 
-Subsec. (c)(8)(A). Pub. L. 104–208, § 101(a) [title I, § 114(b)], struck out “(C),” after “(B),”.
+Subsec. (c)(8)(A). Pub. L. 104–208, § 101(a) [title I, § 114(b)], struck out “(C),” after “(B),”.
 
-Subsec. (c)(8)(E). Pub. L. 104–208, § 101(a) [title I, § 108], substituted “September 30, 1996” for “September 30, 1995”.
+Subsec. (c)(8)(E). Pub. L. 104–208, § 101(a) [title I, § 108], substituted “September 30, 1996” for “September 30, 1995”.
 
 Pub. L. 104–134 struck out subpar. (E), as added by Pub. L. 103–317, which read as follows: “Subject to the notification procedures contained in section 605 of Public Law 103–121, and after satisfying the transfer requirement in subparagraph (B) above, any excess unobligated balance remaining in the Fund on September 30, 1994 shall be available to the Attorney General, without fiscal year limitation, for any Federal law enforcement, litigative/prosecutive, and correctional activities, or any other authorized purpose of the Department of Justice. Any amounts provided pursuant to this section may be used under authorities available to the organization receiving the funds.”
 
 Pub. L. 104–91, as amended by Pub. L. 104–99, which directed amendment of subsec. (c)(9) of this section by adding subpar. (E) relating to excess unobligated balance remaining in the Fund on Sept. 30, 1995, was executed by adding subpar. (E) at the end of subsec. (c)(8), to reflect the redesignation of subsec. (c)(9) as (c)(8) by Pub. L. 104–66. See below.
 
-Subsec. (c)(9). Pub. L. 104–208, § 101(a) [title I, § 117], amended par. (9) generally. Prior to amendment, par. (9) read as follows: “Following the completion of procedures for the forfeiture of property pursuant to any law enforced or administered by the Department, the Attorney General is authorized, at his discretion, to warrant clear title to any subsequent purchaser or transferee of such forfeited property.”
+Subsec. (c)(9). Pub. L. 104–208, § 101(a) [title I, § 117], amended par. (9) generally. Prior to amendment, par. (9) read as follows: “Following the completion of procedures for the forfeiture of property pursuant to any law enforced or administered by the Department, the Attorney General is authorized, at his discretion, to warrant clear title to any subsequent purchaser or transferee of such forfeited property.”
 
-Subsec. (d). Pub. L. 104–208, § 101(a) [title I, § 116], added subsec. (d).
+Subsec. (d). Pub. L. 104–208, § 101(a) [title I, § 116], added subsec. (d).
 
 1995—Subsec. (c)(7) to (12). Pub. L. 104–66 redesignated pars. (8) to (12) as (7) to (11), respectively, and struck out former par. (7) which read as follows:
 
@@ -2530,19 +2530,19 @@ Subsec. (d). Pub. L. 104–208, § 101(a) [title I, § 116], added subsec. (
 
 “(B) The Attorney General shall require that any State or local law enforcement agency receiving funds conduct an annual audit detailing the uses and expenses to which the funds were dedicated and the amount used for each use or expense and report the results of the audit to the Attorney General.”
 
-1994—Subsec. (c)(1)(H), (I). Pub. L. 103–322, § 320913(a), added subpar. (H) and redesignated former subpar. (H) relating to payment of overtime salaries, travel, etc. as (I).
+1994—Subsec. (c)(1)(H), (I). Pub. L. 103–322, § 320913(a), added subpar. (H) and redesignated former subpar. (H) relating to payment of overtime salaries, travel, etc. as (I).
 
-Subsec. (c)(6)(B). Pub. L. 103–322, § 320302(1), struck out “and” at end.
+Subsec. (c)(6)(B). Pub. L. 103–322, § 320302(1), struck out “and” at end.
 
-Subsec. (c)(6)(C). Pub. L. 103–322, § 320302(2), substituted “; and” for period at end.
+Subsec. (c)(6)(C). Pub. L. 103–322, § 320302(2), substituted “; and” for period at end.
 
-Pub. L. 103–322, § 320301(b), inserted as flush sentence at end “The report should also contain all annual audit reports from State and local law enforcement agencies required to be reported to the Attorney General under subparagraph (B) of paragraph (7).”
+Pub. L. 103–322, § 320301(b), inserted as flush sentence at end “The report should also contain all annual audit reports from State and local law enforcement agencies required to be reported to the Attorney General under subparagraph (B) of paragraph (7).”
 
-Subsec. (c)(6)(D). Pub. L. 103–322, § 320302(3), added subpar. (D).
+Subsec. (c)(6)(D). Pub. L. 103–322, § 320302(3), added subpar. (D).
 
-Subsec. (c)(7). Pub. L. 103–322, § 320301(a), amended par. (7) generally, designating existing provisions as subpar. (A) and adding subpar. (B).
+Subsec. (c)(7). Pub. L. 103–322, § 320301(a), amended par. (7) generally, designating existing provisions as subpar. (A) and adding subpar. (B).
 
-Subsec. (c)(9)(B) to (D). Pub. L. 103–322, § 90205(b), amended subpars. (B) to (D) generally. Prior to amendment, subpars. (B) to (D) read as follows:
+Subsec. (c)(9)(B) to (D). Pub. L. 103–322, § 90205(b), amended subpars. (B) to (D) generally. Prior to amendment, subpars. (B) to (D) read as follows:
 
 “(B) Subject to subparagraph (C), in each of fiscal years 1990, 1991, 1992, and 1993, the Attorney General may transfer from the Fund not more than $150,000,000 to the Special Forfeiture Fund established by section 6073 of the Anti-Drug Abuse Act of 1988. Such transfers shall be made at the end of each quarter of the fiscal year involved and on a quarterly pro rata basis.
 
@@ -2554,11 +2554,11 @@ Subsec. (c)(9)(E). Pub. L. 103–317 added subpar. (E).
 
 1993—Subsec. (c)(9)(E). Pub. L. 103–121, which directed the striking of “subsection (E)”, was executed by striking subpar. (E) which read as follows: “Subject to the notification procedures contained in section 606 of Public Law 101–515, and after reserving the amounts authorized in subparagraph (D) above, any unobligated balances remaining in the Fund on September 30, 1991, and on September 30 of each fiscal year thereafter, shall be available to the Attorney General, without fiscal year limitation, for law enforcement, prosecution and correctional activities, and related training requirements of Federal agencies. Any amounts provided pursuant to this section may be used under authorities available to the organization receiving the funds.”
 
-1992—Subsec. (c)(1). Pub. L. 102–393, § 638(f)(1)(C)–(F), which directed amendment of par. (1) by adding subpar. (H), redesignating former subpar. (H) as (I), and substituting “(A)(iv)” for “(A)(ii)” and “(G), and (H)” for “and (G)” in the first sentence of par. following subpar. (I), was executed to par. (1) as amended by Pub. L. 102–395, § 114(c), to reflect the probable intent of Congress and the approval of Pub. L. 102–393 and Pub. L. 102–395 on the same day.
+1992—Subsec. (c)(1). Pub. L. 102–393, § 638(f)(1)(C)–(F), which directed amendment of par. (1) by adding subpar. (H), redesignating former subpar. (H) as (I), and substituting “(A)(iv)” for “(A)(ii)” and “(G), and (H)” for “and (G)” in the first sentence of par. following subpar. (I), was executed to par. (1) as amended by Pub. L. 102–395, § 114(c), to reflect the probable intent of Congress and the approval of Pub. L. 102–393 and Pub. L. 102–395 on the same day.
 
-Pub. L. 102–395, § 114(c), amended generally the first sentence of par. following subpar. (H). Prior to amendment, that sentence read as follows: “Amounts for paying the expenses authorized by subparagraphs (A)(ii), (B), (C), (F), and (G) shall be specified in appropriations acts.”
+Pub. L. 102–395, § 114(c), amended generally the first sentence of par. following subpar. (H). Prior to amendment, that sentence read as follows: “Amounts for paying the expenses authorized by subparagraphs (A)(ii), (B), (C), (F), and (G) shall be specified in appropriations acts.”
 
-Subsec. (c)(1)(A). Pub. L. 102–393, § 638(f)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the payment, at the discretion of the Attorney General, of any expenses necessary to seize, detain, inventory, safeguard, maintain, advertise, or sell property under seizure, detention, or forfeited pursuant to any law enforced or administered by the Department of Justice, or of any other necessary expenses incident to the seizure, detention, or forfeiture of such property; such payments may include—
+Subsec. (c)(1)(A). Pub. L. 102–393, § 638(f)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the payment, at the discretion of the Attorney General, of any expenses necessary to seize, detain, inventory, safeguard, maintain, advertise, or sell property under seizure, detention, or forfeited pursuant to any law enforced or administered by the Department of Justice, or of any other necessary expenses incident to the seizure, detention, or forfeiture of such property; such payments may include—
 
 “(i) payments for contract services, the employment of outside contractors to operate and manage properties or provide other specialized services as necessary to dispose of such properties in an effort to maximize the return from such properties, and payments to reimburse any Federal, State, or local agency for any expenditures made to perform the foregoing functions; and
 
@@ -2566,21 +2566,21 @@ Subsec. (c)(1)(A). Pub. L. 102–393, § 638(f)(1)(A), amended subpar. (A) gen
 
 Subsec. (c)(1)(B). Pub. L. 102–550 inserted “or of sections 1956 and 1957 of title 18, sections 5313 and 5324 of title 31, and section 6050I of the Internal Revenue Code of 1986” after “United States”.
 
-Subsec. (c)(1)(F). Pub. L. 102–393, § 638(f)(1)(B), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “for equipping for law enforcement functions any government-owned or leased vessels, vehicles, and aircraft available for official use by any federal agency participating in the Fund;”.
+Subsec. (c)(1)(F). Pub. L. 102–393, § 638(f)(1)(B), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “for equipping for law enforcement functions any government-owned or leased vessels, vehicles, and aircraft available for official use by any federal agency participating in the Fund;”.
 
-Subsec. (c)(1)(H), (I). Pub. L. 102–393, § 638(f)(1)(C)–(E), added subpar. (H) and redesignated former subpar. (H) as (I).
+Subsec. (c)(1)(H), (I). Pub. L. 102–393, § 638(f)(1)(C)–(E), added subpar. (H) and redesignated former subpar. (H) as (I).
 
-Subsec. (c)(4). Pub. L. 102–393, § 638(f)(2), inserted “Federal,” before “State” in subpar. (B) and added subpar. (C).
+Subsec. (c)(4). Pub. L. 102–393, § 638(f)(2), inserted “Federal,” before “State” in subpar. (B) and added subpar. (C).
 
-Subsec. (c)(6)(B)(v). Pub. L. 102–393, § 638(f)(3), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “any defendant’s equity in property valued at $1,000,000 or more; and”.
+Subsec. (c)(6)(B)(v). Pub. L. 102–393, § 638(f)(3), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “any defendant’s equity in property valued at $1,000,000 or more; and”.
 
-Subsec. (c)(9)(A). Pub. L. 102–393, § 638(f)(4), substituted “(A)(iv)” for “(A)(ii)” and “(G), and (H)” for “and (G)”.
+Subsec. (c)(9)(A). Pub. L. 102–393, § 638(f)(4), substituted “(A)(iv)” for “(A)(ii)” and “(G), and (H)” for “and (G)”.
 
-Subsec. (c)(9)(E). Pub. L. 102–395, § 114(b), struck out “to be transferred to any Federal agency” after “without fiscal year limitation,” and substituted for period at end “of Federal agencies. Any amounts provided pursuant to this section may be used under authorities available to the organization receiving the funds.”
+Subsec. (c)(9)(E). Pub. L. 102–395, § 114(b), struck out “to be transferred to any Federal agency” after “without fiscal year limitation,” and substituted for period at end “of Federal agencies. Any amounts provided pursuant to this section may be used under authorities available to the organization receiving the funds.”
 
-Pub. L. 102–393, § 638(f)(5), struck out “to procure vehicles, equipment, and other capital investment items” before “for law enforcement”.
+Pub. L. 102–393, § 638(f)(5), struck out “to procure vehicles, equipment, and other capital investment items” before “for law enforcement”.
 
-Subsec. (c)(11), (12). Pub. L. 102–393, § 638(f)(6), added pars. (11) and (12) and struck out former par. (11) which read as follows: “For the purposes of this subsection, property is forfeited pursuant to a law enforced or administered by the Department of Justice if it is forfeited pursuant to—
+Subsec. (c)(11), (12). Pub. L. 102–393, § 638(f)(6), added pars. (11) and (12) and struck out former par. (11) which read as follows: “For the purposes of this subsection, property is forfeited pursuant to a law enforced or administered by the Department of Justice if it is forfeited pursuant to—
 
 “(A) any criminal forfeiture proceeding;
 
@@ -2590,9 +2590,9 @@ Subsec. (c)(11), (12). Pub. L. 102–393, § 638(f)(6), added pars. (11) and (
 
 except to the extent that the seizure was effected by a Customs officer or that custody was maintained by the United States Customs Service in which case the provisions of section 613A of the Tariff Act of 1930 (19 U.S.C. 1613a) shall apply.”
 
-1991—Subsec. (c)(1). Pub. L. 102–140, § 112(1), substituted “law enforcement purposes” for “purposes of the Department of Justice” in introductory provisions.
+1991—Subsec. (c)(1). Pub. L. 102–140, § 112(1), substituted “law enforcement purposes” for “purposes of the Department of Justice” in introductory provisions.
 
-Subsec. (c)(1)(C). Pub. L. 102–140, § 112(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “at the discretion of the Attorney General, the payment of awards for information or assistance leading to—
+Subsec. (c)(1)(C). Pub. L. 102–140, § 112(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “at the discretion of the Attorney General, the payment of awards for information or assistance leading to—
 
 “(i) a civil or criminal forfeiture under the Controlled Substances Act or the Controlled Substances Import and Export Act;
 
@@ -2602,59 +2602,59 @@ Subsec. (c)(1)(C). Pub. L. 102–140, § 112(2), added subpar. (C) and struck 
 
 “(iv) a criminal forfeiture under section 982 of title 18.”
 
-Subsec. (c)(1)(F). Pub. L. 102–140, § 112(3), (4), struck out “drug” before “law enforcement functions” and substituted “any federal agency participating in the Fund” for “the Drug Enforcement Administration, the Federal Bureau of Investigation, the Immigration and Naturalization Service, or the United States Marshals Service”.
+Subsec. (c)(1)(F). Pub. L. 102–140, § 112(3), (4), struck out “drug” before “law enforcement functions” and substituted “any federal agency participating in the Fund” for “the Drug Enforcement Administration, the Federal Bureau of Investigation, the Immigration and Naturalization Service, or the United States Marshals Service”.
 
-Subsec. (c)(4). Pub. L. 102–140, § 112(5), added par. (4) and struck out former par. (4) which read as follows: “There shall be deposited in the Fund all amounts from the forfeiture of property under any law enforced or administered by the Department of Justice, except all proceeds of forfeitures available for use by the Secretary of the Treasury or the Secretary of the Interior pursuant to section 11(d) of the Endangered Species Act (16 U.S.C. 1540(d)) or section 6(d) of the Lacey Act Amendments of 1981 (16 U.S.C. 3375(d)) or the Postmaster General of the United States pursuant to section 2003(b)(7) of title 39.”
+Subsec. (c)(4). Pub. L. 102–140, § 112(5), added par. (4) and struck out former par. (4) which read as follows: “There shall be deposited in the Fund all amounts from the forfeiture of property under any law enforced or administered by the Department of Justice, except all proceeds of forfeitures available for use by the Secretary of the Treasury or the Secretary of the Interior pursuant to section 11(d) of the Endangered Species Act (16 U.S.C. 1540(d)) or section 6(d) of the Lacey Act Amendments of 1981 (16 U.S.C. 3375(d)) or the Postmaster General of the United States pursuant to section 2003(b)(7) of title 39.”
 
-Subsec. (c)(5). Pub. L. 102–140, § 112(6), inserted “, and in any holding accounts associated with the Fund” after first reference to “Fund”.
+Subsec. (c)(5). Pub. L. 102–140, § 112(6), inserted “, and in any holding accounts associated with the Fund” after first reference to “Fund”.
 
-Subsec. (c)(9)(C). Pub. L. 102–140, § 112(7), inserted at end “Further, transfers under subsection (B) may be made only to the extent that the sum of the transfers for the current fiscal year and the unobligated balance at the beginning of the current fiscal year for the Special Forfeiture Fund do not exceed $150,000,000.”
+Subsec. (c)(9)(C). Pub. L. 102–140, § 112(7), inserted at end “Further, transfers under subsection (B) may be made only to the extent that the sum of the transfers for the current fiscal year and the unobligated balance at the beginning of the current fiscal year for the Special Forfeiture Fund do not exceed $150,000,000.”
 
-Subsec. (c)(9)(E). Pub. L. 102–140, § 112(8)(B), which directed the substitution of “to be transferred to any Federal agency to procure vehicles, equipment, and other capital investment items for law enforcement, prosecution and correctional activities, and related training requirements” for “to procure vehicles, equipment, and other capital investment items for the law enforcement, prosecution and correctional activities of the Department of Justice” was executed by making the substitution for the quoted words which in the original contained a comma after “prosecution”, to reflect the probable intent of Congress.
+Subsec. (c)(9)(E). Pub. L. 102–140, § 112(8)(B), which directed the substitution of “to be transferred to any Federal agency to procure vehicles, equipment, and other capital investment items for law enforcement, prosecution and correctional activities, and related training requirements” for “to procure vehicles, equipment, and other capital investment items for the law enforcement, prosecution and correctional activities of the Department of Justice” was executed by making the substitution for the quoted words which in the original contained a comma after “prosecution”, to reflect the probable intent of Congress.
 
-Pub. L. 102–140, § 112(8)(A), substituted “of each fiscal year thereafter” for “, 1992”.
+Pub. L. 102–140, § 112(8)(A), substituted “of each fiscal year thereafter” for “, 1992”.
 
 Pub. L. 102–27 added subpar. (E).
 
-1990—Subsec. (c)(1)(C). Pub. L. 101–647, § 2005, amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “the payment of awards for information or assistance leading to a civil or criminal forfeiture under any law enforced or administered by the Department of Justice., at the discretion of the Attorney General;”.
+1990—Subsec. (c)(1)(C). Pub. L. 101–647, § 2005, amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “the payment of awards for information or assistance leading to a civil or criminal forfeiture under any law enforced or administered by the Department of Justice., at the discretion of the Attorney General;”.
 
-Pub. L. 101–647, § 1601, which directed substitution of “the payment of awards for information or assistance leading to a civil or criminal forfeiture under any law enforced or administered by the Department of Justice.” for “the payment of awards for information or assistance leading to civil or criminal forfeiture under the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 800 et seq.) or a criminal forfeiture under the Racketeer Influenced and Corrupt Organizations statute (18 U.S.C. 1961 et seq.)”, was executed by making the substitution for “the payment of awards for information or assistance leading to a civil or criminal forfeiture under the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 800 et seq.) or a criminal forfeiture under the Racketeer Influenced and Corrupt Organizations statute (18 U.S.C. 1961 et seq.)” to reflect the probable intent of Congress.
+Pub. L. 101–647, § 1601, which directed substitution of “the payment of awards for information or assistance leading to a civil or criminal forfeiture under any law enforced or administered by the Department of Justice.” for “the payment of awards for information or assistance leading to civil or criminal forfeiture under the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 800 et seq.) or a criminal forfeiture under the Racketeer Influenced and Corrupt Organizations statute (18 U.S.C. 1961 et seq.)”, was executed by making the substitution for “the payment of awards for information or assistance leading to a civil or criminal forfeiture under the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 800 et seq.) or a criminal forfeiture under the Racketeer Influenced and Corrupt Organizations statute (18 U.S.C. 1961 et seq.)” to reflect the probable intent of Congress.
 
-Subsec. (c)(6). Pub. L. 101–647, § 2006, struck out “two” after “fiscal year,” in introductory provisions and added subpar. (C).
+Subsec. (c)(6). Pub. L. 101–647, § 2006, struck out “two” after “fiscal year,” in introductory provisions and added subpar. (C).
 
-Subsec. (c)(9). Pub. L. 101–647, § 2001(a), inserted “(A)” before “There” and substituted subpars. (B) to (D) for “For each of fiscal years 1991, 1992, and 1993, the Attorney General shall transfer not to exceed $150,000,000 in unobligated amounts available in the Fund to the Special Forfeiture Fund: *Provided*, That such amounts will be transferred on a quarterly basis: *Provided further*, That, upon each transfer, not to exceed $15,000,000, or, if determined by the Attorney General to be necessary to meet forfeiture program expenses, an amount not to exceed one-tenth of the previous year’s obligations shall be retained in the Fund and remain available for payment of authorized expenses: *Provided further*, That, any unobligated amounts in excess of $150,000,000 shall remain on deposit in the Fund.”
+Subsec. (c)(9). Pub. L. 101–647, § 2001(a), inserted “(A)” before “There” and substituted subpars. (B) to (D) for “For each of fiscal years 1991, 1992, and 1993, the Attorney General shall transfer not to exceed $150,000,000 in unobligated amounts available in the Fund to the Special Forfeiture Fund: *Provided*, That such amounts will be transferred on a quarterly basis: *Provided further*, That, upon each transfer, not to exceed $15,000,000, or, if determined by the Attorney General to be necessary to meet forfeiture program expenses, an amount not to exceed one-tenth of the previous year’s obligations shall be retained in the Fund and remain available for payment of authorized expenses: *Provided further*, That, any unobligated amounts in excess of $150,000,000 shall remain on deposit in the Fund.”
 
 Pub. L. 101–509 amended second sentence generally, substituting sentence providing for transfers to Special Forfeiture Fund in fiscal years 1991, 1992, and 1993 for sentence that read as follows: “At the end of each of fiscal years 1990, 1991, and 1992, unobligated amounts not to exceed $150,000,000 remaining in the Fund shall be deposited in the Special Forfeiture Fund, except that an amount not to exceed $15,000,000 or, if determined necessary by the Attorney General to meet asset specific expenses, an amount equal to one-twelfth of the previous year’s expenditures may be carried forward and remain available for appropriation in the next fiscal year.”
 
-Subsec. (c)(10), (11). Pub. L. 101–647, § 2002, added par. (10) and redesignated former par. (10) as (11).
+Subsec. (c)(10), (11). Pub. L. 101–647, § 2002, added par. (10) and redesignated former par. (10) as (11).
 
 1988—Subsec. (c). Pub. L. 100–690 amended subsec. (c) generally, revising and restating as pars. (1) to (10) provisions of former pars. (1) to (8).
 
 1987—Subsec. (c)(1)(H). Pub. L. 100–202 added subpar. (H).
 
-1986—Subsec. (c)(1)(A). Pub. L. 99–570, § 1152(a)(1)(2), inserted provisions allowing payments that are necessary and direct program-related expenses for the purchase or lease of automatic data processing equipment, training, printing, contracting for services directly related to the processing of and accounting for forfeitures, and the storage, protection, and destruction of controlled substances.
+1986—Subsec. (c)(1)(A). Pub. L. 99–570, § 1152(a)(1)(2), inserted provisions allowing payments that are necessary and direct program-related expenses for the purchase or lease of automatic data processing equipment, training, printing, contracting for services directly related to the processing of and accounting for forfeitures, and the storage, protection, and destruction of controlled substances.
 
-Subsec. (c)(1)(B) to (E). Pub. L. 99–570, § 1152(a)(1)(3), added subpar. (B) and redesignated former subpars. (B) to (E) as (C) to (F), respectively.
+Subsec. (c)(1)(B) to (E). Pub. L. 99–570, § 1152(a)(1)(3), added subpar. (B) and redesignated former subpars. (B) to (E) as (C) to (F), respectively.
 
-Subsec. (c)(1)(F). Pub. L. 99–646, § 27(a), which directed the amendment of subpar. (E) by inserting “the Federal Bureau of Investigation, the United States Marshals Service,” after “for official use by” and a comma before “or” was not executed in view of prior redesignation of subpar. (E) as (F) and substantively similar amendment by section 1152(a) of Pub. L. 99–570.
+Subsec. (c)(1)(F). Pub. L. 99–646, § 27(a), which directed the amendment of subpar. (E) by inserting “the Federal Bureau of Investigation, the United States Marshals Service,” after “for official use by” and a comma before “or” was not executed in view of prior redesignation of subpar. (E) as (F) and substantively similar amendment by section 1152(a) of Pub. L. 99–570.
 
-Pub. L. 99–570, § 1152(a)(1)(3), (4), redesignated former subpar. (E) as (F) and amended it generally. Prior to amendment, subpar. (E) read as follows: “for equipping for law enforcement functions of forfeited vessels, vehicles, and aircraft retained as provided by law for official use by the Drug Enforcement Administration or the Immigration and Naturalization Service; and”. Former subpar. (F) redesignated (G).
+Pub. L. 99–570, § 1152(a)(1)(3), (4), redesignated former subpar. (E) as (F) and amended it generally. Prior to amendment, subpar. (E) read as follows: “for equipping for law enforcement functions of forfeited vessels, vehicles, and aircraft retained as provided by law for official use by the Drug Enforcement Administration or the Immigration and Naturalization Service; and”. Former subpar. (F) redesignated (G).
 
-Subsec. (c)(1)(G). Pub. L. 99–570, § 1152(a)(1)(3), redesignated former subpar. (F) as (G).
+Subsec. (c)(1)(G). Pub. L. 99–570, § 1152(a)(1)(3), redesignated former subpar. (F) as (G).
 
-Subsec. (c)(4). Pub. L. 99–570, § 1152(a)(1)(5), and Pub. L. 99–646, § 27(b), made substantially identical amendments substituting “, except all proceeds of forfeitures available for use by the Secretary of the Treasury or the Secretary of the Interior pursuant to section 11(d) of the Endangered Species Act (16 U.S.C. 1540(d)) or section 6(d) of the Lacey Act Amendments of 1981 (16 U.S.C. 3375(d))” for “remaining after the payment of expenses for forfeiture and sale authorized by law”.
+Subsec. (c)(4). Pub. L. 99–570, § 1152(a)(1)(5), and Pub. L. 99–646, § 27(b), made substantially identical amendments substituting “, except all proceeds of forfeitures available for use by the Secretary of the Treasury or the Secretary of the Interior pursuant to section 11(d) of the Endangered Species Act (16 U.S.C. 1540(d)) or section 6(d) of the Lacey Act Amendments of 1981 (16 U.S.C. 3375(d))” for “remaining after the payment of expenses for forfeiture and sale authorized by law”.
 
-Subsec. (c)(8), (9). Pub. L. 99–570, § 1152(a)(1)(6), redesignated par. (9) as (8), and struck out former par. (8) which provided for an authorization of appropriations for fiscal years 1984 to 1987 and deposit of excess amounts in the general fund of the Treasury of the United States.
+Subsec. (c)(8), (9). Pub. L. 99–570, § 1152(a)(1)(6), redesignated par. (9) as (8), and struck out former par. (8) which provided for an authorization of appropriations for fiscal years 1984 to 1987 and deposit of excess amounts in the general fund of the Treasury of the United States.
 
-1984—Subsec. (c). Pub. L. 98–473, § 310, added subsec. (c).
+1984—Subsec. (c). Pub. L. 98–473, § 310, added subsec. (c).
 
-Subsec. (c)(1)(E), (F). Pub. L. 98–473, § 2303(a), added subpars. (E) and (F).
+Subsec. (c)(1)(E), (F). Pub. L. 98–473, § 2303(a), added subpars. (E) and (F).
 
-Subsec. (c)(3) to (9). Pub. L. 98–473, § 2303(b), added par. (3) and redesignated existing pars. (3) to (8) as (4) to (9), respectively.
+Subsec. (c)(3) to (9). Pub. L. 98–473, § 2303(b), added par. (3) and redesignated existing pars. (3) to (8) as (4) to (9), respectively.
 
-1982—Pub. L. 97–258, § 2(g)(1)(B), substituted “Availability of appropriations” for “Appropriations for administrative expenses; notarial fees; meals and lodging of bailiffs” in section catchline.
+1982—Pub. L. 97–258, § 2(g)(1)(B), substituted “Availability of appropriations” for “Appropriations for administrative expenses; notarial fees; meals and lodging of bailiffs” in section catchline.
 
-Subsecs. (a), (b). Pub. L. 97–258, § 2(g)(1)(C), (D), designated existing provisions as subsec. (a) and added subsec. (b).
+Subsecs. (a), (b). Pub. L. 97–258, § 2(g)(1)(C), (D), designated existing provisions as subsec. (a) and added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2664,11 +2664,11 @@ Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–322, title XXXII, § 320913(b), Sept. 13, 1994, 108 Stat. 2128, provided that: “The amendment made by subsection (a) [amending this section] shall apply to all claims pending at the time of or commenced subsequent to the date of enactment of this Act [Sept. 13, 1994].”
+Pub. L. 103–322, title XXXII, § 320913(b), Sept. 13, 1994, 108 Stat. 2128, provided that: “The amendment made by subsection (a) [amending this section] shall apply to all claims pending at the time of or commenced subsequent to the date of enactment of this Act [Sept. 13, 1994].”
 
 **Transfer of Forfeited Real or Personal Property**
 
-Pub. L. 108–199, div. B, title I, § 108, Jan. 23, 2004, 118 Stat. 61, provided that:
+Pub. L. 108–199, div. B, title I, § 108, Jan. 23, 2004, 118 Stat. 61, provided that:
 
 > **“(a)** Hereafter, the Attorney General is authorized to transfer, under such terms and conditions as the Attorney General shall specify, forfeited real or personal property of limited or marginal value, as such value is determined by guidelines established by the Attorney General, to a State or local government agency, or its designated contractor or transferee, for use to support drug abuse treatment, drug and crime prevention and education, housing, job skills, and other community-based public health and safety programs.
 
@@ -2676,17 +2676,17 @@ Pub. L. 108–199, div. B, title I, § 108, Jan. 23, 2004, 118 Stat. 61, provi
 
 **Grant Programs; Availability of Funds to Jails With Pay-to-Stay Programs**
 
-Pub. L. 106–553, § 1(a)(2) [title I, § 117, formerly § 118], Dec. 21, 2000, 114 Stat. 2762, 2762A–69; renumbered § 1(a)(2) [title I, § 117], Pub. L. 106–554, § 1(a)(4) [div. A, § 213(a)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–179, provided that: “Notwithstanding any other provision of law, for fiscal 2001 and hereafter, with respect to any grant program for which amounts are made available under this title, no grant funds may be made available to any local jail that runs ‘pay-to-stay programs.’.”
+Pub. L. 106–553, § 1(a)(2) [title I, § 117, formerly § 118], Dec. 21, 2000, 114 Stat. 2762, 2762A–69; renumbered § 1(a)(2) [title I, § 117], Pub. L. 106–554, § 1(a)(4) [div. A, § 213(a)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–179, provided that: “Notwithstanding any other provision of law, for fiscal 2001 and hereafter, with respect to any grant program for which amounts are made available under this title, no grant funds may be made available to any local jail that runs ‘pay-to-stay programs.’.”
 
 **Use of Funds Made Available for Removal of Substances Associated With Illegal Manufacture of Amphetamine and Methamphetamine**
 
-Pub. L. 106–310, div. B, title XXXVI, § 3621(c)(1), Oct. 17, 2000, 114 Stat. 1231, provided that: “Any amounts made available from the Department of Justice Assets Forfeiture Fund in a fiscal year by reason of the amendment made by subsection (a) [amending this section] shall supplement, and not supplant, any other amounts made available to the Department of Justice in such fiscal year from other sources for payment of costs described in section 524(c)(1)(E)(ii) of title 28, United States Code, as so amended.”
+Pub. L. 106–310, div. B, title XXXVI, § 3621(c)(1), Oct. 17, 2000, 114 Stat. 1231, provided that: “Any amounts made available from the Department of Justice Assets Forfeiture Fund in a fiscal year by reason of the amendment made by subsection (a) [amending this section] shall supplement, and not supplant, any other amounts made available to the Department of Justice in such fiscal year from other sources for payment of costs described in section 524(c)(1)(E)(ii) of title 28, United States Code, as so amended.”
 
 **Acquisition of Equipment or Interim Services With Counterterrorism Funds**
 
-Pub. L. 106–113, div. B, § 1000(a)(1) [title I, § 109], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, provided that: “Sections 115 [set out below] and 127 [42 U.S.C. 1997e note] of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1999 (as contained in section 101(b) of division A of Public Law 105–277) shall apply to fiscal year 2000 and thereafter.”
+Pub. L. 106–113, div. B, § 1000(a)(1) [title I, § 109], Nov. 29, 1999, 113 Stat. 1535, 1501A–20, provided that: “Sections 115 [set out below] and 127 [42 U.S.C. 1997e note] of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1999 (as contained in section 101(b) of division A of Public Law 105–277) shall apply to fiscal year 2000 and thereafter.”
 
-Pub. L. 105–277, div. A, § 101(b) [title I, § 115], Oct. 21, 1998, 112 Stat. 2681–50, 2681–68, provided that:
+Pub. L. 105–277, div. A, § 101(b) [title I, § 115], Oct. 21, 1998, 112 Stat. 2681–50, 2681–68, provided that:
 
 > **“(a)**
 
@@ -2708,11 +2708,11 @@ Pub. L. 105–277, div. A, § 101(b) [title I, § 115], Oct. 21, 1998, 112 S
 
 **Grant Programs; “Tribe”, “Indian Tribe”, or “Tribal” Defined**
 
-Pub. L. 105–277, div. A, § 101(b) [title I, § 113], Oct. 21, 1998, 112 Stat. 2681–50, 2681–67, as amended by Pub. L. 106–31, title III, § 3028, May 21, 1999, 113 Stat. 102; Pub. L. 106–113, div. B, § 1000(a)(1) [title I, § 116], Nov. 29, 1999, 113 Stat. 1535, 1501A–21, provided that: “Notwithstanding any other provision of law for fiscal year 2000 and hereafter, with respect to any grant program for which amounts are made available under this title, the terms ‘tribe’, ‘Indian tribe’ or ‘tribal’ mean of or relating to an Indian tribe as that term is defined in section 4(e) of the Indian Self Determination and Education Assistance Act (Public Law 93–638, as amended; 25 U.S.C. 450b(e) (1998) [now 25 U.S.C. 5304(e)]).”
+Pub. L. 105–277, div. A, § 101(b) [title I, § 113], Oct. 21, 1998, 112 Stat. 2681–50, 2681–67, as amended by Pub. L. 106–31, title III, § 3028, May 21, 1999, 113 Stat. 102; Pub. L. 106–113, div. B, § 1000(a)(1) [title I, § 116], Nov. 29, 1999, 113 Stat. 1535, 1501A–21, provided that: “Notwithstanding any other provision of law for fiscal year 2000 and hereafter, with respect to any grant program for which amounts are made available under this title, the terms ‘tribe’, ‘Indian tribe’ or ‘tribal’ mean of or relating to an Indian tribe as that term is defined in section 4(e) of the Indian Self Determination and Education Assistance Act (Public Law 93–638, as amended; 25 U.S.C. 450b(e) (1998) [now 25 U.S.C. 5304(e)]).”
 
 **Counterterrorism Fund**
 
-Pub. L. 107–56, title I, § 101, Oct. 26, 2001, 115 Stat. 276, provided that:
+Pub. L. 107–56, title I, § 101, Oct. 26, 2001, 115 Stat. 276, provided that:
 
 > **“(a) Establishment; Availability.—** There is hereby established in the Treasury of the United States a separate fund to be known as the ‘Counterterrorism Fund’, amounts in which shall remain available without fiscal year limitation—
 
@@ -2732,7 +2732,7 @@ Pub. L. 104–19, title III, July 27, 1995, 109 Stat. 249, provided that: “The
 
 **Unauthorized Transfers From Department of Justice Accounts; Control of Allocation of Funds by Authority Other Than Office of Management and Budget or Department of Justice**
 
-Section 110 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, and as enacted into law by Pub. L. 104–91, title I, § 101(a), Jan. 6, 1996, 110 Stat. 11, as amended by Pub. L. 104–99, title II, § 211, Jan. 26, 1996, 110 Stat. 37, provided that:
+Section 110 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, and as enacted into law by Pub. L. 104–91, title I, § 101(a), Jan. 6, 1996, 110 Stat. 11, as amended by Pub. L. 104–99, title II, § 211, Jan. 26, 1996, 110 Stat. 37, provided that:
 
 > “Hereafter, notwithstanding any other provision of law—
 
@@ -2742,43 +2742,43 @@ Section 110 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of
 
 Similar provisions were contained in the following prior appropriation act:
 
-Pub. L. 103–317, title I, § 113, Aug. 26, 1994, 108 Stat. 1736.
+Pub. L. 103–317, title I, § 113, Aug. 26, 1994, 108 Stat. 1736.
 
 **Use of Deposits Transferred From Assets Forfeiture Fund to Buildings and Facilities Account of Federal Prison System**
 
-Pub. L. 103–121, title I, § 106, Oct. 27, 1993, 107 Stat. 1163, provided that: “For fiscal year 1994 and thereafter, deposits transferred from the Assets Forfeiture Fund to the Buildings and Facilities account of the Federal Prison System may be used for the construction of correctional institutions, and the construction and renovation of Immigration and Naturalization Service and United States Marshals Service detention facilities, and for the authorized purposes of the Cooperative Agreement Program.”
+Pub. L. 103–121, title I, § 106, Oct. 27, 1993, 107 Stat. 1163, provided that: “For fiscal year 1994 and thereafter, deposits transferred from the Assets Forfeiture Fund to the Buildings and Facilities account of the Federal Prison System may be used for the construction of correctional institutions, and the construction and renovation of Immigration and Naturalization Service and United States Marshals Service detention facilities, and for the authorized purposes of the Cooperative Agreement Program.”
 
 [For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.]
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 102–395, title I, § 107, Oct. 6, 1992, 106 Stat. 1841.
+Pub. L. 102–395, title I, § 107, Oct. 6, 1992, 106 Stat. 1841.
 
-Pub. L. 102–140, title I, § 107, Oct. 28, 1991, 105 Stat. 794.
+Pub. L. 102–140, title I, § 107, Oct. 28, 1991, 105 Stat. 794.
 
-Pub. L. 101–515, title II, § 208, Nov. 5, 1990, 104 Stat. 2119.
+Pub. L. 101–515, title II, § 208, Nov. 5, 1990, 104 Stat. 2119.
 
 Pub. L. 101–162, title II, as added Pub. L. 101–302, title II, May 25, 1990, 104 Stat. 216.
 
 **Notice and Approval of Transfer of Subsection (c)(1)(H) Deposits**
 
-Pub. L. 100–202, § 101(a) [title II, § 210(b)], Dec. 22, 1987, 101 Stat. 1329, 1329–18, provided that: “Amounts proposed for transfer pursuant to subsection (a) [amending this section] shall be transferred only upon notification by the Attorney General to the Committees on Appropriations of the House of Representatives and the Senate and approval under said Committees’ policies concerning the reprogramming of funds.”
+Pub. L. 100–202, § 101(a) [title II, § 210(b)], Dec. 22, 1987, 101 Stat. 1329, 1329–18, provided that: “Amounts proposed for transfer pursuant to subsection (a) [amending this section] shall be transferred only upon notification by the Attorney General to the Committees on Appropriations of the House of Representatives and the Senate and approval under said Committees’ policies concerning the reprogramming of funds.”
 
-## § 525. Procurement of law books, reference books, and periodicals; sale and exchange
+## § 525. Procurement of law books, reference books, and periodicals; sale and exchange
 
 In the procurement of law books, reference books, and periodicals, the Attorney General may exchange or sell similar items and apply the exchange allowances or proceeds of such sales in whole or in part payment therefor.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 615.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 615.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 341e. | July 28, 1950, ch. 503, § 3, 64 Stat. 380. |
+|  | 5 U.S.C. 341e. | July 28, 1950, ch. 503, § 3, 64 Stat. 380. |
 
 The words “Attorney General” are substituted for “Department of Justice”.
 
-## § 526. Authority of Attorney General to investigate United States attorneys, marshals, trustees, clerks of court, and others
+## § 526. Authority of Attorney General to investigate United States attorneys, marshals, trustees, clerks of court, and others
 
 **(a)** The Attorney General may investigate the official acts, records, and accounts of—
 
@@ -2790,14 +2790,14 @@ for which purpose all the official papers, rec­ords, dockets, and accounts of t
 
 **(b)** Appropriations for the examination of judicial officers are available for carrying out this section.
 
-(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 615; amended Pub. L. 95–598, title II, §§ 219(a), (b), 220, Nov. 6, 1978, 92 Stat. 2662; Pub. L. 99–554, title I, § 144(c), Oct. 27, 1986, 100 Stat. 3096; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 107–273, div. B, title IV, § 4003(b)(2), Nov. 2, 2002, 116 Stat. 1811.)
+(Added Pub. L. 89–554, § 4(c), Sept. 6, 1966, 80 Stat. 615; amended Pub. L. 95–598, title II, §§ 219(a), (b), 220, Nov. 6, 1978, 92 Stat. 2662; Pub. L. 99–554, title I, § 144(c), Oct. 27, 1986, 100 Stat. 3096; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 107–273, div. B, title IV, § 4003(b)(2), Nov. 2, 2002, 116 Stat. 1811.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 341b. | July 28, 1950, ch. 503, § 4, 64 Stat. 380. |
-|  |  | July 7, 1958, Pub. L. 85–508, § 12(q), 72 Stat. 349. |
+|  | 5 U.S.C. 341b. | July 28, 1950, ch. 503, § 4, 64 Stat. 380. |
+|  |  | July 7, 1958, Pub. L. 85–508, § 12(q), 72 Stat. 349. |
 
 In subsection (b), the words “now or hereafter” and “the provisions of” are omitted as unnecessary.
 
@@ -2805,25 +2805,25 @@ In subsection (b), the words “now or hereafter” and “the provisions of” 
 
 **Codification**
 
-Pub. L. 95–598, title IV, § 408(c), Nov. 6, 1978, 92 Stat. 2687, as amended by Pub. L. 98–166, title II, § 200, Nov. 28, 1983, 97 Stat. 1081; Pub. L. 98–353, title III, § 323, July 10, 1984, 98 Stat. 358; Pub. L. 99–429, Sept. 30, 1986, 100 Stat. 985; Pub. L. 99–500, § 101(b) [title II, § 200], Oct. 18, 1986, 100 Stat. 1783–39, 1783–45, and Pub. L. 99–591, § 101(b) [title II, § 200], Oct. 30, 1986, 100 Stat. 3341–39, 3341–45; Pub. L. 99–554, title III, § 307(a), Oct. 27, 1986, 100 Stat. 3125, provided for the deletion of any references to United States Trustees in this title at a prospective date, prior to repeal by Pub. L. 99–554, title III, § 307(b), Oct. 27, 1986, 100 Stat. 3125.
+Pub. L. 95–598, title IV, § 408(c), Nov. 6, 1978, 92 Stat. 2687, as amended by Pub. L. 98–166, title II, § 200, Nov. 28, 1983, 97 Stat. 1081; Pub. L. 98–353, title III, § 323, July 10, 1984, 98 Stat. 358; Pub. L. 99–429, Sept. 30, 1986, 100 Stat. 985; Pub. L. 99–500, § 101(b) [title II, § 200], Oct. 18, 1986, 100 Stat. 1783–39, 1783–45, and Pub. L. 99–591, § 101(b) [title II, § 200], Oct. 30, 1986, 100 Stat. 3341–39, 3341–45; Pub. L. 99–554, title III, § 307(a), Oct. 27, 1986, 100 Stat. 3125, provided for the deletion of any references to United States Trustees in this title at a prospective date, prior to repeal by Pub. L. 99–554, title III, § 307(b), Oct. 27, 1986, 100 Stat. 3125.
 
 **Amendments**
 
-2002—Pub. L. 107–273, § 4003(b)(2)(A), struck out “and” before “trustees” in section catchline.
+2002—Pub. L. 107–273, § 4003(b)(2)(A), struck out “and” before “trustees” in section catchline.
 
-Subsec. (a)(1). Pub. L. 107–273, § 4003(b)(2)(B), substituted “marshals,” for “marshals,,”.
+Subsec. (a)(1). Pub. L. 107–273, § 4003(b)(2)(B), substituted “marshals,” for “marshals,,”.
 
-1986—Pub. L. 99–554, § 144(c)(1), substituted “trustees” for “trustee” in section catchline.
+1986—Pub. L. 99–554, § 144(c)(1), substituted “trustees” for “trustee” in section catchline.
 
-Subsec. (a)(1). Pub. L. 99–554, § 144(c)(2)(A), inserted reference to trustees in cases under title 11.
+Subsec. (a)(1). Pub. L. 99–554, § 144(c)(2)(A), inserted reference to trustees in cases under title 11.
 
-Subsec. (a)(2). Pub. L. 99–554, § 144(c)(2)(B), struck out references to courts of the Canal Zone and trustees in cases under title 11.
+Subsec. (a)(2). Pub. L. 99–554, § 144(c)(2)(B), struck out references to courts of the Canal Zone and trustees in cases under title 11.
 
-1978—Pub. L. 95–598, § 219(b), substituted “marshals, and trustee” for “and marshals” in section catchline.
+1978—Pub. L. 95–598, § 219(b), substituted “marshals, and trustee” for “and marshals” in section catchline.
 
-Subsec. (a)(1). Pub. L. 95–518, § 219(a), substituted “marshals, and trustees” for “and marshals”.
+Subsec. (a)(1). Pub. L. 95–518, § 219(a), substituted “marshals, and trustees” for “and marshals”.
 
-Subsec. (a)(2). Pub. L. 95–598, § 220, substituted “officers, trustees in cases under title 11” for “officers, referees, trustees and receivers in bankruptcy” and “magistrates” for “commissioners”.
+Subsec. (a)(2). Pub. L. 95–598, § 220, substituted “officers, trustees in cases under title 11” for “officers, referees, trustees and receivers in bankruptcy” and “magistrates” for “commissioners”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2839,29 +2839,29 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(c) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-## § 527. Establishment of working capital fund
+## § 527. Establishment of working capital fund
 
 There is hereby authorized to be established a working capital fund for the Department of Justice, which shall be available, without fiscal year limitation, for expenses and equipment necessary for maintenance and operations of such administrative services as the Attorney General, with the approval of the Office of Management and Budget, determines may be performed more advantageously as central services. The capital of the fund shall consist of the amount of the fair and reasonable value of such inventories, equipment, and other assets and inventories on order pertaining to the services to be carried on by the fund as the Attorney General may transfer to the fund less related liabilities and unpaid obligations together with any appropriations made for the purpose of providing capital. The fund shall be reimbursed or credited with advance payments from applicable appropriations and funds of: (1) the Department of Justice, other Federal agencies, and other sources authorized by law for supplies, materials, and services; and (2) federally recognized tribes for supplies, materials, and services related to access to Federal law enforcement databases; at rates which will recover the expenses of operations including accrual of annual leave and depreciation of plant and equipment of the fund. The fund shall also be credited with other receipts from sale or exchange of property or in payment for loss or damage to property held by the fund. There shall be transferred into the Treasury as miscellaneous receipts, as of the close of each fiscal year, any net income after making provisions for prior year losses, if any.
 
-(Added Pub. L. 93–613, § 1(1), Jan. 2, 1975, 88 Stat. 1975; amended Pub. L. 116–260, div. B, title II, § 219, Dec. 27, 2020, 134 Stat. 1265.)
+(Added Pub. L. 93–613, § 1(1), Jan. 2, 1975, 88 Stat. 1975; amended Pub. L. 116–260, div. B, title II, § 219, Dec. 27, 2020, 134 Stat. 1265.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2020—Pub. L. 116–260, in third sentence, inserted “: (1)” before “the Department” and “; and (2) federally recognized tribes for supplies, materials, and services related to access to Federal law enfor cement databases;” after “and services”.
+2020—Pub. L. 116–260, in third sentence, inserted “: (1)” before “the Department” and “; and (2) federally recognized tribes for supplies, materials, and services related to access to Federal law enfor cement databases;” after “and services”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Debt Collection Improvement**
 
-Pub. L. 116–93, div. B, title II, § 218, Dec. 20, 2019, 133 Stat. 2415, provided that: “In this fiscal year and each fiscal year thereafter, amounts credited to and made available in the Department of Justice Working Capital Fund as an offsetting collection pursuant to section 11013 of Public Law 107–273 [set out below] shall be so credited and available only to the extent and in such amounts as provided in advance in appropriations Acts: *Provided*, That notwithstanding 31 U.S.C. 3302 or any other statute affecting the crediting of collections, the Attorney General may credit, as a discretionary offsetting collection, to the Department of Justice Working Capital Fund, for fiscal year 2020 and thereafter, up to three percent of all amounts collected pursuant to civil debt collection litigation activities of the Department of Justice; and such amounts so credited in fiscal year 2020 and thereafter shall remain available until expended, and shall be subject to the terms and conditions of that fund: *Provided further*, That any such amounts from the fund that the Attorney General determines are necessary to pay, first, for the costs of processing and tracking civil and criminal debt collection litigation activities, and thereafter for financial systems and for debt-collection-related personnel, administrative, and litigation expenses, in fiscal year 2020 and thereafter, shall be transferred to other appropriations accounts in the Department of Justice for paying the costs of such activities, and shall be in addition to any amounts otherwise made available for such purposes in those appropriations accounts: *Provided further*, That such transfer authority is in addition to any other transfer authority provided by law: *Provided further*, That any transfer of funds pursuant to this section shall be treated as a reprogramming of funds under section 505 of this Act [div. B of Pub. L. 116–93, 133 Stat. 2424] and shall not be available for obligation except in compliance with the procedures set forth in that section.”
+Pub. L. 116–93, div. B, title II, § 218, Dec. 20, 2019, 133 Stat. 2415, provided that: “In this fiscal year and each fiscal year thereafter, amounts credited to and made available in the Department of Justice Working Capital Fund as an offsetting collection pursuant to section 11013 of Public Law 107–273 [set out below] shall be so credited and available only to the extent and in such amounts as provided in advance in appropriations Acts: *Provided*, That notwithstanding 31 U.S.C. 3302 or any other statute affecting the crediting of collections, the Attorney General may credit, as a discretionary offsetting collection, to the Department of Justice Working Capital Fund, for fiscal year 2020 and thereafter, up to three percent of all amounts collected pursuant to civil debt collection litigation activities of the Department of Justice; and such amounts so credited in fiscal year 2020 and thereafter shall remain available until expended, and shall be subject to the terms and conditions of that fund: *Provided further*, That any such amounts from the fund that the Attorney General determines are necessary to pay, first, for the costs of processing and tracking civil and criminal debt collection litigation activities, and thereafter for financial systems and for debt-collection-related personnel, administrative, and litigation expenses, in fiscal year 2020 and thereafter, shall be transferred to other appropriations accounts in the Department of Justice for paying the costs of such activities, and shall be in addition to any amounts otherwise made available for such purposes in those appropriations accounts: *Provided further*, That such transfer authority is in addition to any other transfer authority provided by law: *Provided further*, That any transfer of funds pursuant to this section shall be treated as a reprogramming of funds under section 505 of this Act [div. B of Pub. L. 116–93, 133 Stat. 2424] and shall not be available for obligation except in compliance with the procedures set forth in that section.”
 
-Pub. L. 107–273, div. C, title I, § 11013(a), Nov. 2, 2002, 116 Stat. 1823, provided that: “Notwithstanding section 3302 of title 31, United States Code, or any other statute affecting the crediting of collections, the Attorney General may credit, as an offsetting collection, to the Department of Justice Working Capital Fund up to 3 percent of all amounts collected pursuant to civil debt collection litigation activities of the Department of Justice. Such amounts in the Working Capital Fund shall remain available until expended and shall be subject to the terms and conditions of that fund, and shall be used first, for paying the costs of processing and tracking civil and criminal debt-collection litigation, and, thereafter, for financial systems and for debt-collection-related personnel, administrative, and litigation expenses.”
+Pub. L. 107–273, div. C, title I, § 11013(a), Nov. 2, 2002, 116 Stat. 1823, provided that: “Notwithstanding section 3302 of title 31, United States Code, or any other statute affecting the crediting of collections, the Attorney General may credit, as an offsetting collection, to the Department of Justice Working Capital Fund up to 3 percent of all amounts collected pursuant to civil debt collection litigation activities of the Department of Justice. Such amounts in the Working Capital Fund shall remain available until expended and shall be subject to the terms and conditions of that fund, and shall be used first, for paying the costs of processing and tracking civil and criminal debt-collection litigation, and, thereafter, for financial systems and for debt-collection-related personnel, administrative, and litigation expenses.”
 
 **Crediting to Working Capital Fund of Amounts Collected Pursuant to Civil Debt Collection Litigation Activities**
 
-Pub. L. 103–121, title I, § 108, Oct. 27, 1993, 107 Stat. 1164, as amended by Pub. L. 107–273, div. A, title II, § 204(g), Nov. 2, 2002, 116 Stat. 1776, which authorized Attorney General to credit, as an offsetting collection, to Department of Justice Working Capital Fund, for fiscal year 1994 and thereafter, up to six percent of all amounts collected pursuant to civil debt collection litigation activities of Department of Justice, and provided that such amounts would remain available until expended, be subject to the terms and conditions of that fund, and be used, first, for paying costs of processing and tracking such litigation, and, thereafter, for financial systems, and other personnel, administrative, and litigation expenses of debt collection activities, was repealed by Pub. L. 107–273, div. C, title I, § 11013(b), Nov. 2, 2002, 116 Stat. 1823.
+Pub. L. 103–121, title I, § 108, Oct. 27, 1993, 107 Stat. 1164, as amended by Pub. L. 107–273, div. A, title II, § 204(g), Nov. 2, 2002, 116 Stat. 1776, which authorized Attorney General to credit, as an offsetting collection, to Department of Justice Working Capital Fund, for fiscal year 1994 and thereafter, up to six percent of all amounts collected pursuant to civil debt collection litigation activities of Department of Justice, and provided that such amounts would remain available until expended, be subject to the terms and conditions of that fund, and be used, first, for paying costs of processing and tracking such litigation, and, thereafter, for financial systems, and other personnel, administrative, and litigation expenses of debt collection activities, was repealed by Pub. L. 107–273, div. C, title I, § 11013(b), Nov. 2, 2002, 116 Stat. 1823.
 
 **Capital Equipment Acquisition, Etc., by Income Retained From or Transferred to Working Capital Fund; Amounts and Limitations**
 
@@ -2871,11 +2871,11 @@ Pub. L. 102–140, title I, Oct. 28, 1991, 105 Stat. 784, provided that:
 
 > “In addition, for fiscal year 1992 and thereafter, at no later than the end of the fifth fiscal year after the fiscal year for which funds are appropriated or otherwise made available, unobligated balances of appropriations available to the Department of Justice during such fiscal year may be transferred into the capital account of the Working Capital Fund to be available for the departmentwide acquisition of capital equipment, development and implementation of law enforcement or litigation related automated data processing systems, and for the improvement and implementation of the Department’s financial management and payroll/personnel systems: *Provided*, That any proposed use of these transferred funds in fiscal year 1992 and thereafter shall only be made after notification to the Committees on Appropriations of the House of Representatives and the Senate in accordance with section 606 of this Act.”
 
-## § 528. Disqualification of officers and employees of the Department of Justice
+## § 528. Disqualification of officers and employees of the Department of Justice
 
 The Attorney General shall promulgate rules and regulations which require the disqualification of any officer or employee of the Department of Justice, including a United States attorney or a member of such attorney’s staff, from participation in a particular investigation or prosecution if such participation may result in a personal, financial, or political conflict of interest, or the appearance thereof. Such rules and regulations may provide that a willful violation of any provision thereof shall result in removal from office.
 
-(Added Pub. L. 95–521, title VI, § 603(a), Oct. 26, 1978, 92 Stat. 1874.)
+(Added Pub. L. 95–521, title VI, § 603(a), Oct. 26, 1978, 92 Stat. 1874.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2883,7 +2883,7 @@ The Attorney General shall promulgate rules and regulations which require the di
 
 Section effective Oct. 26, 1978, see section 604 of Pub. L. 95–521, set out as a note under section 591 of this title.
 
-## § 529. Annual report of Attorney General
+## § 529. Annual report of Attorney General
 
 **(a)** Beginning on June 1, 1979, and at the beginning of each regular session of Congress thereafter, the Attorney General shall report to Congress on the activities and operations of the Public Integrity Section or any other unit of the Department of Justice designated to supervise the investigation and prosecution of—
 
@@ -2911,15 +2911,15 @@ Such report shall include the number, type, and disposition of all investigation
 
 except that the requirement of this paragraph shall be deemed satisfied with respect to any such description, statistics, or declaration if such non-Federal grantee or such non-Federal party shall have failed to provide the same to the Attorney General, and the Attorney General notes the fact of such failure and the name of such grantee or such party in the report.
 
-(Added Pub. L. 95–521, title VI, § 603(a), Oct. 26, 1978, 92 Stat. 1874; amended Pub. L. 107–273, div. A, title II, § 205(a), div. B, title IV, § 4003(b)(3), Nov. 2, 2002, 116 Stat. 1777, 1811.)
+(Added Pub. L. 95–521, title VI, § 603(a), Oct. 26, 1978, 92 Stat. 1874; amended Pub. L. 107–273, div. A, title II, § 205(a), div. B, title IV, § 4003(b)(3), Nov. 2, 2002, 116 Stat. 1777, 1811.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Pub. L. 107–273, § 205(a), designated existing provisions as subsec. (a) and added subsec. (b).
+2002—Pub. L. 107–273, § 205(a), designated existing provisions as subsec. (a) and added subsec. (b).
 
-Subsec. (b)(2). Pub. L. 107–273, § 4003(b)(3), struck out “over $5,000,000” after “services contract” in introductory provisions.
+Subsec. (b)(2). Pub. L. 107–273, § 4003(b)(3), struck out “over $5,000,000” after “services contract” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2927,13 +2927,13 @@ Subsec. (b)(2). Pub. L. 107–273, § 4003(b)(3), struck out “over $5,000,00
 
 Section effective Oct. 26, 1978, see section 604 of Pub. L. 95–521, set out as a note under section 591 of this title.
 
-## § 530. Payment of travel and transportation expenses of newly appointed special agents
+## § 530. Payment of travel and transportation expenses of newly appointed special agents
 
 The Attorney General or the Attorney General’s designee is authorized to pay the travel expenses of newly appointed special agents and the transportation expenses of their families and household goods and personal effects from place of residence at time of selection to the first duty station, to the extent such payments are authorized by section 5723 of title 5 for new appointees who may receive payments under that section.
 
-(Added Pub. L. 98–86, § 1, Aug. 26, 1983, 97 Stat. 492.)
+(Added Pub. L. 98–86, § 1, Aug. 26, 1983, 97 Stat. 492.)
 
-## § 530A. Authorization of appropriations for travel and related expenses and for health care of personnel serving abroad
+## § 530A. Authorization of appropriations for travel and related expenses and for health care of personnel serving abroad
 
 There are authorized to be used from appropriations, for any fiscal year, for the Department of Justice, such sums as may be necessary—
 
@@ -2941,7 +2941,7 @@ There are authorized to be used from appropriations, for any fiscal year, for th
 
 **(2)** for health care for such employees and families, to be provided under section 904 of that Act.
 
-(Added Pub. L. 100–690, title VI, § 6281(a), Nov. 18, 1988, 102 Stat. 4368; amended Pub. L. 112–55, div. B, title II, § 218, Nov. 18, 2011, 125 Stat. 621.)
+(Added Pub. L. 100–690, title VI, § 6281(a), Nov. 18, 1988, 102 Stat. 4368; amended Pub. L. 112–55, div. B, title II, § 218, Nov. 18, 2011, 125 Stat. 621.)
 
 **Editorial Notes**
 
@@ -2955,7 +2955,7 @@ Sections 901 and 904 of the Foreign Service Act of 1980, referred to in pars. (1
 
 2011—Pub. L. 112–55 substituted “used from appropriations” for “appropriated” in introductory provisions and inserted “(2),” before “(3)” in par. (1).
 
-## § 530B. Ethical standards for attorneys for the Government
+## § 530B. Ethical standards for attorneys for the Government
 
 **(a)** An attorney for the Government shall be subject to State laws and rules, and local Federal court rules, governing attorneys in each State where such attorney engages in that attorney’s duties, to the same extent and in the same manner as other attorneys in that State.
 
@@ -2963,15 +2963,15 @@ Sections 901 and 904 of the Foreign Service Act of 1980, referred to in pars. (1
 
 **(c)** As used in this section, the term “attorney for the Government” includes any attorney described in section 77.2(a) of part 77 of title 28 of the Code of Federal Regulations and also includes any independent counsel, or employee of such a counsel, appointed under chapter 40.
 
-(Added Pub. L. 105–277, div. A, § 101(b) [title VIII, § 801(a)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–118.)
+(Added Pub. L. 105–277, div. A, § 101(b) [title VIII, § 801(a)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–118.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 105–277, div. A, § 101(b) [title VIII, § 801(c)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–119, provided that: “The amendments made by this section [enacting this section] shall take effect 180 days after the date of the enactment of this Act [Oct. 21, 1998] and shall apply during that portion of fiscal year 1999 that follows that taking effect, and in each succeeding fiscal year.”
+Pub. L. 105–277, div. A, § 101(b) [title VIII, § 801(c)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–119, provided that: “The amendments made by this section [enacting this section] shall take effect 180 days after the date of the enactment of this Act [Oct. 21, 1998] and shall apply during that portion of fiscal year 1999 that follows that taking effect, and in each succeeding fiscal year.”
 
-## § 530C. Authority to use available funds
+## § 530C. Authority to use available funds
 
 **(a) In General.—** Except to the extent provided otherwise by law, the activities of the Department of Justice (including any bureau, office, board, division, commission, subdivision, unit, or other component thereof) may, in the reasonable discretion of the Attorney General, be carried out through any means, including—
 
@@ -3041,9 +3041,9 @@ Pub. L. 105–277, div. A, § 101(b) [title VIII, § 801(c)], Oct. 21, 1998,
 
 **(i)** At the request of an appropriate law enforcement official of a State or political subdivision, the Attorney General may assist in the investigation of violent acts and shootings occurring in a place of public use and in the investigation of mass killings and attempted mass killings. Any assistance provided under this subparagraph shall be presumed to be within the scope of Federal office or employment.
 
-**(i)**  1
+**(i)** 1
 
-<sup>1</sup>  So in original. Probably should be “(ii)”.
+<sup>1</sup> So in original. Probably should be “(ii)”.
 
 For purposes of this subparagraph—
 
@@ -3109,7 +3109,7 @@ except that no funds may be used to distribute or make available to a prisoner a
 
 **(f) Warranty Work.—** In instances where the Attorney General determines that law enforcement-, security-, or mission-related considerations mitigate against obtaining maintenance or repair services from private sector entities for equipment under warranty, the Attorney General is authorized to seek reimbursement from such entities for warranty work performed at Department of Justice facilities, and to credit any payment made for such work to any appropriation charged therefor.
 
-(Added Pub. L. 107–273, div. A, title II, § 201(a), Nov. 2, 2002, 116 Stat. 1767; amended Pub. L. 108–199, div. B, title I, Jan. 23, 2004, 118 Stat. 53; Pub. L. 112–265, § 2(a), Jan. 14, 2013, 126 Stat. 2435.)
+(Added Pub. L. 107–273, div. A, title II, § 201(a), Nov. 2, 2002, 116 Stat. 1767; amended Pub. L. 108–199, div. B, title I, Jan. 23, 2004, 118 Stat. 53; Pub. L. 112–265, § 2(a), Jan. 14, 2013, 126 Stat. 2435.)
 
 **Editorial Notes**
 
@@ -3123,9 +3123,9 @@ Public Law 106–110, referred to in subsec. (e), is Pub. L. 106–110, Nov. 24,
 
 **Amendments**
 
-2013—Subsec. (b)(1)(L)(i). Pub. L. 112–265, § 2(a)(1), substituted “$3,000,000” for “$2,000,000” in introductory provisions.
+2013—Subsec. (b)(1)(L)(i). Pub. L. 112–265, § 2(a)(1), substituted “$3,000,000” for “$2,000,000” in introductory provisions.
 
-Subsec. (b)(1)(M). Pub. L. 112–265, § 2(a)(2), added subpar. (M).
+Subsec. (b)(1)(M). Pub. L. 112–265, § 2(a)(2), added subpar. (M).
 
 2004—Subsec. (b)(2)(A), (B). Pub. L. 108–199 inserted “for the Bureau of Alcohol, Tobacco, Firearms and Explosives,” after “Marshals Service,”.
 
@@ -3137,13 +3137,13 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 **Use of Federal Training Facilities**
 
-Pub. L. 109–162, title XI, § 1173, Jan. 5, 2006, 119 Stat. 3124, as amended by Pub. L. 109–271, § 8(d), Aug. 12, 2006, 120 Stat. 766, provided that:
+Pub. L. 109–162, title XI, § 1173, Jan. 5, 2006, 119 Stat. 3124, as amended by Pub. L. 109–271, § 8(d), Aug. 12, 2006, 120 Stat. 766, provided that:
 
 > **“(a) Federal Training Facilities.—** Unless authorized in writing by the Attorney General, or the Assistant Attorney General for Administration, if so delegated by the Attorney General, the Department of Justice (and each entity within it) shall use for any predominantly internal training or conference meeting only a facility that does not require a payment to a private entity for use of the facility or for meals, lodging, or other expenses related to such internal training or conference meeting.
 
 > **“(b) Annual Report.—** The Attorney General shall prepare an annual report to the Chairmen and ranking minority members of the Committees on the Judiciary of the Senate and of the House of Representatives that details each training and conference meeting authorized under subsection (a). The report shall include an explanation of why the facility was chosen, and a breakdown of any expenditures incurred in excess of the cost of conducting the training or meeting at a facility that did not require such authorization.”
 
-## § 530D. Report on enforcement of laws
+## § 530D. Report on enforcement of laws
 
 **(a) Report.—**
 
@@ -3217,7 +3217,7 @@ Pub. L. 109–162, title XI, § 1173, Jan. 5, 2006, 119 Stat. 3124, as amended
 
 **(e) Applicability to the President and to Executive Agencies and Military Departments.—** The reporting, declaration, and other provisions of this section relating to the Attorney General and other officers of the Department of Justice shall apply to the President (but only with respect to the promulgation of any unclassified Executive order or similar memorandum or order), to the head of each executive agency or military department (as defined, respectively, in sections 105 and 102 of title 5, United States Code) that establishes or implements a policy described in subsection (a)(1)(A) or is authorized to conduct litigation, and to the officers of such executive agency.
 
-(Added Pub. L. 107–273, div. A, title II, § 202(a), Nov. 2, 2002, 116 Stat. 1771.)
+(Added Pub. L. 107–273, div. A, title II, § 202(a), Nov. 2, 2002, 116 Stat. 1771.)
 
 **Editorial Notes**
 
@@ -3231,7 +3231,7 @@ Section 6103 of the Internal Revenue Code of 1986, referred to in subsec. (c)(2)
 
 **Report on Policies and Determinations Made Prior to Enactment of Section**
 
-Pub. L. 107–273, div. A, title II, § 202(b)(3), (4), Nov. 2, 2002, 116 Stat. 1774, provided that:
+Pub. L. 107–273, div. A, title II, § 202(b)(3), (4), Nov. 2, 2002, 116 Stat. 1774, provided that:
 
 > **“(3)** Not later than 30 days after the date of the enactment of this Act [Nov. 2, 2002], the President shall advise the head of each executive agency or military department (as defined, respectively, in sections 105 and 102 of title 5, United States Code) of the enactment of this section [enacting this section and amending sections 288k and 5571 of Title 2, The Congress].
 

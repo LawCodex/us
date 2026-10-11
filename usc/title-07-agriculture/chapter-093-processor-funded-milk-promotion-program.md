@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 93—PROCESSOR-FUNDED MILK PROMOTION PROGRAM
 
-## § 6401. Findings and declaration of policy
+## § 6401. Findings and declaration of policy
 
 **(a) Findings** Congress finds that—
 
@@ -33,9 +33,9 @@ retrieved: 2026-10-11
 
 **(7)** the cooperative development, financing, and implementation of a coordinated program of advertising and promotion of fluid milk products is necessary to maintain and expand markets for fluid milk products;
 
-**(8)** it is appropriate to finance the cooperative program described in paragraph (6) 1
+**(8)** it is appropriate to finance the cooperative program described in paragraph (6) 1
 
-<sup>1</sup>  So in original. Probably should be paragraph “(7)”.
+<sup>1</sup> So in original. Probably should be paragraph “(7)”.
 
 with self-help assessments paid by the fluid milk processors; and
 
@@ -45,27 +45,27 @@ with self-help assessments paid by the fluid milk processors; and
 
 It is declared to be the policy of Congress that it is in the public interest to authorize the establishment, through the exercise of powers provided in this chapter, of an orderly procedure for developing, financing, through adequate assessments on fluid milk products produced in the United States and carrying out an effective, continuous, and coordinated program of promotion, research, and consumer information designed to strengthen the position of the dairy industry in the marketplace and maintain and expand domestic and foreign markets and uses for fluid milk products, the purpose of which is not to compete with or replace individual advertising or promotion efforts designed to promote individual brand name or trade name fluid milk products, but rather to maintain and expand the markets for all fluid milk products, with the goal and purpose of this chapter being a national governmental goal that authorizes and funds programs that result in government speech promoting government objectives.
 
-(Pub. L. 101–624, title XIX, § 1999B, Nov. 28, 1990, 104 Stat. 3914; Pub. L. 104–127, title I, § 146(a), (b), Apr. 4, 1996, 110 Stat. 918.)
+(Pub. L. 101–624, title XIX, § 1999B, Nov. 28, 1990, 104 Stat. 3914; Pub. L. 104–127, title I, § 146(a), (b), Apr. 4, 1996, 110 Stat. 918.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (a)(6) to (9). Pub. L. 104–127, § 146(a), added par. (6) and redesignated former pars. (6) to (8) as (7) to (9), respectively.
+1996—Subsec. (a)(6) to (9). Pub. L. 104–127, § 146(a), added par. (6) and redesignated former pars. (6) to (8) as (7) to (9), respectively.
 
-Subsec. (b). Pub. L. 104–127, § 146(b), amended heading and text of subsec. (b) generally. Text read as follows: “It is declared to be the policy of Congress that it is in the public interest to authorize the establishment, through the exercise of the powers provided in this chapter, of an orderly procedure for developing, financing (through adequate assessments on fluid milk products produced in the United States) and carrying out an effective and coordinated program of advertising designed to strengthen the position of the dairy industry in the marketplace and to maintain and expand markets and uses for fluid milk products produced in the United States. Nothing in this chapter shall be construed to provide for the control of production or otherwise limit the right of individual milk producers to produce milk.”
+Subsec. (b). Pub. L. 104–127, § 146(b), amended heading and text of subsec. (b) generally. Text read as follows: “It is declared to be the policy of Congress that it is in the public interest to authorize the establishment, through the exercise of the powers provided in this chapter, of an orderly procedure for developing, financing (through adequate assessments on fluid milk products produced in the United States) and carrying out an effective and coordinated program of advertising designed to strengthen the position of the dairy industry in the marketplace and to maintain and expand markets and uses for fluid milk products produced in the United States. Nothing in this chapter shall be construed to provide for the control of production or otherwise limit the right of individual milk producers to produce milk.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1993 Amendment**
 
-Pub. L. 103–72, § 1, Aug. 11, 1993, 107 Stat. 717, provided that: “This Act [amending sections 6402 and 6409 of this title] may be cited as the ‘Fluid Milk Promotion Amendments Act of 1993’.”
+Pub. L. 103–72, § 1, Aug. 11, 1993, 107 Stat. 717, provided that: “This Act [amending sections 6402 and 6409 of this title] may be cited as the ‘Fluid Milk Promotion Amendments Act of 1993’.”
 
 **Short Title**
 
-Pub. L. 101–624, title XIX, § 1999A, Nov. 28, 1990, 104 Stat. 3914, provided that: “This subtitle [subtitle H (§§ 1999A—1999R) of title XIX of Pub. L. 101–624, enacting this chapter] may be cited as the ‘Fluid Milk Promotion Act of 1990’.”
+Pub. L. 101–624, title XIX, § 1999A, Nov. 28, 1990, 104 Stat. 3914, provided that: “This subtitle [subtitle H (§§ 1999A—1999R) of title XIX of Pub. L. 101–624, enacting this chapter] may be cited as the ‘Fluid Milk Promotion Act of 1990’.”
 
-## § 6402. Definitions
+## § 6402. Definitions
 
 As used in this chapter:
 
@@ -103,19 +103,19 @@ The term “Secretary” means the Secretary of Agriculture.
 
 The term “United States”, except as used in sections 6410 through 6412 of this title, means the 48 contiguous States in the continental United States and the District of Columbia.
 
-(Pub. L. 101–624, title XIX, § 1999C, Nov. 28, 1990, 104 Stat. 3915; Pub. L. 103–72, § 2(a), Aug. 11, 1993, 107 Stat. 717; Pub. L. 104–127, title I, § 146(c), Apr. 4, 1996, 110 Stat. 918; Pub. L. 107–171, title I, § 1506(a), (b), May 13, 2002, 116 Stat. 210.)
+(Pub. L. 101–624, title XIX, § 1999C, Nov. 28, 1990, 104 Stat. 3915; Pub. L. 103–72, § 2(a), Aug. 11, 1993, 107 Stat. 717; Pub. L. 104–127, title I, § 146(c), Apr. 4, 1996, 110 Stat. 918; Pub. L. 107–171, title I, § 1506(a), (b), May 13, 2002, 116 Stat. 210.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Par. (3). Pub. L. 107–171, § 1506(a), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “The term ‘fluid milk product’—
+2002—Par. (3). Pub. L. 107–171, § 1506(a), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “The term ‘fluid milk product’—
 
 “(A) means any of the following products in fluid or frozen form: milk, skim milk, lowfat milk, milk drinks, buttermilk, filled milk, and milkshake and ice milk mixes containing less than 20 percent total solids, including any such products that are flavored, cultured, modified with added nonfat milk solids, concentrated (if in a consumer-type package), or reconstituted; and
 
 “(B) does not include evaporated or condensed milk (plain or sweetened), evaporated or condensed skim milk (plain or sweetened), formulas specially prepared for infant feeding or dietary use that are packaged in hermetically sealed glass or all-metal containers, any product that contains by weight less than 6.5 percent nonfat milk solids, and whey.”
 
-Par. (4). Pub. L. 107–171, § 1506(b), substituted “3,000,000 pounds of fluid milk products in consumer-type packages per month (excluding products delivered directly to the place of residence of a consumer)” for “500,000 pounds of fluid milk products in consumer-type packages per month”.
+Par. (4). Pub. L. 107–171, § 1506(b), substituted “3,000,000 pounds of fluid milk products in consumer-type packages per month (excluding products delivered directly to the place of residence of a consumer)” for “500,000 pounds of fluid milk products in consumer-type packages per month”.
 
 1996—Par. (6). Pub. L. 104–127 amended heading and text of par. (6) generally. Text read as follows: “The term ‘research’—
 
@@ -125,7 +125,7 @@ Par. (4). Pub. L. 107–171, § 1506(b), substituted “3,000,000 pounds of fl
 
 1993—Par. (4). Pub. L. 103–72 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The term ‘fluid milk processor’ means any person who processes and markets commercially fluid milk products in consumer-type packages.”
 
-## § 6403. Authority to issue orders
+## § 6403. Authority to issue orders
 
 **(a) In general** To effectuate the declared policy under section 6401(b) of this title, the Secretary shall issue and from time to time may amend, orders applicable to all fluid milk processors, authorizing—
 
@@ -141,15 +141,15 @@ Any order issued under this chapter shall be national in scope.
 
 Not more than one order shall be in effect under this chapter at any one time.
 
-(Pub. L. 101–624, title XIX, § 1999D, Nov. 28, 1990, 104 Stat. 3916.)
+(Pub. L. 101–624, title XIX, § 1999D, Nov. 28, 1990, 104 Stat. 3916.)
 
-## § 6404. Notice and comment
+## § 6404. Notice and comment
 
 Not later than 60 days after the Secretary receives a request for the issuance of an order under this chapter, and a specific proposal for an order from individual fluid milk processors that marketed during a representative period, as determined by the Secretary, not less than 30 percent of the volume of fluid milk products marketed by all processors, the Secretary shall publish the proposed order and give due notice and opportunity for public comment on the proposed order.
 
-(Pub. L. 101–624, title XIX, § 1999E, Nov. 28, 1990, 104 Stat. 3916.)
+(Pub. L. 101–624, title XIX, § 1999E, Nov. 28, 1990, 104 Stat. 3916.)
 
-## § 6405. Findings and issuance of orders
+## § 6405. Findings and issuance of orders
 
 **(a) In general**
 
@@ -159,15 +159,15 @@ After notice and opportunity for public comment are given, as provided in sectio
 
 Such order shall be issued and, if approved by fluid milk processors as provided in section 6413 of this title, shall become effective not later than 180 days following publication of the proposed order.
 
-(Pub. L. 101–624, title XIX, § 1999F, Nov. 28, 1990, 104 Stat. 3916.)
+(Pub. L. 101–624, title XIX, § 1999F, Nov. 28, 1990, 104 Stat. 3916.)
 
-## § 6406. Regulations
+## § 6406. Regulations
 
 The Secretary may issue such regulations as may be necessary to carry out this chapter and the powers vested in the Secretary by this chapter.
 
-(Pub. L. 101–624, title XIX, § 1999G, Nov. 28, 1990, 104 Stat. 3916.)
+(Pub. L. 101–624, title XIX, § 1999G, Nov. 28, 1990, 104 Stat. 3916.)
 
-## § 6407. Required terms in orders
+## § 6407. Required terms in orders
 
 **(a) In general**
 
@@ -355,9 +355,9 @@ The Secretary shall provide annually for an independent evaluation of the effect
 
 The order also shall contain such terms and conditions, not inconsistent with this chapter, as are necessary to effectuate this chapter, including regulations relating to the assessment of late payment charges.
 
-(Pub. L. 101–624, title XIX, § 1999H, Nov. 28, 1990, 104 Stat. 3916.)
+(Pub. L. 101–624, title XIX, § 1999H, Nov. 28, 1990, 104 Stat. 3916.)
 
-## § 6408. Permissive terms
+## § 6408. Permissive terms
 
 **(a) In general**
 
@@ -379,9 +379,9 @@ The order may provide authority to accumulate reserve funds from assessments col
 
 The order may contain such other terms and conditions incidental to and not inconsistent with the terms and conditions specified in this chapter as are necessary to effectuate the other provisions of the order.
 
-(Pub. L. 101–624, title XIX, § 1999I, Nov. 28, 1990, 104 Stat. 3920.)
+(Pub. L. 101–624, title XIX, § 1999I, Nov. 28, 1990, 104 Stat. 3920.)
 
-## § 6409. Assessments
+## § 6409. Assessments
 
 **(a) In general**
 
@@ -421,15 +421,15 @@ Producer-handlers that are required to pay the assessment imposed under section 
 
 Except as provided in section 6415(b) of this title, the rate of assessment prescribed by the order shall be 20 cents per hundredweight of fluid milk products marketed.
 
-(Pub. L. 101–624, title XIX, § 1999J, Nov. 28, 1990, 104 Stat. 3921; Pub. L. 103–72, § 2(b), Aug. 11, 1993, 107 Stat. 717.)
+(Pub. L. 101–624, title XIX, § 1999J, Nov. 28, 1990, 104 Stat. 3921; Pub. L. 103–72, § 2(b), Aug. 11, 1993, 107 Stat. 717.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1993—Subsec. (e). Pub. L. 103–72 inserted “, and that are fluid milk processors,” after “section 4504(g) of this title”.
+1993—Subsec. (e). Pub. L. 103–72 inserted “, and that are fluid milk processors,” after “section 4504(g) of this title”.
 
-## § 6410. Petition and review
+## § 6410. Petition and review
 
 **(a) Petition**
 
@@ -463,7 +463,7 @@ Service of process in such proceedings shall be conducted in accordance with the
 
 **(B)** to take such further proceedings as, in the opinion of the court, the law requires.
 
-(Pub. L. 101–624, title XIX, § 1999K, Nov. 28, 1990, 104 Stat. 3921.)
+(Pub. L. 101–624, title XIX, § 1999K, Nov. 28, 1990, 104 Stat. 3921.)
 
 **Editorial Notes**
 
@@ -471,7 +471,7 @@ Service of process in such proceedings shall be conducted in accordance with the
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(2), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-## § 6411. Enforcement
+## § 6411. Enforcement
 
 **(a) Jurisdiction**
 
@@ -535,7 +535,7 @@ If any person fails to pay an assessment of a civil penalty after it has become 
 
 The remedies provided in this chapter shall be in addition to, and not exclusive of, other remedies that may be available.
 
-(Pub. L. 101–624, title XIX, § 1999L, Nov. 28, 1990, 104 Stat. 3922; Pub. L. 102–237, title VIII, § 809, Dec. 13, 1991, 105 Stat. 1883.)
+(Pub. L. 101–624, title XIX, § 1999L, Nov. 28, 1990, 104 Stat. 3922; Pub. L. 102–237, title VIII, § 809, Dec. 13, 1991, 105 Stat. 1883.)
 
 **Editorial Notes**
 
@@ -543,7 +543,7 @@ The remedies provided in this chapter shall be in addition to, and not exclusive
 
 1991—Subsec. (b). Pub. L. 102–237 substituted “this section” for “this subsection” after “brought under”.
 
-## § 6412. Investigations and power to subpoena
+## § 6412. Investigations and power to subpoena
 
 **(a) Investigations** The Secretary may make such investigations as the Secretary considers necessary—
 
@@ -577,9 +577,9 @@ Process in any such case may be served in the judicial district in which such pe
 
 The site of any hearings held under section 6410 or 6411 of this title shall be within the judicial district where such person resides or has a principal place of business.
 
-(Pub. L. 101–624, title XIX, § 1999M, Nov. 28, 1990, 104 Stat. 3924.)
+(Pub. L. 101–624, title XIX, § 1999M, Nov. 28, 1990, 104 Stat. 3924.)
 
-## § 6413. Requirement of initial referendum
+## § 6413. Requirement of initial referendum
 
 **(a) In general**
 
@@ -615,7 +615,7 @@ A fluid milk processor who votes in any referendum conducted under this chapter 
 
 The Secretary shall notify all processors at least 30 days prior to a referendum conducted under this chapter. The notice shall explain the procedure established under this subsection.
 
-(Pub. L. 101–624, title XIX, § 1999N, Nov. 28, 1990, 104 Stat. 3924; Pub. L. 104–127, title I, § 146(d)(1), Apr. 4, 1996, 110 Stat. 919.)
+(Pub. L. 101–624, title XIX, § 1999N, Nov. 28, 1990, 104 Stat. 3924; Pub. L. 104–127, title I, § 146(d)(1), Apr. 4, 1996, 110 Stat. 919.)
 
 **Editorial Notes**
 
@@ -623,7 +623,7 @@ The Secretary shall notify all processors at least 30 days prior to a referendum
 
 1996—Subsec. (b)(2). Pub. L. 104–127 substituted “fluid milk processors voting in the referendum;” for “all processors;”.
 
-## § 6414. Suspension or termination of orders
+## § 6414. Suspension or termination of orders
 
 **(a) Suspension or termination by Secretary**
 
@@ -647,7 +647,7 @@ the Secretary shall, within 6 months after making the determination, suspend or 
 
 Subsections (c) and (d) of section 6413 of this title shall apply to a referendum conducted under this subsection.
 
-(Pub. L. 101–624, title XIX, § 1999O, Nov. 28, 1990, 104 Stat. 3925; Pub. L. 104–127, title I, § 146(d)(2), (e), Apr. 4, 1996, 110 Stat. 919; Pub. L. 107–171, title I, § 1506(c), May 13, 2002, 116 Stat. 210.)
+(Pub. L. 101–624, title XIX, § 1999O, Nov. 28, 1990, 104 Stat. 3925; Pub. L. 104–127, title I, § 146(d)(2), (e), Apr. 4, 1996, 110 Stat. 919; Pub. L. 107–171, title I, § 1506(c), May 13, 2002, 116 Stat. 210.)
 
 **Editorial Notes**
 
@@ -659,13 +659,13 @@ Subsections (c) and (d) of section 6413 of this title shall apply to a referendu
 
 “(2) terminate activities under the order in an orderly manner as soon as practicable after such date.”
 
-1996—Subsec. (a). Pub. L. 104–127, § 146(e), substituted “2002” for “1996” in introductory provisions.
+1996—Subsec. (a). Pub. L. 104–127, § 146(e), substituted “2002” for “1996” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 104–127, § 146(d)(2)(A), substituted “fluid milk processors voting in the preceding referendum” for “all processors”.
+Subsec. (c)(1). Pub. L. 104–127, § 146(d)(2)(A), substituted “fluid milk processors voting in the preceding referendum” for “all processors”.
 
-Subsec. (c)(2)(B). Pub. L. 104–127, § 146(d)(2)(B), substituted “fluid milk processors voting in the referendum;” for “all processors;”.
+Subsec. (c)(2)(B). Pub. L. 104–127, § 146(d)(2)(B), substituted “fluid milk processors voting in the referendum;” for “all processors;”.
 
-## § 6415. Amendments
+## § 6415. Amendments
 
 **(a) Amendments to order**
 
@@ -693,9 +693,9 @@ The adjusted assessment rate shall be effective on a date, as determined by the 
 
 Subsections (c) and (d) of section 6413 of this title shall apply to a referendum conducted under this subsection.
 
-(Pub. L. 101–624, title XIX, § 1999P, Nov. 28, 1990, 104 Stat. 3926.)
+(Pub. L. 101–624, title XIX, § 1999P, Nov. 28, 1990, 104 Stat. 3926.)
 
-## § 6416. Independent evaluation of programs
+## § 6416. Independent evaluation of programs
 
 **(a) Review and evaluation** The Comptroller General of the United States shall review and evaluate the order to—
 
@@ -709,9 +709,9 @@ Subsections (c) and (d) of section 6413 of this title shall apply to a referendu
 
 The Comptroller General shall submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the valuations made under this section no later than January 1, 1995.
 
-(Pub. L. 101–624, title XIX, § 1999Q, Nov. 28, 1990, 104 Stat. 3926.)
+(Pub. L. 101–624, title XIX, § 1999Q, Nov. 28, 1990, 104 Stat. 3926.)
 
-## § 6417. Authorization of appropriations
+## § 6417. Authorization of appropriations
 
 **(a) In general**
 
@@ -721,4 +721,4 @@ There are authorized to be appropriated for each fiscal year such funds as are n
 
 The funds so appropriated shall not be available for payment of the expenses or expenditures of the Board in administering any provision of any order issued under this chapter.
 
-(Pub. L. 101–624, title XIX, § 1999R, Nov. 28, 1990, 104 Stat. 3926.)
+(Pub. L. 101–624, title XIX, § 1999R, Nov. 28, 1990, 104 Stat. 3926.)

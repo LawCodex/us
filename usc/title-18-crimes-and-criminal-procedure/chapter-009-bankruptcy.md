@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2005—Pub. L. 109–8, title II, § 203(b)(2), Apr. 20, 2005, 119 Stat. 49, added item 158.
+2005—Pub. L. 109–8, title II, § 203(b)(2), Apr. 20, 2005, 119 Stat. 49, added item 158.
 
-1994—Pub. L. 103–394, title III, § 312(a)(2), Oct. 22, 1994, 108 Stat. 4140, substituted “against estate” for “by trustee or officer” in item 153 and added items 156 and 157.
+1994—Pub. L. 103–394, title III, § 312(a)(2), Oct. 22, 1994, 108 Stat. 4140, substituted “against estate” for “by trustee or officer” in item 153 and added items 156 and 157.
 
-1978—Pub. L. 95–598, title III, § 314(b)(2), (d)(3), (e)(3), (f)(3), Nov. 6, 1978, 92 Stat. 2677, substituted in item 151 “Definition” for “Definitions”; struck from item 153 “, receiver” after “trustee” and from item 154 “referees and other” before “officers”; and substituted in item 155 “cases under title 11 and receiverships” for “bankruptcy proceedings”.
+1978—Pub. L. 95–598, title III, § 314(b)(2), (d)(3), (e)(3), (f)(3), Nov. 6, 1978, 92 Stat. 2677, substituted in item 151 “Definition” for “Definitions”; struck from item 153 “, receiver” after “trustee” and from item 154 “referees and other” before “officers”; and substituted in item 155 “cases under title 11 and receiverships” for “bankruptcy proceedings”.
 
-## § 151. Definition
+## § 151. Definition
 
 As used in this chapter, the term “debtor” means a debtor concerning whom a petition has been filed under title 11.
 
-(June 25, 1948, ch. 645, 62 Stat. 689; Pub. L. 95–598, title III, § 314(b)(1), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 103–322, title XXXIII, § 330008(5), Sept. 13, 1994, 108 Stat. 2143.)
+(June 25, 1948, ch. 645, 62 Stat. 689; Pub. L. 95–598, title III, § 314(b)(1), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 103–322, title XXXIII, § 330008(5), Sept. 13, 1994, 108 Stat. 2143.)
 
 **Historical and Revision Notes**
 
-Based on section 52(f) of title 11, U.S.C., 1940 ed., Bankruptcy (July 1, 1898, ch. 541, § 29f as added June 22, 1938, ch. 575, § 1, 52 Stat. 857).
+Based on section 52(f) of title 11, U.S.C., 1940 ed., Bankruptcy (July 1, 1898, ch. 541, § 29f as added June 22, 1938, ch. 575, § 1, 52 Stat. 857).
 
 Definition of “bankruptcy” was added to avoid repetitious references to said title 11.
 
@@ -55,9 +55,9 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 **Savings Provision**
 
-Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§ 151 et seq.), chapter 96 (§ 1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
+Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§ 151 et seq.), chapter 96 (§ 1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
 
-## § 152. Concealment of assets; false oaths and claims; bribery
+## § 152. Concealment of assets; false oaths and claims; bribery
 
 A person who—
 
@@ -81,11 +81,11 @@ A person who—
 
 shall be fined under this title, imprisoned not more than 5 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 689; Pub. L. 86–519, § 2, June 12, 1960, 74 Stat. 217; Pub. L. 86–701, Sept. 2, 1960, 74 Stat. 753; Pub. L. 94–550, § 4, Oct. 18, 1976, 90 Stat. 2535; Pub. L. 95–598, title III, § 314(a), (c), Nov. 6, 1978, 92 Stat. 2676, 2677; Pub. L. 100–690, title VII, § 7017, Nov. 18, 1988, 102 Stat. 4395; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 103–394, title III, § 312(a)(1)(A), Oct. 22, 1994, 108 Stat. 4138; Pub. L. 104–294, title VI, § 601(a)(1), Oct. 11, 1996, 110 Stat. 3497.)
+(June 25, 1948, ch. 645, 62 Stat. 689; Pub. L. 86–519, § 2, June 12, 1960, 74 Stat. 217; Pub. L. 86–701, Sept. 2, 1960, 74 Stat. 753; Pub. L. 94–550, § 4, Oct. 18, 1976, 90 Stat. 2535; Pub. L. 95–598, title III, § 314(a), (c), Nov. 6, 1978, 92 Stat. 2676, 2677; Pub. L. 100–690, title VII, § 7017, Nov. 18, 1988, 102 Stat. 4395; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 103–394, title III, § 312(a)(1)(A), Oct. 22, 1994, 108 Stat. 4138; Pub. L. 104–294, title VI, § 601(a)(1), Oct. 11, 1996, 110 Stat. 3497.)
 
 **Historical and Revision Notes**
 
-Based on section 52(b) of title 11, U.S.C., 1940 ed., Bankruptcy (July 1, 1898, ch. 541, § 29b, 30 Stat. 554; May 27, 1926, ch. 406, § 11 (part), 44 Stat. 665; June 22, 1938, ch. 575, § 1 (part), 52 Stat. 855).
+Based on section 52(b) of title 11, U.S.C., 1940 ed., Bankruptcy (July 1, 1898, ch. 541, § 29b, 30 Stat. 554; May 27, 1926, ch. 406, § 11 (part), 44 Stat. 665; June 22, 1938, ch. 575, § 1 (part), 52 Stat. 855).
 
 Section was broadened to apply to one who gives or offers a bribe.
 
@@ -123,19 +123,19 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 **Savings Provision**
 
-Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§ 151 et seq.), chapter 96 (§ 1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
+Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§ 151 et seq.), chapter 96 (§ 1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
 
-## § 153. Embezzlement against estate
+## § 153. Embezzlement against estate
 
 **(a) Offense.—** A person described in subsection (b) who knowingly and fraudulently appropriates to the person’s own use, embezzles, spends, or transfers any property or secretes or destroys any document belonging to the estate of a debtor shall be fined under this title, imprisoned not more than 5 years, or both.
 
 **(b) Person to Whom Section Applies.—** A person described in this subsection is one who has access to property or documents belonging to an estate by virtue of the person’s participation in the administration of the estate as a trustee, custodian, marshal, attorney, or other officer of the court or as an agent, employee, or other person engaged by such an officer to perform a service with respect to the estate.
 
-(June 25, 1948, ch. 645, 62 Stat. 690; Pub. L. 95–598, title III, § 314(a)(1), (d)(1), (2), Nov. 6, 1978, 92 Stat. 2676, 2677; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 103–394, title III, § 312(a)(1)(A), Oct. 22, 1994, 108 Stat. 4139; Pub. L. 104–294, title VI, § 601(a)(1), Oct. 11, 1996, 110 Stat. 3497.)
+(June 25, 1948, ch. 645, 62 Stat. 690; Pub. L. 95–598, title III, § 314(a)(1), (d)(1), (2), Nov. 6, 1978, 92 Stat. 2676, 2677; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 103–394, title III, § 312(a)(1)(A), Oct. 22, 1994, 108 Stat. 4139; Pub. L. 104–294, title VI, § 601(a)(1), Oct. 11, 1996, 110 Stat. 3497.)
 
 **Historical and Revision Notes**
 
-Based on section 52(a) of title 11, U.S.C., 1940 ed., Bankruptcy (July 1, 1898, ch. 541, § 29a, 30 Stat. 554; May 27, 1926, ch. 406, § 11 (part), 44 Stat. 665; June 22, 1938, ch. 575, § 1 (part), 52 Stat. 855).
+Based on section 52(a) of title 11, U.S.C., 1940 ed., Bankruptcy (July 1, 1898, ch. 541, § 29a, 30 Stat. 554; May 27, 1926, ch. 406, § 11 (part), 44 Stat. 665; June 22, 1938, ch. 575, § 1 (part), 52 Stat. 855).
 
 Minor changes were made in phraseology.
 
@@ -149,7 +149,7 @@ Minor changes were made in phraseology.
 
 Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-1978—Pub. L. 95–598 struck out “, receiver” after “trustee” in section catchline and in text struck out “receiver,” before “custodian” and substituted “debtor” for “bankrupt”.
+1978—Pub. L. 95–598 struck out “, receiver” after “trustee” in section catchline and in text struck out “receiver,” before “custodian” and substituted “debtor” for “bankrupt”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -163,9 +163,9 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 **Savings Provision**
 
-Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§ 151 et seq.), chapter 96 (§ 1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
+Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§ 151 et seq.), chapter 96 (§ 1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
 
-## § 154. Adverse interest and conduct of officers
+## § 154. Adverse interest and conduct of officers
 
 A person who, being a custodian, trustee, marshal, or other officer of the court—
 
@@ -177,11 +177,11 @@ A person who, being a custodian, trustee, marshal, or other officer of the court
 
 shall be fined under this title and shall forfeit the person’s office, which shall thereupon become vacant.
 
-(June 25, 1948, ch. 645, 62 Stat. 690; Pub. L. 95–598, title III, § 314(a)(2), (e)(1), (2), Nov. 6, 1978, 92 Stat. 2676, 2677; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 103–394, title III, § 312(a)(1)(A), Oct. 22, 1994, 108 Stat. 4139; Pub. L. 104–294, title VI, § 601(a)(1), Oct. 11, 1996, 110 Stat. 3497.)
+(June 25, 1948, ch. 645, 62 Stat. 690; Pub. L. 95–598, title III, § 314(a)(2), (e)(1), (2), Nov. 6, 1978, 92 Stat. 2676, 2677; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 103–394, title III, § 312(a)(1)(A), Oct. 22, 1994, 108 Stat. 4139; Pub. L. 104–294, title VI, § 601(a)(1), Oct. 11, 1996, 110 Stat. 3497.)
 
 **Historical and Revision Notes**
 
-Based on section 52(c) of title 11, U.S.C., 1940 ed., Bankruptcy (July 1, 1898, ch. 541, § 29c, 30 Stat. 554; June 22, 1938, ch. 575, § 1 (part), 52 Stat. 856).
+Based on section 52(c) of title 11, U.S.C., 1940 ed., Bankruptcy (July 1, 1898, ch. 541, § 29c, 30 Stat. 554; June 22, 1938, ch. 575, § 1 (part), 52 Stat. 856).
 
 Minor changes were made in phraseology.
 
@@ -215,13 +215,13 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 **Savings Provision**
 
-Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§ 151 et seq.), chapter 96 (§ 1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
+Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§ 151 et seq.), chapter 96 (§ 1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
 
-## § 155. Fee agreements in cases under title 11 and receiverships
+## § 155. Fee agreements in cases under title 11 and receiverships
 
 Whoever, being a party in interest, whether as a debtor, creditor, receiver, trustee or representative of any of them, or attorney for any such party in interest, in any receivership or case under title 11 in any United States court or under its supervision, knowingly and fraudulently enters into any agreement, express or implied, with another such party in interest or attorney for another such party in interest, for the purpose of fixing the fees or other compensation to be paid to any party in interest or to any attorney for any party in interest for services rendered in connection therewith, from the assets of the estate, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 690; May 24, 1949, ch. 139, § 4, 63 Stat. 90; Pub. L. 95–598, title III, § 314(f)(1), (2), Nov. 6, 1978, 92 Stat. 2677; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 690; May 24, 1949, ch. 139, § 4, 63 Stat. 90; Pub. L. 95–598, title III, § 314(f)(1), (2), Nov. 6, 1978, 92 Stat. 2677; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
@@ -257,9 +257,9 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 
 **Savings Provision**
 
-Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§ 151 et seq.), chapter 96 (§ 1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
+Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§ 151 et seq.), chapter 96 (§ 1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
 
-## § 156. Knowing disregard of bankruptcy law or rule
+## § 156. Knowing disregard of bankruptcy law or rule
 
 **(a) Definitions.—** In this section—
 
@@ -269,7 +269,7 @@ Amendment by section 314 of Pub. L. 95–598 not to affect the application of ch
 
 **(b) Offense.—** If a bankruptcy case or related proceeding is dismissed because of a knowing attempt by a bankruptcy petition preparer in any manner to disregard the requirements of title 11, United States Code, or the Federal Rules of Bankruptcy Procedure, the bankruptcy petition preparer shall be fined under this title, imprisoned not more than 1 year, or both.
 
-(Added Pub. L. 103–394, title III, § 312(a)(1)(B), Oct. 22, 1994, 108 Stat. 4140; amended Pub. L. 109–8, title XII, § 1220, Apr. 20, 2005, 119 Stat. 195.)
+(Added Pub. L. 103–394, title III, § 312(a)(1)(B), Oct. 22, 1994, 108 Stat. 4140; amended Pub. L. 109–8, title XII, § 1220, Apr. 20, 2005, 119 Stat. 195.)
 
 **Editorial Notes**
 
@@ -279,7 +279,7 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b), are set o
 
 **Amendments**
 
-2005—Subsec. (a). Pub. L. 109–8, in first par., inserted “(1) the term” before “ ‘bankruptcy petition preparer’ ” and substituted “; and” for period at end and, in second par., inserted “(2) the term” before “ ‘document for filing’ ” and substituted “title 11” for “this title”.
+2005—Subsec. (a). Pub. L. 109–8, in first par., inserted “(1) the term” before “ ‘bankruptcy petition preparer’ ” and substituted “; and” for period at end and, in second par., inserted “(2) the term” before “ ‘document for filing’ ” and substituted “title 11” for “this title”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -291,7 +291,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 Section effective Oct. 22, 1994, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as an Effective Date of 1994 Amendment note under section 101 of Title 11.
 
-## § 157. Bankruptcy fraud
+## § 157. Bankruptcy fraud
 
 A person who, having devised or intending to devise a scheme or artifice to defraud and for the purpose of executing or concealing such a scheme or artifice or attempting to do so—
 
@@ -303,17 +303,17 @@ A person who, having devised or intending to devise a scheme or artifice to defr
 
 shall be fined under this title, imprisoned not more than 5 years, or both.
 
-(Added Pub. L. 103–394, title III, § 312(a)(1)(B), Oct. 22, 1994, 108 Stat. 4140; amended Pub. L. 109–8, title III, § 332(c), Apr. 20, 2005, 119 Stat. 103; Pub. L. 111–327, § 2(b), Dec. 22, 2010, 124 Stat. 3562.)
+(Added Pub. L. 103–394, title III, § 312(a)(1)(B), Oct. 22, 1994, 108 Stat. 4140; amended Pub. L. 109–8, title III, § 332(c), Apr. 20, 2005, 119 Stat. 103; Pub. L. 111–327, § 2(b), Dec. 22, 2010, 124 Stat. 3562.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Par. (1). Pub. L. 111–327, § 2(b)(1), struck out “bankruptcy” after “involuntary”.
+2010—Par. (1). Pub. L. 111–327, § 2(b)(1), struck out “bankruptcy” after “involuntary”.
 
-Pars. (2), (3). Pub. L. 111–327, § 2(b)(2), struck out “, including a fraudulent involuntary bankruptcy petition under section 303 of such title” after “title 11”.
+Pars. (2), (3). Pub. L. 111–327, § 2(b)(2), struck out “, including a fraudulent involuntary bankruptcy petition under section 303 of such title” after “title 11”.
 
-2005—Pars. (1) to (3). Pub. L. 109–8, which directed insertion of “, including a fraudulent involuntary bankruptcy petition under section 303 of such title” after “title 11”, was executed by making the insertion after “title 11” wherever appearing, to reflect the probable intent of Congress.
+2005—Pars. (1) to (3). Pub. L. 109–8, which directed insertion of “, including a fraudulent involuntary bankruptcy petition under section 303 of such title” after “title 11”, was executed by making the insertion after “title 11” wherever appearing, to reflect the probable intent of Congress.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -325,7 +325,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 Section effective Oct. 22, 1994, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as an Effective Date of 1994 Amendment note under section 101 of Title 11.
 
-## § 158. Designation of United States attorneys and agents of the Federal Bureau of Investigation to address abusive reaffirmations of debt and materially fraudulent statements in bankruptcy schedules
+## § 158. Designation of United States attorneys and agents of the Federal Bureau of Investigation to address abusive reaffirmations of debt and materially fraudulent statements in bankruptcy schedules
 
 **(a) In General.—** The Attorney General of the United States shall designate the individuals described in subsection (b) to have primary responsibility in carrying out enforcement activities in addressing violations of section 152 or 157 relating to abusive reaffirmations of debt. In addition to addressing the violations referred to in the preceding sentence, the individuals described under subsection (b) shall address violations of section 152 or 157 relating to materially fraudulent statements in bankruptcy schedules that are intentionally false or intentionally misleading.
 
@@ -339,7 +339,7 @@ Section effective Oct. 22, 1994, and not applicable with respect to cases commen
 
 **(d) Bankruptcy Procedures.—** The bankruptcy courts shall establish procedures for referring any case that may contain a materially fraudulent statement in a bankruptcy schedule to the individuals designated under this section.
 
-(Added Pub. L. 109–8, title II, § 203(b)(1), Apr. 20, 2005, 119 Stat. 49.)
+(Added Pub. L. 109–8, title II, § 203(b)(1), Apr. 20, 2005, 119 Stat. 49.)
 
 **Statutory Notes and Related Subsidiaries**
 

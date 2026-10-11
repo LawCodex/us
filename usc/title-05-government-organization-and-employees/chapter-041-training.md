@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2004—Pub. L. 108–411, title II, § 201(b)(2), Oct. 30, 2004, 118 Stat. 2312, added item 4121.
+2004—Pub. L. 108–411, title II, § 201(b)(2), Oct. 30, 2004, 118 Stat. 2312, added item 4121.
 
-2003—Pub. L. 108–7, div. H, title I, § 1010(b), Feb. 20, 2003, 117 Stat. 360, added item 4120.
+2003—Pub. L. 108–7, div. H, title I, § 1010(b), Feb. 20, 2003, 117 Stat. 360, added item 4120.
 
-2002—Pub. L. 107–296, title XIII, § 1331(b), Nov. 25, 2002, 116 Stat. 2299, substituted “Academic degree training” for “Restriction on degree training” in item 4107.
+2002—Pub. L. 107–296, title XIII, § 1331(b), Nov. 25, 2002, 116 Stat. 2299, substituted “Academic degree training” for “Restriction on degree training” in item 4107.
 
-1995—Pub. L. 104–66, title II, § 2181(c)(2), Dec. 21, 1995, 109 Stat. 732, struck out item 4113 “Agency review of training needs; annual program reports”.
+1995—Pub. L. 104–66, title II, § 2181(c)(2), Dec. 21, 1995, 109 Stat. 732, struck out item 4113 “Agency review of training needs; annual program reports”.
 
-1994—Pub. L. 103–226, § 2(b)(2), Mar. 30, 1994, 108 Stat. 112, struck out item 4106 “Non-Government facilities; amount of training limited”, substituted “Restriction on degree training” for “Non-Government facilities; restrictions” in item 4107, and struck out item 4114 “Non-Government facilities; review of training programs”.
+1994—Pub. L. 103–226, § 2(b)(2), Mar. 30, 1994, 108 Stat. 112, struck out item 4106 “Non-Government facilities; amount of training limited”, substituted “Restriction on degree training” for “Non-Government facilities; restrictions” in item 4107, and struck out item 4114 “Non-Government facilities; review of training programs”.
 
-1982—Pub. L. 97–346, § 1(b), Oct. 15, 1982, 96 Stat. 1647, added item 4119.
+1982—Pub. L. 97–346, § 1(b), Oct. 15, 1982, 96 Stat. 1647, added item 4119.
 
-## § 4101. Definitions
+## § 4101. Definitions
 
 For the purpose of this chapter—
 
@@ -75,13 +75,13 @@ For the purpose of this chapter—
 
 **(F)** the services and property of any of the foregoing furnishing the training.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 432; Pub. L. 90–206, title II, § 224(a), Dec. 16, 1967, 81 Stat. 642; Pub. L. 97–258, § 3(a)(8), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 103–226, § 2(a)(1), Mar. 30, 1994, 108 Stat. 111; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 432; Pub. L. 90–206, title II, § 224(a), Dec. 16, 1967, 81 Stat. 642; Pub. L. 97–258, § 3(a)(8), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 103–226, § 2(a)(1), Mar. 30, 1994, 108 Stat. 111; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2302. | July 7, 1958, Pub. L. 85–507, § 3, 72 Stat. 328. |
+|  | 5 U.S.C. 2302. | July 7, 1958, Pub. L. 85–507, § 3, 72 Stat. 328. |
 
 In paragraph (1), the word “agency” is substituted for “department”. Reference to the “General Accounting Office” is omitted as included in “independent establishment” because of the definition in section 104.
 
@@ -125,7 +125,7 @@ For transfer of Environmental Science Services Administration to National Oceani
 
 Functions of President under subsec. (6)(B) of this section delegated to head of each agency concerned, see section 402 of Ex. Ord. No. 11348, Apr. 20, 1967, 32 F.R. 6335, set out as a note under section 4103 of this title.
 
-## § 4102. Exceptions; Presidential authority
+## § 4102. Exceptions; Presidential authority
 
 **(a)**
 
@@ -151,13 +151,13 @@ Functions of President under subsec. (6)(B) of this section delegated to head of
 
 However, the President may not except the Office of Personnel Management from a provision of this chapter which vests in or imposes on the Office a function, duty, or responsibility concerning any matter except the establishment, operation, and maintenance, in the same capacity as other agencies, of training programs and plans for its employees.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 433; Pub. L. 90–83, § 1(4), Sept. 11, 1967, 81 Stat. 196; Pub. L. 94–183, § 2(11), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, § 2(a)(15), (19), Aug. 14, 1979, 93 Stat. 382.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 433; Pub. L. 90–83, § 1(4), Sept. 11, 1967, 81 Stat. 196; Pub. L. 94–183, § 2(11), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, § 2(a)(15), (19), Aug. 14, 1979, 93 Stat. 382.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2303. | July 7, 1958, Pub. L. 85–507, § 4, 72 Stat. 329. May 26, 1959, Pub. L. 86–33, 73 Stat. 62. Aug. 2, 1962, Pub. L. 87–566, 76 Stat. 264. |
+|  | 5 U.S.C. 2303. | July 7, 1958, Pub. L. 85–507, § 4, 72 Stat. 329. May 26, 1959, Pub. L. 86–33, 73 Stat. 62. Aug. 2, 1962, Pub. L. 87–566, 76 Stat. 264. |
 
 In subsection (a)(1), the exception for the President and Vice President is omitted as surplusage as these elected officers are not employed in or under an agency and thus are not included in the definition of “employee” in section 4101(2).
 
@@ -173,9 +173,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Amendments**
 
-1979—Subsec. (a)(1)(C). Pub. L. 96–54, § 2(a)(19), substituted “National Oceanic and Atmospheric” for “Environmental Science Services”.
+1979—Subsec. (a)(1)(C). Pub. L. 96–54, § 2(a)(19), substituted “National Oceanic and Atmospheric” for “Environmental Science Services”.
 
-Subsec. (b). Pub. L. 96–54, § 2(a)(15), substituted “Office” for “Commission”.
+Subsec. (b). Pub. L. 96–54, § 2(a)(15), substituted “Office” for “Commission”.
 
 1978—Subsec. (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
@@ -231,7 +231,7 @@ Sec. 2. The Attorney General is hereby designated and empowered to exercise the 
 
 Sec. 3. Executive Order No. 11531 of May 26, 1970, is hereby superseded.
 
-## § 4103. Establishment of training programs
+## § 4103. Establishment of training programs
 
 **(a)** In order to assist in achieving an agency’s mission and performance goals by improving employee and organizational performance, the head of each agency, in conformity with this chapter, shall establish, operate, maintain, and evaluate a program or programs, and a plan or plans thereunder, for the training of employees in or under the agency by, in, and through Government facilities and non-Government facilities. Each program, and plan thereunder, shall—
 
@@ -263,13 +263,13 @@ Two or more agencies jointly may operate under a training program.
 
 **(2)** modify such program or plan as needed to accomplish such plans and goals.
 
-(Pub. L. 89–554, Sept. 6, 1966. 80 Stat. 433; Pub. L. 95–454, title III, § 304, Oct. 13, 1978, 92 Stat. 1146; Pub. L. 103–226, § 2(a)(2), Mar. 30, 1994, 108 Stat. 111; Pub. L. 108–411, title II, § 201(a), Oct. 30, 2004, 118 Stat. 2311.)
+(Pub. L. 89–554, Sept. 6, 1966. 80 Stat. 433; Pub. L. 95–454, title III, § 304, Oct. 13, 1978, 92 Stat. 1146; Pub. L. 103–226, § 2(a)(2), Mar. 30, 1994, 108 Stat. 111; Pub. L. 108–411, title II, § 201(a), Oct. 30, 2004, 118 Stat. 2311.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2306. | July 7, 1958, Pub. L. 85–507, § 7, 72 Stat. 331. |
+|  | 5 U.S.C. 2306. | July 7, 1958, Pub. L. 85–507, § 7, 72 Stat. 331. |
 
 The words “Within two hundred and seventy days after the date of enactment of this Act [July 7, 1958]” are omitted as obsolete.
 
@@ -283,15 +283,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 2004—Subsec. (c). Pub. L. 108–411 added subsec. (c).
 
-1994—Subsec. (a). Pub. L. 103–226, § 2(a)(2)(A)(i), in introductory provisions, substituted “In order to assist in achieving an agency’s mission and performance goals by improving employee and organizational performance, the head of each agency, in conformity with this chapter, shall establish, operate, maintain, and evaluate” for “In order to increase economy and efficiency in the operations of the agency and to raise the standards of performance by employees of their official duties to the maximum possible level of proficiency, the head of each agency, in conformity with this chapter, shall establish, operate, and maintain”.
+1994—Subsec. (a). Pub. L. 103–226, § 2(a)(2)(A)(i), in introductory provisions, substituted “In order to assist in achieving an agency’s mission and performance goals by improving employee and organizational performance, the head of each agency, in conformity with this chapter, shall establish, operate, maintain, and evaluate” for “In order to increase economy and efficiency in the operations of the agency and to raise the standards of performance by employees of their official duties to the maximum possible level of proficiency, the head of each agency, in conformity with this chapter, shall establish, operate, and maintain”.
 
-Subsec. (a)(3), (4). Pub. L. 103–226, § 2(a)(2)(A)(ii)–(iv), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (a)(3), (4). Pub. L. 103–226, § 2(a)(2)(A)(ii)–(iv), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (b)(1). Pub. L. 103–226, § 2(a)(2)(B)(i), substituted “determines that such training would be in the interests of the Government.” for “determines that the employee will otherwise be separated under conditions which would entitle the employee to severance pay under section 5595 of this title.”
+Subsec. (b)(1). Pub. L. 103–226, § 2(a)(2)(B)(i), substituted “determines that such training would be in the interests of the Government.” for “determines that the employee will otherwise be separated under conditions which would entitle the employee to severance pay under section 5595 of this title.”
 
-Subsec. (b)(2). Pub. L. 103–226, § 2(a)(2)(B)(ii), (iii), redesignated par. (3) as (2), in subpar. (C) substituted “such training” for “retaining the employee in the Federal service”, and struck out former par. (2) which read as follows: “Before undertaking any training under this subsection, the head of the agency shall obtain verification from the Office of Personnel Management that there exists a reasonable expectation of placement in another agency.”
+Subsec. (b)(2). Pub. L. 103–226, § 2(a)(2)(B)(ii), (iii), redesignated par. (3) as (2), in subpar. (C) substituted “such training” for “retaining the employee in the Federal service”, and struck out former par. (2) which read as follows: “Before undertaking any training under this subsection, the head of the agency shall obtain verification from the Office of Personnel Management that there exists a reasonable expectation of placement in another agency.”
 
-Subsec. (b)(3). Pub. L. 103–226, § 2(a)(2)(B)(ii), redesignated par. (3) as (2).
+Subsec. (b)(3). Pub. L. 103–226, § 2(a)(2)(B)(ii), redesignated par. (3) as (2).
 
 1978—Pub. L. 95–454 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -303,7 +303,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 **Ensuring Anti-Trafficking-In-Persons Trainings and Provisions Into Codes of Conduct of All Federal Departments and Executive Agencies**
 
-Pub. L. 117–348, title I, § 122, Jan. 5, 2023, 136 Stat. 6217, provided that:
+Pub. L. 117–348, title I, § 122, Jan. 5, 2023, 136 Stat. 6217, provided that:
 
 > **“(a) Findings.—** Congress finds the following:
 
@@ -359,7 +359,7 @@ Pub. L. 117–348, title I, § 122, Jan. 5, 2023, 136 Stat. 6217, provided tha
 
 **Optional Participation of Federal Employees in AIDS Training Programs**
 
-Pub. L. 104–146, § 9, May 20, 1996, 110 Stat. 1373, provided that:
+Pub. L. 104–146, § 9, May 20, 1996, 110 Stat. 1373, provided that:
 
 > **“(a) In General.—** Notwithstanding any other provision of law, a Federal employee may not be required to attend or participate in an AIDS or HIV training program if such employee refuses to consent to such attendance or participation, except for training necessary to protect the health and safety of the Federal employee and the individuals served by such employees. An employer may not retaliate in any manner against such an employee because of the refusal of such employee to consent to such attendance or participation.
 
@@ -367,7 +367,7 @@ Pub. L. 104–146, § 9, May 20, 1996, 110 Stat. 1373, provided that:
 
 **Experimental Program Relating to Acceptance of Voluntary Services From Participants in Executive Exchange Program**
 
-Pub. L. 101–416, § 1, Oct. 12, 1990, 104 Stat. 902, authorized a 90-day extension of programs established under Pub. L. 99–424 for individuals who were participating in the program on the expiration date.
+Pub. L. 101–416, § 1, Oct. 12, 1990, 104 Stat. 902, authorized a 90-day extension of programs established under Pub. L. 99–424 for individuals who were participating in the program on the expiration date.
 
 Pub. L. 99–424, Sept. 30, 1986, 100 Stat. 964, as amended by Pub. L. 101–87, Aug. 16, 1989, 103 Stat. 595, authorized President to establish an experimental program, to be conducted during fiscal years 1987 through 1990, under which voluntary services could be accepted by the Government, without regard to 31 U.S.C. 1342.
 
@@ -375,7 +375,7 @@ Pub. L. 99–424, Sept. 30, 1986, 100 Stat. 964, as amended by Pub. L. 101–87,
 
 **Department of Homeland Security**
 
-Exception from provisions of subsec. (a)(1) of this section of those elements of the Department of Homeland Security that are supervised by the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection through the Department’s Assistant Secretary for Information Analysis, see Ex. Ord. No. 13286, § 86, Feb. 28, 2003, 68 F.R. 10632, set out as a note under section 111 of Title 6, Domestic Security.
+Exception from provisions of subsec. (a)(1) of this section of those elements of the Department of Homeland Security that are supervised by the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection through the Department’s Assistant Secretary for Information Analysis, see Ex. Ord. No. 13286, § 86, Feb. 28, 2003, 68 F.R. 10632, set out as a note under section 111 of Title 6, Domestic Security.
 
 **Central Intelligence Agency**
 
@@ -485,7 +485,7 @@ Ex. Ord. No. 12136, May 15, 1979, 44 F.R. 28771, which continued the President�
 
 **Executive Order No. 12493**
 
-Ex. Ord. No. 12493, Dec. 5, 1984, 49 F.R. 47819, as amended by Ex. Ord. No. 12516, May 21, 1985, 50 F.R. 21417; Ex. Ord. No. 12602, July 15, 1987, 52 F.R. 27187, which continued the President’s Commission on Executive Exchange, was revoked by Ex. Ord. No. 12760, § 2, May 2, 1991, 56 F.R. 21062, set out below.
+Ex. Ord. No. 12493, Dec. 5, 1984, 49 F.R. 47819, as amended by Ex. Ord. No. 12516, May 21, 1985, 50 F.R. 21417; Ex. Ord. No. 12602, July 15, 1987, 52 F.R. 27187, which continued the President’s Commission on Executive Exchange, was revoked by Ex. Ord. No. 12760, § 2, May 2, 1991, 56 F.R. 21062, set out below.
 
 **Ex. Ord. No. 12574. Establishing Experimental Program Within President’s Commission on Executive Exchange**
 
@@ -515,7 +515,7 @@ George Bush.
 
 **Ex. Ord. No. 13111. Using Technology To Improve Training Opportunities for Federal Government Employees**
 
-Ex. Ord. No. 13111, Jan. 12, 1999, 64 F.R. 2793, as amended by Ex. Ord. No. 13188, Jan. 12, 2001, 66 F.R. 5419; Ex. Ord. No. 13218, § 3(a), June 20, 2001, 66 F.R. 33628; Ex. Ord. No. 13316, § 3(a), Sept. 17, 2003, 68 F.R. 55255, provided:
+Ex. Ord. No. 13111, Jan. 12, 1999, 64 F.R. 2793, as amended by Ex. Ord. No. 13188, Jan. 12, 2001, 66 F.R. 5419; Ex. Ord. No. 13218, § 3(a), June 20, 2001, 66 F.R. 33628; Ex. Ord. No. 13316, § 3(a), Sept. 17, 2003, 68 F.R. 55255, provided:
 
 Advances in technology and increased skills needs are changing the workplace at an ever increasing rate. These advances can make Federal employees more productive and provide improved service to our customers, the American taxpayers. We need to ensure that we continue to train Federal employees to take full advantage of these technological advances and to acquire the skills and learning needed to succeed in a changing workplace. A coordinated Federal effort is needed to provide flexible training opportunities to employees and to explore how Federal training programs, initiatives, and policies can better support lifelong learning through the use of learning technology.
 
@@ -587,7 +587,7 @@ Sec. 4. *Duties of Specific Federal Agencies*. (a) In light of the Office of Per
 
 (d) Each Executive department shall designate at least one subject area of training that it will use to demonstrate opportunities in technology-based training and assign an agency leader in the designated area. Leaders in these training technology experiments shall work closely with other agencies with similar training interests. Each Executive department shall develop a plan for measuring and evaluating the effectiveness, cost-effectiveness, and benefits to employees and the agency for each designated subject area.
 
-[Secs. 5 to 7. Revoked by Ex. Ord. No. 13316, § 3(a), Sept. 17, 2003, 68 F.R. 55255, eff. Sept. 30, 2003.]
+[Secs. 5 to 7. Revoked by Ex. Ord. No. 13316, § 3(a), Sept. 17, 2003, 68 F.R. 55255, eff. Sept. 30, 2003.]
 
 Sec. 8. *Definitions*. (a) As used in this order, the terms “agency,” “employee,” “Government,” and “training” have the meaning given to those terms, respectively, by section 4101 of title 5, United States Code.
 
@@ -597,7 +597,7 @@ Sec. 9. *Judicial Review*. This order does not create any enforceable rights aga
 
 **Executive Order No. 13950**
 
-Ex. Ord. No. 13950, Sept. 22, 2020, 85 F.R. 60683, which prohibited certain workplace training relating to race and gender in the Federal workforce, Uniformed Services, and Federal contractors, was revoked by Ex. Ord. No. 13985, § 10(a), Jan. 20, 2021, 86 F.R. 7012, set out in a note under section 601 of this title.
+Ex. Ord. No. 13950, Sept. 22, 2020, 85 F.R. 60683, which prohibited certain workplace training relating to race and gender in the Federal workforce, Uniformed Services, and Federal contractors, was revoked by Ex. Ord. No. 13985, § 10(a), Jan. 20, 2021, 86 F.R. 7012, set out in a note under section 601 of this title.
 
 **Ex. Ord. No. 14207. Eliminating the Federal Executive Institute**
 
@@ -625,7 +625,7 @@ Sec. 3. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-## § 4104. Government facilities; use of
+## § 4104. Government facilities; use of
 
 An agency program for the training of employees by, in, and through Government facilities under this chapter shall—
 
@@ -643,23 +643,23 @@ An agency program for the training of employees by, in, and through Government f
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2307. | July 7, 1958, Pub. L. 85–507, § 8, 72 Stat. 331. |
+|  | 5 U.S.C. 2307. | July 7, 1958, Pub. L. 85–507, § 8, 72 Stat. 331. |
 
 In paragraph (2), the words “other agencies in any branch of the Government” and “the other agencies” are coextensive with and substituted for “other departments, and with other agencies in any branch of the Government” and “such other departments and agencies”. This is so because “other agencies in any branch of the Government” is broader than “agency” as defined for the purpose of this chapter in section 4101(1).
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-## § 4105. Non-Government facilities; use of
+## § 4105. Non-Government facilities; use of
 
 The head of an agency, without regard to section 6101(b) to (d) of title 41, may make agreements or other arrangements for the training of employees of the agency by, in, or through non-Government facilities under this chapter.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 434; Pub. L. 103–226, § 2(a)(3), Mar. 30, 1994, 108 Stat. 111; Pub. L. 111–350, § 5(a)(7), Jan. 4, 2011, 124 Stat. 3841.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 434; Pub. L. 103–226, § 2(a)(3), Mar. 30, 1994, 108 Stat. 111; Pub. L. 111–350, § 5(a)(7), Jan. 4, 2011, 124 Stat. 3841.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2308. | July 7, 1958, Pub. L. 85–507, § 9, 72 Stat. 331. |
+|  | 5 U.S.C. 2308. | July 7, 1958, Pub. L. 85–507, § 9, 72 Stat. 331. |
 
 In subsection (a), the word “appropriate” is omitted as unnecessary.
 
@@ -685,11 +685,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 “(c) In order to protect the Government concerning payment and reimbursement of training expenses, each agency shall prescribe such regulations as it considers necessary to implement the regulations prescribed under section 4118(a)(8) of this title.”
 
-## [§ 4106. Repealed. Pub. L. 103–226, § 2(a)(4), Mar. 30, 1994, 108 Stat. 112]
+## [§ 4106. Repealed. Pub. L. 103–226, § 2(a)(4), Mar. 30, 1994, 108 Stat. 112]
 
-Section, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 434; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224, related to limitations on amount of training of employees through non-Government facilities.
+Section, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 434; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224, related to limitations on amount of training of employees through non-Government facilities.
 
-## § 4107. Academic degree training
+## § 4107. Academic degree training
 
 **(a)** Subject to subsection (b), an agency may select and assign an employee to academic degree training and may pay or reimburse the costs of academic degree training from appropriated or other available funds if such training—
 
@@ -723,15 +723,15 @@ Section, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 434; Pub. L. 95–454, title 
 
 **(4)** to the greatest extent practicable, facilitate the use of online degree training.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 435; Pub. L. 101–510, div. A, title XII, § 1206(a), Nov. 5, 1990, 104 Stat. 1659; Pub. L. 103–226, § 2(a)(5), Mar. 30, 1994, 108 Stat. 112; Pub. L. 106–398, § 1 [[div. A], title XI, § 1121], Oct. 30, 2000, 114 Stat. 1654, 1654A–315; Pub. L. 107–296, title XIII, § 1331(a), Nov. 25, 2002, 116 Stat. 2298.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 435; Pub. L. 101–510, div. A, title XII, § 1206(a), Nov. 5, 1990, 104 Stat. 1659; Pub. L. 103–226, § 2(a)(5), Mar. 30, 1994, 108 Stat. 112; Pub. L. 106–398, § 1 [[div. A], title XI, § 1121], Oct. 30, 2000, 114 Stat. 1654, 1654A–315; Pub. L. 107–296, title XIII, § 1331(a), Nov. 25, 2002, 116 Stat. 2298.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a) | 5 U.S.C. 2313. | July 7, 1958, Pub. L. 85–507, § 14, 72 Stat. 334. |
-| (b) | 5 U.S.C. 2318(d). | July 7, 1958, Pub. L. 85–507, § 19(d), 72 Stat. 336. |
-| (c) | 5 U.S.C. 2312. | July 7, 1958, Pub. L. 85–507, § 13, 72 Stat. 334. |
+| (a) | 5 U.S.C. 2313. | July 7, 1958, Pub. L. 85–507, § 14, 72 Stat. 334. |
+| (b) | 5 U.S.C. 2318(d). | July 7, 1958, Pub. L. 85–507, § 19(d), 72 Stat. 336. |
+| (c) | 5 U.S.C. 2312. | July 7, 1958, Pub. L. 85–507, § 13, 72 Stat. 334. |
 
 The prohibitions are restated in positive form.
 
@@ -747,31 +747,31 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 2002—Pub. L. 107–296 amended section catchline and text generally, substituting provisions authorizing selection and assignment of employees for academic degree training and payment or reimbursement of costs, for provisions relating to restrictions on degree training or the payment or reimbursement of the costs of training and provisions setting forth exceptions and special rules with respect to employees of the Department of Defense.
 
-2000—Subsec. (a). Pub. L. 106–398, § 1 [[div. A], title XI, § 1121(1)], substituted “subsections (b) and (c)” for “subsection (b)” in introductory provisions.
+2000—Subsec. (a). Pub. L. 106–398, § 1 [[div. A], title XI, § 1121(1)], substituted “subsections (b) and (c)” for “subsection (b)” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 106–398, § 1 [[div. A], title XI, § 1121(2)], substituted “subsection (a) or (c)” for “subsection (a)”.
+Subsec. (b)(1). Pub. L. 106–398, § 1 [[div. A], title XI, § 1121(2)], substituted “subsection (a) or (c)” for “subsection (a)”.
 
-Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title XI, § 1121(3)], added subsec. (c).
+Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title XI, § 1121(3)], added subsec. (c).
 
-1994—Pub. L. 103–226, § 2(a)(5)(A), substituted “Restriction on degree training” for “Non-Government facilities; restrictions” in section catchline.
+1994—Pub. L. 103–226, § 2(a)(5)(A), substituted “Restriction on degree training” for “Non-Government facilities; restrictions” in section catchline.
 
-Subsec. (a). Pub. L. 103–226, § 2(a)(5)(B), (C), redesignated subsec. (c) as (a), in introductory provisions substituted “subsection (b)” for “subsection (d)” and struck out “by, in, or through a non-Government facility” after “employee for training”, and struck out former subsec. (a) which read as follows: “Appropriations or other funds available to an agency are not available for payment for training an employee—
+Subsec. (a). Pub. L. 103–226, § 2(a)(5)(B), (C), redesignated subsec. (c) as (a), in introductory provisions substituted “subsection (b)” for “subsection (d)” and struck out “by, in, or through a non-Government facility” after “employee for training”, and struck out former subsec. (a) which read as follows: “Appropriations or other funds available to an agency are not available for payment for training an employee—
 
 “(1) by, in or through a non-Government facility which teaches or advocates the overthrow of the Government of the United States by force or violence; or
 
 “(2) by or through an individual concerning whom determination has been made by a proper Government administrative or investigatory authority that, on the basis of information or evidence developed in investigations and procedures authorized by law or Executive order, there exists a reasonable doubt of his loyalty to the United States.”
 
-Subsec. (b). Pub. L. 103–226, § 2(a)(5)(B), (D), redesignated subsec. (d) as (b), substituted “subsection (a)” for “subsection (c)” in par. (1), and struck out former subsec. (b) which read as follows: “This chapter does not authorize training an employee by, in, or through a non-Government facility a substantial part of the activities of which is—
+Subsec. (b). Pub. L. 103–226, § 2(a)(5)(B), (D), redesignated subsec. (d) as (b), substituted “subsection (a)” for “subsection (c)” in par. (1), and struck out former subsec. (b) which read as follows: “This chapter does not authorize training an employee by, in, or through a non-Government facility a substantial part of the activities of which is—
 
 “(1) carrying on propaganda, or otherwise attempting, to influence legislation; or
 
 “(2) participating or intervening, including publishing or distributing statements, in a political campaign on behalf of a candidate for public office.”
 
-Subsecs. (c), (d). Pub. L. 103–226, § 2(a)(5)(B), redesignated subsecs. (c) and (d) as (a) and (b), respectively.
+Subsecs. (c), (d). Pub. L. 103–226, § 2(a)(5)(B), redesignated subsecs. (c) and (d) as (a) and (b), respectively.
 
-1990—Subsec. (c). Pub. L. 101–510, § 1206(a)(1), substituted “Except as provided in subsection (d) of this section, this” for “This” in introductory provisions.
+1990—Subsec. (c). Pub. L. 101–510, § 1206(a)(1), substituted “Except as provided in subsection (d) of this section, this” for “This” in introductory provisions.
 
-Subsec. (d). Pub. L. 101–510, § 1206(a)(2), added subsec. (d).
+Subsec. (d). Pub. L. 101–510, § 1206(a)(2), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -779,7 +779,7 @@ Subsec. (d). Pub. L. 101–510, § 1206(a)(2), added subsec. (d).
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
-## § 4108. Employee agreements; service after training
+## § 4108. Employee agreements; service after training
 
 **(a)** An employee selected for training for more than a minimum period prescribed by the head of the agency shall agree in writing with the Government before assignment to training that he will—
 
@@ -797,13 +797,13 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 The head of the agency concerned, under the regulations prescribed under section 4118 of this title, may waive in whole or in part a right of recovery under this subsection, if it is shown that the recovery would be against equity and good conscience or against the public interest.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 435; Pub. L. 98–224, § 5(a), Mar. 2, 1984, 98 Stat. 48; Pub. L. 103–226, § 2(a)(6), Mar. 30, 1994, 108 Stat. 112; Pub. L. 107–347, title II, § 209(g)(1)(B), Dec. 17, 2002, 116 Stat. 2932.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 435; Pub. L. 98–224, § 5(a), Mar. 2, 1984, 98 Stat. 48; Pub. L. 103–226, § 2(a)(6), Mar. 30, 1994, 108 Stat. 112; Pub. L. 107–347, title II, § 209(g)(1)(B), Dec. 17, 2002, 116 Stat. 2932.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2310. | July 7, 1958, Pub. L. 85–507, § 11, 72 Stat. 332. |
+|  | 5 U.S.C. 2310. | July 7, 1958, Pub. L. 85–507, § 11, 72 Stat. 332. |
 
 In subsection (a), the last sentence of former section 2310(a) is omitted as included in the first sentence of the revised subsection.
 
@@ -829,13 +829,13 @@ Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see secti
 
 **Department of Homeland Security**
 
-Exception from provisions of this section of those elements of the Department of Homeland Security that are supervised by the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection through the Department’s Assistant Secretary for Information Analysis, see Ex. Ord. No. 13286, § 86, Feb. 28, 2003, 68 F.R. 10632, set out as a note under section 111 of Title 6, Domestic Security.
+Exception from provisions of this section of those elements of the Department of Homeland Security that are supervised by the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection through the Department’s Assistant Secretary for Information Analysis, see Ex. Ord. No. 13286, § 86, Feb. 28, 2003, 68 F.R. 10632, set out as a note under section 111 of Title 6, Domestic Security.
 
 **Central Intelligence Agency**
 
 Exception of Central Intelligence Agency from provisions of this section, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
 
-## § 4109. Expenses of training
+## § 4109. Expenses of training
 
 **(a)** The head of an agency, under the regulations prescribed under section 4118(a)(8) of this title and from appropriations or other funds available to the agency, may—
 
@@ -861,13 +861,13 @@ Exception of Central Intelligence Agency from provisions of this section, see Ex
 
 **(d)** Notwithstanding subsection (a)(1), a firefighter who is subject to section 5545b of this title shall be paid basic pay and overtime pay for the firefighter’s regular tour of duty while attending agency sanctioned training.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 436; Pub. L. 90–83, § 1(4), Sept. 11, 1967, 81 Stat. 196; Pub. L. 96–54, § 2(a)(19), Aug. 14, 1979, 93 Stat. 382; Pub. L. 97–258, § 3(a)(9), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 97–276, § 151(a), Oct. 2, 1982, 96 Stat. 1200; Pub. L. 98–224, § 5(b)(2), Mar. 2, 1984, 98 Stat. 48; Pub. L. 98–525, title XV, § 1537(a), Oct. 19, 1984, 98 Stat. 2635; Pub. L. 102–378, § 2(17), Oct. 2, 1992, 106 Stat. 1347; Pub. L. 105–277, div. A, § 101(h) [title VI, § 628(c)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–263, div. A, title VI, § 626(b)(1), Dec. 23, 2022, 136 Stat. 2628.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 436; Pub. L. 90–83, § 1(4), Sept. 11, 1967, 81 Stat. 196; Pub. L. 96–54, § 2(a)(19), Aug. 14, 1979, 93 Stat. 382; Pub. L. 97–258, § 3(a)(9), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 97–276, § 151(a), Oct. 2, 1982, 96 Stat. 1200; Pub. L. 98–224, § 5(b)(2), Mar. 2, 1984, 98 Stat. 48; Pub. L. 98–525, title XV, § 1537(a), Oct. 19, 1984, 98 Stat. 2635; Pub. L. 102–378, § 2(17), Oct. 2, 1992, 106 Stat. 1347; Pub. L. 105–277, div. A, § 101(h) [title VI, § 628(c)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–263, div. A, title VI, § 626(b)(1), Dec. 23, 2022, 136 Stat. 2628.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2309. | July 7, 1958, Pub. L. 85–507, § 10, 72 Stat. 332. |
+|  | 5 U.S.C. 2309. | July 7, 1958, Pub. L. 85–507, § 10, 72 Stat. 332. |
 
 In subsection (a)(1) and (2), the words “training under this chapter” and “the training” are substituted for “training by, in, or through Government facilities or non-Government facilities under authority of this chapter” and “such training”, respectively.
 
@@ -883,13 +883,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Amendments**
 
-2022—Subsec. (a)(2)(A). Pub. L. 117–263, § 626(b)(1)(A), substituted “sections 405 and 452” for “sections 474 and 475”.
+2022—Subsec. (a)(2)(A). Pub. L. 117–263, § 626(b)(1)(A), substituted “sections 405 and 452” for “sections 474 and 475”.
 
-Subsec. (a)(2)(B). Pub. L. 117–263, § 626(b)(1)(B), substituted “sections 452 and 453(c)” for “sections 476 and 479”.
+Subsec. (a)(2)(B). Pub. L. 117–263, § 626(b)(1)(B), substituted “sections 452 and 453(c)” for “sections 476 and 479”.
 
-2013—Subsec. (a)(2)(A), (B). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(B). See 2011 Amendment note below.
+2013—Subsec. (a)(2)(A), (B). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(B). See 2011 Amendment note below.
 
-2011—Subsec. (a)(2)(A), (B). Pub. L. 112–81, § 631(f)(4)(B), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “474” for “404” and “475” for “405” in subpar. (A), and “476” for “406” and “479” for “409” in subpar. (B).
+2011—Subsec. (a)(2)(A), (B). Pub. L. 112–81, § 631(f)(4)(B), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “474” for “404” and “475” for “405” in subpar. (A), and “476” for “406” and “479” for “409” in subpar. (B).
 
 1998—Subsec. (d). Pub. L. 105–277 added subsec. (d).
 
@@ -911,11 +911,11 @@ Subsec. (c). Pub. L. 97–276 added subsec. (c).
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–277, div. A, § 101(h) [title VI, § 628(e)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521, provided that: “The amendments made by this section [enacting section 5545b of this title and amending this section and sections 5542 and 8331 of this title] shall take effect on the first day of the first applicable pay period which begins on or after October 1, 1998.”
+Pub. L. 105–277, div. A, § 101(h) [title VI, § 628(e)], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521, provided that: “The amendments made by this section [enacting section 5545b of this title and amending this section and sections 5542 and 8331 of this title] shall take effect on the first day of the first applicable pay period which begins on or after October 1, 1998.”
 
 **Effective Date of 1992 Amendment**
 
@@ -923,7 +923,7 @@ Amendment by Pub. L. 102–378 effective Oct. 1, 1991, see section 9(b)(3) of Pu
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–525, title XV, § 1537(f), Oct. 19, 1984, 98 Stat. 2636, provided that: “The amendments made by this section [amending this section and sections 5532, 5546a, 5547, and 8344 of this title] shall take effect on October 1, 1984.”
+Pub. L. 98–525, title XV, § 1537(f), Oct. 19, 1984, 98 Stat. 2636, provided that: “The amendments made by this section [amending this section and sections 5532, 5546a, 5547, and 8344 of this title] shall take effect on October 1, 1984.”
 
 **Effective Date of 1982 Amendment**
 
@@ -937,13 +937,13 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 **Department of Homeland Security**
 
-Exception from introductory provisions of subsec. (a) of this section of those elements of the Department of Homeland Security that are supervised by the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection through the Department’s Assistant Secretary for Information Analysis, see Ex. Ord. No. 13286, § 86, Feb. 28, 2003, 68 F.R. 10632, set out as a note under section 111 of Title 6, Domestic Security.
+Exception from introductory provisions of subsec. (a) of this section of those elements of the Department of Homeland Security that are supervised by the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection through the Department’s Assistant Secretary for Information Analysis, see Ex. Ord. No. 13286, § 86, Feb. 28, 2003, 68 F.R. 10632, set out as a note under section 111 of Title 6, Domestic Security.
 
 **Central Intelligence Agency**
 
 Exception of Central Intelligence Agency from certain introductory provisions of subsec. (a) of this section, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
 
-## § 4110. Expenses of attendance at meetings
+## § 4110. Expenses of attendance at meetings
 
 Appropriations available to an agency for travel expenses are available for expenses of attendance at meetings which are concerned with the functions or activities for which the appropriation is made or which will contribute to improved conduct, supervision, or management of the functions or activities.
 
@@ -953,26 +953,26 @@ Appropriations available to an agency for travel expenses are available for expe
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2318(b). | July 7, 1958, Pub. L. 85–507, § 19(b), 72 Stat. 336. |
+|  | 5 U.S.C. 2318(b). | July 7, 1958, Pub. L. 85–507, § 19(b), 72 Stat. 336. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-## § 4111. Acceptance of contributions, awards, and other payments
+## § 4111. Acceptance of contributions, awards, and other payments
 
 **(a)** To the extent authorized by regulation of the President, contributions and awards incident to training in non-Government facilities, and payment of travel, subsistence, and other expenses incident to attendance at meetings, may be made to and accepted by an employee, without regard to section 209 of title 18, if the contributions, awards, and payments are made by an organization determined by the Secretary of the Treasury to be an organization described by section 501(c)(3) of title 26 which is exempt from taxation under section 501(a) of title 26.
 
 **(b)** When a contribution, award, or payment, in cash or in kind, is made to an employee for travel, subsistence, or other expenses under subsection (a) of this section, an appropriate reduction, under regulations of the President, shall be made from payment by the Government to the employee for travel, subsistence, or other expenses incident to training in a non-Government facility or to attendance at a meeting.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 437; Pub. L. 96–54, § 2(a)(2), Aug. 14, 1979, 93 Stat. 381.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 437; Pub. L. 96–54, § 2(a)(2), Aug. 14, 1979, 93 Stat. 381.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a) | 5 U.S.C. 2318(a). | July 7, 1958, Pub. L. 85–507, § 19(a), 72 Stat. 336. |
-| (b) | 5 U.S.C. 2318(c). | July 7, 1958, Pub. L. 85–507, § 19(c), 72 Stat. 336. |
+| (a) | 5 U.S.C. 2318(a). | July 7, 1958, Pub. L. 85–507, § 19(a), 72 Stat. 336. |
+| (b) | 5 U.S.C. 2318(c). | July 7, 1958, Pub. L. 85–507, § 19(c), 72 Stat. 336. |
 
-In subsection (a), the words “section 209 of title 18” are substituted for “section 1914 of title 18” on authority of the Act of Oct. 23, 1962, Pub. L. 87–849, § 2, 76 Stat. 1126.
+In subsection (a), the words “section 209 of title 18” are substituted for “section 1914 of title 18” on authority of the Act of Oct. 23, 1962, Pub. L. 87–849, § 2, 76 Stat. 1126.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -1000,7 +1000,7 @@ Functions of President under subsec. (a) of this section delegated to Office of 
 
 Functions of President under subsec. (b) of this section delegated to Director of Office of Management and Budget, see Ex. Ord. No. 12152, Aug. 14, 1979, 44 F.R. 48143, set out as a note under section 301 of Title 3, The President.
 
-## § 4112. Absorption of costs within funds available
+## § 4112. Absorption of costs within funds available
 
 **(a)** The President, to the extent he considers practicable, shall provide by regulation for the absorption of the costs of the training programs and plans under this chapter by the respective agencies from applicable appropriations or funds available for each fiscal year.
 
@@ -1010,13 +1010,13 @@ Functions of President under subsec. (b) of this section delegated to Director o
 
 **(2)** the placement of an individual in a leave-without-pay status.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 437; Pub. L. 96–54, § 2(a)(2), Aug. 14, 1979, 93 Stat. 381.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 437; Pub. L. 96–54, § 2(a)(2), Aug. 14, 1979, 93 Stat. 381.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2319. | July 7, 1958, Pub. L. 85–507, § 23, 72 Stat. 338. |
+|  | 5 U.S.C. 2319. | July 7, 1958, Pub. L. 85–507, § 23, 72 Stat. 338. |
 
 In subsection (a), the words “for each fiscal year” are substituted for “for the fiscal year in which this chapter is enacted and for each succeeding fiscal year”.
 
@@ -1042,25 +1042,25 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 Functions of President under subsec. (a) of this section delegated to Director of Office of Management and Budget, see Ex. Ord. No. 12152, Aug. 14, 1979, 44 F.R. 48143, set out as a note under section 301 of Title 3, The President.
 
-## [§ 4113. Repealed. Pub. L. 104–66, title II, § 2181(c)(1), Dec. 21, 1995, 109 Stat. 732]
+## [§ 4113. Repealed. Pub. L. 104–66, title II, § 2181(c)(1), Dec. 21, 1995, 109 Stat. 732]
 
-Section, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 437; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 103–226, § 2(a)(7), Mar. 30, 1994, 108 Stat. 112, related to agency review of training needs and annual program reports.
+Section, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 437; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 103–226, § 2(a)(7), Mar. 30, 1994, 108 Stat. 112, related to agency review of training needs and annual program reports.
 
-## [§ 4114. Repealed. Pub. L. 103–226, § 2(a)(8), Mar. 30, 1994, 108 Stat. 112]
+## [§ 4114. Repealed. Pub. L. 103–226, § 2(a)(8), Mar. 30, 1994, 108 Stat. 112]
 
-Section, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 438; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224, related to review of employee training programs at non-Government facilities.
+Section, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 438; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224, related to review of employee training programs at non-Government facilities.
 
-## § 4115. Collection of training information
+## § 4115. Collection of training information
 
 The Office of Personnel Management, to the extent it considers appropriate in the public interest, may collect information concerning training programs, plans, and the methods inside and outside the Government. The Office, on request, may make the information available to an agency and to Congress.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 438; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 438; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2315. | July 7, 1958, Pub. L. 85–507, § 16, 72 Stat. 335. |
+|  | 5 U.S.C. 2315. | July 7, 1958, Pub. L. 85–507, § 16, 72 Stat. 335. |
 
 In the first sentence, the words “from time to time” are omitted as unnecessary. In the second sentence, the word “appropriate” is omitted as unnecessary.
 
@@ -1082,23 +1082,23 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 **Department of Homeland Security**
 
-Exception from provisions of this section of those elements of the Department of Homeland Security that are supervised by the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection through the Department’s Assistant Secretary for Information Analysis, see Ex. Ord. No. 13286, § 86, Feb. 28, 2003, 68 F.R. 10632, set out as a note under section 111 of Title 6, Domestic Security.
+Exception from provisions of this section of those elements of the Department of Homeland Security that are supervised by the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection through the Department’s Assistant Secretary for Information Analysis, see Ex. Ord. No. 13286, § 86, Feb. 28, 2003, 68 F.R. 10632, set out as a note under section 111 of Title 6, Domestic Security.
 
 **Central Intelligence Agency**
 
 Exception of Central Intelligence Agency from provisions of this section, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
 
-## § 4116. Training program assistance
+## § 4116. Training program assistance
 
 The Office of Personnel Management, on request of an agency, shall advise and assist in the establishment, operation, and maintenance of the training programs and plans of the agency under this chapter, to the extent of its facilities and personnel available for that purpose.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 438; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 438; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2316. | July 7, 1958, Pub. L. 85–507, § 17, 72 Stat. 335. |
+|  | 5 U.S.C. 2316. | July 7, 1958, Pub. L. 85–507, § 17, 72 Stat. 335. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -1114,18 +1114,18 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-## § 4117. Administration
+## § 4117. Administration
 
 The Office of Personnel Management has the responsibility and authority for effective promotion and coordination of the training programs under this chapter and training operations thereunder. The functions, duties, and responsibilities of the Office under this chapter are subject to supervision and control by the President and review by Congress.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 438; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 438; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2301(4). | July 7, 1958, Pub. L. 85–507, § 2(4), 72 Stat. 328. |
-|  | 5 U.S.C. 2318(e). | July 7, 1958, Pub. L. 85–507, § 19(e), 72 Stat. 336. |
+|  | 5 U.S.C. 2301(4). | July 7, 1958, Pub. L. 85–507, § 2(4), 72 Stat. 328. |
+|  | 5 U.S.C. 2318(e). | July 7, 1958, Pub. L. 85–507, § 19(e), 72 Stat. 336. |
 
 Former sections 2301(4) and 2318(e) are combined and restated for clarity.
 
@@ -1147,13 +1147,13 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 **Department of Homeland Security**
 
-Exception from provisions of this section of those elements of the Department of Homeland Security that are supervised by the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection through the Department’s Assistant Secretary for Information Analysis, see Ex. Ord. No. 13286, § 86, Feb. 28, 2003, 68 F.R. 10632, set out as a note under section 111 of Title 6, Domestic Security.
+Exception from provisions of this section of those elements of the Department of Homeland Security that are supervised by the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection through the Department’s Assistant Secretary for Information Analysis, see Ex. Ord. No. 13286, § 86, Feb. 28, 2003, 68 F.R. 10632, set out as a note under section 111 of Title 6, Domestic Security.
 
 **Central Intelligence Agency**
 
 Exception of Central Intelligence Agency from certain provisions of this section, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
 
-## § 4118. Regulations
+## § 4118. Regulations
 
 **(a)** The Office of Personnel Management, after considering the needs and requirements of each agency for training its employees and after consulting with the agencies principally concerned, shall prescribe regulations containing the principles, standards, and related requirements for the programs, and plans thereunder, for the training of employees under this chapter, including requirements for coordination of and reasonable uniformity in the agency training programs and plans. The regulations shall provide for the maintenance of necessary information concerning the general conduct of the training activities of each agency, and such other information as is necessary to enable the President and Congress to discharge effectively their respective duties and responsibilities for supervision, control, and review of these training programs. The regulations also shall cover—
 
@@ -1179,13 +1179,13 @@ Exception of Central Intelligence Agency from certain provisions of this section
 
 **(c)** This section does not authorize the Office to prescribe the types and methods of intra-agency training or to regulate the details of intra-agency training programs.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 438; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 103–226, § 2(a)(9), Mar. 30, 1994, 108 Stat. 112.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 438; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 103–226, § 2(a)(9), Mar. 30, 1994, 108 Stat. 112.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2305. | July 7, 1958, Pub. L. 85–507, § 6, 72 Stat. 329. |
+|  | 5 U.S.C. 2305. | July 7, 1958, Pub. L. 85–507, § 6, 72 Stat. 329. |
 
 In subsection (a), the word “appropriate” is omitted as unnecessary. The words “with respect to training by, in, and through Government facilities and non-Government facilities” are omitted as unnecessary.
 
@@ -1201,9 +1201,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Amendments**
 
-1994—Subsec. (a)(7). Pub. L. 103–226, § 2(a)(9)(A), struck out before semicolon at end “by, in, and through non-Government facilities”.
+1994—Subsec. (a)(7). Pub. L. 103–226, § 2(a)(9)(A), struck out before semicolon at end “by, in, and through non-Government facilities”.
 
-Subsecs. (b) to (d). Pub. L. 103–226, § 2(a)(9)(B), (C), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “In addition to the matters set forth by subsection (a) of this section, the regulations, concerning training of employees by, in, or through non-Government facilities, shall—
+Subsecs. (b) to (d). Pub. L. 103–226, § 2(a)(9)(B), (C), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “In addition to the matters set forth by subsection (a) of this section, the regulations, concerning training of employees by, in, or through non-Government facilities, shall—
 
 “(1) prescribe general policies governing the selection of a non-Government facility to provide training;
 
@@ -1223,21 +1223,21 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 **Department of Homeland Security**
 
-Exception from provisions of this section of those elements of the Department of Homeland Security that are supervised by the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection through the Department’s Assistant Secretary for Information Analysis, see Ex. Ord. No. 13286, § 86, Feb. 28, 2003, 68 F.R. 10632, set out as a note under section 111 of Title 6, Domestic Security.
+Exception from provisions of this section of those elements of the Department of Homeland Security that are supervised by the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection through the Department’s Assistant Secretary for Information Analysis, see Ex. Ord. No. 13286, § 86, Feb. 28, 2003, 68 F.R. 10632, set out as a note under section 111 of Title 6, Domestic Security.
 
 **Central Intelligence Agency**
 
 Exception of Central Intelligence Agency from provisions of this section, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
 
-## § 4119. Training for employees under the Office of the Architect of the Capitol and the Botanic Garden
+## § 4119. Training for employees under the Office of the Architect of the Capitol and the Botanic Garden
 
 **(a)** The Architect of the Capitol may, by regulation, make applicable such provisions of this chapter as the Architect determines necessary to provide for training of (1) individuals employed under the Office of the Architect of the Capitol and the Botanic Garden and (2) other congressional employees who are subject to the administrative control of the Architect. The regulations shall provide for training which, in the determination of the Architect, is consistent with the training provided by agencies under the preceding sections of this chapter.
 
 **(b)** The Office of Personnel Management shall provide the Architect of the Capitol with such advice and assistance as the Architect may request in order to enable the Architect to carry out the purposes of this section.
 
-(Added Pub. L. 97–346, § 1(a), Oct. 15, 1982, 96 Stat. 1647.)
+(Added Pub. L. 97–346, § 1(a), Oct. 15, 1982, 96 Stat. 1647.)
 
-## § 4120. Training for employees of the Capitol Police
+## § 4120. Training for employees of the Capitol Police
 
 **(a)** The Chief of the Capitol Police may, by regulation, make applicable such provisions of this chapter as the Chief determines necessary to provide for training of employees of the Capitol Police. The regulations shall provide for training which, in the determination of the Chief, is consistent with the training provided by agencies under the preceding sections of this chapter.
 
@@ -1245,7 +1245,7 @@ Exception of Central Intelligence Agency from provisions of this section, see Ex
 
 **(c)** An employee of the Capitol Police may receive training under this section outside of the United States only with the prior approval of the Capitol Police Board. In this subsection, the term “United States” means each of the several States of the United States, the District of Columbia, and the territories and possessions of the United States.
 
-(Added Pub. L. 108–7, div. H, title I, § 1010(a), Feb. 20, 2003, 117 Stat. 360; amended Pub. L. 119–37, div. C, title I, § 118(a), Nov. 12, 2025, 139 Stat. 573.)
+(Added Pub. L. 108–7, div. H, title I, § 1010(a), Feb. 20, 2003, 117 Stat. 360; amended Pub. L. 119–37, div. C, title I, § 118(a), Nov. 12, 2025, 139 Stat. 573.)
 
 **Editorial Notes**
 
@@ -1257,9 +1257,9 @@ Exception of Central Intelligence Agency from provisions of this section, see Ex
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 119–37, div. C, title I, § 118(b), Nov. 12, 2025, 139 Stat. 573, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2026 and each succeeding fiscal year.”
+Pub. L. 119–37, div. C, title I, § 118(b), Nov. 12, 2025, 139 Stat. 573, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2026 and each succeeding fiscal year.”
 
-## § 4121. Specific training programs
+## § 4121. Specific training programs
 
 In consultation with the Office of Personnel Management, the head of each agency shall establish—
 
@@ -1273,4 +1273,4 @@ In consultation with the Office of Personnel Management, the head of each agency
 
 **(C)** conducting employee performance appraisals.
 
-(Added Pub. L. 108–411, title II, § 201(b)(1), Oct. 30, 2004, 118 Stat. 2311.)
+(Added Pub. L. 108–411, title II, § 201(b)(1), Oct. 30, 2004, 118 Stat. 2311.)

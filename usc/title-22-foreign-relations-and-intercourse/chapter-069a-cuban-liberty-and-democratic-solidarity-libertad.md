@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 69A—CUBAN LIBERTY AND DEMOCRATIC SOLIDARITY (LIBERTAD)
 
-## § 6021. Findings
+## § 6021. Findings
 
 The Congress makes the following findings:
 
@@ -71,7 +71,7 @@ The Congress makes the following findings:
 
 **(22)** The United Nations General Assembly passed Resolution 47–139 on December 18, 1992, Resolution 48–142 on December 20, 1993, and Resolution 49–200 on December 23, 1994, referencing the Special Rapporteur’s reports to the United Nations and condemning violations of human rights and fundamental freedoms in Cuba.
 
-**(23)** Article 39 of Chapter VII of the United Nations Charter provides that the United Nations Security Council “shall determine the existence of any threat to the peace, breach of the peace, or act of aggression and shall make recommendations, or decide what measures shall be taken . . ., to maintain or restore international peace and security.”.
+**(23)** Article 39 of Chapter VII of the United Nations Charter provides that the United Nations Security Council “shall determine the existence of any threat to the peace, breach of the peace, or act of aggression and shall make recommendations, or decide what measures shall be taken . . ., to maintain or restore international peace and security.”.
 
 **(24)** The United Nations has determined that massive and systematic violations of human rights may constitute a “threat to peace” under Article 39 and has imposed sanctions due to such violations of human rights in the cases of Rhodesia, South Africa, Iraq, and the former Yugoslavia.
 
@@ -83,15 +83,15 @@ The Congress makes the following findings:
 
 **(28)** For the past 36 years, the Cuban Government has posed and continues to pose a national security threat to the United States.
 
-(Pub. L. 104–114, § 2, Mar. 12, 1996, 110 Stat. 786.)
+(Pub. L. 104–114, § 2, Mar. 12, 1996, 110 Stat. 786.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Cuban Democracy Act of 1992, referred to in par. (11), is title XVII of div. A of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2575, which is classified principally to chapter 69 (§ 6001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6001 of this title and Tables.
+The Cuban Democracy Act of 1992, referred to in par. (11), is title XVII of div. A of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2575, which is classified principally to chapter 69 (§ 6001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6001 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in par. (12), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in par. (12), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The FREEDOM Support Act, referred to in par. (12), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, also known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
@@ -99,9 +99,9 @@ The FREEDOM Support Act, referred to in par. (12), is Pub. L. 102–511, Oct. 24
 
 **Short Title**
 
-Pub. L. 104–114, § 1(a), Mar. 12, 1996, 110 Stat. 785, provided that: “This Act [enacting this chapter and sections 1643*l* and 1643m of this title, amending sections 2295a, 2295b, 2370, 6003, and 6004 of this title, section 1611 of Title 28, Judiciary and Judicial Procedure, and section 4315 of Title 50, War and National Defense, repealing sections 1465 to 1465f, 1465aa to 1465ff, 6003, and 6005 of this title, amending provisions set out as a note under section 1446g of Title 7, Agriculture, and repealing provisions set out as notes under sections 1465, 1465c, and 1465aa of this title] may be cited as the ‘Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996’.”
+Pub. L. 104–114, § 1(a), Mar. 12, 1996, 110 Stat. 785, provided that: “This Act [enacting this chapter and sections 1643*l* and 1643m of this title, amending sections 2295a, 2295b, 2370, 6003, and 6004 of this title, section 1611 of Title 28, Judiciary and Judicial Procedure, and section 4315 of Title 50, War and National Defense, repealing sections 1465 to 1465f, 1465aa to 1465ff, 6003, and 6005 of this title, amending provisions set out as a note under section 1446g of Title 7, Agriculture, and repealing provisions set out as notes under sections 1465, 1465c, and 1465aa of this title] may be cited as the ‘Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996’.”
 
-## § 6022. Purposes
+## § 6022. Purposes
 
 The purposes of this chapter are—
 
@@ -117,7 +117,7 @@ The purposes of this chapter are—
 
 **(6)** to protect United States nationals against confiscatory takings and the wrongful trafficking in property confiscated by the Castro regime.
 
-(Pub. L. 104–114, § 3, Mar. 12, 1996, 110 Stat. 788.)
+(Pub. L. 104–114, § 3, Mar. 12, 1996, 110 Stat. 788.)
 
 **Editorial Notes**
 
@@ -125,7 +125,7 @@ The purposes of this chapter are—
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 785, known as the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6021 of this title and Tables.
 
-## § 6023. Definitions
+## § 6023. Definitions
 
 As used in this chapter, the following terms have the following meanings:
 
@@ -233,7 +233,7 @@ The term “transition government in Cuba” means a government that the Preside
 
 **(B)** any other legal entity which is organized under the laws of the United States, or of any State, the District of Columbia, or any commonwealth, territory, or possession of the United States, and which has its principal place of business in the United States.
 
-(Pub. L. 104–114, § 4, Mar. 12, 1996, 110 Stat. 789.)
+(Pub. L. 104–114, § 4, Mar. 12, 1996, 110 Stat. 789.)
 
 **Editorial Notes**
 
@@ -241,13 +241,13 @@ The term “transition government in Cuba” means a government that the Preside
 
 This chapter, referred to in introductory provisions, was in the original “this Act”, meaning Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 785, known as the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6021 of this title and Tables.
 
-Subchapters I and III of this chapter, referred to in pars. (4), (12)(B), and (13)(A), were in the original references to titles I and III, meaning titles I and III of Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 791, 814. Title I of Pub. L. 104–114 enacted subchapter I (§ 6031 et seq.) of this chapter, amended sections 2295a, 2295b, 6003, and 6004 of this title and section 4315 of Title 50, War and National Defense, and repealed subchapters V–A (§ 1465 et seq.) and V–B (1465aa et seq.) of chapter 18 of this title. Title III of Pub. L. 104–114 enacted subchapter III (§ 6081 et seq.) of this chapter and sections 1643*l* and 1643m of this title and amended section 1611 of Title 28, Judiciary and Judicial Procedure. For complete classification of titles I and III to the Code, see Tables.
+Subchapters I and III of this chapter, referred to in pars. (4), (12)(B), and (13)(A), were in the original references to titles I and III, meaning titles I and III of Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 791, 814. Title I of Pub. L. 104–114 enacted subchapter I (§ 6031 et seq.) of this chapter, amended sections 2295a, 2295b, 6003, and 6004 of this title and section 4315 of Title 50, War and National Defense, and repealed subchapters V–A (§ 1465 et seq.) and V–B (1465aa et seq.) of chapter 18 of this title. Title III of Pub. L. 104–114 enacted subchapter III (§ 6081 et seq.) of this chapter and sections 1643*l* and 1643m of this title and amended section 1611 of Title 28, Judiciary and Judicial Procedure. For complete classification of titles I and III to the Code, see Tables.
 
-The Cuban Democracy Act of 1992, referred to in par. (7)(A), is title XVII of div. A of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2575, which is classified principally to chapter 69 (§ 6001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6001 of this title and Tables.
+The Cuban Democracy Act of 1992, referred to in par. (7)(A), is title XVII of div. A of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2575, which is classified principally to chapter 69 (§ 6001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6001 of this title and Tables.
 
 Section 902(c) of the Food Security Act of 1985, referred to in par. (7)(B), is section 902(c) of Pub. L. 99–198, title IX, Dec. 23, 1985, 99 Stat. 1443, which was set out as a note under former section 1446g of Title 7, Agriculture.
 
-The International Claims Settlement Act of 1949, referred to in par. (12)(B)(i), is act Mar. 10, 1950, ch. 54, 64 Stat. 12. Title V of the Act is classified generally to subchapter V (§ 1643 et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
+The International Claims Settlement Act of 1949, referred to in par. (12)(B)(i), is act Mar. 10, 1950, ch. 54, 64 Stat. 12. Title V of the Act is classified generally to subchapter V (§ 1643 et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -255,11 +255,11 @@ The International Claims Settlement Act of 1949, referred to in par. (12)(B)(i),
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-## § 6024. Severability
+## § 6024. Severability
 
 If any provision of this chapter or the amendments made by this chapter or the application thereof to any person or circumstance is held invalid, the remainder of this chapter, the amendments made by this chapter, or the application thereof to other persons not similarly situated or to other circumstances shall not be affected by such invalidation.
 
-(Pub. L. 104–114, § 5, Mar. 12, 1996, 110 Stat. 791.)
+(Pub. L. 104–114, § 5, Mar. 12, 1996, 110 Stat. 791.)
 
 **Editorial Notes**
 
@@ -269,7 +269,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 ## SUBCHAPTER I—STRENGTHENING INTERNATIONAL SANCTIONS AGAINST THE CASTRO GOVERNMENT
 
-### § 6031. Statement of policy
+### § 6031. Statement of policy
 
 It is the sense of the Congress that—
 
@@ -287,9 +287,9 @@ It is the sense of the Congress that—
 
 will be considered an act of aggression which will be met with an appropriate response in order to maintain the security of the national borders of the United States and the health and safety of the American people.
 
-(Pub. L. 104–114, title I, § 101, Mar. 12, 1996, 110 Stat. 791.)
+(Pub. L. 104–114, title I, § 101, Mar. 12, 1996, 110 Stat. 791.)
 
-### § 6032. Enforcement of economic embargo of Cuba
+### § 6032. Enforcement of economic embargo of Cuba
 
 **(a) Policy**
 
@@ -321,19 +321,19 @@ It is the sense of the Congress that the President should instruct the Secretary
 
 The economic embargo of Cuba, as in effect on March 1, 1996, including all restrictions under part 515 of title 31, Code of Federal Regulations, shall be in effect on March 12, 1996, and shall remain in effect, subject to section 6064 of this title.
 
-(Pub. L. 104–114, title I, § 102, Mar. 12, 1996, 110 Stat. 792.)
+(Pub. L. 104–114, title I, § 102, Mar. 12, 1996, 110 Stat. 792.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Cuban Democracy Act of 1992, referred to in subsec. (a), is title XVII of div. A of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2575, which is classified principally to chapter 69 (§ 6001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6001 of this title and Tables.
+The Cuban Democracy Act of 1992, referred to in subsec. (a), is title XVII of div. A of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2575, which is classified principally to chapter 69 (§ 6001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6001 of this title and Tables.
 
 **Codification**
 
 Section is comprised of section 102 of Pub. L. 104–114. Subsec. (d) of section 102 of Pub. L. 104–114 amended section 4315 of Title 50, War and National Defense. Subsecs. (f) and (g) of section 102 of Pub. L. 104–114 amended sections 6003 and 6004 of this title, respectively.
 
-### § 6033. Prohibition against indirect financing of Cuba
+### § 6033. Prohibition against indirect financing of Cuba
 
 **(a) Prohibition**
 
@@ -359,9 +359,9 @@ Violations of subsection (a) shall be punishable by such civil penalties as are 
 
 **(2)** the term “United States agency” has the meaning given the term “agency” in section 551(1) of title 5.
 
-(Pub. L. 104–114, title I, § 103, Mar. 12, 1996, 110 Stat. 794.)
+(Pub. L. 104–114, title I, § 103, Mar. 12, 1996, 110 Stat. 794.)
 
-### § 6034. United States opposition to Cuban membership in international financial institutions
+### § 6034. United States opposition to Cuban membership in international financial institutions
 
 **(a) Continued opposition to Cuban membership in international financial institutions**
 
@@ -385,15 +385,15 @@ Except as provided in paragraph (2), the Secretary of the Treasury shall instruc
 
 For purposes of this section, the term “international financial institution” means the International Monetary Fund, the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Multilateral Investment Guaranty Agency, and the Inter-American Development Bank.
 
-(Pub. L. 104–114, title I, § 104, Mar. 12, 1996, 110 Stat. 794.)
+(Pub. L. 104–114, title I, § 104, Mar. 12, 1996, 110 Stat. 794.)
 
-### § 6035. United States opposition to termination of suspension of Cuban Government from participation in Organization of American States
+### § 6035. United States opposition to termination of suspension of Cuban Government from participation in Organization of American States
 
 The President should instruct the United States Permanent Representative to the Organization of American States to oppose and vote against any termination of the suspension of the Cuban Government from participation in the Organization until the President determines under section 6063(c)(3) of this title that a democratically elected government in Cuba is in power.
 
-(Pub. L. 104–114, title I, § 105, Mar. 12, 1996, 110 Stat. 795.)
+(Pub. L. 104–114, title I, § 105, Mar. 12, 1996, 110 Stat. 795.)
 
-### § 6036. Assistance by independent states of former Soviet Union for Cuban Government
+### § 6036. Assistance by independent states of former Soviet Union for Cuban Government
 
 **(a) Reporting requirement**
 
@@ -409,7 +409,7 @@ The Congress expresses its strong disapproval of the extension by Russia of cred
 
 **(2) Omitted**
 
-(Pub. L. 104–114, title I, § 106, Mar. 12, 1996, 110 Stat. 795.)
+(Pub. L. 104–114, title I, § 106, Mar. 12, 1996, 110 Stat. 795.)
 
 **Editorial Notes**
 
@@ -417,7 +417,7 @@ The Congress expresses its strong disapproval of the extension by Russia of cred
 
 Section is comprised of section 106 of Pub. L. 104–114. Subsecs. (b), (c), and (d)(2) of section 106 of Pub. L. 104–114 amended sections 2295a and 2295b of this title.
 
-### § 6037. Television broadcasting to Cuba
+### § 6037. Television broadcasting to Cuba
 
 **(a) Conversion to UHF**
 
@@ -431,15 +431,15 @@ Not later than 45 days after March 12, 1996, and every three months thereafter u
 
 Upon transmittal of a determination under section 6063(c)(3) of this title, the Television Broadcasting to Cuba Act (22 U.S.C. 1465aa and following) and the Radio Broadcasting to Cuba Act (22 U.S.C. 1465 and following) are repealed.
 
-(Pub. L. 104–114, title I, § 107, Mar. 12, 1996, 110 Stat. 798; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(r), Oct. 21, 1998, 112 Stat. 2681–790.)
+(Pub. L. 104–114, title I, § 107, Mar. 12, 1996, 110 Stat. 798; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1335(r), Oct. 21, 1998, 112 Stat. 2681–790.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Television Broadcasting to Cuba Act, referred to in subsec. (c), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, which is classified principally to subchapter V–B (§ 1465aa et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1465aa of this title and Tables.
+The Television Broadcasting to Cuba Act, referred to in subsec. (c), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, which is classified principally to subchapter V–B (§ 1465aa et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1465aa of this title and Tables.
 
-The Radio Broadcasting to Cuba Act, referred to in subsec. (c), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, which is classified generally to subchapter V–A (§ 1465 et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1465 of this title and Tables.
+The Radio Broadcasting to Cuba Act, referred to in subsec. (c), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, which is classified generally to subchapter V–A (§ 1465 et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1465 of this title and Tables.
 
 **Amendments**
 
@@ -451,11 +451,11 @@ The Radio Broadcasting to Cuba Act, referred to in subsec. (c), is Pub. L. 98–
 
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
-### § 6038. Repealed. Pub. L. 119–60, div. F, title LXVIII, § 6801(c)(3), Dec. 18, 2025, 139 Stat. 1654
+### § 6038. Repealed. Pub. L. 119–60, div. F, title LXVIII, § 6801(c)(3), Dec. 18, 2025, 139 Stat. 1654
 
-Section, Pub. L. 104–114, title I, § 108, Mar. 12, 1996, 110 Stat. 798, required reports from the President on commerce with, and assistance to, Cuba from other foreign countries.
+Section, Pub. L. 104–114, title I, § 108, Mar. 12, 1996, 110 Stat. 798, required reports from the President on commerce with, and assistance to, Cuba from other foreign countries.
 
-### § 6039. Authorization of support for democratic and human rights groups and international observers
+### § 6039. Authorization of support for democratic and human rights groups and international observers
 
 **(a) Authorization** Notwithstanding any other provision of law (including section 6032 of this title), except for section 2394–1 of this title and comparable notification requirements contained in any Act making appropriations for foreign operations, export financing, and related programs, the President is authorized to furnish assistance and provide other support for individuals and independent nongovernmental organizations to support democracy-building efforts for Cuba, including the following:
 
@@ -485,9 +485,9 @@ Notwithstanding section 2227 of this title or any other provision of law limitin
 
 In implementing this section, the President shall take all necessary steps to ensure that no funds or other assistance is provided to the Cuban Government.
 
-(Pub. L. 104–114, title I, § 109, Mar. 12, 1996, 110 Stat. 799.)
+(Pub. L. 104–114, title I, § 109, Mar. 12, 1996, 110 Stat. 799.)
 
-### § 6040. Importation safeguard against certain Cuban products
+### § 6040. Importation safeguard against certain Cuban products
 
 **(a) Prohibition on import of and dealings in Cuban products** The Congress notes that section 515.204 of title 31, Code of Federal Regulations, prohibits the entry of, and dealings outside the United States in, merchandise that—
 
@@ -499,7 +499,7 @@ In implementing this section, the President shall take all necessary steps to en
 
 **(b) Effect of NAFTA** The Congress notes that United States accession to the North American Free Trade Agreement does not modify or alter the United States sanctions against Cuba. The statement of administrative action accompanying that trade agreement specifically states the following:
 
-**(1)** “The NAFTA rules of origin will not in any way diminish the Cuban sanctions program. … Nothing in the NAFTA would operate to override this prohibition.”.
+**(1)** “The NAFTA rules of origin will not in any way diminish the Cuban sanctions program. … Nothing in the NAFTA would operate to override this prohibition.”.
 
 **(2)** “Article 309(3) [of the NAFTA] permits the United States to ensure that Cuban products or goods made from Cuban materials are not imported into the United States from Mexico or Canada and that United States products are not exported to Cuba through those countries.”.
 
@@ -511,7 +511,7 @@ The Congress notes that section 902(c) of the Food Security Act of 1985 (Public 
 
 Protection of essential security interests of the United States requires assurances that sugar products that are entered, or withdrawn from warehouse for consumption, into the customs territory of the United States are not products of Cuba.
 
-(Pub. L. 104–114, title I, § 110, Mar. 12, 1996, 110 Stat. 800.)
+(Pub. L. 104–114, title I, § 110, Mar. 12, 1996, 110 Stat. 800.)
 
 **Editorial Notes**
 
@@ -519,7 +519,7 @@ Protection of essential security interests of the United States requires assuran
 
 Section 902(c) of the Food Security Act of 1985, referred to in subsec. (c), is section 902(c) of Pub. L. 99–198, which is set out as a note under section 1446g of Title 7, Agriculture.
 
-### § 6041. Withholding of foreign assistance from countries supporting Juragua nuclear plant in Cuba
+### § 6041. Withholding of foreign assistance from countries supporting Juragua nuclear plant in Cuba
 
 **(a) Findings** The Congress makes the following findings:
 
@@ -581,7 +581,7 @@ Notwithstanding any other provision of law, the President shall withhold from as
 
 As used in paragraph (1), the term “assistance” means assistance under the Foreign Assistance Act of 1961 [22 U.S.C. 2151 et seq.], credits, sales, guarantees of extensions of credit, and other assistance under the Arms Export Control Act [22 U.S.C. 2751 et seq.], assistance under titles I and III of the Food for Peace Act [7 U.S.C. 1701 et seq., 1727 et seq.], assistance under the FREEDOM Support Act, and any other program of assistance or credits provided by the United States to other countries under other provisions of law.
 
-(Pub. L. 104–114, title I, § 111, Mar. 12, 1996, 110 Stat. 800; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(W), June 18, 2008, 122 Stat. 1820, 1821.)
+(Pub. L. 104–114, title I, § 111, Mar. 12, 1996, 110 Stat. 800; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(W), June 18, 2008, 122 Stat. 1820, 1821.)
 
 **Editorial Notes**
 
@@ -589,13 +589,13 @@ As used in paragraph (1), the term “assistance” means assistance under the F
 
 Upon the enactment of this chapter, referred to in subsec. (a)(10), means the date of enactment of Pub. L. 104–114, which was approved Mar. 12, 1996.
 
-The Cooperative Threat Reduction Act of 1993, referred to in subsec. (b)(2)(E), is title XII of div. A of Pub. L. 103–160, Nov. 30, 1993, 107 Stat. 1777, which is classified generally to chapter 68A (§ 5951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5951 of this title and Tables.
+The Cooperative Threat Reduction Act of 1993, referred to in subsec. (b)(2)(E), is title XII of div. A of Pub. L. 103–160, Nov. 30, 1993, 107 Stat. 1777, which is classified generally to chapter 68A (§ 5951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5951 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (b)(3), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b)(3), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Arms Export Control Act, referred to in subsec. (b)(3), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (b)(3), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The Food for Peace Act, referred to in subsec. (b)(3), is act July 10, 1954, ch. 469, 68 Stat. 454. Titles I and III of the Act are classified generally to subchapters II (§ 1701 et seq.) and III–A (§ 1727 et seq.), respectively, of chapter 41 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, referred to in subsec. (b)(3), is act July 10, 1954, ch. 469, 68 Stat. 454. Titles I and III of the Act are classified generally to subchapters II (§ 1701 et seq.) and III–A (§ 1727 et seq.), respectively, of chapter 41 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 The FREEDOM Support Act, referred to in subsec. (b)(3), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, also known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
@@ -617,7 +617,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-### § 6042. Reinstitution of family remittances and travel to Cuba
+### § 6042. Reinstitution of family remittances and travel to Cuba
 
 It is the sense of the Congress that the President should—
 
@@ -629,15 +629,15 @@ It is the sense of the Congress that the President should—
 
 **(2)** before considering the reinstitution of general licenses for travel to Cuba by individuals resident in the United States who are family members of Cuban nationals who are resident in Cuba, insist on such actions by the Cuban Government as abrogation of the sanction for departure from Cuba by refugees, release of political prisoners, recognition of the right of association, and other fundamental freedoms.
 
-(Pub. L. 104–114, title I, § 112, Mar. 12, 1996, 110 Stat. 802.)
+(Pub. L. 104–114, title I, § 112, Mar. 12, 1996, 110 Stat. 802.)
 
-### § 6043. Expulsion of criminals from Cuba
+### § 6043. Expulsion of criminals from Cuba
 
 The President shall instruct all United States Government officials who engage in official contacts with the Cuban Government to raise on a regular basis the extradition of or rendering to the United States all persons residing in Cuba who are sought by the United States Department of Justice for crimes committed in the United States.
 
-(Pub. L. 104–114, title I, § 113, Mar. 12, 1996, 110 Stat. 803.)
+(Pub. L. 104–114, title I, § 113, Mar. 12, 1996, 110 Stat. 803.)
 
-### § 6044. News bureaus in Cuba
+### § 6044. News bureaus in Cuba
 
 **(a) Establishment of news bureaus** The President is authorized to establish and implement an exchange of news bureaus between the United States and Cuba, if the exchange meets the following conditions:
 
@@ -659,13 +659,13 @@ In implementing this section, the President shall take all necessary steps to en
 
 As used in subsection (a)(1), the term “fully reciprocal” means that all news services, news organizations, and broadcasting services, including such services or organizations that receive financing, assistance, or other support from a governmental or official source, are permitted to establish and operate a news bureau in the United States and Cuba.
 
-(Pub. L. 104–114, title I, § 114, Mar. 12, 1996, 110 Stat. 803.)
+(Pub. L. 104–114, title I, § 114, Mar. 12, 1996, 110 Stat. 803.)
 
-### § 6045. Effect of chapter on lawful United States Government activities
+### § 6045. Effect of chapter on lawful United States Government activities
 
 Nothing in this chapter prohibits any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency, or of an intelligence agency, of the United States.
 
-(Pub. L. 104–114, title I, § 115, Mar. 12, 1996, 110 Stat. 803.)
+(Pub. L. 104–114, title I, § 115, Mar. 12, 1996, 110 Stat. 803.)
 
 **Editorial Notes**
 
@@ -673,7 +673,7 @@ Nothing in this chapter prohibits any lawfully authorized investigative, protect
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 785, known as the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6021 of this title and Tables.
 
-### § 6046. Condemnation of Cuban attack on American aircraft
+### § 6046. Condemnation of Cuban attack on American aircraft
 
 **(a) Findings** The Congress makes the following findings:
 
@@ -715,11 +715,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **(3)** The Congress urges the President to seek, in the International Court of Justice, indictment for this act of terrorism by Fidel Castro.
 
-(Pub. L. 104–114, title I, § 116, Mar. 12, 1996, 110 Stat. 803.)
+(Pub. L. 104–114, title I, § 116, Mar. 12, 1996, 110 Stat. 803.)
 
 ## SUBCHAPTER II—ASSISTANCE TO FREE AND INDEPENDENT CUBA
 
-### § 6061. Policy toward transition government and democratically elected government in Cuba
+### § 6061. Policy toward transition government and democratically elected government in Cuba
 
 The policy of the United States is as follows:
 
@@ -761,9 +761,9 @@ The policy of the United States is as follows:
 
 **(16)** To pursue trade relations with a free, democratic, and independent Cuba.
 
-(Pub. L. 104–114, title II, § 201, Mar. 12, 1996, 110 Stat. 805.)
+(Pub. L. 104–114, title II, § 201, Mar. 12, 1996, 110 Stat. 805.)
 
-### § 6062. Assistance for Cuban people
+### § 6062. Assistance for Cuban people
 
 **(a) Authorization**
 
@@ -853,9 +853,9 @@ Not later than 180 days after March 12, 1996, the President shall transmit to th
 
 **(iii)** negotiations regarding free trade, including the accession of Cuba to the North American Free Trade Agreement;
 
-**(C)** specific trade negotiating objectives of the United States with respect to Cuba, including the objectives described in section 108(b)(5) of the North American Free Trade Agreement Implementation Act (19 U.S.C. 3317(b)(5)); 1
+**(C)** specific trade negotiating objectives of the United States with respect to Cuba, including the objectives described in section 108(b)(5) of the North American Free Trade Agreement Implementation Act (19 U.S.C. 3317(b)(5)); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and
 
@@ -865,23 +865,23 @@ and
 
 The President shall consult with the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate and the appropriate congressional committees and shall seek advice from the appropriate advisory committees established under section 135 of the Trade Act of 1974 [19 U.S.C. 2155] regarding the policy and negotiating objectives and the legislative proposals described in paragraph (1).
 
-(Pub. L. 104–114, title II, § 202, Mar. 12, 1996, 110 Stat. 806; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(W), June 18, 2008, 122 Stat. 1820, 1821; Pub. L. 115–254, div. F, title VI, § 1470(n), Oct. 5, 2018, 132 Stat. 3518.)
+(Pub. L. 104–114, title II, § 202, Mar. 12, 1996, 110 Stat. 806; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(W), June 18, 2008, 122 Stat. 1820, 1821; Pub. L. 115–254, div. F, title VI, § 1470(n), Oct. 5, 2018, 132 Stat. 3518.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (b)(2)(B)(i), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 1 of part I and chapter 4 of part II of the Act are classified generally to part I (§ 2151 et seq.) of subchapter I and part IV (§ 2346 et seq.) of subchapter II, respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b)(2)(B)(i), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 1 of part I and chapter 4 of part II of the Act are classified generally to part I (§ 2151 et seq.) of subchapter I and part IV (§ 2346 et seq.) of subchapter II, respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Food for Peace Act, referred to in subsec. (b)(2)(B)(ii), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, referred to in subsec. (b)(2)(B)(ii), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 This chapter, referred to in subsec. (e)(1), was in the original “this Act”, meaning Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 785, known as the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6021 of this title and Tables.
 
-The Trade Act of 1974, referred to in subsec. (h)(1)(B)(ii), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Title V of the Act is classified generally to subchapter V (§ 2461 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
+The Trade Act of 1974, referred to in subsec. (h)(1)(B)(ii), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Title V of the Act is classified generally to subchapter V (§ 2461 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
 
-The Caribbean Basin Economic Recovery Act, referred to in subsec. (h)(1)(B)(ii), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to chapter 15 (§ 2701 et seq.) of Title 19. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 19 and Tables.
+The Caribbean Basin Economic Recovery Act, referred to in subsec. (h)(1)(B)(ii), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to chapter 15 (§ 2701 et seq.) of Title 19. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 19 and Tables.
 
-Section 108(b)(5) of the North American Free Trade Agreement Implementation Act, referred to in subsec. (h)(1)(C), is section 108(b)(5) of Pub. L. 103–182, which was classified to section 3317(b)(5) of Title 19, Customs Duties, prior to repeal by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+Section 108(b)(5) of the North American Free Trade Agreement Implementation Act, referred to in subsec. (h)(1)(C), is section 108(b)(5) of Pub. L. 103–182, which was classified to section 3317(b)(5) of Title 19, Customs Duties, prior to repeal by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 **Amendments**
 
@@ -899,7 +899,7 @@ Amendment by Pub. L. 115–254 effective at the end of the transition period, as
 
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-### § 6063. Coordination of assistance program; implementation and reports to Congress; reprogramming
+### § 6063. Coordination of assistance program; implementation and reports to Congress; reprogramming
 
 **(a) Coordinating official** The President shall designate a coordinating official who shall be responsible for—
 
@@ -939,9 +939,9 @@ Not later than 60 days after the end of each fiscal year, the President shall tr
 
 Any changes in the assistance to be provided under the plan developed under section 6062(b) of this title may not be made unless the President notifies the appropriate congressional committees at least 15 days in advance in accordance with the procedures applicable to reprogramming notifications under section 2394–1 of this title.
 
-(Pub. L. 104–114, title II, § 203, Mar. 12, 1996, 110 Stat. 809.)
+(Pub. L. 104–114, title II, § 203, Mar. 12, 1996, 110 Stat. 809.)
 
-### § 6064. Termination of economic embargo of Cuba
+### § 6064. Termination of economic embargo of Cuba
 
 **(a) Presidential actions**
 
@@ -995,7 +995,7 @@ Joint resolutions introduced in the House of Representatives shall be referred t
 
 **(C)** Not more than 1 joint resolution may be considered in the House of Representatives and the Senate in the 6-month period beginning on the date on which the President notifies the Congress under paragraph (1) of the action taken under subsection (a), and in each 6-month period thereafter.
 
-(Pub. L. 104–114, title II, § 204, Mar. 12, 1996, 110 Stat. 810.)
+(Pub. L. 104–114, title II, § 204, Mar. 12, 1996, 110 Stat. 810.)
 
 **Editorial Notes**
 
@@ -1013,7 +1013,7 @@ Section 601(b) of the International Security Assistance and Arms Export Control 
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-### § 6065. Requirements and factors for determining transition government
+### § 6065. Requirements and factors for determining transition government
 
 **(a) Requirements** For the purposes of this chapter, a transition government in Cuba is a government that—
 
@@ -1063,7 +1063,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 **(4)** has permitted the deployment throughout Cuba of independent and unfettered international human rights monitors.
 
-(Pub. L. 104–114, title II, § 205, Mar. 12, 1996, 110 Stat. 811.)
+(Pub. L. 104–114, title II, § 205, Mar. 12, 1996, 110 Stat. 811.)
 
 **Editorial Notes**
 
@@ -1071,7 +1071,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 785, known as the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6021 of this title and Tables.
 
-### § 6066. Requirements for determining democratically elected government
+### § 6066. Requirements for determining democratically elected government
 
 For purposes of this chapter, a democratically elected government in Cuba, in addition to meeting the requirements of section 6065(a) of this title, is a government which—
 
@@ -1095,7 +1095,7 @@ For purposes of this chapter, a democratically elected government in Cuba, in ad
 
 **(6)** has made demonstrable progress in returning to United States citizens (and entities which are 50 percent or more beneficially owned by United States citizens) property taken by the Cuban Government from such citizens and entities on or after January 1, 1959, or providing full compensation for such property in accordance with international law standards and practice.
 
-(Pub. L. 104–114, title II, § 206, Mar. 12, 1996, 110 Stat. 812.)
+(Pub. L. 104–114, title II, § 206, Mar. 12, 1996, 110 Stat. 812.)
 
 **Editorial Notes**
 
@@ -1103,7 +1103,7 @@ For purposes of this chapter, a democratically elected government in Cuba, in ad
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 785, known as the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6021 of this title and Tables.
 
-### § 6067. Settlement of outstanding United States claims to confiscated property in Cuba
+### § 6067. Settlement of outstanding United States claims to confiscated property in Cuba
 
 **(a) Report to Congress** Not later than 180 days after March 12, 1996, the Secretary of State shall provide a report to the appropriate congressional committees containing an assessment of the property dispute question in Cuba, including—
 
@@ -1117,15 +1117,15 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **(5)** an assessment of any areas requiring legislative review or action regarding the resolution of property claims in Cuba prior to a change of government in Cuba.
 
-**(d) 1 [footnote: 1 So in original. No subsec. (b) or (c) has been enacted.] Sense of Congress**
+**(d) 1 [footnote: 1 So in original. No subsec. (b) or (c) has been enacted.] Sense of Congress**
 
 It is the sense of the Congress that the satisfactory resolution of property claims by a Cuban Government recognized by the United States remains an essential condition for the full resumption of economic and diplomatic relations between the United States and Cuba.
 
-(Pub. L. 104–114, title II, § 207, Mar. 12, 1996, 110 Stat. 813.)
+(Pub. L. 104–114, title II, § 207, Mar. 12, 1996, 110 Stat. 813.)
 
 ## SUBCHAPTER III—PROTECTION OF PROPERTY RIGHTS OF UNITED STATES NATIONALS
 
-### § 6081. Findings
+### § 6081. Findings
 
 The Congress makes the following findings:
 
@@ -1165,9 +1165,9 @@ The Congress makes the following findings:
 
 **(11)** To deter trafficking in wrongfully confiscated property, United States nationals who were the victims of these confiscations should be endowed with a judicial remedy in the courts of the United States that would deny traffickers any profits from economically exploiting Castro’s wrongful seizures.
 
-(Pub. L. 104–114, title III, § 301, Mar. 12, 1996, 110 Stat. 814.)
+(Pub. L. 104–114, title III, § 301, Mar. 12, 1996, 110 Stat. 814.)
 
-### § 6082. Liability for trafficking in confiscated property claimed by United States nationals
+### § 6082. Liability for trafficking in confiscated property claimed by United States nationals
 
 **(a) Civil remedy**
 
@@ -1315,7 +1315,7 @@ The suspension or termination of rights under paragraph (1) shall not affect sui
 
 The Judicial Conference of the United States shall establish a uniform fee that shall be imposed upon the plaintiff or plaintiffs in each action brought under this section. The fee should be established at a level sufficient to recover the costs to the courts of actions brought under this section. The fee under this subsection is in addition to any other fees imposed under title 28.
 
-(Pub. L. 104–114, title III, § 302, Mar. 12, 1996, 110 Stat. 815.)
+(Pub. L. 104–114, title III, § 302, Mar. 12, 1996, 110 Stat. 815.)
 
 **Editorial Notes**
 
@@ -1323,7 +1323,7 @@ The Judicial Conference of the United States shall establish a uniform fee that 
 
 For the effective date of this subchapter, referred to in subsec. (a)(1)(A), as Aug. 1, 1996, or date determined pursuant to suspension authority of President see section 6085 of this title.
 
-The International Claims Settlement Act of 1949, referred to in subsecs. (a)(1)(A)(i)(I), (3)(A), (5), (f)(2), and (g), is act Mar. 10, 1950, ch. 54, 64 Stat. 12, which is classified generally to chapter 21 (§ 1621 et seq.) of this title. Title V of the Act is classified generally to subchapter V (§ 1643 et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
+The International Claims Settlement Act of 1949, referred to in subsecs. (a)(1)(A)(i)(I), (3)(A), (5), (f)(2), and (g), is act Mar. 10, 1950, ch. 54, 64 Stat. 12, which is classified generally to chapter 21 (§ 1621 et seq.) of this title. Title V of the Act is classified generally to subchapter V (§ 1643 et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
 
 This subchapter, referred to in subsecs. (a)(7)(B), (8) and (c)(1), was in the original “this title”, meaning title III of Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 814, which enacted this subchapter and sections 1643*l* and 1643m of this title and amended section 1611 of Title 28, Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Tables.
 
@@ -1331,7 +1331,7 @@ This subchapter, referred to in subsecs. (a)(7)(B), (8) and (c)(1), was in the o
 
 Section is comprised of section 302 of Pub. L. 104–114. Subsec. (e) of section 302 of Pub. L. 104–114 amended section 1611 of Title 28, Judiciary and Judicial Procedure.
 
-### § 6083. Proof of ownership of claims to confiscated property
+### § 6083. Proof of ownership of claims to confiscated property
 
 **(a) Evidence of ownership**
 
@@ -1355,13 +1355,13 @@ In determining the amount or ownership of a claim in an action under this subcha
 
 **(2)** as superseding, amending, or otherwise altering certifications that have been made under title V of the International Claims Settlement Act of 1949 [22 U.S.C. 1643 et seq.] before March 12, 1996.
 
-(Pub. L. 104–114, title III, § 303, Mar. 12, 1996, 110 Stat. 819.)
+(Pub. L. 104–114, title III, § 303, Mar. 12, 1996, 110 Stat. 819.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Claims Settlement Act of 1949, referred to in subsecs. (a)(1), (2) and (c)(2), is act Mar. 10, 1950, ch. 54, 64 Stat. 12. Title V of the Act is classified generally to subchapter V (§ 1643 et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
+The International Claims Settlement Act of 1949, referred to in subsecs. (a)(1), (2) and (c)(2), is act Mar. 10, 1950, ch. 54, 64 Stat. 12. Title V of the Act is classified generally to subchapter V (§ 1643 et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
 
 This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 104–114, Mar. 12, 1996, 110 Stat. 785, known as the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6021 of this title and Tables.
 
@@ -1369,13 +1369,13 @@ This chapter, referred to in subsec. (c), was in the original “this Act”, me
 
 Section is comprised of section 303 of Pub. L. 104–114. Subsec. (b) of section 303 of Pub. L. 104–114 enacted section 1643*l* of this title.
 
-### § 6084. Limitation of actions
+### § 6084. Limitation of actions
 
 An action under section 6082 of this title may not be brought more than 2 years after the trafficking giving rise to the action has ceased to occur.
 
-(Pub. L. 104–114, title III, § 305, Mar. 12, 1996, 110 Stat. 821.)
+(Pub. L. 104–114, title III, § 305, Mar. 12, 1996, 110 Stat. 821.)
 
-### § 6085. Effective date
+### § 6085. Effective date
 
 **(a) In general**
 
@@ -1411,7 +1411,7 @@ The suspensions of actions under paragraph (1) shall not affect suits commenced 
 
 The President may rescind any suspension made under subsection (b) or (c) upon reporting to the appropriate congressional committees that doing so will expedite a transition to democracy in Cuba.
 
-(Pub. L. 104–114, title III, § 306, Mar. 12, 1996, 110 Stat. 821.)
+(Pub. L. 104–114, title III, § 306, Mar. 12, 1996, 110 Stat. 821.)
 
 **Editorial Notes**
 
@@ -1435,7 +1435,7 @@ Barack Obama.
 
 ## SUBCHAPTER IV—EXCLUSION OF CERTAIN ALIENS
 
-### § 6091. Exclusion from United States of aliens who have confiscated property of United States nationals or who traffic in such property
+### § 6091. Exclusion from United States of aliens who have confiscated property of United States nationals or who traffic in such property
 
 **(a) Grounds for exclusion** The Secretary of State shall deny a visa to, and the Attorney General shall exclude from the United States, any alien who the Secretary of State determines is a person who, after March 12, 1996—
 
@@ -1507,7 +1507,7 @@ This section applies to aliens seeking to enter the United States on or after Ma
 
 This section applies only with respect to acts within the meaning of “traffics” that occur on or after March 12, 1996.
 
-(Pub. L. 104–114, title IV, § 401, Mar. 12, 1996, 110 Stat. 822.)
+(Pub. L. 104–114, title IV, § 401, Mar. 12, 1996, 110 Stat. 822.)
 
 **Editorial Notes**
 
@@ -1519,7 +1519,7 @@ Subchapter III, referred to in subsec. (c), was in the original “title III”,
 
 **Reports on Determinations Under Title IV of the LIBERTAD Act**
 
-Pub. L. 105–277, div. G, subdiv. B, title XXVIII, § 2802, Oct. 21, 1998, 112 Stat. 2681–845, as amended by Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 209(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–423; Pub. L. 107–228, div. A, title II, § 216(b), Sept. 30, 2002, 116 Stat. 1366, provided that:
+Pub. L. 105–277, div. G, subdiv. B, title XXVIII, § 2802, Oct. 21, 1998, 112 Stat. 2681–845, as amended by Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 209(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–423; Pub. L. 107–228, div. A, title II, § 216(b), Sept. 30, 2002, 116 Stat. 1366, provided that:
 
 > **“(a) Reports Required.—** Not later than 30 days after the date of the enactment of this Act [Oct. 21, 1998] and every 3 months thereafter during the period ending September 30, 2003, the Secretary of State shall submit to the appropriate congressional committees [Committee on Foreign Affairs of the House of Representatives and Committee on Foreign Relations of the Senate] a report on the implementation of section 401 of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996 (22 U.S.C. 6091). Each report shall include—
 

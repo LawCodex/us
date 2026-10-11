@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1988—Pub. L. 100–647, title I, § 1018(u)(32), Nov. 10, 1988, 102 Stat. 3592, redesignated parts III and IV as II and III, respectively, and struck out former Part II “Mutual insurance companies (other than life and certain marine insurance companies and other than fire or flood insurance companies which operate on basis of perpetual policies of premium deposits).”
+1988—Pub. L. 100–647, title I, § 1018(u)(32), Nov. 10, 1988, 102 Stat. 3592, redesignated parts III and IV as II and III, respectively, and struck out former Part II “Mutual insurance companies (other than life and certain marine insurance companies and other than fire or flood insurance companies which operate on basis of perpetual policies of premium deposits).”
 
-1962—Pub. L. 87–834, § 8(g)(4)(A), Oct. 16, 1962, 76 Stat. 999, substituted “and certain marine insurance companies and other than fire or flood insurance companies which operate on basis of perpetual policies or premium deposits” for “or marine or fire insurance companies issuing perpetual policies” in heading of part II.
+1962—Pub. L. 87–834, § 8(g)(4)(A), Oct. 16, 1962, 76 Stat. 999, substituted “and certain marine insurance companies and other than fire or flood insurance companies which operate on basis of perpetual policies or premium deposits” for “or marine or fire insurance companies issuing perpetual policies” in heading of part II.
 
 ## PART I—LIFE INSURANCE COMPANIES
 
 ### Subpart A—Tax Imposed
 
-#### § 801. Tax imposed
+#### § 801. Tax imposed
 
 **(a) Tax imposed**
 
@@ -39,27 +39,27 @@ A tax is hereby imposed for each taxable year on the life insurance company taxa
 
 **(2)** life insurance deductions.
 
-(Added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 720; amended Pub. L. 99–514, title X, § 1011(b)(3), Oct. 22, 1986, 100 Stat. 2389; Pub. L. 115–97, title I, §§ 13001(b)(2)(G), 13512(b)(3), 13514(b), Dec. 22, 2017, 131 Stat. 2096, 2143.)
+(Added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 720; amended Pub. L. 99–514, title X, § 1011(b)(3), Oct. 22, 1986, 100 Stat. 2389; Pub. L. 115–97, title I, §§ 13001(b)(2)(G), 13512(b)(3), 13514(b), Dec. 22, 2017, 131 Stat. 2096, 2143.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 801, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 112; amended Pub. L. 87–858, § 3(a), Oct. 23, 1962, 76 Stat. 1134; Pub. L. 91–172, title I, § 121(b)(5)(B), Dec. 30, 1969, 83 Stat. 541; Pub. L. 93–406, title II, § 2002(g)(11), Sept. 2, 1974, 88 Stat. 970; Pub. L. 94–455, title XV, § 1505(a), title XIX, §§ 1901(c)(6), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1738, 1803, 1834; Pub. L. 95–600, title VII, § 703(j)(4), Nov. 6, 1978, 92 Stat. 2941, defined “life insurance company” and related terms, prior to the general revision of this part by Pub. L. 98–369, § 211(a). See section 816 of this title.
+A prior section 801, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 112; amended Pub. L. 87–858, § 3(a), Oct. 23, 1962, 76 Stat. 1134; Pub. L. 91–172, title I, § 121(b)(5)(B), Dec. 30, 1969, 83 Stat. 541; Pub. L. 93–406, title II, § 2002(g)(11), Sept. 2, 1974, 88 Stat. 970; Pub. L. 94–455, title XV, § 1505(a), title XIX, §§ 1901(c)(6), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1738, 1803, 1834; Pub. L. 95–600, title VII, § 703(j)(4), Nov. 6, 1978, 92 Stat. 2941, defined “life insurance company” and related terms, prior to the general revision of this part by Pub. L. 98–369, § 211(a). See section 816 of this title.
 
-Another prior section 801, acts Aug. 16, 1954, ch. 736, 68A Stat. 255; Mar. 13, 1956, ch. 83, § 2, 70 Stat. 36, contained provisions similar to this section, prior to the the general revision of this part by Pub. L. 86–69, § 2(a).
+Another prior section 801, acts Aug. 16, 1954, ch. 736, 68A Stat. 255; Mar. 13, 1956, ch. 83, § 2, 70 Stat. 36, contained provisions similar to this section, prior to the the general revision of this part by Pub. L. 86–69, § 2(a).
 
-A prior section 802, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 115; amended Pub. L. 87–858, § 3(b)(1), Oct. 23, 1962, 76 Stat. 1136; Pub. L. 88–272, title II, § 235(c)(1), Feb. 26, 1964, 78 Stat. 126; Pub. L. 91–172, title V, § 511(c)(1), Dec. 30, 1969, 83 Stat. 637; Pub. L. 94–455, title XIX, § 1901(a)(95), (b)(33)(E), Oct. 4, 1976, 90 Stat. 1780, 1801; Pub. L. 95–600, title III, § 301(b)(8), Nov. 6, 1978, 92 Stat. 2821, contained provisions similar to this section, prior to the general revision of this part by Pub. L. 98–369, § 211(a).
+A prior section 802, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 115; amended Pub. L. 87–858, § 3(b)(1), Oct. 23, 1962, 76 Stat. 1136; Pub. L. 88–272, title II, § 235(c)(1), Feb. 26, 1964, 78 Stat. 126; Pub. L. 91–172, title V, § 511(c)(1), Dec. 30, 1969, 83 Stat. 637; Pub. L. 94–455, title XIX, § 1901(a)(95), (b)(33)(E), Oct. 4, 1976, 90 Stat. 1780, 1801; Pub. L. 95–600, title III, § 301(b)(8), Nov. 6, 1978, 92 Stat. 2821, contained provisions similar to this section, prior to the general revision of this part by Pub. L. 98–369, § 211(a).
 
-Another prior section 802, acts Aug. 16, 1954, ch. 736, 68A Stat. 255; Mar. 13, 1956, ch. 83, § 2, 70 Stat. 38; July 24, 1956, ch. 696, §§ 1, 2(b), 70 Stat. 633; Mar. 17, 1958, Pub. L. 85–345, §§ 1, 2(a), 72 Stat. 36, contained provision similar to this section, prior to the general revision of this part by Pub. L. 86–69, § 2(a).
+Another prior section 802, acts Aug. 16, 1954, ch. 736, 68A Stat. 255; Mar. 13, 1956, ch. 83, § 2, 70 Stat. 38; July 24, 1956, ch. 696, §§ 1, 2(b), 70 Stat. 633; Mar. 17, 1958, Pub. L. 85–345, §§ 1, 2(a), 72 Stat. 36, contained provision similar to this section, prior to the general revision of this part by Pub. L. 86–69, § 2(a).
 
 **Amendments**
 
-2017—Subsec. (a). Pub. L. 115–97, § 13001(b)(2)(G), struck out par. (1) designation and heading “In general” and struck out par. (2) which related to alternative tax in case of capital gains.
+2017—Subsec. (a). Pub. L. 115–97, § 13001(b)(2)(G), struck out par. (1) designation and heading “In general” and struck out par. (2) which related to alternative tax in case of capital gains.
 
-Subsec. (a)(2)(C). Pub. L. 115–97, § 13512(b)(3), which directed striking out subpar. (C) of par. (2), could not be executed because of the prior amendment by section 13001(b)(2)(G) of Pub. L. 115–97, which struck out par. (2). See above.
+Subsec. (a)(2)(C). Pub. L. 115–97, § 13512(b)(3), which directed striking out subpar. (C) of par. (2), could not be executed because of the prior amendment by section 13001(b)(2)(G) of Pub. L. 115–97, which struck out par. (2). See above.
 
-Subsec. (c). Pub. L. 115–97, § 13514(b), struck out subsec. (c) which referred to section 815 of this title for taxation of distributions from pre-1984 policyholders surplus account.
+Subsec. (c). Pub. L. 115–97, § 13514(b), struck out subsec. (c) which referred to section 815 of this title for taxation of distributions from pre-1984 policyholders surplus account.
 
 1986—Subsec. (a)(2)(C). Pub. L. 99–514 substituted “the amount allowable as a deduction under paragraph (2)” for “the amounts allowable as deductions under paragraphs (2) and (3)” in text and struck from heading “special life insurance company deduction and” before “small”.
 
@@ -71,7 +71,7 @@ Amendment by section 13001(b)(2)(G) of Pub. L. 115–97 applicable to taxable ye
 
 Amendment by section 13512(b)(3) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13512(c) of Pub. L. 115–97, set out as a note under section 453B of this title.
 
-Pub. L. 115–97, title I, § 13514(c), Dec. 22, 2017, 131 Stat. 2144, provided that: “The amendments made by this section [amending this section and repealing section 815 of this title] shall apply to taxable years beginning after December 31, 2017.”
+Pub. L. 115–97, title I, § 13514(c), Dec. 22, 2017, 131 Stat. 2144, provided that: “The amendments made by this section [amending this section and repealing section 815 of this title] shall apply to taxable years beginning after December 31, 2017.”
 
 **Effective Date of 1986 Amendment**
 
@@ -79,11 +79,11 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 **Effective Date**
 
-Pub. L. 98–369, div. A, title II, § 215, July 18, 1984, 98 Stat. 758, provided that: “The amendments made by this subtitle [subtitle A (§§ 211–219) of title II of div. A of Pub. L. 98–369, amending this part, enacting section 845 of this title, amending sections 72, 80, 243, 381, 401, 453B, 542, 594, 832, 841, 844, 891, 953, 1016, 1035, 1201, 1232A, 1351, 1503, 1504, 1561, 1563, 4371, 6501, 6511, 6601, and 6611 of this title, and enacting provisions set out as notes under this section and sections 453B, 806, 807, 809, 814, 816, 845, and 6655 of this title] shall apply to taxable years beginning after December 31, 1983.”
+Pub. L. 98–369, div. A, title II, § 215, July 18, 1984, 98 Stat. 758, provided that: “The amendments made by this subtitle [subtitle A (§§ 211–219) of title II of div. A of Pub. L. 98–369, amending this part, enacting section 845 of this title, amending sections 72, 80, 243, 381, 401, 453B, 542, 594, 832, 841, 844, 891, 953, 1016, 1035, 1201, 1232A, 1351, 1503, 1504, 1561, 1563, 4371, 6501, 6511, 6601, and 6611 of this title, and enacting provisions set out as notes under this section and sections 453B, 806, 807, 809, 814, 816, 845, and 6655 of this title] shall apply to taxable years beginning after December 31, 1983.”
 
 **Phased Inclusion of Remaining Balance of Policyholders Surplus Accounts**
 
-Pub. L. 115–97, title I, § 13514(d), Dec. 22, 2017, 131 Stat. 2144, provided that:
+Pub. L. 115–97, title I, § 13514(d), Dec. 22, 2017, 131 Stat. 2144, provided that:
 
 > “In the case of any stock life insurance company which has a balance (determined as of the close of such company’s last taxable year beginning before January 1, 2018) in an existing policyholders surplus account (as defined in section 815 of the Internal Revenue Code of 1986, as in effect before its repeal), the tax imposed by section 801 of such Code for the first 8 taxable years beginning after December 31, 2017, shall be the amount which would be imposed by such section for such year on the sum of—
 
@@ -93,7 +93,7 @@ Pub. L. 115–97, title I, § 13514(d), Dec. 22, 2017, 131 Stat. 2144, provide
 
 **Treatment of Certain Workers’ Compensation Funds**
 
-Pub. L. 100–647, title VI, § 6076, Nov. 10, 1988, 102 Stat. 3706, provided that:
+Pub. L. 100–647, title VI, § 6076, Nov. 10, 1988, 102 Stat. 3706, provided that:
 
 > **“(a) Treatment for Taxable Years Beginning Before 1987.—** In the case of any taxable year beginning before January 1, 1987, a deficiency shall not be assessed against (and if assessed, shall not be collected from) any qualified group self-insurers’ fund to the extent such deficiency is attributable to the timing of policyholder dividend deductions.
 
@@ -115,7 +115,7 @@ Pub. L. 100–647, title VI, § 6076, Nov. 10, 1988, 102 Stat. 3706, provided 
 
 **Treatment of Certain Market Discount Bonds**
 
-Pub. L. 99–514, title X, § 1011(d), Oct. 22, 1986, 100 Stat. 2390, as amended by Pub. L. 100–647, title I, § 1010(a)(2), (3), Nov. 10, 1988, 102 Stat. 3450, 3451, provided that:
+Pub. L. 99–514, title X, § 1011(d), Oct. 22, 1986, 100 Stat. 2390, as amended by Pub. L. 100–647, title I, § 1010(a)(2), (3), Nov. 10, 1988, 102 Stat. 3450, 3451, provided that:
 
 > **“(1) In general.—** Notwithstanding the amendments made by subtitle B of title III [amending sections 593, 631, 852, 1201, and 1445 of this title and enacting provisions set out as notes under sections 631 and 1201 of this title], any gain recognized by a qualified life insurance company on the redemption at maturity of any market discount bond (as defined in section 1278 of the Internal Revenue Code of 1986) which was issued before July 19, 1984, and acquired by such company on or before September 25, 1985, shall be subject to tax at the rate of 31.6 percent. The preceding sentence shall apply only if the tax determined under the preceding sentence is less than the tax which would otherwise be imposed.
 
@@ -123,15 +123,15 @@ Pub. L. 99–514, title X, § 1011(d), Oct. 22, 1986, 100 Stat. 2390, as amend
 
 **Waiver of Interest on Certain Underpayments of Tax**
 
-Pub. L. 99–514, title XVIII, § 1829, Oct. 22, 1986, 100 Stat. 2851, provided that: “No interest shall be payable for any period before July 19, 1984, on any underpayment of a tax imposed by the Internal Revenue Code of 1954 [now 1986], to the extent such underpayment was created or increased by any provision of subtitle A of title II of the Tax Reform Act of 1984 [see Effective Date note above] (relating to taxation of life insurance companies).”
+Pub. L. 99–514, title XVIII, § 1829, Oct. 22, 1986, 100 Stat. 2851, provided that: “No interest shall be payable for any period before July 19, 1984, on any underpayment of a tax imposed by the Internal Revenue Code of 1954 [now 1986], to the extent such underpayment was created or increased by any provision of subtitle A of title II of the Tax Reform Act of 1984 [see Effective Date note above] (relating to taxation of life insurance companies).”
 
 **Scope of Section 255 of the Tax Equity and Fiscal Responsibility Act of 1982**
 
-Pub. L. 99–514, title XVIII, § 1830, Oct. 22, 1986, 100 Stat. 2851, provided that: “In the case of any taxable year beginning before January 1, 1982, in applying the provisions of section 255(c)(2) of the Tax Equity and Fiscal Responsibility Act of 1982 [section 255(c)(2) of Pub. L. 97–248, 96 Stat. 534, formerly set out as a note under section 809 of this title], the Internal Revenue Service shall give full and complete effect to the terms of any modified coinsurance contract. The terms to be given effect within the meaning of this provision shall include, but are not limited to, the effective date and investment income rate as stated in such contract.”
+Pub. L. 99–514, title XVIII, § 1830, Oct. 22, 1986, 100 Stat. 2851, provided that: “In the case of any taxable year beginning before January 1, 1982, in applying the provisions of section 255(c)(2) of the Tax Equity and Fiscal Responsibility Act of 1982 [section 255(c)(2) of Pub. L. 97–248, 96 Stat. 534, formerly set out as a note under section 809 of this title], the Internal Revenue Service shall give full and complete effect to the terms of any modified coinsurance contract. The terms to be given effect within the meaning of this provision shall include, but are not limited to, the effective date and investment income rate as stated in such contract.”
 
 **Treatment of Certain Self-Insured Workers’ Compensation Funds**
 
-Pub. L. 99–514, title XVIII, § 1879(q), Oct. 22, 1986, 100 Stat. 2911, provided that:
+Pub. L. 99–514, title XVIII, § 1879(q), Oct. 22, 1986, 100 Stat. 2911, provided that:
 
 > **“(1) Moratorium on collection activities.—** During the period beginning on the date of the enactment of this Act [Oct. 22, 1986] and ending on August 16, 1987, the Secretary of the Treasury or his delegate—
 
@@ -149,7 +149,7 @@ Pub. L. 99–514, title XVIII, § 1879(q), Oct. 22, 1986, 100 Stat. 2911, prov
 
 **Reserves Computed on New Basis; Fresh Start**
 
-Pub. L. 98–369, title II, § 216, July 18, 1984, 98 Stat. 758, as amended by Pub. L. 99–514, § 2, title XVIII, § 1822, Oct. 22, 1986, 100 Stat. 2095, 2844; Pub. L. 100–647, title I, § 1018(i), Nov. 10, 1988, 102 Stat. 3583, provided that:
+Pub. L. 98–369, title II, § 216, July 18, 1984, 98 Stat. 758, as amended by Pub. L. 99–514, § 2, title XVIII, § 1822, Oct. 22, 1986, 100 Stat. 2095, 2844; Pub. L. 100–647, title I, § 1018(i), Nov. 10, 1988, 102 Stat. 3583, provided that:
 
 > **“(a) Recomputation of Reserves.—**
 
@@ -273,15 +273,15 @@ Pub. L. 98–369, title II, § 216, July 18, 1984, 98 Stat. 758, as amended by
 
 **Treatment of Certain Companies Operating Both as Stock and Mutual Company**
 
-Pub. L. 98–369, div. A, title II, § 217(e), July 18, 1984, 98 Stat. 762, provided that: “If, during the 10-year period ending on December 31, 1983, a company has, as authorized by the law of the State in which the company is domiciled, been operating as a mutual life insurance company with shareholders, such company shall be treated as a stock life insurance company.”
+Pub. L. 98–369, div. A, title II, § 217(e), July 18, 1984, 98 Stat. 762, provided that: “If, during the 10-year period ending on December 31, 1983, a company has, as authorized by the law of the State in which the company is domiciled, been operating as a mutual life insurance company with shareholders, such company shall be treated as a stock life insurance company.”
 
 **Treatment of Reinsurance Agreements Required by National Association of Insurance Commissioners**
 
-Pub. L. 98–369, div. A, title II, § 217(g), July 18, 1984, 98 Stat. 763, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Effective for taxable years beginning after December 31, 1981, and before January 1, 1984, subsections (c)(1)(F) and (d)(12) of section 809 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as in effect on the day before the date of the enactment of this Act [July 18, 1984]) shall not apply to dividends to policyholders reimbursed to the taxpayer by a reinsurer in respect of accident and health policies reinsured under a reinsurance agreement entered into before June 30, 1955, pursuant to the direction of the National Association of Insurance Commissioners and approved by the State insurance commissioner of the taxpayer’s State of domicile. For purposes of subchapter L of chapter 1 of such Code (as in effect on the day before the date of the enactment of this Act) any such dividends shall be treated as dividends of the reinsurer and not the taxpayer.”
+Pub. L. 98–369, div. A, title II, § 217(g), July 18, 1984, 98 Stat. 763, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Effective for taxable years beginning after December 31, 1981, and before January 1, 1984, subsections (c)(1)(F) and (d)(12) of section 809 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as in effect on the day before the date of the enactment of this Act [July 18, 1984]) shall not apply to dividends to policyholders reimbursed to the taxpayer by a reinsurer in respect of accident and health policies reinsured under a reinsurance agreement entered into before June 30, 1955, pursuant to the direction of the National Association of Insurance Commissioners and approved by the State insurance commissioner of the taxpayer’s State of domicile. For purposes of subchapter L of chapter 1 of such Code (as in effect on the day before the date of the enactment of this Act) any such dividends shall be treated as dividends of the reinsurer and not the taxpayer.”
 
 **Reports to Congress on Revenue, Segment Balance, Etc.**
 
-Pub. L. 98–369, div. A, title II, § 231, July 18, 1984, 98 Stat. 776, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title II, § 231, July 18, 1984, 98 Stat. 776, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(a) Revenue Reports.—** Not later than July 1, 1985, and July 1 of each calendar year thereafter, the Secretary of the Treasury shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on—
 
@@ -327,7 +327,7 @@ Pub. L. 98–369, div. A, title II, § 231, July 18, 1984, 98 Stat. 776, as am
 
 ### Subpart B—Life Insurance Gross Income
 
-#### § 803. Life insurance gross income
+#### § 803. Life insurance gross income
 
 **(a) In general** For purposes of this part, the term “life insurance gross income” means the sum of the following amounts:
 
@@ -373,13 +373,13 @@ Except as provided in subparagraph (B), the term “return premiums” does not 
 
 Subparagraph (A) shall not apply to amounts of premiums or other consideration returned to another life insurance company in respect of indemnity reinsurance.
 
-(Added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 721.)
+(Added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 721.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 803, acts Aug. 16, 1954, ch. 736, 68A Stat. 256; Mar. 13, 1956, ch. 83, § 2, 70 Stat. 39, related to income and deductions in the case of life insurance companies, prior to the general revision of this part by Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 112.
+A prior section 803, acts Aug. 16, 1954, ch. 736, 68A Stat. 256; Mar. 13, 1956, ch. 83, § 2, 70 Stat. 39, related to income and deductions in the case of life insurance companies, prior to the general revision of this part by Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 112.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -393,25 +393,25 @@ Section applicable to taxable years beginning after Dec. 31, 1983, see section 2
 
 **Amendments**
 
-2017—Pub. L. 115–97, title I, §§ 13511(b)(1), 13512(a), Dec. 22, 2017, 131 Stat. 2142, which directed amendment of the analysis for part I of subchapter L of chapter 1 by striking out items 806 and 810, was executed by striking out items 806 “Small life insurance company deduction” and 810 “Operations loss deduction” in this analysis, which is the analysis for subpart C of such part, to reflect the probable intent of Congress.
+2017—Pub. L. 115–97, title I, §§ 13511(b)(1), 13512(a), Dec. 22, 2017, 131 Stat. 2142, which directed amendment of the analysis for part I of subchapter L of chapter 1 by striking out items 806 and 810, was executed by striking out items 806 “Small life insurance company deduction” and 810 “Operations loss deduction” in this analysis, which is the analysis for subpart C of such part, to reflect the probable intent of Congress.
 
-2004—Pub. L. 108–218, title II, § 205(b)(7), Apr. 10, 2004, 118 Stat. 610, struck out item 809 “Reduction in certain deductions of mutual life insurance companies”.
+2004—Pub. L. 108–218, title II, § 205(b)(7), Apr. 10, 2004, 118 Stat. 610, struck out item 809 “Reduction in certain deductions of mutual life insurance companies”.
 
-1986—Pub. L. 99–514, title X, § 1011(b)(11)(B), Oct. 22, 1986, 100 Stat. 2389, substituted “Small life insurance company deduction” for “Special deductions” in item 806.
+1986—Pub. L. 99–514, title X, § 1011(b)(11)(B), Oct. 22, 1986, 100 Stat. 2389, substituted “Small life insurance company deduction” for “Special deductions” in item 806.
 
-#### § 804. Life insurance deductions
+#### § 804. Life insurance deductions
 
 For purposes of this part, the term “life insurance deductions” means the general deductions provided in section 805.
 
-(Added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 722; amended Pub. L. 99–514, title X, § 1011(b)(2), Oct. 22, 1986, 100 Stat. 2389; Pub. L. 115–97, title I, § 13512(b)(4), Dec. 22, 2017, 131 Stat. 2143.)
+(Added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 722; amended Pub. L. 99–514, title X, § 1011(b)(2), Oct. 22, 1986, 100 Stat. 2389; Pub. L. 115–97, title I, § 13512(b)(4), Dec. 22, 2017, 131 Stat. 2143.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 804, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 115; amended Pub. L. 87–858, § 3(b)(2), Oct. 23, 1962, 76 Stat. 1137; Pub. L. 88–272, title II, § 214(b)(3), Feb. 26, 1964, 78 Stat. 55; Pub. L. 91–172, title IV, § 401(b)(2)(D), Dec. 30, 1969, 83 Stat. 602; Pub. L. 94–455, title XIX, § 1901(a)(96), (b)(1)(J)(i), (iii), (K), (M), (33)(F), Oct. 4, 1976, 90 Stat. 1780, 1791, 1801, defined the term “taxable investment income” and provided for the computation of such income, prior to the general revision of this part by Pub. L. 98–369, § 211(a).
+A prior section 804, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 115; amended Pub. L. 87–858, § 3(b)(2), Oct. 23, 1962, 76 Stat. 1137; Pub. L. 88–272, title II, § 214(b)(3), Feb. 26, 1964, 78 Stat. 55; Pub. L. 91–172, title IV, § 401(b)(2)(D), Dec. 30, 1969, 83 Stat. 602; Pub. L. 94–455, title XIX, § 1901(a)(96), (b)(1)(J)(i), (iii), (K), (M), (33)(F), Oct. 4, 1976, 90 Stat. 1780, 1791, 1801, defined the term “taxable investment income” and provided for the computation of such income, prior to the general revision of this part by Pub. L. 98–369, § 211(a).
 
-Another prior section 804, acts Aug. 16, 1954, ch. 736, 68A Stat. 258; Mar. 13, 1956, ch. 83, § 2, 70 Stat. 41, related to reserve and other policy liability deductions, prior to the general revision of this part by Pub. L. 86–69, § 2(a).
+Another prior section 804, acts Aug. 16, 1954, ch. 736, 68A Stat. 258; Mar. 13, 1956, ch. 83, § 2, 70 Stat. 41, related to reserve and other policy liability deductions, prior to the general revision of this part by Pub. L. 86–69, § 2(a).
 
 **Amendments**
 
@@ -437,7 +437,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 Section applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as a note under section 801 of this title.
 
-#### § 805. General deductions
+#### § 805. General deductions
 
 **(a) General rule** For purposes of this part, there shall be allowed the following deductions:
 
@@ -529,7 +529,7 @@ Subparagraph (A)(i) (and not subparagraph (A)(ii)) shall apply to any dividend r
 
 **(II)** asset management fees, surrender charges, mortality and expense charges, and any other fees or charges specified in regulations prescribed by the Secretary which are imposed (or which would be imposed were the policy or contract canceled) with respect to such policy or contract for the taxable year.
 
-**[(5) Repealed. Pub. L. 115–97, title I, § 13511(b)(5), Dec. 22, 2017, 131 Stat. 2142]**
+**[(5) Repealed. Pub. L. 115–97, title I, § 13511(b)(5), Dec. 22, 2017, 131 Stat. 2142]**
 
 **(6) Assumption by another person of liabilities under insurance, etc., contracts**
 
@@ -565,9 +565,9 @@ In applying section 163 (relating to deduction for interest), no deduction shall
 
 **(iv)** any capital loss carryback to the taxable year under section 1212(a)(1), and
 
-**(B)** under regulations prescribed by the Secretary, a rule similar to the rule contained in section 170(d)(2)(B) 1
+**(B)** under regulations prescribed by the Secretary, a rule similar to the rule contained in section 170(d)(2)(B) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (relating to special rule for net operating loss carryovers) shall be applied.
 
@@ -585,13 +585,13 @@ For rules relating to amortizable bond premium, see section 811(b).
 
 Except as provided in subsection (a)(4), the deductions for dividends received provided by sections 243 and 245 shall not be allowed.
 
-(Added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 722; amended Pub. L. 99–514, title VI, § 611(a)(5), title VIII, § 805(c)(6), title X, § 1011(b)(4), title XVIII, § 1821(p), Oct. 22, 1986, 100 Stat. 2249, 2362, 2389, 2842; Pub. L. 100–203, title X, § 10221(c)(2), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 104–188, title I, § 1702(h)(3), Aug. 20, 1996, 110 Stat. 1873; Pub. L. 105–34, title X, § 1084(b)(1), Aug. 5, 1997, 111 Stat. 954; Pub. L. 113–295, div. A, title II, § 221(a)(41)(G), (I), Dec. 19, 2014, 128 Stat. 4044; Pub. L. 115–97, title I, §§ 13511(a), (b)(4)–(6), 13512(b)(5), (6), Dec. 22, 2017, 131 Stat. 2142, 2143.)
+(Added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 722; amended Pub. L. 99–514, title VI, § 611(a)(5), title VIII, § 805(c)(6), title X, § 1011(b)(4), title XVIII, § 1821(p), Oct. 22, 1986, 100 Stat. 2249, 2362, 2389, 2842; Pub. L. 100–203, title X, § 10221(c)(2), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 104–188, title I, § 1702(h)(3), Aug. 20, 1996, 110 Stat. 1873; Pub. L. 105–34, title X, § 1084(b)(1), Aug. 5, 1997, 111 Stat. 954; Pub. L. 113–295, div. A, title II, § 221(a)(41)(G), (I), Dec. 19, 2014, 128 Stat. 4044; Pub. L. 115–97, title I, §§ 13511(a), (b)(4)–(6), 13512(b)(5), (6), Dec. 22, 2017, 131 Stat. 2142, 2143.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 170(d)(2), referred to in subsec. (b)(2)(B), was amended generally by Pub. L. 119–21, title VII, § 70426(b), July 4, 2025, 139 Stat. 237. As so amended, provisions relating to special rule for net operating loss carryovers are now contained in section 170(d)(2)(D).
+Section 170(d)(2), referred to in subsec. (b)(2)(B), was amended generally by Pub. L. 119–21, title VII, § 70426(b), July 4, 2025, 139 Stat. 237. As so amended, provisions relating to special rule for net operating loss carryovers are now contained in section 170(d)(2)(D).
 
 **Codification**
 
@@ -599,61 +599,61 @@ Another section 1084(b) of Pub. L. 105–34 amended sections 101 and 264 of this
 
 **Prior Provisions**
 
-A prior section 805, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 118; amended Pub. L. 87–792, § 7(g), Oct. 10, 1962, 76 Stat. 829; Pub. L. 88–571, § 5(a), Sept. 2, 1964, 78 Stat. 860; Pub. L. 91–172, title IX, § 907(a)(1), Dec. 30, 1969, 83 Stat. 715; Pub. L. 93–406, title II, §§ 1016(a)(6), 2002(g)(9), 2004(c)(3), Sept. 2, 1974, 88 Stat. 929, 970, 986; Pub. L. 94–267, § (1)(c)(4), Apr. 15, 1976, 90 Stat. 367; Pub. L. 94–455, title XIX, § 1901(a)(97), Oct. 4, 1976, 90 Stat. 1780; Pub. L. 95–600, title I, §§ 141(f)(9), 155(a), Nov. 6, 1978, 92 Stat. 2795, 2801; Pub. L. 97–248, title II, §§ 257(a), 260(b), 261, 264(a)–(c)(1), Sept. 3, 1982, 96 Stat. 537, 540, 543, 544, related to policy and other contract liability requirements, prior to general revision of this part by Pub. L. 98–369, § 211(a).
+A prior section 805, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 118; amended Pub. L. 87–792, § 7(g), Oct. 10, 1962, 76 Stat. 829; Pub. L. 88–571, § 5(a), Sept. 2, 1964, 78 Stat. 860; Pub. L. 91–172, title IX, § 907(a)(1), Dec. 30, 1969, 83 Stat. 715; Pub. L. 93–406, title II, §§ 1016(a)(6), 2002(g)(9), 2004(c)(3), Sept. 2, 1974, 88 Stat. 929, 970, 986; Pub. L. 94–267, § (1)(c)(4), Apr. 15, 1976, 90 Stat. 367; Pub. L. 94–455, title XIX, § 1901(a)(97), Oct. 4, 1976, 90 Stat. 1780; Pub. L. 95–600, title I, §§ 141(f)(9), 155(a), Nov. 6, 1978, 92 Stat. 2795, 2801; Pub. L. 97–248, title II, §§ 257(a), 260(b), 261, 264(a)–(c)(1), Sept. 3, 1982, 96 Stat. 537, 540, 543, 544, related to policy and other contract liability requirements, prior to general revision of this part by Pub. L. 98–369, § 211(a).
 
-Another prior section 805, acts Aug. 16, 1954, ch. 736, 68A Stat. 258; Mar. 13, 1956, ch. 83, § 2, 70 Stat. 43, authorized a special interest deduction, prior to the general revision of this part by Pub. L. 86–69, § 2(a).
+Another prior section 805, acts Aug. 16, 1954, ch. 736, 68A Stat. 258; Mar. 13, 1956, ch. 83, § 2, 70 Stat. 43, authorized a special interest deduction, prior to the general revision of this part by Pub. L. 86–69, § 2(a).
 
 **Amendments**
 
-2017—Subsec. (a)(4)(B)(i). Pub. L. 115–97, § 13512(b)(5), redesignated cl. (ii) as (i) and struck out former cl. (i) which read as follows: “the small life insurance company deduction,”.
+2017—Subsec. (a)(4)(B)(i). Pub. L. 115–97, § 13512(b)(5), redesignated cl. (ii) as (i) and struck out former cl. (i) which read as follows: “the small life insurance company deduction,”.
 
-Subsec. (a)(4)(B)(ii). Pub. L. 115–97, § 13512(b)(5), redesignated cl. (iii) as (ii). Former cl. (ii) redesignated (i).
+Subsec. (a)(4)(B)(ii). Pub. L. 115–97, § 13512(b)(5), redesignated cl. (iii) as (ii). Former cl. (ii) redesignated (i).
 
-Pub. L. 115–97, § 13511(b)(4), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the operations loss deduction provided by section 810,”.
+Pub. L. 115–97, § 13511(b)(4), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the operations loss deduction provided by section 810,”.
 
-Subsec. (a)(4)(B)(iii), (iv). Pub. L. 115–97, § 13512(b)(5), redesignated cls. (iii) and (iv) as (ii) and (iii), respectively.
+Subsec. (a)(4)(B)(iii), (iv). Pub. L. 115–97, § 13512(b)(5), redesignated cls. (iii) and (iv) as (ii) and (iii), respectively.
 
-Subsec. (a)(5). Pub. L. 115–97, § 13511(b)(5), struck out par. (5) which provided for the operations loss deduction determined under section 810.
+Subsec. (a)(5). Pub. L. 115–97, § 13511(b)(5), struck out par. (5) which provided for the operations loss deduction determined under section 810.
 
-Subsec. (b)(2)(A)(iii). Pub. L. 115–97, § 13512(b)(6), redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: “the small life insurance company deduction,”.
+Subsec. (b)(2)(A)(iii). Pub. L. 115–97, § 13512(b)(6), redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: “the small life insurance company deduction,”.
 
-Subsec. (b)(2)(A)(iv). Pub. L. 115–97, § 13512(b)(6), redesignated cl. (v) as (iv). Former cl. (iv) redesignated (iii).
+Subsec. (b)(2)(A)(iv). Pub. L. 115–97, § 13512(b)(6), redesignated cl. (v) as (iv). Former cl. (iv) redesignated (iii).
 
-Pub. L. 115–97, § 13511(b)(6), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “any operations loss carryback to the taxable year under section 810, and”.
+Pub. L. 115–97, § 13511(b)(6), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “any operations loss carryback to the taxable year under section 810, and”.
 
-Subsec. (b)(2)(A)(v). Pub. L. 115–97, § 13512(b)(6), redesignated cl. (v) as (iv).
+Subsec. (b)(2)(A)(v). Pub. L. 115–97, § 13512(b)(6), redesignated cl. (v) as (iv).
 
-Subsec. (b)(4), (5). Pub. L. 115–97, § 13511(a), redesignated par. (5) as (4) and struck out former par. (4) which did not allow the net operating loss deduction provided in section 172, except as provided by section 844.
+Subsec. (b)(4), (5). Pub. L. 115–97, § 13511(a), redesignated par. (5) as (4) and struck out former par. (4) which did not allow the net operating loss deduction provided in section 172, except as provided by section 844.
 
-2014—Subsec. (a)(4)(A). Pub. L. 113–295, § 221(a)(41)(G), struck out “, 244,” after “sections 243” in introductory provisions.
+2014—Subsec. (a)(4)(A). Pub. L. 113–295, § 221(a)(41)(G), struck out “, 244,” after “sections 243” in introductory provisions.
 
-Subsec. (a)(4)(B). Pub. L. 113–295, § 221(a)(41)(I), struck out “, 244(a),” after “sections 243(a)(1)” in introductory provisions and in cl. (iii).
+Subsec. (a)(4)(B). Pub. L. 113–295, § 221(a)(41)(I), struck out “, 244(a),” after “sections 243(a)(1)” in introductory provisions and in cl. (iii).
 
-Subsec. (a)(4)(C)(i), (D)(i). Pub. L. 113–295, § 221(a)(41)(G), struck out “, 244,” after “section 243”.
+Subsec. (a)(4)(C)(i), (D)(i). Pub. L. 113–295, § 221(a)(41)(G), struck out “, 244,” after “section 243”.
 
-Subsec. (b)(5). Pub. L. 113–295, § 221(a)(41)(G), struck out “, 244,” after “sections 243”.
+Subsec. (b)(5). Pub. L. 113–295, § 221(a)(41)(G), struck out “, 244,” after “sections 243”.
 
-1997—Subsec. (a)(4)(C)(ii). Pub. L. 105–34, § 1084(b)(1)(A), inserted “, or out of the increase for the taxable year in policy cash values (within the meaning of subparagraph (F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies,” after “tax-exempt interest”.
+1997—Subsec. (a)(4)(C)(ii). Pub. L. 105–34, § 1084(b)(1)(A), inserted “, or out of the increase for the taxable year in policy cash values (within the meaning of subparagraph (F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies,” after “tax-exempt interest”.
 
-Subsec. (a)(4)(D)(iii). Pub. L. 105–34, § 1084(b)(1)(B), substituted “, the increase for the taxable year in policy cash values (within the meaning of subparagraph (F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies, and” for “and”.
+Subsec. (a)(4)(D)(iii). Pub. L. 105–34, § 1084(b)(1)(B), substituted “, the increase for the taxable year in policy cash values (within the meaning of subparagraph (F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies, and” for “and”.
 
-Subsec. (a)(4)(F). Pub. L. 105–34, § 1084(b)(1)(C), added subpar. (F).
+Subsec. (a)(4)(F). Pub. L. 105–34, § 1084(b)(1)(C), added subpar. (F).
 
 1996—Subsec. (a)(4)(E). Pub. L. 104–188 substituted “243(b)(2)” for “243(b)(5)”.
 
 1987—Subsec. (a)(4)(B). Pub. L. 100–203 substituted “shall be the percentage determined under section 246(b)(3) of the life insurance company taxable income (and such limitation shall be applied as provided in section 246(b)(3))” for “shall be 80 percent of the life insurance company taxable income”.
 
-1986—Subsec. (a)(4)(B). Pub. L. 99–514, § 611(a)(5), substituted “80 percent” for “85 percent” in introductory provisions.
+1986—Subsec. (a)(4)(B). Pub. L. 99–514, § 611(a)(5), substituted “80 percent” for “85 percent” in introductory provisions.
 
-Subsec. (a)(4)(B)(i). Pub. L. 99–514, § 1011(b)(4), struck out “the special life insurance company deduction and” before “the small life”.
+Subsec. (a)(4)(B)(i). Pub. L. 99–514, § 1011(b)(4), struck out “the special life insurance company deduction and” before “the small life”.
 
-Subsec. (a)(4)(C) to (E). Pub. L. 99–514, § 1821(p), added subpars. (C) and (D), redesignated former subpar. (D) as (E), and struck out former subpar. (C) which read as follows: “For purposes of subparagraph (A), the term ‘100 percent dividend’ means any dividend if the percentage used for purposes of determining the deduction allowable under section 243 or 244 is 100 percent. Such term does not include any dividend to the extent it is a distribution out of tax-exempt interest or out of dividends which are not 100 percent dividends (determined with the application of this sentence).”
+Subsec. (a)(4)(C) to (E). Pub. L. 99–514, § 1821(p), added subpars. (C) and (D), redesignated former subpar. (D) as (E), and struck out former subpar. (C) which read as follows: “For purposes of subparagraph (A), the term ‘100 percent dividend’ means any dividend if the percentage used for purposes of determining the deduction allowable under section 243 or 244 is 100 percent. Such term does not include any dividend to the extent it is a distribution out of tax-exempt interest or out of dividends which are not 100 percent dividends (determined with the application of this sentence).”
 
-Subsec. (b)(2). Pub. L. 99–514, § 805(c)(6), redesignated par. (3) as (2). Former par. (2), which provided that section 166(c) (relating to reserve for bad debts) shall not apply, was struck out.
+Subsec. (b)(2). Pub. L. 99–514, § 805(c)(6), redesignated par. (3) as (2). Former par. (2), which provided that section 166(c) (relating to reserve for bad debts) shall not apply, was struck out.
 
-Subsec. (b)(2)(A)(iii). Pub. L. 99–514, § 1011(b)(4), which directed that subsec. (b)(3)(A)(iii) be amended by striking out “the special life insurance company deduction and” before “the small life”, was executed to subsec. (b)(2)(A)(iii) to reflect the probable intent of Congress and the redesignation of subsec. (b)(3) as (b)(2) by Pub. L. 99–514, § 805(c)(6).
+Subsec. (b)(2)(A)(iii). Pub. L. 99–514, § 1011(b)(4), which directed that subsec. (b)(3)(A)(iii) be amended by striking out “the special life insurance company deduction and” before “the small life”, was executed to subsec. (b)(2)(A)(iii) to reflect the probable intent of Congress and the redesignation of subsec. (b)(3) as (b)(2) by Pub. L. 99–514, § 805(c)(6).
 
-Subsec. (b)(3) to (6). Pub. L. 99–514, § 805(c)(6), redesignated pars. (3) to (6) as (2) to (5), respectively.
+Subsec. (b)(3) to (6). Pub. L. 99–514, § 805(c)(6), redesignated pars. (3) to (6) as (2) to (5), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -695,17 +695,17 @@ Amendment by section 1821(p) of Pub. L. 99–514 effective, except as otherwise 
 
 Section applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as a note under section 801 of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-#### [§ 806. Repealed. Pub. L. 115–97, title I, § 13512(a), Dec. 22, 2017, 131 Stat. 2142]
+#### [§ 806. Repealed. Pub. L. 115–97, title I, § 13512(a), Dec. 22, 2017, 131 Stat. 2142]
 
-Section, added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 724; amended Pub. L. 99–514, title X, § 1011(a), (b)(5)–(8), (11)(A), Oct. 22, 1986, 100 Stat. 2388, 2389, related to small life insurance company deduction.
+Section, added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 724; amended Pub. L. 99–514, title X, § 1011(a), (b)(5)–(8), (11)(A), Oct. 22, 1986, 100 Stat. 2388, 2389, related to small life insurance company deduction.
 
-A prior section 806, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 120; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to certain changes in reserves and assets, prior to the general revision of this part by Pub. L. 98–369, § 211(a).
+A prior section 806, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 120; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to certain changes in reserves and assets, prior to the general revision of this part by Pub. L. 98–369, § 211(a).
 
-Another prior section 806, act Aug. 16, 1954, ch. 736, 68A Stat. 258, related to adjustment for certain reserves, prior to the general revision of this part by act Mar. 13, 1956, ch. 83, § 2, 70 Stat. 36.
+Another prior section 806, act Aug. 16, 1954, ch. 736, 68A Stat. 258, related to adjustment for certain reserves, prior to the general revision of this part by act Mar. 13, 1956, ch. 83, § 2, 70 Stat. 36.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -713,7 +713,7 @@ Another prior section 806, act Aug. 16, 1954, ch. 736, 68A Stat. 258, related to
 
 Repeal applicable to taxable years beginning after Dec. 31, 2017, see section 13512(c) of Pub. L. 115–97, set out as an Effective Date of 2017 Amendment note under section 453B of this title.
 
-#### § 807. Rules for certain reserves
+#### § 807. Rules for certain reserves
 
 **(a) Decrease treated as gross income** If for any taxable year—
 
@@ -927,7 +927,7 @@ as is attributable to contracts issued before the taxable year shall be taken in
 
 Except as provided in section 381(c)(22) (relating to carryovers in certain corporate readjustments), if for any taxable year the taxpayer is not a life insurance company, the balance of any adjustments under this subsection shall be taken into account for the preceding taxable year.
 
-(Added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 726; amended Pub. L. 99–514, title X, § 1023(b), title XVIII, § 1821(a), (s), Oct. 22, 1986, 100 Stat. 2399, 2837, 2843; Pub. L. 100–203, title X, § 10241(a)–(b)(2)(A), Dec. 22, 1987, 101 Stat. 1330–419, 1330–420; Pub. L. 101–508, title XI, § 11302(a), Nov. 5, 1990, 104 Stat. 1388–449; Pub. L. 104–188, title I, § 1704(t)(61), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 104–191, title III, § 321(b), Aug. 21, 1996, 110 Stat. 2058; Pub. L. 105–34, title X, § 1084(b)(2), Aug. 5, 1997, 111 Stat. 954; Pub. L. 108–218, title II, § 205(b)(1), (2), Apr. 10, 2004, 118 Stat. 610; Pub. L. 113–295, div. A, title II, § 221(a)(68), Dec. 19, 2014, 128 Stat. 4048; Pub. L. 115–97, title I, §§ 13513(a), 13517(a)(1)–(3), Dec. 22, 2017, 131 Stat. 2143–2145; Pub. L. 115–141, div. U, title IV, § 401(a)(141), Mar. 23, 2018, 132 Stat. 1191.)
+(Added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 726; amended Pub. L. 99–514, title X, § 1023(b), title XVIII, § 1821(a), (s), Oct. 22, 1986, 100 Stat. 2399, 2837, 2843; Pub. L. 100–203, title X, § 10241(a)–(b)(2)(A), Dec. 22, 1987, 101 Stat. 1330–419, 1330–420; Pub. L. 101–508, title XI, § 11302(a), Nov. 5, 1990, 104 Stat. 1388–449; Pub. L. 104–188, title I, § 1704(t)(61), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 104–191, title III, § 321(b), Aug. 21, 1996, 110 Stat. 2058; Pub. L. 105–34, title X, § 1084(b)(2), Aug. 5, 1997, 111 Stat. 954; Pub. L. 108–218, title II, § 205(b)(1), (2), Apr. 10, 2004, 118 Stat. 610; Pub. L. 113–295, div. A, title II, § 221(a)(68), Dec. 19, 2014, 128 Stat. 4048; Pub. L. 115–97, title I, §§ 13513(a), 13517(a)(1)–(3), Dec. 22, 2017, 131 Stat. 2143–2145; Pub. L. 115–141, div. U, title IV, § 401(a)(141), Mar. 23, 2018, 132 Stat. 1191.)
 
 **Editorial Notes**
 
@@ -937,15 +937,15 @@ Another section 1084(b) of Pub. L. 105–34 amended sections 101 and 264 of this
 
 **Prior Provisions**
 
-A prior section 807, act Aug. 16, 1954, ch. 736, 68A Stat. 259, related to adjustment for certain reserves, prior to the general revision of this part by act Mar. 13, 1956, ch. 83, § 2, 70 Stat. 36.
+A prior section 807, act Aug. 16, 1954, ch. 736, 68A Stat. 259, related to adjustment for certain reserves, prior to the general revision of this part by act Mar. 13, 1956, ch. 83, § 2, 70 Stat. 36.
 
 **Amendments**
 
 2018—Subsec. (e)(5)(A)(i). Pub. L. 115–141 substituted “subparagraph (B)” for “subparagraph (C)”.
 
-2017—Subsec. (c). Pub. L. 115–97, § 13517(a)(1), directed the general amendment of the second sentence of subsec. (c), which was executed by substituting “For purposes of paragraph (3), the appropriate rate of interest is the highest rate or rates permitted to be used to discount the obligations by the National Association of Insurance Commissioners as of the date the reserve is determined.” for “For purposes of paragraph (3), the appropriate rate of interest for any obligation is whichever of the following rates is the highest as of the time such obligation first did not involve life, accident, or health contingencies: the applicable Federal interest rate under subsection (d)(2)(B)(i), the prevailing State assumed interest rate under subsection (d)(2)(B)(ii), or the rate of interest assumed by the company in determining the guaranteed benefit.” in concluding provisions.
+2017—Subsec. (c). Pub. L. 115–97, § 13517(a)(1), directed the general amendment of the second sentence of subsec. (c), which was executed by substituting “For purposes of paragraph (3), the appropriate rate of interest is the highest rate or rates permitted to be used to discount the obligations by the National Association of Insurance Commissioners as of the date the reserve is determined.” for “For purposes of paragraph (3), the appropriate rate of interest for any obligation is whichever of the following rates is the highest as of the time such obligation first did not involve life, accident, or health contingencies: the applicable Federal interest rate under subsection (d)(2)(B)(i), the prevailing State assumed interest rate under subsection (d)(2)(B)(ii), or the rate of interest assumed by the company in determining the guaranteed benefit.” in concluding provisions.
 
-Subsec. (d)(1), (2). Pub. L. 115–97, § 13517(a)(2)(A), (C), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+Subsec. (d)(1), (2). Pub. L. 115–97, § 13517(a)(2)(A), (C), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
 “(1) In general.—For purposes of this part (other than section 816), the amount of the life insurance reserves for any contract shall be the greater of—
 
@@ -967,41 +967,41 @@ In no event shall the reserve determined under the preceding sentence for any co
 
 “(C) the prevailing commissioners’ standard tables for mortality and morbidity adjusted as appropriate to reflect the risks (such as substandard risks) incurred under the contract which are not otherwise taken into account.”
 
-Subsec. (d)(3)(A)(iii). Pub. L. 115–97, § 13517(a)(2)(D), substituted “, the reserve method prescribed by the National Association of Insurance Commissioners which covers such contract as of the date the reserve is determined” for “(other than a qualified long-term care insurance contract, as defined in section 7702B(b)), a 2-year full preliminary term method”.
+Subsec. (d)(3)(A)(iii). Pub. L. 115–97, § 13517(a)(2)(D), substituted “, the reserve method prescribed by the National Association of Insurance Commissioners which covers such contract as of the date the reserve is determined” for “(other than a qualified long-term care insurance contract, as defined in section 7702B(b)), a 2-year full preliminary term method”.
 
-Subsec. (d)(3)(A)(iv)(I). Pub. L. 115–97, § 13517(a)(2)(E), substituted “(as of the date the reserve is determined)” for “(as of the date of issuance)”.
+Subsec. (d)(3)(A)(iv)(I). Pub. L. 115–97, § 13517(a)(2)(E), substituted “(as of the date the reserve is determined)” for “(as of the date of issuance)”.
 
-Subsec. (d)(3)(A)(iv)(II). Pub. L. 115–97, § 13517(a)(2)(F), substituted “as of the date the reserve is determined for” for “as of the date of the issuance of”.
+Subsec. (d)(3)(A)(iv)(II). Pub. L. 115–97, § 13517(a)(2)(F), substituted “as of the date the reserve is determined for” for “as of the date of the issuance of”.
 
-Subsec. (d)(3)(B). Pub. L. 115–97, § 13517(a)(2)(G), (H), substituted “applicable to the contract and in effect as of the date the reserve is determined” for “in effect on the date of the issuance of the contract” in cls. (i) and (ii).
+Subsec. (d)(3)(B). Pub. L. 115–97, § 13517(a)(2)(G), (H), substituted “applicable to the contract and in effect as of the date the reserve is determined” for “in effect on the date of the issuance of the contract” in cls. (i) and (ii).
 
-Subsec. (d)(4) to (6). Pub. L. 115–97, § 13517(a)(2)(A), (B), redesignated par. (6) as (4) and struck out former pars. (4) and (5) which related to applicable Federal and prevailing State assumed interest rates and prevailing commissioners’ standard tables, respectively.
+Subsec. (d)(4) to (6). Pub. L. 115–97, § 13517(a)(2)(A), (B), redesignated par. (6) as (4) and struck out former pars. (4) and (5) which related to applicable Federal and prevailing State assumed interest rates and prevailing commissioners’ standard tables, respectively.
 
-Subsec. (e)(2). Pub. L. 115–97, § 13517(a)(3)(C), amended par. (2) generally. Prior to amendment, par. (2) related to supplemental benefits.
+Subsec. (e)(2). Pub. L. 115–97, § 13517(a)(3)(C), amended par. (2) generally. Prior to amendment, par. (2) related to supplemental benefits.
 
-Pub. L. 115–97, § 13517(a)(3)(A), (B), redesignated par. (3) as (2) and struck out former par. (2) which related to issuance date in case of group contracts.
+Pub. L. 115–97, § 13517(a)(3)(A), (B), redesignated par. (3) as (2) and struck out former par. (2) which related to issuance date in case of group contracts.
 
-Subsec. (e)(3), (4). Pub. L. 115–97, § 13517(a)(3)(B), redesignated pars. (4) and (6) as (3) and (4), respectively. Former par. (3) redesignated (2).
+Subsec. (e)(3), (4). Pub. L. 115–97, § 13517(a)(3)(B), redesignated pars. (4) and (6) as (3) and (4), respectively. Former par. (3) redesignated (2).
 
-Subsec. (e)(5). Pub. L. 115–97, § 13517(a)(3)(A), (B), redesignated par. (7) as (5) and struck out former par. (5) which related to treatment of substandard risks.
+Subsec. (e)(5). Pub. L. 115–97, § 13517(a)(3)(A), (B), redesignated par. (7) as (5) and struck out former par. (5) which related to treatment of substandard risks.
 
-Subsec. (e)(6). Pub. L. 115–97, § 13517(a)(3)(D), added par. (6). Former par. (6) redesignated (4).
+Subsec. (e)(6). Pub. L. 115–97, § 13517(a)(3)(D), added par. (6). Former par. (6) redesignated (4).
 
-Subsec. (e)(7). Pub. L. 115–97, § 13517(a)(3)(B), redesignated par. (7) as (5).
+Subsec. (e)(7). Pub. L. 115–97, § 13517(a)(3)(B), redesignated par. (7) as (5).
 
-Subsec. (f)(1). Pub. L. 115–97, § 13513(a), amended par. (1) generally. Prior to amendment, par. (1) related to 10-year spread method of computation.
+Subsec. (f)(1). Pub. L. 115–97, § 13513(a), amended par. (1) generally. Prior to amendment, par. (1) related to 10-year spread method of computation.
 
 2014—Subsec. (e)(7)(B), (C). Pub. L. 113–295 redesignated subpar. (C) as (B) and struck out former subpar. (B) which related to transitional rule.
 
-2004—Subsecs. (a)(2)(B), (b)(1)(B). Pub. L. 108–218, § 205(b)(1), struck out “the sum of (i)” before “the amount” and struck out “plus (ii) any excess described in section 809(a)(2) for the taxable year,” after “to which section 264(f) applies,”.
+2004—Subsecs. (a)(2)(B), (b)(1)(B). Pub. L. 108–218, § 205(b)(1), struck out “the sum of (i)” before “the amount” and struck out “plus (ii) any excess described in section 809(a)(2) for the taxable year,” after “to which section 264(f) applies,”.
 
-Subsec. (d)(1). Pub. L. 108–218, § 205(b)(2)(A), substituted “paragraph (6)” for “section 809(b)(4)(B)” in concluding provisions.
+Subsec. (d)(1). Pub. L. 108–218, § 205(b)(2)(A), substituted “paragraph (6)” for “section 809(b)(4)(B)” in concluding provisions.
 
-Subsec. (d)(6). Pub. L. 108–218, § 205(b)(2)(B), added par. (6).
+Subsec. (d)(6). Pub. L. 108–218, § 205(b)(2)(B), added par. (6).
 
-1997—Subsec. (a)(2)(B). Pub. L. 105–34, § 1084(b)(2)(A), substituted “interest and the amount of the policyholder’s share of the increase for the taxable year in policy cash values (within the meaning of section 805(a)(4)(F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies,” for “interest,”.
+1997—Subsec. (a)(2)(B). Pub. L. 105–34, § 1084(b)(2)(A), substituted “interest and the amount of the policyholder’s share of the increase for the taxable year in policy cash values (within the meaning of section 805(a)(4)(F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies,” for “interest,”.
 
-Subsec. (b)(1)(B). Pub. L. 105–34, § 1084(b)(2)(B), substituted “interest and the amount of the policyholder’s share of the increase for the taxable year in policy cash values (within the meaning of section 805(a)(4)(F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies,” for “interest,”.
+Subsec. (b)(1)(B). Pub. L. 105–34, § 1084(b)(2)(B), substituted “interest and the amount of the policyholder’s share of the increase for the taxable year in policy cash values (within the meaning of section 805(a)(4)(F)) of life insurance policies and annuity and endowment contracts to which section 264(f) applies,” for “interest,”.
 
 1996—Subsec. (d)(3)(A)(iii). Pub. L. 104–191 inserted “(other than a qualified long-term care insurance contract, as defined in section 7702B(b))” after “insurance contract”.
 
@@ -1009,25 +1009,25 @@ Subsec. (d)(3)(B)(ii). Pub. L. 104–188 substituted “Commissioners’ Annuiti
 
 1990—Subsec. (e)(7). Pub. L. 101–508 added par. (7).
 
-1987—Subsec. (c). Pub. L. 100–203, § 10241(b)(2)(A), substituted “whichever of the following rates is the highest as of the time such obligation first did not involve life, accident, or health contingencies: the applicable Federal interest rate under subsection (d)(2)(B)(i), the prevailing State assumed interest rate under subsection (d)(2)(B)(ii), or the rate of interest assumed by the company in determining the guaranteed benefit.” for “the higher of the prevailing State assumed interest rate as of the time such obligation first did not involve life, accident, or health contingencies or the rate of interest assumed by the company (as of such time) in determining the guaranteed benefit.” in third to last sentence.
+1987—Subsec. (c). Pub. L. 100–203, § 10241(b)(2)(A), substituted “whichever of the following rates is the highest as of the time such obligation first did not involve life, accident, or health contingencies: the applicable Federal interest rate under subsection (d)(2)(B)(i), the prevailing State assumed interest rate under subsection (d)(2)(B)(ii), or the rate of interest assumed by the company in determining the guaranteed benefit.” for “the higher of the prevailing State assumed interest rate as of the time such obligation first did not involve life, accident, or health contingencies or the rate of interest assumed by the company (as of such time) in determining the guaranteed benefit.” in third to last sentence.
 
-Subsec. (d)(2)(B). Pub. L. 100–203, § 10241(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the prevailing State assumed interest rate, and”.
+Subsec. (d)(2)(B). Pub. L. 100–203, § 10241(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the prevailing State assumed interest rate, and”.
 
-Subsec. (d)(4). Pub. L. 100–203, § 10241(b)(1), substituted “Applicable Federal interest rate; prevailing State assumed interest rate” for “Prevailing State assumed interest rate” in heading and amended text generally, revising and restating as subpars. (A) and (B) provisions of former subpars. (A) to (D).
+Subsec. (d)(4). Pub. L. 100–203, § 10241(b)(1), substituted “Applicable Federal interest rate; prevailing State assumed interest rate” for “Prevailing State assumed interest rate” in heading and amended text generally, revising and restating as subpars. (A) and (B) provisions of former subpars. (A) to (D).
 
-1986—Subsec. (c). Pub. L. 99–514, § 1023(b), inserted at end “For purposes of paragraph (2) and section 805(a)(1), the amount of the unpaid losses (other than losses on life insurance contracts) shall be the amount of the discounted unpaid losses as defined in section 846.”
+1986—Subsec. (c). Pub. L. 99–514, § 1023(b), inserted at end “For purposes of paragraph (2) and section 805(a)(1), the amount of the unpaid losses (other than losses on life insurance contracts) shall be the amount of the discounted unpaid losses as defined in section 846.”
 
-Pub. L. 99–514, § 1821(a), inserted at end “In no case shall the amount determined under paragraph (3) for any contract be less than the net surrender value of such contract.”
+Pub. L. 99–514, § 1821(a), inserted at end “In no case shall the amount determined under paragraph (3) for any contract be less than the net surrender value of such contract.”
 
-Subsec. (d)(5)(C). Pub. L. 99–514, § 1821(s), inserted at end “When the Secretary by regulation changes the table applicable to a type of contract, the new table shall be treated (for purposes of subparagraph (B) and for purposes of determining the issue dates of contracts for which it shall be used) as if it were a new prevailing commissioner’s standard table adopted by the twenty-sixth State as of a date (no earlier than the date the regulation is issued) specified by the Secretary.”
+Subsec. (d)(5)(C). Pub. L. 99–514, § 1821(s), inserted at end “When the Secretary by regulation changes the table applicable to a type of contract, the new table shall be treated (for purposes of subparagraph (B) and for purposes of determining the issue dates of contracts for which it shall be used) as if it were a new prevailing commissioner’s standard table adopted by the twenty-sixth State as of a date (no earlier than the date the regulation is issued) specified by the Secretary.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–97, title I, § 13513(b), Dec. 22, 2017, 131 Stat. 2143, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017.”
+Pub. L. 115–97, title I, § 13513(b), Dec. 22, 2017, 131 Stat. 2143, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017.”
 
-Pub. L. 115–97, title I, § 13517(c), Dec. 22, 2017, 131 Stat. 2147, provided that:
+Pub. L. 115–97, title I, § 13517(c), Dec. 22, 2017, 131 Stat. 2147, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section and sections 808, 811, 846, 848, 954, and 7702 of this title] shall apply to taxable years beginning after December 31, 2017.
 
@@ -1055,7 +1055,7 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–218, title II, § 205(c), Apr. 10, 2004, 118 Stat. 610, provided that: “The amendments made by this section [amending this section and sections 808, 812, 817, and 842 of this title and repealing section 809 of this title] shall apply to taxable years beginning after December 31, 2004.”
+Pub. L. 108–218, title II, § 205(c), Apr. 10, 2004, 118 Stat. 610, provided that: “The amendments made by this section [amending this section and sections 808, 812, 817, and 842 of this title and repealing section 809 of this title] shall apply to taxable years beginning after December 31, 2004.”
 
 **Effective Date of 1997 Amendment**
 
@@ -1067,11 +1067,11 @@ Amendment by Pub. L. 104–191 applicable to contracts issued after Dec. 31, 199
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title XI, § 11302(b), Nov. 5, 1990, 104 Stat. 1388–450, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning on or after September 30, 1990.”
+Pub. L. 101–508, title XI, § 11302(b), Nov. 5, 1990, 104 Stat. 1388–450, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning on or after September 30, 1990.”
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–203, title X, § 10241(c), Dec. 22, 1987, 101 Stat. 1330–420, provided that: “The amendments made by this section [amending this section and section 812 of this title] shall apply to contracts issued in taxable years beginning after December 31, 1987.”
+Pub. L. 100–203, title X, § 10241(c), Dec. 22, 1987, 101 Stat. 1330–420, provided that: “The amendments made by this section [amending this section and section 812 of this title] shall apply to contracts issued in taxable years beginning after December 31, 1987.”
 
 **Effective Date of 1986 Amendment**
 
@@ -1083,15 +1083,15 @@ Amendment by section 1821(a), (s) of Pub. L. 99–514 effective, except as other
 
 Section applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as a note under section 801 of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 **Treatment of Certain Assessment Life Insurance Companies**
 
-Pub. L. 98–369, div. A, title II, § 217(f), July 18, 1984, 98 Stat. 763, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title II, § 217(f), July 18, 1984, 98 Stat. 763, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-> **“(1) Mortality and morbidity tables.—** In the case of a contract issued by an assessment life insurance company, the mortality and morbidity tables used in computing statutory reserves for such contract shall be used for purposes of paragraph (2)(C) of section 807(d) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as amended by this subtitle [subtitle A (§§ 211–219) of title II of div. A of Pub. L. 98–369]) if such tables were—
+> **“(1) Mortality and morbidity tables.—** In the case of a contract issued by an assessment life insurance company, the mortality and morbidity tables used in computing statutory reserves for such contract shall be used for purposes of paragraph (2)(C) of section 807(d) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as amended by this subtitle [subtitle A (§§ 211–219) of title II of div. A of Pub. L. 98–369]) if such tables were—
 
 > **“(A)** in use since 1965, and
 
@@ -1109,7 +1109,7 @@ Pub. L. 98–369, div. A, title II, § 217(f), July 18, 1984, 98 Stat. 763, as
 
 **Special Rule for Companies Using Net Level Reserve Method for Noncancellable Accident and Health Insurance Contracts**
 
-Pub. L. 98–369, div. A, title II, § 217(n), July 18, 1984, 98 Stat. 766, as amended by Pub. L. 99–514, § 2, title XVIII, § 1823, Oct. 22, 1986, 100 Stat. 2095, 2845, provided that:
+Pub. L. 98–369, div. A, title II, § 217(n), July 18, 1984, 98 Stat. 766, as amended by Pub. L. 99–514, § 2, title XVIII, § 1823, Oct. 22, 1986, 100 Stat. 2095, 2845, provided that:
 
 > “A company shall be treated as meeting the requirements of section 807(d)(3)(A)(iii) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], as amended by this Act, with respect to any directly-written noncancellable accident and health insurance contract (whether under existing or new plans of insurance) for any taxable year if—
 
@@ -1123,7 +1123,7 @@ Pub. L. 98–369, div. A, title II, § 217(n), July 18, 1984, 98 Stat. 766, as
 
 > **“(3)** for any such contract for which the company does not use the net level reserve method, such company uses the same method for computing tax reserves as such company uses for computing its statutory reserves.”
 
-#### § 808. Policyholder dividends deduction
+#### § 808. Policyholder dividends deduction
 
 **(a) Policyholder dividend defined**
 
@@ -1217,7 +1217,7 @@ The term “prevailing State assumed interest rate” means, with respect to any
 
 The prevailing State assumed interest rate with respect to any contract shall be determined as of the beginning of the calendar year in which the contract was issued.
 
-(Added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 732; amended Pub. L. 99–514, title XVIII, § 1821(b), (c), Oct. 22, 1986, 100 Stat. 2838; Pub. L. 108–218, title II, § 205(b)(3), Apr. 10, 2004, 118 Stat. 610; Pub. L. 115–97, title I, § 13517(b)(1), Dec. 22, 2017, 131 Stat. 2147.)
+(Added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 732; amended Pub. L. 99–514, title XVIII, § 1821(b), (c), Oct. 22, 1986, 100 Stat. 2838; Pub. L. 108–218, title II, § 205(b)(3), Apr. 10, 2004, 118 Stat. 610; Pub. L. 115–97, title I, § 13517(b)(1), Dec. 22, 2017, 131 Stat. 2147.)
 
 **Editorial Notes**
 
@@ -1235,9 +1235,9 @@ The date of enactment of the Tax Reform Act of 1984, referred to in subsec. (f)(
 
 “(2) Reduction in case of mutual companies.—In the case of a mutual life insurance company, the deduction for policyholder dividends for any taxable year shall be reduced by the amount determined under section 809.”
 
-1986—Subsec. (d)(1)(B). Pub. L. 99–514, § 1821(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “determined at a rate in excess of the prevailing State assumed interest rate for such contract.”
+1986—Subsec. (d)(1)(B). Pub. L. 99–514, § 1821(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “determined at a rate in excess of the prevailing State assumed interest rate for such contract.”
 
-Subsec. (f). Pub. L. 99–514, § 1821(c), added subsec. (f).
+Subsec. (f). Pub. L. 99–514, § 1821(c), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1257,15 +1257,15 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 Section applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as a note under section 801 of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-#### [§ 809. Repealed. Pub. L. 108–218, title II, § 205(a), Apr. 10, 2004, 118 Stat. 610]
+#### [§ 809. Repealed. Pub. L. 108–218, title II, § 205(a), Apr. 10, 2004, 118 Stat. 610]
 
-Section, added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 733; amended Pub. L. 99–514, title XVIII, § 1821(d)–(h), (r), Oct. 22, 1986, 100 Stat. 2839, 2840, 2843; Pub. L. 100–647, title I, § 1018(u)(47), Nov. 10, 1988, 102 Stat. 3593; Pub. L. 107–147, title VI, § 611(a), Mar. 9, 2002, 116 Stat. 61, related to reduction in certain deductions of mutual life insurance companies.
+Section, added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 733; amended Pub. L. 99–514, title XVIII, § 1821(d)–(h), (r), Oct. 22, 1986, 100 Stat. 2839, 2840, 2843; Pub. L. 100–647, title I, § 1018(u)(47), Nov. 10, 1988, 102 Stat. 3593; Pub. L. 107–147, title VI, § 611(a), Mar. 9, 2002, 116 Stat. 61, related to reduction in certain deductions of mutual life insurance companies.
 
-A prior section 809, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 121; amended Pub. L. 87–59, § 2(a), (b), June 27, 1961, 75 Stat. 120; Pub. L. 87–790, § 3(a), Oct. 10, 1962, 76 Stat. 808; Pub. L. 87–858, § 3(b)(3), (c), Oct. 23, 1962, 76 Stat. 1137; Pub. L. 88–272, title II, §§ 214(b)(4), 228(a), Feb. 26, 1964, 78 Stat. 55, 98; Pub. L. 91–172, title II, § 201(a)(2)(C), title IX, § 907(c)(2)(B), Dec. 30, 1969, 83 Stat. 558, 717; Pub. L. 94–455, title XV, § 1508(a), title XIX, §§ 1901(a)(98), (b)(1)(J)(iv), (L)–(N), 33(G), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1741, 1781, 1791, 1801, 1834; Pub. L. 97–248, title II, §§ 255(b)(2)–(4), 259(a), 264(c)(2), (3), Sept. 3, 1982, 96 Stat. 534, 538, 544; Pub. L. 97–448, title I, § 102(m)(1), Jan. 12, 1983, 96 Stat. 2374, related to general provisions regarding gain and loss from operations, prior to the general revision of this part by Pub. L. 98–369, § 211(a).
+A prior section 809, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 121; amended Pub. L. 87–59, § 2(a), (b), June 27, 1961, 75 Stat. 120; Pub. L. 87–790, § 3(a), Oct. 10, 1962, 76 Stat. 808; Pub. L. 87–858, § 3(b)(3), (c), Oct. 23, 1962, 76 Stat. 1137; Pub. L. 88–272, title II, §§ 214(b)(4), 228(a), Feb. 26, 1964, 78 Stat. 55, 98; Pub. L. 91–172, title II, § 201(a)(2)(C), title IX, § 907(c)(2)(B), Dec. 30, 1969, 83 Stat. 558, 717; Pub. L. 94–455, title XV, § 1508(a), title XIX, §§ 1901(a)(98), (b)(1)(J)(iv), (L)–(N), 33(G), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1741, 1781, 1791, 1801, 1834; Pub. L. 97–248, title II, §§ 255(b)(2)–(4), 259(a), 264(c)(2), (3), Sept. 3, 1982, 96 Stat. 534, 538, 544; Pub. L. 97–448, title I, § 102(m)(1), Jan. 12, 1983, 96 Stat. 2374, related to general provisions regarding gain and loss from operations, prior to the general revision of this part by Pub. L. 98–369, § 211(a).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1273,11 +1273,11 @@ A prior section 809, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 1
 
 Repeal applicable to taxable years beginning after Dec. 31, 2004, see section 205(c) of Pub. L. 108–218, set out as an Effective Date of 2004 Amendment note under section 807 of this title.
 
-#### [§ 810. Repealed. Pub. L. 115–97, title I, § 13511(b)(1), Dec. 22, 2017, 131 Stat. 2142]
+#### [§ 810. Repealed. Pub. L. 115–97, title I, § 13511(b)(1), Dec. 22, 2017, 131 Stat. 2142]
 
-Section, added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 738; amended Pub. L. 111–92, § 13(c), Nov. 6, 2009, 123 Stat. 2994; Pub. L. 113–295, div. A, title II, § 221(a)(41)(J), Dec. 19, 2014, 128 Stat. 4044, related to operations loss deduction.
+Section, added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 738; amended Pub. L. 111–92, § 13(c), Nov. 6, 2009, 123 Stat. 2994; Pub. L. 113–295, div. A, title II, § 221(a)(41)(J), Dec. 19, 2014, 128 Stat. 4044, related to operations loss deduction.
 
-A prior section 810, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 125; amended Pub. L. 91–172, title I, § 121(b)(5)(B), title IX, § 907(a)(2), Dec. 30, 1969, 83 Stat. 541, 715, related to rules for certain reserves, prior to the general revision of this part by Pub. L. 98–369, § 211(a).
+A prior section 810, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 125; amended Pub. L. 91–172, title I, § 121(b)(5)(B), title IX, § 907(a)(2), Dec. 30, 1969, 83 Stat. 541, 715, related to rules for certain reserves, prior to the general revision of this part by Pub. L. 98–369, § 211(a).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1291,11 +1291,11 @@ Repeal applicable to losses arising in taxable years beginning after Dec. 31, 20
 
 **Amendments**
 
-2017—Pub. L. 115–97, title I, § 13514(a), Dec. 22, 2017, 131 Stat. 2143, struck out item 815 “Distributions to shareholders from pre-1984 policyholders surplus account”.
+2017—Pub. L. 115–97, title I, § 13514(a), Dec. 22, 2017, 131 Stat. 2143, struck out item 815 “Distributions to shareholders from pre-1984 policyholders surplus account”.
 
-1987—Pub. L. 100–203, title X, § 10242(c)(4), Dec. 22, 1987, 101 Stat. 1330–423, struck out item 813 “Foreign life insurance companies”.
+1987—Pub. L. 100–203, title X, § 10242(c)(4), Dec. 22, 1987, 101 Stat. 1330–423, struck out item 813 “Foreign life insurance companies”.
 
-#### § 811. Accounting provisions
+#### § 811. Accounting provisions
 
 **(a) Method of accounting** All computations entering into the determination of the taxes imposed by this part shall be made—
 
@@ -1349,15 +1349,15 @@ shall be taken into account in computing the reserves with respect to such contr
 
 If any return of a corporation made under this part is for a period of less than the entire calendar year (referred to in this subsection as “short period”), then section 443 shall not apply in respect to such period, but life insurance company taxable income shall be determined, under regulations prescribed by the Secretary, on an annual basis by a ratable daily projection of the appropriate figures for the short period.
 
-(Added and amended Pub. L. 98–369, div. A, title I, § 42(a)(8), title II, § 211(a), July 18, 1984, 98 Stat. 557, 740; Pub. L. 100–647, title II, § 2004(p)(1), Nov. 10, 1988, 102 Stat. 3608; Pub. L. 115–97, title I, § 13517(b)(2), Dec. 22, 2017, 131 Stat. 2147.)
+(Added and amended Pub. L. 98–369, div. A, title I, § 42(a)(8), title II, § 211(a), July 18, 1984, 98 Stat. 557, 740; Pub. L. 100–647, title II, § 2004(p)(1), Nov. 10, 1988, 102 Stat. 3608; Pub. L. 115–97, title I, § 13517(b)(2), Dec. 22, 2017, 131 Stat. 2147.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 811, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 126; amended Pub. L. 97–248, title II, § 255(b)(1), Sept. 3, 1982, 96 Stat. 533; Pub. L. 98–369, div. A, title VII, § 714(a), July 18, 1984, 98 Stat. 960, related to dividends to policyholders, prior to the general revision of this part by Pub. L. 98–369, § 211(a).
+A prior section 811, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 126; amended Pub. L. 97–248, title II, § 255(b)(1), Sept. 3, 1982, 96 Stat. 533; Pub. L. 98–369, div. A, title VII, § 714(a), July 18, 1984, 98 Stat. 960, related to dividends to policyholders, prior to the general revision of this part by Pub. L. 98–369, § 211(a).
 
-Another prior section 811, act Aug. 16, 1954, ch. 736, § 811, as added Mar. 13, 1956, ch. 83, § 2, 70 Stat. 44; amended July 24, 1956, ch. 696, § 2(c), 70 Stat. 633; Mar. 17, 1958, Pub. L. 85–345, § 2(c), 72 Stat. 37, imposed a tax on the life insurance company taxable income of all life insurance companies for taxable years beginning after Dec. 31, 1957, prior to the general revision of this part by Pub. L. 86–69, § 2(a).
+Another prior section 811, act Aug. 16, 1954, ch. 736, § 811, as added Mar. 13, 1956, ch. 83, § 2, 70 Stat. 44; amended July 24, 1956, ch. 696, § 2(c), 70 Stat. 633; Mar. 17, 1958, Pub. L. 85–345, § 2(c), 72 Stat. 37, imposed a tax on the life insurance company taxable income of all life insurance companies for taxable years beginning after Dec. 31, 1957, prior to the general revision of this part by Pub. L. 86–69, § 2(a).
 
 **Amendments**
 
@@ -1365,7 +1365,7 @@ Another prior section 811, act Aug. 16, 1954, ch. 736, § 811, as added Mar. 1
 
 1988—Subsec. (d)(1). Pub. L. 100–647 substituted “the greater of the prevailing State assumed interest rate or applicable Federal interest rate in effect under section 807 for the contract” for “the prevailing State assumed interest rate for the contract”.
 
-1984—Subsec. (b)(3). Pub. L. 98–369, § 42(a)(8), substituted “section 1273” for “section 1232(b)”.
+1984—Subsec. (b)(3). Pub. L. 98–369, § 42(a)(8), substituted “section 1273” for “section 1232(b)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1385,7 +1385,7 @@ Amendment by section 42(a)(8) of Pub. L. 98–369 applicable to taxable years en
 
 Section applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as a note under section 801 of this title.
 
-#### § 812. Definition of company’s share and policyholder’s share
+#### § 812. Definition of company’s share and policyholder’s share
 
 **(a) Company’s share**
 
@@ -1395,7 +1395,7 @@ For purposes of section 805(a)(4), the term “company’s share” means, with 
 
 For purposes of section 807, the term “policyholder’s share” means, with respect to any taxable year beginning after December 31, 2017, 30 percent.
 
-(Added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 741; amended Pub. L. 99–514, title XVIII, § 1821(i), Oct. 22, 1986, 100 Stat. 2840; Pub. L. 100–203, title X, § 10241(b)(2)(B), Dec. 22, 1987, 101 Stat. 1330–420; Pub. L. 100–647, title I, § 1018(h)(1), title II, § 2004(p)(2), Nov. 10, 1988, 102 Stat. 3583, 3608; Pub. L. 104–188, title I, § 1602(b)(2), Aug. 20, 1996, 110 Stat. 1833; Pub. L. 105–34, title X, § 1084(b)(3), Aug. 5, 1997, 111 Stat. 955; Pub. L. 108–218, title II, § 205(b)(4), Apr. 10, 2004, 118 Stat. 610; Pub. L. 113–295, div. A, title II, § 221(a)(41)(G), Dec. 19, 2014, 128 Stat. 4044; Pub. L. 115–97, title I, § 13518(a), Dec. 22, 2017, 131 Stat. 2148.)
+(Added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 741; amended Pub. L. 99–514, title XVIII, § 1821(i), Oct. 22, 1986, 100 Stat. 2840; Pub. L. 100–203, title X, § 10241(b)(2)(B), Dec. 22, 1987, 101 Stat. 1330–420; Pub. L. 100–647, title I, § 1018(h)(1), title II, § 2004(p)(2), Nov. 10, 1988, 102 Stat. 3583, 3608; Pub. L. 104–188, title I, § 1602(b)(2), Aug. 20, 1996, 110 Stat. 1833; Pub. L. 105–34, title X, § 1084(b)(3), Aug. 5, 1997, 111 Stat. 955; Pub. L. 108–218, title II, § 205(b)(4), Apr. 10, 2004, 118 Stat. 610; Pub. L. 113–295, div. A, title II, § 221(a)(41)(G), Dec. 19, 2014, 128 Stat. 4044; Pub. L. 115–97, title I, § 13518(a), Dec. 22, 2017, 131 Stat. 2148.)
 
 **Editorial Notes**
 
@@ -1405,15 +1405,15 @@ Another section 1084(b) of Pub. L. 105–34 amended sections 101 and 264 of this
 
 **Prior Provisions**
 
-A prior section 812, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 127; amended Pub. L. 87–858, § 3(d)(1), Oct. 23, 1962, 76 Stat. 1137; Pub. L. 88–571, § 1(a), Sept. 2, 1964, 78 Stat. 857; Pub. L. 94–455, title VIII, § 806(d)(1), title XIX, § 1901(a)(99), Oct. 4, 1976, 90 Stat. 1598, 1781; Pub. L. 97–34, title II, § 207(b), Aug. 13, 1981, 95 Stat. 225, related to operations loss deductions, prior to the general revision of this part by Pub. L. 98–369, § 211(a).
+A prior section 812, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 127; amended Pub. L. 87–858, § 3(d)(1), Oct. 23, 1962, 76 Stat. 1137; Pub. L. 88–571, § 1(a), Sept. 2, 1964, 78 Stat. 857; Pub. L. 94–455, title VIII, § 806(d)(1), title XIX, § 1901(a)(99), Oct. 4, 1976, 90 Stat. 1598, 1781; Pub. L. 97–34, title II, § 207(b), Aug. 13, 1981, 95 Stat. 225, related to operations loss deductions, prior to the general revision of this part by Pub. L. 98–369, § 211(a).
 
-Another prior section 812, act Aug. 16, 1954, ch. 736, § 812, as added Mar. 13, 1956, ch. 83, § 2, 70 Stat. 45, related to reserve and other policy liability deduction, prior to the general revision of this part by Pub. L. 86–69, § 2(a).
+Another prior section 812, act Aug. 16, 1954, ch. 736, § 812, as added Mar. 13, 1956, ch. 83, § 2, 70 Stat. 45, related to reserve and other policy liability deduction, prior to the general revision of this part by Pub. L. 86–69, § 2(a).
 
 **Amendments**
 
 2017—Pub. L. 115–97 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f), relating to definition of company’s share and policyholders’ share as pertaining to net and gross investment incomes.
 
-2014—Subsec. (e)(2)(A). Pub. L. 113–295 struck out “, 244,” after “section 243”.
+2014—Subsec. (e)(2)(A). Pub. L. 113–295 struck out “, 244,” after “section 243”.
 
 2004—Subsec. (b)(3)(A). Pub. L. 108–218 substituted “section 808” for “sections 808 and 809”.
 
@@ -1421,25 +1421,25 @@ Another prior section 812, act Aug. 16, 1954, ch. 736, § 812, as added Mar. 1
 
 1996—Subsec. (g). Pub. L. 104–188 struck out subsec. (g) which read as follows: “Treatment of Interest Partially Tax-Exempt Under Section 133.—For purposes of this section and subsections (a) and (b) of section 807, the terms ‘gross investment income’ and ‘tax-exempt interest’ shall not include any interest received with respect to a securities acquisition loan (as defined in section 133(b)). Such interest shall not be included in life insurance gross income for purposes of subsection (b)(3).”
 
-1988—Subsec. (b)(2). Pub. L. 100–647, § 2004(p)(2), substituted “In any case where neither the prevailing State assumed interest rate nor the applicable Federal interest rate is used, another appropriate rate shall be used for purposes of subparagraph (A).” for “In any case where the prevailing State assumed rate is not used, another appropriate rate shall be treated as the prevailing State assumed rate for purposes of subparagraph (A).”
+1988—Subsec. (b)(2). Pub. L. 100–647, § 2004(p)(2), substituted “In any case where neither the prevailing State assumed interest rate nor the applicable Federal interest rate is used, another appropriate rate shall be used for purposes of subparagraph (A).” for “In any case where the prevailing State assumed rate is not used, another appropriate rate shall be treated as the prevailing State assumed rate for purposes of subparagraph (A).”
 
-Subsec. (e). Pub. L. 100–647, § 1018(h)(1), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “For purposes of this section, the term ‘gross investment income’ shall not include any dividend received by the life insurance company which is a 100-percent dividend (as defined in section 805(a)(4)(C)). Such term also shall not include any dividend described in section 805(a)(4)(D) (relating to certain dividends in the case of foreign corporations).”
+Subsec. (e). Pub. L. 100–647, § 1018(h)(1), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “For purposes of this section, the term ‘gross investment income’ shall not include any dividend received by the life insurance company which is a 100-percent dividend (as defined in section 805(a)(4)(C)). Such term also shall not include any dividend described in section 805(a)(4)(D) (relating to certain dividends in the case of foreign corporations).”
 
 1987—Subsec. (b)(2). Pub. L. 100–203 substituted “at the greater of the prevailing State assumed rate or the applicable Federal interest rate” for “at the prevailing State assumed rate or, where such rate is not used, another appropriate rate” in subpar. (A), and inserted provision at end that in any case where the prevailing State assumed rate is not used, another appropriate rate be treated as the prevailing State assumed rate for purposes of subpar. (A).
 
-1986—Subsec. (b)(2). Pub. L. 99–514, § 1821(i)(1), inserted “or, where such rate is not used, another appropriate rate” after “assumed rate”, in subpar. (A) and added subpar. (D).
+1986—Subsec. (b)(2). Pub. L. 99–514, § 1821(i)(1), inserted “or, where such rate is not used, another appropriate rate” after “assumed rate”, in subpar. (A) and added subpar. (D).
 
-Subsec. (b)(3)(B). Pub. L. 99–514, § 1821(i)(2), struck out “(including tax-exempt interest)” after “insurance gross income” in cl. (ii) and inserted at end “For purposes of subparagraph (B)(ii), life insurance gross income shall be determined by including tax-exempt interest and by applying section 807(a)(2)(B) as if it did not contain clause (i) thereof.”
+Subsec. (b)(3)(B). Pub. L. 99–514, § 1821(i)(2), struck out “(including tax-exempt interest)” after “insurance gross income” in cl. (ii) and inserted at end “For purposes of subparagraph (B)(ii), life insurance gross income shall be determined by including tax-exempt interest and by applying section 807(a)(2)(B) as if it did not contain clause (i) thereof.”
 
-Subsec. (c). Pub. L. 99–514, § 1821(i)(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For purposes of this section, the term ‘net investment income’ means 90 percent of gross investment income.”
+Subsec. (c). Pub. L. 99–514, § 1821(i)(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For purposes of this section, the term ‘net investment income’ means 90 percent of gross investment income.”
 
-Subsec. (g). Pub. L. 99–514, § 1821(i)(4), added subsec. (g).
+Subsec. (g). Pub. L. 99–514, § 1821(i)(4), added subsec. (g).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–97, title I, § 13518(c), Dec. 22, 2017, 131 Stat. 2148, provided that: “The amendments made by this section [amending this section and section 817A of this title] shall apply to taxable years beginning after December 31, 2017.”
+Pub. L. 115–97, title I, § 13518(c), Dec. 22, 2017, 131 Stat. 2148, provided that: “The amendments made by this section [amending this section and section 817A of this title] shall apply to taxable years beginning after December 31, 2017.”
 
 **Effective Date of 2014 Amendment**
 
@@ -1461,7 +1461,7 @@ Amendment by section 1602(b)(1) of Pub. L. 104–188 applicable to loans made af
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title I, § 1018(h)(2), Nov. 10, 1988, 102 Stat. 3583, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if included in the amendments made by section 211 of the Tax Reform Act of 1984 [Pub. L. 98–369].”
+Pub. L. 100–647, title I, § 1018(h)(2), Nov. 10, 1988, 102 Stat. 3583, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if included in the amendments made by section 211 of the Tax Reform Act of 1984 [Pub. L. 98–369].”
 
 Amendment by section 2004(p)(2) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
 
@@ -1477,15 +1477,15 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 Section applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as a note under section 801 of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-#### [§ 813. Repealed. Pub. L. 100–203, title X, § 10242(c)(1), Dec. 22, 1987, 101 Stat. 1330–423]
+#### [§ 813. Repealed. Pub. L. 100–203, title X, § 10242(c)(1), Dec. 22, 1987, 101 Stat. 1330–423]
 
-Section, added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 743; amended Pub. L. 99–514, title X, § 1011(b)(9), title XVIII, § 1821(j), Oct. 22, 1986, 100 Stat. 2389, 2841; Pub. L. 100–647, title I, § 1010(a)(1), Nov. 10, 1988, 102 Stat. 3450, related to foreign life insurance companies.
+Section, added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 743; amended Pub. L. 99–514, title X, § 1011(b)(9), title XVIII, § 1821(j), Oct. 22, 1986, 100 Stat. 2389, 2841; Pub. L. 100–647, title I, § 1010(a)(1), Nov. 10, 1988, 102 Stat. 3450, related to foreign life insurance companies.
 
-A prior section 813, act Aug. 16, 1954, ch. 736, § 813, as added Mar. 13, 1956, ch. 83, § 2, 70 Stat. 46, related to adjustment for certain reserves, prior to the general revision of this part by Pub. L. 86–69, § 2(a).
+A prior section 813, act Aug. 16, 1954, ch. 736, § 813, as added Mar. 13, 1956, ch. 83, § 2, 70 Stat. 46, related to adjustment for certain reserves, prior to the general revision of this part by Pub. L. 86–69, § 2(a).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1493,7 +1493,7 @@ A prior section 813, act Aug. 16, 1954, ch. 736, § 813, as added Mar. 13, 195
 
 Repeal applicable to taxable years beginning after Dec. 31, 1987, see section 10242(d) of Pub. L. 100–203, set out as an Effective Date of 1987 Amendment note under section 816 of this title.
 
-#### § 814. Contiguous country branches of domestic life insurance companies
+#### § 814. Contiguous country branches of domestic life insurance companies
 
 **(a) Exclusion of items** In the case of a domestic mutual insurance company which—
 
@@ -1565,7 +1565,7 @@ A taxpayer may make the election provided by this subsection with respect to any
 
 At the election of a domestic stock life insurance company which has a contiguous country life insurance branch described in subsection (b) (without regard to the mutual requirement in subsection (b)(3)), the assets of such branch may be transferred to a foreign corporation organized under the laws of the contiguous country without the application of section 367. Subsection (a) shall apply to the stock of such foreign corporation as if such domestic company were a mutual company and as if the stock were an item described in subsection (c). Subsection (e)(2) shall apply to amounts transferred or credited to such domestic company as if such domestic company and such foreign corporation constituted one domestic mutual life insurance company. The insurance contracts which may be transferred pursuant to this subsection shall include only those which are similar to the types of insurance contracts issued by a mutual life insurance company. Notwithstanding the first sentence of this subsection, if the aggregate fair market value of the invested assets and tangible property which are separately accounted for by the domestic life insurance company in the branch account exceeds the aggregate adjusted basis of such assets for purposes of determining gain, the domestic life insurance company shall be deemed to have sold all such assets on the first day of the taxable year for which the election under this subsection applies and the net gain shall be recognized to the domestic life insurance company on the deemed sale, but not in excess of the proportion of such net gain which equals the proportion which the aggregate fair market value of such assets which are transferred pursuant to this subsection is of the aggregate fair market value of all such assets.
 
-(Added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 744; amended Pub. L. 105–34, title XI, § 1131(c)(1), Aug. 5, 1997, 111 Stat. 980; Pub. L. 115–97, title I, § 14301(c)(5), Dec. 22, 2017, 131 Stat. 2222.)
+(Added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 744; amended Pub. L. 105–34, title XI, § 1131(c)(1), Aug. 5, 1997, 111 Stat. 980; Pub. L. 115–97, title I, § 14301(c)(5), Dec. 22, 2017, 131 Stat. 2222.)
 
 **Editorial Notes**
 
@@ -1579,7 +1579,7 @@ At the election of a domestic stock life insurance company which has a contiguou
 
 **New Section 814 Treated as Continuation of Section 819A**
 
-Pub. L. 98–369, div. A, title II, § 217(a), July 18, 1984, 98 Stat. 762, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title II, § 217(a), July 18, 1984, 98 Stat. 762, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > “For purposes of section 814 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to contiguous country branches of domestic life insurance companies)—
 
@@ -1595,11 +1595,11 @@ Amendment by Pub. L. 115–97 applicable to taxable years of foreign corporation
 
 Section applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as a note under section 801 of this title.
 
-#### [§ 815. Repealed. Pub. L. 115–97, title I, § 13514(a), Dec. 22, 2017, 131 Stat. 2143]
+#### [§ 815. Repealed. Pub. L. 115–97, title I, § 13514(a), Dec. 22, 2017, 131 Stat. 2143]
 
-Section, added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 747; amended Pub. L. 99–514, title X, § 1011(b)(10), title XVIII, § 1821(k)(1), (2), Oct. 22, 1986, 100 Stat. 2389, 2841; Pub. L. 100–647, title I, § 1010(j)(1), Nov. 10, 1988, 102 Stat. 3456; Pub. L. 108–357, title VII, § 705(a), Oct. 22, 2004, 118 Stat. 1549; Pub. L. 113–295, div. A, title II, § 221(a)(41)(G), Dec. 19, 2014, 128 Stat. 4044, related to distributions to shareholders from pre-1984 policyholders surplus account.
+Section, added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 747; amended Pub. L. 99–514, title X, § 1011(b)(10), title XVIII, § 1821(k)(1), (2), Oct. 22, 1986, 100 Stat. 2389, 2841; Pub. L. 100–647, title I, § 1010(j)(1), Nov. 10, 1988, 102 Stat. 3456; Pub. L. 108–357, title VII, § 705(a), Oct. 22, 2004, 118 Stat. 1549; Pub. L. 113–295, div. A, title II, § 221(a)(41)(G), Dec. 19, 2014, 128 Stat. 4044, related to distributions to shareholders from pre-1984 policyholders surplus account.
 
-A prior section 815, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 129; amended Pub. L. 87–790, § 3(b), Oct. 10, 1962, 76 Stat. 808; Pub. L. 87–858, § 3(b)(4), (e), Oct. 23, 1962, 76 Stat. 1137; Pub. L. 88–571, §§ 2, 3(a), 4(a), Sept. 2, 1964, 78 Stat. 857, 859; Pub. L. 90–225, § 4(a), (b), Dec. 27, 1967, 81 Stat. 733, 734; Pub. L. 91–172, title IX, § 907(b), Dec. 30, 1969, 83 Stat. 715; Pub. L. 94–331, § 1(a), June 30, 1976, 90 Stat. 781; Pub. L. 94–455, title XIX, §§ 1901(b)(1)(O), (24), (33)(H), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1791, 1798, 1801, 1834, contained provisions similar to this section, prior to the general revision of this part by Pub. L. 98–369, § 211(a).
+A prior section 815, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 129; amended Pub. L. 87–790, § 3(b), Oct. 10, 1962, 76 Stat. 808; Pub. L. 87–858, § 3(b)(4), (e), Oct. 23, 1962, 76 Stat. 1137; Pub. L. 88–571, §§ 2, 3(a), 4(a), Sept. 2, 1964, 78 Stat. 857, 859; Pub. L. 90–225, § 4(a), (b), Dec. 27, 1967, 81 Stat. 733, 734; Pub. L. 91–172, title IX, § 907(b), Dec. 30, 1969, 83 Stat. 715; Pub. L. 94–331, § 1(a), June 30, 1976, 90 Stat. 781; Pub. L. 94–455, title XIX, §§ 1901(b)(1)(O), (24), (33)(H), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1791, 1798, 1801, 1834, contained provisions similar to this section, prior to the general revision of this part by Pub. L. 98–369, § 211(a).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1613,9 +1613,9 @@ Repeal applicable to taxable years beginning after Dec. 31, 2017, see section 13
 
 **Amendments**
 
-1996—Pub. L. 104–188, title I, § 1612(b), Aug. 20, 1996, 110 Stat. 1847, added item 817A.
+1996—Pub. L. 104–188, title I, § 1612(b), Aug. 20, 1996, 110 Stat. 1847, added item 817A.
 
-#### § 816. Life insurance company defined
+#### § 816. Life insurance company defined
 
 **(a) Life insurance company defined** For purposes of this subtitle, the term “life insurance company” means an insurance company which is engaged in the business of issuing life insurance and annuity contracts (either separately or combined with accident and health insurance), or noncancellable contracts of health and accident insurance, if—
 
@@ -1679,19 +1679,19 @@ A burial or funeral benefit insurance company engaged directly in the manufactur
 
 For purposes of this section and section 842(b)(2)(B)(i), the terms “life insurance reserves” and “total reserves” shall not include deficiency reserves.
 
-(Added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 748; amended Pub. L. 99–514, title XVIII, § 1821(*l*), Oct. 22, 1986, 100 Stat. 2841; Pub. L. 100–203, title X, § 10242(c)(2), Dec. 22, 1987, 101 Stat. 1330–423; Pub. L. 100–647, title I, § 1010(f)(6), title II, § 2004(q)(1), Nov. 10, 1988, 102 Stat. 3454, 3608.)
+(Added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 748; amended Pub. L. 99–514, title XVIII, § 1821(*l*), Oct. 22, 1986, 100 Stat. 2841; Pub. L. 100–203, title X, § 10242(c)(2), Dec. 22, 1987, 101 Stat. 1330–423; Pub. L. 100–647, title I, § 1010(f)(6), title II, § 2004(q)(1), Nov. 10, 1988, 102 Stat. 3454, 3608.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 816, act Aug. 16, 1954, ch. 736, § 816, as added Mar. 13, 1956, ch. 83, § 2, 70 Stat. 46, related to taxation of foreign life insurance companies, prior to the general revision of this part by Pub. L. 86–69, § 2(a).
+A prior section 816, act Aug. 16, 1954, ch. 736, § 816, as added Mar. 13, 1956, ch. 83, § 2, 70 Stat. 46, related to taxation of foreign life insurance companies, prior to the general revision of this part by Pub. L. 86–69, § 2(a).
 
 **Amendments**
 
-1988—Subsec. (g). Pub. L. 100–647, § 1010(f)(6), substituted “section 831” for “section 821 or section 831”.
+1988—Subsec. (g). Pub. L. 100–647, § 1010(f)(6), substituted “section 831” for “section 821 or section 831”.
 
-Subsec. (h). Pub. L. 100–647, § 2004(q)(1), substituted “section 842(b)(2)(B)(i)” for “section 842(c)(1)(A)”.
+Subsec. (h). Pub. L. 100–647, § 2004(q)(1), substituted “section 842(b)(2)(B)(i)” for “section 842(c)(1)(A)”.
 
 1987—Subsec. (h). Pub. L. 100–203 substituted “section 842(c)(1)(A)” for “section 813(a)(4)(B)”.
 
@@ -1707,7 +1707,7 @@ Amendment by section 2004(q)(1) of Pub. L. 100–647 effective, except as otherw
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–203, title X, § 10242(d), Dec. 22, 1987, 101 Stat. 1330–423, provided that: “The amendments made by this section [amending this section and sections 842, 864, and 4371 of this title and repealing section 813 of this title] shall apply to taxable years beginning after December 31, 1987.”
+Pub. L. 100–203, title X, § 10242(d), Dec. 22, 1987, 101 Stat. 1330–423, provided that: “The amendments made by this section [amending this section and sections 842, 864, and 4371 of this title and repealing section 813 of this title] shall apply to taxable years beginning after December 31, 1987.”
 
 **Effective Date of 1986 Amendment**
 
@@ -1717,13 +1717,13 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 Section applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as a note under section 801 of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 **Special Election To Treat Individual Noncancellable Accident and Health Contracts as Cancellable**
 
-Pub. L. 98–369, div. A, title II, § 217(i), July 18, 1984, 98 Stat. 764, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title I, § 1010(h)(1), Nov. 10, 1988, 102 Stat. 3455, provided that:
+Pub. L. 98–369, div. A, title II, § 217(i), July 18, 1984, 98 Stat. 764, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title I, § 1010(h)(1), Nov. 10, 1988, 102 Stat. 3455, provided that:
 
 > **“(1) In general.—** A mutual life insurance company may elect to treat all individual noncancellable (or guaranteed renewable) accident and health insurance contracts as though they were cancellable for purposes of section 816 of subchapter L of chapter 1 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954].
 
@@ -1737,13 +1737,13 @@ Pub. L. 98–369, div. A, title II, § 217(i), July 18, 1984, 98 Stat. 764, as
 
 > **“(B)** in such manner as the Secretary of the Treasury or his delegate may prescribe.”
 
-[Pub. L. 100–647, title I, § 1010(h)(2), (3), Nov. 10, 1988, 102 Stat. 3455, provided that:
+[Pub. L. 100–647, title I, § 1010(h)(2), (3), Nov. 10, 1988, 102 Stat. 3455, provided that:
 
 [“(2) Effective date.—The amendment made by this subsection [amending section 217(i) of Pub. L. 98–369, set out above] shall apply to taxable years beginning after December 31, 1986, and before January 1, 1992.
 
 [“(3) Revenue loss limited.—The decrease in the amount of Federal revenue by reason of the amendment made by this subsection shall not exceed $300,000 per taxable year.”]
 
-#### § 817. Treatment of variable contracts
+#### § 817. Treatment of variable contracts
 
 **(a) Increases and decreases in reserves** For purposes of subsections (a) and (b) of section 807, the sum of the items described in section 807(c) taken into account as of the close of the taxable year with respect to any variable contract shall, under regulations prescribed by the Secretary, be adjusted—
 
@@ -1847,35 +1847,35 @@ Nothing in this subsection shall be construed as prohibiting the use of independ
 
 In determining whether a segregated asset account is adequately diversified for purposes of paragraph (1), each United States Government agency or instrumentality shall be treated as a separate issuer.
 
-(Added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 750; amended Pub. L. 99–514, title XVIII, § 1821(m), (t)(1), Oct. 22, 1986, 100 Stat. 2841, 2844; Pub. L. 100–647, title VI, § 6080(a), Nov. 10, 1988, 102 Stat. 3710; Pub. L. 104–188, title I, § 1611(a), Aug. 20, 1996, 110 Stat. 1845; Pub. L. 105–34, title XII, § 1271(b)(8), Aug. 5, 1997, 111 Stat. 1037; Pub. L. 108–218, title II, § 205(b)(5), Apr. 10, 2004, 118 Stat. 610.)
+(Added Pub. L. 98–369, div. A, title II, § 211(a), July 18, 1984, 98 Stat. 750; amended Pub. L. 99–514, title XVIII, § 1821(m), (t)(1), Oct. 22, 1986, 100 Stat. 2841, 2844; Pub. L. 100–647, title VI, § 6080(a), Nov. 10, 1988, 102 Stat. 3710; Pub. L. 104–188, title I, § 1611(a), Aug. 20, 1996, 110 Stat. 1845; Pub. L. 105–34, title XII, § 1271(b)(8), Aug. 5, 1997, 111 Stat. 1037; Pub. L. 108–218, title II, § 205(b)(5), Apr. 10, 2004, 118 Stat. 610.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 817, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 132; amended Pub. L. 94–455, title XIV, § 1402(b)(1)(M), (2), title XIX, §§ 1901(a)(100), 1951(b)(11)(A), Oct. 4, 1976, 90 Stat. 1732, 1781, 1839, related to rules regarding certain gains and losses, prior to the general revision of this part by Pub. L. 98–369, § 211(a).
+A prior section 817, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 132; amended Pub. L. 94–455, title XIV, § 1402(b)(1)(M), (2), title XIX, §§ 1901(a)(100), 1951(b)(11)(A), Oct. 4, 1976, 90 Stat. 1732, 1781, 1839, related to rules regarding certain gains and losses, prior to the general revision of this part by Pub. L. 98–369, § 211(a).
 
-Another prior section 817, act Aug. 16, 1954, ch. 736, § 817, as added Mar. 13, 1956, ch. 83, § 2, 70 Stat. 46, related to denial of double deductions, prior to the general revision of this part by Pub. L. 86–69, § 2(a).
+Another prior section 817, act Aug. 16, 1954, ch. 736, § 817, as added Mar. 13, 1956, ch. 83, § 2, 70 Stat. 46, related to denial of double deductions, prior to the general revision of this part by Pub. L. 86–69, § 2(a).
 
 **Amendments**
 
 2004—Subsec. (c). Pub. L. 108–218, in introductory provisions, struck out “(other than section 809)” after “For purposes of this part”.
 
-1997—Subsec. (h)(2)(A). Pub. L. 105–34, § 1271(b)(8)(A), substituted “851(b)(3)” for “851(b)(4)”.
+1997—Subsec. (h)(2)(A). Pub. L. 105–34, § 1271(b)(8)(A), substituted “851(b)(3)” for “851(b)(4)”.
 
-Subsec. (h)(2)(B). Pub. L. 105–34, § 1271(b)(8)(B), substituted “851(b)(3)(A)(i)” for “851(b)(4)(A)(i)”.
+Subsec. (h)(2)(B). Pub. L. 105–34, § 1271(b)(8)(B), substituted “851(b)(3)(A)(i)” for “851(b)(4)(A)(i)”.
 
-1996—Subsec. (d)(2)(C). Pub. L. 104–188, § 1611(a)(1), added subpar. (C).
+1996—Subsec. (d)(2)(C). Pub. L. 104–188, § 1611(a)(1), added subpar. (C).
 
-Subsec. (d)(3)(C). Pub. L. 104–188, § 1611(a)(2), added subpar. (C).
+Subsec. (d)(3)(C). Pub. L. 104–188, § 1611(a)(2), added subpar. (C).
 
 1988—Subsec. (h)(6). Pub. L. 100–647 added par. (6).
 
-1986—Subsec. (d). Pub. L. 99–514, § 1821(t)(1), inserted at end “Paragraph (3) shall be applied without regard to whether there is a guarantee, and obligations under such guarantee which exceed obligations under the contract without regard to such guarantee shall be accounted for as part of the company’s general account.”
+1986—Subsec. (d). Pub. L. 99–514, § 1821(t)(1), inserted at end “Paragraph (3) shall be applied without regard to whether there is a guarantee, and obligations under such guarantee which exceed obligations under the contract without regard to such guarantee shall be accounted for as part of the company’s general account.”
 
-Subsec. (h)(1). Pub. L. 99–514, § 1821(m)(2), struck out last sentence which read as follows: “For purposes of this paragraph and paragraph (2), beneficial interests in a regulated investment company or in a trust shall not be treated as 1 investment if all of the beneficial interests in such company or trust are held by 1 or more segregated asset accounts of 1 or more insurance companies.”
+Subsec. (h)(1). Pub. L. 99–514, § 1821(m)(2), struck out last sentence which read as follows: “For purposes of this paragraph and paragraph (2), beneficial interests in a regulated investment company or in a trust shall not be treated as 1 investment if all of the beneficial interests in such company or trust are held by 1 or more segregated asset accounts of 1 or more insurance companies.”
 
-Subsec. (h)(3) to (5). Pub. L. 99–514, § 1821(m)(1), added pars. (3) and (4), redesignated former par. (4) as (5), and struck out former par. (3) which read as follows: “In the case of a segregated asset account with respect to variable life insurance contracts, paragraph (1) shall not apply in the case of securities issued by the United States Treasury which are owned by a regulated investment company or by a trust all the beneficial interests in which are held by 1 or more segregated asset accounts of the company issuing the contract.”
+Subsec. (h)(3) to (5). Pub. L. 99–514, § 1821(m)(1), added pars. (3) and (4), redesignated former par. (4) as (5), and struck out former par. (3) which read as follows: “In the case of a segregated asset account with respect to variable life insurance contracts, paragraph (1) shall not apply in the case of securities issued by the United States Treasury which are owned by a regulated investment company or by a trust all the beneficial interests in which are held by 1 or more segregated asset accounts of the company issuing the contract.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1885,19 +1885,19 @@ Amendment by Pub. L. 108–218 applicable to taxable years beginning after Dec. 
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title XII, § 1271(c), Aug. 5, 1997, 111 Stat. 1037, provided that: “The amendments made by this section [amending this section and sections 851 and 1092 of this title] shall apply to taxable years beginning after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title XII, § 1271(c), Aug. 5, 1997, 111 Stat. 1037, provided that: “The amendments made by this section [amending this section and sections 851 and 1092 of this title] shall apply to taxable years beginning after the date of the enactment of this Act [Aug. 5, 1997].”
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–188, title I, § 1611(b), Aug. 20, 1996, 110 Stat. 1846, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 1995.”
+Pub. L. 104–188, title I, § 1611(b), Aug. 20, 1996, 110 Stat. 1846, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 1995.”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title VI, § 6080(b), Nov. 10, 1988, 102 Stat. 3710, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1987.”
+Pub. L. 100–647, title VI, § 6080(b), Nov. 10, 1988, 102 Stat. 3710, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1987.”
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–514, title XVIII, § 1821(t)(2), Oct. 22, 1986, 100 Stat. 2844, provided that:
+Pub. L. 99–514, title XVIII, § 1821(t)(2), Oct. 22, 1986, 100 Stat. 2844, provided that:
 
 > “The amendment made by paragraph (1) [amending this section] shall apply—
 
@@ -1913,7 +1913,7 @@ Section applicable to taxable years beginning after Dec. 31, 1983, see section 2
 
 **Delay in Effective Date for Diversification Requirements With Respect to Accounts for Certain Immediate Annuities**
 
-Pub. L. 100–647, title I, § 1010(i), Nov. 10, 1988, 102 Stat. 3455, provided that:
+Pub. L. 100–647, title I, § 1010(i), Nov. 10, 1988, 102 Stat. 3455, provided that:
 
 > “Section 817(h) of the 1986 Code shall not apply until January 1, 1989, with respect to a variable contract (as defined in section 817(d) of the 1986 Code) if—
 
@@ -1925,7 +1925,7 @@ Pub. L. 100–647, title I, § 1010(i), Nov. 10, 1988, 102 Stat. 3455, provide
 
 **Insurance-Dedicated Exchange-Traded Funds**
 
-Pub. L. 117–328, div. T, title II, § 203, Dec. 29, 2022, 136 Stat. 5333, provided that:
+Pub. L. 117–328, div. T, title II, § 203, Dec. 29, 2022, 136 Stat. 5333, provided that:
 
 > **“(a) In General.—** Not later than the date which is 7 years after the date of the enactment of this Act [Dec. 29, 2022], the Secretary of the Treasury (or the Secretary’s delegate) shall amend the regulation issued by the Department of the Treasury relating to ‘Income Tax; Diversification Requirements for Variable Annuity, Endowment, and Life Insurance Contracts’, 54 Fed. Reg. 8728 (March 2, 1989), and make any necessary corresponding amendments to other regulations, in order to facilitate the use of exchange-traded funds as investment options under variable contracts within the meaning of section 817(d) of the Internal Revenue Code of 1986, in accordance with subsections (b) and (c) of this section.
 
@@ -1951,11 +1951,11 @@ Pub. L. 117–328, div. T, title II, § 203, Dec. 29, 2022, 136 Stat. 5333, pr
 
 > **“(d) Effective Date.—** This section shall apply to segregated asset account investments made on or after the date which is 7 years after the date of the enactment of this Act.”
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-#### § 817A. Special rules for modified guaranteed contracts
+#### § 817A. Special rules for modified guaranteed contracts
 
 **(a) Computation of reserves**
 
@@ -2013,13 +2013,13 @@ If only a portion of a contract is not described in section 817, such portion sh
 
 **(5)** as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 104–188, title I, § 1612(a), Aug. 20, 1996, 110 Stat. 1846; amended Pub. L. 115–97, title I, § 13518(b), Dec. 22, 2017, 131 Stat. 2148.)
+(Added Pub. L. 104–188, title I, § 1612(a), Aug. 20, 1996, 110 Stat. 1846; amended Pub. L. 115–97, title I, § 13518(b), Dec. 22, 2017, 131 Stat. 2148.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Subsec. (e)(2). Pub. L. 115–97 substituted “and 807(d)(2)(B)” for “, 807(d)(2)(B), and 812”.
+2017—Subsec. (e)(2). Pub. L. 115–97 substituted “and 807(d)(2)(B)” for “, 807(d)(2)(B), and 812”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2029,7 +2029,7 @@ Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 3
 
 **Effective Date**
 
-Pub. L. 104–188, title I, § 1612(c), Aug. 20, 1996, 110 Stat. 1847, provided that:
+Pub. L. 104–188, title I, § 1612(c), Aug. 20, 1996, 110 Stat. 1847, provided that:
 
 > **“(1) In general.—** The amendments made by this section [enacting this section] shall apply to taxable years beginning after December 31, 1995.
 
@@ -2067,7 +2067,7 @@ Pub. L. 104–188, title I, § 1612(c), Aug. 20, 1996, 110 Stat. 1847, provide
 
 > **“(II)** the adjusted basis of such asset as of such time.”
 
-#### § 818. Other definitions and special rules
+#### § 818. Other definitions and special rules
 
 **(a) Pension plan contracts** For purposes of this part, the term “pension plan contract” means any contract—
 
@@ -2171,7 +2171,7 @@ For purposes of this subsection, the term “qualified accelerated death benefit
 
 Paragraph (1) shall not apply to any rider which is treated as a long-term care insurance contract under section 7702B.
 
-(Added and amended Pub. L. 98–369, div. A, title II, § 211(a), title X, § 1001(b)(10), (e), July 18, 1984, 98 Stat. 752, 1011, 1012; Pub. L. 99–514, title XI, §§ 1106(d)(3)(C), 1112(d)(4), 1136(b), title XVIII, § 1821(n), (*o*), Oct. 22, 1986, 100 Stat. 2424, 2445, 2486, 2842; Pub. L. 100–647, title I, §§ 1010(k), 1011(e)(5)(A), Nov. 10, 1988, 102 Stat. 3456, 3461; Pub. L. 104–191, title III, § 332(a), Aug. 21, 1996, 110 Stat. 2069; Pub. L. 106–170, title V, § 532(c)(1)(D), (3), Dec. 17, 1999, 113 Stat. 1930, 1931.)
+(Added and amended Pub. L. 98–369, div. A, title II, § 211(a), title X, § 1001(b)(10), (e), July 18, 1984, 98 Stat. 752, 1011, 1012; Pub. L. 99–514, title XI, §§ 1106(d)(3)(C), 1112(d)(4), 1136(b), title XVIII, § 1821(n), (*o*), Oct. 22, 1986, 100 Stat. 2424, 2445, 2486, 2842; Pub. L. 100–647, title I, §§ 1010(k), 1011(e)(5)(A), Nov. 10, 1988, 102 Stat. 3456, 3461; Pub. L. 104–191, title III, § 332(a), Aug. 21, 1996, 110 Stat. 2069; Pub. L. 106–170, title V, § 532(c)(1)(D), (3), Dec. 17, 1999, 113 Stat. 1930, 1931.)
 
 **Editorial Notes**
 
@@ -2181,53 +2181,53 @@ Section 165 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1),
 
 **Prior Provisions**
 
-A prior section 818, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 133; amended Pub. L. 88–272, title II, § 228(b)(1), Feb. 26, 1964, 78 Stat. 98; Pub. L. 91–688, § 1(a), Jan. 12, 1971, 84 Stat. 2072; Pub. L. 94–455, title XIX, §§ 1901(a)(101), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1781, 1834; Pub. L. 97–248, title II, §§ 258(a), 260(a), 262, 267(a), Sept. 3, 1982, 96 Stat. 538–540, 550, related to accounting provisions generally, prior to the general revision of this part by Pub. L. 98–369, § 211(a).
+A prior section 818, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 133; amended Pub. L. 88–272, title II, § 228(b)(1), Feb. 26, 1964, 78 Stat. 98; Pub. L. 91–688, § 1(a), Jan. 12, 1971, 84 Stat. 2072; Pub. L. 94–455, title XIX, §§ 1901(a)(101), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1781, 1834; Pub. L. 97–248, title II, §§ 258(a), 260(a), 262, 267(a), Sept. 3, 1982, 96 Stat. 538–540, 550, related to accounting provisions generally, prior to the general revision of this part by Pub. L. 98–369, § 211(a).
 
-Another prior section 818, act Aug. 16, 1954, ch. 736, § 818, as added Mar. 13, 1956, ch. 83, § 2, 70 Stat. 46, related to certain new insurance companies, prior to the general revision of this part by Pub. L. 86–69, § 2(a).
+Another prior section 818, act Aug. 16, 1954, ch. 736, § 818, as added Mar. 13, 1956, ch. 83, § 2, 70 Stat. 46, related to certain new insurance companies, prior to the general revision of this part by Pub. L. 86–69, § 2(a).
 
-A prior section 819, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 136; amended Pub. L. 89–809, title I, § 104(i)(3), Nov. 13, 1966, 80 Stat. 1561; Pub. L. 94–455, title XIX, §§ 1901(a)(102), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1781, 1834, related to foreign life insurance companies, prior to the general revision of this part by Pub. L. 98–369, § 211(a). See section 813 of this title.
+A prior section 819, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 136; amended Pub. L. 89–809, title I, § 104(i)(3), Nov. 13, 1966, 80 Stat. 1561; Pub. L. 94–455, title XIX, §§ 1901(a)(102), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1781, 1834, related to foreign life insurance companies, prior to the general revision of this part by Pub. L. 98–369, § 211(a). See section 813 of this title.
 
-A prior section 819A, added Pub. L. 94–455, title X, § 1043(a), Oct. 4, 1976, 90 Stat. 1639, related to contiguous country branches of domestic life insurance companies, prior to the general revision of this part by Pub. L. 98–369, § 211(a). See section 814 of this title.
+A prior section 819A, added Pub. L. 94–455, title X, § 1043(a), Oct. 4, 1976, 90 Stat. 1639, related to contiguous country branches of domestic life insurance companies, prior to the general revision of this part by Pub. L. 98–369, § 211(a). See section 814 of this title.
 
-A prior section 820, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 137; amended Pub. L. 94–455, title XIX, §§ 1901(a)(103), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1834, related to optional treatment of policies reinsured under modified coinsurance contracts, prior to repeal by Pub. L. 97–248, title II, § 255(a), (c), Sept. 3, 1982, 96 Stat. 533, 534, applicable to taxable years beginning after Dec. 31, 1981, with exception.
+A prior section 820, added Pub. L. 86–69, § 2(a), June 25, 1959, 73 Stat. 137; amended Pub. L. 94–455, title XIX, §§ 1901(a)(103), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1834, related to optional treatment of policies reinsured under modified coinsurance contracts, prior to repeal by Pub. L. 97–248, title II, § 255(a), (c), Sept. 3, 1982, 96 Stat. 533, 534, applicable to taxable years beginning after Dec. 31, 1981, with exception.
 
-A prior section 821, acts Aug. 16, 1954, ch. 736, 68A Stat. 260; Mar. 30, 1955, ch. 18, § 2, 69 Stat. 14; Mar. 13, 1956, ch. 83, § 3(a)(1), (2), 70 Stat. 47; Mar. 29, 1956, ch. 115, § 2, 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, § 2, 71 Stat. 9; June 30, 1958, Pub. L. 85–475, § 2, 72 Stat. 259; June 30, 1959, Pub. L. 86–75, § 2, 73 Stat. 157; June 30, 1960, Pub. L. 86–564, title II, § 201, 74 Stat. 290; June 30, 1961, Pub. L. 87–72, § 2, 75 Stat. 193; June 28, 1962, Pub. L. 87–508, § 2, 76 Stat. 114; Oct. 16, 1962, Pub. L. 87–834, § 8(a), 76 Stat. 989; June 29, 1963 Pub. L. 88–52, § 2, 77 Stat. 72; Feb. 26, 1964, Pub. L. 88–272, title I, § 123(a), 78 Stat. 29; Nov. 13, 1966, Pub. L. 89–809, title I, § 104(i)(4), 80 Stat. 1562; Oct. 4, 1976, Pub. L. 94–455, title IX, § 901(b), title XV, § 1507(b)(1), title XIX, §§ 1901(a)(104), 1906(b)(13)(A), 90 Stat. 1607, 1739, 1782, 1834; May 23, 1977, Pub. L. 95–30, title II, § 201(3), (4), 91 Stat. 141; Nov. 6, 1978, Pub. L. 95–600, title III, § 301(b)(9), 92 Stat. 2821; Aug. 13, 1981, Pub. L. 97–34, title II, § 231(b)(1), (2), 95 Stat. 249, related to tax on mutual insurance companies to which former part II applied, prior to repeal by Pub. L. 99–514, title X, § 1024(a)(1), Oct. 22, 1986, 100 Stat. 2405, effective for taxable years beginning after Dec. 31, 1986.
+A prior section 821, acts Aug. 16, 1954, ch. 736, 68A Stat. 260; Mar. 30, 1955, ch. 18, § 2, 69 Stat. 14; Mar. 13, 1956, ch. 83, § 3(a)(1), (2), 70 Stat. 47; Mar. 29, 1956, ch. 115, § 2, 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, § 2, 71 Stat. 9; June 30, 1958, Pub. L. 85–475, § 2, 72 Stat. 259; June 30, 1959, Pub. L. 86–75, § 2, 73 Stat. 157; June 30, 1960, Pub. L. 86–564, title II, § 201, 74 Stat. 290; June 30, 1961, Pub. L. 87–72, § 2, 75 Stat. 193; June 28, 1962, Pub. L. 87–508, § 2, 76 Stat. 114; Oct. 16, 1962, Pub. L. 87–834, § 8(a), 76 Stat. 989; June 29, 1963 Pub. L. 88–52, § 2, 77 Stat. 72; Feb. 26, 1964, Pub. L. 88–272, title I, § 123(a), 78 Stat. 29; Nov. 13, 1966, Pub. L. 89–809, title I, § 104(i)(4), 80 Stat. 1562; Oct. 4, 1976, Pub. L. 94–455, title IX, § 901(b), title XV, § 1507(b)(1), title XIX, §§ 1901(a)(104), 1906(b)(13)(A), 90 Stat. 1607, 1739, 1782, 1834; May 23, 1977, Pub. L. 95–30, title II, § 201(3), (4), 91 Stat. 141; Nov. 6, 1978, Pub. L. 95–600, title III, § 301(b)(9), 92 Stat. 2821; Aug. 13, 1981, Pub. L. 97–34, title II, § 231(b)(1), (2), 95 Stat. 249, related to tax on mutual insurance companies to which former part II applied, prior to repeal by Pub. L. 99–514, title X, § 1024(a)(1), Oct. 22, 1986, 100 Stat. 2405, effective for taxable years beginning after Dec. 31, 1986.
 
-A prior section 822 was renumbered section 834 of this title by Pub. L. 99–514, title X, § 1024(a)(3), Oct. 22, 1986, 100 Stat. 2405.
+A prior section 822 was renumbered section 834 of this title by Pub. L. 99–514, title X, § 1024(a)(3), Oct. 22, 1986, 100 Stat. 2405.
 
-A prior section 823, added Pub. L. 87–834, § 8(c), Oct. 16, 1962, 76 Stat. 992; amended Pub. L. 91–172, title IX, § 907(c)(2)(B), Dec. 30, 1969, 83 Stat. 717, related to determination of statutory underwriting income or loss, prior to repeal by Pub. L. 99–514, title X, § 1024(a)(1), Oct. 22, 1986, 100 Stat. 2405, effective for taxable years beginning after Dec. 31, 1986.
+A prior section 823, added Pub. L. 87–834, § 8(c), Oct. 16, 1962, 76 Stat. 992; amended Pub. L. 91–172, title IX, § 907(c)(2)(B), Dec. 30, 1969, 83 Stat. 717, related to determination of statutory underwriting income or loss, prior to repeal by Pub. L. 99–514, title X, § 1024(a)(1), Oct. 22, 1986, 100 Stat. 2405, effective for taxable years beginning after Dec. 31, 1986.
 
 Another prior section 823, act Aug. 16, 1954, ch. 736, 68A Stat. 263, which defined “net premiums” and “dividends to policyholders”, was redesignated section 822(f) of this title by section 8(b)(4) of Pub. L. 87–834.
 
-A prior section 824, added Pub. L. 87–834, § 8(c), Oct. 16, 1962, 76 Stat. 993; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to adjustments to provide protection against losses, prior to repeal by Pub. L. 99–514, title X, § 1024(a)(1), Oct. 22, 1986, 100 Stat. 2405, effective for taxable years beginning after Dec. 31, 1986.
+A prior section 824, added Pub. L. 87–834, § 8(c), Oct. 16, 1962, 76 Stat. 993; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to adjustments to provide protection against losses, prior to repeal by Pub. L. 99–514, title X, § 1024(a)(1), Oct. 22, 1986, 100 Stat. 2405, effective for taxable years beginning after Dec. 31, 1986.
 
-A prior section 825, added Pub. L. 87–834, § 8(c), Oct. 16, 1962, 76 Stat. 995; amended Pub. L. 91–172 title IX, § 907(c)(2)(C), (D), Dec. 30, 1969, 83 Stat. 717; Pub. L. 94–455, title VIII, § 806(d)(2), title XIX, § 1901(a)(106), Oct. 4, 1976, 90 Stat. 1599, 1782; Pub. L. 97–34, title II, § 207(b), Aug. 13, 1981, 95 Stat. 225, related to unused loss deduction, prior to repeal by Pub. L. 99–514, title X, § 1024(a)(1), Oct. 22, 1986, 100 Stat. 2405, effective for taxable years beginning after Dec. 31, 1986.
+A prior section 825, added Pub. L. 87–834, § 8(c), Oct. 16, 1962, 76 Stat. 995; amended Pub. L. 91–172 title IX, § 907(c)(2)(C), (D), Dec. 30, 1969, 83 Stat. 717; Pub. L. 94–455, title VIII, § 806(d)(2), title XIX, § 1901(a)(106), Oct. 4, 1976, 90 Stat. 1599, 1782; Pub. L. 97–34, title II, § 207(b), Aug. 13, 1981, 95 Stat. 225, related to unused loss deduction, prior to repeal by Pub. L. 99–514, title X, § 1024(a)(1), Oct. 22, 1986, 100 Stat. 2405, effective for taxable years beginning after Dec. 31, 1986.
 
-A prior section 826 was renumbered section 835 of this title by Pub. L. 99–514, title X, § 1024(a)(3), Oct. 22, 1986, 100 Stat. 2405.
+A prior section 826 was renumbered section 835 of this title by Pub. L. 99–514, title X, § 1024(a)(3), Oct. 22, 1986, 100 Stat. 2405.
 
 **Amendments**
 
-1999—Subsec. (b)(2). Pub. L. 106–170, § 532(c)(3), substituted “section 1221(a)(2)” for “section 1221(2)”.
+1999—Subsec. (b)(2). Pub. L. 106–170, § 532(c)(3), substituted “section 1221(a)(2)” for “section 1221(2)”.
 
-Subsec. (c)(3). Pub. L. 106–170, § 532(c)(1)(D), substituted “section 1221(a)” for “section 1221”.
+Subsec. (c)(3). Pub. L. 106–170, § 532(c)(1)(D), substituted “section 1221(a)” for “section 1221”.
 
 1996—Subsec. (g). Pub. L. 104–191 added subsec. (g).
 
-1988—Subsec. (a)(6). Pub. L. 100–647, § 1011(e)(5)(A), in subpar. (A) substituted “eligible deferred compensation plan” for “eligible State deferred compensation plan”, and in subpar. (B), inserted “or any organization (other than a governmental unit) exempt from tax under this subtitle,” after “foregoing,” and substituted “agency or instrumentality, or organization” for “or agency or instrumentality”.
+1988—Subsec. (a)(6). Pub. L. 100–647, § 1011(e)(5)(A), in subpar. (A) substituted “eligible deferred compensation plan” for “eligible State deferred compensation plan”, and in subpar. (B), inserted “or any organization (other than a governmental unit) exempt from tax under this subtitle,” after “foregoing,” and substituted “agency or instrumentality, or organization” for “or agency or instrumentality”.
 
-Subsec. (f)(3). Pub. L. 100–647, § 1010(k), added par. (3).
+Subsec. (f)(3). Pub. L. 100–647, § 1010(k), added par. (3).
 
-1986—Subsec. (a)(3). Pub. L. 99–514, § 1136(b), substituted “(26), and (27)” for “and (26)”.
+1986—Subsec. (a)(3). Pub. L. 99–514, § 1136(b), substituted “(26), and (27)” for “and (26)”.
 
-Pub. L. 99–514, § 1112(d)(4), substituted “(22), and (26)” for “and (22)”.
+Pub. L. 99–514, § 1112(d)(4), substituted “(22), and (26)” for “and (22)”.
 
-Pub. L. 99–514, § 1106(d)(3)(C), inserted “(17),” after “(16),”.
+Pub. L. 99–514, § 1106(d)(3)(C), inserted “(17),” after “(16),”.
 
-Subsec. (a)(6)(A). Pub. L. 99–514, § 1821(n), in amending subpar. (A) generally, inserted “an eligible State deferred compensation plan (within the meaning of section 457(b)), or”.
+Subsec. (a)(6)(A). Pub. L. 99–514, § 1821(n), in amending subpar. (A) generally, inserted “an eligible State deferred compensation plan (within the meaning of section 457(b)), or”.
 
-Subsec. (e). Pub. L. 99–514, § 1821(*o*), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “If an election under section 1504(c)(2) is in effect with respect to an affiliated group for the taxable year, all items of the members of such group which are not life insurance companies shall not be taken into account in determining the amount of the tentative LICTI of members of such group which are life insurance companies.”
+Subsec. (e). Pub. L. 99–514, § 1821(*o*), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “If an election under section 1504(c)(2) is in effect with respect to an affiliated group for the taxable year, all items of the members of such group which are not life insurance companies shall not be taken into account in determining the amount of the tentative LICTI of members of such group which are life insurance companies.”
 
-1984—Subsec. (b)(1)(A). Pub. L. 98–369, § 1001(b)(10), (e), substituted “6 months” for “1 year” in two places, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+1984—Subsec. (b)(1)(A). Pub. L. 98–369, § 1001(b)(10), (e), substituted “6 months” for “1 year” in two places, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2237,7 +2237,7 @@ Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or e
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–191, title III, § 332(b), Aug. 21, 1996, 110 Stat. 2069, provided that:
+Pub. L. 104–191, title III, § 332(b), Aug. 21, 1996, 110 Stat. 2069, provided that:
 
 > **“(1) In general.—** The amendment made by this section [amending this section] shall take effect on January 1, 1997.
 
@@ -2251,7 +2251,7 @@ Pub. L. 104–191, title III, § 332(b), Aug. 21, 1996, 110 Stat. 2069, provid
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title I, § 1011(e)(5)(B), Nov. 10, 1988, 102 Stat. 3461, provided that: “The amendments made by this paragraph [amending this section] shall apply to contracts issued after December 31, 1986.”
+Pub. L. 100–647, title I, § 1011(e)(5)(B), Nov. 10, 1988, 102 Stat. 3461, provided that: “The amendments made by this paragraph [amending this section] shall apply to contracts issued after December 31, 1986.”
 
 Amendment by section 1010(k) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -2271,9 +2271,9 @@ Amendment by Pub. L. 98–369 applicable to property acquired after June 22, 198
 
 Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by section 1112 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under section 401 of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 ## PART II—OTHER INSURANCE COMPANIES
 
@@ -2281,17 +2281,17 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 **Prior Provisions**
 
-A prior part II (§§ 821 to 826) related to mutual insurance companies other than life and certain marine insurance companies and other than fire and flood insurance companies which operated on the basis of perpetual policies or premium deposits, consisted of sections 821–826, prior to repeal (except for sections 822 and 826 which were renumbered sections 834 and 835, respectively, by Pub. L. 99–514, title X, § 1024(a)(1)–(3), Oct. 22, 1986, 100 Stat. 2405. See Prior Provisions note set out under section 818 of this title.
+A prior part II (§§ 821 to 826) related to mutual insurance companies other than life and certain marine insurance companies and other than fire and flood insurance companies which operated on the basis of perpetual policies or premium deposits, consisted of sections 821–826, prior to repeal (except for sections 822 and 826 which were renumbered sections 834 and 835, respectively, by Pub. L. 99–514, title X, § 1024(a)(1)–(3), Oct. 22, 1986, 100 Stat. 2405. See Prior Provisions note set out under section 818 of this title.
 
 **Amendments**
 
-1988—Pub. L. 100–647, title I, § 1010(f)(7), Nov. 10, 1988, 102 Stat. 3454, substituted “Tax on insurance companies other than life insurance companies” for “Tax on insurance companies (other than life or mutual), mutual marine insurance companies, and certain mutual fire or flood insurance companies” in item 831.
+1988—Pub. L. 100–647, title I, § 1010(f)(7), Nov. 10, 1988, 102 Stat. 3454, substituted “Tax on insurance companies other than life insurance companies” for “Tax on insurance companies (other than life or mutual), mutual marine insurance companies, and certain mutual fire or flood insurance companies” in item 831.
 
-1986—Pub. L. 99–514, title X, §§ 1012(b)(2), 1024(a)(2), (c)(18), Oct. 22, 1986, 100 Stat. 2393, 2405, 2408, redesignated part III (§ 831 et seq.) as II and added items 833, 834, and 835. Former part II (§ 821 et seq.) was repealed.
+1986—Pub. L. 99–514, title X, §§ 1012(b)(2), 1024(a)(2), (c)(18), Oct. 22, 1986, 100 Stat. 2393, 2405, 2408, redesignated part III (§ 831 et seq.) as II and added items 833, 834, and 835. Former part II (§ 821 et seq.) was repealed.
 
-1962—Pub. L. 87–834, § 8(g)(4)(C), Oct. 16, 1962, 76 Stat. 999, substituted “and certain mutual fire or flood insurance companies” for “and mutual fire insurance companies issuing perpetual policies” in item 831.
+1962—Pub. L. 87–834, § 8(g)(4)(C), Oct. 16, 1962, 76 Stat. 999, substituted “and certain mutual fire or flood insurance companies” for “and mutual fire insurance companies issuing perpetual policies” in item 831.
 
-### § 831. Tax on insurance companies other than life insurance companies
+### § 831. Tax on insurance companies other than life insurance companies
 
 **(a) General rule**
 
@@ -2399,7 +2399,7 @@ Every insurance company for which an election is in effect under subsection (b) 
 
 **(2)** For exemption from tax for certain insurance companies other than life, see section 501(c)(15).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 264; Pub. L. 87–834, § 8(e)(1), (f), (g)(4)(B), Oct. 16, 1962, 76 Stat. 997–999; Pub. L. 89–809, title I, § 104(i)(6), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 94–455, title XIX, §§ 1901(a)(107), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1834; Pub. L. 99–514, title X, § 1024(a)(4), Oct. 22, 1986, 100 Stat. 2405; Pub. L. 100–647, title I, § 1010(f)(1), (9), Nov. 10, 1988, 102 Stat. 3454, 3455; Pub. L. 108–218, title II, § 206(c), (d), Apr. 10, 2004, 118 Stat. 611; Pub. L. 114–113, div. Q, title III, § 333(a), (b), Dec. 18, 2015, 129 Stat. 3106, 3108; Pub. L. 115–97, title I, §§ 11002(d)(1)(AA), 13001(b)(2)(H), 13511(b)(2)(B), Dec. 22, 2017, 131 Stat. 2060, 2096, 2142; Pub. L. 115–141, div. U, title I, § 101(r), title IV, § 401(a)(142), Mar. 23, 2018, 132 Stat. 1168, 1191.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 264; Pub. L. 87–834, § 8(e)(1), (f), (g)(4)(B), Oct. 16, 1962, 76 Stat. 997–999; Pub. L. 89–809, title I, § 104(i)(6), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 94–455, title XIX, §§ 1901(a)(107), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1834; Pub. L. 99–514, title X, § 1024(a)(4), Oct. 22, 1986, 100 Stat. 2405; Pub. L. 100–647, title I, § 1010(f)(1), (9), Nov. 10, 1988, 102 Stat. 3454, 3455; Pub. L. 108–218, title II, § 206(c), (d), Apr. 10, 2004, 118 Stat. 611; Pub. L. 114–113, div. Q, title III, § 333(a), (b), Dec. 18, 2015, 129 Stat. 3106, 3108; Pub. L. 115–97, title I, §§ 11002(d)(1)(AA), 13001(b)(2)(H), 13511(b)(2)(B), Dec. 22, 2017, 131 Stat. 2060, 2096, 2142; Pub. L. 115–141, div. U, title I, § 101(r), title IV, § 401(a)(142), Mar. 23, 2018, 132 Stat. 1168, 1191.)
 
 **Inflation Adjusted Items for Certain Years**
 
@@ -2409,57 +2409,57 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 **Amendments**
 
-2018—Subsec. (b)(2)(B)(i)(II). Pub. L. 115–141, § 101(r)(1), substituted “relevant specified assets” for “specified assets”.
+2018—Subsec. (b)(2)(B)(i)(II). Pub. L. 115–141, § 101(r)(1), substituted “relevant specified assets” for “specified assets”.
 
-Subsec. (b)(2)(B)(ii), (iii). Pub. L. 115–141, § 101(r)(2), added cls. (ii) and (iii). Former cl. (ii) redesignated (iv).
+Subsec. (b)(2)(B)(ii), (iii). Pub. L. 115–141, § 101(r)(2), added cls. (ii) and (iii). Former cl. (ii) redesignated (iv).
 
-Subsec. (b)(2)(B)(iv). Pub. L. 115–141, § 101(r)(2), (3)(A), redesignated cl. (ii) as (iv) and substituted “this subparagraph” for “clause (i)(II)” in introductory provisions.
+Subsec. (b)(2)(B)(iv). Pub. L. 115–141, § 101(r)(2), (3)(A), redesignated cl. (ii) as (iv) and substituted “this subparagraph” for “clause (i)(II)” in introductory provisions.
 
-Subsec. (b)(2)(B)(iv)(I). Pub. L. 115–141, § 101(r)(3)(B), amended subcl. (I) generally. Prior to amendment, text read as follows: “The term ‘specified holder’ means, with respect to any insurance company, any individual who holds (directly or indirectly) an interest in such insurance company and who is a spouse or lineal descendant (including by adoption) of an individual who holds an interest (directly or indirectly) in the specified assets with respect to such insurance company.”
+Subsec. (b)(2)(B)(iv)(I). Pub. L. 115–141, § 101(r)(3)(B), amended subcl. (I) generally. Prior to amendment, text read as follows: “The term ‘specified holder’ means, with respect to any insurance company, any individual who holds (directly or indirectly) an interest in such insurance company and who is a spouse or lineal descendant (including by adoption) of an individual who holds an interest (directly or indirectly) in the specified assets with respect to such insurance company.”
 
-Subsec. (b)(2)(D), (E). Pub. L. 115–141, § 101(r)(4), added subpar. (D) and redesignated former subpar. (D) as (E).
+Subsec. (b)(2)(D), (E). Pub. L. 115–141, § 101(r)(4), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-Subsec. (c). Pub. L. 115–141, § 401(a)(142), substituted “section 816(a).” for “section 816(a)).”
+Subsec. (c). Pub. L. 115–141, § 401(a)(142), substituted “section 816(a).” for “section 816(a)).”
 
-2017—Subsec. (b)(2)(D)(ii). Pub. L. 115–97, § 11002(d)(1)(AA), substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B)”.
+2017—Subsec. (b)(2)(D)(ii). Pub. L. 115–97, § 11002(d)(1)(AA), substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B)”.
 
-Subsec. (b)(3). Pub. L. 115–97, § 13511(b)(2)(B), struck out “except as provided in section 844,” after “part,” in introductory provisions.
+Subsec. (b)(3). Pub. L. 115–97, § 13511(b)(2)(B), struck out “except as provided in section 844,” after “part,” in introductory provisions.
 
-Subsec. (e). Pub. L. 115–97, § 13001(b)(2)(H), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “For alternative tax in case of capital gains, see section 1201(a).”
+Subsec. (e). Pub. L. 115–97, § 13001(b)(2)(H), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “For alternative tax in case of capital gains, see section 1201(a).”
 
-2015—Subsec. (b)(2)(A). Pub. L. 114–113, § 333(a)(1)(A), (C), (b)(1), struck out “(including interinsurers and reciprocal underwriters)” after “other than life” in introductory provisions, substituted “$2,200,000” for “$1,200,000” in cl. (i), added cl. (ii), redesignated former cl. (ii) as (iii), and, in concluding provisions, substituted “clause (iii)” for “clause (ii)” and “clauses (i) and (ii)” for “clause (i)”.
+2015—Subsec. (b)(2)(A). Pub. L. 114–113, § 333(a)(1)(A), (C), (b)(1), struck out “(including interinsurers and reciprocal underwriters)” after “other than life” in introductory provisions, substituted “$2,200,000” for “$1,200,000” in cl. (i), added cl. (ii), redesignated former cl. (ii) as (iii), and, in concluding provisions, substituted “clause (iii)” for “clause (ii)” and “clauses (i) and (ii)” for “clause (i)”.
 
-Subsec. (b)(2)(B), (C). Pub. L. 114–113, § 333(a)(1)(B), added subpar. (B) and redesignated former subpar. (B) as (C).
+Subsec. (b)(2)(B), (C). Pub. L. 114–113, § 333(a)(1)(B), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Subsec. (b)(2)(C)(i). Pub. L. 114–113, § 333(a)(2), substituted “For purposes of this paragraph—” for “For purposes of subparagraph (A),”, inserted subcl. (I) designation before “in determining”, and added subcl. (II).
+Subsec. (b)(2)(C)(i). Pub. L. 114–113, § 333(a)(2), substituted “For purposes of this paragraph—” for “For purposes of subparagraph (A),”, inserted subcl. (I) designation before “in determining”, and added subcl. (II).
 
-Subsec. (b)(2)(D). Pub. L. 114–113, § 333(b)(2), added subpar. (D).
+Subsec. (b)(2)(D). Pub. L. 114–113, § 333(b)(2), added subpar. (D).
 
-Subsecs. (d), (e). Pub. L. 114–113, § 333(a)(3), added subsec. (d) and redesignated former subsec. (d) as (e).
+Subsecs. (d), (e). Pub. L. 114–113, § 333(a)(3), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-2004—Subsec. (b)(2)(A)(i). Pub. L. 108–218, § 206(d), struck out “exceed $350,000 but” after “taxable year”.
+2004—Subsec. (b)(2)(A)(i). Pub. L. 108–218, § 206(d), struck out “exceed $350,000 but” after “taxable year”.
 
-Subsecs. (c), (d). Pub. L. 108–218, § 206(c), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 108–218, § 206(c), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-1988—Subsec. (b)(2)(A). Pub. L. 100–647, § 1010(f)(1), inserted at end “The election under clause (ii) shall apply to the taxable year for which made and for all subsequent taxable years for which the requirements of clause (i) are met. Such an election, once made, may be revoked only with the consent of the Secretary.”
+1988—Subsec. (b)(2)(A). Pub. L. 100–647, § 1010(f)(1), inserted at end “The election under clause (ii) shall apply to the taxable year for which made and for all subsequent taxable years for which the requirements of clause (i) are met. Such an election, once made, may be revoked only with the consent of the Secretary.”
 
-Subsec. (b)(3). Pub. L. 100–647, § 1010(f)(9), added par. (3).
+Subsec. (b)(3). Pub. L. 100–647, § 1010(f)(9), added par. (3).
 
 1986—Pub. L. 99–514 amended section generally, substituting provisions imposing taxes on insurance companies other than life insurance companies, with an alternative tax on certain small companies, for provisions imposing taxes on insurance companies (other than life or mutual), mutual marine insurance companies, and certain mutual fire or flood insurance companies, with an election for multiple line companies to be taxed on total income.
 
-1976—Subsec. (a). Pub. L. 94–455, § 1901(a)(107), substituted “on the taxable income” for “or the taxable income”.
+1976—Subsec. (a). Pub. L. 94–455, § 1901(a)(107), substituted “on the taxable income” for “or the taxable income”.
 
-Subsec. (b). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+Subsec. (b). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-1966—Subsec. (b). Pub. L. 89–809, § 104(i)(6)(A), redesignated subsec. (c) as (b). Former subsec. (b), which excepted foreign insurance companies other than life or mutual insurance companies, foreign mutual marine insurance companies, and foreign mutual fire insurance companies not carrying on an insurance business within the United States and provided that they would be taxable as other foreign corporations, was struck out.
+1966—Subsec. (b). Pub. L. 89–809, § 104(i)(6)(A), redesignated subsec. (c) as (b). Former subsec. (b), which excepted foreign insurance companies other than life or mutual insurance companies, foreign mutual marine insurance companies, and foreign mutual fire insurance companies not carrying on an insurance business within the United States and provided that they would be taxable as other foreign corporations, was struck out.
 
-Subsecs. (c), (d). Pub. L. 89–809, § 104(i)(6)(B), redesignated subsec. (d) as (c) and added item (2). Former subsec. (c) redesignated (b).
+Subsecs. (c), (d). Pub. L. 89–809, § 104(i)(6)(B), redesignated subsec. (d) as (c) and added item (2). Former subsec. (c) redesignated (b).
 
-1962—Pub. L. 87–834, § 8(g)(4)(B), substituted “and certain mutual fire or flood insurance companies” for “and mutual fire insurance companies issuing perpetual policies” in section catchline.
+1962—Pub. L. 87–834, § 8(g)(4)(B), substituted “and certain mutual fire or flood insurance companies” for “and mutual fire insurance companies issuing perpetual policies” in section catchline.
 
-Subsec. (a). Pub. L. 87–834, § 8(e)(1), included flood insurance companies, and substituted provisions authorizing imposition of the tax on those companies whose principal business is the issuance of policies for which the premium deposits are the same, regardless of the length of the term for which the policies are written, if the unabsorbed portion of such premium deposits not required for losses, expenses, or establishment of reserves is returned or credited to the policyholder on cancellation or expiration of the policy for provisions which authorized imposition of tax on those companies which issued policies for which the sole premium charged is a single deposit which (except for such deduction of underwriting costs as may be provided) is refundable on cancellation or expiration of the policy.
+Subsec. (a). Pub. L. 87–834, § 8(e)(1), included flood insurance companies, and substituted provisions authorizing imposition of the tax on those companies whose principal business is the issuance of policies for which the premium deposits are the same, regardless of the length of the term for which the policies are written, if the unabsorbed portion of such premium deposits not required for losses, expenses, or establishment of reserves is returned or credited to the policyholder on cancellation or expiration of the policy for provisions which authorized imposition of tax on those companies which issued policies for which the sole premium charged is a single deposit which (except for such deduction of underwriting costs as may be provided) is refundable on cancellation or expiration of the policy.
 
-Subsecs. (c), (d). Pub. L. 87–834, § 8(f), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 87–834, § 8(f), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2477,7 +2477,7 @@ Amendment by section 13511(b)(2)(B) of Pub. L. 115–97 applicable to losses ari
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–113, div. Q, title III, § 333(c), Dec. 18, 2015, 129 Stat. 3108, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2016.”
+Pub. L. 114–113, div. Q, title III, § 333(c), Dec. 18, 2015, 129 Stat. 3108, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2016.”
 
 **Effective Date of 2004 Amendment**
 
@@ -2489,7 +2489,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–514, title X, § 1024(e), Oct. 22, 1986, 100 Stat. 2409, provided that: “The amendments made by this section [amending this section and sections 501, 832, 834, 835, 841, 842, 844, 891, 1201, 1504, and 1563 of this title, redesignating former sections 822 and 826 of this title as sections 834 and 835 of this title, respectively, and repealing sections 821, 823, 824, and 825 of this title] (and the provisions of subsection (d) [set out below]) shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title X, § 1024(e), Oct. 22, 1986, 100 Stat. 2409, provided that: “The amendments made by this section [amending this section and sections 501, 832, 834, 835, 841, 842, 844, 891, 1201, 1504, and 1563 of this title, redesignating former sections 822 and 826 of this title as sections 834 and 835 of this title, respectively, and repealing sections 821, 823, 824, and 825 of this title] (and the provisions of subsection (d) [set out below]) shall apply to taxable years beginning after December 31, 1986.”
 
 **Effective Date of 1976 Amendment**
 
@@ -2505,7 +2505,7 @@ Amendment by Pub. L. 87–834 applicable with respect to taxable years beginning
 
 **Transitional Rules for 1984 Amendment**
 
-Pub. L. 99–514, title X, § 1024(d), Oct. 22, 1986, 100 Stat. 2408, as amended by Pub. L. 100–647, title I, § 1010(f)(8), Nov. 10, 1988, 102 Stat. 3454, provided that:
+Pub. L. 99–514, title X, § 1024(d), Oct. 22, 1986, 100 Stat. 2408, as amended by Pub. L. 100–647, title I, § 1010(f)(8), Nov. 10, 1988, 102 Stat. 3454, provided that:
 
 > **“(1) Treatment of amounts in protection against loss account.—** In the case of any insurance company which had a protection against loss account for its last taxable year beginning before January 1, 1987, there shall be included in the gross income of such company for any taxable year beginning after December 31, 1986, the amount which would have been included in gross income for such taxable year under section 824 of the Internal Revenue Code of 1954 [now 1986] (as in effect on the day before the date of the enactment of this Act [Oct. 22, 1986]). For purposes of the preceding sentence, no addition to such account shall be made for any taxable year beginning after December 31, 1986. In the case of a company taxable under section 831(b) of the Internal Revenue Code of 1986 (as amended by subsection (a)), any amount included in gross income under this paragraph shall be treated as gross investment income.
 
@@ -2517,7 +2517,7 @@ Pub. L. 99–514, title X, § 1024(d), Oct. 22, 1986, 100 Stat. 2408, as amend
 
 > shall be included in the net operating loss deduction under section 832(c)(10) of such Code without regard to the limitations of [former] section 844(b) of such Code.”
 
-### § 832. Insurance company taxable income
+### § 832. Insurance company taxable income
 
 **(a) Definition of taxable income**
 
@@ -2649,13 +2649,13 @@ Except as provided in section 381(c)(22) (relating to carryovers in certain corp
 
 **(D) Treatment of companies which become taxable under section 831(a)**
 
-**(i) Exception to phase-in for companies which were not taxable, etc., before 1987** Subparagraph (C) of paragraph (4) shall not apply to any insurance company which, for each taxable year beginning before January 1, 1987, was not subject to the tax imposed by section 821(a) 1
+**(i) Exception to phase-in for companies which were not taxable, etc., before 1987** Subparagraph (C) of paragraph (4) shall not apply to any insurance company which, for each taxable year beginning before January 1, 1987, was not subject to the tax imposed by section 821(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or 831(a) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) by reason of being—
 
-**(I)** subject to tax under section 821(c) <sup>1</sup> (as so in effect), or
+**(I)** subject to tax under section 821(c) <sup>1</sup> (as so in effect), or
 
 **(II)** described in section 501(c) (as so in effect) and exempt from tax under section 501(a).
 
@@ -2663,7 +2663,7 @@ or 831(a) (as in effect on the day before the date of the enactment of the Tax R
 
 **(I)** which was not subject to the tax imposed by section 831(a) for its 1st taxable year beginning after December 31, 1986, by reason of being subject to tax under section 831(b), or described in section 501(c) and exempt from tax under section 501(a), and
 
-**(II)** which, for any taxable year beginning before January 1, 1987, was subject to the tax imposed by section 821(a) <sup>1</sup> or 831(a) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986),
+**(II)** which, for any taxable year beginning before January 1, 1987, was subject to the tax imposed by section 821(a) <sup>1</sup> or 831(a) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986),
 
 subparagraph (C) of paragraph (4) shall apply beginning with the 1st taxable year beginning after December 31, 1986, for which such company is subject to the tax imposed by section 831(a) and shall be applied by substituting the last day of the preceding taxable year for “December 31, 1986” and the 1st day of the 7th succeeding taxable year for “January 1, 1993”.
 
@@ -2797,13 +2797,13 @@ For purposes of the preceding sentence, the term “savings credited to subscrib
 
 In the case of an insurance company subject to tax under section 831(a) filing or required to file a consolidated return under section 1501 with respect to any affiliated group for any taxable year, any determination under this part with respect to any dividend paid by one member of such group to another member of such group shall be made as if such group were not filing a consolidated return.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 264; Mar. 13, 1956, ch. 83, § 3(b), 70 Stat. 48; Pub. L. 87–834, § 8(e)(2)–(5), Oct. 16, 1962, 76 Stat. 997, 998; Pub. L. 88–272, title II, § 228(c), Feb. 26, 1964, 78 Stat. 99; Pub. L. 89–809, title I, § 104(i)(7), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 90–240, § 5(a)–(c), Jan. 2, 1968, 81 Stat. 776, 777; Pub. L. 93–483, § 5, Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title XIX, §§ 1901(a)(108), (b)(1)(T), (U), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1792, 1834; Pub. L. 97–248, title II, § 234(b)(2)(A), Sept. 3, 1982, 96 Stat. 503; Pub. L. 98–369, div. A, title II, § 211(b)(9), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title X, §§ 1021(a), (b), 1022(a), 1023(a), 1024(c)(1)–(6), Oct. 22, 1986, 100 Stat. 2395, 2397, 2399, 2406, 2407; Pub. L. 100–647, title I, § 1010(c), (d)(1), (2), Nov. 10, 1988, 102 Stat. 3451–3453; Pub. L. 101–508, title XI, §§ 11303(a), (b), 11305(a), Nov. 5, 1990, 104 Stat. 1388–450, 1388–451; Pub. L. 104–188, title I, §§ 1702(h)(3), 1704(t)(45), Aug. 20, 1996, 110 Stat. 1873, 1889; Pub. L. 105–34, title X, § 1084(b)(4), Aug. 5, 1997, 111 Stat. 955; Pub. L. 113–295, div. A, title II, § 221(a)(41)(G), (69), Dec. 19, 2014, 128 Stat. 4044, 4048; Pub. L. 115–97, title I, §§ 13001(b)(2)(I), 13515(a), Dec. 22, 2017, 131 Stat. 2096, 2144; Pub. L. 115–141, div. U, title IV, § 401(a)(143), Mar. 23, 2018, 132 Stat. 1191.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 264; Mar. 13, 1956, ch. 83, § 3(b), 70 Stat. 48; Pub. L. 87–834, § 8(e)(2)–(5), Oct. 16, 1962, 76 Stat. 997, 998; Pub. L. 88–272, title II, § 228(c), Feb. 26, 1964, 78 Stat. 99; Pub. L. 89–809, title I, § 104(i)(7), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 90–240, § 5(a)–(c), Jan. 2, 1968, 81 Stat. 776, 777; Pub. L. 93–483, § 5, Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title XIX, §§ 1901(a)(108), (b)(1)(T), (U), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1792, 1834; Pub. L. 97–248, title II, § 234(b)(2)(A), Sept. 3, 1982, 96 Stat. 503; Pub. L. 98–369, div. A, title II, § 211(b)(9), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title X, §§ 1021(a), (b), 1022(a), 1023(a), 1024(c)(1)–(6), Oct. 22, 1986, 100 Stat. 2395, 2397, 2399, 2406, 2407; Pub. L. 100–647, title I, § 1010(c), (d)(1), (2), Nov. 10, 1988, 102 Stat. 3451–3453; Pub. L. 101–508, title XI, §§ 11303(a), (b), 11305(a), Nov. 5, 1990, 104 Stat. 1388–450, 1388–451; Pub. L. 104–188, title I, §§ 1702(h)(3), 1704(t)(45), Aug. 20, 1996, 110 Stat. 1873, 1889; Pub. L. 105–34, title X, § 1084(b)(4), Aug. 5, 1997, 111 Stat. 955; Pub. L. 113–295, div. A, title II, § 221(a)(41)(G), (69), Dec. 19, 2014, 128 Stat. 4044, 4048; Pub. L. 115–97, title I, §§ 13001(b)(2)(I), 13515(a), Dec. 22, 2017, 131 Stat. 2096, 2144; Pub. L. 115–141, div. U, title IV, § 401(a)(143), Mar. 23, 2018, 132 Stat. 1191.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 821, referred to in subsec. (b)(7)(D), was repealed by Pub. L. 99–514, title X, § 1024(a)(1), Oct. 22, 1986, 100 Stat. 2405.
+Section 821, referred to in subsec. (b)(7)(D), was repealed by Pub. L. 99–514, title X, § 1024(a)(1), Oct. 22, 1986, 100 Stat. 2405.
 
 The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (b)(7)(D), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
@@ -2815,89 +2815,89 @@ Another section 1084(b) of Pub. L. 105–34 amended sections 101 and 264 of this
 
 2018—Subsec. (b)(7)(E)(ii)(II). Pub. L. 115–141 substituted period for comma at end.
 
-2017—Subsec. (b)(5)(B). Pub. L. 115–97, § 13515(a), substituted “the applicable percentage” for “15 percent” in introductory provisions and inserted “For purposes of this subparagraph, the applicable percentage is 5.25 percent divided by the highest rate in effect under section 11(b).” at end of concluding provisions.
+2017—Subsec. (b)(5)(B). Pub. L. 115–97, § 13515(a), substituted “the applicable percentage” for “15 percent” in introductory provisions and inserted “For purposes of this subparagraph, the applicable percentage is 5.25 percent divided by the highest rate in effect under section 11(b).” at end of concluding provisions.
 
-Subsec. (c)(5). Pub. L. 115–97, § 13001(b)(2)(I), struck out “sec. 1201 and following,” before “relating to capital gains and losses” in introductory provisions.
+Subsec. (c)(5). Pub. L. 115–97, § 13001(b)(2)(I), struck out “sec. 1201 and following,” before “relating to capital gains and losses” in introductory provisions.
 
-2014—Subsec. (b)(5)(B)(ii), (D)(i), (ii)(I). Pub. L. 113–295, § 221(a)(41)(G), struck out “, 244,”after “sections 243” in subpar. (B)(ii) and after “section 243” in subpar. (D)(i), (ii)(I).
+2014—Subsec. (b)(5)(B)(ii), (D)(i), (ii)(I). Pub. L. 113–295, § 221(a)(41)(G), struck out “, 244,”after “sections 243” in subpar. (B)(ii) and after “section 243” in subpar. (D)(i), (ii)(I).
 
-Subsec. (e). Pub. L. 113–295, § 221(a)(69)(A), struck out “of taxable years beginning after December 31, 1966,” after “In the case” in introductory provisions.
+Subsec. (e). Pub. L. 113–295, § 221(a)(69)(A), struck out “of taxable years beginning after December 31, 1966,” after “In the case” in introductory provisions.
 
-Subsec. (e)(6). Pub. L. 113–295, § 221(a)(69)(B), substituted “The” for “In the case of any taxable year beginning after December 31, 1970, the”.
+Subsec. (e)(6). Pub. L. 113–295, § 221(a)(69)(B), substituted “The” for “In the case of any taxable year beginning after December 31, 1970, the”.
 
 1997—Subsec. (b)(5)(B)(iii). Pub. L. 105–34, which directed amendment of subpar. (B) by adding cl. (iii) at the end, was executed by adding cl. (iii) after cl. (ii) to reflect the probable intent of Congress.
 
-1996—Subsec. (b)(5)(C)(ii)(II), (D)(ii)(II). Pub. L. 104–188, § 1702(h)(3), substituted “243(b)(2)” for “243(b)(5)”.
+1996—Subsec. (b)(5)(C)(ii)(II), (D)(ii)(II). Pub. L. 104–188, § 1702(h)(3), substituted “243(b)(2)” for “243(b)(5)”.
 
-Subsec. (b)(7)(A). Pub. L. 104–188, § 1704(t)(45), provided that section 11303(b)(1) of Pub. L. 101–508 shall be applied as if “paragraph” appeared instead of “subparagraph” in the material proposed to be stricken. See 1990 Amendment note below.
+Subsec. (b)(7)(A). Pub. L. 104–188, § 1704(t)(45), provided that section 11303(b)(1) of Pub. L. 101–508 shall be applied as if “paragraph” appeared instead of “subparagraph” in the material proposed to be stricken. See 1990 Amendment note below.
 
-1990—Subsec. (b)(4). Pub. L. 101–508, § 11303(a), substituted “section 807.” for “section 807, pertaining to the life, burial, or funeral insurance, or annuity business of an insurance company subject to the tax imposed by section 831 and not qualifying as a life insurance company under section 816.” in first sentence after subpar. (C).
+1990—Subsec. (b)(4). Pub. L. 101–508, § 11303(a), substituted “section 807.” for “section 807, pertaining to the life, burial, or funeral insurance, or annuity business of an insurance company subject to the tax imposed by section 831 and not qualifying as a life insurance company under section 816.” in first sentence after subpar. (C).
 
-Subsec. (b)(5)(A). Pub. L. 101–508, § 11305(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The term ‘losses incurred’ means losses incurred during the taxable year on insurance contracts, computed as follows:
+Subsec. (b)(5)(A). Pub. L. 101–508, § 11305(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The term ‘losses incurred’ means losses incurred during the taxable year on insurance contracts, computed as follows:
 
 “(i) To losses paid during the taxable year, add salvage and reinsurance recoverable outstanding at the end of the preceding taxable year and deduct salvage and reinsurance recoverable outstanding at the end of the taxable year.
 
 “(ii) To the result so obtained, add all unpaid losses on life insurance contracts plus all discounted unpaid losses (as defined in section 846) outstanding at the end of the taxable year and deduct unpaid losses on life insurance contracts plus all discounted unpaid losses outstanding at the end of the preceding taxable year.”
 
-Subsec. (b)(7)(A). Pub. L. 101–508, § 11303(b)(2), substituted “such contracts into account” for “such amounts into account”.
+Subsec. (b)(7)(A). Pub. L. 101–508, § 11303(b)(2), substituted “such contracts into account” for “such amounts into account”.
 
-Pub. L. 101–508, § 11303(b)(1), which directed the substitution of “insurance contracts described in section 816(b)(1)(B)” for “amounts included in unearned premiums under the 2nd sentence of such subparagraph”, was executed by making the substitution for “amounts included in unearned premiums under the 2nd sentence of such paragraph”. See 1996 Amendment note above.
+Pub. L. 101–508, § 11303(b)(1), which directed the substitution of “insurance contracts described in section 816(b)(1)(B)” for “amounts included in unearned premiums under the 2nd sentence of such subparagraph”, was executed by making the substitution for “amounts included in unearned premiums under the 2nd sentence of such paragraph”. See 1996 Amendment note above.
 
-1988—Subsec. (b)(5)(B)(ii)(II). Pub. L. 100–647, § 1010(d)(2), inserted “(directly or indirectly)” after “attributable”.
+1988—Subsec. (b)(5)(B)(ii)(II). Pub. L. 100–647, § 1010(d)(2), inserted “(directly or indirectly)” after “attributable”.
 
-Subsec. (b)(7)(C). Pub. L. 100–647, § 1010(c)(1), substituted “insurance company taxable under section 831(a)” for “nonlife insurance company” in heading and “section 831(a)” for “this part” in text.
+Subsec. (b)(7)(C). Pub. L. 100–647, § 1010(c)(1), substituted “insurance company taxable under section 831(a)” for “nonlife insurance company” in heading and “section 831(a)” for “this part” in text.
 
-Subsec. (b)(7)(D), (E). Pub. L. 100–647, § 1010(c)(2), added subpars. (D) and (E).
+Subsec. (b)(7)(D), (E). Pub. L. 100–647, § 1010(c)(2), added subpars. (D) and (E).
 
-Subsec. (e)(5)(A). Pub. L. 100–647, § 1010(c)(3), struck out “and” after “preceding taxable year,”.
+Subsec. (e)(5)(A). Pub. L. 100–647, § 1010(c)(3), struck out “and” after “preceding taxable year,”.
 
-Subsec. (e)(5)(B). Pub. L. 100–647, § 1010(c)(3), which directed amendment of subpar. (B) by substituting a comma for the period at end, could not be executed because there was no period at end of subpar. (B).
+Subsec. (e)(5)(B). Pub. L. 100–647, § 1010(c)(3), which directed amendment of subpar. (B) by substituting a comma for the period at end, could not be executed because there was no period at end of subpar. (B).
 
-Subsec. (g). Pub. L. 100–647, § 1010(d)(1), added subsec. (g).
+Subsec. (g). Pub. L. 100–647, § 1010(d)(1), added subsec. (g).
 
-1986—Subsec. (b)(1)(C). Pub. L. 99–514, § 1024(c)(1), substituted “exclusively issuing perpetual policies” for “described in section 831(a)(3)(A)”.
+1986—Subsec. (b)(1)(C). Pub. L. 99–514, § 1024(c)(1), substituted “exclusively issuing perpetual policies” for “described in section 831(a)(3)(A)”.
 
-Subsec. (b)(1)(D). Pub. L. 99–514, § 1024(c)(2), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “in the case of a mutual fire or flood insurance company described in section 831(a)(3)(B), an amount equal to 2 percent of the premiums earned on insurance contracts during the taxable year with respect to policies described in section 831(a)(3)(B) after deduction of premium deposits returned or credited during the same taxable year, and”.
+Subsec. (b)(1)(D). Pub. L. 99–514, § 1024(c)(2), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “in the case of a mutual fire or flood insurance company described in section 831(a)(3)(B), an amount equal to 2 percent of the premiums earned on insurance contracts during the taxable year with respect to policies described in section 831(a)(3)(B) after deduction of premium deposits returned or credited during the same taxable year, and”.
 
-Subsec. (b)(4). Pub. L. 99–514, § 1024(c)(3), substituted “paragraph (1)(D)” for “section 831(a)(3)(B)” in two places and amended last sentence generally, substituting “described in paragraph (1)(D) or issuing exclusively perpetual policies” for “referred to in paragraph (3) of section 831(a)” and “described in subparagraph (C) or (D) of paragraph (1)” for “referred to in such paragraph (3)”.
+Subsec. (b)(4). Pub. L. 99–514, § 1024(c)(3), substituted “paragraph (1)(D)” for “section 831(a)(3)(B)” in two places and amended last sentence generally, substituting “described in paragraph (1)(D) or issuing exclusively perpetual policies” for “referred to in paragraph (3) of section 831(a)” and “described in subparagraph (C) or (D) of paragraph (1)” for “referred to in such paragraph (3)”.
 
-Subsec. (b)(4)(B), (C). Pub. L. 99–514, § 1021(a), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: “To the result so obtained, add unearned premiums on outstanding business at the end of the preceding taxable year and deduct unearned premiums on outstanding business at the end of the taxable year.”
+Subsec. (b)(4)(B), (C). Pub. L. 99–514, § 1021(a), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: “To the result so obtained, add unearned premiums on outstanding business at the end of the preceding taxable year and deduct unearned premiums on outstanding business at the end of the taxable year.”
 
-Subsec. (b)(5)(A). Pub. L. 99–514, § 1022(a), in amending par. (5) generally, designated existing provisions of par. (5) as subpar. (A), inserted subpar. heading “In general”, and redesignated former subpars. (A) and (B) as cls. (i) and (ii).
+Subsec. (b)(5)(A). Pub. L. 99–514, § 1022(a), in amending par. (5) generally, designated existing provisions of par. (5) as subpar. (A), inserted subpar. heading “In general”, and redesignated former subpars. (A) and (B) as cls. (i) and (ii).
 
-Subsec. (b)(5)(A)(ii). Pub. L. 99–514, § 1023(a)(1), amended cl. (ii) generally, inserting “on life insurance contracts plus all discounted unpaid losses (as defined in section 846)” and “on life insurance contracts plus all discounted unpaid losses”.
+Subsec. (b)(5)(A)(ii). Pub. L. 99–514, § 1023(a)(1), amended cl. (ii) generally, inserting “on life insurance contracts plus all discounted unpaid losses (as defined in section 846)” and “on life insurance contracts plus all discounted unpaid losses”.
 
-Subsec. (b)(5)(B) to (E). Pub. L. 99–514, § 1022(a), in amending par. (5) generally, added subpars. (B) to (E). Former subpar. (B) redesignated (A)(ii).
+Subsec. (b)(5)(B) to (E). Pub. L. 99–514, § 1022(a), in amending par. (5) generally, added subpars. (B) to (E). Former subpar. (B) redesignated (A)(ii).
 
-Subsec. (b)(6). Pub. L. 99–514, § 1023(a)(2), inserted second sentence defining “expenses unpaid”.
+Subsec. (b)(6). Pub. L. 99–514, § 1023(a)(2), inserted second sentence defining “expenses unpaid”.
 
-Subsec. (b)(7), (8). Pub. L. 99–514, § 1021(b), added pars. (7) and (8).
+Subsec. (b)(7), (8). Pub. L. 99–514, § 1021(b), added pars. (7) and (8).
 
-Subsec. (c)(5). Pub. L. 99–514, § 1024(c)(4), substituted “section 834(b)” for “section 822(b)”.
+Subsec. (c)(5). Pub. L. 99–514, § 1024(c)(4), substituted “section 834(b)” for “section 822(b)”.
 
-Subsec. (c)(11). Pub. L. 99–514, § 1024(c)(5), substituted “subsection (b)(1)(C)” for “section 831(a)(3)(A)” and “subsection (b)(1)(D)” for “section 831(a)(3)(B)”.
+Subsec. (c)(11). Pub. L. 99–514, § 1024(c)(5), substituted “subsection (b)(1)(C)” for “section 831(a)(3)(A)” and “subsection (b)(1)(D)” for “section 831(a)(3)(B)”.
 
-Subsec. (f). Pub. L. 99–514, § 1024(c)(6), added subsec. (f).
+Subsec. (f). Pub. L. 99–514, § 1024(c)(6), added subsec. (f).
 
 1984—Subsec. (b)(4). Pub. L. 98–369, in provisions following subpar. (B), substituted “section 816(b) but determined as provided in section 807” and “section 816” for “section 801(b)” and “section 801”, respectively.
 
-1982—Subsec. (e)(2). Pub. L. 97–248 struck out “, as if no election to make installment payments under section 6152 is made” after “due to be paid”.
+1982—Subsec. (e)(2). Pub. L. 97–248 struck out “, as if no election to make installment payments under section 6152 is made” after “due to be paid”.
 
-1976—Subsec. (b)(1), (6). Pub. L. 94–455, § 1901(a)(108), substituted “Association” for “Convention”.
+1976—Subsec. (b)(1), (6). Pub. L. 94–455, § 1901(a)(108), substituted “Association” for “Convention”.
 
-Subsec. (c)(5)(A). Pub. L. 94–455, § 1901(b)(1)(T), struck out “or to the deductions provided in section 242 for partially tax-exempt interest” after “exchanges of capital assets”.
+Subsec. (c)(5)(A). Pub. L. 94–455, § 1901(b)(1)(T), struck out “or to the deductions provided in section 242 for partially tax-exempt interest” after “exchanges of capital assets”.
 
-Subsec. (c)(12). Pub. L. 94–455, § 1901(b)(1)(U), struck out “partially tax-exempt interest and to” after “and following, relating to”.
+Subsec. (c)(12). Pub. L. 94–455, § 1901(b)(1)(U), struck out “partially tax-exempt interest and to” after “and following, relating to”.
 
-Subsec. (e)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (e)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 1974—Subsec. (e)(6). Pub. L. 93–483 added par. (6).
 
-1968—Subsec. (b)(1)(E). Pub. L. 90–240, § 5(a), added subpar. (E).
+1968—Subsec. (b)(1)(E). Pub. L. 90–240, § 5(a), added subpar. (E).
 
-Subsec. (c)(13). Pub. L. 90–240, § 5(b), added par. (13).
+Subsec. (c)(13). Pub. L. 90–240, § 5(b), added par. (13).
 
-Subsec. (e). Pub. L. 90–240, § 5(c), added subsec. (e).
+Subsec. (e). Pub. L. 90–240, § 5(c), added subsec. (e).
 
 1966—Subsec. (d). Pub. L. 89–809 redesignated subsec. (e) as (d). Former subsec. (d), having reference to the taxable income of foreign insurance companies other than life or mutual and foreign mutual marine, was struck out.
 
@@ -2905,17 +2905,17 @@ Subsec. (e). Pub. L. 89–809 redesignated subsec. (e) as (d).
 
 1964—Subsec. (c)(10). Pub. L. 88–272 inserted reference to part I of subchapter D.
 
-1962—Subsec. (b)(1)(C). Pub. L. 87–834, § 8(e)(3), (5), substituted “section 831(a)(3)(A)” for “section 831(a)”.
+1962—Subsec. (b)(1)(C). Pub. L. 87–834, § 8(e)(3), (5), substituted “section 831(a)(3)(A)” for “section 831(a)”.
 
-Subsec. (b)(1)(D). Pub. L. 87–834, § 8(e)(5), added subpar. (D).
+Subsec. (b)(1)(D). Pub. L. 87–834, § 8(e)(5), added subpar. (D).
 
-Subsec. (b)(4). Pub. L. 87–834, § 8(e)(2), inserted provisions defining unearned premiums of mutual fire or flood insurance companies, and which require premiums paid by the subscriber of a mutual flood insurance company to be treated, for purposes of computing the taxable income of such subscriber, in the same manner as premiums paid by a policyholder to a mutual fire insurance company referred to in par. (3) of section 831(a) of this title.
+Subsec. (b)(4). Pub. L. 87–834, § 8(e)(2), inserted provisions defining unearned premiums of mutual fire or flood insurance companies, and which require premiums paid by the subscriber of a mutual flood insurance company to be treated, for purposes of computing the taxable income of such subscriber, in the same manner as premiums paid by a policyholder to a mutual fire insurance company referred to in par. (3) of section 831(a) of this title.
 
-Subsec. (c)(11). Pub. L. 87–834, § 8(e)(4), substituted “section 831(a)(3)(A)” for “section 831(a)”, and inserted definition of “dividends and similar distributions”.
+Subsec. (c)(11). Pub. L. 87–834, § 8(e)(4), substituted “section 831(a)(3)(A)” for “section 831(a)”, and inserted definition of “dividends and similar distributions”.
 
-1956—Subsec. (b)(4). Act Mar. 13, 1956, § 3(b)(1), substituted “section 801(b)” for “section 806”.
+1956—Subsec. (b)(4). Act Mar. 13, 1956, § 3(b)(1), substituted “section 801(b)” for “section 806”.
 
-Subsec. (c). Act Mar. 13, 1956, § 3(b)(2), (3), substituted “the items described in section 822(b) (other than paragraph (1)(D) thereof) and net premiums received. In the application of section 1212” for “interest, dividends, rents, and net premiums received. In the application of section 1211” in par. (5), and authorized the deduction for depletion in par. (8).
+Subsec. (c). Act Mar. 13, 1956, § 3(b)(2), (3), substituted “the items described in section 822(b) (other than paragraph (1)(D) thereof) and net premiums received. In the application of section 1212” for “interest, dividends, rents, and net premiums received. In the application of section 1211” in par. (5), and authorized the deduction for depletion in par. (8).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2923,7 +2923,7 @@ Subsec. (c). Act Mar. 13, 1956, § 3(b)(2), (3), substituted “the items desc
 
 Amendment by section 13001(b)(2)(I) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under section 11 of this title.
 
-Pub. L. 115–97, title I, § 13515(b), Dec. 22, 2017, 131 Stat. 2144, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017.”
+Pub. L. 115–97, title I, § 13515(b), Dec. 22, 2017, 131 Stat. 2144, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017.”
 
 **Effective Date of 2014 Amendment**
 
@@ -2941,7 +2941,7 @@ Amendment by section 1702(h)(3) of Pub. L. 104–188 effective, except as otherw
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title XI, § 11303(c), Nov. 5, 1990, 104 Stat. 1388–450, provided that:
+Pub. L. 101–508, title XI, § 11303(c), Nov. 5, 1990, 104 Stat. 1388–450, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section] shall apply to taxable years beginning on or after September 30, 1990.
 
@@ -2957,7 +2957,7 @@ Pub. L. 101–508, title XI, § 11303(c), Nov. 5, 1990, 104 Stat. 1388–450, 
 
 > **“(3) Coordination with section 832(b)(4)(C).—** The amendments made by this section shall not affect the application of section 832(b)(4)(C) of the Internal Revenue Code of 1986.”
 
-Pub. L. 101–508, title XI, § 11305(c), Nov. 5, 1990, 104 Stat. 1388–451, provided that:
+Pub. L. 101–508, title XI, § 11305(c), Nov. 5, 1990, 104 Stat. 1388–451, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section and section 846 of this title] shall apply to taxable years beginning after December 31, 1989.
 
@@ -2995,7 +2995,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–514, title X, § 1021(c), Oct. 22, 1986, 100 Stat. 2397, provided that:
+Pub. L. 99–514, title X, § 1021(c), Oct. 22, 1986, 100 Stat. 2397, provided that:
 
 > **“(1) In general.—** The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 1986.
 
@@ -3013,7 +3013,7 @@ Pub. L. 99–514, title X, § 1021(c), Oct. 22, 1986, 100 Stat. 2397, provided
 
 > **“(C) Effect on earnings and profits.—** The earnings and profits of any insurance company for its 1st taxable year beginning after December 31, 1986, shall be increased by the amount of the difference determined under subparagraph (A) with respect to such company.”
 
-Pub. L. 99–514, title X, § 1022(b), Oct. 22, 1986, 100 Stat. 2399, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title X, § 1022(b), Oct. 22, 1986, 100 Stat. 2399, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 1986.”
 
 Amendment by section 1023(a) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, except as otherwise provided, see section 1023(e) of Pub. L. 99–514, set out as an Effective Date note under section 846 of this title.
 
@@ -3033,7 +3033,7 @@ Amendment by section 1901(a)(108), (b)(1)(T), (U) of Pub. L. 94–455 effective 
 
 **Effective Date of 1968 Amendment**
 
-Pub. L. 90–240, § 5(e), Jan. 2, 1968, 81 Stat. 778, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a), (b), (c), and (d) [amending this section and section 381 of this title] shall apply to taxable years beginning after December 31, 1966, except that so much of section 832(e)(2) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as added by the amendment made by subsection (c)) as provides for payment of interest and penalties for failure to make a timely purchase of tax and loss bonds shall not apply with respect to any period during which such bonds are not available for purchase.”
+Pub. L. 90–240, § 5(e), Jan. 2, 1968, 81 Stat. 778, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a), (b), (c), and (d) [amending this section and section 381 of this title] shall apply to taxable years beginning after December 31, 1966, except that so much of section 832(e)(2) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as added by the amendment made by subsection (c)) as provides for payment of interest and penalties for failure to make a timely purchase of tax and loss bonds shall not apply with respect to any period during which such bonds are not available for purchase.”
 
 **Effective Date of 1966 Amendment**
 
@@ -3041,7 +3041,7 @@ Amendment by Pub. L. 89–809 applicable with respect to taxable years beginning
 
 **Effective Date of 1964 Amendment**
 
-Pub. L. 88–272, title II, § 228(d), Feb. 26, 1964, 78 Stat. 99, provided that: “The amendment made by subsection (a) [amending former section 809 of this title] shall apply to taxable years beginning after December 31, 1961. The amendment made by subsection (c) [amending this section] shall apply to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
+Pub. L. 88–272, title II, § 228(d), Feb. 26, 1964, 78 Stat. 99, provided that: “The amendment made by subsection (a) [amending former section 809 of this title] shall apply to taxable years beginning after December 31, 1961. The amendment made by subsection (c) [amending this section] shall apply to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
 
 **Effective Date of 1962 Amendment**
 
@@ -3053,11 +3053,11 @@ Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after
 
 **Deduction From Earnings and Profits of Insurance Companies to Which Section 11305(c)(3) of Pub. L. 101–508 Applies**
 
-Pub. L. 104–188, title I, § 1702(c)(4), Aug. 20, 1996, 110 Stat. 1869, provided that: “The earnings and profits of any insurance company to which section 11305(c)(3) of the Revenue Reconciliation Act of 1990 [Pub. L. 101–508, set out above] applies shall be determined without regard to any deduction allowed under such section; except that, for purposes of applying sections 56 and [former] 902, and subpart F of part III of subchapter N of chapter 1 of the Internal Revenue Code of 1986, such deduction shall be taken into account.”
+Pub. L. 104–188, title I, § 1702(c)(4), Aug. 20, 1996, 110 Stat. 1869, provided that: “The earnings and profits of any insurance company to which section 11305(c)(3) of the Revenue Reconciliation Act of 1990 [Pub. L. 101–508, set out above] applies shall be determined without regard to any deduction allowed under such section; except that, for purposes of applying sections 56 and [former] 902, and subpart F of part III of subchapter N of chapter 1 of the Internal Revenue Code of 1986, such deduction shall be taken into account.”
 
 **Acquisition Date of Certain Stocks or Obligations for Purposes of Subsection (b)(5)(C)(i)**
 
-Pub. L. 100–647, title I, § 1010(d)(3), Nov. 10, 1988, 102 Stat. 3453, provided that:
+Pub. L. 100–647, title I, § 1010(d)(3), Nov. 10, 1988, 102 Stat. 3453, provided that:
 
 > “For purposes of section 832(b)(5)(C)(i) of the 1986 Code, any stock or obligation acquired on or after August 8, 1986, by an insurance company subject to the tax imposed by section 831 of the 1986 Code (hereinafter in this paragraph referred to as the ‘acquiring company’) from another insurance company so subject (hereinafter in this paragraph referred to as the ‘transferor company’) shall be treated as acquired on the date on which such stock or obligation was acquired by the transferor company if—
 
@@ -3069,11 +3069,11 @@ Pub. L. 100–647, title I, § 1010(d)(3), Nov. 10, 1988, 102 Stat. 3453, prov
 
 **Study of Treatment of Property and Casualty Insurance Companies**
 
-Pub. L. 99–514, title X, § 1025, Oct. 22, 1986, 100 Stat. 2409, directed Secretary of the Treasury or his delegate to conduct a study of the treatment of policyholder dividends by mutual property and casualty insurance companies, the treatment of property and casualty insurance companies under the minimum tax, and the operation and effect of, and revenue raised by, the amendments made by this subtitle, and not later than Jan. 1, 1989 (due date extended to Jan. 1, 1992, by Pub. L. 101–508, title XI, § 11831(b), Nov. 5, 1990, 104 Stat. 1388–559), such Secretary to submit to Committee on Ways and Means of House of Representatives, Committee on Finance of Senate, and Joint Committee on Taxation, the results of such study, together with such recommendations as he determined to be appropriate.
+Pub. L. 99–514, title X, § 1025, Oct. 22, 1986, 100 Stat. 2409, directed Secretary of the Treasury or his delegate to conduct a study of the treatment of policyholder dividends by mutual property and casualty insurance companies, the treatment of property and casualty insurance companies under the minimum tax, and the operation and effect of, and revenue raised by, the amendments made by this subtitle, and not later than Jan. 1, 1989 (due date extended to Jan. 1, 1992, by Pub. L. 101–508, title XI, § 11831(b), Nov. 5, 1990, 104 Stat. 1388–559), such Secretary to submit to Committee on Ways and Means of House of Representatives, Committee on Finance of Senate, and Joint Committee on Taxation, the results of such study, together with such recommendations as he determined to be appropriate.
 
 **Physicians’ and Surgeons’ Mutual Protection and Interindemnity Arrangements or Associations**
 
-Pub. L. 99–514, title X, § 1031, Oct. 22, 1986, 100 Stat. 2409, as amended by Pub. L. 100–647, title I, § 1010(g), Nov. 10, 1988, 102 Stat. 3455, provided that:
+Pub. L. 99–514, title X, § 1031, Oct. 22, 1986, 100 Stat. 2409, as amended by Pub. L. 100–647, title I, § 1010(g), Nov. 10, 1988, 102 Stat. 3455, provided that:
 
 > **“(a) Certain Physicians’ and Surgeons’ Mutual Protection and Interindemnity Arrangements or Associations.—**
 
@@ -3113,7 +3113,7 @@ Pub. L. 99–514, title X, § 1031, Oct. 22, 1986, 100 Stat. 2409, as amended 
 
 **Treatment as Unearned Premiums of Additions to Reserves Required by State Law or Regulations for Mortgage Guaranty Insurance Losses**
 
-Pub. L. 90–240, § 5(g), Jan. 2, 1968, 81 Stat. 779, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 90–240, § 5(g), Jan. 2, 1968, 81 Stat. 779, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1)** In the case of taxable years beginning before 1967, a company shall treat additions to a reserve, required by State law or regulations for mortgage guaranty insurance losses resulting from adverse economic cycles, as unearned premiums for purposes of section 832(b)(4) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], but the amount so treated as unearned premiums in a taxable year shall not exceed 50 percent of premiums earned on insurance contracts (as defined in section 832(b)(4) of such Code), determined without regard to amounts added to the reserve, with respect to mortgage guaranty insurance for such year. The amount of unearned premiums at the close of 1966 shall be determined without regard to the preceding sentence for the purpose of applying section 832(b)(4) of such Code to 1967. Additions to such a reserve shall not be treated as unearned premiums for any taxable year beginning after 1966.
 
@@ -3133,7 +3133,7 @@ Pub. L. 90–240, § 5(g), Jan. 2, 1968, 81 Stat. 779, as amended by Pub. L. 9
 
 > **“(3)** The provisions of this subsection shall apply to taxable years beginning after December 31, 1956.”
 
-### § 833. Treatment of Blue Cross and Blue Shield organizations, etc.
+### § 833. Treatment of Blue Cross and Blue Shield organizations, etc.
 
 **(a) General rule** In the case of any organization to which this section applies—
 
@@ -3261,7 +3261,7 @@ Paragraph (2) shall be applied to an organization described in subparagraph (B) 
 
 Notwithstanding the preceding paragraphs, paragraphs (2) and (3) of subsection (a) shall not apply to any organization unless such organization’s percentage of total premium revenue expended on reimbursement for clinical services and for activities that improve health care quality provided to enrollees under its policies during such taxable year (as reported under section 2718 of the Public Health Service Act) is not less than 85 percent.
 
-(Added Pub. L. 99–514, title X, § 1012(b)(1), Oct. 22, 1986, 100 Stat. 2391; amended Pub. L. 104–191, title III, § 351(a), Aug. 21, 1996, 110 Stat. 2071; Pub. L. 105–34, title XVI, § 1604(d)(2)(A), Aug. 5, 1997, 111 Stat. 1098; Pub. L. 111–148, title IX, § 9016(a), Mar. 23, 2010, 124 Stat. 872; Pub. L. 113–235, div. N, § 102(a), Dec. 16, 2014, 128 Stat. 2773; Pub. L. 113–295, div. A, title II, § 221(a)(41)(G), Dec. 19, 2014, 128 Stat. 4044.)
+(Added Pub. L. 99–514, title X, § 1012(b)(1), Oct. 22, 1986, 100 Stat. 2391; amended Pub. L. 104–191, title III, § 351(a), Aug. 21, 1996, 110 Stat. 2071; Pub. L. 105–34, title XVI, § 1604(d)(2)(A), Aug. 5, 1997, 111 Stat. 1098; Pub. L. 111–148, title IX, § 9016(a), Mar. 23, 2010, 124 Stat. 872; Pub. L. 113–235, div. N, § 102(a), Dec. 16, 2014, 128 Stat. 2773; Pub. L. 113–295, div. A, title II, § 221(a)(41)(G), Dec. 19, 2014, 128 Stat. 4044.)
 
 **Editorial Notes**
 
@@ -3271,15 +3271,15 @@ Section 2718 of the Public Health Service Act, referred to in subsec. (c)(5), is
 
 **Amendments**
 
-2014—Subsec. (b)(3)(E). Pub. L. 113–295 struck out “, 244,” after “sections 243” in cl. (ii) and in concluding provisions.
+2014—Subsec. (b)(3)(E). Pub. L. 113–295 struck out “, 244,” after “sections 243” in cl. (ii) and in concluding provisions.
 
 Subsec. (c)(5). Pub. L. 113–235 substituted “paragraphs (2) and (3) of subsection (a)” for “this section” and inserted “and for activities that improve health care quality” after “clinical services”.
 
 2010—Subsec. (c)(5). Pub. L. 111–148 added par. (5).
 
-1997—Subsec. (b)(1)(A)(i). Pub. L. 105–34, § 1604(d)(2)(A)(i), inserted “and liabilities incurred during the taxable year under cost-plus contracts” before the comma.
+1997—Subsec. (b)(1)(A)(i). Pub. L. 105–34, § 1604(d)(2)(A)(i), inserted “and liabilities incurred during the taxable year under cost-plus contracts” before the comma.
 
-Subsec. (b)(1)(A)(ii). Pub. L. 105–34, § 1604(d)(2)(A)(ii), inserted “or in connection with the administration of cost-plus contracts” before the last comma.
+Subsec. (b)(1)(A)(ii). Pub. L. 105–34, § 1604(d)(2)(A)(ii), inserted “or in connection with the administration of cost-plus contracts” before the last comma.
 
 1996—Subsec. (c)(4). Pub. L. 104–191 added par. (4).
 
@@ -3291,23 +3291,23 @@ Amendment by Pub. L. 113–295 not applicable to preferred stock issued before O
 
 Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
-Pub. L. 113–235, div. N, § 102(b), Dec. 16, 2014, 128 Stat. 2773, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2009.”
+Pub. L. 113–235, div. N, § 102(b), Dec. 16, 2014, 128 Stat. 2773, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2009.”
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–148, title IX, § 9016(b), Mar. 23, 2010, 124 Stat. 872, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2009.”
+Pub. L. 111–148, title IX, § 9016(b), Mar. 23, 2010, 124 Stat. 872, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2009.”
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title XVI, § 1604(d)(2)(B), Aug. 5, 1997, 111 Stat. 1098, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect as if included in the amendments made by section 1012 of the Tax Reform Act of 1986 [Pub. L. 99–514].”
+Pub. L. 105–34, title XVI, § 1604(d)(2)(B), Aug. 5, 1997, 111 Stat. 1098, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect as if included in the amendments made by section 1012 of the Tax Reform Act of 1986 [Pub. L. 99–514].”
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–191, title III, § 351(b), Aug. 21, 1996, 110 Stat. 2071, provided that: “The amendment made by this section [amending this section] shall apply to taxable years ending after December 31, 1996.”
+Pub. L. 104–191, title III, § 351(b), Aug. 21, 1996, 110 Stat. 2071, provided that: “The amendment made by this section [amending this section] shall apply to taxable years ending after December 31, 1996.”
 
 **Effective Date**
 
-Pub. L. 99–514, title X, § 1012(c), Oct. 22, 1986, 100 Stat. 2393, as amended by Pub. L. 100–647, title I, § 1010(b)(1), (2), Nov. 10, 1988, 102 Stat. 3451, provided that:
+Pub. L. 99–514, title X, § 1012(c), Oct. 22, 1986, 100 Stat. 2393, as amended by Pub. L. 100–647, title I, § 1010(b)(1), (2), Nov. 10, 1988, 102 Stat. 3451, provided that:
 
 > **“(1) In general.—** The amendments made by this section [enacting this section and amending section 501 of this title] shall apply to taxable years beginning after December 31, 1986.
 
@@ -3343,13 +3343,13 @@ Pub. L. 99–514, title X, § 1012(c), Oct. 22, 1986, 100 Stat. 2393, as amend
 
 > **“(D)** For purposes of this paragraph, the term ‘pension business’ means the administration of any plan described in section 401(a) of the Internal Revenue Code of 1954 [now 1986] which includes a trust exempt from tax under section 501(a), any plan under which amounts are contributed by an individual’s employer for an annuity contract described in section 403(b) of such Code, any individual retirement plan described in section 408 of such Code, and any eligible deferred compensation plan to which section 457(a) of such Code applies.”
 
-[The due date for the report referred to in section 1012(c)(2) of Pub. L. 99–514, set out above, extended to July 1, 1992, by Pub. L. 101–508, title XI, § 11831(b), Nov. 5, 1990, 104 Stat. 1388–559.]
+[The due date for the report referred to in section 1012(c)(2) of Pub. L. 99–514, set out above, extended to July 1, 1992, by Pub. L. 101–508, title XI, § 11831(b), Nov. 5, 1990, 104 Stat. 1388–559.]
 
 **Termination of Certain Exceptions From Rules Relating to Exempt Organizations Which Provide Commercial-Type Insurance**
 
-Pub. L. 105–277, div. J, title IV, § 4003(g), Oct. 21, 1998, 112 Stat. 2681–910, provided that: “Rules similar to the rules of section 1.1502–75(d)(5) of the Treasury Regulations shall apply with respect to any organization described in section 1042(b) of the 1997 Act [section 1042(b) of Pub. L. 105–34, set out below].”
+Pub. L. 105–277, div. J, title IV, § 4003(g), Oct. 21, 1998, 112 Stat. 2681–910, provided that: “Rules similar to the rules of section 1.1502–75(d)(5) of the Treasury Regulations shall apply with respect to any organization described in section 1042(b) of the 1997 Act [section 1042(b) of Pub. L. 105–34, set out below].”
 
-Pub. L. 105–34, title X, § 1042, Aug. 5, 1997, 111 Stat. 939, provided that:
+Pub. L. 105–34, title X, § 1042, Aug. 5, 1997, 111 Stat. 939, provided that:
 
 > **“(a) In General.—** Subparagraphs (A) and (B) of section 1012(c)(4) of the Tax Reform Act of 1986 [Pub. L. 99–514, set out as an Effective Date note above] shall not apply to any taxable year beginning after December 31, 1997.
 
@@ -3365,9 +3365,9 @@ Pub. L. 105–34, title X, § 1042, Aug. 5, 1997, 111 Stat. 939, provided that
 
 **Rules Providing Adjustments for Certain Taxpayers Affected by Section 1012 of Pub. L. 99–514**
 
-Pub. L. 100–647, title I, § 1010(b)(3), Nov. 10, 1988, 102 Stat. 3451, provided that: “The Secretary of the Treasury or his delegate may prescribe rules providing proper adjustments for taxpayers which become subject to subchapter L of chapter 1 of the 1986 Code by reason of the amendments made by section 1012 of the Reform Act [Pub. L. 99–514, enacting this section and amending section 501 of this title] with respect to short taxable years which begin during 1987 by reason of section 843 of such Code.”
+Pub. L. 100–647, title I, § 1010(b)(3), Nov. 10, 1988, 102 Stat. 3451, provided that: “The Secretary of the Treasury or his delegate may prescribe rules providing proper adjustments for taxpayers which become subject to subchapter L of chapter 1 of the 1986 Code by reason of the amendments made by section 1012 of the Reform Act [Pub. L. 99–514, enacting this section and amending section 501 of this title] with respect to short taxable years which begin during 1987 by reason of section 843 of such Code.”
 
-### § 834. Determination of taxable investment income
+### § 834. Determination of taxable investment income
 
 **(a) General rule**
 
@@ -3457,7 +3457,7 @@ The term “net premiums” means gross premiums (including deposits and assessm
 
 The term “dividends to policyholders” means dividends and similar distributions paid or declared to policyholders. For purposes of the preceding sentence, the term “paid or declared” shall be construed according to the method regularly employed in keeping the books of the insurance company.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 261, § 822; Mar. 13, 1956, ch. 83, § 3(a)(3)–(8), 70 Stat. 47, 48; Pub. L. 87–834, § 8(b), Oct. 16, 1962, 76 Stat. 991; Pub. L. 88–272, title II, § 228(b)(2), Feb. 26, 1964, 78 Stat. 99; Pub. L. 89–809, title I, § 104(i)(5), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 94–455, title XIX, §§ 1901(a)(105), (b)(1)(P)–(S), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1792, 1834; renumbered § 834 and amended Pub. L. 99–514, title X, § 1024(a)(3), (c)(7), (8), Oct. 22, 1986, 100 Stat. 2405, 2407; Pub. L. 115–97, title I, § 13001(b)(2)(I), Dec. 22, 2017, 131 Stat. 2096.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 261, § 822; Mar. 13, 1956, ch. 83, § 3(a)(3)–(8), 70 Stat. 47, 48; Pub. L. 87–834, § 8(b), Oct. 16, 1962, 76 Stat. 991; Pub. L. 88–272, title II, § 228(b)(2), Feb. 26, 1964, 78 Stat. 99; Pub. L. 89–809, title I, § 104(i)(5), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 94–455, title XIX, §§ 1901(a)(105), (b)(1)(P)–(S), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1782, 1792, 1834; renumbered § 834 and amended Pub. L. 99–514, title X, § 1024(a)(3), (c)(7), (8), Oct. 22, 1986, 100 Stat. 2405, 2407; Pub. L. 115–97, title I, § 13001(b)(2)(I), Dec. 22, 2017, 131 Stat. 2096.)
 
 **Editorial Notes**
 
@@ -3465,47 +3465,47 @@ The term “dividends to policyholders” means dividends and similar distributi
 
 2017—Subsec. (b)(1)(D). Pub. L. 115–97 struck out “sec. 1201 and following,” before “relating to capital gains and losses”.
 
-1986—Pub. L. 99–514, § 1024(a)(3), renumbered section 822 of this title as this section.
+1986—Pub. L. 99–514, § 1024(a)(3), renumbered section 822 of this title as this section.
 
-Subsec. (a). Pub. L. 99–514, § 1024(c)(7), amended subsec. (a) generally. Prior to amendment, subsec. (a), definitions, read as follows: “For purposes of this part—
+Subsec. (a). Pub. L. 99–514, § 1024(c)(7), amended subsec. (a) generally. Prior to amendment, subsec. (a), definitions, read as follows: “For purposes of this part—
 
 “(1) The term ‘taxable investment income’ means the gross investment income, minus the deductions provided in subsection (c).
 
 “(2) The term ‘investment loss’ means the amount by which the deductions provided in subsection (c) exceed the gross investment income.”
 
-Subsec. (d). Pub. L. 99–514, § 1024(c)(8), substituted “section 831” for “section 821” in pars. (1) and (2), and inserted “except in the case of discount which is original issue discount (as defined in section 1273)” at end of last sentence in par.
+Subsec. (d). Pub. L. 99–514, § 1024(c)(8), substituted “section 831” for “section 821” in pars. (1) and (2), and inserted “except in the case of discount which is original issue discount (as defined in section 1273)” at end of last sentence in par.
 
-1976—Subsec. (c)(2). Pub. L. 94–455, § 1901(b)(1)(P), struck out “partially tax-exempt interest and” before “dividends received allowed by”.
+1976—Subsec. (c)(2). Pub. L. 94–455, § 1901(b)(1)(P), struck out “partially tax-exempt interest and” before “dividends received allowed by”.
 
-Subsec. (c)(5). Pub. L. 94–455, § 1901(a)(105)(A), struck out “(other than obligations of the United States issued after September 24, 1917, and originally subscribed for by the taxpayer)” after “purchase or carry obligations”.
+Subsec. (c)(5). Pub. L. 94–455, § 1901(a)(105)(A), struck out “(other than obligations of the United States issued after September 24, 1917, and originally subscribed for by the taxpayer)” after “purchase or carry obligations”.
 
-Subsec. (c)(6)(A). Pub. L. 94–455, § 1901(b)(1)(Q), struck out “or to the deduction provided in section 242 for partially tax-exempt interest” after “exchanges of capital assets”.
+Subsec. (c)(6)(A). Pub. L. 94–455, § 1901(b)(1)(Q), struck out “or to the deduction provided in section 242 for partially tax-exempt interest” after “exchanges of capital assets”.
 
-Subsec. (c)(7). Pub. L. 94–455, § 1901(b)(1)(R), struck out “partially tax-exempt interest and to” after “and following, relating to”.
+Subsec. (c)(7). Pub. L. 94–455, § 1901(b)(1)(R), struck out “partially tax-exempt interest and to” after “and following, relating to”.
 
-Subsec. (d)(2). Pub. L. 94–455, §§ 1901(a)(105)(B), (b)(1)(S), 1906(b)(13)(A), struck out in subpar. (B) “or his delegate” after “Secretary” and substituted in provisions preceding subpar. (A) “and the deduction provided in subsection (c)(1)” for “, the deduction provided in subsection (c)(1), and the deduction allowed by section 242 (relating to partially tax-exempt interest)” and in provisions following subpar. (B) “No accrual” for “For taxable years beginning after December 31, 1962, no accrual”.
+Subsec. (d)(2). Pub. L. 94–455, §§ 1901(a)(105)(B), (b)(1)(S), 1906(b)(13)(A), struck out in subpar. (B) “or his delegate” after “Secretary” and substituted in provisions preceding subpar. (A) “and the deduction provided in subsection (c)(1)” for “, the deduction provided in subsection (c)(1), and the deduction allowed by section 242 (relating to partially tax-exempt interest)” and in provisions following subpar. (B) “No accrual” for “For taxable years beginning after December 31, 1962, no accrual”.
 
 1966—Subsecs. (e), (f). Pub. L. 89–809 redesignated subsec. (f) as (e). Former subsec. (e), dealing with foreign mutual insurance companies other than life or marine, was struck out.
 
 1964—Subsec. (d)(2). Pub. L. 88–272 provided that for taxable years beginning after Dec. 31, 1962, no accrual of discount shall be required under par. (2) on any bond.
 
-1962—Pub. L. 87–834, § 8(b)(1), substituted “Determination of taxable investment income” for “Determination of mutual insurance company taxable income” in section catchline.
+1962—Pub. L. 87–834, § 8(b)(1), substituted “Determination of taxable investment income” for “Determination of mutual insurance company taxable income” in section catchline.
 
-Subsec. (a). Pub. L. 87–834, § 8(b)(1), defined “taxable investment income” and “investment loss” for purposes of this part, and struck out provisions which defined “mutual insurance company taxable income” for purposes of section 821 of this title, which provisions are now contained in section 821(b) of this title.
+Subsec. (a). Pub. L. 87–834, § 8(b)(1), defined “taxable investment income” and “investment loss” for purposes of this part, and struck out provisions which defined “mutual insurance company taxable income” for purposes of section 821 of this title, which provisions are now contained in section 821(b) of this title.
 
-Subsec. (c). Pub. L. 87–834, § 8(b)(2), (3), substituted “taxable investment income” for “mutual insurance company taxable income” in opening provisions and in pars. (2) and (6)(A), and inserted sentence in par. (7) providing that in applying section 246(b) (relating to limitations on aggregate amount of deductions for dividends received) for purposes of par. (7), reference in such section to “taxable income” shall be treated as a reference to “taxable investment income”.
+Subsec. (c). Pub. L. 87–834, § 8(b)(2), (3), substituted “taxable investment income” for “mutual insurance company taxable income” in opening provisions and in pars. (2) and (6)(A), and inserted sentence in par. (7) providing that in applying section 246(b) (relating to limitations on aggregate amount of deductions for dividends received) for purposes of par. (7), reference in such section to “taxable income” shall be treated as a reference to “taxable investment income”.
 
-Subsec. (e). Pub. L. 87–834, § 8(b)(2), substituted “taxable investment income” for “mutual insurance company taxable income”.
+Subsec. (e). Pub. L. 87–834, § 8(b)(2), substituted “taxable investment income” for “mutual insurance company taxable income”.
 
-Subsec. (f). Pub. L. 87–834, § 8(b)(4), added subsec. (f). Provisions of subsec. (f) were formerly contained in section 823 of this title.
+Subsec. (f). Pub. L. 87–834, § 8(b)(4), added subsec. (f). Provisions of subsec. (f) were formerly contained in section 823 of this title.
 
-1956—Subsec. (b). Act Mar. 13, 1956, § 3(a)(3), principally included royalties, and the income from a trade or business other than the insurance business carried on by the insurance company in “gross investment income”.
+1956—Subsec. (b). Act Mar. 13, 1956, § 3(a)(3), principally included royalties, and the income from a trade or business other than the insurance business carried on by the insurance company in “gross investment income”.
 
-Subsec. (c). Act Mar. 13, 1956, § 3(a)(4), (5), (6), clarified the deduction for real estate expenses in par. (3), substituted in par. (6) “the sum of the items described in subsection (b) (other than paragraph (1)(D) thereof) and net premiums received. In the application of section 1212” for “the sum of interest, dividends, rents, and net premiums received. In the application of section 1211”, and inserted pars. (8) and (9).
+Subsec. (c). Act Mar. 13, 1956, § 3(a)(4), (5), (6), clarified the deduction for real estate expenses in par. (3), substituted in par. (6) “the sum of the items described in subsection (b) (other than paragraph (1)(D) thereof) and net premiums received. In the application of section 1212” for “the sum of interest, dividends, rents, and net premiums received. In the application of section 1211”, and inserted pars. (8) and (9).
 
-Subsec. (d)(1). Act Mar. 13, 1956, § 3(a)(7), substituted “subsection (c)(3) or (4)” for “subsection (e)(3) or (4)”.
+Subsec. (d)(1). Act Mar. 13, 1956, § 3(a)(7), substituted “subsection (c)(3) or (4)” for “subsection (e)(3) or (4)”.
 
-Subsec. (e). Act Mar. 13, 1956, § 3(a)(8), substituted “items described in subsection (b) (other than paragraph (1)(D) thereof” for “interest, dividends, rents,”.
+Subsec. (e). Act Mar. 13, 1956, § 3(a)(8), substituted “items described in subsection (b) (other than paragraph (1)(D) thereof” for “interest, dividends, rents,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3533,7 +3533,7 @@ Amendment by Pub. L. 87–834 applicable with respect to taxable years beginning
 
 Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after Dec. 31, 1954, see section 6 of act Mar. 13, 1956, set out as a note set out under section 316 of this title.
 
-### § 835. Election by reciprocal
+### § 835. Election by reciprocal
 
 **(a) In general**
 
@@ -3569,23 +3569,23 @@ If for any taxable year an attorney-in-fact is allowed a credit or refund for ta
 
 Nothing in this section shall increase or decrease the taxes imposed by this chapter on the income of the attorney-in-fact.
 
-(Added Pub. L. 87–834, § 8(c), Oct. 16, 1962, 76 Stat. 996, § 826; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title III, § 301(b)(10), Nov. 6, 1978, 92 Stat. 2822; renumbered § 835 and amended Pub. L. 99–514, title X, § 1024(a)(3), (c)(9), Oct. 22, 1986, 100 Stat. 2405, 2407; Pub. L. 100–647, title I, § 1010(f)(2), (3), Nov. 10, 1988, 102 Stat. 3454.)
+(Added Pub. L. 87–834, § 8(c), Oct. 16, 1962, 76 Stat. 996, § 826; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title III, § 301(b)(10), Nov. 6, 1978, 92 Stat. 2822; renumbered § 835 and amended Pub. L. 99–514, title X, § 1024(a)(3), (c)(9), Oct. 22, 1986, 100 Stat. 2405, 2407; Pub. L. 100–647, title I, § 1010(f)(2), (3), Nov. 10, 1988, 102 Stat. 3454.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsec. (a). Pub. L. 100–647, § 1010(f)(2), substituted “section 831(a)” for “section 821(a)”.
+1988—Subsec. (a). Pub. L. 100–647, § 1010(f)(2), substituted “section 831(a)” for “section 821(a)”.
 
-Subsec. (f). Pub. L. 100–647, § 1010(f)(3), substituted “subsection (d)” for “subsection (e)”.
+Subsec. (f). Pub. L. 100–647, § 1010(f)(3), substituted “subsection (d)” for “subsection (e)”.
 
-1986—Pub. L. 99–514, § 1024(a)(3), renumbered section 826 of this title as this section.
+1986—Pub. L. 99–514, § 1024(a)(3), renumbered section 826 of this title as this section.
 
-Subsec. (d). Pub. L. 99–514, § 1024(c)(9)(A), redesignated subsec. (e) as (d) and struck out former subsec. (d), special rule, which read as follows: “In applying section 824(d)(1)(D), any amount which was added to the protection against loss account by reason of an election under this section shall be treated as having been added by reason of section 824(a)(1)(A).”
+Subsec. (d). Pub. L. 99–514, § 1024(c)(9)(A), redesignated subsec. (e) as (d) and struck out former subsec. (d), special rule, which read as follows: “In applying section 824(d)(1)(D), any amount which was added to the protection against loss account by reason of an election under this section shall be treated as having been added by reason of section 824(a)(1)(A).”
 
-Subsec. (e). Pub. L. 99–514, § 1024(c)(9), redesignated subsec. (f) as (e), substituted “Benefits of graduated rates” for “Surtax exemption” in heading, and amended text generally. Prior to amendment, text read as follows: “Any increase in taxable income of a reciprocal attributable to the limitation provided in subsection (b) shall be taxed without regard to the surtax exemption provided in section 821(a)(2).” Former subsec. (e) redesignated (d).
+Subsec. (e). Pub. L. 99–514, § 1024(c)(9), redesignated subsec. (f) as (e), substituted “Benefits of graduated rates” for “Surtax exemption” in heading, and amended text generally. Prior to amendment, text read as follows: “Any increase in taxable income of a reciprocal attributable to the limitation provided in subsection (b) shall be taxed without regard to the surtax exemption provided in section 821(a)(2).” Former subsec. (e) redesignated (d).
 
-Subsecs. (f) to (h). Pub. L. 99–514, § 1024(c)(9)(A), redesignated subsecs. (f) to (h) as (e) to (g), respectively.
+Subsecs. (f) to (h). Pub. L. 99–514, § 1024(c)(9)(A), redesignated subsecs. (f) to (h) as (e) to (g), respectively.
 
 1978—Subsec. (c)(1). Pub. L. 95–600 substituted “the tax imposed by section 11” for “the taxes imposed by section 11(b) and (c)”.
 
@@ -3615,25 +3615,25 @@ Section applicable with respect to taxable years beginning after Dec. 31, 1962, 
 
 **Amendments**
 
-2017—Pub. L. 115–97, title I, §§ 13511(b)(2)(A), 13516(a), Dec. 22, 2017, 131 Stat. 2142, 2144, struck out items 844 “Special loss carryover rules” and 847 “Special estimated tax payments”.
+2017—Pub. L. 115–97, title I, §§ 13511(b)(2)(A), 13516(a), Dec. 22, 2017, 131 Stat. 2142, 2144, struck out items 844 “Special loss carryover rules” and 847 “Special estimated tax payments”.
 
-1990—Pub. L. 101–508, title XI, § 11301(c), Nov. 5, 1990, 104 Stat. 1388–449, added item 848.
+1990—Pub. L. 101–508, title XI, § 11301(c), Nov. 5, 1990, 104 Stat. 1388–449, added item 848.
 
-1989—Pub. L. 101–239, title VII, § 7821(d)(1), Dec. 19, 1989, 103 Stat. 2424, substituted “companies” for “corporations” in item 842.
+1989—Pub. L. 101–239, title VII, § 7821(d)(1), Dec. 19, 1989, 103 Stat. 2424, substituted “companies” for “corporations” in item 842.
 
-1988—Pub. L. 100–647, title VI, § 6077(b), Nov. 10, 1988, 102 Stat. 3709, added item 847.
+1988—Pub. L. 100–647, title VI, § 6077(b), Nov. 10, 1988, 102 Stat. 3709, added item 847.
 
-1986—Pub. L. 99–514, title X, §§ 1023(d), 1024(a)(2), Oct. 22, 1986, 100 Stat. 2404, 2405, redesignated part IV as III and added item 846. Former part III redesignated II.
+1986—Pub. L. 99–514, title X, §§ 1023(d), 1024(a)(2), Oct. 22, 1986, 100 Stat. 2404, 2405, redesignated part IV as III and added item 846. Former part III redesignated II.
 
-1984—Pub. L. 98–369, div. A, title II, § 212(b), July 18, 1984, 98 Stat. 758, added item 845.
+1984—Pub. L. 98–369, div. A, title II, § 212(b), July 18, 1984, 98 Stat. 758, added item 845.
 
-1969—Pub. L. 91–172, title IX, § 907(c)(2)(A), Dec. 30, 1969, 83 Stat. 717, added item 844.
+1969—Pub. L. 91–172, title IX, § 907(c)(2)(A), Dec. 30, 1969, 83 Stat. 717, added item 844.
 
-1966—Pub. L. 89–809, title I, § 104(i)(2), Nov. 13, 1966, 80 Stat. 1561, substituted “Foreign corporations carrying on insurance business” for “Computation of gross income” in item 842.
+1966—Pub. L. 89–809, title I, § 104(i)(2), Nov. 13, 1966, 80 Stat. 1561, substituted “Foreign corporations carrying on insurance business” for “Computation of gross income” in item 842.
 
-1956—Act Mar. 13, 1956, ch. 83, § 4(b), 70 Stat. 49, added item 843.
+1956—Act Mar. 13, 1956, ch. 83, § 4(b), 70 Stat. 49, added item 843.
 
-### § 841. Credit for foreign taxes
+### § 841. Credit for foreign taxes
 
 The taxes imposed by foreign countries or possessions of the United States shall be allowed as a credit against the tax of a domestic insurance company subject to the tax imposed by section 801 or 831, to the extent provided in the case of a domestic corporation in section 901 (relating to foreign tax credit). For purposes of the preceding sentence (and for purposes of applying section 906 with respect to a foreign corporation subject to tax under this subchapter), the term “taxable income” as used in section 904 means—
 
@@ -3641,7 +3641,7 @@ The taxes imposed by foreign countries or possessions of the United States shall
 
 **(2)** in the case of the tax imposed by section 831, the taxable income (as defined in section 832(a)).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 267; Mar. 13, 1956, ch. 83, § 5(4), 70 Stat. 49; Pub. L. 86–69, § 3(b), June 25, 1959, 73 Stat. 139; Pub. L. 87–834, § 8(g)(1), Oct. 16, 1962, 76 Stat. 998; Pub. L. 89–809, title I, § 104(i)(8), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 98–369, div. A, title II, § 211(b)(10), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title X, § 1024(c)(10), Oct. 22, 1986, 100 Stat. 2407.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 267; Mar. 13, 1956, ch. 83, § 5(4), 70 Stat. 49; Pub. L. 86–69, § 3(b), June 25, 1959, 73 Stat. 139; Pub. L. 87–834, § 8(g)(1), Oct. 16, 1962, 76 Stat. 998; Pub. L. 89–809, title I, § 104(i)(8), Nov. 13, 1966, 80 Stat. 1562; Pub. L. 98–369, div. A, title II, § 211(b)(10), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title X, § 1024(c)(10), Oct. 22, 1986, 100 Stat. 2407.)
 
 **Editorial Notes**
 
@@ -3685,7 +3685,7 @@ Amendment by Pub. L. 86–69 applicable only with respect to taxable years begin
 
 Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after Dec. 31, 1954, see section 6 of act Mar. 13, 1956, set out as a note under section 316 of this title.
 
-### § 842. Foreign companies carrying on insurance business
+### § 842. Foreign companies carrying on insurance business
 
 **(a) Taxation under this subchapter**
 
@@ -3779,7 +3779,7 @@ Each domestic asset/liability percentage, and each domestic investment yield, fo
 
 **(4)** which may provide that, in the case of companies taxable under part II of this subchapter, determinations under subsection (b) will be made separately for categories of such companies established in such regulations.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 267; Mar. 13, 1956, ch. 83, § 5(5), 70 Stat. 49; Pub. L. 86–69, § 3(f)(1), June 25, 1959, 73 Stat. 140; Pub. L. 89–809, title I, § 104(i)(1), Nov. 13, 1966, 80 Stat. 1561; Pub. L. 99–514, title X, § 1024(c)(11), Oct. 22, 1986, 100 Stat. 2408; Pub. L. 100–203, title X, § 10242(a), Dec. 22, 1987, 101 Stat. 1330–420; Pub. L. 100–647, title II, § 2004(q)(2), (3), Nov. 10, 1988, 102 Stat. 3609; Pub. L. 101–239, title VII, § 7821(d)(2), Dec. 19, 1989, 103 Stat. 2424; Pub. L. 108–218, title II, § 205(b)(6), Apr. 10, 2004, 118 Stat. 610; Pub. L. 115–97, title I, § 13512(b)(7), Dec. 22, 2017, 131 Stat. 2143.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 267; Mar. 13, 1956, ch. 83, § 5(5), 70 Stat. 49; Pub. L. 86–69, § 3(f)(1), June 25, 1959, 73 Stat. 140; Pub. L. 89–809, title I, § 104(i)(1), Nov. 13, 1966, 80 Stat. 1561; Pub. L. 99–514, title X, § 1024(c)(11), Oct. 22, 1986, 100 Stat. 2408; Pub. L. 100–203, title X, § 10242(a), Dec. 22, 1987, 101 Stat. 1330–420; Pub. L. 100–647, title II, § 2004(q)(2), (3), Nov. 10, 1988, 102 Stat. 3609; Pub. L. 101–239, title VII, § 7821(d)(2), Dec. 19, 1989, 103 Stat. 2424; Pub. L. 108–218, title II, § 205(b)(6), Apr. 10, 2004, 118 Stat. 610; Pub. L. 115–97, title I, § 13512(b)(7), Dec. 22, 2017, 131 Stat. 2143.)
 
 **Editorial Notes**
 
@@ -3795,11 +3795,11 @@ Each domestic asset/liability percentage, and each domestic investment yield, fo
 
 1989—Subsec. (c)(4). Pub. L. 101–239 substituted “yields” for “yeilds” in heading.
 
-1988—Subsec. (b)(3)(B). Pub. L. 100–647, § 2004(q)(2)(A), struck out “held for the production of such income” after “same companies”.
+1988—Subsec. (b)(3)(B). Pub. L. 100–647, § 2004(q)(2)(A), struck out “held for the production of such income” after “same companies”.
 
-Subsec. (b)(4)(B)(ii). Pub. L. 100–647, § 2004(q)(2)(B), struck out “held for the production of investment income” after “United States)”.
+Subsec. (b)(4)(B)(ii). Pub. L. 100–647, § 2004(q)(2)(B), struck out “held for the production of investment income” after “United States)”.
 
-Subsec. (d)(4). Pub. L. 100–647, § 2004(q)(3), added par. (4).
+Subsec. (d)(4). Pub. L. 100–647, § 2004(q)(3), added par. (4).
 
 1987—Pub. L. 100–203 substituted “companies” for “corporations” in section catchline and amended text generally. Prior to amendment, text read as follows: “If a foreign corporation carrying on an insurance business within the United States would qualify under part I or II of this subchapter for the taxable year if (without regard to income not effectively connected with the conduct of any trade or business within the United States) it were a domestic corporation, such corporation shall be taxable under such part on its income effectively connected with its conduct of any trade or business within the United States. With respect to the remainder of its income, which is from sources within the United States, such a foreign corporation shall be taxable as provided in section 881.”
 
@@ -3851,13 +3851,13 @@ Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after
 
 **Study of United States Reinsurance Industry**
 
-Pub. L. 99–514, title XII, § 1244, Oct. 22, 1986, 100 Stat. 2581, directed Secretary of the Treasury or his delegate to conduct a study to determine whether United States reinsurance corporations are placed at a significant competitive disadvantage with foreign reinsurance corporations by existing treaties between the United States and foreign countries, and to report before Jan. 1, 1988, the results of such study to Committee on Finance of United States Senate and Committee on Ways and Means of House of Representatives.
+Pub. L. 99–514, title XII, § 1244, Oct. 22, 1986, 100 Stat. 2581, directed Secretary of the Treasury or his delegate to conduct a study to determine whether United States reinsurance corporations are placed at a significant competitive disadvantage with foreign reinsurance corporations by existing treaties between the United States and foreign countries, and to report before Jan. 1, 1988, the results of such study to Committee on Finance of United States Senate and Committee on Ways and Means of House of Representatives.
 
-### § 843. Annual accounting period
+### § 843. Annual accounting period
 
 For purposes of this subtitle, the annual accounting period for each insurance company subject to a tax imposed by this subchapter shall be the calendar year. Under regulations prescribed by the Secretary, an insurance company which joins in the filing of a consolidated return (or is required to so file) may adopt the taxable year of the common parent corporation even though such year is not a calendar year.
 
-(Added Mar. 13, 1956, ch. 83, § 4(a), 70 Stat. 48; amended Pub. L. 94–455, title XV, § 1507(b)(2), Oct. 4, 1976, 90 Stat. 1740.)
+(Added Mar. 13, 1956, ch. 83, § 4(a), 70 Stat. 48; amended Pub. L. 94–455, title XV, § 1507(b)(2), Oct. 4, 1976, 90 Stat. 1740.)
 
 **Editorial Notes**
 
@@ -3875,9 +3875,9 @@ Amendment by Pub. L. 94–455 applicable to taxable years beginning after Dec. 3
 
 Section applicable only to taxable years beginning after Dec. 31, 1954, see Effective Date of 1956 Amendment note set out under section 316 of this title.
 
-### [§ 844. Repealed. Pub. L. 115–97, title I, § 13511(b)(2)(A), Dec. 22, 2017, 131 Stat. 2142]
+### [§ 844. Repealed. Pub. L. 115–97, title I, § 13511(b)(2)(A), Dec. 22, 2017, 131 Stat. 2142]
 
-Section, added Pub. L. 91–172, title IX, § 907(c)(1), Dec. 30, 1969, 83 Stat. 716; amended Pub. L. 94–455, title XIX, §§ 1901(b)(25), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1798, 1834; Pub. L. 98–369, div. A, title II, § 211(b)(11), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title X, § 1024(c)(12), title XVIII, § 1899A(20), Oct. 22, 1986, 100 Stat. 2408, 2959; Pub. L. 101–239, title VII, § 7841(d)(16), Dec. 19, 1989, 103 Stat. 2429, related to special loss carryover rules.
+Section, added Pub. L. 91–172, title IX, § 907(c)(1), Dec. 30, 1969, 83 Stat. 716; amended Pub. L. 94–455, title XIX, §§ 1901(b)(25), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1798, 1834; Pub. L. 98–369, div. A, title II, § 211(b)(11), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title X, § 1024(c)(12), title XVIII, § 1899A(20), Oct. 22, 1986, 100 Stat. 2408, 2959; Pub. L. 101–239, title VII, § 7841(d)(16), Dec. 19, 1989, 103 Stat. 2429, related to special loss carryover rules.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3885,7 +3885,7 @@ Section, added Pub. L. 91–172, title IX, § 907(c)(1), Dec. 30, 1969, 83 Sta
 
 Repeal applicable to losses arising in taxable years beginning after Dec. 31, 2017, see section 13511(c) of Pub. L. 115–97, set out as an Effective Date of 2017 Amendment note under section 381 of this title.
 
-### § 845. Certain reinsurance agreements
+### § 845. Certain reinsurance agreements
 
 **(a) Allocation in case of reinsurance agreement involving tax avoidance or evasion** In the case of 2 or more related persons (within the meaning of section 482) who are parties to a reinsurance agreement (or where one of the parties to a reinsurance agreement is, with respect to any contract covered by the agreement, in effect an agent of another party to such agreement or a conduit between related persons), the Secretary may—
 
@@ -3901,7 +3901,7 @@ if he determines that such allocation, recharacterization, or adjustment is nece
 
 If the Secretary determines that any reinsurance contract has a significant tax avoidance effect on any party to such contract, the Secretary may make proper adjustments with respect to such party to eliminate such tax avoidance effect (including treating such contract with respect to such party as terminated on December 31 of each year and reinstated on January 1 of the next year).
 
-(Added Pub. L. 98–369, div. A, title II, § 212(a), July 18, 1984, 98 Stat. 757; amended Pub. L. 108–357, title VIII, § 803(a), Oct. 22, 2004, 118 Stat. 1569.)
+(Added Pub. L. 98–369, div. A, title II, § 212(a), July 18, 1984, 98 Stat. 757; amended Pub. L. 108–357, title VIII, § 803(a), Oct. 22, 2004, 118 Stat. 1569.)
 
 **Editorial Notes**
 
@@ -3913,17 +3913,17 @@ If the Secretary determines that any reinsurance contract has a significant tax 
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title VIII, § 803(b), Oct. 22, 2004, 118 Stat. 1569, provided that: “The amendments made by this section [amending this section] shall apply to any risk reinsured after the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title VIII, § 803(b), Oct. 22, 2004, 118 Stat. 1569, provided that: “The amendments made by this section [amending this section] shall apply to any risk reinsured after the date of the enactment of this Act [Oct. 22, 2004].”
 
 **Effective Date**
 
-Pub. L. 98–369, div. A, title II, § 217(d), July 18, 1984, 98 Stat. 762, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title II, § 217(d), July 18, 1984, 98 Stat. 762, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1)** Subsection (a) of section 845 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as added by this title) shall apply with respect to any risk reinsured on or after September 27, 1983.
 
 > **“(2)** Subsection (b) of section 845 of such Code (as so added) shall apply with respect to risks reinsured after December 31, 1984.”
 
-### § 846. Discounted unpaid losses defined
+### § 846. Discounted unpaid losses defined
 
 **(a) Discounted losses determined**
 
@@ -4051,35 +4051,35 @@ The term “multiple peril lines” means the lines of business relating to farm
 
 **(2)** regulations providing appropriate adjustments in the application of this section to a taxpayer having a taxable year which is not the calendar year.
 
-(Added Pub. L. 99–514, title X, § 1023(c), Oct. 22, 1986, 100 Stat. 2399; amended Pub. L. 100–647, title I, § 1010(e)(1), (2), Nov. 10, 1988, 102 Stat. 3453; Pub. L. 101–508, title XI, § 11305(b), Nov. 5, 1990, 104 Stat. 1388–451; Pub. L. 115–97, title I, §§ 13517(b)(3), 13523(a)–(c), Dec. 22, 2017, 131 Stat. 2147, 2152.)
+(Added Pub. L. 99–514, title X, § 1023(c), Oct. 22, 1986, 100 Stat. 2399; amended Pub. L. 100–647, title I, § 1010(e)(1), (2), Nov. 10, 1988, 102 Stat. 3453; Pub. L. 101–508, title XI, § 11305(b), Nov. 5, 1990, 104 Stat. 1388–451; Pub. L. 115–97, title I, §§ 13517(b)(3), 13523(a)–(c), Dec. 22, 2017, 131 Stat. 2147, 2152.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Subsec. (c)(2). Pub. L. 115–97, § 13523(a), amended par. (2) generally. Prior to amendment, text read as follows:
+2017—Subsec. (c)(2). Pub. L. 115–97, § 13523(a), amended par. (2) generally. Prior to amendment, text read as follows:
 
 “(A) In general.—The annual rate determined by the Secretary under this paragraph for any calendar year shall be a rate equal to the average of the applicable Federal mid-term rates (as defined in section 1274(d) but based on annual compounding) effective as of the beginning of each of the calendar months in the test period.
 
 “(B) Test period.—For purposes of subparagraph (A), the test period is the most recent 60-calendar-month period ending before the beginning of the calendar year for which the determination is made; except that there shall be excluded from the test period any month beginning before August 1, 1986.”
 
-Subsec. (d)(3)(B) to (G). Pub. L. 115–97, § 13523(b), added subpar. (B) and struck out former subpars. (B) to (G) which related to treatment of certain losses, special rule for certain long-tail lines, long-tail line of business, special rule for international and reinsurance lines of business, adjustments if loss experience information available for longer periods, and special rule for 9th year if negative or zero, respectively.
+Subsec. (d)(3)(B) to (G). Pub. L. 115–97, § 13523(b), added subpar. (B) and struck out former subpars. (B) to (G) which related to treatment of certain losses, special rule for certain long-tail lines, long-tail line of business, special rule for international and reinsurance lines of business, adjustments if loss experience information available for longer periods, and special rule for 9th year if negative or zero, respectively.
 
-Subsecs. (e), (f). Pub. L. 115–97, § 13523(c), redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e) which related to election to use company’s historical payment pattern.
+Subsecs. (e), (f). Pub. L. 115–97, § 13523(c), redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e) which related to election to use company’s historical payment pattern.
 
-Subsec. (f)(6)(A). Pub. L. 115–97, § 13517(b)(3), substituted “except that the limitation of subsection (a)(3) shall apply, and” for “except that—
+Subsec. (f)(6)(A). Pub. L. 115–97, § 13517(b)(3), substituted “except that the limitation of subsection (a)(3) shall apply, and” for “except that—
 
 “(i) the prevailing State assumed interest rate shall be the rate in effect for the year in which the loss occurred rather than the year in which the contract was issued, and
 
 “(ii) the limitation of subsection (a)(3) shall apply in lieu of the limitation of the last sentence of section 807(d)(1), and”.
 
-Subsec. (g). Pub. L. 115–97, § 13523(c), redesignated subsec. (g) as (f).
+Subsec. (g). Pub. L. 115–97, § 13523(c), redesignated subsec. (g) as (f).
 
 1990—Subsec. (g). Pub. L. 101–508 inserted “and” at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which required regulations providing proper treatment of salvage and reinsurance recoverable attributable to unpaid losses.
 
-1988—Subsec. (f)(6)(B). Pub. L. 100–647, § 1010(e)(1), substituted “paid in the middle of the year” for “paid during the year”.
+1988—Subsec. (f)(6)(B). Pub. L. 100–647, § 1010(e)(1), substituted “paid in the middle of the year” for “paid during the year”.
 
-Subsec. (g)(3). Pub. L. 100–647, § 1010(e)(2), added par. (3).
+Subsec. (g)(3). Pub. L. 100–647, § 1010(e)(2), added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4087,7 +4087,7 @@ Subsec. (g)(3). Pub. L. 100–647, § 1010(e)(2), added par. (3).
 
 Amendment by section 13517(b)(3) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, with transition rule and transition relief, see section 13517(c) of Pub. L. 115–97, set out as a note under section 807 of this title.
 
-Pub. L. 115–97, title I, § 13523(d), Dec. 22, 2017, 131 Stat. 2152, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017.”
+Pub. L. 115–97, title I, § 13523(d), Dec. 22, 2017, 131 Stat. 2152, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017.”
 
 **Effective Date of 1990 Amendment**
 
@@ -4099,7 +4099,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 **Effective Date**
 
-Pub. L. 99–514, title X, § 1023(e), Oct. 22, 1986, 100 Stat. 2404, as amended by Pub. L. 100–647, title I, § 1010(e)(3), Nov. 10, 1988, 102 Stat. 3453, provided that:
+Pub. L. 99–514, title X, § 1023(e), Oct. 22, 1986, 100 Stat. 2404, as amended by Pub. L. 100–647, title I, § 1010(e)(3), Nov. 10, 1988, 102 Stat. 3453, provided that:
 
 > **“(1) In general.—** The amendments made by this section [enacting this section and amending sections 807 and 832 of this title] shall apply to taxable years beginning after December 31, 1986.
 
@@ -4139,7 +4139,7 @@ Pub. L. 99–514, title X, § 1023(e), Oct. 22, 1986, 100 Stat. 2404, as amend
 
 **Transitional Rule**
 
-Pub. L. 115–97, title I, § 13523(e), Dec. 22, 2017, 131 Stat. 2152, provided that:
+Pub. L. 115–97, title I, § 13523(e), Dec. 22, 2017, 131 Stat. 2152, provided that:
 
 > “For the first taxable year beginning after December 31, 2017—
 
@@ -4149,17 +4149,17 @@ Pub. L. 115–97, title I, § 13523(e), Dec. 22, 2017, 131 Stat. 2152, provide
 
 > shall be determined as if the amendments made by this section [amending this section] had applied to such unpaid losses and expenses unpaid in the preceding taxable year and by using the interest rate and loss payment patterns applicable to accident years ending with calendar year 2018, and any adjustment shall be taken into account ratably in such first taxable year and the 7 succeeding taxable years. For subsequent taxable years, such amendments shall be applied with respect to such unpaid losses and expenses unpaid by using the interest rate and loss payment patterns applicable to accident years ending with calendar year 2018.”
 
-### [§ 847. Repealed. Pub. L. 115–97, title I, § 13516(a), Dec. 22, 2017, 131 Stat. 2144]
+### [§ 847. Repealed. Pub. L. 115–97, title I, § 13516(a), Dec. 22, 2017, 131 Stat. 2144]
 
-Section, added Pub. L. 100–647, title VI, § 6077(a), Nov. 10, 1988, 102 Stat. 3707; amended Pub. L. 101–239, title VII, § 7816(n), Dec. 19, 1989, 103 Stat. 2422; Pub. L. 115–97, title I, § 12001(b)(8)(B), Dec. 22, 2017, 131 Stat. 2093, related to special estimated tax payments.
+Section, added Pub. L. 100–647, title VI, § 6077(a), Nov. 10, 1988, 102 Stat. 3707; amended Pub. L. 101–239, title VII, § 7816(n), Dec. 19, 1989, 103 Stat. 2422; Pub. L. 115–97, title I, § 12001(b)(8)(B), Dec. 22, 2017, 131 Stat. 2093, related to special estimated tax payments.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Pub. L. 115–97, title I, § 13516(b), Dec. 22, 2017, 131 Stat. 2144, provided that: “The amendments made by this section [repealing this section] shall apply to taxable years beginning after December 31, 2017.”
+Pub. L. 115–97, title I, § 13516(b), Dec. 22, 2017, 131 Stat. 2144, provided that: “The amendments made by this section [repealing this section] shall apply to taxable years beginning after December 31, 2017.”
 
-### § 848. Capitalization of certain policy acquisition expenses
+### § 848. Capitalization of certain policy acquisition expenses
 
 **(a) General rule** In the case of an insurance company—
 
@@ -4303,25 +4303,25 @@ Except as provided in paragraph (2), the Secretary may provide that a type of in
 
 If the Secretary exercises his authority with respect to any type of contract under paragraph (1), the Secretary shall adjust the percentage which would otherwise have applied under subsection (c)(1) to the category which includes such type of contract so that the exercise of such authority does not result in a decrease in the amount of revenue received under this chapter by reason of this section for any fiscal year.
 
-(Added Pub. L. 101–508, title XI, § 11301(a), Nov. 5, 1990, 104 Stat. 1388–445; amended Pub. L. 103–66, title XIII, § 13261(d), Aug. 10, 1993, 107 Stat. 539; Pub. L. 104–191, title III, § 301(h), Aug. 21, 1996, 110 Stat. 2052; Pub. L. 106–554, § 1(a)(7) [title II, § 202(a)(5), (b)(10)], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 108–173, title XII, § 1201(h), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 109–280, title VIII, § 844(e), Aug. 17, 2006, 120 Stat. 1013; Pub. L. 113–295, div. A, title II, § 221(a)(70), Dec. 19, 2014, 128 Stat. 4048; Pub. L. 115–97, title I, §§ 12001(b)(8)(C), 13517(b)(4), 13519(a), (b), Dec. 22, 2017, 131 Stat. 2093, 2147, 2148.)
+(Added Pub. L. 101–508, title XI, § 11301(a), Nov. 5, 1990, 104 Stat. 1388–445; amended Pub. L. 103–66, title XIII, § 13261(d), Aug. 10, 1993, 107 Stat. 539; Pub. L. 104–191, title III, § 301(h), Aug. 21, 1996, 110 Stat. 2052; Pub. L. 106–554, § 1(a)(7) [title II, § 202(a)(5), (b)(10)], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 108–173, title XII, § 1201(h), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 109–280, title VIII, § 844(e), Aug. 17, 2006, 120 Stat. 1013; Pub. L. 113–295, div. A, title II, § 221(a)(70), Dec. 19, 2014, 128 Stat. 4048; Pub. L. 115–97, title I, §§ 12001(b)(8)(C), 13517(b)(4), 13519(a), (b), Dec. 22, 2017, 131 Stat. 2093, 2147, 2148.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Subsec. (a)(2). Pub. L. 115–97, § 13519(a)(1), substituted “180-month” for “120-month”.
+2017—Subsec. (a)(2). Pub. L. 115–97, § 13519(a)(1), substituted “180-month” for “120-month”.
 
-Subsec. (b)(1). Pub. L. 115–97, § 13519(b), substituted “180-month” for “120-month”.
+Subsec. (b)(1). Pub. L. 115–97, § 13519(b), substituted “180-month” for “120-month”.
 
-Subsec. (c)(1)(A). Pub. L. 115–97, § 13519(a)(2), substituted “2.09 percent” for “1.75 percent”.
+Subsec. (c)(1)(A). Pub. L. 115–97, § 13519(a)(2), substituted “2.09 percent” for “1.75 percent”.
 
-Subsec. (c)(1)(B). Pub. L. 115–97, § 13519(a)(3), which directed substitution of “2.45 percent” for “2.05 percent” in par. (2), was executed to par. (1)(B) to reflect the probable intent of Congress.
+Subsec. (c)(1)(B). Pub. L. 115–97, § 13519(a)(3), which directed substitution of “2.45 percent” for “2.05 percent” in par. (2), was executed to par. (1)(B) to reflect the probable intent of Congress.
 
-Subsec. (c)(1)(C). Pub. L. 115–97, § 13519(a)(4), which directed substitution of “9.2 percent” for “7.7 percent” in par. (3), was executed to par. (1)(C) to reflect the probable intent of Congress. Subsec. (c) does not contain a par. (3).
+Subsec. (c)(1)(C). Pub. L. 115–97, § 13519(a)(4), which directed substitution of “9.2 percent” for “7.7 percent” in par. (3), was executed to par. (1)(C) to reflect the probable intent of Congress. Subsec. (c) does not contain a par. (3).
 
-Subsec. (e)(1)(B)(iii). Pub. L. 115–97, § 13517(b)(4), substituted “807(e)(3)” for “807(e)(4)”.
+Subsec. (e)(1)(B)(iii). Pub. L. 115–97, § 13517(b)(4), substituted “807(e)(3)” for “807(e)(4)”.
 
-Subsec. (i). Pub. L. 115–97, § 12001(b)(8)(C), struck out subsec. (i). Text read as follows: “For purposes of determining adjusted current earnings under section 56(g), acquisition expenses with respect to contracts described in clause (iii) of subsection (e)(1)(B) shall be capitalized and amortized in accordance with the treatment generally required under generally accepted accounting principles as if this subsection applied to such contracts for all taxable years.”
+Subsec. (i). Pub. L. 115–97, § 12001(b)(8)(C), struck out subsec. (i). Text read as follows: “For purposes of determining adjusted current earnings under section 56(g), acquisition expenses with respect to contracts described in clause (iii) of subsection (e)(1)(B) shall be capitalized and amortized in accordance with the treatment generally required under generally accepted accounting principles as if this subsection applied to such contracts for all taxable years.”
 
 2014—Subsec. (j). Pub. L. 113–295 struck out subsec. (j). Text read as follows: “In the case of any taxable year which includes September 30, 1990, the amount taken into account as the net premiums (or negative capitalization amount) with respect to any category of specified insurance contracts shall be the amount which bears the same ratio to the amount which (but for this subsection) would be so taken into account as the number of days in such taxable year on or after September 30, 1990, bears to the total number of days in such taxable year.”
 
@@ -4329,9 +4329,9 @@ Subsec. (i). Pub. L. 115–97, § 12001(b)(8)(C), struck out subsec. (i). Text
 
 2003—Subsec. (e)(1)(B)(v). Pub. L. 108–173 added cl. (v).
 
-2000—Subsec. (e)(1)(B)(iv). Pub. L. 106–554, § 1(a)(7) [title II, § 202(b)(10)], substituted “an Archer MSA” for “a Archer MSA”.
+2000—Subsec. (e)(1)(B)(iv). Pub. L. 106–554, § 1(a)(7) [title II, § 202(b)(10)], substituted “an Archer MSA” for “a Archer MSA”.
 
-Pub. L. 106–554, § 1(a)(7) [title II, § 202(a)(5)], substituted “Archer MSA” for “medical savings account”.
+Pub. L. 106–554, § 1(a)(7) [title II, § 202(a)(5)], substituted “Archer MSA” for “medical savings account”.
 
 1996—Subsec. (e)(1)(B)(iv). Pub. L. 104–191 added cl. (iv).
 
@@ -4345,7 +4345,7 @@ Amendment by section 12001(b)(8)(C) of Pub. L. 115–97 applicable to taxable ye
 
 Amendment by section 13517(b)(4) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, with transition rule and transition relief, see section 13517(c) of Pub. L. 115–97, set out as a note under section 807 of this title.
 
-Pub. L. 115–97, title I, § 13519(c), Dec. 22, 2017, 131 Stat. 2148, provided that:
+Pub. L. 115–97, title I, § 13519(c), Dec. 22, 2017, 131 Stat. 2148, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section] shall apply to net premiums for taxable years beginning after December 31, 2017.
 
@@ -4373,4 +4373,4 @@ Amendment by Pub. L. 103–66 applicable, except as otherwise provided, with res
 
 **Effective Date**
 
-Pub. L. 101–508, title XI, § 11301(d)(1), Nov. 5, 1990, 104 Stat. 1388–449, provided that: “The amendments made by subsections (a) and (c) [enacting this section] shall apply to taxable years ending on or after September 30, 1990. Any capitalization required by reason of such amendments shall not be treated as a change in method of accounting for purposes of the Internal Revenue Code of 1986.”
+Pub. L. 101–508, title XI, § 11301(d)(1), Nov. 5, 1990, 104 Stat. 1388–449, provided that: “The amendments made by subsections (a) and (c) [enacting this section] shall apply to taxable years ending on or after September 30, 1990. Any capitalization required by reason of such amendments shall not be treated as a change in method of accounting for purposes of the Internal Revenue Code of 1986.”

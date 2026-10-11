@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 42—HARRY S TRUMAN MEMORIAL SCHOLARSHIPS
 
-## § 2001. Congressional statement of findings
+## § 2001. Congressional statement of findings
 
 The Congress finds that—
 
@@ -25,15 +25,15 @@ because a special interest of the man from Independence in American history and 
 
 because of the desirability of encouraging young people to recognize and provide service in the highest and best traditions of the American political system at all levels of government, it is especially appropriate to honor former President Harry S Truman through the creation of a perpetual education scholarship program to develop increased opportunities for young Americans to prepare and pursue careers in public service.
 
-(Pub. L. 93–642, § 2, Jan. 4, 1975, 88 Stat. 2276.)
+(Pub. L. 93–642, § 2, Jan. 4, 1975, 88 Stat. 2276.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 93–642, § 1, Jan. 4, 1975, 88 Stat. 2276, provided: “That this Act [enacting this chapter] may be cited as the ‘Harry S Truman Memorial Scholarship Act’.”
+Pub. L. 93–642, § 1, Jan. 4, 1975, 88 Stat. 2276, provided: “That this Act [enacting this chapter] may be cited as the ‘Harry S Truman Memorial Scholarship Act’.”
 
-## § 2002. Definitions
+## § 2002. Definitions
 
 As used in this chapter, the term—
 
@@ -49,7 +49,7 @@ As used in this chapter, the term—
 
 **(6)** “Secretary” means the Secretary of the Treasury.
 
-(Pub. L. 93–642, § 3, Jan. 4, 1975, 88 Stat. 2276; Pub. L. 105–244, title I, § 102(a)(6)(D), Oct. 7, 1998, 112 Stat. 1618.)
+(Pub. L. 93–642, § 3, Jan. 4, 1975, 88 Stat. 2276; Pub. L. 105–244, title I, § 102(a)(6)(D), Oct. 7, 1998, 112 Stat. 1618.)
 
 **Editorial Notes**
 
@@ -69,13 +69,13 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 2003. Other Federal memorials prohibited
+## § 2003. Other Federal memorials prohibited
 
 The Harry S Truman Scholarship Program as authorized by this chapter shall be the sole Federal memorial to President Harry S Truman.
 
-(Pub. L. 93–642, § 4, Jan. 4, 1975, 88 Stat. 2277.)
+(Pub. L. 93–642, § 4, Jan. 4, 1975, 88 Stat. 2277.)
 
-## § 2004. Harry S Truman Scholarship Foundation
+## § 2004. Harry S Truman Scholarship Foundation
 
 **(a) Establishment**
 
@@ -83,9 +83,9 @@ There is established, as an independent establishment of the executive branch of
 
 **(b) Board of Trustees; membership**
 
-**(1)**  1
+**(1)** 1
 
-<sup>1</sup>  So in original. No par. (2) has been enacted.
+<sup>1</sup> So in original. No par. (2) has been enacted.
 
 The Foundation shall be subject to the supervision and direction of a Board of Trustees. The Board shall be composed of thirteen members, as follows:
 
@@ -105,7 +105,7 @@ The term of office of each member of the Board shall be six years; except that (
 
 Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
 
-(Pub. L. 93–642, § 5, Jan. 4, 1975, 88 Stat. 2277; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692.)
+(Pub. L. 93–642, § 5, Jan. 4, 1975, 88 Stat. 2277; Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, Oct. 17, 1979, 93 Stat. 677, 692.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -113,7 +113,7 @@ Members of the Board shall serve without pay, but shall be entitled to reimburse
 
 “Secretary of Education” substituted for “Commissioner of Education” in subsec. (b)(1)(D) pursuant to sections 301(a)(1) and 507 of Pub. L. 96–88, which are classified to sections 3441(a)(1) and 3507 of this title and which transferred functions of Commissioner of Education to Secretary of Education.
 
-## § 2005. Truman scholars
+## § 2005. Truman scholars
 
 **(a) Basis for award**
 
@@ -131,9 +131,9 @@ A student awarded a scholarship under this chapter may attend any institution of
 
 Each student awarded a scholarship under this chapter must have indicated a serious intent to enter the public service upon the completion of his or her educational program. Each institution of higher education at which such a student is in attendance will make reasonable continuing efforts to encourage such a student to enter the public service upon completing his or her educational program.
 
-(Pub. L. 93–642, § 6, Jan. 4, 1975, 88 Stat. 2278.)
+(Pub. L. 93–642, § 6, Jan. 4, 1975, 88 Stat. 2278.)
 
-## § 2006. Selection of scholars
+## § 2006. Selection of scholars
 
 **(a) Nationwide competition**
 
@@ -143,13 +143,13 @@ The Foundation is authorized, either directly or by contract, to provide for the
 
 The Foundation shall adopt selection procedures which shall assure that at least one Truman scholar shall be selected each year from each State in which there is at least one resident applicant who meets the minimum criteria established by the Foundation.
 
-(Pub. L. 93–642, § 7, Jan. 4, 1975, 88 Stat. 2278.)
+(Pub. L. 93–642, § 7, Jan. 4, 1975, 88 Stat. 2278.)
 
-## § 2007. Stipends
+## § 2007. Stipends
 
 Each student awarded a scholarship under this chapter shall receive a stipend which shall not exceed the cost to such student for tuition, fees, books, room and board, or $10,000 (adjusted annually to reflect increases, if any, in the Consumer Price Index for All Urban Consumers, published by the Bureau of Labor Statistics) whichever is less for each academic year of study.
 
-(Pub. L. 93–642, § 8, Jan. 4, 1975, 88 Stat. 2278; Pub. L. 99–159, title V, § 501, Nov. 22, 1985, 99 Stat. 904.)
+(Pub. L. 93–642, § 8, Jan. 4, 1975, 88 Stat. 2278; Pub. L. 99–159, title V, § 501, Nov. 22, 1985, 99 Stat. 904.)
 
 **Editorial Notes**
 
@@ -157,7 +157,7 @@ Each student awarded a scholarship under this chapter shall receive a stipend wh
 
 1985—Pub. L. 99–159 increased amount from $5,000 to $10,000 with provision for annual adjustments.
 
-## § 2008. Scholarship conditions
+## § 2008. Scholarship conditions
 
 **(a) Satisfactory proficiency and devotion of full time to study or research; unapproved employment**
 
@@ -167,9 +167,9 @@ A student awarded a scholarship under the provisions of this chapter shall conti
 
 The Foundation is authorized to require reports containing such information in such form and to be filed at such times as the Foundation determines to be necessary from any student awarded a scholarship under the provisions of this chapter. Such reports shall be accompanied by a certificate from an appropriate official at the institution of higher education, approved by the Foundation, stating that such student is making satisfactory progress in, and is devoting essentially full time to, study or research, except as otherwise provided in subsection (a).
 
-(Pub. L. 93–642, § 9, Jan. 4, 1975, 88 Stat. 2278.)
+(Pub. L. 93–642, § 9, Jan. 4, 1975, 88 Stat. 2278.)
 
-## § 2009. Harry S Truman Memorial Scholarship Trust Fund
+## § 2009. Harry S Truman Memorial Scholarship Trust Fund
 
 **(a) Establishment**
 
@@ -187,19 +187,19 @@ Any obligation acquired by the fund (except special obligations issued exclusive
 
 The interest on, and the proceeds from the sale or redemption of, any obligations held in the fund shall be credited to and form a part of the fund.
 
-(Pub. L. 93–642, § 10, Jan. 4, 1975, 88 Stat. 2279.)
+(Pub. L. 93–642, § 10, Jan. 4, 1975, 88 Stat. 2279.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-## § 2009a. Investment of amounts appropriated and contributed to Harry S Truman Memorial Scholarship Trust Fund
+## § 2009a. Investment of amounts appropriated and contributed to Harry S Truman Memorial Scholarship Trust Fund
 
 Notwithstanding section 2009(b) of this title, on and after December 26, 2007, at the request of the Board of Trustees of the Harry S Truman Scholarship Foundation, it shall be the duty of the Secretary of the Treasury to invest in full the amounts appropriated and contributed to the Harry S Truman Memorial Scholarship Trust Fund, as provided in such section. All requests of the Board of Trustees to the Secretary provided for in this section shall be binding on the Secretary.
 
-(Pub. L. 110–161, div. D, title VI, § 619, Dec. 26, 2007, 121 Stat. 2016.)
+(Pub. L. 110–161, div. D, title VI, § 619, Dec. 26, 2007, 121 Stat. 2016.)
 
 **Editorial Notes**
 
@@ -207,7 +207,7 @@ Notwithstanding section 2009(b) of this title, on and after December 26, 2007, a
 
 Section was enacted as part of the Financial Services and General Government Appropriations Act, 2008, and also as part of the Consolidated Appropriations Act, 2008, and not as part of the Harry S Truman Memorial Scholarship Act which comprises this chapter.
 
-## § 2009b. Payment to Trust Fund; Board requests binding on Secretary
+## § 2009b. Payment to Trust Fund; Board requests binding on Secretary
 
 For payment to the Harry S Truman Scholarship Foundation Trust Fund, established by section 2009 of this title, $500,000, to remain available until expended: *Provided*, That on or after March 11, 2009, all requests of the Board of Trustees to the Secretary of the Treasury provided for in this section shall be binding on the Secretary, including requests for the issuance at par of special obligations exclusively to the fund as provided for in section 2009(b) of this title, which the Secretary shall implement without regard to the determination related to the public interest required by the last sentence of that section.
 
@@ -219,7 +219,7 @@ For payment to the Harry S Truman Scholarship Foundation Trust Fund, established
 
 Section was enacted as part of the Financial Services and General Government Appropriations Act, 2009, and also as part of the Omnibus Appropriations Act, 2009, and not as part of the Harry S Truman Memorial Scholarship Act which comprises this chapter.
 
-## § 2010. Expenditures and audit of Trust Fund
+## § 2010. Expenditures and audit of Trust Fund
 
 **(a) Authorization of funding**
 
@@ -229,7 +229,7 @@ The Secretary is authorized to pay to the Foundation from the interest and earni
 
 The activities of the Foundation under this chapter may be audited by the Government Accountability Office under such rules and regulations as may be prescribed by the Comptroller General of the United States. The representatives of the Government Accountability Office shall have access to all books, accounts, records, reports, and files and all other papers, things, or property belonging to or in use by the Foundation, pertaining to such activities and necessary to facilitate the audit.
 
-(Pub. L. 93–642, § 11, Jan. 4, 1975, 88 Stat. 2279; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 93–642, § 11, Jan. 4, 1975, 88 Stat. 2279; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -237,7 +237,7 @@ The activities of the Foundation under this chapter may be audited by the Govern
 
 2004—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
 
-## § 2011. Executive Secretary of Foundation
+## § 2011. Executive Secretary of Foundation
 
 **(a) Appointment; functions**
 
@@ -247,15 +247,15 @@ There shall be an Executive Secretary of the Foundation who shall be appointed b
 
 The Executive Secretary of the Foundation shall be compensated at the rate specified for employees placed in grade 18 of the General Schedule set forth in section 5332 of title 5.
 
-(Pub. L. 93–642, § 12, Jan. 4, 1975, 88 Stat. 2280.)
+(Pub. L. 93–642, § 12, Jan. 4, 1975, 88 Stat. 2280.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 2012. Administrative provisions
+## § 2012. Administrative provisions
 
 **(a) Powers of Foundation** In order to carry out the provisions of this chapter, the Foundation is authorized to—
 
@@ -281,15 +281,15 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 The Foundation shall submit to the President and to the Congress an annual report of its operations under this chapter.
 
-(Pub. L. 93–642, § 13, Jan. 4, 1975, 88 Stat. 2280.)
+(Pub. L. 93–642, § 13, Jan. 4, 1975, 88 Stat. 2280.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (a)(6), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes, as amended (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(6), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes, as amended (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (a)(7), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes, as amended (31 U.S.C. 529)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (a)(7), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes, as amended (31 U.S.C. 529)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -299,10 +299,10 @@ For termination, effective May 15, 2000, of provisions in subsec. (b) of this se
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 2013. Authorization of appropriations
+## § 2013. Authorization of appropriations
 
 There are authorized to be appropriated $30,000,000 to the fund.
 
-(Pub. L. 93–642, § 14, Jan. 4, 1975, 88 Stat. 2280.)
+(Pub. L. 93–642, § 14, Jan. 4, 1975, 88 Stat. 2280.)

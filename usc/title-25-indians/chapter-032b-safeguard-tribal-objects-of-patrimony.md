@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 32B—SAFEGUARD TRIBAL OBJECTS OF PATRIMONY
 
-## § 3071. Purposes
+## § 3071. Purposes
 
 The purposes of this chapter are—
 
@@ -45,7 +45,7 @@ The purposes of this chapter are—
 
 **(8)** to encourage buyers to purchase legal contemporary art made by Native artists for commercial purposes.
 
-(Pub. L. 117–258, § 2, Dec. 21, 2022, 136 Stat. 2372.)
+(Pub. L. 117–258, § 2, Dec. 21, 2022, 136 Stat. 2372.)
 
 **Editorial Notes**
 
@@ -53,17 +53,17 @@ The purposes of this chapter are—
 
 This chapter, referred to in the provision preceding par. (1) and in pars. (5) to (7), was in the original “this Act”, meaning Pub. L. 117–258, Dec. 21, 2022, 136 Stat. 2372, known as the Safeguard Tribal Objects of Patrimony Act of 2021, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Native American Graves Protection and Repatriation Act, referred to in pars. (2) to (6), is Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to chapter 32 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Native American Graves Protection and Repatriation Act, referred to in pars. (2) to (6), is Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to chapter 32 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
-The Archaeological Resources Protection Act of 1979, referred to in pars. (3) to (6), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§ 470aa et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of Title 16 and Tables.
+The Archaeological Resources Protection Act of 1979, referred to in pars. (3) to (6), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§ 470aa et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of Title 16 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 117–258, § 1, Dec. 21, 2022, 136 Stat. 2372, provided that: “This Act [enacting this chapter and amending section 1170 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘Safeguard Tribal Objects of Patrimony Act of 2021’.”
+Pub. L. 117–258, § 1, Dec. 21, 2022, 136 Stat. 2372, provided that: “This Act [enacting this chapter and amending section 1170 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘Safeguard Tribal Objects of Patrimony Act of 2021’.”
 
-## § 3072. Definitions
+## § 3072. Definitions
 
 In this chapter:
 
@@ -129,7 +129,7 @@ The term “Secretary” means the Secretary of the Interior.
 
 **(B)** culturally, historically, or archaeologically significant objects, resources, patrimony, or other items that are affiliated with a Native American culture.
 
-(Pub. L. 117–258, § 3, Dec. 21, 2022, 136 Stat. 2373.)
+(Pub. L. 117–258, § 3, Dec. 21, 2022, 136 Stat. 2373.)
 
 **Editorial Notes**
 
@@ -137,9 +137,9 @@ The term “Secretary” means the Secretary of the Interior.
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 117–258, Dec. 21, 2022, 136 Stat. 2372, known as the Safeguard Tribal Objects of Patrimony Act of 2021, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3071 of this title and Tables.
 
-The Native American Graves Protection and Repatriation Act, referred to in par. (5)(A)(i), is Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to chapter 32 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Native American Graves Protection and Repatriation Act, referred to in par. (5)(A)(i), is Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to chapter 32 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
-## § 3073. Export prohibitions; export certification system; international agreements
+## § 3073. Export prohibitions; export certification system; international agreements
 
 **(a) Export prohibitions**
 
@@ -441,19 +441,19 @@ In developing or modifying and delivering trainings under subparagraphs (A) and 
 
 **(3)** to expand the market for the products of Indian art and craftsmanship in accordance with section 305a of this title.
 
-(Pub. L. 117–258, § 5, Dec. 21, 2022, 136 Stat. 2374.)
+(Pub. L. 117–258, § 5, Dec. 21, 2022, 136 Stat. 2374.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Native American Graves Protection and Repatriation Act, referred to in subsecs. (a)(3)(C)(i) and (b)(4)(C)(ii)(I), is Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to chapter 32 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Native American Graves Protection and Repatriation Act, referred to in subsecs. (a)(3)(C)(i) and (b)(4)(C)(ii)(I), is Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to chapter 32 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
-The Archaeological Resources Protection Act of 1979, referred to in subsecs. (a)(3)(C)(ii) and (b)(4)(C)(ii)(II), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§ 470aa et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of Title 16 and Tables.
+The Archaeological Resources Protection Act of 1979, referred to in subsecs. (a)(3)(C)(ii) and (b)(4)(C)(ii)(II), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§ 470aa et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of Title 16 and Tables.
 
 This chapter, referred to in subsec. (b)(1)(B)(i)(III)(bb), (5)(A)(ii)(II), (8)(B), was in the original “this Act”, meaning Pub. L. 117–258, Dec. 21, 2022, 136 Stat. 2372, known as the Safeguard Tribal Objects of Patrimony Act of 2021, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3071 of this title and Tables.
 
-## § 3074. Voluntary return of tangible cultural heritage
+## § 3074. Voluntary return of tangible cultural heritage
 
 **(a) Liaison**
 
@@ -493,9 +493,9 @@ In facilitating the voluntary return of tangible cultural heritage under this se
 
 The voluntary return provisions of this section shall apply to a specific item of tangible cultural heritage only to the extent that the repatriation provisions under section 3005 of this title do not apply to the item of tangible cultural heritage.
 
-(Pub. L. 117–258, § 6, Dec. 21, 2022, 136 Stat. 2382.)
+(Pub. L. 117–258, § 6, Dec. 21, 2022, 136 Stat. 2382.)
 
-## § 3075. Interagency working group
+## § 3075. Interagency working group
 
 **(a) In general**
 
@@ -533,21 +533,21 @@ The Secretary shall designate a coordinating office to convene an interagency wo
 
 **(D)** any other relevant committees and working groups.
 
-(Pub. L. 117–258, § 7, Dec. 21, 2022, 136 Stat. 2383.)
+(Pub. L. 117–258, § 7, Dec. 21, 2022, 136 Stat. 2383.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Native American Graves Protection and Repatriation Act, referred to in subsec. (b)(3)(A), is Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to chapter 32 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Native American Graves Protection and Repatriation Act, referred to in subsec. (b)(3)(A), is Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to chapter 32 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
-The Archaeological Resources Protection Act of 1979, referred to in subsec. (b)(3)(B), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§ 470aa et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of Title 16 and Tables.
+The Archaeological Resources Protection Act of 1979, referred to in subsec. (b)(3)(B), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§ 470aa et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of Title 16 and Tables.
 
 This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 117–258, Dec. 21, 2022, 136 Stat. 2372, known as the Safeguard Tribal Objects of Patrimony Act of 2021, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3071 of this title and Tables.
 
 The amendments made by this Act, referred to in subsec. (c)(1), means the amendment made by Pub. L. 117–258, which amended section 1170 of Title 18, Crimes and Criminal Procedure.
 
-## § 3076. Native working group
+## § 3076. Native working group
 
 **(a) In general**
 
@@ -589,21 +589,21 @@ On request by the Native working group convened under subsection (a), the agenci
 
 **(e) Applicability of Federal Advisory Committee Act**
 
-The Federal Advisory Committee Act (5 U.S.C. App.) 1
+The Federal Advisory Committee Act (5 U.S.C. App.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall not apply to the Native working group convened under subsection (a).
 
-(Pub. L. 117–258, § 8, Dec. 21, 2022, 136 Stat. 2384.)
+(Pub. L. 117–258, § 8, Dec. 21, 2022, 136 Stat. 2384.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
+The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
-## § 3077. Treatment under Freedom of Information Act
+## § 3077. Treatment under Freedom of Information Act
 
 **(a) In general** Except as provided in subsection (c), the following information shall be exempt from disclosure under section 552 of title 5:
 
@@ -623,7 +623,7 @@ For purposes of subsection (a), this chapter shall be considered a statute descr
 
 An Indian Tribe or Native Hawaiian organization may request and shall receive its own information, as described in subsection (a), from the Federal agency to which the Indian Tribe or Native Hawaiian organization submitted the information.
 
-(Pub. L. 117–258, § 9, Dec. 21, 2022, 136 Stat. 2385.)
+(Pub. L. 117–258, § 9, Dec. 21, 2022, 136 Stat. 2385.)
 
 **Editorial Notes**
 
@@ -633,11 +633,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 An amendment made by this Act, referred to in subsec. (a)(1)(A), (2), means the amendment made by Pub. L. 117–258, which amended section 1170 of Title 18, Crimes and Criminal Procedure.
 
-## § 3078. Regulations
+## § 3078. Regulations
 
 Not later than 1 year after December 21, 2022, the Secretary, in consultation with the Secretary of State, the Secretary of Homeland Security, and the Attorney General, and after consultation with Indian Tribes and Native Hawaiian organizations, shall promulgate rules and regulations to carry out this chapter.
 
-(Pub. L. 117–258, § 10, Dec. 21, 2022, 136 Stat. 2385.)
+(Pub. L. 117–258, § 10, Dec. 21, 2022, 136 Stat. 2385.)
 
 **Editorial Notes**
 
@@ -645,11 +645,11 @@ Not later than 1 year after December 21, 2022, the Secretary, in consultation wi
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 117–258, Dec. 21, 2022, 136 Stat. 2372, known as the Safeguard Tribal Objects of Patrimony Act of 2021, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3071 of this title and Tables.
 
-## § 3079. Authorization of appropriations
+## § 3079. Authorization of appropriations
 
 There is authorized to be appropriated to carry out this chapter $3,000,000 for each of fiscal years 2022 through 2027.
 
-(Pub. L. 117–258, § 11, Dec. 21, 2022, 136 Stat. 2385.)
+(Pub. L. 117–258, § 11, Dec. 21, 2022, 136 Stat. 2385.)
 
 **Editorial Notes**
 

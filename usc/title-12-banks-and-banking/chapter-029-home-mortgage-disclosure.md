@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 29—HOME MORTGAGE DISCLOSURE
 
-## § 2801. Congressional findings and declaration of purpose
+## § 2801. Congressional findings and declaration of purpose
 
 **(a) Findings of Congress**
 
@@ -29,15 +29,15 @@ The purpose of this chapter is to provide the citizens and public officials of t
 
 Nothing in this chapter is intended to, nor shall it be construed to, encourage unsound lending practices or the allocation of credit.
 
-(Pub. L. 94–200, title III, § 302, Dec. 31, 1975, 89 Stat. 1125.)
+(Pub. L. 94–200, title III, § 302, Dec. 31, 1975, 89 Stat. 1125.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 94–200, title III, § 301, Dec. 31, 1975, 89 Stat. 1125, provided that: “This title [this chapter] may be cited as the ‘Home Mortgage Disclosure Act of 1975’.”
+Pub. L. 94–200, title III, § 301, Dec. 31, 1975, 89 Stat. 1125, provided that: “This title [this chapter] may be cited as the ‘Home Mortgage Disclosure Act of 1975’.”
 
-## § 2802. Definitions
+## § 2802. Definitions
 
 For purposes of this chapter—
 
@@ -57,9 +57,9 @@ For purposes of this chapter—
 
 which makes federally related mortgage loans as determined by the Board; and
 
-**(B)** includes any other lending institution (as defined in paragraph (4) 1
+**(B)** includes any other lending institution (as defined in paragraph (4) 1
 
-<sup>1</sup>  So in original. Probably should be “paragraph (5)”.
+<sup>1</sup> So in original. Probably should be “paragraph (5)”.
 
 ) other than any institution described in subparagraph (A);
 
@@ -71,7 +71,7 @@ which makes federally related mortgage loans as determined by the Board; and
 
 **(7)** the term “Secretary” means the Secretary of Housing and Urban Development.
 
-(Pub. L. 94–200, title III, § 303, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 100–242, title V, § 565(a)(1), Feb. 5, 1988, 101 Stat. 1945; Pub. L. 101–73, title XII, § 1211(d), (e), Aug. 9, 1989, 103 Stat. 525; Pub. L. 111–203, title X, § 1094(2), July 21, 2010, 124 Stat. 2097.)
+(Pub. L. 94–200, title III, § 303, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 100–242, title V, § 565(a)(1), Feb. 5, 1988, 101 Stat. 1945; Pub. L. 101–73, title XII, § 1211(d), (e), Aug. 9, 1989, 103 Stat. 525; Pub. L. 111–203, title X, § 1094(2), July 21, 2010, 124 Stat. 2097.)
 
 **Editorial Notes**
 
@@ -79,11 +79,11 @@ which makes federally related mortgage loans as determined by the Board; and
 
 2010—Pub. L. 111–203 added par. (1) and redesignated former pars. (1) to (6) as (2) to (7), respectively.
 
-1989—Par. (2). Pub. L. 101–73, § 1211(d), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘depository institution’ means any commercial bank, savings bank, savings and loan association, building and loan association, homestead association (including cooperative banks) or credit union which makes federally related mortgage loans as determined by the Board, mortgage banking subsidiary of a bank holding company or savings and loan holding company, or savings and loan service corporation that originates or purchases mortgage loans;”.
+1989—Par. (2). Pub. L. 101–73, § 1211(d), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘depository institution’ means any commercial bank, savings bank, savings and loan association, building and loan association, homestead association (including cooperative banks) or credit union which makes federally related mortgage loans as determined by the Board, mortgage banking subsidiary of a bank holding company or savings and loan holding company, or savings and loan service corporation that originates or purchases mortgage loans;”.
 
-Pars. (3) to (6). Pub. L. 101–73, § 1211(e), added pars. (3) and (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively.
+Pars. (3) to (6). Pub. L. 101–73, § 1211(e), added pars. (3) and (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively.
 
-1988—Par. (2). Pub. L. 100–242 struck out “or” before “homestead association” and inserted before semicolon at end “, mortgage banking subsidiary of a bank holding company or savings and loan holding company, or savings and loan service corporation that originates or purchases mortgage loans”.
+1988—Par. (2). Pub. L. 100–242 struck out “or” before “homestead association” and inserted before semicolon at end “, mortgage banking subsidiary of a bank holding company or savings and loan holding company, or savings and loan service corporation that originates or purchases mortgage loans”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -93,13 +93,13 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–73, title XII, § 1211(k), Aug. 9, 1989, 103 Stat. 526, provided that: “The amendments made by this section [amending this section and sections 2803, 2804, 2807, and 2810 of this title] shall apply to each calendar year beginning after December 31, 1989.”
+Pub. L. 101–73, title XII, § 1211(k), Aug. 9, 1989, 103 Stat. 526, provided that: “The amendments made by this section [amending this section and sections 2803, 2804, 2807, and 2810 of this title] shall apply to each calendar year beginning after December 31, 1989.”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–242, title V, § 565(a)(4), Feb. 5, 1988, 101 Stat. 1945, as amended by Pub. L. 100–628, title X, § 1087(a), Nov. 7, 1988, 102 Stat. 3280, provided that: “The amendments made by this subsection [amending sections 2802, 2803, and 2810 of this title] shall be applicable to the portion of calendar year 1988 that begins August 19, 1988, and to each calendar year beginning after December 31, 1988.”
+Pub. L. 100–242, title V, § 565(a)(4), Feb. 5, 1988, 101 Stat. 1945, as amended by Pub. L. 100–628, title X, § 1087(a), Nov. 7, 1988, 102 Stat. 3280, provided that: “The amendments made by this subsection [amending sections 2802, 2803, and 2810 of this title] shall be applicable to the portion of calendar year 1988 that begins August 19, 1988, and to each calendar year beginning after December 31, 1988.”
 
-## § 2803. Maintenance of records and public disclosure
+## § 2803. Maintenance of records and public disclosure
 
 **(a) Duty of depository institutions; nature and content of information**
 
@@ -195,9 +195,9 @@ The Federal Financial Institutions Examination Council, in consultation with the
 
 **(A)** the appropriate Federal banking agencies, as defined in section 1813(q) of this title, with respect to the entities that are subject to the jurisdiction of each such agency, respectively;
 
-**(B)** the Federal Deposit Insurance Corporation for banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), mutual savings banks, insured State branches of foreign banks, and any other depository institution described in section 2802(2)(A) 1
+**(B)** the Federal Deposit Insurance Corporation for banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), mutual savings banks, insured State branches of foreign banks, and any other depository institution described in section 2802(2)(A) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title which is not otherwise referred to in this paragraph;
 
@@ -227,7 +227,7 @@ With respect to an insured depository institution or insured credit union, the r
 
 With respect to an insured depository institution or insured credit union, the requirements of paragraphs (5) and (6) of subsection (b) shall not apply with respect to open-end lines of credit if the insured depository institution or insured credit union originated fewer than 500 open-end lines of credit in each of the 2 preceding calendar years.
 
-**(3) 2 [footnote: 2 So in original. Two pars. (3) have been enacted.] Required compliance**
+**(3) 2 [footnote: 2 So in original. Two pars. (3) have been enacted.] Required compliance**
 
 Notwithstanding paragraphs (1) and (2), an insured depository institution shall comply with paragraphs (5) and (6) of subsection (b) if the insured depository institution has received a rating of “needs to improve record of meeting community credit needs” during each of its 2 most recent examinations or a rating of “substantial noncompliance in meeting community credit needs” on its most recent examination under section 2906(b)(2) of this title.
 
@@ -259,9 +259,9 @@ It is the sense of the Congress that a depository institution should provide loa
 
 **(3) Change of form not required**
 
-A depository institution meets the disclosure requirement of paragraph (1) if the institution provides the information required under such paragraph in such formats as the Bureau may require 3
+A depository institution meets the disclosure requirement of paragraph (1) if the institution provides the information required under such paragraph in such formats as the Bureau may require 3
 
-<sup>3</sup>  So in original. Probably should be followed by a period.
+<sup>3</sup> So in original. Probably should be followed by a period.
 
 **(4) Reasonable charge for information**
 
@@ -347,7 +347,7 @@ The data required to be disclosed under subsection (b) shall be submitted to the
 
 **(2)** the term “insured depository institution” has the meaning given the term in section 1813 of this title.
 
-(Pub. L. 94–200, title III, § 304, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 96–399, title III, § 340(a), Oct. 8, 1980, 94 Stat. 1657; Pub. L. 98–181, title I [title VII, § 701(a)], Nov. 30, 1983, 97 Stat. 1266; Pub. L. 100–242, title V, §§ 565(a)(2), 570(h), Feb. 5, 1988, 101 Stat. 1945, 1950; Pub. L. 101–73, title XII, § 1211(a)–(c)(2)(C), (f), (i), (j), Aug. 9, 1989, 103 Stat. 524–526; Pub. L. 102–242, title II, § 212(a)(1), Dec. 19, 1991, 105 Stat. 2299; Pub. L. 102–550, title IX, § 932(a), (b), Oct. 28, 1992, 106 Stat. 3889, 3891; Pub. L. 104–208, div. A, title II, § 2225(b), Sept. 30, 1996, 110 Stat. 3009–416; Pub. L. 111–203, title X, § 1094(1), (3), July 21, 2010, 124 Stat. 2097; Pub. L. 115–174, title I, § 104(a), (c), May 24, 2018, 132 Stat. 1300, 1301.)
+(Pub. L. 94–200, title III, § 304, Dec. 31, 1975, 89 Stat. 1125; Pub. L. 96–399, title III, § 340(a), Oct. 8, 1980, 94 Stat. 1657; Pub. L. 98–181, title I [title VII, § 701(a)], Nov. 30, 1983, 97 Stat. 1266; Pub. L. 100–242, title V, §§ 565(a)(2), 570(h), Feb. 5, 1988, 101 Stat. 1945, 1950; Pub. L. 101–73, title XII, § 1211(a)–(c)(2)(C), (f), (i), (j), Aug. 9, 1989, 103 Stat. 524–526; Pub. L. 102–242, title II, § 212(a)(1), Dec. 19, 1991, 105 Stat. 2299; Pub. L. 102–550, title IX, § 932(a), (b), Oct. 28, 1992, 106 Stat. 3889, 3891; Pub. L. 104–208, div. A, title II, § 2225(b), Sept. 30, 1996, 110 Stat. 3009–416; Pub. L. 111–203, title X, § 1094(1), (3), July 21, 2010, 124 Stat. 2097; Pub. L. 115–174, title I, § 104(a), (c), May 24, 2018, 132 Stat. 1300, 1301.)
 
 **Editorial Notes**
 
@@ -355,89 +355,89 @@ The data required to be disclosed under subsection (b) shall be submitted to the
 
 For the effective date of this chapter, referred to in subsec. (a)(1), see section 2808 of this title.
 
-The National Housing Act, referred to in subsecs. (b)(1) and (g)(2), is act June 27, 1934, ch. 847, 48 Stat. 1246. Titles I and II of the National Housing Act are classified generally to subchapters I (§ 1702 et seq.) and II (§ 1707 et seq.), respectively, of chapter 13 of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in subsecs. (b)(1) and (g)(2), is act June 27, 1934, ch. 847, 48 Stat. 1246. Titles I and II of the National Housing Act are classified generally to subchapters I (§ 1702 et seq.) and II (§ 1707 et seq.), respectively, of chapter 13 of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
-The Housing Act of 1949, referred to in subsec. (b)(1), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Housing Act of 1949 is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+The Housing Act of 1949, referred to in subsec. (b)(1), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Housing Act of 1949 is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
-Section 2802(2)(A) of this title, referred to in subsec. (h)(2)(B), was redesignated section 2802(3)(A) of this title by Pub. L. 111–203, title X, § 1094(2)(A), July 21, 2010, 124 Stat. 2097.
+Section 2802(2)(A) of this title, referred to in subsec. (h)(2)(B), was redesignated section 2802(3)(A) of this title by Pub. L. 111–203, title X, § 1094(2)(A), July 21, 2010, 124 Stat. 2097.
 
 **Amendments**
 
-2018—Subsec. (i). Pub. L. 115–174, § 104(a)(2), added subsec. (i), consisting of pars. (1) to (3), before par. (3) relating to exemption from certain disclosure requirements, which was formerly designated subsec. (i).
+2018—Subsec. (i). Pub. L. 115–174, § 104(a)(2), added subsec. (i), consisting of pars. (1) to (3), before par. (3) relating to exemption from certain disclosure requirements, which was formerly designated subsec. (i).
 
-Subsec. (i)(3). Pub. L. 115–174, § 104(a)(1), (c), redesignated subsec. (i) as par. (3) relating to exemption from certain disclosure requirements, realigned margins, and substituted “2802(3)(A) of this title” for “2802(2)(A) of this title”.
+Subsec. (i)(3). Pub. L. 115–174, § 104(a)(1), (c), redesignated subsec. (i) as par. (3) relating to exemption from certain disclosure requirements, realigned margins, and substituted “2802(3)(A) of this title” for “2802(2)(A) of this title”.
 
-Subsec. (*o*). Pub. L. 115–174, § 104(a)(3), added subsec. (*o*).
+Subsec. (*o*). Pub. L. 115–174, § 104(a)(3), added subsec. (*o*).
 
-Subsec. (a)(1). Pub. L. 111–203, § 1094(1), substituted “Bureau” for “Board”.
+Subsec. (a)(1). Pub. L. 111–203, § 1094(1), substituted “Bureau” for “Board”.
 
-Subsec. (b)(4). Pub. L. 111–203, § 1094(3)(A)(i), inserted “age,” before “and gender”.
+Subsec. (b)(4). Pub. L. 111–203, § 1094(3)(A)(i), inserted “age,” before “and gender”.
 
-Subsec. (b)(5), (6). Pub. L. 111–203, § 1094(3)(A)(ii)–(iv), added pars. (5) and (6).
+Subsec. (b)(5), (6). Pub. L. 111–203, § 1094(3)(A)(ii)–(iv), added pars. (5) and (6).
 
-Subsec. (e). Pub. L. 111–203, § 1094(1), substituted “Bureau” for “Board”.
+Subsec. (e). Pub. L. 111–203, § 1094(1), substituted “Bureau” for “Board”.
 
-Subsec. (h). Pub. L. 111–203, § 1094(3)(B), added subsec. (h) and struck out former subsec. (h) which related to submission to agencies.
+Subsec. (h). Pub. L. 111–203, § 1094(3)(B), added subsec. (h) and struck out former subsec. (h) which related to submission to agencies.
 
-Subsec. (i). Pub. L. 111–203, § 1094(3)(C), substituted “subsections (b)(4), (b)(5), and (b)(6)” for “subsection (b)(4)”.
+Subsec. (i). Pub. L. 111–203, § 1094(3)(C), substituted “subsections (b)(4), (b)(5), and (b)(6)” for “subsection (b)(4)”.
 
-Subsec. (j)(1). Pub. L. 111–203, § 1094(1), substituted “Bureau” for “Board” in two places.
+Subsec. (j)(1). Pub. L. 111–203, § 1094(1), substituted “Bureau” for “Board” in two places.
 
-Subsec. (j)(2)(A). Pub. L. 111–203, § 1094(3)(D)(ii), substituted “in such formats as the Bureau may require” for “in the format in which such information is maintained by the institution”.
+Subsec. (j)(2)(A). Pub. L. 111–203, § 1094(3)(D)(ii), substituted “in such formats as the Bureau may require” for “in the format in which such information is maintained by the institution”.
 
-Subsec. (j)(2)(B). Pub. L. 111–203, § 1094(1), substituted “Bureau” for “Board” in two places.
+Subsec. (j)(2)(B). Pub. L. 111–203, § 1094(1), substituted “Bureau” for “Board” in two places.
 
-Subsec. (j)(3). Pub. L. 111–203, § 1094(3)(D)(i), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “A depository institution meets the disclosure requirement of paragraph (1) if the institution provides the information required under such paragraph in the form in which the institution maintains such information.”
+Subsec. (j)(3). Pub. L. 111–203, § 1094(3)(D)(i), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “A depository institution meets the disclosure requirement of paragraph (1) if the institution provides the information required under such paragraph in the form in which the institution maintains such information.”
 
-Subsecs. (j)(7), (k)(1), (*l*)(2)(A). Pub. L. 111–203, § 1094(1), substituted “Bureau” for “Board” wherever appearing.
+Subsecs. (j)(7), (k)(1), (*l*)(2)(A). Pub. L. 111–203, § 1094(1), substituted “Bureau” for “Board” wherever appearing.
 
-Subsec. (m)(2). Pub. L. 111–203, § 1094(3)(E), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “In complying with paragraph (1), a depository institution shall, in the sole discretion of the institution, provide the person requesting the information with—
+Subsec. (m)(2). Pub. L. 111–203, § 1094(3)(E), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “In complying with paragraph (1), a depository institution shall, in the sole discretion of the institution, provide the person requesting the information with—
 
 “(A) a paper copy of the information requested; or
 
 “(B) if acceptable to the person, the information through a form of electronic medium, such as a computer disk.”
 
-Subsec. (n). Pub. L. 111–203, § 1094(3)(F), added subsec. (n).
+Subsec. (n). Pub. L. 111–203, § 1094(3)(F), added subsec. (n).
 
 1996—Subsec. (m). Pub. L. 104–208 added subsec. (m).
 
-1992—Subsec. (c). Pub. L. 102–550, § 932(b), inserted “, other than loan application register information under subsection (j),” after “under this section”.
+1992—Subsec. (c). Pub. L. 102–550, § 932(b), inserted “, other than loan application register information under subsection (j),” after “under this section”.
 
-Subsecs. (j) to (*l*). Pub. L. 102–550, § 932(a), added subsecs. (j) to (*l*).
+Subsecs. (j) to (*l*). Pub. L. 102–550, § 932(a), added subsecs. (j) to (*l*).
 
-1991—Subsec. (h)(1). Pub. L. 102–242, § 212(a)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “the Comptroller of the Currency for national banks;”.
+1991—Subsec. (h)(1). Pub. L. 102–242, § 212(a)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “the Comptroller of the Currency for national banks;”.
 
-Subsec. (h)(3). Pub. L. 102–242, § 212(a)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “the Federal Deposit Insurance Corporation for banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), mutual savings banks, and any other depository institution described in section 2802(2)(A) of this title which is not otherwise referred to in this paragraph;”.
+Subsec. (h)(3). Pub. L. 102–242, § 212(a)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “the Federal Deposit Insurance Corporation for banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), mutual savings banks, and any other depository institution described in section 2802(2)(A) of this title which is not otherwise referred to in this paragraph;”.
 
-1989—Subsec. (a)(1). Pub. L. 101–73, § 1211(c)(1), inserted “(or for which the institution received completed applications)” after “originated”.
+1989—Subsec. (a)(1). Pub. L. 101–73, § 1211(c)(1), inserted “(or for which the institution received completed applications)” after “originated”.
 
-Subsec. (a)(2). Pub. L. 101–73, § 1211(c)(2)(A), inserted “(or for which completed applications were received)” after “originated or purchased” in last sentence.
+Subsec. (a)(2). Pub. L. 101–73, § 1211(c)(2)(A), inserted “(or for which completed applications were received)” after “originated or purchased” in last sentence.
 
-Pub. L. 101–73, § 1211(f), inserted at end “For purposes of this paragraph, other lending institutions shall be deemed to have a home office or branch office within a primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas if such institutions have originated or purchased or received completed applications for at least 5 mortgage loans in such area in the preceding calendar year.”
+Pub. L. 101–73, § 1211(f), inserted at end “For purposes of this paragraph, other lending institutions shall be deemed to have a home office or branch office within a primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas if such institutions have originated or purchased or received completed applications for at least 5 mortgage loans in such area in the preceding calendar year.”
 
-Subsec. (b)(4). Pub. L. 101–73, § 1211(a), added par. (4).
+Subsec. (b)(4). Pub. L. 101–73, § 1211(a), added par. (4).
 
-Subsec. (e). Pub. L. 101–73, § 1211(i), substituted “Subject to subsection (h), the Board” for “The Board”.
+Subsec. (e). Pub. L. 101–73, § 1211(i), substituted “Subject to subsection (h), the Board” for “The Board”.
 
-Subsec. (g)(1). Pub. L. 101–73, § 1211(c)(2)(B), inserted “(or for which completed applications are received)” after “made”.
+Subsec. (g)(1). Pub. L. 101–73, § 1211(c)(2)(B), inserted “(or for which completed applications are received)” after “made”.
 
-Subsec. (g)(2). Pub. L. 101–73, § 1211(c)(2)(C), inserted “(or for which completed applications are received)” after “approved”.
+Subsec. (g)(2). Pub. L. 101–73, § 1211(c)(2)(C), inserted “(or for which completed applications are received)” after “approved”.
 
-Subsec. (h). Pub. L. 101–73, § 1211(b), added subsec. (h).
+Subsec. (h). Pub. L. 101–73, § 1211(b), added subsec. (h).
 
-Subsec. (i). Pub. L. 101–73, § 1211(j), added subsec. (i).
+Subsec. (i). Pub. L. 101–73, § 1211(j), added subsec. (i).
 
-1988—Subsec. (a)(1). Pub. L. 100–242, § 570(h), substituted “at least one branch” for “at at least one branch”.
+1988—Subsec. (a)(1). Pub. L. 100–242, § 570(h), substituted “at least one branch” for “at at least one branch”.
 
-Subsec. (g). Pub. L. 100–242, § 565(a)(2), added subsec. (g).
+Subsec. (g). Pub. L. 100–242, § 565(a)(2), added subsec. (g).
 
 1983—Subsecs. (a), (f). Pub. L. 98–181 substituted “primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas” for “standard metropolitan statistical area” wherever appearing.
 
-1980—Subsec. (a)(1). Pub. L. 96–399, § 340(a)(1), substituted “Department of Commerce” for “Office of Management and Budget”.
+1980—Subsec. (a)(1). Pub. L. 96–399, § 340(a)(1), substituted “Department of Commerce” for “Office of Management and Budget”.
 
-Subsec. (a)(2)(A). Pub. L. 96–399, § 340(a)(2), revised applicable factors so as to include mortgage loans in a census tract, or by a county, and exclude readily available and reasonably costing census tracts, or by ZIP code.
+Subsec. (a)(2)(A). Pub. L. 96–399, § 340(a)(2), revised applicable factors so as to include mortgage loans in a census tract, or by a county, and exclude readily available and reasonably costing census tracts, or by ZIP code.
 
-Subsecs. (d) to (f). Pub. L. 96–399, § 340(a)(3), added subsecs. (d) to (f).
+Subsecs. (d) to (f). Pub. L. 96–399, § 340(a)(3), added subsecs. (d) to (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -447,7 +447,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–550, title IX, § 932(c), Oct. 28, 1992, 106 Stat. 3891, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply with respect to information disclosed under section 304 of the Home Mortgage Disclosure Act of 1975 [this section] for any year which ends after the date of the enactment of this Act [Oct. 28, 1992].”
+Pub. L. 102–550, title IX, § 932(c), Oct. 28, 1992, 106 Stat. 3891, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply with respect to information disclosed under section 304 of the Home Mortgage Disclosure Act of 1975 [this section] for any year which ends after the date of the enactment of this Act [Oct. 28, 1992].”
 
 **Effective Date of 1989 Amendment**
 
@@ -461,7 +461,7 @@ Amendment by section 565(a)(2) of Pub. L. 100–242 applicable to the portion of
 
 Evaluation of status and effectiveness of data collection and analysis systems involving fair lending, etc., and report thereof, see section 340(e) of Pub. L. 96–399, set out as a note under section 3305 of this title.
 
-## § 2804. Enforcement
+## § 2804. Enforcement
 
 **(a) Regulations**
 
@@ -479,13 +479,13 @@ The Bureau shall prescribe such regulations as may be necessary to carry out the
 
 **(iii)** any bank or State savings association insured by the Federal Deposit Insurance Corporation (other than a member of the Federal Reserve System), any mutual savings bank as,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 defined in section 1813(f) of this title, any insured State branch of a foreign bank, and any other depository institution not referred to in this paragraph or subparagraph (B) or (C);
 
-**(B)** under subtitle E of the Consumer Financial Protection Act of 2010 [12 U.S.C. 5561 et seq.], by the Bureau, with respect to any person subject to this subtitle; 2
+**(B)** under subtitle E of the Consumer Financial Protection Act of 2010 [12 U.S.C. 5561 et seq.], by the Bureau, with respect to any person subject to this subtitle; 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 **(C)** under the Federal Credit Union Act [12 U.S.C. 1751 et seq.], by the Administrator of the National Credit Union Administration with respect to any insured credit union; and
 
@@ -503,31 +503,31 @@ For the purpose of the exercise by any agency referred to in subsection (b) of i
 
 Subject to subtitle B of the Consumer Financial Protection Act of 2010 [12 U.S.C. 5511 et seq.], enforcement of the requirements imposed under this chapter is committed to each of the agencies under subsection (b). To facilitate research, examinations, and enforcement, all data collected pursuant to section 2803 of this title shall be available to the entities listed under subsection (b). The Bureau may exercise its authorities under the Consumer Financial Protection Act of 2010 to exercise principal authority to examine and enforce compliance by any person with the requirements of this chapter.
 
-(Pub. L. 94–200, title III, § 305, Dec. 31, 1975, 89 Stat. 1126; Pub. L. 101–73, title VII, § 744(p)(1), title XII, § 1211(g), Aug. 9, 1989, 103 Stat. 440, 526; Pub. L. 102–242, title II, § 212(a)(2), Dec. 19, 1991, 105 Stat. 2299; Pub. L. 111–203, title X, § 1094(1), (4), July 21, 2010, 124 Stat. 2097, 2099.)
+(Pub. L. 94–200, title III, § 305, Dec. 31, 1975, 89 Stat. 1126; Pub. L. 101–73, title VII, § 744(p)(1), title XII, § 1211(g), Aug. 9, 1989, 103 Stat. 440, 526; Pub. L. 102–242, title II, § 212(a)(2), Dec. 19, 1991, 105 Stat. 2299; Pub. L. 111–203, title X, § 1094(1), (4), July 21, 2010, 124 Stat. 2097, 2099.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Consumer Financial Protection Act of 2010, referred to in subsecs. (b)(1) and (d), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§ 5481 et seq.) of chapter 53 of this title and enacted, amended, and repealed numerous other sections and notes in the Code. Subtitle B of the Act is classified generally to part B (§ 5511 et seq.) of subchapter V of chapter 53 of this title. Subtitle E of the Act is classified generally to part E (§ 5561 et seq.) of subchapter V of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Consumer Financial Protection Act of 2010, referred to in subsecs. (b)(1) and (d), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§ 5481 et seq.) of chapter 53 of this title and enacted, amended, and repealed numerous other sections and notes in the Code. Subtitle B of the Act is classified generally to part B (§ 5511 et seq.) of subchapter V of chapter 53 of this title. Subtitle E of the Act is classified generally to part E (§ 5561 et seq.) of subchapter V of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (b)(1)(A)(ii), are classified to subchapters I (§ 601 et seq.) and II (§ 611 et seq.), respectively, of chapter 6 of this title.
+Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (b)(1)(A)(ii), are classified to subchapters I (§ 601 et seq.) and II (§ 611 et seq.), respectively, of chapter 6 of this title.
 
 This subtitle, referred to in subsec. (b)(1)(B), probably refers to subtitle E of the Consumer Financial Protection Act of 2010. See above. Title III of Pub. L. 94–200, which enacted this chapter, does not contain subtitles.
 
-The Federal Credit Union Act, referred to in subsec. (b)(1)(C), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
+The Federal Credit Union Act, referred to in subsec. (b)(1)(C), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–203, § 1094(1), substituted “Bureau” for “Board” in two places.
+2010—Subsec. (a). Pub. L. 111–203, § 1094(1), substituted “Bureau” for “Board” in two places.
 
-Subsec. (b). Pub. L. 111–203, § 1094(4)(A), added subsec. (b) and struck out former subsec. (b) which related to powers of certain other agencies.
+Subsec. (b). Pub. L. 111–203, § 1094(4)(A), added subsec. (b) and struck out former subsec. (b) which related to powers of certain other agencies.
 
-Subsec. (d). Pub. L. 111–203, § 1094(4)(B), added subsec. (d).
+Subsec. (d). Pub. L. 111–203, § 1094(4)(B), added subsec. (d).
 
-1991—Subsec. (b). Pub. L. 102–242, § 212(a)(2)(B), inserted at end “The terms used in paragraph (1) that are not defined in this chapter or otherwise defined in section 1813(s) of this title shall have the meaning given to them in section 3101 of this title.”
+1991—Subsec. (b). Pub. L. 102–242, § 212(a)(2)(B), inserted at end “The terms used in paragraph (1) that are not defined in this chapter or otherwise defined in section 1813(s) of this title shall have the meaning given to them in section 3101 of this title.”
 
-Subsec. (b)(1). Pub. L. 102–242, § 212(a)(2)(A), added par. (1) and struck out former par. (1) which read as follows: “section 1818 of this title, in the case of—
+Subsec. (b)(1). Pub. L. 102–242, § 212(a)(2)(A), added par. (1) and struck out former par. (1) which read as follows: “section 1818 of this title, in the case of—
 
 “(A) national banks, by the Comptroller of the Currency;
 
@@ -535,9 +535,9 @@ Subsec. (b)(1). Pub. L. 102–242, § 212(a)(2)(A), added par. (1) and struck 
 
 “(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and mutual savings banks as defined in section 1813(f) of this title and any other depository institution not referred to in this paragraph or paragraph (2) or (3) of this subsection, by the Board of Directors of the Federal Deposit Insurance Corporation;”.
 
-1989—Subsec. (b)(2). Pub. L. 101–73, § 744(p)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “section 1464(d) of this title, section 1730 of this title, and sections 1426(i) and 1437 of this title, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation) in the case of any institution subject to any of those provisions; and”.
+1989—Subsec. (b)(2). Pub. L. 101–73, § 744(p)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “section 1464(d) of this title, section 1730 of this title, and sections 1426(i) and 1437 of this title, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation) in the case of any institution subject to any of those provisions; and”.
 
-Subsec. (b)(4). Pub. L. 101–73, § 1211(g), added par. (4).
+Subsec. (b)(4). Pub. L. 101–73, § 1211(g), added par. (4).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -553,7 +553,7 @@ Amendment by section 1211(g) of Pub. L. 101–73 applicable to each calendar yea
 
 Functions vested in Administrator of National Credit Union Administration transferred and vested in National Credit Union Administration Board pursuant to section 1752a of this title.
 
-## § 2805. Relation to State laws
+## § 2805. Relation to State laws
 
 **(a) In general**
 
@@ -563,15 +563,15 @@ This chapter does not annul, alter, or affect, or exempt any State chartered dep
 
 The Bureau may, by regulation, exempt from the requirements of this chapter any State-chartered depository institution within any State or subdivision thereof, if the agency determines that, under the law of such State or subdivision, that institution is subject to requirements that are substantially similar to those imposed under this chapter, and that such law contains adequate provisions for enforcement. Notwithstanding any other provision of this subsection, compliance with the requirements imposed under this subsection shall be enforced by the Office of the Comptroller of the Currency under section 1818 of this title, in the case of national banks and Federal savings associations, the deposits of which are insured by the Federal Deposit Insurance Corporation.
 
-(Pub. L. 94–200, title III, § 306, Dec. 31, 1975, 89 Stat. 1127; Pub. L. 100–628, title X, § 1087(b), Nov. 7, 1988, 102 Stat. 3280; Pub. L. 101–73, title VII, § 744(p)(2), Aug. 9, 1989, 103 Stat. 440; Pub. L. 111–203, title X, § 1094(1), (5), July 21, 2010, 124 Stat. 2097, 2100.)
+(Pub. L. 94–200, title III, § 306, Dec. 31, 1975, 89 Stat. 1127; Pub. L. 100–628, title X, § 1087(b), Nov. 7, 1988, 102 Stat. 3280; Pub. L. 101–73, title VII, § 744(p)(2), Aug. 9, 1989, 103 Stat. 440; Pub. L. 111–203, title X, § 1094(1), (5), July 21, 2010, 124 Stat. 2097, 2100.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Pub. L. 111–203, § 1094(1), substituted “Bureau” for “Board” wherever appearing.
+2010—Pub. L. 111–203, § 1094(1), substituted “Bureau” for “Board” wherever appearing.
 
-Subsec. (b). Pub. L. 111–203, § 1094(5), added subsec. (b) and struck out former subsec. (b) which read as follows: “The Bureau may by regulation exempt from the requirements of this chapter any State chartered depository institution within any State or subdivision thereof if it determines that, under the law of such State or subdivision, that institution is subject to requirements substantially similar to those imposed under this chapter, and that such law contains adequate provisions for enforcement. Notwithstanding any other provision of this subsection, compliance with the requirements imposed under this subsection shall be enforced under—
+Subsec. (b). Pub. L. 111–203, § 1094(5), added subsec. (b) and struck out former subsec. (b) which read as follows: “The Bureau may by regulation exempt from the requirements of this chapter any State chartered depository institution within any State or subdivision thereof if it determines that, under the law of such State or subdivision, that institution is subject to requirements substantially similar to those imposed under this chapter, and that such law contains adequate provisions for enforcement. Notwithstanding any other provision of this subsection, compliance with the requirements imposed under this subsection shall be enforced under—
 
 “(1) section 1818 of this title in the case of national banks, by the Comptroller of the Currency; and
 
@@ -587,7 +587,7 @@ Subsec. (b). Pub. L. 111–203, § 1094(5), added subsec. (b) and struck out f
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-## § 2806. Compliance improvement methods
+## § 2806. Compliance improvement methods
 
 **(a) In general**
 
@@ -607,13 +607,13 @@ The Director of the Bureau of Consumer Financial Protection is authorized to uti
 
 The Director of the Bureau of Consumer Financial Protection shall recommend to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, such additional legislation as the Director of the Bureau of Consumer Financial Protection deems appropriate to carry out the purpose of this chapter.
 
-(Pub. L. 94–200, title III, § 307, as added Pub. L. 111–203, title X, § 1094(6), July 21, 2010, 124 Stat. 2101.)
+(Pub. L. 94–200, title III, § 307, as added Pub. L. 111–203, title X, § 1094(6), July 21, 2010, 124 Stat. 2101.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2806, Pub. L. 94–200, title III, § 307, Dec. 31, 1975, 89 Stat. 1127; Pub. L. 100–628, title X, § 1087(c), Nov. 7, 1988, 102 Stat. 3280; Pub. L. 101–73, title VII, § 744(p)(3), Aug. 9, 1989, 103 Stat. 440, which related to research and improved methods; authorization of appropriations; recommendations to congressional committees, was repealed by Pub. L. 111–203, title X, § 1094(6), July 21, 2010, 124 Stat. 2101.
+A prior section 2806, Pub. L. 94–200, title III, § 307, Dec. 31, 1975, 89 Stat. 1127; Pub. L. 100–628, title X, § 1087(c), Nov. 7, 1988, 102 Stat. 3280; Pub. L. 101–73, title VII, § 744(p)(3), Aug. 9, 1989, 103 Stat. 440, which related to research and improved methods; authorization of appropriations; recommendations to congressional committees, was repealed by Pub. L. 111–203, title X, § 1094(6), July 21, 2010, 124 Stat. 2101.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -621,11 +621,11 @@ A prior section 2806, Pub. L. 94–200, title III, § 307, Dec. 31, 1975, 89 S
 
 Section effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 552a of Title 5, Government Organization and Employees.
 
-## § 2807. Report
+## § 2807. Report
 
 The Bureau, in consultation with the Secretary of Housing and Urban Development, shall report annually to the Congress on the utility of the requirements of section 2803(b)(4) of this title.
 
-(Pub. L. 94–200, title III, § 308, Dec. 31, 1975, 89 Stat. 1128; Pub. L. 98–181, title I [title VII, § 701(b)], Nov. 30, 1983, 97 Stat. 1266; Pub. L. 101–73, title XII, § 1211(h), Aug. 9, 1989, 103 Stat. 526; Pub. L. 111–203, title X, § 1094(1), July 21, 2010, 124 Stat. 2097.)
+(Pub. L. 94–200, title III, § 308, Dec. 31, 1975, 89 Stat. 1128; Pub. L. 98–181, title I [title VII, § 701(b)], Nov. 30, 1983, 97 Stat. 1266; Pub. L. 101–73, title XII, § 1211(h), Aug. 9, 1989, 103 Stat. 526; Pub. L. 111–203, title X, § 1094(1), July 21, 2010, 124 Stat. 2097.)
 
 **Editorial Notes**
 
@@ -651,21 +651,21 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Amendment by Pub. L. 101–73 applicable to each calendar year beginning after Dec. 31, 1989, see section 1211(k) of Pub. L. 101–73, set out as a note under section 2802 of this title.
 
-## § 2808. Effective date
+## § 2808. Effective date
 
 **(a) In general**
 
-This chapter shall take effect on the one hundred and eightieth day beginning after December 31, 1975. Any institution specified in section 2802(2)(A) 1
+This chapter shall take effect on the one hundred and eightieth day beginning after December 31, 1975. Any institution specified in section 2802(2)(A) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of this title which has total assets as of its last full fiscal year of $10,000,000 or less is exempt from the provisions of this chapter. The Bureau, in consultation with the Secretary, may exempt institutions described in section 2802(2)(B) 1 of this title that are comparable within their respective industries to institutions that are exempt under the preceding sentence (as determined without regard to the adjustment made by subsection (b)).
+of this title which has total assets as of its last full fiscal year of $10,000,000 or less is exempt from the provisions of this chapter. The Bureau, in consultation with the Secretary, may exempt institutions described in section 2802(2)(B) 1 of this title that are comparable within their respective industries to institutions that are exempt under the preceding sentence (as determined without regard to the adjustment made by subsection (b)).
 
 **(b) CPI adjustments**
 
 **(1) In general**
 
-Subject to paragraph (2), the dollar amount applicable with respect to institutions described in section 2802(2)(A) <sup>1</sup> of this title under the 2d sentence of subsection (a) shall be adjusted annually after December 31, 1996, by the annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers published by the Bureau of Labor Statistics.
+Subject to paragraph (2), the dollar amount applicable with respect to institutions described in section 2802(2)(A) <sup>1</sup> of this title under the 2d sentence of subsection (a) shall be adjusted annually after December 31, 1996, by the annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers published by the Bureau of Labor Statistics.
 
 **(2) 1-time adjustment for prior inflation** The first adjustment made under paragraph (1) after September 30, 1996, shall be the percentage by which—
 
@@ -677,13 +677,13 @@ Subject to paragraph (2), the dollar amount applicable with respect to instituti
 
 The dollar amount applicable under paragraph (1) for any calendar year shall be the amount determined in accordance with subparagraphs (A) and (B) of paragraph (2) and rounded to the nearest multiple of $1,000,000.
 
-(Pub. L. 94–200, title III, § 309, Dec. 31, 1975, 89 Stat. 1128; Pub. L. 102–242, title II, § 224(a), Dec. 19, 1991, 105 Stat. 2307; Pub. L. 102–550, title XVI, § 1604(a)(15), Oct. 28, 1992, 106 Stat. 4083; Pub. L. 104–208, div. A, title II, § 2225(a), Sept. 30, 1996, 110 Stat. 3009–415; Pub. L. 111–203, title X, § 1094(1), July 21, 2010, 124 Stat. 2097.)
+(Pub. L. 94–200, title III, § 309, Dec. 31, 1975, 89 Stat. 1128; Pub. L. 102–242, title II, § 224(a), Dec. 19, 1991, 105 Stat. 2307; Pub. L. 102–550, title XVI, § 1604(a)(15), Oct. 28, 1992, 106 Stat. 4083; Pub. L. 104–208, div. A, title II, § 2225(a), Sept. 30, 1996, 110 Stat. 3009–415; Pub. L. 111–203, title X, § 1094(1), July 21, 2010, 124 Stat. 2097.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2802(2) of this title, referred to in subsecs. (a) and (b)(1), was redesignated section 2802(3) of this title by Pub. L. 111–203, title X, § 1094(2)(A), July 21, 2010, 124 Stat. 2097.
+Section 2802(2) of this title, referred to in subsecs. (a) and (b)(1), was redesignated section 2802(3) of this title by Pub. L. 111–203, title X, § 1094(2)(A), July 21, 2010, 124 Stat. 2097.
 
 **Amendments**
 
@@ -691,9 +691,9 @@ Section 2802(2) of this title, referred to in subsecs. (a) and (b)(1), was redes
 
 1996—Pub. L. 104–208 designated existing provisions as subsec. (a), inserted heading, inserted “(as determined without regard to the adjustment made by subsection (b))” before period at end, and added subsec. (b).
 
-1992—Pub. L. 102–550, § 1604(a)(15), amended directory language of Pub. L. 102–242, § 224(a). See 1991 Amendment note below.
+1992—Pub. L. 102–550, § 1604(a)(15), amended directory language of Pub. L. 102–242, § 224(a). See 1991 Amendment note below.
 
-1991—Pub. L. 102–242, § 224(a), as amended by Pub. L. 102–550, § 1604(a)(15), struck out “depository” before “institution”, inserted “specified in section 2802(2)(A) of this title” after “institution”, and inserted at end: “The Board, in consultation with the Secretary, may exempt institutions described in section 2802(2)(B) of this title that are comparable within their respective industries to institutions that are exempt under the preceding sentence.”
+1991—Pub. L. 102–242, § 224(a), as amended by Pub. L. 102–550, § 1604(a)(15), struck out “depository” before “institution”, inserted “specified in section 2802(2)(A) of this title” after “institution”, and inserted at end: “The Board, in consultation with the Secretary, may exempt institutions described in section 2802(2)(B) of this title that are comparable within their respective industries to institutions that are exempt under the preceding sentence.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -707,9 +707,9 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–242, title II, § 224(b), Dec. 19, 1991, 105 Stat. 2307, provided that: “This section [amending this section] shall become effective on January 1, 1992.”
+Pub. L. 102–242, title II, § 224(b), Dec. 19, 1991, 105 Stat. 2307, provided that: “This section [amending this section] shall become effective on January 1, 1992.”
 
-## § 2809. Compilation of aggregate data
+## § 2809. Compilation of aggregate data
 
 **(a) Commencement; scope of data and tables**
 
@@ -723,13 +723,13 @@ The Bureau shall provide staff and data processing resources to the Council to e
 
 The data and tables required pursuant to subsection (a) shall be made available to the public by no later than December 31 of the year following the calendar year on which the data is based.
 
-(Pub. L. 94–200, title III, § 310, as added Pub. L. 96–399, title III, § 340(c), Oct. 8, 1980, 94 Stat. 1658; amended Pub. L. 98–181, title I [title VII, § 701(a)], Nov. 30, 1983, 97 Stat. 1266; Pub. L. 111–203, title X, § 1094(1), July 21, 2010, 124 Stat. 2097.)
+(Pub. L. 94–200, title III, § 310, as added Pub. L. 96–399, title III, § 340(c), Oct. 8, 1980, 94 Stat. 1658; amended Pub. L. 98–181, title I [title VII, § 701(a)], Nov. 30, 1983, 97 Stat. 1266; Pub. L. 111–203, title X, § 1094(1), July 21, 2010, 124 Stat. 2097.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2809, Pub. L. 94–200, title III, § 310, Dec. 31, 1975, 89 Stat. 1128, provided for termination of authority granted by this chapter, prior to repeal by section 340(b) of Pub. L. 96–399. See section 2811 of this title.
+A prior section 2809, Pub. L. 94–200, title III, § 310, Dec. 31, 1975, 89 Stat. 1128, provided for termination of authority granted by this chapter, prior to repeal by section 340(b) of Pub. L. 96–399. See section 2811 of this title.
 
 **Amendments**
 
@@ -743,17 +743,17 @@ A prior section 2809, Pub. L. 94–200, title III, § 310, Dec. 31, 1975, 89 S
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-## § 2810. Disclosure by Secretary; commencement, scope, etc.
+## § 2810. Disclosure by Secretary; commencement, scope, etc.
 
 Beginning with data for calendar year 1980, the Secretary shall make publicly available data in the Secretary’s possession for each mortgagee which is not otherwise subject to the requirements of this chapter and which is not exempt pursuant to section 2805(b) of this title (and for each mortgagee making mortgage loans exempted under section 2803(g) of this title), with respect to mortgage loans approved (or for which completed applications are received) by the Secretary for insurance under title I or II of the National Housing Act [12 U.S.C. 1702 et seq., 1707 et seq.]. Such data to be disclosed shall consist of data comparable to the data which would be disclosed if such mortgagee were subject to the requirements of section 2803 of this title. Disclosure statements containing data for each such mortgagee for a primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas shall, at a minimum, be publicly available at the central depository of data established pursuant to section 2803(f) of this title for such primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas. The Secretary shall also compile and make publicly available aggregate data for such mortgagees by census tract, and tables indicating aggregate lending patterns, in a manner comparable to the information required to be made publicly available in accordance with section 2809 of this title.
 
-(Pub. L. 94–200, title III, § 311, as added Pub. L. 96–399, title III, § 340(c), Oct. 8, 1980, 94 Stat. 1658; amended Pub. L. 98–181, title I [title VII, § 701(a)], Nov. 30, 1983, 97 Stat. 1266; Pub. L. 100–242, title V, § 565(a)(3), Feb. 5, 1988, 101 Stat. 1945; Pub. L. 101–73, title XII, § 1211(c)(2)(D), Aug. 9, 1989, 103 Stat. 525.)
+(Pub. L. 94–200, title III, § 311, as added Pub. L. 96–399, title III, § 340(c), Oct. 8, 1980, 94 Stat. 1658; amended Pub. L. 98–181, title I [title VII, § 701(a)], Nov. 30, 1983, 97 Stat. 1266; Pub. L. 100–242, title V, § 565(a)(3), Feb. 5, 1988, 101 Stat. 1945; Pub. L. 101–73, title XII, § 1211(c)(2)(D), Aug. 9, 1989, 103 Stat. 525.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Housing Act, referred to in text, is act June 27, 1934, ch. 847, 48 Stat. 1246. Titles I and II of the Act are classified generally to subchapters I (§ 1702 et seq.) and II (§ 1707 et seq.), respectively, of chapter 13 of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in text, is act June 27, 1934, ch. 847, 48 Stat. 1246. Titles I and II of the Act are classified generally to subchapters I (§ 1702 et seq.) and II (§ 1707 et seq.), respectively, of chapter 13 of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
 **Amendments**
 
@@ -773,6 +773,6 @@ Amendment by Pub. L. 101–73 applicable to each calendar year beginning after D
 
 Amendment by Pub. L. 100–242 applicable to the portion of calendar year 1988 that begins Aug. 19, 1988, and to each calendar year beginning after Dec. 31, 1988, see section 565(a)(4) of Pub. L. 100–242, as amended, set out as a note under section 2802 of this title.
 
-## § 2811. Repealed. Pub. L. 100–242, title V, § 565(b), Feb. 5, 1988, 101 Stat. 1945
+## § 2811. Repealed. Pub. L. 100–242, title V, § 565(b), Feb. 5, 1988, 101 Stat. 1945
 
-Section, Pub. L. 94–200, title III, § 312, as added Pub. L. 96–399, title III, § 340(c), Oct. 8, 1980, 94 Stat. 1659; amended Pub. L. 99–120, § 5(c), Oct. 8, 1985, 99 Stat. 504; Pub. L. 99–156, § 5(c), Nov. 15, 1985, 99 Stat. 817; Pub. L. 99–219, § 5(c), Dec. 26, 1985, 99 Stat. 1732; Pub. L. 99–267, § 5(c), Mar. 27, 1986, 100 Stat. 75; Pub. L. 99–272, title III, § 3011(c), Apr. 7, 1986, 100 Stat. 106; Pub. L. 99–289, § 1(b), May 2, 1986, 100 Stat. 412; Pub. L. 99–345, § 1, June 24, 1986, 100 Stat. 673; Pub. L. 99–430, Sept. 30, 1986, 100 Stat. 986; Pub. L. 100–122, § 1, Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327, provided that authority granted by this chapter was to expire on Mar. 15, 1988.
+Section, Pub. L. 94–200, title III, § 312, as added Pub. L. 96–399, title III, § 340(c), Oct. 8, 1980, 94 Stat. 1659; amended Pub. L. 99–120, § 5(c), Oct. 8, 1985, 99 Stat. 504; Pub. L. 99–156, § 5(c), Nov. 15, 1985, 99 Stat. 817; Pub. L. 99–219, § 5(c), Dec. 26, 1985, 99 Stat. 1732; Pub. L. 99–267, § 5(c), Mar. 27, 1986, 100 Stat. 75; Pub. L. 99–272, title III, § 3011(c), Apr. 7, 1986, 100 Stat. 106; Pub. L. 99–289, § 1(b), May 2, 1986, 100 Stat. 412; Pub. L. 99–345, § 1, June 24, 1986, 100 Stat. 673; Pub. L. 99–430, Sept. 30, 1986, 100 Stat. 986; Pub. L. 100–122, § 1, Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327, provided that authority granted by this chapter was to expire on Mar. 15, 1988.

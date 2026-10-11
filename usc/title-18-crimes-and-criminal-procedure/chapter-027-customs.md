@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2007—Pub. L. 110–161, div. E, title V, § 553(a)(2), Dec. 26, 2007, 121 Stat. 2082, added item 555 and struck out item 554 “Border tunnels and passages”.
+2007—Pub. L. 110–161, div. E, title V, § 553(a)(2), Dec. 26, 2007, 121 Stat. 2082, added item 555 and struck out item 554 “Border tunnels and passages”.
 
-2006—Pub. L. 109–295, title V, § 551(b), Oct. 4, 2006, 120 Stat. 1390, added item 554 “Border tunnels and passages”.
+2006—Pub. L. 109–295, title V, § 551(b), Oct. 4, 2006, 120 Stat. 1390, added item 554 “Border tunnels and passages”.
 
-Pub. L. 109–177, title III, § 311(b), Mar. 9, 2006, 120 Stat. 242, added item 554 “Smuggling goods from the United States”.
+Pub. L. 109–177, title III, § 311(b), Mar. 9, 2006, 120 Stat. 242, added item 554 “Smuggling goods from the United States”.
 
-1984—Pub. L. 98–547, title III, § 301(b), Oct. 25, 1984, 98 Stat. 2771, added item 553.
+1984—Pub. L. 98–547, title III, § 301(b), Oct. 25, 1984, 98 Stat. 2771, added item 553.
 
-## § 541. Entry of goods falsely classified
+## § 541. Entry of goods falsely classified
 
 Whoever knowingly effects any entry of goods, wares, or merchandise, at less than the true weight or measure thereof, or upon a false classification as to quality or value, or by the payment of less than the amount of duty legally due, shall be fined under this title or imprisoned not more than two years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 715; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 715; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 126 (Mar. 4, 1909, ch. 321, § 69, 35 Stat. 1101).
+Based on title 18, U.S.C., 1940 ed., § 126 (Mar. 4, 1909, ch. 321, § 69, 35 Stat. 1101).
 
 Reference to persons aiding, contained in words “or aid in effecting,” was omitted as unnecessary as such persons are made principals by section 2 of this title.
 
@@ -47,7 +47,7 @@ Changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-## § 542. Entry of goods by means of false statements
+## § 542. Entry of goods by means of false statements
 
 Whoever enters or introduces, or attempts to enter or introduce, into the commerce of the United States any imported merchandise by means of any fraudulent or false invoice, declaration, affidavit, letter, paper, or by means of any false statement, written or verbal, or by means of any false or fraudulent practice or appliance, or makes any false statement in any declaration without reasonable cause to believe the truth of such statement, or procures the making of any such false statement as to any matter material thereto without reasonable cause to believe the truth of such statement, whether or not the United States shall or may be deprived of any lawful duties; or
 
@@ -59,11 +59,11 @@ Nothing in this section shall be construed to relieve imported merchandise from 
 
 The term “commerce of the United States”, as used in this section, shall not include commerce with the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Island, or Guam.
 
-(June 25, 1948, ch. 645, 62 Stat. 715; June 30, 1955, ch. 258, § 2(c), 69 Stat. 242; Pub. L. 103–322, title XXXIII, §§ 330004(18), 330016(1)(K), Sept. 13, 1994, 108 Stat. 2142, 2147; Pub. L. 104–294, title VI, § 604(b)(23), Oct. 11, 1996, 110 Stat. 3508.)
+(June 25, 1948, ch. 645, 62 Stat. 715; June 30, 1955, ch. 258, § 2(c), 69 Stat. 242; Pub. L. 103–322, title XXXIII, §§ 330004(18), 330016(1)(K), Sept. 13, 1994, 108 Stat. 2142, 2147; Pub. L. 104–294, title VI, § 604(b)(23), Oct. 11, 1996, 110 Stat. 3508.)
 
 **Historical and Revision Notes**
 
-Based on section 1591 of title 19, U.S.C., 1940 ed., Customs Duties (June 17, 1930, ch. 497, title IV, § 591, 46 Stat. 750; Aug. 5, 1935, ch. 438, title III, § 304(a), 49 Stat. 527).
+Based on section 1591 of title 19, U.S.C., 1940 ed., Customs Duties (June 17, 1930, ch. 497, title IV, § 591, 46 Stat. 750; Aug. 5, 1935, ch. 438, title III, § 304(a), 49 Stat. 527).
 
 The reference in the first paragraph to persons aiding, contained in the phrase “or aids,” was omitted as unnecessary as such persons are made principals by section 2 of this title.
 
@@ -81,11 +81,11 @@ Changes in phraseology were also made.
 
 **Amendments**
 
-1996—Pub. L. 104–294 amended Pub. L. 103–322, § 330004(18). See 1994 Amendment note below.
+1996—Pub. L. 104–294 amended Pub. L. 103–322, § 330004(18). See 1994 Amendment note below.
 
-1994—Pub. L. 103–322, § 330016(1)(K), substituted “fined under this title” for “fined not more than $5,000” in third par.
+1994—Pub. L. 103–322, § 330016(1)(K), substituted “fined under this title” for “fined not more than $5,000” in third par.
 
-Pub. L. 103–322, § 330004(18), as amended by Pub. L. 104–294, § 604(b)(23), struck out “Philippine Islands,” before “Virgin Islands” in last par.
+Pub. L. 103–322, § 330004(18), as amended by Pub. L. 104–294, § 604(b)(23), struck out “Philippine Islands,” before “Virgin Islands” in last par.
 
 1955—Act June 30, 1955, inserted reference to Johnston Island in last par.
 
@@ -99,15 +99,15 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 Amendment by act June 30, 1955, effective July 1, 1955, see section 2(d) of act June 30, 1955, set out as a note under section 1401 of Title 19, Customs Duties.
 
-## § 543. Entry of goods for less than legal duty
+## § 543. Entry of goods for less than legal duty
 
 Whoever, being an officer of the revenue, knowingly admits to entry, any goods, wares, or merchandise, upon payment of less than the amount of duty legally due, shall be fined under this title or imprisoned not more than two years, or both, and removed from office.
 
-(June 25, 1948, ch. 645, 62 Stat. 716; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 716; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 125 (Mar. 4, 1909, ch. 321, § 68, 35 Stat. 1101).
+Based on title 18, U.S.C., 1940 ed., § 125 (Mar. 4, 1909, ch. 321, § 68, 35 Stat. 1101).
 
 Reference to persons aiding, contained in words “or aid in admitting,” was omitted as unnecessary as such persons are made principals by section 2 of this title.
 
@@ -119,17 +119,17 @@ Changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-## § 544. Relanding of goods
+## § 544. Relanding of goods
 
 If any merchandise entered or withdrawn for exportation without payment of the duties thereon, or with intent to obtain a drawback of the duties paid, or of any other allowances given by law on the exportation thereof, is relanded at any place in the United States without entry having been made, such merchandise shall be considered as having been imported into the United States contrary to law, and each person concerned shall be fined under this title or imprisoned not more than two years, or both; and such merchandise shall be forfeited.
 
 The term “any place in the United States”, as used in this section, shall not include the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Island, or Guam.
 
-(June 25, 1948, ch. 645, 62 Stat. 716; June 30, 1955, ch. 258, § 2(c), 69 Stat. 242; Pub. L. 103–322, title XXXIII, §§ 330004(18), 330016(1)(K), Sept. 13, 1994, 108 Stat. 2142, 2147; Pub. L. 104–294, title VI, § 604(b)(23), Oct. 11, 1996, 110 Stat. 3508.)
+(June 25, 1948, ch. 645, 62 Stat. 716; June 30, 1955, ch. 258, § 2(c), 69 Stat. 242; Pub. L. 103–322, title XXXIII, §§ 330004(18), 330016(1)(K), Sept. 13, 1994, 108 Stat. 2142, 2147; Pub. L. 104–294, title VI, § 604(b)(23), Oct. 11, 1996, 110 Stat. 3508.)
 
 **Historical and Revision Notes**
 
-Based on section 1589 of title 19, U.S.C., 1940 ed., Customs Duties (June 17, 1930, ch. 497, title IV, § 589, 46 Stat. 750).
+Based on section 1589 of title 19, U.S.C., 1940 ed., Customs Duties (June 17, 1930, ch. 497, title IV, § 589, 46 Stat. 750).
 
 The final paragraph was added to conform with section 1709 of title 19, U.S.C., 1940 ed.
 
@@ -139,11 +139,11 @@ Minor changes were made in phraseology.
 
 **Amendments**
 
-1996—Pub. L. 104–294 amended Pub. L. 103–322, § 330004(18). See 1994 Amendment note below.
+1996—Pub. L. 104–294 amended Pub. L. 103–322, § 330004(18). See 1994 Amendment note below.
 
-1994—Pub. L. 103–322, § 330016(1)(K), substituted “fined under this title” for “fined not more than $5,000” in first par.
+1994—Pub. L. 103–322, § 330016(1)(K), substituted “fined under this title” for “fined not more than $5,000” in first par.
 
-Pub. L. 103–322, § 330004(18), as amended by Pub. L. 104–294, § 604(b)(23), struck out “Philippine Islands,” before “Virgin Islands” in last par.
+Pub. L. 103–322, § 330004(18), as amended by Pub. L. 104–294, § 604(b)(23), struck out “Philippine Islands,” before “Virgin Islands” in last par.
 
 1955—Act June 30, 1955, inserted reference to Johnston Island in last par.
 
@@ -157,7 +157,7 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 Amendment by act June 30, 1955, effective July 1, 1955, see section 2(d) of act June 30, 1955, set out as a note under section 1401 of Title 19, Customs Duties.
 
-## § 545. Smuggling goods into the United States
+## § 545. Smuggling goods into the United States
 
 Whoever knowingly and willfully, with intent to defraud the United States, smuggles, or clandestinely introduces or attempts to smuggle or clandestinely introduce into the United States any merchandise which should have been invoiced, or makes out or passes, or attempts to pass, through the customhouse any false, forged, or fraudulent invoice, or other document or paper; or
 
@@ -171,11 +171,11 @@ Merchandise introduced into the United States in violation of this section, or t
 
 The term “United States”, as used in this section, shall not include the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Island, or Guam.
 
-(June 25, 1948, ch. 645, 62 Stat. 716; Aug. 24, 1954, ch. 890, § 1, 68 Stat. 782; Sept. 1, 1954, ch. 1213, title V, § 507, 68 Stat. 1141; June 30, 1955, ch. 258, § 2(c), 69 Stat. 242; Pub. L. 103–322, title XXXII, § 320903(c), title XXXIII, §§ 330004(18), 330016(1)(L), Sept. 13, 1994, 108 Stat. 2125, 2142, 2147; Pub. L. 104–294, title VI, § 604(b)(23), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 109–177, title III, § 310, Mar. 9, 2006, 120 Stat. 242.)
+(June 25, 1948, ch. 645, 62 Stat. 716; Aug. 24, 1954, ch. 890, § 1, 68 Stat. 782; Sept. 1, 1954, ch. 1213, title V, § 507, 68 Stat. 1141; June 30, 1955, ch. 258, § 2(c), 69 Stat. 242; Pub. L. 103–322, title XXXII, § 320903(c), title XXXIII, §§ 330004(18), 330016(1)(L), Sept. 13, 1994, 108 Stat. 2125, 2142, 2147; Pub. L. 104–294, title VI, § 604(b)(23), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 109–177, title III, § 310, Mar. 9, 2006, 120 Stat. 242.)
 
 **Historical and Revision Notes**
 
-Based on section 1593 of title 19, U.S.C., 1940 ed., Customs Duties (June 17, 1930, ch. 497, title IV, § 593, 46 Stat. 751).
+Based on section 1593 of title 19, U.S.C., 1940 ed., Customs Duties (June 17, 1930, ch. 497, title IV, § 593, 46 Stat. 751).
 
 Reference in first paragraph to aiders, contained in words “his, her, or their aiders and abettors” was omitted as unnecessary since such persons are made principals by section 2 of this title. For the same reason words “or assists in so doing” in second paragraph were deleted.
 
@@ -197,13 +197,13 @@ Changes were made in phraseology.
 
 2006—Pub. L. 109–177, which directed amendment of third par. by substituting “20 years” for “5 years”, was executed by making the substitution for “five years”, to reflect the probable intent of Congress.
 
-1996—Pub. L. 104–294 amended Pub. L. 103–322, § 330004(18). See 1994 Amendment note below.
+1996—Pub. L. 104–294 amended Pub. L. 103–322, § 330004(18). See 1994 Amendment note below.
 
-1994—Pub. L. 103–322, § 330016(1)(L), substituted “fined under this title” for “fined not more than $10,000” in third par.
+1994—Pub. L. 103–322, § 330016(1)(L), substituted “fined under this title” for “fined not more than $10,000” in third par.
 
-Pub. L. 103–322, § 330004(18), as amended by Pub. L. 104–294, § 604(b)(23), struck out “Philippine Islands,” before “Virgin Islands” in last par.
+Pub. L. 103–322, § 330004(18), as amended by Pub. L. 104–294, § 604(b)(23), struck out “Philippine Islands,” before “Virgin Islands” in last par.
 
-Pub. L. 103–322, § 320903(c), inserted “or attempts to smuggle or clandestinely introduce” after “clandestinely introduces” in first par.
+Pub. L. 103–322, § 320903(c), inserted “or attempts to smuggle or clandestinely introduce” after “clandestinely introduces” in first par.
 
 1955—Act June 30, 1955, inserted reference to Johnston Island.
 
@@ -223,19 +223,19 @@ Amendment by act June 30, 1955, effective July 1, 1955, see section 2(d) of act 
 
 **Effective Date of 1954 Amendment**
 
-Act Aug. 24, 1954, ch. 890, § 2, 68 Stat. 783, provided that: “The amendments made by the first section of this Act [amending this section] shall apply only with respect to offenses committed on and after the date of the enactment of this Act [Aug. 24, 1954].”
+Act Aug. 24, 1954, ch. 890, § 2, 68 Stat. 783, provided that: “The amendments made by the first section of this Act [amending this section] shall apply only with respect to offenses committed on and after the date of the enactment of this Act [Aug. 24, 1954].”
 
-## § 546. Smuggling goods into foreign countries
+## § 546. Smuggling goods into foreign countries
 
 Any person owning in whole or in part any vessel of the United States who employs, or participates in, or allows the employment of, such vessel for the purpose of smuggling, or attempting to smuggle, or assisting in smuggling, any merchandise into the territory of any foreign government in violation of the laws there in force, if under the laws of such foreign government any penalty or forfeiture is provided for violation of the laws of the United States respecting the customs revenue, and any citizen of, or person domiciled in, or any corporation incorporated in, the United States, controlling or substantially participating in the control of any such vessel, directly or indirectly, whether through ownership of corporate shares or otherwise, and allowing the employment of said vessel for any such purpose, and any person found, or discovered to have been, on board of any such vessel so employed and participating or assisting in any such purpose, shall be fined under this title or imprisoned not more than two years, or both.
 
 It shall constitute an offense under this section to hire out or charter a vessel if the lessor or charterer has knowledge or reasonable grounds for belief that the lessee or person chartering the vessel intends to employ such vessel for any of the purposes described in this section and if such vessel is, during the time such lease or charter is in effect, employed for any such purpose.
 
-(June 25, 1948, ch. 645, 62 Stat. 717; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 717; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on section 1702 of title 19, U.S.C., 1940 ed., Customs Duties (Aug. 5, 1935, ch. 438, title I, § 2, 49 Stat. 518).
+Based on section 1702 of title 19, U.S.C., 1940 ed., Customs Duties (Aug. 5, 1935, ch. 438, title I, § 2, 49 Stat. 518).
 
 Changes were made in phraseology.
 
@@ -249,15 +249,15 @@ The laws of the United States respecting the customs revenue, referred to in tex
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in first par.
 
-## § 547. Depositing goods in buildings on boundaries
+## § 547. Depositing goods in buildings on boundaries
 
 Whoever receives or deposits any merchandise in any building upon the boundary line between the United States and any foreign country, or carries any merchandise through the same, in violation of law, shall be fined under this title or imprisoned not more than two years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 717; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 717; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on section 1596 of title 19, U.S.C., 1940 ed., Customs Duties (June 17, 1930, ch. 497, title IV, § 596, 46 Stat. 752).
+Based on section 1596 of title 19, U.S.C., 1940 ed., Customs Duties (June 17, 1930, ch. 497, title IV, § 596, 46 Stat. 752).
 
 Reference to persons aiding, contained in words “or aids therein,” was omitted as such persons are made principals by section 2 of this title.
 
@@ -269,17 +269,17 @@ Changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-## § 548. Removing or repacking goods in warehouses
+## § 548. Removing or repacking goods in warehouses
 
 Whoever fraudulently conceals, removes, or repacks merchandise in any bonded warehouse or fraudulently alters, defaces or obliterates any marks or numbers placed upon packages deposited in such warehouse, shall be fined under this title or imprisoned not more than two years, or both.
 
 Merchandise so concealed, removed, or repacked, or packages upon which any marks or numbers have been so altered, defaced, or obliterated, shall be forfeited to the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 717; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 717; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on section 1597 of title 19, U.S.C., 1940 ed., Customs Duties (June 17, 1930, ch. 497, title IV, § 597, 46 Stat. 752).
+Based on section 1597 of title 19, U.S.C., 1940 ed., Customs Duties (June 17, 1930, ch. 497, title IV, § 597, 46 Stat. 752).
 
 This section was rewritten to place the criminal provisions ahead of the forfeiture provisions. This did not require any substantive changes except omission of reference to persons aiding. Such persons are made principals by section 2 of this title.
 
@@ -295,7 +295,7 @@ Changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-## § 549. Removing goods from customs custody; breaking seals
+## § 549. Removing goods from customs custody; breaking seals
 
 Whoever, without authority, affixes or attaches a customs seal, fastening, or mark, or any seal, fastening, or mark purporting to be a customs seal, fastening, or mark to any vessel, vehicle, warehouse, or package; or
 
@@ -307,11 +307,11 @@ Whoever receives or transports any merchandise or baggage unlawfully removed fro
 
 Shall be fined under this title or imprisoned not more than 10 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 717; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–177, title III, § 311(e), Mar. 9, 2006, 120 Stat. 242.)
+(June 25, 1948, ch. 645, 62 Stat. 717; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–177, title III, § 311(e), Mar. 9, 2006, 120 Stat. 242.)
 
 **Historical and Revision Notes**
 
-Based on section 1598 of title 19, U.S.C., 1940 ed., Customs Duties (June 17, 1930, ch. 497, title IV, § 598, 46 Stat. 752; June 25, 1938, ch. 679, § 26, 52 Stat. 1089).
+Based on section 1598 of title 19, U.S.C., 1940 ed., Customs Duties (June 17, 1930, ch. 497, title IV, § 598, 46 Stat. 752; June 25, 1938, ch. 679, § 26, 52 Stat. 1089).
 
 Reference to persons causing, procuring, aiding or assisting was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
 
@@ -331,15 +331,15 @@ Changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in last par.
 
-## § 550. False claim for refund of duties
+## § 550. False claim for refund of duties
 
 Whoever knowingly and willfully files any false or fraudulent entry or claim for the payment of drawback, allowance, or refund of duties upon the exportation of merchandise, or knowingly or willfully makes or files any false affidavit, abstract, record, certificate, or other document, with a view to securing the payment to himself or others of any drawback, allowance, or refund of duties, on the exportation of merchandise, greater than that legally due thereon, shall be fined under this title or imprisoned not more than two years, or both, and such merchandise or the value thereof shall be forfeited.
 
-(June 25, 1948, ch. 645, 62 Stat. 718; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 718; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on section 1590 of title 19, U.S.C., 1940 ed., Customs Duties (June 17, 1930, ch. 497, title IV, § 590, 46 Stat. 750).
+Based on section 1590 of title 19, U.S.C., 1940 ed., Customs Duties (June 17, 1930, ch. 497, title IV, § 590, 46 Stat. 750).
 
 Reference to felony, contained in words “such person shall be guilty of a felony” was omitted as unnecessary in view of definition of felony in section 1 of this title. This, too, was the policy adopted by the codifiers of the 1909 Criminal Code. (See S. Rept. 10, pt. I, pp. 12, 13, and 14, 60th Cong., 1st sess.)
 
@@ -353,7 +353,7 @@ Changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-## § 551. Concealing or destroying invoices or other papers
+## § 551. Concealing or destroying invoices or other papers
 
 Whoever willfully conceals or destroys any invoice, book, or paper relating to any merchandise imported into the United States, after an inspection thereof has been demanded by the collector of any collection district; or
 
@@ -361,11 +361,11 @@ Whoever conceals or destroys at any time any such invoice, book, or paper for th
 
 Shall be fined under this title or imprisoned not more than two years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 718; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 718; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 120 (Mar. 4, 1909, ch. 321, § 64, 35 Stat. 1100).
+Based on title 18, U.S.C., 1940 ed., § 120 (Mar. 4, 1909, ch. 321, § 64, 35 Stat. 1100).
 
 Minor changes were made in phraseology.
 
@@ -381,15 +381,15 @@ Minor changes were made in phraseology.
 
 All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished, with such offices to be terminated not later than Dec. 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. All functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
 
-## § 552. Officers aiding importation of obscene or treasonous books and articles
+## § 552. Officers aiding importation of obscene or treasonous books and articles
 
 Whoever, being an officer, agent, or employee of the United States, knowingly aids or abets any person engaged in any violation of any of the provisions of law prohibiting importing, advertising, dealing in, exhibiting, or sending or receiving by mail obscene or indecent publications or representations, or books, pamphlets, papers, writings, advertisements, circulars, prints, pictures, or drawings containing any matter advocating or urging treason or insurrection against the United States or forcible resistance to any law of the United States, or containing any threat to take the life of or inflict bodily harm upon any person in the United States, or means for procuring abortion, or other articles of indecent or immoral use or tendency, shall be fined under this title or imprisoned not more than ten years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 718; Pub. L. 91–662, § 2, Jan. 8, 1971, 84 Stat. 1973; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 718; Pub. L. 91–662, § 2, Jan. 8, 1971, 84 Stat. 1973; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on section 1305(b) of title 19, U.S.C., 1940 ed., Customs Duties (June 17, 1930, ch. 497, title III, § 305(b), 46 Stat. 688).
+Based on section 1305(b) of title 19, U.S.C., 1940 ed., Customs Duties (June 17, 1930, ch. 497, title III, § 305(b), 46 Stat. 688).
 
 In view of definition of misdemeanor in section 1 of this title words “shall be deemed guilty of a misdemeanor, and” were omitted.
 
@@ -409,9 +409,9 @@ Changes were made in phraseology.
 
 **Effective Date of 1971 Amendment**
 
-Pub. L. 91–662, § 7, Jan. 8, 1971, 84 Stat. 1974, provided that: “The amendments made by this Act (other than by section 6) [amending this section, sections 1461 and 1462 of this title, and section 1305 of Title 19, Customs Duties] shall take effect on the day after the date of the enactment of this Act [Jan. 8, 1971].”
+Pub. L. 91–662, § 7, Jan. 8, 1971, 84 Stat. 1974, provided that: “The amendments made by this Act (other than by section 6) [amending this section, sections 1461 and 1462 of this title, and section 1305 of Title 19, Customs Duties] shall take effect on the day after the date of the enactment of this Act [Jan. 8, 1971].”
 
-## § 553. Importation or exportation of stolen motor vehicles, off-highway mobile equipment, vessels, or aircraft
+## § 553. Importation or exportation of stolen motor vehicles, off-highway mobile equipment, vessels, or aircraft
 
 **(a)** Whoever knowingly imports, exports, or attempts to import or export—
 
@@ -447,27 +447,27 @@ shall be fined under this title or imprisoned not more than 10 years, or both.
 
 **(B)** in the case of any other vehicle or equipment covered by this section, means a number or symbol assigned to the vehicle or equipment, or part thereof, by the manufacturer primarily for the purpose of identifying such vehicle, equipment, or part.
 
-(Added Pub. L. 98–547, title III, § 301(a), Oct. 25, 1984, 98 Stat. 2771; amended Pub. L. 100–690, title VII, § 7021, Nov. 18, 1988, 102 Stat. 4396; Pub. L. 102–519, title I, § 102, Oct. 25, 1992, 106 Stat. 3385; Pub. L. 103–272, § 5(e)(5), July 5, 1994, 108 Stat. 1374.)
+(Added Pub. L. 98–547, title III, § 301(a), Oct. 25, 1984, 98 Stat. 2771; amended Pub. L. 100–690, title VII, § 7021, Nov. 18, 1988, 102 Stat. 4396; Pub. L. 102–519, title I, § 102, Oct. 25, 1992, 106 Stat. 3385; Pub. L. 103–272, § 5(e)(5), July 5, 1994, 108 Stat. 1374.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsec. (c)(1). Pub. L. 103–272, § 5(e)(5)(A), substituted “section 32101 of title 49” for “section 2 of the Motor Vehicle Information and Cost Savings Act”.
+1994—Subsec. (c)(1). Pub. L. 103–272, § 5(e)(5)(A), substituted “section 32101 of title 49” for “section 2 of the Motor Vehicle Information and Cost Savings Act”.
 
-Subsec. (c)(4). Pub. L. 103–272, § 5(e)(5)(B), substituted “section 40102(a) of title 49” for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. App. 1301)”.
+Subsec. (c)(4). Pub. L. 103–272, § 5(e)(5)(B), substituted “section 40102(a) of title 49” for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. App. 1301)”.
 
 1992—Subsec. (a). Pub. L. 102–519 substituted “fined under this title or imprisoned not more than 10 years” for “fined not more than $15,000 or imprisoned not more than five years” in concluding provisions.
 
 1988—Subsec. (b)(2). Pub. L. 100–690 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “is not a violation of section 511 of this title.”
 
-## § 554. Smuggling goods from the United States
+## § 554. Smuggling goods from the United States
 
 **(a) In General.—** Whoever fraudulently or knowingly exports or sends from the United States, or attempts to export or send from the United States, any merchandise, article, or object contrary to any law or regulation of the United States, or receives, conceals, buys, sells, or in any manner facilitates the transportation, concealment, or sale of such merchandise, article or object, prior to exportation, knowing the same to be intended for exportation contrary to any law or regulation of the United States, shall be fined under this title, imprisoned not more than 10 years, or both.
 
 **(b) Definition.—** In this section, the term “United States” has the meaning given that term in section 545.
 
-(Added Pub. L. 109–177, title III, § 311(a), Mar. 9, 2006, 120 Stat. 242.)
+(Added Pub. L. 109–177, title III, § 311(a), Mar. 9, 2006, 120 Stat. 242.)
 
 **Editorial Notes**
 
@@ -475,7 +475,7 @@ Subsec. (c)(4). Pub. L. 103–272, § 5(e)(5)(B), substituted “section 40102
 
 Another section 554 was renumbered section 555 of this title.
 
-## § 555. Border tunnels and passages
+## § 555. Border tunnels and passages
 
 **(a)** Any person who knowingly constructs or finances the construction of a tunnel or subterranean passage that crosses the international border between the United States and another country, other than a lawfully authorized tunnel or passage known to the Secretary of Homeland Security and subject to inspection by Immigration and Customs Enforcement, shall be fined under this title and imprisoned for not more than 20 years.
 
@@ -485,7 +485,7 @@ Another section 554 was renumbered section 555 of this title.
 
 **(d)** Any person who attempts or conspires to commit any offense under subsection (a) or subsection (c) of this section shall be subject to the same penalties as those prescribed for the offense, the commission of which was the object of the attempt or conspiracy.
 
-(Added Pub. L. 109–295, title V, § 551(a), Oct. 4, 2006, 120 Stat. 1389, § 554; renumbered § 555, Pub. L. 110–161, div. E, title V, § 553(a)(1), Dec. 26, 2007, 121 Stat. 2082; amended Pub. L. 112–127, § 3, June 5, 2012, 126 Stat. 371.)
+(Added Pub. L. 109–295, title V, § 551(a), Oct. 4, 2006, 120 Stat. 1389, § 554; renumbered § 555, Pub. L. 110–161, div. E, title V, § 553(a)(1), Dec. 26, 2007, 121 Stat. 2082; amended Pub. L. 112–127, § 3, June 5, 2012, 126 Stat. 371.)
 
 **Editorial Notes**
 
@@ -499,7 +499,7 @@ Another section 554 was renumbered section 555 of this title.
 
 **Findings**
 
-Pub. L. 112–127, § 2, June 5, 2012, 126 Stat. 370, provided that:
+Pub. L. 112–127, § 2, June 5, 2012, 126 Stat. 370, provided that:
 
 > “Congress finds the following:
 

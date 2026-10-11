@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 108—GLOBAL MAGNITSKY HUMAN RIGHTS ACCOUNTABILITY
 
-## § 10101. Definitions
+## § 10101. Definitions
 
 In this chapter:
 
@@ -35,7 +35,7 @@ The term “person” has the meaning given that term in section 591.308 of titl
 
 The term “United States person” has the meaning given that term in section 595.315 of title 31, Code of Federal Regulations (as in effect on the day before December 23, 2016).
 
-(Pub. L. 114–328, div. A, title XII, § 1262, Dec. 23, 2016, 130 Stat. 2533.)
+(Pub. L. 114–328, div. A, title XII, § 1262, Dec. 23, 2016, 130 Stat. 2533.)
 
 **Editorial Notes**
 
@@ -47,9 +47,9 @@ Section was formerly set out in a note under section 2656 of this title.
 
 **Short Title**
 
-Pub. L. 114–328, div. A, title XII, § 1261, Dec. 23, 2016, 130 Stat. 2533, provided that: “This subtitle [subtitle F (§§ 1261–1264) of title XII of div. A of Pub. L. 114–328, enacting this chapter] may be cited as the ‘Global Magnitsky Human Rights Accountability Act’.”
+Pub. L. 114–328, div. A, title XII, § 1261, Dec. 23, 2016, 130 Stat. 2533, provided that: “This subtitle [subtitle F (§§ 1261–1264) of title XII of div. A of Pub. L. 114–328, enacting this chapter] may be cited as the ‘Global Magnitsky Human Rights Accountability Act’.”
 
-## § 10102. Authorization of imposition of sanctions
+## § 10102. Authorization of imposition of sanctions
 
 **(a) In general** The President may impose the sanctions described in subsection (b) with respect to any foreign person the President determines, based on credible evidence—
 
@@ -91,9 +91,9 @@ The authority to block and prohibit all transactions in all property and interes
 
 **(ii) Good**
 
-In this subparagraph, the term “good” has the meaning given that term in section 16 1
+In this subparagraph, the term “good” has the meaning given that term in section 16 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Export Administration Act of 1979 (50 U.S.C. 4618) (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
 
@@ -159,15 +159,15 @@ The Assistant Secretary of State for Democracy, Human Rights, and Labor, in cons
 
 **(2)** the Committee on Financial Services and the Committee on Foreign Affairs of the House of Representatives.
 
-(Pub. L. 114–328, div. A, title XII, § 1263, Dec. 23, 2016, 130 Stat. 2534.)
+(Pub. L. 114–328, div. A, title XII, § 1263, Dec. 23, 2016, 130 Stat. 2534.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsec. (b)(2)(A), (C)(ii), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (b)(2)(A), (C)(ii), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-Section 16 of the Export Administration Act of 1979, referred to in subsec. (b)(2)(C)(ii), is section 16 of Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 533, which was classified to section 4618 of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+Section 16 of the Export Administration Act of 1979, referred to in subsec. (b)(2)(C)(ii), is section 16 of Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 533, which was classified to section 4618 of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 **Codification**
 
@@ -193,7 +193,7 @@ The Secretary of State is authorized and directed to publish this memorandum in 
 
 Donald J. Trump.
 
-## § 10103. Reports to Congress
+## § 10103. Reports to Congress
 
 **(a) In general** The President shall submit to the appropriate congressional committees, in accordance with subsection (b), a report that includes—
 
@@ -261,7 +261,7 @@ The President shall publish the list required by subsection (a)(1) without regar
 
 **(2)** the Committee on Appropriations, the Committee on Financial Services, the Committee on Foreign Affairs, and the Committee on the Judiciary of the House of Representatives.
 
-(Pub. L. 114–328, div. A, title XII, § 1264, Dec. 23, 2016, 130 Stat. 2536.)
+(Pub. L. 114–328, div. A, title XII, § 1264, Dec. 23, 2016, 130 Stat. 2536.)
 
 **Editorial Notes**
 

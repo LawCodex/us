@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 25A—CROWN OF THORNS STARFISH
 
-## § 1211. Congressional statement of purpose
+## § 1211. Congressional statement of purpose
 
 For the purpose of conserving and protecting coral reef resources of the tropical islands of interest and concern to the United States in the Pacific and safeguarding critical island areas from possible erosion and to safeguard future recreational and esthetic uses of Pacific coral reefs, the Secretary of Commerce and the Secretary of the Smithsonian Institution are authorized to cooperate with and provide assistance to the governments of the State of Hawaii, the territories and possessions of the United States, including Guam and American Samoa, the Trust Territory of the Pacific Islands, and other island possessions of the United States, in the study and control of the seastar “Crown of Thorns” (Acanthaster planci).
 
-(Pub. L. 91–427, § 1, Sept. 26, 1970, 84 Stat. 884; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(Pub. L. 91–427, § 1, Sept. 26, 1970, 84 Stat. 884; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 **Executive Documents**
 
@@ -31,7 +31,7 @@ For the purpose of conserving and protecting coral reef resources of the tropica
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 1212. Investigation and control of crown of thorns starfish
+## § 1212. Investigation and control of crown of thorns starfish
 
 In carrying out the purposes of this chapter, the Secretary of Commerce and the Secretary of the Smithsonian Institution are authorized to—
 
@@ -43,7 +43,7 @@ In carrying out the purposes of this chapter, the Secretary of Commerce and the 
 
 **(4)** to take such other actions as deemed desirable to gain an understanding of the ecology and control of the seastar “Crown of Thorns”.
 
-(Pub. L. 91–427, § 2, Sept. 26, 1970, 84 Stat. 884; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+(Pub. L. 91–427, § 2, Sept. 26, 1970, 84 Stat. 884; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
 
 **Executive Documents**
 
@@ -51,8 +51,8 @@ In carrying out the purposes of this chapter, the Secretary of Commerce and the 
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under section 1211 of this title.
 
-## § 1213. Authorization of appropriations
+## § 1213. Authorization of appropriations
 
 For the purpose of carrying out the provisions of this chapter, there is authorized to be appropriated for the period commencing on September 26, 1970, and ending June 30, 1975, not to exceed $4,500,000.
 
-(Pub. L. 91–427, § 3, Sept. 26, 1970, 84 Stat. 884.)
+(Pub. L. 91–427, § 3, Sept. 26, 1970, 84 Stat. 884.)

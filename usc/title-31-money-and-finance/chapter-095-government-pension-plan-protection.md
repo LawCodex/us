@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 95—GOVERNMENT PENSION PLAN PROTECTION
 
-## § 9501. Purpose
+## § 9501. Purpose
 
 The purpose of this chapter is to protect the interests of the United States and of the participants and their beneficiaries in Government pension plans by requiring complete disclosure of the financial condition of those plans.
 
@@ -25,11 +25,11 @@ The purpose of this chapter is to protect the interests of the United States and
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9501 | 31:68. | Sept. 12, 1950, ch. 946, 64 Stat. 832, § 120; added Nov. 4, 1978, Pub. L. 95–595, § 1, 92 Stat. 2541. |
+| 9501 | 31:68. | Sept. 12, 1950, ch. 946, 64 Stat. 832, § 120; added Nov. 4, 1978, Pub. L. 95–595, § 1, 92 Stat. 2541. |
 
 The words “United States” are substituted for “Nation” for clarity and consistency. The words “and certain other pension plans” are omitted as unnecessary.
 
-## § 9502. Definitions
+## § 9502. Definitions
 
 In this chapter—
 
@@ -67,13 +67,13 @@ In this chapter—
 
 **(2)** “plan year” means the calendar, policy, or fiscal year chosen by the Government pension plan on which the records of the plan are kept.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1050; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1050; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9502(1) | 31:68c. | Sept. 12, 1950, ch. 946, 64 Stat. 832, §§ 123, 124; added Nov. 4, 1978, Pub. L. 95–595, § 1, 92 Stat. 2542. |
+| 9502(1) | 31:68c. | Sept. 12, 1950, ch. 946, 64 Stat. 832, §§ 123, 124; added Nov. 4, 1978, Pub. L. 95–595, § 1, 92 Stat. 2542. |
 | 9502(2) | 31:68d. |  |
 
 In clause (1), before subclause (A), the word “Federal” is omitted as unnecessary. In subclause (A), the words “whether or not such plan is an employee pension benefit plan within the meaning of section 3(2) of the Employee Retirement Income Security Act of 1974 [29 U.S.C. 1002(2)]” are omitted as surplus. The words “an agency” are substituted for “Government of the United States, or any agency or instrumentality thereof” because of section 101 of the revised title. In subclause (B), before subclause (i), the words “but is not limited to” are omitted as surplus. The text of 31:68c(b)(words before colon) is omitted as unnecessary because of the restatement.
@@ -84,7 +84,7 @@ In clause (2), 31:68d(1st sentence) is omitted as executed. The definition in 31
 
 **References in Text**
 
-The Employee Retirement Income Security Act of 1974, referred to in par. (1)(A), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in par. (1)(A), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 **Amendments**
 
@@ -96,24 +96,24 @@ The Employee Retirement Income Security Act of 1974, referred to in par. (1)(A),
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 9503. Reports about Government pension plans
+## § 9503. Reports about Government pension plans
 
-**[(a)** Repealed. Pub. L. 105–362, title XV, § 1501(a), Nov. 10, 1998, 112 Stat. 3294.]
+**[(a)** Repealed. Pub. L. 105–362, title XV, § 1501(a), Nov. 10, 1998, 112 Stat. 3294.]
 
 **(b)** This chapter does not prevent a Government pension plan from using the services of an enrolled actuary employed by an agency administering the plan.
 
 **(c)** The requirements of this section are satisfied with respect to the Thrift Savings Plan described under subchapter III of chapter 84 of title 5, by preparation and transmission of the report described under section 8439(b) of such title.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1050; Pub. L. 104–66, title II, § 2081, Dec. 21, 1995, 109 Stat. 729; Pub. L. 105–362, title XV, § 1501(a), Nov. 10, 1998, 112 Stat. 3294.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1050; Pub. L. 104–66, title II, § 2081, Dec. 21, 1995, 109 Stat. 729; Pub. L. 105–362, title XV, § 1501(a), Nov. 10, 1998, 112 Stat. 3294.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9503(a) | 31:68a(a), (b). | Sept. 12, 1950, ch. 946, 64 Stat. 832, § 121; added Nov. 4, 1978, Pub. L. 95–595, § 1, 92 Stat. 2541. |
+| 9503(a) | 31:68a(a), (b). | Sept. 12, 1950, ch. 946, 64 Stat. 832, § 121; added Nov. 4, 1978, Pub. L. 95–595, § 1, 92 Stat. 2541. |
 | 9503(b) | 31:68a(c). |  |
 
-In subsection (a), before clause (1), the words “Notwithstanding any other provision of law or any administrative determination to the contrary . . . Federal” are omitted as unnecessary. The words “and each plan described in section 68c(b) of this title” are omitted as unnecessary because of the restatement. In clause (1), before subclause (A), the words “required by such section” are omitted as unnecessary because of the restatement. In subclause (A), the word “information” is substituted for “information and data” because it is inclusive and for consistency. In clause (4), the words “and shall not supersede” are omitted as surplus. In clause (5), the words “the Comptroller General deems” are omitted as unnecessary. The words “under section 1023 of title 29” are omitted as unnecessary because of the restatement.
+In subsection (a), before clause (1), the words “Notwithstanding any other provision of law or any administrative determination to the contrary . . . Federal” are omitted as unnecessary. The words “and each plan described in section 68c(b) of this title” are omitted as unnecessary because of the restatement. In clause (1), before subclause (A), the words “required by such section” are omitted as unnecessary because of the restatement. In subclause (A), the word “information” is substituted for “information and data” because it is inclusive and for consistency. In clause (4), the words “and shall not supersede” are omitted as surplus. In clause (5), the words “the Comptroller General deems” are omitted as unnecessary. The words “under section 1023 of title 29” are omitted as unnecessary because of the restatement.
 
 In subsection (b), the words “This chapter does not prevent” are substituted for “Nothing in this chapter shall preclude” for clarity. The words “or agencies” are omitted as unnecessary because of 1:1.
 
@@ -141,7 +141,7 @@ By the authority vested in me as President of the United States of America by Se
 
 Jimmy Carter.
 
-## § 9504. Review and recommendations
+## § 9504. Review and recommendations
 
 When necessary or when requested by either House of Congress or a committee of Congress, the Comptroller General shall—
 
@@ -155,6 +155,6 @@ When necessary or when requested by either House of Congress or a committee of C
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9504 | 31:68b. | Sept. 12, 1950, ch. 946, 64 Stat. 832, § 122; added Nov. 4, 1978, Pub. L. 95–595, § 1, 92 Stat. 2542. |
+| 9504 | 31:68b. | Sept. 12, 1950, ch. 946, 64 Stat. 832, § 122; added Nov. 4, 1978, Pub. L. 95–595, § 1, 92 Stat. 2542. |
 
 The word “When” is substituted for “If” in both places as being more precise. The word “deemed” is omitted as unnecessary because of the restatement. The words “the General Accounting Office” are omitted as unnecessary because of the restatement and because the authority to act is vested in the Comptroller General.

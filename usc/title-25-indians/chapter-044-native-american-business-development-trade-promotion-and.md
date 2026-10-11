@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 44—NATIVE AMERICAN BUSINESS DEVELOPMENT, TRADE PROMOTION, AND TOURISM
 
-## § 4301. Findings; purposes
+## § 4301. Findings; purposes
 
 **(a) Findings** Congress finds that—
 
@@ -81,31 +81,31 @@ retrieved: 2026-10-11
 
 **(2)** pursuant to section 261 of this title.
 
-(Pub. L. 106–464, § 2, Nov. 7, 2000, 114 Stat. 2012; Pub. L. 116–261, § 3(a), (e)(2), (3), Dec. 30, 2020, 134 Stat. 3307, 3311.)
+(Pub. L. 106–464, § 2, Nov. 7, 2000, 114 Stat. 2012; Pub. L. 116–261, § 3(a), (e)(2), (3), Dec. 30, 2020, 134 Stat. 3307, 3311.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2020—Subsec. (a). Pub. L. 116–261, § 3(e)(2), (3), substituted “Tribes” for “tribes” and “Tribal” for “tribal” wherever appearing.
+2020—Subsec. (a). Pub. L. 116–261, § 3(e)(2), (3), substituted “Tribes” for “tribes” and “Tribal” for “tribal” wherever appearing.
 
-Subsec. (b). Pub. L. 116–261, § 3(e)(2), substituted “Tribes” for “tribes” wherever appearing.
+Subsec. (b). Pub. L. 116–261, § 3(e)(2), substituted “Tribes” for “tribes” wherever appearing.
 
-Subsec. (c). Pub. L. 116–261, § 3(a), added subsec. (c).
+Subsec. (c). Pub. L. 116–261, § 3(a), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–261, § 1, Dec. 30, 2020, 134 Stat. 3306, provided that: “This Act [enacting section 4306a of this title, amending this section and sections 47, 4302 to 4305, and 4307 of this title and sections 2991b, 2991b–2, 2991b–3, 2991c, 2992c, and 2992d of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under this section] may be cited as the ‘Indian Community Economic Enhancement Act of 2020’.”
+Pub. L. 116–261, § 1, Dec. 30, 2020, 134 Stat. 3306, provided that: “This Act [enacting section 4306a of this title, amending this section and sections 47, 4302 to 4305, and 4307 of this title and sections 2991b, 2991b–2, 2991b–3, 2991c, 2992c, and 2992d of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under this section] may be cited as the ‘Indian Community Economic Enhancement Act of 2020’.”
 
 **Short Title**
 
-Pub. L. 106–464, § 1, Nov. 7, 2000, 114 Stat. 2012, provided that: “This Act [enacting this chapter] may be cited as the ‘Native American Business Development, Trade Promotion, and Tourism Act of 2000’.”
+Pub. L. 106–464, § 1, Nov. 7, 2000, 114 Stat. 2012, provided that: “This Act [enacting this chapter] may be cited as the ‘Native American Business Development, Trade Promotion, and Tourism Act of 2000’.”
 
 **Findings**
 
-Pub. L. 116–261, § 2, Dec. 30, 2020, 134 Stat. 3306, provided that:
+Pub. L. 116–261, § 2, Dec. 30, 2020, 134 Stat. 3306, provided that:
 
 > “Congress finds that—
 
@@ -171,7 +171,7 @@ Pub. L. 116–261, § 2, Dec. 30, 2020, 134 Stat. 3306, provided that:
 
 **Tribal Promise Zones**
 
-Pub. L. 115–334, title XII, § 12510, Dec. 20, 2018, 132 Stat. 4990, provided that:
+Pub. L. 115–334, title XII, § 12510, Dec. 20, 2018, 132 Stat. 4990, provided that:
 
 > **“(a) In General.—** In this section, the term ‘Tribal Promise Zone’ means an area that—
 
@@ -243,11 +243,11 @@ Pub. L. 115–334, title XII, § 12510, Dec. 20, 2018, 132 Stat. 4990, provide
 
 **General Accounting Office Study**
 
-Pub. L. 106–568, title IV, § 421, Dec. 27, 2000, 114 Stat. 2906, directed the Comptroller General to conduct a study and make findings and recommendations with respect to Federal programs designed to assist Indian tribes and tribal members with economic development, job creation, entrepreneurship, and business development, and to report to Congress not later than 1 year after Dec. 27, 2000.
+Pub. L. 106–568, title IV, § 421, Dec. 27, 2000, 114 Stat. 2906, directed the Comptroller General to conduct a study and make findings and recommendations with respect to Federal programs designed to assist Indian tribes and tribal members with economic development, job creation, entrepreneurship, and business development, and to report to Congress not later than 1 year after Dec. 27, 2000.
 
 **Indian Tribal Regulatory Reform and Business Development**
 
-Pub. L. 106–447, Nov. 6, 2000, 114 Stat. 1934, as amended by Pub. L. 117–286, § 4(a)(185), Dec. 27, 2022, 136 Stat. 4326, provided that:
+Pub. L. 106–447, Nov. 6, 2000, 114 Stat. 1934, as amended by Pub. L. 117–286, § 4(a)(185), Dec. 27, 2022, 136 Stat. 4326, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -387,7 +387,7 @@ Pub. L. 106–447, Nov. 6, 2000, 114 Stat. 1934, as amended by Pub. L. 117–286
 
 > “There are authorized to be appropriated such sums as are necessary to carry out this Act, to remain available until expended.”
 
-## § 4302. Definitions
+## § 4302. Definitions
 
 In this chapter:
 
@@ -453,59 +453,59 @@ The term “Tribal enterprise” means a commercial activity or business managed
 
 The term “Tribal organization” has the meaning given that term in section 5304(*l*) of this title.
 
-(Pub. L. 106–464, § 3, Nov. 7, 2000, 114 Stat. 2013; Pub. L. 116–261, § 3(b), (e), Dec. 30, 2020, 134 Stat. 3307, 3311.)
+(Pub. L. 106–464, § 3, Nov. 7, 2000, 114 Stat. 2013; Pub. L. 116–261, § 3(b), (e), Dec. 30, 2020, 134 Stat. 3307, 3311.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2020—Par. (1). Pub. L. 116–261, § 3(e)(1)(A), which directed substitution of “Tribe” for “tribe” in par. (1), could not be executed because the term “tribe” does not appear. See below.
+2020—Par. (1). Pub. L. 116–261, § 3(e)(1)(A), which directed substitution of “Tribe” for “tribe” in par. (1), could not be executed because the term “tribe” does not appear. See below.
 
-Pub. L. 116–261, § 3(b)(2), added par. (1). Former par. (1) redesignated (2).
+Pub. L. 116–261, § 3(b)(2), added par. (1). Former par. (1) redesignated (2).
 
-Par. (2). Pub. L. 116–261, § 3(e)(3), substituted “Tribal” for “tribal” wherever appearing.
+Par. (2). Pub. L. 116–261, § 3(e)(3), substituted “Tribal” for “tribal” wherever appearing.
 
-Pub. L. 116–261, § 3(e)(1)(A), which directed substitution of “Tribe” for “tribe” in par. (1), was executed by making the substitution in par. (2) in light of the intervening amendment by Pub. L. 116–261, § 3(b)(1), redesignating former par. (1) as (2), to reflect the probable intent of Congress. See below.
+Pub. L. 116–261, § 3(e)(1)(A), which directed substitution of “Tribe” for “tribe” in par. (1), was executed by making the substitution in par. (2) in light of the intervening amendment by Pub. L. 116–261, § 3(b)(1), redesignating former par. (1) as (2), to reflect the probable intent of Congress. See below.
 
-Pub. L. 116–261, § 3(b)(1), redesignated par. (1) as (2). Former par. (2) redesignated (3).
+Pub. L. 116–261, § 3(b)(1), redesignated par. (1) as (2). Former par. (2) redesignated (3).
 
-Par. (3). Pub. L. 116–261, § 3(b)(1), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+Par. (3). Pub. L. 116–261, § 3(b)(1), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-Par. (4). Pub. L. 116–261, § 3(e)(1)(A), which directed substitution of “Tribe” for “tribe” in par. (4), could not be executed because the term “tribe” does not appear. See below.
+Par. (4). Pub. L. 116–261, § 3(e)(1)(A), which directed substitution of “Tribe” for “tribe” in par. (4), could not be executed because the term “tribe” does not appear. See below.
 
-Pub. L. 116–261, § 3(b)(1), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+Pub. L. 116–261, § 3(b)(1), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-Par. (5). Pub. L. 116–261, § 3(b)(1), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+Par. (5). Pub. L. 116–261, § 3(b)(1), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Par. (5)(B)(i). Pub. L. 116–261, § 3(e)(1)(A), which directed substitution of “Tribe” for “tribe” in par. (4), was executed by making the substitution in par. (5)(B)(i), in light of the intervening amendment by Pub. L. 116–261, § 3(b)(1), redesignating former par. (4) as (5), to reflect the probable intent of Congress. See above.
+Par. (5)(B)(i). Pub. L. 116–261, § 3(e)(1)(A), which directed substitution of “Tribe” for “tribe” in par. (4), was executed by making the substitution in par. (5)(B)(i), in light of the intervening amendment by Pub. L. 116–261, § 3(b)(1), redesignating former par. (4) as (5), to reflect the probable intent of Congress. See above.
 
-Par. (6). Pub. L. 116–261, § 3(e)(2), substituted “Tribes” for “tribes”.
+Par. (6). Pub. L. 116–261, § 3(e)(2), substituted “Tribes” for “tribes”.
 
-Pub. L. 116–261, § 3(e)(1)(B), which directed substitution of “The term ‘Indian Tribe’ has the meaning given the term ‘Indian tribe’ ” for “The term ‘Indian tribe’ has the meaning given that term” in par. (6), could not be executed because the phrase “The term ‘Indian tribe’ has the meaning given that term” does not appear. See below.
+Pub. L. 116–261, § 3(e)(1)(B), which directed substitution of “The term ‘Indian Tribe’ has the meaning given the term ‘Indian tribe’ ” for “The term ‘Indian tribe’ has the meaning given that term” in par. (6), could not be executed because the phrase “The term ‘Indian tribe’ has the meaning given that term” does not appear. See below.
 
-Pub. L. 116–261, § 3(b)(1), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+Pub. L. 116–261, § 3(b)(1), redesignated par. (5) as (6). Former par. (6) redesignated (7).
 
-Par. (7). Pub. L. 116–261, § 3(e)(1)(B), which directed substitution of “The term ‘Indian Tribe’ has the meaning given the term ‘Indian tribe’ ” for “The term ‘Indian tribe’ has the meaning given that term” in par. (6), was executed by making the substitution in par. (7) in light of the intervening amendment by Pub. L. 116–261, § 3(b)(1), redesignating former par. (6) as (7), to reflect the probable intent of Congress. See below.
+Par. (7). Pub. L. 116–261, § 3(e)(1)(B), which directed substitution of “The term ‘Indian Tribe’ has the meaning given the term ‘Indian tribe’ ” for “The term ‘Indian tribe’ has the meaning given that term” in par. (6), was executed by making the substitution in par. (7) in light of the intervening amendment by Pub. L. 116–261, § 3(b)(1), redesignating former par. (6) as (7), to reflect the probable intent of Congress. See below.
 
-Pub. L. 116–261, § 3(b)(1), redesignated par. (6) as (7). Former par. (7) redesignated (9).
+Pub. L. 116–261, § 3(b)(1), redesignated par. (6) as (7). Former par. (7) redesignated (9).
 
-Par. (8). Pub. L. 116–261, § 3(e)(1)(A), which directed substitution of “Tribe” for “tribe” in par. (8), could not be executed because the term “tribe” does not appear. See below.
+Par. (8). Pub. L. 116–261, § 3(e)(1)(A), which directed substitution of “Tribe” for “tribe” in par. (8), could not be executed because the term “tribe” does not appear. See below.
 
-Pub. L. 116–261, § 3(b)(3), added par. (8). Former par. (8) redesignated (10).
+Pub. L. 116–261, § 3(b)(3), added par. (8). Former par. (8) redesignated (10).
 
-Par. (9). Pub. L. 116–261, § 3(b)(1), redesignated par. (7) as (9). Former par. (9) redesignated (11).
+Par. (9). Pub. L. 116–261, § 3(b)(1), redesignated par. (7) as (9). Former par. (9) redesignated (11).
 
-Par. (10). Pub. L. 116–261, § 3(e)(3), substituted “Tribal” for “tribal”.
+Par. (10). Pub. L. 116–261, § 3(e)(3), substituted “Tribal” for “tribal”.
 
-Pub. L. 116–261, § 3(e)(1)(A), which directed substitution of “Tribe” for “tribe” in par. (8), was executed by making the substitution in par. (10) in light of the intervening amendment by Pub. L. 116–261, § 3(b)(1), redesignating former par. (8) as (10), to reflect the probable intent of Congress. See below.
+Pub. L. 116–261, § 3(e)(1)(A), which directed substitution of “Tribe” for “tribe” in par. (8), was executed by making the substitution in par. (10) in light of the intervening amendment by Pub. L. 116–261, § 3(b)(1), redesignating former par. (8) as (10), to reflect the probable intent of Congress. See below.
 
-Pub. L. 116–261, § 3(b)(1), redesignated par. (8) as (10).
+Pub. L. 116–261, § 3(b)(1), redesignated par. (8) as (10).
 
-Par. (11). Pub. L. 116–261, § 3(e)(3), substituted “Tribal” for “tribal”.
+Par. (11). Pub. L. 116–261, § 3(e)(3), substituted “Tribal” for “tribal”.
 
-Pub. L. 116–261, § 3(b)(1), redesignated par. (9) as (11).
+Pub. L. 116–261, § 3(b)(1), redesignated par. (9) as (11).
 
-## § 4303. Office of Native American Business Development
+## § 4303. Office of Native American Business Development
 
 **(a) In general**
 
@@ -587,25 +587,25 @@ The Secretary may not provide under this section assistance for any activity rel
 
 There are authorized to be appropriated to carry out this section not more than $2,000,000 for each fiscal year.
 
-(Pub. L. 106–464, § 4, Nov. 7, 2000, 114 Stat. 2015; Pub. L. 116–261, § 3(c), (e)(2), Dec. 30, 2020, 134 Stat. 3308, 3311.)
+(Pub. L. 106–464, § 4, Nov. 7, 2000, 114 Stat. 2015; Pub. L. 116–261, § 3(c), (e)(2), Dec. 30, 2020, 134 Stat. 3308, 3311.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Gaming Regulatory Act, referred to in subsec. (b)(6), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, as amended, which is classified principally to chapter 29 (§ 2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+The Indian Gaming Regulatory Act, referred to in subsec. (b)(6), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, as amended, which is classified principally to chapter 29 (§ 2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 **Amendments**
 
-2020—Subsec. (a)(1). Pub. L. 116–261, § 3(c)(1)(A), substituted “Office of the Secretary” for “Department of Commerce” and struck out “(referred to in this chapter as the ‘Office’)” before period at end.
+2020—Subsec. (a)(1). Pub. L. 116–261, § 3(c)(1)(A), substituted “Office of the Secretary” for “Department of Commerce” and struck out “(referred to in this chapter as the ‘Office’)” before period at end.
 
-Subsec. (a)(2). Pub. L. 116–261, § 3(c)(1)(B), struck out “(referred to in this chapter as the ‘Director’)” after “Development”.
+Subsec. (a)(2). Pub. L. 116–261, § 3(c)(1)(B), struck out “(referred to in this chapter as the ‘Director’)” after “Development”.
 
-Subsec. (b)(4)(B), (5)(B). Pub. L. 116–261, § 3(e)(2), substituted “Tribes” for “tribes”.
+Subsec. (b)(4)(B), (5)(B). Pub. L. 116–261, § 3(e)(2), substituted “Tribes” for “tribes”.
 
-Subsec. (c). Pub. L. 116–261, § 3(c)(2), added subsec. (c).
+Subsec. (c). Pub. L. 116–261, § 3(c)(2), added subsec. (c).
 
-## § 4304. Native American trade and export promotion
+## § 4304. Native American trade and export promotion
 
 **(a) In general**
 
@@ -647,7 +647,7 @@ The Secretary, acting through the Director, shall carry out a Native American ex
 
 **(2)** foster long-term stable international markets for Indian goods and services.
 
-(Pub. L. 106–464, § 5, Nov. 7, 2000, 114 Stat. 2016; Pub. L. 116–261, § 3(e)(2), Dec. 30, 2020, 134 Stat. 3311.)
+(Pub. L. 106–464, § 5, Nov. 7, 2000, 114 Stat. 2016; Pub. L. 116–261, § 3(e)(2), Dec. 30, 2020, 134 Stat. 3311.)
 
 **Editorial Notes**
 
@@ -655,7 +655,7 @@ The Secretary, acting through the Director, shall carry out a Native American ex
 
 2020—Subsec. (b)(1). Pub. L. 116–261 substituted “Tribes” for “tribes”.
 
-## § 4305. Intertribal tourism demonstration projects
+## § 4305. Intertribal tourism demonstration projects
 
 **(a) Program to conduct tourism projects**
 
@@ -707,7 +707,7 @@ To carry out the program under this section, the Secretary, acting through the D
 
 The demonstration projects conducted under this section shall include provisions to facilitate the development and financing of infrastructure, including the development of Indian reservation roads in a manner consistent with title 23.
 
-(Pub. L. 106–464, § 6, Nov. 7, 2000, 114 Stat. 2016; Pub. L. 116–261, § 3(e)(2), (3), Dec. 30, 2020, 134 Stat. 3311.)
+(Pub. L. 106–464, § 6, Nov. 7, 2000, 114 Stat. 2016; Pub. L. 116–261, § 3(e)(2), (3), Dec. 30, 2020, 134 Stat. 3311.)
 
 **Editorial Notes**
 
@@ -717,7 +717,7 @@ The demonstration projects conducted under this section shall include provisions
 
 Subsec. (a)(3). Pub. L. 116–261 substituted “Tribes” for “tribes” and “Tribal” for “tribal” in two places.
 
-## § 4306. Report to Congress
+## § 4306. Report to Congress
 
 **(a) In general**
 
@@ -729,7 +729,7 @@ Not later than 1 year after November 7, 2000, and annually thereafter, the Secre
 
 **(2)** any recommendations for legislation that the Secretary, in consultation with the Director, determines to be necessary to carry out sections 4303 through 4305 of this title.
 
-(Pub. L. 106–464, § 7, Nov. 7, 2000, 114 Stat. 2018.)
+(Pub. L. 106–464, § 7, Nov. 7, 2000, 114 Stat. 2018.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -737,7 +737,7 @@ Not later than 1 year after November 7, 2000, and annually thereafter, the Secre
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-## § 4306a. Indian community development initiatives
+## § 4306a. Indian community development initiatives
 
 **(a) Interagency coordination** Not later than 1 year after December 30, 2020, the Secretary, the Secretary of the Interior, and the Secretary of the Treasury shall coordinate—
 
@@ -815,7 +815,7 @@ The study shall assess current Federal capitalization and related programs and s
 
 The study shall assess various alternative incentives that could be provided to enable and encourage Tribal governments to invest in an Indian community development investment fund or bank.
 
-(Pub. L. 106–464, § 8, as added Pub. L. 116–261, § 3(d)(2), Dec. 30, 2020, 134 Stat. 3308.)
+(Pub. L. 106–464, § 8, as added Pub. L. 116–261, § 3(d)(2), Dec. 30, 2020, 134 Stat. 3308.)
 
 **Editorial Notes**
 
@@ -825,10 +825,10 @@ Section 4 of the Indian Tribal Regulatory Reform and Business Development Act of
 
 **Prior Provisions**
 
-A prior section 8 of Pub. L. 106–464, which was classified to section 4307 of this title, was redesignated section 10 of Pub. L. 106–464 by Pub. L. 116–261, § 3(d)(1), Dec. 30, 2020, 134 Stat. 3308.
+A prior section 8 of Pub. L. 106–464, which was classified to section 4307 of this title, was redesignated section 10 of Pub. L. 106–464 by Pub. L. 116–261, § 3(d)(1), Dec. 30, 2020, 134 Stat. 3308.
 
-## § 4307. Authorization of appropriations
+## § 4307. Authorization of appropriations
 
 There are authorized to be appropriated such sums as are necessary to carry out this chapter, to remain available until expended.
 
-(Pub. L. 106–464, § 10, formerly § 8, Nov. 7, 2000, 114 Stat. 2018; renumbered § 10, Pub. L. 116–261, § 3(d)(1), Dec. 30, 2020, 134 Stat. 3308.)
+(Pub. L. 106–464, § 10, formerly § 8, Nov. 7, 2000, 114 Stat. 2018; renumbered § 10, Pub. L. 116–261, § 3(d)(1), Dec. 30, 2020, 134 Stat. 3308.)

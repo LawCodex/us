@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—TRANSITIONAL PAYMENTS TO TOBACCO QUOTA HOLDERS AND PRODUCERS OF TOBACCO
 
-### § 518. Definitions
+### § 518. Definitions
 
 In this subchapter and subchapter II:
 
@@ -47,9 +47,9 @@ The term “producer of quota tobacco” means an owner, operator, landlord, ten
 
 **(7) Quota tobacco**
 
-The term ‘quota tobacco’ 1
+The term ‘quota tobacco’ 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 means a kind of tobacco that is subject to a farm marketing quota or farm acreage allotment for the 2004 tobacco marketing year under a marketing quota or allotment program established under part I of subtitle B of title III of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1311 et seq.).
 
@@ -81,33 +81,33 @@ The term “Tobacco Trust Fund” means the Tobacco Trust Fund established under
 
 The term “Secretary” means the Secretary of Agriculture.
 
-(Pub. L. 108–357, title VI, § 621, Oct. 22, 2004, 118 Stat. 1524.)
+(Pub. L. 108–357, title VI, § 621, Oct. 22, 2004, 118 Stat. 1524.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Act of 1949, referred to in par. (1), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in par. (1), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
-The Agricultural Adjustment Act of 1938, referred to in pars. (2), (6), and (7), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. Part I of subtitle B of title III of the Act was classified to subpart I (§ 1311 et seq.) of part B of subchapter II of chapter 35 of this title prior to repeal by Pub. L. 108–357, title VI, § 611(a), Oct. 22, 2004, 118 Stat. 1522. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+The Agricultural Adjustment Act of 1938, referred to in pars. (2), (6), and (7), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. Part I of subtitle B of title III of the Act was classified to subpart I (§ 1311 et seq.) of part B of subchapter II of chapter 35 of this title prior to repeal by Pub. L. 108–357, title VI, § 611(a), Oct. 22, 2004, 118 Stat. 1522. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 108–357, title VI, § 643, Oct. 22, 2004, 118 Stat. 1536, provided that: “This title [see Short Title note below] and the amendments made by this title shall apply to the 2005 and subsequent crops of each kind of tobacco.”
+Pub. L. 108–357, title VI, § 643, Oct. 22, 2004, 118 Stat. 1536, provided that: “This title [see Short Title note below] and the amendments made by this title shall apply to the 2005 and subsequent crops of each kind of tobacco.”
 
 **Short Title**
 
-Pub. L. 108–357, title VI, § 601, Oct. 22, 2004, 118 Stat. 1521, provided that: “This title [enacting this chapter, amending sections 609, 1282, 1301, 1303, 1314h, 1361, 1371, 1373, 1375, 1378, 1379, 1428, 1433c–1, and 1441 of this title and section 714c of Title 15, Commerce and Trade, repealing sections 511r, 515 to 515k, 625, 1311 to 1314, 1314–1, 1314b, 1314b–1, 1314b–2, 1314c to 1314j, 1315, 1316, 1445, 1445–1, and 1445–2 of this title, enacting provisions set out as notes under this section and section 515 of this title, and repealing provisions set out as a note under section 1314c of this title] may be cited as the ‘Fair and Equitable Tobacco Reform Act of 2004’.”
+Pub. L. 108–357, title VI, § 601, Oct. 22, 2004, 118 Stat. 1521, provided that: “This title [enacting this chapter, amending sections 609, 1282, 1301, 1303, 1314h, 1361, 1371, 1373, 1375, 1378, 1379, 1428, 1433c–1, and 1441 of this title and section 714c of Title 15, Commerce and Trade, repealing sections 511r, 515 to 515k, 625, 1311 to 1314, 1314–1, 1314b, 1314b–1, 1314b–2, 1314c to 1314j, 1315, 1316, 1445, 1445–1, and 1445–2 of this title, enacting provisions set out as notes under this section and section 515 of this title, and repealing provisions set out as a note under section 1314c of this title] may be cited as the ‘Fair and Equitable Tobacco Reform Act of 2004’.”
 
-### § 518a. Contract payments to tobacco quota holders
+### § 518a. Contract payments to tobacco quota holders
 
 **(a) Contract offered**
 
 The Secretary shall offer to enter into a contract with each tobacco quota holder under which the tobacco quota holder shall be entitled to receive payments under this section in exchange for the termination of tobacco marketing quotas and related price support under the amendments made by sections 611 and 612.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 The contract payments shall constitute full and fair consideration for the termination of such tobacco marketing quotas and related price support.
 
@@ -123,9 +123,9 @@ The Secretary shall establish a base quota level applicable to each tobacco quot
 
 **(2) Poundage quotas**
 
-Subject to adjustment under subsection (d), for each kind of tobacco for which the marketing quota is expressed in pounds, the base quota level for each tobacco quota holder shall be equal to the basic quota for quota tobacco established for the 2002 tobacco marketing year under a marketing quota program established under part I of subtitle B of title III of the Agriculture 2
+Subject to adjustment under subsection (d), for each kind of tobacco for which the marketing quota is expressed in pounds, the base quota level for each tobacco quota holder shall be equal to the basic quota for quota tobacco established for the 2002 tobacco marketing year under a marketing quota program established under part I of subtitle B of title III of the Agriculture 2
 
-<sup>2</sup>  So in original. Probably should be “Agricultural”.
+<sup>2</sup> So in original. Probably should be “Agricultural”.
 
 Adjustment Act of 1938 [7 U.S.C. 1311 et seq.] on the farm owned by the tobacco quota holder.
 
@@ -161,7 +161,7 @@ During each of fiscal years 2005 through 2014, the Secretary shall make a contra
 
 If a tobacco quota holder who is entitled to contract payments under this section dies and is survived by a spouse or one or more dependents, the right to receive the payments shall transfer to the surviving spouse or, if there is no surviving spouse, to the estate of the tobacco quota holder.
 
-(Pub. L. 108–357, title VI, § 622, Oct. 22, 2004, 118 Stat. 1525.)
+(Pub. L. 108–357, title VI, § 622, Oct. 22, 2004, 118 Stat. 1525.)
 
 **Editorial Notes**
 
@@ -169,7 +169,7 @@ If a tobacco quota holder who is entitled to contract payments under this sectio
 
 Sections 611 and 612, referred to in subsec. (a), are sections 611 and 612 of Pub. L. 108–357, which amended sections 609, 1282, 1301, 1303, 1361, 1371, 1373, 1375, 1378, 1379, 1428, 1433c–1, and 1441 of this title and section 714c of Title 15, Commerce and Trade, repealed sections 511r, 515 to 515k, 625, 1311 to 1314, 1314–1, 1314b, 1314b–1, 1314b–2, 1314c to 1314j, 1315, 1316, 1445, 1445–1, and 1445–2 of this title, and repealed provisions set out as a note under section 1314c of this title.
 
-Part I of subtitle B of title III of the Agricultural Adjustment Act of 1938, referred to in subsec. (c)(2), was classified to subpart I (§ 1311 et seq.) of part B of subchapter II of chapter 35 of this title prior to repeal by Pub. L. 108–357, title VI, § 611(a), Oct. 22, 2004, 118 Stat. 1522. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+Part I of subtitle B of title III of the Agricultural Adjustment Act of 1938, referred to in subsec. (c)(2), was classified to subpart I (§ 1311 et seq.) of part B of subchapter II of chapter 35 of this title prior to repeal by Pub. L. 108–357, title VI, § 611(a), Oct. 22, 2004, 118 Stat. 1522. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -177,13 +177,13 @@ Part I of subtitle B of title III of the Agricultural Adjustment Act of 1938, re
 
 Section applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as a note under section 518 of this title.
 
-### § 518b. Contract payments for producers of quota tobacco
+### § 518b. Contract payments for producers of quota tobacco
 
 **(a) Contract offered**
 
 The Secretary shall offer to enter into a contract with each producer of quota tobacco under which the producer of quota tobacco shall be entitled to receive payments under this section in exchange for the termination of tobacco marketing quotas and related price support under the amendments made by sections 611 and 612.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 The contract payments shall constitute full and fair consideration for the termination of such tobacco marketing quotas and related price support.
 
@@ -205,9 +205,9 @@ The Secretary shall establish a base quota level applicable to each producer of 
 
 **(2) Flue-cured and burley tobacco**
 
-In the case of Flue-cured tobacco (types 11, 12, 13, and 14) and Burley tobacco (type 31), the base quota level for each producer of quota tobacco shall be equal to the effective tobacco marketing quota (irrespective of disaster lease and transfers) under part I of subtitle B of title III of the Agriculture 2
+In the case of Flue-cured tobacco (types 11, 12, 13, and 14) and Burley tobacco (type 31), the base quota level for each producer of quota tobacco shall be equal to the effective tobacco marketing quota (irrespective of disaster lease and transfers) under part I of subtitle B of title III of the Agriculture 2
 
-<sup>2</sup>  So in original. Probably should be “Agricultural”.
+<sup>2</sup> So in original. Probably should be “Agricultural”.
 
 Adjustment Act of 1938 [7 U.S.C. 1311 et seq.] for the 2002 marketing year for quota tobacco produced on the farm.
 
@@ -241,7 +241,7 @@ During each of fiscal years 2005 through 2014, the Secretary shall make a contra
 
 If a producer of quota tobacco who is entitled to contract payments under this section dies and is survived by a spouse or one or more dependents, the right to receive the contract payments shall transfer to the surviving spouse or, if there is no surviving spouse, to the estate of the producer.
 
-(Pub. L. 108–357, title VI, § 623, Oct. 22, 2004, 118 Stat. 1527.)
+(Pub. L. 108–357, title VI, § 623, Oct. 22, 2004, 118 Stat. 1527.)
 
 **Editorial Notes**
 
@@ -249,7 +249,7 @@ If a producer of quota tobacco who is entitled to contract payments under this s
 
 Sections 611 and 612, referred to in subsec. (a), are sections 611 and 612 of Pub. L. 108–357, which amended sections 609, 1282, 1301, 1303, 1361, 1371, 1373, 1375, 1378, 1379, 1428, 1433c–1, and 1441 of this title and section 714c of Title 15, Commerce and Trade, repealed sections 511r, 515, 515a to 515k, 625, 1311 to 1314, 1314–1, 1314b, 1314b–1, 1314b–2, 1314c to 1314j, 1315, 1316, 1445, 1445–1, and 1445–2 of this title, and repealed provisions set out as a note under section 1314c of this title.
 
-Part I of subtitle B of title III of the Agricultural Adjustment Act of 1938, referred to in subsec. (c)(2), was classified to subpart I (§ 1311 et seq.) of part B of subchapter II of chapter 35 of this title prior to repeal by Pub. L. 108–357, title VI, § 611(a), Oct. 22, 2004, 118 Stat. 1522. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+Part I of subtitle B of title III of the Agricultural Adjustment Act of 1938, referred to in subsec. (c)(2), was classified to subpart I (§ 1311 et seq.) of part B of subchapter II of chapter 35 of this title prior to repeal by Pub. L. 108–357, title VI, § 611(a), Oct. 22, 2004, 118 Stat. 1522. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -257,7 +257,7 @@ Part I of subtitle B of title III of the Agricultural Adjustment Act of 1938, re
 
 Section applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as a note under section 518 of this title.
 
-### § 518c. Administration
+### § 518c. Administration
 
 **(a) Time for payment of contract payments**
 
@@ -275,19 +275,19 @@ Any adverse determination of a county committee under subsection (b) may be appe
 
 The Secretary may use a financial institution to manage assets, make contract payments, and otherwise carry out this title.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(e) Payment to financial institutions**
 
 The Secretary shall permit a tobacco quota holder or producer of quota tobacco entitled to contract payments to assign to a financial institution the right to receive the contract payments. Upon receiving notification of the assignment, the Secretary shall make subsequent contract payments for the tobacco quota holder or producer of quota tobacco directly to the financial institution designated by the tobacco quota holder or producer of quota tobacco. The Secretary shall make information available to tobacco quota holders and producers of quota tobacco regarding their ability to elect to have the Secretary make payments directly to a financial institution under this subsection so that they may obtain a lump sum or other payment.
 
-(Pub. L. 108–357, title VI, § 624, Oct. 22, 2004, 118 Stat. 1528.)
+(Pub. L. 108–357, title VI, § 624, Oct. 22, 2004, 118 Stat. 1528.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Department of Agriculture Reorganization Act of 1994, referred to in subsec. (c), is title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209. Subtitle H of the Act is classified principally to subchapter VIII (§ 6991 et seq.) of chapter 98 of this title. For complete classification of this Act to the Code, see Tables.
+The Department of Agriculture Reorganization Act of 1994, referred to in subsec. (c), is title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209. Subtitle H of the Act is classified principally to subchapter VIII (§ 6991 et seq.) of chapter 98 of this title. For complete classification of this Act to the Code, see Tables.
 
 This title, referred to in subsec. (d), means title VI of Pub. L. 108–357, which enacted this chapter, amended sections 609, 1282, 1301, 1303, 1314h, 1361, 1371, 1373, 1375, 1378, 1379, 1428, 1433c–1, and 1441 of this title and section 714c of Title 15, Commerce and Trade, repealed sections 511r, 515 to 515k, 625, 1311 to 1314, 1314–1, 1314b, 1314b–1, 1314b–2, 1314c to 1314j, 1315, 1316, 1445, 1445–1, and 1445–2 of this title, enacted provisions set out as notes under sections 515 and 518 of this title, and repealed provisions set out as a note under section 1314c of this title. For complete classification of title VI to the Code, see Short Title note set out under section 518 of this title and Tables.
 
@@ -297,15 +297,15 @@ This title, referred to in subsec. (d), means title VI of Pub. L. 108–357, whi
 
 Section applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as a note under section 518 of this title.
 
-### § 518d. Use of assessments as source of funds for payments
+### § 518d. Use of assessments as source of funds for payments
 
 **(a) Definitions** In this section:
 
 **(1) Base period**
 
-The term “base period’ 1
+The term “base period’ 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 means the one-year period ending the June 30 before the beginning of a fiscal year.
 
@@ -433,9 +433,9 @@ Each manufacturer and importer of tobacco products shall submit to the Secretary
 
 **(A)** the removal of tobacco products into domestic commerce (as defined by section 5702 of title 26); and
 
-**(B)** the payment of the taxes imposed under charter 2
+**(B)** the payment of the taxes imposed under charter 2
 
-<sup>2</sup>  So in original. Probably should be “chapter”.
+<sup>2</sup> So in original. Probably should be “chapter”.
 
 52 of title 26, including AFT Form 5000.24 and United States Customs Form 7501 under currently applicable regulations.
 
@@ -485,7 +485,7 @@ The court shall restrain collection of the excessive portion of any assessment o
 
 The authority provided by this section to impose assessments terminates on September 30, 2014.
 
-(Pub. L. 108–357, title VI, § 625, Oct. 22, 2004, 118 Stat. 1529.)
+(Pub. L. 108–357, title VI, § 625, Oct. 22, 2004, 118 Stat. 1529.)
 
 **Editorial Notes**
 
@@ -499,7 +499,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(
 
 Section applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as a note under section 518 of this title.
 
-### § 518e. Tobacco Trust Fund
+### § 518e. Tobacco Trust Fund
 
 **(a) Establishment** There is established in the Commodity Credit Corporation a revolving trust fund, to be known as the “Tobacco Trust Fund”, which shall be used in carrying out this subchapter. The Tobacco Trust Fund shall consist of the following:
 
@@ -523,9 +523,9 @@ Section applicable to the 2005 and subsequent crops of tobacco, see section 643 
 
 **(2) Expenditures by Commodity Credit Corporation**
 
-Notwithstanding any other provision of law, the Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to make payments described in paragraph (1). Not later than January 1, 2015, the Secretary shall use amounts in the Tobacco Trust Fund to fully reimburse, with interest, the Commodity Credit Corporation for all funds of the Commodity Credit Corporation expended under the authority of this paragraph. Administrative costs incurred by the Secretary or the Commodity Credit Corporation to carry out this title 1
+Notwithstanding any other provision of law, the Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to make payments described in paragraph (1). Not later than January 1, 2015, the Secretary shall use amounts in the Tobacco Trust Fund to fully reimburse, with interest, the Commodity Credit Corporation for all funds of the Commodity Credit Corporation expended under the authority of this paragraph. Administrative costs incurred by the Secretary or the Commodity Credit Corporation to carry out this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 may not be paid using amounts in the Tobacco Trust Fund.
 
@@ -553,7 +553,7 @@ Any obligation acquired by the Tobacco Trust Fund may be sold by the Commodity C
 
 The interest on, and the proceeds from the sale or redemption of, any obligations held in the Tobacco Trust Fund shall be credited to and form a part of the Fund.
 
-(Pub. L. 108–357, title VI, § 626, Oct. 22, 2004, 118 Stat. 1533.)
+(Pub. L. 108–357, title VI, § 626, Oct. 22, 2004, 118 Stat. 1533.)
 
 **Editorial Notes**
 
@@ -567,11 +567,11 @@ This title, referred to in subsec. (b)(2), means title VI of Pub. L. 108–357, 
 
 Section applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as a note under section 518 of this title.
 
-### § 518f. Limitation on total expenditures
+### § 518f. Limitation on total expenditures
 
 The total amount expended by the Secretary from the Tobacco Trust Fund to make payments under sections 518a and 518b of this title and for the other authorized purposes of the Fund shall not exceed $10,140,000,000.
 
-(Pub. L. 108–357, title VI, § 627, Oct. 22, 2004, 118 Stat. 1534.)
+(Pub. L. 108–357, title VI, § 627, Oct. 22, 2004, 118 Stat. 1534.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -581,7 +581,7 @@ Section applicable to the 2005 and subsequent crops of tobacco, see section 643 
 
 ## SUBCHAPTER II—IMPLEMENTATION AND TRANSITION
 
-### § 519. Treatment of tobacco loan pool stocks and outstanding loan costs
+### § 519. Treatment of tobacco loan pool stocks and outstanding loan costs
 
 **(a) Disposal of stocks**
 
@@ -607,13 +607,13 @@ As required by section 518e(b)(1)(B) of this title, the Secretary shall transfer
 
 Any funds in the No Net Cost Tobacco Fund or the No Net Cost Tobacco Account of an association established under sections 106A and 106B of the Agricultural Act of 1949 (7 U.S.C. 1445–1, 1445–2) that remain after the application of subsections (b) and (c) shall be transferred to the association for distribution to producers of quota tobacco in accordance with a plan approved by the Secretary.
 
-(Pub. L. 108–357, title VI, § 641, Oct. 22, 2004, 118 Stat. 1534.)
+(Pub. L. 108–357, title VI, § 641, Oct. 22, 2004, 118 Stat. 1534.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 106A and 106B of the Agricultural Act of 1949, referred to in text, were classified to sections 1445–1 and 1445–2, respectively, of this title prior to repeal by Pub. L. 108–357, title VI, § 612(a), Oct. 22, 2004, 118 Stat. 1523.
+Sections 106A and 106B of the Agricultural Act of 1949, referred to in text, were classified to sections 1445–1 and 1445–2, respectively, of this title prior to repeal by Pub. L. 108–357, title VI, § 612(a), Oct. 22, 2004, 118 Stat. 1523.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -621,17 +621,17 @@ Sections 106A and 106B of the Agricultural Act of 1949, referred to in text, wer
 
 Section applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as a note under section 518 of this title.
 
-### § 519a. Regulations
+### § 519a. Regulations
 
 **(a) In general**
 
-The Secretary may promulgate such regulations as are necessary to implement this title 1
+The Secretary may promulgate such regulations as are necessary to implement this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and the amendments made by this title.1
 
-**(b) Procedure** The promulgation of the regulations and administration of this title <sup>1</sup> and the amendments made by this title <sup>1</sup> shall be made without regard to—
+**(b) Procedure** The promulgation of the regulations and administration of this title <sup>1</sup> and the amendments made by this title <sup>1</sup> shall be made without regard to—
 
 **(1)** the notice and comment provisions of section 553 of title 5;
 
@@ -643,7 +643,7 @@ and the amendments made by this title.1
 
 In carrying out this section, the Secretary shall use the authority provided under section 808 of title 5.
 
-(Pub. L. 108–357, title VI, § 642, Oct. 22, 2004, 118 Stat. 1535.)
+(Pub. L. 108–357, title VI, § 642, Oct. 22, 2004, 118 Stat. 1535.)
 
 **Editorial Notes**
 

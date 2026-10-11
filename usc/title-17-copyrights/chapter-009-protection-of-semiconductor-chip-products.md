@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2002—Pub. L. 107–273, div. C, title III, § 13210(11), Nov. 2, 2002, 116 Stat. 1910, substituted “licensing” for “licensure” in item 903.
+2002—Pub. L. 107–273, div. C, title III, § 13210(11), Nov. 2, 2002, 116 Stat. 1910, substituted “licensing” for “licensure” in item 903.
 
-1997—Pub. L. 105–80, § 12(a)(21), Nov. 13, 1997, 111 Stat. 1535, substituted “Ownership, transfer, licensure, and recordation” for “Ownership and transfer” in item 903.
+1997—Pub. L. 105–80, § 12(a)(21), Nov. 13, 1997, 111 Stat. 1535, substituted “Ownership, transfer, licensure, and recordation” for “Ownership and transfer” in item 903.
 
-## § 901. Definitions
+## § 901. Definitions
 
 **(a)** As used in this chapter—
 
@@ -55,15 +55,15 @@ retrieved: 2026-10-11
 
 **(b)** For purposes of this chapter, the distribution or importation of a product incorporating a semiconductor chip product as a part thereof is a distribution or importation of that semiconductor chip product.
 
-(Added Pub. L. 98–620, title III, § 302, Nov. 8, 1984, 98 Stat. 3347.)
+(Added Pub. L. 98–620, title III, § 302, Nov. 8, 1984, 98 Stat. 3347.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Authorization of Appropriations**
 
-Pub. L. 98–620, title III, § 304, Nov. 8, 1984, 98 Stat. 3356, provided that: “There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this title and the amendments made by this title [enacting this chapter].”
+Pub. L. 98–620, title III, § 304, Nov. 8, 1984, 98 Stat. 3356, provided that: “There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this title and the amendments made by this title [enacting this chapter].”
 
-## § 902. Subject matter of protection
+## § 902. Subject matter of protection
 
 **(a)**
 
@@ -85,7 +85,7 @@ Pub. L. 98–620, title III, § 304, Nov. 8, 1984, 98 Stat. 3356, provided tha
 
 **(c)** In no case does protection under this chapter for a mask work extend to any idea, procedure, process, system, method of operation, concept, principle, or discovery, regardless of the form in which it is described, explained, illustrated, or embodied in such work.
 
-(Added Pub. L. 98–620, title III, § 302, Nov. 8, 1984, 98 Stat. 3348; amended Pub. L. 100–159, § 3, Nov. 9, 1987, 101 Stat. 900.)
+(Added Pub. L. 98–620, title III, § 302, Nov. 8, 1984, 98 Stat. 3348; amended Pub. L. 100–159, § 3, Nov. 9, 1987, 101 Stat. 900.)
 
 **Editorial Notes**
 
@@ -103,7 +103,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 Ronald Reagan.
 
-## § 903. Ownership, transfer, licensing, and recordation
+## § 903. Ownership, transfer, licensing, and recordation
 
 **(a)** The exclusive rights in a mask work subject to protection under this chapter belong to the owner of the mask work.
 
@@ -117,9 +117,9 @@ Ronald Reagan.
 
 **(d)** Mask works prepared by an officer or employee of the United States Government as part of that person’s official duties are not protected under this chapter, but the United States Government is not precluded from receiving and holding exclusive rights in mask works transferred to the Government under subsection (b).
 
-(Added Pub. L. 98–620, title III, § 302, Nov. 8, 1984, 98 Stat. 3349.)
+(Added Pub. L. 98–620, title III, § 302, Nov. 8, 1984, 98 Stat. 3349.)
 
-## § 904. Duration of protection
+## § 904. Duration of protection
 
 **(a)** The protection provided for a mask work under this chapter shall commence on the date on which the mask work is registered under section 908, or the date on which the mask work is first commercially exploited anywhere in the world, whichever occurs first.
 
@@ -127,9 +127,9 @@ Ronald Reagan.
 
 **(c)** All terms of protection provided in this section shall run to the end of the calendar year in which they would otherwise expire.
 
-(Added Pub. L. 98–620, title III, § 302, Nov. 8, 1984, 98 Stat. 3349.)
+(Added Pub. L. 98–620, title III, § 302, Nov. 8, 1984, 98 Stat. 3349.)
 
-## § 905. Exclusive rights in mask works
+## § 905. Exclusive rights in mask works
 
 The owner of a mask work provided protection under this chapter has the exclusive rights to do and to authorize any of the following:
 
@@ -139,9 +139,9 @@ The owner of a mask work provided protection under this chapter has the exclusiv
 
 **(3)** to induce or knowingly to cause another person to do any of the acts described in paragraphs (1) and (2).
 
-(Added Pub. L. 98–620, title III, § 302, Nov. 8, 1984, 98 Stat. 3350.)
+(Added Pub. L. 98–620, title III, § 302, Nov. 8, 1984, 98 Stat. 3350.)
 
-## § 906. Limitation on exclusive rights: reverse engineering; first sale
+## § 906. Limitation on exclusive rights: reverse engineering; first sale
 
 **(a)** Notwithstanding the provisions of section 905, it is not an infringement of the exclusive rights of the owner of a mask work for—
 
@@ -151,9 +151,9 @@ The owner of a mask work provided protection under this chapter has the exclusiv
 
 **(b)** Notwithstanding the provisions of section 905(2), the owner of a particular semiconductor chip product made by the owner of the mask work, or by any person authorized by the owner of the mask work, may import, distribute, or otherwise dispose of or use, but not reproduce, that particular semiconductor chip product without the authority of the owner of the mask work.
 
-(Added Pub. L. 98–620, title III, § 302, Nov. 8, 1984, 98 Stat. 3350.)
+(Added Pub. L. 98–620, title III, § 302, Nov. 8, 1984, 98 Stat. 3350.)
 
-## § 907. Limitation on exclusive rights: innocent infringement
+## § 907. Limitation on exclusive rights: innocent infringement
 
 **(a)** Notwithstanding any other provision of this chapter, an innocent purchaser of an infringing semiconductor chip product—
 
@@ -167,9 +167,9 @@ The owner of a mask work provided protection under this chapter has the exclusiv
 
 **(d)** The provisions of subsections (a), (b), and (c) apply only with respect to those units of an infringing semiconductor chip product that an innocent purchaser purchased before having notice of protection with respect to the mask work embodied in the semiconductor chip product.
 
-(Added Pub. L. 98–620, title III, § 302, Nov. 8, 1984, 98 Stat. 3350.)
+(Added Pub. L. 98–620, title III, § 302, Nov. 8, 1984, 98 Stat. 3350.)
 
-## § 908. Registration of claims of protection
+## § 908. Registration of claims of protection
 
 **(a)** The owner of a mask work may apply to the Register of Copyrights for registration of a claim of protection in a mask work. Protection of a mask work under this chapter shall terminate if application for registration of a claim of protection in the mask work is not made as provided in this chapter within two years after the date on which the mask work is first commercially exploited anywhere in the world.
 
@@ -185,9 +185,9 @@ The owner of a mask work provided protection under this chapter has the exclusiv
 
 **(g)** Any applicant for registration under this section who is dissatisfied with the refusal of the Register of Copyrights to issue a certificate of registration under this section may seek judicial review of that refusal by bringing an action for such review in an appropriate United States district court not later than sixty days after the refusal. The provisions of chapter 7 of title 5 shall apply to such judicial review. The failure of the Register of Copyrights to issue a certificate of registration within four months after an application for registration is filed shall be deemed to be a refusal to issue a certificate of registration for purposes of this subsection and section 910(b)(2), except that, upon a showing of good cause, the district court may shorten such four-month period.
 
-(Added Pub. L. 98–620, title III, § 302, Nov. 8, 1984, 98 Stat. 3351.)
+(Added Pub. L. 98–620, title III, § 302, Nov. 8, 1984, 98 Stat. 3351.)
 
-## § 909. Mask work notice
+## § 909. Mask work notice
 
 **(a)** The owner of a mask work provided protection under this chapter may affix notice to the mask work, and to masks and semiconductor chip products embodying the mask work, in such manner and location as to give reasonable notice of such protection. The Register of Copyrights shall prescribe by regulation, as examples, specific methods of affixation and positions of notice for purposes of this section, but these specifications shall not be considered exhaustive. The affixation of such notice is not a condition of protection under this chapter, but shall constitute prima facie evidence of notice of protection.
 
@@ -197,15 +197,15 @@ The owner of a mask work provided protection under this chapter has the exclusiv
 
 **(2)** the name of the owner or owners of the mask work or an abbreviation by which the name is recognized or is generally known.
 
-(Added Pub. L. 98–620, title III, § 302, Nov. 8, 1984, 98 Stat. 3352; amended Pub. L. 105–80, § 12(a)(22), Nov. 13, 1997, 111 Stat. 1535.)
+(Added Pub. L. 98–620, title III, § 302, Nov. 8, 1984, 98 Stat. 3352; amended Pub. L. 105–80, § 12(a)(22), Nov. 13, 1997, 111 Stat. 1535.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1997—Subsec. (b)(1). Pub. L. 105–80 substituted “ ‘mask work’, the symbol” for “ ‘mask force’, the sumbol”.
+1997—Subsec. (b)(1). Pub. L. 105–80 substituted “ ‘mask work’, the symbol” for “ ‘mask force’, the sumbol”.
 
-## § 910. Enforcement of exclusive rights
+## § 910. Enforcement of exclusive rights
 
 **(a)** Except as otherwise provided in this chapter, any person who violates any of the exclusive rights of the owner of a mask work under this chapter, by conduct in or affecting commerce, shall be liable as an infringer of such rights. As used in this subsection, the term “any person” includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
 
@@ -227,7 +227,7 @@ The owner of a mask work provided protection under this chapter has the exclusiv
 
 **(2)** Articles imported in violation of the rights set forth in section 905 are subject to seizure and forfeiture in the same manner as property imported in violation of the customs laws. Any such forfeited articles shall be destroyed as directed by the Secretary of the Treasury or the court, as the case may be, except that the articles may be returned to the country of export whenever it is shown to the satisfaction of the Secretary of the Treasury that the importer had no reasonable grounds for believing that his or her acts constituted a violation of the law.
 
-(Added Pub. L. 98–620, title III, § 302, Nov. 8, 1984, 98 Stat. 3352; amended Pub. L. 101–553, § 2(b)(1), Nov. 15, 1990, 104 Stat. 2750; Pub. L. 105–80, § 12(a)(23), Nov. 13, 1997, 111 Stat. 1535.)
+(Added Pub. L. 98–620, title III, § 302, Nov. 8, 1984, 98 Stat. 3352; amended Pub. L. 101–553, § 2(b)(1), Nov. 15, 1990, 104 Stat. 2750; Pub. L. 105–80, § 12(a)(23), Nov. 13, 1997, 111 Stat. 1535.)
 
 **Editorial Notes**
 
@@ -249,7 +249,7 @@ Section 337 of the Tariff Act of 1930, referred to in subsec. (c)(1)(A), is clas
 
 Amendment by Pub. L. 101–553 effective with respect to violations that occur on or after Nov. 15, 1990, see section 3 of Pub. L. 101–553, set out as a note under section 501 of this title.
 
-## § 911. Civil actions
+## § 911. Civil actions
 
 **(a)** Any court having jurisdiction of a civil action arising under this chapter may grant temporary restraining orders, preliminary injunctions, and permanent injunctions on such terms as the court may deem reasonable to prevent or restrain infringement of the exclusive rights in a mask work under this chapter.
 
@@ -273,7 +273,7 @@ Amendment by Pub. L. 101–553 effective with respect to violations that occur o
 
 **(2)** In a suit described in paragraph (1) for a violation described in that paragraph, remedies (including remedies both at law and in equity) are available for the violation to the same extent as such remedies are available for such a violation in a suit against any public or private entity other than a State, instrumentality of a State, or officer or employee of a State acting in his or her official capacity. Such remedies include actual damages and profits under subsection (b), statutory damages under subsection (c), impounding and disposition of infringing articles under subsection (e), and costs and attorney’s fees under subsection (f).
 
-(Added Pub. L. 98–620, title III, § 302, Nov. 8, 1984, 98 Stat. 3353; amended Pub. L. 101–553, § 2(b)(2), Nov. 15, 1990, 104 Stat. 2750.)
+(Added Pub. L. 98–620, title III, § 302, Nov. 8, 1984, 98 Stat. 3353; amended Pub. L. 101–553, § 2(b)(2), Nov. 15, 1990, 104 Stat. 2750.)
 
 **Editorial Notes**
 
@@ -287,7 +287,7 @@ Amendment by Pub. L. 101–553 effective with respect to violations that occur o
 
 Amendment by Pub. L. 101–553 effective with respect to violations that occur on or after Nov. 15, 1990, see section 3 of Pub. L. 101–553, set out as a note under section 501 of this title.
 
-## § 912. Relation to other laws
+## § 912. Relation to other laws
 
 **(a)** Nothing in this chapter shall affect any right or remedy held by any person under chapters 1 through 8 or 10 of this title, or under title 35.
 
@@ -297,7 +297,7 @@ Amendment by Pub. L. 101–553 effective with respect to violations that occur o
 
 **(d)** Notwithstanding subsection (c), nothing in this chapter shall detract from any rights of a mask work owner, whether under Federal law (exclusive of this chapter) or under the common law or the statutes of a State, heretofore or hereafter declared or enacted, with respect to any mask work first commercially exploited before July 1, 1983.
 
-(Added Pub. L. 98–620, title III, § 302, Nov. 8, 1984, 98 Stat. 3354; amended Pub. L. 100–702, title X, § 1020(b), Nov. 19, 1988, 102 Stat. 4672; Pub. L. 102–563, § 3(c), Oct. 28, 1992, 106 Stat. 4248.)
+(Added Pub. L. 98–620, title III, § 302, Nov. 8, 1984, 98 Stat. 3354; amended Pub. L. 100–702, title X, § 1020(b), Nov. 19, 1988, 102 Stat. 4672; Pub. L. 102–563, § 3(c), Oct. 28, 1992, 106 Stat. 4248.)
 
 **Editorial Notes**
 
@@ -307,7 +307,7 @@ Amendment by Pub. L. 101–553 effective with respect to violations that occur o
 
 1988—Subsecs. (d), (e). Pub. L. 100–702 redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “The provisions of sections 1338, 1400(a), and 1498(b) and (c) of title 28 shall apply with respect to exclusive rights in mask works under this chapter.”
 
-## § 913. Transitional provisions
+## § 913. Transitional provisions
 
 **(a)** No application for registration under section 908 may be filed, and no civil action under section 910 or other enforcement proceeding under this chapter may be instituted, until sixty days after the date of the enactment of this chapter.
 
@@ -323,7 +323,7 @@ Amendment by Pub. L. 101–553 effective with respect to violations that occur o
 
 **(3)** In the event that a person imports or distributes infringing semiconductor chip product units described in paragraph (2) of this subsection without first paying or offering to pay the reasonable royalty specified in such paragraph, or if the person refuses or fails to make such payment, the mask work owner shall be entitled to the relief provided in sections 910 and 911.
 
-(Added Pub. L. 98–620, title III, § 302, Nov. 8, 1984, 98 Stat. 3354.)
+(Added Pub. L. 98–620, title III, § 302, Nov. 8, 1984, 98 Stat. 3354.)
 
 **Editorial Notes**
 
@@ -331,7 +331,7 @@ Amendment by Pub. L. 101–553 effective with respect to violations that occur o
 
 The date of enactment of this chapter, referred to in text, is the date of enactment of Pub. L. 98–620, which was approved Nov. 8, 1984.
 
-## § 914. International transitional provisions
+## § 914. International transitional provisions
 
 **(a)** Notwithstanding the conditions set forth in subparagraphs (A) and (C) of section 902(a)(1) with respect to the availability of protection under this chapter to nationals, domiciliaries, and sovereign authorities of a foreign nation, the Secretary of Commerce may, upon the petition of any person, or upon the Secretary’s own motion, issue an order extending protection under this chapter to such foreign nationals, domiciliaries, and sovereign authorities if the Secretary finds—
 
@@ -367,7 +367,7 @@ The date of enactment of this chapter, referred to in text, is the date of enact
 
 **(2)** Two years after the date of the enactment of this chapter, the Secretary of Commerce, in consultation with the Register of Copyrights, shall transmit to the Committees on the Judiciary of the Senate and the House of Representatives a report on the actions taken under this section and on the current status of international recognition of mask work protection. The report shall include such recommendations for modifications of the protection accorded under this chapter to mask works owned by nationals, domiciliaries, or sovereign authorities of foreign nations as the Secretary, in consultation with the Register of Copyrights, considers would promote the purposes of this chapter and international comity with respect to mask work protection. Not later than July 1, 1994, the Secretary of Commerce, in consultation with the Register of Copyrights, shall transmit to the Committees on the Judiciary of the Senate and the House of Representatives a report updating the matters contained in the report transmitted under the preceding sentence.
 
-(Added Pub. L. 98–620, title III, § 302, Nov. 8, 1984, 98 Stat. 3355; amended Pub. L. 100–159, §§ 2, 4, Nov. 9, 1987, 101 Stat. 899, 900; Pub. L. 102–64, §§ 3, 4, June 28, 1991, 105 Stat. 320, 321.)
+(Added Pub. L. 98–620, title III, § 302, Nov. 8, 1984, 98 Stat. 3355; amended Pub. L. 100–159, §§ 2, 4, Nov. 9, 1987, 101 Stat. 899, 900; Pub. L. 102–64, §§ 3, 4, June 28, 1991, 105 Stat. 320, 321.)
 
 **Editorial Notes**
 
@@ -377,21 +377,21 @@ The date of enactment of this chapter, referred to in subsecs. (e) and (f)(2), i
 
 **Amendments**
 
-1991—Subsec. (a)(1)(B). Pub. L. 102–64, § 3(1), inserted “or implementing” after “enacting”.
+1991—Subsec. (a)(1)(B). Pub. L. 102–64, § 3(1), inserted “or implementing” after “enacting”.
 
-Subsec. (e). Pub. L. 102–64, § 3(2), substituted “July 1, 1995” for “July 1, 1991”.
+Subsec. (e). Pub. L. 102–64, § 3(2), substituted “July 1, 1995” for “July 1, 1991”.
 
-Subsec. (f)(2). Pub. L. 102–64, § 4, substituted “July 1, 1994” for “July 1, 1990”.
+Subsec. (f)(2). Pub. L. 102–64, § 4, substituted “July 1, 1994” for “July 1, 1990”.
 
-1987—Subsec. (e). Pub. L. 100–159, § 2, substituted “on July 1, 1991” for “three years after such date of enactment”.
+1987—Subsec. (e). Pub. L. 100–159, § 2, substituted “on July 1, 1991” for “three years after such date of enactment”.
 
-Subsec. (f)(2). Pub. L. 100–159, § 4, which directed the amendment of subsec. (f) by inserting at end “Not later than July 1, 1990, the Secretary of Commerce, in consultation with the Register of Copyrights, shall transmit to the Committees on the Judiciary of the Senate and the House of Representatives a report updating the matters contained in the report transmitted under the preceding sentence.”, was executed by inserting new language at end of par. (2) of subsec. (f) as the probable intent of Congress.
+Subsec. (f)(2). Pub. L. 100–159, § 4, which directed the amendment of subsec. (f) by inserting at end “Not later than July 1, 1990, the Secretary of Commerce, in consultation with the Register of Copyrights, shall transmit to the Committees on the Judiciary of the Senate and the House of Representatives a report updating the matters contained in the report transmitted under the preceding sentence.”, was executed by inserting new language at end of par. (2) of subsec. (f) as the probable intent of Congress.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Findings and Purposes**
 
-Pub. L. 102–64, § 2, June 28, 1991, 105 Stat. 320, provided that:
+Pub. L. 102–64, § 2, June 28, 1991, 105 Stat. 320, provided that:
 
 > **“(a) Findings.—** The Congress finds that—
 
@@ -409,7 +409,7 @@ Pub. L. 102–64, § 2, June 28, 1991, 105 Stat. 320, provided that:
 
 > **“(2)** to clarify the Secretary’s authority to issue such interim protection orders.”
 
-Pub. L. 100–159, § 1, Nov. 9, 1987, 101 Stat. 899, as amended by Pub. L. 105–80, § 12(b)(1), Nov. 13, 1997, 111 Stat. 1536, provided that:
+Pub. L. 100–159, § 1, Nov. 9, 1987, 101 Stat. 899, as amended by Pub. L. 105–80, § 12(b)(1), Nov. 13, 1997, 111 Stat. 1536, provided that:
 
 > **“(a) Findings.—** The Congress finds that—
 

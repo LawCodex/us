@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 355 of this title as this chapter and item 3723 as 7263.
+2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 355 of this title as this chapter and item 3723 as 7263.
 
-1986—Pub. L. 99–661, div. A, title VI, § 604(f)(1)(B)(ii), Nov. 14, 1986, 100 Stat. 3877, struck out item 3721 “Members of Army, other than of Regular Army” and item 3722 “Members of C.M.T.C.; members of Army not covered by section 3721 of this title.”
+1986—Pub. L. 99–661, div. A, title VI, § 604(f)(1)(B)(ii), Nov. 14, 1986, 100 Stat. 3877, struck out item 3721 “Members of Army, other than of Regular Army” and item 3722 “Members of C.M.T.C.; members of Army not covered by section 3721 of this title.”
 
-1958—Pub. L. 85–861, § 1(92)(D), Sept. 2, 1958, 72 Stat. 1482, substituted “Members of C.M.T.C.” for “Members of R.O.T.C. and C.M.T.C.” in item 3722.
+1958—Pub. L. 85–861, § 1(92)(D), Sept. 2, 1958, 72 Stat. 1482, substituted “Members of C.M.T.C.” for “Members of R.O.T.C. and C.M.T.C.” in item 3722.
 
-## § 7263. When Secretary may require
+## § 7263. When Secretary may require
 
 The Secretary of the Army may order the hospitalization, medical and surgical treatment, and domiciliary care, for as long as necessary, of any member of the Army on active duty, and may incur obligations with respect thereto, whether or not the member incurred an injury, illness, or disease in line of duty, except in the case of a member treated in a private hospital, or by a civilian physician, while on leave of absence for more than 24 hours.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 215, § 3723; Pub. L. 99–661, div. A, title VI, § 604(f)(1)(D), Nov. 14, 1986, 100 Stat. 3878; Pub. L. 100–180, div. A, title XII, § 1231(16), Dec. 4, 1987, 101 Stat. 1161; renumbered § 7263, Pub. L. 115–232, div. A, title VIII, § 808(b)(10), Aug. 13, 2018, 132 Stat. 1838.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 215, § 3723; Pub. L. 99–661, div. A, title VI, § 604(f)(1)(D), Nov. 14, 1986, 100 Stat. 3878; Pub. L. 100–180, div. A, title XII, § 1231(16), Dec. 4, 1987, 101 Stat. 1161; renumbered § 7263, Pub. L. 115–232, div. A, title VIII, § 808(b)(10), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3723 | 10:455e. 32:164d. | July 15, 1939, ch. 282; restated Oct. 14, 1940, ch. 875, § 5, 54 Stat. 1137. |
+| 3723 | 10:455e. 32:164d. | July 15, 1939, ch. 282; restated Oct. 14, 1940, ch. 875, § 5, 54 Stat. 1137. |
 
 The words “under such regulations as he may prescribe”, in 10:455e and 32:164d, are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. The reference to 10:455a–455d and 32:164a–164c, and the words “nor any other law of the United States shall be construed as limiting the power and authority”, are omitted, since the revised section makes explicit the authority of the Secretary to require the prescribed hospitalization and care. The words “or in training, under the provisions of section 62—” are omitted as covered by the words “active duty”. The words “in the active military service” are omitted as surplusage. With the exception of 32:62 (4th proviso of last sentence), the references to 32:62–65, 144–146, 183, and 186, in 10:455e and 32:164d, do not refer to members of the Army National Guard of the United States and are therefore omitted from the revised section. 10:455e (1st proviso) and 32:164d (1st proviso) are omitted since they apply only to the National Guard and are covered by section 320 of title 32.
 
@@ -43,7 +43,7 @@ The words “under such regulations as he may prescribe”, in 10:455e and 32:16
 
 **Codification**
 
-Pub. L. 100–26, § 7(j)(11), Apr. 21, 1987, 101 Stat. 283, which directed that section 4723 of this title, as amended by section 604(f)(1)(D) of Pub. L. 99–661, be amended by striking out the comma after “disease”, could not be executed because no section 4723 of this title had yet been enacted. The probable intent of Congress was to amend section 3723 of this title. Pub. L. 100–180, § 1231(16), cited as a credit above, made an identical amendment to section 3723 prior to its renumbering as this section.
+Pub. L. 100–26, § 7(j)(11), Apr. 21, 1987, 101 Stat. 283, which directed that section 4723 of this title, as amended by section 604(f)(1)(D) of Pub. L. 99–661, be amended by striking out the comma after “disease”, could not be executed because no section 4723 of this title had yet been enacted. The probable intent of Congress was to amend section 3723 of this title. Pub. L. 100–180, § 1231(16), cited as a credit above, made an identical amendment to section 3723 prior to its renumbering as this section.
 
 **Amendments**
 

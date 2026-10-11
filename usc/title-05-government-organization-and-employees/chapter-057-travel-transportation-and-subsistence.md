@@ -19,63 +19,63 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2021—Pub. L. 116–283, div. A, title XI, § 1112(b), Jan. 1, 2021, 134 Stat. 3984, which directed amendment of item 5711 in table of sections for subchapter I of chapter 57 by substituting “Authority for telework travel expenses programs” for “Authority for telework travel expenses test programs”, was executed to table of sections for this chapter to reflect the probable intent of Congress.
+2021—Pub. L. 116–283, div. A, title XI, § 1112(b), Jan. 1, 2021, 134 Stat. 3984, which directed amendment of item 5711 in table of sections for subchapter I of chapter 57 by substituting “Authority for telework travel expenses programs” for “Authority for telework travel expenses test programs”, was executed to table of sections for this chapter to reflect the probable intent of Congress.
 
-2019—Pub. L. 116–92, div. A, title XI, § 1114(b), Dec. 20, 2019, 133 Stat. 1604, substituted “Taxes on reimbursements for travel, transportation, and relocation expenses” for “Taxes on reimbursements for travel, transportation, and relocation expenses of employees transferred” in item 5724b.
+2019—Pub. L. 116–92, div. A, title XI, § 1114(b), Dec. 20, 2019, 133 Stat. 1604, substituted “Taxes on reimbursements for travel, transportation, and relocation expenses” for “Taxes on reimbursements for travel, transportation, and relocation expenses of employees transferred” in item 5724b.
 
-2010—Pub. L. 111–292, § 3(b), Dec. 9, 2010, 124 Stat. 3173, added item 5711.
+2010—Pub. L. 111–292, § 3(b), Dec. 9, 2010, 124 Stat. 3173, added item 5711.
 
-Pub. L. 111–178, § 2(c), June 9, 2010, 124 Stat. 1263, added item 5724d.
+Pub. L. 111–178, § 2(c), June 9, 2010, 124 Stat. 1263, added item 5724d.
 
-2009—Pub. L. 111–117, div. B, title II, § 219(b), Dec. 16, 2009, 123 Stat. 3142, added item 5761.
+2009—Pub. L. 111–117, div. B, title II, § 219(b), Dec. 16, 2009, 123 Stat. 3142, added item 5761.
 
-2008—Pub. L. 110–181, div. A, title XI, § 1104(b), Jan. 28, 2008, 122 Stat. 347, added item 5737a.
+2008—Pub. L. 110–181, div. A, title XI, § 1104(b), Jan. 28, 2008, 122 Stat. 347, added item 5737a.
 
-2006—Pub. L. 109–163, div. A, title XI, § 1121(b), Jan. 6, 2006, 119 Stat. 3452, added item 5760.
+2006—Pub. L. 109–163, div. A, title XI, § 1121(b), Jan. 6, 2006, 119 Stat. 3452, added item 5760.
 
-2004—Pub. L. 108–447, div. B, title I, § 113(b), Dec. 8, 2004, 118 Stat. 2869, added item 5759.
+2004—Pub. L. 108–447, div. B, title I, § 113(b), Dec. 8, 2004, 118 Stat. 2869, added item 5759.
 
-Pub. L. 108–411, title I, § 101(a)(2), Oct. 30, 2004, 118 Stat. 2309, substituted “Retention bonuses” for “Retention allowances” in item 5754.
+Pub. L. 108–411, title I, § 101(a)(2), Oct. 30, 2004, 118 Stat. 2309, substituted “Retention bonuses” for “Retention allowances” in item 5754.
 
-2002—Pub. L. 107–273, div. A, title II, § 207(a)(2), Nov. 2, 2002, 116 Stat. 1780, added item 5757 “Extended assignment incentive”.
+2002—Pub. L. 107–273, div. A, title II, § 207(a)(2), Nov. 2, 2002, 116 Stat. 1780, added item 5757 “Extended assignment incentive”.
 
-2001—Pub. L. 107–107, div. A, title XI, § 1112(b), Dec. 28, 2001, 115 Stat. 1239, added item 5757 “Payment of expenses to obtain professional credentials”.
+2001—Pub. L. 107–107, div. A, title XI, § 1112(b), Dec. 28, 2001, 115 Stat. 1239, added item 5757 “Payment of expenses to obtain professional credentials”.
 
-1998—Pub. L. 105–264, §§ 4(b), 5(c), Oct. 19, 1998, 112 Stat. 2354, 2355, added items 5706c, 5710, and 5739.
+1998—Pub. L. 105–264, §§ 4(b), 5(c), Oct. 19, 1998, 112 Stat. 2354, 2355, added items 5706c, 5710, and 5739.
 
-1996—Pub. L. 104–201, div. A, title XVI, § 1605(a)(2), title XVII, § 1723(c), Sept. 23, 1996, 110 Stat. 2736, 2759, added items 5736 to 5738 and 5756.
+1996—Pub. L. 104–201, div. A, title XVI, § 1605(a)(2), title XVII, § 1723(c), Sept. 23, 1996, 110 Stat. 2736, 2759, added items 5736 to 5738 and 5756.
 
-1994—Pub. L. 103–337, div. A, title III, § 345(a)(2), Oct. 5, 1994, 108 Stat. 2724, added item 5735.
+1994—Pub. L. 103–337, div. A, title III, § 345(a)(2), Oct. 5, 1994, 108 Stat. 2724, added item 5735.
 
-1992—Pub. L. 102–378, § 2(46), Oct. 2, 1992, 106 Stat. 1353, struck out “; manpower shortage positions” after “trainees” in item 5723 and added item 5755.
+1992—Pub. L. 102–378, § 2(46), Oct. 2, 1992, 106 Stat. 1353, struck out “; manpower shortage positions” after “trainees” in item 5723 and added item 5755.
 
-1990—Pub. L. 101–509, title V, § 529 [title II, §§ 206(a)(2), 208(b)], Nov. 5, 1990, 104 Stat. 1427, 1457, 1460, added items 5706b, 5753, and 5754.
+1990—Pub. L. 101–509, title V, § 529 [title II, §§ 206(a)(2), 208(b)], Nov. 5, 1990, 104 Stat. 1427, 1457, 1460, added items 5706b, 5753, and 5754.
 
-Pub. L. 101–391, § 4(b), Sept. 25, 1990, 104 Stat. 750, added item 5707a.
+Pub. L. 101–391, § 4(b), Sept. 25, 1990, 104 Stat. 750, added item 5707a.
 
-1986—Pub. L. 99–234, title I, §§ 103(b), 106(b), Jan. 2, 1986, 99 Stat. 1758, 1759, added items 5706a and 5734.
+1986—Pub. L. 99–234, title I, §§ 103(b), 106(b), Jan. 2, 1986, 99 Stat. 1758, 1759, added items 5706a and 5734.
 
-1983—Pub. L. 98–151, § 118(a)(7)(A)(ii), Nov. 14, 1983, 97 Stat. 979, added items 5724b and 5724c.
+1983—Pub. L. 98–151, § 118(a)(7)(A)(ii), Nov. 14, 1983, 97 Stat. 979, added items 5724b and 5724c.
 
-1978—Pub. L. 95–454, title IV, § 409(c), Oct. 13, 1978, 92 Stat. 1173, added item 5752.
+1978—Pub. L. 95–454, title IV, § 409(c), Oct. 13, 1978, 92 Stat. 1173, added item 5752.
 
-1975—Pub. L. 94–22, § 7, May 19, 1975, 89 Stat. 86, inserted “and reports” after “Regulations” in item 5707.
+1975—Pub. L. 94–22, § 7, May 19, 1975, 89 Stat. 86, inserted “and reports” after “Regulations” in item 5707.
 
-1970—Pub. L. 91–563, § 4(b), Dec. 19, 1970, 84 Stat. 1477, added heading of Subchapter IV and item 5751.
+1970—Pub. L. 91–563, § 4(b), Dec. 19, 1970, 84 Stat. 1477, added heading of Subchapter IV and item 5751.
 
-Pub. L. 91–481, § 1(2), Oct. 21, 1970, 84 Stat. 1081, added item 5709.
+Pub. L. 91–481, § 1(2), Oct. 21, 1970, 84 Stat. 1081, added item 5709.
 
-1967—Pub. L. 90–206, title II, § 222(c)(2), Dec. 16, 1967, 81 Stat. 641, added item 5733.
+1967—Pub. L. 90–206, title II, § 222(c)(2), Dec. 16, 1967, 81 Stat. 641, added item 5733.
 
-Pub. L. 90–83 § 1(37)(B), Sept. 11, 1967, 81 Stat. 205, added item 5724a.
+Pub. L. 90–83 § 1(37)(B), Sept. 11, 1967, 81 Stat. 205, added item 5724a.
 
 ## SUBCHAPTER I—TRAVEL AND SUBSISTENCE EXPENSES; MILEAGE ALLOWANCES
 
-### § 5701. Definitions
+### § 5701. Definitions
 
 Except as otherwise provided in section 5707(d),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 for the purpose of this subchapter—
 
@@ -109,14 +109,14 @@ but does not include—
 
 **(6)** “continental United States” means the several States and the District of Columbia, but does not include Alaska or Hawaii.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 498; Pub. L. 94–22, § 2(a), May 19, 1975, 89 Stat. 84; Pub. L. 99–234, title I, § 101, Jan. 2, 1986, 99 Stat. 1756; Pub. L. 101–391, § 5(a)(2), Sept. 25, 1990, 104 Stat. 751.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 498; Pub. L. 94–22, § 2(a), May 19, 1975, 89 Stat. 84; Pub. L. 99–234, title I, § 101, Jan. 2, 1986, 99 Stat. 1756; Pub. L. 101–391, § 5(a)(2), Sept. 25, 1990, 104 Stat. 751.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (1)–(5) | 5 U.S.C. 835. | June 9, 1949, ch. 185, § 2, 63 Stat. 166. |
-| (6) | [Uncodified]. | Aug. 14, 1961, Pub. L. 87–139, § 8(c), 75 Stat. 340. |
+| (1)–(5) | 5 U.S.C. 835. | June 9, 1949, ch. 185, § 2, 63 Stat. 166. |
+| (6) | [Uncodified]. | Aug. 14, 1961, Pub. L. 87–139, § 8(c), 75 Stat. 340. |
 
 In paragraph (1), the word “agency” is substituted for “departments and establishments”. The terms “Executive agency” and “military department” are substituted for “any executive department, independent commission, board, bureau, office, agency, or other establishment in the executive branch of the Government, including wholly owned Government corporations” in view of the definitions in sections 105 and 102. The exception of “a Government controlled corporation” is added in subparagraph (i) to preserve the application of this subchapter to “wholly owned Government corporations”.
 
@@ -136,7 +136,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **References in Text**
 
-Section 5707(d) of this title, referred to in text, was repealed by Pub. L. 104–201, div. A, title XVI, § 1614(a)(1), Sept. 23, 1996, 110 Stat. 2739.
+Section 5707(d) of this title, referred to in text, was repealed by Pub. L. 104–201, div. A, title XVI, § 1614(a)(1), Sept. 23, 1996, 110 Stat. 2739.
 
 **Amendments**
 
@@ -150,7 +150,7 @@ Section 5707(d) of this title, referred to in text, was repealed by Pub. L. 104�
 
 **Effective Date of 1986 Amendment; Regulations**
 
-Pub. L. 99–234, title III, § 301, Jan. 2, 1986, 99 Stat. 1760, provided that:
+Pub. L. 99–234, title III, § 301, Jan. 2, 1986, 99 Stat. 1760, provided that:
 
 > **“(a)** The Administrator of General Services shall promulgate regulations implementing the amendments made by sections 101, 102, 103, 104, and 106 of this Act [enacting sections 5706a and 5734 of this title and amending this section and sections 5702 and 5707 of this title] not later than 150 days after the date of enactment of this Act [Jan. 2, 1986]. The amendments made by title I of this Act [enacting sections 5706a and 5734 of this title and amending this section, sections 5702, 5707, and 5724a of this title, section 476 of Title 2, The Congress, section 2396 of Title 22, Foreign Relations and Intercourse, section 4941 of Title 26, Internal Revenue Code, section 456 of Title 28, Judiciary and Judicial Procedure, section 326 of Title 31, Money and Finance, and section 2477 of Title 42, The Public Health and Welfare] shall take effect on the effective date of such regulations, or 180 days after the date of enactment of this Act [Jan. 2, 1986], whichever occurs first.
 
@@ -158,23 +158,23 @@ Pub. L. 99–234, title III, § 301, Jan. 2, 1986, 99 Stat. 1760, provided tha
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–264, § 1, Oct. 19, 1998, 112 Stat. 2350, provided that: “This Act [enacting sections 5706c, 5710, and 5739 of this title, amending sections 5721 to 5724, 5724a, 5725, 5727 to 5729, 5731, and 5732 of this title, section 3413 of Title 12, Banks and Banking, and sections 3322, 3528, and 3726 of Title 31, Money and Finance, and enacting provisions set out as notes under this section, section 5706c of this title, and section 3322 of Title 31] may be cited as the ‘Travel and Transportation Reform Act of 1998’.”
+Pub. L. 105–264, § 1, Oct. 19, 1998, 112 Stat. 2350, provided that: “This Act [enacting sections 5706c, 5710, and 5739 of this title, amending sections 5721 to 5724, 5724a, 5725, 5727 to 5729, 5731, and 5732 of this title, section 3413 of Title 12, Banks and Banking, and sections 3322, 3528, and 3726 of Title 31, Money and Finance, and enacting provisions set out as notes under this section, section 5706c of this title, and section 3322 of Title 31] may be cited as the ‘Travel and Transportation Reform Act of 1998’.”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–201, div. A, title XVII, § 1701, Sept. 23, 1996, 110 Stat. 2752, provided that: “This title [enacting sections 5737, 5738, and 5756 of this title, amending sections 3375, 5722 to 5724c, 5726 to 5729, and 5731 of this title, section 1348 of Title 31, Money and Finance, section 707 of Title 38, Veterans’ Benefits, and sections 290aa and 299c–4 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under section 5722 of this title] may be cited as the ‘Federal Employee Travel Reform Act of 1996’.”
+Pub. L. 104–201, div. A, title XVII, § 1701, Sept. 23, 1996, 110 Stat. 2752, provided that: “This title [enacting sections 5737, 5738, and 5756 of this title, amending sections 3375, 5722 to 5724c, 5726 to 5729, and 5731 of this title, section 1348 of Title 31, Money and Finance, section 707 of Title 38, Veterans’ Benefits, and sections 290aa and 299c–4 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under section 5722 of this title] may be cited as the ‘Federal Employee Travel Reform Act of 1996’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–234, § 1, Jan. 2, 1986, 99 Stat. 1756, provided that: “This Act [enacting sections 5706a and 5734 of this title and section 420 of Title 41, Public Contracts, amending this section, sections 5702, 5707, and 5724a of this title, section 476 of Title 2, The Congress, section 2396 of Title 22, Foreign Relations and Intercourse, section 4941 of Title 26, Internal Revenue Code, section 456 of Title 28, Judiciary and Judicial Procedure, section 326 of Title 31, Money and Finance, and section 2477 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 420 of Title 41] may be cited as the ‘Federal Civilian Employee and Contractor Travel Expenses Act of 1985’.”
+Pub. L. 99–234, § 1, Jan. 2, 1986, 99 Stat. 1756, provided that: “This Act [enacting sections 5706a and 5734 of this title and section 420 of Title 41, Public Contracts, amending this section, sections 5702, 5707, and 5724a of this title, section 476 of Title 2, The Congress, section 2396 of Title 22, Foreign Relations and Intercourse, section 4941 of Title 26, Internal Revenue Code, section 456 of Title 28, Judiciary and Judicial Procedure, section 326 of Title 31, Money and Finance, and section 2477 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and section 420 of Title 41] may be cited as the ‘Federal Civilian Employee and Contractor Travel Expenses Act of 1985’.”
 
 **Short Title of 1975 Amendment**
 
-Pub. L. 94–22, § 1, May 19, 1975, 89 Stat. 84, provided: “That this Act [see Tables for classification] may be cited as the ‘Travel Expense Amendments Act of 1975’.”
+Pub. L. 94–22, § 1, May 19, 1975, 89 Stat. 84, provided: “That this Act [see Tables for classification] may be cited as the ‘Travel Expense Amendments Act of 1975’.”
 
 **Construction**
 
-Pub. L. 112–194, § 6, Oct. 5, 2012, 126 Stat. 1451, as amended by Pub. L. 116–117, § 3(b)(1), Mar. 2, 2020, 134 Stat. 133, provided that:
+Pub. L. 112–194, § 6, Oct. 5, 2012, 126 Stat. 1451, as amended by Pub. L. 116–117, § 3(b)(1), Mar. 2, 2020, 134 Stat. 133, provided that:
 
 > **“(a) Executive Agency Accounting.—** Nothing in this Act [see Short Title of 2012 Amendment note set out under section 101 of Title 41, Public Contracts], or the amendments made by this Act, shall be construed to excuse the head of an executive agency from the responsibilities set out in section 3512 or subchapter IV of chapter 33 of title 31, United States Code.
 
@@ -184,7 +184,7 @@ Pub. L. 112–194, § 6, Oct. 5, 2012, 126 Stat. 1451, as amended by Pub. L. 1
 
 **Management of Centrally Billed Accounts**
 
-Pub. L. 112–194, § 4, Oct. 5, 2012, 126 Stat. 1450, provided that:
+Pub. L. 112–194, § 4, Oct. 5, 2012, 126 Stat. 1450, provided that:
 
 > **“(a) Required Internal Controls for Centrally Billed Accounts.—** The head of an executive agency that has employees who use a travel charge card that is billed directly to the United States Government shall establish and maintain the following internal control activities:
 
@@ -200,29 +200,29 @@ Pub. L. 112–194, § 4, Oct. 5, 2012, 126 Stat. 1450, provided that:
 
 **eTravel Service**
 
-Pub. L. 108–447, div. G, title II, § 209, Dec. 8, 2004, 118 Stat. 3193, provided that: “Notwithstanding any other provision of law, no entity within the legislative branch shall be required to use the eTravel Service established by the Administrator of General Services for official travel by officers or employees of the entity during fiscal year 2005 or any succeeding fiscal year.”
+Pub. L. 108–447, div. G, title II, § 209, Dec. 8, 2004, 118 Stat. 3193, provided that: “Notwithstanding any other provision of law, no entity within the legislative branch shall be required to use the eTravel Service established by the Administrator of General Services for official travel by officers or employees of the entity during fiscal year 2005 or any succeeding fiscal year.”
 
 **Creditworthiness of Individuals To Be Issued Government Charge Cards**
 
-Pub. L. 112–74, div. C, title VII, § 736, Dec. 23, 2011, 125 Stat. 937, provided that: “Each executive department and agency shall evaluate the creditworthiness of an individual before issuing the individual a government travel charge card. Such evaluations for individually billed travel charge cards shall include an assessment of the individual’s consumer report from a consumer reporting agency as those terms are defined in section 603 of the Fair Credit Reporting Act (Public Law 91–508 [Pub. L. 90–321]) [15 U.S.C. 1681a]: *Provided*, That the department or agency may not issue a government travel charge card to an individual that either lacks a credit history or is found to have an unsatisfactory credit history as a result of this evaluation: *Provided further*, That this restriction shall not preclude issuance of a restricted-use charge, debit, or stored value card made in accordance with agency procedures to: (1) an individual with an unsatisfactory credit history where such card is used to pay travel expenses and the agency determines there is no suitable alternative payment mechanism available before issuing the card; or (2) an individual who lacks a credit history. Each executive department and agency shall establish guidelines and procedures for disciplinary actions to be taken against agency personnel for improper, fraudulent, or abusive use of government charge cards, which shall include appropriate disciplinary actions for use of charge cards for purposes, and at establishments, that are inconsistent with the official business of the Department or agency or with applicable standards of conduct.”
+Pub. L. 112–74, div. C, title VII, § 736, Dec. 23, 2011, 125 Stat. 937, provided that: “Each executive department and agency shall evaluate the creditworthiness of an individual before issuing the individual a government travel charge card. Such evaluations for individually billed travel charge cards shall include an assessment of the individual’s consumer report from a consumer reporting agency as those terms are defined in section 603 of the Fair Credit Reporting Act (Public Law 91–508 [Pub. L. 90–321]) [15 U.S.C. 1681a]: *Provided*, That the department or agency may not issue a government travel charge card to an individual that either lacks a credit history or is found to have an unsatisfactory credit history as a result of this evaluation: *Provided further*, That this restriction shall not preclude issuance of a restricted-use charge, debit, or stored value card made in accordance with agency procedures to: (1) an individual with an unsatisfactory credit history where such card is used to pay travel expenses and the agency determines there is no suitable alternative payment mechanism available before issuing the card; or (2) an individual who lacks a credit history. Each executive department and agency shall establish guidelines and procedures for disciplinary actions to be taken against agency personnel for improper, fraudulent, or abusive use of government charge cards, which shall include appropriate disciplinary actions for use of charge cards for purposes, and at establishments, that are inconsistent with the official business of the Department or agency or with applicable standards of conduct.”
 
 Similar provisions were contained in the following prior appropriations acts:
 
-Pub. L. 111–117, div. C, title VII, § 738, Dec. 16, 2009, 123 Stat. 3214.
+Pub. L. 111–117, div. C, title VII, § 738, Dec. 16, 2009, 123 Stat. 3214.
 
-Pub. L. 111–8, div. D, title VII, § 741, Mar. 11, 2009, 123 Stat. 691.
+Pub. L. 111–8, div. D, title VII, § 741, Mar. 11, 2009, 123 Stat. 691.
 
-Pub. L. 110–161, div. D, title VII, § 743, Dec. 26, 2007, 121 Stat. 2032.
+Pub. L. 110–161, div. D, title VII, § 743, Dec. 26, 2007, 121 Stat. 2032.
 
-Pub. L. 109–115, div. A, title VIII, § 846, Nov. 30, 2005, 119 Stat. 2507.
+Pub. L. 109–115, div. A, title VIII, § 846, Nov. 30, 2005, 119 Stat. 2507.
 
-Pub. L. 108–447, div. H, title VI, § 639, Dec. 8, 2004, 118 Stat. 3281.
+Pub. L. 108–447, div. H, title VI, § 639, Dec. 8, 2004, 118 Stat. 3281.
 
-Pub. L. 108–199, div. F, title VI, § 638, Jan. 23, 2004, 118 Stat. 358.
+Pub. L. 108–199, div. F, title VI, § 638, Jan. 23, 2004, 118 Stat. 358.
 
 **Requiring Use of Travel Charge Card**
 
-Pub. L. 105–264, § 2, Oct. 19, 1998, 112 Stat. 2350, as amended by Pub. L. 112–194, § 3, Oct. 5, 2012, 126 Stat. 1448, provided that:
+Pub. L. 105–264, § 2, Oct. 19, 1998, 112 Stat. 2350, as amended by Pub. L. 112–194, § 3, Oct. 5, 2012, 126 Stat. 1448, provided that:
 
 > **“(a) In General.—** Under regulations issued by the Administrator of General Services after consultation with the Secretary of the Treasury, the Administrator shall require that Federal employees use the travel charge card established pursuant to the United States Travel and Transportation Payment and Expense Control System, or any Federal contractor-issued travel charge card, for all payments of expenses of official Government travel. The Administrator shall exempt any payment, person, type or class of payments, or type or class of personnel from any requirement established under the preceding sentence in any case in which—
 
@@ -314,7 +314,7 @@ Pub. L. 105–264, § 2, Oct. 19, 1998, 112 Stat. 2350, as amended by Pub. L. 
 
 **Definitions**
 
-Pub. L. 112–194, § 5, Oct. 5, 2012, 126 Stat. 1451, provided that:
+Pub. L. 112–194, § 5, Oct. 5, 2012, 126 Stat. 1451, provided that:
 
 > “In this Act [enacting section 1909 of Title 41, Public Contracts, amending section 2784 of Title 10, Armed Forces, enacting provisions set out as notes under this section and sections 101 and 1909 of Title 41, and amending provisions set out as a note under this section]:
 
@@ -322,7 +322,7 @@ Pub. L. 112–194, § 5, Oct. 5, 2012, 126 Stat. 1451, provided that:
 
 > **“(2) Employee.—** The term ‘employee’ has the meaning given such term in section 2(d)(3) of the Travel and Transportation Reform Act of 1998 (Public Law 105–264; 5 U.S.C. 5701 note).”
 
-### § 5702. Per diem; employees traveling on official business
+### § 5702. Per diem; employees traveling on official business
 
 **(a)**
 
@@ -362,16 +362,16 @@ Pub. L. 112–194, § 5, Oct. 5, 2012, 126 Stat. 1451, provided that:
 
 **(c)** This section does not apply to a justice or judge, except to the extent provided by section 456 of title 28.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 498; Pub. L. 91–114, § 1, Nov. 10, 1969, 83 Stat. 190; Pub. L. 94–22, § 3, May 19, 1975, 89 Stat. 84; Pub. L. 96–54, § 2(a)(36), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–346, § 1, Sept. 10, 1980, 94 Stat. 1148; Pub. L. 99–234, title I, § 102, Jan. 2, 1986, 99 Stat. 1756; Pub. L. 102–378, § 2(47), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 115–232, div. A, title VI, § 603(b), Aug. 13, 2018, 132 Stat. 1794.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 498; Pub. L. 91–114, § 1, Nov. 10, 1969, 83 Stat. 190; Pub. L. 94–22, § 3, May 19, 1975, 89 Stat. 84; Pub. L. 96–54, § 2(a)(36), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–346, § 1, Sept. 10, 1980, 94 Stat. 1148; Pub. L. 99–234, title I, § 102, Jan. 2, 1986, 99 Stat. 1756; Pub. L. 102–378, § 2(47), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 115–232, div. A, title VI, § 603(b), Aug. 13, 2018, 132 Stat. 1794.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 836. | June 9, 1949, ch. 185, § 3, 63 Stat. 166. |
+|  | 5 U.S.C. 836. | June 9, 1949, ch. 185, § 3, 63 Stat. 166. |
 |  |  | Apr. 26, 1950, ch. 108, 64 Stat. 89. |
-|  |  | July 28, 1955, ch. 424, § 1, 69 Stat. 393. |
-|  |  | Aug. 14, 1961, Pub. L. 87–139, §§ 1, 8(a), 75 Stat. 339, 340. |
+|  |  | July 28, 1955, ch. 424, § 1, 69 Stat. 393. |
+|  |  | Aug. 14, 1961, Pub. L. 87–139, §§ 1, 8(a), 75 Stat. 339, 340. |
 
 In subsection (a), the term “employee” is substituted for “civilian officers and employees of the departments and establishments” in view of the definition of “employee” in sections 5701 and 2105. The words “in lieu of their actual expenses for subsistence and all fees or tips to porters and stewards” are omitted as unnecessary in view of the definition of “per diem allowance” in section 5701(4).
 
@@ -389,21 +389,21 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1992—Pub. L. 102–378 substituted “employees” for “employee” in section catchline.
 
-1986—Subsec. (a). Pub. L. 99–234, § 102(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Under regulations prescribed under section 5707 of this title, an employee while traveling on official business away from his designated post of duty, or in the case of an individual described under section 5703 of this title, his home or regular place of business, is entitled to (1) a per diem allowance for travel inside the continental United States at a rate not to exceed $50, and (2) a per diem allowance for travel outside the continental United States, that may not exceed the rate established by the President, or his designee, for each locality where travel is to be performed. For travel consuming less than a full day, such rate may be allocated proportionately.”
+1986—Subsec. (a). Pub. L. 99–234, § 102(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Under regulations prescribed under section 5707 of this title, an employee while traveling on official business away from his designated post of duty, or in the case of an individual described under section 5703 of this title, his home or regular place of business, is entitled to (1) a per diem allowance for travel inside the continental United States at a rate not to exceed $50, and (2) a per diem allowance for travel outside the continental United States, that may not exceed the rate established by the President, or his designee, for each locality where travel is to be performed. For travel consuming less than a full day, such rate may be allocated proportionately.”
 
-Subsec. (b). Pub. L. 99–234, § 102(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Under regulations prescribed under section 5707 of this title, an employee who, while traveling on official business away from his designated post of duty or, in the case of an individual described under section 5703 of this title, his home or regular place of business, becomes incapacitated by illness or injury not due to his own misconduct, is entitled to the per diem allowance and appropriate transportation expenses to his designated post of duty, or home or regular place of business, as the case may be.”
+Subsec. (b). Pub. L. 99–234, § 102(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Under regulations prescribed under section 5707 of this title, an employee who, while traveling on official business away from his designated post of duty or, in the case of an individual described under section 5703 of this title, his home or regular place of business, becomes incapacitated by illness or injury not due to his own misconduct, is entitled to the per diem allowance and appropriate transportation expenses to his designated post of duty, or home or regular place of business, as the case may be.”
 
-Subsec. (c). Pub. L. 99–234, § 102, redesignated subsec. (e) as (c) and struck out former subsec. (c) which read as follows: “Under regulations prescribed under section 5707 of this title, the Administrator of General Services, or his designee, may prescribe conditions under which an employee may be reimbursed for the actual and necessary expenses of official travel when the maximum per diem allowance would be less than these expenses, except that such reimbursement shall not exceed $75 for each day in a travel status within the continental United States when the per diem otherwise allowable is determined to be inadequate (1) due to the unusual circumstances of the travel assignment, or (2) for travel to high rate geographical areas designated as such in regulations prescribed under section 5707 of this title.”
+Subsec. (c). Pub. L. 99–234, § 102, redesignated subsec. (e) as (c) and struck out former subsec. (c) which read as follows: “Under regulations prescribed under section 5707 of this title, the Administrator of General Services, or his designee, may prescribe conditions under which an employee may be reimbursed for the actual and necessary expenses of official travel when the maximum per diem allowance would be less than these expenses, except that such reimbursement shall not exceed $75 for each day in a travel status within the continental United States when the per diem otherwise allowable is determined to be inadequate (1) due to the unusual circumstances of the travel assignment, or (2) for travel to high rate geographical areas designated as such in regulations prescribed under section 5707 of this title.”
 
-Subsec. (d). Pub. L. 99–234, § 102(a), struck out subsec. (d) which read as follows: “Under regulations prescribed under section 5707 of this title, for travel outside the continental United States, the Administrator of General Services or his designee, may prescribe conditions under which an employee may be reimbursed for the actual and necessary expenses of official travel when the per diem allowance would be less than these expenses, except that such reimbursement shall not exceed $33 for each day in a travel status outside the continental United States plus the locality per diem rate prescribed for such travel.”
+Subsec. (d). Pub. L. 99–234, § 102(a), struck out subsec. (d) which read as follows: “Under regulations prescribed under section 5707 of this title, for travel outside the continental United States, the Administrator of General Services or his designee, may prescribe conditions under which an employee may be reimbursed for the actual and necessary expenses of official travel when the per diem allowance would be less than these expenses, except that such reimbursement shall not exceed $33 for each day in a travel status outside the continental United States plus the locality per diem rate prescribed for such travel.”
 
-Subsec. (e). Pub. L. 99–234, § 102(b), redesignated subsec. (e) as (c).
+Subsec. (e). Pub. L. 99–234, § 102(b), redesignated subsec. (e) as (c).
 
-1980—Subsec. (a). Pub. L. 96–346, § 1(1), increased to $50 from $35 the maximum per diem allowance for travel inside the continental United States.
+1980—Subsec. (a). Pub. L. 96–346, § 1(1), increased to $50 from $35 the maximum per diem allowance for travel inside the continental United States.
 
-Subsec. (c). Pub. L. 96–346, § 1(2), increased to $75 from $50 the maximum reimbursement for actual and necessary expenses for travel within the continental United States.
+Subsec. (c). Pub. L. 96–346, § 1(2), increased to $75 from $50 the maximum reimbursement for actual and necessary expenses for travel within the continental United States.
 
-Subsec. (d). Pub. L. 96–346, § 1(3), increased to $33 from $21 the maximum reimbursement for travel outside the continental United States.
+Subsec. (d). Pub. L. 96–346, § 1(3), increased to $33 from $21 the maximum reimbursement for travel outside the continental United States.
 
 1979—Subsec. (c). Pub. L. 96–54 substituted “(1)” for “(A)” and “(2)” for “(B)”.
 
@@ -431,7 +431,7 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 **Retention of Travel Promotional Items**
 
-Pub. L. 107–107, div. A, title XI, § 1116, Dec. 28, 2001, 115 Stat. 1241, as amended by Pub. L. 116–92, div. A, title VI, § 606(c), Dec. 20, 2019, 133 Stat. 1425, provided that:
+Pub. L. 107–107, div. A, title XI, § 1116, Dec. 28, 2001, 115 Stat. 1241, as amended by Pub. L. 116–92, div. A, title VI, § 606(c), Dec. 20, 2019, 133 Stat. 1425, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -461,11 +461,11 @@ Pub. L. 107–107, div. A, title XI, § 1116, Dec. 28, 2001, 115 Stat. 1241, a
 
 **Cost Savings for Official Travel**
 
-Pub. L. 103–355, title VI, § 6008, Oct. 13, 1994, 108 Stat. 3367, related to maximizing practicable cost savings for official travel through use of frequent traveler programs, prior to repeal by Pub. L. 107–107, div. A, title XI, § 1116(e), Dec. 28, 2001, 115 Stat. 1241.
+Pub. L. 103–355, title VI, § 6008, Oct. 13, 1994, 108 Stat. 3367, related to maximizing practicable cost savings for official travel through use of frequent traveler programs, prior to repeal by Pub. L. 107–107, div. A, title XI, § 1116(e), Dec. 28, 2001, 115 Stat. 1241.
 
 **Reports to Congress of Per Diem and Mileage Allowance Payments for Fiscal Years 1979 Through 1981; Rules and Regulations**
 
-Pub. L. 96–346, § 3, Sept. 10, 1980, 94 Stat. 1148, for fiscal years 1979 to 1981, directed the Administrator of General Services to collect by fiscal year information with respect to agencies spending more than $5,000,000 annually on transportation of people, identifying general causes and purposes of travel and estimates of total payments, average cost and duration of trip, and identifying by specific agency of travel practices which appear to be inefficient and recommendations to Congress on the applicability of alternatives to travel as well as other techniques to improve use of travel in carrying out program objectives relating travel to mission.
+Pub. L. 96–346, § 3, Sept. 10, 1980, 94 Stat. 1148, for fiscal years 1979 to 1981, directed the Administrator of General Services to collect by fiscal year information with respect to agencies spending more than $5,000,000 annually on transportation of people, identifying general causes and purposes of travel and estimates of total payments, average cost and duration of trip, and identifying by specific agency of travel practices which appear to be inefficient and recommendations to Congress on the applicability of alternatives to travel as well as other techniques to improve use of travel in carrying out program objectives relating travel to mission.
 
 **Executive Documents**
 
@@ -491,19 +491,19 @@ Sec. 3. Executive Order No. 11294 of August 4, 1966, is revoked.
 
 Ronald Reagan.
 
-### § 5703. Per diem, travel, and transportation expenses; experts and consultants; individuals serving without pay
+### § 5703. Per diem, travel, and transportation expenses; experts and consultants; individuals serving without pay
 
 An employee serving intermittently in the Government service as an expert or consultant and paid on a daily when-actually-employed basis, or serving without pay or at $1 a year, may be allowed travel or transportation expenses, under this subchapter, while away from his home or regular place of business and at the place of employment or service.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 499; Pub. L. 91–114, § 2, Nov. 10, 1969, 83 Stat. 190; Pub. L. 94–22, § 4, May 19, 1975, 89 Stat. 85.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 499; Pub. L. 91–114, § 2, Nov. 10, 1969, 83 Stat. 190; Pub. L. 94–22, § 4, May 19, 1975, 89 Stat. 85.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 73b–2. | Aug. 2, 1946, ch. 744, § 5, 60 Stat. 808. |
-|  |  | July 28, 1955, ch. 424, § 2, 69 Stat. 394. |
-|  |  | Aug. 14, 1961, Pub. L. 87–139, §§ 2, 8(b), 75 Stat. 339, 340. |
+|  | 5 U.S.C. 73b–2. | Aug. 2, 1946, ch. 744, § 5, 60 Stat. 808. |
+|  |  | July 28, 1955, ch. 424, § 2, 69 Stat. 394. |
+|  |  | Aug. 14, 1961, Pub. L. 87–139, §§ 2, 8(b), 75 Stat. 339, 340. |
 
 Subsection (a) is added on authority of section 18 of the Act of Aug. 2, 1946, ch. 744, 60 Stat. 811.
 
@@ -525,7 +525,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Subsec. (d). Pub. L. 91–114 in cl. (1) increased amount authorized to be named in travel authorization for each day in a travel status inside continental United States from not to exceed $30 to not to exceed $40, and in cl. (2) increased amount authorized to be named in travel authorization for each day in a travel status outside continental United States from not to exceed maximum per diem allowance plus $10 to not to exceed the maximum per diem allowance plus $18.
 
-### § 5704. Mileage and related allowances
+### § 5704. Mileage and related allowances
 
 **(a)**
 
@@ -547,14 +547,14 @@ Subsec. (d). Pub. L. 91–114 in cl. (1) increased amount authorized to be named
 
 **(4)** airplane landing and tie-down fees.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 499; Pub. L. 94–22, § 5, May 19, 1975, 89 Stat. 85; Pub. L. 96–346, § 2, Sept. 10, 1980, 94 Stat. 1148; Pub. L. 103–329, title VI, § 634(a), Sept. 30, 1994, 108 Stat. 2428; Pub. L. 113–291, div. A, title IX, § 915(a), Dec. 19, 2014, 128 Stat. 3475.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 499; Pub. L. 94–22, § 5, May 19, 1975, 89 Stat. 85; Pub. L. 96–346, § 2, Sept. 10, 1980, 94 Stat. 1148; Pub. L. 103–329, title VI, § 634(a), Sept. 30, 1994, 108 Stat. 2428; Pub. L. 113–291, div. A, title IX, § 915(a), Dec. 19, 2014, 128 Stat. 3475.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 837. | June 9, 1949, ch. 185, § 4, 63 Stat. 166. |
-|  |  | July 28, 1955, ch. 424, § 4, 69 Stat. 394. Aug. 14, 1961, Pub. L. 87–139, §§ 3, 4, 75 Stat. 339, 340. |
+|  | 5 U.S.C. 837. | June 9, 1949, ch. 185, § 4, 63 Stat. 166. |
+|  |  | July 28, 1955, ch. 424, § 4, 69 Stat. 394. Aug. 14, 1961, Pub. L. 87–139, §§ 3, 4, 75 Stat. 339, 340. |
 
 The word “employee” is substituted for “Civilian officers and employees of departments and establishments” in view of the definition of “employee” in sections 5701 and 2105.
 
@@ -590,17 +590,17 @@ instead of actual expenses of transportation when that mode of transportation is
 
 “(4) airplane landing and tie-down fees.”
 
-1980—Subsec. (a)(1). Pub. L. 96–346, § 2(1), substituted “20 cents” for “11 cents”.
+1980—Subsec. (a)(1). Pub. L. 96–346, § 2(1), substituted “20 cents” for “11 cents”.
 
-Subsec. (a)(2). Pub. L. 96–346, § 2(2), substituted “25 cents” for “20 cents”.
+Subsec. (a)(2). Pub. L. 96–346, § 2(2), substituted “25 cents” for “20 cents”.
 
-Subsec. (a)(3). Pub. L. 96–346, § 2(3), substituted “45 cents” for “24 cents”.
+Subsec. (a)(3). Pub. L. 96–346, § 2(3), substituted “45 cents” for “24 cents”.
 
 1975—Subsec. (a). Pub. L. 94–22 struck out “or other individual performing services for the Government” after “employee”, substituted “for the Government” for “inside or outside his designated post of duty or place of service”, increased from 8 to 11 cents the allowance for use of a motorcycle, from 12 to 20 cents the allowance for use of an automobile, and from 12 to 24 cents the allowance for use of an airplane, and inserted provision relating to the limitation of an allowance to the cost of travel by Government vehicle when an employee chooses a privately owned vehicle in lieu of a Government vehicle.
 
 Subsec. (b). Pub. L. 94–22 inserted “authorized” after “allowance”, struck out “or other individual performing service for the Government” after “employee”, and provided for reimbursement of airplane landing and tie-down fee.
 
-### § 5705. Advancements and deductions
+### § 5705. Advancements and deductions
 
 An agency may advance, through the proper disbursing official, to an employee entitled to per diem or mileage allowances under this subchapter, a sum considered advisable with regard to the character and probable duration of the travel to be performed. A sum advanced and not used for allowable travel expenses is recoverable from the employee or his estate by—
 
@@ -610,13 +610,13 @@ An agency may advance, through the proper disbursing official, to an employee en
 
 **(3)** such other method as is provided by law.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 500; Pub. L. 94–22, § 2(b), May 19, 1975, 89 Stat. 84.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 500; Pub. L. 94–22, § 2(b), May 19, 1975, 89 Stat. 84.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 838. | June 9, 1949, ch. 185, § 5, 63 Stat. 166. |
+|  | 5 U.S.C. 838. | June 9, 1949, ch. 185, § 5, 63 Stat. 166. |
 
 The words “disbursing official” are substituted for “disbursing officer” because of the definition of “officer” in section 2104 which excludes a member of a uniformed service. Application to section 5703 is based on former section 73b–2, which is carried into section 5703.
 
@@ -628,7 +628,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1975—Pub. L. 94–22 struck out “or individual” after “employee” wherever appearing.
 
-### § 5706. Allowable travel expenses
+### § 5706. Allowable travel expenses
 
 Except as otherwise permitted by this subchapter or by statutes relating to members of the uniformed services, only actual and necessary travel expenses may be allowed to an individual holding employment or appointment under the United States.
 
@@ -638,19 +638,19 @@ Except as otherwise permitted by this subchapter or by statutes relating to memb
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 839. | June 9, 1949, ch. 185, § 6, 63 Stat. 167. |
+|  | 5 U.S.C. 839. | June 9, 1949, ch. 185, § 6, 63 Stat. 167. |
 
 The words “members of the uniformed services” are substituted for “military personnel”.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### § 5706a. Subsistence and travel expenses for threatened law enforcement personnel
+### § 5706a. Subsistence and travel expenses for threatened law enforcement personnel
 
 **(a)** Under regulations prescribed pursuant to section 5707 of this title, when the life of an employee who serves in a law enforcement, investigative, or similar capacity, or members of such employee’s immediate family, is threatened as a result of the employee’s assigned duties, the head of the agency concerned may approve appropriate subsistence payments for the employee or members of the employee’s family (or both) while occupying temporary living accommodations at or away from the employee’s designated post of duty.
 
 **(b)** When a situation described in subsection (a) of this section requires the employee or members of the employee’s family (or both) to be temporarily relocated away from the employee’s designated post of duty, the head of the agency concerned may approve transportation expenses to and from such alternate location.
 
-(Added Pub. L. 99–234, title I, § 103(a), Jan. 2, 1986, 99 Stat. 1757.)
+(Added Pub. L. 99–234, title I, § 103(a), Jan. 2, 1986, 99 Stat. 1757.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -658,25 +658,25 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Section effective (1) on effective date of regulations to be promulgated not later than 150 days after Jan. 2, 1986, or (2) 180 days after Jan. 2, 1986, whichever occurs first, see section 301(a) of Pub. L. 99–234, set out as an Effective Date of 1986 Amendment note under section 5701 of this title.
 
-### § 5706b. Interview expenses
+### § 5706b. Interview expenses
 
 An individual being considered for employment by an agency may be paid travel or transportation expenses under this subchapter for travel to and from pre-employment interviews determined necessary by the agency.
 
-(Added Pub. L. 101–509, title V, § 529 [title II, § 206(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1457.)
+(Added Pub. L. 101–509, title V, § 529 [title II, § 206(a)(1)], Nov. 5, 1990, 104 Stat. 1427, 1457.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
+Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
 
-### § 5706c. Reimbursement for taxes incurred on money received for travel expenses
+### § 5706c. Reimbursement for taxes incurred on money received for travel expenses
 
 **(a)** Under regulations prescribed pursuant to section 5707 of this title, the head of an agency or department, or his or her designee, may use appropriations or other funds available to the agency for administrative expenses, for the reimbursement of Federal, State, and local income taxes incurred by an employee of the agency or by an employee and such employee’s spouse (if filing jointly), for any travel or transportation reimbursement made to an employee for which reimbursement or an allowance is provided.
 
 **(b)** Reimbursements under this section shall include an amount equal to all income taxes for which the employee and spouse, as the case may be, would be liable due to the reimbursement for the taxes referred to in subsection (a). In addition, reimbursements under this section shall include penalties and interest, for the tax years 1993 and 1994 only, as a result of agencies failing to withhold the appropriate amounts for tax liabilities of employees affected by the change in the deductibility of travel expenses made by Public Law 102–486.
 
-(Added Pub. L. 105–264, § 4(a), Oct. 19, 1998, 112 Stat. 2354.)
+(Added Pub. L. 105–264, § 4(a), Oct. 19, 1998, 112 Stat. 2354.)
 
 **Editorial Notes**
 
@@ -688,9 +688,9 @@ Public Law 102–486, referred to in subsec. (b), is Pub. L. 102–486, Oct. 24,
 
 **Effective Date**
 
-Pub. L. 105–264, § 4(c), Oct. 19, 1998, 112 Stat. 2354, provided that: “This section [enacting this section] shall be effective as of January 1, 1993.”
+Pub. L. 105–264, § 4(c), Oct. 19, 1998, 112 Stat. 2354, provided that: “This section [enacting this section] shall be effective as of January 1, 1993.”
 
-### § 5707. Regulations and reports
+### § 5707. Regulations and reports
 
 **(a)**
 
@@ -748,13 +748,13 @@ Pub. L. 105–264, § 4(c), Oct. 19, 1998, 112 Stat. 2354, provided that: “T
 
 **(B)** a description of any new regulations promulgated or changes to existing regulations authorized under this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 500; Pub. L. 94–22, § 6(a), May 19, 1975, 89 Stat. 85; Pub. L. 99–234, title I, § 104, Jan. 2, 1986, 99 Stat. 1758; Pub. L. 101–391, § 5(a)(1), Sept. 25, 1990, 104 Stat. 750; Pub. L. 103–329, title VI, § 634(b), (c), Sept. 30, 1994, 108 Stat. 2429, 2430; Pub. L. 104–201, div. A, title XVI, § 1614(a)(1), Sept. 23, 1996, 110 Stat. 2739; Pub. L. 104–316, title I, § 103(e), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 113–291, div. A, title IX, § 915(b), Dec. 19, 2014, 128 Stat. 3475; Pub. L. 115–34, § 3, May 16, 2017, 131 Stat. 846.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 500; Pub. L. 94–22, § 6(a), May 19, 1975, 89 Stat. 85; Pub. L. 99–234, title I, § 104, Jan. 2, 1986, 99 Stat. 1758; Pub. L. 101–391, § 5(a)(1), Sept. 25, 1990, 104 Stat. 750; Pub. L. 103–329, title VI, § 634(b), (c), Sept. 30, 1994, 108 Stat. 2429, 2430; Pub. L. 104–201, div. A, title XVI, § 1614(a)(1), Sept. 23, 1996, 110 Stat. 2739; Pub. L. 104–316, title I, § 103(e), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 113–291, div. A, title IX, § 915(b), Dec. 19, 2014, 128 Stat. 3475; Pub. L. 115–34, § 3, May 16, 2017, 131 Stat. 846.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 840. | June 9, 1949, ch. 185, § 7, 63 Stat. 167. |
+|  | 5 U.S.C. 840. | June 9, 1949, ch. 185, § 7, 63 Stat. 167. |
 
 The first sentence is based in part on former sections 73b–2, 836, and 837, which are carried into this subchapter. Application of the second sentence to section 5703, and the third sentence, are based on former section 73b–2, which is carried into section 5703.
 
@@ -766,17 +766,17 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 2017—Subsec. (c). Pub. L. 115–34 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Administrator of General Services shall periodically, but at least every 2 years, submit to the Director of the Office of Management and Budget an analysis of estimated total agency payments for such items as travel and transportation of people, average costs and duration of trips, and purposes of official travel; and of estimated total agency payments for employee relocation. This analysis shall be based on a sampling survey of agencies each of which spent more than $5,000,000 during the previous fiscal year on travel and transportation payments, including payments for employee relocation. Agencies shall provide to the Administrator the necessary information in a format prescribed by the Administrator and approved by the Director.”
 
-2014—Subsec. (b)(1)(A). Pub. L. 113–291, § 915(b)(1), amended subpar. (A) generally. Prior to amendment, text read as follows: “The Administrator of General Services, in consultation with the Secretary of Transportation, the Secretary of Defense, and representatives of organizations of employees of the Government, shall conduct periodic investigations of the cost of travel and the operation of privately owned vehicles to employees while engaged on official business, and shall report the results of such investigations to Congress at least once a year.”
+2014—Subsec. (b)(1)(A). Pub. L. 113–291, § 915(b)(1), amended subpar. (A) generally. Prior to amendment, text read as follows: “The Administrator of General Services, in consultation with the Secretary of Transportation, the Secretary of Defense, and representatives of organizations of employees of the Government, shall conduct periodic investigations of the cost of travel and the operation of privately owned vehicles to employees while engaged on official business, and shall report the results of such investigations to Congress at least once a year.”
 
-Subsec. (b)(2)(A)(i). Pub. L. 113–291, § 915(b)(2), amended cl. (i) generally. Prior to amendment, text read as follows: “shall prescribe a mileage reimbursement rate which reflects the current costs as determined by the Administrator of operating privately owned automobiles, and which shall not exceed, as provided in section 5704(a)(1) of this title, the single standard mileage rate established by the Internal Revenue Service, and”.
+Subsec. (b)(2)(A)(i). Pub. L. 113–291, § 915(b)(2), amended cl. (i) generally. Prior to amendment, text read as follows: “shall prescribe a mileage reimbursement rate which reflects the current costs as determined by the Administrator of operating privately owned automobiles, and which shall not exceed, as provided in section 5704(a)(1) of this title, the single standard mileage rate established by the Internal Revenue Service, and”.
 
 1996—Subsec. (b)(1)(A). Pub. L. 104–316 struck out “the Comptroller General of the United States,” after “in consultation with”.
 
 Subsec. (d). Pub. L. 104–201 struck out subsec. (d) which provided that agencies ensure that their approved accommodation percentages be not less than specified percentages for fiscal years beginning 4 and 5 years after Sept. 25, 1990, and that their percentages be not less than 90 percent for fiscal years beginning 6 years after Sept. 25, 1990, and thereafter.
 
-1994—Subsec. (b). Pub. L. 103–329, § 634(b), amended subsec. (b) generally, revising and restructuring text.
+1994—Subsec. (b). Pub. L. 103–329, § 634(b), amended subsec. (b) generally, revising and restructuring text.
 
-Subsec. (c). Pub. L. 103–329, § 634(c), redesignated par. (1) as entire subsec. and struck out par. (2) which read as follows: “The requirements of paragraph (1) of this subsection shall expire upon the Administrator’s submission of the analysis that includes the fiscal year that ends September 30, 1991.”
+Subsec. (c). Pub. L. 103–329, § 634(c), redesignated par. (1) as entire subsec. and struck out par. (2) which read as follows: “The requirements of paragraph (1) of this subsection shall expire upon the Administrator’s submission of the analysis that includes the fiscal year that ends September 30, 1991.”
 
 1990—Subsec. (d). Pub. L. 101–391 added subsec. (d).
 
@@ -798,7 +798,7 @@ Amendment by Pub. L. 99–234 effective (1) on effective date of regulations to 
 
 **Regulations; Time for Issuance**
 
-Pub. L. 94–22, § 6(b), May 19, 1975, 89 Stat. 86, provided that regulations required under the first sentence of subsec. (b)(2) of this section, as amended by subsec. (a) of section 6 of Pub. L. 94–22, were to be issued no later than 30 days after May 19, 1975.
+Pub. L. 94–22, § 6(b), May 19, 1975, 89 Stat. 86, provided that regulations required under the first sentence of subsec. (b)(2) of this section, as amended by subsec. (a) of section 6 of Pub. L. 94–22, were to be issued no later than 30 days after May 19, 1975.
 
 **Termination of Reporting Requirements**
 
@@ -806,7 +806,7 @@ For termination, effective May 15, 2000, of provisions in subsection (b)(1) of t
 
 **Federal Employee Reimbursement for Use of Modern Travel Services**
 
-Pub. L. 115–34, § 2, May 16, 2017, 131 Stat. 846, provided that:
+Pub. L. 115–34, § 2, May 16, 2017, 131 Stat. 846, provided that:
 
 > **“(a) In General.—** Not later than 90 days after the date of enactment of this Act [May 16, 2017], the Administrator of General Services shall prescribe regulations under section 5707 of title 5, United States Code, to provide for the reimbursement for the use of a transportation network company or innovative mobility technology company by any Federal employee traveling on official business under subchapter I of chapter 57 of such title, except that the Director of the Administrative Office of the United States Courts shall prescribe such regulations with respect to employees of the judicial branch of the Government.
 
@@ -822,7 +822,7 @@ Pub. L. 115–34, § 2, May 16, 2017, 131 Stat. 846, provided that:
 
 **Reports Regarding Foreign Travel**
 
-Pub. L. 105–277, div. G, subdiv. B, title XXV, § 2505, Oct. 21, 1998, 112 Stat. 2681–837, as amended by Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VII, § 707], Nov. 29, 1999, 113 Stat. 1536, 1501A–461; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, provided that:
+Pub. L. 105–277, div. G, subdiv. B, title XXV, § 2505, Oct. 21, 1998, 112 Stat. 2681–837, as amended by Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VII, § 707], Nov. 29, 1999, 113 Stat. 1536, 1501A–461; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, provided that:
 
 > **“(a) Prohibition.—** Except as provided in subsection (e), none of the funds authorized to be appropriated for the Department of State for fiscal year 2000 or 2001 may be used to pay for the expenses of foreign travel by an officer or employee of an Executive branch agency to attend an international conference, or for the routine services that a United States diplomatic mission or consular post provides in support of foreign travel by such an officer or employee to attend an international conference, unless that officer or employee has submitted a preliminary report with respect to that foreign travel in accordance with subsection (b), and has not previously failed to submit a final report with respect to foreign travel to attend an international conference required by subsection (c).
 
@@ -876,13 +876,13 @@ Pub. L. 105–277, div. G, subdiv. B, title XXV, § 2505, Oct. 21, 1998, 112 S
 
 **Reporting of Employee Relocation Expenses**
 
-Pub. L. 105–61, title VI, § 635, Oct. 10, 1997, 111 Stat. 1316, provided that: “No later than 30 days after the enactment of this Act [Oct. 10, 1997], the Director of the Office of Management and Budget shall require all Federal departments and agencies to report total obligations for the expenses of employee relocation. All obligations incident to employee relocation authorized under either chapter 57 of title 5, United States Code, or section 901 of the Foreign Service Act of 1980 (22 U.S.C. 4081; Public Law 96–465), shall be included. Such information for the past, current, and budget years shall be included in the agency budget submission to the President. The Director of the Office of Management and Budget shall prepare a table presenting obligations for the expenses of employee relocation for all departments and agencies, and such table shall be transmitted to Congress each year as part of the President’s annual budget.”
+Pub. L. 105–61, title VI, § 635, Oct. 10, 1997, 111 Stat. 1316, provided that: “No later than 30 days after the enactment of this Act [Oct. 10, 1997], the Director of the Office of Management and Budget shall require all Federal departments and agencies to report total obligations for the expenses of employee relocation. All obligations incident to employee relocation authorized under either chapter 57 of title 5, United States Code, or section 901 of the Foreign Service Act of 1980 (22 U.S.C. 4081; Public Law 96–465), shall be included. Such information for the past, current, and budget years shall be included in the agency budget submission to the President. The Director of the Office of Management and Budget shall prepare a table presenting obligations for the expenses of employee relocation for all departments and agencies, and such table shall be transmitted to Congress each year as part of the President’s annual budget.”
 
 **GAO Audit of Agency Compliance**
 
-Pub. L. 101–391, § 5(b), Sept. 25, 1990, 104 Stat. 751, which provided that not later than 6 months after the last day of the first fiscal year during which lodging expenses were subject to the requirements of former subsec. (d) of this section, and not later than 6 months after the last day of every fiscal year thereafter, the Comptroller General was to conduct an audit of the compliance of agencies with the requirements of such subsection, and was to submit a report to Congress describing the results of such audit, was repealed by Pub. L. 104–201, div. A, title XVI, § 1614(a)(2), Sept. 23, 1996, 110 Stat. 2739, and Pub. L. 104–316, title I, § 103(f), Oct. 19, 1996, 110 Stat. 3829.
+Pub. L. 101–391, § 5(b), Sept. 25, 1990, 104 Stat. 751, which provided that not later than 6 months after the last day of the first fiscal year during which lodging expenses were subject to the requirements of former subsec. (d) of this section, and not later than 6 months after the last day of every fiscal year thereafter, the Comptroller General was to conduct an audit of the compliance of agencies with the requirements of such subsection, and was to submit a report to Congress describing the results of such audit, was repealed by Pub. L. 104–201, div. A, title XVI, § 1614(a)(2), Sept. 23, 1996, 110 Stat. 2739, and Pub. L. 104–316, title I, § 103(f), Oct. 19, 1996, 110 Stat. 3829.
 
-### § 5707a. Adherence to fire safety guidelines in establishing rates and discounts for lodging expenses
+### § 5707a. Adherence to fire safety guidelines in establishing rates and discounts for lodging expenses
 
 **(a)**
 
@@ -908,29 +908,29 @@ Pub. L. 101–391, § 5(b), Sept. 25, 1990, 104 Stat. 751, which provided that
 
 **(3)** The term “State” means any State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, the Virgin Islands, Guam, American Samoa, or any other territory or possession of the United States.
 
-(Added Pub. L. 101–391, § 4(a), Sept. 25, 1990, 104 Stat. 749; amended Pub. L. 105–85, div. A, title XI, § 1107(a)–(c), Nov. 18, 1997, 111 Stat. 1924, 1925; Pub. L. 109–295, title VI, § 612(c), Oct. 4, 2006, 120 Stat. 1410.)
+(Added Pub. L. 101–391, § 4(a), Sept. 25, 1990, 104 Stat. 749; amended Pub. L. 105–85, div. A, title XI, § 1107(a)–(c), Nov. 18, 1997, 111 Stat. 1924, 1925; Pub. L. 109–295, title VI, § 612(c), Oct. 4, 2006, 120 Stat. 1410.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1997—Subsec. (a). Pub. L. 105–85, § 1107(a)(2), added subsec. (a). Former subsec. (a) redesignated (b).
+1997—Subsec. (a). Pub. L. 105–85, § 1107(a)(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
-Subsec. (b). Pub. L. 105–85, § 1107(c)(1), substituted “approved places of public accommodation” for “places of public accommodation that meet the requirements of the fire prevention and control guidelines described in section 29 of the Federal Fire Prevention and Control Act of 1974” and struck out “as defined in section 4 of the Federal Fire Prevention and Control Act of 1974” after “that is not a State”.
+Subsec. (b). Pub. L. 105–85, § 1107(c)(1), substituted “approved places of public accommodation” for “places of public accommodation that meet the requirements of the fire prevention and control guidelines described in section 29 of the Federal Fire Prevention and Control Act of 1974” and struck out “as defined in section 4 of the Federal Fire Prevention and Control Act of 1974” after “that is not a State”.
 
-Pub. L. 105–85, § 1107(a)(1), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
+Pub. L. 105–85, § 1107(a)(1), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 105–85, § 1107(c)(2), substituted “is not an approved place of public accommodation” for “does not meet the requirements of the fire prevention and control guidelines described in section 29 of the Federal Fire Prevention and Control Act of 1974”.
+Subsec. (c). Pub. L. 105–85, § 1107(c)(2), substituted “is not an approved place of public accommodation” for “does not meet the requirements of the fire prevention and control guidelines described in section 29 of the Federal Fire Prevention and Control Act of 1974”.
 
-Pub. L. 105–85, § 1107(a)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+Pub. L. 105–85, § 1107(a)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 105–85, § 1107(a)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 105–85, § 1107(a)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 105–85, § 1107(c)(3), substituted “facilitate the ability of” for “encourage” and “approved places of public accommodation” for “places of public accommodation that meet the requirements of the fire prevention and control guidelines described in section 29 of the Federal Fire Prevention and Control Act of 1974”.
+Subsec. (e). Pub. L. 105–85, § 1107(c)(3), substituted “facilitate the ability of” for “encourage” and “approved places of public accommodation” for “places of public accommodation that meet the requirements of the fire prevention and control guidelines described in section 29 of the Federal Fire Prevention and Control Act of 1974”.
 
-Pub. L. 105–85, § 1107(a)(1), redesignated subsec. (d) as (e).
+Pub. L. 105–85, § 1107(a)(1), redesignated subsec. (d) as (e).
 
-Subsec. (f). Pub. L. 105–85, § 1107(b), added subsec. (f).
+Subsec. (f). Pub. L. 105–85, § 1107(b), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -940,7 +940,7 @@ Subsec. (f). Pub. L. 105–85, § 1107(b), added subsec. (f).
 
 **Effective Date**
 
-Pub. L. 101–391, § 4(c), Sept. 25, 1990, 104 Stat. 750, provided that: “The amendments made by this section [enacting this section] shall take effect 60 days after the date of the publication in the Federal Register [Nov. 24, 1992, 57 F.R. 55314] of the master list of certified places of public accommodation maintained by the Director [now Administrator] of the Federal Emergency Management Agency pursuant to section 28(b) of the Federal Fire Prevention and Control Act of 1974 [15 U.S.C. 2224(b)] (as added by section 3 of this Act).”
+Pub. L. 101–391, § 4(c), Sept. 25, 1990, 104 Stat. 750, provided that: “The amendments made by this section [enacting this section] shall take effect 60 days after the date of the publication in the Federal Register [Nov. 24, 1992, 57 F.R. 55314] of the master list of certified places of public accommodation maintained by the Director [now Administrator] of the Federal Emergency Management Agency pursuant to section 28(b) of the Federal Fire Prevention and Control Act of 1974 [15 U.S.C. 2224(b)] (as added by section 3 of this Act).”
 
 **Executive Documents**
 
@@ -948,7 +948,7 @@ Pub. L. 101–391, § 4(c), Sept. 25, 1990, 104 Stat. 750, provided that: “T
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-### § 5708. Effect on other statutes
+### § 5708. Effect on other statutes
 
 This subchapter does not modify or repeal—
 
@@ -966,8 +966,8 @@ This subchapter does not modify or repeal—
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (1), (2) | 5 U.S.C. 841. | June 9, 1949, ch. 185, § 8, 63 Stat. 167. |
-| (3), (4) | 5 U.S.C. 842. | June 9, 1949, ch. 185, § 9, 63 Stat. 167. |
+| (1), (2) | 5 U.S.C. 841. | June 9, 1949, ch. 185, § 8, 63 Stat. 167. |
+| (3), (4) | 5 U.S.C. 842. | June 9, 1949, ch. 185, § 9, 63 Stat. 167. |
 
 In paragraph (2), the words “Members of Congress” are substituted for “the President of the Senate or Members of Congress” in view of the definition of “Member of Congress” in section 2106.
 
@@ -977,13 +977,13 @@ The first proviso of former section 842, which related to appropriation Acts for
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### § 5709. Air evacuation patients: furnished subsistence
+### § 5709. Air evacuation patients: furnished subsistence
 
 Notwithstanding any other provision of law, and under regulations prescribed under section 5707 of this title, an employee and his dependents may be furnished subsistence without charge while being evacuated as a patient by military aircraft of the United States.
 
-(Added Pub. L. 91–481, § 1(1), Oct. 21, 1970, 84 Stat. 1081.)
+(Added Pub. L. 91–481, § 1(1), Oct. 21, 1970, 84 Stat. 1081.)
 
-### § 5710. Authority for travel expenses test programs
+### § 5710. Authority for travel expenses test programs
 
 **(a)**
 
@@ -1001,7 +1001,7 @@ Notwithstanding any other provision of law, and under regulations prescribed und
 
 **(e)** The authority to conduct test programs under this section shall expire 7 years after the date of the enactment of the Travel and Transportation Reform Act of 1998.
 
-(Added Pub. L. 105–264, § 5(a), Oct. 19, 1998, 112 Stat. 2354.)
+(Added Pub. L. 105–264, § 5(a), Oct. 19, 1998, 112 Stat. 2354.)
 
 **Editorial Notes**
 
@@ -1009,7 +1009,7 @@ Notwithstanding any other provision of law, and under regulations prescribed und
 
 The date of the enactment of the Travel and Transportation Reform Act of 1998, referred to in subsec. (e), is the date of enactment of Pub. L. 105–264, which was approved Oct. 19, 1998.
 
-### § 5711. Authority for telework travel expenses programs
+### § 5711. Authority for telework travel expenses programs
 
 **(a)** Except as provided under subsection (f)(1), in this section, the term “appropriate committees of Congress” means—
 
@@ -1097,25 +1097,25 @@ The date of the enactment of the Travel and Transportation Reform Act of 1998, r
 
 **(g)** The authority to conduct test programs under subsection (b) shall expire on December 31, 2020.
 
-(Added Pub. L. 111–292, § 3(a), Dec. 9, 2010, 124 Stat. 3171; amended Pub. L. 115–232, div. A, title XI, § 1105(a), Aug. 13, 2018, 132 Stat. 2001; Pub. L. 116–283, div. A, title XI, § 1112(a), Jan. 1, 2021, 134 Stat. 3893.)
+(Added Pub. L. 111–292, § 3(a), Dec. 9, 2010, 124 Stat. 3171; amended Pub. L. 115–232, div. A, title XI, § 1105(a), Aug. 13, 2018, 132 Stat. 2001; Pub. L. 116–283, div. A, title XI, § 1112(a), Jan. 1, 2021, 134 Stat. 3893.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1112(a)(1), struck out “test” before “programs” in section catchline.
+2021—Pub. L. 116–283, § 1112(a)(1), struck out “test” before “programs” in section catchline.
 
-Subsec. (f)(1). Pub. L. 116–283, § 1112(a)(2)(A)(i), substituted “appropriate committees” for “appropriate committee” in introductory provisions.
+Subsec. (f)(1). Pub. L. 116–283, § 1112(a)(2)(A)(i), substituted “appropriate committees” for “appropriate committee” in introductory provisions.
 
-Subsec. (f)(1)(B). Pub. L. 116–283, § 1112(a)(2)(A)(ii), struck out “Government” before “Reform”.
+Subsec. (f)(1)(B). Pub. L. 116–283, § 1112(a)(2)(A)(ii), struck out “Government” before “Reform”.
 
-Subsec. (f)(2). Pub. L. 116–283, § 1112(a)(2)(B), struck out “test” before “program” and substituted “subsection” for “section, including the provision of reports in accordance with subsection (d)(1)”.
+Subsec. (f)(2). Pub. L. 116–283, § 1112(a)(2)(B), struck out “test” before “program” and substituted “subsection” for “section, including the provision of reports in accordance with subsection (d)(1)”.
 
-Subsec. (f)(4)(B). Pub. L. 116–283, § 1112(a)(2)(C), inserted “and maintain” after “develop” in introductory provisions.
+Subsec. (f)(4)(B). Pub. L. 116–283, § 1112(a)(2)(C), inserted “and maintain” after “develop” in introductory provisions.
 
-Subsec. (f)(5)(A). Pub. L. 116–283, § 1112(a)(2)(D)(i), struck out “test” before “program”.
+Subsec. (f)(5)(A). Pub. L. 116–283, § 1112(a)(2)(D)(i), struck out “test” before “program”.
 
-Subsec. (f)(5)(B). Pub. L. 116–283, § 1112(a)(2)(D)(ii), added subpar. (B) and struck out former subpar. (B) which read as follows:
+Subsec. (f)(5)(B). Pub. L. 116–283, § 1112(a)(2)(D)(ii), added subpar. (B) and struck out former subpar. (B) which read as follows:
 
 “(B) The Director of the Patent and Trademark Office shall—
 
@@ -1123,7 +1123,7 @@ Subsec. (f)(5)(B). Pub. L. 116–283, § 1112(a)(2)(D)(ii), added subpar. (B) 
 
 “(ii) before the test program is implemented, submit the analysis and criteria to the Administrator of General Services and to the appropriate committees of Congress.”
 
-Subsec. (g). Pub. L. 116–283, § 1112(a)(3), substituted “subsection (b)” for “this section”.
+Subsec. (g). Pub. L. 116–283, § 1112(a)(3), substituted “subsection (b)” for “this section”.
 
 2018—Subsec. (g). Pub. L. 115–232 substituted “on December 31, 2020” for “7 years after the date of the enactment of the Telework Enhancement Act of 2010”.
 
@@ -1135,11 +1135,11 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–232, div. A, title XI, § 1105(b), Aug. 13, 2018, 132 Stat. 2001, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as though enacted on December 1, 2017.”
+Pub. L. 115–232, div. A, title XI, § 1105(b), Aug. 13, 2018, 132 Stat. 2001, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as though enacted on December 1, 2017.”
 
 ## SUBCHAPTER II—TRAVEL AND TRANSPORTATION EXPENSES; NEW APPOINTEES, STUDENT TRAINEES, AND TRANSFERRED EMPLOYEES
 
-### § 5721. Definitions
+### § 5721. Definitions
 
 For the purpose of this subchapter—
 
@@ -1177,7 +1177,7 @@ but does not include a Government controlled corporation;
 
 **(7)** “Foreign Service of the United States” means the Foreign Service as constituted under the Foreign Service Act of 1980.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 500; Pub. L. 97–258, § 3(a)(14), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 105–264, § 6(1), Oct. 19, 1998, 112 Stat. 2356; Pub. L. 110–161, div. H, title I, § 1303(a), Dec. 26, 2007, 121 Stat. 2242; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 500; Pub. L. 97–258, § 3(a)(14), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 105–264, § 6(1), Oct. 19, 1998, 112 Stat. 2356; Pub. L. 110–161, div. H, title I, § 1303(a), Dec. 26, 2007, 121 Stat. 2242; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Historical and Revision Notes**
 
@@ -1191,7 +1191,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Section 3(a) of the Panama Canal Act of 1979, referred to in par. (6), is classified to section 3602(a) of Title 22, Foreign Relations and Intercourse.
 
-The Foreign Service Act of 1980, referred to in par. (7), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in par. (7), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 **Amendments**
 
@@ -1207,7 +1207,7 @@ The Foreign Service Act of 1980, referred to in par. (7), is Pub. L. 96–465, O
 
 “Government Publishing Office” substituted for “Government Printing Office” in par. (1)(H) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 
-### § 5722. Travel and transportation expenses of new appointees; posts of duty outside the continental United States
+### § 5722. Travel and transportation expenses of new appointees; posts of duty outside the continental United States
 
 **(a)** Under regulations prescribed under section 5738 of this title and subject to subsections (b) and (c) of this section, an agency may pay from its appropriations—
 
@@ -1235,14 +1235,14 @@ unless separated for reasons beyond his control which are acceptable to the agen
 
 **(d)** This section does not apply to appropriations for the Foreign Service of the United States.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 501; Pub. L. 104–201, div. A, title XVII, §§ 1715(b)(1), 1723(b)(1), Sept. 23, 1996, 110 Stat. 2755, 2759; Pub. L. 105–264, § 6(2), Oct. 19, 1998, 112 Stat. 2356.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 501; Pub. L. 104–201, div. A, title XVII, §§ 1715(b)(1), 1723(b)(1), Sept. 23, 1996, 110 Stat. 2755, 2759; Pub. L. 105–264, § 6(2), Oct. 19, 1998, 112 Stat. 2356.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 73b–3(a) (less 3d–6th proviso). | Aug. 2, 1946, ch. 744, § 7, 60 Stat. 808. Sept. 23, 1950, ch. 1010, § 2, 64 Stat. 985. |
-|  |  | Aug. 30, 1961, Pub. L. 87–172, § 2, 75 Stat. 409. |
+|  | 5 U.S.C. 73b–3(a) (less 3d–6th proviso). | Aug. 2, 1946, ch. 744, § 7, 60 Stat. 808. Sept. 23, 1950, ch. 1010, § 2, 64 Stat. 985. |
+|  |  | Aug. 30, 1961, Pub. L. 87–172, § 2, 75 Stat. 409. |
 
 In subsections (b)(1) and (c)(1), the words “under chapter 25 of title 20” are substituted for “under the Defense Department Overseas Teachers Pay and Personnel Practices Act” to reflect the scheduled transfer of that Act from chapter 34 of title 5 to chapter 25 of title 20.
 
@@ -1252,29 +1252,29 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Amendments**
 
-1998—Subsec. (a)(2). Pub. L. 105–264, § 6(2)(A), substituted “continental United States;” for “United States;”.
+1998—Subsec. (a)(2). Pub. L. 105–264, § 6(2)(A), substituted “continental United States;” for “United States;”.
 
-Subsec. (b). Pub. L. 105–264, § 6(2)(B), substituted “Government” for “United States” in two places in concluding provisions.
+Subsec. (b). Pub. L. 105–264, § 6(2)(B), substituted “Government” for “United States” in two places in concluding provisions.
 
-1996—Subsec. (a). Pub. L. 104–201, § 1723(b)(1), in introductory provisions, substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
+1996—Subsec. (a). Pub. L. 104–201, § 1723(b)(1), in introductory provisions, substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
 
-Subsec. (a)(3). Pub. L. 104–201, § 1715(b)(1), added par. (3).
+Subsec. (a)(3). Pub. L. 104–201, § 1715(b)(1), added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–201, div. A, title XVII, § 1725(a), Sept. 23, 1996, 110 Stat. 2760, provided that: “The amendments made by this title [enacting sections 5737, 5738, and 5756 of this title, amending this section, sections 3375, 5723 to 5724c, 5726 to 5729, and 5731 of this title, section 1348 of Title 31, Money and Finance, section 707 of Title 38, Veterans’ Benefits, and sections 290aa and 299c–4 of Title 42, The Public Health and Welfare] shall take effect 180 days after the date of the enactment of this Act [Sept. 23, 1996].”
+Pub. L. 104–201, div. A, title XVII, § 1725(a), Sept. 23, 1996, 110 Stat. 2760, provided that: “The amendments made by this title [enacting sections 5737, 5738, and 5756 of this title, amending this section, sections 3375, 5723 to 5724c, 5726 to 5729, and 5731 of this title, section 1348 of Title 31, Money and Finance, section 707 of Title 38, Veterans’ Benefits, and sections 290aa and 299c–4 of Title 42, The Public Health and Welfare] shall take effect 180 days after the date of the enactment of this Act [Sept. 23, 1996].”
 
 **Regulations**
 
-Pub. L. 104–201, div. A, title XVII, § 1725(b), Sept. 23, 1996, 110 Stat. 2760, provided that: “The Administrator of General Services shall, not later than the effective date set forth under subsection (a) [set out above], issue final regulations implementing the amendments made by this title [see Effective Date of 1996 Amendment note above].”
+Pub. L. 104–201, div. A, title XVII, § 1725(b), Sept. 23, 1996, 110 Stat. 2760, provided that: “The Administrator of General Services shall, not later than the effective date set forth under subsection (a) [set out above], issue final regulations implementing the amendments made by this title [see Effective Date of 1996 Amendment note above].”
 
 **Assessment of Cost Savings**
 
-Pub. L. 104–201, div. A, title XVII, § 1724, Sept. 23, 1996, 110 Stat. 2759, directed Comptroller General, not later than one year after the effective date set forth in section 1725(a) of Pub. L. 104–201, to submit to Congress an assessment of costs of Federal travel administration that were saved as a result of the amendments made by title XVII of div. A of Pub. L. 104–201 and the regulations prescribed to carry out the amendments.
+Pub. L. 104–201, div. A, title XVII, § 1724, Sept. 23, 1996, 110 Stat. 2759, directed Comptroller General, not later than one year after the effective date set forth in section 1725(a) of Pub. L. 104–201, to submit to Congress an assessment of costs of Federal travel administration that were saved as a result of the amendments made by title XVII of div. A of Pub. L. 104–201 and the regulations prescribed to carry out the amendments.
 
-### § 5723. Travel and transportation expenses of new appointees and student trainees
+### § 5723. Travel and transportation expenses of new appointees and student trainees
 
 **(a)** Under regulations prescribed under section 5738 of this title and subject to subsections (b) and (c) of this section, an agency may pay from its appropriations—
 
@@ -1292,14 +1292,14 @@ from his place of residence at the time of selection or assignment to his duty s
 
 **(d)** This section does not impair or otherwise affect the authority of an agency under existing statute to pay travel and transportation expenses of individuals named by subsection (a) of this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 502; Pub. L. 95–454, title III, § 305, title IV, § 409(a), title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1147, 1173, 1224; Pub. L. 98–151, § 118(a)(1), Nov. 14, 1983, 97 Stat. 977; Pub. L. 98–473, title I, § 120(a), Oct. 12, 1984, 98 Stat. 1968; Pub. L. 100–325, § 2(j), May 30, 1988, 102 Stat. 582; Pub. L. 100–398, § 6, Aug. 17, 1988, 102 Stat. 987; Pub. L. 101–509, title V, § 529 [title II, § 206(b)], Nov. 5, 1990, 104 Stat. 1427, 1457; Pub. L. 102–378, § 2(48), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 104–201, div. A, title XVII, §§ 1715(b)(2), 1723(b)(1), Sept. 23, 1996, 110 Stat. 2755, 2759; Pub. L. 105–264, § 6(3), Oct. 19, 1998, 112 Stat. 2356.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 502; Pub. L. 95–454, title III, § 305, title IV, § 409(a), title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1147, 1173, 1224; Pub. L. 98–151, § 118(a)(1), Nov. 14, 1983, 97 Stat. 977; Pub. L. 98–473, title I, § 120(a), Oct. 12, 1984, 98 Stat. 1968; Pub. L. 100–325, § 2(j), May 30, 1988, 102 Stat. 582; Pub. L. 100–398, § 6, Aug. 17, 1988, 102 Stat. 987; Pub. L. 101–509, title V, § 529 [title II, § 206(b)], Nov. 5, 1990, 104 Stat. 1427, 1457; Pub. L. 102–378, § 2(48), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 104–201, div. A, title XVII, §§ 1715(b)(2), 1723(b)(1), Sept. 23, 1996, 110 Stat. 2755, 2759; Pub. L. 105–264, § 6(3), Oct. 19, 1998, 112 Stat. 2356.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
 |  | 5 U.S.C. 73b–3 (less (a)). | Aug. 25, 1958, Pub. L. 85–749, 72 Stat. 843. |
-|  |  | July 5, 1960, Pub. L. 86–587, § 1, 74 Stat. 327. |
+|  |  | July 5, 1960, Pub. L. 86–587, § 1, 74 Stat. 327. |
 |  |  | Oct. 16, 1963, Pub. L. 88–146, 77 Stat. 252. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
@@ -1314,35 +1314,35 @@ Section 3 of the Presidential Transition Act of 1963, referred to in subsecs. (a
 
 1998—Subsec. (b). Pub. L. 105–264 substituted “spent by the Government” for “spent by the United States” and “due the Government” for “due the United States”.
 
-1996—Subsec. (a). Pub. L. 104–201, § 1723(b)(1), in introductory provisions, substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
+1996—Subsec. (a). Pub. L. 104–201, § 1723(b)(1), in introductory provisions, substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
 
-Subsec. (a)(3). Pub. L. 104–201, § 1715(b)(2), which directed amendment of subsec. (a) by adding par. (3) at the end, was executed by adding par. (3) after par. (2) to reflect the probable intent of Congress.
+Subsec. (a)(3). Pub. L. 104–201, § 1715(b)(2), which directed amendment of subsec. (a) by adding par. (3) at the end, was executed by adding par. (3) after par. (2) to reflect the probable intent of Congress.
 
-1992—Pub. L. 102–378, § 2(48)(A), struck out “; manpower shortage positions” after “trainees” in section catchline.
+1992—Pub. L. 102–378, § 2(48)(A), struck out “; manpower shortage positions” after “trainees” in section catchline.
 
-Subsecs. (d), (e). Pub. L. 102–378, § 2(48)(B), redesignated subsec. (e) as (d) and struck out former subsec. (d) which authorized Office to delegate its authority to determine positions for which there was a manpower shortage for purposes of this section.
+Subsecs. (d), (e). Pub. L. 102–378, § 2(48)(B), redesignated subsec. (e) as (d) and struck out former subsec. (d) which authorized Office to delegate its authority to determine positions for which there was a manpower shortage for purposes of this section.
 
-1990—Subsec. (a)(1)(A). Pub. L. 101–509, § 529 [title II, § 206(b)(1)], substituted “any position” for “a position in the United States for which the Office of Personnel Management determines there is a manpower shortage”.
+1990—Subsec. (a)(1)(A). Pub. L. 101–509, § 529 [title II, § 206(b)(1)], substituted “any position” for “a position in the United States for which the Office of Personnel Management determines there is a manpower shortage”.
 
-Subsec. (a)(1)(C). Pub. L. 101–509, § 529 [title II, § 206(b)(2)], substituted “the minimum rate of pay payable for a position classified above GS–15 pursuant to section 5108; and” for “the minimum rate of pay prescribed for GS–16; and”.
+Subsec. (a)(1)(C). Pub. L. 101–509, § 529 [title II, § 206(b)(2)], substituted “the minimum rate of pay payable for a position classified above GS–15 pursuant to section 5108; and” for “the minimum rate of pay prescribed for GS–16; and”.
 
-1988—Subsec. (a). Pub. L. 100–398, § 6(2), inserted at end “In the case of an appointee described in paragraph (1) who has performed transition activities under section 3 of the Presidential Transition Act of 1963 (3 U.S.C. 102 note), the provisions of paragraphs (1) and (2) may apply to travel and transportation expenses from the place of residence of such appointee (at the time of relocation following the most recent general elections held to determine the electors of the President) to the assigned duty station of such appointee.”
+1988—Subsec. (a). Pub. L. 100–398, § 6(2), inserted at end “In the case of an appointee described in paragraph (1) who has performed transition activities under section 3 of the Presidential Transition Act of 1963 (3 U.S.C. 102 note), the provisions of paragraphs (1) and (2) may apply to travel and transportation expenses from the place of residence of such appointee (at the time of relocation following the most recent general elections held to determine the electors of the President) to the assigned duty station of such appointee.”
 
-Subsec. (a)(1). Pub. L. 100–398, § 6(1), which directed that par. (1) be amended by striking out “or (B)” and inserting “or (C)”, could not be executed because phrase “or (B)” did not appear in par. (1) after the intervening amendment by Pub. L. 100–325, see below.
+Subsec. (a)(1). Pub. L. 100–398, § 6(1), which directed that par. (1) be amended by striking out “or (B)” and inserting “or (C)”, could not be executed because phrase “or (B)” did not appear in par. (1) after the intervening amendment by Pub. L. 100–325, see below.
 
 Pub. L. 100–325 inserted reference to Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service in cl. (B) and redesignated a second cl. (B) as (C).
 
-Subsec. (c). Pub. L. 100–398, § 6(3), inserted at end “In the case of an appointee described in subsection (a)(1) who has performed transition activities under section 3 of the Presidential Transition Act of 1963 (3 U.S.C. 102 note), the travel or transportation shall take place at any time after the most recent general elections held to determine the electors of the President.”
+Subsec. (c). Pub. L. 100–398, § 6(3), inserted at end “In the case of an appointee described in subsection (a)(1) who has performed transition activities under section 3 of the Presidential Transition Act of 1963 (3 U.S.C. 102 note), the travel or transportation shall take place at any time after the most recent general elections held to determine the electors of the President.”
 
-1984—Subsec. (a)(1). Pub. L. 98–473 directed amendment of subpar. (C) by striking out “, by and with the advice and consent of the Senate,” which was executed to second subpar. (B) by striking out that phrase following “appointed by the President”, as probable intent of Congress.
+1984—Subsec. (a)(1). Pub. L. 98–473 directed amendment of subpar. (C) by striking out “, by and with the advice and consent of the Senate,” which was executed to second subpar. (B) by striking out that phrase following “appointed by the President”, as probable intent of Congress.
 
 1983—Subsec. (a)(1). Pub. L. 98–151, designated existing provisions as subpars. (A) and (B), and added a second subpar. (B) relating to any person appointed by President.
 
-1978—Subsec. (a)(1). Pub. L. 95–454, § 906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+1978—Subsec. (a)(1). Pub. L. 95–454, § 906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-Pub. L. 95–454, § 409(a), inserted reference to a new appointee to the Senior Executive Service.
+Pub. L. 95–454, § 409(a), inserted reference to a new appointee to the Senior Executive Service.
 
-Subsec. (d). Pub. L. 95–454, §§ 305, 906(a)(3), struck out “not” before “delegate”, and substituted “Office” for “Commission”.
+Subsec. (d). Pub. L. 95–454, §§ 305, 906(a)(3), struck out “not” before “delegate”, and substituted “Office” for “Commission”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1352,7 +1352,7 @@ Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see sect
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 **Effective Date of 1983 Amendment; Regulations**
 
@@ -1368,7 +1368,7 @@ Amendment by section 409(a) of Pub. L. 95–454 effective 9 months after Oct. 13
 
 Amendments by Pub. L. 98–151 to be carried out by agencies by use of funds appropriated or otherwise available for administrative expenses of such agencies, and do not authorize appropriation of funds in amounts exceeding sums already authorized to be appropriated for such agencies, see section 118(b) of Pub. L. 98–151, set out as a note under section 5724 of this title.
 
-### § 5724. Travel and transportation expenses of employees transferred; advancement of funds; reimbursement on commuted basis
+### § 5724. Travel and transportation expenses of employees transferred; advancement of funds; reimbursement on commuted basis
 
 **(a)** Under regulations prescribed under section 5738 of this title and when the head of the agency concerned or his designee authorizes or approves, the agency shall pay from Government funds—
 
@@ -1406,7 +1406,7 @@ However, payment under this subsection may not exceed the maximum payment to whi
 
 **(j)** The regulations prescribed under this section shall provide that the reassignment or transfer of any employee, for permanent duty, from one official station or agency to another which is outside the employee’s commuting area shall take effect only after the employee has been given advance notice for a reasonable period. Emergency circumstances shall be taken into account in determining whether the period of advance notice is reasonable.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 502; Pub. L. 90–83, § 1(36), Sept. 11, 1967, 81 Stat. 204; Pub. L. 90–623, § 1(14), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 96–465, title II, § 2314(d), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 98–151, § 118(a)(2)–(4), (7)(B), Nov. 14, 1983, 97 Stat. 977, 979; Pub. L. 100–440, title VI, § 629(a), Sept. 22, 1988, 102 Stat. 1758; Pub. L. 100–566, § 3, Oct. 31, 1988, 102 Stat. 2845; Pub. L. 102–378, § 2(49), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 103–338, §§ 3(a), 4, Oct. 6, 1994, 108 Stat. 3114; Pub. L. 104–201, div. A, title XVII, § 1723(a)(1)(B), (b)(1), (2), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 105–85, div. C, title XXXV, § 3550(c)(1), Nov. 18, 1997, 111 Stat. 2074; Pub. L. 105–264, § 6(4), Oct. 19, 1998, 112 Stat. 2356.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 502; Pub. L. 90–83, § 1(36), Sept. 11, 1967, 81 Stat. 204; Pub. L. 90–623, § 1(14), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 96–465, title II, § 2314(d), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 98–151, § 118(a)(2)–(4), (7)(B), Nov. 14, 1983, 97 Stat. 977, 979; Pub. L. 100–440, title VI, § 629(a), Sept. 22, 1988, 102 Stat. 1758; Pub. L. 100–566, § 3, Oct. 31, 1988, 102 Stat. 2845; Pub. L. 102–378, § 2(49), Oct. 2, 1992, 106 Stat. 1353; Pub. L. 103–338, §§ 3(a), 4, Oct. 6, 1994, 108 Stat. 3114; Pub. L. 104–201, div. A, title XVII, § 1723(a)(1)(B), (b)(1), (2), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 105–85, div. C, title XXXV, § 3550(c)(1), Nov. 18, 1997, 111 Stat. 2074; Pub. L. 105–264, § 6(4), Oct. 19, 1998, 112 Stat. 2356.)
 
 **Historical and Revision Notes**
 
@@ -1414,9 +1414,9 @@ However, payment under this subsection may not exceed the maximum payment to whi
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 73b–1(a), (b). | Aug. 2, 1946, ch. 744, § 1(a), (b), 60 Stat. 806. Sept. 23, 1950, ch. 1010, §§ 1(a), (b), 3(b), 64 Stat. 985, 986. |
+|  | 5 U.S.C. 73b–1(a), (b). | Aug. 2, 1946, ch. 744, § 1(a), (b), 60 Stat. 806. Sept. 23, 1950, ch. 1010, §§ 1(a), (b), 3(b), 64 Stat. 985, 986. |
 |  |  | Feb. 12, 1958, Pub. L. 85–326, 72 Stat. 14. |
-|  |  | Sept. 6, 1960, Pub. L. 86–707, § 301(c)(1), 74 Stat. 796. |
+|  |  | Sept. 6, 1960, Pub. L. 86–707, § 301(c)(1), 74 Stat. 796. |
 |  |  | Oct. 9, 1962, Pub. L. 87–776, 76 Stat. 777. |
 
 In subsections (a)(1) and (f), the words “section 5704 of this title” and “section 5705 of this title”, respectively, are substituted for “the Act of February 14, 1931 (5 U.S.C. 73a)” and “the Subsistence Expense Act of 1926 (5 U.S.C. 828)”, respectively, on authority of sections 4, 5, and 9(a) of the Travel Expense Act of 1949, as amended, which are carried into sections 5704, 5705, and 5708.
@@ -1427,66 +1427,66 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 | *Section of title 5* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5724(a)(2) | 5 App.: 73b–1(a). | July 21, 1966, Pub. L. 89–516, § 1(a), 80 Stat. 323. |
-| 5724(c) | 5 App.: 73b–1(b). | July 21, 1966, Pub. L. 89–516, § 1(b), 80 Stat. 323. |
-| 5724(e) | 5 App.: 73b–4d. | July 21, 1966, Pub. L. 89–516, § 2 “Sec. 26”, 80 Stat. 324. |
-| 5724(i) | 5 App.: 73b–4f. | July 21, 1966, Pub. L. 89–516, § 2 “Sec. 28”, 80 Stat. 325. |
+| 5724(a)(2) | 5 App.: 73b–1(a). | July 21, 1966, Pub. L. 89–516, § 1(a), 80 Stat. 323. |
+| 5724(c) | 5 App.: 73b–1(b). | July 21, 1966, Pub. L. 89–516, § 1(b), 80 Stat. 323. |
+| 5724(e) | 5 App.: 73b–4d. | July 21, 1966, Pub. L. 89–516, § 2 “Sec. 26”, 80 Stat. 324. |
+| 5724(i) | 5 App.: 73b–4f. | July 21, 1966, Pub. L. 89–516, § 2 “Sec. 28”, 80 Stat. 325. |
 
 Subsection (a)(1), (3) of section 1 of the act of July 21, 1966, was effected in the codification of 5 U.S.C. 5724(a)(1), (f); accordingly, no further amendments to 5 U.S.C. 5724 are necessary.
 
 In subsection (e), the word “However” is substituted for “and notwithstanding the provisions of the fourth proviso of section 1(a) of this Act” to reflect the codification of that proviso in 5 U.S.C. 5724(e). The words “agency” and “agencies” are substituted for “department” and “departments”, respectively, to conform to the definition in 5 U.S.C. 5721(1). The words “this section and sections 5726(b) and 5727 of this title” and “section 5724a (a), (b) of this title” are substituted for “section 1, subsections (a) and (b) and subsections (e) and (f)” and “sections 23 and 24 of this Act”, respectively, to reflect the codification of the cited sections in 5 U.S.C. The word “employee” is substituted for “officer or employee” to conform to the definitions in 5 U.S.C. 5721(2) and 2105.
 
-In subsection (i), the words “An agency may pay \* \* \* expenses \* \* \* and allowances under this section and sections 5724a and 5726(c) of this title \* \* \* only after” are substituted for “Notwithstanding the provisions of subsections (a) and (b) of section 1, and of sections 23, 24, 25, and 27 of this Act, the \* \* \* expenses \* \* \* and \* \* \* allowances shall not be allowed thereunder \* \* \* unless and until” for clarity and to conform to the style of 5 U.S.C., and to reflect the codification of the cited sections in 5 U.S.C. The word “employee” is substituted for “civilian officer or employee” and “such officer or employee” to conform to the definitions in 5 U.S.C. 5721(2) and 2105. The words “continental United States” are substituted for “continental United States, excluding Alaska” to conform to the definition in 5 U.S.C. 5721(3). The word “agency” is substituted for “department or agency” to conform to the definition in 5 U.S.C. 5721(1). In the last sentence, the words “money spent by the United States for the expenses and allowances” are substituted for “moneys expended by the United States under said sections of this act on account of such officer or employee.”
+In subsection (i), the words “An agency may pay \* \* \* expenses \* \* \* and allowances under this section and sections 5724a and 5726(c) of this title \* \* \* only after” are substituted for “Notwithstanding the provisions of subsections (a) and (b) of section 1, and of sections 23, 24, 25, and 27 of this Act, the \* \* \* expenses \* \* \* and \* \* \* allowances shall not be allowed thereunder \* \* \* unless and until” for clarity and to conform to the style of 5 U.S.C., and to reflect the codification of the cited sections in 5 U.S.C. The word “employee” is substituted for “civilian officer or employee” and “such officer or employee” to conform to the definitions in 5 U.S.C. 5721(2) and 2105. The words “continental United States” are substituted for “continental United States, excluding Alaska” to conform to the definition in 5 U.S.C. 5721(3). The word “agency” is substituted for “department or agency” to conform to the definition in 5 U.S.C. 5721(1). In the last sentence, the words “money spent by the United States for the expenses and allowances” are substituted for “moneys expended by the United States under said sections of this act on account of such officer or employee.”
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4103 of title 38, referred to in subsec. (a)(3)(A), was repealed by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See section 7306 of Title 38, Veterans’ Benefits.
+Section 4103 of title 38, referred to in subsec. (a)(3)(A), was repealed by Pub. L. 102–40, title IV, § 401(a)(3), May 7, 1991, 105 Stat. 210. See section 7306 of Title 38, Veterans’ Benefits.
 
-The Foreign Service Act of 1980, referred to in subsec. (g), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (g), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 **Amendments**
 
-1998—Subsec. (a)(3). Pub. L. 105–264, § 6(4)(A), struck out “, its territories or possessions, the Commonwealth of Puerto Rico, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements, as described in section 3(a) of the Panama Canal Act of 1979” after “United States”.
+1998—Subsec. (a)(3). Pub. L. 105–264, § 6(4)(A), struck out “, its territories or possessions, the Commonwealth of Puerto Rico, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements, as described in section 3(a) of the Panama Canal Act of 1979” after “United States”.
 
-Subsec. (i). Pub. L. 105–264, § 6(4)(B), substituted “Government” for “United States” in two places in last sentence.
+Subsec. (i). Pub. L. 105–264, § 6(4)(B), substituted “Government” for “United States” in two places in last sentence.
 
-1997—Subsec. (a)(3). Pub. L. 105–85, which directed the substitution of “or the Commonwealth of Puerto Rico” for “, the Commonwealth of Puerto Rico, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements, as described in section 3(a) of the Panama Canal Act of 1979”, effective Jan. 1, 1999, could not be executed because such language did not appear in text subsequent to amendment by Pub. L. 105–264. See 1998 Amendment note above.
+1997—Subsec. (a)(3). Pub. L. 105–85, which directed the substitution of “or the Commonwealth of Puerto Rico” for “, the Commonwealth of Puerto Rico, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements, as described in section 3(a) of the Panama Canal Act of 1979”, effective Jan. 1, 1999, could not be executed because such language did not appear in text subsequent to amendment by Pub. L. 105–264. See 1998 Amendment note above.
 
-1996—Subsecs. (a), (b). Pub. L. 104–201, § 1723(b)(1), in introductory provisions, substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
+1996—Subsecs. (a), (b). Pub. L. 104–201, § 1723(b)(1), in introductory provisions, substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
 
-Subsec. (c). Pub. L. 104–201, § 1723(b)(2)(A), substituted “under regulations prescribed under section 5738 of this title” for “under regulations prescribed by the President”.
+Subsec. (c). Pub. L. 104–201, § 1723(b)(2)(A), substituted “under regulations prescribed under section 5738 of this title” for “under regulations prescribed by the President”.
 
-Pub. L. 104–201, § 1723(b)(1), substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
+Pub. L. 104–201, § 1723(b)(1), substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
 
-Subsec. (e). Pub. L. 104–201, § 1723(b)(2)(A), substituted “under regulations prescribed under section 5738 of this title” for “under regulations prescribed by the President”.
+Subsec. (e). Pub. L. 104–201, § 1723(b)(2)(A), substituted “under regulations prescribed under section 5738 of this title” for “under regulations prescribed by the President”.
 
-Pub. L. 104–201, § 1723(a)(1)(B), substituted “section 5724a(a) through (f)” for “section 5724a(a), (b)”.
+Pub. L. 104–201, § 1723(a)(1)(B), substituted “section 5724a(a) through (f)” for “section 5724a(a), (b)”.
 
-Subsec. (f). Pub. L. 104–201, § 1723(b)(2)(B), substituted “under regulations prescribed under section 5738 of this title” for “under the regulations of the President”.
+Subsec. (f). Pub. L. 104–201, § 1723(b)(2)(B), substituted “under regulations prescribed under section 5738 of this title” for “under the regulations of the President”.
 
-1994—Subsec. (a)(3). Pub. L. 103–338, § 4, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “upon the separation of a career appointee (as defined in section 3132(a)(4) of this title), the travel expenses of that individual, the transportation expenses of the immediate family of such individual, and the expenses of moving (including transporting, packing, crating, temporarily storing, draying, and unpacking) the household goods of such individual and personal effects not in excess of eighteen thousand pounds net weight, to the place where the individual will reside within the United States, its territories or possessions, the Commonwealth of Puerto Rico, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements, as described in section 3(a) of the Panama Canal Act of 1979 (or, if the individual dies before the travel, transportation, and moving is completed, to the place where the family will reside) if such individual—
+1994—Subsec. (a)(3). Pub. L. 103–338, § 4, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “upon the separation of a career appointee (as defined in section 3132(a)(4) of this title), the travel expenses of that individual, the transportation expenses of the immediate family of such individual, and the expenses of moving (including transporting, packing, crating, temporarily storing, draying, and unpacking) the household goods of such individual and personal effects not in excess of eighteen thousand pounds net weight, to the place where the individual will reside within the United States, its territories or possessions, the Commonwealth of Puerto Rico, or the areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements, as described in section 3(a) of the Panama Canal Act of 1979 (or, if the individual dies before the travel, transportation, and moving is completed, to the place where the family will reside) if such individual—
 
 “(A) during or after the five years preceding eligibility to receive an annuity under subchapter III of chapter 83, or of chapter 84 of this title, has been transferred in the interest of the Government from one official station to another for permanent duty as a career appointee in the Senior Executive Service or as a director under section 4103(a)(8) of title 38 (as in effect on November 17, 1988); and
 
 “(B) is eligible to receive an annuity upon such separation under the provisions of subchapter III of chapter 83 or chapter 84 of this title.”
 
-Subsec. (a)(3)(A). Pub. L. 103–338, § 3(a), substituted “November 17, 1988” for “November 27, 1988”.
+Subsec. (a)(3)(A). Pub. L. 103–338, § 3(a), substituted “November 17, 1988” for “November 27, 1988”.
 
 1992—Subsec. (a)(3)(A). Pub. L. 102–378 substituted “Service or as a director under section 4103(a)(8) of title 38 (as in effect on November 27, 1988)” for “Service”.
 
 1988—Subsec. (a)(3). Pub. L. 100–440 added par. (3).
 
-Subsec. (a)(3)(A). Pub. L. 100–566 substituted “during or after the five” for “during the five” and struck out “, and thereafter” after “of this title”.
+Subsec. (a)(3)(A). Pub. L. 100–566 substituted “during or after the five” for “during the five” and struck out “, and thereafter” after “of this title”.
 
-1983—Subsec. (a)(2). Pub. L. 98–151, § 118(a)(2), substituted “18,000” for “11,000”.
+1983—Subsec. (a)(2). Pub. L. 98–151, § 118(a)(2), substituted “18,000” for “11,000”.
 
-Subsec. (b)(1). Pub. L. 98–151, § 118(a)(3), struck out “not in excess of 20 cents a mile” after “allowance”.
+Subsec. (b)(1). Pub. L. 98–151, § 118(a)(3), struck out “not in excess of 20 cents a mile” after “allowance”.
 
-Subsec. (i). Pub. L. 98–151, § 118(a)(7)(B), inserted reference to section 5724b of this title.
+Subsec. (i). Pub. L. 98–151, § 118(a)(7)(B), inserted reference to section 5724b of this title.
 
-Subsec. (j). Pub. L. 98–151, § 118(a)(4), added subsec. (j).
+Subsec. (j). Pub. L. 98–151, § 118(a)(4), added subsec. (j).
 
 1980—Subsec. (g). Pub. L. 96–465 substituted “the Foreign Service Act of 1980” for “chapter 14 of title 22”.
 
@@ -1496,7 +1496,7 @@ Subsec. (j). Pub. L. 98–151, § 118(a)(4), added subsec. (j).
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–85, div. C, title XXXV, § 3550(c)(3), Nov. 18, 1997, 111 Stat. 2074, provided that: “The amendments made by this subsection [amending this section and section 5724a of this title] shall take effect on January 1, 1999.”
+Pub. L. 105–85, div. C, title XXXV, § 3550(c)(3), Nov. 18, 1997, 111 Stat. 2074, provided that: “The amendments made by this subsection [amending this section and section 5724a of this title] shall take effect on January 1, 1999.”
 
 **Effective Date of 1996 Amendment**
 
@@ -1504,9 +1504,9 @@ Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see sect
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–338, § 3(b), Oct. 6, 1994, 108 Stat. 3114, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in the Technical and Miscellaneous Civil Service Amendments Act of 1992 (Public Law 102–378; 106 Stat. 1346; 5 U.S.C. 1101 note).”
+Pub. L. 103–338, § 3(b), Oct. 6, 1994, 108 Stat. 3114, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in the Technical and Miscellaneous Civil Service Amendments Act of 1992 (Public Law 102–378; 106 Stat. 1346; 5 U.S.C. 1101 note).”
 
-Pub. L. 103–338, § 5(a), Oct. 6, 1994, 108 Stat. 3115, provided that: “This Act [amending this section and enacting provisions set out as notes under this section] and the amendment made by this Act shall take effect on October 1, 1994, or, if later, the date of the enactment of this Act [Oct. 6, 1994].”
+Pub. L. 103–338, § 5(a), Oct. 6, 1994, 108 Stat. 3115, provided that: “This Act [amending this section and enacting provisions set out as notes under this section] and the amendment made by this Act shall take effect on October 1, 1994, or, if later, the date of the enactment of this Act [Oct. 6, 1994].”
 
 **Effective Date of 1992 Amendment**
 
@@ -1514,7 +1514,7 @@ Amendment by Pub. L. 102–378 applicable with respect to a separation that take
 
 **Effective Date of 1983 Amendment; Promulgation of Regulations**
 
-Pub. L. 98–151, § 118(c), Nov. 14, 1983, 97 Stat. 979, provided that:
+Pub. L. 98–151, § 118(c), Nov. 14, 1983, 97 Stat. 979, provided that:
 
 > **“(1)** The amendments made by subsection (a) [enacting sections 5724b and 5724c of this title and amending this section and sections 5723, 5724a, and 5726 of this title] shall take effect on the date of the enactment of this joint resolution [Nov. 14, 1983].”
 
@@ -1530,7 +1530,7 @@ Amendment by Pub. L. 90–623 effective as of Sept. 11, 1967, for all purposes, 
 
 **Moving Expenses for Family of Career Appointees Dying in Service Between January 1, 1994, and October 6, 1994**
 
-Pub. L. 103–338, § 5(b), Oct. 6, 1994, 108 Stat. 3115, provided that:
+Pub. L. 103–338, § 5(b), Oct. 6, 1994, 108 Stat. 3115, provided that:
 
 > **“(1) In general.—** Under regulations prescribed by the President or his designee, an agency shall, as appropriate, pay or make reimbursement for any moving expenses which would be payable under the provisions of section 5724(a)(3) of title 5, United States Code, as amended by section 4 (but which would not have been payable under such provisions, as last in effect before being so amended).
 
@@ -1544,17 +1544,17 @@ Pub. L. 103–338, § 5(b), Oct. 6, 1994, 108 Stat. 3115, provided that:
 
 **Funding of Amendments by Pub. L. 100–440**
 
-Pub. L. 100–440, title VI, § 629(b), Sept. 22, 1988, 102 Stat. 1759, provided that: “The amendments made by subsection (a) [amending this section] shall be carried out by agencies by the use of funds appropriated or otherwise available for the administrative expenses of each of such respective agencies. The amendments made by such subsection do not authorize the appropriation of funds in amounts exceeding the sums otherwise authorized to be appropriated for such agencies.”
+Pub. L. 100–440, title VI, § 629(b), Sept. 22, 1988, 102 Stat. 1759, provided that: “The amendments made by subsection (a) [amending this section] shall be carried out by agencies by the use of funds appropriated or otherwise available for the administrative expenses of each of such respective agencies. The amendments made by such subsection do not authorize the appropriation of funds in amounts exceeding the sums otherwise authorized to be appropriated for such agencies.”
 
 **Funding of Amendments by Pub. L. 98–151**
 
-Pub. L. 98–151, § 118(b), Nov. 14, 1983, 97 Stat. 979, provided that: “The amendments made by subsection (a) [enacting sections 5724b and 5724c of this title and amending this section and sections 5723, 5724a, and 5726 of this title] shall be carried out by agencies by the use of funds appropriated or otherwise available for the administrative expenses of each of such respective agencies. The amendments made by such subsection do not authorize the appropriation of funds in amounts exceeding the sums already authorized to be appropriated for such agencies.”
+Pub. L. 98–151, § 118(b), Nov. 14, 1983, 97 Stat. 979, provided that: “The amendments made by subsection (a) [enacting sections 5724b and 5724c of this title and amending this section and sections 5723, 5724a, and 5726 of this title] shall be carried out by agencies by the use of funds appropriated or otherwise available for the administrative expenses of each of such respective agencies. The amendments made by such subsection do not authorize the appropriation of funds in amounts exceeding the sums already authorized to be appropriated for such agencies.”
 
 **Rates of Reimbursement**
 
 Administrator of General Services empowered to prescribe regulations relating to establishment of rates used in reimbursing civilian officers or employees of Government on a commuted basis in lieu of payment of actual expenses of transportation, etc., of their household goods and personal effects upon transfer from one official station to another, see Ex. Ord. No. 11012, Mar. 28, 1962, 27 F.R. 2983, set out as a note under section 301 of Title 3, The President.
 
-### § 5724a. Relocation expenses of employees transferred or reemployed
+### § 5724a. Relocation expenses of employees transferred or reemployed
 
 **(a)** Under regulations prescribed under section 5738, an agency shall pay to or on behalf of an employee who transfers in the interest of the Government, a per diem allowance or the actual subsistence expenses, or a combination thereof, of the immediate family of the employee for en route travel of the immediate family between the employee’s old and new official stations.
 
@@ -1632,15 +1632,15 @@ Administrator of General Services empowered to prescribe regulations relating to
 
 **(h)** Payments for subsistence expenses, including amounts in lieu of per diem or actual subsistence expenses or a combination thereof, authorized under this section may not exceed the maximum payment allowed under regulations which implement section 5702 of this title.
 
-(Added Pub. L. 90–83, § 1(37)(A), Sept. 11, 1967, 81 Stat. 204; amended Pub. L. 96–70, title I, § 1231(d), Sept. 27, 1979, 93 Stat. 470; Pub. L. 98–151, § 118(a)(5), (6), Nov. 14, 1983, 97 Stat. 977, 978; Pub. L. 99–234, title I, § 105, Jan. 2, 1986, 99 Stat. 1758; Pub. L. 100–202, § 101(m) [title VI, § 628(a)(1)], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 101–510, div. A, title XII, § 1206(c), Nov. 5, 1990, 104 Stat. 1661; Pub. L. 104–201, div. A, title XVII, §§ 1711–1713(a), 1714, 1718, Sept. 23, 1996, 110 Stat. 2753–2755, 2757; Pub. L. 105–85, div. C, title XXXV, § 3550(c)(2), Nov. 18, 1997, 111 Stat. 2074; Pub. L. 105–264, §§ 6(5), 7, Oct. 19, 1998, 112 Stat. 2356, 2357.)
+(Added Pub. L. 90–83, § 1(37)(A), Sept. 11, 1967, 81 Stat. 204; amended Pub. L. 96–70, title I, § 1231(d), Sept. 27, 1979, 93 Stat. 470; Pub. L. 98–151, § 118(a)(5), (6), Nov. 14, 1983, 97 Stat. 977, 978; Pub. L. 99–234, title I, § 105, Jan. 2, 1986, 99 Stat. 1758; Pub. L. 100–202, § 101(m) [title VI, § 628(a)(1)], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 101–510, div. A, title XII, § 1206(c), Nov. 5, 1990, 104 Stat. 1661; Pub. L. 104–201, div. A, title XVII, §§ 1711–1713(a), 1714, 1718, Sept. 23, 1996, 110 Stat. 2753–2755, 2757; Pub. L. 105–85, div. C, title XXXV, § 3550(c)(2), Nov. 18, 1997, 111 Stat. 2074; Pub. L. 105–264, §§ 6(5), 7, Oct. 19, 1998, 112 Stat. 2356, 2357.)
 
 **Historical and Revision Notes**
 
 | *Section of title 5* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5724a(a) | 5 App.: 73b–4a. | July 21, 1966, Pub. L. 89–516, § 2 “Sec. 23”, 80 Stat. 323. |
-| 5724a(b) | 5 App.: 73b–4b. | July 21, 1966, Pub. L. 89–516, § 2 “Sec. 24”, 80 Stat. 324. |
-| 5724a(c) | 5 App.: 73b–4e. | July 21, 1966, Pub. L. 89–516, § 2 “Sec. 27”, 80 Stat. 325. |
+| 5724a(a) | 5 App.: 73b–4a. | July 21, 1966, Pub. L. 89–516, § 2 “Sec. 23”, 80 Stat. 323. |
+| 5724a(b) | 5 App.: 73b–4b. | July 21, 1966, Pub. L. 89–516, § 2 “Sec. 24”, 80 Stat. 324. |
+| 5724a(c) | 5 App.: 73b–4e. | July 21, 1966, Pub. L. 89–516, § 2 “Sec. 27”, 80 Stat. 325. |
 
 In subsection (a), the word “agency” is substituted for “department” to conform to the definition in 5 U.S.C. 5721(1). The word “employee” is substituted for “officers or employees” and “officer or employee” to conform to the definitions in 5 U.S.C. 5721(2) and 2105. The words “section 5724(a) of this title” and “section 5702 of this title” are substituted for “subsection (a) of section 1 of this Act” and “section 3 of the Travel Expense Act of 1949 (63 Stat. 166, as amended; 5 U.S.C. 836)” to reflect the codification of the cited acts in 5 U.S.C. In subsection (a)(2), the words “within the continental United States” are coextensive with and substituted for “within the continental United States, excluding Alaska” on authority of the definition of “continental United States” in 5 U.S.C. 5721(3).
 
@@ -1656,61 +1656,61 @@ The General Schedule, referred to in subsec. (f)(2), is set out under section 53
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–264, § 7(1), substituted “Under regulations prescribed under section 5738, an agency shall pay” for “An agency shall pay”.
+1998—Subsec. (a). Pub. L. 105–264, § 7(1), substituted “Under regulations prescribed under section 5738, an agency shall pay” for “An agency shall pay”.
 
-Subsec. (b)(1). Pub. L. 105–264, § 7(2), substituted “Under regulations prescribed under section 5738, an agency may pay” for “An agency may pay” in introductory provisions.
+Subsec. (b)(1). Pub. L. 105–264, § 7(2), substituted “Under regulations prescribed under section 5738, an agency may pay” for “An agency may pay” in introductory provisions.
 
-Subsec. (b)(1)(B)(ii). Pub. L. 105–264, § 7(3), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “an amount for subsistence expenses.”
+Subsec. (b)(1)(B)(ii). Pub. L. 105–264, § 7(3), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “an amount for subsistence expenses.”
 
-Subsec. (c)(1). Pub. L. 105–264, § 7(2), substituted “Under regulations prescribed under section 5738, an agency may pay” for “An agency may pay” in introductory provisions.
+Subsec. (c)(1). Pub. L. 105–264, § 7(2), substituted “Under regulations prescribed under section 5738, an agency may pay” for “An agency may pay” in introductory provisions.
 
-Subsec. (c)(1)(B). Pub. L. 105–264, § 7(4), substituted “an amount for subsistence expenses, that may not exceed a maximum amount determined by the Administrator of General Services,” for “an amount for subsistence expenses”.
+Subsec. (c)(1)(B). Pub. L. 105–264, § 7(4), substituted “an amount for subsistence expenses, that may not exceed a maximum amount determined by the Administrator of General Services,” for “an amount for subsistence expenses”.
 
-Subsec. (d)(1), (2). Pub. L. 105–264, § 7(1), substituted “Under regulations prescribed under section 5738, an agency shall pay” for “An agency shall pay”.
+Subsec. (d)(1), (2). Pub. L. 105–264, § 7(1), substituted “Under regulations prescribed under section 5738, an agency shall pay” for “An agency shall pay”.
 
-Subsec. (d)(2)(A). Pub. L. 105–264, § 7(5), substituted “of the sale” for “for the sale”.
+Subsec. (d)(2)(A). Pub. L. 105–264, § 7(5), substituted “of the sale” for “for the sale”.
 
-Subsec. (d)(2)(B). Pub. L. 105–264, § 7(6), substituted “of the purchase” for “for the purchase”.
+Subsec. (d)(2)(B). Pub. L. 105–264, § 7(6), substituted “of the purchase” for “for the purchase”.
 
-Subsec. (d)(8). Pub. L. 105–264, § 7(2), (7), substituted “Under regulations prescribed under section 5738, an agency may pay” for “An agency may pay” and “paragraph (1) or (2)” for “paragraph (2) or (3)”.
+Subsec. (d)(8). Pub. L. 105–264, § 7(2), (7), substituted “Under regulations prescribed under section 5738, an agency may pay” for “An agency may pay” and “paragraph (1) or (2)” for “paragraph (2) or (3)”.
 
-Subsec. (e). Pub. L. 105–264, § 7(2), substituted “Under regulations prescribed under section 5738, an agency may pay” for “An agency may pay”.
+Subsec. (e). Pub. L. 105–264, § 7(2), substituted “Under regulations prescribed under section 5738, an agency may pay” for “An agency may pay”.
 
-Subsec. (f)(1). Pub. L. 105–264, § 7(8), substituted “Under regulations prescribed under section 5738 and subject to paragraph (2),” for “Subject to paragraph (2),” in introductory provisions.
+Subsec. (f)(1). Pub. L. 105–264, § 7(8), substituted “Under regulations prescribed under section 5738 and subject to paragraph (2),” for “Subject to paragraph (2),” in introductory provisions.
 
-Subsec. (i). Pub. L. 105–264, § 7(9), struck out subsec. (i) which read as follows: “Subsections (a), (b), and (c) shall be implemented under regulations issued under section 5738 of this title.”
+Subsec. (i). Pub. L. 105–264, § 7(9), struck out subsec. (i) which read as follows: “Subsections (a), (b), and (c) shall be implemented under regulations issued under section 5738 of this title.”
 
-Subsec. (j). Pub. L. 105–264, § 6(5), struck out subsec. (j) which read as follows: “For purposes of subsections (c), (d), and (e), the term ‘United States’ includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the territories and possessions of the United States, and the areas and installations in the Republic of Panama that are made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979 (22 U.S.C. 3602(a))).”
+Subsec. (j). Pub. L. 105–264, § 6(5), struck out subsec. (j) which read as follows: “For purposes of subsections (c), (d), and (e), the term ‘United States’ includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the territories and possessions of the United States, and the areas and installations in the Republic of Panama that are made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979 (22 U.S.C. 3602(a))).”
 
 1997—Subsec. (j). Pub. L. 105–85, which directed the amendment of subsec. (j) by inserting “and” after “Northern Mariana Islands,” and by substituting “United States.” for “United States, and the areas and installations in the Republic of Panama that are made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979 (22 U.S.C. 3602(a))).”, effective Jan. 1, 1999, could not be executed because subsec. (j) did not appear subsequent to amendment by Pub. L. 105–264. See 1998 Amendment note above.
 
-1996—Pub. L. 104–201, § 1711, amended section generally, substituting subsecs. (a) and (b) for former subsecs. (a) to (c) which made funds available to pay certain expenses of employees for whom Government pays travel and transportation expenses under section 5724(a) of this title, provided for entitlement to certain amounts of basic pay to such employees, and provided for payment of expenses of certain former employees.
+1996—Pub. L. 104–201, § 1711, amended section generally, substituting subsecs. (a) and (b) for former subsecs. (a) to (c) which made funds available to pay certain expenses of employees for whom Government pays travel and transportation expenses under section 5724(a) of this title, provided for entitlement to certain amounts of basic pay to such employees, and provided for payment of expenses of certain former employees.
 
-Subsec. (c). Pub. L. 104–201, § 1712, added subsec. (c).
+Subsec. (c). Pub. L. 104–201, § 1712, added subsec. (c).
 
-Subsec. (d). Pub. L. 104–201, § 1713(a), added subsec. (d).
+Subsec. (d). Pub. L. 104–201, § 1713(a), added subsec. (d).
 
-Subsec. (d)(8). Pub. L. 104–201, § 1714(1), added par. (8).
+Subsec. (d)(8). Pub. L. 104–201, § 1714(1), added par. (8).
 
-Subsec. (e). Pub. L. 104–201, § 1714(2), added subsec. (e).
+Subsec. (e). Pub. L. 104–201, § 1714(2), added subsec. (e).
 
-Subsecs. (f) to (j). Pub. L. 104–201, § 1718, added subsecs. (f) to (j).
+Subsecs. (f) to (j). Pub. L. 104–201, § 1718, added subsecs. (f) to (j).
 
 1990—Subsec. (a)(2). Pub. L. 101–510 struck out “continental” before “United States” in second sentence.
 
 1987—Subsec. (a)(4)(A). Pub. L. 100–202 inserted provisions authorizing reimbursement of expenses of selling residence of employee at official station from which employee was transferred when assigned to duty outside United States, its territories or possessions, Puerto Rico, or parts of Panama, provisions authorizing reimbursement of expenses of purchasing residence at new official station in United States, its territories or possessions, Puerto Rico, or parts of Panama, and provisions disallowing reimbursement of expenses in connection with transfers from a post of duty located outside the United States, its territories or possessions, Puerto Rico, or parts of Panama, for any transaction that occurs prior to official notification that employee’s return to the United States would be to official station other than official station from which employee was transferred.
 
-1986—Subsec. (a)(1). Pub. L. 99–234, § 105(1), (2), substituted “allowance or” for “allowance instead of” and “maximum payment permitted under regulations which implement section 5702 of this title” for “maximum per diem rates prescribed by or under section 5702 of this title”.
+1986—Subsec. (a)(1). Pub. L. 99–234, § 105(1), (2), substituted “allowance or” for “allowance instead of” and “maximum payment permitted under regulations which implement section 5702 of this title” for “maximum per diem rates prescribed by or under section 5702 of this title”.
 
-Subsec. (a)(2). Pub. L. 99–234, § 105(1), (2), substituted “allowance or” for “allowance instead of” and “maximum payment permitted under regulations which implement section 5702 of this title” for “maximum per diem rates prescribed by or under section 5702 of this title”.
+Subsec. (a)(2). Pub. L. 99–234, § 105(1), (2), substituted “allowance or” for “allowance instead of” and “maximum payment permitted under regulations which implement section 5702 of this title” for “maximum per diem rates prescribed by or under section 5702 of this title”.
 
-Subsec. (a)(3). Pub. L. 99–234, § 105(2), (3), substituted “maximum payment permitted under regulations which implement section 5702 of this title” for “maximum per diem rates prescribed by or under section 5702 of this title” and “daily rates and amounts” for “average daily rates”.
+Subsec. (a)(3). Pub. L. 99–234, § 105(2), (3), substituted “maximum payment permitted under regulations which implement section 5702 of this title” for “maximum per diem rates prescribed by or under section 5702 of this title” and “daily rates and amounts” for “average daily rates”.
 
-1983—Subsec. (a)(3). Pub. L. 98–151, § 118(a)(5)(A), in first sentence substituted “60 days” for “30 days”.
+1983—Subsec. (a)(3). Pub. L. 98–151, § 118(a)(5)(A), in first sentence substituted “60 days” for “30 days”.
 
-Pub. L. 98–151, § 118(a)(5)(B), substituted provisions authorizing extension for an additional 60 days if agency head or designee determines existence of compelling reasons for continued occupancy, for provisions authorizing extension for an additional 30 days if the employee moves to or from Alaska, Hawaii, the territories or possessions, etc., and struck out provisions relating to additional limitations on daily rates for reimbursement for subsistence expenses.
+Pub. L. 98–151, § 118(a)(5)(B), substituted provisions authorizing extension for an additional 60 days if agency head or designee determines existence of compelling reasons for continued occupancy, for provisions authorizing extension for an additional 30 days if the employee moves to or from Alaska, Hawaii, the territories or possessions, etc., and struck out provisions relating to additional limitations on daily rates for reimbursement for subsistence expenses.
 
-Subsec. (a)(4). Pub. L. 98–151, § 118(a)(6), redesignated existing provisions as subpar. (A) and added subpar. (B).
+Subsec. (a)(4). Pub. L. 98–151, § 118(a)(6), redesignated existing provisions as subpar. (A) and added subpar. (B).
 
 1979—Subsec. (a)(3), (4). Pub. L. 96–70 substituted in pars. (3) and (4) “areas and installations in the Republic of Panama made available to the United States pursuant to the Panama Canal Treaty of 1977 and related agreements (as described in section 3(a) of the Panama Canal Act of 1979)” for “Canal Zone” wherever appearing.
 
@@ -1726,7 +1726,7 @@ Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see sect
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–202, § 101(m) [title VI, § 628(a)(2)], Dec. 22, 1987, 101 Stat. 1329–390, 1329–431, provided that: “The amendments made by paragraph (2) [probably means par. (1) which amended this section] shall be applicable with respect to any employee transferred to or from a post of duty on or after 60 days after the date of enactment of this section [Dec. 22, 1987].”
+Pub. L. 100–202, § 101(m) [title VI, § 628(a)(2)], Dec. 22, 1987, 101 Stat. 1329–390, 1329–431, provided that: “The amendments made by paragraph (2) [probably means par. (1) which amended this section] shall be applicable with respect to any employee transferred to or from a post of duty on or after 60 days after the date of enactment of this section [Dec. 22, 1987].”
 
 **Effective Date of 1986 Amendment**
 
@@ -1742,19 +1742,19 @@ Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L.
 
 **Extension of Payment of Relocation Expenses to Puerto Rico, Northern Mariana Islands, and Territories and Possessions of the United States**
 
-Pub. L. 105–277, div. A, § 101(b) [title I, § 125], Oct. 21, 1998, 112 Stat. 2681–50, 2681–74, provided that: “Effective with the enactment of this Act [Oct. 21, 1998], and in any fiscal year hereafter, the Attorney General and the Secretary of the Treasury may, for their respective agencies, extend the payment of relocation expenses listed in section 5724a(b)(1) of Title 5 of the United States Code to include the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and the territories and possessions of the United States.”
+Pub. L. 105–277, div. A, § 101(b) [title I, § 125], Oct. 21, 1998, 112 Stat. 2681–50, 2681–74, provided that: “Effective with the enactment of this Act [Oct. 21, 1998], and in any fiscal year hereafter, the Attorney General and the Secretary of the Treasury may, for their respective agencies, extend the payment of relocation expenses listed in section 5724a(b)(1) of Title 5 of the United States Code to include the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and the territories and possessions of the United States.”
 
 **Funding of Amendments by Pub. L. 98–151**
 
 Amendments by Pub. L. 98–151 to be carried out be agencies by use of funds appropriated or otherwise available for administrative expenses of such agencies, and do not authorize appropriation of funds in amounts exceeding sums already authorized to be appropriated for such agencies, see section 118(b) of Pub. L. 98–151, set out as a note under section 5724 of this title.
 
-### § 5724b. Taxes on reimbursements for travel, transportation, and relocation expenses
+### § 5724b. Taxes on reimbursements for travel, transportation, and relocation expenses
 
 **(a)** Under regulations prescribed under section 5738 of this title and to the extent considered necessary and appropriate, as provided therein, appropriations or other funds available to an agency for administrative expenses are available for the reimbursement of substantially all of the Federal, State, and local income taxes incurred by an individual, or by an individual and such individual’s spouse (if filing jointly), for any travel, transportation, or relocation expenses furnished in kind, or for which reimbursement or an allowance is provided (but only to the extent of the expenses paid or incurred). Reimbursements under this subsection shall also include an amount equal to all income taxes for which the individual, or the individual and spouse, as the case may be, would be liable due to the reimbursement for the taxes referred to in the first sentence of this subsection.
 
 **(b)** For purposes of this section, the term “travel, transportation, or relocation expenses” means all travel, transportation, and relocation expenses reimbursed or furnished in kind pursuant to this subchapter or chapter 41.
 
-(Added Pub. L. 98–151, § 118(a)(7)(A)(i), Nov. 14, 1983, 97 Stat. 978; amended Pub. L. 98–473, title I, § 120(b), Oct. 12, 1984, 98 Stat. 1969; Pub. L. 104–201, div. A, title XVII, § 1723(b)(1), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 116–92, div. A, title XI, § 1114(a), Dec. 20, 2019, 133 Stat. 1604; Pub. L. 116–283, div. A, title XI, § 1121(a), Jan. 1, 2021, 134 Stat. 3900.)
+(Added Pub. L. 98–151, § 118(a)(7)(A)(i), Nov. 14, 1983, 97 Stat. 978; amended Pub. L. 98–473, title I, § 120(b), Oct. 12, 1984, 98 Stat. 1969; Pub. L. 104–201, div. A, title XVII, § 1723(b)(1), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 116–92, div. A, title XI, § 1114(a), Dec. 20, 2019, 133 Stat. 1604; Pub. L. 116–283, div. A, title XI, § 1121(a), Jan. 1, 2021, 134 Stat. 3900.)
 
 **Editorial Notes**
 
@@ -1762,11 +1762,11 @@ Amendments by Pub. L. 98–151 to be carried out be agencies by use of funds app
 
 2021—Subsec. (b). Pub. L. 116–283 substituted “and relocation expenses reimbursed” for “or relocation expenses reimbursed” and “or chapter 41” for “of chapter 41”.
 
-2019—Pub. L. 116–92, § 1114(a)(1), struck out “of employees transferred” after “relocation expenses” in section catchline.
+2019—Pub. L. 116–92, § 1114(a)(1), struck out “of employees transferred” after “relocation expenses” in section catchline.
 
-Subsec. (a). Pub. L. 116–92, § 1114(a)(2), substituted “individual, or by an individual and such individual’s spouse (if filing jointly), for any travel, transportation, or relocation” for “employee, or by an employee and such employee’s spouse (if filing jointly), for any moving or storage” and “individual, or the individual” for “employee”.
+Subsec. (a). Pub. L. 116–92, § 1114(a)(2), substituted “individual, or by an individual and such individual’s spouse (if filing jointly), for any travel, transportation, or relocation” for “employee, or by an employee and such employee’s spouse (if filing jointly), for any moving or storage” and “individual, or the individual” for “employee”.
 
-Subsec. (b). Pub. L. 116–92, § 1114(a)(3), added subsec. (b) and struck out former subsec. (b) which read as follows: “For the purposes of this section, ‘moving or storage expenses’ means travel and transportation expenses (including storage of household goods and personal effects under section 5724 of this title) and other relocation expenses under sections 5724a and 5724c of this title.”
+Subsec. (b). Pub. L. 116–92, § 1114(a)(3), added subsec. (b) and struck out former subsec. (b) which read as follows: “For the purposes of this section, ‘moving or storage expenses’ means travel and transportation expenses (including storage of household goods and personal effects under section 5724 of this title) and other relocation expenses under sections 5724a and 5724c of this title.”
 
 1996—Subsec. (a). Pub. L. 104–201 substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
 
@@ -1776,11 +1776,11 @@ Subsec. (b). Pub. L. 116–92, § 1114(a)(3), added subsec. (b) and struck out
 
 **Retroactive Effective Date of 2021 Amendment**
 
-Pub. L. 116–283, div. A, title XI, § 1121(b), Jan. 1, 2021, 134 Stat. 3900, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as if included in the enactment of section 1114 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92).”
+Pub. L. 116–283, div. A, title XI, § 1121(b), Jan. 1, 2021, 134 Stat. 3900, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as if included in the enactment of section 1114 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92).”
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–92, div. A, title XI, § 1114(c), Dec. 20, 2019, 133 Stat. 1604, provided that: “The amendments made by this section [amending this section] shall take effect on January 1, 2018.”
+Pub. L. 116–92, div. A, title XI, § 1114(c), Dec. 20, 2019, 133 Stat. 1604, provided that: “The amendments made by this section [amending this section] shall take effect on January 1, 2018.”
 
 **Effective Date of 1996 Amendment**
 
@@ -1794,11 +1794,11 @@ Enactment by Pub. L. 98–151 and promulgation of regulations for amendments by 
 
 Amendments by Pub. L. 98–151 to be carried out by agencies by use of funds appropriated or otherwise available for administrative expenses of such agencies, and do not authorize appropriation of funds in amounts exceeding sums already authorized to be appropriated for such agencies, see section 118(b) of Pub. L. 98–151, set out as a note under section 5724 of this title.
 
-### § 5724c. Relocation services
+### § 5724c. Relocation services
 
 Under regulations prescribed under section 5738 of this title, each agency may enter into contracts to provide relocation services to agencies and employees for the purpose of carrying out this subchapter. An agency may pay a fee for such services. Such services include arranging for the purchase of a transferred employee’s residence.
 
-(Added Pub. L. 98–151, § 118(a)(7)(A)(i), Nov. 14, 1983, 97 Stat. 978; amended Pub. L. 98–473, title I, § 120(b), Oct. 12, 1984, 98 Stat. 1969; Pub. L. 104–201, div. A, title XVII, § 1713(b), Sept. 23, 1996, 110 Stat. 2754.)
+(Added Pub. L. 98–151, § 118(a)(7)(A)(i), Nov. 14, 1983, 97 Stat. 978; amended Pub. L. 98–473, title I, § 120(b), Oct. 12, 1984, 98 Stat. 1969; Pub. L. 104–201, div. A, title XVII, § 1713(b), Sept. 23, 1996, 110 Stat. 2754.)
 
 **Editorial Notes**
 
@@ -1822,7 +1822,7 @@ Enactment by Pub. L. 98–151 and promulgation of regulations for amendments by 
 
 Amendments by Pub. L. 98–151 to be carried out by agencies by use of funds appropriated or otherwise available for administrative expenses of such agencies, and do not authorize appropriation of funds in amounts exceeding sums already authorized to be appropriated for such agencies, see section 118(b) of Pub. L. 98–151, set out as a note under section 5724 of this title.
 
-### § 5724d. Transportation and moving expenses for immediate family of certain deceased Federal employees
+### § 5724d. Transportation and moving expenses for immediate family of certain deceased Federal employees
 
 **(a) In General.—** Under regulations prescribed by the President, the head of the agency concerned (or a designee) may determine that a covered employee died as a result of personal injury sustained while in the performance of the employee’s duty and authorize or approve the payment by the agency, from Government funds, of—
 
@@ -1854,7 +1854,7 @@ Amendments by Pub. L. 98–151 to be carried out by agencies by use of funds app
 
 **(2)** the term “qualified expense”, as used with respect to an immediate family changing its place of residence, means the transportation expenses of the immediate family, the expenses of moving (including transporting, packing, crating, temporarily storing, draying, and unpacking) the household goods and personal effects of such immediate family, not in excess of 18,000 pounds net weight, and, when authorized or approved by the agency head (or designee), the transportation of 1 privately owned motor vehicle.
 
-(Added Pub. L. 111–178, § 2(a), June 9, 2010, 124 Stat. 1262; amended Pub. L. 116–283, div. C, title XXXI, § 3144, Jan. 1, 2021, 134 Stat. 4387.)
+(Added Pub. L. 111–178, § 2(a), June 9, 2010, 124 Stat. 1262; amended Pub. L. 116–283, div. C, title XXXI, § 3144, Jan. 1, 2021, 134 Stat. 4387.)
 
 **Editorial Notes**
 
@@ -1866,7 +1866,7 @@ Subsec. (c)(1)(D). Pub. L. 116–283 added subpar. (D).
 
 **No Relevance as to Compensation Claims**
 
-Pub. L. 111–178, § 2(b), June 9, 2010, 124 Stat. 1263, provided that: “No determination made under section 5724d of title 5, United States Code, shall be deemed relevant to or be considered in connection with any claim for compensation under chapter 81 of that title or under any other law under which compensation may be provided on account of death or personal injury, nor shall any determination made with respect to any such claim be deemed relevant to or be considered in connection with any request for payment of expenses under such section 5724d.”
+Pub. L. 111–178, § 2(b), June 9, 2010, 124 Stat. 1263, provided that: “No determination made under section 5724d of title 5, United States Code, shall be deemed relevant to or be considered in connection with any claim for compensation under chapter 81 of that title or under any other law under which compensation may be provided on account of death or personal injury, nor shall any determination made with respect to any such claim be deemed relevant to or be considered in connection with any request for payment of expenses under such section 5724d.”
 
 **Executive Documents**
 
@@ -1882,7 +1882,7 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 Barack Obama.
 
-### § 5725. Transportation expenses; employees assigned to danger areas
+### § 5725. Transportation expenses; employees assigned to danger areas
 
 **(a)** When an employee of the Government is on duty, or is transferred or assigned to duty, at a place designated by the head of the agency concerned as inside a zone—
 
@@ -1904,13 +1904,13 @@ because of military or other reasons which create imminent danger to life or pro
 
 **(B)** shall, to the extent practicable, be the same as would apply under regulations prescribed under subsections (c) and (d) of section 453 of title 37 in connection with the transport of family household pets of members of the uniformed services, including regulations relating to the types, size, and number of pets for which such payment or reimbursement may be provided.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 503; Pub. L. 105–264, § 6(6), Oct. 19, 1998, 112 Stat. 2356; Pub. L. 112–239, div. A, title XI, § 1106, Jan. 2, 2013, 126 Stat. 1973; Pub. L. 117–263, div. A, title VI, § 626(b)(2), Dec. 23, 2022, 136 Stat. 2628.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 503; Pub. L. 105–264, § 6(6), Oct. 19, 1998, 112 Stat. 2356; Pub. L. 112–239, div. A, title XI, § 1106, Jan. 2, 2013, 126 Stat. 1973; Pub. L. 117–263, div. A, title VI, § 626(b)(2), Dec. 23, 2022, 136 Stat. 2628.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 73b–1(d). | Sept. 23, 1950, ch. 1010, § 1(c), 64 Stat. 985. |
+|  | 5 U.S.C. 73b–1(d). | Sept. 23, 1950, ch. 1010, § 1(c), 64 Stat. 985. |
 
 The word “employee” is substituted for “civilian officers and employees” in view of the definition of “employee” in sections 5721 and 2105.
 
@@ -1922,13 +1922,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 2022—Subsec. (c)(2)(B). Pub. L. 117–263 substituted “subsections (c) and (d) of section 453” for “section 476(b)(1)(H)(iii)”.
 
-2013—Subsec. (a). Pub. L. 112–239, § 1106(1), substituted “, personal effects, and family household pets,” for “and personal effects,” in concluding provisions.
+2013—Subsec. (a). Pub. L. 112–239, § 1106(1), substituted “, personal effects, and family household pets,” for “and personal effects,” in concluding provisions.
 
-Subsec. (c). Pub. L. 112–239, § 1106(2), added subsec. (c).
+Subsec. (c). Pub. L. 112–239, § 1106(2), added subsec. (c).
 
 1998—Subsec. (a). Pub. L. 105–264 substituted “Government” for “United States” in introductory provisions.
 
-### § 5726. Storage expenses; household goods and personal effects
+### § 5726. Storage expenses; household goods and personal effects
 
 **(a)** For the purpose of subsection (b) of this section, “household goods and personal effects” means such personal property of an employee and his dependents as authorized under regulations prescribed under section 5738 of this title to be transported or stored, including, in emergencies, motor vehicles authorized to be shipped at Government expense.
 
@@ -1942,7 +1942,7 @@ The weight of the household goods and personal effects stored under this subsect
 
 **(c)** Under regulations prescribed under section 5738 of this title, when an employee, including a new appointee and a student trainee to the extent authorized by section 5723 of this title, is assigned to a permanent duty station at an isolated location in the continental United States to which he cannot take or at which he is unable to use his household goods and personal effects because of the absence of residence quarters at the location, nontemporary storage expenses or storage at Government expense in Government-owned facilities (including related transportation and other expenses), whichever is more economical, may be allowed the employee under regulations prescribed by the head of the agency concerned. The weight of property stored under this subsection, together with the weight of property transported under sections 5723(a) and 5724(a) of this title, may not exceed the total maximum weight the employee would be entitled to have moved. The period of nontemporary storage under this subsection may not exceed 3 years.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 504; Pub. L. 90–83, § 1(38), Sept. 11, 1967, 81 Stat. 205; Pub. L. 98–151, § 118(a)(2), Nov. 14, 1983, 97 Stat. 977; Pub. L. 104–201, div. A, title XVII, § 1723(b)(1), (3), Sept. 23, 1996, 110 Stat. 2759.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 504; Pub. L. 90–83, § 1(38), Sept. 11, 1967, 81 Stat. 205; Pub. L. 98–151, § 118(a)(2), Nov. 14, 1983, 97 Stat. 977; Pub. L. 104–201, div. A, title XVII, § 1723(b)(1), (3), Sept. 23, 1996, 110 Stat. 2759.)
 
 **Historical and Revision Notes**
 
@@ -1950,7 +1950,7 @@ The weight of the household goods and personal effects stored under this subsect
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 73b–1(e). | Sept. 6, 1960, Pub. L. 86–707, § 301(c)(2), (d) (as applicable to the Administrative Expenses Act of 1946, as amended), 74 Stat. 796. |
+|  | 5 U.S.C. 73b–1(e). | Sept. 6, 1960, Pub. L. 86–707, § 301(c)(2), (d) (as applicable to the Administrative Expenses Act of 1946, as amended), 74 Stat. 796. |
 
 The word “employee” is substituted for “civilian officer or employee” in view of the definition of “employee” in sections 5721 and 2105.
 
@@ -1962,7 +1962,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 | *Section of title 5* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5726(c) | 5 App.: 73b–4c. | July 21, 1966, Pub. L. 89–516, § 2 “Sec. 25”, 80 Stat. 324. |
+| 5726(c) | 5 App.: 73b–4c. | July 21, 1966, Pub. L. 89–516, § 2 “Sec. 25”, 80 Stat. 324. |
 
 The amendment of subsection (a) of 5 U.S.C. 5726 reflects the addition of a new subsection (c).
 
@@ -1976,9 +1976,9 @@ Subsection (b) of section 25 of the Administrative Expenses Act of 1946 (added b
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–201, § 1723(b)(3), substituted “as authorized under regulations prescribed under section 5738 of this title” for “as the President may by regulation authorize”.
+1996—Subsec. (a). Pub. L. 104–201, § 1723(b)(3), substituted “as authorized under regulations prescribed under section 5738 of this title” for “as the President may by regulation authorize”.
 
-Subsecs. (b), (c). Pub. L. 104–201, § 1723(b)(1), substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
+Subsecs. (b), (c). Pub. L. 104–201, § 1723(b)(1), substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
 
 1983—Subsec. (b). Pub. L. 98–151 substituted “18,000” for “11,000”.
 
@@ -1996,7 +1996,7 @@ Amendment by Pub. L. 98–151 and promulgation of regulations for amendments by 
 
 Amendments by Pub. L. 98–151 to be carried out by agencies by use of funds appropriated or otherwise available for administrative expenses of such agencies, and do not authorize appropriation of funds in amounts exceeding sums already authorized to be appropriated for such agencies, see section 118(b) of Pub. L. 98–151, set out as a note under section 5724 of this title.
 
-### § 5727. Transportation of motor vehicles
+### § 5727. Transportation of motor vehicles
 
 **(a)** Except as specifically authorized by statute, an authorization in a statute or regulation to transport the effects of an employee or other individual at Government expense is not an authorization to transport an automobile.
 
@@ -2026,17 +2026,17 @@ Amendments by Pub. L. 98–151 to be carried out by agencies by use of funds app
 
 **(2)** This section, except subsection (a), does not affect section 403e(4) of title 50.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 504; Pub. L. 96–465, title II, § 2314(e), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 104–201, div. A, title XVII, §§ 1715(a), 1723(b)(1), Sept. 23, 1996, 110 Stat. 2755, 2759; Pub. L. 105–264, § 6(7), Oct. 19, 1998, 112 Stat. 2356.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 504; Pub. L. 96–465, title II, § 2314(e), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 104–201, div. A, title XVII, §§ 1715(a), 1723(b)(1), Sept. 23, 1996, 110 Stat. 2755, 2759; Pub. L. 105–264, § 6(7), Oct. 19, 1998, 112 Stat. 2356.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a) | 5 U.S.C. 73c. | June 30, 1932, ch. 314, § 209, 47 Stat. 405. Apr. 30, 1940, ch. 172, 54 Stat. 174. |
-|  |  | Aug. 13, 1946, ch. 957, § 1131(64), 60 Stat. Stat. 1040. |
-| (b)–(e) | 5 U.S.C. 73b–1(f). | Sept. 6, 1960, Pub. L. 86–707, § 321, 74 Stat. 797. Feb. 5, 1964, Pub. L. 88–266, 78 Stat. 8. |
+| (a) | 5 U.S.C. 73c. | June 30, 1932, ch. 314, § 209, 47 Stat. 405. Apr. 30, 1940, ch. 172, 54 Stat. 174. |
+|  |  | Aug. 13, 1946, ch. 957, § 1131(64), 60 Stat. Stat. 1040. |
+| (b)–(e) | 5 U.S.C. 73b–1(f). | Sept. 6, 1960, Pub. L. 86–707, § 321, 74 Stat. 797. Feb. 5, 1964, Pub. L. 88–266, 78 Stat. 8. |
 
 In subsection (a), the proviso in former section 73c is omitted as superseded by section 2634 of title 10, and by former section 73b–1(f), which is carried into subsections (b)–(e).
 
@@ -2056,17 +2056,17 @@ Section 403e of title 50, referred to in subsec. (f)(2), was editorially reclass
 
 1998—Subsec. (d). Pub. L. 105–264 substituted “continental United States” for “United States”.
 
-1996—Subsec. (b). Pub. L. 104–201, § 1723(b)(1), in introductory provisions, substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
+1996—Subsec. (b). Pub. L. 104–201, § 1723(b)(1), in introductory provisions, substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
 
-Subsec. (c). Pub. L. 104–201, § 1715(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 104–201, § 1715(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 104–201, § 1715(a)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 104–201, § 1715(a)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 104–201, § 1715(a)(3), inserted “or (c)” after “subsection (b)”.
+Subsec. (e). Pub. L. 104–201, § 1715(a)(3), inserted “or (c)” after “subsection (b)”.
 
-Pub. L. 104–201, § 1715(a)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Pub. L. 104–201, § 1715(a)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 104–201, § 1715(a)(1), redesignated subsec. (e) as (f).
+Subsec. (f). Pub. L. 104–201, § 1715(a)(1), redesignated subsec. (e) as (f).
 
 1980—Subsec. (e)(2). Pub. L. 96–465 substituted “section 403e(4) of title 50” for “(A) section 1138 of title 22; or” and struck out “(B) section 403e(4) of title 50”.
 
@@ -2080,7 +2080,7 @@ Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see sect
 
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
 
-### § 5728. Travel and transportation expenses; vacation leave
+### § 5728. Travel and transportation expenses; vacation leave
 
 **(a)** Under regulations prescribed under section 5738 of this title, an agency shall pay from its appropriations the expenses of round-trip travel of an employee, and the transportation of his immediate family, but not household goods, from his post of duty outside the continental United States, Alaska, and Hawaii to the place of his actual residence at the time of appointment or transfer to the post of duty, after he has satisfactorily completed an agreed period of service outside the continental United States, Alaska, and Hawaii and is returning to his actual place of residence to take leave before serving another tour of duty at the same or another post of duty outside the continental United States, Alaska, and Hawaii under a new written agreement made before departing from the post of duty.
 
@@ -2096,7 +2096,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 **(d)** This section does not apply to appropriations for the Foreign Service of the United States.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 505; Pub. L. 97–253, title III, § 351(a), (b), Sept. 8, 1982, 96 Stat. 800; Pub. L. 104–201, div. A, title XVII, § 1723(b)(1), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 105–264, § 6(8), Oct. 19, 1998, 112 Stat. 2356.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 505; Pub. L. 97–253, title III, § 351(a), (b), Sept. 8, 1982, 96 Stat. 800; Pub. L. 104–201, div. A, title XVII, § 1723(b)(1), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 105–264, § 6(8), Oct. 19, 1998, 112 Stat. 2356.)
 
 **Historical and Revision Notes**
 
@@ -2115,11 +2115,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1998—Subsec. (b). Pub. L. 105–264 substituted “an employee of the Government” for “an employee of the United States”.
 
-1996—Subsecs. (a) to (c)(1). Pub. L. 104–201, § 1723(b)(1), substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
+1996—Subsecs. (a) to (c)(1). Pub. L. 104–201, § 1723(b)(1), substituted “Under regulations prescribed under section 5738 of this title” for “Under such regulations as the President may prescribe”.
 
-1982—Subsecs. (a), (b). Pub. L. 97–253, § 351(a), inserted “, Alaska, and Hawaii” after “continental United States” wherever appearing.
+1982—Subsecs. (a), (b). Pub. L. 97–253, § 351(a), inserted “, Alaska, and Hawaii” after “continental United States” wherever appearing.
 
-Subsecs. (c), (d). Pub. L. 97–253, § 351(b), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 97–253, § 351(b), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2129,7 +2129,7 @@ Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see sect
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–253, title III, § 351(c), (d), Sept. 8, 1982, 96 Stat. 800, as amended by Pub. L. 97–346, § 3(m), Oct. 15, 1982, 96 Stat. 1649, provided that:
+Pub. L. 97–253, title III, § 351(c), (d), Sept. 8, 1982, 96 Stat. 800, as amended by Pub. L. 97–346, § 3(m), Oct. 15, 1982, 96 Stat. 1649, provided that:
 
 > **“(c)**
 
@@ -2143,7 +2143,7 @@ Pub. L. 97–253, title III, § 351(c), (d), Sept. 8, 1982, 96 Stat. 800, as a
 
 > **“(d)** For the purposes of subsection (c), the term ‘employee’ shall have the same meaning as provided in section 5721(2) of title 5, United States Code.”
 
-### § 5729. Transportation expenses; prior return of family
+### § 5729. Transportation expenses; prior return of family
 
 **(a)** Under regulations prescribed under section 5738 of this title, an agency shall pay from its appropriations, not more than once before the return to the United States of an employee whose post of duty is outside the continental United States, the expenses of transporting his immediate family and of shipping his household goods and personal effects from his post of duty to his actual place of residence when—
 
@@ -2159,7 +2159,7 @@ Pub. L. 97–253, title III, § 351(c), (d), Sept. 8, 1982, 96 Stat. 800, as a
 
 **(c)** This section does not apply to appropriations for the Foreign Service of the United States.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 505; Pub. L. 104–201, div. A, title XVII, § 1723(b)(1), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 105–264, § 6(9), Oct. 19, 1998, 112 Stat. 2356.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 505; Pub. L. 104–201, div. A, title XVII, § 1723(b)(1), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 105–264, § 6(9), Oct. 19, 1998, 112 Stat. 2356.)
 
 **Historical and Revision Notes**
 
@@ -2185,7 +2185,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 104–201, set out as a note under section 5722 of this title.
 
-### § 5730. Funds available
+### § 5730. Funds available
 
 Funds available for travel expenses of an employee are available for expenses of transportation of his immediate family, and funds available for transportation of things are available for transportation of household goods and personal effects, as authorized by this subchapter.
 
@@ -2195,11 +2195,11 @@ Funds available for travel expenses of an employee are available for expenses of
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 73b–1(c). | Aug. 2, 1946, ch. 744, § 1(c). 60 Stat. 807. |
+|  | 5 U.S.C. 73b–1(c). | Aug. 2, 1946, ch. 744, § 1(c). 60 Stat. 807. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### § 5731. Expenses limited to lowest first-class rate
+### § 5731. Expenses limited to lowest first-class rate
 
 **(a)** The allowance for actual expenses for transportation may not exceed the lowest first-class rate by the transportation facility used unless it is certified, in accordance with regulations prescribed under section 5738 of this title, that—
 
@@ -2209,15 +2209,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **(b)** Instead of the maximum fixed by subsection (a) of this section, the allowance to an employee of the Government for actual expenses for transportation on an inter-island steamship in Hawaii may not exceed the rate for accommodations on the steamship that is equivalent as nearly as possible to the rate for the lowest first-class accommodations on trans-pacific steamships.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 506; Pub. L. 104–201, div. A, title XVII, § 1723(b)(4), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 105–264, § 6(10), Oct. 19, 1998, 112 Stat. 2356.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 506; Pub. L. 104–201, div. A, title XVII, § 1723(b)(4), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 105–264, § 6(10), Oct. 19, 1998, 112 Stat. 2356.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a) | 5 U.S.C. 73b. | Mar. 3, 1933, ch. 212, § 10, 47 Stat. 1516. |
-|  |  | Aug. 2, 1946, ch. 744, § 6, 60 Stat. 808. |
-| (b) | 5 U.S.C. 73e. | May 28, 1938, ch. 289, § 811, 52 Stat. 577. |
+| (a) | 5 U.S.C. 73b. | Mar. 3, 1933, ch. 212, § 10, 47 Stat. 1516. |
+|  |  | Aug. 2, 1946, ch. 744, § 6, 60 Stat. 808. |
+| (b) | 5 U.S.C. 73e. | May 28, 1938, ch. 289, § 811, 52 Stat. 577. |
 
 In subsection (a), the words “by or under authority of law” are omitted as surplusage.
 
@@ -2239,7 +2239,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 104–201, set out as a note under section 5722 of this title.
 
-### § 5732. General average contribution; payment or reimbursement
+### § 5732. General average contribution; payment or reimbursement
 
 Under such regulations as the President may prescribe, appropriations chargeable for the transportation of baggage and household goods and personal effects of employees of the Government, volunteers as defined by section 8142(a) of this title, and members of the uniformed services are available for the payment or reimbursement of general average contributions required. Appropriations are not available for the payment or reimbursement of general average contributions—
 
@@ -2249,14 +2249,14 @@ Under such regulations as the President may prescribe, appropriations chargeable
 
 **(3)** when the individual concerned selected the means of shipment.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 506; Pub. L. 105–264, § 6(11), Oct. 19, 1998, 112 Stat. 2356.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 506; Pub. L. 105–264, § 6(11), Oct. 19, 1998, 112 Stat. 2356.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 73b–5. | June 4, 1954, ch. 264, § 4, 68 Stat. 176. |
-|  | 22 U.S.C. 2504(h) (as applicable to 5 U.S.C. 73b–5). | Dec. 13, 1963, Pub. L. 88–200, § 2(e) (as applicable to the Act of June 4, 1954, ch. 264, § 4 (5 U.S.C. 73b–5)), 77 Stat. 360. |
+|  | 5 U.S.C. 73b–5. | June 4, 1954, ch. 264, § 4, 68 Stat. 176. |
+|  | 22 U.S.C. 2504(h) (as applicable to 5 U.S.C. 73b–5). | Dec. 13, 1963, Pub. L. 88–200, § 2(e) (as applicable to the Act of June 4, 1954, ch. 264, § 4 (5 U.S.C. 73b–5)), 77 Stat. 360. |
 
 The word “personal” is added before the word “effects” for clarity and to preserve consistency throughout this subchapter. The words “employees of the United States . . . and members of the uniformed services” are substituted for “military personnel and civilian employees of departments and agencies of the Federal Government”. The words “a volunteer as defined by section 8142(a) of this title” are based on sections 2504(a), 2505, and 2507 (a) of title 22. The words “pursuant to law” are omitted as unnecessary.
 
@@ -2302,11 +2302,11 @@ Sec. 4. *Effective date*. This order shall be effective in any case in which the
 
 Dwight D. Eisenhower.
 
-### § 5733. Expeditious travel
+### § 5733. Expeditious travel
 
 The travel of an employee shall be by the most expeditious means of transportation practicable and shall be commensurate with the nature and purpose of the duties of the employee requiring such travel.
 
-(Added Pub. L. 90–206, title II, § 222(c)(1), Dec. 16, 1967, 81 Stat. 641.)
+(Added Pub. L. 90–206, title II, § 222(c)(1), Dec. 16, 1967, 81 Stat. 641.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2314,11 +2314,11 @@ The travel of an employee shall be by the most expeditious means of transportati
 
 Section effective thirty days after Dec. 16, 1967, see section 220(a)(4) of Pub. L. 90–206, set out as an Effective Date of 1967 Amendment note under section 5542 of this title.
 
-### § 5734. Travel, transportation, and relocation expenses of employees transferred from the Postal Service
+### § 5734. Travel, transportation, and relocation expenses of employees transferred from the Postal Service
 
 Notwithstanding the provisions of any other law, officers and employees of the United States Postal Service promoted or transferred under section 1006 of title 39, United States Code, from the Postal Service to an agency (as defined in section 5721 of this title), for permanent duty may be authorized travel, transportation, and relocation expenses and allowances under the same conditions and to the same extent authorized by this subchapter for other transferred employees within the meaning of this chapter.
 
-(Added Pub. L. 99–234, title I, § 106(a), Jan. 2, 1986, 99 Stat. 1758.)
+(Added Pub. L. 99–234, title I, § 106(a), Jan. 2, 1986, 99 Stat. 1758.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2326,7 +2326,7 @@ Notwithstanding the provisions of any other law, officers and employees of the U
 
 Section effective (1) on effective date of regulations to be promulgated not later than 150 days after Jan. 2, 1986, or (2) 180 days after Jan. 2, 1986, whichever occurs first, see section 301(a) of Pub. L. 99–234, set out as an Effective Date of 1986 Amendment note under section 5701 of this title.
 
-### § 5735. Travel, transportation, and relocation expenses of employees transferring to the United States Postal Service
+### § 5735. Travel, transportation, and relocation expenses of employees transferring to the United States Postal Service
 
 **(a) In General.—** Notwithstanding any other provision of law, employees of the Department of Defense described in subsection (b) may be authorized travel, transportation, and relocation expenses and allowances in connection with appointments referred to in such subsection under the same conditions and to the same extent authorized by this subchapter for transferred employees.
 
@@ -2338,31 +2338,31 @@ Section effective (1) on effective date of regulations to be promulgated not lat
 
 **(3)** accepts the appointment.
 
-(Added Pub. L. 103–337, div. A, title III, § 345(a)(1), Oct. 5, 1994, 108 Stat. 2723.)
+(Added Pub. L. 103–337, div. A, title III, § 345(a)(1), Oct. 5, 1994, 108 Stat. 2723.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 103–337, div. A, title III, § 345(b), Oct. 5, 1994, 108 Stat. 2724, provided that: “The amendments made by subsection (a) [enacting this section] shall apply to persons separated from employment with the Department of Defense on or after the date of the enactment of this Act [Oct. 5, 1994].”
+Pub. L. 103–337, div. A, title III, § 345(b), Oct. 5, 1994, 108 Stat. 2724, provided that: “The amendments made by subsection (a) [enacting this section] shall apply to persons separated from employment with the Department of Defense on or after the date of the enactment of this Act [Oct. 5, 1994].”
 
-### § 5736. Travel, transportation, and relocation expenses of certain nonappropriated fund employees
+### § 5736. Travel, transportation, and relocation expenses of certain nonappropriated fund employees
 
 An employee of a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard described in section 2105(c) of this title who moves, without a break in service of more than 3 days, to a position in the Department of Defense or the Coast Guard, respectively, may be authorized travel, transportation, and relocation expenses and allowances under the same conditions and to the same extent authorized by this subchapter for transferred employees.
 
-(Added Pub. L. 104–201, div. A, title XVI, § 1605(a)(1), Sept. 23, 1996, 110 Stat. 2736.)
+(Added Pub. L. 104–201, div. A, title XVI, § 1605(a)(1), Sept. 23, 1996, 110 Stat. 2736.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 104–201, div. A, title XVI, § 1605(b), Sept. 23, 1996, 110 Stat. 2736, provided that: “Section 5736 of title 5, United States Code (as added by subsection (a)(1)), shall apply to moves between positions as described in such section that are effective on or after October 1, 1996.”
+Pub. L. 104–201, div. A, title XVI, § 1605(b), Sept. 23, 1996, 110 Stat. 2736, provided that: “Section 5736 of title 5, United States Code (as added by subsection (a)(1)), shall apply to moves between positions as described in such section that are effective on or after October 1, 1996.”
 
 **Transfer of Functions**
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 5737. Relocation expenses of an employee who is performing an extended assignment
+### § 5737. Relocation expenses of an employee who is performing an extended assignment
 
 **(a)** Under regulations prescribed under section 5738 of this title, an agency may pay to or on behalf of an employee assigned from the employee’s official station to a duty station for a period of not less than six months and not greater than 30 months, the following expenses in lieu of payment of expenses authorized under subchapter I of this chapter:
 
@@ -2378,7 +2378,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(6)** An amount, in accordance with section 5724a(f), to be used by the employee for miscellaneous expenses of this title.1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 **(7)** The expenses of transporting a privately owned motor vehicle or vehicles to the assignment location in accordance with section 5727 of this title.
 
@@ -2390,7 +2390,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(b)** An agency shall not make payment under this section to or on behalf of the employee for expenses incurred after termination of the temporary assignment.
 
-(Added Pub. L. 104–201, div. A, title XVII, § 1716, Sept. 23, 1996, 110 Stat. 2756.)
+(Added Pub. L. 104–201, div. A, title XVII, § 1716, Sept. 23, 1996, 110 Stat. 2756.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2398,7 +2398,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Section effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under section 5722 of this title.
 
-### § 5737a. Employees temporarily deployed in contingency operations
+### § 5737a. Employees temporarily deployed in contingency operations
 
 **(a) Definitions.—** For purposes of this section—
 
@@ -2426,9 +2426,9 @@ Section effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 
 
 **(d) Relationship to Other Benefits.—** Any benefits under this section shall be in addition to (and not in lieu of) any other benefits for which the covered employee is otherwise eligible.
 
-(Added Pub. L. 110–181, div. A, title XI, § 1104(a), Jan. 28, 2008, 122 Stat. 346.)
+(Added Pub. L. 110–181, div. A, title XI, § 1104(a), Jan. 28, 2008, 122 Stat. 346.)
 
-### § 5738. Regulations
+### § 5738. Regulations
 
 **(a)**
 
@@ -2440,7 +2440,7 @@ Section effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 
 
 **(c)** The Secretary of Defense shall prescribe regulations necessary for the implementation of section 5735 of this title.
 
-(Added Pub. L. 104–201, div. A, title XVII, § 1722, Sept. 23, 1996, 110 Stat. 2758.)
+(Added Pub. L. 104–201, div. A, title XVII, § 1722, Sept. 23, 1996, 110 Stat. 2758.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2448,7 +2448,7 @@ Section effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 
 
 Section effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under section 5722 of this title.
 
-### § 5739. Authority for relocation expenses test programs
+### § 5739. Authority for relocation expenses test programs
 
 **(a)**
 
@@ -2478,39 +2478,39 @@ Section effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 
 
 **(C)** The Administrator may exercise more than 1 extension under subparagraph (A) with respect to any test program.
 
-(Added Pub. L. 105–264, § 5(b), Oct. 19, 1998, 112 Stat. 2355; amended Pub. L. 109–325, § 1(a), Oct. 11, 2006, 120 Stat. 1760; Pub. L. 111–112, § 1(a), Nov. 30, 2009, 123 Stat. 3024.)
+(Added Pub. L. 105–264, § 5(b), Oct. 19, 1998, 112 Stat. 2355; amended Pub. L. 109–325, § 1(a), Oct. 11, 2006, 120 Stat. 1760; Pub. L. 111–112, § 1(a), Nov. 30, 2009, 123 Stat. 3024.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2009—Subsec. (a)(3). Pub. L. 111–112, § 1(a)(1), struck out par. (3) which read as follows: “Nothing in this section is intended to limit the authority of any agency to conduct test programs.”
+2009—Subsec. (a)(3). Pub. L. 111–112, § 1(a)(1), struck out par. (3) which read as follows: “Nothing in this section is intended to limit the authority of any agency to conduct test programs.”
 
-Subsec. (b). Pub. L. 111–112, § 1(a)(2), inserted “or extended” after “approved” and “or extension” after “of the program”.
+Subsec. (b). Pub. L. 111–112, § 1(a)(2), inserted “or extended” after “approved” and “or extension” after “of the program”.
 
-Subsec. (c). Pub. L. 111–112, § 1(a)(3), added subsec. (c) and struck out former subsec. (c) which read as follows: “An agency authorized to conduct a test program under subsection (a) shall provide to the Administrator and the appropriate committees of the Congress a report on the results of the program no later than 3 months after completion of the program.”
+Subsec. (c). Pub. L. 111–112, § 1(a)(3), added subsec. (c) and struck out former subsec. (c) which read as follows: “An agency authorized to conduct a test program under subsection (a) shall provide to the Administrator and the appropriate committees of the Congress a report on the results of the program no later than 3 months after completion of the program.”
 
-Subsec. (d). Pub. L. 111–112, § 1(a)(4), substituted “12” for “10”.
+Subsec. (d). Pub. L. 111–112, § 1(a)(4), substituted “12” for “10”.
 
-Subsec. (e). Pub. L. 111–112, § 1(a)(5), added subsec. (e) and struck out former subsec. (e) which read as follows: “The authority to conduct test programs under this section shall expire 11 years after the date of the enactment of the Travel and Transportation Reform Act of 1998.”
+Subsec. (e). Pub. L. 111–112, § 1(a)(5), added subsec. (e) and struck out former subsec. (e) which read as follows: “The authority to conduct test programs under this section shall expire 11 years after the date of the enactment of the Travel and Transportation Reform Act of 1998.”
 
-2006—Subsec. (a)(1). Pub. L. 109–325, § 1(a)(1), struck out “for a period not to exceed 24 months” after “disbursing official”.
+2006—Subsec. (a)(1). Pub. L. 109–325, § 1(a)(1), struck out “for a period not to exceed 24 months” after “disbursing official”.
 
-Subsec. (e). Pub. L. 109–325, § 1(a)(2), substituted “11 years” for “7 years”.
+Subsec. (e). Pub. L. 109–325, § 1(a)(2), substituted “11 years” for “7 years”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–112, § 1(b), Nov. 30, 2009, 123 Stat. 3025, provided that: “This section [amending this section] shall take effect on December 18, 2009.”
+Pub. L. 111–112, § 1(b), Nov. 30, 2009, 123 Stat. 3025, provided that: “This section [amending this section] shall take effect on December 18, 2009.”
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–325, § 1(b), Oct. 11, 2006, 120 Stat. 1760, provided that: “The amendments made by this section [amending this section] shall take effect as though enacted as part of the Travel and Transportation Reform Act of 1998 (Public Law 105–264; 112 Stat. 2350).”
+Pub. L. 109–325, § 1(b), Oct. 11, 2006, 120 Stat. 1760, provided that: “The amendments made by this section [amending this section] shall take effect as though enacted as part of the Travel and Transportation Reform Act of 1998 (Public Law 105–264; 112 Stat. 2350).”
 
 ## SUBCHAPTER III—TRANSPORTATION OF REMAINS, DEPENDENTS, AND EFFECTS
 
-### § 5741. General prohibition
+### § 5741. General prohibition
 
 Except as specifically authorized by statute, the head of an Executive department or military department may not authorize an expenditure in connection with the transportation of remains of a deceased employee.
 
@@ -2520,13 +2520,13 @@ Except as specifically authorized by statute, the head of an Executive departmen
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 103. | June 7, 1897, ch. 3, § 1 (last proviso on p. 86), 30 Stat. 86. |
+|  | 5 U.S.C. 103. | June 7, 1897, ch. 3, § 1 (last proviso on p. 86), 30 Stat. 86. |
 
 The words “a military department” are inserted to preserve the application of the source law. Before enactment of the National Security Act Amendments of 1949 (63 Stat. 578), the Department of the Army, the Department of the Navy, and the Department of the Air Force were Executive departments. The National Security Act Amendments of 1949 established the Department of Defense as an Executive Department including the Department of the Army, the Department of the Navy, and the Department of the Air Force as military departments, not as Executive departments. However, the source law for this section, which was in effect in 1949, remained applicable to the Secretaries of the military departments by virtue of section 12(g) of the National Security Act Amendments of 1949 (63 Stat. 591), which is set out in the reviser’s note for section 301.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### § 5742. Transportation of remains, dependents, and effects; death occurring away from official station or abroad
+### § 5742. Transportation of remains, dependents, and effects; death occurring away from official station or abroad
 
 **(a)** For the purpose of this section, “agency” means—
 
@@ -2556,9 +2556,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **(aa)** in an overseas location that, at the time such employee was performing such official duties, was within the area of responsibility of the Commander of the United States Central Command; and
 
-**(bb)** in direct support of or directly related to a military operation, including a contingency operation (as defined in section 101(13) 1
+**(bb)** in direct support of or directly related to a military operation, including a contingency operation (as defined in section 101(13) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 10) or an operation in response to an emergency declared by the President; and
 
@@ -2578,14 +2578,14 @@ Reimbursement for the cost of mortuary services and supplies furnished under thi
 
 **(e)** Employees covered by this section include an employee who has been reassigned away from the employee’s home of record pursuant to a mandatory mobility agreement executed as a condition of employment.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 507; Pub. L. 101–510, div. A, title XII, § 1206(d), Nov. 5, 1990, 104 Stat. 1661; Pub. L. 105–277, div. A, § 101(d) [title V, § 589(b)], Oct. 21, 1998, 112 Stat. 2681–150, 2681–210; Pub. L. 110–181, div. A, title XI, § 1103(a), Jan. 28, 2008, 122 Stat. 346.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 507; Pub. L. 101–510, div. A, title XII, § 1206(d), Nov. 5, 1990, 104 Stat. 1661; Pub. L. 105–277, div. A, § 101(d) [title V, § 589(b)], Oct. 21, 1998, 112 Stat. 2681–150, 2681–210; Pub. L. 110–181, div. A, title XI, § 1103(a), Jan. 28, 2008, 122 Stat. 346.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a)–(c) | 5 U.S.C. 103a. | July 8, 1940, ch. 551, § 1, 54 Stat. 743. July 15, 1954, ch. 507, § 7(b), 68 Stat. 479. |
-| (d) | 5 U.S.C. 103b. | July 8, 1940, ch. 551, § 2, 54 Stat. 744. |
+| (a)–(c) | 5 U.S.C. 103a. | July 8, 1940, ch. 551, § 1, 54 Stat. 743. July 15, 1954, ch. 507, § 7(b), 68 Stat. 479. |
+| (d) | 5 U.S.C. 103b. | July 8, 1940, ch. 551, § 2, 54 Stat. 744. |
 
 Subsection (a) is based on the words “department, independent establishment, agency, or federally owned or controlled corporation, hereinafter called department” in former section 103a. The terms “Executive agency” and “military department” include a department, independent establishment, agency, or federally owned or controlled corporation in the executive branch because of the definitions in sections 105 and 102.
 
@@ -2607,19 +2607,19 @@ Section 101 of title 10, referred to in subsec. (b)(2)(B)(ii)(I)(bb), was subseq
 
 1998—Subsec. (b)(3). Pub. L. 105–277 added par. (3).
 
-1990—Subsec. (b)(1), (2). Pub. L. 101–510, § 1206(d)(1), inserted “continental” after “outside the”.
+1990—Subsec. (b)(1), (2). Pub. L. 101–510, § 1206(d)(1), inserted “continental” after “outside the”.
 
-Subsec. (e). Pub. L. 101–510, § 1206(d)(2), added subsec. (e).
+Subsec. (e). Pub. L. 101–510, § 1206(d)(2), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–181, div. A, title XI, § 1103(b), Jan. 28, 2008, 122 Stat. 346, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to deaths occurring on or after the date of the enactment of this Act [Jan. 28, 2008].”
+Pub. L. 110–181, div. A, title XI, § 1103(b), Jan. 28, 2008, 122 Stat. 346, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to deaths occurring on or after the date of the enactment of this Act [Jan. 28, 2008].”
 
 **Travel to United States for Immediate Family of Employees Serving Abroad**
 
-Pub. L. 110–161, div. D, title VII, § 701, Dec. 26, 2007, 121 Stat. 2019, provided that: “Hereafter, funds appropriated in this or any other Act may be used to pay travel to the United States for the immediate family of employees serving abroad in cases of death or life threatening illness of said employee.”
+Pub. L. 110–161, div. D, title VII, § 701, Dec. 26, 2007, 121 Stat. 2019, provided that: “Hereafter, funds appropriated in this or any other Act may be used to pay travel to the United States for the immediate family of employees serving abroad in cases of death or life threatening illness of said employee.”
 
 **Executive Documents**
 
@@ -2635,15 +2635,15 @@ Authority of President under subsec. (e) of this section delegated to Office of 
 
 **Amendments**
 
-1970—Pub. L. 91–563, § 4(a), Dec. 19, 1970, 84 Stat. 1477, added heading of Subchapter IV.
+1970—Pub. L. 91–563, § 4(a), Dec. 19, 1970, 84 Stat. 1477, added heading of Subchapter IV.
 
-### § 5751. Travel expenses of witnesses
+### § 5751. Travel expenses of witnesses
 
 **(a)** Under such regulations as the Attorney General may prescribe, an employee as defined by section 2105 of this title (except an individual whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives) summoned, or assigned by his agency, to testify or produce official records on behalf of the United States is entitled to travel expenses under subchapter I of this chapter. If the case involves the activity in connection with which he is employed, the travel expenses are paid from the appropriation otherwise available for travel expenses of the employee under proper certification by a certifying official of the agency concerned. If the case does not involve its activity, the employing agency may advance or pay the travel expenses of the employee, and later obtain reimbursement from the agency properly chargeable with the travel expenses.
 
 **(b)** An employee as defined by section 2105 of this title (except an individual whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives) summoned, or assigned by his agency, to testify in his official capacity or produce official records, on behalf of a party other than the United States, is entitled to travel expenses under subchapter I of this chapter, except to the extent that travel expenses are paid to the employee for his appearance by the court, authority, or party which caused him to be summoned.
 
-(Added Pub. L. 91–563, § 4(a), Dec. 19, 1970, 84 Stat. 1477; amended Pub. L. 104–186, title II, § 215(9), Aug. 20, 1996, 110 Stat. 1746.)
+(Added Pub. L. 91–563, § 4(a), Dec. 19, 1970, 84 Stat. 1477; amended Pub. L. 104–186, title II, § 215(9), Aug. 20, 1996, 110 Stat. 1746.)
 
 **Editorial Notes**
 
@@ -2651,11 +2651,11 @@ Authority of President under subsec. (e) of this section delegated to Office of 
 
 1996—Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk” in subsecs. (a) and (b).
 
-### § 5752. Travel expenses of Senior Executive Service candidates
+### § 5752. Travel expenses of Senior Executive Service candidates
 
 Employing agencies may pay candidates for Senior Executive Service positions travel expenses incurred incident to preemployment interviews requested by the employing agency.
 
-(Added Pub. L. 95–454, title IV, § 409(b), Oct. 13, 1978, 92 Stat. 1173.)
+(Added Pub. L. 95–454, title IV, § 409(b), Oct. 13, 1978, 92 Stat. 1173.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2663,7 +2663,7 @@ Employing agencies may pay candidates for Senior Executive Service positions tra
 
 Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b) of Pub. L. 95–454, set out as an Effective Date note under section 3131 of this title.
 
-### § 5753. Recruitment and relocation bonuses
+### § 5753. Recruitment and relocation bonuses
 
 **(a)**
 
@@ -2747,7 +2747,7 @@ Nothing in this subsection shall be considered to permit the waiver of any requi
 
 **(g)** The Office may prescribe regulations to carry out this section, including regulations relating to the repayment of a bonus under this section in appropriate circumstances when the agreed-upon service period has not been completed.
 
-(Added Pub. L. 108–411, title I, § 101(a)(1), Oct. 30, 2004, 118 Stat. 2305; amended Pub. L. 114–323, title IV, § 412(1), Dec. 16, 2016, 130 Stat. 1932.)
+(Added Pub. L. 108–411, title I, § 101(a)(1), Oct. 30, 2004, 118 Stat. 2305; amended Pub. L. 114–323, title IV, § 412(1), Dec. 16, 2016, 130 Stat. 1932.)
 
 **Editorial Notes**
 
@@ -2757,17 +2757,17 @@ The General Schedule, referred to in subsec. (a)(1)(A), is set out under section
 
 **Prior Provisions**
 
-A prior section 5753, added Pub. L. 101–509, title V, § 529 [title II, § 208(a)], Nov. 5, 1990, 104 Stat. 1427, 1458, which related to recruitment and relocation bonuses, was repealed by Pub. L. 108–411, title I, § 101(a)(1), Oct. 30, 2004, 118 Stat. 2305.
+A prior section 5753, added Pub. L. 101–509, title V, § 529 [title II, § 208(a)], Nov. 5, 1990, 104 Stat. 1427, 1458, which related to recruitment and relocation bonuses, was repealed by Pub. L. 108–411, title I, § 101(a)(1), Oct. 30, 2004, 118 Stat. 2305.
 
 **Amendments**
 
-2016—Subsec. (a)(2)(A). Pub. L. 114–323 inserted “, excluding members of the Foreign Service other than chiefs of mission and ambassadors at large” before semicolon at end.
+2016—Subsec. (a)(2)(A). Pub. L. 114–323 inserted “, excluding members of the Foreign Service other than chiefs of mission and ambassadors at large” before semicolon at end.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 108–411, title I, § 101(d), Oct. 30, 2004, 118 Stat. 2310, provided that:
+Pub. L. 108–411, title I, § 101(d), Oct. 30, 2004, 118 Stat. 2310, provided that:
 
 > **“(1) Effective date.—** Except as provided under paragraphs (2) and (3), this section [enacting this section and section 5754 of this title, repealing former sections 5753 and 5754 of this title, and amending provisions set out as a note under section 5305 of this title] shall take effect on the first day of the first applicable pay period beginning on or after the 180th day after the date of the enactment of this Act [Oct. 30, 2004].
 
@@ -2777,15 +2777,15 @@ Pub. L. 108–411, title I, § 101(d), Oct. 30, 2004, 118 Stat. 2310, provided
 
 **Incentives for Critical Posts**
 
-Pub. L. 111–32, title XI, § 1115(d), June 24, 2009, 123 Stat. 1906, as amended by Pub. L. 117–81, div. E, title LIII, § 5315, Dec. 27, 2021, 135 Stat. 2366, provided that: “Notwithstanding sections 5753(a)(2)(A) and 5754(a)(2)(A) of title 5, United States Code, appropriations made available by this or any other Act may be used to pay recruitment, relocation, and retention bonuses under chapter 57 of title 5, United States Code[,] to members of the Foreign Service, other than chiefs of mission and ambassadors at large, who are on official duty in Iraq, Afghanistan, or Pakistan.”
+Pub. L. 111–32, title XI, § 1115(d), June 24, 2009, 123 Stat. 1906, as amended by Pub. L. 117–81, div. E, title LIII, § 5315, Dec. 27, 2021, 135 Stat. 2366, provided that: “Notwithstanding sections 5753(a)(2)(A) and 5754(a)(2)(A) of title 5, United States Code, appropriations made available by this or any other Act may be used to pay recruitment, relocation, and retention bonuses under chapter 57 of title 5, United States Code[,] to members of the Foreign Service, other than chiefs of mission and ambassadors at large, who are on official duty in Iraq, Afghanistan, or Pakistan.”
 
-[Pub. L. 119–75, div. F, title VII, § 7034(i)(1), Feb. 3, 2026, 140 Stat. 569, provided that: “The authority contained in section 1115(d) of the Supplemental Appropriations Act, 2009 (Public Law 111–32) [set out above] shall remain in effect through September 30, 2026.” ]
+[Pub. L. 119–75, div. F, title VII, § 7034(i)(1), Feb. 3, 2026, 140 Stat. 569, provided that: “The authority contained in section 1115(d) of the Supplemental Appropriations Act, 2009 (Public Law 111–32) [set out above] shall remain in effect through September 30, 2026.” ]
 
-[Pub. L. 118–47, div. F, title VII, § 7034(k)(1), Mar. 23, 2024, 138 Stat. 791, provided that: “The authority contained in section 1115(d) of the Supplemental Appropriations Act, 2009 (Public Law 111–32) [set out above] shall remain in effect through September 30, 2024.” ]
+[Pub. L. 118–47, div. F, title VII, § 7034(k)(1), Mar. 23, 2024, 138 Stat. 791, provided that: “The authority contained in section 1115(d) of the Supplemental Appropriations Act, 2009 (Public Law 111–32) [set out above] shall remain in effect through September 30, 2024.” ]
 
-[Pub. L. 117–328, div. K, title VII, § 7034(*l*)(1), Dec. 29, 2022, 136 Stat. 5032, provided that: “The authority contained in section 1115(d) of the Supplemental Appropriations Act, 2009 (Public Law 111–32) [set out above] shall remain in effect through September 30, 2023.” ]
+[Pub. L. 117–328, div. K, title VII, § 7034(*l*)(1), Dec. 29, 2022, 136 Stat. 5032, provided that: “The authority contained in section 1115(d) of the Supplemental Appropriations Act, 2009 (Public Law 111–32) [set out above] shall remain in effect through September 30, 2023.” ]
 
-### § 5754. Retention bonuses
+### § 5754. Retention bonuses
 
 **(a)**
 
@@ -2873,7 +2873,7 @@ Pub. L. 111–32, title XI, § 1115(d), June 24, 2009, 123 Stat. 1906, as amen
 
 **(h)** The Office may prescribe regulations to carry out this section.
 
-(Added Pub. L. 108–411, title I, § 101(a)(1), Oct. 30, 2004, 118 Stat. 2307; amended Pub. L. 114–323, title IV, § 412(2), Dec. 16, 2016, 130 Stat. 1932.)
+(Added Pub. L. 108–411, title I, § 101(a)(1), Oct. 30, 2004, 118 Stat. 2307; amended Pub. L. 114–323, title IV, § 412(2), Dec. 16, 2016, 130 Stat. 1932.)
 
 **Editorial Notes**
 
@@ -2883,11 +2883,11 @@ The General Schedule, referred to in subsec. (a)(1)(A), is set out under section
 
 **Prior Provisions**
 
-A prior section 5754, added Pub. L. 101–509, title V, § 529 [title II, § 208(a)], Nov. 5, 1990, 104 Stat. 1427, 1459, which related to retention allowances, was repealed by Pub. L. 108–411, title I, § 101(a)(1), Oct. 30, 2004, 118 Stat. 2305.
+A prior section 5754, added Pub. L. 101–509, title V, § 529 [title II, § 208(a)], Nov. 5, 1990, 104 Stat. 1427, 1459, which related to retention allowances, was repealed by Pub. L. 108–411, title I, § 101(a)(1), Oct. 30, 2004, 118 Stat. 2305.
 
 **Amendments**
 
-2016—Subsec. (a)(2)(A). Pub. L. 114–323 inserted “, excluding members of the Foreign Service other than chiefs of mission and ambassadors at large” before semicolon at end.
+2016—Subsec. (a)(2)(A). Pub. L. 114–323 inserted “, excluding members of the Foreign Service other than chiefs of mission and ambassadors at large” before semicolon at end.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2895,7 +2895,7 @@ A prior section 5754, added Pub. L. 101–509, title V, § 529 [title II, §�
 
 Section effective on the first day of the first applicable pay period beginning on or after the 180th day after Oct. 30, 2004, with exception for payment of certain retention allowances, see section 101(d) of Pub. L. 108–411, set out as a note under section 5753 of this title.
 
-### § 5755. Supervisory differentials
+### § 5755. Supervisory differentials
 
 **(a)**
 
@@ -2919,7 +2919,7 @@ Section effective on the first day of the first applicable pay period beginning 
 
 **(d)** The Office shall prescribe such regulations as it considers necessary for the administration of this section.
 
-(Added Pub. L. 101–509, title V, § 529 [title II, § 211(a)], Nov. 5, 1990, 104 Stat. 1427, 1461; amended Pub. L. 115–73, title I, § 107(a)(2)(B), Oct. 26, 2017, 131 Stat. 1239; Pub. L. 115–91, div. A, title X, § 1097(b)(3)(B), Dec. 12, 2017, 131 Stat. 1617.)
+(Added Pub. L. 101–509, title V, § 529 [title II, § 211(a)], Nov. 5, 1990, 104 Stat. 1427, 1461; amended Pub. L. 115–73, title I, § 107(a)(2)(B), Oct. 26, 2017, 131 Stat. 1239; Pub. L. 115–91, div. A, title X, § 1097(b)(3)(B), Dec. 12, 2017, 131 Stat. 1617.)
 
 **Editorial Notes**
 
@@ -2937,9 +2937,9 @@ Pub. L. 115–73 substituted “section 2302(c)” for “section 2302(d)”.
 
 **Effective Date**
 
-Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
+Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
 
-### § 5756. Home marketing incentive payment
+### § 5756. Home marketing incentive payment
 
 **(a)** Under regulations prescribed under subsection (b), an agency may pay to an employee who transfers in the interest of the Government an amount to encourage the employee to aggressively market the employee’s residence at the official station from which transferred when—
 
@@ -2955,7 +2955,7 @@ Section effective on such date as the President shall determine, but not earlier
 
 **(2)** The regulations shall include a limitation on the maximum amount payable with respect to an employee’s residence. The Administrator shall establish the limitation in consultation with the Director of the Office of Management and Budget. For fiscal years 1997 and 1998, the maximum amount shall be the amount equal to five percent of the sale price of the residence.
 
-(Added Pub. L. 104–201, div. A, title XVII, § 1717, Sept. 23, 1996, 110 Stat. 2757.)
+(Added Pub. L. 104–201, div. A, title XVII, § 1717, Sept. 23, 1996, 110 Stat. 2757.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2963,7 +2963,7 @@ Section effective on such date as the President shall determine, but not earlier
 
 Section effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under section 5722 of this title.
 
-### § 5757.1 [footnote: 1 Another section 5757 is set out after this section.] Payment of expenses to obtain professional credentials
+### § 5757.1 [footnote: 1 Another section 5757 is set out after this section.] Payment of expenses to obtain professional credentials
 
 **(a)** An agency may use appropriated funds or funds otherwise available to the agency to pay for—
 
@@ -2973,9 +2973,9 @@ Section effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 
 
 **(b)** The authority under subsection (a) may not be exercised on behalf of any employee occupying or seeking to qualify for appointment to any position that is excepted from the competitive service because of the confidential, policy-determining, policy-making, or policy-advocating character of the position.
 
-(Added Pub. L. 107–107, div. A, title XI, § 1112(a), Dec. 28, 2001, 115 Stat. 1238.)
+(Added Pub. L. 107–107, div. A, title XI, § 1112(a), Dec. 28, 2001, 115 Stat. 1238.)
 
-### § 5757.1 [footnote: 1 Another section 5757 is set out preceding this section.] Extended assignment incentive
+### § 5757.1 [footnote: 1 Another section 5757 is set out preceding this section.] Extended assignment incentive
 
 **(a)** The head of an Executive agency may pay an extended assignment incentive to an employee if—
 
@@ -3005,7 +3005,7 @@ Section effective 180 days after Sept. 23, 1996, see section 1725(a) of Pub. L. 
 
 **(f)** The Office of Personnel Management may prescribe regulations for the administration of this section, including regulations on an employee’s entitlement to retain or receive incentive payments when an agreement is canceled. Neither this section nor implementing regulations may impair any agency’s independent authority to administratively determine compensation for a class of its employees.
 
-(Added Pub. L. 107–273, div. A, title II, § 207(a)(1), Nov. 2, 2002, 116 Stat. 1779.)
+(Added Pub. L. 107–273, div. A, title II, § 207(a)(1), Nov. 2, 2002, 116 Stat. 1779.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3015,9 +3015,9 @@ Section effective on the first day of the first applicable pay period beginning 
 
 **Report**
 
-Pub. L. 107–273, div. A, title II, § 207(d), Nov. 2, 2002, 116 Stat. 1780, required, no later than 3 years after the effective date of this section (see Effective Date note above), the Office of Personnel Management to submit a report to Congress related to effectiveness of the extended assignment incentive authority.
+Pub. L. 107–273, div. A, title II, § 207(d), Nov. 2, 2002, 116 Stat. 1780, required, no later than 3 years after the effective date of this section (see Effective Date note above), the Office of Personnel Management to submit a report to Congress related to effectiveness of the extended assignment incentive authority.
 
-### § 5759.1 [footnote: 1 So in original. No section 5758 has been enacted.] Retention and relocation bonuses for the Federal Bureau of Investigation
+### § 5759.1 [footnote: 1 So in original. No section 5758 has been enacted.] Retention and relocation bonuses for the Federal Bureau of Investigation
 
 **(a) Authority.—** The Director of the Federal Bureau of Investigation, after consultation with the Director of the Office of Personnel Management, may pay, on a case-by-case basis, a bonus under this section to an employee of the Bureau if—
 
@@ -3043,23 +3043,23 @@ Pub. L. 107–273, div. A, title II, § 207(d), Nov. 2, 2002, 116 Stat. 1780, 
 
 **(d) Impact on Basic Pay.—** A bonus paid under this section is not part of the basic pay of an employee for any purpose.
 
-(Added Pub. L. 108–447, div. B, title I, § 113(a), Dec. 8, 2004, 118 Stat. 2868; amended Pub. L. 111–117, div. B, title II, § 217, Dec. 16, 2009, 123 Stat. 3141; Pub. L. 111–259, title IV, § 443, Oct. 7, 2010, 124 Stat. 2733.)
+(Added Pub. L. 108–447, div. B, title I, § 113(a), Dec. 8, 2004, 118 Stat. 2868; amended Pub. L. 111–117, div. B, title II, § 217, Dec. 16, 2009, 123 Stat. 3141; Pub. L. 111–259, title IV, § 443, Oct. 7, 2010, 124 Stat. 2733.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (a)(2). Pub. L. 111–259, § 443(1), substituted “is subject to a mobility agreement and is transferred to a position in a different geographical area in which there is a shortage of critical skills” for “is transferred to a different geographic area with a higher cost of living”.
+2010—Subsec. (a)(2). Pub. L. 111–259, § 443(1), substituted “is subject to a mobility agreement and is transferred to a position in a different geographical area in which there is a shortage of critical skills” for “is transferred to a different geographic area with a higher cost of living”.
 
-Subsec. (b)(2). Pub. L. 111–259, § 443(2), substituted “, including requirements for a bonus recipient’s repayment of a bonus in circumstances determined by the Director of the Federal Bureau of Investigation.” for the period.
+Subsec. (b)(2). Pub. L. 111–259, § 443(2), substituted “, including requirements for a bonus recipient’s repayment of a bonus in circumstances determined by the Director of the Federal Bureau of Investigation.” for the period.
 
-Subsec. (c). Pub. L. 111–259, § 443(3), substituted “annual rate of basic pay. The bonus may be paid in a lump sum or installments linked to completion of periods of service.” for “basic pay.”
+Subsec. (c). Pub. L. 111–259, § 443(3), substituted “annual rate of basic pay. The bonus may be paid in a lump sum or installments linked to completion of periods of service.” for “basic pay.”
 
-Subsec. (d). Pub. L. 111–259, § 443(4), substituted “bonus paid under this section” for “retention bonus”.
+Subsec. (d). Pub. L. 111–259, § 443(4), substituted “bonus paid under this section” for “retention bonus”.
 
 2009—Subsec. (e). Pub. L. 111–117 struck out subsec. (e). Text read as follows: “The authority to grant bonuses under this section shall cease to be available after December 31, 2009.”
 
-### § 5760. Travel and transportation allowances: transportation of family members incident to the repatriation of employees held captive
+### § 5760. Travel and transportation allowances: transportation of family members incident to the repatriation of employees held captive
 
 **(a) Allowance for Family Members and Certain Others.—**
 
@@ -3093,30 +3093,30 @@ Subsec. (d). Pub. L. 111–259, § 443(4), substituted “bonus paid under thi
 
 **(5)** Reimbursement payable under this subsection may not exceed the cost of government-procured round-trip air travel.
 
-(Added Pub. L. 109–163, div. A, title XI, § 1121(a), Jan. 6, 2006, 119 Stat. 3451; amended Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–263, div. A, title VI, § 626(b)(3), Dec. 23, 2022, 136 Stat. 2628.)
+(Added Pub. L. 109–163, div. A, title XI, § 1121(a), Jan. 6, 2006, 119 Stat. 3451; amended Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–263, div. A, title VI, § 626(b)(3), Dec. 23, 2022, 136 Stat. 2628.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (c). Pub. L. 117–263, § 626(b)(3)(A), substituted “section 451(a)” for “section 481h(b)”.
+2022—Subsec. (c). Pub. L. 117–263, § 626(b)(3)(A), substituted “section 451(a)” for “section 481h(b)”.
 
-Subsec. (d)(2). Pub. L. 117–263, § 626(b)(3)(B)(i), substituted “section 464” for “section 474(d)”.
+Subsec. (d)(2). Pub. L. 117–263, § 626(b)(3)(B)(i), substituted “section 464” for “section 474(d)”.
 
-Subsec. (d)(3). Pub. L. 117–263, § 626(b)(3)(B)(ii), substituted “section 452(d)” for “section 481h(d)(1)”.
+Subsec. (d)(3). Pub. L. 117–263, § 626(b)(3)(B)(ii), substituted “section 452(d)” for “section 481h(d)(1)”.
 
-2013—Subsecs. (c), (d)(2), (3). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(B). See 2011 Amendment note below.
+2013—Subsecs. (c), (d)(2), (3). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(B). See 2011 Amendment note below.
 
-2011—Subsecs. (c), (d)(2), (3). Pub. L. 112–81, § 631(f)(4)(B), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “481h(b)” for “411h(b)” in subsec. (c), “474(d)” for “404(d)” in subsec. (d)(2), and “481h(d)(1)” for “411h(d)(1)” in subsec. (d)(3).
+2011—Subsecs. (c), (d)(2), (3). Pub. L. 112–81, § 631(f)(4)(B), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “481h(b)” for “411h(b)” in subsec. (c), “474(d)” for “404(d)” in subsec. (d)(2), and “481h(d)(1)” for “411h(d)(1)” in subsec. (d)(3).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
-### § 5761. Foreign language proficiency pay awards for the Federal Bureau of Investigation
+### § 5761. Foreign language proficiency pay awards for the Federal Bureau of Investigation
 
 The Director of the Federal Bureau of Investigation may, under regulations prescribed by the Director, pay a cash award of up to 10 percent of basic pay to any Bureau employee who maintains proficiency in a language or languages critical to the mission or who uses one or more foreign languages in the performance of official duties.
 
-(Added Pub. L. 111–117, div. B, title II, § 219(a), Dec. 16, 2009, 123 Stat. 3141.)
+(Added Pub. L. 111–117, div. B, title II, § 219(a), Dec. 16, 2009, 123 Stat. 3141.)

@@ -19,31 +19,31 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2015—Pub. L. 114–113, div. Q, title III, § 346(b), Dec. 18, 2015, 129 Stat. 3116, added item 3512.
+2015—Pub. L. 114–113, div. Q, title III, § 346(b), Dec. 18, 2015, 129 Stat. 3116, added item 3512.
 
-2014—Pub. L. 113–295, div. B, title II, § 206(d)(1), Dec. 19, 2014, 128 Stat. 4071, added item 3511.
+2014—Pub. L. 113–295, div. B, title II, § 206(d)(1), Dec. 19, 2014, 128 Stat. 4071, added item 3511.
 
-2010—Pub. L. 111–226, title II, § 219(b)(3), Aug. 10, 2010, 124 Stat. 2403, struck out item 3507 “Advance payment of earned income credit”.
+2010—Pub. L. 111–226, title II, § 219(b)(3), Aug. 10, 2010, 124 Stat. 2403, struck out item 3507 “Advance payment of earned income credit”.
 
-1994—Pub. L. 103–387, § 2(b)(2), Oct. 22, 1994, 108 Stat. 4074, added item 3510.
+1994—Pub. L. 103–387, § 2(b)(2), Oct. 22, 1994, 108 Stat. 4074, added item 3510.
 
-1990—Pub. L. 101–508, title XI, § 11801(b)(16), Nov. 5, 1990, 104 Stat. 1388–522, struck out item 3510 “Credit for increased social security employee taxes and railroad retirement tier 1 employee taxes imposed during 1984”.
+1990—Pub. L. 101–508, title XI, § 11801(b)(16), Nov. 5, 1990, 104 Stat. 1388–522, struck out item 3510 “Credit for increased social security employee taxes and railroad retirement tier 1 employee taxes imposed during 1984”.
 
 1983—Pub. L. 98–67 repealed amendments made by section 307 of Pub. L. 97–248. See 1982 Amendment note below.
 
-Pub. L. 98–21, title I, § 123(b)(2), Apr. 20, 1983, 97 Stat. 88, added item 3510.
+Pub. L. 98–21, title I, § 123(b)(2), Apr. 20, 1983, 97 Stat. 88, added item 3510.
 
-1982—Pub. L. 97–248, title II, §§ 269(d), 270(b), Sept. 3, 1982, 96 Stat. 553, 554, added items 3508 and 3509.
+1982—Pub. L. 97–248, title II, §§ 269(d), 270(b), Sept. 3, 1982, 96 Stat. 553, 554, added items 3508 and 3509.
 
-Pub. L. 97–248, title III, §§ 307(b)(5), 308(a), Sept. 3, 1982, 96 Stat. 591, provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, the caption of chapter 25 is amended by inserting “AND COLLECTION OF INCOME TAXES AT SOURCE”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§ 301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 [now 1986] [this title] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+Pub. L. 97–248, title III, §§ 307(b)(5), 308(a), Sept. 3, 1982, 96 Stat. 591, provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, the caption of chapter 25 is amended by inserting “AND COLLECTION OF INCOME TAXES AT SOURCE”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§ 301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 [now 1986] [this title] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
-1978—Pub. L. 95–600, title I, § 105(b)(2), Nov. 6, 1978, 92 Stat. 2776, added item 3507.
+1978—Pub. L. 95–600, title I, § 105(b)(2), Nov. 6, 1978, 92 Stat. 2776, added item 3507.
 
-1977—Pub. L. 95–171, § 10(b), Nov. 12, 1977, 91 Stat. 1356, added item 3506.
+1977—Pub. L. 95–171, § 10(b), Nov. 12, 1977, 91 Stat. 1356, added item 3506.
 
-1966—Pub. L. 89–719, title I, § 105(c), Nov. 2, 1966, 80 Stat. 1139, added item 3505.
+1966—Pub. L. 89–719, title I, § 105(c), Nov. 2, 1966, 80 Stat. 1139, added item 3505.
 
-## § 3501. Collection and payment of taxes
+## § 3501. Collection and payment of taxes
 
 **(a) General rule**
 
@@ -53,7 +53,7 @@ The taxes imposed by this subtitle shall be collected by the Secretary and shall
 
 The taxes imposed by this subtitle with respect to non-cash fringe benefits shall be collected (or paid) by the employer at the time and in the manner prescribed by the Secretary by regulations.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 471; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title V, § 531(d)(5), July 18, 1984, 98 Stat. 885.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 471; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title V, § 531(d)(5), July 18, 1984, 98 Stat. 885.)
 
 **Editorial Notes**
 
@@ -69,13 +69,13 @@ The taxes imposed by this subtitle with respect to non-cash fringe benefits shal
 
 Amendment by Pub. L. 98–369 effective Jan. 1, 1985, see section 531(h) of Pub. L. 98–369, set out as an Effective Date note under section 132 of this title.
 
-## § 3502. Nondeductibility of taxes in computing taxable income
+## § 3502. Nondeductibility of taxes in computing taxable income
 
 **(a)** The taxes imposed by section 3101 of chapter 21, and by sections 3201 and 3211 of chapter 22 shall not be allowed as a deduction to the taxpayer in computing taxable income under subtitle A.
 
 **(b)** The tax deducted and withheld under chapter 24 shall not be allowed as a deduction either to the employer or to the recipient of the income in computing taxable income under subtitle A.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 471; Pub. L. 97–248, title III, §§ 305(b), 308(a), Sept. 3, 1982, 96 Stat. 588, 591; Pub. L. 98–67, title I, § 102(a), Aug. 5, 1983, 97 Stat. 369.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 471; Pub. L. 97–248, title III, §§ 305(b), 308(a), Sept. 3, 1982, 96 Stat. 588, 591; Pub. L. 98–67, title I, § 102(a), Aug. 5, 1983, 97 Stat. 369.)
 
 **Editorial Notes**
 
@@ -83,19 +83,19 @@ Amendment by Pub. L. 98–369 effective Jan. 1, 1985, see section 531(h) of Pub.
 
 1983—Subsecs. (b), (c). Pub. L. 98–67 repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
 
-1982—Subsecs. (b), (c). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subsec. (b) is amended and a new subsec. (c) is added. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§ 301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 [now 1986] [this title] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+1982—Subsecs. (b), (c). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subsec. (b) is amended and a new subsec. (c) is added. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§ 301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 [now 1986] [this title] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
-## § 3503. Erroneous payments
+## § 3503. Erroneous payments
 
 Any tax paid under chapter 21 or 22 by a taxpayer with respect to any period with respect to which he is not liable to tax under such chapter shall be credited against the tax, if any, imposed by such other chapter upon the taxpayer, and the balance, if any, shall be refunded.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 471.)
 
-## § 3504. Acts to be performed by agents
+## § 3504. Acts to be performed by agents
 
 In case a fiduciary, agent, or other person has the control, receipt, custody, or disposal of, or pays the wages of an employee or group of employees, employed by one or more employers, the Secretary, under regulations prescribed by him, is authorized to designate such fiduciary, agent, or other person to perform such acts as are required of employers under this title and as the Secretary may specify. Except as may be otherwise prescribed by the Secretary, all provisions of law (including penalties) applicable in respect of an employer shall be applicable to a fiduciary, agent, or other person so designated but, except as so provided, the employer for whom such fiduciary, agent, or other person acts shall remain subject to the provisions of law (including penalties) applicable in respect of employers.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 471; Pub. L. 85–866, title I, § 71, Sept. 2, 1958, 72 Stat. 1660; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 471; Pub. L. 85–866, title I, § 71, Sept. 2, 1958, 72 Stat. 1660; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -109,9 +109,9 @@ In case a fiduciary, agent, or other person has the control, receipt, custody, o
 
 **Effective Date of 1958 Amendment**
 
-Pub. L. 85–866, title I, § 71, Sept. 2, 1958, 72 Stat. 1660, provided that the amendment made by that section is effective with respect to remuneration paid after Dec. 31, 1954.
+Pub. L. 85–866, title I, § 71, Sept. 2, 1958, 72 Stat. 1660, provided that the amendment made by that section is effective with respect to remuneration paid after Dec. 31, 1954.
 
-## § 3505. Liability of third parties paying or providing for wages
+## § 3505. Liability of third parties paying or providing for wages
 
 **(a) Direct payment by third parties**
 
@@ -125,7 +125,7 @@ If a lender, surety, or other person supplies funds to or for the account of an 
 
 Any amounts paid to the United States pursuant to this section shall be credited against the liability of the employer.
 
-(Added Pub. L. 89–719, title I, § 105(a), Nov. 2, 1966, 80 Stat. 1138.)
+(Added Pub. L. 89–719, title I, § 105(a), Nov. 2, 1966, 80 Stat. 1138.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -133,7 +133,7 @@ Any amounts paid to the United States pursuant to this section shall be credited
 
 Section applicable only with respect to wages paid on or after Jan. 1, 1967, see section 114(c)(1) of Pub. L. 89–719, set out as an Effective Date of 1966 Amendment note under section 6323 of this title.
 
-## § 3506. Individuals providing companion sitting placement services
+## § 3506. Individuals providing companion sitting placement services
 
 **(a) In general**
 
@@ -147,21 +147,21 @@ For purposes of this section, the term “sitters” means individuals who furni
 
 The Secretary shall prescribe such regulations as may be necessary to carry out the purpose of this section.
 
-(Added Pub. L. 95–171, § 10(a), Nov. 12, 1977, 91 Stat. 1356.)
+(Added Pub. L. 95–171, § 10(a), Nov. 12, 1977, 91 Stat. 1356.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 95–171, § 10(c), Nov. 12, 1977, 91 Stat. 1356, provided that: “The amendments made by this section [enacting this section] shall apply to remuneration received after December 31, 1974.”
+Pub. L. 95–171, § 10(c), Nov. 12, 1977, 91 Stat. 1356, provided that: “The amendments made by this section [enacting this section] shall apply to remuneration received after December 31, 1974.”
 
 **Unemployment Compensation or Social Security Benefits Based on Services Performed Before November 12, 1977, Unaffected**
 
-Pub. L. 95–171, § 10(d), Nov. 12, 1977, 91 Stat. 1356, provided that: “The amendments made by this section [enacting this section] shall not be construed as affecting (1) any individual’s right to receive unemployment compensation based on services performed before the date of the enactment of this Act [Nov. 12, 1977], or (2) any individual’s eligibility for social security benefits to the extent based on services performed before that date.”
+Pub. L. 95–171, § 10(d), Nov. 12, 1977, 91 Stat. 1356, provided that: “The amendments made by this section [enacting this section] shall not be construed as affecting (1) any individual’s right to receive unemployment compensation based on services performed before the date of the enactment of this Act [Nov. 12, 1977], or (2) any individual’s eligibility for social security benefits to the extent based on services performed before that date.”
 
-## [§ 3507. Repealed. Pub. L. 111–226, title II, § 219(a)(1), Aug. 10, 2010, 124 Stat. 2403]
+## [§ 3507. Repealed. Pub. L. 111–226, title II, § 219(a)(1), Aug. 10, 2010, 124 Stat. 2403]
 
-Section, added Pub. L. 95–600, title I, § 105(b)(1), Nov. 6, 1978, 92 Stat. 2773; amended Pub. L. 97–248, title III, §§ 307(a)(3), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 98–67, title I, § 102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, § 474(r)(30), title X, § 1042(d)(3), (4), July 18, 1984, 98 Stat. 845, 1044; Pub. L. 99–514, title I, § 111(d)(2), (3), Oct. 22, 1986, 100 Stat. 2108; Pub. L. 101–508, title XI, § 11111(c), Nov. 5, 1990, 104 Stat. 1388–412; Pub. L. 103–66, title XIII, § 13131(d)(4)–(6), Aug. 10, 1993, 107 Stat. 435; Pub. L. 103–465, title VII, § 721(c), Dec. 8, 1994, 108 Stat. 5002, related to advance payment of earned income credit.
+Section, added Pub. L. 95–600, title I, § 105(b)(1), Nov. 6, 1978, 92 Stat. 2773; amended Pub. L. 97–248, title III, §§ 307(a)(3), 308(a), Sept. 3, 1982, 96 Stat. 589, 591; Pub. L. 98–67, title I, § 102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 98–369, div. A, title IV, § 474(r)(30), title X, § 1042(d)(3), (4), July 18, 1984, 98 Stat. 845, 1044; Pub. L. 99–514, title I, § 111(d)(2), (3), Oct. 22, 1986, 100 Stat. 2108; Pub. L. 101–508, title XI, § 11111(c), Nov. 5, 1990, 104 Stat. 1388–412; Pub. L. 103–66, title XIII, § 13131(d)(4)–(6), Aug. 10, 1993, 107 Stat. 435; Pub. L. 103–465, title VII, § 721(c), Dec. 8, 1994, 108 Stat. 5002, related to advance payment of earned income credit.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -169,7 +169,7 @@ Section, added Pub. L. 95–600, title I, § 105(b)(1), Nov. 6, 1978, 92 Stat.
 
 Repeal applicable to taxable years beginning after Dec. 31, 2010, see section 219(c) of Pub. L. 111–226, set out as an Effective Date of 2010 Amendment note under section 32 of this title.
 
-## § 3508. Treatment of real estate agents and direct­ sellers
+## § 3508. Treatment of real estate agents and direct­ sellers
 
 **(a) General rule** For purposes of this title, in the case of services performed as a qualified real estate agent or as a direct seller—
 
@@ -205,7 +205,7 @@ Repeal applicable to taxable years beginning after Dec. 31, 2010, see section 21
 
 This section shall not apply for purposes of subtitle A to the extent that the individual is treated as an employee under section 401(c)(1) (relating to self-employed individuals).
 
-(Added Pub. L. 97–248, title II, § 269(a), Sept. 3, 1982, 96 Stat. 551; amended Pub. L. 104–188, title I, § 1118(a), Aug. 20, 1996, 110 Stat. 1764.)
+(Added Pub. L. 97–248, title II, § 269(a), Sept. 3, 1982, 96 Stat. 551; amended Pub. L. 104–188, title I, § 1118(a), Aug. 20, 1996, 110 Stat. 1764.)
 
 **Editorial Notes**
 
@@ -217,11 +217,11 @@ This section shall not apply for purposes of subtitle A to the extent that the i
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–188, title XI, § 1118(b), Aug. 20, 1996, 110 Stat. 1764, provided that: “The amendments made by this section shall apply to services performed after December 31, 1995.”
+Pub. L. 104–188, title XI, § 1118(b), Aug. 20, 1996, 110 Stat. 1764, provided that: “The amendments made by this section shall apply to services performed after December 31, 1995.”
 
 **Effective Date**
 
-Pub. L. 97–248, title II, § 269(e), Sept. 3, 1982, 96 Stat. 553, provided that:
+Pub. L. 97–248, title II, § 269(e), Sept. 3, 1982, 96 Stat. 553, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [enacting this section and amending section 410 of Title 42, The Public Health and Welfare] shall apply to services performed after December 31, 1982.
 
@@ -229,9 +229,9 @@ Pub. L. 97–248, title II, § 269(e), Sept. 3, 1982, 96 Stat. 553, provided t
 
 **Rules and Regulations**
 
-Pub. L. 97–248, title II, § 269(c)(3), Sept. 3, 1982, 96 Stat. 553, provided that: “Nothing in section 530 of the Revenue Act of 1978 [set out as a note under section 3401 of this title] shall be construed to prohibit the implementation of the amendments made by this section [enacting this section, amending section 410 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 3401 of this title].”
+Pub. L. 97–248, title II, § 269(c)(3), Sept. 3, 1982, 96 Stat. 553, provided that: “Nothing in section 530 of the Revenue Act of 1978 [set out as a note under section 3401 of this title] shall be construed to prohibit the implementation of the amendments made by this section [enacting this section, amending section 410 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 3401 of this title].”
 
-## § 3509. Determination of employer’s liability for certain employment taxes
+## § 3509. Determination of employer’s liability for certain employment taxes
 
 **(a) In general** If any employer fails to deduct and withhold any tax under chapter 24 or subchapter A of chapter 21 with respect to any employee by reason of treating such employee as not being an employee for purposes of such chapter or subchapter, the amount of the employer’s liability for—
 
@@ -279,7 +279,7 @@ This section shall not apply to the determination of the employer’s liability 
 
 This section shall not apply to any tax under subchapter A of chapter 21 with respect to an individual described in subsection (d)(3) of section 3121 (without regard to whether such individual is described in paragraph (1) or (2) of such subsection).
 
-(Added Pub. L. 97–248, title II, § 270(a), Sept. 3, 1982, 96 Stat. 553; amended Pub. L. 100–647, title II, § 2003(d), Nov. 10, 1988, 102 Stat. 3598; Pub. L. 101–508, title V, § 5130(a)(4), Nov. 5, 1990, 104 Stat. 1388–289; Pub. L. 115–141, div. U, title IV, § 401(a)(218), Mar. 23, 2018, 132 Stat. 1194.)
+(Added Pub. L. 97–248, title II, § 270(a), Sept. 3, 1982, 96 Stat. 553; amended Pub. L. 100–647, title II, § 2003(d), Nov. 10, 1988, 102 Stat. 3598; Pub. L. 101–508, title V, § 5130(a)(4), Nov. 5, 1990, 104 Stat. 1388–289; Pub. L. 115–141, div. U, title IV, § 401(a)(218), Mar. 23, 2018, 132 Stat. 1194.)
 
 **Editorial Notes**
 
@@ -295,13 +295,13 @@ This section shall not apply to any tax under subchapter A of chapter 21 with re
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–508 effective as if included in the enactment of Pub. L. 100–647, § 2003(d), see section 5130(b) of Pub. L. 101–508, set out as a note under section 1402 of this title.
+Amendment by Pub. L. 101–508 effective as if included in the enactment of Pub. L. 100–647, § 2003(d), see section 5130(b) of Pub. L. 101–508, set out as a note under section 1402 of this title.
 
 **Effective Date**
 
-Pub. L. 97–248, title II, § 270(c), Sept. 3, 1982, 96 Stat. 554, provided that: “The amendment made by this section [enacting this section] shall take effect on the date of the enactment of this Act [Sept. 3, 1982], except that such amendments shall not apply to any assessment made before January 1, 1983.”
+Pub. L. 97–248, title II, § 270(c), Sept. 3, 1982, 96 Stat. 554, provided that: “The amendment made by this section [enacting this section] shall take effect on the date of the enactment of this Act [Sept. 3, 1982], except that such amendments shall not apply to any assessment made before January 1, 1983.”
 
-## § 3510. Coordination of collection of domestic service employment taxes with collection of income taxes
+## § 3510. Coordination of collection of domestic service employment taxes with collection of income taxes
 
 **(a) General rule** Except as otherwise provided in this section—
 
@@ -361,13 +361,13 @@ For purposes of subtitle F, any amount required to be collected under an agreeme
 
 For purposes of this subsection, the term “State” has the meaning given such term by section 3306(j)(1).
 
-(Added Pub. L. 103–387, § 2(b)(1), Oct. 22, 1994, 108 Stat. 4073; amended Pub. L. 113–295, div. A, title II, § 221(a)(102), Dec. 19, 2014, 128 Stat. 4052.)
+(Added Pub. L. 103–387, § 2(b)(1), Oct. 22, 1994, 108 Stat. 4073; amended Pub. L. 113–295, div. A, title II, § 221(a)(102), Dec. 19, 2014, 128 Stat. 4052.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3510, added Pub. L. 98–21, title I, § 123(b)(1), Apr. 20, 1983, 97 Stat. 88, provided a credit for increased social security employee taxes and railroad retirement tier 1 employee taxes imposed during 1984, prior to repeal by Pub. L. 101–508, title XI, § 11801(a)(42), Nov. 5, 1990, 104 Stat. 1388–521.
+A prior section 3510, added Pub. L. 98–21, title I, § 123(b)(1), Apr. 20, 1983, 97 Stat. 88, provided a credit for increased social security employee taxes and railroad retirement tier 1 employee taxes imposed during 1984, prior to repeal by Pub. L. 101–508, title XI, § 11801(a)(42), Nov. 5, 1990, 104 Stat. 1388–521.
 
 **Amendments**
 
@@ -381,13 +381,13 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 **Effective Date**
 
-Pub. L. 103–387, § 2(b)(3), Oct. 22, 1994, 108 Stat. 4074, provided that: “The amendments made by this subsection [enacting this section] shall apply to remuneration paid in calendar years beginning after December 31, 1994.”
+Pub. L. 103–387, § 2(b)(3), Oct. 22, 1994, 108 Stat. 4074, provided that: “The amendments made by this subsection [enacting this section] shall apply to remuneration paid in calendar years beginning after December 31, 1994.”
 
 **Expanded Information to Employers**
 
-Pub. L. 103–387, § 2(b)(4), Oct. 22, 1994, 108 Stat. 4074, provided that: “The Secretary of the Treasury or the Secretary’s delegate shall prepare and make available information on the Federal tax obligations of employers with respect to employees performing domestic service in a private home of the employer. Such information shall also include a statement that such employers may have obligations with respect to such employees under State laws relating to unemployment insurance and workers compensation.”
+Pub. L. 103–387, § 2(b)(4), Oct. 22, 1994, 108 Stat. 4074, provided that: “The Secretary of the Treasury or the Secretary’s delegate shall prepare and make available information on the Federal tax obligations of employers with respect to employees performing domestic service in a private home of the employer. Such information shall also include a statement that such employers may have obligations with respect to such employees under State laws relating to unemployment insurance and workers compensation.”
 
-## § 3511. Certified professional employer organizations
+## § 3511. Certified professional employer organizations
 
 **(a) General rules** For purposes of the taxes, and other obligations, imposed by this subtitle—
 
@@ -463,7 +463,7 @@ shall be designed in a manner which streamlines, to the extent possible, the app
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 113–295, div. B, title II, § 206(a), Dec. 19, 2014, 128 Stat. 4065; amended Pub. L. 117–328, div. T, title I, § 112(c), Dec. 29, 2022, 136 Stat. 5295.)
+(Added Pub. L. 113–295, div. B, title II, § 206(a), Dec. 19, 2014, 128 Stat. 4065; amended Pub. L. 117–328, div. T, title I, § 112(c), Dec. 29, 2022, 136 Stat. 5295.)
 
 **Editorial Notes**
 
@@ -481,7 +481,7 @@ Amendment by Pub. L. 117–328 applicable to taxable years beginning after Dec. 
 
 Section applicable with respect to wages for services performed on or after January 1 of the first calendar year beginning more than 12 months after Dec. 19, 2014, see section 206(g)(1) of Pub. L. 113–295, set out as an Effective Date of 2014 Amendment note under section 3302 of this title.
 
-## § 3512. Treatment of certain persons as employers with respect to motion picture projects
+## § 3512. Treatment of certain persons as employers with respect to motion picture projects
 
 **(a) In general**
 
@@ -517,7 +517,7 @@ The term “motion picture project” means the production of any property descr
 
 A person shall be treated as an affiliate of, or affiliated with, another person if such persons are treated as a single employer under subsection (b) or (c) of section 414.
 
-(Added Pub. L. 114–113, div. Q, title III, § 346(a), Dec. 18, 2015, 129 Stat. 3115.)
+(Added Pub. L. 114–113, div. Q, title III, § 346(a), Dec. 18, 2015, 129 Stat. 3115.)
 
 **Editorial Notes**
 
@@ -529,8 +529,8 @@ A person shall be treated as an affiliate of, or affiliated with, another person
 
 **Effective Date**
 
-Pub. L. 114–113, div. Q, title III, § 346(c), Dec. 18, 2015, 129 Stat. 3116, provided that: “The amendments made by this section [enacting this section] shall apply to remuneration paid after December 31, 2015.”
+Pub. L. 114–113, div. Q, title III, § 346(c), Dec. 18, 2015, 129 Stat. 3116, provided that: “The amendments made by this section [enacting this section] shall apply to remuneration paid after December 31, 2015.”
 
 **Construction**
 
-Pub. L. 114–113, div. Q, title III, § 346(d), Dec. 18, 2015, 129 Stat. 3116, provided that: “Nothing in the amendments made by this section [enacting this section] shall be construed to create any inference on the law before the date of the enactment of this Act [Dec. 18, 2015].”
+Pub. L. 114–113, div. Q, title III, § 346(d), Dec. 18, 2015, 129 Stat. 3116, provided that: “Nothing in the amendments made by this section [enacting this section] shall be construed to create any inference on the law before the date of the enactment of this Act [Dec. 18, 2015].”

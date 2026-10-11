@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 159—ADDITIONAL REGIONAL COMMISSION PROGRAMS
 
-## § 15901. State capacity building grant program
+## § 15901. State capacity building grant program
 
 **(a) Definitions.—** In this section:
 
@@ -93,7 +93,7 @@ retrieved: 2026-10-11
 
 **(i) Continuation of Program Authority for Northern Border Regional Commission.—** With respect to the Northern Border Regional Commission, the program shall be a continuation of the program under section 6304(c) of the Agriculture Improvement Act of 2018 (40 U.S.C. 15501 note; Public Law 115–334) (as in effect on the day before the date of enactment of this section).
 
-(Added Pub. L. 118–272, div. B, title II, § 2248(a), Jan. 4, 2025, 138 Stat. 3205.)
+(Added Pub. L. 118–272, div. B, title II, § 2248(a), Jan. 4, 2025, 138 Stat. 3205.)
 
 **Editorial Notes**
 
@@ -101,7 +101,7 @@ retrieved: 2026-10-11
 
 The date of enactment of this section, referred to in subsec. (i), is the date of enactment of Pub. L. 118–272, which was approved Jan. 4, 2025.
 
-## § 15902. Demonstration health projects
+## § 15902. Demonstration health projects
 
 **(a) Purpose.—** To demonstrate the value of adequate health facilities and services to the economic development of the region, a Commission may make grants for the planning, construction, equipment, and operation of demonstration health, nutrition, and child care projects to serve distressed areas (referred to in this section as a “demonstration health project”), including hospitals, regional health diagnostic and treatment centers, and other facilities and services necessary for the purposes of this section.
 
@@ -183,16 +183,16 @@ The date of enactment of this section, referred to in subsec. (i), is the date o
 
 **(3)** access to services for screening and diagnosing chronic health issues.
 
-(Added Pub. L. 118–272, div. B, title II, § 2248(a), Jan. 4, 2025, 138 Stat. 3207.)
+(Added Pub. L. 118–272, div. B, title II, § 2248(a), Jan. 4, 2025, 138 Stat. 3207.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Public Health Service Act, referred to in subsec. (d)(2)(B), is act July 1, 1944, ch. 373, 58 Stat. 682. Title VI of the Act is classified generally to subchapter IV (§ 291 et seq.) of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (d)(2)(B), is act July 1, 1944, ch. 373, 58 Stat. 682. Title VI of the Act is classified generally to subchapter IV (§ 291 et seq.) of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
-The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (d)(2)(B), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§ 15001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (d)(2)(B), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§ 15001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
 Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (e)(2)(C), is classified to section 501 of Title 26, Internal Revenue Code.
 
-The Social Security Act, referred to in subsec. (e)(4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title IV of the Act are classified generally to parts A (§ 601 et seq.) and B (§ 620 et seq.), respectively, of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XX of the Act is classified generally to subchapter XX (§ 1397 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (e)(4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title IV of the Act are classified generally to parts A (§ 601 et seq.) and B (§ 620 et seq.), respectively, of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XX of the Act is classified generally to subchapter XX (§ 1397 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.

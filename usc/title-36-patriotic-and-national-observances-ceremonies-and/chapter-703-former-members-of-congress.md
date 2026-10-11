@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 703—FORMER MEMBERS OF CONGRESS"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 703—FORMER MEMBERS OF CONGRESS"
 identifier: "/us/usc/t36/stII/ptB/ch703"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 703—FORMER MEMBERS OF CONGRESS
 
-## § 70301. Definition
+## § 70301. Definition
 
 For purposes of this chapter, “State” includes the District of Columbia and the territories and possessions of the United States.
 
@@ -25,11 +25,11 @@ For purposes of this chapter, “State” includes the District of Columbia and 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70301 | 36:2213. | Jan. 8, 1983, Pub. L. 97–427, § 14, 96 Stat. 2267. |
+| 70301 | 36:2213. | Jan. 8, 1983, Pub. L. 97–427, § 14, 96 Stat. 2267. |
 
 The words “the Commonwealth of Puerto Rico” are omitted as included in “the territories and possessions of the United States”.
 
-## § 70302. Organization
+## § 70302. Organization
 
 **(a) Federal Charter.—** Former Members of Congress (in this chapter, the “corporation”), a nonprofit corporation incorporated in the District of Columbia, is a federally chartered corporation.
 
@@ -41,14 +41,14 @@ The words “the Commonwealth of Puerto Rico” are omitted as included in “th
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70302(a) | 36:2201. | Jan. 8, 1983, Pub. L. 97–427, §§ 1, 15 (last sentence), 16, 96 Stat. 2265, 2267. |
+| 70302(a) | 36:2201. | Jan. 8, 1983, Pub. L. 97–427, §§ 1, 15 (last sentence), 16, 96 Stat. 2265, 2267. |
 | 70302(b) | 36:2214 (last sentence). 36:2215. |  |
 
 Subsection (a) is substituted for the source provision for consistency in the revised title.
 
 In subsection (b), the words “restrictions or” are omitted as unnecessary.
 
-## § 70303. Purposes
+## § 70303. Purposes
 
 The purposes of the corporation are as provided in the articles of incorporation and include the promotion of the cause of good government at the national level by improving the public understanding of Congress as an institution and strengthening its support by the public. The corporation shall function as an educational, patriotic, civic, historical, and research organization as authorized by the laws of each State in which it is incorporated.
 
@@ -58,11 +58,11 @@ The purposes of the corporation are as provided in the articles of incorporation
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70303 | 36:2203. | Jan. 8, 1983, Pub. L. 97–427, § 3, 96 Stat. 2265. |
+| 70303 | 36:2203. | Jan. 8, 1983, Pub. L. 97–427, § 3, 96 Stat. 2265. |
 
 The word “objects” is omitted as included in “purposes”.
 
-## § 70304. Membership
+## § 70304. Membership
 
 Eligibility for membership in the corporation and the rights and privileges of members are as provided in the bylaws.
 
@@ -72,9 +72,9 @@ Eligibility for membership in the corporation and the rights and privileges of m
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70304 | 36:2205. | Jan. 8, 1983, Pub. L. 97–427, § 5, 96 Stat. 2265. |
+| 70304 | 36:2205. | Jan. 8, 1983, Pub. L. 97–427, § 5, 96 Stat. 2265. |
 
-## § 70305. Governing body
+## § 70305. Governing body
 
 **(a) Board of Directors.—** The board of directors and the responsibilities of the board are as provided in the articles of incorporation.
 
@@ -86,12 +86,12 @@ Eligibility for membership in the corporation and the rights and privileges of m
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70305(a) | 36:2206. | Jan. 8, 1983, Pub. L. 97–427, §§ 6, 7, 96 Stat. 2265. |
+| 70305(a) | 36:2206. | Jan. 8, 1983, Pub. L. 97–427, §§ 6, 7, 96 Stat. 2265. |
 | 70305(b) | 36:2207. |  |
 
 The words “and in conformity with the laws of the State or States in which it is incorporated” in 36:2206 and “and in conformity with the laws of the State or States wherein it is incorporated” in 36:2207 are omitted as unnecessary.
 
-## § 70306. Powers
+## § 70306. Powers
 
 The corporation has only the powers provided in its bylaws and articles of incorporation filed in each State in which it is incorporated.
 
@@ -101,11 +101,11 @@ The corporation has only the powers provided in its bylaws and articles of incor
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70306 | 36:2202. | Jan. 8, 1983, Pub. L. 97–427, § 2, 96 Stat. 2265. |
+| 70306 | 36:2202. | Jan. 8, 1983, Pub. L. 97–427, § 2, 96 Stat. 2265. |
 
 The words “and subject to the laws of such State of States” are omitted as unnecessary.
 
-## § 70307. Restrictions
+## § 70307. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -123,7 +123,7 @@ The words “and subject to the laws of such State of States” are omitted as u
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70307(a) | 36:2208(d). | Jan. 8, 1983, Pub. L. 97–427, § 8, 96 Stat. 2266. |
+| 70307(a) | 36:2208(d). | Jan. 8, 1983, Pub. L. 97–427, § 8, 96 Stat. 2266. |
 | 70307(b) | 36:2208(c). |  |
 | 70307(c) | 36:2208(a). |  |
 | 70307(d) | 36:2208(b). |  |
@@ -135,7 +135,7 @@ In subsection (b), the words “as such” are substituted for “acting as such
 
 In subsection (c), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title.
 
-## § 70308. Duty to maintain tax-exempt status
+## § 70308. Duty to maintain tax-exempt status
 
 The corporation shall maintain its status as an organization exempt from taxation under the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.).
 
@@ -145,9 +145,9 @@ The corporation shall maintain its status as an organization exempt from taxatio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70308 | 36:2214 (1st sentence). | Jan. 8, 1983, Pub. L. 97–427, § 15 (1st sentence), 96 Stat. 2267. |
+| 70308 | 36:2214 (1st sentence). | Jan. 8, 1983, Pub. L. 97–427, § 15 (1st sentence), 96 Stat. 2267. |
 
-## § 70309. Records and inspection
+## § 70309. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -165,13 +165,13 @@ The corporation shall maintain its status as an organization exempt from taxatio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70309 | 36:2210. | Jan. 8, 1983, Pub. L. 97–427, § 10, 96 Stat. 2266. |
+| 70309 | 36:2210. | Jan. 8, 1983, Pub. L. 97–427, § 10, 96 Stat. 2266. |
 
 In this section, the word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (a)(2), the words “having authority under the board of directors” are omitted as unnecessary.
 
-## § 70310. Service of process
+## § 70310. Service of process
 
 The corporation shall comply with the law on service of process of each State in which it is incorporated and each State in which it carries on activities.
 
@@ -181,9 +181,9 @@ The corporation shall comply with the law on service of process of each State in
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70310 | 36:2204. | Jan. 8, 1983, Pub. L. 97–427, § 4, 96 Stat. 2265. |
+| 70310 | 36:2204. | Jan. 8, 1983, Pub. L. 97–427, § 4, 96 Stat. 2265. |
 
-## § 70311. Liability for acts of officers and agents
+## § 70311. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -193,9 +193,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70311 | 36:2209. | Jan. 8, 1983, Pub. L. 97–427, § 9, 96 Stat. 2266. |
+| 70311 | 36:2209. | Jan. 8, 1983, Pub. L. 97–427, § 9, 96 Stat. 2266. |
 
-## § 70312. Annual report
+## § 70312. Annual report
 
 The corporation shall submit an annual report to Congress on the activities of the corporation during the prior fiscal year. The report shall be submitted at the same time as the report of the audit required by section 10101 of this title. The report may not be printed as a public document.
 
@@ -205,7 +205,7 @@ The corporation shall submit an annual report to Congress on the activities of t
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 70312 | 36:2211. | Jan. 8, 1983, Pub. L. 97–427, § 12, 96 Stat. 2266. |
+| 70312 | 36:2211. | Jan. 8, 1983, Pub. L. 97–427, § 12, 96 Stat. 2266. |
 
 **Statutory Notes and Related Subsidiaries**
 

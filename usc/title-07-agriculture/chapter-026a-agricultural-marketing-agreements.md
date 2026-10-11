@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 26A—AGRICULTURAL MARKETING AGREEMENTS
 
-## § 671. Arbitration of disputes concerning milk
+## § 671. Arbitration of disputes concerning milk
 
 **(a) Application**
 
@@ -33,21 +33,21 @@ No award or agreement resulting from any such arbitration or mediation shall be 
 
 No meeting so held and no award or agreement so approved shall be deemed to be in violation of any of the antitrust laws of the United States.
 
-(June 3, 1937, ch. 296, § 3, 50 Stat. 248.)
+(June 3, 1937, ch. 296, § 3, 50 Stat. 248.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Adjustment Act, referred to in subsec. (a), is title I of act May 12, 1933, ch. 25, 48 Stat. 31, as amended, which is classified generally to chapter 26 (§ 601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
+The Agricultural Adjustment Act, referred to in subsec. (a), is title I of act May 12, 1933, ch. 25, 48 Stat. 31, as amended, which is classified generally to chapter 26 (§ 601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
 
-## § 672. Agreements; licenses, regulations, programs, etc., unaffected
+## § 672. Agreements; licenses, regulations, programs, etc., unaffected
 
 **(a)** Nothing in this Act shall be construed as invalidating any marketing agreement, license, or order, or any regulation relating to, or any provision of, or any act of the Secretary of Agriculture in connection with, any such agreement, license, or order which has been executed, issued, approved, or done under the Agricultural Adjustment Act [7 U.S.C. 601 et seq.], or any amendment thereof, but such marketing agreements, licenses, orders, regulations, provisions, and acts are expressly ratified, legalized, and confirmed.
 
 **(b)** Any program in effect under the Agricultural Adjustment Act [7 U.S.C. 601 et seq.], as reenacted and amended by this Act, on January 1, 1950, shall continue in effect without the necessity for any amendatory action relative to such program, but any such program shall be continued in operation by the Secretary of Agriculture only to establish and maintain such orderly marketing conditions as will tend to effectuate the declared purpose set out in section 2 or 8c(18) of the Agricultural Adjustment Act [7 U.S.C. 602 or 608c(18)], as reenacted and amended by this Act.
 
-(June 3, 1937, ch. 296, § 4, 50 Stat. 249; July 3, 1948, ch. 827, title III, § 302(e), 62 Stat. 1258.)
+(June 3, 1937, ch. 296, § 4, 50 Stat. 249; July 3, 1948, ch. 827, title III, § 302(e), 62 Stat. 1258.)
 
 **Editorial Notes**
 
@@ -55,7 +55,7 @@ The Agricultural Adjustment Act, referred to in subsec. (a), is title I of act M
 
 This Act, referred to in text, is act June 3, 1937, ch. 296, 50 Stat. 246, known as the Agricultural Marketing Agreement Act of 1937. For complete classification of this Act to the Code, see Tables.
 
-The Agricultural Adjustment Act, referred to in text, is title I of act May 12, 1933, ch. 25, 48 Stat. 31, which is classified generally to chapter 26 (§ 601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
+The Agricultural Adjustment Act, referred to in text, is title I of act May 12, 1933, ch. 25, 48 Stat. 31, which is classified generally to chapter 26 (§ 601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
 
 **Amendments**
 
@@ -67,27 +67,27 @@ The Agricultural Adjustment Act, referred to in text, is title I of act May 12, 
 
 Amendment by act July 3, 1948, effective Jan. 1, 1950, see section 303 of act July 3, 1948, set out as a note under section 1301 of this title.
 
-## § 673. Taxes under Agricultural Adjustment Act; laws unaffected
+## § 673. Taxes under Agricultural Adjustment Act; laws unaffected
 
 No processing taxes or compensating taxes shall be levied or collected under the Agricultural Adjustment Act [7 U.S.C. 601 et seq.], as amended. Except as provided in the preceding sentence, nothing in this Act shall be construed as affecting provisions of the Agricultural Adjustment Act, as amended, other than those enumerated in section 1 of Act of June 3, 1937, ch. 296, 50 Stat. 246. The provisions so enumerated shall apply in accordance with their terms (as amended by this Act) to the provisions of the Agricultural Adjustment Act, this Act, and other provisions of law to which they have been heretofore made applicable.
 
-(June 3, 1937, ch. 296, § 5, 50 Stat. 249.)
+(June 3, 1937, ch. 296, § 5, 50 Stat. 249.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Adjustment Act, referred to in text, is title I of act May 12, 1933, ch. 25, 48 Stat. 31, which is classified generally to chapter 26 (§ 601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
+The Agricultural Adjustment Act, referred to in text, is title I of act May 12, 1933, ch. 25, 48 Stat. 31, which is classified generally to chapter 26 (§ 601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
 
 This Act, referred to in text, is act June 3, 1937, ch. 296, 50 Stat. 246, known as the Agricultural Marketing Agreement Act of 1937. For complete classification of this Act to the Code, see Tables.
 
 Section 1 of act June 3, 1937, ch. 296, 50 Stat. 246, referred to in text, amended sections 601, 602, 608a, 608b, 608c, 608d, 608e, 610, 612, 614, and 624 of this title.
 
-## § 674. Short title
+## § 674. Short title
 
 This Act may be cited as the “Agricultural Marketing Agreement Act of 1937”.
 
-(June 3, 1937, ch. 296, § 6, 50 Stat. 249.)
+(June 3, 1937, ch. 296, § 6, 50 Stat. 249.)
 
 **Editorial Notes**
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 88—NUCLEAR NON-PROLIFERATION TREATY—UNITED STATES ADDITIONAL PROTOCOL IMPLEMENTATION
 
-## § 8101. Findings
+## § 8101. Findings
 
 Congress makes the following findings:
 
@@ -39,13 +39,13 @@ Congress makes the following findings:
 
 **(10)** Implementation of the Additional Protocol will conform to the principles set forth in the letter of April 30, 2002, from the United States Permanent Representative to the International Atomic Energy Agency and the Vienna Office of the United Nations to the Director General of the International Atomic Energy Agency.
 
-(Pub. L. 109–401, title II, § 202, Dec. 18, 2006, 120 Stat. 2741.)
+(Pub. L. 109–401, title II, § 202, Dec. 18, 2006, 120 Stat. 2741.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 109–401, title II, § 201, Dec. 18, 2006, 120 Stat. 2741, provided that: “This title [enacting this chapter] may be cited as the ‘United States Additional Protocol Implementation Act’.”
+Pub. L. 109–401, title II, § 201, Dec. 18, 2006, 120 Stat. 2741, provided that: “This title [enacting this chapter] may be cited as the ‘United States Additional Protocol Implementation Act’.”
 
 **Executive Documents**
 
@@ -67,7 +67,7 @@ Sec. 5. This order is not intended to, and does not, create any right or benefit
 
 George W. Bush.
 
-## § 8102. Definitions
+## § 8102. Definitions
 
 In this chapter:
 
@@ -131,13 +131,13 @@ The term “site” has the meaning set forth in Article 18b. of the Additional 
 
 The term “wide-area environmental sampling” has the meaning set forth in Article 18g. of the Additional Protocol.
 
-(Pub. L. 109–401, title II, § 203, Dec. 18, 2006, 120 Stat. 2742.)
+(Pub. L. 109–401, title II, § 203, Dec. 18, 2006, 120 Stat. 2742.)
 
 **Editorial Notes**
 
 **Codification**
 
-In par. (13)(C), “section 70502(b) of title 46” substituted for “section 3(b) of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903(b))” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 70502 of Title 46, Shipping.
+In par. (13)(C), “section 70502(b) of title 46” substituted for “section 3(b) of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903(b))” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 70502 of Title 46, Shipping.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -145,15 +145,15 @@ In par. (13)(C), “section 70502(b) of title 46” substituted for “section 3
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives and Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
-## § 8103. Severability
+## § 8103. Severability
 
 If any provision of this chapter, or the application of such provision to any person or circumstance, is held invalid, the remainder of this chapter, or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.
 
-(Pub. L. 109–401, title II, § 204, Dec. 18, 2006, 120 Stat. 2743.)
+(Pub. L. 109–401, title II, § 204, Dec. 18, 2006, 120 Stat. 2743.)
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 8111. Authority
+### § 8111. Authority
 
 **(a) In general**
 
@@ -167,11 +167,11 @@ For any executive agency designated under subsection (a) that does not currently
 
 The authority described in subsection (b) does not supersede or otherwise modify any existing authority of any Federal department or agency already having such authority.
 
-(Pub. L. 109–401, title II, § 211, Dec. 18, 2006, 120 Stat. 2743.)
+(Pub. L. 109–401, title II, § 211, Dec. 18, 2006, 120 Stat. 2743.)
 
 ## SUBCHAPTER II—COMPLEMENTARY ACCESS
 
-### § 8121. Requirement for authority to conduct complementary access
+### § 8121. Requirement for authority to conduct complementary access
 
 **(a) Prohibition**
 
@@ -193,9 +193,9 @@ In the event of complementary access to a privately owned or operated location, 
 
 The number of designated United States representatives accompanying IAEA inspectors shall be kept to the minimum necessary.
 
-(Pub. L. 109–401, title II, § 221, Dec. 18, 2006, 120 Stat. 2744.)
+(Pub. L. 109–401, title II, § 221, Dec. 18, 2006, 120 Stat. 2744.)
 
-### § 8122. Procedures for complementary access
+### § 8122. Procedures for complementary access
 
 **(a) In general**
 
@@ -213,7 +213,7 @@ The notice under paragraph (1) shall be submitted to such owner, operator, occup
 
 **(3) Content of notice**
 
-**(A) 1 [footnote: 1 So in original. No subpar. (B) has been enacted.] In general** The notice required by paragraph (1) shall specify—
+**(A) 1 [footnote: 1 So in original. No subpar. (B) has been enacted.] In general** The notice required by paragraph (1) shall specify—
 
 **(i)** the purpose for the complementary access;
 
@@ -259,9 +259,9 @@ Except as provided in a warrant issued under section 8123 of this title, and sub
 
 In carrying out their activities, members of the IAEA complementary access team and representatives or designees of the United States Government shall observe applicable environmental, health, safety, and security regulations established at the location subject to complementary access, including those for protection of controlled environments within a facility and for personal safety.
 
-(Pub. L. 109–401, title II, § 222, Dec. 18, 2006, 120 Stat. 2744.)
+(Pub. L. 109–401, title II, § 222, Dec. 18, 2006, 120 Stat. 2744.)
 
-### § 8123. Consents, warrants, and complementary access
+### § 8123. Consents, warrants, and complementary access
 
 **(a) In general**
 
@@ -311,25 +311,25 @@ For complementary access conducted in the United States pursuant to the Addition
 
 A warrant issued under paragraph (2) shall specify the same matters required of an affidavit under that paragraph. In addition, each warrant shall contain the identities of the representatives of the IAEA on the complementary access team and the identities of the representatives or designees of the United States Government required to display identifying credentials under section 8122(c) of this title.
 
-(Pub. L. 109–401, title II, § 223, Dec. 18, 2006, 120 Stat. 2745.)
+(Pub. L. 109–401, title II, § 223, Dec. 18, 2006, 120 Stat. 2745.)
 
-### § 8124. Prohibited acts relating to complementary access
+### § 8124. Prohibited acts relating to complementary access
 
 It shall be unlawful for any person willfully to fail or refuse to permit, or to disrupt, delay, or otherwise impede, a complementary access authorized by this subchapter or an entry in connection with such access.
 
-(Pub. L. 109–401, title II, § 224, Dec. 18, 2006, 120 Stat. 2747.)
+(Pub. L. 109–401, title II, § 224, Dec. 18, 2006, 120 Stat. 2747.)
 
 ## SUBCHAPTER III—CONFIDENTIALITY OF INFORMATION
 
-### § 8131. Protection of confidentiality of information
+### § 8131. Protection of confidentiality of information
 
 Information reported to, or otherwise acquired by, the United States Government under this chapter or under the Additional Protocol shall be exempt from disclosure under section 552 of title 5.
 
-(Pub. L. 109–401, title II, § 231, Dec. 18, 2006, 120 Stat. 2747.)
+(Pub. L. 109–401, title II, § 231, Dec. 18, 2006, 120 Stat. 2747.)
 
 ## SUBCHAPTER IV—ENFORCEMENT
 
-### § 8141. Recordkeeping violations
+### § 8141. Recordkeeping violations
 
 It shall be unlawful for any person willfully to fail or refuse—
 
@@ -339,9 +339,9 @@ It shall be unlawful for any person willfully to fail or refuse—
 
 **(3)** to permit access to or copying of any record by the United States Government in accordance with any regulation prescribed under this chapter.
 
-(Pub. L. 109–401, title II, § 241, Dec. 18, 2006, 120 Stat. 2747.)
+(Pub. L. 109–401, title II, § 241, Dec. 18, 2006, 120 Stat. 2747.)
 
-### § 8142. Penalties
+### § 8142. Penalties
 
 **(a) Civil**
 
@@ -403,9 +403,9 @@ Payment of penalties assessed in a final order under this section shall include 
 
 Any person who violates section 8124 of this title or section 8141 of this title may, in addition to or in lieu of any civil penalty which may be imposed under subsection (a) for such violation, be fined under title 18, imprisoned for not more than five years, or both.
 
-(Pub. L. 109–401, title II, § 242, Dec. 18, 2006, 120 Stat. 2747.)
+(Pub. L. 109–401, title II, § 242, Dec. 18, 2006, 120 Stat. 2747.)
 
-### § 8143. Specific enforcement
+### § 8143. Specific enforcement
 
 **(a) Jurisdiction** The district courts of the United States shall have jurisdiction over civil actions brought by the head of an executive agency designated under section 8111(a) of this title—
 
@@ -425,11 +425,11 @@ Any person who violates section 8124 of this title or section 8141 of this title
 
 In any such civil action, process shall be served on a defendant wherever the defendant may reside or may be found.
 
-(Pub. L. 109–401, title II, § 243, Dec. 18, 2006, 120 Stat. 2749.)
+(Pub. L. 109–401, title II, § 243, Dec. 18, 2006, 120 Stat. 2749.)
 
 ## SUBCHAPTER V—ENVIRONMENTAL SAMPLING
 
-### § 8151. Notification to Congress of IAEA Board approval of wide-area environmental sampling
+### § 8151. Notification to Congress of IAEA Board approval of wide-area environmental sampling
 
 **(a) In general**
 
@@ -443,9 +443,9 @@ Not later than 30 days after the date on which the Board of Governors of the IAE
 
 **(3)** an assessment of the ability of the approved methods and sampling techniques to detect, identify, and determine the conduct, type, and nature of nuclear activities.
 
-(Pub. L. 109–401, title II, § 251, Dec. 18, 2006, 120 Stat. 2749.)
+(Pub. L. 109–401, title II, § 251, Dec. 18, 2006, 120 Stat. 2749.)
 
-### § 8152. Application of national security exclusion to wide-area environmental sampling
+### § 8152. Application of national security exclusion to wide-area environmental sampling
 
 In accordance with Article 1(b) of the Additional Protocol, the United States shall not permit any wide-area environmental sampling proposed by the IAEA to be conducted at a specified location in the United States under Article 9 of the Additional Protocol unless the President has determined and reported to the appropriate congressional committees with respect to that proposed use of environmental sampling that—
 
@@ -459,9 +459,9 @@ In accordance with Article 1(b) of the Additional Protocol, the United States sh
 
 **(B)** has requested under Article 8 of the Additional Protocol that the IAEA engage in complementary access in the United States that involves the use of wide-area environmental sampling.
 
-(Pub. L. 109–401, title II, § 252, Dec. 18, 2006, 120 Stat. 2750.)
+(Pub. L. 109–401, title II, § 252, Dec. 18, 2006, 120 Stat. 2750.)
 
-### § 8153. Application of national security exclusion to location-specific environmental sampling
+### § 8153. Application of national security exclusion to location-specific environmental sampling
 
 In accordance with Article 1(b) of the Additional Protocol, the United States shall not permit any location-specific environmental sampling in the United States under Article 5 of the Additional Protocol unless the President has determined and reported to the appropriate congressional committees with respect to that proposed use of environmental sampling that—
 
@@ -475,9 +475,9 @@ In accordance with Article 1(b) of the Additional Protocol, the United States sh
 
 **(B)** has requested under Article 8 of the Additional Protocol that the IAEA engage in complementary access in the United States that involves the use of location-specific environmental sampling.
 
-(Pub. L. 109–401, title II, § 253, Dec. 18, 2006, 120 Stat. 2750.)
+(Pub. L. 109–401, title II, § 253, Dec. 18, 2006, 120 Stat. 2750.)
 
-### § 8154. Rule of construction
+### § 8154. Rule of construction
 
 As used in this subchapter, the term “necessary to increase the capability of the IAEA to detect undeclared nuclear activities in the territory of a non-nuclear-weapon State Party” shall not be construed to encompass proposed uses of environmental sampling that might assist the IAEA in detecting undeclared nuclear activities in the territory of a non-nuclear-weapon State Party by—
 
@@ -485,11 +485,11 @@ As used in this subchapter, the term “necessary to increase the capability of 
 
 **(2)** facilitating the formation of a political consensus or political support for such sampling in the territory of a non-nuclear-weapon State Party.
 
-(Pub. L. 109–401, title II, § 254, Dec. 18, 2006, 120 Stat. 2751.)
+(Pub. L. 109–401, title II, § 254, Dec. 18, 2006, 120 Stat. 2751.)
 
 ## SUBCHAPTER VI—PROTECTION OF NATIONAL SECURITY INFORMATION AND ACTIVITIES
 
-### § 8161. Protection of certain information
+### § 8161. Protection of certain information
 
 **(a) Locations and facilities of direct national security significance**
 
@@ -507,17 +507,17 @@ Nothing in this chapter shall be construed to permit the communication or disclo
 
 Nothing in this Act shall be construed to permit the communication or disclosure to the IAEA or IAEA employees of national security information and other classified information.
 
-(Pub. L. 109–401, title II, § 261, Dec. 18, 2006, 120 Stat. 2751.)
+(Pub. L. 109–401, title II, § 261, Dec. 18, 2006, 120 Stat. 2751.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Atomic Energy Act of 1954, referred to in subsec. (c), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (c), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
-This Act, referred to in subsec. (d), is Pub. L. 109–401, Dec. 18, 2006, 120 Stat. 2726, which enacted this chapter and chapter 87 (§ 8001 et seq.) of this title and amended section 2652c of this title and section 2153 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (d), is Pub. L. 109–401, Dec. 18, 2006, 120 Stat. 2726, which enacted this chapter and chapter 87 (§ 8001 et seq.) of this title and amended section 2652c of this title and section 2153 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
-### § 8162. IAEA inspections and visits
+### § 8162. IAEA inspections and visits
 
 **(a) Certain individuals prohibited from obtaining access**
 
@@ -531,23 +531,23 @@ IAEA inspectors shall be accompanied at all times by United States Government pe
 
 The President shall conduct vulnerability, counterintelligence, and related assessments not less than every 5 years to ensure that information of direct national security significance remains protected at all sites, locations, facilities, and activities in the United States that are subject to IAEA inspection under the Additional Protocol.
 
-(Pub. L. 109–401, title II, § 262, Dec. 18, 2006, 120 Stat. 2751.)
+(Pub. L. 109–401, title II, § 262, Dec. 18, 2006, 120 Stat. 2751.)
 
 ## SUBCHAPTER VII—REPORTS
 
-### § 8171. Report on initial United States declaration
+### § 8171. Report on initial United States declaration
 
 Not later than 60 days before submitting the initial United States declaration to the IAEA under the Additional Protocol, the President shall submit to Congress a list of the sites, locations, facilities, and activities in the United States that the President intends to declare to the IAEA, and a report thereon.
 
-(Pub. L. 109–401, title II, § 271, Dec. 18, 2006, 120 Stat. 2752.)
+(Pub. L. 109–401, title II, § 271, Dec. 18, 2006, 120 Stat. 2752.)
 
-### § 8172. Report on revisions to initial United States declaration
+### § 8172. Report on revisions to initial United States declaration
 
 Not later than 60 days before submitting to the IAEA any revisions to the United States declaration submitted under the Additional Protocol, the President shall submit to Congress a list of any sites, locations, facilities, or activities in the United States that the President intends to add to or remove from the declaration, and a report thereon.
 
-(Pub. L. 109–401, title II, § 272, Dec. 18, 2006, 120 Stat. 2752.)
+(Pub. L. 109–401, title II, § 272, Dec. 18, 2006, 120 Stat. 2752.)
 
-### § 8173. Content of reports on United States declarations
+### § 8173. Content of reports on United States declarations
 
 The reports required under section 8171 of this title and section 8172 of this title shall present the reasons for each site, location, facility, and activity being declared or being removed from the declaration list and shall certify that—
 
@@ -555,9 +555,9 @@ The reports required under section 8171 of this title and section 8172 of this t
 
 **(2)** appropriate measures have been taken to ensure that information of direct national security significance will not be compromised at any such site, location, facility, or activity in connection with an IAEA inspection.
 
-(Pub. L. 109–401, title II, § 273, Dec. 18, 2006, 120 Stat. 2752.)
+(Pub. L. 109–401, title II, § 273, Dec. 18, 2006, 120 Stat. 2752.)
 
-### § 8174. Report on efforts to promote the implementation of additional protocols
+### § 8174. Report on efforts to promote the implementation of additional protocols
 
 Not later than 180 days after the entry into force of the Additional Protocol, the President shall submit to the appropriate congressional committees a report on—
 
@@ -565,18 +565,18 @@ Not later than 180 days after the entry into force of the Additional Protocol, t
 
 **(2)** assistance that has been or should be provided by the United States to the IAEA in order to promote the effective implementation of additional protocols to existing safeguards agreements signed by non-nuclear-weapon State Parties and the verification of the compliance of such parties with IAEA obligations, with a plan for providing any needed additional funding.
 
-(Pub. L. 109–401, title II, § 274, Dec. 18, 2006, 120 Stat. 2752.)
+(Pub. L. 109–401, title II, § 274, Dec. 18, 2006, 120 Stat. 2752.)
 
-### § 8175. Notice of IAEA notifications
+### § 8175. Notice of IAEA notifications
 
 The President shall notify Congress of any notifications issued by the IAEA to the United States under Article 10 of the Additional Protocol.
 
-(Pub. L. 109–401, title II, § 275, Dec. 18, 2006, 120 Stat. 2753.)
+(Pub. L. 109–401, title II, § 275, Dec. 18, 2006, 120 Stat. 2753.)
 
 ## SUBCHAPTER VIII—AUTHORIZATION OF APPROPRIATIONS
 
-### § 8181. Authorization of appropriations
+### § 8181. Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary to carry out this chapter.
 
-(Pub. L. 109–401, title II, § 281, Dec. 18, 2006, 120 Stat. 2753.)
+(Pub. L. 109–401, title II, § 281, Dec. 18, 2006, 120 Stat. 2753.)

@@ -19,123 +19,123 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 118–210, title I, §§ 122, 123(a), 140(a), Jan. 2, 2025, 138 Stat. 2724, 2726, 2743, added items 1703G, 1720K, and 1720L.
+2025—Pub. L. 118–210, title I, §§ 122, 123(a), 140(a), Jan. 2, 2025, 138 Stat. 2724, 2726, 2743, added items 1703G, 1720K, and 1720L.
 
-2022—Pub. L. 117–328, div. U, title I, § 193A(a), Dec. 29, 2022, 136 Stat. 5439, added item 1722C.
+2022—Pub. L. 117–328, div. U, title I, § 193A(a), Dec. 29, 2022, 136 Stat. 5439, added item 1722C.
 
-Pub. L. 117–328, div. U, title I, §§ 141(a)(2), 194(b), Dec. 29, 2022, 136 Stat. 5423, 5444, which directed amendment of the analysis for subchapter I of this chapter by adding items 1703F and 1704A, was executed by adding the items to the analysis for this chapter, to reflect the probable intent of Congress.
+Pub. L. 117–328, div. U, title I, §§ 141(a)(2), 194(b), Dec. 29, 2022, 136 Stat. 5423, 5444, which directed amendment of the analysis for subchapter I of this chapter by adding items 1703F and 1704A, was executed by adding the items to the analysis for this chapter, to reflect the probable intent of Congress.
 
-2021—Pub. L. 116–315, title III, § 3002(b), title V, § 5107(a)(3), Jan. 5, 2021, 134 Stat. 4991, 5031, added item 1709C and substituted “Prohibition on collection of copayments from certain veterans” for “Prohibition on collection of copayments from catastrophically disabled veterans” in item 1730A.
+2021—Pub. L. 116–315, title III, § 3002(b), title V, § 5107(a)(3), Jan. 5, 2021, 134 Stat. 4991, 5031, added item 1709C and substituted “Prohibition on collection of copayments from certain veterans” for “Prohibition on collection of copayments from catastrophically disabled veterans” in item 1730A.
 
-Pub. L. 116–283, div. A, title VII, §§ 763(b), 764(a)(3)(B), Jan. 1, 2021, 134 Stat. 3725, 3726, which directed amendment of subchapter analysis for this chapter by adding item 1789 and substituting “Comprehensive program for suicide prevention among veterans and members of the reserve components of the Armed Forces” for “Comprehensive program for suicide prevention among veterans” in item 1720F, was executed by making the amendments to the analysis for this chapter, to reflect the probable intent of Congress.
+Pub. L. 116–283, div. A, title VII, §§ 763(b), 764(a)(3)(B), Jan. 1, 2021, 134 Stat. 3725, 3726, which directed amendment of subchapter analysis for this chapter by adding item 1789 and substituting “Comprehensive program for suicide prevention among veterans and members of the reserve components of the Armed Forces” for “Comprehensive program for suicide prevention among veterans” in item 1720F, was executed by making the amendments to the analysis for this chapter, to reflect the probable intent of Congress.
 
-Pub. L. 116–283, div. A, title VII, § 764(b)(2)(B), Jan. 1, 2021, 134 Stat. 3727, substituted “Mental health treatment for veterans and members of the reserve components of the Armed Forces who served in classified missions” for “Mental health treatment for veterans who served in classified missions” in item 1720H.
+Pub. L. 116–283, div. A, title VII, § 764(b)(2)(B), Jan. 1, 2021, 134 Stat. 3727, substituted “Mental health treatment for veterans and members of the reserve components of the Armed Forces who served in classified missions” for “Mental health treatment for veterans who served in classified missions” in item 1720H.
 
-2020—Pub. L. 116–214, title II, § 201(b), Dec. 5, 2020, 134 Stat. 1033, added item 1720J.
+2020—Pub. L. 116–214, title II, § 201(b), Dec. 5, 2020, 134 Stat. 1033, added item 1720J.
 
-2018—Pub. L. 115–182, title I, §§ 101(a)(2), 102(b), 104(b), 105(c), 109(b), 111(b), 134(b), 151(b), 152(b), 153(b), June 6, 2018, 132 Stat. 1403, 1408, 1411, 1413, 1418, 1421, 1429, 1431, 1437, 1438, substituted “Veterans Community Care Program” for “Contracts for hospital care and medical services in non-Department facilities” in item 1703, and added items 1703A to 1703E, 1706A, 1725A, 1730B, 1730C, and 1788.
+2018—Pub. L. 115–182, title I, §§ 101(a)(2), 102(b), 104(b), 105(c), 109(b), 111(b), 134(b), 151(b), 152(b), 153(b), June 6, 2018, 132 Stat. 1403, 1408, 1411, 1413, 1418, 1421, 1429, 1431, 1437, 1438, substituted “Veterans Community Care Program” for “Contracts for hospital care and medical services in non-Department facilities” in item 1703, and added items 1703A to 1703E, 1706A, 1725A, 1730B, 1730C, and 1788.
 
-Pub. L. 115–159, § 2(c), Mar. 27, 2018, 132 Stat. 1245, substituted “Nursing home care, adult day health care, and medications for veterans with service-connected disabilities” for “Nursing home care and medications for veterans with service-connected disabilities” in item 1745.
+Pub. L. 115–159, § 2(c), Mar. 27, 2018, 132 Stat. 1245, substituted “Nursing home care, adult day health care, and medications for veterans with service-connected disabilities” for “Nursing home care and medications for veterans with service-connected disabilities” in item 1745.
 
-Pub. L. 115–141, div. J, title II, § 258(b), Mar. 23, 2018, 132 Stat. 828, added item 1720I.
+Pub. L. 115–141, div. J, title II, § 258(b), Mar. 23, 2018, 132 Stat. 828, added item 1720I.
 
-2016—Pub. L. 114–315, title VI, §§ 604(b), 605(c), 606(b), title VIII, § 802(2), Dec. 16, 2016, 130 Stat. 1571, 1572, 1575, 1591, added items 1705A, 1720H, and 1784A and substituted “Traumatic brain injury: comprehensive program for long-term rehabilitation” for “Traumatic brain injury: comprehensive plan for long-term rehabilitation” in item 1710D and “Traumatic brain injury: use of non-Department facilities for rehabilitation” for “Traumatic brain injury: use of non-Departmental facilities for rehabilitation” in item 1710E.
+2016—Pub. L. 114–315, title VI, §§ 604(b), 605(c), 606(b), title VIII, § 802(2), Dec. 16, 2016, 130 Stat. 1571, 1572, 1575, 1591, added items 1705A, 1720H, and 1784A and substituted “Traumatic brain injury: comprehensive program for long-term rehabilitation” for “Traumatic brain injury: comprehensive plan for long-term rehabilitation” in item 1710D and “Traumatic brain injury: use of non-Department facilities for rehabilitation” for “Traumatic brain injury: use of non-Departmental facilities for rehabilitation” in item 1710E.
 
-Pub. L. 114–218, § 2(a)(2), July 29, 2016, 130 Stat. 843, added item 1712C.
+Pub. L. 114–218, § 2(a)(2), July 29, 2016, 130 Stat. 843, added item 1712C.
 
-2015—Pub. L. 114–2, § 2(a)(2), Feb. 12, 2015, 129 Stat. 31, added item 1709B.
+2015—Pub. L. 114–2, § 2(a)(2), Feb. 12, 2015, 129 Stat. 31, added item 1709B.
 
-2012—Pub. L. 112–154, title I, §§ 102(b)(2), 103(b), 106(b), 108(a)(2), Aug. 6, 2012, 126 Stat. 1168, 1169, 1173, 1174, added items 1709, 1709A, 1722B, and 1787.
+2012—Pub. L. 112–154, title I, §§ 102(b)(2), 103(b), 106(b), 108(a)(2), Aug. 6, 2012, 126 Stat. 1168, 1169, 1173, 1174, added items 1709, 1709A, 1722B, and 1787.
 
-2010—Pub. L. 111–163, title I, §§ 101(a)(2), 103(c), title II, § 206(b), title V, § 511(b), May 5, 2010, 124 Stat. 1137, 1140, 1146, 1164, added items 1720G, 1730A, 1782, and 1786 and struck out former item 1782 “Counseling, training, and mental health services for immediate family members”.
+2010—Pub. L. 111–163, title I, §§ 101(a)(2), 103(c), title II, § 206(b), title V, § 511(b), May 5, 2010, 124 Stat. 1137, 1140, 1146, 1164, added items 1720G, 1730A, 1782, and 1786 and struck out former item 1782 “Counseling, training, and mental health services for immediate family members”.
 
-2008—Pub. L. 110–387, title IV, § 406(b), Oct. 10, 2008, 122 Stat. 4130, added item 1729B.
+2008—Pub. L. 110–387, title IV, § 406(b), Oct. 10, 2008, 122 Stat. 4130, added item 1729B.
 
-Pub. L. 110–181, div. A, title XVII, §§ 1702(b), 1703(b), 1708(a)(3), Jan. 28, 2008, 122 Stat. 489, 490, 494, substituted “Presumptions: psychosis after service in World War II and following periods of war; mental illness following service in the Persian Gulf War” for “Presumption relating to psychosis” in item 1702 and added items 1710C to 1710E.
+Pub. L. 110–181, div. A, title XVII, §§ 1702(b), 1703(b), 1708(a)(3), Jan. 28, 2008, 122 Stat. 489, 490, 494, substituted “Presumptions: psychosis after service in World War II and following periods of war; mental illness following service in the Persian Gulf War” for “Presumption relating to psychosis” in item 1702 and added items 1710C to 1710E.
 
-2007—Pub. L. 110–110, § 3(a)(2), Nov. 5, 2007, 121 Stat. 1033, which directed amendment of the analysis for this chapter by adding item 1720F at the end, was executed by adding item 1720F after item 1720E, to reflect the probable intent of Congress.
+2007—Pub. L. 110–110, § 3(a)(2), Nov. 5, 2007, 121 Stat. 1033, which directed amendment of the analysis for this chapter by adding item 1720F at the end, was executed by adding item 1720F after item 1720E, to reflect the probable intent of Congress.
 
-2006—Pub. L. 109–461, title II, § 211(a)(4), Dec. 22, 2006, 120 Stat. 3419, added item 1745.
+2006—Pub. L. 109–461, title II, § 211(a)(4), Dec. 22, 2006, 120 Stat. 3419, added item 1745.
 
-2004—Pub. L. 108–422, title II, § 201(a)(2), Nov. 30, 2004, 118 Stat. 2382, added item 1744.
+2004—Pub. L. 108–422, title II, § 201(a)(2), Nov. 30, 2004, 118 Stat. 2382, added item 1744.
 
-2003—Pub. L. 108–7, div. K, title I, § 113(a)(2), Feb. 20, 2003, 117 Stat. 482, struck out item 1729B “Health Services Improvement Fund”.
+2003—Pub. L. 108–7, div. K, title I, § 113(a)(2), Feb. 20, 2003, 117 Stat. 482, struck out item 1729B “Health Services Improvement Fund”.
 
-2002—Pub. L. 107–287, § 4(a)(2), Nov. 7, 2002, 116 Stat. 2029, added item 1785.
+2002—Pub. L. 107–287, § 4(a)(2), Nov. 7, 2002, 116 Stat. 2029, added item 1785.
 
-Pub. L. 107–135, title II, §§ 201(b)(2), 208(f)(1), Jan. 23, 2002, 115 Stat. 2457, 2464, substituted “Limitations” for “Restriction on use of funds for assisted suicide, euthanasia, or mercy killing” in item 1707, struck out item 1713 “Medical care for survivors and dependents of certain veterans”, substituted “guide dogs; service dogs” for “seeing-eye dogs” in item 1714, and added item for subchapter VIII and items 1781 to 1784.
+Pub. L. 107–135, title II, §§ 201(b)(2), 208(f)(1), Jan. 23, 2002, 115 Stat. 2457, 2464, substituted “Limitations” for “Restriction on use of funds for assisted suicide, euthanasia, or mercy killing” in item 1707, struck out item 1713 “Medical care for survivors and dependents of certain veterans”, substituted “guide dogs; service dogs” for “seeing-eye dogs” in item 1714, and added item for subchapter VIII and items 1781 to 1784.
 
-2001—Pub. L. 107–95, § 5(g)(1), Dec. 21, 2001, 115 Stat. 918, struck out subchapter VII heading “TREATMENT AND REHABILITATION FOR SERIOUSLY MENTALLY ILL AND HOMELESS VETERANS” and items 1771 “General treatment”, 1772 “Therapeutic housing”, 1773 “Additional services at certain locations”, and 1774 “Coordination with other agencies and organizations”.
+2001—Pub. L. 107–95, § 5(g)(1), Dec. 21, 2001, 115 Stat. 918, struck out subchapter VII heading “TREATMENT AND REHABILITATION FOR SERIOUSLY MENTALLY ILL AND HOMELESS VETERANS” and items 1771 “General treatment”, 1772 “Therapeutic housing”, 1773 “Additional services at certain locations”, and 1774 “Coordination with other agencies and organizations”.
 
-2000—Pub. L. 106–419, title II, § 221(b), Nov. 1, 2000, 114 Stat. 1845, added item 1708.
+2000—Pub. L. 106–419, title II, § 221(b), Nov. 1, 2000, 114 Stat. 1845, added item 1708.
 
-1999—Pub. L. 106–117, title I, §§ 101(a)(2), (c)(2), 111(b)(2), title II, § 202(b), Nov. 30, 1999, 113 Stat. 1548, 1549, 1556, 1561, added items 1710A, 1710B, 1725, and 1729B.
+1999—Pub. L. 106–117, title I, §§ 101(a)(2), (c)(2), 111(b)(2), title II, § 202(b), Nov. 30, 1999, 113 Stat. 1548, 1549, 1556, 1561, added items 1710A, 1710B, 1725, and 1729B.
 
-1998—Pub. L. 105–368, title IX, § 901(b), Nov. 11, 1998, 112 Stat. 3360, added item 1720E.
+1998—Pub. L. 105–368, title IX, § 901(b), Nov. 11, 1998, 112 Stat. 3360, added item 1720E.
 
-1997—Pub. L. 105–114, title II, §§ 202(d), 206(b)(3), Nov. 21, 1997, 111 Stat. 2287, 2289, substituted “Treatment and rehabilitative services for persons with drug or alcohol dependency” for “Treatment and rehabilitation for alcohol or drug dependence or abuse disabilities” in item 1720A, struck out “: pilot program” after “home care” in item 1720C, and added item for subchapter VII and items 1771 to 1774.
+1997—Pub. L. 105–114, title II, §§ 202(d), 206(b)(3), Nov. 21, 1997, 111 Stat. 2287, 2289, substituted “Treatment and rehabilitative services for persons with drug or alcohol dependency” for “Treatment and rehabilitation for alcohol or drug dependence or abuse disabilities” in item 1720A, struck out “: pilot program” after “home care” in item 1720C, and added item for subchapter VII and items 1771 to 1774.
 
-Pub. L. 105–33, title VIII, § 8023(a)(2), Aug. 5, 1997, 111 Stat. 667, added item 1729A.
+Pub. L. 105–33, title VIII, § 8023(a)(2), Aug. 5, 1997, 111 Stat. 667, added item 1729A.
 
-Pub. L. 105–12, § 9(i)(2), Apr. 30, 1997, 111 Stat. 27, added item 1707.
+Pub. L. 105–12, § 9(i)(2), Apr. 30, 1997, 111 Stat. 27, added item 1707.
 
-1996—Pub. L. 104–262, title I, §§ 101(c)(2)(B), 104(a)(2), Oct. 9, 1996, 110 Stat. 3179, 3184, added items 1705 and 1706 and substituted “Dental care; drugs and medicines for certain disabled veterans; vaccines” for “Eligibility for outpatient services” in item 1712.
+1996—Pub. L. 104–262, title I, §§ 101(c)(2)(B), 104(a)(2), Oct. 9, 1996, 110 Stat. 3179, 3184, added items 1705 and 1706 and substituted “Dental care; drugs and medicines for certain disabled veterans; vaccines” for “Eligibility for outpatient services” in item 1712.
 
-1994—Pub. L. 103–452, title I, § 101(f)(2)(B), Nov. 2, 1994, 108 Stat. 4784, substituted “and treatment” for “to women veterans” in item 1720D.
+1994—Pub. L. 103–452, title I, § 101(f)(2)(B), Nov. 2, 1994, 108 Stat. 4784, substituted “and treatment” for “to women veterans” in item 1720D.
 
-1992—Pub. L. 102–585, title I, § 102(a)(2), title V, §§ 512(b), 514(b), Nov. 4, 1992, 106 Stat. 4946, 4958, added items 1704 and 1720D and struck out subchapter VII heading “PREVENTIVE HEALTH-CARE SERVICES PILOT PROGRAM” and items 1761 “Purpose”, 1762 “Definition”, 1763 “Preventive health-care services”, and 1764 “Reports”.
+1992—Pub. L. 102–585, title I, § 102(a)(2), title V, §§ 512(b), 514(b), Nov. 4, 1992, 106 Stat. 4946, 4958, added items 1704 and 1720D and struck out subchapter VII heading “PREVENTIVE HEALTH-CARE SERVICES PILOT PROGRAM” and items 1761 “Purpose”, 1762 “Definition”, 1763 “Preventive health-care services”, and 1764 “Reports”.
 
-1991—Pub. L. 102–83, § 5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 601 to 664 as 1701 to 1764, respectively.
+1991—Pub. L. 102–83, § 5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 601 to 664 as 1701 to 1764, respectively.
 
-Pub. L. 102–83, § 4(a)(5), Aug. 6, 1991, 105 Stat. 404, substituted “non-Department” for “non-Veterans’ Administration” in item 603.
+Pub. L. 102–83, § 4(a)(5), Aug. 6, 1991, 105 Stat. 404, substituted “non-Department” for “non-Veterans’ Administration” in item 603.
 
-1990—Pub. L. 101–508, title VIII, § 8012(a)(2), Nov. 5, 1990, 104 Stat. 1388–345, added item 622A.
+1990—Pub. L. 101–508, title VIII, § 8012(a)(2), Nov. 5, 1990, 104 Stat. 1388–345, added item 622A.
 
-Pub. L. 101–366, title II, § 201(a)(2), Aug. 15, 1990, 104 Stat. 438, added item 620C.
+Pub. L. 101–366, title II, § 201(a)(2), Aug. 15, 1990, 104 Stat. 438, added item 620C.
 
-1988—Pub. L. 100–322, title I, §§ 101(h)(2), 115(g)(2), May 20, 1988, 102 Stat. 492, 502, substituted “Eligibility for outpatient services” for “Eligibility for medical treatment” in item 612, substituted “Home health services; invalid” for “Invalid” in item 617, and struck out item 620C “Community based psychiatric residential treatment for chronically mentally ill veterans”.
+1988—Pub. L. 100–322, title I, §§ 101(h)(2), 115(g)(2), May 20, 1988, 102 Stat. 492, 502, substituted “Eligibility for outpatient services” for “Eligibility for medical treatment” in item 612, substituted “Home health services; invalid” for “Invalid” in item 617, and struck out item 620C “Community based psychiatric residential treatment for chronically mentally ill veterans”.
 
-1987—Pub. L. 100–6, § 2(b), Feb. 12, 1987, 101 Stat. 94, added item 620C.
+1987—Pub. L. 100–6, § 2(b), Feb. 12, 1987, 101 Stat. 94, added item 620C.
 
-1986—Pub. L. 99–576, title II, § 201(a)(2), 100 Stat. 3254, added item 620B.
+1986—Pub. L. 99–576, title II, § 201(a)(2), 100 Stat. 3254, added item 620B.
 
-Pub. L. 99–272, title XIX, §§ 19011(c)(2), 19012(b)(2), Apr. 7, 1986, 100 Stat. 378, 382, added item 603, and substituted “Determination” for “Evidence” and inserted “; income thresholds” in item 622.
+Pub. L. 99–272, title XIX, §§ 19011(c)(2), 19012(b)(2), Apr. 7, 1986, 100 Stat. 378, 382, added item 603, and substituted “Determination” for “Evidence” and inserted “; income thresholds” in item 622.
 
-1985—Pub. L. 99–166, title I, §§ 101(b)(2), 107(b), Dec. 3, 1985, 99 Stat. 943, 946, added item 612B and struck out “; pilot program” after “disabilities” in item 620A.
+1985—Pub. L. 99–166, title I, §§ 101(b)(2), 107(b), Dec. 3, 1985, 99 Stat. 943, 946, added item 612B and struck out “; pilot program” after “disabilities” in item 620A.
 
-1983—Pub. L. 98–160, title I, §§ 103(a)(3), 104(b), Nov. 21, 1983, 97 Stat. 996, 998, inserted “; adult day health care” in item 620 and added item 630.
+1983—Pub. L. 98–160, title I, §§ 103(a)(3), 104(b), Nov. 21, 1983, 97 Stat. 996, 998, inserted “; adult day health care” in item 620 and added item 630.
 
-1982—Pub. L. 97–295, § 4(15), Oct. 12, 1982, 96 Stat. 1306, substituted “Hospital care, medical services, and nursing home care abroad” for “Hospital care and medical services abroad” in item 624.
+1982—Pub. L. 97–295, § 4(15), Oct. 12, 1982, 96 Stat. 1306, substituted “Hospital care, medical services, and nursing home care abroad” for “Hospital care and medical services abroad” in item 624.
 
-1981—Pub. L. 97–72, title I, §§ 106(a)(2), 107(c)(2), (d)(2), Nov. 3, 1981, 95 Stat. 1051, 1052, 1053, added item 629, substituted “HOSPITAL CARE AND MEDICAL TREATMENT FOR VETERANS IN THE REPUBLIC OF THE PHILIPPINES” for “HOSPITAL AND MEDICAL CARE FOR COMMONWEALTH OF THE PHILIPPINES ARMY VETERANS” in item relating to subchapter IV, and substituted “Contracts and grants to provide for the care and treatment of United States veterans by the Veterans Memorial Medical Center” for “Contracts and grants to provide hospital care, medical services and nursing home care” in item 632.
+1981—Pub. L. 97–72, title I, §§ 106(a)(2), 107(c)(2), (d)(2), Nov. 3, 1981, 95 Stat. 1051, 1052, 1053, added item 629, substituted “HOSPITAL CARE AND MEDICAL TREATMENT FOR VETERANS IN THE REPUBLIC OF THE PHILIPPINES” for “HOSPITAL AND MEDICAL CARE FOR COMMONWEALTH OF THE PHILIPPINES ARMY VETERANS” in item relating to subchapter IV, and substituted “Contracts and grants to provide for the care and treatment of United States veterans by the Veterans Memorial Medical Center” for “Contracts and grants to provide hospital care, medical services and nursing home care” in item 632.
 
-1980—Pub. L. 96–330, title IV, § 401(b), Aug. 26, 1980, 94 Stat. 1051, substituted “Evidence of inability to defray necessary expenses” for “Statement under oath” in item 622.
+1980—Pub. L. 96–330, title IV, § 401(b), Aug. 26, 1980, 94 Stat. 1051, substituted “Evidence of inability to defray necessary expenses” for “Statement under oath” in item 622.
 
-1979—Pub. L. 96–22, title I, §§ 103(a)(2), 104(b), 105(b), 106(b), June 13, 1979, 93 Stat. 50, 51, 53, added items 612A, 620A, 634, and 661 to 664 and redesignated former item 634 as 635.
+1979—Pub. L. 96–22, title I, §§ 103(a)(2), 104(b), 105(b), 106(b), June 13, 1979, 93 Stat. 50, 51, 53, added items 612A, 620A, 634, and 661 to 664 and redesignated former item 634 as 635.
 
-1977—Pub. L. 95–62, § 4(b), July 5, 1977, 91 Stat. 263, struck out item 644 “Authorization of appropriations”.
+1977—Pub. L. 95–62, § 4(b), July 5, 1977, 91 Stat. 263, struck out item 644 “Authorization of appropriations”.
 
-1976—Pub. L. 94–581, title II, §§ 202(a), 203(b), Oct. 21, 1976, 90 Stat. 2855, 2856, inserted “NURSING HOME,” in chapter heading, and, in analysis of subchapter headings and section catchlines, inserted “, NURSING HOME” in item for subchapter II, inserted “, nursing home” in item 610, substituted “Care” for “Hospitalization” in item 611, and inserted “AND NURSING HOME” in item for subchapter III.
+1976—Pub. L. 94–581, title II, §§ 202(a), 203(b), Oct. 21, 1976, 90 Stat. 2855, 2856, inserted “NURSING HOME,” in chapter heading, and, in analysis of subchapter headings and section catchlines, inserted “, NURSING HOME” in item for subchapter II, inserted “, nursing home” in item 610, substituted “Care” for “Hospitalization” in item 611, and inserted “AND NURSING HOME” in item for subchapter III.
 
-1973—Pub. L. 93–82, title I, §§ 103(c), 106(b), 107(b), 109(b), Aug. 2, 1973, 87 Stat. 182, 184, 186, 187, substituted “Medical care for survivors and dependents of certain veterans” and “Fitting and training in use of prosthetic appliances; seeing-eye dogs” for “Fitting and training in use of prosthetic appliances” and “Seeing-eye dogs” in items 613 and 614, respectively, substituted “natural disaster” for “fire” in item 626, added item 628, substituted “Assistance to the Republic of the Philippines” and “Contracts and grants to provide hospital care, medical services and nursing home care” for “Grants to the Republic of the Philippines” and “Modification of agreement with the Republic of the Philippines effectuating the Act of July 1, 1948” in items 631 and 632, respectively, and added “SUBCHAPTER VI—SICKLE CELL ANEMIA” comprising items 651 to 654.
+1973—Pub. L. 93–82, title I, §§ 103(c), 106(b), 107(b), 109(b), Aug. 2, 1973, 87 Stat. 182, 184, 186, 187, substituted “Medical care for survivors and dependents of certain veterans” and “Fitting and training in use of prosthetic appliances; seeing-eye dogs” for “Fitting and training in use of prosthetic appliances” and “Seeing-eye dogs” in items 613 and 614, respectively, substituted “natural disaster” for “fire” in item 626, added item 628, substituted “Assistance to the Republic of the Philippines” and “Contracts and grants to provide hospital care, medical services and nursing home care” for “Grants to the Republic of the Philippines” and “Modification of agreement with the Republic of the Philippines effectuating the Act of July 1, 1948” in items 631 and 632, respectively, and added “SUBCHAPTER VI—SICKLE CELL ANEMIA” comprising items 651 to 654.
 
-Pub. L. 93–43, § 4(c)(2), June 18, 1973, 87 Stat. 79, struck out item 625 “Arrests for crimes in hospitals and domiciliary reservations”.
+Pub. L. 93–43, § 4(c)(2), June 18, 1973, 87 Stat. 79, struck out item 625 “Arrests for crimes in hospitals and domiciliary reservations”.
 
-1969—Pub. L. 91–178, § 2(b), Dec. 30, 1969, 83 Stat. 837, added item 644.
+1969—Pub. L. 91–178, § 2(b), Dec. 30, 1969, 83 Stat. 837, added item 644.
 
-1968—Pub. L. 90–493, § 3(b), Aug. 19, 1968, 82 Stat. 809, substituted “Invalid lifts and other devices” for “Invalid lifts and other devices for pensioners” in item 617.
+1968—Pub. L. 90–493, § 3(b), Aug. 19, 1968, 82 Stat. 809, substituted “Invalid lifts and other devices” for “Invalid lifts and other devices for pensioners” in item 617.
 
-1964—Pub. L. 88–450, §§ 2(b), 6(b), Aug. 19, 1964, 78 Stat. 500, 504, inserted “and other devices” in item 617 and added item 620.
+1964—Pub. L. 88–450, §§ 2(b), 6(b), Aug. 19, 1964, 78 Stat. 500, 504, inserted “and other devices” in item 617 and added item 620.
 
-1962—Pub. L. 87–850, § 1(b), Oct. 23, 1962, 76 Stat. 1126, added item 619.
+1962—Pub. L. 87–850, § 1(b), Oct. 23, 1962, 76 Stat. 1126, added item 619.
 
-Pub. L. 87–574, § 2(2), Aug. 6, 1962, 76 Stat. 308, added item 618.
+Pub. L. 87–574, § 2(2), Aug. 6, 1962, 76 Stat. 308, added item 618.
 
-1959—Pub. L. 86–211, § 7(b), Aug. 29, 1959, 73 Stat. 436, added item 617.
+1959—Pub. L. 86–211, § 7(b), Aug. 29, 1959, 73 Stat. 436, added item 617.
 
 ## SUBCHAPTER I—GENERAL
 
-### § 1701. Definitions
+### § 1701. Definitions
 
 For the purposes of this chapter—
 
@@ -223,13 +223,13 @@ For the purposes of this chapter—
 
 **(10)** The term “recommended adult immunization schedule” means the schedule established (and periodically reviewed and, as appropriate, revised) by the Advisory Committee on Immunization Practices established by the Secretary of Health and Human Services and delegated to the Centers for Disease Control and Prevention.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, § 601; Pub. L. 86–598, July 7, 1960, 74 Stat. 335; Pub. L. 86–639, § 2, July 12, 1960, 74 Stat. 472; Pub. L. 88–481, Aug. 22, 1964, 78 Stat. 593; Pub. L. 90–612, § 2, Oct. 21, 1968, 82 Stat. 1202; Pub. L. 93–82, title I, § 101, Aug. 2, 1973, 87 Stat. 179; Pub. L. 94–581, title I, § 102, title II, § 202(b), Oct. 21, 1976, 90 Stat. 2843, 2855; Pub. L. 95–520, § 5, Oct. 26, 1978, 92 Stat. 1820; Pub. L. 96–22, title I, § 102(c), title II, § 201(a), June 13, 1979, 93 Stat. 48, 54; Pub. L. 96–151, title II, §§ 201(b), 202, Dec. 20, 1979, 93 Stat. 1093, 1094; Pub. L. 97–72, title I, § 101, Nov. 3, 1981, 95 Stat. 1047; Pub. L. 97–251, § 4, Sept. 8, 1982, 96 Stat. 716; Pub. L. 98–105, Sept. 30, 1983, 97 Stat. 730; Pub. L. 98–160, title I, § 106(a), Nov. 21, 1983, 97 Stat. 998; Pub. L. 98–528, title I, § 103(a), Oct. 19, 1984, 98 Stat. 2688; Pub. L. 99–108, § 2, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title I, § 102(a), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, §§ 19011(d)(2), 19012(a), Apr. 7, 1986, 100 Stat. 378, 380; Pub. L. 99–576, title II, § 203, Oct. 28, 1986, 100 Stat. 3255; Pub. L. 100–322, title I, § 131, May 20, 1988, 102 Stat. 506; Pub. L. 102–54, § 14(b)(8), June 13, 1991, 105 Stat. 283; renumbered § 1701 and amended Pub. L. 102–83, §§ 4(a)(2)(E), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title V, § 513, Nov. 4, 1992, 106 Stat. 4958; Pub. L. 103–446, title XII, § 1202(b)(1), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–262, title I, §§ 101(d)(1), 103(a), Oct. 9, 1996, 110 Stat. 3179, 3182; Pub. L. 106–117, title I, § 101(b), Nov. 30, 1999, 113 Stat. 1548; Pub. L. 107–135, title II, § 208(a)(1), (e)(2), Jan. 23, 2002, 115 Stat. 2461, 2463; Pub. L. 107–330, title III, § 308(g)(3), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–170, title I, §§ 104(a), 106(a), Dec. 6, 2003, 117 Stat. 2044, 2045; Pub. L. 110–387, title III, § 301(a)(1), title VIII, § 801, Oct. 10, 2008, 122 Stat. 4120, 4140; Pub. L. 114–315, title VI, § 602(a), Dec. 16, 2016, 130 Stat. 1569; Pub. L. 115–141, div. J, title II, § 245(b), Mar. 23, 2018, 132 Stat. 823; Pub. L. 117–333, § 22, Jan. 5, 2023, 136 Stat. 6138.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, § 601; Pub. L. 86–598, July 7, 1960, 74 Stat. 335; Pub. L. 86–639, § 2, July 12, 1960, 74 Stat. 472; Pub. L. 88–481, Aug. 22, 1964, 78 Stat. 593; Pub. L. 90–612, § 2, Oct. 21, 1968, 82 Stat. 1202; Pub. L. 93–82, title I, § 101, Aug. 2, 1973, 87 Stat. 179; Pub. L. 94–581, title I, § 102, title II, § 202(b), Oct. 21, 1976, 90 Stat. 2843, 2855; Pub. L. 95–520, § 5, Oct. 26, 1978, 92 Stat. 1820; Pub. L. 96–22, title I, § 102(c), title II, § 201(a), June 13, 1979, 93 Stat. 48, 54; Pub. L. 96–151, title II, §§ 201(b), 202, Dec. 20, 1979, 93 Stat. 1093, 1094; Pub. L. 97–72, title I, § 101, Nov. 3, 1981, 95 Stat. 1047; Pub. L. 97–251, § 4, Sept. 8, 1982, 96 Stat. 716; Pub. L. 98–105, Sept. 30, 1983, 97 Stat. 730; Pub. L. 98–160, title I, § 106(a), Nov. 21, 1983, 97 Stat. 998; Pub. L. 98–528, title I, § 103(a), Oct. 19, 1984, 98 Stat. 2688; Pub. L. 99–108, § 2, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title I, § 102(a), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, §§ 19011(d)(2), 19012(a), Apr. 7, 1986, 100 Stat. 378, 380; Pub. L. 99–576, title II, § 203, Oct. 28, 1986, 100 Stat. 3255; Pub. L. 100–322, title I, § 131, May 20, 1988, 102 Stat. 506; Pub. L. 102–54, § 14(b)(8), June 13, 1991, 105 Stat. 283; renumbered § 1701 and amended Pub. L. 102–83, §§ 4(a)(2)(E), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title V, § 513, Nov. 4, 1992, 106 Stat. 4958; Pub. L. 103–446, title XII, § 1202(b)(1), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–262, title I, §§ 101(d)(1), 103(a), Oct. 9, 1996, 110 Stat. 3179, 3182; Pub. L. 106–117, title I, § 101(b), Nov. 30, 1999, 113 Stat. 1548; Pub. L. 107–135, title II, § 208(a)(1), (e)(2), Jan. 23, 2002, 115 Stat. 2461, 2463; Pub. L. 107–330, title III, § 308(g)(3), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 108–170, title I, §§ 104(a), 106(a), Dec. 6, 2003, 117 Stat. 2044, 2045; Pub. L. 110–387, title III, § 301(a)(1), title VIII, § 801, Oct. 10, 2008, 122 Stat. 4120, 4140; Pub. L. 114–315, title VI, § 602(a), Dec. 16, 2016, 130 Stat. 1569; Pub. L. 115–141, div. J, title II, § 245(b), Mar. 23, 2018, 132 Stat. 823; Pub. L. 117–333, § 22, Jan. 5, 2023, 136 Stat. 6138.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of section 1762 of this title, which was transferred to the end of this section, redesignated as par. (9), and amended by Pub. L. 102–585, was based on Pub. L. 96–22, title I, § 105(a), June 13, 1979, 93 Stat. 52, § 662; renumbered § 1762 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.
+The text of section 1762 of this title, which was transferred to the end of this section, redesignated as par. (9), and amended by Pub. L. 102–585, was based on Pub. L. 96–22, title I, § 105(a), June 13, 1979, 93 Stat. 52, § 662; renumbered § 1762 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.
 
 **Prior Provisions**
 
@@ -239,87 +239,87 @@ Prior sections 1700 and 1701 were renumbered sections 3500 and 3501 of this titl
 
 2023—Par. (6)(I). Pub. L. 117–333 added subpar. (I).
 
-2018—Par. (6)(H). Pub. L. 115–141, § 245(b)(1), added subpar. (H).
+2018—Par. (6)(H). Pub. L. 115–141, § 245(b)(1), added subpar. (H).
 
-Par. (8). Pub. L. 115–141, § 245(b)(2), inserted “chiropractic,” after “counseling,”.
+Par. (8). Pub. L. 115–141, § 245(b)(2), inserted “chiropractic,” after “counseling,”.
 
-Par. (9)(F) to (L). Pub. L. 115–141, § 245(b)(3), added subpar. (F) and redesignated former subpars. (F) to (K) as (G) to (L), respectively.
+Par. (9)(F) to (L). Pub. L. 115–141, § 245(b)(3), added subpar. (F) and redesignated former subpars. (F) to (K) as (G) to (L), respectively.
 
-2016—Par. (9)(F). Pub. L. 114–315, § 602(a)(1), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “immunizations against infectious disease;”.
+2016—Par. (9)(F). Pub. L. 114–315, § 602(a)(1), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “immunizations against infectious disease;”.
 
-Par. (10). Pub. L. 114–315, § 602(a)(2), added par. (10).
+Par. (10). Pub. L. 114–315, § 602(a)(2), added par. (10).
 
-2008—Par. (5)(B). Pub. L. 110–387, § 301(a)(1), inserted “marriage and family counseling,” after “professional counseling,” and substituted “as the Secretary considers appropriate for” for “as may be essential to”.
+2008—Par. (5)(B). Pub. L. 110–387, § 301(a)(1), inserted “marriage and family counseling,” after “professional counseling,” and substituted “as the Secretary considers appropriate for” for “as may be essential to”.
 
-Par. (6)(E) to (G). Pub. L. 110–387, § 801(2), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
+Par. (6)(E) to (G). Pub. L. 110–387, § 801(2), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
 
-Par. (10). Pub. L. 110–387, § 801(1), struck out par. (10) which read as follows:
+Par. (10). Pub. L. 110–387, § 801(1), struck out par. (10) which read as follows:
 
 “(10)(A) During the period beginning on November 30, 1999, and ending on December 31, 2008, the term ‘medical services’ includes noninstitutional extended care services.
 
 “(B) For the purposes of subparagraph (A), the term ‘noninstitutional extended care services’ means such alternatives to institutional extended care which the Secretary may furnish (i) directly, (ii) by contract, or (iii) (through provision of case management) by another provider or payor.”
 
-2003—Par. (8). Pub. L. 108–170, § 104(a), struck out “(other than those types of vocational rehabilitation services provided under chapter 31 of this title)” after “programs”.
+2003—Par. (8). Pub. L. 108–170, § 104(a), struck out “(other than those types of vocational rehabilitation services provided under chapter 31 of this title)” after “programs”.
 
-Par. (10)(A). Pub. L. 108–170, § 106(a), substituted “November 30, 1999, and ending on December 31, 2008,” for “the date of the enactment of the Veterans Millennium Health Care and Benefits Act and ending on December 31, 2003,”.
+Par. (10)(A). Pub. L. 108–170, § 106(a), substituted “November 30, 1999, and ending on December 31, 2008,” for “the date of the enactment of the Veterans Millennium Health Care and Benefits Act and ending on December 31, 2003,”.
 
-2002—Par. (5). Pub. L. 107–135, § 208(e)(2), substituted “1781(b)” for “1713(b)” in subpars. (B) and (C)(i).
+2002—Par. (5). Pub. L. 107–135, § 208(e)(2), substituted “1781(b)” for “1713(b)” in subpars. (B) and (C)(i).
 
-Par. (6). Pub. L. 107–135, § 208(a)(1)(A), (B), substituted “services, the following:” for “services—” in introductory provisions and struck out concluding provisions which read as follows: “For the purposes of this paragraph, a dependent or survivor of a veteran receiving care under the last sentence of section 1713(b) of this title shall be eligible for the same medical services as a veteran.”
+Par. (6). Pub. L. 107–135, § 208(a)(1)(A), (B), substituted “services, the following:” for “services—” in introductory provisions and struck out concluding provisions which read as follows: “For the purposes of this paragraph, a dependent or survivor of a veteran receiving care under the last sentence of section 1713(b) of this title shall be eligible for the same medical services as a veteran.”
 
-Par. (6)(A). Pub. L. 107–135, § 208(a)(1)(C), added subpar. (A) and struck out former subpar. (A) which read as follows: “(i) surgical services, dental services and appliances as described in sections 1710 and 1712 of this title, optometric and podiatric services, preventive health services, and (in the case of a person otherwise receiving care or services under this chapter) wheelchairs, artificial limbs, trusses, and similar appliances, special clothing made necessary by the wearing of prosthetic appliances, and such other supplies or services as the Secretary determines to be reasonable and necessary, except that the Secretary may not furnish sensori-neural aids other than in accordance with guidelines which the Secretary shall prescribe, and (ii) travel and incidental expenses pursuant to the provisions of section 111 of this title; and”.
+Par. (6)(A). Pub. L. 107–135, § 208(a)(1)(C), added subpar. (A) and struck out former subpar. (A) which read as follows: “(i) surgical services, dental services and appliances as described in sections 1710 and 1712 of this title, optometric and podiatric services, preventive health services, and (in the case of a person otherwise receiving care or services under this chapter) wheelchairs, artificial limbs, trusses, and similar appliances, special clothing made necessary by the wearing of prosthetic appliances, and such other supplies or services as the Secretary determines to be reasonable and necessary, except that the Secretary may not furnish sensori-neural aids other than in accordance with guidelines which the Secretary shall prescribe, and (ii) travel and incidental expenses pursuant to the provisions of section 111 of this title; and”.
 
-Par. (6)(B) to (F). Pub. L. 107–135, § 208(a)(1)(A), (C), added subpars. (B) to (F) and struck out former subpar. (B) which included in the definition of “medical services” certain necessary consultation, professional counseling, training, and mental health services.
+Par. (6)(B) to (F). Pub. L. 107–135, § 208(a)(1)(A), (C), added subpars. (B) to (F) and struck out former subpar. (B) which included in the definition of “medical services” certain necessary consultation, professional counseling, training, and mental health services.
 
-Par. (10)(A). Pub. L. 107–330, which directed the substitution of “November 30, 1999,” for “the date of the enactment of the Veterans’ Millennium Health Care and Benefits Act”, could not be executed because the word “Veterans’ ” did not appear in text.
+Par. (10)(A). Pub. L. 107–330, which directed the substitution of “November 30, 1999,” for “the date of the enactment of the Veterans’ Millennium Health Care and Benefits Act”, could not be executed because the word “Veterans’ ” did not appear in text.
 
 1999—Par. (10). Pub. L. 106–117 added par. (10).
 
-1996—Par. (6)(A)(i). Pub. L. 104–262, § 103(a), struck out “(in the case of a person otherwise receiving care or services under this chapter)” before “preventive health services,”, substituted “(in the case of a person otherwise receiving care or services under this chapter)” for “(except under the conditions described in section 1712(a)(5)(A) of this title),”, and inserted “except that the Secretary may not furnish sensori-neural aids other than in accordance with guidelines which the Secretary shall prescribe,” after “reasonable and necessary,”.
+1996—Par. (6)(A)(i). Pub. L. 104–262, § 103(a), struck out “(in the case of a person otherwise receiving care or services under this chapter)” before “preventive health services,”, substituted “(in the case of a person otherwise receiving care or services under this chapter)” for “(except under the conditions described in section 1712(a)(5)(A) of this title),”, and inserted “except that the Secretary may not furnish sensori-neural aids other than in accordance with guidelines which the Secretary shall prescribe,” after “reasonable and necessary,”.
 
-Par. (6)(B)(i)(I). Pub. L. 104–262, § 101(d)(1)(A), substituted “paragraph (1) or (2) of section 1710(a)” for “section 1712(a)”.
+Par. (6)(B)(i)(I). Pub. L. 104–262, § 101(d)(1)(A), substituted “paragraph (1) or (2) of section 1710(a)” for “section 1712(a)”.
 
-Par. (6)(B)(i)(II). Pub. L. 104–262, § 101(d)(1)(B), substituted “paragraph (1), (2) or (3) of section 1710(a)” for “section 1712(a)(5)(B)”.
+Par. (6)(B)(i)(II). Pub. L. 104–262, § 101(d)(1)(B), substituted “paragraph (1), (2) or (3) of section 1710(a)” for “section 1712(a)(5)(B)”.
 
-1994—Par. (3). Pub. L. 103–446 made technical correction to directory language of Pub. L. 102–83, § 4(a)(2)(E). See 1991 Amendment note below.
+1994—Par. (3). Pub. L. 103–446 made technical correction to directory language of Pub. L. 102–83, § 4(a)(2)(E). See 1991 Amendment note below.
 
-1992—Par. (6)(A)(i). Pub. L. 102–585, § 513(b), substituted “preventive health services,” for “preventive health-care services as defined in section 1762 of this title,”.
+1992—Par. (6)(A)(i). Pub. L. 102–585, § 513(b), substituted “preventive health services,” for “preventive health-care services as defined in section 1762 of this title,”.
 
-Par. (9). Pub. L. 102–585, § 513(a), transferred the text of section 1762 of this title to the end of this section and redesignated it as par. (9), substituted “The term ‘preventive health service’ means” for “For the purposes of this subchapter, the term ‘preventive health-care services’ means”, and redesignated pars. (1) to (11) as subpars. (A) to (K), respectively. See Codification note above.
+Par. (9). Pub. L. 102–585, § 513(a), transferred the text of section 1762 of this title to the end of this section and redesignated it as par. (9), substituted “The term ‘preventive health service’ means” for “For the purposes of this subchapter, the term ‘preventive health-care services’ means”, and redesignated pars. (1) to (11) as subpars. (A) to (K), respectively. See Codification note above.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 601 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 601 of this title as this section.
 
-Par. (2). Pub. L. 102–54, § 14(b)(8)(A), struck out “any veteran of the Indian Wars, or” after “includes”.
+Par. (2). Pub. L. 102–54, § 14(b)(8)(A), struck out “any veteran of the Indian Wars, or” after “includes”.
 
-Par. (3). Pub. L. 102–83, § 5(c)(1), substituted “1710” for “610” in subpar. (C).
+Par. (3). Pub. L. 102–83, § 5(c)(1), substituted “1710” for “610” in subpar. (C).
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in subpars. (A) to (C).
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in subpars. (A) to (C).
 
-Pub. L. 102–83, § 4(a)(2)(E), as amended by Pub. L. 103–446, substituted “facilities of the Department” for “Veterans’ Administration facilities”.
+Pub. L. 102–83, § 4(a)(2)(E), as amended by Pub. L. 103–446, substituted “facilities of the Department” for “Veterans’ Administration facilities”.
 
-Pub. L. 102–54, § 14(b)(8)(B), (C), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The term ‘period of war’ includes each of the Indian Wars.”
+Pub. L. 102–54, § 14(b)(8)(B), (C), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The term ‘period of war’ includes each of the Indian Wars.”
 
-Par. (4). Pub. L. 102–83, § 4(a)(5), substituted “non-Department” for “non-Veterans’ Administration”.
+Par. (4). Pub. L. 102–83, § 4(a)(5), substituted “non-Department” for “non-Veterans’ Administration”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Pub. L. 102–54, § 14(b)(8)(E), redesignated par. (9) as (4).
+Pub. L. 102–54, § 14(b)(8)(E), redesignated par. (9) as (4).
 
-Par. (5). Pub. L. 102–83, § 5(c)(1), substituted “1713(b)” for “613(b)” in subpars. (B) and (C)(i).
+Par. (5). Pub. L. 102–83, § 5(c)(1), substituted “1713(b)” for “613(b)” in subpars. (B) and (C)(i).
 
-Par. (6). Pub. L. 102–83, § 5(c)(1), in subpar. (A) substituted “1710 and 1712” for “610 and 612”, “1762” for “662”, and “1712(a)(5)(A)” for “612(a)(5)(A)”, in subpar. (B) substituted “1712(a)” for “612(a)”, “1712(a)(5)(B)” for “612(a)(5)(B)”, and “1713(b)” for “613(b)”, and in last sentence substituted “1713(b)” for “613(b)”.
+Par. (6). Pub. L. 102–83, § 5(c)(1), in subpar. (A) substituted “1710 and 1712” for “610 and 612”, “1762” for “662”, and “1712(a)(5)(A)” for “612(a)(5)(A)”, in subpar. (B) substituted “1712(a)” for “612(a)”, “1712(a)(5)(B)” for “612(a)(5)(B)”, and “1713(b)” for “613(b)”, and in last sentence substituted “1713(b)” for “613(b)”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Pub. L. 102–54, § 14(b)(8)(D), substituted “612(a)(5)(A)” for “612(f)(1)(A)(i)” in subpar. (A)(i) and “612(a)(5)(B)” for “612(f)(1)(A)(ii)” in subpar. (B)(i)(II).
+Pub. L. 102–54, § 14(b)(8)(D), substituted “612(a)(5)(A)” for “612(f)(1)(A)(i)” in subpar. (A)(i) and “612(a)(5)(B)” for “612(f)(1)(A)(ii)” in subpar. (B)(i)(II).
 
-Par. (9). Pub. L. 102–54, § 14(b)(8)(E), redesignated par. (9) as (4).
+Par. (9). Pub. L. 102–54, § 14(b)(8)(E), redesignated par. (9) as (4).
 
 1988—Par. (4)(C). Pub. L. 100–322 added subpar. (C).
 
-1986—Par. (4). Pub. L. 99–272, § 19012(a)(1), struck out cl. (C) and provision following such clause, both relating to private facilities under contract as Veterans’ Administration facilities.
+1986—Par. (4). Pub. L. 99–272, § 19012(a)(1), struck out cl. (C) and provision following such clause, both relating to private facilities under contract as Veterans’ Administration facilities.
 
-Par. (6)(A)(i). Pub. L. 99–272, § 19011(d)(2)(A), substituted “section 612(f)(1)(A)(i)” for “section 612(f)(1)(A)”.
+Par. (6)(A)(i). Pub. L. 99–272, § 19011(d)(2)(A), substituted “section 612(f)(1)(A)(i)” for “section 612(f)(1)(A)”.
 
 Par. (6)(B). Pub. L. 99–576 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “such consultation, professional counseling, training, and mental health services as are necessary in connection with the treatment—
 
@@ -329,11 +329,11 @@ Par. (6)(B). Pub. L. 99–576 amended subpar. (B) generally. Prior to amendment,
 
 for the members of the immediate family or legal guardian of a veteran, or the individual in whose household such veteran certifies an intention to live, as may be essential to the effective treatment and rehabilitation of the veteran (including, under the terms and conditions set forth in section 111 of this title, travel and incidental expenses of such family member or individual in the case of a veteran who is receiving care for a service-connected disability, or in the case of dependent or survivor of a veteran receiving care under the last sentence of section 613(b) of this title). For the purposes of this paragraph, a dependent or survivor of a veteran receiving care under the last sentence of section 613(b) of this title shall be eligible for the same medical services as a veteran.”
 
-Par. (6)(B)(ii). Pub. L. 99–272, § 19011(d)(2)(B), substituted “section 612(f)(1)(A)(ii)” for “section 612(f)(1)(B)”.
+Par. (6)(B)(ii). Pub. L. 99–272, § 19011(d)(2)(B), substituted “section 612(f)(1)(A)(ii)” for “section 612(f)(1)(B)”.
 
-Par. (9). Pub. L. 99–272, § 19012(a)(2), added par. (9).
+Par. (9). Pub. L. 99–272, § 19012(a)(2), added par. (9).
 
-1985—Par. (4)(C)(v). Pub. L. 99–166, § 102(a), substituted “with respect to the Commonwealth of Puerto Rico shall expire on September 30, 1988” for “(except with respect to Alaska and Hawaii) shall expire on October 31, 1985” and struck out “and to the Virgin Islands” before “of the restrictions in this subclause”.
+1985—Par. (4)(C)(v). Pub. L. 99–166, § 102(a), substituted “with respect to the Commonwealth of Puerto Rico shall expire on September 30, 1988” for “(except with respect to Alaska and Hawaii) shall expire on October 31, 1985” and struck out “and to the Virgin Islands” before “of the restrictions in this subclause”.
 
 Pub. L. 99–108 substituted “October 31, 1985” for “September 30, 1985”.
 
@@ -347,39 +347,39 @@ Par. (6)(a)(i). Pub. L. 98–160 inserted “(in the case of a person otherwise 
 
 1981—Par. (4)(C)(v). Pub. L. 97–72 substituted “September 30, 1982” for “December 31, 1981”.
 
-1979—Par. (4). Pub. L. 96–22, §§ 102(c)(1), 201(a), substituted “medical services for the treatment of any disability of a veteran described in clause (1)(B) or (2) of the first sentence, or the third sentence, of section 612(f) of this title or of a veteran described in section 612(g) of this title if the Administrator has determined, based on an examination by a physician employed by the Veterans’ Administration (or, in areas where no such physician is available, by a physician carrying out such function under a contract or fee arrangement), that the medical condition of such veteran precludes appropriate treatment in facilities described in clauses (A) and (B) of this paragraph” for “medical services for the treatment of any disability of a veteran described in clause (1)(B) or (2) of section 612(f) of this title” in subcl. (ii) of cl. (C), and added subcl. (vi) of cl. (C) and the provisions following cl. (C) relating to the periodic review of the necessity for continuing contractual arrangements in the case of veterans receiving contract care.
+1979—Par. (4). Pub. L. 96–22, §§ 102(c)(1), 201(a), substituted “medical services for the treatment of any disability of a veteran described in clause (1)(B) or (2) of the first sentence, or the third sentence, of section 612(f) of this title or of a veteran described in section 612(g) of this title if the Administrator has determined, based on an examination by a physician employed by the Veterans’ Administration (or, in areas where no such physician is available, by a physician carrying out such function under a contract or fee arrangement), that the medical condition of such veteran precludes appropriate treatment in facilities described in clauses (A) and (B) of this paragraph” for “medical services for the treatment of any disability of a veteran described in clause (1)(B) or (2) of section 612(f) of this title” in subcl. (ii) of cl. (C), and added subcl. (vi) of cl. (C) and the provisions following cl. (C) relating to the periodic review of the necessity for continuing contractual arrangements in the case of veterans receiving contract care.
 
-Par. (4)(C)(iii). Pub. L. 96–151, § 202, inserted provisions respecting safe transfer of the veteran, and substituted “medical services in” for “hospital care in”.
+Par. (4)(C)(iii). Pub. L. 96–151, § 202, inserted provisions respecting safe transfer of the veteran, and substituted “medical services in” for “hospital care in”.
 
-Par. (5)(A). Pub. L. 96–151, § 201(b)(1), substituted “travel” for “transportation”.
+Par. (5)(A). Pub. L. 96–151, § 201(b)(1), substituted “travel” for “transportation”.
 
-Par. (5)(C). Pub. L. 96–151, § 201(b)(2), substituted provisions relating to travel and incidental expenses for provisions relating to transportation and incidental expenses.
+Par. (5)(C). Pub. L. 96–151, § 201(b)(2), substituted provisions relating to travel and incidental expenses for provisions relating to transportation and incidental expenses.
 
-Par. (6)(A)(i). Pub. L. 96–22, § 102(c)(2), substituted “described in sections 610 and 612 of this title” for “authorized in sections 612 (b), (c), (d), and (e) of this title”.
+Par. (6)(A)(i). Pub. L. 96–22, § 102(c)(2), substituted “described in sections 610 and 612 of this title” for “authorized in sections 612 (b), (c), (d), and (e) of this title”.
 
-Par. (6)(B). Pub. L. 96–151, § 201(b)(3), substituted “travel and incidental expenses” for “necessary expenses of travel and subsistence”.
+Par. (6)(B). Pub. L. 96–151, § 201(b)(3), substituted “travel and incidental expenses” for “necessary expenses of travel and subsistence”.
 
 1978—Par. (4)(C)(v). Pub. L. 95–520 defined “Veterans’ Administration facilities” to include certain private facilities to provide medical services to obviate the need for hospital admission, deleted reference to hospital care for veterans in a territory, Commonwealth, or possession of the United States not contiguous to the forty-eight contiguous States, substituted provision requiring the annually determined hospital patient load and incidence of the provision of medical services to veterans hospitalized or treated at expense of Veterans’ Administration in Government and private facilities in each noncontiguous State to be consistent with patient load or incidence of the provision of medical services for veterans hospitalized or treated by the Veterans’ Administration within the forty-eight contiguous States for prior requirement that the annually determined average hospital patient load per thousand veteran population hospitalized at Veterans’ Administration expense in Government and private facilities in each noncontiguous State not exceed the average patient load per thousand veteran population hospitalized by the Veterans’ Administration within the forty-eight contiguous States; extended termination date for exercise of subcl. (v) authority to Dec. 31, 1981, from Dec. 31, 1978, except as to Alaska and Hawaii, and authorized waiver by the Administrator, to prevent hardship, of applicability to Puerto Rico and Virgin Islands of subcl. (v) restrictions with respect to hospital patient loads and incidence of provision of medical services.
 
-1976—Par. (4)(A). Pub. L. 94–581, § 202(b)(1), substituted “direct jurisdiction” for “direct and exclusive jurisdiction”.
+1976—Par. (4)(A). Pub. L. 94–581, § 202(b)(1), substituted “direct jurisdiction” for “direct and exclusive jurisdiction”.
 
-Par. (4)(C). Pub. L. 94–581, § 202(b)(2), inserted “when facilities described in clause (A) or (B) of this paragraph are not capable of furnishing economical care because of geographical inaccessibility or of furnishing the care or services required” after “contracts” in provisions preceding subcl. (i), substituted “to a veteran for the treatment of a service-connected disability or a disability for which a veteran was discharged” for “for persons suffering from service-connected disabilities or from disabilities for which such persons were discharged” in subcl. (i), added subcls. (ii) and (iii), redesignated former subcls. (ii) and (iii) as (iv) and (v), respectively, and in subcl. (v) as so redesignated, substituted “subclause (v)” for “clause (iii)”.
+Par. (4)(C). Pub. L. 94–581, § 202(b)(2), inserted “when facilities described in clause (A) or (B) of this paragraph are not capable of furnishing economical care because of geographical inaccessibility or of furnishing the care or services required” after “contracts” in provisions preceding subcl. (i), substituted “to a veteran for the treatment of a service-connected disability or a disability for which a veteran was discharged” for “for persons suffering from service-connected disabilities or from disabilities for which such persons were discharged” in subcl. (i), added subcls. (ii) and (iii), redesignated former subcls. (ii) and (iii) as (iv) and (v), respectively, and in subcl. (v) as so redesignated, substituted “subclause (v)” for “clause (iii)”.
 
-Par. (5)(A)(ii). Pub. L. 94–581, § 202(b)(3), substituted “pursuant to the provisions of section 111 of this title” for “for any veteran who is in need of treatment for a service-connected disability or who is unable to defray the expense of transportation”.
+Par. (5)(A)(ii). Pub. L. 94–581, § 202(b)(3), substituted “pursuant to the provisions of section 111 of this title” for “for any veteran who is in need of treatment for a service-connected disability or who is unable to defray the expense of transportation”.
 
-Par. (5)(B). Pub. L. 94–581, § 102(1), substituted “for the members of the immediate family or legal guardian of a veteran, or the individual in whose household such veteran certifies an intention to live, as may be essential to the effective treatment and rehabilitation of a veteran or dependent or survivor of a veteran receiving care under the last sentence of section 613(b) of this title; and” for “(including (i) necessary expenses for transportation if unable to defray such expenses; or (ii) necessary expenses of transportation and subsistence in the case of a veteran who is receiving care for a service-connected disability, or in the case of a dependent or survivor of a veteran receiving care under the last sentence of section 613(b) of this title, under the terms and conditions set forth in section 111 of this title) of the members of the immediate family (including legal guardians) of a veteran or such a dependent or survivor of a veteran, or in the case of a veteran or such dependent or survivor of a veteran who has no immediate family members (or legal guardian), the person in whose household such veteran, or such a dependent or survivor certifies his intention to live, as may be necessary or appropriate to the effective treatment and rehabilitation of a veteran or such a dependent or a survivor of a veteran; and”.
+Par. (5)(B). Pub. L. 94–581, § 102(1), substituted “for the members of the immediate family or legal guardian of a veteran, or the individual in whose household such veteran certifies an intention to live, as may be essential to the effective treatment and rehabilitation of a veteran or dependent or survivor of a veteran receiving care under the last sentence of section 613(b) of this title; and” for “(including (i) necessary expenses for transportation if unable to defray such expenses; or (ii) necessary expenses of transportation and subsistence in the case of a veteran who is receiving care for a service-connected disability, or in the case of a dependent or survivor of a veteran receiving care under the last sentence of section 613(b) of this title, under the terms and conditions set forth in section 111 of this title) of the members of the immediate family (including legal guardians) of a veteran or such a dependent or survivor of a veteran, or in the case of a veteran or such dependent or survivor of a veteran who has no immediate family members (or legal guardian), the person in whose household such veteran, or such a dependent or survivor certifies his intention to live, as may be necessary or appropriate to the effective treatment and rehabilitation of a veteran or such a dependent or a survivor of a veteran; and”.
 
-Par. (6). Pub. L. 94–581, § 102(2), expanded definition of “medical services” to include rehabilitation services, podiatric services, and travel and incidental expenses pursuant to the provisions of section 111 of this title, and, for the members of the immediate family or legal guardian of a veteran, or the individual in whose household such veteran certifies an intention to live, as may be essential to the effective treatment and rehabilitation of the veteran, such consultation, professional counseling, training, and mental health services as are necessary in connection with the treatment of the service-connected disability of a veteran pursuant to section 612(a) of this title, and, in the discretion of the Administrator, of the non-service-connected disability of a veteran eligible for treatment under section 612(f)(1)(B) of this title where such services were initiated during the veteran’s hospitalization and the provision of such services on an outpatient basis is essential to permit the discharge of the veteran from the hospital.
+Par. (6). Pub. L. 94–581, § 102(2), expanded definition of “medical services” to include rehabilitation services, podiatric services, and travel and incidental expenses pursuant to the provisions of section 111 of this title, and, for the members of the immediate family or legal guardian of a veteran, or the individual in whose household such veteran certifies an intention to live, as may be essential to the effective treatment and rehabilitation of the veteran, such consultation, professional counseling, training, and mental health services as are necessary in connection with the treatment of the service-connected disability of a veteran pursuant to section 612(a) of this title, and, in the discretion of the Administrator, of the non-service-connected disability of a veteran eligible for treatment under section 612(f)(1)(B) of this title where such services were initiated during the veteran’s hospitalization and the provision of such services on an outpatient basis is essential to permit the discharge of the veteran from the hospital.
 
-Par. (7). Pub. L. 94–581, § 102(3), substituted “necessary medical services and travel and incidental expenses pursuant to the provisions of section 111 of this title” for “transportation and incidental expenses for veterans who are unable to defray the expenses of transportation”.
+Par. (7). Pub. L. 94–581, § 102(3), substituted “necessary medical services and travel and incidental expenses pursuant to the provisions of section 111 of this title” for “transportation and incidental expenses for veterans who are unable to defray the expenses of transportation”.
 
-Par. (8). Pub. L. 94–581, § 102(4), added par. (8).
+Par. (8). Pub. L. 94–581, § 102(4), added par. (8).
 
-1973—Par. (4)(C). Pub. L. 93–82, § 101(a), extended the Administrator’s contract authority for providing hospital care and medical services to persons suffering from service-connected disabilities or from disabilities for which such persons were discharged or released from the active military, naval, or air service and removed the limitation on such authority that such care be rendered in emergency cases only.
+1973—Par. (4)(C). Pub. L. 93–82, § 101(a), extended the Administrator’s contract authority for providing hospital care and medical services to persons suffering from service-connected disabilities or from disabilities for which such persons were discharged or released from the active military, naval, or air service and removed the limitation on such authority that such care be rendered in emergency cases only.
 
-Par. (5). Pub. L. 93–82, § 101(b), incorporated existing provisions in subpar. (A) and added subpars. (B) and (C).
+Par. (5). Pub. L. 93–82, § 101(b), incorporated existing provisions in subpar. (A) and added subpars. (B) and (C).
 
-Par. (6). Pub. L. 93–82, § 101(c), expanded definition of “medical services” to include home health services determined by the Secretary to be necessary or appropriate for the effective and economical treatment of a disability of a veteran or a dependent or survivor of a veteran receiving care under section 613(b) of this title.
+Par. (6). Pub. L. 93–82, § 101(c), expanded definition of “medical services” to include home health services determined by the Secretary to be necessary or appropriate for the effective and economical treatment of a disability of a veteran or a dependent or survivor of a veteran receiving care under section 613(b) of this title.
 
 1968—Par. (4)(C)(iii). Pub. L. 90–612 expanded category of veterans of wars in the Territories, Commonwealths, or possessions of the United States to include, until December 31, 1978, veterans of such wars in States not contiguous to the forty-eight contiguous States, with the annually determined average hospital patient load per thousand of hospitalized veteran population in each such noncontiguous States not to exceed the average within the forty-eight contiguous States.
 
@@ -393,7 +393,7 @@ Pub. L. 86–598 inserted “optometrists’ services” after “medical examin
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–446, title XII, § 1202(b), Nov. 2, 1994, 108 Stat. 4689, provided that the amendment made by that section is effective Aug. 6, 1991, and as if included in the enactment of Pub. L. 102–83.
+Pub. L. 103–446, title XII, § 1202(b), Nov. 2, 1994, 108 Stat. 4689, provided that the amendment made by that section is effective Aug. 6, 1991, and as if included in the enactment of Pub. L. 102–83.
 
 **Effective Date of 1986 Amendment**
 
@@ -403,7 +403,7 @@ Amendment by section 19011(d)(2) of Pub. L. 99–272 applicable to hospital care
 
 Amendment by Pub. L. 96–151 effective Jan. 1, 1980, see section 206 of Pub. L. 96–151, set out as a note under section 111 of this title.
 
-Pub. L. 96–22, title I, § 107, June 13, 1979, 93 Stat. 53, provided that: “The amendments made to title 38, United States Code, by sections 102, 103, 104, 105, and 106 of this Act [see Tables for classification] shall be effective on October 1, 1979.”
+Pub. L. 96–22, title I, § 107, June 13, 1979, 93 Stat. 53, provided that: “The amendments made to title 38, United States Code, by sections 102, 103, 104, 105, and 106 of this Act [see Tables for classification] shall be effective on October 1, 1979.”
 
 **Effective Date of 1976 Amendment**
 
@@ -411,15 +411,15 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 **Effective Date of 1973 Amendment**
 
-Pub. L. 93–82, title V, § 501, Aug. 2, 1973, 87 Stat. 196, provided that: “The provisions of this Act [see Tables for classification] shall become effective the first day of the first calendar month following the date of enactment [Aug. 2, 1973], except that sections 105 and 106 [amending section 626 [now 1726] of this title and enacting section 628 [now 1728] of this title] shall be effective on January 1, 1971; section 107 [enacting sections 631 and 632 [now 1731 and 1732] of this title and provisions set out as note under section 1732 of this title] shall be effective July 1, 1973; and section 203 [amending former section 4107 of this title] shall become effective beginning the first pay period following thirty days after the date of enactment of this Act [Aug. 2, 1973].”
+Pub. L. 93–82, title V, § 501, Aug. 2, 1973, 87 Stat. 196, provided that: “The provisions of this Act [see Tables for classification] shall become effective the first day of the first calendar month following the date of enactment [Aug. 2, 1973], except that sections 105 and 106 [amending section 626 [now 1726] of this title and enacting section 628 [now 1728] of this title] shall be effective on January 1, 1971; section 107 [enacting sections 631 and 632 [now 1731 and 1732] of this title and provisions set out as note under section 1732 of this title] shall be effective July 1, 1973; and section 203 [amending former section 4107 of this title] shall become effective beginning the first pay period following thirty days after the date of enactment of this Act [Aug. 2, 1973].”
 
 **Construction of 2016 Amendment**
 
-Pub. L. 114–315, title VI, § 602(d), Dec. 16, 2016, 130 Stat. 1570, provided that: “Nothing in this section [amending this section and section 1704 of this title] or the amendments made by this section may be construed to require a veteran to receive an immunization that the veteran does not want to receive.”
+Pub. L. 114–315, title VI, § 602(d), Dec. 16, 2016, 130 Stat. 1570, provided that: “Nothing in this section [amending this section and section 1704 of this title] or the amendments made by this section may be construed to require a veteran to receive an immunization that the veteran does not want to receive.”
 
 **Strategic Plan on Value-Based Health Care System for Veterans Health Administration; Pilot Program**
 
-Pub. L. 118–210, title I, § 107, Jan. 2, 2025, 138 Stat. 2716, provided that:
+Pub. L. 118–210, title I, § 107, Jan. 2, 2025, 138 Stat. 2716, provided that:
 
 > **“(a) Establishment of Working Group.—**
 
@@ -579,7 +579,7 @@ Pub. L. 118–210, title I, § 107, Jan. 2, 2025, 138 Stat. 2716, provided tha
 
 **Documentation of Preferences of Veterans for Scheduling of Appointments for Health Care Under Laws Administered by Secretary of Veterans Affairs**
 
-Pub. L. 118–210, title I, § 145, Jan. 2, 2025, 138 Stat. 2751, provided that:
+Pub. L. 118–210, title I, § 145, Jan. 2, 2025, 138 Stat. 2751, provided that:
 
 > **“(a) In General.—** Not later than one year after the date of the enactment of this Act [Jan. 2, 2025], the Secretary of Veterans Affairs shall develop a mechanism to solicit information regarding the preference of veterans enrolled in the system of annual patient enrollment of the Department of Veterans Affairs established and operated under section 1705(a) of title 38, United States Code, for scheduling of appointments for health care and related services under the laws administered by the Secretary, including through non-Department providers.
 
@@ -609,7 +609,7 @@ Pub. L. 118–210, title I, § 145, Jan. 2, 2025, 138 Stat. 2751, provided tha
 
 **Staffing Model and Performance Metrics for Certain Employees of the Department of Veterans Affairs**
 
-Pub. L. 118–210, title I, § 146, Jan. 2, 2025, 138 Stat. 2752, provided that:
+Pub. L. 118–210, title I, § 146, Jan. 2, 2025, 138 Stat. 2752, provided that:
 
 > **“(a) Staffing Model.—**
 
@@ -651,11 +651,11 @@ Pub. L. 118–210, title I, § 146, Jan. 2, 2025, 138 Stat. 2752, provided tha
 
 **Online Health Education Portal for Veterans Enrolled in Patient Enrollment System of Department of Veterans Affairs**
 
-Pub. L. 118–210, title I, § 147, Jan. 2, 2025, 138 Stat. 2754, provided that: “Not later than one year after the date of the enactment of this Act [Jan. 2, 2025], the Secretary of Veterans Affairs shall establish, on an Internet website of the Department, a health education portal that includes interactive educational modules to ensure veterans enrolled in the patient enrollment system of the Department of Veterans Affairs established and operated under section 1705(a) of title 38, United States Code, understand the basic health care eligibilities and entitlements of veterans under the laws administered by the Secretary, including under the Veterans Community Care Program under section 1703 of such title.”
+Pub. L. 118–210, title I, § 147, Jan. 2, 2025, 138 Stat. 2754, provided that: “Not later than one year after the date of the enactment of this Act [Jan. 2, 2025], the Secretary of Veterans Affairs shall establish, on an Internet website of the Department, a health education portal that includes interactive educational modules to ensure veterans enrolled in the patient enrollment system of the Department of Veterans Affairs established and operated under section 1705(a) of title 38, United States Code, understand the basic health care eligibilities and entitlements of veterans under the laws administered by the Secretary, including under the Veterans Community Care Program under section 1703 of such title.”
 
 **Department of Veterans Affairs Treatment and Research of Prostate Cancer**
 
-Pub. L. 117–328, div. U, title I, § 102, Dec. 29, 2022, 136 Stat. 5408, provided that:
+Pub. L. 117–328, div. U, title I, § 102, Dec. 29, 2022, 136 Stat. 5408, provided that:
 
 > **“(a) Findings.—** Congress makes the following findings:
 
@@ -747,7 +747,7 @@ Pub. L. 117–328, div. U, title I, § 102, Dec. 29, 2022, 136 Stat. 5408, pro
 
 **Strategic Plan To Ensure Continuity of Care in the Case of the Realignment of a Medical Facility of the Department**
 
-Pub. L. 117–328, div. U, title I, § 126, Dec. 29, 2022, 136 Stat. 5418, provided that:
+Pub. L. 117–328, div. U, title I, § 126, Dec. 29, 2022, 136 Stat. 5418, provided that:
 
 > **“(a) Sense of Congress.—** It is the sense of Congress that the Veterans Health Administration should ensure that veterans do not experience a lapse of care when transitioning in receiving care due to the realignment of a medical facility of the Department of Veterans Affairs.
 
@@ -785,7 +785,7 @@ Pub. L. 117–328, div. U, title I, § 126, Dec. 29, 2022, 136 Stat. 5418, pro
 
 **Establishment of Strategic Plan Requirement for Office of Connected Care of Department of Veterans Affairs**
 
-Pub. L. 117–328, div. U, title I, § 151, Dec. 29, 2022, 136 Stat. 5425, provided that:
+Pub. L. 117–328, div. U, title I, § 151, Dec. 29, 2022, 136 Stat. 5425, provided that:
 
 > **“(a) Findings.—** Congress makes the following findings:
 
@@ -867,7 +867,7 @@ Pub. L. 117–328, div. U, title I, § 151, Dec. 29, 2022, 136 Stat. 5425, pro
 
 **Improved Accessibility and Accuracy of Data Provided by Department of Veterans Affairs**
 
-Pub. L. 117–328, div. U, title I, § 195(b), (c), Dec. 29, 2022, 136 Stat. 5445, provided that:
+Pub. L. 117–328, div. U, title I, § 195(b), (c), Dec. 29, 2022, 136 Stat. 5445, provided that:
 
 > **“(b) Requirements of Website.—**
 
@@ -913,7 +913,7 @@ Pub. L. 117–328, div. U, title I, § 195(b), (c), Dec. 29, 2022, 136 Stat. 5
 
 **Improvement of Sleep Disorder Care Furnished by Department of Veterans Affairs**
 
-Pub. L. 117–328, div. V, title V, § 502, Dec. 29, 2022, 136 Stat. 5514, provided that:
+Pub. L. 117–328, div. V, title V, § 502, Dec. 29, 2022, 136 Stat. 5514, provided that:
 
 > **“(a) In General.—** Pursuant to the analysis conducted under subsection (b), the Secretary of Veterans Affairs shall take such action as the Secretary considers appropriate to improve the assessment and treatment of veterans with sleep disorders, including by conducting in-home sleep studies for veterans.
 
@@ -987,7 +987,7 @@ Pub. L. 117–4, Mar. 24, 2021, 135 Stat. 247, provided that:
 
 **Prohibition on Copayments and Cost Sharing for Veterans During Emergency Relating to COVID–19**
 
-Pub. L. 117–2, title VIII, § 8007, Mar. 11, 2021, 135 Stat. 116, provided that:
+Pub. L. 117–2, title VIII, § 8007, Mar. 11, 2021, 135 Stat. 116, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs—
 
@@ -1001,7 +1001,7 @@ Pub. L. 117–2, title VIII, § 8007, Mar. 11, 2021, 135 Stat. 116, provided t
 
 **Oversight for State Homes Regarding COVID–19 Infections, Response Capacity, and Staffing Levels**
 
-Pub. L. 116–315, title III, § 3003, Jan. 5, 2021, 134 Stat. 4991, provided that:
+Pub. L. 116–315, title III, § 3003, Jan. 5, 2021, 134 Stat. 4991, provided that:
 
 > **“(a) Reporting.—**
 
@@ -1059,7 +1059,7 @@ Pub. L. 116–315, title III, § 3003, Jan. 5, 2021, 134 Stat. 4991, provided 
 
 **Process and Requirements for Scheduling Appointments for Health Care From Department of Veterans Affairs and Non-Department Health Care**
 
-Pub. L. 116–315, title III, § 3101, Jan. 5, 2021, 134 Stat. 4999, provided that:
+Pub. L. 116–315, title III, § 3101, Jan. 5, 2021, 134 Stat. 4999, provided that:
 
 > **“(a) Process and Requirements.—**
 
@@ -1113,7 +1113,7 @@ Pub. L. 116–315, title III, § 3101, Jan. 5, 2021, 134 Stat. 4999, provided 
 
 **Audits Regarding Scheduling of Appointments and Management of Consultations for Health Care From Department of Veterans Affairs and Non-Department Health Care**
 
-Pub. L. 116–315, title III, § 3102, Jan. 5, 2021, 134 Stat. 5001, provided that:
+Pub. L. 116–315, title III, § 3102, Jan. 5, 2021, 134 Stat. 5001, provided that:
 
 > **“(a) In General.—** Not later than each of one year and two years after the date of the enactment of this Act [Jan. 5, 2021], the Secretary of Veterans Affairs shall provide for the conduct of a facility-level audit of the scheduling of appointments and the management of consultations for health care under the laws administered by the Secretary.
 
@@ -1219,7 +1219,7 @@ Pub. L. 116–315, title III, § 3102, Jan. 5, 2021, 134 Stat. 5001, provided 
 
 **Establishment of Environment of Care Standards and Inspections at Department of Veterans Affairs Medical Centers**
 
-Pub. L. 116–315, title V, § 5103, Jan. 5, 2021, 134 Stat. 5027, provided that:
+Pub. L. 116–315, title V, § 5103, Jan. 5, 2021, 134 Stat. 5027, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs shall establish a policy under which the environment of care standards and inspections at medical centers of the Department of Veterans Affairs include—
 
@@ -1237,7 +1237,7 @@ Pub. L. 116–315, title V, § 5103, Jan. 5, 2021, 134 Stat. 5027, provided th
 
 **Study on Staffing of Women Veteran Program Manager Program at Medical Centers of Department of Veterans Affairs and Training of Staff**
 
-Pub. L. 116–315, title V, § 5204, Jan. 5, 2021, 134 Stat. 5035, provided that:
+Pub. L. 116–315, title V, § 5204, Jan. 5, 2021, 134 Stat. 5035, provided that:
 
 > **“(a) Study.—** The Secretary of Veterans Affairs shall conduct a study on the use of the Women Veteran Program Manager program of the Department of Veterans Affairs to determine—
 
@@ -1253,11 +1253,11 @@ Pub. L. 116–315, title V, § 5204, Jan. 5, 2021, 134 Stat. 5035, provided th
 
 **Recording of Obligations**
 
-Pub. L. 116–260, div. FF, title XVI, § 1601, Dec. 27, 2020, 134 Stat. 3290, provided that: “Hereafter, subject to the availability of appropriations, the Secretary of Veterans Affairs shall record as an obligation of the United States Government amounts owed for hospital care or medical services furnished at non-Department facilities under title 38, United States Code, or Acts making appropriations for the Department of Veterans Affairs, on the date on which the Secretary approves: (i) a claim by a health care provider for payment or (ii) a voucher, invoice, or request for payment from a vendor for services rendered under a contract: *Provided*, That for any fiscal year in which an appropriation for the payment of hospital care or medical services furnished at non-Department facilities has been exhausted or has yet to be enacted, this title shall not provide the Secretary of Veterans Affairs with the authority to issue any new authorizations or orders for such care or such services in advance of such appropriation: *Provided further*, That this title shall take effect as if enacted on October 1, 2018: *Provided further*, That not later than 30 days after the date of enactment of this Act [Dec. 27, 2020], the Department of Veterans Affairs, in consultation with the Office of Management and Budget, shall submit a report to the President and the Congress, similar to the report required pursuant to 31 U.S.C. 1351, detailing how, in the absence of the enactment of this title, the expenditures or obligations would have exceeded the amount available in fiscal year 2019 and fiscal year 2020 in the Medical Community Care appropriation: *Provided further*, That the report required in the preceding proviso shall also include an explanation as to how the Department plans to avoid incurring obligations for the Medical Community Care appropriation in excess of its available budgetary resources in fiscal year 2021 and future fiscal years pursuant to the recording of obligations required by this title.”
+Pub. L. 116–260, div. FF, title XVI, § 1601, Dec. 27, 2020, 134 Stat. 3290, provided that: “Hereafter, subject to the availability of appropriations, the Secretary of Veterans Affairs shall record as an obligation of the United States Government amounts owed for hospital care or medical services furnished at non-Department facilities under title 38, United States Code, or Acts making appropriations for the Department of Veterans Affairs, on the date on which the Secretary approves: (i) a claim by a health care provider for payment or (ii) a voucher, invoice, or request for payment from a vendor for services rendered under a contract: *Provided*, That for any fiscal year in which an appropriation for the payment of hospital care or medical services furnished at non-Department facilities has been exhausted or has yet to be enacted, this title shall not provide the Secretary of Veterans Affairs with the authority to issue any new authorizations or orders for such care or such services in advance of such appropriation: *Provided further*, That this title shall take effect as if enacted on October 1, 2018: *Provided further*, That not later than 30 days after the date of enactment of this Act [Dec. 27, 2020], the Department of Veterans Affairs, in consultation with the Office of Management and Budget, shall submit a report to the President and the Congress, similar to the report required pursuant to 31 U.S.C. 1351, detailing how, in the absence of the enactment of this title, the expenditures or obligations would have exceeded the amount available in fiscal year 2019 and fiscal year 2020 in the Medical Community Care appropriation: *Provided further*, That the report required in the preceding proviso shall also include an explanation as to how the Department plans to avoid incurring obligations for the Medical Community Care appropriation in excess of its available budgetary resources in fiscal year 2021 and future fiscal years pursuant to the recording of obligations required by this title.”
 
 **Expanded Telehealth From Department of Veterans Affairs**
 
-Pub. L. 116–171, title VII, § 701, Oct. 17, 2020, 134 Stat. 825, provided that:
+Pub. L. 116–171, title VII, § 701, Oct. 17, 2020, 134 Stat. 825, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs shall enter into agreements, and expand existing agreements, with organizations that represent or serve veterans, nonprofit organizations, private businesses, and other interested parties for the expansion of telehealth capabilities and the provision of telehealth services to veterans through the award of grants under subsection (b).
 
@@ -1327,7 +1327,7 @@ Pub. L. 116–171, title VII, § 701, Oct. 17, 2020, 134 Stat. 825, provided t
 
 **Partnerships to Provide Hyperbaric Oxygen Therapy to Veterans**
 
-Pub. L. 116–171, title VII, § 702(a), Oct. 17, 2020, 134 Stat. 827, provided that:
+Pub. L. 116–171, title VII, § 702(a), Oct. 17, 2020, 134 Stat. 827, provided that:
 
 > **“(1) Use of partnerships.—** The Secretary of Veterans Affairs, in consultation with the Center for Compassionate Innovation within the Office of Community Engagement of the Department of Veterans Affairs, may enter into partnerships with non-Federal Government entities to provide hyperbaric oxygen treatment to veterans to research the effectiveness of such therapy.
 
@@ -1345,15 +1345,15 @@ Pub. L. 116–171, title VII, § 702(a), Oct. 17, 2020, 134 Stat. 827, provide
 
 **Review of Effectiveness of Hyperbaric Oxygen Therapy**
 
-Pub. L. 116–171, title VII, § 702(b), Oct. 17, 2020, 134 Stat. 827, provided that: “Not later than 90 days after the date of the enactment of this Act [Oct. 17, 2020], the Secretary [of Veterans Affairs], in consultation with the Center for Compassionate Innovation, shall begin using an objective and quantifiable method to review the effectiveness and applicability of hyperbaric oxygen therapy, such as through the use of a device approved or cleared by the Food and Drug Administration that assesses traumatic brain injury by tracking eye movement.”
+Pub. L. 116–171, title VII, § 702(b), Oct. 17, 2020, 134 Stat. 827, provided that: “Not later than 90 days after the date of the enactment of this Act [Oct. 17, 2020], the Secretary [of Veterans Affairs], in consultation with the Center for Compassionate Innovation, shall begin using an objective and quantifiable method to review the effectiveness and applicability of hyperbaric oxygen therapy, such as through the use of a device approved or cleared by the Food and Drug Administration that assesses traumatic brain injury by tracking eye movement.”
 
 **Coverage of Testing for COVID–19: Application With Respect to Veterans**
 
-Pub. L. 116–127, div. F, § 6006(b), Mar. 18, 2020, 134 Stat. 207, provided that: “The Secretary of Veterans Affairs may not require any copayment or other cost sharing under chapter 17 of title 38, United States Code, for in vitro diagnostic products described in paragraph (1) of section 6001(a) [of Pub. L. 116–127, 42 U.S.C. 1320b–5 note] (or the administration of such products) or visits described in paragraph (2) of such section furnished during any portion of the emergency period defined in paragraph (1)(B) of section 1135(g) of the Social Security Act (42 U.S.C. 1320b–5(g)) beginning on or after the date of the enactment of this Act [Mar. 18, 2020].”
+Pub. L. 116–127, div. F, § 6006(b), Mar. 18, 2020, 134 Stat. 207, provided that: “The Secretary of Veterans Affairs may not require any copayment or other cost sharing under chapter 17 of title 38, United States Code, for in vitro diagnostic products described in paragraph (1) of section 6001(a) [of Pub. L. 116–127, 42 U.S.C. 1320b–5 note] (or the administration of such products) or visits described in paragraph (2) of such section furnished during any portion of the emergency period defined in paragraph (1)(B) of section 1135(g) of the Social Security Act (42 U.S.C. 1320b–5(g)) beginning on or after the date of the enactment of this Act [Mar. 18, 2020].”
 
 **Plans To Improve Medical Facilities of the Department of Veterans Affairs**
 
-Pub. L. 115–407, title VI, § 602, Dec. 31, 2018, 132 Stat. 5380, provided that:
+Pub. L. 115–407, title VI, § 602, Dec. 31, 2018, 132 Stat. 5380, provided that:
 
 > **“(a) Plans Required.—**
 
@@ -1367,7 +1367,7 @@ Pub. L. 115–407, title VI, § 602, Dec. 31, 2018, 132 Stat. 5380, provided t
 
 **Prevention of Certain Health Care Providers From Providing Non-Department Health Care Services to Veterans**
 
-Pub. L. 115–182, title I, § 108, June 6, 2018, 132 Stat. 1416, as amended by Pub. L. 117–328, div. U, title I, § 144, Dec. 29, 2022, 136 Stat. 5425, provided that:
+Pub. L. 115–182, title I, § 108, June 6, 2018, 132 Stat. 1416, as amended by Pub. L. 117–328, div. U, title I, § 144, Dec. 29, 2022, 136 Stat. 5425, provided that:
 
 > **“(a) In General.—** On and after the date that is 1 year after the date of the enactment of this Act [June 6, 2018], the Secretary of Veterans Affairs shall deny or revoke the eligibility of a health care provider to provide non-Department health care services to veterans if the Secretary determines that the health care provider—
 
@@ -1403,7 +1403,7 @@ Pub. L. 115–182, title I, § 108, June 6, 2018, 132 Stat. 1416, as amended b
 
 **Veterans’ Education and Training Programs**
 
-Pub. L. 115–182, title I, § 121–123, June 6, 2018, 132 Stat. 1423, 1424, as amended by Pub. L. 115–251, title II, § 211(b)(1), Sept. 29, 2018, 132 Stat. 3176, provided that:
+Pub. L. 115–182, title I, § 121–123, June 6, 2018, 132 Stat. 1423, 1424, as amended by Pub. L. 115–251, title II, § 211(b)(1), Sept. 29, 2018, 132 Stat. 3176, provided that:
 
 > **“SEC. 121. EDUCATION PROGRAM ON HEALTH CARE OPTIONS.**
 
@@ -1501,7 +1501,7 @@ Pub. L. 115–182, title I, § 121–123, June 6, 2018, 132 Stat. 1423, 1424, 
 
 **Establishment of Processes To Ensure Safe Opioid Prescribing Practices by Non-Department of Veterans Affairs Health Care Providers**
 
-Pub. L. 115–182, title I, § 131, June 6, 2018, 132 Stat. 1425, as amended by Pub. L. 115–251, title II, § 211(b)(2), Sept. 29, 2018, 132 Stat. 3176, provided that:
+Pub. L. 115–182, title I, § 131, June 6, 2018, 132 Stat. 1425, as amended by Pub. L. 115–251, title II, § 211(b)(2), Sept. 29, 2018, 132 Stat. 3176, provided that:
 
 > **“(a) Receipt and Review of Guidelines.—** The Secretary of Veterans Affairs shall ensure that all covered health care providers are provided a copy of and certify that they have reviewed the evidence-based guidelines for prescribing opioids set forth by the Opioid Safety Initiative of the Department of Veterans Affairs.
 
@@ -1537,7 +1537,7 @@ Pub. L. 115–182, title I, § 131, June 6, 2018, 132 Stat. 1425, as amended b
 
 **Competency Standards for Non-Department of Veterans Affairs Health Care Providers**
 
-Pub. L. 115–182, title I, § 133, June 6, 2018, 132 Stat. 1427, provided that:
+Pub. L. 115–182, title I, § 133, June 6, 2018, 132 Stat. 1427, provided that:
 
 > **“(a) Establishment of Standards and Requirements.—** The Secretary of Veterans Affairs shall establish standards and requirements for the provision of care by non-Department of Veterans Affairs health care providers in clinical areas for which the Department of Veterans Affairs has special expertise, including post-traumatic stress disorder, military sexual trauma-related conditions, and traumatic brain injuries.
 
@@ -1551,7 +1551,7 @@ Pub. L. 115–182, title I, § 133, June 6, 2018, 132 Stat. 1427, provided tha
 
 **Program on Establishment of Peer Specialists in Patient Aligned Care Team Settings Within Medical Centers of Department of Veterans Affairs**
 
-Pub. L. 115–182, title V, § 506, June 6, 2018, 132 Stat. 1477, as amended by Pub. L. 117–328, div. V, title IV, § 401(a), Dec. 29, 2022, 136 Stat. 5509, provided that:
+Pub. L. 115–182, title V, § 506, June 6, 2018, 132 Stat. 1477, as amended by Pub. L. 117–328, div. V, title IV, § 401(a), Dec. 29, 2022, 136 Stat. 5509, provided that:
 
 > **“(a) Program Required.—** The Secretary of Veterans Affairs shall carry out a program to establish not fewer than two peer specialists in patient aligned care teams at medical centers of the Department of Veterans Affairs to promote the use and integration of services for mental health, substance use disorder, and behavioral health in a primary care setting. Each such peer specialist shall be a full-time employee whose primary function is to serve as a peer specialist and shall be in addition to all other employees of such medical center.
 
@@ -1625,7 +1625,7 @@ Pub. L. 115–182, title V, § 506, June 6, 2018, 132 Stat. 1477, as amended b
 
 **Department of Veterans Affairs Medical Scribe Pilot Program.**
 
-Pub. L. 115–182, title V, § 507, June 6, 2018, 132 Stat. 1479, as amended by Pub. L. 115–251, title II, § 211(b)(10), Sept. 29, 2018, 132 Stat. 3177, provided that:
+Pub. L. 115–182, title V, § 507, June 6, 2018, 132 Stat. 1479, as amended by Pub. L. 115–251, title II, § 211(b)(10), Sept. 29, 2018, 132 Stat. 3177, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs shall carry out a 2-year pilot program under which the Secretary shall increase the use of medical scribes at Department of Veterans Affairs medical centers.
 
@@ -1689,11 +1689,11 @@ Pub. L. 115–182, title V, § 507, June 6, 2018, 132 Stat. 1479, as amended b
 
 **Pilot Program for Health and Wellness Centers and Programs**
 
-Pub. L. 115–141, div. J, title II, § 252, Mar. 23, 2018, 132 Stat. 825, as amended by Pub. L. 116–94, div. F, title II, § 254, Dec. 20, 2019, 133 Stat. 2808, provided that: “During the period preceding October 1, 2022, the Secretary of Veterans Affairs may carry out a 2-year pilot program making grants to nonprofit veterans services organizations recognized by the Secretary in accordance with section 5902 of title 38, United States Code, to upgrade, through construction and repair, VSO community facilities into health and wellness centers and to promote and expand complementary and integrative wellness programs: *Provided*, That no single grant may exceed a total of $500,000: *Provided further*, That the Secretary may not provide more than 20 grants during the 2-year pilot program: *Provided further*, That the recipient of a grant under this section may not use the grant to purchase real estate or to carry out repair of facilities leased by the recipient or to construct facilities on property leased by the recipient: *Provided further*, That the Secretary ensures that the grant recipients use grant funds to construct or repair facilities located in at least 10 different geographic locations in economically depressed areas or areas designated as highly rural that are not in close proximity to Department of Veterans Affairs medical centers: *Provided further*, That the Secretary shall report to the Committees on Appropriations of both Houses of Congress no later than 180 days after enactment of this Act [Mar. 23, 2018], on the grant program established under this section.”
+Pub. L. 115–141, div. J, title II, § 252, Mar. 23, 2018, 132 Stat. 825, as amended by Pub. L. 116–94, div. F, title II, § 254, Dec. 20, 2019, 133 Stat. 2808, provided that: “During the period preceding October 1, 2022, the Secretary of Veterans Affairs may carry out a 2-year pilot program making grants to nonprofit veterans services organizations recognized by the Secretary in accordance with section 5902 of title 38, United States Code, to upgrade, through construction and repair, VSO community facilities into health and wellness centers and to promote and expand complementary and integrative wellness programs: *Provided*, That no single grant may exceed a total of $500,000: *Provided further*, That the Secretary may not provide more than 20 grants during the 2-year pilot program: *Provided further*, That the recipient of a grant under this section may not use the grant to purchase real estate or to carry out repair of facilities leased by the recipient or to construct facilities on property leased by the recipient: *Provided further*, That the Secretary ensures that the grant recipients use grant funds to construct or repair facilities located in at least 10 different geographic locations in economically depressed areas or areas designated as highly rural that are not in close proximity to Department of Veterans Affairs medical centers: *Provided further*, That the Secretary shall report to the Committees on Appropriations of both Houses of Congress no later than 180 days after enactment of this Act [Mar. 23, 2018], on the grant program established under this section.”
 
 **Investigation of Medical Centers of the Department of Veterans Affairs**
 
-Pub. L. 115–95, § 2, Dec. 20, 2017, 131 Stat. 2042, provided that:
+Pub. L. 115–95, § 2, Dec. 20, 2017, 131 Stat. 2042, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs may contract with a nonprofit organization that accredits health care organizations and programs in the United States to investigate a medical center of the Department of Veterans Affairs to assess and report deficiencies of the facilities at such medical center.
 
@@ -1795,7 +1795,7 @@ Pub. L. 114–286, Dec. 16, 2016, 130 Stat. 1459, provided that:
 
 **Inspection Program for Kitchens and Food Service Areas at Department of Veterans Affairs Medical Facilities**
 
-Pub. L. 114–223, div. A, title II, § 251, Sept. 29, 2016, 130 Stat. 893, provided that:
+Pub. L. 114–223, div. A, title II, § 251, Sept. 29, 2016, 130 Stat. 893, provided that:
 
 > **“(a) In General.—** Not later than 90 days after the date of the enactment of this Act [Sept. 29, 2016], the Secretary of Veterans Affairs shall establish a program to conduct inspections of kitchens and food service areas at each medical facility of the Department of Veterans Affairs. Such inspections shall occur not less frequently than annually. The program’s goal is to ensure that the same standards for kitchens and food service areas at hospitals in the private sector are being met at kitchens and food service areas at medical facilities of the Department.
 
@@ -1827,7 +1827,7 @@ Pub. L. 114–223, div. A, title II, § 251, Sept. 29, 2016, 130 Stat. 893, pr
 
 **Mold Inspection Program for Department of Veterans Affairs Medical Facilities**
 
-Pub. L. 114–223, div. A, title II, § 252, Sept. 29, 2016, 130 Stat. 894, provided that:
+Pub. L. 114–223, div. A, title II, § 252, Sept. 29, 2016, 130 Stat. 894, provided that:
 
 > **“(a) In General.—** Not later than 90 days after the date of the enactment of this Act [Sept. 29, 2016], the Secretary of Veterans Affairs shall establish a program to conduct risk-based inspections for mold and mold issues at each medical facility of the Department of Veterans Affairs. Such facilities will be rated high, medium, or low risk for mold. Such inspections at facilities rated high risk shall occur not less frequently than annually, and such inspections at facilities rated medium or low risk shall occur not less frequently than biennially.
 
@@ -1853,7 +1853,7 @@ Pub. L. 114–223, div. A, title II, § 252, Sept. 29, 2016, 130 Stat. 894, pr
 
 **Improvement of Health Care Relating to Use of Opioids, Patient Advocacy, Complementary and Integrative Health, and Fitness of Providers**
 
-Pub. L. 114–198, title IX, July 22, 2016, 130 Stat. 755, as amended by Pub. L. 115–251, title II, § 208, Sept. 29, 2018, 132 Stat. 3173, provided that:
+Pub. L. 114–198, title IX, July 22, 2016, 130 Stat. 755, as amended by Pub. L. 115–251, title II, § 208, Sept. 29, 2018, 132 Stat. 3173, provided that:
 
 > **“SEC. 901. SHORT TITLE.**
 
@@ -2539,7 +2539,7 @@ Pub. L. 114–198, title IX, July 22, 2016, 130 Stat. 755, as amended by Pub. L.
 
 **Funding Account for Non-Department Care**
 
-Pub. L. 114–41, title IV, § 4003, July 31, 2015, 129 Stat. 462, provided that:
+Pub. L. 114–41, title IV, § 4003, July 31, 2015, 129 Stat. 462, provided that:
 
 > “Each budget of the President submitted to Congress under section 1105 of title 31, United States Code, for fiscal year 2017 and each fiscal year thereafter shall include an appropriations account for non-Department provider programs (as defined in section 2(d) [probably means section 4002(d) of Pub. L. 114–41, 129 Stat. 462]) to be comprised of—
 
@@ -2549,7 +2549,7 @@ Pub. L. 114–41, title IV, § 4003, July 31, 2015, 129 Stat. 462, provided th
 
 **Limitation on Dialysis Pilot Program**
 
-Pub. L. 114–41, title IV, § 4006, July 31, 2015, 129 Stat. 465, provided that:
+Pub. L. 114–41, title IV, § 4006, July 31, 2015, 129 Stat. 465, provided that:
 
 > **“(a) Limitation.—** None of the funds authorized to be appropriated or otherwise made available to the Secretary of Veterans Affairs may be used to expand the dialysis pilot program or to create any new dialysis capability provided by the Department in a facility that is not an initial facility under the dialysis pilot program until—
 
@@ -2579,7 +2579,7 @@ Pub. L. 114–41, title IV, § 4006, July 31, 2015, 129 Stat. 465, provided th
 
 **Veterans Access, Choice and Accountability in Health Care**
 
-Pub. L. 113–146, § 2, titles I, II, VIII, Aug. 7, 2014, 128 Stat. 1755, 1769, 1801, as amended by Pub. L. 113–175, title IV, § 409(a)–(f), Sept. 26, 2014, 128 Stat. 1906, 1907; Pub. L. 113–235, div. I, title II, § 242, Dec. 16, 2014, 128 Stat. 2568; Pub. L. 114–19, § 3(a), May 22, 2015, 129 Stat. 215; Pub. L. 114–41, title IV, §§ 4004, 4005, July 31, 2015, 129 Stat. 463, 464; Pub. L. 114–131, § 1, Feb. 29, 2016, 130 Stat. 292; Pub. L. 115–26, §§ 1, 2, Apr. 19, 2017, 131 Stat. 129; Pub. L. 115–182, title I, §§ 142, 143, June 6, 2018, 132 Stat. 1429, provided that:
+Pub. L. 113–146, § 2, titles I, II, VIII, Aug. 7, 2014, 128 Stat. 1755, 1769, 1801, as amended by Pub. L. 113–175, title IV, § 409(a)–(f), Sept. 26, 2014, 128 Stat. 1906, 1907; Pub. L. 113–235, div. I, title II, § 242, Dec. 16, 2014, 128 Stat. 2568; Pub. L. 114–19, § 3(a), May 22, 2015, 129 Stat. 215; Pub. L. 114–41, title IV, §§ 4004, 4005, July 31, 2015, 129 Stat. 463, 464; Pub. L. 114–131, § 1, Feb. 29, 2016, 130 Stat. 292; Pub. L. 115–26, §§ 1, 2, Apr. 19, 2017, 131 Stat. 129; Pub. L. 115–182, title I, §§ 142, 143, June 6, 2018, 132 Stat. 1429, provided that:
 
 > **“SEC. 2. DEFINITIONS.**
 
@@ -3535,37 +3535,37 @@ Pub. L. 113–146, § 2, titles I, II, VIII, Aug. 7, 2014, 128 Stat. 1755, 176
 
 > **“(b) Designation in Senate.—** In the Senate, this Act is designated as an emergency requirement pursuant to section 403(a) of S. Con. Res. 13 (111th Congress), the concurrent resolution on the budget for fiscal year 2010.”
 
-[Pub. L. 114–19, § 3(b), May 22, 2015, 129 Stat. 216, provided that: “The amendments made by subsection (a) [amending section 101(b)(2) of Pub. L. 113–146, set out above] shall take effect on the date of the enactment of this Act [May 22, 2015] and apply with respect to care or services provided on or after such date.” ]
+[Pub. L. 114–19, § 3(b), May 22, 2015, 129 Stat. 216, provided that: “The amendments made by subsection (a) [amending section 101(b)(2) of Pub. L. 113–146, set out above] shall take effect on the date of the enactment of this Act [May 22, 2015] and apply with respect to care or services provided on or after such date.” ]
 
 **Location of Services**
 
-Pub. L. 110–387, title III, § 301(b), Oct. 10, 2008, 122 Stat. 4120, provided that: “Paragraph (5) of section 1701 of title 38, United States Code, shall not be construed to prevent the Secretary of Veterans Affairs from providing services described in subparagraph (B) of such paragraph to individuals described in such subparagraph in centers under section 1712A of such title (commonly referred to as ‘Vet Centers’), Department of Veterans Affairs medical centers, community-based outpatient clinics, or in such other facilities of the Department of Veterans Affairs as the Secretary considers necessary.”
+Pub. L. 110–387, title III, § 301(b), Oct. 10, 2008, 122 Stat. 4120, provided that: “Paragraph (5) of section 1701 of title 38, United States Code, shall not be construed to prevent the Secretary of Veterans Affairs from providing services described in subparagraph (B) of such paragraph to individuals described in such subparagraph in centers under section 1712A of such title (commonly referred to as ‘Vet Centers’), Department of Veterans Affairs medical centers, community-based outpatient clinics, or in such other facilities of the Department of Veterans Affairs as the Secretary considers necessary.”
 
 **Guidelines Relating to Furnishing of Sensori-Neural Aids**
 
-Pub. L. 104–262, title I, § 103(b), Oct. 9, 1996, 110 Stat. 3182, provided that: “Not later than 30 days after the date of the enactment of this Act [Oct. 9, 1996], the Secretary of Veterans Affairs shall prescribe the guidelines required by the amendments made by subsection (a) [amending this section] and shall furnish a copy of those guidelines to the Committees on Veterans’ Affairs of the Senate and House of Representatives.”
+Pub. L. 104–262, title I, § 103(b), Oct. 9, 1996, 110 Stat. 3182, provided that: “Not later than 30 days after the date of the enactment of this Act [Oct. 9, 1996], the Secretary of Veterans Affairs shall prescribe the guidelines required by the amendments made by subsection (a) [amending this section] and shall furnish a copy of those guidelines to the Committees on Veterans’ Affairs of the Senate and House of Representatives.”
 
 **Study of Feasibility and Advisability of Alternative Organizational Structures for Effective Provision of Health Care Services to Veterans**
 
-Pub. L. 103–446, title XI, § 1104, Nov. 2, 1994, 108 Stat. 4682, directed Secretary of Veterans Affairs to submit to Congress, not later than one year after Nov. 2, 1994, report and study on feasibility and advisability of alternative organizational structures, such as the establishment of a wholly-owned Government corporation or a Government-sponsored enterprise, for the effective provision of health care services to veterans.
+Pub. L. 103–446, title XI, § 1104, Nov. 2, 1994, 108 Stat. 4682, directed Secretary of Veterans Affairs to submit to Congress, not later than one year after Nov. 2, 1994, report and study on feasibility and advisability of alternative organizational structures, such as the establishment of a wholly-owned Government corporation or a Government-sponsored enterprise, for the effective provision of health care services to veterans.
 
 **Contract Health Care; Ratification of Action of Administrator of Veterans’ Affairs**
 
-Pub. L. 98–528, title I, § 103(b), Oct. 19, 1984, 98 Stat. 2688, ratified actions by Administrator of Veterans’ Affairs in entering into contracts applicable to the period beginning Oct. 1, 1984, and ending Oct. 19, 1984, for care described in par. (4)(C)(v) of this section and in making waivers described in that provision.
+Pub. L. 98–528, title I, § 103(b), Oct. 19, 1984, 98 Stat. 2688, ratified actions by Administrator of Veterans’ Affairs in entering into contracts applicable to the period beginning Oct. 1, 1984, and ending Oct. 19, 1984, for care described in par. (4)(C)(v) of this section and in making waivers described in that provision.
 
 **Administration Capability To Provide Appropriate Care for Gender-Specific Disabilities of Women Veterans**
 
-Pub. L. 98–160, title III, § 302, Nov. 21, 1983, 97 Stat. 1004, as amended by Pub. L. 102–40, title IV, § 402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §§ 5(c)(2), 6(f), Aug. 6, 1991, 105 Stat. 406, 407, provided that: “The Secretary of Veterans Affairs shall ensure that each health-care facility under the direct jurisdiction of the Secretary is able, through services made available either by individuals appointed to positions in the Veterans Health Administration or under contracts or other agreements made under section 4117 [see 7409], 8111, or 8153 of title 38, United States Code, to provide appropriate care, in a timely fashion, for any gender-specific disability (as defined in section 1701(1) of such title) of a woman veteran eligible for such care under chapter 17 or chapter 31 of such title.”
+Pub. L. 98–160, title III, § 302, Nov. 21, 1983, 97 Stat. 1004, as amended by Pub. L. 102–40, title IV, § 402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §§ 5(c)(2), 6(f), Aug. 6, 1991, 105 Stat. 406, 407, provided that: “The Secretary of Veterans Affairs shall ensure that each health-care facility under the direct jurisdiction of the Secretary is able, through services made available either by individuals appointed to positions in the Veterans Health Administration or under contracts or other agreements made under section 4117 [see 7409], 8111, or 8153 of title 38, United States Code, to provide appropriate care, in a timely fashion, for any gender-specific disability (as defined in section 1701(1) of such title) of a woman veteran eligible for such care under chapter 17 or chapter 31 of such title.”
 
 **Annual Report to Congress Covering Contract-Care Programs**
 
-Pub. L. 96–22, title II, § 201(b), June 13, 1979, 93 Stat. 54, which directed Chief Medical Director of the Veterans’ Administration to report to appropriate committees of Congress, not later than Feb. 1, 1980, and annually thereafter, on implementation of former par. (4)(C)(v) of this section and amendments made to this section by section 201 of Pub. L. 96–22, and on numbers of veterans provided contract treatment (and average cost and duration thereof) in each State in certain enumerated categories, was repealed by Pub. L. 100–322, title I, § 112(b), May 20, 1988, 102 Stat. 499.
+Pub. L. 96–22, title II, § 201(b), June 13, 1979, 93 Stat. 54, which directed Chief Medical Director of the Veterans’ Administration to report to appropriate committees of Congress, not later than Feb. 1, 1980, and annually thereafter, on implementation of former par. (4)(C)(v) of this section and amendments made to this section by section 201 of Pub. L. 96–22, and on numbers of veterans provided contract treatment (and average cost and duration thereof) in each State in certain enumerated categories, was repealed by Pub. L. 100–322, title I, § 112(b), May 20, 1988, 102 Stat. 499.
 
 **Hospital Care and Medical Services Furnished by Veterans’ Administration in Puerto Rico and Virgin Islands; Report to President and Congress**
 
-Pub. L. 95–520, § 8, Oct. 26, 1978, 92 Stat. 1822, as amended by Pub. L. 96–330, title IV, § 407, Aug. 26, 1980, 94 Stat. 1053, directed Administrator of Veterans’ Affairs, not later than Feb. 1, 1981, to submit a report to President and Congress on furnishing by Administration of hospital care and medical services in Puerto Rico and Virgin Islands, and set forth applicable criteria and considerations for the report.
+Pub. L. 95–520, § 8, Oct. 26, 1978, 92 Stat. 1822, as amended by Pub. L. 96–330, title IV, § 407, Aug. 26, 1980, 94 Stat. 1053, directed Administrator of Veterans’ Affairs, not later than Feb. 1, 1981, to submit a report to President and Congress on furnishing by Administration of hospital care and medical services in Puerto Rico and Virgin Islands, and set forth applicable criteria and considerations for the report.
 
-### § 1702. Presumptions: psychosis after service in World War II and following periods of war; mental illness after service in the Persian Gulf War
+### § 1702. Presumptions: psychosis after service in World War II and following periods of war; mental illness after service in the Persian Gulf War
 
 **(a) Psychosis.—** For the purposes of this chapter, any veteran of World War II, the Korean conflict, the Vietnam era, or the Persian Gulf War who developed an active psychosis (1) within two years after discharge or release from the active military, naval, or air service, and (2) before July 26, 1949, in the case of a veteran of World War II, before February 1, 1957, in the case of a veteran of the Korean conflict, before May 8, 1977, in the case of a Vietnam era veteran, or before the end of the two-year period beginning on the last day of the Persian Gulf War, in the case of a veteran of the Persian Gulf War, shall be deemed to have incurred such disability in the active military, naval, or air service.
 
@@ -3575,15 +3575,15 @@ Pub. L. 95–520, § 8, Oct. 26, 1978, 92 Stat. 1822, as amended by Pub. L. 96
 
 **(2)** before the end of the two-year period beginning on the last day of the Persian Gulf War.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, § 602; Pub. L. 90–77, title II, § 203(a), Aug. 31, 1967, 81 Stat. 183; Pub. L. 97–295, § 4(16), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 99–576, title VII, § 701(20), Oct. 28, 1986, 100 Stat. 3292; Pub. L. 102–25, title III, § 334(b), Apr. 6, 1991, 105 Stat. 88; renumbered § 1702, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 110–181, div. A, title XVII, § 1708(a)(1), (2), Jan. 28, 2008, 122 Stat. 493, 494.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, § 602; Pub. L. 90–77, title II, § 203(a), Aug. 31, 1967, 81 Stat. 183; Pub. L. 97–295, § 4(16), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 99–576, title VII, § 701(20), Oct. 28, 1986, 100 Stat. 3292; Pub. L. 102–25, title III, § 334(b), Apr. 6, 1991, 105 Stat. 88; renumbered § 1702, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 110–181, div. A, title XVII, § 1708(a)(1), (2), Jan. 28, 2008, 122 Stat. 493, 494.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Pub. L. 110–181, § 1708(a)(2), substituted “Presumptions: psychosis after service in World War II and following periods of war; mental illness after service in the Persian Gulf War” for “Presumption relating to psychosis” in section catchline.
+2008—Pub. L. 110–181, § 1708(a)(2), substituted “Presumptions: psychosis after service in World War II and following periods of war; mental illness after service in the Persian Gulf War” for “Presumption relating to psychosis” in section catchline.
 
-Subsecs. (a), (b). Pub. L. 110–181, § 1708(a)(1), designated existing text as subsec. (a), inserted heading, and added subsec. (b).
+Subsecs. (a), (b). Pub. L. 110–181, § 1708(a)(1), designated existing text as subsec. (a), inserted heading, and added subsec. (b).
 
 1991—Pub. L. 102–83 renumbered section 602 of this title as this section.
 
@@ -3601,7 +3601,7 @@ Pub. L. 102–25 substituted “the Vietnam era, or the Persian Gulf War” for 
 
 Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
 
-### § 1703. Veterans Community Care Program
+### § 1703. Veterans Community Care Program
 
 **(a) In General.—**
 
@@ -3821,9 +3821,9 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 
 **(A)** requires an organ or bone marrow transplant; and
 
-**(B)** has, in the opinion of the primary care provider of the veteran, a medically compelling reason to travel outside the region of the Organ Procurement and Transplantation Network, established under section 372 of the National Organ Transplantation Act 1
+**(B)** has, in the opinion of the primary care provider of the veteran, a medically compelling reason to travel outside the region of the Organ Procurement and Transplantation Network, established under section 372 of the National Organ Transplantation Act 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (Public Law 98–507; 42 U.S.C. 274), in which the veteran resides, to receive such transplant.
 
@@ -3939,13 +3939,13 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 
 **(2)** The term “medical service line” means a clinic within a Department medical center.
 
-(Added Pub. L. 99–272, title XIX, § 19012(b)(1), Apr. 7, 1986, 100 Stat. 380, § 603; amended Pub. L. 99–166, title I, § 102(b)(1), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, § 19012(c)(5)(A), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title I, §§ 101(e)(3), 104, 112(a), May 20, 1988, 102 Stat. 492, 493, 499; Pub. L. 100–687, div. B, title XV, § 1503(a)(1), Nov. 18, 1988, 102 Stat. 4133; Pub. L. 102–54, § 14(b)(9), June 13, 1991, 105 Stat. 283; renumbered § 1703 and amended Pub. L. 102–83, §§ 4(a)(1), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–585, title V, § 501, Nov. 4, 1992, 106 Stat. 4955; Pub. L. 104–262, title I, § 104(b), Oct. 9, 1996, 110 Stat. 3184; Pub. L. 108–422, title VI, § 601, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–13, div. A, title VI, § 6080, May 11, 2005, 119 Stat. 302; Pub. L. 110–387, title VIII, § 802, Oct. 10, 2008, 122 Stat. 4141; Pub. L. 112–37, § 10(a), Oct. 5, 2011, 125 Stat. 396; Pub. L. 115–182, title I, § 101(a)(1), June 6, 2018, 132 Stat. 1395; Pub. L. 115–251, title II, §§ 201(a), 202, Sept. 29, 2018, 132 Stat. 3171, 3172; Pub. L. 117–328, div. U, title I, §§ 121, 125(b), Dec. 29, 2022, 136 Stat. 5415, 5418; Pub. L. 118–210, title I, §§ 102(a), 103(a), Jan. 2, 2025, 138 Stat. 2709, 2710.)
+(Added Pub. L. 99–272, title XIX, § 19012(b)(1), Apr. 7, 1986, 100 Stat. 380, § 603; amended Pub. L. 99–166, title I, § 102(b)(1), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, § 19012(c)(5)(A), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title I, §§ 101(e)(3), 104, 112(a), May 20, 1988, 102 Stat. 492, 493, 499; Pub. L. 100–687, div. B, title XV, § 1503(a)(1), Nov. 18, 1988, 102 Stat. 4133; Pub. L. 102–54, § 14(b)(9), June 13, 1991, 105 Stat. 283; renumbered § 1703 and amended Pub. L. 102–83, §§ 4(a)(1), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–585, title V, § 501, Nov. 4, 1992, 106 Stat. 4955; Pub. L. 104–262, title I, § 104(b), Oct. 9, 1996, 110 Stat. 3184; Pub. L. 108–422, title VI, § 601, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–13, div. A, title VI, § 6080, May 11, 2005, 119 Stat. 302; Pub. L. 110–387, title VIII, § 802, Oct. 10, 2008, 122 Stat. 4141; Pub. L. 112–37, § 10(a), Oct. 5, 2011, 125 Stat. 396; Pub. L. 115–182, title I, § 101(a)(1), June 6, 2018, 132 Stat. 1395; Pub. L. 115–251, title II, §§ 201(a), 202, Sept. 29, 2018, 132 Stat. 3171, 3172; Pub. L. 117–328, div. U, title I, §§ 121, 125(b), Dec. 29, 2022, 136 Stat. 5415, 5418; Pub. L. 118–210, title I, §§ 102(a), 103(a), Jan. 2, 2025, 138 Stat. 2709, 2710.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsecs. (c)(1) and (i)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XI and XVIII of the Act are classified generally to subchapters XI (§ 1301 et seq.) and XVIII (§ 1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c)(1) and (i)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XI and XVIII of the Act are classified generally to subchapters XI (§ 1301 et seq.) and XVIII (§ 1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The date of the enactment of the Caring for Our Veterans Act of 2018, referred to in subsecs. (d)(1)(C) and (m)(1), (3), is the date of enactment of Pub. L. 115–182, which was approved June 6, 2018.
 
@@ -3955,21 +3955,21 @@ Section 372 of the National Organ Transplantation Act, referred to in subsec. (*
 
 **Amendments**
 
-2025—Subsec. (*o*). Pub. L. 118–210, § 102(a)(2), added subsec. (*o*). Former subsec. (*o*) redesignated (p), then (q).
+2025—Subsec. (*o*). Pub. L. 118–210, § 102(a)(2), added subsec. (*o*). Former subsec. (*o*) redesignated (p), then (q).
 
-Subsec. (p). Pub. L. 118–210, § 103(a)(2), added subsec. (p).
+Subsec. (p). Pub. L. 118–210, § 103(a)(2), added subsec. (p).
 
-Subsec. (q). Pub. L. 118–210, §§ 102(a)(1), 103(a)(1), redesignated subsec. (*o*) as (p), then (q).
+Subsec. (q). Pub. L. 118–210, §§ 102(a)(1), 103(a)(1), redesignated subsec. (*o*) as (p), then (q).
 
-2022—Subsec. (a)(4). Pub. L. 117–328, § 125(b), added par. (4).
+2022—Subsec. (a)(4). Pub. L. 117–328, § 125(b), added par. (4).
 
-Subsec. (d)(4). Pub. L. 117–328, § 121, added par. (4).
+Subsec. (d)(4). Pub. L. 117–328, § 121, added par. (4).
 
 2018—Pub. L. 115–182 amended section generally. Prior to amendment, section related to contracts for hospital care and medical services in non-Department facilities.
 
-Subsec. (h)(1). Pub. L. 115–251, § 201(a), designated existing provisions as subpar. (A) and added subpar. (B).
+Subsec. (h)(1). Pub. L. 115–251, § 201(a), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (h)(5)(A). Pub. L. 115–251, § 202, substituted “the effective date specified in section 101(b)” for “the date of the enactment”.
+Subsec. (h)(5)(A). Pub. L. 115–251, § 202, substituted “the effective date specified in section 101(b)” for “the date of the enactment”.
 
 2011—Subsec. (d)(4). Pub. L. 112–37 substituted “September 30, 2020” for “September 30, 2013”.
 
@@ -3979,81 +3979,81 @@ Subsec. (h)(5)(A). Pub. L. 115–251, § 202, substituted “the effective dat
 
 2004—Subsec. (d). Pub. L. 108–422 added subsec. (d).
 
-1996—Subsec. (a). Pub. L. 104–262, § 104(b)(1), struck out “or 1712” after “, as authorized in section 1710” in introductory provisions.
+1996—Subsec. (a). Pub. L. 104–262, § 104(b)(1), struck out “or 1712” after “, as authorized in section 1710” in introductory provisions.
 
-Subsec. (a)(2)(A). Pub. L. 104–262, § 104(b)(2)(A), substituted “1710(a)(1)(B)” for “1712(a)(1)(B)”.
+Subsec. (a)(2)(A). Pub. L. 104–262, § 104(b)(2)(A), substituted “1710(a)(1)(B)” for “1712(a)(1)(B)”.
 
-Subsec. (a)(2)(B). Pub. L. 104–262, § 104(b)(2)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “a veteran described in paragraph (2), (3), or (4) of section 1712(a) of this title, for a purpose described in section 1712(a)(5)(B) of this title;”.
+Subsec. (a)(2)(B). Pub. L. 104–262, § 104(b)(2)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “a veteran described in paragraph (2), (3), or (4) of section 1712(a) of this title, for a purpose described in section 1712(a)(5)(B) of this title;”.
 
-Subsec. (a)(2)(C). Pub. L. 104–262, § 104(b)(2)(C), substituted “section 1710(a)(2)(E) of this title, or a veteran who is in receipt of increased pension, or additional compensation or allowances based on the need of regular aid and attendance or by reason of being permanently housebound (or who, but for the receipt of retired pay, would be in receipt of such pension, compensation, or allowance),” for “section 1712(a)(3) (other than a veteran who is a former prisoner of war) of this title”.
+Subsec. (a)(2)(C). Pub. L. 104–262, § 104(b)(2)(C), substituted “section 1710(a)(2)(E) of this title, or a veteran who is in receipt of increased pension, or additional compensation or allowances based on the need of regular aid and attendance or by reason of being permanently housebound (or who, but for the receipt of retired pay, would be in receipt of such pension, compensation, or allowance),” for “section 1712(a)(3) (other than a veteran who is a former prisoner of war) of this title”.
 
-Subsec. (a)(7). Pub. L. 104–262, § 104(b)(3), substituted “1712(a)(1)(F)” for “1712(b)(1)(F)”.
+Subsec. (a)(7). Pub. L. 104–262, § 104(b)(3), substituted “1712(a)(1)(F)” for “1712(b)(1)(F)”.
 
 1992—Subsec. (a)(1)(C). Pub. L. 102–585 added subpar. (C).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 603 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 603 of this title as this section.
 
-Pub. L. 102–83, § 4(a)(5), substituted “non-Department” for “non-Veterans’ Administration” in section catchline.
+Pub. L. 102–83, § 4(a)(5), substituted “non-Department” for “non-Veterans’ Administration” in section catchline.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1710 or 1712” for “610 or 612” in introductory provisions, “1712(a)(1)(B)” for “612(a)(1)(B)” in par. (2)(A), “1712(a)” for “612(a)” and “1712(a)(5)(B)” for “612(a)(5)(B)” in par. (2)(B), “1712(a)(3)” for “612(a)(3)” in par. (2)(C), “1720” for “620” in par. (3), and “1712(b)(1)(F)” for “612(b)(1)(F)” in par. (7).
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1710 or 1712” for “610 or 612” in introductory provisions, “1712(a)(1)(B)” for “612(a)(1)(B)” in par. (2)(A), “1712(a)” for “612(a)” and “1712(a)(5)(B)” for “612(a)(5)(B)” in par. (2)(B), “1712(a)(3)” for “612(a)(3)” in par. (2)(C), “1720” for “620” in par. (3), and “1712(b)(1)(F)” for “612(b)(1)(F)” in par. (7).
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and in par. (2)(C).
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and in par. (2)(C).
 
-Pub. L. 102–83, § 4(a)(5), substituted “non-Department” for “non-Veterans’ Administration” in introductory provisions and in pars. (3) and (5).
+Pub. L. 102–83, § 4(a)(5), substituted “non-Department” for “non-Veterans’ Administration” in introductory provisions and in pars. (3) and (5).
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing in introductory provisions and pars. (2), (3), (5), and (6).
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing in introductory provisions and pars. (2), (3), (5), and (6).
 
-Subsec. (a)(2)(B). Pub. L. 102–54, § 14(b)(9)(A), struck out “section” before “paragraph”.
+Subsec. (a)(2)(B). Pub. L. 102–54, § 14(b)(9)(A), struck out “section” before “paragraph”.
 
-Subsec. (a)(7). Pub. L. 102–54, § 14(b)(9)(B), substituted “section 612(b)(1)(F)” for “section 612(b)(1)(G)”.
+Subsec. (a)(7). Pub. L. 102–54, § 14(b)(9)(B), substituted “section 612(b)(1)(F)” for “section 612(b)(1)(G)”.
 
-Subsec. (a)(8). Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+Subsec. (a)(8). Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–83, § 4(a)(5), substituted “non-Department” for “non-Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(5), substituted “non-Department” for “non-Veterans’ Administration”.
 
-Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “1712A, 1720, 1720A, 1724, and 1732” for “612A, 620, 620A, 624, and 632”.
+Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “1712A, 1720, 1720A, 1724, and 1732” for “612A, 620, 620A, 624, and 632”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–54, § 14(b)(9)(C), inserted before period at end “(Public Law 100–322; 102 Stat. 501)”.
+Pub. L. 102–54, § 14(b)(9)(C), inserted before period at end “(Public Law 100–322; 102 Stat. 501)”.
 
-1988—Subsec. (a). Pub. L. 100–322, § 104(b)(1), substituted  “furnish  any  of  the  following:”  for “furnish—”.
+1988—Subsec. (a). Pub. L. 100–322, § 104(b)(1), substituted “furnish any of the following:” for “furnish—”.
 
-Subsec. (a)(1). Pub. L. 100–322, § 104(b)(2), (3), substituted “Hospital” for “hospital” and the period for semicolon at end.
+Subsec. (a)(1). Pub. L. 100–322, § 104(b)(2), (3), substituted “Hospital” for “hospital” and the period for semicolon at end.
 
-Subsec. (a)(2). Pub. L. 100–322, § 104(b)(2), (3), substituted “Medical” for “medical” and the period for semicolon at end.
+Subsec. (a)(2). Pub. L. 100–322, § 104(b)(2), (3), substituted “Medical” for “medical” and the period for semicolon at end.
 
 Subsec. (a)(2)(B). Pub. L. 100–687 substituted “paragraph (2), (3), or (4) of section 612(a)” for “612(a)(4)”, and “612(a)(5)(B)” for “612(a)(5)”.
 
-Pub. L. 100–322, § 101(e)(3)(A), substituted “section 612(a)(4) of this title, for a purpose described in section 612(a)(5) of this title” for “section 612(f)(1)(A)(ii) of this title”.
+Pub. L. 100–322, § 101(e)(3)(A), substituted “section 612(a)(4) of this title, for a purpose described in section 612(a)(5) of this title” for “section 612(f)(1)(A)(ii) of this title”.
 
-Subsec. (a)(2)(C). Pub. L. 100–322, § 101(e)(3)(B), substituted “section 612(a)(3) (other than a veteran who is a former prisoner of war)” for “section 612(g)”.
+Subsec. (a)(2)(C). Pub. L. 100–322, § 101(e)(3)(B), substituted “section 612(a)(3) (other than a veteran who is a former prisoner of war)” for “section 612(g)”.
 
-Subsec. (a)(3). Pub. L. 100–322, § 104(a)(1), (b)(2), (3), substituted “Hospital” for “hospital”, inserted “or nursing home care under section 620 of this title”, and substituted the period for semicolon at end.
+Subsec. (a)(3). Pub. L. 100–322, § 104(a)(1), (b)(2), (3), substituted “Hospital” for “hospital”, inserted “or nursing home care under section 620 of this title”, and substituted the period for semicolon at end.
 
-Subsec. (a)(4), (5). Pub. L. 100–322, § 104(b)(2), (3), substituted “Hospital” for “hospital” and the period for semicolon at end.
+Subsec. (a)(4), (5). Pub. L. 100–322, § 104(b)(2), (3), substituted “Hospital” for “hospital” and the period for semicolon at end.
 
-Subsec. (a)(6). Pub. L. 100–322, § 104(b)(2), (4), substituted “Diagnostic” for “diagnostic” and the period for “; or”.
+Subsec. (a)(6). Pub. L. 100–322, § 104(b)(2), (4), substituted “Diagnostic” for “diagnostic” and the period for “; or”.
 
-Subsec. (a)(7). Pub. L. 100–322, § 104(b)(2), substituted “Outpatient” for “outpatient”.
+Subsec. (a)(7). Pub. L. 100–322, § 104(b)(2), substituted “Outpatient” for “outpatient”.
 
-Subsec. (a)(8). Pub. L. 100–322, § 104(a)(2), added par. (8).
+Subsec. (a)(8). Pub. L. 100–322, § 104(a)(2), added par. (8).
 
-Subsec. (c). Pub. L. 100–322, § 112(a), added subsec. (c).
+Subsec. (c). Pub. L. 100–322, § 112(a), added subsec. (c).
 
-1986—Subsec. (a)(5). Pub. L. 99–272, § 19012(c)(5)(A), made conforming amendment to Pub. L. 99–166, § 102(b)(1). See 1985 Amendment note below.
+1986—Subsec. (a)(5). Pub. L. 99–272, § 19012(c)(5)(A), made conforming amendment to Pub. L. 99–166, § 102(b)(1). See 1985 Amendment note below.
 
-1985—Subsec. (a)(5). Pub. L. 99–166, § 102(b)(1), as amended by Pub. L. 99–272, § 19012(c)(5)(A), inserted “(other than the Commonwealth of Puerto Rico)” after “in a State” and substituted “contiguous States and the Commonwealth of Puerto Rico” for “contiguous States, but the authority of the Administrator under this paragraph with respect to the Commonwealth of Puerto Rico shall expire on September 30, 1988, and until such date the Administrator may, if necessary to prevent hardship, waive the applicability to the Commonwealth of Puerto Rico of the restrictions in this paragraph with respect to hospital patient loads and the incidence of the furnishing of medical services”.
+1985—Subsec. (a)(5). Pub. L. 99–166, § 102(b)(1), as amended by Pub. L. 99–272, § 19012(c)(5)(A), inserted “(other than the Commonwealth of Puerto Rico)” after “in a State” and substituted “contiguous States and the Commonwealth of Puerto Rico” for “contiguous States, but the authority of the Administrator under this paragraph with respect to the Commonwealth of Puerto Rico shall expire on September 30, 1988, and until such date the Administrator may, if necessary to prevent hardship, waive the applicability to the Commonwealth of Puerto Rico of the restrictions in this paragraph with respect to hospital patient loads and the incidence of the furnishing of medical services”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–251, title II, § 201(b), Sept. 29, 2018, 132 Stat. 3172, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the effective date specified in section 101(b) of the John S. McCain III, Daniel K. Akaka, and Samuel R. Johnson VA Maintaining Internal Systems and Strengthening Integrated Outside Networks Act of 2018 (Public Law 115–182) [set out below].”
+Pub. L. 115–251, title II, § 201(b), Sept. 29, 2018, 132 Stat. 3172, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the effective date specified in section 101(b) of the John S. McCain III, Daniel K. Akaka, and Samuel R. Johnson VA Maintaining Internal Systems and Strengthening Integrated Outside Networks Act of 2018 (Public Law 115–182) [set out below].”
 
-Pub. L. 115–182, title I, § 101(b), June 6, 2018, 132 Stat. 1403, provided that:
+Pub. L. 115–182, title I, § 101(b), June 6, 2018, 132 Stat. 1403, provided that:
 
 > “Section 1703 of title 38, United States Code, as amended by subsection (a), shall take effect on the later of—
 
@@ -4063,17 +4063,17 @@ Pub. L. 115–182, title I, § 101(b), June 6, 2018, 132 Stat. 1403, provided 
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–687, div. B, title XV, § 1503(b), Nov. 18, 1988, 102 Stat. 4134, provided that: “The amendments made by subsection (a)(1) [amending this section] shall apply with respect to the furnishing of medical services by contract to veterans who apply to the Veterans’ Administration for medical services after June 30, 1988.”
+Pub. L. 100–687, div. B, title XV, § 1503(b), Nov. 18, 1988, 102 Stat. 4134, provided that: “The amendments made by subsection (a)(1) [amending this section] shall apply with respect to the furnishing of medical services by contract to veterans who apply to the Veterans’ Administration for medical services after June 30, 1988.”
 
-Pub. L. 100–322, title I, § 101(i), May 20, 1988, 102 Stat. 492, provided that: “The amendments made by this section [amending this section and sections 612 and 617 [now 1712 and 1717] of this title] shall apply with respect to the furnishing of medical services to veterans who apply for such services after June 30, 1988.”
+Pub. L. 100–322, title I, § 101(i), May 20, 1988, 102 Stat. 492, provided that: “The amendments made by this section [amending this section and sections 612 and 617 [now 1712 and 1717] of this title] shall apply with respect to the furnishing of medical services to veterans who apply for such services after June 30, 1988.”
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–166, title I, § 102(b)(1), Dec. 3, 1985, 99 Stat. 943, as amended by Pub. L. 99–272, title XIX, § 19012(c)(5)(A), Apr. 7, 1986, 100 Stat. 382, provided that the amendment made by that section is effective Oct. 1, 1988.
+Pub. L. 99–166, title I, § 102(b)(1), Dec. 3, 1985, 99 Stat. 943, as amended by Pub. L. 99–272, title XIX, § 19012(c)(5)(A), Apr. 7, 1986, 100 Stat. 382, provided that the amendment made by that section is effective Oct. 1, 1988.
 
 **Regulations**
 
-Pub. L. 115–182, title I, § 101(c), June 6, 2018, 132 Stat. 1403, provided that:
+Pub. L. 115–182, title I, § 101(c), June 6, 2018, 132 Stat. 1403, provided that:
 
 > **“(1) In general.—** Not later than 1 year after the date of the enactment of this Act [June 6, 2018], the Secretary of Veterans Affairs shall promulgate regulations to carry out section 1703 of title 38, United States Code, as amended by subsection (a) of this section.
 
@@ -4091,7 +4091,7 @@ Pub. L. 115–182, title I, § 101(c), June 6, 2018, 132 Stat. 1403, provided 
 
 **Implementation of Provision of Care Under Veterans Community Care Program Upon Determination of Eligibility by Veteran and Veteran’s Referring Clinician**
 
-Pub. L. 118–210, title I, § 101, Jan. 2, 2025, 138 Stat. 2708, provided that:
+Pub. L. 118–210, title I, § 101, Jan. 2, 2025, 138 Stat. 2708, provided that:
 
 > **“(a) In General.—** During the period specified in subsection (c), the Secretary of Veterans Affairs shall implement section 1703(d)(1)(E) of title 38, United States Code, in compliance with the implementing regulations for such section under section 17.4010(a)(5) of title 38, Code of Federal Regulations, such that the determination of eligibility for care is final and shall be made by the veteran and the veteran’s referring clinician.
 
@@ -4113,11 +4113,11 @@ Pub. L. 118–210, title I, § 101, Jan. 2, 2025, 138 Stat. 2708, provided tha
 
 **Deadline to Submit First Report**
 
-Pub. L. 118–210, title I, § 103(b), Jan. 2, 2025, 138 Stat. 2710, provided that: “The Secretary shall submit the first report required under subsection (p) of section 1703 of such title [title 38] (as added by subsection (a)) not later than 180 days after the date of the enactment of this Act [Jan. 2, 2025].”
+Pub. L. 118–210, title I, § 103(b), Jan. 2, 2025, 138 Stat. 2710, provided that: “The Secretary shall submit the first report required under subsection (p) of section 1703 of such title [title 38] (as added by subsection (a)) not later than 180 days after the date of the enactment of this Act [Jan. 2, 2025].”
 
 **Pilot Program to Improve Administration of Care Under Veterans Community Care Program**
 
-Pub. L. 118–210, title I, § 105, Jan. 2, 2025, 138 Stat. 2713, provided that:
+Pub. L. 118–210, title I, § 105, Jan. 2, 2025, 138 Stat. 2713, provided that:
 
 > **“(a) Establishment.—** Pursuant to section 1703E of title 38, United States Code, the Secretary of Veterans Affairs, acting through the Center for Innovation for Care and Payment established under such section, shall carry out a pilot program to seek to develop and implement a plan—
 
@@ -4171,7 +4171,7 @@ Pub. L. 118–210, title I, § 105, Jan. 2, 2025, 138 Stat. 2713, provided tha
 
 **Pilot Program on Consolidating Approval Process of Department of Veterans Affairs for Covered Dental Care**
 
-Pub. L. 118–210, title I, § 106, Jan. 2, 2025, 138 Stat. 2715, provided that:
+Pub. L. 118–210, title I, § 106, Jan. 2, 2025, 138 Stat. 2715, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Jan. 2, 2025], the Secretary of Veterans Affairs, acting through the Center for Innovation for Care and Payment established under section 1703E of title 38, United States Code, shall carry out a pilot program under which the Secretary shall hire—
 
@@ -4221,7 +4221,7 @@ Pub. L. 118–210, title I, § 106, Jan. 2, 2025, 138 Stat. 2715, provided tha
 
 **Inspector General Assessment of Implementation of Veterans Community Care Program**
 
-Pub. L. 118–210, title I, § 110, Jan. 2, 2025, 138 Stat. 2722, provided that:
+Pub. L. 118–210, title I, § 110, Jan. 2, 2025, 138 Stat. 2722, provided that:
 
 > **“(a) In General.—** Not later than 18 months after the date of the enactment of this Act [Jan. 2, 2025], and periodically thereafter, the Inspector General shall assess the performance of the Department of Veterans Affairs in—
 
@@ -4235,7 +4235,7 @@ Pub. L. 118–210, title I, § 110, Jan. 2, 2025, 138 Stat. 2722, provided tha
 
 **Plan Regarding Informing Veterans of Expected Wait Times for Appointments for Care**
 
-Pub. L. 117–328, div. U, title I, § 122, Dec. 29, 2022, 136 Stat. 5415, provided that:
+Pub. L. 117–328, div. U, title I, § 122, Dec. 29, 2022, 136 Stat. 5415, provided that:
 
 > **“(a) In General.—** Not later than October 1, 2023, the Secretary of Veterans Affairs shall develop a plan to ensure that veterans eligible for care or services pursuant to section 1703(d)(1) of title 38, United States Code, including veterans making their own appointments using advanced technology, are informed of the expected number of days between the date on which the veteran requested care until—
 
@@ -4259,11 +4259,11 @@ Pub. L. 117–328, div. U, title I, § 122, Dec. 29, 2022, 136 Stat. 5415, pro
 
 **Community Care Self-Scheduling Pilot Program**
 
-Pub. L. 117–328, div. U, title I, §§ 131–134, Dec. 29, 2022, 136 Stat. 5419–5422, provided that:
+Pub. L. 117–328, div. U, title I, §§ 131–134, Dec. 29, 2022, 136 Stat. 5419–5422, provided that:
 
 > **“SEC. 131. DEFINITIONS.**
 
-> “In this chapter [chapter 3 (§§ 131–134) of title I of div. U of Pub. L. 117–328, enacting this note]:
+> “In this chapter [chapter 3 (§§ 131–134) of title I of div. U of Pub. L. 117–328, enacting this note]:
 
 > **“(1) Appropriate congressional committees.—** The term ‘appropriate congressional committees’ means—
 
@@ -4367,7 +4367,7 @@ Pub. L. 117–328, div. U, title I, §§ 131–134, Dec. 29, 2022, 136 Stat. 5
 
 **Support by Department of Veterans Affairs of Maternity Care Coordination**
 
-Pub. L. 117–69, §§ 2, 3, Nov. 30, 2021, 135 Stat. 1495, 1496, provided that:
+Pub. L. 117–69, §§ 2, 3, Nov. 30, 2021, 135 Stat. 1495, 1496, provided that:
 
 > **“SEC. 2. DEFINITIONS.**
 
@@ -4407,7 +4407,7 @@ Pub. L. 117–69, §§ 2, 3, Nov. 30, 2021, 135 Stat. 1495, 1496, provided tha
 
 **Administration of Non-Department of Veterans Affairs Health Care**
 
-Pub. L. 116–315, title III, § 3103, Jan. 5, 2021, 134 Stat. 5004, provided that:
+Pub. L. 116–315, title III, § 3103, Jan. 5, 2021, 134 Stat. 5004, provided that:
 
 > **“(a) Certification of Proper Administration of Non-Department Care.—**
 
@@ -4465,7 +4465,7 @@ Pub. L. 116–315, title III, § 3103, Jan. 5, 2021, 134 Stat. 5004, provided 
 
 **Establishment of Women Veteran Training Module for Non-Department of Veterans Affairs Health Care Providers**
 
-Pub. L. 116–315, title V, § 5203, Jan. 5, 2021, 134 Stat. 5034, provided that:
+Pub. L. 116–315, title V, § 5203, Jan. 5, 2021, 134 Stat. 5034, provided that:
 
 > **“(a) In General.—** Not later than one year after the date of the enactment of this Act [Jan. 5, 2021], the Secretary of Veterans Affairs shall establish and make available to community providers a training module that is specific to women veterans.
 
@@ -4487,7 +4487,7 @@ Pub. L. 116–315, title V, § 5203, Jan. 5, 2021, 134 Stat. 5034, provided th
 
 **Continuity of Existing Agreements**
 
-Pub. L. 115–182, title I, § 101(d), June 6, 2018, 132 Stat. 1403, provided that:
+Pub. L. 115–182, title I, § 101(d), June 6, 2018, 132 Stat. 1403, provided that:
 
 > **“(1) In general.—** Notwithstanding section 1703 of title 38, United States Code, as amended by subsection (a), the Secretary of Veterans Affairs shall continue all contracts, memorandums of understanding, memorandums of agreements, and other arrangements that were in effect on the day before the date of the enactment of this Act [June 6, 2018] between the Department of Veterans Affairs and the American Indian and Alaska Native health care systems as established under the terms of the Department of Veterans Affairs and Indian Health Service Memorandum of Understanding, signed October 1, 2010, the National Reimbursement Agreement, signed December 5, 2012, arrangements under section 405 of the Indian Health Care Improvement Act (25 U.S.C. 1645), and agreements entered into under sections 102 and 103 of the Veterans Access, Choice, and Accountability Act of 2014 (Public Law 113–146) [38 U.S.C. 1701 note].
 
@@ -4495,7 +4495,7 @@ Pub. L. 115–182, title I, § 101(d), June 6, 2018, 132 Stat. 1403, provided 
 
 **Demonstration Projects on Alternatives for Expanding Care for Veterans in Rural Areas**
 
-Pub. L. 111–163, title III, § 303, May 5, 2010, 124 Stat. 1149, provided that:
+Pub. L. 111–163, title III, § 303, May 5, 2010, 124 Stat. 1149, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs may, through the Director of the Office of Rural Health, carry out demonstration projects to examine the feasibility and advisability of alternatives for expanding care for veterans in rural areas, which may include the following:
 
@@ -4517,7 +4517,7 @@ Pub. L. 111–163, title III, § 303, May 5, 2010, 124 Stat. 1149, provided th
 
 **Pilot Program of Enhanced Contract Care Authority for Health Care Needs of Veterans in Highly Rural Areas**
 
-Pub. L. 110–387, title IV, § 403, Oct. 10, 2008, 122 Stat. 4124, as amended by Pub. L. 111–163, title III, § 308, May 5, 2010, 124 Stat. 1155; Pub. L. 113–146, title I, § 104, Aug. 7, 2014, 128 Stat. 1766; Pub. L. 113–175, title IV, § 409(h), Sept. 26, 2014, 128 Stat. 1908; Pub. L. 114–223, div. A, title II, § 242, Sept. 29, 2016, 130 Stat. 884, provided that:
+Pub. L. 110–387, title IV, § 403, Oct. 10, 2008, 122 Stat. 4124, as amended by Pub. L. 111–163, title III, § 308, May 5, 2010, 124 Stat. 1155; Pub. L. 113–146, title I, § 104, Aug. 7, 2014, 128 Stat. 1766; Pub. L. 113–175, title IV, § 409(h), Sept. 26, 2014, 128 Stat. 1908; Pub. L. 114–223, div. A, title II, § 242, Sept. 29, 2016, 130 Stat. 884, provided that:
 
 > **“(a) Pilot Program Required.—**
 
@@ -4593,9 +4593,9 @@ Section 1503(c) of Pub. L. 100–687 ratified actions of the Administrator in co
 
 **Puerto Rico Contract Care; Limitation on Incurring of Obligations**
 
-Pub. L. 99–166, title I, § 102(b)(2)–(5), Dec. 3, 1985, 99 Stat. 943, as amended by Pub. L. 99–272, title XIX, § 19012(c)(5)(B), Apr. 7, 1986, 100 Stat. 382, limited Administrator’s authority to incur obligations for medical services for veterans residing in Puerto Rico during fiscal years 1986 to 1988.
+Pub. L. 99–166, title I, § 102(b)(2)–(5), Dec. 3, 1985, 99 Stat. 943, as amended by Pub. L. 99–272, title XIX, § 19012(c)(5)(B), Apr. 7, 1986, 100 Stat. 382, limited Administrator’s authority to incur obligations for medical services for veterans residing in Puerto Rico during fiscal years 1986 to 1988.
 
-### § 1703A. Agreements with eligible entities or providers; certification processes
+### § 1703A. Agreements with eligible entities or providers; certification processes
 
 **(a) Agreements Authorized.—**
 
@@ -4723,39 +4723,39 @@ Pub. L. 99–166, title I, § 102(b)(2)–(5), Dec. 3, 1985, 99 Stat. 943, as 
 
 **(l) Covered Individual Defined.—** In this section, the term “covered individual” means any individual eligible for hospital care, medical services, or extended care services under this title or any other law administered by the Secretary.
 
-(Added Pub. L. 115–182, title I, § 102(a), June 6, 2018, 132 Stat. 1404; amended Pub. L. 115–251, title II, §§ 203, 211(a)(2), Sept. 29, 2018, 132 Stat. 3172, 3174.)
+(Added Pub. L. 115–182, title I, § 102(a), June 6, 2018, 132 Stat. 1404; amended Pub. L. 115–251, title II, §§ 203, 211(a)(2), Sept. 29, 2018, 132 Stat. 3172, 3174.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsecs. (b)(2) and (i)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (b)(2) and (i)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
-2018—Subsec. (a)(1)(A). Pub. L. 115–251, § 203(b)(1)(A), substituted “covered individual” for “veteran” wherever appearing.
+2018—Subsec. (a)(1)(A). Pub. L. 115–251, § 203(b)(1)(A), substituted “covered individual” for “veteran” wherever appearing.
 
-Subsec. (a)(1)(C). Pub. L. 115–251, § 203(b)(1)(B), substituted “covered individual” for “veteran” and “covered individual’s” for “veteran’s”.
+Subsec. (a)(1)(C). Pub. L. 115–251, § 203(b)(1)(B), substituted “covered individual” for “veteran” and “covered individual’s” for “veteran’s”.
 
-Subsec. (e)(2)(B). Pub. L. 115–251, § 203(b)(2), substituted “covered individual” for “veteran” in two places.
+Subsec. (e)(2)(B). Pub. L. 115–251, § 203(b)(2), substituted “covered individual” for “veteran” in two places.
 
-Subsec. (f)(2)(C). Pub. L. 115–251, § 203(b)(3)(A), substituted “covered individuals” for “veterans”.
+Subsec. (f)(2)(C). Pub. L. 115–251, § 203(b)(3)(A), substituted “covered individuals” for “veterans”.
 
-Subsec. (f)(2)(D). Pub. L. 115–251, § 203(b)(3)(B), substituted “covered individual” for “veteran”.
+Subsec. (f)(2)(D). Pub. L. 115–251, § 203(b)(3)(B), substituted “covered individual” for “veteran”.
 
-Subsec. (g). Pub. L. 115–251, § 203(b)(4), substituted “to covered individuals” for “to veterans”.
+Subsec. (g). Pub. L. 115–251, § 203(b)(4), substituted “to covered individuals” for “to veterans”.
 
-Subsec. (h)(4). Pub. L. 115–251, § 211(a)(2), struck out “, United States Code” after “of title 41”.
+Subsec. (h)(4). Pub. L. 115–251, § 211(a)(2), struck out “, United States Code” after “of title 41”.
 
-Subsec. (j). Pub. L. 115–251, § 203(b)(5), substituted “any covered individual” for “any veteran” and substituted “to covered individuals” for “to veterans” in two places.
+Subsec. (j). Pub. L. 115–251, § 203(b)(5), substituted “any covered individual” for “any veteran” and substituted “to covered individuals” for “to veterans” in two places.
 
-Subsec. (*l*). Pub. L. 115–251, § 203(a), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 115–251, § 203(a), added subsec. (*l*).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Applicability of Directive of Office of Federal Contract Compliance Programs**
 
-Pub. L. 115–182, title I, § 107, June 6, 2018, 132 Stat. 1416, provided that:
+Pub. L. 115–182, title I, § 107, June 6, 2018, 132 Stat. 1416, provided that:
 
 > **“(a) In General.—** Notwithstanding the treatment of certain laws under subsection (i) of section 1703A of title 38, United States Code, as added by section 102 of this title, Directive 2014–01 of the Office of Federal Contract Compliance Programs of the Department of Labor (effective as of May 7, 2014) shall apply to any entity entering into an agreement under such section 1703A or section 1745 of such title, as amended by section 103, in the same manner as such directive applies to subcontractors under the TRICARE program for the duration of the moratorium provided under such directive.
 
@@ -4763,7 +4763,7 @@ Pub. L. 115–182, title I, § 107, June 6, 2018, 132 Stat. 1416, provided tha
 
 > **“(c) TRICARE Program Defined.—** In this section, the term ‘TRICARE program’ has the meaning given that term in section 1072 of title 10, United States Code.”
 
-### § 1703B. Access standards
+### § 1703B. Access standards
 
 **(a)**
 
@@ -4861,7 +4861,7 @@ Pub. L. 115–182, title I, § 107, June 6, 2018, 132 Stat. 1416, provided tha
 
 **(4)** The term “Third Party Administrator” means an entity that manages a provider network and performs administrative services related to such network within the Veterans Community Care Program under section 1703 of this title.
 
-(Added Pub. L. 115–182, title I, § 104(a), June 6, 2018, 132 Stat. 1409; amended Pub. L. 115–251, title II, § 211(a)(3), Sept. 29, 2018, 132 Stat. 3174; Pub. L. 117–328, div. U, title I, § 125(a), Dec. 29, 2022, 136 Stat. 5416.)
+(Added Pub. L. 115–182, title I, § 104(a), June 6, 2018, 132 Stat. 1409; amended Pub. L. 115–251, title II, § 211(a)(3), Sept. 29, 2018, 132 Stat. 3174; Pub. L. 117–328, div. U, title I, § 125(a), Dec. 29, 2022, 136 Stat. 5416.)
 
 **Editorial Notes**
 
@@ -4869,17 +4869,17 @@ Pub. L. 115–182, title I, § 107, June 6, 2018, 132 Stat. 1416, provided tha
 
 The date of the enactment of the Caring for Our Veterans Act of 2018, referred to in subsec. (d)(1), (2)(B), is the date of enactment of Pub. L. 115–182, which was approved June 6, 2018.
 
-The Social Security Act, referred to in subsec. (f)(3)(D)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (f)(3)(D)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
-2022—Subsecs. (f), (g). Pub. L. 117–328, § 125(a)(1), added subsecs. (f) and (g) and struck out former subsecs. (f) and (g) which read as follows:
+2022—Subsecs. (f), (g). Pub. L. 117–328, § 125(a)(1), added subsecs. (f) and (g) and struck out former subsecs. (f) and (g) which read as follows:
 
 “(f) The Secretary shall ensure health care providers specified under section 1703(c) are able to comply with the applicable access standards established by the Secretary.
 
 “(g) The Secretary shall publish in the Federal Register and on an internet website of the Department the designated access standards established under this section for purposes of section 1703(d)(1)(D).”
 
-Subsec. (i)(3), (4). Pub. L. 117–328, § 125(a)(2), added pars. (3) and (4)
+Subsec. (i)(3), (4). Pub. L. 117–328, § 125(a)(2), added pars. (3) and (4)
 
 2018—Subsec. (i). Pub. L. 115–251 inserted introductory provisions, substituted “means” for “refers to” in par. (2), and realigned margins.
 
@@ -4887,7 +4887,7 @@ Subsec. (i)(3), (4). Pub. L. 117–328, § 125(a)(2), added pars. (3) and (4)
 
 **Publication of Clarifying Information for Non-Department of Veterans Affairs Providers**
 
-Pub. L. 117–328, div. U, title I, § 143, Dec. 29, 2022, 136 Stat. 5424, provided that:
+Pub. L. 117–328, div. U, title I, § 143, Dec. 29, 2022, 136 Stat. 5424, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs shall publish on one or more publicly available internet websites of the Department of Veterans Affairs, including the main internet website regarding emergency care authorization for non-Department providers, the following information:
 
@@ -4901,7 +4901,7 @@ Pub. L. 117–328, div. U, title I, § 143, Dec. 29, 2022, 136 Stat. 5424, pro
 
 > **“(c) Clean Claims Defined.—** In this section, the term ‘clean claims’ means clean electronic claims and clean paper claims (as those terms are defined in section 1703D(i) of title 38, United States Code).”
 
-### § 1703C. Standards for quality
+### § 1703C. Standards for quality
 
 **(a) In General.—**
 
@@ -4965,19 +4965,19 @@ Pub. L. 117–328, div. U, title I, § 143, Dec. 29, 2022, 136 Stat. 5424, pro
 
 **(2)** The term “covered veterans” means veterans described in section 1703(b) of this title.
 
-(Added Pub. L. 115–182, title I, § 104(a), June 6, 2018, 132 Stat. 1410; amended Pub. L. 115–251, title II, § 211(a)(4), Sept. 29, 2018, 132 Stat. 3174; Pub. L. 118–210, title I, § 104(a), Jan. 2, 2025, 138 Stat. 2711.)
+(Added Pub. L. 115–182, title I, § 104(a), June 6, 2018, 132 Stat. 1410; amended Pub. L. 115–251, title II, § 211(a)(4), Sept. 29, 2018, 132 Stat. 3174; Pub. L. 118–210, title I, § 104(a), Jan. 2, 2025, 138 Stat. 2711.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a)(2). Pub. L. 118–210, § 104(a)(1)(A), designated existing provisions as subpar. (A) and added subpar. (B).
+2025—Subsec. (a)(2). Pub. L. 118–210, § 104(a)(1)(A), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (a)(3)(B)(v). Pub. L. 118–210, § 104(a)(1)(B), added cl. (v).
+Subsec. (a)(3)(B)(v). Pub. L. 118–210, § 104(a)(1)(B), added cl. (v).
 
-Subsec. (a)(4). Pub. L. 118–210, § 104(a)(1)(C), substituted “the Centers for Medicare & Medicaid Services, and the Indian Health Service” for “and the Centers for Medicare & Medicaid Services” and “and other non-governmental entities including Third Party Administrators” for “and other nongovernmental entities”.
+Subsec. (a)(4). Pub. L. 118–210, § 104(a)(1)(C), substituted “the Centers for Medicare & Medicaid Services, and the Indian Health Service” for “and the Centers for Medicare & Medicaid Services” and “and other non-governmental entities including Third Party Administrators” for “and other nongovernmental entities”.
 
-Subsec. (a)(5) to (7). Pub. L. 118–210, § 104(a)(1)(D), added pars. (5) to (7) and struck out former par. (5) which read as follows:
+Subsec. (a)(5) to (7). Pub. L. 118–210, § 104(a)(1)(D), added pars. (5) to (7) and struck out former par. (5) which read as follows:
 
 “(A) Not later than 270 days after the date of the enactment of the Caring for Our Veterans Act of 2018, the Secretary shall submit to the appropriate committees of Congress a report detailing the standards for quality.
 
@@ -4985,9 +4985,9 @@ Subsec. (a)(5) to (7). Pub. L. 118–210, § 104(a)(1)(D), added pars. (5) to 
 
 “(ii) The first update under clause (i) shall occur no later than 120 days from the date of the enactment of the Caring for Our Veterans Act of 2018.”
 
-Subsec. (b)(1). Pub. L. 118–210, § 104(a)(2)(A), substituted “Not less frequently than once every three years” for “Not later than 1 year after the date on which the Secretary establishes standards for quality under subsection (a)” and inserted “pursuant to standards for quality under subsection (a)” after “medical facilities of the Department”.
+Subsec. (b)(1). Pub. L. 118–210, § 104(a)(2)(A), substituted “Not less frequently than once every three years” for “Not later than 1 year after the date on which the Secretary establishes standards for quality under subsection (a)” and inserted “pursuant to standards for quality under subsection (a)” after “medical facilities of the Department”.
 
-Subsec. (b)(2). Pub. L. 118–210, § 104(a)(2)(B), inserted “or updates” after “establishes”.
+Subsec. (b)(2). Pub. L. 118–210, § 104(a)(2)(B), inserted “or updates” after “establishes”.
 
 2018—Subsec. (c). Pub. L. 115–251 inserted heading and introductory provisions, substituted “means” for “refers to” in par. (2), and realigned margins.
 
@@ -4995,11 +4995,11 @@ Subsec. (b)(2). Pub. L. 118–210, § 104(a)(2)(B), inserted “or updates” 
 
 **Deadline for Update**
 
-Pub. L. 118–210, title I, § 104(b), Jan. 2, 2025, 138 Stat. 2712, provided that: “The Secretary, pursuant to paragraph (7) of section 1703C(a) of title 38, United States Code (as added by subsection (a)), shall make the first update to the standards for quality established under paragraph (1) of such section not later than the date that is five years after the date on which the Secretary submits the report under paragraph (2) of subsection (d) [of section 104 of Pub. L. 118–210, set out as a note below].”
+Pub. L. 118–210, title I, § 104(b), Jan. 2, 2025, 138 Stat. 2712, provided that: “The Secretary, pursuant to paragraph (7) of section 1703C(a) of title 38, United States Code (as added by subsection (a)), shall make the first update to the standards for quality established under paragraph (1) of such section not later than the date that is five years after the date on which the Secretary submits the report under paragraph (2) of subsection (d) [of section 104 of Pub. L. 118–210, set out as a note below].”
 
 **Updates to Quality Care Metrics**
 
-Pub. L. 118–210, title I, § 104(d), Jan. 2, 2025, 138 Stat. 2712, provided that:
+Pub. L. 118–210, title I, § 104(d), Jan. 2, 2025, 138 Stat. 2712, provided that:
 
 > **“(1) Initial report.—** Not later than one year after the date of the enactment of this Act [Jan. 2, 2025], the Secretary of Veterans Affairs shall submit to the appropriate committees of Congress [Committees on Veterans’ Affairs and Appropriations of the Senate and the House of Representatives] a report on how the Secretary plans to implement the amendments made by subsections [sic] (a) [amending this section].
 
@@ -5009,9 +5009,9 @@ Pub. L. 118–210, title I, § 104(d), Jan. 2, 2025, 138 Stat. 2712, provided 
 
 > **“(B)** submit to the appropriate committees of Congress a report detailing the standards for quality updated pursuant to such amendments.”
 
-[Pub. L. 118–210, title I, § 104(f), Jan. 2, 2025, 138 Stat. 2713, provided that: “In this section [amending this section and enacting provisions set out as notes above], the term ‘appropriate committees of Congress’ has the meaning given such term in section 1703C of title 38, United States Code.” ]
+[Pub. L. 118–210, title I, § 104(f), Jan. 2, 2025, 138 Stat. 2713, provided that: “In this section [amending this section and enacting provisions set out as notes above], the term ‘appropriate committees of Congress’ has the meaning given such term in section 1703C of title 38, United States Code.” ]
 
-### § 1703D. Prompt payment standard
+### § 1703D. Prompt payment standard
 
 **(a) In General.—**
 
@@ -5101,7 +5101,7 @@ Pub. L. 118–210, title I, § 104(d), Jan. 2, 2025, 138 Stat. 2712, provided 
 
 **(5)** The term “health care entity or provider” includes any non-Department health care entity or provider, but does not include any Federal health care entity or provider.
 
-(Added Pub. L. 115–182, title I, § 111(a), June 6, 2018, 132 Stat. 1418; amended Pub. L. 115–251, title II, §§ 204, 211(a)(5), Sept. 29, 2018, 132 Stat. 3172, 3175.)
+(Added Pub. L. 115–182, title I, § 111(a), June 6, 2018, 132 Stat. 1418; amended Pub. L. 115–251, title II, §§ 204, 211(a)(5), Sept. 29, 2018, 132 Stat. 3172, 3175.)
 
 **Editorial Notes**
 
@@ -5111,17 +5111,17 @@ The date of the enactment of the Caring for Our Veterans Act of 2018, referred t
 
 **Amendments**
 
-2018—Subsec. (e)(1). Pub. L. 115–251, § 204, substituted “may deduct” for “shall deduct” and inserted before period at end “and may use any other means authorized by another provision of law to correct or recover overpayments”.
+2018—Subsec. (e)(1). Pub. L. 115–251, § 204, substituted “may deduct” for “shall deduct” and inserted before period at end “and may use any other means authorized by another provision of law to correct or recover overpayments”.
 
-Subsec. (g)(3). Pub. L. 115–251, § 211(a)(5), substituted “of this title” for “of this Act, as amended by the Caring for Our Veterans Act of 2018,”.
+Subsec. (g)(3). Pub. L. 115–251, § 211(a)(5), substituted “of this title” for “of this Act, as amended by the Caring for Our Veterans Act of 2018,”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Processing of Claims for Reimbursement Through Electronic Interface**
 
-Pub. L. 115–182, title I, § 114, June 6, 2018, 132 Stat. 1423, provided that: “The Secretary of Veterans Affairs may enter into an agreement with a third-party entity to process, through the use of an electronic interface, claims for reimbursement for health care provided under the laws administered by the Secretary.”
+Pub. L. 115–182, title I, § 114, June 6, 2018, 132 Stat. 1423, provided that: “The Secretary of Veterans Affairs may enter into an agreement with a third-party entity to process, through the use of an electronic interface, claims for reimbursement for health care provided under the laws administered by the Secretary.”
 
-### § 1703E. Center for Innovation for Care and Payment
+### § 1703E. Center for Innovation for Care and Payment
 
 **(a) In General.—**
 
@@ -5137,9 +5137,9 @@ Pub. L. 115–182, title I, § 114, June 6, 2018, 132 Stat. 1423, provided tha
 
 **(4)**
 
-**(A)** The Secretary shall test a model in a location where the Secretary determines that the model will addresses 1
+**(A)** The Secretary shall test a model in a location where the Secretary determines that the model will addresses 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 deficits in care (including poor clinical outcomes or potentially avoidable expenditures) for a defined population.
 
@@ -5323,17 +5323,17 @@ deficits in care (including poor clinical outcomes or potentially avoidable expe
 
 **(2)** the Secretary determines that such expansion would not deny or limit the coverage or provision of benefits for individuals receiving benefits under this chapter.
 
-(Added Pub. L. 115–182, title I, § 152(a), June 6, 2018, 132 Stat. 1432.)
+(Added Pub. L. 115–182, title I, § 152(a), June 6, 2018, 132 Stat. 1432.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (a)(6)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(6)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The date of the enactment of the Caring for Our Veterans Act of 2018, referred to in subsec. (g)(3), is the date of enactment of Pub. L. 115–182, which was approved June 6, 2018.
 
-### § 1703F. Credentialing verification requirements for providers of non-Department health care services
+### § 1703F. Credentialing verification requirements for providers of non-Department health care services
 
 **(a) In General.—** The Secretary shall ensure that Third Party Administrators and credentials verification organizations comply with the requirements specified in subsection (b) to help ensure certain health care providers are excluded from providing non-Department health care services.
 
@@ -5371,21 +5371,21 @@ The date of the enactment of the Caring for Our Veterans Act of 2018, referred t
 
 **(D)** purchased with amounts deposited in the Veterans Choice Fund under section 802 of the Veterans Access, Choice, and Accountability Act of 2014 (Public Law 113–146; 38 U.S.C. 1701 note).
 
-(Added Pub. L. 117–328, div. U, title I, § 141(a)(1), Dec. 29, 2022, 136 Stat. 5422.)
+(Added Pub. L. 117–328, div. U, title I, § 141(a)(1), Dec. 29, 2022, 136 Stat. 5422.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Health Care Quality Improvement Act of 1986, referred to in subsec. (b)(4), is title IV of Pub. L. 99–660, Nov. 14, 1986, 100 Stat. 3784, which is classified generally to chapter 117 (§ 11101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11101 of Title 42 and Tables.
+The Health Care Quality Improvement Act of 1986, referred to in subsec. (b)(4), is title IV of Pub. L. 99–660, Nov. 14, 1986, 100 Stat. 3784, which is classified generally to chapter 117 (§ 11101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11101 of Title 42 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Deadline for Implementation**
 
-Pub. L. 117–328, div. U, title I, § 141(b), Dec. 29, 2022, 136 Stat. 5423, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 29, 2022], the Secretary of Veterans Affairs shall commence the implementation of section 1703F of title 38, United States Code, as added by subsection (a)(1).”
+Pub. L. 117–328, div. U, title I, § 141(b), Dec. 29, 2022, 136 Stat. 5423, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 29, 2022], the Secretary of Veterans Affairs shall commence the implementation of section 1703F of title 38, United States Code, as added by subsection (a)(1).”
 
-### § 1703G. Quarterly report on referrals for non-Department health care
+### § 1703G. Quarterly report on referrals for non-Department health care
 
 The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a quarterly report containing, with respect to referrals for non-Department health care originating from a medical facility of the Department during the quarter preceding the date of the submission of the report, a measurement of, for each such medical facility—
 
@@ -5403,15 +5403,15 @@ The Secretary shall submit to the Committees on Veterans’ Affairs of the Senat
 
 **(2)** any other period of time that the Secretary determines necessary.
 
-(Added Pub. L. 118–210, title I, § 140(a), Jan. 2, 2025, 138 Stat. 2743.)
+(Added Pub. L. 118–210, title I, § 140(a), Jan. 2, 2025, 138 Stat. 2743.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 118–210, title I, § 140(b), Jan. 2, 2025, 138 Stat. 2744, provided that: “The first report under section 1703G [38 U.S.C. 1703G], as added by this section, shall be due not later than 180 days after the date of the enactment of this section [Jan. 2, 2025].”
+Pub. L. 118–210, title I, § 140(b), Jan. 2, 2025, 138 Stat. 2744, provided that: “The first report under section 1703G [38 U.S.C. 1703G], as added by this section, shall be due not later than 180 days after the date of the enactment of this section [Jan. 2, 2025].”
 
-### § 1704. Preventive health services: annual report
+### § 1704. Preventive health services: annual report
 
 Not later than October 31 each year, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on preventive health services. Each such report shall include the following:
 
@@ -5449,7 +5449,7 @@ Not later than October 31 each year, the Secretary shall submit to the Committee
 
 **(3)** An accounting of the expenditure of funds during that period by the National Center for Preventive Health under section 7318 of this title.
 
-(Added Pub. L. 102–585, title V, § 512(a), Nov. 4, 1992, 106 Stat. 4957; amended Pub. L. 114–315, title VI, § 602(b), Dec. 16, 2016, 130 Stat. 1569.)
+(Added Pub. L. 102–585, title V, § 512(a), Nov. 4, 1992, 106 Stat. 4957; amended Pub. L. 114–315, title VI, § 602(b), Dec. 16, 2016, 130 Stat. 1569.)
 
 **Editorial Notes**
 
@@ -5463,7 +5463,7 @@ Not later than October 31 each year, the Secretary shall submit to the Committee
 
 Nothing in amendment by Pub. L. 114–315 to be construed to require a veteran to receive an immunization that the veteran does not want to receive, see section 602(d) of Pub. L. 114–315, set out as a note under section 1701 of this title.
 
-### § 1704A. Independent assessments of health care delivery systems and management processes
+### § 1704A. Independent assessments of health care delivery systems and management processes
 
 **(a) Independent Assessments.—**
 
@@ -5585,21 +5585,21 @@ Nothing in amendment by Pub. L. 114–315 to be construed to require a veteran t
 
 **(g) Sunset.—** The requirement to enter into contracts under subsection (a) shall terminate on December 31, 2055.
 
-(Added Pub. L. 117–328, div. U, title I, § 194(a), Dec. 29, 2022, 136 Stat. 5440.)
+(Added Pub. L. 117–328, div. U, title I, § 194(a), Dec. 29, 2022, 136 Stat. 5440.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Deadline for Initial Assessment**
 
-Pub. L. 117–328, div. U, title I, § 194(c), Dec. 29, 2022, 136 Stat. 5444, provided that: “The initial assessment under section 1704A of title 38, United States Code, as added by subsection (a), shall be completed by not later than December 31, 2025.”
+Pub. L. 117–328, div. U, title I, § 194(c), Dec. 29, 2022, 136 Stat. 5444, provided that: “The initial assessment under section 1704A of title 38, United States Code, as added by subsection (a), shall be completed by not later than December 31, 2025.”
 
-### § 1705. Management of health care: patient enrollment system
+### § 1705. Management of health care: patient enrollment system
 
 **(a)** In managing the provision of hospital care and medical services under section 1710(a) of this title, the Secretary, in accordance with regulations the Secretary shall prescribe, shall establish and operate a system of annual patient enrollment. The Secretary shall manage the enrollment of veterans in accordance with the following priorities, in the order listed:
 
-**(1)** Veterans with service-connected disabilities rated 50 percent or greater and veterans who were awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 1
+**(1)** Veterans with service-connected disabilities rated 50 percent or greater and veterans who were awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 14.
 
@@ -5631,21 +5631,21 @@ of title 14.
 
 **(2)** The Secretary shall provide hospital care and medical services under section 1710(a)(1) of this title, and under subparagraph (B) of section 1710(a)(2) of this title, for the 12-month period following such veteran’s discharge or release from service, to any veteran referred to in such sections for a disability specified in the applicable subparagraph of such section, notwithstanding the failure of the veteran to enroll in the system of patient enrollment referred to in subsection (a) of this section.
 
-(Added Pub. L. 104–262, title I, § 104(a)(1), Oct. 9, 1996, 110 Stat. 3182; amended Pub. L. 106–117, title I, § 112(2), Nov. 30, 1999, 113 Stat. 1556; Pub. L. 107–135, title II, § 202(a), Jan. 23, 2002, 115 Stat. 2457; Pub. L. 107–330, title III, § 308(g)(4), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 111–163, title V, § 512, May 5, 2010, 124 Stat. 1164; Pub. L. 114–315, title VI, § 603(a)(1), Dec. 16, 2016, 130 Stat. 1570; Pub. L. 115–232, div. A, title VIII, § 809(n)(1)(A), Aug. 13, 2018, 132 Stat. 1843.)
+(Added Pub. L. 104–262, title I, § 104(a)(1), Oct. 9, 1996, 110 Stat. 3182; amended Pub. L. 106–117, title I, § 112(2), Nov. 30, 1999, 113 Stat. 1556; Pub. L. 107–135, title II, § 202(a), Jan. 23, 2002, 115 Stat. 2457; Pub. L. 107–330, title III, § 308(g)(4), Dec. 6, 2002, 116 Stat. 2828; Pub. L. 111–163, title V, § 512, May 5, 2010, 124 Stat. 1164; Pub. L. 114–315, title VI, § 603(a)(1), Dec. 16, 2016, 130 Stat. 1570; Pub. L. 115–232, div. A, title VIII, § 809(n)(1)(A), Aug. 13, 2018, 132 Stat. 1843.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 491 of title 14, referred to in subsec. (a)(1), was redesignated section 2732 of title 14 by Pub. L. 115–282, title I, § 116(b), Dec. 4, 2018, 132 Stat. 4226, and references to section 491 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding section 101 of Title 14, Coast Guard.
+Section 491 of title 14, referred to in subsec. (a)(1), was redesignated section 2732 of title 14 by Pub. L. 115–282, title I, § 116(b), Dec. 4, 2018, 132 Stat. 4226, and references to section 491 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding section 101 of Title 14, Coast Guard.
 
 **Amendments**
 
 2018—Subsec. (a)(1). Pub. L. 115–232 substituted “section 7271, 8291, or 9271 of title 10” for “section 3741, 6241, or 8741 of title 10”.
 
-2016—Subsec. (a)(1). Pub. L. 114–315, § 603(a)(1)(A), inserted “and veterans who were awarded the medal of honor under section 3741, 6241, or 8741 of title 10 or section 491 of title 14” before period at end.
+2016—Subsec. (a)(1). Pub. L. 114–315, § 603(a)(1)(A), inserted “and veterans who were awarded the medal of honor under section 3741, 6241, or 8741 of title 10 or section 491 of title 14” before period at end.
 
-Subsec. (a)(3). Pub. L. 114–315, § 603(a)(1)(B), struck out “veterans who were awarded the medal of honor under section 3741, 6241, or 8741 of title 10 or section 491 of title 14,” after “awarded the Purple Heart,”.
+Subsec. (a)(3). Pub. L. 114–315, § 603(a)(1)(B), struck out “veterans who were awarded the medal of honor under section 3741, 6241, or 8741 of title 10 or section 491 of title 14,” after “awarded the Purple Heart,”.
 
 2010—Subsec. (a)(3). Pub. L. 111–163 inserted “veterans who were awarded the medal of honor under section 3741, 6241, or 8741 of title 10 or section 491 of title 14,” after “the Purple Heart,”.
 
@@ -5663,15 +5663,15 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–135, title II, § 202(c), Jan. 23, 2002, 115 Stat. 2457, provided that: “The amendments made by this section [amending this section and section 1710 of this title] shall take effect on October 1, 2002.”
+Pub. L. 107–135, title II, § 202(c), Jan. 23, 2002, 115 Stat. 2457, provided that: “The amendments made by this section [amending this section and section 1710 of this title] shall take effect on October 1, 2002.”
 
 **Application**
 
-Pub. L. 114–315, title VI, § 603(a)(2), Dec. 16, 2016, 130 Stat. 1570, provided that: “The priority of enrollment of medal of honor recipients in the system of annual patient enrollment established and operated under section 1705(a) of such title [38 U.S.C. 1705(a)], as amended by paragraph (1), shall apply to each such recipient, regardless of the date on which the medal is awarded.”
+Pub. L. 114–315, title VI, § 603(a)(2), Dec. 16, 2016, 130 Stat. 1570, provided that: “The priority of enrollment of medal of honor recipients in the system of annual patient enrollment established and operated under section 1705(a) of such title [38 U.S.C. 1705(a)], as amended by paragraph (1), shall apply to each such recipient, regardless of the date on which the medal is awarded.”
 
 **Assessment of Implementation and Operation of Amendments by Pub. L. 104–262**
 
-Pub. L. 104–262, title I, § 106, Oct. 9, 1996, 110 Stat. 3184, provided that:
+Pub. L. 104–262, title I, § 106, Oct. 9, 1996, 110 Stat. 3184, provided that:
 
 > **“(a) Assessment Systems.—** The Secretary of Veterans Affairs shall establish information systems to assess the experience of the Department of Veterans Affairs in implementing sections 101, 103, and 104 [enacting this section and section 1706 of this title, amending sections 1525, 1701, 1703, 1710, 1712, 1712A, 1717, 1718, 1720, 1722, 1729, 2104, 5317, 8110, and 8111A of this title, and enacting provisions set out as a note under section 1701 of this title], including the amendments made by those sections, during fiscal year 1997. The Secretary shall establish those information systems in time to include assessments under such systems in the report required under subsection (b).
 
@@ -5705,7 +5705,7 @@ Pub. L. 104–262, title I, § 106, Oct. 9, 1996, 110 Stat. 3184, provided tha
 
 > **“(6)** The specific fiscal impact (shown in total and by geographic health-care delivery areas) of changes in delivery patterns instituted under the amendments made by this title [enacting this section and section 1706 of this title and amending sections 1525, 1701, 1703, 1710, 1712, 1712A, 1717, 1718, 1720, 1722, 1729, 2104, 5317, 8110, and 8111A of this title].”
 
-### § 1705A. Management of health care: information regarding health-plan contracts
+### § 1705A. Management of health care: information regarding health-plan contracts
 
 **(a) In General.—**
 
@@ -5727,7 +5727,7 @@ Pub. L. 104–262, title I, § 106, Oct. 9, 1996, 110 Stat. 3184, provided tha
 
 **(d) Health-Plan Contract Defined.—** In this section, the term “health-plan contract” has the meaning given that term in section 1725(h) of this title.
 
-(Added Pub. L. 114–315, title VI, § 604(a), Dec. 16, 2016, 130 Stat. 1571; amended Pub. L. 117–328, div. U, title I, § 142(c)(1), Dec. 29, 2022, 136 Stat. 5424.)
+(Added Pub. L. 114–315, title VI, § 604(a), Dec. 16, 2016, 130 Stat. 1571; amended Pub. L. 117–328, div. U, title I, § 142(c)(1), Dec. 29, 2022, 136 Stat. 5424.)
 
 **Editorial Notes**
 
@@ -5735,7 +5735,7 @@ Pub. L. 104–262, title I, § 106, Oct. 9, 1996, 110 Stat. 3184, provided tha
 
 2022—Subsec. (d). Pub. L. 117–328 substituted “section 1725(h)” for “section 1725(f)”.
 
-### § 1706. Management of health care: other requirements
+### § 1706. Management of health care: other requirements
 
 **(a)** In managing the provision of hospital care and medical services under section 1710(a) of this title, the Secretary shall, to the extent feasible, design, establish and manage health care programs in such a manner as to promote cost-effective delivery of health care services in the most clinically appropriate setting.
 
@@ -5797,7 +5797,7 @@ Pub. L. 104–262, title I, § 106, Oct. 9, 1996, 110 Stat. 3184, provided tha
 
 **(c)** The Secretary shall ensure that each primary care health care facility of the Department develops and carries out a plan to provide mental health services, either through referral or direct provision of services, to veterans who require such services.
 
-(Added Pub. L. 104–262, title I, § 104(a)(1), Oct. 9, 1996, 110 Stat. 3183; amended Pub. L. 105–368, title IX, § 903(a), title X, § 1005(b)(2), Nov. 11, 1998, 112 Stat. 3360, 3365; Pub. L. 107–95, § 8(a), Dec. 21, 2001, 115 Stat. 919; Pub. L. 107–135, title II, § 203, Jan. 23, 2002, 115 Stat. 2458; Pub. L. 109–461, title II, § 208(a), Dec. 22, 2006, 120 Stat. 3413; Pub. L. 114–223, div. A, title II, § 253, Sept. 29, 2016, 130 Stat. 894.)
+(Added Pub. L. 104–262, title I, § 104(a)(1), Oct. 9, 1996, 110 Stat. 3183; amended Pub. L. 105–368, title IX, § 903(a), title X, § 1005(b)(2), Nov. 11, 1998, 112 Stat. 3360, 3365; Pub. L. 107–95, § 8(a), Dec. 21, 2001, 115 Stat. 919; Pub. L. 107–135, title II, § 203, Jan. 23, 2002, 115 Stat. 2458; Pub. L. 109–461, title II, § 208(a), Dec. 22, 2006, 120 Stat. 3413; Pub. L. 114–223, div. A, title II, § 253, Sept. 29, 2016, 130 Stat. 894.)
 
 **Editorial Notes**
 
@@ -5807,29 +5807,29 @@ Pub. L. 104–262, title I, § 106, Oct. 9, 1996, 110 Stat. 3184, provided tha
 
 2006—Subsec. (b)(5)(A). Pub. L. 109–461 substituted “2008” for “2004”.
 
-2002—Subsec. (b)(1). Pub. L. 107–135, § 203(a)(1), inserted “(and each geographic service area of the Veterans Health Administration)” after “ensure that the Department” in introductory provisions and “(and each geographic service area of the Veterans Health Administration)” after “overall capacity of the Department” in cl. (B).
+2002—Subsec. (b)(1). Pub. L. 107–135, § 203(a)(1), inserted “(and each geographic service area of the Veterans Health Administration)” after “ensure that the Department” in introductory provisions and “(and each geographic service area of the Veterans Health Administration)” after “overall capacity of the Department” in cl. (B).
 
-Subsec. (b)(2) to (4). Pub. L. 107–135, § 203(a)(3), added pars. (2) to (4). Former pars. (2) and (3) redesignated (5) and (6), respectively.
+Subsec. (b)(2) to (4). Pub. L. 107–135, § 203(a)(3), added pars. (2) to (4). Former pars. (2) and (3) redesignated (5) and (6), respectively.
 
-Subsec. (b)(5). Pub. L. 107–135, § 203(a)(2), (b), redesignated par. (2) as (5), inserted “(A)” before “Not later than”, substituted “April 1 of each year through 2004” for “April 1, 1999, April 1, 2000, and April 1, 2001”, inserted at end of subpar. (A) “Each such report shall include information on recidivism rates associated with substance-use disorder treatment.”, and added subpars. (B) and (C).
+Subsec. (b)(5). Pub. L. 107–135, § 203(a)(2), (b), redesignated par. (2) as (5), inserted “(A)” before “Not later than”, substituted “April 1 of each year through 2004” for “April 1, 1999, April 1, 2000, and April 1, 2001”, inserted at end of subpar. (A) “Each such report shall include information on recidivism rates associated with substance-use disorder treatment.”, and added subpars. (B) and (C).
 
-Subsec. (b)(6). Pub. L. 107–135, § 203(a)(2), redesignated par. (3) as (6).
+Subsec. (b)(6). Pub. L. 107–135, § 203(a)(2), redesignated par. (3) as (6).
 
 2001—Subsec. (c). Pub. L. 107–95 added subsec. (c).
 
-1998—Subsec. (b)(1). Pub. L. 105–368, § 1005(b)(2), substituted “October 9, 1996” for “the date of the enactment of this section”.
+1998—Subsec. (b)(1). Pub. L. 105–368, § 1005(b)(2), substituted “October 9, 1996” for “the date of the enactment of this section”.
 
-Subsec. (b)(2). Pub. L. 105–368, § 903(a)(1), substituted “April 1, 1999, April 1, 2000, and April 1, 2001” for “April 1, 1997, April 1, 1998, and April 1, 1999”.
+Subsec. (b)(2). Pub. L. 105–368, § 903(a)(1), substituted “April 1, 1999, April 1, 2000, and April 1, 2001” for “April 1, 1997, April 1, 1998, and April 1, 1999”.
 
-Subsec. (b)(3). Pub. L. 105–368, § 903(a)(2), added par. (3).
+Subsec. (b)(3). Pub. L. 105–368, § 903(a)(2), added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Deadline for Prescribing Standards**
 
-Pub. L. 105–368, title IX, § 903(b), Nov. 11, 1998, 112 Stat. 3361, provided that: “The standards of job performance required by paragraph (3) of section 1706(b) of title 38, United States Code, as added by subsection (a), shall be prescribed not later than January 1, 1999.”
+Pub. L. 105–368, title IX, § 903(b), Nov. 11, 1998, 112 Stat. 3361, provided that: “The standards of job performance required by paragraph (3) of section 1706(b) of title 38, United States Code, as added by subsection (a), shall be prescribed not later than January 1, 1999.”
 
-### § 1706A. Remediation of medical service lines
+### § 1706A. Remediation of medical service lines
 
 **(a) In General.—** Not later than 30 days after determining under section 1703(e)(1) of this title that a medical service line of the Department is providing hospital care, medical services, or extended care services that does not comply with the standards for quality established by the Secretary, the Secretary shall submit to Congress an assessment of the factors that led the Secretary to make such determination and a plan with specific actions, and the time to complete them, to be taken to comply with such standards for quality, including the following:
 
@@ -5857,35 +5857,35 @@ Pub. L. 105–368, title IX, § 903(b), Nov. 11, 1998, 112 Stat. 3361, provide
 
 **(2)** publish such analysis on the internet website of the Department.
 
-(Added Pub. L. 115–182, title I, § 109(a), June 6, 2018, 132 Stat. 1417; amended Pub. L. 115–251, title II, § 211(a)(6), Sept. 29, 2018, 132 Stat. 3175.)
+(Added Pub. L. 115–182, title I, § 109(a), June 6, 2018, 132 Stat. 1417; amended Pub. L. 115–251, title II, § 211(a)(6), Sept. 29, 2018, 132 Stat. 3175.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–251, § 211(a)(6)(A), inserted “of this title” after “section 1703(e)(1)” in introductory provisions.
+2018—Subsec. (a). Pub. L. 115–251, § 211(a)(6)(A), inserted “of this title” after “section 1703(e)(1)” in introductory provisions.
 
-Subsec. (d)(1). Pub. L. 115–251, § 211(a)(6)(B), substituted “subsection (a)” for “paragraph (1)”.
+Subsec. (d)(1). Pub. L. 115–251, § 211(a)(6)(B), substituted “subsection (a)” for “paragraph (1)”.
 
-### § 1707. Limitations
+### § 1707. Limitations
 
 **(a)** Funds appropriated to carry out this chapter may not be used for purposes that are inconsistent with the Assisted Suicide Funding Restriction Act of 1997 (42 U.S.C. 14401 et seq.).
 
 **(b)** The Secretary may furnish sensori-neural aids only in accordance with guidelines prescribed by the Secretary.
 
-(Added Pub. L. 105–12, § 9(i)(1), Apr. 30, 1997, 111 Stat. 27; amended Pub. L. 107–135, title II, § 208(a)(2), (f)(2), Jan. 23, 2002, 115 Stat. 2462, 2464; Pub. L. 107–330, title III, § 308(g)(5), Dec. 6, 2002, 116 Stat. 2829.)
+(Added Pub. L. 105–12, § 9(i)(1), Apr. 30, 1997, 111 Stat. 27; amended Pub. L. 107–135, title II, § 208(a)(2), (f)(2), Jan. 23, 2002, 115 Stat. 2462, 2464; Pub. L. 107–330, title III, § 308(g)(5), Dec. 6, 2002, 116 Stat. 2829.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (a), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§ 14401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42.
+The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (a), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§ 14401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42.
 
 **Amendments**
 
-2002—Pub. L. 107–135, § 208(f)(2), substituted “Limitations” for “Restriction on use of funds for assisted suicide, euthanasia, or mercy killing” as section catchline.
+2002—Pub. L. 107–135, § 208(f)(2), substituted “Limitations” for “Restriction on use of funds for assisted suicide, euthanasia, or mercy killing” as section catchline.
 
-Pub. L. 107–135, § 208(a)(2), designated existing provisions as subsec. (a) and added subsec. (b).
+Pub. L. 107–135, § 208(a)(2), designated existing provisions as subsec. (a) and added subsec. (b).
 
 Subsec. (a). Pub. L. 107–330 inserted “(42 U.S.C. 14401 et seq.)” before period at end.
 
@@ -5895,7 +5895,7 @@ Subsec. (a). Pub. L. 107–330 inserted “(42 U.S.C. 14401 et seq.)” before p
 
 Section effective Apr. 30, 1997, and applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, subject to also being applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as a note under section 14401 of Title 42, The Public Health and Welfare.
 
-### § 1708. Temporary lodging
+### § 1708. Temporary lodging
 
 **(a)** The Secretary may furnish persons described in subsection (b) with temporary lodging in a Fisher house or other appropriate facility in connection with the examination, treatment, or care of a veteran under this chapter or, as provided for under subsection (e)(5), in connection with benefits administered under this title.
 
@@ -5927,7 +5927,7 @@ Section effective Apr. 30, 1997, and applicable to Federal payments made pursuan
 
 **(5)** establishing any other limitations, conditions, and priorities that the Secretary considers appropriate with respect to lodging under this section.
 
-(Added Pub. L. 106–419, title II, § 221(a), Nov. 1, 2000, 114 Stat. 1844; amended Pub. L. 110–387, title IX, § 901(a)(8), Oct. 10, 2008, 122 Stat. 4142.)
+(Added Pub. L. 106–419, title II, § 221(a), Nov. 1, 2000, 114 Stat. 1844; amended Pub. L. 110–387, title IX, § 901(a)(8), Oct. 10, 2008, 122 Stat. 4142.)
 
 **Editorial Notes**
 
@@ -5935,7 +5935,7 @@ Section effective Apr. 30, 1997, and applicable to Federal payments made pursuan
 
 2008—Subsec. (d). Pub. L. 110–387 substituted “medical services account” for “medical care account”.
 
-### § 1709. Comprehensive policy on reporting and tracking sexual assault incidents and other safety incidents
+### § 1709. Comprehensive policy on reporting and tracking sexual assault incidents and other safety incidents
 
 **(a) Policy Required.—**
 
@@ -6017,9 +6017,9 @@ Section effective Apr. 30, 1997, and applicable to Federal payments made pursuan
 
 **(C)** the effectiveness of such policy on improving the safety and security of the medical facilities of the Department, including the performance measures used to evaluate such effectiveness.
 
-(Added Pub. L. 112–154, title I, § 106(a), Aug. 6, 2012, 126 Stat. 1171.)
+(Added Pub. L. 112–154, title I, § 106(a), Aug. 6, 2012, 126 Stat. 1171.)
 
-### § 1709A. Teleconsultation
+### § 1709A. Teleconsultation
 
 **(a) Teleconsultation.—**
 
@@ -6039,9 +6039,9 @@ Section effective Apr. 30, 1997, and applicable to Federal payments made pursuan
 
 **(b) Teleconsultation Defined.—** In this section, the term “teleconsultation” means the use by a health care specialist of telecommunications to assist another health care provider in rendering a diagnosis or treatment.
 
-(Added Pub. L. 112–154, title I, § 108(a)(1), Aug. 6, 2012, 126 Stat. 1174.)
+(Added Pub. L. 112–154, title I, § 108(a)(1), Aug. 6, 2012, 126 Stat. 1174.)
 
-### § 1709B. Evaluations of mental health care and suicide prevention programs
+### § 1709B. Evaluations of mental health care and suicide prevention programs
 
 **(a) Evaluations.—**
 
@@ -6077,7 +6077,7 @@ Section effective Apr. 30, 1997, and applicable to Federal payments made pursuan
 
 **(2)** Any recommendations the Secretary considers appropriate.
 
-(Added Pub. L. 114–2, § 2(a)(1), Feb. 12, 2015, 129 Stat. 30; amended Pub. L. 114–188, § 2, June 30, 2016, 130 Stat. 611.)
+(Added Pub. L. 114–2, § 2(a)(1), Feb. 12, 2015, 129 Stat. 30; amended Pub. L. 114–188, § 2, June 30, 2016, 130 Stat. 611.)
 
 **Editorial Notes**
 
@@ -6087,15 +6087,15 @@ The date of the enactment of this section, referred to in subsec. (a)(4), is the
 
 **Amendments**
 
-2016—Subsec. (a)(2)(A). Pub. L. 114–188, § 2(1), inserted before semicolon at end “, including metrics applicable specifically to women”.
+2016—Subsec. (a)(2)(A). Pub. L. 114–188, § 2(1), inserted before semicolon at end “, including metrics applicable specifically to women”.
 
-Subsec. (a)(2)(F). Pub. L. 114–188, § 2(2)–(4), added subpar. (F).
+Subsec. (a)(2)(F). Pub. L. 114–188, § 2(2)–(4), added subpar. (F).
 
 **Statutory Notes and Related Subsidiaries**
 
 **National Veteran Suicide Prevention Annual Report**
 
-Pub. L. 118–210, title I, § 149, Jan. 2, 2025, 138 Stat. 2755, provided that:
+Pub. L. 118–210, title I, § 149, Jan. 2, 2025, 138 Stat. 2755, provided that:
 
 > **“(a) National Veteran Suicide Prevention Annual Report.—**
 
@@ -6237,7 +6237,7 @@ Pub. L. 118–210, title I, § 149, Jan. 2, 2025, 138 Stat. 2755, provided tha
 
 > **“(3) Outreach.—** The Secretary, in collaboration with the Director of the Centers for Disease Control and Prevention, shall conduct outreach to appropriate State and local agencies to promote the availability and use of the toolkit developed under paragraph (1).”
 
-### § 1709C. Assistance for child care for certain veterans receiving health care
+### § 1709C. Assistance for child care for certain veterans receiving health care
 
 **(a) Program Required.—** The Secretary shall carry out a program to provide, subject to subsection (b), assistance to qualified veterans described in subsection (c) to obtain child care so that such veterans can receive health care services described in subsection (c)(2).
 
@@ -6283,7 +6283,7 @@ Pub. L. 118–210, title I, § 149, Jan. 2, 2025, 138 Stat. 2755, provided tha
 
 **(3)** In the case that child care assistance under this section is provided as a stipend under paragraph (1)(A), such stipend shall cover the full cost of such child care.
 
-(Added Pub. L. 116–315, title V, § 5107(a)(1), Jan. 5, 2021, 134 Stat. 5030.)
+(Added Pub. L. 116–315, title V, § 5107(a)(1), Jan. 5, 2021, 134 Stat. 5030.)
 
 **Editorial Notes**
 
@@ -6291,7 +6291,7 @@ Pub. L. 118–210, title I, § 149, Jan. 2, 2025, 138 Stat. 2755, provided tha
 
 The date of the enactment of the Deborah Sampson Act of 2020, referred to in subsec. (d), is the date of enactment of title V of Pub. L. 116–315, which was approved Jan. 5, 2021.
 
-Section 630 of the Treasury and General Government Appropriations Act, 2002, referred to in subsec. (e)(1)(A), is section 630 of Pub. L. 107–67, Nov. 12, 2001, 115 Stat. 552, which was classified to section 490b–1 of former Title 40, Public Buildings, Property, and Works, and was repealed and restated as section 590(g) of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1118, 1327.
+Section 630 of the Treasury and General Government Appropriations Act, 2002, referred to in subsec. (e)(1)(A), is section 630 of Pub. L. 107–67, Nov. 12, 2001, 115 Stat. 552, which was classified to section 490b–1 of former Title 40, Public Buildings, Property, and Works, and was repealed and restated as section 590(g) of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1118, 1327.
 
 ## SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMENT
 
@@ -6299,9 +6299,9 @@ Section 630 of the Treasury and General Government Appropriations Act, 2002, ref
 
 **Amendments**
 
-1976—Pub. L. 94–581, title II, § 202(c), Oct. 21, 1976, 90 Stat. 2855, inserted “, NURSING HOME,” in subchapter heading.
+1976—Pub. L. 94–581, title II, § 202(c), Oct. 21, 1976, 90 Stat. 2855, inserted “, NURSING HOME,” in subchapter heading.
 
-### § 1710. Eligibility for hospital, nursing home, and domiciliary care
+### § 1710. Eligibility for hospital, nursing home, and domiciliary care
 
 **(a)**
 
@@ -6319,9 +6319,9 @@ Section 630 of the Treasury and General Government Appropriations Act, 2002, ref
 
 **(C)** who is in receipt of, or who, but for a suspension pursuant to section 1151 of this title (or both a suspension and the receipt of retired pay), would be entitled to disability compensation, but only to the extent that such veteran’s continuing eligibility for such care is provided for in the judgment or settlement provided for in such section;
 
-**(D)** who is a former prisoner of war, who was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 1
+**(D)** who is a former prisoner of war, who was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 14, or who was awarded the Purple Heart;
 
@@ -6559,19 +6559,19 @@ whichever occurs first.
 
 **(h)** Nothing in this section requires the Secretary to furnish care to a veteran to whom another agency of Federal, State, or local government has a duty under law to provide care in an institution of such government.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, § 610; Pub. L. 87–583, § 1, Aug. 14, 1962, 76 Stat. 381; Pub. L. 89–358, § 8, Mar. 3, 1966, 80 Stat. 27; Pub. L. 89–785, title III, § 304, Nov. 7, 1966, 80 Stat. 1377; Pub. L. 91–500, § 4, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 93–82, title I, § 102, Aug. 2, 1973, 87 Stat. 180; Pub. L. 94–581, title II, §§ 202(d), 210(a)(1), Oct. 21, 1976, 90 Stat. 2855, 2862; Pub. L. 96–22, title I, § 102(a), June 13, 1979, 93 Stat. 47; Pub. L. 97–37, § 5(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 97–72, title I, § 102(a), Nov. 3, 1981, 95 Stat. 1047; Pub. L. 98–160, title VII, § 701, Nov. 21, 1983, 97 Stat. 1008; Pub. L. 99–166, title I, § 103, Dec. 3, 1985, 99 Stat. 944; Pub. L. 99–272, title XIX, § 19011(a), (d)(3), Apr. 7, 1986, 100 Stat. 372, 379; Pub. L. 99–576, title II, § 237(a), (b)(1), Oct. 28, 1986, 100 Stat. 3267; Pub. L. 100–322, title I, § 102(a), May 20, 1988, 102 Stat. 492; Pub. L. 100–687, div. B, title XII, § 1202, Nov. 18, 1988, 102 Stat. 4125; Pub. L. 101–508, title VIII, § 8013(a), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–4, § 5, Feb. 6, 1991, 105 Stat. 15; Pub. L. 102–54, § 14(b)(10), June 13, 1991, 105 Stat. 283; renumbered § 1710 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–210, §§ 1(a), 2(a), Dec. 20, 1993, 107 Stat. 2496, 2497; Pub. L. 103–446, title XII, § 1201(d)(2), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 103–452, title I, § 103(a)(1), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, § 101(a)(1), Feb. 13, 1996, 110 Stat. 768; Pub. L. 104–262, title I, §§ 101(a), (b), (d)(2)–(4), 102(a), Oct. 9, 1996, 110 Stat. 3178, 3179, 3181; Pub. L. 104–275, title V, § 505(c), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 105–33, title VIII, §§ 8021(a)(1), 8023(b)(1), (2), Aug. 5, 1997, 111 Stat. 664, 667; Pub. L. 105–114, title II, § 209(a), title IV, § 402(a), Nov. 21, 1997, 111 Stat. 2290, 2294; Pub. L. 105–368, title I, § 102(a), title X, § 1005(b)(3), Nov. 11, 1998, 112 Stat. 3321, 3365; Pub. L. 106–117, title I, §§ 101(f), 112(1), title II, § 201(b), Nov. 30, 1999, 113 Stat. 1550, 1556, 1561; Pub. L. 106–419, title II, § 224(b), Nov. 1, 2000, 114 Stat. 1846; Pub. L. 107–135, title II, §§ 202(b), 209(a), 211, Jan. 23, 2002, 115 Stat. 2457, 2464, 2465; Pub. L. 107–330, title III, § 308(g)(6), Dec. 6, 2002, 116 Stat. 2829; Pub. L. 108–170, title I, § 102, Dec. 6, 2003, 117 Stat. 2044; Pub. L. 109–444, § 2(a), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title II, § 211(a)(3)(B), title X, §§ 1003, 1006(b), Dec. 22, 2006, 120 Stat. 3419, 3465, 3468; Pub. L. 110–161, div. I, title II, § 231, Dec. 26, 2007, 121 Stat. 2273; Pub. L. 110–181, div. A, title XVII, § 1707, Jan. 28, 2008, 122 Stat. 493; Pub. L. 110–329, div. E, title II, § 224, Sept. 30, 2008, 122 Stat. 3713; Pub. L. 110–387, title IV, § 409, title VIII, §§ 803, 804(a), Oct. 10, 2008, 122 Stat. 4130, 4141; Pub. L. 111–163, title V, §§ 513, 517, May 5, 2010, 124 Stat. 1164, 1167; Pub. L. 112–154, title I, §§ 102(a), 112, Aug. 6, 2012, 126 Stat. 1167, 1176; Pub. L. 113–37, § 2(c), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title I, § 107, Sept. 26, 2014, 128 Stat. 1903; Pub. L. 113–235, div. I, title II, § 243, Dec. 16, 2014, 128 Stat. 2568; Pub. L. 114–2, § 7, Feb. 12, 2015, 129 Stat. 36; Pub. L. 114–58, title I, § 101, title VI, § 601(4), Sept. 30, 2015, 129 Stat. 532, 538; Pub. L. 114–198, title IX, § 915(b), July 22, 2016, 130 Stat. 765; Pub. L. 114–223, div. A, title II, § 243(b), Sept. 29, 2016, 130 Stat. 884; Pub. L. 114–228, title I, § 101, Sept. 29, 2016, 130 Stat. 936; Pub. L. 114–315, title VI, § 603(b), title VIII, § 802(3), Dec. 16, 2016, 130 Stat. 1570, 1591; Pub. L. 115–62, title I, § 101, Sept. 29, 2017, 131 Stat. 1160; Pub. L. 115–232, div. A, title VIII, § 809(n)(1)(B), Aug. 13, 2018, 132 Stat. 1843; Pub. L. 115–251, title I, § 101, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–23, § 2(f), June 25, 2019, 133 Stat. 969; Pub. L. 116–159, div. E, title I, § 5101, Oct. 1, 2020, 134 Stat. 748; Pub. L. 116–283, div. A, title IX, § 926(a)(21), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 117–168, title I, §§ 102(a), (c), 103(a), 111(a), (b), title IV, § 403(c), Aug. 10, 2022, 136 Stat. 1761, 1762, 1765, 1766, 1781; Pub. L. 117–180, div. E, title I, § 101, Sept. 30, 2022, 136 Stat. 2136; Pub. L. 117–328, div. U, title I, § 101(a), Dec. 29, 2022, 136 Stat. 5407; Pub. L. 118–83, div. B, title III, § 301, Sept. 26, 2024, 138 Stat. 1539; Pub. L. 119–37, div. G, title I, § 7101, Nov. 12, 2025, 139 Stat. 649.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1141, § 610; Pub. L. 87–583, § 1, Aug. 14, 1962, 76 Stat. 381; Pub. L. 89–358, § 8, Mar. 3, 1966, 80 Stat. 27; Pub. L. 89–785, title III, § 304, Nov. 7, 1966, 80 Stat. 1377; Pub. L. 91–500, § 4, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 93–82, title I, § 102, Aug. 2, 1973, 87 Stat. 180; Pub. L. 94–581, title II, §§ 202(d), 210(a)(1), Oct. 21, 1976, 90 Stat. 2855, 2862; Pub. L. 96–22, title I, § 102(a), June 13, 1979, 93 Stat. 47; Pub. L. 97–37, § 5(a), Aug. 14, 1981, 95 Stat. 936; Pub. L. 97–72, title I, § 102(a), Nov. 3, 1981, 95 Stat. 1047; Pub. L. 98–160, title VII, § 701, Nov. 21, 1983, 97 Stat. 1008; Pub. L. 99–166, title I, § 103, Dec. 3, 1985, 99 Stat. 944; Pub. L. 99–272, title XIX, § 19011(a), (d)(3), Apr. 7, 1986, 100 Stat. 372, 379; Pub. L. 99–576, title II, § 237(a), (b)(1), Oct. 28, 1986, 100 Stat. 3267; Pub. L. 100–322, title I, § 102(a), May 20, 1988, 102 Stat. 492; Pub. L. 100–687, div. B, title XII, § 1202, Nov. 18, 1988, 102 Stat. 4125; Pub. L. 101–508, title VIII, § 8013(a), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–4, § 5, Feb. 6, 1991, 105 Stat. 15; Pub. L. 102–54, § 14(b)(10), June 13, 1991, 105 Stat. 283; renumbered § 1710 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–210, §§ 1(a), 2(a), Dec. 20, 1993, 107 Stat. 2496, 2497; Pub. L. 103–446, title XII, § 1201(d)(2), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 103–452, title I, § 103(a)(1), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, § 101(a)(1), Feb. 13, 1996, 110 Stat. 768; Pub. L. 104–262, title I, §§ 101(a), (b), (d)(2)–(4), 102(a), Oct. 9, 1996, 110 Stat. 3178, 3179, 3181; Pub. L. 104–275, title V, § 505(c), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 105–33, title VIII, §§ 8021(a)(1), 8023(b)(1), (2), Aug. 5, 1997, 111 Stat. 664, 667; Pub. L. 105–114, title II, § 209(a), title IV, § 402(a), Nov. 21, 1997, 111 Stat. 2290, 2294; Pub. L. 105–368, title I, § 102(a), title X, § 1005(b)(3), Nov. 11, 1998, 112 Stat. 3321, 3365; Pub. L. 106–117, title I, §§ 101(f), 112(1), title II, § 201(b), Nov. 30, 1999, 113 Stat. 1550, 1556, 1561; Pub. L. 106–419, title II, § 224(b), Nov. 1, 2000, 114 Stat. 1846; Pub. L. 107–135, title II, §§ 202(b), 209(a), 211, Jan. 23, 2002, 115 Stat. 2457, 2464, 2465; Pub. L. 107–330, title III, § 308(g)(6), Dec. 6, 2002, 116 Stat. 2829; Pub. L. 108–170, title I, § 102, Dec. 6, 2003, 117 Stat. 2044; Pub. L. 109–444, § 2(a), Dec. 21, 2006, 120 Stat. 3304; Pub. L. 109–461, title II, § 211(a)(3)(B), title X, §§ 1003, 1006(b), Dec. 22, 2006, 120 Stat. 3419, 3465, 3468; Pub. L. 110–161, div. I, title II, § 231, Dec. 26, 2007, 121 Stat. 2273; Pub. L. 110–181, div. A, title XVII, § 1707, Jan. 28, 2008, 122 Stat. 493; Pub. L. 110–329, div. E, title II, § 224, Sept. 30, 2008, 122 Stat. 3713; Pub. L. 110–387, title IV, § 409, title VIII, §§ 803, 804(a), Oct. 10, 2008, 122 Stat. 4130, 4141; Pub. L. 111–163, title V, §§ 513, 517, May 5, 2010, 124 Stat. 1164, 1167; Pub. L. 112–154, title I, §§ 102(a), 112, Aug. 6, 2012, 126 Stat. 1167, 1176; Pub. L. 113–37, § 2(c), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title I, § 107, Sept. 26, 2014, 128 Stat. 1903; Pub. L. 113–235, div. I, title II, § 243, Dec. 16, 2014, 128 Stat. 2568; Pub. L. 114–2, § 7, Feb. 12, 2015, 129 Stat. 36; Pub. L. 114–58, title I, § 101, title VI, § 601(4), Sept. 30, 2015, 129 Stat. 532, 538; Pub. L. 114–198, title IX, § 915(b), July 22, 2016, 130 Stat. 765; Pub. L. 114–223, div. A, title II, § 243(b), Sept. 29, 2016, 130 Stat. 884; Pub. L. 114–228, title I, § 101, Sept. 29, 2016, 130 Stat. 936; Pub. L. 114–315, title VI, § 603(b), title VIII, § 802(3), Dec. 16, 2016, 130 Stat. 1570, 1591; Pub. L. 115–62, title I, § 101, Sept. 29, 2017, 131 Stat. 1160; Pub. L. 115–232, div. A, title VIII, § 809(n)(1)(B), Aug. 13, 2018, 132 Stat. 1843; Pub. L. 115–251, title I, § 101, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–23, § 2(f), June 25, 2019, 133 Stat. 969; Pub. L. 116–159, div. E, title I, § 5101, Oct. 1, 2020, 134 Stat. 748; Pub. L. 116–283, div. A, title IX, § 926(a)(21), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 117–168, title I, §§ 102(a), (c), 103(a), 111(a), (b), title IV, § 403(c), Aug. 10, 2022, 136 Stat. 1761, 1762, 1765, 1766, 1781; Pub. L. 117–180, div. E, title I, § 101, Sept. 30, 2022, 136 Stat. 2136; Pub. L. 117–328, div. U, title I, § 101(a), Dec. 29, 2022, 136 Stat. 5407; Pub. L. 118–83, div. B, title III, § 301, Sept. 26, 2024, 138 Stat. 1539; Pub. L. 119–37, div. G, title I, § 7101, Nov. 12, 2025, 139 Stat. 649.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 491 of title 14, referred to in subsec. (a)(2)(D), was redesignated section 2732 of title 14 by Pub. L. 115–282, title I, § 116(b), Dec. 4, 2018, 132 Stat. 4226, and references to section 491 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding section 101 of Title 14, Coast Guard.
+Section 491 of title 14, referred to in subsec. (a)(2)(D), was redesignated section 2732 of title 14 by Pub. L. 115–282, title I, § 116(b), Dec. 4, 2018, 132 Stat. 4226, and references to section 491 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding section 101 of Title 14, Coast Guard.
 
 Section 3 of the Agent Orange Act of 1991, referred to in subsec. (e)(2)(A)(ii), is section 3 of Pub. L. 102–4, which is set out as a note under section 1116 of this title.
 
 **Codification**
 
-The text of subsec. (f) of section 1712 of this title, which was transferred to this section, redesignated subsec. (g), and amended by Pub. L. 104–262, § 101(b)(2), was based on Pub. L. 86–639, § 1, July 12, 1960, 74 Stat. 472; Pub. L. 91–102, Oct. 30, 1969, 83 Stat. 168; Pub. L. 93–82, title I, § 103(a), Aug. 2, 1973, 87 Stat. 180; Pub. L. 94–581, title I, § 103(a)(3)–(7), title II, § 202(f)(2), Oct. 21, 1976, 90 Stat. 2844, 2856; Pub. L. 96–22, title I, § 102(b), June 13, 1979, 93 Stat. 47; Pub. L. 97–37, § 5(b), Aug. 14, 1981, 95 Stat. 937; Pub. L. 97–72, title I, § 103(b)(2), Nov. 3, 1981, 95 Stat. 1049; Pub. L. 97–295, § 4(17)(C), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 99–166, title I, § 104, Dec. 3, 1985, 99 Stat. 944; Pub. L. 99–272, title XIX, § 19011(b)(2), Apr. 7, 1986, 100 Stat. 375; Pub. L. 99–576, title II, §§ 202(1), 237(b)(2), Oct. 28, 1986, 100 Stat. 3254, 3267; Pub. L. 100–322, title I, § 101(e)(1), May 20, 1988, 102 Stat. 491; Pub. L. 101–508, title VIII, § 8013(b), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406.
+The text of subsec. (f) of section 1712 of this title, which was transferred to this section, redesignated subsec. (g), and amended by Pub. L. 104–262, § 101(b)(2), was based on Pub. L. 86–639, § 1, July 12, 1960, 74 Stat. 472; Pub. L. 91–102, Oct. 30, 1969, 83 Stat. 168; Pub. L. 93–82, title I, § 103(a), Aug. 2, 1973, 87 Stat. 180; Pub. L. 94–581, title I, § 103(a)(3)–(7), title II, § 202(f)(2), Oct. 21, 1976, 90 Stat. 2844, 2856; Pub. L. 96–22, title I, § 102(b), June 13, 1979, 93 Stat. 47; Pub. L. 97–37, § 5(b), Aug. 14, 1981, 95 Stat. 937; Pub. L. 97–72, title I, § 103(b)(2), Nov. 3, 1981, 95 Stat. 1049; Pub. L. 97–295, § 4(17)(C), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 99–166, title I, § 104, Dec. 3, 1985, 99 Stat. 944; Pub. L. 99–272, title XIX, § 19011(b)(2), Apr. 7, 1986, 100 Stat. 375; Pub. L. 99–576, title II, §§ 202(1), 237(b)(2), Oct. 28, 1986, 100 Stat. 3254, 3267; Pub. L. 100–322, title I, § 101(e)(1), May 20, 1988, 102 Stat. 491; Pub. L. 101–508, title VIII, § 8013(b), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406.
 
 **Prior Provisions**
 
@@ -6585,25 +6585,25 @@ A prior section 1710 was renumbered section 3510 of this title.
 
 2022—Subsec. (a)(2)(E). Pub. L. 117–328 designated existing provisions as introductory provisions, substituted “of—” for “of the Mexican border period or of World War I;”, and added cls. (i) to (iii).
 
-Subsec. (a)(2)(F). Pub. L. 117–168, § 102(a), substituted “who is a toxic-exposed veteran, in accordance with subsection (e)” for “who was exposed to a toxic substance, radiation, or other conditions, as provided in subsection (e)”.
+Subsec. (a)(2)(F). Pub. L. 117–168, § 102(a), substituted “who is a toxic-exposed veteran, in accordance with subsection (e)” for “who was exposed to a toxic substance, radiation, or other conditions, as provided in subsection (e)”.
 
-Subsec. (e)(1)(D). Pub. L. 117–168, § 111(b), inserted “(including any veteran who, in connection with service during such period, received the Armed Forces Expeditionary Medal, Service Specific Expeditionary Medal, Combat Era Specific Expeditionary Medal, Campaign Specific Medal, or any other combat theater award established by a Federal statute or an Executive order)” after “Persian Gulf War”.
+Subsec. (e)(1)(D). Pub. L. 117–168, § 111(b), inserted “(including any veteran who, in connection with service during such period, received the Armed Forces Expeditionary Medal, Service Specific Expeditionary Medal, Combat Era Specific Expeditionary Medal, Campaign Specific Medal, or any other combat theater award established by a Federal statute or an Executive order)” after “Persian Gulf War”.
 
-Subsec. (e)(1)(G) to (I). Pub. L. 117–168, § 103(a)(1)(A), added subpars. (G) to (I).
+Subsec. (e)(1)(G) to (I). Pub. L. 117–168, § 103(a)(1)(A), added subpars. (G) to (I).
 
-Subsec. (e)(2)(B). Pub. L. 117–168, § 103(a)(1)(B), substituted “(F), (G), (H), or (I)” for “or (F)” and “service, testing, or activity” for “service or testing”.
+Subsec. (e)(2)(B). Pub. L. 117–168, § 103(a)(1)(B), substituted “(F), (G), (H), or (I)” for “or (F)” and “service, testing, or activity” for “service or testing”.
 
-Subsec. (e)(3)(A). Pub. L. 117–168, § 111(a)(1), substituted “September 11, 2001” for “January 27, 2003” and “10-year period” for “five-year period”.
+Subsec. (e)(3)(A). Pub. L. 117–168, § 111(a)(1), substituted “September 11, 2001” for “January 27, 2003” and “10-year period” for “five-year period”.
 
-Subsec. (e)(3)(B). Pub. L. 117–168, § 111(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “With respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, air, or space service after January 1, 2009, and before January 1, 2011, but did not enroll to receive such hospital care, medical services, or nursing home care pursuant to such paragraph during the five-year period described in subparagraph (A), the one-year period beginning on the date of the enactment of the Clay Hunt Suicide Prevention for American Veterans Act.”
+Subsec. (e)(3)(B). Pub. L. 117–168, § 111(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “With respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, air, or space service after January 1, 2009, and before January 1, 2011, but did not enroll to receive such hospital care, medical services, or nursing home care pursuant to such paragraph during the five-year period described in subparagraph (A), the one-year period beginning on the date of the enactment of the Clay Hunt Suicide Prevention for American Veterans Act.”
 
-Subsec. (e)(3)(C). Pub. L. 117–168, § 111(a)(3), struck out subpar. (C) which read as follows: “With respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, air, or space service on or before January 27, 2003, and did not enroll in the patient enrollment system under section 1705 of this title on or before such date, the three-year period beginning on January 27, 2008.”
+Subsec. (e)(3)(C). Pub. L. 117–168, § 111(a)(3), struck out subpar. (C) which read as follows: “With respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, air, or space service on or before January 27, 2003, and did not enroll in the patient enrollment system under section 1705 of this title on or before such date, the three-year period beginning on January 27, 2008.”
 
-Subsec. (e)(4)(A). Pub. L. 117–168, § 403(c), added subpar. (A) and struck out former subpar. (A) which read as follows: “The term ‘Vietnam-era herbicide-exposed veteran’ means a veteran (i) who served on active duty in the Republic of Vietnam (including offshore of such Republic as described in section 1116A(d) of this title) during the period beginning on January 9, 1962, and ending on May 7, 1975, and (ii) who the Secretary finds may have been exposed during such service to dioxin or was exposed during such service to a toxic substance found in a herbicide or defoliant used for military purposes during such period.”
+Subsec. (e)(4)(A). Pub. L. 117–168, § 403(c), added subpar. (A) and struck out former subpar. (A) which read as follows: “The term ‘Vietnam-era herbicide-exposed veteran’ means a veteran (i) who served on active duty in the Republic of Vietnam (including offshore of such Republic as described in section 1116A(d) of this title) during the period beginning on January 9, 1962, and ending on May 7, 1975, and (ii) who the Secretary finds may have been exposed during such service to dioxin or was exposed during such service to a toxic substance found in a herbicide or defoliant used for military purposes during such period.”
 
-Subsec. (e)(4)(C). Pub. L. 117–168, § 102(c), added subpar. (C).
+Subsec. (e)(4)(C). Pub. L. 117–168, § 102(c), added subpar. (C).
 
-Subsec. (e)(6). Pub. L. 117–168, § 103(a)(2), added par. (6).
+Subsec. (e)(6). Pub. L. 117–168, § 103(a)(2), added par. (6).
 
 Subsec. (f)(2)(B). Pub. L. 117–180 substituted “September 30, 2024” for “September 30, 2022”.
 
@@ -6621,17 +6621,17 @@ Subsec. (f)(2)(B). Pub. L. 115–251 substituted “September 30, 2020” for �
 
 2017—Subsec. (f)(2)(B). Pub. L. 115–62 substituted “September 30, 2019” for “September 30, 2017”.
 
-2016—Subsec. (a)(2)(D). Pub. L. 114–315, § 603(b), inserted “, who was awarded the medal of honor under section 3741, 6241, or 8741 of title 10 or section 491 of title 14,” after “war”.
+2016—Subsec. (a)(2)(D). Pub. L. 114–315, § 603(b), inserted “, who was awarded the medal of honor under section 3741, 6241, or 8741 of title 10 or section 491 of title 14,” after “war”.
 
-Subsec. (e)(1)(F). Pub. L. 114–315, § 802(3), inserted comma after “1953” in introductory provisions.
+Subsec. (e)(1)(F). Pub. L. 114–315, § 802(3), inserted comma after “1953” in introductory provisions.
 
 Subsec. (f)(2)(B). Pub. L. 114–228 substituted “September 30, 2017” for “September 30, 2016”.
 
 Subsec. (g)(3). Pub. L. 114–198 and Pub. L. 114–223 amended par. (3) identically, substituting “with respect to the following:” for “with respect to home health services”, inserting subpar. (A) designation and “Home health services” before “under section 1717 of this title”, and adding subpar. (B).
 
-2015—Subsec. (e)(1)(D). Pub. L. 114–58, § 601(4)(A), struck out “(as defined in section 1712A(a)(2)(B) of this title)” after “hostilities”.
+2015—Subsec. (e)(1)(D). Pub. L. 114–58, § 601(4)(A), struck out “(as defined in section 1712A(a)(2)(B) of this title)” after “hostilities”.
 
-Subsec. (e)(1)(F)(viii). Pub. L. 114–58, § 601(4)(B), substituted “Myelodysplastic” for “Myleodysplasic”.
+Subsec. (e)(1)(F)(viii). Pub. L. 114–58, § 601(4)(B), substituted “Myelodysplastic” for “Myleodysplasic”.
 
 Subsec. (e)(3). Pub. L. 114–2 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Hospital care, medical services, and nursing home care may not be provided under or by virtue of subsection (a)(2)(F) in the case of care for a veteran described in paragraph (1)(D) who—
 
@@ -6639,123 +6639,123 @@ Subsec. (e)(3). Pub. L. 114–2 amended par. (3) generally. Prior to amendment, 
 
 “(B) is so discharged or released more than five years before the date of the enactment of that Act and who did not enroll in the patient enrollment system under section 1705 of this title before such date, after a period of three years beginning on the date of the enactment of that Act.”
 
-Subsec. (f)(2)(B). Pub. L. 114–58, § 101, substituted “September 30, 2016” for “September 30, 2015”.
+Subsec. (f)(2)(B). Pub. L. 114–58, § 101, substituted “September 30, 2016” for “September 30, 2015”.
 
-2014—Subsec. (e)(1)(F). Pub. L. 113–235, § 243, substituted “August 1, 1953” for “January 1, 1957,” in introductory provisions.
+2014—Subsec. (e)(1)(F). Pub. L. 113–235, § 243, substituted “August 1, 1953” for “January 1, 1957,” in introductory provisions.
 
 Subsec. (f)(2)(B). Pub. L. 113–175 substituted “September 30, 2015” for “September 30, 2014”.
 
 2013—Subsec. (f)(2)(B). Pub. L. 113–37 substituted “September 30, 2014” for “September 30, 2013”.
 
-2012—Subsec. (e)(1)(F). Pub. L. 112–154, § 102(a)(1), added subpar. (F).
+2012—Subsec. (e)(1)(F). Pub. L. 112–154, § 102(a)(1), added subpar. (F).
 
-Subsec. (e)(2)(B). Pub. L. 112–154, § 102(a)(2), substituted “(E), or (F)” for “or (E)”.
+Subsec. (e)(2)(B). Pub. L. 112–154, § 102(a)(2), substituted “(E), or (F)” for “or (E)”.
 
-Subsec. (f)(2)(B). Pub. L. 112–154, § 112, substituted “September 30, 2013” for “September 30, 2012”.
+Subsec. (f)(2)(B). Pub. L. 112–154, § 112, substituted “September 30, 2013” for “September 30, 2012”.
 
-2010—Subsec. (e)(1)(C). Pub. L. 111–163, § 513(2), substituted “paragraph (2)” for “paragraphs (2) and (3)” and inserted “between August 2, 1990, and November 11, 1998,” after “on active duty”.
+2010—Subsec. (e)(1)(C). Pub. L. 111–163, § 513(2), substituted “paragraph (2)” for “paragraphs (2) and (3)” and inserted “between August 2, 1990, and November 11, 1998,” after “on active duty”.
 
-Subsec. (e)(3). Pub. L. 111–163, § 513(1), substituted “subsection (a)(2)(F)” for “subsection (a)(2)(F)—” in introductory provisions, struck out subpar. (C) designation before “in the case”, redesignated cls. (i) and (ii) of former subpar. (C) as subpars. (A) and (B), respectively, realigned margins, and struck out former subpars. (A) and (B), which read as follows:
+Subsec. (e)(3). Pub. L. 111–163, § 513(1), substituted “subsection (a)(2)(F)” for “subsection (a)(2)(F)—” in introductory provisions, struck out subpar. (C) designation before “in the case”, redesignated cls. (i) and (ii) of former subpar. (C) as subpars. (A) and (B), respectively, realigned margins, and struck out former subpars. (A) and (B), which read as follows:
 
 “(A) in the case of care for a veteran described in paragraph (1)(A), after December 31, 2002;
 
 “(B) in the case of care for a veteran described in paragraph (1)(C), after December 31, 2002; and”.
 
-Subsec. (f)(2)(B). Pub. L. 111–163, § 517, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “before September 30, 2010, an amount equal to $10 for every day the veteran receives hospital care and $5 for every day the veteran receives nursing home care.”
+Subsec. (f)(2)(B). Pub. L. 111–163, § 517, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “before September 30, 2010, an amount equal to $10 for every day the veteran receives hospital care and $5 for every day the veteran receives nursing home care.”
 
-2008—Subsec. (e)(1)(E). Pub. L. 110–387, § 803(b), substituted “paragraph (2)” for “paragraphs (2) and (3)”.
+2008—Subsec. (e)(1)(E). Pub. L. 110–387, § 803(b), substituted “paragraph (2)” for “paragraphs (2) and (3)”.
 
-Subsec. (e)(3)(B). Pub. L. 110–387, § 803(a)(1), inserted “and” after the semicolon at end.
+Subsec. (e)(3)(B). Pub. L. 110–387, § 803(a)(1), inserted “and” after the semicolon at end.
 
-Subsec. (e)(3)(C). Pub. L. 110–387, § 803(a)(2), substituted a period at end for “; and”.
+Subsec. (e)(3)(C). Pub. L. 110–387, § 803(a)(2), substituted a period at end for “; and”.
 
 Pub. L. 110–181 amended subpar. (C) generally. Prior to amendment subpar. (C) read as follows: “in the case of care for a veteran described in paragraph (1)(D), after a period of 2 years beginning on the date of the veteran’s discharge or release from active military, naval, or air service; and”.
 
-Subsec. (e)(3)(D). Pub. L. 110–387, § 803(a)(3), struck out subpar. (D) which read as follows: “in the case of care for a veteran described in paragraph (1)(E), after December 31, 2007”.
+Subsec. (e)(3)(D). Pub. L. 110–387, § 803(a)(3), struck out subpar. (D) which read as follows: “in the case of care for a veteran described in paragraph (1)(E), after December 31, 2007”.
 
-Subsec. (f)(1). Pub. L. 110–387, § 409(1), inserted “(except if such care constitutes hospice care)” after “nursing home care”.
+Subsec. (f)(1). Pub. L. 110–387, § 409(1), inserted “(except if such care constitutes hospice care)” after “nursing home care”.
 
-Subsec. (f)(2)(B). Pub. L. 110–387, § 804(a), which directed substitution of “September 30, 2010” for “September 30, 2008”, was executed by making the substitution for “September 30, 2009” to reflect the probable intent of Congress and the amendment by Pub. L. 110–329. See below.
+Subsec. (f)(2)(B). Pub. L. 110–387, § 804(a), which directed substitution of “September 30, 2010” for “September 30, 2008”, was executed by making the substitution for “September 30, 2009” to reflect the probable intent of Congress and the amendment by Pub. L. 110–329. See below.
 
 Pub. L. 110–329 substituted “September 30, 2009,” for “September 30, 2008,”.
 
-Subsec. (g)(1). Pub. L. 110–387, § 409(2), inserted “(except if such care constitutes hospice care)” after “medical services”.
+Subsec. (g)(1). Pub. L. 110–387, § 409(2), inserted “(except if such care constitutes hospice care)” after “medical services”.
 
 2007—Subsec. (f)(2)(B). Pub. L. 110–161 substituted “September 30, 2008,” for “September 30, 2007,”.
 
-2006—Subsec. (a)(4). Pub. L. 109–461, § 211(a)(3)(B), struck out “and” before “the requirement in section 1710B of this title” and inserted “, and the requirement in section 1745 of this title to provide nursing home care and prescription medicines to veterans with service-connected disabilities in State homes” after “a program of extended care services”.
+2006—Subsec. (a)(4). Pub. L. 109–461, § 211(a)(3)(B), struck out “and” before “the requirement in section 1710B of this title” and inserted “, and the requirement in section 1745 of this title to provide nursing home care and prescription medicines to veterans with service-connected disabilities in State homes” after “a program of extended care services”.
 
-Subsec. (e)(3)(D). Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+Subsec. (e)(3)(D). Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
-Pub. L. 109–461, § 1003, substituted “December 31, 2007” for “December 31, 2005”.
+Pub. L. 109–461, § 1003, substituted “December 31, 2007” for “December 31, 2005”.
 
-Pub. L. 109–444, which substituted “December 31, 2007” for “December 31, 2005”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, which substituted “December 31, 2007” for “December 31, 2005”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-2003—Subsec. (e)(1)(E). Pub. L. 108–170, § 102(1), added subpar. (E).
+2003—Subsec. (e)(1)(E). Pub. L. 108–170, § 102(1), added subpar. (E).
 
-Subsec. (e)(2)(B). Pub. L. 108–170, § 102(2), substituted “subparagraph (C), (D), or (E) of paragraph (1)” for “paragraph (1)(C) or (1)(D)” and “service or testing described in such subparagraph” for “service described in that paragraph”.
+Subsec. (e)(2)(B). Pub. L. 108–170, § 102(2), substituted “subparagraph (C), (D), or (E) of paragraph (1)” for “paragraph (1)(C) or (1)(D)” and “service or testing described in such subparagraph” for “service described in that paragraph”.
 
-Subsec. (e)(3)(D). Pub. L. 108–170, § 102(3), added subpar. (D).
+Subsec. (e)(3)(D). Pub. L. 108–170, § 102(3), added subpar. (D).
 
 2002—Subsec. (e)(1)(D). Pub. L. 107–330 substituted “November 11, 1998” for “the date of the enactment of this subparagraph”.
 
-Subsec. (e)(3)(B). Pub. L. 107–135, § 211, substituted “December 31, 2002” for “December 31, 2001”.
+Subsec. (e)(3)(B). Pub. L. 107–135, § 211, substituted “December 31, 2002” for “December 31, 2001”.
 
-Subsec. (f)(1). Pub. L. 107–135, § 202(b)(1), inserted “or (4)” after “paragraph (2)”.
+Subsec. (f)(1). Pub. L. 107–135, § 202(b)(1), inserted “or (4)” after “paragraph (2)”.
 
-Subsec. (f)(2)(B). Pub. L. 107–135, § 209(a), substituted “September 30, 2007” for “September 30, 2002”.
+Subsec. (f)(2)(B). Pub. L. 107–135, § 209(a), substituted “September 30, 2007” for “September 30, 2002”.
 
-Subsec. (f)(4), (5). Pub. L. 107–135, § 202(b)(2), (3), added par. (4) and redesignated former par. (4) as (5).
+Subsec. (f)(4), (5). Pub. L. 107–135, § 202(b)(2), (3), added par. (4) and redesignated former par. (4) as (5).
 
 2000—Subsec. (a)(4). Pub. L. 106–419 inserted “the requirement in section 1710A(a) of this title that the Secretary provide nursing home care,” after “medical services,” and struck out comma after “extended care services”.
 
-1999—Subsec. (a)(1). Pub. L. 106–117, § 101(f)(1), struck out “, and may furnish nursing home care,” after “medical services” in introductory provisions.
+1999—Subsec. (a)(1). Pub. L. 106–117, § 101(f)(1), struck out “, and may furnish nursing home care,” after “medical services” in introductory provisions.
 
-Subsec. (a)(2)(A). Pub. L. 106–117, § 101(f)(2), inserted “or, with respect to nursing home care during any period during which the provisions of section 1710A(a) of this title are in effect, a compensable service-connected disability rated less than 70 percent” after “50 percent”.
+Subsec. (a)(2)(A). Pub. L. 106–117, § 101(f)(2), inserted “or, with respect to nursing home care during any period during which the provisions of section 1710A(a) of this title are in effect, a compensable service-connected disability rated less than 70 percent” after “50 percent”.
 
-Subsec. (a)(2)(D). Pub. L. 106–117, § 112(1), inserted “or who was awarded the Purple Heart” after “former prisoner of war”.
+Subsec. (a)(2)(D). Pub. L. 106–117, § 112(1), inserted “or who was awarded the Purple Heart” after “former prisoner of war”.
 
-Subsec. (a)(4). Pub. L. 106–117, § 101(f)(3), inserted “, and the requirement in section 1710B of this title that the Secretary provide a program of extended care services,” after “medical services”.
+Subsec. (a)(4). Pub. L. 106–117, § 101(f)(3), inserted “, and the requirement in section 1710B of this title that the Secretary provide a program of extended care services,” after “medical services”.
 
-Subsec. (a)(5). Pub. L. 106–117, § 101(f)(4), added par. (5).
+Subsec. (a)(5). Pub. L. 106–117, § 101(f)(4), added par. (5).
 
-Subsec. (g)(1). Pub. L. 106–117, § 201(b)(1), substituted “in the case of each outpatient visit the applicable amount or amounts established by the Secretary by regulation” for “the amount determined under paragraph (2) of this subsection”.
+Subsec. (g)(1). Pub. L. 106–117, § 201(b)(1), substituted “in the case of each outpatient visit the applicable amount or amounts established by the Secretary by regulation” for “the amount determined under paragraph (2) of this subsection”.
 
-Subsec. (g)(2). Pub. L. 106–117, § 201(b)(2), substituted “which the Secretary shall establish by regulation.” for “equal to 20 percent of the estimated average cost (during the calendar year in which the services are furnished) of an outpatient visit in a Department facility. Such estimated average cost shall be determined by the Secretary.”
+Subsec. (g)(2). Pub. L. 106–117, § 201(b)(2), substituted “which the Secretary shall establish by regulation.” for “equal to 20 percent of the estimated average cost (during the calendar year in which the services are furnished) of an outpatient visit in a Department facility. Such estimated average cost shall be determined by the Secretary.”
 
-1998—Subsec. (e)(1)(D). Pub. L. 105–368, § 102(a)(1), added subpar. (D).
+1998—Subsec. (e)(1)(D). Pub. L. 105–368, § 102(a)(1), added subpar. (D).
 
-Subsec. (e)(2)(A)(ii). Pub. L. 105–368, § 1005(b)(3), substituted “section 3” for “section 2”.
+Subsec. (e)(2)(A)(ii). Pub. L. 105–368, § 1005(b)(3), substituted “section 3” for “section 2”.
 
-Subsec. (e)(2)(B). Pub. L. 105–368, § 102(a)(2), inserted “or (1)(D)” after “paragraph (1)(C)”.
+Subsec. (e)(2)(B). Pub. L. 105–368, § 102(a)(2), inserted “or (1)(D)” after “paragraph (1)(C)”.
 
-Subsec. (e)(3)(A). Pub. L. 105–368, § 102(a)(3)(A), struck out “and” at end.
+Subsec. (e)(3)(A). Pub. L. 105–368, § 102(a)(3)(A), struck out “and” at end.
 
-Subsec. (e)(3)(B). Pub. L. 105–368, § 102(a)(3)(B), substituted “December 31, 2001; and” for “December 31, 1998.”
+Subsec. (e)(3)(B). Pub. L. 105–368, § 102(a)(3)(B), substituted “December 31, 2001; and” for “December 31, 1998.”
 
-Subsec. (e)(3)(C). Pub. L. 105–368, § 102(a)(3)(C), added subpar. (C).
+Subsec. (e)(3)(C). Pub. L. 105–368, § 102(a)(3)(C), added subpar. (C).
 
-Subsec. (e)(5). Pub. L. 105–368, § 102(a)(4), added par. (5).
+Subsec. (e)(5). Pub. L. 105–368, § 102(a)(4), added par. (5).
 
-1997—Subsec. (a)(2)(B). Pub. L. 105–114, § 402(a), struck out “compensable” before “disability”.
+1997—Subsec. (a)(2)(B). Pub. L. 105–114, § 402(a), struck out “compensable” before “disability”.
 
-Subsec. (a)(2)(F). Pub. L. 105–114, § 209(a)(1), substituted “other conditions” for “environmental hazard”.
+Subsec. (a)(2)(F). Pub. L. 105–114, § 209(a)(1), substituted “other conditions” for “environmental hazard”.
 
-Subsec. (e)(1)(C). Pub. L. 105–114, § 209(a)(2), substituted “served” for “the Secretary finds may have been exposed while serving” and “associated with such service” for “associated with such exposure” and struck out “to a toxic substance or environmental hazard” after “Persian Gulf War”.
+Subsec. (e)(1)(C). Pub. L. 105–114, § 209(a)(2), substituted “served” for “the Secretary finds may have been exposed while serving” and “associated with such service” for “associated with such exposure” and struck out “to a toxic substance or environmental hazard” after “Persian Gulf War”.
 
-Subsec. (e)(2)(B). Pub. L. 105–114, § 209(a)(3), substituted “the service” for “an exposure”.
+Subsec. (e)(2)(B). Pub. L. 105–114, § 209(a)(3), substituted “the service” for “an exposure”.
 
-Subsec. (f)(2)(B). Pub. L. 105–33, § 8021(a)(1), inserted “before September 30, 2002,” after “(B)”.
+Subsec. (f)(2)(B). Pub. L. 105–33, § 8021(a)(1), inserted “before September 30, 2002,” after “(B)”.
 
-Subsec. (f)(4), (5). Pub. L. 105–33, § 8023(b)(1), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “Amounts collected or received on behalf of the United States under this subsection shall be deposited in the Treasury as miscellaneous receipts.”
+Subsec. (f)(4), (5). Pub. L. 105–33, § 8023(b)(1), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “Amounts collected or received on behalf of the United States under this subsection shall be deposited in the Treasury as miscellaneous receipts.”
 
-Subsec. (g)(4). Pub. L. 105–33, § 8023(b)(2), struck out par. (4) which read as follows: “Amounts collected or received by the Department under this subsection shall be deposited in the Treasury as miscellaneous receipts.”
+Subsec. (g)(4). Pub. L. 105–33, § 8023(b)(2), struck out par. (4) which read as follows: “Amounts collected or received by the Department under this subsection shall be deposited in the Treasury as miscellaneous receipts.”
 
-1996—Subsec. (a). Pub. L. 104–262, § 101(a), amended subsec. (a) generally, revising and restating provisions in former pars. (1) to (3) relating to eligibility for care as pars. (1) to (4).
+1996—Subsec. (a). Pub. L. 104–262, § 101(a), amended subsec. (a) generally, revising and restating provisions in former pars. (1) to (3) relating to eligibility for care as pars. (1) to (4).
 
-Subsec. (c)(1). Pub. L. 104–262, § 101(d)(2), substituted “section 1712(a)” for “section 1712(b)”.
+Subsec. (c)(1). Pub. L. 104–262, § 101(d)(2), substituted “section 1712(a)” for “section 1712(b)”.
 
-Subsec. (e)(1)(A), (B). Pub. L. 104–262, § 102(a)(1), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+Subsec. (e)(1)(A), (B). Pub. L. 104–262, § 102(a)(1), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
 “(A) Subject to paragraphs (2) and (3) of this subsection, a veteran—
 
@@ -6767,85 +6767,85 @@ is eligible for hospital care and nursing home care under subsection (a)(1)(G) o
 
 “(B) Subject to paragraphs (2) and (3) of this subsection, a veteran who the Secretary finds was exposed while serving on active duty to ionizing radiation from the detonation of a nuclear device in connection with such veteran’s participation in the test of such a device or with the American occupation of Hiroshima and Nagasaki, Japan, during the period beginning on September 11, 1945, and ending on July 1, 1946, is eligible for hospital care and nursing home care under subsection (a)(1)(G) of this section for any disability, notwithstanding that there is insufficient medical evidence to conclude that such disability may be associated with such exposure.”
 
-Subsec. (e)(1)(C). Pub. L. 104–262, § 101(d)(3), substituted “hospital care, medical services, and nursing home care under subsection (a)(2)(F)” for “hospital care and nursing home care under subsection (a)(1)(G) of this section”.
+Subsec. (e)(1)(C). Pub. L. 104–262, § 101(d)(3), substituted “hospital care, medical services, and nursing home care under subsection (a)(2)(F)” for “hospital care and nursing home care under subsection (a)(1)(G) of this section”.
 
-Subsec. (e)(2). Pub. L. 104–262, § 102(a)(2), added par. (2) and struck out former par. (2) which read as follows: “Hospital and nursing home care may not be provided under subsection (a)(1)(G) of this section with respect to a disability that is found, in accordance with guidelines issued by the Under Secretary for Health, to have resulted from a cause other than an exposure described in subparagraph (A), (B), or (C) of paragraph (1) of this subsection.”
+Subsec. (e)(2). Pub. L. 104–262, § 102(a)(2), added par. (2) and struck out former par. (2) which read as follows: “Hospital and nursing home care may not be provided under subsection (a)(1)(G) of this section with respect to a disability that is found, in accordance with guidelines issued by the Under Secretary for Health, to have resulted from a cause other than an exposure described in subparagraph (A), (B), or (C) of paragraph (1) of this subsection.”
 
-Subsec. (e)(3). Pub. L. 104–262, § 102(a)(2), added par. (3) and struck out former par. (3) which read as follows: “Hospital and nursing home care and medical services may not be provided under or by virtue of subsection (a)(1)(G) of this section after December 31, 1996.”
+Subsec. (e)(3). Pub. L. 104–262, § 102(a)(2), added par. (3) and struck out former par. (3) which read as follows: “Hospital and nursing home care and medical services may not be provided under or by virtue of subsection (a)(1)(G) of this section after December 31, 1996.”
 
 Pub. L. 104–110 substituted “after December 31, 1996” for “after June 30, 1995, or, in the case of care for a veteran described in paragraph (1)(C), after December 31, 1995”.
 
-Subsec. (e)(4). Pub. L. 104–262, § 102(a)(2), added par. (4).
+Subsec. (e)(4). Pub. L. 104–262, § 102(a)(2), added par. (4).
 
 Subsec. (e)(4)(A). Pub. L. 104–275 substituted “during the period beginning on January 9, 1962, and ending on May 7, 1975,” for “during the Vietnam era,” in cl. (i) and “such period” for “such era” in cl. (ii).
 
-Subsec. (f)(1). Pub. L. 104–262, § 101(d)(4)(A), substituted “subsection (a)(3)” for “subsection (a)(2)”.
+Subsec. (f)(1). Pub. L. 104–262, § 101(d)(4)(A), substituted “subsection (a)(3)” for “subsection (a)(2)”.
 
-Subsec. (f)(3)(E). Pub. L. 104–262, § 101(d)(4)(B), substituted “paragraph (3) of subsection (a)” for “section 1712(a) of this title” and “subsection (g)” for “section 1712(f) of this title”.
+Subsec. (f)(3)(E). Pub. L. 104–262, § 101(d)(4)(B), substituted “paragraph (3) of subsection (a)” for “section 1712(a) of this title” and “subsection (g)” for “section 1712(f) of this title”.
 
-Subsec. (f)(3)(F). Pub. L. 104–262, § 101(d)(4)(C), substituted “subsection (g)” for “section 1712(f) of this title”.
+Subsec. (f)(3)(F). Pub. L. 104–262, § 101(d)(4)(C), substituted “subsection (g)” for “section 1712(f) of this title”.
 
-Subsec. (g). Pub. L. 104–262, § 101(b)(2), redesignated subsec. (f) of section 1712 of this title as subsec. (g) of this section and substituted “subsection (a)(3) of this section” for “section 1710(a)(2) of this title” in par. (1). See Codification note above.
+Subsec. (g). Pub. L. 104–262, § 101(b)(2), redesignated subsec. (f) of section 1712 of this title as subsec. (g) of this section and substituted “subsection (a)(3) of this section” for “section 1710(a)(2) of this title” in par. (1). See Codification note above.
 
-Pub. L. 104–262, § 101(b)(1), redesignated subsec. (g) as (h).
+Pub. L. 104–262, § 101(b)(1), redesignated subsec. (g) as (h).
 
-Subsec. (h). Pub. L. 104–262, § 101(b)(1), redesignated subsec. (g) as (h).
+Subsec. (h). Pub. L. 104–262, § 101(b)(1), redesignated subsec. (g) as (h).
 
 1994—Subsec. (e)(3). Pub. L. 103–452 substituted “June 30, 1995” for “June 30, 1994” and “December 31, 1995” for “December 31, 1994”.
 
 Subsec. (f)(3)(E). Pub. L. 103–446 substituted “section 1712(a)” for “section 1712(f)” and “section 1712(f)” for “section 1712(f)(4)”.
 
-1993—Subsec. (a)(1)(G). Pub. L. 103–210, § 1(a)(1), substituted “substance, radiation, or environmental hazard” for “substance or radiation”.
+1993—Subsec. (a)(1)(G). Pub. L. 103–210, § 1(a)(1), substituted “substance, radiation, or environmental hazard” for “substance or radiation”.
 
-Subsec. (e)(1)(C). Pub. L. 103–210, § 1(a)(2)(A), added subpar. (C).
+Subsec. (e)(1)(C). Pub. L. 103–210, § 1(a)(2)(A), added subpar. (C).
 
-Subsec. (e)(2). Pub. L. 103–210, § 1(a)(2)(B), substituted “subparagraph (A), (B), or (C)” for “subparagraph (A) or (B)”.
+Subsec. (e)(2). Pub. L. 103–210, § 1(a)(2)(B), substituted “subparagraph (A), (B), or (C)” for “subparagraph (A) or (B)”.
 
-Subsec. (e)(3). Pub. L. 103–210, § 2(a), substituted “June 30, 1994” for “December 31, 1993”.
+Subsec. (e)(3). Pub. L. 103–210, § 2(a), substituted “June 30, 1994” for “December 31, 1993”.
 
-Pub. L. 103–210, § 1(a)(2)(C), inserted before period at end “, or, in the case of care for a veteran described in paragraph (1)(C), after December 31, 1994”.
+Pub. L. 103–210, § 1(a)(2)(C), inserted before period at end “, or, in the case of care for a veteran described in paragraph (1)(C), after December 31, 1994”.
 
 1992—Subsec. (e)(2). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 610 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 610 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 102–83, § 5(c)(1), substituted “1151” for “351” in subpar. (C) and “1722(a)” for “622(a)” in subpar. (I).
+Subsec. (a)(1). Pub. L. 102–83, § 5(c)(1), substituted “1151” for “351” in subpar. (C) and “1722(a)” for “622(a)” in subpar. (I).
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places in introductory provisions.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places in introductory provisions.
 
 Subsec. (a)(1)(H). Pub. L. 102–54 substituted “the Mexican border period” for “the Spanish-American War, the Mexican border period,”.
 
-Subsec. (a)(3). Pub. L. 102–83, § 5(c)(1), substituted “1703” for “603” and “1720” for “620”.
+Subsec. (a)(3). Pub. L. 102–83, § 5(c)(1), substituted “1703” for “603” and “1720” for “620”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (b)(2)(A). Pub. L. 102–83, § 5(c)(1), substituted “1503” for “503” and “1521(d)” for “521(d)”.
+Subsec. (b)(2)(A). Pub. L. 102–83, § 5(c)(1), substituted “1503” for “503” and “1521(d)” for “521(d)”.
 
-Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “1712(b)” for “612(b)”.
+Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “1712(b)” for “612(b)”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “1720” for “620”.
+Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “1720” for “620”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (e)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in subpars. (A)(ii) and (B).
+Subsec. (e)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in subpars. (A)(ii) and (B).
 
 Subsec. (e)(3). Pub. L. 102–4 substituted “1993” for “1990”.
 
-Subsec. (f)(3)(E), (F). Pub. L. 102–83, § 5(c)(1), substituted “1712(f)” for “612(f)” and “1712(f)(4)” for “612(f)(4)” in subpar. (E) and “1712(f)” for “612(f)” in subpar. (F).
+Subsec. (f)(3)(E), (F). Pub. L. 102–83, § 5(c)(1), substituted “1712(f)” for “612(f)” and “1712(f)(4)” for “612(f)(4)” in subpar. (E) and “1712(f)” for “612(f)” in subpar. (F).
 
-Subsec. (g). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (g). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1990—Subsec. (a)(1)(I). Pub. L. 101–508, § 8013(a)(1)(A), substituted “section 622(a)” for “section 622(a)(1)”.
+1990—Subsec. (a)(1)(I). Pub. L. 101–508, § 8013(a)(1)(A), substituted “section 622(a)” for “section 622(a)(1)”.
 
-Subsec. (a)(2). Pub. L. 101–508, § 8013(a)(1)(B), added par. (2) and struck out former par. (2) which read as follows:
+Subsec. (a)(2). Pub. L. 101–508, § 8013(a)(1)(B), added par. (2) and struck out former par. (2) which read as follows:
 
 “(A) To the extent that resources and facilities are available, the Administrator may furnish hospital care and nursing home care which the Administrator determines is needed to a veteran for a non-service-connected disability if the veteran has an income level described in section 622(a)(2) of this title.
 
@@ -6855,7 +6855,7 @@ Subsec. (a)(2). Pub. L. 101–508, § 8013(a)(1)(B), added par. (2) and struck
 
 “(ii) subject to the provisions of subsection (f) of this section.”
 
-Subsec. (f)(1), (2). Pub. L. 101–508, § 8013(a)(2)(A), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+Subsec. (f)(1), (2). Pub. L. 101–508, § 8013(a)(2)(A), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
 “(1) The Administrator may not furnish hospital care or nursing home care under this section to a veteran who is eligible for such care by reason of subsection (a)(2)(B) of this section unless the veteran agrees to pay to the United States the applicable amount determined under paragraph (2) of this subsection.
 
@@ -6865,7 +6865,7 @@ Subsec. (f)(1), (2). Pub. L. 101–508, § 8013(a)(2)(A), added pars. (1) and 
 
 “(B) the amount determined under paragraph (3) of this subsection.”
 
-Subsec. (f)(3)(A), (B). Pub. L. 101–508, § 8013(a)(2)(B), substituted “paragraph (2)(A)(ii)” for “paragraph (2)(B)”.
+Subsec. (f)(3)(A), (B). Pub. L. 101–508, § 8013(a)(2)(B), substituted “paragraph (2)(A)(ii)” for “paragraph (2)(B)”.
 
 1988—Subsec. (b). Pub. L. 100–233 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Administrator, within the limits of Veterans’ Administration facilities, may furnish domiciliary care to—
 
@@ -6875,9 +6875,9 @@ Subsec. (f)(3)(A), (B). Pub. L. 101–508, § 8013(a)(2)(B), substituted “pa
 
 Subsec. (e)(3). Pub. L. 100–687 substituted “December 31, 1990” for “September 30, 1989”.
 
-1986—Subsec. (a). Pub. L. 99–576, § 237(a), inserted “who is in receipt of, or” after “veteran” in par. (1)(C).
+1986—Subsec. (a). Pub. L. 99–576, § 237(a), inserted “who is in receipt of, or” after “veteran” in par. (1)(C).
 
-Pub. L. 99–272, § 19011(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Administrator, within the limits of Veterans’ Administration facilities, may furnish hospital care or nursing home care which the Administrator determines is needed to—
+Pub. L. 99–272, § 19011(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Administrator, within the limits of Veterans’ Administration facilities, may furnish hospital care or nursing home care which the Administrator determines is needed to—
 
 “(1)(A) any veteran for a service-connected disability; or
 
@@ -6893,45 +6893,45 @@ Pub. L. 99–272, § 19011(a)(1), amended subsec. (a) generally. Prior to amen
 
 “(6) any veteran for a non-service-connected disability if such veteran is sixty-five years of age or older.”
 
-Subsec. (e)(1)(A), (B). Pub. L. 99–272, § 19011(d)(3)(A), substituted “is eligible for hospital care and nursing home care under subsection (a)(1)(G)” for “may be furnished hospital care or nursing home care under subsection (a)(5)”.
+Subsec. (e)(1)(A), (B). Pub. L. 99–272, § 19011(d)(3)(A), substituted “is eligible for hospital care and nursing home care under subsection (a)(1)(G)” for “may be furnished hospital care or nursing home care under subsection (a)(5)”.
 
-Subsec. (e)(2), (3). Pub. L. 99–272, § 19011(d)(3)(B), substituted “subsection (a)(1)(G)” for “subsection (a)(5)”.
+Subsec. (e)(2), (3). Pub. L. 99–272, § 19011(d)(3)(B), substituted “subsection (a)(1)(G)” for “subsection (a)(5)”.
 
-Subsec. (f). Pub. L. 99–272, § 19011(a)(2), added subsec. (f).
+Subsec. (f). Pub. L. 99–272, § 19011(a)(2), added subsec. (f).
 
-Subsec. (f)(3)(F). Pub. L. 99–576, § 237(b)(1), added subpar. (F).
+Subsec. (f)(3)(F). Pub. L. 99–576, § 237(b)(1), added subpar. (F).
 
-Subsec. (g). Pub. L. 99–272, § 19011(a)(2), added subsec. (g).
+Subsec. (g). Pub. L. 99–272, § 19011(a)(2), added subsec. (g).
 
 1985—Subsec. (e)(3). Pub. L. 99–166 substituted “after September 30, 1989” for “after the end of the one-year period beginning on the date the Administrator submits to the appropriate committees of Congress the first report required by section 307(b)(2) of the Veterans Health Programs Extension and Improvement Act of 1979 (Public Law 96–151; 93 Stat. 1098)”.
 
 1983—Subsec. (a)(3). Pub. L. 98–160 inserted “(A)” after “a person” and, after “disability compensation”, inserted “or (B) who, but for a suspension pursuant to section 351 of this title (or both such a suspension and the receipt of retired pay), would be entitled to disability compensation, but only to the extent that such person’s continuing eligibility for such care is provided for in the judgment or settlement described in such section”.
 
-1981—Subsec. (a). Pub. L. 97–72, § 102(a)(1), added cl. (5) and redesignated former cl. (5) as (6).
+1981—Subsec. (a). Pub. L. 97–72, § 102(a)(1), added cl. (5) and redesignated former cl. (5) as (6).
 
 Pub. L. 97–37 added cl. (4) and redesignated former cl. (4) as (5).
 
-Subsec. (e). Pub. L. 97–72, § 102(a)(2), added subsec. (e).
+Subsec. (e). Pub. L. 97–72, § 102(a)(2), added subsec. (e).
 
 1979—Subsec. (c). Pub. L. 96–22 inserted provisions relating to the furnishing of dental services and treatment and related dental appliances for non-service-connected dental conditions or disabilities of veterans.
 
-1976—Pub. L. 94–581, § 202(d)(1), inserted “, nursing home,” in section catchline.
+1976—Pub. L. 94–581, § 202(d)(1), inserted “, nursing home,” in section catchline.
 
-Subsec. (a). Pub. L. 94–581, §§ 202(d)(2), 210(a)(1)(A), (B), substituted “the Administrator determines” for “he determines” in provisions preceding par. (1) and substituted “such veteran” for “he” and “necessary hospital or nursing home care” for “necessary hospital care” in subpar. (B) of par. (1).
+Subsec. (a). Pub. L. 94–581, §§ 202(d)(2), 210(a)(1)(A), (B), substituted “the Administrator determines” for “he determines” in provisions preceding par. (1) and substituted “such veteran” for “he” and “necessary hospital or nursing home care” for “necessary hospital care” in subpar. (B) of par. (1).
 
-Subsec. (b)(1). Pub. L. 94–581, § 210(a)(1)(C), substituted “such person” for “he”.
+Subsec. (b)(1). Pub. L. 94–581, § 210(a)(1)(C), substituted “such person” for “he”.
 
-Subsec. (b)(2). Pub. L. 94–581, §§ 202(d)(3), 210(a)(1)(B), substituted “a veteran who is in need of domiciliary care if such veteran” for “a veteran of any war or of service after January 31, 1955, who is in need of domiciliary care, if he”.
+Subsec. (b)(2). Pub. L. 94–581, §§ 202(d)(3), 210(a)(1)(B), substituted “a veteran who is in need of domiciliary care if such veteran” for “a veteran of any war or of service after January 31, 1955, who is in need of domiciliary care, if he”.
 
-Subsec. (c). Pub. L. 94–581, § 210(a)(1)(B), substituted “for which such veteran is hospitalized” for “for which he is hospitalized”.
+Subsec. (c). Pub. L. 94–581, § 210(a)(1)(B), substituted “for which such veteran is hospitalized” for “for which he is hospitalized”.
 
-Subsec. (d). Pub. L. 94–581, § 202(d)(4), substituted “direct jurisdiction” for “direct and exclusive jurisdiction”.
+Subsec. (d). Pub. L. 94–581, § 202(d)(4), substituted “direct jurisdiction” for “direct and exclusive jurisdiction”.
 
-1973—Subsec. (a). Pub. L. 93–82, § 102(1), (2), extended authority of the Administrator to furnish nursing home care, and in par. (1)(B), substituted “any veteran for a” for “a veteran of any war or of service after January 31, 1955, for”.
+1973—Subsec. (a). Pub. L. 93–82, § 102(1), (2), extended authority of the Administrator to furnish nursing home care, and in par. (1)(B), substituted “any veteran for a” for “a veteran of any war or of service after January 31, 1955, for”.
 
-Subsec. (c). Pub. L. 93–82, § 102(3), expanded provision regarding medical services to include nursing home care and struck out requirement that the Administrator make a determination in each instance that the non-service-connected disability would be in the veteran’s interest, would not prolong his hospitalization, and, would not interfere with the furnishing of hospital facilities to other veterans.
+Subsec. (c). Pub. L. 93–82, § 102(3), expanded provision regarding medical services to include nursing home care and struck out requirement that the Administrator make a determination in each instance that the non-service-connected disability would be in the veteran’s interest, would not prolong his hospitalization, and, would not interfere with the furnishing of hospital facilities to other veterans.
 
-Subsec. (d). Pub. L. 93–82, § 102(4), added subsec. (d).
+Subsec. (d). Pub. L. 93–82, § 102(4), added subsec. (d).
 
 1970—Subsec. (a). Pub. L. 91–500 added cl. (4).
 
@@ -6949,9 +6949,9 @@ Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see sec
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–328, div. U, title I, § 101(b), Dec. 29, 2022, 136 Stat. 5408, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on March 31, 2023.”
+Pub. L. 117–328, div. U, title I, § 101(b), Dec. 29, 2022, 136 Stat. 5408, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on March 31, 2023.”
 
-Pub. L. 117–168, title I, § 111(e), Aug. 10, 2022, 136 Stat. 1766, provided that: “This section [amending this section] and the amendments made by this section shall take effect on October 1, 2022.”
+Pub. L. 117–168, title I, § 111(e), Aug. 10, 2022, 136 Stat. 1766, provided that: “This section [amending this section] and the amendments made by this section shall take effect on October 1, 2022.”
 
 Amendment by section 403(c) of Pub. L. 117–168 effective Aug. 10, 2022, with additional provisions for different applicability dates applying to various categories of veterans and claimants for compensation, see section 403(e) of Pub. L. 117–168, set out as a note under section 1116 of this title.
 
@@ -6969,7 +6969,7 @@ Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–154, title I, § 102(d), Aug. 6, 2012, 126 Stat. 1169, provided that:
+Pub. L. 112–154, title I, § 102(d), Aug. 6, 2012, 126 Stat. 1169, provided that:
 
 > **“(1) In general.—** The provisions of this section [enacting section 1787 of this title and amending this section] and the amendments made by this section shall take effect on the date of the enactment of this Act [Aug. 6, 2012].
 
@@ -6977,7 +6977,7 @@ Pub. L. 112–154, title I, § 102(d), Aug. 6, 2012, 126 Stat. 1169, provided 
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–461, title II, § 211(a)(5), Dec. 22, 2006, 120 Stat. 3419, provided that: “The amendments made by this subsection [enacting section 1745 of this title and amending this section and sections 1741 and 1745 of this title] shall take effect 90 days after the date of the enactment of this Act [Dec. 22, 2006].”
+Pub. L. 109–461, title II, § 211(a)(5), Dec. 22, 2006, 120 Stat. 3419, provided that: “The amendments made by this subsection [enacting section 1745 of this title and amending this section and sections 1741 and 1745 of this title] shall take effect 90 days after the date of the enactment of this Act [Dec. 22, 2006].”
 
 **Effective Date of 2002 Amendment**
 
@@ -6987,11 +6987,11 @@ Amendment by section 202(b) of Pub. L. 107–135 effective Oct. 1, 2002, see sec
 
 Amendment by section 101(f) of Pub. L. 106–117 effective Nov. 30, 1999, with provisions of subsec. (f) of this section not applicable to any day of nursing home care on or after the effective date of regulations under section 101(h)(2) of Pub. L. 106–117, see section 101(h) of Pub. L. 106–117, set out as an Effective Date note under section 1710B of this title.
 
-Pub. L. 106–117, title II, § 201(c), as added by Pub. L. 106–419, title II, § 224(c), Nov. 1, 2000, 114 Stat. 1846, provided that: “The amendments made by subsection (b) [amending this section] shall apply with respect to medical services furnished under section 1710(a) of title 38, United States Code, on or after the effective date of the regulations prescribed by the Secretary of Veterans Affairs to establish the amounts required to be established under paragraphs (1) and (2) of section 1710(g) of that title, as amended by subsection (b).”
+Pub. L. 106–117, title II, § 201(c), as added by Pub. L. 106–419, title II, § 224(c), Nov. 1, 2000, 114 Stat. 1846, provided that: “The amendments made by subsection (b) [amending this section] shall apply with respect to medical services furnished under section 1710(a) of title 38, United States Code, on or after the effective date of the regulations prescribed by the Secretary of Veterans Affairs to establish the amounts required to be established under paragraphs (1) and (2) of section 1710(g) of that title, as amended by subsection (b).”
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–33, title VIII, § 8023(g), Aug. 5, 1997, 111 Stat. 668, provided that:
+Pub. L. 105–33, title VIII, § 8023(g), Aug. 5, 1997, 111 Stat. 668, provided that:
 
 > **“(1)** Except as provided in paragraph (2), this section [enacting section 1729A of this title, amending this section and sections 712, 1722A, and 1729 of this title, and enacting provisions set out as notes under sections 1729 and 1729A of this title] and the amendments made by this section shall take effect on October 1, 1997.
 
@@ -7003,25 +7003,25 @@ Amendment by Pub. L. 104–275 effective Jan. 1, 1997, with no benefit to be pai
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–210, § 1(c)(1), Dec. 20, 1993, 107 Stat. 2497, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1712 of this title] shall take effect as of August 2, 1990.”
+Pub. L. 103–210, § 1(c)(1), Dec. 20, 1993, 107 Stat. 2497, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1712 of this title] shall take effect as of August 2, 1990.”
 
 **Effective Date of 1990 Amendments**
 
-Pub. L. 102–145, § 111, Oct. 28, 1991, 105 Stat. 970, provided that: “Notwithstanding any other provision of this joint resolution or any other law, the amendments made by sections 8012 and 8013 of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508) [enacting section 622A [now 1722A] of this title and amending this section and sections 612 [now 1712] and 622 [now 1722] of this title] shall remain in effect through the period covered by this joint resolution [see section 106 of Pub. L. 102–145, 105 Stat. 970, as amended by Pub. L. 102–163, 105 Stat. 1048].”
+Pub. L. 102–145, § 111, Oct. 28, 1991, 105 Stat. 970, provided that: “Notwithstanding any other provision of this joint resolution or any other law, the amendments made by sections 8012 and 8013 of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508) [enacting section 622A [now 1722A] of this title and amending this section and sections 612 [now 1712] and 622 [now 1722] of this title] shall remain in effect through the period covered by this joint resolution [see section 106 of Pub. L. 102–145, 105 Stat. 970, as amended by Pub. L. 102–163, 105 Stat. 1048].”
 
-Pub. L. 102–109, § 111, Sept. 30, 1991, 105 Stat. 553, provided that: “Notwithstanding any other provision of this joint resolution or any other law, the amendments made by sections 8012 and 8013 of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508) [enacting section 622A [now 1722A] of this title and amending this section and sections 612 [now 1712] and 622 [now 1722] of this title] shall remain in effect through the period covered by this joint resolution [see section 106 of Pub. L. 102–109, 105 Stat. 553].”
+Pub. L. 102–109, § 111, Sept. 30, 1991, 105 Stat. 553, provided that: “Notwithstanding any other provision of this joint resolution or any other law, the amendments made by sections 8012 and 8013 of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508) [enacting section 622A [now 1722A] of this title and amending this section and sections 612 [now 1712] and 622 [now 1722] of this title] shall remain in effect through the period covered by this joint resolution [see section 106 of Pub. L. 102–109, 105 Stat. 553].”
 
-Pub. L. 101–508, title VIII, § 8013(d), (e), Nov. 5, 1990, 104 Stat. 1388–347, as amended by Pub. L. 102–139, title V, § 518(b), Oct. 28, 1991, 105 Stat. 779; Pub. L. 102–568, title VI, § 606(b), Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, § 12002(a), Aug. 10, 1993, 107 Stat. 414; Pub. L. 105–33, title VIII, § 8021(a)(2), Aug. 5, 1997, 111 Stat. 665, provided that:
+Pub. L. 101–508, title VIII, § 8013(d), (e), Nov. 5, 1990, 104 Stat. 1388–347, as amended by Pub. L. 102–139, title V, § 518(b), Oct. 28, 1991, 105 Stat. 779; Pub. L. 102–568, title VI, § 606(b), Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, § 12002(a), Aug. 10, 1993, 107 Stat. 414; Pub. L. 105–33, title VIII, § 8021(a)(2), Aug. 5, 1997, 111 Stat. 665, provided that:
 
 > **“(d) Effective Date.—** The amendments made by this section [amending this section and sections 612 and 622 [now 1712 and 1722] of this title] shall apply with respect to hospital care and medical services received after October 31, 1990, or the date of the enactment of this Act [Nov. 5, 1990], whichever is later.
 
-> **“[(e)** Repealed. Pub. L. 105–33, title VIII, § 8021(a)(2), Aug. 5, 1997, 111 Stat. 665.]”
+> **“[(e)** Repealed. Pub. L. 105–33, title VIII, § 8021(a)(2), Aug. 5, 1997, 111 Stat. 665.]”
 
 **Effective Date of 1986 Amendments**
 
-Pub. L. 99–576, title II, § 237(c), Oct. 28, 1986, 100 Stat. 3267, provided that: “The amendments made by this section [amending this section and section 612 [now 1712] of this title] shall take effect as of April 7, 1986.”
+Pub. L. 99–576, title II, § 237(c), Oct. 28, 1986, 100 Stat. 3267, provided that: “The amendments made by this section [amending this section and section 612 [now 1712] of this title] shall take effect as of April 7, 1986.”
 
-Pub. L. 99–272, title XIX, § 19011(f), Apr. 7, 1986, 100 Stat. 380, provided that:
+Pub. L. 99–272, title XIX, § 19011(f), Apr. 7, 1986, 100 Stat. 380, provided that:
 
 > **“(1)** Except as provided in paragraph (2), the amendments made by this section [amending this section and sections 525, 601, 612, 612A, 620, 622, and 663 [now 1525, 1701, 1712, 1712A, 1720, 1722, and 1763] of this title and enacting provisions set out as notes under this section and section 1722 of this title] shall apply to hospital care, nursing home care, and medical services furnished on or after July 1, 1986.
 
@@ -7039,7 +7039,7 @@ Pub. L. 99–272, title XIX, § 19011(f), Apr. 7, 1986, 100 Stat. 380, provide
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–37, § 5(d), Aug. 14, 1981, 95 Stat. 937, provided that: “The amendments made by this section [amending this section and section 612 [now 1712] of this title] shall take effect on October 1, 1981”.
+Pub. L. 97–37, § 5(d), Aug. 14, 1981, 95 Stat. 937, provided that: “The amendments made by this section [amending this section and section 612 [now 1712] of this title] shall take effect on October 1, 1981”.
 
 **Effective Date of 1979 Amendment**
 
@@ -7055,15 +7055,15 @@ Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L.
 
 **Savings Provision**
 
-Pub. L. 104–262, title I, § 102(b), Oct. 9, 1996, 110 Stat. 3182, provided that: “The provisions of sections 1710(e) and 1712(a) of title 38, United States Code, as in effect on the day before the date of the enactment of this Act [Oct. 9, 1996], shall continue to apply on and after such date with respect to the furnishing of hospital care, nursing home care, and medical services for any veteran who was furnished such care or services before such date of enactment on the basis of presumed exposure to a substance or radiation under the authority of those provisions, but only for treatment for a disability for which such care or services were furnished before such date.”
+Pub. L. 104–262, title I, § 102(b), Oct. 9, 1996, 110 Stat. 3182, provided that: “The provisions of sections 1710(e) and 1712(a) of title 38, United States Code, as in effect on the day before the date of the enactment of this Act [Oct. 9, 1996], shall continue to apply on and after such date with respect to the furnishing of hospital care, nursing home care, and medical services for any veteran who was furnished such care or services before such date of enactment on the basis of presumed exposure to a substance or radiation under the authority of those provisions, but only for treatment for a disability for which such care or services were furnished before such date.”
 
 **Savings Provision for Pub. L. 100–322**
 
-Pub. L. 100–322, title I, § 102(c), May 20, 1988, 102 Stat. 493, provided that: “The amendment made by subsection (a) [amending this section] shall not limit or restrict the eligibility for domiciliary care of a veteran who was a patient or a resident in a State home facility or a Veterans’ Administration domiciliary facility during the period beginning on January 1, 1987, and ending on April 1, 1988.”
+Pub. L. 100–322, title I, § 102(c), May 20, 1988, 102 Stat. 493, provided that: “The amendment made by subsection (a) [amending this section] shall not limit or restrict the eligibility for domiciliary care of a veteran who was a patient or a resident in a State home facility or a Veterans’ Administration domiciliary facility during the period beginning on January 1, 1987, and ending on April 1, 1988.”
 
 **Assessments of Implementation and Operation**
 
-Pub. L. 117–168, title I, § 104, Aug. 10, 2022, 136 Stat. 1763, provided that:
+Pub. L. 117–168, title I, § 104, Aug. 10, 2022, 136 Stat. 1763, provided that:
 
 > **“(a) Initial Resource Assessment and Report.—** Not later than 180 days after the date of the enactment of this Act [Aug. 10, 2022], the Secretary of Veterans Affairs shall—
 
@@ -7123,7 +7123,7 @@ Pub. L. 117–168, title I, § 104, Aug. 10, 2022, 136 Stat. 1763, provided th
 
 **Contact of Certain Veterans To Encourage Receipt of Comprehensive Medical Examinations**
 
-Pub. L. 116–214, title II, § 204, Dec. 5, 2020, 134 Stat. 1037, provided that:
+Pub. L. 116–214, title II, § 204, Dec. 5, 2020, 134 Stat. 1037, provided that:
 
 > **“(a) Notice.—** Not later than 90 days after the date of the enactment of this Act [Dec. 5, 2020], the Under Secretary of Health of the Department of Veterans Affairs shall seek to contact each covered veteran by mail, telephone, or email to encourage each covered veteran to receive medical examinations including the following:
 
@@ -7167,7 +7167,7 @@ Pub. L. 116–214, title II, § 204, Dec. 5, 2020, 134 Stat. 1037, provided th
 
 **Report on Locations Where Women Veterans Are Using Health Care From Department of Veterans Affairs**
 
-Pub. L. 116–214, title III, § 302, Dec. 5, 2020, 134 Stat. 1039, provided that:
+Pub. L. 116–214, title III, § 302, Dec. 5, 2020, 134 Stat. 1039, provided that:
 
 > **“(a) Report.—** Not later than 90 days after the date of the enactment of this Act [Dec. 5, 2020], and annually thereafter, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report on the use by women veterans of health care from the Department of Veterans Affairs.
 
@@ -7201,7 +7201,7 @@ Pub. L. 116–214, title III, § 302, Dec. 5, 2020, 134 Stat. 1039, provided t
 
 **Pilot Program on Assistance for Child Care for Certain Veterans Receiving Health Care**
 
-Pub. L. 111–163, title II, § 205, May 5, 2010, 124 Stat. 1144, as amended by Pub. L. 113–37, § 2(i), Sept. 30, 2013, 127 Stat. 525; Pub. L. 113–175, title I, § 103, Sept. 26, 2014, 128 Stat. 1903; Pub. L. 114–58, title I, § 105, Sept. 30, 2015, 129 Stat. 532; Pub. L. 114–228, title I, § 105, Sept. 29, 2016, 130 Stat. 937; Pub. L. 115–62, title I, § 105, Sept. 29, 2017, 131 Stat. 1161; Pub. L. 115–251, title I, § 106, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–159, div. E, title I, § 5104, Oct. 1, 2020, 134 Stat. 748; Pub. L. 116–315, title V, § 5107(a)(2), Jan. 5, 2021, 134 Stat. 5031, provided that:
+Pub. L. 111–163, title II, § 205, May 5, 2010, 124 Stat. 1144, as amended by Pub. L. 113–37, § 2(i), Sept. 30, 2013, 127 Stat. 525; Pub. L. 113–175, title I, § 103, Sept. 26, 2014, 128 Stat. 1903; Pub. L. 114–58, title I, § 105, Sept. 30, 2015, 129 Stat. 532; Pub. L. 114–228, title I, § 105, Sept. 29, 2016, 130 Stat. 937; Pub. L. 115–62, title I, § 105, Sept. 29, 2017, 131 Stat. 1161; Pub. L. 115–251, title I, § 106, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–159, div. E, title I, § 5104, Oct. 1, 2020, 134 Stat. 748; Pub. L. 116–315, title V, § 5107(a)(2), Jan. 5, 2021, 134 Stat. 5031, provided that:
 
 > **“(a) Pilot Program Required.—** The Secretary of Veterans Affairs shall carry out a pilot program to assess the feasibility and advisability of providing, subject to subsection (b), assistance to qualified veterans described in subsection (c) to obtain child care so that such veterans can receive health care services described in subsection (c).
 
@@ -7251,11 +7251,11 @@ Pub. L. 111–163, title II, § 205, May 5, 2010, 124 Stat. 1144, as amended b
 
 > **“(h) Authorization of Appropriations.—** There is authorized to be appropriated to the Secretary of Veterans Affairs to carry out the pilot program $1,500,000 for each of fiscal years 2010, 2015, 2016, 2017, 2018, 2019, 2020, 2021, and 2022.”
 
-[Pub. L. 116–315, § 5107(a)(2), which directed amendment of section 205(e) of Pub. L. 111–163, set out above, by substituting “the date of the enactment of the Deborah Sampson Act of 2020” for “September 30, 2020”, was executed by making the substitution for “September 30, 2022” to reflect the probable intent of Congress and the amendment by Pub. L. 116–159, which had substituted “September 30, 2022” for “September 30, 2020”. For establishment of child care assistance program by Pub. L. 116–315, see section 1709C of this title.]
+[Pub. L. 116–315, § 5107(a)(2), which directed amendment of section 205(e) of Pub. L. 111–163, set out above, by substituting “the date of the enactment of the Deborah Sampson Act of 2020” for “September 30, 2020”, was executed by making the substitution for “September 30, 2022” to reflect the probable intent of Congress and the amendment by Pub. L. 116–159, which had substituted “September 30, 2022” for “September 30, 2020”. For establishment of child care assistance program by Pub. L. 116–315, see section 1709C of this title.]
 
 **Grants for Veterans Service Organizations for Transportation of Highly Rural Veterans**
 
-Pub. L. 111–163, title III, § 307, May 5, 2010, 124 Stat. 1154, as amended by Pub. L. 113–175, title I, § 104, Sept. 26, 2014, 128 Stat. 1903; Pub. L. 114–58, title I, § 106, Sept. 30, 2015, 129 Stat. 532; Pub. L. 114–228, title I, § 106, Sept. 29, 2016, 130 Stat. 937; Pub. L. 115–62, title I, § 106, Sept. 29, 2017, 131 Stat. 1161; Pub. L. 115–251, title I, § 107, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–159, div. E, title I, § 5105, Oct. 1, 2020, 134 Stat. 748, provided that:
+Pub. L. 111–163, title III, § 307, May 5, 2010, 124 Stat. 1154, as amended by Pub. L. 113–175, title I, § 104, Sept. 26, 2014, 128 Stat. 1903; Pub. L. 114–58, title I, § 106, Sept. 30, 2015, 129 Stat. 532; Pub. L. 114–228, title I, § 106, Sept. 29, 2016, 130 Stat. 937; Pub. L. 115–62, title I, § 106, Sept. 29, 2017, 131 Stat. 1161; Pub. L. 115–251, title I, § 107, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–159, div. E, title I, § 5105, Oct. 1, 2020, 134 Stat. 748, provided that:
 
 > **“(a) Grants Authorized.—**
 
@@ -7293,11 +7293,11 @@ Pub. L. 111–163, title III, § 307, May 5, 2010, 124 Stat. 1154, as amended 
 
 **Continuation of Authority**
 
-Pub. L. 110–92, § 161, as added by Pub. L. 110–149, § 2, Dec. 21, 2007, 121 Stat. 1819, provided that: “Notwithstanding section 106 [121 Stat. 990], the authority to provide care and services under section 1710(e)(1)(E) of title 38, United States Code, shall continue in effect through September 30, 2008.”
+Pub. L. 110–92, § 161, as added by Pub. L. 110–149, § 2, Dec. 21, 2007, 121 Stat. 1819, provided that: “Notwithstanding section 106 [121 Stat. 990], the authority to provide care and services under section 1710(e)(1)(E) of title 38, United States Code, shall continue in effect through September 30, 2008.”
 
 **Personal Emergency Response System for Veterans With Service-Connected Disabilities**
 
-Pub. L. 107–135, title II, § 210, Jan. 23, 2002, 115 Stat. 2464, provided that:
+Pub. L. 107–135, title II, § 210, Jan. 23, 2002, 115 Stat. 2464, provided that:
 
 > **“(a) Evaluation and Study.—** The Secretary of Veterans Affairs shall carry out an evaluation and study of the feasibility and desirability of providing a personal emergency response system to veterans who have service-connected disabilities. The evaluation and study shall be commenced not later than 60 days after the date of the enactment of this Act [Jan. 23, 2002].
 
@@ -7319,7 +7319,7 @@ Pub. L. 107–135, title II, § 210, Jan. 23, 2002, 115 Stat. 2464, provided t
 
 **Chiropractic Treatment**
 
-Pub. L. 107–135, title II, § 204, Jan. 23, 2002, 115 Stat. 2459, as amended by Pub. L. 115–141, div. J, title II, § 245(a), Mar. 23, 2018, 132 Stat. 822, provided that:
+Pub. L. 107–135, title II, § 204, Jan. 23, 2002, 115 Stat. 2459, as amended by Pub. L. 115–141, div. J, title II, § 245(a), Mar. 23, 2018, 132 Stat. 822, provided that:
 
 > **“(a) Requirement for Program.—** Subject to the provisions of this section, the Secretary of Veterans Affairs shall carry out a program to provide chiropractic care and services to veterans through Department of Veterans Affairs medical centers and clinics.
 
@@ -7361,7 +7361,7 @@ Pub. L. 107–135, title II, § 204, Jan. 23, 2002, 115 Stat. 2459, as amended
 
 > **“(4)** The advisory committee shall cease to exist on December 31, 2004.”
 
-Pub. L. 106–117, title III, § 303, Nov. 30, 1999, 113 Stat. 1572, provided that:
+Pub. L. 106–117, title III, § 303, Nov. 30, 1999, 113 Stat. 1572, provided that:
 
 > **“(a) Establishment of Program.—** Not later than 120 days after the date of the enactment of this Act [Nov. 30, 1999], the Under Secretary for Health of the Department of Veterans Affairs, after consultation with chiropractors, shall establish a policy for the Veterans Health Administration regarding the role of chiropractic treatment in the care of veterans under chapter 17 of title 38, United States Code.
 
@@ -7377,11 +7377,11 @@ Pub. L. 106–117, title III, § 303, Nov. 30, 1999, 113 Stat. 1572, provided 
 
 **Implementation Report**
 
-Pub. L. 105–368, title I, § 102(b), Nov. 11, 1998, 112 Stat. 3322, required the Secretary of Veterans Affairs, not later than Oct. 1, 1999, to submit to Congress a report on the Secretary’s plan for establishing and operating the system for collection and analysis of information required by subsec. (e)(5) of this section.
+Pub. L. 105–368, title I, § 102(b), Nov. 11, 1998, 112 Stat. 3322, required the Secretary of Veterans Affairs, not later than Oct. 1, 1999, to submit to Congress a report on the Secretary’s plan for establishing and operating the system for collection and analysis of information required by subsec. (e)(5) of this section.
 
 **Demonstration Projects for Treatment of Persian Gulf Illness**
 
-Pub. L. 105–114, title II, § 209(b), Nov. 21, 1997, 111 Stat. 2290, provided that:
+Pub. L. 105–114, title II, § 209(b), Nov. 21, 1997, 111 Stat. 2290, provided that:
 
 > **“(1)** The Secretary of Veterans Affairs shall carry out a program of demonstration projects to test new approaches to treating, and improving the satisfaction with such treatment of, Persian Gulf veterans who suffer from undiagnosed and ill-defined disabilities. The program shall be established not later than July 1, 1998, and shall be carried out at up to 10 geographically dispersed medical centers of the Department of Veterans Affairs.
 
@@ -7407,7 +7407,7 @@ Pub. L. 105–114, title II, § 209(b), Nov. 21, 1997, 111 Stat. 2290, provide
 
 **Patient Privacy for Women Patients**
 
-Pub. L. 104–262, title III, § 322, Oct. 9, 1996, 110 Stat. 3196, provided that:
+Pub. L. 104–262, title III, § 322, Oct. 9, 1996, 110 Stat. 3196, provided that:
 
 > **“(a) Identification of Deficiencies.—** The Secretary of Veterans Affairs shall conduct a survey of each medical center under the jurisdiction of the Secretary to identify deficiencies relating to patient privacy afforded to women patients in the clinical areas at each such center which may interfere with appropriate treatment of such patients.
 
@@ -7417,7 +7417,7 @@ Pub. L. 104–262, title III, § 322, Oct. 9, 1996, 110 Stat. 3196, provided t
 
 **Hospice Care Study**
 
-Pub. L. 104–262, title III, § 341, Oct. 9, 1996, 110 Stat. 3205, provided that:
+Pub. L. 104–262, title III, § 341, Oct. 9, 1996, 110 Stat. 3205, provided that:
 
 > **“(a) Study Required.—** The Secretary of Veterans Affairs shall conduct a research study to determine the desirability of the Secretary furnishing hospice care to terminally ill veterans and to evaluate the most cost-effective and efficient way to do so. The Secretary shall carry out the study using resources and personnel of the Department.
 
@@ -7447,19 +7447,19 @@ Pub. L. 104–262, title III, § 341, Oct. 9, 1996, 110 Stat. 3205, provided t
 
 **Ratification of Actions During Period of Expired Authority**
 
-Pub. L. 106–419, title II, § 224(d), Nov. 1, 2000, 114 Stat. 1846, provided that: “Any action taken by the Secretary of Veterans Affairs under section 1710(g) of title 38, United States Code, during the period beginning on November 30, 1999, and ending on the date of the enactment of this Act [Nov. 1, 2000] is hereby ratified.”
+Pub. L. 106–419, title II, § 224(d), Nov. 1, 2000, 114 Stat. 1846, provided that: “Any action taken by the Secretary of Veterans Affairs under section 1710(g) of title 38, United States Code, during the period beginning on November 30, 1999, and ending on the date of the enactment of this Act [Nov. 1, 2000] is hereby ratified.”
 
-Pub. L. 104–110, title I, § 103, Feb. 13, 1996, 110 Stat. 769, provided that: “Any action taken by the Secretary of Veterans Affairs before the date of the enactment of this Act [Feb. 13, 1996] under a provision of law amended by this title [amending this section, sections 1712, 1720A, 1720C, 3703, 3710, 3720, 3731, 3735, 7451, 7618, and 8169 of this title, sections 11448 and 11450 of Title 42, The Public Health and Welfare, and provisions set out as notes under sections 1712, 1718, and 7721 of this title] that was taken during the period beginning on the date on which the authority of the Secretary under that provision of law expired and ending on the date of the enactment of this Act shall be considered to have the same force and effect as if the amendment to that provision of law made by this title had been in effect at the time of that action.”
+Pub. L. 104–110, title I, § 103, Feb. 13, 1996, 110 Stat. 769, provided that: “Any action taken by the Secretary of Veterans Affairs before the date of the enactment of this Act [Feb. 13, 1996] under a provision of law amended by this title [amending this section, sections 1712, 1720A, 1720C, 3703, 3710, 3720, 3731, 3735, 7451, 7618, and 8169 of this title, sections 11448 and 11450 of Title 42, The Public Health and Welfare, and provisions set out as notes under sections 1712, 1718, and 7721 of this title] that was taken during the period beginning on the date on which the authority of the Secretary under that provision of law expired and ending on the date of the enactment of this Act shall be considered to have the same force and effect as if the amendment to that provision of law made by this title had been in effect at the time of that action.”
 
-Pub. L. 103–452, title I, § 105, Nov. 2, 1994, 108 Stat. 4787, provided that: “Any action of the Secretary of Veterans Affairs under section 1710(e) of title 38, United States Code, during the period beginning on July 1, 1994, and ending on the date of the enactment of this Act [Nov. 2, 1994] is hereby ratified.”
+Pub. L. 103–452, title I, § 105, Nov. 2, 1994, 108 Stat. 4787, provided that: “Any action of the Secretary of Veterans Affairs under section 1710(e) of title 38, United States Code, during the period beginning on July 1, 1994, and ending on the date of the enactment of this Act [Nov. 2, 1994] is hereby ratified.”
 
 **Reimbursement for Hospital, Nursing Home or Outpatient Services Expenses**
 
-Pub. L. 103–210, § 1(c)(2), Dec. 20, 1993, 107 Stat. 2497, directed Secretary of Veterans Affairs, on request, to reimburse any veteran who paid the United States an amount under 38 U.S.C. 1710(f) or 1712(f) for hospital care, nursing home care, or outpatient services furnished by the Secretary to the veteran before Dec. 20, 1993, on the basis of a finding that the veteran may have been exposed to a toxic substance or environmental hazard during the Persian Gulf War, with amount of reimbursement to be amount that was paid by the veteran for such care or services.
+Pub. L. 103–210, § 1(c)(2), Dec. 20, 1993, 107 Stat. 2497, directed Secretary of Veterans Affairs, on request, to reimburse any veteran who paid the United States an amount under 38 U.S.C. 1710(f) or 1712(f) for hospital care, nursing home care, or outpatient services furnished by the Secretary to the veteran before Dec. 20, 1993, on the basis of a finding that the veteran may have been exposed to a toxic substance or environmental hazard during the Persian Gulf War, with amount of reimbursement to be amount that was paid by the veteran for such care or services.
 
 **Health Care Services for Women**
 
-Pub. L. 102–585, title I, § 106, Nov. 4, 1992, 106 Stat. 4947, provided that:
+Pub. L. 102–585, title I, § 106, Nov. 4, 1992, 106 Stat. 4947, provided that:
 
 > **“(a) General Authority.—** In furnishing hospital care and medical services under chapter 17 of title 38, United States Code, the Secretary of Veterans Affairs may provide to women the following health care services:
 
@@ -7473,7 +7473,7 @@ Pub. L. 102–585, title I, § 106, Nov. 4, 1992, 106 Stat. 4947, provided tha
 
 **Report on Health Care and Research**
 
-Pub. L. 102–585, title I, § 107, Nov. 4, 1992, 106 Stat. 4947, as amended by Pub. L. 104–262, title III, § 324, Oct. 9, 1996, 110 Stat. 3197, provided that:
+Pub. L. 102–585, title I, § 107, Nov. 4, 1992, 106 Stat. 4947, as amended by Pub. L. 104–262, title III, § 324, Oct. 9, 1996, 110 Stat. 3197, provided that:
 
 > **“(a) In general.—** Not later than January 1 of 1993 and each year thereafter through 1998, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the provision of health care services and the conduct of research carried out by, or under the jurisdiction of, the Secretary relating to women veterans.
 
@@ -7491,7 +7491,7 @@ Pub. L. 102–585, title I, § 107, Nov. 4, 1992, 106 Stat. 4947, as amended b
 
 **Coordination of Women’s Services**
 
-Pub. L. 102–585, title I, § 108, Nov. 4, 1992, 106 Stat. 4948, provided that:
+Pub. L. 102–585, title I, § 108, Nov. 4, 1992, 106 Stat. 4948, provided that:
 
 > “The Secretary of Veterans Affairs shall ensure that an official in each regional office of the Veterans Health Administration shall serve as a coordinator of women’s services. The responsibilities of such official shall include the following:
 
@@ -7507,21 +7507,21 @@ Pub. L. 102–585, title I, § 108, Nov. 4, 1992, 106 Stat. 4948, provided tha
 
 **Population Study of Women Veterans**
 
-Pub. L. 102–585, title I, § 110, Nov. 4, 1992, 106 Stat. 4948, as amended by Pub. L. 103–452, title I, § 102(c), Nov. 2, 1994, 108 Stat. 4786, directed Secretary of Veterans Affairs, in consultation with Advisory Committee on Women Veterans, to conduct a study to determine needs of veterans who are women for health-care services, based on an appropriate sample of veterans who are women, and to submit to Congress, not later than 9 months after Nov. 4, 1992, an interim report describing information and advice obtained from Advisory Committee and status of study, and to submit, not later than Dec. 31, 1995, a final report describing results of study.
+Pub. L. 102–585, title I, § 110, Nov. 4, 1992, 106 Stat. 4948, as amended by Pub. L. 103–452, title I, § 102(c), Nov. 2, 1994, 108 Stat. 4786, directed Secretary of Veterans Affairs, in consultation with Advisory Committee on Women Veterans, to conduct a study to determine needs of veterans who are women for health-care services, based on an appropriate sample of veterans who are women, and to submit to Congress, not later than 9 months after Nov. 4, 1992, an interim report describing information and advice obtained from Advisory Committee and status of study, and to submit, not later than Dec. 31, 1995, a final report describing results of study.
 
 **Demonstration Project To Evaluate Installation of Telephones for Patient Use at Department of Veterans Affairs Health-Care Facilities**
 
-Pub. L. 102–585, title V, § 525, Nov. 4, 1992, 106 Stat. 4960, directed Secretary of Veterans Affairs to carry out a demonstration project to evaluate feasibility and desirability of providing telephone service in patient rooms in Department of Veterans Affairs health-care facilities which do not currently provide such service, use of telephones by patients of such health-care facilities, and relative feasibility and cost-effectiveness of a variety of options for providing such service, and submit to Congress a report on the demonstration project not later than Sept. 30, 1994.
+Pub. L. 102–585, title V, § 525, Nov. 4, 1992, 106 Stat. 4960, directed Secretary of Veterans Affairs to carry out a demonstration project to evaluate feasibility and desirability of providing telephone service in patient rooms in Department of Veterans Affairs health-care facilities which do not currently provide such service, use of telephones by patients of such health-care facilities, and relative feasibility and cost-effectiveness of a variety of options for providing such service, and submit to Congress a report on the demonstration project not later than Sept. 30, 1994.
 
 **Reports on Furnishing of Health Care and Implementation of Changes in Eligibility**
 
-Pub. L. 99–272, title XIX, § 19011(e), Apr. 7, 1986, 100 Stat. 379, as amended by Pub. L. 100–527, § 10(1), (2), Oct. 25, 1988, 102 Stat. 2640, 2641; Pub. L. 101–237, title II, § 201(d), Dec. 18, 1989, 103 Stat. 2066; Pub. L. 102–40, title III, § 302, May 7, 1991, 105 Stat. 208; Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–291, § 4, May 20, 1992, 106 Stat. 179, directed Administrator of Veterans Affairs to submit to Congress a report for each fiscal year through fiscal year 1992 concerning implementation of the amendments made by section 19011 of Pub. L. 99–272, which amended this section and sections 1525, 1701, 1712, 1712A, 1720, 1722, and 1763 of this title and enacted provisions set out as notes under this section and section 1722 of this title, specified detailed information required to be submitted in each report, and provided that each report be submitted not later than the Feb. 1 following the end of the fiscal year for which it is submitted.
+Pub. L. 99–272, title XIX, § 19011(e), Apr. 7, 1986, 100 Stat. 379, as amended by Pub. L. 100–527, § 10(1), (2), Oct. 25, 1988, 102 Stat. 2640, 2641; Pub. L. 101–237, title II, § 201(d), Dec. 18, 1989, 103 Stat. 2066; Pub. L. 102–40, title III, § 302, May 7, 1991, 105 Stat. 208; Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–291, § 4, May 20, 1992, 106 Stat. 179, directed Administrator of Veterans Affairs to submit to Congress a report for each fiscal year through fiscal year 1992 concerning implementation of the amendments made by section 19011 of Pub. L. 99–272, which amended this section and sections 1525, 1701, 1712, 1712A, 1720, 1722, and 1763 of this title and enacted provisions set out as notes under this section and section 1722 of this title, specified detailed information required to be submitted in each report, and provided that each report be submitted not later than the Feb. 1 following the end of the fiscal year for which it is submitted.
 
 **Chiropractic Services Pilot Program**
 
-Pub. L. 99–166, title I, § 109, Dec. 3, 1985, 99 Stat. 948, directed Administrator of Veterans’ Affairs to conduct a pilot program to evaluate therapeutic benefits and cost-effectiveness of furnishing certain chiropractic services to veterans eligible for medical services under this chapter, provided that the pilot program be carried out during period beginning Jan. 1, 1986, and ending Dec. 31, 1988, and directed Administrator to submit to Committees on Veterans’ Affairs of Senate and House of Representatives not later than Apr. 1, 1989, a report on implementation, operation, and results of the pilot program.
+Pub. L. 99–166, title I, § 109, Dec. 3, 1985, 99 Stat. 948, directed Administrator of Veterans’ Affairs to conduct a pilot program to evaluate therapeutic benefits and cost-effectiveness of furnishing certain chiropractic services to veterans eligible for medical services under this chapter, provided that the pilot program be carried out during period beginning Jan. 1, 1986, and ending Dec. 31, 1988, and directed Administrator to submit to Committees on Veterans’ Affairs of Senate and House of Representatives not later than Apr. 1, 1989, a report on implementation, operation, and results of the pilot program.
 
-### § 1710A. Required nursing home care
+### § 1710A. Required nursing home care
 
 **(a)** The Secretary (subject to section 1710(a)(4) of this title) shall provide nursing home care which the Secretary determines is needed (1) to any veteran in need of such care for a service-connected disability, and (2) to any veteran who is in need of such care and who has a service-connected disability rated at 70 percent or more.
 
@@ -7535,7 +7535,7 @@ Pub. L. 99–166, title I, § 109, Dec. 3, 1985, 99 Stat. 948, directed Admini
 
 **(d)** The provisions of subsection (a) shall terminate on September 30, 2026.
 
-(Added Pub. L. 106–117, title I, § 101(a)(1), Nov. 30, 1999, 113 Stat. 1547; amended Pub. L. 106–419, title II, § 224(a), Nov. 1, 2000, 114 Stat. 1846; Pub. L. 108–170, title I, § 106(b), Dec. 6, 2003, 117 Stat. 2046; Pub. L. 110–181, div. A, title XVII, § 1706(b), Jan. 28, 2008, 122 Stat. 493; Pub. L. 110–387, title VIII, § 805, Oct. 10, 2008, 122 Stat. 4141; Pub. L. 113–59, § 8, Dec. 20, 2013, 127 Stat. 662; Pub. L. 113–175, title I, § 101, Sept. 26, 2014, 128 Stat. 1902; Pub. L. 114–58, title I, § 102, Sept. 30, 2015, 129 Stat. 532; Pub. L. 114–228, title I, § 102, Sept. 29, 2016, 130 Stat. 937; Pub. L. 115–62, title I, § 102, Sept. 29, 2017, 131 Stat. 1161; Pub. L. 115–251, title I, § 102, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–159, div. E, title I, § 5102, Oct. 1, 2020, 134 Stat. 748; Pub. L. 117–180, div. E, title I, § 102, Sept. 30, 2022, 136 Stat. 2136; Pub. L. 118–83, div. B, title III, § 302, Sept. 26, 2024, 138 Stat. 1539; Pub. L. 119–37, div. G, title I, § 7102, Nov. 12, 2025, 139 Stat. 649.)
+(Added Pub. L. 106–117, title I, § 101(a)(1), Nov. 30, 1999, 113 Stat. 1547; amended Pub. L. 106–419, title II, § 224(a), Nov. 1, 2000, 114 Stat. 1846; Pub. L. 108–170, title I, § 106(b), Dec. 6, 2003, 117 Stat. 2046; Pub. L. 110–181, div. A, title XVII, § 1706(b), Jan. 28, 2008, 122 Stat. 493; Pub. L. 110–387, title VIII, § 805, Oct. 10, 2008, 122 Stat. 4141; Pub. L. 113–59, § 8, Dec. 20, 2013, 127 Stat. 662; Pub. L. 113–175, title I, § 101, Sept. 26, 2014, 128 Stat. 1902; Pub. L. 114–58, title I, § 102, Sept. 30, 2015, 129 Stat. 532; Pub. L. 114–228, title I, § 102, Sept. 29, 2016, 130 Stat. 937; Pub. L. 115–62, title I, § 102, Sept. 29, 2017, 131 Stat. 1161; Pub. L. 115–251, title I, § 102, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–159, div. E, title I, § 5102, Oct. 1, 2020, 134 Stat. 748; Pub. L. 117–180, div. E, title I, § 102, Sept. 30, 2022, 136 Stat. 2136; Pub. L. 118–83, div. B, title III, § 302, Sept. 26, 2024, 138 Stat. 1539; Pub. L. 119–37, div. G, title I, § 7102, Nov. 12, 2025, 139 Stat. 649.)
 
 **Editorial Notes**
 
@@ -7583,13 +7583,13 @@ Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see sec
 
 **Finding Related to Age-Appropriate Nursing Home Care**
 
-Pub. L. 110–181, div. A, title XVII, § 1706(a), Jan. 28, 2008, 122 Stat. 493, provided that: “Congress finds that young veterans who are injured or disabled through military service and require long-term care should have access to age-appropriate nursing home care.”
+Pub. L. 110–181, div. A, title XVII, § 1706(a), Jan. 28, 2008, 122 Stat. 493, provided that: “Congress finds that young veterans who are injured or disabled through military service and require long-term care should have access to age-appropriate nursing home care.”
 
 **Report to Congressional Committees**
 
-Pub. L. 106–117, title I, § 101(i), Nov. 30, 1999, 113 Stat. 1550, required the Secretary of Veterans Affairs to submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the operation of section 101 of Pub. L. 106–117 not later than January 1, 2003.
+Pub. L. 106–117, title I, § 101(i), Nov. 30, 1999, 113 Stat. 1550, required the Secretary of Veterans Affairs to submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the operation of section 101 of Pub. L. 106–117 not later than January 1, 2003.
 
-### § 1710B. Extended care services
+### § 1710B. Extended care services
 
 **(a)** The Secretary (subject to section 1710(a)(4) of this title and subsection (c) of this section) shall operate and maintain a program to provide extended care services to eligible veterans in accordance with this section. Such services shall include the following:
 
@@ -7601,9 +7601,9 @@ Pub. L. 106–117, title I, § 101(i), Nov. 30, 1999, 113 Stat. 1550, required
 
 **(4)** Adult day health care under section 1720(f) of this title.
 
-**(5)** Such other noninstitutional alternatives to nursing home care as the Secretary may furnish as medical services under section 1701(10) 1
+**(5)** Such other noninstitutional alternatives to nursing home care as the Secretary may furnish as medical services under section 1701(10) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -7623,7 +7623,7 @@ of this title.
 
 **(C)** with respect to an episode of extended care services that a veteran is being furnished by the Department on November 30, 1999; or
 
-**(D)** to a veteran who was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 <sup>1</sup> of title 14.
+**(D)** to a veteran who was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 <sup>1</sup> of title 14.
 
 **(d)**
 
@@ -7643,15 +7643,15 @@ of this title.
 
 **(2)** All amounts received by the Department under this section shall be deposited in or credited to the fund.
 
-(Added Pub. L. 106–117, title I, § 101(c)(1), Nov. 30, 1999, 113 Stat. 1548; amended Pub. L. 107–14, § 8(a)(2), (16), June 5, 2001, 115 Stat. 34, 35; Pub. L. 107–103, title V, § 509(b), Dec. 27, 2001, 115 Stat. 997; Pub. L. 108–422, title II, § 204, Nov. 30, 2004, 118 Stat. 2382; Pub. L. 114–315, title VI, § 603(c), Dec. 16, 2016, 130 Stat. 1570; Pub. L. 115–232, div. A, title VIII, § 809(n)(1)(C), Aug. 13, 2018, 132 Stat. 1843.)
+(Added Pub. L. 106–117, title I, § 101(c)(1), Nov. 30, 1999, 113 Stat. 1548; amended Pub. L. 107–14, § 8(a)(2), (16), June 5, 2001, 115 Stat. 34, 35; Pub. L. 107–103, title V, § 509(b), Dec. 27, 2001, 115 Stat. 997; Pub. L. 108–422, title II, § 204, Nov. 30, 2004, 118 Stat. 2382; Pub. L. 114–315, title VI, § 603(c), Dec. 16, 2016, 130 Stat. 1570; Pub. L. 115–232, div. A, title VIII, § 809(n)(1)(C), Aug. 13, 2018, 132 Stat. 1843.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1701(10) of this title, referred to in subsec. (a)(5), was repealed by Pub. L. 110–387, title VIII, § 801(1), Oct. 10, 2008, 122 Stat. 4140.
+Section 1701(10) of this title, referred to in subsec. (a)(5), was repealed by Pub. L. 110–387, title VIII, § 801(1), Oct. 10, 2008, 122 Stat. 4140.
 
-Section 491 of title 14, referred to in subsec. (c)(2)(D), was redesignated section 2732 of title 14 by Pub. L. 115–282, title I, § 116(b), Dec. 4, 2018, 132 Stat. 4226, and references to section 491 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding section 101 of Title 14, Coast Guard.
+Section 491 of title 14, referred to in subsec. (c)(2)(D), was redesignated section 2732 of title 14 by Pub. L. 115–282, title I, § 116(b), Dec. 4, 2018, 132 Stat. 4226, and references to section 491 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding section 101 of Title 14, Coast Guard.
 
 **Amendments**
 
@@ -7663,9 +7663,9 @@ Section 491 of title 14, referred to in subsec. (c)(2)(D), was redesignated sect
 
 2001—Subsec. (c)(2)(B). Pub. L. 107–103 inserted “on” before “November 30, 1999”.
 
-Pub. L. 107–14, § 8(a)(2), substituted “November 30, 1999” for “on the date of the enactment of the Veterans Millennium Health Care and Benefits Act”.
+Pub. L. 107–14, § 8(a)(2), substituted “November 30, 1999” for “on the date of the enactment of the Veterans Millennium Health Care and Benefits Act”.
 
-Subsec. (e)(1). Pub. L. 107–14, § 8(a)(16), substituted “hereinafter” for “hereafter”.
+Subsec. (e)(1). Pub. L. 107–14, § 8(a)(16), substituted “hereinafter” for “hereafter”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7675,7 +7675,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–422, title IV, § 411(f), (g), Nov. 30, 2004, 118 Stat. 2390, provided that:
+Pub. L. 108–422, title IV, § 411(f), (g), Nov. 30, 2004, 118 Stat. 2390, provided that:
 
 > **“(f) Contingent Effectiveness.—** Subsection (d) [enacting provisions set out as a note under section 8118 of this title] and the amendments made by subsection (c) [repealing section 8116 of this title] shall take effect at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with subsection (b) of section 1710B of title 38, United States Code.
 
@@ -7683,7 +7683,7 @@ Pub. L. 108–422, title IV, § 411(f), (g), Nov. 30, 2004, 118 Stat. 2390, pr
 
 **Effective Date**
 
-Pub. L. 106–117, title I, § 101(h), Nov. 30, 1999, 113 Stat. 1550, provided that:
+Pub. L. 106–117, title I, § 101(h), Nov. 30, 1999, 113 Stat. 1550, provided that:
 
 > **“(1)** Except as provided in paragraph (2), the amendments made by this section [enacting this section and section 1710A of this title and amending sections 1701, 1710, 1720, 1720B and 1741 of this title] shall take effect on the date of the enactment of this Act [Nov. 30, 1999].
 
@@ -7693,7 +7693,7 @@ Pub. L. 106–117, title I, § 101(h), Nov. 30, 1999, 113 Stat. 1550, provided
 
 **Modifications to Veteran Directed Care Program of Department of Veterans Affairs**
 
-Pub. L. 116–136, div. B, title X, § 20006, Mar. 27, 2020, 134 Stat. 587, as amended by Pub. L. 116–315, title III, § 3001, Jan. 5, 2021, 134 Stat. 4990, provided that:
+Pub. L. 116–136, div. B, title X, § 20006, Mar. 27, 2020, 134 Stat. 587, as amended by Pub. L. 116–315, title III, § 3001, Jan. 5, 2021, 134 Stat. 4990, provided that:
 
 > **“(a) Telephone or Telehealth Renewals.—** For the Veteran Directed Care program of the Department of Veterans Affairs (in this section referred to as the ‘Program’), during the period specified in subsection (f), the Secretary of Veterans Affairs shall—
 
@@ -7733,7 +7733,7 @@ Pub. L. 116–136, div. B, title X, § 20006, Mar. 27, 2020, 134 Stat. 587, as
 
 **Pilot Program on Improvement of Caregiver Assistance Services**
 
-Pub. L. 109–461, title II, § 214, Dec. 22, 2006, 120 Stat. 3423, as amended by Pub. L. 110–387, § 809, Oct. 10, 2008, 122 Stat. 4142, provided that:
+Pub. L. 109–461, title II, § 214, Dec. 22, 2006, 120 Stat. 3423, as amended by Pub. L. 110–387, § 809, Oct. 10, 2008, 122 Stat. 4142, provided that:
 
 > **“(a) In General.—** Commencing not later than 120 days after the date of the enactment of this Act [Dec. 22, 2006], the Secretary of Veterans Affairs shall carry out a pilot program to assess the feasibility and advisability of various mechanisms to expand and improve caregiver assistance services.
 
@@ -7771,7 +7771,7 @@ Pub. L. 109–461, title II, § 214, Dec. 22, 2006, 120 Stat. 3423, as amended
 
 **Pilot Programs Relating to Long-Term Care**
 
-Pub. L. 106–117, title I, § 102, Nov. 30, 1999, 113 Stat. 1551, as amended by Pub. L. 108–422, title II, § 203, Nov. 30, 2004, 118 Stat. 2382, provided that:
+Pub. L. 106–117, title I, § 102, Nov. 30, 1999, 113 Stat. 1551, as amended by Pub. L. 108–422, title II, § 203, Nov. 30, 2004, 118 Stat. 2382, provided that:
 
 > **“(a) Pilot Programs.—** The Secretary [of Veterans Affairs] shall carry out three pilot programs for the purpose of determining the effectiveness of different models of all-inclusive care-delivery in reducing the use of hospital and nursing home care by frail, elderly veterans.
 
@@ -7843,7 +7843,7 @@ Pub. L. 106–117, title I, § 102, Nov. 30, 1999, 113 Stat. 1551, as amended 
 
 **Pilot Programs Relating to Assisted Living**
 
-Pub. L. 118–210, title I, § 127, Jan. 2, 2025, 138 Stat. 2734, provided that:
+Pub. L. 118–210, title I, § 127, Jan. 2, 2025, 138 Stat. 2734, provided that:
 
 > **“(a) Establishment.—** Beginning not later than two years after the date of the enactment of this Act [Jan. 2, 2025], the Secretary of Veterans Affairs shall carry out a pilot program to assess—
 
@@ -7971,7 +7971,7 @@ Pub. L. 118–210, title I, § 127, Jan. 2, 2025, 138 Stat. 2734, provided tha
 
 > **“(3)** The term ‘State home’ has the meaning given that term in section 101 of title 38, United States Code.”
 
-Pub. L. 106–117, title I, § 103, Nov. 30, 1999, 113 Stat. 1552, as amended by Pub. L. 108–170, title I, § 107, Dec. 6, 2003, 117 Stat. 2046, provided that:
+Pub. L. 106–117, title I, § 103, Nov. 30, 1999, 113 Stat. 1552, as amended by Pub. L. 108–170, title I, § 107, Dec. 6, 2003, 117 Stat. 2046, provided that:
 
 > **“(a) Program Authority.—** The Secretary [of Veterans Affairs] may carry out a pilot program for the purpose of determining the feasibility and practicability of enabling eligible veterans to secure needed assisted living services as an alternative to nursing home care.
 
@@ -8015,7 +8015,7 @@ Pub. L. 106–117, title I, § 103, Nov. 30, 1999, 113 Stat. 1552, as amended 
 
 > **“(h) Standards.—** The Secretary may not enter into a contract with a facility under this section unless the facility meets the standards established in regulations prescribed under section 1730 of title 38, United States Code.”
 
-### § 1710C. Traumatic brain injury: plans for rehabilitation and reintegration into the community
+### § 1710C. Traumatic brain injury: plans for rehabilitation and reintegration into the community
 
 **(a) Plan Required.—** The Secretary shall, for each individual who is a veteran or member of the Armed Forces who receives inpatient or outpatient rehabilitative hospital care or medical services provided by the Department for a traumatic brain injury—
 
@@ -8125,33 +8125,33 @@ Pub. L. 106–117, title I, § 103, Nov. 30, 1999, 113 Stat. 1552, as amended 
 
 **(3)** any other rehabilitative services or supports that may contribute to maximizing an individual’s independence.
 
-(Added Pub. L. 110–181, div. A, title XVII, § 1702(a), Jan. 28, 2008, 122 Stat. 486; amended Pub. L. 112–154, title I, § 107(a), (d), Aug. 6, 2012, 126 Stat. 1173.)
+(Added Pub. L. 110–181, div. A, title XVII, § 1702(a), Jan. 28, 2008, 122 Stat. 486; amended Pub. L. 112–154, title I, § 107(a), (d), Aug. 6, 2012, 126 Stat. 1173.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (g), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of the Act probably means subtitle C of title I of the Act, which is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (g), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of the Act probably means subtitle C of title I of the Act, which is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
 **Amendments**
 
-2012—Subsec. (a)(1). Pub. L. 112–154, § 107(a)(1), inserted “with the goal of maximizing the individual’s independence” before semicolon.
+2012—Subsec. (a)(1). Pub. L. 112–154, § 107(a)(1), inserted “with the goal of maximizing the individual’s independence” before semicolon.
 
-Subsec. (b)(1). Pub. L. 112–154, § 107(a)(2)(A), inserted “(and sustaining improvement in)” after “improving” and “behavioral,” after “cognitive,”.
+Subsec. (b)(1). Pub. L. 112–154, § 107(a)(2)(A), inserted “(and sustaining improvement in)” after “improving” and “behavioral,” after “cognitive,”.
 
-Subsec. (b)(2). Pub. L. 112–154, § 107(a)(2)(B), inserted “rehabilitative services and” before “rehabilitative components”.
+Subsec. (b)(2). Pub. L. 112–154, § 107(a)(2)(B), inserted “rehabilitative services and” before “rehabilitative components”.
 
-Subsec. (b)(3). Pub. L. 112–154, § 107(a)(2)(C), substituted “rehabilitative services” for “rehabilitative treatments” and struck out “treatments and” after “location of such”.
+Subsec. (b)(3). Pub. L. 112–154, § 107(a)(2)(C), substituted “rehabilitative services” for “rehabilitative treatments” and struck out “treatments and” after “location of such”.
 
-Subsec. (c)(2)(S). Pub. L. 112–154, § 107(d), substituted “ophthalmologist” for “opthamologist”.
+Subsec. (c)(2)(S). Pub. L. 112–154, § 107(d), substituted “ophthalmologist” for “opthamologist”.
 
-Subsec. (h). Pub. L. 112–154, § 107(a)(3), added subsec. (h).
+Subsec. (h). Pub. L. 112–154, § 107(a)(3), added subsec. (h).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Research, Education, and Clinical Care Program on Traumatic Brain Injury**
 
-Pub. L. 110–181, div. A, title XVII, § 1704, Jan. 28, 2008, 122 Stat. 490, provided that:
+Pub. L. 110–181, div. A, title XVII, § 1704, Jan. 28, 2008, 122 Stat. 490, provided that:
 
 > **“(a) In General.—** To improve the provision of health care by the Department of Veterans Affairs to veterans with traumatic brain injuries, the Secretary of Veterans Affairs shall—
 
@@ -8211,7 +8211,7 @@ Pub. L. 110–181, div. A, title XVII, § 1704, Jan. 28, 2008, 122 Stat. 490, 
 
 **Pilot Program on Community-Based Brain Injury Residential Rehabilitative Care Services for Veterans With Traumatic Brain Injury**
 
-Pub. L. 110–181, div. A, title XVII, § 1705, Jan. 28, 2008, 122 Stat. 491, as amended by Pub. L. 113–146, title V, § 501, Aug. 7, 2014, 128 Stat. 1792; Pub. L. 113–257, § 2(a), (b), Dec. 18, 2014, 128 Stat. 2924, 2925; Pub. L. 115–62, title I, § 107(a), (b), Sept. 29, 2017, 131 Stat. 1161, provided that:
+Pub. L. 110–181, div. A, title XVII, § 1705, Jan. 28, 2008, 122 Stat. 491, as amended by Pub. L. 113–146, title V, § 501, Aug. 7, 2014, 128 Stat. 1792; Pub. L. 113–257, § 2(a), (b), Dec. 18, 2014, 128 Stat. 2924, 2925; Pub. L. 115–62, title I, § 107(a), (b), Sept. 29, 2017, 131 Stat. 1161, provided that:
 
 > **“(a) Pilot Program.—** Beginning not later than 90 days after the date of the enactment of this Act [Jan. 28, 2008], the Secretary of Veterans Affairs, in collaboration with the Defense and Veterans Brain Injury Center of the Department of Defense, shall carry out a pilot program to assess the effectiveness of providing community-based brain injury rehabilitative care services to eligible veterans to enhance the rehabilitation, quality of life, and community integration of such veterans.
 
@@ -8293,11 +8293,11 @@ Pub. L. 110–181, div. A, title XVII, § 1705, Jan. 28, 2008, 122 Stat. 491, 
 
 “(g) Termination.—The pilot program shall terminate on January 6, 2018.”
 
-[Pub. L. 115–62, title I, § 107(c), Sept. 29, 2017, 131 Stat. 1161, provided that: “Not later than December 6, 2017, the Secretary of Veterans Affairs shall notify veterans participating in the pilot program under such section [section 1705 of Pub. L. 110–181, set out above] regarding a plan for transition of care for such veterans.” ]
+[Pub. L. 115–62, title I, § 107(c), Sept. 29, 2017, 131 Stat. 1161, provided that: “Not later than December 6, 2017, the Secretary of Veterans Affairs shall notify veterans participating in the pilot program under such section [section 1705 of Pub. L. 110–181, set out above] regarding a plan for transition of care for such veterans.” ]
 
-[Pub. L. 113–257, § 2(c), Dec. 18, 2014, 128 Stat. 2925, provided that: “The amendments made by this section [amending section 1705 of Pub. L. 110–181, set out above] shall take effect on the date of the enactment of this Act [Dec. 18, 2014].” ]
+[Pub. L. 113–257, § 2(c), Dec. 18, 2014, 128 Stat. 2925, provided that: “The amendments made by this section [amending section 1705 of Pub. L. 110–181, set out above] shall take effect on the date of the enactment of this Act [Dec. 18, 2014].” ]
 
-### § 1710D. Traumatic brain injury: comprehensive program for long-term rehabilitation
+### § 1710D. Traumatic brain injury: comprehensive program for long-term rehabilitation
 
 **(a) Comprehensive Program.—** In developing plans for the rehabilitation and reintegration of individuals with traumatic brain injury under section 1710C of this title, the Secretary shall develop and carry out a comprehensive program of long-term care and rehabilitative services (as defined in section 1710C of this title) for post-acute traumatic brain injury rehabilitation that includes residential, community, and home-based components utilizing interdisciplinary teams.
 
@@ -8319,7 +8319,7 @@ Pub. L. 110–181, div. A, title XVII, § 1705, Jan. 28, 2008, 122 Stat. 491, 
 
 **(3)** The cost of operating the program during the year preceding such report.
 
-(Added Pub. L. 110–181, div. A, title XVII, § 1702(a), Jan. 28, 2008, 122 Stat. 488; amended Pub. L. 112–154, title I, § 107(b), Aug. 6, 2012, 126 Stat. 1173; Pub. L. 114–58, title VI, § 601(5), Sept. 30, 2015, 129 Stat. 538.)
+(Added Pub. L. 110–181, div. A, title XVII, § 1702(a), Jan. 28, 2008, 122 Stat. 488; amended Pub. L. 112–154, title I, § 107(b), Aug. 6, 2012, 126 Stat. 1173; Pub. L. 114–58, title VI, § 601(5), Sept. 30, 2015, 129 Stat. 538.)
 
 **Editorial Notes**
 
@@ -8333,7 +8333,7 @@ The date of the enactment of this section, referred to in subsec. (d), is the da
 
 2012—Subsec. (a). Pub. L. 112–154 inserted “and rehabilitative services (as defined in section 1710C of this title)” after “long-term care” and struck out “treatment” before “teams”.
 
-### § 1710E. Traumatic brain injury: use of non-Department facilities for rehabilitation
+### § 1710E. Traumatic brain injury: use of non-Department facilities for rehabilitation
 
 **(a) Cooperative Agreements.—** The Secretary, in implementing and carrying out a plan developed under section 1710C of this title, may provide hospital care and medical services, including rehabilitative services (as defined in section 1710C of this title), through cooperative agreements with appropriate public or private entities that have established long-term neurobehavioral rehabilitation and recovery programs.
 
@@ -8351,25 +8351,25 @@ The date of the enactment of this section, referred to in subsec. (d), is the da
 
 **(d) Standards.—** The Secretary may not provide treatment or services as described in subsection (a) at a non-Department facility under such subsection unless such facility maintains standards for the provision of such treatment or services established by an independent, peer-reviewed organization that accredits specialized rehabilitation programs for adults with traumatic brain injury.
 
-(Added Pub. L. 110–181, div. A, title XVII, § 1703(a), Jan. 28, 2008, 122 Stat. 489; amended Pub. L. 111–163, title V, § 509, May 5, 2010, 124 Stat. 1162; Pub. L. 112–154, title I, § 107(c), Aug. 6, 2012, 126 Stat. 1173.)
+(Added Pub. L. 110–181, div. A, title XVII, § 1703(a), Jan. 28, 2008, 122 Stat. 489; amended Pub. L. 111–163, title V, § 509, May 5, 2010, 124 Stat. 1162; Pub. L. 112–154, title I, § 107(c), Aug. 6, 2012, 126 Stat. 1173.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (c), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of the Act probably means subtitle C of title I of the Act, which is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (c), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of the Act probably means subtitle C of title I of the Act, which is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
 **Amendments**
 
-2012—Subsec. (a). Pub. L. 112–154, § 107(c), inserted “, including rehabilitative services (as defined in section 1710C of this title),” after “medical services”.
+2012—Subsec. (a). Pub. L. 112–154, § 107(c), inserted “, including rehabilitative services (as defined in section 1710C of this title),” after “medical services”.
 
 2010—Subsecs. (b) to (d). Pub. L. 111–163 added subsecs. (b) and (d) and redesignated former subsec. (b) as (c).
 
-### § 1711. Care during examinations and in emergencies
+### § 1711. Care during examinations and in emergencies
 
 **(a)** The Secretary may furnish hospital care incident to physical examinations where such examinations are necessary in carrying out the provisions of other laws administered by the Secretary.
 
-**[(b)** Repealed. Pub. L. 107–135, title II, § 208(d), Jan. 23, 2002, 115 Stat. 2463.]
+**[(b)** Repealed. Pub. L. 107–135, title II, § 208(d), Jan. 23, 2002, 115 Stat. 2463.]
 
 **(c)**
 
@@ -8377,7 +8377,7 @@ The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referr
 
 **(2)** The authority of the Secretary to enter into contracts under this subsection shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1142, § 611; Pub. L. 94–581, title II, §§ 202(e), 210(a)(2), Oct. 21, 1976, 90 Stat. 2856, 2862; Pub. L. 96–22, title II, § 202, June 13, 1979, 93 Stat. 54; Pub. L. 96–128, title V, § 501(a), Nov. 28, 1979, 93 Stat. 987; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 1711 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–135, title II, § 208(d), Jan. 23, 2002, 115 Stat. 2463.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1142, § 611; Pub. L. 94–581, title II, §§ 202(e), 210(a)(2), Oct. 21, 1976, 90 Stat. 2856, 2862; Pub. L. 96–22, title II, § 202, June 13, 1979, 93 Stat. 54; Pub. L. 96–128, title V, § 501(a), Nov. 28, 1979, 93 Stat. 987; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 1711 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–135, title II, § 208(d), Jan. 23, 2002, 115 Stat. 2463.)
 
 **Editorial Notes**
 
@@ -8389,9 +8389,9 @@ Prior section 1711 was renumbered section 3511 of this title.
 
 2002—Subsec. (b). Pub. L. 107–135 struck out subsec. (b) which read as follows: “The Secretary may furnish hospital care or medical services as a humanitarian service in emergency cases, but the Secretary shall charge for such care at rates prescribed by the Secretary.”
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 611 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 611 of this title as this section.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
 Subsec. (c)(1). Pub. L. 102–40 substituted “5902” for “3402”.
 
@@ -8399,11 +8399,11 @@ Subsec. (c)(1). Pub. L. 102–40 substituted “5902” for “3402”.
 
 Subsec. (c)(1). Pub. L. 96–128 substituted “named in, or approved by the Administrator under,” for “recognized by the Administrator for the purposes of”.
 
-1976—Pub. L. 94–581, § 202(e)(1), substituted “Care” for “Hospitalization” in section catchline.
+1976—Pub. L. 94–581, § 202(e)(1), substituted “Care” for “Hospitalization” in section catchline.
 
-Subsec. (a). Pub. L. 94–581, § 210(a)(2)(A), substituted “administered by the Administrator” for “administered by him”.
+Subsec. (a). Pub. L. 94–581, § 210(a)(2)(A), substituted “administered by the Administrator” for “administered by him”.
 
-Subsec. (b). Pub. L. 94–581, §§ 202(e)(2), 210(a)(2)(B), substituted “hospital care or medical services” for “hospital care”, “the Administrator shall charge” for “he shall charge”, and “prescribed by the Administrator” for “prescribed by him”.
+Subsec. (b). Pub. L. 94–581, §§ 202(e)(2), 210(a)(2)(B), substituted “hospital care or medical services” for “hospital care”, “the Administrator shall charge” for “he shall charge”, and “prescribed by the Administrator” for “prescribed by him”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8415,7 +8415,7 @@ Amendment by Pub. L. 96–128 effective Nov. 28, 1979, see section 601(b) of Pub
 
 Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of this title.
 
-### § 1712. Dental care; drugs and medicines for certain disabled veterans; vaccines
+### § 1712. Dental care; drugs and medicines for certain disabled veterans; vaccines
 
 **(a)**
 
@@ -8469,7 +8469,7 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 **(e)** In order to assist the Secretary of Health and Human Services in carrying out national immunization programs under other provisions of law, the Secretary may authorize the administration of immunizations to eligible veterans who voluntarily request such immunizations in connection with the provision of care for a disability under this chapter in any Department health care facility. Any such immunization shall be made using vaccine furnished by the Secretary of Health and Human Services at no cost to the Department. For such purpose, notwithstanding any other provision of law, the Secretary of Health and Human Services may provide such vaccine to the Department at no cost. Section 7316 of this title shall apply to claims alleging negligence or malpractice on the part of Department personnel granted immunity under such section.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1142, § 612; Pub. L. 86–639, § 1, July 12, 1960, 74 Stat. 472; Pub. L. 87–377, § 1, Oct. 4, 1961, 75 Stat. 806; Pub. L. 87–583, § 2, Aug. 14, 1962, 76 Stat. 381; Pub. L. 88–430, Aug. 14, 1964, 78 Stat. 438; Pub. L. 88–450, § 7, Aug. 19, 1964, 78 Stat. 504; Pub. L. 88–664, § 8, Oct. 13, 1964, 78 Stat. 1096; Pub. L. 90–77, title II, § 203(b), Aug. 31, 1967, 81 Stat. 183; Pub. L. 91–102, Oct. 30, 1969, 83 Stat. 168; Pub. L. 91–500, §§ 2, 3, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 91–588, §§ 4, 9(f), Dec. 24, 1970, 84 Stat. 1583, 1585; Pub. L. 93–82, title I, § 103(a), Aug. 2, 1973, 87 Stat. 180; Pub. L. 94–581, title I, § 103(a), title II, §§ 202(f), 210(a)(3), Oct. 21, 1976, 90 Stat. 2844, 2856, 2862; Pub. L. 95–588, title III, § 302, Nov. 4, 1978, 92 Stat. 2506; Pub. L. 96–22, title I, §§ 101, 102(b), June 13, 1979, 93 Stat. 47; Pub. L. 96–151, title II, §§ 203, 204, Dec. 20, 1979, 93 Stat. 1094; Pub. L. 97–35, title XX, § 2002(a), Aug. 13, 1981, 95 Stat. 781; Pub. L. 97–37, §§ 3(b), 5(b), (c), Aug. 14, 1981, 95 Stat. 936, 937; Pub. L. 97–72, title I, §§ 102(b), 103(a), (b), Nov. 3, 1981, 95 Stat. 1048, 1049; Pub. L. 97–295, § 4(17), (95)(A), Oct. 12, 1982, 96 Stat. 1306, 1313; Pub. L. 99–166, title I, § 104, Dec. 3, 1985, 99 Stat. 944; Pub. L. 99–272, title XIX, §§ 19011(b), 19012(c)(1), (2), Apr. 7, 1986, 100 Stat. 375, 382; Pub. L. 99–576, title II, §§ 202, 231(b), 237(b)(2), title VII, § 702(5), Oct. 28, 1986, 100 Stat. 3254, 3263, 3267, 3301; Pub. L. 100–322, title I, §§ 101(a)–(c), (d)(2), (e)(1), (2), (f), (g)(1), (h)(1), 106, May 20, 1988, 102 Stat. 489–492, 494; Pub. L. 101–508, title VIII, § 8013(b), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–25, title III, § 334(a), (c), Apr. 6, 1991, 105 Stat. 88, 89; renumbered § 1712 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), (5), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, §§ 301, 302, Aug. 14, 1991, 105 Stat. 416; Pub. L. 102–585, title I, § 103, Nov. 4, 1992, 106 Stat. 4946; Pub. L. 103–210, § 1(b), Dec. 20, 1993, 107 Stat. 2496; Pub. L. 103–446, title XII, § 1201(d)(3), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 103–452, title I, §§ 101(e), 103(a)(2), Nov. 2, 1994, 108 Stat. 4784, 4786; Pub. L. 104–110, title I, § 101(a)(2), Feb. 13, 1996, 110 Stat. 768; Pub. L. 104–262, title I, § 101(b)(2)–(c)(2)(A), Oct. 9, 1996, 110 Stat. 3179; Pub. L. 106–419, title IV, § 404(a)(3), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 108–170, title I, § 101(a), Dec. 6, 2003, 117 Stat. 2043; Pub. L. 110–181, div. A, title XVII, § 1709, Jan. 28, 2008, 122 Stat. 494; Pub. L. 115–182, title I, § 144(a)(1)(A), June 6, 2018, 132 Stat. 1429; Pub. L. 116–283, div. A, title IX, § 926(a)(22), Jan. 1, 2021, 134 Stat. 3830.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1142, § 612; Pub. L. 86–639, § 1, July 12, 1960, 74 Stat. 472; Pub. L. 87–377, § 1, Oct. 4, 1961, 75 Stat. 806; Pub. L. 87–583, § 2, Aug. 14, 1962, 76 Stat. 381; Pub. L. 88–430, Aug. 14, 1964, 78 Stat. 438; Pub. L. 88–450, § 7, Aug. 19, 1964, 78 Stat. 504; Pub. L. 88–664, § 8, Oct. 13, 1964, 78 Stat. 1096; Pub. L. 90–77, title II, § 203(b), Aug. 31, 1967, 81 Stat. 183; Pub. L. 91–102, Oct. 30, 1969, 83 Stat. 168; Pub. L. 91–500, §§ 2, 3, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 91–588, §§ 4, 9(f), Dec. 24, 1970, 84 Stat. 1583, 1585; Pub. L. 93–82, title I, § 103(a), Aug. 2, 1973, 87 Stat. 180; Pub. L. 94–581, title I, § 103(a), title II, §§ 202(f), 210(a)(3), Oct. 21, 1976, 90 Stat. 2844, 2856, 2862; Pub. L. 95–588, title III, § 302, Nov. 4, 1978, 92 Stat. 2506; Pub. L. 96–22, title I, §§ 101, 102(b), June 13, 1979, 93 Stat. 47; Pub. L. 96–151, title II, §§ 203, 204, Dec. 20, 1979, 93 Stat. 1094; Pub. L. 97–35, title XX, § 2002(a), Aug. 13, 1981, 95 Stat. 781; Pub. L. 97–37, §§ 3(b), 5(b), (c), Aug. 14, 1981, 95 Stat. 936, 937; Pub. L. 97–72, title I, §§ 102(b), 103(a), (b), Nov. 3, 1981, 95 Stat. 1048, 1049; Pub. L. 97–295, § 4(17), (95)(A), Oct. 12, 1982, 96 Stat. 1306, 1313; Pub. L. 99–166, title I, § 104, Dec. 3, 1985, 99 Stat. 944; Pub. L. 99–272, title XIX, §§ 19011(b), 19012(c)(1), (2), Apr. 7, 1986, 100 Stat. 375, 382; Pub. L. 99–576, title II, §§ 202, 231(b), 237(b)(2), title VII, § 702(5), Oct. 28, 1986, 100 Stat. 3254, 3263, 3267, 3301; Pub. L. 100–322, title I, §§ 101(a)–(c), (d)(2), (e)(1), (2), (f), (g)(1), (h)(1), 106, May 20, 1988, 102 Stat. 489–492, 494; Pub. L. 101–508, title VIII, § 8013(b), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–25, title III, § 334(a), (c), Apr. 6, 1991, 105 Stat. 88, 89; renumbered § 1712 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), (5), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, §§ 301, 302, Aug. 14, 1991, 105 Stat. 416; Pub. L. 102–585, title I, § 103, Nov. 4, 1992, 106 Stat. 4946; Pub. L. 103–210, § 1(b), Dec. 20, 1993, 107 Stat. 2496; Pub. L. 103–446, title XII, § 1201(d)(3), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 103–452, title I, §§ 101(e), 103(a)(2), Nov. 2, 1994, 108 Stat. 4784, 4786; Pub. L. 104–110, title I, § 101(a)(2), Feb. 13, 1996, 110 Stat. 768; Pub. L. 104–262, title I, § 101(b)(2)–(c)(2)(A), Oct. 9, 1996, 110 Stat. 3179; Pub. L. 106–419, title IV, § 404(a)(3), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 108–170, title I, § 101(a), Dec. 6, 2003, 117 Stat. 2043; Pub. L. 110–181, div. A, title XVII, § 1709, Jan. 28, 2008, 122 Stat. 494; Pub. L. 115–182, title I, § 144(a)(1)(A), June 6, 2018, 132 Stat. 1429; Pub. L. 116–283, div. A, title IX, § 926(a)(22), Jan. 1, 2021, 134 Stat. 3830.)
 
 **Editorial Notes**
 
@@ -8481,9 +8481,9 @@ Prior section 1712 was renumbered section 3512 of this title.
 
 2021—Subsec. (a). Pub. L. 116–283 substituted “air, or space service” for “or air service” wherever appearing.
 
-2018—Subsec. (a)(3). Pub. L. 115–182, § 144(a)(1)(A)(i), substituted “or entered an agreement” for “under clause (1), (2), or (5) of section 1703(a) of this title”.
+2018—Subsec. (a)(3). Pub. L. 115–182, § 144(a)(1)(A)(i), substituted “or entered an agreement” for “under clause (1), (2), or (5) of section 1703(a) of this title”.
 
-Subsec. (a)(4)(A). Pub. L. 115–182, § 144(a)(1)(A)(ii), struck out “under the provisions of this subsection and section 1703 of this title” after “amount for expenditures for contract dental care”.
+Subsec. (a)(4)(A). Pub. L. 115–182, § 144(a)(1)(A)(ii), struck out “under the provisions of this subsection and section 1703 of this title” after “amount for expenditures for contract dental care”.
 
 2008—Subsec. (a)(1)(B)(iii). Pub. L. 110–181 substituted “180 days after such discharge” for “90 days after such discharge”, “180 days from the date of such veteran’s subsequent discharge” for “90 days from the date of such veteran’s subsequent discharge”, and “180 days after the date of correction” for “90 days after the date of correction”.
 
@@ -8491,99 +8491,99 @@ Subsec. (a)(4)(A). Pub. L. 115–182, § 144(a)(1)(A)(ii), struck out “under
 
 2000—Subsec. (a)(4)(A). Pub. L. 106–419 substituted “this subsection” for “subsection (a) of this section (other than paragraphs (3)(B) and (3)(C) of that subsection)” after “under the provisions” in first sentence.
 
-1996—Pub. L. 104–262, § 101(c)(2)(A), substituted “Dental care; drugs and medicines for certain disabled veterans; vaccines” for “Eligibility for outpatient services” in section catchline.
+1996—Pub. L. 104–262, § 101(c)(2)(A), substituted “Dental care; drugs and medicines for certain disabled veterans; vaccines” for “Eligibility for outpatient services” in section catchline.
 
-Subsec. (a). Pub. L. 104–262, § 101(c)(1)(A), (B), redesignated subsec. (b) as (a) and struck out former subsec. (a) which required and authorized the Secretary to furnish on an ambulatory or outpatient basis medical services for certain veterans.
+Subsec. (a). Pub. L. 104–262, § 101(c)(1)(A), (B), redesignated subsec. (b) as (a) and struck out former subsec. (a) which required and authorized the Secretary to furnish on an ambulatory or outpatient basis medical services for certain veterans.
 
 Subsec. (a)(1)(D). Pub. L. 104–110 substituted “December 31, 1996” for “December 31, 1995”.
 
-Subsec. (b). Pub. L. 104–262, § 101(c)(1)(B), (C), redesignated subsec. (c) as (b) and substituted “subsection (a)” for “subsection (b) of this section”. Former subsec. (b) redesignated (a).
+Subsec. (b). Pub. L. 104–262, § 101(c)(1)(B), (C), redesignated subsec. (c) as (b) and substituted “subsection (a)” for “subsection (b) of this section”. Former subsec. (b) redesignated (a).
 
-Subsecs. (c) to (e). Pub. L. 104–262, § 101(c)(1)(B), redesignated subsecs. (d), (h), and (j) as (c), (d), and (e), respectively. Former subsec. (c) redesignated (b).
+Subsecs. (c) to (e). Pub. L. 104–262, § 101(c)(1)(B), redesignated subsecs. (d), (h), and (j) as (c), (d), and (e), respectively. Former subsec. (c) redesignated (b).
 
-Subsec. (f). Pub. L. 104–262, § 101(b)(2), redesignated subsec. (f) as subsec. (g) of section 1710 of this title.
+Subsec. (f). Pub. L. 104–262, § 101(b)(2), redesignated subsec. (f) as subsec. (g) of section 1710 of this title.
 
-Subsec. (h). Pub. L. 104–262, § 101(c)(1)(B), redesignated subsec. (h) as (d).
+Subsec. (h). Pub. L. 104–262, § 101(c)(1)(B), redesignated subsec. (h) as (d).
 
-Subsec. (i). Pub. L. 104–262, § 101(c)(1)(A), struck out subsec. (i), which required Secretary to prescribe regulations relating to the order in which medical services were to be furnished to veterans.
+Subsec. (i). Pub. L. 104–262, § 101(c)(1)(A), struck out subsec. (i), which required Secretary to prescribe regulations relating to the order in which medical services were to be furnished to veterans.
 
-Subsec. (j). Pub. L. 104–262, § 101(c)(1)(B), redesignated subsec. (j) as (e).
+Subsec. (j). Pub. L. 104–262, § 101(c)(1)(B), redesignated subsec. (j) as (e).
 
-1994—Subsec. (a)(1)(D). Pub. L. 103–452, § 103(a)(2), substituted “December 31, 1995” for “December 31, 1994”.
+1994—Subsec. (a)(1)(D). Pub. L. 103–452, § 103(a)(2), substituted “December 31, 1995” for “December 31, 1994”.
 
-Subsec. (i)(1). Pub. L. 103–452, § 101(e)(1), inserted “(A)” after “To a veteran” and inserted before period at end “, or (B) who is eligible for counseling and care and services under section 1720D of this title, for the purposes of such counseling and care and services”.
+Subsec. (i)(1). Pub. L. 103–452, § 101(e)(1), inserted “(A)” after “To a veteran” and inserted before period at end “, or (B) who is eligible for counseling and care and services under section 1720D of this title, for the purposes of such counseling and care and services”.
 
-Subsec. (i)(2). Pub. L. 103–452, § 101(e)(2), substituted “or (B)” for “, (B)” and struck out before period at end “, or (C) who is eligible for counseling under section 1720D of this title, for the purposes of such counseling”.
+Subsec. (i)(2). Pub. L. 103–452, § 101(e)(2), substituted “or (B)” for “, (B)” and struck out before period at end “, or (C) who is eligible for counseling under section 1720D of this title, for the purposes of such counseling”.
 
-Subsec. (i)(5). Pub. L. 103–446, § 1201(d)(3)(A), substituted “section 1722(a)(3)” for “section 1722(a)(1)(C)”.
+Subsec. (i)(5). Pub. L. 103–446, § 1201(d)(3)(A), substituted “section 1722(a)(3)” for “section 1722(a)(1)(C)”.
 
-Subsec. (j). Pub. L. 103–446, § 1201(d)(3)(B), substituted “Section 7316” for “Section 4116”.
+Subsec. (j). Pub. L. 103–446, § 1201(d)(3)(B), substituted “Section 7316” for “Section 4116”.
 
-1993—Subsec. (a)(1)(D). Pub. L. 103–210, § 1(b)(1), added subpar. (D).
+1993—Subsec. (a)(1)(D). Pub. L. 103–210, § 1(b)(1), added subpar. (D).
 
-Subsec. (a)(7). Pub. L. 103–210, § 1(b)(2), added par. (7).
+Subsec. (a)(7). Pub. L. 103–210, § 1(b)(2), added par. (7).
 
 1992—Subsec. (i)(2)(C). Pub. L. 102–585 added cl. (C).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 612 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 612 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (a)(1)(C). Pub. L. 102–83, § 5(c)(1), substituted “1151” for “351”.
+Subsec. (a)(1)(C). Pub. L. 102–83, § 5(c)(1), substituted “1151” for “351”.
 
-Subsec. (a)(2)(B). Pub. L. 102–83, § 5(c)(1), substituted “1710(a)” for “610(a)”, “1503” for “503”, and “1521(d)” for “521(d)”.
+Subsec. (a)(2)(B). Pub. L. 102–83, § 5(c)(1), substituted “1710(a)” for “610(a)”, “1503” for “503”, and “1521(d)” for “521(d)”.
 
-Subsec. (a)(4). Pub. L. 102–83, § 5(c)(1), substituted “1710” for “610”.
+Subsec. (a)(4). Pub. L. 102–83, § 5(c)(1), substituted “1710” for “610”.
 
-Subsec. (a)(6). Pub. L. 102–83, § 5(c)(1), substituted “1703” for “603”.
+Subsec. (a)(6). Pub. L. 102–83, § 5(c)(1), substituted “1703” for “603”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (b)(1)(B)(ii). Pub. L. 102–25, § 334(a), inserted “or, in the case of a veteran who served on active duty during the Persian Gulf War, 90 days” after “180 days”.
+Subsec. (b)(1)(B)(ii). Pub. L. 102–25, § 334(a), inserted “or, in the case of a veteran who served on active duty during the Persian Gulf War, 90 days” after “180 days”.
 
-Subsec. (b)(1)(H). Pub. L. 102–86, § 301, amended subsec. (b)(1) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by adding subpar. (H).
+Subsec. (b)(1)(H). Pub. L. 102–86, § 301, amended subsec. (b)(1) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by adding subpar. (H).
 
-Subsec. (b)(2). Pub. L. 102–25, § 334(a), inserted “or, in the case of a veteran who served on active duty during the Persian Gulf War, 90 days” after “180 days”.
+Subsec. (b)(2). Pub. L. 102–25, § 334(a), inserted “or, in the case of a veteran who served on active duty during the Persian Gulf War, 90 days” after “180 days”.
 
-Subsec. (b)(3). Pub. L. 102–86, § 302, amended subsec. (b) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by substituting “$1,000” for “$500”.
+Subsec. (b)(3). Pub. L. 102–86, § 302, amended subsec. (b) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by substituting “$1,000” for “$500”.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1703(a)” for “603(a)”.
+Pub. L. 102–83, § 5(c)(1), substituted “1703(a)” for “603(a)”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (b)(4). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (b)(4). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (b)(4)(A). Pub. L. 102–83, § 5(c)(1), substituted in two places “1703” for “603” and “1710(c)” for “610(c)”.
+Subsec. (b)(4)(A). Pub. L. 102–83, § 5(c)(1), substituted in two places “1703” for “603” and “1710(c)” for “610(c)”.
 
-Subsec. (b)(4)(B). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in introductory provisions.
+Subsec. (b)(4)(B). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in introductory provisions.
 
-Subsec. (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (f). Pub. L. 102–83, § 5(c)(1), substituted “1717” for “617” and “1710(a)(2)” for “610(a)(2)” in par. (1) and “1717” for “617” in par. (3).
+Subsec. (f). Pub. L. 102–83, § 5(c)(1), substituted “1717” for “617” and “1710(a)(2)” for “610(a)(2)” in par. (1) and “1717” for “617” in par. (3).
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in pars. (1) and (2).
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in pars. (1) and (2).
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in pars. (2) and (4).
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in pars. (2) and (4).
 
-Subsec. (h). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (h). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–25, § 334(c), substituted “a period of war” for “the Mexican border period, World War I, World War II, the Korean conflict, or the Vietnam era”.
+Pub. L. 102–25, § 334(c), substituted “a period of war” for “the Mexican border period, World War I, World War II, the Korean conflict, or the Vietnam era”.
 
-Subsec. (i). Pub. L. 102–83, § 5(c)(1), substituted “1710(e)” for “610(e)” in par. (3) and “1722(a)(1)(C)” for “622(a)(1)(C)” in par. (5).
+Subsec. (i). Pub. L. 102–83, § 5(c)(1), substituted “1710(e)” for “610(e)” in par. (3) and “1722(a)(1)(C)” for “622(a)(1)(C)” in par. (5).
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
-Subsec. (j). Pub. L. 102–83, § 4(b)(5), substituted “the Secretary of Health and Human Services” for “the Secretary” in second and third sentences.
+Subsec. (j). Pub. L. 102–83, § 4(b)(5), substituted “the Secretary of Health and Human Services” for “the Secretary” in second and third sentences.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in first sentence.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in first sentence.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-1990—Subsec. (f)(1). Pub. L. 101–508, § 8013(b)(1), substituted “section 610(a)(2)” for “section 610(a)(2)(B)”.
+1990—Subsec. (f)(1). Pub. L. 101–508, § 8013(b)(1), substituted “section 610(a)(2)” for “section 610(a)(2)(B)”.
 
-Subsec. (f)(3) to (7). Pub. L. 101–508, § 8013(b)(2), (3), redesignated pars. (5) and (7) as (3) and (4), respectively, and struck out former pars. (3), (4), and (6) which read as follows:
+Subsec. (f)(3) to (7). Pub. L. 101–508, § 8013(b)(2), (3), redesignated pars. (5) and (7) as (3) and (4), respectively, and struck out former pars. (3), (4), and (6) which read as follows:
 
 “(3) A veteran may not be required to make a payment under this subsection for services furnished under subsection (a) of this section during any 90-day period to the extent that such payment would cause the total amount paid by the veteran under this subsection for medical services furnished during that period and under section 610(f) of this title for hospital and nursing home care furnished during that period to exceed the amount of the inpatient Medicare deductible in effect on the first day of such 90-day period.
 
@@ -8591,49 +8591,49 @@ Subsec. (f)(3) to (7). Pub. L. 101–508, § 8013(b)(2), (3), redesignated par
 
 “(6) For the purposes of this subsection, the term ‘inpatient Medicare deductible’ means the amount of the inpatient hospital deductible in effect under section 1813(b) of the Social Security Act (42 U.S.C. 1395e(b)).”
 
-1988—Pub. L. 100–322, § 101(h)(1), substituted “Eligibility for outpatient services” for “Eligibility for medical treatment” in section catchline.
+1988—Pub. L. 100–322, § 101(h)(1), substituted “Eligibility for outpatient services” for “Eligibility for medical treatment” in section catchline.
 
-Subsec. (a)(1). Pub. L. 100–322, § 101(a), substituted “shall furnish on an ambulatory or outpatient basis” for “may furnish” in introductory provisions and added subpar. (C).
+Subsec. (a)(1). Pub. L. 100–322, § 101(a), substituted “shall furnish on an ambulatory or outpatient basis” for “may furnish” in introductory provisions and added subpar. (C).
 
-Subsec. (a)(2). Pub. L. 100–322, § 101(b)(1), (3), added par. (2) and struck out former par. (2) which read as follows: “Subject to subsection (k) of this section, as part of medical services furnished to a veteran under paragraph (1) of this subsection, the Administrator may furnish to the veteran such home health services as the Administrator finds to be necessary or appropriate for the effective and economical treatment of such disability (including only such improvements and structural alterations the cost of which does not exceed $2,500 (or reimbursement up to such amount) as are necessary to assure the continuation of treatment for such disability or to provide access to the home or to essential lavatory and sanitary facilities).”
+Subsec. (a)(2). Pub. L. 100–322, § 101(b)(1), (3), added par. (2) and struck out former par. (2) which read as follows: “Subject to subsection (k) of this section, as part of medical services furnished to a veteran under paragraph (1) of this subsection, the Administrator may furnish to the veteran such home health services as the Administrator finds to be necessary or appropriate for the effective and economical treatment of such disability (including only such improvements and structural alterations the cost of which does not exceed $2,500 (or reimbursement up to such amount) as are necessary to assure the continuation of treatment for such disability or to provide access to the home or to essential lavatory and sanitary facilities).”
 
-Subsec. (a)(3) to (6). Pub. L. 100–322, § 101(b)(2), (3), added pars. (3) to (5) and redesignated former par. (3) as (6).
+Subsec. (a)(3) to (6). Pub. L. 100–322, § 101(b)(2), (3), added pars. (3) to (5) and redesignated former par. (3) as (6).
 
-Subsec. (b)(1)(B)(i). Pub. L. 100–322, § 101(f)(1), substituted “at the time of the veteran’s” for “at time of”.
+Subsec. (b)(1)(B)(i). Pub. L. 100–322, § 101(f)(1), substituted “at the time of the veteran’s” for “at time of”.
 
-Subsec. (b)(1)(B)(ii). Pub. L. 100–322, § 101(f)(2), substituted “180 days” for “one hundred and eighty days”.
+Subsec. (b)(1)(B)(ii). Pub. L. 100–322, § 101(f)(2), substituted “180 days” for “one hundred and eighty days”.
 
-Subsec. (b)(1)(B)(iii). Pub. L. 100–322, § 101(f)(3), substituted “90 days” for “ninety days” in four places.
+Subsec. (b)(1)(B)(iii). Pub. L. 100–322, § 101(f)(3), substituted “90 days” for “ninety days” in four places.
 
-Subsec. (b)(1)(B)(iv). Pub. L. 100–322, § 101(f)(4), substituted “90-day” for “ninety-day”.
+Subsec. (b)(1)(B)(iv). Pub. L. 100–322, § 101(f)(4), substituted “90-day” for “ninety-day”.
 
-Subsec. (b)(1)(F). Pub. L. 100–322, §§ 101(g)(1)(A), 106, redesignated subpar. (G) as (F), substituted “90 days” for “six months”, and struck out former subpar. (F) which read as follows: “from which a veteran of the Spanish-American War or Indian wars is suffering;”.
+Subsec. (b)(1)(F). Pub. L. 100–322, §§ 101(g)(1)(A), 106, redesignated subpar. (G) as (F), substituted “90 days” for “six months”, and struck out former subpar. (F) which read as follows: “from which a veteran of the Spanish-American War or Indian wars is suffering;”.
 
-Subsec. (b)(1)(G), (H). Pub. L. 100–322, § 101(g)(1)(A), redesignated subpar. (H) as (G). Former subpar. (G) redesignated (F).
+Subsec. (b)(1)(G), (H). Pub. L. 100–322, § 101(g)(1)(A), redesignated subpar. (H) as (G). Former subpar. (G) redesignated (F).
 
-Subsec. (b)(4)(A). Pub. L. 100–322, § 101(e)(2)(A), substituted “subsection (a) of this section (other than paragraphs (3)(B) and (3)(C) of that subsection)” for “subsections (a) and (f) of this section”.
+Subsec. (b)(4)(A). Pub. L. 100–322, § 101(e)(2)(A), substituted “subsection (a) of this section (other than paragraphs (3)(B) and (3)(C) of that subsection)” for “subsections (a) and (f) of this section”.
 
-Subsec. (e). Pub. L. 100–322, § 101(g)(1)(B), struck out subsec. (e) which read as follows: “Any disability of a veteran of the Spanish-American War or Indian Wars, upon application for the benefits of this section or outpatient medical services under section 624 of this title, shall be considered for the purposes thereof to be a service-connected disability incurred or aggravated in a period of war.”
+Subsec. (e). Pub. L. 100–322, § 101(g)(1)(B), struck out subsec. (e) which read as follows: “Any disability of a veteran of the Spanish-American War or Indian Wars, upon application for the benefits of this section or outpatient medical services under section 624 of this title, shall be considered for the purposes thereof to be a service-connected disability incurred or aggravated in a period of war.”
 
-Subsec. (f)(1). Pub. L. 100–322, § 101(e)(1)(A)–(C), redesignated par. (4)(A) as par. (1), substituted “under subsection (a) of this section (including home health services under section 617 of this title)” for “under this subsection (including home health services under paragraph (2) of this subsection)” and “paragraph (2) of this subsection” for “subparagraph (B) of this paragraph”, and struck out former par. (1) which read as follows: “Except as provided in paragraph (4) of this subsection, the Administrator may furnish medical services for any disability on an outpatient or ambulatory basis—
+Subsec. (f)(1). Pub. L. 100–322, § 101(e)(1)(A)–(C), redesignated par. (4)(A) as par. (1), substituted “under subsection (a) of this section (including home health services under section 617 of this title)” for “under this subsection (including home health services under paragraph (2) of this subsection)” and “paragraph (2) of this subsection” for “subparagraph (B) of this paragraph”, and struck out former par. (1) which read as follows: “Except as provided in paragraph (4) of this subsection, the Administrator may furnish medical services for any disability on an outpatient or ambulatory basis—
 
 “(A) to any veteran eligible for hospital care under section 610 of this title (i) if such services are reasonably necessary in preparation for, or (to the extent that facilities are available) to obviate the need of, hospital admission, or (ii) if such a veteran has been furnished hospital care, nursing home care, or domiciliary care and such medical services are reasonably necessary to complete treatment incident to such care (for a period not in excess of twelve months after discharge from such treatment, except where the Administrator finds that a longer period is required by virtue of the disability being treated); and
 
 “(B) to any veteran who is a former prisoner of war.”
 
-Subsec. (f)(2). Pub. L. 100–322, § 101(e)(1)(D)–(F), redesignated par. (4)(B) as (2), substituted “subsection (a) of this section and who is required under paragraph (1) of this subsection” for “this subsection and who is required under subparagraph (A) of this paragraph”, and struck out former par. (2) which read as follows: “Subject to subsection (k) of this section, as part of medical services furnished to a veteran under paragraph (1) of this subsection, the Administrator may furnish to the veteran such home health services as the Administrator determines to be necessary or appropriate for the effective and economical treatment of a disability of a veteran (including only such improvements and structural alterations the cost of which does not exceed $600 (or reimbursement up to such amount) as are necessary to assure the continuation of treatment or provide access to the home or to essential lavatory and sanitary facilities).”
+Subsec. (f)(2). Pub. L. 100–322, § 101(e)(1)(D)–(F), redesignated par. (4)(B) as (2), substituted “subsection (a) of this section and who is required under paragraph (1) of this subsection” for “this subsection and who is required under subparagraph (A) of this paragraph”, and struck out former par. (2) which read as follows: “Subject to subsection (k) of this section, as part of medical services furnished to a veteran under paragraph (1) of this subsection, the Administrator may furnish to the veteran such home health services as the Administrator determines to be necessary or appropriate for the effective and economical treatment of a disability of a veteran (including only such improvements and structural alterations the cost of which does not exceed $600 (or reimbursement up to such amount) as are necessary to assure the continuation of treatment or provide access to the home or to essential lavatory and sanitary facilities).”
 
-Subsec. (f)(3). Pub. L. 100–322, § 101(e)(1)(A), (D), (E), (G), redesignated par. (4)(C) as (3), substituted “under this subsection for services furnished under subsection (a) of this section” for “under this paragraph for services furnished under this subsection” and “veteran under this subsection” for “veteran under this paragraph”, and struck out former par. (3) which read as follows: “In addition to furnishing medical services under this subsection through Veterans’ Administration facilities, the Administrator may furnish such services in accordance with section 603 of this title.”
+Subsec. (f)(3). Pub. L. 100–322, § 101(e)(1)(A), (D), (E), (G), redesignated par. (4)(C) as (3), substituted “under this subsection for services furnished under subsection (a) of this section” for “under this paragraph for services furnished under this subsection” and “veteran under this subsection” for “veteran under this paragraph”, and struck out former par. (3) which read as follows: “In addition to furnishing medical services under this subsection through Veterans’ Administration facilities, the Administrator may furnish such services in accordance with section 603 of this title.”
 
-Subsec. (f)(4). Pub. L. 100–322, § 101(e)(1)(D), redesignated par. (4)(D) as (4).
+Subsec. (f)(4). Pub. L. 100–322, § 101(e)(1)(D), redesignated par. (4)(D) as (4).
 
-Subsec. (f)(5). Pub. L. 100–322, § 101(e)(1)(D), (H), redesignated par. (4)(E) as (5) and substituted “under section 617 of this title” for “under this subsection”.
+Subsec. (f)(5). Pub. L. 100–322, § 101(e)(1)(D), (H), redesignated par. (4)(E) as (5) and substituted “under section 617 of this title” for “under this subsection”.
 
-Subsec. (f)(6). Pub. L. 100–322, § 101(e)(1)(D), (E), redesignated par. (4)(F) as (6) and substituted “this subsection” for “this paragraph”.
+Subsec. (f)(6). Pub. L. 100–322, § 101(e)(1)(D), (E), redesignated par. (4)(F) as (6) and substituted “this subsection” for “this paragraph”.
 
-Subsec. (f)(7). Pub. L. 100–322, § 101(e)(1)(D), (E), redesignated par. (4)(G) as (7) and substituted “this subsection” for “this paragraph”.
+Subsec. (f)(7). Pub. L. 100–322, § 101(e)(1)(D), (E), redesignated par. (4)(G) as (7) and substituted “this subsection” for “this paragraph”.
 
-Subsec. (g). Pub. L. 100–322, § 101(e)(2)(B), struck out subsec. (g) which read as follows:
+Subsec. (g). Pub. L. 100–322, § 101(e)(2)(B), struck out subsec. (g) which read as follows:
 
 “(1) The Administrator may furnish medical services which the Administrator determines are needed to a veteran—
 
@@ -8645,7 +8645,7 @@ Subsec. (g). Pub. L. 100–322, § 101(e)(2)(B), struck out subsec. (g) which 
 
 “(3) In addition to furnishing medical services under this subsection through Veterans’ Administration facilities, the Administrator may furnish such services in accordance with section 603 of this title.”
 
-Subsec. (i). Pub. L. 100–322, § 101(c), added pars. (1) to (5) and struck out former pars. (1) to (6) which read as follows:
+Subsec. (i). Pub. L. 100–322, § 101(c), added pars. (1) to (5) and struck out former pars. (1) to (6) which read as follows:
 
 “(1) To any veteran for a service-connected disability.
 
@@ -8659,97 +8659,97 @@ Subsec. (i). Pub. L. 100–322, § 101(c), added pars. (1) to (5) and struck o
 
 “(6) To any veteran who is in receipt of pension under section 521 of this title.”
 
-Subsec. (k). Pub. L. 100–322, § 101(d)(2), transferred subsec. (k) to section 617(a)(3) of this title.
+Subsec. (k). Pub. L. 100–322, § 101(d)(2), transferred subsec. (k) to section 617(a)(3) of this title.
 
-1986—Subsec. (a). Pub. L. 99–272, § 19011(b)(1), substituted par. (1) for “Except as provided in subsection (b) of this section, the Administrator, within the limits of Veterans’ Administration facilities, may furnish such medical services as the Administrator finds to be reasonably necessary to any veteran for a service-connected disability.”, designated second sentence of existing provision as par. (2), substituted “As part of medical services furnished to a veteran under paragraph (1) of this subsection, the Administrator may furnish to the veteran” for “The Administrator may also furnish to any such veteran”, struck out provision that in the case of a veteran discharged or released from active military, naval, or air service for a disability incurred or aggravated in the line of duty, services may be provided for that disability, whether or not service-connected for the purposes of this chapter, and added par. (3).
+1986—Subsec. (a). Pub. L. 99–272, § 19011(b)(1), substituted par. (1) for “Except as provided in subsection (b) of this section, the Administrator, within the limits of Veterans’ Administration facilities, may furnish such medical services as the Administrator finds to be reasonably necessary to any veteran for a service-connected disability.”, designated second sentence of existing provision as par. (2), substituted “As part of medical services furnished to a veteran under paragraph (1) of this subsection, the Administrator may furnish to the veteran” for “The Administrator may also furnish to any such veteran”, struck out provision that in the case of a veteran discharged or released from active military, naval, or air service for a disability incurred or aggravated in the line of duty, services may be provided for that disability, whether or not service-connected for the purposes of this chapter, and added par. (3).
 
-Subsec. (a)(2). Pub. L. 99–576, § 202(1), substituted “Subject to subsection (k) of this section, as” for “As”.
+Subsec. (a)(2). Pub. L. 99–576, § 202(1), substituted “Subject to subsection (k) of this section, as” for “As”.
 
-Subsec. (b)(3). Pub. L. 99–272, § 19012(c)(1), substituted “clause (1), (2), or (5) of section 603(a)” for “clause (i), (ii), or (v) of section 601(4)(C)”.
+Subsec. (b)(3). Pub. L. 99–272, § 19012(c)(1), substituted “clause (1), (2), or (5) of section 603(a)” for “clause (i), (ii), or (v) of section 601(4)(C)”.
 
-Subsec. (b)(4). Pub. L. 99–576, § 231(b), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B) of this paragraph, in” for “In”, and added subpar. (B).
+Subsec. (b)(4). Pub. L. 99–576, § 231(b), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B) of this paragraph, in” for “In”, and added subpar. (B).
 
-Pub. L. 99–272, § 19012(c)(2), substituted “section 603” for “section 601(4)(C)” in two places.
+Pub. L. 99–272, § 19012(c)(2), substituted “section 603” for “section 601(4)(C)” in two places.
 
-Subsec. (f). Pub. L. 99–272, § 19011(b)(2), designated existing first sentence as par. (1), substituted “Except as provided in paragraph (4) of this subsection, the Administrator may” for “The Administrator, within the limits of Veterans’ Administration facilities, may”, redesignated former cl. (1) as cl. (A) and subcls. (A) and (B) as subcls. (i) and (ii), inserted “and” after “being treated);”, struck out par. (2), which related to any veteran who had a service-connected disability rated at 50 percent or more, and redesignated cl. (3) as cl. (B); designated existing second sentence as par. (2) and substituted “As part of medical services furnished to a veteran under paragraph (1) of this subsection, the Administrator may furnish to the veteran” for “The Administrator may also furnish to any such veteran”; struck out provision authorizing the Administrator to furnish outpatient dental services and treatment, and related appliances, to any veteran described in subsec. (b)(1)(G) of this section; and added pars. (3) and (4).
+Subsec. (f). Pub. L. 99–272, § 19011(b)(2), designated existing first sentence as par. (1), substituted “Except as provided in paragraph (4) of this subsection, the Administrator may” for “The Administrator, within the limits of Veterans’ Administration facilities, may”, redesignated former cl. (1) as cl. (A) and subcls. (A) and (B) as subcls. (i) and (ii), inserted “and” after “being treated);”, struck out par. (2), which related to any veteran who had a service-connected disability rated at 50 percent or more, and redesignated cl. (3) as cl. (B); designated existing second sentence as par. (2) and substituted “As part of medical services furnished to a veteran under paragraph (1) of this subsection, the Administrator may furnish to the veteran” for “The Administrator may also furnish to any such veteran”; struck out provision authorizing the Administrator to furnish outpatient dental services and treatment, and related appliances, to any veteran described in subsec. (b)(1)(G) of this section; and added pars. (3) and (4).
 
-Subsec. (f)(2). Pub. L. 99–576, § 202(1), substituted “Subject to subsection (k) of this section, as” for “As”.
+Subsec. (f)(2). Pub. L. 99–576, § 202(1), substituted “Subject to subsection (k) of this section, as” for “As”.
 
-Subsec. (f)(4)(D) to (G). Pub. L. 99–576, § 237(b)(2), added subpar. (D) and redesignated former subpars. (D) to (F) as (E) to (G), respectively.
+Subsec. (f)(4)(D) to (G). Pub. L. 99–576, § 237(b)(2), added subpar. (D) and redesignated former subpars. (D) to (F) as (E) to (G), respectively.
 
-Subsec. (g). Pub. L. 99–272, § 19011(b)(3), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “In the case of any veteran who is a veteran of the Mexican border period or of World War I or who is in receipt of increased pension or additional compensation or allowance based on the need of regular aid and attendance or by reason of being permanently housebound, or who, but for the receipt of retired pay, would be in receipt of such pension, compensation, or allowance, the Administrator, within the limits of Veterans’ Administration facilities, may furnish the veteran such medical services as the Administrator finds to be reasonably necessary. The Administrator may also furnish to any such veteran home health services under the terms and conditions set forth in subsection (f) of this section.”
+Subsec. (g). Pub. L. 99–272, § 19011(b)(3), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “In the case of any veteran who is a veteran of the Mexican border period or of World War I or who is in receipt of increased pension or additional compensation or allowance based on the need of regular aid and attendance or by reason of being permanently housebound, or who, but for the receipt of retired pay, would be in receipt of such pension, compensation, or allowance, the Administrator, within the limits of Veterans’ Administration facilities, may furnish the veteran such medical services as the Administrator finds to be reasonably necessary. The Administrator may also furnish to any such veteran home health services under the terms and conditions set forth in subsection (f) of this section.”
 
-Subsec. (i)(6). Pub. L. 99–272, § 19011(b)(4), added par. (6).
+Subsec. (i)(6). Pub. L. 99–272, § 19011(b)(4), added par. (6).
 
-Subsec. (j). Pub. L. 99–576, § 702(5), substituted “programs under other provisions” for “programs pursuant to other provisions”, “veterans who voluntarily request such immunizations” for “veterans (voluntarily requesting such immunizations)”, “facility. Any such immunization shall be made using” for “facility, utilizing”, “Administration. For such purpose, notwithstanding any other provision of law, the Secretary may provide” for “Administration, and for such purpose, notwithstanding any other provision of law, the Secretary is authorized to provide”, and “cost. Section 4116” for “cost and the provisions of section 4116”.
+Subsec. (j). Pub. L. 99–576, § 702(5), substituted “programs under other provisions” for “programs pursuant to other provisions”, “veterans who voluntarily request such immunizations” for “veterans (voluntarily requesting such immunizations)”, “facility. Any such immunization shall be made using” for “facility, utilizing”, “Administration. For such purpose, notwithstanding any other provision of law, the Secretary may provide” for “Administration, and for such purpose, notwithstanding any other provision of law, the Secretary is authorized to provide”, and “cost. Section 4116” for “cost and the provisions of section 4116”.
 
-Subsec. (k). Pub. L. 99–576, § 202(2), added subsec. (k).
+Subsec. (k). Pub. L. 99–576, § 202(2), added subsec. (k).
 
-1985—Subsec. (f)(1). Pub. L. 99–166 substituted “if” for “where” after “(A)” and “(B)”, inserted “, nursing home care, or domiciliary care”, struck out “hospital” after “treatment incident to such”, and substituted “from such treatment” for “from in-hospital treatment”.
+1985—Subsec. (f)(1). Pub. L. 99–166 substituted “if” for “where” after “(A)” and “(B)”, inserted “, nursing home care, or domiciliary care”, struck out “hospital” after “treatment incident to such”, and substituted “from such treatment” for “from in-hospital treatment”.
 
-1982—Subsec. (a). Pub. L. 97–295, § 4(17)(A), (B), inserted “of this section” after “subsection (b)”, and substituted “facilities)” for “facilities” after “sanitary”.
+1982—Subsec. (a). Pub. L. 97–295, § 4(17)(A), (B), inserted “of this section” after “subsection (b)”, and substituted “facilities)” for “facilities” after “sanitary”.
 
-Subsec. (f)(2). Pub. L. 97–295, § 4(17)(C), substituted “percent” for “per centum”.
+Subsec. (f)(2). Pub. L. 97–295, § 4(17)(C), substituted “percent” for “per centum”.
 
-Subsec. (h). Pub. L. 97–295, § 4(17)(D), inserted “of this title” after “chapter 11”.
+Subsec. (h). Pub. L. 97–295, § 4(17)(D), inserted “of this title” after “chapter 11”.
 
-Subsec. (i). Pub. L. 97–295, § 4(17)(E), substituted “The” for “Not later than ninety days after the effective date of this subsection, the” at the beginning.
+Subsec. (i). Pub. L. 97–295, § 4(17)(E), substituted “The” for “Not later than ninety days after the effective date of this subsection, the” at the beginning.
 
-Subsec. (j). Pub. L. 97–295, § 4(95)(A), substituted “Health and Human Services” for “Health, Education, and Welfare”.
+Subsec. (j). Pub. L. 97–295, § 4(95)(A), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-1981—Subsec. (b). Pub. L. 97–72, § 103(a), divided existing provisions into pars. (1), (2), (3), and (4), redesignated cls. (1) through (8) as subpars. (A) through (H) of par. (1) as redesignated, made internal substitutions reflecting new number and letter designations, and, in par. (1)(B) as redesignated, inserted provisions set out in par. (1)(B)(ii), (iii)(I), and (iv).
+1981—Subsec. (b). Pub. L. 97–72, § 103(a), divided existing provisions into pars. (1), (2), (3), and (4), redesignated cls. (1) through (8) as subpars. (A) through (H) of par. (1) as redesignated, made internal substitutions reflecting new number and letter designations, and, in par. (1)(B) as redesignated, inserted provisions set out in par. (1)(B)(ii), (iii)(I), and (iv).
 
-Pub. L. 97–37, § 3(b), in cl. (7) substituted “from which a veteran who is a former prisoner of war and who was detained or interned for a period of not less than six months is suffering” for “from which any veteran of World War I, World War II, the Korean conflict, or the Vietnam era who was held as a prisoner of war for a period of not less than six months is suffering”.
+Pub. L. 97–37, § 3(b), in cl. (7) substituted “from which a veteran who is a former prisoner of war and who was detained or interned for a period of not less than six months is suffering” for “from which any veteran of World War I, World War II, the Korean conflict, or the Vietnam era who was held as a prisoner of war for a period of not less than six months is suffering”.
 
 Pub. L. 97–35 inserted provisions requiring the Secretary concerned to furnish a discharged or released member of the Armed Forces a written explanation concerning the provisions of cl. (2) of this subsection, and in cl. (2) added subcl. (B) and (D), and redesignated former subcl. (B) as (C) and, as so redesignated, substituted “90 days” for “one year” in two places.
 
-Subsec. (c). Pub. L. 97–72, § 103(b)(1), substituted “paragraph (1)(B)” for “clause (2)”.
+Subsec. (c). Pub. L. 97–72, § 103(b)(1), substituted “paragraph (1)(B)” for “clause (2)”.
 
-Subsec. (f). Pub. L. 97–72, § 103(b)(2), substituted “clause (G) of subsection (b)(1)” for “subsection (b)(7)”.
+Subsec. (f). Pub. L. 97–72, § 103(b)(2), substituted “clause (G) of subsection (b)(1)” for “subsection (b)(7)”.
 
-Subsec. (f)(3). Pub. L. 97–37, § 5(b), added cl. (3).
+Subsec. (f)(3). Pub. L. 97–37, § 5(b), added cl. (3).
 
-Subsec. (i)(4). Pub. L. 97–72, § 102(b), designated existing provisions relating to former prisoners of war as cl. (A) and added cl. (B) relating to veterans who are eligible for care under section 610(a)(5) of this title.
+Subsec. (i)(4). Pub. L. 97–72, § 102(b), designated existing provisions relating to former prisoners of war as cl. (A) and added cl. (B) relating to veterans who are eligible for care under section 610(a)(5) of this title.
 
-Pub. L. 97–37, § 5(c), added cl. (4). Former cl. (4) redesignated (5).
+Pub. L. 97–37, § 5(c), added cl. (4). Former cl. (4) redesignated (5).
 
-Subsec. (i)(5). Pub. L. 97–37, § 5(c)(1), redesignated former cl. (4) as (5).
+Subsec. (i)(5). Pub. L. 97–37, § 5(c)(1), redesignated former cl. (4) as (5).
 
-1979—Subsec. (b). Pub. L. 96–151, § 203, inserted provisions relating to the total amount the Administrator may expend.
+1979—Subsec. (b). Pub. L. 96–151, § 203, inserted provisions relating to the total amount the Administrator may expend.
 
-Pub. L. 96–22, § 102(b)(1), added pars. (7) and (8) and inserted provisions following par. (8).
+Pub. L. 96–22, § 102(b)(1), added pars. (7) and (8) and inserted provisions following par. (8).
 
-Subsec. (f). Pub. L. 96–22, § 102(b)(2), authorized the Administrator to furnish outpatient dental services and treatment, and related appliances, to any veteran described in subsec. (b)(7) of this section.
+Subsec. (f). Pub. L. 96–22, § 102(b)(2), authorized the Administrator to furnish outpatient dental services and treatment, and related appliances, to any veteran described in subsec. (b)(7) of this section.
 
-Subsec. (g). Pub. L. 96–151, § 204, inserted provisions relating to particular applicability to Mexican border period or World War I veterans, and provisions relating to furnishing by the Administrator of home health care services.
+Subsec. (g). Pub. L. 96–151, § 204, inserted provisions relating to particular applicability to Mexican border period or World War I veterans, and provisions relating to furnishing by the Administrator of home health care services.
 
-Subsec. (i)(3). Pub. L. 96–22, § 101, inserted “(including any veteran being examined to determine the existence or rating of a service-connected disability)” after “with a disability rated as service connected”.
+Subsec. (i)(3). Pub. L. 96–22, § 101, inserted “(including any veteran being examined to determine the existence or rating of a service-connected disability)” after “with a disability rated as service connected”.
 
 1978—Subsec. (h). Pub. L. 95–588 substituted “$1,000” for “$500”.
 
-1976—Subsec. (a). Pub. L. 94–581, §§ 103(a)(1), 210(a)(3)(A), inserted provisions which authorized the Administrator to furnish such home health services as the Administrator finds to be necessary or appropriate for the effective and economical treatment of the disability (including only such improvements and structural alterations the cost of which does not exceed $2,500 (or reimbursement up to such amount) as are necessary to assure the continuation of treatment for the disability or to provide access to the home or to essential lavatory and sanitary facilities), and in the existing provisions substituted “as the Administrator finds” for “as he finds”.
+1976—Subsec. (a). Pub. L. 94–581, §§ 103(a)(1), 210(a)(3)(A), inserted provisions which authorized the Administrator to furnish such home health services as the Administrator finds to be necessary or appropriate for the effective and economical treatment of the disability (including only such improvements and structural alterations the cost of which does not exceed $2,500 (or reimbursement up to such amount) as are necessary to assure the continuation of treatment for the disability or to provide access to the home or to essential lavatory and sanitary facilities), and in the existing provisions substituted “as the Administrator finds” for “as he finds”.
 
-Subsec. (b). Pub. L. 94–581, § 103(a)(2), added par. (5) and redesignated former par. (5) as (6).
+Subsec. (b). Pub. L. 94–581, § 103(a)(2), added par. (5) and redesignated former par. (5) as (6).
 
-Subsec. (d). Pub. L. 94–581, § 210(a)(3)(B), substituted “procured by the Administrator” for “procured by him” and “whichever the Administrator determines” for “whichever he determines”.
+Subsec. (d). Pub. L. 94–581, § 210(a)(3)(B), substituted “procured by the Administrator” for “procured by him” and “whichever the Administrator determines” for “whichever he determines”.
 
-Subsec. (e). Pub. L. 94–581, § 202(f)(1), substituted “Indian Wars” for “Indian wars”.
+Subsec. (e). Pub. L. 94–581, § 202(f)(1), substituted “Indian Wars” for “Indian wars”.
 
-Subsec. (f). Pub. L. 94–581, §§ 103(a)(3)–(7), 202(f)(2), substituted “within the limits of Veterans’ Administration facilities, may furnish” for “may also furnish” in provisions preceding par. (1), substituted “or (to the extent that facilities are available) to obviate” for “or to obviate” in cl. (A) of par. (1), substituted “furnished” for “granted” in existing provisions of cl. (B) of par. (1) and inserted “(for a period not in excess of twelve months after discharge from in-hospital treatment, except where the Administrator finds that a longer period is required by virtue of the disability being treated)” at end, substituted “50 per centum” for “80 per centum” in par. (2), and inserted, after par. (2), provision authorizing the Administrator to furnish to the veteran such home health services as the Administrator determines to be necessary or appropriate for the effective and economical treatment of a disability of the veteran (including only such improvements and structural alterations the cost of which does not exceed $600 (or reimbursement up to such amount) as are necessary to assure the continuation of treatment or provide access to the home or to essential lavatory and sanitary facilities).
+Subsec. (f). Pub. L. 94–581, §§ 103(a)(3)–(7), 202(f)(2), substituted “within the limits of Veterans’ Administration facilities, may furnish” for “may also furnish” in provisions preceding par. (1), substituted “or (to the extent that facilities are available) to obviate” for “or to obviate” in cl. (A) of par. (1), substituted “furnished” for “granted” in existing provisions of cl. (B) of par. (1) and inserted “(for a period not in excess of twelve months after discharge from in-hospital treatment, except where the Administrator finds that a longer period is required by virtue of the disability being treated)” at end, substituted “50 per centum” for “80 per centum” in par. (2), and inserted, after par. (2), provision authorizing the Administrator to furnish to the veteran such home health services as the Administrator determines to be necessary or appropriate for the effective and economical treatment of a disability of the veteran (including only such improvements and structural alterations the cost of which does not exceed $600 (or reimbursement up to such amount) as are necessary to assure the continuation of treatment or provide access to the home or to essential lavatory and sanitary facilities).
 
-Subsec. (g). Pub. L. 94–581, §§ 202(f)(3), 210(a)(3)(C), inserted “, within the limits of Veterans’ Administration facilities,” after “the Administrator” and substituted “as the Administrator finds” for “as he finds”.
+Subsec. (g). Pub. L. 94–581, §§ 202(f)(3), 210(a)(3)(C), inserted “, within the limits of Veterans’ Administration facilities,” after “the Administrator” and substituted “as the Administrator finds” for “as he finds”.
 
-Subsec. (h). Pub. L. 94–581, § 210(a)(3)(D), substituted “such veteran’s annual income is greater” for “his annual income is greater” and “such veteran’s annual income does not exceed” for “his annual income does not exceed”.
+Subsec. (h). Pub. L. 94–581, § 210(a)(3)(D), substituted “such veteran’s annual income is greater” for “his annual income is greater” and “such veteran’s annual income does not exceed” for “his annual income does not exceed”.
 
-Subsecs. (i), (j). Pub. L. 94–581, § 103(a)(8), added subsecs. (i) and (j).
+Subsecs. (i), (j). Pub. L. 94–581, § 103(a)(8), added subsecs. (i) and (j).
 
 1973—Subsec. (f). Pub. L. 93–82 substituted provisions relating to the furnishing of medical services for any disability on an outpatient or ambulatory basis to veterans eligible for hospital care where such services are necessary in preparation for, or to obviate the need of, hospital admission, or where such veteran has been granted hospital care and such medical services are reasonably necessary to complete treatment incident to such hospital care and to veterans who have a service-connected disability rated at 80 per centum or more for provisions relating to the furnishing of medical services for a non-service connected disability where such care is reasonably necessary in preparation for admission of a veteran who has been determined to need hospital care and who has been scheduled for admission, where a veteran has been granted hospital care, and outpatient care is reasonably necessary to complete treatment incident to such hospital care, and where a veteran of any war has a total disability permanent in nature resulting from a service-connected disability.
 
-1970—Subsec. (g). Pub. L. 91–500, § 2, extended the authority of the Administrator to furnish medical services as he finds necessary to veterans permanently housebound or receiving pension or compensation based on need of regular aid and attendance and struck out conditions limiting such medical care to veterans hospitalized or suffering from one or more of the six specific conditions or diseases enumerated.
+1970—Subsec. (g). Pub. L. 91–500, § 2, extended the authority of the Administrator to furnish medical services as he finds necessary to veterans permanently housebound or receiving pension or compensation based on need of regular aid and attendance and struck out conditions limiting such medical care to veterans hospitalized or suffering from one or more of the six specific conditions or diseases enumerated.
 
 Subsec. (h). Pub. L. 91–588 inserted reference to Mexican border period and authorized the Administrator to continue furnishing drugs and medicine so ordered by any veteran in need of regular aid and attendance whose pension payments have been discontinued solely because his annual income is greater than the applicable maximum annual income limitation, but only so long as his annual income does not exceed such maximum annual income limitation by more than $500.
 
-Pub. L. 91–500, § 3, authorized furnishing of drugs and medicines to veterans receiving additional compensation or allowance or increased pension by reason of being “permanently housebound”.
+Pub. L. 91–500, § 3, authorized furnishing of drugs and medicines to veterans receiving additional compensation or allowance or increased pension by reason of being “permanently housebound”.
 
 1969—Subsec. (f)(3). Pub. L. 91–102 added par. (3).
 
@@ -8771,7 +8771,7 @@ Subsec. (h). Pub. L. 88–664 added subsec. (h).
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–182, title I, § 144(b), June 6, 2018, 132 Stat. 1430, provided that: “The amendments made by subsection (a) [amending this section and sections 1712A and 2303 of this title and section 1395cc of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 1117 of this title] shall take effect on the date described in section 101(b) [June 6, 2019, see note set out under section 1703 of this title].”
+Pub. L. 115–182, title I, § 144(b), June 6, 2018, 132 Stat. 1430, provided that: “The amendments made by subsection (a) [amending this section and sections 1712A and 2303 of this title and section 1395cc of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 1117 of this title] shall take effect on the date described in section 101(b) [June 6, 2019, see note set out under section 1703 of this title].”
 
 **Effective Date of 1993 Amendment**
 
@@ -8799,7 +8799,7 @@ Amendment by section 19011(b) of Pub. L. 99–272 applicable to hospital care, n
 
 Amendment by section 5(b), (c) of Pub. L. 97–37 effective Oct. 1, 1981, see section 5(d) of Pub. L. 97–37, set out as a note under section 1710 of this title.
 
-Pub. L. 97–35, title XX, § 2002(b), Aug. 13, 1981, 95 Stat. 782, provided that:
+Pub. L. 97–35, title XX, § 2002(b), Aug. 13, 1981, 95 Stat. 782, provided that:
 
 > **“(b)**
 
@@ -8843,7 +8843,7 @@ Provisions of subsec. (a) of this section, as in effect on Oct. 8, 1996, to cont
 
 **Pilot Program to Furnish Dental Care From the Department of Veterans Affairs to Certain Veterans Diagnosed With Ischemic Heart Disease**
 
-Pub. L. 118–210, title I, § 144, Jan. 2, 2025, 138 Stat. 2748, provided that:
+Pub. L. 118–210, title I, § 144, Jan. 2, 2025, 138 Stat. 2748, provided that:
 
 > **“(a) In General.—** Beginning not later than one year after the date of the enactment of this Act [Jan. 2, 2025], the Secretary of Veterans Affairs shall carry out a two-year pilot program (in this section referred to as the ‘pilot program’) under which the Secretary shall furnish covered care to covered veterans through means that include the use of community care.
 
@@ -8965,7 +8965,7 @@ Pub. L. 118–210, title I, § 144, Jan. 2, 2025, 138 Stat. 2748, provided tha
 
 **Pilot Program on Provision of Dental Insurance Plans to Veterans and Survivors and Dependents of Veterans**
 
-Pub. L. 111–163, title V, § 510, May 5, 2010, 124 Stat. 1162, required the Secretary of Veterans Affairs to carry out a pilot program to assess the feasibility and advisability of providing a dental insurance plan to certain veterans and survivors and dependents of veterans, prior to repeal by Pub. L. 114–218, § 2(b)(1), July 29, 2016, 130 Stat. 843. See section 1712C of this title.
+Pub. L. 111–163, title V, § 510, May 5, 2010, 124 Stat. 1162, required the Secretary of Veterans Affairs to carry out a pilot program to assess the feasibility and advisability of providing a dental insurance plan to certain veterans and survivors and dependents of veterans, prior to repeal by Pub. L. 114–218, § 2(b)(1), July 29, 2016, 130 Stat. 843. See section 1712C of this title.
 
 **Ratification of Actions During Period of Expired Authority**
 
@@ -8973,25 +8973,25 @@ Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under pr
 
 **Disability of Veterans of Spanish-American War**
 
-Pub. L. 100–322, title I, § 101(g)(2), May 20, 1988, 102 Stat. 492, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “Any disability of a veteran of the Spanish-American War, upon application for outpatient medical services under section 1712 or 1724 of title 38, United States Code, shall be considered for the purposes thereof to be a service-connected disabilty [sic] and, for the purposes of section 1712(b) of such title, to be compensable in degree.”
+Pub. L. 100–322, title I, § 101(g)(2), May 20, 1988, 102 Stat. 492, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “Any disability of a veteran of the Spanish-American War, upon application for outpatient medical services under section 1712 or 1724 of title 38, United States Code, shall be considered for the purposes thereof to be a service-connected disabilty [sic] and, for the purposes of section 1712(b) of such title, to be compensable in degree.”
 
 **Pilot Program of Mobile Health-Care Clinics**
 
-Pub. L. 100–322, title I, § 113, May 20, 1988, 102 Stat. 499, authorized Administrator of Veterans’ Affairs to conduct a pilot program under which eligible veterans residing in areas which are at least 100 miles from the nearest Veterans’ Administration health-care facility are furnished health-care services at a location convenient to their residences by Veterans’ Administration employees furnishing such services through the use of appropriately equipped mobile health-care clinics, provided that the pilot program be conducted for a period of not less than 24 months, and required Administrator to submit to Committees on Veterans’ Affairs of Senate and House of Representatives interim and final reports on the project.
+Pub. L. 100–322, title I, § 113, May 20, 1988, 102 Stat. 499, authorized Administrator of Veterans’ Affairs to conduct a pilot program under which eligible veterans residing in areas which are at least 100 miles from the nearest Veterans’ Administration health-care facility are furnished health-care services at a location convenient to their residences by Veterans’ Administration employees furnishing such services through the use of appropriately equipped mobile health-care clinics, provided that the pilot program be conducted for a period of not less than 24 months, and required Administrator to submit to Committees on Veterans’ Affairs of Senate and House of Representatives interim and final reports on the project.
 
 **Pilot Program of Community-Based Residential Care for Homeless Chronically Mentally Ill and Other Veterans**
 
-Pub. L. 100–322, title I, § 115(a)–(f), May 20, 1988, 102 Stat. 501, as amended by Pub. L. 101–237, title II, § 201(c), Dec. 18, 1989, 103 Stat. 2066; Pub. L. 102–83, §§ 5(c)(2), 6(j)(1), Aug. 6, 1991, 105 Stat. 406, 409; Pub. L. 102–405, title I, § 107(h), Oct. 9, 1992, 106 Stat. 1978; Pub. L. 103–452, title I, § 103(e), Nov. 2, 1994, 108 Stat. 4787; Pub. L. 104–110, title I, § 102(a), Feb. 13, 1996, 110 Stat. 769; Pub. L. 104–275, title VI, § 601(a), Oct. 9, 1996, 110 Stat. 3344, provided for a pilot program to provide care and treatment in community-based facilities to homeless veterans suffering from chronic mental illness, prior to repeal by Pub. L. 105–114, title II, § 202(c)(4), Nov. 21, 1997, 111 Stat. 2287.
+Pub. L. 100–322, title I, § 115(a)–(f), May 20, 1988, 102 Stat. 501, as amended by Pub. L. 101–237, title II, § 201(c), Dec. 18, 1989, 103 Stat. 2066; Pub. L. 102–83, §§ 5(c)(2), 6(j)(1), Aug. 6, 1991, 105 Stat. 406, 409; Pub. L. 102–405, title I, § 107(h), Oct. 9, 1992, 106 Stat. 1978; Pub. L. 103–452, title I, § 103(e), Nov. 2, 1994, 108 Stat. 4787; Pub. L. 104–110, title I, § 102(a), Feb. 13, 1996, 110 Stat. 769; Pub. L. 104–275, title VI, § 601(a), Oct. 9, 1996, 110 Stat. 3344, provided for a pilot program to provide care and treatment in community-based facilities to homeless veterans suffering from chronic mental illness, prior to repeal by Pub. L. 105–114, title II, § 202(c)(4), Nov. 21, 1997, 111 Stat. 2287.
 
 **Report on Treatment and Services for Chronically Mentally Ill Veterans**
 
-Pub. L. 100–322, title I, § 114, May 20, 1988, 102 Stat. 500, directed that the report required by section 235 of Pub. L. 99–576 [see below] include additional information about veterans being treated by the Veterans’ Administration for mental illness disabilities who were furnished hospital, domiciliary, or nursing home care by the Administrator during fiscal years 1986, 1987, and 1988, and extended the deadline for submission of the report to not later than Dec. 15, 1988.
+Pub. L. 100–322, title I, § 114, May 20, 1988, 102 Stat. 500, directed that the report required by section 235 of Pub. L. 99–576 [see below] include additional information about veterans being treated by the Veterans’ Administration for mental illness disabilities who were furnished hospital, domiciliary, or nursing home care by the Administrator during fiscal years 1986, 1987, and 1988, and extended the deadline for submission of the report to not later than Dec. 15, 1988.
 
-Pub. L. 99–576, title II, § 235, Oct. 28, 1986, 100 Stat. 3266, directed Administrator to submit to Committees on Veterans’ Affairs of Senate and House of Representatives not later than Dec. 15, 1987, a report on Administrator’s current use of authority to contract for care and treatment, and for rehabilitative services, for chronically mentally ill veterans through various types of facilities and to furnish home health services to such veterans in such veterans’ homes or in other settings in which they reside.
+Pub. L. 99–576, title II, § 235, Oct. 28, 1986, 100 Stat. 3266, directed Administrator to submit to Committees on Veterans’ Affairs of Senate and House of Representatives not later than Dec. 15, 1987, a report on Administrator’s current use of authority to contract for care and treatment, and for rehabilitative services, for chronically mentally ill veterans through various types of facilities and to furnish home health services to such veterans in such veterans’ homes or in other settings in which they reside.
 
 **Veterans Discharged or Released From Active Service Who Reentered Such Service Within One Year, and Were Discharged or Released Before August 13, 1981**
 
-Pub. L. 97–72, title I, §103(c), Nov. 3, 1981, 95 Stat. 1049, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that:
+Pub. L. 97–72, title I, §103(c), Nov. 3, 1981, 95 Stat. 1049, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that:
 
 > **“(1)** Section 1712(b)(1)(B)(iii)(I) [now 1712(a)(1)(B)(iii)(I), formerly 612(b)(1)(B)(iii)(I)] of title 38, United States Code, shall apply only to veterans discharged or released from active military, naval, or air service after August 12, 1981.
 
@@ -9007,17 +9007,17 @@ Pub. L. 97–72, title I, §103(c), Nov. 3, 1981, 95 Stat. 1049, as amended by P
 
 **Study of Home Modifications for Totally Blinded Service-Connected Veterans; Report Not Later Than October 1, 1979**
 
-Pub. L. 96–22, title V, § 505, June 13, 1979, 93 Stat. 67, directed Administrator of Veterans’ Affairs to submit a report to Committees on Veterans’ Affairs of Senate and House of Representatives not later than Oct. 1, 1979, on needs of veterans who are totally blind from service-connected causes for home modifications the cost of which would exceed the amount allowable for such purposes under subsec. (a) of this section and on reasons why such veterans have not applied for home health services.
+Pub. L. 96–22, title V, § 505, June 13, 1979, 93 Stat. 67, directed Administrator of Veterans’ Affairs to submit a report to Committees on Veterans’ Affairs of Senate and House of Representatives not later than Oct. 1, 1979, on needs of veterans who are totally blind from service-connected causes for home modifications the cost of which would exceed the amount allowable for such purposes under subsec. (a) of this section and on reasons why such veterans have not applied for home health services.
 
 **Annual Report to Congress on Results of Regulations Prescribed To Carry Out Special Priorities in Furnishing Medical Services**
 
-Pub. L. 94–581, title I, § 103(b), Oct. 21, 1976, 90 Stat. 2845, as amended by Pub. L. 100–527, § 10(1), Oct. 25, 1988, 102 Stat. 2640; Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that not later than one year after Oct. 21, 1976, and annually thereafter, the Secretary of Veterans Affairs was to report to the Congress on the results of the regulations prescribed to carry out former subsec. (i) of this section.
+Pub. L. 94–581, title I, § 103(b), Oct. 21, 1976, 90 Stat. 2845, as amended by Pub. L. 100–527, § 10(1), Oct. 25, 1988, 102 Stat. 2640; Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that not later than one year after Oct. 21, 1976, and annually thereafter, the Secretary of Veterans Affairs was to report to the Congress on the results of the regulations prescribed to carry out former subsec. (i) of this section.
 
 **Notification to Eligible Individuals of Expanded Care and Services Available as Result of Amendments by Veterans Omnibus Health Care Act of 1976**
 
-Pub. L. 94–581, title I, § 117(b), Oct. 21, 1976, 90 Stat. 2855, directed Administrator, not later than ninety days after Oct. 21, 1976, to take all appropriate steps to ensure that each individual eligible for new or expanded services as a result of amendments made by Veterans Omnibus Health Care Act of 1976 (Pub. L. 94–581) was personally notified about his or her eligibility and the way to secure care and services and directed Administrator to send copies of all notification forms to appropriate House and Senate committees, along with a description of how the forms were distributed.
+Pub. L. 94–581, title I, § 117(b), Oct. 21, 1976, 90 Stat. 2855, directed Administrator, not later than ninety days after Oct. 21, 1976, to take all appropriate steps to ensure that each individual eligible for new or expanded services as a result of amendments made by Veterans Omnibus Health Care Act of 1976 (Pub. L. 94–581) was personally notified about his or her eligibility and the way to secure care and services and directed Administrator to send copies of all notification forms to appropriate House and Senate committees, along with a description of how the forms were distributed.
 
-### § 1712A. Eligibility for readjustment counseling and related mental health services
+### § 1712A. Eligibility for readjustment counseling and related mental health services
 
 **(a)**
 
@@ -9179,7 +9179,7 @@ Pub. L. 94–581, title I, § 117(b), Oct. 21, 1976, 90 Stat. 2855, directed A
 
 **(D)** section 8006 of the American Rescue Plan Act of 2021 (Public Law 117–2; 38 U.S.C. 3001 note prec.).
 
-(Added Pub. L. 96–22, title I, § 103(a)(1), June 13, 1979, 93 Stat. 48, § 612A; amended Pub. L. 96–128, title V, § 501(b), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–72, title I, § 104(a)(1), (b), Nov. 3, 1981, 95 Stat. 1049; Pub. L. 98–160, title I, § 101, Nov. 21, 1983, 97 Stat. 993; Pub. L. 99–166, title I, §§ 105, 106, Dec. 3, 1985, 99 Stat. 944, 945; Pub. L. 99–272, title XIX, §§ 19011(d)(4), 19012(c)(3), Apr. 7, 1986, 100 Stat. 379, 382; Pub. L. 99–576, title II, § 204, title VII, § 702(6), Oct. 28, 1986, 100 Stat. 3255, 3302; Pub. L. 100–322, title I, § 107(a)–(e), May 20, 1988, 102 Stat. 494–496; Pub. L. 100–687, div. B, title XV, § 1501(a), Nov. 18, 1988, 102 Stat. 4132; Pub. L. 102–25, title III, § 334(d), Apr. 6, 1991, 105 Stat. 89; Pub. L. 102–54, § 14(b)(11), June 13, 1991, 105 Stat. 283; renumbered § 1712A and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), (6), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, § 101(d)(5), title III, § 331, Oct. 9, 1996, 110 Stat. 3180, 3197; Pub. L. 106–117, title II, § 205(a), Nov. 30, 1999, 113 Stat. 1563; Pub. L. 107–135, title II, § 208(e)(3)(A), Jan. 23, 2002, 115 Stat. 2463; Pub. L. 110–181, div. A, title XVII, § 1708(b), Jan. 28, 2008, 122 Stat. 494; Pub. L. 110–387, title IX, § 901(a)(1), Oct. 10, 2008, 122 Stat. 4142; Pub. L. 111–163, title IV, § 402, May 5, 2010, 124 Stat. 1156; Pub. L. 112–239, div. A, title VII, § 727, Jan. 2, 2013, 126 Stat. 1809; Pub. L. 115–182, title I, § 144(a)(1)(B), June 6, 2018, 132 Stat. 1430; Pub. L. 116–176, § 2, Oct. 20, 2020, 134 Stat. 849; Pub. L. 116–283, div. A, title VII, § 762(a), (b), title IX, § 926(a)(23), Jan. 1, 2021, 134 Stat. 3724, 3725, 3830; Pub. L. 116–315, title V, § 5104, Jan. 5, 2021, 134 Stat. 5027; Pub. L. 117–328, div. V, title IV, §§ 402(a), 403(a), Dec. 29, 2022, 136 Stat. 5511.)
+(Added Pub. L. 96–22, title I, § 103(a)(1), June 13, 1979, 93 Stat. 48, § 612A; amended Pub. L. 96–128, title V, § 501(b), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–72, title I, § 104(a)(1), (b), Nov. 3, 1981, 95 Stat. 1049; Pub. L. 98–160, title I, § 101, Nov. 21, 1983, 97 Stat. 993; Pub. L. 99–166, title I, §§ 105, 106, Dec. 3, 1985, 99 Stat. 944, 945; Pub. L. 99–272, title XIX, §§ 19011(d)(4), 19012(c)(3), Apr. 7, 1986, 100 Stat. 379, 382; Pub. L. 99–576, title II, § 204, title VII, § 702(6), Oct. 28, 1986, 100 Stat. 3255, 3302; Pub. L. 100–322, title I, § 107(a)–(e), May 20, 1988, 102 Stat. 494–496; Pub. L. 100–687, div. B, title XV, § 1501(a), Nov. 18, 1988, 102 Stat. 4132; Pub. L. 102–25, title III, § 334(d), Apr. 6, 1991, 105 Stat. 89; Pub. L. 102–54, § 14(b)(11), June 13, 1991, 105 Stat. 283; renumbered § 1712A and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), (6), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, § 101(d)(5), title III, § 331, Oct. 9, 1996, 110 Stat. 3180, 3197; Pub. L. 106–117, title II, § 205(a), Nov. 30, 1999, 113 Stat. 1563; Pub. L. 107–135, title II, § 208(e)(3)(A), Jan. 23, 2002, 115 Stat. 2463; Pub. L. 110–181, div. A, title XVII, § 1708(b), Jan. 28, 2008, 122 Stat. 494; Pub. L. 110–387, title IX, § 901(a)(1), Oct. 10, 2008, 122 Stat. 4142; Pub. L. 111–163, title IV, § 402, May 5, 2010, 124 Stat. 1156; Pub. L. 112–239, div. A, title VII, § 727, Jan. 2, 2013, 126 Stat. 1809; Pub. L. 115–182, title I, § 144(a)(1)(B), June 6, 2018, 132 Stat. 1430; Pub. L. 116–176, § 2, Oct. 20, 2020, 134 Stat. 849; Pub. L. 116–283, div. A, title VII, § 762(a), (b), title IX, § 926(a)(23), Jan. 1, 2021, 134 Stat. 3724, 3725, 3830; Pub. L. 116–315, title V, § 5104, Jan. 5, 2021, 134 Stat. 5027; Pub. L. 117–328, div. V, title IV, §§ 402(a), 403(a), Dec. 29, 2022, 136 Stat. 5511.)
 
 **Editorial Notes**
 
@@ -9189,77 +9189,77 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 **Amendments**
 
-Subsec. (a)(1)(A). Pub. L. 117–328, § 402(a), substituted “clauses (i) through (vii)” for “clauses (i) through (vi)” in cl. (i) and “in clause (viii)” for “in clause (vii)” in cl. (ii).
+Subsec. (a)(1)(A). Pub. L. 117–328, § 402(a), substituted “clauses (i) through (vii)” for “clauses (i) through (vi)” in cl. (i) and “in clause (viii)” for “in clause (vii)” in cl. (ii).
 
-Subsec. (a)(1)(A)(ii)(III). Pub. L. 117–328, § 403(a)(1), added subcl. (III).
+Subsec. (a)(1)(A)(ii)(III). Pub. L. 117–328, § 403(a)(1), added subcl. (III).
 
-Subsec. (a)(1)(B)(i). Pub. L. 117–328, § 402(a), substituted “clauses (i) through (vii)” for “clauses (i) through (vi)” in subcl. (I) and “in clause (viii)” for “in clause (vii)” in subcl. (II).
+Subsec. (a)(1)(B)(i). Pub. L. 117–328, § 402(a), substituted “clauses (i) through (vii)” for “clauses (i) through (vi)” in subcl. (I) and “in clause (viii)” for “in clause (vii)” in subcl. (II).
 
-Subsec. (a)(1)(B)(i)(II)(cc). Pub. L. 117–328, § 403(a)(2), added item (cc).
+Subsec. (a)(1)(B)(i)(II)(cc). Pub. L. 117–328, § 403(a)(2), added item (cc).
 
-Subsec. (a)(1)(C)(vii). Pub. L. 117–328, § 402(a)(3)(B), added cl. (vii). Former cl. (vii) redesignated (viii).
+Subsec. (a)(1)(C)(vii). Pub. L. 117–328, § 402(a)(3)(B), added cl. (vii). Former cl. (vii) redesignated (viii).
 
-Subsec. (a)(1)(C)(viii). Pub. L. 117–328, § 402(a)(3)(A), redesignated cl. (vii) as (viii).
+Subsec. (a)(1)(C)(viii). Pub. L. 117–328, § 402(a)(3)(A), redesignated cl. (vii) as (viii).
 
-Subsec. (a)(1)(C)(viii)(III). Pub. L. 117–328, § 403(a)(3), which directed addition of subcl. (III) to cl. (vii), was executed by adding subcl. (III) to cl. (viii), to reflect the probable intent of Congress and the intervening amendment by Pub. L. 117–328, § 402(a)(3)(A). See above.
+Subsec. (a)(1)(C)(viii)(III). Pub. L. 117–328, § 403(a)(3), which directed addition of subcl. (III) to cl. (vii), was executed by adding subcl. (III) to cl. (viii), to reflect the probable intent of Congress and the intervening amendment by Pub. L. 117–328, § 402(a)(3)(A). See above.
 
-Subsec. (h)(6). Pub. L. 117–328, § 402(a)(4), added par. (6).
+Subsec. (h)(6). Pub. L. 117–328, § 402(a)(4), added par. (6).
 
-2021—Subsec. (a)(1)(B). Pub. L. 116–315, § 5104(a), designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, redesignated former subcls. (I) and (II) of cl. (ii) as items (aa) and (bb), respectively, of subcl. (II), and added cl. (ii).
+2021—Subsec. (a)(1)(B). Pub. L. 116–315, § 5104(a), designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, redesignated former subcls. (I) and (II) of cl. (ii) as items (aa) and (bb), respectively, of subcl. (II), and added cl. (ii).
 
-Subsec. (a)(1)(D). Pub. L. 116–283, § 762(a), added subpar. (D).
+Subsec. (a)(1)(D). Pub. L. 116–283, § 762(a), added subpar. (D).
 
-Subsec. (a)(2). Pub. L. 116–315, § 5104(b), designated existing provisions as subpar. (A), substituted “paragraph (1)(B)(i)” for “paragraph (1)(B)”, and added subpar. (B).
+Subsec. (a)(2). Pub. L. 116–315, § 5104(b), designated existing provisions as subpar. (A), substituted “paragraph (1)(B)(i)” for “paragraph (1)(B)”, and added subpar. (B).
 
-Subsec. (b)(1). Pub. L. 116–283, § 762(b)(1), inserted “to an individual” after “If, on the basis of the assessment furnished” and substituted “individual” for “veteran” wherever appearing.
+Subsec. (b)(1). Pub. L. 116–283, § 762(b)(1), inserted “to an individual” after “If, on the basis of the assessment furnished” and substituted “individual” for “veteran” wherever appearing.
 
-Subsec. (b)(2). Pub. L. 116–283, § 762(b)(2), substituted “individual” for “veteran”.
+Subsec. (b)(2). Pub. L. 116–283, § 762(b)(2), substituted “individual” for “veteran”.
 
-Subsec. (c). Pub. L. 116–283, § 926(a)(23), substituted “air, or space service” for “or air service” in introductory provisions and par. (2).
+Subsec. (c). Pub. L. 116–283, § 926(a)(23), substituted “air, or space service” for “or air service” in introductory provisions and par. (2).
 
-2020—Subsec. (a)(1)(A), (B). Pub. L. 116–176, § 2(1), (2), substituted “clauses (i) through (vi)” for “clauses (i) through (iv)” and “in clause (vii)” for “in clause (v)”.
+2020—Subsec. (a)(1)(A), (B). Pub. L. 116–176, § 2(1), (2), substituted “clauses (i) through (vi)” for “clauses (i) through (iv)” and “in clause (vii)” for “in clause (v)”.
 
-Subsec. (a)(1)(C)(iv) to (vii). Pub. L. 116–176, § 2(3), added cls. (iv) and (v) and redesignated former cls. (iv) and (v) as (vi) and (vii), respectively.
+Subsec. (a)(1)(C)(iv) to (vii). Pub. L. 116–176, § 2(3), added cls. (iv) and (v) and redesignated former cls. (iv) and (v) as (vi) and (vii), respectively.
 
-Subsec. (h)(4), (5). Pub. L. 116–176, § 2(4), added pars. (4) and (5).
+Subsec. (h)(4), (5). Pub. L. 116–176, § 2(4), added pars. (4) and (5).
 
 2018—Subsec. (e)(1). Pub. L. 115–182 inserted “or agreements” after “contracts” and struck out “(under sections 1703(a)(2) and 1710(a)(1)(B) of this title)” after “available to the Secretary”.
 
-2013—Subsec. (a)(1)(A). Pub. L. 112–239, § 727(1)(A)(i), substituted “Upon the request of any individual referred to in subparagraph (C), the Secretary shall furnish counseling, including by furnishing counseling through a Vet Center, to the individual—” for “Upon the request of any veteran referred to in subparagraph (B), the Secretary shall furnish counseling to the veteran to assist the veteran in readjusting to civilian life. Such counseling may include a general mental and psychological assessment of the veteran to ascertain whether such veteran has mental or psychological problems associated with readjustment to civilian life.” and added cls. (i) and (ii).
+2013—Subsec. (a)(1)(A). Pub. L. 112–239, § 727(1)(A)(i), substituted “Upon the request of any individual referred to in subparagraph (C), the Secretary shall furnish counseling, including by furnishing counseling through a Vet Center, to the individual—” for “Upon the request of any veteran referred to in subparagraph (B), the Secretary shall furnish counseling to the veteran to assist the veteran in readjusting to civilian life. Such counseling may include a general mental and psychological assessment of the veteran to ascertain whether such veteran has mental or psychological problems associated with readjustment to civilian life.” and added cls. (i) and (ii).
 
-Subsec. (a)(1)(B), (C). Pub. L. 112–239, § 727(1)(A)(ii), added subpars. (B) and (C) and struck out former subpar. (B) which described veterans to whom subpar. (A) applied.
+Subsec. (a)(1)(B), (C). Pub. L. 112–239, § 727(1)(A)(ii), added subpars. (B) and (C) and struck out former subpar. (B) which described veterans to whom subpar. (A) applied.
 
-Subsec. (a)(2), (3). Pub. L. 112–239, § 727(1)(B)–(D), redesignated par. (3) as (2), substituted “an individual described in paragraph (1)(C)” for “a veteran described in paragraph (1)(B)(iii)” and “the individual a comprehensive individual assessment as described in paragraph (1)(B)” for “the veteran a preliminary general mental health assessment”, and struck out former par. (2) which provided for counseling to certain veterans who had been in combat situations.
+Subsec. (a)(2), (3). Pub. L. 112–239, § 727(1)(B)–(D), redesignated par. (3) as (2), substituted “an individual described in paragraph (1)(C)” for “a veteran described in paragraph (1)(B)(iii)” and “the individual a comprehensive individual assessment as described in paragraph (1)(B)” for “the veteran a preliminary general mental health assessment”, and struck out former par. (2) which provided for counseling to certain veterans who had been in combat situations.
 
-Subsec. (b)(1). Pub. L. 112–239, § 727(2), substituted “licensed or certified mental health care provider” for “physician or psychologist” wherever appearing.
+Subsec. (b)(1). Pub. L. 112–239, § 727(2), substituted “licensed or certified mental health care provider” for “physician or psychologist” wherever appearing.
 
-Subsec. (g). Pub. L. 112–239, § 727(4), added subsec. (g). Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 112–239, § 727(4), added subsec. (g). Former subsec. (g) redesignated (h).
 
-Subsec. (g)(1). Pub. L. 112–239, § 727(3)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘center’ means a facility which is operated by the Department for the provision of services under this section and which (A) is situated apart from Department general health-care facilities, or (B) was so situated but has been relocated to a Department general health-care facility.”
+Subsec. (g)(1). Pub. L. 112–239, § 727(3)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘center’ means a facility which is operated by the Department for the provision of services under this section and which (A) is situated apart from Department general health-care facilities, or (B) was so situated but has been relocated to a Department general health-care facility.”
 
-Subsec. (g)(3). Pub. L. 112–239, § 727(3)(B), added par. (3).
+Subsec. (g)(3). Pub. L. 112–239, § 727(3)(B), added par. (3).
 
-Subsec. (h). Pub. L. 112–239, § 727(4), redesignated subsec. (g) as (h).
+Subsec. (h). Pub. L. 112–239, § 727(4), redesignated subsec. (g) as (h).
 
 2010—Subsecs. (c) to (g). Pub. L. 111–163 added subsec. (c) and redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
 
-2008—Subsec. (a)(1)(B)(iii). Pub. L. 110–181, § 1708(b)(1), added cl. (iii).
+2008—Subsec. (a)(1)(B)(iii). Pub. L. 110–181, § 1708(b)(1), added cl. (iii).
 
-Subsec. (a)(3). Pub. L. 110–181, § 1708(b)(2), added par. (3).
+Subsec. (a)(3). Pub. L. 110–181, § 1708(b)(2), added par. (3).
 
-Subsecs. (c) to (e). Pub. L. 110–387, § 901(a)(1)(B), redesignated subsecs. (d) to (f) as (c) to (e), respectively.
+Subsecs. (c) to (e). Pub. L. 110–387, § 901(a)(1)(B), redesignated subsecs. (d) to (f) as (c) to (e), respectively.
 
-Subsec. (f). Pub. L. 110–387, § 901(a)(1)(B), (C), redesignated subsec. (i) as (f) and struck out “(including a Resource Center designated under subsection (h)(3)(A) of this section)” after “means a facility” in par. (1). Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 110–387, § 901(a)(1)(B), (C), redesignated subsec. (i) as (f) and struck out “(including a Resource Center designated under subsection (h)(3)(A) of this section)” after “means a facility” in par. (1). Former subsec. (f) redesignated (e).
 
-Subsec. (g). Pub. L. 110–387, § 901(a)(1)(A), struck out subsec. (g) which related to criteria for the closure or relocation of a center for readjustment counseling and related mental health services in existence on Jan. 1, 1988, and the submission of reports by the Secretary on the effectiveness of such services provided to Vietnam veterans and on a national plan for all centers in existence on Jan. 1, 1988.
+Subsec. (g). Pub. L. 110–387, § 901(a)(1)(A), struck out subsec. (g) which related to criteria for the closure or relocation of a center for readjustment counseling and related mental health services in existence on Jan. 1, 1988, and the submission of reports by the Secretary on the effectiveness of such services provided to Vietnam veterans and on a national plan for all centers in existence on Jan. 1, 1988.
 
-Subsec. (i). Pub. L. 110–387, § 901(a)(1)(B), redesignated subsec. (i) as (f).
+Subsec. (i). Pub. L. 110–387, § 901(a)(1)(B), redesignated subsec. (i) as (f).
 
 2002—Subsec. (b). Pub. L. 107–135 substituted “section 1784” for “section 1711(b)” in par. (1) and “sections 1782 and 1783” for “section 1701(6)(B)” in par. (2).
 
 1999—Subsec. (a)(1)(B)(ii). Pub. L. 106–117 substituted “January 1, 2004” for “January 1, 2000”.
 
-1996—Subsec. (a). Pub. L. 104–262, § 331(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
+1996—Subsec. (a). Pub. L. 104–262, § 331(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
 “(a)(1) Upon the request of any veteran who served on active duty during the Vietnam era, the Secretary shall, within the limits of Department facilities, furnish counseling to such veteran to assist such veteran in readjusting to civilian life. Such counseling shall include a general mental and psychological assessment to ascertain whether such veteran has mental or psychological problems associated with readjustment to civilian life.
 
@@ -9267,117 +9267,117 @@ Subsec. (i). Pub. L. 110–387, § 901(a)(1)(B), redesignated subsec. (i) as (
 
 “(B) For the purposes of subparagraph (A) of this paragraph, the term ‘hostilities’ means an armed conflict in which members of the Armed Forces are subjected to danger comparable to the danger to which members of the Armed Forces have been subjected in combat with enemy armed forces during a period of war, as determined by the Secretary in consultation with the Secretary of Defense.”
 
-Subsec. (b)(1). Pub. L. 104–262, § 101(d)(5)(A), struck out “under the conditions specified in section 1712(a)(5)(B) of this title” after “furnished such services on an outpatient basis”.
+Subsec. (b)(1). Pub. L. 104–262, § 101(d)(5)(A), struck out “under the conditions specified in section 1712(a)(5)(B) of this title” after “furnished such services on an outpatient basis”.
 
-Subsec. (c). Pub. L. 104–262, § 331(b), struck out subsec. (c) which read as follows: “Upon receipt of a request for counseling under this section from any individual who has been discharged or released from active military, naval, or air service but who is not eligible for such counseling, the Secretary shall—
+Subsec. (c). Pub. L. 104–262, § 331(b), struck out subsec. (c) which read as follows: “Upon receipt of a request for counseling under this section from any individual who has been discharged or released from active military, naval, or air service but who is not eligible for such counseling, the Secretary shall—
 
 “(1) provide referral services to assist such individual, to the maximum extent practicable, in obtaining mental health care and services from sources outside the Department; and
 
 “(2) if pertinent, advise such individual of such individual’s rights to apply to the appropriate military, naval, or air service and the Department for review of such individual’s discharge or release from such service.”
 
-Subsec. (e)(1). Pub. L. 104–262, § 101(d)(5)(B), substituted “sections 1703(a)(2) and 1710(a)(1)(B)” for “sections 1712(a)(1)(B) and 1703(a)(2)”.
+Subsec. (e)(1). Pub. L. 104–262, § 101(d)(5)(B), substituted “sections 1703(a)(2) and 1710(a)(1)(B)” for “sections 1712(a)(1)(B) and 1703(a)(2)”.
 
 1992—Subsecs. (d), (g)(3)(A). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 612A of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 612A of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in par. (1).
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in par. (1).
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in par. (1).
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in par. (1).
 
 Pub. L. 102–25 designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b)(1). Pub. L. 102–83, § 5(c)(1), substituted “1712(a)(5)(B)” for “612(a)(5)(B)” and “1711(b)” for “611(b)”.
+Subsec. (b)(1). Pub. L. 102–83, § 5(c)(1), substituted “1712(a)(5)(B)” for “612(a)(5)(B)” and “1711(b)” for “611(b)”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
 Pub. L. 102–54 substituted “section 612(a)(5)(B)” for “paragraph (1)(A)(ii) of section 612(f)”.
 
-Subsec. (b)(2). Pub. L. 102–83, § 5(c)(1), substituted “1701(6)(B)” for “601(6)(B)”.
+Subsec. (b)(2). Pub. L. 102–83, § 5(c)(1), substituted “1701(6)(B)” for “601(6)(B)”.
 
-Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
+Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in pars. (1) and (2).
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in pars. (1) and (2).
 
-Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “3485” for “1685”.
+Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “3485” for “1685”.
 
-Subsec. (e). Pub. L. 102–83, § 5(c)(1), substituted “1712(a)(1)(B) and 1703(a)(2)” for “612(a)(1)(B) and 603(a)(2)” in par. (1).
+Subsec. (e). Pub. L. 102–83, § 5(c)(1), substituted “1712(a)(1)(B) and 1703(a)(2)” for “612(a)(1)(B) and 603(a)(2)” in par. (1).
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (f). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (f). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Subsec. (g). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s” wherever appearing.
+Subsec. (g). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s” wherever appearing.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-Subsec. (h). Pub. L. 102–83, § 4(b)(6), struck out subsec. (h) which related to carrying out a pilot program to provide and coordinate services to meet the readjustment needs of veterans on active duty during the Vietnam era.
+Subsec. (h). Pub. L. 102–83, § 4(b)(6), struck out subsec. (h) which related to carrying out a pilot program to provide and coordinate services to meet the readjustment needs of veterans on active duty during the Vietnam era.
 
-Subsec. (i). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+Subsec. (i). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-1988—Subsec. (g)(1). Pub. L. 100–322, § 107(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “During the 24-month period ending on September 30, 1989, the Administrator shall take appropriate steps to ensure—
+1988—Subsec. (g)(1). Pub. L. 100–322, § 107(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “During the 24-month period ending on September 30, 1989, the Administrator shall take appropriate steps to ensure—
 
 “(A) the orderly, gradual transition, by October 1, 1989, of that part of the program established under this section for the provision of readjustment counseling services by Veterans’ Administration personnel from a program providing such services primarily through centers located in facilities situated apart from the health-care facilities operated by the Veterans’ Administration for the provision of other health-care services under other provisions of this chapter to a program providing readjustment counseling services primarily through such health-care facilities; and
 
 “(B) the continued availability after such date of readjustment counseling and related mental health services under this section to veterans eligible for the provision of such counseling and services who request such counseling.”
 
-Subsec. (g)(1)(A). Pub. L. 100–687, § 1501(a)(1), substituted “Except as provided in subparagraph (C) of this paragraph, the” for “The”.
+Subsec. (g)(1)(A). Pub. L. 100–687, § 1501(a)(1), substituted “Except as provided in subparagraph (C) of this paragraph, the” for “The”.
 
-Subsec. (g)(1)(C). Pub. L. 100–687, § 1501(a)(2), added subpar. (C).
+Subsec. (g)(1)(C). Pub. L. 100–687, § 1501(a)(2), added subpar. (C).
 
-Subsec. (g)(2)(A). Pub. L. 100–322, § 107(b), substituted “April 1, 1988” for “April 1, 1987” and struck out “(or, if the study is not then completed, whatever information from it is then available)” after “(Public Law 98–160)”.
+Subsec. (g)(2)(A). Pub. L. 100–322, § 107(b), substituted “April 1, 1988” for “April 1, 1987” and struck out “(or, if the study is not then completed, whatever information from it is then available)” after “(Public Law 98–160)”.
 
-Subsec. (g)(2)(B)(i). Pub. L. 100–322, § 107(e)(1)(A), substituted “in centers is needed” for “in a program providing such services through facilities situated apart from Veterans’ Administration health-care facilities is needed”.
+Subsec. (g)(2)(B)(i). Pub. L. 100–322, § 107(e)(1)(A), substituted “in centers is needed” for “in a program providing such services through facilities situated apart from Veterans’ Administration health-care facilities is needed”.
 
-Subsec. (g)(2)(B)(ii). Pub. L. 100–322, § 107(e)(1)(B), substituted “this subsection” for “paragraph (1) of this subsection”.
+Subsec. (g)(2)(B)(ii). Pub. L. 100–322, § 107(e)(1)(B), substituted “this subsection” for “paragraph (1) of this subsection”.
 
-Subsec. (g)(3) to (5). Pub. L. 100–322, § 107(c), added pars. (3) to (5) and struck out former pars. (3) and (4) which read as follows:
+Subsec. (g)(3) to (5). Pub. L. 100–322, § 107(c), added pars. (3) to (5) and struck out former pars. (3) and (4) which read as follows:
 
 “(3) Not later than July 1, 1987, the Administrator shall submit to such committees a report containing a description of the plans made and timetable for carrying out paragraph (1) of this subsection. Such report shall be prepared taking into consideration the results of the study referred to in paragraph (2)(A) of this subsection (or, if the study is not then completed, whatever information from it is then available).
 
 “(4) Not later than February 1, 1989, the Administrator shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the experience under as much of the transition as was carried out pursuant to paragraph (1) of this subsection before September 30, 1988, including such recommendations for legislative and administrative action as the Administrator considers appropriate in light of such experience.”
 
-Subsec. (h)(3)(B). Pub. L. 100–322, § 107(e)(2)(A), substituted “referred to as ‘Resource Centers’)” for “referred to as ‘Centers’)”.
+Subsec. (h)(3)(B). Pub. L. 100–322, § 107(e)(2)(A), substituted “referred to as ‘Resource Centers’)” for “referred to as ‘Centers’)”.
 
-Subsec. (h)(4), (5). Pub. L. 100–322, § 107(e)(2)(B), substituted “Resource Center” for “Center” wherever appearing.
+Subsec. (h)(4), (5). Pub. L. 100–322, § 107(e)(2)(B), substituted “Resource Center” for “Center” wherever appearing.
 
-Subsec. (i). Pub. L. 100–322, § 107(d), added subsec. (i).
+Subsec. (i). Pub. L. 100–322, § 107(d), added subsec. (i).
 
-1986—Subsec. (b)(1). Pub. L. 99–272, § 19011(d)(4)(A), substituted “paragraph (1)(A)(ii)” for “clause (1)(B)”.
+1986—Subsec. (b)(1). Pub. L. 99–272, § 19011(d)(4)(A), substituted “paragraph (1)(A)(ii)” for “clause (1)(B)”.
 
-Subsec. (e)(1). Pub. L. 99–272, § 19012(c)(3), substituted “603(a)(2)” for “601(4)(C)(ii)”.
+Subsec. (e)(1). Pub. L. 99–272, § 19012(c)(3), substituted “603(a)(2)” for “601(4)(C)(ii)”.
 
-Pub. L. 99–272, § 19011(d)(4)(B), substituted “612(a)(1)(B)” for “612(f)(2)”.
+Pub. L. 99–272, § 19011(d)(4)(B), substituted “612(a)(1)(B)” for “612(f)(2)”.
 
-Subsec. (g)(1). Pub. L. 99–576, § 204(a), substituted “the 24-month period ending on September 30, 1989” for “the twelve-month period ending on September 30, 1988” in introductory provision, and substituted “orderly, gradual transition by October 1, 1989” for “orderly transition, by October 1, 1988” in subpar. (A).
+Subsec. (g)(1). Pub. L. 99–576, § 204(a), substituted “the 24-month period ending on September 30, 1989” for “the twelve-month period ending on September 30, 1988” in introductory provision, and substituted “orderly, gradual transition by October 1, 1989” for “orderly transition, by October 1, 1988” in subpar. (A).
 
-Subsec. (g)(2)(A). Pub. L. 99–576, § 204(b)(1), inserted “(Pub. L. 98–160) (or, if the study is not then completed, whatever information from it is then available)” after “the Veterans’ Health Care Amendments of 1983”.
+Subsec. (g)(2)(A). Pub. L. 99–576, § 204(b)(1), inserted “(Pub. L. 98–160) (or, if the study is not then completed, whatever information from it is then available)” after “the Veterans’ Health Care Amendments of 1983”.
 
-Subsec. (g)(3). Pub. L. 99–576, § 204(b)(2), inserted at end “Such report shall be prepared taking into consideration the results of the study referred to in paragraph (2)(A) of this subsection (or, if the study is not then completed, whatever information from it is then available).”
+Subsec. (g)(3). Pub. L. 99–576, § 204(b)(2), inserted at end “Such report shall be prepared taking into consideration the results of the study referred to in paragraph (2)(A) of this subsection (or, if the study is not then completed, whatever information from it is then available).”
 
-Subsec. (g)(4). Pub. L. 99–576, § 204(c), added par. (4).
+Subsec. (g)(4). Pub. L. 99–576, § 204(c), added par. (4).
 
-Subsec. (h)(3)(A)(i). Pub. L. 99–576, § 702(6), substituted “December 3, 1985,” for “the date of the enactment of this section”.
+Subsec. (h)(3)(A)(i). Pub. L. 99–576, § 702(6), substituted “December 3, 1985,” for “the date of the enactment of this section”.
 
-1985—Subsec. (g)(1)(B). Pub. L. 99–166, § 106, which directed the substitution of “who request such counseling” for “who requested counseling before such date”, was executed by making the substitution for the phrase “who requested such counseling before such date” to reflect the probable intent of Congress.
+1985—Subsec. (g)(1)(B). Pub. L. 99–166, § 106, which directed the substitution of “who request such counseling” for “who requested counseling before such date”, was executed by making the substitution for the phrase “who requested such counseling before such date” to reflect the probable intent of Congress.
 
-Subsec. (h). Pub. L. 99–166, § 105, added subsec. (h).
+Subsec. (h). Pub. L. 99–166, § 105, added subsec. (h).
 
-1983—Subsec. (a). Pub. L. 98–160, § 101(a), struck out “if such veteran requests such counseling within two years after the date of such veteran’s discharge or release from active duty, or by September 30, 1984, whichever is later” after “to assist such veteran in readjusting to civilian life”.
+1983—Subsec. (a). Pub. L. 98–160, § 101(a), struck out “if such veteran requests such counseling within two years after the date of such veteran’s discharge or release from active duty, or by September 30, 1984, whichever is later” after “to assist such veteran in readjusting to civilian life”.
 
-Subsec. (g)(1). Pub. L. 98–160, § 101(b)(1), substituted “September 30, 1988” for “September 30, 1984” in provisions preceding subpar. (A).
+Subsec. (g)(1). Pub. L. 98–160, § 101(b)(1), substituted “September 30, 1988” for “September 30, 1984” in provisions preceding subpar. (A).
 
-Subsec. (g)(1)(A). Pub. L. 98–160, § 101(b)(1), substituted “October 1, 1988” for “October 1, 1984”.
+Subsec. (g)(1)(A). Pub. L. 98–160, § 101(b)(1), substituted “October 1, 1988” for “October 1, 1984”.
 
-Subsec. (g)(2). Pub. L. 98–160, § 101(b)(2), amended par. (2) generally, designating existing provisions as subpar. (A), substituting “Not later than April 1, 1987, the Administrator shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Administrator’s evaluation of the effectiveness in helping to meet the readjustment needs of veterans who served on active duty during the Vietnam era of the readjustment counseling and mental health services provided pursuant to this section (and of outreach efforts with respect to such counseling and services). Such report shall give particular attention, in light of the results of the study required by section 102 of the Veterans’ Health Care Amendments of 1983, to the provision of such counseling and services to veterans with post-traumatic stress disorder and to the diagnosis and treatment of such disorder” for “Not later than April 1, 1984, the Administrator shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report on the plans made and actions taken to carry out this subsection”, and adding subpar. (B).
+Subsec. (g)(2). Pub. L. 98–160, § 101(b)(2), amended par. (2) generally, designating existing provisions as subpar. (A), substituting “Not later than April 1, 1987, the Administrator shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Administrator’s evaluation of the effectiveness in helping to meet the readjustment needs of veterans who served on active duty during the Vietnam era of the readjustment counseling and mental health services provided pursuant to this section (and of outreach efforts with respect to such counseling and services). Such report shall give particular attention, in light of the results of the study required by section 102 of the Veterans’ Health Care Amendments of 1983, to the provision of such counseling and services to veterans with post-traumatic stress disorder and to the diagnosis and treatment of such disorder” for “Not later than April 1, 1984, the Administrator shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report on the plans made and actions taken to carry out this subsection”, and adding subpar. (B).
 
-Subsec. (g)(3). Pub. L. 98–160, § 101(b)(2), added par. (3).
+Subsec. (g)(3). Pub. L. 98–160, § 101(b)(2), added par. (3).
 
-1981—Subsec. (a). Pub. L. 97–72, § 104(a)(1), substituted “or by September 30, 1984” for “or two years after the effective date of this section”.
+1981—Subsec. (a). Pub. L. 97–72, § 104(a)(1), substituted “or by September 30, 1984” for “or two years after the effective date of this section”.
 
-Subsec. (g). Pub. L. 97–72, § 104(b), added subsec. (g).
+Subsec. (g). Pub. L. 97–72, § 104(b), added subsec. (g).
 
 1979—Subsec. (d). Pub. L. 96–128 substituted “title)” for “title),”.
 
@@ -9385,11 +9385,11 @@ Subsec. (g). Pub. L. 97–72, § 104(b), added subsec. (g).
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–328, div. V, title IV, § 403(b), Dec. 29, 2022, 136 Stat. 5512, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to family members of a member or veteran who died by suicide before, on, or after the date of the enactment of this Act [Dec. 29, 2022].”
+Pub. L. 117–328, div. V, title IV, § 403(b), Dec. 29, 2022, 136 Stat. 5512, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to family members of a member or veteran who died by suicide before, on, or after the date of the enactment of this Act [Dec. 29, 2022].”
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 116–283, div. A, title VII, § 762(c), Jan. 1, 2021, 134 Stat. 3725, provided that: “The amendments made by this section [amending this section] shall take effect on the date that is one year after the date of the enactment of this Act [Jan. 1, 2021].”
+Pub. L. 116–283, div. A, title VII, § 762(c), Jan. 1, 2021, 134 Stat. 3725, provided that: “The amendments made by this section [amending this section] shall take effect on the date that is one year after the date of the enactment of this Act [Jan. 1, 2021].”
 
 **Effective Date of 2018 Amendment**
 
@@ -9401,7 +9401,7 @@ Amendment by section 19011(d)(4) of Pub. L. 99–272 applicable to hospital care
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–72, title I, § 104(a)(2), Nov. 3, 1981, 95 Stat. 1049, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as of October 1, 1981.”
+Pub. L. 97–72, title I, § 104(a)(2), Nov. 3, 1981, 95 Stat. 1049, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as of October 1, 1981.”
 
 **Effective Date of 1979 Amendment**
 
@@ -9413,7 +9413,7 @@ Section effective Oct. 1, 1979, see section 107 of Pub. L. 96–22, set out as a
 
 **Mental Health and Suicide Prevention Outreach to Minority Veterans and American Indian and Alaska Native Veterans**
 
-Pub. L. 117–328, div. V, title I, § 101(a)–(c), Dec. 29, 2022, 136 Stat. 5498, 5499, provided that:
+Pub. L. 117–328, div. V, title I, § 101(a)–(c), Dec. 29, 2022, 136 Stat. 5498, 5499, provided that:
 
 > **“(a) Staffing Requirement.—** Beginning not later than 90 days after the date of the enactment of this Act [Dec. 29, 2022], the Secretary of Veterans Affairs shall ensure that each medical center of the Department of Veterans Affairs has no fewer than one full-time employee whose responsibility is serving as a minority veteran coordinator.
 
@@ -9433,7 +9433,7 @@ Pub. L. 117–328, div. V, title I, § 101(a)–(c), Dec. 29, 2022, 136 Stat. 
 
 **Expansion of Vet Center Workforce**
 
-Pub. L. 117–328, div. V, title I, § 102, Dec. 29, 2022, 136 Stat. 5500, provided that:
+Pub. L. 117–328, div. V, title I, § 102, Dec. 29, 2022, 136 Stat. 5500, provided that:
 
 > **“(a) In General.—** Not later than one year after the date of the enactment of this Act [Dec. 29, 2022] and subject to the availability of appropriations, the Secretary of Veterans Affairs shall hire an additional 50 full-time equivalent employees for Vet Centers to bolster the workforce of Vet Centers and to provide expanded mental health care to veterans, members of the Armed Forces, and their families through outreach, community access points, outstations, and Vet Centers.
 
@@ -9441,7 +9441,7 @@ Pub. L. 117–328, div. V, title I, § 102, Dec. 29, 2022, 136 Stat. 5500, pro
 
 **Designation of Buddy Check Week by Secretary of Veterans Affairs**
 
-Pub. L. 117–328, div. V, title III, § 301, Dec. 29, 2022, 136 Stat. 5505, provided that:
+Pub. L. 117–328, div. V, title III, § 301, Dec. 29, 2022, 136 Stat. 5505, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs shall designate one week each year to organize outreach events and educate veterans on how to conduct peer wellness checks, which shall be known as ‘Buddy Check Week’.
 
@@ -9495,7 +9495,7 @@ Pub. L. 117–328, div. V, title III, § 301, Dec. 29, 2022, 136 Stat. 5505, p
 
 **Expansion of Rural Access Network for Growth Enhancement**
 
-Pub. L. 117–21, §§ 2, 4, June 30, 2021, 135 Stat. 292, 293, as amended by Pub. L. 118–83, div. B, title III, § 303, Sept. 26, 2024, 138 Stat. 1539; Pub. L. 119–37, div. G, title I, § 7104, Nov. 12, 2025, 139 Stat. 649, provided that:
+Pub. L. 117–21, §§ 2, 4, June 30, 2021, 135 Stat. 292, 293, as amended by Pub. L. 118–83, div. B, title III, § 303, Sept. 26, 2024, 138 Stat. 1539; Pub. L. 119–37, div. G, title I, § 7104, Nov. 12, 2025, 139 Stat. 649, provided that:
 
 > **“SEC. 2. EXPANSION OF RURAL ACCESS NETWORK FOR GROWTH ENHANCEMENT PROGRAM OF THE DEPARTMENT OF VETERANS AFFAIRS.**
 
@@ -9525,7 +9525,7 @@ Pub. L. 117–21, §§ 2, 4, June 30, 2021, 135 Stat. 292, 293, as amended by 
 
 **Pilot Program on Assistance for Child Care for Certain Veterans Receiving Readjustment Counseling and Related Mental Health Services**
 
-Pub. L. 116–315, title V, § 5107(b), Jan. 5, 2021, 134 Stat. 5031, provided that:
+Pub. L. 116–315, title V, § 5107(b), Jan. 5, 2021, 134 Stat. 5031, provided that:
 
 > **“(1) In general.—** The Secretary of Veterans Affairs shall carry out a pilot program to assess the feasibility and advisability of providing, subject to paragraph (2), assistance to qualified veterans described in paragraph (3) to obtain child care so that such veterans can receive readjustment counseling and related mental health services.
 
@@ -9571,7 +9571,7 @@ Pub. L. 116–315, title V, § 5107(b), Jan. 5, 2021, 134 Stat. 5031, provided
 
 **Pilot Program To Provide Veterans Access to Complementary and Integrative Health Programs Through Animal Therapy, Agritherapy, Sports and Recreation Therapy, Art Therapy, and Posttraumatic Growth Programs**
 
-Pub. L. 116–171, title II, § 203, Oct. 17, 2020, 134 Stat. 796, as amended by Pub. L. 118–83, div. B, title III, § 304, Sept. 26, 2024, 138 Stat. 1539, provided that:
+Pub. L. 116–171, title II, § 203, Oct. 17, 2020, 134 Stat. 796, as amended by Pub. L. 118–83, div. B, title III, § 304, Sept. 26, 2024, 138 Stat. 1539, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date on which the Creating Options for Veterans’ Expedited Recovery Commission (commonly referred to as the ‘COVER Commission’) established under section 931 of the Jason Simcakoski Memorial and Promise Act (title IX of Public Law 114–198; 38 U.S.C. 1701 note) submits its final report under subsection (e)(2) of such section, the Secretary of Veterans Affairs shall commence the conduct of a pilot program to provide complementary and integrative health programs described in subsection (b) to eligible veterans from the Department of Veterans Affairs or through the use of non-Department entities for the treatment of post-traumatic stress disorder, depression, anxiety, or other conditions as determined by the Secretary.
 
@@ -9633,11 +9633,11 @@ Pub. L. 116–171, title II, § 203, Oct. 17, 2020, 134 Stat. 796, as amended 
 
 > **“(2) Final report.—** Not later than 90 days after the termination of the pilot program under this section, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a final report on the pilot program.”
 
-[Pub. L. 118–83, div. B, title III, § 304, which directed amendment of section 203(d)(1) of the “Scott Hannon Veterans Mental Health Care Improvement Act of 2019” by substituting “until September 30, 2025” for “for a three-year period beginning on the commencement of the pilot program”, was executed by making the substitution in section 203(d)(1) of the Commander John Scott Hannon Veterans Mental Health Care Improvement Act of 2019, set out above, to reflect the probable intent of Congress.]
+[Pub. L. 118–83, div. B, title III, § 304, which directed amendment of section 203(d)(1) of the “Scott Hannon Veterans Mental Health Care Improvement Act of 2019” by substituting “until September 30, 2025” for “for a three-year period beginning on the commencement of the pilot program”, was executed by making the substitution in section 203(d)(1) of the Commander John Scott Hannon Veterans Mental Health Care Improvement Act of 2019, set out above, to reflect the probable intent of Congress.]
 
 **Establishment by Department of Veterans Affairs and Department of Defense of a Clinical Provider Treatment Toolkit and Accompanying Training Materials for Comorbidities**
 
-Pub. L. 116–171, title III, § 302, Oct. 17, 2020, 134 Stat. 801, provided that:
+Pub. L. 116–171, title III, § 302, Oct. 17, 2020, 134 Stat. 801, provided that:
 
 > **“(a) In General.—** Not later than two years after the date of the enactment of this Act [Oct. 17, 2020], the Secretary of Veterans Affairs, in consultation with the Secretary of Defense, shall develop a clinical provider treatment toolkit and accompanying training materials for the evidence-based management of comorbid mental health conditions, comorbid mental health and substance use disorders, and a comorbid mental health condition and chronic pain.
 
@@ -9657,7 +9657,7 @@ Pub. L. 116–171, title III, § 302, Oct. 17, 2020, 134 Stat. 801, provided t
 
 **Establishment by Department of Veterans Affairs and Department of Defense of Clinical Practice Guidelines for the Treatment of Serious Mental Illness**
 
-Pub. L. 116–171, title III, § 304, Oct. 17, 2020, 134 Stat. 802, provided that:
+Pub. L. 116–171, title III, § 304, Oct. 17, 2020, 134 Stat. 802, provided that:
 
 > **“(a) In General.—** Not later than two years after the date of the enactment of this Act [Oct. 17, 2020], the Secretary of Veterans Affairs, in consultation with the Secretary of Defense and the Secretary of Health and Human Services, shall complete the development of a clinical practice guideline or guidelines for the treatment of serious mental illness, to include the following conditions:
 
@@ -9705,7 +9705,7 @@ Pub. L. 116–171, title III, § 304, Oct. 17, 2020, 134 Stat. 802, provided t
 
 **Precision Medicine Initiative of Department of Veterans Affairs To Identify and Validate Brain and Mental Health Biomarkers**
 
-Pub. L. 116–171, title III, § 305, Oct. 17, 2020, 134 Stat. 804, provided that:
+Pub. L. 116–171, title III, § 305, Oct. 17, 2020, 134 Stat. 804, provided that:
 
 > **“(a) In General.—** Beginning not later than 18 months after the date of the enactment of this Act [Oct. 17, 2020], the Secretary of Veterans Affairs shall develop and implement an initiative of the Department of Veterans Affairs to identify and validate brain and mental health biomarkers among veterans, with specific consideration for depression, anxiety, post-traumatic stress disorder, bipolar disorder, traumatic brain injury, and such other mental health conditions as the Secretary considers appropriate. Such initiative may be referred to as the ‘Precision Medicine for Veterans Initiative’.
 
@@ -9753,7 +9753,7 @@ Pub. L. 116–171, title III, § 305, Oct. 17, 2020, 134 Stat. 804, provided t
 
 **Short-Term Agreements or Contracts With Telecommunications Providers To Expand Telemental Health Services for Isolated Veterans During a Public Health Emergency**
 
-Pub. L. 116–136, div. B, title X, § 20004, Mar. 27, 2020, 134 Stat. 585, provided that:
+Pub. L. 116–136, div. B, title X, § 20004, Mar. 27, 2020, 134 Stat. 585, provided that:
 
 > **“(a) In General.—** Notwithstanding any other provision of law, the Secretary of Veterans Affairs may enter into short-term agreements or contracts with telecommunications companies to provide temporary, complimentary or subsidized, fixed and mobile broadband services for the purposes of providing expanded mental health services to isolated veterans through telehealth or VA Video Connect during a public health emergency.
 
@@ -9785,7 +9785,7 @@ Pub. L. 116–136, div. B, title X, § 20004, Mar. 27, 2020, 134 Stat. 585, pr
 
 **Publication of Internet Website To Provide Information Regarding Mental Health Care Services**
 
-Pub. L. 114–2, § 3, Feb. 12, 2015, 129 Stat. 31, provided that:
+Pub. L. 114–2, § 3, Feb. 12, 2015, 129 Stat. 31, provided that:
 
 > **“(a) In General.—** Using funds made available to the Secretary of Veterans Affairs to publish the Internet websites of the Department of Veterans Affairs, the Secretary shall survey the existing Internet websites and information resources of the Department to publish an Internet website that serves as a centralized source to provide veterans with information regarding all of the mental health care services provided by the Secretary.
 
@@ -9805,7 +9805,7 @@ Pub. L. 114–2, § 3, Feb. 12, 2015, 129 Stat. 31, provided that:
 
 **Pilot Program on Community Outreach**
 
-Pub. L. 114–2, § 5, Feb. 12, 2015, 129 Stat. 34, as amended by Pub. L. 114–92, div. A, title V, § 563, Nov. 25, 2015, 129 Stat. 829; Pub. L. 114–328, div. A, title X, § 1081(c)(1), Dec. 23, 2016, 130 Stat. 2419, provided that:
+Pub. L. 114–2, § 5, Feb. 12, 2015, 129 Stat. 34, as amended by Pub. L. 114–92, div. A, title V, § 563, Nov. 25, 2015, 129 Stat. 829; Pub. L. 114–328, div. A, title X, § 1081(c)(1), Dec. 23, 2016, 130 Stat. 2419, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs shall establish a pilot program to assist veterans transitioning from serving on active duty and to improve the access of veterans to mental health services.
 
@@ -9869,11 +9869,11 @@ Pub. L. 114–2, § 5, Feb. 12, 2015, 129 Stat. 34, as amended by Pub. L. 114�
 
 > **“(f) Termination.—** The authority of the Secretary to carry out the pilot program under subsection (a) shall terminate on the date that is 3 years after the date on which the pilot program commences.”
 
-[Pub. L. 114–328, div. A, title X, § 1081(c), Dec. 23, 2016, 130 Stat. 2419, provided that the amendment made by section 1081(c)(1) to section 563 of Pub. L. 114–92, which amended section 5 of Pub. L. 114–2, set out above, is effective as of Nov. 25, 2015, and as if included in Pub. L. 114–92 as enacted.]
+[Pub. L. 114–328, div. A, title X, § 1081(c), Dec. 23, 2016, 130 Stat. 2419, provided that the amendment made by section 1081(c)(1) to section 563 of Pub. L. 114–92, which amended section 5 of Pub. L. 114–2, set out above, is effective as of Nov. 25, 2015, and as if included in Pub. L. 114–92 as enacted.]
 
 **Participation of Members of the Armed Forces in Peer Support Counseling Programs of the Department of Veterans Affairs**
 
-Pub. L. 112–239, div. A, title VII, § 724, Jan. 2, 2013, 126 Stat. 1805, provided that:
+Pub. L. 112–239, div. A, title VII, § 724, Jan. 2, 2013, 126 Stat. 1805, provided that:
 
 > **“(a) Participation.—**
 
@@ -9893,7 +9893,7 @@ Pub. L. 112–239, div. A, title VII, § 724, Jan. 2, 2013, 126 Stat. 1805, pr
 
 **Transparency in Mental Health Care Services Provided by the Department of Veterans Affairs**
 
-Pub. L. 112–239, div. A, title VII, § 726, Jan. 2, 2013, 126 Stat. 1806, provided that:
+Pub. L. 112–239, div. A, title VII, § 726, Jan. 2, 2013, 126 Stat. 1806, provided that:
 
 > **“(a) Measurement of Mental Health Care Services.—**
 
@@ -9991,7 +9991,7 @@ Pub. L. 112–239, div. A, title VII, § 726, Jan. 2, 2013, 126 Stat. 1806, pr
 
 **Pilot Program on Counseling in Retreat Settings for Women Veterans Newly Separated From Service**
 
-Pub. L. 111–163, title II, § 203, May 5, 2010, 124 Stat. 1143, as amended by Pub. L. 113–175, title I, § 102, Sept. 26, 2014, 128 Stat. 1902; Pub. L. 114–58, title I, § 109, Sept. 30, 2015, 129 Stat. 533; Pub. L. 114–228, title I, § 107, Sept. 29, 2016, 130 Stat. 937; Pub. L. 115–62, title I, § 108, Sept. 29, 2017, 131 Stat. 1162; Pub. L. 115–251, title I, § 108, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–159, div. E, title I, § 5106, Oct. 1, 2020, 134 Stat. 748, provided that:
+Pub. L. 111–163, title II, § 203, May 5, 2010, 124 Stat. 1143, as amended by Pub. L. 113–175, title I, § 102, Sept. 26, 2014, 128 Stat. 1902; Pub. L. 114–58, title I, § 109, Sept. 30, 2015, 129 Stat. 533; Pub. L. 114–228, title I, § 107, Sept. 29, 2016, 130 Stat. 937; Pub. L. 115–62, title I, § 108, Sept. 29, 2017, 131 Stat. 1162; Pub. L. 115–251, title I, § 108, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–159, div. E, title I, § 5106, Oct. 1, 2020, 134 Stat. 748, provided that:
 
 > **“(a) Pilot Program Required.—**
 
@@ -10023,7 +10023,7 @@ Pub. L. 111–163, title II, § 203, May 5, 2010, 124 Stat. 1143, as amended b
 
 **Program on Readjustment and Mental Health Care Services for Veterans Who Served in Operation Enduring Freedom and Operation Iraqi Freedom**
 
-Pub. L. 111–163, title III, § 304, May 5, 2010, 124 Stat. 1150, as amended by Pub. L. 112–239, div. A, title VII, § 730(b)(1), Jan. 2, 2013, 126 Stat. 1814, provided that:
+Pub. L. 111–163, title III, § 304, May 5, 2010, 124 Stat. 1150, as amended by Pub. L. 112–239, div. A, title VII, § 730(b)(1), Jan. 2, 2013, 126 Stat. 1814, provided that:
 
 > **“(a) Program Required.—** Not later than 180 days after the date of the enactment of this Act [May 5, 2010], the Secretary of Veterans Affairs shall establish a program to provide—
 
@@ -10077,11 +10077,11 @@ Pub. L. 111–163, title III, § 304, May 5, 2010, 124 Stat. 1150, as amended 
 
 > **“(f) Vet Center Defined.—** In this section, the term ‘vet center’ means a center for readjustment counseling and related mental health services for veterans under section 1712A of title 38, United States Code.”
 
-[Pub. L. 112–239, div. A, title VII, § 730(b)(2), Jan. 2, 2013, 126 Stat. 1814, provided that: “The Secretary of Veterans Affairs shall commence carrying out the services required by subparagraphs (A) and (B) of subsection (a)(1) of such section [section 304 of Pub. L. 111–163, set out above] at each Department of Veterans Affairs medical center, as required by subsection (e) of such section (as added by paragraph (1)), not later than 270 days after the date of the enactment of this Act [Jan. 2, 2013].” ]
+[Pub. L. 112–239, div. A, title VII, § 730(b)(2), Jan. 2, 2013, 126 Stat. 1814, provided that: “The Secretary of Veterans Affairs shall commence carrying out the services required by subparagraphs (A) and (B) of subsection (a)(1) of such section [section 304 of Pub. L. 111–163, set out above] at each Department of Veterans Affairs medical center, as required by subsection (e) of such section (as added by paragraph (1)), not later than 270 days after the date of the enactment of this Act [Jan. 2, 2013].” ]
 
 **Eligibility of Members of the Armed Forces Who Serve in Operation Enduring Freedom or Operation Iraqi Freedom for Counseling and Services Through Readjustment Counseling Service**
 
-Pub. L. 111–163, title IV, § 401, May 5, 2010, 124 Stat. 1156, provided that:
+Pub. L. 111–163, title IV, § 401, May 5, 2010, 124 Stat. 1156, provided that:
 
 > **“(a) In General.—** Any member of the Armed Forces, including a member of the National Guard or Reserve, who serves on active duty in the Armed Forces in Operation Enduring Freedom or Operation Iraqi Freedom is eligible for readjustment counseling and related mental health services under section 1712A of title 38, United States Code, through the Readjustment Counseling Service of the Veterans Health Administration.
 
@@ -10093,7 +10093,7 @@ Pub. L. 111–163, title IV, § 401, May 5, 2010, 124 Stat. 1156, provided tha
 
 **Pilot Program on Peer Outreach and Support for Veterans and Use of Community Mental Health Centers and Indian Health Service Facilities**
 
-Pub. L. 110–387, title I, § 107, Oct. 10, 2008, 122 Stat. 4116, provided that:
+Pub. L. 110–387, title I, § 107, Oct. 10, 2008, 122 Stat. 4116, provided that:
 
 > **“(a) Pilot Program Required.—** Commencing not later than 180 days after the date of the enactment of this Act [Oct. 10, 2008], the Secretary of Veterans Affairs shall carry out a pilot program to assess the feasability [sic] and advisability of providing to veterans of Operation Iraqi Freedom and Operation Enduring Freedom, and, in particular, veterans who served in such operations as a member of the National Guard or Reserve, the following:
 
@@ -10189,7 +10189,7 @@ Pub. L. 110–387, title I, § 107, Oct. 10, 2008, 122 Stat. 4116, provided th
 
 **Research Program on Comorbid Post-Traumatic Stress Disorder and Substance Use Disorders**
 
-Pub. L. 110–387, title II, § 201, Oct. 10, 2008, 122 Stat. 4119, provided that:
+Pub. L. 110–387, title II, § 201, Oct. 10, 2008, 122 Stat. 4119, provided that:
 
 > **“(a) Program Required.—** The Secretary of Veterans Affairs shall, through the Office of Research and Development, carry out a program of research into comorbid post-traumatic stress disorder (PTSD) and substance use disorder.
 
@@ -10217,7 +10217,7 @@ Pub. L. 110–387, title II, § 201, Oct. 10, 2008, 122 Stat. 4119, provided t
 
 **Pilot Program on Provision of Readjustment and Transition Assistance to Veterans and Their Families in Cooperation With Vet Centers**
 
-Pub. L. 110–387, title III, § 302, Oct. 10, 2008, 122 Stat. 4120, provided that:
+Pub. L. 110–387, title III, § 302, Oct. 10, 2008, 122 Stat. 4120, provided that:
 
 > **“(a) Pilot Program.—** The Secretary of Veterans Affairs shall carry out, through a non-Department of Veterans Affairs entity, a pilot program to assess the feasability [sic] and advisability of providing readjustment and transition assistance described in subsection (b) to veterans and their families in cooperation with centers under section 1712A of title 38, United States Code (commonly referred to as ‘Vet Centers’).
 
@@ -10279,7 +10279,7 @@ Pub. L. 110–387, title III, § 302, Oct. 10, 2008, 122 Stat. 4120, provided 
 
 **Improvement and Expansion of Mental Health Services**
 
-Pub. L. 109–461, title II, § 203, Dec. 22, 2006, 120 Stat. 3410, provided that:
+Pub. L. 109–461, title II, § 203, Dec. 22, 2006, 120 Stat. 3410, provided that:
 
 > **“(a) Required Capacity for Community-Based Outpatient Clinics.—**
 
@@ -10321,7 +10321,7 @@ Pub. L. 109–461, title II, § 203, Dec. 22, 2006, 120 Stat. 3410, provided t
 
 **Expansion of Telehealth Services**
 
-Pub. L. 109–461, title II, § 205, Dec. 22, 2006, 120 Stat. 3411, provided that:
+Pub. L. 109–461, title II, § 205, Dec. 22, 2006, 120 Stat. 3411, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs shall increase the number of facilities of the Readjustment Counseling Service that are capable of providing health services and counseling through telehealth linkages with facilities of the Veterans Health Administration.
 
@@ -10329,7 +10329,7 @@ Pub. L. 109–461, title II, § 205, Dec. 22, 2006, 120 Stat. 3411, provided t
 
 **Expansion of Outreach Activities of Vet Centers**
 
-Pub. L. 109–461, title II, § 215, Dec. 22, 2006, 120 Stat. 3424, provided that:
+Pub. L. 109–461, title II, § 215, Dec. 22, 2006, 120 Stat. 3424, provided that:
 
 > **“(a) Additional Outreach Workers.—** The Secretary of Veterans Affairs shall employ not fewer than 100 veterans for the purpose of providing outreach to veterans on the availability of readjustment counseling and related mental health services for veterans under section 1712A of title 38, United States Code.
 
@@ -10343,7 +10343,7 @@ Pub. L. 109–461, title II, § 215, Dec. 22, 2006, 120 Stat. 3424, provided t
 
 **Study of Post-Traumatic Stress Disorder in Vietnam Veterans**
 
-Pub. L. 106–419, title II, § 212, Nov. 1, 2000, 114 Stat. 1843, provided that:
+Pub. L. 106–419, title II, § 212, Nov. 1, 2000, 114 Stat. 1843, provided that:
 
 > **“(a) Study on Post-Traumatic Stress Disorder.—** Not later than 10 months after the date of the enactment of this Act [Nov. 1, 2000], the Secretary of Veterans Affairs shall enter into a contract with an appropriate entity to carry out a study on post-traumatic stress disorder.
 
@@ -10363,7 +10363,7 @@ Pub. L. 106–419, title II, § 212, Nov. 1, 2000, 114 Stat. 1843, provided th
 
 **Specialized Mental Health Services**
 
-Pub. L. 106–117, title I, § 116, Nov. 30, 1999, 113 Stat. 1559, as amended by Pub. L. 108–170, title I, § 108, Dec. 6, 2003, 117 Stat. 2046, provided that:
+Pub. L. 106–117, title I, § 116, Nov. 30, 1999, 113 Stat. 1559, as amended by Pub. L. 108–170, title I, § 108, Dec. 6, 2003, 117 Stat. 2046, provided that:
 
 > **“(a) Improvement to Specialized Mental Health Services.—** The Secretary [of Veterans Affairs], in furtherance of the responsibilities of the Secretary under section 1706(b) of title 38, United States Code, shall carry out a program to expand and improve the provision of specialized mental health services to veterans. The Secretary shall establish the program in consultation with the Committee on Care of Severely Chronically Mentally Ill Veterans established pursuant to section 7321 of title 38, United States Code.
 
@@ -10403,7 +10403,7 @@ Pub. L. 106–117, title I, § 116, Nov. 30, 1999, 113 Stat. 1559, as amended 
 
 **Marriage and Family Counseling for Persian Gulf War Veterans**
 
-Pub. L. 102–405, title I, § 121, Oct. 9, 1992, 106 Stat. 1978, provided that:
+Pub. L. 102–405, title I, § 121, Oct. 9, 1992, 106 Stat. 1978, provided that:
 
 > **“(a) Requirement.—** Subject to the availability of funds appropriated pursuant to the authorization in subsection (g), the Secretary shall conduct a program to furnish to the persons referred to in subsection (b) the marriage and family counseling services referred to in subsection (c). The authority to conduct the program shall expire on September 30, 1994.
 
@@ -10485,7 +10485,7 @@ Pub. L. 102–405, title I, § 121, Oct. 9, 1992, 106 Stat. 1978, provided tha
 
 **Post-Traumatic Stress Disorder Program Planning**
 
-Pub. L. 102–405, title I, § 123, Oct. 9, 1992, 106 Stat. 1981, provided that:
+Pub. L. 102–405, title I, § 123, Oct. 9, 1992, 106 Stat. 1981, provided that:
 
 > **“(a) Plan.—** The Secretary shall develop a plan—
 
@@ -10527,19 +10527,19 @@ Pub. L. 102–405, title I, § 123, Oct. 9, 1992, 106 Stat. 1981, provided tha
 
 **Updates of Reports on Post-Traumatic Stress Disorder**
 
-Pub. L. 102–405, title I, § 122(b), Oct. 9, 1992, 106 Stat. 1981, directed Special Committee on Post-Traumatic-Stress Disorder, not later than Oct. 1, 1992, and Oct. 1, 1993, to concurrently submit to Secretary and Committees on Veterans’ Affairs of Senate and House of Representatives a report containing information updating the reports submitted to the Secretary under section 110(e) of the Veterans’ Health Care Act of 1984, together with any additional information the Special Committee considers appropriate regarding the overall efforts of the Department of Veterans Affairs to meet the needs of veterans with post-traumatic stress disorder and other psychological problems in readjusting to civilian life, and directed Secretary, not later than 90 days after receiving each of the reports to submit to the committees any comments concerning the report that the Secretary considered appropriate. Similar provisions were contained in Pub. L. 101–237, title II, § 201(e), Dec. 18, 1989, 103 Stat. 2066, as amended by Pub. L. 101–366, title II, § 204, Aug. 15, 1990, 104 Stat. 439.
+Pub. L. 102–405, title I, § 122(b), Oct. 9, 1992, 106 Stat. 1981, directed Special Committee on Post-Traumatic-Stress Disorder, not later than Oct. 1, 1992, and Oct. 1, 1993, to concurrently submit to Secretary and Committees on Veterans’ Affairs of Senate and House of Representatives a report containing information updating the reports submitted to the Secretary under section 110(e) of the Veterans’ Health Care Act of 1984, together with any additional information the Special Committee considers appropriate regarding the overall efforts of the Department of Veterans Affairs to meet the needs of veterans with post-traumatic stress disorder and other psychological problems in readjusting to civilian life, and directed Secretary, not later than 90 days after receiving each of the reports to submit to the committees any comments concerning the report that the Secretary considered appropriate. Similar provisions were contained in Pub. L. 101–237, title II, § 201(e), Dec. 18, 1989, 103 Stat. 2066, as amended by Pub. L. 101–366, title II, § 204, Aug. 15, 1990, 104 Stat. 439.
 
 **Authorization for Relocation of Certain Facilities**
 
-Pub. L. 100–687, div. B, title XV, § 1501(b), Nov. 18, 1988, 102 Stat. 4132, related to relocation of 17 Veterans’ Administration Readjustment Counseling Service Vet Centers from their locations away from general Veterans’ Administration health-care facilities to other such locations.
+Pub. L. 100–687, div. B, title XV, § 1501(b), Nov. 18, 1988, 102 Stat. 4132, related to relocation of 17 Veterans’ Administration Readjustment Counseling Service Vet Centers from their locations away from general Veterans’ Administration health-care facilities to other such locations.
 
 **Prohibition of Delegation of Duties**
 
-Pub. L. 100–322, title I, § 107(f), May 20, 1988, 102 Stat. 496, as amended by Pub. L. 100–527, § 10(4), Oct. 25, 1988, 102 Stat. 2641; Pub. L. 102–40, § 2(b), May 7, 1991, 105 Stat. 187; Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “The Chief Medical Director [now Under Secretary for Health] of the Department of Veterans Affairs may not delegate the function of making recommendations under [former] section 1712A(g)(3)(A) of title 38, United States Code, as amended by subsection (c).”
+Pub. L. 100–322, title I, § 107(f), May 20, 1988, 102 Stat. 496, as amended by Pub. L. 100–527, § 10(4), Oct. 25, 1988, 102 Stat. 2641; Pub. L. 102–40, § 2(b), May 7, 1991, 105 Stat. 187; Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “The Chief Medical Director [now Under Secretary for Health] of the Department of Veterans Affairs may not delegate the function of making recommendations under [former] section 1712A(g)(3)(A) of title 38, United States Code, as amended by subsection (c).”
 
 **Post-Traumatic-Stress Disorder; Diagnosis and Treatment; Education and Training of Health-Care Personnel; Coordination With Readjustment Counseling; Special Committee; National Center; Compilation and Publication of Research Results; Reports to Congressional Committees**
 
-Pub. L. 98–528, title I, § 110, Oct. 19, 1984, 98 Stat. 2691, as amended by Pub. L. 106–117, title II, § 206, Nov. 30, 1999, 113 Stat. 1563; Pub. L. 108–170, title IV, § 405(e), Dec. 6, 2003, 117 Stat. 2063; Pub. L. 110–387, § 202, Oct. 10, 2008, 122 Stat. 4120; Pub. L. 112–260, title II, § 204, Jan. 10, 2013, 126 Stat. 2424, provided that:
+Pub. L. 98–528, title I, § 110, Oct. 19, 1984, 98 Stat. 2691, as amended by Pub. L. 106–117, title II, § 206, Nov. 30, 1999, 113 Stat. 1563; Pub. L. 108–170, title IV, § 405(e), Dec. 6, 2003, 117 Stat. 2063; Pub. L. 110–387, § 202, Oct. 10, 2008, 122 Stat. 4120; Pub. L. 112–260, title II, § 204, Jan. 10, 2013, 126 Stat. 2424, provided that:
 
 > **“(a)**
 
@@ -10599,11 +10599,11 @@ Pub. L. 98–528, title I, § 110, Oct. 19, 1984, 98 Stat. 2691, as amended by
 
 **Study of Post-Traumatic Stress Disorder and Other Post-War Psychological Problems**
 
-Pub. L. 98–160, title I, § 102, Nov. 21, 1983, 97 Stat. 994, as amended by Pub. L. 99–576, title II, § 216, Oct. 28, 1986, 100 Stat. 3259, directed Administrator of Veterans’ Affairs to provide for the conducting of a comprehensive study of prevalence and incidence in population of Vietnam veterans of post-traumatic stress disorder and other psychological problems of readjusting to civilian life and effects of such problems on such veterans and directed Administrator to submit to Committees on Veterans’ Affairs of Senate and House of Representatives not later than Oct. 1, 1986, a report on results of study.
+Pub. L. 98–160, title I, § 102, Nov. 21, 1983, 97 Stat. 994, as amended by Pub. L. 99–576, title II, § 216, Oct. 28, 1986, 100 Stat. 3259, directed Administrator of Veterans’ Affairs to provide for the conducting of a comprehensive study of prevalence and incidence in population of Vietnam veterans of post-traumatic stress disorder and other psychological problems of readjusting to civilian life and effects of such problems on such veterans and directed Administrator to submit to Committees on Veterans’ Affairs of Senate and House of Representatives not later than Oct. 1, 1986, a report on results of study.
 
 **Readjustment Counseling and Related Mental Health Services for Veterans of War Declared After June 13, 1979**
 
-Pub. L. 96–22, title I, § 103(b), June 13, 1979, 93 Stat. 50, as amended by Pub. L. 102–83, §§ 5(c)(2), 6(d), Aug. 6, 1991, 105 Stat. 406, 407, provided that: “In the event of a declaration of war by the Congress after June 13, 1979, the Secretary of Veterans Affairs, not later than six months after the date of such declaration, shall determine and recommend to the Congress whether eligibility for the readjustment counseling and related mental health services provided for in section 1712A [formerly 612A] of title 38, United States Code (as added by subsection (a) of this section) should be extended to the veterans of such war.”
+Pub. L. 96–22, title I, § 103(b), June 13, 1979, 93 Stat. 50, as amended by Pub. L. 102–83, §§ 5(c)(2), 6(d), Aug. 6, 1991, 105 Stat. 406, 407, provided that: “In the event of a declaration of war by the Congress after June 13, 1979, the Secretary of Veterans Affairs, not later than six months after the date of such declaration, shall determine and recommend to the Congress whether eligibility for the readjustment counseling and related mental health services provided for in section 1712A [formerly 612A] of title 38, United States Code (as added by subsection (a) of this section) should be extended to the veterans of such war.”
 
 **Executive Documents**
 
@@ -10639,23 +10639,23 @@ Sec. 3. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-### § 1712B. Counseling for former prisoners of war
+### § 1712B. Counseling for former prisoners of war
 
 The Secretary may establish a program under which, upon the request of a veteran who is a former prisoner of war, the Secretary, within the limits of Department facilities, furnishes counseling to such veteran to assist such veteran in overcoming the psychological effects of the veteran’s detention or internment as a prisoner of war.
 
-(Added Pub. L. 99–166, title I, § 107(a), Dec. 3, 1985, 99 Stat. 945, § 612B; renumbered § 1712B and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Added Pub. L. 99–166, title I, § 107(a), Dec. 3, 1985, 99 Stat. 945, § 612B; renumbered § 1712B and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 612B of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 612B of this title as this section.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-### § 1712C. Dental insurance plan for veterans and survivors and dependents of veterans
+### § 1712C. Dental insurance plan for veterans and survivors and dependents of veterans
 
 **(a) In General.—** The Secretary shall establish and administer a dental insurance plan for veterans and survivors and dependents of veterans described in subsection (b).
 
@@ -10705,7 +10705,7 @@ Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veteran
 
 **(i) Regulations.—** The dental insurance plan under this section shall be administered under such regulations as the Secretary shall prescribe.
 
-(Added Pub. L. 114–218, § 2(a)(1), July 29, 2016, 130 Stat. 842; amended Pub. L. 117–42, § 2, Sept. 30, 2021, 135 Stat. 342.)
+(Added Pub. L. 114–218, § 2(a)(1), July 29, 2016, 130 Stat. 842; amended Pub. L. 117–42, § 2, Sept. 30, 2021, 135 Stat. 342.)
 
 **Editorial Notes**
 
@@ -10713,7 +10713,7 @@ Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veteran
 
 2021—Subsec. (j). Pub. L. 117–42 struck out subsec. (j). Text read as follows: “This section terminates on December 31, 2021.”
 
-### [§ 1713. Renumbered § 1781]
+### [§ 1713. Renumbered § 1781]
 
 **Editorial Notes**
 
@@ -10721,7 +10721,7 @@ Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veteran
 
 A prior section 1713 was renumbered section 3513 of this title.
 
-### § 1714. Fitting and training in use of prosthetic appliances; guide dogs; service dogs
+### § 1714. Fitting and training in use of prosthetic appliances; guide dogs; service dogs
 
 **(a)**
 
@@ -10755,7 +10755,7 @@ A prior section 1713 was renumbered section 3513 of this title.
 
 **(C)** meets such other requirements as the Secretary may prescribe.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1143, § 614; Pub. L. 93–82, title I, § 103(b), Aug. 2, 1973, 87 Stat. 181; Pub. L. 94–581, title II, § 210(a)(5), Oct. 21, 1976, 90 Stat. 2862; Pub. L. 96–151, title II, § 201(c), Dec. 20, 1979, 93 Stat. 1093; renumbered § 1714 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–135, title II, § 201(a), (b)(1), Jan. 23, 2002, 115 Stat. 2456, 2457; Pub. L. 111–117, div. E, title II, § 229, Dec. 16, 2009, 123 Stat. 3307; Pub. L. 116–315, title V, § 5108(a), Jan. 5, 2021, 134 Stat. 5032; Pub. L. 117–37, § 3(a), Aug. 25, 2021, 135 Stat. 331.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1143, § 614; Pub. L. 93–82, title I, § 103(b), Aug. 2, 1973, 87 Stat. 181; Pub. L. 94–581, title II, § 210(a)(5), Oct. 21, 1976, 90 Stat. 2862; Pub. L. 96–151, title II, § 201(c), Dec. 20, 1979, 93 Stat. 1093; renumbered § 1714 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–135, title II, § 201(a), (b)(1), Jan. 23, 2002, 115 Stat. 2456, 2457; Pub. L. 111–117, div. E, title II, § 229, Dec. 16, 2009, 123 Stat. 3307; Pub. L. 116–315, title V, § 5108(a), Jan. 5, 2021, 134 Stat. 5032; Pub. L. 117–37, § 3(a), Aug. 25, 2021, 135 Stat. 331.)
 
 **Editorial Notes**
 
@@ -10773,25 +10773,25 @@ Subsecs. (e), (f). Pub. L. 117–37 added subsecs. (e) and (f).
 
 2009—Subsec. (c)(3). Pub. L. 111–117 added par. (3).
 
-2002—Pub. L. 107–135, § 201(b)(1), substituted “guide dogs; service dogs” for “seeing-eye dogs” in section catchline.
+2002—Pub. L. 107–135, § 201(b)(1), substituted “guide dogs; service dogs” for “seeing-eye dogs” in section catchline.
 
-Subsec. (b). Pub. L. 107–135, § 201(a)(1), struck out “seeing-eye or” after “may provide”, substituted “who are enrolled under section 1705 of this title” for “who are entitled to disability compensation, and may pay travel and incidental expenses (under the terms and conditions set forth in section 111 of this title) to and from their homes and incurred in becoming adjusted to such seeing-eye or guide dogs”, and substituted “disability” for “handicap”.
+Subsec. (b). Pub. L. 107–135, § 201(a)(1), struck out “seeing-eye or” after “may provide”, substituted “who are enrolled under section 1705 of this title” for “who are entitled to disability compensation, and may pay travel and incidental expenses (under the terms and conditions set forth in section 111 of this title) to and from their homes and incurred in becoming adjusted to such seeing-eye or guide dogs”, and substituted “disability” for “handicap”.
 
-Subsecs. (c), (d). Pub. L. 107–135, § 201(a)(2), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 107–135, § 201(a)(2), added subsecs. (c) and (d).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 614 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 614 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Subsec. (a). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-1979—Subsec. (a). Pub. L. 96–151, § 201(c)(1), substituted provisions respecting travel and incidental expenses for provisions respecting necessary travel expenses.
+1979—Subsec. (a). Pub. L. 96–151, § 201(c)(1), substituted provisions respecting travel and incidental expenses for provisions respecting necessary travel expenses.
 
-Subsec. (b). Pub. L. 96–151, § 201(c)(2), substituted provisions respecting travel and incidental expenses for provisions respecting all necessary travel expenses.
+Subsec. (b). Pub. L. 96–151, § 201(c)(2), substituted provisions respecting travel and incidental expenses for provisions respecting all necessary travel expenses.
 
-1976—Subsec. (a). Pub. L. 94–581, § 210(a)(5)(A), substituted “such veteran’s home” for “his home”.
+1976—Subsec. (a). Pub. L. 94–581, § 210(a)(5)(A), substituted “such veteran’s home” for “his home”.
 
-Subsec. (b). Pub. L. 94–581, § 210(a)(5)(B), substituted “and may pay” for “and he may pay”.
+Subsec. (b). Pub. L. 94–581, § 210(a)(5)(B), substituted “and may pay” for “and he may pay”.
 
 1973—Pub. L. 93–82 designated existing provisions as subsec. (b) and added subsec. (a).
 
@@ -10799,7 +10799,7 @@ Subsec. (b). Pub. L. 94–581, § 210(a)(5)(B), substituted “and may pay” 
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 117–37, § 3(b), Aug. 25, 2021, 135 Stat. 332, provided that: “Section 1714(f) of title 38, United States Code, as added by subsection (a), shall apply with respect to a veteran provided a dog by the Secretary of Veterans Affairs on or after the date of the enactment of this Act [Aug. 25, 2021].”
+Pub. L. 117–37, § 3(b), Aug. 25, 2021, 135 Stat. 332, provided that: “Section 1714(f) of title 38, United States Code, as added by subsection (a), shall apply with respect to a veteran provided a dog by the Secretary of Veterans Affairs on or after the date of the enactment of this Act [Aug. 25, 2021].”
 
 **Effective Date of 1979 Amendment**
 
@@ -10815,7 +10815,7 @@ Section effective Sept. 1, 1973, see section 501 of Pub. L. 93–82, set out as 
 
 **Department of Veterans Affairs Pilot Program on Dog Training Therapy**
 
-Pub. L. 117–37, § 2, Aug. 25, 2021, 135 Stat. 329, provided that:
+Pub. L. 117–37, § 2, Aug. 25, 2021, 135 Stat. 329, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of the Act [probably means “this Act”, approved Aug. 25, 2021], the Secretary of Veterans Affairs shall commence the conduct of a pilot program to provide canine training to eligible veterans diagnosed with post-traumatic stress disorder (in this section referred to as ‘PTSD’) as an element of a complementary and integrative health program for such veterans.
 
@@ -10897,29 +10897,29 @@ Pub. L. 117–37, § 2, Aug. 25, 2021, 135 Stat. 329, provided that:
 
 **Provision by Department of Veterans Affairs of Prosthetic Appliances Through Non-Department Providers During Public Health Emergency**
 
-Pub. L. 116–136, div. B, title X, § 20007, Mar. 27, 2020, 134 Stat. 587, provided that: “The Secretary of Veterans Affairs shall ensure that, to the extent practicable, veterans who are receiving or are eligible to receive a prosthetic appliance under section 1714 or 1719 of title 38, United States Code, are able to receive such an appliance that the Secretary determines is needed from a non-Department of Veterans Affairs provider under a contract with the Department during a public health emergency.”
+Pub. L. 116–136, div. B, title X, § 20007, Mar. 27, 2020, 134 Stat. 587, provided that: “The Secretary of Veterans Affairs shall ensure that, to the extent practicable, veterans who are receiving or are eligible to receive a prosthetic appliance under section 1714 or 1719 of title 38, United States Code, are able to receive such an appliance that the Secretary determines is needed from a non-Department of Veterans Affairs provider under a contract with the Department during a public health emergency.”
 
 [For definition of “public health emergency” as used in section 20007 of Pub. L. 116–136, set out above, see section 20003 of Pub. L. 116–136, set out as a note under section 303 of this title.]
 
-### § 1715. Tobacco for hospitalized veterans
+### § 1715. Tobacco for hospitalized veterans
 
 The Secretary may furnish tobacco to veterans receiving hospital or domiciliary care.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1143, § 615; renumbered § 1715 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1143, § 615; renumbered § 1715 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 615 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 615 of this title as this section.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Use of Tobacco Products in Department of Veterans Affairs Facilities**
 
-Pub. L. 102–585, title V, § 526, Nov. 4, 1992, 106 Stat. 4961, provided that:
+Pub. L. 102–585, title V, § 526, Nov. 4, 1992, 106 Stat. 4961, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs shall take appropriate actions to ensure that, consistent with medical requirements and limitations, each facility of the Department described in subsection (b)—
 
@@ -10953,21 +10953,21 @@ Pub. L. 102–585, title V, § 526, Nov. 4, 1992, 106 Stat. 4961, provided tha
 
 > **“(d) Effective Date.—** The requirement to establish and maintain areas for smoking under subsection (a) shall take effect 60 days after the date on which the Comptroller General submits to the committees referred to in subsection (c)(1) that report required under that subsection.”
 
-### § 1716. Hospital care by other agencies of the United States
+### § 1716. Hospital care by other agencies of the United States
 
 When so specified in an appropriation or other Act, the Secretary may make allotments and transfers to the Departments of Health and Human Services (Public Health Service), the Army, Navy, Air Force, or Interior, for disbursement by them under the various headings of their appropriations, of such amounts as are necessary for the care and treatment of veterans entitled to hospitalization from the Department under this chapter. The amounts to be charged the Department for care and treatment of veterans in hospitals shall be calculated on the basis of a per diem rate approved by the Office of Management and Budget.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1143, § 616; Pub. L. 94–581, title II, § 202(g), Oct. 21, 1976, 90 Stat. 2856; Pub. L. 97–295, § 4(95)(A), Oct. 12, 1982, 96 Stat. 1313; renumbered § 1716 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1143, § 616; Pub. L. 94–581, title II, § 202(g), Oct. 21, 1976, 90 Stat. 2856; Pub. L. 97–295, § 4(95)(A), Oct. 12, 1982, 96 Stat. 1313; renumbered § 1716 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 616 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 616 of this title as this section.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
 
 1982—Pub. L. 97–295 substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
@@ -10979,7 +10979,7 @@ Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veteran
 
 Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of this title.
 
-### § 1717. Home health services; invalid lifts and other devices
+### § 1717. Home health services; invalid lifts and other devices
 
 **(a)**
 
@@ -11011,7 +11011,7 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 **(2)** The furnishing of improvements and alterations under paragraph (1) in connection with the furnishing of medical services described in subparagraph (A) or (B) of subsection (a)(2) shall be subject to the limitation specified in the applicable subparagraph.
 
-(Added Pub. L. 86–211, § 5, Aug. 29, 1959, 73 Stat. 435, § 617; amended Pub. L. 88–450, § 6(a), (c), Aug. 19, 1964, 78 Stat. 504; Pub. L. 90–77, title I, § 109, Aug. 31, 1967, 81 Stat. 180; Pub. L. 90–493, § 3(a), Aug. 19, 1968, 82 Stat. 809; Pub. L. 97–295, § 4(18), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 98–528, title I, § 107, Oct. 19, 1984, 98 Stat. 2690; Pub. L. 99–576, title II, § 202(2), Oct. 28, 1986, 100 Stat. 3254; Pub. L. 100–322, title I, § 101(d), May 20, 1988, 102 Stat. 491; renumbered § 1717 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title I, § 101(a), Oct. 9, 1992, 106 Stat. 1973; Pub. L. 104–262, title I, § 101(d)(6), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 105–114, title IV, § 402(b), Nov. 21, 1997, 111 Stat. 2294; Pub. L. 110–289, div. B, title VI, § 2601, July 30, 2008, 122 Stat. 2858; Pub. L. 111–163, title V, § 516(a), May 5, 2010, 124 Stat. 1166; Pub. L. 111–275, title X, § 1001(c)(1), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 116–283, div. A, title IX, § 926(a)(24), Jan. 1, 2021, 134 Stat. 3830.)
+(Added Pub. L. 86–211, § 5, Aug. 29, 1959, 73 Stat. 435, § 617; amended Pub. L. 88–450, § 6(a), (c), Aug. 19, 1964, 78 Stat. 504; Pub. L. 90–77, title I, § 109, Aug. 31, 1967, 81 Stat. 180; Pub. L. 90–493, § 3(a), Aug. 19, 1968, 82 Stat. 809; Pub. L. 97–295, § 4(18), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 98–528, title I, § 107, Oct. 19, 1984, 98 Stat. 2690; Pub. L. 99–576, title II, § 202(2), Oct. 28, 1986, 100 Stat. 3254; Pub. L. 100–322, title I, § 101(d), May 20, 1988, 102 Stat. 491; renumbered § 1717 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title I, § 101(a), Oct. 9, 1992, 106 Stat. 1973; Pub. L. 104–262, title I, § 101(d)(6), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 105–114, title IV, § 402(b), Nov. 21, 1997, 111 Stat. 2294; Pub. L. 110–289, div. B, title VI, § 2601, July 30, 2008, 122 Stat. 2858; Pub. L. 111–163, title V, § 516(a), May 5, 2010, 124 Stat. 1166; Pub. L. 111–275, title X, § 1001(c)(1), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 116–283, div. A, title IX, § 926(a)(24), Jan. 1, 2021, 134 Stat. 3830.)
 
 **Editorial Notes**
 
@@ -11029,39 +11029,39 @@ Pub. L. 111–163 added subpars. (A) and (B) and struck out former subpars. (A) 
 
 2008—Subsec. (d). Pub. L. 110–289 added subsec. (d).
 
-1997—Subsec. (a)(1). Pub. L. 105–114, § 402(b)(1), substituted “treatment of the veteran” for “treatment of the veteran’s disability”.
+1997—Subsec. (a)(1). Pub. L. 105–114, § 402(b)(1), substituted “treatment of the veteran” for “treatment of the veteran’s disability”.
 
-Subsec. (a)(2)(B). Pub. L. 105–114, § 402(b)(2), substituted “section 1710(a)” for “section 1710(a)(2)”.
+Subsec. (a)(2)(B). Pub. L. 105–114, § 402(b)(2), substituted “section 1710(a)” for “section 1710(a)(2)”.
 
-1996—Subsec. (a)(1). Pub. L. 104–262, § 101(d)(6)(A), substituted “section 1710(a)” for “section 1712(a)”.
+1996—Subsec. (a)(1). Pub. L. 104–262, § 101(d)(6)(A), substituted “section 1710(a)” for “section 1712(a)”.
 
-Subsec. (a)(2)(A). Pub. L. 104–262, § 101(d)(6)(B)(i), substituted “section 1710(a)(1) of this title, or for a disability described in section 1710(a)(2)(C) of this title” for “paragraph (1) of section 1712(a) of this title”.
+Subsec. (a)(2)(A). Pub. L. 104–262, § 101(d)(6)(B)(i), substituted “section 1710(a)(1) of this title, or for a disability described in section 1710(a)(2)(C) of this title” for “paragraph (1) of section 1712(a) of this title”.
 
-Subsec. (a)(2)(B). Pub. L. 104–262, § 101(d)(6)(B)(ii), substituted “section 1710(a)(2)” for “section 1712”.
+Subsec. (a)(2)(B). Pub. L. 104–262, § 101(d)(6)(B)(ii), substituted “section 1710(a)(2)” for “section 1712”.
 
 1992—Subsec. (a)(2). Pub. L. 102–405 substituted “$4,100” for “$2,500” in subpar. (A) and “$1,200” for “$600” in subpar. (B).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 617 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 617 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1712(a)” for “612(a)” in pars. (1) and (2)(A) and “1712” for “612” in par. (2)(B).
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1712(a)” for “612(a)” in pars. (1) and (2)(A) and “1712” for “612” in par. (2)(B).
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing in pars. (1) and (3).
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing in pars. (1) and (3).
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “1114(*l*)–(p)” for “314(*l*)–(p)” and “1134” for “334”.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “1114(*l*)–(p)” for “314(*l*)–(p)” and “1134” for “334”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1988—Pub. L. 100–322, § 101(d)(3), substituted “Home health services; invalid” for “Invalid” in section catchline.
+1988—Pub. L. 100–322, § 101(d)(3), substituted “Home health services; invalid” for “Invalid” in section catchline.
 
-Subsec. (a). Pub. L. 100–322, § 101(d)(1)(B), added subsec. (a). Former subsec. (a) redesignated (b).
+Subsec. (a). Pub. L. 100–322, § 101(d)(1)(B), added subsec. (a). Former subsec. (a) redesignated (b).
 
-Subsec. (a)(3). Pub. L. 100–322, § 101(d)(2), transferred subsec. (k) of section 612 of this title to subsec. (a) of this section and redesignated it as par. (3).
+Subsec. (a)(3). Pub. L. 100–322, § 101(d)(2), transferred subsec. (k) of section 612 of this title to subsec. (a) of this section and redesignated it as par. (3).
 
-Subsecs. (b), (c). Pub. L. 100–322, § 101(d)(1)(A), redesignated subsecs. (a) and (b) as (b) and (c), respectively.
+Subsecs. (b), (c). Pub. L. 100–322, § 101(d)(1)(A), redesignated subsecs. (a) and (b) as (b) and (c), respectively.
 
-1986—Subsec. (a)(3) [formerly § 612(k)]. Pub. L. 99–576 added subsec. (k). See 1988 Amendment note above.
+1986—Subsec. (a)(3) [formerly § 612(k)]. Pub. L. 99–576 added subsec. (k). See 1988 Amendment note above.
 
 1984—Pub. L. 98–528 designated existing provision as subsec. (a) and added subsec. (b).
 
@@ -11077,7 +11077,7 @@ Subsecs. (b), (c). Pub. L. 100–322, § 101(d)(1)(A), redesignated subsecs. (
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–405, title I, § 101(b), Oct. 9, 1992, 106 Stat. 1973, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to a veteran who first applies for benefits under section 1717(a)(2) of title 38, United States Code, after December 31, 1989.”
+Pub. L. 102–405, title I, § 101(b), Oct. 9, 1992, 106 Stat. 1973, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to a veteran who first applies for benefits under section 1717(a)(2) of title 38, United States Code, after December 31, 1989.”
 
 **Effective Date of 1988 Amendment**
 
@@ -11093,11 +11093,11 @@ Section effective July 1, 1960, see section 10 of Pub. L. 86–211, set out as a
 
 **Applicability of Increase in Grant Limits**
 
-Pub. L. 111–163, title V, § 516(b), May 5, 2010, 124 Stat. 1167, provided that: “A veteran who exhausts such veteran’s eligibility for benefits under section 1717(a)(2) of such title [probably means 38 U.S.C. 1717(a)(2)] before the date of the enactment of this Act [May 5, 2010], is not entitled to additional benefits under such section by reason of the amendments made by subsection (a) [amending this section].”
+Pub. L. 111–163, title V, § 516(b), May 5, 2010, 124 Stat. 1167, provided that: “A veteran who exhausts such veteran’s eligibility for benefits under section 1717(a)(2) of such title [probably means 38 U.S.C. 1717(a)(2)] before the date of the enactment of this Act [May 5, 2010], is not entitled to additional benefits under such section by reason of the amendments made by subsection (a) [amending this section].”
 
-Pub. L. 102–405, title I, § 101(c), Oct. 9, 1992, 106 Stat. 1973, provided that: “A veteran who exhausts such veteran’s eligibility for benefits under section 1717(a)(2) of title 38, United States Code, before January 1, 1990, is not entitled to additional benefits under such section by reason of the amendments made by subsection (a) [amending this section].”
+Pub. L. 102–405, title I, § 101(c), Oct. 9, 1992, 106 Stat. 1973, provided that: “A veteran who exhausts such veteran’s eligibility for benefits under section 1717(a)(2) of title 38, United States Code, before January 1, 1990, is not entitled to additional benefits under such section by reason of the amendments made by subsection (a) [amending this section].”
 
-### § 1718. Therapeutic and rehabilitative activities
+### § 1718. Therapeutic and rehabilitative activities
 
 **(a)** In providing rehabilitative services under this chapter, the Secretary, upon the recommendation of the Under Secretary for Health, may use the services of patients and members in Department health care facilities for therapeutic and rehabilitative purposes. Such patients and members shall not under these circumstances be held or considered as employees of the United States for any purpose. The Secretary shall prescribe the conditions for the use of such services.
 
@@ -11143,27 +11143,27 @@ Pub. L. 102–405, title I, § 101(c), Oct. 9, 1992, 106 Stat. 1973, provided 
 
 **(3)** A distribution of funds made under this section and a payment made to a veteran under a program of rehabilitative services described in paragraph (2)(C) shall be considered for the purposes of chapter 15 of this title to be a donation from a public or private relief or welfare organization.
 
-(Added Pub. L. 87–574, § 2(1), Aug. 6, 1962, 76 Stat. 308, § 618; amended Pub. L. 94–581, title I, § 105(a), Oct. 21, 1976, 90 Stat. 2845; Pub. L. 98–543, title III, § 303, Oct. 24, 1984, 98 Stat. 2748; Pub. L. 99–576, title II, § 205, Oct. 28, 1986, 100 Stat. 3256; Pub. L. 102–54, §§ 10, 14(b)(12), June 13, 1991, 105 Stat. 273, 284; renumbered § 1718 and amended Pub. L. 102–83, §§ 2(c)(3), 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 404–406; Pub. L. 102–86, title V, § 506(a)(1), Aug. 14, 1991, 105 Stat. 426; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title IV, § 401, Nov. 4, 1992, 106 Stat. 4953; Pub. L. 103–446, title XII, § 1201(i)(1), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 104–262, title I, § 101(d)(7), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 108–170, title I, § 104(b), Dec. 6, 2003, 117 Stat. 2045; Pub. L. 109–444, § 8(a)(1), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§ 1004(a)(1), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468.)
+(Added Pub. L. 87–574, § 2(1), Aug. 6, 1962, 76 Stat. 308, § 618; amended Pub. L. 94–581, title I, § 105(a), Oct. 21, 1976, 90 Stat. 2845; Pub. L. 98–543, title III, § 303, Oct. 24, 1984, 98 Stat. 2748; Pub. L. 99–576, title II, § 205, Oct. 28, 1986, 100 Stat. 3256; Pub. L. 102–54, §§ 10, 14(b)(12), June 13, 1991, 105 Stat. 273, 284; renumbered § 1718 and amended Pub. L. 102–83, §§ 2(c)(3), 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 404–406; Pub. L. 102–86, title V, § 506(a)(1), Aug. 14, 1991, 105 Stat. 426; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title IV, § 401, Nov. 4, 1992, 106 Stat. 4953; Pub. L. 103–446, title XII, § 1201(i)(1), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 104–262, title I, § 101(d)(7), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 108–170, title I, § 104(b), Dec. 6, 2003, 117 Stat. 2045; Pub. L. 109–444, § 8(a)(1), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§ 1004(a)(1), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Fair Labor Standards Act of 1938, referred to in subsec. (c)(2), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (c)(2), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
 **Amendments**
 
-2006—Subsec. (c)(2). Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+2006—Subsec. (c)(2). Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
-Pub. L. 109–461, § 1004(a)(1), inserted “of 1938” after “Act”.
+Pub. L. 109–461, § 1004(a)(1), inserted “of 1938” after “Act”.
 
-Pub. L. 109–444, which inserted “of 1938” after “Act”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, which inserted “of 1938” after “Act”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-2003—Subsec. (c)(1). Pub. L. 108–170, § 104(b)(2)(A), substituted “subsection (b) or (d)” for “subsection (b) of this section”.
+2003—Subsec. (c)(1). Pub. L. 108–170, § 104(b)(2)(A), substituted “subsection (b) or (d)” for “subsection (b) of this section”.
 
-Subsec. (c)(2). Pub. L. 108–170, § 104(b)(2)(B), substituted “subsection (b) or (d)” for “subsection (b) of this section” and “subsection (b)(2)” for “paragraph (2) of such subsection”.
+Subsec. (c)(2). Pub. L. 108–170, § 104(b)(2)(B), substituted “subsection (b) or (d)” for “subsection (b) of this section” and “subsection (b)(2)” for “paragraph (2) of such subsection”.
 
-Subsecs. (d) to (g). Pub. L. 108–170, § 104(b)(1), added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
+Subsecs. (d) to (g). Pub. L. 108–170, § 104(b)(1), added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
 
 1996—Subsec. (e). Pub. L. 104–262 substituted “section 1705” for “section 1712(i)”.
 
@@ -11177,55 +11177,55 @@ Subsec. (f). Pub. L. 102–585 amended subsec. (f) generally. Prior to amendment
 
 “(2) A distribution of funds made under this section shall be considered for purposes of chapter 15 of this title to be a donation from a public or private relief or welfare organization.”
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 618 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 618 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (b)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (b)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Pub. L. 102–54, § 10(a), substituted “a contract or other arrangement with any appropriate source (whether or not an element of the Department of Veterans Affairs or of any other Federal entity)” for “contractual arrangements with private industry or other sources outside the Veterans’ Administration”.
+Pub. L. 102–54, § 10(a), substituted “a contract or other arrangement with any appropriate source (whether or not an element of the Department of Veterans Affairs or of any other Federal entity)” for “contractual arrangements with private industry or other sources outside the Veterans’ Administration”.
 
-Subsec. (b)(2). Pub. L. 102–86 amended subsec. (b)(2) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by substituting “arrangements” for “arangements” in first sentence.
+Subsec. (b)(2). Pub. L. 102–86 amended subsec. (b)(2) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by substituting “arrangements” for “arangements” in first sentence.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Subsec. (c)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (c)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Pub. L. 102–54, § 10(b), substituted “furnishing rehabilitative services authorized in” for “carrying out the provisions of”.
+Pub. L. 102–54, § 10(b), substituted “furnishing rehabilitative services authorized in” for “carrying out the provisions of”.
 
-Subsec. (c)(2). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (c)(2). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (c)(3). Pub. L. 102–83, § 2(c)(3), substituted “section 529” for “section 214”.
+Subsec. (c)(3). Pub. L. 102–83, § 2(c)(3), substituted “section 529” for “section 214”.
 
-Pub. L. 102–54, § 14(b)(12), inserted “and” after “productivity”.
+Pub. L. 102–54, § 14(b)(12), inserted “and” after “productivity”.
 
-Subsec. (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (e). Pub. L. 102–83, § 5(c)(1), substituted “1712(i)” for “612(i)”.
+Subsec. (e). Pub. L. 102–83, § 5(c)(1), substituted “1712(i)” for “612(i)”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1986—Subsec. (a). Pub. L. 99–576, § 205(1), substituted “may use” for “may utilize”, “purposes. Such” for “purposes, at nominal remuneration, and such”, and “use” for “utilization”.
+1986—Subsec. (a). Pub. L. 99–576, § 205(1), substituted “may use” for “may utilize”, “purposes. Such” for “purposes, at nominal remuneration, and such”, and “use” for “utilization”.
 
-Subsec. (b)(1). Pub. L. 99–576, § 205(2), struck out “for remuneration” after “therapeutic work”.
+Subsec. (b)(1). Pub. L. 99–576, § 205(2), struck out “for remuneration” after “therapeutic work”.
 
-Subsec. (c)(2), (3). Pub. L. 99–576, § 205(3), substituted “distribute” for “pay” in par. (2), and substituted “rates of distribution” for “and wage rates” in par. (3).
+Subsec. (c)(2), (3). Pub. L. 99–576, § 205(3), substituted “distribute” for “pay” in par. (2), and substituted “rates of distribution” for “and wage rates” in par. (3).
 
-Subsec. (f). Pub. L. 99–576, § 205(4), designated existing provisions as par. (1), substituted “a distribution” for “remuneration”, and added par. (2).
+Subsec. (f). Pub. L. 99–576, § 205(4), designated existing provisions as par. (1), substituted “a distribution” for “remuneration”, and added par. (2).
 
 1984—Subsec. (f). Pub. L. 98–543 added subsec. (f).
 
-1976—Subsec. (a). Pub. L. 94–581, § 105(a)(1), (2), designated existing provisions as subsec. (a) and substituted “In providing rehabilitative services under this chapter, the” for “The” and “health care facilities” for “hospitals and domiciliaries”.
+1976—Subsec. (a). Pub. L. 94–581, § 105(a)(1), (2), designated existing provisions as subsec. (a) and substituted “In providing rehabilitative services under this chapter, the” for “The” and “health care facilities” for “hospitals and domiciliaries”.
 
-Subsecs. (b) to (e). Pub. L. 94–581, § 105(a)(3), added subsecs. (b) to (e).
+Subsecs. (b) to (e). Pub. L. 94–581, § 105(a)(3), added subsecs. (b) to (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -11235,29 +11235,29 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 **Demonstration Program of Compensated Work Therapy and Therapeutic Transitional Housing**
 
-Pub. L. 102–54, § 7, June 13, 1991, 105 Stat. 269, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, § 501, Aug. 14, 1991, 105 Stat. 424; Pub. L. 103–452, title I, § 103(f), Nov. 2, 1994, 108 Stat. 4787; Pub. L. 104–110, title I, § 102(b), Feb. 13, 1996, 110 Stat. 769, authorized Secretary of Veterans’ Affairs, between Oct. 1, 1991, and Dec. 31, 1997, to carry out compensated work therapy and therapeutic transitional housing demonstration program, prior to repeal by Pub. L. 105–114, title II, § 202(c)(1), Nov. 21, 1997, 111 Stat. 2287.
+Pub. L. 102–54, § 7, June 13, 1991, 105 Stat. 269, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, § 501, Aug. 14, 1991, 105 Stat. 424; Pub. L. 103–452, title I, § 103(f), Nov. 2, 1994, 108 Stat. 4787; Pub. L. 104–110, title I, § 102(b), Feb. 13, 1996, 110 Stat. 769, authorized Secretary of Veterans’ Affairs, between Oct. 1, 1991, and Dec. 31, 1997, to carry out compensated work therapy and therapeutic transitional housing demonstration program, prior to repeal by Pub. L. 105–114, title II, § 202(c)(1), Nov. 21, 1997, 111 Stat. 2287.
 
 **Settlement of Claims**
 
-Pub. L. 94–581, title I, § 105(b), Oct. 21, 1976, 90 Stat. 2846, as amended by Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067; Pub. L. 102–83, § 6(a), Aug. 6, 1991, 105 Stat. 407, provided that:
+Pub. L. 94–581, title I, § 105(b), Oct. 21, 1976, 90 Stat. 2846, as amended by Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067; Pub. L. 102–83, § 6(a), Aug. 6, 1991, 105 Stat. 407, provided that:
 
 > **“(1)** The Secretary of Veterans Affairs may settle claims made by the Department of Veterans Affairs against any private nonprofit corporation organized under the laws of any State, for the use of facilities and personnel of the Department in work projects as a part of a therapeutic or rehabilitation program for patients and members in health care facilities of the Department, and to execute a binding release of all claims by the United States against any such corporation, in such amounts, and upon such terms and conditions as the Secretary considers appropriate.
 
 > **“(2)** For the purposes of this subsection, notwithstanding section 3302 of title 31, or any other provision of law, the Secretary may utilize any funds received under any settlement made pursuant to paragraph (1) of this subsection for any purpose agreed upon by the Secretary and such corporation.”
 
-### § 1719. Repair or replacement of certain prosthetic and other appliances
+### § 1719. Repair or replacement of certain prosthetic and other appliances
 
 The Secretary may repair or replace any artificial limb, truss, brace, hearing aid, spectacles, or similar appliance (not including dental appliances) reasonably necessary to a veteran and belonging to such veteran which was damaged or destroyed by a fall or other accident caused by a service-connected disability for which such veteran is in receipt of, or but for the receipt of retirement pay would be entitled to, disability compensation.
 
-(Added Pub. L. 87–850, § 1(a), Oct. 23, 1962, 76 Stat. 1126, § 619; amended Pub. L. 94–581, title II, § 210(a)(6), Oct. 21, 1976, 90 Stat. 2862; renumbered § 1719 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Added Pub. L. 87–850, § 1(a), Oct. 23, 1962, 76 Stat. 1126, § 619; amended Pub. L. 94–581, title II, § 210(a)(6), Oct. 21, 1976, 90 Stat. 2862; renumbered § 1719 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 619 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 619 of this title as this section.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 1976—Pub. L. 94–581 substituted “belonging to such veteran” for “belonging to him”.
 
@@ -11269,9 +11269,9 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 **Effective Date**
 
-Pub. L. 87–850, § 2, Oct. 23, 1962, 76 Stat. 1126, provided that: “The amendment made by this Act [enacting this section] shall apply only with respect to the repair or replacement of artificial limbs, trusses, braces, hearing aids, spectacles, and similar devices damaged or destroyed after the date of enactment of this Act [Oct. 23, 1962].”
+Pub. L. 87–850, § 2, Oct. 23, 1962, 76 Stat. 1126, provided that: “The amendment made by this Act [enacting this section] shall apply only with respect to the repair or replacement of artificial limbs, trusses, braces, hearing aids, spectacles, and similar devices damaged or destroyed after the date of enactment of this Act [Oct. 23, 1962].”
 
-### § 1720. Transfers for nursing home care; adult day health care
+### § 1720. Transfers for nursing home care; adult day health care
 
 **(a)**
 
@@ -11381,13 +11381,13 @@ based on an examination by such physician.
 
 **(5)** In this subsection, the term “medical foster home” means a home designed to provide non-institutional, long-term, supportive care for veterans who are unable to live independently and prefer a family setting.
 
-(Added Pub. L. 88–450, § 2(a), Aug. 19, 1964, 78 Stat. 500, § 620; amended Pub. L. 90–429, July 26, 1968, 82 Stat. 446; Pub. L. 90–612, §§ 1, 3, Oct. 21, 1968, 82 Stat. 1202; Pub. L. 91–101, Oct. 30, 1969, 83 Stat. 167; Pub. L. 93–82, title I, § 104, Aug. 2, 1973, 87 Stat. 182; Pub. L. 94–581, title I, § 106, title II, §§ 202(h), 210(a)(7), Oct. 21, 1976, 90 Stat. 2847, 2856, 2863; Pub. L. 97–295, § 4(19), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 98–160, title I, § 103(a)(1), (2), Nov. 21, 1983, 97 Stat. 995; Pub. L. 99–166, title I, § 108(a)–(c), Dec. 3, 1985, 99 Stat. 946, 947; Pub. L. 99–272, title XIX, § 19011(d)(5), Apr. 7, 1986, 100 Stat. 379; Pub. L. 100–322, title I, §§ 103(b), 111(a), May 20, 1988, 102 Stat. 493, 499; renumbered § 1720 and amended Pub. L. 102–83, §§ 4(a)(2)(A)(ii), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, § 101(d)(8), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 105–114, title IV, § 402(c), Nov. 21, 1997, 111 Stat. 2294; Pub. L. 106–117, title I, § 101(d), Nov. 30, 1999, 113 Stat. 1549; Pub. L. 108–170, title I, § 105, Dec. 6, 2003, 117 Stat. 2045; Pub. L. 111–163, title V, § 507, May 5, 2010, 124 Stat. 1161; Pub. L. 111–350, § 5(j)(1), Jan. 4, 2011, 124 Stat. 3850; Pub. L. 112–154, title I, § 105(b), Aug. 6, 2012, 126 Stat. 1170; Pub. L. 117–328, div. U, title I, § 165(a)(1), Dec. 29, 2022, 136 Stat. 5431.)
+(Added Pub. L. 88–450, § 2(a), Aug. 19, 1964, 78 Stat. 500, § 620; amended Pub. L. 90–429, July 26, 1968, 82 Stat. 446; Pub. L. 90–612, §§ 1, 3, Oct. 21, 1968, 82 Stat. 1202; Pub. L. 91–101, Oct. 30, 1969, 83 Stat. 167; Pub. L. 93–82, title I, § 104, Aug. 2, 1973, 87 Stat. 182; Pub. L. 94–581, title I, § 106, title II, §§ 202(h), 210(a)(7), Oct. 21, 1976, 90 Stat. 2847, 2856, 2863; Pub. L. 97–295, § 4(19), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 98–160, title I, § 103(a)(1), (2), Nov. 21, 1983, 97 Stat. 995; Pub. L. 99–166, title I, § 108(a)–(c), Dec. 3, 1985, 99 Stat. 946, 947; Pub. L. 99–272, title XIX, § 19011(d)(5), Apr. 7, 1986, 100 Stat. 379; Pub. L. 100–322, title I, §§ 103(b), 111(a), May 20, 1988, 102 Stat. 493, 499; renumbered § 1720 and amended Pub. L. 102–83, §§ 4(a)(2)(A)(ii), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, § 101(d)(8), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 105–114, title IV, § 402(c), Nov. 21, 1997, 111 Stat. 2294; Pub. L. 106–117, title I, § 101(d), Nov. 30, 1999, 113 Stat. 1549; Pub. L. 108–170, title I, § 105, Dec. 6, 2003, 117 Stat. 2045; Pub. L. 111–163, title V, § 507, May 5, 2010, 124 Stat. 1161; Pub. L. 111–350, § 5(j)(1), Jan. 4, 2011, 124 Stat. 3850; Pub. L. 112–154, title I, § 105(b), Aug. 6, 2012, 126 Stat. 1170; Pub. L. 117–328, div. U, title I, § 165(a)(1), Dec. 29, 2022, 136 Stat. 5431.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (c)(1)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(1)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The date of the enactment of the Joseph Maxwell Cleland and Robert Joseph Dole Memorial Veterans Benefits and Health Care Improvement Act of 2022, referred to in subsec. (h)(1), (3), is the date of enactment of Pub. L. 117–328, which was approved Dec. 29, 2022.
 
@@ -11405,9 +11405,9 @@ Prior section 1720 was renumbered section 3520 of this title.
 
 2010—Subsec. (g). Pub. L. 111–163 added subsec. (g).
 
-2003—Subsec. (c). Pub. L. 108–170, § 105(a), designated existing provisions as par. (2) and added par. (1).
+2003—Subsec. (c). Pub. L. 108–170, § 105(a), designated existing provisions as par. (2) and added par. (1).
 
-Subsec. (f)(1)(B). Pub. L. 108–170, § 105(b), inserted “or agreement” after “contract” in two places.
+Subsec. (f)(1)(B). Pub. L. 108–170, § 105(b), inserted “or agreement” after “contract” in two places.
 
 1999—Subsec. (f)(1)(A). Pub. L. 106–117 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The Secretary is authorized to furnish adult day health care as provided for in this subsection. For the purpose only of authorizing the furnishing of such care and specifying the terms and conditions under which it may be furnished to veterans needing such care—
 
@@ -11417,53 +11417,53 @@ Subsec. (f)(1)(B). Pub. L. 108–170, § 105(b), inserted “or agreement” a
 
 1997—Subsec. (a)(1)(A)(i). Pub. L. 105–114 substituted “care” for “hospital care, nursing home care, or domiciliary care”.
 
-1996—Subsec. (f)(1)(A)(ii). Pub. L. 104–262, § 101(d)(8)(A), substituted “paragraph (1), (2), or (3) of section 1710(a)” for “section 1712(a)(1)(B)”.
+1996—Subsec. (f)(1)(A)(ii). Pub. L. 104–262, § 101(d)(8)(A), substituted “paragraph (1), (2), or (3) of section 1710(a)” for “section 1712(a)(1)(B)”.
 
-Subsec. (f)(3). Pub. L. 104–262, § 101(d)(8)(B), struck out par. (3) which read as follows: “Adult day health care may not be furnished under this section after September 30, 1991.”
+Subsec. (f)(3). Pub. L. 104–262, § 101(d)(8)(B), struck out par. (3) which read as follows: “Adult day health care may not be furnished under this section after September 30, 1991.”
 
 1992—Subsec. (a)(2)(B). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 620 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 620 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing in par. (1) introductory provisions and subpar. (A) and pars. (2) to (4).
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing in par. (1) introductory provisions and subpar. (A) and pars. (2) to (4).
 
-Pub. L. 102–83, § 4(a)(5), substituted “non-Department” for “non-Veterans’ Administration” wherever appearing in pars. (1) and (3)(A)(i).
+Pub. L. 102–83, § 4(a)(5), substituted “non-Department” for “non-Veterans’ Administration” wherever appearing in pars. (1) and (3)(A)(i).
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in par. (2)(A).
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in par. (2)(A).
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (d)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (d)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Pub. L. 102–83, § 4(a)(5), substituted “non-Department” for “non-Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(5), substituted “non-Department” for “non-Veterans’ Administration”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (d)(2)(A). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Subsec. (d)(2)(A). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in pars. (1) and (2).
+Subsec. (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in pars. (1) and (2).
 
-Pub. L. 102–83, § 4(a)(5), substituted “non-Department” for “non-Veterans’ Administration” in par. (2).
+Pub. L. 102–83, § 4(a)(5), substituted “non-Department” for “non-Veterans’ Administration” in par. (2).
 
-Subsec. (f)(1)(A). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
+Subsec. (f)(1)(A). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
-Subsec. (f)(1)(A)(ii). Pub. L. 102–83, § 5(c)(1), substituted “1712(a)(1)(B)” for “612(a)(1)(B)”.
+Subsec. (f)(1)(A)(ii). Pub. L. 102–83, § 5(c)(1), substituted “1712(a)(1)(B)” for “612(a)(1)(B)”.
 
-Subsec. (f)(1)(B). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” before “may” in two places.
+Subsec. (f)(1)(B). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” before “may” in two places.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-Pub. L. 102–83, § 4(a)(2)(A)(ii), substituted “Secretary” for “Veterans’ Administration” in second sentence.
+Pub. L. 102–83, § 4(a)(2)(A)(ii), substituted “Secretary” for “Veterans’ Administration” in second sentence.
 
-Subsec. (f)(2). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (f)(2). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-1988—Subsec. (e)(1). Pub. L. 100–322, § 103(b), struck out “For the purposes of this section, the term ‘nursing home care’ includes intermediate care, as determined by the Administrator in accordance with regulations which the Administrator shall prescribe.” at beginning and struck out “(as defined in section 101(28) of this title)” after “provided for nursing home care”.
+1988—Subsec. (e)(1). Pub. L. 100–322, § 103(b), struck out “For the purposes of this section, the term ‘nursing home care’ includes intermediate care, as determined by the Administrator in accordance with regulations which the Administrator shall prescribe.” at beginning and struck out “(as defined in section 101(28) of this title)” after “provided for nursing home care”.
 
-Subsec. (f)(3). Pub. L. 100–322, § 111(a), substituted “September 30, 1991” for “September 30, 1988”.
+Subsec. (f)(3). Pub. L. 100–322, § 111(a), substituted “September 30, 1991” for “September 30, 1988”.
 
 1986—Subsec. (f)(1)(A)(ii). Pub. L. 99–272 substituted “612(a)(1)(B)” for “612(f)(2)”.
 
-1985—Subsec. (a). Pub. L. 99–166, § 108(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Subject to subsection (b) and except as provided in subsection (e) of this section, the Administrator may transfer—
+1985—Subsec. (a). Pub. L. 99–166, § 108(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Subject to subsection (b) and except as provided in subsection (e) of this section, the Administrator may transfer—
 
 “(1) Any veteran who has been furnished care by the Administrator in a hospital under the direct jurisdiction of the Administrator, and
 
@@ -11477,47 +11477,47 @@ to any public or private institution not under the jurisdiction of the Administr
 
 Nursing home care may not be furnished pursuant to this section at the expense of the United States for more than six months in the aggregate in connection with any one transfer, except (I) in the case of the veteran whose hospitalization was primarily for a service-connected disability, or (II) where in the judgment of the Administrator a longer period is warranted in the case of any other veteran. Any veteran who is furnished care by the Administrator in a hospital in Alaska or Hawaii may be furnished nursing home care under the provisions of this section even if such hospital is not under the direct jurisdiction of the Administrator.”
 
-Subsec. (d). Pub. L. 99–166, § 108(b), designated existing first sentence as par. (1), substituted “to any non-Veterans’ Administration nursing home” for “to any public or private institution not under the jurisdiction of the Administrator which furnishes nursing home care”, inserted “The Administrator may also authorize a direct admission to such a nursing home for nursing home care for any veteran who has been discharged from a hospital under the direct jurisdiction of the Administrator and who is currently receiving medical services as part of home health services from the Veterans’ Administration.”, substituted par. (2) for “Such admission may be authorized upon determination of need therefor by a physician employed by the Veterans’ Administration or, in areas where no such physician is available, carrying out such function under contract or fee arrangement based on an examination by such physician.”, and designated existing last sentence as par. (3).
+Subsec. (d). Pub. L. 99–166, § 108(b), designated existing first sentence as par. (1), substituted “to any non-Veterans’ Administration nursing home” for “to any public or private institution not under the jurisdiction of the Administrator which furnishes nursing home care”, inserted “The Administrator may also authorize a direct admission to such a nursing home for nursing home care for any veteran who has been discharged from a hospital under the direct jurisdiction of the Administrator and who is currently receiving medical services as part of home health services from the Veterans’ Administration.”, substituted par. (2) for “Such admission may be authorized upon determination of need therefor by a physician employed by the Veterans’ Administration or, in areas where no such physician is available, carrying out such function under contract or fee arrangement based on an examination by such physician.”, and designated existing last sentence as par. (3).
 
-Subsec. (e). Pub. L. 99–166, § 108(c), designated existing provisions as par. (1), substituted “subsection (a)(2)(B)” for “subsection (a)(ii)” in second sentence, and added par. (2).
+Subsec. (e). Pub. L. 99–166, § 108(c), designated existing provisions as par. (1), substituted “subsection (a)(2)(B)” for “subsection (a)(ii)” in second sentence, and added par. (2).
 
-1983—Pub. L. 98–160, § 103(a)(2), inserted “; adult day health care” in section catchline.
+1983—Pub. L. 98–160, § 103(a)(2), inserted “; adult day health care” in section catchline.
 
-Subsec. (f). Pub. L. 98–160, § 103(a)(1), added subsec. (f).
+Subsec. (f). Pub. L. 98–160, § 103(a)(1), added subsec. (f).
 
-1982—Subsec. (a)(ii) Pub. L. 97–295, § 4(19)(A), substituted “percent” for “per centum” wherever appearing.
+1982—Subsec. (a)(ii) Pub. L. 97–295, § 4(19)(A), substituted “percent” for “per centum” wherever appearing.
 
-Subsec. (c). Pub. L. 97–295, § 4(19)(B), inserted “(41 U.S.C. 351(b)(1))” after “the Service Contract Act of 1965” and substituted “(29 U.S.C. 206(b))” for “, as amended,”.
+Subsec. (c). Pub. L. 97–295, § 4(19)(B), inserted “(41 U.S.C. 351(b)(1))” after “the Service Contract Act of 1965” and substituted “(29 U.S.C. 206(b))” for “, as amended,”.
 
-1976—Subsec. (a). Pub. L. 94–581, §§ 106(1)–(3), 202(h), inserted “and except as provided in subsection (e)” after “subsection (b)” in provisions preceding par. (1), substituted “direct jurisdiction” for “direct and exclusive jurisdiction” in par. (1), substituted “45 per centum” for “40 per centum” and “annually” for “from time to time” in cl. (ii) and inserted “, or not to exceed 50 per centum of such cost where determined necessary by the Administrator, upon recommendation of the Chief Medical Director, to provide adequate care” at the end thereof, and substituted “direct jurisdiction” for “direct and exclusive jurisdiction” in provisions following cl. (ii).
+1976—Subsec. (a). Pub. L. 94–581, §§ 106(1)–(3), 202(h), inserted “and except as provided in subsection (e)” after “subsection (b)” in provisions preceding par. (1), substituted “direct jurisdiction” for “direct and exclusive jurisdiction” in par. (1), substituted “45 per centum” for “40 per centum” and “annually” for “from time to time” in cl. (ii) and inserted “, or not to exceed 50 per centum of such cost where determined necessary by the Administrator, upon recommendation of the Chief Medical Director, to provide adequate care” at the end thereof, and substituted “direct jurisdiction” for “direct and exclusive jurisdiction” in provisions following cl. (ii).
 
-Subsec. (b). Pub. L. 94–581, § 210(a)(7), substituted “such standards as the Administrator may prescribe” for “such standards as he may prescribe”.
+Subsec. (b). Pub. L. 94–581, § 210(a)(7), substituted “such standards as the Administrator may prescribe” for “such standards as he may prescribe”.
 
-Subsec. (e). Pub. L. 94–581, § 106(4), added subsec. (e).
+Subsec. (e). Pub. L. 94–581, § 106(4), added subsec. (e).
 
-1973—Subsec. (a). Pub. L. 93–82, § 104(a), (b), designated cls. (1) and (2) as (i) and (ii), respectively, and in provisions preceding cl. (i) as so designated, substituted authority of the Administrator to transfer veterans and other persons under pars. (1) and (2), for authority of the Administrator to transfer veterans who have been furnished care by the Administrator in a hospital under the direct and exclusive jurisdiction of the Administrator, to any public or private institution not under the jurisdiction of the Administrator which furnishes nursing home care for care at the expense of the United States, and in the provisions following cl. (ii) as so designated, substituted designations (I) and (II) for designations (A) and (B).
+1973—Subsec. (a). Pub. L. 93–82, § 104(a), (b), designated cls. (1) and (2) as (i) and (ii), respectively, and in provisions preceding cl. (i) as so designated, substituted authority of the Administrator to transfer veterans and other persons under pars. (1) and (2), for authority of the Administrator to transfer veterans who have been furnished care by the Administrator in a hospital under the direct and exclusive jurisdiction of the Administrator, to any public or private institution not under the jurisdiction of the Administrator which furnishes nursing home care for care at the expense of the United States, and in the provisions following cl. (ii) as so designated, substituted designations (I) and (II) for designations (A) and (B).
 
-Subsec. (b). Pub. L. 93–82, § 104(c), inserted provisions relating to the admissions of veterans to institutions for nursing home care and for the furnishing of standards and reports to Federal, State and local agencies charged with the responsibility of licensing or otherwise regulating or inspecting such institutions.
+Subsec. (b). Pub. L. 93–82, § 104(c), inserted provisions relating to the admissions of veterans to institutions for nursing home care and for the furnishing of standards and reports to Federal, State and local agencies charged with the responsibility of licensing or otherwise regulating or inspecting such institutions.
 
-Subsec. (d). Pub. L. 93–82, § 104(d), added subsec. (d).
+Subsec. (d). Pub. L. 93–82, § 104(d), added subsec. (d).
 
 1969—Subsec. (a). Pub. L. 91–101 inserted provision authorizing the furnishing of nursing home care for more than six months in the aggregate in connection with any one transfer in the case of a veteran whose hospitalization was primarily for a service-connected disability.
 
-1968—Subsec. (a). Pub. L. 90–612, § 1, authorized furnishing of nursing home care to veterans who are being furnished care by the Administrator in hospitals in Alaska or Hawaii even if the hospitals involved are not under the direct and exclusive jurisdiction of the Administrator.
+1968—Subsec. (a). Pub. L. 90–612, § 1, authorized furnishing of nursing home care to veterans who are being furnished care by the Administrator in hospitals in Alaska or Hawaii even if the hospitals involved are not under the direct and exclusive jurisdiction of the Administrator.
 
 Subsec. (a)(2). Pub. L. 90–429 substituted “40 per centum” for “one-third”.
 
-Subsec. (c). Pub. L. 90–612, § 3, added subsec. (c).
+Subsec. (c). Pub. L. 90–612, § 3, added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–328, div. U, title I, § 165(a)(2), Dec. 29, 2022, 136 Stat. 5432, provided that: “Subsection (h) of section 1720 of title 38, United States Code, as added by paragraph (1), shall take effect 90 days after the date of the enactment of this Act [Dec. 29, 2022].”
+Pub. L. 117–328, div. U, title I, § 165(a)(2), Dec. 29, 2022, 136 Stat. 5432, provided that: “Subsection (h) of section 1720 of title 38, United States Code, as added by paragraph (1), shall take effect 90 days after the date of the enactment of this Act [Dec. 29, 2022].”
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–154, title I, § 105(c), Aug. 6, 2012, 126 Stat. 1170, provided that:
+Pub. L. 112–154, title I, § 105(c), Aug. 6, 2012, 126 Stat. 1170, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section and section 1745 of this title] shall apply to care provided on or after the date that is 180 days after the date of the enactment of this Act [Aug. 6, 2012].
 
@@ -11537,7 +11537,7 @@ Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L.
 
 **Ongoing Monitoring of Medical Foster Home Program**
 
-Pub. L. 117–328, div. U, title I, § 165(b), Dec. 29, 2022, 136 Stat. 5432, provided that:
+Pub. L. 117–328, div. U, title I, § 165(b), Dec. 29, 2022, 136 Stat. 5432, provided that:
 
 > **“(1) In general.—** The Secretary of Veterans Affairs shall create a system to monitor and assess the workload for the Department of Veterans Affairs in carrying out the authority under section 1720(h) of title 38, United States Code, as added by subsection (a)(1), including by tracking—
 
@@ -11559,9 +11559,9 @@ Pub. L. 117–328, div. U, title I, § 165(b), Dec. 29, 2022, 136 Stat. 5432, 
 
 Pub. L. 100–322, title I, §111(b), (c), May 20, 1988, 102 Stat. 499, directed Administrator to conduct a study of medical efficacy and cost-effectiveness of furnishing adult day health care under subsec. (f) of this section as an alternative to nursing home care and the comparative advantages and disadvantages of providing such care through facilities that are not under direct jurisdiction of Administrator and through facilities that are under direct jurisdiction of Administrator, with Administrator to submit to Committees on Veterans’ Affairs of Senate and House of Representatives an interim report on the study not later than Feb. 1, 1988, a final report on such study not later than Feb. 1, 1991.
 
-Pub. L. 98–160, title I, § 103(b), (c), Nov. 21, 1983, 97 Stat. 996, which provided for a study and report, not later than Feb. 1, 1988, of the medical efficacy and cost-effectiveness of furnishing adult day health care as an alternative for nursing home care and of the comparative advantages and disadvantages of providing such care in Veterans’ Administration or in other facilities, was repealed by Pub. L. 100–322, title I, § 111(d), May 20, 1988, 102 Stat. 499.
+Pub. L. 98–160, title I, § 103(b), (c), Nov. 21, 1983, 97 Stat. 996, which provided for a study and report, not later than Feb. 1, 1988, of the medical efficacy and cost-effectiveness of furnishing adult day health care as an alternative for nursing home care and of the comparative advantages and disadvantages of providing such care in Veterans’ Administration or in other facilities, was repealed by Pub. L. 100–322, title I, § 111(d), May 20, 1988, 102 Stat. 499.
 
-### § 1720A. Treatment and rehabilitative services for persons with drug or alcohol dependency
+### § 1720A. Treatment and rehabilitative services for persons with drug or alcohol dependency
 
 **(a)** The Secretary, in consultation with the Secretary of Labor and the Director of the Office of Personnel Management, may take appropriate steps to (1) urge all Federal agencies and appropriate private and public firms, organizations, agencies, and persons to provide appropriate employment and training opportunities for veterans who have been provided treatment and rehabilitative services under this title for alcohol or drug dependence or abuse disabilities and have been determined by competent medical authority to be sufficiently rehabilitated to be employable, and (2) provide all possible assistance to the Secretary of Labor in placing such veterans in such opportunities.
 
@@ -11583,7 +11583,7 @@ Pub. L. 98–160, title I, § 103(b), (c), Nov. 21, 1983, 97 Stat. 996, which 
 
 **(2)** Each plan under paragraph (1) shall make available clinically proven substance abuse treatment methods, including opioid substitution therapy, to veterans with respect to whom a qualified medical professional has determined such treatment methods to be appropriate.
 
-(Added Pub. L. 96–22, title I, § 104(a), June 13, 1979, 93 Stat. 50, § 620A; amended Pub. L. 96–128, title V, § 501(c), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–251, § 6, Sept. 8, 1982, 96 Stat. 716; Pub. L. 97–258, § 3(k)(1), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 99–108, § 3, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title I, § 101(a), (b)(1), Dec. 3, 1985, 99 Stat. 942, 943; Pub. L. 100–687, div. B, title XV, § 1509, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 100–689, title V, § 502(a)(1), (b), Nov. 18, 1988, 102 Stat. 4179; Pub. L. 102–54, § 14(b)(13), June 13, 1991, 105 Stat. 284; renumbered § 1720A and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, § 303, Aug. 14, 1991, 105 Stat. 416; Pub. L. 103–452, title I, § 103(b), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, § 101(b), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, § 202(b), Nov. 21, 1997, 111 Stat. 2287; Pub. L. 106–117, title I, § 114, Nov. 30, 1999, 113 Stat. 1558; Pub. L. 106–419, title IV, § 404(a)(4), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–95, § 8(c), Dec. 21, 2001, 115 Stat. 920; Pub. L. 116–283, div. A, title IX, § 926(a)(25), Jan. 1, 2021, 134 Stat. 3830.)
+(Added Pub. L. 96–22, title I, § 104(a), June 13, 1979, 93 Stat. 50, § 620A; amended Pub. L. 96–128, title V, § 501(c), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–251, § 6, Sept. 8, 1982, 96 Stat. 716; Pub. L. 97–258, § 3(k)(1), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 99–108, § 3, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title I, § 101(a), (b)(1), Dec. 3, 1985, 99 Stat. 942, 943; Pub. L. 100–687, div. B, title XV, § 1509, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 100–689, title V, § 502(a)(1), (b), Nov. 18, 1988, 102 Stat. 4179; Pub. L. 102–54, § 14(b)(13), June 13, 1991, 105 Stat. 284; renumbered § 1720A and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, § 303, Aug. 14, 1991, 105 Stat. 416; Pub. L. 103–452, title I, § 103(b), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, § 101(b), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, § 202(b), Nov. 21, 1997, 111 Stat. 2287; Pub. L. 106–117, title I, § 114, Nov. 30, 1999, 113 Stat. 1558; Pub. L. 106–419, title IV, § 404(a)(4), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–95, § 8(c), Dec. 21, 2001, 115 Stat. 920; Pub. L. 116–283, div. A, title IX, § 926(a)(25), Jan. 1, 2021, 134 Stat. 3830.)
 
 **Editorial Notes**
 
@@ -11595,21 +11595,21 @@ Pub. L. 98–160, title I, § 103(b), (c), Nov. 21, 1983, 97 Stat. 996, which 
 
 2000—Subsec. (c)(1). Pub. L. 106–419 substituted “for such disability. Care and services provided to a member so transferred” for “for such disability unless such transfer is during the last thirty days of such member’s enlistment period or tour of duty, in which case such care and services provided to such member”.
 
-1999—Subsec. (c)(1). Pub. L. 106–117, § 114(a), substituted “may be transferred” for “may not be transferred” in first sentence.
+1999—Subsec. (c)(1). Pub. L. 106–117, § 114(a), substituted “may be transferred” for “may not be transferred” in first sentence.
 
-Pub. L. 106–117, § 114(a)(2), which directed the amendment of first sentence of par. (1) by striking out “unless such transfer is during the last thirty days of such member’s enlistment or tour of duty”, could not be executed because that phrase did not appear.
+Pub. L. 106–117, § 114(a)(2), which directed the amendment of first sentence of par. (1) by striking out “unless such transfer is during the last thirty days of such member’s enlistment or tour of duty”, could not be executed because that phrase did not appear.
 
-Subsec. (c)(2). Pub. L. 106–117, § 114(b), struck out “during the last thirty days of such person’s enlistment period or tour of duty” before period at end of first sentence.
+Subsec. (c)(2). Pub. L. 106–117, § 114(b), struck out “during the last thirty days of such person’s enlistment period or tour of duty” before period at end of first sentence.
 
-1997—Pub. L. 105–114, § 202(b)(2), substituted “Treatment and rehabilitative services for persons with drug and alcohol dependency” for “Treatment and rehabilitation for alcohol or drug dependence or abuse disabilities” in section catchline.
+1997—Pub. L. 105–114, § 202(b)(2), substituted “Treatment and rehabilitative services for persons with drug and alcohol dependency” for “Treatment and rehabilitation for alcohol or drug dependence or abuse disabilities” in section catchline.
 
-Subsecs. (a) to (d). Pub. L. 105–114, § 202(b)(1), redesignated subsecs. (b) to (d) as (a) to (c), respectively, and struck out former subsec. (a) which read as follows:
+Subsecs. (a) to (d). Pub. L. 105–114, § 202(b)(1), redesignated subsecs. (b) to (d) as (a) to (c), respectively, and struck out former subsec. (a) which read as follows:
 
 “(a)(1) The Secretary, in furnishing hospital, nursing home, and domiciliary care and medical and rehabilitative services under this chapter, may contract for care and treatment and rehabilitative services in halfway houses, therapeutic communities, psychiatric residential treatment centers, and other community-based treatment facilities for eligible veterans suffering from alcohol or drug dependence or abuse disabilities.
 
 “(2) Before furnishing such care and services to any veteran through a contract facility as authorized by paragraph (1) of this subsection, the Secretary shall approve (in accordance with criteria which the Secretary shall prescribe by regulation) the quality and effectiveness of the program operated by such facility for the purpose for which such veteran is to be furnished such care and services.”
 
-Subsecs. (e) to (g). Pub. L. 105–114, § 202(b)(1)(B), struck out subsecs. (e) to (g) which read as follows:
+Subsecs. (e) to (g). Pub. L. 105–114, § 202(b)(1)(B), struck out subsecs. (e) to (g) which read as follows:
 
 “(e) The Secretary may not furnish care and treatment and rehabilitative services under subsection (a) of this section after December 31, 1997.
 
@@ -11641,29 +11641,29 @@ Subsecs. (e) to (g). Pub. L. 105–114, § 202(b)(1)(B), struck out subsecs. (
 
 1994—Subsec. (e). Pub. L. 103–452 substituted “December 31, 1995” for “December 31, 1994”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 620A of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 620A of this title as this section.
 
-Subsecs. (a), (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsecs. (a), (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
+Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in pars. (1) and (2).
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in pars. (1) and (2).
 
-Subsec. (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (e). Pub. L. 102–86 amended subsec. (e) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by substituting “December 31, 1994” for “September 30, 1991”.
+Subsec. (e). Pub. L. 102–86 amended subsec. (e) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by substituting “December 31, 1994” for “September 30, 1991”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (f). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (f). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
 Pub. L. 102–54 struck out “during the period” before “beginning” in par. (1).
 
-Subsec. (g). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (g). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1988—Subsec. (e). Pub. L. 100–689, § 502(a)(1), substituted “1991” for “1988”.
+1988—Subsec. (e). Pub. L. 100–689, § 502(a)(1), substituted “1991” for “1988”.
 
-Subsec. (f). Pub. L. 100–689, § 502(b), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
+Subsec. (f). Pub. L. 100–689, § 502(b), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
 
 “(1) The Administrator shall monitor the performance of each contract facility furnishing care and services under the program carried out under subsection (a) of this section.
 
@@ -11707,23 +11707,23 @@ Subsec. (f). Pub. L. 100–689, § 502(b), amended subsec. (f) generally. Prio
 
 Subsec. (f)(1). Pub. L. 100–687 substituted “during the period beginning on December 1, 1988, and ending on October 1, 1997” for “before October 1, 1997” in par. (1) as amended by Pub. L. 100–689 above.
 
-1985—Pub. L. 99–166, § 101(b)(1), struck out “; pilot program” after “disabilities” in section catchline.
+1985—Pub. L. 99–166, § 101(b)(1), struck out “; pilot program” after “disabilities” in section catchline.
 
-Subsec. (a)(1). Pub. L. 99–166, § 101(a)(1), struck out “may conduct a pilot program under which the Administrator” before “may contract” in first sentence, and struck out second sentence relating to the planning, designing, and conducting of a pilot program by the Chief Medical Director so as to demonstrate any medical advantages and cost effectiveness that might result from furnishing care and services to disabled veterans in contract facilities as authorized by this section, rather than in facilities over which the Administrator had jurisdiction.
+Subsec. (a)(1). Pub. L. 99–166, § 101(a)(1), struck out “may conduct a pilot program under which the Administrator” before “may contract” in first sentence, and struck out second sentence relating to the planning, designing, and conducting of a pilot program by the Chief Medical Director so as to demonstrate any medical advantages and cost effectiveness that might result from furnishing care and services to disabled veterans in contract facilities as authorized by this section, rather than in facilities over which the Administrator had jurisdiction.
 
-Subsec. (e). Pub. L. 99–166, § 101(a)(2), substituted “September 30, 1988” for “October 31, 1985”.
+Subsec. (e). Pub. L. 99–166, § 101(a)(2), substituted “September 30, 1988” for “October 31, 1985”.
 
 Pub. L. 99–108 substituted “October 31, 1985” for “the last day of the fifth fiscal year following the fiscal year in which the pilot program authorized by such subsection is initiated”.
 
-Subsec. (f). Pub. L. 99–166, § 101(a)(3), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Not later than March 31, 1984, the Administrator shall report to the Committee on Veterans’ Affairs of the Senate and House of Representatives on the findings and recommendations of the Administrator pertaining to the operation through September 30, 1983, of the pilot program authorized by this section.”
+Subsec. (f). Pub. L. 99–166, § 101(a)(3), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Not later than March 31, 1984, the Administrator shall report to the Committee on Veterans’ Affairs of the Senate and House of Representatives on the findings and recommendations of the Administrator pertaining to the operation through September 30, 1983, of the pilot program authorized by this section.”
 
 1982—Subsec. (d)(1). Pub. L. 97–258 substituted “sections 1535 and 1536 of title 31” for “the Act of March 4, 1915 (31 U.S.C 686)” after “provisions of”.
 
 Subsec. (f). Pub. L. 97–251 substituted “March 31, 1984” and “September 30, 1983” for “March 31, 1983” and “September 30, 1982”, respectively.
 
-1979—Subsec. (a)(1). Pub. L. 96–128, § 501(c)(1), substituted “treatment facilities for” for “treatment facilities of”.
+1979—Subsec. (a)(1). Pub. L. 96–128, § 501(c)(1), substituted “treatment facilities for” for “treatment facilities of”.
 
-Subsec. (d)(2). Pub. L. 96–128, § 501(c)(2), substituted “such request unless” for “such request, unless”.
+Subsec. (d)(2). Pub. L. 96–128, § 501(c)(2), substituted “such request unless” for “such request, unless”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -11737,7 +11737,7 @@ Section effective Oct. 1, 1979, see section 107 of Pub. L. 96–22, set out as a
 
 **Pilot Program on Award of Grants for Substance Use Disorder Recovery for Homeless Veterans**
 
-Pub. L. 117–328, div. U, title III, § 311, Dec. 29, 2022, 136 Stat. 5475, provided that:
+Pub. L. 117–328, div. U, title III, § 311, Dec. 29, 2022, 136 Stat. 5475, provided that:
 
 > **“(a) Pilot Program Required.—** Not later than 270 days after the date of the enactment of this Act [Dec. 29, 2022], the Secretary of Veterans Affairs shall commence carrying out a pilot program under which the Secretary shall award grants to eligible entities for the provision or coordination of services for recovery from substance use disorder for veterans who are homeless, were previously homeless and are transitioning to permanent housing, or are at risk of becoming homeless.
 
@@ -11869,7 +11869,7 @@ Pub. L. 117–328, div. U, title III, § 311, Dec. 29, 2022, 136 Stat. 5475, p
 
 **Substance Use Disorders and Mental Health Care**
 
-Pub. L. 110–387, title I, §§ 102–105, Oct. 10, 2008, 122 Stat. 4112–4114, provided that:
+Pub. L. 110–387, title I, §§ 102–105, Oct. 10, 2008, 122 Stat. 4112–4114, provided that:
 
 > **“SEC. 102. FINDINGS ON SUBSTANCE USE DISORDERS AND MENTAL HEALTH.**
 
@@ -11989,7 +11989,7 @@ Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under pr
 
 **Report on Consolidation of Certain Programs**
 
-Pub. L. 104–110, title II, § 202(a), Feb. 13, 1996, 110 Stat. 770, provided that:
+Pub. L. 104–110, title II, § 202(a), Feb. 13, 1996, 110 Stat. 770, provided that:
 
 > “The Secretary of Veterans Affairs shall submit to Congress, not later than March 1, 1997, a report on the advantages and disadvantages of consolidating into one program the following three programs:
 
@@ -12001,7 +12001,7 @@ Pub. L. 104–110, title II, § 202(a), Feb. 13, 1996, 110 Stat. 770, provided
 
 **Loans to Organizations Providing Transitional Housing for Substance Abusers**
 
-Pub. L. 102–54, § 8, June 13, 1991, 105 Stat. 271, provided that:
+Pub. L. 102–54, § 8, June 13, 1991, 105 Stat. 271, provided that:
 
 > **“(a) Loan Program.—** The Secretary of Veterans Affairs may make loans in accordance with this section to assist in the provision of transitional housing exclusively to veterans who are in (or who recently have been in) a program for the treatment of substance abuse.
 
@@ -12039,13 +12039,13 @@ Pub. L. 102–54, § 8, June 13, 1991, 105 Stat. 271, provided that:
 
 **Evaluation of Veterans’ Administration Inpatient and Outpatient Drug and Alcohol Treatment Programs**
 
-Pub. L. 100–690, title II, § 2501, Nov. 18, 1988, 102 Stat. 4232, directed Administrator of Veterans’ Affairs to conduct an evaluation of inpatient and outpatient drug and alcohol treatment programs operated by the Veterans’ Administration, such evaluation to include a determination of medical advantages and cost-effectiveness of such programs, taking into consideration rates of readmission and the rate of successful rehabilitation, and authorized appropriations for this purpose for fiscal years 1989, 1990, and 1991.
+Pub. L. 100–690, title II, § 2501, Nov. 18, 1988, 102 Stat. 4232, directed Administrator of Veterans’ Affairs to conduct an evaluation of inpatient and outpatient drug and alcohol treatment programs operated by the Veterans’ Administration, such evaluation to include a determination of medical advantages and cost-effectiveness of such programs, taking into consideration rates of readmission and the rate of successful rehabilitation, and authorized appropriations for this purpose for fiscal years 1989, 1990, and 1991.
 
 **Ratification for Lapsed Period**
 
-Pub. L. 100–689, title V, § 502(a)(2), Nov. 18, 1988, 102 Stat. 4179, ratified actions by the Administrator of Veterans’ Affairs in providing, during the period beginning Oct. 1, 1988, and ending Nov. 18, 1988, for care and treatment and rehabilitative services under this section.
+Pub. L. 100–689, title V, § 502(a)(2), Nov. 18, 1988, 102 Stat. 4179, ratified actions by the Administrator of Veterans’ Affairs in providing, during the period beginning Oct. 1, 1988, and ending Nov. 18, 1988, for care and treatment and rehabilitative services under this section.
 
-### § 1720B. Respite care
+### § 1720B. Respite care
 
 **(a)** The Secretary may furnish respite care services to a veteran who is enrolled to receive care under section 1710 of this title.
 
@@ -12059,27 +12059,27 @@ Pub. L. 100–689, title V, § 502(a)(2), Nov. 18, 1988, 102 Stat. 4179, ratif
 
 **(c)** In furnishing respite care services, the Secretary may enter into contract arrangements.
 
-(Added Pub. L. 99–576, title II, § 201(a)(1), Oct. 28, 1986, 100 Stat. 3254, § 620B; amended Pub. L. 101–237, title II, § 201(a), Dec. 18, 1989, 103 Stat. 2066; renumbered § 1720B and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title V, § 502, Nov. 4, 1992, 106 Stat. 4955; Pub. L. 106–117, title I, § 101(e), Nov. 30, 1999, 113 Stat. 1549.)
+(Added Pub. L. 99–576, title II, § 201(a)(1), Oct. 28, 1986, 100 Stat. 3254, § 620B; amended Pub. L. 101–237, title II, § 201(a), Dec. 18, 1989, 103 Stat. 2066; renumbered § 1720B and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title V, § 502, Nov. 4, 1992, 106 Stat. 4955; Pub. L. 106–117, title I, § 101(e), Nov. 30, 1999, 113 Stat. 1549.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1999—Subsec. (a). Pub. L. 106–117, § 101(e)(1), substituted “enrolled” for “eligible”.
+1999—Subsec. (a). Pub. L. 106–117, § 101(e)(1), substituted “enrolled” for “eligible”.
 
-Subsec. (b). Pub. L. 106–117, § 101(e)(2), in introductory provisions, substituted “the term ‘respite care services’ means care and services” for “the term ‘respite care’ means hospital or nursing home care”, in par. (1) substituted “are” for “is”, in par. (2) substituted “are” for “is” and struck out “in a Department facility” after “furnished”, and in par. (3) substituted “are” for “is”.
+Subsec. (b). Pub. L. 106–117, § 101(e)(2), in introductory provisions, substituted “the term ‘respite care services’ means care and services” for “the term ‘respite care’ means hospital or nursing home care”, in par. (1) substituted “are” for “is”, in par. (2) substituted “are” for “is” and struck out “in a Department facility” after “furnished”, and in par. (3) substituted “are” for “is”.
 
-Subsec. (c). Pub. L. 106–117, § 101(e)(3), added subsec. (c).
+Subsec. (c). Pub. L. 106–117, § 101(e)(3), added subsec. (c).
 
 1992—Subsec. (c). Pub. L. 102–585 struck out subsec. (c) which read as follows: “The authority provided by this section terminates on September 30, 1992.”
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 620B of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 620B of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1710” for “610”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1710” for “610”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (b)(2). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Subsec. (b)(2). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
 1989—Subsec. (c). Pub. L. 101–237 substituted “September 30, 1992” for “September 30, 1989”.
 
@@ -12087,19 +12087,19 @@ Subsec. (b)(2). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department�
 
 **Ratification of Actions of Secretary of Veterans Affairs During Transition Periods**
 
-Pub. L. 101–237, title VI, § 604, Dec. 18, 1989, 103 Stat. 2097, ratified actions of the Secretary of Veterans Affairs in carrying out this section, section 115 of Pub. L. 100–322 [38 U.S.C. 1712 note], section 618 of Pub. L. 100–440 [5 U.S.C. 6302 note], or section 1829 [now 3729] of this title, by contract or otherwise, during the period beginning Dec. 1, 1989, and ending Dec. 18, 1989.
+Pub. L. 101–237, title VI, § 604, Dec. 18, 1989, 103 Stat. 2097, ratified actions of the Secretary of Veterans Affairs in carrying out this section, section 115 of Pub. L. 100–322 [38 U.S.C. 1712 note], section 618 of Pub. L. 100–440 [5 U.S.C. 6302 note], or section 1829 [now 3729] of this title, by contract or otherwise, during the period beginning Dec. 1, 1989, and ending Dec. 18, 1989.
 
-Pub. L. 101–110, § 3(b), Oct. 6, 1989, 103 Stat. 682, ratified actions of the Secretary of Veterans Affairs in carrying out this section, section 115 of Pub. L. 100–322 [38 U.S.C. 1712 note], section 618 of Pub. L. 100–440 [5 U.S.C. 6302 note], or section 1829 [now 3729] of this title, by contract or otherwise, during the period beginning Oct. 1, 1989, and ending Oct. 6, 1989.
+Pub. L. 101–110, § 3(b), Oct. 6, 1989, 103 Stat. 682, ratified actions of the Secretary of Veterans Affairs in carrying out this section, section 115 of Pub. L. 100–322 [38 U.S.C. 1712 note], section 618 of Pub. L. 100–440 [5 U.S.C. 6302 note], or section 1829 [now 3729] of this title, by contract or otherwise, during the period beginning Oct. 1, 1989, and ending Oct. 6, 1989.
 
 **Interim Extension of Respite Care Program**
 
-Pub. L. 101–110, § 1(a), Oct. 6, 1989, 103 Stat. 682, provided that: “Notwithstanding the provisions of subsection (c) of section 620B [now 1720B] of title 38, United States Code, the authority provided by such section shall terminate on November 30, 1989.”
+Pub. L. 101–110, § 1(a), Oct. 6, 1989, 103 Stat. 682, provided that: “Notwithstanding the provisions of subsection (c) of section 620B [now 1720B] of title 38, United States Code, the authority provided by such section shall terminate on November 30, 1989.”
 
 **Report**
 
-Pub. L. 99–576, title II, § 201(b), Oct. 28, 1986, 100 Stat. 3254, provided that if the Administrator of Veterans’ Affairs furnished respite care under this section, the Administrator was to conduct an evaluation of the health efficacy and cost-effectiveness of furnishing such care and submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives not later than Feb. 1, 1989, a report containing the results of such evaluation and appropriate recommendations.
+Pub. L. 99–576, title II, § 201(b), Oct. 28, 1986, 100 Stat. 3254, provided that if the Administrator of Veterans’ Affairs furnished respite care under this section, the Administrator was to conduct an evaluation of the health efficacy and cost-effectiveness of furnishing such care and submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives not later than Feb. 1, 1989, a report containing the results of such evaluation and appropriate recommendations.
 
-### § 1720C. Noninstitutional alternatives to nursing home care
+### § 1720C. Noninstitutional alternatives to nursing home care
 
 **(a)** The Secretary may furnish medical, rehabilitative, and health-related services in noninstitutional settings for veterans who are eligible under this chapter for, and are in need of, nursing home care. The Secretary shall give priority for participation in such program to veterans who—
 
@@ -12129,41 +12129,41 @@ Pub. L. 99–576, title II, § 201(b), Oct. 28, 1986, 100 Stat. 3254, provided
 
 **(f)** In furnishing services to a veteran under the program conducted pursuant to subsection (a), if a medical center of the Department through which such program is administered is located in a geographic area in which services are available to the veteran under a PACE program (as such term is defined in sections 1894(a)(2) and 1934(a)(2) of the Social Security Act (42 U.S.C. 1395eee(a)(2); 1396u–4(a)(2))), the Secretary shall seek to enter into an agreement with the PACE program operating in that area for the furnishing of such services.
 
-(Added Pub. L. 101–366, title II, § 201(a)(1), Aug. 15, 1990, 104 Stat. 437, § 620C; renumbered § 1720C and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–452, title I, § 103(c), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, § 101(c), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, § 206(a)–(b)(2), Nov. 21, 1997, 111 Stat. 2289; Pub. L. 118–210, title I, §§ 120(a), 121, Jan. 2, 2025, 138 Stat. 2723, 2724.)
+(Added Pub. L. 101–366, title II, § 201(a)(1), Aug. 15, 1990, 104 Stat. 437, § 620C; renumbered § 1720C and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–452, title I, § 103(c), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, § 101(c), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, § 206(a)–(b)(2), Nov. 21, 1997, 111 Stat. 2289; Pub. L. 118–210, title I, §§ 120(a), 121, Jan. 2, 2025, 138 Stat. 2723, 2724.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (d). Pub. L. 118–210, § 120(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the total cost” for “The total cost” and “100 percent” for “65 percent”, and added par. (2).
+2025—Subsec. (d). Pub. L. 118–210, § 120(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the total cost” for “The total cost” and “100 percent” for “65 percent”, and added par. (2).
 
-Subsec. (f). Pub. L. 118–210, § 121, added subsec. (f).
+Subsec. (f). Pub. L. 118–210, § 121, added subsec. (f).
 
-1997—Pub. L. 105–114, § 206(b)(2), struck out “: pilot program” after “home care” in section catchline.
+1997—Pub. L. 105–114, § 206(b)(2), struck out “: pilot program” after “home care” in section catchline.
 
-Subsec. (a). Pub. L. 105–114, § 206(a), substituted “The Secretary may furnish” for “During the period through December 31, 1997, the Secretary may conduct a pilot program for the furnishing of”.
+Subsec. (a). Pub. L. 105–114, § 206(a), substituted “The Secretary may furnish” for “During the period through December 31, 1997, the Secretary may conduct a pilot program for the furnishing of”.
 
-Subsec. (b)(1). Pub. L. 105–114, § 206(b)(1), substituted “Under the program” for “Under the pilot program”.
+Subsec. (b)(1). Pub. L. 105–114, § 206(b)(1), substituted “Under the program” for “Under the pilot program”.
 
-Subsec. (d). Pub. L. 105–114, § 206(b)(1), substituted “under the program” for “under the pilot program”.
+Subsec. (d). Pub. L. 105–114, § 206(b)(1), substituted “under the program” for “under the pilot program”.
 
 1996—Subsec. (a). Pub. L. 104–110 substituted “December 31, 1997” for “September 30, 1995” in introductory provisions.
 
 1994—Subsec. (a). Pub. L. 103–452, in introductory provisions, substituted “During the period through September 30, 1995,” for “During the four-year period beginning on October 1, 1990,” and “care. The Secretary shall give priority for participation in such program to veterans who” for “care and who”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 620C of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 620C of this title as this section.
 
-Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “1710” for “610”.
+Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “1710” for “610”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 118–210, title I, § 120(b), Jan. 2, 2025, 138 Stat. 2724, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to fiscal years beginning on or after the date of the enactment of this Act [Jan. 2, 2025].”
+Pub. L. 118–210, title I, § 120(b), Jan. 2, 2025, 138 Stat. 2724, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to fiscal years beginning on or after the date of the enactment of this Act [Jan. 2, 2025].”
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–452, title I, § 103(c)(1), Nov. 2, 1994, 108 Stat. 4786, provided that the amendment made by that section is effective Oct. 1, 1994.
+Pub. L. 103–452, title I, § 103(c)(1), Nov. 2, 1994, 108 Stat. 4786, provided that the amendment made by that section is effective Oct. 1, 1994.
 
 **Ratification of Actions During Period of Expired Authority**
 
@@ -12171,9 +12171,9 @@ Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under pr
 
 **Report to Congressional Committees**
 
-Pub. L. 101–366, title II, § 201(b), Aug. 15, 1990, 104 Stat. 438, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–452, title I, § 103(g), Nov. 2, 1994, 108 Stat. 4787, required the Secretary of Veterans Affairs, not later than Feb. 1, 1995, to submit to Congress a report setting forth the Secretary’s evaluation, findings, and conclusions regarding the conduct, through Sept. 30, 1993, of the pilot program required by this section and the results of the furnishing of care under the pilot program for the participating veterans.
+Pub. L. 101–366, title II, § 201(b), Aug. 15, 1990, 104 Stat. 438, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–452, title I, § 103(g), Nov. 2, 1994, 108 Stat. 4787, required the Secretary of Veterans Affairs, not later than Feb. 1, 1995, to submit to Congress a report setting forth the Secretary’s evaluation, findings, and conclusions regarding the conduct, through Sept. 30, 1993, of the pilot program required by this section and the results of the furnishing of care under the pilot program for the participating veterans.
 
-### § 1720D. Counseling and treatment for sexual trauma
+### § 1720D. Counseling and treatment for sexual trauma
 
 **(a)**
 
@@ -12255,97 +12255,97 @@ Pub. L. 101–366, title II, § 201(b), Aug. 15, 1990, 104 Stat. 438, as amend
 
 **(2)** An individual described in section 1720I(b) of this title.
 
-(Added Pub. L. 102–585, title I, § 102(a)(1), Nov. 4, 1992, 106 Stat. 4945; amended Pub. L. 103–452, title I, § 101(a)–(d), (f)(1), (2)(A), (g)(1), Nov. 2, 1994, 108 Stat. 4783, 4784; Pub. L. 105–368, title IX, § 902, Nov. 11, 1998, 112 Stat. 3360; Pub. L. 106–117, title I, § 115(a)–(c), Nov. 30, 1999, 113 Stat. 1558; Pub. L. 108–422, title III, § 301, Nov. 30, 2004, 118 Stat. 2382; Pub. L. 111–163, title II, § 202, May 5, 2010, 124 Stat. 1142; Pub. L. 113–146, title IV, §§ 401–402(c), Aug. 7, 2014, 128 Stat. 1789, 1790; Pub. L. 115–91, div. A, title VII, § 707, Dec. 12, 2017, 131 Stat. 1436; Pub. L. 116–283, div. A, title IX, § 926(a)(26), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title V, §§ 5301, 5303(c), Jan. 5, 2021, 134 Stat. 5037, 5041.)
+(Added Pub. L. 102–585, title I, § 102(a)(1), Nov. 4, 1992, 106 Stat. 4945; amended Pub. L. 103–452, title I, § 101(a)–(d), (f)(1), (2)(A), (g)(1), Nov. 2, 1994, 108 Stat. 4783, 4784; Pub. L. 105–368, title IX, § 902, Nov. 11, 1998, 112 Stat. 3360; Pub. L. 106–117, title I, § 115(a)–(c), Nov. 30, 1999, 113 Stat. 1558; Pub. L. 108–422, title III, § 301, Nov. 30, 2004, 118 Stat. 2382; Pub. L. 111–163, title II, § 202, May 5, 2010, 124 Stat. 1142; Pub. L. 113–146, title IV, §§ 401–402(c), Aug. 7, 2014, 128 Stat. 1789, 1790; Pub. L. 115–91, div. A, title VII, § 707, Dec. 12, 2017, 131 Stat. 1436; Pub. L. 116–283, div. A, title IX, § 926(a)(26), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title V, §§ 5301, 5303(c), Jan. 5, 2021, 134 Stat. 5037, 5041.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (a)(1). Pub. L. 116–315, § 5301(a)(1)(A), (2), (3), (b)(1)(A), inserted “, to include care for physical health conditions, as appropriate,” after “counseling and appropriate care and services” and substituted “former members of the Armed Forces” for “veterans”, “treat a condition” for “overcome psychological trauma”, “health care professional” for “mental health professional”, “former member of the Armed Forces” for “veteran”, and “duty, regardless of duty status or line of duty determination (as that term is used in section 12323 of title 10)” for “active duty, active duty for training, or inactive duty training”.
+2021—Subsec. (a)(1). Pub. L. 116–315, § 5301(a)(1)(A), (2), (3), (b)(1)(A), inserted “, to include care for physical health conditions, as appropriate,” after “counseling and appropriate care and services” and substituted “former members of the Armed Forces” for “veterans”, “treat a condition” for “overcome psychological trauma”, “health care professional” for “mental health professional”, “former member of the Armed Forces” for “veteran”, and “duty, regardless of duty status or line of duty determination (as that term is used in section 12323 of title 10)” for “active duty, active duty for training, or inactive duty training”.
 
-Subsec. (a)(2)(A). Pub. L. 116–315, § 5301(a)(1)(B), (b)(1)(B), substituted “treat a condition” for “overcome psychological trauma” and “duty, regardless of duty status or line of duty determination (as that term is used in section 12323 of title 10)” for “active duty, active duty for training, or inactive duty training”.
+Subsec. (a)(2)(A). Pub. L. 116–315, § 5301(a)(1)(B), (b)(1)(B), substituted “treat a condition” for “overcome psychological trauma” and “duty, regardless of duty status or line of duty determination (as that term is used in section 12323 of title 10)” for “active duty, active duty for training, or inactive duty training”.
 
-Subsec. (b). Pub. L. 116–315, § 5301(a)(2), (3), substituted “former member of the Armed Forces” for “veteran” in two places in par. (1) and “former members of the Armed Forces” for “veterans” par. (2)(C).
+Subsec. (b). Pub. L. 116–315, § 5301(a)(2), (3), substituted “former member of the Armed Forces” for “veteran” in two places in par. (1) and “former members of the Armed Forces” for “veterans” par. (2)(C).
 
 Subsec. (c)(3). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
-Subsec. (d)(1), (2)(A). Pub. L. 116–315, § 5301(b)(2), inserted “and other health care professionals” after “mental health professionals”.
+Subsec. (d)(1), (2)(A). Pub. L. 116–315, § 5301(b)(2), inserted “and other health care professionals” after “mental health professionals”.
 
-Subsec. (e)(2)(A). Pub. L. 116–315, § 5301(a)(3), substituted “former members of the Armed Forces” for “veterans”.
+Subsec. (e)(2)(A). Pub. L. 116–315, § 5301(a)(3), substituted “former members of the Armed Forces” for “veterans”.
 
-Subsec. (f). Pub. L. 116–315, § 5303(c), struck out “repeated,” before “unsolicited”.
+Subsec. (f). Pub. L. 116–315, § 5303(c), struck out “repeated,” before “unsolicited”.
 
-Subsec. (g). Pub. L. 116–315, § 5301(a)(4), added subsec. (g).
+Subsec. (g). Pub. L. 116–315, § 5301(a)(4), added subsec. (g).
 
 2017—Subsec. (a)(2)(A). Pub. L. 115–91 struck out “on active duty” before “to overcome psychological trauma” and inserted before period at end “that was suffered by the member while serving on active duty, active duty for training, or inactive duty training”.
 
-2014—Subsec. (a)(1). Pub. L. 113–146, § 401, substituted “, active duty for training, or inactive duty training” for “or active duty for training”.
+2014—Subsec. (a)(1). Pub. L. 113–146, § 401, substituted “, active duty for training, or inactive duty training” for “or active duty for training”.
 
-Subsec. (a)(2). Pub. L. 113–146, § 402(a)(2), added par. (2). Former par. (2) redesignated (3).
+Subsec. (a)(2). Pub. L. 113–146, § 402(a)(2), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (a)(3). Pub. L. 113–146, § 402(a)(1), (3), redesignated par. (2) as (3), substituted “an individual” for “a veteran”, and substituted “that individual” for “that veteran” in two places.
+Subsec. (a)(3). Pub. L. 113–146, § 402(a)(1), (3), redesignated par. (2) as (3), substituted “an individual” for “a veteran”, and substituted “that individual” for “that veteran” in two places.
 
-Subsec. (c). Pub. L. 113–146, § 402(b)(1), struck out “to veterans” after “treatment available” in introductory provisions and par. (2).
+Subsec. (c). Pub. L. 113–146, § 402(b)(1), struck out “to veterans” after “treatment available” in introductory provisions and par. (2).
 
-Subsec. (c)(3). Pub. L. 113–146, § 402(b)(2), inserted “members of the Armed Forces and” before “individuals”.
+Subsec. (c)(3). Pub. L. 113–146, § 402(b)(2), inserted “members of the Armed Forces and” before “individuals”.
 
-Subsec. (e). Pub. L. 113–146, § 402(c)(1), struck out “to veterans” after “services provided” in introductory provisions.
+Subsec. (e). Pub. L. 113–146, § 402(c)(1), struck out “to veterans” after “services provided” in introductory provisions.
 
-Subsec. (e)(2). Pub. L. 113–146, § 402(c)(2)(A), (B), substituted “individuals” for “women veterans” and “training under subsection (d), disaggregated by—” for “training under subsection (d).” and added subpars. (A) to (C).
+Subsec. (e)(2). Pub. L. 113–146, § 402(c)(2)(A), (B), substituted “individuals” for “women veterans” and “training under subsection (d), disaggregated by—” for “training under subsection (d).” and added subpars. (A) to (C).
 
-Subsec. (e)(4). Pub. L. 113–146, § 402(c)(3), substituted “individuals” for “veterans”.
+Subsec. (e)(4). Pub. L. 113–146, § 402(c)(3), substituted “individuals” for “veterans”.
 
-Subsec. (e)(5). Pub. L. 113–146, § 402(c)(4), substituted “individuals” for “women veterans” and inserted “, including specific recommendations for individuals specified in subparagraphs (A), (B), and (C) of paragraph (2)” before period at end.
+Subsec. (e)(5). Pub. L. 113–146, § 402(c)(4), substituted “individuals” for “women veterans” and inserted “, including specific recommendations for individuals specified in subparagraphs (A), (B), and (C) of paragraph (2)” before period at end.
 
 2010—Subsecs. (d) to (f). Pub. L. 111–163 added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 
-2004—Subsec. (a)(1). Pub. L. 108–422, § 301(a)(1), (b), substituted “The” for “During the period through December 31, 2004, the” and inserted “or active duty for training” before period at end.
+2004—Subsec. (a)(1). Pub. L. 108–422, § 301(a)(1), (b), substituted “The” for “During the period through December 31, 2004, the” and inserted “or active duty for training” before period at end.
 
-Subsec. (a)(2). Pub. L. 108–422, § 301(a)(2), struck out “, during the period through December 31, 2004,” after “the Secretary may”.
+Subsec. (a)(2). Pub. L. 108–422, § 301(a)(2), struck out “, during the period through December 31, 2004,” after “the Secretary may”.
 
-1999—Subsec. (a)(1). Pub. L. 106–117, § 115(a)(1), (b)(1), substituted “December 31, 2004” for “December 31, 2001” and “shall operate a program under which the Secretary provides counseling and appropriate care and services to veterans who the Secretary determines require such counseling and care and services” for “may provide counseling to a veteran who the Secretary determines requires such counseling”.
+1999—Subsec. (a)(1). Pub. L. 106–117, § 115(a)(1), (b)(1), substituted “December 31, 2004” for “December 31, 2001” and “shall operate a program under which the Secretary provides counseling and appropriate care and services to veterans who the Secretary determines require such counseling and care and services” for “may provide counseling to a veteran who the Secretary determines requires such counseling”.
 
-Subsec. (a)(2), (3). Pub. L. 106–117, § 115(a)(2), (b)(2), redesignated par. (3) as (2), substituted “December 31, 2004” for “December 31, 2001”, and struck out former par. (2) which read as follows: “During the period referred to in paragraph (1), the Secretary may provide appropriate care and services to a veteran for an injury, illness, or other psychological condition that the Secretary determines to be the result of a physical assault, battery, or harassment referred to in that paragraph.”
+Subsec. (a)(2), (3). Pub. L. 106–117, § 115(a)(2), (b)(2), redesignated par. (3) as (2), substituted “December 31, 2004” for “December 31, 2001”, and struck out former par. (2) which read as follows: “During the period referred to in paragraph (1), the Secretary may provide appropriate care and services to a veteran for an injury, illness, or other psychological condition that the Secretary determines to be the result of a physical assault, battery, or harassment referred to in that paragraph.”
 
-Subsec. (c). Pub. L. 106–117, § 115(c)(1), inserted “and treatment” after “counseling” in first sentence.
+Subsec. (c). Pub. L. 106–117, § 115(c)(1), inserted “and treatment” after “counseling” in first sentence.
 
-Subsec. (c)(2), (3). Pub. L. 106–117, § 115(c), added par. (2), redesignated former par. (2) as (3), and inserted “and treatment” after “counseling”.
+Subsec. (c)(2), (3). Pub. L. 106–117, § 115(c), added par. (2), redesignated former par. (2) as (3), and inserted “and treatment” after “counseling”.
 
 1998—Subsec. (a)(1), (3). Pub. L. 105–368 substituted “December 31, 2001” for “December 31, 1998”.
 
-1994—Pub. L. 103–452, § 101(f)(2)(A), substituted “and treatment” for “to women veterans” in section catchline.
+1994—Pub. L. 103–452, § 101(f)(2)(A), substituted “and treatment” for “to women veterans” in section catchline.
 
-Subsec. (a)(1). Pub. L. 103–452, § 101(b)(1), (f)(1)(A), substituted “December 31, 1998,” for “December 31, 1995,” and struck out “woman” after “counseling to a”.
+Subsec. (a)(1). Pub. L. 103–452, § 101(b)(1), (f)(1)(A), substituted “December 31, 1998,” for “December 31, 1995,” and struck out “woman” after “counseling to a”.
 
-Subsec. (a)(2). Pub. L. 103–452, § 101(a), added par. (2) and struck out former par. (2) which read as follows: “To be eligible to receive counseling under this subsection, a veteran must seek such counseling from the Secretary within two years after the date of the veteran’s discharge or release from active military, naval, or air service.”
+Subsec. (a)(2). Pub. L. 103–452, § 101(a), added par. (2) and struck out former par. (2) which read as follows: “To be eligible to receive counseling under this subsection, a veteran must seek such counseling from the Secretary within two years after the date of the veteran’s discharge or release from active military, naval, or air service.”
 
-Subsec. (a)(3). Pub. L. 103–452, § 101(b)(2), substituted “December 31, 1998,” for “December 31, 1994,”.
+Subsec. (a)(3). Pub. L. 103–452, § 101(b)(2), substituted “December 31, 1998,” for “December 31, 1994,”.
 
-Subsec. (b). Pub. L. 103–452, § 101(c), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “In providing services to a veteran under subsection (a), the period for which counseling is provided may not exceed one year from the date of the commencement of the furnishing of such counseling to the veteran. However, the Secretary may authorize a longer period in any case if, in the judgment of the Secretary, a longer period of counseling is required.”
+Subsec. (b). Pub. L. 103–452, § 101(c), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “In providing services to a veteran under subsection (a), the period for which counseling is provided may not exceed one year from the date of the commencement of the furnishing of such counseling to the veteran. However, the Secretary may authorize a longer period in any case if, in the judgment of the Secretary, a longer period of counseling is required.”
 
-Subsec. (b)(1). Pub. L. 103–452, § 101(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary shall give priority to the establishment and operation of the program to provide counseling under subsection (a). In the case of a veteran eligible for such counseling who requires other care or services under this chapter for trauma described in subsection (a)(1), the Secretary shall ensure that the veteran is furnished counseling under this section in a way that is coordinated with the furnishing of such other care and services under this chapter.”
+Subsec. (b)(1). Pub. L. 103–452, § 101(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary shall give priority to the establishment and operation of the program to provide counseling under subsection (a). In the case of a veteran eligible for such counseling who requires other care or services under this chapter for trauma described in subsection (a)(1), the Secretary shall ensure that the veteran is furnished counseling under this section in a way that is coordinated with the furnishing of such other care and services under this chapter.”
 
-Subsec. (b)(2)(C). Pub. L. 103–452, § 101(f)(1)(B), struck out “women” after “assist”.
+Subsec. (b)(2)(C). Pub. L. 103–452, § 101(f)(1)(B), struck out “women” after “assist”.
 
-Subsec. (c). Pub. L. 103–452, § 101(f)(1)(B), struck out “women” after “available to” in introductory provisions.
+Subsec. (c). Pub. L. 103–452, § 101(f)(1)(B), struck out “women” after “available to” in introductory provisions.
 
-Pub. L. 103–452, § 101(c)(2), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
+Pub. L. 103–452, § 101(c)(2), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-Subsec. (c)(1). Pub. L. 103–452, § 101(g)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “may include establishment of an information system involving the use of a toll-free telephone number (commonly referred to as an 800 number), and”.
+Subsec. (c)(1). Pub. L. 103–452, § 101(g)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “may include establishment of an information system involving the use of a toll-free telephone number (commonly referred to as an 800 number), and”.
 
-Subsec. (c)(2). Pub. L. 103–452, § 101(f)(1)(C), substituted “individuals” for “women”.
+Subsec. (c)(2). Pub. L. 103–452, § 101(f)(1)(C), substituted “individuals” for “women”.
 
-Subsecs. (d), (e). Pub. L. 103–452, § 101(c)(2), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+Subsecs. (d), (e). Pub. L. 103–452, § 101(c)(2), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–146, title IV, § 402(d), Aug. 7, 2014, 128 Stat. 1790, provided that: “The amendments made by this section [amending this section] shall take effect on the date that is 1 year after the date of the enactment of this Act [Aug. 7, 2014].”
+Pub. L. 113–146, title IV, § 402(d), Aug. 7, 2014, 128 Stat. 1790, provided that: “The amendments made by this section [amending this section] shall take effect on the date that is 1 year after the date of the enactment of this Act [Aug. 7, 2014].”
 
 **Study and Task Force on Veterans Experiencing Intimate Partner Violence or Sexual Assault**
 
-Pub. L. 116–315, title V, § 5305, Jan. 5, 2021, 134 Stat. 5043, provided that:
+Pub. L. 116–315, title V, § 5305, Jan. 5, 2021, 134 Stat. 5043, provided that:
 
 > **“(a) National Baseline Study.—**
 
@@ -12421,7 +12421,7 @@ Pub. L. 116–315, title V, § 5305, Jan. 5, 2021, 134 Stat. 5043, provided th
 
 **Information on Telephone Counseling Availability; Personnel Training; Client Confidentiality; Publicity; Report**
 
-Pub. L. 103–452, title I, § 101(g)(2)–(5), Nov. 2, 1994, 108 Stat. 4785, provided that:
+Pub. L. 103–452, title I, § 101(g)(2)–(5), Nov. 2, 1994, 108 Stat. 4785, provided that:
 
 > **“(2)** In providing information on counseling available to veterans as required under section 1720D(c)(1) of title 38, United States Code (as amended by paragraph (1)), the Secretary of Veterans Affairs shall ensure that the Department of Veterans Affairs personnel who provide assistance under such section are trained in the provision to persons who have experienced sexual trauma of information about the care and services relating to sexual trauma that are available to veterans in the communities in which such veterans reside, including care and services available under programs of the Department (including the care and services available under section 1720D of such title) and from non-Department agencies or organizations.
 
@@ -12439,17 +12439,17 @@ Pub. L. 103–452, title I, § 101(g)(2)–(5), Nov. 2, 1994, 108 Stat. 4785, 
 
 **Transition Period for Eligibility for Counseling**
 
-Pub. L. 102–585, title I, § 102(b), Nov. 4, 1992, 106 Stat. 4946, as amended by Pub. L. 103–210, § 2(b), Dec. 20, 1993, 107 Stat. 2497, provided that in the case of a veteran who was discharged or released from active military, naval, or air service before Dec. 31, 1992, the two-year period specified in 38 U.S.C. 1720D(a)(2) was to be treated as ending on Dec. 31, 1994, prior to repeal by Pub. L. 103–452, title I, § 101(h), Nov. 2, 1994, 108 Stat. 4785.
+Pub. L. 102–585, title I, § 102(b), Nov. 4, 1992, 106 Stat. 4946, as amended by Pub. L. 103–210, § 2(b), Dec. 20, 1993, 107 Stat. 2497, provided that in the case of a veteran who was discharged or released from active military, naval, or air service before Dec. 31, 1992, the two-year period specified in 38 U.S.C. 1720D(a)(2) was to be treated as ending on Dec. 31, 1994, prior to repeal by Pub. L. 103–452, title I, § 101(h), Nov. 2, 1994, 108 Stat. 4785.
 
 **Commencement of Provision of Information on Services**
 
-Pub. L. 102–585, title I, § 104, Nov. 4, 1992, 106 Stat. 4946, directed Secretary of Veterans Affairs, not later than 90 days after Nov. 4, 1992, to commence the provision of information on the counseling relating to sexual trauma that is available to women veterans under 38 U.S.C. 1720D.
+Pub. L. 102–585, title I, § 104, Nov. 4, 1992, 106 Stat. 4946, directed Secretary of Veterans Affairs, not later than 90 days after Nov. 4, 1992, to commence the provision of information on the counseling relating to sexual trauma that is available to women veterans under 38 U.S.C. 1720D.
 
 **Report on Implementation of Sexual Trauma Counseling Program**
 
-Pub. L. 102–585, title I, § 105, Nov. 4, 1992, 106 Stat. 4946, directed Secretary of Veterans Affairs, not later than Mar. 31, 1994, to submit to Congress a comprehensive report on the Secretary’s actions under 38 U.S.C. 1720D.
+Pub. L. 102–585, title I, § 105, Nov. 4, 1992, 106 Stat. 4946, directed Secretary of Veterans Affairs, not later than Mar. 31, 1994, to submit to Congress a comprehensive report on the Secretary’s actions under 38 U.S.C. 1720D.
 
-### § 1720E. Nasopharyngeal radium irradiation
+### § 1720E. Nasopharyngeal radium irradiation
 
 **(a)** The Secretary may provide any veteran a medical examination, and hospital care, medical services, and nursing home care, which the Secretary determines is needed for the treatment of any cancer of the head or neck which the Secretary finds may be associated with the veteran’s receipt of nasopharyngeal radium irradiation treatments in active military, naval, air, or space service.
 
@@ -12459,7 +12459,7 @@ Pub. L. 102–585, title I, § 105, Nov. 4, 1992, 106 Stat. 4946, directed Sec
 
 **(2)** underwent submarine training in active naval service before January 1, 1965.
 
-(Added Pub. L. 105–368, title IX, § 901(a), Nov. 11, 1998, 112 Stat. 3360; amended Pub. L. 116–283, div. A, title IX, § 926(a)(27), Jan. 1, 2021, 134 Stat. 3830.)
+(Added Pub. L. 105–368, title IX, § 901(a), Nov. 11, 1998, 112 Stat. 3360; amended Pub. L. 116–283, div. A, title IX, § 926(a)(27), Jan. 1, 2021, 134 Stat. 3830.)
 
 **Editorial Notes**
 
@@ -12467,7 +12467,7 @@ Pub. L. 102–585, title I, § 105, Nov. 4, 1992, 106 Stat. 4946, directed Sec
 
 2021—Subsec. (a). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
-### § 1720F. Comprehensive program for suicide prevention among veterans and members of the reserve components of the Armed Forces
+### § 1720F. Comprehensive program for suicide prevention among veterans and members of the reserve components of the Armed Forces
 
 **(a) Establishment.—** The Secretary shall develop and carry out a comprehensive program designed to reduce the incidence of suicide among covered individuals incorporating the components described in this section.
 
@@ -12553,7 +12553,7 @@ Pub. L. 102–585, title I, § 105, Nov. 4, 1992, 106 Stat. 4946, directed Sec
 
 **(2)** In determining coverage of members of the reserve components of the Armed Forces under the comprehensive program, the Secretary shall consult with the Secretary of Defense.
 
-(Added Pub. L. 110–110, § 3(a)(1), Nov. 5, 2007, 121 Stat. 1031; amended Pub. L. 112–239, div. A, title VII, § 730(a)(1)–(3), Jan. 2, 2013, 126 Stat. 1814; Pub. L. 115–271, title VIII, § 8051(a), Oct. 24, 2018, 132 Stat. 4093; Pub. L. 116–283, div. A, title VII, § 764(a)(1)–(3)(A), Jan. 1, 2021, 134 Stat. 3725, 3726.)
+(Added Pub. L. 110–110, § 3(a)(1), Nov. 5, 2007, 121 Stat. 1031; amended Pub. L. 112–239, div. A, title VII, § 730(a)(1)–(3), Jan. 2, 2013, 126 Stat. 1814; Pub. L. 115–271, title VIII, § 8051(a), Oct. 24, 2018, 132 Stat. 4093; Pub. L. 116–283, div. A, title VII, § 764(a)(1)–(3)(A), Jan. 1, 2021, 134 Stat. 3725, 3726.)
 
 **Editorial Notes**
 
@@ -12567,49 +12567,49 @@ Section 3(a)(1) of Pub. L. 110–110, which directed that this section be added 
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 764(a)(3)(A), inserted “and members of the reserve components of the Armed Forces” after “veterans” in section catchline.
+2021—Pub. L. 116–283, § 764(a)(3)(A), inserted “and members of the reserve components of the Armed Forces” after “veterans” in section catchline.
 
-Subsec. (a). Pub. L. 116–283, § 764(a)(2)(A), substituted “covered individuals” for “veterans”.
+Subsec. (a). Pub. L. 116–283, § 764(a)(2)(A), substituted “covered individuals” for “veterans”.
 
-Subsec. (b). Pub. L. 116–283, § 764(a)(2)(B), substituted “covered individuals” for “veterans” in introductory provisions and par. (2).
+Subsec. (b). Pub. L. 116–283, § 764(a)(2)(B), substituted “covered individuals” for “veterans” in introductory provisions and par. (2).
 
-Subsec. (c). Pub. L. 116–283, § 764(a)(2)(C), in heading, struck out “of Veterans” after “Assessments”, and in text, substituted “covered individuals” for “veterans” in two places and “individual” for “veteran”.
+Subsec. (c). Pub. L. 116–283, § 764(a)(2)(C), in heading, struck out “of Veterans” after “Assessments”, and in text, substituted “covered individuals” for “veterans” in two places and “individual” for “veteran”.
 
-Subsec. (d). Pub. L. 116–283, § 764(a)(2)(D), substituted “to covered individuals” for “to veterans” in two places.
+Subsec. (d). Pub. L. 116–283, § 764(a)(2)(D), substituted “to covered individuals” for “to veterans” in two places.
 
-Subsec. (e). Pub. L. 116–283, § 764(a)(2)(E), substituted “covered individuals” for “veterans” in introductory provisions.
+Subsec. (e). Pub. L. 116–283, § 764(a)(2)(E), substituted “covered individuals” for “veterans” in introductory provisions.
 
-Subsec. (f). Pub. L. 116–283, § 764(a)(2)(F), substituted “covered individuals” for “veterans” in first sentence and inserted “or members” after “veterans” in second sentence.
+Subsec. (f). Pub. L. 116–283, § 764(a)(2)(F), substituted “covered individuals” for “veterans” in first sentence and inserted “or members” after “veterans” in second sentence.
 
-Subsec. (g). Pub. L. 116–283, § 764(a)(2)(G), substituted “covered individuals” for “veterans”.
+Subsec. (g). Pub. L. 116–283, § 764(a)(2)(G), substituted “covered individuals” for “veterans”.
 
-Subsec. (h). Pub. L. 116–283, § 764(a)(2)(H), substituted “covered individuals” for “veterans”.
+Subsec. (h). Pub. L. 116–283, § 764(a)(2)(H), substituted “covered individuals” for “veterans”.
 
-Subsec. (i). Pub. L. 116–283, § 764(a)(2)(I)(i), (ii), struck out “for Veterans and Families” after “Education” in heading, and substituted “covered individuals and the families of covered individuals” for “veterans and the families of veterans” in introductory provisions.
+Subsec. (i). Pub. L. 116–283, § 764(a)(2)(I)(i), (ii), struck out “for Veterans and Families” after “Education” in heading, and substituted “covered individuals and the families of covered individuals” for “veterans and the families of veterans” in introductory provisions.
 
-Subsec. (i)(2). Pub. L. 116–283, § 764(a)(2)(I)(iii), substituted “covered individuals” for “veterans”.
+Subsec. (i)(2). Pub. L. 116–283, § 764(a)(2)(I)(iii), substituted “covered individuals” for “veterans”.
 
-Subsec. (i)(4). Pub. L. 116–283, § 764(a)(2)(I)(iv), substituted “covered individuals” for “veterans” wherever appearing.
+Subsec. (i)(4). Pub. L. 116–283, § 764(a)(2)(I)(iv), substituted “covered individuals” for “veterans” wherever appearing.
 
-Subsec. (j)(1). Pub. L. 116–283, § 764(a)(2)(J)(i), substituted “covered individuals” for “veterans” wherever appearing.
+Subsec. (j)(1). Pub. L. 116–283, § 764(a)(2)(J)(i), substituted “covered individuals” for “veterans” wherever appearing.
 
-Subsec. (j)(4)(A). Pub. L. 116–283, § 764(a)(2)(J)(ii)(I), substituted “covered individuals who are women” for “women veterans” in introductory provisions.
+Subsec. (j)(4)(A). Pub. L. 116–283, § 764(a)(2)(J)(ii)(I), substituted “covered individuals who are women” for “women veterans” in introductory provisions.
 
-Subsec. (j)(4)(B). Pub. L. 116–283, § 764(a)(2)(J)(ii)(II), substituted “covered individuals who are women and” for “women veterans who”.
+Subsec. (j)(4)(B). Pub. L. 116–283, § 764(a)(2)(J)(ii)(II), substituted “covered individuals who are women and” for “women veterans who”.
 
-Subsec. (j)(4)(C). Pub. L. 116–283, § 764(a)(2)(J)(ii)(III), substituted “covered individuals who are women” for “women veterans”.
+Subsec. (j)(4)(C). Pub. L. 116–283, § 764(a)(2)(J)(ii)(III), substituted “covered individuals who are women” for “women veterans”.
 
-Subsec. (k). Pub. L. 116–283, § 764(a)(2)(K), substituted “covered individuals” for “veterans”.
+Subsec. (k). Pub. L. 116–283, § 764(a)(2)(K), substituted “covered individuals” for “veterans”.
 
-Subsec. (*l*). Pub. L. 116–283, § 764(a)(1), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 116–283, § 764(a)(1), added subsec. (*l*).
 
 2018—Subsec. (j)(4). Pub. L. 115–271 added par. (4).
 
-2013—Subsec. (j)(1). Pub. L. 112–239, § 730(a)(1), substituted “shall establish” for “may establish” in introductory provisions.
+2013—Subsec. (j)(1). Pub. L. 112–239, § 730(a)(1), substituted “shall establish” for “may establish” in introductory provisions.
 
-Subsec. (j)(2). Pub. L. 112–239, § 730(a)(2), inserted “, including training carried out under the national program of training required by section 304(c) of the Caregivers and Veterans Omnibus Health Services Act of 2010 (38 U.S.C. 1712A note)” after “peer counselors”.
+Subsec. (j)(2). Pub. L. 112–239, § 730(a)(2), inserted “, including training carried out under the national program of training required by section 304(c) of the Caregivers and Veterans Omnibus Health Services Act of 2010 (38 U.S.C. 1712A note)” after “peer counselors”.
 
-Subsec. (j)(3). Pub. L. 112–239, § 730(a)(3), added par. (3).
+Subsec. (j)(3). Pub. L. 112–239, § 730(a)(3), added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -12731,11 +12731,11 @@ Pub. L. 117–328, div. V, title II, Dec. 29, 2022, 136 Stat. 5501, provided tha
 
 **Department of Veterans Affairs Governors Challenge Program**
 
-Pub. L. 117–328, div. V, title III, § 303, Dec. 29, 2022, 136 Stat. 5508, provided that: “The Secretary of Veterans Affairs may enter into agreements with States, territories, and American Indian and Alaska Native tribes for the development and implementation of veteran suicide prevention proposals through the Governors Challenge Program.”
+Pub. L. 117–328, div. V, title III, § 303, Dec. 29, 2022, 136 Stat. 5508, provided that: “The Secretary of Veterans Affairs may enter into agreements with States, territories, and American Indian and Alaska Native tribes for the development and implementation of veteran suicide prevention proposals through the Governors Challenge Program.”
 
 **Financial Assistance to Certain Entities To Provide or Coordinate the Provision of Suicide Prevention Services for Eligible Individuals and Their Families**
 
-Pub. L. 116–171, title II, § 201, Oct. 17, 2020, 134 Stat. 783, as amended by Pub. L. 119–37, div. G, title I, § 7103, Nov. 12, 2025, 139 Stat. 649, provided that:
+Pub. L. 116–171, title II, § 201, Oct. 17, 2020, 134 Stat. 783, as amended by Pub. L. 119–37, div. G, title I, § 7103, Nov. 12, 2025, 139 Stat. 649, provided that:
 
 > **“(a) Purpose; Designation.—**
 
@@ -13237,7 +13237,7 @@ Pub. L. 116–171, title II, § 201, Oct. 17, 2020, 134 Stat. 783, as amended 
 
 **Update of Clinical Practice Guidelines for Assessment and Management of Patients at Risk for Suicide**
 
-Pub. L. 116–171, title III, § 303, Oct. 17, 2020, 134 Stat. 801, provided that:
+Pub. L. 116–171, title III, § 303, Oct. 17, 2020, 134 Stat. 801, provided that:
 
 > **“(a) In General.—** In the first publication of the Department of Veterans Affairs and Department of Defense Clinical Practice Guideline for Assessment and Management of Patients at Risk for Suicide published after the date of the enactment of this Act [Oct. 17, 2020], the Secretary of Veterans Affairs and the Secretary of Defense, through the Assessment and Management of Patients at Risk for Suicide Work Group (in this section referred to as the ‘Work Group’), shall ensure the publication includes the following:
 
@@ -13279,7 +13279,7 @@ Pub. L. 116–171, title III, § 303, Oct. 17, 2020, 134 Stat. 801, provided t
 
 **Contracts Related to Suicide Prevention and Mental Health Outreach Media**
 
-Pub. L. 116–171, title IV, § 401(e)–(g), Oct. 17, 2020, 134 Stat. 807, 808, provided that:
+Pub. L. 116–171, title IV, § 401(e)–(g), Oct. 17, 2020, 134 Stat. 807, 808, provided that:
 
 > **“(e) Treatment of Contracts for Suicide Prevention and Mental Health Outreach Media.—**
 
@@ -13317,7 +13317,7 @@ Pub. L. 116–171, title IV, § 401(e)–(g), Oct. 17, 2020, 134 Stat. 807, 80
 
 **Oversight of Mental Health and Suicide Prevention Media Outreach Conducted by Department of Veterans Affairs**
 
-Pub. L. 116–171, title IV, § 402, Oct. 17, 2020, 134 Stat. 808, provided that:
+Pub. L. 116–171, title IV, § 402, Oct. 17, 2020, 134 Stat. 808, provided that:
 
 > **“(a) Establishment of Goals.—**
 
@@ -13379,15 +13379,15 @@ Pub. L. 116–171, title IV, § 402, Oct. 17, 2020, 134 Stat. 808, provided th
 
 **Staffing Requirement for Suicide Prevention Coordinators**
 
-Pub. L. 116–171, title V, § 506(a), Oct. 17, 2020, 134 Stat. 820, provided that: “Beginning not later than one year after the date of the enactment of this Act [Oct. 17, 2020], the Secretary of Veterans Affairs shall ensure that each medical center of the Department of Veterans Affairs has not less than one suicide prevention coordinator.”
+Pub. L. 116–171, title V, § 506(a), Oct. 17, 2020, 134 Stat. 820, provided that: “Beginning not later than one year after the date of the enactment of this Act [Oct. 17, 2020], the Secretary of Veterans Affairs shall ensure that each medical center of the Department of Veterans Affairs has not less than one suicide prevention coordinator.”
 
 **Funding for Peer Support Counseling for Women Veterans**
 
-Pub. L. 115–271, title VIII, § 8051(b), Oct. 24, 2018, 132 Stat. 4093, provided that: “The Secretary of Veterans Affairs shall carry out paragraph (4) of section 1720F(j) of title 38, United States Code, as added by subsection (a), using funds otherwise made available to the Secretary. No additional funds are authorized to be appropriated by reason of such paragraph.”
+Pub. L. 115–271, title VIII, § 8051(b), Oct. 24, 2018, 132 Stat. 4093, provided that: “The Secretary of Veterans Affairs shall carry out paragraph (4) of section 1720F(j) of title 38, United States Code, as added by subsection (a), using funds otherwise made available to the Secretary. No additional funds are authorized to be appropriated by reason of such paragraph.”
 
 **Collaboration on Suicide Prevention Efforts Between Department of Veterans Affairs and Non-Profit Mental Health Organizations**
 
-Pub. L. 114–2, § 6, Feb. 12, 2015, 129 Stat. 36, provided that:
+Pub. L. 114–2, § 6, Feb. 12, 2015, 129 Stat. 36, provided that:
 
 > **“(a) Collaboration.—** The Secretary of Veterans Affairs may collaborate with non-profit mental health organizations to prevent suicide among veterans as follows:
 
@@ -13403,11 +13403,11 @@ Pub. L. 114–2, § 6, Feb. 12, 2015, 129 Stat. 36, provided that:
 
 **Deadline for Commencement of Program**
 
-Pub. L. 112–239, div. A, title VII, § 730(a)(4), Jan. 2, 2013, 126 Stat. 1814, provided that: “The Secretary of Veterans Affairs shall ensure that the peer support counseling program required by section 1720F(j) of title 38, United States Code, as amended by this subsection, commences at each Department of Veterans Affairs medical center not later than 270 days after the date of the enactment of this Act [Jan. 2, 2013].”
+Pub. L. 112–239, div. A, title VII, § 730(a)(4), Jan. 2, 2013, 126 Stat. 1814, provided that: “The Secretary of Veterans Affairs shall ensure that the peer support counseling program required by section 1720F(j) of title 38, United States Code, as amended by this subsection, commences at each Department of Veterans Affairs medical center not later than 270 days after the date of the enactment of this Act [Jan. 2, 2013].”
 
 **Sense of Congress**
 
-Pub. L. 110–110, § 2, Nov. 5, 2007, 121 Stat. 1031, provided that:
+Pub. L. 110–110, § 2, Nov. 5, 2007, 121 Stat. 1031, provided that:
 
 > “It is the sense of Congress that—
 
@@ -13415,7 +13415,7 @@ Pub. L. 110–110, § 2, Nov. 5, 2007, 121 Stat. 1031, provided that:
 
 > **“(2)** the Secretary of Veterans Affairs should take into consideration the special needs of veterans suffering from PTSD and the special needs of elderly veterans who are at high risk for depression and experience high rates of suicide in developing and implementing the comprehensive program under this Act [enacting this section and provisions set out as a note under section 101 of this title].”
 
-### § 1720G. Assistance and support services for caregivers
+### § 1720G. Assistance and support services for caregivers
 
 **(a) Program of Comprehensive Assistance for Family Caregivers.—**
 
@@ -13765,7 +13765,7 @@ Pub. L. 110–110, § 2, Nov. 5, 2007, 121 Stat. 1031, provided that:
 
 **(D)** Any other non-institutional extended care (as such term is used in section 1701(6)(E) of this title).
 
-(Added Pub. L. 111–163, title I, § 101(a)(1), May 5, 2010, 124 Stat. 1132; amended Pub. L. 114–58, title I, § 103, title VI, § 601(6), Sept. 30, 2015, 129 Stat. 532, 538; Pub. L. 114–228, title I, § 103, Sept. 29, 2016, 130 Stat. 937; Pub. L. 115–62, title I, § 103, Sept. 29, 2017, 131 Stat. 1161; Pub. L. 115–182, title I, § 161(a)(1)(A), (2)–(b), June 6, 2018, 132 Stat. 1438–1440; Pub. L. 115–251, title I, § 103, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–278, § 2(b), Dec. 31, 2020, 134 Stat. 3374; Pub. L. 116–283, div. A, title IX, § 926(a)(28), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 118–210, title I, §§ 124(a)(1), (3), (b), 125, Jan. 2, 2025, 138 Stat. 2730, 2731.)
+(Added Pub. L. 111–163, title I, § 101(a)(1), May 5, 2010, 124 Stat. 1132; amended Pub. L. 114–58, title I, § 103, title VI, § 601(6), Sept. 30, 2015, 129 Stat. 532, 538; Pub. L. 114–228, title I, § 103, Sept. 29, 2016, 130 Stat. 937; Pub. L. 115–62, title I, § 103, Sept. 29, 2017, 131 Stat. 1161; Pub. L. 115–182, title I, § 161(a)(1)(A), (2)–(b), June 6, 2018, 132 Stat. 1438–1440; Pub. L. 115–251, title I, § 103, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–278, § 2(b), Dec. 31, 2020, 134 Stat. 3374; Pub. L. 116–283, div. A, title IX, § 926(a)(28), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 118–210, title I, §§ 124(a)(1), (3), (b), 125, Jan. 2, 2025, 138 Stat. 2730, 2731.)
 
 **Editorial Notes**
 
@@ -13779,57 +13779,57 @@ The Health Insurance Portability and Accountability Act, referred to in subsec. 
 
 **Amendments**
 
-2025—Subsec. (a)(3)(A)(ii)(III). Pub. L. 118–210, § 124(b)(1)(A), amended subcl. (III) generally. Prior to amendment, subcl. (III) read as follows: “respite care of not less than 30 days annually, including 24-hour per day care of the veteran commensurate with the care provided by the family caregiver to permit extended respite;”.
+2025—Subsec. (a)(3)(A)(ii)(III). Pub. L. 118–210, § 124(b)(1)(A), amended subcl. (III) generally. Prior to amendment, subcl. (III) read as follows: “respite care of not less than 30 days annually, including 24-hour per day care of the veteran commensurate with the care provided by the family caregiver to permit extended respite;”.
 
-Subsec. (a)(3)(B) to (D). Pub. L. 118–210, § 124(b)(1)(B), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B) which read as follows: “Respite care provided under subparagraph (A)(ii)(III) shall be medically and age-appropriate and include in-home care.”
+Subsec. (a)(3)(B) to (D). Pub. L. 118–210, § 124(b)(1)(B), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B) which read as follows: “Respite care provided under subparagraph (A)(ii)(III) shall be medically and age-appropriate and include in-home care.”
 
-Subsec. (a)(12)(A). Pub. L. 118–210, § 125(1)(A), inserted “, which shall include all criteria used to determine eligibility for such assistance and, in the case of a completed evaluation, how such criteria were used to evaluate information provided in assessments to determine such eligibility” before period at end.
+Subsec. (a)(12)(A). Pub. L. 118–210, § 125(1)(A), inserted “, which shall include all criteria used to determine eligibility for such assistance and, in the case of a completed evaluation, how such criteria were used to evaluate information provided in assessments to determine such eligibility” before period at end.
 
-Subsec. (a)(12)(C)(i). Pub. L. 118–210, § 125(1)(B), substituted “who—” for “who”, designated remainder of existing provisions as subcl. (I), and added subcl. (II).
+Subsec. (a)(12)(C)(i). Pub. L. 118–210, § 125(1)(B), substituted “who—” for “who”, designated remainder of existing provisions as subcl. (I), and added subcl. (II).
 
-Subsec. (a)(14). Pub. L. 118–210, § 124(a)(1), added par. (14).
+Subsec. (a)(14). Pub. L. 118–210, § 124(a)(1), added par. (14).
 
-Subsec. (a)(15). Pub. L. 118–210, § 125(2), added par. (15).
+Subsec. (a)(15). Pub. L. 118–210, § 125(2), added par. (15).
 
-Subsec. (b)(3)(A)(iii). Pub. L. 118–210, § 124(b)(2), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “Respite care under section 1720B of this title that is medically and age appropriate for the veteran (including 24-hour per day in-home care).”
+Subsec. (b)(3)(A)(iii). Pub. L. 118–210, § 124(b)(2), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “Respite care under section 1720B of this title that is medically and age appropriate for the veteran (including 24-hour per day in-home care).”
 
-Subsec. (d)(1). Pub. L. 118–210, § 124(a)(3)(A), substituted “, a veteran denied or discharged as specified in paragraph (14) of such subsection, or a covered veteran” for “or a covered veteran”.
+Subsec. (d)(1). Pub. L. 118–210, § 124(a)(3)(A), substituted “, a veteran denied or discharged as specified in paragraph (14) of such subsection, or a covered veteran” for “or a covered veteran”.
 
-Subsec. (d)(2). Pub. L. 118–210, § 124(b)(3), added par. (2). Former par. (2) redesignated (3).
+Subsec. (d)(2). Pub. L. 118–210, § 124(b)(3), added par. (2). Former par. (2) redesignated (3).
 
-Pub. L. 118–210, § 124(a)(3)(B), substituted “under subsection (a) or a veteran denied or discharged as specified in paragraph (14) of such subsection, means” for “under subsection (a), means”.
+Pub. L. 118–210, § 124(a)(3)(B), substituted “under subsection (a) or a veteran denied or discharged as specified in paragraph (14) of such subsection, means” for “under subsection (a), means”.
 
-Subsec. (d)(3). Pub. L. 118–210, § 124(b)(3), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+Subsec. (d)(3). Pub. L. 118–210, § 124(b)(3), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-Pub. L. 118–210, § 124(a)(3)(B), substituted “under subsection (a) or a veteran denied or discharged as specified in paragraph (14) of such subsection, means” for “under subsection (a), means” in introductory provisions.
+Pub. L. 118–210, § 124(a)(3)(B), substituted “under subsection (a) or a veteran denied or discharged as specified in paragraph (14) of such subsection, means” for “under subsection (a), means” in introductory provisions.
 
-Subsec. (d)(4). Pub. L. 118–210, § 124(b)(3), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+Subsec. (d)(4). Pub. L. 118–210, § 124(b)(3), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-Pub. L. 118–210, § 124(a)(3)(A), substituted “, a veteran denied or discharged as specified in paragraph (14) of such subsection, or a covered veteran” for “or a covered veteran”.
+Pub. L. 118–210, § 124(a)(3)(A), substituted “, a veteran denied or discharged as specified in paragraph (14) of such subsection, or a covered veteran” for “or a covered veteran”.
 
-Subsec. (d)(5). Pub. L. 118–210, § 124(b)(3), redesignated par. (4) as (5).
+Subsec. (d)(5). Pub. L. 118–210, § 124(b)(3), redesignated par. (4) as (5).
 
 2021—Subsec. (a)(2)(B). Pub. L. 116–283 substituted “air, or space service” for “or air service” wherever appearing.
 
 2020—Subsec. (a)(12), (13). Pub. L. 116–278 added pars. (12) and (13).
 
-2018—Subsec. (a)(2)(B). Pub. L. 115–182, § 161(a)(1)(A), amended subpar. (B) generally. Prior to amendment, text read as follows: “has a serious injury (including traumatic brain injury, psychological trauma, or other mental disorder) incurred or aggravated in the line of duty in the active military, naval, or air service on or after September 11, 2001; and”.
+2018—Subsec. (a)(2)(B). Pub. L. 115–182, § 161(a)(1)(A), amended subpar. (B) generally. Prior to amendment, text read as follows: “has a serious injury (including traumatic brain injury, psychological trauma, or other mental disorder) incurred or aggravated in the line of duty in the active military, naval, or air service on or after September 11, 2001; and”.
 
-Subsec. (a)(2)(C)(iii), (iv). Pub. L. 115–182, § 161(a)(2), added cl. (iii) and redesignated former cl. (iii) as (iv).
+Subsec. (a)(2)(C)(iii), (iv). Pub. L. 115–182, § 161(a)(2), added cl. (iii) and redesignated former cl. (iii) as (iv).
 
-Subsec. (a)(3)(A)(ii)(VI). Pub. L. 115–182, § 161(a)(3), added subcl. (VI).
+Subsec. (a)(3)(A)(ii)(VI). Pub. L. 115–182, § 161(a)(3), added subcl. (VI).
 
-Subsec. (a)(3)(C)(iii), (iv). Pub. L. 115–182, § 161(a)(4), added cl. (iii) and redesignated former cl. (iii) as (iv).
+Subsec. (a)(3)(C)(iii), (iv). Pub. L. 115–182, § 161(a)(4), added cl. (iii) and redesignated former cl. (iii) as (iv).
 
-Subsec. (a)(3)(D). Pub. L. 115–182, § 161(a)(5), added subpar. (D).
+Subsec. (a)(3)(D). Pub. L. 115–182, § 161(a)(5), added subpar. (D).
 
-Subsec. (a)(5). Pub. L. 115–182, § 161(a)(6), inserted “(in collaboration with the primary care team for the eligible veteran to the maximum extent practicable)” after “evaluate” in introductory provisions.
+Subsec. (a)(5). Pub. L. 115–182, § 161(a)(6), inserted “(in collaboration with the primary care team for the eligible veteran to the maximum extent practicable)” after “evaluate” in introductory provisions.
 
-Subsec. (a)(11). Pub. L. 115–182, § 161(a)(7), added par. (11).
+Subsec. (a)(11). Pub. L. 115–182, § 161(a)(7), added par. (11).
 
-Subsec. (d)(4)(A). Pub. L. 115–182, § 161(b)(1), struck out “independent” before “activities of daily living”.
+Subsec. (d)(4)(A). Pub. L. 115–182, § 161(b)(1), struck out “independent” before “activities of daily living”.
 
-Subsec. (d)(4)(B) to (D). Pub. L. 115–182, § 161(b)(2), (3), added subpars. (B) and (C) and redesignated former subpar. (B) as (D).
+Subsec. (d)(4)(B) to (D). Pub. L. 115–182, § 161(b)(2), (3), added subpars. (B) and (C) and redesignated former subpar. (B) as (D).
 
 Subsec. (e). Pub. L. 115–251 struck out subsec. (e) which authorized appropriations from fiscal years 2010 to 2019.
 
@@ -13837,19 +13837,19 @@ Subsec. (e). Pub. L. 115–251 struck out subsec. (e) which authorized appropria
 
 2016—Subsec. (e)(4). Pub. L. 114–228 added par. (4).
 
-2015—Subsec. (a)(7)(B)(iii). Pub. L. 114–58, § 601(6), substituted “have” for “has”.
+2015—Subsec. (a)(7)(B)(iii). Pub. L. 114–58, § 601(6), substituted “have” for “has”.
 
-Subsec. (e)(3). Pub. L. 114–58, § 103, added par. (3).
+Subsec. (e)(3). Pub. L. 114–58, § 103, added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 118–210, title I, § 124(a)(2), Jan. 2, 2025, 138 Stat. 2731, provided that: “The amendments made by paragraph (1) [amending this section] shall apply with respect to denials and discharges occurring on or after the date that is 180 days after the date of the enactment of this Act [Jan. 2, 2025].”
+Pub. L. 118–210, title I, § 124(a)(2), Jan. 2, 2025, 138 Stat. 2731, provided that: “The amendments made by paragraph (1) [amending this section] shall apply with respect to denials and discharges occurring on or after the date that is 180 days after the date of the enactment of this Act [Jan. 2, 2025].”
 
 **Effective Date**
 
-Pub. L. 111–163, title I, § 101(a)(3), May 5, 2010, 124 Stat. 1137, provided that:
+Pub. L. 111–163, title I, § 101(a)(3), May 5, 2010, 124 Stat. 1137, provided that:
 
 > **“(A) In general.—** The amendments made by this subsection [enacting this section] shall take effect on the date that is 270 days after the date of the enactment of this Act [May 5, 2010].
 
@@ -13857,7 +13857,7 @@ Pub. L. 111–163, title I, § 101(a)(3), May 5, 2010, 124 Stat. 1137, provide
 
 **Recognition of Organizations and Individuals to Assist Veterans, Family Members, and Caregivers Navigating Programs and Services of Veterans Health Administration**
 
-Pub. L. 118–210, title I, § 129, Jan. 2, 2025, 138 Stat. 2738, provided that:
+Pub. L. 118–210, title I, § 129, Jan. 2, 2025, 138 Stat. 2738, provided that:
 
 > **“(a) In General.—** Not later than one year after the date of the enactment of this Act [Jan. 2, 2025], the Secretary of Veterans Affairs shall establish a process through which the Department of Veterans Affairs may recognize organizations and individuals to assist a veteran, a family member of a veteran, or a caregiver of a veteran (as defined in section 1720G(d) of title 38, United States Code) in navigating the programs and services of the Veterans Health Administration.
 
@@ -13869,7 +13869,7 @@ Pub. L. 118–210, title I, § 129, Jan. 2, 2025, 138 Stat. 2738, provided tha
 
 **Modification of Administration of Caregiver Programs of Department of Veterans Affairs**
 
-Pub. L. 116–278, § 2(a), Dec. 31, 2020, 134 Stat. 3373, provided that:
+Pub. L. 116–278, § 2(a), Dec. 31, 2020, 134 Stat. 3373, provided that:
 
 > **“(a) Formal Recognition of Caregivers.—**
 
@@ -13889,7 +13889,7 @@ Pub. L. 116–278, § 2(a), Dec. 31, 2020, 134 Stat. 3373, provided that:
 
 **Education Program for Family Members and Caregivers of Veterans With Mental Health Disorders**
 
-Pub. L. 116–214, title II, § 202, Dec. 5, 2020, 134 Stat. 1033, provided that:
+Pub. L. 116–214, title II, § 202, Dec. 5, 2020, 134 Stat. 1033, provided that:
 
 > **“(a) Establishment.—** Not later than 270 days after the date of the enactment of this Act [Dec. 5, 2020], the Secretary of Veterans Affairs shall establish an education program (in this section referred to as the ‘education program’) for the education and training of caregivers and family members of eligible veterans with mental health disorders.
 
@@ -14013,11 +14013,11 @@ Pub. L. 116–214, title II, § 202, Dec. 5, 2020, 134 Stat. 1033, provided th
 
 **Publication in Federal Register**
 
-Pub. L. 115–182, title I, § 161(a)(1)(B), June 6, 2018, 132 Stat. 1439, as amended by Pub. L. 115–251, title II, § 211(b)(5), Sept. 29, 2018, 132 Stat. 3176, provided that: “Not later than 30 days after the date on which the Secretary of Veterans Affairs submits to Congress the certification described in subsection (a)(2)(B)(i) of section 1720G of title 38, United States Code, as amended by subparagraph (A) of this paragraph, the Secretary shall publish the date specified in such subsection in the Federal Register.”
+Pub. L. 115–182, title I, § 161(a)(1)(B), June 6, 2018, 132 Stat. 1439, as amended by Pub. L. 115–251, title II, § 211(b)(5), Sept. 29, 2018, 132 Stat. 3176, provided that: “Not later than 30 days after the date on which the Secretary of Veterans Affairs submits to Congress the certification described in subsection (a)(2)(B)(i) of section 1720G of title 38, United States Code, as amended by subparagraph (A) of this paragraph, the Secretary shall publish the date specified in such subsection in the Federal Register.”
 
 **Implementation of Information Technology System of Department of Veterans Affairs To Assess and Improve the Family Caregiver Program**
 
-Pub. L. 115–182, title I, § 162, June 6, 2018, 132 Stat. 1440, provided that:
+Pub. L. 115–182, title I, § 162, June 6, 2018, 132 Stat. 1440, provided that:
 
 > **“(a) Implementation of New System.—**
 
@@ -14083,7 +14083,7 @@ Pub. L. 115–182, title I, § 162, June 6, 2018, 132 Stat. 1440, provided tha
 
 **Annual Evaluation Report**
 
-Pub. L. 111–163, title I, § 101(c), May 5, 2010, 124 Stat. 1138, as amended by Pub. L. 115–182, title I, § 163, June 6, 2018, 132 Stat. 1442, provided that:
+Pub. L. 111–163, title I, § 101(c), May 5, 2010, 124 Stat. 1138, as amended by Pub. L. 115–182, title I, § 163, June 6, 2018, 132 Stat. 1442, provided that:
 
 > **“(1) In general.—** Not later than 2 years after the date described in subsection (a)(3)(A) [see Effective Date note above] and annually thereafter, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a comprehensive report on the implementation of section 1720G of title 38, United States Code, as added by subsection (a)(1).
 
@@ -14119,7 +14119,7 @@ Pub. L. 111–163, title I, § 101(c), May 5, 2010, 124 Stat. 1138, as amended
 
 > **“(iv)** such other information as the Secretary considers appropriate.”
 
-### § 1720H. Mental health treatment for veterans and members of the reserve components of the Armed Forces who served in classified missions
+### § 1720H. Mental health treatment for veterans and members of the reserve components of the Armed Forces who served in classified missions
 
 **(a) Establishment of Standards.—**
 
@@ -14147,25 +14147,25 @@ Pub. L. 111–163, title I, § 101(c), May 5, 2010, 124 Stat. 1138, as amended
 
 **(4)** The term “sensitive unit” has the meaning given that term in section 130b(c)(4) of title 10.
 
-(Added Pub. L. 114–315, title VI, § 605(b), Dec. 16, 2016, 130 Stat. 1571; amended Pub. L. 116–283, div. A, title VII, § 764(b)(1), (2)(A), Jan. 1, 2021, 134 Stat. 3727.)
+(Added Pub. L. 114–315, title VI, § 605(b), Dec. 16, 2016, 130 Stat. 1571; amended Pub. L. 116–283, div. A, title VII, § 764(b)(1), (2)(A), Jan. 1, 2021, 134 Stat. 3727.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 764(b)(2)(A), inserted “and members of the reserve components of the Armed Forces” after “veterans” in section catchline.
+2021—Pub. L. 116–283, § 764(b)(2)(A), inserted “and members of the reserve components of the Armed Forces” after “veterans” in section catchline.
 
-Subsec. (a)(1). Pub. L. 116–283, § 764(b)(1)(A)(i), substituted “eligible individual” for “eligible veteran” and “the individual” for “the veteran”.
+Subsec. (a)(1). Pub. L. 116–283, § 764(b)(1)(A)(i), substituted “eligible individual” for “eligible veteran” and “the individual” for “the veteran”.
 
-Subsec. (a)(3). Pub. L. 116–283, § 764(b)(1)(A)(ii), substituted “eligible individuals” for “eligible veterans”.
+Subsec. (a)(3). Pub. L. 116–283, § 764(b)(1)(A)(ii), substituted “eligible individuals” for “eligible veterans”.
 
-Subsec. (b). Pub. L. 116–283, § 764(b)(1)(B), substituted “an individual” for “a veteran” and “eligible individual” for “eligible veteran”.
+Subsec. (b). Pub. L. 116–283, § 764(b)(1)(B), substituted “an individual” for “a veteran” and “eligible individual” for “eligible veteran”.
 
-Subsec. (c)(2). Pub. L. 116–283, § 764(b)(1)(C)(i), substituted “The term ‘eligible individual’ means a veteran or a member of the reserve components of the Armed Forces” for “The term ‘eligible veteran’ means a veteran” in introductory provisions.
+Subsec. (c)(2). Pub. L. 116–283, § 764(b)(1)(C)(i), substituted “The term ‘eligible individual’ means a veteran or a member of the reserve components of the Armed Forces” for “The term ‘eligible veteran’ means a veteran” in introductory provisions.
 
-Subsec. (c)(3). Pub. L. 116–283, § 764(b)(1)(C)(ii), substituted “eligible individual” for “eligible veteran”.
+Subsec. (c)(3). Pub. L. 116–283, § 764(b)(1)(C)(ii), substituted “eligible individual” for “eligible veteran”.
 
-### § 1720I. Mental and behavioral health care for certain former members of the Armed Forces
+### § 1720I. Mental and behavioral health care for certain former members of the Armed Forces
 
 **(a) In General.—** The Secretary shall furnish to former members of the Armed Forces described in subsection (b)—
 
@@ -14257,7 +14257,7 @@ Subsec. (c)(3). Pub. L. 116–283, § 764(b)(1)(C)(ii), substituted “eligibl
 
 **(F)** Such other information as the Secretary considers appropriate.
 
-(Added Pub. L. 115–141, div. J, title II, § 258(a), Mar. 23, 2018, 132 Stat. 826, § 1712I; renumbered § 1720I, Pub. L. 115–182, title V, § 511, June 6, 2018, 132 Stat. 1481; amended Pub. L. 115–251, title II, § 205, Sept. 29, 2018, 132 Stat. 3173; Pub. L. 116–171, title I, § 104, Oct. 17, 2020, 134 Stat. 782; Pub. L. 116–283, div. A, title IX, § 926(a)(29), Jan. 1, 2021, 134 Stat. 3830.)
+(Added Pub. L. 115–141, div. J, title II, § 258(a), Mar. 23, 2018, 132 Stat. 826, § 1712I; renumbered § 1720I, Pub. L. 115–182, title V, § 511, June 6, 2018, 132 Stat. 1481; amended Pub. L. 115–251, title II, § 205, Sept. 29, 2018, 132 Stat. 3173; Pub. L. 116–171, title I, § 104, Oct. 17, 2020, 134 Stat. 782; Pub. L. 116–283, div. A, title IX, § 926(a)(29), Jan. 1, 2021, 134 Stat. 3830.)
 
 **Editorial Notes**
 
@@ -14271,15 +14271,15 @@ The date of the enactment of the Military Construction, Veterans Affairs, and Re
 
 Subsec. (e)(1)(B), (4). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
-2020—Subsec. (f)(1). Pub. L. 116–171, § 104(1), substituted “Not later than February 15” for “Not less frequently than once”.
+2020—Subsec. (f)(1). Pub. L. 116–171, § 104(1), substituted “Not later than February 15” for “Not less frequently than once”.
 
-Subsec. (f)(2)(C) to (F). Pub. L. 116–171, § 104(2), added subpars. (C) to (E) and redesignated former subpar. (C) as (F).
+Subsec. (f)(2)(C) to (F). Pub. L. 116–171, § 104(2), added subpars. (C) to (E) and redesignated former subpar. (C) as (F).
 
 2018—Pub. L. 115–182 renumbered section 1712I of this title as this section.
 
 Subsec. (b)(3). Pub. L. 115–251 substituted “is not enrolled” for “is not otherwise eligible to enroll”.
 
-### § 1720J. Emergent suicide care
+### § 1720J. Emergent suicide care
 
 **(a) Emergent Suicide Care.—** Pursuant to this section, the Secretary shall—
 
@@ -14351,9 +14351,9 @@ Subsec. (b)(3). Pub. L. 115–251 substituted “is not enrolled” for “is no
 
 **(2)** demographic information regarding eligible individuals described in paragraph (1);
 
-**(3)** the types of care furnished or paid for this section; 1
+**(3)** the types of care furnished or paid for this section; 1
 
-<sup>1</sup>  So in original. Probably should be “under this section;”.
+<sup>1</sup> So in original. Probably should be “under this section;”.
 
 and
 
@@ -14387,15 +14387,15 @@ and
 
 **(6)** The term “Veterans Crisis Line” means the hotline under section 1720F(h) of this title.
 
-(Added Pub. L. 116–214, title II, § 201(a), Dec. 5, 2020, 134 Stat. 1030.)
+(Added Pub. L. 116–214, title II, § 201(a), Dec. 5, 2020, 134 Stat. 1030.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 116–214, title II, § 201(c), Dec. 5, 2020, 134 Stat. 1033, provided that: “The Secretary shall furnish or pay for emergent suicide care under section 1720J of title 38, United States Code, as added by subsection (a), beginning on the date that is 270 days after the date of the enactment of this Act [Dec. 5, 2020].”
+Pub. L. 116–214, title II, § 201(c), Dec. 5, 2020, 134 Stat. 1033, provided that: “The Secretary shall furnish or pay for emergent suicide care under section 1720J of title 38, United States Code, as added by subsection (a), beginning on the date that is 270 days after the date of the enactment of this Act [Dec. 5, 2020].”
 
-### § 1720K. Grants or contracts to provide mental health support to family caregivers of veterans
+### § 1720K. Grants or contracts to provide mental health support to family caregivers of veterans
 
 **(a) Authority.—** The Secretary may award grants or contracts to carry out, coordinate, improve, or otherwise enhance mental health counseling, treatment, or support to the family caregivers of veterans participating in the family caregiver program.
 
@@ -14487,9 +14487,9 @@ Pub. L. 116–214, title II, § 201(c), Dec. 5, 2020, 134 Stat. 1033, provided
 
 **(3)** The term “Veterans Crisis Line” means the toll-free hotline for veterans established under section 1720F of this title.
 
-(Added Pub. L. 118–210, title I, § 122, Jan. 2, 2025, 138 Stat. 2724.)
+(Added Pub. L. 118–210, title I, § 122, Jan. 2, 2025, 138 Stat. 2724.)
 
-### § 1720L. Home- and community-based services: programs
+### § 1720L. Home- and community-based services: programs
 
 **(a) In General.—** In furnishing noninstitutional alternatives to nursing home care pursuant to the authority of section 1720C of this title (or any other authority under this chapter or other provision of law administered by the Secretary of Veterans Affairs), the Secretary shall carry out each of the programs specified in this section in accordance with such relevant authorities except as otherwise provided in this section.
 
@@ -14551,9 +14551,9 @@ Pub. L. 116–214, title II, § 201(c), Dec. 5, 2020, 134 Stat. 1033, provided
 
 **(1)** The terms “Aging and Disability Resource Center”, “area agency on aging”, and “State agency” have the meanings given those terms in section 102 of the Older Americans Act of 1965 (42 U.S.C. 3002).
 
-**(2)** The terms “caregiver” and “family caregiver”, with respect to a veteran, have the meanings given those terms, respectively, under subsection (e) 1
+**(2)** The terms “caregiver” and “family caregiver”, with respect to a veteran, have the meanings given those terms, respectively, under subsection (e) 1
 
-<sup>1</sup>  So in original. Probably should be “subsection (d)”.
+<sup>1</sup> So in original. Probably should be “subsection (d)”.
 
 of section 1720G of this title with respect to an eligible veteran under subsection (a) of such section or a covered veteran under subsection (b) of such section, as the case may be.
 
@@ -14585,19 +14585,19 @@ of section 1720G of this title with respect to an eligible veteran under subsect
 
 **(B)** has not entered into a contract, agreement, or other arrangement for such individual to act as a caregiver for that veteran unless such individual is a family member of the veteran or is furnishing caregiver services through a medical foster home.
 
-(Added Pub. L. 118–210, title I, § 123(a), Jan. 2, 2025, 138 Stat. 2726.)
+(Added Pub. L. 118–210, title I, § 123(a), Jan. 2, 2025, 138 Stat. 2726.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Deadline for Improved Administration**
 
-Pub. L. 118–210, title I, § 123(b), Jan. 2, 2025, 138 Stat. 2729, provided that: “The Secretary of Veterans Affairs shall ensure that the Veteran-Directed Care program and the Homemaker and Home Health Aide program are administered through each medical center of the Department of Veterans Affairs in accordance with section 1720L of title 38, United States Code (as added by subsection (a)), by not later than two years after the date of the enactment of this Act [Jan. 2, 2025].”
+Pub. L. 118–210, title I, § 123(b), Jan. 2, 2025, 138 Stat. 2729, provided that: “The Secretary of Veterans Affairs shall ensure that the Veteran-Directed Care program and the Homemaker and Home Health Aide program are administered through each medical center of the Department of Veterans Affairs in accordance with section 1720L of title 38, United States Code (as added by subsection (a)), by not later than two years after the date of the enactment of this Act [Jan. 2, 2025].”
 
 [For definitions of “Veteran-Directed Care program” and “Homemaker and Home Health Aide program” as used in section 123(b) of Pub. L. 118–210, set out above, see section 133 of Pub. L. 118–210, set out below.]
 
 **Administration of Veteran-Directed Care Program**
 
-Pub. L. 118–210, title I, § 123(c), Jan. 2, 2025, 138 Stat. 2729, provided that:
+Pub. L. 118–210, title I, § 123(c), Jan. 2, 2025, 138 Stat. 2729, provided that:
 
 > **“(1) Procedures.—**
 
@@ -14637,7 +14637,7 @@ Pub. L. 118–210, title I, § 123(c), Jan. 2, 2025, 138 Stat. 2729, provided 
 
 **Improvements Relating to Homemaker and Home Health Aide Program**
 
-Pub. L. 118–210, title I, § 126, Jan. 2, 2025, 138 Stat. 2733, provided that:
+Pub. L. 118–210, title I, § 126, Jan. 2, 2025, 138 Stat. 2733, provided that:
 
 > **“(a) Pilot Program for Communities With Shortage of Home Health Aides.—**
 
@@ -14677,7 +14677,7 @@ Pub. L. 118–210, title I, § 126, Jan. 2, 2025, 138 Stat. 2733, provided tha
 
 **Reviews and Other Improvements Relating to Home- and Community-Based Services**
 
-Pub. L. 118–210, title I, § 130, Jan. 2, 2025, 138 Stat. 2738, provided that:
+Pub. L. 118–210, title I, § 130, Jan. 2, 2025, 138 Stat. 2738, provided that:
 
 > **“(a) Office of Geriatric and Extended Care.—**
 
@@ -14771,7 +14771,7 @@ Pub. L. 118–210, title I, § 130, Jan. 2, 2025, 138 Stat. 2738, provided tha
 
 **Development of Centralized Website for Program Information**
 
-Pub. L. 118–210, title I, § 132, Jan. 2, 2025, 138 Stat. 2742, provided that:
+Pub. L. 118–210, title I, § 132, Jan. 2, 2025, 138 Stat. 2742, provided that:
 
 > **“(a) Centralized Website.—** The Secretary [probably means the Secretary of Veterans Affairs] shall develop and maintain a centralized and publically accessible internet website of the Department [probably means the Department of Veterans Affairs] as a clearinghouse for information and resources relating to covered programs.
 
@@ -14793,9 +14793,9 @@ Pub. L. 118–210, title I, § 132, Jan. 2, 2025, 138 Stat. 2742, provided tha
 
 **Definitions**
 
-Pub. L. 118–210, title I, § 133, Jan. 2, 2025, 138 Stat. 2742, provided that:
+Pub. L. 118–210, title I, § 133, Jan. 2, 2025, 138 Stat. 2742, provided that:
 
-> “In this subtitle [subtitle B (§§ 120–133) of title I of Pub. L. 118–210, enacting sections 1720K and 1720L of this title, amending sections 1720C and 1720G of this title, and enacting provisions set out as notes under this section and section 1710B, 1720C, 1720G, 1720K, and 1741 of this title]:
+> “In this subtitle [subtitle B (§§ 120–133) of title I of Pub. L. 118–210, enacting sections 1720K and 1720L of this title, amending sections 1720C and 1720G of this title, and enacting provisions set out as notes under this section and section 1710B, 1720C, 1720G, 1720K, and 1741 of this title]:
 
 > **“(1)** The terms ‘caregiver’ and ‘family caregiver’ have the meanings given those terms under section 1720L(h) of title 38, United States Code (as added by section 123).
 
@@ -14823,13 +14823,13 @@ Pub. L. 118–210, title I, § 133, Jan. 2, 2025, 138 Stat. 2742, provided tha
 
 **Amendments**
 
-1976—Pub. L. 94–581, title II, § 202(i), Oct. 21, 1976, 90 Stat. 2856, inserted “AND NURSING HOME” in subchapter heading.
+1976—Pub. L. 94–581, title II, § 202(i), Oct. 21, 1976, 90 Stat. 2856, inserted “AND NURSING HOME” in subchapter heading.
 
-### § 1721. Power to make rules and regulations
+### § 1721. Power to make rules and regulations
 
 Rules and regulations prescribed under section 501(a) of this title shall include rules and regulations to promote good conduct on the part of persons who are receiving hospital, nursing home, and domiciliary care and medical services in Department facilities. The Secretary may prescribe in rules and regulations under such section limitations in connection with the furnishing of such care and services during a period of national emergency (other than a period of war or an emergency described in section 8111A of this title).
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1143, § 621; Pub. L. 94–581, title II, §§ 202(j), 210(a)(8), Oct. 21, 1976, 90 Stat. 2856, 2863; Pub. L. 100–322, title I, § 133, May 20, 1988, 102 Stat. 507; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 1721 and amended Pub. L. 102–83, §§ 2(c)(1), 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 402, 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1143, § 621; Pub. L. 94–581, title II, §§ 202(j), 210(a)(8), Oct. 21, 1976, 90 Stat. 2856, 2863; Pub. L. 100–322, title I, § 133, May 20, 1988, 102 Stat. 507; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 1721 and amended Pub. L. 102–83, §§ 2(c)(1), 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 402, 404–406.)
 
 **Editorial Notes**
 
@@ -14839,13 +14839,13 @@ Prior section 1721 was renumbered section 3521 of this title.
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 621 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 621 of this title as this section.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Pub. L. 102–83, § 2(c)(1), substituted “501(a)” for “210(c)(1)”.
+Pub. L. 102–83, § 2(c)(1), substituted “501(a)” for “210(c)(1)”.
 
 Pub. L. 102–40 substituted “8111A” for “5011A”.
 
@@ -14857,11 +14857,11 @@ Pub. L. 102–40 substituted “8111A” for “5011A”.
 
 “(3) such rules and regulations as the Administrator deems necessary in order to promote good conduct on the part of persons who are receiving hospital, nursing home, or domiciliary care in Veterans’ Administration facilities.”
 
-1976—Cl. (1). Pub. L. 94–581, §§ 202(j), 210(a)(8), substituted “hospital, nursing home, and domiciliary care as the Administrator may deem” for “hospital and domiciliary care as he may deem”.
+1976—Cl. (1). Pub. L. 94–581, §§ 202(j), 210(a)(8), substituted “hospital, nursing home, and domiciliary care as the Administrator may deem” for “hospital and domiciliary care as he may deem”.
 
-Cl. (2). Pub. L. 94–581, § 202(j), substituted “hospital, nursing home, and domiciliary care” for “hospital and domiciliary care”.
+Cl. (2). Pub. L. 94–581, § 202(j), substituted “hospital, nursing home, and domiciliary care” for “hospital and domiciliary care”.
 
-Cl. (3). Pub. L. 94–581, §§ 202(j), 210(a)(8), substituted “as the Administrator deems” for “as he deems” and “hospital, nursing home, or domiciliary care” for “hospital or domiciliary care”.
+Cl. (3). Pub. L. 94–581, §§ 202(j), 210(a)(8), substituted “as the Administrator deems” for “as he deems” and “hospital, nursing home, or domiciliary care” for “hospital or domiciliary care”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -14869,7 +14869,7 @@ Cl. (3). Pub. L. 94–581, §§ 202(j), 210(a)(8), substituted “as the Admin
 
 Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of this title.
 
-### § 1722. Determination of inability to defray necessary expenses; income thresholds
+### § 1722. Determination of inability to defray necessary expenses; income thresholds
 
 **(a)** For the purposes of section 1710(a)(2)(G) of this title, a veteran shall be considered to be unable to defray the expenses of necessary care if—
 
@@ -14927,47 +14927,47 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 shall be accepted as sufficient evidence of such veteran’s inability to defray necessary expenses.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144, § 622; Pub. L. 89–612, § 1, Sept. 30, 1966, 80 Stat. 859; Pub. L. 91–500, § 1, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 94–581, title II, §§ 202(k), 210(a)(9), Oct. 21, 1976, 90 Stat. 2856, 2863; Pub. L. 96–330, title IV, § 401(a), Aug. 26, 1980, 94 Stat. 1051; Pub. L. 99–272, title XIX, § 19011(c)(1), Apr. 7, 1986, 100 Stat. 376; Pub. L. 100–322, title I, § 102(b), May 20, 1988, 102 Stat. 493; Pub. L. 101–508, title VIII, § 8013(c), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 1722 and amended Pub. L. 102–83, §§ 4(a)(1), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 104–262, title I, § 101(d)(9), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 112–154, title VII, § 705, Aug. 6, 2012, 126 Stat. 1206.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144, § 622; Pub. L. 89–612, § 1, Sept. 30, 1966, 80 Stat. 859; Pub. L. 91–500, § 1, Oct. 22, 1970, 84 Stat. 1096; Pub. L. 94–581, title II, §§ 202(k), 210(a)(9), Oct. 21, 1976, 90 Stat. 2856, 2863; Pub. L. 96–330, title IV, § 401(a), Aug. 26, 1980, 94 Stat. 1051; Pub. L. 99–272, title XIX, § 19011(c)(1), Apr. 7, 1986, 100 Stat. 376; Pub. L. 100–322, title I, § 102(b), May 20, 1988, 102 Stat. 493; Pub. L. 101–508, title VIII, § 8013(c), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 1722 and amended Pub. L. 102–83, §§ 4(a)(1), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 104–262, title I, § 101(d)(9), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 112–154, title VII, § 705, Aug. 6, 2012, 126 Stat. 1206.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsecs. (a)(1) and (g)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Social Security Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a)(1) and (g)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Social Security Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Prior Provisions**
 
-Prior section 1722, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1196, related to change of program by eligible person, prior to repeal by Pub. L. 92–540, title IV, § 402(2), Oct. 24, 1972, 86 Stat. 1090. See section 3691 of this title.
+Prior section 1722, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1196, related to change of program by eligible person, prior to repeal by Pub. L. 92–540, title IV, § 402(2), Oct. 24, 1972, 86 Stat. 1090. See section 3691 of this title.
 
 **Amendments**
 
 2012—Subsec. (f)(1). Pub. L. 112–154 substituted “the most recent year for which information is available” for “the previous year”.
 
-1996—Subsec. (a). Pub. L. 104–262, § 101(d)(9)(A), substituted “section 1710(a)(2)(G)” for “section 1710(a)(1)(I)” in introductory provisions.
+1996—Subsec. (a). Pub. L. 104–262, § 101(d)(9)(A), substituted “section 1710(a)(2)(G)” for “section 1710(a)(1)(I)” in introductory provisions.
 
-Subsec. (f)(3). Pub. L. 104–262, § 101(d)(9)(B), struck out “or 1712(f)” before “of this title”.
+Subsec. (f)(3). Pub. L. 104–262, § 101(d)(9)(B), struck out “or 1712(f)” before “of this title”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 622 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 622 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1710(a)(1)(I)” for “610(a)(1)(I)” in introductory provisions and “1521” for “521” in par. (2).
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1710(a)(1)(I)” for “610(a)(1)(I)” in introductory provisions and “1521” for “521” in par. (2).
 
 Subsec. (c). Pub. L. 102–40 substituted “5312(a)” for “3112(a)”.
 
-Subsec. (d)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (d)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (d)(3). Pub. L. 102–83, § 5(c)(1), substituted “1522” for “522”.
+Subsec. (d)(3). Pub. L. 102–83, § 5(c)(1), substituted “1522” for “522”.
 
-Subsec. (e)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (e)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (f). Pub. L. 102–83, § 5(c)(1), substituted “1521” for “521” in par. (1) and “1710(a) or 1712(f)” for “610(a) or 612(f)” in par. (3).
+Subsec. (f). Pub. L. 102–83, § 5(c)(1), substituted “1521” for “521” in par. (1) and “1710(a) or 1712(f)” for “610(a) or 612(f)” in par. (3).
 
-Subsec. (g). Pub. L. 102–83, § 5(c)(1), substituted “1724(c)” for “624(c)” in introductory provisions.
+Subsec. (g). Pub. L. 102–83, § 5(c)(1), substituted “1724(c)” for “624(c)” in introductory provisions.
 
-Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in par. (3).
+Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in par. (3).
 
-1990—Subsec. (a). Pub. L. 101–508, § 8013(c)(1), designated par. (1) as entire subsec. (a), redesignated cls. (A) to (C) as pars. (1) to (3), respectively, substituted “amount set forth in subsection (b)” for “Category A threshold” in par. (3), and struck out former par. (2) which read as follows: “For the purposes of section 610(a)(2)(A) of this title, a veteran’s income level is described in this paragraph if the veteran’s attributable income is not greater than the Category B threshold.”
+1990—Subsec. (a). Pub. L. 101–508, § 8013(c)(1), designated par. (1) as entire subsec. (a), redesignated cls. (A) to (C) as pars. (1) to (3), respectively, substituted “amount set forth in subsection (b)” for “Category A threshold” in par. (3), and struck out former par. (2) which read as follows: “For the purposes of section 610(a)(2)(A) of this title, a veteran’s income level is described in this paragraph if the veteran’s attributable income is not greater than the Category B threshold.”
 
-Subsec. (b). Pub. L. 101–508, § 8013(c)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purposes of this section:
+Subsec. (b). Pub. L. 101–508, § 8013(c)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purposes of this section:
 
 “(1) The Category A threshold—
 
@@ -14989,17 +14989,17 @@ Subsec. (b). Pub. L. 101–508, § 8013(c)(2), amended subsec. (b) generally. 
 
 “(B) for a calendar year beginning after December 31, 1986, is the amount in effect for purposes of this paragraph for the preceding calendar year as adjusted under subsection (c) of this subsection.”
 
-Subsec. (c). Pub. L. 101–508, § 8013(c)(3), struck out “paragraphs (1) and (2) of” before “subsection (b) of this section”.
+Subsec. (c). Pub. L. 101–508, § 8013(c)(3), struck out “paragraphs (1) and (2) of” before “subsection (b) of this section”.
 
-Subsec. (d)(2). Pub. L. 101–508, § 8013(c)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A determination described in this paragraph is a determination—
+Subsec. (d)(2). Pub. L. 101–508, § 8013(c)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A determination described in this paragraph is a determination—
 
 “(A) that for the purposes of subsection (a)(1)(C) of this section a veteran’s attributable income is not greater than the Category A threshold; or
 
 “(B) that for the purposes of subsection (a)(2) of this section a veteran’s attributable income is not greater than the Category B threshold.”
 
-Subsec. (e)(1). Pub. L. 101–508, § 8013(c)(5)(A), substituted “the amount determined under subsection (b) of this section” for “the Category A threshold or the Category B threshold, as appropriate”.
+Subsec. (e)(1). Pub. L. 101–508, § 8013(c)(5)(A), substituted “the amount determined under subsection (b) of this section” for “the Category A threshold or the Category B threshold, as appropriate”.
 
-Subsec. (e)(2). Pub. L. 101–508, § 8013(c)(5)(B), added par. (2) and struck out former par. (2) which read as follows:
+Subsec. (e)(2). Pub. L. 101–508, § 8013(c)(5)(B), added par. (2) and struck out former par. (2) which read as follows:
 
 “(A) A veteran is described in this paragraph for the purposes of subsection (a)(1) of this section if—
 
@@ -15019,9 +15019,9 @@ Subsec. (e)(2). Pub. L. 101–508, § 8013(c)(5)(B), added par. (2) and struck
 
 1980—Pub. L. 96–330 substituted provisions relating to the facts that will be accepted as sufficient evidence of an individual’s inability to defray necessary expenses for provisions relating to the use of statements under oath to establish the inability to defray necessary expenses.
 
-1976—Subsec. (a). Pub. L. 94–581, § 202(k), substituted “610(a)(1)(B)” for “610(a)(1)” and “632(a)(2)” for “632(b)”.
+1976—Subsec. (a). Pub. L. 94–581, § 202(k), substituted “610(a)(1)(B)” for “610(a)(1)” and “632(a)(2)” for “632(b)”.
 
-Subsec. (b). Pub. L. 94–581, § 210(a)(9), substituted “such veteran’s inability” for “his inability”.
+Subsec. (b). Pub. L. 94–581, § 210(a)(9), substituted “such veteran’s inability” for “his inability”.
 
 1970—Pub. L. 91–500 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -15047,9 +15047,9 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 **Initial Increase Under Subsection (c)**
 
-Pub. L. 99–272, title XIX, § 19011(c)(3), Apr. 7, 1986, 100 Stat. 378, provided that the first increase under subsection (c) of this section, as added by section 19011(c)(1) of Pub. L. 99–272, was to take effect on Jan. 1, 1987.
+Pub. L. 99–272, title XIX, § 19011(c)(3), Apr. 7, 1986, 100 Stat. 378, provided that the first increase under subsection (c) of this section, as added by section 19011(c)(1) of Pub. L. 99–272, was to take effect on Jan. 1, 1987.
 
-### § 1722A. Copayment for medications
+### § 1722A. Copayment for medications
 
 **(a)**
 
@@ -15065,9 +15065,9 @@ Pub. L. 99–272, title XIX, § 19011(c)(3), Apr. 7, 1986, 100 Stat. 378, prov
 
 **(C)** to a veteran whose annual income (as determined under section 1503 of this title) does not exceed the maximum annual rate of pension which would be payable to such veteran if such veteran were eligible for pension under section 1521 of this title; or
 
-**(D)** to a veteran who was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 1
+**(D)** to a veteran who was awarded the medal of honor under section 7271, 8291, or 9271 of title 10 or section 491 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 14.
 
@@ -15081,13 +15081,13 @@ of title 14.
 
 **(c)** Amounts collected under this section shall be deposited in the Department of Veterans Affairs Medical Care Collections Fund.
 
-(Added Pub. L. 101–508, title VIII, § 8012(a)(1), Nov. 5, 1990, 104 Stat. 1388–345, § 622A; renumbered § 1722A, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–139, title V, § 518(a), Oct. 28, 1991, 105 Stat. 779; Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1709; Pub. L. 102–568, title VI, §§ 605(a), 606(a), Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, § 12002(b), Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title XII, § 1201(e)(7), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 105–33, title VIII, §§ 8021(b), 8023(b)(3), Aug. 5, 1997, 111 Stat. 665, 667; Pub. L. 106–117, title II, § 201(a), Nov. 30, 1999, 113 Stat. 1560; Pub. L. 108–7, div. K, title I, § 113(c), Feb. 20, 2003, 117 Stat. 482; Pub. L. 108–170, title I, § 101(b), Dec. 6, 2003, 117 Stat. 2043; Pub. L. 114–198, title IX, § 915(a), July 22, 2016, 130 Stat. 765; Pub. L. 114–223, div. A, title II, § 243(a), Sept. 29, 2016, 130 Stat. 884; Pub. L. 114–315, title VI, § 603(d), Dec. 16, 2016, 130 Stat. 1570; Pub. L. 115–232, div. A, title VIII, § 809(n)(1)(D), Aug. 13, 2018, 132 Stat. 1843.)
+(Added Pub. L. 101–508, title VIII, § 8012(a)(1), Nov. 5, 1990, 104 Stat. 1388–345, § 622A; renumbered § 1722A, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 102–139, title V, § 518(a), Oct. 28, 1991, 105 Stat. 779; Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1709; Pub. L. 102–568, title VI, §§ 605(a), 606(a), Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, § 12002(b), Aug. 10, 1993, 107 Stat. 414; Pub. L. 103–446, title XII, § 1201(e)(7), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 105–33, title VIII, §§ 8021(b), 8023(b)(3), Aug. 5, 1997, 111 Stat. 665, 667; Pub. L. 106–117, title II, § 201(a), Nov. 30, 1999, 113 Stat. 1560; Pub. L. 108–7, div. K, title I, § 113(c), Feb. 20, 2003, 117 Stat. 482; Pub. L. 108–170, title I, § 101(b), Dec. 6, 2003, 117 Stat. 2043; Pub. L. 114–198, title IX, § 915(a), July 22, 2016, 130 Stat. 765; Pub. L. 114–223, div. A, title II, § 243(a), Sept. 29, 2016, 130 Stat. 884; Pub. L. 114–315, title VI, § 603(d), Dec. 16, 2016, 130 Stat. 1570; Pub. L. 115–232, div. A, title VIII, § 809(n)(1)(D), Aug. 13, 2018, 132 Stat. 1843.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 491 of title 14, referred to in subsec. (a)(3)(D), was redesignated section 2732 of title 14 by Pub. L. 115–282, title I, § 116(b), Dec. 4, 2018, 132 Stat. 4226, and references to section 491 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding section 101 of Title 14, Coast Guard.
+Section 491 of title 14, referred to in subsec. (a)(3)(D), was redesignated section 2732 of title 14 by Pub. L. 115–282, title I, § 116(b), Dec. 4, 2018, 132 Stat. 4226, and references to section 491 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding section 101 of Title 14, Coast Guard.
 
 **Amendments**
 
@@ -15099,29 +15099,29 @@ Subsec. (a)(4). Pub. L. 114–198 and Pub. L. 114–223 amended subsec. (a) iden
 
 2003—Subsec. (a)(3)(B), (C). Pub. L. 108–170 added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Subsec. (c). Pub. L. 108–7, § 113(c)(1), substituted “under this section” for “under subsection (a)” in first sentence and struck out second sentence which read as follows: “Amounts collected through use of the authority under subsection (b) shall be deposited in the Department of Veterans Affairs Health Services Improvement Fund.”
+Subsec. (c). Pub. L. 108–7, § 113(c)(1), substituted “under this section” for “under subsection (a)” in first sentence and struck out second sentence which read as follows: “Amounts collected through use of the authority under subsection (b) shall be deposited in the Department of Veterans Affairs Health Services Improvement Fund.”
 
-Subsec. (d). Pub. L. 108–7, § 113(c)(2), struck out subsec. (d) which read as follows: “The provisions of subsection (a) expire on September 30, 2002.”
+Subsec. (d). Pub. L. 108–7, § 113(c)(2), struck out subsec. (d) which read as follows: “The provisions of subsection (a) expire on September 30, 2002.”
 
-1999—Subsec. (b). Pub. L. 106–117, § 201(a)(1), (2), added subsec. (b). Former subsec. (b) redesignated (c).
+1999—Subsec. (b). Pub. L. 106–117, § 201(a)(1), (2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 106–117, § 201(a)(1), (3), redesignated subsec. (b) as (c), substituted “subsection (a)” for “this section”, and inserted at end “Amounts collected through use of the authority under subsection (b) shall be deposited in the Department of Veterans Affairs Health Services Improvement Fund.” Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 106–117, § 201(a)(1), (3), redesignated subsec. (b) as (c), substituted “subsection (a)” for “this section”, and inserted at end “Amounts collected through use of the authority under subsection (b) shall be deposited in the Department of Veterans Affairs Health Services Improvement Fund.” Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 106–117, § 201(a)(1), redesignated subsec. (c) as (d).
+Subsec. (d). Pub. L. 106–117, § 201(a)(1), redesignated subsec. (c) as (d).
 
-1997—Subsec. (b). Pub. L. 105–33, § 8023(b)(3), substituted “Medical Care Collections Fund” for “Medical-Care Cost Recovery Fund”.
+1997—Subsec. (b). Pub. L. 105–33, § 8023(b)(3), substituted “Medical Care Collections Fund” for “Medical-Care Cost Recovery Fund”.
 
-Subsec. (c). Pub. L. 105–33, § 8021(b), substituted “September 30, 2002” for “September 30, 1998”.
+Subsec. (c). Pub. L. 105–33, § 8021(b), substituted “September 30, 2002” for “September 30, 1998”.
 
 1994—Subsec. (a)(1). Pub. L. 103–446 substituted “veteran to pay” for “veteran) to pay”.
 
 1993—Subsec. (c). Pub. L. 103–66 substituted “1998” for “1992” in first sentence and struck out at end “Notwithstanding the preceding sentence, the provisions of subsection (a) shall be in effect through September 30, 1997.”
 
-1992—Subsec. (a)(1). Pub. L. 102–568, § 605(a)(1), struck out “(other than a veteran with a service-connected disability rated 50 percent or more” after “require a veteran”.
+1992—Subsec. (a)(1). Pub. L. 102–568, § 605(a)(1), struck out “(other than a veteran with a service-connected disability rated 50 percent or more” after “require a veteran”.
 
-Subsec. (a)(3). Pub. L. 102–568, § 605(a)(2), added par. (3).
+Subsec. (a)(3). Pub. L. 102–568, § 605(a)(2), added par. (3).
 
-Subsec. (c). Pub. L. 102–568, § 606(a), inserted at end “Notwithstanding the preceding sentence, the provisions of subsection (a) shall be in effect through September 30, 1997.”
+Subsec. (c). Pub. L. 102–568, § 606(a), inserted at end “Notwithstanding the preceding sentence, the provisions of subsection (a) shall be in effect through September 30, 1997.”
 
 1991—Pub. L. 102–83 renumbered section 622A of this title as this section.
 
@@ -15139,7 +15139,7 @@ Amendment by section 8023(b)(3) of Pub. L. 105–33 effective Oct. 1, 1997, see 
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–568, title VI, § 605(b), Oct. 29, 1992, 106 Stat. 4343, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to medication furnished after the date of the enactment of this Act [Oct. 29, 1992].”
+Pub. L. 102–568, title VI, § 605(b), Oct. 29, 1992, 106 Stat. 4343, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to medication furnished after the date of the enactment of this Act [Oct. 29, 1992].”
 
 **Effective and Termination Dates**
 
@@ -15147,15 +15147,15 @@ Section to remain in effect through the period covered by Pub. L. 102–145, see
 
 Section to remain in effect through the period covered by Pub. L. 102–109, see section 111 of Pub. L. 102–109, set out as an Effective and Termination Dates of 1990 Amendment note under section 1710 of this title.
 
-Pub. L. 101–508, title VIII, § 8012(b), Nov. 5, 1990, 104 Stat. 1388–345, provided that: “The amendments made by subsection (a) [enacting this section] shall take effect with respect to medication furnished to a veteran after October 31, 1990, or the date of the enactment of this Act [Nov. 5, 1990], whichever is later.”
+Pub. L. 101–508, title VIII, § 8012(b), Nov. 5, 1990, 104 Stat. 1388–345, provided that: “The amendments made by subsection (a) [enacting this section] shall take effect with respect to medication furnished to a veteran after October 31, 1990, or the date of the enactment of this Act [Nov. 5, 1990], whichever is later.”
 
-### § 1722B. Copayments: waiver of collection of copayments for telehealth and telemedicine visits of veterans
+### § 1722B. Copayments: waiver of collection of copayments for telehealth and telemedicine visits of veterans
 
 The Secretary may waive the imposition or collection of copayments for telehealth and telemedicine visits of veterans under the laws administered by the Secretary.
 
-(Added Pub. L. 112–154, title I, § 103(a), Aug. 6, 2012, 126 Stat. 1169.)
+(Added Pub. L. 112–154, title I, § 103(a), Aug. 6, 2012, 126 Stat. 1169.)
 
-### § 1722C. Copayments: prohibition on collection of copayments for first three mental health care outpatient visits of veterans
+### § 1722C. Copayments: prohibition on collection of copayments for first three mental health care outpatient visits of veterans
 
 **(a) Prohibition.—** Except as provided in subsection (b), notwithstanding section 1710(g) of this title or any other provision of law, the Secretary may not impose or collect a copayment for the first three mental health care outpatient visits of a veteran in a calendar year for which the veteran would otherwise be required to pay a copayment under the laws administered by the Secretary.
 
@@ -15165,7 +15165,7 @@ The Secretary may waive the imposition or collection of copayments for telehealt
 
 **(d) Sunset.—** This section shall terminate on the date that is five years after the date of the enactment of the Joseph Maxwell Cleland and Robert Joseph Dole Memorial Veterans Benefits and Health Care Improvement Act of 2022.
 
-(Added Pub. L. 117–328, div. U, title I, § 193A(a), Dec. 29, 2022, 136 Stat. 5440.)
+(Added Pub. L. 117–328, div. U, title I, § 193A(a), Dec. 29, 2022, 136 Stat. 5440.)
 
 **Editorial Notes**
 
@@ -15177,13 +15177,13 @@ The date of the enactment of the Joseph Maxwell Cleland and Robert Joseph Dole M
 
 **Effective Date of 2023 Amendment**
 
-Pub. L. 117–328, div. U, title I, § 193A(b), Dec. 29, 2022, 136 Stat. 5440, provided that: “The amendment made by subsection (a) [enacting this section] shall apply with respect to mental health care outpatient visits occurring on or after the date that is 180 days after the date of the enactment of this Act [Dec. 29, 2022].”
+Pub. L. 117–328, div. U, title I, § 193A(b), Dec. 29, 2022, 136 Stat. 5440, provided that: “The amendment made by subsection (a) [enacting this section] shall apply with respect to mental health care outpatient visits occurring on or after the date that is 180 days after the date of the enactment of this Act [Dec. 29, 2022].”
 
-### § 1723. Furnishing of clothing
+### § 1723. Furnishing of clothing
 
 The Secretary shall not furnish clothing to persons who are in Department facilities, except (1) where the furnishing of such clothing to indigent persons is necessary to protect health or sanitation, and (2) where the Secretary furnishes veterans with special clothing made necessary by the wearing of prosthetic appliances.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144, § 623; Pub. L. 94–581, title II, § 210(a)(10), Oct. 21, 1976, 90 Stat. 2863; renumbered § 1723 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144, § 623; Pub. L. 94–581, title II, § 210(a)(10), Oct. 21, 1976, 90 Stat. 2863; renumbered § 1723 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
@@ -15193,11 +15193,11 @@ Prior section 1723 was renumbered section 3523 of this title.
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 623 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 623 of this title as this section.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
 1976—Pub. L. 94–581 substituted “the Administrator furnishes” for “he furnishes”.
 
@@ -15207,7 +15207,7 @@ Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veteran
 
 Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of this title.
 
-### § 1724. Hospital care, medical services, and nursing home care abroad
+### § 1724. Hospital care, medical services, and nursing home care abroad
 
 **(a)** Except as provided in subsections (b), (c), and (f), the Secretary shall not furnish hospital or domiciliary care or medical services outside any State.
 
@@ -15261,13 +15261,13 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 **(B)** the Republic of the Marshall Islands, during such time as it is a party to the Compact of Free Association set forth in section 201 of the Compact of Free Association Act of 1985 (Public Law 99–239; 48 U.S.C. 1901 note); and
 
-**(C)** the Republic of Palau, during such time as it is a party to the Compact of Free Association between the United States and the Government of Palau set forth in section 201 of Joint 1
+**(C)** the Republic of Palau, during such time as it is a party to the Compact of Free Association between the United States and the Government of Palau set forth in section 201 of Joint 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “the”.
+<sup>1</sup> So in original. Probably should be preceded by “the”.
 
 Resolution entitled “Joint Resolution to approve the ‘Compact of Free Association’ between the United States and the Government of Palau, and for other purposes” (Public Law 99–658; 48 U.S.C. 1931 note).
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144, § 624; Pub. L. 86–152, Aug. 11, 1959, 73 Stat. 332; Pub. L. 86–624, § 25(a), July 12, 1960, 74 Stat. 418; Pub. L. 87–815, § 4, Oct. 15, 1962, 76 Stat. 927; Pub. L. 93–82, title I, § 108, Aug. 2, 1973, 87 Stat. 186; Pub. L. 94–581, title II, §§ 202(*l*), 210(a)(11), Oct. 21, 1976, 90 Stat. 2856, 2863; Pub. L. 95–520, § 3(a), Oct. 26, 1978, 92 Stat. 1820; Pub. L. 97–72, title I, § 107(a), Nov. 3, 1981, 95 Stat. 1051; Pub. L. 97–295, § 4(20), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 100–322, title I, § 105, May 20, 1988, 102 Stat. 493; renumbered § 1724 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 106–377, § 1(a)(1) [title V, § 501(c)], Oct. 27, 2000, 114 Stat. 1441, 1441A–58; Pub. L. 118–42, div. G, title II, § 209(a)(2), Mar. 9, 2024, 138 Stat. 438.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144, § 624; Pub. L. 86–152, Aug. 11, 1959, 73 Stat. 332; Pub. L. 86–624, § 25(a), July 12, 1960, 74 Stat. 418; Pub. L. 87–815, § 4, Oct. 15, 1962, 76 Stat. 927; Pub. L. 93–82, title I, § 108, Aug. 2, 1973, 87 Stat. 186; Pub. L. 94–581, title II, §§ 202(*l*), 210(a)(11), Oct. 21, 1976, 90 Stat. 2856, 2863; Pub. L. 95–520, § 3(a), Oct. 26, 1978, 92 Stat. 1820; Pub. L. 97–72, title I, § 107(a), Nov. 3, 1981, 95 Stat. 1051; Pub. L. 97–295, § 4(20), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 100–322, title I, § 105, May 20, 1988, 102 Stat. 493; renumbered § 1724 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 106–377, § 1(a)(1) [title V, § 501(c)], Oct. 27, 2000, 114 Stat. 1441, 1441A–58; Pub. L. 118–42, div. G, title II, § 209(a)(2), Mar. 9, 2024, 138 Stat. 438.)
 
 **Editorial Notes**
 
@@ -15279,21 +15279,21 @@ Section 209(a)(4)(A) of the Compact of Free Association Amendments Act of 2024, 
 
 Prior section 1724 was renumbered section 3524 of this title.
 
-Prior section 1725, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1197, related to period of operation for approval by Administrator, prior to repeal by Pub. L. 92–540, title IV, § 402(2), Oct. 24, 1972, 86 Stat. 1090. See section 3689 of this title.
+Prior section 1725, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1197, related to period of operation for approval by Administrator, prior to repeal by Pub. L. 92–540, title IV, § 402(2), Oct. 24, 1972, 86 Stat. 1090. See section 3689 of this title.
 
 **Amendments**
 
-2024—Subsec. (a). Pub. L. 118–42, § 209(a)(2)(A), substituted “subsections (b), (c), and (f)” for “subsections (b) and (c)”.
+2024—Subsec. (a). Pub. L. 118–42, § 209(a)(2)(A), substituted “subsections (b), (c), and (f)” for “subsections (b) and (c)”.
 
-Subsec. (f). Pub. L. 118–42, § 209(a)(2)(B), added subsec. (f).
+Subsec. (f). Pub. L. 118–42, § 209(a)(2)(B), added subsec. (f).
 
 2000—Subsec. (e). Pub. L. 106–377 added subsec. (e).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 624 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 624 of this title as this section.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “1720(a)” for “620(a)”.
+Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “1720(a)” for “620(a)”.
 
 1988—Subsec. (b). Pub. L. 100–322 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Administrator may furnish necessary hospital care and medical services to any otherwise eligible veteran for any service-connected disability if the veteran (1) is a citizen of the United States sojourning or residing abroad, or (2) is in the Republic of the Philippines.”
 
@@ -15305,9 +15305,9 @@ Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “1720(a)” for “62
 
 1976—Subsec. (c). Pub. L. 94–581 substituted “the Administrator may furnish” for “he may furnish” and “hospital care to a veteran for any” for “hospital care to a veteran of any war for any”.
 
-1973—Pub. L. 93–82, § 108(b), substituted “Hospital care, medical services and nursing home care abroad” for “Hospital care and medical services abroad” in section catchline.
+1973—Pub. L. 93–82, § 108(b), substituted “Hospital care, medical services and nursing home care abroad” for “Hospital care and medical services abroad” in section catchline.
 
-Subsec. (d). Pub. L. 93–82, § 108(a), added subsec. (d).
+Subsec. (d). Pub. L. 93–82, § 108(a), added subsec. (d).
 
 1962—Subsec. (b). Pub. L. 87–815 struck out “temporarily” before “sojourning”.
 
@@ -15325,7 +15325,7 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L. 93–82, set out as a note under section 1701 of this title.
 
-### § 1725. Reimbursement for emergency treatment
+### § 1725. Reimbursement for emergency treatment
 
 **(a) General Authority.—**
 
@@ -15445,35 +15445,35 @@ Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L.
 
 **(E)** A person or entity obligated to provide, or to pay the expenses of, health services under a health-plan contract.
 
-(Added Pub. L. 106–117, title I, § 111(a), Nov. 30, 1999, 113 Stat. 1553; amended Pub. L. 110–387, title IV, § 402(a), Oct. 10, 2008, 122 Stat. 4123; Pub. L. 111–137, § 1(a), (b), Feb. 1, 2010, 123 Stat. 3495; Pub. L. 117–328, div. U, title I, § 142(a)(1), (c)(2), Dec. 29, 2022, 136 Stat. 5423, 5424.)
+(Added Pub. L. 106–117, title I, § 111(a), Nov. 30, 1999, 113 Stat. 1553; amended Pub. L. 110–387, title IV, § 402(a), Oct. 10, 2008, 122 Stat. 4123; Pub. L. 111–137, § 1(a), (b), Feb. 1, 2010, 123 Stat. 3495; Pub. L. 117–328, div. U, title I, § 142(a)(1), (c)(2), Dec. 29, 2022, 136 Stat. 5423, 5424.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (h)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (h)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
-2022—Subsec. (b)(3)(B). Pub. L. 117–328, § 142(c)(2), substituted “subsection (h)(2)(B) or (h)(2)(C)” for “subsection (f)(2)(B) or (f)(2)(C)”.
+2022—Subsec. (b)(3)(B). Pub. L. 117–328, § 142(c)(2), substituted “subsection (h)(2)(B) or (h)(2)(C)” for “subsection (f)(2)(B) or (f)(2)(C)”.
 
-Subsecs. (f) to (h). Pub. L. 117–328, § 142(a), added subsecs. (f) and (g) and redesignated former subsec. (f) as (h).
+Subsecs. (f) to (h). Pub. L. 117–328, § 142(a), added subsecs. (f) and (g) and redesignated former subsec. (f) as (h).
 
-2010—Subsec. (b)(3)(C). Pub. L. 111–137, § 1(a)(1), struck out “or in part” after “in whole”.
+2010—Subsec. (b)(3)(C). Pub. L. 111–137, § 1(a)(1), struck out “or in part” after “in whole”.
 
-Subsec. (c)(4). Pub. L. 111–137, § 1(b), added par. (4).
+Subsec. (c)(4). Pub. L. 111–137, § 1(b), added par. (4).
 
-Subsec. (f)(2)(E). Pub. L. 111–137, § 1(a)(2), struck out subpar. (E) which read as follows: “A law of a State or political subdivision described in section 1729(a)(2)(B) of this title.”
+Subsec. (f)(2)(E). Pub. L. 111–137, § 1(a)(2), struck out subpar. (E) which read as follows: “A law of a State or political subdivision described in section 1729(a)(2)(B) of this title.”
 
-2008—Subsec. (a)(1). Pub. L. 110–387, § 402(a)(1), substituted “shall reimburse” for “may reimburse”.
+2008—Subsec. (a)(1). Pub. L. 110–387, § 402(a)(1), substituted “shall reimburse” for “may reimburse”.
 
-Subsec. (f)(1)(C). Pub. L. 110–387, § 402(a)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “until such time as the veteran can be transferred safely to a Department facility or other Federal facility”.
+Subsec. (f)(1)(C). Pub. L. 110–387, § 402(a)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “until such time as the veteran can be transferred safely to a Department facility or other Federal facility”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–137, § 1(c), Feb. 1, 2010, 123 Stat. 3495, provided that:
+Pub. L. 111–137, § 1(c), Feb. 1, 2010, 123 Stat. 3495, provided that:
 
 > **“(1) In general.—** The amendments made by subsections (a) and (b) [amending this section] shall take effect on the date of the enactment of this Act [Feb. 1, 2010], and shall apply with respect to emergency treatment furnished on or after the date of the enactment of this Act.
 
@@ -15481,13 +15481,13 @@ Pub. L. 111–137, § 1(c), Feb. 1, 2010, 123 Stat. 3495, provided that:
 
 **Effective Date**
 
-Pub. L. 106–117, title I, § 111(c), Nov. 30, 1999, 113 Stat. 1556, provided that: “The amendments made by this section [enacting this section and amending section 1729A of this title] shall take effect 180 days after the date of the enactment of this Act [Nov. 30, 1999].”
+Pub. L. 106–117, title I, § 111(c), Nov. 30, 1999, 113 Stat. 1556, provided that: “The amendments made by this section [enacting this section and amending section 1729A of this title] shall take effect 180 days after the date of the enactment of this Act [Nov. 30, 1999].”
 
 **Implementation Reports**
 
-Pub. L. 106–117, title I, § 111(d), Nov. 30, 1999, 113 Stat. 1556, required the Secretary of Veterans Affairs to include with the budget justification materials submitted to Congress in support of the Department of Veterans Affairs budget for fiscal years 2002 and 2003 a report on the implementation of this section, including information on the experience of the Department under that section and the costs incurred.
+Pub. L. 106–117, title I, § 111(d), Nov. 30, 1999, 113 Stat. 1556, required the Secretary of Veterans Affairs to include with the budget justification materials submitted to Congress in support of the Department of Veterans Affairs budget for fiscal years 2002 and 2003 a report on the implementation of this section, including information on the experience of the Department under that section and the costs incurred.
 
-### § 1725A. Access to walk-in care
+### § 1725A. Access to walk-in care
 
 **(a) Procedures To Ensure Access to Walk-In Care.—** The Secretary shall develop procedures to ensure that eligible veterans are able to access walk-in care from qualifying non-Department entities or providers.
 
@@ -15523,7 +15523,7 @@ Pub. L. 106–117, title I, § 111(d), Nov. 30, 1999, 113 Stat. 1556, required
 
 **(h) Walk-In Care Defined.—** In this section, the term “walk-in care” means non-emergent care provided by a qualifying non-Department entity or provider that furnishes episodic care and not longitudinal management of conditions and is otherwise defined through regulations the Secretary shall promulgate.
 
-(Added Pub. L. 115–182, title I, § 105(a), June 6, 2018, 132 Stat. 1412; amended Pub. L. 115–251, title II, § 211(a)(7), Sept. 29, 2018, 132 Stat. 3175; Pub. L. 116–61, § 6(2), Sept. 30, 2019, 133 Stat. 1117.)
+(Added Pub. L. 115–182, title I, § 105(a), June 6, 2018, 132 Stat. 1412; amended Pub. L. 115–251, title II, § 211(a)(7), Sept. 29, 2018, 132 Stat. 3175; Pub. L. 116–61, § 6(2), Sept. 30, 2019, 133 Stat. 1117.)
 
 **Editorial Notes**
 
@@ -15535,35 +15535,35 @@ The date of the enactment of the Caring for Our Veterans Act of 2018, referred t
 
 2019—Subsec. (c). Pub. L. 116–61 inserted comma after “a contract”.
 
-2018—Subsec. (c). Pub. L. 115–251, § 211(a)(7)(A), substituted “agreement, or other arrangement” for “or other agreement”.
+2018—Subsec. (c). Pub. L. 115–251, § 211(a)(7)(A), substituted “agreement, or other arrangement” for “or other agreement”.
 
-Subsec. (f)(4). Pub. L. 115–251, § 211(a)(7)(B), substituted “Sections 8153(c) and 1703A(j)” for “Section 8153(c)”.
+Subsec. (f)(4). Pub. L. 115–251, § 211(a)(7)(B), substituted “Sections 8153(c) and 1703A(j)” for “Section 8153(c)”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 115–182, title I, § 105(b), June 6, 2018, 132 Stat. 1413, provided that: “Section 1725A of title 38, United States Code, as added by subsection (a) shall take effect on the date upon which final regulations implementing such section take effect.”
+Pub. L. 115–182, title I, § 105(b), June 6, 2018, 132 Stat. 1413, provided that: “Section 1725A of title 38, United States Code, as added by subsection (a) shall take effect on the date upon which final regulations implementing such section take effect.”
 
-### § 1726. Reimbursement for loss of personal effects by natural disaster
+### § 1726. Reimbursement for loss of personal effects by natural disaster
 
 The Secretary shall, under regulations which the Secretary shall prescribe, reimburse veterans in Department hospitals and domiciliaries for any loss of personal effects sustained by fire, earthquake, or other natural disaster while such effects were stored in designated locations in Department hospitals or domiciliaries.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144, § 627; Pub. L. 93–82, title I, § 105, Aug. 2, 1973, 87 Stat. 183; Pub. L. 94–581, title II, § 210(a)(12), Oct. 21, 1976, 90 Stat. 2863; renumbered § 1726 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144, § 627; Pub. L. 93–82, title I, § 105, Aug. 2, 1973, 87 Stat. 183; Pub. L. 94–581, title II, § 210(a)(12), Oct. 21, 1976, 90 Stat. 2863; renumbered § 1726 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior section 1726, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1197, provided for control by agencies of United States, prior to repeal by Pub. L. 89–358, § 3(a)(3), Mar. 3, 1966, 80 Stat. 20. See section 3689 of this title.
+Prior section 1726, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1197, provided for control by agencies of United States, prior to repeal by Pub. L. 89–358, § 3(a)(3), Mar. 3, 1966, 80 Stat. 20. See section 3689 of this title.
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 626 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 626 of this title as this section.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
 
 1976—Pub. L. 94–581 substituted “the Administrator shall prescribe” for “he shall prescribe”.
 
@@ -15579,11 +15579,11 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 Amendment by Pub. L. 93–82 effective Jan. 1, 1971, see section 501 of Pub. L. 93–82, set out as a note under section 1701 of this title.
 
-### § 1727. Persons eligible under prior law
+### § 1727. Persons eligible under prior law
 
 Persons who have a status which would, under the laws in effect on December 31, 1957, entitle them to the medical services, hospital and domiciliary care, and other benefits, provided for in this chapter, but who do not meet the service requirements contained in this chapter, shall be entitled to such benefits notwithstanding failure to meet such service requirements.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144, § 627; Pub. L. 94–581, title II, § 202(m), Oct. 21, 1976, 90 Stat. 2856; renumbered § 1727 Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144, § 627; Pub. L. 94–581, title II, § 202(m), Oct. 21, 1976, 90 Stat. 2856; renumbered § 1727 Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -15599,7 +15599,7 @@ Persons who have a status which would, under the laws in effect on December 31, 
 
 Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of this title.
 
-### § 1728. Reimbursement of certain medical expenses
+### § 1728. Reimbursement of certain medical expenses
 
 **(a)** The Secretary shall, under such regulations as the Secretary prescribes, reimburse veterans eligible for hospital care or medical services under this chapter for the customary and usual charges of emergency treatment (including travel and incidental expenses under the terms and conditions set forth in section 111 of this title) for which such veterans have made payment, from sources other than the Department, where such emergency treatment was rendered to such veterans in need thereof for any of the following:
 
@@ -15633,7 +15633,7 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 **(d)** In this section, the term “emergency treatment” has the meaning given such term in section 1725(h)(1) of this title.
 
-(Added Pub. L. 93–82, title I, § 106(a), Aug. 2, 1973, 87 Stat. 183, § 628; amended Pub. L. 94–581, title II, §§ 202(n), 210(a)(13), Oct. 21, 1976, 90 Stat. 2856, 2863; Pub. L. 96–151, title II, § 201(d), Dec. 20, 1979, 93 Stat. 1093; Pub. L. 101–237, title II, § 202(a), Dec. 18, 1989, 103 Stat. 2066; Pub. L. 102–54, § 14(b)(14), June 13, 1991, 105 Stat. 284; renumbered § 1728 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 110–387, title IV, § 402(b), Oct. 10, 2008, 122 Stat. 4123; Pub. L. 117–328, div. U, title I, § 142(b), (c)(3), Dec. 29, 2022, 136 Stat. 5424; Pub. L. 117–333, § 3(e)(3)(B)(i), Jan. 5, 2023, 136 Stat. 6128.)
+(Added Pub. L. 93–82, title I, § 106(a), Aug. 2, 1973, 87 Stat. 183, § 628; amended Pub. L. 94–581, title II, §§ 202(n), 210(a)(13), Oct. 21, 1976, 90 Stat. 2856, 2863; Pub. L. 96–151, title II, § 201(d), Dec. 20, 1979, 93 Stat. 1093; Pub. L. 101–237, title II, § 202(a), Dec. 18, 1989, 103 Stat. 2066; Pub. L. 102–54, § 14(b)(14), June 13, 1991, 105 Stat. 284; renumbered § 1728 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 110–387, title IV, § 402(b), Oct. 10, 2008, 122 Stat. 4123; Pub. L. 117–328, div. U, title I, § 142(b), (c)(3), Dec. 29, 2022, 136 Stat. 5424; Pub. L. 117–333, § 3(e)(3)(B)(i), Jan. 5, 2023, 136 Stat. 6128.)
 
 **Editorial Notes**
 
@@ -15643,23 +15643,23 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 2022—Subsecs. (c), (d). Pub. L. 117–328 added subsec. (c), redesignated former subsec. (c) as (d) and substituted “section 1725(h)(1)” for “section 1725(f)(1)”.
 
-2008—Subsec. (a). Pub. L. 110–387, § 402(b)(1), added subsec. (a) and struck out former subsec. (a) which authorized the Secretary to reimburse veterans entitled to hospital care or medical services for the reasonable value of such care or services for which such veterans made payment from sources other than the Department under certain conditions.
+2008—Subsec. (a). Pub. L. 110–387, § 402(b)(1), added subsec. (a) and struck out former subsec. (a) which authorized the Secretary to reimburse veterans entitled to hospital care or medical services for the reasonable value of such care or services for which such veterans made payment from sources other than the Department under certain conditions.
 
-Subsec. (b). Pub. L. 110–387, § 402(b)(2), substituted “emergency treatment” for “care or services” in introductory provisions and in par. (1).
+Subsec. (b). Pub. L. 110–387, § 402(b)(2), substituted “emergency treatment” for “care or services” in introductory provisions and in par. (1).
 
-Subsec. (c). Pub. L. 110–387, § 402(b)(3), added subsec. (c).
+Subsec. (c). Pub. L. 110–387, § 402(b)(3), added subsec. (c).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 628 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 628 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places in introductory provisions.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places in introductory provisions.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in introductory provisions and in par. (3).
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in introductory provisions and in par. (3).
 
-Subsec. (a)(2)(D). Pub. L. 102–83, § 5(c)(1), substituted “3101(9)” for “1501(9)”.
+Subsec. (a)(2)(D). Pub. L. 102–83, § 5(c)(1), substituted “3101(9)” for “1501(9)”.
 
 Pub. L. 102–54 substituted “(i) is” for “is (i)”.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
 1989—Subsec. (a)(2)(D). Pub. L. 101–237 substituted “(i) a participant in a vocational rehabilitation program (as defined in section 1501(9) of this title), and (ii)” for “found to be (i) in need of vocational rehabilitation under chapter 31 of this title and for whom an objective had been selected or (ii) pursuing a course of vocational rehabilitation training and”.
 
@@ -15671,7 +15671,7 @@ Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary”
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–237, title II, § 202(b), Dec. 18, 1989, 103 Stat. 2067, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to hospital care and medical services received on or after the date of the enactment of this Act [Dec. 18, 1989].”
+Pub. L. 101–237, title II, § 202(b), Dec. 18, 1989, 103 Stat. 2067, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to hospital care and medical services received on or after the date of the enactment of this Act [Dec. 18, 1989].”
 
 **Effective Date of 1979 Amendment**
 
@@ -15687,7 +15687,7 @@ Section effective Jan. 1, 1971, see section 501 of Pub. L. 93–82, set out as a
 
 **Reimbursement of Ambulance Cost for Care for Certain Rural Veterans**
 
-Pub. L. 118–210, title I, § 143, Jan. 2, 2025, 138 Stat. 2747, provided that:
+Pub. L. 118–210, title I, § 143, Jan. 2, 2025, 138 Stat. 2747, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs shall pay, or reimburse a covered veteran for, the cost of transporting the veteran by ambulance, including air ambulance, from a covered location to a provider of the Department of Veterans Affairs, a non-Department provider, or the nearest hospital that can meet the needs of the veteran (including a hospital that compacts with the Indian Health Service) for covered care.
 
@@ -15717,7 +15717,7 @@ Pub. L. 118–210, title I, § 143, Jan. 2, 2025, 138 Stat. 2747, provided tha
 
 > **“(5)** The term ‘service-connected’ has the meaning given that term in section 101 of such title.”
 
-### § 1729. Recovery by the United States of the cost of certain care and services
+### § 1729. Recovery by the United States of the cost of certain care and services
 
 **(a)**
 
@@ -15785,7 +15785,7 @@ Pub. L. 118–210, title I, § 143, Jan. 2, 2025, 138 Stat. 2747, provided tha
 
 **(f)** No law of any State or of any political subdivision of a State, and no provision of any contract or other agreement, shall operate to prevent recovery or collection by the United States under this section or with respect to care or services furnished under section 1784 of this title.
 
-**[(g)** Repealed. Pub. L. 105–33, title VIII, § 8023(b)(4), Aug. 5, 1997, 111 Stat. 667.]
+**[(g)** Repealed. Pub. L. 105–33, title VIII, § 8023(b)(4), Aug. 5, 1997, 111 Stat. 667.]
 
 **(h)**
 
@@ -15827,51 +15827,51 @@ Pub. L. 118–210, title I, § 143, Jan. 2, 2025, 138 Stat. 2747, provided tha
 
 **(D)** a person obligated to provide, or to pay the expenses of, health services under a health-plan contract.
 
-(Added Pub. L. 97–72, title I, § 106(a)(1), Nov. 3, 1981, 95 Stat. 1050, § 629; amended Pub. L. 99–272, title XIX, § 19013(a), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title II, § 202, May 20, 1988, 102 Stat. 509; Pub. L. 101–508, title VIII, § 8011(a)–(c), Nov. 5, 1990, 104 Stat. 1388–344; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 1729 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title VI, § 604, Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, § 12003, Aug. 10, 1993, 107 Stat. 414; Pub. L. 104–262, title I, § 101(d)(10), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 105–33, title VIII, §§ 8022, 8023(b)(4), (d), Aug. 5, 1997, 111 Stat. 665, 667; Pub. L. 107–135, title II, §§ 208(e)(4), 209(b), Jan. 23, 2002, 115 Stat. 2463, 2464; Pub. L. 110–161, div. I, title II, § 232, Dec. 26, 2007, 121 Stat. 2273; Pub. L. 110–329, div. E, title II, § 225, Sept. 30, 2008, 122 Stat. 3713; Pub. L. 110–387, title VIII, § 804(b), Oct. 10, 2008, 122 Stat. 4141; Pub. L. 111–163, title V, § 518, May 5, 2010, 124 Stat. 1167; Pub. L. 112–154, title I, § 113, Aug. 6, 2012, 126 Stat. 1176; Pub. L. 113–37, § 2(d), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title I, § 108, Sept. 26, 2014, 128 Stat. 1903; Pub. L. 114–58, title I, § 104, Sept. 30, 2015, 129 Stat. 532; Pub. L. 114–228, title I, § 104, Sept. 29, 2016, 130 Stat. 937; Pub. L. 115–62, title I, § 104, Sept. 29, 2017, 131 Stat. 1161; Pub. L. 115–182, title I, § 113, June 6, 2018, 132 Stat. 1421; Pub. L. 115–251, title I, § 104, title II, § 211(a)(8), Sept. 29, 2018, 132 Stat. 3168, 3175.)
+(Added Pub. L. 97–72, title I, § 106(a)(1), Nov. 3, 1981, 95 Stat. 1050, § 629; amended Pub. L. 99–272, title XIX, § 19013(a), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title II, § 202, May 20, 1988, 102 Stat. 509; Pub. L. 101–508, title VIII, § 8011(a)–(c), Nov. 5, 1990, 104 Stat. 1388–344; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 1729 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title VI, § 604, Oct. 29, 1992, 106 Stat. 4343; Pub. L. 103–66, title XII, § 12003, Aug. 10, 1993, 107 Stat. 414; Pub. L. 104–262, title I, § 101(d)(10), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 105–33, title VIII, §§ 8022, 8023(b)(4), (d), Aug. 5, 1997, 111 Stat. 665, 667; Pub. L. 107–135, title II, §§ 208(e)(4), 209(b), Jan. 23, 2002, 115 Stat. 2463, 2464; Pub. L. 110–161, div. I, title II, § 232, Dec. 26, 2007, 121 Stat. 2273; Pub. L. 110–329, div. E, title II, § 225, Sept. 30, 2008, 122 Stat. 3713; Pub. L. 110–387, title VIII, § 804(b), Oct. 10, 2008, 122 Stat. 4141; Pub. L. 111–163, title V, § 518, May 5, 2010, 124 Stat. 1167; Pub. L. 112–154, title I, § 113, Aug. 6, 2012, 126 Stat. 1176; Pub. L. 113–37, § 2(d), Sept. 30, 2013, 127 Stat. 524; Pub. L. 113–175, title I, § 108, Sept. 26, 2014, 128 Stat. 1903; Pub. L. 114–58, title I, § 104, Sept. 30, 2015, 129 Stat. 532; Pub. L. 114–228, title I, § 104, Sept. 29, 2016, 130 Stat. 937; Pub. L. 115–62, title I, § 104, Sept. 29, 2017, 131 Stat. 1161; Pub. L. 115–182, title I, § 113, June 6, 2018, 132 Stat. 1421; Pub. L. 115–251, title I, § 104, title II, § 211(a)(8), Sept. 29, 2018, 132 Stat. 3168, 3175.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (i)(1)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Social Security Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (i)(1)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Social Security Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
-2018—Subsec. (a)(1). Pub. L. 115–182, § 113(b), substituted “Subject to the provisions of this section, in any case in which the United States is required by law to furnish or pay for care or services under this chapter for a non-service-connected disability described in paragraph (2) of this subsection, the United States has the right to recover or collect from a third party the reasonable charges of care or services so furnished or paid for to the extent that the recipient or provider of the care or services would be eligible to receive payment for such care or services from such third party if the care or services had not been furnished or paid for by a department or agency of the United States.” for “Subject to the provisions of this section, in any case in which a veteran is furnished care or services under this chapter for a non-service-connected disability described in paragraph (2) of this subsection, the United States has the right to recover or collect reasonable charges for such care or services (as determined by the Secretary) from a third party to the extent that the veteran (or the provider of the care or services) would be eligible to receive payment for such care or services from such third party if the care or services had not been furnished by a department or agency of the United States.”
+2018—Subsec. (a)(1). Pub. L. 115–182, § 113(b), substituted “Subject to the provisions of this section, in any case in which the United States is required by law to furnish or pay for care or services under this chapter for a non-service-connected disability described in paragraph (2) of this subsection, the United States has the right to recover or collect from a third party the reasonable charges of care or services so furnished or paid for to the extent that the recipient or provider of the care or services would be eligible to receive payment for such care or services from such third party if the care or services had not been furnished or paid for by a department or agency of the United States.” for “Subject to the provisions of this section, in any case in which a veteran is furnished care or services under this chapter for a non-service-connected disability described in paragraph (2) of this subsection, the United States has the right to recover or collect reasonable charges for such care or services (as determined by the Secretary) from a third party to the extent that the veteran (or the provider of the care or services) would be eligible to receive payment for such care or services from such third party if the care or services had not been furnished by a department or agency of the United States.”
 
-Subsec. (a)(2)(A). Pub. L. 115–182, § 113(a)(1)(A), substituted “the individual’s” for “the veteran’s” and “the individual” for “the veteran”.
+Subsec. (a)(2)(A). Pub. L. 115–182, § 113(a)(1)(A), substituted “the individual’s” for “the veteran’s” and “the individual” for “the veteran”.
 
-Subsec. (a)(2)(D). Pub. L. 115–251, § 211(a)(8), substituted “; or” for period at end.
+Subsec. (a)(2)(D). Pub. L. 115–251, § 211(a)(8), substituted “; or” for period at end.
 
-Pub. L. 115–182, § 113(c), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “that is incurred by a veteran—
+Pub. L. 115–182, § 113(c), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “that is incurred by a veteran—
 
 “(i) who does not have a service-connected disability; and
 
 “(ii) who is entitled to care (or payment of the expenses of care) under a health-plan contract; or”.
 
-Subsec. (a)(2)(E). Pub. L. 115–251, § 104, struck out “before September 30, 2019,” after “furnished” in introductory provisions.
+Subsec. (a)(2)(E). Pub. L. 115–251, § 104, struck out “before September 30, 2019,” after “furnished” in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 115–182, § 113(a)(1)(B)(i), substituted “the individual” for “the veteran” in introductory provisions.
+Subsec. (a)(3). Pub. L. 115–182, § 113(a)(1)(B)(i), substituted “the individual” for “the veteran” in introductory provisions.
 
-Subsec. (a)(3)(A). Pub. L. 115–182, § 113(a)(1)(B)(ii), substituted “the individual’s” for “the veteran’s”.
+Subsec. (a)(3)(A). Pub. L. 115–182, § 113(a)(1)(B)(ii), substituted “the individual’s” for “the veteran’s”.
 
-Subsec. (b)(1). Pub. L. 115–182, § 113(a)(2)(A), substituted “the individual” for “the veteran” and “the individual’s” for “the veteran’s”.
+Subsec. (b)(1). Pub. L. 115–182, § 113(a)(2)(A), substituted “the individual” for “the veteran” and “the individual’s” for “the veteran’s”.
 
-Subsec. (b)(2)(A). Pub. L. 115–182, § 113(a)(2)(B)(i), substituted “the individual” for “the veteran” and “the individual’s” for “the veteran’s”.
+Subsec. (b)(2)(A). Pub. L. 115–182, § 113(a)(2)(B)(i), substituted “the individual” for “the veteran” and “the individual’s” for “the veteran’s”.
 
-Subsec. (b)(2)(B)(i). Pub. L. 115–182, § 113(a)(2)(B)(ii)(I), substituted “the individual” for “the veteran”.
+Subsec. (b)(2)(B)(i). Pub. L. 115–182, § 113(a)(2)(B)(ii)(I), substituted “the individual” for “the veteran”.
 
-Subsec. (b)(2)(B)(ii). Pub. L. 115–182, § 113(a)(2)(B)(ii)(II), substituted “the individual” for “the veteran” and substituted “the individual’s” for “the veteran’s” in two places.
+Subsec. (b)(2)(B)(ii). Pub. L. 115–182, § 113(a)(2)(B)(ii)(II), substituted “the individual” for “the veteran” and substituted “the individual’s” for “the veteran’s” in two places.
 
-Subsec. (e). Pub. L. 115–182, § 113(a)(3), substituted “An individual” for “A veteran” in introductory provisions.
+Subsec. (e). Pub. L. 115–182, § 113(a)(3), substituted “An individual” for “A veteran” in introductory provisions.
 
-Subsec. (h)(1). Pub. L. 115–182, § 113(a)(4)(A)(i), substituted “an individual” for “a veteran” in introductory provisions.
+Subsec. (h)(1). Pub. L. 115–182, § 113(a)(4)(A)(i), substituted “an individual” for “a veteran” in introductory provisions.
 
-Subsec. (h)(1)(A). Pub. L. 115–182, § 113(a)(4)(A)(ii), substituted “the individual” for “the veteran”.
+Subsec. (h)(1)(A). Pub. L. 115–182, § 113(a)(4)(A)(ii), substituted “the individual” for “the veteran”.
 
-Subsec. (h)(1)(B). Pub. L. 115–182, § 113(a)(4)(A)(iii), substituted “the individual” for “the veteran”.
+Subsec. (h)(1)(B). Pub. L. 115–182, § 113(a)(4)(A)(iii), substituted “the individual” for “the veteran”.
 
-Subsec. (h)(2). Pub. L. 115–182, § 113(a)(4)(B), substituted “An individual” for “A veteran”, “an individual” for “a veteran”, and “the individual” for “the veteran”.
+Subsec. (h)(2). Pub. L. 115–182, § 113(a)(4)(B), substituted “An individual” for “A veteran”, “an individual” for “a veteran”, and “the individual” for “the veteran”.
 
 2017—Subsec. (a)(2)(E). Pub. L. 115–62 substituted “September 30, 2019” for “October 1, 2017” in introductory provisions.
 
@@ -15897,19 +15897,19 @@ Pub. L. 110–329 substituted “October 1, 2009,” for “October 1, 2008,” 
 
 2007—Subsec. (a)(2)(E). Pub. L. 110–161 substituted “October 1, 2008” for “October 1, 2007”.
 
-2002—Subsec. (a)(2)(E). Pub. L. 107–135, § 209(b), substituted “October 1, 2007” for “October 1, 2002”.
+2002—Subsec. (a)(2)(E). Pub. L. 107–135, § 209(b), substituted “October 1, 2007” for “October 1, 2002”.
 
-Subsec. (f). Pub. L. 107–135, § 208(e)(4), substituted “section 1784” for “section 1711(b)”.
+Subsec. (f). Pub. L. 107–135, § 208(e)(4), substituted “section 1784” for “section 1711(b)”.
 
-1997—Subsec. (a)(1). Pub. L. 105–33, § 8023(d)(1), substituted “reasonable charges for” for “the reasonable cost of”.
+1997—Subsec. (a)(1). Pub. L. 105–33, § 8023(d)(1), substituted “reasonable charges for” for “the reasonable cost of”.
 
-Subsec. (a)(2)(E). Pub. L. 105–33, § 8022, substituted “October 1, 2002” for “October 1, 1998”.
+Subsec. (a)(2)(E). Pub. L. 105–33, § 8022, substituted “October 1, 2002” for “October 1, 1998”.
 
-Subsec. (c)(2)(A). Pub. L. 105–33, § 8023(d)(2), substituted “reasonable charges for” for “the reasonable cost of” and “such charges” for “such cost”.
+Subsec. (c)(2)(A). Pub. L. 105–33, § 8023(d)(2), substituted “reasonable charges for” for “the reasonable cost of” and “such charges” for “such cost”.
 
-Subsec. (c)(2)(B). Pub. L. 105–33, § 8023(d)(2)(A), substituted “reasonable charges for” for “the reasonable cost of”.
+Subsec. (c)(2)(B). Pub. L. 105–33, § 8023(d)(2)(A), substituted “reasonable charges for” for “the reasonable cost of”.
 
-Subsec. (g). Pub. L. 105–33, § 8023(b)(4), struck out subsec. (g) which established in the Treasury a fund known as the Department of Veterans Affairs Medical-Care Cost Recovery Fund and provided for deposits to and payments from the Fund.
+Subsec. (g). Pub. L. 105–33, § 8023(b)(4), struck out subsec. (g) which established in the Treasury a fund known as the Department of Veterans Affairs Medical-Care Cost Recovery Fund and provided for deposits to and payments from the Fund.
 
 1996—Subsec. (g)(3)(A). Pub. L. 104–262 substituted “under subsection (f) or (g) of section 1710 of this title for hospital care, medical services, or nursing home care” for “under section 1710(f) of this title for hospital care or nursing home care, under section 1712(f) of this title for medical services,”.
 
@@ -15917,25 +15917,25 @@ Subsec. (g). Pub. L. 105–33, § 8023(b)(4), struck out subsec. (g) which est
 
 1992—Subsec. (a)(2)(E). Pub. L. 102–568 substituted “August 1, 1994” for “October 1, 1993”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 629 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 629 of this title as this section.
 
-Subsecs. (a) to (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsecs. (a) to (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 Pub. L. 102–40 substituted “5701” for “3301” and “7332” for “4132”.
 
-Subsec. (f). Pub. L. 102–83, § 5(c)(1), substituted “1711(b)” for “611(b)”.
+Subsec. (f). Pub. L. 102–83, § 5(c)(1), substituted “1711(b)” for “611(b)”.
 
-Subsec. (g)(3)(A). Pub. L. 102–83, § 5(c)(1), substituted “1710(f)” for “610(f)”, “1712(f)” for “612(f)”, and “1722A” for “622A” in introductory provisions.
+Subsec. (g)(3)(A). Pub. L. 102–83, § 5(c)(1), substituted “1710(f)” for “610(f)”, “1712(f)” for “612(f)”, and “1722A” for “622A” in introductory provisions.
 
-Subsec. (h)(1), (3). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (h)(1), (3). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1990—Subsec. (a)(2)(E). Pub. L. 101–508, § 8011(a), added subpar. (E).
+1990—Subsec. (a)(2)(E). Pub. L. 101–508, § 8011(a), added subpar. (E).
 
-Subsec. (c)(2)(B). Pub. L. 101–508, § 8011(b), substituted “if provided by” for “in accordance with the prevailing rates at which the third party makes payments under comparable health-plan contracts with”.
+Subsec. (c)(2)(B). Pub. L. 101–508, § 8011(b), substituted “if provided by” for “in accordance with the prevailing rates at which the third party makes payments under comparable health-plan contracts with”.
 
-Subsec. (g). Pub. L. 101–508, § 8011(c), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “Amounts collected or recovered on behalf of the United States under this section shall be deposited into the Treasury as miscellaneous receipts.”
+Subsec. (g). Pub. L. 101–508, § 8011(c), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “Amounts collected or recovered on behalf of the United States under this section shall be deposited into the Treasury as miscellaneous receipts.”
 
 1988—Subsec. (b)(2)(C). Pub. L. 100–322 added subpar. (C).
 
@@ -15953,11 +15953,11 @@ Amendment by section 8023(b)(4) of Pub. L. 105–33 effective Oct. 1, 1997, and 
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title VIII, § 8011(e), Nov. 5, 1990, 104 Stat. 1388–345, provided that: “The amendments made by this section [amending this section] shall take effect as of October 1, 1990.”
+Pub. L. 101–508, title VIII, § 8011(e), Nov. 5, 1990, 104 Stat. 1388–345, provided that: “The amendments made by this section [amending this section] shall take effect as of October 1, 1990.”
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–272, title XIX, § 19013(b), Apr. 7, 1986, 100 Stat. 385, provided that:
+Pub. L. 99–272, title XIX, § 19013(b), Apr. 7, 1986, 100 Stat. 385, provided that:
 
 > **“(1)** Except as provided in paragraph (2), section 629 [now 1729] of title 38, United States Code, as amended by subsection (a), shall apply to care and services provided on or after the date of the enactment of this Act [Apr. 7, 1986].
 
@@ -15979,7 +15979,7 @@ Pub. L. 99–272, title XIX, § 19013(b), Apr. 7, 1986, 100 Stat. 385, provide
 
 **Effective Date**
 
-Pub. L. 97–72, title I, § 106(b), Nov. 3, 1981, 95 Stat. 1051, provided that: “Section 629 [now 1729] of title 38, United States Code, as added by subsection (a), shall apply with respect to care and services furnished under chapter 17 of title 38, United States Code, on or after the date of the enactment of this Act [Nov. 3, 1981].”
+Pub. L. 97–72, title I, § 106(b), Nov. 3, 1981, 95 Stat. 1051, provided that: “Section 629 [now 1729] of title 38, United States Code, as added by subsection (a), shall apply with respect to care and services furnished under chapter 17 of title 38, United States Code, on or after the date of the enactment of this Act [Nov. 3, 1981].”
 
 **Healthcare Facilities Certified as Medicare and Medicaid Providers for Collection Purposes**
 
@@ -15987,17 +15987,17 @@ Pub. L. 107–206, title I, Aug. 2, 2002, 116 Stat. 888, provided in part: “Th
 
 **Disposition of Funds in and Termination of Department of Veterans Affairs Medical-Care Cost Recovery Fund**
 
-Pub. L. 105–33, title VIII, § 8023(c), Aug. 5, 1997, 111 Stat. 667, provided that: “The amount of the unobligated balance remaining in the Department of Veterans Affairs Medical-Care Cost Recovery Fund (established pursuant to section 1729(g)(1) of title 38, United States Code) at the close of June 30, 1997, shall be deposited, not later than December 31, 1997, in the Treasury as miscellaneous receipts, and the Department of Veterans Affairs Medical-Care Cost Recovery Fund shall be terminated when the deposit is made.”
+Pub. L. 105–33, title VIII, § 8023(c), Aug. 5, 1997, 111 Stat. 667, provided that: “The amount of the unobligated balance remaining in the Department of Veterans Affairs Medical-Care Cost Recovery Fund (established pursuant to section 1729(g)(1) of title 38, United States Code) at the close of June 30, 1997, shall be deposited, not later than December 31, 1997, in the Treasury as miscellaneous receipts, and the Department of Veterans Affairs Medical-Care Cost Recovery Fund shall be terminated when the deposit is made.”
 
 **Transfers to Medical-Care Cost Recovery Fund**
 
-Pub. L. 101–508, title VIII, § 8011(d), Nov. 5, 1990, 104 Stat. 1388–345, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that the Secretary of the Treasury was to transfer $25,000,000 from the Department of Veterans Affairs Loan Guaranty Revolving Fund to the Department of Veterans Affairs Medical-Care Cost Recovery Fund and that the amount so transferred was to be available until the end of Sept. 30, 1991, for the support of the equivalent of 800 full-time employees and other expenses described in former subsec. (g)(3) of this section, and provided that the first $25,000,000 recovered or collected by the Department of Veterans Affairs during fiscal year 1991 as a result of third-party medical recovery activities was to be credited to the Department of Veterans Affairs Loan Guaranty Revolving Fund.
+Pub. L. 101–508, title VIII, § 8011(d), Nov. 5, 1990, 104 Stat. 1388–345, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that the Secretary of the Treasury was to transfer $25,000,000 from the Department of Veterans Affairs Loan Guaranty Revolving Fund to the Department of Veterans Affairs Medical-Care Cost Recovery Fund and that the amount so transferred was to be available until the end of Sept. 30, 1991, for the support of the equivalent of 800 full-time employees and other expenses described in former subsec. (g)(3) of this section, and provided that the first $25,000,000 recovered or collected by the Department of Veterans Affairs during fiscal year 1991 as a result of third-party medical recovery activities was to be credited to the Department of Veterans Affairs Loan Guaranty Revolving Fund.
 
 **Reports on Implementation of 1986 Amendment**
 
-Pub. L. 99–272, title XIX, § 19013(c), Apr. 7, 1986, 100 Stat. 385, directed Administrator of Veterans’ Affairs, not later than six months after Apr. 7, 1986, to submit to Committees on Veterans’ Affairs of Senate and House of Representatives a report on the process for and results of implementation of this section, as amended by subsection (a), such report to show costs of administration (and a detailed breakdown of such costs) and the amount of receipts and collections under this section, and not later than Feb. 1, 1988, to submit to such Committees a report updating the information in the report previously submitted and providing information on the process and results of such implementation through at least the end of fiscal year 1987.
+Pub. L. 99–272, title XIX, § 19013(c), Apr. 7, 1986, 100 Stat. 385, directed Administrator of Veterans’ Affairs, not later than six months after Apr. 7, 1986, to submit to Committees on Veterans’ Affairs of Senate and House of Representatives a report on the process for and results of implementation of this section, as amended by subsection (a), such report to show costs of administration (and a detailed breakdown of such costs) and the amount of receipts and collections under this section, and not later than Feb. 1, 1988, to submit to such Committees a report updating the information in the report previously submitted and providing information on the process and results of such implementation through at least the end of fiscal year 1987.
 
-### § 1729A. Department of Veterans Affairs Medical Care Collections Fund
+### § 1729A. Department of Veterans Affairs Medical Care Collections Fund
 
 **(a)** There is in the Treasury a fund to be known as the Department of Veterans Affairs Medical Care Collections Fund.
 
@@ -16037,29 +16037,29 @@ Pub. L. 99–272, title XIX, § 19013(c), Apr. 7, 1986, 100 Stat. 385, directe
 
 **(e)** Amounts recovered or collected under the provisions of law referred to in subsection (b) shall be treated for the purposes of sections 251 and 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 901, 902) as offsets to discretionary appropriations (rather than as offsets to direct spending) to the extent that such amounts are made available for expenditure in appropriations Acts for the purposes specified in subsection (c).
 
-(Added Pub. L. 105–33, title VIII, § 8023(a)(1), Aug. 5, 1997, 111 Stat. 665; amended Pub. L. 106–117, title I, § 111(b)(1), title II, § 203, Nov. 30, 1999, 113 Stat. 1556, 1561; Pub. L. 107–135, title II, § 208(e)(5), Jan. 23, 2002, 115 Stat. 2463; Pub. L. 108–7, div. K, title I, § 113(b), Feb. 20, 2003, 117 Stat. 482; Pub. L. 108–183, title VII, § 708(a)(2), Dec. 16, 2003, 117 Stat. 2673.)
+(Added Pub. L. 105–33, title VIII, § 8023(a)(1), Aug. 5, 1997, 111 Stat. 665; amended Pub. L. 106–117, title I, § 111(b)(1), title II, § 203, Nov. 30, 1999, 113 Stat. 1556, 1561; Pub. L. 107–135, title II, § 208(e)(5), Jan. 23, 2002, 115 Stat. 2463; Pub. L. 108–7, div. K, title I, § 113(b), Feb. 20, 2003, 117 Stat. 482; Pub. L. 108–183, title VII, § 708(a)(2), Dec. 16, 2003, 117 Stat. 2673.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Public Law 87–693, popularly known as the Federal Medical Care Recovery Act, referred to in subsec. (b)(10), is Pub. L. 87–693, Sept. 25, 1962, 76 Stat. 593, which is classified generally to chapter 32 (§ 2651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
+Public Law 87–693, popularly known as the Federal Medical Care Recovery Act, referred to in subsec. (b)(10), is Pub. L. 87–693, Sept. 25, 1962, 76 Stat. 593, which is classified generally to chapter 32 (§ 2651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
-2003—Subsec. (b). Pub. L. 108–183, § 708(a)(2)(A), struck out “after June 30, 1997,” after “collected” in introductory provisions.
+2003—Subsec. (b). Pub. L. 108–183, § 708(a)(2)(A), struck out “after June 30, 1997,” after “collected” in introductory provisions.
 
 Subsec. (b)(8) to (10). Pub. L. 108–7 added pars. (8) and (9) and redesignated former par. (8) as (10).
 
-Subsec. (c)(3). Pub. L. 108–183, § 708(a)(2)(B), struck out par. (3) which related to duties of the Secretary for fiscal year 1998.
+Subsec. (c)(3). Pub. L. 108–183, § 708(a)(2)(B), struck out par. (3) which related to duties of the Secretary for fiscal year 1998.
 
-Subsecs. (e), (f). Pub. L. 108–183, § 708(a)(2)(C), (D), redesignated subsec. (f) as (e) and struck out former subsec. (e) which required the Secretary to submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives quarterly reports on the operation of the section for fiscal years 1998, 1999, and 2000 and for the first quarter of fiscal year 2001.
+Subsecs. (e), (f). Pub. L. 108–183, § 708(a)(2)(C), (D), redesignated subsec. (f) as (e) and struck out former subsec. (e) which required the Secretary to submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives quarterly reports on the operation of the section for fiscal years 1998, 1999, and 2000 and for the first quarter of fiscal year 2001.
 
 2002—Subsec. (b)(7), (8). Pub. L. 107–135 added par. (7) and redesignated former par. (7) as (8).
 
-1999—Subsec. (b)(5) to (7). Pub. L. 106–117, § 111(b)(1), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
+1999—Subsec. (b)(5) to (7). Pub. L. 106–117, § 111(b)(1), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 
-Subsec. (d). Pub. L. 106–117, § 203, struck out par. (1) designation, substituted “each Department health care facility” for “each designated health care region” and “each facility” for “each region”, substituted “such facility” for “such region” in two places, and struck out par. (2) which read as follows: “In this subsection, the term ‘designated health care regions of the Department’ means the geographic areas designated by the Secretary for purposes of the management of, and allocation of resources for, health care services provided by the Department.”
+Subsec. (d). Pub. L. 106–117, § 203, struck out par. (1) designation, substituted “each Department health care facility” for “each designated health care region” and “each facility” for “each region”, substituted “such facility” for “such region” in two places, and struck out par. (2) which read as follows: “In this subsection, the term ‘designated health care regions of the Department’ means the geographic areas designated by the Secretary for purposes of the management of, and allocation of resources for, health care services provided by the Department.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -16073,7 +16073,7 @@ Section effective Oct. 1, 1997, see section 8023(g) of Pub. L. 105–33, set out
 
 **Improvements for Recovery and Collection of Amounts for Department of Veterans Affairs Medical Care Collections Fund**
 
-Pub. L. 112–154, title I, § 111, Aug. 6, 2012, 126 Stat. 1175, provided that:
+Pub. L. 112–154, title I, § 111, Aug. 6, 2012, 126 Stat. 1175, provided that:
 
 > **“(a) Development and Implementation of Plan for Recovery and Collection.—**
 
@@ -16095,7 +16095,7 @@ Pub. L. 112–154, title I, § 111, Aug. 6, 2012, 126 Stat. 1175, provided tha
 
 **Medical Services Accounts**
 
-Pub. L. 108–447, div. I, title I, § 115, Dec. 8, 2004, 118 Stat. 3293, provided that:
+Pub. L. 108–447, div. I, title I, § 115, Dec. 8, 2004, 118 Stat. 3293, provided that:
 
 > **“(a)** Hereafter receipts that would otherwise be credited to the accounts listed in subsection (c) shall be deposited into the Medical Care Collections Fund, and shall be transferred to and merged with the ‘Medical services’ account, in fiscal year 2005 and subsequent years, to remain available until expended, to carry out the purposes of the ‘Medical services’ account.
 
@@ -16105,13 +16105,13 @@ Pub. L. 108–447, div. I, title I, § 115, Dec. 8, 2004, 118 Stat. 3293, prov
 
 Similar provisions were contained in the following prior appropriation act:
 
-Pub. L. 108–199, div. G, title I, § 115, Jan. 23, 2004, 118 Stat. 370.
+Pub. L. 108–199, div. G, title I, § 115, Jan. 23, 2004, 118 Stat. 370.
 
-**Report on Implementation of Section 8023 of Pub. L. 105–33**
+**Report on Implementation of Section 8023 of Pub. L. 105–33**
 
-Pub. L. 105–33, title VIII, § 8023(f), Aug. 5, 1997, 111 Stat. 667, provided that: “Not later than January 1, 1999, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the implementation of this section [enacting this section, amending sections 712, 1710, 1722A, and 1729 of this title, and enacting provisions set out as notes under sections 712 and 1729 of this title]. The report shall describe the collections under each of the provisions specified in section 1729A(b) of title 38, United States Code, as added by subsection (a). Information on such collections shall be shown for each of the health service networks (known as Veterans Integrated Service Networks) and, to the extent practicable for each facility within each such network. The Secretary shall include in the report an analysis of differences among the networks with respect to (A) the market in which the networks operates, (B) the effort expended to achieve collections, (C) the efficiency of such effort, and (D) any other relevant information.”
+Pub. L. 105–33, title VIII, § 8023(f), Aug. 5, 1997, 111 Stat. 667, provided that: “Not later than January 1, 1999, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the implementation of this section [enacting this section, amending sections 712, 1710, 1722A, and 1729 of this title, and enacting provisions set out as notes under sections 712 and 1729 of this title]. The report shall describe the collections under each of the provisions specified in section 1729A(b) of title 38, United States Code, as added by subsection (a). Information on such collections shall be shown for each of the health service networks (known as Veterans Integrated Service Networks) and, to the extent practicable for each facility within each such network. The Secretary shall include in the report an analysis of differences among the networks with respect to (A) the market in which the networks operates, (B) the effort expended to achieve collections, (C) the efficiency of such effort, and (D) any other relevant information.”
 
-### § 1729B. Consolidated patient accounting centers
+### § 1729B. Consolidated patient accounting centers
 
 **(a) In General.—** Not later than five years after the date of the enactment of this section, the Secretary of Veterans Affairs shall establish not more than seven consolidated patient accounting centers for conducting industry-modeled regionalized billing and collection activities of the Department.
 
@@ -16125,7 +16125,7 @@ Pub. L. 105–33, title VIII, § 8023(f), Aug. 5, 1997, 111 Stat. 667, provide
 
 **(4)** Apply other requirements with respect to such revenue cycle improvement as the Secretary may specify.
 
-(Added Pub. L. 110–387, title IV, § 406(a), Oct. 10, 2008, 122 Stat. 4129.)
+(Added Pub. L. 110–387, title IV, § 406(a), Oct. 10, 2008, 122 Stat. 4129.)
 
 **Editorial Notes**
 
@@ -16135,15 +16135,15 @@ The date of the enactment of this section, referred to in subsec. (a), is the da
 
 **Prior Provisions**
 
-A prior section 1729B, added Pub. L. 106–117, title II, § 202(a), Nov. 30, 1999, 113 Stat. 1561; amended Pub. L. 107–103, title V, § 509(c), Dec. 27, 2001, 115 Stat. 997; Pub. L. 107–330, title III, § 308(g)(7), Dec. 6, 2002, 116 Stat. 2829, related to the Department of Veterans Affairs Health Services Improvement Fund, prior to repeal by Pub. L. 108–7, div. K, title I, § 113(a)(1), Feb. 20, 2003, 117 Stat. 482.
+A prior section 1729B, added Pub. L. 106–117, title II, § 202(a), Nov. 30, 1999, 113 Stat. 1561; amended Pub. L. 107–103, title V, § 509(c), Dec. 27, 2001, 115 Stat. 997; Pub. L. 107–330, title III, § 308(g)(7), Dec. 6, 2002, 116 Stat. 2829, related to the Department of Veterans Affairs Health Services Improvement Fund, prior to repeal by Pub. L. 108–7, div. K, title I, § 113(a)(1), Feb. 20, 2003, 117 Stat. 482.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Balance**
 
-Pub. L. 108–7, div. K, title I, § 113(a)(1), Feb. 20, 2003, 117 Stat. 482, repealed former section 1729B of this title and provided that any balance as of Feb. 20, 2003, in the Department of Veterans Affairs Health Services Improvement Fund established under former section 1729B was to be transferred to the Department of Veterans Affairs Medical Care Collections Fund established under section 1729A of this title.
+Pub. L. 108–7, div. K, title I, § 113(a)(1), Feb. 20, 2003, 117 Stat. 482, repealed former section 1729B of this title and provided that any balance as of Feb. 20, 2003, in the Department of Veterans Affairs Health Services Improvement Fund established under former section 1729B was to be transferred to the Department of Veterans Affairs Medical Care Collections Fund established under section 1729A of this title.
 
-### § 1730. Community residential care
+### § 1730. Community residential care
 
 **(a)** Subject to this section and regulations to be prescribed by the Secretary under this section, the Secretary may assist a veteran by referring such veteran for placement in, and aiding such veteran in obtaining placement in, a community residential-care facility if—
 
@@ -16193,25 +16193,25 @@ Regulations prescribed to carry out this paragraph shall provide for reasonable 
 
 **(f)** For the purpose of this section, the term “community residential-care facility” means a facility that provides room and board and such limited personal care for and supervision of residents as the Secretary determines, in accordance with regulations prescribed under this section, are necessary for the health, safety, and welfare of residents.
 
-(Added Pub. L. 98–160, title I, § 104(a), Nov. 21, 1983, 97 Stat. 996, § 630; amended Pub. L. 102–54, § 14(b)(15), June 13, 1991, 105 Stat. 284; renumbered § 1730 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Added Pub. L. 98–160, title I, § 104(a), Nov. 21, 1983, 97 Stat. 996, § 630; amended Pub. L. 102–54, § 14(b)(15), June 13, 1991, 105 Stat. 284; renumbered § 1730 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 630 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 630 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
 Pub. L. 102–54 struck out “(1)” after “(a)” and redesignated former subpar. (A) as par. (1), cls. (i) and (ii) as subpars. (A) and (B), respectively, and former subpar. (B) as par. (2).
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing and “Secretary’s” for “Administrator’s” in two places.
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing and “Secretary’s” for “Administrator’s” in two places.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in par. (3).
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in par. (3).
 
-Subsecs. (c) to (f). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsecs. (c) to (f). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-### § 1730A. Prohibition on collection of copayments from certain veterans
+### § 1730A. Prohibition on collection of copayments from certain veterans
 
 **(a) Prohibition.—** Notwithstanding subsections (f) and (g) of section 1710 and section 1722A(a) of this title or any other provision of law, the Secretary may not require a covered veteran to make any copayment for the receipt of hospital care or medical services under the laws administered by the Secretary.
 
@@ -16221,7 +16221,7 @@ Subsecs. (c) to (f). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secr
 
 **(2)** is an Indian or urban Indian (as those terms are defined in section 4 of the Indian Health Care Improvement Act (25 U.S.C. 1603)).
 
-(Added Pub. L. 111–163, title V, § 511(a), May 5, 2010, 124 Stat. 1164; amended Pub. L. 116–315, title III, § 3002(a), Jan. 5, 2021, 134 Stat. 4990.)
+(Added Pub. L. 111–163, title V, § 511(a), May 5, 2010, 124 Stat. 1164; amended Pub. L. 116–315, title III, § 3002(a), Jan. 5, 2021, 134 Stat. 4990.)
 
 **Editorial Notes**
 
@@ -16233,9 +16233,9 @@ Subsecs. (c) to (f). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secr
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 116–315, title III, § 3002(c), Jan. 5, 2021, 134 Stat. 4991, provided that: “The amendments made by this section [amending this section] shall take effect on the day that is one year after the date of the enactment of this Act [Jan. 5, 2021].”
+Pub. L. 116–315, title III, § 3002(c), Jan. 5, 2021, 134 Stat. 4991, provided that: “The amendments made by this section [amending this section] shall take effect on the day that is one year after the date of the enactment of this Act [Jan. 5, 2021].”
 
-### § 1730B. Access to State prescription drug monitoring programs
+### § 1730B. Access to State prescription drug monitoring programs
 
 **(a) Access to Programs.—**
 
@@ -16267,21 +16267,21 @@ Pub. L. 116–315, title III, § 3002(c), Jan. 5, 2021, 134 Stat. 4991, provid
 
 **(5)** The term “State” means a State, as defined in section 101(20) of this title, or a political subdivision of a State.
 
-(Added Pub. L. 115–182, title I, § 134(a), June 6, 2018, 132 Stat. 1428; amended Pub. L. 115–251, title II, § 206, Sept. 29, 2018, 132 Stat. 3173.)
+(Added Pub. L. 115–182, title I, § 134(a), June 6, 2018, 132 Stat. 1428; amended Pub. L. 115–251, title II, § 206, Sept. 29, 2018, 132 Stat. 3173.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a)(1). Pub. L. 115–251, § 206(1)(A), inserted “, or any individual State or regional prescription drug monitoring program,” after “programs”.
+2018—Subsec. (a)(1). Pub. L. 115–251, § 206(1)(A), inserted “, or any individual State or regional prescription drug monitoring program,” after “programs”.
 
-Subsec. (a)(2)(A). Pub. L. 115–251, § 206(1)(B), substituted “the national network of State-based prescription monitoring programs, or, if providing care in a State that does not participate in such national network, an individual State or regional prescription drug monitoring program,” for “such network”.
+Subsec. (a)(2)(A). Pub. L. 115–251, § 206(1)(B), substituted “the national network of State-based prescription monitoring programs, or, if providing care in a State that does not participate in such national network, an individual State or regional prescription drug monitoring program,” for “such network”.
 
-Subsec. (a)(3). Pub. L. 115–251, § 206(1)(C), which directed “inserting ‘, or any individual State or regional prescription drug monitoring program,’ after programs”, was executed by inserting the quoted text after “programs” as if that word had been enclosed in quotation marks in the directory language, to reflect the probable intent of Congress.
+Subsec. (a)(3). Pub. L. 115–251, § 206(1)(C), which directed “inserting ‘, or any individual State or regional prescription drug monitoring program,’ after programs”, was executed by inserting the quoted text after “programs” as if that word had been enclosed in quotation marks in the directory language, to reflect the probable intent of Congress.
 
-Subsec. (c)(2). Pub. L. 115–251, § 206(2), inserted “, or any individual State or regional prescription drug monitoring program,” after “programs”.
+Subsec. (c)(2). Pub. L. 115–251, § 206(2), inserted “, or any individual State or regional prescription drug monitoring program,” after “programs”.
 
-### § 1730C. Licensure of health care professionals providing treatment via telemedicine
+### § 1730C. Licensure of health care professionals providing treatment via telemedicine
 
 **(a) In General.—** Notwithstanding any provision of law regarding the licensure of health care professionals, a covered health care professional may practice the health care profession of the health care professional at any location in any State or any of the Freely Associated States (as defined in section 1724(f) of this title), regardless of where the covered health care professional or the patient is located, if the covered health care professional is using telemedicine to provide treatment to an individual under this chapter.
 
@@ -16327,13 +16327,13 @@ Subsec. (c)(2). Pub. L. 115–251, § 206(2), inserted “, or any individua
 
 **(f) State Defined.—** In this section, the term “State” means a State, as defined in section 101(20) of this title, or a political subdivision of a State.
 
-(Added Pub. L. 115–182, title I, § 151(a), June 6, 2018, 132 Stat. 1430; amended Pub. L. 116–283, div. H, title XCI, § 9101, Jan. 1, 2021, 134 Stat. 4780; Pub. L. 118–42, div. G, title II, § 209(a)(4)(B), Mar. 9, 2024, 138 Stat. 441.)
+(Added Pub. L. 115–182, title I, § 151(a), June 6, 2018, 132 Stat. 1430; amended Pub. L. 116–283, div. H, title XCI, § 9101, Jan. 1, 2021, 134 Stat. 4780; Pub. L. 118–42, div. G, title II, § 209(a)(4)(B), Mar. 9, 2024, 138 Stat. 441.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Controlled Substances Act, referred to in subsec. (e), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (e), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
 **Amendments**
 
@@ -16347,13 +16347,13 @@ The Controlled Substances Act, referred to in subsec. (e), is title II of Pub. L
 
 **Amendments**
 
-1981—Pub. L. 97–72, title I, § 107(d)(1), Nov. 3, 1981, 95 Stat. 1053, substituted “HOSPITAL CARE AND MEDICAL TREATMENT FOR VETERANS IN THE REPUBLIC OF THE PHILIPPINES” for “HOSPITAL AND MEDICAL CARE FOR COMMONWEALTH OF THE PHILIPPINES ARMY VETERANS” in subchapter heading.
+1981—Pub. L. 97–72, title I, § 107(d)(1), Nov. 3, 1981, 95 Stat. 1053, substituted “HOSPITAL CARE AND MEDICAL TREATMENT FOR VETERANS IN THE REPUBLIC OF THE PHILIPPINES” for “HOSPITAL AND MEDICAL CARE FOR COMMONWEALTH OF THE PHILIPPINES ARMY VETERANS” in subchapter heading.
 
-### § 1731. Assistance to the Republic of the Philippines
+### § 1731. Assistance to the Republic of the Philippines
 
 The President is authorized to assist the Republic of the Philippines in fulfilling its responsibility in providing medical care and treatment for Commonwealth Army veterans and new Philippine Scouts in need of such care and treatment for service-connected disabilities and non-service-connected disabilities under certain conditions.
 
-(Added Pub. L. 93–82, title I, § 107(a), Aug. 2, 1973, 87 Stat. 184, § 631; amended Pub. L. 97–72, title I, § 107(b), Nov. 3, 1981, 95 Stat. 1052; renumbered § 1731, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 93–82, title I, § 107(a), Aug. 2, 1973, 87 Stat. 184, § 631; amended Pub. L. 97–72, title I, § 107(b), Nov. 3, 1981, 95 Stat. 1052; renumbered § 1731, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -16373,7 +16373,7 @@ Prior section 1731 was renumbered section 3531 of this title.
 
 Section effective July 1, 1973, see section 501 of Pub. L. 93–82, set out as an Effective Date of 1973 Amendment note under section 1701 of this title.
 
-### § 1732. Contracts and grants to provide for the care and treatment of United States veterans by the Veterans Memorial Medical Center
+### § 1732. Contracts and grants to provide for the care and treatment of United States veterans by the Veterans Memorial Medical Center
 
 **(a)** The President, with the concurrence of the Republic of the Philippines, may authorize the Secretary to enter into contracts with the Veterans Memorial Medical Center, with the approval of the appropriate department of the Government of the Republic of the Philippines, covering the period beginning on October 1, 1981, and ending on September 30, 1994, under which the United States—
 
@@ -16397,7 +16397,7 @@ Section effective July 1, 1973, see section 501 of Pub. L. 93–82, set out as a
 
 **(2)** Appropriations made for the purpose of this section shall remain available until expended.
 
-(Added Pub. L. 93–82, title I, § 107(a), Aug. 2, 1973, 87 Stat. 184, § 632; amended Pub. L. 94–581, title II, § 210(a)(14), Oct. 21, 1976, 90 Stat. 2863; Pub. L. 95–520, § 3(b), Oct. 26, 1978, 92 Stat. 1820; Pub. L. 97–72, title I, § 107(c)(1), Nov. 3, 1981, 95 Stat. 1052; Pub. L. 99–576, title II, § 206(a)(1), Oct. 28, 1986, 100 Stat. 3256; Pub. L. 100–687, div. B, title XV, § 1502(a), (b), Nov. 18, 1988, 102 Stat. 4132; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 1732 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, § 304(a), Aug. 14, 1991, 105 Stat. 416; Pub. L. 102–585, title V, § 503, Nov. 4, 1992, 106 Stat. 4955.)
+(Added Pub. L. 93–82, title I, § 107(a), Aug. 2, 1973, 87 Stat. 184, § 632; amended Pub. L. 94–581, title II, § 210(a)(14), Oct. 21, 1976, 90 Stat. 2863; Pub. L. 95–520, § 3(b), Oct. 26, 1978, 92 Stat. 1820; Pub. L. 97–72, title I, § 107(c)(1), Nov. 3, 1981, 95 Stat. 1052; Pub. L. 99–576, title II, § 206(a)(1), Oct. 28, 1986, 100 Stat. 3256; Pub. L. 100–687, div. B, title XV, § 1502(a), (b), Nov. 18, 1988, 102 Stat. 4132; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 1732 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, § 304(a), Aug. 14, 1991, 105 Stat. 416; Pub. L. 102–585, title V, § 503, Nov. 4, 1992, 106 Stat. 4955.)
 
 **Editorial Notes**
 
@@ -16409,21 +16409,21 @@ Prior section 1732 was renumbered section 3532 of this title.
 
 1992—Subsec. (a). Pub. L. 102–585 substituted “September 30, 1994” for “September 30, 1992”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 632 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 632 of this title as this section.
 
-Subsec. (a). Pub. L. 102–86 amended subsec. (a) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by substituting “1992” for “1990”.
+Subsec. (a). Pub. L. 102–86 amended subsec. (a) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by substituting “1992” for “1990”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (a)(1). Pub. L. 102–83, § 5(c)(1), substituted “1724” for “624”.
+Subsec. (a)(1). Pub. L. 102–83, § 5(c)(1), substituted “1724” for “624”.
 
-Subsec. (a)(2). Pub. L. 102–40, § 402(d)(1), substituted “8121” for “5021”.
+Subsec. (a)(2). Pub. L. 102–40, § 402(d)(1), substituted “8121” for “5021”.
 
-Subsec. (b)(1), (2). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (b)(1), (2). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (b)(3). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Subsec. (b)(3). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsecs. (c), (d)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsecs. (c), (d)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
 1988—Subsecs. (a), (b)(1). Pub. L. 100–687 substituted “1990” for “1989” in subsec. (a) and substituted “1990” for “1989” and “$1,000,000” for “$500,000” in subsec. (b)(1).
 
@@ -16431,13 +16431,13 @@ Subsecs. (c), (d)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Sec
 
 1981—Pub. L. 97–72 amended section generally, first by substituting Sept. 30, 1986, for Sept. 30, 1981, as the ending date for the period during which the President, with the concurrence of the Republic of the Philippines, may authorize the Administrator to enter into contracts with the Veterans Memorial Medical Center to provide for payments for hospital care and medical services, and by including nursing home care, for eligible United States veterans as authorized by and on the same conditions as set forth in section 624, with such care to consist in whole or in part of available medicines, medical supplies, and equipment furnished through the revolving supply fund, pursuant to section 5021, at valuations determined by the Administrator using available appropriations for payments and with the per diem rate for such care and services to be jointly determined annually by the two Governments as fair and reasonable, second by increasing from $50,000 to $500,000 per year the size of grants to replace and upgrade equipment and rehabilitate the Center’s physical plant, third by continuing the Administrator’s authority to stop payments in certain cases, and fourth by limiting the Administrator’s authority to contract for hospital care and to make grants for any fiscal year, to the extent that appropriations are available for that purpose.
 
-1978—Subsec. (a). Pub. L. 95–520, § 3(b)(1), (2), substituted “Veterans Memorial Medical Center” for “Veterans Memorial Hospital” in introductory text and pars. (1), (2), (5), and (7), and in introductory text, substituted “enter into contracts” for “enter into a contract” and “September 30, 1981” for “June 30, 1978”.
+1978—Subsec. (a). Pub. L. 95–520, § 3(b)(1), (2), substituted “Veterans Memorial Medical Center” for “Veterans Memorial Hospital” in introductory text and pars. (1), (2), (5), and (7), and in introductory text, substituted “enter into contracts” for “enter into a contract” and “September 30, 1981” for “June 30, 1978”.
 
-Subsec. (b). Pub. L. 95–520, § 3(b)(3), substituted “October 1, 1981” for “July 1, 1978”.
+Subsec. (b). Pub. L. 95–520, § 3(b)(3), substituted “October 1, 1981” for “July 1, 1978”.
 
-Subsec. (c). Pub. L. 95–520, § 3(b)(1), substituted “Veterans Memorial Medical Center” for “Veterans Memorial Hospital”.
+Subsec. (c). Pub. L. 95–520, § 3(b)(1), substituted “Veterans Memorial Medical Center” for “Veterans Memorial Hospital”.
 
-Subsec. (d). Pub. L. 95–520, § 3(b)(1), (4), substituted “Veterans Memorial Medical Center” for “Veterans Memorial Hospital” in three places and “occurring during the period beginning July 1, 1973, and ending September 30, 1981” for “during the five years beginning July 1, 1973, and ending June 30, 1978”.
+Subsec. (d). Pub. L. 95–520, § 3(b)(1), (4), substituted “Veterans Memorial Medical Center” for “Veterans Memorial Hospital” in three places and “occurring during the period beginning July 1, 1973, and ending September 30, 1981” for “during the five years beginning July 1, 1973, and ending June 30, 1978”.
 
 1976—Subsec. (d). Pub. L. 94–581 substituted “approval by the Administrator” for “approved by him”.
 
@@ -16453,25 +16453,25 @@ Section effective July 1, 1973, see section 501 of Pub. L. 93–82, set out as a
 
 **Savings Provision**
 
-Pub. L. 93–82, title I, § 107(c), Aug. 2, 1973, 87 Stat. 186, provided that section 107(a) of Pub. L. 93–82, enacting this section and section 631 [now 1731] of this title, did not affect any right, cause, obligation, contract (including the contract executed Apr. 25, 1967, between the Government of the Republic of the Philippines and the Government of the United States resulting from Pub. L. 89–612, which was to remain in effect until modified or superseded by an agreement executed under authority of Pub. L. 93–82), authorization of appropriation, grant, function, power, or duty vested by law or otherwise under this section in effect on the day before Aug. 2, 1973.
+Pub. L. 93–82, title I, § 107(c), Aug. 2, 1973, 87 Stat. 186, provided that section 107(a) of Pub. L. 93–82, enacting this section and section 631 [now 1731] of this title, did not affect any right, cause, obligation, contract (including the contract executed Apr. 25, 1967, between the Government of the Republic of the Philippines and the Government of the United States resulting from Pub. L. 89–612, which was to remain in effect until modified or superseded by an agreement executed under authority of Pub. L. 93–82), authorization of appropriation, grant, function, power, or duty vested by law or otherwise under this section in effect on the day before Aug. 2, 1973.
 
 **Ratification of Actions of Secretary of Veterans Affairs in Carrying Out This Section**
 
-Pub. L. 102–86, title III, § 304(b), Aug. 14, 1991, 105 Stat. 416, provided that: “Any actions by the Secretary of Veterans Affairs in carrying out the provisions of section 632 [now 1732] of title 38, United States Code, by contract or otherwise, during the period beginning on October 1, 1990, and ending on the date of the enactment of this Act [Aug. 14, 1991] are hereby ratified.”
+Pub. L. 102–86, title III, § 304(b), Aug. 14, 1991, 105 Stat. 416, provided that: “Any actions by the Secretary of Veterans Affairs in carrying out the provisions of section 632 [now 1732] of title 38, United States Code, by contract or otherwise, during the period beginning on October 1, 1990, and ending on the date of the enactment of this Act [Aug. 14, 1991] are hereby ratified.”
 
 **Ratification of Action of Administrator in Contracting**
 
-Pub. L. 99–576, title II, § 206(a)(2), Oct. 28, 1986, 100 Stat. 3256, ratified actions by the Administrator of Veterans’ Affairs in contracting under subsec. (a) of this section with respect to the period beginning Oct. 1, 1986, and ending Oct. 28, 1986.
+Pub. L. 99–576, title II, § 206(a)(2), Oct. 28, 1986, 100 Stat. 3256, ratified actions by the Administrator of Veterans’ Affairs in contracting under subsec. (a) of this section with respect to the period beginning Oct. 1, 1986, and ending Oct. 28, 1986.
 
 **Reports on Use of Funds**
 
-Pub. L. 99–576, title II, § 206(b), Oct. 28, 1986, 100 Stat. 3256, directed Administrator of Veterans’ Affairs, not later than Feb. 1, 1987, 1988, and 1989, to submit to Congress a report describing use of funds provided to Republic of the Philippines under subsec. (b) of this section during the preceding fiscal year.
+Pub. L. 99–576, title II, § 206(b), Oct. 28, 1986, 100 Stat. 3256, directed Administrator of Veterans’ Affairs, not later than Feb. 1, 1987, 1988, and 1989, to submit to Congress a report describing use of funds provided to Republic of the Philippines under subsec. (b) of this section during the preceding fiscal year.
 
-### § 1733. Supervision of program by the President
+### § 1733. Supervision of program by the President
 
 The President, or any officer of the United States to whom the President may delegate authority under this section, may from time to time prescribe such rules and regulations and impose such conditions on the receipt of financial aid as may be necessary to carry out this subchapter.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146, § 633; Pub. L. 94–581, title II, § 210(a)(15), Oct. 21, 1976, 90 Stat. 2863; renumbered § 1733, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146, § 633; Pub. L. 94–581, title II, § 210(a)(15), Oct. 21, 1976, 90 Stat. 2863; renumbered § 1733, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -16479,7 +16479,7 @@ The President, or any officer of the United States to whom the President may del
 
 Prior section 1733 was renumbered section 3533 of this title.
 
-Another prior section 1733, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1198, as amended by Pub. L. 91–219, title II, § 206(b), Mar. 26, 1970, 84 Stat. 82; Pub. L. 91–584, § 12, Dec. 24, 1970, 84 Stat. 1577, related to measurement of courses, prior to the general amendment of this section by Pub. L. 92–540, title III, § 313, Oct. 24, 1972, 86 Stat. 1084. See section 3688 of this title.
+Another prior section 1733, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1198, as amended by Pub. L. 91–219, title II, § 206(b), Mar. 26, 1970, 84 Stat. 82; Pub. L. 91–584, § 12, Dec. 24, 1970, 84 Stat. 1577, related to measurement of courses, prior to the general amendment of this section by Pub. L. 92–540, title III, § 313, Oct. 24, 1972, 86 Stat. 1084. See section 3688 of this title.
 
 **Amendments**
 
@@ -16511,7 +16511,7 @@ Sec. 2. Nothing in this order shall be construed as modifying or terminating any
 
 Richard Nixon.
 
-### § 1734. Hospital and nursing home care and medical services in the United States
+### § 1734. Hospital and nursing home care and medical services in the United States
 
 **(a)** The Secretary shall furnish hospital and nursing home care and medical services to any individual described in subsection (b) in the same manner, and subject to the same terms and conditions, as apply to the furnishing of such care and services to individuals who are veterans as defined in section 101(2) of this title. Any disability of an individual described in subsection (b) that is a service-connected disability for purposes of this subchapter (as provided for under section 1735(2) of this title) shall be considered to be a service-connected disability for purposes of furnishing care and services under the preceding sentence.
 
@@ -16521,7 +16521,7 @@ Richard Nixon.
 
 **(2)** is a citizen of the United States or an alien lawfully admitted to the United States for permanent residence.
 
-(Added Pub. L. 96–22, title I, § 106(a), June 13, 1979, 93 Stat. 53, § 634; renumbered § 1734 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 106–377, § 1(a)(1) [title V, § 501(b)], Oct. 27, 2000, 114 Stat. 1441, 1441A–57; Pub. L. 108–170, title I, § 103, Dec. 6, 2003, 117 Stat. 2044.)
+(Added Pub. L. 96–22, title I, § 106(a), June 13, 1979, 93 Stat. 53, § 634; renumbered § 1734 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 106–377, § 1(a)(1) [title V, § 501(b)], Oct. 27, 2000, 114 Stat. 1441, 1441A–57; Pub. L. 108–170, title I, § 103, Dec. 6, 2003, 117 Stat. 2044.)
 
 **Editorial Notes**
 
@@ -16529,7 +16529,7 @@ Richard Nixon.
 
 Prior section 1734 was renumbered section 3534 of this title.
 
-Another prior section 1734, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1199, as amended by Pub. L. 89–358, § 4(m), Mar. 3, 1966, 80 Stat. 25, related to overcharging of eligible persons by educational institutions, prior to the general amendment of this section by Pub. L. 92–540, title III, § 313, Oct. 24, 1972, 86 Stat. 1084. See section 3690 of this title.
+Another prior section 1734, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1199, as amended by Pub. L. 89–358, § 4(m), Mar. 3, 1966, 80 Stat. 25, related to overcharging of eligible persons by educational institutions, prior to the general amendment of this section by Pub. L. 92–540, title III, § 313, Oct. 24, 1972, 86 Stat. 1084. See section 3690 of this title.
 
 **Amendments**
 
@@ -16541,11 +16541,11 @@ Another prior section 1734, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1199, as a
 
 2000—Pub. L. 106–377 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 634 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 634 of this title as this section.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -16553,7 +16553,7 @@ Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veteran
 
 Section effective Oct. 1, 1979, see section 107 of Pub. L. 96–22, set out as an Effective Date of 1979 Amendment note under section 1701 of this title.
 
-### § 1735. Definitions
+### § 1735. Definitions
 
 For the purposes of this subchapter—
 
@@ -16561,7 +16561,7 @@ For the purposes of this subchapter—
 
 **(2)** The term “service-connected disabilities” means disabilities determined by the Secretary under laws administered by the Secretary to have been incurred in or aggravated by the service described in paragraph (1) in line of duty.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146, § 634; Pub. L. 89–612, § 3, Sept. 30, 1966, 80 Stat. 861; renumbered § 635, Pub. L. 96–22, title I, § 106(a), June 13, 1979, 93 Stat. 53; renumbered § 1735 and amended Pub. L. 102–83, §§ 4(a)(1), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 403–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146, § 634; Pub. L. 89–612, § 3, Sept. 30, 1966, 80 Stat. 861; renumbered § 635, Pub. L. 96–22, title I, § 106(a), June 13, 1979, 93 Stat. 53; renumbered § 1735 and amended Pub. L. 102–83, §§ 4(a)(1), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 403–406.)
 
 **Editorial Notes**
 
@@ -16573,29 +16573,29 @@ Section 14 of the Armed Forces Voluntary Recruitment Act of 1945, referred to in
 
 Prior sections 1735 and 1736 were renumbered sections 3535 and 3536 of this title, respectively.
 
-Another prior section 1736, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1199; Pub. L. 88–126, § 3, Sept. 23, 1963, 77 Stat. 162; Pub. L. 89–358, § 4(*o*), Mar. 3, 1966, 80 Stat. 25, related to discontinuance of the educational assistance allowance by the Administrator, prior to repeal by Pub. L. 92–540, title IV, § 402(2), Oct. 24, 1972, 86 Stat. 1090. See section 3690 of this title.
+Another prior section 1736, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1199; Pub. L. 88–126, § 3, Sept. 23, 1963, 77 Stat. 162; Pub. L. 89–358, § 4(*o*), Mar. 3, 1966, 80 Stat. 25, related to discontinuance of the educational assistance allowance by the Administrator, prior to repeal by Pub. L. 92–540, title IV, § 402(2), Oct. 24, 1972, 86 Stat. 1090. See section 3690 of this title.
 
 Prior section 1737 was renumbered section 3537 of this title.
 
-Another prior section 1737, added Pub. L. 93–508, title III, § 303(a), Dec. 3, 1974, 88 Stat. 1591; amended Pub. L. 97–35, title XX, § 2005(c), Aug. 13, 1981, 95 Stat. 783, related to entitlement of any eligible person, before Oct. 1, 1981, to an education loan, prior to repeal by Pub. L. 100–689, title I, § 124(a), Nov. 18, 1988, 102 Stat. 4174.
+Another prior section 1737, added Pub. L. 93–508, title III, § 303(a), Dec. 3, 1974, 88 Stat. 1591; amended Pub. L. 97–35, title XX, § 2005(c), Aug. 13, 1981, 95 Stat. 783, related to entitlement of any eligible person, before Oct. 1, 1981, to an education loan, prior to repeal by Pub. L. 100–689, title I, § 124(a), Nov. 18, 1988, 102 Stat. 4174.
 
 Another prior section 1737 was renumbered section 1736 of this title.
 
-Prior section 1738, added Pub. L. 95–202, title II, § 201(b), Nov. 23, 1977, 91 Stat. 1437, related to accelerated payment of educational assistance allowances, prior to repeal by Pub. L. 100–689, title I, § 124(a), Nov. 18, 1988, 102 Stat. 4174.
+Prior section 1738, added Pub. L. 95–202, title II, § 201(b), Nov. 23, 1977, 91 Stat. 1437, related to accelerated payment of educational assistance allowances, prior to repeal by Pub. L. 100–689, title I, § 124(a), Nov. 18, 1988, 102 Stat. 4174.
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 635 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 635 of this title as this section.
 
-Par. (2). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” before “under”.
+Par. (2). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” before “under”.
 
-Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
 1966—Par. (1). Pub. L. 89–612 inserted definition of “new Philippine Scouts”.
 
 ## SUBCHAPTER V—PAYMENTS TO STATE HOMES
 
-### § 1741. Criteria for payment
+### § 1741. Criteria for payment
 
 **(a)**
 
@@ -16621,7 +16621,7 @@ for each veteran receiving such care in a State home, if such veteran is eligibl
 
 **(g)** In this subchapter, the term “State” means each of the several States and each Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304)).
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146, § 641; Pub. L. 86–625, July 12, 1960, 74 Stat. 424; Pub. L. 87–819, § 1, Oct. 15, 1962, 76 Stat. 935; Pub. L. 88–450, § 3(a), Aug. 19, 1964, 78 Stat. 500; Pub. L. 90–432, § 1, July 26, 1968, 82 Stat. 448; Pub. L. 91–178, § 1, Dec. 30, 1969, 83 Stat. 836; Pub. L. 93–82, title IV, § 403(a), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–417, § 1(a), Sept. 21, 1976, 90 Stat. 1277; Pub. L. 94–581, title II, § 202(*o*), Oct. 21, 1976, 90 Stat. 2856; Pub. L. 96–151, title I, § 101(b)(1), Dec. 20, 1979, 93 Stat. 1092; Pub. L. 98–160, title I, § 105(a), Nov. 21, 1983, 97 Stat. 998; Pub. L. 100–322, title I, § 134(a), May 20, 1988, 102 Stat. 507; renumbered § 1741 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title IV, § 406, Nov. 4, 1992, 106 Stat. 4954; Pub. L. 104–66, title I, § 1141(a), Dec. 21, 1995, 109 Stat. 726; Pub. L. 104–262, title III, § 342(a), Oct. 9, 1996, 110 Stat. 3206; Pub. L. 106–117, title I, § 101(g), Nov. 30, 1999, 113 Stat. 1550; Pub. L. 108–422, title II, § 202, Nov. 30, 2004, 118 Stat. 2382; Pub. L. 109–461, title II, § 211(a)(3)(A), (b)(2), Dec. 22, 2006, 120 Stat. 3419, 3420; Pub. L. 116–315, title III, §§ 3004(b), 3007(b), Jan. 5, 2021, 134 Stat. 4992, 4996.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146, § 641; Pub. L. 86–625, July 12, 1960, 74 Stat. 424; Pub. L. 87–819, § 1, Oct. 15, 1962, 76 Stat. 935; Pub. L. 88–450, § 3(a), Aug. 19, 1964, 78 Stat. 500; Pub. L. 90–432, § 1, July 26, 1968, 82 Stat. 448; Pub. L. 91–178, § 1, Dec. 30, 1969, 83 Stat. 836; Pub. L. 93–82, title IV, § 403(a), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–417, § 1(a), Sept. 21, 1976, 90 Stat. 1277; Pub. L. 94–581, title II, § 202(*o*), Oct. 21, 1976, 90 Stat. 2856; Pub. L. 96–151, title I, § 101(b)(1), Dec. 20, 1979, 93 Stat. 1092; Pub. L. 98–160, title I, § 105(a), Nov. 21, 1983, 97 Stat. 998; Pub. L. 100–322, title I, § 134(a), May 20, 1988, 102 Stat. 507; renumbered § 1741 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title IV, § 406, Nov. 4, 1992, 106 Stat. 4954; Pub. L. 104–66, title I, § 1141(a), Dec. 21, 1995, 109 Stat. 726; Pub. L. 104–262, title III, § 342(a), Oct. 9, 1996, 110 Stat. 3206; Pub. L. 106–117, title I, § 101(g), Nov. 30, 1999, 113 Stat. 1550; Pub. L. 108–422, title II, § 202, Nov. 30, 2004, 118 Stat. 2382; Pub. L. 109–461, title II, § 211(a)(3)(A), (b)(2), Dec. 22, 2006, 120 Stat. 3419, 3420; Pub. L. 116–315, title III, §§ 3004(b), 3007(b), Jan. 5, 2021, 134 Stat. 4992, 4996.)
 
 **Editorial Notes**
 
@@ -16631,13 +16631,13 @@ Prior sections 1740 and 1741 were renumbered sections 3540 and 3541 of this titl
 
 **Amendments**
 
-2021—Subsec. (a)(1). Pub. L. 116–315, § 3007(b), substituted “under the laws administered by the Secretary” for “in a Department facility” in concluding provisions.
+2021—Subsec. (a)(1). Pub. L. 116–315, § 3007(b), substituted “under the laws administered by the Secretary” for “in a Department facility” in concluding provisions.
 
-Subsec. (g). Pub. L. 116–315, § 3004(b), added subsec. (g).
+Subsec. (g). Pub. L. 116–315, § 3004(b), added subsec. (g).
 
-2006—Subsec. (a)(1). Pub. L. 109–461, § 211(a)(3)(A), substituted “Except as provided in section 1745 of this title, the” for “The”.
+2006—Subsec. (a)(1). Pub. L. 109–461, § 211(a)(3)(A), substituted “Except as provided in section 1745 of this title, the” for “The”.
 
-Subsec. (f). Pub. L. 109–461, § 211(b)(2), added subsec. (f).
+Subsec. (f). Pub. L. 109–461, § 211(b)(2), added subsec. (f).
 
 2004—Subsec. (e). Pub. L. 108–422 added subsec. (e).
 
@@ -16649,25 +16649,25 @@ Subsec. (f). Pub. L. 109–461, § 211(b)(2), added subsec. (f).
 
 1992—Subsec. (e). Pub. L. 102–585 added subsec. (e).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 641 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 641 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in concluding provisions.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in concluding provisions.
 
-Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “1710 and 1720” for “610 and 620”.
+Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “1710 and 1720” for “610 and 620”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “1720(a)(2)(A)” for “620(a)(2)(A)”.
+Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “1720(a)(2)(A)” for “620(a)(2)(A)”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-1988—Subsec. (a). Pub. L. 100–322, § 134(a)(1), added cls. (1) and (2) and struck out former cls. (1) to (3) which read as follows:
+1988—Subsec. (a). Pub. L. 100–322, § 134(a)(1), added cls. (1) and (2) and struck out former cls. (1) to (3) which read as follows:
 
 “(1) $7.30 for domiciliary care,
 
@@ -16675,17 +16675,17 @@ Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veteran
 
 “(3) $15.25 for hospital care,”.
 
-Subsec. (d). Pub. L. 100–322, § 134(a)(2), added subsec. (d).
+Subsec. (d). Pub. L. 100–322, § 134(a)(2), added subsec. (d).
 
-1983—Subsec. (a). Pub. L. 98–160, § 105(a)(1), substituted “$7.30” for “$6.35” in par. (1), “$17.05” for “$12.10” in par. (2), and “$15.25” for “$13.25” in par. (3).
+1983—Subsec. (a). Pub. L. 98–160, § 105(a)(1), substituted “$7.30” for “$6.35” in par. (1), “$17.05” for “$12.10” in par. (2), and “$15.25” for “$13.25” in par. (3).
 
-Subsec. (c). Pub. L. 98–160, § 105(a)(2), added subsec. (c).
+Subsec. (c). Pub. L. 98–160, § 105(a)(2), added subsec. (c).
 
 1979—Subsec. (a). Pub. L. 96–151 substituted “$6.35” for “$5.50”, “$12.10” for “$10.50”, and “$13.25” for “$11.50”.
 
 1976—Pub. L. 94–581 struck out “of any war or of service after January 31, 1955” after “for each veteran” in provisions following par. (3).
 
-Pub. L. 94–417 designated existing provisions as subsec. (a), increased from $4.50 to $5.50 the per diem rate for domiciliary care, from $6 to $10.50 the per diem rate for nursing home care, and from $10 to $11.50 the per diem rate for hospital care, struck out “of any war or of service after January 31, 1955” after “for each veteran”, “, in the case of such a veteran receiving domiciliary or hospital care,” after “if”, and provisions relating to the case of a veteran receiving nursing home care, and added subsec. (b).
+Pub. L. 94–417 designated existing provisions as subsec. (a), increased from $4.50 to $5.50 the per diem rate for domiciliary care, from $6 to $10.50 the per diem rate for nursing home care, and from $10 to $11.50 the per diem rate for hospital care, struck out “of any war or of service after January 31, 1955” after “for each veteran”, “, in the case of such a veteran receiving domiciliary or hospital care,” after “if”, and provisions relating to the case of a veteran receiving nursing home care, and added subsec. (b).
 
 1973—Pub. L. 93–82 increased from $3.50 to $4.50 the per diem rate for domiciliary care, from $5 to $6 the per diem rate for nursing home care, and from $7.50 to $10 the per diem rate for hospital care, and substituted “veteran of any war or of service after January 31, 1955” for “veteran of any war”.
 
@@ -16707,7 +16707,7 @@ Amendment by section 211(a)(3)(A) of Pub. L. 109–461 effective 90 days after D
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–322, title I, § 134(b), May 20, 1988, 102 Stat. 507, provided that:
+Pub. L. 100–322, title I, § 134(b), May 20, 1988, 102 Stat. 507, provided that:
 
 > **“(1)** The amendment made by subsection (a)(1) [amending this section] shall take effect as of January 1, 1988.
 
@@ -16715,17 +16715,17 @@ Pub. L. 100–322, title I, § 134(b), May 20, 1988, 102 Stat. 507, provided t
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–160, title I, § 105(b), Nov. 21, 1983, 97 Stat. 998, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on April 1, 1984.”
+Pub. L. 98–160, title I, § 105(b), Nov. 21, 1983, 97 Stat. 998, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on April 1, 1984.”
 
 **Effective Date of 1979 Amendment**
 
-Pub. L. 96–151, title I, § 101(b)(2), Dec. 20, 1979, 93 Stat. 1092, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on January 1, 1980, but, with respect to fiscal year 1980, shall take effect only to such extent and in such amounts as may be specifically provided for such purpose in appropriation Acts.”
+Pub. L. 96–151, title I, § 101(b)(2), Dec. 20, 1979, 93 Stat. 1092, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on January 1, 1980, but, with respect to fiscal year 1980, shall take effect only to such extent and in such amounts as may be specifically provided for such purpose in appropriation Acts.”
 
 **Effective Date of 1976 Amendment**
 
 Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of this title.
 
-Pub. L. 94–417, § 1(c), Sept. 21, 1976, 90 Stat. 1277, provided that:
+Pub. L. 94–417, § 1(c), Sept. 21, 1976, 90 Stat. 1277, provided that:
 
 > **“(1)** The amendments made by subsection (a) of this section [amending this section] shall be effective on October 1, 1976.
 
@@ -16737,11 +16737,11 @@ Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L.
 
 **Effective Date of 1964 Amendment**
 
-Pub. L. 88–450, § 3(c), Aug. 19, 1964, 78 Stat. 501, provided that: “The amendment made by this section [amending this section] shall take effect on January 1, 1965; except that subsection (b) of section 641 [now 1741] of title 38, United States Code, as in effect immediately before such date, shall remain in effect with respect to any amounts retained or collected by any State home before such date.”
+Pub. L. 88–450, § 3(c), Aug. 19, 1964, 78 Stat. 501, provided that: “The amendment made by this section [amending this section] shall take effect on January 1, 1965; except that subsection (b) of section 641 [now 1741] of title 38, United States Code, as in effect immediately before such date, shall remain in effect with respect to any amounts retained or collected by any State home before such date.”
 
 **Provision of Medicine, Equipment, and Supplies Available to Department of Veterans Affairs to State Homes**
 
-Pub. L. 118–210, title I, § 128, Jan. 2, 2025, 138 Stat. 2738, provided that:
+Pub. L. 118–210, title I, § 128, Jan. 2, 2025, 138 Stat. 2738, provided that:
 
 > **“(a) Provision Authorized.—** The Secretary of Veterans Affairs may provide to State homes medicine, personal protective equipment, medical supplies, and any other equipment, supplies, and assistance available to the Department of Veterans Affairs.
 
@@ -16753,7 +16753,7 @@ Pub. L. 118–210, title I, § 128, Jan. 2, 2025, 138 Stat. 2738, provided tha
 
 **Improvement of State Veterans Homes**
 
-Pub. L. 117–328, div. U, title I, § 162, Dec. 29, 2022, 136 Stat. 5430, provided that:
+Pub. L. 117–328, div. U, title I, § 162, Dec. 29, 2022, 136 Stat. 5430, provided that:
 
 > **“(a) Standardized Sharing Agreements.—** The Secretary of Veterans Affairs shall develop a standardized process throughout the Department of Veterans Affairs for entering into sharing agreements between State homes and medical centers of the Department.
 
@@ -16773,7 +16773,7 @@ Pub. L. 117–328, div. U, title I, § 162, Dec. 29, 2022, 136 Stat. 5430, pro
 
 **Geriatric Psychiatry Pilot Program at State Veterans Homes**
 
-Pub. L. 117–328, div. U, title I, § 163, Dec. 29, 2022, 136 Stat. 5430, provided that:
+Pub. L. 117–328, div. U, title I, § 163, Dec. 29, 2022, 136 Stat. 5430, provided that:
 
 > **“(a) In General.—** Not later than one year after the date of the enactment of this Act [Dec. 29, 2022], the Secretary of Veterans Affairs shall commence the conduct of a pilot program under which the Secretary shall provide geriatric psychiatry assistance to eligible veterans at State homes.
 
@@ -16801,7 +16801,7 @@ Pub. L. 117–328, div. U, title I, § 163, Dec. 29, 2022, 136 Stat. 5430, pro
 
 **Modification of State Home Program; Technical Support and Assistance**
 
-Pub. L. 116–315, title III, § 3004(d)–(f), Jan. 5, 2021, 134 Stat. 4992, 4993, provided that:
+Pub. L. 116–315, title III, § 3004(d)–(f), Jan. 5, 2021, 134 Stat. 4992, 4993, provided that:
 
 > **“(d) Additional Legislative or Administrative Action.—**
 
@@ -16829,7 +16829,7 @@ Pub. L. 116–315, title III, § 3004(d)–(f), Jan. 5, 2021, 134 Stat. 4992, 
 
 **Waiver of Requirements of Department of Veterans Affairs for Receipt of Per Diem Payments for Domiciliary Care at State Homes and Modification of Eligibility for Such Payments**
 
-Pub. L. 116–315, title III, § 3007, Jan. 5, 2021, 134 Stat. 4996, provided that:
+Pub. L. 116–315, title III, § 3007, Jan. 5, 2021, 134 Stat. 4996, provided that:
 
 > **“(a) Waiver of Requirements.—** Notwithstanding section 1741 of title 38, United States Code (as amended by subsection (b)), the Secretary of Veterans Affairs shall modify section 51.51(b) of title 38, Code of Federal Regulations (or successor regulations), to provide the Secretary the authority to waive the requirements under such section 51.51(b) for a veteran to be eligible for per diem payments for domiciliary care at a State home if—
 
@@ -16845,7 +16845,7 @@ Pub. L. 116–315, title III, § 3007, Jan. 5, 2021, 134 Stat. 4996, provided 
 
 **Treatment of State Homes During Public Health Emergency**
 
-Pub. L. 116–136, div. B, title X, § 20005, Mar. 27, 2020, 134 Stat. 586, provided that:
+Pub. L. 116–136, div. B, title X, § 20005, Mar. 27, 2020, 134 Stat. 586, provided that:
 
 > **“(a) Waiver of Occupancy Rate Requirements.—** During a public health emergency, occupancy rate requirements for State homes for purposes of receiving per diem payments set forth in section 51.40(c) of title 38, Code of Federal Regulations, or successor regulations, shall not apply.
 
@@ -16869,15 +16869,15 @@ Pub. L. 116–136, div. B, title X, § 20005, Mar. 27, 2020, 134 Stat. 586, pr
 
 **Payments to States for Nursing Home Care**
 
-Pub. L. 88–450, § 3(b), Aug. 19, 1964, 78 Stat. 501, provided that: “No payment shall be made to any State home solely by reason of the amendment made by this section [amending this section] on account of nursing home care furnished any veteran except where such care is furnished the veteran by the State home for the first time after the effective date of this section [Jan. 1, 1965].”
+Pub. L. 88–450, § 3(b), Aug. 19, 1964, 78 Stat. 501, provided that: “No payment shall be made to any State home solely by reason of the amendment made by this section [amending this section] on account of nursing home care furnished any veteran except where such care is furnished the veteran by the State home for the first time after the effective date of this section [Jan. 1, 1965].”
 
-### § 1742. Inspections of such homes; restrictions on beneficiaries
+### § 1742. Inspections of such homes; restrictions on beneficiaries
 
 **(a)** The Secretary may inspect any State home at such times as the Secretary deems necessary. No payment or grant may be made to any home under this subchapter unless such home is determined by the Secretary to meet such standards as the Secretary shall prescribe, which standards with respect to nursing home care shall be no less stringent than those prescribed pursuant to section 1720(b) of this title.
 
 **(b)** The Secretary may ascertain the number of persons on account of whom payments may be made under this subchapter on account of any State home, but shall have no authority over the management or control of any State home.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146, § 642; Pub. L. 94–581, title I, § 107(a), title II, § 210(a)(16), Oct. 21, 1976, 90 Stat. 2847, 2863; renumbered § 1742 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1146, § 642; Pub. L. 94–581, title I, § 107(a), title II, § 210(a)(16), Oct. 21, 1976, 90 Stat. 2847, 2863; renumbered § 1742 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
@@ -16887,13 +16887,13 @@ Prior section 1742 was renumbered section 3542 of this title.
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 642 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 642 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1720(b)” for “620(b)”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1720(b)” for “620(b)”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 1976—Subsec. (a). Pub. L. 94–581 substituted “as the Administrator deems necessary” for “as he deems necessary” in existing provisions and inserted provision that no payment or grant may be made to any home under this subchapter unless such home is determined by the Administrator to meet such standards as the Administrator shall prescribe, which standards with respect to nursing home care shall be no less stringent than those prescribed pursuant to section 620(b) of this title.
 
@@ -16903,11 +16903,11 @@ Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary”
 
 Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of this title.
 
-### § 1743. Applications
+### § 1743. Applications
 
 Payments on account of any veteran cared for in a State home shall be made under this subchapter only from the date the Secretary receives a request for determination of such veteran’s eligibility; however, if such request is received by the Secretary within ten days after care of such veteran begins, payments shall be made on account of such veteran from the date care began.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1147, § 643; Pub. L. 97–251, § 7, Sept. 8, 1982, 96 Stat. 716; renumbered § 1743 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1147, § 643; Pub. L. 97–251, § 7, Sept. 8, 1982, 96 Stat. 716; renumbered § 1743 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
@@ -16921,7 +16921,7 @@ Prior section 1743 was renumbered section 3543 of this title.
 
 1982—Pub. L. 97–251 struck out “of any war” after “Payments on account of any veteran”.
 
-### § 1744. Hiring and retention of nurses: payments to assist States
+### § 1744. Hiring and retention of nurses: payments to assist States
 
 **(a) Payment Program.—** The Secretary shall make payments to States under this section for the purpose of assisting State homes in the hiring and retention of nurses and the reduction of nursing shortages at State homes.
 
@@ -16951,15 +16951,15 @@ Prior section 1743 was renumbered section 3543 of this title.
 
 **(j) Regulations.—** The Secretary shall prescribe regulations to carry out this section. The regulations shall include the establishment of criteria for the award of payments under this section.
 
-(Added Pub. L. 108–422, title II, § 201(a)(1), Nov. 30, 2004, 118 Stat. 2380.)
+(Added Pub. L. 108–422, title II, § 201(a)(1), Nov. 30, 2004, 118 Stat. 2380.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Implementation**
 
-Pub. L. 108–422, title II, § 201(b), Nov. 30, 2004, 118 Stat. 2382, provided that: “The Secretary of Veterans Affairs shall implement section 1744 of title 38, United States Code, as added by subsection (a), as expeditiously as possible. The Secretary shall establish such interim procedures as necessary so as to ensure that payments are made to eligible States under that section commencing not later than June 1, 2005, notwithstanding that regulations under subsection (j) of that section may not have become final.”
+Pub. L. 108–422, title II, § 201(b), Nov. 30, 2004, 118 Stat. 2382, provided that: “The Secretary of Veterans Affairs shall implement section 1744 of title 38, United States Code, as added by subsection (a), as expeditiously as possible. The Secretary shall establish such interim procedures as necessary so as to ensure that payments are made to eligible States under that section commencing not later than June 1, 2005, notwithstanding that regulations under subsection (j) of that section may not have become final.”
 
-### § 1745. Nursing home care, adult day health care, and medications for veterans with service-connected disabilities
+### § 1745. Nursing home care, adult day health care, and medications for veterans with service-connected disabilities
 
 **(a)**
 
@@ -17031,45 +17031,45 @@ Pub. L. 108–422, title II, § 201(b), Nov. 30, 2004, 118 Stat. 2382, provide
 
 **(4)** In this subsection, the term “medical supervision model adult day health care” means adult day health care that includes the coordination of physician services, dental services, nursing services, the administration of drugs, and such other requirements as determined appropriate by the Secretary.
 
-(Added and amended Pub. L. 109–461, title II, § 211(a)(1), (2), (b)(1), Dec. 22, 2006, 120 Stat. 3418, 3419; Pub. L. 112–154, title I, § 105(a), Aug. 6, 2012, 126 Stat. 1170; Pub. L. 115–159, § 2(a), Mar. 27, 2018, 132 Stat. 1244; Pub. L. 115–182, title I, § 103(a), June 6, 2018, 132 Stat. 1408; Pub. L. 115–251, title II, § 211(a)(9), Sept. 29, 2018, 132 Stat. 3175; Pub. L. 117–328, div. U, title I, § 162(b), Dec. 29, 2022, 136 Stat. 5430.)
+(Added and amended Pub. L. 109–461, title II, § 211(a)(1), (2), (b)(1), Dec. 22, 2006, 120 Stat. 3418, 3419; Pub. L. 112–154, title I, § 105(a), Aug. 6, 2012, 126 Stat. 1170; Pub. L. 115–159, § 2(a), Mar. 27, 2018, 132 Stat. 1244; Pub. L. 115–182, title I, § 103(a), June 6, 2018, 132 Stat. 1408; Pub. L. 115–251, title II, § 211(a)(9), Sept. 29, 2018, 132 Stat. 3175; Pub. L. 117–328, div. U, title I, § 162(b), Dec. 29, 2022, 136 Stat. 5430.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (a)(4)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(4)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
 2022—Subsec. (b)(3). Pub. L. 117–328 added par. (3).
 
-2018—Pub. L. 115–159, § 2(a)(2), inserted “, adult day health care,” after “home care” in section catchline.
+2018—Pub. L. 115–159, § 2(a)(2), inserted “, adult day health care,” after “home care” in section catchline.
 
-Subsec. (a)(1). Pub. L. 115–182, § 103(a)(1), substituted “(or an agreement)” for “(or agreement under section 1720(c)(1) of this title)” in introductory provisions.
+Subsec. (a)(1). Pub. L. 115–182, § 103(a)(1), substituted “(or an agreement)” for “(or agreement under section 1720(c)(1) of this title)” in introductory provisions.
 
-Subsec. (a)(4). Pub. L. 115–182, § 103(a)(2), added par. (4).
+Subsec. (a)(4). Pub. L. 115–182, § 103(a)(2), added par. (4).
 
 Subsec. (a)(4)(B)(ii)(III). Pub. L. 115–251 substituted “this subchapter” for “subchapter V of chapter 17 of this title”.
 
-Subsec. (d). Pub. L. 115–159, § 2(a)(1), added subsec. (d).
+Subsec. (d). Pub. L. 115–159, § 2(a)(1), added subsec. (d).
 
-2012—Subsec. (a)(1). Pub. L. 112–154, § 105(a)(1), substituted in introductory provisions “The Secretary shall enter into a contract (or agreement under section 1720(c)(1) of this title) with each State home for payment by the Secretary for nursing home care provided in the home” for “The Secretary shall pay each State home for nursing home care at the rate determined under paragraph (2)”.
+2012—Subsec. (a)(1). Pub. L. 112–154, § 105(a)(1), substituted in introductory provisions “The Secretary shall enter into a contract (or agreement under section 1720(c)(1) of this title) with each State home for payment by the Secretary for nursing home care provided in the home” for “The Secretary shall pay each State home for nursing home care at the rate determined under paragraph (2)”.
 
-Subsec. (a)(2). Pub. L. 112–154, § 105(a)(2), added par. (2) and struck out former par. (2) which read as follows: “The rate determined under this paragraph with respect to a State home is the lesser of—
+Subsec. (a)(2). Pub. L. 112–154, § 105(a)(2), added par. (2) and struck out former par. (2) which read as follows: “The rate determined under this paragraph with respect to a State home is the lesser of—
 
 “(A) the applicable or prevailing rate payable in the geographic area in which the State home is located, as determined by the Secretary, for nursing home care furnished in a non-Department nursing home (as that term is defined in section 1720(e)(2) of this title); or
 
 “(B) a rate not to exceed the daily cost of care, as determined by the Secretary, following a report to the Secretary by the director of the State home.”
 
-2006—Subsec. (b). Pub. L. 109–461, § 211(a)(2), added subsec. (b).
+2006—Subsec. (b). Pub. L. 109–461, § 211(a)(2), added subsec. (b).
 
-Subsec. (c). Pub. L. 109–461, § 211(b)(1), added subsec. (c).
+Subsec. (c). Pub. L. 109–461, § 211(b)(1), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–182, title I, § 103(b), June 6, 2018, 132 Stat. 1409, provided that: “The amendment made by subsection (a) [amending this section] shall apply to care provided on or after the effective date of regulations issued by the Secretary of Veterans Affairs to carry out this section.” Final rule implementing section 103 of Pub. L. 115–182 effective Jan. 13, 2020, see 84 F.R. 67868.
+Pub. L. 115–182, title I, § 103(b), June 6, 2018, 132 Stat. 1409, provided that: “The amendment made by subsection (a) [amending this section] shall apply to care provided on or after the effective date of regulations issued by the Secretary of Veterans Affairs to carry out this section.” Final rule implementing section 103 of Pub. L. 115–182 effective Jan. 13, 2020, see 84 F.R. 67868.
 
 **Effective Date of 2012 Amendment**
 
@@ -17081,15 +17081,15 @@ Section and amendment by section 211(a)(2) of Pub. L. 109–461 effective 90 day
 
 **Initial Rate**
 
-Pub. L. 115–159, § 2(b), Mar. 27, 2018, 132 Stat. 1245, provided that: “Before the Secretary of Veterans Affairs establishes a payment rate under subsection (d)(2)(A) of section 1745 of such title [meaning title 38, United States Code], as added by subsection (a), the Secretary shall pay to a State home that has entered into an agreement with the Secretary for medical supervision model adult day health care (as defined in subsection (d)(4) of such section) an amount equal to 65 percent of the rate the Secretary would pay under subsection (a)(2) of such section to the State home for nursing home care provided to the veteran.”
+Pub. L. 115–159, § 2(b), Mar. 27, 2018, 132 Stat. 1245, provided that: “Before the Secretary of Veterans Affairs establishes a payment rate under subsection (d)(2)(A) of section 1745 of such title [meaning title 38, United States Code], as added by subsection (a), the Secretary shall pay to a State home that has entered into an agreement with the Secretary for medical supervision model adult day health care (as defined in subsection (d)(4) of such section) an amount equal to 65 percent of the rate the Secretary would pay under subsection (a)(2) of such section to the State home for nursing home care provided to the veteran.”
 
 ## SUBCHAPTER VI—SICKLE CELL ANEMIA
 
-### § 1751. Screening, counseling, and medical treatment
+### § 1751. Screening, counseling, and medical treatment
 
 The Secretary is authorized to carry out a comprehensive program of providing sickle cell anemia screening, counseling, treatment, and information under the provisions of this chapter.
 
-(Added Pub. L. 93–82, title I, § 109(a), Aug. 2, 1973, 87 Stat. 186, § 651; renumbered § 1751 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Added Pub. L. 93–82, title I, § 109(a), Aug. 2, 1973, 87 Stat. 186, § 651; renumbered § 1751 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
@@ -17103,11 +17103,11 @@ The Secretary is authorized to carry out a comprehensive program of providing si
 
 Section effective Sept. 1, 1973, see section 501 of Pub. L. 93–82, set out as an Effective Date of 1973 Amendment note under section 1701 of this title.
 
-### § 1752. Research
+### § 1752. Research
 
 The Secretary is authorized to carry out research and research training in the diagnosis, treatment, and control of sickle cell anemia based upon the screening examinations and treatment provided under this subchapter.
 
-(Added Pub. L. 93–82, title I, § 109(a), Aug. 2, 1973, 87 Stat. 186, § 652; renumbered § 1752 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Added Pub. L. 93–82, title I, § 109(a), Aug. 2, 1973, 87 Stat. 186, § 652; renumbered § 1752 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
@@ -17121,13 +17121,13 @@ The Secretary is authorized to carry out research and research training in the d
 
 Section effective Sept. 1, 1973, see section 501 of Pub. L. 93–82, set out as an Effective Date of 1973 Amendment note under section 1701 of this title.
 
-### § 1753. Voluntary participation; confidentiality
+### § 1753. Voluntary participation; confidentiality
 
 **(a)** The participation by any person in any program or portion thereof under this subchapter shall be wholly voluntary and shall not be a prerequisite to eligibility for or receipt of any other service or assistance from, or to participation in, any other program under this title.
 
 **(b)** Patient records prepared or obtained under this subchapter shall be held confidential in the same manner and under the same conditions prescribed in section 7332 of this title.
 
-(Added Pub. L. 93–82, title I, § 109(a), Aug. 2, 1973, 87 Stat. 187, § 653; amended Pub. L. 94–581, title I, § 111(b), Oct. 21, 1976, 90 Stat. 2852; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 1753, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 93–82, title I, § 109(a), Aug. 2, 1973, 87 Stat. 187, § 653; amended Pub. L. 94–581, title I, § 111(b), Oct. 21, 1976, 90 Stat. 2852; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 1753, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -17149,21 +17149,21 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 Section effective Sept. 1, 1973, see section 501 of Pub. L. 93–82, set out as an Effective Date of 1973 Amendment note under section 1701 of this title.
 
-### § 1754. Reports
+### § 1754. Reports
 
 The Secretary shall include in the annual report to the Congress required by section 529 of this title a comprehensive report on the administration of this subchapter, including such recommendations for additional legislation as the Secretary deems necessary.
 
-(Added Pub. L. 93–82, title I, § 109(a), Aug. 2, 1973, 87 Stat. 187, § 654; renumbered § 1754 and amended Pub. L. 102–83, §§ 2(c)(3), 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 402, 404–406.)
+(Added Pub. L. 93–82, title I, § 109(a), Aug. 2, 1973, 87 Stat. 187, § 654; renumbered § 1754 and amended Pub. L. 102–83, §§ 2(c)(3), 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 402, 404–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 654 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 654 of this title as this section.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–83, § 2(c)(3), substituted “section 529” for “section 214”.
+Pub. L. 102–83, § 2(c)(3), substituted “section 529” for “section 214”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -17171,43 +17171,43 @@ Pub. L. 102–83, § 2(c)(3), substituted “section 529” for “section 214
 
 Section effective Sept. 1, 1973, see section 501 of Pub. L. 93–82, set out as an Effective Date of 1973 Amendment note under section 1701 of this title.
 
-### [§§ 1761 to 1764. Repealed. Pub. L. 102–585, title V, § 514(a), Nov. 4, 1992, 106 Stat. 4958]
+### [§§ 1761 to 1764. Repealed. Pub. L. 102–585, title V, § 514(a), Nov. 4, 1992, 106 Stat. 4958]
 
-Section 1761, added Pub. L. 96–22, title I, § 105(a), June 13, 1979, 93 Stat. 52, § 661; amended Pub. L. 98–160, title I, § 106(b), Nov. 21, 1983, 97 Stat. 998; renumbered § 1761, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406, related to purpose of this subchapter, which established a preventive health-care services pilot program.
+Section 1761, added Pub. L. 96–22, title I, § 105(a), June 13, 1979, 93 Stat. 52, § 661; amended Pub. L. 98–160, title I, § 106(b), Nov. 21, 1983, 97 Stat. 998; renumbered § 1761, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406, related to purpose of this subchapter, which established a preventive health-care services pilot program.
 
 Prior section 1761 was renumbered section 3561 of this title.
 
-Section 1762, added Pub. L. 96–22, title I, § 105(a), June 13, 1979, 93 Stat. 52, § 662; renumbered § 1762 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title V, § 513(a), Nov. 4, 1992, 106 Stat. 4958, defined the term “preventive health-care services” for purposes of this subchapter. Section 1762 of this title was transferred to section 1701(9) of this title by Pub. L. 102–585.
+Section 1762, added Pub. L. 96–22, title I, § 105(a), June 13, 1979, 93 Stat. 52, § 662; renumbered § 1762 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title V, § 513(a), Nov. 4, 1992, 106 Stat. 4958, defined the term “preventive health-care services” for purposes of this subchapter. Section 1762 of this title was transferred to section 1701(9) of this title by Pub. L. 102–585.
 
 Prior section 1762 was renumbered section 3562 of this title.
 
-Section 1763, added Pub. L. 96–22, title I, § 105(a), June 13, 1979, 93 Stat. 52, § 663; amended Pub. L. 96–128, title V, § 501(d), Nov. 28, 1979, 93 Stat. 987; Pub. L. 98–160, title I, § 106(c), Nov. 21, 1983, 97 Stat. 998; Pub. L. 99–272, title XIX, § 19011(d)(6), Apr. 7, 1986, 100 Stat. 379; renumbered § 1763 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406, related to provision of preventive health-care services under this subchapter.
+Section 1763, added Pub. L. 96–22, title I, § 105(a), June 13, 1979, 93 Stat. 52, § 663; amended Pub. L. 96–128, title V, § 501(d), Nov. 28, 1979, 93 Stat. 987; Pub. L. 98–160, title I, § 106(c), Nov. 21, 1983, 97 Stat. 998; Pub. L. 99–272, title XIX, § 19011(d)(6), Apr. 7, 1986, 100 Stat. 379; renumbered § 1763 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406, related to provision of preventive health-care services under this subchapter.
 
 Prior section 1763 was renumbered section 3563 of this title.
 
-Another prior section 1763, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1201, provided for control by agencies of the United States, prior to repeal by Pub. L. 89–358, § 3(a)(3), Mar. 3, 1966, 80 Stat. 20. See section 3682 of this title.
+Another prior section 1763, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1201, provided for control by agencies of the United States, prior to repeal by Pub. L. 89–358, § 3(a)(3), Mar. 3, 1966, 80 Stat. 20. See section 3682 of this title.
 
-Section 1764, added Pub. L. 96–22, title I, § 105(a), June 13, 1979, 93 Stat. 53, § 664; amended Pub. L. 98–160, title I, § 106(d), Nov. 21, 1983, 97 Stat. 999; renumbered § 1764 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406, directed Secretary to include comprehensive reports on administration of this subchapter in annual reports to Congress for fiscal years 1984 through 1988.
+Section 1764, added Pub. L. 96–22, title I, § 105(a), June 13, 1979, 93 Stat. 53, § 664; amended Pub. L. 98–160, title I, § 106(d), Nov. 21, 1983, 97 Stat. 999; renumbered § 1764 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406, directed Secretary to include comprehensive reports on administration of this subchapter in annual reports to Congress for fiscal years 1984 through 1988.
 
-Prior section 1764, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1201, provided for dismissal for conflict of interest, prior to repeal by Pub. L. 89–358, §§ 3(a)(3), 12(a), Mar. 3, 1966, 80 Stat. 20, 28, effective Mar. 3, 1966. See section 3683 of this title.
+Prior section 1764, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1201, provided for dismissal for conflict of interest, prior to repeal by Pub. L. 89–358, §§ 3(a)(3), 12(a), Mar. 3, 1966, 80 Stat. 20, 28, effective Mar. 3, 1966. See section 3683 of this title.
 
 Prior section 1765 was renumbered section 3565 of this title.
 
-Another prior section 1765, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1202, provided for reports by institutions, prior to repeal by Pub. L. 89–358, § 3(a)(3), Mar. 3, 1966, 80 Stat. 20. See section 3684 of this title.
+Another prior section 1765, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1202, provided for reports by institutions, prior to repeal by Pub. L. 89–358, § 3(a)(3), Mar. 3, 1966, 80 Stat. 20. See section 3684 of this title.
 
 Prior section 1766 was renumbered section 3566 of this title.
 
-Another prior section 1766, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1202, related to overpayments to eligible persons, prior to repeal by Pub. L. 89–358, § 3(a)(3), Mar. 3, 1966, 80 Stat. 20. See section 3685 of this title.
+Another prior section 1766, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1202, related to overpayments to eligible persons, prior to repeal by Pub. L. 89–358, § 3(a)(3), Mar. 3, 1966, 80 Stat. 20. See section 3685 of this title.
 
-Prior section 1767, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1202, related to examination of records, prior to repeal by Pub. L. 89–358, § 3(a)(3), Mar. 3, 1966, 80 Stat. 20.
+Prior section 1767, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1202, related to examination of records, prior to repeal by Pub. L. 89–358, § 3(a)(3), Mar. 3, 1966, 80 Stat. 20.
 
-Prior section 1768, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1202, related to false or misleading statements, prior to repeal by Pub. L. 89–358, § 3(a)(3), Mar. 3, 1966, 80 Stat. 20.
+Prior section 1768, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1202, related to false or misleading statements, prior to repeal by Pub. L. 89–358, § 3(a)(3), Mar. 3, 1966, 80 Stat. 20.
 
 A prior section 1770 was renumbered section 3670 of this title.
 
 ## [SUBCHAPTER VII—TRANSFERRED]
 
-### [§§ 1771 to 1774. Renumbered §§ 2031 to 2034]
+### [§§ 1771 to 1774. Renumbered §§ 2031 to 2034]
 
 **Editorial Notes**
 
@@ -17215,7 +17215,7 @@ A prior section 1770 was renumbered section 3670 of this title.
 
 Former subchapter VII of chapter 17, which consisted of sections 1771 to 1774, was renumbered subchapter IV of chapter 20 of this title and transferred to follow section 2023 of this title, and sections 1771 to 1774 were renumbered sections 2031 to 2034 of this title, respectively.
 
-A prior subchapter VII of this chapter, consisting of sections 1761 to 1764 of this title, related to preventive health care services pilot program, prior to repeal by Pub. L. 102–585, title V, § 514(a), Nov. 4, 1992, 106 Stat. 4958.
+A prior subchapter VII of this chapter, consisting of sections 1761 to 1764 of this title, related to preventive health care services pilot program, prior to repeal by Pub. L. 102–585, title V, § 514(a), Nov. 4, 1992, 106 Stat. 4958.
 
 Other prior sections 1771 to 1774 were renumbered sections 3671 to 3674 of this title, respectively.
 
@@ -17231,7 +17231,7 @@ Prior sections 1779 and 1780 were renumbered sections 3679 and 3680 of this titl
 
 ## SUBCHAPTER VIII—HEALTH CARE OF PERSONS OTHER THAN VETERANS
 
-### § 1781. Medical care for survivors and dependents of certain veterans
+### § 1781. Medical care for survivors and dependents of certain veterans
 
 **(a)** The Secretary is authorized to provide medical care, in accordance with the provisions of subsection (b) of this section, for—
 
@@ -17283,13 +17283,13 @@ In cases in which Department medical facilities are equipped to provide the care
 
 **(e)** Payment by the Secretary under this section on behalf of a covered beneficiary for medical care shall constitute payment in full and extinguish any liability on the part of the beneficiary for that care.
 
-(Added Pub. L. 93–82, title I, § 103(b), Aug. 2, 1973, 87 Stat. 181, § 613; amended Pub. L. 94–581, title I, § 104, title II, § 210(a)(4), Oct. 21, 1976, 90 Stat. 2845, 2862; Pub. L. 96–151, title II, § 205(a), Dec. 20, 1979, 93 Stat. 1094; Pub. L. 97–72, title I, § 105, Nov. 3, 1981, 95 Stat. 1050; Pub. L. 97–251, § 5(a), Sept. 8, 1982, 96 Stat. 716; renumbered § 1713 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(B), (E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–190, div. A, title VII, § 704(b)(2), Dec. 5, 1991, 105 Stat. 1402; Pub. L. 107–14, § 3, June 5, 2001, 115 Stat. 25; renumbered § 1781 and amended Pub. L. 107–135, title II, § 208(c), Jan. 23, 2002, 115 Stat. 2463; Pub. L. 107–330, title III, § 308(g)(8), Dec. 6, 2002, 116 Stat. 2829; Pub. L. 111–163, title I, § 102, title V, § 503, May 5, 2010, 124 Stat. 1139, 1157; Pub. L. 114–58, title VI, § 601(7), Sept. 30, 2015, 129 Stat. 538; Pub. L. 116–283, div. A, title IX, § 926(a)(30), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 117–328, div. U, title I, § 142(c)(4), Dec. 29, 2022, 136 Stat. 5424.)
+(Added Pub. L. 93–82, title I, § 103(b), Aug. 2, 1973, 87 Stat. 181, § 613; amended Pub. L. 94–581, title I, § 104, title II, § 210(a)(4), Oct. 21, 1976, 90 Stat. 2845, 2862; Pub. L. 96–151, title II, § 205(a), Dec. 20, 1979, 93 Stat. 1094; Pub. L. 97–72, title I, § 105, Nov. 3, 1981, 95 Stat. 1050; Pub. L. 97–251, § 5(a), Sept. 8, 1982, 96 Stat. 716; renumbered § 1713 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(B), (E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–190, div. A, title VII, § 704(b)(2), Dec. 5, 1991, 105 Stat. 1402; Pub. L. 107–14, § 3, June 5, 2001, 115 Stat. 25; renumbered § 1781 and amended Pub. L. 107–135, title II, § 208(c), Jan. 23, 2002, 115 Stat. 2463; Pub. L. 107–330, title III, § 308(g)(8), Dec. 6, 2002, 116 Stat. 2829; Pub. L. 111–163, title I, § 102, title V, § 503, May 5, 2010, 124 Stat. 1139, 1157; Pub. L. 114–58, title VI, § 601(7), Sept. 30, 2015, 129 Stat. 538; Pub. L. 116–283, div. A, title IX, § 926(a)(30), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 117–328, div. U, title I, § 142(c)(4), Dec. 29, 2022, 136 Stat. 5424.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (d)(4)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(4)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Prior Provisions**
 
@@ -17303,29 +17303,29 @@ A prior section 1781 was renumbered section 3681 of this title.
 
 2015—Subsec. (a)(4). Pub. L. 114–58 substituted “title),” for “title);”.
 
-2010—Subsec. (a)(4). Pub. L. 111–163, § 102, added par. (4).
+2010—Subsec. (a)(4). Pub. L. 111–163, § 102, added par. (4).
 
-Subsec. (e). Pub. L. 111–163, § 503, added subsec. (e).
+Subsec. (e). Pub. L. 111–163, § 503, added subsec. (e).
 
-2002—Pub. L. 107–135, § 208(c)(1), (2), renumbered section 1713 of this title as this section.
+2002—Pub. L. 107–135, § 208(c)(1), (2), renumbered section 1713 of this title as this section.
 
-Subsec. (b). Pub. L. 107–135, § 208(c)(3), inserted at end “A dependent or survivor receiving care under the preceding sentence shall be eligible for the same medical services as a veteran, including services under sections 1782 and 1783 of this title.”
+Subsec. (b). Pub. L. 107–135, § 208(c)(3), inserted at end “A dependent or survivor receiving care under the preceding sentence shall be eligible for the same medical services as a veteran, including services under sections 1782 and 1783 of this title.”
 
-Subsec. (d)(1)(B)(i). Pub. L. 107–330, § 308(g)(8)(A), substituted “as of June 5, 2001” for “as of the date of the enactment of the Veterans’ Survivor Benefits Improvements Act of 2001”.
+Subsec. (d)(1)(B)(i). Pub. L. 107–330, § 308(g)(8)(A), substituted “as of June 5, 2001” for “as of the date of the enactment of the Veterans’ Survivor Benefits Improvements Act of 2001”.
 
-Subsec. (d)(4). Pub. L. 107–330, § 308(g)(8)(B), substituted “subsection” for “paragraph” in introductory provisions.
+Subsec. (d)(4). Pub. L. 107–330, § 308(g)(8)(B), substituted “subsection” for “paragraph” in introductory provisions.
 
 2001—Subsec. (d). Pub. L. 107–14 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Notwithstanding section 1086(d)(1) of title 10 or any other provision of law, any spouse, surviving spouse, or child who, after losing eligibility for medical care under this section by virtue of becoming entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.), has exhausted any such benefits shall become eligible for medical care under this section and shall not thereafter lose such eligibility under this section by virtue of becoming again eligible for such hospital insurance benefits.”
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 613 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 613 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(2)(B), substituted “that Secretary” for second and third references to “the Secretary” and “the Secretary of Defense” for last reference to “the Secretary” in par. (1).
+Subsec. (b). Pub. L. 102–83, § 4(b)(2)(B), substituted “that Secretary” for second and third references to “the Secretary” and “the Secretary of Defense” for last reference to “the Secretary” in par. (1).
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing in introductory and concluding provisions and in par. (2).
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing in introductory and concluding provisions and in par. (2).
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in concluding provisions.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in concluding provisions.
 
 Subsec. (d). Pub. L. 102–190 substituted “section 1086(d)(1)” for “the second sentence of section 1086(c)”.
 
@@ -17333,25 +17333,25 @@ Subsec. (d). Pub. L. 102–190 substituted “section 1086(d)(1)” for “the s
 
 1981—Subsec. (b). Pub. L. 97–72 substituted “equipped to provide the care and treatment” for “particularly equipped to provide the most effective care and treatment” in provisions following par. (2).
 
-1979—Subsec. (a). Pub. L. 96–151, § 205(a)(1), in cl. (1) substituted reference to spouse for reference to wife, in cl. (2) substituted reference to surviving spouse for reference to widow, and added cl. (3).
+1979—Subsec. (a). Pub. L. 96–151, § 205(a)(1), in cl. (1) substituted reference to spouse for reference to wife, in cl. (2) substituted reference to surviving spouse for reference to widow, and added cl. (3).
 
-Subsec. (c). Pub. L. 96–151, § 205(a)(2), added subsec. (c).
+Subsec. (c). Pub. L. 96–151, § 205(a)(2), added subsec. (c).
 
-1976—Subsec. (a)(2). Pub. L. 94–581, § 104, designated existing provisions as cl. (A) and added cl. (B).
+1976—Subsec. (a)(2). Pub. L. 94–581, § 104, designated existing provisions as cl. (A) and added cl. (B).
 
-Subsec. (b)(1). Pub. L. 94–581, § 210(a)(4)(A), substituted “the Secretary enters” for “he enters”.
+Subsec. (b)(1). Pub. L. 94–581, § 210(a)(4)(A), substituted “the Secretary enters” for “he enters”.
 
-Subsec. (b)(2). Pub. L. 94–581, § 210(a)(4)(B), substituted “the Administrator” for “he” in two places.
+Subsec. (b)(2). Pub. L. 94–581, § 210(a)(4)(B), substituted “the Administrator” for “he” in two places.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–251, § 5(b), Sept. 8, 1982, 96 Stat. 716, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1982.”
+Pub. L. 97–251, § 5(b), Sept. 8, 1982, 96 Stat. 716, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1982.”
 
 **Effective Date of 1979 Amendment**
 
-Pub. L. 96–151, title II, § 205(b), Dec. 20, 1979, 93 Stat. 1095, provided that: “The amendments made by subsection (a) [amending this section] shall take effect with respect to fiscal year 1980 only to such extent and for such amounts as may be specifically provided for such purpose in appropriation Acts.”
+Pub. L. 96–151, title II, § 205(b), Dec. 20, 1979, 93 Stat. 1095, provided that: “The amendments made by subsection (a) [amending this section] shall take effect with respect to fiscal year 1980 only to such extent and for such amounts as may be specifically provided for such purpose in appropriation Acts.”
 
 **Effective Date of 1976 Amendment**
 
@@ -17361,7 +17361,7 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 Section effective Sept. 1, 1973, see section 501 of Pub. L. 93–82, set out as an Effective Date of 1973 Amendment note under section 1701 of this title.
 
-### § 1782. Counseling, training, and mental health services for immediate family members and caregivers
+### § 1782. Counseling, training, and mental health services for immediate family members and caregivers
 
 **(a) Counseling for Family Members of Veterans Receiving Service-Connected Treatment.—** In the case of a veteran who is receiving treatment for a service-connected disability pursuant to paragraph (1) or (2) of section 1710(a) of this title, the Secretary shall provide to individuals described in subsection (c) such consultation, professional counseling, marriage and family counseling, training, and mental health services as are necessary in connection with that treatment.
 
@@ -17381,7 +17381,7 @@ Section effective Sept. 1, 1973, see section 501 of Pub. L. 93–82, set out as 
 
 **(2)** A dependent or survivor receiving care under the last sentence of section 1783(b) of this title.
 
-(Added Pub. L. 107–135, title II, § 208(b), Jan. 23, 2002, 115 Stat. 2462; amended Pub. L. 110–387, title III, § 301(a)(2), Oct. 10, 2008, 122 Stat. 4120; Pub. L. 111–163, title I, § 103(a), (b), May 5, 2010, 124 Stat. 1139, 1140.)
+(Added Pub. L. 107–135, title II, § 208(b), Jan. 23, 2002, 115 Stat. 2462; amended Pub. L. 110–387, title III, § 301(a)(2), Oct. 10, 2008, 122 Stat. 4120; Pub. L. 111–163, title I, § 103(a), (b), May 5, 2010, 124 Stat. 1139, 1140.)
 
 **Editorial Notes**
 
@@ -17391,19 +17391,19 @@ A prior section 1782 was renumbered section 3682 of this title.
 
 **Amendments**
 
-2010—Pub. L. 111–163, § 103(b), inserted “and caregivers” after “members” in section catchline.
+2010—Pub. L. 111–163, § 103(b), inserted “and caregivers” after “members” in section catchline.
 
-Subsec. (c)(2), (3). Pub. L. 111–163, § 103(a), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (c)(2), (3). Pub. L. 111–163, § 103(a), added par. (2) and redesignated former par. (2) as (3).
 
-2008—Subsec. (a). Pub. L. 110–387, § 301(a)(2)(A), inserted “marriage and family counseling,” after “professional counseling,”.
+2008—Subsec. (a). Pub. L. 110–387, § 301(a)(2)(A), inserted “marriage and family counseling,” after “professional counseling,”.
 
-Subsec. (b). Pub. L. 110–387, § 301(a)(2)(B), inserted “marriage and family counseling,” after “professional counseling,” and substituted period at end for “if—
+Subsec. (b). Pub. L. 110–387, § 301(a)(2)(B), inserted “marriage and family counseling,” after “professional counseling,” and substituted period at end for “if—
 
 “(1) those services were initiated during the veteran’s hospitalization; and
 
 “(2) the continued provision of those services on an outpatient basis is essential to permit the discharge of the veteran from the hospital.”
 
-### § 1783. Bereavement counseling
+### § 1783. Bereavement counseling
 
 **(a) Deaths of Veterans.—** In the case of an individual who was a recipient of services under section 1782 of this title at the time of the death of the veteran, the Secretary may provide bereavement counseling to that individual in the case of a death—
 
@@ -17421,7 +17421,7 @@ Subsec. (b). Pub. L. 110–387, § 301(a)(2)(B), inserted “marriage and fami
 
 **(d) Bereavement Counseling Defined.—** For purposes of this section, the term “bereavement counseling” means such counseling services, for a limited period, as the Secretary determines to be reasonable and necessary to assist an individual with the emotional and psychological stress accompanying the death of another individual.
 
-(Added Pub. L. 107–135, title II, § 208(b), Jan. 23, 2002, 115 Stat. 2463; amended Pub. L. 109–461, title II, § 216, Dec. 22, 2006, 120 Stat. 3424; Pub. L. 116–283, div. A, title IX, § 926(a)(31), Jan. 1, 2021, 134 Stat. 3830.)
+(Added Pub. L. 107–135, title II, § 208(b), Jan. 23, 2002, 115 Stat. 2463; amended Pub. L. 109–461, title II, § 216, Dec. 22, 2006, 120 Stat. 3424; Pub. L. 116–283, div. A, title IX, § 926(a)(31), Jan. 1, 2021, 134 Stat. 3830.)
 
 **Editorial Notes**
 
@@ -17433,15 +17433,15 @@ A prior section 1783 was renumbered section 3683 of this title.
 
 2021—Subsec. (b)(1). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
-2006—Subsec. (b). Pub. L. 109–461, § 216(a), designated existing provisions as par. (1) and added par. (2).
+2006—Subsec. (b). Pub. L. 109–461, § 216(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsecs. (c), (d). Pub. L. 109–461, § 216(b), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 109–461, § 216(b), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-### § 1784. Humanitarian care
+### § 1784. Humanitarian care
 
 The Secretary may furnish hospital care or medical services as a humanitarian service in emergency cases, but the Secretary shall charge for such care and services at rates prescribed by the Secretary.
 
-(Added Pub. L. 107–135, title II, § 208(b), Jan. 23, 2002, 115 Stat. 2463.)
+(Added Pub. L. 107–135, title II, § 208(b), Jan. 23, 2002, 115 Stat. 2463.)
 
 **Editorial Notes**
 
@@ -17449,7 +17449,7 @@ The Secretary may furnish hospital care or medical services as a humanitarian se
 
 Prior section 1784 was renumbered section 3684 of this title.
 
-### § 1784A. Examination and treatment for emergency medical conditions and women in labor
+### § 1784A. Examination and treatment for emergency medical conditions and women in labor
 
 **(a) In General.—** In the case of a hospital of the Department that has an emergency department, if any individual comes to the hospital or the campus of the hospital and a request is made on behalf of the individual for examination or treatment for a medical condition, the hospital must provide for an appropriate medical screening examination within the capability of the emergency department, including ancillary services routinely available to the emergency department, to determine whether or not an emergency medical condition exists.
 
@@ -17555,9 +17555,9 @@ Prior section 1784 was renumbered section 3684 of this title.
 
 **(B)** leaves the facility without the permission of any such person.
 
-(Added Pub. L. 114–315, title VI, § 606(a), Dec. 16, 2016, 130 Stat. 1572.)
+(Added Pub. L. 114–315, title VI, § 606(a), Dec. 16, 2016, 130 Stat. 1572.)
 
-### § 1785. Care and services during certain disasters and emergencies
+### § 1785. Care and services during certain disasters and emergencies
 
 **(a) Authority To Provide Hospital Care and Medical Services.—** During and immediately following a disaster or emergency referred to in subsection (b), the Secretary may furnish hospital care and medical services to individuals responding to, involved in, or otherwise affected by that disaster or emergency.
 
@@ -17565,9 +17565,9 @@ Prior section 1784 was renumbered section 3684 of this title.
 
 **(1)** A major disaster or emergency declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
 
-**(2)** A disaster or emergency in which the National Disaster Medical System established pursuant to section 2812 of the Public Health Service Act (42 U.S.C. 300hh) 1
+**(2)** A disaster or emergency in which the National Disaster Medical System established pursuant to section 2812 of the Public Health Service Act (42 U.S.C. 300hh) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 is activated by the Secretary of Health and Human Services under that section or as otherwise authorized by law.
 
@@ -17583,13 +17583,13 @@ is activated by the Secretary of Health and Human Services under that section or
 
 **(f) Regulations.—** The Secretary shall prescribe regulations governing the exercise of the authority of the Secretary under this section.
 
-(Added Pub. L. 107–287, § 4(a)(1), Nov. 7, 2002, 116 Stat. 2028; amended Pub. L. 109–444, § 8(a)(2), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§ 1004(a)(2), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468; Pub. L. 111–275, title X, § 1001(c)(2), Oct. 13, 2010, 124 Stat. 2896.)
+(Added Pub. L. 107–287, § 4(a)(1), Nov. 7, 2002, 116 Stat. 2028; amended Pub. L. 109–444, § 8(a)(2), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§ 1004(a)(2), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468; Pub. L. 111–275, title X, § 1001(c)(2), Oct. 13, 2010, 124 Stat. 2896.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 Section 2812 of the Public Health Service Act, referred to in subsec. (b)(2), is classified to section 300hh–11 of Title 42, The Public Health and Welfare.
 
@@ -17601,11 +17601,11 @@ A prior section 1785 was renumbered section 3685 of this title.
 
 2010—Subsec. (b)(2). Pub. L. 111–275 substituted “section 2812 of the Public Health Service Act (42 U.S.C. 300hh)” for “section 2811(b) of the Public Health Service Act (42 U.S.C. 300hh–11(b))” and struck out “paragraph (3)(A) of” before “that section”.
 
-2006—Subsec. (b)(1). Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+2006—Subsec. (b)(1). Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
-Pub. L. 109–461, § 1004(a)(2), substituted “Robert T.” for “Robert B.”.
+Pub. L. 109–461, § 1004(a)(2), substituted “Robert T.” for “Robert B.”.
 
-Pub. L. 109–444, which substituted “Robert T.” for “Robert B.”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, which substituted “Robert T.” for “Robert B.”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -17615,7 +17615,7 @@ For transfer of functions, personnel, assets, and liabilities of the National Di
 
 For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness [now Assistant Secretary for Preparedness and Response] relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(5) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 1786. Care for newborn children of women veterans receiving maternity care
+### § 1786. Care for newborn children of women veterans receiving maternity care
 
 **(a) In General.—** Except as provided in subsection (c), the Secretary may furnish health care services described in subsection (b) and transportation necessary to receive such services to a newborn child of a woman veteran who is receiving maternity care furnished by the Department for not more than seven days after the birth of the child if the veteran delivered the child in—
 
@@ -17653,7 +17653,7 @@ For transfer of functions, personnel, assets, and liabilities of the National Di
 
 **(3)** In this subsection, the term “covered entity” means any individual, transportation carrier, organization, or other entity that furnished or paid for health care services or transportation under this section.
 
-(Added Pub. L. 111–163, title II, § 206(a), May 5, 2010, 124 Stat. 1145; amended Pub. L. 116–283, div. H, title XCI, § 9102, Jan. 1, 2021, 134 Stat. 4781; Pub. L. 116–315, title III, § 3006(a), Jan. 5, 2021, 134 Stat. 4994.)
+(Added Pub. L. 111–163, title II, § 206(a), May 5, 2010, 124 Stat. 1145; amended Pub. L. 116–283, div. H, title XCI, § 9102, Jan. 1, 2021, 134 Stat. 4781; Pub. L. 116–315, title III, § 3006(a), Jan. 5, 2021, 134 Stat. 4994.)
 
 **Editorial Notes**
 
@@ -17661,27 +17661,27 @@ For transfer of functions, personnel, assets, and liabilities of the National Di
 
 A prior section 1786 was renumbered section 3686 of this title.
 
-Another prior section 1786, added Pub. L. 89–358, § 3(b), Mar. 3, 1966, 80 Stat. 23, related to the examination of records, prior to repeal by section 316(1) of Pub. L. 92–540. See section 3690 of this title.
+Another prior section 1786, added Pub. L. 89–358, § 3(b), Mar. 3, 1966, 80 Stat. 23, related to the examination of records, prior to repeal by section 316(1) of Pub. L. 92–540. See section 3690 of this title.
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 116–315, § 3006(a)(1)(A), inserted “and transportation necessary to receive such services” after “described in subsection (b)” in introductory provisions.
+2021—Subsec. (a). Pub. L. 116–315, § 3006(a)(1)(A), inserted “and transportation necessary to receive such services” after “described in subsection (b)” in introductory provisions.
 
-Pub. L. 116–283, § 9102(1), substituted “Except as provided in subsection (c), the Secretary” for “The Secretary” in introductory provisions.
+Pub. L. 116–283, § 9102(1), substituted “Except as provided in subsection (c), the Secretary” for “The Secretary” in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 116–315, § 3006(a)(1)(B)–(D), added par. (3).
+Subsec. (a)(3). Pub. L. 116–315, § 3006(a)(1)(B)–(D), added par. (3).
 
-Subsec. (b). Pub. L. 116–315, § 3006(a)(2), inserted before period at end “, including necessary health care services provided by a facility other than the facility where the newborn child was delivered (including a specialty pediatric hospital) that accepts transfer of the newborn child and responsibility for treatment of the newborn child”.
+Subsec. (b). Pub. L. 116–315, § 3006(a)(2), inserted before period at end “, including necessary health care services provided by a facility other than the facility where the newborn child was delivered (including a specialty pediatric hospital) that accepts transfer of the newborn child and responsibility for treatment of the newborn child”.
 
-Subsec. (c). Pub. L. 116–283, § 9102(2), added subsec. (c).
+Subsec. (c). Pub. L. 116–283, § 9102(2), added subsec. (c).
 
-Subsecs. (d), (e). Pub. L. 116–315, § 3006(a)(3), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 116–315, § 3006(a)(3), added subsecs. (d) and (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Treatment of Certain Expenses Already Incurred**
 
-Pub. L. 116–315, title III, § 3006(b), Jan. 5, 2021, 134 Stat. 4995, provided that:
+Pub. L. 116–315, title III, § 3006(b), Jan. 5, 2021, 134 Stat. 4995, provided that:
 
 > **“(1) In general.—** Pursuant to such regulations as the Secretary of Veterans Affairs shall prescribe, with respect to transportation furnished in order for a newborn child of a veteran to receive health care services under section 1786 of title 38, United States Code, during the period specified in paragraph (2), the Secretary may—
 
@@ -17695,7 +17695,7 @@ Pub. L. 116–315, title III, § 3006(b), Jan. 5, 2021, 134 Stat. 4995, provid
 
 > **“(3) Covered entity defined.—** In this subsection, the term ‘covered entity’ has the meaning given that term in section 1786(e)(3) of title 38, United States Code, as added by subsection (a).”
 
-### § 1787. Health care of family members of veterans stationed at Camp Lejeune, North Carolina
+### § 1787. Health care of family members of veterans stationed at Camp Lejeune, North Carolina
 
 **(a) In General.—** Subject to subsection (b), a family member of a veteran described in subparagraph (F) of section 1710(e)(1) of this title who resided at Camp Lejeune, North Carolina, for not fewer than 30 days during the period described in such subparagraph or who was in utero during such period while the mother of such family member resided at such location shall be eligible for hospital care and medical services furnished by the Secretary for any of the illnesses or conditions described in such subparagraph, notwithstanding that there is insufficient medical evidence to conclude that such illnesses or conditions are attributable to such residence.
 
@@ -17707,7 +17707,7 @@ Pub. L. 116–315, title III, § 3006(b), Jan. 5, 2021, 134 Stat. 4995, provid
 
 **(3)** The Secretary may provide reimbursement for hospital care or medical services provided to a family member under this section only after the family member or the provider of such care or services has exhausted without success all claims and remedies reasonably available to the family member or provider against a third party (as defined in section 1725(h) of this title) for payment of such care or services, including with respect to health-plan contracts (as defined in such section).
 
-(Added Pub. L. 112–154, title I, § 102(b)(1), Aug. 6, 2012, 126 Stat. 1168; amended Pub. L. 117–328, div. U, title I, § 142(c)(5), Dec. 29, 2022, 136 Stat. 5424.)
+(Added Pub. L. 112–154, title I, § 102(b)(1), Aug. 6, 2012, 126 Stat. 1168; amended Pub. L. 117–328, div. U, title I, § 142(c)(5), Dec. 29, 2022, 136 Stat. 5424.)
 
 **Editorial Notes**
 
@@ -17715,7 +17715,7 @@ Pub. L. 116–315, title III, § 3006(b), Jan. 5, 2021, 134 Stat. 4995, provid
 
 Prior section 1787 was renumbered section 3687 of this title.
 
-Another prior section 1787, added Pub. L. 89–358, § 3(b), Mar. 3, 1966, 80 Stat. 23, related to the submission of false or misleading statements by educational institutions, persons or veterans, prior to repeal by section 316(1) of Pub. L. 92–540. See section 3690 of this title.
+Another prior section 1787, added Pub. L. 89–358, § 3(b), Mar. 3, 1966, 80 Stat. 23, related to the submission of false or misleading statements by educational institutions, persons or veterans, prior to repeal by section 316(1) of Pub. L. 92–540. See section 3690 of this title.
 
 Prior section 1788 was renumbered section 3688 of this title.
 
@@ -17735,7 +17735,7 @@ Another prior section 1791 was renumbered section 3695 of this title.
 
 Prior sections 1792 and 1793 were renumbered sections 3692 and 3693 of this title, respectively.
 
-Another prior section 1793, added Pub. L. 89–358, § 3(b), Mar. 3, 1966, 80 Stat. 23, § 1789; amended Pub. L. 91–24, § 15, June 11, 1969, 83 Stat. 35; renumbered and amended Pub. L. 92–540, title III, § 316(2), title IV, § 403(12), Oct. 24, 1972, 86 Stat. 1086, 1090, required that the Administrator not to approve of enrollment in any course in an institution listed by the Attorney General under section 12 of Executive Order 10450, prior to repeal by section 511(1) of Pub. L. 94–502.
+Another prior section 1793, added Pub. L. 89–358, § 3(b), Mar. 3, 1966, 80 Stat. 23, § 1789; amended Pub. L. 91–24, § 15, June 11, 1969, 83 Stat. 35; renumbered and amended Pub. L. 92–540, title III, § 316(2), title IV, § 403(12), Oct. 24, 1972, 86 Stat. 1086, 1090, required that the Administrator not to approve of enrollment in any course in an institution listed by the Attorney General under section 12 of Executive Order 10450, prior to repeal by section 511(1) of Pub. L. 94–502.
 
 Prior sections 1794 to 1799 were renumbered sections 3694 to 3699 of this title, respectively, and sections 3698 and 3699 were subsequently repealed.
 
@@ -17749,7 +17749,7 @@ Prior sections 1794 to 1799 were renumbered sections 3694 to 3699 of this title,
 
 Section effective Aug. 6, 2012, and applicable with respect to hospital care and medical services provided on or after Aug. 6, 2012, see section 102(d) of Pub. L. 112–154, set out as an Effective Date of 2012 Amendment note under section 1710 of this title.
 
-### § 1788. Transplant procedures with live donors and related services
+### § 1788. Transplant procedures with live donors and related services
 
 **(a) In General.—** Subject to subsections (b) and (c), in a case in which a veteran is eligible for a transplant procedure from the Department, the Secretary may provide for an operation on a live donor to carry out such procedure for such veteran, notwithstanding that the live donor may not be eligible for health care from the Department.
 
@@ -17757,7 +17757,7 @@ Section effective Aug. 6, 2012, and applicable with respect to hospital care and
 
 **(c) Use of Non-Department Facilities.—** In carrying out this section, the Secretary may provide for the operation described in subsection (a) on a live donor and furnish to the live donor the care and services described in subsection (b) at a non-Department facility pursuant to an agreement entered into by the Secretary under this title. The live donor shall be deemed to be an individual eligible for hospital care and medical services at a non-Department facility pursuant to such an agreement solely for the purposes of receiving such operation, care, and services at the non-Department facility.
 
-(Added Pub. L. 115–182, title I, § 153(a), June 6, 2018, 132 Stat. 1437; amended Pub. L. 115–251, title II, § 211(a)(10), Sept. 29, 2018, 132 Stat. 3175.)
+(Added Pub. L. 115–182, title I, § 153(a), June 6, 2018, 132 Stat. 1437; amended Pub. L. 115–251, title II, § 211(a)(10), Sept. 29, 2018, 132 Stat. 3175.)
 
 **Editorial Notes**
 
@@ -17765,8 +17765,8 @@ Section effective Aug. 6, 2012, and applicable with respect to hospital care and
 
 2018—Subsec. (c). Pub. L. 115–251 substituted “this title” for “this chapter”.
 
-### § 1789. Mental health services for members of the reserve components of the Armed Forces
+### § 1789. Mental health services for members of the reserve components of the Armed Forces
 
 The Secretary, in consultation with the Secretary of Defense, may furnish mental health services to members of the reserve components of the Armed Forces.
 
-(Added Pub. L. 116–283, div. A, title VII, § 763(a), Jan. 1, 2021, 134 Stat. 3725.)
+(Added Pub. L. 116–283, div. A, title VII, § 763(a), Jan. 1, 2021, 134 Stat. 3725.)

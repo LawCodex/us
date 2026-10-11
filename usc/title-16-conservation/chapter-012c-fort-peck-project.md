@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 12C—FORT PECK PROJECT
 
-## § 833. Completion and maintenance of project; generation of electricity
+## § 833. Completion and maintenance of project; generation of electricity
 
 For the purpose of improving navigation on the Missouri River, and for other purposes incidental thereto, the dam and appurtenant works now under construction at Fort Peck, Montana, and a suitable power plant for the production of hydroelectric power (which dam, power plant, and appurtenant works are hereinafter called Fort Peck project), shall be completed, maintained, and operated under the direction of the Secretary of the Army and the supervision of the Chief of Engineers, subject to the provisions of this chapter relating to the powers and duties of the Bureau of Reclamation (hereinafter called the Bureau), as provided for in section 833a(a) of this title, respecting the transmission and sale of electric energy generated at said project. The Secretary of the Army shall provide, construct, operate, maintain, and improve at Fort Peck project such machinery, equipment, and facilities for the generation of electric energy as the Bureau may deem necessary to develop such electric energy as rapidly as markets may be found therefor. The electric energy thus generated and not required for the operation of the dam at such project and the navigation facilities employed in connection therewith shall be delivered to the Bureau for disposition as provided in this chapter.
 
-(May 18, 1938, ch. 250, § 1, 52 Stat. 403; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(May 18, 1938, ch. 250, § 1, 52 Stat. 403; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -35,9 +35,9 @@ Power marketing functions of Bureau of Reclamation, including construction, oper
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 833a. Administration of project
+## § 833a. Administration of project
 
 **(a) Disposal of energy; temporary administration; installation and maintenance of equipment**
 
@@ -63,7 +63,7 @@ The Secretary of the Interior is authorized, in the name of the United States, t
 
 Subject to the provisions of this chapter, the Bureau is authorized, in the name of the United States, to negotiate and enter into such contracts, agreements, and arrangements as it shall find necessary or appropriate to carry out the purposes of this chapter.
 
-(May 18, 1938, ch. 250, § 2, 52 Stat. 404; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(May 18, 1938, ch. 250, § 2, 52 Stat. 404; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -77,7 +77,7 @@ Power marketing functions of Bureau of Reclamation, including construction, oper
 
 **Transfer of Certain Facilities**
 
-Act Aug. 31, 1951, ch. 375, title I, § 101, 65 Stat. 257, provided in part: “The Secretary of the Army is hereby authorized to transfer to the Department of the Interior without exchange of funds, all of the right, title, and interest of the Department of the Army in and to the following facilities, including rights-of-way (except that portion of the rights-of-way within the Fort Peck Reservoir area), but there shall be reserved the right to use the power facilities for the purpose of transmitting power to the Fort Peck project during emergency periods when the Fort Peck power plant is not functioning: (a) the Fort Peck-Rainbow (Great Falls) 161 kilovolt transmission line; (b) the Rainbow (Great Falls) terminal facilities; and (c) the Fort Peck-Whatley 50 kilovolt transmission line and substation.”
+Act Aug. 31, 1951, ch. 375, title I, § 101, 65 Stat. 257, provided in part: “The Secretary of the Army is hereby authorized to transfer to the Department of the Interior without exchange of funds, all of the right, title, and interest of the Department of the Army in and to the following facilities, including rights-of-way (except that portion of the rights-of-way within the Fort Peck Reservoir area), but there shall be reserved the right to use the power facilities for the purpose of transmitting power to the Fort Peck project during emergency periods when the Fort Peck power plant is not functioning: (a) the Fort Peck-Rainbow (Great Falls) 161 kilovolt transmission line; (b) the Rainbow (Great Falls) terminal facilities; and (c) the Fort Peck-Whatley 50 kilovolt transmission line and substation.”
 
 **Transfer of Transmission Lines, Substations, etc.; Cost Price; Authority of Secretary**
 
@@ -97,21 +97,21 @@ Act Feb. 27, 1948, ch. 75, 62 Stat. 36, provided:
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 833b. Definitions
+## § 833b. Definitions
 
 As employed in this chapter, the term “public body,” or “public bodies,” means States, public power districts, counties, and municipalities, including agencies or subdivisions of any thereof.
 
 As employed in this chapter, the term “cooperative,” or “cooperatives,” means any form of nonprofit-making organization or organizations of citizens supplying, or which may be created to supply, members with any kind of goods, commodities, or services, as nearly as possible at cost.
 
-(May 18, 1938, ch. 250, § 3, 52 Stat. 405.)
+(May 18, 1938, ch. 250, § 3, 52 Stat. 405.)
 
-## § 833c. Preference to public bodies and cooperatives
+## § 833c. Preference to public bodies and cooperatives
 
 In order to insure that the facilities for the generation of electric energy at the Fort Peck project shall be operated for the benefit of the general public, and particularly of domestic and rural consumers, the Bureau shall at all times, in disposing of electric energy generated at said project, give preference and priority to public bodies and cooperatives.
 
-(May 18, 1938, ch. 250, § 4, 52 Stat. 405.)
+(May 18, 1938, ch. 250, § 4, 52 Stat. 405.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -123,13 +123,13 @@ Power marketing functions of Bureau of Reclamation, including construction, oper
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 833d. Rate schedules; preparation, approval, and uniformity
+## § 833d. Rate schedules; preparation, approval, and uniformity
 
 Schedules of rates and charges for electric energy produced at the Fort Peck project and sold to purchasers as in this chapter provided shall be prepared by the Bureau and become effective upon confirmation and approval thereof by the Secretary of Energy. Subject to confirmation and approval by the Secretary of Energy, such rate schedules may be modified from time to time by the Bureau and shall be fixed and established with a view to encouraging the widest possible diversified use of electric energy. The said rate schedules may provide for uniform rate or rates uniform throughout prescribed transmission areas in order to extend the benefits of an integrated transmission system and encourage the equitable distribution of the electric energy developed at the Fort Peck project.
 
-(May 18, 1938, ch. 250, § 5, 52 Stat. 405; Pub. L. 95–91, title III, § 301(b), Aug. 4, 1977, 91 Stat. 578.)
+(May 18, 1938, ch. 250, § 5, 52 Stat. 405; Pub. L. 95–91, title III, § 301(b), Aug. 4, 1977, 91 Stat. 578.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -137,7 +137,7 @@ Schedules of rates and charges for electric energy produced at the Fort Peck pro
 
 Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(E), (3) of Title 42, The Public Health and Welfare, and are to be exercised by Secretary through a separate Administration within Department of Energy.
 
-“Secretary of Energy” substituted in text for “Federal Power Commission” pursuant to Pub. L. 95–91, § 301(b), which is classified to section 7151(b) of Title 42.
+“Secretary of Energy” substituted in text for “Federal Power Commission” pursuant to Pub. L. 95–91, § 301(b), which is classified to section 7151(b) of Title 42.
 
 The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
@@ -145,21 +145,21 @@ The Federal Power Commission was terminated, and its functions, personnel, prope
 
 **Transfer of Functions**
 
-Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
+Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 833e. Factors in determining rate schedules
+## § 833e. Factors in determining rate schedules
 
 It is the intent of Congress that rate schedules for the sale of electric energy which is or may be generated at the Fort Peck project in excess of the amount required for operating the dam and appurtenant works at said project shall be determined with due regard to and predicated upon the fact that such electric energy is developed from water power created as an incident to the construction of the dam in the Missouri River at the Fort Peck project for the purposes set forth in section 833 of this title. Rate schedules shall be drawn having regard to the recovery (upon the basis of the application of such rate schedules to the capacity of the electric facilities of Fort Peck project) of the cost of producing and transmitting such electric energy, including the amortization of the capital investment over a reasonable period of years. Rate schedules shall be based upon an allocation of costs made by the Secretary of Energy. In computing the cost of electric energy developed from water power created as an incident to and a byproduct of the construction of Fort Peck project, the Secretary of Energy may allocate to the costs of electric facilities such a share of the cost of facilities having joint value for the production of electric energy and other purposes as the power development may fairly bear as compared with such other purposes.
 
-(May 18, 1938, ch. 250, § 6, 52 Stat. 405; Pub. L. 95–91, title III, § 301(b), Aug. 4, 1977, 91 Stat. 578.)
+(May 18, 1938, ch. 250, § 6, 52 Stat. 405; Pub. L. 95–91, title III, § 301(b), Aug. 4, 1977, 91 Stat. 578.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Functions**
 
-“Secretary of Energy” substituted in text for “Federal Power Commission” pursuant to Pub. L. 95–91, § 301(b), which is classified to section 7151(b) of Title 42, The Public Health and Welfare.
+“Secretary of Energy” substituted in text for “Federal Power Commission” pursuant to Pub. L. 95–91, § 301(b), which is classified to section 7151(b) of Title 42, The Public Health and Welfare.
 
 The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
@@ -167,13 +167,13 @@ The Federal Power Commission was terminated, and its functions, personnel, prope
 
 **Transfer of Functions**
 
-Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
+Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
 
-## § 833f. Purchase of supplies and services
+## § 833f. Purchase of supplies and services
 
 Notwithstanding any other provision of law, all purchases and contracts made by the Bureau or the Secretary of the Army for supplies or for services, except for personal services, shall be made after advertising, in such manner and at such times, sufficiently in advance of opening bids, as the Bureau or Secretary of the Army, as the case may be, shall determine to be adequate to insure notice and opportunity for competition. Such advertisement shall not be required, however, when (1) an emergency requires immediate delivery of the supplies or performance of the services; or (2) repair parts, accessories, supplemental equipment, or services are required for supplies or services previously furnished or contracted for; or (3) the aggregate amount involved in any purchase of supplies or procurement of services does not exceed $500; in which cases such purchase of supplies or procurement of services may be made in the open market in the manner common among businessmen. In comparing bids and in making awards, the Bureau or the Secretary of the Army, as the case may be, may consider such factors as relative quality and adaptability of supplies or services, the bidder’s financial responsibility, skill, experience, record of integrity in dealing, and ability to furnish repairs and maintenance services, the time of delivery or performance offered, and whether the bidder has complied with the specifications.
 
-(May 18, 1938, ch. 250, § 7, 52 Stat. 406; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(May 18, 1938, ch. 250, § 7, 52 Stat. 406; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -189,9 +189,9 @@ Power marketing functions of Bureau of Reclamation, including construction, oper
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 833g. Miscellaneous administrative provisions
+## § 833g. Miscellaneous administrative provisions
 
 **(a) Accounts**
 
@@ -201,13 +201,13 @@ The Bureau, subject to the requirements of the Federal Power Act [16 U.S.C. 791a
 
 The Bureau may make such expenditures for offices, vehicles, furnishings, equipment, supplies, and books; for attendance at meetings; and for such other facilities and services as it may find necessary for the proper administration of this chapter.
 
-(May 18, 1938, ch. 250, § 8, 52 Stat. 406; Aug. 30, 1954, ch. 1076, § 1(23), 68 Stat. 968.)
+(May 18, 1938, ch. 250, § 8, 52 Stat. 406; Aug. 30, 1954, ch. 1076, § 1(23), 68 Stat. 968.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Power Act, referred to in subsec. (a), was in the original the “Federal Water Power Act”, and was redesignated the Federal Power Act by section 791a of this title. The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
+The Federal Power Act, referred to in subsec. (a), was in the original the “Federal Water Power Act”, and was redesignated the Federal Power Act by section 791a of this title. The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
 **Amendments**
 
@@ -223,13 +223,13 @@ Power marketing functions of Bureau of Reclamation, including construction, oper
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 833h. Personnel; appointment and compensation
+## § 833h. Personnel; appointment and compensation
 
 The Secretary of the Interior, the Secretary of the Army, and the Secretary of Energy, respectively, shall appoint such attorneys, engineers, and other experts as may be necessary for carrying out the functions entrusted to them under this chapter, and shall fix the compensation of each of such attorneys, engineers, and other experts; and they may, subject to the civil-service laws, appoint such other officers and employees as may be necessary to carry out such functions and fix their salaries in accordance with chapter 51 and subchapter III of chapter 53 of title 5. In the administration of this chapter the services of regular employees in the Bureau may be utilized and an equitable part of the salaries of such employees whose services are thus utilized may be charged by the Bureau to the operating costs of the power features of the Fort Peck project. The Bureau similarly may utilize and charge for facilities of the Bureau which economically can be used in connection with the administration of this chapter.
 
-(May 18, 1938, ch. 250, § 9, 52 Stat. 406; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972; Pub. L. 95–91, title III, § 301(b), Aug. 4, 1977, 91 Stat. 578.)
+(May 18, 1938, ch. 250, § 9, 52 Stat. 406; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972; Pub. L. 95–91, title III, § 301(b), Aug. 4, 1977, 91 Stat. 578.)
 
 **Editorial Notes**
 
@@ -237,11 +237,11 @@ The Secretary of the Interior, the Secretary of the Army, and the Secretary of E
 
 Provisions which authorized the Secretary of the Interior, the Secretary of the Army, and the Secretary of Energy to appoint such attorneys, engineers, and other experts as may be necessary for carrying out the functions entrusted to them under this chapter “without regard to the provisions of the civil-service laws”, and to fix their compensation “at not to exceed $7,500 per annum”, have been omitted as obsolete and superseded.
 
-Such appointments are subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order No. 8743, Apr. 23, 1941, issued by the President pursuant to the Act of Nov. 26, 1940, ch. 919, title I, § 1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5, Government Organization and Employees.
+Such appointments are subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order No. 8743, Apr. 23, 1941, issued by the President pursuant to the Act of Nov. 26, 1940, ch. 919, title I, § 1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5, Government Organization and Employees.
 
-As to the compensation of such personnel, sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the Classification Act of 1923 and all other laws or parts of laws inconsistent with the 1949 Act. The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, § 8(a), 80 Stat. 632, and reenacted as chapter 51 and subchapter III of chapter 53 of Title 5. Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
+As to the compensation of such personnel, sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the Classification Act of 1923 and all other laws or parts of laws inconsistent with the 1949 Act. The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, § 8(a), 80 Stat. 632, and reenacted as chapter 51 and subchapter III of chapter 53 of Title 5. Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
 
-“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in text for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
+“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in text for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
 
 **Amendments**
 
@@ -255,13 +255,13 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Repeals**
 
-Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
+Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
 **Transfer of Functions**
 
 Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(E), (3) of Title 42, The Public Health and Welfare, and are to be exercised by Secretary through a separate Administration within Department of Energy.
 
-“Secretary of Energy” substituted in text for “Federal Power Commission” pursuant to Pub. L. 95–91, § 301(b), which is classified to section 7151(b) of Title 42.
+“Secretary of Energy” substituted in text for “Federal Power Commission” pursuant to Pub. L. 95–91, § 301(b), which is classified to section 7151(b) of Title 42.
 
 The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
@@ -269,15 +269,15 @@ The Federal Power Commission was terminated, and its functions, personnel, prope
 
 **Transfer of Functions**
 
-Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
+Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 833i. Deposit of receipts; establishment of continuing fund; authorization of appropriations
+## § 833i. Deposit of receipts; establishment of continuing fund; authorization of appropriations
 
 All receipts from transmission and sale of electric energy generated at the Fort Peck project shall be covered into the Treasury of the United States to the credit of miscellaneous receipts, save and except that the Treasury shall set up and maintain from such receipts a continuing fund of $500,000, to the credit of the Bureau and subject to expenditure by it, to defray the operating expense of generation and transmission of power delivered to the Bureau for disposal under this chapter, to defray emergency expenses and to insure continuous operation. There is authorized to be appropriated from time to time, out of moneys in the Treasury not otherwise appropriated, such sums as may be necessary to carry out the provisions of this chapter, including installation of equipment and machinery for the generation of electric energy, and facilities for its transmission and sale.
 
-(May 18, 1938, ch. 250, § 10, 52 Stat. 406.)
+(May 18, 1938, ch. 250, § 10, 52 Stat. 406.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -289,13 +289,13 @@ Power marketing functions of Bureau of Reclamation, including construction, oper
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 833j. Suits for and against project; legal representation
+## § 833j. Suits for and against project; legal representation
 
 The Secretary of the Interior may, in the name of the United States, under the supervision of the Attorney General, bring such suits at law or in equity as in his judgment may be necessary to carry out the purposes of this chapter; and he shall be represented in the prosecution and defense of all litigation affecting the status or operation of the Fort Peck project by the United States attorneys for the districts, respectively, in which such litigation may arise, or by such attorney or attorneys as the Attorney General may designate as authorized by law, in conjunction with the regularly employed attorneys of the Bureau.
 
-(May 18, 1938, ch. 250, § 11, 52 Stat. 407.)
+(May 18, 1938, ch. 250, § 11, 52 Stat. 407.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -307,19 +307,19 @@ Power marketing functions of Bureau of Reclamation, including construction, oper
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 833k. Separability
+## § 833k. Separability
 
 If any provision of this chapter or the application of such provision to any person or circumstances shall be held invalid, the remainder of the chapter and the application of such provisions to persons or circumstances other than those as to which it is held invalid shall not be affected thereby.
 
-(May 18, 1938, ch. 250, § 12, 52 Stat. 407.)
+(May 18, 1938, ch. 250, § 12, 52 Stat. 407.)
 
-## § 833l. Acquisition of Indian lands
+## § 833l. Acquisition of Indian lands
 
 In aid of the construction of the Fort Peck project, there is granted to the United States, subject to the provisions of sections 833*l* to 833p of this title, such right, title, and interest of the Indians as may be required in and to such tribal and allotted lands as may be designated by the Secretary of the Interior from time to time for the construction, operation, and maintenance of electric transmission lines and other works of the project or for the relocation or reconstruction of properties made necessary by the construction of the project.
 
-(Apr. 23, 1946, ch. 199, § 1, 60 Stat. 118.)
+(Apr. 23, 1946, ch. 199, § 1, 60 Stat. 118.)
 
 **Editorial Notes**
 
@@ -331,13 +331,13 @@ Section was not enacted as part of act May 18, 1938, which comprises this chapte
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 833m. Determination of compensation for acquisition of Indian lands; funds payable from; disposition of moneys
+## § 833m. Determination of compensation for acquisition of Indian lands; funds payable from; disposition of moneys
 
 As lands or interests in lands are designated from time to time under sections 833*l* to 833p of this title, the Secretary of the Interior shall determine the amount of money to be paid to the Indians as just and equitable compensation therefor. The amounts due the tribe and the individual allottees or their heirs or devisees shall be paid from funds now or hereafter made available to the Department of the Interior for the Fort Peck project to the superintendent of the appropriate Indian agency, or such other officer as may be designated by the Secretary of the Interior, for credit on the books of such agency to the accounts of the tribe and the individuals concerned.
 
-(Apr. 23, 1946, ch. 199, § 2, 60 Stat. 118.)
+(Apr. 23, 1946, ch. 199, § 2, 60 Stat. 118.)
 
 **Editorial Notes**
 
@@ -349,13 +349,13 @@ Section was not enacted as part of act May 18, 1938, which comprises this chapte
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 833n. Use of deposits by allottees; nontaxability of lands
+## § 833n. Use of deposits by allottees; nontaxability of lands
 
 Funds deposited to the credit of allottees, their heirs, or devisees may be used, in the discretion of the Secretary of the Interior, for the acquisition of other lands and improvements, or the relocation of existing improvements or construction of new improvements on the lands so acquired for the allottees or heirs whose lands and improvements are acquired under the provisions of sections 833*l* to 833p of this title. Lands so acquired shall be held in the same status as those from which the funds were derived, and shall be nontaxable until otherwise provided by Congress.
 
-(Apr. 23, 1946, ch. 199, § 3, 60 Stat. 118.)
+(Apr. 23, 1946, ch. 199, § 3, 60 Stat. 118.)
 
 **Editorial Notes**
 
@@ -367,13 +367,13 @@ Section was not enacted as part of act May 18, 1938, which comprises this chapte
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 833o. Authority of Secretary of the Interior for acquisition of Indian land
+## § 833o. Authority of Secretary of the Interior for acquisition of Indian land
 
 The Secretary of the Interior is authorized to perform any and all acts and to prescribe such regulations as he may deem appropriate to carry out the provisions of sections 833*l* to 833p of this title.
 
-(Apr. 23, 1946, ch. 199, § 4, 60 Stat. 118.)
+(Apr. 23, 1946, ch. 199, § 4, 60 Stat. 118.)
 
 **Editorial Notes**
 
@@ -385,13 +385,13 @@ Section was not enacted as part of act May 18, 1938, which comprises this chapte
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 833p. Reversion of title
+## § 833p. Reversion of title
 
 All designations of Indian lands pursuant to sections 833*l* to 833p of this title shall be made subject to the condition that in the event any such lands shall no longer be required for the purposes for which they were designated, then the right, title, or interest so acquired in lands so designated shall revert to the United States in trust for the Fort Peck Indian Tribes.
 
-(Apr. 23, 1946, ch. 199, § 5, 60 Stat. 118.)
+(Apr. 23, 1946, ch. 199, § 5, 60 Stat. 118.)
 
 **Editorial Notes**
 
@@ -399,7 +399,7 @@ All designations of Indian lands pursuant to sections 833*l* to 833p of this tit
 
 Section was not enacted as part of act May 18, 1938, which comprises this chapter.
 
-## § 833q. Educational costs of dependents of employees; payments to school districts; reimbursement from continuing fund
+## § 833q. Educational costs of dependents of employees; payments to school districts; reimbursement from continuing fund
 
 Under regulations prescribed by the Secretary of the Army, payments may be made, in advance or otherwise, from any funds available for the Fort Peck project, Montana, to the school district or districts serving that project as reimbursement for educational facilities (including, where appropriate, transportation to and from school) furnished by the said district or districts to pupils who are dependents of persons engaged in the construction, operation, and maintenance of the project and living at or near Fort Peck upon real property of the United States not subject to taxation by State or local agencies and upon which payments in lieu of taxes are not made by the United States, which payments for any school year shall not exceed that part of the cost of operating and maintaining such facilities which the number of pupils aforesaid in average daily attendance during that year bears to the whole number of pupils in average daily attendance at those schools during that year: *Provided*, That of the whole amount so paid in any fiscal year, the Bureau of Reclamation, Department of the Interior, shall reimburse the Secretary of the Army from the continuing fund provided in section 833i of this title, that part which is properly chargeable as an operation expense incident to the generation and transmission of power delivered to the Bureau under said section.
 
@@ -421,4 +421,4 @@ Power marketing functions of Bureau of Reclamation, including construction, oper
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.

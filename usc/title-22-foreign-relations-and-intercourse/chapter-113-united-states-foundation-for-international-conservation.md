@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 113—UNITED STATES FOUNDATION FOR INTERNATIONAL CONSERVATION
 
-## § 10601. Definitions
+## § 10601. Definitions
 
 In this chapter:
 
@@ -41,13 +41,13 @@ In this chapter:
 
 **(7)** The term “Secretary” means the Secretary of State.
 
-(Pub. L. 118–159, div. E, title LI, § 5101, Dec. 23, 2024, 138 Stat. 2410; Pub. L. 119–75, div. F, tite VII, § 7034(k)(1), Feb. 3, 2026, 140 Stat. 571.)
+(Pub. L. 118–159, div. E, title LI, § 5101, Dec. 23, 2024, 138 Stat. 2410; Pub. L. 119–75, div. F, tite VII, § 7034(k)(1), Feb. 3, 2026, 140 Stat. 571.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in introductory provisions, was in the original “this title” and was translated as reading “this subtitle”, meaning subtitle A (§§ 5101–5109) of title LI of div. E of Pub. L. 118–159, Dec. 23, 2024, 138 Stat. 2410, known as the United States Foundation for International Conservation Act of 2024, which is classified generally to this chapter.
+This chapter, referred to in introductory provisions, was in the original “this title” and was translated as reading “this subtitle”, meaning subtitle A (§§ 5101–5109) of title LI of div. E of Pub. L. 118–159, Dec. 23, 2024, 138 Stat. 2410, known as the United States Foundation for International Conservation Act of 2024, which is classified generally to this chapter.
 
 **Amendments**
 
@@ -59,7 +59,7 @@ This chapter, referred to in introductory provisions, was in the original “thi
 
 Pub. L. 118–159, div. E, title LI, subtitle A, Dec. 23, 2024, 138 Stat. 2410, which enacted this chapter, is popularly known as the United States Foundation for International Conservation Act of 2024.
 
-## § 10602. United States Foundation for Natural Security and Counterterrorism
+## § 10602. United States Foundation for Natural Security and Counterterrorism
 
 **(a) Establishment**
 
@@ -133,21 +133,21 @@ The Executive Director shall submit the initial Plan of Action to the appropriat
 
 The Executive Director shall annually update the Plan of Action and submit each such updated plan to the appropriate congressional committees not later that 5 days after the update plan is approved by the Board.
 
-(Pub. L. 118–159, div. E, title LI, § 5102, Dec. 23, 2024, 138 Stat. 2410; Pub. L. 119–75, div. F, title VII, § 7034(k)(2), Feb. 3, 2026, 140 Stat. 571.)
+(Pub. L. 118–159, div. E, title LI, § 5102, Dec. 23, 2024, 138 Stat. 2410; Pub. L. 119–75, div. F, title VII, § 7034(k)(2), Feb. 3, 2026, 140 Stat. 571.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (c)(1), was in the original “this title” and was translated as reading “this subtitle”, meaning subtitle A (§§ 5101–5109) of title LI of div. E of Pub. L. 118–159, Dec. 23, 2024, 138 Stat. 2410, known as the United States Foundation for International Conservation Act of 2024, which is classified generally to this chapter.
+This chapter, referred to in subsec. (c)(1), was in the original “this title” and was translated as reading “this subtitle”, meaning subtitle A (§§ 5101–5109) of title LI of div. E of Pub. L. 118–159, Dec. 23, 2024, 138 Stat. 2410, known as the United States Foundation for International Conservation Act of 2024, which is classified generally to this chapter.
 
 **Amendments**
 
-2026—Pub. L. 119–75, § 7034(k)(2)(A), substituted “Natural Security and Counterterrorism” for “International Conservation” in section catchline.
+2026—Pub. L. 119–75, § 7034(k)(2)(A), substituted “Natural Security and Counterterrorism” for “International Conservation” in section catchline.
 
-Subsec. (a)(1). Pub. L. 119–75, § 7034(k)(2)(B), substituted “Natural Security and Counterterrorism” for “International Conservation”.
+Subsec. (a)(1). Pub. L. 119–75, § 7034(k)(2)(B), substituted “Natural Security and Counterterrorism” for “International Conservation”.
 
-## § 10603. Governance of the Foundation
+## § 10603. Governance of the Foundation
 
 **(a) Executive Director** There shall be in the Foundation an Executive Director, who shall—
 
@@ -333,15 +333,15 @@ Any member of the Board that has a business, financial, or familial interest in 
 
 **(B)** a former member of the Board during the 5-year period immediately following the last day of the former member’s term on the Board.
 
-(Pub. L. 118–159, div. E, title LI, § 5103, Dec. 23, 2024, 138 Stat. 2412.)
+(Pub. L. 118–159, div. E, title LI, § 5103, Dec. 23, 2024, 138 Stat. 2412.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (b)(1)(A), was in the original “this title” and was translated as reading “this subtitle”, meaning subtitle A (§§ 5101–5109) of title LI of div. E of Pub. L. 118–159, Dec. 23, 2024, 138 Stat. 2410, known as the United States Foundation for International Conservation Act of 2024, which is classified generally to this chapter.
+This chapter, referred to in subsec. (b)(1)(A), was in the original “this title” and was translated as reading “this subtitle”, meaning subtitle A (§§ 5101–5109) of title LI of div. E of Pub. L. 118–159, Dec. 23, 2024, 138 Stat. 2410, known as the United States Foundation for International Conservation Act of 2024, which is classified generally to this chapter.
 
-## § 10604. Corporate powers and obligations of the Foundation
+## § 10604. Corporate powers and obligations of the Foundation
 
 **(a) General authority**
 
@@ -379,9 +379,9 @@ The Foundation shall be subject to the general audit authority of the Comptrolle
 
 The United States shall not be liable for any debts, defaults, acts, or omissions of the Foundation. The Federal Government shall be held harmless from any damages or awards ordered by a court against the Foundation.
 
-(Pub. L. 118–159, div. E, title LI, § 5104, Dec. 23, 2024, 138 Stat. 2416.)
+(Pub. L. 118–159, div. E, title LI, § 5104, Dec. 23, 2024, 138 Stat. 2416.)
 
-## § 10605. Safeguards and accountability
+## § 10605. Safeguards and accountability
 
 **(a) Safeguards**
 
@@ -417,9 +417,9 @@ The Foundation shall establish an ombudsman position at a senior level of execut
 
 The Secretary shall, periodically, but not less frequent than annually, review assistance provided by the Foundation for the purpose of implementing section 10602(b) of this title to ensure consistency with the provisions under section 2378d of this title.
 
-(Pub. L. 118–159, div. E, title LI, § 5105, Dec. 23, 2024, 138 Stat. 2417.)
+(Pub. L. 118–159, div. E, title LI, § 5105, Dec. 23, 2024, 138 Stat. 2417.)
 
-## § 10606. Projects and grants
+## § 10606. Projects and grants
 
 **(a) Project funding requirements**
 
@@ -555,15 +555,15 @@ The Secretary shall, periodically, but not less frequent than annually, review a
 
 **(ii)** making progress in achieving the key performance indicators defined in the grant agreement.
 
-(Pub. L. 118–159, div. E, title LI, § 5106, Dec. 23, 2024, 138 Stat. 2417.)
+(Pub. L. 118–159, div. E, title LI, § 5106, Dec. 23, 2024, 138 Stat. 2417.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsecs. (b)(2) and (c)(2)(D)(i), was in the original “this title” and was translated as reading “this subtitle”, meaning subtitle A (§§ 5101–5109) of title LI of div. E of Pub. L. 118–159, Dec. 23, 2024, 138 Stat. 2410, known as the United States Foundation for International Conservation Act of 2024, which is classified generally to this chapter.
+This chapter, referred to in subsecs. (b)(2) and (c)(2)(D)(i), was in the original “this title” and was translated as reading “this subtitle”, meaning subtitle A (§§ 5101–5109) of title LI of div. E of Pub. L. 118–159, Dec. 23, 2024, 138 Stat. 2410, known as the United States Foundation for International Conservation Act of 2024, which is classified generally to this chapter.
 
-## § 10607. Prohibition of support for certain governments
+## § 10607. Prohibition of support for certain governments
 
 **(a) In general** The Foundation may not provide support for any government, or any entity owned or controlled by a government, if the Secretary has determined that such government—
 
@@ -589,9 +589,9 @@ The Foundation may not engage in any dealing prohibited under United States sanc
 
 The Foundation shall require any person receiving support to certify that such person, and any entity owned or controlled by such person, is in compliance with all United States sanctions laws and regulations.
 
-(Pub. L. 118–159, div. E, title LI, § 5107, Dec. 23, 2024, 138 Stat. 2421.)
+(Pub. L. 118–159, div. E, title LI, § 5107, Dec. 23, 2024, 138 Stat. 2421.)
 
-## § 10608. Annual report
+## § 10608. Annual report
 
 Not later than 360 days after December 23, 2024, and annually thereafter while the Foundation continues to operate, the Executive Director of the Foundation shall submit a report to the appropriate congressional committees that describes—
 
@@ -603,9 +603,9 @@ Not later than 360 days after December 23, 2024, and annually thereafter while t
 
 **(4)** the standardized criteria utilized to determine the programs and activities supported by the Foundation, including baselines, targets, desired outcomes, measurable goals, and extent to which those goals are being achieved for each project.
 
-(Pub. L. 118–159, div. E, title LI, § 5108, Dec. 23, 2024, 138 Stat. 2421.)
+(Pub. L. 118–159, div. E, title LI, § 5108, Dec. 23, 2024, 138 Stat. 2421.)
 
-## § 10609. Authorization of appropriations
+## § 10609. Authorization of appropriations
 
 **(a) Authorization** In addition to amounts authorized to be appropriated to carry out international conservation and biodiversity programs under part I and chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.[; 22 U.S.C. 2346 et seq.]), and subject to the limitations set forth in subsections (b) and (c), there is authorized to be appropriated to the Foundation to carry out the purposes of this chapter—
 
@@ -625,12 +625,12 @@ The administrative costs of the Foundation shall come from sources other than th
 
 Amounts provided as a grant by the Foundation pursuant to section 10606 of this title may not be used for any activity intended to influence legislation pending before the Congress of the United States.
 
-(Pub. L. 118–159, div. E, title LI, § 5109, Dec. 23, 2024, 138 Stat. 2421.)
+(Pub. L. 118–159, div. E, title LI, § 5109, Dec. 23, 2024, 138 Stat. 2421.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. Chapter 4 of part II of the Act is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. Chapter 4 of part II of the Act is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-This chapter, referred to in subsec. (a), was in the original “this title” and was translated as reading “this subtitle”, meaning subtitle A (§§ 5101–5109) of title LI of div. E of Pub. L. 118–159, Dec. 23, 2024, 138 Stat. 2410, known as the United States Foundation for International Conservation Act of 2024, which is classified generally to this chapter.
+This chapter, referred to in subsec. (a), was in the original “this title” and was translated as reading “this subtitle”, meaning subtitle A (§§ 5101–5109) of title LI of div. E of Pub. L. 118–159, Dec. 23, 2024, 138 Stat. 2410, known as the United States Foundation for International Conservation Act of 2024, which is classified generally to this chapter.

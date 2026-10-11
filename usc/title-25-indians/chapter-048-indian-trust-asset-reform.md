@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—RECOGNITION OF TRUST RESPONSIBILITY
 
-### § 5601. Findings
+### § 5601. Findings
 
 Congress finds that—
 
@@ -31,25 +31,25 @@ Congress finds that—
 
 **(5)** the foregoing historic Federal-tribal relations and understandings have benefitted the people of the United States as a whole for centuries and have established enduring and enforceable Federal obligations to which the national honor has been committed.
 
-(Pub. L. 114–178, title I, § 101, June 22, 2016, 130 Stat. 432.)
+(Pub. L. 114–178, title I, § 101, June 22, 2016, 130 Stat. 432.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 114–178, § 1(a), June 22, 2016, 130 Stat. 432, provided that: “This Act [enacting this chapter] may be cited as the ‘Indian Trust Asset Reform Act’.”
+Pub. L. 114–178, § 1(a), June 22, 2016, 130 Stat. 432, provided that: “This Act [enacting this chapter] may be cited as the ‘Indian Trust Asset Reform Act’.”
 
-Pub. L. 114–178, title II, § 201, June 22, 2016, 130 Stat. 433, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘Indian Trust Asset Management Demonstration Project Act of 2016’.”
+Pub. L. 114–178, title II, § 201, June 22, 2016, 130 Stat. 433, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘Indian Trust Asset Management Demonstration Project Act of 2016’.”
 
-### § 5602. Reaffirmation of policy
+### § 5602. Reaffirmation of policy
 
 Pursuant to the constitutionally vested authority of Congress over Indian affairs, Congress reaffirms that the responsibility of the United States to Indian tribes includes a duty to promote tribal self-determination regarding governmental authority and economic development.
 
-(Pub. L. 114–178, title I, § 102, June 22, 2016, 130 Stat. 433.)
+(Pub. L. 114–178, title I, § 102, June 22, 2016, 130 Stat. 433.)
 
 ## SUBCHAPTER II—INDIAN TRUST ASSET MANAGEMENT DEMONSTRATION PROJECT
 
-### § 5611. Definitions
+### § 5611. Definitions
 
 In this subchapter:
 
@@ -57,7 +57,7 @@ In this subchapter:
 
 The term “Indian tribe” has the meaning given the term in the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(2) Project**
 
@@ -67,15 +67,15 @@ The term “Project” means the Indian trust asset management demonstration pro
 
 The term “Secretary” means the Secretary of the Interior.
 
-(Pub. L. 114–178, title II, § 202, June 22, 2016, 130 Stat. 433.)
+(Pub. L. 114–178, title II, § 202, June 22, 2016, 130 Stat. 433.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act, referred to in par. (1), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. Definitions of terms in the Act were contained in section 450b of this title, which was editorially reclassified as section 5304 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in par. (1), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. Definitions of terms in the Act were contained in section 450b of this title, which was editorially reclassified as section 5304 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-### § 5612. Establishment of demonstration project; selection of participating Indian tribes
+### § 5612. Establishment of demonstration project; selection of participating Indian tribes
 
 **(a) In general**
 
@@ -121,9 +121,9 @@ To be eligible to participate in the project, an Indian tribe shall submit to th
 
 **(2)** may be extended at the discretion of the Secretary.
 
-(Pub. L. 114–178, title II, § 203, June 22, 2016, 130 Stat. 433.)
+(Pub. L. 114–178, title II, § 203, June 22, 2016, 130 Stat. 433.)
 
-### § 5613. Indian trust asset management plan
+### § 5613. Indian trust asset management plan
 
 **(a) Proposed plan**
 
@@ -139,9 +139,9 @@ After the date on which an Indian tribe receives a notice from the Secretary und
 
 **(C)** allocate trust asset management funding that is available for the Indian trust assets subject to the plan in order to meet the trust asset management objectives and priorities;
 
-**(D)** if the Indian tribe has contracted or compacted functions or activities under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) 1
+**(D)** if the Indian tribe has contracted or compacted functions or activities under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 relating to the management of trust assets—
 
@@ -211,15 +211,15 @@ Subject to section 5614 of this title, an Indian trust asset management plan, an
 
 A termination of an Indian trust asset management plan under paragraph (1) takes effect on October 1 of the first fiscal year following the date on which a notice is provided to the Secretary under paragraph (1)(A).
 
-(Pub. L. 114–178, title II, § 204, June 22, 2016, 130 Stat. 434.)
+(Pub. L. 114–178, title II, § 204, June 22, 2016, 130 Stat. 434.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a)(2)(D), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a)(2)(D), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-### § 5614. Forest land management and surface leasing activities
+### § 5614. Forest land management and surface leasing activities
 
 **(a) Definitions** In this section:
 
@@ -283,15 +283,15 @@ The Secretary may provide technical assistance, on request of an Indian tribe, f
 
 The technical assistance to be provided by the Secretary pursuant to paragraph (1) may be made available through contracts, grants, or agreements entered into in accordance with, and made available to entities eligible for, contracts, grants, or agreements under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(e) Federal environmental review**
 
 Notwithstanding subsection (b), if an Indian tribe carries out a project or activity funded by a Federal agency, the Indian tribe shall have the authority to rely on the environmental review process of the applicable Federal agency, rather than any tribal environmental review process under this section.
 
-**(f) Documentation** If an Indian tribe executes a surface leasing transaction or forest land management activity, pursuant to tribal regulations under subsection (b)(2), the Indian tribe shall provide to the Secretary 2
+**(f) Documentation** If an Indian tribe executes a surface leasing transaction or forest land management activity, pursuant to tribal regulations under subsection (b)(2), the Indian tribe shall provide to the Secretary 2
 
-<sup>2</sup>  So in original. Probably should be followed by a dash.
+<sup>2</sup> So in original. Probably should be followed by a dash.
 
 **(1)** a copy of the surface leasing transaction or forest land management activity documents, including any amendments to, or renewals of, the applicable transaction; and
 
@@ -331,7 +331,7 @@ If the Secretary determines under paragraph (1) that a violation of tribal regul
 
 **(ii)** a reasonable opportunity to cure the alleged violation.
 
-(Pub. L. 114–178, title II, § 205, June 22, 2016, 130 Stat. 436.)
+(Pub. L. 114–178, title II, § 205, June 22, 2016, 130 Stat. 436.)
 
 **Editorial Notes**
 
@@ -339,9 +339,9 @@ If the Secretary determines under paragraph (1) that a violation of tribal regul
 
 The National Indian Forest Resources Management Act, referred to in subsec. (b)(2)(B)(i), is title III of Pub. L. 101–630, Nov. 28, 1990, 104 Stat. 4532, which is classified generally to chapter 33 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (d)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (d)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-### § 5615. Effect of subchapter
+### § 5615. Effect of subchapter
 
 **(a) Liability**
 
@@ -363,9 +363,9 @@ Except as provided in sections 5613 and 5614 of this title and subsection (e), n
 
 **(2) Indian Self-Determination Act**
 
-Nothing in this subchapter limits or otherwise affects the authority of an Indian tribe, including an Indian tribe participating in the project, to enter into and carry out a contract, compact, or other agreement under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) 1
+Nothing in this subchapter limits or otherwise affects the authority of an Indian tribe, including an Indian tribe participating in the project, to enter into and carry out a contract, compact, or other agreement under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (including regulations).
 
@@ -377,23 +377,23 @@ An Indian tribe may submit to the Secretary tribal regulations described in sect
 
 Nothing in this subchapter enhances, diminishes, or otherwise affects the trust responsibility of the United States to Indian tribes or individual Indians.
 
-(Pub. L. 114–178, title II, § 206, June 22, 2016, 130 Stat. 439.)
+(Pub. L. 114–178, title II, § 206, June 22, 2016, 130 Stat. 439.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (d)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (d)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 ## SUBCHAPTER III—IMPROVING EFFICIENCY AND STREAMLINING PROCESSES
 
-### § 5631. Purpose
+### § 5631. Purpose
 
 The purpose of this subchapter is to ensure a more efficient and streamlined administration of duties of the Secretary of the Interior with respect to providing services and programs to Indians and Indian tribes, including the management of Indian trust resources.
 
-(Pub. L. 114–178, title III, § 301, June 22, 2016, 130 Stat. 439.)
+(Pub. L. 114–178, title III, § 301, June 22, 2016, 130 Stat. 439.)
 
-### § 5632. Definitions
+### § 5632. Definitions
 
 In this subchapter:
 
@@ -413,9 +413,9 @@ The term “Secretary” means the Secretary of the Interior.
 
 The term “Under Secretary” means the Under Secretary for Indian Affairs established under section 5633(a) of this title.
 
-(Pub. L. 114–178, title III, § 302, June 22, 2016, 130 Stat. 439.)
+(Pub. L. 114–178, title III, § 302, June 22, 2016, 130 Stat. 439.)
 
-### § 5633. Under Secretary for Indian Affairs
+### § 5633. Under Secretary for Indian Affairs
 
 **(a) Establishment of position**
 
@@ -465,9 +465,9 @@ The Under Secretary may appoint and fix the compensation of such officers and em
 
 **(C)** in appointing or otherwise hiring any employee, the Under Secretary shall give preference to Indians in accordance with section 5116 of this title.
 
-(Pub. L. 114–178, title III, § 303, June 22, 2016, 130 Stat. 440.)
+(Pub. L. 114–178, title III, § 303, June 22, 2016, 130 Stat. 440.)
 
-### § 5634. Office of Special Trustee for American Indians
+### § 5634. Office of Special Trustee for American Indians
 
 **(a) Information to Congress** Notwithstanding sections 4042 and 4043 of this title, not later than 1 year after June 22, 2016, the Secretary shall prepare and, after consultation with Indian tribes and appropriate Indian organizations, submit to the Committee on Natural Resources of the House of Representatives, the Committee on Indian Affairs of the Senate, and the Committees on Appropriations of the House of Representatives and the Senate—
 
@@ -485,7 +485,7 @@ The Under Secretary may appoint and fix the compensation of such officers and em
 
 Subject to applicable law and regulations, the Secretary, at the request of an Indian tribe or a consortium of Indian tribes, shall include fiduciary trust officers in a contract, compact, or other agreement under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(c) Effect of section** Nothing in this section or the submission required by this section—
 
@@ -493,15 +493,15 @@ Subject to applicable law and regulations, the Secretary, at the request of an I
 
 **(2)** affect the application of sections 4042 and 4043 of this title.
 
-(Pub. L. 114–178, title III, § 304, June 22, 2016, 130 Stat. 441.)
+(Pub. L. 114–178, title III, § 304, June 22, 2016, 130 Stat. 441.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-### § 5635. Appraisals and valuations
+### § 5635. Appraisals and valuations
 
 **(a) In general**
 
@@ -517,9 +517,9 @@ Not later than 1 year after June 22, 2016, the Secretary shall establish and pub
 
 **(2)** shall be considered to be final for purposes of effectuating the transaction for which the appraisal or valuation is required.
 
-(Pub. L. 114–178, title III, § 305, June 22, 2016, 130 Stat. 441.)
+(Pub. L. 114–178, title III, § 305, June 22, 2016, 130 Stat. 441.)
 
-### § 5636. Cost savings
+### § 5636. Cost savings
 
 **(a) In general** For any program, function, service, or activity (or any portion of a program, function, service, or activity) of the Office of the Special Trustee that will not be operated or carried out as a result of a transfer of functions and personnel following enactment of this chapter, the Secretary shall—
 
@@ -545,4 +545,4 @@ Not later than 1 year after June 22, 2016, the Secretary shall establish and pub
 
 **(6)** the Committee on Indian Affairs of the Senate.
 
-(Pub. L. 114–178, title III, § 306, June 22, 2016, 130 Stat. 442.)
+(Pub. L. 114–178, title III, § 306, June 22, 2016, 130 Stat. 442.)

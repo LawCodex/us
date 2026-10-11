@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2008—Pub. L. 110–181, div. A, title IX, § 906(b)(1)(B), Jan. 28, 2008, 122 Stat. 277, struck out item 1464 “Board of Actuaries”.
+2008—Pub. L. 110–181, div. A, title IX, § 906(b)(1)(B), Jan. 28, 2008, 122 Stat. 277, struck out item 1464 “Board of Actuaries”.
 
-## § 1461. Establishment and purpose of Fund; definition
+## § 1461. Establishment and purpose of Fund; definition
 
 **(a)** There is established on the books of the Treasury a fund to be known as the Department of Defense Military Retirement Fund (hereinafter in this chapter referred to as the “Fund”), which shall be administered by the Secretary of the Treasury. The Fund shall be used for the accumulation of funds in order to finance on an actuarially sound basis liabilities of the Department of Defense and the Coast Guard under military retirement and survivor benefit programs.
 
@@ -33,7 +33,7 @@ retrieved: 2026-10-11
 
 **(3)** the authority provided in section 1408(h) of this title.
 
-(Added Pub. L. 98–94, title IX, § 925(a)(1), Sept. 24, 1983, 97 Stat. 644; amended Pub. L. 101–189, div. A, title XVI, § 1622(e)(7), Nov. 29, 1989, 103 Stat. 1605; Pub. L. 102–484, div. A, title VI, § 653(b)(1), Oct. 23, 1992, 106 Stat. 2428; Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8222, Jan. 1, 2021, 134 Stat. 4658.)
+(Added Pub. L. 98–94, title IX, § 925(a)(1), Sept. 24, 1983, 97 Stat. 644; amended Pub. L. 101–189, div. A, title XVI, § 1622(e)(7), Nov. 29, 1989, 103 Stat. 1605; Pub. L. 102–484, div. A, title VI, § 653(b)(1), Oct. 23, 1992, 106 Stat. 2428; Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8222, Jan. 1, 2021, 134 Stat. 4658.)
 
 **Editorial Notes**
 
@@ -51,7 +51,7 @@ Section 5 of Public Law 96–402, referred to in subsec. (b)(2), is set out as a
 
 1989—Subsec. (b). Pub. L. 101–189 inserted “the term” after “In this chapter,”.
 
-## § 1462. Assets of Fund
+## § 1462. Assets of Fund
 
 There shall be deposited into the Fund the following, which shall constitute the assets of the Fund:
 
@@ -61,21 +61,21 @@ There shall be deposited into the Fund the following, which shall constitute the
 
 **(3)** Any return on investment of the assets of the Fund.
 
-(Added Pub. L. 98–94, title IX, § 925(a)(1), Sept. 24, 1983, 97 Stat. 645.)
+(Added Pub. L. 98–94, title IX, § 925(a)(1), Sept. 24, 1983, 97 Stat. 645.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Appropriations**
 
-Pub. L. 98–94, title IX, § 925(b)(3), Sept. 24, 1983, 97 Stat. 648, required transfer into the Fund on Oct. 1, 1984, of any unobligated balances of appropriations made to the Department of Defense that had been currently available for retired pay, and provided that amounts so transferred would be deemed part of the assets of the Fund.
+Pub. L. 98–94, title IX, § 925(b)(3), Sept. 24, 1983, 97 Stat. 648, required transfer into the Fund on Oct. 1, 1984, of any unobligated balances of appropriations made to the Department of Defense that had been currently available for retired pay, and provided that amounts so transferred would be deemed part of the assets of the Fund.
 
-## § 1463. Payments from the Fund
+## § 1463. Payments from the Fund
 
 **(a)** There shall be paid from the Fund—
 
-**(1)** retired pay payable to members on the retired lists of the Army, Navy, Air Force, Marine Corps, and Coast Guard, and Space Force 1
+**(1)** retired pay payable to members on the retired lists of the Army, Navy, Air Force, Marine Corps, and Coast Guard, and Space Force 1
 
-<sup>1</sup>  See 2021 Amendment notes below.
+<sup>1</sup> See 2021 Amendment notes below.
 
 and payments under section 1413a, 1414, or 1415 of this title paid to such members;
 
@@ -89,7 +89,7 @@ and payments under section 1413a, 1414, or 1415 of this title paid to such membe
 
 **(b)** The assets of the Fund are hereby made available for payments under subsection (a).
 
-(Added Pub. L. 98–94, title IX, § 925(a)(1), Sept. 24, 1983, 97 Stat. 645; amended Pub. L. 101–189, div. A, title VI, § 651(c), Nov. 29, 1989, 103 Stat. 1460; Pub. L. 102–484, div. A, title VI, § 653(b)(2), Oct. 23, 1992, 106 Stat. 2428; Pub. L. 103–35, title II, § 202(a)(4), May 31, 1993, 107 Stat. 101; Pub. L. 104–106, div. A, title XV, § 1501(c)(18), Feb. 10, 1996, 110 Stat. 499; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title VI, § 641(c)(2), Nov. 24, 2003, 117 Stat. 1515; Pub. L. 108–375, div. A, title X, § 1084(d)(11), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 114–92, div. A, title VI, § 633(a)(3), Nov. 25, 2015, 129 Stat. 850; Pub. L. 116–283, div. A, title IX, § 924(b)(1)(L), div. G, title LVXXXII [LXXXII], § 8223, Jan. 1, 2021, 134 Stat. 3820, 4658; Pub. L. 117–81, div. A, title X, § 1081(a)(17), Dec. 27, 2021, 135 Stat. 1920.)
+(Added Pub. L. 98–94, title IX, § 925(a)(1), Sept. 24, 1983, 97 Stat. 645; amended Pub. L. 101–189, div. A, title VI, § 651(c), Nov. 29, 1989, 103 Stat. 1460; Pub. L. 102–484, div. A, title VI, § 653(b)(2), Oct. 23, 1992, 106 Stat. 2428; Pub. L. 103–35, title II, § 202(a)(4), May 31, 1993, 107 Stat. 101; Pub. L. 104–106, div. A, title XV, § 1501(c)(18), Feb. 10, 1996, 110 Stat. 499; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title VI, § 641(c)(2), Nov. 24, 2003, 117 Stat. 1515; Pub. L. 108–375, div. A, title X, § 1084(d)(11), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 114–92, div. A, title VI, § 633(a)(3), Nov. 25, 2015, 129 Stat. 850; Pub. L. 116–283, div. A, title IX, § 924(b)(1)(L), div. G, title LVXXXII [LXXXII], § 8223, Jan. 1, 2021, 134 Stat. 3820, 4658; Pub. L. 117–81, div. A, title X, § 1081(a)(17), Dec. 27, 2021, 135 Stat. 1920.)
 
 **Editorial Notes**
 
@@ -101,17 +101,17 @@ Section 5 of Public Law 96–402, referred to in subsec. (a)(4), is set out as a
 
 **Amendments**
 
-2021—Subsec. (a)(1). Pub. L. 116–283, § 8223(1), which directed substitution of “Marine Corps, and Coast Guard” for “and Marine Corps”, was executed by making the substitution for “Marine Corps” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 116–283, § 924(b)(1)(L). See below.
+2021—Subsec. (a)(1). Pub. L. 116–283, § 8223(1), which directed substitution of “Marine Corps, and Coast Guard” for “and Marine Corps”, was executed by making the substitution for “Marine Corps” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 116–283, § 924(b)(1)(L). See below.
 
-Pub. L. 116–283, § 924(b)(1)(L), substituted “Marine Corps, and Space Force” for “and Marine Corps”.
+Pub. L. 116–283, § 924(b)(1)(L), substituted “Marine Corps, and Space Force” for “and Marine Corps”.
 
-Subsec. (a)(2). Pub. L. 116–283, § 8223(2), struck out “(other than retired pay payable by the Secretary of Homeland Security)” after “armed forces”.
+Subsec. (a)(2). Pub. L. 116–283, § 8223(2), struck out “(other than retired pay payable by the Secretary of Homeland Security)” after “armed forces”.
 
 Subsec. (a)(4). Pub. L. 117–81 substituted “Homeland Security that provide” for “Homeland Security that that provide”.
 
-Pub. L. 116–283, § 8223(3), inserted “and the Department of Homeland Security that” after “Department of Defense”.
+Pub. L. 116–283, § 8223(3), inserted “and the Department of Homeland Security that” after “Department of Defense”.
 
-2015—Subsec. (a)(1). Pub. L. 114–92 substituted “, 1414, or 1415” for “or 1414”.
+2015—Subsec. (a)(1). Pub. L. 114–92 substituted “, 1414, or 1415” for “or 1414”.
 
 2004—Subsec. (a)(1). Pub. L. 108–375 substituted “1413a” for “1413, 1413a,”.
 
@@ -121,7 +121,7 @@ Pub. L. 116–283, § 8223(3), inserted “and the Department of Homeland Secu
 
 1996—Subsec. (a)(2). Pub. L. 104–106 substituted “chapter 1223” for “chapter 67”.
 
-1993—Subsec. (a)(5). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–484, § 653(b)(2). See 1992 Amendment note below.
+1993—Subsec. (a)(5). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–484, § 653(b)(2). See 1992 Amendment note below.
 
 1992—Subsec. (a). Pub. L. 102–484, as amended by Pub. L. 103–35, added par. (5).
 
@@ -143,7 +143,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 **Effective Date of 1993 Amendment**
 
@@ -151,13 +151,13 @@ Amendment by Pub. L. 103–35 applicable as if included in the enactment of Pub.
 
 **Effective Date**
 
-Pub. L. 98–94, title IX, § 925(b)(2), Sept. 24, 1983, 97 Stat. 648, provided that: “Sections 1463 (relating to payments from the Fund) and 1466 (relating to payments to the Fund) of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1984.”
+Pub. L. 98–94, title IX, § 925(b)(2), Sept. 24, 1983, 97 Stat. 648, provided that: “Sections 1463 (relating to payments from the Fund) and 1466 (relating to payments to the Fund) of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1984.”
 
-## [§ 1464. Repealed. Pub. L. 110–181, div. A, title IX, § 906(b)(1)(A), Jan. 28, 2008, 122 Stat. 277]
+## [§ 1464. Repealed. Pub. L. 110–181, div. A, title IX, § 906(b)(1)(A), Jan. 28, 2008, 122 Stat. 277]
 
-Section, added Pub. L. 98–94, title IX, § 925(a)(1), Sept. 24, 1983, 97 Stat. 645; amended Pub. L. 98–525, title XIV, § 1405(27), Oct. 19, 1984, 98 Stat. 2623, established in the Department of Defense a Department of Defense Retirement Board of Actuaries.
+Section, added Pub. L. 98–94, title IX, § 925(a)(1), Sept. 24, 1983, 97 Stat. 645; amended Pub. L. 98–525, title XIV, § 1405(27), Oct. 19, 1984, 98 Stat. 2623, established in the Department of Defense a Department of Defense Retirement Board of Actuaries.
 
-## § 1465. Determination of contributions to the Fund
+## § 1465. Determination of contributions to the Fund
 
 **(a)**
 
@@ -213,7 +213,7 @@ Such single level percentages shall be used for the purposes of subsection (b)(3
 
 **(e)** The Secretary of Defense and, with regard to the Coast Guard, the Secretary of the department in which the Coast Guard is operating shall provide for the keeping of such records as are necessary for determining the actuarial status of the Fund.
 
-(Added Pub. L. 98–94, title IX, § 925(a)(1), Sept. 24, 1983, 97 Stat. 646; amended Pub. L. 98–525, title XIV, § 1405(28), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 99–500, § 101(c) [title IX, § 9131], Oct. 18, 1986, 100 Stat. 1783–82, 1783–128, and Pub. L. 99–591, § 101(c) [title IX, § 9131], Oct. 30, 1986, 100 Stat. 3341–82, 3341–128; Pub. L. 99–661, div. A, title VI, § 661(a), Nov. 14, 1986, 100 Stat. 3891; Pub. L. 108–136, div. A, title VI, § 641(c)(3), (4), Nov. 24, 2003, 117 Stat. 1515; Pub. L. 108–375, div. A, title X, § 1084(d)(11), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–364, div. A, title V, § 591(a), Oct. 17, 2006, 120 Stat. 2232; Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8224, Jan. 1, 2021, 134 Stat. 4658; Pub. L. 117–81, div. A, title X, § 1081(a)(18), Dec. 27, 2021, 135 Stat. 1920; Pub. L. 118–159, div. A, title XVII, § 1701(a)(21), Dec. 23, 2024, 138 Stat. 2204.)
+(Added Pub. L. 98–94, title IX, § 925(a)(1), Sept. 24, 1983, 97 Stat. 646; amended Pub. L. 98–525, title XIV, § 1405(28), Oct. 19, 1984, 98 Stat. 2623; Pub. L. 99–500, § 101(c) [title IX, § 9131], Oct. 18, 1986, 100 Stat. 1783–82, 1783–128, and Pub. L. 99–591, § 101(c) [title IX, § 9131], Oct. 30, 1986, 100 Stat. 3341–82, 3341–128; Pub. L. 99–661, div. A, title VI, § 661(a), Nov. 14, 1986, 100 Stat. 3891; Pub. L. 108–136, div. A, title VI, § 641(c)(3), (4), Nov. 24, 2003, 117 Stat. 1515; Pub. L. 108–375, div. A, title X, § 1084(d)(11), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–364, div. A, title V, § 591(a), Oct. 17, 2006, 120 Stat. 2232; Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8224, Jan. 1, 2021, 134 Stat. 4658; Pub. L. 117–81, div. A, title X, § 1081(a)(18), Dec. 27, 2021, 135 Stat. 1920; Pub. L. 118–159, div. A, title XVII, § 1701(a)(21), Dec. 23, 2024, 138 Stat. 2204.)
 
 **Editorial Notes**
 
@@ -227,59 +227,59 @@ Amendment of section by Pub. L. 99–500 and Pub. L. 99–591 is based on sectio
 
 2024—Subsec. (e). Pub. L. 118–159 inserted “shall” before “provide”.
 
-2021—Subsec. (a). Pub. L. 116–283, § 8224(1), designated existing provisions as par. (1) and added par. (2).
+2021—Subsec. (a). Pub. L. 116–283, § 8224(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b)(1). Pub. L. 116–283, § 8224(2)(A)(i), in introductory provisions, inserted “, in consultation with the Secretary of the department in which the Coast Guard is operating,” after “Secretary of Defense” and “and Coast Guard” after “Department of Defense”.
+Subsec. (b)(1). Pub. L. 116–283, § 8224(2)(A)(i), in introductory provisions, inserted “, in consultation with the Secretary of the department in which the Coast Guard is operating,” after “Secretary of Defense” and “and Coast Guard” after “Department of Defense”.
 
-Subsec. (b)(1)(A)(ii). Pub. L. 116–283, § 8224(2)(A)(ii), substituted “members of the Armed Forces” for “(other than the Coast Guard)”.
+Subsec. (b)(1)(A)(ii). Pub. L. 116–283, § 8224(2)(A)(ii), substituted “members of the Armed Forces” for “(other than the Coast Guard)”.
 
-Subsec. (b)(1)(B)(ii). Pub. L. 116–283, § 8224(2)(A)(iii), struck out “(other than the Coast Guard)” after “armed forces”.
+Subsec. (b)(1)(B)(ii). Pub. L. 116–283, § 8224(2)(A)(iii), struck out “(other than the Coast Guard)” after “armed forces”.
 
 Subsec. (b)(2). Pub. L. 117–81 substituted “account and the Department” for “account and the the Department”.
 
-Pub. L. 116–283, § 8224(2)(B), inserted “the Coast Guard Retired Pay account and the” after “appropriated to”.
+Pub. L. 116–283, § 8224(2)(B), inserted “the Coast Guard Retired Pay account and the” after “appropriated to”.
 
-Subsec. (b)(3). Pub. L. 116–283, § 8224(2)(C), inserted “and Coast Guard” after “Department of Defense”.
+Subsec. (b)(3). Pub. L. 116–283, § 8224(2)(C), inserted “and Coast Guard” after “Department of Defense”.
 
-Subsec. (c)(1). Pub. L. 116–283, § 8224(3)(A)(i), inserted “, in consultation with the Secretary of the department in which the Coast Guard is operating,” after “Secretary of Defense” in introductory provisions.
+Subsec. (c)(1). Pub. L. 116–283, § 8224(3)(A)(i), inserted “, in consultation with the Secretary of the department in which the Coast Guard is operating,” after “Secretary of Defense” in introductory provisions.
 
-Subsec. (c)(1)(A). Pub. L. 116–283, § 8224(3)(A)(ii), substituted “members of the Armed Forces” for “(other than the Coast Guard)”.
+Subsec. (c)(1)(A). Pub. L. 116–283, § 8224(3)(A)(ii), substituted “members of the Armed Forces” for “(other than the Coast Guard)”.
 
-Subsec. (c)(1)(B). Pub. L. 116–283, § 8224(3)(A)(iii), struck out “(other than the Coast Guard)” after “armed forces”.
+Subsec. (c)(1)(B). Pub. L. 116–283, § 8224(3)(A)(iii), struck out “(other than the Coast Guard)” after “armed forces”.
 
-Subsec. (c)(2). Pub. L. 116–283, § 8224(3)(B), inserted “, in consultation with the Secretary of the department in which the Coast Guard is operating,” after “Secretary of Defense”.
+Subsec. (c)(2). Pub. L. 116–283, § 8224(3)(B), inserted “, in consultation with the Secretary of the department in which the Coast Guard is operating,” after “Secretary of Defense”.
 
-Subsec. (c)(3). Pub. L. 116–283, § 8224(3)(C), inserted “, in consultation with the Secretary of the department in which the Coast Guard is operating,” after “Secretary of Defense”.
+Subsec. (c)(3). Pub. L. 116–283, § 8224(3)(C), inserted “, in consultation with the Secretary of the department in which the Coast Guard is operating,” after “Secretary of Defense”.
 
-Subsec. (e). Pub. L. 116–283, § 8224(4), substituted “Secretary of Defense and, with regard to the Coast Guard, the Secretary of the department in which the Coast Guard is operating” for “Secretary of Defense shall”.
+Subsec. (e). Pub. L. 116–283, § 8224(4), substituted “Secretary of Defense and, with regard to the Coast Guard, the Secretary of the department in which the Coast Guard is operating” for “Secretary of Defense shall”.
 
-2006—Subsec. (b)(1)(A)(ii). Pub. L. 109–364, § 591(a)(1)(A), substituted “for active duty (other than the Coast Guard) and for full-time National Guard duty (other than full-time National Guard duty for training only), but excluding the amount expected to be paid for any duty that would be excluded for active-duty end strength purposes by section 115(i) of this title” for “to members of the armed forces (other than the Coast Guard) on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only)”.
+2006—Subsec. (b)(1)(A)(ii). Pub. L. 109–364, § 591(a)(1)(A), substituted “for active duty (other than the Coast Guard) and for full-time National Guard duty (other than full-time National Guard duty for training only), but excluding the amount expected to be paid for any duty that would be excluded for active-duty end strength purposes by section 115(i) of this title” for “to members of the armed forces (other than the Coast Guard) on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only)”.
 
-Subsec. (b)(1)(B)(ii). Pub. L. 109–364, § 591(a)(1)(B), substituted “Selected Reserve” for “Ready Reserve” and “Coast Guard) for service” for “Coast Guard and other than members on full-time National Guard duty other than for training) who are”.
+Subsec. (b)(1)(B)(ii). Pub. L. 109–364, § 591(a)(1)(B), substituted “Selected Reserve” for “Ready Reserve” and “Coast Guard) for service” for “Coast Guard and other than members on full-time National Guard duty other than for training) who are”.
 
-Subsec. (c)(1)(A). Pub. L. 109–364, § 591(a)(2)(A), substituted “for active duty (other than the Coast Guard) and for full-time National Guard duty (other than full-time National Guard duty for training only), but excluding the amount expected to be paid for any duty that would be excluded for active-duty end strength purposes by section 115(i) of this title” for “for members of the armed forces (other than the Coast Guard) on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only)”.
+Subsec. (c)(1)(A). Pub. L. 109–364, § 591(a)(2)(A), substituted “for active duty (other than the Coast Guard) and for full-time National Guard duty (other than full-time National Guard duty for training only), but excluding the amount expected to be paid for any duty that would be excluded for active-duty end strength purposes by section 115(i) of this title” for “for members of the armed forces (other than the Coast Guard) on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only)”.
 
-Subsec. (c)(1)(B). Pub. L. 109–364, § 591(a)(2)(B), substituted “Selected Reserve” for “Ready Reserve” and “Coast Guard) for service” for “Coast Guard and other than members on full-time National Guard duty other than for training) who are”.
+Subsec. (c)(1)(B). Pub. L. 109–364, § 591(a)(2)(B), substituted “Selected Reserve” for “Ready Reserve” and “Coast Guard) for service” for “Coast Guard and other than members on full-time National Guard duty other than for training) who are”.
 
 2004—Subsec. (c)(1)(A), (B), (4)(A), (B). Pub. L. 108–375 substituted “1413a” for “1413, 1413a,”.
 
-2003—Subsec. (b)(3). Pub. L. 108–136, § 641(c)(3), added par. (3).
+2003—Subsec. (b)(3). Pub. L. 108–136, § 641(c)(3), added par. (3).
 
-Subsec. (c)(1). Pub. L. 108–136, § 641(c)(4)(A)(iii), substituted “subsection (b)(1)” for “subsection (b)” in concluding provisions.
+Subsec. (c)(1). Pub. L. 108–136, § 641(c)(4)(A)(iii), substituted “subsection (b)(1)” for “subsection (b)” in concluding provisions.
 
-Subsec. (c)(1)(A). Pub. L. 108–136, § 641(c)(4)(A)(i), inserted before semicolon “, to be determined without regard to section 1413, 1413a, or 1414 of this title”.
+Subsec. (c)(1)(A). Pub. L. 108–136, § 641(c)(4)(A)(i), inserted before semicolon “, to be determined without regard to section 1413, 1413a, or 1414 of this title”.
 
-Subsec. (c)(1)(B). Pub. L. 108–136, § 641(c)(4)(A)(ii), inserted before period at end “, to be determined without regard to section 1413, 1413a, or 1414 of this title”.
+Subsec. (c)(1)(B). Pub. L. 108–136, § 641(c)(4)(A)(ii), inserted before period at end “, to be determined without regard to section 1413, 1413a, or 1414 of this title”.
 
-Subsec. (c)(4), (5). Pub. L. 108–136, § 641(c)(4)(B), (C), added par. (4) and redesignated former par. (4) as (5).
+Subsec. (c)(4), (5). Pub. L. 108–136, § 641(c)(4)(B), (C), added par. (4) and redesignated former par. (4) as (5).
 
-1985—Subsec. (b)(1). Pub. L. 99–500 and Pub. L. 99–591, Pub. L. 99–661, § 661(a), amended par. (1) identically, inserting second sentence and striking out the existing second sentence which read as follows: “That amount shall be determined as the product of—
+1985—Subsec. (b)(1). Pub. L. 99–500 and Pub. L. 99–591, Pub. L. 99–661, § 661(a), amended par. (1) identically, inserting second sentence and striking out the existing second sentence which read as follows: “That amount shall be determined as the product of—
 
 “(A) the current estimate of the value of the single level percentage of basic pay to be determined at the time of the next actuarial valuation under subsection (c); and
 
 “(B) the total amount of basic pay expected to be paid during that fiscal year to members of the armed forces (other than the Coast Guard) on active duty or in the Selected Reserve.”
 
-Subsec. (c)(1). Pub. L. 99–500 and Pub. L. 99–591, Pub. L. 99–661, § 661(a)(2), amended par. (1) identically, inserting second and third sentences and striking out existing second sentence which read as follows: “Each actuarial valuation of such programs shall include a determination (using the aggregate entry-age normal cost method) of a single level percentage of basic pay to be used for the purposes of subsection (b) and section 1466(a) of this title.”
+Subsec. (c)(1). Pub. L. 99–500 and Pub. L. 99–591, Pub. L. 99–661, § 661(a)(2), amended par. (1) identically, inserting second and third sentences and striking out existing second sentence which read as follows: “Each actuarial valuation of such programs shall include a determination (using the aggregate entry-age normal cost method) of a single level percentage of basic pay to be used for the purposes of subsection (b) and section 1466(a) of this title.”
 
 1984—Subsec. (c)(1). Pub. L. 98–525 struck out “(A)” after “(c)(1)”.
 
@@ -287,7 +287,7 @@ Subsec. (c)(1). Pub. L. 99–500 and Pub. L. 99–591, Pub. L. 99–661, § 66
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–364, div. A, title V, § 591(c), Oct. 17, 2006, 120 Stat. 2233, provided that: “The amendments made by this section [amending this section and section 1466 of this title] shall take effect on October 1, 2007.”
+Pub. L. 109–364, div. A, title V, § 591(c), Oct. 17, 2006, 120 Stat. 2233, provided that: “The amendments made by this section [amending this section and section 1466 of this title] shall take effect on October 1, 2007.”
 
 **Effective Date of 2003 Amendment**
 
@@ -295,9 +295,9 @@ Amendment by Pub. L. 108–136 effective Oct. 1, 2003, with Secretary of Defense
 
 **Effective Date of 1986 Amendments**
 
-Section 642(c) of S. 2638, as passed by the Senate on Aug. 9, 1986, and as enacted into law by section 101(c) [title IX, § 9131] of Pub. L. 99–500 and Pub. L. 99–591, and section 661(d) of Pub. L. 99–661, provided respectively that: “The amendments made by this section [amending this section and section 1466 of this title] shall take effect on October 1, 1986, or the date of the enactment of this Act [Oct. 18, 1986], whichever is later, and shall apply to payments required to be made under section 1466(a) of title 10, United States Code, as amended by this section, for months beginning on or after that effective date.” and “The amendments made by subsections (a) and (b) [amending this section and section 1466 of this title] shall apply to payments required to be made under section 1466(a) of title 10, United States Code, as amended by subsection (b), for months beginning on or after the date of the enactment of this Act [Nov. 14, 1986].”
+Section 642(c) of S. 2638, as passed by the Senate on Aug. 9, 1986, and as enacted into law by section 101(c) [title IX, § 9131] of Pub. L. 99–500 and Pub. L. 99–591, and section 661(d) of Pub. L. 99–661, provided respectively that: “The amendments made by this section [amending this section and section 1466 of this title] shall take effect on October 1, 1986, or the date of the enactment of this Act [Oct. 18, 1986], whichever is later, and shall apply to payments required to be made under section 1466(a) of title 10, United States Code, as amended by this section, for months beginning on or after that effective date.” and “The amendments made by subsections (a) and (b) [amending this section and section 1466 of this title] shall apply to payments required to be made under section 1466(a) of title 10, United States Code, as amended by subsection (b), for months beginning on or after the date of the enactment of this Act [Nov. 14, 1986].”
 
-## § 1466. Payments into the Fund
+## § 1466. Payments into the Fund
 
 **(a)** The Secretary of Defense and the Secretary of the department in which the Coast Guard is operating, with respect to the Coast Guard, shall pay into the Fund at the end of each month the respective pro rata share contribution of the Secretary of Defense and the Secretary of the department in which the Coast Guard is operating to the Fund for that month the amount that is the sum of the following:
 
@@ -343,13 +343,13 @@ Section 642(c) of S. 2638, as passed by the Senate on Aug. 9, 1986, and as enact
 
 **(3)** The Department of Defense Board of Actuaries shall determine, for each armed force, the amount required under paragraph (1) to be deposited in the Fund each fiscal year.
 
-(Added Pub. L. 98–94, title IX, § 925(a)(1), Sept. 24, 1983, 97 Stat. 647; amended Pub. L. 99–500, § 101(c) [title IX, §§ 9103(3), 9131], Oct. 18, 1986, 100 Stat. 1783–82, 1783–118, 1783–128, and Pub. L. 99–591, § 101(c) [title IX, §§ 9103(3), 9131], Oct. 30, 1986, 100 Stat. 3341–82, 3341–118, 3341–128; Pub. L. 99–661, div. A, title VI, § 661(b), Nov. 14, 1986, 100 Stat. 3892; Pub. L. 100–26, §§ 4(a)(1), 7(a)(3), Apr. 21, 1987, 101 Stat. 274, 275; Pub. L. 106–65, div. A, title VI, § 651(b), Oct. 5, 1999, 113 Stat. 664; Pub. L. 108–136, div. A, title VI, § 641(c)(5), Nov. 24, 2003, 117 Stat. 1516; Pub. L. 108–375, div. A, title X, § 1084(d)(11), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–364, div. A, title V, § 591(b), Oct. 17, 2006, 120 Stat. 2233; Pub. L. 110–181, div. A, title IX, § 906(c)(3), title X, § 1063(c)(4), Jan. 28, 2008, 122 Stat. 277, 322; Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8225, Jan. 1, 2021, 134 Stat. 4659; Pub. L. 117–81, div. A, title X, § 1081(a)(19), Dec. 27, 2021, 135 Stat. 1920.)
+(Added Pub. L. 98–94, title IX, § 925(a)(1), Sept. 24, 1983, 97 Stat. 647; amended Pub. L. 99–500, § 101(c) [title IX, §§ 9103(3), 9131], Oct. 18, 1986, 100 Stat. 1783–82, 1783–118, 1783–128, and Pub. L. 99–591, § 101(c) [title IX, §§ 9103(3), 9131], Oct. 30, 1986, 100 Stat. 3341–82, 3341–118, 3341–128; Pub. L. 99–661, div. A, title VI, § 661(b), Nov. 14, 1986, 100 Stat. 3892; Pub. L. 100–26, §§ 4(a)(1), 7(a)(3), Apr. 21, 1987, 101 Stat. 274, 275; Pub. L. 106–65, div. A, title VI, § 651(b), Oct. 5, 1999, 113 Stat. 664; Pub. L. 108–136, div. A, title VI, § 641(c)(5), Nov. 24, 2003, 117 Stat. 1516; Pub. L. 108–375, div. A, title X, § 1084(d)(11), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–364, div. A, title V, § 591(b), Oct. 17, 2006, 120 Stat. 2233; Pub. L. 110–181, div. A, title IX, § 906(c)(3), title X, § 1063(c)(4), Jan. 28, 2008, 122 Stat. 277, 322; Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8225, Jan. 1, 2021, 134 Stat. 4659; Pub. L. 117–81, div. A, title X, § 1081(a)(19), Dec. 27, 2021, 135 Stat. 1920.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 5532 of title 5, referred to in subsec. (d)(1), was repealed by Pub. L. 106–65, div. A, title VI, § 651(a)(1), Oct. 5, 1999, 113 Stat. 664.
+Section 5532 of title 5, referred to in subsec. (d)(1), was repealed by Pub. L. 106–65, div. A, title VI, § 651(a)(1), Oct. 5, 1999, 113 Stat. 664.
 
 **Codification**
 
@@ -361,43 +361,43 @@ Amendment of section by section 9131 of Pub. L. 99–500 and Pub. L. 99–591 is
 
 2021—Subsec. (a). Pub. L. 117–81, in introductory provisions, substituted “with respect to the Coast Guard” for “with respect to the Coast guard”.
 
-Pub. L. 116–283, § 8225(1)(A), (C), in introductory provisions, substituted “Secretary of Defense and the Secretary of the department in which the Coast Guard is operating, with respect to the Coast guard, shall” for “Secretary of Defense shall” and “each month the respective pro rata share contribution of the Secretary of Defense and the Secretary of the department in which the Coast Guard is operating” for “each month as the Department of Defense contribution” and struck out concluding provisions which read as follows:“Amounts paid into the Fund under this subsection shall be paid from funds available for the pay of members of the armed forces under the jurisdiction of the Secretary of a military department.”
+Pub. L. 116–283, § 8225(1)(A), (C), in introductory provisions, substituted “Secretary of Defense and the Secretary of the department in which the Coast Guard is operating, with respect to the Coast guard, shall” for “Secretary of Defense shall” and “each month the respective pro rata share contribution of the Secretary of Defense and the Secretary of the department in which the Coast Guard is operating” for “each month as the Department of Defense contribution” and struck out concluding provisions which read as follows:“Amounts paid into the Fund under this subsection shall be paid from funds available for the pay of members of the armed forces under the jurisdiction of the Secretary of a military department.”
 
-Subsec. (a)(2)(B). Pub. L. 116–283, § 8225(1)(B), struck out “(other than the Coast Guard)” after “armed forces”.
+Subsec. (a)(2)(B). Pub. L. 116–283, § 8225(1)(B), struck out “(other than the Coast Guard)” after “armed forces”.
 
-Subsec. (b). Pub. L. 116–283, § 8225(1)(C), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 116–283, § 8225(1)(C), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 116–283, § 8225(2), which directed redesignation of subsec. (b) as (c), was executed by redesignating the subsec. (b) relating to the prompt payment by the Secretary of the Treasury of certified amounts under the amortization schedule determined by the Board of Actuaries as (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 116–283, § 8225(2), which directed redesignation of subsec. (b) as (c), was executed by redesignating the subsec. (b) relating to the prompt payment by the Secretary of the Treasury of certified amounts under the amortization schedule determined by the Board of Actuaries as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (c)(2)(A). Pub. L. 116–283, § 8225(3)(A), substituted “liabilities of the Fund for the Department of Defense and the Coast Guard.” for “liability of the Fund.”
+Subsec. (c)(2)(A). Pub. L. 116–283, § 8225(3)(A), substituted “liabilities of the Fund for the Department of Defense and the Coast Guard.” for “liability of the Fund.”
 
-Subsec. (c)(3). Pub. L. 116–283, § 8225(3)(B), inserted “and the Secretary of the Department in which the Coast Guard is operating” before “shall promptly”.
+Subsec. (c)(3). Pub. L. 116–283, § 8225(3)(B), inserted “and the Secretary of the Department in which the Coast Guard is operating” before “shall promptly”.
 
-Subsec. (d). Pub. L. 116–283, § 8225(2), redesignated subsec. (c) as (d).
+Subsec. (d). Pub. L. 116–283, § 8225(2), redesignated subsec. (c) as (d).
 
-2008—Subsec. (a)(1)(B). Pub. L. 110–181, § 1063(c)(4), amended Pub. L. 109–364, § 591(b)(1). See 2006 Amendment note below.
+2008—Subsec. (a)(1)(B). Pub. L. 110–181, § 1063(c)(4), amended Pub. L. 109–364, § 591(b)(1). See 2006 Amendment note below.
 
-Subsec. (c)(3). Pub. L. 110–181, § 906(c)(3), struck out “Retirement” before “Board of Actuaries”.
+Subsec. (c)(3). Pub. L. 110–181, § 906(c)(3), struck out “Retirement” before “Board of Actuaries”.
 
-2006—Subsec. (a)(1)(B). Pub. L. 109–364, § 591(b)(1), as amended by Pub. L. 110–181, § 1063(c)(4), substituted “for active duty (other than the Coast Guard) and for full-time National Guard duty (other than full-time National Guard duty for training only), but excluding the amount expected to be paid for any duty that would be excluded for active-duty end strength purposes by section 115(i) of this title.” for “by members of the armed forces (other than the Coast Guard) on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only).”
+2006—Subsec. (a)(1)(B). Pub. L. 109–364, § 591(b)(1), as amended by Pub. L. 110–181, § 1063(c)(4), substituted “for active duty (other than the Coast Guard) and for full-time National Guard duty (other than full-time National Guard duty for training only), but excluding the amount expected to be paid for any duty that would be excluded for active-duty end strength purposes by section 115(i) of this title.” for “by members of the armed forces (other than the Coast Guard) on active duty (other than active duty for training) or full-time National Guard duty (other than full-time National Guard duty for training only).”
 
-Subsec. (a)(2)(B). Pub. L. 109–364, § 591(b)(2), substituted “Selected Reserve” for “Ready Reserve” and “Coast Guard) for service” for “Coast Guard and other than members on full-time National Guard duty other than for training) who are”.
+Subsec. (a)(2)(B). Pub. L. 109–364, § 591(b)(2), substituted “Selected Reserve” for “Ready Reserve” and “Coast Guard) for service” for “Coast Guard and other than members on full-time National Guard duty other than for training) who are”.
 
 2004—Subsec. (b)(2)(D). Pub. L. 108–375 substituted “1413a” for “1413, 1413a,”.
 
-2003—Subsec. (b)(1). Pub. L. 108–136, § 641(c)(5)(A), substituted “sections 1465(a), 1465(b)(3), 1465(c)(2), and 1465(c)(3)” for “sections 1465(a) and 1465(c)”.
+2003—Subsec. (b)(1). Pub. L. 108–136, § 641(c)(5)(A), substituted “sections 1465(a), 1465(b)(3), 1465(c)(2), and 1465(c)(3)” for “sections 1465(a) and 1465(c)”.
 
-Subsec. (b)(2)(D). Pub. L. 108–136, § 641(c)(5)(B), added subpar. (D).
+Subsec. (b)(2)(D). Pub. L. 108–136, § 641(c)(5)(B), added subpar. (D).
 
 1999—Subsec. (c). Pub. L. 106–65 added subsec. (c).
 
-1987—Subsec. (a). Pub. L. 100–26, § 7(a)(3), inserted at end “Amounts paid into the Fund under this subsection shall be paid from funds available for the pay of members of the armed forces under the jurisdiction of the Secretary of a military department.”
+1987—Subsec. (a). Pub. L. 100–26, § 7(a)(3), inserted at end “Amounts paid into the Fund under this subsection shall be paid from funds available for the pay of members of the armed forces under the jurisdiction of the Secretary of a military department.”
 
-Subsec. (a)(1)(B), (2)(B). Pub. L. 100–26, § 4(a)(1), amended Pub. L. 99–500 and 99–591, title I, § 101(c) [title IX, § 9103(3)]. See 1986 Amendment note below.
+Subsec. (a)(1)(B), (2)(B). Pub. L. 100–26, § 4(a)(1), amended Pub. L. 99–500 and 99–591, title I, § 101(c) [title IX, § 9103(3)]. See 1986 Amendment note below.
 
 1986—Subsec. (a). Pub. L. 99–661 amended first sentence of subsec. (a), which after amendment by Pub. L. 99–500 and Pub. L. 99–591 was the only sentence of subsec. (a), by substituting language which was substantially identical to that substituted by Pub. L. 99–500 and Pub. L. 99–591.
 
-Pub. L. 99–500 and Pub. L. 99–591, title I, § 101(c) [§ 9131], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of Defense shall pay into the Fund at the end of each month as the Department of Defense contribution to the Fund for that month the amount that is the product of—
+Pub. L. 99–500 and Pub. L. 99–591, title I, § 101(c) [§ 9131], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary of Defense shall pay into the Fund at the end of each month as the Department of Defense contribution to the Fund for that month the amount that is the product of—
 
 “(1) the level percentage of basic pay determined under the most recent (as of the first day of the current fiscal year) actuarial valuation under section 1465(c) of this title; and
 
@@ -405,13 +405,13 @@ Pub. L. 99–500 and Pub. L. 99–591, title I, § 101(c) [§ 9131], amended
 
 Amounts paid into the Fund under this subsection shall be paid from funds available for the pay of members of the armed forces under the jurisdiction of the Secretary of a military department.”
 
-Subsec. (a)(1)(B), (2)(B). Pub. L. 99–500 and Pub. L. 99–591, title I, § 101(c) [title IX, § 9103(3)], as amended by Pub. L. 100–26, § 4(a)(1), substituted “accrued for that month by” for “paid that month to” in pars. (1)(B) and (2)(B) as amended by section 661(b) of Pub. L. 99–661, see above.
+Subsec. (a)(1)(B), (2)(B). Pub. L. 99–500 and Pub. L. 99–591, title I, § 101(c) [title IX, § 9103(3)], as amended by Pub. L. 100–26, § 4(a)(1), substituted “accrued for that month by” for “paid that month to” in pars. (1)(B) and (2)(B) as amended by section 661(b) of Pub. L. 99–661, see above.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–181, div. A, title X, § 1063(c), Jan. 28, 2008, 122 Stat. 322, provided that the amendment made by section 1063(c)(4) is effective as of Oct. 17, 2006, and as if included in the John Warner National Defense Authorization Act for Fiscal Year 2007, Pub. L. 109–364, as enacted.
+Pub. L. 110–181, div. A, title X, § 1063(c), Jan. 28, 2008, 122 Stat. 322, provided that the amendment made by section 1063(c)(4) is effective as of Oct. 17, 2006, and as if included in the John Warner National Defense Authorization Act for Fiscal Year 2007, Pub. L. 109–364, as enacted.
 
 **Effective Date of 2006 Amendment**
 
@@ -423,26 +423,26 @@ Amendment by Pub. L. 108–136 effective Oct. 1, 2003, with Secretary of Defense
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–65, div. A, title VI, § 651(c), Oct. 5, 1999, 113 Stat. 664, provided that: “The amendments made by this section [amending this section and repealing section 5532 of Title 5, Government Organization and Employees] shall take effect on October 1, 1999.”
+Pub. L. 106–65, div. A, title VI, § 651(c), Oct. 5, 1999, 113 Stat. 664, provided that: “The amendments made by this section [amending this section and repealing section 5532 of Title 5, Government Organization and Employees] shall take effect on October 1, 1999.”
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–26, § 12(b), Apr. 21, 1987, 101 Stat. 289, provided that: “The amendments made by section 4 [amending this section and provisions set out as a note under section 1014 of Title 37, Pay and Allowances of the Uniformed Services] shall apply as if included in Public Laws 99–500 and 99–591 when enacted on October 18, 1986, and October 30, 1986, respectively.”
+Pub. L. 100–26, § 12(b), Apr. 21, 1987, 101 Stat. 289, provided that: “The amendments made by section 4 [amending this section and provisions set out as a note under section 1014 of Title 37, Pay and Allowances of the Uniformed Services] shall apply as if included in Public Laws 99–500 and 99–591 when enacted on October 18, 1986, and October 30, 1986, respectively.”
 
 **Effective Date of 1986 Amendments**
 
 Amendment by Pub. L. 99–661 applicable to payments required to be made under subsec. (a) of this section for months beginning on or after Nov. 14, 1986, see section 661(d) of Pub. L. 99–661, set out as a note under section 1465 of this title.
 
-Amendment by section 101(c) [title IX, § 9131] of Pub. L. 99–500 and Pub. L. 99–591 effective Oct. 18, 1986, and applicable to payments required to be made under subsec. (a) of this section for months beginning on or after that date, see section 642(c) of S. 2638, as enacted into law, set out as a note under section 1465 of this title.
+Amendment by section 101(c) [title IX, § 9131] of Pub. L. 99–500 and Pub. L. 99–591 effective Oct. 18, 1986, and applicable to payments required to be made under subsec. (a) of this section for months beginning on or after that date, see section 642(c) of S. 2638, as enacted into law, set out as a note under section 1465 of this title.
 
-Amendment by section 101(c) [title IX, § 9103(3)] of Pub. L. 99–500 and Pub. L. 99–591 effective Sept. 1, 1987, see section 101(c) [title IX, § 9103(4)] of Pub. L. 99–500 and Pub. L. 99–591, as amended, set out as an Effective Date note under section 1014 of Title 37, Pay and Allowances of the Uniformed Services.
+Amendment by section 101(c) [title IX, § 9103(3)] of Pub. L. 99–500 and Pub. L. 99–591 effective Sept. 1, 1987, see section 101(c) [title IX, § 9103(4)] of Pub. L. 99–500 and Pub. L. 99–591, as amended, set out as an Effective Date note under section 1014 of Title 37, Pay and Allowances of the Uniformed Services.
 
 **Effective Date**
 
 Section effective Oct. 1, 1984, see section 925(b)(2) of Pub. L. 98–94, set out as a note under section 1463 of this title.
 
-## § 1467. Investment of assets of Fund
+## § 1467. Investment of assets of Fund
 
 The Secretary of the Treasury shall invest such portion of the Fund as is not in the judgment of the Secretary of Defense required to meet current withdrawals. Such investments shall be in public debt securities with maturities suitable to the needs of the Fund, as determined by the Secretary of Defense, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. The income on such investments shall be credited to and form a part of the Fund.
 
-(Added Pub. L. 98–94, title IX, § 925(a)(1), Sept. 24, 1983, 97 Stat. 648.)
+(Added Pub. L. 98–94, title IX, § 925(a)(1), Sept. 24, 1983, 97 Stat. 648.)

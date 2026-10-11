@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 53—CONTROL OF ILLEGALLY TAKEN FISH AND WILDLIFE
 
-## § 3371. Definitions
+## § 3371. Definitions
 
 For the purposes of this chapter:
 
@@ -65,7 +65,7 @@ For the purposes of this chapter:
 
 **(l)** The term “transport” means to move, convey, carry, or ship by any means, or to deliver or receive for the purpose of movement, conveyance, carriage, or shipment.
 
-(Pub. L. 97–79, § 2, Nov. 16, 1981, 95 Stat. 1073; Pub. L. 108–191, § 2, Dec. 19, 2003, 117 Stat. 2871; Pub. L. 110–234, title VIII, § 8204(a), May 22, 2008, 122 Stat. 1291; Pub. L. 110–246, § 4(a), title VIII, § 8204(a), June 18, 2008, 122 Stat. 1664, 2052; Pub. L. 117–243, § 2(a), Dec. 20, 2022, 136 Stat. 2336.)
+(Pub. L. 97–79, § 2, Nov. 16, 1981, 95 Stat. 1073; Pub. L. 108–191, § 2, Dec. 19, 2003, 117 Stat. 2871; Pub. L. 110–234, title VIII, § 8204(a), May 22, 2008, 122 Stat. 1291; Pub. L. 110–246, § 4(a), title VIII, § 8204(a), June 18, 2008, 122 Stat. 1664, 2052; Pub. L. 117–243, § 2(a), Dec. 20, 2022, 136 Stat. 2336.)
 
 **Editorial Notes**
 
@@ -73,7 +73,7 @@ For the purposes of this chapter:
 
 This chapter, referred to in the provision preceding subsec. (a) and in subsec. (i), was in the original “this Act” and “the Act”, meaning Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (g)(3)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (g)(3)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 Reorganization Plan No. 4 of 1970 (84 Stat. 2090), referred to in subsec. (i), is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -85,11 +85,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2022—Subsecs. (a) to (*l*). Pub. L. 117–243 added subsec. (a) and redesignated former subsecs. (a) to (k) as (b) to (*l*), respectively.
 
-2008—Subsec. (f). Pub. L. 110–246, § 8204(a)(1), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The terms ‘plant’ and ‘plants’ mean any wild member of the plant kingdom, including roots, seeds, and other parts thereof (but excluding common food crops and cultivars) which is indigenous to any State and which is either (A) listed on an appendix to the Convention on International Trade in Endangered Species of Wild Fauna and Flora, or (B) listed pursuant to any State law that provides for the conservation of species threatened with extinction.”
+2008—Subsec. (f). Pub. L. 110–246, § 8204(a)(1), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The terms ‘plant’ and ‘plants’ mean any wild member of the plant kingdom, including roots, seeds, and other parts thereof (but excluding common food crops and cultivars) which is indigenous to any State and which is either (A) listed on an appendix to the Convention on International Trade in Endangered Species of Wild Fauna and Flora, or (B) listed pursuant to any State law that provides for the conservation of species threatened with extinction.”
 
-Subsec. (h). Pub. L. 110–246, § 8204(a)(2), substituted “plants, the term also means” for “plants the term means”.
+Subsec. (h). Pub. L. 110–246, § 8204(a)(2), substituted “plants, the term also means” for “plants the term means”.
 
-Subsec. (j). Pub. L. 110–246, § 8204(a)(3), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “The term ‘taken’ means captured, killed, or collected.”
+Subsec. (j). Pub. L. 110–246, § 8204(a)(3), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “The term ‘taken’ means captured, killed, or collected.”
 
 2003—Subsecs. (g) to (k). Pub. L. 108–191 added subsec. (g) and redesignated former subsecs. (g) to (j) as (h) to (k), respectively.
 
@@ -101,17 +101,17 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–243, § 1, Dec. 20, 2022, 136 Stat. 2336, provided that: “This Act [amending this section, sections 3372 to 3374 and 3376 of this title, and section 1997 of Title 7, Agriculture] may be cited as the ‘Big Cat Public Safety Act’.”
+Pub. L. 117–243, § 1, Dec. 20, 2022, 136 Stat. 2336, provided that: “This Act [amending this section, sections 3372 to 3374 and 3376 of this title, and section 1997 of Title 7, Agriculture] may be cited as the ‘Big Cat Public Safety Act’.”
 
 **Short Title of 2003 Amendment**
 
-Pub. L. 108–191, § 1, Dec. 19, 2003, 117 Stat. 2871, provided that: “This Act [amending this section and section 3372 of this title and enacting provisions set out as a note under section 3372 of this title] may be cited as the ‘Captive Wildlife Safety Act’.”
+Pub. L. 108–191, § 1, Dec. 19, 2003, 117 Stat. 2871, provided that: “This Act [amending this section and section 3372 of this title and enacting provisions set out as a note under section 3372 of this title] may be cited as the ‘Captive Wildlife Safety Act’.”
 
 **Short Title**
 
-Pub. L. 97–79, § 1, Nov. 16, 1981, 95 Stat. 1073, provided: “That this Act [enacting this chapter, amending section 1540 of this title and section 42 of Title 18, Crimes and Criminal Procedure, repealing sections 667e and 851 to 856 of this title and sections 43, 44, 3054, and 3112 of Title 18, and enacting provisions set out as a note under section 1540 of this title] may be cited as the ‘Lacey Act Amendments of 1981’.”
+Pub. L. 97–79, § 1, Nov. 16, 1981, 95 Stat. 1073, provided: “That this Act [enacting this chapter, amending section 1540 of this title and section 42 of Title 18, Crimes and Criminal Procedure, repealing sections 667e and 851 to 856 of this title and sections 43, 44, 3054, and 3112 of Title 18, and enacting provisions set out as a note under section 1540 of this title] may be cited as the ‘Lacey Act Amendments of 1981’.”
 
-## § 3372. Prohibited acts
+## § 3372. Prohibited acts
 
 **(a) Offenses other than marking offenses** It is unlawful for any person—
 
@@ -295,7 +295,7 @@ Not later than two years after the date of enactment of this subsection, the Sec
 
 **(C)** to limit the scope of the exclusion provided by paragraph (3), if the limitations in scope are warranted as a result of the review.
 
-(Pub. L. 97–79, § 3, Nov. 16, 1981, 95 Stat. 1074; Pub. L. 100–653, title I, § 101, Nov. 14, 1988, 102 Stat. 3825; Pub. L. 108–191, § 3(a), Dec. 19, 2003, 117 Stat. 2871; Pub. L. 110–234, title VIII, § 8204(b), May 22, 2008, 122 Stat. 1292; Pub. L. 110–246, § 4(a), title VIII, § 8204(b), June 18, 2008, 122 Stat. 1664, 2053; Pub. L. 117–243, § 3, Dec. 20, 2022, 136 Stat. 2336.)
+(Pub. L. 97–79, § 3, Nov. 16, 1981, 95 Stat. 1074; Pub. L. 100–653, title I, § 101, Nov. 14, 1988, 102 Stat. 3825; Pub. L. 108–191, § 3(a), Dec. 19, 2003, 117 Stat. 2871; Pub. L. 110–234, title VIII, § 8204(b), May 22, 2008, 122 Stat. 1292; Pub. L. 110–246, § 4(a), title VIII, § 8204(b), June 18, 2008, 122 Stat. 1664, 2053; Pub. L. 117–243, § 3, Dec. 20, 2022, 136 Stat. 2336.)
 
 **Editorial Notes**
 
@@ -311,31 +311,31 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2022—Subsec. (a)(2)(C). Pub. L. 117–243, § 3(1)(A), struck out subpar. (C) which read as follows: “any prohibited wildlife species (subject to subsection (e));”.
+2022—Subsec. (a)(2)(C). Pub. L. 117–243, § 3(1)(A), struck out subpar. (C) which read as follows: “any prohibited wildlife species (subject to subsection (e));”.
 
-Subsec. (a)(4). Pub. L. 117–243, § 3(1)(B), substituted “(1) through (3) or subsection (e)” for “(1) through (3)”.
+Subsec. (a)(4). Pub. L. 117–243, § 3(1)(B), substituted “(1) through (3) or subsection (e)” for “(1) through (3)”.
 
-Subsec. (e). Pub. L. 117–243, § 3(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to nonapplicability of prohibited wildlife species offense.
+Subsec. (e). Pub. L. 117–243, § 3(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to nonapplicability of prohibited wildlife species offense.
 
-2008—Subsec. (a)(2)(B). Pub. L. 110–246, § 8204(b)(1)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “any plant taken, possessed, transported, or sold in violation of any law or regulation of any State; or”.
+2008—Subsec. (a)(2)(B). Pub. L. 110–246, § 8204(b)(1)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “any plant taken, possessed, transported, or sold in violation of any law or regulation of any State; or”.
 
-Subsec. (a)(3)(B). Pub. L. 110–246, § 8204(b)(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “to possess any plant taken, possessed, transported, or sold in violation of any law or regulation of any State; or”.
+Subsec. (a)(3)(B). Pub. L. 110–246, § 8204(b)(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “to possess any plant taken, possessed, transported, or sold in violation of any law or regulation of any State; or”.
 
-Subsec. (f). Pub. L. 110–246, § 8204(b)(2), added subsec. (f).
+Subsec. (f). Pub. L. 110–246, § 8204(b)(2), added subsec. (f).
 
-2003—Subsec. (a)(2)(C). Pub. L. 108–191, § 3(a)(1)(A), added subpar. (C).
+2003—Subsec. (a)(2)(C). Pub. L. 108–191, § 3(a)(1)(A), added subpar. (C).
 
-Subsec. (a)(3)(B). Pub. L. 108–191, § 3(a)(1)(B), inserted “or” after semicolon at end.
+Subsec. (a)(3)(B). Pub. L. 108–191, § 3(a)(1)(B), inserted “or” after semicolon at end.
 
-Subsec. (a)(4). Pub. L. 108–191, § 3(a)(1)(C), substituted “paragraphs (1) through (3)” for “paragraphs (1) through (4)”.
+Subsec. (a)(4). Pub. L. 108–191, § 3(a)(1)(C), substituted “paragraphs (1) through (3)” for “paragraphs (1) through (4)”.
 
-Subsec. (e). Pub. L. 108–191, § 3(a)(2), added subsec. (e).
+Subsec. (e). Pub. L. 108–191, § 3(a)(2), added subsec. (e).
 
-1988—Subsec. (a)(1). Pub. L. 100–653, § 101(1), substituted “taken, possessed, transported, or sold” for “taken or possessed”.
+1988—Subsec. (a)(1). Pub. L. 100–653, § 101(1), substituted “taken, possessed, transported, or sold” for “taken or possessed”.
 
-Subsec. (a)(4), (5). Pub. L. 100–653, § 101(2), redesignated par. (5) as (4) and struck out former par. (4), which made it unlawful for any person having imported, exported, transported, sold, purchased, or received any fish or wildlife or plant imported from any foreign country or transported in interstate or foreign commerce, to make or submit any false record, account, label, or identification thereof.
+Subsec. (a)(4), (5). Pub. L. 100–653, § 101(2), redesignated par. (5) as (4) and struck out former par. (4), which made it unlawful for any person having imported, exported, transported, sold, purchased, or received any fish or wildlife or plant imported from any foreign country or transported in interstate or foreign commerce, to make or submit any false record, account, label, or identification thereof.
 
-Subsecs. (c), (d). Pub. L. 100–653, § 101(3), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 100–653, § 101(3), added subsecs. (c) and (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -345,9 +345,9 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–191, § 3(b), Dec. 19, 2003, 117 Stat. 2872, provided that: “Section 3(a)(2)(C) of the Lacey Act Amendments of 1981 [16 U.S.C. 3372(a)(2)(C)] (as added by subsection (a)(1)(A)(iii)) shall apply beginning on the effective date of regulations promulgated under section 3(e)(3) of that Act [16 U.S.C. 3372(e)(3)] (as added by subsection (a)(2)) [Sept. 17, 2007, see 72 F.R. 45938].”
+Pub. L. 108–191, § 3(b), Dec. 19, 2003, 117 Stat. 2872, provided that: “Section 3(a)(2)(C) of the Lacey Act Amendments of 1981 [16 U.S.C. 3372(a)(2)(C)] (as added by subsection (a)(1)(A)(iii)) shall apply beginning on the effective date of regulations promulgated under section 3(e)(3) of that Act [16 U.S.C. 3372(e)(3)] (as added by subsection (a)(2)) [Sept. 17, 2007, see 72 F.R. 45938].”
 
-## § 3373. Penalties and sanctions
+## § 3373. Penalties and sanctions
 
 **(a) Civil penalties**
 
@@ -399,7 +399,7 @@ knowing that the fish or wildlife or plants were taken, possessed, transported, 
 
 The Secretary may also suspend, modify, or cancel any Federal hunting or fishing license, permit, or stamp, or any license or permit authorizing a person to import or export fish or wildlife or plants (other than a permit or license issued pursuant to the Magnuson-Stevens Fishery Conservation and Management Act [16 U.S.C. 1801 et seq.]), or to operate a quarantine station or rescue center for imported wildlife or plants, issued to any person who is convicted of a criminal violation of any provision of this chapter or any regulation issued hereunder. The Secretary shall not be liable for the payments of any compensation, reimbursement, or damages in connection with the modification, suspension, or revocation of any licenses, permits, stamps, or other agreements pursuant to this section.
 
-(Pub. L. 97–79, § 4, Nov. 16, 1981, 95 Stat. 1074; Pub. L. 100–653, title I, §§ 102, 103, Nov. 14, 1988, 102 Stat. 3825, 3826; Pub. L. 110–234, title VII, § 8204(c), (f), May 22, 2008, 122 Stat. 1294; Pub. L. 110–246, § 4(a), title VIII, § 8204(c), (f), June 18, 2008, 122 Stat. 1664, 2055, 2056; Pub. L. 117–243, § 4, Dec. 20, 2022, 136 Stat. 2338.)
+(Pub. L. 97–79, § 4, Nov. 16, 1981, 95 Stat. 1074; Pub. L. 100–653, title I, §§ 102, 103, Nov. 14, 1988, 102 Stat. 3825, 3826; Pub. L. 110–234, title VII, § 8204(c), (f), May 22, 2008, 122 Stat. 1294; Pub. L. 110–246, § 4(a), title VIII, § 8204(c), (f), June 18, 2008, 122 Stat. 1664, 2055, 2056; Pub. L. 117–243, § 4, Dec. 20, 2022, 136 Stat. 2338.)
 
 **Editorial Notes**
 
@@ -407,47 +407,47 @@ The Secretary may also suspend, modify, or cancel any Federal hunting or fishing
 
 This chapter, referred to in subsecs. (a)(1), (3), (d)(1), (2), and (e), was in the original “this Act”, meaning Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (e), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (e), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 **Codification**
 
-“Magnuson-Stevens Fishery Conservation and Management Act” substituted for “Fishery Conservation and Management Act of 1976” in subsec. (e), on authority of Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, which provided that all references to the Fishery Conservation and Management Act of 1976 be redesignated as references to the Magnuson Fishery Conservation and Management Act and Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided that all references to the Magnuson Fishery Conservation and Management Act be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.
+“Magnuson-Stevens Fishery Conservation and Management Act” substituted for “Fishery Conservation and Management Act of 1976” in subsec. (e), on authority of Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, which provided that all references to the Fishery Conservation and Management Act of 1976 be redesignated as references to the Magnuson Fishery Conservation and Management Act and Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided that all references to the Magnuson Fishery Conservation and Management Act be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 **Amendments**
 
-2022—Subsec. (a)(1). Pub. L. 117–243, § 4(a), inserted “(e),” after “(d),” and “, (e),” after “subsection (d)”.
+2022—Subsec. (a)(1). Pub. L. 117–243, § 4(a), inserted “(e),” after “(d),” and “, (e),” after “subsection (d)”.
 
-Subsec. (d)(1)(A). Pub. L. 117–243, § 4(b)(1), inserted “(e),” after “(d),”.
+Subsec. (d)(1)(A). Pub. L. 117–243, § 4(b)(1), inserted “(e),” after “(d),”.
 
-Subsec. (d)(1)(B). Pub. L. 117–243, § 4(b)(2), inserted “(e),” after “(d),”.
+Subsec. (d)(1)(B). Pub. L. 117–243, § 4(b)(2), inserted “(e),” after “(d),”.
 
-Subsec. (d)(2). Pub. L. 117–243, § 4(b)(3), inserted “(e),” after “(d),”.
+Subsec. (d)(2). Pub. L. 117–243, § 4(b)(3), inserted “(e),” after “(d),”.
 
-Subsec. (d)(4). Pub. L. 117–243, § 4(b)(4), added par. (4).
+Subsec. (d)(4). Pub. L. 117–243, § 4(b)(4), added par. (4).
 
-2008—Subsec. (a)(1). Pub. L. 110–246, § 8204(f), made technical corrections to directory language of Pub. L. 100–653, § 102(c). See 1988 Amendment note below.
+2008—Subsec. (a)(1). Pub. L. 110–246, § 8204(f), made technical corrections to directory language of Pub. L. 100–653, § 102(c). See 1988 Amendment note below.
 
-Pub. L. 110–246, § 8204(c)(1), (2), substituted “subsections (b), (d), and (f) of section 3372” for “subsections (b) and (d) of section 3372” and “subsection (d) or (f) of section 3372” for “section 3372(d)”.
+Pub. L. 110–246, § 8204(c)(1), (2), substituted “subsections (b), (d), and (f) of section 3372” for “subsections (b) and (d) of section 3372” and “subsection (d) or (f) of section 3372” for “section 3372(d)”.
 
-Subsec. (a)(2). Pub. L. 110–246, § 8204(c)(3), substituted “subsection (b) or (f) of section 3372 of this title, except as provided in paragraph (1),” for “subsection 3372(b)”.
+Subsec. (a)(2). Pub. L. 110–246, § 8204(c)(3), substituted “subsection (b) or (f) of section 3372 of this title, except as provided in paragraph (1),” for “subsection 3372(b)”.
 
-Subsec. (d)(1), (2). Pub. L. 110–246, § 8204(f), made technical corrections to directory language of Pub. L. 100–653, § 102(c). See 1988 Amendment note below.
+Subsec. (d)(1), (2). Pub. L. 110–246, § 8204(f), made technical corrections to directory language of Pub. L. 100–653, § 102(c). See 1988 Amendment note below.
 
-Pub. L. 110–246, § 8204(c)(1), substituted “subsections (b), (d), and (f) of section 3372” for “subsections (b) and (d) of section 3372” in pars. (1)(A), (B), and (2).
+Pub. L. 110–246, § 8204(c)(1), substituted “subsections (b), (d), and (f) of section 3372” for “subsections (b) and (d) of section 3372” in pars. (1)(A), (B), and (2).
 
-Subsec. (d)(3). Pub. L. 110–246, § 8204(c)(2), substituted “subsection (d) or (f) of section 3372” for “section 3372(d)” in introductory provisions.
+Subsec. (d)(3). Pub. L. 110–246, § 8204(c)(2), substituted “subsection (d) or (f) of section 3372” for “section 3372(d)” in introductory provisions.
 
-1988—Subsec. (a)(1). Pub. L. 100–653, § 102(c), as amended by Pub. L. 110–246, § 8204(f), substituted “(other than subsections (b) and (d) of section 3372 of this title)” for “(other than subsection 3372(b) of this title)”.
+1988—Subsec. (a)(1). Pub. L. 100–653, § 102(c), as amended by Pub. L. 110–246, § 8204(f), substituted “(other than subsections (b) and (d) of section 3372 of this title)” for “(other than subsection 3372(b) of this title)”.
 
-Pub. L. 100–653, § 102(a), inserted “and any person who knowingly violates section 3372(d) of this title,” after “any underlying law, treaty, or regulation,”.
+Pub. L. 100–653, § 102(a), inserted “and any person who knowingly violates section 3372(d) of this title,” after “any underlying law, treaty, or regulation,”.
 
-Subsec. (c). Pub. L. 100–653, § 103, amended first sentence generally. Prior to amendment, first sentence read as follows: “Any person against whom a civil penalty is assessed under this section may obtain review thereof in the appropriate district court of the United States by filing a notice of appeal in such court within thirty days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary.”
+Subsec. (c). Pub. L. 100–653, § 103, amended first sentence generally. Prior to amendment, first sentence read as follows: “Any person against whom a civil penalty is assessed under this section may obtain review thereof in the appropriate district court of the United States by filing a notice of appeal in such court within thirty days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary.”
 
-Subsec. (d)(1), (2). Pub. L. 100–653, § 102(c), as amended by Pub. L. 110–246, § 8204(f), substituted “(other than subsections (b) and (d) of section 3372 of this title)” for “(other than subsection 3372(b) of this title)” in pars. (1)(A), (B), and (2).
+Subsec. (d)(1), (2). Pub. L. 100–653, § 102(c), as amended by Pub. L. 110–246, § 8204(f), substituted “(other than subsections (b) and (d) of section 3372 of this title)” for “(other than subsection 3372(b) of this title)” in pars. (1)(A), (B), and (2).
 
-Subsec. (d)(3). Pub. L. 100–653, § 102(b), added par. (3).
+Subsec. (d)(3). Pub. L. 100–653, § 102(b), added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -455,7 +455,7 @@ Subsec. (d)(3). Pub. L. 100–653, § 102(b), added par. (3).
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Pub. L. 110–234, title VIII, § 8204(f), May 22, 2008, 122 Stat. 1294, and Pub. L. 110–246, § 4(a), title VIII, § 8204(f), June 18, 2008, 122 Stat. 1664, 2056, provided that the amendment made by section 8204(f) is effective Nov. 14, 1988, and as if included in the enactment of section 102(c) of Pub. L. 100–653.
+Pub. L. 110–234, title VIII, § 8204(f), May 22, 2008, 122 Stat. 1294, and Pub. L. 110–246, § 4(a), title VIII, § 8204(f), June 18, 2008, 122 Stat. 1664, 2056, provided that the amendment made by section 8204(f) is effective Nov. 14, 1988, and as if included in the enactment of section 102(c) of Pub. L. 100–653.
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.]
 
@@ -463,7 +463,7 @@ Pub. L. 110–234, title VIII, § 8204(f), May 22, 2008, 122 Stat. 1294, and P
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 3374. Forfeiture
+## § 3374. Forfeiture
 
 **(a) In general**
 
@@ -483,7 +483,7 @@ Any person convicted of an offense, or assessed a civil penalty, under section 3
 
 Civil forfeitures under this section shall be governed by the provisions of chapter 46 of title 18.
 
-(Pub. L. 97–79, § 5, Nov. 16, 1981, 95 Stat. 1076; Pub. L. 110–234, title VIII, § 8204(d), May 22, 2008, 122 Stat. 1294; Pub. L. 110–246, § 4(a), title VIII, § 8204(d), June 18, 2008, 122 Stat. 1664, 2056; Pub. L. 117–243, § 5, Dec. 20, 2022, 136 Stat. 2338.)
+(Pub. L. 97–79, § 5, Nov. 16, 1981, 95 Stat. 1076; Pub. L. 110–234, title VIII, § 8204(d), May 22, 2008, 122 Stat. 1294; Pub. L. 110–246, § 4(a), title VIII, § 8204(d), June 18, 2008, 122 Stat. 1664, 2056; Pub. L. 117–243, § 5, Dec. 20, 2022, 136 Stat. 2338.)
 
 **Editorial Notes**
 
@@ -501,7 +501,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2022—Subsec. (a)(1). Pub. L. 117–243 inserted “bred, possessed,” before “imported, exported,”.
 
-2008—Subsec. (d). Pub. L. 110–246, § 8204(d), added subsec. (d).
+2008—Subsec. (d). Pub. L. 110–246, § 8204(d), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -513,7 +513,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 3375. Enforcement
+## § 3375. Enforcement
 
 **(a) In general**
 
@@ -521,9 +521,9 @@ The provisions of this chapter and any regulations issued pursuant thereto shall
 
 **(b) Powers**
 
-Any person authorized under subsection (a) to enforce this chapter may carry firearms; may, when enforcing this chapter, make an arrest without a warrant, in accordance with any guidelines which may be issued by the Attorney General, for any offense under the laws of the United States committed in the person’s presence, or for the commission of any felony under the laws of the United States, if the person has reasonable grounds to believe that the person to be arrested has committed or is committing a felony; may search and seize, with or without a warrant, in accordance with any guidelines which may be issued by the Attorney General; 1
+Any person authorized under subsection (a) to enforce this chapter may carry firearms; may, when enforcing this chapter, make an arrest without a warrant, in accordance with any guidelines which may be issued by the Attorney General, for any offense under the laws of the United States committed in the person’s presence, or for the commission of any felony under the laws of the United States, if the person has reasonable grounds to believe that the person to be arrested has committed or is committing a felony; may search and seize, with or without a warrant, in accordance with any guidelines which may be issued by the Attorney General; 1
 
-<sup>1</sup>  So in original. The semicolon probably should be a colon.
+<sup>1</sup> So in original. The semicolon probably should be a colon.
 
 *Provided*, That an arrest for a felony violation of this chapter that is not committed in the presence or view of any such person and that involves only the transportation, acquisition, receipt, purchase, or sale of fish or wildlife or plants taken or possessed in violation of any law or regulation of any State shall require a warrant; may make an arrest without a warrant for a misdemeanor violation of this chapter if he has reasonable grounds to believe that the person to be arrested is committing a violation in his presence or view; and may execute and serve any subpena, arrest warrant, search warrant issued in accordance with rule 41 of the Federal Rules of Criminal Procedure, or other warrant of civil or criminal process issued by any officer or court of competent jurisdiction for enforcement of this chapter. Any person so authorized, in coordination with the Secretary of the Treasury, may detain for inspection and inspect any vessel, vehicle, aircraft, or other conveyance or any package, crate, or other container, including its contents, upon the arrival of such conveyance or container in the United States or the customs waters of the United States from any point outside the United States or such customs waters, or, if such conveyance or container is being used for exportation purposes, prior to departure from the United States or the customs waters of the United States. Such person may also inspect and demand the production of any documents and permits required by the country of natal origin, birth, or reexport of the fish or wildlife. Any fish, wildlife, plant, property, or item seized shall be held by any person authorized by the Secretary pending disposition of civil or criminal proceedings, or the institution of an action in rem for forfeiture of such fish, wildlife, plants, property, or item pursuant to section 3374 of this title; except that the Secretary may, in lieu of holding such fish, wildlife, plant, property, or item, permit the owner or consignee to post a bond or other surety satisfactory to the Secretary.
 
@@ -535,7 +535,7 @@ The several district courts of the United States, including the courts enumerate
 
 Beginning in fiscal year 1983, the Secretary or the Secretary of the Treasury shall pay, from sums received as penalties, fines, or forfeitures of property for any violation of this chapter or any regulation issued hereunder (1) a reward to any person who furnishes information which leads to an arrest, a criminal conviction, civil penalty assessment, or forfeiture of property for any violation of this chapter or any regulation issued hereunder, and (2) the reasonable and necessary costs incurred by any person in providing temporary care for any fish, wildlife, or plant pending the disposition of any civil or criminal proceeding alleging a violation of this chapter with respect to that fish, wildlife, or plant. The amount of the reward, if any, is to be designated by the Secretary or the Secretary of the Treasury, as appropriate. Any officer or employee of the United States or any State or local government who furnishes information or renders service in the performance of his official duties is ineligible for payment under this subsection.
 
-(Pub. L. 97–79, § 6, Nov. 16, 1981, 95 Stat. 1077; Pub. L. 98–327, § 4, June 25, 1984, 98 Stat. 271; Pub. L. 100–653, title I, § 104, Nov. 14, 1988, 102 Stat. 3826; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(Pub. L. 97–79, § 6, Nov. 16, 1981, 95 Stat. 1077; Pub. L. 98–327, § 4, June 25, 1984, 98 Stat. 271; Pub. L. 100–653, title I, § 104, Nov. 14, 1988, 102 Stat. 3826; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Editorial Notes**
 
@@ -561,7 +561,7 @@ Rule 41 of the Federal Rules of Criminal Procedure, referred to in subsec. (b), 
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 3376. Administration
+## § 3376. Administration
 
 **(a) Regulations**
 
@@ -579,7 +579,7 @@ Beginning in fiscal year 1983, to the extent and in the amounts provided in adva
 
 The Secretary of Agriculture and the Secretary of the Interior, after consultation with the appropriate agencies, shall jointly promulgate regulations to define the terms used in section 3371(g)(2)(A) of this title for the purposes of enforcement under this chapter.
 
-(Pub. L. 97–79, § 7, Nov. 16, 1981, 95 Stat. 1078; Pub. L. 110–234, title VIII, § 8204(e), May 22, 2008, 122 Stat. 1294; Pub. L. 110–246, § 4(a), title VIII, § 8204(e), June 18, 2008, 122 Stat. 1664, 2056; Pub. L. 117–243, §§ 2(b)(2), 6, Dec. 20, 2022, 136 Stat. 2336, 2338.)
+(Pub. L. 97–79, § 7, Nov. 16, 1981, 95 Stat. 1078; Pub. L. 110–234, title VIII, § 8204(e), May 22, 2008, 122 Stat. 1294; Pub. L. 110–246, § 4(a), title VIII, § 8204(e), June 18, 2008, 122 Stat. 1664, 2056; Pub. L. 117–243, §§ 2(b)(2), 6, Dec. 20, 2022, 136 Stat. 2336, 2338.)
 
 **Editorial Notes**
 
@@ -593,13 +593,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2022—Subsec. (a)(3). Pub. L. 117–243, § 6, added par. (3).
+2022—Subsec. (a)(3). Pub. L. 117–243, § 6, added par. (3).
 
-Subsec. (c). Pub. L. 117–243, § 2(b)(2), substituted “section 3371(g)(2)(A)” for “section 3371(f)(2)(A)”.
+Subsec. (c). Pub. L. 117–243, § 2(b)(2), substituted “section 3371(g)(2)(A)” for “section 3371(f)(2)(A)”.
 
-2008—Subsec. (a)(1). Pub. L. 110–246, § 8204(e)(1), substituted “sections 3372(f), 3373, and 3374” for “section 3373 and section 3374”.
+2008—Subsec. (a)(1). Pub. L. 110–246, § 8204(e)(1), substituted “sections 3372(f), 3373, and 3374” for “section 3373 and section 3374”.
 
-Subsec. (c). Pub. L. 110–246, § 8204(e)(2), added subsec. (c).
+Subsec. (c). Pub. L. 110–246, § 8204(e)(2), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -611,7 +611,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 3377. Exceptions
+## § 3377. Exceptions
 
 **(a) Activities regulated by plan under Magnuson-Stevens Fishery Conservation and Management Act**
 
@@ -619,15 +619,15 @@ The provisions of paragraph (1) of section 3372(a) of this title shall not apply
 
 **(b) Activities regulated by Tuna Convention Acts; harvesting of highly migratory species taken on high seas** The provisions of paragraphs (1), (2)(A), and (3)(A) of section 3372(a) of this title shall not apply to—
 
-**(1)** any activity regulated by the Tuna Conventions Act of 1950 (16 U.S.C. 951–961) or the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971–971(h) 1
+**(1)** any activity regulated by the Tuna Conventions Act of 1950 (16 U.S.C. 951–961) or the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971–971(h) 1
 
-<sup>1</sup>  So in original. Probably was meant to be “971–971h”.
+<sup>1</sup> So in original. Probably was meant to be “971–971h”.
 
 ); or
 
-**(2)** any activity involving the harvesting of highly migratory species (as defined in paragraph (14) of section 3 2
+**(2)** any activity involving the harvesting of highly migratory species (as defined in paragraph (14) of section 3 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of the Magnuson-Stevens Fishery Conservation and Management Act [16 U.S.C. 1802(14)]) taken on the high seas (as defined in paragraph (13) of such section 3) if such species are taken in violation of the laws of a foreign nation and the United States does not recognize the jurisdiction of the foreign nation over such species.
 
@@ -635,25 +635,25 @@ of the Magnuson-Stevens Fishery Conservation and Management Act [16 U.S.C. 1802(
 
 The provisions of paragraph (2) of section 3372(a) of this title shall not apply to the interstate shipment or transshipment through Indian country as defined in section 1151 of title 18 or a State of any fish or wildlife or plant legally taken if the shipment is en route to a State in which the fish or wildlife or plant may be legally possessed.
 
-(Pub. L. 97–79, § 8, Nov. 16, 1981, 95 Stat. 1078.)
+(Pub. L. 97–79, § 8, Nov. 16, 1981, 95 Stat. 1078.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Tuna Conventions Act of 1950, referred to in subsec. (b)(1), is act Sept. 7, 1950, ch. 907, 64 Stat. 777, which is classified generally to chapter 16 (§ 951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
+The Tuna Conventions Act of 1950, referred to in subsec. (b)(1), is act Sept. 7, 1950, ch. 907, 64 Stat. 777, which is classified generally to chapter 16 (§ 951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
 
-The Atlantic Tunas Convention Act of 1975, referred to in subsec. (b)(1), is Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, which is classified generally to chapter 16A (§ 971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 971 of this title and Tables.
+The Atlantic Tunas Convention Act of 1975, referred to in subsec. (b)(1), is Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, which is classified generally to chapter 16A (§ 971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 971 of this title and Tables.
 
 Section 3 of the Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(2), was subsequently amended, and pars. (13) and (14) of section 3 no longer define the terms “high seas” and “highly migratory species”. However, such terms are defined elsewhere in that section.
 
 **Codification**
 
-“Magnuson-Stevens Fishery Conservation and Management Act” substituted for “Fishery Conservation and Management Act of 1976” in subsecs. (a) and (b)(2), on authority of Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, which provided that all references to the Fishery Conservation and Management Act of 1976 be redesignated as references to the Magnuson Fishery Conservation and Management Act and Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided that all references to the Magnuson Fishery Conservation and Management Act be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.
+“Magnuson-Stevens Fishery Conservation and Management Act” substituted for “Fishery Conservation and Management Act of 1976” in subsecs. (a) and (b)(2), on authority of Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, which provided that all references to the Fishery Conservation and Management Act of 1976 be redesignated as references to the Magnuson Fishery Conservation and Management Act and Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided that all references to the Magnuson Fishery Conservation and Management Act be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.
 
-## § 3378. Miscellaneous provisions
+## § 3378. Miscellaneous provisions
 
 **(a) Effect on powers of States**
 
@@ -683,13 +683,13 @@ The Secretary of the Interior is authorized to pay from agency appropriations th
 
 The Secretary shall identify the funds utilized to enforce this chapter and any regulations thereto as a specific appropriations item in the Department of the Interior appropriations budget proposal to the Congress.
 
-(Pub. L. 97–79, § 9(a)–(c), (g), (h), Nov. 16, 1981, 95 Stat. 1079, 1080.)
+(Pub. L. 97–79, § 9(a)–(c), (g), (h), Nov. 16, 1981, 95 Stat. 1079, 1080.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Black Bass Act, referred to in subsec. (b)(1), is act May 20, 1926, ch. 346, 44 Stat. 576, which was classified generally to chapter 13 (§ 851 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+The Black Bass Act, referred to in subsec. (b)(1), is act May 20, 1926, ch. 346, 44 Stat. 576, which was classified generally to chapter 13 (§ 851 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 **Codification**
 

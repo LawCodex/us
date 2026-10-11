@@ -19,71 +19,71 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1988—Pub. L. 100–690, title VII, § 7084(b), Nov. 18, 1988, 102 Stat. 4408, added item 3151.
+1988—Pub. L. 100–690, title VII, § 7084(b), Nov. 18, 1988, 102 Stat. 4408, added item 3151.
 
-1984—Pub. L. 98–473, title II, § 203(e), Oct. 12, 1984, 98 Stat. 1985, inserted “AND DETENTION PENDING JUDICIAL PROCEEDING” in chapter heading, added new items 3141 to 3150, and struck out former items 3141 to 3151 as follows: item 3141 “Power of courts and magistrates”, item 3142 “Surrender by bail”, item 3143 “Additional bail”, item 3144 “Cases removed from State courts”, item 3145 “Parties and witnesses—Rule”, item 3146 “Release in noncapital cases prior to trial”, item 3147 “Appeal from conditions of release”, item 3148 “Release in capital cases or after conviction”, item 3149 “Release of material witnesses”, item 3150 “Penalties for failure to appear”, item 3150a “Refund of forfeited bail”, item 3151 “Contempt”.
+1984—Pub. L. 98–473, title II, § 203(e), Oct. 12, 1984, 98 Stat. 1985, inserted “AND DETENTION PENDING JUDICIAL PROCEEDING” in chapter heading, added new items 3141 to 3150, and struck out former items 3141 to 3151 as follows: item 3141 “Power of courts and magistrates”, item 3142 “Surrender by bail”, item 3143 “Additional bail”, item 3144 “Cases removed from State courts”, item 3145 “Parties and witnesses—Rule”, item 3146 “Release in noncapital cases prior to trial”, item 3147 “Appeal from conditions of release”, item 3148 “Release in capital cases or after conviction”, item 3149 “Release of material witnesses”, item 3150 “Penalties for failure to appear”, item 3150a “Refund of forfeited bail”, item 3151 “Contempt”.
 
-1982—Pub. L. 97–267, § 6, Sept. 27, 1982, 96 Stat. 1138, struck out “agencies” after “services” in item 3152, substituted “and administration of pretrial services” for “of pretrial services agencies” in item 3153, “relating to pretrial services” for “of pretrial services agencies” in item 3154, and “Annual reports” for “Report to Congress” in item 3155.
+1982—Pub. L. 97–267, § 6, Sept. 27, 1982, 96 Stat. 1138, struck out “agencies” after “services” in item 3152, substituted “and administration of pretrial services” for “of pretrial services agencies” in item 3153, “relating to pretrial services” for “of pretrial services agencies” in item 3154, and “Annual reports” for “Report to Congress” in item 3155.
 
-Pub. L. 97–258, § 2(d)(3)(A), Sept. 13, 1982, 96 Stat. 1058, added item 3150a.
+Pub. L. 97–258, § 2(d)(3)(A), Sept. 13, 1982, 96 Stat. 1058, added item 3150a.
 
-1975—Pub. L. 93–619, title II, § 202, Jan. 3, 1975, 88 Stat. 2089, added items 3153 to 3156, and in item 3152, substituted “Establishment of Pretrial Services Agencies” for “Definitions”.
+1975—Pub. L. 93–619, title II, § 202, Jan. 3, 1975, 88 Stat. 2089, added items 3153 to 3156, and in item 3152, substituted “Establishment of Pretrial Services Agencies” for “Definitions”.
 
-1966—Pub. L. 89–465, §§ 3(b), 5(e)(1), June 22, 1966, 80 Stat. 216, 217, substituted “RELEASE” for “BAIL” in chapter heading and “Release in noncapital cases prior to trial” for “Jumping Bail” in item 3146, and added items 3147 to 3152.
+1966—Pub. L. 89–465, §§ 3(b), 5(e)(1), June 22, 1966, 80 Stat. 216, 217, substituted “RELEASE” for “BAIL” in chapter heading and “Release in noncapital cases prior to trial” for “Jumping Bail” in item 3146, and added items 3147 to 3152.
 
-1954—Act Aug. 20, 1954, ch. 772, § 2, 68 Stat. 748, added item 3146.
+1954—Act Aug. 20, 1954, ch. 772, § 2, 68 Stat. 748, added item 3146.
 
-## § 3141. Release and detention authority generally
+## § 3141. Release and detention authority generally
 
 **(a) Pending Trial.—** A judicial officer authorized to order the arrest of a person under section 3041 of this title before whom an arrested person is brought shall order that such person be released or detained, pending judicial proceedings, under this chapter.
 
 **(b) Pending Sentence or Appeal.—** A judicial officer of a court of original jurisdiction over an offense, or a judicial officer of a Federal appellate court, shall order that, pending imposition or execution of sentence, or pending appeal of conviction or sentence, a person be released or detained under this chapter.
 
-(Added Pub. L. 98–473, title II, § 203(a), Oct. 12, 1984, 98 Stat. 1976; amended Pub. L. 99–646, § 55(a), (b), Nov. 10, 1986, 100 Stat. 3607.)
+(Added Pub. L. 98–473, title II, § 203(a), Oct. 12, 1984, 98 Stat. 1976; amended Pub. L. 99–646, § 55(a), (b), Nov. 10, 1986, 100 Stat. 3607.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3141, acts June 25, 1948, ch. 645, 62 Stat. 821; June 22, 1966, Pub. L. 89–465, § 5(b), 80 Stat. 217, related to powers of courts and magistrates with respect to release on bail or otherwise, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
+A prior section 3141, acts June 25, 1948, ch. 645, 62 Stat. 821; June 22, 1966, Pub. L. 89–465, § 5(b), 80 Stat. 217, related to powers of courts and magistrates with respect to release on bail or otherwise, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
 
 **Amendments**
 
-1986—Subsec. (a). Pub. L. 99–646, § 55(a), (b), substituted “authorized to order the arrest of a person under section 3041 of this title before whom an arrested person is brought shall order that such person be released” for “who is authorized to order the arrest of a person pursuant to section 3041 of this title shall order that an arrested person who is brought before him be released” and “under this chapter” for “pursuant to the provisions of this chapter”.
+1986—Subsec. (a). Pub. L. 99–646, § 55(a), (b), substituted “authorized to order the arrest of a person under section 3041 of this title before whom an arrested person is brought shall order that such person be released” for “who is authorized to order the arrest of a person pursuant to section 3041 of this title shall order that an arrested person who is brought before him be released” and “under this chapter” for “pursuant to the provisions of this chapter”.
 
-Subsec. (b). Pub. L. 99–646, § 55(a), substituted “under this chapter” for “pursuant to the provisions of this chapter”.
+Subsec. (b). Pub. L. 99–646, § 55(a), substituted “under this chapter” for “pursuant to the provisions of this chapter”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–646, § 55(j), Nov. 10, 1986, 100 Stat. 3611, provided that: “The amendments made by this section [amending this section and sections 3142 to 3144, 3146 to 3148, and 3156 of this title] shall take effect 30 days after the date of enactment of this Act [Nov. 10, 1986].”
+Pub. L. 99–646, § 55(j), Nov. 10, 1986, 100 Stat. 3611, provided that: “The amendments made by this section [amending this section and sections 3142 to 3144, 3146 to 3148, and 3156 of this title] shall take effect 30 days after the date of enactment of this Act [Nov. 10, 1986].”
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–458, title VI, § 6951, Dec. 17, 2004, 118 Stat. 3775, provided that: “This subtitle [subtitle K (§§ 6951, 6952) of title VI of Pub. L. 108–458, amending section 3142 of this title] may be cited as the ‘Pretrial Detention of Terrorists Act of 2004’.”
+Pub. L. 108–458, title VI, § 6951, Dec. 17, 2004, 118 Stat. 3775, provided that: “This subtitle [subtitle K (§§ 6951, 6952) of title VI of Pub. L. 108–458, amending section 3142 of this title] may be cited as the ‘Pretrial Detention of Terrorists Act of 2004’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–647, title IX, § 901, Nov. 29, 1990, 104 Stat. 4826, provided that: “This title [amending sections 3143 and 3145 of this title] may be cited as the ‘Mandatory Detention for Offenders Convicted of Serious Crimes Act’.”
+Pub. L. 101–647, title IX, § 901, Nov. 29, 1990, 104 Stat. 4826, provided that: “This title [amending sections 3143 and 3145 of this title] may be cited as the ‘Mandatory Detention for Offenders Convicted of Serious Crimes Act’.”
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–473, title II, § 202, Oct. 12, 1984, 98 Stat. 1976, provided that: “This chapter [chapter I (§§ 202–210) of title II of Pub. L. 98–473, enacting sections 3062 and 3141 to 3150 of this title, amending sections 3041, 3042, 3154, 3156, 3731, 3772, and 4282 of this title and section 636 of Title 28, Judiciary and Judicial Procedure, repealing sections 3043 and 3141 to 3151 of this title, and amending rules 5, 15, 40, 46, and 54 of the Federal Rules of Criminal Procedure, set out in the Appendix to this title, and rule 9 of the Federal Rules of Appellate Procedure, set out in the Appendix to Title 28] may be cited as the ‘Bail Reform Act of 1984’.”
+Pub. L. 98–473, title II, § 202, Oct. 12, 1984, 98 Stat. 1976, provided that: “This chapter [chapter I (§§ 202–210) of title II of Pub. L. 98–473, enacting sections 3062 and 3141 to 3150 of this title, amending sections 3041, 3042, 3154, 3156, 3731, 3772, and 4282 of this title and section 636 of Title 28, Judiciary and Judicial Procedure, repealing sections 3043 and 3141 to 3151 of this title, and amending rules 5, 15, 40, 46, and 54 of the Federal Rules of Criminal Procedure, set out in the Appendix to this title, and rule 9 of the Federal Rules of Appellate Procedure, set out in the Appendix to Title 28] may be cited as the ‘Bail Reform Act of 1984’.”
 
 **Short Title of 1982 Amendment**
 
-Pub. L. 97–267, § 1, Sept. 27, 1982, 96 Stat. 1136, provided: “That this Act [amending sections 3152 to 3155 of this title and section 604 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 3141 and 3152 of this title] may be cited as the ‘Pretrial Services Act of 1982’.”
+Pub. L. 97–267, § 1, Sept. 27, 1982, 96 Stat. 1136, provided: “That this Act [amending sections 3152 to 3155 of this title and section 604 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 3141 and 3152 of this title] may be cited as the ‘Pretrial Services Act of 1982’.”
 
 **Short Title**
 
-Pub. L. 89–465, § 1, June 22, 1966, 80 Stat. 214, provided: “That this Act [enacting sections 3146 to 3152 of this title, amending sections 3041, 3141 to 3143, and 3568 of this title, and enacting provisions set out as a note below] may be cited as the ‘Bail Reform Act of 1966’.”
+Pub. L. 89–465, § 1, June 22, 1966, 80 Stat. 214, provided: “That this Act [enacting sections 3146 to 3152 of this title, amending sections 3041, 3141 to 3143, and 3568 of this title, and enacting provisions set out as a note below] may be cited as the ‘Bail Reform Act of 1966’.”
 
 **Purpose of Bail Reform Act of 1966**
 
-Pub. L. 89–465, § 2, June 22, 1966, 80 Stat. 214, provided that: “The purpose of this Act [enacting sections 3146 to 3152 of this title, amending sections 3041, 3141 to 3143, and 3568 of this title and enacting provisions set out as a note above] is to revise the practices relating to bail to assure that all persons, regardless of their financial status, shall not needlessly be detained pending their appearance to answer charges, to testify, or pending appeal, when detention serves neither the ends of justice nor the public interest.”
+Pub. L. 89–465, § 2, June 22, 1966, 80 Stat. 214, provided that: “The purpose of this Act [enacting sections 3146 to 3152 of this title, amending sections 3041, 3141 to 3143, and 3568 of this title and enacting provisions set out as a note above] is to revise the practices relating to bail to assure that all persons, regardless of their financial status, shall not needlessly be detained pending their appearance to answer charges, to testify, or pending appeal, when detention serves neither the ends of justice nor the public interest.”
 
-## § 3142. Release or detention of a defendant pending trial
+## § 3142. Release or detention of a defendant pending trial
 
 **(a) In General.—** Upon the appearance before a judicial officer of a person charged with an offense, the judicial officer shall issue an order that, pending trial, the person be—
 
@@ -97,7 +97,7 @@ Pub. L. 89–465, § 2, June 22, 1966, 80 Stat. 214, provided that: “The pur
 
 **(b) Release on Personal Recognizance or Unsecured Appearance Bond.—** The judicial officer shall order the pretrial release of the person on personal recognizance, or upon execution of an unsecured appearance bond in an amount specified by the court, subject to the condition that the person not commit a Federal, State, or local crime during the period of release and subject to the condition that the person cooperate in the collection of a DNA sample from the person if the collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135a),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 unless the judicial officer determines that such release will not reasonably assure the appearance of the person as required or will endanger the safety of any other person or the community.
 
@@ -105,7 +105,7 @@ unless the judicial officer determines that such release will not reasonably ass
 
 **(1)** If the judicial officer determines that the release described in subsection (b) of this section will not reasonably assure the appearance of the person as required or will endanger the safety of any other person or the community, such judicial officer shall order the pretrial release of the person—
 
-**(A)** subject to the condition that the person not commit a Federal, State, or local crime during the period of release and subject to the condition that the person cooperate in the collection of a DNA sample from the person if the collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135a); <sup>1</sup> and
+**(A)** subject to the condition that the person not commit a Federal, State, or local crime during the period of release and subject to the condition that the person cooperate in the collection of a DNA sample from the person if the collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135a); <sup>1</sup> and
 
 **(B)** subject to the least restrictive further condition, or combination of conditions, that such judicial officer determines will reasonably assure the appearance of the person as required and the safety of any other person and the community, which may include the condition that the person—
 
@@ -247,7 +247,7 @@ The judicial officer may, by subsequent order, permit the temporary release of t
 
 **(j) Presumption of Innocence.—** Nothing in this section shall be construed as modifying or limiting the presumption of innocence.
 
-(Added Pub. L. 98–473, title II, § 203(a), Oct. 12, 1984, 98 Stat. 1976; amended Pub. L. 99–646, §§ 55(a), (c), 72, Nov. 10, 1986, 100 Stat. 3607, 3617; Pub. L. 100–690, title VII, § 7073, Nov. 18, 1988, 102 Stat. 4405; Pub. L. 101–647, title X, § 1001(b), title XXXVI, §§ 3622–3624, Nov. 29, 1990, 104 Stat. 4827, 4965; Pub. L. 104–132, title VII, §§ 702(d), 729, Apr. 24, 1996, 110 Stat. 1294, 1302; Pub. L. 108–21, title II, § 203, Apr. 30, 2003, 117 Stat. 660; Pub. L. 108–458, title VI, § 6952, Dec. 17, 2004, 118 Stat. 3775; Pub. L. 109–162, title X, § 1004(b), Jan. 5, 2006, 119 Stat. 3085; Pub. L. 109–248, title II, § 216, July 27, 2006, 120 Stat. 617; Pub. L. 109–304, § 17(d)(7), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 110–457, title II, §§ 222(a), 224(a), Dec. 23, 2008, 122 Stat. 5067, 5072.)
+(Added Pub. L. 98–473, title II, § 203(a), Oct. 12, 1984, 98 Stat. 1976; amended Pub. L. 99–646, §§ 55(a), (c), 72, Nov. 10, 1986, 100 Stat. 3607, 3617; Pub. L. 100–690, title VII, § 7073, Nov. 18, 1988, 102 Stat. 4405; Pub. L. 101–647, title X, § 1001(b), title XXXVI, §§ 3622–3624, Nov. 29, 1990, 104 Stat. 4827, 4965; Pub. L. 104–132, title VII, §§ 702(d), 729, Apr. 24, 1996, 110 Stat. 1294, 1302; Pub. L. 108–21, title II, § 203, Apr. 30, 2003, 117 Stat. 660; Pub. L. 108–458, title VI, § 6952, Dec. 17, 2004, 118 Stat. 3775; Pub. L. 109–162, title X, § 1004(b), Jan. 5, 2006, 119 Stat. 3085; Pub. L. 109–248, title II, § 216, July 27, 2006, 120 Stat. 617; Pub. L. 109–304, § 17(d)(7), Oct. 6, 2006, 120 Stat. 1707; Pub. L. 110–457, title II, §§ 222(a), 224(a), Dec. 23, 2008, 122 Stat. 5067, 5072.)
 
 **Editorial Notes**
 
@@ -255,73 +255,73 @@ The judicial officer may, by subsequent order, permit the temporary release of t
 
 Section 3 of the DNA Analysis Backlog Elimination Act of 2000, referred to in subsecs. (b) and (c)(1)(A), is section 3 of Pub. L. 106–546, which was classified to section 14135a of Title 42, The Public Health and Welfare, prior to editorial reclassification as section 40702 of Title 34, Crime Control and Law Enforcement.
 
-The Controlled Substances Act, referred to in subsecs. (e) and (f)(1)(C), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsecs. (e) and (f)(1)(C), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
-The Controlled Substances Import and Export Act, referred to in subsecs. (e) and (f)(1)(C), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
+The Controlled Substances Import and Export Act, referred to in subsecs. (e) and (f)(1)(C), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
 
 **Prior Provisions**
 
-A prior section 3142, acts June 25, 1948, ch. 645, 62 Stat. 821; June 22, 1966, Pub. L. 89–465, § 5(c), 80 Stat. 217, set forth provisions relating to surrender by bail, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
+A prior section 3142, acts June 25, 1948, ch. 645, 62 Stat. 821; June 22, 1966, Pub. L. 89–465, § 5(c), 80 Stat. 217, set forth provisions relating to surrender by bail, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
 
 **Amendments**
 
-2008—Subsec. (e). Pub. L. 110–457, § 222(a)(1)–(4), designated first through third sentences as pars. (1) to (3), respectively, and redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (2).
+2008—Subsec. (e). Pub. L. 110–457, § 222(a)(1)–(4), designated first through third sentences as pars. (1) to (3), respectively, and redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (2).
 
-Subsec. (e)(2)(B), (C). Pub. L. 110–457, § 222(a)(5), substituted “subparagraph (A)” for “paragraph (1) of this subsection”.
+Subsec. (e)(2)(B), (C). Pub. L. 110–457, § 222(a)(5), substituted “subparagraph (A)” for “paragraph (1) of this subsection”.
 
-Subsec. (e)(3). Pub. L. 110–457, § 222(a)(6), substituted “committed—” for “committed”, “46;” for “46,”, “title;” for “title, or”, and “10 years or more is prescribed;” for “10 years or more is prescribed or”, inserted subpar. (A), (B), (C), and (E) designations, and added subpar. (D).
+Subsec. (e)(3). Pub. L. 110–457, § 222(a)(6), substituted “committed—” for “committed”, “46;” for “46,”, “title;” for “title, or”, and “10 years or more is prescribed;” for “10 years or more is prescribed or”, inserted subpar. (A), (B), (C), and (E) designations, and added subpar. (D).
 
-Subsecs. (f)(1)(A), (g)(1). Pub. L. 110–457, § 224(a), substituted “violence, a violation of section 1591,” for “violence,”.
+Subsecs. (f)(1)(A), (g)(1). Pub. L. 110–457, § 224(a), substituted “violence, a violation of section 1591,” for “violence,”.
 
 2006—Subsecs. (b), (c)(1)(A). Pub. L. 109–162 inserted “and subject to the condition that the person cooperate in the collection of a DNA sample from the person if the collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135a)” after “period of release”.
 
-Subsec. (c)(1)(B). Pub. L. 109–248, § 216(1), inserted concluding provisions.
+Subsec. (c)(1)(B). Pub. L. 109–248, § 216(1), inserted concluding provisions.
 
 Subsecs. (e), (f)(1)(C). Pub. L. 109–304 substituted “chapter 705 of title 46” for “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)”.
 
-Subsec. (f)(1)(E). Pub. L. 109–248, § 216(2), added subpar. (E).
+Subsec. (f)(1)(E). Pub. L. 109–248, § 216(2), added subpar. (E).
 
-Subsec. (g)(1). Pub. L. 109–248, § 216(3), added par. (1) and struck out former par. (1) which read as follows: “the nature and circumstances of the offense charged, including whether the offense is a crime of violence, or an offense listed in section 2332b(g)(5)(B) for which a maximum term of imprisonment of 10 years or more is prescribed or involves a narcotic drug;”.
+Subsec. (g)(1). Pub. L. 109–248, § 216(3), added par. (1) and struck out former par. (1) which read as follows: “the nature and circumstances of the offense charged, including whether the offense is a crime of violence, or an offense listed in section 2332b(g)(5)(B) for which a maximum term of imprisonment of 10 years or more is prescribed or involves a narcotic drug;”.
 
-2004—Subsec. (e). Pub. L. 108–458, § 6952(1), in concluding provisions, inserted “or” before “the Maritime” and “or an offense listed in section 2332b(g)(5)(B) of title 18, United States Code, for which a maximum term of imprisonment of 10 years or more is prescribed” after “or 2332b of this title,”.
+2004—Subsec. (e). Pub. L. 108–458, § 6952(1), in concluding provisions, inserted “or” before “the Maritime” and “or an offense listed in section 2332b(g)(5)(B) of title 18, United States Code, for which a maximum term of imprisonment of 10 years or more is prescribed” after “or 2332b of this title,”.
 
-Subsecs. (f)(1)(A), (g)(1). Pub. L. 108–458, § 6952(2), inserted “, or an offense listed in section 2332b(g)(5)(B) for which a maximum term of imprisonment of 10 years or more is prescribed” after “violence”.
+Subsecs. (f)(1)(A), (g)(1). Pub. L. 108–458, § 6952(2), inserted “, or an offense listed in section 2332b(g)(5)(B) for which a maximum term of imprisonment of 10 years or more is prescribed” after “violence”.
 
 2003—Subsec. (e). Pub. L. 108–21, in concluding provisions, substituted “1901 et seq.),” for “1901 et seq.), or” and “of this title, or an offense involving a minor victim under section 1201, 1591, 2241, 2242, 2244(a)(1), 2245, 2251, 2251A, 2252(a)(1), 2252(a)(2), 2252(a)(3), 2252A(a)(1), 2252A(a)(2), 2252A(a)(3), 2252A(a)(4), 2260, 2421, 2422, 2423, or 2425 of this title” for “of title 18 of the United States Code”.
 
-1996—Subsec. (e). Pub. L. 104–132, § 702(d), inserted “, 956(a), or 2332b” after “section 924(c)” in concluding provisions.
+1996—Subsec. (e). Pub. L. 104–132, § 702(d), inserted “, 956(a), or 2332b” after “section 924(c)” in concluding provisions.
 
-Subsec. (f). Pub. L. 104–132, § 729, in concluding provisions, inserted “(not including any intermediate Saturday, Sunday, or legal holiday)” after “five days” and after “three days”.
+Subsec. (f). Pub. L. 104–132, § 729, in concluding provisions, inserted “(not including any intermediate Saturday, Sunday, or legal holiday)” after “five days” and after “three days”.
 
-1990—Subsec. (c)(1)(B)(xi). Pub. L. 101–647, § 3622, amended cl. (xi) generally. Prior to amendment, cl. (xi) read as follows: “execute an agreement to forfeit upon failing to appear as required, such designated property, including money, as is reasonably necessary to assure the appearance of the person as required, and post with the court such indicia of ownership of the property or such percentage of the money as the judicial officer may specify;”.
+1990—Subsec. (c)(1)(B)(xi). Pub. L. 101–647, § 3622, amended cl. (xi) generally. Prior to amendment, cl. (xi) read as follows: “execute an agreement to forfeit upon failing to appear as required, such designated property, including money, as is reasonably necessary to assure the appearance of the person as required, and post with the court such indicia of ownership of the property or such percentage of the money as the judicial officer may specify;”.
 
-Subsec. (c)(1)(B)(xii). Pub. L. 101–647, § 3623, amended cl. (xii) generally. Prior to amendment, cl. (xii) read as follows: “execute a bail bond with solvent sureties in such amount as is reasonably necessary to assure the appearance of the person as required;”.
+Subsec. (c)(1)(B)(xii). Pub. L. 101–647, § 3623, amended cl. (xii) generally. Prior to amendment, cl. (xii) read as follows: “execute a bail bond with solvent sureties in such amount as is reasonably necessary to assure the appearance of the person as required;”.
 
-Subsecs. (e), (f)(1)(C). Pub. L. 101–647, § 1001(b), substituted “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)” for “section 1 of the Act of September 15, 1980 (21 U.S.C. 955a)”.
+Subsecs. (e), (f)(1)(C). Pub. L. 101–647, § 1001(b), substituted “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)” for “section 1 of the Act of September 15, 1980 (21 U.S.C. 955a)”.
 
-Subsec. (g)(4). Pub. L. 101–647, § 3624, substituted “subsection (c)(1)(B)(xi) or (c)(1)(B)(xii)” for “subsection (c)(2)(K) or (c)(2)(L)”.
+Subsec. (g)(4). Pub. L. 101–647, § 3624, substituted “subsection (c)(1)(B)(xi) or (c)(1)(B)(xii)” for “subsection (c)(2)(K) or (c)(2)(L)”.
 
 1988—Subsec. (c)(3). Pub. L. 100–690 substituted “the order” for “order”.
 
-1986—Subsec. (a). Pub. L. 99–646, § 55(a), (c)(1), in par. (1) struck out “his” after “released on” and substituted “under subsection (b) of this section” for “pursuant to the provisions of subsection (b)”, in par. (2) substituted “under subsection (c) of this section” for “pursuant to the provisions of subsection (c)”, in par. (3) substituted “under subsection (d) of this section” for “pursuant to provisions of subsection (d)”, and in par. (4) substituted “under subsection (e) of this section” for “pursuant to provisions of subsection (e)”.
+1986—Subsec. (a). Pub. L. 99–646, § 55(a), (c)(1), in par. (1) struck out “his” after “released on” and substituted “under subsection (b) of this section” for “pursuant to the provisions of subsection (b)”, in par. (2) substituted “under subsection (c) of this section” for “pursuant to the provisions of subsection (c)”, in par. (3) substituted “under subsection (d) of this section” for “pursuant to provisions of subsection (d)”, and in par. (4) substituted “under subsection (e) of this section” for “pursuant to provisions of subsection (e)”.
 
-Subsec. (b). Pub. L. 99–646, § 55(c)(2), struck out “his” after “person on” and “period of”.
+Subsec. (b). Pub. L. 99–646, § 55(c)(2), struck out “his” after “person on” and “period of”.
 
-Subsec. (c). Pub. L. 99–646, § 55(c)(3), designated existing provision as par. (1) and redesignated former pars. (1) and (2) as subpars. (A) and (B), in provision preceding subpar. (A) substituted “subsection (b) of this section” for “subsection (b)” and “such judicial officer” for “he”, in subpar. (B) redesignated subpars. (A) to (N) as cls. (i) to (xiv), in provision preceding cl. (i) substituted “such judicial officer” for “he”, in cl. (i) substituted “assume supervision” for “supervise him”, in cl. (iv) substituted “on personal” for “on his personal”, in cl. (x) substituted “medical, psychological,” for “medical”, designated provision relating to the judicial officer not imposing a financial condition that results in the pretrial detention of a person as par. (2), and designated provision permitting the judicial officer to impose at any time additional or different conditions of release as par. (3), and in par. (3) struck out “his” after “amend”.
+Subsec. (c). Pub. L. 99–646, § 55(c)(3), designated existing provision as par. (1) and redesignated former pars. (1) and (2) as subpars. (A) and (B), in provision preceding subpar. (A) substituted “subsection (b) of this section” for “subsection (b)” and “such judicial officer” for “he”, in subpar. (B) redesignated subpars. (A) to (N) as cls. (i) to (xiv), in provision preceding cl. (i) substituted “such judicial officer” for “he”, in cl. (i) substituted “assume supervision” for “supervise him”, in cl. (iv) substituted “on personal” for “on his personal”, in cl. (x) substituted “medical, psychological,” for “medical”, designated provision relating to the judicial officer not imposing a financial condition that results in the pretrial detention of a person as par. (2), and designated provision permitting the judicial officer to impose at any time additional or different conditions of release as par. (3), and in par. (3) struck out “his” after “amend”.
 
-Subsec. (d). Pub. L. 99–646, § 55(c)(4), in pars. (1) and (2) substituted “such person” for “the person” and in concluding provisions substituted “such person” for “the person” in four places, “such judicial officer” for “he”, “paragraph (1)(B) of this subsection” for “paragraph (1)(B)”, and “such person’s United States citizenship or lawful admission” for “that he is a citizen of the United States or is lawfully admitted”.
+Subsec. (d). Pub. L. 99–646, § 55(c)(4), in pars. (1) and (2) substituted “such person” for “the person” and in concluding provisions substituted “such person” for “the person” in four places, “such judicial officer” for “he”, “paragraph (1)(B) of this subsection” for “paragraph (1)(B)”, and “such person’s United States citizenship or lawful admission” for “that he is a citizen of the United States or is lawfully admitted”.
 
-Subsec. (e). Pub. L. 99–646, § 55(c)(5), in introductory provisions inserted “of this section” after “subsection (f)” and substituted “such judicial officer” for “he”, “before” for “prior to”, “described in subsection (f)(1) of this section” for “described in (f)(1)”, and “if such judicial officer” for “if the judge”, in par. (1) inserted “of this section” after “subsection (f)(1)” in two places, and in pars. (2) and (3) inserted “of this section” after “paragraph (1)”.
+Subsec. (e). Pub. L. 99–646, § 55(c)(5), in introductory provisions inserted “of this section” after “subsection (f)” and substituted “such judicial officer” for “he”, “before” for “prior to”, “described in subsection (f)(1) of this section” for “described in (f)(1)”, and “if such judicial officer” for “if the judge”, in par. (1) inserted “of this section” after “subsection (f)(1)” in two places, and in pars. (2) and (3) inserted “of this section” after “paragraph (1)”.
 
-Subsec. (f). Pub. L. 99–646, § 72, in par. (1)(D) substituted “any felony if the person has been convicted of two or more offenses” for “any felony committed after the person had been convicted of two or more prior offenses” and inserted “, or a combination of such offenses”, in par. (2)(A) inserted “or” after “flee;”, and in concluding provisions, inserted provision permitting the hearing to be reopened at any time before trial if the judicial officer finds that information exists that was unknown to the movant at the time of the hearing and that has a material bearing on whether there are conditions of release that will reasonably assure the appearance of the person as required and the safety of any other person and the community.
+Subsec. (f). Pub. L. 99–646, § 72, in par. (1)(D) substituted “any felony if the person has been convicted of two or more offenses” for “any felony committed after the person had been convicted of two or more prior offenses” and inserted “, or a combination of such offenses”, in par. (2)(A) inserted “or” after “flee;”, and in concluding provisions, inserted provision permitting the hearing to be reopened at any time before trial if the judicial officer finds that information exists that was unknown to the movant at the time of the hearing and that has a material bearing on whether there are conditions of release that will reasonably assure the appearance of the person as required and the safety of any other person and the community.
 
-Pub. L. 99–646, § 55(c)(6), substituted “such person” for “the person” wherever appearing, in introductory provision inserted “of this section” after “subsection (c)” and struck out “in a case” after “community”, in par. (1) inserted “in a case” and in subpar. (D) of par. (1) inserted “of this paragraph” in two places, in par. (2) substituted “upon” for “Upon” and inserted “in a case”, and in concluding provisions, substituted “sua sponte” for “on his own motion”, “whether such person is an addict” for “whether he is an addict”, and “financially” for “he is financially”, and struck out “for him” after “appointed” and “on his own behalf” after “witnesses”.
+Pub. L. 99–646, § 55(c)(6), substituted “such person” for “the person” wherever appearing, in introductory provision inserted “of this section” after “subsection (c)” and struck out “in a case” after “community”, in par. (1) inserted “in a case” and in subpar. (D) of par. (1) inserted “of this paragraph” in two places, in par. (2) substituted “upon” for “Upon” and inserted “in a case”, and in concluding provisions, substituted “sua sponte” for “on his own motion”, “whether such person is an addict” for “whether he is an addict”, and “financially” for “he is financially”, and struck out “for him” after “appointed” and “on his own behalf” after “witnesses”.
 
-Subsec. (g). Pub. L. 99–646, § 55(c)(7), in par. (3)(A) substituted “the person’s” for “his”, in par. (3)(B) substituted “the person” for “he”, and in par. (4) inserted “of this section”.
+Subsec. (g). Pub. L. 99–646, § 55(c)(7), in par. (3)(A) substituted “the person’s” for “his”, in par. (3)(B) substituted “the person” for “he”, and in par. (4) inserted “of this section”.
 
-Subsec. (h). Pub. L. 99–646, § 55(a), (c)(8), in introductory provision substituted “under” for “pursuant to the provisions of” and inserted “of this section” and in par. (2)(C) struck out “the provisions of” before “sections 1503”.
+Subsec. (h). Pub. L. 99–646, § 55(a), (c)(8), in introductory provision substituted “under” for “pursuant to the provisions of” and inserted “of this section” and in par. (2)(C) struck out “the provisions of” before “sections 1503”.
 
-Subsec. (i). Pub. L. 99–646, § 55(a), (c)(9), in introductory provision substituted “under” for “pursuant to the provisions of” and inserted “of this section” and in par. (3) struck out “his” after “consultation with”.
+Subsec. (i). Pub. L. 99–646, § 55(a), (c)(9), in introductory provision substituted “under” for “pursuant to the provisions of” and inserted “of this section” and in par. (3) struck out “his” after “consultation with”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -337,7 +337,7 @@ Amendment by Pub. L. 99–646 effective 30 days after Nov. 10, 1986, see section
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
-## § 3143. Release or detention of a defendant pending sentence or appeal
+## § 3143. Release or detention of a defendant pending sentence or appeal
 
 **(a) Release or Detention Pending Sentence.—**
 
@@ -379,43 +379,43 @@ If the judicial officer makes such findings, such judicial officer shall order t
 
 **(2)** in any other circumstance, release or detain the person under section 3142.
 
-(Added Pub. L. 98–473, title II, § 203(a), Oct. 12, 1984, 98 Stat. 1981; amended Pub. L. 98–473, title II, § 223(f), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 99–646, §§ 51(a), (b), 55(a), (d), Nov. 10, 1986, 100 Stat. 3605–3607, 3609; Pub. L. 100–690, title VII, § 7091, Nov. 18, 1988, 102 Stat. 4410; Pub. L. 101–647, title IX, § 902(a), (b), title X, § 1001(a), Nov. 29, 1990, 104 Stat. 4826, 4827; Pub. L. 102–572, title VII, § 703, Oct. 29, 1992, 106 Stat. 4515.)
+(Added Pub. L. 98–473, title II, § 203(a), Oct. 12, 1984, 98 Stat. 1981; amended Pub. L. 98–473, title II, § 223(f), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 99–646, §§ 51(a), (b), 55(a), (d), Nov. 10, 1986, 100 Stat. 3605–3607, 3609; Pub. L. 100–690, title VII, § 7091, Nov. 18, 1988, 102 Stat. 4410; Pub. L. 101–647, title IX, § 902(a), (b), title X, § 1001(a), Nov. 29, 1990, 104 Stat. 4826, 4827; Pub. L. 102–572, title VII, § 703, Oct. 29, 1992, 106 Stat. 4515.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3143, acts June 25, 1948, ch. 645, 62 Stat. 821; June 22, 1966, Pub. L. 89–465, § 5(d), 80 Stat. 217, related to additional bail, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
+A prior section 3143, acts June 25, 1948, ch. 645, 62 Stat. 821; June 22, 1966, Pub. L. 89–465, § 5(d), 80 Stat. 217, related to additional bail, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
 
 **Amendments**
 
 1992—Subsec. (b)(1). Pub. L. 102–572 substituted “subparagraph (B)(iv) of this paragraph” for “paragraph (b)(2)(D)”.
 
-1990—Subsec. (a). Pub. L. 101–647, § 902(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the judicial officer” for “The judicial officer”, and added par. (2).
+1990—Subsec. (a). Pub. L. 101–647, § 902(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the judicial officer” for “The judicial officer”, and added par. (2).
 
-Subsec. (a)(1). Pub. L. 101–647, § 1001(a), substituted “awaiting” for “waiting”.
+Subsec. (a)(1). Pub. L. 101–647, § 1001(a), substituted “awaiting” for “waiting”.
 
-Subsec. (b). Pub. L. 101–647, § 902(b), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the judicial officer” for “The judicial officer”, redesignated former pars. (1) and (2) as subpars. (A) and (B), redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (B), and added par. (2).
+Subsec. (b). Pub. L. 101–647, § 902(b), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the judicial officer” for “The judicial officer”, redesignated former pars. (1) and (2) as subpars. (A) and (B), redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (B), and added par. (2).
 
-1988—Subsec. (b). Pub. L. 100–690, § 7091(2), inserted “, except that in the circumstance described in paragraph (b)(2)(D), the judicial officer shall order the detention terminated at the expiration of the likely reduced sentence” before period at end.
+1988—Subsec. (b). Pub. L. 100–690, § 7091(2), inserted “, except that in the circumstance described in paragraph (b)(2)(D), the judicial officer shall order the detention terminated at the expiration of the likely reduced sentence” before period at end.
 
-Subsec. (b)(2). Pub. L. 100–690, § 7091(1), added par. (2) and struck out former par. (2) which read as follows: “that the appeal is not for purpose of delay and raises a substantial question of law or fact likely to result in reversal, an order for a new trial, or a sentence that does not include a term of imprisonment.”
+Subsec. (b)(2). Pub. L. 100–690, § 7091(1), added par. (2) and struck out former par. (2) which read as follows: “that the appeal is not for purpose of delay and raises a substantial question of law or fact likely to result in reversal, an order for a new trial, or a sentence that does not include a term of imprisonment.”
 
-1986—Subsec. (a). Pub. L. 99–646, § 55(d)(1), (2), (4), substituted “under” for “pursuant to” and “such judicial officer” for “he” and struck out “the provisions of” after “in accordance with”.
+1986—Subsec. (a). Pub. L. 99–646, § 55(d)(1), (2), (4), substituted “under” for “pursuant to” and “such judicial officer” for “he” and struck out “the provisions of” after “in accordance with”.
 
-Subsec. (b). Pub. L. 99–646, § 55(d)(1)–(4), in par. (1) substituted “under” for “pursuant to” and inserted “of this title” after “(c)”, and in concluding provision, substituted “such judicial officer” for “he”, struck out “the provisions of” after “in accordance with”, and inserted “of this title” after “(c)”.
+Subsec. (b). Pub. L. 99–646, § 55(d)(1)–(4), in par. (1) substituted “under” for “pursuant to” and inserted “of this title” after “(c)”, and in concluding provision, substituted “such judicial officer” for “he”, struck out “the provisions of” after “in accordance with”, and inserted “of this title” after “(c)”.
 
-Subsec. (b)(2). Pub. L. 99–646, § 51(a)(1), substituted “reversal,” for “reversal or” and inserted “, or a sentence that does not include a term of imprisonment”.
+Subsec. (b)(2). Pub. L. 99–646, § 51(a)(1), substituted “reversal,” for “reversal or” and inserted “, or a sentence that does not include a term of imprisonment”.
 
-Subsec. (c). Pub. L. 99–646, § 51(a)(2), inserted provision that, except as provided in subsec. (b), the judicial officer, in a case in which an appeal has been taken by the United States under section 3742, if the person has been sentenced to a term of imprisonment, order that person detained, and in any other circumstance, release or detain the person under section 3142.
+Subsec. (c). Pub. L. 99–646, § 51(a)(2), inserted provision that, except as provided in subsec. (b), the judicial officer, in a case in which an appeal has been taken by the United States under section 3742, if the person has been sentenced to a term of imprisonment, order that person detained, and in any other circumstance, release or detain the person under section 3142.
 
-Pub. L. 99–646, § 55(a), (d)(2), (5), substituted “under section 3731” for “pursuant to the provisions of section 3731” and “with section 3142 of this title” for “with the provisions of section 3142”.
+Pub. L. 99–646, § 55(a), (d)(2), (5), substituted “under section 3731” for “pursuant to the provisions of section 3731” and “with section 3142 of this title” for “with the provisions of section 3142”.
 
-Pub. L. 99–646, § 51(b), provided that the amendment of subsec. (c) by section 223(f)(2) of Pub. L. 98–473 shall not take effect. See 1984 Amendment note below.
+Pub. L. 99–646, § 51(b), provided that the amendment of subsec. (c) by section 223(f)(2) of Pub. L. 98–473 shall not take effect. See 1984 Amendment note below.
 
-1984—Subsec. (a). Pub. L. 98–473, § 223(f)(1), inserted provisions relating to applicable guideline under section 994 of title 28.
+1984—Subsec. (a). Pub. L. 98–473, § 223(f)(1), inserted provisions relating to applicable guideline under section 994 of title 28.
 
-Subsec. (c). Pub. L. 98–473, § 223(f)(2), which would have added a final sentence requiring a judge to treat a defendant in a case in which an appeal had been taken by the United States pursuant to the provisions of section 3742 in accordance with the provisions of (1) subsection (a) if the person had been sentenced to a term of imprisonment; or (2) section 3142 if the person had not been sentenced to a term of imprisonment did not become effective pursuant to section 51(b) of Pub. L. 99–646. See 1986 Amendment note above.
+Subsec. (c). Pub. L. 98–473, § 223(f)(2), which would have added a final sentence requiring a judge to treat a defendant in a case in which an appeal had been taken by the United States pursuant to the provisions of section 3742 in accordance with the provisions of (1) subsection (a) if the person had been sentenced to a term of imprisonment; or (2) section 3142 if the person had not been sentenced to a term of imprisonment did not become effective pursuant to section 51(b) of Pub. L. 99–646. See 1986 Amendment note above.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -425,7 +425,7 @@ Amendment by Pub. L. 102–572 effective Jan. 1, 1993, see section 1101 of Pub. 
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–646, § 51(c), Nov. 10, 1986, 100 Stat. 3606, provided that: “The amendment made by subsection (a)(2) [amending this section] shall take effect on the date of the taking of effect of section 3742 of title 18, United States Code [Nov. 1, 1987].”
+Pub. L. 99–646, § 51(c), Nov. 10, 1986, 100 Stat. 3606, provided that: “The amendment made by subsection (a)(2) [amending this section] shall take effect on the date of the taking of effect of section 3742 of title 18, United States Code [Nov. 1, 1987].”
 
 Amendment by section 55(a), (d) of Pub. L. 99–646 effective 30 days after Nov. 10, 1986, see section 55(j) of Pub. L. 99–646, set out as a note under section 3141 of this title.
 
@@ -433,11 +433,11 @@ Amendment by section 55(a), (d) of Pub. L. 99–646 effective 30 days after Nov.
 
 Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
-## § 3144. Release or detention of a material witness
+## § 3144. Release or detention of a material witness
 
 If it appears from an affidavit filed by a party that the testimony of a person is material in a criminal proceeding, and if it is shown that it may become impracticable to secure the presence of the person by subpoena, a judicial officer may order the arrest of the person and treat the person in accordance with the provisions of section 3142 of this title. No material witness may be detained because of inability to comply with any condition of release if the testimony of such witness can adequately be secured by deposition, and if further detention is not necessary to prevent a failure of justice. Release of a material witness may be delayed for a reasonable period of time until the deposition of the witness can be taken pursuant to the Federal Rules of Criminal Procedure.
 
-(Added Pub. L. 98–473, title II, § 203(a), Oct. 12, 1984, 98 Stat. 1982; amended Pub. L. 99–646, § 55(e), Nov. 10, 1986, 100 Stat. 3609.)
+(Added Pub. L. 98–473, title II, § 203(a), Oct. 12, 1984, 98 Stat. 1982; amended Pub. L. 99–646, § 55(e), Nov. 10, 1986, 100 Stat. 3609.)
 
 **Editorial Notes**
 
@@ -459,7 +459,7 @@ A prior section 3144, act June 25, 1948, ch. 645, 62 Stat. 821, related to cases
 
 Amendment by Pub. L. 99–646 effective 30 days after Nov. 10, 1986, see section 55(j) of Pub. L. 99–646, set out as a note under section 3141 of this title.
 
-## § 3145. Review and appeal of a release or detention order
+## § 3145. Review and appeal of a release or detention order
 
 **(a) Review of a Release Order.—** If a person is ordered released by a magistrate judge, or by a person other than a judge of a court having original jurisdiction over the offense and other than a Federal appellate court—
 
@@ -473,7 +473,7 @@ The motion shall be determined promptly.
 
 **(c) Appeal From a Release or Detention Order.—** An appeal from a release or detention order, or from a decision denying revocation or amendment of such an order, is governed by the provisions of section 1291 of title 28 and section 3731 of this title. The appeal shall be determined promptly. A person subject to detention pursuant to section 3143(a)(2) or (b)(2), and who meets the conditions of release set forth in section 3143(a)(1) or (b)(1), may be ordered released, under appropriate conditions, by the judicial officer, if it is clearly shown that there are exceptional reasons why such person’s detention would not be appropriate.
 
-(Added Pub. L. 98–473, title II, § 203(a), Oct. 12, 1984, 98 Stat. 1982; amended Pub. L. 101–647, title IX, § 902(c), Nov. 29, 1990, 104 Stat. 4827; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(Added Pub. L. 98–473, title II, § 203(a), Oct. 12, 1984, 98 Stat. 1982; amended Pub. L. 101–647, title IX, § 902(c), Nov. 29, 1990, 104 Stat. 4827; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Editorial Notes**
 
@@ -491,7 +491,7 @@ A prior section 3145, act June 25, 1948, ch. 645, 62 Stat. 821, provided cross r
 
 Words “magistrate judge” substituted for “magistrate” in subsecs. (a) and (b) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
-## § 3146. Penalty for failure to appear
+## § 3146. Penalty for failure to appear
 
 **(a) Offense.—** Whoever, having been released under this chapter knowingly—
 
@@ -523,15 +523,15 @@ shall be punished as provided in subsection (b) of this section.
 
 **(d) Declaration of Forfeiture.—** If a person fails to appear before a court as required, and the person executed an appearance bond pursuant to section 3142(b) of this title or is subject to the release condition set forth in clause (xi) or (xii) of section 3142(c)(1)(B) of this title, the judicial officer may, regardless of whether the person has been charged with an offense under this section, declare any property designated pursuant to that section to be forfeited to the United States.
 
-(Added Pub. L. 98–473, title II, § 203(a), Oct. 12, 1984, 98 Stat. 1982; amended Pub. L. 99–646, § 55(f), Nov. 10, 1986, 100 Stat. 3609; Pub. L. 103–322, title XXXIII, § 330016(2)(K), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–294, title VI, § 601(a)(4), Oct. 11, 1996, 110 Stat. 3498.)
+(Added Pub. L. 98–473, title II, § 203(a), Oct. 12, 1984, 98 Stat. 1982; amended Pub. L. 99–646, § 55(f), Nov. 10, 1986, 100 Stat. 3609; Pub. L. 103–322, title XXXIII, § 330016(2)(K), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–294, title VI, § 601(a)(4), Oct. 11, 1996, 110 Stat. 3498.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3146, added Pub. L. 89–465, § 3(a), June 22, 1966, 80 Stat. 214; amended Pub. L. 97–291, § 8, Oct. 12, 1982, 96 Stat. 1257, related to release in noncapital cases prior to trial, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
+A prior section 3146, added Pub. L. 89–465, § 3(a), June 22, 1966, 80 Stat. 214; amended Pub. L. 97–291, § 8, Oct. 12, 1982, 96 Stat. 1257, related to release in noncapital cases prior to trial, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
 
-Another prior section 3146, act Aug. 20, 1954, ch. 772, § 1, 68 Stat. 747, which prescribed penalties for jumping bail, was repealed by Pub. L. 89–465, § 3(a), June 22, 1966, 80 Stat. 214, and covered by former sections 3150 and 3151 of this title.
+Another prior section 3146, act Aug. 20, 1954, ch. 772, § 1, 68 Stat. 747, which prescribed penalties for jumping bail, was repealed by Pub. L. 89–465, § 3(a), June 22, 1966, 80 Stat. 214, and covered by former sections 3150 and 3151 of this title.
 
 **Amendments**
 
@@ -539,13 +539,13 @@ Another prior section 3146, act Aug. 20, 1954, ch. 772, § 1, 68 Stat. 747, wh
 
 1994—Subsec. (b)(1)(A)(iv). Pub. L. 103–322 substituted “fined under this title” for “fine under this chapter”.
 
-1986—Subsec. (a). Pub. L. 99–646, § 55(f)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “A person commits an offense if, after having been released pursuant to this chapter—
+1986—Subsec. (a). Pub. L. 99–646, § 55(f)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “A person commits an offense if, after having been released pursuant to this chapter—
 
 “(1) he knowingly fails to appear before a court as required by the conditions of his release; or
 
 “(2) he knowingly fails to surrender for service of sentence pursuant to a court order.”
 
-Subsec. (b). Pub. L. 99–646, § 55(f)(1), added subsec. (b) and struck out former subsec. (b) which was captioned “Grading”, and which read as follows: “If the person was released—
+Subsec. (b). Pub. L. 99–646, § 55(f)(1), added subsec. (b) and struck out former subsec. (b) which was captioned “Grading”, and which read as follows: “If the person was released—
 
 “(1) in connection with a charge of, or while awaiting sentence, surrender for service of sentence, or appeal or certiorari after conviction, for—
 
@@ -561,9 +561,9 @@ Subsec. (b). Pub. L. 99–646, § 55(f)(1), added subsec. (b) and struck out f
 
 A term of imprisonment imposed pursuant to this section shall be consecutive to the sentence of imprisonment for any other offense.”
 
-Subsec. (c). Pub. L. 99–646, § 55(f)(2), substituted “requirement to appear” for “requirement that he appear” and “the person appeared” for “he appeared”.
+Subsec. (c). Pub. L. 99–646, § 55(f)(2), substituted “requirement to appear” for “requirement that he appear” and “the person appeared” for “he appeared”.
 
-Subsec. (d). Pub. L. 99–646, § 55(f)(3), inserted “of this title” after “3142(b)” and substituted “clause (xi) or (xii) of section 3142(c)(1)(B) of this title” for “section 3142(c)(2)(K) or (c)(2)(L)”.
+Subsec. (d). Pub. L. 99–646, § 55(f)(3), inserted “of this title” after “3142(b)” and substituted “clause (xi) or (xii) of section 3142(c)(1)(B) of this title” for “section 3142(c)(2)(K) or (c)(2)(L)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -571,7 +571,7 @@ Subsec. (d). Pub. L. 99–646, § 55(f)(3), inserted “of this title” after
 
 Amendment by Pub. L. 99–646 effective 30 days after Nov. 10, 1986, see section 55(j) of Pub. L. 99–646, set out as a note under section 3141 of this title.
 
-## § 3147. Penalty for an offense committed while on release
+## § 3147. Penalty for an offense committed while on release
 
 A person convicted of an offense committed while released under this chapter shall be sentenced, in addition to the sentence prescribed for the offense, to—
 
@@ -581,19 +581,19 @@ A person convicted of an offense committed while released under this chapter sha
 
 A term of imprisonment imposed under this section shall be consecutive to any other sentence of imprisonment.
 
-(Added Pub. L. 98–473, title II, § 203(a), Oct. 12, 1984, 98 Stat. 1983; amended Pub. L. 98–473, title II, § 223(g), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 99–646, § 55(g), Nov. 10, 1986, 100 Stat. 3610.)
+(Added Pub. L. 98–473, title II, § 203(a), Oct. 12, 1984, 98 Stat. 1983; amended Pub. L. 98–473, title II, § 223(g), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 99–646, § 55(g), Nov. 10, 1986, 100 Stat. 3610.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3147, added Pub. L. 89–465, § 3(a), June 22, 1966, 80 Stat. 215, related to appeals from conditions of release, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
+A prior section 3147, added Pub. L. 89–465, § 3(a), June 22, 1966, 80 Stat. 215, related to appeals from conditions of release, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
 
 **Amendments**
 
 1986—Pub. L. 99–646 substituted “under” for “pursuant to” in two places and “for the offense,” for “for the offense”.
 
-1984—Pub. L. 98–473, § 223(g), struck out “not less than two years and” after “imprisonment of” in par. (1), and “not less than ninety days and” after “imprisonment of” in par. (2).
+1984—Pub. L. 98–473, § 223(g), struck out “not less than two years and” after “imprisonment of” in par. (1), and “not less than ninety days and” after “imprisonment of” in par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -605,7 +605,7 @@ Amendment by Pub. L. 99–646 effective 30 days after Nov. 10, 1986, see section
 
 Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
-## § 3148. Sanctions for violation of a release condition
+## § 3148. Sanctions for violation of a release condition
 
 **(a) Available Sanctions.—** A person who has been released under section 3142 of this title, and who has violated a condition of his release, is subject to a revocation of release, an order of detention, and a prosecution for contempt of court.
 
@@ -627,21 +627,21 @@ If there is probable cause to believe that, while on release, the person committ
 
 **(c) Prosecution for Contempt.—** The judicial officer may commence a prosecution for contempt, under section 401 of this title, if the person has violated a condition of release.
 
-(Added Pub. L. 98–473, title II, § 203(a), Oct. 12, 1984, 98 Stat. 1983; amended Pub. L. 99–646, § 55(a), (h), Nov. 10, 1986, 100 Stat. 3607, 3610.)
+(Added Pub. L. 98–473, title II, § 203(a), Oct. 12, 1984, 98 Stat. 1983; amended Pub. L. 99–646, § 55(a), (h), Nov. 10, 1986, 100 Stat. 3607, 3610.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3148, added Pub. L. 89–465, § 3(a), June 22, 1966, 80 Stat. 215; amended Pub. L. 91–452, title X, § 1002, Oct. 12, 1970, 84 Stat. 952, related to release in capital cases or after conviction, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
+A prior section 3148, added Pub. L. 89–465, § 3(a), June 22, 1966, 80 Stat. 215; amended Pub. L. 91–452, title X, § 1002, Oct. 12, 1970, 84 Stat. 952, related to release in capital cases or after conviction, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
 
 **Amendments**
 
-1986—Subsec. (a). Pub. L. 99–646, § 55(a), (h)(1), substituted “under section 3142 of this title” for “pursuant to the provisions of section 3142”.
+1986—Subsec. (a). Pub. L. 99–646, § 55(a), (h)(1), substituted “under section 3142 of this title” for “pursuant to the provisions of section 3142”.
 
-Subsec. (b). Pub. L. 99–646, § 55(h)(2), in introductory provision, substituted “such person’s arrest” for “his arrest”, “condition of release that such person not commit” for “condition of his release that he not commit”, and “period of release,” for “period of release”, in par. (1)(B) substituted “condition of release” for “condition of his release”, in par. (2)(A) inserted “of this title” after “section 3142(g)”, and in concluding provision, substituted “the judicial officer shall” for “he shall” and inserted “of this title” after “section 3142”.
+Subsec. (b). Pub. L. 99–646, § 55(h)(2), in introductory provision, substituted “such person’s arrest” for “his arrest”, “condition of release that such person not commit” for “condition of his release that he not commit”, and “period of release,” for “period of release”, in par. (1)(B) substituted “condition of release” for “condition of his release”, in par. (2)(A) inserted “of this title” after “section 3142(g)”, and in concluding provision, substituted “the judicial officer shall” for “he shall” and inserted “of this title” after “section 3142”.
 
-Subsec. (c). Pub. L. 99–646, § 55(a), (h)(3), substituted “judicial officer” for “judge”, “under section 401 of this title” for “pursuant to the provisions of section 401”, and “condition of release” for “condition of his release”.
+Subsec. (c). Pub. L. 99–646, § 55(a), (h)(3), substituted “judicial officer” for “judge”, “under section 401 of this title” for “pursuant to the provisions of section 401”, and “condition of release” for “condition of his release”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -649,39 +649,39 @@ Subsec. (c). Pub. L. 99–646, § 55(a), (h)(3), substituted “judicial offic
 
 Amendment by Pub. L. 99–646 effective 30 days after Nov. 10, 1986, see section 55(j) of Pub. L. 99–646, set out as a note under section 3141 of this title.
 
-## § 3149. Surrender of an offender by a surety
+## § 3149. Surrender of an offender by a surety
 
 A person charged with an offense, who is released upon the execution of an appearance bond with a surety, may be arrested by the surety, and if so arrested, shall be delivered promptly to a United States marshal and brought before a judicial officer. The judicial officer shall determine in accordance with the provisions of section 3148(b) whether to revoke the release of the person, and may absolve the surety of responsibility to pay all or part of the bond in accordance with the provisions of Rule 46 of the Federal Rules of Criminal Procedure. The person so committed shall be held in official detention until released pursuant to this chapter or another provision of law.
 
-(Added Pub. L. 98–473, title II, § 203(a), Oct. 12, 1984, 98 Stat. 1984.)
+(Added Pub. L. 98–473, title II, § 203(a), Oct. 12, 1984, 98 Stat. 1984.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3149, added Pub. L. 89–465, § 3(a), June 22, 1966, 80 Stat. 216, related to release of material witnesses, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
+A prior section 3149, added Pub. L. 89–465, § 3(a), June 22, 1966, 80 Stat. 216, related to release of material witnesses, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
 
-## § 3150. Applicability to a case removed from a State court
+## § 3150. Applicability to a case removed from a State court
 
 The provisions of this chapter apply to a criminal case removed to a Federal court from a State court.
 
-(Added Pub. L. 98–473, title II, § 203(a), Oct. 12, 1984, 98 Stat. 1984.)
+(Added Pub. L. 98–473, title II, § 203(a), Oct. 12, 1984, 98 Stat. 1984.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3150, added Pub. L. 89–465, § 3(a), June 22, 1966, 80 Stat. 216, related to penalties for failure to appear, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
+A prior section 3150, added Pub. L. 89–465, § 3(a), June 22, 1966, 80 Stat. 216, related to penalties for failure to appear, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
 
-## [§ 3150a. Repealed. Pub. L. 98–473, title II, § 203(a), Oct. 12, 1984, 98 Stat. 1976]
+## [§ 3150a. Repealed. Pub. L. 98–473, title II, § 203(a), Oct. 12, 1984, 98 Stat. 1976]
 
-Section, added Pub. L. 97–258, § 2(d)(3)(B), Sept. 13, 1982, 96 Stat. 1059; amended Pub. L. 98–473, title II, § 1410, Oct. 12, 1984, 98 Stat. 2178, related to refund of forfeited bail. Section 1410 of Pub. L. 98–473 was subsequently repealed by Pub. L. 99–646, § 49, Nov. 10, 1986, 100 Stat. 3605.
+Section, added Pub. L. 97–258, § 2(d)(3)(B), Sept. 13, 1982, 96 Stat. 1059; amended Pub. L. 98–473, title II, § 1410, Oct. 12, 1984, 98 Stat. 2178, related to refund of forfeited bail. Section 1410 of Pub. L. 98–473 was subsequently repealed by Pub. L. 99–646, § 49, Nov. 10, 1986, 100 Stat. 3605.
 
-## § 3151. Refund of forfeited bail
+## § 3151. Refund of forfeited bail
 
 Appropriations available to refund money erroneously received and deposited in the Treasury are available to refund any part of forfeited bail deposited into the Treasury and ordered remitted under the Federal Rules of Criminal Procedure.
 
-(Added Pub. L. 100–690, title VII, § 7084(a), Nov. 18, 1988, 102 Stat. 4408.)
+(Added Pub. L. 100–690, title VII, § 7084(a), Nov. 18, 1988, 102 Stat. 4408.)
 
 **Editorial Notes**
 
@@ -691,9 +691,9 @@ The Federal Rules of Criminal Procedure, referred to in text, are set out in the
 
 **Prior Provisions**
 
-A prior section 3151, added Pub. L. 89–465, § 3(a), June 22, 1966, 80 Stat. 216, related to contempt power of courts, prior to repeal by Pub. L. 98–473, title II, § 203(a), Oct. 12, 1984, 98 Stat. 1976.
+A prior section 3151, added Pub. L. 89–465, § 3(a), June 22, 1966, 80 Stat. 216, related to contempt power of courts, prior to repeal by Pub. L. 98–473, title II, § 203(a), Oct. 12, 1984, 98 Stat. 1976.
 
-## § 3152. Establishment of pretrial services
+## § 3152. Establishment of pretrial services
 
 **(a)** On and after the date of the enactment of the Pretrial Services Act of 1982, the Director of the Administrative Office of the United States Courts (hereinafter in this chapter referred to as the “Director”) shall, under the supervision and direction of the Judicial Conference of the United States, provide directly, or by contract or otherwise (to such extent and in such amounts as are provided in appropriation Acts), for the establishment of pretrial services in each judicial district (other than the District of Columbia). Pretrial services established under this section shall be supervised by a chief probation officer appointed under section 3654 of this title or by a chief pretrial services officer selected under subsection (c) of this section.
 
@@ -701,7 +701,7 @@ A prior section 3151, added Pub. L. 89–465, § 3(a), June 22, 1966, 80 Stat.
 
 **(c)** The pretrial services established under subsection (b) of this section shall be supervised by a chief pretrial services officer appointed by the district court. The chief pretrial services officer appointed under this subsection shall be an individual other than one serving under authority of section 3602 of this title.
 
-(Added Pub. L. 93–619, title II, § 201, Jan. 3, 1975, 88 Stat. 2086; amended Pub. L. 97–267, § 2, Sept. 27, 1982, 96 Stat. 1136; Pub. L. 110–406, § 10, Oct. 13, 2008, 122 Stat. 4293.)
+(Added Pub. L. 93–619, title II, § 201, Jan. 3, 1975, 88 Stat. 2086; amended Pub. L. 97–267, § 2, Sept. 27, 1982, 96 Stat. 1136; Pub. L. 110–406, § 10, Oct. 13, 2008, 122 Stat. 4293.)
 
 **Editorial Notes**
 
@@ -711,7 +711,7 @@ The date of enactment of the Pretrial Services Act of 1982, referred to in subse
 
 **Prior Provisions**
 
-A prior section 3152, as added by Pub. L. 89–465, § 3(a), June 22, 1966, 80 Stat. 216, defined the terms “judicial officer” and “offense”, prior to repeal by Pub. L. 93–619, § 201. See section 3156 of this title.
+A prior section 3152, as added by Pub. L. 89–465, § 3(a), June 22, 1966, 80 Stat. 216, defined the terms “judicial officer” and “offense”, prior to repeal by Pub. L. 93–619, § 201. See section 3156 of this title.
 
 **Amendments**
 
@@ -723,7 +723,7 @@ A prior section 3152, as added by Pub. L. 89–465, § 3(a), June 22, 1966, 80
 
 **Authorization of Appropriations**
 
-Pub. L. 97–267, § 9, Sept. 27, 1982, 96 Stat. 1139, provided that:
+Pub. L. 97–267, § 9, Sept. 27, 1982, 96 Stat. 1139, provided that:
 
 > **“(a)** There are authorized to be appropriated, for the fiscal year ending September 30, 1984, and each succeeding fiscal year thereafter, such sums as may be necessary to carry out the functions and powers of pretrial services established under section 3152(b) of title 18, United States Code.
 
@@ -731,9 +731,9 @@ Pub. L. 97–267, § 9, Sept. 27, 1982, 96 Stat. 1139, provided that:
 
 **Status of Pretrial Services Agencies in Effect Prior to September 27, 1982**
 
-Pub. L. 97–267, § 8, Sept. 27, 1982, 96 Stat. 1139, provided that: “During the period beginning on the date of enactment of this Act [Sept. 27, 1982] and ending eighteen months after the date of the enactment of this Act, the pretrial services agencies established under section 3152 of title 18 of the United States Code in effect before the date of enactment of this Act may continue to operate, employ staff, provide pretrial services, and perform such functions and powers as are authorized under chapter 207 of title 18 of the United States Code [this chapter].”
+Pub. L. 97–267, § 8, Sept. 27, 1982, 96 Stat. 1139, provided that: “During the period beginning on the date of enactment of this Act [Sept. 27, 1982] and ending eighteen months after the date of the enactment of this Act, the pretrial services agencies established under section 3152 of title 18 of the United States Code in effect before the date of enactment of this Act may continue to operate, employ staff, provide pretrial services, and perform such functions and powers as are authorized under chapter 207 of title 18 of the United States Code [this chapter].”
 
-## § 3153. Organization and administration of pretrial services
+## § 3153. Organization and administration of pretrial services
 
 **(a)**
 
@@ -761,7 +761,7 @@ Pub. L. 97–267, § 8, Sept. 27, 1982, 96 Stat. 1139, provided that: “Durin
 
 **(3)** Information made confidential under paragraph (1) of this subsection is not admissible on the issue of guilt in a criminal judicial proceeding unless such proceeding is a prosecution for a crime committed in the course of obtaining pretrial release or a prosecution for failure to appear for the criminal judicial proceeding with respect to which pretrial services were provided.
 
-(Added Pub. L. 93–619, title II, § 201, Jan. 3, 1975, 88 Stat. 2086; amended Pub. L. 97–287, § 3, Sept. 27, 1982, 96 Stat. 1136.)
+(Added Pub. L. 93–619, title II, § 201, Jan. 3, 1975, 88 Stat. 2086; amended Pub. L. 97–287, § 3, Sept. 27, 1982, 96 Stat. 1136.)
 
 **Editorial Notes**
 
@@ -773,9 +773,9 @@ Pub. L. 97–267, § 8, Sept. 27, 1982, 96 Stat. 1139, provided that: “Durin
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 3154. Functions and powers relating to pretrial services
+## § 3154. Functions and powers relating to pretrial services
 
 Pretrial services functions shall include the following:
 
@@ -813,29 +813,29 @@ Pretrial services functions shall include the following:
 
 **(15)** Perform such other functions as specified under this chapter.
 
-(Added Pub. L. 93–619, title II, § 201, Jan. 3, 1975, 88 Stat. 2087; amended Pub. L. 97–267, § 4, Sept. 27, 1982, 96 Stat. 1137; Pub. L. 98–473, title II, § 203(b), Oct. 12, 1984, 98 Stat. 1984; Pub. L. 101–647, title XXXV, § 3576, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 102–572, title VII, § 701(b), title X, § 1002, Oct. 29, 1992, 106 Stat. 4515, 4521; Pub. L. 104–317, title I, § 101(b), Oct. 19, 1996, 110 Stat. 3848; Pub. L. 110–406, § 15(a), Oct. 13, 2008, 122 Stat. 4294; Pub. L. 111–174, § 5, May 27, 2010, 124 Stat. 1216; Pub. L. 115–391, title VI, § 609(b), Dec. 21, 2018, 132 Stat. 5245.)
+(Added Pub. L. 93–619, title II, § 201, Jan. 3, 1975, 88 Stat. 2087; amended Pub. L. 97–267, § 4, Sept. 27, 1982, 96 Stat. 1137; Pub. L. 98–473, title II, § 203(b), Oct. 12, 1984, 98 Stat. 1984; Pub. L. 101–647, title XXXV, § 3576, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 102–572, title VII, § 701(b), title X, § 1002, Oct. 29, 1992, 106 Stat. 4515, 4521; Pub. L. 104–317, title I, § 101(b), Oct. 19, 1996, 110 Stat. 3848; Pub. L. 110–406, § 15(a), Oct. 13, 2008, 122 Stat. 4294; Pub. L. 111–174, § 5, May 27, 2010, 124 Stat. 1216; Pub. L. 115–391, title VI, § 609(b), Dec. 21, 2018, 132 Stat. 5245.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Par. (12)(A). Pub. L. 115–391 substituted “, 4246, or 4248” for “or 4246”.
+2018—Par. (12)(A). Pub. L. 115–391 substituted “, 4246, or 4248” for “or 4246”.
 
 2010—Pars. (14), (15). Pub. L. 111–174 added par. (14) and redesignated former par. (14) as (15).
 
-2008—Par. (4). Pub. L. 110–406 inserted “, and contract with any appropriate public or private agency or person, or expend funds, to monitor and provide treatment as well as nontreatment services to any such persons released in the community, including equipment and emergency housing, corrective and preventative guidance and training, and other services reasonably deemed necessary to protect the public and ensure that such persons appear in court as required” before period at end.
+2008—Par. (4). Pub. L. 110–406 inserted “, and contract with any appropriate public or private agency or person, or expend funds, to monitor and provide treatment as well as nontreatment services to any such persons released in the community, including equipment and emergency housing, corrective and preventative guidance and training, and other services reasonably deemed necessary to protect the public and ensure that such persons appear in court as required” before period at end.
 
 1996—Pars. (13), (14). Pub. L. 104–317 added par. (13) and redesignated former par. (13) as (14).
 
-1992—Par. (1). Pub. L. 102–572, § 1002, inserted before period at end “; except that a district court may direct that information not be collected, verified, or reported under this paragraph on individuals charged with Class A misdemeanors as defined in section 3559(a)(6) of this title”.
+1992—Par. (1). Pub. L. 102–572, § 1002, inserted before period at end “; except that a district court may direct that information not be collected, verified, or reported under this paragraph on individuals charged with Class A misdemeanors as defined in section 3559(a)(6) of this title”.
 
-Pars. (12), (13). Pub. L. 102–572, § 701(b), added par. (12) and redesignated former par. (12) as (13).
+Pars. (12), (13). Pub. L. 102–572, § 701(b), added par. (12) and redesignated former par. (12) as (13).
 
 1990—Par. (1). Pub. L. 101–647 substituted “community, and, where appropriate, include a recommendation as to whether such individual should be released or detained and, if release is recommended, recommend appropriate conditions of release.” for “community” and all that followed through end of par. (1).
 
-1984—Par. (1). Pub. L. 98–473, § 203(b)(1), which directed the amendment of par. (1), by striking out “and recommend appropriate release conditions for each such person” and inserting in lieu thereof “and, where appropriate, include a recommendation as to whether such individual should be released or detained and, if release is recommended, recommend appropriate conditions of release” could not be executed because such language did not appear. See 1990 Amendment note above.
+1984—Par. (1). Pub. L. 98–473, § 203(b)(1), which directed the amendment of par. (1), by striking out “and recommend appropriate release conditions for each such person” and inserting in lieu thereof “and, where appropriate, include a recommendation as to whether such individual should be released or detained and, if release is recommended, recommend appropriate conditions of release” could not be executed because such language did not appear. See 1990 Amendment note above.
 
-Par. (2). Pub. L. 98–473, § 203(b)(2), substituted “section 3145” for “section 3146(e) or section 3147”.
+Par. (2). Pub. L. 98–473, § 203(b)(2), substituted “section 3145” for “section 3146(e) or section 3147”.
 
 1982—Pub. L. 97–267 substituted “relating to pretrial services” for “of pretrial services agencies” in section catchline, in par. (1) struck out provisions relating to agency files concerning the pretrial release of persons charged with an offense, the establishment of regulations concerning the release of such files, and the access to and admissibility of these files, in par. (4) struck out provision relating to the cooperation of the Administrative Office of the United States Courts and the approval of the Attorney General and provision not limiting this paragraph to those facilities listed thereunder, in par. (5) inserted provisions that pretrial services may provide the United States Attorney as well as the court with information described under this paragraph and that such information also includes any danger that a person released to the custody of pretrial services may come to pose to any other person or the community, in par. (9) substituted provisions that pretrial services shall develop and implement a system to monitor and evaluate bail activities, provide information on the result of bail decisions, and prepare periodic reports to assist the improvement of the bail process for provisions that pretrial services agencies would perform such other functions as the court might assign, and added pars. (10)–(12).
 
@@ -847,7 +847,7 @@ Amendment by Pub. L. 102–572 effective Jan. 1, 1993, see section 1101 of Pub. 
 
 **Demonstration Program for Drug Testing of Arrested Persons and Defendants on Probation or Supervised Release**
 
-Pub. L. 100–690, title VII, § 7304, Nov. 18, 1988, 102 Stat. 4464, provided that:
+Pub. L. 100–690, title VII, § 7304, Nov. 18, 1988, 102 Stat. 4464, provided that:
 
 > **“(a) Establishment.—** The Director of the Administrative Office of the United States Courts shall establish a demonstration program of mandatory testing of criminal defendants.
 
@@ -861,11 +861,11 @@ Pub. L. 100–690, title VII, § 7304, Nov. 18, 1988, 102 Stat. 4464, provided
 
 > **“(f) Report to Congress.—** Not later than 90 days after the first year of the demonstration program and not later than 90 days after the end of the demonstration program, the Director of the Administrative Office of the United States Courts shall report to Congress on the effectiveness of the demonstration program and include in such report recommendations as to whether mandatory drug testing of defendants should be made more general and permanent.”
 
-## § 3155. Annual reports
+## § 3155. Annual reports
 
 Each chief pretrial services officer in districts in which pretrial services are established under section 3152(b) of this title, and each chief probation officer in all other districts, shall prepare an annual report to the chief judge of the district court concerning the administration and operation of pretrial services and shall ensure that case file, statistical, and other information concerning the work of pretrial services is provided to the Director. The Director shall be required to include in the Director’s annual report to the Judicial Conference under section 604 of title 28 a report on the administration and operation of the pretrial services for the previous year.
 
-(Added Pub. L. 93–619, title II, § 201, Jan. 3, 1975, 88 Stat. 2088; amended Pub. L. 97–267, § 5, Sept. 27, 1982, 96 Stat. 1138; Pub. L. 113–235, div. E, title III, § 308, Dec. 16, 2014, 128 Stat. 2352.)
+(Added Pub. L. 93–619, title II, § 201, Jan. 3, 1975, 88 Stat. 2088; amended Pub. L. 97–267, § 5, Sept. 27, 1982, 96 Stat. 1138; Pub. L. 113–235, div. E, title III, § 308, Dec. 16, 2014, 128 Stat. 2352.)
 
 **Editorial Notes**
 
@@ -875,7 +875,7 @@ Each chief pretrial services officer in districts in which pretrial services are
 
 1982—Pub. L. 97–267 substituted provisions that each pretrial services officer or chief probation officer shall prepare an annual report to the chief judge of the district court and to the Director concerning the administration and operation of pretrial services and that the Director must include in the Director’s annual report to the Judicial Conference a report on the administration and operation of the pretrial services for the previous year for provisions relating to the Director’s annual report to Congress, the contents of the Director’s fourth annual report, and that on or before the expiration of the forty-eighth-month period following July 1, 1975, the Director would file a comprehensive report with Congress concerning the administration and operation of the amendments made by the Speedy Trial Act of 1974, including his views and recommendations with respect thereto.
 
-## § 3156. Definitions
+## § 3156. Definitions
 
 **(a)** As used in sections 3141–3150 of this chapter—
 
@@ -901,7 +901,7 @@ Each chief pretrial services officer in districts in which pretrial services are
 
 **(2)** the term “offense” means any Federal criminal offense which is in violation of any Act of Congress and is triable by any court established by Act of Congress (other than a Class B or C misdemeanor or an infraction, or an offense triable by court-martial, military commission, provost court, or other military tribunal).
 
-(Added Pub. L. 93–619, title II, § 201, Jan. 3, 1975, 88 Stat. 2088; amended Pub. L. 98–473, title II, §§ 203(c), 223(h), Oct. 12, 1984, 98 Stat. 1985, 2029; Pub. L. 99–646, § 55(i), Nov. 10, 1986, 100 Stat. 3610; Pub. L. 103–322, title IV, § 40501, Sept. 13, 1994, 108 Stat. 1945; Pub. L. 104–294, title VI, § 607(i), Oct. 11, 1996, 110 Stat. 3512; Pub. L. 105–314, title VI, § 601, Oct. 30, 1998, 112 Stat. 2982; Pub. L. 114–22, title I, § 112, May 29, 2015, 129 Stat. 240.)
+(Added Pub. L. 93–619, title II, § 201, Jan. 3, 1975, 88 Stat. 2088; amended Pub. L. 98–473, title II, §§ 203(c), 223(h), Oct. 12, 1984, 98 Stat. 1985, 2029; Pub. L. 99–646, § 55(i), Nov. 10, 1986, 100 Stat. 3610; Pub. L. 103–322, title IV, § 40501, Sept. 13, 1994, 108 Stat. 1945; Pub. L. 104–294, title VI, § 607(i), Oct. 11, 1996, 110 Stat. 3512; Pub. L. 105–314, title VI, § 601, Oct. 30, 1998, 112 Stat. 2982; Pub. L. 114–22, title I, § 112, May 29, 2015, 129 Stat. 240.)
 
 **Editorial Notes**
 
@@ -917,15 +917,15 @@ Each chief pretrial services officer in districts in which pretrial services are
 
 1986—Subsec. (a). Pub. L. 99–646 substituted “the term” for “The term” in pars. (1) to (4) and struck out “and” after “Congress;” in par. (2).
 
-1984—Subsec. (a). Pub. L. 98–473, § 203(c)(1), substituted “3141” for “3146” in provision preceding par. (1).
+1984—Subsec. (a). Pub. L. 98–473, § 203(c)(1), substituted “3141” for “3146” in provision preceding par. (1).
 
-Subsec. (a)(1). Pub. L. 98–473, § 203(c)(2), substituted “to detain or release” for “to bail or otherwise release” and struck out “and” after “District of Columbia;”.
+Subsec. (a)(1). Pub. L. 98–473, § 203(c)(2), substituted “to detain or release” for “to bail or otherwise release” and struck out “and” after “District of Columbia;”.
 
-Subsec. (a)(3), (4). Pub. L. 98–473, § 203(c)(3), (4), added pars. (3) and (4).
+Subsec. (a)(3), (4). Pub. L. 98–473, § 203(c)(3), (4), added pars. (3) and (4).
 
-Subsec. (b)(1). Pub. L. 98–473, § 203(c)(5), substituted “to detain or release” for “to bail or otherwise release”.
+Subsec. (b)(1). Pub. L. 98–473, § 203(c)(5), substituted “to detain or release” for “to bail or otherwise release”.
 
-Subsec. (b)(2). Pub. L. 98–473, § 223(h), substituted “Class B or C misdemeanor or an infraction” for “petty offense as defined in section 1(3) of this title”.
+Subsec. (b)(2). Pub. L. 98–473, § 223(h), substituted “Class B or C misdemeanor or an infraction” for “petty offense as defined in section 1(3) of this title”.
 
 **Statutory Notes and Related Subsidiaries**
 

@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 247 “ACQUISITION OF COMMERCIAL ITEMS”, as added by Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1827, and consisting of reserved section 3451, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1821(a)(1), Jan. 1, 2021, 134 Stat. 4194.
+A prior chapter 247 “ACQUISITION OF COMMERCIAL ITEMS”, as added by Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1827, and consisting of reserved section 3451, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1821(a)(1), Jan. 1, 2021, 134 Stat. 4194.
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title VIII, § 811(a)(5), title XVIII, § 1824, Dec. 18, 2025, 139 Stat. 948, 1248, struck out item 3455 “Procurement of a major weapon system as a commercial product: requirement for prior determination by Secretary of Defense and notification to Congress” and added item 3459. Amendments were made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title VIII, § 811(a)(5), title XVIII, § 1824, Dec. 18, 2025, 139 Stat. 948, 1248, struck out item 3455 “Procurement of a major weapon system as a commercial product: requirement for prior determination by Secretary of Defense and notification to Congress” and added item 3459. Amendments were made pursuant to operation of section 102 of this title.
 
-2021—Pub. L. 117–81, div. A, title VIII, § 803(b)(2), Dec. 27, 2021, 135 Stat. 1816, added item 3458.
+2021—Pub. L. 117–81, div. A, title VIII, § 803(b)(2), Dec. 27, 2021, 135 Stat. 1816, added item 3458.
 
-Pub. L. 116–283, div. A, title XVIII, § 1821(a)(1), (3), (b)(1)(B), (7)(C), Jan. 1, 2021, 134 Stat. 4194–4196, transferred chapter 140 of this title to this chapter, renumbered items 2375, 2376, 2377, 2379, 2380, and 2380a as 3452, 3451, 3453, 3455, 3456, and 3457, respectively, moved item 3451 so as to precede item 3452, and struck out item 2380b “Treatment of commingled items purchased by contractors as commercial products”.
+Pub. L. 116–283, div. A, title XVIII, § 1821(a)(1), (3), (b)(1)(B), (7)(C), Jan. 1, 2021, 134 Stat. 4194–4196, transferred chapter 140 of this title to this chapter, renumbered items 2375, 2376, 2377, 2379, 2380, and 2380a as 3452, 3451, 3453, 3455, 3456, and 3457, respectively, moved item 3451 so as to precede item 3452, and struck out item 2380b “Treatment of commingled items purchased by contractors as commercial products”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Pilot Program on Modernized Health and Usage Monitoring Systems To Address Obsolescence in Rotary-Wing and Tiltrotor Aircraft**
 
-Pub. L. 119–60, div. A, title II, § 229, Dec. 18, 2025, 139 Stat. 787, provided that:
+Pub. L. 119–60, div. A, title II, § 229, Dec. 18, 2025, 139 Stat. 787, provided that:
 
 > **“(a) Establishment.—** Not later than 180 days after the date of enactment of this Act [Dec. 18, 2025], the Secretary of the Army and Secretary of the Navy may establish and carry out a pilot program to evaluate commercially available, next-generation Health and Usage Monitoring Systems (referred to in this section as ‘HUMS’) technologies intended to address obsolescence issues affecting legacy HUMS currently installed on Army and Marine Corps rotary-wing and tiltrotor aircraft.
 
@@ -55,7 +55,7 @@ Pub. L. 119–60, div. A, title II, § 229, Dec. 18, 2025, 139 Stat. 787, prov
 
 **Pilot Program for Contracted Amphibious Air Resources for the Area of Responsibility of the United States Indo-Pacific Command**
 
-Pub. L. 119–60, div. A, title III, § 381, Dec. 18, 2025, 139 Stat. 845, provided that:
+Pub. L. 119–60, div. A, title III, § 381, Dec. 18, 2025, 139 Stat. 845, provided that:
 
 > **“(a) Authority.—** The Secretary of Defense, in conjunction with the Secretary of the Navy and the Commander of the United States Indo-Pacific Command, may carry out a pilot program for the contracted operation of a fleet of commercial amphibious aviation resources to be made available to the commanders of the combatant commands and the commanders of other components of the Department of Defense for mission tasking within the area of responsibility of the United States Indo-Pacific Command.
 
@@ -65,7 +65,7 @@ Pub. L. 119–60, div. A, title III, § 381, Dec. 18, 2025, 139 Stat. 845, pro
 
 **Procurement and Distribution of Sports Foods and Dietary Supplements to Members of the Armed Forces Assigned to the United States Special Operations Command**
 
-Pub. L. 119–60, div. A, title X, § 1087, Dec. 18, 2025, 139 Stat. 1058, provided that:
+Pub. L. 119–60, div. A, title X, § 1087, Dec. 18, 2025, 139 Stat. 1058, provided that:
 
 > **“(a) Procurement and Distribution.—** The Commander of the United States Special Operations Command may authorize, from amounts appropriated to the Department of Defense for Major Force Program 11—
 
@@ -117,7 +117,7 @@ Pub. L. 119–60, div. A, title X, § 1087, Dec. 18, 2025, 139 Stat. 1058, pro
 
 **Use of Capability-Based Analysis of Price of Goods or Services Offered by Nontraditional Defense Contractors**
 
-Pub. L. 118–159, div. A, title VIII, § 864, Dec. 23, 2024, 138 Stat. 2002, as amended by Pub. L. 119–60, div. A, title VIII, § 812(b), Dec. 18, 2025, 139 Stat. 952, provided that:
+Pub. L. 118–159, div. A, title VIII, § 864, Dec. 23, 2024, 138 Stat. 2002, as amended by Pub. L. 119–60, div. A, title VIII, § 812(b), Dec. 18, 2025, 139 Stat. 952, provided that:
 
 > **“(a) Pilot Program.—** A contracting officer of the Department of Defense may use alternative capability-based analysis to determine whether the proposed price or fee for a commercial product or commercial service offered by a nontraditional defense contractor (as that term is defined in section 3014 of title 10, United States Code) is fair and reasonable.
 
@@ -151,7 +151,7 @@ Pub. L. 118–159, div. A, title VIII, § 864, Dec. 23, 2024, 138 Stat. 2002, 
 
 **Procurement of Commercial Services**
 
-Pub. L. 110–181, div. A, title VIII, § 805, Jan. 28, 2008, 122 Stat. 212, as amended by Pub. L. 110–417, [div. A], title X, § 1061(b)(4), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 113–291, div. A, title X, § 1071(b)(2)(A), Dec. 19, 2014, 128 Stat. 3506; Pub. L. 115–232, div. A, title VIII, § 836(f)(6), Aug. 13, 2018, 132 Stat. 1871, provided that:
+Pub. L. 110–181, div. A, title VIII, § 805, Jan. 28, 2008, 122 Stat. 212, as amended by Pub. L. 110–417, [div. A], title X, § 1061(b)(4), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 113–291, div. A, title X, § 1071(b)(2)(A), Dec. 19, 2014, 128 Stat. 3506; Pub. L. 115–232, div. A, title VIII, § 836(f)(6), Aug. 13, 2018, 132 Stat. 1871, provided that:
 
 > **“(a) Regulations Required.—** Not later than 180 days after the date of the enactment of this Act [Jan. 28, 2008], the Secretary of Defense shall modify the regulations of the Department of Defense for the procurement of commercial services for or on behalf of the Department of Defense.
 
@@ -187,9 +187,9 @@ Pub. L. 110–181, div. A, title VIII, § 805, Jan. 28, 2008, 122 Stat. 212, a
 
 **Plan for Restricting Government-Unique Contract Clauses on Commercial Contracts**
 
-Pub. L. 110–181, div. A, title VIII, § 821, Jan. 28, 2008, 122 Stat. 226, as amended by Pub. L. 113–291, div. A, title X, § 1071(b)(2)(B), Dec. 19, 2014, 128 Stat. 3506; Pub. L. 115–232, div. A, title VIII, § 836(f)(3), Aug. 13, 2018, 132 Stat. 1871; Pub. L. 116–92, div. A, title IX, § 902(41), Dec. 20, 2019, 133 Stat. 1547, which provided that the Under Secretary of Defense for Acquisition and Sustainment was to develop and implement a plan to minimize the number of government-unique contract clauses used in commercial contracts by restricting the clauses to government-unique clauses authorized by law or regulation and any additional clauses that were relevant and necessary to a specific contract, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(15)(C), Dec. 18, 2025, 139 Stat. 949.
+Pub. L. 110–181, div. A, title VIII, § 821, Jan. 28, 2008, 122 Stat. 226, as amended by Pub. L. 113–291, div. A, title X, § 1071(b)(2)(B), Dec. 19, 2014, 128 Stat. 3506; Pub. L. 115–232, div. A, title VIII, § 836(f)(3), Aug. 13, 2018, 132 Stat. 1871; Pub. L. 116–92, div. A, title IX, § 902(41), Dec. 20, 2019, 133 Stat. 1547, which provided that the Under Secretary of Defense for Acquisition and Sustainment was to develop and implement a plan to minimize the number of government-unique contract clauses used in commercial contracts by restricting the clauses to government-unique clauses authorized by law or regulation and any additional clauses that were relevant and necessary to a specific contract, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(15)(C), Dec. 18, 2025, 139 Stat. 949.
 
-## § 3451. Definitions
+## § 3451. Definitions
 
 In this chapter:
 
@@ -199,19 +199,19 @@ In this chapter:
 
 **(3)** The term “agency” means the Department of Defense, the Coast Guard, and the National Aeronautics and Space Administration.
 
-(Added Pub. L. 103–355, title VIII, § 8103, Oct. 13, 1994, 108 Stat. 3390, § 2376; amended Pub. L. 107–107, div. A, title X, § 1048(a)(19), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 111–350, § 5(b)(22), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 115–232, div. A, title VIII, § 836(d)(2), Aug. 13, 2018, 132 Stat. 1866; renumbered § 3451 and amended Pub. L. 116–283, div. A, title XVIII, § 1821(a)(2), (b)(1)(A), Jan. 1, 2021, 134 Stat. 4195.)
+(Added Pub. L. 103–355, title VIII, § 8103, Oct. 13, 1994, 108 Stat. 3390, § 2376; amended Pub. L. 107–107, div. A, title X, § 1048(a)(19), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 111–350, § 5(b)(22), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 115–232, div. A, title VIII, § 836(d)(2), Aug. 13, 2018, 132 Stat. 1866; renumbered § 3451 and amended Pub. L. 116–283, div. A, title XVIII, § 1821(a)(2), (b)(1)(A), Jan. 1, 2021, 134 Stat. 4195.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3451, act Aug. 10, 1956, ch. 1041, 70A Stat. 197, provided that an officer who is promoted to a temporary grade is considered to have accepted his promotion on the date of the order announcing it, unless he expressly declines the promotion, prior to repeal by Pub. L. 96–513, title II, § 207, title VII, § 701, Dec. 12, 1980, 94 Stat. 2884, 2955, effective Sept. 15, 1981.
+A prior section 3451, act Aug. 10, 1956, ch. 1041, 70A Stat. 197, provided that an officer who is promoted to a temporary grade is considered to have accepted his promotion on the date of the order announcing it, unless he expressly declines the promotion, prior to repeal by Pub. L. 96–513, title II, § 207, title VII, § 701, Dec. 12, 1980, 94 Stat. 2884, 2955, effective Sept. 15, 1981.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1821(b)(1)(A), transferred this section so as to precede section 3452 and appear at the beginning of this chapter.
+2021—Pub. L. 116–283, § 1821(b)(1)(A), transferred this section so as to precede section 3452 and appear at the beginning of this chapter.
 
-Pub. L. 116–283, § 1821(a)(2), renumbered section 2376 of this title as this section.
+Pub. L. 116–283, § 1821(a)(2), renumbered section 2376 of this title as this section.
 
 2018—Par. (1). Pub. L. 115–232 substituted “terms ‘commercial product’, ‘commercial service’,” for “terms ‘commercial item’,” and “sections 103, 103a, 110, 105, and 102, respectively, of title 41” for “chapter 1 of title 41”.
 
@@ -235,7 +235,7 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
-## § 3452. Relationship of other provisions of law to procurement of commercial products and commercial services
+## § 3452. Relationship of other provisions of law to procurement of commercial products and commercial services
 
 **(a) Applicability of Government-wide Statutes.—**
 
@@ -271,7 +271,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **(4)** a statute that specifically refers to this section and provides that, notwithstanding this section, such statute shall be applicable to contracts for the procurement of commercial products and commercial services.
 
-(Added Pub. L. 103–355, title VIII, § 8102, Oct. 13, 1994, 108 Stat. 3390, § 2375; amended Pub. L. 105–85, div. A, title X, § 1073(a)(51), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 107–107, div. A, title X, § 1048(a)(18), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 111–350, § 5(b)(21), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 114–328, div. A, title VIII, § 874(a), Dec. 23, 2016, 130 Stat. 2308; Pub. L. 115–232, div. A, title VIII, §§ 836(d)(1), (8)(B), 837(a), Aug. 13, 2018, 132 Stat. 1866, 1868, 1875; Pub. L. 116–92, div. A, title IX, § 902(57), Dec. 20, 2019, 133 Stat. 1549; renumbered § 3452 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1821(a)(2), (b)(2), 1870(c)(6)(A), Jan. 1, 2021, 134 Stat. 4195, 4285; Pub. L. 119–60, div. A, title XVIII, § 1821, Dec. 18, 2025, 139 Stat. 1245.)
+(Added Pub. L. 103–355, title VIII, § 8102, Oct. 13, 1994, 108 Stat. 3390, § 2375; amended Pub. L. 105–85, div. A, title X, § 1073(a)(51), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 107–107, div. A, title X, § 1048(a)(18), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 111–350, § 5(b)(21), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 114–328, div. A, title VIII, § 874(a), Dec. 23, 2016, 130 Stat. 2308; Pub. L. 115–232, div. A, title VIII, §§ 836(d)(1), (8)(B), 837(a), Aug. 13, 2018, 132 Stat. 1866, 1868, 1875; Pub. L. 116–92, div. A, title IX, § 902(57), Dec. 20, 2019, 133 Stat. 1549; renumbered § 3452 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1821(a)(2), (b)(2), 1870(c)(6)(A), Jan. 1, 2021, 134 Stat. 4195, 4285; Pub. L. 119–60, div. A, title XVIII, § 1821, Dec. 18, 2025, 139 Stat. 1245.)
 
 **Editorial Notes**
 
@@ -281,29 +281,29 @@ Section 805 of the National Defense Authorization Act for Fiscal Year 2024, refe
 
 **Prior Provisions**
 
-A prior section 3452, added Pub. L. 85–861, § 1(81)(E), Sept. 2, 1958, 72 Stat. 1480, provided that, notwithstanding any other provision of law, an officer of Medical Corps or Dental Corps may be promoted to temporary grade of captain at any time after first anniversary of date upon which he graduated from a medical, osteopathic, or dental school, prior to repeal by Pub. L. 96–513, title II, § 207, title VII, § 701, Dec. 12, 1980, 94 Stat. 2884, 2955, effective Sept. 15, 1981.
+A prior section 3452, added Pub. L. 85–861, § 1(81)(E), Sept. 2, 1958, 72 Stat. 1480, provided that, notwithstanding any other provision of law, an officer of Medical Corps or Dental Corps may be promoted to temporary grade of captain at any time after first anniversary of date upon which he graduated from a medical, osteopathic, or dental school, prior to repeal by Pub. L. 96–513, title II, § 207, title VII, § 701, Dec. 12, 1980, 94 Stat. 2884, 2955, effective Sept. 15, 1981.
 
 **Amendments**
 
 2025—Subsecs. (b) to (e). Pub. L. 119–60 added subsecs. (b) to (e) and struck out former subsecs. (b) to (e) which related to applicability of defense-unique statutes to contracts for commercial products and commercial services, applicability of defense-unique statutes to subcontracts for commercial products and commercial services, applicability of defense-unique statutes to contracts for commercially available, off-the-shelf items, and covered provision of law or contract clause requirement, respectively.
 
-2021—Pub. L. 116–283, § 1821(a)(2), renumbered section 2375 of this title as this section.
+2021—Pub. L. 116–283, § 1821(a)(2), renumbered section 2375 of this title as this section.
 
-Subsec. (e)(2). Pub. L. 116–283, §§ 1821(b)(2), 1870(c)(6)(A), made identical amendments, substituting “section 4862” for “section 2533a” and “section 4863” for “section 2533b”. Section 1870(c)(6)(A) amended former section 2375 while section 1821(b)(2) amended this section. See Amendment note above.
+Subsec. (e)(2). Pub. L. 116–283, §§ 1821(b)(2), 1870(c)(6)(A), made identical amendments, substituting “section 4862” for “section 2533a” and “section 4863” for “section 2533b”. Section 1870(c)(6)(A) amended former section 2375 while section 1821(b)(2) amended this section. See Amendment note above.
 
 2019—Subsecs. (b)(2), (c)(2), (d)(2), (e). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
-2018—Pub. L. 115–232, § 836(d)(8)(B), substituted “Relationship of other provisions of law to procurement of commercial products and commercial services” for “Relationship of commercial item provisions to other provisions of law” in section catchline.
+2018—Pub. L. 115–232, § 836(d)(8)(B), substituted “Relationship of other provisions of law to procurement of commercial products and commercial services” for “Relationship of commercial item provisions to other provisions of law” in section catchline.
 
-Subsec. (a)(1), (2). Pub. L. 115–232, § 836(d)(1)(A), substituted “commercial product or commercial service” for “commercial item”.
+Subsec. (a)(1), (2). Pub. L. 115–232, § 836(d)(1)(A), substituted “commercial product or commercial service” for “commercial item”.
 
-Subsec. (b). Pub. L. 115–232, § 836(d)(1)(B), in heading, substituted “Commercial Products and Commercial Services” for “Commercial Items” and, in text, substituted “commercial products and commercial services” for “commercial items” wherever appearing.
+Subsec. (b). Pub. L. 115–232, § 836(d)(1)(B), in heading, substituted “Commercial Products and Commercial Services” for “Commercial Items” and, in text, substituted “commercial products and commercial services” for “commercial items” wherever appearing.
 
-Subsec. (b)(2). Pub. L. 115–232, § 837(a), substituted “October 13, 1994” for “January 1, 2015”.
+Subsec. (b)(2). Pub. L. 115–232, § 837(a), substituted “October 13, 1994” for “January 1, 2015”.
 
-Subsec. (c). Pub. L. 115–232, § 836(d)(1)(B), in heading, substituted “Commercial Products and Commercial Services” for “Commercial Items” and, in text, substituted “commercial products and commercial services” for “commercial items” wherever appearing.
+Subsec. (c). Pub. L. 115–232, § 836(d)(1)(B), in heading, substituted “Commercial Products and Commercial Services” for “Commercial Items” and, in text, substituted “commercial products and commercial services” for “commercial items” wherever appearing.
 
-Subsec. (e)(3). Pub. L. 115–232, § 836(d)(1)(C), substituted “commercial products and commercial services” for “commercial items”.
+Subsec. (e)(3). Pub. L. 115–232, § 836(d)(1)(C), substituted “commercial products and commercial services” for “commercial items”.
 
 2016—Pub. L. 114–328 amended section generally. Prior to amendment, text read as follows:
 
@@ -335,7 +335,7 @@ For effective date and applicability of chapter, see section 10001 of Pub. L. 10
 
 **Changes to Defense Federal Acquisition Regulation Supplement**
 
-Pub. L. 114–328, div. A, title VIII, § 874(b), Dec. 23, 2016, 130 Stat. 2310, as amended by Pub. L. 116–92, div. A, title IX, § 902(58), Dec. 20, 2019, 133 Stat. 1549, provided that:
+Pub. L. 114–328, div. A, title VIII, § 874(b), Dec. 23, 2016, 130 Stat. 2310, as amended by Pub. L. 116–92, div. A, title IX, § 902(58), Dec. 20, 2019, 133 Stat. 1549, provided that:
 
 > **“(1) In general.—** To the maximum extent practicable, the Under Secretary of Defense for Acquisition and Sustainment shall ensure that—
 
@@ -349,9 +349,9 @@ Pub. L. 114–328, div. A, title VIII, § 874(b), Dec. 23, 2016, 130 Stat. 231
 
 > **“(2) Subcontracts.—** In this subsection, the term ‘subcontract’ includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or subcontractor. The term does not include agreements entered into by a contractor for the supply of commodities that are intended for use in the performance of multiple contracts with the Department of Defense and other parties and are not identifiable to any particular contract.”
 
-**Provisions Not Affected by Title VIII of Pub. L. 103–355**
+**Provisions Not Affected by Title VIII of Pub. L. 103–355**
 
-Pub. L. 103–355, title VIII, § 8304, Oct. 13, 1994, 108 Stat. 3398, as amended by Pub. L. 115–232, div. A, title VIII, § 812(a)(2)(C)(iii), Aug. 13, 2018, 132 Stat. 1847, provided that:
+Pub. L. 103–355, title VIII, § 8304, Oct. 13, 1994, 108 Stat. 3398, as amended by Pub. L. 115–232, div. A, title VIII, § 812(a)(2)(C)(iii), Aug. 13, 2018, 132 Stat. 1847, provided that:
 
 > “Nothing in this title [see Tables for classification] shall be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under—
 
@@ -365,7 +365,7 @@ Pub. L. 103–355, title VIII, § 8304, Oct. 13, 1994, 108 Stat. 3398, as amen
 
 > **“(5)** the Javits-Wagner-O’Day Act ([former] 41 U.S.C. 46–48c) [now 41 U.S.C. 8501 et seq.].”
 
-## § 3453. Preference for commercial products and commercial services
+## § 3453. Preference for commercial products and commercial services
 
 **(a) Preference.—** The head of an agency shall ensure that, to the maximum extent practicable—
 
@@ -441,71 +441,71 @@ Pub. L. 103–355, title VIII, § 8304, Oct. 13, 1994, 108 Stat. 3398, as amen
 
 **(3)** provide methodologies for establishing standard processes and reports for collecting and sharing market research across the Department.
 
-(Added Pub. L. 103–355, title VIII, § 8104(a), Oct. 13, 1994, 108 Stat. 3390, § 2377; amended Pub. L. 110–181, div. A, title VIII, § 826(a), Jan. 28, 2008, 122 Stat. 227; Pub. L. 114–92, div. A, title VIII, § 844(a), Nov. 25, 2015, 129 Stat. 915; Pub. L. 114–328, div. A, title VIII, § 871, Dec. 23, 2016, 130 Stat. 2307; Pub. L. 115–232, div. A, title VIII, § 836(d)(3), (8)(C), Aug. 13, 2018, 132 Stat. 1866, 1868; Pub. L. 116–92, div. A, title VIII, § 818(a), Dec. 20, 2019, 133 Stat. 1488; renumbered § 3453 and amended Pub. L. 116–283, div. A, title XVIII, § 1821(a)(2), (b)(3), Jan. 1, 2021, 134 Stat. 4195; Pub. L. 118–159, div. A, title VIII, § 834, Dec. 23, 2024, 138 Stat. 1986; Pub. L. 119–60, div. A, title VIII, § 811(d)(1), title XVIII, § 1822(a), Dec. 18, 2025, 139 Stat. 950, 1246.)
+(Added Pub. L. 103–355, title VIII, § 8104(a), Oct. 13, 1994, 108 Stat. 3390, § 2377; amended Pub. L. 110–181, div. A, title VIII, § 826(a), Jan. 28, 2008, 122 Stat. 227; Pub. L. 114–92, div. A, title VIII, § 844(a), Nov. 25, 2015, 129 Stat. 915; Pub. L. 114–328, div. A, title VIII, § 871, Dec. 23, 2016, 130 Stat. 2307; Pub. L. 115–232, div. A, title VIII, § 836(d)(3), (8)(C), Aug. 13, 2018, 132 Stat. 1866, 1868; Pub. L. 116–92, div. A, title VIII, § 818(a), Dec. 20, 2019, 133 Stat. 1488; renumbered § 3453 and amended Pub. L. 116–283, div. A, title XVIII, § 1821(a)(2), (b)(3), Jan. 1, 2021, 134 Stat. 4195; Pub. L. 118–159, div. A, title VIII, § 834, Dec. 23, 2024, 138 Stat. 1986; Pub. L. 119–60, div. A, title VIII, § 811(d)(1), title XVIII, § 1822(a), Dec. 18, 2025, 139 Stat. 950, 1246.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (b). Pub. L. 119–60, § 1822(a)(1)(A), in introductory provisions, substituted “acquisition officials in such agency and prime contractors and subcontractors (at any tier) performing contracts with such agency (including those performing consulting, research, and advisory services to acquisition officials of such agency)” for “procurement officials in that agency,”.
+2025—Subsec. (b). Pub. L. 119–60, § 1822(a)(1)(A), in introductory provisions, substituted “acquisition officials in such agency and prime contractors and subcontractors (at any tier) performing contracts with such agency (including those performing consulting, research, and advisory services to acquisition officials of such agency)” for “procurement officials in that agency,”.
 
-Subsec. (b)(2). Pub. L. 119–60, § 1822(a)(1)(B), substituted “such prime contractors and subcontractors” for “prime contractors and subcontractors at all levels under the agency contracts”.
+Subsec. (b)(2). Pub. L. 119–60, § 1822(a)(1)(B), substituted “such prime contractors and subcontractors” for “prime contractors and subcontractors at all levels under the agency contracts”.
 
-Subsec. (d). Pub. L. 119–60, § 1822(a)(3), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 119–60, § 1822(a)(3), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Pub. L. 119–60, § 811(d)(1), substituted “the procurement official for the solicitation may require the offeror to submit relevant information.” for “the procurement official for the solicitation—
+Pub. L. 119–60, § 811(d)(1), substituted “the procurement official for the solicitation may require the offeror to submit relevant information.” for “the procurement official for the solicitation—
 
 “(1) in the case of products or services acquired under section 3455 of this title, shall use information submitted under subsection (d) of that section; and
 
 “(2) in the case of other products or services, may require the offeror to submit relevant information.”
 
-Subsec. (e). Pub. L. 119–60, § 1822(a)(4), which directed substitution of “for the solicitation” for “for the solicitation” through “in the case of other products or services,”, could not be executed in view of the prior amendment by Pub. L. 119–60, § 811(d)(1). See note above.
+Subsec. (e). Pub. L. 119–60, § 1822(a)(4), which directed substitution of “for the solicitation” for “for the solicitation” through “in the case of other products or services,”, could not be executed in view of the prior amendment by Pub. L. 119–60, § 811(d)(1). See note above.
 
-Pub. L. 119–60, § 1822(a)(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Pub. L. 119–60, § 1822(a)(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 119–60, § 1822(a)(2), redesignated subsec. (e) as (f).
+Subsec. (f). Pub. L. 119–60, § 1822(a)(2), redesignated subsec. (e) as (f).
 
 2024—Subsec. (b)(7). Pub. L. 118–159 added par. (7).
 
-2021—Pub. L. 116–283, § 1821(a)(2), renumbered section 2377 of this title as this section.
+2021—Pub. L. 116–283, § 1821(a)(2), renumbered section 2377 of this title as this section.
 
-Subsec. (d)(1). Pub. L. 116–283, § 1821(b)(3), substituted “section 3455” for “section 2379”.
+Subsec. (d)(1). Pub. L. 116–283, § 1821(b)(3), substituted “section 3455” for “section 2379”.
 
-2019—Subsec. (c)(4). Pub. L. 116–92, § 818(a)(1)(B), added par. (4). Former par. (4) redesignated (5).
+2019—Subsec. (c)(4). Pub. L. 116–92, § 818(a)(1)(B), added par. (4). Former par. (4) redesignated (5).
 
-Subsec. (c)(5). Pub. L. 116–92, § 818(a)(2), amended directory language of Pub. L. 115–232, § 836(d)(3)(C)(ii). See 2018 Amendment note below.
+Subsec. (c)(5). Pub. L. 116–92, § 818(a)(2), amended directory language of Pub. L. 115–232, § 836(d)(3)(C)(ii). See 2018 Amendment note below.
 
-Pub. L. 116–92, § 818(a)(1), redesignated par. (4) as (5).
+Pub. L. 116–92, § 818(a)(1), redesignated par. (4) as (5).
 
-2018—Pub. L. 115–232, § 836(d)(8)(C), substituted “commercial products and commercial services” for “acquisition of commercial items” in section catchline.
+2018—Pub. L. 115–232, § 836(d)(8)(C), substituted “commercial products and commercial services” for “acquisition of commercial items” in section catchline.
 
-Subsec. (a)(2). Pub. L. 115–232, § 836(d)(3)(A)(i), substituted “commercial services or commercial products or, to the extent that commercial products suitable to meet the agency’s needs are not available, nondevelopmental items other than commercial products” for “commercial items or, to the extent that commercial items suitable to meet the agency’s needs are not available, nondevelopmental items other than commercial items”.
+Subsec. (a)(2). Pub. L. 115–232, § 836(d)(3)(A)(i), substituted “commercial services or commercial products or, to the extent that commercial products suitable to meet the agency’s needs are not available, nondevelopmental items other than commercial products” for “commercial items or, to the extent that commercial items suitable to meet the agency’s needs are not available, nondevelopmental items other than commercial items”.
 
-Subsec. (a)(3). Pub. L. 115–232, § 836(d)(3)(A)(ii), substituted “commercial services, commercial products, and nondevelopmental items other than commercial products” for “commercial items and nondevelopmental items other than commercial items”.
+Subsec. (a)(3). Pub. L. 115–232, § 836(d)(3)(A)(ii), substituted “commercial services, commercial products, and nondevelopmental items other than commercial products” for “commercial items and nondevelopmental items other than commercial items”.
 
-Subsec. (b)(1), (2). Pub. L. 115–232, § 836(d)(3)(B)(i), substituted “commercial services, commercial products, or nondevelopmental items other than commercial products” for “commercial items or nondevelopmental items other than commercial items”.
+Subsec. (b)(1), (2). Pub. L. 115–232, § 836(d)(3)(B)(i), substituted “commercial services, commercial products, or nondevelopmental items other than commercial products” for “commercial items or nondevelopmental items other than commercial items”.
 
-Subsec. (b)(3), (4). Pub. L. 115–232, § 836(d)(3)(B)(ii), substituted “commercial services or commercial products or, to the extent that commercial products suitable to meet the agency’s needs are not available, nondevelopmental items other than commercial products” for “commercial items or, to the extent that commercial items suitable to meet the agency’s needs are not available, nondevelopmental items other than commercial items”.
+Subsec. (b)(3), (4). Pub. L. 115–232, § 836(d)(3)(B)(ii), substituted “commercial services or commercial products or, to the extent that commercial products suitable to meet the agency’s needs are not available, nondevelopmental items other than commercial products” for “commercial items or, to the extent that commercial items suitable to meet the agency’s needs are not available, nondevelopmental items other than commercial items”.
 
-Subsec. (b)(5), (6). Pub. L. 115–232, § 836(d)(3)(B)(iii), substituted “commercial products and commercial services” for “commercial items”.
+Subsec. (b)(5), (6). Pub. L. 115–232, § 836(d)(3)(B)(iii), substituted “commercial products and commercial services” for “commercial items”.
 
-Subsec. (c)(2). Pub. L. 115–232, § 836(d)(3)(C)(i), in introductory provisions, substituted “commercial services or commercial products or, to the extent that commercial products suitable to meet the agency’s needs are not available, nondevelopmental items other than commercial products” for “commercial items or, to the extent that commercial items suitable to meet the agency’s needs are not available, nondevelopmental items other than commercial items”.
+Subsec. (c)(2). Pub. L. 115–232, § 836(d)(3)(C)(i), in introductory provisions, substituted “commercial services or commercial products or, to the extent that commercial products suitable to meet the agency’s needs are not available, nondevelopmental items other than commercial products” for “commercial items or, to the extent that commercial items suitable to meet the agency’s needs are not available, nondevelopmental items other than commercial items”.
 
-Subsec. (c)(5). Pub. L. 115–232, § 836(d)(3)(C)(ii), as amended by Pub. L. 116–92, § 818(a)(2), substituted “products other than commercial products or services other than commercial services” for “items other than commercial items”.
+Subsec. (c)(5). Pub. L. 115–232, § 836(d)(3)(C)(ii), as amended by Pub. L. 116–92, § 818(a)(2), substituted “products other than commercial products or services other than commercial services” for “items other than commercial items”.
 
-Subsec. (d). Pub. L. 115–232, § 836(d)(3)(D)(i), substituted “commercial products or commercial services” for “commercial items” in introductory provisions.
+Subsec. (d). Pub. L. 115–232, § 836(d)(3)(D)(i), substituted “commercial products or commercial services” for “commercial items” in introductory provisions.
 
-Subsec. (d)(1), (2). Pub. L. 115–232, § 836(d)(3)(D)(ii), (iii), substituted “products or services” for “items”.
+Subsec. (d)(1), (2). Pub. L. 115–232, § 836(d)(3)(D)(ii), (iii), substituted “products or services” for “items”.
 
-Subsec. (e)(1). Pub. L. 115–232, § 836(d)(3)(E), substituted “commercial products and commercial services” for “commercial items”.
+Subsec. (e)(1). Pub. L. 115–232, § 836(d)(3)(E), substituted “commercial products and commercial services” for “commercial items”.
 
 2016—Subsecs. (d), (e). Pub. L. 114–328 added subsec. (d), redesignated former subsec. (d) as (e), and in introductory provisions of subsec. (e), substituted “subsections (c) and (d)” for “subsection (c)”.
 
 2015—Subsec. (d). Pub. L. 114–92 added subsec. (d).
 
-2008—Subsec. (c)(1)(C). Pub. L. 110–181, § 826(a)(1), added subpar. (C).
+2008—Subsec. (c)(1)(C). Pub. L. 110–181, § 826(a)(1), added subpar. (C).
 
-Subsec. (c)(4). Pub. L. 110–181, § 826(a)(2), added par. (4).
+Subsec. (c)(4). Pub. L. 110–181, § 826(a)(2), added par. (4).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -519,7 +519,7 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 **Bridging Operational Objectives and Support for Transition Program**
 
-Pub. L. 119–60, div. A, title XVIII, § 1833, Dec. 18, 2025, 139 Stat. 1253, provided that:
+Pub. L. 119–60, div. A, title XVIII, § 1833, Dec. 18, 2025, 139 Stat. 1253, provided that:
 
 > **“(a) Establishment.—** The Director of the Defense Innovation Unit shall establish a program to be known as the ‘Bridging Operational Objectives and Support for Transition program’ (in this section referred to as the ‘BOOST program’) to accelerate the adoption or integration of commercial technologies into programs of record or fielded capabilities of the Department of Defense.
 
@@ -565,7 +565,7 @@ Pub. L. 119–60, div. A, title XVIII, § 1833, Dec. 18, 2025, 139 Stat. 1253,
 
 **Increase in Air Force and Navy Use of Commercial Dual-Use Parts in Certain Aircraft and Engines**
 
-Pub. L. 117–263, div. A, title I, § 161, Dec. 23, 2022, 136 Stat. 2461, as amended by Pub. L. 118–159, div. A, title I, § 161, Dec. 23, 2024, 138 Stat. 1815, provided that:
+Pub. L. 117–263, div. A, title I, § 161, Dec. 23, 2022, 136 Stat. 2461, as amended by Pub. L. 118–159, div. A, title I, § 161, Dec. 23, 2024, 138 Stat. 1815, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of the Air Force, with respect to the Air Force, and the Secretary of the Navy, with respect to the Navy, shall develop and implement processes and procedures for—
 
@@ -603,7 +603,7 @@ Pub. L. 117–263, div. A, title I, § 161, Dec. 23, 2022, 136 Stat. 2461, as 
 
 **Use of Commercial Items in Distributed Common Ground Systems**
 
-Pub. L. 115–91, div. A, title XVI, § 1698, Dec. 12, 2017, 131 Stat. 1794, provided that:
+Pub. L. 115–91, div. A, title XVI, § 1698, Dec. 12, 2017, 131 Stat. 1794, provided that:
 
 > **“(a) In General.—** The procurement process for each covered Distributed Common Ground System shall be carried out in accordance with section 2377 of title 10, United States Code [now 10 U.S.C. 3453].
 
@@ -631,7 +631,7 @@ Pub. L. 115–91, div. A, title XVI, § 1698, Dec. 12, 2017, 131 Stat. 1794, p
 
 **Commercial Operational and Support Savings Initiative**
 
-Pub. L. 114–328, div. A, title VIII, § 849(d), Dec. 23, 2016, 130 Stat. 2294, as amended by Pub. L. 115–232, div. A, title VIII, § 836(f)(7), Aug. 13, 2018, 132 Stat. 1871, provided that:
+Pub. L. 114–328, div. A, title VIII, § 849(d), Dec. 23, 2016, 130 Stat. 2294, as amended by Pub. L. 115–232, div. A, title VIII, § 836(f)(7), Aug. 13, 2018, 132 Stat. 1871, provided that:
 
 > **“(1) In general.—** The Secretary of Defense may establish a commercial operational and support savings initiative to improve readiness and reduce operations and support costs by inserting existing commercial products or technology into military legacy systems through the rapid development of prototypes and fielding of production items based on current commercial technology.
 
@@ -681,7 +681,7 @@ Pub. L. 114–328, div. A, title VIII, § 849(d), Dec. 23, 2016, 130 Stat. 229
 
 **Preference for Commercial Services**
 
-Pub. L. 114–328, div. A, title VIII, § 876, Dec. 23, 2016, 130 Stat. 2311, as amended by Pub. L. 116–92, div. A, title IX, § 902(59), Dec. 20, 2019, 133 Stat. 1550, provided that:
+Pub. L. 114–328, div. A, title VIII, § 876, Dec. 23, 2016, 130 Stat. 2311, as amended by Pub. L. 116–92, div. A, title IX, § 902(59), Dec. 20, 2019, 133 Stat. 1550, provided that:
 
 > “Not later than 90 days after the date of the enactment of this Act [Dec. 23, 2016], the Secretary of Defense shall revise the guidance issued pursuant to section 855 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2377 note) to provide that—
 
@@ -691,11 +691,11 @@ Pub. L. 114–328, div. A, title VIII, § 876, Dec. 23, 2016, 130 Stat. 2311, 
 
 **Incorporation Into Management Certification Training Mandate**
 
-Pub. L. 114–92, div. A, title VIII, § 844(b), Nov. 25, 2015, 129 Stat. 915, which required the Chairman of the Joint Chiefs of Staff to ensure that the requirements of former 10 U.S.C. 3453(e) (now 10 U.S.C. 3453(f)) were incorporated into the requirements management certification training mandate of the Joint Capabilities Integration Development System, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(8)(C), Dec. 18, 2025, 139 Stat. 948.
+Pub. L. 114–92, div. A, title VIII, § 844(b), Nov. 25, 2015, 129 Stat. 915, which required the Chairman of the Joint Chiefs of Staff to ensure that the requirements of former 10 U.S.C. 3453(e) (now 10 U.S.C. 3453(f)) were incorporated into the requirements management certification training mandate of the Joint Capabilities Integration Development System, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(8)(C), Dec. 18, 2025, 139 Stat. 948.
 
 **Market Research and Preference for Commercial Items**
 
-Pub. L. 114–92, div. A, title VIII, § 855, Nov. 25, 2015, 129 Stat. 919, as amended by Pub. L. 116–92, div. A, title IX, § 902(60), Dec. 20, 2019, 133 Stat. 1550, provided that:
+Pub. L. 114–92, div. A, title VIII, § 855, Nov. 25, 2015, 129 Stat. 919, as amended by Pub. L. 116–92, div. A, title IX, § 902(60), Dec. 20, 2019, 133 Stat. 1550, provided that:
 
 > **“(a) Guidance Required.—** Not later than 90 days after the date of the enactment of this Act [Nov. 25, 2015], the Under Secretary of Defense for Acquisition and Sustainment shall issue guidance to ensure that acquisition officials of the Department of Defense fully comply with the requirements of section 2377 of title 10, United States Code [now 10 U.S.C. 3453], regarding market research and commercial items. The guidance issued pursuant to this subsection shall, at a minimum—
 
@@ -709,7 +709,7 @@ Pub. L. 114–92, div. A, title VIII, § 855, Nov. 25, 2015, 129 Stat. 919, as
 
 **Commercial Software Reuse Preference**
 
-Pub. L. 110–417, [div. A], title VIII, § 803, Oct. 14, 2008, 122 Stat. 4519, provided that:
+Pub. L. 110–417, [div. A], title VIII, § 803, Oct. 14, 2008, 122 Stat. 4519, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall ensure that contracting officials identify and evaluate, at all stages of the acquisition process (including concept refinement, concept decision, and technology development), opportunities for the use of commercial computer software and other non-developmental software.
 
@@ -717,13 +717,13 @@ Pub. L. 110–417, [div. A], title VIII, § 803, Oct. 14, 2008, 122 Stat. 4519
 
 **Requirement To Develop Training and Tools**
 
-Pub. L. 110–181, div. A, title VIII, § 826(b), Jan. 28, 2008, 122 Stat. 228, provided that: “The Secretary of Defense shall develop training to assist contracting officers, and market research tools to assist such officers and prime contractors, in performing appropriate market research as required by subsection (c) of section 2377 of title 10, United States Code [now 10 U.S.C. 3453(c)], as amended by this section.”
+Pub. L. 110–181, div. A, title VIII, § 826(b), Jan. 28, 2008, 122 Stat. 228, provided that: “The Secretary of Defense shall develop training to assist contracting officers, and market research tools to assist such officers and prime contractors, in performing appropriate market research as required by subsection (c) of section 2377 of title 10, United States Code [now 10 U.S.C. 3453(c)], as amended by this section.”
 
-## [§ 3455. Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(5), Dec. 18, 2025, 139 Stat. 948]
+## [§ 3455. Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(5), Dec. 18, 2025, 139 Stat. 948]
 
-Section, added Pub. L. 109–163, div. A, title VIII, § 803(a)(1), Jan. 6, 2006, 119 Stat. 3370, § 2379; amended Pub. L. 110–181, div. A, title VIII, § 815(a)(1), Jan. 28, 2008, 122 Stat. 222; Pub. L. 113–291, div. A, title X, § 1071(a)(7), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–92, div. A, title VIII, § 852(a)–(d), Nov. 25, 2015, 129 Stat. 917, 918; Pub. L. 114–328, div. A, title VIII, § 872, Dec. 23, 2016, 130 Stat. 2307; Pub. L. 115–232, div. A, title VIII, § 836(d)(4), (8)(D), Aug. 13, 2018, 132 Stat. 1868, 1869; renumbered § 3455 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1821(a)(2), (b)(4), 1831(j)(4), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4195, 4217, 4294; Pub. L. 117–81, div. A, title XVII, § 1701(b)(10)(i)(ii), Dec. 27, 2021, 135 Stat. 2134; Pub. L. 117–263, div. A, title VIII, § 803, Dec. 23, 2022, 136 Stat. 2693, related to requirement for prior determination by Secretary of Defense and notification to Congress for the procurement of a major weapon system as a commercial product.
+Section, added Pub. L. 109–163, div. A, title VIII, § 803(a)(1), Jan. 6, 2006, 119 Stat. 3370, § 2379; amended Pub. L. 110–181, div. A, title VIII, § 815(a)(1), Jan. 28, 2008, 122 Stat. 222; Pub. L. 113–291, div. A, title X, § 1071(a)(7), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–92, div. A, title VIII, § 852(a)–(d), Nov. 25, 2015, 129 Stat. 917, 918; Pub. L. 114–328, div. A, title VIII, § 872, Dec. 23, 2016, 130 Stat. 2307; Pub. L. 115–232, div. A, title VIII, § 836(d)(4), (8)(D), Aug. 13, 2018, 132 Stat. 1868, 1869; renumbered § 3455 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1821(a)(2), (b)(4), 1831(j)(4), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4195, 4217, 4294; Pub. L. 117–81, div. A, title XVII, § 1701(b)(10)(i)(ii), Dec. 27, 2021, 135 Stat. 2134; Pub. L. 117–263, div. A, title VIII, § 803, Dec. 23, 2022, 136 Stat. 2693, related to requirement for prior determination by Secretary of Defense and notification to Congress for the procurement of a major weapon system as a commercial product.
 
-## § 3456. Commercial product and commercial service determinations by Department of Defense
+## § 3456. Commercial product and commercial service determinations by Department of Defense
 
 **(a) In General.—** The Secretary of Defense shall—
 
@@ -759,39 +759,39 @@ Section, added Pub. L. 109–163, div. A, title VIII, § 803(a)(1), Jan. 6, 20
 
 **(ii)** a written determination by the senior procurement executive of the military department or the Department of Defense as designated for purposes of section 1702(c) of title 41 that it is no longer appropriate to acquire the product or service using such procedures.
 
-(Added Pub. L. 114–92, div. A, title VIII, § 851(a)(1), Nov. 25, 2015, 129 Stat. 916, § 2380; amended Pub. L. 114–328, div. A, title VIII, § 873, Dec. 23, 2016, 130 Stat. 2307; Pub. L. 115–91, div. A, title VIII, § 848, Dec. 12, 2017, 131 Stat. 1487; Pub. L. 115–232, div. A, title VIII, § 836(d)(5), (8)(E), Aug. 13, 2018, 132 Stat. 1868, 1869; renumbered § 3456 and amended Pub. L. 116–283, div. A, title VIII, § 816, title XVIII, §§ 1821(a)(2), (b)(5), 1831(j)(5), Jan. 1, 2021, 134 Stat. 3750, 4195, 4217; Pub. L. 117–81, div. A, title XVII, § 1701(b)(9), (10)(I)(ii), Dec. 27, 2021, 135 Stat. 2133, 2134; Pub. L. 118–31, div. A, title VIII, § 801, Dec. 22, 2023, 137 Stat. 312; Pub. L. 118–159, div. A, title VIII, § 814, Dec. 23, 2024, 138 Stat. 1980; Pub. L. 119–60, div. A, title XVIII, § 1822(b), Dec. 18, 2025, 139 Stat. 1247.)
+(Added Pub. L. 114–92, div. A, title VIII, § 851(a)(1), Nov. 25, 2015, 129 Stat. 916, § 2380; amended Pub. L. 114–328, div. A, title VIII, § 873, Dec. 23, 2016, 130 Stat. 2307; Pub. L. 115–91, div. A, title VIII, § 848, Dec. 12, 2017, 131 Stat. 1487; Pub. L. 115–232, div. A, title VIII, § 836(d)(5), (8)(E), Aug. 13, 2018, 132 Stat. 1868, 1869; renumbered § 3456 and amended Pub. L. 116–283, div. A, title VIII, § 816, title XVIII, §§ 1821(a)(2), (b)(5), 1831(j)(5), Jan. 1, 2021, 134 Stat. 3750, 4195, 4217; Pub. L. 117–81, div. A, title XVII, § 1701(b)(9), (10)(I)(ii), Dec. 27, 2021, 135 Stat. 2133, 2134; Pub. L. 118–31, div. A, title VIII, § 801, Dec. 22, 2023, 137 Stat. 312; Pub. L. 118–159, div. A, title VIII, § 814, Dec. 23, 2024, 138 Stat. 1980; Pub. L. 119–60, div. A, title XVIII, § 1822(b), Dec. 18, 2025, 139 Stat. 1247.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a)(2). Pub. L. 119–60, § 1822(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “provide to officials of the Department of Defense access to previous Department of Defense commercial product and commercial service determinations, market research, and analysis used to determine the reasonableness of price for the purposes of procurements by the Department of Defense.”
+2025—Subsec. (a)(2). Pub. L. 119–60, § 1822(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “provide to officials of the Department of Defense access to previous Department of Defense commercial product and commercial service determinations, market research, and analysis used to determine the reasonableness of price for the purposes of procurements by the Department of Defense.”
 
-Subsec. (b)(2). Pub. L. 119–60, § 1822(b)(2), inserted “The contracting officer shall consider the results in the memorandum of the program manager required under section 3453(d)(1)(B) of this title when developing the memorandum required under this paragraph.” after “commercial or noncommercial.”
+Subsec. (b)(2). Pub. L. 119–60, § 1822(b)(2), inserted “The contracting officer shall consider the results in the memorandum of the program manager required under section 3453(d)(1)(B) of this title when developing the memorandum required under this paragraph.” after “commercial or noncommercial.”
 
 2024—Subsec. (c)(1). Pub. L. 118–159 added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “A contract for a product or service acquired using commercial acquisition procedures under part 12 of the Federal Acquisition Regulation shall serve as a prior commercial product or service determination with respect to such product or service for purposes of this chapter unless the senior procurement executive of the military department or the Department of Defense as designated for purposes of section 1702(c) of title 41 determines in writing that it is no longer appropriate to acquire the product or service using commercial acquisition procedures.”
 
 2023—Subsec. (b)(2). Pub. L. 118–31 substituted “why the product or service was determined to be commercial or noncommercial” for “for such determination” and inserted at end “Upon the request of the contractor or subcontractor offering the product or service for which such determination is summarized in such memorandum, the contracting officer shall provide to such contractor or subcontractor a copy of such memorandum.”
 
-2021—Pub. L. 116–283, § 1821(a)(2), renumbered section 2380 of this title as this section.
+2021—Pub. L. 116–283, § 1821(a)(2), renumbered section 2380 of this title as this section.
 
-Subsec. (b). Pub. L. 116–283, § 816(2), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 116–283, § 816(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (b)(2)(B)(i). Pub. L. 116–283, § 1831(j)(5), which directed amendment of subsec. (b)(2)(B)(i) of section 2380 of this title (now subsec. (c)(2)(B)(i) of this section) by substituting “section 3703(d)(2)” for “section 2306a(b)(4)(B)”, was repealed by Pub. L. 117–81, § 1701(b)(10)(I)(ii). Identical amendment was made to subsec. (c)(2)(B)(i) of this section by Pub. L. 116–283, § 1821(b)(5), see below.
+Subsec. (b)(2)(B)(i). Pub. L. 116–283, § 1831(j)(5), which directed amendment of subsec. (b)(2)(B)(i) of section 2380 of this title (now subsec. (c)(2)(B)(i) of this section) by substituting “section 3703(d)(2)” for “section 2306a(b)(4)(B)”, was repealed by Pub. L. 117–81, § 1701(b)(10)(I)(ii). Identical amendment was made to subsec. (c)(2)(B)(i) of this section by Pub. L. 116–283, § 1821(b)(5), see below.
 
-Subsec. (c). Pub. L. 116–283, § 816(1), redesignated subsec. (b) as (c).
+Subsec. (c). Pub. L. 116–283, § 816(1), redesignated subsec. (b) as (c).
 
-Subsec. (c)(2)(B)(i). Pub. L. 116–283, § 1821(b)(5), as amended by Pub. L. 117–81, § 1701(b)(9), substituted “section 3703(d)(2)” for “section 2306a(b)(4)(B)”.
+Subsec. (c)(2)(B)(i). Pub. L. 116–283, § 1821(b)(5), as amended by Pub. L. 117–81, § 1701(b)(9), substituted “section 3703(d)(2)” for “section 2306a(b)(4)(B)”.
 
-2018—Pub. L. 115–232, § 836(d)(8)(E), substituted “Commercial product and commercial service” for “Commercial item” in section catchline.
+2018—Pub. L. 115–232, § 836(d)(8)(E), substituted “Commercial product and commercial service” for “Commercial item” in section catchline.
 
-Subsec. (a). Pub. L. 115–232, § 836(d)(5)(A), substituted “commercial product and commercial service determinations” for “commercial item determinations” in pars. (1) and (2).
+Subsec. (a). Pub. L. 115–232, § 836(d)(5)(A), substituted “commercial product and commercial service determinations” for “commercial item determinations” in pars. (1) and (2).
 
-Subsec. (b). Pub. L. 115–232, § 836(d)(5)(B)(i)–(iii), in heading, struck out “Item” after “Commercial” and, in text, substituted “a product or service” for “an item” and struck out “item” after “using commercial” wherever appearing.
+Subsec. (b). Pub. L. 115–232, § 836(d)(5)(B)(i)–(iii), in heading, struck out “Item” after “Commercial” and, in text, substituted “a product or service” for “an item” and struck out “item” after “using commercial” wherever appearing.
 
-Subsec. (b)(1). Pub. L. 115–232, § 836(d)(5)(B)(iv)–(vi) substituted “prior commercial product or service determination” for “prior commercial item determination”, “such product or service” for “such item”, and “the product or service” for “the item”.
+Subsec. (b)(1). Pub. L. 115–232, § 836(d)(5)(B)(iv)–(vi) substituted “prior commercial product or service determination” for “prior commercial item determination”, “such product or service” for “such item”, and “the product or service” for “the item”.
 
-Subsec. (b)(2)(B)(ii). Pub. L. 115–232, § 836(d)(5)(B)(vi), substituted “the product or service” for “the item”.
+Subsec. (b)(2)(B)(ii). Pub. L. 115–232, § 836(d)(5)(B)(vi), substituted “the product or service” for “the item”.
 
 2017—Pub. L. 115–91 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
@@ -815,17 +815,17 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 **Regulations**
 
-Pub. L. 114–92, div. A, title VIII, § 851(d), Nov. 25, 2015, 129 Stat. 917, provided that: “Not later than 180 days after the date of the enactment of this Act [Nov. 25, 2015], the Defense Federal Acquisition Regulation Supplement shall be updated to reflect the requirements of this section [enacting this section, amending section 2306a of this title, and enacting provisions set out as notes under section 2306a of this title] and the amendments made by this section.”
+Pub. L. 114–92, div. A, title VIII, § 851(d), Nov. 25, 2015, 129 Stat. 917, provided that: “Not later than 180 days after the date of the enactment of this Act [Nov. 25, 2015], the Defense Federal Acquisition Regulation Supplement shall be updated to reflect the requirements of this section [enacting this section, amending section 2306a of this title, and enacting provisions set out as notes under section 2306a of this title] and the amendments made by this section.”
 
 **Construction**
 
-Pub. L. 114–92, div. A, title VIII, § 851(e), Nov. 25, 2015, 129 Stat. 917, provided that: “Nothing in this section [enacting this section, amending section 2306a of this title, and enacting provisions set out as notes under section 2306a of this title] or the amendments made by this section shall be construed to preclude the contracting officer for the procurement of a commercial item from requiring the contractor to supply information that is sufficient to determine the reasonableness of price, regardless of whether or not the contractor was required to provide such information in connection with any earlier procurement.”
+Pub. L. 114–92, div. A, title VIII, § 851(e), Nov. 25, 2015, 129 Stat. 917, provided that: “Nothing in this section [enacting this section, amending section 2306a of this title, and enacting provisions set out as notes under section 2306a of this title] or the amendments made by this section shall be construed to preclude the contracting officer for the procurement of a commercial item from requiring the contractor to supply information that is sufficient to determine the reasonableness of price, regardless of whether or not the contractor was required to provide such information in connection with any earlier procurement.”
 
 **Definition of Commercial Item**
 
-Pub. L. 114–92, div. A, title VIII, § 851(c), Nov. 25, 2015, 129 Stat. 917, provided that: “Nothing in this section [enacting section 2380 of this title, amending section 2306a of this title, and enacting provisions set out as notes under section 2306a of this title] or the amendments made by this section shall affect the meaning of the term ‘commercial item’ under subsection (a)(5) of section 2464 of title 10, United States Code, or any requirement under subsection (a)(3) or subsection (c) of such section.” [Pub. L. 115–232 amended subsecs. (a)(3), (5) and (c) of section 2464 of title 10 by substituting references to “commercial products or commercial services” for references to “commercial items”. See 2018 Amendment notes set out under that section.]
+Pub. L. 114–92, div. A, title VIII, § 851(c), Nov. 25, 2015, 129 Stat. 917, provided that: “Nothing in this section [enacting section 2380 of this title, amending section 2306a of this title, and enacting provisions set out as notes under section 2306a of this title] or the amendments made by this section shall affect the meaning of the term ‘commercial item’ under subsection (a)(5) of section 2464 of title 10, United States Code, or any requirement under subsection (a)(3) or subsection (c) of such section.” [Pub. L. 115–232 amended subsecs. (a)(3), (5) and (c) of section 2464 of title 10 by substituting references to “commercial products or commercial services” for references to “commercial items”. See 2018 Amendment notes set out under that section.]
 
-## § 3457. Treatment of certain products and services as commercial products and commercial services
+## § 3457. Treatment of certain products and services as commercial products and commercial services
 
 **(a) Goods and Services Provided by Nontraditional Defense Contractors.—** Notwithstanding section 3451(1) of this title, products and services provided by nontraditional defense contractors (as that term is defined in section 3014 of this title) may be treated by the head of an agency as commercial products and commercial services, respectively, for purposes of this chapter.
 
@@ -833,27 +833,27 @@ Pub. L. 114–92, div. A, title VIII, § 851(c), Nov. 25, 2015, 129 Stat. 917,
 
 **(c) Commingled Items Purchased by Contractors.—** Notwithstanding section 3451(1) of this title, items valued at less than $10,000 that are purchased by a contractor for use in the performance of multiple contracts with the Department of Defense and other parties and are not identifiable to any particular contract shall be treated as a commercial product for purposes of this chapter.
 
-(Added Pub. L. 114–92, div. A, title VIII, § 857(a), Nov. 25, 2015, 129 Stat. 921, § 2380A; renumbered § 2380a and amended Pub. L. 114–328, div. A, title VIII, § 878(a), (b)(1), Dec. 23, 2016, 130 Stat. 2312; Pub. L. 115–232, div. A, title VIII, § 836(d)(6), (8)(F), Aug. 13, 2018, 132 Stat. 1868, 1869; renumbered § 3457 and amended Pub. L. 116–283, div. A, title XVIII, § 1821(a)(2), (b)(6), (7)(A), (B), Jan. 1, 2021, 134 Stat. 4195, 4196.)
+(Added Pub. L. 114–92, div. A, title VIII, § 857(a), Nov. 25, 2015, 129 Stat. 921, § 2380A; renumbered § 2380a and amended Pub. L. 114–328, div. A, title VIII, § 878(a), (b)(1), Dec. 23, 2016, 130 Stat. 2312; Pub. L. 115–232, div. A, title VIII, § 836(d)(6), (8)(F), Aug. 13, 2018, 132 Stat. 1868, 1869; renumbered § 3457 and amended Pub. L. 116–283, div. A, title XVIII, § 1821(a)(2), (b)(6), (7)(A), (B), Jan. 1, 2021, 134 Stat. 4195, 4196.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section 1821(a)(1), (2) of Pub. L. 116–260 transferred chapter 140 of this title (§§ 2375 to 2380b) to this chapter and renumbered all the sections within it, except for final section 2380b. At that point, the last two sections of this chapter were this section (renumbered from section 2380a) followed by section 2380b. Section 1821(b)(7)(A) subsequently struck out “the heading of the final section of” this chapter, which was executed by incorporating the text of former section 2380b at the end of this section. The text of section 2380b of this title was based on Pub. L. 114–328, div. A, title VIII, § 877(a), Dec. 23, 2016, 130 Stat. 2311; Pub. L. 115–232, div. A, title VIII, § 836(d)(7), (8)(G), Aug. 13, 2018, 132 Stat. 1868, 1869; Pub. L. 116–92, div. A, title XVII, § 1731(a)(47), Dec. 20, 2019, 133 Stat. 1815.
+Section 1821(a)(1), (2) of Pub. L. 116–260 transferred chapter 140 of this title (§§ 2375 to 2380b) to this chapter and renumbered all the sections within it, except for final section 2380b. At that point, the last two sections of this chapter were this section (renumbered from section 2380a) followed by section 2380b. Section 1821(b)(7)(A) subsequently struck out “the heading of the final section of” this chapter, which was executed by incorporating the text of former section 2380b at the end of this section. The text of section 2380b of this title was based on Pub. L. 114–328, div. A, title VIII, § 877(a), Dec. 23, 2016, 130 Stat. 2311; Pub. L. 115–232, div. A, title VIII, § 836(d)(7), (8)(G), Aug. 13, 2018, 132 Stat. 1868, 1869; Pub. L. 116–92, div. A, title XVII, § 1731(a)(47), Dec. 20, 2019, 133 Stat. 1815.
 
 **Prior Provisions**
 
 A prior section 3491 was renumbered section 7191 of this title.
 
-Prior sections 3492 and 3493 were repealed by Pub. L. 90–235, § 1(a)(2), (b), Jan. 2, 1968, 81 Stat. 753.
+Prior sections 3492 and 3493 were repealed by Pub. L. 90–235, § 1(a)(2), (b), Jan. 2, 1968, 81 Stat. 753.
 
 Section 3492, act Aug. 10, 1956, ch. 1041, 70A Stat. 198, provided for extension of active service of Army members during war. See section 671a of this title.
 
 Section 3493, act Aug. 10, 1956, ch. 1041, 70A Stat. 198, empowered the President to order commissioned officers of the Army Reserve to active duty with the Corps of Engineers.
 
-A prior section 3494, added Pub. L. 85–861, § 1(82)(A), Sept. 2, 1958, 72 Stat. 1481; amended Pub. L. 86–559, § 1(20), June 30, 1960, 74 Stat. 271, provided that a reserve commissioned officer who is ordered to active duty be ordered to that duty in his reserve grade unless the Secretary of the Army orders him to active duty, other than for training, in a higher temporary grade and authorized a reserve commissioned officer who is selected for participation in a program under which he will be ordered to active duty for at least one academic year at a civilian school or college to be ordered, upon his request, to that duty in a temporary grade that is lower than his reserve grade, without affecting his reserve grade, prior to repeal by Pub. L. 96–513, title II, § 209(a), title VII, § 701, Dec. 12, 1980, 94 Stat. 2884, 2955, effective Sept. 15, 1981. See section 12320 of this title.
+A prior section 3494, added Pub. L. 85–861, § 1(82)(A), Sept. 2, 1958, 72 Stat. 1481; amended Pub. L. 86–559, § 1(20), June 30, 1960, 74 Stat. 271, provided that a reserve commissioned officer who is ordered to active duty be ordered to that duty in his reserve grade unless the Secretary of the Army orders him to active duty, other than for training, in a higher temporary grade and authorized a reserve commissioned officer who is selected for participation in a program under which he will be ordered to active duty for at least one academic year at a civilian school or college to be ordered, upon his request, to that duty in a temporary grade that is lower than his reserve grade, without affecting his reserve grade, prior to repeal by Pub. L. 96–513, title II, § 209(a), title VII, § 701, Dec. 12, 1980, 94 Stat. 2884, 2955, effective Sept. 15, 1981. See section 12320 of this title.
 
-Prior sections 3495 to 3500 were repealed by Pub. L. 103–337, div. A, title XVI, §§ 1662(f)(2), 1691, Oct. 5, 1994, 108 Stat. 2994, 3026, effective Dec. 1, 1994.
+Prior sections 3495 to 3500 were repealed by Pub. L. 103–337, div. A, title XVI, §§ 1662(f)(2), 1691, Oct. 5, 1994, 108 Stat. 2994, 3026, effective Dec. 1, 1994.
 
 Section 3495, act Aug. 10, 1956, ch. 1041, 70A Stat. 198, provided that members of Army National Guard of United States were not in active Federal service except when ordered thereto under law. See section 12401 of this title.
 
@@ -865,25 +865,25 @@ Section 3498, act Aug. 10, 1956, ch. 1041, 70A Stat. 199, related to organizatio
 
 Section 3499, act Aug. 10, 1956, ch. 1041, 70A Stat. 199, related to application of laws governing Army to members of Army National Guard called into Federal service. See section 12405 of this title.
 
-Section 3500, acts Aug. 10, 1956, ch. 1041, 70A Stat. 199; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, § 1234(a)(1), (3), 102 Stat. 2059, authorized President to call Army National Guard units and members into Federal service. See section 12406 of this title.
+Section 3500, acts Aug. 10, 1956, ch. 1041, 70A Stat. 199; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, § 1234(a)(1), (3), 102 Stat. 2059, authorized President to call Army National Guard units and members into Federal service. See section 12406 of this title.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1821(a)(2), renumbered section 2380a of this title as this section.
+2021—Pub. L. 116–283, § 1821(a)(2), renumbered section 2380a of this title as this section.
 
-Subsecs. (a), (b). Pub. L. 116–283, § 1821(b)(6), substituted “section 3451(1)” for “section 2376(1)” and “section 3014” for “section 2302(9)”.
+Subsecs. (a), (b). Pub. L. 116–283, § 1821(b)(6), substituted “section 3451(1)” for “section 2376(1)” and “section 3014” for “section 2302(9)”.
 
-Subsec. (c). Pub. L. 116–283, § 1821(b)(7)(A), (B), transferred section 2380b of this title to this section and struck out section designation and catchline, designated text as subsec. (c) and inserted heading, and substituted “Notwithstanding section 3451(1)” for “Notwithstanding section 2376(1)”. See Codification note above.
+Subsec. (c). Pub. L. 116–283, § 1821(b)(7)(A), (B), transferred section 2380b of this title to this section and struck out section designation and catchline, designated text as subsec. (c) and inserted heading, and substituted “Notwithstanding section 3451(1)” for “Notwithstanding section 2376(1)”. See Codification note above.
 
-2018—Pub. L. 115–232, § 836(d)(8)(F), substituted “products and services as commercial products and commercial services” for “items as commercial items” in section catchline.
+2018—Pub. L. 115–232, § 836(d)(8)(F), substituted “products and services as commercial products and commercial services” for “items as commercial items” in section catchline.
 
-Subsec. (a). Pub. L. 115–232, § 836(d)(6)(A), substituted “products and” for “items and” and “commercial products and commercial services, respectively,” for “commercial items”.
+Subsec. (a). Pub. L. 115–232, § 836(d)(6)(A), substituted “products and” for “items and” and “commercial products and commercial services, respectively,” for “commercial items”.
 
-Subsec. (b). Pub. L. 115–232, § 836(d)(6)(B), substituted “commercial services” for “commercial items”.
+Subsec. (b). Pub. L. 115–232, § 836(d)(6)(B), substituted “commercial services” for “commercial items”.
 
-2016—Pub. L. 114–328, § 878(b)(1), which directed amendment of “Section 2380A of title 10” by striking out the section catchline and inserting “§ 2380a. Treatment of certain items as commercial items”, was executed by redesignating this section as section 2380a and substituting “Treatment of certain items as commercial items” for “Treatment of goods and services provided by nontraditional defense contractors as commercial items” in section catchline, to reflect the probable intent of Congress.
+2016—Pub. L. 114–328, § 878(b)(1), which directed amendment of “Section 2380A of title 10” by striking out the section catchline and inserting “§ 2380a. Treatment of certain items as commercial items”, was executed by redesignating this section as section 2380a and substituting “Treatment of certain items as commercial items” for “Treatment of goods and services provided by nontraditional defense contractors as commercial items” in section catchline, to reflect the probable intent of Congress.
 
-Pub. L. 114–328, § 878(a), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+Pub. L. 114–328, § 878(a), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -895,7 +895,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
-## § 3458. Authority to acquire innovative commercial products and commercial services using general solicitation competitive procedures
+## § 3458. Authority to acquire innovative commercial products and commercial services using general solicitation competitive procedures
 
 **(a) Authority.—** The Secretary of Defense and each Secretary of a military department may acquire commercial products, commercial services, or nondevelopmental items through a competitive selection of proposals resulting from a general solicitation and a peer review, technical review, or operational review (as appropriate) of such proposals.
 
@@ -927,45 +927,45 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 **(D)** Identification of the contractor awarded the contract.
 
-(Added § 2380c, renumbered § 3458, and amended Pub. L. 117–81, div. A, title VIII, § 803(a)(1), (b)(1), (3), Dec. 27, 2021, 135 Stat. 1814–1816; Pub. L. 117–263, div. A, title VIII, § 814(a), Dec. 23, 2022, 136 Stat. 2707; Pub. L. 119–60, div. A, title XVIII, § 1823, Dec. 18, 2025, 139 Stat. 1247.)
+(Added § 2380c, renumbered § 3458, and amended Pub. L. 117–81, div. A, title VIII, § 803(a)(1), (b)(1), (3), Dec. 27, 2021, 135 Stat. 1814–1816; Pub. L. 117–263, div. A, title VIII, § 814(a), Dec. 23, 2022, 136 Stat. 2707; Pub. L. 119–60, div. A, title XVIII, § 1823, Dec. 18, 2025, 139 Stat. 1247.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 1823(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Defense and the Secretaries of the military departments may acquire innovative commercial products and commercial services through a competitive selection of proposals resulting from a general solicitation and the peer review of such proposals.”
+2025—Subsec. (a). Pub. L. 119–60, § 1823(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Defense and the Secretaries of the military departments may acquire innovative commercial products and commercial services through a competitive selection of proposals resulting from a general solicitation and the peer review of such proposals.”
 
-Subsec. (c). Pub. L. 119–60, § 1823(4), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 119–60, § 1823(4), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 119–60, § 1823(5), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “The Secretary may not enter into a contract or agreement in excess of $100,000,000 using the authority under subsection (a) without a written determination from the Under Secretary of Defense for Acquisition and Sustainment or the relevant service acquisition executive of the efficacy of the effort to meet mission needs of the Department of Defense or the relevant military department.”
+Subsec. (d). Pub. L. 119–60, § 1823(5), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “The Secretary may not enter into a contract or agreement in excess of $100,000,000 using the authority under subsection (a) without a written determination from the Under Secretary of Defense for Acquisition and Sustainment or the relevant service acquisition executive of the efficacy of the effort to meet mission needs of the Department of Defense or the relevant military department.”
 
-Pub. L. 119–60, § 1823(3), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Pub. L. 119–60, § 1823(3), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 119–60, § 1823(2), (3), redesignated subsec. (d) as (e) and struck out former subsec. (e). Text of former subsec. (e) read as follows: “In this section, the term ‘innovative’ means—
+Subsec. (e). Pub. L. 119–60, § 1823(2), (3), redesignated subsec. (d) as (e) and struck out former subsec. (e). Text of former subsec. (e) read as follows: “In this section, the term ‘innovative’ means—
 
 “(1) any technology, process, or method, including research and development, that is new as of the date of submission of a proposal; or
 
 “(2) any application that is new as of the date of submission of a proposal of a technology, process, or method existing as of such date.”
 
-Subsec. (e)(2)(A), (B). Pub. L. 119–60, § 1823(6), substituted “commercial product, commercial service, or nondevelopmental item” for “innovative commercial product or commercial service”.
+Subsec. (e)(2)(A), (B). Pub. L. 119–60, § 1823(6), substituted “commercial product, commercial service, or nondevelopmental item” for “innovative commercial product or commercial service”.
 
 2022—Subsec. (c)(2). Pub. L. 117–263 substituted “fixed-price incentive contracts” for “fixed-price incentive fee contracts”.
 
-2021—Pub. L. 117–81, § 803(b)(1), renumbered section 2380c of this title as this section.
+2021—Pub. L. 117–81, § 803(b)(1), renumbered section 2380c of this title as this section.
 
-Subsec. (b). Pub. L. 117–81, § 803(b)(3)(A), substituted “chapter 221” for “chapter 137”.
+Subsec. (b). Pub. L. 117–81, § 803(b)(3)(A), substituted “chapter 221” for “chapter 137”.
 
-Subsec. (c)(3). Pub. L. 117–81, § 803(b)(3)(B), substituted “section 3451(1)” for “section 2376(1)”.
+Subsec. (c)(3). Pub. L. 117–81, § 803(b)(3)(B), substituted “section 3451(1)” for “section 2376(1)”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 117–81, div. A, title VIII, § 803(b)(4), Dec. 27, 2021, 135 Stat. 1816, provided that: “The transfer, redesignation, and amendments made by this subsection [amending this section and repealing provisions set out as a note under section 2302 of this title] shall take [sic] as if included in title XVIII of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283).”
+Pub. L. 117–81, div. A, title VIII, § 803(b)(4), Dec. 27, 2021, 135 Stat. 1816, provided that: “The transfer, redesignation, and amendments made by this subsection [amending this section and repealing provisions set out as a note under section 2302 of this title] shall take [sic] as if included in title XVIII of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283).”
 
 **Focused Commercial Solutions Openings Opportunities**
 
-Pub. L. 118–31, div. A, title VIII, § 813, Dec. 22, 2023, 137 Stat. 325, as amended by Pub. L. 119–60, div. A, title XVIII, § 1802(b)(1)(A), Dec. 18, 2025, 139 Stat. 1227, provided that:
+Pub. L. 118–31, div. A, title VIII, § 813, Dec. 22, 2023, 137 Stat. 325, as amended by Pub. L. 119–60, div. A, title XVIII, § 1802(b)(1)(A), Dec. 18, 2025, 139 Stat. 1227, provided that:
 
 > **“(a) Requirement.—** During each fiscal year beginning after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense, in coordination with the service acquisition executives of each military department, shall exercise the authority under section 3458 of title 10, United States Code, not less than four times to acquire goods or services addressing the mission needs of a geographic combatant command.
 
@@ -987,7 +987,7 @@ Pub. L. 118–31, div. A, title VIII, § 813, Dec. 22, 2023, 137 Stat. 325, as
 
 **Data Collection**
 
-Pub. L. 117–81, div. A, title VIII, § 803(a)(3), Dec. 27, 2021, 135 Stat. 1815, provided that:
+Pub. L. 117–81, div. A, title VIII, § 803(a)(3), Dec. 27, 2021, 135 Stat. 1815, provided that:
 
 > **“(A) In general.—** The Secretary of Defense and each Secretary of a military department shall collect and analyze data on the use of the authority under section 2380c of title 10, United States Code [now 10 U.S.C. 3458], as added by paragraph (1), for the purposes of—
 
@@ -1003,9 +1003,9 @@ Pub. L. 117–81, div. A, title VIII, § 803(a)(3), Dec. 27, 2021, 135 Stat. 1
 
 **References; Savings Provision; Rule of Construction**
 
-Pub. L. 117–81, div. A, title VIII, § 803(b)(5), Dec. 27, 2021, 135 Stat. 1816, provided that: “Sections 1883 through 1885 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) [set out as notes preceding section 3001 of this title] shall apply with respect to the transfers, redesignations, and amendments made under this subsection [amending this section and repealing provisions set out as a note under section 2302 of this title] as if such transfers, redesignations, and amendments were made under title XVIII of such Act.”
+Pub. L. 117–81, div. A, title VIII, § 803(b)(5), Dec. 27, 2021, 135 Stat. 1816, provided that: “Sections 1883 through 1885 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) [set out as notes preceding section 3001 of this title] shall apply with respect to the transfers, redesignations, and amendments made under this subsection [amending this section and repealing provisions set out as a note under section 2302 of this title] as if such transfers, redesignations, and amendments were made under title XVIII of such Act.”
 
-## § 3459. Limitation on required flowdown of contract clauses to subcontractors providing commercial products or commercial services
+## § 3459. Limitation on required flowdown of contract clauses to subcontractors providing commercial products or commercial services
 
 **(a) In General.—** The Secretary of Defense may not require that a clause be included in a subcontract for the acquisition of commercial products or commercial services other than a clause that is on the lists required by section 3452 of this title or unless otherwise applicable pursuant to subsection (e) of such section.
 
@@ -1015,4 +1015,4 @@ Pub. L. 117–81, div. A, title VIII, § 803(b)(5), Dec. 27, 2021, 135 Stat. 1
 
 **(d) Applicability.—** Subsection (a) shall apply only with respect to subcontracts entered into after the earliest date on which the lists required by section 3452 of this title are published in the Defense Federal Acquisition Regulation Supplement.
 
-(Added Pub. L. 119–60, div. A, title XVIII, § 1824, Dec. 18, 2025, 139 Stat. 1248.)
+(Added Pub. L. 119–60, div. A, title XVIII, § 1824, Dec. 18, 2025, 139 Stat. 1248.)

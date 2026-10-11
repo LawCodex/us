@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 43—NATIVE AMERICAN HOUSING ASSISTANCE AND SELF-DETERMINATION
 
-## § 4101. Congressional findings
+## § 4101. Congressional findings
 
 The Congress finds that—
 
@@ -39,15 +39,15 @@ The Congress finds that—
 
 **(7)** Federal assistance to meet these responsibilities shall be provided in a manner that recognizes the right of Indian self-determination and tribal self-governance by making such assistance available directly to the Indian tribes or tribally designated entities under authorities similar to those accorded Indian tribes in Public Law 93–638 (25 U.S.C. 450 et seq.).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Pub. L. 104–330, § 2, Oct. 26, 1996, 110 Stat. 4017; Pub. L. 110–411, § 2, Oct. 14, 2008, 122 Stat. 4320.)
+(Pub. L. 104–330, § 2, Oct. 26, 1996, 110 Stat. 4017; Pub. L. 110–411, § 2, Oct. 14, 2008, 122 Stat. 4320.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Public Law 93–638 (25 U.S.C. 450 et seq.), referred to in par. (7), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+Public Law 93–638 (25 U.S.C. 450 et seq.), referred to in par. (7), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Amendments**
 
@@ -57,43 +57,43 @@ Public Law 93–638 (25 U.S.C. 450 et seq.), referred to in par. (7), is Pub. L.
 
 **Effective Date**
 
-Pub. L. 104–330, title I, § 107, Oct. 26, 1996, 110 Stat. 4030, provided that: “Except as otherwise expressly provided in this Act [see Short Title note below], this Act and the amendments made by this Act shall take effect on October 1, 1997.”
+Pub. L. 104–330, title I, § 107, Oct. 26, 1996, 110 Stat. 4030, provided that: “Except as otherwise expressly provided in this Act [see Short Title note below], this Act and the amendments made by this Act shall take effect on October 1, 1997.”
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–269, § 1, Oct. 12, 2010, 124 Stat. 2850, provided that: “This Act [amending section 4103 of this title] may be cited as the ‘Indian Veterans Housing Opportunity Act of 2010’.”
+Pub. L. 111–269, § 1, Oct. 12, 2010, 124 Stat. 2850, provided that: “This Act [amending section 4103 of this title] may be cited as the ‘Indian Veterans Housing Opportunity Act of 2010’.”
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–411, § 1(a), Oct. 14, 2008, 122 Stat. 4319, provided that: “This Act [enacting part B of subchapter II and sections 4184 and 4196 of this title and amending this section and sections 4103, 4111 to 4114, 4116, 4117, 4131 to 4133, 4135, 4138, 4152, 4161, 4163, 4164, 4195, and 4212 of this title] may be cited as the ‘Native American Housing Assistance and Self-Determination Reauthorization Act of 2008’.”
+Pub. L. 110–411, § 1(a), Oct. 14, 2008, 122 Stat. 4319, provided that: “This Act [enacting part B of subchapter II and sections 4184 and 4196 of this title and amending this section and sections 4103, 4111 to 4114, 4116, 4117, 4131 to 4133, 4135, 4138, 4152, 4161, 4163, 4164, 4195, and 4212 of this title] may be cited as the ‘Native American Housing Assistance and Self-Determination Reauthorization Act of 2008’.”
 
 **Short Title of 2005 Amendment**
 
-Pub. L. 109–136, § 1, Dec. 22, 2005, 119 Stat. 2643, provided that: “This Act [enacting section 1490t of Title 42, The Public Health and Welfare, amending section 4114 of this title and sections 12899f and 12899h–1 of Title 42, and enacting provisions set out as a note under this section] may be cited as the ‘Native American Housing Enhancement Act of 2005’.”
+Pub. L. 109–136, § 1, Dec. 22, 2005, 119 Stat. 2643, provided that: “This Act [enacting section 1490t of Title 42, The Public Health and Welfare, amending section 4114 of this title and sections 12899f and 12899h–1 of Title 42, and enacting provisions set out as a note under this section] may be cited as the ‘Native American Housing Enhancement Act of 2005’.”
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–393, § 1, Oct. 30, 2004, 118 Stat. 2246, provided that: “This Act [amending section 4191 of this title] may be cited as the ‘Homeownership Opportunities for Native Americans Act of 2004’.”
+Pub. L. 108–393, § 1, Oct. 30, 2004, 118 Stat. 2246, provided that: “This Act [amending section 4191 of this title] may be cited as the ‘Homeownership Opportunities for Native Americans Act of 2004’.”
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–292, § 1, Nov. 13, 2002, 116 Stat. 2053, provided that: “This Act [amending sections 4103, 4111, 4114, 4116, 4117, 4132, 4191, 4195, and 4212 of this title and section 1715z–13a of Title 12, Banks and Banking] may be cited as the ‘Native American Housing Assistance and Self-Determination Reauthorization Act of 2002’.”
+Pub. L. 107–292, § 1, Nov. 13, 2002, 116 Stat. 2053, provided that: “This Act [amending sections 4103, 4111, 4114, 4116, 4117, 4132, 4191, 4195, and 4212 of this title and section 1715z–13a of Title 12, Banks and Banking] may be cited as the ‘Native American Housing Assistance and Self-Determination Reauthorization Act of 2002’.”
 
 **Short Title of 2000 Amendments**
 
-Pub. L. 106–569, title V, § 511, Dec. 27, 2000, 114 Stat. 2966, provided that: “This subtitle [subtitle B (§§ 511–514) of title V of Pub. L. 106–569, enacting subchapter VIII of this chapter, section 1715z–13b of Title 12, Banks and Banking, and provisions set out as notes under section 4221 of this title] may be cited as the ‘Hawaiian Homelands Homeownership Act of 2000’.”
+Pub. L. 106–569, title V, § 511, Dec. 27, 2000, 114 Stat. 2966, provided that: “This subtitle [subtitle B (§§ 511–514) of title V of Pub. L. 106–569, enacting subchapter VIII of this chapter, section 1715z–13b of Title 12, Banks and Banking, and provisions set out as notes under section 4221 of this title] may be cited as the ‘Hawaiian Homelands Homeownership Act of 2000’.”
 
-Pub. L. 106–568, § 1, Dec. 27, 2000, 114 Stat. 2868, provided that: “This Act [see Tables for classification] may be cited as the ‘Omnibus Indian Advancement Act’.”
+Pub. L. 106–568, § 1, Dec. 27, 2000, 114 Stat. 2868, provided that: “This Act [see Tables for classification] may be cited as the ‘Omnibus Indian Advancement Act’.”
 
-Pub. L. 106–568, title II, § 201, Dec. 27, 2000, 114 Stat. 2872, provided that: “This title [enacting subchapter VIII of this chapter, section 1715z–13b of Title 12, Banks and Banking, and provisions set out as notes under section 4221 of this title] may be cited as the ‘Hawaiian Homelands Homeownership Act of 2000’.”
+Pub. L. 106–568, title II, § 201, Dec. 27, 2000, 114 Stat. 2872, provided that: “This title [enacting subchapter VIII of this chapter, section 1715z–13b of Title 12, Banks and Banking, and provisions set out as notes under section 4221 of this title] may be cited as the ‘Hawaiian Homelands Homeownership Act of 2000’.”
 
 **Short Title**
 
-Pub. L. 104–330, § 1(a), Oct. 26, 1996, 110 Stat. 4016, provided that: “This Act [enacting this chapter and section 12899h–1 of Title 42, The Public Health and Welfare, amending sections 1715z–13a and 1721 of Title 12, Banks and Banking, and sections 1437a, 1437c to 1437e, 1437g, 1437*l*, 1437n, 1437u to 1437x, 1437aaa–5, 1437aaa–6, 1439, 11371 to 11376, 11382, 11401, 11403g, 11408, 11902 to 11905, 12747, and 12838 of Title 42, repealing sections 1437aa to 1437ee of Title 42, enacting provisions set out as notes under this section and sections 4181 and 4211 of this title and sections 11371, 12747, and 12899h–1 of Title 42, amending provisions set out as a note under section 11301 of Title 42, and repealing provisions set out as a note under section 1701z–6 of Title 12] may be cited as the ‘Native American Housing Assistance and Self-Determination Act of 1996’.”
+Pub. L. 104–330, § 1(a), Oct. 26, 1996, 110 Stat. 4016, provided that: “This Act [enacting this chapter and section 12899h–1 of Title 42, The Public Health and Welfare, amending sections 1715z–13a and 1721 of Title 12, Banks and Banking, and sections 1437a, 1437c to 1437e, 1437g, 1437*l*, 1437n, 1437u to 1437x, 1437aaa–5, 1437aaa–6, 1439, 11371 to 11376, 11382, 11401, 11403g, 11408, 11902 to 11905, 12747, and 12838 of Title 42, repealing sections 1437aa to 1437ee of Title 42, enacting provisions set out as notes under this section and sections 4181 and 4211 of this title and sections 11371, 12747, and 12899h–1 of Title 42, amending provisions set out as a note under section 11301 of Title 42, and repealing provisions set out as a note under section 1701z–6 of Title 12] may be cited as the ‘Native American Housing Assistance and Self-Determination Act of 1996’.”
 
 **Findings of 2005 Amendment**
 
-Pub. L. 109–136, § 2, Dec. 22, 2005, 119 Stat. 2643, provided that:
+Pub. L. 109–136, § 2, Dec. 22, 2005, 119 Stat. 2643, provided that:
 
 > “Congress finds that—
 
@@ -131,11 +131,11 @@ Pub. L. 109–136, § 2, Dec. 22, 2005, 119 Stat. 2643, provided that:
 
 > **“(6)** section 457 of the Cranston-Gonzales [Cranston-Gonzalez] National Affordable Housing Act (42 U.S.C. 12899f) should be amended to include Indian tribes, tribally designated housing entities, or other agencies that primarily serve Indians as eligible applicants for YouthBuild grants.”
 
-## § 4102. Administration through Office of Native American Programs
+## § 4102. Administration through Office of Native American Programs
 
 The Secretary of Housing and Urban Development shall carry out this chapter through the Office of Native American Programs of the Department of Housing and Urban Development.
 
-(Pub. L. 104–330, § 3, Oct. 26, 1996, 110 Stat. 4018.)
+(Pub. L. 104–330, § 3, Oct. 26, 1996, 110 Stat. 4018.)
 
 **Editorial Notes**
 
@@ -149,7 +149,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
 
-## § 4103. Definitions
+## § 4103. Definitions
 
 For purposes of this chapter, the following definitions shall apply:
 
@@ -265,7 +265,7 @@ The term “Indian tribe” means a tribe that is a federally recognized tribe o
 
 The term “federally recognized tribe” means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act [43 U.S.C. 1601 et seq.], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(C) State recognized tribe**
 
@@ -351,7 +351,7 @@ the terms mean such entity.
 
 A tribally designated housing entity may be authorized or established by one or more Indian tribes to act on behalf of each such tribe authorizing or establishing the housing entity.
 
-(Pub. L. 104–330, § 4, Oct. 26, 1996, 110 Stat. 4018; Pub. L. 105–256, § 13(b), Oct. 14, 1998, 112 Stat. 1900; Pub. L. 105–276, title V, § 595(e)(1), (2), Oct. 21, 1998, 112 Stat. 2656; Pub. L. 106–402, title IV, § 401(b)(2), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 107–292, § 3, Nov. 13, 2002, 116 Stat. 2053; Pub. L. 110–411, § 3, Oct. 14, 2008, 122 Stat. 4320; Pub. L. 111–269, § 2, Oct. 12, 2010, 124 Stat. 2850.)
+(Pub. L. 104–330, § 4, Oct. 26, 1996, 110 Stat. 4018; Pub. L. 105–256, § 13(b), Oct. 14, 1998, 112 Stat. 1900; Pub. L. 105–276, title V, § 595(e)(1), (2), Oct. 21, 1998, 112 Stat. 2656; Pub. L. 106–402, title IV, § 401(b)(2), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 107–292, § 3, Nov. 13, 2002, 116 Stat. 2053; Pub. L. 110–411, § 3, Oct. 14, 2008, 122 Stat. 4320; Pub. L. 111–269, § 2, Oct. 12, 2010, 124 Stat. 2850.)
 
 **Editorial Notes**
 
@@ -359,15 +359,15 @@ A tribally designated housing entity may be authorized or established by one or 
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-The Indian Gaming Regulatory Act, referred to in par. (8)(B), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, which is classified principally to chapter 29 (§ 2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+The Indian Gaming Regulatory Act, referred to in par. (8)(B), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, which is classified principally to chapter 29 (§ 2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in par. (13)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (13)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in par. (13)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in par. (13)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 For the effective date under section 705, referred to in par. (13)(C)(i)(II), as Oct. 26, 1996, see section 705 of Pub. L. 104–330, set out as an Effective Date note under section 4211 of this title.
 
-The United States Housing Act of 1937, referred to in pars. (13)(C)(i)(II) and (22)(A)(i), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
+The United States Housing Act of 1937, referred to in pars. (13)(C)(i)(II) and (22)(A)(i), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
 **Amendments**
 
@@ -379,11 +379,11 @@ The United States Housing Act of 1937, referred to in pars. (13)(C)(i)(II) and (
 
 2000—Par. (17)(C). Pub. L. 106–402 substituted “as defined in section 15002 of title 42” for “as defined in section 6001 of title 42”.
 
-1998—Par. (10). Pub. L. 105–276, § 595(e)(1), amended heading and text of par. (10) generally. Prior to amendment, text read as follows: “The term ‘Indian area’ means the area within which a tribally designated housing entity is authorized by one or more Indian tribes to provide assistance under this chapter for affordable housing.”
+1998—Par. (10). Pub. L. 105–276, § 595(e)(1), amended heading and text of par. (10) generally. Prior to amendment, text read as follows: “The term ‘Indian area’ means the area within which a tribally designated housing entity is authorized by one or more Indian tribes to provide assistance under this chapter for affordable housing.”
 
 Par. (12)(B). Pub. L. 105–256 substituted “Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.)” for “Indian Self-Determination and Education Assistance Act of 1975”.
 
-Par. (12)(C)(i)(II). Pub. L. 105–276, § 595(e)(2), substituted “705” for “107”.
+Par. (12)(C)(i)(II). Pub. L. 105–276, § 595(e)(2), substituted “705” for “107”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -391,7 +391,7 @@ Par. (12)(C)(i)(II). Pub. L. 105–276, § 595(e)(2), substituted “705” fo
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
 
-## § 4104. Waiver of matching funds requirements in Indian housing programs
+## § 4104. Waiver of matching funds requirements in Indian housing programs
 
 **(a) Authorization of waiver**
 
@@ -405,13 +405,13 @@ The authority under subsection (a) to provide assistance notwithstanding require
 
 For purposes of this section, the term “housing program” means a program under the administration of the Secretary of Housing and Urban Development or the Secretary of Agriculture (through the Administrator of the Farmers Home Administration) that provides assistance in the form of contracts, grants, loans, cooperative agreements, or any other form of assistance (including the insurance or guarantee of a loan, mortgage, or pool of mortgages) for housing.
 
-(Pub. L. 101–625, title IX, § 959, Nov. 28, 1990, 104 Stat. 4423.)
+(Pub. L. 101–625, title IX, § 959, Nov. 28, 1990, 104 Stat. 4423.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Housing and Community Development Act of 1974, referred to in subsecs. (a) and (b), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Act is classified principally to chapter 69 (§ 5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
+The Housing and Community Development Act of 1974, referred to in subsecs. (a) and (b), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Act is classified principally to chapter 69 (§ 5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
 
 **Codification**
 
@@ -421,7 +421,7 @@ Section was formerly classified to section 1437ff of Title 42, The Public Health
 
 ## SUBCHAPTER I—BLOCK GRANTS AND GRANT REQUIREMENTS
 
-### § 4111. Block grants
+### § 4111. Block grants
 
 **(a) Authority**
 
@@ -495,7 +495,7 @@ Each recipient shall make all reasonable efforts, consistent with the purposes o
 
 Notwithstanding any other provision of law, with respect to any grant (or portion of a grant) made on behalf of an Indian tribe under this chapter that is intended to benefit 1 Indian tribe, the tribal employment and contract preference laws (including regulations and tribal ordinances) adopted by the Indian tribe that receives the benefit shall apply with respect to the administration of the grant (or portion of a grant).
 
-(Pub. L. 104–330, title I, § 101, Oct. 26, 1996, 110 Stat. 4022; Pub. L. 105–276, title V, § 595(e)(3), (4), Oct. 21, 1998, 112 Stat. 2656, 2657; Pub. L. 106–568, title X, § 1003(a), Dec. 27, 2000, 114 Stat. 2925; Pub. L. 106–569, title V, § 503(a), Dec. 27, 2000, 114 Stat. 2961; Pub. L. 107–292, § 4, Nov. 13, 2002, 116 Stat. 2054; Pub. L. 110–411, title I, § 101, Oct. 14, 2008, 122 Stat. 4320.)
+(Pub. L. 104–330, title I, § 101, Oct. 26, 1996, 110 Stat. 4022; Pub. L. 105–276, title V, § 595(e)(3), (4), Oct. 21, 1998, 112 Stat. 2656, 2657; Pub. L. 106–568, title X, § 1003(a), Dec. 27, 2000, 114 Stat. 2925; Pub. L. 106–569, title V, § 503(a), Dec. 27, 2000, 114 Stat. 2961; Pub. L. 107–292, § 4, Nov. 13, 2002, 116 Stat. 2054; Pub. L. 110–411, title I, § 101, Oct. 14, 2008, 122 Stat. 4320.)
 
 **Editorial Notes**
 
@@ -503,29 +503,29 @@ Notwithstanding any other provision of law, with respect to any grant (or portio
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-The United States Housing Act of 1937, referred to in subsec. (d), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
+The United States Housing Act of 1937, referred to in subsec. (d), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–411, § 101(1), designated first sentence as par. (1) and inserted heading, substituted “tribes—” for “tribes to carry out affordable housing activities.”, added subpars. (A) and (B), and designated second sentence as par. (2) and inserted heading.
+2008—Subsec. (a). Pub. L. 110–411, § 101(1), designated first sentence as par. (1) and inserted heading, substituted “tribes—” for “tribes to carry out affordable housing activities.”, added subpars. (A) and (B), and designated second sentence as par. (2) and inserted heading.
 
-Subsec. (g). Pub. L. 110–411, § 101(2), inserted “of this section and part B of subchapter II” after “subsection (h)”.
+Subsec. (g). Pub. L. 110–411, § 101(2), inserted “of this section and part B of subchapter II” after “subsection (h)”.
 
-Subsecs. (j), (k). Pub. L. 110–411, § 101(3), added subsecs. (j) and (k).
+Subsecs. (j), (k). Pub. L. 110–411, § 101(3), added subsecs. (j) and (k).
 
 2002—Subsec. (h). Pub. L. 107–292 inserted “and planning” after “Administrative” in heading and “for comprehensive housing and community development planning activities and” after “received under this chapter” in text.
 
-2000—Subsec. (b)(2). Pub. L. 106–568, § 1003(a)(1), and Pub. L. 106–569, § 503(a)(1), amended par. (2) identically, substituting “for a period of not more than 90 days, if the Secretary determines that an Indian tribe has not complied with, or is unable to comply with, those requirements due to exigent circumstances beyond the control of the Indian tribe.” for “if the Secretary finds that an Indian tribe has not complied or cannot comply with such requirements due to circumstances beyond the control of the tribe.”
+2000—Subsec. (b)(2). Pub. L. 106–568, § 1003(a)(1), and Pub. L. 106–569, § 503(a)(1), amended par. (2) identically, substituting “for a period of not more than 90 days, if the Secretary determines that an Indian tribe has not complied with, or is unable to comply with, those requirements due to exigent circumstances beyond the control of the Indian tribe.” for “if the Secretary finds that an Indian tribe has not complied or cannot comply with such requirements due to circumstances beyond the control of the tribe.”
 
-Subsec. (c). Pub. L. 106–568, § 1003(a)(2), and Pub. L. 106–569, § 503(a)(2), amended subsec. (c) identically, inserting at end “The Secretary may waive the requirements of this subsection and subsection (d) if the recipient has made a good faith effort to fulfill the requirements of this subsection and subsection (d) and agrees to make payments in lieu of taxes to the appropriate taxing authority in an amount consistent with the requirements of subsection (d)(2) until such time as the matter of making such payments has been resolved in accordance with subsection (d).”
+Subsec. (c). Pub. L. 106–568, § 1003(a)(2), and Pub. L. 106–569, § 503(a)(2), amended subsec. (c) identically, inserting at end “The Secretary may waive the requirements of this subsection and subsection (d) if the recipient has made a good faith effort to fulfill the requirements of this subsection and subsection (d) and agrees to make payments in lieu of taxes to the appropriate taxing authority in an amount consistent with the requirements of subsection (d)(2) until such time as the matter of making such payments has been resolved in accordance with subsection (d).”
 
-1998—Subsec. (c). Pub. L. 105–276, § 595(e)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary may not make any grant under this chapter on behalf of an Indian tribe unless the governing body of the locality within which any affordable housing to be assisted with the grant amounts will be situated has entered into an agreement with the recipient for the tribe providing for local cooperation required by the Secretary pursuant to this chapter.”
+1998—Subsec. (c). Pub. L. 105–276, § 595(e)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary may not make any grant under this chapter on behalf of an Indian tribe unless the governing body of the locality within which any affordable housing to be assisted with the grant amounts will be situated has entered into an agreement with the recipient for the tribe providing for local cooperation required by the Secretary pursuant to this chapter.”
 
-Subsec. (d). Pub. L. 105–276, § 595(e)(4)(A), added subsec. (d) heading, introductory provisions, and par. (1), and struck out former subsec. (d) heading, introductory provisions, and par. (1). Text read as follows: “A grant recipient for an Indian tribe may receive a block grant under this chapter only if—
+Subsec. (d). Pub. L. 105–276, § 595(e)(4)(A), added subsec. (d) heading, introductory provisions, and par. (1), and struck out former subsec. (d) heading, introductory provisions, and par. (1). Text read as follows: “A grant recipient for an Indian tribe may receive a block grant under this chapter only if—
 
 “(1) the affordable housing assisted with grant amounts received by the recipient (exclusive of any portions not assisted with amounts provided under this chapter) is exempt from all real and personal property taxes levied or imposed by any State, tribe, city, county, or other political subdivision; and”.
 
-Subsec. (d)(2). Pub. L. 105–276, § 595(e)(4)(B), inserted “for the tribe” after “the recipient” in introductory provisions.
+Subsec. (d)(2). Pub. L. 105–276, § 595(e)(4)(B), inserted “for the tribe” after “the recipient” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -533,7 +533,7 @@ Subsec. (d)(2). Pub. L. 105–276, § 595(e)(4)(B), inserted “for the tribe�
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
 
-### § 4112. Indian housing plans
+### § 4112. Indian housing plans
 
 **(a) Plan submission** The Secretary shall provide—
 
@@ -615,7 +615,7 @@ A plan under this section may cover more than 1 Indian tribe, but only if the ce
 
 The requirements relating to the contents of plans under this section shall be established by regulation, pursuant to section 4116 of this title.
 
-(Pub. L. 104–330, title I, § 102, Oct. 26, 1996, 110 Stat. 4023; Pub. L. 105–276, title V, § 595(e)(5), Oct. 21, 1998, 112 Stat. 2657; Pub. L. 106–568, title X, § 1003(b), (c), Dec. 27, 2000, 114 Stat. 2926; Pub. L. 106–569, title V, § 503(b), (c), Dec. 27, 2000, 114 Stat. 2962; Pub. L. 110–411, title I, § 102, Oct. 14, 2008, 122 Stat. 4321.)
+(Pub. L. 104–330, title I, § 102, Oct. 26, 1996, 110 Stat. 4023; Pub. L. 105–276, title V, § 595(e)(5), Oct. 21, 1998, 112 Stat. 2657; Pub. L. 106–568, title X, § 1003(b), (c), Dec. 27, 2000, 114 Stat. 2926; Pub. L. 106–569, title V, § 503(b), (c), Dec. 27, 2000, 114 Stat. 2962; Pub. L. 110–411, title I, § 102, Oct. 14, 2008, 122 Stat. 4321.)
 
 **Editorial Notes**
 
@@ -623,25 +623,25 @@ The requirements relating to the contents of plans under this section shall be e
 
 This chapter, referred to in subsec. (b)(2), was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-The United States Housing Act of 1937, referred to in subsec. (b)(2)(A)(v), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
+The United States Housing Act of 1937, referred to in subsec. (b)(2)(A)(v), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
-The Civil Rights Act of 1968, referred to in subsec. (b)(2)(D)(i), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73. Title II of the Act, popularly known as the Indian Civil Rights Act of 1968, is classified generally to subchapter I (§ 1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42, The Public Health and Welfare, and Tables.
+The Civil Rights Act of 1968, referred to in subsec. (b)(2)(D)(i), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73. Title II of the Act, popularly known as the Indian Civil Rights Act of 1968, is classified generally to subchapter I (§ 1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42, The Public Health and Welfare, and Tables.
 
 **Amendments**
 
-2008—Subsec. (a)(1)(A). Pub. L. 110–411, § 102(1)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “for an Indian tribe to submit to the Secretary, for each fiscal year, a housing plan under this section for the tribe; or”.
+2008—Subsec. (a)(1)(A). Pub. L. 110–411, § 102(1)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “for an Indian tribe to submit to the Secretary, for each fiscal year, a housing plan under this section for the tribe; or”.
 
-Subsec. (a)(1)(B). Pub. L. 110–411, § 102(1)(B), substituted “subsection (c)” for “subsection (d)”.
+Subsec. (a)(1)(B). Pub. L. 110–411, § 102(1)(B), substituted “subsection (c)” for “subsection (d)”.
 
-Subsecs. (b), (c). Pub. L. 110–411, § 102(2), (3), added subsec. (b), redesignated subsec. (d) as (c), and struck out former subsecs. (b) and (c) which required housing plans to contain certain information relating to a 5-year period and a 1-year period, respectively.
+Subsecs. (b), (c). Pub. L. 110–411, § 102(2), (3), added subsec. (b), redesignated subsec. (d) as (c), and struck out former subsecs. (b) and (c) which required housing plans to contain certain information relating to a 5-year period and a 1-year period, respectively.
 
-Subsec. (d). Pub. L. 110–411, § 102(3), (4), redesignated subsec. (e) as (d) and substituted “subsection (c)” for “subsection (d)”. Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 110–411, § 102(3), (4), redesignated subsec. (e) as (d) and substituted “subsection (c)” for “subsection (d)”. Former subsec. (d) redesignated (c).
 
-Subsecs. (e), (f). Pub. L. 110–411, § 102(3), redesignated subsecs. (e) and (f) as (d) and (e), respectively.
+Subsecs. (e), (f). Pub. L. 110–411, § 102(3), redesignated subsecs. (e) and (f) as (d) and (e), respectively.
 
-2000—Subsec. (c)(6). Pub. L. 106–568, § 1003(b), and Pub. L. 106–569, § 503(b), amended subsec. (c) identically, adding par. (6).
+2000—Subsec. (c)(6). Pub. L. 106–568, § 1003(b), and Pub. L. 106–569, § 503(b), amended subsec. (c) identically, adding par. (6).
 
-Subsecs. (f), (g). Pub. L. 106–568, § 1003(c), and Pub. L. 106–569, § 503(c), amended section identically, redesignating subsec. (g) as (f) and striking out heading and text of former subsec. (f). Text read as follows:
+Subsecs. (f), (g). Pub. L. 106–568, § 1003(c), and Pub. L. 106–569, § 503(c), amended section identically, redesignating subsec. (g) as (f) and striking out heading and text of former subsec. (f). Text read as follows:
 
 “(1) Separate requirements.—The Secretary may—
 
@@ -659,7 +659,7 @@ Subsecs. (f), (g). Pub. L. 106–568, § 1003(c), and Pub. L. 106–569, § 
 
 Section effective on the date provided by the Secretary of Housing and Urban Development pursuant to section 4116(a) of this title to provide for timely submission and review of Indian housing plans as necessary for the provision of assistance under this chapter in fiscal year 1998, see section 4113(e) of this title.
 
-### § 4113. Review of plans
+### § 4113. Review of plans
 
 **(a) Review and notice**
 
@@ -683,9 +683,9 @@ If the Secretary determines that a plan, as submitted, does not comply with the 
 
 **(3)** are not prohibited by or inconsistent with any provision of this chapter or other applicable law.
 
-If the Secretary determines that any of the appropriate certifications required under section 4112(c)(5) 1
+If the Secretary determines that any of the appropriate certifications required under section 4112(c)(5) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title are not included in the plan, the plan shall be deemed to be incomplete.
 
@@ -695,23 +695,23 @@ After a plan under section 4112 of this title has been submitted for an Indian t
 
 **(e) Self-determined activities program** Notwithstanding any other provision of this section, the Secretary—
 
-**(1)** shall review the information included in an Indian housing plan pursuant to subsections (b)(4) 2
+**(1)** shall review the information included in an Indian housing plan pursuant to subsections (b)(4) 2
 
-<sup>2</sup>  So in original. Subsec. (b) does not contain a par. (4).
+<sup>2</sup> So in original. Subsec. (b) does not contain a par. (4).
 
-and (c)(7) 3
+and (c)(7) 3
 
-<sup>3</sup>  So in original. Subsec. (c) does not contain a par. (7).
+<sup>3</sup> So in original. Subsec. (c) does not contain a par. (7).
 
-only to determine whether the information is included for purposes of compliance with the requirement under section 4145a(b)(2) 4
+only to determine whether the information is included for purposes of compliance with the requirement under section 4145a(b)(2) 4
 
-<sup>4</sup>  So in original. Section 4145a(b) of this title does not contain a par. (2).
+<sup>4</sup> So in original. Section 4145a(b) of this title does not contain a par. (2).
 
 of this title; and
 
-**(2)** may not approve or disapprove an Indian housing plan based on the content of the particular benefits, activities, or results included pursuant to subsections (b)(4) <sup>2</sup> and (c)(7).<sup>3</sup>
+**(2)** may not approve or disapprove an Indian housing plan based on the content of the particular benefits, activities, or results included pursuant to subsections (b)(4) <sup>2</sup> and (c)(7).<sup>3</sup>
 
-(Pub. L. 104–330, title I, § 103, Oct. 26, 1996, 110 Stat. 4026; Pub. L. 105–276, title V, § 595(e)(6), Oct. 21, 1998, 112 Stat. 2657; Pub. L. 110–411, title I, § 103, Oct. 14, 2008, 122 Stat. 4323.)
+(Pub. L. 104–330, title I, § 103, Oct. 26, 1996, 110 Stat. 4026; Pub. L. 105–276, title V, § 595(e)(6), Oct. 21, 1998, 112 Stat. 2657; Pub. L. 110–411, title I, § 103, Oct. 14, 2008, 122 Stat. 4323.)
 
 **Editorial Notes**
 
@@ -719,17 +719,17 @@ of this title; and
 
 This chapter, referred to in subsecs. (a)(2) and (c)(3), was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-Section 4112(c)(5) of this title, referred to in subsec. (c), was repealed by Pub. L. 110–411, title I, § 102(2), Oct. 14, 2008, 122 Stat. 4321.
+Section 4112(c)(5) of this title, referred to in subsec. (c), was repealed by Pub. L. 110–411, title I, § 102(2), Oct. 14, 2008, 122 Stat. 4321.
 
 **Amendments**
 
-2008—Subsec. (d). Pub. L. 110–411, § 103(1), substituted “tribal program” for “fiscal” in two places, struck out “(with respect to information included for the 5-year period under section 4112(b) of this title or the 1-year period under section 4112(c) of this title)” before “by submitting only such information”, and struck out at end “Not less than once every 5 years, the tribe shall submit a complete plan.”
+2008—Subsec. (d). Pub. L. 110–411, § 103(1), substituted “tribal program” for “fiscal” in two places, struck out “(with respect to information included for the 5-year period under section 4112(b) of this title or the 1-year period under section 4112(c) of this title)” before “by submitting only such information”, and struck out at end “Not less than once every 5 years, the tribe shall submit a complete plan.”
 
-Subsec. (e). Pub. L. 110–411, § 103(2), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “This section and section 4112 of this title shall take effect on the date provided by the Secretary pursuant to section 4116(a) of this title to provide for timely submission and review of Indian housing plans as necessary for the provision of assistance under this chapter in fiscal year 1998.”
+Subsec. (e). Pub. L. 110–411, § 103(2), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “This section and section 4112 of this title shall take effect on the date provided by the Secretary pursuant to section 4116(a) of this title to provide for timely submission and review of Indian housing plans as necessary for the provision of assistance under this chapter in fiscal year 1998.”
 
 1998—Subsec. (c)(3). Pub. L. 105–276 inserted “not” before “prohibited”.
 
-### § 4114. Treatment of program income and labor standards
+### § 4114. Treatment of program income and labor standards
 
 **(a) Program income**
 
@@ -771,7 +771,7 @@ Paragraph (1) and the provisions relating to wages (pursuant to paragraph (1)) i
 
 Paragraph (1) shall not apply to any contract or agreement for assistance, sale, or lease pursuant to this chapter, if such contract or agreement is otherwise covered by one or more laws or regulations adopted by an Indian tribe that requires the payment of not less than prevailing wages, as determined by the Indian tribe.
 
-(Pub. L. 104–330, title I, § 104, Oct. 26, 1996, 110 Stat. 4027; Pub. L. 106–568, title X, § 1003(j), Dec. 27, 2000, 114 Stat. 2930; Pub. L. 106–569, title V, § 503(i), Dec. 27, 2000, 114 Stat. 2965; Pub. L. 107–292, § 5, Nov. 13, 2002, 116 Stat. 2054; Pub. L. 109–136, § 3, Dec. 22, 2005, 119 Stat. 2644; Pub. L. 110–411, title I, § 104, Oct. 14, 2008, 122 Stat. 4323.)
+(Pub. L. 104–330, title I, § 104, Oct. 26, 1996, 110 Stat. 4027; Pub. L. 106–568, title X, § 1003(j), Dec. 27, 2000, 114 Stat. 2930; Pub. L. 106–569, title V, § 503(i), Dec. 27, 2000, 114 Stat. 2965; Pub. L. 107–292, § 5, Nov. 13, 2002, 116 Stat. 2054; Pub. L. 109–136, § 3, Dec. 22, 2005, 119 Stat. 2644; Pub. L. 110–411, title I, § 104, Oct. 14, 2008, 122 Stat. 4323.)
 
 **Editorial Notes**
 
@@ -781,7 +781,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Codification**
 
-“Sections 3141–3144, 3146, and 3147 of title 40” substituted in subsec. (b)(1) for “the Act of March 3, 1931 (commonly known as the Davis-Bacon Act; chapter 411; 46 Stat. 1494; 40 U.S.C. 276a et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+“Sections 3141–3144, 3146, and 3147 of title 40” substituted in subsec. (b)(1) for “the Act of March 3, 1931 (commonly known as the Davis-Bacon Act; chapter 411; 46 Stat. 1494; 40 U.S.C. 276a et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 **Amendments**
 
@@ -789,17 +789,17 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 2005—Subsec. (a)(2). Pub. L. 109–136 inserted “restrict access to or” after “not” in introductory provisions.
 
-2002—Subsec. (a)(1). Pub. L. 107–292, § 5(1)(A), substituted “Notwithstanding any other provision of this chapter, a recipient” for “A recipient” in introductory provisions.
+2002—Subsec. (a)(1). Pub. L. 107–292, § 5(1)(A), substituted “Notwithstanding any other provision of this chapter, a recipient” for “A recipient” in introductory provisions.
 
-Subsec. (a)(1)(B). Pub. L. 107–292, § 5(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “the recipient has agreed that it will utilize the program income for affordable housing activities in accordance with the provisions of this chapter.”
+Subsec. (a)(1)(B). Pub. L. 107–292, § 5(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “the recipient has agreed that it will utilize the program income for affordable housing activities in accordance with the provisions of this chapter.”
 
-Subsec. (a)(2). Pub. L. 107–292, § 5(2)(A), inserted “restricted access or” before “reduction” in heading.
+Subsec. (a)(2). Pub. L. 107–292, § 5(2)(A), inserted “restricted access or” before “reduction” in heading.
 
-Subsec. (a)(2)(D). Pub. L. 107–292, § 5(2)(B)–(D), added subpar. (D).
+Subsec. (a)(2)(D). Pub. L. 107–292, § 5(2)(B)–(D), added subpar. (D).
 
-2000—Subsec. (b)(1). Pub. L. 106–568, § 1003(j)(1), and Pub. L. 106–569, § 503(i)(1), amended par. (1) identically, substituting “Act of March 3, 1931 (commonly known as the Davis-Bacon Act; chapter 411; 46 Stat. 1494; 40 U.S.C. 276a et seq.)” for “Davis-Bacon Act (40 U.S.C. 276a–276a–5)”.
+2000—Subsec. (b)(1). Pub. L. 106–568, § 1003(j)(1), and Pub. L. 106–569, § 503(i)(1), amended par. (1) identically, substituting “Act of March 3, 1931 (commonly known as the Davis-Bacon Act; chapter 411; 46 Stat. 1494; 40 U.S.C. 276a et seq.)” for “Davis-Bacon Act (40 U.S.C. 276a–276a–5)”.
 
-Subsec. (b)(3). Pub. L. 106–568, § 1003(j)(2), and Pub. L. 106–569, § 503(i)(2), amended subsec. (b) identically, adding par. (3).
+Subsec. (b)(3). Pub. L. 106–568, § 1003(j)(2), and Pub. L. 106–569, § 503(i)(2), amended subsec. (b) identically, adding par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -807,7 +807,7 @@ Subsec. (b)(3). Pub. L. 106–568, § 1003(j)(2), and Pub. L. 106–569, § 
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
 
-### § 4115. Environmental review
+### § 4115. Environmental review
 
 **(a) In general**
 
@@ -861,13 +861,13 @@ The Secretary shall approve the release of funds subject to the procedures autho
 
 **(4)** may be corrected through the sole action of the recipient.
 
-(Pub. L. 104–330, title I, § 105, Oct. 26, 1996, 110 Stat. 4028; Pub. L. 106–568, title X, § 1003(d), Dec. 27, 2000, 114 Stat. 2926; Pub. L. 106–569, title V, § 503(d), Dec. 27, 2000, 114 Stat. 2962.)
+(Pub. L. 104–330, title I, § 105, Oct. 26, 1996, 110 Stat. 4028; Pub. L. 106–568, title X, § 1003(d), Dec. 27, 2000, 114 Stat. 2926; Pub. L. 106–569, title V, § 503(d), Dec. 27, 2000, 114 Stat. 2962.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 This chapter, referred to in subsecs. (a)(1) and (c)(2), was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
@@ -881,7 +881,7 @@ This chapter, referred to in subsecs. (a)(1) and (c)(2), was in the original “
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
 
-### § 4116. Regulations
+### § 4116. Regulations
 
 **(a) Transition requirements**
 
@@ -933,7 +933,7 @@ Not less frequently than once every 7 years, the Secretary, in consultation with
 
 This section shall take effect on October 26, 1996.
 
-(Pub. L. 104–330, title I, § 106, Oct. 26, 1996, 110 Stat. 4029; Pub. L. 107–292, § 6, Nov. 13, 2002, 116 Stat. 2054; Pub. L. 110–411, title I, § 105, Oct. 14, 2008, 122 Stat. 4324.)
+(Pub. L. 104–330, title I, § 106, Oct. 26, 1996, 110 Stat. 4029; Pub. L. 107–292, § 6, Nov. 13, 2002, 116 Stat. 2054; Pub. L. 110–411, title I, § 105, Oct. 14, 2008, 122 Stat. 4324.)
 
 **Editorial Notes**
 
@@ -943,23 +943,23 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this A
 
 For the effective date of this chapter, referred to in subsecs. (a)(1) and (b)(1), as Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of this title.
 
-The United States Housing Act of 1937, referred to in subsec. (a)(1), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
+The United States Housing Act of 1937, referred to in subsec. (a)(1), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
 The date of enactment of the Native American Housing Assistance and Self-Determination Reauthorization Act of 2008, referred to in subsec. (b)(2)(B)(i), (C), is the date of enactment of Pub. L. 110–411, which was approved Oct. 14, 2008.
 
 **Amendments**
 
-2008—Subsec. (b)(2)(B)(i). Pub. L. 110–411, § 105(1), substituted “Not later than 180 days after the date of enactment of the Native American Housing Assistance and Self-Determination Reauthorization Act of 2008 and any other Act to reauthorize this chapter, the Secretary” for “The Secretary”.
+2008—Subsec. (b)(2)(B)(i). Pub. L. 110–411, § 105(1), substituted “Not later than 180 days after the date of enactment of the Native American Housing Assistance and Self-Determination Reauthorization Act of 2008 and any other Act to reauthorize this chapter, the Secretary” for “The Secretary”.
 
-Subsec. (b)(2)(C), (D). Pub. L. 110–411, § 105(2), added subpars. (C) and (D).
+Subsec. (b)(2)(C), (D). Pub. L. 110–411, § 105(2), added subpars. (C) and (D).
 
-2002—Subsec. (b)(2)(A). Pub. L. 107–292 inserted “, including any regulations that may be required pursuant to amendments made to this chapter after October 26, 1996,” after “required under this chapter”.
+2002—Subsec. (b)(2)(A). Pub. L. 107–292 inserted “, including any regulations that may be required pursuant to amendments made to this chapter after October 26, 1996,” after “required under this chapter”.
 
-### § 4117. Authorization of appropriations
+### § 4117. Authorization of appropriations
 
 There are authorized to be appropriated for grants under this subchapter such sums as may be necessary for each of fiscal years 2009 through 2013. This section shall take effect on October 26, 1996.
 
-(Pub. L. 104–330, title I, § 108, Oct. 26, 1996, 110 Stat. 4030; Pub. L. 107–292, § 2(a), Nov. 13, 2002, 116 Stat. 2053; Pub. L. 110–411, title VII, § 701(a), Oct. 14, 2008, 122 Stat. 4334.)
+(Pub. L. 104–330, title I, § 108, Oct. 26, 1996, 110 Stat. 4030; Pub. L. 107–292, § 2(a), Nov. 13, 2002, 116 Stat. 2053; Pub. L. 110–411, title VII, § 701(a), Oct. 14, 2008, 122 Stat. 4334.)
 
 **Editorial Notes**
 
@@ -973,7 +973,7 @@ There are authorized to be appropriated for grants under this subchapter such su
 
 ### Part A—General Block Grant Program
 
-#### § 4131. National objectives and eligible families
+#### § 4131. National objectives and eligible families
 
 **(a) Primary objective** The national objectives of this chapter are—
 
@@ -1021,7 +1021,7 @@ Notwithstanding paragraph (1), a recipient may provide housing or housing assist
 
 Notwithstanding paragraph (1), a recipient may provide housing or housing assistance provided through affordable housing activities assisted with grant amounts under this chapter to a law enforcement officer on the reservation or other Indian area, who is employed full-time by a Federal, State, county or tribal government, and in implementing such full-time employment is sworn to uphold, and make arrests for violations of Federal, State, county or tribal law, if the recipient determines that the presence of the law enforcement officer on the Indian reservation or other Indian area may deter crime.
 
-**(6) 1 [footnote: 1 So in original. Two pars. (6) have been enacted.] Preference for tribal members and other Indian families**
+**(6) 1 [footnote: 1 So in original. Two pars. (6) have been enacted.] Preference for tribal members and other Indian families**
 
 The Indian housing plan for an Indian tribe may require preference, for housing or housing assistance provided through affordable housing activities assisted with grant amounts provided under this chapter on behalf of such tribe, to be given (to the extent practicable) to Indian families who are members of such tribe, or to other Indian families. In any case in which the applicable Indian housing plan for an Indian tribe provides for preference under this paragraph, the recipient for the tribe shall ensure that housing activities that are assisted with grant amounts under this chapter for such tribe are subject to such preference.
 
@@ -1029,7 +1029,7 @@ The Indian housing plan for an Indian tribe may require preference, for housing 
 
 Title VI of the Civil Rights Act of 1964 [42 U.S.C. 2000d et seq.] and title VIII of the Civil Rights Act of 1968 [42 U.S.C. 3601 et seq.] shall not apply to actions by federally recognized tribes and the tribally designated housing entities of those tribes under this chapter.
 
-(Pub. L. 104–330, title II, § 201, Oct. 26, 1996, 110 Stat. 4031; Pub. L. 105–276, title V, § 595(e)(7), Oct. 21, 1998, 112 Stat. 2657; Pub. L. 106–377, § 1(a)(1) [title II, § 210], Oct. 27, 2000, 114 Stat. 1441, 1441A–26; Pub. L. 106–568, title X, § 1003(e), Dec. 27, 2000, 114 Stat. 2926; Pub. L. 110–411, title II, § 201, Oct. 14, 2008, 122 Stat. 4324.)
+(Pub. L. 104–330, title II, § 201, Oct. 26, 1996, 110 Stat. 4031; Pub. L. 105–276, title V, § 595(e)(7), Oct. 21, 1998, 112 Stat. 2657; Pub. L. 106–377, § 1(a)(1) [title II, § 210], Oct. 27, 2000, 114 Stat. 1441, 1441A–26; Pub. L. 106–568, title X, § 1003(e), Dec. 27, 2000, 114 Stat. 2926; Pub. L. 110–411, title II, § 201, Oct. 14, 2008, 122 Stat. 4324.)
 
 **Editorial Notes**
 
@@ -1037,33 +1037,33 @@ Title VI of the Civil Rights Act of 1964 [42 U.S.C. 2000d et seq.] and title VII
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (b)(6), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (b)(6), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-The Civil Rights Act of 1968, referred to in subsec. (b)(6), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73. Title VIII of the Act, known as the Fair Housing Act, is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+The Civil Rights Act of 1968, referred to in subsec. (b)(6), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73. Title VIII of the Act, known as the Fair Housing Act, is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 
 **Amendments**
 
-2008—Subsec. (b)(1). Pub. L. 110–411, § 201(1), inserted “and except with respect to loan guarantees under the demonstration program under subchapter VI,” after “paragraphs (2) and (4),”.
+2008—Subsec. (b)(1). Pub. L. 110–411, § 201(1), inserted “and except with respect to loan guarantees under the demonstration program under subchapter VI,” after “paragraphs (2) and (4),”.
 
-Subsec. (b)(2). Pub. L. 110–411, § 201(2), added subpar. (A), designated second sentence as subpar. (B) and inserted heading, and struck out former first sentence which read as follows: “A recipient may provide assistance for homeownership activities under section 4132(2) of this title, model activities under section 4132(6) of this title, or loan guarantee activities under subchapter VI of this chapter to Indian families who are not low-income families, to the extent that the Secretary approves the activities pursuant to such section or subchapter because there is a need for housing for such families that cannot reasonably be met without such assistance.”
+Subsec. (b)(2). Pub. L. 110–411, § 201(2), added subpar. (A), designated second sentence as subpar. (B) and inserted heading, and struck out former first sentence which read as follows: “A recipient may provide assistance for homeownership activities under section 4132(2) of this title, model activities under section 4132(6) of this title, or loan guarantee activities under subchapter VI of this chapter to Indian families who are not low-income families, to the extent that the Secretary approves the activities pursuant to such section or subchapter because there is a need for housing for such families that cannot reasonably be met without such assistance.”
 
-Subsec. (b)(3). Pub. L. 110–411, § 201(3), substituted “Essential” for “Non-Indian” in heading and “for a family” for “for a non-Indian family” in text.
+Subsec. (b)(3). Pub. L. 110–411, § 201(3), substituted “Essential” for “Non-Indian” in heading and “for a family” for “for a non-Indian family” in text.
 
-Subsec. (b)(4)(A)(i). Pub. L. 110–411, § 201(4), inserted “or other unit of local government,” after “county,”.
+Subsec. (b)(4)(A)(i). Pub. L. 110–411, § 201(4), inserted “or other unit of local government,” after “county,”.
 
-2000—Subsec. (b)(1). Pub. L. 106–568, § 1003(e)(1), substituted “paragraphs (2) and (4)” for “paragraph (2)”.
+2000—Subsec. (b)(1). Pub. L. 106–568, § 1003(e)(1), substituted “paragraphs (2) and (4)” for “paragraph (2)”.
 
-Subsec. (b)(4). Pub. L. 106–568, § 1003(e)(3), added par. (4). Former par. (4) redesignated (5).
+Subsec. (b)(4). Pub. L. 106–568, § 1003(e)(3), added par. (4). Former par. (4) redesignated (5).
 
-Pub. L. 106–377, § 1(a)(1) [title II, § 210(2)], added par. (4). Former par. (4) redesignated (5).
+Pub. L. 106–377, § 1(a)(1) [title II, § 210(2)], added par. (4). Former par. (4) redesignated (5).
 
-Subsec. (b)(5). Pub. L. 106–568, § 1003(e)(2), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+Subsec. (b)(5). Pub. L. 106–568, § 1003(e)(2), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Pub. L. 106–377, § 1(a)(1) [title II, § 210(1)], redesignated par. (4) as (5). Former par. (5) redesignated (6).
+Pub. L. 106–377, § 1(a)(1) [title II, § 210(1)], redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Subsec. (b)(6). Pub. L. 106–568, § 1003(e)(2), redesignated par. (5), relating to preference for tribal members and other Indian families, as (6).
+Subsec. (b)(6). Pub. L. 106–568, § 1003(e)(2), redesignated par. (5), relating to preference for tribal members and other Indian families, as (6).
 
-Pub. L. 106–377, § 1(a)(1) [title II, § 210(1)], redesignated par. (5), relating to exemption, as (6).
+Pub. L. 106–377, § 1(a)(1) [title II, § 210(1)], redesignated par. (5), relating to exemption, as (6).
 
 1998—Subsec. (b)(5). Pub. L. 105–276 substituted “federally recognized tribes and the tribally designated housing entities of those tribes” for “Indian tribes” and “chapter” for “subsection”.
 
@@ -1073,7 +1073,7 @@ Pub. L. 106–377, § 1(a)(1) [title II, § 210(1)], redesignated par. (5), 
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
 
-#### § 4132. Eligible affordable housing activities
+#### § 4132. Eligible affordable housing activities
 
 Affordable housing activities under this subchapter are activities, in accordance with the requirements of this subchapter, to develop, operate, maintain, or support affordable housing for rental or homeownership, or to provide housing services with respect to affordable housing, through the following activities:
 
@@ -1117,7 +1117,7 @@ Not later than 1 year after November 13, 2002, the Secretary shall submit the st
 
 Consistent with the provisions of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the Secretary shall conduct and submit to Congress a study of the feasibility of establishing a demonstration project in which Indian tribes and tribal organizations are authorized to receive assistance in a manner that maximizes tribal authority and decision-making in the design and implementation of Federal housing and related activity funding.
 
@@ -1135,7 +1135,7 @@ Subject to subparagraph (B), the deposit of amounts, including grant amounts und
 
 A reserve account established under subparagraph (A) shall consist of not more than an amount equal to ¼ of the 5-year average of the annual amount used by a recipient for administration and planning under paragraph (2).
 
-(Pub. L. 104–330, title II, § 202, Oct. 26, 1996, 110 Stat. 4032; Pub. L. 107–292, § 8, Nov. 13, 2002, 116 Stat. 2055; Pub. L. 109–58, title V, § 506(b), Aug. 8, 2005, 119 Stat. 779; Pub. L. 110–411, title II, § 202, Oct. 14, 2008, 122 Stat. 4325.)
+(Pub. L. 104–330, title II, § 202, Oct. 26, 1996, 110 Stat. 4032; Pub. L. 107–292, § 8, Nov. 13, 2002, 116 Stat. 2055; Pub. L. 109–58, title V, § 506(b), Aug. 8, 2005, 119 Stat. 779; Pub. L. 110–411, title II, § 202, Oct. 14, 2008, 122 Stat. 4325.)
 
 **Editorial Notes**
 
@@ -1145,17 +1145,17 @@ This chapter, referred to in pars. (4), (6), and (7)(A), was in the original “
 
 The Native American Housing Assistance and Self-Determination Reauthorization Act of 2002, referred to in par. (7)(A), is Pub. L. 107–292, Nov. 13, 2002, 116 Stat. 2053. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 4101 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in par. (8)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in par. (8)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Amendments**
 
-2008—Pub. L. 110–411, § 202(1), substituted “to develop, operate, maintain, or support” for “to develop or to support” in introductory provisions.
+2008—Pub. L. 110–411, § 202(1), substituted “to develop, operate, maintain, or support” for “to develop or to support” in introductory provisions.
 
-Par. (2). Pub. L. 110–411, § 202(2), substituted “development and rehabilitation of utilities, necessary infrastructure,” for “development of utilities” and inserted “mold remediation,” after “energy efficiency,”.
+Par. (2). Pub. L. 110–411, § 202(2), substituted “development and rehabilitation of utilities, necessary infrastructure,” for “development of utilities” and inserted “mold remediation,” after “energy efficiency,”.
 
-Par. (4). Pub. L. 110–411, § 202(3), inserted “the costs of operation and maintenance of units developed with funds provided under this chapter,” after “rental assistance,”.
+Par. (4). Pub. L. 110–411, § 202(3), inserted “the costs of operation and maintenance of units developed with funds provided under this chapter,” after “rental assistance,”.
 
-Par. (9). Pub. L. 110–411, § 202(4), added par. (9).
+Par. (9). Pub. L. 110–411, § 202(4), added par. (9).
 
 2005—Par. (2). Pub. L. 109–58, which directed amendment of section 202 of the Native American Housing and Self-Determination Act of 1996 by inserting “improvement to achieve greater energy efficiency,” after “planning,” in par. (2), was executed by making the insertion in par. (2) of this section, which is section 202 of the Native American Housing Assistance and Self-Determination Act of 1996, to reflect the probable intent of Congress.
 
@@ -1171,7 +1171,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
 
-#### § 4133. Program requirements
+#### § 4133. Program requirements
 
 **(a) Rents**
 
@@ -1213,7 +1213,7 @@ Any amount of a grant provided to an Indian tribe under section 4111 of this tit
 
 Notwithstanding any other provision of law, a recipient shall not be required to act in accordance with any otherwise applicable competitive procurement rule or procedure with respect to the procurement, using a grant provided under this chapter, of goods and services the value of which is less than $5,000.
 
-(Pub. L. 104–330, title II, § 203, Oct. 26, 1996, 110 Stat. 4032; Pub. L. 110–411, title II, § 203, Oct. 14, 2008, 122 Stat. 4325.)
+(Pub. L. 104–330, title II, § 203, Oct. 26, 1996, 110 Stat. 4032; Pub. L. 110–411, title II, § 203, Oct. 14, 2008, 122 Stat. 4325.)
 
 **Editorial Notes**
 
@@ -1221,7 +1221,7 @@ Notwithstanding any other provision of law, a recipient shall not be required to
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-The United States Housing Act of 1937, referred to in subsec. (b), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
+The United States Housing Act of 1937, referred to in subsec. (b), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
 **Amendments**
 
@@ -1233,7 +1233,7 @@ The United States Housing Act of 1937, referred to in subsec. (b), is act Sept. 
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
 
-#### § 4134. Types of investments
+#### § 4134. Types of investments
 
 **(a) In general** Subject to section 4133 of this title and the Indian housing plan for an Indian tribe, the recipient for that tribe shall have—
 
@@ -1245,7 +1245,7 @@ Section effective Oct. 1, 1997, except as otherwise expressly provided, see sect
 
 A recipient may invest grant amounts for the purposes of carrying out affordable housing activities in investment securities and other obligations as approved by the Secretary.
 
-(Pub. L. 104–330, title II, § 204, Oct. 26, 1996, 110 Stat. 4033.)
+(Pub. L. 104–330, title II, § 204, Oct. 26, 1996, 110 Stat. 4033.)
 
 **Editorial Notes**
 
@@ -1259,7 +1259,7 @@ This chapter, referred to in subsec. (a)(1), was in the original “this Act”,
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
 
-#### § 4135. Low-income requirement and income targeting
+#### § 4135. Low-income requirement and income targeting
 
 **(a) In general** Housing shall qualify as affordable housing for purposes of this chapter only if—
 
@@ -1287,7 +1287,7 @@ Notwithstanding subsection (a), housing assisted pursuant to section 4131(b)(2) 
 
 The provisions of paragraph (2) of subsection (a) regarding binding commitments for the remaining useful life of property shall not apply to a family or household member who subsequently takes ownership of a homeownership unit.
 
-(Pub. L. 104–330, title II, § 205, Oct. 26, 1996, 110 Stat. 4033; Pub. L. 105–276, title V, § 595(e)(8), Oct. 21, 1998, 112 Stat. 2657; Pub. L. 110–411, title II, § 204, Oct. 14, 2008, 122 Stat. 4326.)
+(Pub. L. 104–330, title II, § 205, Oct. 26, 1996, 110 Stat. 4033; Pub. L. 105–276, title V, § 595(e)(8), Oct. 21, 1998, 112 Stat. 2657; Pub. L. 110–411, title II, § 204, Oct. 14, 2008, 122 Stat. 4326.)
 
 **Editorial Notes**
 
@@ -1295,7 +1295,7 @@ The provisions of paragraph (2) of subsection (a) regarding binding commitments 
 
 This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-Section 1437bb of title 42, referred to in subsec. (a)(2), was repealed by Pub. L. 104–330, title V, § 501(a), Oct. 26, 1996, 110 Stat. 4041, effective Oct. 1, 1997.
+Section 1437bb of title 42, referred to in subsec. (a)(2), was repealed by Pub. L. 104–330, title V, § 501(a), Oct. 26, 1996, 110 Stat. 4041, effective Oct. 1, 1997.
 
 For the date of the effectiveness of this chapter, referred to in subsec. (a)(2), as Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of this title.
 
@@ -1311,11 +1311,11 @@ For the date of the effectiveness of this chapter, referred to in subsec. (a)(2)
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
 
-#### § 4136. Repealed. Pub. L. 106–568, title X, § 1003(k)(2), Dec. 27, 2000, 114 Stat. 2930; Pub. L. 106–569, title V, § 503(j)(2), Dec. 27, 2000, 114 Stat. 2966
+#### § 4136. Repealed. Pub. L. 106–568, title X, § 1003(k)(2), Dec. 27, 2000, 114 Stat. 2930; Pub. L. 106–569, title V, § 503(j)(2), Dec. 27, 2000, 114 Stat. 2966
 
-Section, Pub. L. 104–330, title II, § 206, Oct. 26, 1996, 110 Stat. 4034; Pub. L. 105–276, title V, § 595(a), Oct. 21, 1998, 112 Stat. 2656, related to certification of compliance with subsidy layering requirements.
+Section, Pub. L. 104–330, title II, § 206, Oct. 26, 1996, 110 Stat. 4034; Pub. L. 105–276, title V, § 595(a), Oct. 21, 1998, 112 Stat. 2656, related to certification of compliance with subsidy layering requirements.
 
-#### § 4137. Lease requirements and tenant selection
+#### § 4137. Lease requirements and tenant selection
 
 **(a) Leases** Except to the extent otherwise provided by or inconsistent with tribal law, in renting dwelling units in affordable housing assisted with grant amounts provided under this chapter, the owner or manager of the housing shall utilize leases that—
 
@@ -1349,7 +1349,7 @@ Section, Pub. L. 104–330, title II, § 206, Oct. 26, 1996, 110 Stat. 4034; P
 
 **(B)** the prompt notification in writing to any rejected applicant of that rejection and the grounds for that rejection.
 
-(Pub. L. 104–330, title II, § 207, Oct. 26, 1996, 110 Stat. 4034; Pub. L. 105–276, title V, § 595(b), (e)(9), Oct. 21, 1998, 112 Stat. 2656, 2658.)
+(Pub. L. 104–330, title II, § 207, Oct. 26, 1996, 110 Stat. 4034; Pub. L. 105–276, title V, § 595(b), (e)(9), Oct. 21, 1998, 112 Stat. 2656, 2658.)
 
 **Editorial Notes**
 
@@ -1359,11 +1359,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Amendments**
 
-1998—Subsec. (b). Pub. L. 105–276, § 595(b)(1), (2), in heading substituted “Tenant and homebuyer selection” for “Tenant selection” and, in introductory provisions, inserted “and homebuyer” after “tenant”.
+1998—Subsec. (b). Pub. L. 105–276, § 595(b)(1), (2), in heading substituted “Tenant and homebuyer selection” for “Tenant selection” and, in introductory provisions, inserted “and homebuyer” after “tenant”.
 
-Subsec. (b)(3)(A). Pub. L. 105–276, § 595(b)(3), inserted “and homebuyers” after “tenants”.
+Subsec. (b)(3)(A). Pub. L. 105–276, § 595(b)(3), inserted “and homebuyers” after “tenants”.
 
-Subsec. (b)(3)(B). Pub. L. 105–276, § 595(e)(9), substituted “to any rejected applicant of that rejection and the grounds for that rejection” for “of any rejected applicant of the grounds for any rejection”.
+Subsec. (b)(3)(B). Pub. L. 105–276, § 595(e)(9), substituted “to any rejected applicant of that rejection and the grounds for that rejection” for “of any rejected applicant of the grounds for any rejection”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1371,7 +1371,7 @@ Subsec. (b)(3)(B). Pub. L. 105–276, § 595(e)(9), substituted “to any reje
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
 
-#### § 4138. Availability of records
+#### § 4138. Availability of records
 
 **(a) Provision of information**
 
@@ -1385,7 +1385,7 @@ A law enforcement agency described in subsection (a) shall provide information u
 
 An Indian tribe or tribally designated housing entity receiving information under this section may use such information only for the purposes provided in this section and such information may not be disclosed to any person who is not an officer, employee, or authorized representative of the tribe or entity or the owner of housing assisted under this chapter, and who has a job-related need to have access to the information for the purposes under this section. For judicial eviction proceedings, disclosures may be made to the extent necessary. The Secretary shall, by regulation, establish procedures necessary to ensure that information provided under this section to any tribe or entity is used, and confidentiality is maintained, as required under this section.
 
-(Pub. L. 104–330, title II, § 208, Oct. 26, 1996, 110 Stat. 4035; Pub. L. 105–276, title V, § 595(e)(10), Oct. 21, 1998, 112 Stat. 2658; Pub. L. 110–411, title II, § 205, Oct. 14, 2008, 122 Stat. 4326.)
+(Pub. L. 104–330, title II, § 208, Oct. 26, 1996, 110 Stat. 4035; Pub. L. 105–276, title V, § 595(e)(10), Oct. 21, 1998, 112 Stat. 2658; Pub. L. 110–411, title II, § 205, Oct. 14, 2008, 122 Stat. 4326.)
 
 **Editorial Notes**
 
@@ -1397,9 +1397,9 @@ This chapter, referred to in subsecs. (a) and (c), was in the original “this A
 
 2008—Subsec. (a). Pub. L. 110–411 inserted “applicants for employment, and of” after “records of”.
 
-1998—Subsec. (a). Pub. L. 105–276, § 595(e)(10)(A), substituted “subsection (b)” for “paragraph (2)”.
+1998—Subsec. (a). Pub. L. 105–276, § 595(e)(10)(A), substituted “subsection (b)” for “paragraph (2)”.
 
-Subsec. (b). Pub. L. 105–276, § 595(e)(10)(B), substituted “subsection (a)” for “paragraph (1)”.
+Subsec. (b). Pub. L. 105–276, § 595(e)(10)(B), substituted “subsection (a)” for “paragraph (1)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1407,11 +1407,11 @@ Subsec. (b). Pub. L. 105–276, § 595(e)(10)(B), substituted “subsection (a
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
 
-#### § 4139. Noncompliance with affordable housing requirement
+#### § 4139. Noncompliance with affordable housing requirement
 
 If a recipient uses grant amounts to provide affordable housing under this subchapter, and at any time during the useful life of the housing the recipient does not comply with the requirement under section 4135(a)(2) of this title, the Secretary shall take appropriate action under section 4161(a) of this title.
 
-(Pub. L. 104–330, title II, § 209, Oct. 26, 1996, 110 Stat. 4035; Pub. L. 105–276, title V, § 595(c), Oct. 21, 1998, 112 Stat. 2656; Pub. L. 106–568, title X, § 1003(f)(1), Dec. 27, 2000, 114 Stat. 2927; Pub. L. 106–569, title V, § 503(e)(1), Dec. 27, 2000, 114 Stat. 2962.)
+(Pub. L. 104–330, title II, § 209, Oct. 26, 1996, 110 Stat. 4035; Pub. L. 105–276, title V, § 595(c), Oct. 21, 1998, 112 Stat. 2656; Pub. L. 106–568, title X, § 1003(f)(1), Dec. 27, 2000, 114 Stat. 2927; Pub. L. 106–569, title V, § 503(e)(1), Dec. 27, 2000, 114 Stat. 2962.)
 
 **Editorial Notes**
 
@@ -1427,17 +1427,17 @@ If a recipient uses grant amounts to provide affordable housing under this subch
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
 
-#### § 4140. Continued use of amounts for affordable housing
+#### § 4140. Continued use of amounts for affordable housing
 
 Any funds for programs for low-income housing under the United States Housing Act of 1937 [42 U.S.C. 1437 et seq.] that, on the date of the applicability of this chapter to an Indian tribe, are owned by, or in the possession or under the control of, the Indian housing authority for the tribe, including all reserves not otherwise obligated, shall be considered assistance under this chapter and subject to the provisions of this chapter relating to use of such assistance.
 
-(Pub. L. 104–330, title II, § 210, Oct. 26, 1996, 110 Stat. 4036.)
+(Pub. L. 104–330, title II, § 210, Oct. 26, 1996, 110 Stat. 4036.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The United States Housing Act of 1937, referred to in text, is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
+The United States Housing Act of 1937, referred to in text, is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
 The date of the applicability of this chapter, referred to in text, probably means the effective date of Pub. L. 104–330, which is Oct. 1, 1997, except as otherwise expressly provided. See section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of this title.
 
@@ -1451,21 +1451,21 @@ Section effective Oct. 1, 1997, except as otherwise expressly provided, see sect
 
 ### Part B—Self-Determined Housing Activities for Tribal Communities
 
-#### § 4145. Purpose
+#### § 4145. Purpose
 
 The purpose of this part is to establish a program for self-determined housing activities for the tribal communities to provide Indian tribes with the flexibility to use a portion of the grant amounts under section 4111 of this title for the Indian tribe in manners that are wholly self-determined by the Indian tribe for housing activities involving construction, acquisition, rehabilitation, or infrastructure relating to housing activities or housing that will benefit the community served by the Indian tribe.
 
-(Pub. L. 104–330, title II, § 231, as added Pub. L. 110–411, title II, § 206(a)(2), Oct. 14, 2008, 122 Stat. 4326.)
+(Pub. L. 104–330, title II, § 231, as added Pub. L. 110–411, title II, § 206(a)(2), Oct. 14, 2008, 122 Stat. 4326.)
 
-#### § 4145a. Program authority
+#### § 4145a. Program authority
 
 **(a) Definition of qualifying Indian tribe** In this section, the term “qualifying Indian tribe” means, with respect to a fiscal year, an Indian tribe or tribally designated housing entity—
 
 **(1)** to or on behalf of which a grant is made under section 4111 of this title;
 
-**(2)** that has complied with the requirements of section 4112(b)(6) 1
+**(2)** that has complied with the requirements of section 4112(b)(6) 1
 
-<sup>1</sup>  So in original. Section 4112(b) of this title does not contain a par. (6).
+<sup>1</sup> So in original. Section 4112(b) of this title does not contain a par. (6).
 
 of this title; and
 
@@ -1485,15 +1485,15 @@ Under the program under this part, for each of fiscal years 2009 through 2013, t
 
 **(2)** $2,000,000.
 
-(Pub. L. 104–330, title II, § 232, as added Pub. L. 110–411, title II, § 206(a)(2), Oct. 14, 2008, 122 Stat. 4326.)
+(Pub. L. 104–330, title II, § 232, as added Pub. L. 110–411, title II, § 206(a)(2), Oct. 14, 2008, 122 Stat. 4326.)
 
-#### § 4145b. Use of amounts for housing activities
+#### § 4145b. Use of amounts for housing activities
 
 **(a) Eligible housing activities**
 
-Any amounts made available for use under this part by a recipient for an Indian tribe shall be used only for housing activities, as selected at the discretion of the recipient and described in the Indian housing plan for the Indian tribe pursuant to section 4112(b)(6) 1
+Any amounts made available for use under this part by a recipient for an Indian tribe shall be used only for housing activities, as selected at the discretion of the recipient and described in the Indian housing plan for the Indian tribe pursuant to section 4112(b)(6) 1
 
-<sup>1</sup>  So in original. Section 4112(b) of this title does not contain a par. (6).
+<sup>1</sup> So in original. Section 4112(b) of this title does not contain a par. (6).
 
 of this title, for the construction, acquisition, or rehabilitation of housing or infrastructure in accordance with section 4132 of this title to provide a benefit to families described in section 4131(b)(1) of this title.
 
@@ -1501,9 +1501,9 @@ of this title, for the construction, acquisition, or rehabilitation of housing o
 
 Amounts made available for use under this part may not be used for commercial or economic development.
 
-(Pub. L. 104–330, title II, § 233, as added Pub. L. 110–411, title II, § 206(a)(2), Oct. 14, 2008, 122 Stat. 4327.)
+(Pub. L. 104–330, title II, § 233, as added Pub. L. 110–411, title II, § 206(a)(2), Oct. 14, 2008, 122 Stat. 4327.)
 
-#### § 4145c. Inapplicability of other provisions
+#### § 4145c. Inapplicability of other provisions
 
 **(a) In general** Except as otherwise specifically provided in this chapter, subchapter I, part A of subchapter II, and subchapters III through VIII shall not apply to—
 
@@ -1521,9 +1521,9 @@ Amounts made available for use under this part may not be used for commercial or
 
 **(4)** Section 4111(k) of this title (relating to tribal preference in employment and contracting).
 
-**(5)** Section 4112(b)(4) 1
+**(5)** Section 4112(b)(4) 1
 
-<sup>1</sup>  So in original. Section 4112(b) of this title does not contain a par. (4).
+<sup>1</sup> So in original. Section 4112(b) of this title does not contain a par. (4).
 
 of this title (relating to certification of compliance).
 
@@ -1537,9 +1537,9 @@ of this title (relating to certification of compliance).
 
 **(10)** Section 4133(g) of this title (relating to a de minimis exemption for procurement of goods and services).
 
-**(11)** Section 4136 2
+**(11)** Section 4136 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title (relating to treatment of funds).
 
@@ -1551,7 +1551,7 @@ of this title (relating to treatment of funds).
 
 **(15)** Section 4211 of this title (relating to 50-year leasehold interests in trust or restricted lands for housing purposes).
 
-(Pub. L. 104–330, title II, § 234, as added Pub. L. 110–411, title II, § 206(a)(2), Oct. 14, 2008, 122 Stat. 4327.)
+(Pub. L. 104–330, title II, § 234, as added Pub. L. 110–411, title II, § 206(a)(2), Oct. 14, 2008, 122 Stat. 4327.)
 
 **Editorial Notes**
 
@@ -1561,9 +1561,9 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 Subchapters I through VIII, referred to in subsecs. (a) and (b), were in the original references to titles I through VIII of Pub. L. 104–330, which enacted subchapters I through VIII of this chapter. In addition to enacting subchapter V, title V enacted section 12899h–1 of Title 42, The Public Health and Welfare, amended sections 1437a, 1437c to 1437e, 1437g, 1437*l*, 1437n, 1437u to 1437x, 1437aaa–5, 1437aaa–6, 1439, 11371 to 11376, 11382, 11401, 11403g, 11408, 11903a, 12747, and 12838 of Title 42, repealed sections 1437aa to 1437ee of Title 42, enacted provisions set out as notes under sections 11371, 12747, and 12899h–1 of Title 42, amended provisions set out as a note under section 11301 of Title 42, and repealed provisions set out as a note under section 1701z–6 of Title 12, Banks and Banking. In addition to enacting subchapter VII, title VII amended sections 1715z–13a and 1721 of Title 12 and sections 11902 to 11905 of Title 42. For complete classification of titles I to VIII to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-Section 4136 of this title, referred to in subsec. (b)(11), related to certification of compliance with subsidy layering requirements and was repealed by Pub. L. 106–568, title X, § 1003(k)(2), Dec. 27, 2000, 114 Stat. 2930 and Pub. L. 106–569, title V, § 503(j)(2), Dec. 27, 2000, 114 Stat. 2966.
+Section 4136 of this title, referred to in subsec. (b)(11), related to certification of compliance with subsidy layering requirements and was repealed by Pub. L. 106–568, title X, § 1003(k)(2), Dec. 27, 2000, 114 Stat. 2930 and Pub. L. 106–569, title V, § 503(j)(2), Dec. 27, 2000, 114 Stat. 2966.
 
-#### § 4145d. Review and report
+#### § 4145d. Review and report
 
 **(a) Review** During calendar year 2011, the Secretary shall conduct a review of the results achieved by the program under this part to determine—
 
@@ -1593,7 +1593,7 @@ Section 4136 of this title, referred to in subsec. (b)(11), related to certifica
 
 Notwithstanding any other provision of this chapter, recipients participating in the program under this part shall provide such information to the Secretary as the Secretary may request, in sufficient detail and in a timely manner sufficient to ensure that the review and report required by this section is accomplished in a timely manner.
 
-(Pub. L. 104–330, title II, § 235, as added Pub. L. 110–411, title II, § 206(a)(2), Oct. 14, 2008, 122 Stat. 4328.)
+(Pub. L. 104–330, title II, § 235, as added Pub. L. 110–411, title II, § 206(a)(2), Oct. 14, 2008, 122 Stat. 4328.)
 
 **Editorial Notes**
 
@@ -1603,11 +1603,11 @@ This chapter, referred to in subsec. (c), was in the original “this Act”, me
 
 ## SUBCHAPTER III—ALLOCATION OF GRANT AMOUNTS
 
-### § 4151. Annual allocation
+### § 4151. Annual allocation
 
 For each fiscal year, the Secretary shall allocate any amounts made available for assistance under this chapter for the fiscal year, in accordance with the formula established pursuant to section 4152 of this title, among Indian tribes that comply with the requirements under this chapter for a grant under this chapter.
 
-(Pub. L. 104–330, title III, § 301, Oct. 26, 1996, 110 Stat. 4036.)
+(Pub. L. 104–330, title III, § 301, Oct. 26, 1996, 110 Stat. 4036.)
 
 **Editorial Notes**
 
@@ -1621,7 +1621,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
 
-### § 4152. Allocation formula
+### § 4152. Allocation formula
 
 **(a) Establishment**
 
@@ -1697,7 +1697,7 @@ The formula shall provide that, if, in any fiscal year, the total amount made av
 
 This section shall take effect on October 26, 1996.
 
-(Pub. L. 104–330, title III, § 302, Oct. 26, 1996, 110 Stat. 4036; Pub. L. 106–568, title X, § 1003(g), Dec. 27, 2000, 114 Stat. 2928; Pub. L. 106–569, title V, § 503(f), Dec. 27, 2000, 114 Stat. 2964; Pub. L. 110–411, title III, § 301, Oct. 14, 2008, 122 Stat. 4329.)
+(Pub. L. 104–330, title III, § 302, Oct. 26, 1996, 110 Stat. 4036; Pub. L. 106–568, title X, § 1003(g), Dec. 27, 2000, 114 Stat. 2928; Pub. L. 106–569, title V, § 503(f), Dec. 27, 2000, 114 Stat. 2964; Pub. L. 110–411, title III, § 301, Oct. 14, 2008, 122 Stat. 4329.)
 
 **Editorial Notes**
 
@@ -1705,23 +1705,23 @@ This section shall take effect on October 26, 1996.
 
 This chapter, referred to in subsecs. (a) and (d), was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-The United States Housing Act of 1937, referred to in subsecs. (b)(1)(A) and (d), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. Section 14 of the Act, which was classified to section 1437*l* of Title 42, was repealed by Pub. L. 105–276, title V, § 522(a), Oct. 21, 1998, 112 Stat. 2564. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
+The United States Housing Act of 1937, referred to in subsecs. (b)(1)(A) and (d), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. Section 14 of the Act, which was classified to section 1437*l* of Title 42, was repealed by Pub. L. 105–276, title V, § 522(a), Oct. 21, 1998, 112 Stat. 2564. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
 Subchapter V, referred to in subsec. (c)(2), was in the original “title V”, meaning title V of Pub. L. 104–330, which enacted subchapter V of this chapter and section 12899h–1 of Title 42, The Public Health and Welfare, amended sections 1437a, 1437c to 1437e, 1437g, 1437*l*, 1437n, 1437u to 1437x, 1437aaa–5, 1437aaa–6, 1439, 11371 to 11376, 11382, 11401, 11403g, 11408, 11903a, 12747, and 12838 of Title 42, repealed sections 1437aa to 1437ee of Title 42, enacted provisions set out as notes under sections 11371, 12747, and 12899h–1 of Title 42, amended provisions set out as a note under section 11301 of Title 42, and repealed provisions set out as a note under section 1701z–6 of Title 12, Banks and Banking. For complete classification of title V to the Code, see Tables.
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–411, § 301(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
+2008—Subsec. (a). Pub. L. 110–411, § 301(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Subsec. (b)(1). Pub. L. 110–411, § 301(2), added par. (1) and struck out former par. (1) which read as follows: “The number of low-income housing dwelling units owned or operated at the time pursuant to a contract between an Indian housing authority for the tribe and the Secretary.”
+Subsec. (b)(1). Pub. L. 110–411, § 301(2), added par. (1) and struck out former par. (1) which read as follows: “The number of low-income housing dwelling units owned or operated at the time pursuant to a contract between an Indian housing authority for the tribe and the Secretary.”
 
-2000—Subsec. (d)(1). Pub. L. 106–568, § 1003(g)(1), and Pub. L. 106–569, § 503(f)(1), which directed identical amendment of par. (1) by substituting subpar. (A) designation, heading, and “Except with respect to an Indian tribe described in subparagraph (B), the formula” for “The formula,”, were executed by making the substitution for “The formula” to reflect the probable intent of Congress.
+2000—Subsec. (d)(1). Pub. L. 106–568, § 1003(g)(1), and Pub. L. 106–569, § 503(f)(1), which directed identical amendment of par. (1) by substituting subpar. (A) designation, heading, and “Except with respect to an Indian tribe described in subparagraph (B), the formula” for “The formula,”, were executed by making the substitution for “The formula” to reflect the probable intent of Congress.
 
-Subsec. (d)(1)(B). Pub. L. 106–568, § 1003(g)(2), and Pub. L. 106–569, § 503(f)(2), amended par. (1) identically, adding subpar. (B).
+Subsec. (d)(1)(B). Pub. L. 106–568, § 1003(g)(2), and Pub. L. 106–569, § 503(f)(2), amended par. (1) identically, adding subpar. (B).
 
 ## SUBCHAPTER IV—COMPLIANCE, AUDITS, AND REPORTS
 
-### § 4161. Remedies for noncompliance
+### § 4161. Remedies for noncompliance
 
 **(a) Actions by Secretary affecting grant amounts**
 
@@ -1825,7 +1825,7 @@ The court shall have jurisdiction to affirm or modify the action of the Secretar
 
 Upon the filing of the record with the court, the jurisdiction of the court shall be exclusive and its judgment shall be final, except that such judgment shall be subject to review by the Supreme Court of the United States upon writ of certiorari or certification as provided in section 1254 of title 28.
 
-(Pub. L. 104–330, title IV, § 401, Oct. 26, 1996, 110 Stat. 4037; Pub. L. 106–568, title X, § 1003(h), (i), Dec. 27, 2000, 114 Stat. 2928, 2929; Pub. L. 106–569, title V, § 503(g), (h), Dec. 27, 2000, 114 Stat. 2964, 2965; Pub. L. 110–411, title IV, § 401, Oct. 14, 2008, 122 Stat. 4330.)
+(Pub. L. 104–330, title IV, § 401, Oct. 26, 1996, 110 Stat. 4037; Pub. L. 106–568, title X, § 1003(h), (i), Dec. 27, 2000, 114 Stat. 2928, 2929; Pub. L. 106–569, title V, § 503(g), (h), Dec. 27, 2000, 114 Stat. 2964, 2965; Pub. L. 110–411, title IV, § 401, Oct. 14, 2008, 122 Stat. 4330.)
 
 **Editorial Notes**
 
@@ -1837,9 +1837,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 2008—Subsec. (a)(2) to (4). Pub. L. 110–411 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-2000—Subsec. (a). Pub. L. 106–568, § 1003(h), and Pub. L. 106–569, § 503(g), amended subsec. (a) identically, designating existing provisions as par. (1), inserting heading, redesignating former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), realigning margins, designating concluding provisions as par. (2), inserting heading, substituting “If the Secretary takes an action under subparagraph (A), (B), or (C) of paragraph (1)” for “If the Secretary takes an action under paragraph (1), (2), or (3)”, and adding par. (3).
+2000—Subsec. (a). Pub. L. 106–568, § 1003(h), and Pub. L. 106–569, § 503(g), amended subsec. (a) identically, designating existing provisions as par. (1), inserting heading, redesignating former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), realigning margins, designating concluding provisions as par. (2), inserting heading, substituting “If the Secretary takes an action under subparagraph (A), (B), or (C) of paragraph (1)” for “If the Secretary takes an action under paragraph (1), (2), or (3)”, and adding par. (3).
 
-Subsec. (b). Pub. L. 106–568, § 1003(i), and Pub. L. 106–569, § 503(h), amended subsec. (b) identically, designating existing provisions as par. (1), inserting heading, redesignating former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigning margins of concluding provisions, inserting “, if the recipient enters into a performance agreement with the Secretary that specifies the compliance objectives that the recipient will be required to achieve by the termination date of the performance agreement” before period at end of concluding provisions, and adding pars. (2) to (4).
+Subsec. (b). Pub. L. 106–568, § 1003(i), and Pub. L. 106–569, § 503(h), amended subsec. (b) identically, designating existing provisions as par. (1), inserting heading, redesignating former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigning margins of concluding provisions, inserting “, if the recipient enters into a performance agreement with the Secretary that specifies the compliance objectives that the recipient will be required to achieve by the termination date of the performance agreement” before period at end of concluding provisions, and adding pars. (2) to (4).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1847,7 +1847,7 @@ Subsec. (b). Pub. L. 106–568, § 1003(i), and Pub. L. 106–569, § 503(h)
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
 
-### § 4162. Replacement of recipient
+### § 4162. Replacement of recipient
 
 **(a) Authority**
 
@@ -1867,7 +1867,7 @@ The Secretary may require such replacement tribally designated housing entity fo
 
 **(B)** the occurrence of specific conditions, which conditions shall be specified in written notice provided by the Secretary to the tribe upon making the determination under subsection (b).
 
-(Pub. L. 104–330, title IV, § 402, Oct. 26, 1996, 110 Stat. 4039.)
+(Pub. L. 104–330, title IV, § 402, Oct. 26, 1996, 110 Stat. 4039.)
 
 **Editorial Notes**
 
@@ -1881,7 +1881,7 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this A
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
 
-### § 4163. Monitoring of compliance
+### § 4163. Monitoring of compliance
 
 **(a) Enforceable agreements**
 
@@ -1895,7 +1895,7 @@ Not less frequently than annually, each recipient shall review the activities co
 
 The Secretary shall establish such performance measures as may be necessary to assess compliance with the requirements of this chapter.
 
-(Pub. L. 104–330, title IV, § 403, Oct. 26, 1996, 110 Stat. 4039; Pub. L. 110–411, title IV, § 402, Oct. 14, 2008, 122 Stat. 4330.)
+(Pub. L. 104–330, title IV, § 403, Oct. 26, 1996, 110 Stat. 4039; Pub. L. 110–411, title IV, § 402, Oct. 14, 2008, 122 Stat. 4330.)
 
 **Editorial Notes**
 
@@ -1913,7 +1913,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
 
-### § 4164. Performance reports
+### § 4164. Performance reports
 
 **(a) Requirement** For each fiscal year, each recipient shall—
 
@@ -1937,7 +1937,7 @@ The Secretary shall establish dates for submission of reports under this section
 
 A recipient preparing a report under this section shall make the report publicly available to the citizens in the jurisdiction of the recipient in sufficient time to permit such citizens to comment on such report prior to its submission to the Secretary, and in such manner and at such times as the recipient may determine. The report shall include a summary of any comments received by the grant beneficiary or recipient from citizens in its jurisdiction regarding its program.
 
-(Pub. L. 104–330, title IV, § 404, Oct. 26, 1996, 110 Stat. 4040; Pub. L. 110–411, title IV, § 403, Oct. 14, 2008, 122 Stat. 4330.)
+(Pub. L. 104–330, title IV, § 404, Oct. 26, 1996, 110 Stat. 4040; Pub. L. 110–411, title IV, § 403, Oct. 14, 2008, 122 Stat. 4330.)
 
 **Editorial Notes**
 
@@ -1947,9 +1947,9 @@ This chapter, referred to in subsec. (c), was in the original “this Act”, me
 
 **Amendments**
 
-2008—Subsec. (b)(2). Pub. L. 110–411, § 403(1), substituted “planned activities” for “goals” and inserted “and” after semicolon at end.
+2008—Subsec. (b)(2). Pub. L. 110–411, § 403(1), substituted “planned activities” for “goals” and inserted “and” after semicolon at end.
 
-Subsec. (b)(3), (4). Pub. L. 110–411, § 403(2), (3), substituted period for “; and” at end of par. (3) and struck out par. (4) which read as follows: “describe the manner in which the recipient would change its programs as a result of its experiences.”
+Subsec. (b)(3), (4). Pub. L. 110–411, § 403(2), (3), substituted period for “; and” at end of par. (3) and struck out par. (4) which read as follows: “describe the manner in which the recipient would change its programs as a result of its experiences.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1957,7 +1957,7 @@ Subsec. (b)(3), (4). Pub. L. 110–411, § 403(2), (3), substituted period for
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
 
-### § 4165. Review and audit by Secretary
+### § 4165. Review and audit by Secretary
 
 **(a) Requirements under chapter 75 of title 31**
 
@@ -2001,7 +2001,7 @@ The Secretary shall provide each recipient that is the subject of a report made 
 
 Subject to section 4161(a) of this title, after reviewing the reports and audits relating to a recipient that are submitted to the Secretary under this section, the Secretary may adjust the amount of a grant made to a recipient under this chapter in accordance with the findings of the Secretary with respect to those reports and audits.
 
-(Pub. L. 104–330, title IV, § 405, Oct. 26, 1996, 110 Stat. 4040; Pub. L. 106–568, title X, § 1003(f)(2), Dec. 27, 2000, 114 Stat. 2927; Pub. L. 106–569, title V, § 503(e)(2), Dec. 27, 2000, 114 Stat. 2963.)
+(Pub. L. 104–330, title IV, § 405, Oct. 26, 1996, 110 Stat. 4040; Pub. L. 106–568, title X, § 1003(f)(2), Dec. 27, 2000, 114 Stat. 2927; Pub. L. 106–569, title V, § 503(e)(2), Dec. 27, 2000, 114 Stat. 2963.)
 
 **Editorial Notes**
 
@@ -2019,11 +2019,11 @@ This chapter, referred to in subsecs. (b)(1)(A)(i)(II) and (d), was in the origi
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
 
-### § 4166. GAO audits
+### § 4166. GAO audits
 
 To the extent that the financial transactions of Indian tribes and recipients of grant amounts under this chapter relate to amounts provided under this chapter, such transactions may be audited by the Comptroller General of the United States under such rules and regulations as may be prescribed by the Comptroller General. The representatives of the Government Accountability Office shall have access to all books, accounts, records, reports, files, and other papers, things, or property belonging to or in use by such tribes and recipients pertaining to such financial transactions and necessary to facilitate the audit.
 
-(Pub. L. 104–330, title IV, § 406, Oct. 26, 1996, 110 Stat. 4041; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 104–330, title IV, § 406, Oct. 26, 1996, 110 Stat. 4041; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -2041,7 +2041,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
 
-### § 4167. Reports to Congress
+### § 4167. Reports to Congress
 
 **(a) In general** Not later than 90 days after the conclusion of each fiscal year in which assistance under this chapter is made available, the Secretary shall submit to the Congress a report that contains—
 
@@ -2055,7 +2055,7 @@ Section effective Oct. 1, 1997, except as otherwise expressly provided, see sect
 
 The Secretary may require recipients of grant amounts under this chapter to submit to the Secretary such reports and other information as may be necessary in order for the Secretary to make the report required by subsection (a).
 
-(Pub. L. 104–330, title IV, § 407, Oct. 26, 1996, 110 Stat. 4041.)
+(Pub. L. 104–330, title IV, § 407, Oct. 26, 1996, 110 Stat. 4041.)
 
 **Editorial Notes**
 
@@ -2069,15 +2069,15 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Section effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as a note under section 4101 of this title.
 
-### § 4168. Public availability of information
+### § 4168. Public availability of information
 
 Each recipient shall make any housing plan, policy, or annual report prepared by the recipient available to the general public.
 
-(Pub. L. 104–330, title IV, § 408, as added Pub. L. 105–276, title V, § 595(e)(14)(A), Oct. 21, 1998, 112 Stat. 2658.)
+(Pub. L. 104–330, title IV, § 408, as added Pub. L. 105–276, title V, § 595(e)(14)(A), Oct. 21, 1998, 112 Stat. 2658.)
 
 ## SUBCHAPTER V—TERMINATION OF ASSISTANCE FOR INDIAN TRIBES UNDER INCORPORATED PROGRAMS
 
-### § 4181. Termination of Indian housing assistance under United States Housing Act of 1937
+### § 4181. Termination of Indian housing assistance under United States Housing Act of 1937
 
 **(a) Termination of assistance**
 
@@ -2087,13 +2087,13 @@ After September 30, 1997, financial assistance may not be provided under the Uni
 
 After September 30, 1997, any housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority pursuant to the United States Housing Act of 1937 [42 U.S.C. 1437 et seq.] shall not be subject to any provision of such Act or any annual contributions contract or other agreement pursuant to such Act, but shall be considered and maintained as affordable housing for purposes of this chapter.
 
-(Pub. L. 104–330, title V, § 502, Oct. 26, 1996, 110 Stat. 4043; Pub. L. 106–568, title X, § 1003(k)(3), Dec. 27, 2000, 114 Stat. 2930; Pub. L. 106–569, title V, § 503(j)(3), Dec. 27, 2000, 114 Stat. 2966.)
+(Pub. L. 104–330, title V, § 502, Oct. 26, 1996, 110 Stat. 4043; Pub. L. 106–568, title X, § 1003(k)(3), Dec. 27, 2000, 114 Stat. 2930; Pub. L. 106–569, title V, § 503(j)(3), Dec. 27, 2000, 114 Stat. 2966.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The United States Housing Act of 1937, referred to in text, is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
+The United States Housing Act of 1937, referred to in text, is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
@@ -2105,19 +2105,19 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 **Effective Date**
 
-Pub. L. 104–330, title V, § 508, Oct. 26, 1996, 110 Stat. 4045, provided that: “Sections 502, 503, and 507 [25 U.S.C. 4181, 4182, 4183] shall take effect on the date of the enactment of this Act [Oct. 26, 1996].”
+Pub. L. 104–330, title V, § 508, Oct. 26, 1996, 110 Stat. 4045, provided that: “Sections 502, 503, and 507 [25 U.S.C. 4181, 4182, 4183] shall take effect on the date of the enactment of this Act [Oct. 26, 1996].”
 
-### § 4182. Termination of new commitments for rental assistance
+### § 4182. Termination of new commitments for rental assistance
 
 After September 30, 1997, financial assistance for rental housing assistance under the United States Housing Act of 1937 [42 U.S.C. 1437 et seq.] may not be provided to any Indian housing authority or tribally designated housing entity, unless such assistance is provided pursuant to a contract for such assistance entered into by the Secretary and the Indian housing authority before such date. Any such assistance provided pursuant to such a contract shall be governed by the provisions of the United States Housing Act of 1937 (as in effect before the date of the effectiveness of this chapter) and the provisions of such contract.
 
-(Pub. L. 104–330, title V, § 503, Oct. 26, 1996, 110 Stat. 4043.)
+(Pub. L. 104–330, title V, § 503, Oct. 26, 1996, 110 Stat. 4043.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The United States Housing Act of 1937, referred to in text, is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
+The United States Housing Act of 1937, referred to in text, is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
 For the date of the effectiveness of this chapter, referred to in text, as Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of this title.
 
@@ -2127,13 +2127,13 @@ For the date of the effectiveness of this chapter, referred to in text, as Oct. 
 
 Section effective Oct. 26, 1996, see section 508 of Pub. L. 104–330, set out as a note under section 4181 of this title.
 
-### § 4183. Savings provision
+### § 4183. Savings provision
 
 **(a) Existing rights and duties**
 
 Except as provided in sections 4181 and 4182 of this title, this chapter may not be construed to affect the validity of any right, duty, or obligation of the United States or other person arising under or pursuant to any commitment or agreement lawfully entered into before October 1, 1997, under the United States Housing Act of 1937 [42 U.S.C. 1437 et seq.], subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act [42 U.S.C. 12899 et seq.],1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 title II of the Cranston-Gonzalez National Affordable Housing Act [42 U.S.C. 12721 et seq.], title IV of the McKinney-Vento Homeless Assistance Act [42 U.S.C. 11360 et seq.], or section 2 of the HUD Demonstration Act of 1993.
 
@@ -2141,7 +2141,7 @@ title II of the Cranston-Gonzalez National Affordable Housing Act [42 U.S.C. 127
 
 Notwithstanding the amendments made by this subchapter, any obligation of the Secretary made under or pursuant to title II of the Cranston-Gonzalez National Affordable Housing Act [42 U.S.C. 12721 et seq.], title IV of the McKinney-Vento Homeless Assistance Act [42 U.S.C. 11360 et seq.], or section 2 of the HUD Demonstration Act of 1993 shall continue to be governed by the provisions of such Acts (as in effect before the date of the effectiveness of the amendments made by this subchapter).
 
-(Pub. L. 104–330, title V, § 507, Oct. 26, 1996, 110 Stat. 4045; Pub. L. 106–400, § 2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 109–281, § 2(d)(2), Sept. 22, 2006, 120 Stat. 1181.)
+(Pub. L. 104–330, title V, § 507, Oct. 26, 1996, 110 Stat. 4045; Pub. L. 106–400, § 2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 109–281, § 2(d)(2), Sept. 22, 2006, 120 Stat. 1181.)
 
 **Editorial Notes**
 
@@ -2149,13 +2149,13 @@ Notwithstanding the amendments made by this subchapter, any obligation of the Se
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-The United States Housing Act of 1937, referred to in subsec. (a), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
+The United States Housing Act of 1937, referred to in subsec. (a), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
-The Cranston-Gonzalez National Affordable Housing Act, referred to in text, is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, known as the HOME Investment Partnerships Act, is classified principally to subchapter II (§ 12721 et seq.) of chapter 130 of Title 42, The Public Health and Welfare. Subtitle D of title IV of the Act was classified generally to part C (§ 12899 et seq.) of subchapter IV of chapter 130 of Title 42 prior to repeal by Pub. L. 109–281, § 2(e), Sept. 22, 2006, 120 Stat. 1181. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
+The Cranston-Gonzalez National Affordable Housing Act, referred to in text, is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, known as the HOME Investment Partnerships Act, is classified principally to subchapter II (§ 12721 et seq.) of chapter 130 of Title 42, The Public Health and Welfare. Subtitle D of title IV of the Act was classified generally to part C (§ 12899 et seq.) of subchapter IV of chapter 130 of Title 42 prior to repeal by Pub. L. 109–281, § 2(e), Sept. 22, 2006, 120 Stat. 1181. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
 
-The McKinney-Vento Homeless Assistance Act, referred to in text, is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Title IV of the Act is classified principally to subchapter IV (§ 11360 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in text, is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Title IV of the Act is classified principally to subchapter IV (§ 11360 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
-Section 2 of the HUD Demonstration Act of 1993, referred to in text, is section 2 of Pub. L. 103–120, Oct. 27, 1993, 107 Stat. 1144, which was set out as a note under section 11301 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 103–120, § 2(g).
+Section 2 of the HUD Demonstration Act of 1993, referred to in text, is section 2 of Pub. L. 103–120, Oct. 27, 1993, 107 Stat. 1144, which was set out as a note under section 11301 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 103–120, § 2(g).
 
 This subchapter, referred to in subsec. (b), was in the original “this title”, meaning title V of Pub. L. 104–330, which enacted this subchapter and section 12899h–1 of Title 42, The Public Health and Welfare, amended sections 1437a, 1437c to 1437e, 1437g, 1437*l*, 1437n, 1437u to 1437x, 1437aaa–5, 1437aaa–6, 1439, 11371 to 11376, 11382, 11401, 11403g, 11408, 11903a, 12747, and 12838 of Title 42, repealed sections 1437aa to 1437ee of Title 42, enacted provisions set out as notes under sections 11371, 12747, and 12899h–1 of Title 42, amended provisions set out as a note under section 11301 of Title 42, and repealed provisions set out as a note under section 1701z–6 of Title 12, Banks and Banking. For complete classification of title V to the Code, see Tables.
 
@@ -2173,11 +2173,11 @@ The date of the effectiveness of the amendments made by this subchapter, referre
 
 Section effective Oct. 26, 1996, see section 508 of Pub. L. 104–330, set out as a note under section 4181 of this title.
 
-### § 4184. Effect on HOME Investment Partnerships Act
+### § 4184. Effect on HOME Investment Partnerships Act
 
 Nothing in this chapter or an amendment made by this chapter prohibits or prevents any participating jurisdiction (within the meaning of the HOME Investment Partnerships Act (42 U.S.C. 12721 et seq.)) from providing any amounts made available to the participating jurisdiction under that Act (42 U.S.C. 12721 et seq.) to an Indian tribe or a tribally designated housing entity for use in accordance with that Act (42 U.S.C. 12721 et seq.).
 
-(Pub. L. 104–330, title V, § 509, as added Pub. L. 110–411, title V, § 501(a), Oct. 14, 2008, 122 Stat. 4331.)
+(Pub. L. 104–330, title V, § 509, as added Pub. L. 110–411, title V, § 501(a), Oct. 14, 2008, 122 Stat. 4331.)
 
 **Editorial Notes**
 
@@ -2189,7 +2189,7 @@ The HOME Investment Partnerships Act, referred to in text, is title II of Pub. L
 
 ## SUBCHAPTER VI—FEDERAL GUARANTEES FOR FINANCING FOR TRIBAL HOUSING ACTIVITIES
 
-### § 4191. Authority and requirements
+### § 4191. Authority and requirements
 
 **(a) Authority**
 
@@ -2207,13 +2207,13 @@ No guarantee or commitment to guarantee shall be made with respect to any note o
 
 A guarantee made under this subchapter shall guarantee repayment of 95 percent of the unpaid principal and interest due on the notes or other obligations guaranteed.
 
-(Pub. L. 104–330, title VI, § 601, Oct. 26, 1996, 110 Stat. 4046; Pub. L. 107–292, § 7, Nov. 13, 2002, 116 Stat. 2054; Pub. L. 108–393, § 2, Oct. 30, 2004, 118 Stat. 2246.)
+(Pub. L. 104–330, title VI, § 601, Oct. 26, 1996, 110 Stat. 4046; Pub. L. 107–292, § 7, Nov. 13, 2002, 116 Stat. 2054; Pub. L. 108–393, § 2, Oct. 30, 2004, 118 Stat. 2246.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The United States Housing Act of 1937, referred to in subsec. (a), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
+The United States Housing Act of 1937, referred to in subsec. (a), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
@@ -2221,19 +2221,19 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 2004—Subsec. (d). Pub. L. 108–393 added subsec. (d).
 
-2002—Subsec. (a). Pub. L. 107–292, § 7(1), inserted “and housing related community development activity as consistent with the purposes of this chapter” after “section 4132 of this title”.
+2002—Subsec. (a). Pub. L. 107–292, § 7(1), inserted “and housing related community development activity as consistent with the purposes of this chapter” after “section 4132 of this title”.
 
-Subsecs. (b) to (d). Pub. L. 107–292, § 7(2), (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out heading and text of former subsec. (b). Text read as follows: “A guarantee under this subchapter may be used to assist an Indian tribe or housing entity in obtaining financing only if the Indian tribe or housing entity has made efforts to obtain such financing without the use of such guarantee and cannot complete such financing consistent with the timely execution of the program plans without such guarantee.”
+Subsecs. (b) to (d). Pub. L. 107–292, § 7(2), (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out heading and text of former subsec. (b). Text read as follows: “A guarantee under this subchapter may be used to assist an Indian tribe or housing entity in obtaining financing only if the Indian tribe or housing entity has made efforts to obtain such financing without the use of such guarantee and cannot complete such financing consistent with the timely execution of the program plans without such guarantee.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 104–330, title VI, § 606, Oct. 26, 1996, 110 Stat. 4048, provided that: “This title [enacting this subchapter] shall take effect on the date of the enactment of this Act [Oct. 26, 1996].”
+Pub. L. 104–330, title VI, § 606, Oct. 26, 1996, 110 Stat. 4048, provided that: “This title [enacting this subchapter] shall take effect on the date of the enactment of this Act [Oct. 26, 1996].”
 
 [Another section 606 of Pub. L. 104–330 is classified to section 4196 of this title.]
 
-### § 4192. Security and repayment
+### § 4192. Security and repayment
 
 **(a) Requirements on issuer** To assure the repayment of notes or other obligations and charges incurred under this subchapter and as a condition for receiving such guarantees, the Secretary shall require the Indian tribe or housing entity issuing such notes or obligations to—
 
@@ -2255,7 +2255,7 @@ Pub. L. 104–330, title VI, § 606, Oct. 26, 1996, 110 Stat. 4048, provided t
 
 The full faith and credit of the United States is pledged to the payment of all guarantees made under this subchapter. Any such guarantee made by the Secretary shall be conclusive evidence of the eligibility of the obligations for such guarantee with respect to principal and interest, and the validity of any such guarantee so made shall be incontestable in the hands of a holder of the guaranteed obligations.
 
-(Pub. L. 104–330, title VI, § 602, Oct. 26, 1996, 110 Stat. 4046.)
+(Pub. L. 104–330, title VI, § 602, Oct. 26, 1996, 110 Stat. 4046.)
 
 **Editorial Notes**
 
@@ -2269,11 +2269,11 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this A
 
 Section effective Oct. 26, 1996, see section 606 of Pub. L. 104–330, set out as a note under section 4191 of this title.
 
-### § 4193. Payment of interest
+### § 4193. Payment of interest
 
 The Secretary may make, and contract to make, grants, in such amounts as may be approved in appropriations Acts, to or on behalf of an Indian tribe or housing entity issuing notes or other obligations guaranteed under this subchapter, to cover not to exceed 30 percent of the net interest cost (including such servicing, underwriting, or other costs as may be specified in regulations of the Secretary) to the borrowing entity or agency of such obligations. The Secretary may also, to the extent approved in appropriations Acts, assist the issuer of a note or other obligation guaranteed under this subchapter in the payment of all or a portion of the principal and interest amount due under the note or other obligation, if the Secretary determines that the issuer is unable to pay the amount because of circumstances of extreme hardship beyond the control of the issuer.
 
-(Pub. L. 104–330, title VI, § 603, Oct. 26, 1996, 110 Stat. 4047.)
+(Pub. L. 104–330, title VI, § 603, Oct. 26, 1996, 110 Stat. 4047.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2281,11 +2281,11 @@ The Secretary may make, and contract to make, grants, in such amounts as may be 
 
 Section effective Oct. 26, 1996, see section 606 of Pub. L. 104–330, set out as a note under section 4191 of this title.
 
-### § 4194. Training and information
+### § 4194. Training and information
 
 The Secretary, in cooperation with eligible public entities, shall carry out training and information activities with respect to the guarantee program under this subchapter.
 
-(Pub. L. 104–330, title VI, § 604, Oct. 26, 1996, 110 Stat. 4047.)
+(Pub. L. 104–330, title VI, § 604, Oct. 26, 1996, 110 Stat. 4047.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2293,7 +2293,7 @@ The Secretary, in cooperation with eligible public entities, shall carry out tra
 
 Section effective Oct. 26, 1996, see section 606 of Pub. L. 104–330, set out as a note under section 4191 of this title.
 
-### § 4195. Limitations on amount of guarantees
+### § 4195. Limitations on amount of guarantees
 
 **(a) Aggregate fiscal year limitation**
 
@@ -2313,7 +2313,7 @@ The total amount of outstanding obligations guaranteed on a cumulative basis by 
 
 **(2)** request the enactment of legislation increasing the aggregate outstanding limitation on guarantees under this subchapter.
 
-(Pub. L. 104–330, title VI, § 605, Oct. 26, 1996, 110 Stat. 4047; Pub. L. 107–292, § 2(b), Nov. 13, 2002, 116 Stat. 2053; Pub. L. 110–411, title VII, § 701(b), Oct. 14, 2008, 122 Stat. 4334.)
+(Pub. L. 104–330, title VI, § 605, Oct. 26, 1996, 110 Stat. 4047; Pub. L. 107–292, § 2(b), Nov. 13, 2002, 116 Stat. 2053; Pub. L. 110–411, title VII, § 701(b), Oct. 14, 2008, 122 Stat. 4334.)
 
 **Editorial Notes**
 
@@ -2329,7 +2329,7 @@ The total amount of outstanding obligations guaranteed on a cumulative basis by 
 
 Section effective Oct. 26, 1996, see section 606 of Pub. L. 104–330, set out as a note under section 4191 of this title.
 
-### § 4196. Demonstration program for guaranteed loans to finance tribal community and economic development activities
+### § 4196. Demonstration program for guaranteed loans to finance tribal community and economic development activities
 
 **(a) Authority**
 
@@ -2437,7 +2437,7 @@ The Secretary shall monitor the use of guarantees under this section by Indian t
 
 The authority of the Secretary under this section to make new guarantees for notes and obligations shall terminate on October 1, 2013.
 
-(Pub. L. 104–330, title VI, § 606, as added Pub. L. 110–411, title VI, § 601(a), Oct. 14, 2008, 122 Stat. 4331.)
+(Pub. L. 104–330, title VI, § 606, as added Pub. L. 110–411, title VI, § 601(a), Oct. 14, 2008, 122 Stat. 4331.)
 
 **Editorial Notes**
 
@@ -2447,7 +2447,7 @@ Another section 606 of Pub. L. 104–330 is set out as an Effective Date note un
 
 ## SUBCHAPTER VII—OTHER HOUSING ASSISTANCE FOR NATIVE AMERICANS
 
-### § 4211. 50-year leasehold interest in trust or restricted lands for housing purposes
+### § 4211. 50-year leasehold interest in trust or restricted lands for housing purposes
 
 **(a) Authority to lease**
 
@@ -2467,7 +2467,7 @@ Each lease pursuant to subsection (a) shall be for a term not exceeding 50 years
 
 This section is intended to be self-implementing and shall not require the issuance of any rule, regulation, or order to take effect as provided in section 705.
 
-(Pub. L. 104–330, title VII, § 702, Oct. 26, 1996, 110 Stat. 4050.)
+(Pub. L. 104–330, title VII, § 702, Oct. 26, 1996, 110 Stat. 4050.)
 
 **Editorial Notes**
 
@@ -2479,13 +2479,13 @@ Section 705, referred to in subsec. (d), is section 705 of Pub. L. 104–330, wh
 
 **Effective Date**
 
-Pub. L. 104–330, title VII, § 705, Oct. 26, 1996, 110 Stat. 4052, provided that: “This title [enacting this subchapter and amending sections 1715z–13a and 1721 of Title 12, Banks and Banking, and sections 11902 to 11905 of Title 42, The Public Health and Welfare] and the amendments made by this title (but not including the amendments made by section 704 [amending sections 11902 to 11905 of Title 42]) shall take effect on the date of the enactment of this Act [Oct. 26, 1996].”
+Pub. L. 104–330, title VII, § 705, Oct. 26, 1996, 110 Stat. 4052, provided that: “This title [enacting this subchapter and amending sections 1715z–13a and 1721 of Title 12, Banks and Banking, and sections 11902 to 11905 of Title 42, The Public Health and Welfare] and the amendments made by this title (but not including the amendments made by section 704 [amending sections 11902 to 11905 of Title 42]) shall take effect on the date of the enactment of this Act [Oct. 26, 1996].”
 
-### § 4212. Training and technical assistance
+### § 4212. Training and technical assistance
 
 There are authorized to be appropriated for assistance for a national organization representing Native American housing interests for providing training and technical assistance to Indian housing authorities and tribally designated housing entities such sums as may be necessary for each of fiscal years 2009 through 2013.
 
-(Pub. L. 104–330, title VII, § 703, Oct. 26, 1996, 110 Stat. 4051; Pub. L. 107–292, § 2(c), Nov. 13, 2002, 116 Stat. 2053; Pub. L. 110–411, title VII, § 701(c), Oct. 14, 2008, 122 Stat. 4334.)
+(Pub. L. 104–330, title VII, § 703, Oct. 26, 1996, 110 Stat. 4051; Pub. L. 107–292, § 2(c), Nov. 13, 2002, 116 Stat. 2053; Pub. L. 110–411, title VII, § 701(c), Oct. 14, 2008, 122 Stat. 4334.)
 
 **Editorial Notes**
 
@@ -2503,7 +2503,7 @@ Section effective Oct. 26, 1996, see section 705 of Pub. L. 104–330, set out a
 
 ## SUBCHAPTER VIII—HOUSING ASSISTANCE FOR NATIVE HAWAIIANS
 
-### § 4221. Definitions
+### § 4221. Definitions
 
 In this subchapter:
 
@@ -2565,7 +2565,7 @@ The term “housing plan” means a plan developed by the Department of Hawaiian
 
 **(iii)** birth records of the State of Hawaii.
 
-(Pub. L. 104–330, title VIII, § 801, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2876, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2969.)
+(Pub. L. 104–330, title VIII, § 801, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2876, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2969.)
 
 **Editorial Notes**
 
@@ -2577,19 +2577,19 @@ This chapter, referred to in par. (5), was in the original “this Act”, meani
 
 **Codification**
 
-Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted substantially identical sections 801 of Pub. L. 104–330. This section is based on the text of section 801 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
+Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted substantially identical sections 801 of Pub. L. 104–330. This section is based on the text of section 801 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 104–330, title VIII, § 808, as added by Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2979, provided that: “Except as otherwise expressly provided in this title [enacting this subchapter], this title shall take effect on the date of the enactment of the American Homeownership and Economic Opportunity Act of 2000 [Pub. L. 106–569, approved Dec. 27, 2000].”
+Pub. L. 104–330, title VIII, § 808, as added by Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2979, provided that: “Except as otherwise expressly provided in this title [enacting this subchapter], this title shall take effect on the date of the enactment of the American Homeownership and Economic Opportunity Act of 2000 [Pub. L. 106–569, approved Dec. 27, 2000].”
 
-Pub. L. 104–330, title VIII, § 808, as added by Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2885, provided that: “Except as otherwise expressly provided in this title [enacting this subchapter], this title shall take effect on the date of the enactment of the Native American Housing Assistance and Self-Determination Amendments of 2000 [probably should be the Hawaiian Homelands Ownership Act of 2000, title II of Pub. L. 106–568, approved Dec. 27, 2000].”
+Pub. L. 104–330, title VIII, § 808, as added by Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2885, provided that: “Except as otherwise expressly provided in this title [enacting this subchapter], this title shall take effect on the date of the enactment of the Native American Housing Assistance and Self-Determination Amendments of 2000 [probably should be the Hawaiian Homelands Ownership Act of 2000, title II of Pub. L. 106–568, approved Dec. 27, 2000].”
 
 **Findings**
 
-Pub. L. 106–569, title V, § 512, Dec. 27, 2000, 114 Stat. 2966, provided that:
+Pub. L. 106–569, title V, § 512, Dec. 27, 2000, 114 Stat. 2966, provided that:
 
 > “The Congress finds that—
 
@@ -2691,9 +2691,9 @@ Pub. L. 106–569, title V, § 512, Dec. 27, 2000, 114 Stat. 2966, provided th
 
 > **“(F)** the enactment of the Hawaiian Home Lands Recovery Act (109 Stat. 357; 48 U.S.C. 491, note prec.) [Pub. L. 104–42, title II] which establishes a process for the conveyance of Federal lands to the Department of Hawaiian Homes Lands that are equivalent in value to lands acquired by the United States from the Hawaiian Home Lands inventory.”
 
-Substantially identical provisions were contained in Pub. L. 106–568, title II, § 202, Dec. 27, 2000, 114 Stat. 2872.
+Substantially identical provisions were contained in Pub. L. 106–568, title II, § 202, Dec. 27, 2000, 114 Stat. 2872.
 
-### § 4222. Block grants for affordable housing activities
+### § 4222. Block grants for affordable housing activities
 
 **(a) Grant authority**
 
@@ -2731,15 +2731,15 @@ The Secretary shall, by regulation, authorize the Department of Hawaiian Home La
 
 The Director shall make all reasonable efforts, consistent with the purposes of this subchapter, to maximize participation by the private sector, including nonprofit organizations and for-profit entities, in implementing a housing plan that has been approved by the Secretary under section 4223 of this title.
 
-(Pub. L. 104–330, title VIII, § 802, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2877, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2971.)
+(Pub. L. 104–330, title VIII, § 802, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2877, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2971.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 802 of Pub. L. 104–330. This section is based on the text of section 802 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
+Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 802 of Pub. L. 104–330. This section is based on the text of section 802 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
 
-### § 4223. Housing plan
+### § 4223. Housing plan
 
 **(a) Plan submission** The Secretary shall—
 
@@ -2863,9 +2863,9 @@ Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical 
 
 **(i)** a certification that the Department of Hawaiian Home Lands will comply with—
 
-**(I)** title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.) or with the Fair Housing Act (42 U.S.C. 3601 et seq.) in carrying out this subchapter, to the extent that such title 1
+**(I)** title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.) or with the Fair Housing Act (42 U.S.C. 3601 et seq.) in carrying out this subchapter, to the extent that such title 1
 
-<sup>1</sup>  See Codification note below.
+<sup>1</sup> See Codification note below.
 
 is applicable; and
 
@@ -2895,21 +2895,21 @@ Program eligibility under this subchapter may be restricted to Native Hawaiians.
 
 As a condition of receiving grant amounts under this subchapter, the Department of Hawaiian Home Lands shall, to the extent practicable, provide for private nonprofit organizations experienced in the planning and development of affordable housing for Native Hawaiians to carry out affordable housing activities with those grant amounts.
 
-(Pub. L. 104–330, title VIII, § 803, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2878, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2971.)
+(Pub. L. 104–330, title VIII, § 803, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2878, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2971.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Civil Rights Act of 1964, referred to in subsecs. (c)(2)(E)(i)(I) and (d)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsecs. (c)(2)(E)(i)(I) and (d)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-The Fair Housing Act, referred to in subsecs. (c)(2)(E)(i)(I) and (d)(1), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+The Fair Housing Act, referred to in subsecs. (c)(2)(E)(i)(I) and (d)(1), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 
 **Codification**
 
-Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted substantially identical sections 803 of Pub. L. 104–330. This section is based on the text of section 803 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513. Section 803 of Pub. L. 104–330, as added by Pub. L. 106–568, referred to title VIII of the Act popularly known as the Civil Rights Act of 1968 instead of the Fair Housing Act in subsecs. (c)(2)(E)(i)(I) and (d)(1). Title VIII of the Civil Rights Act of 1968 is title VIII of Pub. L. 90–284 which is known as the Fair Housing Act, see References in Text note above. The reference to “such title” in subsec. (c)(2)(E)(i)(I) probably refers to title VI of the Civil Rights Act of 1964 and title VIII of the Civil Rights Act of 1968 (the Fair Housing Act).
+Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted substantially identical sections 803 of Pub. L. 104–330. This section is based on the text of section 803 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513. Section 803 of Pub. L. 104–330, as added by Pub. L. 106–568, referred to title VIII of the Act popularly known as the Civil Rights Act of 1968 instead of the Fair Housing Act in subsecs. (c)(2)(E)(i)(I) and (d)(1). Title VIII of the Civil Rights Act of 1968 is title VIII of Pub. L. 90–284 which is known as the Fair Housing Act, see References in Text note above. The reference to “such title” in subsec. (c)(2)(E)(i)(I) probably refers to title VI of the Civil Rights Act of 1964 and title VIII of the Civil Rights Act of 1968 (the Fair Housing Act).
 
-### § 4224. Review of plans
+### § 4224. Review of plans
 
 **(a) Review and notice**
 
@@ -2967,13 +2967,13 @@ The Director shall submit a complete plan under section 4223 of this title not l
 
 **(e) Effective date**
 
-This section and section 4223 of this title shall take effect on the date provided by the Secretary pursuant to section 4227(a) 1
+This section and section 4223 of this title shall take effect on the date provided by the Secretary pursuant to section 4227(a) 1
 
-<sup>1</sup>  So in original. Probably should be section “4227”.
+<sup>1</sup> So in original. Probably should be section “4227”.
 
 of this title to provide for timely submission and review of the housing plan as necessary for the provision of assistance under this subchapter for fiscal year 2001.
 
-(Pub. L. 104–330, title VIII, § 804, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2881, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2975.)
+(Pub. L. 104–330, title VIII, § 804, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2881, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2975.)
 
 **Editorial Notes**
 
@@ -2983,9 +2983,9 @@ This chapter, referred to in subsec. (c)(1)(C), was in the original “this Act�
 
 **Codification**
 
-Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted substantially identical sections 804 of Pub. L. 104–330. This section is based on the text of section 804 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
+Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted substantially identical sections 804 of Pub. L. 104–330. This section is based on the text of section 804 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
 
-### § 4225. Treatment of program income and labor standards
+### § 4225. Treatment of program income and labor standards
 
 **(a) Program income**
 
@@ -3017,17 +3017,17 @@ The Secretary may, by regulation, exclude from consideration as program income a
 
 Paragraph (1) and provisions relating to wages required under paragraph (1) in any contract or agreement for assistance, sale, or lease under this subchapter, shall not apply to any individual who performs the services for which the individual volunteered and who is not otherwise employed at any time in the construction work and received no compensation or is paid expenses, reasonable benefits, or a nominal fee for those services.
 
-(Pub. L. 104–330, title VIII, § 805, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2883, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2976.)
+(Pub. L. 104–330, title VIII, § 805, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2883, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2976.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Sections 3141–3144, 3146, and 3147 of title 40” substituted in subsec. (b)(1)(B) for “the Act commonly known as the ‘Davis-Bacon Act’ (46 Stat. 1494; chapter 411; 40 U.S.C. 276a et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+“Sections 3141–3144, 3146, and 3147 of title 40” substituted in subsec. (b)(1)(B) for “the Act commonly known as the ‘Davis-Bacon Act’ (46 Stat. 1494; chapter 411; 40 U.S.C. 276a et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
-Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted substantially identical sections 805 of Pub. L. 104–330. This section is based on the text of section 805 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
+Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted substantially identical sections 805 of Pub. L. 104–330. This section is based on the text of section 805 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
 
-### § 4226. Environmental review
+### § 4226. Environmental review
 
 **(a) In general**
 
@@ -3085,33 +3085,33 @@ The approval of the Secretary of a certification described in paragraph (1) shal
 
 **(B)** is authorized and consents on behalf of the Department of Hawaiian Home Lands and the Director to accept the jurisdiction of the Federal courts for the purpose of enforcement of the responsibilities of the Director of the Department of Hawaiian Home Lands as such an official.
 
-(Pub. L. 104–330, title VIII, § 806, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2883, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2977.)
+(Pub. L. 104–330, title VIII, § 806, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2883, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2977.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (b)(2), and (c)(4)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (b)(2), and (c)(4)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Codification**
 
-Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted substantially identical sections 806 of Pub. L. 104–330. This section is based on the text of section 806 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
+Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted substantially identical sections 806 of Pub. L. 104–330. This section is based on the text of section 806 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
 
-### § 4227. Regulations
+### § 4227. Regulations
 
 The Secretary shall issue final regulations necessary to carry out this subchapter not later than October 1, 2001.
 
-(Pub. L. 104–330, title VIII, § 807, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2885, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2979.)
+(Pub. L. 104–330, title VIII, § 807, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2885, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2979.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted substantially identical sections 807 of Pub. L. 104–330. This section is based on the text of section 807 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513. Section 807 of Pub. L. 104–330, as added by Pub. L. 106–568, § 203, required the issuance of final regulations not later than October 1, 2000, instead of October 1, 2001.
+Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted substantially identical sections 807 of Pub. L. 104–330. This section is based on the text of section 807 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513. Section 807 of Pub. L. 104–330, as added by Pub. L. 106–568, § 203, required the issuance of final regulations not later than October 1, 2000, instead of October 1, 2001.
 
-### § 4228. Affordable housing activities
+### § 4228. Affordable housing activities
 
-**(a) 1 [footnote: 1 So in original. No subsec. (b) has been enacted.] National objectives and eligible families**
+**(a) 1 [footnote: 1 So in original. No subsec. (b) has been enacted.] National objectives and eligible families**
 
 **(1) Primary objective** The national objectives of this subchapter are—
 
@@ -3169,15 +3169,15 @@ In any case in which a housing plan provides for preference described in clause 
 
 As a condition of receiving grant amounts under this subchapter, the Department of Hawaiian Home Lands, shall to the extent practicable, provide for private nonprofit organizations experienced in the planning and development of affordable housing for Native Hawaiians to carry out affordable housing activities with those grant amounts.
 
-(Pub. L. 104–330, title VIII, § 809, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2885, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2979.)
+(Pub. L. 104–330, title VIII, § 809, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2885, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2979.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 809 of Pub. L. 104–330. This section is based on the text of section 809 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
+Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 809 of Pub. L. 104–330. This section is based on the text of section 809 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
 
-### § 4229. Eligible affordable housing activities
+### § 4229. Eligible affordable housing activities
 
 **(a) In general** Affordable housing activities under this section are activities conducted in accordance with the requirements of section 4230 of this title to—
 
@@ -3241,15 +3241,15 @@ The provision of safety, security, and law enforcement measures and activities a
 
 **(B)** specifically approved by the Secretary as appropriate for the purpose referred to in subparagraph (A).
 
-(Pub. L. 104–330, title VIII, § 810, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2886, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2980.)
+(Pub. L. 104–330, title VIII, § 810, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2886, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2980.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 810 of Pub. L. 104–330. This section is based on the text of section 810 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
+Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 810 of Pub. L. 104–330. This section is based on the text of section 810 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
 
-### § 4230. Program requirements
+### § 4230. Program requirements
 
 **(a) Rents**
 
@@ -3283,15 +3283,15 @@ As a condition to receiving grant amounts under this subchapter, the Director sh
 
 As a condition to receiving grant amounts under this subchapter, the Director shall develop policies governing the management and maintenance of housing assisted with grant amounts under this subchapter.
 
-(Pub. L. 104–330, title VIII, § 811, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2887, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2981.)
+(Pub. L. 104–330, title VIII, § 811, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2887, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2981.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 811 of Pub. L. 104–330. This section is based on the text of section 811 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
+Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 811 of Pub. L. 104–330. This section is based on the text of section 811 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
 
-### § 4231. Types of investments
+### § 4231. Types of investments
 
 **(a) In general** Subject to section 4230 of this title and an applicable housing plan approved under section 4223 of this title, the Director shall have—
 
@@ -3315,15 +3315,15 @@ Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical 
 
 The Director may invest grant amounts for the purposes of carrying out affordable housing activities in investment securities and other obligations, as approved by the Secretary.
 
-(Pub. L. 104–330, title VIII, § 812, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2888, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2982.)
+(Pub. L. 104–330, title VIII, § 812, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2888, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2982.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 812 of Pub. L. 104–330. This section is based on the text of section 812 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
+Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 812 of Pub. L. 104–330. This section is based on the text of section 812 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
 
-### § 4232. Low-income requirement and income targeting
+### § 4232. Low-income requirement and income targeting
 
 **(a) In general** Housing shall qualify for affordable housing for purposes of this subchapter only if—
 
@@ -3351,15 +3351,15 @@ Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical 
 
 Notwithstanding subsection (a), housing assistance pursuant to section 4228(a)(2)(B) of this title shall be considered affordable housing for purposes of this subchapter.
 
-(Pub. L. 104–330, title VIII, § 813, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2888, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2982.)
+(Pub. L. 104–330, title VIII, § 813, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2888, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2982.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 813 of Pub. L. 104–330. This section is based on the text of section 813 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
+Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 813 of Pub. L. 104–330. This section is based on the text of section 813 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
 
-### § 4233. Lease requirements and tenant selection
+### § 4233. Lease requirements and tenant selection
 
 **(a) Leases** Except to the extent otherwise provided by or inconsistent with the laws of the State of Hawaii, in renting dwelling units in affordable housing assisted with grant amounts provided under this subchapter, the Director, owner, or manager shall use leases that—
 
@@ -3393,15 +3393,15 @@ Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical 
 
 **(B)** the prompt notification in writing of any rejected applicant of the grounds for that rejection.
 
-(Pub. L. 104–330, title VIII, § 814, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2889, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2983.)
+(Pub. L. 104–330, title VIII, § 814, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2889, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2983.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 814 of Pub. L. 104–330. This section is based on the text of section 814 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
+Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 814 of Pub. L. 104–330. This section is based on the text of section 814 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
 
-### § 4234. Repayment
+### § 4234. Repayment
 
 If the Department of Hawaiian Home Lands uses grant amounts to provide affordable housing under activities under this subchapter and, at any time during the useful life of the housing, the housing does not comply with the requirement under section 4232(a)(2) of this title, the Secretary shall—
 
@@ -3409,27 +3409,27 @@ If the Department of Hawaiian Home Lands uses grant amounts to provide affordabl
 
 **(2)** require repayment to the Secretary of any amount equal to those grant amounts.
 
-(Pub. L. 104–330, title VIII, § 815, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2890, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2984.)
+(Pub. L. 104–330, title VIII, § 815, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2890, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2984.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 815 of Pub. L. 104–330. This section is based on the text of section 815 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
+Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 815 of Pub. L. 104–330. This section is based on the text of section 815 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
 
-### § 4235. Annual allocation
+### § 4235. Annual allocation
 
 For each fiscal year, the Secretary shall allocate any amounts made available for assistance under this subchapter for the fiscal year, in accordance with the formula established pursuant to section 4236 of this title to the Department of Hawaiian Home Lands if the Department complies with the requirements under this subchapter for a grant under this subchapter.
 
-(Pub. L. 104–330, title VIII, § 816, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2890, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2984.)
+(Pub. L. 104–330, title VIII, § 816, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2890, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2984.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 816 of Pub. L. 104–330. This section is based on the text of section 816 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
+Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 816 of Pub. L. 104–330. This section is based on the text of section 816 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
 
-### § 4236. Allocation formula
+### § 4236. Allocation formula
 
 **(a) Establishment**
 
@@ -3453,15 +3453,15 @@ The Secretary shall, by regulation issued not later than the expiration of the 6
 
 This section shall take effect on December 27, 2000.
 
-(Pub. L. 104–330, title VIII, § 817, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2890, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2984.)
+(Pub. L. 104–330, title VIII, § 817, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2890, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2984.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted substantially identical sections 817 of Pub. L. 104–330. This section is based on the text of section 817 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
+Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted substantially identical sections 817 of Pub. L. 104–330. This section is based on the text of section 817 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
 
-### § 4237. Remedies for noncompliance
+### § 4237. Remedies for noncompliance
 
 **(a) Actions by Secretary affecting grant amounts**
 
@@ -3563,7 +3563,7 @@ The court may order evidence, in addition to the evidence submitted for review u
 
 A judgment under subparagraph (A) shall be subject to review by the Supreme Court of the United States upon writ of certiorari or certification, as provided in section 1254 of title 28.
 
-(Pub. L. 104–330, title VIII, § 818, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2891, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2985.)
+(Pub. L. 104–330, title VIII, § 818, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2891, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2985.)
 
 **Editorial Notes**
 
@@ -3573,9 +3573,9 @@ This chapter, referred to in subsec. (d)(1), was in the original “this Act”,
 
 **Codification**
 
-Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 818 of Pub. L. 104–330. This section is based on the text of section 818 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
+Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 818 of Pub. L. 104–330. This section is based on the text of section 818 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
 
-### § 4238. Monitoring of compliance
+### § 4238. Monitoring of compliance
 
 **(a) Enforceable agreements**
 
@@ -3609,15 +3609,15 @@ Each review under paragraph (1) shall include onsite inspection of housing to de
 
 The Secretary shall establish such performance measures as may be necessary to assess compliance with the requirements of this subchapter.
 
-(Pub. L. 104–330, title VIII, § 819, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2893, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2987.)
+(Pub. L. 104–330, title VIII, § 819, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2893, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2987.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 819 of Pub. L. 104–330. This section is based on the text of section 819 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
+Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 819 of Pub. L. 104–330. This section is based on the text of section 819 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
 
-### § 4239. Performance reports
+### § 4239. Performance reports
 
 **(a) Requirement** For each fiscal year, the Director shall—
 
@@ -3653,7 +3653,7 @@ In preparing a report under this section, the Director shall make the report pub
 
 The report shall include a summary of any comments received by the Director from beneficiaries under paragraph (1) regarding the program to carry out the housing plan.
 
-(Pub. L. 104–330, title VIII, § 820, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2893, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2987.)
+(Pub. L. 104–330, title VIII, § 820, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2893, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2987.)
 
 **Editorial Notes**
 
@@ -3663,9 +3663,9 @@ The Hawaiian Homes Commission Act, 1920, referred to in subsec. (d)(1), is act J
 
 **Codification**
 
-Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 820 of Pub. L. 104–330. This section is based on the text of section 820 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
+Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 820 of Pub. L. 104–330. This section is based on the text of section 820 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
 
-### § 4240. Review and audit by Secretary
+### § 4240. Review and audit by Secretary
 
 **(a) Annual review**
 
@@ -3681,9 +3681,9 @@ Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical 
 
 **(B)** the Director has complied with the housing plan submitted by the Director under section 4223 of this title; and
 
-**(C)** the performance reports of the Department under section 4240 1
+**(C)** the performance reports of the Department under section 4240 1
 
-<sup>1</sup>  So in original. Probably should be section “4239”.
+<sup>1</sup> So in original. Probably should be section “4239”.
 
 of this title are accurate.
 
@@ -3699,31 +3699,31 @@ The Secretary shall give the Department of Hawaiian Home Lands not less than 30 
 
 The Secretary may make appropriate adjustments in the amount of annual grants under this subchapter in accordance with the findings of the Secretary pursuant to reviews and audits under this section. The Secretary may adjust, reduce, or withdraw grant amounts, or take other action as appropriate in accordance with the reviews and audits of the Secretary under this section, except that grant amounts already expended on affordable housing activities may not be recaptured or deducted from future assistance provided to the Department of Hawaiian Home Lands.
 
-(Pub. L. 104–330, title VIII, § 821, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2894, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2988.)
+(Pub. L. 104–330, title VIII, § 821, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2894, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2988.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 821 of Pub. L. 104–330. This section is based on the text of section 821 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
+Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 821 of Pub. L. 104–330. This section is based on the text of section 821 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
 
-### § 4241. Government Accountability Office audits
+### § 4241. Government Accountability Office audits
 
 To the extent that the financial transactions of the Department of Hawaiian Home Lands involving grant amounts under this subchapter relate to amounts provided under this subchapter, those transactions may be audited by the Comptroller General of the United States under such regulations as may be prescribed by the Comptroller General. The Comptroller General of the United States shall have access to all books, accounts, records, reports, files, and other papers, things, or property belonging to or in use by the Department of Hawaiian Home Lands pertaining to such financial transactions and necessary to facilitate the audit.
 
-(Pub. L. 104–330, title VIII, § 822, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2895, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2989; amended Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 104–330, title VIII, § 822, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2895, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2989; amended Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 822 of Pub. L. 104–330. This section is based on the text of section 822 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
+Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 822 of Pub. L. 104–330. This section is based on the text of section 822 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
 
 **Amendments**
 
 2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in section catchline.
 
-### § 4242. Reports to Congress
+### § 4242. Reports to Congress
 
 **(a) In general** Not later than 90 days after the conclusion of each fiscal year in which assistance under this subchapter is made available, the Secretary shall submit to Congress a report that contains—
 
@@ -3737,22 +3737,22 @@ Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical 
 
 The Secretary may require the Director to submit to the Secretary such reports and other information as may be necessary in order for the Secretary to prepare the report required under subsection (a).
 
-(Pub. L. 104–330, title VIII, § 823, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2895, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2989.)
+(Pub. L. 104–330, title VIII, § 823, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2895, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2989.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 823 of Pub. L. 104–330. This section is based on the text of section 823 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
+Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 823 of Pub. L. 104–330. This section is based on the text of section 823 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
 
-### § 4243. Authorization of appropriations
+### § 4243. Authorization of appropriations
 
 There are authorized to be appropriated to the Department of Housing and Urban Development for grants under this subchapter such sums as may be necessary for each of fiscal years 2001, 2002, 2003, 2004, and 2005.
 
-(Pub. L. 104–330, title VIII, § 824, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2895, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2989.)
+(Pub. L. 104–330, title VIII, § 824, as added Pub. L. 106–568, title II, § 203, Dec. 27, 2000, 114 Stat. 2895, and Pub. L. 106–569, title V, § 513, Dec. 27, 2000, 114 Stat. 2989.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted substantially identical sections 824 of Pub. L. 104–330. This section is based on the text of section 824 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513. Section 824 of Pub. L. 104–330, as added by Pub. L. 106–568, § 203, authorized appropriations for fiscal years 2000 to 2004, instead of fiscal years 2001 to 2005.
+Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted substantially identical sections 824 of Pub. L. 104–330. This section is based on the text of section 824 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513. Section 824 of Pub. L. 104–330, as added by Pub. L. 106–568, § 203, authorized appropriations for fiscal years 2000 to 2004, instead of fiscal years 2001 to 2005.

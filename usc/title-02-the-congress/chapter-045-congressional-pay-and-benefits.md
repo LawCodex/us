@@ -19,7 +19,7 @@ retrieved: 2026-10-11
 
 ### Part A—Amount and Type
 
-#### § 4501. Compensation of Members of Congress
+#### § 4501. Compensation of Members of Congress
 
 **(1)** The annual rate of pay for—
 
@@ -37,7 +37,7 @@ shall be the rate determined for such positions under chapter 11 of this title, 
 
 **(B)** In no event shall the percentage adjustment taking effect under subparagraph (A) in any calendar year (before rounding), in any rate of pay, exceed the percentage adjustment taking effect in such calendar year under section 5303 of title 5 in the rates of pay under the General Schedule.
 
-(Aug. 2, 1946, ch. 753, title VI, § 601(a), 60 Stat. 850; Jan. 19, 1949, ch. 2, § 1(d), 63 Stat. 4; Mar. 2, 1955, ch. 9, § 4(a), 69 Stat. 11; Pub. L. 88–426, title II, § 204, Aug. 14, 1964, 78 Stat. 415; Pub. L. 89–301, § 11(e), Oct. 29, 1965, 79 Stat. 1120; Pub. L. 91–67, § 2, Sept. 15, 1969, 83 Stat. 107; Pub. L. 94–82, title II, § 204(a), Aug. 9, 1975, 89 Stat. 421; Pub. L. 101–194, title VII, § 704(a)(2)(B), Nov. 30, 1989, 103 Stat. 1769; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(4)(D)], Nov. 5, 1990, 104 Stat. 1427, 1439; Pub. L. 103–356, title I, § 101(1), Oct. 13, 1994, 108 Stat. 3410.)
+(Aug. 2, 1946, ch. 753, title VI, § 601(a), 60 Stat. 850; Jan. 19, 1949, ch. 2, § 1(d), 63 Stat. 4; Mar. 2, 1955, ch. 9, § 4(a), 69 Stat. 11; Pub. L. 88–426, title II, § 204, Aug. 14, 1964, 78 Stat. 415; Pub. L. 89–301, § 11(e), Oct. 29, 1965, 79 Stat. 1120; Pub. L. 91–67, § 2, Sept. 15, 1969, 83 Stat. 107; Pub. L. 94–82, title II, § 204(a), Aug. 9, 1975, 89 Stat. 421; Pub. L. 101–194, title VII, § 704(a)(2)(B), Nov. 30, 1989, 103 Stat. 1769; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(4)(D)], Nov. 5, 1990, 104 Stat. 1427, 1439; Pub. L. 103–356, title I, § 101(1), Oct. 13, 1994, 108 Stat. 3410.)
 
 **Editorial Notes**
 
@@ -75,11 +75,11 @@ Section was formerly classified to section 31 of this title prior to editorial r
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–356, title I, § 101, Oct. 13, 1994, 108 Stat. 3410, provided that the amendment made by that section is effective Dec. 31, 1994.
+Pub. L. 103–356, title I, § 101, Oct. 13, 1994, 108 Stat. 3410, provided that the amendment made by that section is effective Dec. 31, 1994.
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
 
 **Effective Date of 1989 Amendment**
 
@@ -99,7 +99,7 @@ Amendment by Pub. L. 88–426 effective at noon, Jan. 3, 1965, see section 501(b
 
 **Effective Date of 1955 Amendment**
 
-Act Mar. 2, 1955, ch. 9, § 5, 69 Stat. 11, provided that: “The provisions of this Act [amending this section, section 104 of Title 3, The President, section 7443 of Title 26, Internal Revenue Code, sections 5, 44, 135, 173, 213, 252, and 508 of Title 28, Judiciary and Judicial Procedure, section 101 of Title 48, Territories and Insular Possessions, and section 654 of Title 50, War and National Defense, and repealing section 31a of this title] shall take effect Mar. 1, 1955.”
+Act Mar. 2, 1955, ch. 9, § 5, 69 Stat. 11, provided that: “The provisions of this Act [amending this section, section 104 of Title 3, The President, section 7443 of Title 26, Internal Revenue Code, sections 5, 44, 135, 173, 213, 252, and 508 of Title 28, Judiciary and Judicial Procedure, section 101 of Title 48, Territories and Insular Possessions, and section 654 of Title 50, War and National Defense, and repealing section 31a of this title] shall take effect Mar. 1, 1955.”
 
 **Effective Date of 1949 Amendment**
 
@@ -107,27 +107,27 @@ Amendment by act Jan. 19, 1949, effective at noon, Jan. 20, 1949, see section 3 
 
 **Effective Date**
 
-Act Aug. 2, 1946, ch. 753, title VI, § 601(a), 60 Stat. 850, provided that the salary rates provided by such section 601(a) are effective Jan. 3, 1947.
+Act Aug. 2, 1946, ch. 753, title VI, § 601(a), 60 Stat. 850, provided that the salary rates provided by such section 601(a) are effective Jan. 3, 1947.
 
 **Short Title of 2021 Amendment**
 
-Pub. L. 117–10, § 1, Apr. 23, 2021, 135 Stat. 259, provided that: “This Act [amending section 4576 of this title and enacting provisions set out as a note under section 4576 of this title] may be cited as the ‘Senate Shared Employee Act’.”
+Pub. L. 117–10, § 1, Apr. 23, 2021, 135 Stat. 259, provided that: “This Act [amending section 4576 of this title and enacting provisions set out as a note under section 4576 of this title] may be cited as the ‘Senate Shared Employee Act’.”
 
 **Short Title of 2013 Amendment**
 
-Pub. L. 113–3, § 1, Feb. 4, 2013, 127 Stat. 51, provided that: “This Act [see Tables for classification] may be cited as the ‘No Budget, No Pay Act of 2013’.”
+Pub. L. 113–3, § 1, Feb. 4, 2013, 127 Stat. 51, provided that: “This Act [see Tables for classification] may be cited as the ‘No Budget, No Pay Act of 2013’.”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–186, § 1(a), Aug. 20, 1996, 110 Stat. 1718, provided that: “This Act [see Tables for classification] may be cited as the ‘House of Representatives Administrative Reform Technical Corrections Act’.”
+Pub. L. 104–186, § 1(a), Aug. 20, 1996, 110 Stat. 1718, provided that: “This Act [see Tables for classification] may be cited as the ‘House of Representatives Administrative Reform Technical Corrections Act’.”
 
 **Short Title of 1964 Amendment**
 
-Pub. L. 88–426, title II, § 201, Aug. 14, 1964, 78 Stat. 413, provided that: “This title [see Tables for classification] may be cited as the ‘Federal Legislative Salary Act of 1964’.”
+Pub. L. 88–426, title II, § 201, Aug. 14, 1964, 78 Stat. 413, provided that: “This title [see Tables for classification] may be cited as the ‘Federal Legislative Salary Act of 1964’.”
 
 **Holding Salaries of Members of Congress in Escrow Upon Failure To Agree to Budget Resolution**
 
-Pub. L. 113–3, § 3, Feb. 4, 2013, 127 Stat. 51, provided that:
+Pub. L. 113–3, § 3, Feb. 4, 2013, 127 Stat. 51, provided that:
 
 > **“(a) Holding Salaries in Escrow.—**
 
@@ -155,45 +155,45 @@ Pub. L. 113–3, § 3, Feb. 4, 2013, 127 Stat. 51, provided that:
 
 **Cost of Living Adjustment**
 
-Pub. L. 119–37, div. C, title II, § 210, Nov. 12, 2025, 139 Stat. 584, provided that: “Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 4501) (relating to cost of living adjustments for Members of Congress) during fiscal year 2026.”
+Pub. L. 119–37, div. C, title II, § 210, Nov. 12, 2025, 139 Stat. 584, provided that: “Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 (2 U.S.C. 4501) (relating to cost of living adjustments for Members of Congress) during fiscal year 2026.”
 
 Similar provisions were contained in the following prior acts:
 
-Pub. L. 118–47, § 7, Mar. 23, 2024, 138 Stat. 461.
+Pub. L. 118–47, § 7, Mar. 23, 2024, 138 Stat. 461.
 
-Pub. L. 117–328, § 6, Dec. 29, 2022, 136 Stat. 4462.
+Pub. L. 117–328, § 6, Dec. 29, 2022, 136 Stat. 4462.
 
-Pub. L. 117–103, § 6, Mar. 15, 2022, 136 Stat. 52.
+Pub. L. 117–103, § 6, Mar. 15, 2022, 136 Stat. 52.
 
-Pub. L. 116–260, § 7, Dec. 27, 2020, 134 Stat. 1185.
+Pub. L. 116–260, § 7, Dec. 27, 2020, 134 Stat. 1185.
 
-Pub. L. 116–94, § 7, Dec. 20, 2019, 133 Stat. 2536.
+Pub. L. 116–94, § 7, Dec. 20, 2019, 133 Stat. 2536.
 
-Pub. L. 115–244, div. B, title II, § 212, Sept. 21, 2018, 132 Stat. 2946.
+Pub. L. 115–244, div. B, title II, § 212, Sept. 21, 2018, 132 Stat. 2946.
 
-Pub. L. 115–141, § 7(a), Mar. 23, 2018, 132 Stat. 351.
+Pub. L. 115–141, § 7(a), Mar. 23, 2018, 132 Stat. 351.
 
-Pub. L. 114–223, div. C, § 175, as added by Pub. L. 114–254, div. A, § 101(3), Dec. 10, 2016, 130 Stat. 1012.
+Pub. L. 114–223, div. C, § 175, as added by Pub. L. 114–254, div. A, § 101(3), Dec. 10, 2016, 130 Stat. 1012.
 
-Pub. L. 114–113, § 9, Dec. 18, 2015, 129 Stat. 2245.
+Pub. L. 114–113, § 9, Dec. 18, 2015, 129 Stat. 2245.
 
-Pub. L. 113–235, § 8, Dec. 16, 2014, 128 Stat. 2133.
+Pub. L. 113–235, § 8, Dec. 16, 2014, 128 Stat. 2133.
 
-Pub. L. 113–46, div. A, § 146, Oct. 17, 2013, 127 Stat. 565.
+Pub. L. 113–46, div. A, § 146, Oct. 17, 2013, 127 Stat. 565.
 
-Pub. L. 112–240, title VIII, § 802, Jan. 2, 2013, 126 Stat. 2369.
+Pub. L. 112–240, title VIII, § 802, Jan. 2, 2013, 126 Stat. 2369.
 
-Pub. L. 111–165, § 1, May 14, 2010, 124 Stat. 1185.
+Pub. L. 111–165, § 1, May 14, 2010, 124 Stat. 1185.
 
-Pub. L. 111–8, div. J, § 103, Mar. 11, 2009, 123 Stat. 988.
+Pub. L. 111–8, div. J, § 103, Mar. 11, 2009, 123 Stat. 988.
 
-Pub. L. 109–289, div. B, title I, § 115, as added by Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 12.
+Pub. L. 109–289, div. B, title I, § 115, as added by Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 12.
 
-Pub. L. 103–6, § 7, Mar. 4, 1993, 107 Stat. 35.
+Pub. L. 103–6, § 7, Mar. 4, 1993, 107 Stat. 35.
 
 **Annual Rate of Pay Increase for Certain Members of Congress Serving On or After July 1, 1983**
 
-Pub. L. 98–63, title I, § 908(d), (f), July 30, 1983, 97 Stat. 338, which provided that, effective with respect to service as a Member performed on or after July 1, 1983, and notwithstanding any other provision of law, in the case of a Member serving in office or position of Senator, President pro tempore of Senate, Majority Leader of Senate, or Minority Leader of Senate during a calendar year, the annual rate of pay paid to such Member for such service would not be less than the annual rate of pay payable for such position on Dec. 17, 1982, increased by 15 percent and rounded in accordance with section 5318 of Title 5, was repealed by Pub. L. 102–90, title I, § 6(c), Aug. 14, 1991, 105 Stat. 451.
+Pub. L. 98–63, title I, § 908(d), (f), July 30, 1983, 97 Stat. 338, which provided that, effective with respect to service as a Member performed on or after July 1, 1983, and notwithstanding any other provision of law, in the case of a Member serving in office or position of Senator, President pro tempore of Senate, Majority Leader of Senate, or Minority Leader of Senate during a calendar year, the annual rate of pay paid to such Member for such service would not be less than the annual rate of pay payable for such position on Dec. 17, 1982, increased by 15 percent and rounded in accordance with section 5318 of Title 5, was repealed by Pub. L. 102–90, title I, § 6(c), Aug. 14, 1991, 105 Stat. 451.
 
 **Salary Increases**
 
@@ -207,11 +207,11 @@ For miscellaneous provisions dealing with adjustments of pay and limitations on 
 
 For adjustment of pay rates under this section, see the executive order detailing the adjustment of certain rates of pay set out as a note under section 5332 of Title 5, Government Organization and Employees.
 
-#### § 4502. Appropriation of funds for compensation of Members of Congress and for administrative expenses at levels authorized by law and recommended by the President for Federal employees
+#### § 4502. Appropriation of funds for compensation of Members of Congress and for administrative expenses at levels authorized by law and recommended by the President for Federal employees
 
 Effective beginning with fiscal year 1983, and continuing each year thereafter, such sums as hereafter may be necessary for “Compensation of Members” (and administrative expenses related thereto), as authorized by law and at such level recommended by the President for Federal employees for that fiscal year are hereby appropriated from money in the Treasury not otherwise appropriated. Such sums when paid shall be in lieu of any sums accrued in prior years but not paid. For purposes of this subsection, the term “Member” means each Member of the Senate and the House of Representatives, the Resident Commissioner from Puerto Rico, the Delegates from the District of Columbia, Guam, Virgin Islands, and American Samoa, and the Vice President.
 
-(Pub. L. 97–51, § 130(c), Oct. 1, 1981, 95 Stat. 966.)
+(Pub. L. 97–51, § 130(c), Oct. 1, 1981, 95 Stat. 966.)
 
 **Editorial Notes**
 
@@ -219,7 +219,7 @@ Effective beginning with fiscal year 1983, and continuing each year thereafter, 
 
 Section was formerly classified as a note under section 31 of this title prior to editorial reclassification and renumbering as this section.
 
-#### § 4503. Jury and witness service by Senate and House employees
+#### § 4503. Jury and witness service by Senate and House employees
 
 **(a) Definitions** For purposes of this section—
 
@@ -265,7 +265,7 @@ The Committee on Rules and Administration of the Senate and the Committee on Hou
 
 No provision of this section shall be construed to confer the consent of either House of the Congress to the production of official records of that House or to testimony by an employee of that House concerning activities related to his employment.
 
-(Pub. L. 91–563, § 6, Dec. 19, 1970, 84 Stat. 1478; Pub. L. 94–310, § 2, June 15, 1976, 90 Stat. 687; Pub. L. 104–186, title II, § 204(74), (75), Aug. 20, 1996, 110 Stat. 1741.)
+(Pub. L. 91–563, § 6, Dec. 19, 1970, 84 Stat. 1478; Pub. L. 94–310, § 2, June 15, 1976, 90 Stat. 687; Pub. L. 104–186, title II, § 204(74), (75), Aug. 20, 1996, 110 Stat. 1741.)
 
 **Editorial Notes**
 
@@ -279,9 +279,9 @@ Section was formerly classified to section 130b of this title prior to editorial
 
 **Amendments**
 
-1996—Subsec. (a)(1). Pub. L. 104–186, § 204(74), substituted “Chief Administrative Officer” for “Clerk”.
+1996—Subsec. (a)(1). Pub. L. 104–186, § 204(74), substituted “Chief Administrative Officer” for “Clerk”.
 
-Subsec. (f). Pub. L. 104–186, § 204(75), substituted “House Oversight” for “House Administration”.
+Subsec. (f). Pub. L. 104–186, § 204(75), substituted “House Oversight” for “House Administration”.
 
 1976—Subsec. (b)(2). Pub. L. 94–310 substituted “other than as provided in subsection (c) of this section, as a witness on behalf of any party in connection with any judicial proceeding to which the United States, the District of Columbia, or a State or local government is a party” for “as a witness on behalf of a party other than the United States, the District of Columbia, or a private party”.
 
@@ -293,7 +293,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–310, § 4, June 15, 1976, 90 Stat. 687, provided that: “The amendments made by this Act [amending this section and sections 6322 and 8906 of Title 5, Government Organization and Employees] shall take effect on October 1, 1976, or on the date of the enactment of this Act [June 15, 1976], whichever date is later.”
+Pub. L. 94–310, § 4, June 15, 1976, 90 Stat. 687, provided that: “The amendments made by this Act [amending this section and sections 6322 and 8906 of Title 5, Government Organization and Employees] shall take effect on October 1, 1976, or on the date of the enactment of this Act [June 15, 1976], whichever date is later.”
 
 **Termination of United States District Court for the District of the Canal Zone**
 
@@ -305,7 +305,7 @@ For termination of the United States District Court for the District of the Cana
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-#### § 4504. Nonpay status for Congressional employees studying under Congressional staff fellowships
+#### § 4504. Nonpay status for Congressional employees studying under Congressional staff fellowships
 
 **(a)** With respect to each employee of the Senate or House of Representatives—
 
@@ -323,7 +323,7 @@ the period of time covered by such fellowship shall be held and considered to be
 
 **(3)** chapter 89 (relating to Federal employees group health insurance) of title 5.
 
-(Pub. L. 89–379, Mar. 30, 1966, 80 Stat. 94; Pub. L. 104–186, title II, § 204(73), Aug. 20, 1996, 110 Stat. 1741.)
+(Pub. L. 89–379, Mar. 30, 1966, 80 Stat. 94; Pub. L. 104–186, title II, § 204(73), Aug. 20, 1996, 110 Stat. 1741.)
 
 **Editorial Notes**
 
@@ -343,7 +343,7 @@ Section was formerly classified to section 130a of this title prior to editorial
 
 if the award”, “Chief Administrative Officer of the House of Representatives, as appropriate” for “Clerk of the House of Representatives, as appropriate”, and “Chief Administrative Officer of the House of Representatives by records” for “Clerk of the House by records”, and added subsec. (b).
 
-#### § 4505. Voluntary separation incentive payments
+#### § 4505. Voluntary separation incentive payments
 
 **(a) Authority to offer payments**
 
@@ -389,17 +389,17 @@ No voluntary separation incentive payment may be paid under this section with re
 
 For purposes of this subsection, the “applicable committee” with respect to an office means any committee of the House of Representatives or Senate with jurisdiction over the activities of the office under the applicable rules of the House of Representatives and the Senate (as determined by the head of the office), but does not include the Committees on Appropriations of the House of Representatives and the Senate.
 
-**(d) Repealed. Pub. L. 112–74, div. G, title I, § 1401(a)(1), Dec. 23, 2011, 125 Stat. 1134**
+**(d) Repealed. Pub. L. 112–74, div. G, title I, § 1401(a)(1), Dec. 23, 2011, 125 Stat. 1134**
 
 **(e) Eligible employee defined**
 
 **(1) In general** In this section, an “eligible employee” is an employee (as defined in section 2105,1
 
-<sup>1</sup>  So in original. Probably should be “2105 of title 5,”.
+<sup>1</sup> So in original. Probably should be “2105 of title 5,”.
 
 United States Code) or a Congressional employee (as defined in section 2107,2
 
-<sup>2</sup>  So in original. Probably should be “2107 of title 5,”.
+<sup>2</sup> So in original. Probably should be “2107 of title 5,”.
 
 United States Code) who—
 
@@ -449,7 +449,7 @@ For purposes of paragraph (1) (but not paragraph (2)), the term “employment”
 
 This section shall take effect on December 8, 2004, and shall apply with respect to the portion of fiscal year 2005 occurring on and after December 8, 2004, and to each succeeding fiscal year.
 
-(Pub. L. 108–447, div. G, title II, § 210, Dec. 8, 2004, 118 Stat. 3194; Pub. L. 112–74, div. G, title I, § 1401(a), Dec. 23, 2011, 125 Stat. 1134.)
+(Pub. L. 108–447, div. G, title II, § 210, Dec. 8, 2004, 118 Stat. 3194; Pub. L. 112–74, div. G, title I, § 1401(a), Dec. 23, 2011, 125 Stat. 1134.)
 
 **Editorial Notes**
 
@@ -461,21 +461,21 @@ Section is from the Legislative Branch Appropriations Act, 2005, which is div. G
 
 **Amendments**
 
-2011—Subsec. (d). Pub. L. 112–74, § 1401(a)(1), struck out subsec. (d). Prior to amendment, text read as follows: “This section shall not apply to any office which is an Executive agency under section 105 of title 5 or any employee of such an office.”
+2011—Subsec. (d). Pub. L. 112–74, § 1401(a)(1), struck out subsec. (d). Prior to amendment, text read as follows: “This section shall not apply to any office which is an Executive agency under section 105 of title 5 or any employee of such an office.”
 
-Subsec. (f)(2)(A). Pub. L. 112–74, § 1401(a)(2), substituted “title 5, but excluding the Government Accountability Office” for “title 5”.
+Subsec. (f)(2)(A). Pub. L. 112–74, § 1401(a)(2), substituted “title 5, but excluding the Government Accountability Office” for “title 5”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–74, div. G, title I, § 1401(c), Dec. 23, 2011, 125 Stat. 1134, provided that: “The amendments made by this section [amending this section and section 3521 of Title 5, Government Organization and Employees] shall apply with respect to voluntary separation incentive payments made during fiscal year 2012 or any succeeding fiscal year.”
+Pub. L. 112–74, div. G, title I, § 1401(c), Dec. 23, 2011, 125 Stat. 1134, provided that: “The amendments made by this section [amending this section and section 3521 of Title 5, Government Organization and Employees] shall apply with respect to voluntary separation incentive payments made during fiscal year 2012 or any succeeding fiscal year.”
 
-#### § 4506. Death gratuity payments as gifts
+#### § 4506. Death gratuity payments as gifts
 
 Any death gratuity payment at any time specifically appropriated by any Act of Congress or at any time made out of the applicable accounts of the House of Representatives or the contingent fund of the Senate shall be held to have been a gift.
 
-(June 5, 1952, ch. 369, Ch. I, 66 Stat. 101; Pub. L. 104–186, title II, § 203(6), Aug. 20, 1996, 110 Stat. 1725.)
+(June 5, 1952, ch. 369, Ch. I, 66 Stat. 101; Pub. L. 104–186, title II, § 203(6), Aug. 20, 1996, 110 Stat. 1725.)
 
 **Editorial Notes**
 
@@ -487,11 +487,11 @@ Section was formerly classified identically to sections 38b and 125a of this tit
 
 1996—Pub. L. 104–186 substituted “applicable accounts of the House of Representatives or the contingent fund” for “contingent fund of the House of Representatives or”.
 
-#### § 4507. Longevity compensation
+#### § 4507. Longevity compensation
 
-**(a) Eligible employees** This section shall apply 1
+**(a) Eligible employees** This section shall apply 1
 
-<sup>1</sup>  See Inapplicability of Section to Certain Employees note below.
+<sup>1</sup> See Inapplicability of Section to Certain Employees note below.
 
 to—
 
@@ -505,9 +505,9 @@ to—
 
 **(2)** each employee of the Senate authorized by Senate resolution to be appointed by the Secretary of the Senate or the Sergeant at Arms and Doorkeeper, except employees designated as “special employees”; and
 
-**(3)** each employee of the Capitol Guide Service established under section 2166 2
+**(3)** each employee of the Capitol Guide Service established under section 2166 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title.
 
@@ -527,13 +527,13 @@ of this title.
 
 **(4)** Longevity compensation shall be payable on and after the first day of the first month following completion of each period of creditable service upon which such compensation is based.
 
-(Pub. L. 87–730, § 106(a), (b), (d), Oct. 2, 1962, 76 Stat. 694, 695; Pub. L. 88–454, § 104(b), Aug. 20, 1964, 78 Stat. 550; Pub. L. 90–57, § 105(g), July 28, 1967, 81 Stat. 143; Pub. L. 90–206, title II, § 214(n), Dec. 16, 1967, 81 Stat. 637; Pub. L. 91–656, § 4, Jan. 8, 1971, 84 Stat. 1952; Pub. L. 93–371, Aug. 13, 1974, 88 Stat. 436; Pub. L. 95–240, title II, § 205, Mar. 7, 1978, 92 Stat. 117; Pub. L. 95–391, title I, § 110(a), Sept. 30, 1978, 92 Stat. 774; Pub. L. 96–304, title I, § 107(b), July 8, 1980, 94 Stat. 890.)
+(Pub. L. 87–730, § 106(a), (b), (d), Oct. 2, 1962, 76 Stat. 694, 695; Pub. L. 88–454, § 104(b), Aug. 20, 1964, 78 Stat. 550; Pub. L. 90–57, § 105(g), July 28, 1967, 81 Stat. 143; Pub. L. 90–206, title II, § 214(n), Dec. 16, 1967, 81 Stat. 637; Pub. L. 91–656, § 4, Jan. 8, 1971, 84 Stat. 1952; Pub. L. 93–371, Aug. 13, 1974, 88 Stat. 436; Pub. L. 95–240, title II, § 205, Mar. 7, 1978, 92 Stat. 117; Pub. L. 95–391, title I, § 110(a), Sept. 30, 1978, 92 Stat. 774; Pub. L. 96–304, title I, § 107(b), July 8, 1980, 94 Stat. 890.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2166 of this title, referred to in subsec. (a)(3), was repealed by Pub. L. 110–437, title IV, § 422(a), Oct. 20, 2008, 122 Stat. 4996.
+Section 2166 of this title, referred to in subsec. (a)(3), was repealed by Pub. L. 110–437, title IV, § 422(a), Oct. 20, 2008, 122 Stat. 4996.
 
 **Codification**
 
@@ -543,11 +543,11 @@ Subsecs. (a) and (b) of this section are from subsecs. (a) and (b) of section 10
 
 **Amendments**
 
-1982—Subsec. (b)(1). Figure “463” deemed to refer to the figure “482”, effective Oct. 1, 1982, pursuant to Pub. L. 91–656, § 4, see section 10 of Salary Directive of President pro tempore of the Senate, Oct. 1, 1982, set out as a note under section 60a–1 of this title.
+1982—Subsec. (b)(1). Figure “463” deemed to refer to the figure “482”, effective Oct. 1, 1982, pursuant to Pub. L. 91–656, § 4, see section 10 of Salary Directive of President pro tempore of the Senate, Oct. 1, 1982, set out as a note under section 60a–1 of this title.
 
-1981—Subsec. (b)(1). Figure “$441” deemed to refer to the figure “$463”, effective Oct. 1, 1981, pursuant to Pub. L. 91–656, § 4, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 5, 1981, set out as a note under section 60a–1 of this title.
+1981—Subsec. (b)(1). Figure “$441” deemed to refer to the figure “$463”, effective Oct. 1, 1981, pursuant to Pub. L. 91–656, § 4, see section 9 of Salary Directive of President pro tempore of the Senate, Oct. 5, 1981, set out as a note under section 60a–1 of this title.
 
-1980—Subsec. (b)(1). Figure “404” deemed to refer to the figure “441”, effective Oct. 1, 1980, pursuant to Pub. L. 91–656, § 4, see section 10 of Salary Directive of President pro tempore of the Senate, Oct. 1, 1980, set out as a note under section 60a–1 of this title.
+1980—Subsec. (b)(1). Figure “404” deemed to refer to the figure “441”, effective Oct. 1, 1980, pursuant to Pub. L. 91–656, § 4, see section 10 of Salary Directive of President pro tempore of the Senate, Oct. 1, 1980, set out as a note under section 60a–1 of this title.
 
 Pub. L. 96–304 substituted “$404” for “two times the multiple contained in section 1(a) of the applicable Order of the President Pro Tempore of the Senate issued under authority of section 60a–1 of this title”.
 
@@ -557,29 +557,29 @@ Pub. L. 95–240 inserted reference to Deputy Chief Guide in par. (8).
 
 Subsec. (b). Pub. L. 95–391 substituted provisions setting forth requirements respecting the computation, except as provided in par. (2), of additional annual compensation for any employee to whom this section applies during any period of continuous creditable service, for provisions setting forth requirements respecting the computation of additional gross compensation for any employee to whom this section applies during any period of continuous service.
 
-1977—Subsec. (b). Figure “1,002” deemed to refer to the figure “1,074”, effective Oct. 1, 1977, pursuant to Pub. L. 91–656, § 4, see section 4(c) of Salary Directive of President pro tempore of the Senate, Sept. 29, 1977, set out as a note under section 60a–1 of this title.
+1977—Subsec. (b). Figure “1,002” deemed to refer to the figure “1,074”, effective Oct. 1, 1977, pursuant to Pub. L. 91–656, § 4, see section 4(c) of Salary Directive of President pro tempore of the Senate, Sept. 29, 1977, set out as a note under section 60a–1 of this title.
 
-1976—Subsec. (b). Figure “954” deemed to refer to the figure “1,002”, effective Oct. 1, 1976, pursuant to Pub. L. 91–656, § 4, see section 4(d) of Salary Directive of President pro tempore of the Senate, Oct. 8, 1976, set out as a note under section 60a–1 of this title.
+1976—Subsec. (b). Figure “954” deemed to refer to the figure “1,002”, effective Oct. 1, 1976, pursuant to Pub. L. 91–656, § 4, see section 4(d) of Salary Directive of President pro tempore of the Senate, Oct. 8, 1976, set out as a note under section 60a–1 of this title.
 
-1975—Subsec. (b). Figure “906” deemed to refer to the figure “954”, effective Oct. 1, 1975, pursuant to Pub. L. 91–656, § 4, see section 4(d) of Salary Directive of President pro tempore of the Senate, Oct. 2, 1975, set out as a note under section 60a–1 of this title.
+1975—Subsec. (b). Figure “906” deemed to refer to the figure “954”, effective Oct. 1, 1975, pursuant to Pub. L. 91–656, § 4, see section 4(d) of Salary Directive of President pro tempore of the Senate, Oct. 2, 1975, set out as a note under section 60a–1 of this title.
 
 1974—Subsec. (a)(8). Pub. L. 93–371 added par. (8).
 
-Subsec. (b). Figure “855” deemed to refer to the figure “906”, effective Oct. 1, 1974, pursuant to Pub. L. 91–656, § 4, see section 4(d) of Salary Directive of President pro tempore of the Senate, Oct. 7, 1974, set out as a note under section 60a–1 of this title.
+Subsec. (b). Figure “855” deemed to refer to the figure “906”, effective Oct. 1, 1974, pursuant to Pub. L. 91–656, § 4, see section 4(d) of Salary Directive of President pro tempore of the Senate, Oct. 7, 1974, set out as a note under section 60a–1 of this title.
 
-1973—Subsec. (b). Figure “816” deemed to refer to the figure “855”, effective Oct. 1, 1973, pursuant to Pub. L. 91–656, § 4, see section 4(d) of Salary Directive of President pro tempore of the Senate, Oct. 4, 1973, set out as a note under section 60a–1 of this title.
+1973—Subsec. (b). Figure “816” deemed to refer to the figure “855”, effective Oct. 1, 1973, pursuant to Pub. L. 91–656, § 4, see section 4(d) of Salary Directive of President pro tempore of the Senate, Oct. 4, 1973, set out as a note under section 60a–1 of this title.
 
-1972—Subsec. (b). Figure “777” deemed to refer to the figure “816” pursuant to Pub. L. 91–656, § 4, see section 4(d) of Salary Directive of President pro tempore of the Senate, Dec. 16, 1972, set out as a note under section 60a–1 of this title.
+1972—Subsec. (b). Figure “777” deemed to refer to the figure “816” pursuant to Pub. L. 91–656, § 4, see section 4(d) of Salary Directive of President pro tempore of the Senate, Dec. 16, 1972, set out as a note under section 60a–1 of this title.
 
-1971—Subsec. (b). Figure “738” deemed to refer to the figure “777”, effective Jan. 1, 1972, pursuant to Pub. L. 91–656, § 4, see section 4(d) of Salary Directive of President pro tempore of the Senate, Dec. 23, 1971, set out as a note under section 60a–1 of this title.
+1971—Subsec. (b). Figure “738” deemed to refer to the figure “777”, effective Jan. 1, 1972, pursuant to Pub. L. 91–656, § 4, see section 4(d) of Salary Directive of President pro tempore of the Senate, Dec. 23, 1971, set out as a note under section 60a–1 of this title.
 
 Figure “696” deemed to refer to the figure “738”, effective Feb. 1, 1971, pursuant to Pub. L. 91–656, see section 4(d) of Salary Directive of President pro tempore of the Senate, Jan. 15, 1971, set out as a note under section 60a–1 of this title.
 
-1969—Subsec. (b). Figure “597”, as increased by Order of June 12, 1968, deemed, on and after July 1, 1969, to refer to the figure “657”, pursuant to Pub. L. 90–206, § 225(h), see section 4(c) of Salary Directive of President pro tempore of the Senate, June 17, 1969, set out as a note under section 60a–1 of this title.
+1969—Subsec. (b). Figure “597”, as increased by Order of June 12, 1968, deemed, on and after July 1, 1969, to refer to the figure “657”, pursuant to Pub. L. 90–206, § 225(h), see section 4(c) of Salary Directive of President pro tempore of the Senate, June 17, 1969, set out as a note under section 60a–1 of this title.
 
-1968—Subsec. (b). Figure “564”, deemed, on and after July 1, 1968, to refer to the figure “597”, pursuant to Pub. L. 90–206, § 225(h), see section 1(h) of Salary Directive of President pro tempore of the Senate, June 12, 1968, set out as a note under section 60a–1 of this title.
+1968—Subsec. (b). Figure “564”, deemed, on and after July 1, 1968, to refer to the figure “597”, pursuant to Pub. L. 90–206, § 225(h), see section 1(h) of Salary Directive of President pro tempore of the Senate, June 12, 1968, set out as a note under section 60a–1 of this title.
 
-1967—Subsec. (b). Pub. L. 90–206, § 214(n), substituted “$564” for “540”.
+1967—Subsec. (b). Pub. L. 90–206, § 214(n), substituted “$564” for “540”.
 
 Pub. L. 90–57 substituted in first sentence “gross compensation” and “$540 per annum” for “basic compensation” and “$120 per annum” and struck out “if at the time of such payment the annual rate of basic compensation (exclusive of longevity compensation) of the position in which employed is less than $1,800, or $180 per annum if at such time such rate is $1,800 or more,” before “for each five years of service”.
 
@@ -589,13 +589,13 @@ Pub. L. 90–57 substituted in first sentence “gross compensation” and “$5
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–304, title I, § 107(d), July 8, 1980, 94 Stat. 890, provided that: “The amendments made by this section [amending this section, section 4575, and former section 60j–3 of this title] shall take effect on October 1, 1980.”
+Pub. L. 96–304, title I, § 107(d), July 8, 1980, 94 Stat. 890, provided that: “The amendments made by this section [amending this section, section 4575, and former section 60j–3 of this title] shall take effect on October 1, 1980.”
 
 **Effective Date of 1978 Amendments**
 
-Pub. L. 95–391, title I, § 110(b), Sept. 30, 1978, 92 Stat. 775, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the first day of the first month which begins after the date of the enactment of this Act [Sept. 30, 1978]. The gross compensation of employees entitled to longevity compensation on such first day under section 106 of the Legislative Branch Appropriation Act, 1963 [this section], shall be adjusted in accordance with the provisions of such section as amended by subsection (a). No increase in compensation by reason of such amendment shall take effect for any pay period beginning before such first day, and no monetary benefit by reason of such amendment shall accrue for any period before such first day.”
+Pub. L. 95–391, title I, § 110(b), Sept. 30, 1978, 92 Stat. 775, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the first day of the first month which begins after the date of the enactment of this Act [Sept. 30, 1978]. The gross compensation of employees entitled to longevity compensation on such first day under section 106 of the Legislative Branch Appropriation Act, 1963 [this section], shall be adjusted in accordance with the provisions of such section as amended by subsection (a). No increase in compensation by reason of such amendment shall take effect for any pay period beginning before such first day, and no monetary benefit by reason of such amendment shall accrue for any period before such first day.”
 
-Pub. L. 95–240, title II, § 205, Mar. 7, 1978, 92 Stat. 117, provided that the amendment made by that section is effective Oct. 1, 1977.
+Pub. L. 95–240, title II, § 205, Mar. 7, 1978, 92 Stat. 117, provided that the amendment made by that section is effective Oct. 1, 1977.
 
 **Effective Date of 1967 Amendments**
 
@@ -609,7 +609,7 @@ Amendment by Pub. L. 88–454 effective Sept. 1, 1964, see section 104(d) of Pub
 
 **Effective Date**
 
-Pub. L. 87–730, § 106(e), Oct. 2, 1962, 76 Stat. 695, provided that: “This section [enacting this section and amending former section 60i of this title] shall become effective on September 1, 1962.”
+Pub. L. 87–730, § 106(e), Oct. 2, 1962, 76 Stat. 695, provided that: “This section [enacting this section and amending former section 60i of this title] shall become effective on September 1, 1962.”
 
 **Transfer of Functions**
 
@@ -621,15 +621,15 @@ Certain functions of Clerk of House of Representatives transferred to Director o
 
 This section not to apply, on or after Oct. 1, 1983, to any individual whose pay is disbursed by the Secretary of the Senate except for individuals entitled to longevity compensation prior to Oct. 1, 1983, on the basis of service performed prior to such date, see section 4509 of this title.
 
-#### § 4508. Longevity compensation for telephone operators on United States telephone exchange and members of Capitol Police paid by Chief Administrative Officer of House
+#### § 4508. Longevity compensation for telephone operators on United States telephone exchange and members of Capitol Police paid by Chief Administrative Officer of House
 
-The provisions of subsections (a) and (b) of section 4507 1
+The provisions of subsections (a) and (b) of section 4507 1
 
-<sup>1</sup>  See Inapplicability of Section 4507 to Certain Employees note below.
+<sup>1</sup> See Inapplicability of Section 4507 to Certain Employees note below.
 
 of this title (as amended by section 110 of Pub. L. 95–391), shall apply to telephone operators (including the chief operator and assistant chief operators) on the United States Capitol telephone exchange and members of the Capitol Police whose compensation is disbursed by the Chief Administrative Officer of the House of Representatives in the same manner and to the same extent as such provisions apply to individuals whose compensation is disbursed by the Secretary of the Senate. For purposes of so applying such subsections, creditable service shall include service performed as an employee of the United States Capitol telephone exchange or a member of the Capitol Police whether compensation therefor is disbursed by the Chief Administrative Officer of the House of Representatives or the Secretary of the Senate.
 
-(Pub. L. 95–391, title III, § 310, Sept. 30, 1978, 92 Stat. 790; Pub. L. 104–186, title II, § 204(8), Aug. 20, 1996, 110 Stat. 1731.)
+(Pub. L. 95–391, title III, § 310, Sept. 30, 1978, 92 Stat. 790; Pub. L. 104–186, title II, § 204(8), Aug. 20, 1996, 110 Stat. 1731.)
 
 **Editorial Notes**
 
@@ -651,11 +651,11 @@ Statutory functions, duties, or authority of Chief Administrative Officer of the
 
 Section 4507 of this title, referred to in text, not to apply, on or after Oct. 1, 1983, to any individual whose pay is disbursed by the Secretary of the Senate except for individuals entitled to longevity compensation prior to Oct. 1, 1983, on the basis of service performed prior to such date, see section 4509 of this title.
 
-#### § 4509. Longevity compensation not applicable to individuals paid by Secretary of Senate; savings provision
+#### § 4509. Longevity compensation not applicable to individuals paid by Secretary of Senate; savings provision
 
 Section 4507 of this title on or after October 1, 1983 shall not apply to any individual whose pay is disbursed by the Secretary of the Senate; except that, any individual who prior to such date was entitled to longevity compensation under such section on the basis of service performed prior to such date shall continue to be entitled to such compensation, but no individual shall accrue any longevity compensation on the basis of service performed on or after such date.
 
-(Pub. L. 98–51, title I, § 107, July 14, 1983, 97 Stat. 267.)
+(Pub. L. 98–51, title I, § 107, July 14, 1983, 97 Stat. 267.)
 
 **Editorial Notes**
 
@@ -667,11 +667,11 @@ Section is from the Congressional Operations Appropriation Act, 1984, which is t
 
 ### Part B—Administration
 
-#### § 4521. Mode of payment
+#### § 4521. Mode of payment
 
 The compensation of Members and Delegates shall be passed as public accounts, and paid out of the public Treasury.
 
-(R.S. § 46.)
+(R.S. § 46.)
 
 **Editorial Notes**
 
@@ -679,13 +679,13 @@ The compensation of Members and Delegates shall be passed as public accounts, an
 
 Section was formerly classified to section 47 of this title prior to editorial reclassification and renumbering as this section.
 
-R.S. § 46 derived from acts Jan. 22, 1818, ch. 5, § 3, 3 Stat. 404, and Feb. 10, 1854, ch. 11, § 1, 10 Stat. 267.
+R.S. § 46 derived from acts Jan. 22, 1818, ch. 5, § 3, 3 Stat. 404, and Feb. 10, 1854, ch. 11, § 1, 10 Stat. 267.
 
-#### § 4522. Deductions for withdrawal
+#### § 4522. Deductions for withdrawal
 
 When any Member or Delegate withdraws from his seat and does not return before the adjournment of Congress, he shall, in addition to the sum deducted for each day, forfeit a sum equal to the amount which would have been allowed by law for his mileage in returning home; and such sum shall be deducted from his compensation, unless the withdrawal is with the leave of the Senate or House of Representatives respectively.
 
-(R.S. § 41.)
+(R.S. § 41.)
 
 **Editorial Notes**
 
@@ -693,13 +693,13 @@ When any Member or Delegate withdraws from his seat and does not return before t
 
 Section was formerly classified to section 40 of this title prior to editorial reclassification and renumbering as this section.
 
-R.S. § 41 derived from Res. July 17, 1862, No. 68, § 2, 12 Stat. 628.
+R.S. § 41 derived from Res. July 17, 1862, No. 68, § 2, 12 Stat. 628.
 
-#### § 4523. Deductions for delinquent indebtedness
+#### § 4523. Deductions for delinquent indebtedness
 
 Whenever a Representative, Delegate, Resident Commissioner, or a United States Senator, shall fail to pay any sum or sums due from such person to the House of Representatives or Senate, respectively, the appropriate committee or officer of the House of Representatives or Senate, as the case may be, having jurisdiction of the activity under which such debt arose, shall certify such delinquent sum or sums to the Chief Administrative Officer of the House of Representatives in the case of an indebtedness to the House of Representatives and to the Secretary of the Senate in the case of an indebtedness to the Senate, and such latter officials are authorized and directed, respectively, to deduct from any salary, mileage, or expense money due to any such delinquent such certified amounts or so much thereof as the balance or balances due such delinquent may cover. Sums so deducted by the Secretary of the Senate shall be disposed of by him in accordance with existing law, and sums so deducted by the Chief Administrative Officer of the House of Representatives shall be disposed of by him in accordance with existing law.
 
-(June 19, 1934, ch. 648, title I, § 1, 48 Stat. 1024; Pub. L. 104–186, title II, § 203(8), Aug. 20, 1996, 110 Stat. 1726.)
+(June 19, 1934, ch. 648, title I, § 1, 48 Stat. 1024; Pub. L. 104–186, title II, § 203(8), Aug. 20, 1996, 110 Stat. 1726.)
 
 **Editorial Notes**
 
@@ -711,7 +711,7 @@ Section was formerly classified to section 40a of this title prior to editorial 
 
 1996—Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives in” for “Sergeant at Arms of the House in” and “Chief Administrative Officer of the House of Representatives shall be” for “Sergeant at Arms of the House shall be paid to the Clerk of the House and”.
 
-#### § 4524. Withholding of charitable contributions from salaries paid by Secretary of Senate and from employees of Architect of Capitol
+#### § 4524. Withholding of charitable contributions from salaries paid by Secretary of Senate and from employees of Architect of Capitol
 
 **(a) Definitions** For purposes of this section, the term—
 
@@ -755,7 +755,7 @@ This section imposes no duty, burden, or requirement upon the United States, the
 
 The Secretary and the Architect are authorized to issue rules and regulations they consider appropriate in carrying out their duties under this section.
 
-(Pub. L. 95–470, Oct. 17, 1978, 92 Stat. 1323; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783.)
+(Pub. L. 95–470, Oct. 17, 1978, 92 Stat. 1323; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783.)
 
 **Editorial Notes**
 
@@ -773,13 +773,13 @@ Section was formerly classified to section 60c–4 of this title prior to editor
 
 **Transfer of Functions**
 
-“Director of the Office of Personnel Management” substituted for “Chairman of the Civil Service Commission” in subsec. (b)(1) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in United States Civil Service Commission and Chairman thereof to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+“Director of the Office of Personnel Management” substituted for “Chairman of the Civil Service Commission” in subsec. (b)(1) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in United States Civil Service Commission and Chairman thereof to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
 ## SUBCHAPTER II—HOUSE OF REPRESENTATIVES
 
 ### Part A—Amount and Type
 
-#### § 4531. House of Representatives pay adjustments; action by Chief Administrative Officer of House
+#### § 4531. House of Representatives pay adjustments; action by Chief Administrative Officer of House
 
 **(a)** Whenever an adjustment under section 5303 of title 5 becomes effective with respect to rates of pay under the General Schedule, the Chief Administrative Officer of the House of Representatives, in such manner as he considers advisable—
 
@@ -803,7 +803,7 @@ by an amount rounded to the nearest $100 and computed on the basis of a percenta
 
 **(e)** No rate of pay for any position shall be adjusted under this section to an amount in excess of the rate of pay in effect for such position under an order issued by the Speaker of the House of Representatives pursuant to the authority of section 4532 of this title.
 
-(Pub. L. 91–656, § 5, Jan. 8, 1971, 84 Stat. 1952; Pub. L. 92–298, § 3(b), May 17, 1972, 86 Stat. 146; Pub. L. 92–392, § 14(b), Aug. 19, 1972, 86 Stat. 575; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(4)(F), (10)], Nov. 5, 1990, 104 Stat. 1427, 1440, 1442; Pub. L. 102–378, § 5(b), Oct. 2, 1992, 106 Stat. 1358; Pub. L. 104–186, title II, § 204(1), Aug. 20, 1996, 110 Stat. 1729; Pub. L. 116–94, div. E, title II, § 212(b)(2), Dec. 20, 2019, 133 Stat. 2776.)
+(Pub. L. 91–656, § 5, Jan. 8, 1971, 84 Stat. 1952; Pub. L. 92–298, § 3(b), May 17, 1972, 86 Stat. 146; Pub. L. 92–392, § 14(b), Aug. 19, 1972, 86 Stat. 575; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(4)(F), (10)], Nov. 5, 1990, 104 Stat. 1427, 1440, 1442; Pub. L. 102–378, § 5(b), Oct. 2, 1992, 106 Stat. 1358; Pub. L. 104–186, title II, § 204(1), Aug. 20, 1996, 110 Stat. 1729; Pub. L. 116–94, div. E, title II, § 212(b)(2), Dec. 20, 2019, 133 Stat. 2776.)
 
 **Editorial Notes**
 
@@ -811,19 +811,19 @@ by an amount rounded to the nearest $100 and computed on the basis of a percenta
 
 Section was formerly classified to section 60a–2 of this title prior to editorial reclassification and renumbering as this section.
 
-In subsec. (b), “sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of title 31” substituted for “section 665 of title 31, United States Code” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b), “sections 1341, 1342, and 1349–1351 and subchapter II of chapter 15 of title 31” substituted for “section 665 of title 31, United States Code” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
 2019—Subsec. (e). Pub. L. 116–94, which directed amendment of section “4(e) of the Federal Pay Comparability Act of 1970 (2 U.S.C. 4531(e))” by amending subsec. (e) generally, was executed to section 5(e) of the Act, which is subsec. (e) of this section, to reflect the probable intent of Congress. Prior to amendment, subsec. (e) read as follows: “No rate of pay shall be adjusted under this section to an amount in excess of the rate of basic pay of level V of the Executive Schedule contained in section 5316 of title 5.”
 
-1996—Subsec. (a). Pub. L. 104–186, § 204(1)(A), substituted “Chief Administrative Officer of the House of Representatives” for “Clerk of the House of Representatives” in introductory provisions.
+1996—Subsec. (a). Pub. L. 104–186, § 204(1)(A), substituted “Chief Administrative Officer of the House of Representatives” for “Clerk of the House of Representatives” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 104–186, § 204(1)(D), substituted “Chief Administrative Officer” for “Clerk” in concluding provisions.
+Subsec. (a)(1). Pub. L. 104–186, § 204(1)(D), substituted “Chief Administrative Officer” for “Clerk” in concluding provisions.
 
-Subsec. (a)(1)(A). Pub. L. 104–186, § 204(1)(B), substituted “Chief Administrative Officer” for “Clerk of the House”.
+Subsec. (a)(1)(A). Pub. L. 104–186, § 204(1)(B), substituted “Chief Administrative Officer” for “Clerk of the House”.
 
-Subsec. (a)(1)(B). Pub. L. 104–186, § 204(1)(C), struck out “, including but not limited to—
+Subsec. (a)(1)(B). Pub. L. 104–186, § 204(1)(C), struck out “, including but not limited to—
 
 “(i) the clerk hire allowance for each Member of the House of Representatives and the Resident Commissioner from Puerto Rico; and
 
@@ -831,23 +831,23 @@ Subsec. (a)(1)(B). Pub. L. 104–186, § 204(1)(C), struck out “, includin
 
 after “class of employees”.
 
-Subsec. (a)(2). Pub. L. 104–186, § 204(1)(E), substituted “Chief Administrative Officer” for “Clerk” in two places.
+Subsec. (a)(2). Pub. L. 104–186, § 204(1)(E), substituted “Chief Administrative Officer” for “Clerk” in two places.
 
-Subsec. (b). Pub. L. 104–186, § 204(1)(F), substituted “Chief Administrative Officer” for “Clerk of the House”.
+Subsec. (b). Pub. L. 104–186, § 204(1)(F), substituted “Chief Administrative Officer” for “Clerk of the House”.
 
-Subsec. (d). Pub. L. 104–186, § 204(1)(G), substituted “Chief Administrative Officer” for “Clerk of the House of Representatives”.
+Subsec. (d). Pub. L. 104–186, § 204(1)(G), substituted “Chief Administrative Officer” for “Clerk of the House of Representatives”.
 
 1992—Subsec. (a). Pub. L. 102–378 inserted “of title 5” after “section 5303”.
 
-1990—Subsec. (a). Pub. L. 101–509, § 529 [title I, § 101(b)(4)(F)(i)], substituted “(a) Whenever an adjustment under section 5303 becomes effective with respect to rates of pay under the General Schedule,” for “(a) Whenever a pay adjustment by the President under section 5305 of title 5 is made effective pursuant to subsection (a)(2), or subsections (c) to (m), inclusive, as the case may be, of such section 5305, or section 3(c) of this Act, then”.
+1990—Subsec. (a). Pub. L. 101–509, § 529 [title I, § 101(b)(4)(F)(i)], substituted “(a) Whenever an adjustment under section 5303 becomes effective with respect to rates of pay under the General Schedule,” for “(a) Whenever a pay adjustment by the President under section 5305 of title 5 is made effective pursuant to subsection (a)(2), or subsections (c) to (m), inclusive, as the case may be, of such section 5305, or section 3(c) of this Act, then”.
 
-Subsec. (a)(1). Pub. L. 101–509, § 529 [title I, § 101(b)(10)], made technical correction to Pub. L. 92–298 and Pub. L. 92–392, see 1972 Amendment note below.
+Subsec. (a)(1). Pub. L. 101–509, § 529 [title I, § 101(b)(10)], made technical correction to Pub. L. 92–298 and Pub. L. 92–392, see 1972 Amendment note below.
 
-Pub. L. 101–509, § 529 [title I, § 101(b)(4)(F)(iii)], in closing provisions, substituted “adjustment under such section 5303;” for “pay adjustment made by the President;”.
+Pub. L. 101–509, § 529 [title I, § 101(b)(4)(F)(iii)], in closing provisions, substituted “adjustment under such section 5303;” for “pay adjustment made by the President;”.
 
-Subsec. (a)(1)(A). Pub. L. 101–509, § 529 [title I, § 101(b)(4)(F)(ii)], substituted “adjustment)” for “pay adjustment by the President)”.
+Subsec. (a)(1)(A). Pub. L. 101–509, § 529 [title I, § 101(b)(4)(F)(ii)], substituted “adjustment)” for “pay adjustment by the President)”.
 
-1972—Subsec. (a)(1). Pub. L. 92–298 and Pub. L. 92–392, as amended by Pub. L. 101–509, § 529 [title I, § 101(b)(10)], made identical substitutions in introductory provisions of “effective on the first day of the month in which such pay adjustments by the President” for “effective at the beginning of the first pay period commencing on or after the day on which such pay adjustment by the President”.
+1972—Subsec. (a)(1). Pub. L. 92–298 and Pub. L. 92–392, as amended by Pub. L. 101–509, § 529 [title I, § 101(b)(10)], made identical substitutions in introductory provisions of “effective on the first day of the month in which such pay adjustments by the President” for “effective at the beginning of the first pay period commencing on or after the day on which such pay adjustment by the President”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -857,7 +857,7 @@ Amendment by Pub. L. 116–94 effective on the later of the first day of the fir
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
 
 **Effective Date of 1972 Amendment**
 
@@ -875,15 +875,15 @@ June 11, 1968, increases eff. July 1, 1968, Cong. Rec., vol. 114, pt. 13, p. 167
 
 The following acts provided increases in compensation for elected officers and certain employees of the House of Representatives:
 
-Pub. L. 85–462, § 4(k), (*l*), June 20, 1958, 72 Stat. 209.
+Pub. L. 85–462, § 4(k), (*l*), June 20, 1958, 72 Stat. 209.
 
-June 28, 1955, ch. 189, § 4(c), 69 Stat. 176.
+June 28, 1955, ch. 189, § 4(c), 69 Stat. 176.
 
-Oct. 24, 1951, ch. 554, § 2(e), 65 Stat. 614.
+Oct. 24, 1951, ch. 554, § 2(e), 65 Stat. 614.
 
-Oct. 28, 1949, ch. 783, title I, § 101(d), 63 Stat. 974.
+Oct. 28, 1949, ch. 783, title I, § 101(d), 63 Stat. 974.
 
-#### § 4532. Rates of compensation disbursed by Chief Administrative Officer of House; adjustments by Speaker; “Member of the House of Representatives” defined
+#### § 4532. Rates of compensation disbursed by Chief Administrative Officer of House; adjustments by Speaker; “Member of the House of Representatives” defined
 
 **(1)** Notwithstanding any other provision of this Act, or any other provision of law, rule, or regulation, on and after December 22, 1987, each time the President pro tempore of the Senate exercises any authority pursuant to any of the amendments made by this section with respect to rates of pay or any other matter relating to personnel whose pay is disbursed by the Secretary of the Senate, or whenever any of the events described in paragraph (2) occurs, the Speaker of the House of Representatives may adjust the rates of pay (and any minimum or maximum rate, limitation, or allowance) applicable to personnel whose pay is disbursed by the Chief Administrative Officer of the House of Representatives to the extent necessary to ensure—
 
@@ -917,15 +917,15 @@ Oct. 28, 1949, ch. 783, title I, § 101(d), 63 Stat. 974.
 
 **(4)** For the purpose of this section, the term “Member of the House of Representatives” means a Member of the House of Representatives, a Delegate to the House of Representatives, and the Resident Commissioner from Puerto Rico.
 
-(Pub. L. 100–202, § 101(i) [title III, § 311(d)], Dec. 22, 1987, 101 Stat. 1329–290, 1329–310; Pub. L. 101–520, title III, § 308, Nov. 5, 1990, 104 Stat. 2277; Pub. L. 102–90, title III, § 308, Aug. 14, 1991, 105 Stat. 466; Pub. L. 104–186, title II, § 204(2), Aug. 20, 1996, 110 Stat. 1729; Pub. L. 116–94, div. E, title II, § 212(b)(1), Dec. 20, 2019, 133 Stat. 2776.)
+(Pub. L. 100–202, § 101(i) [title III, § 311(d)], Dec. 22, 1987, 101 Stat. 1329–290, 1329–310; Pub. L. 101–520, title III, § 308, Nov. 5, 1990, 104 Stat. 2277; Pub. L. 102–90, title III, § 308, Aug. 14, 1991, 105 Stat. 466; Pub. L. 104–186, title II, § 204(2), Aug. 20, 1996, 110 Stat. 1729; Pub. L. 116–94, div. E, title II, § 212(b)(1), Dec. 20, 2019, 133 Stat. 2776.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in par. (1), probably means the Legislative Branch Appropriations Act, 1988, Pub. L. 100–202, § 101(i), Dec. 22, 1987, 101 Stat. 1329–290. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in par. (1), probably means the Legislative Branch Appropriations Act, 1988, Pub. L. 100–202, § 101(i), Dec. 22, 1987, 101 Stat. 1329–290. For complete classification of this Act to the Code, see Tables.
 
-The amendments made by this section, referred to in par. (1), means the amendments made by section 101(i) [title III, § 311] of Pub. L. 100–202, Dec. 22, 1987, 101 Stat. 1329–290, 1329–310, which enacted this section, amended section 4571 of this title, and enacted provisions set out as a note under section 4571 of this title.
+The amendments made by this section, referred to in par. (1), means the amendments made by section 101(i) [title III, § 311] of Pub. L. 100–202, Dec. 22, 1987, 101 Stat. 1329–290, 1329–310, which enacted this section, amended section 4571 of this title, and enacted provisions set out as a note under section 4571 of this title.
 
 The General Schedule, referred to in pars. (1)(B)(i)(III) and (2)(A), is set out under section 5332 of Title 5, Government Organization and Employees.
 
@@ -939,9 +939,9 @@ Section is from the Congressional Operations Appropriations Act, 1988, which is 
 
 **Amendments**
 
-2019—Par. (1)(C). Pub. L. 116–94, § 212(b)(1)(A), added subpar. (C).
+2019—Par. (1)(C). Pub. L. 116–94, § 212(b)(1)(A), added subpar. (C).
 
-Pars. (3), (4). Pub. L. 116–94, § 212(b)(1)(B), (C), added par. (3) and redesignated former par. (3) as (4).
+Pars. (3), (4). Pub. L. 116–94, § 212(b)(1)(B), (C), added par. (3) and redesignated former par. (3) as (4).
 
 1996—Par. (1). Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives” for “Clerk of the House of Representatives”.
 
@@ -1037,11 +1037,11 @@ Feb. 8, 1990, eff. Feb. 1, 1990.
 
 Jan. 20, 1988, eff. Jan. 1, 1988.
 
-#### § 4533. Single per annum gross rates of pay for employees
+#### § 4533. Single per annum gross rates of pay for employees
 
 Whenever the rate of pay of an employee whose pay is disbursed by the Chief Administrative Officer of the House of Representatives is fixed or adjusted on or after the effective date of this section, that rate, as so fixed or adjusted, shall be a single per annum gross rate.
 
-(Pub. L. 91–510, title IV, § 471, Oct. 26, 1970, 84 Stat. 1193; Pub. L. 104–186, title II, § 210(1), Aug. 20, 1996, 110 Stat. 1743.)
+(Pub. L. 91–510, title IV, § 471, Oct. 26, 1970, 84 Stat. 1193; Pub. L. 104–186, title II, § 210(1), Aug. 20, 1996, 110 Stat. 1743.)
 
 **Editorial Notes**
 
@@ -1061,11 +1061,11 @@ Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) 
 
 **Inconsistent Provisions**
 
-Pub. L. 91–510, title IV, § 477(b), Oct. 26, 1970, 84 Stat. 1195, provided that: “All provisions of law inconsistent with any provision of this Part [Part 7 of title IV of Pub. L. 91–510, see Tables for classification] are hereby superseded to the extent of the inconsistency.”
+Pub. L. 91–510, title IV, § 477(b), Oct. 26, 1970, 84 Stat. 1195, provided that: “All provisions of law inconsistent with any provision of this Part [Part 7 of title IV of Pub. L. 91–510, see Tables for classification] are hereby superseded to the extent of the inconsistency.”
 
-[Pub. L. 91–510, title IV, § 477(b), set out above, effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under section 4301 of this title.]
+[Pub. L. 91–510, title IV, § 477(b), set out above, effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under section 4301 of this title.]
 
-#### § 4534. Obsolete references in existing law to basic pay rates
+#### § 4534. Obsolete references in existing law to basic pay rates
 
 In any case in which—
 
@@ -1073,19 +1073,19 @@ In any case in which—
 
 **(2)** the rate so referred to or provided is a basic rate with respect to which additional pay is provided by law;
 
-such statutory provision or resolution shall be deemed to refer, in lieu of such basic rate, to the per annum gross rate which an employee receiving such basic rate immediately prior to the effective date of this section would receive, without regard to such statutory provision or resolution, under section 334 1
+such statutory provision or resolution shall be deemed to refer, in lieu of such basic rate, to the per annum gross rate which an employee receiving such basic rate immediately prior to the effective date of this section would receive, without regard to such statutory provision or resolution, under section 334 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title on and after such date.
 
-(Pub. L. 91–510, title IV, § 475, Oct. 26, 1970, 84 Stat. 1195; Pub. L. 104–186, title II, § 210(4), Aug. 20, 1996, 110 Stat. 1743.)
+(Pub. L. 91–510, title IV, § 475, Oct. 26, 1970, 84 Stat. 1195; Pub. L. 104–186, title II, § 210(4), Aug. 20, 1996, 110 Stat. 1743.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 334 of this title, referred to in text, was repealed by Pub. L. 104–186, title II, § 210(3)(A), Aug. 20, 1996, 110 Stat. 1743.
+Section 334 of this title, referred to in text, was repealed by Pub. L. 104–186, title II, § 210(3)(A), Aug. 20, 1996, 110 Stat. 1743.
 
 **Codification**
 
@@ -1101,11 +1101,11 @@ Section was formerly classified to section 335 of this title prior to editorial 
 
 Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under section 4301 of this title.
 
-#### § 4535. Saving provision
+#### § 4535. Saving provision
 
-The provisions of this Part 1
+The provisions of this Part 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall not be construed to—
 
@@ -1113,13 +1113,13 @@ shall not be construed to—
 
 **(2)** affect the continuity of employment of, or reduce the pay of, any employee whose pay is disbursed by the Chief Administrative Officer of the House.
 
-(Pub. L. 91–510, title IV, § 476, Oct. 26, 1970, 84 Stat. 1195; Pub. L. 104–186, title II, § 210(5), Aug. 20, 1996, 110 Stat. 1743.)
+(Pub. L. 91–510, title IV, § 476, Oct. 26, 1970, 84 Stat. 1195; Pub. L. 104–186, title II, § 210(5), Aug. 20, 1996, 110 Stat. 1743.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Part, referred to in text, means Part 7 (§§ 471–477) of title IV of Pub. L. 91–510, Oct. 26, 1970, 84 Stat. 1193. For complete classification of Part 7 to the Code, see Tables.
+This Part, referred to in text, means Part 7 (§§ 471–477) of title IV of Pub. L. 91–510, Oct. 26, 1970, 84 Stat. 1193. For complete classification of Part 7 to the Code, see Tables.
 
 **Codification**
 
@@ -1135,7 +1135,7 @@ Section was formerly classified to section 336 of this title prior to editorial 
 
 Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) of Pub. L. 91–510, set out as an Effective Date of 1970 Amendment note under section 4301 of this title.
 
-#### § 4536. Student loan repayment program for House employees
+#### § 4536. Student loan repayment program for House employees
 
 **(a) Program to cover student loan repayment, educational assistance, and professional development for House employees**
 
@@ -1163,7 +1163,7 @@ The Committee on House Administration shall promulgate such regulations as may b
 
 There are authorized to be appropriated such sums as may be necessary to carry out the program under this section during fiscal year 2003 and each succeeding fiscal year.
 
-(Pub. L. 108–7, div. H, title I, § 105, Feb. 20, 2003, 117 Stat. 354; Pub. L. 116–260, div. I, title I, § 114(a), Dec. 27, 2020, 134 Stat. 1636; Pub. L. 117–328, div. I, title I, § 114(a), Dec. 29, 2022, 136 Stat. 4923.)
+(Pub. L. 108–7, div. H, title I, § 105, Feb. 20, 2003, 117 Stat. 354; Pub. L. 116–260, div. I, title I, § 114(a), Dec. 27, 2020, 134 Stat. 1636; Pub. L. 117–328, div. I, title I, § 114(a), Dec. 29, 2022, 136 Stat. 4923.)
 
 **Editorial Notes**
 
@@ -1183,15 +1183,15 @@ Section is from the Legislative Branch Appropriations Act, 2003, which is div. H
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–328, div. I, title I, § 114(b), Dec. 29, 2022, 136 Stat. 4923, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to payments made during fiscal year 2023 or any succeeding fiscal year.”
+Pub. L. 117–328, div. I, title I, § 114(b), Dec. 29, 2022, 136 Stat. 4923, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to payments made during fiscal year 2023 or any succeeding fiscal year.”
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. I, title I, § 114(b)(1), Dec. 27, 2020, 134 Stat. 1636, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2021 and each succeeding fiscal year.”
+Pub. L. 116–260, div. I, title I, § 114(b)(1), Dec. 27, 2020, 134 Stat. 1636, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2021 and each succeeding fiscal year.”
 
 **Permitting Additional Payments on Behalf of Individuals Whose Payments Reached Prior Limit**
 
-Pub. L. 116–260, div. I, title I, § 114(b)(2), Dec. 27, 2020, 134 Stat. 1636, provided that:
+Pub. L. 116–260, div. I, title I, § 114(b)(2), Dec. 27, 2020, 134 Stat. 1636, provided that:
 
 > “In promulgating regulations to carry out the amendment made by subsection (a) [amending this section], the Committee on House Administration of the House of Representatives shall include regulations to permit payments to be made under the program under section 105 of the Legislative Branch Appropriations Act, 2003 (2 U.S.C. 4536) on behalf of an individual who—
 
@@ -1201,7 +1201,7 @@ Pub. L. 116–260, div. I, title I, § 114(b)(2), Dec. 27, 2020, 134 Stat. 163
 
 > **“(C)** prior to fiscal year 2021, became ineligible to have payments made on the individual’s behalf under the program because the aggregate amount of the payments made on the individual’s behalf under the program reached the limit on such aggregate amount which (under regulations promulgated by the Committee) was in effect prior to fiscal year 2021.”
 
-#### § 4537. Lump sum payment for accrued annual leave of House employees
+#### § 4537. Lump sum payment for accrued annual leave of House employees
 
 **(a) Approval; amount; source of payments** Upon the approval of the appropriate employing authority, an employee of the House of Representatives may be paid a lump sum for the accrued annual leave of the employee or for any other purpose. The lump sum—
 
@@ -1233,7 +1233,7 @@ As used in this section, the term “employee of the House of Representatives”
 
 Payments under this section may be made with respect to separations from employment taking place after June 30, 1995.
 
-(Pub. L. 104–53, title I, § 109, Nov. 19, 1995, 109 Stat. 522; Pub. L. 105–55, title I, § 103(a), Oct. 7, 1997, 111 Stat. 1183.)
+(Pub. L. 104–53, title I, § 109, Nov. 19, 1995, 109 Stat. 522; Pub. L. 105–55, title I, § 103(a), Oct. 7, 1997, 111 Stat. 1183.)
 
 **Editorial Notes**
 
@@ -1245,9 +1245,9 @@ Section is from the Congressional Operations Appropriations Act, 1996, which is 
 
 **Amendments**
 
-1997—Subsec. (a). Pub. L. 105–55, § 103(a)(1), (2), in introductory provisions, struck out “who is separated from employment,” after “House of Representatives” and substituted “of the employee or for any other purpose” for “of the employee”.
+1997—Subsec. (a). Pub. L. 105–55, § 103(a)(1), (2), in introductory provisions, struck out “who is separated from employment,” after “House of Representatives” and substituted “of the employee or for any other purpose” for “of the employee”.
 
-Subsec. (a)(1)(B). Pub. L. 105–55, § 103(a)(3), substituted “in the case of a lump sum payment for the accrued annual leave of the employee, the amount” for “the amount”.
+Subsec. (a)(1)(B). Pub. L. 105–55, § 103(a)(3), substituted “in the case of a lump sum payment for the accrued annual leave of the employee, the amount” for “the amount”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1257,15 +1257,15 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–55, title I, § 103(b), Oct. 7, 1997, 111 Stat. 1183, provided that: “The amendments made by subsection (a) [amending this section] shall apply to fiscal years beginning on or after October 1, 1997.”
+Pub. L. 105–55, title I, § 103(b), Oct. 7, 1997, 111 Stat. 1183, provided that: “The amendments made by subsection (a) [amending this section] shall apply to fiscal years beginning on or after October 1, 1997.”
 
-#### § 4538. Reimbursement of residential telecommunications expenses for House Members, officers, and employees
+#### § 4538. Reimbursement of residential telecommunications expenses for House Members, officers, and employees
 
 **(a)** Notwithstanding any other provision of law, official resources may be used during a fiscal year (beginning with fiscal year 1999), in accordance with regulations of the Committee on House Oversight, to reimburse a Member, officer, or employee of the House of Representatives for the ordinary and necessary expenses related to the official use of telecommunications lines in the residence of the Member, officer, or employee.
 
 **(b)** The Committee on House Oversight shall promulgate such regulations as are necessary to implement this section.
 
-(Pub. L. 105–275, title I, § 109, Oct. 21, 1998, 112 Stat. 2439.)
+(Pub. L. 105–275, title I, § 109, Oct. 21, 1998, 112 Stat. 2439.)
 
 **Editorial Notes**
 
@@ -1283,11 +1283,11 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 ### Part B—Administration
 
-#### § 4551. Day for paying salaries of the House of Representatives
+#### § 4551. Day for paying salaries of the House of Representatives
 
 The usual day for paying salaries in or under the House of Representatives shall be the last day of each month, except that if the last day of a month falls on a Saturday, Sunday, or a legal public holiday, the Chief Administrative Officer of the House of Representatives shall pay such salaries on the first weekday which precedes the last day.
 
-(Pub. L. 107–68, title I, § 116(a), Nov. 12, 2001, 115 Stat. 573.)
+(Pub. L. 107–68, title I, § 116(a), Nov. 12, 2001, 115 Stat. 573.)
 
 **Editorial Notes**
 
@@ -1301,13 +1301,13 @@ Section is from the Congressional Operations Appropriations Act, 2002, which is 
 
 **Effective Date**
 
-Pub. L. 107–68, title I, § 116(c), Nov. 12, 2001, 115 Stat. 573, provided that: “This section [enacting this section and repealing sections 60d, 60e, and 60e–1 of this title] and the amendments made by this section shall apply with respect to pay periods beginning after the expiration of the 1-year period which begins on the date of the enactment of this Act [Nov. 12, 2001].”
+Pub. L. 107–68, title I, § 116(c), Nov. 12, 2001, 115 Stat. 573, provided that: “This section [enacting this section and repealing sections 60d, 60e, and 60e–1 of this title] and the amendments made by this section shall apply with respect to pay periods beginning after the expiration of the 1-year period which begins on the date of the enactment of this Act [Nov. 12, 2001].”
 
-#### § 4552. Certificates to pay rolls of employees of House
+#### § 4552. Certificates to pay rolls of employees of House
 
 The Clerk, Sergeant at Arms, and Chief Administrative Officer of the House of Representatives shall make certificate each month to their respective pay rolls, stating whether the persons named in such pay rolls and employed in their respective departments have been actually present at their respective places of duty and have actually performed the services for which compensation is provided in said pay rolls, and in each case where a person carried on such pay roll has been absent and has not performed the services in whole or in part for which payment is proposed, the reason for such absence and for such nonperformance of services shall be stated.
 
-(Mar. 3, 1901, ch. 830, § 1, 31 Stat. 968; Pub. L. 104–186, title II, § 204(41), Aug. 20, 1996, 110 Stat. 1736.)
+(Mar. 3, 1901, ch. 830, § 1, 31 Stat. 968; Pub. L. 104–186, title II, § 204(41), Aug. 20, 1996, 110 Stat. 1736.)
 
 **Editorial Notes**
 
@@ -1319,11 +1319,11 @@ Section was formerly classified to section 89 of this title prior to editorial r
 
 1996—Pub. L. 104–186 substituted “and Chief Administrative Officer” for “Doorkeeper, and Postmaster”.
 
-#### § 4553. Gratuities for survivors of deceased House employees; computation
+#### § 4553. Gratuities for survivors of deceased House employees; computation
 
 The Chief Administrative Officer of the House of Representatives is on and after July 2, 1954, authorized to pay, from the applicable accounts of the House of Representatives, a gratuity to the widow, widower, or heirs-at-law, of each deceased employee of the House an amount equal to one month’s salary for each year or part of year of the first six years service of such employee plus one-half of one month’s salary for each year or part of year of such service in excess of six years to and including the eighteenth year of such service. Service computed hereunder shall include all Federal civilian employment, and military service where such service interrupted Federal civilian employment.
 
-(July 2, 1954, ch. 455, title I, 68 Stat. 403; Pub. L. 104–186, title II, § 204(70), Aug. 20, 1996, 110 Stat. 1740.)
+(July 2, 1954, ch. 455, title I, 68 Stat. 403; Pub. L. 104–186, title II, § 204(70), Aug. 20, 1996, 110 Stat. 1740.)
 
 **Editorial Notes**
 
@@ -1335,7 +1335,7 @@ Section was formerly classified to section 125 of this title prior to editorial 
 
 1996—Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives” for “Clerk of the House” and “applicable accounts of the House of Representatives” for “contingent fund of the House”.
 
-#### § 4554. Waiver by Speaker of House of claims of United States arising out of erroneous payments to officers or employees paid by Chief Administrative Officer of House
+#### § 4554. Waiver by Speaker of House of claims of United States arising out of erroneous payments to officers or employees paid by Chief Administrative Officer of House
 
 **(a) Waiver of claim for erroneous payment of pay or allowances**
 
@@ -1367,7 +1367,7 @@ This section does not affect any authority under any other law to litigate, sett
 
 The Speaker of the House shall prescribe rules and regulations to carry out the provisions of this section.
 
-(Pub. L. 93–359, § 3, July 25, 1974, 88 Stat. 395; Pub. L. 104–186, title II, § 204(76), Aug. 20, 1996, 110 Stat. 1742; Pub. L. 104–316, title I, § 102(c), Oct. 19, 1996, 110 Stat. 3828.)
+(Pub. L. 93–359, § 3, July 25, 1974, 88 Stat. 395; Pub. L. 104–186, title II, § 204(76), Aug. 20, 1996, 110 Stat. 1742; Pub. L. 104–316, title I, § 102(c), Oct. 19, 1996, 110 Stat. 3828.)
 
 **Editorial Notes**
 
@@ -1377,13 +1377,13 @@ Section was formerly classified to section 130d of this title prior to editorial
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–316 struck out “, if the claim is not the subject of an exception made by the Comptroller General in the account of any accountable officer or official” before period at end.
+1996—Subsec. (a). Pub. L. 104–316 struck out “, if the claim is not the subject of an exception made by the Comptroller General in the account of any accountable officer or official” before period at end.
 
 Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
 Subsec. (b). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
 
-#### § 4555. Withholding of State income tax by Chief Administrative Officer of House
+#### § 4555. Withholding of State income tax by Chief Administrative Officer of House
 
 **(a) Agreement with proper State official; covered individuals**
 
@@ -1415,7 +1415,7 @@ Any agreement entered into under subsection (a) shall not require the Chief Admi
 
 This section and section 4556 of this title impose no duty, burden, or requirement upon the United States, the House of Representatives, or any officer or employee of the United States, except as specifically provided in this section and section 4556 of this title. Nothing in this section and section 4556 of this title shall be deemed to consent to the application of any provision of law which has the effect of subjecting the United States, the House of Representatives, or any officer or employee of the United States to any penalty or liability by reason of the provisions of this section and section 4556 of this title. Any paper, form, document, or any other item filed with, or submitted to, the Chief Administrative Officer under this section and section 4556 of this title is considered to be a paper of the House of Representatives within the provisions of the Rules of the House of Representatives.
 
-(Pub. L. 94–440, title II, § 101, Oct. 1, 1976, 90 Stat. 1448; Pub. L. 104–186, title II, § 204(4), Aug. 20, 1996, 110 Stat. 1730.)
+(Pub. L. 94–440, title II, § 101, Oct. 1, 1976, 90 Stat. 1448; Pub. L. 104–186, title II, § 204(4), Aug. 20, 1996, 110 Stat. 1730.)
 
 **Editorial Notes**
 
@@ -1427,7 +1427,7 @@ Section is based on section 1 of House Resolution No. 732, Ninety-fourth Congres
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–186, § 204(4)(B), substituted “provide that the Chief Administrative Officer shall withhold” for “provide that—
+1996—Subsec. (a). Pub. L. 104–186, § 204(4)(B), substituted “provide that the Chief Administrative Officer shall withhold” for “provide that—
 
 “(1) the Clerk, in the case of employees whose compensation is disbursed by the Clerk; and
 
@@ -1435,17 +1435,17 @@ Section is based on section 1 of House Resolution No. 732, Ninety-fourth Congres
 
 shall withhold”.
 
-Pub. L. 104–186, § 204(4)(A), substituted “Chief Administrative Officer of the House of Representatives shall, in accordance with” for “Clerk of the House of Representatives (hereinafter in this section and section 60e–1b of this title referred to as the ‘Clerk’) and the Sergeant at Arms of the House of Representatives (hereinafter in this section and section 60e–1b of this title referred to as the ‘Sergeant at Arms’) shall, in accordance with the provisions of”.
+Pub. L. 104–186, § 204(4)(A), substituted “Chief Administrative Officer of the House of Representatives shall, in accordance with” for “Clerk of the House of Representatives (hereinafter in this section and section 60e–1b of this title referred to as the ‘Clerk’) and the Sergeant at Arms of the House of Representatives (hereinafter in this section and section 60e–1b of this title referred to as the ‘Sergeant at Arms’) shall, in accordance with the provisions of”.
 
-Subsec. (b). Pub. L. 104–186, § 204(4)(C), substituted “Chief Administrative Officer” for “Clerk or the Sergeant at Arms”.
+Subsec. (b). Pub. L. 104–186, § 204(4)(C), substituted “Chief Administrative Officer” for “Clerk or the Sergeant at Arms”.
 
-Subsec. (c)(1). Pub. L. 104–186, § 204(4)(D), substituted “Chief Administrative Officer” for “Clerk and the Sergeant at Arms”.
+Subsec. (c)(1). Pub. L. 104–186, § 204(4)(D), substituted “Chief Administrative Officer” for “Clerk and the Sergeant at Arms”.
 
-Subsec. (c)(2). Pub. L. 104–186, § 204(4)(E), substituted “Chief Administrative Officer” for “Clerk or the Sergeant at Arms, as the case may be,” in two places.
+Subsec. (c)(2). Pub. L. 104–186, § 204(4)(E), substituted “Chief Administrative Officer” for “Clerk or the Sergeant at Arms, as the case may be,” in two places.
 
-Subsecs. (d), (e). Pub. L. 104–186, § 204(4)(F), substituted “Chief Administrative Officer” for “Clerk or the Sergeant at Arms” wherever appearing.
+Subsecs. (d), (e). Pub. L. 104–186, § 204(4)(F), substituted “Chief Administrative Officer” for “Clerk or the Sergeant at Arms” wherever appearing.
 
-#### § 4556. State income tax withholding; definitions
+#### § 4556. State income tax withholding; definitions
 
 For purposes of section 4555 of this title and this section—
 
@@ -1455,7 +1455,7 @@ For purposes of section 4555 of this title and this section—
 
 **(3)** the term “legislative days” does not include any calendar day on which the House of Representatives is not in session.
 
-(Pub. L. 94–440, title II, § 101, Oct. 1, 1976, 90 Stat. 1448.)
+(Pub. L. 94–440, title II, § 101, Oct. 1, 1976, 90 Stat. 1448.)
 
 **Editorial Notes**
 
@@ -1465,7 +1465,7 @@ Section was formerly classified to section 60e–1b of this title prior to edito
 
 Section is based on section 2 of House Resolution No. 732, Ninety-fourth Congress, Nov. 4, 1975, which was enacted into permanent law by Pub. L. 94–440.
 
-#### § 4557. Withholding of charitable contributions by Chief Administrative Officer of House
+#### § 4557. Withholding of charitable contributions by Chief Administrative Officer of House
 
 **(a) Authority** Until otherwise provided by law and except as provided in subsection (c), the Chief Administrative Officer of the House of Representatives shall—
 
@@ -1499,7 +1499,7 @@ The Chief Administrative Officer of the House of Representatives shall, to the e
 
 This section imposes no duty, burden, or requirement upon the United States, the House of Representatives, or any officer or employee of the United States, except as specifically provided in this section. Nothing in this section shall be deemed to consent to the application of any provision of law which has the effect of subjecting the United States, the House of Representatives, or any officer or employee of the United States to any penalty or liability by reason of the provisions of this section. Any paper, form, document, or any other item filed with, or submitted to, the Chief Administrative Officer of the House of Representatives under this section is considered to be a paper of the House of Representatives within the provisions of the Rules of the House of Representatives.
 
-(Pub. L. 95–391, title I, § 111, Sept. 30, 1978, 92 Stat. 777; Pub. L. 104–186, title II, § 204(5)(A), Aug. 20, 1996, 110 Stat. 1730.)
+(Pub. L. 95–391, title I, § 111, Sept. 30, 1978, 92 Stat. 777; Pub. L. 104–186, title II, § 204(5)(A), Aug. 20, 1996, 110 Stat. 1730.)
 
 **Editorial Notes**
 
@@ -1515,11 +1515,11 @@ Section is based on section 1 of House Resolution No. 12, Ninety-fifth Congress,
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–186, § 204(5)(A)(i), substituted “Chief Administrative Officer” for “Clerk” in introductory provisions.
+1996—Subsec. (a). Pub. L. 104–186, § 204(5)(A)(i), substituted “Chief Administrative Officer” for “Clerk” in introductory provisions.
 
-Subsecs. (b), (d). Pub. L. 104–186, § 204(5)(A)(ii), substituted “Chief Administrative Officer of the House of Representatives” for “Clerk”.
+Subsecs. (b), (d). Pub. L. 104–186, § 204(5)(A)(ii), substituted “Chief Administrative Officer of the House of Representatives” for “Clerk”.
 
-#### § 4558. Withholding of charitable contributions; definitions
+#### § 4558. Withholding of charitable contributions; definitions
 
 For purposes of section 4557 of this title—
 
@@ -1527,7 +1527,7 @@ For purposes of section 4557 of this title—
 
 **(2)** the term “employee” means any employee of the House of Representatives whose compensation is disbursed by the Chief Administrative Officer of the House of Representatives.
 
-(Pub. L. 95–391, title I, § 111, Sept. 30, 1978, 92 Stat. 777; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 104–186, title II, § 204(5)(B), Aug. 20, 1996, 110 Stat. 1730.)
+(Pub. L. 95–391, title I, § 111, Sept. 30, 1978, 92 Stat. 777; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 104–186, title II, § 204(5)(B), Aug. 20, 1996, 110 Stat. 1730.)
 
 **Editorial Notes**
 
@@ -1543,23 +1543,23 @@ Section is based on section 2 of House Resolution No. 12, Ninety-fifth Congress,
 
 **Amendments**
 
-1996—Par. (1). Pub. L. 104–186, § 204(5)(B)(i), inserted “and” at end.
+1996—Par. (1). Pub. L. 104–186, § 204(5)(B)(i), inserted “and” at end.
 
-Par. (2). Pub. L. 104–186, § 204(5)(B)(ii), (iv), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “the term ‘Clerk’ means the Clerk of the House of Representatives;”.
+Par. (2). Pub. L. 104–186, § 204(5)(B)(ii), (iv), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “the term ‘Clerk’ means the Clerk of the House of Representatives;”.
 
-Par. (3). Pub. L. 104–186, § 204(5)(B)(iii), (iv), substituted “Chief Administrative Officer of the House of Representatives” for “Clerk” and redesignated par. (3) as (2).
+Par. (3). Pub. L. 104–186, § 204(5)(B)(iii), (iv), substituted “Chief Administrative Officer of the House of Representatives” for “Clerk” and redesignated par. (3) as (2).
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-“Director of the Office of Personnel Management” substituted for “Chairman of the Civil Service Commission” in par. (1) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in United States Civil Service Commission and Chairman thereof to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+“Director of the Office of Personnel Management” substituted for “Chairman of the Civil Service Commission” in par. (1) pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in United States Civil Service Commission and Chairman thereof to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
-#### § 4559. Certification of indebtedness of employees of House; withholding of amount
+#### § 4559. Certification of indebtedness of employees of House; withholding of amount
 
 Whenever an employee of the House of Representatives becomes indebted to the House of Representatives and fails to pay the indebtedness, the chairman of the committee or the elected officer of the House of Representatives that has jurisdiction over the activity under which the indebtedness arises may certify to the Chief Administrative Officer of the House of Representatives the amount of the indebtedness. The Chief Administrative Officer of the House of Representatives is authorized to withhold the amount so certified from any amount which is disbursed by him and which is due to, or on behalf of, such employee. Whenever an amount is withheld under this section, the appropriate account shall be credited in an amount equal to the amount so withheld. As used in this section, the term “employee of the House of Representatives” means any person in the legislative branch of the Government whose salary, wages, or other compensation is disbursed by the Chief Administrative Officer of the House of Representatives.
 
-(Pub. L. 85–492, July 2, 1958, 72 Stat. 293; Pub. L. 104–186, title II, § 204(42), Aug. 20, 1996, 110 Stat. 1736.)
+(Pub. L. 85–492, July 2, 1958, 72 Stat. 293; Pub. L. 104–186, title II, § 204(42), Aug. 20, 1996, 110 Stat. 1736.)
 
 **Editorial Notes**
 
@@ -1569,13 +1569,13 @@ Section was formerly classified to section 89a of this title prior to editorial 
 
 **Amendments**
 
-1996—Pub. L. 104–186 substituted “and fails to pay the indebtedness, the chairman of the committee or the elected officer of the House of Representatives that has jurisdiction over the activity under which the indebtedness arises may certify to the Chief Administrative Officer of the House of Representatives the amount of the indebtedness” for “, or to the trust fund account in the office of the Sergeant at Arms of the House of Representatives, and such employee fails to pay such indebtedness, the chairman of the committee, or the elected officer, of the House of Representatives having jurisdiction of the activity under which such indebtedness arose, is authorized to certify to the Clerk of the House of Representatives the amount of such indebtedness” in first sentence and “Chief Administrative Officer” for “Clerk” in second and last sentences.
+1996—Pub. L. 104–186 substituted “and fails to pay the indebtedness, the chairman of the committee or the elected officer of the House of Representatives that has jurisdiction over the activity under which the indebtedness arises may certify to the Chief Administrative Officer of the House of Representatives the amount of the indebtedness” for “, or to the trust fund account in the office of the Sergeant at Arms of the House of Representatives, and such employee fails to pay such indebtedness, the chairman of the committee, or the elected officer, of the House of Representatives having jurisdiction of the activity under which such indebtedness arose, is authorized to certify to the Clerk of the House of Representatives the amount of such indebtedness” in first sentence and “Chief Administrative Officer” for “Clerk” in second and last sentences.
 
-#### § 4560. Deductions by Chief Administrative Officer in disbursement of gratuity appropriations
+#### § 4560. Deductions by Chief Administrative Officer in disbursement of gratuity appropriations
 
 The Chief Administrative Officer of the House of Representatives is authorized, in the disbursement of gratuity appropriations, to make deductions of such amounts as may be due to or through his office or as may be due the House of Representatives.
 
-(May 29, 1928, ch. 853, § 1, 45 Stat. 885; Pub. L. 104–186, title II, § 204(26), Aug. 20, 1996, 110 Stat. 1734.)
+(May 29, 1928, ch. 853, § 1, 45 Stat. 885; Pub. L. 104–186, title II, § 204(26), Aug. 20, 1996, 110 Stat. 1734.)
 
 **Editorial Notes**
 
@@ -1591,7 +1591,7 @@ Section was formerly classified to section 80a of this title prior to editorial 
 
 ### Part A—Amount and Type
 
-#### § 4571. Senate pay adjustments; action by President pro tempore of Senate
+#### § 4571. Senate pay adjustments; action by President pro tempore of Senate
 
 **(a)** Each time the President adjusts the rates of pay of employees under section 5303 of title 5 (or section 5304 or 5304a of such title, as applied to employees employed in the pay locality of the Washington, D.C.-Baltimore, Maryland consolidated metropolitan statistical area) the President pro tempore of the Senate shall, as he considers appropriate—
 
@@ -1615,7 +1615,7 @@ by percentages which are equal or equivalent, insofar as practicable, to the per
 
 **(e)** For purposes of this section, the term “personnel” does not include any Senator.
 
-(Pub. L. 91–656, § 4, Jan. 8, 1971, 84 Stat. 1952; Pub. L. 92–298, § 3(a), May 17, 1972, 86 Stat. 146; Pub. L. 92–392, § 14(a), Aug. 19, 1972, 86 Stat. 575; Pub. L. 94–82, title II, § 204(d), Aug. 9, 1975, 89 Stat. 422; Pub. L. 100–202, § 101(i) [title III, § 311(a), (b)], Dec. 22, 1987, 101 Stat. 1329–290, 1329–310; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(4)(E)], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 106–554, § 1(a)(2) [title I, § 2], Dec. 21, 2000, 114 Stat. 2763, 2763A–96; Pub. L. 116–94, div. E, title II, § 212(a)(2)(A), Dec. 20, 2019, 133 Stat. 2774; Pub. L. 117–103, div. I, title II, § 213(a)(2)(A), Mar. 15, 2022, 136 Stat. 527.)
+(Pub. L. 91–656, § 4, Jan. 8, 1971, 84 Stat. 1952; Pub. L. 92–298, § 3(a), May 17, 1972, 86 Stat. 146; Pub. L. 92–392, § 14(a), Aug. 19, 1972, 86 Stat. 575; Pub. L. 94–82, title II, § 204(d), Aug. 9, 1975, 89 Stat. 422; Pub. L. 100–202, § 101(i) [title III, § 311(a), (b)], Dec. 22, 1987, 101 Stat. 1329–290, 1329–310; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(4)(E)], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 106–554, § 1(a)(2) [title I, § 2], Dec. 21, 2000, 114 Stat. 2763, 2763A–96; Pub. L. 116–94, div. E, title II, § 212(a)(2)(A), Dec. 20, 2019, 133 Stat. 2774; Pub. L. 117–103, div. I, title II, § 213(a)(2)(A), Mar. 15, 2022, 136 Stat. 527.)
 
 **Editorial Notes**
 
@@ -1631,25 +1631,25 @@ Section was formerly classified to section 60a–1 of this title prior to editor
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–103, § 213(a)(2)(A)(i), in concluding provisions, substituted “, subject to section 4575(f) of this title.” for “and adjust the rates of such personnel by such amounts as necessary to maintain the pay relationships that existed on the effective date of the amendments made by section 212 of the Legislative Branch Appropriations Act, 2020 between the maximum rate of pay for Senate personnel and Senators.”
+2022—Subsec. (a). Pub. L. 117–103, § 213(a)(2)(A)(i), in concluding provisions, substituted “, subject to section 4575(f) of this title.” for “and adjust the rates of such personnel by such amounts as necessary to maintain the pay relationships that existed on the effective date of the amendments made by section 212 of the Legislative Branch Appropriations Act, 2020 between the maximum rate of pay for Senate personnel and Senators.”
 
-Subsecs. (d) to (f). Pub. L. 117–103, § 213(a)(2)(A)(ii), (iii), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows: “No rate of pay shall be adjusted under the provisions of this section to an amount in excess of the rate of basic pay for level III of the Executive Schedule contained in section 5314 of title 5, except in cases in which it is necessary to maintain the pay relationships that existed on the effective date of the amendments made by section 212 of the Legislative Branch Appropriations Act, 2020 between the maximum rate of pay for Senate personnel and Senators.”
+Subsecs. (d) to (f). Pub. L. 117–103, § 213(a)(2)(A)(ii), (iii), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows: “No rate of pay shall be adjusted under the provisions of this section to an amount in excess of the rate of basic pay for level III of the Executive Schedule contained in section 5314 of title 5, except in cases in which it is necessary to maintain the pay relationships that existed on the effective date of the amendments made by section 212 of the Legislative Branch Appropriations Act, 2020 between the maximum rate of pay for Senate personnel and Senators.”
 
-2019—Subsec. (a). Pub. L. 116–94, § 212(a)(2)(A)(i)(II), in concluding provisions, struck out “and with such exceptions as may be necessary to provide for appropriate pay relationships between positions” after “as practicable” and substituted “to maintain the pay relationships that existed on the effective date of the amendments made by section 212 of the Legislative Branch Appropriations Act, 2020 between the maximum rate of pay for Senate personnel and Senators.” for “to restore the same pay relationships that existed on December 31, 1986, between personnel and Senators and between positions.”
+2019—Subsec. (a). Pub. L. 116–94, § 212(a)(2)(A)(i)(II), in concluding provisions, struck out “and with such exceptions as may be necessary to provide for appropriate pay relationships between positions” after “as practicable” and substituted “to maintain the pay relationships that existed on the effective date of the amendments made by section 212 of the Legislative Branch Appropriations Act, 2020 between the maximum rate of pay for Senate personnel and Senators.” for “to restore the same pay relationships that existed on December 31, 1986, between personnel and Senators and between positions.”
 
-Subsec. (a)(1)(B), (C). Pub. L. 116–94, § 212(a)(2)(A)(i)(I), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: “in the case of such personnel whose rates of pay are fixed by or pursuant to law at specific rates, adjust such rates (including the adjustment of such specific rates to maximum pay rates) and, in the case of all other personnel whose pay is disbursed by the Secretary of the Senate, adjust only the minimum or maximum rates applicable to such other personnel; and”.
+Subsec. (a)(1)(B), (C). Pub. L. 116–94, § 212(a)(2)(A)(i)(I), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: “in the case of such personnel whose rates of pay are fixed by or pursuant to law at specific rates, adjust such rates (including the adjustment of such specific rates to maximum pay rates) and, in the case of all other personnel whose pay is disbursed by the Secretary of the Senate, adjust only the minimum or maximum rates applicable to such other personnel; and”.
 
-Subsec. (d). Pub. L. 116–94, § 212(a)(2)(A)(ii), substituted “to maintain the pay relationships that existed on the effective date of the amendments made by section 212 of the Legislative Branch Appropriations Act, 2020 between the maximum rate of pay for Senate personnel and Senators.” for “to restore and maintain the same pay relationships that existed on December 31, 1986, between personnel and Senators and between positions.”
+Subsec. (d). Pub. L. 116–94, § 212(a)(2)(A)(ii), substituted “to maintain the pay relationships that existed on the effective date of the amendments made by section 212 of the Legislative Branch Appropriations Act, 2020 between the maximum rate of pay for Senate personnel and Senators.” for “to restore and maintain the same pay relationships that existed on December 31, 1986, between personnel and Senators and between positions.”
 
-2000—Subsec. (a). Pub. L. 106–554, § 1(a)(2) [title I, § 2(1)], in introductory provisions, inserted “(or section 5304 or 5304a of such title, as applied to employees employed in the pay locality of the Washington, D.C.-Baltimore, Maryland consolidated metropolitan statistical area)” after “employees under section 5303 of title 5” and in concluding provisions, inserted “(and, as the case may be, section 5304 or 5304a of such title, as applied to employees employed in the pay locality of the Washington, D.C.-Baltimore, Maryland consolidated metropolitan statistical area)” after “the President under such section 5303”.
+2000—Subsec. (a). Pub. L. 106–554, § 1(a)(2) [title I, § 2(1)], in introductory provisions, inserted “(or section 5304 or 5304a of such title, as applied to employees employed in the pay locality of the Washington, D.C.-Baltimore, Maryland consolidated metropolitan statistical area)” after “employees under section 5303 of title 5” and in concluding provisions, inserted “(and, as the case may be, section 5304 or 5304a of such title, as applied to employees employed in the pay locality of the Washington, D.C.-Baltimore, Maryland consolidated metropolitan statistical area)” after “the President under such section 5303”.
 
-Subsecs. (e), (f). Pub. L. 106–554, § 1(a)(2) [title I, § 2(2), (3)], added subsec. (e) and redesignated former subsec. (e) as (f).
+Subsecs. (e), (f). Pub. L. 106–554, § 1(a)(2) [title I, § 2(2), (3)], added subsec. (e) and redesignated former subsec. (e) as (f).
 
 1990—Subsec. (a). Pub. L. 101–509 substituted “5303” for “5305” wherever appearing.
 
-1987—Subsec. (a). Pub. L. 100–202, § 101(i) [title III, § 311(a)], inserted requirement that rates of personnel be adjusted by such amounts as necessary to restore same pay relationships that existed on Dec. 31, 1986, between personnel and Senators and between positions.
+1987—Subsec. (a). Pub. L. 100–202, § 101(i) [title III, § 311(a)], inserted requirement that rates of personnel be adjusted by such amounts as necessary to restore same pay relationships that existed on Dec. 31, 1986, between personnel and Senators and between positions.
 
-Subsec. (d). Pub. L. 100–202, § 101(i) [title III, § 311(b)], inserted exception for cases in which it is necessary to restore and maintain same pay relationships that existed on Dec. 31, 1986, between personnel and Senators and between positions.
+Subsec. (d). Pub. L. 100–202, § 101(i) [title III, § 311(b)], inserted exception for cases in which it is necessary to restore and maintain same pay relationships that existed on Dec. 31, 1986, between personnel and Senators and between positions.
 
 1975—Subsec. (d). Pub. L. 94–82 substituted “level III” for “level V”, and “section 5314 of title 5” for “section 5316 of title 5.”
 
@@ -1659,7 +1659,7 @@ Subsec. (d). Pub. L. 100–202, § 101(i) [title III, § 311(b)], inserted e
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–103, div. I, title II, § 213(b), Mar. 15, 2022, 136 Stat. 527, provided that: “This section [amending this section and sections 4573 and 4575 of this title] and the amendments made by this section shall take effect on the first day of the first applicable pay period beginning on or after the date of enactment of this Act [Mar. 15, 2022].”
+Pub. L. 117–103, div. I, title II, § 213(b), Mar. 15, 2022, 136 Stat. 527, provided that: “This section [amending this section and sections 4573 and 4575 of this title] and the amendments made by this section shall take effect on the first day of the first applicable pay period beginning on or after the date of enactment of this Act [Mar. 15, 2022].”
 
 **Effective Date of 2019 Amendment**
 
@@ -1667,11 +1667,11 @@ Amendment by Pub. L. 116–94 effective on the later of the first day of the fir
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–202, § 101(i) [title III, § 311(c)], Dec. 22, 1987, 101 Stat. 1329–290, 1329–310, provided that: “Notwithstanding any other provision of this Act [see Tables for classification] or any other provision of law, subsections (a) and (b) of this section [amending this section] shall be effective in the case of pay orders issued by the President pro tempore of the Senate on or after January 1, 1988.”
+Pub. L. 100–202, § 101(i) [title III, § 311(c)], Dec. 22, 1987, 101 Stat. 1329–290, 1329–310, provided that: “Notwithstanding any other provision of this Act [see Tables for classification] or any other provision of law, subsections (a) and (b) of this section [amending this section] shall be effective in the case of pay orders issued by the President pro tempore of the Senate on or after January 1, 1988.”
 
 **Effective Date of 1972 Amendment**
 
@@ -1891,87 +1891,87 @@ June 12, 1968, eff. July 1, 1968; Cong. Rec., vol. 114, pt. 13, p. 16890.
 
 **Increase in Compensation of Officers of Senate; Limitations on Basic and Gross Compensation—1966**
 
-Pub. L. 89–504, title III, § 302(g), (h), July 18, 1966, 80 Stat. 295, provided that:
+Pub. L. 89–504, title III, § 302(g), (h), July 18, 1966, 80 Stat. 295, provided that:
 
 > **“(g)** Notwithstanding the provision referred to in subsection (h), the rates of gross compensation of the Secretary for the Majority of the Senate, the Secretary for the Minority of the Senate, the Chief Reporter of Debates of the Senate, the Parliamentarian of the Senate, the Senior Counsel in the Office of the Legislative Counsel of the Senate, the Chief Clerk of the Senate, the Chaplain of the Senate, and the Postmaster and Assistant Postmaster of the Senate are hereby increased by 2.9 per centum.
 
 > **“(h)** The paragraph imposing limitations on basic and gross compensation of officers and employees of the Senate appearing under the heading ‘SENATE’ in the Legislative Appropriation Act, 1956, as amended (74 Stat. 304; Public Law 86–568), is amended by striking out ‘$23,770’ and inserting in lieu thereof ‘$24,460’.”
 
-[The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by Pub. L. 90–57, § 105(i)(3), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.]
+[The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by Pub. L. 90–57, § 105(i)(3), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.]
 
 **Increase in Compensation of Officers of Senate; Limitations on Basic and Gross Compensation—1965**
 
-Pub. L. 89–301, § 11(g), (h), Oct. 29, 1965, 79 Stat. 1121, provided that:
+Pub. L. 89–301, § 11(g), (h), Oct. 29, 1965, 79 Stat. 1121, provided that:
 
 > **“(g)** Notwithstanding the provision referred to in subsection (h), the rates of gross compensation of the Secretary for the Majority of the Senate, the Secretary for the Minority of the Senate, the Chief Reporter of Debates of the Senate, the Parliamentarian of the Senate, the Senior Counsel in the Office of the Legislative Counsel of the Senate, the Chief Clerk of the Senate, the Chaplain of the Senate, and the Postmaster and Assistant Postmaster of the Senate are hereby increased by 3.6 per centum.
 
 > **“(h)** The paragraph imposing limitations on basic and gross compensation of officers and employees of the Senate appearing under the heading ‘SENATE’ in the Legislative Appropriation Act, 1956, as amended (74 Stat. 304; Public Law 86–568), is amended by striking out ‘$22,945’ and inserting in lieu thereof ‘$23,770’.”
 
-[The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by Pub. L. 90–57, § 105(i)(3), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.]
+[The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by Pub. L. 90–57, § 105(i)(3), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.]
 
 **Increase in Compensation of Officers of Senate; Limitations on Basic and Gross Compensation—1964**
 
-Pub. L. 88–426, title II, § 202(f), (g), Aug. 14, 1964, 78 Stat. 414, provided that:
+Pub. L. 88–426, title II, § 202(f), (g), Aug. 14, 1964, 78 Stat. 414, provided that:
 
 > **“(f)** Notwithstanding the provision referred to in subsection (g), the rates of gross compensation of the Secretary for the Majority of the Senate, the Secretary for the Minority of the Senate, the Official Reporters of Debates of the Senate, the Parliamentarian of the Senate, the Senior Counsel in the Office of the Legislative Counsel of the Senate, and the Chief Clerk of the Senate are hereby increased by an amount which is equal to the amount of the increase which would be provided by subsection (a) of this section [former section 60e–11 of this title] in that gross rate determined without regard to the provisions referred to in subsection (g) of this section which is nearest in amount to the total annual compensation of such officer or employee.
 
 > **“(g)** The paragraph imposing limitations on basic and gross compensation of officers and employees of the Senate appearing under the heading ‘SENATE’ in the Legislative Appropriation Act, 1956, as amended (74 Stat. 304; Public Law 86–568), is amended by striking out ‘$18,880’ and inserting in lieu thereof ‘$22,945’.”
 
-[The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by Pub. L. 90–57, § 105(i)(3), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.]
+[The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by Pub. L. 90–57, § 105(i)(3), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.]
 
 **Increase in Compensation of Officers of Senate; Limitations on Basic and Gross Compensation—1962**
 
-Pub. L. 87–793, title VI, § 1005(c), (d), Oct. 11, 1962, 76 Stat. 867, provided that:
+Pub. L. 87–793, title VI, § 1005(c), (d), Oct. 11, 1962, 76 Stat. 867, provided that:
 
 > **“(c)** Notwithstanding the provision referred to in subsection (d), the rates of gross compensation of the elected officers of the Senate (except the Presiding Officer of the Senate), the Legislative Counsel of the Senate, the Official Reporters of Debates of the Senate, the Parliamentarian of the Senate, the Senior Counsel in the Office of the Legislative Counsel of the Senate, and the Chief Clerk of the Senate are hereby increased by 7 per centum.
 
 > **“(d)** The paragraph imposing limitations on basic and gross compensation of officers and employees of the Senate appearing under the heading ‘SENATE’ in the Legislative Appropriation Act, 1956, as amended (74 Stat. 304; Public Law 86–568), is amended to read as follows:
 
-> “ ‘No officer or employee whose compensation is disbursed by the Secretary of the Senate shall be paid basic compensation at a rate in excess of $8,880 per annum, or gross compensation at a rate in excess of $18,880 per annum, unless expressly authorized by law.’ ”
+> “ ‘No officer or employee whose compensation is disbursed by the Secretary of the Senate shall be paid basic compensation at a rate in excess of $8,880 per annum, or gross compensation at a rate in excess of $18,880 per annum, unless expressly authorized by law.’ ”
 
-[The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by Pub. L. 90–57, § 105(i)(3), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.]
+[The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by Pub. L. 90–57, § 105(i)(3), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.]
 
 **Increase in Compensation of Officers of Senate; Limitations on Basic and Gross Compensation—1960**
 
-Pub. L. 86–568, title I, § 117(c), (d), July 1, 1960, 74 Stat. 303, provided that:
+Pub. L. 86–568, title I, § 117(c), (d), July 1, 1960, 74 Stat. 303, provided that:
 
 > **“(c)** Notwithstanding the provision referred to in subsection (d), the rates of gross compensation of each of the elected officers of the Senate (except the Presiding Officer of the Senate), the Parliamentarian of the Senate, the Legislative Counsel of the Senate, the Senior Counsel in the Office of the Legislative Counsel of the Senate, and the Chief Clerk of the Senate are hereby increased by 7.5 per centum.
 
 > **“(d)** The paragraph imposing limitations on basic and gross compensation of officers and employees of the Senate appearing under the heading ‘SENATE’ in the Legislative Appropriation Act, 1956 (69 Stat. 510; Public Law 242, Eighty-fourth Congress), is amended to read as follows:
 
-> “ ‘No officer or employee whose compensation is disbursed by the Secretary of the Senate shall be paid basic compensation at a rate in excess of $8,880 per annum, or gross compensation at a rate in excess of $17,525 per annum, unless expressly authorized by law.’ ”
+> “ ‘No officer or employee whose compensation is disbursed by the Secretary of the Senate shall be paid basic compensation at a rate in excess of $8,880 per annum, or gross compensation at a rate in excess of $17,525 per annum, unless expressly authorized by law.’ ”
 
-[Prior to this amendment “$8,880” and “$17,525” were, respectively, “$8,880” and “$16,300” per annum.] [The paragraph in the Legislative Appropriation Act, 1956, referred to above was repealed by Pub. L. 90–57, § 105(i)(3), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.]
+[Prior to this amendment “$8,880” and “$17,525” were, respectively, “$8,880” and “$16,300” per annum.] [The paragraph in the Legislative Appropriation Act, 1956, referred to above was repealed by Pub. L. 90–57, § 105(i)(3), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.]
 
 **Increase in Compensation of Officers of Senate; Limitations on Basic and Gross Compensation—1958**
 
-Pub. L. 85–462, § 4(c), (d), June 20, 1958, 72 Stat. 208, provided that:
+Pub. L. 85–462, § 4(c), (d), June 20, 1958, 72 Stat. 208, provided that:
 
 > **“(c)** Notwithstanding the provision referred to in subsection (d), the rates of gross compensation of each of the elected officers of the Senate (except the presiding officer of the Senate), the Parliamentarian of the Senate, the Legislative Counsel of the Senate, the Senior Counsel in the Office of the Legislative Counsel of the Senate, and the Chief Clerk of the Senate are hereby increased by 10 per centum.
 
 > **“(d)** The paragraph imposing limitations on basic and gross compensation of officers and employees of the Senate appearing under the heading ‘SENATE’ in the Legislative Appropriation Act, 1956 (69 Stat. 510; Public Law 242, Eighty-fourth Congress), is amended to read as follows:
 
-> “ ‘No officer or employee, whose compensation is disbursed by the Secretary of the Senate shall be paid basic compensation at a rate in excess of $8,880 per annum, or gross compensation at a rate in excess of $16,300 per annum, unless expressly authorized by law.’ ”
+> “ ‘No officer or employee, whose compensation is disbursed by the Secretary of the Senate shall be paid basic compensation at a rate in excess of $8,880 per annum, or gross compensation at a rate in excess of $16,300 per annum, unless expressly authorized by law.’ ”
 
-[Prior to this amendment “$8,880” and “$16,300” were, respectively, “$8,820” and “$14,800” per annum.] [The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by Pub. L. 90–57, § 105(i) (3), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.]
+[Prior to this amendment “$8,880” and “$16,300” were, respectively, “$8,820” and “$14,800” per annum.] [The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by Pub. L. 90–57, § 105(i) (3), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.]
 
 **Increase in Compensation of Officers of Senate and House—1955**
 
-Act June 28, 1955, ch. 189, § 4(c), 69 Stat. 176, provided that: “The rates of basic compensation of each of the elected officers of the Senate and the House of Representatives (not including the presiding officers of the two Houses), the Parliamentarian of the Senate, the Parliamentarian of the House of Representatives, the Legislative Counsel of the Senate, the Legislative Counsel of the House of Representatives, and the Coordinator of Information of the House of Representatives are hereby increased by 7.5 per centum.”
+Act June 28, 1955, ch. 189, § 4(c), 69 Stat. 176, provided that: “The rates of basic compensation of each of the elected officers of the Senate and the House of Representatives (not including the presiding officers of the two Houses), the Parliamentarian of the Senate, the Parliamentarian of the House of Representatives, the Legislative Counsel of the Senate, the Legislative Counsel of the House of Representatives, and the Coordinator of Information of the House of Representatives are hereby increased by 7.5 per centum.”
 
 **Increase in Compensation of Officers of Senate and House—1951**
 
-Act Oct. 24, 1951, ch. 554, § 2(e), 65 Stat. 614, provided that: “The rates of basic compensation of each of the elected officers of the Senate and the House of Representatives (not including the presiding officers of the two Houses), the Parliamentarian of the Senate, the Parliamentarian of the House of Representatives, the legislative counsel of the Senate, the legislative counsel of the House of Representatives, and the Coordinator of Information of the House of Representatives are hereby increased by 10 per centum, except that in no case shall any such rate be increased by less than $300 per annum or by more than $800 per annum.”
+Act Oct. 24, 1951, ch. 554, § 2(e), 65 Stat. 614, provided that: “The rates of basic compensation of each of the elected officers of the Senate and the House of Representatives (not including the presiding officers of the two Houses), the Parliamentarian of the Senate, the Parliamentarian of the House of Representatives, the legislative counsel of the Senate, the legislative counsel of the House of Representatives, and the Coordinator of Information of the House of Representatives are hereby increased by 10 per centum, except that in no case shall any such rate be increased by less than $300 per annum or by more than $800 per annum.”
 
 **Increase in Compensation of Officers of Senate and House—1949**
 
-Act Oct. 28, 1949, ch. 783, title I, § 101(d), 63 Stat. 974, provided that: “The rates of basic compensation of each of the elected officers of the Senate and the House of Representatives (not including the presiding officers of the two Houses) are hereby increased by 5 per centum.”
+Act Oct. 28, 1949, ch. 783, title I, § 101(d), 63 Stat. 974, provided that: “The rates of basic compensation of each of the elected officers of the Senate and the House of Representatives (not including the presiding officers of the two Houses) are hereby increased by 5 per centum.”
 
-#### § 4572. Rates of compensation paid by Secretary of Senate; applicability of Senate pay adjustments by President pro tempore of Senate
+#### § 4572. Rates of compensation paid by Secretary of Senate; applicability of Senate pay adjustments by President pro tempore of Senate
 
 No provision of this Act or of any Act enacted after October 1, 1976, which specifies a rate of compensation (including a maximum rate) for any position or employee whose compensation is disbursed by the Secretary of the Senate shall, unless otherwise specifically provided therein, be construed to affect the applicability of section 4571 of this title to such rate.
 
-(Pub. L. 94–440, title I, § 107, Oct. 1, 1976, 90 Stat. 1444.)
+(Pub. L. 94–440, title I, § 107, Oct. 1, 1976, 90 Stat. 1444.)
 
 **Editorial Notes**
 
@@ -1983,13 +1983,13 @@ This Act, referred to in text, means the Legislative Branch Appropriation Act, 1
 
 Section was formerly classified to section 60a–1a of this title prior to editorial reclassification and renumbering as this section.
 
-#### § 4573. Senate pay adjustments; action by President pro tempore of Senate
+#### § 4573. Senate pay adjustments; action by President pro tempore of Senate
 
 **(a)** Whenever, after November 5, 1990, there is an adjustment in rates of pay for Senators (other than an adjustment which occurs by virtue of an adjustment under section 5303 of title 5 in rates of pay under the General Schedule), the President pro tempore of the Senate may, notwithstanding any other provision of law, rule, or regulation, adjust the rate of pay (and any minimum or maximum rate, limitation, or allowance) applicable to personnel whose pay is disbursed by the Secretary of the Senate (including such personnel appointed to positions for which the specific amount of the rate of pay for the particular position is fixed by statute on the day before the effective date of the amendments made by section 212 of the Legislative Branch Appropriations Act, 2020 and such personnel appointed to positions for which the maximum rates of pay for the particular positions were fixed by or pursuant to law on the day before such effective date), subject to section 4575(f) of this title.
 
 **(b)** Adjustments made by the President pro tempore under this section shall be made in such manner as he considers advisable and shall have the force and effect of law.
 
-(Pub. L. 101–520, title III, § 315, Nov. 5, 1990, 104 Stat. 2283; Pub. L. 102–90, title III, § 308, Aug. 14, 1991, 105 Stat. 466; Pub. L. 116–94, div. E, title II, § 212(a)(2)(B), Dec. 20, 2019, 133 Stat. 2775; Pub. L. 117–103, div. I, title II, § 213(a)(2)(B), Mar. 15, 2022, 136 Stat. 527.)
+(Pub. L. 101–520, title III, § 315, Nov. 5, 1990, 104 Stat. 2283; Pub. L. 102–90, title III, § 308, Aug. 14, 1991, 105 Stat. 466; Pub. L. 116–94, div. E, title II, § 212(a)(2)(B), Dec. 20, 2019, 133 Stat. 2775; Pub. L. 117–103, div. I, title II, § 213(a)(2)(B), Mar. 15, 2022, 136 Stat. 527.)
 
 **Editorial Notes**
 
@@ -2007,7 +2007,7 @@ Section is from the Legislative Branch Appropriations Act, 1991.
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–103 substituted “, subject to section 4575(f) of this title.” for “to the extent necessary to maintain the pay relationships that existed on such effective date between the maximum rate of pay for Senate personnel and Senators.”
+2022—Subsec. (a). Pub. L. 117–103 substituted “, subject to section 4575(f) of this title.” for “to the extent necessary to maintain the pay relationships that existed on such effective date between the maximum rate of pay for Senate personnel and Senators.”
 
 2019—Subsec. (a). Pub. L. 116–94 substituted “(including such personnel appointed to positions for which the specific amount of the rate of pay for the particular position is fixed by statute on the day before the effective date of the amendments made by section 212 of the Legislative Branch Appropriations Act, 2020 and such personnel appointed to positions for which the maximum rates of pay for the particular positions were fixed by or pursuant to law on the day before such effective date) to the extent necessary to maintain the pay relationships that existed on such effective date between the maximum rate of pay for Senate personnel and Senators.” for “to the extent necessary to maintain the same pay relationships that existed on December 31, 1986, between personnel and Senators and between positions.”
 
@@ -2023,11 +2023,11 @@ Amendment by Pub. L. 117–103 effective on the first day of the first applicabl
 
 Amendment by Pub. L. 116–94 effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of div. E of Pub. L. 116–94, set out as a note under section 282b of this title.
 
-#### § 4574. Limit on rate of compensation of Senate officers and employees
+#### § 4574. Limit on rate of compensation of Senate officers and employees
 
 No officer or employee of the Senate shall receive pay for any services performed by him at any rate higher than that provided for the office or employment to which he has been regularly appointed.
 
-(Aug. 5, 1882, ch. 390, § 1, 22 Stat. 270.)
+(Aug. 5, 1882, ch. 390, § 1, 22 Stat. 270.)
 
 **Editorial Notes**
 
@@ -2035,7 +2035,7 @@ No officer or employee of the Senate shall receive pay for any services performe
 
 Section was formerly classified to section 61 of this title prior to editorial reclassification and renumbering as this section.
 
-#### § 4575. Gross rate of compensation of employees paid by Secretary of Senate
+#### § 4575. Gross rate of compensation of employees paid by Secretary of Senate
 
 **(a) Annual rate; certification**
 
@@ -2055,9 +2055,9 @@ In any case in which the rate of compensation of any employee or position, or cl
 
 **(1)**
 
-**(A)** Except as is otherwise provided in subparagraphs (B) and (C), the aggregate of gross compensation paid employees in the office of a Senator shall not exceed during each fiscal year the following: 1
+**(A)** Except as is otherwise provided in subparagraphs (B) and (C), the aggregate of gross compensation paid employees in the office of a Senator shall not exceed during each fiscal year the following: 1
 
-<sup>1</sup>  See Codification note below.
+<sup>1</sup> See Codification note below.
 
 $1,518,333 if the population of the State is less than 5,000,000; $1,573,297 if such population is 5,000,000 but less than 6,000,000; $1,628,265 if such population is 6,000,000 but less than 7,000,000; $1,683,230 if such population is 7,000,000 but less than 8,000,000; $1,738,197 if such population is 8,000,000 but less than 9,000,000; $1,793,161 if such population is 9,000,000 but less than 10,000,000; $1,848,130 if such population is 10,000,000 but less than 11,000,000; $1,903,096 if such population is 11,000,000 but less than 12,000,000; $1,958,061 if such population is 12,000,000 but less than 13,000,000; $2,013,027 if such population is 13,000,000 but less than 14,000,000; $2,067,994 if such population is 14,000,000 but less than 15,000,000; $2,122,960 if such population is 15,000,000 but less than 16,000,000; $2,177,928 if such population is 16,000,000 but less than 17,000,000; $2,232,894 if such population is 17,000,000 but less than 18,000,000; $2,268,057 if such population is 18,000,000 but less than 19,000,000; $2,303,224 if such population is 19,000,000 but less than 20,000,000; $2,338,391 if such population is 20,000,000 but less than 21,000,000; $2,373,558 if such population is 21,000,000 but less than 22,000,000; $2,408,725 if such population is 22,000,000 but less than 23,000,000; $2,443,891 if such population is 23,000,000 but less than 24,000,000; $2,479,054 if such population is 24,000,000 but less than 25,000,000; $2,514,218 if such population is 25,000,000 but less than 26,000,000; $2,549,387 if such population is 26,000,000 but less than 27,000,000; $2,584,552 if such population is 27,000,000 but less than 28,000,000; and $2,619,720 if such population is 28,000,000 or more. For any fiscal year, the population of a State shall be deemed to be whichever of the following is the higher:
 
@@ -2097,11 +2097,11 @@ shall not exceed the aggregate of—
 
 **(iv)** the amount described in section 6314(b)(3) of this title (as determined without regard to subparagraph (A)(ii) and (iv) thereof).
 
-**(2)** Within the limits prescribed by paragraph (1) of this subsection, Senators may fix the number and the rates of compensation of employees in their respective offices. The salary of an employee in a Senator’s office shall not be fixed under this paragraph at a rate less than $3,293 <sup>1</sup> or in excess of the annual rate of basic pay in effect for level II of the Executive Schedule under section 5313 of title 5. A Senator may establish such titles for positions in his office as he may desire to designate, by written notification to the disbursing office of the Senate.
+**(2)** Within the limits prescribed by paragraph (1) of this subsection, Senators may fix the number and the rates of compensation of employees in their respective offices. The salary of an employee in a Senator’s office shall not be fixed under this paragraph at a rate less than $3,293 <sup>1</sup> or in excess of the annual rate of basic pay in effect for level II of the Executive Schedule under section 5313 of title 5. A Senator may establish such titles for positions in his office as he may desire to designate, by written notification to the disbursing office of the Senate.
 
 **(e) Gross rate of compensation of employee of committee of Senate employed by joint committee, select committee, or standing committee**
 
-**(1)** , (2) Repealed. Pub. L. 96–304, title I, § 112(b)(1), July 8, 1980, 94 Stat. 892.
+**(1)** , (2) Repealed. Pub. L. 96–304, title I, § 112(b)(1), July 8, 1980, 94 Stat. 892.
 
 **(3)**
 
@@ -2121,9 +2121,9 @@ shall not exceed the aggregate of—
 
 **(f) General limitation**
 
-No officer or employee whose compensation is disbursed by the Secretary of the Senate shall be paid gross compensation at a rate less than $3,293 <sup>1</sup> or in excess of the annual rate of basic pay in effect for level II of the Executive Schedule under section 5313 of title 5, unless expressly authorized by law. The limitation on the minimum rate of gross compensation under this subsection shall not apply to any member or civilian employee of the Capitol Police whose compensation is disbursed by the Secretary of the Senate.
+No officer or employee whose compensation is disbursed by the Secretary of the Senate shall be paid gross compensation at a rate less than $3,293 <sup>1</sup> or in excess of the annual rate of basic pay in effect for level II of the Executive Schedule under section 5313 of title 5, unless expressly authorized by law. The limitation on the minimum rate of gross compensation under this subsection shall not apply to any member or civilian employee of the Capitol Police whose compensation is disbursed by the Secretary of the Senate.
 
-(Pub. L. 90–57, § 105(a)–(f), (j), July 28, 1967, 81 Stat. 141–144; Pub. L. 90–206, title II, § 214 (j)–(*l*), Dec. 16, 1967, 81 Stat. 637; Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 340; Pub. L. 91–510, title III, § 305, Oct. 26, 1970, 84 Stat. 1181; Pub. L. 91–656, § 4, Jan. 8, 1971, 84 Stat. 1952; Pub. L. 92–184, ch. IV, Dec. 15, 1971, 85 Stat. 633; Pub. L. 92–607, ch. V, § 505, Oct. 31, 1972, 86 Stat. 1505; Pub. L. 93–145, Nov. 1, 1973, 87 Stat. 532; Pub. L. 93–245, ch. VI, Jan. 3, 1974, 87 Stat. 1078; Pub. L. 93–255, § 1, Mar. 27, 1974, 88 Stat. 52; Pub. L. 93–371, § 6, Aug. 13, 1974, 88 Stat. 430; Pub. L. 94–59, title I, § 102, July 25, 1975, 89 Stat. 274; Pub. L. 94–440, title I, § 101(a), Oct. 1, 1976, 90 Stat. 1443; Pub. L. 95–94, title I, § 111(d), Aug. 5, 1977, 91 Stat. 663; Pub. L. 95–391, title I, § 104(b), Sept. 30, 1978, 92 Stat. 772; Pub. L. 95–482, § 112, Oct. 18, 1978, 92 Stat. 1605; Pub. L. 96–304, title I, §§ 107(a), 112(b)(1), July 8, 1980, 94 Stat. 890, 892; Pub. L. 98–181, title I, § 1203(a), Nov. 30, 1983, 97 Stat. 1289; Pub. L. 98–367, title I, §§ 3(a), 12(a), (b), July 17, 1984, 98 Stat. 475, 476; Pub. L. 100–71, title I, § 3(a), July 11, 1987, 101 Stat. 423; Pub. L. 100–137, § 1(c)(1), Oct. 21, 1987, 101 Stat. 818; Pub. L. 100–202, § 101(i) [title I, § 1(a)], Dec. 22, 1987, 101 Stat. 1329–290, 1329–293; Pub. L. 104–186, title II, § 204(9), Aug. 20, 1996, 110 Stat. 1731; Pub. L. 105–18, title II, § 7001, June 12, 1997, 111 Stat. 192; Pub. L. 105–55, title I, § 5, Oct. 7, 1997, 111 Stat. 1181; Pub. L. 105–275, title I, § 8, Oct. 21, 1998, 112 Stat. 2434; Pub. L. 106–57, title I, § 2, Sept. 29, 1999, 113 Stat. 411; Pub. L. 107–68, title I, § 106, Nov. 12, 2001, 115 Stat. 568; Pub. L. 108–7, div. H, title I, § 3, Feb. 20, 2003, 117 Stat. 349; Pub. L. 108–83, title I, § 1, Sept. 30, 2003, 117 Stat. 1010; Pub. L. 108–447, div. G, title I, § 1, Dec. 8, 2004, 118 Stat. 3168; Pub. L. 109–55, title I, § 1, Aug. 2, 2005, 119 Stat. 568; Pub. L. 110–161, div. H, title I, §§ 1, 4(a), Dec. 26, 2007, 121 Stat. 2220, 2221; Pub. L. 111–8, div. G, title I, § 1, Mar. 11, 2009, 123 Stat. 814; Pub. L. 111–68, div. A, title I, § 1, Oct. 1, 2009, 123 Stat. 2026; Pub. L. 116–94, div. E, title II, § 212(a)(1)(A), Dec. 20, 2019, 133 Stat. 2773; Pub. L. 117–103, div. I, title I, § 102, title II, § 213(a)(1), Mar. 15, 2022, 136 Stat. 505, 527.)
+(Pub. L. 90–57, § 105(a)–(f), (j), July 28, 1967, 81 Stat. 141–144; Pub. L. 90–206, title II, § 214 (j)–(*l*), Dec. 16, 1967, 81 Stat. 637; Pub. L. 91–145, Dec. 12, 1969, 83 Stat. 340; Pub. L. 91–510, title III, § 305, Oct. 26, 1970, 84 Stat. 1181; Pub. L. 91–656, § 4, Jan. 8, 1971, 84 Stat. 1952; Pub. L. 92–184, ch. IV, Dec. 15, 1971, 85 Stat. 633; Pub. L. 92–607, ch. V, § 505, Oct. 31, 1972, 86 Stat. 1505; Pub. L. 93–145, Nov. 1, 1973, 87 Stat. 532; Pub. L. 93–245, ch. VI, Jan. 3, 1974, 87 Stat. 1078; Pub. L. 93–255, § 1, Mar. 27, 1974, 88 Stat. 52; Pub. L. 93–371, § 6, Aug. 13, 1974, 88 Stat. 430; Pub. L. 94–59, title I, § 102, July 25, 1975, 89 Stat. 274; Pub. L. 94–440, title I, § 101(a), Oct. 1, 1976, 90 Stat. 1443; Pub. L. 95–94, title I, § 111(d), Aug. 5, 1977, 91 Stat. 663; Pub. L. 95–391, title I, § 104(b), Sept. 30, 1978, 92 Stat. 772; Pub. L. 95–482, § 112, Oct. 18, 1978, 92 Stat. 1605; Pub. L. 96–304, title I, §§ 107(a), 112(b)(1), July 8, 1980, 94 Stat. 890, 892; Pub. L. 98–181, title I, § 1203(a), Nov. 30, 1983, 97 Stat. 1289; Pub. L. 98–367, title I, §§ 3(a), 12(a), (b), July 17, 1984, 98 Stat. 475, 476; Pub. L. 100–71, title I, § 3(a), July 11, 1987, 101 Stat. 423; Pub. L. 100–137, § 1(c)(1), Oct. 21, 1987, 101 Stat. 818; Pub. L. 100–202, § 101(i) [title I, § 1(a)], Dec. 22, 1987, 101 Stat. 1329–290, 1329–293; Pub. L. 104–186, title II, § 204(9), Aug. 20, 1996, 110 Stat. 1731; Pub. L. 105–18, title II, § 7001, June 12, 1997, 111 Stat. 192; Pub. L. 105–55, title I, § 5, Oct. 7, 1997, 111 Stat. 1181; Pub. L. 105–275, title I, § 8, Oct. 21, 1998, 112 Stat. 2434; Pub. L. 106–57, title I, § 2, Sept. 29, 1999, 113 Stat. 411; Pub. L. 107–68, title I, § 106, Nov. 12, 2001, 115 Stat. 568; Pub. L. 108–7, div. H, title I, § 3, Feb. 20, 2003, 117 Stat. 349; Pub. L. 108–83, title I, § 1, Sept. 30, 2003, 117 Stat. 1010; Pub. L. 108–447, div. G, title I, § 1, Dec. 8, 2004, 118 Stat. 3168; Pub. L. 109–55, title I, § 1, Aug. 2, 2005, 119 Stat. 568; Pub. L. 110–161, div. H, title I, §§ 1, 4(a), Dec. 26, 2007, 121 Stat. 2220, 2221; Pub. L. 111–8, div. G, title I, § 1, Mar. 11, 2009, 123 Stat. 814; Pub. L. 111–68, div. A, title I, § 1, Oct. 1, 2009, 123 Stat. 2026; Pub. L. 116–94, div. E, title II, § 212(a)(1)(A), Dec. 20, 2019, 133 Stat. 2773; Pub. L. 117–103, div. I, title I, § 102, title II, § 213(a)(1), Mar. 15, 2022, 136 Stat. 505, 527.)
 
 **Editorial Notes**
 
@@ -2143,17 +2143,17 @@ Section is comprised of subsecs. (a) to (f) and (j) of section 105 of Pub. L. 90
 
 The table was revised upward, effective Jan. 1, 2022, by section 6(b) of Salary Directive of President pro tempore of the Senate, Mar. 15, 2022, formerly set out as a note under section 4571 of this title, which deemed dollar amounts in table in effect on Dec. 31, 2021, to be increased by an additional 3.02 percent.
 
-Pub. L. 117–103, § 102, revised table upward, deeming dollar amounts in table, as adjusted by law and in effect on Sept. 30, 2021, to be increased by an additional $75,000 each.
+Pub. L. 117–103, § 102, revised table upward, deeming dollar amounts in table, as adjusted by law and in effect on Sept. 30, 2021, to be increased by an additional $75,000 each.
 
-Subsec. (d)(2). Pub. L. 117–103, § 213(a)(1), substituted “the annual rate of basic pay in effect for level II of the Executive Schedule under section 5313 of title 5” for “$173,900”.
+Subsec. (d)(2). Pub. L. 117–103, § 213(a)(1), substituted “the annual rate of basic pay in effect for level II of the Executive Schedule under section 5313 of title 5” for “$173,900”.
 
 Figure “$3,293” to be deemed to refer, effective Jan. 1, 2023, to the figure “$3,454”, see section 6(c)(1) of Salary Directive of President pro tempore of the Senate, Dec. 28, 2022, set out as a note under section 4571 of this title.
 
 Figure “$3,196” to be deemed to refer, effective Jan. 1, 2022, to the figure “$3,293”, see section 6(c)(1) of Salary Directive of President pro tempore of the Senate, Mar. 15, 2022, formerly set out as a note under section 4571 of this title.
 
-Subsec. (e)(3)(B). Pub. L. 117–103, § 213(a)(1), substituted “the annual rate of basic pay in effect for level II of the Executive Schedule under section 5313 of title 5” for “$173,900”.
+Subsec. (e)(3)(B). Pub. L. 117–103, § 213(a)(1), substituted “the annual rate of basic pay in effect for level II of the Executive Schedule under section 5313 of title 5” for “$173,900”.
 
-Subsec. (f). Pub. L. 117–103, § 213(a)(1), substituted “the annual rate of basic pay in effect for level II of the Executive Schedule under section 5313 of title 5” for “$173,900”.
+Subsec. (f). Pub. L. 117–103, § 213(a)(1), substituted “the annual rate of basic pay in effect for level II of the Executive Schedule under section 5313 of title 5” for “$173,900”.
 
 Figure “$3,293” to be deemed to refer, effective Jan. 1, 2023, to the figure “$3,454”, see section 7(a) of Salary Directive of President pro tempore of the Senate, Dec. 28, 2022, set out as a note under section 4571 of this title.
 
@@ -2173,13 +2173,13 @@ Subsec. (f). Figure “$3,056” to be deemed to refer, effective Jan. 1, 2020, 
 
 2019—Subsec. (d)(1)(A). The table was revised upward, effective Jan. 1, 2019, by section 6(b) of Salary Directive of President pro tempore of the Senate, Apr. 1, 2019, formerly set out as a note under section 4571 of this title, which deemed dollar amounts in table in effect on Dec. 31, 2018, to be increased by an additional 2.27 percent.
 
-Subsec. (d)(2). Pub. L. 116–94, § 212(a)(1)(A)(i), substituted “or in excess of $173,900.” for “or in excess of $169,459 per annum.”
+Subsec. (d)(2). Pub. L. 116–94, § 212(a)(1)(A)(i), substituted “or in excess of $173,900.” for “or in excess of $169,459 per annum.”
 
 Figure “$2,988” to be deemed to refer, effective Jan. 1, 2019, to the figure “$3,056”, see section 6(c) of Salary Directive of President pro tempore of the Senate, Apr. 1, 2019, formerly set out as a note under section 4571 of this title.
 
-Subsec. (e)(3)(B). Pub. L. 116–94, § 212(a)(1)(A)(ii), substituted “in excess of $173,900.” for “in excess of $171,315.”
+Subsec. (e)(3)(B). Pub. L. 116–94, § 212(a)(1)(A)(ii), substituted “in excess of $173,900.” for “in excess of $171,315.”
 
-Subsec. (f). Pub. L. 116–94, § 212(a)(1)(A)(iii), substituted “or in excess of $173,900, unless expressly” for “or in excess of $169,459 unless expressly”.
+Subsec. (f). Pub. L. 116–94, § 212(a)(1)(A)(iii), substituted “or in excess of $173,900, unless expressly” for “or in excess of $169,459 unless expressly”.
 
 Figure “$2,988” to be deemed to refer, effective Jan. 1, 2019, to the figure “$3,056”, see section 7(a) of Salary Directive of President pro tempore of the Senate, Apr. 1, 2019, formerly set out as a note under section 4571 of this title.
 
@@ -2223,7 +2223,7 @@ Subsec. (f). Figure “$2,677” to be deemed to refer, effective Jan. 1, 2010, 
 
 The table was revised upward, effective Jan. 1, 2009, by section 6(b) of Salary Directive of President pro tempore of the Senate, Mar. 12, 2009, formerly set out as a note under section 60a–1 of this title, which deemed dollar amounts in table in effect on Dec. 31, 2008, to be increased by an additional 4.78 percent.
 
-Pub. L. 111–8, § 1, revised table upward, deeming dollar amounts in table, as adjusted by law and in effect on Sept. 30, 2008, to be increased by an additional $50,000 each.
+Pub. L. 111–8, § 1, revised table upward, deeming dollar amounts in table, as adjusted by law and in effect on Sept. 30, 2008, to be increased by an additional $50,000 each.
 
 Subsec. (d)(2). Figures “$2,554” and “$164,759” to be deemed to refer, effective Jan. 1, 2009, to the figures “$2,677” and “$169,459”, respectively, see section 6(c) of Salary Directive of President pro tempore of the Senate, Mar. 12, 2009, formerly set out as a note under section 60a–1 of this title.
 
@@ -2239,13 +2239,13 @@ Subsec. (e)(3)(B). Figure “$162,515” to be deemed to refer, effective Jan. 1
 
 Subsec. (f). Figures “$2,444” and “$160,659” to be deemed to refer, effective Jan. 1, 2008, to the figures “$2,554” and “$164,759”, respectively, see section 7 of Salary Directive of President pro tempore of the Senate, Jan. 7, 2008, formerly set out as a note under section 60a–1 of this title.
 
-2007—Subsec. (d)(1)(A). Pub. L. 110–161, § 1, revised table upward, deeming dollar amounts in table, as adjusted by law and in effect on Sept. 30, 2007, to be increased by an additional $50,000 each.
+2007—Subsec. (d)(1)(A). Pub. L. 110–161, § 1, revised table upward, deeming dollar amounts in table, as adjusted by law and in effect on Sept. 30, 2007, to be increased by an additional $50,000 each.
 
 The table was revised upward, effective Jan. 1, 2007, by section 6(b) of Salary Directive of President pro tempore of the Senate, Feb. 16, 2007, formerly set out as a note under section 60a–1 of this title, which deemed dollar amounts in table in effect on Dec. 31, 2006, to be increased by an additional 2.64 percent.
 
 Subsec. (d)(2). Figures “$2,381” and “$160,659” to be deemed to refer, effective Jan. 1, 2007, to the figures “$2,444” and “$160,659”, respectively, see section 6(c) of Salary Directive of President pro tempore of the Senate, Feb. 16, 2007, formerly set out as a note under section 60a–1 of this title.
 
-Subsec. (e)(3). Pub. L. 110–161, § 4(a), added par. (3) and struck out former par. (3) which read as follows: “No employee of a committee of the Senate shall be paid at a gross rate in excess of $160,164, in case of an employee of a joint committee the expenses of which are paid from the contingent fund of the Senate, $160,659, in case of an employee of a select committee (including the conference majority and conference minority of the Senate), or $162,515, in case of an employee of any standing committee (including the majority and minority policy committees) of the Senate. For the purpose of this paragraph, an employee of a subcommittee shall be considered to be an employee of the full committee.”
+Subsec. (e)(3). Pub. L. 110–161, § 4(a), added par. (3) and struck out former par. (3) which read as follows: “No employee of a committee of the Senate shall be paid at a gross rate in excess of $160,164, in case of an employee of a joint committee the expenses of which are paid from the contingent fund of the Senate, $160,659, in case of an employee of a select committee (including the conference majority and conference minority of the Senate), or $162,515, in case of an employee of any standing committee (including the majority and minority policy committees) of the Senate. For the purpose of this paragraph, an employee of a subcommittee shall be considered to be an employee of the full committee.”
 
 Subsec. (f). Figure “$2,381” to be deemed to refer, effective Jan. 1, 2007, to the figure “$2,444”, see section 7(a) of Salary Directive of President pro tempore of the Senate, Feb. 16, 2007, formerly set out as a note under section 60a–1 of this title.
 
@@ -2425,11 +2425,11 @@ Subsec. (e)(3). Figures “$67,694”, “$68,172”, and “$69,966” to be de
 
 Subsec. (f). Figures “$1,251” and “$68,172” to be deemed to refer, effective Jan. 1, 1985, to the figures “$1,295” and “$70,559”, respectively, see section 7(a), (b)(1) of Salary Directive of President pro tempore of the Senate, Jan. 4, 1985, formerly set out as a note under section 60a–1 of this title.
 
-1984—Subsec. (d)(1). Pub. L. 98–367, § 3(a), struck out subpar. (A) designation, substituted “In the event that the term of office of a Senator begins after the first month of a fiscal year or ends (except by reason of death, resignation, or expulsion) before the last month of a fiscal year, the aggregate amount available for gross compensation of employees in the office of such Senator for such year shall be the applicable amount contained in the table included in the preceding sentence, divided by 12, and multiplied by the number of months in such year which are included in the Senator’s term of office, counting any fraction of a month as a full month” for “In any fiscal year in which a Senator does not hold the office of Senator at least part of each month of that year, the aggregate amount available for gross compensation of employees in the office of that Senator shall be the applicable amount contained in the table included in this subparagraph, divided by 12, and multiplied by the number of months the Senator holds such office during that fiscal year, counting any fraction of a month as a full month”, and struck out subpar. (B), which provided that the aggregate of payments of gross compensation made to employees in the office of a Senator during each fiscal year would not exceed at any time during such fiscal year one-twelfth of the applicable amount contained in the table included in former subpar. (A) multiplied by the number of months (counting a fraction of a month as a month) elapsing from the first month in that fiscal year in which the Senator held the office of Senator through the end of the current month for which the payment of gross compensation was to be made.
+1984—Subsec. (d)(1). Pub. L. 98–367, § 3(a), struck out subpar. (A) designation, substituted “In the event that the term of office of a Senator begins after the first month of a fiscal year or ends (except by reason of death, resignation, or expulsion) before the last month of a fiscal year, the aggregate amount available for gross compensation of employees in the office of such Senator for such year shall be the applicable amount contained in the table included in the preceding sentence, divided by 12, and multiplied by the number of months in such year which are included in the Senator’s term of office, counting any fraction of a month as a full month” for “In any fiscal year in which a Senator does not hold the office of Senator at least part of each month of that year, the aggregate amount available for gross compensation of employees in the office of that Senator shall be the applicable amount contained in the table included in this subparagraph, divided by 12, and multiplied by the number of months the Senator holds such office during that fiscal year, counting any fraction of a month as a full month”, and struck out subpar. (B), which provided that the aggregate of payments of gross compensation made to employees in the office of a Senator during each fiscal year would not exceed at any time during such fiscal year one-twelfth of the applicable amount contained in the table included in former subpar. (A) multiplied by the number of months (counting a fraction of a month as a month) elapsing from the first month in that fiscal year in which the Senator held the office of Senator through the end of the current month for which the payment of gross compensation was to be made.
 
-Subsec. (d)(2). Pub. L. 98–367, § 12(a), substituted “The salary of an employee in a Senator’s office shall not be fixed under this paragraph at a rate less than $1,251 or in excess of $68,172 per annum” for “The salary of an employee in a Senator’s office shall not be fixed under this paragraph at a rate less than $1,251 per annum or in excess of $40,721 per annum except that (i) the salaries of three employees may be fixed at rates of not more than $64,106 per annum, (ii) the salaries of five employees may be fixed at rates of not more than $64,704 per annum, and (iii) the salary of one employee may be fixed at a rate of not more than $68,172 per annum”.
+Subsec. (d)(2). Pub. L. 98–367, § 12(a), substituted “The salary of an employee in a Senator’s office shall not be fixed under this paragraph at a rate less than $1,251 or in excess of $68,172 per annum” for “The salary of an employee in a Senator’s office shall not be fixed under this paragraph at a rate less than $1,251 per annum or in excess of $40,721 per annum except that (i) the salaries of three employees may be fixed at rates of not more than $64,106 per annum, (ii) the salaries of five employees may be fixed at rates of not more than $64,704 per annum, and (iii) the salary of one employee may be fixed at a rate of not more than $68,172 per annum”.
 
-Subsec. (e)(3). Pub. L. 98–367, § 12(b), substituted “No employee of a committee of the Senate shall be paid at a gross rate in excess of $67,694, in case of an employee of a joint committee the expenses of which are paid from the contingent fund of the Senate, $68,172, in case of an employee of a select committee (including the conference majority and conference minority of the Senate), or $69,966, in case of an employee of any standing committee (including the majority and minority policy committees) of the Senate” for “No employee of any standing or select committee of the Senate (including the majority and minority policy committees and the conference majority and conference minority of the Senate), or of any joint committee the expenses of which are paid from the contingent fund of the Senate, shall be paid at a gross rate in excess of $64,106 per annum, except that (A) two employees of any such committee (other than the Committee on Appropriations), who are otherwise authorized to be paid at such rate, may be paid at gross rates not in excess of $65,661 per annum, and four such employees may be paid at gross rates not in excess of $69,966 per annum; and (B) sixteen employees of the Committee on Appropriations who are otherwise authorized to be paid at such rate, may be paid at gross rates not in excess of $65,661 per annum, and five such employees may be paid at gross rates not in excess of $69,966 per annum”.
+Subsec. (e)(3). Pub. L. 98–367, § 12(b), substituted “No employee of a committee of the Senate shall be paid at a gross rate in excess of $67,694, in case of an employee of a joint committee the expenses of which are paid from the contingent fund of the Senate, $68,172, in case of an employee of a select committee (including the conference majority and conference minority of the Senate), or $69,966, in case of an employee of any standing committee (including the majority and minority policy committees) of the Senate” for “No employee of any standing or select committee of the Senate (including the majority and minority policy committees and the conference majority and conference minority of the Senate), or of any joint committee the expenses of which are paid from the contingent fund of the Senate, shall be paid at a gross rate in excess of $64,106 per annum, except that (A) two employees of any such committee (other than the Committee on Appropriations), who are otherwise authorized to be paid at such rate, may be paid at gross rates not in excess of $65,661 per annum, and four such employees may be paid at gross rates not in excess of $69,966 per annum; and (B) sixteen employees of the Committee on Appropriations who are otherwise authorized to be paid at such rate, may be paid at gross rates not in excess of $65,661 per annum, and five such employees may be paid at gross rates not in excess of $69,966 per annum”.
 
 1983—Subsec. (a)(2). Pub. L. 98–181 amended par. (2) generally. Prior to amendment par. (2) read: “New or changed rates of compensation of any such employees shall be certified in writing to the disbursing office of the Senate on or before the day on which they are to become effective, except that in the case of any change, other than an appointment, to become effective on or after the first day and prior to the tenth day of any month, such certification may be made at any time not later than the tenth day of such month.”
 
@@ -2459,17 +2459,17 @@ Subsec. (e)(3). Figures “$65,234”, “$67,878”, and “$71,625” to be de
 
 Subsec. (f). Figures “$1,102” and “$71,625” to be deemed to refer, effective Oct. 1, 1981, to the figures “$1,155” and “$75,063”, respectively, see section 7(a), (b)(1) of Salary Directive of President pro tempore of the Senate, Oct. 5, 1981, formerly set out as a note under section 60a–1 of this title.
 
-1980—Subsec. (a)(1). Pub. L. 96–304, § 107(a), substituted “October 1, 1980, such rate as so fixed or adjusted shall be at a single whole dollar per annum gross rate and may not include a fractional part of a dollar” for “August 1, 1967, such rate as so fixed or adjusted shall be a single per annum gross rate which is a multiple of $202”.
+1980—Subsec. (a)(1). Pub. L. 96–304, § 107(a), substituted “October 1, 1980, such rate as so fixed or adjusted shall be at a single whole dollar per annum gross rate and may not include a fractional part of a dollar” for “August 1, 1967, such rate as so fixed or adjusted shall be a single per annum gross rate which is a multiple of $202”.
 
 Subsec. (d)(1)(A). The table was revised upward, effective Oct. 1, 1980, by section 6(b) of Salary Directive of President pro tempore of the Senate, Oct. 1, 1980, formerly set out as a note under section 60a–1 of this title.
 
 Subsec. (d)(2). Figures “$1,010”, “$32,926”, “$57,974”, and “$60,600” increased, effective Oct. 1, 1980, to the figures “$1,102”, “$35,923”, “$63,250”, and “$66,115”, respectively, see section 6(c)(1) of Salary Directive of President pro tempore of the Senate, Oct. 1, 1980, formerly set out as a note under section 60a–1 of this title.
 
-Pub. L. 96–304, § 112(b)(1), substituted “that portion of subsection (e)(3) of this section preceding subparagraph (A)” for “subsection (e)(1) of this section”.
+Pub. L. 96–304, § 112(b)(1), substituted “that portion of subsection (e)(3) of this section preceding subparagraph (A)” for “subsection (e)(1) of this section”.
 
 Subsec. (e). Figures “$23,836”, “$35,956”, “$59,792”, “$62,216”, and “$65,650” to be deemed to refer, effective Oct. 1, 1980, to the figures “$26,006”, “$39,228”, “$65,234”, “$67,878” and “$71,625”, respectively, see section 5(b)(1), (2) of Salary Directive of President pro tempore of the Senate, Oct. 1, 1980, formerly set out as a note under section 60a–1 of this title.
 
-Pub. L. 96–304, § 112(b)(1), struck out par. (1) which provided that the professional staff members of standing committees of the Senate receive gross annual compensation to be fixed by the chairman at not to exceed $65,234, and par. (2) which provided that the rates of gross compensation of the clerical staff of each standing committee of the Senate, as fixed by the chairman, be for each committee, other than the Committee on Appropriations, one chief clerk and one assistant chief clerk at not to exceed $65,234, and not to exceed four other clerical assist­ants at not to exceed $26,006, and for the Committee on Appropriations, one chief clerk and one assistant chief clerk and two assistant clerks at not to exceed $65,234, such assistant clerks as may be necessary at not to exceed $39,228, and such other clerical assistants as may be necessary at not to exceed $26,006.
+Pub. L. 96–304, § 112(b)(1), struck out par. (1) which provided that the professional staff members of standing committees of the Senate receive gross annual compensation to be fixed by the chairman at not to exceed $65,234, and par. (2) which provided that the rates of gross compensation of the clerical staff of each standing committee of the Senate, as fixed by the chairman, be for each committee, other than the Committee on Appropriations, one chief clerk and one assistant chief clerk at not to exceed $65,234, and not to exceed four other clerical assist­ants at not to exceed $26,006, and for the Committee on Appropriations, one chief clerk and one assistant chief clerk and two assistant clerks at not to exceed $65,234, such assistant clerks as may be necessary at not to exceed $39,228, and such other clerical assistants as may be necessary at not to exceed $26,006.
 
 Subsec. (f). Figures “$1,010” and “$65,650” to be deemed to refer, effective Oct. 1, 1980, to the figures “$1,102” and “$71,625”, respectively, see section 7(a), (b)(1) of Salary Directive of President pro tempore of the Senate, Oct. 1, 1980, formerly set out as a note under section 60a–1 of this title.
 
@@ -2493,9 +2493,9 @@ Subsec. (d)(2). Figures “$1,074”, “$29,177”, “$51,373”, and “$53,7
 
 Subsec. (e). Figures “$21,122”, “$31,862”, “$52,984”, “$55,132”, and “$58,175” to be deemed to refer, effective Oct. 1, 1978, to the figures “$22,302”, “$33,642”, “$55,944”, “$58,212”, and “$61,425”, respectively, see section 5(b)(1), (2) of Salary Directive of President pro tempore of the Senate, Oct. 9, 1978, formerly set out as a note under section 60a–1 of this title.
 
-Subsec. (e)(3)(A). Pub. L. 95–482, § 112(1), (2), substituted “two employees” for “four employees” and “four such employees” for “two such employees”.
+Subsec. (e)(3)(A). Pub. L. 95–482, § 112(1), (2), substituted “two employees” for “four employees” and “four such employees” for “two such employees”.
 
-Subsec. (e)(3)(B). Pub. L. 95–482, § 112(3), substituted “five such employees” for “three such employees”.
+Subsec. (e)(3)(B). Pub. L. 95–482, § 112(3), substituted “five such employees” for “three such employees”.
 
 Subsec. (f). Figures “$1,074” and “$58,175” to be deemed to refer, effective Oct. 1, 1978, to the figures “$1,134” and “$61,425”, respectively, see section 7(a), (b)(1) of Salary Directive of President pro tempore of the Senate, Oct. 9, 1978, formerly set out as a note under section 60a–1 of this title.
 
@@ -2633,17 +2633,17 @@ Subsec. (d)(1). The table was revised upward, effective July 1, 1968, see sectio
 
 Subsecs. (d)(2) to (f). Figures were increased, effective July 1, 1968, see sections 1(g) and 2(b) of Salary Directive of President pro tempore of the Senate, June 12, 1968, formerly set out as a note under section 60a–1 of this title.
 
-1967—Subsec. (a)(1). Pub. L. 90–206, § 214(j), substituted “$188” for “$180”.
+1967—Subsec. (a)(1). Pub. L. 90–206, § 214(j), substituted “$188” for “$180”.
 
-Subsec. (d)(1). Pub. L. 90–206, § 214(k), increased the aggregate amount of the per annum gross rates of compensation of employees in the office of a Senator.
+Subsec. (d)(1). Pub. L. 90–206, § 214(k), increased the aggregate amount of the per annum gross rates of compensation of employees in the office of a Senator.
 
-Subsecs. (d)(2) to (f). Pub. L. 90–206, § 214(*l*), substituted “$1,128”, “$6,392”, “$11,092”, “$11,280”, “$14,852”, “$15,040”, “$16,356”, “$16,544”, “$18,988”, “$23,312”, “$24,440”, and “$25,568” for “$1,080”, “$6,120”, “$10,620”, “$10,800”, “$14,220”, “$14,400”, “$15,660”, “$15,840”, “$18,180”, “$22,320”, “$23,400”, and “$24,480”, respectively, wherever appearing.
+Subsecs. (d)(2) to (f). Pub. L. 90–206, § 214(*l*), substituted “$1,128”, “$6,392”, “$11,092”, “$11,280”, “$14,852”, “$15,040”, “$16,356”, “$16,544”, “$18,988”, “$23,312”, “$24,440”, and “$25,568” for “$1,080”, “$6,120”, “$10,620”, “$10,800”, “$14,220”, “$14,400”, “$15,660”, “$15,840”, “$18,180”, “$22,320”, “$23,400”, and “$24,480”, respectively, wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–103, div. I, title I, § 102, Mar. 15, 2022, 136 Stat. 505, provided that the amendment made by section 102 is effective on and after Oct. 1, 2021.
+Pub. L. 117–103, div. I, title I, § 102, Mar. 15, 2022, 136 Stat. 505, provided that the amendment made by section 102 is effective on and after Oct. 1, 2021.
 
 Amendment by section 213(a)(1) of Pub. L. 117–103 effective on the first day of the first applicable pay period beginning on or after Mar. 15, 2022, see section 213(b) of Pub. L. 117–103, set out as a note under section 4571 of this title.
 
@@ -2653,69 +2653,69 @@ Amendment by Pub. L. 116–94 effective on the later of the first day of the fir
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–68, div. A, title I, § 1, Oct. 1, 2009, 123 Stat. 2026, provided that the amendment made by section 1 is effective on and after Oct. 1, 2009.
+Pub. L. 111–68, div. A, title I, § 1, Oct. 1, 2009, 123 Stat. 2026, provided that the amendment made by section 1 is effective on and after Oct. 1, 2009.
 
-Pub. L. 111–8, div. G, title I, § 1, Mar. 11, 2009, 123 Stat. 814, provided that the amendment made by section 1 is effective on and after Oct. 1, 2008.
+Pub. L. 111–8, div. G, title I, § 1, Mar. 11, 2009, 123 Stat. 814, provided that the amendment made by section 1 is effective on and after Oct. 1, 2008.
 
 **Effective Date of 2007 Amendment**
 
-Pub. L. 110–161, div. H, title I, § 1, Dec. 26, 2007, 121 Stat. 2220, provided that the amendment made by section 1 is effective on and after Oct. 1, 2007.
+Pub. L. 110–161, div. H, title I, § 1, Dec. 26, 2007, 121 Stat. 2220, provided that the amendment made by section 1 is effective on and after Oct. 1, 2007.
 
-Pub. L. 110–161, div. H, title I, § 4(b), Dec. 26, 2007, 121 Stat. 2221, provided that: “The amendment made by this section [amending this section] shall apply to fiscal year 2008 and each fiscal year thereafter.”
+Pub. L. 110–161, div. H, title I, § 4(b), Dec. 26, 2007, 121 Stat. 2221, provided that: “The amendment made by this section [amending this section] shall apply to fiscal year 2008 and each fiscal year thereafter.”
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–55, title I, § 1, Aug. 2, 2005, 119 Stat. 568, provided that the amendment made by section 1 is effective on and after Oct. 1, 2005.
+Pub. L. 109–55, title I, § 1, Aug. 2, 2005, 119 Stat. 568, provided that the amendment made by section 1 is effective on and after Oct. 1, 2005.
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–447, div. G, title I, § 1, Dec. 8, 2004, 118 Stat. 3168, provided that the amendment made by section 1 is effective on and after Oct. 1, 2004.
+Pub. L. 108–447, div. G, title I, § 1, Dec. 8, 2004, 118 Stat. 3168, provided that the amendment made by section 1 is effective on and after Oct. 1, 2004.
 
 **Effective Date of 2003 Amendments**
 
-Pub. L. 108–83, title I, § 1, Sept. 30, 2003, 117 Stat. 1010, provided that the amendment made by section 1 is effective on and after Oct. 1, 2003.
+Pub. L. 108–83, title I, § 1, Sept. 30, 2003, 117 Stat. 1010, provided that the amendment made by section 1 is effective on and after Oct. 1, 2003.
 
-Pub. L. 108–7, div. H, title I, § 3, Feb. 20, 2003, 117 Stat. 349, provided that the amendment made by section 3 is effective on and after Oct. 1, 2002.
+Pub. L. 108–7, div. H, title I, § 3, Feb. 20, 2003, 117 Stat. 349, provided that the amendment made by section 3 is effective on and after Oct. 1, 2002.
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–68, title I, § 106, Nov. 12, 2001, 115 Stat. 568, provided that the amendment made by section 106 is effective on and after Oct. 1, 2001.
+Pub. L. 107–68, title I, § 106, Nov. 12, 2001, 115 Stat. 568, provided that the amendment made by section 106 is effective on and after Oct. 1, 2001.
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–57, title I, § 2, Sept. 29, 1999, 113 Stat. 411, provided that the amendment made by section 2 is effective on and after Oct. 1, 1999.
+Pub. L. 106–57, title I, § 2, Sept. 29, 1999, 113 Stat. 411, provided that the amendment made by section 2 is effective on and after Oct. 1, 1999.
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–275, title I, § 8, Oct. 21, 1998, 112 Stat. 2434, provided that the amendment made by section 8 is effective on and after Oct. 1, 1998.
+Pub. L. 105–275, title I, § 8, Oct. 21, 1998, 112 Stat. 2434, provided that the amendment made by section 8 is effective on and after Oct. 1, 1998.
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–55, title I, § 5, Oct. 7, 1997, 111 Stat. 1181, provided that the amendment made by that section is effective on and after Oct. 1, 1997.
+Pub. L. 105–55, title I, § 5, Oct. 7, 1997, 111 Stat. 1181, provided that the amendment made by that section is effective on and after Oct. 1, 1997.
 
 **Effective Date of 1987 Amendments**
 
-Pub. L. 100–202, § 101(i) [title I, § 1(b)], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294, provided that: “The amendment made by this section [amending this section] shall be effective in the case of fiscal years beginning after September 30, 1987.”
+Pub. L. 100–202, § 101(i) [title I, § 1(b)], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294, provided that: “The amendment made by this section [amending this section] shall be effective in the case of fiscal years beginning after September 30, 1987.”
 
-Pub. L. 100–137, § 1(c)(1), Oct. 21, 1987, 101 Stat. 818, provided that the amendment made by that section is effective Jan. 1, 1988.
+Pub. L. 100–137, § 1(c)(1), Oct. 21, 1987, 101 Stat. 818, provided that the amendment made by that section is effective Jan. 1, 1988.
 
-Pub. L. 100–71, title I, § 3(a), July 11, 1987, 101 Stat. 423, provided that the amendment made by that section is effective July 1, 1987.
+Pub. L. 100–71, title I, § 3(a), July 11, 1987, 101 Stat. 423, provided that the amendment made by that section is effective July 1, 1987.
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–367, title I, § 3(b), July 17, 1984, 98 Stat. 475, provided that: “The amendments made by subsection (a) of this section [amending this section] shall be effective with respect to fiscal years beginning after September 30, 1984.”
+Pub. L. 98–367, title I, § 3(b), July 17, 1984, 98 Stat. 475, provided that: “The amendments made by subsection (a) of this section [amending this section] shall be effective with respect to fiscal years beginning after September 30, 1984.”
 
-Pub. L. 98–367, title I, § 12(c), July 17, 1984, 98 Stat. 477, provided that: “The amendments made by subsection (a) of this section [amending this section] shall take effect on October 1, 1984.”
+Pub. L. 98–367, title I, § 12(c), July 17, 1984, 98 Stat. 477, provided that: “The amendments made by subsection (a) of this section [amending this section] shall take effect on October 1, 1984.”
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–181, title I, § 1203(b), Nov. 30, 1983, 97 Stat. 1290, provided that: “The amendment made by subsection (a) [amending this section] shall be applicable in the case of new or changed rates of compensation which are certified to the Disbursing Office of the Senate on or after January 1, 1984.”
+Pub. L. 98–181, title I, § 1203(b), Nov. 30, 1983, 97 Stat. 1290, provided that: “The amendment made by subsection (a) [amending this section] shall be applicable in the case of new or changed rates of compensation which are certified to the Disbursing Office of the Senate on or after January 1, 1984.”
 
 **Effective Date of 1980 Amendment**
 
 Amendment by section 107(a) of Pub. L. 96–304 effective Oct. 1, 1980, see section 107(d) of Pub. L. 96–304, set out as an Effective Date of 1980 Amendment note under section 4507 of this title.
 
-Pub. L. 96–304, title I, § 112(b), July 8, 1980, 94 Stat. 892, provided that the amendment made by that section is effective as of the close of Feb. 28, 1981.
+Pub. L. 96–304, title I, § 112(b), July 8, 1980, 94 Stat. 892, provided that the amendment made by that section is effective as of the close of Feb. 28, 1981.
 
 **Effective Date of 1977 Amendment**
 
@@ -2723,11 +2723,11 @@ Amendment by Pub. L. 95–94 effective Oct. 1, 1977, see section 111(f) of Pub. 
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–440, title I, § 101(a), Oct. 1, 1976, 90 Stat. 1443, provided that the amendment made by that section is effective Oct. 1, 1976.
+Pub. L. 94–440, title I, § 101(a), Oct. 1, 1976, 90 Stat. 1443, provided that the amendment made by that section is effective Oct. 1, 1976.
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–371, § 6, Aug. 13, 1974, 88 Stat. 430, provided that the amendment made by that section is effective July 1, 1974.
+Pub. L. 93–371, § 6, Aug. 13, 1974, 88 Stat. 430, provided that the amendment made by that section is effective July 1, 1974.
 
 **Effective Date of 1973 Amendment**
 
@@ -2751,7 +2751,7 @@ Amendment by Pub. L. 90–206 effective at beginning of first pay period which b
 
 **Effective Date**
 
-Pub. L. 90–57, § 105(k), July 28, 1967, 81 Stat. 144, provided that: “This section [enacting this section, amending section 4507 of this title and section 5533 of Title 5, Government Organization and Employees, repealing sections 60f, 72a–1, 72a–1a, and 72a–4 of this title, and amending provisions set out as notes under section 4571 of this title] shall be effective from and after August 1, 1967.”
+Pub. L. 90–57, § 105(k), July 28, 1967, 81 Stat. 144, provided that: “This section [enacting this section, amending section 4507 of this title and section 5533 of Title 5, Government Organization and Employees, repealing sections 60f, 72a–1, 72a–1a, and 72a–4 of this title, and amending provisions set out as notes under section 4571 of this title] shall be effective from and after August 1, 1967.”
 
 **Transfer of Functions**
 
@@ -2759,7 +2759,7 @@ Statutory functions, duties, or authority of Chief Administrative Officer of the
 
 **High Cost of Living Allowance**
 
-Pub. L. 108–83, title I, § 10, Sept. 30, 2003, 117 Stat. 1014, provided that:
+Pub. L. 108–83, title I, § 10, Sept. 30, 2003, 117 Stat. 1014, provided that:
 
 > **“(a) In General.—** Under the authority of section 105(d)(2) of the Legislative Branch Appropriations [Appropriation] Act, 1968 (2 U.S.C. 61–1(d)(2)) [now 2 U.S.C. 4575(d)(2)], a Senator from a noncontiguous State may pay a high cost of living allowance to any employee employed in an office of the Senator located in that State.
 
@@ -2777,33 +2777,33 @@ Pub. L. 108–83, title I, § 10, Sept. 30, 2003, 117 Stat. 1014, provided tha
 
 **1975 Adjustments in Compensation in Maximum Annual Rates to Employees in Offices of Senators, Employees of Senators, Employees of Standing and Select Committees and Joint Committees the Expenses of Which are Paid From Senate Contingent Fund, and Officers or Employees Paid by Secretary of Senate**
 
-Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275, as amended by Pub. L. 94–157, title I, § 111(a), Dec. 18, 1975, 89 Stat. 832, which provided in part for the maximum annual rate of compensation for certain employees, was repealed by Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775.
+Pub. L. 94–59, title I, § 105, July 25, 1975, 89 Stat. 275, as amended by Pub. L. 94–157, title I, § 111(a), Dec. 18, 1975, 89 Stat. 832, which provided in part for the maximum annual rate of compensation for certain employees, was repealed by Pub. L. 116–94, div. E, title II, § 212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775.
 
-Pub. L. 94–157, title I, § 111(c), Dec. 18, 1975, 89 Stat. 832, provided in part that amendment by section 111(a) of Pub. L. 94–157 inserting after “fiscal year” the words “, and the two employees referred to in such clause (A) who are employees of any joint committee having legislative authority,” shall become effective Jan. 1, 1976, and no increase in salary shall be payable for any period prior to such date by reason of the amendment.
+Pub. L. 94–157, title I, § 111(c), Dec. 18, 1975, 89 Stat. 832, provided in part that amendment by section 111(a) of Pub. L. 94–157 inserting after “fiscal year” the words “, and the two employees referred to in such clause (A) who are employees of any joint committee having legislative authority,” shall become effective Jan. 1, 1976, and no increase in salary shall be payable for any period prior to such date by reason of the amendment.
 
 **1974 Adjustments in Compensation in Maximum Annual Rates to Employees in Offices of Senators, Professional Staff and Clerical Staff Members of Standing Committees, Employees of Standing and Select Committees and Joint Committees the Expenses of Which Are Paid From Senate Contingent Fund, and Officers or Employees Paid by Secretary of Senate**
 
-Pub. L. 93–371, § 4, Aug. 13, 1974, 88 Stat. 429, as amended by Pub. L. 94–157, title I, § 111(b), Dec. 18, 1975, 89 Stat. 832, provided in part that: “The two committee employees other than joint committee employees referred to in clause (A), and the three committee employees referred to in clause (B), of section 105(e)(3) of the Legislative Branch Appropriation Act, 1968, as amended and modified [2 U.S.C. 4575(e)(3)], may each be paid at a maximum annual rate of compensation not to exceed $37,050. The four committee employees other than joint committee employees, who are not employees of a joint committee having legislative authority, referred to in such clause (A) and the sixteen committee employees referred to in such clause (B) may each be paid at a maximum annual rate of compensation not to exceed $35,625. The one employee in a Senator’s office referred to in section 105(d)(2)(ii) of such Act [2 U.S.C. 4575(d)(2)(ii)] may be paid at a maximum annual rate of compensation not to exceed $37,050. Any officer or employee whose pay is subject to the maximum limitation referred to in section 105(f) of such Act [2 U.S.C. 4575(f)] may be paid at a maximum annual rate of compensation not to exceed $37,050.”
+Pub. L. 93–371, § 4, Aug. 13, 1974, 88 Stat. 429, as amended by Pub. L. 94–157, title I, § 111(b), Dec. 18, 1975, 89 Stat. 832, provided in part that: “The two committee employees other than joint committee employees referred to in clause (A), and the three committee employees referred to in clause (B), of section 105(e)(3) of the Legislative Branch Appropriation Act, 1968, as amended and modified [2 U.S.C. 4575(e)(3)], may each be paid at a maximum annual rate of compensation not to exceed $37,050. The four committee employees other than joint committee employees, who are not employees of a joint committee having legislative authority, referred to in such clause (A) and the sixteen committee employees referred to in such clause (B) may each be paid at a maximum annual rate of compensation not to exceed $35,625. The one employee in a Senator’s office referred to in section 105(d)(2)(ii) of such Act [2 U.S.C. 4575(d)(2)(ii)] may be paid at a maximum annual rate of compensation not to exceed $37,050. Any officer or employee whose pay is subject to the maximum limitation referred to in section 105(f) of such Act [2 U.S.C. 4575(f)] may be paid at a maximum annual rate of compensation not to exceed $37,050.”
 
 [For provisions that section 4 of Pub. L. 93–371, set out above, do not supersede (1) any provision of an order of the President pro tempore of the Senate authorizing a higher rate of compensation, and (2) any authority of the President pro tempore to adjust rates of compensation or limitations referred to in section 4 of Pub. L. 93–371 under section 4 of the Federal Pay Comparability Act of 1970 [2 U.S.C. 4571] and that the provisions of section 4 of Pub. L. 93–371 are effective July 1, 1974, see 1974 Adjustment in Compensation Not To Supersede Adjustments in Compensation or Limitations by President Pro Tempore of the Senate note under section 273 of this title.]
 
-Pub. L. 94–157, title I, § 111(c), Dec. 18, 1975, 89 Stat. 832, provided in part that amendment by section 111(b) of Pub. L. 94–157 inserting after “joint committee employees” the words “, who are not employees of a joint committee having legislative authority,” shall become effective Jan. 1, 1976, and no increase in salary shall be payable for any period prior to such date by reason of the amendment.
+Pub. L. 94–157, title I, § 111(c), Dec. 18, 1975, 89 Stat. 832, provided in part that amendment by section 111(b) of Pub. L. 94–157 inserting after “joint committee employees” the words “, who are not employees of a joint committee having legislative authority,” shall become effective Jan. 1, 1976, and no increase in salary shall be payable for any period prior to such date by reason of the amendment.
 
 **Aggregate of Gross Compensation for Employees in Office of Senator for Each Fiscal Year; Increase in Amount; Reduction in Amounts for Committee Chairmen, Ranking Minority Members, etc.**
 
-Pub. L. 95–94, title I, § 111(a), (b), Aug. 5, 1977, 91 Stat. 662, as amended by Pub. L. 95–240, title II, § 206, Mar. 7, 1978, 92 Stat. 117, eff. Oct. 1, 1977; Pub. L. 100–137, § 3, Oct. 21, 1987, 101 Stat. 819; Pub. L. 102–392, title I, § 1, Oct. 6, 1992, 106 Stat. 1706, eff. Oct. 1, 1992, provided that:
+Pub. L. 95–94, title I, § 111(a), (b), Aug. 5, 1977, 91 Stat. 662, as amended by Pub. L. 95–240, title II, § 206, Mar. 7, 1978, 92 Stat. 117, eff. Oct. 1, 1977; Pub. L. 100–137, § 3, Oct. 21, 1987, 101 Stat. 819; Pub. L. 102–392, title I, § 1, Oct. 6, 1992, 106 Stat. 1706, eff. Oct. 1, 1992, provided that:
 
 > **“(a)** Except as provided in subsection (b), the aggregate of the gross compensation which may be paid to employees in the office of a Senator during each fiscal year under section 105(d) of the Legislative Branch Appropriation Act, 1968, as amended and modified (2 U.S.C. 61–1(d)) [now 2 U.S.C. 4575(d)], is increased by an amount equal to 3 times the maximum annual gross rate of compensation that may be paid to an employee of the office of a Senator.
 
-> **“(b)** [Repealed. Pub. L. 100–137, § 3, Oct. 21, 1987, 101 Stat. 819].”
+> **“(b)** [Repealed. Pub. L. 100–137, § 3, Oct. 21, 1987, 101 Stat. 819].”
 
-[The amount of the increase referred to in section 111(a) of Pub. L. 95–94, set out above, was set at $636,300 by § 6(d) of the Salary Directive of President pro tempore of the Senate, Dec. 28, 2022, set out as a note under section 4571 of this title.]
+[The amount of the increase referred to in section 111(a) of Pub. L. 95–94, set out above, was set at $636,300 by § 6(d) of the Salary Directive of President pro tempore of the Senate, Dec. 28, 2022, set out as a note under section 4571 of this title.]
 
-[Prior amounts of increase authorized by section 111(a) of Pub. L. 95–94, set out above, were contained in the following Salary Directives of President pro tempore of the Senate, formerly set out as notes under former section 60a–1 and section 4571 of this title: Oct. 9, 1978, § 6(d); Oct. 13, 1979, § 6(d); Oct. 1, 1980, § 6(d); Oct. 5, 1981, as amended Dec. 15, 1981, § 6(d); Oct. 1, 1982, § 6(d); Dec. 20, 1983, as amended May 2, 1984, § 6(d); Jan. 4, 1985, § 6(d); Dec. 19, 1986, § 6(d); Jan. 4, 1988, § 6(d); Dec. 9, 1988, § 6(d); Dec. 21, 1989, § 6(d); Dec. 20, 1990, § 6(d); Dec. 18, 1991, § 6(d); Dec. 17, 1992, § 6(d); Dec. 28, 1994, § 6(d); Dec. 18, 1996, § 6(d); Dec. 19, 1997, § 6(d); Dec. 16, 1998, § 6(d); Dec. 12, 1999, § 6(d); Dec. 20, 2000, § 6(d); Dec. 20, 2001, § 6(d); Dec. 19, 2002, § 6(d); Dec. 15, 2003, § 6(d); Mar. 5, 2004, § 6(d); Jan. 3, 2005, § 6(d); Jan. 4, 2006, § 6(d); Feb. 16, 2007, § 6(d); Jan. 7, 2008, § 6(d); Mar. 12, 2009, § 6(d); Jan. 5, 2010, § 6(d); Jan. 27, 2014, § 6(d); Dec. 23, 2014, § 6(d); Dec. 28, 2015, § 6(d); May 5, 2017, § 6(d); Mar. 23, 2018, § 6(d); Apr. 1, 2019, § 6(d); Jan. 6, 2020, § 6(d); Jan. 5, 2021, § 6(d); Mar. 15, 2022, § 6(d).]
+[Prior amounts of increase authorized by section 111(a) of Pub. L. 95–94, set out above, were contained in the following Salary Directives of President pro tempore of the Senate, formerly set out as notes under former section 60a–1 and section 4571 of this title: Oct. 9, 1978, § 6(d); Oct. 13, 1979, § 6(d); Oct. 1, 1980, § 6(d); Oct. 5, 1981, as amended Dec. 15, 1981, § 6(d); Oct. 1, 1982, § 6(d); Dec. 20, 1983, as amended May 2, 1984, § 6(d); Jan. 4, 1985, § 6(d); Dec. 19, 1986, § 6(d); Jan. 4, 1988, § 6(d); Dec. 9, 1988, § 6(d); Dec. 21, 1989, § 6(d); Dec. 20, 1990, § 6(d); Dec. 18, 1991, § 6(d); Dec. 17, 1992, § 6(d); Dec. 28, 1994, § 6(d); Dec. 18, 1996, § 6(d); Dec. 19, 1997, § 6(d); Dec. 16, 1998, § 6(d); Dec. 12, 1999, § 6(d); Dec. 20, 2000, § 6(d); Dec. 20, 2001, § 6(d); Dec. 19, 2002, § 6(d); Dec. 15, 2003, § 6(d); Mar. 5, 2004, § 6(d); Jan. 3, 2005, § 6(d); Jan. 4, 2006, § 6(d); Feb. 16, 2007, § 6(d); Jan. 7, 2008, § 6(d); Mar. 12, 2009, § 6(d); Jan. 5, 2010, § 6(d); Jan. 27, 2014, § 6(d); Dec. 23, 2014, § 6(d); Dec. 28, 2015, § 6(d); May 5, 2017, § 6(d); Mar. 23, 2018, § 6(d); Apr. 1, 2019, § 6(d); Jan. 6, 2020, § 6(d); Jan. 5, 2021, § 6(d); Mar. 15, 2022, § 6(d).]
 
-[Pub. L. 100–137, § 3, Oct. 21, 1987, 101 Stat. 819, provided that the repeal of section 111(b) of Pub. L. 95–94 is effective as of the first day of the 100th Congress [Jan. 6, 1987]].
+[Pub. L. 100–137, § 3, Oct. 21, 1987, 101 Stat. 819, provided that the repeal of section 111(b) of Pub. L. 95–94 is effective as of the first day of the 100th Congress [Jan. 6, 1987]].
 
-[S. Res. 34, Jan. 6, 1987, provided: “That subsection (b) of section 111 of the Legislative Branch Appropriation Act, 1978 (P.L. 95–94) [set out as a note above] shall not be effective during the 100th Congress.” Similar provisions covering the 99th Congress were contained in S. Res. 85, § 23, Feb. 28, 1985.]
+[S. Res. 34, Jan. 6, 1987, provided: “That subsection (b) of section 111 of the Legislative Branch Appropriation Act, 1978 (P.L. 95–94) [set out as a note above] shall not be effective during the 100th Congress.” Similar provisions covering the 99th Congress were contained in S. Res. 85, § 23, Feb. 28, 1985.]
 
 **Limitation on 1987 Increases in Maximum Annual Rates to Staff Members of Standing, Special, and Select Committees of Senate and Joint Committees of Congress Whose Funds are Disbursed by Secretary of Senate**
 
@@ -2897,11 +2897,11 @@ Section 7(b) of Salary Directive of President pro tempore of the Senate, Oct. 4,
 
 **1977 Addition of Employees in Office of Senator Not to Effect Section 6(c) of Order of President Pro Tempore Issued on October 8, 1976**
 
-Pub. L. 95–94, title I, § 111(d), Aug. 5, 1977, 91 Stat. 663, provided in part that: “The amendments made by this subsection [amending subsec. (d)(2) of this section] shall have no effect on section 6(c) of the Order of the President pro tempore issued on October 8, 1976, under section 4 of the Federal Pay Comparability Act of 1970 [set out as a note under section 4571 of this title].”
+Pub. L. 95–94, title I, § 111(d), Aug. 5, 1977, 91 Stat. 663, provided in part that: “The amendments made by this subsection [amending subsec. (d)(2) of this section] shall have no effect on section 6(c) of the Order of the President pro tempore issued on October 8, 1976, under section 4 of the Federal Pay Comparability Act of 1970 [set out as a note under section 4571 of this title].”
 
 **Increase in Allowances for Administrative and Clerical Assistance to Senators—1987**
 
-Pub. L. 100–71, title I, § 3(b), (c), July 11, 1987, 101 Stat. 423, provided that:
+Pub. L. 100–71, title I, § 3(b), (c), July 11, 1987, 101 Stat. 423, provided that:
 
 > **“(b)** Effective July 1, 1987, the administrative and clerical allowance of each Senator from the State of Georgia and the State of North Carolina is increased to that allowed Senators from States having a population of six million but less than seven million, the population of said State having exceeded six million inhabitants.
 
@@ -2909,7 +2909,7 @@ Pub. L. 100–71, title I, § 3(b), (c), July 11, 1987, 101 Stat. 423, provide
 
 **Increase in Allowances for Administrative and Clerical Assistance to Senators—1986**
 
-Pub. L. 99–349, title I, § 1, July 2, 1986, 100 Stat. 741, provided that:
+Pub. L. 99–349, title I, § 1, July 2, 1986, 100 Stat. 741, provided that:
 
 > **“(a)** Effective October 1, 1985, the allowance for administrative and clerical assistance of each Senator from the State of Alabama is increased to that allowed Senators from States having a population of four million but less than five million, the population of said State having exceeded four million inhabitants.
 
@@ -2917,15 +2917,15 @@ Pub. L. 99–349, title I, § 1, July 2, 1986, 100 Stat. 741, provided that:
 
 **Increase in Allowances for Administrative and Clerical Assistance to Senators—1985**
 
-Pub. L. 99–88, title I, § 191, Aug. 15, 1985, 99 Stat. 348, provided that: “Effective October 1, 1984, the allowance for administrative and clerical assistance of each Senator from the State of Missouri is increased to that allowed Senators from States having a population of five million but less than seven million, the population of said State having exceeded five million inhabitants.”
+Pub. L. 99–88, title I, § 191, Aug. 15, 1985, 99 Stat. 348, provided that: “Effective October 1, 1984, the allowance for administrative and clerical assistance of each Senator from the State of Missouri is increased to that allowed Senators from States having a population of five million but less than seven million, the population of said State having exceeded five million inhabitants.”
 
 **Increase in Allowances for Administrative and Clerical Assistance to Senators—1983**
 
-Pub. L. 98–367, title I, § 9, July 17, 1984, 98 Stat. 475, provided that: “Effective October 1, 1983, the allowance for administration and clerical assistance of each Senator from the State of Arizona is increased to that allowed to Senators from States having population of three million but less than four million, the population of such State having exceeded three million inhabitants.”
+Pub. L. 98–367, title I, § 9, July 17, 1984, 98 Stat. 475, provided that: “Effective October 1, 1983, the allowance for administration and clerical assistance of each Senator from the State of Arizona is increased to that allowed to Senators from States having population of three million but less than four million, the population of such State having exceeded three million inhabitants.”
 
 **Increase in Allowances for Administrative and Clerical Assistance to Senators—1982**
 
-Pub. L. 98–63, title I, § 901, July 30, 1983, 97 Stat. 335, provided that:
+Pub. L. 98–63, title I, § 901, July 30, 1983, 97 Stat. 335, provided that:
 
 > **“(a)** Effective October 1, 1982, the allowance for administrative and clerical assistance of each Senator from the State of Texas is increased to that allowed to Senators from States having a population of fifteen million but less than seventeen million, the population of said State having exceeded fifteen million inhabitants.
 
@@ -2935,7 +2935,7 @@ Pub. L. 98–63, title I, § 901, July 30, 1983, 97 Stat. 335, provided that:
 
 Pub. L. 97–257, title I, Sept. 10, 1982, 96 Stat. 849, provided that: “Effective October 1, 1981, the allowance for administrative and clerical assistance of each Senator from the State of Florida is increased to that allowed Senators from States having a population of ten million but less than eleven million, the population of said State having exceeded ten million inhabitants.”
 
-Pub. L. 97–12, title I, § 106, June 5, 1981, 95 Stat. 62, provided that:
+Pub. L. 97–12, title I, § 106, June 5, 1981, 95 Stat. 62, provided that:
 
 > **“(a)** Effective January 1, 1981, the allowance for administrative and clerical assistance of each Senator from the State of Florida is increased to that allowed Senators from States having a population of nine million but less than ten million, the population of said State having exceeded nine million inhabitants.
 
@@ -2945,9 +2945,9 @@ Pub. L. 97–12, title I, § 106, June 5, 1981, 95 Stat. 62, provided that:
 
 **Increase in Allowances for Administrative and Clerical Assistance to Senators—1979**
 
-Pub. L. 96–304, title I, § 105, July 8, 1980, 94 Stat. 889, provided that: “Effective October 1, 1979, the allowance for administrative and clerical assistance of each Senator from the State of Louisiana is increased to that allowed Senators from States having a population of four million but less than five million, the population of said State having exceeded four million inhabitants.”
+Pub. L. 96–304, title I, § 105, July 8, 1980, 94 Stat. 889, provided that: “Effective October 1, 1979, the allowance for administrative and clerical assistance of each Senator from the State of Louisiana is increased to that allowed Senators from States having a population of four million but less than five million, the population of said State having exceeded four million inhabitants.”
 
-Pub. L. 96–86, § 111(a), (b), Oct. 12, 1979, 93 Stat. 660, 661, provided:
+Pub. L. 96–86, § 111(a), (b), Oct. 12, 1979, 93 Stat. 660, 661, provided:
 
 > **“(a)** effective October 1, 1979, the allowance for administrative and clerical assistance of each Senator from the State of Minnesota is increased to that allowed Senators from States having a population of four million but less than five million, the population of said State having exceeded four million inhabitants;
 
@@ -2955,7 +2955,7 @@ Pub. L. 96–86, § 111(a), (b), Oct. 12, 1979, 93 Stat. 660, 661, provided:
 
 **Increase in Allowances for Administrative and Clerical Assistance to Senators—1978**
 
-Pub. L. 95–391, title I, § 104(a), Sept. 30, 1978, 92 Stat. 772, provided that: “Effective April 1, 1978, the clerk-hire allowance of each Senator from the State of Georgia is increased to that allowed Senators from States having a population of five million but less than seven million, the population of said State having exceeded five million inhabitants.”
+Pub. L. 95–391, title I, § 104(a), Sept. 30, 1978, 92 Stat. 772, provided that: “Effective April 1, 1978, the clerk-hire allowance of each Senator from the State of Georgia is increased to that allowed Senators from States having a population of five million but less than seven million, the population of said State having exceeded five million inhabitants.”
 
 **Increase in Allowances for Administrative and Clerical Assistants to Senators—1977**
 
@@ -2999,7 +2999,7 @@ Pub. L. 87–545, title I, July 25, 1962, 76 Stat. 215, provided in part that:
 
 **Increase in Allowance for Administrative and Clerical Assistance to Senators—1955**
 
-Act June 28, 1955, ch. 189, § 4(d), (f), 69 Stat. 176, 177, as amended Aug. 21, 1959, Pub. L. 86–176, 73 Stat. 401; Aug. 20, 1964, Pub. L. 88–454, 78 Stat. 538; Aug. 27, 1966, Pub. L. 89–545, 80 Stat. 357; July 28, 1967, Pub. L. 90–57, § 105(i)(6), 81 Stat. 144, provided that:
+Act June 28, 1955, ch. 189, § 4(d), (f), 69 Stat. 176, 177, as amended Aug. 21, 1959, Pub. L. 86–176, 73 Stat. 401; Aug. 20, 1964, Pub. L. 88–454, 78 Stat. 538; Aug. 27, 1966, Pub. L. 89–545, 80 Stat. 357; July 28, 1967, Pub. L. 90–57, § 105(i)(6), 81 Stat. 144, provided that:
 
 > **“(d)**
 
@@ -3017,11 +3017,11 @@ Act June 28, 1955, ch. 189, § 4(d), (f), 69 Stat. 176, 177, as amended Aug. 2
 
 > **“(3)** Notwithstanding the third proviso in such paragraph [this section], any increase in the compensation of an employee in a Senator’s office shall take effect on the effective date of this subsection or on the date such employee became employed, whichever is later, if (A) the certification filed by such Senator under such proviso so provides, (B) such certification is filed in the disbursing office of the Senate not later than fifteen days following the date of enactment of this Act [June 28, 1955], and (C) the amount of such increase does not exceed the amount of the increase which would be payable in the case of such employee if he were subject to the provisions of subsection (a) of this section [former section 60e–7 of this title] plus any additional amount which may result from fixing the rate of basic compensation at the lowest multiple of $60 which will result in an increase not less than the amount of such increase which would be payable under subsection (a) [former section 60e–7(a) of this title].
 
-> **“(f) [Repealed. Pub. L. 90–57, § 105(i)(6), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.]** ”
+> **“(f) [Repealed. Pub. L. 90–57, § 105(i)(6), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.]** ”
 
 **Increase in Allowance for Administrative and Clerical Assistance to Senators—1951**
 
-Act Oct. 24, 1951, ch. 554, § 2(c)(1), 65 Stat. 614, provided that:
+Act Oct. 24, 1951, ch. 554, § 2(c)(1), 65 Stat. 614, provided that:
 
 > “The aggregate amount of the basic compensation authorized to be paid for administrative and clerical assistance and messenger service in the offices of Senators is hereby increased by—
 
@@ -3035,43 +3035,43 @@ Act Oct. 24, 1951, ch. 554, § 2(c)(1), 65 Stat. 614, provided that:
 
 **1966 Adjustment of Basic Compensation of Employees in Office of Senator**
 
-Pub. L. 89–504, title III, § 302(f), July 18, 1966, 80 Stat. 295, provided that: “The basic compensation of each employee in the office of a Senator is hereby adjusted, effective on the first day of the month following the date of enactment of this Act [July 18, 1966], to the lowest multiple of $60 which will provide a gross rate of compensation not less than the gross rate such employee was receiving immediately prior thereto, except that the foregoing provisions of this subsection shall not apply in the case of any employee if on or before the fifteenth day following the date of enactment of this Act [July 18, 1966], the Senator by whom such employee is employed notifies the disbursing office of the Senate in writing that he does not wish such provisions to apply to such employee. No employee whose basic compensation is adjusted under this subsection shall receive any additional compensation under subsection (a) [former section 60e–13(a) of this title] for any period prior to the effective date of such adjustment during which such employee was employed in the office of the Senator by whom he is employed on the first day of the month following the enactment of this Act [July 18, 1966]. No additional compensation shall be paid to any person under subsection (a) [former section 60e–13(a) of this title] for any period prior to the first day of the month following the date of enactment of this Act [July 18, 1966] during which such person was employed in the office of a Senator (other than a Senator by whom he is employed on such day) unless on or before the fifteenth day following the date of enactment of this Act [July 18, 1966] such Senator notifies the disbursing office of the Senate in writing that he wishes such employee to receive such additional compensation for such period. In any case in which, at the expiration of the time within which a Senator may give notice under this subsection, such Senator is deceased, such notice shall be deemed to have been given.”
+Pub. L. 89–504, title III, § 302(f), July 18, 1966, 80 Stat. 295, provided that: “The basic compensation of each employee in the office of a Senator is hereby adjusted, effective on the first day of the month following the date of enactment of this Act [July 18, 1966], to the lowest multiple of $60 which will provide a gross rate of compensation not less than the gross rate such employee was receiving immediately prior thereto, except that the foregoing provisions of this subsection shall not apply in the case of any employee if on or before the fifteenth day following the date of enactment of this Act [July 18, 1966], the Senator by whom such employee is employed notifies the disbursing office of the Senate in writing that he does not wish such provisions to apply to such employee. No employee whose basic compensation is adjusted under this subsection shall receive any additional compensation under subsection (a) [former section 60e–13(a) of this title] for any period prior to the effective date of such adjustment during which such employee was employed in the office of the Senator by whom he is employed on the first day of the month following the enactment of this Act [July 18, 1966]. No additional compensation shall be paid to any person under subsection (a) [former section 60e–13(a) of this title] for any period prior to the first day of the month following the date of enactment of this Act [July 18, 1966] during which such person was employed in the office of a Senator (other than a Senator by whom he is employed on such day) unless on or before the fifteenth day following the date of enactment of this Act [July 18, 1966] such Senator notifies the disbursing office of the Senate in writing that he wishes such employee to receive such additional compensation for such period. In any case in which, at the expiration of the time within which a Senator may give notice under this subsection, such Senator is deceased, such notice shall be deemed to have been given.”
 
 **1965 Adjustment of Basic Compensation of Employees in Office of Senator**
 
-Pub. L. 89–301, § 11(f), Oct. 29, 1965, 79 Stat. 1121, provided that: “The basic compensation of each employee in the office of a Senator is hereby adjusted, effective on the first day of the month following the date of enactment of this Act [Oct. 29, 1965], to the lowest multiple of $60 which will provide a gross rate of compensation not less than the gross rate such employee was receiving immediately prior thereto, except that the foregoing provisions of this subsection shall not apply in the case of any employee if on or before the fifteenth day following the date of enactment of this Act [Oct. 29, 1965], the Senator by whom such employee is employed notifies the disbursing office of the Senate in writing that he does not wish such provisions to apply to such employee. No employee whose basic compensation is adjusted under this subsection shall receive any additional compensation under subsection (a) [former section 60e–12(a) of this title] for any period prior to the effective date of such adjustment during which such employee was employed in the office of the Senator by whom he is employed on the first day of the month following the enactment of this Act [Oct. 29, 1965]. No additional compensation shall be paid to any person under subsection (a) [former section 60e–12(a) of this title] for any period prior to the first day of the month following the date of enactment of this Act [Oct. 29, 1965] during which such person was employed in the office of a Senator (other than a Senator by whom he is employed on such day) unless on or before the fifteenth day following the date of enactment of this Act [Oct. 29, 1965] such Senator notifies the disbursing office of the Senate in writing that he wishes such employee to receive such additional compensation for such period. In any case in which, at the expiration of the time within which a Senator may give notice under this subsection, such Senator is deceased, such notice shall be deemed to have been given.”
+Pub. L. 89–301, § 11(f), Oct. 29, 1965, 79 Stat. 1121, provided that: “The basic compensation of each employee in the office of a Senator is hereby adjusted, effective on the first day of the month following the date of enactment of this Act [Oct. 29, 1965], to the lowest multiple of $60 which will provide a gross rate of compensation not less than the gross rate such employee was receiving immediately prior thereto, except that the foregoing provisions of this subsection shall not apply in the case of any employee if on or before the fifteenth day following the date of enactment of this Act [Oct. 29, 1965], the Senator by whom such employee is employed notifies the disbursing office of the Senate in writing that he does not wish such provisions to apply to such employee. No employee whose basic compensation is adjusted under this subsection shall receive any additional compensation under subsection (a) [former section 60e–12(a) of this title] for any period prior to the effective date of such adjustment during which such employee was employed in the office of the Senator by whom he is employed on the first day of the month following the enactment of this Act [Oct. 29, 1965]. No additional compensation shall be paid to any person under subsection (a) [former section 60e–12(a) of this title] for any period prior to the first day of the month following the date of enactment of this Act [Oct. 29, 1965] during which such person was employed in the office of a Senator (other than a Senator by whom he is employed on such day) unless on or before the fifteenth day following the date of enactment of this Act [Oct. 29, 1965] such Senator notifies the disbursing office of the Senate in writing that he wishes such employee to receive such additional compensation for such period. In any case in which, at the expiration of the time within which a Senator may give notice under this subsection, such Senator is deceased, such notice shall be deemed to have been given.”
 
 **1964 Adjustment of Basic Compensation of Employees in Office of Senator**
 
-Pub. L. 88–426, title II, § 202(e), Aug. 14, 1964, 78 Stat. 413, provided that: “The basic compensation of each employee in the office of a Senator is hereby adjusted effective on the first day of the month following the date of enactment of this Act [Aug. 14, 1964], to the lowest multiple of $60 which will provide a gross rate of compensation not less than the gross rate such employee was receiving immediately prior thereto except that the foregoing provisions of this subsection shall not apply in the case of any employee if on or before the fifteenth day following the date of enactment of this Act [Aug. 14, 1964], the Senator by whom such employee is employed notifies the disbursing office of the Senate in writing that he does not wish such provisions to apply to such employee. No employee whose basic compensation is adjusted under this subsection shall receive any additional compensation under subsection (a) [former section 60e–11(a) of this title] for any period prior to the effective date of such adjustment during which such employee was employed in the office of the Senator by whom he is employed on the first day of the month following the enactment of this Act [Aug. 14, 1964]. No additional compensation shall be paid to any person under subsection (a) [former section 60e–11(a) of this title] for any period prior to the first day of the month following the date of enactment of this Act [Aug. 14, 1964] during which such person was employed in the office of a Senator (other than a Senator by whom he is employed on such day) unless on or before the fifteenth day following the date of enactment of this Act [Aug. 14, 1964] such Senator notifies the disbursing office of the Senate in writing that he wishes such employee to receive such additional compensation for such period. In any case in which, at the expiration of the time within which a Senator may give notice under this subsection, such Senator is deceased such notice shall be deemed to have been given.”
+Pub. L. 88–426, title II, § 202(e), Aug. 14, 1964, 78 Stat. 413, provided that: “The basic compensation of each employee in the office of a Senator is hereby adjusted effective on the first day of the month following the date of enactment of this Act [Aug. 14, 1964], to the lowest multiple of $60 which will provide a gross rate of compensation not less than the gross rate such employee was receiving immediately prior thereto except that the foregoing provisions of this subsection shall not apply in the case of any employee if on or before the fifteenth day following the date of enactment of this Act [Aug. 14, 1964], the Senator by whom such employee is employed notifies the disbursing office of the Senate in writing that he does not wish such provisions to apply to such employee. No employee whose basic compensation is adjusted under this subsection shall receive any additional compensation under subsection (a) [former section 60e–11(a) of this title] for any period prior to the effective date of such adjustment during which such employee was employed in the office of the Senator by whom he is employed on the first day of the month following the enactment of this Act [Aug. 14, 1964]. No additional compensation shall be paid to any person under subsection (a) [former section 60e–11(a) of this title] for any period prior to the first day of the month following the date of enactment of this Act [Aug. 14, 1964] during which such person was employed in the office of a Senator (other than a Senator by whom he is employed on such day) unless on or before the fifteenth day following the date of enactment of this Act [Aug. 14, 1964] such Senator notifies the disbursing office of the Senate in writing that he wishes such employee to receive such additional compensation for such period. In any case in which, at the expiration of the time within which a Senator may give notice under this subsection, such Senator is deceased such notice shall be deemed to have been given.”
 
 **1962 Adjustment of Basic Compensation of Employees in Office of Senator**
 
-Pub. L. 87–793, § 1005(b), Oct. 11, 1962, 76 Stat. 867, provided that: “The basic compensation of each employee in the office of a Senator is hereby adjusted, effective on October 16, 1962, to the lowest multiple of $60 which will provide a gross rate of compensation not less than the gross rate such employee was receiving immediately prior thereto, except that the foregoing provisions of this subsection shall not apply in the case of any employee if on or before the fifteenth day following the date of enactment of this Act [Oct. 11, 1962] the Senator by whom such employee is employed notifies the disbursing office of the Senate in writing that he does not wish such provisions to apply to such employee. In any case in which, at the expiration of the time within which a Senator may give notice under this subsection, such Senator is deceased such notice shall be deemed to have been given.”
+Pub. L. 87–793, § 1005(b), Oct. 11, 1962, 76 Stat. 867, provided that: “The basic compensation of each employee in the office of a Senator is hereby adjusted, effective on October 16, 1962, to the lowest multiple of $60 which will provide a gross rate of compensation not less than the gross rate such employee was receiving immediately prior thereto, except that the foregoing provisions of this subsection shall not apply in the case of any employee if on or before the fifteenth day following the date of enactment of this Act [Oct. 11, 1962] the Senator by whom such employee is employed notifies the disbursing office of the Senate in writing that he does not wish such provisions to apply to such employee. In any case in which, at the expiration of the time within which a Senator may give notice under this subsection, such Senator is deceased such notice shall be deemed to have been given.”
 
 **1960 Adjustment of Basic Compensation of Employees in Office of Senator**
 
-Pub. L. 86–568, title I, § 117(b), July 1, 1960, 74 Stat. 303, provided that: “The basic compensation of each employee in the office of a Senator is hereby adjusted, effective on July 1, 1960, to the lowest multiple of $60 which will provide a gross rate of compensation not less than the gross rate such employee was receiving immediately prior thereto, except that the foregoing provisions of this subsection shall not apply in the case of any employee if on or before the fifteenth day following the date of enactment of this Act [July 1, 1960] the Senator by whom such employee is employed notifies the disbursing office of the Senate in writing that he does not wish such provisions to apply to such employee. In any case in which, at the expiration of the time within which a Senator may give notice under this subsection, such Senator is deceased such notice shall be deemed to have been given.”
+Pub. L. 86–568, title I, § 117(b), July 1, 1960, 74 Stat. 303, provided that: “The basic compensation of each employee in the office of a Senator is hereby adjusted, effective on July 1, 1960, to the lowest multiple of $60 which will provide a gross rate of compensation not less than the gross rate such employee was receiving immediately prior thereto, except that the foregoing provisions of this subsection shall not apply in the case of any employee if on or before the fifteenth day following the date of enactment of this Act [July 1, 1960] the Senator by whom such employee is employed notifies the disbursing office of the Senate in writing that he does not wish such provisions to apply to such employee. In any case in which, at the expiration of the time within which a Senator may give notice under this subsection, such Senator is deceased such notice shall be deemed to have been given.”
 
 **1958 Adjustment of Basic Compensation of Employees in Office of Senator**
 
-Pub. L. 85–462, § 4(b), June 20, 1958, 72 Stat. 207, provided that: “The basic compensation of each employee in the office of a Senator is hereby adjusted, effective on the first day of the month following the date of enactment of this Act [June 20, 1958], to the lowest multiple of $60 which will provide a gross rate of compensation not less than the gross rate such employee was receiving immediately prior thereto, except that the foregoing provisions of this subsection shall not apply in the case of any employee if on or before the fifteenth day following the date of enactment of this Act [June 20, 1958] the Senator by whom such employee is employed notifies the disbursing office of the Senate in writing that he does not wish such provisions to apply to such employee. No employee whose basic compensation is adjusted under this subsection shall receive any additional compensation under subsection (a) [former section 60e–8(a) of this title] for any period prior to the effective date of such adjustment during which such employee was employed in the office of the Senator by whom he is employed on the first day of the month following the enactment of this Act [June 20, 1958]. No additional compensation shall be paid to any person under subsection (a) [former section 60e–8(a) of this title] for any period prior to the first day of the month following the date of enactment of this Act [June 20, 1958] during which such person was employed in the office of a Senator (other than a Senator by whom he is employed on such day) unless on or before the fifteenth day following the date of enactment of this Act [June 20, 1958] such Senator notifies the disbursing office of the Senate in writing that he wishes such employee to receive such additional compensation for such period. In any case in which, at the expiration of the time within which a Senator may give notice under this subsection, such Senator is deceased such notice shall be deemed to have been given.”
+Pub. L. 85–462, § 4(b), June 20, 1958, 72 Stat. 207, provided that: “The basic compensation of each employee in the office of a Senator is hereby adjusted, effective on the first day of the month following the date of enactment of this Act [June 20, 1958], to the lowest multiple of $60 which will provide a gross rate of compensation not less than the gross rate such employee was receiving immediately prior thereto, except that the foregoing provisions of this subsection shall not apply in the case of any employee if on or before the fifteenth day following the date of enactment of this Act [June 20, 1958] the Senator by whom such employee is employed notifies the disbursing office of the Senate in writing that he does not wish such provisions to apply to such employee. No employee whose basic compensation is adjusted under this subsection shall receive any additional compensation under subsection (a) [former section 60e–8(a) of this title] for any period prior to the effective date of such adjustment during which such employee was employed in the office of the Senator by whom he is employed on the first day of the month following the enactment of this Act [June 20, 1958]. No additional compensation shall be paid to any person under subsection (a) [former section 60e–8(a) of this title] for any period prior to the first day of the month following the date of enactment of this Act [June 20, 1958] during which such person was employed in the office of a Senator (other than a Senator by whom he is employed on such day) unless on or before the fifteenth day following the date of enactment of this Act [June 20, 1958] such Senator notifies the disbursing office of the Senate in writing that he wishes such employee to receive such additional compensation for such period. In any case in which, at the expiration of the time within which a Senator may give notice under this subsection, such Senator is deceased such notice shall be deemed to have been given.”
 
 **1955 Adjustment of Basic Compensation of Employees in Office of Senator**
 
-Act June 28, 1955, ch. 189, § 4(e)(2), 69 Stat. 177, provided that: “The basic compensation of each employee in the office of a Senator on the effective date of this subsection is hereby adjusted to the lowest multiple of $60 which will provide basic compensation, plus additional compensation payable under subsection (a) [former section 60e–7(a) of this title] and the provisions of law referred to in subsection (a) [former section 60e–7(a) of this title], not less than the amount of basic compensation, plus additional compensation under the provisions of sections 501 and 502 of the Federal Employees’ Pay Act of 1945, as amended [former sections 60e–3 and 60e–4 of this title], and section 301 of the Postal Rate Revision and Federal Employees’ Salary Act of 1948 [former section 60e–4a of this title], which he is receiving on the effective date of this subsection.”
+Act June 28, 1955, ch. 189, § 4(e)(2), 69 Stat. 177, provided that: “The basic compensation of each employee in the office of a Senator on the effective date of this subsection is hereby adjusted to the lowest multiple of $60 which will provide basic compensation, plus additional compensation payable under subsection (a) [former section 60e–7(a) of this title] and the provisions of law referred to in subsection (a) [former section 60e–7(a) of this title], not less than the amount of basic compensation, plus additional compensation under the provisions of sections 501 and 502 of the Federal Employees’ Pay Act of 1945, as amended [former sections 60e–3 and 60e–4 of this title], and section 301 of the Postal Rate Revision and Federal Employees’ Salary Act of 1948 [former section 60e–4a of this title], which he is receiving on the effective date of this subsection.”
 
 **Compensation of Administrative Assistant Charged to Senator**
 
-Act Oct. 28, 1949, ch. 783, title I, § 101(c)(1), 63 Stat. 974, provided that: “The basic compensation of the administrative assistant to a Senator shall be charged against the aggregate amount authorized to be paid for clerical assistance and messenger service in the office of such Senator.”
+Act Oct. 28, 1949, ch. 783, title I, § 101(c)(1), 63 Stat. 974, provided that: “The basic compensation of the administrative assistant to a Senator shall be charged against the aggregate amount authorized to be paid for clerical assistance and messenger service in the office of such Senator.”
 
 **Additional Increase in Clerk Hire**
 
-Act Oct. 28, 1949, ch. 783, title I, § 101(c)(2), 63 Stat. 974, provided that: “The aggregate amount of the basic compensation authorized to be paid for clerical assistance and messenger service in the office of each Senator is increased by $11,520.”
+Act Oct. 28, 1949, ch. 783, title I, § 101(c)(2), 63 Stat. 974, provided that: “The aggregate amount of the basic compensation authorized to be paid for clerical assistance and messenger service in the office of each Senator is increased by $11,520.”
 
 **Increase of Clerk Hire for Senators**
 
-Act Dec. 20, 1944, ch. 617, § 2(b), 58 Stat. 832, effective Jan. 1, 1945, provided: “The aggregate amount of the basic compensation authorized to be paid to employees in the offices of Senators (including employees of standing committees of which Senators are chairmen) is hereby increased by (1) $4,020 in the case of each Senator from a State which has a population of less than four million inhabitants and (2) by $5,040 in the case of each Senator from a State which has a population of four million or more inhabitants.”
+Act Dec. 20, 1944, ch. 617, § 2(b), 58 Stat. 832, effective Jan. 1, 1945, provided: “The aggregate amount of the basic compensation authorized to be paid to employees in the offices of Senators (including employees of standing committees of which Senators are chairmen) is hereby increased by (1) $4,020 in the case of each Senator from a State which has a population of less than four million inhabitants and (2) by $5,040 in the case of each Senator from a State which has a population of four million or more inhabitants.”
 
 **Rate of Pay for Senate Committee Staff Members for 1977 Committee System Reorganization**
 
@@ -3093,13 +3093,13 @@ This section deemed amended on and after July 1, 1969, see Salary Directives of 
 
 **Rates of Pay for Employees of Senate Select Committee To Study Governmental Operations With Respect to Intelligence Activities**
 
-Pub. L. 94–32, title I, § 5, June 12, 1975, 89 Stat. 183, provided in part that: “Notwithstanding paragraph (3) of section 105(e) of the Legislative Branch Appropriations Act, 1968, as amended [2 U.S.C. 4575(e)(3)], two employees of the Senate Select Committee to Study Governmental Operations With Respect to Intelligence Activities may be paid at the highest gross rate provided in subparagraph (A) of such paragraph, and eleven employees of such committee may be paid at the next highest gross rate provided in such subparagraph.”
+Pub. L. 94–32, title I, § 5, June 12, 1975, 89 Stat. 183, provided in part that: “Notwithstanding paragraph (3) of section 105(e) of the Legislative Branch Appropriations Act, 1968, as amended [2 U.S.C. 4575(e)(3)], two employees of the Senate Select Committee to Study Governmental Operations With Respect to Intelligence Activities may be paid at the highest gross rate provided in subparagraph (A) of such paragraph, and eleven employees of such committee may be paid at the next highest gross rate provided in such subparagraph.”
 
 **Secretary of Senate To Fix Compensation of Legislative Clerk and Journal Clerk**
 
 Pub. L. 86–213, Sept. 1, 1959, 73 Stat. 443, authorized Secretary of Senate to fix compensation of legislative clerk and journal clerk, on and after Sept. 1, 1959, at not to exceed $7,620 basic per annum each.
 
-#### § 4575a. Change in maximum rates of pay for statutory employees
+#### § 4575a. Change in maximum rates of pay for statutory employees
 
 **(i) Fixed salary positions**
 
@@ -3109,7 +3109,7 @@ For any position for which the Secretary of the Senate disburses the pay for the
 
 For any position for which the Secretary of the Senate disburses the pay for the position and for which the maximum rate of pay for the particular position is fixed by statute on the day before the effective date of the amendments made by this section, on and after such effective date the maximum rate of pay for such position shall be fixed by the President pro tempore, which shall not exceed the maximum rate of pay in effect under section 4575(f) of this title.
 
-(Pub. L. 116–94, div. E, title II, § 212(a)(1)(B), Dec. 20, 2019, 133 Stat. 2774.)
+(Pub. L. 116–94, div. E, title II, § 212(a)(1)(B), Dec. 20, 2019, 133 Stat. 2774.)
 
 **Editorial Notes**
 
@@ -3123,7 +3123,7 @@ The effective date of the amendments made by this section, referred to in text, 
 
 Section effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of Pub. L. 116–94, set out as an Effective Date of 2019 Amendment note under section 282b of this title.
 
-#### § 4576. Availability of appropriated funds for payment to an individual of pay from more than one position; conditions
+#### § 4576. Availability of appropriated funds for payment to an individual of pay from more than one position; conditions
 
 **(a)** Notwithstanding any other provision of law, appropriated funds are available for payment to an individual of pay from more than one qualifying position if the aggregate gross pay from those positions does not exceed—
 
@@ -3141,7 +3141,7 @@ Section effective on the later of the first day of the first applicable pay peri
 
 **(A)** For purposes of the Ethics in Government Act of 1978 (5 U.S.C. App.),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the rate of basic pay for an individual serving in more than 1 qualifying position under subsection (a) shall be the total basic pay received by the individual from all such positions.
 
@@ -3187,15 +3187,15 @@ the rate of basic pay for an individual serving in more than 1 qualifying positi
 
 **(ii)** the pay of which is disbursed by the Secretary of the Senate out of an appropriation under the heading “miscellaneous items”.
 
-(Pub. L. 95–94, title I, § 114, Aug. 5, 1977, 91 Stat. 665; Pub. L. 95–240, title II, § 207, Mar. 7, 1978, 92 Stat. 117; Pub. L. 100–202, § 101(i) [title I, § 9], Dec. 22, 1987, 101 Stat. 1329–290, 1329–295; Pub. L. 117–10, § 2(a), Apr. 23, 2021, 135 Stat. 259.)
+(Pub. L. 95–94, title I, § 114, Aug. 5, 1977, 91 Stat. 665; Pub. L. 95–240, title II, § 207, Mar. 7, 1978, 92 Stat. 117; Pub. L. 100–202, § 101(i) [title I, § 9], Dec. 22, 1987, 101 Stat. 1329–290, 1329–295; Pub. L. 117–10, § 2(a), Apr. 23, 2021, 135 Stat. 259.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Ethics in Government Act of 1978, referred to in subsec. (b)(3)(A), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Titles I, IV, and V of the Act were classified principally to the Appendix to Title 5, Government Organization and Employees, and were substantially repealed and restated in chapter 131 (§ 13101 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(c), 7, Dec. 27, 2022, 136 Stat. 4266, 4361. For complete classification of this Act to the Code, see Tables. For disposition of sections of the Act into chapter 131 of Title 5, see Disposition Table preceding section 101 of Title 5.
+The Ethics in Government Act of 1978, referred to in subsec. (b)(3)(A), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Titles I, IV, and V of the Act were classified principally to the Appendix to Title 5, Government Organization and Employees, and were substantially repealed and restated in chapter 131 (§ 13101 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(c), 7, Dec. 27, 2022, 136 Stat. 4266, 4361. For complete classification of this Act to the Code, see Tables. For disposition of sections of the Act into chapter 131 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
-The Congressional Accountability Act of 1995, referred to in subsec. (b)(3)(B), is Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3. Title II of the Act is classified principally to subchapter II (§ 1311 et seq.) of chapter 24 of this title. For complete classification of this Act to the Code, see Short Title note under section 1301 of this title and Tables.
+The Congressional Accountability Act of 1995, referred to in subsec. (b)(3)(B), is Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3. Title II of the Act is classified principally to subchapter II (§ 1311 et seq.) of chapter 24 of this title. For complete classification of this Act to the Code, see Short Title note under section 1301 of this title and Tables.
 
 **Codification**
 
@@ -3205,9 +3205,9 @@ Section is from the Congressional Operations Appropriation Act, 1978, which is t
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 117–10, § 2(a)(1), (2), designated existing provisions as subsec. (a) and substituted “qualifying position if the aggregate gross pay from those positions does not exceed—” and pars. (1) and (2) for “position, each of which is either in the office of a Senator and the pay of which is disbursed by the Secretary of the Senate or is in another office and the pay of which is disbursed by the Secretary of the Senate out of an appropriation under the heading ‘Salaries, Officers, and Employees’, if the aggregate gross pay from those positions does not exceed the maximum rate specified in section 4575(d)(2) of this title.”
+2021—Subsec. (a). Pub. L. 117–10, § 2(a)(1), (2), designated existing provisions as subsec. (a) and substituted “qualifying position if the aggregate gross pay from those positions does not exceed—” and pars. (1) and (2) for “position, each of which is either in the office of a Senator and the pay of which is disbursed by the Secretary of the Senate or is in another office and the pay of which is disbursed by the Secretary of the Senate out of an appropriation under the heading ‘Salaries, Officers, and Employees’, if the aggregate gross pay from those positions does not exceed the maximum rate specified in section 4575(d)(2) of this title.”
 
-Subsecs. (b) to (d). Pub. L. 117–10, § 2(a)(3), added subsecs. (b) to (d).
+Subsecs. (b) to (d). Pub. L. 117–10, § 2(a)(3), added subsecs. (b) to (d).
 
 1987—Pub. L. 100–202 amended section generally. Prior to amendment, section read as follows: “Notwithstanding any other provision of law, appropriated funds are available for payment to an individual of pay from more than one position, the pay for each of which is disbursed by the Secretary of the Senate out of an appropriation under the heading ‘Salaries, Officers and Employees’, if the aggregate gross pay from those positions does not exceed the amount specified in section 61–1(d)(2)(ii) of this title.”
 
@@ -3217,13 +3217,13 @@ Subsecs. (b) to (d). Pub. L. 117–10, § 2(a)(3), added subsecs. (b) to (d).
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 117–10, § 2(b), Apr. 23, 2021, 135 Stat. 261, provided that: “The amendments made by subsection (a) [amending this section] shall take effect beginning on the day that is 6 months after the date of enactment of this Act [Apr. 23, 2021].”
+Pub. L. 117–10, § 2(b), Apr. 23, 2021, 135 Stat. 261, provided that: “The amendments made by subsection (a) [amending this section] shall take effect beginning on the day that is 6 months after the date of enactment of this Act [Apr. 23, 2021].”
 
-#### § 4577. Availability of appropriations during first three months of any fiscal year for aggregate of payments of gross compensation made to employees from Senate appropriation account for “Salaries, Officers and Employees”
+#### § 4577. Availability of appropriations during first three months of any fiscal year for aggregate of payments of gross compensation made to employees from Senate appropriation account for “Salaries, Officers and Employees”
 
 At no time during the first three months of any fiscal year (commencing with the fiscal year which begins October 1, 1984) shall the aggregate of payments of gross compensation made to employees out of any line item appropriation within the Senate appropriation account for “Salaries, Officers and Employees” (other than the line item appropriations, within such account for “Administrative, clerical, and legislative assistance to Senators” and for “Agency contributions”) exceed twenty-five per centum of the total amount available for such line item appropriations for such fiscal year.
 
-(Pub. L. 98–367, title I, § 4, July 17, 1984, 98 Stat. 475.)
+(Pub. L. 98–367, title I, § 4, July 17, 1984, 98 Stat. 475.)
 
 **Editorial Notes**
 
@@ -3233,7 +3233,7 @@ Section was formerly classified to section 61–1b of this title prior to editor
 
 Section is from the Congressional Operations Appropriation Act, 1985, which is title I of the Legislative Branch Appropriations Act, 1985.
 
-#### § 4578. Restriction on payment of dual compensation by Secretary of Senate
+#### § 4578. Restriction on payment of dual compensation by Secretary of Senate
 
 Unless otherwise specifically authorized by law, no part of any appropriation disbursed by the Secretary of the Senate shall be available for payment of compensation to any person holding any position, for any period for which such person received compensation for holding any other position, the compensation for which is disbursed by the Secretary of the Senate.
 
@@ -3245,7 +3245,7 @@ Unless otherwise specifically authorized by law, no part of any appropriation di
 
 Section was formerly classified to section 66a of this title prior to editorial reclassification and renumbering as this section.
 
-#### § 4579. Student loan repayment program for Senate employees
+#### § 4579. Student loan repayment program for Senate employees
 
 **(a) Definitions** In this section:
 
@@ -3515,15 +3515,15 @@ Amounts provided under this section shall be subject to annual appropriations.
 
 This section shall apply to fiscal year 2002 and each fiscal year thereafter.
 
-(Pub. L. 107–68, title I, § 102, Nov. 12, 2001, 115 Stat. 563; Pub. L. 107–117, div. B, § 916, Jan. 10, 2002, 115 Stat. 2324; Pub. L. 112–74, div. G, title I, § 1001(a), (b), Dec. 23, 2011, 125 Stat. 1124; Pub. L. 115–141, div. I, title I, § 103(a), Mar. 23, 2018, 132 Stat. 772; Pub. L. 116–260, div. I, title I, § 105(a), Dec. 27, 2020, 134 Stat. 1632.)
+(Pub. L. 107–68, title I, § 102, Nov. 12, 2001, 115 Stat. 563; Pub. L. 107–117, div. B, § 916, Jan. 10, 2002, 115 Stat. 2324; Pub. L. 112–74, div. G, title I, § 1001(a), (b), Dec. 23, 2011, 125 Stat. 1124; Pub. L. 115–141, div. I, title I, § 103(a), Mar. 23, 2018, 132 Stat. 772; Pub. L. 116–260, div. I, title I, § 105(a), Dec. 27, 2020, 134 Stat. 1632.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Higher Education Act of 1965, referred to in subsec. (a)(5)(A), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified to parts B (§ 1071 et seq.), D (§ 1087a et seq.), and E (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(5)(A), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified to parts B (§ 1071 et seq.), D (§ 1087a et seq.), and E (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Public Health Service Act, referred to in subsec. (a)(5)(B), is act July 1, 1944, ch. 373, 58 Stat. 682. Part A of title VII of the Act is classified generally to part A (§ 292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Part E of title VIII of the Act is classified generally to part E (§ 297a et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (a)(5)(B), is act July 1, 1944, ch. 373, 58 Stat. 682. Part A of title VII of the Act is classified generally to part A (§ 292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Part E of title VIII of the Act is classified generally to part E (§ 297a et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 Section 6568(c) of this title, referred to in subsec. (d)(4)(A), was in the original “section 104(c) of the Legislative Appropriation Act, 1977”, and was translated as reading “section 104(c) of the Legislative Branch Appropriation Act, 1977”, to reflect the probable intent of Congress.
 
@@ -3537,53 +3537,53 @@ Section is from the Congressional Operations Appropriations Act, 2002, which is 
 
 **Amendments**
 
-2020—Subsec. (c)(2)(A)(i). Pub. L. 116–260, § 105(a)(1)(A), substituted “$833” for “$500”.
+2020—Subsec. (c)(2)(A)(i). Pub. L. 116–260, § 105(a)(1)(A), substituted “$833” for “$500”.
 
-Subsec. (c)(2)(A)(ii). Pub. L. 116–260, § 105(a)(1)(B), substituted “$80,000” for “$40,000”.
+Subsec. (c)(2)(A)(ii). Pub. L. 116–260, § 105(a)(1)(B), substituted “$80,000” for “$40,000”.
 
-Subsec. (h)(1). Pub. L. 116–260, § 105(a)(2), substituted “2.5 percent” for “2 percent” in subpars. (A) and (B).
+Subsec. (h)(1). Pub. L. 116–260, § 105(a)(2), substituted “2.5 percent” for “2 percent” in subpars. (A) and (B).
 
-2018—Subsec. (a)(1), (2). Pub. L. 115–141, § 103(a)(1)(B), added pars. (1) and (2). Former pars. (1) and (2) redesignated (3) and (4), respectively.
+2018—Subsec. (a)(1), (2). Pub. L. 115–141, § 103(a)(1)(B), added pars. (1) and (2). Former pars. (1) and (2) redesignated (3) and (4), respectively.
 
-Subsec. (a)(3). Pub. L. 115–141, § 103(a)(1)(A), redesignated par. (1) as (3). Former par. (3) redesignated (5).
+Subsec. (a)(3). Pub. L. 115–141, § 103(a)(1)(A), redesignated par. (1) as (3). Former par. (3) redesignated (5).
 
-Subsec. (a)(3)(B). Pub. L. 115–141, § 103(a)(1)(C), substituted “rate of basic pay payable for a position at level IV of the Executive Schedule under section 5315 of title 5.” for “rate of basic pay for an employee for a position at ES–1 of the Senior Executive Schedule as provided for in subchapter VIII of chapter 53 of title 5 (including any locality pay adjustment applicable to the Washington, D.C.-Baltimore Maryland consolidated metropolitan statistical area).”
+Subsec. (a)(3)(B). Pub. L. 115–141, § 103(a)(1)(C), substituted “rate of basic pay payable for a position at level IV of the Executive Schedule under section 5315 of title 5.” for “rate of basic pay for an employee for a position at ES–1 of the Senior Executive Schedule as provided for in subchapter VIII of chapter 53 of title 5 (including any locality pay adjustment applicable to the Washington, D.C.-Baltimore Maryland consolidated metropolitan statistical area).”
 
-Subsec. (a)(4) to (7). Pub. L. 115–141, § 103(a)(1)(A), redesignated pars. (2) to (5) as (4) to (7), respectively.
+Subsec. (a)(4) to (7). Pub. L. 115–141, § 103(a)(1)(A), redesignated pars. (2) to (5) as (4) to (7), respectively.
 
-Subsec. (b)(1)(A)(ii). Pub. L. 115–141, § 103(a)(2), struck out “1-year” before “required period”.
+Subsec. (b)(1)(A)(ii). Pub. L. 115–141, § 103(a)(2), struck out “1-year” before “required period”.
 
-Subsec. (c)(1). Pub. L. 115–141, § 103(a)(3), designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), the term” for “The term”, and added subpar. (B).
+Subsec. (c)(1). Pub. L. 115–141, § 103(a)(3), designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), the term” for “The term”, and added subpar. (B).
 
-Subsec. (d)(2). Pub. L. 115–141, § 103(a)(4)(A), struck out “or” at end of subpar. (A), substituted a semicolon for “under subsection (f)(7).” at end of subpar. (B), and added subpars. (C) and (D).
+Subsec. (d)(2). Pub. L. 115–141, § 103(a)(4)(A), struck out “or” at end of subpar. (A), substituted a semicolon for “under subsection (f)(7).” at end of subpar. (B), and added subpars. (C) and (D).
 
-Subsec. (d)(3). Pub. L. 115–141, § 103(a)(4)(B), inserted “(including a required period of employment described in subsection (c)(1)(B))” after “required period of employment”.
+Subsec. (d)(3). Pub. L. 115–141, § 103(a)(4)(B), inserted “(including a required period of employment described in subsection (c)(1)(B))” after “required period of employment”.
 
-Subsec. (f)(7). Pub. L. 115–141, § 103(a)(5), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: “Notwithstanding the terms of a service agreement under this section, the head of an employing office may reduce the amount of student loan payments made under the agreement if adequate funds are not available to such office. If the head of the employing office decides to reduce the amount of student loan payments for an eligible employee, the head of the office and the employee may mutually agree to terminate the service agreement.”
+Subsec. (f)(7). Pub. L. 115–141, § 103(a)(5), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: “Notwithstanding the terms of a service agreement under this section, the head of an employing office may reduce the amount of student loan payments made under the agreement if adequate funds are not available to such office. If the head of the employing office decides to reduce the amount of student loan payments for an eligible employee, the head of the office and the employee may mutually agree to terminate the service agreement.”
 
-2011—Subsec. (a)(1). Pub. L. 112–74, § 1001(a)(1), inserted “, except as provided under subsection (b)(3)” after “means an individual” in introductory provisions.
+2011—Subsec. (a)(1). Pub. L. 112–74, § 1001(a)(1), inserted “, except as provided under subsection (b)(3)” after “means an individual” in introductory provisions.
 
-Subsec. (a)(2), (3). Pub. L. 112–74, § 1001(a)(2), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
+Subsec. (a)(2), (3). Pub. L. 112–74, § 1001(a)(2), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
 “(2) Employee of the senate.—The term ‘employee of the Senate’ has the meaning given the term in section 1301 of this title.
 
 “(3) Employing office.—The term ‘employing office’ means the employing office, as defined in section 1301 of this title, of an employee of the Senate.”
 
-Subsec. (b)(3). Pub. L. 112–74, § 1001(b), added par. (3).
+Subsec. (b)(3). Pub. L. 112–74, § 1001(b), added par. (3).
 
-2002—Subsec. (a). Pub. L. 107–117, § 916(1), redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out heading and text of former par. (1). Text read as follows: “The term ‘Committee’ means the Committee on Rules and Administration of the Senate.”
+2002—Subsec. (a). Pub. L. 107–117, § 916(1), redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out heading and text of former par. (1). Text read as follows: “The term ‘Committee’ means the Committee on Rules and Administration of the Senate.”
 
-Subsec. (g)(1). Pub. L. 107–117, § 916(2), substituted “subsection (h)(1)(A)” for “subsection (i)(1)(A)” in subpar. (A) and “subsection (h)(1)(B)” for “subsection (i)(1)(B)” in subpar. (B).
+Subsec. (g)(1). Pub. L. 107–117, § 916(2), substituted “subsection (h)(1)(A)” for “subsection (i)(1)(A)” in subpar. (A) and “subsection (h)(1)(B)” for “subsection (i)(1)(B)” in subpar. (B).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. I, title I, § 105(b), Dec. 27, 2020, 134 Stat. 1632, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on March 1, 2021.”
+Pub. L. 116–260, div. I, title I, § 105(b), Dec. 27, 2020, 134 Stat. 1632, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on March 1, 2021.”
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–141, div. I, title I, § 103(b), Mar. 23, 2018, 132 Stat. 774, provided that:
+Pub. L. 115–141, div. I, title I, § 103(b), Mar. 23, 2018, 132 Stat. 774, provided that:
 
 > “The amendments made by this section [amending this section] shall—
 
@@ -3593,9 +3593,9 @@ Pub. L. 115–141, div. I, title I, § 103(b), Mar. 23, 2018, 132 Stat. 774, p
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–74, div. G, title I, § 1001(c), Dec. 23, 2011, 125 Stat. 1124, provided that: “The amendments made by this section [amending this section] shall take effect on the date of enactment of this Act [Dec. 23, 2011] and apply to service agreements entered into under section 102 of the Legislative Branch Appropriations Act, 2002 (2 U.S.C. 60c–5) [now 2 U.S.C. 4579] or section 5379 of title 5, United States Code, on or after that date.”
+Pub. L. 112–74, div. G, title I, § 1001(c), Dec. 23, 2011, 125 Stat. 1124, provided that: “The amendments made by this section [amending this section] shall take effect on the date of enactment of this Act [Dec. 23, 2011] and apply to service agreements entered into under section 102 of the Legislative Branch Appropriations Act, 2002 (2 U.S.C. 60c–5) [now 2 U.S.C. 4579] or section 5379 of title 5, United States Code, on or after that date.”
 
-#### § 4580. Lump sum payment for accrued annual leave of Senate employees
+#### § 4580. Lump sum payment for accrued annual leave of Senate employees
 
 **(a) Authorization** The head of the employing office of an employee of the Senate may, upon termination of employment of the employee, authorize payment of a lump sum for the accrued annual leave of that employee if—
 
@@ -3635,7 +3635,7 @@ The Committee on Rules and Administration of the Senate may prescribe regulation
 
 **(2)** “head of the employing office” means any person with the final authority to appoint, hire, discharge, and set the terms, conditions, or privileges of the employment of an individual whose pay is disbursed by the Secretary of the Senate.
 
-(Pub. L. 106–554, § 1(a)(2) [title I, § 6], Dec. 21, 2000, 114 Stat. 2763, 2763A–97.)
+(Pub. L. 106–554, § 1(a)(2) [title I, § 6], Dec. 21, 2000, 114 Stat. 2763, 2763A–97.)
 
 **Editorial Notes**
 
@@ -3645,13 +3645,13 @@ Section was formerly classified as a note under section 60*o* of this title prio
 
 Section is from the Congressional Operations Appropriations Act, 2001, which is title I of the Legislative Branch Appropriations Act, 2001.
 
-#### § 4581. Aggregate gross compensation of employee of Senator of State with population under 5,000,000
+#### § 4581. Aggregate gross compensation of employee of Senator of State with population under 5,000,000
 
 **(a)** Notwithstanding the provisions of section 4575(d)(1) of this title, and except as otherwise provided in subparagraph (C) of such subsection (d)(1), the aggregate of gross compensation paid employees in the office of a Senator shall not exceed during each fiscal year $1,012,083 if the population of his State is less than 5,000,000.
 
 **(b)** Subsection (a) shall take effect October 1, 1991.
 
-(Pub. L. 102–90, title I, § 5, Aug. 14, 1991, 105 Stat. 450.)
+(Pub. L. 102–90, title I, § 5, Aug. 14, 1991, 105 Stat. 450.)
 
 **Editorial Notes**
 
@@ -3663,11 +3663,11 @@ Section is from the Congressional Operations Appropriations Act, 1992, which is 
 
 ### Part B—Administration
 
-#### § 4591. Vice President, Senators, officers, and employees paid by Secretary of Senate; payment of salary; advance payment
+#### § 4591. Vice President, Senators, officers, and employees paid by Secretary of Senate; payment of salary; advance payment
 
 The compensation of the Vice President, Senators, and officers and employees, whose compensation is disbursed by the Secretary of the Senate, shall be payable on the fifth day of the month following the month in which such compensation accrued, except that—
 
-**(1)** Repealed. Pub. L. 97–51, § 111(a)(1), Oct. 1, 1981, 95 Stat. 962;
+**(1)** Repealed. Pub. L. 97–51, § 111(a)(1), Oct. 1, 1981, 95 Stat. 962;
 
 **(2)** when such fifth or twentieth day falls on Saturday, Sunday, or on a legal holiday (including any holiday on which the banks of the District of Columbia are closed pursuant to law), such compensation shall be payable on the next preceding workday; and
 
@@ -3675,7 +3675,7 @@ The compensation of the Vice President, Senators, and officers and employees, wh
 
 For purposes of title 26 and for accounting and reporting purposes, disbursements made in accordance with this section on the fifth day of a month, or on the next preceding workday if such fifth day falls on Saturday, Sunday, or a legal holiday, shall be considered to have been made on the last day of the preceding month.
 
-(Pub. L. 86–426, § 1, Apr. 20, 1960, 74 Stat. 53; Pub. L. 92–136, § 6, Oct. 11, 1971, 85 Stat. 378; Pub. L. 96–38, title I, § 108(a), July 25, 1979, 93 Stat. 113; Pub. L. 97–51, §§ 111(a), 112(a), Oct. 1, 1981, 95 Stat. 962; Pub. L. 97–257, title I, § 105(a), Sept. 10, 1982, 96 Stat. 849; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 86–426, § 1, Apr. 20, 1960, 74 Stat. 53; Pub. L. 92–136, § 6, Oct. 11, 1971, 85 Stat. 378; Pub. L. 96–38, title I, § 108(a), July 25, 1979, 93 Stat. 113; Pub. L. 97–51, §§ 111(a), 112(a), Oct. 1, 1981, 95 Stat. 962; Pub. L. 97–257, title I, § 105(a), Sept. 10, 1982, 96 Stat. 849; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
 
 **Editorial Notes**
 
@@ -3699,43 +3699,43 @@ Section was formerly classified to section 60c–1 of this title prior to editor
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–257, title I, § 105(c), Sept. 10, 1982, 96 Stat. 849, provided that: “Amendments and repeals made by the preceding provisions of this section [amending this section and section 104 of Title 3, The President] shall be effective in the case of compensation payable for months after December 1981.”
+Pub. L. 97–257, title I, § 105(c), Sept. 10, 1982, 96 Stat. 849, provided that: “Amendments and repeals made by the preceding provisions of this section [amending this section and section 104 of Title 3, The President] shall be effective in the case of compensation payable for months after December 1981.”
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–51, § 111(b), Oct. 1, 1981, 95 Stat. 962, provided that: “The amendments made by subsection (a) [amending this section] shall be effective in the case of compensation payable for months after December 1982.”
+Pub. L. 97–51, § 111(b), Oct. 1, 1981, 95 Stat. 962, provided that: “The amendments made by subsection (a) [amending this section] shall be effective in the case of compensation payable for months after December 1982.”
 
 Amendment by section 112(a) of Pub. L. 97–51 effective in the case of compensation payable for months after December 1981, see section 112(e) of Pub. L. 97–51, set out as an Effective Date of 1981 Amendment note under section 6301 of this title.
 
 **Effective Date of 1979 Amendment**
 
-Pub. L. 96–38, title I, § 108(b), July 25, 1979, 93 Stat. 113, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1978.”
+Pub. L. 96–38, title I, § 108(b), July 25, 1979, 93 Stat. 113, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1978.”
 
 **Effective Date of 1971 Amendment**
 
-Pub. L. 92–136, § 9(b), Oct. 11, 1971, 85 Stat. 378, provided that: “Sections 4 and 6 of this Act [enacting former section 60c–2 of this title and amending this section] shall become effective as of July 1, 1971.”
+Pub. L. 92–136, § 9(b), Oct. 11, 1971, 85 Stat. 378, provided that: “Sections 4 and 6 of this Act [enacting former section 60c–2 of this title and amending this section] shall become effective as of July 1, 1971.”
 
 **Effective Date**
 
-Pub. L. 86–426, § 3, Apr. 20, 1960, 74 Stat. 54, provided that: “This joint resolution [enacting this section and amending former sections 60d, 60e, and 60e–1 of this title] shall be effective with respect to compensation accruing on or after the first day of the month following the month in which it is enacted [Apr. 1, 1960].”
+Pub. L. 86–426, § 3, Apr. 20, 1960, 74 Stat. 54, provided that: “This joint resolution [enacting this section and amending former sections 60d, 60e, and 60e–1 of this title] shall be effective with respect to compensation accruing on or after the first day of the month following the month in which it is enacted [Apr. 1, 1960].”
 
-#### § 4592. Payment of sums due deceased Senators and Senate personnel
+#### § 4592. Payment of sums due deceased Senators and Senate personnel
 
 Under regulations prescribed by the Secretary of the Senate, a person serving as a Senator or officer or employee whose compensation is disbursed by the Secretary of the Senate may designate a beneficiary or beneficiaries to be paid any unpaid balance of salary or other sums due such person at the time of his death. When any person dies while so serving, any such unpaid balance shall be paid by the disbursing officer of the Senate to the designated beneficiary or beneficiaries. If no designation has been made, such unpaid balance shall be paid to the widow or widower of that person, or if there is no widow or widower, to the next of kin or heirs at law of that person.
 
-Section 50 of the Revised Statutes 1
+Section 50 of the Revised Statutes 1
 
 <sup>1</sup> See References in Text note below.
 
 shall not be effective as to persons included within the foregoing.
 
-(Jan. 6, 1951, ch. 1213, Ch. I, § 1, 64 Stat. 1224; Pub. L. 92–607, ch. V, § 503, Oct. 31, 1972, 86 Stat. 1505.)
+(Jan. 6, 1951, ch. 1213, Ch. I, § 1, 64 Stat. 1224; Pub. L. 92–607, ch. V, § 503, Oct. 31, 1972, 86 Stat. 1505.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 50 of the Revised Statutes, referred to in text, was classified to section 38 of this title and was repealed by Pub. L. 104–186, title II, § 203(4), Aug. 20, 1996, 110 Stat. 1725. See section 5305 of this title.
+Section 50 of the Revised Statutes, referred to in text, was classified to section 38 of this title and was repealed by Pub. L. 104–186, title II, § 203(4), Aug. 20, 1996, 110 Stat. 1725. See section 5305 of this title.
 
 **Codification**
 
@@ -3745,7 +3745,7 @@ Section was formerly classified to section 36a of this title prior to editorial 
 
 1972—Pub. L. 92–607 inserted provisions for designation of a beneficiary by Senators and officers and employees whose compensation is disbursed by Secretary of Senate to whom shall be paid any unpaid balance of salary or other sums due such person at time of death.
 
-#### § 4593. Waiver by Secretary of Senate of claims of United States arising out of erroneous payments to Vice President, Senator, or Senate employee paid by Secretary of Senate
+#### § 4593. Waiver by Secretary of Senate of claims of United States arising out of erroneous payments to Vice President, Senator, or Senate employee paid by Secretary of Senate
 
 **(a) Waiver of claim for erroneous payment of pay or allowances**
 
@@ -3773,7 +3773,7 @@ This section does not affect any authority under any other law to litigate, sett
 
 The Secretary of the Senate shall promulgate rules and regulations to carry out the provisions of this section.
 
-(Pub. L. 93–359, § 2, July 25, 1974, 88 Stat. 394; Pub. L. 103–69, title III, § 315, Aug. 11, 1993, 107 Stat. 713; Pub. L. 104–316, title I, § 102(b), Oct. 19, 1996, 110 Stat. 3828.)
+(Pub. L. 93–359, § 2, July 25, 1974, 88 Stat. 394; Pub. L. 103–69, title III, § 315, Aug. 11, 1993, 107 Stat. 713; Pub. L. 104–316, title I, § 102(b), Oct. 19, 1996, 110 Stat. 3828.)
 
 **Editorial Notes**
 
@@ -3783,7 +3783,7 @@ Section was formerly classified to section 130c of this title prior to editorial
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–316 in first sentence struck out “, if the claim is not the subject of an exception made by the Comptroller General in the account of any accountable officer or official” after “in part by the Secretary of the Senate”, and in third sentence substituted “$1,500 may also” for “$1,500 shall also”.
+1996—Subsec. (a). Pub. L. 104–316 in first sentence struck out “, if the claim is not the subject of an exception made by the Comptroller General in the account of any accountable officer or official” after “in part by the Secretary of the Senate”, and in third sentence substituted “$1,500 may also” for “$1,500 shall also”.
 
 1993—Subsec. (a). Pub. L. 103–69 substituted “$1,500” for “$500”.
 
@@ -3791,13 +3791,13 @@ Section was formerly classified to section 130c of this title prior to editorial
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–316, title I, § 101(e), Oct. 19, 1996, 110 Stat. 3827, provided that:
+Pub. L. 104–316, title I, § 101(e), Oct. 19, 1996, 110 Stat. 3827, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), this title [see Tables for classification] shall take effect on the date of enactment of this Act [Oct. 19, 1996].
 
 > **“(2) Exceptions.—** Sections 103(d), 105(b), and 116 [amending section 5584 of Title 5, Government Organization and Employees, section 2774 of Title 10, Armed Forces, and section 716 of Title 32, National Guard] shall take effect 60 days after the date of enactment of this Act.”
 
-#### § 4594. Withholding and remittance of State income tax by Secretary of Senate
+#### § 4594. Withholding and remittance of State income tax by Secretary of Senate
 
 **(a) Agreement by Secretary with appropriate State official; covered individuals** Whenever—
 
@@ -3841,7 +3841,7 @@ This section imposes no duty, burden, or requirement upon the United States, the
 
 For the purposes of this section, “State” means any of the States of the United States and the District of Columbia.
 
-(Pub. L. 93–371, § 2, Aug. 13, 1974, 88 Stat. 427.)
+(Pub. L. 93–371, § 2, Aug. 13, 1974, 88 Stat. 427.)
 
 **Editorial Notes**
 
@@ -3853,13 +3853,13 @@ The Standing Rules of the Senate, referred to in subsec. (e), were revised in 19
 
 Section was formerly classified to section 60c–3 of this title prior to editorial reclassification and renumbering as this section.
 
-#### § 4595. Payment for unaccrued leave
+#### § 4595. Payment for unaccrued leave
 
 **(a) In general**
 
-The Financial Clerk of the Senate is authorized to accept from an individual whose pay is disbursed by the Secretary of 1
+The Financial Clerk of the Senate is authorized to accept from an individual whose pay is disbursed by the Secretary of 1
 
-<sup>1</sup>  So in original. Probably should be followed by “the”.
+<sup>1</sup> So in original. Probably should be followed by “the”.
 
 Senate a payment representing pay for any period of unaccrued annual leave used by that individual, as certified by the head of the employing office of the individual making the payment.
 
@@ -3879,7 +3879,7 @@ As used in this section, the term “head of the employing office” means any p
 
 This section shall apply to fiscal year 1996 and each fiscal year thereafter.
 
-(Pub. L. 104–197, title I, § 9, Sept. 16, 1996, 110 Stat. 2398.)
+(Pub. L. 104–197, title I, § 9, Sept. 16, 1996, 110 Stat. 2398.)
 
 **Editorial Notes**
 

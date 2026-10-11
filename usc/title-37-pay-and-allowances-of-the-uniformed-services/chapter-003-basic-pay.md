@@ -19,35 +19,35 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title VI, § 601(b)(4)(A), Dec. 18, 2025, 139 Stat. 902, inserted “; members of the Space Force” after “members of National Guard” in item 206. Amendment was made pursuant to operation of section 102 of Title 10, Armed Forces.
+2025—Pub. L. 119–60, div. A, title VI, § 601(b)(4)(A), Dec. 18, 2025, 139 Stat. 902, inserted “; members of the Space Force” after “members of National Guard” in item 206. Amendment was made pursuant to operation of section 102 of Title 10, Armed Forces.
 
-2023—Pub. L. 118–31, div. A, title VI, § 602(b), Dec. 22, 2023, 137 Stat. 289, added item 206a.
+2023—Pub. L. 118–31, div. A, title VI, § 602(b), Dec. 22, 2023, 137 Stat. 289, added item 206a.
 
-2004—Pub. L. 108–375, div. A, title VI, § 606(b), Oct. 28, 2004, 118 Stat. 1946, added item 212.
+2004—Pub. L. 108–375, div. A, title VI, § 606(b), Oct. 28, 2004, 118 Stat. 1946, added item 212.
 
-1999—Pub. L. 106–65, div. A, title VI, § 661(a)(1)(B), Oct. 5, 1999, 113 Stat. 670, added item 211.
+1999—Pub. L. 106–65, div. A, title VI, § 661(a)(1)(B), Oct. 5, 1999, 113 Stat. 670, added item 211.
 
-1996—Pub. L. 104–201, div. A, title VI, § 603(b)(2), Sept. 23, 1996, 110 Stat. 2540, substituted “Pay of senior enlisted members during terminal leave and while hospitalized” for “Pay of the senior noncommissioned officer of an armed force during terminal leave” in item 210.
+1996—Pub. L. 104–201, div. A, title VI, § 603(b)(2), Sept. 23, 1996, 110 Stat. 2540, substituted “Pay of senior enlisted members during terminal leave and while hospitalized” for “Pay of the senior noncommissioned officer of an armed force during terminal leave” in item 210.
 
-1991—Pub. L. 102–190, div. A, title VI, § 606(b), Dec. 5, 1991, 105 Stat. 1375, added item 210.
+1991—Pub. L. 102–190, div. A, title VI, § 606(b), Dec. 5, 1991, 105 Stat. 1375, added item 210.
 
-1990—Pub. L. 101–510, div. A, title XIV, § 1484(f)(1), Nov. 5, 1990, 104 Stat. 1717, revised chapter heading so as to appear in all capital letters.
+1990—Pub. L. 101–510, div. A, title XIV, § 1484(f)(1), Nov. 5, 1990, 104 Stat. 1717, revised chapter heading so as to appear in all capital letters.
 
-1985—Pub. L. 99–145, title V, § 514(d)(2)(C), Nov. 8, 1985, 99 Stat. 629, substituted “Pay grades: retired Coast Guard rear admirals (lower half)” for “Pay grade: retired Coast Guard commodores” in item 202.
+1985—Pub. L. 99–145, title V, § 514(d)(2)(C), Nov. 8, 1985, 99 Stat. 629, substituted “Pay grades: retired Coast Guard rear admirals (lower half)” for “Pay grade: retired Coast Guard commodores” in item 202.
 
-1984—Pub. L. 98–557, § 25(b)(2)(B), Oct. 30, 1984, 98 Stat. 2872, substituted “Pay grade: retired Coast Guard commodores” for “Pay grades; commodores, retired list” in item 202.
+1984—Pub. L. 98–557, § 25(b)(2)(B), Oct. 30, 1984, 98 Stat. 2872, substituted “Pay grade: retired Coast Guard commodores” for “Pay grades; commodores, retired list” in item 202.
 
-1983—Pub. L. 97–417, § 3(b), Jan. 4, 1983, 96 Stat. 2087, substituted “Pay grades; commodores, retired list” for “Pay grades: assignment to; rear admirals (upper half) of the Coast Guard” in item 202.
+1983—Pub. L. 97–417, § 3(b), Jan. 4, 1983, 96 Stat. 2087, substituted “Pay grades; commodores, retired list” for “Pay grades: assignment to; rear admirals (upper half) of the Coast Guard” in item 202.
 
-1980—Pub. L. 96–513, title V, § 506(2), Dec. 12, 1980, 94 Stat. 2918, substituted “rear admirals (upper half) of the Coast Guard” for “rear admirals of upper half; officers holding certain positions in the Navy” in item 202.
+1980—Pub. L. 96–513, title V, § 506(2), Dec. 12, 1980, 94 Stat. 2918, substituted “rear admirals (upper half) of the Coast Guard” for “rear admirals of upper half; officers holding certain positions in the Navy” in item 202.
 
-1977—Pub. L. 95–79, title III, § 302(a)(3)(C), July 30, 1977, 91 Stat. 326, substituted “precommissioning programs” for “Senior Reserve Officers’ Training Corps” in item 209.
+1977—Pub. L. 95–79, title III, § 302(a)(3)(C), July 30, 1977, 91 Stat. 326, substituted “precommissioning programs” for “Senior Reserve Officers’ Training Corps” in item 209.
 
-1970—Pub. L. 91–482, § 2F, Oct. 21, 1970, 84 Stat. 1082, struck out item 208 “Furlough pay: officers of Regular Navy or Regular Marine Corps”.
+1970—Pub. L. 91–482, § 2F, Oct. 21, 1970, 84 Stat. 1082, struck out item 208 “Furlough pay: officers of Regular Navy or Regular Marine Corps”.
 
-1964—Pub. L. 88–647, title II, § 202(5), Oct. 13, 1964, 78 Stat. 1071, substituted “Senior Reserve Officers’ Training Corps” for “naval officer candidate programs” in item 209.
+1964—Pub. L. 88–647, title II, § 202(5), Oct. 13, 1964, 78 Stat. 1071, substituted “Senior Reserve Officers’ Training Corps” for “naval officer candidate programs” in item 209.
 
-## § 201. Pay grades: assignment to; general rules
+## § 201. Pay grades: assignment to; general rules
 
 **(a)** For the purpose of computing their basic pay, commissioned officers of the uniformed services (other than commissioned warrant officers) are assigned by the grade or rank in which serving to the following pay grades:
 
@@ -80,19 +80,19 @@ retrieved: 2026-10-11
 
 **(e)** Except as provided by subsections (c) and (d), enlisted members of the uniformed services shall, for the purpose of computing their basic pay, be distributed by the Secretary concerned in the various enlisted pay grades set forth in section 203 of this title. However, except as provided by section 307 of this title, an enlisted member may not be placed in pay grade E–8 or E–9 until he has completed at least 8 years or 10 years, respectively, of enlisted service computed under section 205 of this title.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 453; Pub. L. 88–132, § 3(a), Oct. 2, 1963, 77 Stat. 212; Pub. L. 89–718, § 49(a)(1), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 91–278, § 3(1), June 12, 1970, 84 Stat. 306; Pub. L. 95–79, title III, § 302(a)(1), July 30, 1977, 91 Stat. 326; Pub. L. 96–76, title III, § 313(a), Sept. 29, 1979, 93 Stat. 586; Pub. L. 96–513, title V, §§ 506(3), 516(2), Dec. 12, 1980, 94 Stat. 2918, 2937; Pub. L. 97–86, title IV, § 405(c), Dec. 1, 1981, 95 Stat. 1106; Pub. L. 98–94, title IX, § 932(d), Sept. 24, 1983, 97 Stat. 650; Pub. L. 98–557, § 25(b)(1), Oct. 30, 1984, 98 Stat. 2872; Pub. L. 99–145, title V, § 514(d)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 101–502, § 5(k)(2), Nov. 3, 1990, 104 Stat. 1289; Pub. L. 102–25, title VII, § 701(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, § 605, title XI, § 1111(b), Dec. 5, 1991, 105 Stat. 1374, 1491; Pub. L. 109–163, div. A, title V, § 515(d)(1)(B), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 116–283, div. A, title IX, § 925(c), Jan. 1, 2021, 134 Stat. 3827; Pub. L. 119–60, div. A, title VI, § 601(b)(1), Dec. 18, 2025, 139 Stat. 901.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 453; Pub. L. 88–132, § 3(a), Oct. 2, 1963, 77 Stat. 212; Pub. L. 89–718, § 49(a)(1), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 91–278, § 3(1), June 12, 1970, 84 Stat. 306; Pub. L. 95–79, title III, § 302(a)(1), July 30, 1977, 91 Stat. 326; Pub. L. 96–76, title III, § 313(a), Sept. 29, 1979, 93 Stat. 586; Pub. L. 96–513, title V, §§ 506(3), 516(2), Dec. 12, 1980, 94 Stat. 2918, 2937; Pub. L. 97–86, title IV, § 405(c), Dec. 1, 1981, 95 Stat. 1106; Pub. L. 98–94, title IX, § 932(d), Sept. 24, 1983, 97 Stat. 650; Pub. L. 98–557, § 25(b)(1), Oct. 30, 1984, 98 Stat. 2872; Pub. L. 99–145, title V, § 514(d)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 101–502, § 5(k)(2), Nov. 3, 1990, 104 Stat. 1289; Pub. L. 102–25, title VII, § 701(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, § 605, title XI, § 1111(b), Dec. 5, 1991, 105 Stat. 1374, 1491; Pub. L. 109–163, div. A, title V, § 515(d)(1)(B), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 116–283, div. A, title IX, § 925(c), Jan. 1, 2021, 134 Stat. 3827; Pub. L. 119–60, div. A, title VI, § 601(b)(1), Dec. 18, 2025, 139 Stat. 901.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 201(a) | 37:232(b). | Oct. 12, 1949, ch. 681, § 201(b); restated May 20, 1958, Pub. L. 85–422, § 1(2), 72 Stat. 124. |
-| 201(b) | 37:304 (as applicable to basic pay). | Oct. 12, 1949, ch. 681, § 504 (as applicable to basic pay), 63 Stat. 827. |
-| 201(c) | 37:308 (as applicable to pay). | Oct. 12, 1949, ch. 681, § 508 (as applicable to pay), 63 Stat. 828; May 19, 1952, ch. 310, § 1(e), 66 Stat. 80; Mar. 31, 1955, ch. 20, § 2(14), 69 Stat. 22. |
+| 201(a) | 37:232(b). | Oct. 12, 1949, ch. 681, § 201(b); restated May 20, 1958, Pub. L. 85–422, § 1(2), 72 Stat. 124. |
+| 201(b) | 37:304 (as applicable to basic pay). | Oct. 12, 1949, ch. 681, § 504 (as applicable to basic pay), 63 Stat. 827. |
+| 201(c) | 37:308 (as applicable to pay). | Oct. 12, 1949, ch. 681, § 508 (as applicable to pay), 63 Stat. 828; May 19, 1952, ch. 310, § 1(e), 66 Stat. 80; Mar. 31, 1955, ch. 20, § 2(14), 69 Stat. 22. |
 | 201(d) | 10:555(a) (as applicable to pay grades). | [None.] |
-| 201(e) | 37:232(e). | Oct. 12, 1949, ch. 681, § 201(e); added Mar. 31, 1955, ch. 20, § 2(3), 69 Stat. 19. |
+| 201(e) | 37:232(e). | Oct. 12, 1949, ch. 681, § 201(e); added Mar. 31, 1955, ch. 20, § 2(3), 69 Stat. 19. |
 | 201(f) | 10:6915(f). 14:758a(f). | [None.] [None.] |
-| 201(g) | 37:232(c) (less last sentence). | Oct. 12, 1949, ch. 681, § 201(c) (less last sentence), 63 Stat. 807; redesignated as “(c)” by Mar. 31, 1955, ch. 20, § 2(2), 69 Stat. 19; May 20, 1958, Pub. L. 85–422, § 1(3) (first sentence), 72 Stat. 124. |
+| 201(g) | 37:232(c) (less last sentence). | Oct. 12, 1949, ch. 681, § 201(c) (less last sentence), 63 Stat. 807; redesignated as “(c)” by Mar. 31, 1955, ch. 20, § 2(2), 69 Stat. 19; May 20, 1958, Pub. L. 85–422, § 1(3) (first sentence), 72 Stat. 124. |
 
 In subsection (a), the words “whether under temporary or permanent appointment” are omitted as surplusage. The words “the following pay grades” are substituted for the words “the various pay grades prescribed for commissioned officers by subsection (a) of this section, as follows”. The words “(other than a commissioned warrant officer)” are inserted to conform to the definition of “warrant officer” in section 101(13) of this revised title.
 
@@ -116,9 +116,9 @@ In subsection (g), the words “Except as provided by subsections (e) and (f)”
 
 2006—Subsec. (d). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
-1991—Subsec. (b). Pub. L. 102–190, § 1111(b), amended table generally, adding provisions relating to Chief Warrant Officer at grade W–5.
+1991—Subsec. (b). Pub. L. 102–190, § 1111(b), amended table generally, adding provisions relating to Chief Warrant Officer at grade W–5.
 
-Subsec. (c). Pub. L. 102–190, § 605, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “An aviation cadet of the Navy, Air Force, Marine Corps, or Coast Guard is entitled to monthly basic pay at the rate of 50 percent of the basic pay of a commissioned officer in pay grade O–1 with two or less years of service computed under section 205 of this title.”
+Subsec. (c). Pub. L. 102–190, § 605, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “An aviation cadet of the Navy, Air Force, Marine Corps, or Coast Guard is entitled to monthly basic pay at the rate of 50 percent of the basic pay of a commissioned officer in pay grade O–1 with two or less years of service computed under section 205 of this title.”
 
 Subsec. (e). Pub. L. 102–25 struck out “of this section” after “subsections (c) and (d)”.
 
@@ -132,9 +132,9 @@ Subsec. (e). Pub. L. 102–25 struck out “of this section” after “subsecti
 
 1981—Subsec. (a). Pub. L. 97–86 substituted “Commodore” for “Commodore admiral” in third column of table in pay grade O–7.
 
-1980—Subsec. (a). Pub. L. 96–513, § 506(3), substituted in heading of third column of table “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration” and in third column “Rear admiral (Navy) and Rear admiral (upper half) (Coast Guard and National Oceanic and Atmospheric Administration)” for “Rear admiral (upper half)” and “Commodore admiral (Navy) and Rear admiral (lower half) and commodore (Coast Guard and National Oceanic and Atmospheric Administration)” for “Rear admiral (lower half) and commodore”.
+1980—Subsec. (a). Pub. L. 96–513, § 506(3), substituted in heading of third column of table “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration” and in third column “Rear admiral (Navy) and Rear admiral (upper half) (Coast Guard and National Oceanic and Atmospheric Administration)” for “Rear admiral (upper half)” and “Commodore admiral (Navy) and Rear admiral (lower half) and commodore (Coast Guard and National Oceanic and Atmospheric Administration)” for “Rear admiral (lower half) and commodore”.
 
-Subsec. (f). Pub. L. 96–513, § 516(2), substituted “subsection (d)” for “subsection (f)”.
+Subsec. (f). Pub. L. 96–513, § 516(2), substituted “subsection (d)” for “subsection (f)”.
 
 1979—Subsec. (a). Pub. L. 96–76 transferred the Surgeon General from pay grade O–8 to pay grade O–9 in fourth column of table.
 
@@ -154,7 +154,7 @@ Amendment by section 1111(b) of Pub. L. 102–190 effective Feb. 1, 1992, see se
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–502, § 5(k)(3), Nov. 3, 1990, 104 Stat. 1289, provided that: “The amendments made by paragraphs (1) and (2) [amending this section and section 207 of Title 42, The Public Health and Welfare] shall take effect on the first day of the month immediately following the month in which this Act was enacted [November 1990].”
+Pub. L. 101–502, § 5(k)(3), Nov. 3, 1990, 104 Stat. 1289, provided that: “The amendments made by paragraphs (1) and (2) [amending this section and section 207 of Title 42, The Public Health and Welfare] shall take effect on the first day of the month immediately following the month in which this Act was enacted [November 1990].”
 
 **Effective Date of 1983 Amendment**
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 96–76 effective Oct. 1, 1979, see section 314 of Pub. L. 
 
 **Effective Date of 1963 Amendment**
 
-Pub. L. 88–132, § 14, Oct. 2, 1963, 77 Stat. 218, provided that: “This Act [see Short Title of 1963 Amendment note set out under section 101 of this title] becomes effective on October 1, 1963.”
+Pub. L. 88–132, § 14, Oct. 2, 1963, 77 Stat. 218, provided that: “This Act [see Short Title of 1963 Amendment note set out under section 101 of this title] becomes effective on October 1, 1963.”
 
 **Transfer of Functions**
 
@@ -186,11 +186,11 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service, transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out in the Appendix to Title 5, Government Organization and Employees. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 3508(b) of Title 20, Education.
 
-## § 202. Pay grades: retired Coast Guard rear admirals (lower half)
+## § 202. Pay grades: retired Coast Guard rear admirals (lower half)
 
 An officer of the Coast Guard holding a permanent appointment in the grade of rear admiral (lower half) on the retired list, and who in time of war or national emergency has served satisfactorily on active duty for two years in that grade or in a higher grade, is entitled when on active duty to the basic pay of a rear admiral.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 454; Pub. L. 89–718, § 50, Nov. 2, 1966, 80 Stat. 1121; Pub. L. 90–130, § 3(1), Nov. 8, 1967, 81 Stat. 383; Pub. L. 90–179, § 7, Dec. 8, 1967, 81 Stat. 548; Pub. L. 90–623, § 3(2), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–451, § 2, Oct. 2, 1972, 86 Stat. 757; Pub. L. 96–342, title X, § 1004(a), Sept. 8, 1980, 94 Stat. 1120; Pub. L. 96–513, title IV, § 401, Dec. 12, 1980, 94 Stat. 2904; Pub. L. 97–417, § 3(a), Jan. 4, 1983, 96 Stat. 2087; Pub. L. 98–557, § 25(b)(2)(A), Oct. 30, 1984, 98 Stat. 2872; Pub. L. 99–145, title V, § 514(d)(2)(A), (B), Nov. 8, 1985, 99 Stat. 629.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 454; Pub. L. 89–718, § 50, Nov. 2, 1966, 80 Stat. 1121; Pub. L. 90–130, § 3(1), Nov. 8, 1967, 81 Stat. 383; Pub. L. 90–179, § 7, Dec. 8, 1967, 81 Stat. 548; Pub. L. 90–623, § 3(2), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 92–451, § 2, Oct. 2, 1972, 86 Stat. 757; Pub. L. 96–342, title X, § 1004(a), Sept. 8, 1980, 94 Stat. 1120; Pub. L. 96–513, title IV, § 401, Dec. 12, 1980, 94 Stat. 2904; Pub. L. 97–417, § 3(a), Jan. 4, 1983, 96 Stat. 2087; Pub. L. 98–557, § 25(b)(2)(A), Oct. 30, 1984, 98 Stat. 2872; Pub. L. 99–145, title V, § 514(d)(2)(A), (B), Nov. 8, 1985, 99 Stat. 629.)
 
 **Historical and Revision Notes**
 
@@ -237,51 +237,51 @@ In subsection (i), the last 12 words of section 5145(c) of title 10 are omitted 
 
 1983—Pub. L. 97–417 substituted provision relating to the entitlement of retired list Coast Guard commodores to the basic pay of a retired rear admiral after two years emergency or wartime duty, for former subsecs. (a) and (b), which, respectively, related to the entitlement of retired Coast Guard rear admirals (otherwise entitled to the basic pay of retired list rear admirals) to the basic pay of an upper half rear admiral after two years emergency or wartime active duty, and provided that the number of active list Coast Guard rear admirals entitled to upper half pay be half the difference between the number of active list officers above captain and the number of officers serving above rear admiral, an odd number result to be placed in the upper half, and no officer entitled to rear admiral pay to have it reduced solely because of a reduction in the number of rear admirals.
 
-1980—Pub. L. 96–513, § 401(b), substituted “(upper half) of the Coast Guard” for “of upper half; officers holding certain positions in the Navy” in section catchline.
+1980—Pub. L. 96–513, § 401(b), substituted “(upper half) of the Coast Guard” for “of upper half; officers holding certain positions in the Navy” in section catchline.
 
-Subsec. (a). Pub. L. 96–513, § 401(a)(1), (2), redesignated subsec. (e) as (a) and struck out applicability to the Navy. Former subsec. (a), relating to entitlement of an officer not restricted in the performance of his duties in the Navy, was struck out.
+Subsec. (a). Pub. L. 96–513, § 401(a)(1), (2), redesignated subsec. (e) as (a) and struck out applicability to the Navy. Former subsec. (a), relating to entitlement of an officer not restricted in the performance of his duties in the Navy, was struck out.
 
-Subsec. (b). Pub. L. 96–513, § 401(a)(1), (3), redesignated subsec. (f) as (b). Former subsec. (b), relating to entitlement of an officer restricted in the performance of his duties in the Navy, was struck out.
+Subsec. (b). Pub. L. 96–513, § 401(a)(1), (3), redesignated subsec. (f) as (b). Former subsec. (b), relating to entitlement of an officer restricted in the performance of his duties in the Navy, was struck out.
 
-Subsec. (c). Pub. L. 96–513, § 401(a)(1), struck out subsec. (c) which related to entitlement of an officer in a staff corps in the Navy.
+Subsec. (c). Pub. L. 96–513, § 401(a)(1), struck out subsec. (c) which related to entitlement of an officer in a staff corps in the Navy.
 
-Subsec. (d). Pub. L. 96–513, § 401(a)(1), struck out subsec. (d) which related to entitlement of an officer of the Naval Reserve.
+Subsec. (d). Pub. L. 96–513, § 401(a)(1), struck out subsec. (d) which related to entitlement of an officer of the Naval Reserve.
 
-Subsec. (e). Pub. L. 96–513, § 401(a)(2), redesignated subsec. (e) as (a).
+Subsec. (e). Pub. L. 96–513, § 401(a)(2), redesignated subsec. (e) as (a).
 
-Subsec. (f). Pub. L. 96–513, § 401(a)(3), redesignated subsec. (f) as (b).
+Subsec. (f). Pub. L. 96–513, § 401(a)(3), redesignated subsec. (f) as (b).
 
-Subsec. (g). Pub. L. 96–513, § 401(a)(4), struck out subsec. (g) which related to entitlement of an officer of the Marine Corps.
+Subsec. (g). Pub. L. 96–513, § 401(a)(4), struck out subsec. (g) which related to entitlement of an officer of the Marine Corps.
 
-Subsec. (h). Pub. L. 96–513, § 401(a)(4), struck out subsec. (h) which related to entitlement of specific officers of the naval service.
+Subsec. (h). Pub. L. 96–513, § 401(a)(4), struck out subsec. (h) which related to entitlement of specific officers of the naval service.
 
-Subsec. (i). Pub. L. 96–513, § 401(a)(4), struck out subsec. (i) which related to entitlement of additional specific officers of the naval service.
+Subsec. (i). Pub. L. 96–513, § 401(a)(4), struck out subsec. (i) which related to entitlement of additional specific officers of the naval service.
 
-Subsec. (j). Pub. L. 96–513, § 401(a)(4), struck out subsec. (j) which related to entitlement of officer of the Navy serving as Deputy Comptroller of the Navy.
+Subsec. (j). Pub. L. 96–513, § 401(a)(4), struck out subsec. (j) which related to entitlement of officer of the Navy serving as Deputy Comptroller of the Navy.
 
-Subsec. (k). Pub. L. 96–513, § 401(a)(4), struck out subsec. (k) which related to pay of a woman officer when initially appointed as a rear admiral and while serving as a rear admiral under such appointment or a subsequent appointment.
+Subsec. (k). Pub. L. 96–513, § 401(a)(4), struck out subsec. (k) which related to pay of a woman officer when initially appointed as a rear admiral and while serving as a rear admiral under such appointment or a subsequent appointment.
 
 Pub. L. 96–342 substituted provisions respecting pay when initially appointed as a rear admiral and while serving as a rear admiral under such appointment or a subsequent appointment for provisions respecting pay while serving under an appointment under section 5767(c) of title 10.
 
-Subsec. (*l*). Pub. L. 96–513, § 401(a)(4), struck out subsec. (*l*) which related to entitlement of an officer of the Navy or Marine Corps serving as Assistant Judge Advocate General of the Navy.
+Subsec. (*l*). Pub. L. 96–513, § 401(a)(4), struck out subsec. (*l*) which related to entitlement of an officer of the Navy or Marine Corps serving as Assistant Judge Advocate General of the Navy.
 
 1972—Subsec. (f). Pub. L. 92–451 struck out “Except for those whose basic pay is otherwise specifically authorized by law,” and substituted “in grades above captain, less the number of officers serving in grades above rear admiral”, for “in that grade” in first sentence.
 
 1968—Subsec. (*l*). Pub. L. 90–623 redesignated as subsec. (*l*) the subsection relating to basic pay of the Assistant Judge Advocate General of the Navy, formerly designated as subsec. (k).
 
-1967—Subsec. (g). Pub. L. 90–179, § 7(1), inserted “or as Deputy Judge Advocate General of the Navy,”.
+1967—Subsec. (g). Pub. L. 90–179, § 7(1), inserted “or as Deputy Judge Advocate General of the Navy,”.
 
-Subsecs. (h)(7), (8). Pub. L. 90–179, § 7(2)(B), (C), added par. (7) and renumbered former par. (7) as par. (8).
+Subsecs. (h)(7), (8). Pub. L. 90–179, § 7(2)(B), (C), added par. (7) and renumbered former par. (7) as par. (8).
 
-Subsec. (i). Pub. L. 90–179, § 7(3), struck out par. (3) which referred to an officer detailed as Assistant Judge Advocate of the Navy and renumbered pars. (4) and (5) as pars. (3) and (4), respectively.
+Subsec. (i). Pub. L. 90–179, § 7(3), struck out par. (3) which referred to an officer detailed as Assistant Judge Advocate of the Navy and renumbered pars. (4) and (5) as pars. (3) and (4), respectively.
 
-Subsec. (k). Pub. L. 90–179, § 7(4), added subsec. (k) relating to officer of the Navy or Marine Corps serving as Assistant Judge Advocate General of the Navy.
+Subsec. (k). Pub. L. 90–179, § 7(4), added subsec. (k) relating to officer of the Navy or Marine Corps serving as Assistant Judge Advocate General of the Navy.
 
 Pub. L. 90–130 added subsec. (k) relating to a woman officer appointed under section 5767(c) of title 10.
 
-1966—Subsec. (g). Pub. L. 89–718, § 50(1), struck out reference to service as Chief of the Bureau of Naval Weapons.
+1966—Subsec. (g). Pub. L. 89–718, § 50(1), struck out reference to service as Chief of the Bureau of Naval Weapons.
 
-Subsec. (h). Pub. L. 89–718, § 50(2), struck out par. (2) relating to Chief of Naval Materiel.
+Subsec. (h). Pub. L. 89–718, § 50(2), struck out par. (2) relating to Chief of Naval Materiel.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -289,7 +289,7 @@ Subsec. (h). Pub. L. 89–718, § 50(2), struck out par. (2) relating to Chief
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
 
-Pub. L. 96–342, title X, § 1004(b), Sept. 8, 1980, 94 Stat. 1120, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to basic pay payable for periods beginning on or after the date of the enactment of this Act [Sept. 8, 1980].”
+Pub. L. 96–342, title X, § 1004(b), Sept. 8, 1980, 94 Stat. 1120, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to basic pay payable for periods beginning on or after the date of the enactment of this Act [Sept. 8, 1980].”
 
 **Effective Date of 1972 Amendment**
 
@@ -307,7 +307,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513, and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of Title 10, Armed Forces.
 
-## § 203. Rates
+## § 203. Rates
 
 **(a)**
 
@@ -343,16 +343,16 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
 **(2)** An individual who graduates from such program shall receive credit for the time spent participating in such program as if such time were time served while on active duty as a commissioned officer. If the individual does not graduate from such program, such time shall not be considered creditable for active duty or pay.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 456; Pub. L. 88–132, § 2, Oct. 2, 1963, 77 Stat. 210; Pub. L. 88–422, § 1, Aug. 12, 1964, 78 Stat. 395; Pub. L. 89–132, § 1, Aug. 21, 1965, 79 Stat. 545; Pub. L. 89–501, title III, § 301, July 13, 1966, 80 Stat. 276; Pub. L. 90–207, § 1(1), Dec. 16, 1967, 81 Stat. 649; Pub. L. 91–278, § 3(2), June 12, 1970, 84 Stat. 306; Pub. L. 92–129, title II, § 201, Sept. 28, 1971, 85 Stat. 355; Pub. L. 92–455, § 3, Oct. 2, 1972, 86 Stat. 761; Pub. L. 93–419, § 2, Sept. 19, 1974, 88 Stat. 1152; Pub. L. 95–79, title III, § 302(a)(2), July 30, 1977, 91 Stat. 326; Pub. L. 96–343, § 6(b), Sept. 8, 1980, 94 Stat. 1127; Pub. L. 97–60, title I, § 102(a), Oct. 14, 1981, 95 Stat. 992; Pub. L. 98–94, title IX, § 902(a), Sept. 24, 1983, 97 Stat. 635; Pub. L. 99–145, title XIII, § 1303(b)(1), Nov. 8, 1985, 99 Stat. 740; Pub. L. 99–661, div. A, title VI, § 601(c), Nov. 14, 1986, 100 Stat. 3874; Pub. L. 100–180, div. A, title VI, § 601(c), Dec. 4, 1987, 101 Stat. 1092, as amended Pub. L. 100–202, § 110(b), Dec. 22, 1987, 101 Stat. 1329–436; Pub. L. 100–456, div. A, title VI, § 601(d), Sept. 29, 1988, 102 Stat. 1976; Pub. L. 101–189, div. A, title VI, § 601(c), Nov. 29, 1989, 103 Stat. 1445; Pub. L. 103–160, div. A, title VI, § 603(a), Nov. 30, 1993, 107 Stat. 1678; Pub. L. 103–337, div. A, title VI, § 601(c), Oct. 5, 1994, 108 Stat. 2779; Pub. L. 104–201, div. A, title VI, § 602, Sept. 23, 1996, 110 Stat. 2540; Pub. L. 105–261, div. A, title VI, § 602(a), Oct. 17, 1998, 112 Stat. 2037; Pub. L. 106–65, div. A, title VI, § 601(d), Oct. 5, 1999, 113 Stat. 648; Pub. L. 106–398, § 1 [[div. A], title VI, § 612(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–150; Pub. L. 107–107, div. A, title VI, § 602(a), Dec. 28, 2001, 115 Stat. 1132; Pub. L. 107–314, div. A, title X, § 1062(f)(1), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 108–136, div. A, title VI, § 603, Nov. 24, 2003, 117 Stat. 1499; Pub. L. 109–163, div. A, title VI, §§ 602, 603, Jan. 6, 2006, 119 Stat. 3286; Pub. L. 109–364, div. A, title VI, § 602(a), Oct. 17, 2006, 120 Stat. 2245; Pub. L. 116–259, title III, § 305(d), Dec. 23, 2020, 134 Stat. 1174.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 456; Pub. L. 88–132, § 2, Oct. 2, 1963, 77 Stat. 210; Pub. L. 88–422, § 1, Aug. 12, 1964, 78 Stat. 395; Pub. L. 89–132, § 1, Aug. 21, 1965, 79 Stat. 545; Pub. L. 89–501, title III, § 301, July 13, 1966, 80 Stat. 276; Pub. L. 90–207, § 1(1), Dec. 16, 1967, 81 Stat. 649; Pub. L. 91–278, § 3(2), June 12, 1970, 84 Stat. 306; Pub. L. 92–129, title II, § 201, Sept. 28, 1971, 85 Stat. 355; Pub. L. 92–455, § 3, Oct. 2, 1972, 86 Stat. 761; Pub. L. 93–419, § 2, Sept. 19, 1974, 88 Stat. 1152; Pub. L. 95–79, title III, § 302(a)(2), July 30, 1977, 91 Stat. 326; Pub. L. 96–343, § 6(b), Sept. 8, 1980, 94 Stat. 1127; Pub. L. 97–60, title I, § 102(a), Oct. 14, 1981, 95 Stat. 992; Pub. L. 98–94, title IX, § 902(a), Sept. 24, 1983, 97 Stat. 635; Pub. L. 99–145, title XIII, § 1303(b)(1), Nov. 8, 1985, 99 Stat. 740; Pub. L. 99–661, div. A, title VI, § 601(c), Nov. 14, 1986, 100 Stat. 3874; Pub. L. 100–180, div. A, title VI, § 601(c), Dec. 4, 1987, 101 Stat. 1092, as amended Pub. L. 100–202, § 110(b), Dec. 22, 1987, 101 Stat. 1329–436; Pub. L. 100–456, div. A, title VI, § 601(d), Sept. 29, 1988, 102 Stat. 1976; Pub. L. 101–189, div. A, title VI, § 601(c), Nov. 29, 1989, 103 Stat. 1445; Pub. L. 103–160, div. A, title VI, § 603(a), Nov. 30, 1993, 107 Stat. 1678; Pub. L. 103–337, div. A, title VI, § 601(c), Oct. 5, 1994, 108 Stat. 2779; Pub. L. 104–201, div. A, title VI, § 602, Sept. 23, 1996, 110 Stat. 2540; Pub. L. 105–261, div. A, title VI, § 602(a), Oct. 17, 1998, 112 Stat. 2037; Pub. L. 106–65, div. A, title VI, § 601(d), Oct. 5, 1999, 113 Stat. 648; Pub. L. 106–398, § 1 [[div. A], title VI, § 612(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–150; Pub. L. 107–107, div. A, title VI, § 602(a), Dec. 28, 2001, 115 Stat. 1132; Pub. L. 107–314, div. A, title X, § 1062(f)(1), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 108–136, div. A, title VI, § 603, Nov. 24, 2003, 117 Stat. 1499; Pub. L. 109–163, div. A, title VI, §§ 602, 603, Jan. 6, 2006, 119 Stat. 3286; Pub. L. 109–364, div. A, title VI, § 602(a), Oct. 17, 2006, 120 Stat. 2245; Pub. L. 116–259, title III, § 305(d), Dec. 23, 2020, 134 Stat. 1174.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 203 | 10:142(d) (as applicable to basic pay). | [None.] |
-|  | 37:232(a). | Oct. 12, 1949, ch. 681, § 201(a); May 19, 1952, ch. 310, § 1(a); restated Mar. 31, 1955, ch. 20, § 2(1); restated May 20, 1958, Pub. L. 85–422, § 1(1), 72 Stat. 122. |
+|  | 37:232(a). | Oct. 12, 1949, ch. 681, § 201(a); May 19, 1952, ch. 310, § 1(a); restated Mar. 31, 1955, ch. 20, § 2(1); restated May 20, 1958, Pub. L. 85–422, § 1(1), 72 Stat. 122. |
 
-Section 142(d) (as applicable to basic pay) of title 10 is omitted as superseded by footnote 1 of section 232(a) of existing title 37. The words “pay grades are prescribed” are omitted as covered by section 201 of this revised title. The words “rates of monthly basic pay . . . are” are substituted for the words “monthly basic pay . . . is established”. The words “according to cumulative years of service” are omitted as covered by the words “years of service computed under section 205” appearing in each table.
+Section 142(d) (as applicable to basic pay) of title 10 is omitted as superseded by footnote 1 of section 232(a) of existing title 37. The words “pay grades are prescribed” are omitted as covered by section 201 of this revised title. The words “rates of monthly basic pay . . . are” are substituted for the words “monthly basic pay . . . is established”. The words “according to cumulative years of service” are omitted as covered by the words “years of service computed under section 205” appearing in each table.
 
 **Editorial Notes**
 
@@ -366,25 +366,25 @@ Levels II and V of the Executive Schedule, referred to in subsec. (a)(2), are se
 
 2006—Subsec. (a)(2). Pub. L. 109–364 substituted “level II” for “level III”.
 
-Subsec. (b). Pub. L. 109–163, § 602, inserted “, the United States Naval Academy,” after “Military Academy”.
+Subsec. (b). Pub. L. 109–163, § 602, inserted “, the United States Naval Academy,” after “Military Academy”.
 
-Subsec. (e)(2). Pub. L. 109–163, § 603, substituted “shall receive” for “on active duty for a period of more than 30 days shall continue to receive” and inserted before the period at end “or at the rate provided for cadets and midshipmen under subsection (c), whichever is greater”.
+Subsec. (e)(2). Pub. L. 109–163, § 603, substituted “shall receive” for “on active duty for a period of more than 30 days shall continue to receive” and inserted before the period at end “or at the rate provided for cadets and midshipmen under subsection (c), whichever is greater”.
 
-2003—Subsec. (d)(2)(A). Pub. L. 108–136, § 603(1), substituted “enlisted member.” for “enlisted member, in the case of—
+2003—Subsec. (d)(2)(A). Pub. L. 108–136, § 603(1), substituted “enlisted member.” for “enlisted member, in the case of—
 
 “(i) a commissioned officer on active duty who is paid from funds appropriated for active-duty personnel; or
 
 “(ii) a commissioned officer on active Guard and Reserve duty.”
 
-Subsec. (d)(2)(B). Pub. L. 108–136, § 603(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “In the case of a commissioned officer (not referred to in subparagraph (A)(ii)) who is paid from funds appropriated for reserve personnel, service as a warrant officer, or as a warrant officer and enlisted member, for which at least 1,460 points have been credited to the officer for the purposes of section 12732(a)(2) of title 10.”
+Subsec. (d)(2)(B). Pub. L. 108–136, § 603(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “In the case of a commissioned officer (not referred to in subparagraph (A)(ii)) who is paid from funds appropriated for reserve personnel, service as a warrant officer, or as a warrant officer and enlisted member, for which at least 1,460 points have been credited to the officer for the purposes of section 12732(a)(2) of title 10.”
 
-2002—Subsec. (d)(1). Pub. L. 107–314 amended Pub. L. 107–107, § 602(a)(2). See 2001 Amendment note below.
+2002—Subsec. (d)(1). Pub. L. 107–314 amended Pub. L. 107–107, § 602(a)(2). See 2001 Amendment note below.
 
-2001—Subsec. (d). Pub. L. 107–107, § 602(a)(1), designated existing provisions as par. (1).
+2001—Subsec. (d). Pub. L. 107–107, § 602(a)(1), designated existing provisions as par. (1).
 
-Subsec. (d)(1). Pub. L. 107–107, § 602(a)(2), as amended by Pub. L. 107–314, substituted “service described in paragraph (2)” for “active service as a warrant officer or as a warrant officer and enlisted member”.
+Subsec. (d)(1). Pub. L. 107–107, § 602(a)(2), as amended by Pub. L. 107–314, substituted “service described in paragraph (2)” for “active service as a warrant officer or as a warrant officer and enlisted member”.
 
-Subsec. (d)(2). Pub. L. 107–107, § 602(a)(3), added par. (2).
+Subsec. (d)(2). Pub. L. 107–107, § 602(a)(3), added par. (2).
 
 2000—Subsec. (c). Pub. L. 106–398 substituted “at the monthly rate equal to 35 percent of the basic pay of a commissioned officer in the pay grade O–1 with less than two years of service” for “at the rate of $600.00”.
 
@@ -440,59 +440,59 @@ Subsec. (b). Pub. L. 88–132 added subsec. (b).
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–364, div. A, title VI, § 602(b), Oct. 17, 2006, 120 Stat. 2245, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2007, and shall apply with respect to months beginning on or after that date.”
+Pub. L. 109–364, div. A, title VI, § 602(b), Oct. 17, 2006, 120 Stat. 2245, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2007, and shall apply with respect to months beginning on or after that date.”
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–314, div. A, title X, § 1062(f), Dec. 2, 2002, 116 Stat. 2651, provided that the amendment made by section 1062(f)(1) is effective as of Dec. 28, 2001, and as if included in Pub. L. 107–107 as enacted.
+Pub. L. 107–314, div. A, title X, § 1062(f), Dec. 2, 2002, 116 Stat. 2651, provided that the amendment made by section 1062(f)(1) is effective as of Dec. 28, 2001, and as if included in Pub. L. 107–107 as enacted.
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–107, div. A, title VI, § 602(b), Dec. 28, 2001, 115 Stat. 1133, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to months beginning on or after the date of the enactment of this Act [Dec. 28, 2001].”
+Pub. L. 107–107, div. A, title VI, § 602(b), Dec. 28, 2001, 115 Stat. 1133, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to months beginning on or after the date of the enactment of this Act [Dec. 28, 2001].”
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–398, § 1 [[div. A], title VI, § 612(d)], Oct. 30, 2000, 114 Stat. 1654, 1654A–151, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 209 of this title] shall take effect October 1, 2001.”
+Pub. L. 106–398, § 1 [[div. A], title VI, § 612(d)], Oct. 30, 2000, 114 Stat. 1654, 1654A–151, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 209 of this title] shall take effect October 1, 2001.”
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–65, div. A, title VI, § 601(d), Oct. 5, 1999, 113 Stat. 648, provided that the amendment made by section 601(d) is effective Jan. 1, 2000.
+Pub. L. 106–65, div. A, title VI, § 601(d), Oct. 5, 1999, 113 Stat. 648, provided that the amendment made by section 601(d) is effective Jan. 1, 2000.
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–261, div. A, title VI, § 602(b), Oct. 17, 1998, 112 Stat. 2037, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 1999.”
+Pub. L. 105–261, div. A, title VI, § 602(b), Oct. 17, 1998, 112 Stat. 2037, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 1999.”
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–337, div. A, title VI, § 601(c), Oct. 5, 1994, 108 Stat. 2779, provided in part that the amendment made by that section is effective Jan. 1, 1995.
+Pub. L. 103–337, div. A, title VI, § 601(c), Oct. 5, 1994, 108 Stat. 2779, provided in part that the amendment made by that section is effective Jan. 1, 1995.
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–160, div. A, title VI, § 603(b), Nov. 30, 1993, 107 Stat. 1678, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to students entering the United States Military Academy Preparatory School, the United States Naval Academy Preparatory School, or the United States Air Force Academy Preparatory School on or after the date of the enactment of this Act [Nov. 30, 1993].”
+Pub. L. 103–160, div. A, title VI, § 603(b), Nov. 30, 1993, 107 Stat. 1678, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to students entering the United States Military Academy Preparatory School, the United States Naval Academy Preparatory School, or the United States Air Force Academy Preparatory School on or after the date of the enactment of this Act [Nov. 30, 1993].”
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–189, div. A, title VI, § 601(c), Nov. 29, 1989, 103 Stat. 1445, provided that the amendment made by that section is effective Jan. 1, 1990.
+Pub. L. 101–189, div. A, title VI, § 601(c), Nov. 29, 1989, 103 Stat. 1445, provided that the amendment made by that section is effective Jan. 1, 1990.
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–456, div. A, title VI, § 601(d), Sept. 29, 1988, 102 Stat. 1976, provided that the amendment made by that section is effective Jan. 1, 1989.
+Pub. L. 100–456, div. A, title VI, § 601(d), Sept. 29, 1988, 102 Stat. 1976, provided that the amendment made by that section is effective Jan. 1, 1989.
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–180, div. A, title VI, § 601(c), Dec. 4, 1987, 101 Stat. 1092, as amended by Pub. L. 100–202, § 110(b), Dec. 22, 1987, 101 Stat. 1329–436, provided that the amendment made by that section is effective Jan. 1, 1988.
+Pub. L. 100–180, div. A, title VI, § 601(c), Dec. 4, 1987, 101 Stat. 1092, as amended by Pub. L. 100–202, § 110(b), Dec. 22, 1987, 101 Stat. 1329–436, provided that the amendment made by that section is effective Jan. 1, 1988.
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–661, div. A, title VI, § 601(c), Nov. 14, 1986, 100 Stat. 3874, provided that the amendment made by that section is effective Jan. 1, 1987.
+Pub. L. 99–661, div. A, title VI, § 601(c), Nov. 14, 1986, 100 Stat. 3874, provided that the amendment made by that section is effective Jan. 1, 1987.
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–94, title IX, § 902(b), Sept. 24, 1983, 97 Stat. 635, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1983.”
+Pub. L. 98–94, title IX, § 902(b), Sept. 24, 1983, 97 Stat. 635, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1983.”
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–60, title I, § 102(b), Oct. 14, 1981, 95 Stat. 992, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of October 1, 1981.”
+Pub. L. 97–60, title I, § 102(b), Oct. 14, 1981, 95 Stat. 992, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of October 1, 1981.”
 
 **Effective Date of 1980 Amendment**
 
@@ -508,19 +508,19 @@ Amendment by Pub. L. 92–129 effective Oct. 1, 1971, see section 209 of Pub. L.
 
 **Effective Date of 1967 Amendment**
 
-Pub. L. 90–207, § 7, Dec. 16, 1967, 81 Stat. 654, provided that: “This Act [enacting sections 311 and 411a of this title, amending this section, sections 403 and 407 of this title, sections 1401 to 1402, 1436, 3991, 6326, 6330, and 8991 of Title 10, Armed Forces, and section 2203 of the former Appendix to Title 50, War and National Defense, and enacting provisions set out as notes under this section and sections 1401 and 1401a of Title 10] becomes effective as of October 1, 1967. However, a member, except as provided in section 6 of this Act [set out as a note under section 1401 of Title 10], is not entitled to any increases in his pay and allowances under section 1 [enacting section 311 of this title and amending this section and sections 403 and 407 of this title] or section 4 [amending section 2203 of the former Appendix to Title 50] for any period before the date of enactment of this Act [Dec. 16, 1967] unless he is on active duty on the date of enactment of this Act. In addition, a member of the National Guard or a member of a Reserve Component of a uniformed service who is in a drill pay status on the effective date of this Act [Oct. 1, 1967] is entitled to have any compensation to which he has become entitled under section 206 of title 37, United States Code, after September 30, 1967, computed under the rates of basic pay prescribed by section 1(1) of this Act [amending this section].”
+Pub. L. 90–207, § 7, Dec. 16, 1967, 81 Stat. 654, provided that: “This Act [enacting sections 311 and 411a of this title, amending this section, sections 403 and 407 of this title, sections 1401 to 1402, 1436, 3991, 6326, 6330, and 8991 of Title 10, Armed Forces, and section 2203 of the former Appendix to Title 50, War and National Defense, and enacting provisions set out as notes under this section and sections 1401 and 1401a of Title 10] becomes effective as of October 1, 1967. However, a member, except as provided in section 6 of this Act [set out as a note under section 1401 of Title 10], is not entitled to any increases in his pay and allowances under section 1 [enacting section 311 of this title and amending this section and sections 403 and 407 of this title] or section 4 [amending section 2203 of the former Appendix to Title 50] for any period before the date of enactment of this Act [Dec. 16, 1967] unless he is on active duty on the date of enactment of this Act. In addition, a member of the National Guard or a member of a Reserve Component of a uniformed service who is in a drill pay status on the effective date of this Act [Oct. 1, 1967] is entitled to have any compensation to which he has become entitled under section 206 of title 37, United States Code, after September 30, 1967, computed under the rates of basic pay prescribed by section 1(1) of this Act [amending this section].”
 
 **Effective Date of 1966 Amendment**
 
-Pub. L. 89–501, title III, § 304, July 13, 1966, 80 Stat. 278, provided that: “This title [amending this section and enacting provisions set out as notes under this section and section 1401 of Title 10, Armed Forces] becomes effective July 1, 1966, or the first day of the month in which increases in the rates of compensation under the General Schedule of pay provided in section 603(b) of the Classification Act of 1949, as amended (5 U.S.C. 1113(b)) [see now section 5332(a) of Title 5, Government Organization and Employees], become effective pursuant to the Federal Employees Salary Act of 1966 [Pub. L. 89–504, July 18, 1966, 80 Stat. 288] whichever is later.”
+Pub. L. 89–501, title III, § 304, July 13, 1966, 80 Stat. 278, provided that: “This title [amending this section and enacting provisions set out as notes under this section and section 1401 of Title 10, Armed Forces] becomes effective July 1, 1966, or the first day of the month in which increases in the rates of compensation under the General Schedule of pay provided in section 603(b) of the Classification Act of 1949, as amended (5 U.S.C. 1113(b)) [see now section 5332(a) of Title 5, Government Organization and Employees], become effective pursuant to the Federal Employees Salary Act of 1966 [Pub. L. 89–504, July 18, 1966, 80 Stat. 288] whichever is later.”
 
 **Effective Date of 1965 Amendment**
 
-Pub. L. 89–132, § 10, Aug. 21, 1965, 79 Stat. 548, provided that: “This Act [enacting section 1008 of this title and section 1040 of Title 10, Armed Forces, amending this section, sections 308 and 310 of this title, and sections 1401 and 1401a of Title 10, and enacting provisions set out as notes under section 1401 of Title 10] becomes effective on the first day of the first calendar month beginning after the date of enactment of this Act [Aug. 21, 1965].”
+Pub. L. 89–132, § 10, Aug. 21, 1965, 79 Stat. 548, provided that: “This Act [enacting section 1008 of this title and section 1040 of Title 10, Armed Forces, amending this section, sections 308 and 310 of this title, and sections 1401 and 1401a of Title 10, and enacting provisions set out as notes under section 1401 of Title 10] becomes effective on the first day of the first calendar month beginning after the date of enactment of this Act [Aug. 21, 1965].”
 
 **Effective Date of 1964 Amendment**
 
-Pub. L. 88–422, § 4, Aug. 12, 1964, 78 Stat. 396, provided that: “This Act [amending this section and enacting provisions set out as notes under this section] becomes effective on the first day of the first calendar month beginning after the date of enactment of this Act [Aug. 12, 1964].”
+Pub. L. 88–422, § 4, Aug. 12, 1964, 78 Stat. 396, provided that: “This Act [amending this section and enacting provisions set out as notes under this section] becomes effective on the first day of the first calendar month beginning after the date of enactment of this Act [Aug. 12, 1964].”
 
 **Effective Date of 1963 Amendment**
 
@@ -532,7 +532,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Basic Rates of Pay of the Uniformed Services**
 
-Pub. L. 118–159, div. A, title VI, § 601, Dec. 23, 2024, 138 Stat. 1924, provided that:
+Pub. L. 118–159, div. A, title VI, § 601, Dec. 23, 2024, 138 Stat. 1924, provided that:
 
 > “Effective April 1, 2025, the rates of monthly basic pay for members of the uniformed services within each pay grade (and with years of service as computed under section 205 of title 37, United States Code) are as follows:
 
@@ -540,9 +540,9 @@ Pub. L. 118–159, div. A, title VI, § 601, Dec. 23, 2024, 138 Stat. 1924, pr
 >
 > <table>
 > <tr><th>Pay Grade</th><th>2 Years or Less</th><th>Over 2 Years</th><th>Over 3 Years</th><th>Over 4 Years</th><th>Over 6 Years</th></tr>
-> <tr><td colspan="6">1 Basic pay for officers in pay grades O-7 through O-10 may not exceed the rate of pay for level II of the Executive Schedule. This includes officers serving as Chairman or Vice Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, Chief of Space Operations, Commandant of the Coast Guard, Chief of the National Guard Bureau, or commander of a unified or specified combatant command (as defined in section 161(c) of title 10, United States Code).</td></tr>
-> <tr><td colspan="6">2 Basic pay for officers in pay grades O-6 and below may not exceed the rate of pay for level V of the Executive Schedule.</td></tr>
-> <tr><td colspan="6">3 This table does not apply to commissioned officers in pay grade O-1, O-2, or O-3 who have been credited with over 4 years of active-duty service as an enlisted member or warrant officer.</td></tr>
+> <tr><td colspan="6">1 Basic pay for officers in pay grades O-7 through O-10 may not exceed the rate of pay for level II of the Executive Schedule. This includes officers serving as Chairman or Vice Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, Chief of Space Operations, Commandant of the Coast Guard, Chief of the National Guard Bureau, or commander of a unified or specified combatant command (as defined in section 161(c) of title 10, United States Code).</td></tr>
+> <tr><td colspan="6">2 Basic pay for officers in pay grades O-6 and below may not exceed the rate of pay for level V of the Executive Schedule.</td></tr>
+> <tr><td colspan="6">3 This table does not apply to commissioned officers in pay grade O-1, O-2, or O-3 who have been credited with over 4 years of active-duty service as an enlisted member or warrant officer.</td></tr>
 > <tr><td>O-8</td><td>$13,380.00</td><td>$13,818.90</td><td>$14,109.30</td><td>$14,190.30</td><td>$14,553.60</td></tr>
 > <tr><td>O-7</td><td>11,117.70</td><td>11,634.00</td><td>11,873.10</td><td>12,063.60</td><td>12,407.10</td></tr>
 > <tr><td>O-6</td><td>8,430.90</td><td>9,261.90</td><td>9,870.00</td><td>9,870.00</td><td>9,907.80</td></tr>
@@ -599,7 +599,7 @@ Pub. L. 118–159, div. A, title VI, § 601, Dec. 23, 2024, 138 Stat. 1924, pr
 >
 > <table>
 > <tr><th>Pay Grade</th><th>2 Years or Less</th><th>Over 2 Years</th><th>Over 3 Years</th><th>Over 4 Years</th><th>Over 6 Years</th></tr>
-> <tr><td colspan="6">1 This table applies to commissioned officers in the Reserve Component with more than 1,460 points as an enlisted member, a warrant officer, or a warrant officer and an enlisted member, which are creditable toward reserve retirement.</td></tr>
+> <tr><td colspan="6">1 This table applies to commissioned officers in the Reserve Component with more than 1,460 points as an enlisted member, a warrant officer, or a warrant officer and an enlisted member, which are creditable toward reserve retirement.</td></tr>
 > <tr><td>O-3E</td><td>$0.00</td><td>$0.00</td><td>$0.00</td><td>$7,112.40</td><td>$7,453.80</td></tr>
 > <tr><td>O-2E</td><td>0.00</td><td>0.00</td><td>0.00</td><td>6,247.20</td><td>6,375.30</td></tr>
 > <tr><td>O-1E</td><td>0.00</td><td>0.00</td><td>0.00</td><td>5,031.30</td><td>5,372.40</td></tr>
@@ -625,7 +625,7 @@ Pub. L. 118–159, div. A, title VI, § 601, Dec. 23, 2024, 138 Stat. 1924, pr
 >
 > <table>
 > <tr><th>Pay Grade</th><th>2 Years or Less</th><th>Over 2 Years</th><th>Over 3 Years</th><th>Over 4 Years</th><th>Over 6 Years</th></tr>
-> <tr><td colspan="6">1 Basic pay for warrant officers may not exceed the rate of pay for level V of the Executive Schedule.</td></tr>
+> <tr><td colspan="6">1 Basic pay for warrant officers may not exceed the rate of pay for level V of the Executive Schedule.</td></tr>
 > <tr><td>W-4</td><td>$5,510.40</td><td>$5,926.80</td><td>$6,096.90</td><td>$6,264.30</td><td>$6,552.90</td></tr>
 > <tr><td>W-3</td><td>5,032.20</td><td>5,241.30</td><td>5,457.00</td><td>5,526.90</td><td>5,752.20</td></tr>
 > <tr><td>W-2</td><td>4,452.60</td><td>4,873.80</td><td>5,003.10</td><td>5,092.50</td><td>5,380.80</td></tr>
@@ -659,9 +659,9 @@ Pub. L. 118–159, div. A, title VI, § 601, Dec. 23, 2024, 138 Stat. 1924, pr
 >
 > <table>
 > <tr><th>Pay Grade</th><th>2 Years or Less</th><th>Over 2 Years</th><th>Over 3 Years</th><th>Over 4 Years</th><th>Over 6 Years</th></tr>
-> <tr><td colspan="6">1 Basic pay for enlisted members may not exceed the rate of pay for level V of the Executive Schedule.</td></tr>
-> <tr><td colspan="6">2 Subject to the preceding footnote, the rate of basic pay for noncommissioned officers serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy or Coast Guard, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, Chief Master Sergeant of the Space Force, Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or Senior Enlisted Advisor to the Chief of the National Guard Bureau, basic pay for this grade is $10,758.00 per month, regardless of cumulative years of service under section 205 of title 37, United States Code.</td></tr>
-> <tr><td colspan="6">3 In the case of members in pay grade E-1 who have served fewer than 4 months on active duty, the rate of basic pay is $2,144.10.”</td></tr>
+> <tr><td colspan="6">1 Basic pay for enlisted members may not exceed the rate of pay for level V of the Executive Schedule.</td></tr>
+> <tr><td colspan="6">2 Subject to the preceding footnote, the rate of basic pay for noncommissioned officers serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy or Coast Guard, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, Chief Master Sergeant of the Space Force, Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or Senior Enlisted Advisor to the Chief of the National Guard Bureau, basic pay for this grade is $10,758.00 per month, regardless of cumulative years of service under section 205 of title 37, United States Code.</td></tr>
+> <tr><td colspan="6">3 In the case of members in pay grade E-1 who have served fewer than 4 months on active duty, the rate of basic pay is $2,144.10.”</td></tr>
 > <tr><td>E-7</td><td>$3,788.10</td><td>$4,134.30</td><td>$4,293.00</td><td>$4,502.10</td><td>$4,666.50</td></tr>
 > <tr><td>E-6</td><td>3,276.60</td><td>3,606.00</td><td>3,765.00</td><td>3,919.80</td><td>4,080.60</td></tr>
 > <tr><td>E-5</td><td>3,220.50</td><td>3,466.50</td><td>3,637.50</td><td>3,802.20</td><td>3,959.40</td></tr>
@@ -715,13 +715,13 @@ Pub. L. 118–159, div. A, title VI, § 601, Dec. 23, 2024, 138 Stat. 1924, pr
 
 **Publication by Department of Defense of Actual Rates of Basic Pay Payable to Members of the Armed Forces by Pay Grade for Annual or Other Pay Periods**
 
-Pub. L. 114–328, div. A, title VI, § 602, Dec. 23, 2016, 130 Stat. 2156, provided that: “Any pay table published or otherwise issued by the Department of Defense to indicate the rates of basic pay of the Armed Forces in effect for members of the Armed Forces for a calendar year or other period shall state the rate of basic pay to be received by members in each pay grade for such year or period as specified or otherwise provided by applicable law, including any rate to be so received pursuant during such year or period by the operation of a ceiling under section 203(a)(2) of title 37, United States Code, or a similar provision in an annual defense authorization Act.”
+Pub. L. 114–328, div. A, title VI, § 602, Dec. 23, 2016, 130 Stat. 2156, provided that: “Any pay table published or otherwise issued by the Department of Defense to indicate the rates of basic pay of the Armed Forces in effect for members of the Armed Forces for a calendar year or other period shall state the rate of basic pay to be received by members in each pay grade for such year or period as specified or otherwise provided by applicable law, including any rate to be so received pursuant during such year or period by the operation of a ceiling under section 203(a)(2) of title 37, United States Code, or a similar provision in an annual defense authorization Act.”
 
 **Increases in Basic Pay for General and Flag Officers**
 
-Pub. L. 114–92, div. A, title VI, § 601, Nov. 25, 2015, 129 Stat. 836, provided that: “Section 203(a)(2) of title 37, United States Code, shall be applied for rates of basic pay payable for commissioned officers in pay grades O–7 through O–10 during calendar year 2016 by using the rate of pay for level II of the Executive Schedule in effect during 2014. The rates of basic pay payable for such officers shall not increase during calendar year 2016.”
+Pub. L. 114–92, div. A, title VI, § 601, Nov. 25, 2015, 129 Stat. 836, provided that: “Section 203(a)(2) of title 37, United States Code, shall be applied for rates of basic pay payable for commissioned officers in pay grades O–7 through O–10 during calendar year 2016 by using the rate of pay for level II of the Executive Schedule in effect during 2014. The rates of basic pay payable for such officers shall not increase during calendar year 2016.”
 
-Pub. L. 113–291, div. A, title VI, § 601, Dec. 19, 2014, 128 Stat. 3397, provided that:
+Pub. L. 113–291, div. A, title VI, § 601, Dec. 19, 2014, 128 Stat. 3397, provided that:
 
 > “In the case of commissioned officers in the uniformed services in pay grades O–7 through O–10—
 
@@ -731,11 +731,11 @@ Pub. L. 113–291, div. A, title VI, § 601, Dec. 19, 2014, 128 Stat. 3397, pr
 
 **Basic Pay Rate Equal Treatment of Chief of the National Guard Bureau**
 
-Pub. L. 113–291, div. A, title VI, § 603(a)(1), Dec. 19, 2014, 128 Stat. 3397, provided that: “The rate of basic pay for an officer while serving as the Chief of the National Guard Bureau shall be the same as the rate of basic pay for the officers specified in Footnote 2 of the table entitled ‘commissioned officers’ in section 601(b) of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 37 U.S.C. 1009 note), regardless of cumulative years of service computed under section 205 of title 37, United States Code.”
+Pub. L. 113–291, div. A, title VI, § 603(a)(1), Dec. 19, 2014, 128 Stat. 3397, provided that: “The rate of basic pay for an officer while serving as the Chief of the National Guard Bureau shall be the same as the rate of basic pay for the officers specified in Footnote 2 of the table entitled ‘commissioned officers’ in section 601(b) of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 37 U.S.C. 1009 note), regardless of cumulative years of service computed under section 205 of title 37, United States Code.”
 
 **Rate of Pay Increases for Cadets, Midshipmen, and Applicants for Membership in Senior Reserve Officers’ Training Corps**
 
-Pub. L. 95–79, title III, § 302(b), (c), July 30, 1977, 91 Stat. 326, 327, provided that:
+Pub. L. 95–79, title III, § 302(b), (c), July 30, 1977, 91 Stat. 326, 327, provided that:
 
 > **“(b)** Any cadet or midshipman who, on the date of enactment of this Act [July 30, 1977], or on any date thereafter, is—
 
@@ -749,17 +749,17 @@ Pub. L. 95–79, title III, § 302(b), (c), July 30, 1977, 91 Stat. 326, 327, 
 
 **Master Chief Petty Officer of the Coast Guard; Pay Recovery**
 
-Pub. L. 92–455, § 5, Oct. 2, 1972, 86 Stat. 761, provided that: “An enlisted member of the Coast Guard who has served as the master chief petty officer of the Coast Guard before enactment of this Act [Oct. 2, 1972] is entitled to recover the differences between the basic pay (including proficiency pay) received while so serving and the amount he would have received if his basic pay had been the same as the basic pay of the senior enlisted advisers of the other Armed Forces from the time of his original appointment to serve as the master chief petty officer of the Coast Guard.”
+Pub. L. 92–455, § 5, Oct. 2, 1972, 86 Stat. 761, provided that: “An enlisted member of the Coast Guard who has served as the master chief petty officer of the Coast Guard before enactment of this Act [Oct. 2, 1972] is entitled to recover the differences between the basic pay (including proficiency pay) received while so serving and the amount he would have received if his basic pay had been the same as the basic pay of the senior enlisted advisers of the other Armed Forces from the time of his original appointment to serve as the master chief petty officer of the Coast Guard.”
 
 **Report on Effectiveness of 1971 Pay Increases in Increasing Volunteers**
 
-Pub. L. 92–129, title II, § 211, Sept. 28, 1971, 85 Stat. 360, directed Secretary of Defense to report to Chairman of Armed Services Committees of Senate and of House of Representatives not later than June 30, 1972, on effectiveness of provisions of title II of Pub. L. 92–129, authorizing pay increases for uniformed services, in increasing number of volunteers enlisting for active duty in Armed Forces of United States.
+Pub. L. 92–129, title II, § 211, Sept. 28, 1971, 85 Stat. 360, directed Secretary of Defense to report to Chairman of Armed Services Committees of Senate and of House of Representatives not later than June 30, 1972, on effectiveness of provisions of title II of Pub. L. 92–129, authorizing pay increases for uniformed services, in increasing number of volunteers enlisting for active duty in Armed Forces of United States.
 
 **Pay Continuation**
 
-Pub. L. 92–129, title II, § 210, Sept. 28, 1971, 85 Stat. 360, provided that: “The enactment of this title [enacting sections 302a, 308a, and 428 of this title and amending this section, section 403 of this title, and sections 2203, 2204, and 2207 of the former Appendix to Title 50, War and National Defense] shall not reduce the pay to which any member of the uniformed services was entitled on June 30, 1971.”
+Pub. L. 92–129, title II, § 210, Sept. 28, 1971, 85 Stat. 360, provided that: “The enactment of this title [enacting sections 302a, 308a, and 428 of this title and amending this section, section 403 of this title, and sections 2203, 2204, and 2207 of the former Appendix to Title 50, War and National Defense] shall not reduce the pay to which any member of the uniformed services was entitled on June 30, 1971.”
 
-Pub. L. 89–501, title III, § 302, July 13, 1966, 80 Stat. 278, provided that:
+Pub. L. 89–501, title III, § 302, July 13, 1966, 80 Stat. 278, provided that:
 
 > “Notwithstanding any other provision of law, a member of an armed force who was entitled to pay and allowances under any of the following provisions of law on the day before the effective date of this title [see Effective Date of 1966 Amendment note above] shall continue to receive the pay and allowances to which he was entitled on that day plus an increase of 3.2 per centum in the total of his pay and allowances:
 
@@ -771,7 +771,7 @@ Pub. L. 89–501, title III, § 302, July 13, 1966, 80 Stat. 278, provided tha
 
 > After the effective date of this title, no increase in the basic pay or any of the allowances of members of the uniformed services on active duty shall increase the basic pay or any of the allowances of a member covered by the preceding provisions of this section.”
 
-Pub. L. 89–132, § 8, Aug. 21, 1965, 79 Stat. 548, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that:
+Pub. L. 89–132, § 8, Aug. 21, 1965, 79 Stat. 548, as amended by Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that:
 
 > “The enactment of this Act [see Effective Date of 1965 Amendment note above] does not reduce—
 
@@ -779,7 +779,7 @@ Pub. L. 89–132, § 8, Aug. 21, 1965, 79 Stat. 548, as amended by Pub. L. 102
 
 > **“(2)** the basic pay or the retired pay or retainer pay to which a member or former member of a uniformed service was entitled to on the day before the effective date of this Act [Sept. 1, 1965].”
 
-Pub. L. 88–422, § 2, Aug. 12, 1964, 78 Stat. 396, provided that:
+Pub. L. 88–422, § 2, Aug. 12, 1964, 78 Stat. 396, provided that:
 
 > “Notwithstanding any other provision of law, a member of an armed force who was entitled to pay and allowances under any of the following provisions of law on the day before the effective date of this Act [Sept. 1, 1964] shall continue to receive the pay and allowances to which he was entitled on that day:
 
@@ -789,7 +789,7 @@ Pub. L. 88–422, § 2, Aug. 12, 1964, 78 Stat. 396, provided that:
 
 > **“(3)** The Act of September 18, 1950, chapter 952 (64 Stat. A224).”
 
-Pub. L. 88–422, § 3, Aug. 12, 1964, 78 Stat. 396, provided that:
+Pub. L. 88–422, § 3, Aug. 12, 1964, 78 Stat. 396, provided that:
 
 > “The enactment of this Act [amending this section, and enacting provisions set out as notes under this section] does not reduce—
 
@@ -797,11 +797,11 @@ Pub. L. 88–422, § 3, Aug. 12, 1964, 78 Stat. 396, provided that:
 
 > **“(2)** the basic pay or the retired pay or retainer pay to which a member or former member of a uniformed service was entitled on the day before the effective date of this Act.”
 
-Pub. L. 88–132, § 13(b), Oct. 2, 1963, 77 Stat. 218, provided that: “The enactment of this Act [see Short Title of 1963 Amendment note set out under section 101 of this title] does not reduce the basic pay or the retired pay or retainer pay to which a member or former member of a uniformed service was entitled on the day before the effective date of this Act [Oct. 1, 1963].”
+Pub. L. 88–132, § 13(b), Oct. 2, 1963, 77 Stat. 218, provided that: “The enactment of this Act [see Short Title of 1963 Amendment note set out under section 101 of this title] does not reduce the basic pay or the retired pay or retainer pay to which a member or former member of a uniformed service was entitled on the day before the effective date of this Act [Oct. 1, 1963].”
 
 **Periodic Pay Adjustments in Monthly Basic Pay**
 
-Pub. L. 90–207, § 8, Dec. 16, 1967, 81 Stat. 654, which provided for adjustment of regular compensation whenever the General Schedule of compensation for federal classified employees was adjusted upwards, was repealed by Pub. L. 93–419, § 8, Sept. 19, 1974, 88 Stat. 1153.
+Pub. L. 90–207, § 8, Dec. 16, 1967, 81 Stat. 654, which provided for adjustment of regular compensation whenever the General Schedule of compensation for federal classified employees was adjusted upwards, was repealed by Pub. L. 93–419, § 8, Sept. 19, 1974, 88 Stat. 1153.
 
 **Executive Documents**
 
@@ -825,7 +825,7 @@ Ex. Ord. No. 11475, June 16, 1969, 34 F.R. 9609, provided for adjustment of pay 
 
 Ex. Ord. No. 11414, June 11, 1968, 33 F.R. 8645, provided for adjustment of pay rates effective July 1, 1968.
 
-## § 204. Entitlement
+## § 204. Entitlement
 
 **(a)** The following persons are entitled to the basic pay of the pay grade to which assigned or distributed, in accordance with their years of service computed under section 205 of this title—
 
@@ -909,14 +909,14 @@ Ex. Ord. No. 11414, June 11, 1968, 33 F.R. 8645, provided for adjustment of pay 
 
 **(j)** A member of the uniformed services who is entitled to medical or dental care under section 1074a of title 10 is entitled to travel and transportation allowances, or a monetary allowance in place thereof, for necessary travel incident to such care, and return to his home upon discharge from treatment.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 457; Pub. L. 96–513, title V, § 506(4), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 98–94, title X, § 1012(b), Sept. 24, 1983, 97 Stat. 665; Pub. L. 99–433, title V, § 531(b), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 99–661, div. A, title VI, § 604(b), Nov. 14, 1986, 100 Stat. 3875; Pub. L. 100–456, div. A, title VI, § 631(a), (b), Sept. 29, 1988, 102 Stat. 1984, 1985; Pub. L. 102–25, title VII, § 701(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title XVI, § 1676(b)(1), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–106, div. A, title VII, § 702(c), Feb. 10, 1996, 110 Stat. 371; Pub. L. 105–85, div. A, title V, § 513(f), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 106–398, § 1 [[div. A], title VI, § 665(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–168; Pub. L. 107–107, div. A, title V, § 513(d), Dec. 28, 2001, 115 Stat. 1093; Pub. L. 107–296, title XVII, § 1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 113–66, div. A, title VI, § 602, Dec. 26, 2013, 127 Stat. 779; Pub. L. 119–60, div. A, title VI, § 601(b)(2), Dec. 18, 2025, 139 Stat. 901.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 457; Pub. L. 96–513, title V, § 506(4), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 98–94, title X, § 1012(b), Sept. 24, 1983, 97 Stat. 665; Pub. L. 99–433, title V, § 531(b), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 99–661, div. A, title VI, § 604(b), Nov. 14, 1986, 100 Stat. 3875; Pub. L. 100–456, div. A, title VI, § 631(a), (b), Sept. 29, 1988, 102 Stat. 1984, 1985; Pub. L. 102–25, title VII, § 701(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title XVI, § 1676(b)(1), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–106, div. A, title VII, § 702(c), Feb. 10, 1996, 110 Stat. 371; Pub. L. 105–85, div. A, title V, § 513(f), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 106–398, § 1 [[div. A], title VI, § 665(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–168; Pub. L. 107–107, div. A, title V, § 513(d), Dec. 28, 2001, 115 Stat. 1093; Pub. L. 107–296, title XVII, § 1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 113–66, div. A, title VI, § 602, Dec. 26, 2013, 127 Stat. 779; Pub. L. 119–60, div. A, title VI, § 601(b)(2), Dec. 18, 2025, 139 Stat. 901.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 204(a)   204(b)   204(c)   204(d)   204(e) | 37:232(d) (1st sentence, less provisos). 37:232(d) (1st proviso of 1st sentence). 37:232(d) (2d proviso of 1st sentence). 37:232(d) (last proviso of 1st sentence). 37:232(d) (less 1st sentence). | Oct. 12, 1949, ch. 681, § 201(d), 63 Stat. 807; redesignated as “(d)” by Mar. 31, 1955, ch. 20, § 2(2), 69 Stat. 19; Aug. 10, 1956, ch. 1041, § 20(a), 70A Stat. 627; May 20, 1958, Pub. L. 85–422, § 1(4), 72 Stat. 124. |
-| 204(f) | 37:308a. | Dec. 20, 1886, ch. 2, 24 Stat. 351; June 2, 1950, ch. 217, § 2, 64 Stat. 195. |
+| 204(a) 204(b) 204(c) 204(d) 204(e) | 37:232(d) (1st sentence, less provisos). 37:232(d) (1st proviso of 1st sentence). 37:232(d) (2d proviso of 1st sentence). 37:232(d) (last proviso of 1st sentence). 37:232(d) (less 1st sentence). | Oct. 12, 1949, ch. 681, § 201(d), 63 Stat. 807; redesignated as “(d)” by Mar. 31, 1955, ch. 20, § 2(2), 69 Stat. 19; Aug. 10, 1956, ch. 1041, § 20(a), 70A Stat. 627; May 20, 1958, Pub. L. 85–422, § 1(4), 72 Stat. 124. |
+| 204(f) | 37:308a. | Dec. 20, 1886, ch. 2, 24 Stat. 351; June 2, 1950, ch. 217, § 2, 64 Stat. 195. |
 | 204(g) | 10:3687 (as applicable to pay and allowances). | [None.] |
 |  | 10:8687 (as applicable to pay and allowances). | [None.] |
 | 204(h) | 32:318 (as applicable to pay and allowances). | [None.] |
@@ -943,53 +943,53 @@ In subsection (i), the inclusion of the Coast Guard Reserve is based on the auth
 
 **Amendments**
 
-2025—Subsecs. (g)(1), (h)(1). Pub. L. 119–60 inserted “, or a member of the Space Force in space force active status not on sustained duty,” after “of a reserve component of a uniformed service”.
+2025—Subsecs. (g)(1), (h)(1). Pub. L. 119–60 inserted “, or a member of the Space Force in space force active status not on sustained duty,” after “of a reserve component of a uniformed service”.
 
 2013—Subsec. (c). Pub. L. 113–66 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A member of the National Guard who is called into Federal service for a period of 30 days or less is entitled to basic pay from the date when he appears at the place of company rendezvous. However, this subsection does not authorize any expenditure before arriving at the place of rendezvous that is not authorized by law to be paid after arrival at that place.”
 
 2002—Subsec. (i)(4)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-2001—Subsecs. (g)(1)(D), (h)(1)(D). Pub. L. 107–107 struck out “, if the site is outside reasonable commuting distance from the member’s residence” before semicolon.
+2001—Subsecs. (g)(1)(D), (h)(1)(D). Pub. L. 107–107 struck out “, if the site is outside reasonable commuting distance from the member’s residence” before semicolon.
 
-2000—Subsec. (g)(1)(E). Pub. L. 106–398, § 1 [[div. A], title VI, § 665(a)(1)], added subpar. (E).
+2000—Subsec. (g)(1)(E). Pub. L. 106–398, § 1 [[div. A], title VI, § 665(a)(1)], added subpar. (E).
 
-Subsec. (h)(1)(E). Pub. L. 106–398, § 1 [[div. A], title VI, § 665(a)(2)], added subpar. (E).
+Subsec. (h)(1)(E). Pub. L. 106–398, § 1 [[div. A], title VI, § 665(a)(2)], added subpar. (E).
 
 1997—Subsecs. (g)(1)(D), (h)(1)(D). Pub. L. 105–85 inserted “while remaining overnight immediately before the commencement of inactive-duty training, or” after “in line of duty”.
 
-1996—Subsec. (g)(1)(D). Pub. L. 104–106, § 702(c)(1), added subpar. (D).
+1996—Subsec. (g)(1)(D). Pub. L. 104–106, § 702(c)(1), added subpar. (D).
 
-Subsec. (h)(1)(D). Pub. L. 104–106, § 702(c)(2), added subpar. (D).
+Subsec. (h)(1)(D). Pub. L. 104–106, § 702(c)(2), added subpar. (D).
 
 1994—Subsec. (a)(2). Pub. L. 103–337 substituted “10302, 10305, 10502, or 12402” for “3021, 3496, 3541, 8021, 8496, or 8541”.
 
 1991—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
 
-1988—Subsec. (g). Pub. L. 100–456, § 631(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “A member of a reserve component of a uniformed service is entitled to the pay and allowances provided by law or regulation for a member of a regular component of a uniformed service of corresponding grade and length of service whenever such member—
+1988—Subsec. (g). Pub. L. 100–456, § 631(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “A member of a reserve component of a uniformed service is entitled to the pay and allowances provided by law or regulation for a member of a regular component of a uniformed service of corresponding grade and length of service whenever such member—
 
 “(1) is called or ordered to active duty for a period of more than 30 days; and
 
 “(2) is physically disabled in line of duty from injury, illness, or disease.”
 
-Subsec. (h). Pub. L. 100–456, § 631(a), amended subsec. (h) generally, substituting pars. (1) and (2) for former pars. (1) to (5).
+Subsec. (h). Pub. L. 100–456, § 631(a), amended subsec. (h) generally, substituting pars. (1) and (2) for former pars. (1) to (5).
 
-Subsecs. (i), (j). Pub. L. 100–456, § 631(b), added subsec. (i) and redesignated former subsec. (i) as (j).
+Subsecs. (i), (j). Pub. L. 100–456, § 631(b), added subsec. (i) and redesignated former subsec. (i) as (j).
 
 1986—Subsec. (a)(2). Pub. L. 99–433 substituted “3021” and “8021” for “3033” and “8033”, respectively.
 
-Subsec. (g). Pub. L. 99–661, § 604(b)(1), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “A member of the Army or the Air Force (other than of the Regular Army or the Regular Air Force) is entitled to the pay and allowances provided by law or regulation for a member of the Regular Army or the Regular Air Force, as the case may be, of corresponding grade and length of service, whenever—
+Subsec. (g). Pub. L. 99–661, § 604(b)(1), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “A member of the Army or the Air Force (other than of the Regular Army or the Regular Air Force) is entitled to the pay and allowances provided by law or regulation for a member of the Regular Army or the Regular Air Force, as the case may be, of corresponding grade and length of service, whenever—
 
 “(1) he is called or ordered to active duty (other than for training under section 270(b) of title 10) for a period of more than 30 days, and is disabled in line of duty from disease while so employed; or
 
 “(2) he is called or ordered to active duty, or to perform inactive-duty training, for any period of time, and is disabled in line of duty from injury while so employed.”
 
-Subsec. (h). Pub. L. 99–661, § 604(b)(1), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “A member of the National Guard is entitled to the pay and allowances provided by law or regulation for a member of the Regular Army or the Regular Air Force, as the case may be, of corresponding grade and length of service, whenever he is called or ordered to perform training under section 502, 503, 504, or 505 of title 32—
+Subsec. (h). Pub. L. 99–661, § 604(b)(1), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “A member of the National Guard is entitled to the pay and allowances provided by law or regulation for a member of the Regular Army or the Regular Air Force, as the case may be, of corresponding grade and length of service, whenever he is called or ordered to perform training under section 502, 503, 504, or 505 of title 32—
 
 “(1) for a period of more than 30 days, and is disabled in line of duty from disease while so employed; or
 
 “(2) for any period of time, and is disabled in line of duty from injury while so employed.”
 
-Subsecs. (i), (j). Pub. L. 99–661, § 604(b)(2), (3), redesignated subsec. (j) as (i) and struck out former subsec. (i) which read as follows: “A member of the Naval Reserve, Fleet Reserve, Marine Corps Reserve, Fleet Marine Corps Reserve, or Coast Guard Reserve is entitled to the pay and allowances provided by law or regulation for a member of the Regular Navy, Regular Marine Corps, or Regular Coast Guard, as the case may be, of corresponding grade and length of service, under the same conditions as those described in clauses (1) and (2) of subsection (g) of this section.”
+Subsecs. (i), (j). Pub. L. 99–661, § 604(b)(2), (3), redesignated subsec. (j) as (i) and struck out former subsec. (i) which read as follows: “A member of the Naval Reserve, Fleet Reserve, Marine Corps Reserve, Fleet Marine Corps Reserve, or Coast Guard Reserve is entitled to the pay and allowances provided by law or regulation for a member of the Regular Navy, Regular Marine Corps, or Regular Coast Guard, as the case may be, of corresponding grade and length of service, under the same conditions as those described in clauses (1) and (2) of subsection (g) of this section.”
 
 1983—Subsec. (j). Pub. L. 98–94 added subsec. (j).
 
@@ -1003,7 +1003,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–398, § 1 [[div. A], title VI, § 665(c)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–169, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to months beginning on or after the date of the enactment of this Act [Oct. 30, 2000].”
+Pub. L. 106–398, § 1 [[div. A], title VI, § 665(c)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–169, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to months beginning on or after the date of the enactment of this Act [Oct. 30, 2000].”
 
 **Effective Date of 1994 Amendment**
 
@@ -1011,7 +1011,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–456, div. A, title VI, § 631(d), Sept. 29, 1988, 102 Stat. 1985, provided that: “The amendments made by this section [amending this section and section 206 of this title] shall apply with respect to persons who, after the date of enactment of this Act [Sept. 29, 1988], incur or aggravate an injury, illness, or disease, or who die as the result of incurring or aggravating an injury, illness, or disease.”
+Pub. L. 100–456, div. A, title VI, § 631(d), Sept. 29, 1988, 102 Stat. 1985, provided that: “The amendments made by this section [amending this section and section 206 of this title] shall apply with respect to persons who, after the date of enactment of this Act [Sept. 29, 1988], incur or aggravate an injury, illness, or disease, or who die as the result of incurring or aggravating an injury, illness, or disease.”
 
 **Effective Date of 1983 Amendment**
 
@@ -1021,7 +1021,7 @@ Amendment by Pub. L. 98–94 applicable only in cases of injuries incurred or ag
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
 
-## § 205. Computation: service creditable
+## § 205. Computation: service creditable
 
 **(a)** Subject to subsections (b) and (c), for the purpose of computing the basic pay of a member of a uniformed service, his years of service are computed by adding—
 
@@ -1093,18 +1093,18 @@ Except for any period of active service described in clause (1) and except as pr
 
 **(f)** Notwithstanding subsection (a), the periods of service of a commissioned officer appointed under section 12203 of title 10 after receiving financial assistance under section 16401 of such title that are counted under this section may not include a period of service after January 1, 2000, that the officer performed concurrently as an enlisted member of the Marine Corps Platoon Leaders Class program and the Marine Corps Reserve, except that service after that date that the officer performed before commissioning (concurrently with the period of service as a member of the Marine Corps Platoon Leaders Class program) as an enlisted member on active duty or as a member of the Selected Reserve may be so counted.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 458; Pub. L. 88–647, title II, § 202(1), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–718, § 49(a)(1), (b), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 90–623, § 3(3), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 93–545, § 2, Dec. 26, 1974, 88 Stat. 1741; Pub. L. 96–342, title VIII, § 813(b)(3)(D), Sept. 8, 1980, 94 Stat. 1104; Pub. L. 96–513, title IV, § 402, title V, § 516(3), Dec. 12, 1980, 94 Stat. 2904, 2937; Pub. L. 98–525, title VI, § 607(a), Oct. 19, 1984, 98 Stat. 2538; Pub. L. 101–189, div. A, title V, § 501(c), Nov. 29, 1989, 103 Stat. 1435; Pub. L. 102–25, title VII, § 702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title V, § 517(b), Oct. 23, 1992, 106 Stat. 2407; Pub. L. 103–35, title II, § 204(a)(1), May 31, 1993, 107 Stat. 102; Pub. L. 103–337, div. A, title XVI, § 1676(b)(2), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–201, div. A, title V, § 507(b), Sept. 23, 1996, 110 Stat. 2512; Pub. L. 105–85, div. A, title X, § 1073(b), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 106–65, div. A, title V, § 551(c), Oct. 5, 1999, 113 Stat. 614; Pub. L. 106–398, § 1 [[div. A], title V, § 533(e)], Oct. 30, 2000, 114 Stat. 1654, 1654A–111; Pub. L. 109–163, div. A, title V, § 515(d)(1)(C), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 119–60, div. A, title VI, § 601(b)(3), Dec. 18, 2025, 139 Stat. 901.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 458; Pub. L. 88–647, title II, § 202(1), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–718, § 49(a)(1), (b), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 90–623, § 3(3), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 93–545, § 2, Dec. 26, 1974, 88 Stat. 1741; Pub. L. 96–342, title VIII, § 813(b)(3)(D), Sept. 8, 1980, 94 Stat. 1104; Pub. L. 96–513, title IV, § 402, title V, § 516(3), Dec. 12, 1980, 94 Stat. 2904, 2937; Pub. L. 98–525, title VI, § 607(a), Oct. 19, 1984, 98 Stat. 2538; Pub. L. 101–189, div. A, title V, § 501(c), Nov. 29, 1989, 103 Stat. 1435; Pub. L. 102–25, title VII, § 702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title V, § 517(b), Oct. 23, 1992, 106 Stat. 2407; Pub. L. 103–35, title II, § 204(a)(1), May 31, 1993, 107 Stat. 102; Pub. L. 103–337, div. A, title XVI, § 1676(b)(2), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–201, div. A, title V, § 507(b), Sept. 23, 1996, 110 Stat. 2512; Pub. L. 105–85, div. A, title X, § 1073(b), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 106–65, div. A, title V, § 551(c), Oct. 5, 1999, 113 Stat. 614; Pub. L. 106–398, § 1 [[div. A], title V, § 533(e)], Oct. 30, 2000, 114 Stat. 1654, 1654A–111; Pub. L. 109–163, div. A, title V, § 515(d)(1)(C), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 119–60, div. A, title VI, § 601(b)(3), Dec. 18, 2025, 139 Stat. 901.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 205(a) | 37:233(a) (less words after 2d semicolon of clause (7)). 37:233(b). | Oct. 12, 1949, ch. 681, § 202 (less proviso of (d)), 63 Stat. 807; Apr. 30, 1956, ch. 223, § 2, 70 Stat. 121. |
+| 205(a) | 37:233(a) (less words after 2d semicolon of clause (7)). 37:233(b). | Oct. 12, 1949, ch. 681, § 202 (less proviso of (d)), 63 Stat. 807; Apr. 30, 1956, ch. 223, § 2, 70 Stat. 121. |
 | 205(b) | 37:233(a)(7) (words between 2d and 3d semicolons). 37:233(d) (less proviso). |  |
 | 205(c) | 37:233(a)(7) (words after 3d semicolon). |  |
 | 205(d) | 37:233(c). |  |
 
-In subsection (a), the introductory clause is substituted for section 233(a) (introductory clause) of existing title 37. In clauses (1) and (2), the word “officer” is substituted for the words “commissioned officer, commissioned warrant officer, warrant officer” to conform to the definition of “officer” in section 101(11) of this revised title. In clause (1), the words “Regular or Reserve component” are omitted, since, under the definition of “reserve component” in section 102(k) of the source statute, those words are defined to include members without component status. Together, these categories compose the entire structure of any uniformed service. In clause (2)(F), the words “a reserve component of a uniformed service” are substituted for the words “the National Guard of the United States, or in the Organized Reserve Corps, or in the Officers’ Reserve Corps, or in the Enlisted Reserve Corps, or in the Medical Reserve Corps, or in the Medical Reserve Corps of the Navy, or in the Dental Reserve Corps of the Navy . . . or in the Naval Reserve . . . or in the Air National Guard of the United States, or in the Air Force Reserve, or in the officers’ section of the Air Force Reserve, or in the enlisted section of the Air Force Reserve, or in the Air Corps Reserve . . . or in the Marine Corps Reserve, or in the Coast Guard Reserve, or in the Reserve Corps of the Public Health Service,” since all of the named organizations were or are reserve components. In clause (4), the words “as it existed at any time before April 16, 1947” are inserted for clarity, since the reference is intended to apply to the corps established by law before April 16, 1947. Service in the Army Nurse Corps or Navy Nurse Corps now existing would be included under clause (1) or (2), since there is now no legal distinction between the service of nurses and that of other members of the Army and Navy. In clause (6), the date “January 1, 1961,” is substituted for the words “the effective date of this section,” to reflect laws enacted after that effective date which authorized certain service to be credited for pay purposes. See, for example, Public Law 86–142. Clause (9) is substituted for section 233(b) (less proviso) of existing title 37. The last sentence is substituted for section 233(b) (proviso) of existing title 37.
+In subsection (a), the introductory clause is substituted for section 233(a) (introductory clause) of existing title 37. In clauses (1) and (2), the word “officer” is substituted for the words “commissioned officer, commissioned warrant officer, warrant officer” to conform to the definition of “officer” in section 101(11) of this revised title. In clause (1), the words “Regular or Reserve component” are omitted, since, under the definition of “reserve component” in section 102(k) of the source statute, those words are defined to include members without component status. Together, these categories compose the entire structure of any uniformed service. In clause (2)(F), the words “a reserve component of a uniformed service” are substituted for the words “the National Guard of the United States, or in the Organized Reserve Corps, or in the Officers’ Reserve Corps, or in the Enlisted Reserve Corps, or in the Medical Reserve Corps, or in the Medical Reserve Corps of the Navy, or in the Dental Reserve Corps of the Navy . . . or in the Naval Reserve . . . or in the Air National Guard of the United States, or in the Air Force Reserve, or in the officers’ section of the Air Force Reserve, or in the enlisted section of the Air Force Reserve, or in the Air Corps Reserve . . . or in the Marine Corps Reserve, or in the Coast Guard Reserve, or in the Reserve Corps of the Public Health Service,” since all of the named organizations were or are reserve components. In clause (4), the words “as it existed at any time before April 16, 1947” are inserted for clarity, since the reference is intended to apply to the corps established by law before April 16, 1947. Service in the Army Nurse Corps or Navy Nurse Corps now existing would be included under clause (1) or (2), since there is now no legal distinction between the service of nurses and that of other members of the Army and Navy. In clause (6), the date “January 1, 1961,” is substituted for the words “the effective date of this section,” to reflect laws enacted after that effective date which authorized certain service to be credited for pay purposes. See, for example, Public Law 86–142. Clause (9) is substituted for section 233(b) (less proviso) of existing title 37. The last sentence is substituted for section 233(b) (proviso) of existing title 37.
 
 In subsection (b), the first 33 words of section 233(d) of existing title 37 are omitted as covered by the words “are computed by adding” in subsection (a). The words “for any reason,” in section 233(d) of existing title 37, are omitted as surplusage.
 
@@ -1126,9 +1126,9 @@ In subsection (c)(3), the words “chapter 67 of title 10” are substituted for
 
 1996—Subsec. (d). Pub. L. 104–201 substituted “for service that the officer performed on or after August 1, 1979.” for “that service after July 31, 1990, that the officer performed while serving on active duty”.
 
-1994—Subsec. (e)(2)(A). Pub. L. 103–337, § 1676(b)(2)(A), substituted “12103(b) or 12103(d)” for “511(b) or 511(d)”.
+1994—Subsec. (e)(2)(A). Pub. L. 103–337, § 1676(b)(2)(A), substituted “12103(b) or 12103(d)” for “511(b) or 511(d)”.
 
-Subsec. (e)(2)(B). Pub. L. 103–337, § 1676(b)(2)(B), substituted “chapter 1209” for “chapter 39”.
+Subsec. (e)(2)(B). Pub. L. 103–337, § 1676(b)(2)(B), substituted “chapter 1209” for “chapter 39”.
 
 1993—Subsec. (a)(7)(B). Pub. L. 103–35 substituted “the Department of Veterans Affairs” for “the Veterans’ Administration”.
 
@@ -1146,15 +1146,15 @@ may not be counted under this section.”
 
 1984—Subsec. (e). Pub. L. 98–525 added subsec. (e).
 
-1980—Subsec. (a). Pub. L. 96–513, § 402(a), struck out in introductory text reference to subsec. (d) of this section, struck out cls. (7) and (8), which provided for the addition of four years for medical and dental officers and one year in addition to the four years for a medical officer who has completed one year of medical internship or the equivalent, respectively, redesignated cl. (9) as (7), and in text following cl. (7), as so redesignated, substituted “subsections (b), (c), and (d) of section 1402 and subsections (b), (c), and (d) of section 1402a” for “section 1402(b)–(d) and section 1402a(a)–(d)”, and “clauses (2) through (7)” for “clauses (2)–(9)”.
+1980—Subsec. (a). Pub. L. 96–513, § 402(a), struck out in introductory text reference to subsec. (d) of this section, struck out cls. (7) and (8), which provided for the addition of four years for medical and dental officers and one year in addition to the four years for a medical officer who has completed one year of medical internship or the equivalent, respectively, redesignated cl. (9) as (7), and in text following cl. (7), as so redesignated, substituted “subsections (b), (c), and (d) of section 1402 and subsections (b), (c), and (d) of section 1402a” for “section 1402(b)–(d) and section 1402a(a)–(d)”, and “clauses (2) through (7)” for “clauses (2)–(9)”.
 
-Pub. L. 96–513, § 516(3), substituted in cl. (5) “National Oceanic and Atmospheric Administration” for “Environmental Science Service Administration” and in provision following cl. (9) substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Service Administration” and inserted “Environmental Science Service Administration” before “Coast and Geodetic Survey”.
+Pub. L. 96–513, § 516(3), substituted in cl. (5) “National Oceanic and Atmospheric Administration” for “Environmental Science Service Administration” and in provision following cl. (9) substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Service Administration” and inserted “Environmental Science Service Administration” before “Coast and Geodetic Survey”.
 
 Pub. L. 96–342 inserted reference to section 1402a(a)–(d) of title 10.
 
-Subsec. (b). Pub. L. 96–513, § 402(b), struck out provisions relating to reduction of amount of service authorized to be credited under cl. (7) or (8) of subsec. (a) of this section.
+Subsec. (b). Pub. L. 96–513, § 402(b), struck out provisions relating to reduction of amount of service authorized to be credited under cl. (7) or (8) of subsec. (a) of this section.
 
-Subsecs. (c) to (e). Pub. L. 96–513, § 402(c), redesignated subsecs. (d) and (e) as (c) and (d), respectively. Former subsec. (c), relating to limitations on service credited under cl. (7) or (8) of subsec. (a) of this section, was struck out.
+Subsecs. (c) to (e). Pub. L. 96–513, § 402(c), redesignated subsecs. (d) and (e) as (c) and (d), respectively. Former subsec. (c), relating to limitations on service credited under cl. (7) or (8) of subsec. (a) of this section, was struck out.
 
 1974—Subsec. (a)(1). Pub. L. 93–545 inserted “aviation midshipman,” after “flight officer,”.
 
@@ -1172,7 +1172,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–525, title VI, § 607(b), Oct. 19, 1984, 98 Stat. 2538, provided that: “The amendment made by subsection (a) [amending this section] shall apply to persons who enlist under section 511 [now 12103] of title 10, United States Code, on or after the first day of the third calendar month which begins after the date of the enactment of this Act [Oct. 19, 1984].”
+Pub. L. 98–525, title VI, § 607(b), Oct. 19, 1984, 98 Stat. 2538, provided that: “The amendment made by subsection (a) [amending this section] shall apply to persons who enlist under section 511 [now 12103] of title 10, United States Code, on or after the first day of the third calendar month which begins after the date of the enactment of this Act [Oct. 19, 1984].”
 
 **Effective Date of 1980 Amendment**
 
@@ -1186,7 +1186,7 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 **Inclusion of Senior Enlisted Advisor for the Chairman of the Joint Chiefs of Staff Among Senior Enlisted Members of the Armed Forces**
 
-Pub. L. 109–163, div. A, title VI, § 685(a), Jan. 6, 2006, 119 Stat. 3325, as amended by Pub. L. 109–364, div. A, title X, § 1071(e)(5), Oct. 17, 2006, 120 Stat. 2401; Pub. L. 113–291, div. A, title VI, § 603(a)(2)(A), Dec. 19, 2014, 128 Stat. 3398, provided that:
+Pub. L. 109–163, div. A, title VI, § 685(a), Jan. 6, 2006, 119 Stat. 3325, as amended by Pub. L. 109–364, div. A, title X, § 1071(e)(5), Oct. 17, 2006, 120 Stat. 2401; Pub. L. 113–291, div. A, title VI, § 603(a)(2)(A), Dec. 19, 2014, 128 Stat. 3398, provided that:
 
 > **“(1) Equal treatment.—** The rate of basic pay for an enlisted member in the grade E–9 while serving as Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff or as Senior Enlisted Advisor to the Chief of the National Guard Bureau shall be the same as the rate of basic pay for an enlisted member in that grade while serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, or Master Chief Petty Officer of the Coast Guard, regardless of cumulative years of service computed under section 205 of title 37, United States Code.
 
@@ -1202,9 +1202,9 @@ No increase in pay or retired or retainer pay to accrue for periods before Sept.
 
 **Transition Provisions Under Defense Officer Personnel Management Act**
 
-For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513, and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. (particularly § 625) of Pub. L. 96–513, set out as a note under section 611 of Title 10, Armed Forces.
+For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513, and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. (particularly § 625) of Pub. L. 96–513, set out as a note under section 611 of Title 10, Armed Forces.
 
-## § 206. Reserves; members of National Guard; members of the Space Force: inactive-duty training
+## § 206. Reserves; members of National Guard; members of the Space Force: inactive-duty training
 
 **(a)** Under regulations prescribed by the Secretary concerned, and to the extent provided for by appropriations, a member of the National Guard, a member of a reserve component of a uniformed service, or a member of the Space Force who is not entitled to basic pay under section 204 of this title, is entitled to compensation, at the rate of <sup>1</sup>⁄<sub>30</sub> of the basic pay authorized for a member of a uniformed service of a corresponding grade entitled to basic pay—
 
@@ -1240,9 +1240,9 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
 **(1)** Except as provided in paragraph (2), this section does not authorize compensation for work or study performed by a member of a reserve component, by a member of the Space Force, or by a member of the National Guard while not in Federal service in connection with correspondence courses of a uniformed service.
 
-**(2)** A member of the Selected Reserve of the Ready Reserve or the Space Force, 1
+**(2)** A member of the Selected Reserve of the Ready Reserve or the Space Force, 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 may be paid compensation under this section at a rate and under terms determined by the Secretary of Defense, but not to exceed the rate otherwise applicable to the member under subsection (a), upon the member’s successful completion of a course of instruction undertaken by the member using electronic-based distributed learning methodologies to accomplish training requirements related to unit readiness or mobilization, as directed for the member by the Secretary concerned. The compensation may be paid regardless of whether the course of instruction was under the direct control of the Secretary concerned or included the presence of an instructor.
 
@@ -1256,13 +1256,13 @@ may be paid compensation under this section at a rate and under terms determined
 
 **(f)** A member of the Individual Ready Reserve is not entitled to compensation under this section for participation in screening for which the member is paid a stipend under section 433a of this title.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 460; Pub. L. 98–525, title XIV, § 1402(a), Oct. 19, 1984, 98 Stat. 2620; Pub. L. 99–661, div. A, title VI, § 604(c), Nov. 14, 1986, 100 Stat. 3876; Pub. L. 100–456, div. A, title VI, § 631(c), Sept. 29, 1988, 102 Stat. 1985; Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VII, § 702(d), Feb. 10, 1996, 110 Stat. 371; Pub. L. 105–85, div. A, title V, § 513(g), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 107–107, div. A, title V, § 513(e), title VI, § 603(a), Dec. 28, 2001, 115 Stat. 1093, 1133; Pub. L. 109–163, div. A, title VI, § 604, Jan. 6, 2006, 119 Stat. 3287; Pub. L. 109–364, div. A, title VI, § 607, Oct. 17, 2006, 120 Stat. 2247; Pub. L. 110–181, div. A, title VI, § 633(b), Jan. 28, 2008, 122 Stat. 155; Pub. L. 116–283, div. A, title VI, § 602(a), Jan. 1, 2021, 134 Stat. 3670; Pub. L. 118–31, div. A, title VI, § 601(b), Dec. 22, 2023, 137 Stat. 288; Pub. L. 119–60, div. A, title VI, § 601(b)(4), div. G, title LXXII, § 7225(c), Dec. 18, 2025, 139 Stat. 902, 1705.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 460; Pub. L. 98–525, title XIV, § 1402(a), Oct. 19, 1984, 98 Stat. 2620; Pub. L. 99–661, div. A, title VI, § 604(c), Nov. 14, 1986, 100 Stat. 3876; Pub. L. 100–456, div. A, title VI, § 631(c), Sept. 29, 1988, 102 Stat. 1985; Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VII, § 702(d), Feb. 10, 1996, 110 Stat. 371; Pub. L. 105–85, div. A, title V, § 513(g), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 107–107, div. A, title V, § 513(e), title VI, § 603(a), Dec. 28, 2001, 115 Stat. 1093, 1133; Pub. L. 109–163, div. A, title VI, § 604, Jan. 6, 2006, 119 Stat. 3287; Pub. L. 109–364, div. A, title VI, § 607, Oct. 17, 2006, 120 Stat. 2247; Pub. L. 110–181, div. A, title VI, § 633(b), Jan. 28, 2008, 122 Stat. 155; Pub. L. 116–283, div. A, title VI, § 602(a), Jan. 1, 2021, 134 Stat. 3670; Pub. L. 118–31, div. A, title VI, § 601(b), Dec. 22, 2023, 137 Stat. 288; Pub. L. 119–60, div. A, title VI, § 601(b)(4), div. G, title LXXII, § 7225(c), Dec. 18, 2025, 139 Stat. 902, 1705.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 206(a) | 37:301(a) (less 45 words before proviso and proviso). 37:301(e) (as applicable to basic pay). | Oct. 12, 1949, ch. 681, § 501(a) (less 45 words before proviso), (b) (less 1st sentence), (e) (as applicable to basic pay), 63 Stat. 825, 827; Aug. 10, 1956, ch. 1041, § 20(e), (f), 70A Stat. 629; June 30, 1960, Pub. L. 86–559, § 8, 74 Stat. 282. |
+| 206(a) | 37:301(a) (less 45 words before proviso and proviso). 37:301(e) (as applicable to basic pay). | Oct. 12, 1949, ch. 681, § 501(a) (less 45 words before proviso), (b) (less 1st sentence), (e) (as applicable to basic pay), 63 Stat. 825, 827; Aug. 10, 1956, ch. 1041, § 20(e), (f), 70A Stat. 629; June 30, 1960, Pub. L. 86–559, § 8, 74 Stat. 282. |
 | 206(b) | 37:301(a) (proviso). |  |
 | 206(c) | 32:303(c). | [None.] |
 | 206(d) | 37:301(b) (less 1st sentence). |  |
@@ -1277,33 +1277,33 @@ In subsection (b), the words “National Guard or reserve components” are subs
 
 Provisions similar to those comprising subsec. (e) of this section were contained in the following appropriation acts:
 
-Pub. L. 98–473, title I, § 101(h) [title VIII, § 8020], Oct. 12, 1984, 98 Stat. 1904, 1927.
+Pub. L. 98–473, title I, § 101(h) [title VIII, § 8020], Oct. 12, 1984, 98 Stat. 1904, 1927.
 
-Pub. L. 98–212, title VII, § 722, Dec. 8, 1983, 97 Stat. 1442.
+Pub. L. 98–212, title VII, § 722, Dec. 8, 1983, 97 Stat. 1442.
 
-Pub. L. 97–377, title I, § 101(c) [title VII, § 725], Dec. 21, 1982, 96 Stat. 1833, 1855.
+Pub. L. 97–377, title I, § 101(c) [title VII, § 725], Dec. 21, 1982, 96 Stat. 1833, 1855.
 
-Pub. L. 97–114, title VII, § 725, Dec. 29, 1981, 95 Stat. 1583.
+Pub. L. 97–114, title VII, § 725, Dec. 29, 1981, 95 Stat. 1583.
 
-Pub. L. 96–527, title VII, § 726, Dec. 15, 1980, 94 Stat. 3086.
+Pub. L. 96–527, title VII, § 726, Dec. 15, 1980, 94 Stat. 3086.
 
-Pub. L. 96–154, title VII, § 726, Dec. 21, 1979, 93 Stat. 1157.
+Pub. L. 96–154, title VII, § 726, Dec. 21, 1979, 93 Stat. 1157.
 
-Pub. L. 95–457, title VIII, § 826, Oct. 13, 1978, 92 Stat. 1248.
+Pub. L. 95–457, title VIII, § 826, Oct. 13, 1978, 92 Stat. 1248.
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 601(b)(4)(A), inserted “; members of the Space Force” after “National Guard” in section catchline. Catchline text was editorially conformed to the style used in this title.
+2025—Pub. L. 119–60, § 601(b)(4)(A), inserted “; members of the Space Force” after “National Guard” in section catchline. Catchline text was editorially conformed to the style used in this title.
 
-Subsec. (a). Pub. L. 119–60, § 601(b)(4)(B), in introductory provisions, substituted “Guard, a” for “Guard or a” and inserted “, or a member of the Space Force” after “uniformed service” the first place it appears.
+Subsec. (a). Pub. L. 119–60, § 601(b)(4)(B), in introductory provisions, substituted “Guard, a” for “Guard or a” and inserted “, or a member of the Space Force” after “uniformed service” the first place it appears.
 
-Subsec. (a)(4). Pub. L. 119–60, § 7225(c), inserted “or family leave under section 2512 of title 14” before period at end.
+Subsec. (a)(4). Pub. L. 119–60, § 7225(c), inserted “or family leave under section 2512 of title 14” before period at end.
 
-Subsec. (d)(1). Pub. L. 119–60, § 601(b)(4)(C)(i), inserted “, by a member of the Space Force,” after “reserve component”.
+Subsec. (d)(1). Pub. L. 119–60, § 601(b)(4)(C)(i), inserted “, by a member of the Space Force,” after “reserve component”.
 
-Subsec. (d)(2). Pub. L. 119–60, § 601(b)(4)(C)(ii), inserted “or the Space Force,” after “Ready Reserve”.
+Subsec. (d)(2). Pub. L. 119–60, § 601(b)(4)(C)(ii), inserted “or the Space Force,” after “Ready Reserve”.
 
-Subsec. (e). Pub. L. 119–60, § 601(b)(4)(D), substituted “Guard, a” for “Guard or of a” and inserted “, or the Space Force” after “uniformed services”.
+Subsec. (e). Pub. L. 119–60, § 601(b)(4)(D), substituted “Guard, a” for “Guard or of a” and inserted “, or the Space Force” after “uniformed services”.
 
 2023—Subsec. (a)(4). Pub. L. 118–31 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “for each of six days for each period during which the member is on maternity leave.”
 
@@ -1315,9 +1315,9 @@ Subsec. (e). Pub. L. 119–60, § 601(b)(4)(D), substituted “Guard, a” for
 
 Subsec. (d)(3). Pub. L. 109–364 added par. (3).
 
-2001—Subsec. (a)(3)(C). Pub. L. 107–107, § 513(e), struck out “, if the site is outside reasonable commuting distance from the member’s residence” before period at end.
+2001—Subsec. (a)(3)(C). Pub. L. 107–107, § 513(e), struck out “, if the site is outside reasonable commuting distance from the member’s residence” before period at end.
 
-Subsec. (d). Pub. L. 107–107, § 603(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), this section” for “This section” and “a uniformed service” for “an armed force”, and added par. (2).
+Subsec. (d). Pub. L. 107–107, § 603(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), this section” for “This section” and “a uniformed service” for “an armed force”, and added par. (2).
 
 1997—Subsec. (a)(3)(C). Pub. L. 105–85 inserted “while remaining overnight immediately before the commencement of inactive-duty training, or” after “in line of duty”.
 
@@ -1349,13 +1349,13 @@ Amendment by Pub. L. 100–456 applicable with respect to persons who, after Sep
 
 Amendment by Pub. L. 98–525 effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as a note under section 520b of Title 10, Armed Forces.
 
-## § 206a. Pay of members of reserve components for inactive-duty training to obtain or maintain an aeronautical rating or designation
+## § 206a. Pay of members of reserve components for inactive-duty training to obtain or maintain an aeronautical rating or designation
 
 Under regulations prescribed by the Secretary concerned, a member of the National Guard or a member of a reserve component of a uniformed service who is receiving aviation incentive pay under section 334(a) of this title and is entitled to compensation under section 206 of this title is entitled to such compensation for a number of periods of inactive-duty training each month sufficient for the member to obtain or maintain an aeronautical rating or designation.
 
-(Added Pub. L. 118–31, div. A, title VI, § 602(a), Dec. 22, 2023, 137 Stat. 289.)
+(Added Pub. L. 118–31, div. A, title VI, § 602(a), Dec. 22, 2023, 137 Stat. 289.)
 
-## § 207. Band leaders
+## § 207. Band leaders
 
 **(a)** The leader of the Army Band is entitled to the basic pay of a captain in the Army.
 
@@ -1367,7 +1367,7 @@ Under regulations prescribed by the Secretary concerned, a member of the Nationa
 
 **(e)** The director of the Coast Guard Band is entitled to the basic pay of an officer in the grade in which he is serving. However, his basic pay may not be less than that to which he was entitled at the time of his appointment as director.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 460; Pub. L. 89–189, § 2, Sept. 17, 1965, 79 Stat. 820; Pub. L. 95–551, § 3(b)(1), Oct. 30, 1978, 92 Stat. 2069; Pub. L. 115–232, div. A, title VIII, § 809(m)(1), Aug. 13, 2018, 132 Stat. 1843.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 460; Pub. L. 89–189, § 2, Sept. 17, 1965, 79 Stat. 820; Pub. L. 95–551, § 3(b)(1), Oct. 30, 1978, 92 Stat. 2069; Pub. L. 115–232, div. A, title VIII, § 809(m)(1), Aug. 13, 2018, 132 Stat. 1843.)
 
 **Historical and Revision Notes**
 
@@ -1411,7 +1411,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## [§ 208. Repealed. Pub. L. 91–482, § 1(b), Oct. 21, 1970, 84 Stat. 1082]
+## [§ 208. Repealed. Pub. L. 91–482, § 1(b), Oct. 21, 1970, 84 Stat. 1082]
 
 Section, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 461, provided that an officer furloughed under section 6406 of Title 10, Armed Forces, was entitled to pay at the rate of one-half of the basic pay to which he was entitled at the time of being furloughed.
 
@@ -1419,9 +1419,9 @@ Section, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 461, provided that an officer
 
 **Pension Continuation Provision**
 
-Pub. L. 91–482, § 3, Oct. 21, 1970, 84 Stat. 1082, provided that: “Notwithstanding the first section of this Act [repealing this section and sections 4539, 4623, 5981, 6159, and 6406 of Title 10, Armed Forces], a person who is entitled to a pension under [former] section 6159 of title 10, United States Code, on the day before the date of enactment of this Act [Oct. 21, 1970] shall continue to be entitled to that pension on and after that date of enactment.”
+Pub. L. 91–482, § 3, Oct. 21, 1970, 84 Stat. 1082, provided that: “Notwithstanding the first section of this Act [repealing this section and sections 4539, 4623, 5981, 6159, and 6406 of Title 10, Armed Forces], a person who is entitled to a pension under [former] section 6159 of title 10, United States Code, on the day before the date of enactment of this Act [Oct. 21, 1970] shall continue to be entitled to that pension on and after that date of enactment.”
 
-## § 209. Members of precommissioning programs
+## § 209. Members of precommissioning programs
 
 **(a) Senior ROTC Members in Advanced Training.—**
 
@@ -1439,7 +1439,7 @@ Pub. L. 91–482, § 3, Oct. 21, 1970, 84 Stat. 1082, provided that: “Notwit
 
 **(e) Members of Marine Corps Officer Candidate Program.—** Except when serving on active duty, a member who is enrolled in a Marine Corps officer candidate program which requires a baccalaureate degree as a prerequisite to being commissioned as an officer and who is not enrolled in a program established under chapter 103 of title 10 or an academy established under chapter 403, 603, or 903 of title 10 may be paid a subsistence allowance at a monthly rate prescribed under subsection (a) for a member of the Senior Reserve Officers’ Training Corps who is selected for advanced training under section 2104 of title 10.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 461; Pub. L. 88–647, title II, § 202(2), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–51, § 3, June 28, 1965, 79 Stat. 173; Pub. L. 89–718, § 51, Nov. 2, 1966, 80 Stat. 1121; Pub. L. 92–171, § 1, Nov. 24, 1971, 85 Stat. 490; Pub. L. 95–79, title III, § 302(a)(3), July 30, 1977, 91 Stat. 326; Pub. L. 96–342, title VIII, § 811(a), Sept. 8, 1980, 94 Stat. 1098; Pub. L. 96–513, title V, § 516(4), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, § 8, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 98–94, title X, § 1003(a)(4), Sept. 24, 1983, 97 Stat. 656; Pub. L. 100–456, div. A, title VI, § 633(d), Sept. 29, 1988, 102 Stat. 1987; Pub. L. 101–189, div. A, title VI, § 653(d), Nov. 29, 1989, 103 Stat. 1462; Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, § 603(a), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 106–65, div. A, title V, § 546(a), Oct. 5, 1999, 113 Stat. 608; Pub. L. 106–398, § 1 [[div. A], title VI, § 612(b), (c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–150; Pub. L. 107–107, div. A, title V, § 535(b), Dec. 28, 2001, 115 Stat. 1107; Pub. L. 107–314, div. A, title X, § 1062(g)(2), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 108–136, div. A, title V, § 523(a), Nov. 24, 2003, 117 Stat. 1463; Pub. L. 114–328, div. A, title X, § 1081(b)(1)(B), Dec. 23, 2016, 130 Stat. 2418.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 461; Pub. L. 88–647, title II, § 202(2), Oct. 13, 1964, 78 Stat. 1070; Pub. L. 89–51, § 3, June 28, 1965, 79 Stat. 173; Pub. L. 89–718, § 51, Nov. 2, 1966, 80 Stat. 1121; Pub. L. 92–171, § 1, Nov. 24, 1971, 85 Stat. 490; Pub. L. 95–79, title III, § 302(a)(3), July 30, 1977, 91 Stat. 326; Pub. L. 96–342, title VIII, § 811(a), Sept. 8, 1980, 94 Stat. 1098; Pub. L. 96–513, title V, § 516(4), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, § 8, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 98–94, title X, § 1003(a)(4), Sept. 24, 1983, 97 Stat. 656; Pub. L. 100–456, div. A, title VI, § 633(d), Sept. 29, 1988, 102 Stat. 1987; Pub. L. 101–189, div. A, title VI, § 653(d), Nov. 29, 1989, 103 Stat. 1462; Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, § 603(a), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 106–65, div. A, title V, § 546(a), Oct. 5, 1999, 113 Stat. 608; Pub. L. 106–398, § 1 [[div. A], title VI, § 612(b), (c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–150; Pub. L. 107–107, div. A, title V, § 535(b), Dec. 28, 2001, 115 Stat. 1107; Pub. L. 107–314, div. A, title X, § 1062(g)(2), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 108–136, div. A, title V, § 523(a), Nov. 24, 2003, 117 Stat. 1463; Pub. L. 114–328, div. A, title X, § 1081(b)(1)(B), Dec. 23, 2016, 130 Stat. 2418.)
 
 **Historical and Revision Notes**
 
@@ -1457,19 +1457,19 @@ Pub. L. 91–482, § 3, Oct. 21, 1970, 84 Stat. 1082, provided that: “Notwit
 
 2003—Subsecs. (c) to (e). Pub. L. 108–136 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-2002—Subsec. (d). Pub. L. 107–314 amended Pub. L. 106–398, § 1 [[div. A], title VI, § 612(c)(4)(B)]. See 2000 Amendment note below.
+2002—Subsec. (d). Pub. L. 107–314 amended Pub. L. 106–398, § 1 [[div. A], title VI, § 612(c)(4)(B)]. See 2000 Amendment note below.
 
-2001—Subsec. (c). Pub. L. 107–107 inserted before period at end “, except that the rate for a cadet or midshipman who is a member of the regular component of an armed force shall be the rate of basic pay applicable to the member under section 203 of this title”.
+2001—Subsec. (c). Pub. L. 107–107 inserted before period at end “, except that the rate for a cadet or midshipman who is a member of the regular component of an armed force shall be the rate of basic pay applicable to the member under section 203 of this title”.
 
-2000—Subsec. (a). Pub. L. 106–398, § 1 [[div. A], title VI, § 612(b), (c)(1)], inserted heading, designated first sentence as par. (1), substituted “monthly subsistence allowance at a rate prescribed under paragraph (2)” for “subsistence allowance of $200 a month”, added par. (2), designated last sentence as par. (3), and substituted “A subsistence” for “Subsistence”.
+2000—Subsec. (a). Pub. L. 106–398, § 1 [[div. A], title VI, § 612(b), (c)(1)], inserted heading, designated first sentence as par. (1), substituted “monthly subsistence allowance at a rate prescribed under paragraph (2)” for “subsistence allowance of $200 a month”, added par. (2), designated last sentence as par. (3), and substituted “A subsistence” for “Subsistence”.
 
-Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title VI, § 612(c)(2)], inserted heading and substituted “at a rate prescribed under subsection (a)” for “in the amount provided in subsection (a)” in text.
+Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title VI, § 612(c)(2)], inserted heading and substituted “at a rate prescribed under subsection (a)” for “in the amount provided in subsection (a)” in text.
 
-Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title VI, § 612(c)(3)], inserted heading.
+Subsec. (c). Pub. L. 106–398, § 1 [[div. A], title VI, § 612(c)(3)], inserted heading.
 
-Subsec. (d). Pub. L. 106–398, § 1 [[div. A], title VI, § 612(c)(4)(B)], as amended by Pub. L. 107–314, substituted “a monthly rate prescribed under subsection (a)” for “the same rate as that prescribed by subsection (a)”.
+Subsec. (d). Pub. L. 106–398, § 1 [[div. A], title VI, § 612(c)(4)(B)], as amended by Pub. L. 107–314, substituted “a monthly rate prescribed under subsection (a)” for “the same rate as that prescribed by subsection (a)”.
 
-Pub. L. 106–398, § 1 [[div. A], title VI, § 612(c)(4)(A)], inserted heading.
+Pub. L. 106–398, § 1 [[div. A], title VI, § 612(c)(4)(A)], inserted heading.
 
 1999—Subsec. (a). Pub. L. 106–65 substituted “$200 a month” for “$150 a month”.
 
@@ -1489,17 +1489,17 @@ Subsec. (d). Pub. L. 96–579 struck out par. (1) designation and par. (2) prohi
 
 Pub. L. 96–342 added subsec. (d).
 
-1977—Pub. L. 95–79, § 302(a)(3)(B), substituted “Members of precommissioning programs” for “Members of Senior Reserve Officers’ Training Corps” in section catchline.
+1977—Pub. L. 95–79, § 302(a)(3)(B), substituted “Members of precommissioning programs” for “Members of Senior Reserve Officers’ Training Corps” in section catchline.
 
-Subsec. (c). Pub. L. 95–79, § 302(a)(3)(A), substituted provisions authorizing rates of pay for cadets and midshipmen in the Senior Reserve Officers’ Training Corps and applicants for membership in the Corps to be computed under section 203(c) of this title, for provisions authorizing rates of pay for members of the Senior Reserve Officers’ Training Corps to be computed under section 201(c) of this title and for applicants for membership in the Corps to be computed under section 203 of this title for enlisted members in pay grade E–1.
+Subsec. (c). Pub. L. 95–79, § 302(a)(3)(A), substituted provisions authorizing rates of pay for cadets and midshipmen in the Senior Reserve Officers’ Training Corps and applicants for membership in the Corps to be computed under section 203(c) of this title, for provisions authorizing rates of pay for members of the Senior Reserve Officers’ Training Corps to be computed under section 201(c) of this title and for applicants for membership in the Corps to be computed under section 203 of this title for enlisted members in pay grade E–1.
 
-1971—Subsec. (a). Pub. L. 92–171, § 1(1), substituted “a subsistence allowance of $100 a month” for “subsistence allowance at the rate of not less than $40 per month or more than $50 per month”.
+1971—Subsec. (a). Pub. L. 92–171, § 1(1), substituted “a subsistence allowance of $100 a month” for “subsistence allowance at the rate of not less than $40 per month or more than $50 per month”.
 
-Subsec. (b). Pub. L. 92–171, § 1(2), substituted “a monthly subsistence allowance in the amount provided in subsection (a) of this section. A member enrolled in the first two years of a four-year program is entitled to receive subsistence for a maximum of twenty months. A member enrolled in the advanced course is entitled to subsistence as prescribed for a member enrolled under section 2104 of title 10 as prescribed in subsection (a) of this section.” for “subsistence allowance at the rate of $50 a month beginning on the day that he starts his first term of college work under that section and ending upon the completion of his instruction under that section, but not for more than four years.”
+Subsec. (b). Pub. L. 92–171, § 1(2), substituted “a monthly subsistence allowance in the amount provided in subsection (a) of this section. A member enrolled in the first two years of a four-year program is entitled to receive subsistence for a maximum of twenty months. A member enrolled in the advanced course is entitled to subsistence as prescribed for a member enrolled under section 2104 of title 10 as prescribed in subsection (a) of this section.” for “subsistence allowance at the rate of $50 a month beginning on the day that he starts his first term of college work under that section and ending upon the completion of his instruction under that section, but not for more than four years.”
 
-1966—Subsec. (a). Pub. L. 89–718, § 51(1), struck out “, United States Code,” after “section 2104 of title 10”, and substituted “20” for “twenty” and “section 456(d)(1) of title 50, appendix” for “section 6(d)(1) of the Universal Military Training and Service Act, as amended (50 U.S.C. App. 456(d)(1))”.
+1966—Subsec. (a). Pub. L. 89–718, § 51(1), struck out “, United States Code,” after “section 2104 of title 10”, and substituted “20” for “twenty” and “section 456(d)(1) of title 50, appendix” for “section 6(d)(1) of the Universal Military Training and Service Act, as amended (50 U.S.C. App. 456(d)(1))”.
 
-Subsec. (c). Pub. L. 89–718, § 51(2), struck out “, United States Code,” after “section 2104(b)(6)(B) of title 10”.
+Subsec. (c). Pub. L. 89–718, § 51(2), struck out “, United States Code,” after “section 2104(b)(6)(B) of title 10”.
 
 1965—Subsec. (a). Pub. L. 89–51 substituted “subsistence allowance” and “Subsistence allowance” for “retainer pay” and “Retainer pay”, respectively.
 
@@ -1515,19 +1515,19 @@ Amendment by Pub. L. 108–136 effective Jan. 1, 2004, see section 523(c) of Pub
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–314, div. A, title X, § 1062(g), Dec. 2, 2002, 116 Stat. 2651, provided that the amendment made by section 1062(g)(2) is effective as of Oct. 30, 2000, and as if included in Pub. L. 106–398 as enacted.
+Pub. L. 107–314, div. A, title X, § 1062(g), Dec. 2, 2002, 116 Stat. 2651, provided that the amendment made by section 1062(g)(2) is effective as of Oct. 30, 2000, and as if included in Pub. L. 106–398 as enacted.
 
 **Effective Date of 2000 Amendment**
 
-Amendment by section 1 [[div. A], title VI, § 612(b)] of Pub. L. 106–398 effective Oct. 1, 2001, see section 1 [[div. A], title VI, § 612(d)] of Pub. L. 106–398, set out as a note under section 203 of this title.
+Amendment by section 1 [[div. A], title VI, § 612(b)] of Pub. L. 106–398 effective Oct. 1, 2001, see section 1 [[div. A], title VI, § 612(d)] of Pub. L. 106–398, set out as a note under section 203 of this title.
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–65, div. A, title V, § 546(b), Oct. 5, 1999, 113 Stat. 608, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1999.”
+Pub. L. 106–65, div. A, title V, § 546(b), Oct. 5, 1999, 113 Stat. 608, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1999.”
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–337, div. A, title VI, § 603(b), Oct. 5, 1994, 108 Stat. 2782, provided that:
+Pub. L. 103–337, div. A, title VI, § 603(b), Oct. 5, 1994, 108 Stat. 2782, provided that:
 
 > **“(1)** Except as provided in paragraph (2), the amendments made by subsection (a) [amending this section] shall apply with respect to months beginning after August 31, 1995.
 
@@ -1543,7 +1543,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Effective Date of 1971 Amendment**
 
-Pub. L. 92–171, § 2, Nov. 24, 1971, 85 Stat. 490, provided that: “The amendments made by this Act [amending this section] shall become effective on July 1, 1971.”
+Pub. L. 92–171, § 2, Nov. 24, 1971, 85 Stat. 490, provided that: “The amendments made by this Act [amending this section] shall become effective on July 1, 1971.”
 
 **Effective Date of 1965 Amendment**
 
@@ -1551,9 +1551,9 @@ Amendment by Pub. L. 89–51 effective Oct. 13, 1964, see section 4 of Pub. L. 8
 
 **Subsistence Allowances for Members of the Marine Corps Officer Candidate Programs**
 
-Pub. L. 92–172, Nov. 24, 1971, 85 Stat. 491, as amended by Pub. L. 94–361, title VI, § 604, July 14, 1976, 90 Stat. 929; Pub. L. 95–79, title VIII, § 806, July 30, 1977, 91 Stat. 334; Pub. L. 95–485, title VIII, § 803, Oct. 20, 1978, 92 Stat. 1620, which provided that until Sept. 30, 1980, except when on active duty, a member enrolled in a Marine Corps officer candidate program which required a baccalaureate degree as a prerequisite to being commissioned as a regular or reserve officer, and who was not enrolled in a program or an academy established under chapter 103, 403, 603, or 903 of Title 10, Armed Forces, could be paid a subsistence allowance at the same rate as that prescribed by subsec. (a) of this section, was repealed by Pub. L. 96–342, title VIII, § 811(b), Sept. 8, 1980, 94 Stat. 1098. See subsec. (d) of this section.
+Pub. L. 92–172, Nov. 24, 1971, 85 Stat. 491, as amended by Pub. L. 94–361, title VI, § 604, July 14, 1976, 90 Stat. 929; Pub. L. 95–79, title VIII, § 806, July 30, 1977, 91 Stat. 334; Pub. L. 95–485, title VIII, § 803, Oct. 20, 1978, 92 Stat. 1620, which provided that until Sept. 30, 1980, except when on active duty, a member enrolled in a Marine Corps officer candidate program which required a baccalaureate degree as a prerequisite to being commissioned as a regular or reserve officer, and who was not enrolled in a program or an academy established under chapter 103, 403, 603, or 903 of Title 10, Armed Forces, could be paid a subsistence allowance at the same rate as that prescribed by subsec. (a) of this section, was repealed by Pub. L. 96–342, title VIII, § 811(b), Sept. 8, 1980, 94 Stat. 1098. See subsec. (d) of this section.
 
-## § 210. Pay of senior enlisted members during terminal leave and while hospitalized
+## § 210. Pay of senior enlisted members during terminal leave and while hospitalized
 
 **(a)** A noncommissioned officer of an armed force who, immediately following the completion of service as the senior enlisted member of that armed force or the senior enlisted advisor to the Chairman of the Joint Chiefs of Staff or the Chief of the National Guard Bureau, is placed on terminal leave pending retirement shall be entitled, for not more than 60 days while in such status, to the rate of basic pay authorized for the senior enlisted member of that armed force.
 
@@ -1573,7 +1573,7 @@ Pub. L. 92–172, Nov. 24, 1971, 85 Stat. 491, as amended by Pub. L. 94–361, t
 
 **(6)** The Master Chief Petty Officer of the Coast Guard.
 
-(Added Pub. L. 102–190, div. A, title VI, § 606(a), Dec. 5, 1991, 105 Stat. 1374; amended Pub. L. 104–201, div. A, title VI, § 603(a), (b)(1), Sept. 23, 1996, 110 Stat. 2540; Pub. L. 109–163, div. A, title VI, § 685(b), Jan. 6, 2006, 119 Stat. 3325; Pub. L. 109–364, div. A, title X, § 1071(c)(1), Oct. 17, 2006, 120 Stat. 2400; Pub. L. 113–291, div. A, title VI, § 603(b), Dec. 19, 2014, 128 Stat. 3398; Pub. L. 116–283, div. A, title IX, § 925(d), Jan. 1, 2021, 134 Stat. 3827; Pub. L. 118–159, div. A, title V, § 521(g)(2), Dec. 23, 2024, 138 Stat. 1881.)
+(Added Pub. L. 102–190, div. A, title VI, § 606(a), Dec. 5, 1991, 105 Stat. 1374; amended Pub. L. 104–201, div. A, title VI, § 603(a), (b)(1), Sept. 23, 1996, 110 Stat. 2540; Pub. L. 109–163, div. A, title VI, § 685(b), Jan. 6, 2006, 119 Stat. 3325; Pub. L. 109–364, div. A, title X, § 1071(c)(1), Oct. 17, 2006, 120 Stat. 2400; Pub. L. 113–291, div. A, title VI, § 603(b), Dec. 19, 2014, 128 Stat. 3398; Pub. L. 116–283, div. A, title IX, § 925(d), Jan. 1, 2021, 134 Stat. 3827; Pub. L. 118–159, div. A, title V, § 521(g)(2), Dec. 23, 2024, 138 Stat. 1881.)
 
 **Editorial Notes**
 
@@ -1583,17 +1583,17 @@ Pub. L. 92–172, Nov. 24, 1971, 85 Stat. 491, as amended by Pub. L. 94–361, t
 
 2021—Subsec. (c)(5), (6). Pub. L. 116–283 added par. (5) and redesignated former par. (5) as (6).
 
-2014—Subsec. (a). Pub. L. 113–291, § 603(b)(1), inserted “or the senior enlisted advisor to the Chairman of the Joint Chiefs of Staff or the Chief of the National Guard Bureau” after “that armed force” the first place appearing.
+2014—Subsec. (a). Pub. L. 113–291, § 603(b)(1), inserted “or the senior enlisted advisor to the Chairman of the Joint Chiefs of Staff or the Chief of the National Guard Bureau” after “that armed force” the first place appearing.
 
-Subsec. (c)(6). Pub. L. 113–291, § 603(b)(2), struck out par. (6) which read as follows: “The Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff.”
+Subsec. (c)(6). Pub. L. 113–291, § 603(b)(2), struck out par. (6) which read as follows: “The Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff.”
 
 2006—Subsec. (c)(6). Pub. L. 109–364 substituted “Advisor to” for “Advisor for”.
 
 Pub. L. 109–163 added par. (6).
 
-1996—Pub. L. 104–201, § 603(b)(1), substituted “Pay of senior enlisted members during terminal leave and while hospitalized” for “Pay of the senior noncommissioned officer of an armed force during terminal leave” in section catchline.
+1996—Pub. L. 104–201, § 603(b)(1), substituted “Pay of senior enlisted members during terminal leave and while hospitalized” for “Pay of the senior noncommissioned officer of an armed force during terminal leave” in section catchline.
 
-Subsecs. (b), (c). Pub. L. 104–201, § 603(a), added subsec. (b) and redesignated former subsec. (b) as (c).
+Subsecs. (b), (c). Pub. L. 104–201, § 603(a), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1605,7 +1605,7 @@ Amendment by Pub. L. 113–291 effective on Dec. 19, 2014 and applicable with re
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 211. Participation in Thrift Savings Plan
+## § 211. Participation in Thrift Savings Plan
 
 **(a) Definition.—** In this section, the term “member” means—
 
@@ -1627,7 +1627,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(d) Repayment of Amounts Borrowed From Member Account.—** If a loan is issued to a member under section 8433(g) of title 5 from funds in the member’s account in the Thrift Savings Plan, repayment of the loan may be required on the same semi-monthly basis as authorized for contributions to the Thrift Savings Fund on behalf of the member under section 1014(c) of this title.
 
-(Added and amended Pub. L. 106–65, div. A, title VI, §§ 661(a)(1)(A), 662, Oct. 5, 1999, 113 Stat. 670, 672; Pub. L. 109–163, div. A, title VI, § 605, Jan. 6, 2006, 119 Stat. 3287; Pub. L. 110–181, div. A, title VI, § 605(b), Jan. 28, 2008, 122 Stat. 146; Pub. L. 114–92, div. A, title VI, § 632(e)(1), Nov. 25, 2015, 129 Stat. 847; Pub. L. 119–60, div. A, title VI, § 601(b)(5), Dec. 18, 2025, 139 Stat. 902.)
+(Added and amended Pub. L. 106–65, div. A, title VI, §§ 661(a)(1)(A), 662, Oct. 5, 1999, 113 Stat. 670, 672; Pub. L. 109–163, div. A, title VI, § 605, Jan. 6, 2006, 119 Stat. 3287; Pub. L. 110–181, div. A, title VI, § 605(b), Jan. 28, 2008, 122 Stat. 146; Pub. L. 114–92, div. A, title VI, § 632(e)(1), Nov. 25, 2015, 129 Stat. 847; Pub. L. 119–60, div. A, title VI, § 601(b)(5), Dec. 18, 2025, 139 Stat. 902.)
 
 **Editorial Notes**
 
@@ -1639,13 +1639,13 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 2008—Subsec. (e). Pub. L. 110–181 added subsec. (e).
 
-2006—Subsec. (d). Pub. L. 109–163, § 605(b), inserted “and First-Time Enlistees” after “Specialties” in heading.
+2006—Subsec. (d). Pub. L. 109–163, § 605(b), inserted “and First-Time Enlistees” after “Specialties” in heading.
 
-Subsec. (d)(1). Pub. L. 109–163, § 605(a)(1), designated existing provisions of subpar. (A) as cl. (i), redesignated former subpar. (B) as cl. (ii) of subpar. (A) and substituted “; or” for period at end, and added a new subpar. (B).
+Subsec. (d)(1). Pub. L. 109–163, § 605(a)(1), designated existing provisions of subpar. (A) as cl. (i), redesignated former subpar. (B) as cl. (ii) of subpar. (A) and substituted “; or” for period at end, and added a new subpar. (B).
 
-Subsec. (d)(2) to (4). Pub. L. 109–163, § 605(a)(2)–(4), substituted “member under paragraph (1)(A)” for “member under paragraph (1)” in first sentence of par. (2), added par. (3), designated second sentence of par. (2) as (4), and in par. (4) substituted “this subsection” for “this paragraph”.
+Subsec. (d)(2) to (4). Pub. L. 109–163, § 605(a)(2)–(4), substituted “member under paragraph (1)(A)” for “member under paragraph (1)” in first sentence of par. (2), added par. (3), designated second sentence of par. (2) as (4), and in par. (4) substituted “this subsection” for “this paragraph”.
 
-1999—Subsec. (d). Pub. L. 106–65, § 662, added subsec. (d).
+1999—Subsec. (d). Pub. L. 106–65, § 662, added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1659,9 +1659,9 @@ Section and amendment by Pub. L. 106–65 effective 180 days after Oct. 30, 2000
 
 **Pilot Program on Contributions to Thrift Savings Plan for Initial Enlistees in the Army**
 
-Pub. L. 109–163, div. A, title VI, § 606, Jan. 6, 2006, 119 Stat. 3287, as amended by Pub. L. 109–364, div. A, title VI, § 608, title X, § 1071(e)(3), Oct. 17, 2006, 120 Stat. 2247, 2401, provided for a pilot program on contributions to the Thrift Savings Plan for initial enlistees in the Army to be carried out between Jan. 6, 2006, and Dec. 31, 2008.
+Pub. L. 109–163, div. A, title VI, § 606, Jan. 6, 2006, 119 Stat. 3287, as amended by Pub. L. 109–364, div. A, title VI, § 608, title X, § 1071(e)(3), Oct. 17, 2006, 120 Stat. 2247, 2401, provided for a pilot program on contributions to the Thrift Savings Plan for initial enlistees in the Army to be carried out between Jan. 6, 2006, and Dec. 31, 2008.
 
-## § 212. Advancement of basic pay: members deployed in combat zone for more than one year
+## § 212. Advancement of basic pay: members deployed in combat zone for more than one year
 
 **(a) Eligibility; Amount Advanced.—** If a member of the armed forces is assigned to duty in an area for which special pay under section 310, or paragraph (1) or (3) of section 351(a), of this title is available and the assignment is pursuant to orders specifying an assignment of one year or more (or the assignment is extended beyond one year), the member may request, during the period of the assignment, the advanced payment of not more than three months of the basic pay of the member.
 
@@ -1671,10 +1671,10 @@ Pub. L. 109–163, div. A, title VI, § 606, Jan. 6, 2006, 119 Stat. 3287, as 
 
 **(d) Commencement of Recoupment.—** The recoupment period for an advancement of basic pay to a member under this section shall commence on the first day of the first month beginning on or after the date on which the member receives the advanced pay.
 
-(Added Pub. L. 108–375, div. A, title VI, § 606(a), Oct. 28, 2004, 118 Stat. 1945; amended Pub. L. 114–328, div. A, title VI, § 618(h)(1), Dec. 23, 2016, 130 Stat. 2160.)
+(Added Pub. L. 108–375, div. A, title VI, § 606(a), Oct. 28, 2004, 118 Stat. 1945; amended Pub. L. 114–328, div. A, title VI, § 618(h)(1), Dec. 23, 2016, 130 Stat. 2160.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Subsec. (a). Pub. L. 114–328 inserted “, or paragraph (1) or (3) of section 351(a),” after “section 310”.
+2016—Subsec. (a). Pub. L. 114–328 inserted “, or paragraph (1) or (3) of section 351(a),” after “section 310”.

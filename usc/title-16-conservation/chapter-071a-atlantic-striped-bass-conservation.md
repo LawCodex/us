@@ -21,7 +21,7 @@ retrieved: 2026-10-11
 
 This chapter is comprised of Pub. L. 98–613, Oct. 31, 1984, 98 Stat. 3187–3190, as amended, which was formerly set out as a note under section 1851 of this title.
 
-## § 5151. Findings and purposes
+## § 5151. Findings and purposes
 
 **(a) Findings** The Congress finds and declares the following:
 
@@ -41,7 +41,7 @@ This chapter is comprised of Pub. L. 98–613, Oct. 31, 1984, 98 Stat. 3187–31
 
 It is therefore declared to be the purpose of the Congress in this chapter to support and encourage the development, implementation, and enforcement of effective interstate action regarding the conservation and management of the Atlantic striped bass.
 
-(Pub. L. 98–613, § 2, Oct. 31, 1984, 98 Stat. 3187; Pub. L. 105–146, § 2, Dec. 16, 1997, 111 Stat. 2672.)
+(Pub. L. 98–613, § 2, Oct. 31, 1984, 98 Stat. 3187; Pub. L. 105–146, § 2, Dec. 16, 1997, 111 Stat. 2672.)
 
 **Editorial Notes**
 
@@ -57,11 +57,11 @@ It is therefore declared to be the purpose of the Congress in this chapter to su
 
 **Short Title of 1997 Amendment**
 
-Pub. L. 105–146, § 1, Dec. 16, 1997, 111 Stat. 2672, provided that: “This Act [enacting section 5158 of this title, amending this section and sections 5152 to 5157 of this title, repealing section 757g of this title, amending provisions set out as a note under this section and listed in a table of National Wildlife Conservation Areas set out under section 668dd of this title, and repealing provisions set out as notes under section 1851 of this title] may be cited as the ‘Atlantic Striped Bass Conservation Act Amendments of 1997’.”
+Pub. L. 105–146, § 1, Dec. 16, 1997, 111 Stat. 2672, provided that: “This Act [enacting section 5158 of this title, amending this section and sections 5152 to 5157 of this title, repealing section 757g of this title, amending provisions set out as a note under this section and listed in a table of National Wildlife Conservation Areas set out under section 668dd of this title, and repealing provisions set out as notes under section 1851 of this title] may be cited as the ‘Atlantic Striped Bass Conservation Act Amendments of 1997’.”
 
 **Short Title**
 
-Pub. L. 98–613, § 1, Oct. 31, 1984, 98 Stat. 3187, as amended by Pub. L. 105–146, § 2, Dec. 16, 1997, 111 Stat. 2672, provided that: “This Act [enacting this chapter] may be cited as the ‘Atlantic Striped Bass Conservation Act’.”
+Pub. L. 98–613, § 1, Oct. 31, 1984, 98 Stat. 3187, as amended by Pub. L. 105–146, § 2, Dec. 16, 1997, 111 Stat. 2672, provided that: “This Act [enacting this chapter] may be cited as the ‘Atlantic Striped Bass Conservation Act’.”
 
 **Executive Documents**
 
@@ -105,7 +105,7 @@ Sec. 4. *General Provisions*. (a) This order shall be implemented in a manner co
 
 George W. Bush.
 
-## § 5152. Definitions
+## § 5152. Definitions
 
 As used in this chapter—
 
@@ -135,9 +135,9 @@ As used in this chapter—
 
 **(5)** The term “Commission” means the Atlantic States Marine Fisheries Commission established under the interstate compact consented to and approved by the Congress in Public Laws 77–539 and 81–721.
 
-**(6)** The term “exclusive economic zone” has the meaning given such term in section 3(6) 1
+**(6)** The term “exclusive economic zone” has the meaning given such term in section 3(6) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Magnuson Act (16 U.S.C. 1802(6)).
 
@@ -161,19 +161,19 @@ The term does not include any scientific research authorized by the Federal Gove
 
 **(12)** The term “Secretaries” means the Secretary of Commerce and the Secretary of the Interior or their designees.
 
-(Pub. L. 98–613, § 3, Oct. 31, 1984, 98 Stat. 3187; Pub. L. 99–432, § 1, Oct. 1, 1986, 100 Stat. 989; Pub. L. 100–589, § 6(g)(1), Nov. 3, 1988, 102 Stat. 2987; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 105–146, § 2, Dec. 16, 1997, 111 Stat. 2673.)
+(Pub. L. 98–613, § 3, Oct. 31, 1984, 98 Stat. 3187; Pub. L. 99–432, § 1, Oct. 1, 1986, 100 Stat. 989; Pub. L. 100–589, § 6(g)(1), Nov. 3, 1988, 102 Stat. 2987; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 105–146, § 2, Dec. 16, 1997, 111 Stat. 2673.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Public Law 77–539, referred to in par. (5), is act May 4, 1942, ch. 283, 56 Stat. 267, which is not classified to the Code.
 
 Public Law 81–721, referred to in par. (5), is act Aug. 19, 1950, ch. 763, 64 Stat. 467, which is not classified to the Code.
 
-Section 3(6) of the Magnuson Act, referred to in par. (6), was redesignated section 3(11) of that Act, by Pub. L. 104–297, title I, § 102(1), (3), Oct. 11, 1996, 110 Stat. 3561.
+Section 3(6) of the Magnuson Act, referred to in par. (6), was redesignated section 3(11) of that Act, by Pub. L. 104–297, title I, § 102(1), (3), Oct. 11, 1996, 110 Stat. 3561.
 
 **Amendments**
 
@@ -199,9 +199,9 @@ Section 3(6) of the Magnuson Act, referred to in par. (6), was redesignated sect
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
-## § 5153. Monitoring of implementation and enforcement by coastal States
+## § 5153. Monitoring of implementation and enforcement by coastal States
 
 **(a) Determination** During December of each fiscal year, and at any other time it deems necessary the Commission shall determine—
 
@@ -217,7 +217,7 @@ For purposes of subsection (a)(2), enforcement by a coastal State shall not be c
 
 The Commission shall immediately notify the Secretaries of each negative determination made by it under subsection (a).
 
-(Pub. L. 98–613, § 4, Oct. 31, 1984, 98 Stat. 3188; Pub. L. 99–432, § 2, Oct. 1, 1986, 100 Stat. 989; Pub. L. 100–589, § 4, Nov. 3, 1988, 102 Stat. 2984; Pub. L. 105–146, § 2, Dec. 16, 1997, 111 Stat. 2674.)
+(Pub. L. 98–613, § 4, Oct. 31, 1984, 98 Stat. 3188; Pub. L. 99–432, § 2, Oct. 1, 1986, 100 Stat. 989; Pub. L. 100–589, § 4, Nov. 3, 1988, 102 Stat. 2984; Pub. L. 105–146, § 2, Dec. 16, 1997, 111 Stat. 2674.)
 
 **Editorial Notes**
 
@@ -227,11 +227,11 @@ The Commission shall immediately notify the Secretaries of each negative determi
 
 1988—Subsec. (a)(1). Pub. L. 100–589 inserted “and at any other time it deems necessary,” after “thereafter,” in introductory provisions.
 
-1986—Subsec. (a). Pub. L. 99–432, § 2(b), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Commencing on July 1, 1985, the Commission shall monitor on a biannual basis the enforcement of the Plan by each coastal State for purposes of deciding if that enforcement is satisfactory. Enforcement by a coastal State may not be considered satisfactory by the Commission if, in its view, the enforcement is being carried out in such a manner that the implementation of the Plan within its coastal waters is being, or will likely be, substantially and adversely affected.”
+1986—Subsec. (a). Pub. L. 99–432, § 2(b), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Commencing on July 1, 1985, the Commission shall monitor on a biannual basis the enforcement of the Plan by each coastal State for purposes of deciding if that enforcement is satisfactory. Enforcement by a coastal State may not be considered satisfactory by the Commission if, in its view, the enforcement is being carried out in such a manner that the implementation of the Plan within its coastal waters is being, or will likely be, substantially and adversely affected.”
 
-Pub. L. 99–432, § 2(a), redesignated subsec. (b) as (a) and struck out heading and text of former subsec. (a). Prior to amendment, text read as follows: “The Commission shall decide during June 1985 whether each coastal state has adopted all regulatory measures necessary to fully implement the Plan in its coastal waters. The Commission shall immediately notify the Secretaries of each negative determination made by it under the preceding sentence.”
+Pub. L. 99–432, § 2(a), redesignated subsec. (b) as (a) and struck out heading and text of former subsec. (a). Prior to amendment, text read as follows: “The Commission shall decide during June 1985 whether each coastal state has adopted all regulatory measures necessary to fully implement the Plan in its coastal waters. The Commission shall immediately notify the Secretaries of each negative determination made by it under the preceding sentence.”
 
-Subsec. (b). Pub. L. 99–432, § 2(c), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Immediately upon receiving notice from the Commission—
+Subsec. (b). Pub. L. 99–432, § 2(c), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Immediately upon receiving notice from the Commission—
 
 “(1) under subsection (a) of this section that a coastal State has not taken the actions described in that subsection; or
 
@@ -239,13 +239,13 @@ Subsec. (b). Pub. L. 99–432, § 2(c), amended heading and text of subsec. (b
 
 the Secretary shall determine, within 30 days, whether that coastal State is in compliance with the Plan and, if the State is not in compliance, the Secretary shall declare a moratorium on fishing for Atlantic striped bass within the coastal waters of that coastal State. In making such a determination, the Secretary shall carefully consider and review the comments of the Commission, that coastal State in question, and the Secretary of the Interior.”
 
-Pub. L. 99–432, § 2(a), redesignated subsec. (d) as (b). Former subsec. (b) redesignated (a).
+Pub. L. 99–432, § 2(a), redesignated subsec. (d) as (b). Former subsec. (b) redesignated (a).
 
-Subsec. (c). Pub. L. 99–432, § 2(a), struck out heading and text of subsec. (c). Prior to amendment, text read as follows: “On December 30, 1985, and on the closing date of each biannual period thereafter, the Commission shall notify the Secretaries of the results of the monitoring under subsection (b) of this section of each coastal State.”
+Subsec. (c). Pub. L. 99–432, § 2(a), struck out heading and text of subsec. (c). Prior to amendment, text read as follows: “On December 30, 1985, and on the closing date of each biannual period thereafter, the Commission shall notify the Secretaries of the results of the monitoring under subsection (b) of this section of each coastal State.”
 
-Subsec. (d). Pub. L. 99–432, § 2(a), redesignated subsec. (d) as (b).
+Subsec. (d). Pub. L. 99–432, § 2(a), redesignated subsec. (d) as (b).
 
-## § 5154. Moratorium
+## § 5154. Moratorium
 
 **(a) Secretarial action after notification**
 
@@ -285,7 +285,7 @@ A person authorized by the Secretaries or the Secretary of the department in whi
 
 The Secretaries may issue regulations to implement this section.
 
-(Pub. L. 98–613, § 5, Oct. 31, 1984, 98 Stat. 3189; Pub. L. 99–432, § 3, Oct. 1, 1986, 100 Stat. 990; Pub. L. 100–589, § 6(g)(2), Nov. 3, 1988, 102 Stat. 2988; Pub. L. 102–130, § 2(a), Oct. 17, 1991, 105 Stat. 626; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 105–146, § 2, Dec. 16, 1997, 111 Stat. 2674.)
+(Pub. L. 98–613, § 5, Oct. 31, 1984, 98 Stat. 3189; Pub. L. 99–432, § 3, Oct. 1, 1986, 100 Stat. 990; Pub. L. 100–589, § 6(g)(2), Nov. 3, 1988, 102 Stat. 2988; Pub. L. 102–130, § 2(a), Oct. 17, 1991, 105 Stat. 626; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 105–146, § 2, Dec. 16, 1997, 111 Stat. 2674.)
 
 **Editorial Notes**
 
@@ -299,21 +299,21 @@ The Secretaries may issue regulations to implement this section.
 
 1988—Subsecs. (c)(2), (d)(2). Pub. L. 100–589 substituted “Magnuson Act” for “Act of 1976”.
 
-1986—Pub. L. 99–432, § 3(b), which directed the substitution of “Secretaries” for “Secretary”, was executed by making the substitution in subsec. (a)(2), in three places in subsec. (c), and in two places in subsec. (e) to reflect the probable intent of Congress.
+1986—Pub. L. 99–432, § 3(b), which directed the substitution of “Secretaries” for “Secretary”, was executed by making the substitution in subsec. (a)(2), in three places in subsec. (c), and in two places in subsec. (e) to reflect the probable intent of Congress.
 
-Pub. L. 99–432, § 3(a), which directed the substitution of “section 5153(b)” for “section 5153(d)”, was executed by making the substitution in subsecs. (a)(1), (2), (b)(3), and (e) to reflect the probable intent of Congress.
+Pub. L. 99–432, § 3(a), which directed the substitution of “section 5153(b)” for “section 5153(d)”, was executed by making the substitution in subsecs. (a)(1), (2), (b)(3), and (e) to reflect the probable intent of Congress.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 **Transfer of Functions**
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 5155. Continuing studies of striped bass populations
+## § 5155. Continuing studies of striped bass populations
 
 **(a) In general** For the purposes of carrying out this chapter, the Secretaries shall conduct continuing, comprehensive studies of Atlantic striped bass stocks. These studies shall include, but shall not be limited to, the following:
 
@@ -331,9 +331,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(b) Socio-economic study**
 
-The Secretaries, in consultation with with 1
+The Secretaries, in consultation with with 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 the Atlantic States Marine Fisheries Commission, shall conduct a study of the socio-economic benefits of the Atlantic striped bass resource. The Secretaries shall issue a report to the Congress concerning the findings of this study no later than September 30, 1998.
 
@@ -341,7 +341,7 @@ the Atlantic States Marine Fisheries Commission, shall conduct a study of the so
 
 The Secretaries shall make biennial reports to the Congress and to the Commission concerning the progress and findings of studies conducted under subsection (a) and shall make those reports public. Such reports shall, to the extent appropriate, contain recommendations of actions which could be taken to encourage the sustainable management of Atlantic striped bass.
 
-(Pub. L. 98–613, § 6, Oct. 31, 1984, 98 Stat. 3190; Pub. L. 105–146, § 2, Dec. 16, 1997, 111 Stat. 2675.)
+(Pub. L. 98–613, § 6, Oct. 31, 1984, 98 Stat. 3190; Pub. L. 105–146, § 2, Dec. 16, 1997, 111 Stat. 2675.)
 
 **Editorial Notes**
 
@@ -349,11 +349,11 @@ The Secretaries shall make biennial reports to the Congress and to the Commissio
 
 1997—Pub. L. 105–146 amended section catchline and text generally, substituting provisions relating to continuing studies of striped bass populations for provisions relating to comprehensive annual surveys.
 
-## § 5156. Authorization of appropriations; cooperative agreements
+## § 5156. Authorization of appropriations; cooperative agreements
 
 **(a) Authorization** For each of fiscal years 2007, 2008, 2009, 2010,1
 
-<sup>1</sup>  So in original. Probably should be followed by “and”.
+<sup>1</sup> So in original. Probably should be followed by “and”.
 
 2011, there are authorized to be appropriated to carry out this chapter—
 
@@ -365,7 +365,7 @@ The Secretaries shall make biennial reports to the Congress and to the Commissio
 
 The Secretaries may enter into cooperative agreements with the Atlantic States Marine Fisheries Commission or with States, for the purpose of using amounts appropriated pursuant to this section to provide financial assistance for carrying out the purposes of this chapter.
 
-(Pub. L. 98–613, § 7, Oct. 31, 1984, 98 Stat. 3190; Pub. L. 99–432, § 4, Oct. 1, 1986, 100 Stat. 990; Pub. L. 100–589, § 1, Nov. 3, 1988, 102 Stat. 2984; Pub. L. 102–130, § 2(b), Oct. 17, 1991, 105 Stat. 626; Pub. L. 105–146, § 2, Dec. 16, 1997, 111 Stat. 2676; Pub. L. 106–555, title I, § 101, Dec. 21, 2000, 114 Stat. 2765; Pub. L. 109–479, title III, § 302(a), Jan. 12, 2007, 120 Stat. 3623.)
+(Pub. L. 98–613, § 7, Oct. 31, 1984, 98 Stat. 3190; Pub. L. 99–432, § 4, Oct. 1, 1986, 100 Stat. 990; Pub. L. 100–589, § 1, Nov. 3, 1988, 102 Stat. 2984; Pub. L. 102–130, § 2(b), Oct. 17, 1991, 105 Stat. 626; Pub. L. 105–146, § 2, Dec. 16, 1997, 111 Stat. 2676; Pub. L. 106–555, title I, § 101, Dec. 21, 2000, 114 Stat. 2765; Pub. L. 109–479, title III, § 302(a), Jan. 12, 2007, 120 Stat. 3623.)
 
 **Editorial Notes**
 
@@ -381,15 +381,15 @@ The Secretaries may enter into cooperative agreements with the Atlantic States M
 
 1997—Pub. L. 105–146 amended section catchline and text generally. Prior to amendment, section authorized appropriations for fiscal years 1986 through 1994 and authorized the Secretaries to enter into cooperative agreements with the Atlantic States Marine Fisheries Commission.
 
-1991—Pub. L. 102–130, § 2(b)(4), in section catchline inserted at end “; cooperative agreements”.
+1991—Pub. L. 102–130, § 2(b)(4), in section catchline inserted at end “; cooperative agreements”.
 
-Pub. L. 102–130, § 2(b)(1)–(3), designated existing provisions as subsec. (a), inserted subsec. heading, substituted “1991, 1992, 1993, and 1994,” for “and 1991,”, and added subsec. (b).
+Pub. L. 102–130, § 2(b)(1)–(3), designated existing provisions as subsec. (a), inserted subsec. heading, substituted “1991, 1992, 1993, and 1994,” for “and 1991,”, and added subsec. (b).
 
 1988—Pub. L. 100–589 substituted “1988, 1989, 1990, and 1991,” for “and 1988,”.
 
 1986—Pub. L. 99–432 amended section catchline and text generally. Prior to amendment, text read as follows: “Funds for activities in fiscal year 1985 under this chapter shall be made available only from funds appropriated for the Department of Commerce and the Department of the Interior for fiscal year 1985. For fiscal year 1986, there are authorized such sums as may be necessary or appropriate to carry out the provisions of this chapter.”
 
-## § 5157. Public participation in preparation of management plans and amendments
+## § 5157. Public participation in preparation of management plans and amendments
 
 **(a) Standards and procedures**
 
@@ -399,7 +399,7 @@ In order to ensure the opportunity for public participation in the preparation o
 
 Subsection (a) shall apply to management plans and amendments adopted by the Commission after the 6-month period beginning on December 16, 1997.
 
-(Pub. L. 98–613, § 8, Oct. 31, 1984, 98 Stat. 3190; Pub. L. 105–146, § 2, Dec. 16, 1997, 111 Stat. 2676.)
+(Pub. L. 98–613, § 8, Oct. 31, 1984, 98 Stat. 3190; Pub. L. 105–146, § 2, Dec. 16, 1997, 111 Stat. 2676.)
 
 **Editorial Notes**
 
@@ -407,7 +407,7 @@ Subsection (a) shall apply to management plans and amendments adopted by the Com
 
 1997—Pub. L. 105–146 amended section catchline and text generally, substituting provisions relating to public participation in preparation of management plans and amendments for provisions requiring the Secretaries to review the existing Plan and report to the Commission and Committees of Congress on its adequacy.
 
-## § 5158. Protection of striped bass in the exclusive economic zone
+## § 5158. Protection of striped bass in the exclusive economic zone
 
 **(a) Regulation of fishing in exclusive economic zone** The Secretary shall promulgate regulations governing fishing for Atlantic striped bass in the exclusive economic zone that the Secretary determines—
 
@@ -427,10 +427,10 @@ In preparing regulations under subsection (a), the Secretary shall consult with 
 
 The provisions of sections 307, 308, 309, 310, and 311 of the Magnuson Act (16 U.S.C. 1857, 1858, 1859, 1860, and 1861) regarding prohibited acts, civil penalties, criminal offenses, civil forfeitures, and enforcement shall apply with respect to regulations and any plan issued under subsection (a) of this section as if such regulations or plan were issued under the Magnuson Act.
 
-(Pub. L. 98–613, § 9, as added Pub. L. 105–146, § 2, Dec. 16, 1997, 111 Stat. 2676.)
+(Pub. L. 98–613, § 9, as added Pub. L. 105–146, § 2, Dec. 16, 1997, 111 Stat. 2676.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 9 of Pub. L. 98–613, Oct. 31, 1984, 98 Stat. 3190; Pub. L. 99–432, § 5, Oct. 1, 1986, 100 Stat. 990; Pub. L. 100–589, § 2, Nov. 3, 1988, 102 Stat. 2984; Pub. L. 102–130, § 2(c), Oct. 17, 1991, 105 Stat. 626, related to the period of effectiveness of sections 1 to 8 of Pub. L. 98–613, prior to repeal by Pub. L. 103–206, title VIII, § 812, formerly § 810, Dec. 20, 1993, 107 Stat. 2453, renumbered § 812, Pub. L. 104–297, title IV, § 404(c), Oct. 11, 1996, 110 Stat. 3619. Section 812 of Pub. L. 103–206 was itself repealed by Pub. L. 106–555, title I, § 122(b)(1)(B), (2), Dec. 21, 2000, 114 Stat. 2766.
+A prior section 9 of Pub. L. 98–613, Oct. 31, 1984, 98 Stat. 3190; Pub. L. 99–432, § 5, Oct. 1, 1986, 100 Stat. 990; Pub. L. 100–589, § 2, Nov. 3, 1988, 102 Stat. 2984; Pub. L. 102–130, § 2(c), Oct. 17, 1991, 105 Stat. 626, related to the period of effectiveness of sections 1 to 8 of Pub. L. 98–613, prior to repeal by Pub. L. 103–206, title VIII, § 812, formerly § 810, Dec. 20, 1993, 107 Stat. 2453, renumbered § 812, Pub. L. 104–297, title IV, § 404(c), Oct. 11, 1996, 110 Stat. 3619. Section 812 of Pub. L. 103–206 was itself repealed by Pub. L. 106–555, title I, § 122(b)(1)(B), (2), Dec. 21, 2000, 114 Stat. 2766.

@@ -19,33 +19,33 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title III, § 376, Dec. 18, 2025, 139 Stat. 840, added item 9784. Amendment was made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title III, § 376, Dec. 18, 2025, 139 Stat. 840, added item 9784. Amendment was made pursuant to operation of section 102 of this title.
 
-2021—Pub. L. 116–283, div. A, title IX, § 923(e)(16)(C), (17)(C), Jan. 1, 2021, 134 Stat. 3818, 3819, added items 9771 and 9773 and struck out former items 9771 “Acceptance of donations: land for mobilization, training, supply base, or aviation field” and 9773 “Acquisition and construction: air bases and depots”.
+2021—Pub. L. 116–283, div. A, title IX, § 923(e)(16)(C), (17)(C), Jan. 1, 2021, 134 Stat. 3818, 3819, added items 9771 and 9773 and struck out former items 9771 “Acceptance of donations: land for mobilization, training, supply base, or aviation field” and 9773 “Acquisition and construction: air bases and depots”.
 
-2018—Pub. L. 115–232, div. A, title VIII, § 806(d)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 949 of this title as this chapter.
+2018—Pub. L. 115–232, div. A, title VIII, § 806(d)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 949 of this title as this chapter.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title III, § 383(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–86, added item 9783.
+2000—Pub. L. 106–398, § 1 [[div. A], title III, § 383(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–86, added item 9783.
 
-1997—Pub. L. 105–85, div. A, title II, § 242(b), Nov. 18, 1997, 111 Stat. 1667, added item 9782.
+1997—Pub. L. 105–85, div. A, title II, § 242(b), Nov. 18, 1997, 111 Stat. 1667, added item 9782.
 
-1987—Pub. L. 100–180, div. B, subdiv. 3, title II, § 2325(b), Dec. 4, 1987, 101 Stat. 1221, added item 9781.
+1987—Pub. L. 100–180, div. B, subdiv. 3, title II, § 2325(b), Dec. 4, 1987, 101 Stat. 1221, added item 9781.
 
-1982—Pub. L. 97–214, § 10(a)(9)(B), July 12, 1982, 96 Stat. 175, struck out item 9774 “Construction: limitations”.
+1982—Pub. L. 97–214, § 10(a)(9)(B), July 12, 1982, 96 Stat. 175, struck out item 9774 “Construction: limitations”.
 
-1980—Pub. L. 96–513, title V, § 514(21), Dec. 12, 1980, 94 Stat. 2936, struck out item 9772 “Reservation and use for air base or testing field”.
+1980—Pub. L. 96–513, title V, § 514(21), Dec. 12, 1980, 94 Stat. 2936, struck out item 9772 “Reservation and use for air base or testing field”.
 
-1973—Pub. L. 93–166, title V, § 509(e), Nov. 29, 1973, 87 Stat. 678, substituted “Construction: limitations” for “Construction of quarters: limitations on space and cost” in item 9774.
+1973—Pub. L. 93–166, title V, § 509(e), Nov. 29, 1973, 87 Stat. 678, substituted “Construction: limitations” for “Construction of quarters: limitations on space and cost” in item 9774.
 
-1971—Pub. L. 92–145, title V, § 509(b), Oct. 27, 1971, 85 Stat. 408, struck out item 9775 “Quarters: officers”.
+1971—Pub. L. 92–145, title V, § 509(b), Oct. 27, 1971, 85 Stat. 408, struck out item 9775 “Quarters: officers”.
 
-1958—Pub. L. 85–861, § 1(203)(B), Sept. 2, 1958, 72 Stat. 1542, added item 9780.
+1958—Pub. L. 85–861, § 1(203)(B), Sept. 2, 1958, 72 Stat. 1542, added item 9780.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Rocket Cargo Test and Demonstration**
 
-Pub. L. 119–60, div. A, title XVI, § 1605, Dec. 18, 2025, 139 Stat. 1176, provided that:
+Pub. L. 119–60, div. A, title XVI, § 1605, Dec. 18, 2025, 139 Stat. 1176, provided that:
 
 > **“(a) Requirement.—** Except as provided by subsection (b), the Secretary of the Air Force shall use the test sites and ranges of the Department of Defense that exist as of the date of the enactment of this Act [Dec. 18, 2025] for any test or demonstrations required by the Rocket Cargo Program.
 
@@ -65,7 +65,7 @@ Pub. L. 119–60, div. A, title XVI, § 1605, Dec. 18, 2025, 139 Stat. 1176, p
 
 **Sufficient Firefighter Personnel Covered Installations**
 
-Pub. L. 118–159, div. A, title XI, § 1110, Dec. 23, 2024, 138 Stat. 2089, provided that:
+Pub. L. 118–159, div. A, title XI, § 1110, Dec. 23, 2024, 138 Stat. 2089, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall ensure that—
 
@@ -77,9 +77,9 @@ Pub. L. 118–159, div. A, title XI, § 1110, Dec. 23, 2024, 138 Stat. 2089, p
 
 **Pilot Program To Augment Sustainment With Maintenance Cost Reimbursements From Major Range and Test Facility Base Users at Installations of the Department of the Air Force**
 
-Pub. L. 117–81, div. B, title XXVIII, § 2862, Dec. 27, 2021, 135 Stat. 2213, as amended by Pub. L. 118–31, div. B, title XXVIII, § 2872, Dec. 22, 2023, 137 Stat. 776, which established a pilot program to augment sustainment with maintenance cost reimbursements from Major Range and Test Facility Base users at installations of the Department of the Air Force, was repealed by Pub. L. 119–60, div. B, title XXVIII, § 2849, Dec. 18, 2025, 139 Stat. 1319.
+Pub. L. 117–81, div. B, title XXVIII, § 2862, Dec. 27, 2021, 135 Stat. 2213, as amended by Pub. L. 118–31, div. B, title XXVIII, § 2872, Dec. 22, 2023, 137 Stat. 776, which established a pilot program to augment sustainment with maintenance cost reimbursements from Major Range and Test Facility Base users at installations of the Department of the Air Force, was repealed by Pub. L. 119–60, div. B, title XXVIII, § 2849, Dec. 18, 2025, 139 Stat. 1319.
 
-## § 9771. Acceptance of donations: land for mobilization, training, supply base, aviation field, or space mission-related facility
+## § 9771. Acceptance of donations: land for mobilization, training, supply base, aviation field, or space mission-related facility
 
 The Secretary of the Air Force may accept for the United States a gift of—
 
@@ -87,7 +87,7 @@ The Secretary of the Air Force may accept for the United States a gift of—
 
 **(2)** land that he considers suitable and desirable for an aviation field or space mission-related facility, if the gift is from a citizen of the United States and its terms authorize the use of the property by the United States for any purpose.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 588; Pub. L. 116–283, div. A, title IX, § 923(e)(16)(A), (B), Jan. 1, 2021, 134 Stat. 3818.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 588; Pub. L. 116–283, div. A, title IX, § 923(e)(16)(A), (B), Jan. 1, 2021, 134 Stat. 3818.)
 
 **Historical and Revision Notes**
 
@@ -101,11 +101,11 @@ The Secretary of the Air Force may accept for the United States a gift of—
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 923(e)(16)(B), amended section catchline generally. Prior to amedment, catchline read as follows: “Acceptance of donations: land for mobilization, training, supply base, or aviation field”.
+2021—Pub. L. 116–283, § 923(e)(16)(B), amended section catchline generally. Prior to amedment, catchline read as follows: “Acceptance of donations: land for mobilization, training, supply base, or aviation field”.
 
-Par. (2). Pub. L. 116–283, § 923(e)(16)(A), inserted “or space mission-related facility” after “aviation field”.
+Par. (2). Pub. L. 116–283, § 923(e)(16)(A), inserted “or space mission-related facility” after “aviation field”.
 
-## [§ 9772. Repealed. Pub. L. 94–579, title VII, § 704(a), Oct. 21, 1976, 90 Stat. 2792]
+## [§ 9772. Repealed. Pub. L. 94–579, title VII, § 704(a), Oct. 21, 1976, 90 Stat. 2792]
 
 Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 588, authorized unappropriated public land or other property of United States to be reserved or used for air bases or testing fields.
 
@@ -113,13 +113,13 @@ Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 588, authorized unappropriated p
 
 **Effective Date of Repeal**
 
-Pub. L. 94–579, title VII, § 704(a), Oct. 21, 1976, 90 Stat. 2792, provided that this section is repealed effective on and after Oct. 21, 1976.
+Pub. L. 94–579, title VII, § 704(a), Oct. 21, 1976, 90 Stat. 2792, provided that this section is repealed effective on and after Oct. 21, 1976.
 
 **Savings Provision**
 
 Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see note under section 1701 of Title 43, Public Lands.
 
-## § 9773. Acquisition and construction: installations and depots
+## § 9773. Acquisition and construction: installations and depots
 
 **(a)** The Secretary of the Air Force shall determine the sites of such additional permanent Air Force and Space Force military installations and depots in all strategic areas of the United States and the Commonwealths, possessions, and holdings as he considers necessary. He shall determine when the enlargement of existing installations and depots is necessary for the effective peacetime training of the Air Force or the Space Force.
 
@@ -163,13 +163,13 @@ Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, p
 
 **(g)** The Secretary may direct the transportation of personnel, and the purchase, renovation, and transportation of material, that he considers necessary to carry out this section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 588; Pub. L. 109–163, div. A, title X, § 1057(a)(3), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 116–283, div. A, title IX, § 923(e)(17)(A), (B), Jan. 1, 2021, 134 Stat. 3818, 3819.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 588; Pub. L. 109–163, div. A, title X, § 1057(a)(3), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 116–283, div. A, title IX, § 923(e)(17)(A), (B), Jan. 1, 2021, 134 Stat. 3818, 3819.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9773(a) 9773(b) | 10:1343a (1st sentence). 10:1343a (2d sentence). | Aug. 12, 1935, ch. 511, §§ 1–3, 49 Stat. 610. |
+| 9773(a) 9773(b) | 10:1343a (1st sentence). 10:1343a (2d sentence). | Aug. 12, 1935, ch. 511, §§ 1–3, 49 Stat. 610. |
 | 9773(c) | 10:1343a (less 1st and 2d sentences). |  |
 | 9773(d) | 10:1343b. |  |
 | 9773(e) | 10:1343c (last sentence). |  |
@@ -180,7 +180,7 @@ In subsection (a), the word “shall” is substituted for the words “is autho
 
 In subsection (b), the words “to provide”, “to permit”, “in addition”, and “incident to the concentration of” are omitted as surplusage.
 
-In subsection (c), the introductory clause is substituted for 10:1343a (1st 41 words of 3d sentence). The words “to locate” are substituted for the words “there shall be provided”. The words “aviation of the United States” are substituted for the words “our own aviation”. The words, “Territories, Commonwealths,” are inserted to conform to subsection (a). The words “The stations shall be suitably located”, “of the set-up”, “by responsible personnel”, “there shall be provided”, “General Headquarters”, “in peace and war”, “such close and distant \* \* \* over land and sea”, and “The stations and depots shall be located with a view”, and 10:1343a (4th clause of 3d sentence) are omitted as surplusage.
+In subsection (c), the introductory clause is substituted for 10:1343a (1st 41 words of 3d sentence). The words “to locate” are substituted for the words “there shall be provided”. The words “aviation of the United States” are substituted for the words “our own aviation”. The words, “Territories, Commonwealths,” are inserted to conform to subsection (a). The words “The stations shall be suitably located”, “of the set-up”, “by responsible personnel”, “there shall be provided”, “General Headquarters”, “in peace and war”, “such close and distant \* \* \* over land and sea”, and “The stations and depots shall be located with a view”, and 10:1343a (4th clause of 3d sentence) are omitted as surplusage.
 
 In subsection (d), clause (3) is substituted for 10: 1343b (last 26 words). 10:1043b (24 words before 1st proviso) is omitted as surplusage.
 
@@ -190,21 +190,21 @@ In subsection (f), the word “shall” is substituted for the words “is furth
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 923(e)(17)(B), amended section catchline generally. Prior to amendment, catchline read as follows: “Acquisition and construction: air bases and depots”.
+2021—Pub. L. 116–283, § 923(e)(17)(B), amended section catchline generally. Prior to amendment, catchline read as follows: “Acquisition and construction: air bases and depots”.
 
-Subsec. (a). Pub. L. 116–283, § 923(e)(17)(A)(i), substituted “permanent Air Force and Space Force military installations” for “permanent air bases” and “existing installations” for “existing air bases”, and inserted “or the Space Force” after “training of the Air Force”.
+Subsec. (a). Pub. L. 116–283, § 923(e)(17)(A)(i), substituted “permanent Air Force and Space Force military installations” for “permanent air bases” and “existing installations” for “existing air bases”, and inserted “or the Space Force” after “training of the Air Force”.
 
-Subsec. (b). Pub. L. 116–283, § 923(e)(17)(A)(ii), substituted “installations” for “air bases” in introductory provisions.
+Subsec. (b). Pub. L. 116–283, § 923(e)(17)(A)(ii), substituted “installations” for “air bases” in introductory provisions.
 
-Subsec. (b)(7). Pub. L. 116–283, § 923(e)(17)(A)(ii), (iii), substituted “installations” for “air bases” and inserted “or Space Force” after “Air Force”.
+Subsec. (b)(7). Pub. L. 116–283, § 923(e)(17)(A)(ii), (iii), substituted “installations” for “air bases” and inserted “or Space Force” after “Air Force”.
 
-Subsec. (c). Pub. L. 116–283, § 923(e)(17)(A)(ii), substituted “installations” for “air bases” in two places in introductory provisions.
+Subsec. (c). Pub. L. 116–283, § 923(e)(17)(A)(ii), substituted “installations” for “air bases” in two places in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 116–283, § 923(e)(17)(A)(iv)(I), inserted “or Space Force” after “Air Force”.
+Subsec. (c)(1). Pub. L. 116–283, § 923(e)(17)(A)(iv)(I), inserted “or Space Force” after “Air Force”.
 
-Subsec. (c)(3), (4). Pub. L. 116–283, § 923(e)(17)(A)(iv)(II), inserted “or the Space Force” after “the Air Force”.
+Subsec. (c)(3), (4). Pub. L. 116–283, § 923(e)(17)(A)(iv)(II), inserted “or the Space Force” after “the Air Force”.
 
-Subsec. (f). Pub. L. 116–283, § 923(e)(17)(A)(v), substituted “installation” for “air base”.
+Subsec. (f). Pub. L. 116–283, § 923(e)(17)(A)(v), substituted “installation” for “air base”.
 
 2006—Subsecs. (a), (c)(4). Pub. L. 109–163 struck out “Territories,” before “Commonwealths, possessions,”.
 
@@ -212,7 +212,7 @@ Subsec. (f). Pub. L. 116–283, § 923(e)(17)(A)(v), substituted “installati
 
 **Plan and Requirements for Fielding Air Base Air Defense Sites at Air Force Installations**
 
-Pub. L. 118–159, div. A, title I, § 152, Dec. 23, 2024, 138 Stat. 1813, provided that:
+Pub. L. 118–159, div. A, title I, § 152, Dec. 23, 2024, 138 Stat. 1813, provided that:
 
 > **“(a) Plan Required.—** The Secretary of the Air Force, in consultation with the Commander of the United States Northern Command, the Commander of United States European Command, and the Commander of United States Indo-Pacific Command, shall develop and implement a plan to support the fielding of air base air defense sites at Air Force installations and other priority sites identified by the Secretary.
 
@@ -244,9 +244,9 @@ Pub. L. 118–159, div. A, title I, § 152, Dec. 23, 2024, 138 Stat. 1813, pro
 
 > **“(d) Report.—** Not later than March 1, 2025, the Secretary of the Air Force shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the plan required under subsection (a).”
 
-## [§ 9774. Repealed. Pub. L. 97–214, § 7(1), July 12, 1982, 96 Stat. 173]
+## [§ 9774. Repealed. Pub. L. 97–214, § 7(1), July 12, 1982, 96 Stat. 173]
 
-Section, acts Aug. 10, 1956, ch. 1041, 70A Stat. 590; Aug. 30, 1957, Pub. L. 85–241, title IV, § 404(c), 71 Stat. 556; Aug. 10, 1959, Pub. L. 86–149, title IV, § 410(c), 73 Stat. 322; July 27, 1962, Pub. L. 87–554, title V, § 504(a), (c), 76 Stat. 239; Nov. 7, 1963, Pub. L. 88–174, title V, § 503, 77 Stat. 325; Dec. 5, 1969, Pub. L. 91–142, title V, § 510(b), 83 Stat. 312; Oct. 27, 1971, Pub. L. 92–145, title V, § 508(a), (c), 85 Stat. 408; Nov. 29, 1973, Pub. L. 93–166, title V, § 509(e), 87 Stat. 678, related to limitations on construction.
+Section, acts Aug. 10, 1956, ch. 1041, 70A Stat. 590; Aug. 30, 1957, Pub. L. 85–241, title IV, § 404(c), 71 Stat. 556; Aug. 10, 1959, Pub. L. 86–149, title IV, § 410(c), 73 Stat. 322; July 27, 1962, Pub. L. 87–554, title V, § 504(a), (c), 76 Stat. 239; Nov. 7, 1963, Pub. L. 88–174, title V, § 503, 77 Stat. 325; Dec. 5, 1969, Pub. L. 91–142, title V, § 510(b), 83 Stat. 312; Oct. 27, 1971, Pub. L. 92–145, title V, § 508(a), (c), 85 Stat. 408; Nov. 29, 1973, Pub. L. 93–166, title V, § 509(e), 87 Stat. 678, related to limitations on construction.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -254,15 +254,15 @@ Section, acts Aug. 10, 1956, ch. 1041, 70A Stat. 590; Aug. 30, 1957, Pub. L. 85�
 
 Repeal effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under section 2801 of this title.
 
-## [§ 9775. Repealed. Pub. L. 92–145, title V, § 509(b), Oct. 27, 1971, 85 Stat. 408]
+## [§ 9775. Repealed. Pub. L. 92–145, title V, § 509(b), Oct. 27, 1971, 85 Stat. 408]
 
 Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 590, authorized assignment of quarters belonging to United States at an air base or other Air Force installation to officers, grade lieutenant general down to second lieutenant, 10 to 2 rooms, respectively, and prohibited other assignment where quarters existed.
 
-## § 9776. Emergency construction: fortifications
+## § 9776. Emergency construction: fortifications
 
 If in an emergency the President considers it urgent, a temporary installation or fortification may be built on private land if the owner consents in writing.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 591; Pub. L. 91–393, § 5, Sept. 1, 1970, 84 Stat. 835; Pub. L. 116–283, div. A, title IX, § 923(e)(18), Jan. 1, 2021, 134 Stat. 3819.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 591; Pub. L. 91–393, § 5, Sept. 1, 1970, 84 Stat. 835; Pub. L. 116–283, div. A, title IX, § 923(e)(18), Jan. 1, 2021, 134 Stat. 3819.)
 
 **Historical and Revision Notes**
 
@@ -280,7 +280,7 @@ The word “important” is omitted as covered by the word “urgent”. The wor
 
 1970—Pub. L. 91–393 struck out “In such a case, section 175 of title 50 does not apply.”
 
-## § 9777. Permits: military reservations; landing ferries, erecting bridges, driving livestock
+## § 9777. Permits: military reservations; landing ferries, erecting bridges, driving livestock
 
 Whenever the Secretary of the Air Force considers that it can be done without injury to the reservation or inconvenience to the military forces stationed there, he may permit—
 
@@ -296,15 +296,15 @@ Whenever the Secretary of the Air Force considers that it can be done without in
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9777 | 10:1348. | July 5, 1884, ch. 214, § 6, 23 Stat. 104. |
+| 9777 | 10:1348. | July 5, 1884, ch. 214, § 6, 23 Stat. 104. |
 
 The words “may permit” are substituted for the words “shall have authority, in his discretion, to permit”. The words “to permit the extension of State, county, and Territorial roads across military reservations” are omitted as superseded by section 2668 of this title. In clause (3), the word “livestock” is substituted for the words “cattle, sheep or other stock animals”.
 
-## § 9778. Licenses: military reservations; erection and use of buildings; Young Men’s Christian Association
+## § 9778. Licenses: military reservations; erection and use of buildings; Young Men’s Christian Association
 
 Under such conditions as he may prescribe, the Secretary of the Air Force may issue a revocable license to the International Committee of Young Men’s Christian Associations of North America to erect and maintain, on military reservations within the United States and the Commonwealths and possessions, buildings needed by that organization for the promotion of the social, physical, intellectual, and moral welfare of the members of the Air Force on those reservations.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 591; Pub. L. 109–163, div. A, title X, § 1057(a)(6), Jan. 6, 2006, 119 Stat. 3441.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 591; Pub. L. 109–163, div. A, title X, § 1057(a)(6), Jan. 6, 2006, 119 Stat. 3441.)
 
 **Historical and Revision Notes**
 
@@ -312,7 +312,7 @@ Under such conditions as he may prescribe, the Secretary of the Air Force may is
 |---|---|---|
 | 9778 | 10:1346. | May 31, 1902, ch. 943, 32 Stat. 282. |
 
-The words “may issue” are substituted for the words “Authority is given to \* \* \* in his discretion, to grant permission”. The words “Under such conditions as he may prescribe” are substituted for the words “under such regulations as the Secretary of the Army may impose”. The words “members of the Air Force” are substituted for the word “garrisons”. The words “the Territories, Commonwealths, and possessions” are substituted for the words “or its island possessions”, for clarity.
+The words “may issue” are substituted for the words “Authority is given to \* \* \* in his discretion, to grant permission”. The words “Under such conditions as he may prescribe” are substituted for the words “under such regulations as the Secretary of the Army may impose”. The words “members of the Air Force” are substituted for the word “garrisons”. The words “the Territories, Commonwealths, and possessions” are substituted for the words “or its island possessions”, for clarity.
 
 **Editorial Notes**
 
@@ -320,21 +320,21 @@ The words “may issue” are substituted for the words “Authority is given to
 
 2006—Pub. L. 109–163 substituted “Commonwealths and possessions” for “Territories, Commonwealths, and possessions”.
 
-## § 9779. Use of public property
+## § 9779. Use of public property
 
 **(a)** When the economy of the Air Force or the Space Force so requires, the Secretary of the Air Force shall establish military headquarters in places where suitable buildings are owned by the United States.
 
 **(b)** No money appropriated for the support of the Air Force or the Space Force may be spent for base gardens or Air Force exchanges. However, this does not prevent Air Force exchanges from using public buildings or public transportation that, in the opinion of the Secretary, are not needed for other purposes.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 591; Pub. L. 99–661, div. B, title VII, § 2721, Nov. 14, 1986, 100 Stat. 4042; Pub. L. 116–283, div. A, title IX, § 923(e)(19), Jan. 1, 2021, 134 Stat. 3819.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 591; Pub. L. 99–661, div. B, title VII, § 2721, Nov. 14, 1986, 100 Stat. 4042; Pub. L. 116–283, div. A, title IX, § 923(e)(19), Jan. 1, 2021, 134 Stat. 3819.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9779(a) 9779(b) | 10:1332. 10:1345. | June 23, 1879, ch. 35, § 8, 21 Stat. 35. |
+| 9779(a) 9779(b) | 10:1332. 10:1345. | June 23, 1879, ch. 35, § 8, 21 Stat. 35. |
 | 9779(c) | 10:1335. | Aug. 1, 1914, ch. 223 (2d par. under “Quartermaster Corps”), 38 Stat. 629. |
-|  |  | July 16, 1892, ch. 195 (last proviso under “Quartermaster’s Department”), 27 Stat. 178; June 28, 1950, ch. 383, § 402(c), 64 Stat. 272. |
+|  |  | July 16, 1892, ch. 195 (last proviso under “Quartermaster’s Department”), 27 Stat. 178; June 28, 1950, ch. 383, § 402(c), 64 Stat. 272. |
 
 In subsection (a), the words “United States” are substituted for the word “Government”.
 
@@ -346,13 +346,13 @@ In subsection (c), the words “the Secretary” are substituted for the words �
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 116–283, § 923(e)(19)(A), inserted “or the Space Force” after “economy of the Air Force”.
+2021—Subsec. (a). Pub. L. 116–283, § 923(e)(19)(A), inserted “or the Space Force” after “economy of the Air Force”.
 
-Subsec. (b). Pub. L. 116–283, § 923(e)(19)(B), inserted “or the Space Force” after “support of the Air Force”.
+Subsec. (b). Pub. L. 116–283, § 923(e)(19)(B), inserted “or the Space Force” after “support of the Air Force”.
 
 1986—Subsecs. (b), (c). Pub. L. 99–661 redesignated subsec. (c) as (b) and struck out former subsec. (b) which directed the Secretary to assign suitable space for postal purposes at each air base where there was a post office.
 
-## § 9780. Acquisition of buildings in District of Columbia
+## § 9780. Acquisition of buildings in District of Columbia
 
 **(a)** In time of war or when war is imminent, the Secretary of the Air Force may acquire by lease any building, or part of a building, in the District of Columbia that may be needed for military purposes.
 
@@ -366,7 +366,7 @@ Subsec. (b). Pub. L. 116–283, § 923(e)(19)(B), inserted “or the Space For
 
 The Secretary shall determine, and pay out of funds appropriated for the payment of rent by the Department of the Air Force, just compensation for that use. If the amount of the compensation is not satisfactory to the person entitled to it, the Secretary shall pay 75 percent of it to that person, and the claimant is entitled to recover by action against the United States an additional amount that, when added to the amount paid by the Secretary, is determined by the court to be just compensation for that use.
 
-(Added Pub. L. 85–861, § 1(203)(A), Sept. 2, 1958, 72 Stat. 1542.)
+(Added Pub. L. 85–861, § 1(203)(A), Sept. 2, 1958, 72 Stat. 1542.)
 
 **Historical and Revision Notes**
 
@@ -379,7 +379,7 @@ In subsection (a), the words “may acquire by lease” are substituted for the 
 
 In subsection (b), the words “At any time” are inserted for clarity. The word “may” is substituted for the words “is authorized”. The word “agency” is substituted for the word “branch”. Clause (3) is inserted for clarity. The word “determine” is substituted for the word “ascertain”. The words “out of funds appropriated for the payment of rent by” are substituted for the words “within the limits of the appropriations for rent made by any act making appropriations for”. The word “is” is substituted for the word “be”. The words “so ascertained” and “in the manner provided by sections 41(20) and 250 of Title 28” are omitted as surplusage, since those sections were repealed in 1948 and replaced by sections 1346, 1491, 1496, 1501, 1503, 2401, 2402, and 2501 of that title.
 
-## § 9781. Disposition of real property at missile sites
+## § 9781. Disposition of real property at missile sites
 
 **(a)**
 
@@ -427,39 +427,39 @@ In subsection (b), the words “At any time” are inserted for clarity. The wor
 
 **(g)** If any real property interest of the United States described in subsection (a) is not purchased under the procedures provided in subsections (a) through (f), such tract may be disposed of only in accordance with subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
-(Added Pub. L. 100–180, div. B, subdiv. 3, title II, § 2325(a), Dec. 4, 1987, 101 Stat. 1220; amended Pub. L. 103–160, div. B, title XXVIII, § 2851, Nov. 30, 1993, 107 Stat. 1906; Pub. L. 107–217, § 3(b)(40), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 108–178, § 4(b)(7), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 111–350, § 5(b)(55), Jan. 4, 2011, 124 Stat. 3847; Pub. L. 116–283, div. A, title IX, § 923(e)(20), Jan. 1, 2021, 134 Stat. 3819.)
+(Added Pub. L. 100–180, div. B, subdiv. 3, title II, § 2325(a), Dec. 4, 1987, 101 Stat. 1220; amended Pub. L. 103–160, div. B, title XXVIII, § 2851, Nov. 30, 1993, 107 Stat. 1906; Pub. L. 107–217, § 3(b)(40), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 108–178, § 4(b)(7), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 111–350, § 5(b)(55), Jan. 4, 2011, 124 Stat. 3847; Pub. L. 116–283, div. A, title IX, § 923(e)(20), Jan. 1, 2021, 134 Stat. 3819.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (a)(2). Pub. L. 116–283, § 923(e)(20)(A), substituted “Department of the Air Force” for “Air Force” in introductory provisions.
+2021—Subsec. (a)(2). Pub. L. 116–283, § 923(e)(20)(A), substituted “Department of the Air Force” for “Air Force” in introductory provisions.
 
-Subsec. (a)(2)(A). Pub. L. 116–283, § 923(e)(20)(B), substituted “Department of the Air Force” for “Air Force” the first two places appearing.
+Subsec. (a)(2)(A). Pub. L. 116–283, § 923(e)(20)(B), substituted “Department of the Air Force” for “Air Force” the first two places appearing.
 
-Subsec. (a)(2)(C). Pub. L. 116–283, § 923(e)(20)(C), substituted “Department of the Air Force” for “Air Force”.
+Subsec. (a)(2)(C). Pub. L. 116–283, § 923(e)(20)(C), substituted “Department of the Air Force” for “Air Force”.
 
 2011—Subsec. (g). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
 
 2003—Subsec. (g). Pub. L. 108–178 substituted “title III of the Federal Property and Administrative Services Act of 1949” for “subtitle III of the Federal Property and Administrative Services Act of 1949” and made technical correction to reference to (41 U.S.C. 251 et seq.).
 
-2002—Subsec. (b)(2)(D). Pub. L. 107–217, § 3(b)(40)(A), substituted “chapter 5 of title 40” for “title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.)”.
+2002—Subsec. (b)(2)(D). Pub. L. 107–217, § 3(b)(40)(A), substituted “chapter 5 of title 40” for “title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.)”.
 
-Subsec. (d). Pub. L. 107–217, § 3(b)(40)(B), substituted “chapter 5 of title 40” for “title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.)”.
+Subsec. (d). Pub. L. 107–217, § 3(b)(40)(B), substituted “chapter 5 of title 40” for “title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.)”.
 
-Subsec. (g). Pub. L. 107–217, § 3(b)(40)(C), inserted “subtitle I of title 40 and subtitle III of” before “the Federal Property and Administrative Services Act of 1949” and “(41 U.S.C. 251 et seq.)” at end.
+Subsec. (g). Pub. L. 107–217, § 3(b)(40)(C), inserted “subtitle I of title 40 and subtitle III of” before “the Federal Property and Administrative Services Act of 1949” and “(41 U.S.C. 251 et seq.)” at end.
 
-1993—Subsec. (a)(1). Pub. L. 103–160, § 2851(a)(1), substituted “Administrator of General Services” for “Secretary of the Air Force”.
+1993—Subsec. (a)(1). Pub. L. 103–160, § 2851(a)(1), substituted “Administrator of General Services” for “Secretary of the Air Force”.
 
-Subsec. (a)(2)(D). Pub. L. 103–160, § 2851(b), added subpar. (D) and struck out former subpar. (D) which read as follows: “is surrounded by lands that are adjacent to such tract and that are owned in fee simple by one owner or by more than one owner jointly, in common, or by the entirety.”
+Subsec. (a)(2)(D). Pub. L. 103–160, § 2851(b), added subpar. (D) and struck out former subpar. (D) which read as follows: “is surrounded by lands that are adjacent to such tract and that are owned in fee simple by one owner or by more than one owner jointly, in common, or by the entirety.”
 
-Subsec. (b). Pub. L. 103–160, § 2851(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary shall convey, for fair market value, the interest of the United States in any tract of land referred to in subsection (a) or in any easement in connection with any such tract of land to any person or persons who, with respect to such tract of land, own lands referred to in paragraph (2)(D) of such subsection and are ready, willing, and able to purchase such interest for the fair market value of such interest. Whenever such interest of the United States is available for purchase under this section, the Secretary shall transmit a notice of the availability of such interest to each such person.”
+Subsec. (b). Pub. L. 103–160, § 2851(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary shall convey, for fair market value, the interest of the United States in any tract of land referred to in subsection (a) or in any easement in connection with any such tract of land to any person or persons who, with respect to such tract of land, own lands referred to in paragraph (2)(D) of such subsection and are ready, willing, and able to purchase such interest for the fair market value of such interest. Whenever such interest of the United States is available for purchase under this section, the Secretary shall transmit a notice of the availability of such interest to each such person.”
 
-Subsec. (c). Pub. L. 103–160, § 2851(a)(2), substituted “Administrator” for “Secretary”.
+Subsec. (c). Pub. L. 103–160, § 2851(a)(2), substituted “Administrator” for “Secretary”.
 
-Subsec. (e). Pub. L. 103–160, § 2851(a)(3), substituted “Secretary of the Air Force with respect to such tract, and (2) such additional terms and conditions as the Administrator” for “Secretary with respect to such tract, and (2) such additional terms and conditions as the Secretary”.
+Subsec. (e). Pub. L. 103–160, § 2851(a)(3), substituted “Secretary of the Air Force with respect to such tract, and (2) such additional terms and conditions as the Administrator” for “Secretary with respect to such tract, and (2) such additional terms and conditions as the Secretary”.
 
-Subsec. (f). Pub. L. 103–160, § 2851(a)(4), substituted “Administrator” for “Secretary”.
+Subsec. (f). Pub. L. 103–160, § 2851(a)(4), substituted “Administrator” for “Secretary”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -467,7 +467,7 @@ Subsec. (f). Pub. L. 103–160, § 2851(a)(4), substituted “Administrator”
 
 Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
 
-## § 9782. Maintenance and repair of real property
+## § 9782. Maintenance and repair of real property
 
 **(a) Allocation of Funds.—** The Secretary of the Air Force shall allocate funds authorized to be appropriated by a provision described in subsection (c) and a provision described in subsection (d) for maintenance and repair of real property at military installations of the Department of the Air Force without regard to whether the installation is supported with funds authorized by a provision described in subsection (c) or (d).
 
@@ -477,7 +477,7 @@ Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L.
 
 **(d) Operation and Maintenance Funds.—** The provision described in this subsection is a provision of a national defense authorization Act that authorizes funds to be appropriated for a fiscal year to the Air Force or the Space Force for operation and maintenance.
 
-(Added Pub. L. 105–85, div. A, title II, § 242(a), Nov. 18, 1997, 111 Stat. 1666; amended Pub. L. 116–283, div. A, title IX, § 923(e)(21), Jan. 1, 2021, 134 Stat. 3819.)
+(Added Pub. L. 105–85, div. A, title II, § 242(a), Nov. 18, 1997, 111 Stat. 1666; amended Pub. L. 116–283, div. A, title IX, § 923(e)(21), Jan. 1, 2021, 134 Stat. 3819.)
 
 **Editorial Notes**
 
@@ -485,7 +485,7 @@ Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L.
 
 2021—Subsecs. (c), (d). Pub. L. 116–283 inserted “or the Space Force” after “the Air Force”.
 
-## § 9783. Johnston Atoll: reimbursement for support provided to civil air carriers
+## § 9783. Johnston Atoll: reimbursement for support provided to civil air carriers
 
 **(a) Authority of the Secretary.—** The Secretary of the Air Force may, under regulations prescribed by the Secretary, require payment by a civil air carrier for support provided by the United States to the carrier at Johnston Atoll that is either—
 
@@ -513,7 +513,7 @@ Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L.
 
 **(2)** The term “support” includes fuel, fire rescue, use of facilities, improvements necessary to accommodate use by civil air carriers, police, safety, housing, food, air traffic control, suspension of military operations on the island (including operations at the Johnston Atoll Chemical Agent Demilitarization System), repairs, and any other construction, services, or supplies.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title III, § 383(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–86; amended Pub. L. 107–107, div. A, title X, § 1048(a)(30), Dec. 28, 2001, 115 Stat. 1225.)
+(Added Pub. L. 106–398, § 1 [[div. A], title III, § 383(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–86; amended Pub. L. 107–107, div. A, title X, § 1048(a)(30), Dec. 28, 2001, 115 Stat. 1225.)
 
 **Editorial Notes**
 
@@ -521,7 +521,7 @@ Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L.
 
 2001—Subsec. (e)(1). Pub. L. 107–107 substituted “40102(a)(2)” for “40101(a)(2)”.
 
-## § 9784. Air Force and Space Force Museum System
+## § 9784. Air Force and Space Force Museum System
 
 **(a) In General.—** The Secretary of the Air Force shall support a system of official Air Force and Space Force museums within the Department of the Air Force. Such system shall include the National Museum of the United States Air Force and may contain other museums honoring individual installations, units, and branches, as designated by the Secretary of the Air Force, that meet criteria established under subsection (b).
 
@@ -549,4 +549,4 @@ Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L.
 
 **(d) Funding and Support.—** Consistent with applicable law, the Secretary may enter into partnerships, including with nonprofit organizations, to enhance the financial sustainability and public engagement of the museums in the Air Force and Space Force museum system.
 
-(Added Pub. L. 119–60, div. A, title III, § 376, Dec. 18, 2025, 139 Stat. 840.)
+(Added Pub. L. 119–60, div. A, title III, § 376, Dec. 18, 2025, 139 Stat. 840.)

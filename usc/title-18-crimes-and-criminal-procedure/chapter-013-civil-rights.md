@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2022—Pub. L. 117–103, div. W, title XII, § 1202(a)(2), Mar. 15, 2022, 136 Stat. 924, added item 250.
+2022—Pub. L. 117–103, div. W, title XII, § 1202(a)(2), Mar. 15, 2022, 136 Stat. 924, added item 250.
 
-2009—Pub. L. 111–84, div. E, § 4707(b), Oct. 28, 2009, 123 Stat. 2841, added item 249.
+2009—Pub. L. 111–84, div. E, § 4707(b), Oct. 28, 2009, 123 Stat. 2841, added item 249.
 
-1994—Pub. L. 103–322, title XXXIII, § 330023(a)(1), Sept. 13, 1994, 108 Stat. 2150, substituted “Freedom of access to clinic entrances” for “Blocking access to reproductive health services” in item 248.
+1994—Pub. L. 103–322, title XXXIII, § 330023(a)(1), Sept. 13, 1994, 108 Stat. 2150, substituted “Freedom of access to clinic entrances” for “Blocking access to reproductive health services” in item 248.
 
-Pub. L. 103–259, § 4, May 26, 1994, 108 Stat. 697, added item 248.
+Pub. L. 103–259, § 4, May 26, 1994, 108 Stat. 697, added item 248.
 
-1988—Pub. L. 100–690, title VII, § 7018(b)(2), Nov. 18, 1988, 102 Stat. 4396, struck out “of citizens” after “rights” in item 241.
+1988—Pub. L. 100–690, title VII, § 7018(b)(2), Nov. 18, 1988, 102 Stat. 4396, struck out “of citizens” after “rights” in item 241.
 
-Pub. L. 100–346, § 3, June 24, 1988, 102 Stat. 645, added item 247.
+Pub. L. 100–346, § 3, June 24, 1988, 102 Stat. 645, added item 247.
 
-1976—Pub. L. 94–453, § 4(b), Oct. 2, 1976, 90 Stat. 1517, added item 246.
+1976—Pub. L. 94–453, § 4(b), Oct. 2, 1976, 90 Stat. 1517, added item 246.
 
-1968—Pub. L. 90–284, title I, § 102, Apr. 11, 1968, 82 Stat. 75, added item 245.
+1968—Pub. L. 90–284, title I, § 102, Apr. 11, 1968, 82 Stat. 75, added item 245.
 
-## § 241. Conspiracy against rights
+## § 241. Conspiracy against rights
 
 If two or more persons conspire to injure, oppress, threaten, or intimidate any person in any State, Territory, Commonwealth, Possession, or District in the free exercise or enjoyment of any right or privilege secured to him by the Constitution or laws of the United States, or because of his having so exercised the same; or
 
@@ -43,11 +43,11 @@ If two or more persons go in disguise on the highway, or on the premises of anot
 
 They shall be fined under this title or imprisoned not more than ten years, or both; and if death results from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, they shall be fined under this title or imprisoned for any term of years or for life, or both, or may be sentenced to death.
 
-(June 25, 1948, ch. 645, 62 Stat. 696; Pub. L. 90–284, title I, § 103(a), Apr. 11, 1968, 82 Stat. 75; Pub. L. 100–690, title VII, § 7018(a), (b)(1), Nov. 18, 1988, 102 Stat. 4396; Pub. L. 103–322, title VI, § 60006(a), title XXXII, §§ 320103(a), 320201(a), title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 1970, 2109, 2113, 2147; Pub. L. 104–294, title VI, §§ 604(b)(14)(A), 607(a), Oct. 11, 1996, 110 Stat. 3507, 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 696; Pub. L. 90–284, title I, § 103(a), Apr. 11, 1968, 82 Stat. 75; Pub. L. 100–690, title VII, § 7018(a), (b)(1), Nov. 18, 1988, 102 Stat. 4396; Pub. L. 103–322, title VI, § 60006(a), title XXXII, §§ 320103(a), 320201(a), title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 1970, 2109, 2113, 2147; Pub. L. 104–294, title VI, §§ 604(b)(14)(A), 607(a), Oct. 11, 1996, 110 Stat. 3507, 3511.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 51 (Mar. 4, 1909, ch. 321, § 19, 35 Stat. 1092).
+Based on title 18, U.S.C., 1940 ed., § 51 (Mar. 4, 1909, ch. 321, § 19, 35 Stat. 1092).
 
 Clause making conspirator ineligible to hold office was omitted as incongruous because it attaches ineligibility to hold office to a person who may be a private citizen and who was convicted of conspiracy to violate a specific statute. There seems to be no reason for imposing such a penalty in the case of one individual crime, in view of the fact that other crimes do not carry such a severe consequence. The experience of the Department of Justice is that this unusual penalty has been an obstacle to successful prosecutions for violations of the act.
 
@@ -59,19 +59,19 @@ Minor changes in phraseology were made.
 
 **Amendments**
 
-1996—Pub. L. 104–294, § 607(a), substituted “any State, Territory, Commonwealth, Possession, or District” for “any State, Territory, or District” in first par.
+1996—Pub. L. 104–294, § 607(a), substituted “any State, Territory, Commonwealth, Possession, or District” for “any State, Territory, or District” in first par.
 
-Pub. L. 104–294, § 604(b)(14)(A), repealed Pub. L. 103–322, § 320103(a)(1). See 1994 Amendment note below.
+Pub. L. 104–294, § 604(b)(14)(A), repealed Pub. L. 103–322, § 320103(a)(1). See 1994 Amendment note below.
 
-1994—Pub. L. 103–322, § 330016(1)(L), substituted “They shall be fined under this title” for “They shall be fined not more than $10,000” in third par.
+1994—Pub. L. 103–322, § 330016(1)(L), substituted “They shall be fined under this title” for “They shall be fined not more than $10,000” in third par.
 
-Pub. L. 103–322, § 320201(a), substituted “person in any State” for “inhabitant of any State” in first par.
+Pub. L. 103–322, § 320201(a), substituted “person in any State” for “inhabitant of any State” in first par.
 
-Pub. L. 103–322, § 320103(a)(2)–(4), in third par., substituted “results from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, they shall be fined under this title or imprisoned for any term of years or for life, or both” for “results, they shall be subject to imprisonment for any term of years or for life”.
+Pub. L. 103–322, § 320103(a)(2)–(4), in third par., substituted “results from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, they shall be fined under this title or imprisoned for any term of years or for life, or both” for “results, they shall be subject to imprisonment for any term of years or for life”.
 
-Pub. L. 103–322, § 320103(a)(1), which provided for amendment identical to Pub. L. 103–322, § 330016(1)(L), above, was repealed by Pub. L. 104–294, § 604(b)(14)(A).
+Pub. L. 103–322, § 320103(a)(1), which provided for amendment identical to Pub. L. 103–322, § 330016(1)(L), above, was repealed by Pub. L. 104–294, § 604(b)(14)(A).
 
-Pub. L. 103–322, § 60006(a), substituted “, or may be sentenced to death.” for period at end of third par.
+Pub. L. 103–322, § 60006(a), substituted “, or may be sentenced to death.” for period at end of third par.
 
 1988—Pub. L. 100–690 struck out “of citizens” after “rights” in section catchline and substituted “inhabitant of any State, Territory, or District” for “citizen” in text.
 
@@ -85,17 +85,17 @@ Amendment by section 604(b)(14)(A) of Pub. L. 104–294 effective Sept. 13, 1994
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–155, § 1, July 3, 1996, 110 Stat. 1392, provided that: “This Act [amending section 247 of this title and section 10602 of Title 42, The Public Health and Welfare, enacting provisions set out as a note under section 247 of this title, and amending provisions set out as a note under section 534 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Church Arson Prevention Act of 1996’.”
+Pub. L. 104–155, § 1, July 3, 1996, 110 Stat. 1392, provided that: “This Act [amending section 247 of this title and section 10602 of Title 42, The Public Health and Welfare, enacting provisions set out as a note under section 247 of this title, and amending provisions set out as a note under section 534 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Church Arson Prevention Act of 1996’.”
 
-## § 242. Deprivation of rights under color of law
+## § 242. Deprivation of rights under color of law
 
 Whoever, under color of any law, statute, ordinance, regulation, or custom, willfully subjects any person in any State, Territory, Commonwealth, Possession, or District to the deprivation of any rights, privileges, or immunities secured or protected by the Constitution or laws of the United States, or to different punishments, pains, or penalties, on account of such person being an alien, or by reason of his color, or race, than are prescribed for the punishment of citizens, shall be fined under this title or imprisoned not more than one year, or both; and if bodily injury results from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire, shall be fined under this title or imprisoned not more than ten years, or both; and if death results from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse, or an attempt to commit aggravated sexual abuse, or an attempt to kill, shall be fined under this title, or imprisoned for any term of years or for life, or both, or may be sentenced to death.
 
-(June 25, 1948, ch. 645, 62 Stat. 696; Pub. L. 90–284, title I, § 103(b), Apr. 11, 1968, 82 Stat. 75; Pub. L. 100–690, title VII, § 7019, Nov. 18, 1988, 102 Stat. 4396; Pub. L. 103–322, title VI, § 60006(b), title XXXII, §§ 320103(b), 320201(b), title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 1970, 2109, 2113, 2147; Pub. L. 104–294, title VI, §§ 604(b)(14)(B), 607(a), Oct. 11, 1996, 110 Stat. 3507, 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 696; Pub. L. 90–284, title I, § 103(b), Apr. 11, 1968, 82 Stat. 75; Pub. L. 100–690, title VII, § 7019, Nov. 18, 1988, 102 Stat. 4396; Pub. L. 103–322, title VI, § 60006(b), title XXXII, §§ 320103(b), 320201(b), title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 1970, 2109, 2113, 2147; Pub. L. 104–294, title VI, §§ 604(b)(14)(B), 607(a), Oct. 11, 1996, 110 Stat. 3507, 3511.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 52 (Mar. 4, 1909, ch. 321, § 20, 35 Stat. 1092).
+Based on title 18, U.S.C., 1940 ed., § 52 (Mar. 4, 1909, ch. 321, § 20, 35 Stat. 1092).
 
 Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
 
@@ -105,19 +105,19 @@ A minor change was made in phraseology.
 
 **Amendments**
 
-1996—Pub. L. 104–294, § 607(a), substituted “any State, Territory, Commonwealth, Possession, or District” for “any State, Territory, or District”.
+1996—Pub. L. 104–294, § 607(a), substituted “any State, Territory, Commonwealth, Possession, or District” for “any State, Territory, or District”.
 
-Pub. L. 104–294, § 604(b)(14)(B), repealed Pub. L. 103–322, § 320103(b)(1). See 1994 Amendment note below.
+Pub. L. 104–294, § 604(b)(14)(B), repealed Pub. L. 103–322, § 320103(b)(1). See 1994 Amendment note below.
 
-1994—Pub. L. 103–322, § 330016(1)(H), substituted “shall be fined under this title” for “shall be fined not more than $1,000” after “citizens,”.
+1994—Pub. L. 103–322, § 330016(1)(H), substituted “shall be fined under this title” for “shall be fined not more than $1,000” after “citizens,”.
 
-Pub. L. 103–322, § 320201(b), substituted “any person in any State” for “any inhabitant of any State” and “on account of such person” for “on account of such inhabitant”.
+Pub. L. 103–322, § 320201(b), substituted “any person in any State” for “any inhabitant of any State” and “on account of such person” for “on account of such inhabitant”.
 
-Pub. L. 103–322, § 320103(b)(2)–(5), substituted “bodily injury results from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire, shall be fined under this title or imprisoned not more than ten years, or both; and if death results from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse, or an attempt to commit aggravated sexual abuse, or an attempt to kill, shall be fined under this title, or imprisoned for any term of years or for life, or both” for “bodily injury results shall be fined under this title or imprisoned not more than ten years, or both; and if death results shall be subject to imprisonment for any term of years or for life”.
+Pub. L. 103–322, § 320103(b)(2)–(5), substituted “bodily injury results from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire, shall be fined under this title or imprisoned not more than ten years, or both; and if death results from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse, or an attempt to commit aggravated sexual abuse, or an attempt to kill, shall be fined under this title, or imprisoned for any term of years or for life, or both” for “bodily injury results shall be fined under this title or imprisoned not more than ten years, or both; and if death results shall be subject to imprisonment for any term of years or for life”.
 
-Pub. L. 103–322, § 320103(b)(1), which provided for amendment identical to Pub. L. 103–322, § 330016(1)(H), above, was repealed by Pub. L. 104–294, § 604(b)(14)(B).
+Pub. L. 103–322, § 320103(b)(1), which provided for amendment identical to Pub. L. 103–322, § 330016(1)(H), above, was repealed by Pub. L. 104–294, § 604(b)(14)(B).
 
-Pub. L. 103–322, § 60006(b), inserted before period at end “, or may be sentenced to death”.
+Pub. L. 103–322, § 60006(b), inserted before period at end “, or may be sentenced to death”.
 
 1988—Pub. L. 100–690 inserted “and if bodily injury results shall be fined under this title or imprisoned not more than ten years, or both;” after “or both;”.
 
@@ -129,7 +129,7 @@ Pub. L. 103–322, § 60006(b), inserted before period at end “, or may be
 
 Amendment by section 604(b)(14)(B) of Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
-## § 243. Exclusion of jurors on account of race or color
+## § 243. Exclusion of jurors on account of race or color
 
 No citizen possessing all other qualifications which are or may be prescribed by law shall be disqualified for service as grand or petit juror in any court of the United States, or of any State on account of race, color, or previous condition of servitude; and whoever, being an officer or other person charged with any duty in the selection or summoning of jurors, excludes or fails to summon any citizen for such cause, shall be fined not more than $5,000.
 
@@ -137,7 +137,7 @@ No citizen possessing all other qualifications which are or may be prescribed by
 
 **Historical and Revision Notes**
 
-Based on section 44 of title 8, U.S.C., 1940 ed., Aliens and Nationality (Mar. 1, 1875, ch. 114, § 4, 18 Stat. 336).
+Based on section 44 of title 8, U.S.C., 1940 ed., Aliens and Nationality (Mar. 1, 1875, ch. 114, § 4, 18 Stat. 336).
 
 Words “be deemed guilty of a misdemeanor, and” were deleted as unnecessary in view of definition of misdemeanor in section 1 of this title.
 
@@ -147,17 +147,17 @@ Minimum punishment provisions were omitted. (See reviser’s note under section 
 
 Minor changes in phraseology were made.
 
-## § 244. Discrimination against person wearing uniform of armed forces
+## § 244. Discrimination against person wearing uniform of armed forces
 
 Whoever, being a proprietor, manager, or employee of a theater or other public place of entertainment or amusement in the District of Columbia, or in any Territory, or Possession of the United States, causes any person wearing the uniform of any of the armed forces of the United States to be discriminated against because of that uniform, shall be fined under this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 697; May 24, 1949, ch. 139, § 5, 63 Stat. 90; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 697; May 24, 1949, ch. 139, § 5, 63 Stat. 90; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 18, U.S.C., 1940 ed., § 523 (Mar. 1, 1911, ch. 187, 36 Stat. 963; Aug. 24, 1912, ch. 387, § 1, 37 Stat. 512; Jan. 28, 1915, ch. 20, § 1, 38 Stat. 800).
+Based on title 18, U.S.C., 1940 ed., § 523 (Mar. 1, 1911, ch. 187, 36 Stat. 963; Aug. 24, 1912, ch. 387, § 1, 37 Stat. 512; Jan. 28, 1915, ch. 20, § 1, 38 Stat. 800).
 
 Words “guilty of a misdemeanor”, following “shall be”, were omitted as unnecessary in view of definition of “misdemeanor” in section 1 of this title. (See reviser’s note under section 212 of this title.)
 
@@ -175,7 +175,7 @@ This section [section 5] substitutes, in section 244 of title 18, U.S.C., “any
 
 1949—Act May 24, 1949, substituted “any of the armed forces of the United States” for enumeration of the specific branches.
 
-## § 245. Federally protected activities
+## § 245. Federally protected activities
 
 **(a)**
 
@@ -227,31 +227,31 @@ shall be fined under this title, or imprisoned not more than one year, or both; 
 
 **(d)** For purposes of this section, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Added Pub. L. 90–284, title I, § 101(a), Apr. 11, 1968, 82 Stat. 73; amended Pub. L. 100–690, title VII, § 7020(a), Nov. 18, 1988, 102 Stat. 4396; Pub. L. 101–647, title XII, § 1205(b), Nov. 29, 1990, 104 Stat. 4830; Pub. L. 103–322, title VI, § 60006(c), title XXXII, § 320103(c), title XXXIII, § 330016(1)(H), (L), Sept. 13, 1994, 108 Stat. 1971, 2109, 2147; Pub. L. 104–294, title VI, § 604(b)(14)(C), (37), Oct. 11, 1996, 110 Stat. 3507, 3509.)
+(Added Pub. L. 90–284, title I, § 101(a), Apr. 11, 1968, 82 Stat. 73; amended Pub. L. 100–690, title VII, § 7020(a), Nov. 18, 1988, 102 Stat. 4396; Pub. L. 101–647, title XII, § 1205(b), Nov. 29, 1990, 104 Stat. 4830; Pub. L. 103–322, title VI, § 60006(c), title XXXII, § 320103(c), title XXXIII, § 330016(1)(H), (L), Sept. 13, 1994, 108 Stat. 1971, 2109, 2147; Pub. L. 104–294, title VI, § 604(b)(14)(C), (37), Oct. 11, 1996, 110 Stat. 3507, 3509.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (b). Pub. L. 104–294 amended Pub. L. 103–322, § 320103(c). See 1994 Amendment notes below.
+1996—Subsec. (b). Pub. L. 104–294 amended Pub. L. 103–322, § 320103(c). See 1994 Amendment notes below.
 
-1994—Subsec. (b). Pub. L. 103–322, § 330016(1)(L), substituted “shall be fined under this title” for “shall be fined not more than $10,000” before “, or imprisoned not more than ten years” in concluding provisions.
+1994—Subsec. (b). Pub. L. 103–322, § 330016(1)(L), substituted “shall be fined under this title” for “shall be fined not more than $10,000” before “, or imprisoned not more than ten years” in concluding provisions.
 
-Pub. L. 103–322, § 330016(1)(H), substituted “shall be fined under this title” for “shall be fined not more than $1,000” before “, or imprisoned not more than one year” in concluding provisions.
+Pub. L. 103–322, § 330016(1)(H), substituted “shall be fined under this title” for “shall be fined not more than $1,000” before “, or imprisoned not more than one year” in concluding provisions.
 
-Pub. L. 103–322, § 320103(c)(4)–(6), in concluding provisions, inserted “from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill,” after “death results” and substituted “shall be fined under this title or imprisoned for any term of years or for life, or both” for “shall be subject to imprisonment for any term of years or for life”.
+Pub. L. 103–322, § 320103(c)(4)–(6), in concluding provisions, inserted “from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill,” after “death results” and substituted “shall be fined under this title or imprisoned for any term of years or for life, or both” for “shall be subject to imprisonment for any term of years or for life”.
 
-Pub. L. 103–322, § 320103(c)(3), which provided for amendment identical to Pub. L. 103–322, § 330016(1)(L), above, was repealed by Pub. L. 104–294, § 604(b)(14)(C).
+Pub. L. 103–322, § 320103(c)(3), which provided for amendment identical to Pub. L. 103–322, § 330016(1)(L), above, was repealed by Pub. L. 104–294, § 604(b)(14)(C).
 
-Pub. L. 103–322, § 320103(c)(2), as amended by Pub. L. 104–294, § 604(b)(37), inserted “from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire” after “bodily injury results” in concluding provisions.
+Pub. L. 103–322, § 320103(c)(2), as amended by Pub. L. 104–294, § 604(b)(37), inserted “from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire” after “bodily injury results” in concluding provisions.
 
-Pub. L. 103–322, § 320103(c)(1), which provided for amendment identical to Pub. L. 103–322, § 330016(1)(H), above, was repealed by Pub. L. 104–294, § 604(b)(14)(C).
+Pub. L. 103–322, § 320103(c)(1), which provided for amendment identical to Pub. L. 103–322, § 330016(1)(H), above, was repealed by Pub. L. 104–294, § 604(b)(14)(C).
 
-Pub. L. 103–322, § 60006(c), in concluding provisions, inserted “, or may be sentenced to death” before “. As used in this section”.
+Pub. L. 103–322, § 60006(c), in concluding provisions, inserted “, or may be sentenced to death” before “. As used in this section”.
 
 1990—Subsec. (d). Pub. L. 101–647 added subsec. (d).
 
-1988—Subsec. (a)(1). Pub. L. 100–690 substituted “, the Deputy” for “or the Deputy” and inserted “, the Associate Attorney General, or any Assistant Attorney General specially designated by the Attorney General” after “Deputy Attorney General”.
+1988—Subsec. (a)(1). Pub. L. 100–690 substituted “, the Deputy” for “or the Deputy” and inserted “, the Associate Attorney General, or any Assistant Attorney General specially designated by the Attorney General” after “Deputy Attorney General”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -261,17 +261,17 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 **Fair Housing**
 
-Pub. L. 90–284, title I, § 101(b), Apr. 11, 1968, 82 Stat. 75, provided that: “Nothing contained in this section [enacting this section] shall apply to or affect activities under title VIII of this Act [sections 3601 to 3619 of Title 42, The Public Health and Welfare].”
+Pub. L. 90–284, title I, § 101(b), Apr. 11, 1968, 82 Stat. 75, provided that: “Nothing contained in this section [enacting this section] shall apply to or affect activities under title VIII of this Act [sections 3601 to 3619 of Title 42, The Public Health and Welfare].”
 
 **Riots or Civil Disturbances, Suppression and Restoration of Law and Order; Acts or Omissions of Enforcement Officers and Members of Military Service Not Subject to This Section**
 
-Pub. L. 90–284, title I, § 101(c), Apr. 11, 1968, 82 Stat. 75, provided that: “The provisions of this section [enacting this section] shall not apply to acts or omissions on the part of law enforcement officers, members of the National Guard, as defined in section 101(9) of title 10, United States Code [now 10 U.S.C. 101(c)(1)], members of the organized militia of any State or the District of Columbia, not covered by such section 101(9), or members of the Armed Forces of the United States, who are engaged in suppressing a riot or civil disturbance or restoring law and order during a riot or civil disturbance.”
+Pub. L. 90–284, title I, § 101(c), Apr. 11, 1968, 82 Stat. 75, provided that: “The provisions of this section [enacting this section] shall not apply to acts or omissions on the part of law enforcement officers, members of the National Guard, as defined in section 101(9) of title 10, United States Code [now 10 U.S.C. 101(c)(1)], members of the organized militia of any State or the District of Columbia, not covered by such section 101(9), or members of the Armed Forces of the United States, who are engaged in suppressing a riot or civil disturbance or restoring law and order during a riot or civil disturbance.”
 
-## § 246. Deprivation of relief benefits
+## § 246. Deprivation of relief benefits
 
 Whoever directly or indirectly deprives, attempts to deprive, or threatens to deprive any person of any employment, position, work, compensation, or other benefit provided for or made possible in whole or in part by any Act of Congress appropriating funds for work relief or relief purposes, on account of political affiliation, race, color, sex, religion, or national origin, shall be fined under this title, or imprisoned not more than one year, or both.
 
-(Added Pub. L. 94–453, § 4(a), Oct. 2, 1976, 90 Stat. 1517; amended Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 94–453, § 4(a), Oct. 2, 1976, 90 Stat. 1517; amended Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Editorial Notes**
 
@@ -279,7 +279,7 @@ Whoever directly or indirectly deprives, attempts to deprive, or threatens to de
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-## § 247. Damage to religious property; obstruction of persons in the free exercise of religious beliefs
+## § 247. Damage to religious property; obstruction of persons in the free exercise of religious beliefs
 
 **(a)** Whoever, in any of the circumstances referred to in subsection (b) of this section—
 
@@ -311,59 +311,59 @@ shall be punished as provided in subsection (d).
 
 **(g)** No person shall be prosecuted, tried, or punished for any noncapital offense under this section unless the indictment is found or the information is instituted not later than 7 years after the date on which the offense was committed.
 
-(Added Pub. L. 100–346, § 1, June 24, 1988, 102 Stat. 644; amended Pub. L. 103–322, title VI, § 60006(d), title XXXII, § 320103(d), Sept. 13, 1994, 108 Stat. 1971, 2110; Pub. L. 104–155, § 3, July 3, 1996, 110 Stat. 1392; Pub. L. 104–294, title VI, §§ 601(c)(3), 605(r), Oct. 11, 1996, 110 Stat. 3499, 3511; Pub. L. 107–273, div. B, title IV, § 4002(c)(1), (e)(4), Nov. 2, 2002, 116 Stat. 1808, 1810; Pub. L. 115–249, § 2, Sept. 28, 2018, 132 Stat. 3162.)
+(Added Pub. L. 100–346, § 1, June 24, 1988, 102 Stat. 644; amended Pub. L. 103–322, title VI, § 60006(d), title XXXII, § 320103(d), Sept. 13, 1994, 108 Stat. 1971, 2110; Pub. L. 104–155, § 3, July 3, 1996, 110 Stat. 1392; Pub. L. 104–294, title VI, §§ 601(c)(3), 605(r), Oct. 11, 1996, 110 Stat. 3499, 3511; Pub. L. 107–273, div. B, title IV, § 4002(c)(1), (e)(4), Nov. 2, 2002, 116 Stat. 1808, 1810; Pub. L. 115–249, § 2, Sept. 28, 2018, 132 Stat. 3162.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a)(2). Pub. L. 115–249, § 2(1), inserted “including by threat of force against religious real property,” after “threat of force,”.
+2018—Subsec. (a)(2). Pub. L. 115–249, § 2(1), inserted “including by threat of force against religious real property,” after “threat of force,”.
 
-Subsec. (d). Pub. L. 115–249, § 2(2)(A), inserted “or (c)” after “subsection (a)” in introductory provisions.
+Subsec. (d). Pub. L. 115–249, § 2(2)(A), inserted “or (c)” after “subsection (a)” in introductory provisions.
 
-Subsec. (d)(4), (5). Pub. L. 115–249, § 2(2)(B)–(D), added par. (4) and redesignated former par. (4) as (5).
+Subsec. (d)(4), (5). Pub. L. 115–249, § 2(2)(B)–(D), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (f). Pub. L. 115–249, § 2(3), inserted “, or real property owned or leased by a nonprofit, religiously affiliated organization” before period at end.
+Subsec. (f). Pub. L. 115–249, § 2(3), inserted “, or real property owned or leased by a nonprofit, religiously affiliated organization” before period at end.
 
-2002—Subsec. (d). Pub. L. 107–273, § 4002(c)(1), repealed amendment by Pub. L. 104–294, § 605(r). See 1996 Amendment note below.
+2002—Subsec. (d). Pub. L. 107–273, § 4002(c)(1), repealed amendment by Pub. L. 104–294, § 605(r). See 1996 Amendment note below.
 
-Subsec. (e). Pub. L. 107–273, § 4002(e)(4), made technical correction to directory language of Pub. L. 104–294, § 601(c)(3). See 1996 Amendment note below.
+Subsec. (e). Pub. L. 107–273, § 4002(e)(4), made technical correction to directory language of Pub. L. 104–294, § 601(c)(3). See 1996 Amendment note below.
 
-1996—Subsec. (a). Pub. L. 104–155, § 3(1), substituted “subsection (d)” for “subsection (c) of this section” in concluding provisions.
+1996—Subsec. (a). Pub. L. 104–155, § 3(1), substituted “subsection (d)” for “subsection (c) of this section” in concluding provisions.
 
-Subsec. (b). Pub. L. 104–155, § 3(3), added subsec. (b) and struck out former subsec. (b) which read as follows: “The circumstances referred to in subsection (a) are that—
+Subsec. (b). Pub. L. 104–155, § 3(3), added subsec. (b) and struck out former subsec. (b) which read as follows: “The circumstances referred to in subsection (a) are that—
 
 “(1) in committing the offense, the defendant travels in interstate or foreign commerce, or uses a facility or instrumentality of interstate or foreign commerce in interstate or foreign commerce; and
 
 “(2) in the case of an offense under subsection (a)(1), the loss resulting from the defacement, damage, or destruction is more than $10,000.”
 
-Subsec. (c). Pub. L. 104–155, § 3(2), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 104–155, § 3(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 104–294, § 605(r), which directed the substitution of “certification” for “notification” in subsec. (d), was repealed by Pub. L. 107–273, § 4002(c)(1).
+Subsec. (d). Pub. L. 104–294, § 605(r), which directed the substitution of “certification” for “notification” in subsec. (d), was repealed by Pub. L. 107–273, § 4002(c)(1).
 
-Subsec. (d). Pub. L. 104–155, § 3(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 104–155, § 3(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (d)(2). Pub. L. 104–155, § 3(4)(C), added par. (2). Former par. (2) redesignated (3).
+Subsec. (d)(2). Pub. L. 104–155, § 3(4)(C), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (d)(3). Pub. L. 104–155, § 3(4)(A), (B), redesignated par. (2) as (3), inserted “to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this section,” after “bodily injury” and substituted “20 years” for “ten years”. Former par. (3) redesignated (4).
+Subsec. (d)(3). Pub. L. 104–155, § 3(4)(A), (B), redesignated par. (2) as (3), inserted “to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this section,” after “bodily injury” and substituted “20 years” for “ten years”. Former par. (3) redesignated (4).
 
-Subsec. (d)(4). Pub. L. 104–155, § 3(4)(B), redesignated par. (3) as (4).
+Subsec. (d)(4). Pub. L. 104–155, § 3(4)(B), redesignated par. (3) as (4).
 
-Subsec. (e). Pub. L. 104–294, § 601(c)(3), as amended by Pub. L. 107–273, § 4002(e)(4), substituted “certification” for “notification”.
+Subsec. (e). Pub. L. 104–294, § 601(c)(3), as amended by Pub. L. 107–273, § 4002(e)(4), substituted “certification” for “notification”.
 
-Pub. L. 104–155, § 3(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Pub. L. 104–155, § 3(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 104–155, § 3(2), (5), redesignated subsec. (e) as (f), inserted “, including fixtures or religious objects contained within a place of religious worship” before the period, and substituted “religious real property” for “religious property” in two places.
+Subsec. (f). Pub. L. 104–155, § 3(2), (5), redesignated subsec. (e) as (f), inserted “, including fixtures or religious objects contained within a place of religious worship” before the period, and substituted “religious real property” for “religious property” in two places.
 
-Subsec. (g). Pub. L. 104–155, § 3(6), added subsec. (g).
+Subsec. (g). Pub. L. 104–155, § 3(6), added subsec. (g).
 
-1994—Subsec. (c)(1). Pub. L. 103–322, § 320103(d)(1), inserted “from acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill” after “death results”.
+1994—Subsec. (c)(1). Pub. L. 103–322, § 320103(d)(1), inserted “from acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill” after “death results”.
 
-Pub. L. 103–322, § 60006(d), inserted “, or may be sentenced to death” after “or both”.
+Pub. L. 103–322, § 60006(d), inserted “, or may be sentenced to death” after “or both”.
 
-Subsec. (c)(2). Pub. L. 103–322, § 320103(d)(2), struck out “serious” before “bodily” and inserted “from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire” after “injury results”.
+Subsec. (c)(2). Pub. L. 103–322, § 320103(d)(2), struck out “serious” before “bodily” and inserted “from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire” after “injury results”.
 
-Subsec. (e). Pub. L. 103–322, § 320103(d)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “As used in this section—
+Subsec. (e). Pub. L. 103–322, § 320103(d)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “As used in this section—
 
 “(1) the term ‘religious real property’ means any church, synagogue, mosque, religious cemetery, or other religious real property; and
 
@@ -373,13 +373,13 @@ Subsec. (e). Pub. L. 103–322, § 320103(d)(3), amended subsec. (e) generally
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–273, div. B, title IV, § 4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, provided that the amendment made by section 4002(c)(1) is effective Oct. 11, 1996.
+Pub. L. 107–273, div. B, title IV, § 4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, provided that the amendment made by section 4002(c)(1) is effective Oct. 11, 1996.
 
-Pub. L. 107–273, div. B, title IV, § 4002(e)(4), Nov. 2, 2002, 116 Stat. 1810, provided that the amendment made by section 4002(e)(4) is effective Oct. 11, 1996.
+Pub. L. 107–273, div. B, title IV, § 4002(e)(4), Nov. 2, 2002, 116 Stat. 1810, provided that the amendment made by section 4002(e)(4) is effective Oct. 11, 1996.
 
 **Congressional Findings**
 
-Pub. L. 104–155, § 2, July 3, 1996, 110 Stat. 1392, provided that:
+Pub. L. 104–155, § 2, July 3, 1996, 110 Stat. 1392, provided that:
 
 > “The Congress finds the following:
 
@@ -395,7 +395,7 @@ Pub. L. 104–155, § 2, July 3, 1996, 110 Stat. 1392, provided that:
 
 > **“(6)** Congress has authority, pursuant to section 2 of the 13th amendment to the Constitution, to make actions of private citizens motivated by race, color, or ethnicity that interfere with the ability of citizens to hold or use religious property without fear of attack, violations of Federal criminal law.”
 
-## § 248. Freedom of access to clinic entrances
+## § 248. Freedom of access to clinic entrances
 
 **(a) Prohibited Activities.—** Whoever—
 
@@ -463,39 +463,39 @@ except that for an offense involving exclusively a nonviolent physical obstructi
 
 **(6) State.—** The term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(Added Pub. L. 103–259, § 3, May 26, 1994, 108 Stat. 694; amended Pub. L. 103–322, title XXXIII, § 330023(a)(2), (3), Sept. 13, 1994, 108 Stat. 2150.)
+(Added Pub. L. 103–259, § 3, May 26, 1994, 108 Stat. 694; amended Pub. L. 103–322, title XXXIII, § 330023(a)(2), (3), Sept. 13, 1994, 108 Stat. 2150.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Pub. L. 103–322, § 330023(a)(2), amended section catchline generally. Prior to amendment, catchline read as follows: “§ 248 Freedom of Access to Clinic Entrances.”
+1994—Pub. L. 103–322, § 330023(a)(2), amended section catchline generally. Prior to amendment, catchline read as follows: “§ 248 Freedom of Access to Clinic Entrances.”
 
-Subsec. (b). Pub. L. 103–322, § 330023(a)(3), in concluding provisions, inserted “, notwithstanding section 3571,” before “be not more than $25,000”.
+Subsec. (b). Pub. L. 103–322, § 330023(a)(3), in concluding provisions, inserted “, notwithstanding section 3571,” before “be not more than $25,000”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–322, title XXXIII, § 330023(b), Sept. 13, 1994, 108 Stat. 2150, provided that: “The amendments made by this subsection (a) [amending this section] shall take effect on the date of enactment of the Freedom of Access to Clinic Entrances Act of 1994 [May 26, 1994].”
+Pub. L. 103–322, title XXXIII, § 330023(b), Sept. 13, 1994, 108 Stat. 2150, provided that: “The amendments made by this subsection (a) [amending this section] shall take effect on the date of enactment of the Freedom of Access to Clinic Entrances Act of 1994 [May 26, 1994].”
 
 **Effective Date**
 
-Pub. L. 103–259, § 6, May 26, 1994, 108 Stat. 697, provided that: “This Act [see Short Title note below] takes effect on the date of the enactment of this Act [May 26, 1994], and shall apply only with respect to conduct occurring on or after such date.”
+Pub. L. 103–259, § 6, May 26, 1994, 108 Stat. 697, provided that: “This Act [see Short Title note below] takes effect on the date of the enactment of this Act [May 26, 1994], and shall apply only with respect to conduct occurring on or after such date.”
 
 **Short Title**
 
-Pub. L. 103–259, § 1, May 26, 1994, 108 Stat. 694, provided that: “This Act [enacting this section and provisions set out as notes under this section] may be cited as the ‘Freedom of Access to Clinic Entrances Act of 1994’.”
+Pub. L. 103–259, § 1, May 26, 1994, 108 Stat. 694, provided that: “This Act [enacting this section and provisions set out as notes under this section] may be cited as the ‘Freedom of Access to Clinic Entrances Act of 1994’.”
 
 **Severability of Provisions**
 
-Pub. L. 103–259, § 5, May 26, 1994, 108 Stat. 697, provided that: “If any provision of this Act [see Short Title note above], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any other person or circumstance shall not be affected thereby.”
+Pub. L. 103–259, § 5, May 26, 1994, 108 Stat. 697, provided that: “If any provision of this Act [see Short Title note above], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any other person or circumstance shall not be affected thereby.”
 
 **Congressional Statement of Purpose**
 
-Pub. L. 103–259, § 2, May 26, 1994, 108 Stat. 694, provided that: “Pursuant to the affirmative power of Congress to enact this legislation under section 8 of article I of the Constitution, as well as under section 5 of the fourteenth amendment to the Constitution, it is the purpose of this Act [see Short Title note above] to protect and promote the public safety and health and activities affecting interstate commerce by establishing Federal criminal penalties and civil remedies for certain violent, threatening, obstructive and destructive conduct that is intended to injure, intimidate or interfere with persons seeking to obtain or provide reproductive health services.”
+Pub. L. 103–259, § 2, May 26, 1994, 108 Stat. 694, provided that: “Pursuant to the affirmative power of Congress to enact this legislation under section 8 of article I of the Constitution, as well as under section 5 of the fourteenth amendment to the Constitution, it is the purpose of this Act [see Short Title note above] to protect and promote the public safety and health and activities affecting interstate commerce by establishing Federal criminal penalties and civil remedies for certain violent, threatening, obstructive and destructive conduct that is intended to injure, intimidate or interfere with persons seeking to obtain or provide reproductive health services.”
 
-## § 249. Hate crime acts
+## § 249. Hate crime acts
 
 **(a) In General.—**
 
@@ -581,7 +581,7 @@ Pub. L. 103–259, § 2, May 26, 1994, 108 Stat. 694, provided that: “Pursua
 
 **(e) Supervised Release.—** If a court includes, as a part of a sentence of imprisonment imposed for a violation of subsection (a), a requirement that the defendant be placed on a term of supervised release after imprisonment under section 3583, the court may order, as an explicit condition of supervised release, that the defendant undertake educational classes or community service directly related to the community harmed by the defendant’s offense.
 
-(Added and amended Pub. L. 111–84, div. E, §§ 4707(a), 4711, Oct. 28, 2009, 123 Stat. 2838, 2842; Pub. L. 117–13, § 5(h), May 20, 2021, 135 Stat. 272; Pub. L. 117–107, § 2, Mar. 29, 2022, 136 Stat. 1125.)
+(Added and amended Pub. L. 111–84, div. E, §§ 4707(a), 4711, Oct. 28, 2009, 123 Stat. 2838, 2842; Pub. L. 117–13, § 5(h), May 20, 2021, 135 Stat. 272; Pub. L. 117–107, § 2, Mar. 29, 2022, 136 Stat. 1125.)
 
 **Editorial Notes**
 
@@ -591,23 +591,23 @@ Pub. L. 103–259, § 2, May 26, 1994, 108 Stat. 694, provided that: “Pursua
 
 2021—Subsec. (e). Pub. L. 117–13 added subsec. (e).
 
-2009—Subsec. (a)(4). Pub. L. 111–84, § 4711, added par. (4).
+2009—Subsec. (a)(4). Pub. L. 111–84, § 4711, added par. (4).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Severability**
 
-Pub. L. 111–84, div. E, § 4709, Oct. 28, 2009, 123 Stat. 2841, which related to severability of provisions, was editorially reclassified as section 30505 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 111–84, div. E, § 4709, Oct. 28, 2009, 123 Stat. 2841, which related to severability of provisions, was editorially reclassified as section 30505 of Title 34, Crime Control and Law Enforcement.
 
 **Rule of Construction**
 
-Pub. L. 111–84, div. E, § 4710, Oct. 28, 2009, 123 Stat. 2841, which related to construction, was editorially reclassified as section 30506 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 111–84, div. E, § 4710, Oct. 28, 2009, 123 Stat. 2841, which related to construction, was editorially reclassified as section 30506 of Title 34, Crime Control and Law Enforcement.
 
 **Findings**
 
-Pub. L. 111–84, div. E, § 4702, Oct. 28, 2009, 123 Stat. 2835, which set out Congressional findings related to hate crimes, was editorially reclassified as section 30501 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 111–84, div. E, § 4702, Oct. 28, 2009, 123 Stat. 2835, which set out Congressional findings related to hate crimes, was editorially reclassified as section 30501 of Title 34, Crime Control and Law Enforcement.
 
-## § 250. Penalties for civil rights offenses involving sexual misconduct
+## § 250. Penalties for civil rights offenses involving sexual misconduct
 
 **(a) Offense.—** It shall be unlawful for any person to, in the course of committing an offense under this chapter or under section 901 of the Fair Housing Act (42 U.S.C. 3631), engage in, or cause another to engage in, sexual misconduct.
 
@@ -637,7 +637,7 @@ Pub. L. 111–84, div. E, § 4702, Oct. 28, 2009, 123 Stat. 2835, which set ou
 
 **(B)** if the offense involves a child under the age of 12, imprisoned for not more than 10 years.
 
-(Added Pub. L. 117–103, div. W, title XII, § 1202(a)(1), Mar. 15, 2022, 136 Stat. 923.)
+(Added Pub. L. 117–103, div. W, title XII, § 1202(a)(1), Mar. 15, 2022, 136 Stat. 923.)
 
 **Statutory Notes and Related Subsidiaries**
 

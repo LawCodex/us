@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 83—CORAL REEF CONSERVATION
 
-## § 6401. Purposes
+## § 6401. Purposes
 
 The purposes of this chapter are—
 
@@ -45,27 +45,27 @@ The purposes of this chapter are—
 
 **(8)** to serve as a model for advancing similar international efforts to monitor, conserve, and restore coral reef ecosystems.
 
-(Pub. L. 106–562, title II, § 202, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3931.)
+(Pub. L. 106–562, title II, § 202, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3931.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 6401, Pub. L. 106–562, title II, § 202, Dec. 23, 2000, 114 Stat. 2800, set forth purposes of this chapter, prior to repeal by Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3931.
+A prior section 6401, Pub. L. 106–562, title II, § 202, Dec. 23, 2000, 114 Stat. 2800, set forth purposes of this chapter, prior to repeal by Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3931.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 106–562, title II, § 201, Dec. 23, 2000, 114 Stat. 2800, provided that: “This title [enacting this chapter] may be cited as the ‘Coral Reef Conservation Act of 2000’.”
+Pub. L. 106–562, title II, § 201, Dec. 23, 2000, 114 Stat. 2800, provided that: “This title [enacting this chapter] may be cited as the ‘Coral Reef Conservation Act of 2000’.”
 
 **Savings Clause**
 
-Pub. L. 117–263, div. J, title C, § 10001(d), Dec. 23, 2022, 136 Stat. 3951, provided that: “None of the amendments made by or provisions of this title [enacting sections 6401 to 6415 of this title and chapter 83A of this title, amending section 7504 of this title, and repealing sections 6401 to 6409 of this title] may be construed to enlarge the management authority of a Federal agency or coral reef stewardship partnership to coral reefs and coral reef ecosystems outside the boundaries of such agency’s or partnership’s jurisdiction.”
+Pub. L. 117–263, div. J, title C, § 10001(d), Dec. 23, 2022, 136 Stat. 3951, provided that: “None of the amendments made by or provisions of this title [enacting sections 6401 to 6415 of this title and chapter 83A of this title, amending section 7504 of this title, and repealing sections 6401 to 6409 of this title] may be construed to enlarge the management authority of a Federal agency or coral reef stewardship partnership to coral reefs and coral reef ecosystems outside the boundaries of such agency’s or partnership’s jurisdiction.”
 
 **Northwestern Hawaiian Islands Coral Reef Reserve**
 
-Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(f)], Dec. 21, 2000, 114 Stat. 2763, 2763A–249, provided that:
+Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(f)], Dec. 21, 2000, 114 Stat. 2763, 2763A–249, provided that:
 
 > **“(1)** The President, after consultation with the Governor of the State of Hawaii, may designate any Northwestern Hawaiian Islands coral reef or coral reef ecosystem as a coral reef reserve to be managed by the Secretary of Commerce.
 
@@ -87,7 +87,7 @@ Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(f)], Dec. 21, 2000, 1
 
 > **“(7)** There are authorized to be appropriated to the Secretary of Commerce to carry out the provisions of this subsection such sums, not exceeding $4,000,000 for each of fiscal years 2001, 2002, 2003, 2004, and 2005, as are reported under paragraph (5) [(6)] to be reflected in the Budget of the United States Government.”
 
-Substantially identical provisions were contained in Pub. L. 106–513, § 6(g), Dec. 21, 2000, 114 Stat. 2385.
+Substantially identical provisions were contained in Pub. L. 106–513, § 6(g), Dec. 21, 2000, 114 Stat. 2385.
 
 **Executive Documents**
 
@@ -129,7 +129,7 @@ William J. Clinton.
 
 **Ex. Ord. No. 13178. Northwestern Hawaiian Islands Coral Reef Ecosystem Reserve**
 
-Ex. Ord. No. 13178, Dec. 4, 2000, 65 F.R. 76903, as amended by Ex. Ord. No. 13196, §§ 3, 4, Jan. 18, 2001, 66 F.R. 7395, 7396, provided:
+Ex. Ord. No. 13178, Dec. 4, 2000, 65 F.R. 76903, as amended by Ex. Ord. No. 13196, §§ 3, 4, Jan. 18, 2001, 66 F.R. 7395, 7396, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Marine Sanctuaries Act, (16 U.S.C. 1431 *et seq*.), and the National Marine Sanctuaries Amendments Act of 2000, Public Law 106–513 [see Short Title of 2000 Amendment note set out under section 1431 of this title], and in furtherance of the purposes of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 *et seq*.), Marine Protection, Research, and Sanctuaries Act [of 1972] (33 U.S.C. 1401 *et seq*. [16 U.S.C. 1431 et seq., 1447 et seq., 33 U.S.C. 1401 et seq., 2801 et seq.]), Coastal Zone Management Act (16 U.S.C. 1451 *et seq*.), Endangered Species Act [of 1973] (16 U.S.C. 1531 *et seq*.), Marine Mammal Protection Act [of 1972] (16 U.S.C. 1362 [1361] *et seq*.), Clean Water Act (33 U.S.C. 1251 *et seq*.), National Historic Preservation Act ([former] 16 U.S.C. 470 *et seq*.) [see 54 U.S.C. 300101 et seq.], National Wildlife Refuge System Administration Act (16 U.S.C. 668dd–ee), and other pertinent statutes, it is ordered as follows:
 
@@ -313,7 +313,7 @@ Sec. 8. *Reserve Preservation Areas.*
 
 (C) St. Rogatien Bank, provided that the closure area shall not be closer than approximately 3nm of the next bank immediately east, provided further that bottomfishing in accordance with the requirements of section 7(a)(1) of this order shall be allowed to continue, unless and until the Secretary determines otherwise after adequate public review and comment;
 
-(D), (E) [Revoked. Ex. Ord. No. 13196, § 4, Jan. 18, 2001, 66 F.R. 7396]
+(D), (E) [Revoked. Ex. Ord. No. 13196, § 4, Jan. 18, 2001, 66 F.R. 7396]
 
 (F) Pioneer Bank, provided that commercial bottomfishing and commercial and recreational trolling for pelagic species in accordance with the requirements of sections 7(a)(1) and 7(a)(2) of this order, respectively, of this order [sic] shall be allowed to continue, unless and until the Secretary determines otherwise after adequate public review and comment.
 
@@ -389,7 +389,7 @@ Sec. 6. *Judicial Review*. This order does not create any right or benefit, subs
 
 William J. Clinton.
 
-## § 6402. Federal coral reef management and restoration activities
+## § 6402. Federal coral reef management and restoration activities
 
 **(a) In general** The Administrator, the Secretary of the Interior, or the Secretary of Commerce may conduct activities described in subsection (b) to conserve and restore coral reefs and coral reef ecosystems that are consistent with—
 
@@ -447,7 +447,7 @@ William J. Clinton.
 
 **(4)** The Office of Insular Affairs.
 
-(Pub. L. 106–562, title II, § 203, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3932.)
+(Pub. L. 106–562, title II, § 203, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3932.)
 
 **Editorial Notes**
 
@@ -455,13 +455,13 @@ William J. Clinton.
 
 This chapter, referred to in subsec. (a)(1), was in the original “this Act” which was translated as reading “this title”, meaning title II of Pub. L. 106–562, to reflect the probable intent of Congress.
 
-The Endangered Species Act of 1973, referred to in subsec. (b)(4), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (b)(4), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 6402, Pub. L. 106–562, title II, § 203, Dec. 23, 2000, 114 Stat. 2800, related to national coral reef action strategy, prior to repeal by Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3931.
+A prior section 6402, Pub. L. 106–562, title II, § 203, Dec. 23, 2000, 114 Stat. 2800, related to national coral reef action strategy, prior to repeal by Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3931.
 
-## § 6403. National coral reef resilience strategy
+## § 6403. National coral reef resilience strategy
 
 **(a) In general** The Administrator shall—
 
@@ -523,9 +523,9 @@ A prior section 6402, Pub. L. 106–562, title II, § 203, Dec. 23, 2000, 114 
 
 **(B)** conservation and restoration priorities for grants awarded under section 6410 of this title; and
 
-**(C)** research priorities for the reef research coordination institutes designated under section 6412(b)(1)(B) 1
+**(C)** research priorities for the reef research coordination institutes designated under section 6412(b)(1)(B) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -539,7 +539,7 @@ of this title.
 
 **(2)** consult with the Secretary of Defense, as appropriate;
 
-**(3)** engage stakeholders, including covered States, coral reef stewardship partnerships, reef research institutes and research centers described in section 6412 <sup>1</sup> of this title, and recipients of grants under section 6410 of this title; and
+**(3)** engage stakeholders, including covered States, coral reef stewardship partnerships, reef research institutes and research centers described in section 6412 <sup>1</sup> of this title, and recipients of grants under section 6410 of this title; and
 
 **(4)** solicit public review and comment regarding scoping and the draft strategy.
 
@@ -553,7 +553,7 @@ of this title.
 
 **(B)** the Task Force.
 
-(Pub. L. 106–562, title II, § 204, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3933.)
+(Pub. L. 106–562, title II, § 204, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3933.)
 
 **Editorial Notes**
 
@@ -563,9 +563,9 @@ Section 6412 of this title, referred to in subsecs. (b)(2)(C) and (c)(3), probab
 
 **Prior Provisions**
 
-A prior section 6403, Pub. L. 106–562, title II, § 204, Dec. 23, 2000, 114 Stat. 2801, related to coral reef conservation program, prior to repeal by Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3931.
+A prior section 6403, Pub. L. 106–562, title II, § 204, Dec. 23, 2000, 114 Stat. 2801, related to coral reef conservation program, prior to repeal by Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3931.
 
-## § 6404. Coral reef action plans
+## § 6404. Coral reef action plans
 
 **(a) Plans prepared by Federal reef managers**
 
@@ -643,19 +643,19 @@ The Administrator and the Task Force shall make reasonable efforts to provide te
 
 The Administrator shall publish each coral reef action plan prepared and submitted to the Task Force under this section on the public website of the Coral Reef Conservation Program of the National Oceanic and Atmospheric Administration.
 
-(Pub. L. 106–562, title II, § 205, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3935.)
+(Pub. L. 106–562, title II, § 205, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3935.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Administrative Procedure Act, referred to in subsec. (a)(4), is act June 11, 1946, ch. 324, 60 Stat. 237, which was classified to sections 1001 to 1011 of former Title 5, Executive Departments and Government Officers and Employees, and which was repealed and reenacted as subchapter II (§ 551 et seq.) of chapter 5, and chapter 7 (§ 701 et seq.), of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378. See Short Title note preceding section 551 of Title 5.
+The Administrative Procedure Act, referred to in subsec. (a)(4), is act June 11, 1946, ch. 324, 60 Stat. 237, which was classified to sections 1001 to 1011 of former Title 5, Executive Departments and Government Officers and Employees, and which was repealed and reenacted as subchapter II (§ 551 et seq.) of chapter 5, and chapter 7 (§ 701 et seq.), of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378. See Short Title note preceding section 551 of Title 5.
 
 **Prior Provisions**
 
-A prior section 6404, Pub. L. 106–562, title II, § 205, Dec. 23, 2000, 114 Stat. 2803, related to creation of a coral reef conservation fund, prior to repeal by Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3931.
+A prior section 6404, Pub. L. 106–562, title II, § 205, Dec. 23, 2000, 114 Stat. 2803, related to creation of a coral reef conservation fund, prior to repeal by Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3931.
 
-## § 6405. Coral reef stewardship partnerships
+## § 6405. Coral reef stewardship partnerships
 
 **(a) In general**
 
@@ -707,25 +707,25 @@ Subject to subparagraph (B), a coral reef stewardship partnership described in p
 
 **(e) Nonapplicability of Federal Advisory Committee Act**
 
-The Federal Advisory Committee Act (5 U.S.C. App.) 1
+The Federal Advisory Committee Act (5 U.S.C. App.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall not apply to coral reef stewardship partnerships under this section.
 
-(Pub. L. 106–562, title II, § 206, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3937.)
+(Pub. L. 106–562, title II, § 206, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3937.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
+The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 **Prior Provisions**
 
-A prior section 6405, Pub. L. 106–562, title II, § 206, Dec. 23, 2000, 114 Stat. 2804, related to emergency assistance, prior to repeal by Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3931.
+A prior section 6405, Pub. L. 106–562, title II, § 206, Dec. 23, 2000, 114 Stat. 2804, related to emergency assistance, prior to repeal by Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3931.
 
-## § 6406. Block grants
+## § 6406. Block grants
 
 **(a) In general**
 
@@ -753,7 +753,7 @@ Subject to the availability of appropriations, the Administrator may seek to ent
 
 The Administrator may enter into a cooperative agreement with the All Islands Committee of the Task Force to provide support for its activities.
 
-(Pub. L. 106–562, title II, § 207, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3938.)
+(Pub. L. 106–562, title II, § 207, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3938.)
 
 **Editorial Notes**
 
@@ -763,9 +763,9 @@ This chapter, referred to in subsecs. (b)(1) and (c)(1), was in the original “
 
 **Prior Provisions**
 
-A prior section 6406, Pub. L. 106–562, title II, § 207, Dec. 23, 2000, 114 Stat. 2804, related to national program to conserve coral reefs and coral reef ecosystems, prior to repeal by Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3931.
+A prior section 6406, Pub. L. 106–562, title II, § 207, Dec. 23, 2000, 114 Stat. 2804, related to national program to conserve coral reefs and coral reef ecosystems, prior to repeal by Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3931.
 
-## § 6407. Coral Reef Stewardship Fund
+## § 6407. Coral Reef Stewardship Fund
 
 **(a) Agreement**
 
@@ -823,15 +823,15 @@ Notwithstanding section 3302 of title 31, any funds received as a gift shall be 
 
 Under an agreement entered into pursuant to subsection (a), and subject to the availability of appropriations, the Administrator may transfer funds appropriated for such purposes to carry out this chapter to the Foundation. Amounts received by the Foundation under this subsection may be used for matching, in whole or in part, contributions (whether in money, services, or property) made to the Foundation by private persons, State or local government agencies, or covered Native entities.
 
-(Pub. L. 106–562, title II, § 208, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3939.)
+(Pub. L. 106–562, title II, § 208, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3939.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 6407, Pub. L. 106–562, title II, § 208, Dec. 23, 2000, 114 Stat. 2804, required submission of reports documenting the effectiveness of the coral reef conservation grant program and describing activities undertaken to implement the national coral reef strategy, prior to repeal by Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3931.
+A prior section 6407, Pub. L. 106–562, title II, § 208, Dec. 23, 2000, 114 Stat. 2804, required submission of reports documenting the effectiveness of the coral reef conservation grant program and describing activities undertaken to implement the national coral reef strategy, prior to repeal by Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3931.
 
-## § 6408. Emergency assistance
+## § 6408. Emergency assistance
 
 **(a) In general**
 
@@ -863,15 +863,15 @@ Notwithstanding any other provision of law, from funds appropriated pursuant to 
 
 **(C)** an assessment of whether further action is needed to restore the affected coral reef, recommendations for such restoration, and a cost estimate to implement such recommendations.
 
-(Pub. L. 106–562, title II, § 209, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3940.)
+(Pub. L. 106–562, title II, § 209, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3940.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 6408, Pub. L. 106–562, title II, § 209, Dec. 23, 2000, 114 Stat. 2805, authorized appropriations, prior to repeal by Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3931.
+A prior section 6408, Pub. L. 106–562, title II, § 209, Dec. 23, 2000, 114 Stat. 2805, authorized appropriations, prior to repeal by Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3931.
 
-## § 6409. Coral Reef Disaster Fund
+## § 6409. Coral Reef Disaster Fund
 
 **(a) Agreements**
 
@@ -921,15 +921,15 @@ Pursuant to an agreement entered into under subsection (a), the Foundation may a
 
 Notwithstanding section 3302 of title 31, any funds received as a gift shall be deposited and maintained in the Fund.
 
-(Pub. L. 106–562, title II, § 210, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3941.)
+(Pub. L. 106–562, title II, § 210, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3941.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 6409, Pub. L. 106–562, title II, § 210, Dec. 23, 2000, 114 Stat. 2805, provided definitions for the chapter, prior to repeal by Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3931.
+A prior section 6409, Pub. L. 106–562, title II, § 210, Dec. 23, 2000, 114 Stat. 2805, provided definitions for the chapter, prior to repeal by Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3931.
 
-## § 6410. Ruth D. Gates Coral Reef Conservation Grant Program
+## § 6410. Ruth D. Gates Coral Reef Conservation Grant Program
 
 **(a) In general**
 
@@ -1067,17 +1067,17 @@ The Administrator shall review each coral reef project proposal submitted under 
 
 The Administrator may consult with the Secretary of the Interior and the Task Force to obtain guidance in establishing priorities and evaluating proposals for coral reef projects under this section.
 
-(Pub. L. 106–562, title II, § 211, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3941.)
+(Pub. L. 106–562, title II, § 211, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3941.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsecs. (c)(2)(B) and (e)(3)(A), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsecs. (c)(2)(B) and (e)(3)(A), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (f)(2)(H), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (f)(2)(H), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-## § 6411. Coral reef research
+## § 6411. Coral reef research
 
 **(a) Reef research coordination institutes**
 
@@ -1135,9 +1135,9 @@ Each institute designated under paragraph (1) shall be housed within a single co
 
 **(D)** maintains significant local community engagement and outreach programs related to coral reef ecosystems.
 
-(Pub. L. 106–562, title II, § 212, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3945.)
+(Pub. L. 106–562, title II, § 212, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3945.)
 
-## § 6412. Coral reef prize competitions
+## § 6412. Coral reef prize competitions
 
 **(a) In general**
 
@@ -1159,9 +1159,9 @@ Any program carried out under this section shall be for the purpose of stimulati
 
 **(5)** the development of adaptation and management options for impacted tourism industries.
 
-(Pub. L. 106–562, title II, § 213, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3946.)
+(Pub. L. 106–562, title II, § 213, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3946.)
 
-## § 6413. Reports on administration
+## § 6413. Reports on administration
 
 **(a) In general** Not later than 2 years after December 23, 2022, and every 2 years thereafter, the Administrator shall submit to the committees specified in subsection (b) a report on the administration of this chapter during the 2-year period preceding submission of the report, including—
 
@@ -1177,9 +1177,9 @@ Any program carried out under this section shall be for the purpose of stimulati
 
 **(2)** the Committee on Natural Resources and the Committee on Appropriations of the House of Representatives.
 
-(Pub. L. 106–562, title II, § 214, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3947.)
+(Pub. L. 106–562, title II, § 214, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3947.)
 
-## § 6414. Authorization of appropriations
+## § 6414. Authorization of appropriations
 
 **(a) In general** There is authorized to be appropriated to the Administrator $45,000,000 for each of fiscal years 2023 through 2027 to carry out this chapter which shall remain available until expended. Of such amounts, there is authorized to be appropriated for each such fiscal year—
 
@@ -1193,9 +1193,9 @@ Any program carried out under this section shall be for the purpose of stimulati
 
 Not more than 10 percent of the amounts appropriated under subsection (a) may be used for program administration or overhead costs incurred by the National Oceanic and Atmospheric Administration or the Department of Commerce.
 
-(Pub. L. 106–562, title II, § 215, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3947.)
+(Pub. L. 106–562, title II, § 215, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3947.)
 
-## § 6415. Definitions
+## § 6415. Definitions
 
 In this chapter:
 
@@ -1307,7 +1307,7 @@ The term “institution of higher education” has the meaning given that term i
 
 **(E)** An institution of higher education (as such term is defined in section 1001(a) of title 20.1
 
-<sup>1</sup>  So in original. A closing parenthesis probably should precede the period.
+<sup>1</sup> So in original. A closing parenthesis probably should precede the period.
 
 **(F)** A nongovernmental organization.
 
@@ -1363,4 +1363,4 @@ The term “stewardship”, with respect to a coral reef, includes conservation,
 
 The term “Task Force” means the United States Coral Reef Task Force established under section 6451 of this title.
 
-(Pub. L. 106–562, title II, § 216, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3948.)
+(Pub. L. 106–562, title II, § 216, as added Pub. L. 117–263, div. J, title C, § 10001(a), Dec. 23, 2022, 136 Stat. 3948.)

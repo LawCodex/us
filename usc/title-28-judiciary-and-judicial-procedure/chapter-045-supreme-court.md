@@ -19,25 +19,25 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2008—Pub. L. 110–402, § 1(b)(3)(B), Oct. 13, 2008, 122 Stat. 4254, added item 677 and struck out former item 677 “Administrative Assistant to the Chief Justice”.
+2008—Pub. L. 110–402, § 1(b)(3)(B), Oct. 13, 2008, 122 Stat. 4254, added item 677 and struck out former item 677 “Administrative Assistant to the Chief Justice”.
 
-1972—Pub. L. 92–238, § 2, Mar. 1, 1972, 86 Stat. 46, added item 677.
+1972—Pub. L. 92–238, § 2, Mar. 1, 1972, 86 Stat. 46, added item 677.
 
-## § 671. Clerk
+## § 671. Clerk
 
 **(a)** The Supreme Court may appoint and fix the compensation of a clerk and one or more deputy clerks. The clerk shall be subject to removal by the Court. Deputy clerks shall be subject to removal by the clerk with the approval of the Court or the Chief Justice of the United States.
 
-**[(b)** Repealed. Pub. L. 92–310, title II, § 206(c), June 6, 1972, 86 Stat. 203.]
+**[(b)** Repealed. Pub. L. 92–310, title II, § 206(c), June 6, 1972, 86 Stat. 203.]
 
 **(c)** The clerk may appoint and fix the compensation of necessary assistants and messengers with the approval of the Chief Justice of the United States.
 
 **(d)** The clerk shall pay into the Treasury all fees, costs, and other moneys collected by him. He shall make annual returns thereof to the Court under regulations prescribed by it.
 
-(June 25, 1948, ch. 646, 62 Stat. 918; Pub. L. 88–279, § 1, Mar. 10, 1964, 78 Stat. 158; Pub. L. 92–310, title II, § 206(c), June 6, 1972, 86 Stat. 203.)
+(June 25, 1948, ch. 646, 62 Stat. 918; Pub. L. 88–279, § 1, Mar. 10, 1964, 78 Stat. 158; Pub. L. 92–310, title II, § 206(c), June 6, 1972, 86 Stat. 203.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 325, 326, 327, 541 and 542 (Feb. 22, 1875, ch. 95, §§ 2, 3, 18 Stat. 333; Mar. 3, 1883, ch. 143, 22 Stat. 631; Mar. 15, 1898, ch. 68, § 8, 30 Stat. 317; Mar. 3, 1911, ch. 231, §§ 219, 220, 221, 291, 36 Stat. 1152, 1153, 1167; June 10, 1921, ch. 18, § 304, 42 Stat. 24).
+Based on title 28, U.S.C., 1940 ed., §§ 325, 326, 327, 541 and 542 (Feb. 22, 1875, ch. 95, §§ 2, 3, 18 Stat. 333; Mar. 3, 1883, ch. 143, 22 Stat. 631; Mar. 15, 1898, ch. 68, § 8, 30 Stat. 317; Mar. 3, 1911, ch. 231, §§ 219, 220, 221, 291, 36 Stat. 1152, 1153, 1167; June 10, 1921, ch. 18, § 304, 42 Stat. 24).
 
 This section consolidates sections 541 and 542 of title 28, U.S.C., 1940 ed., with parts of sections 325, 326 and 327 of such title.
 
@@ -79,13 +79,13 @@ Subsec. (d). Pub. L. 88–279 substituted “moneys collected by him” for “e
 
 **Effective Date of 1964 Amendment**
 
-Pub. L. 88–279, § 4, Mar. 10, 1964, 78 Stat. 158, provided that: “The amendments proposed in this Act [amending this section and section 672 of this title] shall become effective only when funds have been appropriated and are available to pay the salaries and other expenses of the clerk’s office.”
+Pub. L. 88–279, § 4, Mar. 10, 1964, 78 Stat. 158, provided that: “The amendments proposed in this Act [amending this section and section 672 of this title] shall become effective only when funds have been appropriated and are available to pay the salaries and other expenses of the clerk’s office.”
 
 **Appropriations**
 
-Pub. L. 88–279, § 3, Mar. 10, 1964, 78 Stat. 158, provided that: “There are hereby authorized to be appropriated annually such sums as are necessary to carry out the provisions of this Act [amending this section and section 672 of this title].”
+Pub. L. 88–279, § 3, Mar. 10, 1964, 78 Stat. 158, provided that: “There are hereby authorized to be appropriated annually such sums as are necessary to carry out the provisions of this Act [amending this section and section 672 of this title].”
 
-## § 672. Marshal
+## § 672. Marshal
 
 **(a)** The Supreme Court may appoint a marshal, who shall be subject to removal by the Court, and may fix his compensation.
 
@@ -109,11 +109,11 @@ Pub. L. 88–279, § 3, Mar. 10, 1964, 78 Stat. 158, provided that: “There a
 
 **(8)** Oversee the Supreme Court Police.
 
-(June 25, 1948, ch. 646, 62 Stat. 918; Pub. L. 88–279, § 2, Mar. 10, 1964, 78 Stat. 158; Pub. L. 97–390, § 2, Dec. 29, 1982, 96 Stat. 1958.)
+(June 25, 1948, ch. 646, 62 Stat. 918; Pub. L. 88–279, § 2, Mar. 10, 1964, 78 Stat. 158; Pub. L. 97–390, § 2, Dec. 29, 1982, 96 Stat. 1958.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 325, 331, and section 13d of title 40, U.S.C., 1940 ed., Public Buildings, Property and Works (Mar. 3, 1911, ch. 231, §§ 219, 224, 36 Stat. 1152, 1153; April 11, 1928, ch. 358, 45 Stat. 424; May 7, 1934, ch. 222, § 4, 48 Stat. 668).
+Based on title 28, U.S.C., 1940 ed., §§ 325, 331, and section 13d of title 40, U.S.C., 1940 ed., Public Buildings, Property and Works (Mar. 3, 1911, ch. 231, §§ 219, 224, 36 Stat. 1152, 1153; April 11, 1928, ch. 358, 45 Stat. 424; May 7, 1934, ch. 222, § 4, 48 Stat. 668).
 
 This section consolidates part of section 325 of title 28, U.S.C., 1940 ed., with section 331 of such title and section 13d of title 40, U.S.C., 1940 ed.
 
@@ -133,9 +133,9 @@ Changes were made in phraseology.
 
 1982—Subsec. (c)(8). Pub. L. 97–390 added par. (8).
 
-1964—Subsec. (c)(6). Pub. L. 88–279, § 2(a), struck out “except the clerk, his deputies and employees,” after “employees of the Court”.
+1964—Subsec. (c)(6). Pub. L. 88–279, § 2(a), struck out “except the clerk, his deputies and employees,” after “employees of the Court”.
 
-Subsec. (c)(7). Pub. L. 88–279, § 2(b), added par. (7).
+Subsec. (c)(7). Pub. L. 88–279, § 2(b), added par. (7).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -147,7 +147,7 @@ Amendment by Pub. L. 88–279 effective upon appropriation and availability of f
 
 Annual appropriations to carry out amendment of this section by Pub. L. 88–279, see section 3 of Pub. L. 88–279, set out as a note under section 671 of this title.
 
-## § 673. Reporter
+## § 673. Reporter
 
 **(a)** The Supreme Court may appoint and fix the compensation of a reporter of its decisions who shall be subject to removal by the Court.
 
@@ -161,7 +161,7 @@ The reporter shall determine the quality and size of the paper, type, format, pr
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 325, 332, and 333 (Mar. 3, 1911, ch. 231, §§ 219, 225, 226, 36 Stat. 1152, 1153; July 1, 1922, ch. 267, §§ 1, 2, 42 Stat. 816; May 29, 1926, ch. 425, § 1, 44 Stat. 677).
+Based on title 28, U.S.C., 1940 ed., §§ 325, 332, and 333 (Mar. 3, 1911, ch. 231, §§ 219, 225, 226, 36 Stat. 1152, 1153; July 1, 1922, ch. 267, §§ 1, 2, 42 Stat. 816; May 29, 1926, ch. 425, § 1, 44 Stat. 677).
 
 This section consolidates sections 332 and 333 of title 28, U.S.C., 1940 ed., with part of section 325 of such title.
 
@@ -179,9 +179,9 @@ The revised section makes specific the implied power to fix the compensation of 
 
 The provision in section 332 of title 28, U.S.C., 1940 ed., authorizing the Public Printer to do the printing referred to in such section, was omitted as unnecessary. (See section 111 of title 44, U.S.C., 1940 ed., Public Printing and Documents.)
 
-Authority for making an appropriation to carry into effect the provisions of this section relating to compensation and allowances of the reporter, compensation of his assistants, and preparation of the decisions of the Supreme Court for publication, is contained in section 336 of title 28, U.S.C., 1940 ed. (Acts July 1, 1922, ch. 267, § 5, 42 Stat. 818; May 29, 1926, ch. 425, § 3, 44 Stat. 678), which is omitted, but not repealed, as unnecessary in this revision.
+Authority for making an appropriation to carry into effect the provisions of this section relating to compensation and allowances of the reporter, compensation of his assistants, and preparation of the decisions of the Supreme Court for publication, is contained in section 336 of title 28, U.S.C., 1940 ed. (Acts July 1, 1922, ch. 267, § 5, 42 Stat. 818; May 29, 1926, ch. 425, § 3, 44 Stat. 678), which is omitted, but not repealed, as unnecessary in this revision.
 
-## § 674. Librarian
+## § 674. Librarian
 
 **(a)** The Supreme Court may appoint a librarian, whose salary it shall fix, and who shall be subject to removal by the Court.
 
@@ -191,7 +191,7 @@ Authority for making an appropriation to carry into effect the provisions of thi
 
 **(d)** The librarian shall certify to the marshal for payment vouchers covering expenditures for the purchase of such books and other material, and for binding, rebinding and repairing the same.
 
-(June 25, 1948, ch. 646, 62 Stat. 919; Pub. L. 92–310, title II, § 206(d), June 6, 1972, 86 Stat. 203.)
+(June 25, 1948, ch. 646, 62 Stat. 919; Pub. L. 92–310, title II, § 206(d), June 6, 1972, 86 Stat. 203.)
 
 **Historical and Revision Notes**
 
@@ -205,7 +205,7 @@ Under this section the marshal will not be required to certify to expenditures f
 
 1972—Subsec. (d). Pub. L. 92–310 struck out sentence which required the librarian to furnish a bond.
 
-## § 675. Law clerks and secretaries
+## § 675. Law clerks and secretaries
 
 The Chief Justice of the United States, and the associate justices of the Supreme Court may appoint law clerks and secretaries whose salaries shall be fixed by the Court.
 
@@ -213,7 +213,7 @@ The Chief Justice of the United States, and the associate justices of the Suprem
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1926 ed., § 328 (June 1, 1922, ch. 204, title II, 42 Stat. 614; Jan. 3, 1923, ch. 21, title II, 42 Stat. 1081; May 28, 1924, ch. 204, title II, 43 Stat. 218; Feb. 27, 1925, ch. 364, title II, 43 Stat. 1028).
+Based on title 28, U.S.C., 1926 ed., § 328 (June 1, 1922, ch. 204, title II, 42 Stat. 614; Jan. 3, 1923, ch. 21, title II, 42 Stat. 1081; May 28, 1924, ch. 204, title II, 43 Stat. 218; Feb. 27, 1925, ch. 364, title II, 43 Stat. 1028).
 
 Section is derived from Appropriation Acts for fiscal years cited in the credits. It was omitted from the 1934 and 1940 editions of the U.S. Code because it was considered to be probably of a temporary nature. This section is consistent with other provisions authorizing the appointment of similar personnel for circuit and district judges.
 
@@ -225,19 +225,19 @@ See section 711 et seq. and section 751 et seq., of this title, relating to appo
 
 Changes were made in phraseology.
 
-## § 676. Printing and binding
+## § 676. Printing and binding
 
 **(a)** The printing and binding for the Supreme Court, including the printing and binding of individual copies, advance pamphlet installments, and bound volumes, of its decisions, whether requisitioned or ordered by the Court or any of its officers or by any other office or agency, and whether paid for by, or charged to the appropriation for, the Court or any other office or agency, shall be done by the printer or printers whom the Court or the Chief Justice of the United States may select, unless it shall otherwise order.
 
 **(b)** Whenever advance pamphlet installments and bound volumes of the Court’s decisions are printed by a private printer, an adequate number of copies for distribution in accordance with the requirements of section 411 of this title and for sale to the public shall be provided and made available for these purposes in such manner and at such prices as may be determined from time to time by the Supreme Court or the Chief Justice of the United States, in lieu of compliance by the Director of the Government Publishing Office and the Superintendent of Documents with the requirements of sections 411 and 412 of this title with respect to such copies. Pending distribution or sale, such copies shall be the property of the United States and shall be held in the custody of the marshal or such other person, organization, or agency, as the Supreme Court or the Chief Justice of the United States may designate.
 
-(June 25, 1948, ch. 646, 62 Stat. 919; May 24, 1949, ch. 139, § 74, 63 Stat. 100; Oct. 31, 1951, ch. 655, § 45, 65 Stat. 725; Pub. L. 113–235, div. H, title I, § 1301(d), Dec. 16, 2014, 128 Stat. 2537.)
+(June 25, 1948, ch. 646, 62 Stat. 919; May 24, 1949, ch. 139, § 74, 63 Stat. 100; Oct. 31, 1951, ch. 655, § 45, 65 Stat. 725; Pub. L. 113–235, div. H, title I, § 1301(d), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 28, U.S.C., 1940 ed., § 354 (Feb. 27, 1925, ch. 364, title II, 43 Stat. 1028; Apr. 29, 1926, ch. 195, title II, 44 Stat. 344; Feb. 24, 1927, ch. 189, title II, 44 Stat. 1194; Feb. 15, 1928, ch. 57, title II, 45 Stat. 79; Jan. 25, 1929, ch. 102, title II, 45 Stat. 1109; Apr. 18, 1930, ch. 184, title II, 46 Stat. 188; Feb. 23, 1931, ch. 280, title II, 46 Stat. 1323; July 1, 1932, ch. 361, title II, 47 Stat. 490; Mar. 1, 1933, ch. 144, title II, 47 Stat. 1382; Apr. 7, 1934, ch. 104, title II, 48 Stat. 539).
+Based on title 28, U.S.C., 1940 ed., § 354 (Feb. 27, 1925, ch. 364, title II, 43 Stat. 1028; Apr. 29, 1926, ch. 195, title II, 44 Stat. 344; Feb. 24, 1927, ch. 189, title II, 44 Stat. 1194; Feb. 15, 1928, ch. 57, title II, 45 Stat. 79; Jan. 25, 1929, ch. 102, title II, 45 Stat. 1109; Apr. 18, 1930, ch. 184, title II, 46 Stat. 188; Feb. 23, 1931, ch. 280, title II, 46 Stat. 1323; July 1, 1932, ch. 361, title II, 47 Stat. 490; Mar. 1, 1933, ch. 144, title II, 47 Stat. 1382; Apr. 7, 1934, ch. 104, title II, 48 Stat. 539).
 
 The section was expanded to include the printing and binding of the official edition of the court’s decisions, thus making possible an economy in the expenditure of Government funds by having the printing and binding done by the same printer.
 
@@ -261,7 +261,7 @@ This section corrects a grammatical error in subsection (a) of section 676 of ti
 
 “Director of the Government Publishing Office” substituted for “Public Printer” in subsec. (b) on authority of section 1301(d) of Pub. L. 113–235, set out as a note under section 301 of Title 44, Public Printing and Documents.
 
-## § 677. Counselor to the Chief Justice
+## § 677. Counselor to the Chief Justice
 
 **(a)** The Chief Justice of the United States may appoint a Counselor who shall serve at the pleasure of the Chief Justice and shall perform such duties as may be assigned to him by the Chief Justice. The salary payable to the Counselor shall be fixed by the Chief Justice at a rate which shall not exceed the salary payable to the Director of the Administrative Office of the United States Courts. The Counselor may elect to bring himself within the same retirement program available to the Director of the Administrative Office of the United States Courts, as provided by section 611 of this title, by filing a written election with the Chief Justice within the time and in the manner prescribed by section 611.
 
@@ -283,7 +283,7 @@ This section corrects a grammatical error in subsection (a) of section 676 of ti
 
 **(d)** The Counselor, with the approval of the Chief Justice, shall establish a retention and recruitment program that is consistent with section 908 of the Emergency Supplemental Act, 2002 (2 U.S.C. 1926) for Supreme Court Police officers and other critical employees who agree in writing to remain employed with the Supreme Court for a period of service of not less than two years.
 
-(Added Pub. L. 92–238, § 1, Mar. 1, 1972, 86 Stat. 46; amended Pub. L. 105–233, § 1, Aug. 13, 1998, 112 Stat. 1535; Pub. L. 110–402, § 1(b)(3)(A), Oct. 13, 2008, 122 Stat. 4254; Pub. L. 117–328, div. E, title III, § 307, Dec. 29, 2022, 136 Stat. 4672.)
+(Added Pub. L. 92–238, § 1, Mar. 1, 1972, 86 Stat. 46; amended Pub. L. 105–233, § 1, Aug. 13, 1998, 112 Stat. 1535; Pub. L. 110–402, § 1(b)(3)(A), Oct. 13, 2008, 122 Stat. 4254; Pub. L. 117–328, div. E, title III, § 307, Dec. 29, 2022, 136 Stat. 4672.)
 
 **Editorial Notes**
 
@@ -291,10 +291,10 @@ This section corrects a grammatical error in subsection (a) of section 676 of ti
 
 2022—Subsec. (d). Pub. L. 117–328 added subsec. (d).
 
-2008—Pub. L. 110–402, § 1(b)(3)(A)(i), substituted “Counselor” for “Administrative Assistant” in section catchline.
+2008—Pub. L. 110–402, § 1(b)(3)(A)(i), substituted “Counselor” for “Administrative Assistant” in section catchline.
 
-Subsec. (a). Pub. L. 110–402, § 1(b)(3)(A)(ii), substituted “a Counselor” for “an Administrative Assistant” in first sentence and “Counselor” for “Administrative Assistant” in second and third sentences.
+Subsec. (a). Pub. L. 110–402, § 1(b)(3)(A)(ii), substituted “a Counselor” for “an Administrative Assistant” in first sentence and “Counselor” for “Administrative Assistant” in second and third sentences.
 
-Subsecs. (b), (c). Pub. L. 110–402, § 1(b)(3)(A)(iii), substituted “Counselor” for “Administrative Assistant” wherever appearing.
+Subsecs. (b), (c). Pub. L. 110–402, § 1(b)(3)(A)(iii), substituted “Counselor” for “Administrative Assistant” wherever appearing.
 
 1998—Subsec. (c). Pub. L. 105–233 added subsec. (c).

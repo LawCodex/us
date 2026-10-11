@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 509—CONFIDENTIALITY OPPORTUNITIES FOR PEER SUPPORT COUNSELING
 
-## § 50901. Confidentiality of peer support communications
+## § 50901. Confidentiality of peer support communications
 
 **(a) Definitions** In this section:
 
@@ -121,7 +121,7 @@ Except as provided in subsection (c), a peer support specialist or a peer suppor
 
 Before the initial peer support counseling session of a peer support participant, a peer support specialist shall inform the peer support participant in writing of the confidentiality requirement under subsection (b) and the exceptions to the requirement under subsection (c).
 
-(Pub. L. 117–60, § 2, Nov. 18, 2021, 135 Stat. 1470.)
+(Pub. L. 117–60, § 2, Nov. 18, 2021, 135 Stat. 1470.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -129,7 +129,7 @@ Before the initial peer support counseling session of a peer support participant
 
 For short title of Pub. L. 117–60, which is classified to this chapter, as the “Confidentiality Opportunities for Peer Support Counseling Act” and also as the “COPS Counseling Act”, see section 1 of Pub. L. 117–60, set out as a Short Title of 2021 Amendment note under section 10101 of this title.
 
-## § 50902. Best practices and support
+## § 50902. Best practices and support
 
 **(a) Definitions** In this section:
 
@@ -187,4 +187,4 @@ The term “peer support participant” means a first responder who receives cou
 
 **(2)** providing a list of peer support specialist training programs on the website of the Department of Justice.
 
-(Pub. L. 117–60, § 3, Nov. 18, 2021, 135 Stat. 1472.)
+(Pub. L. 117–60, § 3, Nov. 18, 2021, 135 Stat. 1472.)

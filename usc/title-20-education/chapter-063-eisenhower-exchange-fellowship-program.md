@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 63—EISENHOWER EXCHANGE FELLOWSHIP PROGRAM
 
-## § 5201. Purposes
+## § 5201. Purposes
 
 The purposes of this chapter are—
 
@@ -35,7 +35,7 @@ The purposes of this chapter are—
 
 **(8)** to honor President Dwight D. Eisenhower on the occasion of the centennial of his birth through permanent endowment of an established fellowship program, the Eisenhower Exchange Fellowships, to increase educational opportunities for young leaders in preparation for and enhancement of their professional careers, and advancement of peace through international understanding.
 
-(Pub. L. 101–454, § 2, Oct. 24, 1990, 104 Stat. 1063.)
+(Pub. L. 101–454, § 2, Oct. 24, 1990, 104 Stat. 1063.)
 
 **Editorial Notes**
 
@@ -47,9 +47,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Short Title**
 
-Pub. L. 101–454, § 1, Oct. 24, 1990, 104 Stat. 1063, provided that: “This Act [enacting this chapter, amending sections 4901, 4902, and 4904 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under sections 4901 and 4902 of Title 22] may be cited as the ‘Eisenhower Exchange Fellowship Act of 1990’.”
+Pub. L. 101–454, § 1, Oct. 24, 1990, 104 Stat. 1063, provided that: “This Act [enacting this chapter, amending sections 4901, 4902, and 4904 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under sections 4901 and 4902 of Title 22] may be cited as the ‘Eisenhower Exchange Fellowship Act of 1990’.”
 
-## § 5202. Eisenhower Exchange Fellowship Program Trust Fund
+## § 5202. Eisenhower Exchange Fellowship Program Trust Fund
 
 **(a) Establishment**
 
@@ -57,9 +57,9 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 **(b) Investment in interest-bearing obligations**
 
-It shall be the duty of the Secretary of the Treasury to invest in full amounts appropriated to the fund. Such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interests 1
+It shall be the duty of the Secretary of the Treasury to invest in full amounts appropriated to the fund. Such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interests 1
 
-<sup>1</sup>  So in original. Probably should be “interest”.
+<sup>1</sup> So in original. Probably should be “interest”.
 
 by the United States. For such purpose, such obligations may be acquired (1) on original issue at the issue price, or (2) by purchase of outstanding obligations at the market price. The purposes for which obligations of the United States may be issued under chapter 31 of title 31, are hereby extended to authorize the issuance at par of special obligations exclusively to the fund. Such special obligations shall bear interest at a rate equal to the average rate of interest, computed as to the end of the calendar month next preceding the date of such issue borne by all marketable interest-bearing obligations of the United States then forming a part of the public debt; except that where such average rate is not a multiple of one-eighth of 1 percent, the rate of interest of such special obligations shall be the multiple of one-eighth of 1 percent next lower than such average rate. Such special obligations shall be issued only if the Secretary determines that the purchase of other interest-bearing obligations of the United States, or of obligations guaranteed as to both principal and interest by the United States or original issue or at the market price, is not in the public interest.
 
@@ -71,9 +71,9 @@ Any obligation acquired by the fund (except special obligations issued exclusive
 
 The interest on, and the proceeds from the sale or redemption of, any obligations held in the fund shall be credited to and form a part of the fund.
 
-(Pub. L. 101–454, § 3, Oct. 24, 1990, 104 Stat. 1063.)
+(Pub. L. 101–454, § 3, Oct. 24, 1990, 104 Stat. 1063.)
 
-## § 5203. Expenditure and audit of trust fund
+## § 5203. Expenditure and audit of trust fund
 
 **(a) Authorization of funding**
 
@@ -83,7 +83,7 @@ For each fiscal year, there is authorized to be appropriated from the fund to Ei
 
 The activities of Eisenhower Exchange Fellowships, Incorporated, may be audited by the Government Accountability Office under such rules and regulations as may be prescribed by the Comptroller General of the United States. The representatives of the Government Accountability Office shall have access to all books, accounts, records, reports, and files and all other papers, things, or property belonging to or in use by Eisenhower Exchange Fellowships, Incorporated, pertaining to such activities and necessary to facilitate the audit.
 
-(Pub. L. 101–454, § 4, Oct. 24, 1990, 104 Stat. 1064; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 101–454, § 4, Oct. 24, 1990, 104 Stat. 1064; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -95,9 +95,9 @@ The activities of Eisenhower Exchange Fellowships, Incorporated, may be audited 
 
 **Use of Earned Unused Trust Income for Fellowship Purposes**
 
-Pub. L. 104–134, title I, § 101[(a)] [title IV, § 407], Apr. 26, 1996, 110 Stat. 1321, 1321–45; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, provided in part that: “notwithstanding any other provision of law, Eisenhower Exchange Fellowships, Incorporated, may use one-third of any earned but unused trust income from the period 1992 through 1995 for Fellowship purposes in each of fiscal years 1996 through 1998.”
+Pub. L. 104–134, title I, § 101[(a)] [title IV, § 407], Apr. 26, 1996, 110 Stat. 1321, 1321–45; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, provided in part that: “notwithstanding any other provision of law, Eisenhower Exchange Fellowships, Incorporated, may use one-third of any earned but unused trust income from the period 1992 through 1995 for Fellowship purposes in each of fiscal years 1996 through 1998.”
 
-## § 5204. Authorization of appropriations
+## § 5204. Authorization of appropriations
 
 To provide a permanent endowment for the Eisenhower Exchange Fellowship Program, there are authorized to be appropriated to the Eisenhower Exchange Fellowships Program Trust Fund—
 
@@ -109,11 +109,11 @@ To provide a permanent endowment for the Eisenhower Exchange Fellowship Program,
 
 **(B)** an amount equal to contributions to Eisenhower Exchange Fellowships, Incorporated, from private sector sources during the 4-year period beginning on October 24, 1990.
 
-(Pub. L. 101–454, § 5, Oct. 24, 1990, 104 Stat. 1064.)
+(Pub. L. 101–454, § 5, Oct. 24, 1990, 104 Stat. 1064.)
 
-## § 5205. Use of income on endowment
+## § 5205. Use of income on endowment
 
-**(a) , (b) Repealed. Pub. L. 104–134, title I, § 101[(a)] [title IV, § 407], Apr. 26, 1996, 110 Stat. 1321, 1321–45; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327**
+**(a) , (b) Repealed. Pub. L. 104–134, title I, § 101[(a)] [title IV, § 407], Apr. 26, 1996, 110 Stat. 1321, 1321–45; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327**
 
 **(c) Agricultural exchange program**
 
@@ -123,7 +123,7 @@ For any fiscal year, as may be determined by Eisenhower Exchange Fellowships, In
 
 In order to ensure that the United States fellows participating in programs of the Eisenhower Exchange Fellowships, Incorporated, are representative of the cultural, ethnic, and racial diversity of the American people, of the amounts made available to Eisenhower Exchange Fellowships, Incorporated, pursuant to section 5203(a) of this title which are obligated and expended for United States fellowship programs, not less than 10 percent shall be available only for participation by individuals who are representative of United States minority populations.
 
-(Pub. L. 101–454, § 6, Oct. 24, 1990, 104 Stat. 1065; Pub. L. 104–134, title I, § 101[(a)] [title IV, § 407], Apr. 26, 1996, 110 Stat. 1321, 1321–45; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.)
+(Pub. L. 101–454, § 6, Oct. 24, 1990, 104 Stat. 1065; Pub. L. 104–134, title I, § 101[(a)] [title IV, § 407], Apr. 26, 1996, 110 Stat. 1321, 1321–45; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.)
 
 **Editorial Notes**
 
@@ -133,22 +133,22 @@ In order to ensure that the United States fellows participating in programs of t
 
 Subsec. (b). Pub. L. 104–134 struck out heading and text of subsec. (b). Text read as follows: “For any fiscal year, not more than 50 percent of the amounts made available to Eisenhower Exchange Fellowships, Incorporated, pursuant to section 5203(a) of this title shall be available to assist foreign fellows in traveling to and studying in the United States.”
 
-## § 5206. Report to Congress
+## § 5206. Report to Congress
 
 For any fiscal year for which Eisenhower Exchange Fellowships, Incorporated, receive funds pursuant to section 5203(a) of this title, Eisenhower Exchange Fellowships, Incorporated, shall prepare and transmit to the President and the Congress a report of its activities for such fiscal year.
 
-(Pub. L. 101–454, § 7, Oct. 24, 1990, 104 Stat. 1065.)
+(Pub. L. 101–454, § 7, Oct. 24, 1990, 104 Stat. 1065.)
 
-## § 5207. Status as executive agency
+## § 5207. Status as executive agency
 
 Notwithstanding any other provision of law, on and after August 2, 2002, for purposes of section 501 of title 40 (relating to Federal sources of supply, including lodging providers, airlines and other transportation providers), the Eisenhower Exchange Fellowship Program shall be deemed an executive agency for the purposes of carrying out the provisions of section 5201 of this title, and the employees of and participants in the Eisenhower Exchange Fellowship Program shall be eligible to have access to such sources of supply on the same basis as employees of an executive agency have such access.
 
-(Pub. L. 107–206, title I, § 1203, Aug. 2, 2002, 116 Stat. 888.)
+(Pub. L. 107–206, title I, § 1203, Aug. 2, 2002, 116 Stat. 888.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Section 501 of title 40” substituted for “section 201(a) of the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+“Section 501 of title 40” substituted for “section 201(a) of the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 Section was enacted as part of the 2002 Supplemental Appropriations Act for Further Recovery From and Response To Terrorist Attacks on the United States, and not as part of the Eisenhower Exchange Fellowship Act of 1990 which comprises this chapter.

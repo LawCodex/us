@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1998—Pub. L. 105–206, title III, § 3001(b), July 22, 1998, 112 Stat. 727, added item for subchapter E.
+1998—Pub. L. 105–206, title III, § 3001(b), July 22, 1998, 112 Stat. 727, added item for subchapter E.
 
-1976—Pub. L. 94–455, title XIX, § 1952(n)(4)(B), Oct. 4, 1976, 90 Stat. 1846, struck out item for subchapter E “Miscellaneous provisions”.
+1976—Pub. L. 94–455, title XIX, § 1952(n)(4)(B), Oct. 4, 1976, 90 Stat. 1846, struck out item for subchapter E “Miscellaneous provisions”.
 
-1966—Pub. L. 89–719, title I, § 110(d)(3), Nov. 2, 1966, 80 Stat. 1145, substituted “Taxpayers and Third Parties” for “taxpayers” in item for subchapter B.
+1966—Pub. L. 89–719, title I, § 110(d)(3), Nov. 2, 1966, 80 Stat. 1145, substituted “Taxpayers and Third Parties” for “taxpayers” in item for subchapter B.
 
 ## Subchapter A—Civil Actions by the United States
 
@@ -31,21 +31,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2007—Pub. L. 110–28, title VIII, § 8246(a)(2)(I)(ii), May 25, 2007, 121 Stat. 202, substituted “tax return preparers” for “income tax return preparers” in item 7407.
+2007—Pub. L. 110–28, title VIII, § 8246(a)(2)(I)(ii), May 25, 2007, 121 Stat. 202, substituted “tax return preparers” for “income tax return preparers” in item 7407.
 
-2004—Pub. L. 108–357, title VIII, § 820(b)(2), Oct. 22, 2004, 118 Stat. 1585, added item 7408 and struck out former item 7408 “Action to enjoin promoters of abusive tax shelters, etc.”
+2004—Pub. L. 108–357, title VIII, § 820(b)(2), Oct. 22, 2004, 118 Stat. 1585, added item 7408 and struck out former item 7408 “Action to enjoin promoters of abusive tax shelters, etc.”
 
-1987—Pub. L. 100–203, title X, § 10713(a)(2), Dec. 22, 1987, 101 Stat. 1330–469, added item 7409 and redesignated former item 7409 as 7410.
+1987—Pub. L. 100–203, title X, § 10713(a)(2), Dec. 22, 1987, 101 Stat. 1330–469, added item 7409 and redesignated former item 7409 as 7410.
 
-1982—Pub. L. 97–248, title III, § 321(b), Sept. 3, 1982, 96 Stat. 612, added item 7408 and redesignated former item 7408 as 7409.
+1982—Pub. L. 97–248, title III, § 321(b), Sept. 3, 1982, 96 Stat. 612, added item 7408 and redesignated former item 7408 as 7409.
 
-1976—Pub. L. 94–455, title XII, § 1203(i)(4), Oct. 4, 1976, 90 Stat. 1695, added item 7407 and redesignated former item 7407 as 7408.
+1976—Pub. L. 94–455, title XII, § 1203(i)(4), Oct. 4, 1976, 90 Stat. 1695, added item 7407 and redesignated former item 7407 as 7408.
 
-### § 7401. Authorization
+### § 7401. Authorization
 
 No civil action for the collection or recovery of taxes, or of any fine, penalty, or forfeiture, shall be commenced unless the Secretary authorizes or sanctions the proceedings and the Attorney General or his delegate directs that the action be commenced.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 873; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 873; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -53,7 +53,7 @@ No civil action for the collection or recovery of taxes, or of any fine, penalty
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-### § 7402. Jurisdiction of district courts
+### § 7402. Jurisdiction of district courts
 
 **(a) To issue orders, processes, and judgments**
 
@@ -67,7 +67,7 @@ If any person is summoned under the internal revenue laws to appear, to testify,
 
 Any officer or employee of the United States acting under authority of this title, or any person acting under or by authority of any such officer or employee, receiving any injury to his person or property in the discharge of his duty shall be entitled to maintain an action for damages therefor, in the district court of the United States, in the district wherein the party doing the injury may reside or shall be found.
 
-**[(d) Repealed. Pub. L. 92–310, title II, § 230(d), June 6, 1972, 86 Stat. 209]**
+**[(d) Repealed. Pub. L. 92–310, title II, § 230(d), June 6, 1972, 86 Stat. 209]**
 
 **(e) To quiet title**
 
@@ -77,7 +77,7 @@ The United States district courts shall have jurisdiction of any action brought 
 
 For general jurisdiction of the district courts of the United States in civil actions involving internal revenue, see section 1340 of title 28 of the United States Code.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 873; Pub. L. 89–719, title I, § 107(a), Nov. 2, 1966, 80 Stat. 1140; Pub. L. 93–310, title II, § 230(d), June 6, 1972, 86 Stat. 209.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 873; Pub. L. 89–719, title I, § 107(a), Nov. 2, 1966, 80 Stat. 1140; Pub. L. 93–310, title II, § 230(d), June 6, 1972, 86 Stat. 209.)
 
 **Editorial Notes**
 
@@ -93,7 +93,7 @@ For general jurisdiction of the district courts of the United States in civil ac
 
 Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as a note under section 6323 of this title.
 
-### § 7403. Action to enforce lien or to subject property to payment of tax
+### § 7403. Action to enforce lien or to subject property to payment of tax
 
 **(a) Filing**
 
@@ -111,7 +111,7 @@ The court shall, after the parties have been duly notified of the action, procee
 
 In any such proceeding, at the instance of the United States, the court may appoint a receiver to enforce the lien, or, upon certification by the Secretary during the pendency of such proceedings that it is in the public interest, may appoint a receiver with all the powers of a receiver in equity.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 874; Pub. L. 89–719, title I, § 107(b), Nov. 2, 1966, 80 Stat. 1140; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), title XX, § 2004(f)(2), Oct. 4, 1976, 90 Stat. 1834, 1872; Pub. L. 97–34, title IV, § 422(e)(8), Aug. 13, 1981, 95 Stat. 316.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 874; Pub. L. 89–719, title I, § 107(b), Nov. 2, 1966, 80 Stat. 1140; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), title XX, § 2004(f)(2), Oct. 4, 1976, 90 Stat. 1834, 1872; Pub. L. 97–34, title IV, § 422(e)(8), Aug. 13, 1981, 95 Stat. 316.)
 
 **Editorial Notes**
 
@@ -119,9 +119,9 @@ In any such proceeding, at the instance of the United States, the court may appo
 
 1981—Subsec. (a). Pub. L. 97–34 struck out “or 6166A(h)” after “section 6166(g)”.
 
-1976—Subsec. (a). Pub. L. 94–455, §§ 1906(b)(13)(A), 2004(f)(2), struck out “or his delegate” after “Secretary” and inserted provisions relating to the acceleration of payment under section 6166(g) or 6166A(h).
+1976—Subsec. (a). Pub. L. 94–455, §§ 1906(b)(13)(A), 2004(f)(2), struck out “or his delegate” after “Secretary” and inserted provisions relating to the acceleration of payment under section 6166(g) or 6166A(h).
 
-Subsecs. (c), (d). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsecs. (c), (d). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 1966—Subsec. (c). Pub. L. 89–719 inserted sentence permitting the United States, if the property is sold to satisfy a first lien held by the United States, to bid at the sale such sum, not more than the amount of such lien with expenses of sale, as the Secretary or his delegate directs.
 
@@ -135,11 +135,11 @@ Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec.
 
 Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as a note under section 6323 of this title.
 
-### § 7404. Authority to bring civil action for estate taxes
+### § 7404. Authority to bring civil action for estate taxes
 
 If the estate tax imposed by chapter 11 is not paid on or before the due date thereof, the Secretary shall proceed to collect the tax under the provisions of general law; or appropriate proceedings in the name of the United States may be commenced in any court of the United States having jurisdiction to subject the property of the decedent to be sold under the judgment or decree of the court. From the proceeds of such sale the amount of the tax, together with the costs and expenses of every description to be allowed by the court, shall be first paid, and the balance shall be deposited according to the order of the court, to be paid under its direction to the person entitled thereto. This section insofar as it applies to the collection of a deficiency shall be subject to the provisions of sections 6213 and 6601.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 874; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 874; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -147,7 +147,7 @@ If the estate tax imposed by chapter 11 is not paid on or before the due date th
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-### § 7405. Action for recovery of erroneous refunds
+### § 7405. Action for recovery of erroneous refunds
 
 **(a) Refunds after limitation period**
 
@@ -167,11 +167,11 @@ For periods of limitations on actions under this section, see section 6532(b).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 874.)
 
-### § 7406. Disposition of judgments and moneys recovered
+### § 7406. Disposition of judgments and moneys recovered
 
 All judgments and moneys recovered or received for taxes, costs, forfeitures, and penalties shall be paid to the Secretary as collections of internal revenue taxes.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 875; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 875; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -179,7 +179,7 @@ All judgments and moneys recovered or received for taxes, costs, forfeitures, an
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-### § 7407. Action to enjoin tax return preparers
+### § 7407. Action to enjoin tax return preparers
 
 **(a) Authority to seek injunction**
 
@@ -201,7 +201,7 @@ A civil action in the name of the United States to enjoin any person who is a ta
 
 the court may enjoin such person from further engaging in such conduct. If the court finds that a tax return preparer has continually or repeatedly engaged in any conduct described in subparagraphs (A) through (D) of this subsection and that an injunction prohibiting such conduct would not be sufficient to prevent such person’s interference with the proper administration of this title, the court may enjoin such person from acting as a tax return preparer.
 
-(Added Pub. L. 94–455, title XII, § 1203(g), Oct. 4, 1976, 90 Stat. 1693; amended Pub. L. 101–239, title VII, § 7738(a), (b), Dec. 19, 1989, 103 Stat. 2404; Pub. L. 110–28, title VIII, § 8246(a)(2)(I)(i), May 25, 2007, 121 Stat. 202.)
+(Added Pub. L. 94–455, title XII, § 1203(g), Oct. 4, 1976, 90 Stat. 1693; amended Pub. L. 101–239, title VII, § 7738(a), (b), Dec. 19, 1989, 103 Stat. 2404; Pub. L. 110–28, title VIII, § 8246(a)(2)(I)(i), May 25, 2007, 121 Stat. 202.)
 
 **Editorial Notes**
 
@@ -211,15 +211,15 @@ A prior section 7407 was renumbered section 7410 of this title.
 
 **Amendments**
 
-2007—Pub. L. 110–28, § 8246(a)(2)(I)(i)(I), substituted “tax return preparers” for “income tax return preparers” in section catchline.
+2007—Pub. L. 110–28, § 8246(a)(2)(I)(i)(I), substituted “tax return preparers” for “income tax return preparers” in section catchline.
 
-Subsec. (a). Pub. L. 110–28, § 8246(a)(2)(I)(i)(II)–(IV), substituted “tax return” for “income tax return” after “with respect to whose”, “tax return preparer” for “income tax preparer” after “district in which the” and after “against such”, and “a tax return preparer” for “an income tax return preparer” in two places.
+Subsec. (a). Pub. L. 110–28, § 8246(a)(2)(I)(i)(II)–(IV), substituted “tax return” for “income tax return” after “with respect to whose”, “tax return preparer” for “income tax preparer” after “district in which the” and after “against such”, and “a tax return preparer” for “an income tax return preparer” in two places.
 
-Subsec. (b). Pub. L. 110–28, § 8246(a)(2)(I)(i)(II), substituted “a tax return preparer” for “an income tax return preparer” in introductory provisions and subpar. (B) of par. (1) and in two places in concluding provisions.
+Subsec. (b). Pub. L. 110–28, § 8246(a)(2)(I)(i)(II), substituted “a tax return preparer” for “an income tax return preparer” in introductory provisions and subpar. (B) of par. (1) and in two places in concluding provisions.
 
-1989—Subsec. (a). Pub. L. 101–239, § 7738(b), substituted “A civil” for “Except as provided in subsection (c), a civil”.
+1989—Subsec. (a). Pub. L. 101–239, § 7738(b), substituted “A civil” for “Except as provided in subsection (c), a civil”.
 
-Subsec. (c). Pub. L. 101–239, § 7738(a), struck out subsec. (c) relating to bonds to stay injunctions.
+Subsec. (c). Pub. L. 101–239, § 7738(a), struck out subsec. (c) relating to bonds to stay injunctions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -229,13 +229,13 @@ Amendment by Pub. L. 110–28 applicable to returns prepared after May 25, 2007,
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–239, title VII, § 7738(c), Dec. 19, 1989, 103 Stat. 2404, provided that: “The amendments made by this section [amending this section] shall apply to actions commenced after December 31, 1989.”
+Pub. L. 101–239, title VII, § 7738(c), Dec. 19, 1989, 103 Stat. 2404, provided that: “The amendments made by this section [amending this section] shall apply to actions commenced after December 31, 1989.”
 
 **Effective Date**
 
 Section applicable to documents prepared after Dec. 31, 1976, see section 1203(j) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 7701 of this title.
 
-### § 7408. Actions to enjoin specified conduct related to tax shelters and reportable transactions
+### § 7408. Actions to enjoin specified conduct related to tax shelters and reportable transactions
 
 **(a) Authority to seek injunction**
 
@@ -259,7 +259,7 @@ the court may enjoin such person from engaging in such conduct or in any other a
 
 If any citizen or resident of the United States does not reside in, and does not have his principal place of business in, any United States judicial district, such citizen or resident shall be treated for purposes of this section as residing in the District of Columbia.
 
-(Added Pub. L. 97–248, title III, § 321(a), Sept. 3, 1982, 96 Stat. 612; amended Pub. L. 98–369, div. A, title I, § 143(b), July 18, 1984, 98 Stat. 682; Pub. L. 108–357, title VIII, § 820(a), (b)(1), Oct. 22, 2004, 118 Stat. 1585.)
+(Added Pub. L. 97–248, title III, § 321(a), Sept. 3, 1982, 96 Stat. 612; amended Pub. L. 98–369, div. A, title I, § 143(b), July 18, 1984, 98 Stat. 682; Pub. L. 108–357, title VIII, § 820(a), (b)(1), Oct. 22, 2004, 118 Stat. 1585.)
 
 **Editorial Notes**
 
@@ -269,19 +269,19 @@ A prior section 7408 was renumbered section 7410 of this title.
 
 **Amendments**
 
-2004—Pub. L. 108–357, § 820(b)(1), amended section catchline generally, substituting “Actions to enjoin specified conduct related to tax shelters and reportable transactions” for “Action to enjoin promoters of abusive tax shelters, etc.”
+2004—Pub. L. 108–357, § 820(b)(1), amended section catchline generally, substituting “Actions to enjoin specified conduct related to tax shelters and reportable transactions” for “Action to enjoin promoters of abusive tax shelters, etc.”
 
-Subsecs. (a) to (d). Pub. L. 108–357, § 820(a), added subsecs. (a) to (c), redesignated former subsec. (c) as (d), and struck out former subsecs. (a) and (b), which authorized a civil action to enjoin any person from further engaging in conduct subject to penalty under section 6700 or 6701 of this title and authorized the court, if it found that the person had engaged in such conduct and that injunctive relief was appropriate, to enjoin such person from engaging in such conduct or in any other activity subject to penalty under section 6700 or 6701.
+Subsecs. (a) to (d). Pub. L. 108–357, § 820(a), added subsecs. (a) to (c), redesignated former subsec. (c) as (d), and struck out former subsecs. (a) and (b), which authorized a civil action to enjoin any person from further engaging in conduct subject to penalty under section 6700 or 6701 of this title and authorized the court, if it found that the person had engaged in such conduct and that injunctive relief was appropriate, to enjoin such person from engaging in such conduct or in any other activity subject to penalty under section 6700 or 6701.
 
-1984—Subsec. (a). Pub. L. 98–369, § 143(b)(1), (2), inserted “or section 6701 (relating to penalties for aiding and abetting understatement of tax liability)” and inserted reference to section 6701 at end of second sentence.
+1984—Subsec. (a). Pub. L. 98–369, § 143(b)(1), (2), inserted “or section 6701 (relating to penalties for aiding and abetting understatement of tax liability)” and inserted reference to section 6701 at end of second sentence.
 
-Subsec. (b). Pub. L. 98–369, § 143(b)(1), (3), inserted “or section 6701 (relating to penalties for aiding and abetting understatement of tax liability),” in par. (1) and inserted reference to section 6701 at end.
+Subsec. (b). Pub. L. 98–369, § 143(b)(1), (3), inserted “or section 6701 (relating to penalties for aiding and abetting understatement of tax liability),” in par. (1) and inserted reference to section 6701 at end.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title VIII, § 820(c), Oct. 22, 2004, 118 Stat. 1585, provided that: “The amendment made by this section [amending this section] shall take effect on the day after the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title VIII, § 820(c), Oct. 22, 2004, 118 Stat. 1585, provided that: “The amendment made by this section [amending this section] shall take effect on the day after the date of the enactment of this Act [Oct. 22, 2004].”
 
 **Effective Date of 1984 Amendment**
 
@@ -289,9 +289,9 @@ Amendment by Pub. L. 98–369 effective on day after July 18, 1984, see section 
 
 **Effective Date**
 
-Pub. L. 97–248, title III, § 321(c), Sept. 3, 1982, 96 Stat. 612, provided that: “The amendments made by this section [enacting this section] shall take effect on the day after the date of the enactment of this Act [Sept. 3, 1982].”
+Pub. L. 97–248, title III, § 321(c), Sept. 3, 1982, 96 Stat. 612, provided that: “The amendments made by this section [enacting this section] shall take effect on the day after the date of the enactment of this Act [Sept. 3, 1982].”
 
-### § 7409. Action to enjoin flagrant political expenditures of section 501(c)(3) organizations
+### § 7409. Action to enjoin flagrant political expenditures of section 501(c)(3) organizations
 
 **(a) Authority to seek injunction**
 
@@ -321,7 +321,7 @@ the court may enjoin such organization from making political expenditures and ma
 
 For purposes of this section, the terms “section 501(c)(3) organization” and “political expenditures” have the respective meanings given to such terms by section 4955.
 
-(Added Pub. L. 100–203, title X, § 10713(a)(1), Dec. 22, 1987, 101 Stat. 1330–468.)
+(Added Pub. L. 100–203, title X, § 10713(a)(1), Dec. 22, 1987, 101 Stat. 1330–468.)
 
 **Editorial Notes**
 
@@ -329,7 +329,7 @@ For purposes of this section, the terms “section 501(c)(3) organization” and
 
 A prior section 7409 was renumbered section 7410 of this title.
 
-### § 7410. Cross references
+### § 7410. Cross references
 
 **(1)** For provisions for collecting taxes in general, see chapter 64.
 
@@ -337,7 +337,7 @@ A prior section 7409 was renumbered section 7410 of this title.
 
 **(3)** For venue of a proceeding for the recovery of any fine, penalty, or forfeiture, see section 1395 of Title 28 of the United States Code.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 875, § 7407; renumbered § 7408, Pub. L. 94–455, title XII, § 1203(g), Oct. 4, 1976, 90 Stat. 1693; renumbered § 7409, Pub. L. 97–248, title III, § 321(a), Sept. 3, 1982, 96 Stat. 612; renumbered § 7410, Pub. L. 100–203, title X, § 10713(a)(1), Dec. 22, 1987, 101 Stat. 1330–468.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 875, § 7407; renumbered § 7408, Pub. L. 94–455, title XII, § 1203(g), Oct. 4, 1976, 90 Stat. 1693; renumbered § 7409, Pub. L. 97–248, title III, § 321(a), Sept. 3, 1982, 96 Stat. 612; renumbered § 7410, Pub. L. 100–203, title X, § 10713(a)(1), Dec. 22, 1987, 101 Stat. 1330–468.)
 
 ## Subchapter B—Proceedings by Taxpayers and Third Parties
 
@@ -345,25 +345,25 @@ A prior section 7409 was renumbered section 7410 of this title.
 
 **Amendments**
 
-2007—Pub. L. 110–28, title VIII, § 8246(a)(2)(J)(ii), May 25, 2007, 121 Stat. 202, substituted “Tax return preparers” for “Income tax return preparers” in item 7427.
+2007—Pub. L. 110–28, title VIII, § 8246(a)(2)(J)(ii), May 25, 2007, 121 Stat. 202, substituted “Tax return preparers” for “Income tax return preparers” in item 7427.
 
-2004—Pub. L. 108–357, title VIII, § 881(b)(2), Oct. 22, 2004, 118 Stat. 1626, added item 7433A.
+2004—Pub. L. 108–357, title VIII, § 881(b)(2), Oct. 22, 2004, 118 Stat. 1626, added item 7433A.
 
-1997—Pub. L. 105–35, § 3(d)(5), Aug. 5, 1997, 111 Stat. 1106, inserted “inspection or” before “disclosure” in item 7431.
+1997—Pub. L. 105–35, § 3(d)(5), Aug. 5, 1997, 111 Stat. 1106, inserted “inspection or” before “disclosure” in item 7431.
 
-Pub. L. 105–34, title XIV, § 1454(b)(4), Aug. 5, 1997, 111 Stat. 1057, added items 7436 and 7437 and struck out former item 7436 “Cross references”.
+Pub. L. 105–34, title XIV, § 1454(b)(4), Aug. 5, 1997, 111 Stat. 1057, added items 7436 and 7437 and struck out former item 7436 “Cross references”.
 
-1996—Pub. L. 104–168, title VI, § 601(b), title XII, § 1203(b), July 30, 1996, 110 Stat. 1462, 1471, added items 7434 and 7435 and redesignated former item 7434 as 7436.
+1996—Pub. L. 104–168, title VI, § 601(b), title XII, § 1203(b), July 30, 1996, 110 Stat. 1462, 1471, added items 7434 and 7435 and redesignated former item 7434 as 7436.
 
-1988—Pub. L. 100–647, title VI, §§ 6237(e)(4), 6239(c), 6240(b), 6241(c), Nov. 10, 1988, 102 Stat. 3743, 3746–3748, inserted “levy or” after “jeopardy” in item 7429, struck out “court” after “Awarding of” in item 7430, added items 7432 and 7433, and redesignated former item 7432 as 7434.
+1988—Pub. L. 100–647, title VI, §§ 6237(e)(4), 6239(c), 6240(b), 6241(c), Nov. 10, 1988, 102 Stat. 3743, 3746–3748, inserted “levy or” after “jeopardy” in item 7429, struck out “court” after “Awarding of” in item 7430, added items 7432 and 7433, and redesignated former item 7432 as 7434.
 
-1982—Pub. L. 97–248, title II, § 292(d)(1), title III, § 357(b)(3), Sept. 3, 1982, 96 Stat. 574, 646, added items 7430 and 7431 and redesignated former item 7430 as 7432.
+1982—Pub. L. 97–248, title II, § 292(d)(1), title III, § 357(b)(3), Sept. 3, 1982, 96 Stat. 574, 646, added items 7430 and 7431 and redesignated former item 7430 as 7432.
 
-1976—Pub. L. 94–455, title XII, §§ 1203(b)(2)(B), 1204(c)(13), title XIII, § 1306(b)(6), Oct. 4, 1976, 90 Stat. 1690, 1699, 1719, added items 7427 to 7429 and redesignated former item 7427 as 7430.
+1976—Pub. L. 94–455, title XII, §§ 1203(b)(2)(B), 1204(c)(13), title XIII, § 1306(b)(6), Oct. 4, 1976, 90 Stat. 1690, 1699, 1719, added items 7427 to 7429 and redesignated former item 7427 as 7430.
 
-1966—Pub. L. 89–719, title I, § 110(d)(1), (2), Nov. 2, 1966, 80 Stat. 1145, inserted “and Third Parties” in subchapter heading, substituted “Intervention” for “Civil action to clear title to property” in item 7424, added items 7425 and 7426, and redesignated former item 7425 as 7427.
+1966—Pub. L. 89–719, title I, § 110(d)(1), (2), Nov. 2, 1966, 80 Stat. 1145, inserted “and Third Parties” in subchapter heading, substituted “Intervention” for “Civil action to clear title to property” in item 7424, added items 7425 and 7426, and redesignated former item 7425 as 7427.
 
-### § 7421. Prohibition of suits to restrain assessment or collection
+### § 7421. Prohibition of suits to restrain assessment or collection
 
 **(a) Tax**
 
@@ -375,7 +375,7 @@ Except as provided in sections 6015(e), 6212(a) and (c), 6213(a), 6232(c), 6330(
 
 **(2)** the amount of the liability of a fiduciary under section 3713(b) of title 31, United States Code, in respect of any such tax.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 876; Pub. L. 89–719, title I, § 110(c), Nov. 2, 1966, 80 Stat. 1144; Pub. L. 94–455, title XII, § 1204(c)(11), Oct. 4, 1976, 90 Stat. 1699; Pub. L. 95–628, § 9(b)(1), Nov. 10, 1978, 92 Stat. 3633; Pub. L. 97–258, § 3(f)(13), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 105–34, title XII, §§ 1222(b)(1), 1239(e)(3), title XIV, § 1454(b)(2), Aug. 5, 1997, 111 Stat. 1019, 1028, 1057; Pub. L. 105–206, title III, § 3201(e)(3), July 22, 1998, 112 Stat. 740; Pub. L. 105–277, div. J, title IV, § 4002(c)(1), (f), Oct. 21, 1998, 112 Stat. 2681–906, 2681–907; Pub. L. 106–554, § 1(a)(7) [title III, §§ 313(b)(2)(B), 319(24)], Dec. 21, 2000, 114 Stat. 2763, 2763A–642, 2763A–647; Pub. L. 114–74, title XI, § 1101(f)(10), Nov. 2, 2015, 129 Stat. 638; Pub. L. 115–141, div. U, title IV, § 401(a)(324), Mar. 23, 2018, 132 Stat. 1199.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 876; Pub. L. 89–719, title I, § 110(c), Nov. 2, 1966, 80 Stat. 1144; Pub. L. 94–455, title XII, § 1204(c)(11), Oct. 4, 1976, 90 Stat. 1699; Pub. L. 95–628, § 9(b)(1), Nov. 10, 1978, 92 Stat. 3633; Pub. L. 97–258, § 3(f)(13), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 105–34, title XII, §§ 1222(b)(1), 1239(e)(3), title XIV, § 1454(b)(2), Aug. 5, 1997, 111 Stat. 1019, 1028, 1057; Pub. L. 105–206, title III, § 3201(e)(3), July 22, 1998, 112 Stat. 740; Pub. L. 105–277, div. J, title IV, § 4002(c)(1), (f), Oct. 21, 1998, 112 Stat. 2681–906, 2681–907; Pub. L. 106–554, § 1(a)(7) [title III, §§ 313(b)(2)(B), 319(24)], Dec. 21, 2000, 114 Stat. 2763, 2763A–642, 2763A–647; Pub. L. 114–74, title XI, § 1101(f)(10), Nov. 2, 2015, 129 Stat. 638; Pub. L. 115–141, div. U, title IV, § 401(a)(324), Mar. 23, 2018, 132 Stat. 1199.)
 
 **Editorial Notes**
 
@@ -391,11 +391,11 @@ Except as provided in sections 6015(e), 6212(a) and (c), 6213(a), 6232(c), 6330(
 
 Pub. L. 105–206 inserted “6015(d),” after “sections”.
 
-1997—Subsec. (a). Pub. L. 105–34, § 1454(b)(2), substituted “7429(b), and 7436” for “and 7429(b)”.
+1997—Subsec. (a). Pub. L. 105–34, § 1454(b)(2), substituted “7429(b), and 7436” for “and 7429(b)”.
 
-Pub. L. 105–34, § 1239(e)(3), inserted “6225(b),” after “6213(a),”.
+Pub. L. 105–34, § 1239(e)(3), inserted “6225(b),” after “6213(a),”.
 
-Pub. L. 105–34, § 1222(b)(1), inserted “6246(b),” after “6213(a),”.
+Pub. L. 105–34, § 1222(b)(1), inserted “6246(b),” after “6213(a),”.
 
 1982—Subsec. (b)(2). Pub. L. 97–258 substituted “section 3713(b) of title 31, United States Code” for “section 3467 of the Revised Statutes (31 U.S.C. 192)”.
 
@@ -439,7 +439,7 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when 
 
 **Prohibition on Requests to Taxpayers To Give Up Rights To Bring Actions**
 
-Pub. L. 105–206, title III, § 3468, July 22, 1998, 112 Stat. 770, provided that:
+Pub. L. 105–206, title III, § 3468, July 22, 1998, 112 Stat. 770, provided that:
 
 > **“(a) Prohibition.—** No officer or employee of the United States may request a taxpayer to waive the taxpayer’s right to bring a civil action against the United States or any officer or employee of the United States for any action taken in connection with the internal revenue laws.
 
@@ -449,7 +449,7 @@ Pub. L. 105–206, title III, § 3468, July 22, 1998, 112 Stat. 770, provided 
 
 > **“(2)** the request by the officer or employee is made in person and the taxpayer’s attorney or other federally authorized tax practitioner (within the meaning of section 7525(a)(3)(A) of the Internal Revenue Code of 1986) is present, or the request is made in writing to the taxpayer’s attorney or other representative.”
 
-### § 7422. Civil actions for refund
+### § 7422. Civil actions for refund
 
 **(a) No suit prior to filing claim for refund**
 
@@ -501,7 +501,7 @@ No suit may be maintained under this section for the credit or refund of any tax
 
 For purposes of this section, any suit for the credit or refund of any tax imposed under section 4941, 4942, 4943, 4944, 4945, 4951, 4952, 4955, 4958, 4971, or 4975 with respect to any act (or failure to act) giving rise to liability for tax under such sections, shall constitute a suit to determine all questions with respect to any other tax imposed with respect to such act (or failure to act) under such sections, and failure by the parties to such suit to bring any such question before the Court shall constitute a bar to such question.
 
-**[(h) Repealed. Pub. L. 114–74, title XI, § 1101(f)(11), Nov. 2, 2015, 129 Stat. 638]**
+**[(h) Repealed. Pub. L. 114–74, title XI, § 1101(f)(11), Nov. 2, 2015, 129 Stat. 638]**
 
 **(i) Special rule for actions with respect to tax shelter promoter and understatement penalties**
 
@@ -537,7 +537,7 @@ If the court redetermines under paragraph (1) the estate tax liability of an est
 
 **(4)** For payment by the Treasury of judgments against internal revenue officers or employees, upon certificate of probable cause, see section 2006 of Title 28 of the United States Code.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 876; Pub. L. 85–866, title I, § 78, Sept. 2, 1958, 72 Stat. 1662; Pub. L. 89–713, § 3(a), Nov. 2, 1966, 80 Stat. 1108; Pub. L. 91–172, title I, § 101(i), (j)(56), Dec. 30, 1969, 83 Stat. 525, 532; Pub. L. 92–178, title III, § 309(a), Dec. 10, 1971, 85 Stat. 525; Pub. L. 93–406, title II, § 1016(a)(26), Sept. 2, 1974, 88 Stat. 931; Pub. L. 94–455, title XIII, § 1307(d)(2)(F)(viii), title XVI, § 1605(b)(11), title XIX, § 1906(a)(44), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1728, 1755, 1830, 1834; Pub. L. 96–222, title I, § 108(b)(1)(D)–(F), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–223, title I, § 101(f)(1)(J), Apr. 2, 1980, 94 Stat. 252; Pub. L. 96–596, § 2(c)(2), Dec. 24, 1980, 94 Stat. 3474; Pub. L. 97–164, title I, § 151, Apr. 2, 1982, 96 Stat. 46; Pub. L. 97–248, title IV, § 402(c)(11), Sept. 3, 1982, 96 Stat. 668; Pub. L. 98–369, div. A, title VII, § 714(g)(1), (p)(2)(H), July 18, 1984, 98 Stat. 961, 965; Pub. L. 99–514, title XVIII, § 1899A(58), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 100–203, title X, § 10712(c)(5), Dec. 22, 1987, 101 Stat. 1330–467; Pub. L. 100–418, title I, § 1941(b)(2)(B)(x), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 104–168, title XIII, § 1311(c)(4), July 30, 1996, 110 Stat. 1478; Pub. L. 105–206, title III, § 3104(a), July 22, 1998, 112 Stat. 731; Pub. L. 114–74, title XI, § 1101(f)(11), Nov. 2, 2015, 129 Stat. 638; Pub. L. 115–141, div. U, title IV, § 401(a)(325)(A), Mar. 23, 2018, 132 Stat. 1199.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 876; Pub. L. 85–866, title I, § 78, Sept. 2, 1958, 72 Stat. 1662; Pub. L. 89–713, § 3(a), Nov. 2, 1966, 80 Stat. 1108; Pub. L. 91–172, title I, § 101(i), (j)(56), Dec. 30, 1969, 83 Stat. 525, 532; Pub. L. 92–178, title III, § 309(a), Dec. 10, 1971, 85 Stat. 525; Pub. L. 93–406, title II, § 1016(a)(26), Sept. 2, 1974, 88 Stat. 931; Pub. L. 94–455, title XIII, § 1307(d)(2)(F)(viii), title XVI, § 1605(b)(11), title XIX, § 1906(a)(44), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1728, 1755, 1830, 1834; Pub. L. 96–222, title I, § 108(b)(1)(D)–(F), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–223, title I, § 101(f)(1)(J), Apr. 2, 1980, 94 Stat. 252; Pub. L. 96–596, § 2(c)(2), Dec. 24, 1980, 94 Stat. 3474; Pub. L. 97–164, title I, § 151, Apr. 2, 1982, 96 Stat. 46; Pub. L. 97–248, title IV, § 402(c)(11), Sept. 3, 1982, 96 Stat. 668; Pub. L. 98–369, div. A, title VII, § 714(g)(1), (p)(2)(H), July 18, 1984, 98 Stat. 961, 965; Pub. L. 99–514, title XVIII, § 1899A(58), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 100–203, title X, § 10712(c)(5), Dec. 22, 1987, 101 Stat. 1330–467; Pub. L. 100–418, title I, § 1941(b)(2)(B)(x), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 104–168, title XIII, § 1311(c)(4), July 30, 1996, 110 Stat. 1478; Pub. L. 105–206, title III, § 3104(a), July 22, 1998, 112 Stat. 731; Pub. L. 114–74, title XI, § 1101(f)(11), Nov. 2, 2015, 129 Stat. 638; Pub. L. 115–141, div. U, title IV, § 401(a)(325)(A), Mar. 23, 2018, 132 Stat. 1199.)
 
 **Editorial Notes**
 
@@ -561,9 +561,9 @@ The date of enactment of this title, referred to in subsec. (e), is Aug. 16, 195
 
 1986—Subsec. (g)(1)(B). Pub. L. 99–514 substituted “section 4963” for “section 4962”.
 
-1984—Subsec. (h). Pub. L. 98–369, § 714(p)(2)(H), substituted “section 6231(a)(3)” for “section 6131(a)(3)”.
+1984—Subsec. (h). Pub. L. 98–369, § 714(p)(2)(H), substituted “section 6231(a)(3)” for “section 6131(a)(3)”.
 
-Subsecs. (i), (j). Pub. L. 98–369, § 714(g)(1), added subsec. (i) and redesignated former subsec. (i) as (j).
+Subsecs. (i), (j). Pub. L. 98–369, § 714(g)(1), added subsec. (i) and redesignated former subsec. (i) as (j).
 
 1982—Subsec. (e). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims” wherever appearing.
 
@@ -575,21 +575,21 @@ Subsec. (g). Pub. L. 96–596 substituted in par. (1) provision authorizing, wit
 
 Pub. L. 96–222 substituted in pars. (1) to (3) “4944, 4945, 4951, 4952” for “4944, 4945” and in par. (1) “section 4945(a) (relating to initial taxes on taxable expenditures), section 4951(a) (relating to initial taxes on self dealing), 4952(a) (relating to initial taxes on taxable expenditures)” for “section 4945(a) (relating to initial taxes on taxable expenditures)” and “section 4945(b) (relating to additional taxes on taxable expenditures), section 4951(b) (relating to additional taxes on self-dealing), 4952(b) (relating to additional taxes on taxable expenditures)” for “section 4945(b) (relating to additional taxes on taxable expenditures)”.
 
-1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (c). Pub. L. 94–455, § 1906(a)(44), struck out “instituted after June 15, 1942,” after “res judicata in all suits” and “where the petition to the Tax Court was filed after such date” after “decisions of the Tax Court”.
+Subsec. (c). Pub. L. 94–455, § 1906(a)(44), struck out “instituted after June 15, 1942,” after “res judicata in all suits” and “where the petition to the Tax Court was filed after such date” after “decisions of the Tax Court”.
 
-Subsec. (e). Pub. L. 94–455, §§ 1307(d)(2)(F)(viii), 1605(b)(11), 1906(b)(13)(A), struck out “or his delegate” after “Secretary” and substituted “chapter 41, 42,” for “chapter 42” and “43, or 44” for “or 43”.
+Subsec. (e). Pub. L. 94–455, §§ 1307(d)(2)(F)(viii), 1605(b)(11), 1906(b)(13)(A), struck out “or his delegate” after “Secretary” and substituted “chapter 41, 42,” for “chapter 42” and “43, or 44” for “or 43”.
 
-1974—Subsec. (e). Pub. L. 93–406, § 1016(a)(26)(A), substituted “chapter 42 or 43” for “chapter 42”.
+1974—Subsec. (e). Pub. L. 93–406, § 1016(a)(26)(A), substituted “chapter 42 or 43” for “chapter 42”.
 
-Subsec. (g). Pub. L. 93–406, § 1016(a)(26)(B)–(F), substituted “chapter 42 or 43” for “chapter 42” in heading, substituted “4945, 4971, or 4975” for “or 4945”, “section 4945(a) (relating to initial taxes on taxable expenditures), 4971(a) (relating to initial tax on failure to meet minimum funding standard), 4975(a) (relating to initial tax on prohibited transactions)” for “section 4945(a) (relating to initial taxes on taxable expenditures)”, and “section 4945(b) (relating to additional taxes on taxable expenditures), section 4971(b) (relating to additional tax on failure to meet minimum funding standard), or section 4975(b) (relating to additional tax on prohibited transactions)” for “or section 4945(b) (relating to additional taxes on taxable expenditures)” in par. (1), and substituted “4945, 4971, or 4975” for “or 4945” in pars. (2) and (3).
+Subsec. (g). Pub. L. 93–406, § 1016(a)(26)(B)–(F), substituted “chapter 42 or 43” for “chapter 42” in heading, substituted “4945, 4971, or 4975” for “or 4945”, “section 4945(a) (relating to initial taxes on taxable expenditures), 4971(a) (relating to initial tax on failure to meet minimum funding standard), 4975(a) (relating to initial tax on prohibited transactions)” for “section 4945(a) (relating to initial taxes on taxable expenditures)”, and “section 4945(b) (relating to additional taxes on taxable expenditures), section 4971(b) (relating to additional tax on failure to meet minimum funding standard), or section 4975(b) (relating to additional tax on prohibited transactions)” for “or section 4945(b) (relating to additional taxes on taxable expenditures)” in par. (1), and substituted “4945, 4971, or 4975” for “or 4945” in pars. (2) and (3).
 
 1971—Subsec. (f)(1). Pub. L. 92–178 authorized maintenance of suit or proceeding against the United States notwithstanding provisions of section 1502 of Title 28 (relating to certain treaty cases).
 
-1969—Subsec. (e). Pub. L. 91–172, § 101(j)(56), inserted reference to chapter 42 taxes.
+1969—Subsec. (e). Pub. L. 91–172, § 101(j)(56), inserted reference to chapter 42 taxes.
 
-Subsecs. (g), (h). Pub. L. 91–172, § 101(i), added subsec. (g) and redesignated former subsec. (g) as (h).
+Subsecs. (g), (h). Pub. L. 91–172, § 101(i), added subsec. (g) and redesignated former subsec. (g) as (h).
 
 1966—Subsecs. (f), (g). Pub. L. 89–713 added subsec. (f) and redesignated former subsec. (f) as (g).
 
@@ -603,7 +603,7 @@ Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxabl
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–206, title III, § 3104(c), July 22, 1998, 112 Stat. 732, provided that: “The amendments made by this section [amending this section and section 7479 of this title] shall apply to any claim for refund filed after the date of the enactment of this Act [July 22, 1998].”
+Pub. L. 105–206, title III, § 3104(c), July 22, 1998, 112 Stat. 732, provided that: “The amendments made by this section [amending this section and section 7479 of this title] shall apply to any claim for refund filed after the date of the enactment of this Act [July 22, 1998].”
 
 **Effective Date of 1996 Amendment**
 
@@ -651,7 +651,7 @@ Amendment by Pub. L. 93–406 applicable, except as otherwise provided in sectio
 
 **Effective Date of 1971 Amendment**
 
-Pub. L. 92–178, title III, § 309(b), Dec. 10, 1971, 85 Stat. 525, provided that: “The amendment made by subsection (a) [amending this section] shall apply to suits or proceedings which are instituted after January 30, 1967.”
+Pub. L. 92–178, title III, § 309(b), Dec. 10, 1971, 85 Stat. 525, provided that: “The amendment made by subsection (a) [amending this section] shall apply to suits or proceedings which are instituted after January 30, 1967.”
 
 **Effective Date of 1969 Amendment**
 
@@ -659,17 +659,17 @@ Amendment by Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of P
 
 **Effective Date of 1966 Amendment**
 
-Pub. L. 89–713, § 3(d), Nov. 2, 1966, 80 Stat. 1109, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 2502 of Title 28, Judiciary and Judicial Procedure] shall apply to suits brought against officers, employees, or personal representatives referred to therein which are instituted 90 days or more after the date of the enactment of this Act [Nov. 2, 1966]. The amendment made by subsection (c) [amending section 7482 of this title] shall apply to all decisions of the Tax Court entered after the date of enactment of this Act.”
+Pub. L. 89–713, § 3(d), Nov. 2, 1966, 80 Stat. 1109, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 2502 of Title 28, Judiciary and Judicial Procedure] shall apply to suits brought against officers, employees, or personal representatives referred to therein which are instituted 90 days or more after the date of the enactment of this Act [Nov. 2, 1966]. The amendment made by subsection (c) [amending section 7482 of this title] shall apply to all decisions of the Tax Court entered after the date of enactment of this Act.”
 
 **Effective Date of 1958 Amendment**
 
 Amendment by Pub. L. 85–866 as effective Aug. 17, 1954, see section 1(c)(2) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-### § 7423. Repayments to officers or employees
+### § 7423. Repayments to officers or employees
 
 The Secretary, subject to regulations prescribed by the Secretary, is authorized to repay—
 
@@ -681,7 +681,7 @@ To any officer or employee of the United States the full amount of such sums of 
 
 All damages and costs recovered against any officer or employee of the United States in any suit brought against him by reason of anything done in the due performance of his official duty under this title.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 877; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 877; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -689,11 +689,11 @@ All damages and costs recovered against any officer or employee of the United St
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” in provisions preceding par. (1).
 
-### § 7424. Intervention
+### § 7424. Intervention
 
 If the United States is not a party to a civil action or suit, the United States may intervene in such action or suit to assert any lien arising under this title on the property which is the subject of such action or suit. The provisions of section 2410 of title 28 of the United States Code (except subsection (b)) and of section 1444 of title 28 of the United States Code shall apply in any case in which the United States intervenes as if the United States had originally been named a defendant in such action or suit. In any case in which the application of the United States to intervene is denied, the adjudication in such civil action or suit shall have no effect upon such lien.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 877; Pub. L. 89–719, title I, § 108, Nov. 2, 1966, 80 Stat. 1140.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 877; Pub. L. 89–719, title I, § 108, Nov. 2, 1966, 80 Stat. 1140.)
 
 **Editorial Notes**
 
@@ -709,9 +709,9 @@ Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when 
 
 **Civil Actions To Clear Title to Property Commenced Before Nov. 2, 1966**
 
-Pub. L. 89–719, title I, § 114(d), Nov. 2, 1966, 80 Stat. 1147, provided that civil actions commenced before Nov. 2, 1966, to clear title to property pursuant to this section as in effect before Nov. 2, 1966, were to be determined in accord with this section as in effect before Nov. 2, 1966.
+Pub. L. 89–719, title I, § 114(d), Nov. 2, 1966, 80 Stat. 1147, provided that civil actions commenced before Nov. 2, 1966, to clear title to property pursuant to this section as in effect before Nov. 2, 1966, were to be determined in accord with this section as in effect before Nov. 2, 1966.
 
-### § 7425. Discharge of liens
+### § 7425. Discharge of liens
 
 **(a) Judicial proceedings** If the United States is not joined as a party, a judgment in any civil action or suit described in subsection (a) of section 2410 of title 28 of the United States Code, or a judicial sale pursuant to such a judgment, with respect to property on which the United States has or claims a lien under the provisions of this title—
 
@@ -775,7 +775,7 @@ The Secretary shall, without delay, cause such documents or certificate to be du
 
 A certificate of redemption executed by the Secretary shall constitute prima facie evidence of the regularity of such redemption and shall, when recorded, transfer to the United States all the rights, title, and interest in and to such property acquired by the person from whom the United States redeems such property by virtue of the sale of such property.
 
-(Added Pub. L. 89–719, title I, § 109, Nov. 2, 1966, 80 Stat. 1141; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XV, § 1572(a), Oct. 22, 1986, 100 Stat. 2765.)
+(Added Pub. L. 89–719, title I, § 109, Nov. 2, 1966, 80 Stat. 1141; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XV, § 1572(a), Oct. 22, 1986, 100 Stat. 2765.)
 
 **Editorial Notes**
 
@@ -793,13 +793,13 @@ A prior section 7425 was renumbered 7434 of this title.
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–514, title XV, § 1572(b), Oct. 22, 1986, 100 Stat. 2765, provided that: “The amendment made by subsection (a) [amending this section] shall apply to forfeitures after the 30th day after the date of the enactment of this Act [Oct. 22, 1986].”
+Pub. L. 99–514, title XV, § 1572(b), Oct. 22, 1986, 100 Stat. 2765, provided that: “The amendment made by subsection (a) [amending this section] shall apply to forfeitures after the 30th day after the date of the enactment of this Act [Oct. 22, 1986].”
 
 **Effective Date**
 
 Section applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as an Effective Date of 1966 Amendment note under section 6323 of this title.
 
-### § 7426. Civil actions by persons other than taxpayers
+### § 7426. Civil actions by persons other than taxpayers
 
 **(a) Actions permitted**
 
@@ -895,19 +895,19 @@ Claims pursuant to this section shall be payable out of funds appropriated under
 
 For period of limitation, see section 6532(c).
 
-(Added Pub. L. 89–719, title I, § 110(a), Nov. 2, 1966, 80 Stat. 1142; amended Pub. L. 93–625, § 7(a)(2)(E), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, § 350(a), Sept. 3, 1982, 96 Stat. 639; Pub. L. 99–514, title XV, § 1511(c)(16), Oct. 22, 1986, 100 Stat. 2745; Pub. L. 105–206, title III, §§ 3102(b), 3106(b)(1), (2), July 22, 1998, 112 Stat. 730, 733.)
+(Added Pub. L. 89–719, title I, § 110(a), Nov. 2, 1966, 80 Stat. 1142; amended Pub. L. 93–625, § 7(a)(2)(E), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, § 350(a), Sept. 3, 1982, 96 Stat. 639; Pub. L. 99–514, title XV, § 1511(c)(16), Oct. 22, 1986, 100 Stat. 2745; Pub. L. 105–206, title III, §§ 3102(b), 3106(b)(1), (2), July 22, 1998, 112 Stat. 730, 733.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Subsec. (a)(4). Pub. L. 105–206, § 3106(b)(1), added par. (4).
+1998—Subsec. (a)(4). Pub. L. 105–206, § 3106(b)(1), added par. (4).
 
-Subsec. (b)(5). Pub. L. 105–206, § 3106(b)(2)(A), added par. (5).
+Subsec. (b)(5). Pub. L. 105–206, § 3106(b)(2)(A), added par. (5).
 
-Subsec. (g)(3). Pub. L. 105–206, § 3106(b)(2)(B), added par. (3).
+Subsec. (g)(3). Pub. L. 105–206, § 3106(b)(2)(B), added par. (3).
 
-Subsecs. (h), (i). Pub. L. 105–206, § 3102(b), added subsec. (h) and redesignated former subsec. (h) as (i).
+Subsecs. (h), (i). Pub. L. 105–206, § 3102(b), added subsec. (h) and redesignated former subsec. (h) as (i).
 
 1986—Subsec. (g). Pub. L. 99–514 substituted “the overpayment rate established under section 6621” for “an annual rate established under section 6621”.
 
@@ -921,7 +921,7 @@ Subsecs. (h), (i). Pub. L. 105–206, § 3102(b), added subsec. (h) and redesi
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–206, title III, § 3102(d), July 22, 1998, 112 Stat. 731, provided that: “The amendments made by this section [amending this section and section 7433 of this title] shall apply to actions of officers or employees of the Internal Revenue Service after the date of the enactment of this Act [July 22, 1998].”
+Pub. L. 105–206, title III, § 3102(d), July 22, 1998, 112 Stat. 731, provided that: “The amendments made by this section [amending this section and section 7433 of this title] shall apply to actions of officers or employees of the Internal Revenue Service after the date of the enactment of this Act [July 22, 1998].”
 
 Amendment by section 3106(b)(1), (2) of Pub. L. 105–206 effective July 22, 1998, see section 3106(c) of Pub. L. 105–206, set out as a note under section 6325 of this title.
 
@@ -931,7 +931,7 @@ Amendment by Pub. L. 99–514 applicable for purposes of determining interest fo
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–248, title III, § 350(b), Sept. 3, 1982, 96 Stat. 639, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to levies made after December 31, 1982.”
+Pub. L. 97–248, title III, § 350(b), Sept. 3, 1982, 96 Stat. 639, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to levies made after December 31, 1982.”
 
 **Effective Date of 1975 Amendment**
 
@@ -941,11 +941,11 @@ Amendment by Pub. L. 93–625 effective July 1, 1975, and applicable to amounts 
 
 Section applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, except in a case in which a lien or title derived from enforcement of a lien held by United States has been enforced by a civil action or suit which has become final by judgment, sale, or agreement before Nov. 2, 1966, or in a case in which section would impair a priority held by any person other than United States holding a lien or interest prior to Nov. 2, 1966, operate to increase liability of such person, or shorten time of bringing suit with respect to transactions occurring before Nov. 2, 1966, see section 114(a)–(c) of Pub. L. 89–719, set out as Effective Date of 1966 Amendments note under section 6323 of this title.
 
-### § 7427. Tax return preparers
+### § 7427. Tax return preparers
 
 In any proceeding involving the issue of whether or not a tax return preparer has willfully attempted in any manner to understate the liability for tax (within the meaning of section 6694(b)), the burden of proof in respect to such issue shall be upon the Secretary.
 
-(Added Pub. L. 94–455, title XII, § 1203(b)(2)(A), Oct. 4, 1976, 90 Stat. 1690; amended Pub. L. 110–28, title VIII, § 8246(a)(2)(J)(i), May 25, 2007, 121 Stat. 202.)
+(Added Pub. L. 94–455, title XII, § 1203(b)(2)(A), Oct. 4, 1976, 90 Stat. 1690; amended Pub. L. 110–28, title VIII, § 8246(a)(2)(J)(i), May 25, 2007, 121 Stat. 202.)
 
 **Editorial Notes**
 
@@ -963,7 +963,7 @@ A prior section 7427 was renumbered 7437 of this title.
 
 Amendment by Pub. L. 110–28 applicable to returns prepared after May 25, 2007, see section 8246(c) of Pub. L. 110–28, set out as a note under section 6060 of this title.
 
-### § 7428. Declaratory judgments relating to status and classification of organizations under section 501(c)(3), etc.
+### § 7428. Declaratory judgments relating to status and classification of organizations under section 501(c)(3), etc.
 
 **(a) Creation of remedy** In a case of actual controversy involving—
 
@@ -1035,7 +1035,7 @@ This subsection shall not apply to any individual who was responsible, in whole 
 
 In any action brought under this section in the district court of the United States for the District of Columbia, a subpoena requiring the attendance of a witness at a trial or hearing may be served at any place in the United States.
 
-(Added Pub. L. 94–455, title XIII, § 1306(a), Oct. 4, 1976, 90 Stat. 1717; amended Pub. L. 95–600, title VII, § 701(dd)(2), Nov. 6, 1978, 92 Stat. 2924; Pub. L. 97–164, title I, § 152, Apr. 2, 1982, 96 Stat. 46; Pub. L. 98–369, div. A, title X, § 1033(b), July 18, 1984, 98 Stat. 1039; Pub. L. 108–357, title III, § 317(a), Oct. 22, 2004, 118 Stat. 1470; Pub. L. 109–280, title XII, § 1223(c), Aug. 17, 2006, 120 Stat. 1091; Pub. L. 114–113, div. Q, title IV, § 406(a), Dec. 18, 2015, 129 Stat. 3120; Pub. L. 115–141, div. U, title IV, § 401(a)(325)(A), (B), Mar. 23, 2018, 132 Stat. 1199, 1200.)
+(Added Pub. L. 94–455, title XIII, § 1306(a), Oct. 4, 1976, 90 Stat. 1717; amended Pub. L. 95–600, title VII, § 701(dd)(2), Nov. 6, 1978, 92 Stat. 2924; Pub. L. 97–164, title I, § 152, Apr. 2, 1982, 96 Stat. 46; Pub. L. 98–369, div. A, title X, § 1033(b), July 18, 1984, 98 Stat. 1039; Pub. L. 108–357, title III, § 317(a), Oct. 22, 2004, 118 Stat. 1470; Pub. L. 109–280, title XII, § 1223(c), Aug. 17, 2006, 120 Stat. 1091; Pub. L. 114–113, div. Q, title IV, § 406(a), Dec. 18, 2015, 129 Stat. 3120; Pub. L. 115–141, div. U, title IV, § 401(a)(325)(A), (B), Mar. 23, 2018, 132 Stat. 1199, 1200.)
 
 **Editorial Notes**
 
@@ -1045,11 +1045,11 @@ A prior section 7428 was renumbered 7437 of this title.
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–141, § 401(a)(325)(B), substituted “or the Court of Federal Claims” for “or the Claims Court” in concluding provisions.
+2018—Subsec. (a). Pub. L. 115–141, § 401(a)(325)(B), substituted “or the Court of Federal Claims” for “or the Claims Court” in concluding provisions.
 
-Pub. L. 115–141, § 401(a)(325)(A), substituted “United States Court of Federal Claims” for “United States Claims Court” in concluding provisions.
+Pub. L. 115–141, § 401(a)(325)(A), substituted “United States Court of Federal Claims” for “United States Claims Court” in concluding provisions.
 
-Subsecs. (b)(2), (c)(1)(C)(iii). Pub. L. 115–141, § 401(a)(325)(B), substituted “Court of Federal Claims” for “Claims Court”.
+Subsecs. (b)(2), (c)(1)(C)(iii). Pub. L. 115–141, § 401(a)(325)(B), substituted “Court of Federal Claims” for “Claims Court”.
 
 2015—Subsec. (a)(1)(E). Pub. L. 114–113 added subpar. (E).
 
@@ -1067,7 +1067,7 @@ Subsecs. (b)(2), (c)(1)(C)(iii). Pub. L. 115–141, § 401(a)(325)(B), substit
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–113, div. Q, title IV, § 406(b), Dec. 18, 2015, 129 Stat. 3120, provided that: “The amendments made by this section [amending this section] shall apply to pleadings filed after the date of the enactment of this Act [Dec. 18, 2015].”
+Pub. L. 114–113, div. Q, title IV, § 406(b), Dec. 18, 2015, 129 Stat. 3120, provided that: “The amendments made by this section [amending this section] shall apply to pleadings filed after the date of the enactment of this Act [Dec. 18, 2015].”
 
 **Effective Date of 2006 Amendment**
 
@@ -1075,7 +1075,7 @@ Amendment by Pub. L. 109–280 applicable to notices and returns with respect to
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title III, § 317(b), Oct. 22, 2004, 118 Stat. 1470, provided that: “The amendments made by this section [amending this section] shall apply with respect to pleadings filed after the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title III, § 317(b), Oct. 22, 2004, 118 Stat. 1470, provided that: “The amendments made by this section [amending this section] shall apply with respect to pleadings filed after the date of the enactment of this Act [Oct. 22, 2004].”
 
 **Effective Date of 1984 Amendment**
 
@@ -1091,9 +1091,9 @@ Amendment by Pub. L. 95–600 effective as if included in this section at the ti
 
 **Effective Date**
 
-Pub. L. 94–455, title XIII, § 1306(c), Oct. 4, 1976, 90 Stat. 1720, provided that: “The amendments made by this section [enacting this section and amending sections 7451, 7459, 7470, and 7482 of this title, enacting section 1507 of Title 28, Judiciary and Judicial Procedure, and amending sections 1346 and 2201 of Title 28] shall apply with respect to pleadings filed with the United States Tax Court, the district court of the United States for the District of Columbia, or the United States Court of Claims more than 6 months after the date of the enactment of this Act [Oct. 4, 1976] but only with respect to determinations (or requests for determinations) made after January 1, 1976.”
+Pub. L. 94–455, title XIII, § 1306(c), Oct. 4, 1976, 90 Stat. 1720, provided that: “The amendments made by this section [enacting this section and amending sections 7451, 7459, 7470, and 7482 of this title, enacting section 1507 of Title 28, Judiciary and Judicial Procedure, and amending sections 1346 and 2201 of Title 28] shall apply with respect to pleadings filed with the United States Tax Court, the district court of the United States for the District of Columbia, or the United States Court of Claims more than 6 months after the date of the enactment of this Act [Oct. 4, 1976] but only with respect to determinations (or requests for determinations) made after January 1, 1976.”
 
-### § 7429. Review of jeopardy levy or assessment procedures
+### § 7429. Review of jeopardy levy or assessment procedures
 
 **(a) Administrative review**
 
@@ -1189,7 +1189,7 @@ In a proceeding under subsection (b) involving the issue of whether the making o
 
 In a proceeding under subsection (b) involving the issue of whether an amount assessed or demanded as a result of action taken under section 6851, 6852, 6861, or 6862 is appropriate under the circumstances, the Secretary shall provide a written statement which contains any information with respect to which his determination of the amount assessed was based, but the burden of proof in respect of such issue shall be upon the taxpayer.
 
-(Added Pub. L. 94–455, title XII, § 1204(a), Oct. 4, 1976, 90 Stat. 1695; amended Pub. L. 98–369, div. A, title IV, § 446(a), July 18, 1984, 98 Stat. 817; Pub. L. 100–203, title X, § 10713(b)(2)(F), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 100–647, title VI, § 6237(a)–(e)(3), Nov. 10, 1988, 102 Stat. 3741–3743; Pub. L. 105–206, title III, § 3434(a), July 22, 1998, 112 Stat. 760.)
+(Added Pub. L. 94–455, title XII, § 1204(a), Oct. 4, 1976, 90 Stat. 1695; amended Pub. L. 98–369, div. A, title IV, § 446(a), July 18, 1984, 98 Stat. 817; Pub. L. 100–203, title X, § 10713(b)(2)(F), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 100–647, title VI, § 6237(a)–(e)(3), Nov. 10, 1988, 102 Stat. 3741–3743; Pub. L. 105–206, title III, § 3434(a), July 22, 1998, 112 Stat. 760.)
 
 **Editorial Notes**
 
@@ -1197,31 +1197,31 @@ In a proceeding under subsection (b) involving the issue of whether an amount as
 
 1998—Subsec. (a)(1). Pub. L. 105–206 substituted “Administrative review” for “Information to taxpayer” in heading and amended text of par. (1) generally. Prior to amendment, text read as follows: “Within 5 days after the day on which an assessment is made under section 6851(a), 6852(a), 6861(a), or 6862, or levy is made under section 6331(a) less than 30 days after notice and demand for payment is made under section 6331(a), the Secretary shall provide the taxpayer with a written statement of the information upon which the Secretary relies in making such assessment or levy.”
 
-1988—Pub. L. 100–647, § 6237(e)(3), inserted “levy or” after “jeopardy” in section catchline.
+1988—Pub. L. 100–647, § 6237(e)(3), inserted “levy or” after “jeopardy” in section catchline.
 
-Subsec. (a)(1). Pub. L. 100–647, § 6237(a), inserted “or levy is made under section 6331(a) less than 30 days after notice and demand for payment is made under section 6331(a),” after “6862,” and “or levy” after “such assessment”.
+Subsec. (a)(1). Pub. L. 100–647, § 6237(a), inserted “or levy is made under section 6331(a) less than 30 days after notice and demand for payment is made under section 6331(a),” after “6862,” and “or levy” after “such assessment”.
 
-Subsec. (a)(3). Pub. L. 100–647, § 6237(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “After a request for review is made under paragraph (2), the Secretary shall determine whether or not—
+Subsec. (a)(3). Pub. L. 100–647, § 6237(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “After a request for review is made under paragraph (2), the Secretary shall determine whether or not—
 
 “(A) the making of the assessment under section 6851, 6852, 6861, or 6862, as the case may be, is reasonable under the circumstances, and
 
 “(B) the amount so assessed or demanded as a result of the action taken under section 6851, 6852, 6861, or 6862 is appropriate under the circumstances.”
 
-Subsec. (b). Pub. L. 100–647, § 6237(c), amended subsec. (b) generally, substituting provisions of pars. (1) to (4) for provisions of former pars. (1) to (3) relating to actions permitted, determination by district court, and order of district court.
+Subsec. (b). Pub. L. 100–647, § 6237(c), amended subsec. (b) generally, substituting provisions of pars. (1) to (4) for provisions of former pars. (1) to (3) relating to actions permitted, determination by district court, and order of district court.
 
-Subsec. (c). Pub. L. 100–647, § 6237(e)(1), struck out “district” before “court”.
+Subsec. (c). Pub. L. 100–647, § 6237(e)(1), struck out “district” before “court”.
 
-Subsec. (e). Pub. L. 100–647, § 6237(d), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “A civil action under subsection (b) shall be commenced only in the judicial district described in section 1402(a)(1) or (2) of title 28, United States Code.”
+Subsec. (e). Pub. L. 100–647, § 6237(d), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “A civil action under subsection (b) shall be commenced only in the judicial district described in section 1402(a)(1) or (2) of title 28, United States Code.”
 
-Subsec. (f). Pub. L. 100–647, § 6237(e)(1), struck out “district” after “made by a”.
+Subsec. (f). Pub. L. 100–647, § 6237(e)(1), struck out “district” after “made by a”.
 
-Subsec. (g)(1). Pub. L. 100–647, § 6237(e)(2), in heading substituted “levy, termination,” for “termination” and in text substituted “a proceeding” for “an action” and inserted “the making of a levy described in subsection (a)(1) or” after “whether”.
+Subsec. (g)(1). Pub. L. 100–647, § 6237(e)(2), in heading substituted “levy, termination,” for “termination” and in text substituted “a proceeding” for “an action” and inserted “the making of a levy described in subsection (a)(1) or” after “whether”.
 
-Subsec. (g)(2). Pub. L. 100–647, § 6237(e)(2)(C), substituted “a proceeding” for “an action”.
+Subsec. (g)(2). Pub. L. 100–647, § 6237(e)(2)(C), substituted “a proceeding” for “an action”.
 
-1987—Subsec. (a)(1). Pub. L. 100–203, § 10713(b)(2)(F)(i), substituted “6851(a), 6852(a)” for “6851(a),”.
+1987—Subsec. (a)(1). Pub. L. 100–203, § 10713(b)(2)(F)(i), substituted “6851(a), 6852(a)” for “6851(a),”.
 
-Subsecs. (a)(3)(A), (B), (b)(2)(A), (B), (g)(1), (2). Pub. L. 100–203, § 10713(b)(2)(F)(ii), substituted “6851, 6852,” for “6851,” wherever appearing.
+Subsecs. (a)(3)(A), (B), (b)(2)(A), (B), (g)(1), (2). Pub. L. 100–203, § 10713(b)(2)(F)(ii), substituted “6851, 6852,” for “6851,” wherever appearing.
 
 1984—Subsec. (b)(2). Pub. L. 98–369 inserted provision that if the court determines that proper service was not made on the United States within 5 days after the date of the commencement of the action, the running of the 20-day period shall not begin before the day on which proper service was made on the United States.
 
@@ -1229,21 +1229,21 @@ Subsecs. (a)(3)(A), (B), (b)(2)(A), (B), (g)(1), (2). Pub. L. 100–203, § 10
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–206, title III, § 3434(b), July 22, 1998, 112 Stat. 760, provided that: “The amendment made by this section [amending this section] shall apply to taxes assessed and levies made after the date of the enactment of this Act [July 22, 1998].”
+Pub. L. 105–206, title III, § 3434(b), July 22, 1998, 112 Stat. 760, provided that: “The amendment made by this section [amending this section] shall apply to taxes assessed and levies made after the date of the enactment of this Act [July 22, 1998].”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title VI, § 6237(f), Nov. 10, 1988, 102 Stat. 3743, provided that: “The amendments made by this section [amending this section] shall apply to jeopardy levies issued and assessments made on or after July 1, 1989.”
+Pub. L. 100–647, title VI, § 6237(f), Nov. 10, 1988, 102 Stat. 3743, provided that: “The amendments made by this section [amending this section] shall apply to jeopardy levies issued and assessments made on or after July 1, 1989.”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title IV, § 446(b), July 18, 1984, 98 Stat. 817, provided that: “The amendment made by subsection (a) [amending this section] shall apply to actions commenced after the date of the enactment of this Act [July 18, 1984].”
+Pub. L. 98–369, div. A, title IV, § 446(b), July 18, 1984, 98 Stat. 817, provided that: “The amendment made by subsection (a) [amending this section] shall apply to actions commenced after the date of the enactment of this Act [July 18, 1984].”
 
 **Effective Date**
 
 Section applicable with respect to action taken under section 6851, 6861, or 6862 of this title where notice and demand takes place after Feb. 28, 1977, see section 1204(d) of Pub. L. 94–455, as amended, set out as a note under section 6851 of this title.
 
-### § 7430. Awarding of costs and certain fees
+### § 7430. Awarding of costs and certain fees
 
 **(a) In general** In any administrative or court proceeding which is brought by or against the United States in connection with the determination, collection, or refund of any tax, interest, or penalty under this title, the prevailing party may be awarded a judgment or a settlement for—
 
@@ -1441,7 +1441,7 @@ An order of the Tax Court disposing of a petition under paragraph (2) shall be r
 
 **(B)** ending on the date which is 30 days before the date the case is first set for trial.
 
-(Added Pub. L. 97–248, title II, § 292(a), Sept. 3, 1982, 96 Stat. 572; amended Pub. L. 98–369, div. A, title VII, § 714(c), July 18, 1984, 98 Stat. 961; Pub. L. 99–514, title XV, § 1551(a)–(g), Oct. 22, 1986, 100 Stat. 2752, 2753; Pub. L. 100–647, title I, § 1015(i), title VI, § 6239(a), Nov. 10, 1988, 102 Stat. 3571, 3743; Pub. L. 104–168, title VII, §§ 701(a)–(c)(2), 702(a), 703(a), 704(a), July 30, 1996, 110 Stat. 1463, 1464; Pub. L. 105–34, title XII, § 1285(a)–(c), title XIV, § 1453(a), Aug. 5, 1997, 111 Stat. 1038, 1055; Pub. L. 105–206, title III, § 3101(a)–(e), title VI, §§ 6012(h), 6014(e), July 22, 1998, 112 Stat. 727, 728, 819, 820; Pub. L. 106–554, § 1(a)(7) [title III, § 319(25)], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 115–97, title I, § 11002(d)(1)(SS), Dec. 22, 2017, 131 Stat. 2061; Pub. L. 115–141, div. U, title IV, § 401(a)(325)(A), Mar. 23, 2018, 132 Stat. 1199; Pub. L. 116–25, title I, § 1001(b)(1)(H), (2), July 1, 2019, 133 Stat. 985.)
+(Added Pub. L. 97–248, title II, § 292(a), Sept. 3, 1982, 96 Stat. 572; amended Pub. L. 98–369, div. A, title VII, § 714(c), July 18, 1984, 98 Stat. 961; Pub. L. 99–514, title XV, § 1551(a)–(g), Oct. 22, 1986, 100 Stat. 2752, 2753; Pub. L. 100–647, title I, § 1015(i), title VI, § 6239(a), Nov. 10, 1988, 102 Stat. 3571, 3743; Pub. L. 104–168, title VII, §§ 701(a)–(c)(2), 702(a), 703(a), 704(a), July 30, 1996, 110 Stat. 1463, 1464; Pub. L. 105–34, title XII, § 1285(a)–(c), title XIV, § 1453(a), Aug. 5, 1997, 111 Stat. 1038, 1055; Pub. L. 105–206, title III, § 3101(a)–(e), title VI, §§ 6012(h), 6014(e), July 22, 1998, 112 Stat. 727, 728, 819, 820; Pub. L. 106–554, § 1(a)(7) [title III, § 319(25)], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 115–97, title I, § 11002(d)(1)(SS), Dec. 22, 2017, 131 Stat. 2061; Pub. L. 115–141, div. U, title IV, § 401(a)(325)(A), Mar. 23, 2018, 132 Stat. 1199; Pub. L. 116–25, title I, § 1001(b)(1)(H), (2), July 1, 2019, 133 Stat. 985.)
 
 **Inflation Adjusted Items for Certain Years**
 
@@ -1461,37 +1461,37 @@ A prior section 7430 was renumbered section 7437 of this title.
 
 2017—Subsec. (c)(1). Pub. L. 115–97 substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B)” in concluding provisions.
 
-2000—Subsec. (c)(3). Pub. L. 106–554, § 1(a)(7) [title III, § 319(25)(A)], substituted “Attorneys’ ” for “Attorneys” in heading.
+2000—Subsec. (c)(3). Pub. L. 106–554, § 1(a)(7) [title III, § 319(25)(A)], substituted “Attorneys’ ” for “Attorneys” in heading.
 
-Subsec. (c)(3)(B). Pub. L. 106–554, § 1(a)(7) [title III, § 319(25)(B)], substituted “attorneys’ fees” for “attorneys fees” wherever appearing.
+Subsec. (c)(3)(B). Pub. L. 106–554, § 1(a)(7) [title III, § 319(25)(B)], substituted “attorneys’ fees” for “attorneys fees” wherever appearing.
 
-1998—Subsec. (b)(4), (5). Pub. L. 105–206, § 6012(h), redesignated par. (5) as (4).
+1998—Subsec. (b)(4), (5). Pub. L. 105–206, § 6012(h), redesignated par. (5) as (4).
 
-Subsec. (c)(1)(B)(iii). Pub. L. 105–206, § 3101(a), substituted “$125” for “$110” and inserted “the difficulty of the issues presented in the case, or the local availability of tax expertise,” before “justifies a higher rate”.
+Subsec. (c)(1)(B)(iii). Pub. L. 105–206, § 3101(a), substituted “$125” for “$110” and inserted “the difficulty of the issues presented in the case, or the local availability of tax expertise,” before “justifies a higher rate”.
 
-Subsec. (c)(2). Pub. L. 105–206, § 3101(b), added concluding provisions and struck out former concluding provisions which read as follows: “Such term shall only include costs incurred on or after the earlier of (i) the date of the receipt by the taxpayer of the notice of the decision of the Internal Revenue Service Office of Appeals, or (ii) the date of the notice of deficiency.”
+Subsec. (c)(2). Pub. L. 105–206, § 3101(b), added concluding provisions and struck out former concluding provisions which read as follows: “Such term shall only include costs incurred on or after the earlier of (i) the date of the receipt by the taxpayer of the notice of the decision of the Internal Revenue Service Office of Appeals, or (ii) the date of the notice of deficiency.”
 
-Subsec. (c)(3). Pub. L. 105–206, § 3101(c), substituted “attorneys” for “attorney’s” in heading and amended text of par. (3) generally. Prior to amendment, text read as follows: “For purposes of paragraphs (1) and (2), fees for the services of an individual (whether or not an attorney) who is authorized to practice before the Tax Court or before the Internal Revenue Service shall be treated as fees for the services of an attorney.”
+Subsec. (c)(3). Pub. L. 105–206, § 3101(c), substituted “attorneys” for “attorney’s” in heading and amended text of par. (3) generally. Prior to amendment, text read as follows: “For purposes of paragraphs (1) and (2), fees for the services of an individual (whether or not an attorney) who is authorized to practice before the Tax Court or before the Internal Revenue Service shall be treated as fees for the services of an attorney.”
 
-Subsec. (c)(4)(B)(iii), (iv). Pub. L. 105–206, § 3101(d), added cl. (iii) and redesignated former cl. (iii) as (iv).
+Subsec. (c)(4)(B)(iii), (iv). Pub. L. 105–206, § 3101(d), added cl. (iii) and redesignated former cl. (iii) as (iv).
 
-Subsec. (c)(4)(D). Pub. L. 105–206, § 6014(e), substituted “subparagraph (A)(ii)” for “subparagraph (A)(iii)” in introductory provisions.
+Subsec. (c)(4)(D). Pub. L. 105–206, § 6014(e), substituted “subparagraph (A)(ii)” for “subparagraph (A)(iii)” in introductory provisions.
 
-Subsec. (c)(4)(E). Pub. L. 105–206, § 3101(e)(1), added subpar. (E).
+Subsec. (c)(4)(E). Pub. L. 105–206, § 3101(e)(1), added subpar. (E).
 
-Subsec. (g). Pub. L. 105–206, § 3101(e)(2), added subsec. (g).
+Subsec. (g). Pub. L. 105–206, § 3101(e)(2), added subsec. (g).
 
-1997—Subsec. (b)(5). Pub. L. 105–34, § 1285(b), added par. (5).
+1997—Subsec. (b)(5). Pub. L. 105–34, § 1285(b), added par. (5).
 
-Subsec. (c)(4)(D). Pub. L. 105–34, § 1453(a), added subpar. (D).
+Subsec. (c)(4)(D). Pub. L. 105–34, § 1453(a), added subpar. (D).
 
-Subsec. (f)(2). Pub. L. 105–34, § 1285(c), substituted “the filing of a petition for review with” for “appeal to” and inserted at end “If the Secretary sends by certified or registered mail a notice of such decision to the petitioner, no proceeding in the Tax Court may be initiated under this paragraph unless such petition is filed before the 91st day after the date of such mailing.”
+Subsec. (f)(2). Pub. L. 105–34, § 1285(c), substituted “the filing of a petition for review with” for “appeal to” and inserted at end “If the Secretary sends by certified or registered mail a notice of such decision to the petitioner, no proceeding in the Tax Court may be initiated under this paragraph unless such petition is filed before the 91st day after the date of such mailing.”
 
-Subsec. (f)(3). Pub. L. 105–34, § 1285(a), added par. (3).
+Subsec. (f)(3). Pub. L. 105–34, § 1285(a), added par. (3).
 
-1996—Subsec. (b)(1). Pub. L. 104–168, § 703(a), inserted at end “Any failure to agree to an extension of the time for the assessment of any tax shall not be taken into account for purposes of determining whether the prevailing party meets the requirements of the preceding sentence.”
+1996—Subsec. (b)(1). Pub. L. 104–168, § 703(a), inserted at end “Any failure to agree to an extension of the time for the assessment of any tax shall not be taken into account for purposes of determining whether the prevailing party meets the requirements of the preceding sentence.”
 
-Subsec. (b)(3), (4). Pub. L. 104–168, § 704(a), redesignated par. (4) as (3) and struck out former par. (3) which read as follows:
+Subsec. (b)(3), (4). Pub. L. 104–168, § 704(a), redesignated par. (4) as (3) and struck out former par. (3) which read as follows:
 
 “(3) Exclusion of declaratory judgment proceedings.—
 
@@ -1499,29 +1499,29 @@ Subsec. (b)(3), (4). Pub. L. 104–168, § 704(a), redesignated par. (4) as (3
 
 “(B) Exception for section 501(c)(3) determination revocation proceedings.—Subparagraph (A) shall not apply to any proceeding which involves the revocation of a determination that the organization is described in section 501(c)(3).”
 
-Subsec. (c)(1). Pub. L. 104–168, § 702(a)(3), inserted closing provisions “In the case of any calendar year beginning after 1996, the dollar amount referred to in clause (iii) shall be increased by an amount equal to such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, by substituting ‘calendar year 1995’ for ‘calendar year 1992’ in subparagraph (B) thereof. If any dollar amount after being increased under the preceding sentence is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10.”
+Subsec. (c)(1). Pub. L. 104–168, § 702(a)(3), inserted closing provisions “In the case of any calendar year beginning after 1996, the dollar amount referred to in clause (iii) shall be increased by an amount equal to such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, by substituting ‘calendar year 1995’ for ‘calendar year 1992’ in subparagraph (B) thereof. If any dollar amount after being increased under the preceding sentence is not a multiple of $10, such dollar amount shall be rounded to the nearest multiple of $10.”
 
-Subsec. (c)(1)(B)(iii). Pub. L. 104–168, § 702(a)(1), (2), substituted “$110” for “$75” and struck out “an increase in the cost of living or” before “a special factor,”.
+Subsec. (c)(1)(B)(iii). Pub. L. 104–168, § 702(a)(1), (2), substituted “$110” for “$75” and struck out “an increase in the cost of living or” before “a special factor,”.
 
-Subsec. (c)(2)(B). Pub. L. 104–168, § 701(c)(1), substituted “paragraph (4)(C)” for “paragraph (4)(B)”.
+Subsec. (c)(2)(B). Pub. L. 104–168, § 701(c)(1), substituted “paragraph (4)(C)” for “paragraph (4)(B)”.
 
-Subsec. (c)(4)(A). Pub. L. 104–168, § 701(a), redesignated cls. (ii) and (iii) as (i) and (ii), respectively, and struck out former cl. (i) which read as follows: “which establishes that the position of the United States in the proceeding was not substantially justified,”.
+Subsec. (c)(4)(A). Pub. L. 104–168, § 701(a), redesignated cls. (ii) and (iii) as (i) and (ii), respectively, and struck out former cl. (i) which read as follows: “which establishes that the position of the United States in the proceeding was not substantially justified,”.
 
-Subsec. (c)(4)(B). Pub. L. 104–168, § 701(b), added subpar. (B). Former subpar. (B) redesignated (C).
+Subsec. (c)(4)(B). Pub. L. 104–168, § 701(b), added subpar. (B). Former subpar. (B) redesignated (C).
 
-Subsec. (c)(4)(C). Pub. L. 104–168, § 701(c)(2), substituted “Any determination under this paragraph” for “Any determination under subparagraph (A)”.
+Subsec. (c)(4)(C). Pub. L. 104–168, § 701(c)(2), substituted “Any determination under this paragraph” for “Any determination under subparagraph (A)”.
 
-Pub. L. 104–168, § 701(b), redesignated subpar. (B) as (C).
+Pub. L. 104–168, § 701(b), redesignated subpar. (B) as (C).
 
-1988—Pub. L. 100–647, § 6239(a), substituted “costs” for “court costs” in section catchline and amended text generally, revising and restating provisions so as to include costs and fees in administrative proceedings.
+1988—Pub. L. 100–647, § 6239(a), substituted “costs” for “court costs” in section catchline and amended text generally, revising and restating provisions so as to include costs and fees in administrative proceedings.
 
-Subsec. (c)(2)(A)(iii). Pub. L. 100–647, § 1015(i), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “meets the requirements of section 504(b)(1)(B) of title 5, United States Code (as in effect on the date of the enactment of the Tax Reform Act of 1986 and applied by taking into account the commencement of the proceeding described in subsection (a) in lieu of the initiation of the adjudication referred to in such section).”
+Subsec. (c)(2)(A)(iii). Pub. L. 100–647, § 1015(i), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “meets the requirements of section 504(b)(1)(B) of title 5, United States Code (as in effect on the date of the enactment of the Tax Reform Act of 1986 and applied by taking into account the commencement of the proceeding described in subsection (a) in lieu of the initiation of the adjudication referred to in such section).”
 
-1986—Subsec. (a). Pub. L. 99–514, § 1551(f), inserted “(payable in the case of the Tax Court in the same manner as such an award by a district court)” in concluding provisions.
+1986—Subsec. (a). Pub. L. 99–514, § 1551(f), inserted “(payable in the case of the Tax Court in the same manner as such an award by a district court)” in concluding provisions.
 
-Subsec. (b). Pub. L. 99–514, § 1551(a), (b), redesignated pars. (2) to (4) as (1) to (3), respectively, added par. (4), and struck out former par. (1), maximum dollar amount, which read as follows: “The amount of reasonable litigation costs which may be awarded under subsection (a) with respect to any prevailing party in any civil proceeding shall not exceed $25,000.”
+Subsec. (b). Pub. L. 99–514, § 1551(a), (b), redesignated pars. (2) to (4) as (1) to (3), respectively, added par. (4), and struck out former par. (1), maximum dollar amount, which read as follows: “The amount of reasonable litigation costs which may be awarded under subsection (a) with respect to any prevailing party in any civil proceeding shall not exceed $25,000.”
 
-Subsec. (c)(1)(A). Pub. L. 99–514, § 1551(c), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The term ‘reasonable litigation costs’ includes—
+Subsec. (c)(1)(A). Pub. L. 99–514, § 1551(c), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The term ‘reasonable litigation costs’ includes—
 
 “(i) reasonable court costs,
 
@@ -1531,11 +1531,11 @@ Subsec. (c)(1)(A). Pub. L. 99–514, § 1551(c), amended subpar. (A) generally
 
 “(iv) reasonable fees paid or incurred for the services of attorneys in connection with the civil proceeding.”
 
-Subsec. (c)(2)(A). Pub. L. 99–514, § 1551(d), substituted “was not substantially justified” for “was unreasonable” in cl. (i), and added cl. (iii).
+Subsec. (c)(2)(A). Pub. L. 99–514, § 1551(d), substituted “was not substantially justified” for “was unreasonable” in cl. (i), and added cl. (iii).
 
-Subsec. (c)(4). Pub. L. 99–514, § 1551(e), added par. (4).
+Subsec. (c)(4). Pub. L. 99–514, § 1551(e), added par. (4).
 
-Subsec. (f). Pub. L. 99–514, § 1551(g), struck out subsec. (f), termination, which read as follows: “This section shall not apply to any proceeding commenced after December 31, 1985.”
+Subsec. (f). Pub. L. 99–514, § 1551(g), struck out subsec. (f), termination, which read as follows: “This section shall not apply to any proceeding commenced after December 31, 1985.”
 
 1984—Subsec. (a)(2). Pub. L. 98–369 inserted reference to United States Claims Court.
 
@@ -1547,35 +1547,35 @@ Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 3
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–206, title III, § 3101(g), July 22, 1998, 112 Stat. 729, provided that: “The amendments made by this section [amending this section and section 7431 of this title] shall apply to costs incurred (and, in the case of the amendment made by subsection (c) [amending this section], services performed) more than 180 days after the date of the enactment of this Act [July 22, 1998].”
+Pub. L. 105–206, title III, § 3101(g), July 22, 1998, 112 Stat. 729, provided that: “The amendments made by this section [amending this section and section 7431 of this title] shall apply to costs incurred (and, in the case of the amendment made by subsection (c) [amending this section], services performed) more than 180 days after the date of the enactment of this Act [July 22, 1998].”
 
 Amendment by sections 6012(h) and 6014(e) of Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title XII, § 1285(d), Aug. 5, 1997, 111 Stat. 1039, provided that: “The amendments made by this section [amending this section] shall apply to civil actions or proceedings commenced after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title XII, § 1285(d), Aug. 5, 1997, 111 Stat. 1039, provided that: “The amendments made by this section [amending this section] shall apply to civil actions or proceedings commenced after the date of the enactment of this Act [Aug. 5, 1997].”
 
-Pub. L. 105–34, title XIV, § 1453(b), Aug. 5, 1997, 111 Stat. 1055, provided that: “The amendment made by this section [amending this section] shall apply to proceedings commenced after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title XIV, § 1453(b), Aug. 5, 1997, 111 Stat. 1055, provided that: “The amendment made by this section [amending this section] shall apply to proceedings commenced after the date of the enactment of this Act [Aug. 5, 1997].”
 
 **Effective Date of 1996 Amendment**
 
 Amendment by section 701(a)–(c)(2) of Pub. L. 104–168 applicable in case of proceedings commenced after July 30, 1996, see section 701(d) of Pub. L. 104–168, set out as a note under section 6404 of this title.
 
-Pub. L. 104–168, title VII, § 702(b), July 30, 1996, 110 Stat. 1464, provided that: “The amendment made by this section [amending this section] shall apply in the case of proceedings commenced after the date of the enactment of this Act [July 30, 1996].”
+Pub. L. 104–168, title VII, § 702(b), July 30, 1996, 110 Stat. 1464, provided that: “The amendment made by this section [amending this section] shall apply in the case of proceedings commenced after the date of the enactment of this Act [July 30, 1996].”
 
-Pub. L. 104–168, title VII, § 703(b), July 30, 1996, 110 Stat. 1464, provided that: “The amendment made by this section [amending this section] shall apply in the case of proceedings commenced after the date of the enactment of this Act [July 30, 1996].”
+Pub. L. 104–168, title VII, § 703(b), July 30, 1996, 110 Stat. 1464, provided that: “The amendment made by this section [amending this section] shall apply in the case of proceedings commenced after the date of the enactment of this Act [July 30, 1996].”
 
-Pub. L. 104–168, title VII, § 704(b), July 30, 1996, 110 Stat. 1464, provided that: “The amendment made by this section [amending this section] shall apply in the case of proceedings commenced after the date of the enactment of this Act [July 30, 1996].”
+Pub. L. 104–168, title VII, § 704(b), July 30, 1996, 110 Stat. 1464, provided that: “The amendment made by this section [amending this section] shall apply in the case of proceedings commenced after the date of the enactment of this Act [July 30, 1996].”
 
 **Effective Date of 1988 Amendment**
 
 Amendment by section 1015(i) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Pub. L. 100–647, title VI, § 6239(d), Nov. 10, 1988, 102 Stat. 3746, provided that: “The amendments made by this section [amending this section and section 504 of Title 5, Government Organization and Employees] shall apply to proceedings commencing after the date of the enactment of this Act [Nov. 10, 1988].”
+Pub. L. 100–647, title VI, § 6239(d), Nov. 10, 1988, 102 Stat. 3746, provided that: “The amendments made by this section [amending this section and section 504 of Title 5, Government Organization and Employees] shall apply to proceedings commencing after the date of the enactment of this Act [Nov. 10, 1988].”
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–514, title XV, § 1551(h), Oct. 22, 1986, 100 Stat. 2753, provided that:
+Pub. L. 99–514, title XV, § 1551(h), Oct. 22, 1986, 100 Stat. 2753, provided that:
 
 > **“(1) General rule.—** Except as provided in paragraph (2), the amendments made by this section [amending this section] shall apply to amounts paid after September 30, 1986, in civil actions or proceedings, commenced after December 31, 1985.
 
@@ -1589,7 +1589,7 @@ Amendment by Pub. L. 98–369 effective as if included in the provision of the T
 
 **Effective Date**
 
-Pub. L. 97–248, title II, § 292(e), Sept. 3, 1982, 96 Stat. 574, as amended by Pub. L. 98–369, div. A, title I, § 160, July 18, 1984, 98 Stat. 696, provided that:
+Pub. L. 97–248, title II, § 292(e), Sept. 3, 1982, 96 Stat. 574, as amended by Pub. L. 98–369, div. A, title I, § 160, July 18, 1984, 98 Stat. 696, provided that:
 
 > **“(1) In general.—** The amendments made by this section [enacting this section and amending section 6673 of this title and section 2412 of Title 28, Judiciary and Judicial Procedure] shall apply to civil actions or proceedings commenced after February 28, 1983.
 
@@ -1599,7 +1599,7 @@ Pub. L. 97–248, title II, § 292(e), Sept. 3, 1982, 96 Stat. 574, as amended
 
 > **“(B)** is pending in the United States Tax Court on the day which is 120 days after the date of the enactment of the Tax Reform Act of 1984 [July 18, 1984].”
 
-### § 7431. Civil damages for unauthorized inspection or disclosure of returns and return information
+### § 7431. Civil damages for unauthorized inspection or disclosure of returns and return information
 
 **(a) In general**
 
@@ -1663,7 +1663,7 @@ For purposes of subsection (b), the reference to section 6103 shall be treated a
 
 For purposes of this section, any reference to section 6103 shall be treated as including a reference to section 6311(e).
 
-(Added Pub. L. 97–248, title III, § 357(a), Sept. 3, 1982, 96 Stat. 645; amended Pub. L. 98–67, title I, § 104(b), Aug. 5, 1983, 97 Stat. 379; Pub. L. 105–34, title XII, § 1205(c)(2), Aug. 5, 1997, 111 Stat. 998; Pub. L. 105–35, § 3(a)–(d)(4), (6), Aug. 5, 1997, 111 Stat. 1105, 1106; Pub. L. 105–206, title III, § 3101(f), title VI, § 6012(b)(3), July 22, 1998, 112 Stat. 729, 819; Pub. L. 109–280, title XII, § 1224(b)(7), Aug. 17, 2006, 120 Stat. 1093; Pub. L. 116–25, title III, § 3002(a), July 1, 2019, 133 Stat. 1015.)
+(Added Pub. L. 97–248, title III, § 357(a), Sept. 3, 1982, 96 Stat. 645; amended Pub. L. 98–67, title I, § 104(b), Aug. 5, 1983, 97 Stat. 379; Pub. L. 105–34, title XII, § 1205(c)(2), Aug. 5, 1997, 111 Stat. 998; Pub. L. 105–35, § 3(a)–(d)(4), (6), Aug. 5, 1997, 111 Stat. 1105, 1106; Pub. L. 105–206, title III, § 3101(f), title VI, § 6012(b)(3), July 22, 1998, 112 Stat. 729, 819; Pub. L. 109–280, title XII, § 1224(b)(7), Aug. 17, 2006, 120 Stat. 1093; Pub. L. 116–25, title III, § 3002(a), July 1, 2019, 133 Stat. 1015.)
 
 **Editorial Notes**
 
@@ -1677,33 +1677,33 @@ A prior section 7431 was renumbered section 7437 of this title.
 
 2006—Subsec. (a)(2). Pub. L. 109–280, which directed insertion of “or in violation of section 6104(c)” after “6103” in subsec. (a)(2) of section 7431, without specifying the act to be amended, was executed by making the insertion in subsec. (a)(2) of this section, which is section 7431 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
-1998—Subsec. (c)(2). Pub. L. 105–206, § 3101(f), substituted “, plus” for the period at end.
+1998—Subsec. (c)(2). Pub. L. 105–206, § 3101(f), substituted “, plus” for the period at end.
 
-Subsec. (c)(3). Pub. L. 105–206, § 3101(f), added par. (3).
+Subsec. (c)(3). Pub. L. 105–206, § 3101(f), added par. (3).
 
-Subsecs. (g), (h). Pub. L. 105–206, § 6012(b)(3), redesignated subsec. (g), relating to special rule for information obtained under section 6103(k)(8), as (h), and substituted “(9)” for “(8)” in heading.
+Subsecs. (g), (h). Pub. L. 105–206, § 6012(b)(3), redesignated subsec. (g), relating to special rule for information obtained under section 6103(k)(8), as (h), and substituted “(9)” for “(8)” in heading.
 
-1997—Pub. L. 105–35, § 3(d)(4), inserted “inspection or” before “disclosure” in section catchline.
+1997—Pub. L. 105–35, § 3(d)(4), inserted “inspection or” before “disclosure” in section catchline.
 
-Subsec. (a)(1), (2). Pub. L. 105–35, § 3(a)(1), (2), substituted “Inspection or disclosure” for “Disclosure” in headings and “inspects or discloses” for “discloses” in text.
+Subsec. (a)(1), (2). Pub. L. 105–35, § 3(a)(1), (2), substituted “Inspection or disclosure” for “Disclosure” in headings and “inspects or discloses” for “discloses” in text.
 
-Subsec. (b). Pub. L. 105–35, § 3(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+Subsec. (b). Pub. L. 105–35, § 3(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
 “(b) No Liability for Good Faith but Erroneous Interpretation.—No liability shall arise under this section with respect to any disclosure which results from a good faith, but erroneous, interpretation of section 6103.”
 
-Subsec. (c)(1). Pub. L. 105–35, § 3(d)(1), (2), inserted “inspection or” before “disclosure” in subpars. (A) and (B)(i) and substituted “willful inspection or disclosure or an inspection or disclosure” for “willful disclosure or a disclosure” in subpar. (B)(ii).
+Subsec. (c)(1). Pub. L. 105–35, § 3(d)(1), (2), inserted “inspection or” before “disclosure” in subpars. (A) and (B)(i) and substituted “willful inspection or disclosure or an inspection or disclosure” for “willful disclosure or a disclosure” in subpar. (B)(ii).
 
-Subsec. (d). Pub. L. 105–35, § 3(d)(1), inserted “inspection or” before “disclosure”.
+Subsec. (d). Pub. L. 105–35, § 3(d)(1), inserted “inspection or” before “disclosure”.
 
-Subsec. (e). Pub. L. 105–35, § 3(b), added subsec. (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 105–35, § 3(b), added subsec. (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 105–35, § 3(b), (d)(3), redesignated subsec. (e) as (f) and amended it generally. Prior to amendment, subsec. (f) read as follows:
+Subsec. (f). Pub. L. 105–35, § 3(b), (d)(3), redesignated subsec. (e) as (f) and amended it generally. Prior to amendment, subsec. (f) read as follows:
 
 “(f) Return; Return Information.—For purposes of this section, the terms ‘return’ and ‘return information’ have the respective meanings given such terms in section 6103(b).”
 
-Subsec. (g). Pub. L. 105–35, § 3(b), (d)(6), redesignated subsec. (f) as (g) and substituted “any inspection or use” for “any use” in par. (2).
+Subsec. (g). Pub. L. 105–35, § 3(b), (d)(6), redesignated subsec. (f) as (g) and substituted “any inspection or use” for “any use” in par. (2).
 
-Pub. L. 105–34, § 1205(c)(2), added subsec. (g) relating to special rule for information obtained under section 6103(k)(8).
+Pub. L. 105–34, § 1205(c)(2), added subsec. (g) relating to special rule for information obtained under section 6103(k)(8).
 
 1983—Subsec. (f). Pub. L. 98–67 added subsec. (f).
 
@@ -1711,7 +1711,7 @@ Pub. L. 105–34, § 1205(c)(2), added subsec. (g) relating to special rule fo
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–25, title III, § 3002(b), July 1, 2019, 133 Stat. 1015, provided that: “The amendment made by this section [amending this section] shall apply to determinations proposed after the date which is 180 days after the date of the enactment of this Act [July 1, 2019].”
+Pub. L. 116–25, title III, § 3002(b), July 1, 2019, 133 Stat. 1015, provided that: “The amendment made by this section [amending this section] shall apply to determinations proposed after the date which is 180 days after the date of the enactment of this Act [July 1, 2019].”
 
 **Effective Date of 2006 Amendment**
 
@@ -1725,7 +1725,7 @@ Amendment by section 6012(b)(3) of Pub. L. 105–206 effective, except as otherw
 
 **Effective Date of 1997 Amendments**
 
-Pub. L. 105–35, § 3(e), Aug. 5, 1997, 111 Stat. 1106, provided that: “The amendments made by this section [amending this section] shall apply to inspections and disclosures occurring on and after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–35, § 3(e), Aug. 5, 1997, 111 Stat. 1106, provided that: “The amendments made by this section [amending this section] shall apply to inspections and disclosures occurring on and after the date of the enactment of this Act [Aug. 5, 1997].”
 
 Amendment by Pub. L. 105–34 effective on the day 9 months after Aug. 5, 1997, see section 1205(d) of Pub. L. 105–34, set out as a note under section 6103 of this title.
 
@@ -1735,9 +1735,9 @@ Amendment by Pub. L. 98–67 effective Aug. 5, 1983, see section 110(c) of Pub. 
 
 **Effective Date**
 
-Pub. L. 97–248, title III, § 357(c), Sept. 3, 1982, 96 Stat. 646, provided that: “The amendments made by this section [enacting this section and repealing section 7217 of this title] shall apply with respect to disclosures made after the date of enactment of this Act [Sept. 3, 1982].”
+Pub. L. 97–248, title III, § 357(c), Sept. 3, 1982, 96 Stat. 646, provided that: “The amendments made by this section [enacting this section and repealing section 7217 of this title] shall apply with respect to disclosures made after the date of enactment of this Act [Sept. 3, 1982].”
 
-### § 7432. Civil damages for failure to release lien
+### § 7432. Civil damages for failure to release lien
 
 **(a) In general**
 
@@ -1771,7 +1771,7 @@ Notwithstanding any other provision of law, an action to enforce liability creat
 
 The Secretary shall by regulation prescribe reasonable procedures for a taxpayer to notify the Secretary of the failure to release a lien under section 6325 on property of the taxpayer.
 
-(Added Pub. L. 100–647, title VI, § 6240(a), Nov. 10, 1988, 102 Stat. 3746.)
+(Added Pub. L. 100–647, title VI, § 6240(a), Nov. 10, 1988, 102 Stat. 3746.)
 
 **Editorial Notes**
 
@@ -1783,9 +1783,9 @@ A prior section 7432 was renumbered 7437 of this title.
 
 **Effective Date**
 
-Pub. L. 100–647, title VI, § 6240(c), Nov. 10, 1988, 102 Stat. 3747, provided that: “The amendments made by this section [enacting this section] shall apply to notices provided by the taxpayer of the failure to release a lien, and damages arising, after December 31, 1988.”
+Pub. L. 100–647, title VI, § 6240(c), Nov. 10, 1988, 102 Stat. 3747, provided that: “The amendments made by this section [enacting this section] shall apply to notices provided by the taxpayer of the failure to release a lien, and damages arising, after December 31, 1988.”
 
-### § 7433. Civil damages for certain unauthorized collection actions
+### § 7433. Civil damages for certain unauthorized collection actions
 
 **(a) In general**
 
@@ -1833,7 +1833,7 @@ Except as provided in subparagraph (B), notwithstanding section 105 of such titl
 
 **(ii)** administrative costs may be awarded only if incurred on or after the date that the bankruptcy petition is filed.
 
-(Added Pub. L. 100–647, title VI, § 6241(a), Nov. 10, 1988, 102 Stat. 3747; amended Pub. L. 104–168, title VIII, §§ 801(a), 802(a), July 30, 1996, 110 Stat. 1465; Pub. L. 105–206, title III, § 3102(a), (c), July 22, 1998, 112 Stat. 730.)
+(Added Pub. L. 100–647, title VI, § 6241(a), Nov. 10, 1988, 102 Stat. 3747; amended Pub. L. 104–168, title VIII, §§ 801(a), 802(a), July 30, 1996, 110 Stat. 1465; Pub. L. 105–206, title III, § 3102(a), (c), July 22, 1998, 112 Stat. 730.)
 
 **Editorial Notes**
 
@@ -1843,19 +1843,19 @@ A prior section 7433 was renumbered 7437 of this title.
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–206, § 3102(a)(1)(A), inserted “, or by reason of negligence,” after “recklessly or intentionally”.
+1998—Subsec. (a). Pub. L. 105–206, § 3102(a)(1)(A), inserted “, or by reason of negligence,” after “recklessly or intentionally”.
 
-Subsec. (b). Pub. L. 105–206, § 3102(a)(1)(B)(i), (c)(2), in introductory provisions, inserted “or petition filed under subsection (e)” after “subsection (a)” and inserted “($100,000, in the case of negligence)” after “$1,000,000”.
+Subsec. (b). Pub. L. 105–206, § 3102(a)(1)(B)(i), (c)(2), in introductory provisions, inserted “or petition filed under subsection (e)” after “subsection (a)” and inserted “($100,000, in the case of negligence)” after “$1,000,000”.
 
-Subsec. (b)(1). Pub. L. 105–206, § 3102(a)(1)(B)(ii), inserted “or negligent” after “reckless or intentional”.
+Subsec. (b)(1). Pub. L. 105–206, § 3102(a)(1)(B)(ii), inserted “or negligent” after “reckless or intentional”.
 
-Subsec. (d)(1). Pub. L. 105–206, § 3102(a)(2), substituted “Requirement that administrative remedies be exhausted” for “Award for damages may be reduced if administrative remedies not exhausted” in heading and amended text of par. (1) generally. Prior to amendment, text read as follows: “The amount of damages awarded under subsection (b) may be reduced if the court determines that the plaintiff has not exhausted the administrative remedies available to such plaintiff within the Internal Revenue Service.”
+Subsec. (d)(1). Pub. L. 105–206, § 3102(a)(2), substituted “Requirement that administrative remedies be exhausted” for “Award for damages may be reduced if administrative remedies not exhausted” in heading and amended text of par. (1) generally. Prior to amendment, text read as follows: “The amount of damages awarded under subsection (b) may be reduced if the court determines that the plaintiff has not exhausted the administrative remedies available to such plaintiff within the Internal Revenue Service.”
 
-Subsec. (e). Pub. L. 105–206, § 3102(c)(1), added subsec. (e).
+Subsec. (e). Pub. L. 105–206, § 3102(c)(1), added subsec. (e).
 
-1996—Subsec. (b). Pub. L. 104–168, § 801(a), substituted “$1,000,000” for “$100,000”.
+1996—Subsec. (b). Pub. L. 104–168, § 801(a), substituted “$1,000,000” for “$100,000”.
 
-Subsec. (d)(1). Pub. L. 104–168, § 802(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows:
+Subsec. (d)(1). Pub. L. 104–168, § 802(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows:
 
 “(1) Requirement that administrative remedies be exhausted.—A judgment for damages shall not be awarded under subsection (b) unless the court determines that the plaintiff has exhausted the administrative remedies available to such plaintiff within the Internal Revenue Service.”
 
@@ -1867,11 +1867,11 @@ Amendment by Pub. L. 105–206 applicable to actions of officers or employees of
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–168, title VIII, § 801(b), July 30, 1996, 110 Stat. 1465, provided that: “The amendment made by subsection (a) [amending this section] shall apply to actions by officers or employees of the Internal Revenue Service after the date of the enactment of this Act [July 30, 1996].”
+Pub. L. 104–168, title VIII, § 801(b), July 30, 1996, 110 Stat. 1465, provided that: “The amendment made by subsection (a) [amending this section] shall apply to actions by officers or employees of the Internal Revenue Service after the date of the enactment of this Act [July 30, 1996].”
 
-Pub. L. 104–168, title VIII, § 802(b), July 30, 1996, 110 Stat. 1465, provided that: “The amendment made by this section [amending this section] shall apply in the case of proceedings commenced after the date of the enactment of this Act [July 30, 1996].”
+Pub. L. 104–168, title VIII, § 802(b), July 30, 1996, 110 Stat. 1465, provided that: “The amendment made by this section [amending this section] shall apply in the case of proceedings commenced after the date of the enactment of this Act [July 30, 1996].”
 
-### § 7433A. Civil damages for certain unauthorized collection actions by persons performing services under qualified tax collection contracts
+### § 7433A. Civil damages for certain unauthorized collection actions by persons performing services under qualified tax collection contracts
 
 **(a) In general**
 
@@ -1887,9 +1887,9 @@ Subject to the modifications provided by subsection (b), section 7433 shall appl
 
 **(4)** Subsections (c), (d)(1), and (e) of section 7433 shall not apply.
 
-(Added Pub. L. 108–357, title VIII, § 881(b)(1), Oct. 22, 2004, 118 Stat. 1626.)
+(Added Pub. L. 108–357, title VIII, § 881(b)(1), Oct. 22, 2004, 118 Stat. 1626.)
 
-### § 7434. Civil damages for fraudulent filing of information returns
+### § 7434. Civil damages for fraudulent filing of information returns
 
 **(a) In general**
 
@@ -1921,7 +1921,7 @@ The decision of the court awarding damages in an action brought under subsection
 
 For purposes of this section, the term “information return” means any statement described in section 6724(d)(1)(A).
 
-(Added Pub. L. 104–168, title VI, § 601(a), July 30, 1996, 110 Stat. 1462; amended Pub. L. 105–206, title VI, § 6023(29), July 22, 1998, 112 Stat. 826.)
+(Added Pub. L. 104–168, title VI, § 601(a), July 30, 1996, 110 Stat. 1462; amended Pub. L. 105–206, title VI, § 6023(29), July 22, 1998, 112 Stat. 826.)
 
 **Editorial Notes**
 
@@ -1937,9 +1937,9 @@ A prior section 7434 was renumbered 7437 of this title.
 
 **Effective Date**
 
-Pub. L. 104–168, title VI, § 601(c), July 30, 1996, 110 Stat. 1462, provided that: “The amendments made by this section [enacting this section and renumbering former section 7434 as 7435 of this title] shall apply to fraudulent information returns filed after the date of the enactment of this Act [July 30, 1996].”
+Pub. L. 104–168, title VI, § 601(c), July 30, 1996, 110 Stat. 1462, provided that: “The amendments made by this section [enacting this section and renumbering former section 7434 as 7435 of this title] shall apply to fraudulent information returns filed after the date of the enactment of this Act [July 30, 1996].”
 
-### § 7435. Civil damages for unauthorized enticement of information disclosure
+### § 7435. Civil damages for unauthorized enticement of information disclosure
 
 **(a) In general**
 
@@ -1969,7 +1969,7 @@ Upon a certification by the Commissioner or the Commissioner’s delegate that t
 
 Subsection (a) shall not apply to information conveyed to an attorney, certified public accountant, or enrolled agent for the purpose of perpetrating a fraud or crime.
 
-(Added Pub. L. 104–168, title XII, § 1203(a), July 30, 1996, 110 Stat. 1470.)
+(Added Pub. L. 104–168, title XII, § 1203(a), July 30, 1996, 110 Stat. 1470.)
 
 **Editorial Notes**
 
@@ -1981,9 +1981,9 @@ A prior section 7435 was renumbered 7437 of this title.
 
 **Effective Date**
 
-Pub. L. 104–168, title XII, § 1203(c), July 30, 1996, 110 Stat. 1471, provided that: “The amendments made by this section [enacting this section and renumbering former section 7435 as 7436 of this title] shall apply to actions after the date of the enactment of this Act [July 30, 1996].”
+Pub. L. 104–168, title XII, § 1203(c), July 30, 1996, 110 Stat. 1471, provided that: “The amendments made by this section [enacting this section and renumbering former section 7435 as 7436 of this title] shall apply to actions after the date of the enactment of this Act [July 30, 1996].”
 
-### § 7436. Proceedings for determination of employment status
+### § 7436. Proceedings for determination of employment status
 
 **(a) Creation of remedy** If, in connection with an audit of any person, there is an actual controversy involving a determination by the Secretary as part of an examination that—
 
@@ -2035,7 +2035,7 @@ Section 7430 shall apply to proceedings brought under this section.
 
 The term “employment tax” means any tax imposed by subtitle C.
 
-(Added Pub. L. 105–34, title XIV, § 1454(a), Aug. 5, 1997, 111 Stat. 1055; amended Pub. L. 105–206, title III, § 3103(b)(1), July 22, 1998, 112 Stat. 731; Pub. L. 106–554, § 1(a)(7) [title III, § 314(f)], Dec. 21, 2000, 114 Stat. 2763, 2763A–643.)
+(Added Pub. L. 105–34, title XIV, § 1454(a), Aug. 5, 1997, 111 Stat. 1055; amended Pub. L. 105–206, title III, § 3103(b)(1), July 22, 1998, 112 Stat. 731; Pub. L. 106–554, § 1(a)(7) [title III, § 314(f)], Dec. 21, 2000, 114 Stat. 2763, 2763A–643.)
 
 **Editorial Notes**
 
@@ -2057,13 +2057,13 @@ A prior section 7436 was renumbered section 7437 of this title.
 
 **Effective Date of 2000 Amendment**
 
-Amendment by Pub. L. 106–554 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 1(a)(7) [title III, § 314(g)] of Pub. L. 106–554, set out as a note under section 56 of this title.
+Amendment by Pub. L. 106–554 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 1(a)(7) [title III, § 314(g)] of Pub. L. 106–554, set out as a note under section 56 of this title.
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–206, title III, § 3103(c), July 22, 1998, 112 Stat. 731, provided that: “The amendments made by this section [amending this section and sections 7443A and 7463 of this title] shall apply to proceedings commenced after the date of the enactment of this Act [July 22, 1998].”
+Pub. L. 105–206, title III, § 3103(c), July 22, 1998, 112 Stat. 731, provided that: “The amendments made by this section [amending this section and sections 7443A and 7463 of this title] shall apply to proceedings commenced after the date of the enactment of this Act [July 22, 1998].”
 
-### § 7437. Cross references
+### § 7437. Cross references
 
 **(1)** For determination of amount of any tax, additions to tax, etc., in title 11 cases, see section 505 of title 11 of the United States Code.
 
@@ -2083,7 +2083,7 @@ Pub. L. 105–206, title III, § 3103(c), July 22, 1998, 112 Stat. 731, provid
 
 **(9)** For statute prohibiting suits to replevy property taken under revenue laws, see section 2463 of Title 28 of the United States Code.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 878, § 7425; renumbered § 7427, Pub. L. 89–719, title I, § 109, Nov. 2, 1966, 80 Stat. 1141; renumbered § 7428, and amended Pub. L. 94–455, title XII, § 1203(b)(2)(A), title XIX, § 1906(a)(45), Oct. 4, 1976, 90 Stat. 1690, 1830; renumbered § 7430, Pub. L. 94–455, title XIII, § 1306(a), Oct. 4, 1976, 90 Stat. 1717; Pub. L. 96–589, § 6(d)(1), (i)(13), Dec. 24, 1980, 94 Stat. 3408, 3411; renumbered § 7431, Pub. L. 97–248, title II, § 292(a), Sept. 3, 1982, 96 Stat. 572; renumbered § 7432, Pub. L. 97–248, title III, § 357(a), Sept. 3, 1982, 96 Stat. 645; Pub. L. 97–258, § 3(f)(14), Sept. 13, 1982, 96 Stat. 1065; renumbered § 7434, Pub. L. 100–647, title VI, §§ 6240(a), 6241(a), Nov. 10, 1988, 102 Stat. 3746, 3747; renumbered § 7435, Pub. L. 104–168, title VI, § 601(a), July 30, 1996, 110 Stat. 1462; renumbered § 7436, Pub. L. 104–168, title XII, § 1203(a), July 30, 1996, 110 Stat. 1470; renumbered § 7437, Pub. L. 105–34, title XIV, § 1454(a), Aug. 5, 1997, 111 Stat. 1055.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 878, § 7425; renumbered § 7427, Pub. L. 89–719, title I, § 109, Nov. 2, 1966, 80 Stat. 1141; renumbered § 7428, and amended Pub. L. 94–455, title XII, § 1203(b)(2)(A), title XIX, § 1906(a)(45), Oct. 4, 1976, 90 Stat. 1690, 1830; renumbered § 7430, Pub. L. 94–455, title XIII, § 1306(a), Oct. 4, 1976, 90 Stat. 1717; Pub. L. 96–589, § 6(d)(1), (i)(13), Dec. 24, 1980, 94 Stat. 3408, 3411; renumbered § 7431, Pub. L. 97–248, title II, § 292(a), Sept. 3, 1982, 96 Stat. 572; renumbered § 7432, Pub. L. 97–248, title III, § 357(a), Sept. 3, 1982, 96 Stat. 645; Pub. L. 97–258, § 3(f)(14), Sept. 13, 1982, 96 Stat. 1065; renumbered § 7434, Pub. L. 100–647, title VI, §§ 6240(a), 6241(a), Nov. 10, 1988, 102 Stat. 3746, 3747; renumbered § 7435, Pub. L. 104–168, title VI, § 601(a), July 30, 1996, 110 Stat. 1462; renumbered § 7436, Pub. L. 104–168, title XII, § 1203(a), July 30, 1996, 110 Stat. 1470; renumbered § 7437, Pub. L. 105–34, title XIV, § 1454(a), Aug. 5, 1997, 111 Stat. 1055.)
 
 **Editorial Notes**
 
@@ -2091,21 +2091,21 @@ Pub. L. 105–206, title III, § 3103(c), July 22, 1998, 112 Stat. 731, provid
 
 1982—Par. (6). Pub. L. 97–258 substituted “section 3713(a) of title 31, United States Code” for “R.S. 3466 (31 U.S.C. 191)”. Notwithstanding the directory language that amendment be made to section 7430, the amendment was executed to this section to reflect the probable intent of Congress and the intervening renumbering of section 7430 as 7432 by Pub. L. 97–248.
 
-1980—Par. (1). Pub. L. 96–589, § 6(d)(1), added par. (1). Former par. (1), which provided cross reference to former section 35 of title 11 for exclusion of tax liability from discharge in bankruptcy, was struck out.
+1980—Par. (1). Pub. L. 96–589, § 6(d)(1), added par. (1). Former par. (1), which provided cross reference to former section 35 of title 11 for exclusion of tax liability from discharge in bankruptcy, was struck out.
 
-Par. (2). Pub. L. 96–589, § 6(d)(1), (i)(13), added par. (2). Former par. (2), which provided cross reference to former section 93 of title 11 for limit on amount allowed in bankruptcy proceedings on debts owing to the United States, was struck out.
+Par. (2). Pub. L. 96–589, § 6(d)(1), (i)(13), added par. (2). Former par. (2), which provided cross reference to former section 93 of title 11 for limit on amount allowed in bankruptcy proceedings on debts owing to the United States, was struck out.
 
-Par. (3). Pub. L. 96–589, § 6(d)(1), (i)(13), added par. (3). Former par. (3), which provided cross reference to former section 107 of title 11 for recognition of tax liens in proceedings under the Bankruptcy Act, was struck out.
+Par. (3). Pub. L. 96–589, § 6(d)(1), (i)(13), added par. (3). Former par. (3), which provided cross reference to former section 107 of title 11 for recognition of tax liens in proceedings under the Bankruptcy Act, was struck out.
 
-Par. (4). Pub. L. 96–589, § 6(d)(1), (i)(13), added par. (4). Former par. (4), which provided for cross reference to former section 1080 of title 11 for collection of taxes in connection with wage earners’ plans in bankruptcy courts, was struck out.
+Par. (4). Pub. L. 96–589, § 6(d)(1), (i)(13), added par. (4). Former par. (4), which provided for cross reference to former section 1080 of title 11 for collection of taxes in connection with wage earners’ plans in bankruptcy courts, was struck out.
 
-1976—Par. (1). Pub. L. 94–455, § 1906(a)(45)(A), struck out “52 Stat. 851;” before “11 U.S.C. 35”.
+1976—Par. (1). Pub. L. 94–455, § 1906(a)(45)(A), struck out “52 Stat. 851;” before “11 U.S.C. 35”.
 
-Par. (2). Pub. L. 94–455, § 1906(a)(45)(B), struck out “52 Stat. 867;” before “11 U.S.C. 93”.
+Par. (2). Pub. L. 94–455, § 1906(a)(45)(B), struck out “52 Stat. 867;” before “11 U.S.C. 93”.
 
-Par. (3). Pub. L. 94–455, § 1906(a)(45)(C), struck out “52 Stat. 876–877;” before “11 U.S.C. 107”.
+Par. (3). Pub. L. 94–455, § 1906(a)(45)(C), struck out “52 Stat. 876–877;” before “11 U.S.C. 107”.
 
-Par. (4). Pub. L. 94–455, § 1906(a)(45)(D), struck out “52 Stat. 938;” before “11 U.S.C. 1080”.
+Par. (4). Pub. L. 94–455, § 1906(a)(45)(D), struck out “52 Stat. 938;” before “11 U.S.C. 1080”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2119,9 +2119,9 @@ Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proc
 
 **Amendments**
 
-1976—Pub. L. 94–455, title X, § 1042(d)(2)(F), Oct. 4, 1976, 90 Stat. 1639, struck out in item relating to part IV “relating to qualification of certain retirement plans” after “Declaratory judgments”.
+1976—Pub. L. 94–455, title X, § 1042(d)(2)(F), Oct. 4, 1976, 90 Stat. 1639, struck out in item relating to part IV “relating to qualification of certain retirement plans” after “Declaratory judgments”.
 
-1974—Pub. L. 93–406, title II, § 1041(c), Sept. 2, 1974, 88 Stat. 951, inserted item relating to part IV.
+1974—Pub. L. 93–406, title II, § 1041(c), Sept. 2, 1974, 88 Stat. 951, inserted item relating to part IV.
 
 ### PART I—ORGANIZATION AND JURISDICTION
 
@@ -2129,27 +2129,27 @@ Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proc
 
 **Amendments**
 
-2022—Pub. L. 117–328, div. T, title VII, § 702(c), Dec. 29, 2022, 136 Stat. 5404, added item 7447A.
+2022—Pub. L. 117–328, div. T, title VII, § 702(c), Dec. 29, 2022, 136 Stat. 5404, added item 7447A.
 
-2018—Pub. L. 115–141, div. U, title IV, § 401(a)(326), Mar. 23, 2018, 132 Stat. 1200, substituted “Annuities to surviving spouses and dependent children of judges and special trial judges” for “Annuities of surviving spouses and dependent children” in item 7448.
+2018—Pub. L. 115–141, div. U, title IV, § 401(a)(326), Mar. 23, 2018, 132 Stat. 1200, substituted “Annuities to surviving spouses and dependent children of judges and special trial judges” for “Annuities of surviving spouses and dependent children” in item 7448.
 
 2008—Pub. L. 110–458 repealed amendment made by section 856 of Pub. L. 109–280. See 2006 Amendment note below.
 
-2006—Pub. L. 109–280, title VIII, § 856(b), Aug. 17, 2006, 120 Stat. 1019, added item 7443B. Pub. L. 110–458, title I, § 108(*l*), Dec. 23, 2008, 122 Stat. 5110, repealed Pub. L. 109–280, § 856, and provided that the Internal Revenue Code of 1986 shall be applied and administered as if such section had not been enacted.
+2006—Pub. L. 109–280, title VIII, § 856(b), Aug. 17, 2006, 120 Stat. 1019, added item 7443B. Pub. L. 110–458, title I, § 108(*l*), Dec. 23, 2008, 122 Stat. 5110, repealed Pub. L. 109–280, § 856, and provided that the Internal Revenue Code of 1986 shall be applied and administered as if such section had not been enacted.
 
-Pub. L. 109–280, title VIII, § 854(c)(2), Aug. 17, 2006, 120 Stat. 1018, which directed amendment of item 7448 by inserting “and special trial judges” after “judges”, could not be executed because “judges” did not appear subsequent to amendment by Pub. L. 94–455. See 1976 Amendment note below.
+Pub. L. 109–280, title VIII, § 854(c)(2), Aug. 17, 2006, 120 Stat. 1018, which directed amendment of item 7448 by inserting “and special trial judges” after “judges”, could not be executed because “judges” did not appear subsequent to amendment by Pub. L. 94–455. See 1976 Amendment note below.
 
-1986—Pub. L. 99–514, title XV, § 1556(b)(3), Oct. 22, 1986, 100 Stat. 2755, added item 7443A.
+1986—Pub. L. 99–514, title XV, § 1556(b)(3), Oct. 22, 1986, 100 Stat. 2755, added item 7443A.
 
-1976—Pub. L. 94–455, title XIX, § 1906(b)(10), Oct. 4, 1976, 90 Stat. 1834, substituted “Annuities of surviving spouses and dependent children” for “Annuities to widows and dependent children of judges” in item 7448.
+1976—Pub. L. 94–455, title XIX, § 1906(b)(10), Oct. 4, 1976, 90 Stat. 1834, substituted “Annuities of surviving spouses and dependent children” for “Annuities to widows and dependent children of judges” in item 7448.
 
-1961—Pub. L. 87–370, § 2, Oct. 4, 1961, 75 Stat. 801, added item 7448.
+1961—Pub. L. 87–370, § 2, Oct. 4, 1961, 75 Stat. 801, added item 7448.
 
-#### § 7441. Status
+#### § 7441. Status
 
 There is hereby established, under article I of the Constitution of the United States, a court of record to be known as the United States Tax Court. The members of the Tax Court shall be the chief judge and the judges of the Tax Court. The Tax Court is not an agency of, and shall be independent of, the executive branch of the Government.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 879; Pub. L. 91–172, title IX, § 951, Dec. 30, 1969, 83 Stat. 730; Pub. L. 114–113, div. Q, title IV, § 441, Dec. 18, 2015, 129 Stat. 3126.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 879; Pub. L. 91–172, title IX, § 951, Dec. 30, 1969, 83 Stat. 730; Pub. L. 114–113, div. Q, title IV, § 441, Dec. 18, 2015, 129 Stat. 3126.)
 
 **Editorial Notes**
 
@@ -2163,17 +2163,17 @@ There is hereby established, under article I of the Constitution of the United S
 
 **Effective Date of 1969 Amendment**
 
-Pub. L. 91–172, title IX, § 962(a), Dec. 30, 1969, 83 Stat. 736, provided that: “The amendments made by sections 951, 953, 954(c) and (e), 955, 956, 958, and 960(c), (d), (e), (g), and (j) [amending this section and sections 7443, 7447, 7448, 7456, 7471, and 7701 of this title] shall take effect on the date of enactment of this Act [Dec. 30, 1969].”
+Pub. L. 91–172, title IX, § 962(a), Dec. 30, 1969, 83 Stat. 736, provided that: “The amendments made by sections 951, 953, 954(c) and (e), 955, 956, 958, and 960(c), (d), (e), (g), and (j) [amending this section and sections 7443, 7447, 7448, 7456, 7471, and 7701 of this title] shall take effect on the date of enactment of this Act [Dec. 30, 1969].”
 
 **Report on Inventory of Cases in Tax Court**
 
-Pub. L. 99–514, title XV, § 1552(c), Oct. 22, 1986, 100 Stat. 2753, provided that: “The Secretary of the Treasury or his delegate and the Tax Court shall each prepare a report for 1987 and for each 2-calendar year period thereafter on the inventory of cases in the Tax Court and the measures to close cases more efficiently. Such reports shall be submitted to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.”
+Pub. L. 99–514, title XV, § 1552(c), Oct. 22, 1986, 100 Stat. 2753, provided that: “The Secretary of the Treasury or his delegate and the Tax Court shall each prepare a report for 1987 and for each 2-calendar year period thereafter on the inventory of cases in the Tax Court and the measures to close cases more efficiently. Such reports shall be submitted to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.”
 
 **Continuation of Status**
 
-Pub. L. 91–172, title IX, § 961, Dec. 30, 1969, 83 Stat. 735, provided that: “The United States Tax Court established under the amendment made by section 951 [amending this section] is a continuation of the Tax Court of the United States as it existed prior to the date of enactment of this Act [Dec. 30, 1969], the judges of the Tax Court of the United States immediately prior to the date of enactment of this Act [Dec. 30, 1969] shall become the judges of the United States Tax Court upon the enactment of this Act, and no loss of rights or powers, interruption of jurisdiction, or prejudice to matters pending in the Tax Court of the United States before the date of enactment of this Act [Dec. 30, 1969] shall result from the enactment of this Act.”
+Pub. L. 91–172, title IX, § 961, Dec. 30, 1969, 83 Stat. 735, provided that: “The United States Tax Court established under the amendment made by section 951 [amending this section] is a continuation of the Tax Court of the United States as it existed prior to the date of enactment of this Act [Dec. 30, 1969], the judges of the Tax Court of the United States immediately prior to the date of enactment of this Act [Dec. 30, 1969] shall become the judges of the United States Tax Court upon the enactment of this Act, and no loss of rights or powers, interruption of jurisdiction, or prejudice to matters pending in the Tax Court of the United States before the date of enactment of this Act [Dec. 30, 1969] shall result from the enactment of this Act.”
 
-#### § 7442. Jurisdiction
+#### § 7442. Jurisdiction
 
 The Tax Court and its divisions shall have such jurisdiction as is conferred on them by this title, by chapters 1, 2, 3, and 4 of the Internal Revenue Code of 1939, by title II and title III of the Revenue Act of 1926 (44 Stat. 10–87), or by laws enacted subsequent to February 26, 1926.
 
@@ -2187,7 +2187,7 @@ Chapters 1, 2, 3, and 4 of the Internal Revenue Code of 1939, referred to in tex
 
 The Revenue Act of 1926, referred to in text, is act Feb. 26, 1926, ch. 27, 44 Stat. 9. For complete classification of this Act to the Code, see Tables.
 
-#### § 7443. Membership
+#### § 7443. Membership
 
 **(a) Number**
 
@@ -2219,23 +2219,23 @@ Judges of the Tax Court may be removed by the President, after notice and opport
 
 A judge of the Tax Court removed from office in accordance with subsection (f) shall not be permitted at any time to practice before the Tax Court.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 879; Mar. 2, 1955, ch. 9, § 1(h), 69 Stat. 10; Pub. L. 88–426, title IV, § 403(i), Aug. 14, 1964, 78 Stat. 434; Pub. L. 91–172, title IX, §§ 952, 953, Dec. 30, 1969, 83 Stat. 730; Pub. L. 96–417, title VI, § 601(10), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 96–439, § 1(a), (b), Oct. 13, 1980, 94 Stat. 1878.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 879; Mar. 2, 1955, ch. 9, § 1(h), 69 Stat. 10; Pub. L. 88–426, title IV, § 403(i), Aug. 14, 1964, 78 Stat. 434; Pub. L. 91–172, title IX, §§ 952, 953, Dec. 30, 1969, 83 Stat. 730; Pub. L. 96–417, title VI, § 601(10), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 96–439, § 1(a), (b), Oct. 13, 1980, 94 Stat. 1878.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1980—Subsec. (a). Pub. L. 96–439, § 1(a), increased number of judges from 16 to 19.
+1980—Subsec. (a). Pub. L. 96–439, § 1(a), increased number of judges from 16 to 19.
 
-Subsec. (b). Pub. L. 96–439, § 1(b), struck out age limitation that no one could be appointed a member of the Tax Court unless appointed before attaining age 65.
+Subsec. (b). Pub. L. 96–439, § 1(b), struck out age limitation that no one could be appointed a member of the Tax Court unless appointed before attaining age 65.
 
 Subsec. (d). Pub. L. 96–417 substituted “Court of International Trade” for “Customs Court”.
 
-1969—Subsec. (b). Pub. L. 91–172, § 952(a), provided that an individual may not be appointed a judge of the Tax Court after reaching age 65.
+1969—Subsec. (b). Pub. L. 91–172, § 952(a), provided that an individual may not be appointed a judge of the Tax Court after reaching age 65.
 
-Subsec. (c). Pub. L. 91–172, § 953, substituted provisions fixing salary of Tax Court judges at the same rate and same installments as District Court judges, for provisions that each judge of the Tax Court receive a salary of $30,000 per annum, to be paid in monthly installments.
+Subsec. (c). Pub. L. 91–172, § 953, substituted provisions fixing salary of Tax Court judges at the same rate and same installments as District Court judges, for provisions that each judge of the Tax Court receive a salary of $30,000 per annum, to be paid in monthly installments.
 
-Subsec. (e). Pub. L. 91–172, § 952(b), substituted provisions that a term in office of any Tax Court judge would expire 15 years after he takes office, for provisions that a term in office of any Tax Court judge would expire 12 years after the expiration of the term for which his predecessor was appointed, and any judge appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed would be appointed only for the unexpired term of his predecessor.
+Subsec. (e). Pub. L. 91–172, § 952(b), substituted provisions that a term in office of any Tax Court judge would expire 15 years after he takes office, for provisions that a term in office of any Tax Court judge would expire 12 years after the expiration of the term for which his predecessor was appointed, and any judge appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed would be appointed only for the unexpired term of his predecessor.
 
 1964—Subsec. (c). Pub. L. 88–426 increased salary of judges from $22,500 to $30,000.
 
@@ -2245,13 +2245,13 @@ Subsec. (e). Pub. L. 91–172, § 952(b), substituted provisions that a term i
 
 **Effective Date of 1980 Amendments**
 
-Pub. L. 96–439, § 1(c), Oct. 13, 1980, 94 Stat. 1878, provided that: “The amendments made by this section [amending this section] shall take effect on February 1, 1981.”
+Pub. L. 96–439, § 1(c), Oct. 13, 1980, 94 Stat. 1878, provided that: “The amendments made by this section [amending this section] shall take effect on February 1, 1981.”
 
 Amendment by Pub. L. 96–417 effective, except as otherwise provided, Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, as amended, set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure.
 
 **Effective Date of 1969 Amendment**
 
-Pub. L. 91–172, title IX, § 962(b), (c), Dec. 30, 1969, 83 Stat. 736, provided that:
+Pub. L. 91–172, title IX, § 962(b), (c), Dec. 30, 1969, 83 Stat. 736, provided that:
 
 > **“(b)** The amendment made by section 952(a) [amending this section] shall apply to judges appointed after the date of enactment of this Act [Dec. 30, 1969].
 
@@ -2291,15 +2291,15 @@ Pub. L. 108–7, div. J, title IV, Feb. 20, 2003, 117 Stat. 460.
 
 Pub. L. 107–67, title IV, Nov. 12, 2001, 115 Stat. 543.
 
-Pub. L. 106–554, § 1(a)(3) [title IV], Dec. 21, 2000, 114 Stat. 2763, 2763A–150.
+Pub. L. 106–554, § 1(a)(3) [title IV], Dec. 21, 2000, 114 Stat. 2763, 2763A–150.
 
 Pub. L. 106–58, title IV, Sept. 29, 1999, 113 Stat. 463.
 
-Pub. L. 105–277, div. A, § 101(h) [title IV], Oct. 21, 1998, 112 Stat. 2681–480, 2681–510.
+Pub. L. 105–277, div. A, § 101(h) [title IV], Oct. 21, 1998, 112 Stat. 2681–480, 2681–510.
 
 Pub. L. 105–61, title IV, Oct. 10, 1997, 111 Stat. 1304.
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title IV], Sept. 30, 1996, 110 Stat. 3009–314, 3009–344.
+Pub. L. 104–208, div. A, title I, § 101(f) [title IV], Sept. 30, 1996, 110 Stat. 3009–314, 3009–344.
 
 Pub. L. 104–52, title IV, Nov. 19, 1995, 109 Stat. 491.
 
@@ -2317,21 +2317,21 @@ Pub. L. 101–136, title IV, Nov. 3, 1989, 103 Stat. 811.
 
 Pub. L. 100–440, title IV, Sept. 22, 1988, 102 Stat. 1746.
 
-Pub. L. 100–202, § 101(m) [title IV], Dec. 22, 1987, 101 Stat. 1329–390, 1329–414.
+Pub. L. 100–202, § 101(m) [title IV], Dec. 22, 1987, 101 Stat. 1329–390, 1329–414.
 
-Pub. L. 99–500, § 101(m) [title IV], Oct. 18, 1986, 100 Stat. 1783–308, 1783–323, and Pub. L. 99–591, § 101(m) [title IV], Oct. 30, 1986, 100 Stat. 3341–308, 3341–323.
+Pub. L. 99–500, § 101(m) [title IV], Oct. 18, 1986, 100 Stat. 1783–308, 1783–323, and Pub. L. 99–591, § 101(m) [title IV], Oct. 30, 1986, 100 Stat. 3341–308, 3341–323.
 
-Pub. L. 99–190, title I, § 101(h) [H.R. 3036, title IV], Dec. 19, 1985, 99 Stat. 1291.
+Pub. L. 99–190, title I, § 101(h) [H.R. 3036, title IV], Dec. 19, 1985, 99 Stat. 1291.
 
-Pub. L. 98–473, title I, § 101(j) [H.R. 5798, title IV], Oct. 12, 1984, 98 Stat. 1963.
+Pub. L. 98–473, title I, § 101(j) [H.R. 5798, title IV], Oct. 12, 1984, 98 Stat. 1963.
 
-Pub. L. 98–151, § 101(f) [H.R. 4139, title IV], Nov. 14, 1983, 97 Stat. 973.
+Pub. L. 98–151, § 101(f) [H.R. 4139, title IV], Nov. 14, 1983, 97 Stat. 973.
 
-Pub. L. 97–377, title I, § 101(a) [incorporating H.R. 4121, title IV, for FY 1982], Dec. 21, 1982, 96 Stat. 1830.
+Pub. L. 97–377, title I, § 101(a) [incorporating H.R. 4121, title IV, for FY 1982], Dec. 21, 1982, 96 Stat. 1830.
 
-Pub. L. 97–92, § 101(a) [H.R. 4121, title IV], Dec. 15, 1981, 95 Stat. 1183.
+Pub. L. 97–92, § 101(a) [H.R. 4121, title IV], Dec. 15, 1981, 95 Stat. 1183.
 
-Pub. L. 96–536, § 101(a) [incorporating Pub. L. 96–74, title IV], Dec. 16, 1980, 94 Stat. 3166.
+Pub. L. 96–536, § 101(a) [incorporating Pub. L. 96–74, title IV], Dec. 16, 1980, 94 Stat. 3166.
 
 Pub. L. 96–74, title IV, Sept. 29, 1979, 93 Stat. 572.
 
@@ -2389,7 +2389,7 @@ June 1, 1955, ch. 113, title III, 69 Stat. 78.
 
 Ex. Ord. No. 12064, June 5, 1978, 43 F.R. 24661, which established the United States Tax Court Nominating Commission and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12305, May 5, 1981, 46 F.R. 25421, formerly set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
 
-#### § 7443A. Special trial judges
+#### § 7443A. Special trial judges
 
 **(a) Appointment**
 
@@ -2427,29 +2427,29 @@ The court may authorize a special trial judge to make the decision of the court 
 
 Subsection (d) of section 7443 shall apply to special trial judges subject to such rules and regulations as may be promulgated by the Tax Court.
 
-(Added Pub. L. 99–514, title XV, § 1556(a), Oct. 22, 1986, 100 Stat. 2754; amended Pub. L. 105–206, title III, §§ 3103(b)(1), 3401(c), July 22, 1998, 112 Stat. 731, 749; Pub. L. 105–277, div. J, title IV, § 4002(e), Oct. 21, 1998, 112 Stat. 2681–907; Pub. L. 109–280, title VIII, § 857(a), (b), Aug. 17, 2006, 120 Stat. 1020; Pub. L. 109–432, div. A, title IV, § 406(a)(2), Dec. 20, 2006, 120 Stat. 2959.)
+(Added Pub. L. 99–514, title XV, § 1556(a), Oct. 22, 1986, 100 Stat. 2754; amended Pub. L. 105–206, title III, §§ 3103(b)(1), 3401(c), July 22, 1998, 112 Stat. 731, 749; Pub. L. 105–277, div. J, title IV, § 4002(e), Oct. 21, 1998, 112 Stat. 2681–907; Pub. L. 109–280, title VIII, § 857(a), (b), Aug. 17, 2006, 120 Stat. 1020; Pub. L. 109–432, div. A, title IV, § 406(a)(2), Dec. 20, 2006, 120 Stat. 2959.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Subsec. (b)(5). Pub. L. 109–280, § 857(a), added par. (5). Former par. (5) redesignated (6).
+2006—Subsec. (b)(5). Pub. L. 109–280, § 857(a), added par. (5). Former par. (5) redesignated (6).
 
-Subsec. (b)(6). Pub. L. 109–432, § 406(a)(2)(A), added par. (6). Former par. (6) redesignated (7).
+Subsec. (b)(6). Pub. L. 109–432, § 406(a)(2)(A), added par. (6). Former par. (6) redesignated (7).
 
-Pub. L. 109–280, § 857(a), redesignated par. (5) as (6).
+Pub. L. 109–280, § 857(a), redesignated par. (5) as (6).
 
-Subsec. (b)(7). Pub. L. 109–432, § 406(a)(2)(A), redesignated par. (6) as (7).
+Subsec. (b)(7). Pub. L. 109–432, § 406(a)(2)(A), redesignated par. (6) as (7).
 
-Subsec. (c). Pub. L. 109–432, § 406(a)(2)(B), substituted “(5), or (6)” for “or (5)”.
+Subsec. (c). Pub. L. 109–432, § 406(a)(2)(B), substituted “(5), or (6)” for “or (5)”.
 
-Pub. L. 109–280, § 857(b), substituted “(4), or (5)” for “or (4)”.
+Pub. L. 109–280, § 857(b), substituted “(4), or (5)” for “or (4)”.
 
-1998—Subsec. (b)(3). Pub. L. 105–206, § 3103(b)(1), substituted “$50,000” for “$10,000”.
+1998—Subsec. (b)(3). Pub. L. 105–206, § 3103(b)(1), substituted “$50,000” for “$10,000”.
 
-Subsec. (b)(4), (5). Pub. L. 105–206, § 3401(c)(1), as amended by Pub. L. 105–277, § 4002(e)(1), added par. (4) and redesignated former par. (4) as (5).
+Subsec. (b)(4), (5). Pub. L. 105–206, § 3401(c)(1), as amended by Pub. L. 105–277, § 4002(e)(1), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (c). Pub. L. 105–206, § 3401(c)(2), as amended by Pub. L. 105–277, § 4002(e)(2), substituted “(3), or (4)” for “or (3)”.
+Subsec. (c). Pub. L. 105–206, § 3401(c)(2), as amended by Pub. L. 105–277, § 4002(e)(2), substituted “(3), or (4)” for “or (3)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2457,7 +2457,7 @@ Subsec. (c). Pub. L. 105–206, § 3401(c)(2), as amended by Pub. L. 105–277
 
 Amendment by Pub. L. 109–432 applicable to information provided on or after Dec. 20, 2006, see section 406(d) of Pub. L. 109–432, set out as a note under section 62 of this title.
 
-Pub. L. 109–280, title VIII, § 857(c), Aug. 17, 2006, 120 Stat. 1020, provided that: “The amendments made by this section [amending this section] shall apply to any proceeding under section 7436(c) of the Internal Revenue Code of 1986 with respect to which a decision has not become final (as determined under section 7481 of such Code) before the date of the enactment of this Act [Aug. 17, 2006].”
+Pub. L. 109–280, title VIII, § 857(c), Aug. 17, 2006, 120 Stat. 1020, provided that: “The amendments made by this section [amending this section] shall apply to any proceeding under section 7436(c) of the Internal Revenue Code of 1986 with respect to which a decision has not become final (as determined under section 7481 of such Code) before the date of the enactment of this Act [Aug. 17, 2006].”
 
 **Effective Date of 1998 Amendments**
 
@@ -2469,7 +2469,7 @@ Amendment by section 3401 of Pub. L. 105–206 applicable to collection actions 
 
 **Effective Date**
 
-Pub. L. 99–514, title XV, § 1556(c), Oct. 22, 1986, 100 Stat. 2755, provided that:
+Pub. L. 99–514, title XV, § 1556(c), Oct. 22, 1986, 100 Stat. 2755, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [enacting this section and amending sections 7456 and 7471 of this title] shall take effect on the date of the enactment of this Act [Oct. 22, 1986].
 
@@ -2479,11 +2479,11 @@ Pub. L. 99–514, title XV, § 1556(c), Oct. 22, 1986, 100 Stat. 2755, provide
 
 **Inconsistencies With Presidential Salary Recommendations**
 
-Pub. L. 100–647, title I, § 1015(j), Nov. 10, 1988, 102 Stat. 3571, provided that: “To the extent the salary recommendations submitted by the President on January 5, 1987, are inconsistent with the provisions of section 7443A(d)(1) of the 1986 Code, such recommendations shall not be effective for any period.”
+Pub. L. 100–647, title I, § 1015(j), Nov. 10, 1988, 102 Stat. 3571, provided that: “To the extent the salary recommendations submitted by the President on January 5, 1987, are inconsistent with the provisions of section 7443A(d)(1) of the 1986 Code, such recommendations shall not be effective for any period.”
 
-#### [§ 7443B. Repealed. Pub. L. 110–458, title I, § 108(l), Dec. 23, 2008, 122 Stat. 5110]
+#### [§ 7443B. Repealed. Pub. L. 110–458, title I, § 108(l), Dec. 23, 2008, 122 Stat. 5110]
 
-Section, added Pub. L. 109–280, title VIII, § 856(a), Aug. 17, 2006, 120 Stat. 1019, related to the recall of retired special trial judges of the Tax Court.
+Section, added Pub. L. 109–280, title VIII, § 856(a), Aug. 17, 2006, 120 Stat. 1019, related to the recall of retired special trial judges of the Tax Court.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2493,9 +2493,9 @@ Repeal effective as if included in the provisions of Pub. L. 109–280 to which 
 
 **Construction of Amendment by Pub. L. 109–280**
 
-Pub. L. 110–458, title I, § 108(*l*), Dec. 23, 2008, 122 Stat. 5110, provided that: “Section 856 of the 2006 Act [Pub. L. 109–280, enacting this section], and the amendments made by such section, are hereby repealed, and the Internal Revenue Code of 1986 shall be applied and administered as if such sections and amendments had not been enacted.”
+Pub. L. 110–458, title I, § 108(*l*), Dec. 23, 2008, 122 Stat. 5110, provided that: “Section 856 of the 2006 Act [Pub. L. 109–280, enacting this section], and the amendments made by such section, are hereby repealed, and the Internal Revenue Code of 1986 shall be applied and administered as if such sections and amendments had not been enacted.”
 
-#### § 7444. Organization
+#### § 7444. Organization
 
 **(a) Seal**
 
@@ -2515,19 +2515,19 @@ A majority of the judges of the Tax Court or of any division thereof shall const
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 880.)
 
-#### § 7445. Offices
+#### § 7445. Offices
 
 The principal office of the Tax Court shall be in the District of Columbia, but the Tax Court or any of its divisions may sit at any place within the United States.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 880.)
 
-#### § 7446. Times and places of sessions
+#### § 7446. Times and places of sessions
 
 The times and places of the sessions of the Tax Court and of its divisions shall be prescribed by the chief judge with a view to securing reasonable opportunity to taxpayers to appear before the Tax Court or any of its divisions, with as little inconvenience and expense to taxpayers as is practicable.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 880.)
 
-#### § 7447. Retirement
+#### § 7447. Retirement
 
 **(a) Definitions** For purposes of this section—
 
@@ -2722,29 +2722,29 @@ In the case of a judge who receives a distribution from the Thrift Savings Plan 
 
 For purposes of the limitation under section 501(a) of the Ethics in Government Act of 1978 (5 U.S.C. App.),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 any compensation for teaching approved under section 502(a)(5) of such Act shall not be treated as outside earned income when received by a judge of the United States Tax Court who has retired under subsection (b) for teaching performed during any calendar year for which such a judge has met the requirements of subsection (c), as certified by the chief judge, or has retired under subsection (b)(4).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 880; Pub. L. 89–354, § 1, Feb. 2, 1966, 80 Stat. 5; Pub. L. 91–172, title IX, §§ 954, 960(c), (d), Dec. 30, 1969, 83 Stat. 730, 734; Pub. L. 92–41, § 4(a), July 1, 1971, 85 Stat. 99; Pub. L. 95–472, § 1, Oct. 17, 1978, 92 Stat. 1332; Pub. L. 97–362, title I, § 106(d), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 99–514, title XV, § 1557(a), (b), (d), Oct. 22, 1986, 100 Stat. 2756, 2757; Pub. L. 100–647, title I, § 1015(k)(1), Nov. 10, 1988, 102 Stat. 3571; Pub. L. 109–280, title VIII, § 853(a), Aug. 17, 2006, 120 Stat. 1016; Pub. L. 113–295, div. A, title II, § 221(a)(115), Dec. 19, 2014, 128 Stat. 4054; Pub. L. 117–328, div. T, title VII, § 701(a)(1), (2), (c)(1), (d)(1), Dec. 29, 2022, 136 Stat. 5398, 5401.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 880; Pub. L. 89–354, § 1, Feb. 2, 1966, 80 Stat. 5; Pub. L. 91–172, title IX, §§ 954, 960(c), (d), Dec. 30, 1969, 83 Stat. 730, 734; Pub. L. 92–41, § 4(a), July 1, 1971, 85 Stat. 99; Pub. L. 95–472, § 1, Oct. 17, 1978, 92 Stat. 1332; Pub. L. 97–362, title I, § 106(d), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 99–514, title XV, § 1557(a), (b), (d), Oct. 22, 1986, 100 Stat. 2756, 2757; Pub. L. 100–647, title I, § 1015(k)(1), Nov. 10, 1988, 102 Stat. 3571; Pub. L. 109–280, title VIII, § 853(a), Aug. 17, 2006, 120 Stat. 1016; Pub. L. 113–295, div. A, title II, § 221(a)(115), Dec. 19, 2014, 128 Stat. 4054; Pub. L. 117–328, div. T, title VII, § 701(a)(1), (2), (c)(1), (d)(1), Dec. 29, 2022, 136 Stat. 5398, 5401.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 501(a) and 502(a)(5) of the Ethics in Government Act of 1978, referred to in subsec. (k), are sections 501(a) and 502(a)(5) of Pub. L. 95–521, which were set out in the Appendix to Title 5, Government Organization and Employees, and were repealed and restated as sections 13143(a) and 13144(a)(5), respectively, of Title 5 by Pub. L. 117–286, §§ 3(c), 7, Dec. 27, 2022, 136 Stat. 4303, 4304, 4361.
+Sections 501(a) and 502(a)(5) of the Ethics in Government Act of 1978, referred to in subsec. (k), are sections 501(a) and 502(a)(5) of Pub. L. 95–521, which were set out in the Appendix to Title 5, Government Organization and Employees, and were repealed and restated as sections 13143(a) and 13144(a)(5), respectively, of Title 5 by Pub. L. 117–286, §§ 3(c), 7, Dec. 27, 2022, 136 Stat. 4303, 4304, 4361.
 
 **Amendments**
 
-2022—Subsec. (g)(2)(C). Pub. L. 117–328, § 701(c)(1)(A), substituted “sections 8331(8) and 8401(19)” for “section 8331(8)”.
+2022—Subsec. (g)(2)(C). Pub. L. 117–328, § 701(c)(1)(A), substituted “sections 8331(8) and 8401(19)” for “section 8331(8)”.
 
-Subsec. (i)(2). Pub. L. 117–328, § 701(c)(1)(B), substituted “Office of Personnel Management” for “Civil Service Commission” in two places.
+Subsec. (i)(2). Pub. L. 117–328, § 701(c)(1)(B), substituted “Office of Personnel Management” for “Civil Service Commission” in two places.
 
-Subsec. (j)(3)(B). Pub. L. 117–328, § 701(a)(1), amended subpar. (B) generally. Prior to amendment, text read as follows: “No contributions may be made for the benefit of a judge under section 8432(c) of title 5, United States Code.”
+Subsec. (j)(3)(B). Pub. L. 117–328, § 701(a)(1), amended subpar. (B) generally. Prior to amendment, text read as follows: “No contributions may be made for the benefit of a judge under section 8432(c) of title 5, United States Code.”
 
-Subsec. (j)(3)(F). Pub. L. 117–328, § 701(a)(2), added subpar. (F).
+Subsec. (j)(3)(F). Pub. L. 117–328, § 701(a)(2), added subpar. (F).
 
-Subsec. (k). Pub. L. 117–328, § 701(d)(1), added subsec. (k).
+Subsec. (k). Pub. L. 117–328, § 701(d)(1), added subsec. (k).
 
 2014—Subsec. (i)(3)(B)(ii). Pub. L. 113–295 substituted “at 3 percent per annum” for “at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter”.
 
@@ -2752,13 +2752,13 @@ Subsec. (k). Pub. L. 117–328, § 701(d)(1), added subsec. (k).
 
 1988—Subsec. (d). Pub. L. 100–647 inserted at end “In computing the rate of the retired pay under paragraph (1) of this subsection for any individual who is entitled thereto, any period during which such individual performs services under subsection (c) on a substantially full-time basis shall be treated as a period during which he has served as a judge.”
 
-1986—Subsec. (a)(2), (3), (5). Pub. L. 99–514, § 1557(d)(1), redesignated pars. (3) and (5) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “The term ‘Civil Service Commission’ means the United States Civil Service Commission.”
+1986—Subsec. (a)(2), (3), (5). Pub. L. 99–514, § 1557(d)(1), redesignated pars. (3) and (5) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “The term ‘Civil Service Commission’ means the United States Civil Service Commission.”
 
-Subsec. (b)(2). Pub. L. 99–514, § 1557(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any judge who has attained the age of 65 may retire any time after serving as judge for 15 years or more.”
+Subsec. (b)(2). Pub. L. 99–514, § 1557(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any judge who has attained the age of 65 may retire any time after serving as judge for 15 years or more.”
 
-Subsec. (e). Pub. L. 99–514, § 1557(d)(2), substituted “Office of Personnel Management” for “Civil Service Commission” in par. (4) and in last sentence.
+Subsec. (e). Pub. L. 99–514, § 1557(d)(2), substituted “Office of Personnel Management” for “Civil Service Commission” in par. (4) and in last sentence.
 
-Subsec. (f). Pub. L. 99–514, § 1557(b), amended subsec. (f) generally. Prior to amendment, subsec. (f), individuals receiving retired pay to be available for recall, read as follows: “Any individual who has elected to receive retired pay under subsection (d) who thereafter—
+Subsec. (f). Pub. L. 99–514, § 1557(b), amended subsec. (f) generally. Prior to amendment, subsec. (f), individuals receiving retired pay to be available for recall, read as follows: “Any individual who has elected to receive retired pay under subsection (d) who thereafter—
 
 “(1) accepts civil office or employment under the Government of the United States (other than the performance of judicial duties pursuant to subsection (c)); or
 
@@ -2766,7 +2766,7 @@ Subsec. (f). Pub. L. 99–514, § 1557(b), amended subsec. (f) generally. Prio
 
 shall forfeit all rights to retired pay under subsection (d) for all periods beginning on or after the first day on which he accepts such office or employment or engages in any activity described in paragraph (2). Any individual who has elected to receive retired pay under subsection (d) who thereafter during any calendar year fails to perform judicial duties required of him by subsection (c) shall forfeit all rights to retired pay under subsection (d) for the 1-year period which begins on the first day on which he so fails to perform such duties.”
 
-Subsec. (g)(2)(C). Pub. L. 99–514, § 1557(d)(3), substituted “Office of Personnel Management” for “Civil Service Commission”.
+Subsec. (g)(2)(C). Pub. L. 99–514, § 1557(d)(3), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
 1982—Subsec. (b). Pub. L. 97–362 inserted provision that any judge who retires shall be designated “senior judge”.
 
@@ -2774,25 +2774,25 @@ Subsec. (g)(2)(C). Pub. L. 99–514, § 1557(d)(3), substituted “Office of P
 
 1971—Subsec. (c). Pub. L. 92–41 substituted “At or after his retirement, any individual who has elected to receive” for “Any individual who is receiving”.
 
-1969—Subsec. (a)(4). Pub. L. 91–172, § 954(e)(1), struck out par. (4) which defined the term “Civil Service Retirement Act”.
+1969—Subsec. (a)(4). Pub. L. 91–172, § 954(e)(1), struck out par. (4) which defined the term “Civil Service Retirement Act”.
 
-Subsec. (a)(1). Pub. L. 91–172, § 960(c), substituted “United States Tax Court” for “Tax Court of the United States”.
+Subsec. (a)(1). Pub. L. 91–172, § 960(c), substituted “United States Tax Court” for “Tax Court of the United States”.
 
-Subsec. (a)(5). Pub. L. 91–172, § 960(d), inserted reference to service as a judge of the Tax Court of the United States.
+Subsec. (a)(5). Pub. L. 91–172, § 960(d), inserted reference to service as a judge of the Tax Court of the United States.
 
-Subsec. (b). Pub. L. 91–172, § 954(a), substituted provisions authorizing retirement at age 70, or age 65 after serving 15 years, or when any judge has become permanently disabled, authorizing any judge not reappointed who has served 15 years or more to retire under enumerated condition, and rendering section 8335(a) of title 5 not applicable to judges, for provisions authorizing retirement after a judge has served 18 years, requiring anyone who served as a judge for 10 years or more and attained the age of 70 years to retire no later than the close of the third month beginning after the month in which he attained 70 years or the month completing the tenth year of service or August 1953, and rendering section 2(a) of the Civil Service Retirement Act not applicable to judges.
+Subsec. (b). Pub. L. 91–172, § 954(a), substituted provisions authorizing retirement at age 70, or age 65 after serving 15 years, or when any judge has become permanently disabled, authorizing any judge not reappointed who has served 15 years or more to retire under enumerated condition, and rendering section 8335(a) of title 5 not applicable to judges, for provisions authorizing retirement after a judge has served 18 years, requiring anyone who served as a judge for 10 years or more and attained the age of 70 years to retire no later than the close of the third month beginning after the month in which he attained 70 years or the month completing the tenth year of service or August 1953, and rendering section 2(a) of the Civil Service Retirement Act not applicable to judges.
 
-Subsec. (d). Pub. L. 91–172, § 954(b), substituted provisions specifying methods of computation of retirement pay under subsec. (b) of this section so as to conform such provisions to subsec. (b) (relating to conditions for retiring), for provisions specifying methods of computation for retirement pay under former subsec. (b) of this section (relating to conditions for retiring).
+Subsec. (d). Pub. L. 91–172, § 954(b), substituted provisions specifying methods of computation of retirement pay under subsec. (b) of this section so as to conform such provisions to subsec. (b) (relating to conditions for retiring), for provisions specifying methods of computation for retirement pay under former subsec. (b) of this section (relating to conditions for retiring).
 
-Subsec. (g)(1). Pub. L. 91–172, § 954(e)(2), substituted “civil service retirement laws” and “such civil service retirement laws apply” for “Civil Service Retirement Act” and “such Act applies”, respectively.
+Subsec. (g)(1). Pub. L. 91–172, § 954(e)(2), substituted “civil service retirement laws” and “such civil service retirement laws apply” for “Civil Service Retirement Act” and “such Act applies”, respectively.
 
-Subsec. (g)(2). Pub. L. 91–172, § 954(c), substituted provisions that any individual electing to receive retirement pay under subsec. (d) of this section is not to receive any payment under the civil service retirement laws, and no deduction is to be made for the Civil Service Retirement and Disability Fund, and a lump-sum credit computed under section 8331(8) of Title 5 is to be paid, for provisions which enumerated the effects and conditions of electing retirement pay under former subsec. (d) of this section.
+Subsec. (g)(2). Pub. L. 91–172, § 954(c), substituted provisions that any individual electing to receive retirement pay under subsec. (d) of this section is not to receive any payment under the civil service retirement laws, and no deduction is to be made for the Civil Service Retirement and Disability Fund, and a lump-sum credit computed under section 8331(8) of Title 5 is to be paid, for provisions which enumerated the effects and conditions of electing retirement pay under former subsec. (d) of this section.
 
-Subsec. (g)(3). Pub. L. 91–172, § 954(c), struck out par. (3) which enumerated the conditions and effects of waiving civil service benefits in lieu of retirement pay under former subsec. (d) of this section.
+Subsec. (g)(3). Pub. L. 91–172, § 954(c), struck out par. (3) which enumerated the conditions and effects of waiving civil service benefits in lieu of retirement pay under former subsec. (d) of this section.
 
-Subsec. (g)(4). Pub. L. 91–172, § 954(c), struck out par. (4) which provided that the fourth and sixth paragraphs of section 6 of the Civil Service Retirement Act would be applicable to retirement pay accruing under subsec. (d) of this section.
+Subsec. (g)(4). Pub. L. 91–172, § 954(c), struck out par. (4) which provided that the fourth and sixth paragraphs of section 6 of the Civil Service Retirement Act would be applicable to retirement pay accruing under subsec. (d) of this section.
 
-Subsec. (h). Pub. L. 91–172, § 954(d), added subsec. (h).
+Subsec. (h). Pub. L. 91–172, § 954(d), added subsec. (h).
 
 1966—Subsec. (d). Pub. L. 89–354 substituted “during any period at a rate which bears the same ratio to the rate of the salary payable to a judge during such period” for “at a rate which bears the same ratio to the rate of the salary payable to him as judge at the time he ceases to be a judge” and “the rate of such salary for such period” for “the rate of such salary” wherever appearing.
 
@@ -2800,11 +2800,11 @@ Subsec. (h). Pub. L. 91–172, § 954(d), added subsec. (h).
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–328, div. T, title VII, § 701(a)(3), Dec. 29, 2022, 136 Stat. 5398, provided that: “The amendments made by this subsection [amending this section] shall apply to basic pay earned while serving as a judge of the United States Tax Court on or after the date of the enactment of this Act [Dec. 29, 2022].”
+Pub. L. 117–328, div. T, title VII, § 701(a)(3), Dec. 29, 2022, 136 Stat. 5398, provided that: “The amendments made by this subsection [amending this section] shall apply to basic pay earned while serving as a judge of the United States Tax Court on or after the date of the enactment of this Act [Dec. 29, 2022].”
 
-Pub. L. 117–328, div. T, title VII, § 701(d)(2), Dec. 29, 2022, 136 Stat. 5402, provided that: “The amendment made by this subsection [amending this section] shall apply to any individual serving as a retired judge of the United States Tax Court on or after the date of the enactment of this Act [Dec. 29, 2022].”
+Pub. L. 117–328, div. T, title VII, § 701(d)(2), Dec. 29, 2022, 136 Stat. 5402, provided that: “The amendment made by this subsection [amending this section] shall apply to any individual serving as a retired judge of the United States Tax Court on or after the date of the enactment of this Act [Dec. 29, 2022].”
 
-Pub. L. 117–328, div. T, title VII, § 701(e), Dec. 29, 2022, 136 Stat. 5402, provided that: “Except as otherwise provided, the amendments made by this section [amending this section and section 7448 of this title] shall take effect on the date of the enactment of this Act [Dec. 29, 2022].”
+Pub. L. 117–328, div. T, title VII, § 701(e), Dec. 29, 2022, 136 Stat. 5402, provided that: “Except as otherwise provided, the amendments made by this section [amending this section and section 7448 of this title] shall take effect on the date of the enactment of this Act [Dec. 29, 2022].”
 
 **Effective Date of 2014 Amendment**
 
@@ -2812,15 +2812,15 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–280, title VIII, § 853(b), Aug. 17, 2006, 120 Stat. 1017, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Aug. 17, 2006], except that United States Tax Court judges may only begin to participate in the Thrift Savings Plan at the next open season beginning after such date.”
+Pub. L. 109–280, title VIII, § 853(b), Aug. 17, 2006, 120 Stat. 1017, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Aug. 17, 2006], except that United States Tax Court judges may only begin to participate in the Thrift Savings Plan at the next open season beginning after such date.”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title I, § 1015(k)(2), Nov. 10, 1988, 102 Stat. 3571, provided that: “The amendment made by paragraph (1) [amending this section] shall apply for purposes of determining the amount of retired pay for months beginning after the date of the enactment of this Act [Nov. 10, 1988] regardless of when the services under section 7447(c) of the 1986 Code were performed.”
+Pub. L. 100–647, title I, § 1015(k)(2), Nov. 10, 1988, 102 Stat. 3571, provided that: “The amendment made by paragraph (1) [amending this section] shall apply for purposes of determining the amount of retired pay for months beginning after the date of the enactment of this Act [Nov. 10, 1988] regardless of when the services under section 7447(c) of the 1986 Code were performed.”
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–514, title XV, § 1557(e), Oct. 22, 1986, 100 Stat. 2757, provided that:
+Pub. L. 99–514, title XV, § 1557(e), Oct. 22, 1986, 100 Stat. 2757, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section and section 7448 of this title] shall take effect on the date of the enactment of this Act [Oct. 22, 1986].
 
@@ -2828,17 +2828,17 @@ Pub. L. 99–514, title XV, § 1557(e), Oct. 22, 1986, 100 Stat. 2757, provide
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–472, § 2(a), Oct. 17, 1978, 92 Stat. 1332, provided that: “The amendment made by the first section of this Act [amending this section] shall apply with respect to revocations made after the date of the enactment of this Act [Oct. 17, 1978].”
+Pub. L. 95–472, § 2(a), Oct. 17, 1978, 92 Stat. 1332, provided that: “The amendment made by the first section of this Act [amending this section] shall apply with respect to revocations made after the date of the enactment of this Act [Oct. 17, 1978].”
 
 **Effective Date of 1971 Amendment**
 
-Pub. L. 92–41, § 4(c)(1), July 1, 1971, 85 Stat. 99, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) [amending this section] shall be effective as if included in the Internal Revenue Code of 1986 [formerly I.R.C. 1954] on the date of its enactment [July 1, 1971]. Provisions having the same effect as such amendment shall be treated as having been included in the Internal Revenue Code of 1939 [section 1106(c)] effective on and after August 7, 1953.”
+Pub. L. 92–41, § 4(c)(1), July 1, 1971, 85 Stat. 99, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) [amending this section] shall be effective as if included in the Internal Revenue Code of 1986 [formerly I.R.C. 1954] on the date of its enactment [July 1, 1971]. Provisions having the same effect as such amendment shall be treated as having been included in the Internal Revenue Code of 1939 [section 1106(c)] effective on and after August 7, 1953.”
 
 **Effective Date of 1969 Amendment**
 
 Amendment by sections 954(c), (e) and 960(c), (d) of Pub. L. 91–172 effective Dec. 30, 1969, see section 962(a) of Pub. L. 91–172, set out as a note under section 7441 of this title.
 
-Pub. L. 91–172, title IX, § 962(d), Dec. 30, 1969, 83 Stat. 736, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 91–172, title IX, § 962(d), Dec. 30, 1969, 83 Stat. 736, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > “The amendments made by subsections (a), (b), and (d) of section 954 [amending this section] shall apply to—
 
@@ -2850,19 +2850,19 @@ Pub. L. 91–172, title IX, § 962(d), Dec. 30, 1969, 83 Stat. 736, as amended
 
 **Effective Date of 1966 Amendment**
 
-Pub. L. 89–354, § 2, Feb. 2, 1966, 80 Stat. 5, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by the first section of this Act [amending this section and section 1106 of I.R.C. 1939] shall apply with respect to retired pay accruing under section 1106 of the Internal Revenue Code of 1939 or section 7447 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] on or after the first day of the first calendar month which begins after the date of enactment of this Act [Feb. 2, 1966].”
+Pub. L. 89–354, § 2, Feb. 2, 1966, 80 Stat. 5, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by the first section of this Act [amending this section and section 1106 of I.R.C. 1939] shall apply with respect to retired pay accruing under section 1106 of the Internal Revenue Code of 1939 or section 7447 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] on or after the first day of the first calendar month which begins after the date of enactment of this Act [Feb. 2, 1966].”
 
 **Redepositing Funds in Civil Service Retirement and Disability Fund; Creditable Service**
 
-Pub. L. 95–472, § 2(b), Oct. 17, 1978, 92 Stat. 1333, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Any individual who elects to revoke under section 7447(i) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] within one year after the date of enactment of this Act [Oct. 17, 1978] shall be treated as having the requisite current service for purposes of redepositing funds in the Civil Service Retirement and Disability Fund and for purposes of reviving creditable service under subchapter III of chapter 83 of title 5 of the United States Code.”
+Pub. L. 95–472, § 2(b), Oct. 17, 1978, 92 Stat. 1333, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Any individual who elects to revoke under section 7447(i) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] within one year after the date of enactment of this Act [Oct. 17, 1978] shall be treated as having the requisite current service for purposes of redepositing funds in the Civil Service Retirement and Disability Fund and for purposes of reviving creditable service under subchapter III of chapter 83 of title 5 of the United States Code.”
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions vested by statute in United States Civil Service Commission or Chairman thereof transferred to Director of Office of Personnel Management (except as otherwise specified) by Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+Functions vested by statute in United States Civil Service Commission or Chairman thereof transferred to Director of Office of Personnel Management (except as otherwise specified) by Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
-#### § 7447A. Retirement for special trial judges
+#### § 7447A. Retirement for special trial judges
 
 **(a) In general**
 
@@ -2937,15 +2937,15 @@ The chief judge shall transmit to the Office of Personnel Management a copy of e
 
 The rules of subsections (f), (g), (h)(2), (i), and (j), and the first sentence of subsection (h)(1), of section 7447 shall apply to a special trial judge in the same manner as a judge of the Tax Court. For purposes of the preceding sentence, any reference to the President in such subsections shall be applied as if it were a reference to the chief judge.
 
-(Added Pub. L. 117–328, div. T, title VII, § 702(a), Dec. 29, 2022, 136 Stat. 5402.)
+(Added Pub. L. 117–328, div. T, title VII, § 702(a), Dec. 29, 2022, 136 Stat. 5402.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 117–328, div. T, title VII, § 702(d), Dec. 29, 2022, 136 Stat. 5404, provided that: “The amendments made by this section [enacting this section and amending sections 3121 and 7448 of this title and section 410 of Title 42, The Public Health and Welfare] shall take effect on the date of the enactment of this Act [Dec. 29, 2022], except that section 7447A(e) of the Internal Revenue Code of 1986 (as added by this section) shall take effect on the date that is 180 days after such date of enactment. Special trial judges retiring on or after the date of the enactment of this Act, and before the date that is 180 days after the date of such enactment, may file an election under such section not later than 60 days after such date.”
+Pub. L. 117–328, div. T, title VII, § 702(d), Dec. 29, 2022, 136 Stat. 5404, provided that: “The amendments made by this section [enacting this section and amending sections 3121 and 7448 of this title and section 410 of Title 42, The Public Health and Welfare] shall take effect on the date of the enactment of this Act [Dec. 29, 2022], except that section 7447A(e) of the Internal Revenue Code of 1986 (as added by this section) shall take effect on the date that is 180 days after such date of enactment. Special trial judges retiring on or after the date of the enactment of this Act, and before the date that is 180 days after the date of such enactment, may file an election under such section not later than 60 days after such date.”
 
-#### § 7448. Annuities to surviving spouses and dependent children of judges and special trial judges
+#### § 7448. Annuities to surviving spouses and dependent children of judges and special trial judges
 
 **(a) Definitions** For purposes of this section—
 
@@ -3137,9 +3137,9 @@ Annuities granted under the terms of this section shall accrue monthly and shall
 
 **(i)** for judicial service (including periods in which he received retired pay under section 7447(d), section 7447A(d), or any annuity under chapter 83 or 84 of title 5, United States Code) or for any other prior allowable service during the period of 3 consecutive years in which such judge or special trial judge received the largest such average annual salary, or
 
-**(ii)** in the case of a judge or special trial judge who has served less than 3 years, during the total period of such service prior to such judge’s or special trial judge’s death, multiplied by the sum of, multiplied by 1
+**(ii)** in the case of a judge or special trial judge who has served less than 3 years, during the total period of such service prior to such judge’s or special trial judge’s death, multiplied by the sum of, multiplied by 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 **(B)** the sum of—
 
@@ -3187,7 +3187,7 @@ Funds necessary to carry out the provisions of this section may be appropriated 
 
 In the case of a judge or special trial judge who is assassinated, an annuity shall be paid under this section notwithstanding a survivor’s eligibility for or receipt of benefits under chapter 81 of title 5, United States Code, except that the annuity for which a surviving spouse is eligible under this section shall be reduced to the extent that the total benefits paid under this section and chapter 81 of that title for any year would exceed the current salary for that year of the office of the judge or special trial judge.
 
-(Added Pub. L. 87–370, § 1, Oct. 4, 1961, 75 Stat. 796; amended Pub. L. 91–172, title IX, §§ 955, 960(c), (e), Dec. 30, 1969, 83 Stat. 732, 734; Pub. L. 92–41, § 4(b), July 1, 1971, 85 Stat. 99; Pub. L. 94–455, title XIX, § 1906(a)(46), Oct. 4, 1976, 90 Stat. 1830; Pub. L. 97–362, title I, § 105(a), (b), Oct. 25, 1982, 96 Stat. 1729; Pub. L. 98–216, § 3(c)(1), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–369, div. A, title IV, § 462(a), July 18, 1984, 98 Stat. 824; Pub. L. 99–514, title XV, §§ 1557(c), 1559(a)–(c), Oct. 22, 1986, 100 Stat. 2757–2760; Pub. L. 109–280, title VIII, §§ 851(a), 854(a)–(c)(1), (3)–(7), Aug. 17, 2006, 120 Stat. 1016–1018; Pub. L. 113–295, div. A, title II, § 221(a)(116), Dec. 19, 2014, 128 Stat. 4054; Pub. L. 115–141, div. U, title IV, § 401(a)(327), (328), (b)(51)–(53), Mar. 23, 2018, 132 Stat. 1200, 1205; Pub. L. 117–328, div. T, title VII, §§ 701(b), (c)(2), 702(b)(2), Dec. 29, 2022, 136 Stat. 5398, 5401, 5404.)
+(Added Pub. L. 87–370, § 1, Oct. 4, 1961, 75 Stat. 796; amended Pub. L. 91–172, title IX, §§ 955, 960(c), (e), Dec. 30, 1969, 83 Stat. 732, 734; Pub. L. 92–41, § 4(b), July 1, 1971, 85 Stat. 99; Pub. L. 94–455, title XIX, § 1906(a)(46), Oct. 4, 1976, 90 Stat. 1830; Pub. L. 97–362, title I, § 105(a), (b), Oct. 25, 1982, 96 Stat. 1729; Pub. L. 98–216, § 3(c)(1), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–369, div. A, title IV, § 462(a), July 18, 1984, 98 Stat. 824; Pub. L. 99–514, title XV, §§ 1557(c), 1559(a)–(c), Oct. 22, 1986, 100 Stat. 2757–2760; Pub. L. 109–280, title VIII, §§ 851(a), 854(a)–(c)(1), (3)–(7), Aug. 17, 2006, 120 Stat. 1016–1018; Pub. L. 113–295, div. A, title II, § 221(a)(116), Dec. 19, 2014, 128 Stat. 4054; Pub. L. 115–141, div. U, title IV, § 401(a)(327), (328), (b)(51)–(53), Mar. 23, 2018, 132 Stat. 1200, 1205; Pub. L. 117–328, div. T, title VII, §§ 701(b), (c)(2), 702(b)(2), Dec. 29, 2022, 136 Stat. 5398, 5401, 5404.)
 
 **Editorial Notes**
 
@@ -3197,9 +3197,9 @@ The date of the enactment of this paragraph, referred to in subsec. (b)(2)(A), i
 
 **Amendments**
 
-2022—Subsec. (a)(10). Pub. L. 117–328, § 701(b)(2), added par. (10).
+2022—Subsec. (a)(10). Pub. L. 117–328, § 701(b)(2), added par. (10).
 
-Subsec. (b)(2). Pub. L. 117–328, § 702(b)(2), amended par. (2) generally. Prior to amendment, text read as follows: “Any special trial judge may by written election filed with the chief judge bring himself or herself within the purview of this section. Such election shall be filed not later than the later of 6 months after—
+Subsec. (b)(2). Pub. L. 117–328, § 702(b)(2), amended par. (2) generally. Prior to amendment, text read as follows: “Any special trial judge may by written election filed with the chief judge bring himself or herself within the purview of this section. Such election shall be filed not later than the later of 6 months after—
 
 “(A) 6 months after the date of the enactment of this paragraph,
 
@@ -3207,133 +3207,133 @@ Subsec. (b)(2). Pub. L. 117–328, § 702(b)(2), amended par. (2) generally. P
 
 “(C) the date the judge marries.”
 
-Subsec. (d). Pub. L. 117–328, § 701(c)(2)(A), substituted “sections 8332 and 8411” for “section 8332”.
+Subsec. (d). Pub. L. 117–328, § 701(c)(2)(A), substituted “sections 8332 and 8411” for “section 8332”.
 
-Subsec. (h). Pub. L. 117–328, § 701(b)(1), amended subsec. (h) generally. Prior to amendment, subsec. (h) related to surviving spouses and dependent children’s entitlement to annuity.
+Subsec. (h). Pub. L. 117–328, § 701(b)(1), amended subsec. (h) generally. Prior to amendment, subsec. (h) related to surviving spouses and dependent children’s entitlement to annuity.
 
-Subsec. (i). Pub. L. 117–328, § 701(b)(3), substituted “by chief judge” for “of dependency and disability” in heading, designated existing provisions as par. (1) and inserted heading, and added par. (2).
+Subsec. (i). Pub. L. 117–328, § 701(b)(3), substituted “by chief judge” for “of dependency and disability” in heading, designated existing provisions as par. (1) and inserted heading, and added par. (2).
 
-Subsec. (m). Pub. L. 117–328, § 701(b)(4), amended subsec. (m) generally. Prior to amendment, text read as follows: “The annuity of the surviving spouse of a judge or special trial judge electing under subsection (b) shall be an amount equal to the sum of (1) 1.5 percent of the average annual salary (whether judge’s or special trial judge’s salary or compensation for other allowable service) received by such judge or special trial judge for judicial service (including periods in which he received retired pay under section 7447(d) or any annuity under chapter 83 or 84 of title 5, United States Code) or for any other prior allowable service during the period of 3 consecutive years in which he received the largest such average annual salary, multiplied by the sum of his years of such judicial service, his years of prior allowable service as a Senator, Representative, Delegate, or Resident Commissioner in Congress, his years of prior allowable service performed as a member of the Armed Forces of the United States, and his years, not exceeding 15, of prior allowable service performed as a congressional employee (as defined in section 2107 of title 5 of the United States Code), and (2) three-fourths of 1 percent of such average annual salary multiplied by his years of any other prior allowable service, except that such annuity shall not exceed an amount equal to 50 percent of such average annual salary, nor be less than an amount equal to 25 percent of such average annual salary, and shall be further reduced in accordance with subsection (d) (if applicable). In determining the period of 3 consecutive years referred to in the preceding sentence, there may not be taken into account any period for which an election under section 7447(f)(4) is in effect.”
+Subsec. (m). Pub. L. 117–328, § 701(b)(4), amended subsec. (m) generally. Prior to amendment, text read as follows: “The annuity of the surviving spouse of a judge or special trial judge electing under subsection (b) shall be an amount equal to the sum of (1) 1.5 percent of the average annual salary (whether judge’s or special trial judge’s salary or compensation for other allowable service) received by such judge or special trial judge for judicial service (including periods in which he received retired pay under section 7447(d) or any annuity under chapter 83 or 84 of title 5, United States Code) or for any other prior allowable service during the period of 3 consecutive years in which he received the largest such average annual salary, multiplied by the sum of his years of such judicial service, his years of prior allowable service as a Senator, Representative, Delegate, or Resident Commissioner in Congress, his years of prior allowable service performed as a member of the Armed Forces of the United States, and his years, not exceeding 15, of prior allowable service performed as a congressional employee (as defined in section 2107 of title 5 of the United States Code), and (2) three-fourths of 1 percent of such average annual salary multiplied by his years of any other prior allowable service, except that such annuity shall not exceed an amount equal to 50 percent of such average annual salary, nor be less than an amount equal to 25 percent of such average annual salary, and shall be further reduced in accordance with subsection (d) (if applicable). In determining the period of 3 consecutive years referred to in the preceding sentence, there may not be taken into account any period for which an election under section 7447(f)(4) is in effect.”
 
-Subsec. (n). Pub. L. 117–328, § 701(c)(2)(B), substituted “sections 8332 and 8411” for “section 8332”.
+Subsec. (n). Pub. L. 117–328, § 701(c)(2)(B), substituted “sections 8332 and 8411” for “section 8332”.
 
-Subsec. (u). Pub. L. 117–328, § 701(b)(5), added subsec. (u).
+Subsec. (u). Pub. L. 117–328, § 701(b)(5), added subsec. (u).
 
-2018—Subsec. (a)(5). Pub. L. 115–141, § 401(b)(51), struck out “, whether or not performing judicial duties under section 7443B” after “United States Code”.
+2018—Subsec. (a)(5). Pub. L. 115–141, § 401(b)(51), struck out “, whether or not performing judicial duties under section 7443B” after “United States Code”.
 
-Subsec. (a)(6). Pub. L. 115–141, § 401(b)(52), struck out “, and compensation received under section 7443B” after “United States Code”.
+Subsec. (a)(6). Pub. L. 115–141, § 401(b)(52), struck out “, and compensation received under section 7443B” after “United States Code”.
 
-Subsec. (d). Pub. L. 115–141, § 401(b)(53), substituted “at 3 percent per annum” for “at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter”.
+Subsec. (d). Pub. L. 115–141, § 401(b)(53), substituted “at 3 percent per annum” for “at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter”.
 
-Subsec. (j)(1)(A). Pub. L. 115–141, § 401(a)(327), substituted “Code),” for “Code,),”.
+Subsec. (j)(1)(A). Pub. L. 115–141, § 401(a)(327), substituted “Code),” for “Code,),”.
 
-Subsec. (m). Pub. L. 115–141, § 401(a)(328), substituted “Code), and” for “Code, and”.
+Subsec. (m). Pub. L. 115–141, § 401(a)(328), substituted “Code), and” for “Code, and”.
 
-2014—Subsec. (a)(2). Pub. L. 113–295, § 221(a)(116)(A), struck out “or under section 1106 of the Internal Revenue Code of 1939” after “under section 7447” and “or pursuant to section 1106(d) of the Internal Revenue Code of 1939” after “pursuant to section 7447(c)”.
+2014—Subsec. (a)(2). Pub. L. 113–295, § 221(a)(116)(A), struck out “or under section 1106 of the Internal Revenue Code of 1939” after “under section 7447” and “or pursuant to section 1106(d) of the Internal Revenue Code of 1939” after “pursuant to section 7447(c)”.
 
-Subsec. (g). Pub. L. 113–295, § 221(a)(116)(B), (C), struck out “or other than pursuant to section 1106 of the Internal Revenue Code of 1939” after “other than pursuant to the provisions of section 7447” and substituted “at 3 percent per annum” for “at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter”.
+Subsec. (g). Pub. L. 113–295, § 221(a)(116)(B), (C), struck out “or other than pursuant to section 1106 of the Internal Revenue Code of 1939” after “other than pursuant to the provisions of section 7447” and substituted “at 3 percent per annum” for “at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter”.
 
-Subsec. (j)(1), (2). Pub. L. 113–295, § 221(a)(116)(C), substituted “at 3 percent per annum” for “at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter”.
+Subsec. (j)(1), (2). Pub. L. 113–295, § 221(a)(116)(C), substituted “at 3 percent per annum” for “at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter”.
 
-2006—Pub. L. 109–280, § 854(c)(3), which directed amendment of subsec. (u) of this section by inserting “or special trial judge” after “judge” and “or special trial judge’s” after “judge’s” wherever appearing, could not be executed because no subsec. (u) has been enacted.
+2006—Pub. L. 109–280, § 854(c)(3), which directed amendment of subsec. (u) of this section by inserting “or special trial judge” after “judge” and “or special trial judge’s” after “judge’s” wherever appearing, could not be executed because no subsec. (u) has been enacted.
 
-Pub. L. 109–280, § 854(c)(1), inserted “and special trial judges” after “children of judges” in section catchline.
+Pub. L. 109–280, § 854(c)(1), inserted “and special trial judges” after “children of judges” in section catchline.
 
-Subsec. (a)(5) to (9). Pub. L. 109–280, § 854(a), which directed amendment of subsec. (a) by adding pars. (5) and (6) and redesignating former pars. (5) to (8) as (7) to (10), respectively, was executed by adding pars. (5) and (6) and redesignating former pars. (5) to (7) as (7) to (9), respectively, to reflect the probable intent of Congress. Subsec. (a) did not contain a par. (8) prior to the amendment.
+Subsec. (a)(5) to (9). Pub. L. 109–280, § 854(a), which directed amendment of subsec. (a) by adding pars. (5) and (6) and redesignating former pars. (5) to (8) as (7) to (10), respectively, was executed by adding pars. (5) and (6) and redesignating former pars. (5) to (7) as (7) to (9), respectively, to reflect the probable intent of Congress. Subsec. (a) did not contain a par. (8) prior to the amendment.
 
-Subsec. (b). Pub. L. 109–280, § 854(b), reenacted subsec. heading without change, designated existing provisions as par. (1), inserted par. heading, realigned margins, and added par. (2).
+Subsec. (b). Pub. L. 109–280, § 854(b), reenacted subsec. heading without change, designated existing provisions as par. (1), inserted par. heading, realigned margins, and added par. (2).
 
-Subsec. (c)(1). Pub. L. 109–280, § 854(c)(4)(A), substituted “Tax Court judicial officers” for “Tax Court judges”.
+Subsec. (c)(1). Pub. L. 109–280, § 854(c)(4)(A), substituted “Tax Court judicial officers” for “Tax Court judges”.
 
-Pub. L. 109–280, § 854(c)(3), inserted “or special trial judge” after “judge” and “or special trial judge’s” after “judge’s” wherever appearing.
+Pub. L. 109–280, § 854(c)(3), inserted “or special trial judge” after “judge” and “or special trial judge’s” after “judge’s” wherever appearing.
 
-Subsec. (c)(2)(A). Pub. L. 109–280, § 854(c)(4)(B)(i), inserted “and section 7443A(d)” after “(a)(4)”.
+Subsec. (c)(2)(A). Pub. L. 109–280, § 854(c)(4)(B)(i), inserted “and section 7443A(d)” after “(a)(4)”.
 
-Subsec. (c)(2)(B). Pub. L. 109–280, § 854(c)(4)(B)(ii), substituted “subsection (a)(4) and (a)(6)” for “subsection (a)(4)”.
+Subsec. (c)(2)(B). Pub. L. 109–280, § 854(c)(4)(B)(ii), substituted “subsection (a)(4) and (a)(6)” for “subsection (a)(4)”.
 
-Subsec. (d). Pub. L. 109–280, § 854(c)(3), inserted “or special trial judge” after “judge” wherever appearing except after “chief judge” and inserted “or special trial judge’s” after “judge’s”.
+Subsec. (d). Pub. L. 109–280, § 854(c)(3), inserted “or special trial judge” after “judge” wherever appearing except after “chief judge” and inserted “or special trial judge’s” after “judge’s”.
 
-Subsecs. (f) to (h). Pub. L. 109–280, § 854(c)(3)(A), inserted “or special trial judge” after “judge” wherever appearing.
+Subsecs. (f) to (h). Pub. L. 109–280, § 854(c)(3)(A), inserted “or special trial judge” after “judge” wherever appearing.
 
-Subsec (j). Pub. L. 109–280, § 854(c)(3)(A), inserted “or special trial judge” after “judge” wherever appearing except after “chief judge”.
+Subsec (j). Pub. L. 109–280, § 854(c)(3)(A), inserted “or special trial judge” after “judge” wherever appearing except after “chief judge”.
 
-Subsec. (j)(1). Pub. L. 109–280, § 854(c)(5)(B), substituted “paragraphs (8) and (9) of subsection (a)” for “subsections (a)(6) and (7)” in concluding provisions.
+Subsec. (j)(1). Pub. L. 109–280, § 854(c)(5)(B), substituted “paragraphs (8) and (9) of subsection (a)” for “subsections (a)(6) and (7)” in concluding provisions.
 
-Subsec. (j)(1)(A). Pub. L. 109–280, § 854(c)(5)(A), substituted “service, retired from such service under section 7447, or receiving any annuity under chapter 83 or 84 of title 5, United States Code,” for “service or retired from such service under section 7447”.
+Subsec. (j)(1)(A). Pub. L. 109–280, § 854(c)(5)(A), substituted “service, retired from such service under section 7447, or receiving any annuity under chapter 83 or 84 of title 5, United States Code,” for “service or retired from such service under section 7447”.
 
-Subsec. (m). Pub. L. 109–280, § 854(c)(6), inserted “or any annuity under chapter 83 or 84 of title 5, United States Code” after “7447(d)”.
+Subsec. (m). Pub. L. 109–280, § 854(c)(6), inserted “or any annuity under chapter 83 or 84 of title 5, United States Code” after “7447(d)”.
 
-Pub. L. 109–280, § 854(c)(3), inserted “or special trial judge’s” after “judge’s” and “or special trial judge” after “judge” in two places.
+Pub. L. 109–280, § 854(c)(3), inserted “or special trial judge’s” after “judge’s” and “or special trial judge” after “judge” in two places.
 
-Subsec. (n). Pub. L. 109–280, § 854(c)(3)(A), (7), inserted “or special trial judge” after “judge” wherever appearing and “his years of service pursuant to any appointment under section 7443A,” after “of the Tax Court,”.
+Subsec. (n). Pub. L. 109–280, § 854(c)(3)(A), (7), inserted “or special trial judge” after “judge” wherever appearing and “his years of service pursuant to any appointment under section 7443A,” after “of the Tax Court,”.
 
-Subsec. (s). Pub. L. 109–280, § 851(a), amended heading and text of subsec. (s) generally. Prior to amendment, text read as follows: “Whenever the salary of a judge under section 7443(c) is increased, each annuity payable from the survivors annuity fund which is based, in whole or in part, upon a deceased judge having rendered some portion of his or her final 18 months of service as a judge of the Tax Court, shall also be increased. The amount of the increase in such an annuity shall be determined by multiplying the amount of the annuity, on the date on which the increase in salary becomes effective, by 3 percent for each full 5 percent by which such salary has been increased.”
+Subsec. (s). Pub. L. 109–280, § 851(a), amended heading and text of subsec. (s) generally. Prior to amendment, text read as follows: “Whenever the salary of a judge under section 7443(c) is increased, each annuity payable from the survivors annuity fund which is based, in whole or in part, upon a deceased judge having rendered some portion of his or her final 18 months of service as a judge of the Tax Court, shall also be increased. The amount of the increase in such an annuity shall be determined by multiplying the amount of the annuity, on the date on which the increase in salary becomes effective, by 3 percent for each full 5 percent by which such salary has been increased.”
 
-1986—Subsec. (c). Pub. L. 99–514, § 1559(a)(1)(A), (2)(A), substituted “Survivors annuity fund” for “Salary deductions” in heading, inserted par. (1) designation and heading “Salary deductions” before existing text, realigned margin of text and substituted “3.5 percent” for “3 percent”, and added par. (2).
+1986—Subsec. (c). Pub. L. 99–514, § 1559(a)(1)(A), (2)(A), substituted “Survivors annuity fund” for “Salary deductions” in heading, inserted par. (1) designation and heading “Salary deductions” before existing text, realigned margin of text and substituted “3.5 percent” for “3 percent”, and added par. (2).
 
-Subsec. (d). Pub. L. 99–514, § 1559(a)(1)(B), substituted “3.5 percent” for second reference to “3 percent”.
+Subsec. (d). Pub. L. 99–514, § 1559(a)(1)(B), substituted “3.5 percent” for second reference to “3 percent”.
 
-Subsec. (g). Pub. L. 99–514, § 1559(c), struck out “of service” after “Termination” in heading and inserted “or if any judge ceases to be married after making the election under subsection (b) and revokes (in a writing filed as provided in subsection (b)) such election” in text.
+Subsec. (g). Pub. L. 99–514, § 1559(c), struck out “of service” after “Termination” in heading and inserted “or if any judge ceases to be married after making the election under subsection (b) and revokes (in a writing filed as provided in subsection (b)) such election” in text.
 
-Subsec. (h). Pub. L. 99–514, § 1559(a)(2)(B), substituted “subsection (c)(1)” for “subsection (c)” in introductory provisions.
+Subsec. (h). Pub. L. 99–514, § 1559(a)(2)(B), substituted “subsection (c)(1)” for “subsection (c)” in introductory provisions.
 
-Pub. L. 99–514, § 1559(b)(1)(B), substituted “or such surviving spouse’s remarriage before attaining age 55” for “or remarriage” in second sentence.
+Pub. L. 99–514, § 1559(b)(1)(B), substituted “or such surviving spouse’s remarriage before attaining age 55” for “or remarriage” in second sentence.
 
-Subsec. (h)(2). Pub. L. 99–514, § 1559(b)(2)(A), substituted “the lesser of—
+Subsec. (h)(2). Pub. L. 99–514, § 1559(b)(2)(A), substituted “the lesser of—
 
 “(A) 10 percent of the average annual salary of such judge (determined in accordance with subsection (m)), or
 
 “(B) 20 percent of such average annual salary, divided by the number of such children; or” for “one-half the amount of the annuity of such surviving spouse, but not to exceed $4,644 per year divided by the number of such children or $1,548 per year, whichever is lesser; or”.
 
-Subsec. (h)(3). Pub. L. 99–514, § 1559(b)(2)(B), substituted “the lesser of—
+Subsec. (h)(3). Pub. L. 99–514, § 1559(b)(2)(B), substituted “the lesser of—
 
 “(A) 20 percent of the average annual salary of such judge (determined in accordance with subsection (m)), or
 
 “(B) 40 percent of such average annual salary, divided by the number of such children” for “the amount of the annuity to which such surviving spouse would have been entitled under paragraph (2) of this subsection had such spouse survived, but not to exceed $5,580 per year divided by the number of such children or $1,860 per year, whichever is lesser”.
 
-Subsec. (m). Pub. L. 99–514, § 1559(b)(1)(A), substituted “1.5 percent” for “1¼ percent” and “except that such annuity shall not exceed an amount equal to 50 percent of such average annual salary, nor be less than an amount equal to 25 percent of such average annual salary, and shall be further reduced in accordance with subsection (d) (if applicable)” for “but such annuity shall not exceed 40 percent of such average annual salary and shall be further reduced in accordance with subsection (d), if applicable”.
+Subsec. (m). Pub. L. 99–514, § 1559(b)(1)(A), substituted “1.5 percent” for “1¼ percent” and “except that such annuity shall not exceed an amount equal to 50 percent of such average annual salary, nor be less than an amount equal to 25 percent of such average annual salary, and shall be further reduced in accordance with subsection (d) (if applicable)” for “but such annuity shall not exceed 40 percent of such average annual salary and shall be further reduced in accordance with subsection (d), if applicable”.
 
-Pub. L. 99–514, § 1557(c), inserted last sentence.
+Pub. L. 99–514, § 1557(c), inserted last sentence.
 
-1984—Subsec. (h)(2). Pub. L. 98–369,§ 462(a)(1), substituted “$4,644” for “$900” and “$1,548” for “$360”.
+1984—Subsec. (h)(2). Pub. L. 98–369,§ 462(a)(1), substituted “$4,644” for “$900” and “$1,548” for “$360”.
 
-Subsec. (h)(3). Pub. L. 98–369, § 462(a)(2), substituted “$5,580 per year divided by the number of such children or $1,860 per year, whichever is lesser” for “$480 per year”.
+Subsec. (h)(3). Pub. L. 98–369, § 462(a)(2), substituted “$5,580 per year divided by the number of such children or $1,860 per year, whichever is lesser” for “$480 per year”.
 
 Subsec. (p). Pub. L. 98–216 substituted “President” for “Bureau of the Budget”.
 
-1982—Subsec. (m). Pub. L. 97–362, § 105(a), substituted “3 consecutive years” for “5 consecutive years”, and “40 percent” for “37½ percent”.
+1982—Subsec. (m). Pub. L. 97–362, § 105(a), substituted “3 consecutive years” for “5 consecutive years”, and “40 percent” for “37½ percent”.
 
-Subsecs. (s), (t). Pub. L. 97–362, § 105(b), added subsec. (s) and redesignated former subsec. (s) as (t).
+Subsecs. (s), (t). Pub. L. 97–362, § 105(b), added subsec. (s) and redesignated former subsec. (s) as (t).
 
-1976—Pub. L. 94–455, § 1906(a)(46)(F), substituted “surviving spouses” for “widows” in section catchline.
+1976—Pub. L. 94–455, § 1906(a)(46)(F), substituted “surviving spouses” for “widows” in section catchline.
 
-Subsec. (a)(6). Pub. L. 94–455, § 1906(a)(46)(A), substituted “The term ‘surviving spouse’ means a surviving spouse of” for “The term ‘widow’ means a surviving wife of” and “a parent of issue” for “the mother of issue”.
+Subsec. (a)(6). Pub. L. 94–455, § 1906(a)(46)(A), substituted “The term ‘surviving spouse’ means a surviving spouse of” for “The term ‘widow’ means a surviving wife of” and “a parent of issue” for “the mother of issue”.
 
-Subsec. (d). Pub. L. 94–455, § 1906(a)(46)(E), substituted “surviving spouse” for “widow” wherever appearing.
+Subsec. (d). Pub. L. 94–455, § 1906(a)(46)(E), substituted “surviving spouse” for “widow” wherever appearing.
 
-Subsec. (h). Pub. L. 94–455, § 1906(a)(46)(B), (C), substituted “a surviving spouse” for “a widow”, “such surviving spouse” for “such widow”, “surviving spouse’s” for “widow’s”, “surviving spouse” for “surviving widow or widower”, “such spouse” for “she” and “surviving such spouse” for “surviving her”.
+Subsec. (h). Pub. L. 94–455, § 1906(a)(46)(B), (C), substituted “a surviving spouse” for “a widow”, “such surviving spouse” for “such widow”, “surviving spouse’s” for “widow’s”, “surviving spouse” for “surviving widow or widower”, “such spouse” for “she” and “surviving such spouse” for “surviving her”.
 
-Subsecs. (j), (m), (n). Pub. L. 94–455, § 1906(a)(46)(E), substituted “surviving spouse” for “widow” wherever appearing.
+Subsecs. (j), (m), (n). Pub. L. 94–455, § 1906(a)(46)(E), substituted “surviving spouse” for “widow” wherever appearing.
 
-Subsec. (*o*). Pub. L. 94–455, § 1906(a)(46)(C), (D), (E), substituted “surviving spouse” for “widow”, “such spouse” for “she” and “such spouse’s” for “her”.
+Subsec. (*o*). Pub. L. 94–455, § 1906(a)(46)(C), (D), (E), substituted “surviving spouse” for “widow”, “such spouse” for “she” and “such spouse’s” for “her”.
 
-Subsec. (q). Pub. L. 94–455, § 1906(a)(46)(E), substituted “surviving spouse” for “widow”.
+Subsec. (q). Pub. L. 94–455, § 1906(a)(46)(E), substituted “surviving spouse” for “widow”.
 
 1971—Subsec. (m). Pub. L. 92–41 inserted “(whether judge’s salary or compensation for other allowable service)” and “(including periods in which he received retired pay under section 7447(d))” after “average annual salary” and “judicial service”, respectively, and substituted “or for any other prior allowable service during the period of 5 consecutive years in which he received the largest such average annual salary, multiplied by the sum of his years of such judicial service” for “and any other prior allowable service during the last 5 years of such service prior to his death, or prior to his receiving retired pay under section 7447(d), whichever first occurs, multiplied by the sum of his years of judicial service”.
 
-1969—Subsec. (a)(1). Pub. L. 91–172, § 960(c), substituted “United States Tax Court” for “Tax Court of the United States”.
+1969—Subsec. (a)(1). Pub. L. 91–172, § 960(c), substituted “United States Tax Court” for “Tax Court of the United States”.
 
-Subsec. (b). Pub. L. 91–172, § 955(a), substituted provisions authorizing a judge to file notice of election to take benefits relating to survivor annuities while a judge, and if not reappointed, authorizing such election at any time before the day after the day on which his successor takes office, for provisions authorizing a judge to file within 6 months after he takes office or is reappointed, or within 6 months after he becomes eligible for retirement under former section 7447(b) of this title, or within 6 months after Oct. 4, 1961.
+Subsec. (b). Pub. L. 91–172, § 955(a), substituted provisions authorizing a judge to file notice of election to take benefits relating to survivor annuities while a judge, and if not reappointed, authorizing such election at any time before the day after the day on which his successor takes office, for provisions authorizing a judge to file within 6 months after he takes office or is reappointed, or within 6 months after he becomes eligible for retirement under former section 7447(b) of this title, or within 6 months after Oct. 4, 1961.
 
-Subsec. (d). Pub. L. 91–172, § 955(d)(1), (2), substituted “civil service retirement laws” for “Civil Service Retirement Act” and “section 8332 of title 5 of the United States Code” for “section 3 of the Civil Service Retirement Act (5 U.S.C. 2253)”.
+Subsec. (d). Pub. L. 91–172, § 955(d)(1), (2), substituted “civil service retirement laws” for “Civil Service Retirement Act” and “section 8332 of title 5 of the United States Code” for “section 3 of the Civil Service Retirement Act (5 U.S.C. 2253)”.
 
-Subsec. (h). Pub. L. 91–172, § 955(b)(1), substituted “civil service retirement laws” for “Civil Service Retirement Act”.
+Subsec. (h). Pub. L. 91–172, § 955(b)(1), substituted “civil service retirement laws” for “Civil Service Retirement Act”.
 
-Subsec. (m). Pub. L. 91–172, § 955(b)(3), substituted “section 2107 of title 5 of the United States Code” for “section 1(c) of the Civil Service Retirement Act (5 U.S.C. 2251(c))”.
+Subsec. (m). Pub. L. 91–172, § 955(b)(3), substituted “section 2107 of title 5 of the United States Code” for “section 1(c) of the Civil Service Retirement Act (5 U.S.C. 2251(c))”.
 
-Subsec. (n). Pub. L. 91–172, §§ 955(b)(2), 960(e), substituted “section 8332 of title 5 of the United States Code” for “section 3 of the Civil Service Retirement Act (5 U.S.C. 2253)” and inserted reference to service as a judge of the Tax Court of the United States.
+Subsec. (n). Pub. L. 91–172, §§ 955(b)(2), 960(e), substituted “section 8332 of title 5 of the United States Code” for “section 3 of the Civil Service Retirement Act (5 U.S.C. 2253)” and inserted reference to service as a judge of the Tax Court of the United States.
 
-Subsec. (r). Pub. L. 91–172, § 955(b)(1), (4), substituted “civil service retirement laws” for “Civil Service Retirement Act” and substituted “an election filed under section 7447(e)” for “a waiver filed under section 7447(g)(3)”.
+Subsec. (r). Pub. L. 91–172, § 955(b)(1), (4), substituted “civil service retirement laws” for “Civil Service Retirement Act” and substituted “an election filed under section 7447(e)” for “a waiver filed under section 7447(g)(3)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3343,13 +3343,13 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–280, title VIII, § 851(b), Aug. 17, 2006, 120 Stat. 1016, provided that: “The amendment made by this section [amending this section] shall apply with respect to increases made under section 8340(b) of title 5, United States Code, in annuities payable under subchapter III of chapter 83 of that title, taking effect after the date of the enactment of this Act [Aug. 17, 2006].”
+Pub. L. 109–280, title VIII, § 851(b), Aug. 17, 2006, 120 Stat. 1016, provided that: “The amendment made by this section [amending this section] shall apply with respect to increases made under section 8340(b) of title 5, United States Code, in annuities payable under subchapter III of chapter 83 of that title, taking effect after the date of the enactment of this Act [Aug. 17, 2006].”
 
 **Effective Date of 1986 Amendment**
 
 Amendment by section 1557(c) of Pub. L. 99–514 effective Oct. 22, 1986, but not applicable to any individual who, before Oct. 22, 1986, forfeited his rights to retired pay under section 7447(d) of this title by reason of the 1st sentence of section 7447(f) of this title (as in effect on the day before such date), see section 1557(e) of Pub. L. 99–514, set out as a note under section 7447 of this title.
 
-Pub. L. 99–514, title XV, § 1559(d), Oct. 22, 1986, 100 Stat. 2760, provided that:
+Pub. L. 99–514, title XV, § 1559(d), Oct. 22, 1986, 100 Stat. 2760, provided that:
 
 > **“(1) Salary deductions.—**
 
@@ -3373,11 +3373,11 @@ Pub. L. 99–514, title XV, § 1559(d), Oct. 22, 1986, 100 Stat. 2760, provide
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title IV, § 462(b), July 18, 1984, 98 Stat. 824, provided that: “The amendments made by this [sic] subsection (a) [amending this section] shall apply to annuities payable with respect to months beginning after the date of the enactment of this Act [July 18, 1984].”
+Pub. L. 98–369, div. A, title IV, § 462(b), July 18, 1984, 98 Stat. 824, provided that: “The amendments made by this [sic] subsection (a) [amending this section] shall apply to annuities payable with respect to months beginning after the date of the enactment of this Act [July 18, 1984].”
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–362, title I, § 105(d), Oct. 25, 1982, 96 Stat. 1730, provided that:
+Pub. L. 97–362, title I, § 105(d), Oct. 25, 1982, 96 Stat. 1730, provided that:
 
 > **“(1) Subsection (a).—** The amendment made by subsection (a) [amending this section] shall apply to annuities payable with respect to judges dying after the date of the enactment of this Act [Oct. 25, 1982].
 
@@ -3389,7 +3389,7 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 **Effective Date of 1971 Amendment**
 
-Pub. L. 92–41, § 4(c)(2), July 1, 1971, 85 Stat. 99, provided that: “The amendment made by subsection (b) [amending this section] shall apply only with respect to judges of the United States Tax Court dying on or after the date of the enactment of this Act [July 1, 1971].”
+Pub. L. 92–41, § 4(c)(2), July 1, 1971, 85 Stat. 99, provided that: “The amendment made by subsection (b) [amending this section] shall apply only with respect to judges of the United States Tax Court dying on or after the date of the enactment of this Act [July 1, 1971].”
 
 **Effective Date of 1969 Amendment**
 
@@ -3405,9 +3405,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Catchup for Survivors Annuities in Pay Status on October 25, 1982**
 
-Pub. L. 97–362, title I, § 105(c), Oct. 25, 1982, 96 Stat. 1729, as amended by Pub. L. 97–448, title III, § 305(e), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If an annuity payable under section 7448(h) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to entitlement to annuity) to the surviving spouse of a judge of the United States Tax Court is being paid on the date of the enactment of this Act, then the amount of that annuity shall be adjusted, as of the first day of the first month beginning more than 30 days after such date, to reflect the amount of the annuity which would have been payable if the amendment made by subsection (b) applied with respect to increases in the salary of a judge under section 7443(c) of such Code taking effect after December 31, 1963.”
+Pub. L. 97–362, title I, § 105(c), Oct. 25, 1982, 96 Stat. 1729, as amended by Pub. L. 97–448, title III, § 305(e), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If an annuity payable under section 7448(h) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to entitlement to annuity) to the surviving spouse of a judge of the United States Tax Court is being paid on the date of the enactment of this Act, then the amount of that annuity shall be adjusted, as of the first day of the first month beginning more than 30 days after such date, to reflect the amount of the annuity which would have been payable if the amendment made by subsection (b) applied with respect to increases in the salary of a judge under section 7443(c) of such Code taking effect after December 31, 1963.”
 
-[Pub. L. 97–448, title III, § 311(c)(5), Jan. 12, 1983, 96 Stat. 2412, provided that: “The amendment made by subsection (e) of section 305 [amending section 105(c) of Pub. L. 97–362, set out above] shall take effect on the date of the enactment of the Miscellaneous Revenue Act of 1982 [Oct. 25, 1982].” ]
+[Pub. L. 97–448, title III, § 311(c)(5), Jan. 12, 1983, 96 Stat. 2412, provided that: “The amendment made by subsection (e) of section 305 [amending section 105(c) of Pub. L. 97–362, set out above] shall take effect on the date of the enactment of the Miscellaneous Revenue Act of 1982 [Oct. 25, 1982].” ]
 
 ### PART II—PROCEDURE
 
@@ -3415,23 +3415,23 @@ Pub. L. 97–362, title I, § 105(c), Oct. 25, 1982, 96 Stat. 1729, as amended
 
 **Amendments**
 
-2021—Pub. L. 117–58, div. H, title V, § 80503(b)(2), Nov. 15, 2021, 135 Stat. 1336, substituted “Petitions” for “Fee for filing petition” in item 7451.
+2021—Pub. L. 117–58, div. H, title V, § 80503(b)(2), Nov. 15, 2021, 135 Stat. 1336, substituted “Petitions” for “Fee for filing petition” in item 7451.
 
-2015—Pub. L. 114–113, div. Q, title IV, § 431(b), Dec. 18, 2015, 129 Stat. 3125, added item 7466.
+2015—Pub. L. 114–113, div. Q, title IV, § 431(b), Dec. 18, 2015, 129 Stat. 3125, added item 7466.
 
-1998—Pub. L. 105–206, title III, § 3103(b)(2), July 22, 1998, 112 Stat. 731, substituted “$50,000” for “$10,000” in item 7463.
+1998—Pub. L. 105–206, title III, § 3103(b)(2), July 22, 1998, 112 Stat. 731, substituted “$50,000” for “$10,000” in item 7463.
 
-1984—Pub. L. 98–369, div. A, title IV, § 461(a)(2)(B), July 18, 1984, 98 Stat. 823, substituted “$10,000” for “$5,000” in item 7463.
+1984—Pub. L. 98–369, div. A, title IV, § 461(a)(2)(B), July 18, 1984, 98 Stat. 823, substituted “$10,000” for “$5,000” in item 7463.
 
-1980—Pub. L. 96–589, § 6(c)(2), Dec. 24, 1980, 94 Stat. 3407, added item 7464 and redesignated former item 7464 as 7465.
+1980—Pub. L. 96–589, § 6(c)(2), Dec. 24, 1980, 94 Stat. 3407, added item 7464 and redesignated former item 7464 as 7465.
 
-1978—Pub. L. 95–600, title V, § 502(a)(2)(B), Nov. 6, 1978, 92 Stat. 2879, substituted “$5,000” for “$1,500” in item 7463.
+1978—Pub. L. 95–600, title V, § 502(a)(2)(B), Nov. 6, 1978, 92 Stat. 2879, substituted “$5,000” for “$1,500” in item 7463.
 
-1972—Pub. L. 92–512, title II, § 203(b)(3), Oct. 20, 1972, 86 Stat. 945, substituted “$1,500” for “$1,000” in item 7463.
+1972—Pub. L. 92–512, title II, § 203(b)(3), Oct. 20, 1972, 86 Stat. 945, substituted “$1,500” for “$1,000” in item 7463.
 
-1969—Pub. L. 91–172, title IX, § 957(b), Dec. 30, 1969, 83 Stat. 733, added item 7463 and redesignated former item 7463 as 7464.
+1969—Pub. L. 91–172, title IX, § 957(b), Dec. 30, 1969, 83 Stat. 733, added item 7463 and redesignated former item 7463 as 7464.
 
-#### § 7451. Petitions
+#### § 7451. Petitions
 
 **(a) Fees**
 
@@ -3449,15 +3449,15 @@ Notwithstanding any other provision of this title, in any case (including by rea
 
 **(B)** any on-line portal made available by the Tax Court for electronic filing of petitions.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 884; Pub. L. 93–406, title II, § 1041(b)(1), Sept. 2, 1974, 88 Stat. 950; Pub. L. 94–455, title XIII, § 1306(b)(1), Oct. 4, 1976, 90 Stat. 1719; Pub. L. 97–34, title VII, § 751(a), Aug. 13, 1981, 95 Stat. 349; Pub. L. 97–248, title IV, § 402(c)(12), Sept. 3, 1982, 96 Stat. 668; Pub. L. 109–280, title VIII, § 859(a), Aug. 17, 2006, 120 Stat. 1020; Pub. L. 117–58, div. H, title V, § 80503(a), (b)(1), Nov. 15, 2021, 135 Stat. 1336.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 884; Pub. L. 93–406, title II, § 1041(b)(1), Sept. 2, 1974, 88 Stat. 950; Pub. L. 94–455, title XIII, § 1306(b)(1), Oct. 4, 1976, 90 Stat. 1719; Pub. L. 97–34, title VII, § 751(a), Aug. 13, 1981, 95 Stat. 349; Pub. L. 97–248, title IV, § 402(c)(12), Sept. 3, 1982, 96 Stat. 668; Pub. L. 109–280, title VIII, § 859(a), Aug. 17, 2006, 120 Stat. 1020; Pub. L. 117–58, div. H, title V, § 80503(a), (b)(1), Nov. 15, 2021, 135 Stat. 1336.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 117–58, § 80503(b)(1), substituted “Petitions” for “Fee for filing petition” in section catchline.
+2021—Pub. L. 117–58, § 80503(b)(1), substituted “Petitions” for “Fee for filing petition” in section catchline.
 
-Pub. L. 117–58, § 80503(a), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+Pub. L. 117–58, § 80503(a), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 2006—Pub. L. 109–280 struck out “for the redetermination of a deficiency or for a declaratory judgment under part IV of this subchapter or under section 7428 or for judicial review under section 6226 or section 6228(a)” after “petition”.
 
@@ -3473,11 +3473,11 @@ Pub. L. 117–58, § 80503(a), designated existing provisions as subsec. (a), 
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 117–58, div. H, title V, § 80503(c), Nov. 15, 2021, 135 Stat. 1336, provided that: “The amendments made by this section [amending this section] shall apply to petitions required to be timely filed (determined without regard to the amendments made by this section) after the date of enactment of this Act [Nov. 15, 2021].”
+Pub. L. 117–58, div. H, title V, § 80503(c), Nov. 15, 2021, 135 Stat. 1336, provided that: “The amendments made by this section [amending this section] shall apply to petitions required to be timely filed (determined without regard to the amendments made by this section) after the date of enactment of this Act [Nov. 15, 2021].”
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–280, title VIII, § 859(b), Aug. 17, 2006, 120 Stat. 1020, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Aug. 17, 2006].”
+Pub. L. 109–280, title VIII, § 859(b), Aug. 17, 2006, 120 Stat. 1020, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Aug. 17, 2006].”
 
 **Effective Date of 1982 Amendment**
 
@@ -3485,7 +3485,7 @@ Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning 
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–34, title VII, § 751(b), Aug. 13, 1981, 95 Stat. 349, provided that: “The amendment made by this section [amending this section] shall apply to petitions filed after December 31, 1981.”
+Pub. L. 97–34, title VII, § 751(b), Aug. 13, 1981, 95 Stat. 349, provided that: “The amendment made by this section [amending this section] shall apply to petitions filed after December 31, 1981.”
 
 **Effective Date of 1976 Amendment**
 
@@ -3495,11 +3495,11 @@ Amendment by Pub. L. 94–455 applicable with respect to pleadings filed with th
 
 Amendment by Pub. L. 93–406 applicable to pleadings filed more than one year after Sept. 2, 1974, see section 1041(d) of Pub. L. 93–406, set out as an Effective Date note under section 7476 of this title.
 
-#### § 7452. Representation of parties
+#### § 7452. Representation of parties
 
 The Secretary shall be represented by the Chief Counsel for the Internal Revenue Service or his delegate in the same manner before the Tax Court as he has heretofore been represented in proceedings before such Court. The taxpayer shall continue to be represented in accordance with the rules of practice prescribed by the Court. No qualified person shall be denied admission to practice before the Tax Court because of his failure to be a member of any profession or calling.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 884; Pub. L. 86–368, § 2(a), Sept. 22, 1959, 73 Stat. 648; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 884; Pub. L. 86–368, § 2(a), Sept. 22, 1959, 73 Stat. 648; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -3515,11 +3515,11 @@ The Secretary shall be represented by the Chief Counsel for the Internal Revenue
 
 Amendment by Pub. L. 86–368 effective when Chief Counsel for Internal Revenue Service first appointed pursuant to amendment of section 7801 of this title by Pub. L. 86–368 qualifies and takes office, see section 3 of Pub. L. 86–368, set out as a note under section 7801 of this title.
 
-#### § 7453. Rules of practice, procedure, and evidence
+#### § 7453. Rules of practice, procedure, and evidence
 
 Except in the case of proceedings conducted under section 7436(c) or 7463, the proceedings of the Tax Court and its divisions shall be conducted in accordance with such rules of practice and procedure (other than rules of evidence) as the Tax Court may prescribe and in accordance with the Federal Rules of Evidence.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 884; Pub. L. 91–172, title IX, § 960(f), Dec. 30, 1969, 83 Stat. 734; Pub. L. 105–34, title XIV, § 1454(b)(3), Aug. 5, 1997, 111 Stat. 1057; Pub. L. 114–113, div. Q, title IV, § 425(a), Dec. 18, 2015, 129 Stat. 3125.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 884; Pub. L. 91–172, title IX, § 960(f), Dec. 30, 1969, 83 Stat. 734; Pub. L. 105–34, title XIV, § 1454(b)(3), Aug. 5, 1997, 111 Stat. 1057; Pub. L. 114–113, div. Q, title IV, § 425(a), Dec. 18, 2015, 129 Stat. 3125.)
 
 **Editorial Notes**
 
@@ -3539,7 +3539,7 @@ The Federal Rules of Evidence, referred to in text, are set out in the Appendix 
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–113, div. Q, title IV, § 425(b), Dec. 18, 2015, 129 Stat. 3125, provided that: “The amendment made by this section [amending this section] shall apply to proceedings commenced after the date of the enactment of this Act [Dec. 18, 2015] and, to the extent that it is just and practicable, to all proceedings pending on such date.”
+Pub. L. 114–113, div. Q, title IV, § 425(b), Dec. 18, 2015, 129 Stat. 3125, provided that: “The amendment made by this section [amending this section] shall apply to proceedings commenced after the date of the enactment of this Act [Dec. 18, 2015] and, to the extent that it is just and practicable, to all proceedings pending on such date.”
 
 **Effective Date of 1969 Amendment**
 
@@ -3549,7 +3549,7 @@ Amendment by Pub. L. 91–172 effective one year after Dec. 30, 1969, see sectio
 
 Authority of Tax Court to prescribe rules under this section unaffected by amendments of title IV of Pub. L. 100–702, see section 405 of Pub. L. 100–702, set out as a note under section 2071 of Title 28, Judiciary and Judicial Procedure.
 
-#### § 7454. Burden of proof in fraud, foundation man­ager, and transferee cases
+#### § 7454. Burden of proof in fraud, foundation man­ager, and transferee cases
 
 **(a) Fraud**
 
@@ -3563,7 +3563,7 @@ In any proceeding involving the issue whether a foundation manager (as defined i
 
 For provisions relating to burden of proof as to transferee liability, see section 6902(a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 884; Pub. L. 91–172, title I, § 101(j)(57), Dec. 30, 1969, 83 Stat. 532; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–227, § 4(d)(7), Feb. 10, 1978, 92 Stat. 23; Pub. L. 96–222, title I, § 108(b)(3)(B), Apr. 1, 1980, 94 Stat. 226; Pub. L. 100–203, title X, §§ 10712(c)(6), 10714(b), Dec. 22, 1987, 101 Stat. 1330–467, 1330–471; Pub. L. 104–168, title XIII, § 1311(c)(5), July 30, 1996, 110 Stat. 1478; Pub. L. 104–188, title I, § 1704(t)(43), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 115–141, div. U, title IV, § 401(a)(329), Mar. 23, 2018, 132 Stat. 1200.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 884; Pub. L. 91–172, title I, § 101(j)(57), Dec. 30, 1969, 83 Stat. 532; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–227, § 4(d)(7), Feb. 10, 1978, 92 Stat. 23; Pub. L. 96–222, title I, § 108(b)(3)(B), Apr. 1, 1980, 94 Stat. 226; Pub. L. 100–203, title X, §§ 10712(c)(6), 10714(b), Dec. 22, 1987, 101 Stat. 1330–467, 1330–471; Pub. L. 104–168, title XIII, § 1311(c)(5), July 30, 1996, 110 Stat. 1478; Pub. L. 104–188, title I, § 1704(t)(43), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 115–141, div. U, title IV, § 401(a)(329), Mar. 23, 2018, 132 Stat. 1200.)
 
 **Editorial Notes**
 
@@ -3575,9 +3575,9 @@ For provisions relating to burden of proof as to transferee liability, see secti
 
 Pub. L. 104–168 inserted “or whether an organization manager (as defined in section 4958(f)(2)) has ‘knowingly’ participated in an excess benefit transaction (as defined in section 4958(c)),” after “section 4912(b),”.
 
-1987—Subsec. (b). Pub. L. 100–203, § 10714(b), substituted “, or whether an organization manager (as defined in section 4912(d)(2)) has ‘knowingly’ agreed to the making of disqualifying lobbying expenditures within the meaning of section 4912(b), the burden of proof” for “the burden of proof”.
+1987—Subsec. (b). Pub. L. 100–203, § 10714(b), substituted “, or whether an organization manager (as defined in section 4912(d)(2)) has ‘knowingly’ agreed to the making of disqualifying lobbying expenditures within the meaning of section 4912(b), the burden of proof” for “the burden of proof”.
 
-Pub. L. 100–203, § 10712(c)(6), substituted “or whether an organization manager (as defined in section 4955(e)(2)) has ‘knowingly’ agreed to the making of a political expenditure (within the meaning of section 4955), the burden of proof” for “the burden of proof”.
+Pub. L. 100–203, § 10712(c)(6), substituted “or whether an organization manager (as defined in section 4955(e)(2)) has ‘knowingly’ agreed to the making of a political expenditure (within the meaning of section 4955), the burden of proof” for “the burden of proof”.
 
 1980—Subsec. (b). Pub. L. 96–222 substituted “section 501(c)(21)” for “section 502(c)(21)”.
 
@@ -3585,7 +3585,7 @@ Pub. L. 100–203, § 10712(c)(6), substituted “or whether an organization m
 
 1976—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1969—Pub. L. 91–172 inserted “, foundation manager” in section catchline.
+1969—Pub. L. 91–172 inserted “, foundation manager” in section catchline.
 
 Subsecs (b), (c). Pub. L. 91–172 added subsec. (b) and redesignated former subsec. (b) as (c).
 
@@ -3613,11 +3613,11 @@ Amendment by Pub. L. 95–227 applicable with respect to contributions, acts, an
 
 Amendment by Pub. L. 91–172 effective Jan. 1, 1970, see section 101(k)(1) of Pub. L. 91–172, set out as an Effective Date note under section 4940 of this title.
 
-#### § 7455. Service of process
+#### § 7455. Service of process
 
 The mailing by certified mail or registered mail of any pleading, decision, order, notice, or process in respect of proceedings before the Tax Court shall be held sufficient service of such pleading, decision, order, notice, or process.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 884; Pub. L. 85–866, title I, § 89(b), Sept. 2, 1958, 72 Stat. 1665.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 884; Pub. L. 85–866, title I, § 89(b), Sept. 2, 1958, 72 Stat. 1665.)
 
 **Editorial Notes**
 
@@ -3631,7 +3631,7 @@ The mailing by certified mail or registered mail of any pleading, decision, orde
 
 Amendment by Pub. L. 85–866 applicable only if mailing occurs after Sept. 2, 1958, see section 89(d) of Pub. L. 85–866, set out as a note under section 7502 of this title.
 
-#### § 7456. Administration of oaths and procurement of testimony
+#### § 7456. Administration of oaths and procurement of testimony
 
 **(a) In general** For the efficient administration of the functions vested in the Tax Court or any division thereof, any judge or special trial judge of the Tax Court, the clerk of the court or his deputies, as such, or any other employee of the Tax Court designated in writing for the purpose by the chief judge, may administer oaths, and any judge or special trial judge of the Tax Court may examine witnesses and require, by subpoena ordered by the Tax Court or any division thereof and signed by the judge or special trial judge (or by the clerk of the Tax Court or by any other employee of the Tax Court when acting as deputy clerk)—
 
@@ -3653,7 +3653,7 @@ The Tax Court or any division thereof, upon motion and notice by the Secretary, 
 
 It shall have such assistance in the carrying out of its lawful writ, process, order, rule, decree, or command as is available to a court of the United States. The United States marshal for any district in which the Tax Court is sitting shall, when requested by the chief judge of the Tax Court, attend any session of the Tax Court in such district and may otherwise provide, when requested by the chief judge of the Tax Court, for the security of the Tax Court, including the personal protection of Tax Court judges, court officers, witnesses, and other threatened persons in the interests of justice, where criminal intimidation impedes on the functioning of the judicial process or any other official proceeding. The United States Marshals Service retains final authority regarding security requirements for the Tax Court.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 885; Pub. L. 91–172, title IX, §§ 956, 958, Dec. 30, 1969, 83 Stat. 732, 734; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title III, § 336(b)(1), title V, § 502(c), Nov. 6, 1978, 92 Stat. 2841, 2879; Pub. L. 96–222, title I, § 105(a)(1)(B), Apr. 1, 1980, 94 Stat. 218; Pub. L. 97–164, title I, § 153(a), Apr. 2, 1982, 96 Stat. 47; Pub. L. 97–248, title IV, § 402(c)(13), Sept. 3, 1982, 96 Stat. 668; Pub. L. 97–362, title I, § 106(c), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 98–369, div. A, title IV, §§ 463(a), 464(a)–(c), July 18, 1984, 98 Stat. 824; Pub. L. 99–514, title XV, §§ 1555(a), 1556(b)(1), Oct. 22, 1986, 100 Stat. 2754, 2755; Pub. L. 110–177, title I, § 102(b), Jan. 7, 2008, 121 Stat. 2535.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 885; Pub. L. 91–172, title IX, §§ 956, 958, Dec. 30, 1969, 83 Stat. 732, 734; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title III, § 336(b)(1), title V, § 502(c), Nov. 6, 1978, 92 Stat. 2841, 2879; Pub. L. 96–222, title I, § 105(a)(1)(B), Apr. 1, 1980, 94 Stat. 218; Pub. L. 97–164, title I, § 153(a), Apr. 2, 1982, 96 Stat. 47; Pub. L. 97–248, title IV, § 402(c)(13), Sept. 3, 1982, 96 Stat. 668; Pub. L. 97–362, title I, § 106(c), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 98–369, div. A, title IV, §§ 463(a), 464(a)–(c), July 18, 1984, 98 Stat. 824; Pub. L. 99–514, title XV, §§ 1555(a), 1556(b)(1), Oct. 22, 1986, 100 Stat. 2754, 2755; Pub. L. 110–177, title I, § 102(b), Jan. 7, 2008, 121 Stat. 2535.)
 
 **Editorial Notes**
 
@@ -3661,55 +3661,55 @@ It shall have such assistance in the carrying out of its lawful writ, process, o
 
 2008—Subsec. (c). Pub. L. 110–177 inserted before period at end of concluding provisions “and may otherwise provide, when requested by the chief judge of the Tax Court, for the security of the Tax Court, including the personal protection of Tax Court judges, court officers, witnesses, and other threatened persons in the interests of justice, where criminal intimidation impedes on the functioning of the judicial process or any other official proceeding. The United States Marshals Service retains final authority regarding security requirements for the Tax Court”.
 
-1986—Subsec. (c). Pub. L. 99–514, § 1556(b)(1), redesignated subsec. (e) as (c). Former subsec. (c), which provided for the appointment of special trial judges, was struck out.
+1986—Subsec. (c). Pub. L. 99–514, § 1556(b)(1), redesignated subsec. (e) as (c). Former subsec. (c), which provided for the appointment of special trial judges, was struck out.
 
-Pub. L. 99–514, § 1555(a), inserted last sentence.
+Pub. L. 99–514, § 1555(a), inserted last sentence.
 
-Subsec. (d). Pub. L. 99–514, § 1556(b)(1), struck out subsec. (d) which set out proceedings which could be assigned to special trial judges appointed under former subsec. (c).
+Subsec. (d). Pub. L. 99–514, § 1556(b)(1), struck out subsec. (d) which set out proceedings which could be assigned to special trial judges appointed under former subsec. (c).
 
-Subsec. (e). Pub. L. 99–514, § 1556(b)(1), redesignated subsec. (e) as (c).
+Subsec. (e). Pub. L. 99–514, § 1556(b)(1), redesignated subsec. (e) as (c).
 
-1984—Subsec. (a). Pub. L. 98–369, § 464(a), substituted “special trial judge” for “commissioner” in three places.
+1984—Subsec. (a). Pub. L. 98–369, § 464(a), substituted “special trial judge” for “commissioner” in three places.
 
-Subsec. (c). Pub. L. 98–369, § 464(b), substituted “Special trial judges” for “Commissioners” in heading, and in text substituted “special trial judges” for “commissioners” and “special trial judge” for “commissioner”.
+Subsec. (c). Pub. L. 98–369, § 464(b), substituted “Special trial judges” for “Commissioners” in heading, and in text substituted “special trial judges” for “commissioners” and “special trial judge” for “commissioner”.
 
-Subsec. (d). Pub. L. 98–369, § 464(c), substituted “Special trial judges” for “Commissioners” in heading, and substituted “special trial judges” for “commissioners” and “special trial judge” for “commissioner” in provisions following par. (4).
+Subsec. (d). Pub. L. 98–369, § 464(c), substituted “Special trial judges” for “Commissioners” in heading, and substituted “special trial judges” for “commissioners” and “special trial judge” for “commissioner” in provisions following par. (4).
 
-Pub. L. 98–369, § 463(a), in amending subsec. (d) generally, struck out “and” at end of par. (2), substituted “any proceeding” for “any other proceeding” and “$10,000; and” for “$5,000,” in par. (3), added par. (4), and substituted “any proceeding described in paragraph (1), (2), or (3), subject to such conditions and review as the court may provide” for “any such proceeding, subject to such conditions and review as the court may by rule provide” in provisions following par. (4).
+Pub. L. 98–369, § 463(a), in amending subsec. (d) generally, struck out “and” at end of par. (2), substituted “any proceeding” for “any other proceeding” and “$10,000; and” for “$5,000,” in par. (3), added par. (4), and substituted “any proceeding described in paragraph (1), (2), or (3), subject to such conditions and review as the court may provide” for “any such proceeding, subject to such conditions and review as the court may by rule provide” in provisions following par. (4).
 
-1982—Subsec. (c). Pub. L. 97–362, § 106(c)(2), struck out provision that the chief judge may assign proceedings under sections 6226, 6228(a), 7428, 7463, 7476, 7477, and 7478 to be heard by the commissioners of the court, and that the court may authorize a commissioner to make the decision of the court with respect to such proceedings, subject to such conditions and review as the court may by rule provide. See subsec. (d) of this section.
+1982—Subsec. (c). Pub. L. 97–362, § 106(c)(2), struck out provision that the chief judge may assign proceedings under sections 6226, 6228(a), 7428, 7463, 7476, 7477, and 7478 to be heard by the commissioners of the court, and that the court may authorize a commissioner to make the decision of the court with respect to such proceedings, subject to such conditions and review as the court may by rule provide. See subsec. (d) of this section.
 
 Pub. L. 97–248 inserted “6226, 6228(a),” after “proceedings under sections”.
 
 Pub. L. 97–164 substituted “Each commissioner shall receive pay at an annual rate determined under section 225 of the Federal Salary Act of 1967 (2 U.S.C. 351–361), as adjusted by section 461 of title 28, United States Code, and also necessary traveling expenses and per diem allowances, as provided in subchapter I of chapter 57 of title 5, United States Code, while traveling on official business and away from Washington, District of Columbia” for “Each commissioner shall receive the same compensation and travel and subsistence allowances provided by law for commissioners of the United States Court of Claims”.
 
-Subsecs. (d), (e). Pub. L. 97–362, § 106(c)(1), added subsec. (d) and redesignated former subsec. (d) as (e).
+Subsecs. (d), (e). Pub. L. 97–362, § 106(c)(1), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1980—Subsec. (c). Pub. L. 96–222 substituted “sections 7428, 7463” for “sections 7428”.
 
-1978—Subsec. (a). Pub. L. 95–600, § 502(c), substituted “any judge or commissioner of the Tax Court” for “any judge of the Tax Court” wherever appearing, and “by the judge or commissioner” for “by the judge” after “and signed”.
+1978—Subsec. (a). Pub. L. 95–600, § 502(c), substituted “any judge or commissioner of the Tax Court” for “any judge of the Tax Court” wherever appearing, and “by the judge or commissioner” for “by the judge” after “and signed”.
 
-Subsec. (c). Pub. L. 95–600, § 336(b)(1), inserted provision that the chief judge may assign proceedings under sections 7428, 7476, 7477, and 7478 to be heard by the commissioners of the court, and the court may authorize a commissioner to make the decision of the court with respect to such proceedings, subject to such conditions and review as the court may by rule provide.
+Subsec. (c). Pub. L. 95–600, § 336(b)(1), inserted provision that the chief judge may assign proceedings under sections 7428, 7476, 7477, and 7478 to be heard by the commissioners of the court, and the court may authorize a commissioner to make the decision of the court with respect to such proceedings, subject to such conditions and review as the court may by rule provide.
 
 1976—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1969—Subsec. (c). Pub. L. 91–172, § 958, provided that commissioners be compensated at rates identical to those of commissioners of the United States Court of Claims, and substituted provisions authorizing the chief judge of the Tax Court to appoint Commissioners for provisions authorizing attorneys from the legal staff of the Tax Court to act as Commissioners.
+1969—Subsec. (c). Pub. L. 91–172, § 958, provided that commissioners be compensated at rates identical to those of commissioners of the United States Court of Claims, and substituted provisions authorizing the chief judge of the Tax Court to appoint Commissioners for provisions authorizing attorneys from the legal staff of the Tax Court to act as Commissioners.
 
-Subsec. (d). Pub. L. 91–172, § 956, added subsec. (d).
+Subsec. (d). Pub. L. 91–172, § 956, added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–514, title XV, § 1555(b), Oct. 22, 1986, 100 Stat. 2754, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Oct. 22, 1986].”
+Pub. L. 99–514, title XV, § 1555(b), Oct. 22, 1986, 100 Stat. 2754, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Oct. 22, 1986].”
 
 Amendment by section 1556(b)(1) of Pub. L. 99–514 effective Oct. 22, 1986, except as otherwise provided, see section 1556(c) of Pub. L. 99–514, set out as an Effective Date note under section 7443A of this title.
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title IV, § 463(b), July 18, 1984, 98 Stat. 824, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if enacted as part of the Miscellaneous Revenue Act of 1982 [Pub. L. 97–362].”
+Pub. L. 98–369, div. A, title IV, § 463(b), July 18, 1984, 98 Stat. 824, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if enacted as part of the Miscellaneous Revenue Act of 1982 [Pub. L. 97–362].”
 
-Pub. L. 98–369, div. A, title IV, § 464(e)(1), July 18, 1984, 98 Stat. 825, provided that: “The amendments made by this section [amending this section and section 7471 of this title and enacting provisions set out below] shall take effect on the date of the enactment of this Act [July 18, 1984].”
+Pub. L. 98–369, div. A, title IV, § 464(e)(1), July 18, 1984, 98 Stat. 825, provided that: “The amendments made by this section [amending this section and section 7471 of this title and enacting provisions set out below] shall take effect on the date of the enactment of this Act [July 18, 1984].”
 
 **Effective Date of 1982 Amendments**
 
@@ -3719,7 +3719,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–222, title I, § 105(b)(1), Apr. 1, 1980, 94 Stat. 221, provided that: “The amendments made by subsection (a)(1) [amending this section and section 7463 of this title] shall take effect on the date of the enactment of this Act [Apr. 1, 1980].”
+Pub. L. 96–222, title I, § 105(b)(1), Apr. 1, 1980, 94 Stat. 221, provided that: “The amendments made by subsection (a)(1) [amending this section and section 7463 of this title] shall take effect on the date of the enactment of this Act [Apr. 1, 1980].”
 
 **Effective Date of 1978 Amendment**
 
@@ -3733,17 +3733,17 @@ Amendment by Pub. L. 91–172 effective Dec. 30, 1969, see section 962(a) of Pub
 
 **Reimbursement**
 
-Pub. L. 110–177, title I, § 102(c), Jan. 7, 2008, 121 Stat. 2535, provided that: “The United States Tax Court shall reimburse the United States Marshals Service for protection provided under the amendments made by this section [amending this section and section 566 of Title 28, Judiciary and Judicial Procedure].”
+Pub. L. 110–177, title I, § 102(c), Jan. 7, 2008, 121 Stat. 2535, provided that: “The United States Tax Court shall reimburse the United States Marshals Service for protection provided under the amendments made by this section [amending this section and section 566 of Title 28, Judiciary and Judicial Procedure].”
 
 **References to Commissioners Deemed References to Special Trial Judges**
 
-Pub. L. 98–369, div. A, title IV, § 464(e)(2), July 18, 1984, 98 Stat. 825, provided that: “Any reference in any law to a commissioner of the Tax Court shall be treated as a reference to a special trial judge of the Tax Court.”
+Pub. L. 98–369, div. A, title IV, § 464(e)(2), July 18, 1984, 98 Stat. 825, provided that: “Any reference in any law to a commissioner of the Tax Court shall be treated as a reference to a special trial judge of the Tax Court.”
 
 **Commissioners’ Salaries Pending Changes Under Federal Salary Act**
 
-Pub. L. 97–164, title I, § 153(b), Apr. 2, 1982, 96 Stat. 47, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Notwithstanding the amendment made by subsection (a) [amending this section], until such time as a change in the salary rate of a commissioner of the United States Tax Court occurs in accordance with section 7456(c) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], the salary of such commissioner shall be equal to the salary of a commissioner of the Court of Claims immediately prior to the effective date of this Act [Oct. 1, 1982].”
+Pub. L. 97–164, title I, § 153(b), Apr. 2, 1982, 96 Stat. 47, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Notwithstanding the amendment made by subsection (a) [amending this section], until such time as a change in the salary rate of a commissioner of the United States Tax Court occurs in accordance with section 7456(c) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], the salary of such commissioner shall be equal to the salary of a commissioner of the Court of Claims immediately prior to the effective date of this Act [Oct. 1, 1982].”
 
-#### § 7457. Witness fees
+#### § 7457. Witness fees
 
 **(a) Amount**
 
@@ -3759,7 +3759,7 @@ In the case of witnesses for the Secretary, such payments shall be made by the S
 
 In the case of any other witnesses, such payments shall be made, subject to rules prescribed by the Tax Court, by the party at whose instance the witness appears or the deposition is taken.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 886; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 886; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -3767,11 +3767,11 @@ In the case of any other witnesses, such payments shall be made, subject to rule
 
 1976—Subsec. (b)(1). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-#### § 7458. Hearings
+#### § 7458. Hearings
 
 Notice and opportunity to be heard upon any proceeding instituted before the Tax Court shall be given to the taxpayer and the Secretary. If an opportunity to be heard upon the proceeding is given before a division of the Tax Court, neither the taxpayer nor the Secretary shall be entitled to notice and opportunity to be heard before the Tax Court upon review, except upon a specific order of the chief judge. Hearings before the Tax Court and its divisions shall be open to the public, and the testimony, and, if the Tax Court so requires, the argument, shall be stenographically reported. The Tax Court is authorized to contract (by renewal of contract or otherwise) for the reporting of such hearings, and in such contract to fix the terms and conditions under which transcripts will be supplied by the contractor to the Tax Court and to other persons and agencies.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 886; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), (L), Oct. 4, 1976, 90 Stat. 1834, 1835.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 886; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), (L), Oct. 4, 1976, 90 Stat. 1834, 1835.)
 
 **Editorial Notes**
 
@@ -3779,7 +3779,7 @@ Notice and opportunity to be heard upon any proceeding instituted before the Tax
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” and struck out “nor his delegate” after “nor the Secretary”.
 
-#### § 7459. Reports and decisions
+#### § 7459. Reports and decisions
 
 **(a) Requirement**
 
@@ -3809,7 +3809,7 @@ The findings of the Board of Tax Appeals made in connection with any decision pr
 
 For penalty for taxpayer instituting proceedings before Tax Court merely for delay, see section 6673.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 886; Pub. L. 93–406, title II, § 1041(b)(2), Sept. 2, 1974, 88 Stat. 950; Pub. L. 94–455, title XIII, § 1306(b)(2), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1719, 1834; Pub. L. 97–248, title IV, § 402(c)(14), Sept. 3, 1982, 96 Stat. 668; Pub. L. 97–362, title I, § 106(b), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 105–34, title XII, §§ 1222(b)(2), 1239(e)(1), Aug. 5, 1997, 111 Stat. 1019, 1028; Pub. L. 114–74, title XI, § 1101(f)(12), Nov. 2, 2015, 129 Stat. 638.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 886; Pub. L. 93–406, title II, § 1041(b)(2), Sept. 2, 1974, 88 Stat. 950; Pub. L. 94–455, title XIII, § 1306(b)(2), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1719, 1834; Pub. L. 97–248, title IV, § 402(c)(14), Sept. 3, 1982, 96 Stat. 668; Pub. L. 97–362, title I, § 106(b), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 105–34, title XII, §§ 1222(b)(2), 1239(e)(1), Aug. 5, 1997, 111 Stat. 1019, 1028; Pub. L. 114–74, title XI, § 1101(f)(12), Nov. 2, 2015, 129 Stat. 638.)
 
 **Editorial Notes**
 
@@ -3821,9 +3821,9 @@ The Revenue Act of 1926, referred to in subsec. (f), is act Feb. 26, 1926, ch. 2
 
 2015—Subsec. (c). Pub. L. 114–74 substituted “section 6234” for “section 6226, 6228(a), 6247, or 6252”.
 
-1997—Subsec. (c). Pub. L. 105–34, § 1239(e)(1), which directed the amendment of subsec. (c) by substituting “, 6228(a), or 6234(c)” for “or section 6228(a)” could not be executed because the words “or section 6228(a)” did not appear in text subsequent to amendment by Pub. L. 105–34, § 1222(b)(2). See below.
+1997—Subsec. (c). Pub. L. 105–34, § 1239(e)(1), which directed the amendment of subsec. (c) by substituting “, 6228(a), or 6234(c)” for “or section 6228(a)” could not be executed because the words “or section 6228(a)” did not appear in text subsequent to amendment by Pub. L. 105–34, § 1222(b)(2). See below.
 
-Pub. L. 105–34, § 1222(b)(2), substituted “, 6228(a), 6247, or 6252” for “or section 6228(a)”.
+Pub. L. 105–34, § 1222(b)(2), substituted “, 6228(a), 6247, or 6252” for “or section 6228(a)”.
 
 1982—Subsec. (b). Pub. L. 97–362 inserted provision that subject to such conditions as the Tax Court may by rule provide, the requirements of subsec. (b) and of section 7460 of this title are met if findings of fact or opinion are stated orally and recorded in the transcript of the proceedings.
 
@@ -3831,7 +3831,7 @@ Subsec. (c). Pub. L. 97–248 inserted “or in the case of an action brought un
 
 1976—Subsec. (c). Pub. L. 94–455 inserted “or under section 7428” after “under part IV of this subchapter” and struck out “or his delegate” after “Secretary”.
 
-Subsec. (d). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (d). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 1974—Subsec. (c). Pub. L. 93–406 inserted “or, in the case of a declaratory judgment proceeding under part IV of this subchapter, the date of the court’s order entering the decision” after “deficiency is entered in the records of the Tax Court”.
 
@@ -3859,7 +3859,7 @@ Amendment by section 1306(b)(2) of Pub. L. 94–455 applicable with respect to p
 
 Amendment by Pub. L. 93–406 applicable to pleadings filed more than one year after Sept. 2, 1974, see section 1041(d) of Pub. L. 93–406, set out as an Effective Date note under section 7476 of this title.
 
-#### § 7460. Provisions of special application to divisions
+#### § 7460. Provisions of special application to divisions
 
 **(a) Hearings, determinations, and reports**
 
@@ -3871,7 +3871,7 @@ The report of the division shall become the report of the Tax Court within 30 da
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 887.)
 
-#### § 7461. Publicity of proceedings
+#### § 7461. Publicity of proceedings
 
 **(a) General rule**
 
@@ -3887,7 +3887,7 @@ The Tax Court may make any provision which is necessary to prevent the disclosur
 
 After the decision of the Tax Court in any proceeding has become final, the Tax Court may, upon motion of the taxpayer or the Secretary, permit the withdrawal by the party entitled thereto of originals of books, documents, and records, and of models, diagrams, and other exhibits, introduced in evidence before the Tax Court or any division; or the Tax Court may, on its own motion, make such other disposition thereof as it deems advisable.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 887; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, § 465(a), July 18, 1984, 98 Stat. 825.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 887; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title IV, § 465(a), July 18, 1984, 98 Stat. 825.)
 
 **Editorial Notes**
 
@@ -3901,13 +3901,13 @@ After the decision of the Tax Court in any proceeding has become final, the Tax 
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title IV, § 465(b), July 18, 1984, 98 Stat. 825, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [July 18, 1984].”
+Pub. L. 98–369, div. A, title IV, § 465(b), July 18, 1984, 98 Stat. 825, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [July 18, 1984].”
 
-#### § 7462. Publication of reports
+#### § 7462. Publication of reports
 
 The Tax Court shall provide for the publication of its reports at the Government Publishing Office in such form and manner as may be best adapted for public information and use, and such authorized publication shall be competent evidence of the reports of the Tax Court therein contained in all courts of the United States and of the several States without any further proof or authentication thereof. Such reports shall be subject to sale in the same manner and upon the same terms as other public documents.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 887; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 887; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3915,7 +3915,7 @@ The Tax Court shall provide for the publication of its reports at the Government
 
 “Government Publishing Office” substituted for “Government Printing Office” in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 
-#### § 7463. Disputes involving $50,000 or less
+#### § 7463. Disputes involving $50,000 or less
 
 **(a) In general** In the case of any petition filed with the Tax Court for a redetermination of a deficiency where neither the amount of the deficiency placed in dispute, nor the amount of any claimed overpayment, exceeds—
 
@@ -3953,7 +3953,7 @@ For purposes of this section, the amount of any deficiency placed in dispute inc
 
 **(3)** a petition to the Tax Court under section 6404(h) in which the amount of the abatement sought does not exceed $50,000.
 
-(Added Pub. L. 91–172, title IX, § 957(a), Dec. 30, 1969, 83 Stat. 733; amended Pub. L. 92–512, title II, § 203(b)(1), (2), Oct. 20, 1972, 86 Stat. 945; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title V, § 502(a)(1), (2)(A), (b), Nov. 6, 1978, 92 Stat. 2879; Pub. L. 96–222, title I, § 105(a)(1)(A), Apr. 1, 1980, 94 Stat. 218; Pub. L. 97–362, title I, § 106(a)(1), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 98–369, div. A, title IV, § 461(a)(1), (2)(A), July 18, 1984, 98 Stat. 823; Pub. L. 101–508, title XI, § 11801(c)(21)(B), Nov. 5, 1990, 104 Stat. 1388–528; Pub. L. 105–206, title III, § 3103(a), July 22, 1998, 112 Stat. 731; Pub. L. 106–554, § 1(a)(7) [title III, § 313(b)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–642; Pub. L. 114–113, div. Q, title IV, § 422(a), Dec. 18, 2015, 129 Stat. 3123.)
+(Added Pub. L. 91–172, title IX, § 957(a), Dec. 30, 1969, 83 Stat. 733; amended Pub. L. 92–512, title II, § 203(b)(1), (2), Oct. 20, 1972, 86 Stat. 945; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title V, § 502(a)(1), (2)(A), (b), Nov. 6, 1978, 92 Stat. 2879; Pub. L. 96–222, title I, § 105(a)(1)(A), Apr. 1, 1980, 94 Stat. 218; Pub. L. 97–362, title I, § 106(a)(1), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 98–369, div. A, title IV, § 461(a)(1), (2)(A), July 18, 1984, 98 Stat. 823; Pub. L. 101–508, title XI, § 11801(c)(21)(B), Nov. 5, 1990, 104 Stat. 1388–528; Pub. L. 105–206, title III, § 3103(a), July 22, 1998, 112 Stat. 731; Pub. L. 106–554, § 1(a)(7) [title III, § 313(b)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–642; Pub. L. 114–113, div. Q, title IV, § 422(a), Dec. 18, 2015, 129 Stat. 3123.)
 
 **Editorial Notes**
 
@@ -3971,33 +3971,33 @@ A prior section 7463 was renumbered section 7465 of this title.
 
 1990—Subsec. (f). Pub. L. 101–508 struck out subsec. (f) “Qualified State individual income taxes” which read as follows: “For purposes of this section, a deficiency placed in dispute or claimed overpayment with regard to a qualified State individual income tax to which subchapter E of chapter 64 applies, for a taxable year, shall be treated as a portion of a deficiency placed in dispute or claimed overpayment of the income tax for that taxable year.”
 
-1984—Pub. L. 98–369, § 461(a)(2)(A), substituted “$10,000” for “$5,000” in section catchline.
+1984—Pub. L. 98–369, § 461(a)(2)(A), substituted “$10,000” for “$5,000” in section catchline.
 
-Subsec. (a). Pub. L. 98–369, § 461(a)(1), substituted “$10,000” for “$5,000” in pars. (1) to (4).
+Subsec. (a). Pub. L. 98–369, § 461(a)(1), substituted “$10,000” for “$5,000” in pars. (1) to (4).
 
 1982—Section (a)(4). Pub. L. 97–362 added par. (4).
 
 1980—Subsec. (g). Pub. L. 96–222 struck out subsec. (g) which authorized the chief judge of the Tax Court to assign proceedings conducted under this section to be heard by the Commissioners of the court.
 
-1978—Pub. L. 95–600, § 502(a)(2)(A), substituted “$5,000” for “$1,500” in section catchline.
+1978—Pub. L. 95–600, § 502(a)(2)(A), substituted “$5,000” for “$1,500” in section catchline.
 
-Subsec. (a). Pub. L. 95–600, § 502(a)(1), “$5,000 for any one taxable year, in the case of the taxes imposed by subtitle A” for “$1,500 for any one taxable year, in the case of the taxes imposed by subtitle A and chapter 12, or” in par. (1), “$5,000, in the case of the tax imposed by chapter 11, or” for “$1,500 in the case of the tax imposed by chapter 11,” in par. (2), and added par. (3).
+Subsec. (a). Pub. L. 95–600, § 502(a)(1), “$5,000 for any one taxable year, in the case of the taxes imposed by subtitle A” for “$1,500 for any one taxable year, in the case of the taxes imposed by subtitle A and chapter 12, or” in par. (1), “$5,000, in the case of the tax imposed by chapter 11, or” for “$1,500 in the case of the tax imposed by chapter 11,” in par. (2), and added par. (3).
 
-Subsec. (g). Pub. L. 95–600, § 502(b), added subsec. (g).
+Subsec. (g). Pub. L. 95–600, § 502(b), added subsec. (g).
 
 1976—Subsec, (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-1972—Pub. L. 92–512, § 203(b)(2), substituted “$1,500” for “$1,000” in section catchline.
+1972—Pub. L. 92–512, § 203(b)(2), substituted “$1,500” for “$1,000” in section catchline.
 
-Subsec. (a)(1), (2). Pub. L. 92–512, § 203(b)(2), substituted “$1,500” for “$1,000”.
+Subsec. (a)(1), (2). Pub. L. 92–512, § 203(b)(2), substituted “$1,500” for “$1,000”.
 
-Subsec. (f). Pub. L. 92–512, § 203(b)(1), added subsec. (f).
+Subsec. (f). Pub. L. 92–512, § 203(b)(1), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–113, div. Q, title IV, § 422(b), Dec. 18, 2015, 129 Stat. 3123, provided that: “The amendments made by this section [amending this section] shall apply to cases pending as of the day after the date of the enactment of this Act [Dec. 18, 2015], and cases commenced after such date of enactment.”
+Pub. L. 114–113, div. Q, title IV, § 422(b), Dec. 18, 2015, 129 Stat. 3123, provided that: “The amendments made by this section [amending this section] shall apply to cases pending as of the day after the date of the enactment of this Act [Dec. 18, 2015], and cases commenced after such date of enactment.”
 
 **Effective Date of 1998 Amendment**
 
@@ -4005,11 +4005,11 @@ Amendment by Pub. L. 105–206 applicable to proceedings commenced after July 22
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title IV, § 461(b), July 18, 1984, 98 Stat. 823, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [July 18, 1984].”
+Pub. L. 98–369, div. A, title IV, § 461(b), July 18, 1984, 98 Stat. 823, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [July 18, 1984].”
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–362, title I, § 106(a)(2), Oct. 25, 1982, 96 Stat. 1730, provided that: “The amendment made by this subsection [amending this section] shall apply with respect to petitions filed after the date of the enactment of this Act [Oct. 25, 1982].”
+Pub. L. 97–362, title I, § 106(a)(2), Oct. 25, 1982, 96 Stat. 1730, provided that: “The amendment made by this subsection [amending this section] shall apply with respect to petitions filed after the date of the enactment of this Act [Oct. 25, 1982].”
 
 **Effective Date of 1980 Amendment**
 
@@ -4017,7 +4017,7 @@ Amendment by Pub. L. 96–222 effective Apr. 1, 1980, see section 105(b)(1) of P
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–600, title V, § 502(d), Nov. 6, 1978, 92 Stat. 2879, provided that:
+Pub. L. 95–600, title V, § 502(d), Nov. 6, 1978, 92 Stat. 2879, provided that:
 
 > **“(1) Subsection (a).—** The amendments made by subsection (a) [amending this section] shall take effect on the first day of the first calendar month beginning more than 180 days after the date of the enactment of this Act [Nov. 6, 1978].
 
@@ -4025,7 +4025,7 @@ Pub. L. 95–600, title V, § 502(d), Nov. 6, 1978, 92 Stat. 2879, provided th
 
 **Effective Date of 1972 Amendment**
 
-Pub. L. 92–512, title II, § 204, Oct. 20, 1972, 86 Stat. 945, as amended by Pub. L. 94–455, title XXI, § 2116(a), Oct. 4, 1976, 90 Stat. 1910; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 92–512, title II, § 204, Oct. 20, 1972, 86 Stat. 945, as amended by Pub. L. 94–455, title XXI, § 2116(a), Oct. 4, 1976, 90 Stat. 1910; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(a) General Rule.—** Except as provided in subsections (b) and (c), the provisions of this title (and the amendments made thereby) [enacting this section and sections 6362 and 6363 of this title and amending this section and section 6405 of this title] shall take effect on the date of the enactment of this Act [Oct. 20, 1972].
 
@@ -4039,17 +4039,17 @@ Pub. L. 92–512, title II, § 204, Oct. 20, 1972, 86 Stat. 945, as amended by
 
 **Effective Date**
 
-Pub. L. 91–172, title IX, § 962(e), Dec. 30, 1969, 83 Stat. 736, provided that: “The amendments made by sections 957 [enacting this section] and 960(a), (b), (f), and (i) [amending sections 6214, 6512, 7453, 7456, 7481, 7487, of this title] shall take effect one year after the date of enactment of this Act [Dec. 30, 1969].”
+Pub. L. 91–172, title IX, § 962(e), Dec. 30, 1969, 83 Stat. 736, provided that: “The amendments made by sections 957 [enacting this section] and 960(a), (b), (f), and (i) [amending sections 6214, 6512, 7453, 7456, 7481, 7487, of this title] shall take effect one year after the date of enactment of this Act [Dec. 30, 1969].”
 
 **Savings Provision**
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
-#### § 7464. Intervention by trustee of debtor’s estate
+#### § 7464. Intervention by trustee of debtor’s estate
 
 The trustee of the debtor’s estate in any case under title 11 of the United States Code may intervene, on behalf of the debtor’s estate, in any proceeding before the Tax Court to which the debtor is a party.
 
-(Added Pub. L. 96–589, § 6(c)(1), Dec. 24, 1980, 94 Stat. 3407.)
+(Added Pub. L. 96–589, § 6(c)(1), Dec. 24, 1980, 94 Stat. 3407.)
 
 **Editorial Notes**
 
@@ -4063,15 +4063,15 @@ A prior section 7464 was renumbered section 7465 of this title.
 
 Section effective Oct. 1, 1979, but not applicable to proceedings under Title 11, Bankruptcy, commenced before Oct. 1, 1979, see section 7(e) of Pub. L. 96–589, set out as an Effective Date of 1980 Amendment note under section 108 of this title.
 
-#### § 7465. Provisions of special application to transferees
+#### § 7465. Provisions of special application to transferees
 
 **(1)** For rules of burden of proof in transferee proceedings, see section 6902(a).
 
 **(2)** For authority of Tax Court to prescribe rules by which a transferee of property of a taxpayer shall be entitled to examine books, records and other evidence, see section 6902(b).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 888, § 7463; renumbered § 7464, Pub. L. 91–172, title IX, § 957(a), Dec. 30, 1969, 83 Stat. 733; renumbered § 7465, Pub. L. 96–589, § 6(c)(1), Dec. 24, 1980, 94 Stat. 3407.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 888, § 7463; renumbered § 7464, Pub. L. 91–172, title IX, § 957(a), Dec. 30, 1969, 83 Stat. 733; renumbered § 7465, Pub. L. 96–589, § 6(c)(1), Dec. 24, 1980, 94 Stat. 3407.)
 
-#### § 7466. Judicial conduct and disability procedures
+#### § 7466. Judicial conduct and disability procedures
 
 **(a) In general**
 
@@ -4091,13 +4091,13 @@ In conducting hearings pursuant to subsection (a), the Tax Court may exercise th
 
 The Tax Court shall have the power provided under section 361 of such title 28 to award reimbursement for the reasonable expenses described in that section. Reimbursements under this paragraph shall be made out of any funds appropriated for purposes of the Tax Court.
 
-(Added Pub. L. 114–113, div. Q, title IV, § 431(a), Dec. 18, 2015, 129 Stat. 3125.)
+(Added Pub. L. 114–113, div. Q, title IV, § 431(a), Dec. 18, 2015, 129 Stat. 3125.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 114–113, div. Q, title IV, § 431(c), Dec. 18, 2015, 129 Stat. 3125, provided that: “The amendments made by this section [enacting this section] shall apply to proceedings commenced after the date which is 180 days after the date of the enactment of this Act [Dec. 18, 2015] and, to the extent just and practicable, all proceedings pending on such date.”
+Pub. L. 114–113, div. Q, title IV, § 431(c), Dec. 18, 2015, 129 Stat. 3125, provided that: “The amendments made by this section [enacting this section] shall apply to proceedings commenced after the date which is 180 days after the date of the enactment of this Act [Dec. 18, 2015] and, to the extent just and practicable, all proceedings pending on such date.”
 
 ### PART III—MISCELLANEOUS PROVISIONS
 
@@ -4105,17 +4105,17 @@ Pub. L. 114–113, div. Q, title IV, § 431(c), Dec. 18, 2015, 129 Stat. 3125,
 
 **Amendments**
 
-2015—Pub. L. 114–113, div. Q, title IV, § 432(c), Dec. 18, 2015, 129 Stat. 3126, added items 7470 and 7470A.
+2015—Pub. L. 114–113, div. Q, title IV, § 432(c), Dec. 18, 2015, 129 Stat. 3126, added items 7470 and 7470A.
 
-1988—Pub. L. 100–647, title I, § 1018(u)(45), Nov. 10, 1988, 102 Stat. 3592, added item 7475.
+1988—Pub. L. 100–647, title I, § 1018(u)(45), Nov. 10, 1988, 102 Stat. 3592, added item 7475.
 
-#### § 7470. Administration
+#### § 7470. Administration
 
 Notwithstanding any other provision of law, the Tax Court may exercise, for purposes of management, administration, and expenditure of funds of the Court, the authorities provided for such purposes by any provision of law (including any limitation with respect to such provision of law) applicable to a court of the United States (as that term is defined in section 451 of title 28, United States Code), except to the extent that such provision of law is inconsistent with a provision of this subchapter.
 
-(Added Pub. L. 114–113, div. Q, title IV, § 432(a), Dec. 18, 2015, 129 Stat. 3126.)
+(Added Pub. L. 114–113, div. Q, title IV, § 432(a), Dec. 18, 2015, 129 Stat. 3126.)
 
-#### § 7470A. Judicial conference
+#### § 7470A. Judicial conference
 
 **(a) Judicial conference**
 
@@ -4125,9 +4125,9 @@ The chief judge may summon the judges and special trial judges of the Tax Court 
 
 The Tax Court may impose a reasonable registration fee on persons (other than judges and special trial judges of the Tax Court) participating at judicial conferences convened pursuant to subsection (a). Amounts so received by the Tax Court shall be available to the Tax Court to defray the expenses of such conferences.
 
-(Added Pub. L. 114–113, div. Q, title IV, § 432(a), Dec. 18, 2015, 129 Stat. 3126.)
+(Added Pub. L. 114–113, div. Q, title IV, § 432(a), Dec. 18, 2015, 129 Stat. 3126.)
 
-#### § 7471. Employees
+#### § 7471. Employees
 
 **(a) Appointment and compensation**
 
@@ -4201,7 +4201,7 @@ The employees of the Tax Court shall receive their necessary traveling expenses,
 
 For compensation and travel and subsistence allowances of special trial judges of the Tax Court, see subsections (d) and (e) of section 7443A.
 
-(Aug. 6, 1954, ch. 736, 68A Stat. 888; Pub. L. 91–172, title IX, § 960(g), Dec. 30, 1969, 83 Stat. 734; Pub. L. 94–455, title XIX, § 1906(a)(47), Oct. 4, 1976, 90 Stat. 1831; Pub. L. 98–369, div. A, title IV, § 464(d), July 18, 1984, 98 Stat. 825; Pub. L. 99–514, title XV, § 1556(b)(2), Oct. 22, 1986, 100 Stat. 2755; Pub. L. 111–366, § 1(a), Jan. 4, 2011, 124 Stat. 4063.)
+(Aug. 6, 1954, ch. 736, 68A Stat. 888; Pub. L. 91–172, title IX, § 960(g), Dec. 30, 1969, 83 Stat. 734; Pub. L. 94–455, title XIX, § 1906(a)(47), Oct. 4, 1976, 90 Stat. 1831; Pub. L. 98–369, div. A, title IV, § 464(d), July 18, 1984, 98 Stat. 825; Pub. L. 99–514, title XV, § 1556(b)(2), Oct. 22, 1986, 100 Stat. 2755; Pub. L. 111–366, § 1(a), Jan. 4, 2011, 124 Stat. 4063.)
 
 **Editorial Notes**
 
@@ -4217,9 +4217,9 @@ The effective date of this subsection, referred to in subsec. (a)(2)(B), (8), pr
 
 1984—Subsec. (c). Pub. L. 98–369 substituted references to special trial judges for references to commissioners in the subsection heading and text.
 
-1976—Subsec. (a). Pub. L. 94–455, § 1906(a)(47)(A), among other changes, substituted provisions referring to title 5 of the United States Code for provisions referring to the civil service law, and to chapter 51 and subchapter III of chapter 53 of title 5 for the Classification Act of 1949.
+1976—Subsec. (a). Pub. L. 94–455, § 1906(a)(47)(A), among other changes, substituted provisions referring to title 5 of the United States Code for provisions referring to the civil service law, and to chapter 51 and subchapter III of chapter 53 of title 5 for the Classification Act of 1949.
 
-Subsec. (b). Pub. L. 94–455, § 1906(a)(47)(B), substituted “as provided in chapter 57 of title 5, United States Code” for “as provided in the Travel Expense Act of 1949 (63 Stat. 166; 5 U.S.C. chapter 16)”.
+Subsec. (b). Pub. L. 94–455, § 1906(a)(47)(B), substituted “as provided in chapter 57 of title 5, United States Code” for “as provided in the Travel Expense Act of 1949 (63 Stat. 166; 5 U.S.C. chapter 16)”.
 
 1969—Subsec. (c). Pub. L. 91–172 inserted reference to the compensation of commissioners.
 
@@ -4227,7 +4227,7 @@ Subsec. (b). Pub. L. 94–455, § 1906(a)(47)(B), substituted “as provided i
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 111–366, § 1(b), Jan. 4, 2011, 124 Stat. 4065, provided that: “The amendments made by this section [amending this section] shall take effect on the date the United States Tax Court adopts a personnel management system [adopted effective Oct. 9, 2011] after the date of the enactment of this Act [Jan. 4, 2011].”
+Pub. L. 111–366, § 1(b), Jan. 4, 2011, 124 Stat. 4065, provided that: “The amendments made by this section [amending this section] shall take effect on the date the United States Tax Court adopts a personnel management system [adopted effective Oct. 9, 2011] after the date of the enactment of this Act [Jan. 4, 2011].”
 
 **Effective Date of 1986 Amendment**
 
@@ -4245,11 +4245,11 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 Amendment by Pub. L. 91–172 effective Dec. 30, 1969, see section 962(a) of Pub. L. 91–172, set out as a note under section 7441 of this title.
 
-#### § 7472. Expenditures
+#### § 7472. Expenditures
 
 The Tax Court is authorized to make such expenditures (including expenditures for personal services and rent at the seat of Government and elsewhere, and for law books, books of reference, and periodicals), as may be necessary efficiently to execute the functions vested in the Tax Court. Notwithstanding any other provision of law, the Tax Court is authorized to pay on behalf of its judges, age 65 or over, any increase in the cost of Federal Employees’ Group Life Insurance imposed after April 24, 1999, that is incurred after the date of the enactment of the Pension Protection Act of 2006, including any expenses generated by such payments, as authorized by the chief judge in a manner consistent with such payments authorized by the Judicial Conference of the United States pursuant to section 604(a)(5) of title 28, United States Code. Except as provided in section 7475, all expenditures of the Tax Court shall be allowed and paid, out of any moneys appropriated for purposes of the Tax Court, upon presentation of itemized vouchers therefor signed by the certifying officer designated by the chief judge.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 888; Pub. L. 99–514, title XV, § 1553(b)(1), Oct. 22, 1986, 100 Stat. 2754; Pub. L. 109–280, title VIII, § 852, Aug. 17, 2006, 120 Stat. 1016; Pub. L. 111–8, div. D, title VI, § 618(a), Mar. 11, 2009, 123 Stat. 677.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 888; Pub. L. 99–514, title XV, § 1553(b)(1), Oct. 22, 1986, 100 Stat. 2754; Pub. L. 109–280, title VIII, § 852, Aug. 17, 2006, 120 Stat. 1016; Pub. L. 111–8, div. D, title VI, § 618(a), Mar. 11, 2009, 123 Stat. 677.)
 
 **Editorial Notes**
 
@@ -4269,17 +4269,17 @@ The date of the enactment of the Pension Protection Act of 2006, referred to in 
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–8, div. D, title VI, § 618(b), Mar. 11, 2009, 123 Stat. 677, provided that: “This amendment [amending this section] shall take effect as if included in the amendment made by section 852 of the Pension Protection Act of 2006 [Pub. L. 109–280].”
+Pub. L. 111–8, div. D, title VI, § 618(b), Mar. 11, 2009, 123 Stat. 677, provided that: “This amendment [amending this section] shall take effect as if included in the amendment made by section 852 of the Pension Protection Act of 2006 [Pub. L. 109–280].”
 
 **Effective Date of 1986 Amendment**
 
 Amendment by Pub. L. 99–514 effective Jan. 1, 1987, see section 1553(c) of Pub. L. 99–514, set out as an Effective Date note under section 7475 of this title.
 
-#### § 7473. Disposition of fees
+#### § 7473. Disposition of fees
 
 Except as provided in sections 7470A and 7475, all fees received by the Tax Court pursuant to this title shall be deposited into a special fund of the Treasury to be available to offset funds appropriated for the operation and maintenance of the Tax Court.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 888; Pub. L. 99–514, title XV, § 1553(b)(2), Oct. 22, 1986, 100 Stat. 2754; Pub. L. 114–113, div. Q, title IV, § 432(b), Dec. 18, 2015, 129 Stat. 3126.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 888; Pub. L. 99–514, title XV, § 1553(b)(2), Oct. 22, 1986, 100 Stat. 2754; Pub. L. 114–113, div. Q, title IV, § 432(b), Dec. 18, 2015, 129 Stat. 3126.)
 
 **Editorial Notes**
 
@@ -4295,13 +4295,13 @@ Except as provided in sections 7470A and 7475, all fees received by the Tax Cour
 
 Amendment by Pub. L. 99–514 effective Jan. 1, 1987, see section 1553(c) of Pub. L. 99–514, set out as an Effective Date note under section 7475 of this title.
 
-#### § 7474. Fee for transcript of record
+#### § 7474. Fee for transcript of record
 
 The Tax Court is authorized to fix a fee, not in excess of the fee fixed by law to be charged and collected therefor by the clerks of the district courts, for comparing, or for preparing and comparing, a transcript of the record, or for copying any record, entry, or other paper and the comparison and certification thereof.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 888.)
 
-#### § 7475. Practice fee
+#### § 7475. Practice fee
 
 **(a) In general**
 
@@ -4311,7 +4311,7 @@ The Tax Court is authorized to impose a periodic registration fee on practitione
 
 The fees described in subsection (a) shall be available to the Tax Court to employ independent counsel to pursue disciplinary matters and to provide services to pro se taxpayers.
 
-(Added Pub. L. 99–514, title XV, § 1553(a), Oct. 22, 1986, 100 Stat. 2754; amended Pub. L. 109–280, title VIII, § 860(a), Aug. 17, 2006, 120 Stat. 1020.)
+(Added Pub. L. 99–514, title XV, § 1553(a), Oct. 22, 1986, 100 Stat. 2754; amended Pub. L. 109–280, title VIII, § 860(a), Aug. 17, 2006, 120 Stat. 1020.)
 
 **Editorial Notes**
 
@@ -4323,11 +4323,11 @@ The fees described in subsection (a) shall be available to the Tax Court to empl
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–280, title VIII, § 860(b), Aug. 17, 2006, 120 Stat. 1020, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Aug. 17, 2006].”
+Pub. L. 109–280, title VIII, § 860(b), Aug. 17, 2006, 120 Stat. 1020, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Aug. 17, 2006].”
 
 **Effective Date**
 
-Pub. L. 99–514, title XV, § 1553(c), Oct. 22, 1986, 100 Stat. 2754, provided that: “The amendments made by this section [enacting this section and amending sections 7472 and 7473 of this title] shall take effect on January 1, 1987.”
+Pub. L. 99–514, title XV, § 1553(c), Oct. 22, 1986, 100 Stat. 2754, provided that: “The amendments made by this section [enacting this section and amending sections 7472 and 7473 of this title] shall take effect on January 1, 1987.”
 
 ### PART IV—DECLARATORY JUDGMENTS
 
@@ -4335,17 +4335,17 @@ Pub. L. 99–514, title XV, § 1553(c), Oct. 22, 1986, 100 Stat. 2754, provide
 
 **Amendments**
 
-1997—Pub. L. 105–34, title V, §§ 505(b), 506(c)(2), Aug. 5, 1997, 111 Stat. 855, 856, added items 7477 and 7479.
+1997—Pub. L. 105–34, title V, §§ 505(b), 506(c)(2), Aug. 5, 1997, 111 Stat. 855, 856, added items 7477 and 7479.
 
-1984—Pub. L. 98–369, div. A, title I, § 131(e)(2)(B), July 18, 1984, 98 Stat. 665, struck out item 7477 “Declaratory judgments relating to transfers of property from the United States”.
+1984—Pub. L. 98–369, div. A, title I, § 131(e)(2)(B), July 18, 1984, 98 Stat. 665, struck out item 7477 “Declaratory judgments relating to transfers of property from the United States”.
 
-1978—Pub. L. 95–600, title III, § 336(c)(2), Nov. 6, 1978, 92 Stat. 2842, added item 7478.
+1978—Pub. L. 95–600, title III, § 336(c)(2), Nov. 6, 1978, 92 Stat. 2842, added item 7478.
 
-1976—Pub. L. 94–455, title X, § 1042(d)(2)(D), (E), Oct. 4, 1976, 90 Stat. 1639, struck out in part heading “RELATING TO QUALIFICATIONS OF CERTAIN RETIREMENT PLANS” after “DECLARATORY JUDGMENTS”, inserted “relating to qualification of certain retirement plans” after “Declaratory judgments” in item 7476, and added item 7477.
+1976—Pub. L. 94–455, title X, § 1042(d)(2)(D), (E), Oct. 4, 1976, 90 Stat. 1639, struck out in part heading “RELATING TO QUALIFICATIONS OF CERTAIN RETIREMENT PLANS” after “DECLARATORY JUDGMENTS”, inserted “relating to qualification of certain retirement plans” after “Declaratory judgments” in item 7476, and added item 7477.
 
-1974—Pub. L. 93–406, title II, § 1041(a), Sept. 2, 1974, 88 Stat. 949, added part heading and analysis of sections.
+1974—Pub. L. 93–406, title II, § 1041(a), Sept. 2, 1974, 88 Stat. 949, added part heading and analysis of sections.
 
-#### § 7476. Declaratory judgments relating to qualification of certain retirement plans
+#### § 7476. Declaratory judgments relating to qualification of certain retirement plans
 
 **(a) Creation of remedy** In a case of actual controversy involving—
 
@@ -4391,7 +4391,7 @@ If the Secretary sends by certified or registered mail notice of his determinati
 
 For provisions concerning intervention by Pension Benefit Guaranty Corporation and Secretary of Labor in actions brought under this section and right of Pension Benefit Guaranty Corporation to bring action, see section 3001(c) of subtitle A of title III of the Employee Retirement Income Security Act of 1974.
 
-(Added Pub. L. 93–406, title II, § 1041(a), Sept. 2, 1974, 88 Stat. 949; amended Pub. L. 94–455, title X, § 1042(d)(2)(C), title XIII, § 1306(b)(3), title XIX, §§ 1906(a)(48), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1639, 1719, 1831, 1834; Pub. L. 95–600, title III, § 336(b)(2)(A), title VII, § 701(dd)(1), Nov. 6, 1978, 92 Stat. 2842, 2924; Pub. L. 98–369, div. A, title IV, § 491(d)(52), July 18, 1984, 98 Stat. 852; Pub. L. 99–514, title XVIII, § 1899A(59), Oct. 22, 1986, 100 Stat. 2962.)
+(Added Pub. L. 93–406, title II, § 1041(a), Sept. 2, 1974, 88 Stat. 949; amended Pub. L. 94–455, title X, § 1042(d)(2)(C), title XIII, § 1306(b)(3), title XIX, §§ 1906(a)(48), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1639, 1719, 1831, 1834; Pub. L. 95–600, title III, § 336(b)(2)(A), title VII, § 701(dd)(1), Nov. 6, 1978, 92 Stat. 2842, 2924; Pub. L. 98–369, div. A, title IV, § 491(d)(52), July 18, 1984, 98 Stat. 852; Pub. L. 99–514, title XVIII, § 1899A(59), Oct. 22, 1986, 100 Stat. 2962.)
 
 **Editorial Notes**
 
@@ -4405,17 +4405,17 @@ Section 3001(c) of subtitle A of title III of the Employee Retirement Income Sec
 
 1984—Subsec. (c)(3). Pub. L. 98–369 struck out par. (3) which included a bond purchase plan described in section 405(a) within the term “retirement plan”.
 
-1978—Subsec. (a). Pub. L. 95–600, § 701(dd)(1), inserted provision relating to revocation of qualification.
+1978—Subsec. (a). Pub. L. 95–600, § 701(dd)(1), inserted provision relating to revocation of qualification.
 
-Subsecs. (c) to (e). Pub. L. 95–600, § 336(b)(2)(A), redesignated subsecs. (d) and (e) as (c) and (d), respectively. Former subsec. (c), which authorized the chief judge to assign proceedings under this section or section 7428 to be heard by the commissioners of the court, was struck out.
+Subsecs. (c) to (e). Pub. L. 95–600, § 336(b)(2)(A), redesignated subsecs. (d) and (e) as (c) and (d), respectively. Former subsec. (c), which authorized the chief judge to assign proceedings under this section or section 7428 to be heard by the commissioners of the court, was struck out.
 
-1976—Pub. L. 94–455, § 1042(d)(2)(C), inserted “relating to qualification of certain retirement plans” after “Declaratory judgments” in section catchline.
+1976—Pub. L. 94–455, § 1042(d)(2)(C), inserted “relating to qualification of certain retirement plans” after “Declaratory judgments” in section catchline.
 
-Subsec. (a). Pub. L. 94–455, §§ 1906(a)(48), (b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing, and “United States” after “appropriate pleading, the” in provisions following par. (2).
+Subsec. (a). Pub. L. 94–455, §§ 1906(a)(48), (b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing, and “United States” after “appropriate pleading, the” in provisions following par. (2).
 
-Subsec. (b). Pub. L. 94–455, § 1906(b)(13)(A), struck out in pars. (1) to (3) and (5), “or his delegate” after “Secretary” wherever appearing.
+Subsec. (b). Pub. L. 94–455, § 1906(b)(13)(A), struck out in pars. (1) to (3) and (5), “or his delegate” after “Secretary” wherever appearing.
 
-Subsec. (c). Pub. L. 94–455, § 1306(b)(3), substituted “this section or section 7428” for “this section”.
+Subsec. (c). Pub. L. 94–455, § 1306(b)(3), substituted “this section or section 7428” for “this section”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4427,7 +4427,7 @@ Amendment by Pub. L. 98–369 applicable to obligations issued after Dec. 31, 19
 
 Amendment by section 336(b)(2)(A) of Pub. L. 95–600 applicable to requests for determinations made after Dec. 31, 1978, see section 336(d) of Pub. L. 95–600, set out as an Effective Date note under section 7478 of this title.
 
-Pub. L. 95–600, title VII, § 701(dd)(3), Nov. 6, 1978, 92 Stat. 2924, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by paragraphs (1) and (2) [amending this section and section 7428 of this title] shall take effect as if included in section 7476 or 7428 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as the case may be) at the respective times such sections were added to such Code.”
+Pub. L. 95–600, title VII, § 701(dd)(3), Nov. 6, 1978, 92 Stat. 2924, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by paragraphs (1) and (2) [amending this section and section 7428 of this title] shall take effect as if included in section 7476 or 7428 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as the case may be) at the respective times such sections were added to such Code.”
 
 **Effective Date of 1976 Amendment**
 
@@ -4439,9 +4439,9 @@ Amendment by section 1906(a)(48), (b)(13)(A) of Pub. L. 94–455 effective on fi
 
 **Effective Date**
 
-Pub. L. 93–406, title X, § 1041(d), Sept. 2, 1974, 88 Stat. 951, provided that: “The amendments made by this section [enacting this section and amending sections 7451, 7459, and 7482 of this title] shall apply to pleadings filed more than 1 year after the date of the enactment of this Act [Sept. 2, 1974].”
+Pub. L. 93–406, title X, § 1041(d), Sept. 2, 1974, 88 Stat. 951, provided that: “The amendments made by this section [enacting this section and amending sections 7451, 7459, and 7482 of this title] shall apply to pleadings filed more than 1 year after the date of the enactment of this Act [Sept. 2, 1974].”
 
-#### § 7477. Declaratory judgments relating to value of certain gifts
+#### § 7477. Declaratory judgments relating to value of certain gifts
 
 **(a) Creation of remedy**
 
@@ -4461,13 +4461,13 @@ The court shall not issue a declaratory judgment or decree under this section in
 
 If the Secretary sends by certified or registered mail notice of his determination as described in subsection (a) to the petitioner, no proceeding may be initiated under this section unless the pleading is filed before the 91st day after the date of such mailing.
 
-(Added Pub. L. 105–34, title V, § 506(c)(1), Aug. 5, 1997, 111 Stat. 855.)
+(Added Pub. L. 105–34, title V, § 506(c)(1), Aug. 5, 1997, 111 Stat. 855.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 7477, added Pub. L. 94–455, title X, § 1042(d)(1), Oct. 4, 1976, 90 Stat. 1637; amended Pub. L. 95–600, title III, § 336(b)(2)(B), Nov. 6, 1978, 92 Stat. 2842, provided for declaratory judgments relating to transfers of property from the United States, prior to repeal by Pub. L. 98–369, div. A, title I, § 131(e)(1), (g), July 18, 1984, 98 Stat. 664, 665, applicable to transfers or exchanges after Dec. 31, 1984, in taxable years ending after such date, with special rules for certain transfers and ruling requests before Mar. 1, 1984.
+A prior section 7477, added Pub. L. 94–455, title X, § 1042(d)(1), Oct. 4, 1976, 90 Stat. 1637; amended Pub. L. 95–600, title III, § 336(b)(2)(B), Nov. 6, 1978, 92 Stat. 2842, provided for declaratory judgments relating to transfers of property from the United States, prior to repeal by Pub. L. 98–369, div. A, title I, § 131(e)(1), (g), July 18, 1984, 98 Stat. 664, 665, applicable to transfers or exchanges after Dec. 31, 1984, in taxable years ending after such date, with special rules for certain transfers and ruling requests before Mar. 1, 1984.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4475,7 +4475,7 @@ A prior section 7477, added Pub. L. 94–455, title X, § 1042(d)(1), Oct. 4, 
 
 Section applicable to gifts made after Aug. 5, 1997, see section 506(e)(1) of Pub. L. 105–34, set out as an Effective Date of 1997 Amendment note under section 2001 of this title.
 
-#### § 7478. Declaratory judgments relating to status of certain governmental obligations
+#### § 7478. Declaratory judgments relating to status of certain governmental obligations
 
 **(a) Creation of remedy** In a case of actual controversy involving—
 
@@ -4499,7 +4499,7 @@ The court shall not issue a declaratory judgment or decree under this section in
 
 If the Secretary sends by certified or registered mail notice of his determination as described in subsection (a)(1) to the petitioner, no proceeding may be initiated under this section unless the pleading is filed before the 91st day after the date of such mailing.
 
-(Added Pub. L. 95–600, title III, § 336(a), Nov. 6, 1978, 92 Stat. 2841; amended Pub. L. 100–647, title I, § 1013(a)(42), Nov. 10, 1988, 102 Stat. 3544.)
+(Added Pub. L. 95–600, title III, § 336(a), Nov. 6, 1978, 92 Stat. 2841; amended Pub. L. 100–647, title I, § 1013(a)(42), Nov. 10, 1988, 102 Stat. 3544.)
 
 **Editorial Notes**
 
@@ -4515,9 +4515,9 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 **Effective Date**
 
-Pub. L. 95–600, title III, § 336(d), Nov. 6, 1978, 92 Stat. 2842, provided that: “The amendments made by this section [enacting this section and amending sections 7456, 7476, 7477, and 7482 of this title] shall apply to requests for determinations made after December 31, 1978.”
+Pub. L. 95–600, title III, § 336(d), Nov. 6, 1978, 92 Stat. 2842, provided that: “The amendments made by this section [enacting this section and amending sections 7456, 7476, 7477, and 7482 of this title] shall apply to requests for determinations made after December 31, 1978.”
 
-#### § 7479. Declaratory judgments relating to eligibility of estate with respect to installment payments under section 6166
+#### § 7479. Declaratory judgments relating to eligibility of estate with respect to installment payments under section 6166
 
 **(a) Creation of remedy** In a case of actual controversy involving a determination by the Secretary of (or a failure by the Secretary to make a determination with respect to)—
 
@@ -4547,15 +4547,15 @@ If the Secretary sends by certified or registered mail notice of his determinati
 
 The 2-year period in section 6532(a)(1) for filing suit for refund after disallowance of a claim shall be suspended during the 90-day period after the mailing of the notice referred to in subsection (b)(3) and, if a pleading has been filed with the Tax Court under this section, until the decision of the Tax Court has become final.
 
-(Added Pub. L. 105–34, title V, § 505(a), Aug. 5, 1997, 111 Stat. 854; amended Pub. L. 105–206, title III, § 3104(b), title VI, § 6007(d), July 22, 1998, 112 Stat. 732, 809.)
+(Added Pub. L. 105–34, title V, § 505(a), Aug. 5, 1997, 111 Stat. 854; amended Pub. L. 105–206, title III, § 3104(b), title VI, § 6007(d), July 22, 1998, 112 Stat. 732, 809.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Subsec. (a)(1), (2). Pub. L. 105–206, § 6007(d), substituted “an estate (or with respect to any property included therein),” for “an estate,”.
+1998—Subsec. (a)(1), (2). Pub. L. 105–206, § 6007(d), substituted “an estate (or with respect to any property included therein),” for “an estate,”.
 
-Subsec. (c). Pub. L. 105–206, § 3104(b), added subsec. (c).
+Subsec. (c). Pub. L. 105–206, § 3104(b), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4567,7 +4567,7 @@ Amendment by section 6007(d) of Pub. L. 105–206 effective, except as otherwise
 
 **Effective Date**
 
-Pub. L. 105–34, title V, § 505(c), Aug. 5, 1997, 111 Stat. 855, provided that: “The amendments made by this section [enacting this section] shall apply to the estates of decedents dying after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title V, § 505(c), Aug. 5, 1997, 111 Stat. 855, provided that: “The amendments made by this section [enacting this section] shall apply to the estates of decedents dying after the date of the enactment of this Act [Aug. 5, 1997].”
 
 ## Subchapter D—Court Review of Tax Court Decisions
 
@@ -4575,9 +4575,9 @@ Pub. L. 105–34, title V, § 505(c), Aug. 5, 1997, 111 Stat. 855, provided th
 
 **Amendments**
 
-1969—Pub. L. 91–172, title IX, §§ 959(b), 960(i)(2), Dec. 30, 1969, 83 Stat. 734, 735, substituted “Notice of appeal” for “Petition for review” in item 7483 and substituted “Cross references” for “Cross reference” in item 7487.
+1969—Pub. L. 91–172, title IX, §§ 959(b), 960(i)(2), Dec. 30, 1969, 83 Stat. 734, 735, substituted “Notice of appeal” for “Petition for review” in item 7483 and substituted “Cross references” for “Cross reference” in item 7487.
 
-### § 7481. Date when Tax Court decision becomes final
+### § 7481. Date when Tax Court decision becomes final
 
 **(a) Reviewable decisions** Except as provided in subsections (b), (c), and (d), the decision of the Tax Court shall become final—
 
@@ -4663,15 +4663,15 @@ If the Tax Court determines under this subsection that the taxpayer has made an 
 
 then, upon a motion by the petitioner in such case in which such time for payment of tax has been extended under section 6166, the Tax Court may reopen the case solely to modify the Court’s decision to reflect such estate’s entitlement to a deduction for such administration expenses under section 2053 and may hold further trial solely with respect to the claim for such deduction if, within the discretion of the Tax Court, such a hearing is deemed necessary. An order of the Tax Court disposing of a motion under this subsection shall be reviewable in the same manner as a decision of the Tax Court, but only with respect to the matters determined in such order.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 889; Pub. L. 91–172, title IX, § 960(h)(1), Dec. 30, 1969, 83 Stat. 734; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–647, title VI, §§ 6246(a), (b)(2), 6247(a), (b)(2), Nov. 10, 1988, 102 Stat. 3751, 3752; Pub. L. 105–34, title XIV, §§ 1452(a), 1454(b)(3), Aug. 5, 1997, 111 Stat. 1054, 1057.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 889; Pub. L. 91–172, title IX, § 960(h)(1), Dec. 30, 1969, 83 Stat. 734; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–647, title VI, §§ 6246(a), (b)(2), 6247(a), (b)(2), Nov. 10, 1988, 102 Stat. 3751, 3752; Pub. L. 105–34, title XIV, §§ 1452(a), 1454(b)(3), Aug. 5, 1997, 111 Stat. 1054, 1057.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1997—Subsec. (b). Pub. L. 105–34, § 1454(b)(3), substituted “section 7436(c) or 7463” for “section 7463”.
+1997—Subsec. (b). Pub. L. 105–34, § 1454(b)(3), substituted “section 7436(c) or 7463” for “section 7463”.
 
-Subsec. (c). Pub. L. 105–34, § 1452(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Notwithstanding subsection (a), if—
+Subsec. (c). Pub. L. 105–34, § 1452(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Notwithstanding subsection (a), if—
 
 “(1) an assessment has been made by the Secretary under section 6215 which includes interest as imposed by this title,
 
@@ -4681,13 +4681,13 @@ Subsec. (c). Pub. L. 105–34, § 1452(a), reenacted heading without change an
 
 then the Tax Court may reopen the case solely to determine whether the taxpayer has made an overpayment of such interest and the amount of any such overpayment. If the Tax Court determines under this subsection that the taxpayer has made an overpayment of interest, then that determination shall be treated under section 6512(b)(1) as a determination of an overpayment of tax. An order of the Tax Court redetermining the interest due, when entered upon the records of the court, shall be reviewable in the same manner as a decision of the Tax Court.”
 
-1988—Subsec. (a). Pub. L. 100–647, § 6247(b)(2), substituted “subsections (b), (c), and (d)” for “subsections (b) and (c)”.
+1988—Subsec. (a). Pub. L. 100–647, § 6247(b)(2), substituted “subsections (b), (c), and (d)” for “subsections (b) and (c)”.
 
-Pub. L. 100–647, § 6246(b)(2), substituted “subsections (b) and (c)” for “subsection (b)”.
+Pub. L. 100–647, § 6246(b)(2), substituted “subsections (b) and (c)” for “subsection (b)”.
 
-Subsec. (c). Pub. L. 100–647, § 6246(a), added subsec. (c).
+Subsec. (c). Pub. L. 100–647, § 6246(a), added subsec. (c).
 
-Subsec. (d). Pub. L. 100–647, § 6247(a), added subsec. (d).
+Subsec. (d). Pub. L. 100–647, § 6247(a), added subsec. (d).
 
 1976—Subsec. (a)(3)(A), (B)(iii). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
@@ -4697,7 +4697,7 @@ Subsec. (d). Pub. L. 100–647, § 6247(a), added subsec. (d).
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title XIV, § 1452(b), Aug. 5, 1997, 111 Stat. 1055, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title XIV, § 1452(b), Aug. 5, 1997, 111 Stat. 1055, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Aug. 5, 1997].”
 
 Amendment by section 1454(b)(3) of Pub. L. 105–34 effective Aug. 5, 1997, see section 1454(c) of Pub. L. 105–34, set out as a note under section 6511 of this title.
 
@@ -4711,7 +4711,7 @@ Amendment by section 6247(a), (b)(2) of Pub. L. 100–647 effective with respect
 
 Amendment by Pub. L. 91–172 effective 30 days after Dec. 30, 1969, see section 962(f) of Pub. L. 91–172, set out as a note under section 7483 of this title.
 
-### § 7482. Courts of review
+### § 7482. Courts of review
 
 **(a) Jurisdiction**
 
@@ -4787,59 +4787,59 @@ Nothing in section 7483 shall be construed as relieving the petitioner from maki
 
 The United States Court of Appeals and the Supreme Court shall have the power to require the taxpayer to pay to the United States a penalty in any case where the decision of the Tax Court is affirmed and it appears that the appeal was instituted or maintained primarily for delay or that the taxpayer’s position in the appeal is frivolous or groundless.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 890; Pub. L. 89–713, § 3(c), Nov. 2, 1966, 80 Stat. 1109; Pub. L. 91–172, title IX, § 960(h)(2), Dec. 30, 1969, 83 Stat 735; Pub. L. 93–406, title II, § 1041(b)(3), Sept. 2, 1974, 88 Stat. 950; Pub. L. 94–455, title X, § 1042(d)(2)(A), (B), title XIII, § 1306(b)(4), (5), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1638, 1639, 1719, 1834; Pub. L. 95–600, title III, § 336(c)(1), Nov. 6, 1978, 92 Stat. 2842; Pub. L. 97–164, title I, § 154, Apr. 2, 1982, 96 Stat. 47; Pub. L. 97–248, title IV, § 402(c)(15), Sept. 3, 1982, 96 Stat. 668; Pub. L. 98–369, div. A, title I, § 131(e)(2)(A), July 18, 1984, 98 Stat. 665; Pub. L. 99–514, title XV, § 1558(a), (b), title XVIII, §§ 1810(g)(2), 1899A(60), Oct. 22, 1986, 100 Stat. 2757, 2758, 2828, 2962; Pub. L. 100–647, title VI, § 6243(b), Nov. 10, 1988, 102 Stat. 3750; Pub. L. 101–239, title VII, § 7731(b), Dec. 19, 1989, 103 Stat. 2401; Pub. L. 105–34, title XII, §§ 1222(b)(3), 1239(d), Aug. 5, 1997, 111 Stat. 1019, 1028; Pub. L. 114–74, title XI, § 1101(f)(13), Nov. 2, 2015, 129 Stat. 638; Pub. L. 114–113, div. Q, title IV, § 423(a), Dec. 18, 2015, 129 Stat. 3123.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 890; Pub. L. 89–713, § 3(c), Nov. 2, 1966, 80 Stat. 1109; Pub. L. 91–172, title IX, § 960(h)(2), Dec. 30, 1969, 83 Stat 735; Pub. L. 93–406, title II, § 1041(b)(3), Sept. 2, 1974, 88 Stat. 950; Pub. L. 94–455, title X, § 1042(d)(2)(A), (B), title XIII, § 1306(b)(4), (5), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1638, 1639, 1719, 1834; Pub. L. 95–600, title III, § 336(c)(1), Nov. 6, 1978, 92 Stat. 2842; Pub. L. 97–164, title I, § 154, Apr. 2, 1982, 96 Stat. 47; Pub. L. 97–248, title IV, § 402(c)(15), Sept. 3, 1982, 96 Stat. 668; Pub. L. 98–369, div. A, title I, § 131(e)(2)(A), July 18, 1984, 98 Stat. 665; Pub. L. 99–514, title XV, § 1558(a), (b), title XVIII, §§ 1810(g)(2), 1899A(60), Oct. 22, 1986, 100 Stat. 2757, 2758, 2828, 2962; Pub. L. 100–647, title VI, § 6243(b), Nov. 10, 1988, 102 Stat. 3750; Pub. L. 101–239, title VII, § 7731(b), Dec. 19, 1989, 103 Stat. 2401; Pub. L. 105–34, title XII, §§ 1222(b)(3), 1239(d), Aug. 5, 1997, 111 Stat. 1019, 1028; Pub. L. 114–74, title XI, § 1101(f)(13), Nov. 2, 2015, 129 Stat. 638; Pub. L. 114–113, div. Q, title IV, § 423(a), Dec. 18, 2015, 129 Stat. 3123.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2015—Subsec. (b)(1). Pub. L. 114–74, § 1101(f)(13)(C), substituted “section 6234” for “section 6226, 6228(a), or 6234(c)” in concluding provisions.
+2015—Subsec. (b)(1). Pub. L. 114–74, § 1101(f)(13)(C), substituted “section 6234” for “section 6226, 6228(a), or 6234(c)” in concluding provisions.
 
-Subsec. (b)(1)(E). Pub. L. 114–74, § 1101(f)(13)(A), which directed amendment of subpar. (E) by substituting “section 6234” for “section 6226, 6228, 6247, or 6252”, was executed by making the substitution for “section 6226, 6228(a), 6247, or 6252” to reflect the probable intent of Congress.
+Subsec. (b)(1)(E). Pub. L. 114–74, § 1101(f)(13)(A), which directed amendment of subpar. (E) by substituting “section 6234” for “section 6226, 6228, 6247, or 6252”, was executed by making the substitution for “section 6226, 6228(a), 6247, or 6252” to reflect the probable intent of Congress.
 
-Subsec. (b)(1)(F). Pub. L. 114–113, § 423(a), added subpar. (F).
+Subsec. (b)(1)(F). Pub. L. 114–113, § 423(a), added subpar. (F).
 
-Pub. L. 114–74, § 1101(f)(13)(B), struck out subpar. (F) which read as follows: “in the case of a petition under section 6234(c)—
+Pub. L. 114–74, § 1101(f)(13)(B), struck out subpar. (F) which read as follows: “in the case of a petition under section 6234(c)—
 
 “(i) the legal residence of the petitioner if the petitioner is not a corporation, and
 
 “(ii) the place or office applicable under subparagraph (B) if the petitioner is a corporation.”
 
-Subsec. (b)(1)(G). Pub. L. 114–113, § 423(a), added subpar. (G).
+Subsec. (b)(1)(G). Pub. L. 114–113, § 423(a), added subpar. (G).
 
-1997—Subsec. (b)(1). Pub. L. 105–34, § 1239(d)(2), substituted “, 6228(a), or 6234(c)” for “or 6228(a)” in concluding provisions.
+1997—Subsec. (b)(1). Pub. L. 105–34, § 1239(d)(2), substituted “, 6228(a), or 6234(c)” for “or 6228(a)” in concluding provisions.
 
-Subsec. (b)(1)(E). Pub. L. 105–34, § 1222(b)(3), substituted “, 6228(a), 6247, or 6252” for “or 6228(a)”.
+Subsec. (b)(1)(E). Pub. L. 105–34, § 1222(b)(3), substituted “, 6228(a), 6247, or 6252” for “or 6228(a)”.
 
-Subsec. (b)(1)(F). Pub. L. 105–34, § 1239(d)(1), added subpar. (F).
+Subsec. (b)(1)(F). Pub. L. 105–34, § 1239(d)(1), added subpar. (F).
 
 1989—Subsec. (c)(4). Pub. L. 101–239 substituted “penalties” for “damages” in heading and amended text generally. Prior to amendment, text read as follows: “The United States Court of Appeals and the Supreme Court shall have power to impose damages in any case where the decision of the Tax Court is affirmed and it appears that the notice of appeal was filed merely for delay.”
 
 1988—Subsec. (a)(3). Pub. L. 100–647 added par. (3).
 
-1986—Subsec. (a). Pub. L. 99–514, § 1558(a), (b), inserted par. (1) designation and heading “In general” before existing text and realigned its margin, and added par. (2).
+1986—Subsec. (a). Pub. L. 99–514, § 1558(a), (b), inserted par. (1) designation and heading “In general” before existing text and realigned its margin, and added par. (2).
 
-Subsec. (b)(1). Pub. L. 99–514, § 1810(g)(2), substituted “section 7428 or 7476” for “section 7428, 7476, or 7477” in last sentence.
+Subsec. (b)(1). Pub. L. 99–514, § 1810(g)(2), substituted “section 7428 or 7476” for “section 7428, 7476, or 7477” in last sentence.
 
-Subsec. (b)(1)(E). Pub. L. 99–514, § 1899A(60), substituted “partnership.” for “partnership,”.
+Subsec. (b)(1)(E). Pub. L. 99–514, § 1899A(60), substituted “partnership.” for “partnership,”.
 
 1984—Subsec. (b)(1)(D) to (F). Pub. L. 98–369 struck out subpar. (D) which provided that venue in the case of a person seeking declaratory judgment under section 7477 be the legal residence of such person if such person is not a corporation, or the principal place of business or principal office or agency of such person if such person is a corporation, and redesignated subpars. (E) and (F) as (D) and (E), respectively.
 
 1982—Subsec. (a). Pub. L. 97–164 inserted “(other than the United States Court of Appeals for the Federal Circuit)” after “The United States Courts of Appeals”.
 
-Subsec. (b)(1). Pub. L. 97–248 added subpar. (F), and in provisions following subpar. (F) inserted “, or the petition under section 6226 or 6228(a),” after “or 7477”.
+Subsec. (b)(1). Pub. L. 97–248 added subpar. (F), and in provisions following subpar. (F) inserted “, or the petition under section 6226 or 6228(a),” after “or 7477”.
 
-1978—Subsec. (b)(1). Pub. L. 95–600, § 336(c)(1)(A), substituted “provided in paragraphs (2) and (3)” for “provided in paragraph (2)”.
+1978—Subsec. (b)(1). Pub. L. 95–600, § 336(c)(1)(A), substituted “provided in paragraphs (2) and (3)” for “provided in paragraph (2)”.
 
-Subsec. (b)(3). Pub. L. 95–600, § 336(c)(1)(B), added par. (3).
+Subsec. (b)(3). Pub. L. 95–600, § 336(c)(1)(B), added par. (3).
 
-1976—Subsec. (b)(1)(D). Pub. L. 94–455, § 1042(d)(2)(A), added subpar. (D).
+1976—Subsec. (b)(1)(D). Pub. L. 94–455, § 1042(d)(2)(A), added subpar. (D).
 
-Subsec. (b)(1)(E). Pub. L. 94–455, § 1306(b)(4), added subpar. (E).
+Subsec. (b)(1)(E). Pub. L. 94–455, § 1306(b)(4), added subpar. (E).
 
-Subsec. (b)(1). Pub. L. 94–455, §§ 1042(d)(2)(B), 1306(b)(5), in provisions following subpar. (E), substituted “no subparagraph of the preceding sentence applies” for “subparagraph (A), (B), and (C) do not apply” and “section 7428, 7476, or 7477” for “section 7476”.
+Subsec. (b)(1). Pub. L. 94–455, §§ 1042(d)(2)(B), 1306(b)(5), in provisions following subpar. (E), substituted “no subparagraph of the preceding sentence applies” for “subparagraph (A), (B), and (C) do not apply” and “section 7428, 7476, or 7477” for “section 7476”.
 
-Subsec. (b)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (b)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 1974—Subsec. (b)(1). Pub. L. 93–406 added subpar. (C) and, in provisions following subpar. (C), substituted “If for any reason subparagraph (A), (B), and (C) do not apply” for “If for any reason neither subparagraph (A) nor (B) applies”, and inserted provisions referring to the time the petition seeking a declaratory decision under section 7476 was filed with the Tax Court.
 
@@ -4851,7 +4851,7 @@ Subsec. (b)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his dele
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–113, div. Q, title IV, § 423(b), Dec. 18, 2015, 129 Stat. 3124, provided that:
+Pub. L. 114–113, div. Q, title IV, § 423(b), Dec. 18, 2015, 129 Stat. 3124, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section] shall apply to petitions filed after the date of enactment of this Act [Dec. 18, 2015].
 
@@ -4875,7 +4875,7 @@ Amendment by Pub. L. 100–647 applicable to orders entered after Nov. 10, 1988,
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–514, title XV, § 1558(c), Oct. 22, 1986, 100 Stat. 2758, provided that: “The amendments made by this section [amending this section] shall apply to any order of the Tax Court entered after the date of the enactment of this Act [Oct. 22, 1986].”
+Pub. L. 99–514, title XV, § 1558(c), Oct. 22, 1986, 100 Stat. 2758, provided that: “The amendments made by this section [amending this section] shall apply to any order of the Tax Court entered after the date of the enactment of this Act [Oct. 22, 1986].”
 
 Amendment by section 1810(g)(2) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -4911,11 +4911,11 @@ Amendment by Pub. L. 91–172 effective 30 days after Dec. 30, 1969, see section
 
 Amendment by Pub. L. 89–713 applicable to all decisions of the Tax Court entered after Nov. 2, 1966, see section 3(d) of Pub. L. 89–713, set out as a note under section 7422 of this title.
 
-### § 7483. Notice of appeal
+### § 7483. Notice of appeal
 
 Review of a decision of the Tax Court shall be obtained by filing a notice of appeal with the clerk of the Tax Court within 90 days after the decision of the Tax Court is entered. If a timely notice of appeal is filed by one party, any other party may take an appeal by filing a notice of appeal within 120 days after the decision of the Tax Court is entered.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 891; Pub. L. 91–172, title IX, § 959(a), Dec. 30, 1969, 83 Stat. 734.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 891; Pub. L. 91–172, title IX, § 959(a), Dec. 30, 1969, 83 Stat. 734.)
 
 **Editorial Notes**
 
@@ -4927,13 +4927,13 @@ Review of a decision of the Tax Court shall be obtained by filing a notice of ap
 
 **Effective Date of 1969 Amendment**
 
-Pub. L. 91–172, title IX, § 962(f), Dec. 30, 1969, 83 Stat. 736, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by sections 959 and 960(h) [amending this section and sections 7481, 7482, and 7485 of this title] shall take effect 30 days after the date of the enactment of this Act [Dec. 30, 1969]. In the case of any decision of the Tax Court entered before the 30th day after the date of the enactment of this Act [Dec. 30, 1969], the United States Courts of Appeals shall have jurisdiction to hear an appeal from such decision, if such appeal was filed within the time prescribed by Rule 13(a) of the Federal Rules of Appellate Procedure or by section 7483 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] as in effect at the time the decision of the Tax Court was entered.”
+Pub. L. 91–172, title IX, § 962(f), Dec. 30, 1969, 83 Stat. 736, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by sections 959 and 960(h) [amending this section and sections 7481, 7482, and 7485 of this title] shall take effect 30 days after the date of the enactment of this Act [Dec. 30, 1969]. In the case of any decision of the Tax Court entered before the 30th day after the date of the enactment of this Act [Dec. 30, 1969], the United States Courts of Appeals shall have jurisdiction to hear an appeal from such decision, if such appeal was filed within the time prescribed by Rule 13(a) of the Federal Rules of Appellate Procedure or by section 7483 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] as in effect at the time the decision of the Tax Court was entered.”
 
-### § 7484. Change of incumbent in office
+### § 7484. Change of incumbent in office
 
 When the incumbent of the office of Secretary changes, no substitution of the name of his successor shall be required in proceedings pending before any appellate court reviewing the action of the Tax Court.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 891; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 891; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -4941,7 +4941,7 @@ When the incumbent of the office of Secretary changes, no substitution of the na
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-### § 7485. Bond to stay assessment and collection
+### § 7485. Bond to stay assessment and collection
 
 **(a) Upon notice of appeal** Notwithstanding any provision of law imposing restrictions on the assessment and collection of deficiencies, the review under section 7483 shall not operate as a stay of assessment or collection of any portion of the amount of the deficiency determined by the Tax Court unless a notice of appeal in respect of such portion is duly filed by the taxpayer, and then only if the taxpayer—
 
@@ -4961,7 +4961,7 @@ The condition of subsection (a) shall be satisfied if the partnership duly files
 
 **(2)** For deposit of United States bonds or notes in lieu of sureties, see section 9303 of title 31, United States Code.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 891; Pub. L. 91–172, title IX, § 960(h)(3), Dec. 30, 1969, 83 Stat. 735; Pub. L. 97–248, title IV, § 402(c)(16), Sept. 3, 1982, 96 Stat. 668; Pub. L. 97–258, § 3(f)(15), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 105–34, title XII, §§ 1222(b)(4), 1241(a), Aug. 5, 1997, 111 Stat. 1019, 1029; Pub. L. 114–74, title XI, § 1101(f)(14), Nov. 2, 2015, 129 Stat. 638; Pub. L. 115–141, div. U, title II, §§ 201(c)(8), 206(p)(8), Mar. 23, 2018, 132 Stat. 1173, 1182.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 891; Pub. L. 91–172, title IX, § 960(h)(3), Dec. 30, 1969, 83 Stat. 735; Pub. L. 97–248, title IV, § 402(c)(16), Sept. 3, 1982, 96 Stat. 668; Pub. L. 97–258, § 3(f)(15), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 105–34, title XII, §§ 1222(b)(4), 1241(a), Aug. 5, 1997, 111 Stat. 1019, 1029; Pub. L. 114–74, title XI, § 1101(f)(14), Nov. 2, 2015, 129 Stat. 638; Pub. L. 115–141, div. U, title II, §§ 201(c)(8), 206(p)(8), Mar. 23, 2018, 132 Stat. 1173, 1182.)
 
 **Editorial Notes**
 
@@ -4971,11 +4971,11 @@ The condition of subsection (a) shall be satisfied if the partnership duly files
 
 2015—Subsec. (b). Pub. L. 114–74 substituted “section 6234” for “section 6226, 6228(a), 6247, or 6252”.
 
-1997—Subsec. (b). Pub. L. 105–34, § 1222(b)(4)(B), amended heading generally. Prior to amendment, heading read as follows: “Bond in case of appeal of decision under section 6226 or section 6228(a)”.
+1997—Subsec. (b). Pub. L. 105–34, § 1222(b)(4)(B), amended heading generally. Prior to amendment, heading read as follows: “Bond in case of appeal of decision under section 6226 or section 6228(a)”.
 
-Pub. L. 105–34, § 1222(b)(4)(A), substituted “, 6228(a), 6247, or 6252” for “or 6228(a)”.
+Pub. L. 105–34, § 1222(b)(4)(A), substituted “, 6228(a), 6247, or 6252” for “or 6228(a)”.
 
-Pub. L. 105–34, § 1241(a), inserted “penalties,” after “any interest,” and substituted “aggregate liability of the parties to the action” for “aggregate of such deficiencies”.
+Pub. L. 105–34, § 1241(a), inserted “penalties,” after “any interest,” and substituted “aggregate liability of the parties to the action” for “aggregate of such deficiencies”.
 
 1982—Subsecs. (b), (c). Pub. L. 97–248 added subsec. (b) and redesignated former subsec. (b) as (c).
 
@@ -4997,7 +4997,7 @@ Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxabl
 
 Amendment by section 1222(b)(4) of Pub. L. 105–34 applicable to partnership taxable years beginning after Dec. 31, 1997, see section 1226 of Pub. L. 105–34, as amended, set out as a note under section 6011 of this title.
 
-Pub. L. 105–34, title XII, § 1241(b), Aug. 5, 1997, 111 Stat. 1029, provided that: “The amendment made by this section [amending this section] shall take effect as if included in the amendments made by section 402 of the Tax Equity and Fiscal Responsibility Act of 1982 [Pub. L. 97–248].”
+Pub. L. 105–34, title XII, § 1241(b), Aug. 5, 1997, 111 Stat. 1029, provided that: “The amendment made by this section [amending this section] shall take effect as if included in the amendments made by section 402 of the Tax Equity and Fiscal Responsibility Act of 1982 [Pub. L. 97–248].”
 
 **Effective Date of 1982 Amendment**
 
@@ -5007,19 +5007,19 @@ Amendment by Pub. L. 97–248 applicable to partnership taxable years beginning 
 
 Amendment by Pub. L. 91–172 effective 30 days after Dec. 30, 1969, see section 962(f) of Pub. L. 91–172, set out as a note under section 7483 of this title.
 
-### § 7486. Refund, credit, or abatement of amounts dis­allowed
+### § 7486. Refund, credit, or abatement of amounts dis­allowed
 
 In cases where assessment or collection has not been stayed by the filing of a bond, then if the amount of the deficiency determined by the Tax Court is disallowed in whole or in part by the court of review, the amount so disallowed shall be credited or refunded to the taxpayer, without the making of claim therefor, or, if collection has not been made, shall be abated.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 891.)
 
-### § 7487. Cross references
+### § 7487. Cross references
 
 **(1) Nonreviewability.—** For nonreviewability of Tax Court decisions in small claims cases, see section 7463(b).
 
 **(2) Transcripts.—** For authority of the Tax Court to fix fees for transcript of records, see section 7474.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 892; Pub. L. 91–172, title IX, § 960(i)(1), Dec. 30, 1969, 83 Stat. 735.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 892; Pub. L. 91–172, title IX, § 960(i)(1), Dec. 30, 1969, 83 Stat. 735.)
 
 **Editorial Notes**
 
@@ -5035,7 +5035,7 @@ Amendment by Pub. L. 91–172 effective one year after Dec. 30, 1969, see sectio
 
 ## Subchapter E—Burden of Proof
 
-### § 7491. Burden of proof
+### § 7491. Burden of proof
 
 **(a) Burden shifts where taxpayer produces credible evidence**
 
@@ -5065,17 +5065,17 @@ In the case of an individual taxpayer, the Secretary shall have the burden of pr
 
 Notwithstanding any other provision of this title, the Secretary shall have the burden of production in any court proceeding with respect to the liability of any individual for any penalty, addition to tax, or additional amount imposed by this title.
 
-(Added Pub. L. 105–206, title III, § 3001(a), July 22, 1998, 112 Stat. 726; amended Pub. L. 105–277, div. J, title IV, § 4002(b), Oct. 21, 1998, 112 Stat. 2681–906.)
+(Added Pub. L. 105–206, title III, § 3001(a), July 22, 1998, 112 Stat. 726; amended Pub. L. 105–277, div. J, title IV, § 4002(b), Oct. 21, 1998, 112 Stat. 2681–906.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 7491, act Aug. 16, 1954, ch. 736, 68A Stat. 893, placed the burden of proof in establishing the applicability of an exemption upon the defendant in the case of marihuana offenses, prior to repeal by Pub. L. 91–513, title III, §§ 1101(b)(5)(A), 1103, 1105(a), Oct. 27, 1970, 84 Stat. 1292, 1294, 1295, effective on first day of seventh calendar month that begins after Oct. 26, 1970, with prosecutions commenced prior to such date not to be affected or abated by reason thereof.
+A prior section 7491, act Aug. 16, 1954, ch. 736, 68A Stat. 893, placed the burden of proof in establishing the applicability of an exemption upon the defendant in the case of marihuana offenses, prior to repeal by Pub. L. 91–513, title III, §§ 1101(b)(5)(A), 1103, 1105(a), Oct. 27, 1970, 84 Stat. 1292, 1294, 1295, effective on first day of seventh calendar month that begins after Oct. 26, 1970, with prosecutions commenced prior to such date not to be affected or abated by reason thereof.
 
-A prior section 7492, act Aug. 16, 1954, ch. 736, 68A Stat. 893, related to the enforceability of cotton futures contracts, prior to repeal by Pub. L. 94–455, title XIX, § 1952(n)(4)(A), (*o*), Oct. 4, 1976, 90 Stat. 1846, effective on the 90th day after Oct. 4, 1976.
+A prior section 7492, act Aug. 16, 1954, ch. 736, 68A Stat. 893, related to the enforceability of cotton futures contracts, prior to repeal by Pub. L. 94–455, title XIX, § 1952(n)(4)(A), (*o*), Oct. 4, 1976, 90 Stat. 1846, effective on the 90th day after Oct. 4, 1976.
 
-A prior section 7493, act Aug. 16, 1954, ch. 736, 68A Stat. 893, provided that no person whose evidence is deemed material by the officer prosecuting on behalf of the United States in any case brought under any provision of subchapter D of chapter 39 of this title withhold his testimony because of complicity by him in any violation of subchapter D of chapter 39 of this title or of any regulation made pursuant to such chapter, but that such person called by such officer who testifies in the case be exempt from prosecution for any offense to which his testimony relates, prior to repeal by Pub. L. 91–452, title II, §§ 232, 260, Oct. 15, 1970, 84 Stat. 930, 931, effective on 60th day following Oct. 15, 1970, and not to affect any immunity to which any individual was entitled under by reason of any testimony given before 60th day following Oct. 15, 1970. See section 6001 et seq. of Title 18, Crimes and Criminal Procedure.
+A prior section 7493, act Aug. 16, 1954, ch. 736, 68A Stat. 893, provided that no person whose evidence is deemed material by the officer prosecuting on behalf of the United States in any case brought under any provision of subchapter D of chapter 39 of this title withhold his testimony because of complicity by him in any violation of subchapter D of chapter 39 of this title or of any regulation made pursuant to such chapter, but that such person called by such officer who testifies in the case be exempt from prosecution for any offense to which his testimony relates, prior to repeal by Pub. L. 91–452, title II, §§ 232, 260, Oct. 15, 1970, 84 Stat. 930, 931, effective on 60th day following Oct. 15, 1970, and not to affect any immunity to which any individual was entitled under by reason of any testimony given before 60th day following Oct. 15, 1970. See section 6001 et seq. of Title 18, Crimes and Criminal Procedure.
 
 **Amendments**
 
@@ -5089,7 +5089,7 @@ Amendment by Pub. L. 105–277 effective as if included in the provision of the 
 
 **Effective Date**
 
-Pub. L. 105–206, title III, § 3001(c), July 22, 1998, 112 Stat. 727, provided that:
+Pub. L. 105–206, title III, § 3001(c), July 22, 1998, 112 Stat. 727, provided that:
 
 > **“(1) In general.—** The amendments made by this section [enacting this subchapter] shall apply to court proceedings arising in connection with examinations commencing after the date of the enactment of this Act [July 22, 1998].
 

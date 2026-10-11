@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 24—TRANSPORTATION OF GAMBLING DEVICES
 
-## § 1171. Definitions
+## § 1171. Definitions
 
 As used in this chapter—
 
@@ -29,9 +29,9 @@ As used in this chapter—
 
 **(b)** The term “State” includes the District of Columbia, Puerto Rico, the Virgin Islands, and Guam.
 
-**(c)** The term “possession of the United States” means any possession of the United States which is not named in paragraph 1
+**(c)** The term “possession of the United States” means any possession of the United States which is not named in paragraph 1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
 (b) of this section.
 
@@ -41,7 +41,7 @@ As used in this chapter—
 
 **(f)** The term “boundaries” has the same meaning given that term in section 1301 of title 43.
 
-(Jan. 2, 1951, ch. 1194, § 1, 64 Stat. 1134; Pub. L. 87–840, §§ 2, 3, Oct. 18, 1962, 76 Stat. 1075; Pub. L. 102–251, title II, § 202(c), Mar. 9, 1992, 106 Stat. 62.)
+(Jan. 2, 1951, ch. 1194, § 1, 64 Stat. 1134; Pub. L. 87–840, §§ 2, 3, Oct. 18, 1962, 76 Stat. 1075; Pub. L. 102–251, title II, § 202(c), Mar. 9, 1992, 106 Stat. 62.)
 
 **Editorial Notes**
 
@@ -49,21 +49,21 @@ As used in this chapter—
 
 1992—Subsec. (f). Pub. L. 102–251 added subsec. (f).
 
-1962—Subsec. (a)(2), (3). Pub. L. 87–840, § 2, substituted provisions including machines and mechanical devices designed and manufactured primarily for gambling by the operation of which a person may become entitled to receive, as the result of chance, any money or property, for provisions which included machines or mechanical devices designed and manufactured to operate by inserting a coin, token, or similar object, in par. (2), and inserted “, but which is not attached to any such machine or mechanical device as a constituent part”, in par. (3).
+1962—Subsec. (a)(2), (3). Pub. L. 87–840, § 2, substituted provisions including machines and mechanical devices designed and manufactured primarily for gambling by the operation of which a person may become entitled to receive, as the result of chance, any money or property, for provisions which included machines or mechanical devices designed and manufactured to operate by inserting a coin, token, or similar object, in par. (2), and inserted “, but which is not attached to any such machine or mechanical device as a constituent part”, in par. (3).
 
-Subsec. (b). Pub. L. 87–840, § 3, substituted “the District of Columbia” for “Alaska, Hawaii”.
+Subsec. (b). Pub. L. 87–840, § 3, substituted “the District of Columbia” for “Alaska, Hawaii”.
 
-Subsecs. (d), (e). Pub. L. 87–840, § 3, added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 87–840, § 3, added subsecs. (d) and (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1962 Amendment**
 
-Pub. L. 87–840, § 7, Oct. 18, 1962, 76 Stat. 1077, provided that: “The amendments made by this Act [enacting section 1178 of this title and amending this section and sections 1172 and 1173 of this title] shall take effect on the sixtieth day after the date of its enactment [Oct. 18, 1962].”
+Pub. L. 87–840, § 7, Oct. 18, 1962, 76 Stat. 1077, provided that: “The amendments made by this Act [enacting section 1178 of this title and amending this section and sections 1172 and 1173 of this title] shall take effect on the sixtieth day after the date of its enactment [Oct. 18, 1962].”
 
 **Short Title of 1962 Amendment**
 
-Pub. L. 87–840, § 1, Oct. 18, 1962, 76 Stat. 1075, provided: “That this Act [enacting section 1178 of this title and amending this section and sections 1172 and 1173 of this title] may be cited as the ‘Gambling Devices Act of 1962’.”
+Pub. L. 87–840, § 1, Oct. 18, 1962, 76 Stat. 1075, provided: “That this Act [enacting section 1178 of this title and amending this section and sections 1172 and 1173 of this title] may be cited as the ‘Gambling Devices Act of 1962’.”
 
 **Short Title**
 
@@ -71,9 +71,9 @@ Act Jan. 2, 1951, which enacted this chapter and a note set out under this secti
 
 **Separability**
 
-Act Jan. 2, 1951, ch. 1194, § 8, 64 Stat. 1136, provided that: “If any provision of this Act [this chapter] or the application thereof to any person or circumstance is held invalid, such invalidity shall not affect other provisions or applications of the Act [this chapter] which can be given effect without the invalid provision or application, and to this end the provisions of this Act [this chapter] are declared to be severable.”
+Act Jan. 2, 1951, ch. 1194, § 8, 64 Stat. 1136, provided that: “If any provision of this Act [this chapter] or the application thereof to any person or circumstance is held invalid, such invalidity shall not affect other provisions or applications of the Act [this chapter] which can be given effect without the invalid provision or application, and to this end the provisions of this Act [this chapter] are declared to be severable.”
 
-## § 1172. Transportation of gambling devices as unlawful; exceptions; authority of Federal Trade Commission
+## § 1172. Transportation of gambling devices as unlawful; exceptions; authority of Federal Trade Commission
 
 **(a) General rule**
 
@@ -89,19 +89,19 @@ Nothing in this chapter shall be construed to interfere with or reduce the autho
 
 **(2)** the gambling device remains on board that vessel while in that State.
 
-(Jan. 2, 1951, ch. 1194, § 2, 64 Stat. 1134; Pub. L. 87–840, § 4, Oct. 18, 1962, 76 Stat. 1075; Pub. L. 102–251, title II, § 202(a), Mar. 9, 1992, 106 Stat. 61.)
+(Jan. 2, 1951, ch. 1194, § 2, 64 Stat. 1134; Pub. L. 87–840, § 4, Oct. 18, 1962, 76 Stat. 1075; Pub. L. 102–251, title II, § 202(a), Mar. 9, 1992, 106 Stat. 61.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 **Amendments**
 
-1992—Pub. L. 102–251, § 202(a)(1), (3), (4), designated existing provisions as subsecs. (a) and (b), inserted headings, and added subsec. (c).
+1992—Pub. L. 102–251, § 202(a)(1), (3), (4), designated existing provisions as subsecs. (a) and (b), inserted headings, and added subsec. (c).
 
-Pub. L. 102–251, § 202(a)(2), which directed that “, District of Columbia,” be struck out in subsec. (a), was executed by striking out “, the District of Columbia,” after “place in a State” and “outside of such State” to reflect the probable intent of Congress.
+Pub. L. 102–251, § 202(a)(2), which directed that “, District of Columbia,” be struck out in subsec. (a), was executed by striking out “, the District of Columbia,” after “place in a State” and “outside of such State” to reflect the probable intent of Congress.
 
 1962—Pub. L. 87–840 excepted gambling devices used or designed for use at and transported to licensed gambling establishments where betting is legal under State laws, and provided that it shall not be unlawful to transport such devices into any State in which the device is specifically enumerated as lawful in a State statute.
 
@@ -111,7 +111,7 @@ Pub. L. 102–251, § 202(a)(2), which directed that “, District of Columb
 
 Amendment effective on sixtieth day after Oct. 18, 1962, see section 7 of Pub. L. 87–840, set out as a note under section 1171 of this title.
 
-## § 1173. Registration of manufacturers and dealers
+## § 1173. Registration of manufacturers and dealers
 
 **(a) Activities requiring registration; contents of registration statement**
 
@@ -161,7 +161,7 @@ Each record required to be maintained under this section shall be kept by the pe
 
 Agents of the Federal Bureau of Investigation shall, at any place designated pursuant to subsection (a)(4)(C) of this section by any person required to register by subsection (a) of this section, at all reasonable times, have access to and the right to copy any of the records required to be kept by this section, and, in case of refusal by any person registered under such subsection (a) to allow inspection and copying of such records, the United States district court for the district in which such place is located shall have jurisdiction to issue an order compelling production of such records for inspection or copying.
 
-(Jan. 2, 1951, ch. 1194, § 3, 64 Stat. 1135; Pub. L. 87–840, § 5, Oct. 18, 1962, 76 Stat. 1075.)
+(Jan. 2, 1951, ch. 1194, § 3, 64 Stat. 1135; Pub. L. 87–840, § 5, Oct. 18, 1962, 76 Stat. 1075.)
 
 **Editorial Notes**
 
@@ -179,13 +179,13 @@ The effective date of the Gambling Devices Act of 1962, referred to in subsec. (
 
 Amendment effective on sixtieth day after Oct. 18, 1962, see section 7 of Pub. L. 87–840, set out as a note under section 1171 of this title.
 
-## § 1174. Labeling and marking of shipping packages
+## § 1174. Labeling and marking of shipping packages
 
 All gambling devices, and all packages containing any such, when shipped or transported shall be plainly and clearly labeled or marked so that the name and address of the shipper and of the consignee, and the nature of the article or the contents of the package may be readily ascertained on an inspection of the outside of the article or package.
 
-(Jan. 2, 1951, ch. 1194, § 4, 64 Stat. 1135.)
+(Jan. 2, 1951, ch. 1194, § 4, 64 Stat. 1135.)
 
-## § 1175. Specific jurisdictions within which manufacturing, repairing, selling, possessing, etc., prohibited; exceptions
+## § 1175. Specific jurisdictions within which manufacturing, repairing, selling, possessing, etc., prohibited; exceptions
 
 **(a) General rule**
 
@@ -241,7 +241,7 @@ Paragraph (1)(A) does not apply to the repair or use of a gambling device on a v
 
 **(C)** is of at least 60 hours duration.
 
-(Jan. 2, 1951, ch. 1194, § 5, 64 Stat. 1135; Pub. L. 102–251, title II, § 202(b), Mar. 9, 1992, 106 Stat. 61; Pub. L. 104–264, title XII, § 1222, Oct. 9, 1996, 110 Stat. 3286; Pub. L. 104–324, title XI, § 1106, Oct. 19, 1996, 110 Stat. 3967; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 147], Dec. 21, 2000, 114 Stat. 2763, 2763A–251.)
+(Jan. 2, 1951, ch. 1194, § 5, 64 Stat. 1135; Pub. L. 102–251, title II, § 202(b), Mar. 9, 1992, 106 Stat. 61; Pub. L. 104–264, title XII, § 1222, Oct. 9, 1996, 110 Stat. 3286; Pub. L. 104–324, title XI, § 1106, Oct. 19, 1996, 110 Stat. 3967; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 147], Dec. 21, 2000, 114 Stat. 2763, 2763A–251.)
 
 **Editorial Notes**
 
@@ -249,15 +249,15 @@ Paragraph (1)(A) does not apply to the repair or use of a gambling device on a v
 
 2000—Subsec. (b)(1). Pub. L. 106–554 inserted “for a voyage or a segment of a voyage that begins and ends in the State of Hawaii, or” after “Except” in introductory provisions.
 
-1996—Subsec. (b)(1)(C). Pub. L. 104–324, § 1106(b), added subpar. (C).
+1996—Subsec. (b)(1)(C). Pub. L. 104–324, § 1106(b), added subpar. (C).
 
-Subsec. (b)(2)(C). Pub. L. 104–264, § 1222, and Pub. L. 104–324, § 1106(a), made substantially identical amendments, adding subpar. (C). The text of subpar. (C) is based on amendment by Pub. L. 104–324.
+Subsec. (b)(2)(C). Pub. L. 104–264, § 1222, and Pub. L. 104–324, § 1106(a), made substantially identical amendments, adding subpar. (C). The text of subpar. (C) is based on amendment by Pub. L. 104–324.
 
-Subsec. (c). Pub. L. 104–324, § 1106(c), added subsec. (c).
+Subsec. (c). Pub. L. 104–324, § 1106(c), added subsec. (c).
 
-1992—Subsec. (a). Pub. L. 102–251, § 202(b)(1), (2), designated existing provisions as subsec. (a), inserted heading, and inserted before period at end “, including on a vessel documented under chapter 121 of title 46 or documented under the laws of a foreign country”.
+1992—Subsec. (a). Pub. L. 102–251, § 202(b)(1), (2), designated existing provisions as subsec. (a), inserted heading, and inserted before period at end “, including on a vessel documented under chapter 121 of title 46 or documented under the laws of a foreign country”.
 
-Subsec. (b). Pub. L. 102–251, § 202(b)(3), added subsec. (b).
+Subsec. (b). Pub. L. 102–251, § 202(b)(3), added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -265,17 +265,17 @@ Subsec. (b). Pub. L. 102–251, § 202(b)(3), added subsec. (b).
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of Title 49, Transportation.
 
-## § 1176. Penalties
+## § 1176. Penalties
 
 Whoever violates any of the provisions of sections 1172, 1173, 1174, or 1175 of this title shall be fined not more than $5,000 or imprisoned not more than two years, or both.
 
-(Jan. 2, 1951, ch. 1194, § 6, 64 Stat. 1135.)
+(Jan. 2, 1951, ch. 1194, § 6, 64 Stat. 1135.)
 
-## § 1177. Confiscation of gambling devices and means of transportation; laws governing
+## § 1177. Confiscation of gambling devices and means of transportation; laws governing
 
 Any gambling device transported, delivered, shipped, manufactured, reconditioned, repaired, sold, disposed of, received, possessed, or used in violation of the provisions of this chapter shall be seized and forfeited to the United States. All provisions of law relating to the seizure, summary and judicial forfeiture, and condemnation of vessels, vehicles, merchandise, and baggage for violation of the customs laws; the disposition of such vessels, vehicles, merchandise, and baggage or the proceeds from the sale thereof; the remission or mitigation of such forfeitures; and the compromise of claims and the award of compensation to informers in respect of such forfeitures shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, insofar as applicable and not inconsistent with the provisions hereof: *Provided*, That such duties as are imposed upon the collector of customs or any other person with respect to the seizure and forfeiture of vessels, vehicles, merchandise, and baggage under the customs laws shall be performed with respect to seizures and forfeitures of gambling devices under this chapter by such officers, agents, or other persons as may be authorized or designated for that purpose by the Attorney General.
 
-(Jan. 2, 1951, ch. 1194, § 7, 64 Stat. 1135.)
+(Jan. 2, 1951, ch. 1194, § 7, 64 Stat. 1135.)
 
 **Executive Documents**
 
@@ -283,7 +283,7 @@ Any gambling device transported, delivered, shipped, manufactured, reconditioned
 
 Offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished with such offices to be terminated not later than Dec. 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. Functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
 
-## § 1178. Nonapplicability of chapter to certain machines and devices
+## § 1178. Nonapplicability of chapter to certain machines and devices
 
 None of the provisions of this chapter shall be construed to apply—
 
@@ -293,7 +293,7 @@ None of the provisions of this chapter shall be construed to apply—
 
 **(3)** to any so-called claw, crane, or digger machine and similar devices which are not operated by coin, are actuated by a crank, and are designed and manufactured primarily for use at carnivals or county or State fairs.
 
-(Jan. 2, 1951, ch. 1194, § 9, as added Pub. L. 87–840, § 6, Oct. 18, 1962, 76 Stat. 1077.)
+(Jan. 2, 1951, ch. 1194, § 9, as added Pub. L. 87–840, § 6, Oct. 18, 1962, 76 Stat. 1077.)
 
 **Statutory Notes and Related Subsidiaries**
 

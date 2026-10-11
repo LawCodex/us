@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 17—AGENCY RESPONSIBILITIES AND PROCEDURES
 
-## § 1701. Cooperation with the Administrator
+## § 1701. Cooperation with the Administrator
 
 On the request of the Administrator, each executive agency shall—
 
@@ -23,13 +23,13 @@ On the request of the Administrator, each executive agency shall—
 
 **(2)** except when prohibited by law, furnish to the Administrator, and give the Administrator access to, all information and records in its possession that the Administrator may determine to be necessary for the performance of the functions of the Office.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3700.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3700.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1701 | 41:406. | Pub. L. 93–400, § 7, Aug. 30, 1974, 88 Stat. 798. |
+| 1701 | 41:406. | Pub. L. 93–400, § 7, Aug. 30, 1974, 88 Stat. 798. |
 
 **Executive Documents**
 
@@ -109,7 +109,7 @@ Sec. 4. Executive Order No. 12352 is revoked.
 
 William J. Clinton.
 
-## § 1702. Chief Acquisition Officers and senior procurement executives
+## § 1702. Chief Acquisition Officers and senior procurement executives
 
 **(a) Appointment or Designation of Chief Acquisition Officer.—** The head of each executive agency described in section 901(b)(1) (other than the Department of Defense) or 901(b)(2)(C) of title 31 with a Chief Financial Officer appointed or designated under section 901(a) of title 31 shall appoint or designate a non-career employee as Chief Acquisition Officer for the agency.
 
@@ -157,13 +157,13 @@ William J. Clinton.
 
 **(d) Overseas Contingency Operations Defined.—** In this section, the term “overseas contingency operations” means military operations outside the United States and its territories and possessions that are a contingency operation (as that term is defined in section 101(a)(13) of title 10).
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3701; Pub. L. 112–239, div. A, title VIII, § 849, Jan. 2, 2013, 126 Stat. 1853.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3701; Pub. L. 112–239, div. A, title VIII, § 849, Jan. 2, 2013, 126 Stat. 1853.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1702(a), (b)(1), (2) | 41:414(a). | Pub. L. 93–400, § 16, as added Pub. L. 98–191, § 7, Dec. 1, 1983, 97 Stat. 1330; Pub. L. 98–369, title VII, § 2732(b)(2), July 18, 1984, 98 Stat. 1199; Pub. L. 108–136, div. A, title XIV, § 1421(a)(1), Nov. 24, 2003, 117 Stat. 1666. |
+| 1702(a), (b)(1), (2) | 41:414(a). | Pub. L. 93–400, § 16, as added Pub. L. 98–191, § 7, Dec. 1, 1983, 97 Stat. 1330; Pub. L. 98–369, title VII, § 2732(b)(2), July 18, 1984, 98 Stat. 1199; Pub. L. 108–136, div. A, title XIV, § 1421(a)(1), Nov. 24, 2003, 117 Stat. 1666. |
 | 1702(b)(3) | 41:414(b). |  |
 | 1702(c) | 41:414(c). |  |
 
@@ -171,11 +171,11 @@ William J. Clinton.
 
 **Amendments**
 
-2013—Subsec. (b)(3)(F) to (H). Pub. L. 112–239, § 849(a), added subpar. (F) and redesignated former subpars. (F) and (G) as (G) and (H), respectively.
+2013—Subsec. (b)(3)(F) to (H). Pub. L. 112–239, § 849(a), added subpar. (F) and redesignated former subpars. (F) and (G) as (G) and (H), respectively.
 
-Subsec. (d). Pub. L. 112–239, § 849(b), added subsec. (d).
+Subsec. (d). Pub. L. 112–239, § 849(b), added subsec. (d).
 
-## § 1703. Acquisition workforce
+## § 1703. Acquisition workforce
 
 **(a) Description.—** For purposes of this section, the acquisition workforce of an agency consists of all employees serving in acquisition positions listed in subsection (g)(1)(A).
 
@@ -281,9 +281,9 @@ Subsec. (d). Pub. L. 112–239, § 849(b), added subsec. (d).
 
 **(5) Transfer and use of fees collected from department of defense.—** The Administrator of General Services shall transfer to the Secretary of Defense fees collected from the Department of Defense pursuant to paragraph (3). The Defense Acquisition University shall use the fees for acquisition workforce training.
 
-**(6) Amounts not to be used for other purposes.—** The Administrator of General Services, through the Office of Federal Procurememt 1
+**(6) Amounts not to be used for other purposes.—** The Administrator of General Services, through the Office of Federal Procurememt 1
 
-<sup>1</sup>  So in original. Probably should be “Procurement”.
+<sup>1</sup> So in original. Probably should be “Procurement”.
 
 Policy, shall ensure that amounts collected under this section are not used for a purpose other than the activities set forth in section 1201(a) of this title.
 
@@ -317,14 +317,14 @@ Policy, shall ensure that amounts collected under this section are not used for 
 
 **(l) Acquisition Internship and Training Programs.—** All Federal civilian agency acquisition internship or acquisition training programs shall follow guidelines provided by the Office of Federal Procurement Policy to ensure consistent training standards necessary to develop uniform core competencies throughout the Federal Government.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3702; Pub. L. 112–74, div. C, title V, § 526, Dec. 23, 2011, 125 Stat. 914; Pub. L. 112–81, div. A, title VIII, § 864(c), (d), Dec. 31, 2011, 125 Stat. 1525; Pub. L. 112–239, div. A, title X, § 1076(a)(15), title XI, § 1103, Jan. 2, 2013, 126 Stat. 1948, 1973.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3702; Pub. L. 112–74, div. C, title V, § 526, Dec. 23, 2011, 125 Stat. 914; Pub. L. 112–81, div. A, title VIII, § 864(c), (d), Dec. 31, 2011, 125 Stat. 1525; Pub. L. 112–239, div. A, title X, § 1076(a)(15), title XI, § 1103, Jan. 2, 2013, 126 Stat. 1948, 1973.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1703(a) | 41:433(e) (last sentence). | Pub. L. 93–400, § 37(b)–(h)(2), as added Pub. L. 104–106, title XLIII, § 4307(a)(1), Feb. 10, 1996, 110 Stat. 666. |
-| 1703(b)(1) | 41:433(a). | Pub. L. 93–400, § 37(a), as added Pub. L. 104–106, title XLIII, § 4307(a)(1), Feb. 10, 1996, 110 Stat. 666; Pub. L. 109–163, div. A, title VIII, § 821(b)(1), Jan. 6, 2006, 119 Stat. 3386. |
+| 1703(a) | 41:433(e) (last sentence). | Pub. L. 93–400, § 37(b)–(h)(2), as added Pub. L. 104–106, title XLIII, § 4307(a)(1), Feb. 10, 1996, 110 Stat. 666. |
+| 1703(b)(1) | 41:433(a). | Pub. L. 93–400, § 37(a), as added Pub. L. 104–106, title XLIII, § 4307(a)(1), Feb. 10, 1996, 110 Stat. 666; Pub. L. 109–163, div. A, title VIII, § 821(b)(1), Jan. 6, 2006, 119 Stat. 3386. |
 | 1703(b)(2) | 41:433(e) (1st sentence). |  |
 | 1703(c) | 41:433(b). |  |
 | 1703(d) | 41:433(c). |  |
@@ -334,10 +334,10 @@ Policy, shall ensure that amounts collected under this section are not used for 
 | 1703(h)(1) | 41:433(h)(1)(A). |  |
 | 1703(h)(2) | 41:433(h)(2). |  |
 | 1703(h)(3) | 41:433(h)(1)(B). |  |
-| 1703(i)(1) | 41:433 note. | Pub. L. 108–136, div. A, title XIV, § 1412(a), Nov. 24, 2003, 117 Stat. 1664. |
-| 1703(i)(2)–(8) | 41:433(h)(3). | Pub. L. 93–400, § 37(h)(3), as added Pub. L. 108–136, div. A, title XIV, § 1412(b), Nov. 24, 2003, 117 Stat. 1664; Pub. L. 109–163, div. A, title VIII, § 821(a), Jan. 6, 2006, 119 Stat. 3386; Pub. L. 110–181, div. A, title VIII, § 854, Jan. 28, 2008, 122 Stat. 251. |
-| 1703(j) | 41:433 note. | Pub. L. 108–136, div. A, title XIV, § 1413, Nov. 24, 2003, 117 Stat. 1665; Pub. L. 110–181, div. A, title VIII, § 853, title X, § 1063(g)(2), Jan. 28, 2008, 122 Stat. 250, 323. |
-| 1703(k) | 41:433(i). | Pub. L. 93–400, § 37(i), as added Pub. L. 109–313, § 4, Oct. 6, 2006, 120 Stat. 1737. |
+| 1703(i)(1) | 41:433 note. | Pub. L. 108–136, div. A, title XIV, § 1412(a), Nov. 24, 2003, 117 Stat. 1664. |
+| 1703(i)(2)–(8) | 41:433(h)(3). | Pub. L. 93–400, § 37(h)(3), as added Pub. L. 108–136, div. A, title XIV, § 1412(b), Nov. 24, 2003, 117 Stat. 1664; Pub. L. 109–163, div. A, title VIII, § 821(a), Jan. 6, 2006, 119 Stat. 3386; Pub. L. 110–181, div. A, title VIII, § 854, Jan. 28, 2008, 122 Stat. 251. |
+| 1703(j) | 41:433 note. | Pub. L. 108–136, div. A, title XIV, § 1413, Nov. 24, 2003, 117 Stat. 1665; Pub. L. 110–181, div. A, title VIII, § 853, title X, § 1063(g)(2), Jan. 28, 2008, 122 Stat. 250, 323. |
+| 1703(k) | 41:433(i). | Pub. L. 93–400, § 37(i), as added Pub. L. 109–313, § 4, Oct. 6, 2006, 120 Stat. 1737. |
 
 In subsection (e), the word “information” the second time it appears is substituted for “data” for consistency in the subsection.
 
@@ -355,19 +355,19 @@ Section 5051(c) of the Federal Acquisition Streamlining Act of 1994, referred to
 
 **Amendments**
 
-2013—Subsec. (i)(6). Pub. L. 112–239, § 1076(a)(15), amended Pub. L. 112–81, § 864(d)(2). See 2011 Amendment note below.
+2013—Subsec. (i)(6). Pub. L. 112–239, § 1076(a)(15), amended Pub. L. 112–81, § 864(d)(2). See 2011 Amendment note below.
 
-Subsec. (j)(2). Pub. L. 112–239, § 1103, substituted “September 30, 2017” for “September 30, 2012”.
+Subsec. (j)(2). Pub. L. 112–239, § 1103, substituted “September 30, 2017” for “September 30, 2012”.
 
-2011—Subsec. (c)(2). Pub. L. 112–81, § 864(c)(1), designated existing provisions as subpar. (A), inserted subpar. heading, and added subpar. (B).
+2011—Subsec. (c)(2). Pub. L. 112–81, § 864(c)(1), designated existing provisions as subpar. (A), inserted subpar. heading, and added subpar. (B).
 
-Subsec. (i)(2). Pub. L. 112–81, § 864(d)(1), substituted “to support the activities set forth in section 1201(a) of this title” for “to support the training of the acquisition workforce of the executive agencies”.
+Subsec. (i)(2). Pub. L. 112–81, § 864(d)(1), substituted “to support the activities set forth in section 1201(a) of this title” for “to support the training of the acquisition workforce of the executive agencies”.
 
-Subsec. (i)(6). Pub. L. 112–81, § 864(d)(2), as amended by Pub. L. 112–239, § 1076(a)(15), substituted “ensure that amounts collected under this section are not used for a purpose other than the activities set forth in section 1201(a) of this title.” for “ensure that amounts collected under this subsection are not used for a purpose other than the purpose specified in subparagraphs (A) and (C) to (J) of section 1122(a)(5) of this title.”
+Subsec. (i)(6). Pub. L. 112–81, § 864(d)(2), as amended by Pub. L. 112–239, § 1076(a)(15), substituted “ensure that amounts collected under this section are not used for a purpose other than the activities set forth in section 1201(a) of this title.” for “ensure that amounts collected under this subsection are not used for a purpose other than the purpose specified in subparagraphs (A) and (C) to (J) of section 1122(a)(5) of this title.”
 
 Pub. L. 112–74 struck out “for training” after “amounts collected” and substituted “subparagraphs (A) and (C) to (J) of section 1122(a)(5) of this title” for “paragraph (2)”.
 
-Subsec. (*l*). Pub. L. 112–81, § 864(c)(2), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 112–81, § 864(c)(2), added subsec. (*l*).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -377,7 +377,7 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(15) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(15) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 **Artificial Intelligence Training for the Acquisition Workforce**
 
@@ -523,19 +523,19 @@ Pub. L. 117–145, June 16, 2022, 136 Stat. 1269, provided that:
 
 **Effective Communication Between Government and Industry**
 
-Pub. L. 114–92, div. A, title VIII, § 887, Nov. 25, 2015, 129 Stat. 949, provided that: “Not later than 180 days after the date of the enactment of this Act [Nov. 25, 2015], the Federal Acquisition Regulatory Council shall prescribe a regulation making clear that agency acquisition personnel are permitted and encouraged to engage in responsible and constructive exchanges with industry, so long as those exchanges are consistent with existing law and regulation and do not promote an unfair competitive advantage to particular firms.”
+Pub. L. 114–92, div. A, title VIII, § 887, Nov. 25, 2015, 129 Stat. 949, provided that: “Not later than 180 days after the date of the enactment of this Act [Nov. 25, 2015], the Federal Acquisition Regulatory Council shall prescribe a regulation making clear that agency acquisition personnel are permitted and encouraged to engage in responsible and constructive exchanges with industry, so long as those exchanges are consistent with existing law and regulation and do not promote an unfair competitive advantage to particular firms.”
 
 **Training for Contracting and Enforcement Personnel**
 
-Pub. L. 111–240, title I, § 1343(a), Sept. 27, 2010, 124 Stat. 2545, provided that: “Not later than 1 year after the date of enactment of this Act [Sept. 27, 2010], the Federal Acquisition Institute, in consultation with the Administrator for Federal Procurement Policy, the Defense Acquisition University, and the Administrator [of the Small Business Administration], shall develop courses for acquisition personnel concerning proper classification of business concerns and small business size and status for purposes of Federal contracts, subcontracts, grants, cooperative agreements, and cooperative research and development agreements.”
+Pub. L. 111–240, title I, § 1343(a), Sept. 27, 2010, 124 Stat. 2545, provided that: “Not later than 1 year after the date of enactment of this Act [Sept. 27, 2010], the Federal Acquisition Institute, in consultation with the Administrator for Federal Procurement Policy, the Defense Acquisition University, and the Administrator [of the Small Business Administration], shall develop courses for acquisition personnel concerning proper classification of business concerns and small business size and status for purposes of Federal contracts, subcontracts, grants, cooperative agreements, and cooperative research and development agreements.”
 
 **Defense Acquisition University Funding**
 
-Pub. L. 109–163, div. A, title VIII, § 821(c), Jan. 6, 2006, 119 Stat. 3386, provided that: “Amounts transferred under section 37(h)(3)(D) of the Office of Federal Procurement Policy Act [now 41 U.S.C. 1703(i)(5)] (as amended by subsection (a)) for use by the Defense Acquisition University shall be in addition to other amounts authorized for the University.”
+Pub. L. 109–163, div. A, title VIII, § 821(c), Jan. 6, 2006, 119 Stat. 3386, provided that: “Amounts transferred under section 37(h)(3)(D) of the Office of Federal Procurement Policy Act [now 41 U.S.C. 1703(i)(5)] (as amended by subsection (a)) for use by the Defense Acquisition University shall be in addition to other amounts authorized for the University.”
 
 **Enhanced System of Performance Incentives**
 
-Pub. L. 103–355, title V, § 5051(c), Oct. 13, 1994, 108 Stat. 3351, provided that:
+Pub. L. 103–355, title V, § 5051(c), Oct. 13, 1994, 108 Stat. 3351, provided that:
 
 > “Within one year after the date of the enactment of this Act [Oct. 13, 1994], the Deputy Director for Management of the Office of Management and Budget, in consultation with appropriate officials in other departments and agencies of the Federal Government, shall, to the maximum extent consistent with applicable law—
 
@@ -547,7 +547,7 @@ Pub. L. 103–355, title V, § 5051(c), Oct. 13, 1994, 108 Stat. 3351, provide
 
 > **“(B)** provides for consideration, in personnel evaluations and promotion decisions, of the extent to which the performance of personnel in such workforce contributes to achieving such cost goals, schedule goals, and performance goals.”
 
-## § 1704. Planning and policy-making for acquisition workforce
+## § 1704. Planning and policy-making for acquisition workforce
 
 **(a) Definitions.—** In this section:
 
@@ -633,11 +633,11 @@ Pub. L. 103–355, title V, § 5051(c), Oct. 13, 1994, 108 Stat. 3351, provide
 
 **(i) Utilization of Recruitment and Retention Authorities.—** The Administrator, in coordination with the Director of the Office of Personnel Management, shall encourage executive agencies to use existing authorities, including direct hire authority and tuition assistance programs, to recruit and retain acquisition personnel and consider recruiting acquisition personnel who may be retiring from the private sector, consistent with existing laws and regulations.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3706; Pub. L. 111–383, div. A, title X, § 1075(e)(15), Jan. 7, 2011, 124 Stat. 4375; Pub. L. 112–81, div. A, title VIII, § 864(a), Dec. 31, 2011, 125 Stat. 1522; Pub. L. 112–239, div. A, title X, § 1076(a)(14), Jan. 2, 2013, 126 Stat. 1948.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3706; Pub. L. 111–383, div. A, title X, § 1075(e)(15), Jan. 7, 2011, 124 Stat. 4375; Pub. L. 112–81, div. A, title VIII, § 864(a), Dec. 31, 2011, 125 Stat. 1522; Pub. L. 112–239, div. A, title X, § 1076(a)(14), Jan. 2, 2013, 126 Stat. 1948.)
 
 **Amendments Not Shown in Text**
 
-Subsec. (g) of this section was derived from Pub. L. 110–417, [div. A], title VIII, § 869, Oct. 14, 2008, 122 Stat. 4553, which was set out as a note under section 433a of former Title 41, Public Contracts, prior to being repealed and reenacted as subsec. (g) of this section by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Section 869 of Pub. L. 110–417 was amended by Pub. L. 111–383, div. A, title X, § 1075(e)(15), Jan. 7, 2011, 124 Stat. 4375. For applicability of that amendment to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 869 of Pub. L. 110–417 was amended as follows:
+Subsec. (g) of this section was derived from Pub. L. 110–417, [div. A], title VIII, § 869, Oct. 14, 2008, 122 Stat. 4553, which was set out as a note under section 433a of former Title 41, Public Contracts, prior to being repealed and reenacted as subsec. (g) of this section by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Section 869 of Pub. L. 110–417 was amended by Pub. L. 111–383, div. A, title X, § 1075(e)(15), Jan. 7, 2011, 124 Stat. 4375. For applicability of that amendment to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 869 of Pub. L. 110–417 was amended as follows:
 
 (1) in subsection (b), by striking “433(a)” and inserting “433a(a)”; and
 
@@ -654,9 +654,9 @@ Such references did not appear in the text of subsec. (g) as enacted. See Histor
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 1704(a)(1) | no source. |  |
-| 1704(a)(2) | 41:433a(h). | Pub. L. 110–181, div. A, title VIII, § 855, Jan. 28, 2008, 122 Stat. 251. |
+| 1704(a)(2) | 41:433a(h). | Pub. L. 110–181, div. A, title VIII, § 855, Jan. 28, 2008, 122 Stat. 251. |
 | 1704(b)–(f) | 41:433a(a)–(e). |  |
-| 1704(g) | 41:433a note. | Pub. L. 110–417, [div. A], title VIII, § 869, Oct. 14, 2008, 122 Stat. 4553. |
+| 1704(g) | 41:433a note. | Pub. L. 110–417, [div. A], title VIII, § 869, Oct. 14, 2008, 122 Stat. 4553. |
 | 1704(h), (i) | 41:433a(f), (g). |  |
 
 In subsection (a), the definition of “executive agency” is omitted as unnecessary.
@@ -671,23 +671,23 @@ In subsection (g)(3)(D), the reference to “section 37(j) of the Office of Fede
 
 **Amendments**
 
-2013—Subsec. (b). Pub. L. 112–239, § 1076(a)(14), made technical amendment to directory language of Pub. L. 112–81, § 864(a)(2). See 2011 Amendment note below.
+2013—Subsec. (b). Pub. L. 112–239, § 1076(a)(14), made technical amendment to directory language of Pub. L. 112–81, § 864(a)(2). See 2011 Amendment note below.
 
-2011—Subsec. (b). Pub. L. 112–81, § 864(a)(2), as amended by Pub. L. 112–239, § 1076(a)(14), substituted “The Associate Administrator shall be located in the Office of Federal Procurement Policy.” for “The Associate Administrator shall be located in the Federal Acquisition Institute (or its successor).” in introductory provisions.
+2011—Subsec. (b). Pub. L. 112–81, § 864(a)(2), as amended by Pub. L. 112–239, § 1076(a)(14), substituted “The Associate Administrator shall be located in the Office of Federal Procurement Policy.” for “The Associate Administrator shall be located in the Federal Acquisition Institute (or its successor).” in introductory provisions.
 
-Pub. L. 112–81, § 864(a)(1), inserted “The Associate Administrator shall be chosen on the basis of demonstrated knowledge and expertise in acquisition, human capital, and management.” after “Programs.” in introductory provisions.
+Pub. L. 112–81, § 864(a)(1), inserted “The Associate Administrator shall be chosen on the basis of demonstrated knowledge and expertise in acquisition, human capital, and management.” after “Programs.” in introductory provisions.
 
-Subsec. (b)(5), (6). Pub. L. 112–81, § 864(a)(3)–(5), added par. (5) and redesignated former par. (5) as (6).
+Subsec. (b)(5), (6). Pub. L. 112–81, § 864(a)(3)–(5), added par. (5) and redesignated former par. (5) as (6).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(14) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(14) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 **Expansion of Training and Use of Information Technology Cadres**
 
-Pub. L. 113–291, div. A, title VIII, § 835, Dec. 19, 2014, 128 Stat. 3449, provided that:
+Pub. L. 113–291, div. A, title VIII, § 835, Dec. 19, 2014, 128 Stat. 3449, provided that:
 
 > **“(a) Purpose.—** The purpose of this section is to ensure timely progress by Federal agencies toward developing, strengthening, and deploying information technology acquisition cadres consisting of personnel with highly specialized skills in information technology acquisition, including program and project managers.
 
@@ -711,7 +711,7 @@ Pub. L. 113–291, div. A, title VIII, § 835, Dec. 19, 2014, 128 Stat. 3449, 
 
 > **“(c) Federal Agency Defined.—** In this section, the term ‘Federal agency’ means each agency listed in section 901(b) of title 31, United States Code.”
 
-## § 1705. Advocates for competition
+## § 1705. Advocates for competition
 
 **(a) Establishment and Designation.—**
 
@@ -755,13 +755,13 @@ Pub. L. 113–291, div. A, title VIII, § 835, Dec. 19, 2014, 128 Stat. 3449, 
 
 **(c) Responsibilities.—** The advocate for competition for each procuring activity is responsible for promoting full and open competition, promoting the acquisition of commercial products and commercial services, and challenging barriers to acquisition, including unnecessarily restrictive statements of need, unnecessarily detailed specifications, and unnecessarily burdensome contract clauses.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3709; Pub. L. 115–232, div. A, title VIII, § 836(b)(2), Aug. 13, 2018, 132 Stat. 1861.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3709; Pub. L. 115–232, div. A, title VIII, § 836(b)(2), Aug. 13, 2018, 132 Stat. 1861.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1705 | 41:418. | Pub. L. 93–400, § 20, as added Pub. L. 98–369, title VII, § 2732(a), July 18, 1984, 98 Stat. 1197; Pub. L. 103–355, title VIII, § 8303(a), Oct. 13, 1994, 108 Stat. 3398. |
+| 1705 | 41:418. | Pub. L. 93–400, § 20, as added Pub. L. 98–369, title VII, § 2732(a), July 18, 1984, 98 Stat. 1197; Pub. L. 103–355, title VIII, § 8303(a), Oct. 13, 1994, 108 Stat. 3398. |
 
 **Editorial Notes**
 
@@ -775,7 +775,7 @@ Pub. L. 113–291, div. A, title VIII, § 835, Dec. 19, 2014, 128 Stat. 3449, 
 
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
-## § 1706. Personnel evaluation
+## § 1706. Personnel evaluation
 
 The head of each executive agency subject to division C shall ensure, with respect to the employees of that agency whose primary duties and responsibilities pertain to the award of contracts subject to the provisions of the Small Business and Federal Procurement Competition Enhancement Act of 1984 (Public Law 98–577, 98 Stat. 3066), that the performance appraisal system applicable to those employees affords appropriate recognition to, among other factors, efforts to—
 
@@ -785,13 +785,13 @@ The head of each executive agency subject to division C shall ensure, with respe
 
 **(3)** further other objectives and purposes of the Federal acquisition system authorized by law.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3710.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3710.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1706 | 41:414a. | Pub. L. 98–577, title V, § 502, Oct. 30, 1984, 98 Stat. 3085. |
+| 1706 | 41:414a. | Pub. L. 98–577, title V, § 502, Oct. 30, 1984, 98 Stat. 3085. |
 
 **Editorial Notes**
 
@@ -801,7 +801,7 @@ The Small Business and Federal Procurement Competition Enhancement Act of 1984, 
 
 The Defense Procurement Reform Act of 1984, referred to in par. (2), is Pub. L. 98–525, title XII, Oct. 19, 1984, 98 Stat. 2588. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 2302 of Title 10, Armed Forces, and Tables.
 
-## § 1707. Publication of proposed regulations
+## § 1707. Publication of proposed regulations
 
 **(a) Covered Policies, Regulations, Procedures, and Forms.—**
 
@@ -837,17 +837,17 @@ The Defense Procurement Reform Act of 1984, referred to in par. (2), is Pub. L. 
 
 **(2) Final policy, regulation, procedure, or form.—** After considering the comments received, the head of the agency waiving the requirements of subsections (a) and (b) under subsection (d) may issue the final procurement policy, regulation, procedure, or form.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3710.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3710.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1707 | 41:418b. | Pub. L. 93–400, § 22, as added Pub. L. 98–577, title III, § 302(a), Oct. 30, 1984, 98 Stat. 3076; Pub. L. 103–355, title V, § 5092, Oct. 13, 1994, 108 Stat. 3362, as amended Pub. L. 104–106, title XLIII, § 4321(a)(9), Feb. 10, 1996, 110 Stat. 671. |
+| 1707 | 41:418b. | Pub. L. 93–400, § 22, as added Pub. L. 98–577, title III, § 302(a), Oct. 30, 1984, 98 Stat. 3076; Pub. L. 103–355, title V, § 5092, Oct. 13, 1994, 108 Stat. 3362, as amended Pub. L. 104–106, title XLIII, § 4321(a)(9), Feb. 10, 1996, 110 Stat. 671. |
 
 In subsection (a)(2), the words “Notwithstanding the preceding sentence” are omitted as unnecessary.
 
-## § 1708. Procurement notice
+## § 1708. Procurement notice
 
 **(a) Notice Requirement.—** Except as provided in subsection (b)—
 
@@ -953,13 +953,13 @@ In subsection (a)(2), the words “Notwithstanding the preceding sentence” are
 
 **(g) Availability of Complete Solicitation Package and Payment of Fee.—** An executive agency shall make available to a business concern, or the authorized representative of a concern, the complete solicitation package for any on-going procurement announced pursuant to a notice of solicitation under subsection (a). An executive agency may require the payment of a fee, not exceeding the actual cost of duplication, for a copy of the package.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3711; Pub. L. 115–232, div. A, title VIII, § 836(b)(3), Aug. 13, 2018, 132 Stat. 1861; Pub. L. 117–81, div. A, title XVII, § 1702(h)(4), Dec. 27, 2021, 135 Stat. 2158.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3711; Pub. L. 115–232, div. A, title VIII, § 836(b)(3), Aug. 13, 2018, 132 Stat. 1861; Pub. L. 117–81, div. A, title XVII, § 1702(h)(4), Dec. 27, 2021, 135 Stat. 2158.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1708(a) | 41:416(a)(1). | Pub. L. 93–400, § 18, as added Pub. L. 98–369, title VII, § 2732(a), July 18, 1984, 98 Stat. 1195; Pub. L. 98–577, title III, § 303(a), Oct. 30, 1984, 98 Stat. 3077; Pub. L. 99–500, § 101(c) [title X, § 922(b), (d)(2)], Oct. 18, 1986, 100 Stat. 1783–151, 1783–152; Pub. L. 99–591, § 101(c) [title X, § 922(b), (d)(2)], Oct. 30, 1986, 100 Stat. 3341–151, 3341–152; Pub. L. 99–661, title IX, formerly title IV, § 922(b), (d)(2), Nov. 14, 1986, 100 Stat. 3931, 3932, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–510, title VIII, § 806(d), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title I, § 1055(b)(1), title IV, §§ 4201(b), (c), 4202(a)–(c), title VIII, § 8302, title IX, § 9001(b), Oct. 13, 1994, 108 Stat. 3265, 3344, 3398, 3402; Pub. L. 104–106, title XLI, § 4101(c), title XLII, § 4202(d), title XLIII, §§ 4310, 4321(h)(3), Feb. 10, 1996, 110 Stat. 642, 654, 670, 675; Pub. L. 105–85, title VIII, § 850(e)(2), Nov. 18, 1997, 111 Stat. 1849; Pub. L. 105–261, title X, § 1069(d)(1), Oct. 17, 1998, 112 Stat. 2136; Pub. L. 106–398, § 1 [[div. A], title VIII, § 810(a), (b)], Oct. 30, 2000, 114 Stat. 1654A–209; Pub. L 107–296, title VIII, § 833(c)(2), Nov. 25, 2002, 116 Stat. 2226. |
+| 1708(a) | 41:416(a)(1). | Pub. L. 93–400, § 18, as added Pub. L. 98–369, title VII, § 2732(a), July 18, 1984, 98 Stat. 1195; Pub. L. 98–577, title III, § 303(a), Oct. 30, 1984, 98 Stat. 3077; Pub. L. 99–500, § 101(c) [title X, § 922(b), (d)(2)], Oct. 18, 1986, 100 Stat. 1783–151, 1783–152; Pub. L. 99–591, § 101(c) [title X, § 922(b), (d)(2)], Oct. 30, 1986, 100 Stat. 3341–151, 3341–152; Pub. L. 99–661, title IX, formerly title IV, § 922(b), (d)(2), Nov. 14, 1986, 100 Stat. 3931, 3932, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–510, title VIII, § 806(d), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title I, § 1055(b)(1), title IV, §§ 4201(b), (c), 4202(a)–(c), title VIII, § 8302, title IX, § 9001(b), Oct. 13, 1994, 108 Stat. 3265, 3344, 3398, 3402; Pub. L. 104–106, title XLI, § 4101(c), title XLII, § 4202(d), title XLIII, §§ 4310, 4321(h)(3), Feb. 10, 1996, 110 Stat. 642, 654, 670, 675; Pub. L. 105–85, title VIII, § 850(e)(2), Nov. 18, 1997, 111 Stat. 1849; Pub. L. 105–261, title X, § 1069(d)(1), Oct. 17, 1998, 112 Stat. 2136; Pub. L. 106–398, § 1 [[div. A], title VIII, § 810(a), (b)], Oct. 30, 2000, 114 Stat. 1654A–209; Pub. L 107–296, title VIII, § 833(c)(2), Nov. 25, 2002, 116 Stat. 2226. |
 | 1708(b)(1), (2) | 41:416(c). |  |
 | 1708(b)(3) | no source. |  |
 | 1708(c) | 41:416(b). |  |
@@ -996,9 +996,9 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 **Applicability to Tennessee Valley Authority**
 
-Pub. L. 98–577, title III, § 303(c), Oct. 30, 1984, 98 Stat. 3079, provided that: “The provisions of the amendments made by subsection (a) of this section [see Tables for classification] shall apply to the Tennessee Valley Authority only with respect to procurements to be paid from appropriated funds.”
+Pub. L. 98–577, title III, § 303(c), Oct. 30, 1984, 98 Stat. 3079, provided that: “The provisions of the amendments made by subsection (a) of this section [see Tables for classification] shall apply to the Tennessee Valley Authority only with respect to procurements to be paid from appropriated funds.”
 
-## § 1709. Contracting functions performed by Federal personnel
+## § 1709. Contracting functions performed by Federal personnel
 
 **(a) Covered Personnel.—** Personnel referred to in subsection (b) are—
 
@@ -1016,13 +1016,13 @@ Pub. L. 98–577, title III, § 303(c), Oct. 30, 1984, 98 Stat. 3079, provided
 
 **(c) Certain Relationship Not Affected.—** This section does not affect the relationship between the Federal Government and a Federally funded research and development center.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3714.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3714.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1709(a) | 41:419(b). | Pub. L. 93–400, § 23, as added Pub. L. 103–355, title VI, § 6002(a), Oct. 13, 1994, 108 Stat. 3363. |
+| 1709(a) | 41:419(b). | Pub. L. 93–400, § 23, as added Pub. L. 103–355, title VI, § 6002(a), Oct. 13, 1994, 108 Stat. 3363. |
 | 1709(b) | 41:419(a). |  |
 | 1709(c) | 41:419(c). |  |
 
@@ -1030,13 +1030,13 @@ In subsection (a), before paragraph (1), the words “Personnel referred to in s
 
 **Senate Revision Amendment**
 
-In subsec. (a)(3), “individual” substituted for “employee from State or local governments” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18682 (2010).
+In subsec. (a)(3), “individual” substituted for “employee from State or local governments” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18682 (2010).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Requirement for Guidance and Regulations**
 
-Pub. L. 103–355, title VI, § 6002(b), Oct. 13, 1994, 108 Stat. 3363, provided that:
+Pub. L. 103–355, title VI, § 6002(b), Oct. 13, 1994, 108 Stat. 3363, provided that:
 
 > “The Federal Acquisition Regulatory Council established by section 25(a) of the Office of Federal Procurement Policy Act ([former] 41 U.S.C. 421(a)) [now 41 U.S.C. 1302(a)] shall—
 
@@ -1048,7 +1048,7 @@ Pub. L. 103–355, title VI, § 6002(b), Oct. 13, 1994, 108 Stat. 3363, provid
 
 > **“(B)** the manner in which personnel with expertise may be shared with agencies needing expertise for such acquisitions.”
 
-## § 1710. Public-private competition required before conversion to contractor performance
+## § 1710. Public-private competition required before conversion to contractor performance
 
 **(a) Public-private competition.—**
 
@@ -1146,17 +1146,17 @@ Pub. L. 103–355, title VI, § 6002(b), Oct. 13, 1994, 108 Stat. 3363, provid
 
 **(e) Inapplicability During War or Emergency.—** The provisions of this section shall not apply during war or during a period of national emergency declared by the President or Congress.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3715.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3715.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1710 | 41:439. | Pub. L. 93–400, § 43, as added Pub. L. 110–181, title III, § 327(a), Jan. 28, 2008, 122 Stat. 63. |
+| 1710 | 41:439. | Pub. L. 93–400, § 43, as added Pub. L. 110–181, title III, § 327(a), Jan. 28, 2008, 122 Stat. 63. |
 
 In the heading for subsection (d) and in subsection (d)(2), the words “disabled people” are substituted for “handicapped persons” for consistency with chapter 85 of the revised title.
 
-## § 1711. Value engineering
+## § 1711. Value engineering
 
 Each executive agency shall establish and maintain cost-effective procedures and processes for analyzing the functions of a program, project, system, product, item of equipment, building, facility, service, or supply of the agency. The analysis shall be—
 
@@ -1164,15 +1164,15 @@ Each executive agency shall establish and maintain cost-effective procedures and
 
 **(2)** directed at improving performance, reliability, quality, safety, and life cycle costs.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3718.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3718.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1711 | 41:432. | Pub. L. 93–400, § 36, as added Pub. L. 104–106, title XLIII, § 4306(a), Feb. 10, 1996, 110 Stat. 665. |
+| 1711 | 41:432. | Pub. L. 93–400, § 36, as added Pub. L. 104–106, title XLIII, § 4306(a), Feb. 10, 1996, 110 Stat. 665. |
 
-## § 1712. Record requirements
+## § 1712. Record requirements
 
 **(a) Maintaining Records on Computer.—** Each executive agency shall establish and maintain for 5 years a computer file, by fiscal year, containing unclassified records of all procurements greater than the simplified acquisition threshold in that fiscal year.
 
@@ -1204,13 +1204,13 @@ Each executive agency shall establish and maintain cost-effective procedures and
 
 **(2)** transmit in a timely manner such information to the General Services Administration for entry into the Federal Procurement Data System referred to in section 1122(a)(4) of this title, or any successor system.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3718; Pub. L. 117–81, div. A, title XVII, § 1702(h)(5), Dec. 27, 2021, 135 Stat. 2158.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3718; Pub. L. 117–81, div. A, title XVII, § 1702(h)(5), Dec. 27, 2021, 135 Stat. 2158.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1712 | 41:417. | Pub. L. 93–400, § 19, as added Pub. L. 98–369, title VII, § 2732(a), July 18, 1984, 98 Stat. 1197; Pub. L. 103–355, title IV, § 4403, Oct. 13, 1994, 108 Stat. 3349; Pub. L. 110–417, title VIII, § 874(b), Oct. 14, 2008, 122 Stat. 4558. |
+| 1712 | 41:417. | Pub. L. 93–400, § 19, as added Pub. L. 98–369, title VII, § 2732(a), July 18, 1984, 98 Stat. 1197; Pub. L. 103–355, title IV, § 4403, Oct. 13, 1994, 108 Stat. 3349; Pub. L. 110–417, title VIII, § 874(b), Oct. 14, 2008, 122 Stat. 4558. |
 
 **Editorial Notes**
 
@@ -1218,7 +1218,7 @@ Each executive agency shall establish and maintain cost-effective procedures and
 
 2021—Subsec. (b)(2)(B). Pub. L. 117–81 substituted “section 3204(a)” for “section 2304(c)”.
 
-## § 1713. Procurement data
+## § 1713. Procurement data
 
 **(a) Definitions.—** In this section:
 
@@ -1230,13 +1230,13 @@ Each executive agency shall establish and maintain cost-effective procedures and
 
 **(b) Reporting.—** Each Federal agency shall report to the Office of Federal Procurement Policy the number of qualified HUBZone small business concerns, the number of small businesses owned and controlled by women, and the number of small business concerns owned and controlled by socially and economically disadvantaged individuals, by gender, that are first time recipients of contracts from the agency. The Office shall take appropriate action to ascertain, for each fiscal year, the number of those small businesses that have newly entered the Federal market.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3719; Pub. L. 115–91, div. A, title XVII, § 1701(a)(4)(F)(ii), Dec. 12, 2017, 131 Stat. 1796.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3719; Pub. L. 115–91, div. A, title XVII, § 1701(a)(4)(F)(ii), Dec. 12, 2017, 131 Stat. 1796.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1713(a) | 41:417a(b). | Pub. L. 100–533, title V, § 502, Oct. 25, 1988, 102 Stat. 2697; Pub. L. 105–135, title VI, § 604(f)(2), Dec. 2, 1997, 111 Stat. 2634. |
+| 1713(a) | 41:417a(b). | Pub. L. 100–533, title V, § 502, Oct. 25, 1988, 102 Stat. 2697; Pub. L. 105–135, title VI, § 604(f)(2), Dec. 2, 1997, 111 Stat. 2634. |
 | 1713(b) | 41:417a(a). |  |
 
 In subsection (b), the words “socially and economically disadvantaged individuals” are substituted for “socially and economically disadvantaged businesses” for consistency with the term set out in subsection (a).

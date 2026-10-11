@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 10—EMPLOYMENT WITHIN THE POSTAL SERVICE
 
-## § 1001. Appointment and status
+## § 1001. Appointment and status
 
 **(a)** Except as otherwise provided in this title, the Postal Service shall appoint all officers and employees of the Postal Service.
 
@@ -41,7 +41,7 @@ retrieved: 2026-10-11
 
 **(7)** to take whatever actions may be necessary to carry out its mission in emergency situations.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 728; Pub. L. 109–435, title VI, § 604(a), Dec. 20, 2006, 120 Stat. 3241.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 728; Pub. L. 109–435, title VI, § 604(a), Dec. 20, 2006, 120 Stat. 3241.)
 
 **Editorial Notes**
 
@@ -57,23 +57,23 @@ Section effective Mar. 1, 1971, pursuant to Resolution No. 71–13 of the Board 
 
 **Performance Evaluations**
 
-Pub. L. 109–435, title VII, § 706(b), Dec. 20, 2006, 120 Stat. 3246, provided that: “The United States Postal Service shall, as soon as is practicable, take such measures as may be necessary to incorporate the affirmative action and equal opportunity criteria contained in 4313(5) of title 5, United States Code, into the performance appraisals of senior supervisory or managerial employees.”
+Pub. L. 109–435, title VII, § 706(b), Dec. 20, 2006, 120 Stat. 3246, provided that: “The United States Postal Service shall, as soon as is practicable, take such measures as may be necessary to incorporate the affirmative action and equal opportunity criteria contained in 4313(5) of title 5, United States Code, into the performance appraisals of senior supervisory or managerial employees.”
 
 **Transfer to United States Postal Service of Post Office Department Personnel**
 
-Pub. L. 91–375, § 8, Aug. 12, 1970, 84 Stat. 783, as amended by Pub. L. 109–435, title X, § 1007(a), Dec. 20, 2006, 120 Stat. 3258, provided that:
+Pub. L. 91–375, § 8, Aug. 12, 1970, 84 Stat. 783, as amended by Pub. L. 109–435, title X, § 1007(a), Dec. 20, 2006, 120 Stat. 3258, provided that:
 
 > **“(a)** Officers and employees of the Post Office Department shall become officers and employees of the United States Postal Service on the effective date of this section. The provisions of this section shall not apply to persons occupying the positions of Postmaster General, Deputy Postmaster General, Assistant Postmasters General, General Counsel, or Judicial Officer. This section shall not be construed, however, to prohibit the appointment of such persons to positions in the Postal Service.
 
 > **“(b)** For purposes of chapter 81 of title 5, United States Code, the Postal Service shall, with respect to any individual receiving benefits under such chapter as an officer or employee of the former Post Office Department, have the same authorities and responsibilities as it has with respect to an officer or employee of the Postal Service receiving such benefits.”
 
-[Pub. L. 109–435, title X, § 1007(b), Dec. 20, 2006, 120 Stat. 3258, provided that: “This section [amending section 8 of Pub. L. 91–375, set out above] and the amendments made by this section shall be effective as of the first day of the fiscal year in which this Act is enacted.” ]
+[Pub. L. 109–435, title X, § 1007(b), Dec. 20, 2006, 120 Stat. 3258, provided that: “This section [amending section 8 of Pub. L. 91–375, set out above] and the amendments made by this section shall be effective as of the first day of the fiscal year in which this Act is enacted.” ]
 
 [Provisions of section 8 of Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.]
 
 **Appointment of Postmasters and Other Employees on Merit Basis**
 
-Pub. L. 91–375, § 13, Aug. 12, 1970, 84 Stat. 786, provided that:
+Pub. L. 91–375, § 13, Aug. 12, 1970, 84 Stat. 786, provided that:
 
 > **“(a)** [*Methods of Appointment; Order of precedence; Status of Postmasters in Office*] Between the date of enactment of this Act [Aug. 12, 1970] and the date on which the Board of Governors of the United States Postal Service determines that section 1001 of title 39, United States Code (as enacted by section 2 of this Act), is effective, the Postmaster General shall appoint postmasters at offices of all classes in the competitive civil service by one of the three following methods which shall be applied in the following order of precedence:
 
@@ -91,7 +91,7 @@ Pub. L. 91–375, § 13, Aug. 12, 1970, 84 Stat. 786, provided that:
 
 [Provisions of section 13 of Pub. L. 91–375 effective Aug. 12, 1970, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.]
 
-## § 1002. Political recommendations
+## § 1002. Political recommendations
 
 **(a)** Except as provided in subsection (e) of this section, each appointment, promotion, assignment, transfer, or designation, interim or otherwise, of an officer or employee in the Postal Service (except a Governor or member of the Postal Regulatory Commission) shall be made without regard to any recommendation or statement, oral or written, with respect to any person who requests or is under consideration for such appointment, promotion, assignment, transfer, or designation, made by—
 
@@ -127,7 +127,7 @@ Pub. L. 91–375, § 13, Aug. 12, 1970, 84 Stat. 786, provided that:
 
 **(g)** The provisions of this section shall not affect the right of an officer or employee of the Postal Service to petition Congress as authorized by section 7211 of title 5.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 729; Pub. L. 95–454, title VII, § 703(c)(5), Oct. 13, 1978, 92 Stat. 1217; Pub. L. 109–435, title VI, § 604(a), Dec. 20, 2006, 120 Stat. 3241.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 729; Pub. L. 95–454, title VII, § 703(c)(5), Oct. 13, 1978, 92 Stat. 1217; Pub. L. 109–435, title VI, § 604(a), Dec. 20, 2006, 120 Stat. 3241.)
 
 **Editorial Notes**
 
@@ -147,33 +147,33 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 Section effective Mar. 1, 1971, pursuant to Resolution No. 71–13 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 1003. Employment policy
+## § 1003. Employment policy
 
 **(a)** Except as provided under chapters 2 and 12 of this title, section 415 of title 5, or other provision of law, the Postal Service shall classify and fix the compensation and benefits of all officers and employees in the Postal Service. It shall be the policy of the Postal Service to maintain compensation and benefits for all officers and employees on a standard of comparability to the compensation and benefits paid for comparable levels of work in the private sector of the economy. No officer or employee shall be paid compensation at a rate in excess of the rate for level I of the Executive Schedule under section 5312 of title 5.
 
 **(b)** Compensation and benefits for all officers and employees serving in or under the Office of Inspector General of the United States Postal Service shall be maintained on a standard of comparability to the compensation and benefits paid for comparable levels of work in the respective Offices of Inspector General of the various establishments named in section 401(1) of title 5.
 
-**(c)** Compensation and benefits for all Postal Inspectors shall be maintained on a standard of comparability to the compensation and benefits paid for comparable levels of work in the executive branch of the Government outside of the Postal Service. As used in this subsection, the term “Postal Inspector” included 1
+**(c)** Compensation and benefits for all Postal Inspectors shall be maintained on a standard of comparability to the compensation and benefits paid for comparable levels of work in the executive branch of the Government outside of the Postal Service. As used in this subsection, the term “Postal Inspector” included 1
 
-<sup>1</sup>  So in original. Probably should be “includes”.
+<sup>1</sup> So in original. Probably should be “includes”.
 
 any agent to whom any investigative powers are granted under section 3061 of title 18.
 
 **(d)** The Postal Service shall follow an employment policy designed, without compromising the policy of section 101(a) of this title, to extend opportunity to the disadvantaged and the handicapped.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 730; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(c)(2)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–380; Pub. L. 117–286, § 4(b)(65), Dec. 27, 2022, 136 Stat. 4350.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 730; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(c)(2)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–380; Pub. L. 117–286, § 4(b)(65), Dec. 27, 2022, 136 Stat. 4350.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–286, § 4(b)(65)(A), substituted “section 415 of title 5,” for “section 8G of the Inspector General Act of 1978,”.
+2022—Subsec. (a). Pub. L. 117–286, § 4(b)(65)(A), substituted “section 415 of title 5,” for “section 8G of the Inspector General Act of 1978,”.
 
-Subsec. (b). Pub. L. 117–286, § 4(b)(65)(B), substituted “section 401(1) of title 5.” for “section 11(2) of the Inspector General Act of 1978.”
+Subsec. (b). Pub. L. 117–286, § 4(b)(65)(B), substituted “section 401(1) of title 5.” for “section 11(2) of the Inspector General Act of 1978.”
 
-1996—Subsec. (a). Pub. L. 104–208, § 101(f) [title VI, § 662(c)(2)(B)], substituted “chapters 2 and 12 of this title, section 8G of the Inspector General Act of 1978,” for “chapters 2 and 12 of this title”.
+1996—Subsec. (a). Pub. L. 104–208, § 101(f) [title VI, § 662(c)(2)(B)], substituted “chapters 2 and 12 of this title, section 8G of the Inspector General Act of 1978,” for “chapters 2 and 12 of this title”.
 
-Subsecs. (b) to (d). Pub. L. 104–208, § 101(f) [title VI, § 662(c)(2)(A)], added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+Subsecs. (b) to (d). Pub. L. 104–208, § 101(f) [title VI, § 662(c)(2)(A)], added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -183,7 +183,7 @@ Section effective Jan. 20, 1971, pursuant to Resolution No. 71–8 of the Board 
 
 **Compensation of Employees**
 
-Pub. L. 91–375, § 9, Aug. 12, 1970, 84 Stat. 784, provided that:
+Pub. L. 91–375, § 9, Aug. 12, 1970, 84 Stat. 784, provided that:
 
 > **“(a)** [*Increase in Basic Pay Rate; Effective Date*] The Postmaster General, under regulations made by him, shall increase the rates of basic pay or compensation of employees in the Post Office Department so that such rates will equal, as nearly as practicable, 108 percent of the rates of basic pay or compensation in effect immediately prior to the date of enactment of this Act [Aug. 12, 1970]. Such increases shall take effect on the first day of the first pay period which begins on or after April 16, 1970.
 
@@ -203,7 +203,7 @@ Pub. L. 91–375, § 9, Aug. 12, 1970, 84 Stat. 784, provided that:
 
 [Provisions of section 9 of Pub. L. 91–375 effective Aug. 12, 1970, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.]
 
-## § 1004. Supervisory and other managerial organizations
+## § 1004. Supervisory and other managerial organizations
 
 **(a)** It shall be the policy of the Postal Service to provide compensation, working conditions, and career opportunities that will assure the attraction and retention of qualified and capable supervisory and other managerial personnel; to provide adequate and reasonable differentials in rates of pay between employees in the clerk and carrier grades in the line work force and supervisory and other managerial personnel; to establish and maintain continuously a program for all such personnel that reflects the essential importance of a well-trained and well-motivated force to improve the effectiveness of postal operations; and to promote the leadership status of such personnel with respect to rank-and-file employees, recognizing that the role of such personnel in primary level management is particularly vital to the process of converting general postal policies into successful postal operations.
 
@@ -301,7 +301,7 @@ Pub. L. 91–375, § 9, Aug. 12, 1970, 84 Stat. 784, provided that:
 
 **(B)** in the circumstance described in subsection (h)(1)(B), between the Postal Service and the postmasters’ organizations (acting in concert) as represented by either or any of the postmasters’ organizations involved.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 731; Pub. L. 96–326, Aug. 8, 1980, 94 Stat. 1023; Pub. L. 108–86, § 2(a)–(c), Sept. 30, 2003, 117 Stat. 1052.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 731; Pub. L. 96–326, Aug. 8, 1980, 94 Stat. 1023; Pub. L. 108–86, § 2(a)–(c), Sept. 30, 2003, 117 Stat. 1052.)
 
 **Editorial Notes**
 
@@ -311,13 +311,13 @@ The date of the enactment of this subsection, referred to in subsec. (g), is the
 
 **Amendments**
 
-2003—Subsec. (b). Pub. L. 108–86, § 2(a)(2), which directed substitution of “supervisors or postmasters)” for “supervisors)” in second sentence, was executed by making the substitution the second time “supervisors)” appears in the sentence to reflect the probable intent of Congress.
+2003—Subsec. (b). Pub. L. 108–86, § 2(a)(2), which directed substitution of “supervisors or postmasters)” for “supervisors)” in second sentence, was executed by making the substitution the second time “supervisors)” appears in the sentence to reflect the probable intent of Congress.
 
-Pub. L. 108–86, § 2(a)(1), inserted “that an organization (other than an organization representing supervisors) represents at least 20 percent of postmasters,” after “majority of supervisors,”.
+Pub. L. 108–86, § 2(a)(1), inserted “that an organization (other than an organization representing supervisors) represents at least 20 percent of postmasters,” after “majority of supervisors,”.
 
-Subsec. (h). Pub. L. 108–86, § 2(b)(2), added subsec. (h). Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 108–86, § 2(b)(2), added subsec. (h). Former subsec. (h) redesignated (i).
 
-Subsec. (i). Pub. L. 108–86, § 2(b)(1), (c), redesignated subsec. (h) as (i) and added pars. (3) to (5).
+Subsec. (i). Pub. L. 108–86, § 2(b)(1), (c), redesignated subsec. (h) as (i) and added pars. (3) to (5).
 
 1980—Subsecs. (c) to (h). Pub. L. 96–326 added subsecs. (c) to (h).
 
@@ -325,7 +325,7 @@ Subsec. (i). Pub. L. 108–86, § 2(b)(1), (c), redesignated subsec. (h) as (i
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–86, § 3, Sept. 30, 2003, 117 Stat. 1053, provided that: “The amendments made by this section [probably should be “this Act”, amending this section and enacting provisions set out as notes under this section and section 101 of this title] shall take effect 60 days after the date of the enactment of this Act [Sept. 30, 2003].”
+Pub. L. 108–86, § 3, Sept. 30, 2003, 117 Stat. 1053, provided that: “The amendments made by this section [probably should be “this Act”, amending this section and enacting provisions set out as notes under this section and section 101 of this title] shall take effect 60 days after the date of the enactment of this Act [Sept. 30, 2003].”
 
 **Effective Date**
 
@@ -333,7 +333,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **Thrift Advisory Council Not To Be Affected**
 
-Pub. L. 108–86, § 2(d), Sept. 30, 2003, 117 Stat. 1053, provided that:
+Pub. L. 108–86, § 2(d), Sept. 30, 2003, 117 Stat. 1053, provided that:
 
 > “For purposes of section 8473(b)(4) of title 5, United States Code—
 
@@ -341,7 +341,7 @@ Pub. L. 108–86, § 2(d), Sept. 30, 2003, 117 Stat. 1053, provided that:
 
 > **“(2)** any determination of the number of individuals represented by each of those respective organizations shall be made in a manner consistent with the purposes of this subsection.”
 
-## § 1005. Applicability of laws relating to Federal employees
+## § 1005. Applicability of laws relating to Federal employees
 
 **(a)**
 
@@ -381,9 +381,9 @@ Pub. L. 108–86, § 2(d), Sept. 30, 2003, 117 Stat. 1053, provided that:
 
 **(A)** the provisions of that Act and section 5941 of title 5 shall apply to officers and employees covered by section 1003(b) and (c) whose duty station is in a nonforeign area; and
 
-**(B)** with respect to officers and employees of the Postal Service (other than those officers and employees described under subparagraph (A)) of 1
+**(B)** with respect to officers and employees of the Postal Service (other than those officers and employees described under subparagraph (A)) of 1
 
-<sup>1</sup>  So in original. The word “of” probably should not appear.
+<sup>1</sup> So in original. The word “of” probably should not appear.
 
 section 1916(b)(2) of that Act shall apply.
 
@@ -403,29 +403,29 @@ section 1916(b)(2) of that Act shall apply.
 
 **(f)** Compensation, benefits, and other terms and conditions of employment in effect immediately prior to the effective date of this section, whether provided by statute or by rules and regulations of the former Post Office Department or the executive branch of the Government of the United States, shall continue to apply to officers and employees of the Postal Service, until changed by the Postal Service in accordance with this chapter and chapter 12 of this title. Subject to the provisions of this chapter and chapter 12 of this title, the provisions of subchapter I of chapter 85 and chapters 87, 89, 89A, and 89B of title 5 shall apply to officers and employees of the Postal Service, unless varied, added to, or substituted for, under this subsection. No variation, addition, or substitution with respect to fringe benefits shall result in a program of fringe benefits which on the whole is less favorable to the officers and employees than fringe benefits in effect on the effective date of this section, and as to officers and employees for whom there is a collective-bargaining representative, no such variation, addition, or substitution shall be made except by agreement between the collective-bargaining representative and the Postal Service.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 731; Pub. L. 93–349, § 2, July 12, 1974, 88 Stat. 354; Pub. L. 99–335, title III, § 306, June 6, 1986, 100 Stat. 607; Pub. L. 100–90, § 1(a), Aug. 18, 1987, 101 Stat. 673; Pub. L. 103–336, § 3, Oct. 3, 1994, 108 Stat. 2661; Pub. L. 108–496, § 5, Dec. 23, 2004, 118 Stat. 4011; Pub. L. 109–435, title X, § 1010(g)(1), Dec. 20, 2006, 120 Stat. 3262; Pub. L. 111–84, div. A, title XI, § 1122(d), title XIX, § 1916(b)(1), Oct. 28, 2009, 123 Stat. 2509, 2624; Pub. L. 111–383, div. A, title X, § 1075(d)(22), Jan. 7, 2011, 124 Stat. 4374.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 731; Pub. L. 93–349, § 2, July 12, 1974, 88 Stat. 354; Pub. L. 99–335, title III, § 306, June 6, 1986, 100 Stat. 607; Pub. L. 100–90, § 1(a), Aug. 18, 1987, 101 Stat. 673; Pub. L. 103–336, § 3, Oct. 3, 1994, 108 Stat. 2661; Pub. L. 108–496, § 5, Dec. 23, 2004, 118 Stat. 4011; Pub. L. 109–435, title X, § 1010(g)(1), Dec. 20, 2006, 120 Stat. 3262; Pub. L. 111–84, div. A, title XI, § 1122(d), title XIX, § 1916(b)(1), Oct. 28, 2009, 123 Stat. 2509, 2624; Pub. L. 111–383, div. A, title X, § 1075(d)(22), Jan. 7, 2011, 124 Stat. 4374.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Non-Foreign Area Retirement Equity Assurance Act of 2009, referred to in subsec. (b)(2), is subtitle B (§§ 1911–1919) of title XIX of div. A of Pub. L. 111–84, Oct. 28, 2009, 123 Stat. 2619, also known as the Non-Foreign AREA Act of 2009, which is set out as a note under section 5304 of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Tables.
+The Non-Foreign Area Retirement Equity Assurance Act of 2009, referred to in subsec. (b)(2), is subtitle B (§§ 1911–1919) of title XIX of div. A of Pub. L. 111–84, Oct. 28, 2009, 123 Stat. 2619, also known as the Non-Foreign AREA Act of 2009, which is set out as a note under section 5304 of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Tables.
 
 The effective date of this section, referred to in subsec. (f), is July 1, 1971. See Effective Date note below.
 
 **Amendments**
 
-2011—Subsec. (b)(1). Pub. L. 111–383 made technical amendment to directory language of Pub. L. 111–84, § 1916(b)(1)(B). See 2009 Amendment note below.
+2011—Subsec. (b)(1). Pub. L. 111–383 made technical amendment to directory language of Pub. L. 111–84, § 1916(b)(1)(B). See 2009 Amendment note below.
 
-2009—Subsec. (b). Pub. L. 111–84, § 1916(b)(1)(A), inserted par. (1) designation before “Section 5941”.
+2009—Subsec. (b). Pub. L. 111–84, § 1916(b)(1)(A), inserted par. (1) designation before “Section 5941”.
 
-Subsec. (b)(1). Pub. L. 111–84, § 1916(b)(1)(C), substituted “Except as provided under paragraph (2), for purposes of section 5941 of that title,” for “For purposes of such section,”.
+Subsec. (b)(1). Pub. L. 111–84, § 1916(b)(1)(C), substituted “Except as provided under paragraph (2), for purposes of section 5941 of that title,” for “For purposes of such section,”.
 
-Pub. L. 111–84, § 1916(b)(1)(B), as amended by Pub. L. 111–383, substituted “Except as provided under paragraph (2), section 5941” for “Section 5941”.
+Pub. L. 111–84, § 1916(b)(1)(B), as amended by Pub. L. 111–383, substituted “Except as provided under paragraph (2), section 5941” for “Section 5941”.
 
-Subsec. (b)(2). Pub. L. 111–84, § 1916(b)(1)(D), added par. (2).
+Subsec. (b)(2). Pub. L. 111–84, § 1916(b)(1)(D), added par. (2).
 
-Subsec. (d)(2). Pub. L. 111–84, § 1122(d), in introductory provisions, substituted “(m)(2)” for “(*l*)(2)” and “(j)(2)” for “(i)(2)”.
+Subsec. (d)(2). Pub. L. 111–84, § 1122(d), in introductory provisions, substituted “(m)(2)” for “(*l*)(2)” and “(j)(2)” for “(i)(2)”.
 
 2006—Subsec. (d)(2). Pub. L. 109–435 struck out “subsection (g) of section 5532,” after “The provisions of” and substituted “8344” for “8344,”.
 
@@ -443,7 +443,7 @@ Subsec. (d)(2). Pub. L. 111–84, § 1122(d), in introductory provisions, subs
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 111–383, div. A, title X, § 1075(d), Jan. 7, 2011, 124 Stat. 4372, provided that the amendment made by section 1075(d)(22) is effective as of Oct. 28, 2009, and as if included in Pub. L. 111–84 as enacted.
+Pub. L. 111–383, div. A, title X, § 1075(d), Jan. 7, 2011, 124 Stat. 4372, provided that the amendment made by section 1075(d)(22) is effective as of Oct. 28, 2009, and as if included in Pub. L. 111–84 as enacted.
 
 **Effective Date of 2009 Amendment**
 
@@ -455,11 +455,11 @@ Amendment by Pub. L. 108–496 effective Dec. 23, 2004, and applicable to contra
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–90, § 1(b)(1), Aug. 18, 1987, 101 Stat. 673, provided that: “The amendment made by subsection (a) [amending this section] shall be effective after the expiration of the 30-day period beginning on the date of the enactment of this Act [Aug. 18, 1987].”
+Pub. L. 100–90, § 1(b)(1), Aug. 18, 1987, 101 Stat. 673, provided that: “The amendment made by subsection (a) [amending this section] shall be effective after the expiration of the 30-day period beginning on the date of the enactment of this Act [Aug. 18, 1987].”
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–349, § 3, July 12, 1974, 88 Stat. 354, provided that: “The effective date of this Act [amending this section and section 8348 of Title 5, Government Organization and Employees] shall be July 1, 1971, except that the Postal Service shall not be required to make (1) the payments due June 30, 1972, June 30, 1973, and June 30, 1974, attributable to pay increases granted by the Postal Service prior to July 1, 1973, until such time as funds are appropriated to the Postal Service for that purpose, and (2) the transfer to the Civil Service Retirement and Disability Fund required by title II of the Treasury, Postal Service, and General Government Appropriation Act, 1974, Public Law 93–143 [which is not classified to the Code].”
+Pub. L. 93–349, § 3, July 12, 1974, 88 Stat. 354, provided that: “The effective date of this Act [amending this section and section 8348 of Title 5, Government Organization and Employees] shall be July 1, 1971, except that the Postal Service shall not be required to make (1) the payments due June 30, 1972, June 30, 1973, and June 30, 1974, attributable to pay increases granted by the Postal Service prior to July 1, 1973, until such time as funds are appropriated to the Postal Service for that purpose, and (2) the transfer to the Civil Service Retirement and Disability Fund required by title II of the Treasury, Postal Service, and General Government Appropriation Act, 1974, Public Law 93–143 [which is not classified to the Code].”
 
 **Effective Date**
 
@@ -467,15 +467,15 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **Abatement of Actions**
 
-Pub. L. 100–90, § 1(b)(2), Aug. 18, 1987, 101 Stat. 673, provided that: “An action which is commenced under section 1005(a)(1)(B) of title 39, United States Code, before the effective date of the amendment made by subsection (a) [see Effective Date of 1987 Amendment note above] shall not abate by reason of the enactment of this Act [amending this section and enacting provisions set out as a note above]. Determinations with respect to any such action shall be made as if this Act had not been enacted.”
+Pub. L. 100–90, § 1(b)(2), Aug. 18, 1987, 101 Stat. 673, provided that: “An action which is commenced under section 1005(a)(1)(B) of title 39, United States Code, before the effective date of the amendment made by subsection (a) [see Effective Date of 1987 Amendment note above] shall not abate by reason of the enactment of this Act [amending this section and enacting provisions set out as a note above]. Determinations with respect to any such action shall be made as if this Act had not been enacted.”
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions vested by statute in United States Civil Service Commission or Chairman thereof transferred to Director of Office of Personnel Management (except as otherwise specified) by Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+Functions vested by statute in United States Civil Service Commission or Chairman thereof transferred to Director of Office of Personnel Management (except as otherwise specified) by Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
-## § 1006. Right of transfer
+## § 1006. Right of transfer
 
 Officers and employees in the postal career service of the Postal Service shall be eligible for promotion or transfer to any other position in the Postal Service or the executive branch of the Government of the United States for which they are qualified. The authority given by this section shall be used to provide a maximum degree of career promotion opportunities for officers and employees and to insure continued improvement of postal services.
 
@@ -487,7 +487,7 @@ Officers and employees in the postal career service of the Postal Service shall 
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 1007. Seniority for employees in rural service
+## § 1007. Seniority for employees in rural service
 
 Subject to agreements made under chapter 12 of this title, the seniority of an employee of the Postal Service occupying a position whose regular duty involves the collection and delivery of mail on a rural route shall be preserved. Seniority for such employee shall commence on the first day of his service in such a position, or, in the event such an employee transfers to another such position, on the day he enters duty in the other position. Upon initial assignment, such an employee shall be assigned to the least desirable route and shall attain assignment to more desirable routes by seniority. Promotions and assignments for such an employee in such position shall be based on seniority and ability. If ability be sufficient, seniority shall govern.
 
@@ -499,7 +499,7 @@ Subject to agreements made under chapter 12 of this title, the seniority of an e
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 1008. Temporary employees or carriers
+## § 1008. Temporary employees or carriers
 
 **(a)** A person temporarily employed to deliver mail is deemed an employee of the Postal Service and is subject to the provisions of chapter 83 of title 18 to the same extent as other employees of the Postal Service.
 
@@ -513,7 +513,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 1009. Personnel not to receive fees
+## § 1009. Personnel not to receive fees
 
 An officer or employee of the Postal Service may not receive any fee or perquisite from a patron of the Postal Service on account of the duties performed by virtue of his appointment, except as authorized by law.
 
@@ -525,7 +525,7 @@ An officer or employee of the Postal Service may not receive any fee or perquisi
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 1010. Administration of oaths related to postal inspection matters
+## § 1010. Administration of oaths related to postal inspection matters
 
 Officers and employees of the Postal Service performing duties related to the inspection of postal matters may administer oaths required or authorized by law or regulation with respect to any matter coming before them in the performance of their official duties.
 
@@ -537,7 +537,7 @@ Officers and employees of the Postal Service performing duties related to the in
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 1011. Oath of office
+## § 1011. Oath of office
 
 Before entering upon their duties and before receiving any salary, all officers and employees of the Postal Service shall take and subscribe the following oath or affirmation:
 

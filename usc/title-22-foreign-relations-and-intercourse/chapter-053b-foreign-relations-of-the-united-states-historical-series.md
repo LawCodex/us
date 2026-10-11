@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 53B—FOREIGN RELATIONS OF THE UNITED STATES HISTORICAL SERIES
 
-## § 4351. General authority and contents of publication
+## § 4351. General authority and contents of publication
 
 **(a) Charter of publication**
 
@@ -29,19 +29,19 @@ The editing of records for preparation of the FRUS series shall be guided by the
 
 The Secretary of State shall ensure that the FRUS series shall be published not more than 30 years after the events recorded.
 
-(Aug. 1, 1956, ch. 841, title IV, § 401, as added Pub. L. 102–138, title I, § 198(a), Oct. 28, 1991, 105 Stat. 685.)
+(Aug. 1, 1956, ch. 841, title IV, § 401, as added Pub. L. 102–138, title I, § 198(a), Oct. 28, 1991, 105 Stat. 685.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Compliance With Deadline for Publication of FRUS Series; Notification to Congressional Committees on Failure To Comply; Final Deadline**
 
-Pub. L. 102–138, title I, § 198(c)(2), Oct. 28, 1991, 105 Stat. 691, provided that:
+Pub. L. 102–138, title I, § 198(c)(2), Oct. 28, 1991, 105 Stat. 691, provided that:
 
 > **“(A)** In order to come into compliance with section 401(c) of the State Department Basic Authorities Act of 1956 [22 U.S.C. 4351(c)] (as amended by this section) the Secretary of State shall ensure that, by the end of the 3-year period beginning on the date of the enactment of this Act [Oct. 28, 1991], all volumes of the Foreign Relations of the United States historical series (FRUS) for the years that are more than 30 years before the end of that 3-year period have been published.
 
 > **“(B)** If the Secretary cannot reasonably meet the requirements of subparagraph (A), the Secretary shall notify the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives and describe how the Department of State plans to meet the requirements of subparagraph (A). In no event shall volumes subject to subparagraph (A) be published later than 5 years after the date of the enactment of this Act.”
 
-## § 4352. Responsibility for preparation of FRUS series
+## § 4352. Responsibility for preparation of FRUS series
 
 **(a) In general**
 
@@ -57,7 +57,7 @@ Pub. L. 102–138, title I, § 198(c)(2), Oct. 28, 1991, 105 Stat. 691, provid
 
 Notwithstanding any other provision of this chapter, the requirement for the National Archives and Records Administration to provide access to, and copies of, records to the Department of State for the FRUS series shall be governed by chapter 21 of title 44, by any agreement concluded between the Department of State and the National Archives and Records Administration, and, in the case of Presidential records, by section 2204 of such title.
 
-(Aug. 1, 1956, ch. 841, title IV, § 402, as added Pub. L. 102–138, title I, § 198(a), Oct. 28, 1991, 105 Stat. 685; amended Pub. L. 117–81, div. E, title LV, § 5504(1), Dec. 27, 2021, 135 Stat. 2376.)
+(Aug. 1, 1956, ch. 841, title IV, § 402, as added Pub. L. 102–138, title I, § 198(a), Oct. 28, 1991, 105 Stat. 685; amended Pub. L. 117–81, div. E, title LV, § 5504(1), Dec. 27, 2021, 135 Stat. 2376.)
 
 **Editorial Notes**
 
@@ -71,7 +71,7 @@ Notwithstanding any other provision of this chapter, the requirement for the Nat
 
 Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
 
-## § 4353. Procedures for identifying records for FRUS series; declassification, revisions, and summaries
+## § 4353. Procedures for identifying records for FRUS series; declassification, revisions, and summaries
 
 **(a) Development of procedures** Not later than 180 days after October 28, 1991, each department, agency, or other entity of the United States Government engaged in foreign policy formulation, execution, or support shall develop procedures for its historical office (or a designated individual in the event that there is no historical office)—
 
@@ -99,7 +99,7 @@ Except as otherwise provided, Secretary of State to have and exercise any author
 
 **(6)** If a record is deleted in whole or in part as a result of review under this subsection then a note to that effect shall be inserted at the appropriate place in the FRUS volume.
 
-(Aug. 1, 1956, ch. 841, title IV, § 403, as added Pub. L. 102–138, title I, § 198(a), Oct. 28, 1991, 105 Stat. 686.)
+(Aug. 1, 1956, ch. 841, title IV, § 403, as added Pub. L. 102–138, title I, § 198(a), Oct. 28, 1991, 105 Stat. 686.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -107,7 +107,7 @@ Except as otherwise provided, Secretary of State to have and exercise any author
 
 Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
 
-## § 4354. Declassification of State Department records
+## § 4354. Declassification of State Department records
 
 **(a) Deadline for declassification**
 
@@ -155,7 +155,7 @@ The Advisory Committee shall annually submit to the Secretary of State and to th
 
 Each report required to be submitted by paragraph (1) shall be submitted in unclassified form, together with a classified annex if necessary.
 
-(Aug. 1, 1956, ch. 841, title IV, § 404, as added Pub. L. 102–138, title I, § 198(a), Oct. 28, 1991, 105 Stat. 687; amended Pub. L. 107–228, div. A, title II, § 205, Sept. 30, 2002, 116 Stat. 1363; Pub. L. 117–81, div. E, title LV, § 5504(2), Dec. 27, 2021, 135 Stat. 2376.)
+(Aug. 1, 1956, ch. 841, title IV, § 404, as added Pub. L. 102–138, title I, § 198(a), Oct. 28, 1991, 105 Stat. 687; amended Pub. L. 107–228, div. A, title II, § 205, Sept. 30, 2002, 116 Stat. 1363; Pub. L. 117–81, div. E, title LV, § 5504(2), Dec. 27, 2021, 135 Stat. 2376.)
 
 **Editorial Notes**
 
@@ -163,9 +163,9 @@ Each report required to be submitted by paragraph (1) shall be submitted in uncl
 
 2021—Subsec. (a)(1). Pub. L. 117–81 substituted “25” for “30”.
 
-2002—Subsec. (d). Pub. L. 107–228, § 205(a), substituted “Annual reports by the Advisory Committee” for “Reporting requirement” in heading and inserted “and to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives” after “Secretary of State” in text.
+2002—Subsec. (d). Pub. L. 107–228, § 205(a), substituted “Annual reports by the Advisory Committee” for “Reporting requirement” in heading and inserted “and to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives” after “Secretary of State” in text.
 
-Subsec. (e). Pub. L. 107–228, § 205(b), substituted “Annual reports by the Secretary” for “Report to Congress” in heading and amended text generally. Prior to amendment, text read as follows: “Not later than 180 days after October 28, 1991, the Secretary of State shall prepare and submit a written report to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate on factors relevant to compliance with this section, and the procedures to be used for implementing the requirements of this section.”
+Subsec. (e). Pub. L. 107–228, § 205(b), substituted “Annual reports by the Secretary” for “Report to Congress” in heading and amended text generally. Prior to amendment, text read as follows: “Not later than 180 days after October 28, 1991, the Secretary of State shall prepare and submit a written report to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate on factors relevant to compliance with this section, and the procedures to be used for implementing the requirements of this section.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -175,9 +175,9 @@ Committee on International Relations of House of Representatives changed to Comm
 
 **Compliance With Declassification of State Department Records; Notification to Congressional Committees on Inability To Comply; Final Deadline**
 
-Pub. L. 102–138, title I, § 198(c)(1), Oct. 28, 1991, 105 Stat. 691, provided that: “The Secretary of State shall ensure that the requirements of section 404 of the State Department Basic Authorities Act of 1956 [22 U.S.C. 4354] (as amended by this section) are met not later than one year after the date of enactment of this Act [Oct. 28, 1991]. If the Secretary cannot reasonably meet the requirements of such section, he shall so notify the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, and describe how the Department of State intends to meet the requirements of that section. In no event shall full compliance with the requirements of such section take place later than 2 years after the date of enactment of this Act.”
+Pub. L. 102–138, title I, § 198(c)(1), Oct. 28, 1991, 105 Stat. 691, provided that: “The Secretary of State shall ensure that the requirements of section 404 of the State Department Basic Authorities Act of 1956 [22 U.S.C. 4354] (as amended by this section) are met not later than one year after the date of enactment of this Act [Oct. 28, 1991]. If the Secretary cannot reasonably meet the requirements of such section, he shall so notify the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, and describe how the Department of State intends to meet the requirements of that section. In no event shall full compliance with the requirements of such section take place later than 2 years after the date of enactment of this Act.”
 
-## § 4355. Relationship to Privacy Act and Freedom of Information Act
+## § 4355. Relationship to Privacy Act and Freedom of Information Act
 
 **(a) Privacy Act**
 
@@ -189,9 +189,9 @@ Nothing in this chapter may be construed as requiring the public disclosure of r
 
 **(2)** Records described in section 1202(f) of title 8 (relating to visa records) shall be excluded from publication in the FRUS series under section 4353 of this title and, to the extent applicable, exempted from the declassification requirement of section 4354 of this title.
 
-(Aug. 1, 1956, ch. 841, title IV, § 405, as added Pub. L. 102–138, title I, § 198(a), Oct. 28, 1991, 105 Stat. 688.)
+(Aug. 1, 1956, ch. 841, title IV, § 405, as added Pub. L. 102–138, title I, § 198(a), Oct. 28, 1991, 105 Stat. 688.)
 
-## § 4356. Advisory Committee
+## § 4356. Advisory Committee
 
 **(a) Establishment**
 
@@ -245,7 +245,7 @@ A majority of the members of the Advisory Committee shall constitute a quorum. T
 
 **(3)** Chapter 10 of title 5 shall not apply to the Advisory Committee to the extent that the provisions of this chapter are inconsistent with that chapter.
 
-(Aug. 1, 1956, ch. 841, title IV, § 406, as added Pub. L. 102–138, title I, § 198(a), Oct. 28, 1991, 105 Stat. 688; amended Pub. L. 117–286, § 4(a)(169), Dec. 27, 2022, 136 Stat. 4324.)
+(Aug. 1, 1956, ch. 841, title IV, § 406, as added Pub. L. 102–138, title I, § 198(a), Oct. 28, 1991, 105 Stat. 688; amended Pub. L. 117–286, § 4(a)(169), Dec. 27, 2022, 136 Stat. 4324.)
 
 **Editorial Notes**
 
@@ -257,9 +257,9 @@ A majority of the members of the Advisory Committee shall constitute a quorum. T
 
 **Termination of Previous Advisory Committee on Historical Diplomatic Documentation**
 
-Pub. L. 102–138, title I, § 198(b), Oct. 28, 1991, 105 Stat. 691, provided that: “The Advisory Committee on Historical Documentation for the Department of State established before the date of enactment of this Act [Oct. 28, 1991] shall terminate on such date.”
+Pub. L. 102–138, title I, § 198(b), Oct. 28, 1991, 105 Stat. 691, provided that: “The Advisory Committee on Historical Documentation for the Department of State established before the date of enactment of this Act [Oct. 28, 1991] shall terminate on such date.”
 
-## § 4357. Definitions
+## § 4357. Definitions
 
 For purposes of this chapter—
 
@@ -271,7 +271,7 @@ For purposes of this chapter—
 
 **(4)** the term “record” includes any written material (including any document, memorandum, correspondence, statistical data, book, or other papers), map, photograph, machine readable material, or other documentary material, regardless of physical form or characteristics, made or received by an agency of the United States Government under Federal law or in connection with the transaction of public business and preserved or appropriate for preservation by that agency or its legitimate successor as evidence of the organization, functions, policies, decisions, procedures, operations, or other activities of the Government or because of the informational value in them, and such term does not include library or museum material made or acquired and preserved solely for reference or exhibition purposes, any extra copy of a document preserved only for convenience of reference, or any stocks of publications or of processed documents.
 
-(Aug. 1, 1956, ch. 841, title IV, § 407, as added Pub. L. 102–138, title I, § 198(a), Oct. 28, 1991, 105 Stat. 690.)
+(Aug. 1, 1956, ch. 841, title IV, § 407, as added Pub. L. 102–138, title I, § 198(a), Oct. 28, 1991, 105 Stat. 690.)
 
 **Statutory Notes and Related Subsidiaries**
 

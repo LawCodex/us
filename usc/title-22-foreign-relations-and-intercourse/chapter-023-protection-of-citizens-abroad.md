@@ -17,17 +17,17 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL
 
-### § 1731. Protection to naturalized citizens abroad
+### § 1731. Protection to naturalized citizens abroad
 
 All naturalized citizens of the United States while in foreign countries are entitled to and shall receive from this Government the same protection of persons and property which is accorded to native-born citizens.
 
-(R.S. § 2000.)
+(R.S. § 2000.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 2000 derived from Act July 27, 1868, ch. 249, § 2, 15 Stat. 224.
+R.S. § 2000 derived from Act July 27, 1868, ch. 249, § 2, 15 Stat. 224.
 
 Section was formerly classified to section 903a of Title 8, Aliens and Nationality.
 
@@ -35,7 +35,7 @@ Section was formerly classified to section 903a of Title 8, Aliens and Nationali
 
 **Equitable Treatment by United States of Its Citizens Living Abroad**
 
-Pub. L. 95–426, title VI, § 611, Oct. 7, 1978, 92 Stat. 989, as amended by Pub. L. 96–60, title IV, § 407, Aug. 15, 1979, 93 Stat. 405; Pub. L. 97–241, title V, § 505(a)(2), (b)(1), Aug. 24, 1982, 96 Stat. 299, provided that:
+Pub. L. 95–426, title VI, § 611, Oct. 7, 1978, 92 Stat. 989, as amended by Pub. L. 96–60, title IV, § 407, Aug. 15, 1979, 93 Stat. 405; Pub. L. 97–241, title V, § 505(a)(2), (b)(1), Aug. 24, 1982, 96 Stat. 299, provided that:
 
 > “The Congress finds that—
 
@@ -43,17 +43,17 @@ Pub. L. 95–426, title VI, § 611, Oct. 7, 1978, 92 Stat. 989, as amended by 
 
 > **“(2)** United States statutes and regulations should be designed so as not to create competitive disadvantage for individual American citizens living abroad or working in international markets.”
 
-### § 1732. Release of citizens imprisoned by foreign governments
+### § 1732. Release of citizens imprisoned by foreign governments
 
 Whenever it is made known to the President that any citizen of the United States has been unjustly deprived of his liberty by or under the authority of any foreign government, it shall be the duty of the President forthwith to demand of that government the reasons of such imprisonment; and if it appears to be wrongful and in violation of the rights of American citizenship, the President shall forthwith demand the release of such citizen, and if the release so demanded is unreasonably delayed or refused, the President shall use such means, not amounting to acts of war and not otherwise prohibited by law, as he may think necessary and proper to obtain or effectuate the release; and all the facts and proceedings relative thereto shall as soon as practicable be communicated by the President to Congress.
 
-(R.S. § 2001; Pub. L. 101–222, § 9, Dec. 12, 1989, 103 Stat. 1900.)
+(R.S. § 2001; Pub. L. 101–222, § 9, Dec. 12, 1989, 103 Stat. 1900.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 2001 derived from act July 27, 1868, ch. 249, § 3, 15 Stat. 224.
+R.S. § 2001 derived from act July 27, 1868, ch. 249, § 3, 15 Stat. 224.
 
 Section was formerly classified to section 903b of Title 8, Aliens and Nationality.
 
@@ -67,7 +67,7 @@ Section was formerly classified to section 903b of Title 8, Aliens and Nationali
 
 For Executive Order provisions relating to the release of the American hostages in Iran, see Ex. Ord. Nos. 12276 to 12285, Jan. 19, 1981, 46 F.R. 7913 to 7932, listed in a table under section 1701 of Title 50, War and National Defense.
 
-### § 1733. Interagency Hostage Recovery Coordinator
+### § 1733. Interagency Hostage Recovery Coordinator
 
 **(a) Interagency Hostage Recovery Coordinator**
 
@@ -95,9 +95,9 @@ On a quarterly basis, the Coordinator shall submit to the appropriate congressio
 
 **(B) Form of report**
 
-Each report under this 1
+Each report under this 1
 
-<sup>1</sup>  So in original. The word “this” probably should not appear.
+<sup>1</sup> So in original. The word “this” probably should not appear.
 
 subparagraph (A) may be submitted in classified or unclassified form.
 
@@ -111,7 +111,7 @@ On a quarterly basis, the Coordinator shall provide to the Senators representing
 
 **(B)** the Committee on Armed Services, the Committee on the Judiciary, the Select Committee on Intelligence, and the Committee on Foreign Relations of the Senate.
 
-(Pub. L. 114–92, div. A, title X, § 1092, Nov. 25, 2015, 129 Stat. 1018.)
+(Pub. L. 114–92, div. A, title X, § 1092, Nov. 25, 2015, 129 Stat. 1018.)
 
 ## SUBCHAPTER II—HOSTAGE RECOVERY AND HOSTAGE-TAKING ACCOUNTABILITY
 
@@ -355,7 +355,7 @@ Notice of President of the United States, dated July 16, 2024, 89 F.R. 58613.
 
 Notice of President of the United States, dated July 12, 2023, 88 F.R. 45327.
 
-### § 1741. Assistance for United States nationals unlawfully or wrongfully detained abroad
+### § 1741. Assistance for United States nationals unlawfully or wrongfully detained abroad
 
 **(a) Review** The Secretary of State shall review, as expeditiously as possible, the cases of United States nationals detained abroad to determine if there is credible information that they are being detained unlawfully or wrongfully, based on criteria which may include whether—
 
@@ -555,49 +555,49 @@ The Secretary may renew a waiver granted pursuant to clause (i) in the manner pr
 
 Upon the release of a United States national determined to be unlawfully or wrongfully detained abroad and the return of that national, the President shall issue to that national a letter, to be known as a “declaration of invalidity”, that officially declares the detention abroad of the national as invalid for the purpose of completing any documentation that warrants a background investigation or review of prior offenses, such as a conviction.
 
-(Pub. L. 116–260, div. FF, title III, § 302, Dec. 27, 2020, 134 Stat. 3091; Pub. L. 117–263, div. I, title XCI, § 9102, Dec. 23, 2022, 136 Stat. 3858; Pub. L. 118–31, div. F, title LXIV, § 6409, Dec. 22, 2023, 137 Stat. 1003; Pub. L. 118–159, div. G, title LXXVII, §§ 7701, 7707, 7708, Dec. 23, 2024, 138 Stat. 2553, 2556, 2557.)
+(Pub. L. 116–260, div. FF, title III, § 302, Dec. 27, 2020, 134 Stat. 3091; Pub. L. 117–263, div. I, title XCI, § 9102, Dec. 23, 2022, 136 Stat. 3858; Pub. L. 118–31, div. F, title LXIV, § 6409, Dec. 22, 2023, 137 Stat. 1003; Pub. L. 118–159, div. G, title LXXVII, §§ 7701, 7707, 7708, Dec. 23, 2024, 138 Stat. 2553, 2556, 2557.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (d)(2)(B)(ii)(II). Pub. L. 118–159, § 7701(1), inserted “unless the Special Presidential Envoy for Hostage Affairs determines that circumstances warrant an additional night,” after “lodging,”.
+2024—Subsec. (d)(2)(B)(ii)(II). Pub. L. 118–159, § 7701(1), inserted “unless the Special Presidential Envoy for Hostage Affairs determines that circumstances warrant an additional night,” after “lodging,”.
 
-Subsec. (d)(4). Pub. L. 118–159, § 7701(2), substituted “not later than 14 days after such time that total expenditures to carry out paragraphs (2) and (3) in any fiscal year surpass $250,000 for any fiscal year” for “of any amount spent above $250,000 for any fiscal year to carry out paragraphs (2) and (3)”.
+Subsec. (d)(4). Pub. L. 118–159, § 7701(2), substituted “not later than 14 days after such time that total expenditures to carry out paragraphs (2) and (3) in any fiscal year surpass $250,000 for any fiscal year” for “of any amount spent above $250,000 for any fiscal year to carry out paragraphs (2) and (3)”.
 
-Subsec. (e). Pub. L. 118–159, § 7707, added subsec. (e).
+Subsec. (e). Pub. L. 118–159, § 7707, added subsec. (e).
 
-Subsec. (f). Pub. L. 118–159, § 7708, added subsec. (f).
+Subsec. (f). Pub. L. 118–159, § 7708, added subsec. (f).
 
-2023—Subsec. (d). Pub. L. 118–31, § 6409(1), substituted “Resources for United States nationals unlawfully or wrongfully detained abroad” for “Resource guidance” in heading.
+2023—Subsec. (d). Pub. L. 118–31, § 6409(1), substituted “Resources for United States nationals unlawfully or wrongfully detained abroad” for “Resource guidance” in heading.
 
-Subsec. (d)(1). Pub. L. 118–31, § 6409(2), substituted “Resource guidance” for “Establishment” in heading, and designated existing provisions as subpar. (A) and inserted heading.
+Subsec. (d)(1). Pub. L. 118–31, § 6409(2), substituted “Resource guidance” for “Establishment” in heading, and designated existing provisions as subpar. (A) and inserted heading.
 
-Subsec. (d)(1)(B). Pub. L. 118–31, § 6409(5), substituted “subparagraph (A)” for “paragraph (1)”.
+Subsec. (d)(1)(B). Pub. L. 118–31, § 6409(5), substituted “subparagraph (A)” for “paragraph (1)”.
 
-Pub. L. 118–31, § 6409(4), which directed the redesignation of “paragraph (2) as subparagraph (B)”, without specifying the par. to which subpar. (B) was to be redesignated, and the realignment of margins, was executed by redesignating par. (2) as subpar. (B) of par. (1), to reflect the probable intent of Congress, and realigning margins.
+Pub. L. 118–31, § 6409(4), which directed the redesignation of “paragraph (2) as subparagraph (B)”, without specifying the par. to which subpar. (B) was to be redesignated, and the realignment of margins, was executed by redesignating par. (2) as subpar. (B) of par. (1), to reflect the probable intent of Congress, and realigning margins.
 
-Subsec. (d)(2). Pub. L. 118–31, § 6409(6), added par. (2). Former par. (2) redesignated (1)(B).
+Subsec. (d)(2). Pub. L. 118–31, § 6409(6), added par. (2). Former par. (2) redesignated (1)(B).
 
-Pub. L. 118–31, § 6409(3), which directed the redesignation of “subparagraphs (A), (B), (C), (D), and (E) and clauses (i), (ii), (iii), (iv), and (v), respectively,” and the realignment of margins, was executed by redesignating subpars. (A) to (E) as cls. (i) to (v), respectively, to reflect the probable intent of Congress, and realigning margins. Former par. (2) redesignated (1)(B).
+Pub. L. 118–31, § 6409(3), which directed the redesignation of “subparagraphs (A), (B), (C), (D), and (E) and clauses (i), (ii), (iii), (iv), and (v), respectively,” and the realignment of margins, was executed by redesignating subpars. (A) to (E) as cls. (i) to (v), respectively, to reflect the probable intent of Congress, and realigning margins. Former par. (2) redesignated (1)(B).
 
-Subsec. (d)(3) to (8). Pub. L. 118–31, § 6409(6), added pars. (3) to (8).
+Subsec. (d)(3) to (8). Pub. L. 118–31, § 6409(6), added pars. (3) to (8).
 
-2022—Subsec. (a). Pub. L. 117–263, § 9102(1), inserted “, as expeditiously as possible,” after “review” in introductory provisions.
+2022—Subsec. (a). Pub. L. 117–263, § 9102(1), inserted “, as expeditiously as possible,” after “review” in introductory provisions.
 
-Subsec. (b). Pub. L. 117–263, § 9102(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “Upon a determination by the Secretary of State, based on the totality of the circumstances, that there is credible information that the detention of a United States national abroad is unlawful or wrongful, and regardless of whether the detention is by a foreign government or a nongovernmental actor, the Secretary shall transfer responsibility for such case from the Bureau of Consular Affairs of the Department of State to the Special Envoy for Hostage Affairs created pursuant to section 1741a of this title.”
+Subsec. (b). Pub. L. 117–263, § 9102(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “Upon a determination by the Secretary of State, based on the totality of the circumstances, that there is credible information that the detention of a United States national abroad is unlawful or wrongful, and regardless of whether the detention is by a foreign government or a nongovernmental actor, the Secretary shall transfer responsibility for such case from the Bureau of Consular Affairs of the Department of State to the Special Envoy for Hostage Affairs created pursuant to section 1741a of this title.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2025 Amendment**
 
-Pub. L. 119–60, div. H, title LXXXIII, § 8351, Dec. 18, 2025, 139 Stat. 1880, provided that: “This title [probably means this subtitle, enacting section 1741d–1 of this title and enacting provisions set out as a note under section 1741d–1 of this title] may be cited as the ‘Countering Wrongful Detention Act of 2025’.”
+Pub. L. 119–60, div. H, title LXXXIII, § 8351, Dec. 18, 2025, 139 Stat. 1880, provided that: “This title [probably means this subtitle, enacting section 1741d–1 of this title and enacting provisions set out as a note under section 1741d–1 of this title] may be cited as the ‘Countering Wrongful Detention Act of 2025’.”
 
 **Short Title**
 
-Pub. L. 116–260, div. FF, title III, § 301, Dec. 27, 2020, 134 Stat. 3091, provided that: “This subtitle [subtitle A (§§ 301–308) of title III of div. FF of Pub. L. 116–260, enacting this subchapter] may be cited as the ‘Robert Levinson Hostage Recovery and Hostage-Taking Accountability Act’.”
+Pub. L. 116–260, div. FF, title III, § 301, Dec. 27, 2020, 134 Stat. 3091, provided that: “This subtitle [subtitle A (§§ 301–308) of title III of div. FF of Pub. L. 116–260, enacting this subchapter] may be cited as the ‘Robert Levinson Hostage Recovery and Hostage-Taking Accountability Act’.”
 
-### § 1741a. Special Envoy for Hostage Affairs
+### § 1741a. Special Envoy for Hostage Affairs
 
 **(a) Establishment**
 
@@ -631,7 +631,7 @@ The Special Envoy shall have the rank and status of ambassador.
 
 **(2)** for a United States national held hostage abroad, that any engagement with a family member is coordinated with, consistent with, and not duplicative of the efforts of the Family Engagement Coordinator described in section 1741b(c)(2) of this title.
 
-(Pub. L. 116–260, div. FF, title III, § 303, Dec. 27, 2020, 134 Stat. 3093; Pub. L. 117–263, div. I, title XCI, § 9103, Dec. 23, 2022, 136 Stat. 3858.)
+(Pub. L. 116–260, div. FF, title III, § 303, Dec. 27, 2020, 134 Stat. 3093; Pub. L. 117–263, div. I, title XCI, § 9103, Dec. 23, 2022, 136 Stat. 3858.)
 
 **Editorial Notes**
 
@@ -639,7 +639,7 @@ The Special Envoy shall have the rank and status of ambassador.
 
 2022—Subsec. (d). Pub. L. 117–263 added subsec. (d).
 
-### § 1741b. Hostage Recovery Fusion Cell
+### § 1741b. Hostage Recovery Fusion Cell
 
 **(a) Establishment**
 
@@ -703,9 +703,9 @@ The President shall establish an interagency Hostage Recovery Fusion Cell.
 
 The Hostage Recovery Fusion Cell shall be located within the Federal Bureau of Investigation for administrative purposes.
 
-(Pub. L. 116–260, div. FF, title III, § 304, Dec. 27, 2020, 134 Stat. 3094.)
+(Pub. L. 116–260, div. FF, title III, § 304, Dec. 27, 2020, 134 Stat. 3094.)
 
-### § 1741c. Hostage Response Group
+### § 1741c. Hostage Response Group
 
 **(a) Establishment**
 
@@ -737,15 +737,15 @@ The Hostage Response Group shall meet regularly.
 
 The Hostage Response Group shall regularly provide recommendations on hostage recovery options and strategies to the National Security Council.
 
-(Pub. L. 116–260, div. FF, title III, § 305, Dec. 27, 2020, 134 Stat. 3095.)
+(Pub. L. 116–260, div. FF, title III, § 305, Dec. 27, 2020, 134 Stat. 3095.)
 
-### § 1741c–1. Report on strategies for reducing likelihood of United States nationals being unlawfully or wrongfully detained or taken hostage
+### § 1741c–1. Report on strategies for reducing likelihood of United States nationals being unlawfully or wrongfully detained or taken hostage
 
 Not later than 60 days after December 23, 2024, the Special Presidential Envoy for Hostage Affairs, in coordination with the Hostage Recovery Fusion Cell, the Hostage Response Group, and relevant agencies, as appropriate, shall submit to the President and Congress a classified report that identifies and recommends options and strategies to reduce the likelihood of United States nationals being unlawfully or wrongfully detained abroad or taken hostage.
 
-(Pub. L. 116–260, div. FF, title III, § 305A, as added Pub. L. 118–159, div. G, title LXXVII, § 7702, Dec. 23, 2024, 138 Stat. 2553.)
+(Pub. L. 116–260, div. FF, title III, § 305A, as added Pub. L. 118–159, div. G, title LXXVII, § 7702, Dec. 23, 2024, 138 Stat. 2553.)
 
-### § 1741c–2. Coordination with transportation authorities and industry on Department of State travel advisories
+### § 1741c–2. Coordination with transportation authorities and industry on Department of State travel advisories
 
 **(a) Coordination with the Department of Homeland Security**
 
@@ -779,9 +779,9 @@ The Secretary of State shall, in coordination with the Secretary of Homeland Sec
 
 In this section, the term “covered country” means a country for which a Department of State travel advisory contains either the “K—Kidnapping or Hostage Taking” or “D—Wrongful Detention” Risk Indicators.
 
-(Pub. L. 116–260, div. FF, title III, § 305B, as added Pub. L. 118–159, div. G, title LXXVII, § 7705, Dec. 23, 2024, 138 Stat. 2554.)
+(Pub. L. 116–260, div. FF, title III, § 305B, as added Pub. L. 118–159, div. G, title LXXVII, § 7705, Dec. 23, 2024, 138 Stat. 2554.)
 
-### § 1741d. Authorization of imposition of sanctions
+### § 1741d. Authorization of imposition of sanctions
 
 **(a) In general** The President may impose the sanctions described in subsection (b) with respect to any foreign person the President determines, based on credible evidence—
 
@@ -853,7 +853,7 @@ A person that violates, attempts to violate, conspires to violate, or causes a v
 
 If the President terminates sanctions pursuant to subsection (d),1
 
-<sup>1</sup>  So in original. Probably should be “subsection (e),”.
+<sup>1</sup> So in original. Probably should be “subsection (e),”.
 
 the President shall report to the appropriate congressional committees a written justification for such termination within 15 days.
 
@@ -887,19 +887,19 @@ In this paragraph, the term “good” means any article, natural or manmade sub
 
 **(C)** any person in the United States.
 
-(Pub. L. 116–260, div. FF, title III, § 306, Dec. 27, 2020, 134 Stat. 3096.)
+(Pub. L. 116–260, div. FF, title III, § 306, Dec. 27, 2020, 134 Stat. 3096.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Immigration and Nationality Act, referred to in subsec. (b)(1)(A)(iii), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (b)(1)(A)(iii), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
-The International Emergency Economic Powers Act, referred to in subsec. (b)(2)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (b)(2)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-The National Security Act of 1947, referred to in subsec. (c)(1), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (c)(1), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
-### § 1741d–1. Designation of a foreign country as a State Sponsor of Unlawful or Wrongful Detention
+### § 1741d–1. Designation of a foreign country as a State Sponsor of Unlawful or Wrongful Detention
 
 **(a) In general** Subject to the notice requirement of subsection (c)(1)(A), the Secretary of State, in consultation with the heads of other relevant Federal agencies, may designate a foreign country that has provided support for or directly engaged in the unlawful or wrongful detention of a United States national as a State Sponsor of Unlawful or Wrongful Detention based on any of the following criteria:
 
@@ -1015,29 +1015,29 @@ The Secretary shall make available on a publicly accessible website of the Depar
 
 **(2)** every United States national detained in a country designated as a State Sponsor of Unlawful or Wrongful Detention under subsection (a) should be or is determined to be wrongfully detained under this subchapter.
 
-(Pub. L. 116–260, div. FF, title III, § 306A, as added Pub. L. 119–60, div. H, title LXXXIII, § 8352, Dec. 18, 2025, 139 Stat. 1880.)
+(Pub. L. 116–260, div. FF, title III, § 306A, as added Pub. L. 119–60, div. H, title LXXXIII, § 8352, Dec. 18, 2025, 139 Stat. 1880.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsec. (d)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (d)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-The Immigration and Nationality Act, referred to in subsec. (d)(3), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (d)(3), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (d)(4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (d)(4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Arms Export Control Act, referred to in subsec. (d)(5), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (d)(5), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The Export Control Reform Act of 2018, referred to in subsec. (d)(5), is subtitle B (§§ 1741–1781) of title XVII of div. A of Pub. L. 115–232, Aug. 13, 2018, 132 Stat. 2208, which is classified principally to chapter 58 (§ 4801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 50 and Tables.
+The Export Control Reform Act of 2018, referred to in subsec. (d)(5), is subtitle B (§§ 1741–1781) of title XVII of div. A of Pub. L. 115–232, Aug. 13, 2018, 132 Stat. 2208, which is classified principally to chapter 58 (§ 4801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 50 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Rule of Construction**
 
-Pub. L. 119–60, div. H, title LXXXIII, § 8354, Dec. 18, 2025, 139 Stat. 1883, provided that: “Nothing in this title [probably means this subtitle, subtitle D (§§ 8351–8354) of title LXXXII of Pub. L. 119–60, enacting this section and provisions set out as a note under section 1741 of this title] or the amendments made by this title may be construed as preventing the freedom of travel of United States citizens.”
+Pub. L. 119–60, div. H, title LXXXIII, § 8354, Dec. 18, 2025, 139 Stat. 1883, provided that: “Nothing in this title [probably means this subtitle, subtitle D (§§ 8351–8354) of title LXXXII of Pub. L. 119–60, enacting this section and provisions set out as a note under section 1741 of this title] or the amendments made by this title may be construed as preventing the freedom of travel of United States citizens.”
 
-### § 1741e. Definitions
+### § 1741e. Definitions
 
 In this subchapter:
 
@@ -1053,22 +1053,22 @@ In this subchapter:
 
 **(B)** a lawful permanent resident alien with significant ties to the United States.
 
-(Pub. L. 116–260, div. FF, title III, § 307, Dec. 27, 2020, 134 Stat. 3098.)
+(Pub. L. 116–260, div. FF, title III, § 307, Dec. 27, 2020, 134 Stat. 3098.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in text, was in the original “this Act” and was translated as reading “this subtitle”, meaning subtitle A (§§ 301–308) of title III of div. FF of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 3091, known as the Robert Levinson Hostage Recovery and Hostage-Taking Accountability Act, which enacted this subchapter, to reflect the probable intent of Congress.
+This subchapter, referred to in text, was in the original “this Act” and was translated as reading “this subtitle”, meaning subtitle A (§§ 301–308) of title III of div. FF of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 3091, known as the Robert Levinson Hostage Recovery and Hostage-Taking Accountability Act, which enacted this subchapter, to reflect the probable intent of Congress.
 
-### § 1741f. Rule of construction
+### § 1741f. Rule of construction
 
 Nothing in this subchapter may be construed to authorize a private right of action.
 
-(Pub. L. 116–260, div. FF, title III, § 308, Dec. 27, 2020, 134 Stat. 3099.)
+(Pub. L. 116–260, div. FF, title III, § 308, Dec. 27, 2020, 134 Stat. 3099.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in text, was in the original “this Act” and was translated as reading “this subtitle”, meaning subtitle A (§§ 301–308) of title III of div. FF of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 3091, known as the Robert Levinson Hostage Recovery and Hostage-Taking Accountability Act, which enacted this subchapter, to reflect the probable intent of Congress.
+This subchapter, referred to in text, was in the original “this Act” and was translated as reading “this subtitle”, meaning subtitle A (§§ 301–308) of title III of div. FF of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 3091, known as the Robert Levinson Hostage Recovery and Hostage-Taking Accountability Act, which enacted this subchapter, to reflect the probable intent of Congress.

@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1103—JEWISH WAR VETERANS, U.S.A., NATIONAL MEMORIAL, INCORPORATED"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1103—JEWISH WAR VETERANS, U.S.A., NATIONAL MEMORIAL, INCORPORATED"
 identifier: "/us/usc/t36/stII/ptB/ch1103"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1103—JEWISH WAR VETERANS, U.S.A., NATIONAL MEMORIAL, INCORPORATED
 
-## § 110301. Organization
+## § 110301. Organization
 
 **(a) Federal Charter.—** Jewish War Veterans, U.S.A., National Memorial, Incorporated (in this chapter, the “corporation”), is a federally chartered corporation.
 
@@ -29,12 +29,12 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 110301 | 36:911. | Sept. 2, 1958, Pub. L. 85–903, §§ 1, 2, 4(a), 72 Stat. 1738, 1739. |
+| 110301 | 36:911. | Sept. 2, 1958, Pub. L. 85–903, §§ 1, 2, 4(a), 72 Stat. 1738, 1739. |
 |  | 36:912. 36:914(a). |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words. The text of 36:912 is omitted as executed and obsolete.
 
-## § 110302. Purposes
+## § 110302. Purposes
 
 The purposes of the corporation are—
 
@@ -50,11 +50,11 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 110302 | 36:913. | Sept. 2, 1958, Pub. L. 85–903, § 3, 72 Stat. 1738. |
+| 110302 | 36:913. | Sept. 2, 1958, Pub. L. 85–903, § 3, 72 Stat. 1738. |
 
 Before clause (1), the word “purposes” is substituted for “principles and objects” for consistency in the revised title.
 
-## § 110303. Governing body
+## § 110303. Governing body
 
 **(a) Board of Directors.—**
 
@@ -74,7 +74,7 @@ Before clause (1), the word “purposes” is substituted for “principles and 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 110303(a)(1) | 36:916(c). | Sept. 2, 1958, Pub. L. 85–903, §§ 6, 7, 72 Stat. 1739. |
+| 110303(a)(1) | 36:916(c). | Sept. 2, 1958, Pub. L. 85–903, §§ 6, 7, 72 Stat. 1739. |
 | 110303(a)(2) | 36:916(a), (b). |  |
 | 110303(b) | 36:917. |  |
 
@@ -82,7 +82,7 @@ In subsection (a)(1), the word “funds” is substituted for “finances” for
 
 In subsection (a)(2), the text of 36:916(a) and the word “Thereafter” are omitted as executed.
 
-## § 110304. Powers
+## § 110304. Powers
 
 The corporation may—
 
@@ -104,7 +104,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 110304 | 36:914(b)–(h). | Sept. 2, 1958, Pub. L. 85–903, §§ 4(b)–(h), 15, 72 Stat. 1739, 1741. |
+| 110304 | 36:914(b)–(h). | Sept. 2, 1958, Pub. L. 85–903, §§ 4(b)–(h), 15, 72 Stat. 1739, 1741. |
 |  | 36:925. |  |
 
 In this section, the text of 36:925 is omitted as executed and obsolete.
@@ -121,7 +121,7 @@ In clause (5), the words “for the purposes of the corporation” are omitted a
 
 In clause (6), the words “complain and defend in any court of competent jurisdiction” are omitted as unnecessary.
 
-## § 110305. Restrictions
+## § 110305. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -137,7 +137,7 @@ In clause (6), the words “complain and defend in any court of competent jurisd
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 110305(a) | 36:921. | Sept. 2, 1958, Pub. L. 85–903, §§ 8, 9, 11, 72 Stat. 1740. |
+| 110305(a) | 36:921. | Sept. 2, 1958, Pub. L. 85–903, §§ 8, 9, 11, 72 Stat. 1740. |
 | 110305(b) | 36:919. |  |
 | 110305(c) | 36:918(a). |  |
 | 110305(d) | 36:918(b). |  |
@@ -148,7 +148,7 @@ In subsection (b), the word “otherwise” is omitted as unnecessary.
 
 In subsection (c), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title. The words “This subsection does not prevent” are substituted for “Nothing in this section, however, shall be construed to prevent” for consistency in the revised title and to eliminate unnecessary words.
 
-## § 110306. Principal office
+## § 110306. Principal office
 
 The principal office of the corporation shall be in the District of Columbia. However, the activities of the corporation are not confined to the District of Columbia but may be conducted throughout the States, territories, and possessions of the United States.
 
@@ -158,11 +158,11 @@ The principal office of the corporation shall be in the District of Columbia. Ho
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 110306 | 36:915(a). | Sept. 2, 1958, Pub. L. 85–903, § 5(a), 72 Stat. 1739. |
+| 110306 | 36:915(a). | Sept. 2, 1958, Pub. L. 85–903, § 5(a), 72 Stat. 1739. |
 
 The word “various” is omitted as unnecessary.
 
-## § 110307. Records and inspection
+## § 110307. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -180,11 +180,11 @@ The word “various” is omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 110307 | 36:922. | Sept. 2, 1958, Pub. L. 85–903, § 12, 72 Stat. 1740. |
+| 110307 | 36:922. | Sept. 2, 1958, Pub. L. 85–903, § 12, 72 Stat. 1740. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
 
-## § 110308. Service of process
+## § 110308. Service of process
 
 The corporation shall have a designated agent in its headquarters in the District of Columbia to receive service of process for the corporation. Notice to or service on the agent, or mailed to the headquarters of the corporation in the District of Columbia, is notice to or service on the corporation.
 
@@ -194,11 +194,11 @@ The corporation shall have a designated agent in its headquarters in the Distric
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 110308 | 36:915(b). | Sept. 2, 1958, Pub. L. 85–903, § 5(b), 72 Stat. 1739. |
+| 110308 | 36:915(b). | Sept. 2, 1958, Pub. L. 85–903, § 5(b), 72 Stat. 1739. |
 
 The words “at all times” are omitted as unnecessary.
 
-## § 110309. Liability for acts of officers and agents
+## § 110309. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -208,9 +208,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 110309 | 36:920. | Sept. 2, 1958, Pub. L. 85–903, § 10, 72 Stat. 1740. |
+| 110309 | 36:920. | Sept. 2, 1958, Pub. L. 85–903, § 10, 72 Stat. 1740. |
 
-## § 110310. Distribution of assets on dissolution or final liquidation
+## § 110310. Distribution of assets on dissolution or final liquidation
 
 On dissolution or final liquidation of the corporation, any assets remaining after the discharge of all liabilities shall be distributed as provided by the board of directors, but in compliance with the constitution and bylaws of the corporation. This section does not allow assets to be distributed to an officer or employee or to inure to the benefit of a private person.
 
@@ -220,6 +220,6 @@ On dissolution or final liquidation of the corporation, any assets remaining aft
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 110310 | 36:924. | Sept. 2, 1958, Pub. L. 85–903, § 14, 72 Stat. 1741. |
+| 110310 | 36:924. | Sept. 2, 1958, Pub. L. 85–903, § 14, 72 Stat. 1741. |
 
 The words “dissolution or final liquidation” are substituted for “final dissolution or liquidation” for consistency in the revised title. The word “satisfaction” is omitted as included in “discharge”, and the word “obligations” is omitted as included in “liabilities”. The words “outstanding” and “all Federal and State laws applicable thereto” are omitted as unnecessary. The words “This section does not allow” are substituted for “Nothing in this section shall be construed so as to permit” for consistency in the revised title.

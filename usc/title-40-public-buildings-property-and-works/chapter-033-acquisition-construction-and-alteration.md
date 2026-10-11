@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 118–272, div. B, title III, § 2304(e)(2), Jan. 4, 2025, 138 Stat. 3224, added item 3319.
+2025—Pub. L. 118–272, div. B, title III, § 2304(e)(2), Jan. 4, 2025, 138 Stat. 3224, added item 3319.
 
-2022—Pub. L. 117–202, § 3(b), Oct. 17, 2022, 136 Stat. 2226, added item 3313 and struck out former item 3313 “Use of energy efficient lighting fixtures and bulbs”.
+2022—Pub. L. 117–202, § 3(b), Oct. 17, 2022, 136 Stat. 2226, added item 3313 and struck out former item 3313 “Use of energy efficient lighting fixtures and bulbs”.
 
-2021—Pub. L. 116–333, § 2(b), Jan. 13, 2021, 134 Stat. 5114, which directed adding item 3318, relating to availability of Federal building project information, to the table of chapters for chapter 33, was executed by adding it to the table of sections for chapter 33, to reflect the probable intent of Congress.
+2021—Pub. L. 116–333, § 2(b), Jan. 13, 2021, 134 Stat. 5114, which directed adding item 3318, relating to availability of Federal building project information, to the table of chapters for chapter 33, was executed by adding it to the table of sections for chapter 33, to reflect the probable intent of Congress.
 
-2019—Pub. L. 116–30, § 2(b), July 25, 2019, 133 Stat. 1033, which directed adding item 3318, relating to lactation room in public buildings, after item 3316, was executed by adding it after item 3317, to reflect the probable intent of Congress.
+2019—Pub. L. 116–30, § 2(b), July 25, 2019, 133 Stat. 1033, which directed adding item 3318, relating to lactation room in public buildings, after item 3316, was executed by adding it after item 3317, to reflect the probable intent of Congress.
 
-2016—Pub. L. 114–235, § 2(b), Oct. 7, 2016, 130 Stat. 965, added items 3314 to 3317 and struck out former items 3314 “Delegation”, 3315 “Report to Congress”, and 3316 “Certain authority not affected”.
+2016—Pub. L. 114–235, § 2(b), Oct. 7, 2016, 130 Stat. 965, added items 3314 to 3317 and struck out former items 3314 “Delegation”, 3315 “Report to Congress”, and 3316 “Certain authority not affected”.
 
-2007—Pub. L. 110–140, title III, § 323(c)(2), Dec. 19, 2007, 121 Stat. 1591, added items 3313 to 3316 and struck out former items 3313 “Delegation”, 3314 “Report to Congress”, and 3315 “Certain authority not affected”.
+2007—Pub. L. 110–140, title III, § 323(c)(2), Dec. 19, 2007, 121 Stat. 1591, added items 3313 to 3316 and struck out former items 3313 “Delegation”, 3314 “Report to Congress”, and 3315 “Certain authority not affected”.
 
-## § 3301. Definitions and nonapplication
+## § 3301. Definitions and nonapplication
 
 **(a) Definitions.—** In this chapter—
 
@@ -119,8 +119,8 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3301(a)(1) | 40:612(2), (5), (6). | Pub. L. 86–249, § 13, Sept. 9, 1959, 73 Stat. 482; Pub. L. 90–448, title VIII, § 807(f), Aug. 1, 1968, 82 Stat. 544; Pub. L. 101–73, title VII, § 744(g), Aug. 9, 1989, 103 Stat. 438; Pub. L. 102–54, § 13(*o*), June 13, 1991, 105 Stat. 278; Pub. L. 104–208, div. A, title I, § 101(f) [title IV, § 407(b)], Sept. 30, 1996, 110 Stat. 3009–338. |
-|  | 40:612a(1). | Pub. L. 94–541, title I, § 105(1), (2), Oct. 18, 1976, 90 Stat. 2507. |
+| 3301(a)(1) | 40:612(2), (5), (6). | Pub. L. 86–249, § 13, Sept. 9, 1959, 73 Stat. 482; Pub. L. 90–448, title VIII, § 807(f), Aug. 1, 1968, 82 Stat. 544; Pub. L. 101–73, title VII, § 744(g), Aug. 9, 1989, 103 Stat. 438; Pub. L. 102–54, § 13(*o*), June 13, 1991, 105 Stat. 278; Pub. L. 104–208, div. A, title I, § 101(f) [title IV, § 407(b)], Sept. 30, 1996, 110 Stat. 3009–338. |
+|  | 40:612a(1). | Pub. L. 94–541, title I, § 105(1), (2), Oct. 18, 1976, 90 Stat. 2507. |
 | 3301(a)(2) | 40:612(6). |  |
 | 3301(a)(3) | 40:612(4). |  |
 | 3301(a)(4) | 40:612(3). |  |
@@ -128,13 +128,13 @@ retrieved: 2026-10-11
 | 3301(a)(5) | 40:612(1). |  |
 |  | 40:612a(2). |  |
 | 3301(a)(6) | 40:612(7). |  |
-| 3301(b) | 40:613. | Pub. L. 86–249, § 14, Sept. 9, 1959, 73 Stat. 483. |
+| 3301(b) | 40:613. | Pub. L. 86–249, § 14, Sept. 9, 1959, 73 Stat. 483. |
 
 In subsection (a), the text of 40:612(2) and 612a(1) is omitted because the complete name of the Administrator of General Services is used the first time the term appears in a section. In clause (5)(A), the words “mixed-ownership Government corporation” are substituted for “mixed ownership corporation” for consistency with 31:9101. In clause (5)(B) and (C), the words “from time to time hereafter” are omitted as unnecessary. In clause (6), the words “territories and” are added for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (b), the text of 40:613(1)–(3) is omitted as obsolete. The reference is to section 241(g) of the Immigration and Nationality Act rather than to section 242(c) to reflect the amendment of sections 241 and 242 by sections 305(a)(3) and 306(a)(2) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (Public Law 104–208, div. C, 110 Stat. 3009–598, 3009–607).
 
-## § 3302. Prohibition on construction of buildings except by Administrator of General Services
+## § 3302. Prohibition on construction of buildings except by Administrator of General Services
 
 Only the Administrator of General Services may construct a public building. The Administrator shall construct a public building in accordance with this chapter.
 
@@ -144,9 +144,9 @@ Only the Administrator of General Services may construct a public building. The 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3302 | 40:601. | Pub. L. 86–249, § 2, Sept. 9, 1959, 73 Stat. 479. |
+| 3302 | 40:601. | Pub. L. 86–249, § 2, Sept. 9, 1959, 73 Stat. 479. |
 
-## § 3303. Continuing investigation and survey of public buildings
+## § 3303. Continuing investigation and survey of public buildings
 
 **(a) Conducted by Administrator.—** The Administrator of General Services shall—
 
@@ -174,15 +174,15 @@ Only the Administrator of General Services may construct a public building. The 
 
 **(d) Standard for Construction and Acquisition of Public Buildings.—** In carrying out the duties of the Administrator under this chapter, the Administrator shall provide for the construction and acquisition of public buildings equitably throughout the United States with due regard to the comparative urgency of the need for each particular building. In developing plans for new buildings, the Administrator shall give due consideration to excellence of architecture and design.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1158; Pub. L. 113–287, § 5(j)(5), Dec. 19, 2014, 128 Stat. 3269.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1158; Pub. L. 113–287, § 5(j)(5), Dec. 19, 2014, 128 Stat. 3269.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3303(a) | 40:611(a). | Pub. L. 86–249, § 12(a), (b), (d), Sept. 9, 1959, 73 Stat. 482; Pub. L. 92–313, § 2(2), (3), June 16, 1972, 86 Stat. 216; Pub. L. 94–541, title I, § 103(3), Oct. 18, 1976, 90 Stat. 2506. |
+| 3303(a) | 40:611(a). | Pub. L. 86–249, § 12(a), (b), (d), Sept. 9, 1959, 73 Stat. 482; Pub. L. 92–313, § 2(2), (3), June 16, 1972, 86 Stat. 216; Pub. L. 94–541, title I, § 103(3), Oct. 18, 1976, 90 Stat. 2506. |
 | 3303(b) | 40:611(b). |  |
-| 3303(c) | 40:611(c). | Pub. L. 86–249, § 12(c), as added Pub. L. 94–541, title I, § 103(3), Oct. 18, 1976, 90 Stat. 2506. |
+| 3303(c) | 40:611(c). | Pub. L. 86–249, § 12(c), as added Pub. L. 94–541, title I, § 103(3), Oct. 18, 1976, 90 Stat. 2506. |
 | 3303(d) | 40:611(d). |  |
 
 In subsection (c)(1), the word “historical” is substituted for “historic” to conform to the defined term.
@@ -195,7 +195,7 @@ In subsection (c)(2), the word “purchase” is omitted as being included in [�
 
 2014—Subsec. (c). Pub. L. 113–287 substituted “section 304101 of title 54” for “title II of the National Historic Preservation Act (16 U.S.C. 470i et seq.)” in introductory provisions.
 
-## § 3304. Acquisition of buildings and sites
+## § 3304. Acquisition of buildings and sites
 
 **(a) In General.—** The Administrator of General Services may acquire, by purchase, condemnation, donation, exchange, or otherwise, any building and its site which the Administrator decides is necessary to carry out the duties of the Administrator under this chapter.
 
@@ -209,13 +209,13 @@ In subsection (c)(2), the word “purchase” is omitted as being included in [�
 
 **(2)** acquire the site without regard to division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1158; Pub. L. 108–178, § 3(1), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 111–350, § 5(*l*)(15), Jan. 4, 2011, 124 Stat. 3852.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1158; Pub. L. 108–178, § 3(1), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 111–350, § 5(*l*)(15), Jan. 4, 2011, 124 Stat. 3852.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3304(a) | 40:602. | Pub. L. 86–249, §§ 3, 5, Sept. 9, 1959, 73 Stat. 479. |
+| 3304(a) | 40:602. | Pub. L. 86–249, §§ 3, 5, Sept. 9, 1959, 73 Stat. 479. |
 | 3304(b) | 40:604(a). |  |
 | 3304(c) | 40:604(b). |  |
 | 3304(d) | 40:604(c). |  |
@@ -228,7 +228,7 @@ In subsections (c) and (d), the words “United States Postal Service” are sub
 
 2011—Subsec. (d)(2). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
 
-2003—Subsec. (b). Pub. L. 108–178 inserted “, by purchase, condemnation, donation, exchange, or otherwise,” after “The Administrator may acquire”.
+2003—Subsec. (b). Pub. L. 108–178 inserted “, by purchase, condemnation, donation, exchange, or otherwise,” after “The Administrator may acquire”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -236,7 +236,7 @@ In subsections (c) and (d), the words “United States Postal Service” are sub
 
 Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
 
-## § 3305. Construction and alteration of buildings
+## § 3305. Construction and alteration of buildings
 
 **(a) Construction.—**
 
@@ -262,16 +262,16 @@ Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L.
 
 **(c) Construction or Alteration by Contract.—** The Administrator may carry out any construction or alteration authorized by this chapter by contract if the Administrator considers it to be most advantageous to the Government.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1159; Pub. L. 111–350, § 5(*l*)(16), Jan. 4, 2011, 124 Stat. 3852.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1159; Pub. L. 111–350, § 5(*l*)(16), Jan. 4, 2011, 124 Stat. 3852.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3305(a) | 40:605. | Pub. L. 86–249, §§ 6, 9, Sept. 9, 1959, 73 Stat. 479, 481. |
-| 3305(b)(1) | 40:603(a). | Pub. L. 86–249, § 4, Sept. 9, 1959, 73 Stat. 479; Pub. L. 92–313, § 2(1), June 16, 1972, 86 Stat. 216; Pub. L. 100–678, § 2, Nov. 17, 1988, 102 Stat. 4049. |
+| 3305(a) | 40:605. | Pub. L. 86–249, §§ 6, 9, Sept. 9, 1959, 73 Stat. 479, 481. |
+| 3305(b)(1) | 40:603(a). | Pub. L. 86–249, § 4, Sept. 9, 1959, 73 Stat. 479; Pub. L. 92–313, § 2(1), June 16, 1972, 86 Stat. 216; Pub. L. 100–678, § 2, Nov. 17, 1988, 102 Stat. 4049. |
 | 3305(b)(2)(A) | 40:603(b). |  |
-| 3305(b)(2)(B) | 40:606(f) (related to 40:603(b)). | Pub. L. 86–249, § 7(f) (related to § 4(b)), Sept. 9, 1959, as added Pub. L. 100–678, § 4, Nov. 17, 1988, 102 Stat. 4050. |
+| 3305(b)(2)(B) | 40:606(f) (related to 40:603(b)). | Pub. L. 86–249, § 7(f) (related to § 4(b)), Sept. 9, 1959, as added Pub. L. 100–678, § 4, Nov. 17, 1988, 102 Stat. 4050. |
 | 3305(c) | 40:608. |  |
 
 In subsection (a)(1) and (2), the words “and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” are added to provide an accurate literal translation of the words “this Act”, meaning the Federal Property and Administrative Services Act of 1949. See the revision note under section 111 of this title.
@@ -284,7 +284,7 @@ In subsection (b)(2)(B), the words “Transportation and Infrastructure” are s
 
 2011—Subsec. (a)(1), (2). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
 
-## § 3306. Accommodating federal agencies
+## § 3306. Accommodating federal agencies
 
 **(a) Definitions.—** In this section—
 
@@ -316,13 +316,13 @@ In subsection (b)(2)(B), the words “Transportation and Infrastructure” are s
 
 **(2)** solicit the comments of other community leaders and members of the general public as the Administrator considers appropriate.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1160; Pub. L. 113–287, § 5(j)(6), Dec. 19, 2014, 128 Stat. 3269.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1160; Pub. L. 113–287, § 5(j)(6), Dec. 19, 2014, 128 Stat. 3269.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3306(a)(1) | 40:612a(5). | Pub. L. 94–541, title I, §§ 102, 105(3)–(8), Oct. 18, 1976, 90 Stat. 2505, 2507. |
+| 3306(a)(1) | 40:612a(5). | Pub. L. 94–541, title I, §§ 102, 105(3)–(8), Oct. 18, 1976, 90 Stat. 2505, 2507. |
 | 3306(a)(2) | 40:612a(6). |  |
 | 3306(a)(3) | 40:612a(7). |  |
 | 3306(a)(4) | 40:612a(4). |  |
@@ -339,7 +339,7 @@ In subsection (c)(1), the words “chief executive officers of the States” are
 
 **References in Text**
 
-The Demonstration Cities and Metropolitan Development Act of 1966, referred to in subsec. (c)(1), is Pub. L. 89–754, Nov. 3, 1966, 80 Stat. 1255. Title II of the Act is classified generally to subchapter II (§ 3331 et seq.) of chapter 41 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3331 of Title 42 and Tables.
+The Demonstration Cities and Metropolitan Development Act of 1966, referred to in subsec. (c)(1), is Pub. L. 89–754, Nov. 3, 1966, 80 Stat. 1255. Title II of the Act is classified generally to subchapter II (§ 3331 et seq.) of chapter 41 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3331 of Title 42 and Tables.
 
 **Amendments**
 
@@ -349,7 +349,7 @@ The Demonstration Cities and Metropolitan Development Act of 1966, referred to i
 
 **Ex. Ord. No. 13006. Locating Federal Facilities on Historic Properties in Our Nation’s Central Cities**
 
-Ex. Ord. No. 13006, May 21, 1996, 61 F.R. 26071, as amended by Ex. Ord. No. 13946, § 2, Aug. 24, 2020, 85 F.R. 52879; Ex. Ord. No. 14091, § 6(c), Feb. 16, 2023, 88 F.R. 10830, provided:
+Ex. Ord. No. 13006, May 21, 1996, 61 F.R. 26071, as amended by Ex. Ord. No. 13946, § 2, Aug. 24, 2020, 85 F.R. 52879; Ex. Ord. No. 14091, § 6(c), Feb. 16, 2023, 88 F.R. 10830, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Historic Preservation Act (16 U.S.C. 470 *et seq*.) [see 54 U.S.C. 300101 et seq.] and the Public Buildings Cooperative Use Act of 1976 (90 Stat. 2505) [title I of Pub. L. 94–541, see 40 U.S.C. 3306 and Tables for classification], and in furtherance of and consistent with Executive Order No. 12072 of August 16, 1978 [40 U.S.C. 121 note], and Executive Order No. 11593 of May 13, 1971 [54 U.S.C. 300101 note], it is hereby ordered as follows:
 
@@ -365,7 +365,7 @@ Sec. 4. *Improving Preservation Partnerships*. In carrying out the authorities o
 
 Sec. 5. *Judicial Review*. This order is not intended to create, nor does it create, any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
-## § 3307. Congressional approval of proposed projects
+## § 3307. Congressional approval of proposed projects
 
 **(a) Resolutions Required Before Appropriations May Be Made.—** The following appropriations may be made only if the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives adopt resolutions approving the purpose for which the appropriation is made:
 
@@ -443,19 +443,19 @@ Sec. 5. *Judicial Review*. This order is not intended to create, nor does it cre
 
 **(2) Application.—** This subsection shall only apply to resolutions approved after the date of enactment of this subsection.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1161; Pub. L. 110–140, title III, § 323(a), (b), Dec. 19, 2007, 121 Stat. 1589, 1590; Pub. L. 114–287, § 17, Dec. 16, 2016, 130 Stat. 1476; Pub. L. 118–272, div. B, title III, §§ 2304(a), (c), (f), 2310, Jan. 4, 2025, 138 Stat. 3223, 3224, 3227.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1161; Pub. L. 110–140, title III, § 323(a), (b), Dec. 19, 2007, 121 Stat. 1589, 1590; Pub. L. 114–287, § 17, Dec. 16, 2016, 130 Stat. 1476; Pub. L. 118–272, div. B, title III, §§ 2304(a), (c), (f), 2310, Jan. 4, 2025, 138 Stat. 3223, 3224, 3227.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3307(a) | 40:606(a) (1st–3d sentences). | Pub. L. 86–249, § 7(a)–(d), Sept. 9, 1959, 73 Stat. 480; Pub. L. 92–313, § 2(4), June 16, 1972, 86 Stat. 217; Pub. L. 94–541, title I, § 103(1), (2), Oct. 18, 1976, 90 Stat. 2505; Pub. L. 100–678, §§ 2, 3(a), Nov. 17, 1988, 102 Stat. 4049; Pub. L. 103–437, § 14(b)(1), Nov. 2, 1994, 108 Stat. 4590. |
+| 3307(a) | 40:606(a) (1st–3d sentences). | Pub. L. 86–249, § 7(a)–(d), Sept. 9, 1959, 73 Stat. 480; Pub. L. 92–313, § 2(4), June 16, 1972, 86 Stat. 217; Pub. L. 94–541, title I, § 103(1), (2), Oct. 18, 1976, 90 Stat. 2505; Pub. L. 100–678, §§ 2, 3(a), Nov. 17, 1988, 102 Stat. 4049; Pub. L. 103–437, § 14(b)(1), Nov. 2, 1994, 108 Stat. 4590. |
 | 3307(b) | 40:606(a) (last sentence). |  |
 | 3307(c) | 40:606(b). |  |
 | 3307(d) | 40:606(c). |  |
 | 3307(e) | 40:606(d). |  |
-| 3307(f) | 40:606(e). | Pub. L. 86–249, § 7(e), as added Pub. L. 100–678, § 3(b), Nov. 17, 1988, 102 Stat. 4049. |
-| 3307(g) | 40:606(f) (related to this section). | Pub. L. 86–249, § 7(f) (related to this section), Sept. 9, 1959, as added Pub. L. 100–678, § 4, Nov. 17, 1988, 102 Stat. 4050. |
+| 3307(f) | 40:606(e). | Pub. L. 86–249, § 7(e), as added Pub. L. 100–678, § 3(b), Nov. 17, 1988, 102 Stat. 4049. |
+| 3307(g) | 40:606(f) (related to this section). | Pub. L. 86–249, § 7(f) (related to this section), Sept. 9, 1959, as added Pub. L. 100–678, § 4, Nov. 17, 1988, 102 Stat. 4050. |
 
 In this section, the words “Transportation and Infrastructure” are substituted for “Public Works and Transportation” in section 7 of the Public Buildings Act of 1959 (Public Law 86–249, 73 Stat. 480) because of section 1(a)(9) of the Act of June 3, 1995 (Public Law 104–14, 2:21 note prec.). The word “purchase” is omitted as being included in “acquire”.
 
@@ -471,27 +471,27 @@ In subsection (f)(2)(A), the word “first” is omitted as unnecessary.
 
 Section 11(b) of the Federal Assets Sale and Transfer Act of 2016, referred to in subsec. (b)(8), is section 11(b) of Pub. L. 114–287, which is set out in a note under section 1303 of this title.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (i)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (i)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The date of enactment of this subsection, referred to subsec. (j)(2), is the date of enactment of Pub. L. 118–272, which was approved Jan. 4, 2025.
 
 **Amendments**
 
-2025—Subsec. (b). Pub. L. 118–272, § 2304(c)(1), inserted “(referred to in this section as the ‘Administrator’)” after “Administrator of General Services” in introductory provisions.
+2025—Subsec. (b). Pub. L. 118–272, § 2304(c)(1), inserted “(referred to in this section as the ‘Administrator’)” after “Administrator of General Services” in introductory provisions.
 
-Subsec. (b)(9) to (11). Pub. L. 118–272, § 2304(c)(2)–(4), added pars. (9) to (11).
+Subsec. (b)(9) to (11). Pub. L. 118–272, § 2304(c)(2)–(4), added pars. (9) to (11).
 
-Subsec. (c). Pub. L. 118–272, § 2304(a), inserted at end “The Administrator shall notify, in writing, the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate of any increase of more than 5 percent of an estimated maximum cost or of any increase or decrease in the scope or size of a project of 5 or more percent. Such notification shall include an explanation regarding any such increase or decrease. The scope or size of a project shall not increase or decrease by more than 10 percent unless an amended prospectus is submitted and approved pursuant to this section.”
+Subsec. (c). Pub. L. 118–272, § 2304(a), inserted at end “The Administrator shall notify, in writing, the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate of any increase of more than 5 percent of an estimated maximum cost or of any increase or decrease in the scope or size of a project of 5 or more percent. Such notification shall include an explanation regarding any such increase or decrease. The scope or size of a project shall not increase or decrease by more than 10 percent unless an amended prospectus is submitted and approved pursuant to this section.”
 
-Subsec. (i). Pub. L. 118–272, § 2304(f), added subsec. (i).
+Subsec. (i). Pub. L. 118–272, § 2304(f), added subsec. (i).
 
-Subsec. (j). Pub. L. 118–272, § 2310, added subsec. (j).
+Subsec. (j). Pub. L. 118–272, § 2310, added subsec. (j).
 
 2016—Subsec. (b)(8). Pub. L. 114–287 added par. (8).
 
-2007—Subsec. (b)(7). Pub. L. 110–140, § 323(a), added par. (7).
+2007—Subsec. (b)(7). Pub. L. 110–140, § 323(a), added par. (7).
 
-Subsecs. (f) to (h). Pub. L. 110–140, § 323(b), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+Subsecs. (f) to (h). Pub. L. 110–140, § 323(b), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -499,7 +499,7 @@ Subsecs. (f) to (h). Pub. L. 110–140, § 323(b), added subsec. (f) and redes
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
-## § 3308. Architectural or engineering services
+## § 3308. Architectural or engineering services
 
 **(a) Employment by Administrator.—** When the Administrator of General Services decides it to be necessary, the Administrator may employ, by contract or otherwise, without regard to chapters 33 and 51 and subchapter III of chapter 53 of title 5, civil service rules and regulations, or section 6101(b) to (d) of title 41, the services of established architectural or engineering corporations, firms, or individuals, to the extent the Administrator may require those services for any public building authorized to be constructed or altered under this chapter.
 
@@ -507,13 +507,13 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 **(c) Responsibility of Administrator.—** Notwithstanding any other provision of this section, the Administrator is responsible for all construction authorized by this chapter, including the interpretation of construction contracts, approval of material and workmanship supplied under a construction contract, approval of changes in the construction contract, certification of vouchers for payments due the contractor, and final settlement of the contract.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1163; Pub. L. 111–350, § 5(*l*)(17), Jan. 4, 2011, 124 Stat. 3852.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1163; Pub. L. 111–350, § 5(*l*)(17), Jan. 4, 2011, 124 Stat. 3852.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3308(a) | 40:609(a). | Pub. L. 86–249, § 10, Sept. 9, 1959, 73 Stat. 481. |
+| 3308(a) | 40:609(a). | Pub. L. 86–249, § 10, Sept. 9, 1959, 73 Stat. 481. |
 | 3308(b) | 40:609(b). |  |
 | 3308(c) | 40:609(c). |  |
 
@@ -525,7 +525,7 @@ In subsection (a), the words “chapters 33 and 51 and subchapter III of chapter
 
 2011—Subsec. (a). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes (41 U.S.C. 5)”.
 
-## § 3309. Buildings and sites in the District of Columbia
+## § 3309. Buildings and sites in the District of Columbia
 
 **(a) In General.—** The purposes of this chapter shall be carried out in the District of Columbia as nearly as may be practicable in harmony with the plan of Peter Charles L’Enfant. Public buildings shall be constructed or altered to combine architectural beauty with practical utility.
 
@@ -545,10 +545,10 @@ In subsection (a), the words “chapters 33 and 51 and subchapter III of chapter
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3309(a) | 40:607(a). | Pub. L. 86–249, § 8(a), (b), Sept. 9, 1959, 73 Stat. 481; Pub. L. 87–476, §§ 1, 2, June 8, 1962, 76 Stat. 92. |
+| 3309(a) | 40:607(a). | Pub. L. 86–249, § 8(a), (b), Sept. 9, 1959, 73 Stat. 481; Pub. L. 87–476, §§ 1, 2, June 8, 1962, 76 Stat. 92. |
 | 3309(b) | 40:607(b). |  |
-| 3309(c) | 40:607(c). | Pub. L. 86–249, § 8(c), Sept. 9, 1959, as added Pub. L. 87–476, § 3, June 8, 1962, 76 Stat. 92. |
-| 3309(d) | 40:607(d). | Pub. L. 86–249, § 8(d), Sept. 9, 1959, as added Pub. L. 93–72, July 10, 1973, 87 Stat. 169. |
+| 3309(c) | 40:607(c). | Pub. L. 86–249, § 8(c), Sept. 9, 1959, as added Pub. L. 87–476, § 3, June 8, 1962, 76 Stat. 92. |
+| 3309(d) | 40:607(d). | Pub. L. 86–249, § 8(d), Sept. 9, 1959, as added Pub. L. 93–72, July 10, 1973, 87 Stat. 169. |
 
 In subsection (b), the words “Council of the District of Columbia” are substituted for “Board of Commissioners of the District of Columbia” [subsequently changed to “District of Columbia Council” because of section 402(431) of Reorganization Plan No. 3 of 1967 (eff. Aug. 11, 1967, 81 Stat. 951)] in section 8(b) of the Public Buildings Act of 1959 (Public Law 86–249, 73 Stat. 481) because of sections 401 and 404(a) of the District of Columbia Home Rule Act (Public Law 93–198, 87 Stat. 785, 787).
 
@@ -562,7 +562,7 @@ The Act of March 4, 1907, referred to in subsec. (c)(1), is act Mar. 4, 1907, ch
 
 The District of Columbia Stadium Act of 1957, referred to in subsec. (d), is Pub. L. 85–300, Sept. 7, 1957, 71 Stat. 619, which is not classified to the Code.
 
-## § 3310. Special rules for leased buildings
+## § 3310. Special rules for leased buildings
 
 For any building to be constructed for lease to, and for predominant use by, the Federal Government, the Administrator of General Services—
 
@@ -578,13 +578,13 @@ For any building to be constructed for lease to, and for predominant use by, the
 
 **(6)** shall ensure that any contract entered into for the building shall contain provisions permitting a reduction of rent during any period when the building is not in compliance with the specifications.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1164; Pub. L. 110–140, title III, § 323(d), Dec. 19, 2007, 121 Stat. 1591; Pub. L. 111–350, § 5(*l*)(18), Jan. 4, 2011, 124 Stat. 3852.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1164; Pub. L. 110–140, title III, § 323(d), Dec. 19, 2007, 121 Stat. 1591; Pub. L. 111–350, § 5(*l*)(18), Jan. 4, 2011, 124 Stat. 3852.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3310 | 40:618. | Pub. L. 86–249, § 20, as added Pub. L. 100–678, § 5, Nov. 17, 1988, 102 Stat. 4050. |
+| 3310 | 40:618. | Pub. L. 86–249, § 20, as added Pub. L. 100–678, § 5, Nov. 17, 1988, 102 Stat. 4050. |
 
 **Editorial Notes**
 
@@ -600,7 +600,7 @@ For any building to be constructed for lease to, and for predominant use by, the
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
-## § 3311. State administration of criminal and health and safety laws
+## § 3311. State administration of criminal and health and safety laws
 
 When the Administrator of General Services considers it desirable, the Administrator may assign to a State or a territory or possession of the United States any part of the authority of the Federal Government to administer criminal laws and health and safety laws with respect to land or an interest in land under the control of the Administrator and located in the State, territory, or possession. Assignment of authority under this section may be accomplished by filing with the chief executive officer of the State, territory, or possession a notice of assignment to take effect on acceptance, or in another manner as may be prescribed by the laws of the State, territory, or possession in which the land or interest is located.
 
@@ -610,11 +610,11 @@ When the Administrator of General Services considers it desirable, the Administr
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3311 | 40:617. | Pub. L. 86–249, § 19, as added Pub. L. 100–678, § 5, Nov. 17, 1988, 102 Stat. 4050. |
+| 3311 | 40:617. | Pub. L. 86–249, § 19, as added Pub. L. 100–678, § 5, Nov. 17, 1988, 102 Stat. 4050. |
 
 The words “Notwithstanding any other provision of law” and “commonwealth” are omitted as unnecessary.
 
-## § 3312. Compliance with nationally recognized codes
+## § 3312. Compliance with nationally recognized codes
 
 **(a) Application.—**
 
@@ -658,7 +658,7 @@ The words “Notwithstanding any other provision of law” and “commonwealth�
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3312(a)(1) | 40:619(g). | Pub. L. 86–249, § 21, as added Pub. L. 100–678, § 6(a), Nov. 17, 1988, 102 Stat. 4051. |
+| 3312(a)(1) | 40:619(g). | Pub. L. 86–249, § 21, as added Pub. L. 100–678, § 6(a), Nov. 17, 1988, 102 Stat. 4051. |
 | 3312(a)(2) | 40:619(h). |  |
 | 3312(b) | 40:619(a). |  |
 | 3312(c) | 40:619(b). |  |
@@ -731,7 +731,7 @@ Sec. 5. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Barack Obama.
 
-## § 3313. Procurement of life-cycle cost effective and energy efficient lighting systems
+## § 3313. Procurement of life-cycle cost effective and energy efficient lighting systems
 
 **(a) Definitions.—** In this section:
 
@@ -779,13 +779,13 @@ Barack Obama.
 
 **(h) Guidelines.—** The Administrator shall develop guidelines for the procurement and use of energy efficient lighting technologies that contain mercury in child care centers in public buildings.
 
-**(i) Applicability of Buy American Act.—** Acquisitions carried out pursuant to this section shall be subject to the requirements of the Buy American Act 1
+**(i) Applicability of Buy American Act.—** Acquisitions carried out pursuant to this section shall be subject to the requirements of the Buy American Act 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (41 U.S.C. 10c et seq.).
 
-(Added Pub. L. 110–140, title III, § 323(c)(1)(B), Dec. 19, 2007, 121 Stat. 1590; amended Pub. L. 117–202, § 3(a), Oct. 17, 2022, 136 Stat. 2224.)
+(Added Pub. L. 110–140, title III, § 323(c)(1)(B), Dec. 19, 2007, 121 Stat. 1590; amended Pub. L. 117–202, § 3(a), Oct. 17, 2022, 136 Stat. 2224.)
 
 **Editorial Notes**
 
@@ -793,7 +793,7 @@ Barack Obama.
 
 The date of enactment of the BRIGHT Act, referred to in subsec. (b)(1)(B), is the date of enactment of Pub. L. 117–202, which was approved Oct. 17, 2022.
 
-The Buy American Act, referred to in subsec. (i), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, which was classified generally to sections 10a, 10b, and 10c of former Title 41, Public Contracts, and was substantially repealed and restated in chapter 83 (§ 8301 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Short Title of 1933 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+The Buy American Act, referred to in subsec. (i), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, which was classified generally to sections 10a, 10b, and 10c of former Title 41, Public Contracts, and was substantially repealed and restated in chapter 83 (§ 8301 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Short Title of 1933 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 **Prior Provisions**
 
@@ -801,25 +801,25 @@ A prior section 3313 was renumbered section 3315 of this title.
 
 **Amendments**
 
-2022—Pub. L. 117–202, § 3(a)(3), substituted “Procurement of life-cycle cost effective and energy efficient lighting systems” for “Use of energy efficient lighting fixtures and bulbs” in section catchline.
+2022—Pub. L. 117–202, § 3(a)(3), substituted “Procurement of life-cycle cost effective and energy efficient lighting systems” for “Use of energy efficient lighting fixtures and bulbs” in section catchline.
 
-Subsecs. (a) to (c). Pub. L. 117–202, § 3(a)(3), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which related to use of energy efficient lighting fixtures and bulbs in new and existing public buildings.
+Subsecs. (a) to (c). Pub. L. 117–202, § 3(a)(3), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which related to use of energy efficient lighting fixtures and bulbs in new and existing public buildings.
 
-Subsecs. (d), (e). Pub. L. 117–202, § 3(a)(3), added subsecs. (d) and (e). Former subsecs. (d) and (e) redesignated (f) and (g), respectively.
+Subsecs. (d), (e). Pub. L. 117–202, § 3(a)(3), added subsecs. (d) and (e). Former subsecs. (d) and (e) redesignated (f) and (g), respectively.
 
-Subsec. (f). Pub. L. 117–202, § 3(a)(2), (4)(A), redesignated subsec. (d) as (f) and substituted “lighting system” for “lighting fixture or bulb” in introductory provisions. Former subsec. (f) redesignated (h).
+Subsec. (f). Pub. L. 117–202, § 3(a)(2), (4)(A), redesignated subsec. (d) as (f) and substituted “lighting system” for “lighting fixture or bulb” in introductory provisions. Former subsec. (f) redesignated (h).
 
-Subsec. (f)(1). Pub. L. 117–202, § 3(a)(4)(B), substituted “the lighting system or the individual components of the lighting system are” for “the fixture or bulb is”.
+Subsec. (f)(1). Pub. L. 117–202, § 3(a)(4)(B), substituted “the lighting system or the individual components of the lighting system are” for “the fixture or bulb is”.
 
-Subsec. (f)(3). Pub. L. 117–202, § 3(a)(4)(C), substituted “lighting system” for “fixture or bulb”.
+Subsec. (f)(3). Pub. L. 117–202, § 3(a)(4)(C), substituted “lighting system” for “fixture or bulb”.
 
-Subsec. (g). Pub. L. 117–202, § 3(a)(2), (5), redesignated subsec. (e) as (g) and inserted “procurement and” before “use in public buildings”. Former subsec. (g) redesignated (i).
+Subsec. (g). Pub. L. 117–202, § 3(a)(2), (5), redesignated subsec. (e) as (g) and inserted “procurement and” before “use in public buildings”. Former subsec. (g) redesignated (i).
 
-Subsec. (h). Pub. L. 117–202, § 3(a)(2), (6), redesignated subsec. (f) as (h) and inserted “procurement and” before “use of energy efficient”. Former subsec. (h) struck out.
+Subsec. (h). Pub. L. 117–202, § 3(a)(2), (6), redesignated subsec. (f) as (h) and inserted “procurement and” before “use of energy efficient”. Former subsec. (h) struck out.
 
-Pub. L. 117–202, § 3(a)(1), struck out subsec. (h). Text read as follows: “The requirements of subsections (a) and (b) shall take effect 1 year after the date of enactment of this subsection.”
+Pub. L. 117–202, § 3(a)(1), struck out subsec. (h). Text read as follows: “The requirements of subsections (a) and (b) shall take effect 1 year after the date of enactment of this subsection.”
 
-Subsec. (i). Pub. L. 117–202, § 3(a)(2), redesignated subsec. (g) as (i).
+Subsec. (i). Pub. L. 117–202, § 3(a)(2), redesignated subsec. (g) as (i).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -829,7 +829,7 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 **Guidance**
 
-Pub. L. 117–202, § 2, Oct. 17, 2022, 136 Stat. 2224, provided that:
+Pub. L. 117–202, § 2, Oct. 17, 2022, 136 Stat. 2224, provided that:
 
 > “Not later than 1 year after the date of enactment of this Act [Oct. 17, 2022], the Administrator of General Services shall—
 
@@ -837,7 +837,7 @@ Pub. L. 117–202, § 2, Oct. 17, 2022, 136 Stat. 2224, provided that:
 
 > **“(2)** publish on the internet or otherwise make available to State, local, and Tribal entities information on ways to improve efficiency, effectiveness, and economy by procuring and using the most life-cycle cost effective and energy efficient lighting systems (as determined in accordance with section 3313 of title 40, United States Code).”
 
-## § 3314. Baby changing facilities in restrooms
+## § 3314. Baby changing facilities in restrooms
 
 **(a) Additional Requirement for the Construction, Alteration, and Acquisition of Public Buildings.—** Except as provided in subsection (b) and subject to any reasonable accommodations that may be made for individuals in accordance with the Americans with Disabilities Act (42 U.S.C. 12101 et seq.) restrooms in a public building shall be equipped with baby changing facilities that the Administrator determines are physically safe, sanitary, and appropriate.
 
@@ -855,15 +855,15 @@ Pub. L. 117–202, § 2, Oct. 17, 2022, 136 Stat. 2224, provided that:
 
 **(1) Baby changing facility.—** The term “baby changing facility” means a table or other device suitable for changing the diaper of a child age 3 or under.
 
-**(2) Pubic 1 [footnote: 1 So in original. Probably should be “Public”.] building.—** The term “public building” means a public building as defined in section 3301 and controlled by the Public Building Service of the General Services Administration.
+**(2) Pubic 1 [footnote: 1 So in original. Probably should be “Public”.] building.—** The term “public building” means a public building as defined in section 3301 and controlled by the Public Building Service of the General Services Administration.
 
-(Added Pub. L. 114–235, § 2(a)(2), Oct. 7, 2016, 130 Stat. 964.)
+(Added Pub. L. 114–235, § 2(a)(2), Oct. 7, 2016, 130 Stat. 964.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Americans with Disabilities Act, referred to in subsec. (a), probably means the Americans with Disabilities Act of 1990, Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act, referred to in subsec. (a), probably means the Americans with Disabilities Act of 1990, Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 **Prior Provisions**
 
@@ -873,9 +873,9 @@ A prior section 3314 was renumbered section 3315 of this title.
 
 **Applicability**
 
-Pub. L. 114–235, § 2(c), Oct. 7, 2016, 130 Stat. 965, provided that: “The requirement under section 3314(a) of title 40, United States Code, shall apply in the case of a public building constructed, altered, or acquired by the Administrator of General Services on or after the date that is 1 year after the date of the enactment of this Act [Oct. 7, 2016], beginning on that date.”
+Pub. L. 114–235, § 2(c), Oct. 7, 2016, 130 Stat. 965, provided that: “The requirement under section 3314(a) of title 40, United States Code, shall apply in the case of a public building constructed, altered, or acquired by the Administrator of General Services on or after the date that is 1 year after the date of the enactment of this Act [Oct. 7, 2016], beginning on that date.”
 
-## § 3315. Delegation
+## § 3315. Delegation
 
 **(a) When Allowed.—** The carrying out of the duties and powers of the Administrator of General Services under this chapter, in accordance with standards the Administrator prescribes—
 
@@ -885,13 +885,13 @@ Pub. L. 114–235, § 2(c), Oct. 7, 2016, 130 Stat. 965, provided that: “The
 
 **(b) No Exemption From Other Provisions of Chapter.—** Delegation under subsection (a) does not exempt the person to whom the delegation is made, or the carrying out of the delegated duty or power, from any other provision of this chapter.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1166, § 3313; Pub. L. 109–304, § 17(g)(3), Oct. 6, 2006, 120 Stat. 1709; renumbered § 3314, Pub. L. 110–140, title III, § 323(c)(1)(A), Dec. 19, 2007, 121 Stat. 1590; renumbered § 3315, Pub. L. 114–235, § 2(a)(1), Oct. 7, 2016, 130 Stat. 964.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1166, § 3313; Pub. L. 109–304, § 17(g)(3), Oct. 6, 2006, 120 Stat. 1709; renumbered § 3314, Pub. L. 110–140, title III, § 323(c)(1)(A), Dec. 19, 2007, 121 Stat. 1590; renumbered § 3315, Pub. L. 114–235, § 2(a)(1), Oct. 7, 2016, 130 Stat. 964.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3313(a) | 40:614 (1st sentence). | Pub. L. 86–249, § 15, Sept. 9, 1959, 73 Stat. 483. |
+| 3313(a) | 40:614 (1st sentence). | Pub. L. 86–249, § 15, Sept. 9, 1959, 73 Stat. 483. |
 | 3313(b) | 40:614 (last sentence). |  |
 
 In subsection (a), before clause (1), the words “duties and powers” are substituted for “responsibilities and authorities” for consistency in the revised title and with other titles of the United States Code.
@@ -916,7 +916,7 @@ A prior section 3315 was renumbered section 3316 of this title.
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
-## § 3316. Report to Congress
+## § 3316. Report to Congress
 
 **(a) Request by Either House of Congress or Any Committee.—** Within a reasonable time after a request of either House of Congress or any committee of Congress, the Administrator of General Services shall submit a report showing the location, space, cost, and status of each public building the construction, alteration, or acquisition of which—
 
@@ -926,13 +926,13 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 **(b) Request of Committee on Public Works and Environment or Committee on Transportation and Infrastructure.—** The Administrator and the United States Postal Service shall make building project surveys requested by resolution by the Committee on Environment and Public Works of the Senate or the Committee on Transportation and Infrastructure of the House of Representatives, and within a reasonable time shall make a report on the survey to Congress. The report shall contain all other information required to be included in a prospectus of the proposed public building project under section 3307(b) of this title.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1166, § 3314; renumbered § 3315, Pub. L. 110–140, title III, § 323(c)(1)(A), Dec. 19, 2007, 121 Stat. 1590; renumbered § 3316, Pub. L. 114–235, § 2(a)(1), Oct. 7, 2016, 130 Stat. 964.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1166, § 3314; renumbered § 3315, Pub. L. 110–140, title III, § 323(c)(1)(A), Dec. 19, 2007, 121 Stat. 1590; renumbered § 3316, Pub. L. 114–235, § 2(a)(1), Oct. 7, 2016, 130 Stat. 964.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3314(a) | 40:610(a). | Pub. L. 86–249, § 11, Sept. 9, 1959, 73 Stat. 481; Pub. L. 96–470, title II, § 211, Oct. 19, 1980, 94 Stat. 2246; Pub. L. 103–437, § 14(b)(2), Nov. 2, 1994, 108 Stat. 4591. |
+| 3314(a) | 40:610(a). | Pub. L. 86–249, § 11, Sept. 9, 1959, 73 Stat. 481; Pub. L. 96–470, title II, § 211, Oct. 19, 1980, 94 Stat. 2246; Pub. L. 103–437, § 14(b)(2), Nov. 2, 1994, 108 Stat. 4591. |
 | 3314(b) | 40:610(b). |  |
 
 In subsection (b), the words “United States Postal Service” are substituted for “Postmaster General” in section 11(b) of the Public Buildings Act of 1959 (Public Law 86–249, 73 Stat. 481) because of section 4(a) of the Postal Reorganization Act (Public Law 91–375, 84 Stat. 773). The words “Transportation and Infrastructure” are substituted for “Public Works and Transportation” in section 11(b) because of section 1(a)(9) of the Act of June 3, 1995 (Public Law 104–14, 2:21 note prec.).
@@ -955,17 +955,17 @@ A prior section 3316 was renumbered section 3317 of this title.
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
-## § 3317. Certain authority not affected
+## § 3317. Certain authority not affected
 
 This chapter does not limit or repeal the authority conferred by law on the United States Postal Service.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1167, § 3315; renumbered § 3316, Pub. L. 110–140, title III, § 323(c)(1)(A), Dec. 19, 2007, 121 Stat. 1590; renumbered § 3317, Pub. L. 114–235, § 2(a)(1), Oct. 7, 2016, 130 Stat. 964.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1167, § 3315; renumbered § 3316, Pub. L. 110–140, title III, § 323(c)(1)(A), Dec. 19, 2007, 121 Stat. 1590; renumbered § 3317, Pub. L. 114–235, § 2(a)(1), Oct. 7, 2016, 130 Stat. 964.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3315 | 40:615. | Pub. L. 86–249, § 16, Sept. 9, 1959, 73 Stat. 483; Pub. L. 91–375, § 6(m)(3), Aug. 12, 1970, 84 Stat. 782. |
+| 3315 | 40:615. | Pub. L. 86–249, § 16, Sept. 9, 1959, 73 Stat. 483; Pub. L. 91–375, § 6(m)(3), Aug. 12, 1970, 84 Stat. 782. |
 
 The text of 40:615(1) is omitted as obsolete.
 
@@ -983,7 +983,7 @@ The text of 40:615(1) is omitted as obsolete.
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
-## § 3318.1 [footnote: 1 Another section 3318 is set out after this section.] Lactation room in public buildings
+## § 3318.1 [footnote: 1 Another section 3318 is set out after this section.] Lactation room in public buildings
 
 **(a) Definitions.—** In this section:
 
@@ -1013,15 +1013,15 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 **(d) No Unauthorized Entry.—** Nothing in this section shall be construed to authorize an individual to enter a public building or portion thereof that the individual is not otherwise authorized to enter.
 
-(Added Pub. L. 116–30, § 2(a), July 25, 2019, 133 Stat. 1032.)
+(Added Pub. L. 116–30, § 2(a), July 25, 2019, 133 Stat. 1032.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 116–30, § 2(c), July 25, 2019, 133 Stat. 1033, provided that: “The amendments made by this section [enacting this section] shall take effect 1 year after the date of the enactment of this Act [July 25, 2019].”
+Pub. L. 116–30, § 2(c), July 25, 2019, 133 Stat. 1033, provided that: “The amendments made by this section [enacting this section] shall take effect 1 year after the date of the enactment of this Act [July 25, 2019].”
 
-## § 3318.1 [footnote: 1 Another section 3318 is set out preceding this section.] Availability of Federal building project information
+## § 3318.1 [footnote: 1 Another section 3318 is set out preceding this section.] Availability of Federal building project information
 
 **(a) In General.—** Not later than 180 days after the date of enactment of this section, and, at a minimum, on a quarterly basis thereafter, the Administrator shall make publicly available on a subpage of the website of the General Services Administration all prospectuses submitted pursuant to sections 3307 and 3316, and associated information subject to the following requirements:
 
@@ -1051,7 +1051,7 @@ Pub. L. 116–30, § 2(c), July 25, 2019, 133 Stat. 1033, provided that: “Th
 
 **(3) Associated information.—** The term “associated information” means resolutions approved by the committees of jurisdiction and other information as required pursuant to subsection (a).
 
-(Added Pub. L. 116–333, § 2(a), Jan. 13, 2021, 134 Stat. 5113.)
+(Added Pub. L. 116–333, § 2(a), Jan. 13, 2021, 134 Stat. 5113.)
 
 **Editorial Notes**
 
@@ -1059,8 +1059,8 @@ Pub. L. 116–30, § 2(c), July 25, 2019, 133 Stat. 1033, provided that: “Th
 
 The date of enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 116–333, which was approved Jan. 13, 2021.
 
-## § 3319. Interagency space coordination
+## § 3319. Interagency space coordination
 
 Unless a Federal agency specifically restricts the sharing of the information described in this section for national security purposes, the Administrator of General Services shall share with tenant Federal agencies pursuing new or replacement office space information on any other Federal agencies located in the same geographical area for purposes of determining opportunities for consolidations, collocations, or other space sharing to reduce the costs of space and maximize space utilization.
 
-(Added Pub. L. 118–272, div. B, title III, § 2304(e)(1), Jan. 4, 2025, 138 Stat. 3224.)
+(Added Pub. L. 118–272, div. B, title III, § 2304(e)(1), Jan. 4, 2025, 138 Stat. 3224.)

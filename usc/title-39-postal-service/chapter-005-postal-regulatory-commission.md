@@ -15,21 +15,21 @@ retrieved: 2026-10-11
 
 # CHAPTER 5—POSTAL REGULATORY COMMISSION
 
-## § 501. Establishment
+## § 501. Establishment
 
 The Postal Regulatory Commission is an independent establishment of the executive branch of the Government of the United States.
 
-(Added Pub. L. 109–435, title VI, § 601(a)(1), Dec. 20, 2006, 120 Stat. 3238.)
+(Added Pub. L. 109–435, title VI, § 601(a)(1), Dec. 20, 2006, 120 Stat. 3238.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–435, title VI, § 601(b), Dec. 20, 2006, 120 Stat. 3239, provided that: “The amendment made by subsection (a)(1) [enacting this section and section 502 of this title] shall not affect the appointment or tenure of any person serving as a Commissioner on the Postal Regulatory Commission (as so redesignated by section 604 [see Tables for classification]) under an appointment made before the date of enactment of this Act [Dec. 20, 2006] or any nomination made before that date, but, when any such office becomes vacant, the appointment of any person to fill that office shall be made in accordance with such amendment.”
+Pub. L. 109–435, title VI, § 601(b), Dec. 20, 2006, 120 Stat. 3239, provided that: “The amendment made by subsection (a)(1) [enacting this section and section 502 of this title] shall not affect the appointment or tenure of any person serving as a Commissioner on the Postal Regulatory Commission (as so redesignated by section 604 [see Tables for classification]) under an appointment made before the date of enactment of this Act [Dec. 20, 2006] or any nomination made before that date, but, when any such office becomes vacant, the appointment of any person to fill that office shall be made in accordance with such amendment.”
 
 **Flats Operations Study and Reform**
 
-Pub. L. 117–108, title II, § 206, Apr. 6, 2022, 136 Stat. 1148, provided that:
+Pub. L. 117–108, title II, § 206, Apr. 6, 2022, 136 Stat. 1148, provided that:
 
 > **“(a) Flats Operations Study.—**
 
@@ -71,7 +71,7 @@ Pub. L. 117–108, title II, § 206, Apr. 6, 2022, 136 Stat. 1148, provided th
 
 **Assessments of Ratemaking, Classification, and Other Provisions**
 
-Pub. L. 109–435, title VII, § 701, Dec. 20, 2006, 120 Stat. 3242, provided that:
+Pub. L. 109–435, title VII, § 701, Dec. 20, 2006, 120 Stat. 3242, provided that:
 
 > **“(a) In General.—** The Postal Regulatory Commission shall, at least every 5 years, submit a report to the President and Congress concerning—
 
@@ -83,7 +83,7 @@ Pub. L. 109–435, title VII, § 701, Dec. 20, 2006, 120 Stat. 3242, provided 
 
 **Report on Universal Postal Service and the Postal Monopoly**
 
-Pub. L. 109–435, title VII, § 702, Dec. 20, 2006, 120 Stat. 3243, provided that:
+Pub. L. 109–435, title VII, § 702, Dec. 20, 2006, 120 Stat. 3243, provided that:
 
 > **“(a) Report by the Postal Regulatory Commission.—**
 
@@ -121,7 +121,7 @@ Pub. L. 109–435, title VII, § 702, Dec. 20, 2006, 120 Stat. 3243, provided 
 
 **Provisions Relating to Cooperative Mailings**
 
-Pub. L. 109–435, title VII, § 711, Dec. 20, 2006, 120 Stat. 3248, provided that:
+Pub. L. 109–435, title VII, § 711, Dec. 20, 2006, 120 Stat. 3248, provided that:
 
 > **“(a) Study.—**
 
@@ -137,13 +137,13 @@ Pub. L. 109–435, title VII, § 711, Dec. 20, 2006, 120 Stat. 3248, provided 
 
 **Definitions**
 
-Pub. L. 117–108, § 2, Apr. 6, 2022, 136 Stat. 1127, provided that:
+Pub. L. 117–108, § 2, Apr. 6, 2022, 136 Stat. 1127, provided that:
 
 > **“(a) Commission.—** In this Act [see Tables for classification], the term ‘Commission’ means the Postal Regulatory Commission.
 
 > **“(b) Terms Defined in Title 39, United States Code.—** In this Act, the terms ‘competitive product’, ‘market-dominant product’, and ‘Postal Service’ have the meanings given those terms in section 102 of title 39, United States Code.”
 
-## § 502. Commissioners
+## § 502. Commissioners
 
 **(a)** The Postal Regulatory Commission is composed of 5 Commissioners, appointed by the President, by and with the advice and consent of the Senate. The Commissioners shall be chosen solely on the basis of their technical qualifications, professional standing, and demonstrated expertise in economics, accounting, law, or public administration, and may be removed by the President only for cause. Each individual appointed to the Commission shall have the qualifications and expertise necessary to carry out the enhanced responsibilities accorded Commissioners under the Postal Accountability and Enhancement Act. Not more than 3 of the Commissioners may be adherents of the same political party.
 
@@ -157,7 +157,7 @@ Pub. L. 117–108, § 2, Apr. 6, 2022, 136 Stat. 1127, provided that:
 
 **(f)** The Commissioners shall serve for terms of 6 years.
 
-(Added Pub. L. 109–435, title VI, § 601(a)(1), Dec. 20, 2006, 120 Stat. 3238.)
+(Added Pub. L. 109–435, title VI, § 601(a)(1), Dec. 20, 2006, 120 Stat. 3238.)
 
 **Editorial Notes**
 
@@ -171,23 +171,23 @@ The Postal Accountability and Enhancement Act, referred to in subsec. (a), is Pu
 
 Section not to affect the appointment or tenure of any person serving as a Commissioner on the Postal Regulatory Commission under an appointment made before Dec. 20, 2006, or any nomination made before that date, but when any such office becomes vacant, the appointment to fill that office to be made in accordance with this section, see section 601(b) of Pub. L. 109–435, set out as an Effective Date of 2006 Amendment note under section 501 of this title.
 
-## § 503. Rules; regulations; procedures
+## § 503. Rules; regulations; procedures
 
 The Postal Regulatory Commission shall promulgate rules and regulations and establish procedures, subject to chapters 5 and 7 of title 5, and take any other action they deem necessary and proper to carry out their functions and obligations to the Government of the United States and the people as prescribed under this title. Such rules, regulations, procedures, and actions shall not be subject to any change or supervision by the Postal Service.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 759, § 3603; renumbered § 503 and amended Pub. L. 109–435, title VI, §§ 601(a)(3), 604(a), title X, 1010(c)(1), Dec. 20, 2006, 120 Stat. 3239, 3241, 3261.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 759, § 3603; renumbered § 503 and amended Pub. L. 109–435, title VI, §§ 601(a)(3), 604(a), title X, 1010(c)(1), Dec. 20, 2006, 120 Stat. 3239, 3241, 3261.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Pub. L. 109–435, § 1010(c)(1), substituted “this title” for “this chapter”.
+2006—Pub. L. 109–435, § 1010(c)(1), substituted “this title” for “this chapter”.
 
-Pub. L. 109–435, § 604(a), substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+Pub. L. 109–435, § 604(a), substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
-Pub. L. 109–435, § 601(a)(3), renumbered section 3603 of this title as this section.
+Pub. L. 109–435, § 601(a)(3), renumbered section 3603 of this title as this section.
 
-## § 504. Administration
+## § 504. Administration
 
 **(a)** The Chairman of the Postal Regulatory Commission shall be the principal executive officer of the Commission. The Chairman shall exercise or direct the exercise of all the executive and administrative functions of the Commission, including functions of the Commission with respect to (1) the appointment of personnel employed under the Commission, except that the appointment of heads of major administrative units under the Commission shall require the approval of a majority of the members of the Commission, (2) the supervision of the personnel employed under the Commission and the distribution of business among them and among the Commissioners, and (3) the use and expenditure of funds.
 
@@ -241,7 +241,7 @@ The written concurrence of a majority of the Commissioners then holding office s
 
 **(B)** Paragraph (2) shall not prevent the Commission from requiring production of information in the course of any discovery procedure established in connection with a proceeding under this title. The Commission shall, by regulations based on rule 26(c) of the Federal Rules of Civil Procedure, establish procedures for ensuring appropriate confidentiality for information furnished to any party.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 759, § 3604; Pub. L. 94–421, § 4, Sept. 24, 1976, 90 Stat. 1305; renumbered § 504 and amended Pub. L. 109–435, title VI, §§ 601(a)(3), 602, 603(a), 604(a), 605(b), Dec. 20, 2006, 120 Stat. 3239–3242; Pub. L. 117–108, title II, §§ 205(a), 209(d), Apr. 6, 2022, 136 Stat. 1147, 1152; Pub. L. 117–286, § 4(b)(64), Dec. 27, 2022, 136 Stat. 4350.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 759, § 3604; Pub. L. 94–421, § 4, Sept. 24, 1976, 90 Stat. 1305; renumbered § 504 and amended Pub. L. 109–435, title VI, §§ 601(a)(3), 602, 603(a), 604(a), 605(b), Dec. 20, 2006, 120 Stat. 3239–3242; Pub. L. 117–108, title II, §§ 205(a), 209(d), Apr. 6, 2022, 136 Stat. 1147, 1152; Pub. L. 117–286, § 4(b)(64), Dec. 27, 2022, 136 Stat. 4350.)
 
 **Editorial Notes**
 
@@ -251,25 +251,25 @@ Rule 26(c) of the Federal Rules of Civil Procedure, referred to subsec. (g)(3)(B
 
 **Amendments**
 
-2022—Subsec. (d). Pub. L. 117–108, § 205(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated, out of the Postal Service Fund, such sums as may be necessary for the Postal Regulatory Commission. In requesting an appropriation under this subsection for a fiscal year, the Commission shall prepare and submit to the Congress under section 2009 a budget of the Commission’s expenses, including expenses for facilities, supplies, compensation, and employee benefits.”
+2022—Subsec. (d). Pub. L. 117–108, § 205(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated, out of the Postal Service Fund, such sums as may be necessary for the Postal Regulatory Commission. In requesting an appropriation under this subsection for a fiscal year, the Commission shall prepare and submit to the Congress under section 2009 a budget of the Commission’s expenses, including expenses for facilities, supplies, compensation, and employee benefits.”
 
-Subsec. (h). Pub. L. 117–108, § 209(d), struck out subsec. (h) which read as follows:
+Subsec. (h). Pub. L. 117–108, § 209(d), struck out subsec. (h) which read as follows:
 
 “(1) Notwithstanding any other provision of this title or of the Inspector General Act of 1978, the authority to select, appoint, and employ officers and employees of the Office of Inspector General of the Postal Regulatory Commission, and to obtain any temporary or intermittent services of experts or consultants (or an organization of experts or consultants) for such Office, shall reside with the Inspector General of the Postal Regulatory Commission.
 
 “(2) Except as provided in paragraph (1), any exercise of authority under this subsection shall, to the extent practicable, be in conformance with the applicable laws and regulations that govern selections, appointments, and employment, and the obtaining of any such temporary or intermittent services, within the Postal Regulatory Commission.”
 
-Subsec. (h)(1). Pub. L. 117–286, which directed substitution of “chapter 4 of title 5,” for “the Inspector General Act of 1978,”, could not be executed because of the intervening amendment by Pub. L. 117–108, § 209(d). See above.
+Subsec. (h)(1). Pub. L. 117–286, which directed substitution of “chapter 4 of title 5,” for “the Inspector General Act of 1978,”, could not be executed because of the intervening amendment by Pub. L. 117–108, § 209(d). See above.
 
-2006—Pub. L. 109–435, § 601(a)(3), renumbered section 3604 of this title as this section.
+2006—Pub. L. 109–435, § 601(a)(3), renumbered section 3604 of this title as this section.
 
-Subsec. (a). Pub. L. 109–435, § 604(a), substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+Subsec. (a). Pub. L. 109–435, § 604(a), substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
-Subsec. (d). Pub. L. 109–435, § 603(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to preparation, submission, and approval of Commission’s budget and payment of expenses incurred under approved budget.
+Subsec. (d). Pub. L. 109–435, § 603(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to preparation, submission, and approval of Commission’s budget and payment of expenses incurred under approved budget.
 
-Subsecs. (f), (g). Pub. L. 109–435, § 602, added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 109–435, § 602, added subsecs. (f) and (g).
 
-Subsec. (h). Pub. L. 109–435, § 605(b), added subsec. (h).
+Subsec. (h). Pub. L. 109–435, § 605(b), added subsec. (h).
 
 1976—Subsec. (a). Pub. L. 94–421 increased the authority of the Chairman to the exercise of all executive and administrative functions, including appointment of personnel and control over use and expenditure of funds, and struck out requirement that all final acts of the Commissioners be by a vote of an absolute majority.
 
@@ -287,7 +287,7 @@ Amendment by section 209(d) of Pub. L. 117–108 effective 180 days after Apr. 6
 
 **Effective Date of 2006 Amendment; Savings Provisions**
 
-Pub. L. 109–435, title VI, § 603(d), Dec. 20, 2006, 120 Stat. 3241, provided that:
+Pub. L. 109–435, title VI, § 603(d), Dec. 20, 2006, 120 Stat. 3241, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section, sections 2003 and 2009 of this title, and former section 8G of Pub. L. 95–452, see section 415 of Title 5, Government Organization and Employees] shall apply with respect to fiscal years beginning on or after October 1, 2008.
 
@@ -315,8 +315,8 @@ Sec. 102. The Office of Personnel Management shall prepare initial standards of 
 
 Sec. 103. The Office of Personnel Management shall issue the initial standards of conduct regulations applicable to the Commission not later than 120 days after the effective date of this Order. Thereafter, the Office may from time to time amend the regulations, consistent with this Order. The regulations and any amendments thereto shall be published in the Federal Register.
 
-## § 505. Officer of the Postal Regulatory Commission representing the general public
+## § 505. Officer of the Postal Regulatory Commission representing the general public
 
 The Postal Regulatory Commission shall designate an officer of the Postal Regulatory Commission in all public proceedings (such as developing rules, regulations, and procedures) who shall represent the interests of the general public.
 
-(Added Pub. L. 109–435, title VI, § 601(a)(4), Dec. 20, 2006, 120 Stat. 3239.)
+(Added Pub. L. 109–435, title VI, § 601(a)(4), Dec. 20, 2006, 120 Stat. 3239.)

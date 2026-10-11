@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 253 “EMERGENCY AND RAPID ACQUISITIONS”, as added by Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1828, and consisting of reserved section 3601, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1824(a), Jan. 1, 2021, 134 Stat. 4205.
+A prior chapter 253 “EMERGENCY AND RAPID ACQUISITIONS”, as added by Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1828, and consisting of reserved section 3601, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1824(a), Jan. 1, 2021, 134 Stat. 4205.
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title XVIII, § 1825, Dec. 18, 2025, 139 Stat. 1248, added item 3605. Amendment was made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title XVIII, § 1825, Dec. 18, 2025, 139 Stat. 1248, added item 3605. Amendment was made pursuant to operation of section 102 of this title.
 
-2024—Pub. L. 118–159, div. A, title VIII, §§ 804(a), 805(a), 861(a), Dec. 23, 2024, 138 Stat. 1966, 1969, 1999, added items 3602 to 3604. Amendments were made pursuant to operation of section 102 of this title.
+2024—Pub. L. 118–159, div. A, title VIII, §§ 804(a), 805(a), 861(a), Dec. 23, 2024, 138 Stat. 1966, 1969, 1999, added items 3602 to 3604. Amendments were made pursuant to operation of section 102 of this title.
 
-2022—Pub. L. 117–263, div. A, title VIII, § 804(a), Dec. 23, 2022, 136 Stat. 2696, amended chapter analysis generally, substituting “RAPID ACQUISITION PROCEDURES” for “[Reserved]” in heading and item 3601 for former items for subchapters I and II, which were both “[Reserved]”.
+2022—Pub. L. 117–263, div. A, title VIII, § 804(a), Dec. 23, 2022, 136 Stat. 2696, amended chapter analysis generally, substituting “RAPID ACQUISITION PROCEDURES” for “[Reserved]” in heading and item 3601 for former items for subchapters I and II, which were both “[Reserved]”.
 
-2021—Pub. L. 117–81, div. A, title XVII, § 1701(i)(5)(B)(i), Dec. 27, 2021, 135 Stat. 2141, amended Pub. L. 116–283, div. A, title XVIII, § 1824(a), Jan. 1, 2021, 134 Stat. 4205, which added this analysis, by substituting “[Reserved]” for “RAPID ACQUISITION PROCEDURES” in chapter heading.
+2021—Pub. L. 117–81, div. A, title XVII, § 1701(i)(5)(B)(i), Dec. 27, 2021, 135 Stat. 2141, amended Pub. L. 116–283, div. A, title XVIII, § 1824(a), Jan. 1, 2021, 134 Stat. 4205, which added this analysis, by substituting “[Reserved]” for “RAPID ACQUISITION PROCEDURES” in chapter heading.
 
-## § 3601. Procedures for urgent acquisition and deployment of capabilities needed in response to urgent operational needs or vital national security interest
+## § 3601. Procedures for urgent acquisition and deployment of capabilities needed in response to urgent operational needs or vital national security interest
 
 **(a) Procedures.—**
 
@@ -109,7 +109,7 @@ A prior chapter 253 “EMERGENCY AND RAPID ACQUISITIONS”, as added by Pub. L. 
 
 **(A)** Subject to subparagraph (C), in any fiscal year in which the Secretary of Defense makes a determination described in subparagraph (A), (B), or (C) of paragraph (1) with respect to a capability, or upon the Secretary making a determination that funds are necessary to immediately initiate a project under a rapid acquisition pathway based on a compelling national security need, the Secretary may use any funds available to the Department of Defense to urgently acquire and deploy such capability or immediately initiate such project, respectively, if the determination includes a written finding that the use of such funds is necessary to address in a timely manner the deficiency documented or identified under such subparagraph (A), (B), or (C) or the compelling national security need identified for purposes of such section 804 pathway,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 respectively.
 
@@ -195,37 +195,37 @@ respectively.
 
 **(3) Director of operational test and evaluation access.—** If a capability is deployed under the procedures prescribed pursuant to this section, or under any other authority, before operational test and evaluation of the capability is completed, the Director of Operational Test and Evaluation shall have access to operational records and data relevant to such capability in accordance with section 139(e)(3) of this title for the purpose of completing operational test and evaluation of the capability. Such access shall be provided in a time and manner determined by the Secretary of Defense consistent with requirements of operational security and other relevant operational requirements.
 
-(Added Pub. L. 117–263, div. A, title VIII, § 804(a), Dec. 23, 2022, 136 Stat. 2696; amended Pub. L. 118–31, div. A, title VIII, § 831, title XVIII, § 1801(a)(28), Dec. 22, 2023, 137 Stat. 336, 684; Pub. L. 118–159, div. A, title VIII, § 804(c)(1), title XVII, § 1701(a)(37), Dec. 23, 2024, 138 Stat. 1968, 2205; Pub. L. 119–60, div. A, title XVII, § 1701(a)(23), Dec. 18, 2025, 139 Stat. 1209.)
+(Added Pub. L. 117–263, div. A, title VIII, § 804(a), Dec. 23, 2022, 136 Stat. 2696; amended Pub. L. 118–31, div. A, title VIII, § 831, title XVIII, § 1801(a)(28), Dec. 22, 2023, 137 Stat. 336, 684; Pub. L. 118–159, div. A, title VIII, § 804(c)(1), title XVII, § 1701(a)(37), Dec. 23, 2024, 138 Stat. 1968, 2205; Pub. L. 119–60, div. A, title XVII, § 1701(a)(23), Dec. 18, 2025, 139 Stat. 1209.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Such section 804 pathway, referred to in subsec. (c)(3)(A), related to “section 804 rapid acquisition pathway” which is no longer defined in subsec. (a)(2) of this section after amendment by section 804(c)(1)(A)(ii) of Pub. L. 118–159 substituting “rapid acquisition pathway” for “section 804 rapid acquisition pathway” because section 804 of Pub. L. 114–92, formerly set out as a note preceding section 3201 of this title, was repealed by Pub. L. 118–159, div. A, title VIII, § 804(b), Dec. 23, 2024, 138 Stat. 1968. See 2024 Amendment note below.
+Such section 804 pathway, referred to in subsec. (c)(3)(A), related to “section 804 rapid acquisition pathway” which is no longer defined in subsec. (a)(2) of this section after amendment by section 804(c)(1)(A)(ii) of Pub. L. 118–159 substituting “rapid acquisition pathway” for “section 804 rapid acquisition pathway” because section 804 of Pub. L. 114–92, formerly set out as a note preceding section 3201 of this title, was repealed by Pub. L. 118–159, div. A, title VIII, § 804(b), Dec. 23, 2024, 138 Stat. 1968. See 2024 Amendment note below.
 
 **Amendments**
 
 2025—Subsec. (a)(1)(C). Pub. L. 119–60 inserted closing parenthesis after “(22 U.S.C. 2651a(m))”.
 
-2024—Subsec. (a)(1)(B). Pub. L. 118–159, § 804(c)(1)(A)(i), substituted “rapid acquisition pathway” for “section 804 rapid acquisition pathway”.
+2024—Subsec. (a)(1)(B). Pub. L. 118–159, § 804(c)(1)(A)(i), substituted “rapid acquisition pathway” for “section 804 rapid acquisition pathway”.
 
-Subsec. (a)(2). Pub. L. 118–159, § 1701(a)(37), which directed insertion of “note” before “prec.”, could not be executed because “prec.” did not appear after the intervening amendment by section 804(c)(1)(A)(ii) of Pub. L. 118–159. See below.
+Subsec. (a)(2). Pub. L. 118–159, § 1701(a)(37), which directed insertion of “note” before “prec.”, could not be executed because “prec.” did not appear after the intervening amendment by section 804(c)(1)(A)(ii) of Pub. L. 118–159. See below.
 
-Pub. L. 118–159, § 804(c)(1)(A)(ii), amended par. (2) generally. Prior to amendment, text read as follows: “In this section, the term ‘section 804 rapid acquisition pathway’ means the rapid fielding acquisition pathway or the rapid prototyping acquisition pathway authorized under section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 3201 prec.).”
+Pub. L. 118–159, § 804(c)(1)(A)(ii), amended par. (2) generally. Prior to amendment, text read as follows: “In this section, the term ‘section 804 rapid acquisition pathway’ means the rapid fielding acquisition pathway or the rapid prototyping acquisition pathway authorized under section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 3201 prec.).”
 
-Subsec. (b)(4). Pub. L. 118–159, § 804(c)(1)(B), substituted “section 3602 of this title” for “the guidance developed under section 804(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 3201 note prec.)”.
+Subsec. (b)(4). Pub. L. 118–159, § 804(c)(1)(B), substituted “section 3602 of this title” for “the guidance developed under section 804(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 3201 note prec.)”.
 
-Subsec. (c). Pub. L. 118–159, § 804(c)(1)(C), substituted “rapid acquisition pathway” for “section 804 rapid acquisition pathway” wherever appearing.
+Subsec. (c). Pub. L. 118–159, § 804(c)(1)(C), substituted “rapid acquisition pathway” for “section 804 rapid acquisition pathway” wherever appearing.
 
-2023—Subsec. (a)(1)(C). Pub. L. 118–31, § 831, added subpar. (C).
+2023—Subsec. (a)(1)(C). Pub. L. 118–31, § 831, added subpar. (C).
 
-Subsec. (b)(4). Pub. L. 118–31, § 1801(a)(28), inserted “note” before “prec.”
+Subsec. (b)(4). Pub. L. 118–31, § 1801(a)(28), inserted “note” before “prec.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Combatant Command Experimentation Authority**
 
-Pub. L. 119–60, div. A, title VIII, § 873, Dec. 18, 2025, 139 Stat. 1003, provided that:
+Pub. L. 119–60, div. A, title VIII, § 873, Dec. 18, 2025, 139 Stat. 1003, provided that:
 
 > **“(a) Authority.—** Each commander of a combatant command shall have the authority to conduct experimentation, prototyping, and technology demonstrations to support the development and testing of innovative technologies and capability solutions to address operational needs identified by the combatant command.
 
@@ -243,7 +243,7 @@ Pub. L. 119–60, div. A, title VIII, § 873, Dec. 18, 2025, 139 Stat. 1003, p
 
 **Rapid Response to Emergent Technology Advancements or Threats**
 
-Pub. L. 118–31, div. A, title II, § 229, Dec. 22, 2023, 137 Stat. 200, provided that:
+Pub. L. 118–31, div. A, title II, § 229, Dec. 22, 2023, 137 Stat. 200, provided that:
 
 > **“(a) Authorities.—** Upon approval by the Secretary of Defense of a determination described in subsection (b), the Secretary of a military department may use the rapid acquisition and funding authorities established pursuant to section 3601 of title 10, United States Code, to initiate urgent or emerging operational development activities for a period of up to one year, in order to—
 
@@ -299,7 +299,7 @@ Pub. L. 118–31, div. A, title II, § 229, Dec. 22, 2023, 137 Stat. 200, prov
 
 **Special Authority for Rapid Contracting for Commanders of Combatant Commands**
 
-Pub. L. 118–31, div. A, title VIII, § 843, Dec. 22, 2023, 137 Stat. 342, provided that:
+Pub. L. 118–31, div. A, title VIII, § 843, Dec. 22, 2023, 137 Stat. 342, provided that:
 
 > **“(a) In General.—** The commander of a combatant command, upon providing a written determination to a senior contracting official (as defined in section 1737 of title 10, United States Code), may request use of the special authorities described in subsection (b)—
 
@@ -355,19 +355,19 @@ Pub. L. 118–31, div. A, title VIII, § 843, Dec. 22, 2023, 137 Stat. 342, pr
 
 **Notice to Committees on Appropriations To Be Concurrently Submitted to Subcommittees on Defense**
 
-Pub. L. 119–75, div. A, title VIII, § 8070, Feb. 3, 2026, 140 Stat. 216, provided that: “Any notice that is required to be submitted to the Committees on Appropriations of the House of Representatives and the Senate under section 3601 of title 10, United States Code, as added by section 804(a) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 [Pub. L. 117–263] shall be submitted pursuant to that requirement concurrently to the Subcommittees on Defense of the Committees on Appropriations of the House of Representatives and the Senate.”
+Pub. L. 119–75, div. A, title VIII, § 8070, Feb. 3, 2026, 140 Stat. 216, provided that: “Any notice that is required to be submitted to the Committees on Appropriations of the House of Representatives and the Senate under section 3601 of title 10, United States Code, as added by section 804(a) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 [Pub. L. 117–263] shall be submitted pursuant to that requirement concurrently to the Subcommittees on Defense of the Committees on Appropriations of the House of Representatives and the Senate.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 118–47, div. A, title VIII, § 8071, Mar. 23, 2024, 138 Stat. 501.
+Pub. L. 118–47, div. A, title VIII, § 8071, Mar. 23, 2024, 138 Stat. 501.
 
-Pub. L. 117–328, div. C, title VIII, § 8072, Dec. 29, 2022, 136 Stat. 4605.
+Pub. L. 117–328, div. C, title VIII, § 8072, Dec. 29, 2022, 136 Stat. 4605.
 
-Pub. L. 117–103, div. C, title VIII, § 8074, Mar. 15, 2022, 136 Stat. 193, as amended by Pub. L. 117–263, div. A, title VIII, § 804(d)(2), Dec. 23, 2022, 136 Stat. 2701.
+Pub. L. 117–103, div. C, title VIII, § 8074, Mar. 15, 2022, 136 Stat. 193, as amended by Pub. L. 117–263, div. A, title VIII, § 804(d)(2), Dec. 23, 2022, 136 Stat. 2701.
 
 **Rapid Acquisition and Deployment Procedures for United States Special Operations Command**
 
-Pub. L. 113–291, div. A, title VIII, § 851, Dec. 19, 2014, 128 Stat. 3457, as amended by Pub. L. 117–263, div. A, title VIII, § 804(d)(3), Dec. 23, 2022, 136 Stat. 2701, provided that:
+Pub. L. 113–291, div. A, title VIII, § 851, Dec. 19, 2014, 128 Stat. 3457, as amended by Pub. L. 117–263, div. A, title VIII, § 804(d)(3), Dec. 23, 2022, 136 Stat. 2701, provided that:
 
 > **“(a) Authority to Establish Procedures.—** The Secretary may prescribe procedures for the rapid acquisition and deployment of items for the United States Special Operations Command that are currently under development by the Department of Defense or available from the commercial sector and are—
 
@@ -417,7 +417,7 @@ Pub. L. 113–291, div. A, title VIII, § 851, Dec. 19, 2014, 128 Stat. 3457, 
 
 > **“(2) Notification after use of procedures.—** The Secretary of Defense shall notify the congressional defense committees not later than 48 hours after each use of the procedures prescribed pursuant to this section.”
 
-## § 3602. Middle tier of acquisition for rapid prototyping and rapid fielding
+## § 3602. Middle tier of acquisition for rapid prototyping and rapid fielding
 
 **(a) Guidance Required.—** The Under Secretary of Defense for Acquisition and Sustainment, in consultation with the Comptroller of the Department of Defense and the Vice Chairman of the Joint Chiefs of Staff, shall establish pathways as described under subsection (b) to establish a process for conducting middle tier acquisitions for programs or projects that are intended to be completed in a period of two to five years.
 
@@ -469,15 +469,15 @@ Pub. L. 113–291, div. A, title VIII, § 851, Dec. 19, 2014, 128 Stat. 3457, 
 
 **(F)** If an operational capability is fielded for a program or project for which the authority under this section is used, the appropriate service acquisition executive may permit continuous iterative prototyping and fielding under the same program or project for an unlimited number of subsequent periods, where each period is intended to be five years.
 
-(Added Pub. L. 118–159, div. A, title VIII, § 804(a), Dec. 23, 2024, 138 Stat. 1966.)
+(Added Pub. L. 118–159, div. A, title VIII, § 804(a), Dec. 23, 2024, 138 Stat. 1966.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in Pub. L. 114–92, div. A, title VIII, § 804, Nov. 25, 2015, 129 Stat. 882, as amended by Pub. L. 114–328, div. A, title VIII, §§ 849(a), 864(b), 897, title X, § 1081(c)(2), Dec. 23, 2016, 130 Stat. 2293, 2304, 2327, 2419; Pub. L. 115–91, div. A, title VIII, § 866, Dec. 12, 2017, 131 Stat. 1495; Pub. L. 116–92, div. A, title IX, § 902(33), Dec. 20, 2019, 133 Stat. 1546; Pub. L. 116–283, div. A, title VIII, § 805, Jan. 1, 2021, 134 Stat. 3742, which was set out in a note preceding section 3201 of this title, prior to repeal by Pub. L. 118–159, div. A, title VIII, § 804(b), Dec. 23, 2024, 138 Stat. 1968.
+Provisions similar to those in this section were contained in Pub. L. 114–92, div. A, title VIII, § 804, Nov. 25, 2015, 129 Stat. 882, as amended by Pub. L. 114–328, div. A, title VIII, §§ 849(a), 864(b), 897, title X, § 1081(c)(2), Dec. 23, 2016, 130 Stat. 2293, 2304, 2327, 2419; Pub. L. 115–91, div. A, title VIII, § 866, Dec. 12, 2017, 131 Stat. 1495; Pub. L. 116–92, div. A, title IX, § 902(33), Dec. 20, 2019, 133 Stat. 1546; Pub. L. 116–283, div. A, title VIII, § 805, Jan. 1, 2021, 134 Stat. 3742, which was set out in a note preceding section 3201 of this title, prior to repeal by Pub. L. 118–159, div. A, title VIII, § 804(b), Dec. 23, 2024, 138 Stat. 1968.
 
-## § 3603. Software acquisition pathways
+## § 3603. Software acquisition pathways
 
 **(a) Software Acquisition and Development Pathways.—** The Secretary of Defense shall establish pathways as described under subsection (b) to provide for the efficient and effective acquisition, development, integration, and timely delivery of software and covered hardware.
 
@@ -557,13 +557,13 @@ Provisions similar to those in this section were contained in Pub. L. 114–92, 
 
 **(2)** The term “nondevelopmental item” has the meaning given in section 110 of title 41.
 
-(Added Pub. L. 118–159, div. A, title VIII, § 805(a), Dec. 23, 2024, 138 Stat. 1969; amended Pub. L. 119–60, div. A, title XVII, § 1701(a)(24), Dec. 18, 2025, 139 Stat. 1209.)
+(Added Pub. L. 118–159, div. A, title VIII, § 805(a), Dec. 23, 2024, 138 Stat. 1969; amended Pub. L. 119–60, div. A, title XVII, § 1701(a)(24), Dec. 18, 2025, 139 Stat. 1209.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in Pub. L. 116–92, div. A, title VIII, § 800, Dec. 20, 2019, 133 Stat. 1478, which was set out in a note under section 4571 of this title, prior to repeal by Pub. L. 118–159, div. A, title VIII, § 805(c)(1), Dec. 23, 2024, 138 Stat. 1972.
+Provisions similar to those in this section were contained in Pub. L. 116–92, div. A, title VIII, § 800, Dec. 20, 2019, 133 Stat. 1478, which was set out in a note under section 4571 of this title, prior to repeal by Pub. L. 118–159, div. A, title VIII, § 805(c)(1), Dec. 23, 2024, 138 Stat. 1972.
 
 **Amendments**
 
@@ -573,11 +573,11 @@ Provisions similar to those in this section were contained in Pub. L. 116–92, 
 
 **Guidance Required**
 
-Pub. L. 118–159, div. A, title VIII, § 805(b), Dec. 23, 2024, 138 Stat. 1972, provided that: “Not later than 90 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall issue or modify guidance to implement the requirements of this section.”
+Pub. L. 118–159, div. A, title VIII, § 805(b), Dec. 23, 2024, 138 Stat. 1972, provided that: “Not later than 90 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall issue or modify guidance to implement the requirements of this section.”
 
 **Implementation of Recommendations of the Final Report of the Defense Science Board Task Force on the Design and Acquisition of Software for Defense Systems**
 
-Pub. L. 115–232, div. A, title VIII, § 868, Aug. 13, 2018, 132 Stat. 1902, provided that:
+Pub. L. 115–232, div. A, title VIII, § 868, Aug. 13, 2018, 132 Stat. 1902, provided that:
 
 > **“(a) Implementation Required.—** Not later than 18 months after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense shall, except as provided under subsection (b), commence implementation of each recommendation submitted as part of the final report of the Defense Science Board Task Force on the Design and Acquisition of Software for Defense Systems.
 
@@ -597,7 +597,7 @@ Pub. L. 115–232, div. A, title VIII, § 868, Aug. 13, 2018, 132 Stat. 1902, 
 
 > **“(2)** a schedule, with specific milestones, for completing the implementation of the recommendation.”
 
-## § 3604. Program to accelerate the procurement and fielding of innovative technologies
+## § 3604. Program to accelerate the procurement and fielding of innovative technologies
 
 **(a) Program.—** Subject to availability of appropriations, the Secretary of Defense shall establish a competitive, merit-based program to accelerate the procurement and fielding of innovative technologies by, with respect to such technologies—
 
@@ -649,7 +649,7 @@ Pub. L. 115–232, div. A, title VIII, § 868, Aug. 13, 2018, 132 Stat. 1902, 
 
 **(f) Congressional Notification.—** The Secretary of Defense shall notify the congressional defense committees within 30 days after funding has been provided for a proposal selected for an award under the program established under this section.
 
-(Added Pub. L. 118–159, div. A, title VIII, § 861(a), Dec. 23, 2024, 138 Stat. 1999; amended Pub. L. 119–60, div. A, title VIII, § 813, Dec. 18, 2025, 139 Stat. 952.)
+(Added Pub. L. 118–159, div. A, title VIII, § 861(a), Dec. 23, 2024, 138 Stat. 1999; amended Pub. L. 119–60, div. A, title VIII, § 813, Dec. 18, 2025, 139 Stat. 952.)
 
 **Editorial Notes**
 
@@ -659,13 +659,13 @@ The date of the enactment of this section, referred to in subsec. (e), is the da
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in Pub. L. 117–81, div. A, title VIII, § 834, Dec. 27, 2021, 135 Stat. 1835, as amended by Pub. L. 117–263, div. A, title VIII, § 845, Dec. 23, 2022, 136 Stat. 2720, which was set out in a note under section 4061 of this title, prior to repeal by Pub. L. 118–159, div. A, title VIII, § 861(b), Dec. 23, 2024, 138 Stat. 2000.
+Provisions similar to those in this section were contained in Pub. L. 117–81, div. A, title VIII, § 834, Dec. 27, 2021, 135 Stat. 1835, as amended by Pub. L. 117–263, div. A, title VIII, § 845, Dec. 23, 2022, 136 Stat. 2720, which was set out in a note under section 4061 of this title, prior to repeal by Pub. L. 118–159, div. A, title VIII, § 861(b), Dec. 23, 2024, 138 Stat. 2000.
 
 **Amendments**
 
 2025—Subsec. (c). Pub. L. 119–60 struck out “Maximum” before “Amount” in heading and inserted “shall be greater than or equal to $10,000,000 and” before “shall not exceed”.
 
-## § 3605. Authority to acquire consumption-based solutions
+## § 3605. Authority to acquire consumption-based solutions
 
 **(a) Authority.—** The Secretary of Defense and the Secretaries of the military departments may acquire services through consumption-based solutions.
 
@@ -701,13 +701,13 @@ Provisions similar to those in this section were contained in Pub. L. 117–81, 
 
 **(e) Rule of Construction.—** Nothing in this section shall be construed to prohibit the use of the authority created under this section in combination with another contract type provided for under the Department of Defense Supplement to the Federal Acquisition Regulation.
 
-(Added Pub. L. 119–60, div. A, title XVIII, § 1825, Dec. 18, 2025, 139 Stat. 1248.)
+(Added Pub. L. 119–60, div. A, title XVIII, § 1825, Dec. 18, 2025, 139 Stat. 1248.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Pilot Program on the Use of Consumption-Based Solutions To Address Software-Intensive Warfighting Capability**
 
-Pub. L. 116–283, div. A, title VIII, § 834, Jan. 1, 2021, 134 Stat. 3754, provided that:
+Pub. L. 116–283, div. A, title VIII, § 834, Jan. 1, 2021, 134 Stat. 3754, provided that:
 
 > **“(a) In General.—** Subject to the availability of appropriations, the Secretary of Defense is authorized to establish a pilot program to explore the use of consumption-based solutions to address software-intensive warfighting capability.
 

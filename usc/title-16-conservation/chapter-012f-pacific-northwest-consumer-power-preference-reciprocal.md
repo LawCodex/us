@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 12F—PACIFIC NORTHWEST CONSUMER POWER PREFERENCE; RECIPROCAL PRIORITY IN OTHER REGIONS
 
-## § 837. Definitions
+## § 837. Definitions
 
 As used in this chapter—
 
@@ -33,7 +33,7 @@ As used in this chapter—
 
 **(g)** Terms not defined herein shall, unless the context requires otherwise, have the meaning given them in the March 1949 Glossary of Important Power and Rate Terms prepared under the supervision of the Federal Power Commission.
 
-(Pub. L. 88–552, § 1, Aug. 31, 1964, 78 Stat. 756; Pub. L. 95–91, title III, § 302(a), Aug. 4, 1977, 91 Stat. 578; Pub. L. 96–501, § 8(e), Dec. 5, 1980, 94 Stat. 2729.)
+(Pub. L. 88–552, § 1, Aug. 31, 1964, 78 Stat. 756; Pub. L. 95–91, title III, § 302(a), Aug. 4, 1977, 91 Stat. 578; Pub. L. 96–501, § 8(e), Dec. 5, 1980, 94 Stat. 2729.)
 
 **Editorial Notes**
 
@@ -49,15 +49,15 @@ Amendment by Pub. L. 96–501 effective Dec. 5, 1980, see section 11 of Pub. L. 
 
 **Transfer of Functions**
 
-“Secretary of Energy” substituted for “Secretary of the Interior” in subsec. (a) pursuant to Pub. L. 95–91, § 302(a), which is classified to section 7152(a) of Title 42, The Public Health and Welfare.
+“Secretary of Energy” substituted for “Secretary of the Interior” in subsec. (a) pursuant to Pub. L. 95–91, § 302(a), which is classified to section 7152(a) of Title 42, The Public Health and Welfare.
 
 The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
-## § 837a. Limitation of sale, delivery, and exchange of electric energy and electric peaking capacity for use outside Pacific Northwest to surplus energy and surplus peaking capacity; notice to customers; inspection of contract drafts
+## § 837a. Limitation of sale, delivery, and exchange of electric energy and electric peaking capacity for use outside Pacific Northwest to surplus energy and surplus peaking capacity; notice to customers; inspection of contract drafts
 
 Subject to the provisions of this chapter, the sale, delivery, and exchange of electric energy generated at, and peaking capacity of, Federal hydroelectric plants in the Pacific Northwest for use outside the Pacific Northwest shall be limited to surplus energy and surplus peaking capacity. At least 30 days prior to the execution of any contract for the sale, delivery, or exchange of surplus energy or surplus peaking capacity for use outside the Pacific Northwest, the Secretary shall give the then customers of the Bonneville Power Administration written notice that negotiations for such a contract are pending, and thereafter, at any customer’s request, make available for its inspection current drafts of the proposed contract.
 
-(Pub. L. 88–552, § 2, Aug. 31, 1964, 78 Stat. 756.)
+(Pub. L. 88–552, § 2, Aug. 31, 1964, 78 Stat. 756.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -65,7 +65,7 @@ Subject to the provisions of this chapter, the sale, delivery, and exchange of e
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
-## § 837b. Contract terms and conditions for use of electric energy outside Pacific Northwest
+## § 837b. Contract terms and conditions for use of electric energy outside Pacific Northwest
 
 **(a) Surplus energy; discontinuance of deliveries to maintain ability to meet requirements of Pacific Northwest customers; purchaser’s responsibility for hardships; deliveries by non-Federal utility for use on contiguous distribution system not deemed deliveries for use outside Pacific Northwest**
 
@@ -83,45 +83,45 @@ Any contract for the disposition of surplus peaking capacity shall provide that 
 
 The Secretary, in making any determination of the energy requirements of any Pacific Northwest customer which is a non-Federal utility having hydroelectric generating facilities, shall exclude any amounts of hydroelectric energy generated in the Pacific Northwest and disposed of outside the Pacific Northwest by the utility which, through reasonable measures, could have been conserved or otherwise kept available for the utility’s own needs in the Pacific Northwest. The Secretary may sell the utility as a replacement therefor only what would otherwise be surplus energy.
 
-(Pub. L. 88–552, § 3, Aug. 31, 1964, 78 Stat. 756.)
+(Pub. L. 88–552, § 3, Aug. 31, 1964, 78 Stat. 756.)
 
-## § 837c. Contract limitations and conditions for use of electric energy and peaking capacity of plants in other marketing areas for use within Pacific Northwest
+## § 837c. Contract limitations and conditions for use of electric energy and peaking capacity of plants in other marketing areas for use within Pacific Northwest
 
 Any contract of the Secretary for the sale or exchange of electric energy generated at, or peaking capacity of, Federal hydroelectric plants in marketing areas outside the Pacific Northwest for use within the Pacific Northwest shall be subject to limitations and conditions corresponding to those provided in sections 837a and 837b of this title for any contract for the sale or exchange of hydroelectric energy or peaking capacity generated within the Pacific Northwest for use outside the Pacific Northwest.
 
-(Pub. L. 88–552, § 4, Aug. 31, 1964, 78 Stat. 757.)
+(Pub. L. 88–552, § 4, Aug. 31, 1964, 78 Stat. 757.)
 
-## § 837d. Exchange contracts
+## § 837d. Exchange contracts
 
 Without regard to the limitations specified in sections 837a and 837b of this title, the Secretary may enter into contracts for the exchange with areas other than the Pacific Northwest of (1) surplus energy during the Pacific Northwest storage refill period, (2) any hydroelectric energy during the Pacific Northwest storage refill period which will be returned to the Pacific Northwest in equal amounts during the same Pacific Northwest refill period or the succeeding storage drawdown period, (3) any hydroelectric energy which will be returned to the Pacific Northwest in equal amounts during the same Pacific Northwest storage drawdown period, (4) hydroelectric peaking capacity, or (5) surplus peaking capacity for energy. All benefits from such exchanges, including resulting increases of firm power, shall be shared equitably by the areas involved, having regard to the secondary energy and other contributions made by each.
 
-(Pub. L. 88–552, § 5, Aug. 31, 1964, 78 Stat. 758.)
+(Pub. L. 88–552, § 5, Aug. 31, 1964, 78 Stat. 758.)
 
-## § 837e. Transmission lines for other electric energy; rates
+## § 837e. Transmission lines for other electric energy; rates
 
 Any capacity in Federal transmission lines connecting, either by themselves or with non-Federal lines, a generating plant in the Pacific Northwest or Canada with the other area or with any other area outside the Pacific Northwest, which is not required for the transmission of Federal energy or the energy described in section 837h of this title, shall be made available as a carrier for transmission of other electric energy between such areas. The transmission of other electric energy shall be at equitable rates determined by the Secretary, but such rates shall be subject to equitable adjustment at appropriate intervals not less frequently than once in every five years as agreed to by the parties. No contract for the transmission of non-Federal energy on a firm basis shall be affected by any increase, subsequent to the execution of such contract, in the requirements for transmission of Federal energy, the energy described in section 837h of this title, or other electric energy.
 
-(Pub. L. 88–552, § 6, Aug. 31, 1964, 78 Stat. 758.)
+(Pub. L. 88–552, § 6, Aug. 31, 1964, 78 Stat. 758.)
 
-## § 837f. Purchaser priority on Pacific Northwest power; amendment of existing contracts and new contracts to include priority provisions
+## § 837f. Purchaser priority on Pacific Northwest power; amendment of existing contracts and new contracts to include priority provisions
 
 The Secretary shall offer to amend, without imposing any other requirements as a condition to such amendment, all existing contracts for the sale or exchange of electric power generated at Federal hydroelectric plants in the Pacific Northwest to include, and shall include in all new contracts, provisions giving the purchaser priority on electric power generated at such plants in conformity with the provisions of this chapter.
 
-(Pub. L. 88–552, § 7, Aug. 31, 1964, 78 Stat. 758.)
+(Pub. L. 88–552, § 7, Aug. 31, 1964, 78 Stat. 758.)
 
-## § 837g. Transmission lines between Pacific Northwest and Pacific Southwest; prohibition against construction of lines or related facilities; exceptions of lines and facilities recommended by Secretary or authorized by Congress; authority of Secretary to construct other transmission lines unaffected
+## § 837g. Transmission lines between Pacific Northwest and Pacific Southwest; prohibition against construction of lines or related facilities; exceptions of lines and facilities recommended by Secretary or authorized by Congress; authority of Secretary to construct other transmission lines unaffected
 
 No electric transmission lines or related facilities shall be constructed by any Federal agency outside the Pacific Northwest for the purpose of transmitting electric energy between the Pacific Northwest and Pacific Southwest, nor shall any arrangement for transmission capacity be executed by any Federal agency for the purpose of financing such lines and related facilities to be constructed by non-Federal entities, except those lines and facilities recommended for Federal construction in the Report of the Secretary of the Interior submitted to Congress on June 24, 1964, as supplemented on July 27, 1964, or as hereafter specifically authorized by Congress: *Provided*, That, except with respect to electric transmission lines and related facilities for the purpose of transmitting electric energy between the two regions above mentioned, nothing herein shall be construed as expanding or diminishing in any way the present authority of the Secretary of Energy to construct transmission lines to market power and energy.
 
-(Pub. L. 88–552, § 8, Aug. 31, 1964, 78 Stat. 758; Pub. L. 95–91, title III, § 302(a), Aug. 4, 1977, 91 Stat. 578.)
+(Pub. L. 88–552, § 8, Aug. 31, 1964, 78 Stat. 758; Pub. L. 95–91, title III, § 302(a), Aug. 4, 1977, 91 Stat. 578.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Functions**
 
-“Secretary of Energy” substituted for “Secretary of the Interior” in the proviso in text pursuant to Pub. L. 95–91, § 302(a), which is classified to section 7152(a) of Title 42, The Public Health and Welfare.
+“Secretary of Energy” substituted for “Secretary of the Interior” in the proviso in text pursuant to Pub. L. 95–91, § 302(a), which is classified to section 7152(a) of Title 42, The Public Health and Welfare.
 
-## § 837g–1. Construction of additional facilities by Secretary of Energy for mutually beneficial power sales between Pacific Northwest and California; contribution of funds by non-Federal entities
+## § 837g–1. Construction of additional facilities by Secretary of Energy for mutually beneficial power sales between Pacific Northwest and California; contribution of funds by non-Federal entities
 
 Notwithstanding the provisions of section 837g of this title, the Secretary of Energy is authorized to construct or participate in the construction of such additional facilities as he deems necessary to allow mutually beneficial power sales between the Pacific Northwest and California and to accept funds contributed by non-Federal entities for that purpose.
 
@@ -133,11 +133,11 @@ Notwithstanding the provisions of section 837g of this title, the Secretary of E
 
 Section was not enacted as part of Pub. L. 88–552 which comprises this chapter.
 
-## § 837h. Provisions not applicable to Canyon Ferry project or benefits and exchanges under Treaty between Canada and United States; preference of power users in Montana not modified
+## § 837h. Provisions not applicable to Canyon Ferry project or benefits and exchanges under Treaty between Canada and United States; preference of power users in Montana not modified
 
 The provisions of this chapter shall not be applicable to (1) the Canyon Ferry project and (2), except as provided in section 837e of this title, downstream power benefits to which Canada is entitled under the treaty between Canada and the United States relating to the cooperative development of the water resources of the Columbia River Basin, signed at Washington, January 17, 1961, nor to energy or capacity disposed of to Canada in any exchange pursuant to paragraph 1 or 2 of article VIII thereof. Nothing in this chapter shall be construed to modify the geographical preference of power users in the State of Montana which is established by the Hungry Horse Dam Act (Act of June 4, 1944, 58 Stat. 270), as amended.
 
-(Pub. L. 88–552, § 9, Aug. 31, 1964, 78 Stat. 758.)
+(Pub. L. 88–552, § 9, Aug. 31, 1964, 78 Stat. 758.)
 
 **Editorial Notes**
 

@@ -15,13 +15,13 @@ retrieved: 2026-10-11
 
 # CHAPTER 11—IRRIGATION OF ALLOTTED LANDS
 
-## § 381. Irrigation lands; regulation of use of water
+## § 381. Irrigation lands; regulation of use of water
 
 In cases where the use of water for irrigation is necessary to render the lands within any Indian reservation available for agricultural purposes, the Secretary of the Interior is authorized to prescribe such rules and regulations as he may deem necessary to secure a just and equal distribution thereof among the Indians residing upon any such reservations; and no other appropriation or grant of water by any riparian proprietor shall be authorized or permitted to the damage of any other riparian proprietor.
 
-(Feb. 8, 1887, ch. 119, § 7, 24 Stat. 390.)
+(Feb. 8, 1887, ch. 119, § 7, 24 Stat. 390.)
 
-## § 382. Irrigation projects under Reclamation Act
+## § 382. Irrigation projects under Reclamation Act
 
 In carrying out any irrigation project which may be undertaken under the provisions of the Act of June seventeenth, nineteen hundred and two (Thirty-second Statutes, page three hundred and eighty-eight), known as “The Reclamation Act,” and which may make possible, and provide for in connection with the reclamation of other lands, the irrigation of all or any part of the irrigable lands heretofore included in allotments made to Indians under section 334 of this title, the Secretary of the Interior is authorized to make such arrangement and agreement in reference thereto as said Secretary deems for the best interest of the Indians: *Provided*, That no lien or charge for construction, operation, or maintenance shall thereby be created against any such lands.
 
@@ -31,7 +31,7 @@ In carrying out any irrigation project which may be undertaken under the provisi
 
 **References in Text**
 
-Act of June seventeenth, nineteen hundred and two, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§ 371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
+Act of June seventeenth, nineteen hundred and two, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§ 371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
 
 **Codification**
 
@@ -43,27 +43,27 @@ A further proviso authorized the expenditure of a limited amount from the approp
 
 Similar provisions were contained in act Apr. 30, 1908, ch. 153, 35 Stat. 85.
 
-## § 383. Repealed. Pub. L. 97–293, title II, § 224(f), Oct. 12, 1982, 96 Stat. 1273
+## § 383. Repealed. Pub. L. 97–293, title II, § 224(f), Oct. 12, 1982, 96 Stat. 1273
 
-Section, act Aug. 4, 1910, ch. 140, § 1, 36 Stat. 270, provided that no new irrigation project on any Indian reservation, allotments, or lands, could be undertaken until it had been estimated for and a maximum limit of cost ascertained from surveys, plans, and reports submitted by chief irrigation engineer in Indian Service and approved by Commissioner of Indian Affairs and Secretary of the Interior, that such limit of cost could in no case be exceeded without express authorization of Congress, and that no project to cost in the aggregate to exceed $35,000 could be undertaken on any Indian reservation or allotment, without specific authority of Congress.
+Section, act Aug. 4, 1910, ch. 140, § 1, 36 Stat. 270, provided that no new irrigation project on any Indian reservation, allotments, or lands, could be undertaken until it had been estimated for and a maximum limit of cost ascertained from surveys, plans, and reports submitted by chief irrigation engineer in Indian Service and approved by Commissioner of Indian Affairs and Secretary of the Interior, that such limit of cost could in no case be exceeded without express authorization of Congress, and that no project to cost in the aggregate to exceed $35,000 could be undertaken on any Indian reservation or allotment, without specific authority of Congress.
 
-## § 384. Employment of superintendents of irrigation
+## § 384. Employment of superintendents of irrigation
 
 The Commissioner of Indian Affairs, under the direction of the Secretary of the Interior, may employ superintendents of irrigation who shall be skilled irrigation engineers, not to exceed seven in number.
 
-(Apr. 4, 1910, ch. 140, § 1, 36 Stat. 271.)
+(Apr. 4, 1910, ch. 140, § 1, 36 Stat. 271.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 385. Maintenance charges; reimbursement of construction costs; apportionment of cost
+## § 385. Maintenance charges; reimbursement of construction costs; apportionment of cost
 
 For lands irrigable under any irrigation system or reclamation project the Secretary of the Interior may fix maintenance charges which shall be paid as he may direct, such payments to be available for use in maintaining the project or system for which collected: *Provided further*, That all moneys expended under this provision shall be reimbursable where the Indians have adequate funds to repay the Government, such reimbursements to be made under such rules and regulations as the Secretary of the Interior may prescribe: *Provided further*, That the Secretary of the Interior is authorized and directed to apportion the cost of any irrigation project constructed for Indians and made reimbursable out of tribal funds of said Indians in accordance with the benefits received by each individual Indian so far as practicable from said irrigation project, said cost to be apportioned against such individual Indian under such rules, regulations, and conditions as the Secretary of the Interior may prescribe.
 
-(Apr. 4, 1910, ch. 140, §§ 1, 3, 36 Stat. 270, 272; Aug. 1, 1914, ch. 222, § 1, 38 Stat. 583; Aug. 7, 1946, ch. 770, § 1(8), 60 Stat. 867; Pub. L. 97–293, title II, § 224(f), Oct. 12, 1982, 96 Stat. 1273.)
+(Apr. 4, 1910, ch. 140, §§ 1, 3, 36 Stat. 270, 272; Aug. 1, 1914, ch. 222, § 1, 38 Stat. 583; Aug. 7, 1946, ch. 770, § 1(8), 60 Stat. 867; Pub. L. 97–293, title II, § 224(f), Oct. 12, 1982, 96 Stat. 1273.)
 
 **Editorial Notes**
 
@@ -79,25 +79,25 @@ A provision in act Aug. 1, 1914, appropriated a specific sum for the constructio
 
 1946—Act Aug. 7, 1946, discontinued provisions requiring Secretary of the Interior to transmit annual cost accounts to Congress of all moneys expended on each irrigation project.
 
-## § 385a. Irrigation projects; deposit of assessments as trust fund; disposition of fund
+## § 385a. Irrigation projects; deposit of assessments as trust fund; disposition of fund
 
 Effective August 7, 1946, collections made from water users on each Indian irrigation project on account of assessments levied to meet the cost of operating and maintaining such project shall be deposited into the Treasury for credit to a trust-fund account pursuant to section 1321 of title 31, and shall be available for expenditure in carrying out the purposes for which collected.
 
-(Aug. 7, 1946, ch. 802, § 1, 60 Stat. 895.)
+(Aug. 7, 1946, ch. 802, § 1, 60 Stat. 895.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Section 1321 of title 31” substituted in text for “section 20 of the Permanent Appropriation Repeal Act, 1934 (48 Stat. 1227) [31 U.S.C. 725s]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+“Section 1321 of title 31” substituted in text for “section 20 of the Permanent Appropriation Repeal Act, 1934 (48 Stat. 1227) [31 U.S.C. 725s]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-Section was formerly classified to section 725s–1 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 725s–1 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
-## § 385b. Amounts creditable to fund
+## § 385b. Amounts creditable to fund
 
 There shall be credited to each trust-fund account established under section 385a of this title the excess, if any, of (1) the unexpended balance of any repealed special fund appropriation to which operation and maintenance collections were credited prior to July 1, 1935, and (2) the amount of receipts covered into the Treasury pursuant to section 4 of the Permanent Appropriation Repeal Act, 1934 (48 Stat. 1227), over expenditures from appropriations provided for the operation and maintenance of the irrigation project from which such unexpended balance or receipts were derived, and the amount so credited shall be subject to expenditure as prescribed in section 385a of this title.
 
-(Aug. 7, 1946, ch. 802, § 2, 60 Stat. 895.)
+(Aug. 7, 1946, ch. 802, § 2, 60 Stat. 895.)
 
 **Editorial Notes**
 
@@ -107,13 +107,13 @@ Section 4 of the Permanent Appropriation Repeal Act, 1934, referred to in text, 
 
 **Codification**
 
-Section was formerly classified to section 725s–2 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 725s–2 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
-## § 385c. Appropriation and disposition of power revenues
+## § 385c. Appropriation and disposition of power revenues
 
 Revenues collected after August 7, 1946, from power operations on each Indian irrigation project and deposited into the Treasury for credit to miscellaneous receipts pursuant to section 4 of the Permanent Appropriation Repeal Act, 1934 (48 Stat. 1227), or pursuant to other provisions of law, are authorized to be appropriated annually, in specific or in indefinite amounts, equal to the collections so credited, for the following purposes in connection with the respective projects from which such revenues are derived: (1) Payment of the expenses of operating and maintaining the power system; (2) creation and maintenance of reserve funds to be available for making repairs and replacements to, defraying emergency expenses for, and insuring continuous operation of the power system, the fund for each project to be maintained at such level, within limits set by the Director of the Office of Management and Budget, as may from time to time be prescribed by the Secretary of the Interior; (3) amortization, in accordance with the repayment provisions of the applicable statutes or contracts, of construction costs allocated to be returned from power revenues; and (4) payment of other expenses and obligations chargeable to power revenues to the extent required or permitted by law.
 
-(Aug. 7, 1946, ch. 802, § 3, 60 Stat. 895; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085.)
+(Aug. 7, 1946, ch. 802, § 3, 60 Stat. 895; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085.)
 
 **Editorial Notes**
 
@@ -123,7 +123,7 @@ Section 4 of the Permanent Appropriation Repeal Act, 1934, referred to in text, 
 
 **Codification**
 
-Section was formerly classified to section 725s–3 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 725s–3 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 **Executive Documents**
 
@@ -131,29 +131,29 @@ Section was formerly classified to section 725s–3 of Title 31 prior to the gen
 
 All functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085. Section 102 of Reorg. Plan No. 2 of 1970, redesignated Bureau of the Budget as Office of Management and Budget.
 
-## § 386. Reimbursement of construction charges
+## § 386. Reimbursement of construction charges
 
 The Secretary of the Interior is authorized and directed to require the owners of irrigable land under any irrigation system constructed for the benefit of Indians and to which water for irrigation purposes can be delivered to begin partial reimbursement of the construction charges, where reimbursement is required by law, at such times and in such amounts as he may deem best; all payments hereunder to be credited on a per acre basis in favor of the land in behalf of which such payments shall have been made and to be deducted from the total per acre charge assessable against said land.
 
-(Feb. 14, 1920, ch. 75, § 1, 41 Stat. 409.)
+(Feb. 14, 1920, ch. 75, § 1, 41 Stat. 409.)
 
-## § 386a. Adjustment of reimbursable debts; construction charges
+## § 386a. Adjustment of reimbursable debts; construction charges
 
 The Secretary of the Interior is hereby authorized and directed to adjust or eliminate reimbursable charges of the Government of the United States existing as debts against individual Indians or tribes of Indians in such a way as shall be equitable and just in consideration of all the circumstances under which such charges were made: *Provided*, That the collection of all construction costs against any Indian-owned lands within any Government irrigation project is hereby deferred, and no assessments shall be made on behalf of such charges against such lands until the Indian title thereto shall have been extinguished, and any construction assessments heretofore levied against such lands in accordance with the provisions of section 386 of this title, and uncollected, are hereby canceled: *Provided further*, That the Secretary shall report such adjustments and eliminations to the Congress not later than sixty calendar days following the end of the fiscal year in which they are made: *Provided further*, That any proceedings hereunder shall not be effective until approved by Congress unless Congress shall have failed to act favorably or unfavorably thereon by concurrent resolution within ninety calendar days after the filing of said report, in which case they shall become effective at the termination of the said ninety calendar days: *Provided further*, That the Secretary shall adjust or eliminate charges, defer collection of construction costs, and make no assessment on behalf of such charges for beneficiaries that hold leases on Hawaiian home lands, to the same extent as is permitted for individual Indians or tribes of Indians under this section.
 
-(July 1, 1932, ch. 369, 47 Stat. 564; Pub. L. 97–375, title II, § 208(a), Dec. 21, 1982, 96 Stat. 1824; Pub. L. 104–42, title II, § 207, Nov. 2, 1995, 109 Stat. 364.)
+(July 1, 1932, ch. 369, 47 Stat. 564; Pub. L. 97–375, title II, § 208(a), Dec. 21, 1982, 96 Stat. 1824; Pub. L. 104–42, title II, § 207, Nov. 2, 1995, 109 Stat. 364.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1995—Pub. L. 104–42 inserted before period at end “: *Provided further*, That the Secretary shall adjust or eliminate charges, defer collection of construction costs, and make no assessment on behalf of such charges for beneficiaries that hold leases on Hawaiian home lands, to the same extent as is permitted for individual Indians or tribes of Indians under this section”.
+1995—Pub. L. 104–42 inserted before period at end “: *Provided further*, That the Secretary shall adjust or eliminate charges, defer collection of construction costs, and make no assessment on behalf of such charges for beneficiaries that hold leases on Hawaiian home lands, to the same extent as is permitted for individual Indians or tribes of Indians under this section”.
 
-1982—Pub. L. 97–375, § 208(a)(1), substituted “That the Secretary shall report such adjustments and eliminations to the Congress not later than sixty calendar days following the end of the fiscal year in which they are made” for “That a report shall be made to Congress annually, on the first Monday in December, showing adjustments so made during the preceding fiscal year” in second proviso.
+1982—Pub. L. 97–375, § 208(a)(1), substituted “That the Secretary shall report such adjustments and eliminations to the Congress not later than sixty calendar days following the end of the fiscal year in which they are made” for “That a report shall be made to Congress annually, on the first Monday in December, showing adjustments so made during the preceding fiscal year” in second proviso.
 
-Pub. L. 97–375, § 208(a)(2), substituted “ninety calendar days” for “sixty legislative days” wherever appearing.
+Pub. L. 97–375, § 208(a)(2), substituted “ninety calendar days” for “sixty legislative days” wherever appearing.
 
-## § 387. Omitted
+## § 387. Omitted
 
 **Editorial Notes**
 
@@ -195,17 +195,17 @@ Mar. 4, 1929, ch. 705, 45 Stat. 1573.
 
 Mar. 7, 1928, ch. 137, 45 Stat. 210.
 
-## § 388. Claims for damages; settlement by agreement
+## § 388. Claims for damages; settlement by agreement
 
 The Secretary of the Interior is authorized to pay out of funds available for the Indian irrigation projects for damages caused to owners of lands or other private property of any kind by reason of the operations of the United States, its officers or employees, in the survey, construction, operation, or maintenance of irrigation works of such projects and which may be compromised by agreement between the claimant and the Secretary of the Interior or such officers as he may designate: *Provided*, That the total of any such claims authorized to be settled as herein contemplated shall not exceed 5 per centum of the funds available for the project under which such claims arise during any one fiscal year.
 
 (Feb. 20, 1929, ch. 279, 45 Stat. 1252.)
 
-## § 389. Investigation and adjustment of irrigation charges on lands within projects on Indian reservations
+## § 389. Investigation and adjustment of irrigation charges on lands within projects on Indian reservations
 
 The Secretary of the Interior is authorized and directed to cause an investigation to be made to determine whether the owners of non-Indian lands under Indian irrigation projects and under projects where the United States has purchased water rights for Indians are unable to pay irrigation charges, including construction, maintenance, and operating charges, because of inability to operate such lands profitably by reason of lack of fertility of the soil, inadequacy of water supply, defects of irrigation works, or for any other causes. Where the Secretary finds that said landowners are unable to make payment due to the existence of such causes, he may adjust, defer, or cancel such charges, in whole or in part, as the facts and conditions warrant. In adjusting or deferring any such charges the Secretary may enter into contracts with said land owners for the payment of past due charges, but such contracts shall not extend the payment of such charges over a period in excess of ten years.
 
-(June 22, 1936, ch. 692, § 1, 49 Stat. 1803.)
+(June 22, 1936, ch. 692, § 1, 49 Stat. 1803.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -227,7 +227,7 @@ Action of the Secretary of the Interior taken on May 19, 1942, pursuant to autho
 
 **Uintah Indian Irrigation Project**
 
-Pub. L. 91–403, §§ 1–5, Sept. 18, 1970, 84 Stat. 843, 844, authorized the Secretary of the Interior to reimburse the Ute Tribe of the Uintah and Ouray Reservation for tribal funds that were used to construct, operate, and maintain the Uintah Indian irrigation project, Utah.
+Pub. L. 91–403, §§ 1–5, Sept. 18, 1970, 84 Stat. 843, 844, authorized the Secretary of the Interior to reimburse the Ute Tribe of the Uintah and Ouray Reservation for tribal funds that were used to construct, operate, and maintain the Uintah Indian irrigation project, Utah.
 
 Action of Secretary of the Interior taken pursuant to authority contained in sections 389 to 389e of this title with respect to lands within the Uintah Indian Irrigation Project was confirmed by Congress in act May 28, 1941, ch. 142, 55 Stat. 209.
 
@@ -245,39 +245,39 @@ In accordance with sections 389 to 389e of this title, the order of the Secretar
 
 In accordance with sections 389 to 389e of this title, the order of the Secretary of the Interior, canceling delinquent irrigation charges of $36,439.70 and accrued interest therein, and providing for a deferred payment of $8,706.27, as shown in schedules A, B, and C of such order, was approved by Pub. L. 87–516, July 2, 1962, 76 Stat. 128, provided that the cancellation under schedule B not become effective until the landowners agree to pay the balance of such delinquent charges amounting to $1,556.40.
 
-## § 389a. Declaring lands to be temporarily nonirrigable
+## § 389a. Declaring lands to be temporarily nonirrigable
 
 Where the Secretary finds that any such lands cannot be cultivated profitably due to a present lack of water supply, proper drainage facilities, or need of additional construction work, he shall declare such lands temporarily nonirrigable for periods not to exceed five years and no charges shall be assessed against such lands during such periods.
 
-(June 22, 1936, ch. 692, § 2, 49 Stat. 1804.)
+(June 22, 1936, ch. 692, § 2, 49 Stat. 1804.)
 
-## § 389b. Elimination to permanently nonirrigable lands
+## § 389b. Elimination to permanently nonirrigable lands
 
 Where the Secretary finds that any such lands are permanently nonirrigable he may, with the consent of the landowner, eliminate such lands from the project.
 
-(June 22, 1936, ch. 692, § 3, 49 Stat. 1804.)
+(June 22, 1936, ch. 692, § 3, 49 Stat. 1804.)
 
-## § 389c. Cancellation of charges in absence of lien or contract for payment
+## § 389c. Cancellation of charges in absence of lien or contract for payment
 
 Where irrigation assessments against any such lands remained unpaid at the time the Indian title to such lands became extinguished and no lien existed and attached to such lands for the payment of charges so assessed and no contract for the payment of such charges was entered into, the Secretary shall cancel all such charges.
 
-(June 22, 1936, ch. 692, § 4, 49 Stat. 1804.)
+(June 22, 1936, ch. 692, § 4, 49 Stat. 1804.)
 
-## § 389d. Rules and regulations
+## § 389d. Rules and regulations
 
 The Secretary shall have power to make such rules and regulations as may be necessary to carry out the provisions of sections 389 to 389e of this title.
 
-(June 22, 1936, ch. 692, § 5, 49 Stat. 1804.)
+(June 22, 1936, ch. 692, § 5, 49 Stat. 1804.)
 
-## § 389e. Actions taken to be included in report to Congress
+## § 389e. Actions taken to be included in report to Congress
 
-The Secretary shall include in the report to Congress required pursuant to section 389a 1
+The Secretary shall include in the report to Congress required pursuant to section 389a 1
 
-<sup>1</sup>  So in original. Probably should refer to section 386a.
+<sup>1</sup> So in original. Probably should refer to section 386a.
 
 of this title, a description of actions taken under the provisions of sections 389 to 389e of this title during the preceding fiscal year. No proceedings under such sections shall become effective until approved by the Congress.
 
-(June 22, 1936, ch. 692, § 6, 49 Stat. 1804; Pub. L. 96–470, title II, § 206(b), Oct. 19, 1980, 94 Stat. 2244.)
+(June 22, 1936, ch. 692, § 6, 49 Stat. 1804; Pub. L. 96–470, title II, § 206(b), Oct. 19, 1980, 94 Stat. 2244.)
 
 **Editorial Notes**
 
@@ -291,23 +291,23 @@ of this title, a description of actions taken under the provisions of sections 3
 
 The action of the Secretary of the Interior in deferring the collection of certain irrigation charges against lands under the Blackfeet Indian irrigation project in Montana was approved by Joint Res. Apr. 11, 1940, ch. 78, 54 Stat. 105.
 
-## § 390. Concessions on reservoir sites and other lands in Indian irrigation projects; leases for agricultural, grazing, and other purposes
+## § 390. Concessions on reservoir sites and other lands in Indian irrigation projects; leases for agricultural, grazing, and other purposes
 
 The Secretary of the Interior be, and he is hereby, authorized, in his discretion, to grant concessions on reservoir sites, reserves for canals or flowage areas, and other lands under his jurisdiction which have been withdrawn or otherwise acquired in connection with the San Carlos, Fort Hall, Flathead, and Duck Valley or Western Shoshone irrigation projects for the benefit in whole or in part of Indians, and to lease such lands for agricultural, grazing, or other purposes: *Provided*, That no lands so leased shall be eligible for benefit payments under the crop control program, or the soil conservation act: *Provided further*, That such concessions may be granted or lands leased by the Secretary of the Interior under such rules, regulations, and laws as govern his administration of the public domain as far as applicable, for such considerations, monetary or otherwise, and for such periods of time as he may deem proper, the term of no concession to exceed a period of ten years: *Provided further*, That the funds derived from such concessions or leases, except funds so derived from Indian tribal property withdrawn for irrigation purposes and for which the tribe has not been compensated, shall be available for expenditure in accordance with the existing laws in the operation and maintenance of the irrigation projects with which they are connected. Any funds derived from reserves for which the tribe has not been compensated shall be deposited to the credit of the proper tribe: *Provided further*, That where tribal lands of any Indian tribe organized under section 5123 of this title, have been withdrawn or reserved for the purposes hereinbefore mentioned, such lands may be leased or concessions may be granted thereon only by the proper tribal authorities, upon such conditions and subject to such limitations as may be set forth in the constitution and bylaws or charter of the respective tribes: *Provided further*, That concessions for recreation and fish and wildlife purposes on San Carlos Lake may be granted only by the governing body of the San Carlos Apache Tribe upon such conditions and subject to such limitations as may be set forth in the constitution and bylaws of such Tribe.
 
-(Apr. 4, 1938, ch. 63, 52 Stat. 193; Pub. L. 102–575, title XXXVII, § 3710(e), Oct. 30, 1992, 106 Stat. 4750.)
+(Apr. 4, 1938, ch. 63, 52 Stat. 193; Pub. L. 102–575, title XXXVII, § 3710(e), Oct. 30, 1992, 106 Stat. 4750.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Pub. L. 102–575 inserted before period at end “: *Provided further*, That concessions for recreation and fish and wildlife purposes on San Carlos Lake may be granted only by the governing body of the San Carlos Apache Tribe upon such conditions and subject to such limitations as may be set forth in the constitution and bylaws of such Tribe”.
+1992—Pub. L. 102–575 inserted before period at end “: *Provided further*, That concessions for recreation and fish and wildlife purposes on San Carlos Lake may be granted only by the governing body of the San Carlos Apache Tribe upon such conditions and subject to such limitations as may be set forth in the constitution and bylaws of such Tribe”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective and Termination Dates of 1992 Amendment**
 
-Pub. L. 102–575, title XXXVII, § 3711, Oct. 30, 1992, 106 Stat. 4751, as amended by Pub. L. 103–435, § 13, Nov. 2, 1994, 108 Stat. 4572; Pub. L. 104–91, title II, § 202(a), Jan. 6, 1996, 110 Stat. 14; Pub. L. 104–261, § 3, Oct. 9, 1996, 110 Stat. 3176; Pub. L. 105–18, title II, § 5003(a), (b), June 12, 1997, 111 Stat. 181, provided that:
+Pub. L. 102–575, title XXXVII, § 3711, Oct. 30, 1992, 106 Stat. 4751, as amended by Pub. L. 103–435, § 13, Nov. 2, 1994, 108 Stat. 4572; Pub. L. 104–91, title II, § 202(a), Jan. 6, 1996, 110 Stat. 14; Pub. L. 104–261, § 3, Oct. 9, 1996, 110 Stat. 3176; Pub. L. 105–18, title II, § 5003(a), (b), June 12, 1997, 111 Stat. 181, provided that:
 
 > **“(a) Effective Date of Authorization.—** The authorization contained in section 3708(b) of this title [106 Stat. 4748] shall become effective as of the date the Secretary causes to be published in the Federal Register a statement of findings [The statement was published in the Federal Register on Dec. 28, 1999, 64 F.R. 72674.] that—
 
@@ -335,7 +335,7 @@ Pub. L. 102–575, title XXXVII, § 3711, Oct. 30, 1992, 106 Stat. 4751, as am
 
 [For definitions of terms used in section 3711 of Pub. L. 102–575, set out above, see section 3703 of Pub. L. 102–575, title XXXVII, Oct. 30, 1992, 106 Stat. 4741, as amended.]
 
-[Pub. L. 104–91, title II, § 202(b), Jan. 6, 1996, 110 Stat. 14, provided that:
+[Pub. L. 104–91, title II, § 202(b), Jan. 6, 1996, 110 Stat. 14, provided that:
 
 [“(1) In general.—The amendment made by subsection (a) [amending section 3711 of Pub. L. 102–575, set out above] shall take effect as of December 31, 1995.
 
